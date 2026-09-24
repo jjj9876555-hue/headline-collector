@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-25 02:32 JST／対象: 09/24 02:32 〜 09/25 02:32 JST（時刻はすべて日本時間）
+生成: 2026-09-25 02:45 JST／対象: 09/24 02:45 〜 09/25 02:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 84 | 09/24 02:41 | 09/25 02:16 | ⚠ 935分（05:51→21:26） |
-| FirstSquawk | 357 | 09/24 02:36 | 09/25 01:57 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 289 | 09/24 02:34 | 09/25 02:29 | ⚠ 108分（15:47→17:36） |
+| DeItaone | 84 | 09/24 02:48 | 09/25 02:39 | ⚠ 935分（05:51→21:26） |
+| FirstSquawk | 356 | 09/24 03:07 | 09/25 02:43 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 286 | 09/24 03:00 | 09/25 02:29 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 709 行（統合前 735 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 705 行（統合前 731 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 02:34 [financialjuice] Microsoft's Smith: AI safety won't advance if we rely on two companies, AI should have independent evaluators $MSFT
-- 09/24 02:36 [FirstSquawk] MICROSOFT PRESIDENT: GULF NATIONS PRESENT A TIMELY INVESTMENT OPPORTUNITY
-- 09/24 02:37 [FirstSquawk] MICROSOFT’S SMITH: AI SAFETY REQUIRES INDEPENDENT EVALUATORS; RELYING ON JUST TWO COMPANIES WON’T ADVANCE AI SAFETY
-- 09/24 02:38 [financialjuice] ECB'S Lane: We're not seeing any big wage response to the energy shock.
-- 09/24 02:41 [DeItaone] WHITE HOUSE OFFICIAL SAYS REPORT THAT US IS CONSIDERING A DIESEL EXPORT BAN IS 'FAKE NEWS'
-- 09/24 02:41 [FirstSquawk] WHITE HOUSE OFFICIAL: REPORTS OF US CONSIDERING DIESEL EXPORT BAN ARE “FAKE NEWS”
-- 09/24 02:42 [financialjuice] ❗ White House Official: Report that US is considering a diesel export ban is 'fake news'.
 - 09/24 02:48 [DeItaone] MCDONALD’S CEO: HIGH INFLATION IS HERE TO STAY McDonald’s CEO Chris Kempczinski says weak customer traffic and persistent inflation are becoming the new normal for the restaurant industry. U.S. same-store sales rose just 0.8% last quarter, …
 - 09/24 03:00 [financialjuice] White House on the Diesel ban: Earlier Politico report on the ban is not accurate.
 - 09/24 03:01 [DeItaone] FBI DATA ALLEGEDLY STOLEN BY HACKERS HAS SENSITIVE INFORMATION ABOUT BUREAU EMPLOYEES' INTELLIGENCE WORK
@@ -733,3 +726,6 @@
 - 09/25 02:10 [financialjuice] Trump takes China's Xi inside the Presidential Helicopter.
 - 09/25 02:16 [DeItaone] FED HIKE EXPECTATIONS SURGE Kalshi now forecasts 2.4 Fed rate hikes this year, up sharply from around 2.1 earlier this week. The jump signals a significant hawkish repricing of Fed expectations. https://t.co/mE21ntaTcP
 - 09/25 02:29 [financialjuice] China's Xi leaves white house after meetings with Trump.
+- 09/25 02:36 [FirstSquawk] ISRAELI OFFICIAL SAYS CHANCE OF US-IRAN DEAL IS SMALL - JPOST
+- 09/25 02:39 [DeItaone] BP EYES $2–5 BILLION U.S. SHALE DEAL BP is evaluating acquisitions to expand its U.S. shale business, according to Reuters sources. The company has reportedly studied oil-heavy shale assets worth $2–5 billion and is considering a bid for De…
+- 09/25 02:43 [FirstSquawk] CHINA'S XI LEAVES THE WHITE HOUSE AFTER MEETINGS WITH TRUMP.

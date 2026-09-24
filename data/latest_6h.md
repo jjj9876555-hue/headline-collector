@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-25 02:32 JST／対象: 09/24 20:32 〜 09/25 02:32 JST（時刻はすべて日本時間）
+生成: 2026-09-25 02:45 JST／対象: 09/24 20:45 〜 09/25 02:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 74 | 09/24 21:26 | 09/25 02:16 | 34分（01:16→01:51） |
-| FirstSquawk | 112 | 09/24 20:34 | 09/25 01:57 | 17分（21:00→21:17） |
+| DeItaone | 75 | 09/24 21:26 | 09/25 02:39 | 34分（01:16→01:51） |
+| FirstSquawk | 111 | 09/24 20:54 | 09/25 02:43 | 39分（01:57→02:36） |
 | financialjuice | 139 | 09/24 20:56 | 09/25 02:29 | 21分（22:09→22:31） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,9 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 20:34 [FirstSquawk] OVER £30BN IN UK DEFENCE CONTRACTS HAVE BEEN GIVEN TO FOREIGN SUPPLIERS IN THE LAST FIVE YEARS, YET THEY ARE RECORDED AS UK INVESTMENT.
-- 09/24 20:41 [FirstSquawk] UKRAINE DELEGATION IS ON ITS WAY BACK FROM US - ZELENSKYY AIDE
-- 09/24 20:43 [FirstSquawk] USD/JPY EXTENDS GAINS A FIFTH DAY, RISES 0.4% TO 158.88
 - 09/24 20:54 [FirstSquawk] REPUBLICANS IN STATES LIKE FLORIDA, KANSAS, AND UTAH ARE NOW AVOIDING THE UNPOPULAR PRESIDENT.
 - 09/24 20:56 [financialjuice] Iran's foreign minister Araqchi meets with Ukrainian counterpart in New York - Mehr News Agency
 - 09/24 20:58 [FirstSquawk] US FINAL AUG. BUILDING PERMITS 1.403M VS PRELIM 1.394M
@@ -336,3 +333,6 @@
 - 09/25 02:10 [financialjuice] Trump takes China's Xi inside the Presidential Helicopter.
 - 09/25 02:16 [DeItaone] FED HIKE EXPECTATIONS SURGE Kalshi now forecasts 2.4 Fed rate hikes this year, up sharply from around 2.1 earlier this week. The jump signals a significant hawkish repricing of Fed expectations. https://t.co/mE21ntaTcP
 - 09/25 02:29 [financialjuice] China's Xi leaves white house after meetings with Trump.
+- 09/25 02:36 [FirstSquawk] ISRAELI OFFICIAL SAYS CHANCE OF US-IRAN DEAL IS SMALL - JPOST
+- 09/25 02:39 [DeItaone] BP EYES $2–5 BILLION U.S. SHALE DEAL BP is evaluating acquisitions to expand its U.S. shale business, according to Reuters sources. The company has reportedly studied oil-heavy shale assets worth $2–5 billion and is considering a bid for De…
+- 09/25 02:43 [FirstSquawk] CHINA'S XI LEAVES THE WHITE HOUSE AFTER MEETINGS WITH TRUMP.
