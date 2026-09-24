@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 14:24 JST／対象: 09/24 02:24 〜 09/24 14:24 JST（時刻はすべて日本時間）
+生成: 2026-09-24 14:43 JST／対象: 09/24 02:43 〜 09/24 14:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 10 | 09/24 02:41 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 153 | 09/24 02:31 | 09/24 14:22 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 112 | 09/24 02:28 | 09/24 14:07 | ⚠ 68分（11:33→12:41） |
+| DeItaone | 9 | 09/24 02:48 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
+| FirstSquawk | 154 | 09/24 03:07 | 09/24 14:43 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 110 | 09/24 03:00 | 09/24 14:43 | ⚠ 68分（11:33→12:41） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 272 行（統合前 276 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 270 行（統合前 274 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 02:28 [financialjuice] Microsoft President: It is the right time to invest in Gulf nations. $MSFT
-- 09/24 02:31 [FirstSquawk] 4 COUNTERPARTIES TAKE $461 MLN AT FED REVERSE REPO (PREV $453 MLN, 8 BIDS)
-- 09/24 02:34 [financialjuice] Microsoft's Smith: AI safety won't advance if we rely on two companies, AI should have independent evaluators $MSFT
-- 09/24 02:36 [FirstSquawk] MICROSOFT PRESIDENT: GULF NATIONS PRESENT A TIMELY INVESTMENT OPPORTUNITY
-- 09/24 02:37 [FirstSquawk] MICROSOFT’S SMITH: AI SAFETY REQUIRES INDEPENDENT EVALUATORS; RELYING ON JUST TWO COMPANIES WON’T ADVANCE AI SAFETY
-- 09/24 02:38 [financialjuice] ECB'S Lane: We're not seeing any big wage response to the energy shock.
-- 09/24 02:41 [DeItaone] WHITE HOUSE OFFICIAL SAYS REPORT THAT US IS CONSIDERING A DIESEL EXPORT BAN IS 'FAKE NEWS'
-- 09/24 02:41 [FirstSquawk] WHITE HOUSE OFFICIAL: REPORTS OF US CONSIDERING DIESEL EXPORT BAN ARE “FAKE NEWS”
-- 09/24 02:42 [financialjuice] ❗ White House Official: Report that US is considering a diesel export ban is 'fake news'.
 - 09/24 02:48 [DeItaone] MCDONALD’S CEO: HIGH INFLATION IS HERE TO STAY McDonald’s CEO Chris Kempczinski says weak customer traffic and persistent inflation are becoming the new normal for the restaurant industry. U.S. same-store sales rose just 0.8% last quarter, …
 - 09/24 03:00 [financialjuice] White House on the Diesel ban: Earlier Politico report on the ban is not accurate.
 - 09/24 03:01 [DeItaone] FBI DATA ALLEGEDLY STOLEN BY HACKERS HAS SENSITIVE INFORMATION ABOUT BUREAU EMPLOYEES' INTELLIGENCE WORK
@@ -296,3 +287,10 @@
 - 09/24 14:12 [FirstSquawk] Russia says it struck Ukrainian defence facilities, logistics centres and military-use vessels
 - 09/24 14:14 [FirstSquawk] Polish Air Force concludes operations launched in response to Russian strikes on Ukraine
 - 09/24 14:22 [FirstSquawk] US JUDGE ORDERS TRUMP TO RESTORE WHITE HOUSE ACCESS FOR CNN, MS NOW AND POLITICO, RULING MEDIA BAN LIKELY UNCONSTITUTIONAL
+- 09/24 14:25 [financialjuice] Iran: UN team coordinates with relevant authorities - ISNA
+- 09/24 14:32 [FirstSquawk] Tencent unveils payment app for international visitors ahead of APEC summit: SCMP
+- 09/24 14:35 [FirstSquawk] Mercedes plans €800 million reduction in German labour costs, WiWo reports
+- 09/24 14:37 [FirstSquawk] L’Oréal launches €650M 7-year bond paying a 4.00% fixed coupon
+- 09/24 14:42 [FirstSquawk] Saudi Arabia’s merchandise exports decline 17.2% YoY in July, oil exports down 12.8%
+- 09/24 14:43 [financialjuice] ECB's Kocher: Must prevent too high inflation, becoming entrenched.
+- 09/24 14:43 [FirstSquawk] Saudi merchandise exports plunge 17.2% in July 2026, govt data shows

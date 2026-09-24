@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-24 14:24 JST／対象: 09/24 08:24 〜 09/24 14:24 JST（時刻はすべて日本時間）
+生成: 2026-09-24 14:43 JST／対象: 09/24 08:43 〜 09/24 14:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 98 | 09/24 08:46 | 09/24 14:22 | 25分（12:09→12:34） |
-| financialjuice | 59 | 09/24 08:25 | 09/24 14:07 | ⚠ 68分（11:33→12:41） |
+| FirstSquawk | 103 | 09/24 08:46 | 09/24 14:43 | 25分（12:09→12:34） |
+| financialjuice | 45 | 09/24 08:56 | 09/24 14:43 | ⚠ 68分（11:33→12:41） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 157 行（統合前 157 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 148 行（統合前 148 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 08:25 [financialjuice] Venezuela acting president Rodriguez: orderly legal transition to take place
-- 09/24 08:26 [financialjuice] Venezuela acting president Rodriguez: will ensure involvement of all political groups
-- 09/24 08:26 [financialjuice] Venezuela acting president Rodriguez: elections will take place
-- 09/24 08:27 [financialjuice] Meta unveils private processing for smart glasses
-- 09/24 08:27 [financialjuice] Venezuela acting President Rodriguez: Dialogue with opposition has begun
-- 09/24 08:27 [financialjuice] Venezuela acting president Rodriguez: institutions will be prepared for that process
-- 09/24 08:28 [financialjuice] Venezuela acting president Rodriguez: will guide nation from uncertainty to full democracy
-- 09/24 08:29 [financialjuice] Venezuela acting president Rodriguez: ready to collaborate with international community
-- 09/24 08:29 [financialjuice] Venezuela acting president Rodriguez: this is the moment to create the nation many seek to return to
-- 09/24 08:30 [financialjuice] Venezuela acting president Rodriguez: recovery will be gradual
-- 09/24 08:32 [financialjuice] Meta unveils smart glasses without cameras
-- 09/24 08:34 [financialjuice] Meta introduces third generation of Ray-Ban smart glasses
-- 09/24 08:36 [financialjuice] Meta: adventurer style smart glasses to start at $249
-- 09/24 08:39 [financialjuice] Meta: Ray-Ban Meta Audio launches October 13, available for pre-order at $349
-- 09/24 08:43 [financialjuice] Meta: Meta VR glasses to start at $1,299
-- 09/24 08:43 [financialjuice] Meta VR glasses to debut spring 2027 at $1,299.99
 - 09/24 08:46 [FirstSquawk] MICROSOFT PRESIDENT BRAD SMITH SUPPORTS INDEPENDENT AI SAFETY EVALUATORS, SAYING AI SAFETY SHOULD BE BUILT THROUGH MULTIPLE LAYERS INVOLVING MODEL DEVELOPERS, SOFTWARE PROVIDERS AND POTENTIALLY GOVERNMENTS.
 - 09/24 08:46 [FirstSquawk] MICROSOFT PRESIDENT BRAD SMITH SAYS MICROSOFT WILL ADJUST ITS 2030 CLIMATE GOALS AS AI DATA CENTER POWER DEMAND RISES, WHILE CONFIRMING PLANS TO USE 200 MEGAWATTS OF COMPUTING CAPACITY AT ITS PLANNED UAE FACILITY AND INVEST AN ADDITIONAL $2…
 - 09/24 08:48 [FirstSquawk] JAPAN’S NIKKEI FUTURES RISE 1.41% IN EARLY TRADE; 10-YEAR JGB FUTURES FALL 0.26 POINT
@@ -181,3 +165,10 @@
 - 09/24 14:12 [FirstSquawk] Russia says it struck Ukrainian defence facilities, logistics centres and military-use vessels
 - 09/24 14:14 [FirstSquawk] Polish Air Force concludes operations launched in response to Russian strikes on Ukraine
 - 09/24 14:22 [FirstSquawk] US JUDGE ORDERS TRUMP TO RESTORE WHITE HOUSE ACCESS FOR CNN, MS NOW AND POLITICO, RULING MEDIA BAN LIKELY UNCONSTITUTIONAL
+- 09/24 14:25 [financialjuice] Iran: UN team coordinates with relevant authorities - ISNA
+- 09/24 14:32 [FirstSquawk] Tencent unveils payment app for international visitors ahead of APEC summit: SCMP
+- 09/24 14:35 [FirstSquawk] Mercedes plans €800 million reduction in German labour costs, WiWo reports
+- 09/24 14:37 [FirstSquawk] L’Oréal launches €650M 7-year bond paying a 4.00% fixed coupon
+- 09/24 14:42 [FirstSquawk] Saudi Arabia’s merchandise exports decline 17.2% YoY in July, oil exports down 12.8%
+- 09/24 14:43 [financialjuice] ECB's Kocher: Must prevent too high inflation, becoming entrenched.
+- 09/24 14:43 [FirstSquawk] Saudi merchandise exports plunge 17.2% in July 2026, govt data shows

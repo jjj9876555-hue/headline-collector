@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-24 14:24 JST／対象: 09/23 14:24 〜 09/24 14:24 JST（時刻はすべて日本時間）
+生成: 2026-09-24 14:43 JST／対象: 09/23 14:43 〜 09/24 14:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 82 | 09/23 18:24 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 294 | 09/23 14:36 | 09/24 14:22 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 274 | 09/23 14:52 | 09/24 14:07 | ⚠ 71分（18:33→19:45） |
+| FirstSquawk | 297 | 09/23 14:44 | 09/24 14:43 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 276 | 09/23 14:52 | 09/24 14:43 | ⚠ 71分（18:33→19:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 631 行（統合前 653 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 636 行（統合前 658 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 14:36 [FirstSquawk] Eleven killed and three injured in KwaZulu-Natal shooting, South African police say
-- 09/23 14:41 [FirstSquawk] Brazil, Germany, India and Japan urge greater focus on UN Security Council reform amid geopolitical challenges - REUTERS REPORT
 - 09/23 14:44 [FirstSquawk] Poland’s Lublin, Rzeszów airports resume air operations following temporary military-related closure - PANSA
 - 09/23 14:46 [FirstSquawk] NHC says Category 5 Polo is stationary off Mexico’s southwestern coast
 - 09/23 14:52 [financialjuice] UK's PM Burnham and Zelenskyy spoke about a proposal for an energy ceasefire
@@ -655,3 +653,10 @@
 - 09/24 14:12 [FirstSquawk] Russia says it struck Ukrainian defence facilities, logistics centres and military-use vessels
 - 09/24 14:14 [FirstSquawk] Polish Air Force concludes operations launched in response to Russian strikes on Ukraine
 - 09/24 14:22 [FirstSquawk] US JUDGE ORDERS TRUMP TO RESTORE WHITE HOUSE ACCESS FOR CNN, MS NOW AND POLITICO, RULING MEDIA BAN LIKELY UNCONSTITUTIONAL
+- 09/24 14:25 [financialjuice] Iran: UN team coordinates with relevant authorities - ISNA
+- 09/24 14:32 [FirstSquawk] Tencent unveils payment app for international visitors ahead of APEC summit: SCMP
+- 09/24 14:35 [FirstSquawk] Mercedes plans €800 million reduction in German labour costs, WiWo reports
+- 09/24 14:37 [FirstSquawk] L’Oréal launches €650M 7-year bond paying a 4.00% fixed coupon
+- 09/24 14:42 [FirstSquawk] Saudi Arabia’s merchandise exports decline 17.2% YoY in July, oil exports down 12.8%
+- 09/24 14:43 [financialjuice] ECB's Kocher: Must prevent too high inflation, becoming entrenched.
+- 09/24 14:43 [FirstSquawk] Saudi merchandise exports plunge 17.2% in July 2026, govt data shows
