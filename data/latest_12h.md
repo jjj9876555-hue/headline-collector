@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-25 07:42 JST／対象: 09/24 19:42 〜 09/25 07:42 JST（時刻はすべて日本時間）
+生成: 2026-09-25 07:54 JST／対象: 09/24 19:54 〜 09/25 07:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 86 | 09/24 21:26 | 09/25 04:02 | 34分（01:16→01:51） |
-| FirstSquawk | 190 | 09/24 19:43 | 09/25 07:06 | 39分（01:57→02:36） |
-| financialjuice | 177 | 09/24 19:57 | 09/25 07:41 | 40分（06:04→06:44） |
+| DeItaone | 87 | 09/24 21:26 | 09/25 07:52 | ⚠ 230分（04:02→07:52） |
+| FirstSquawk | 187 | 09/24 19:56 | 09/25 07:52 | ⚠ 46分（07:06→07:52） |
+| financialjuice | 179 | 09/24 19:57 | 09/25 07:45 | 40分（06:04→06:44） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 432 行（統合前 459 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 430 行（統合前 459 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 19:43 [FirstSquawk] TRUMP LENGTHENS TRADE CEASEFIRE WITH CHINA AND GREETS XI JINPING IN WASHINGTON.
-- 09/24 19:43 [FirstSquawk] CHINA LIFE WILL INVEST UP TO 4.5 BILLION YUAN IN A FUND FOCUSED ON AI AND CHIP TECHNOLOGIES.
-- 09/24 19:46 [FirstSquawk] MERCK’S REMIGROMIG MEETS PRIMARY ENDPOINT IN DME TRIAL
-- 09/24 19:47 [FirstSquawk] US FDA OKS LILLY'S ONSWIK
-- 09/24 19:47 [FirstSquawk] FDA APPROVES ELI LILLY'S ONSWIK FOR TYPE 2 DIABETES
 - 09/24 19:56 [FirstSquawk] IRAQ IS EXPORTING AROUND 2.6 MLN BARRELS OF OIL PER DAY FROM ITS SOUTHERN PORTS SO FAR IN SEPTEMBER - HEAD OF BASRA OIL COMPANY
 - 09/24 19:57 [financialjuice] Iraq is producing more than 3 million bpd from its southern oilfields - Head of Basra Oil Company
 - 09/24 19:57 [FirstSquawk] STARBUCKS SAYS IT WILL CUT 250 STORE LOCATIONS IN NORTH AMERICA
@@ -452,7 +447,10 @@
 - 09/25 06:44 [financialjuice/FirstSquawk] Argentina's province of San Juan launches $600 million international bond below 10% rate - local media
 - 09/25 06:47 [FirstSquawk] MGM RESORTS EYES BID FOR BARRY DILLER’S PEOPLE INCORPORATED; PROPOSAL COULD COME WITHIN DAYS — WSJ
 - 09/25 07:12 [financialjuice] New Zealand Finance Minister announces short-term appointment of Rebecca Williams as internal member of Reserve Bank of New Zealand monetary policy committee
-- 09/25 07:27 [financialjuice] UK foreign secretary Miliband warns Iran's foreign minister: UK will not tolerate hostile acts on British soil - Sky News
-- 09/25 07:34 [financialjuice] Iranian president on whether war could end before year-end: it's America that must decide if it wants to end this
+- 09/25 07:27 [financialjuice/FirstSquawk] UK foreign secretary Miliband warns Iran's foreign minister: UK will not tolerate hostile acts on British soil - Sky News
+- 09/25 07:34 [financialjuice/FirstSquawk] Iranian president on whether war could end before year-end: it's America that must decide if it wants to end this
 - 09/25 07:41 [financialjuice] OpenAI to preview latest cybersecurity-focused model GPT-6 Cyber in coming days: Fortune
 - 09/25 07:41 [financialjuice] Ke Agentic migration converts AWS EKS infrastructure as code to GKE through automated pull requests
+- 09/25 07:42 [financialjuice] OpenAI to unveil product for more secure, automated GPT-6 Cyber deployment - Fortune
+- 09/25 07:45 [financialjuice] Trump, Johnson and tech CEOs to convene on Sept. 29: Axios
+- 09/25 07:52 [DeItaone] IRANIAN PRESIDENT WHEN ASKED IF WAR COULD END BEFORE END OF YEAR: IT'S AMERICA THAT MUST CHOOSE WHETHER IT WANTS TO END THIS
