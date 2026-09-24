@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-24 17:04 JST／対象: 09/23 17:04 〜 09/24 17:04 JST（時刻はすべて日本時間）
+生成: 2026-09-24 17:27 JST／対象: 09/23 17:27 〜 09/24 17:27 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 82 | 09/23 18:24 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 316 | 09/23 17:31 | 09/24 17:02 | ⚠ 91分（06:44→08:16） |
+| FirstSquawk | 319 | 09/23 17:31 | 09/24 17:24 | ⚠ 91分（06:44→08:16） |
 | financialjuice | 261 | 09/23 17:30 | 09/24 15:47 | ⚠ 71分（18:33→19:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 640 行（統合前 662 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 643 行（統合前 665 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -664,3 +664,6 @@
 - 09/24 17:01 [FirstSquawk] LOMBARDELLI: I'M NO MEANS SUGGESTING THAT MONETARY POLICY SHOULD RESPOND MECHANICALLY TO MOVEMENTS IN ENERGY PRICES
 - 09/24 17:02 [FirstSquawk] LOMBARDELLI: KEY ISSUE IS NOT THE SPOT PRICE OF ENERGY ITSELF BUT THE INTERACTION OF THE UNDERLYING ECONOMY, HIGHER ENERGY PRICES, AND THE NATURE OF THEIR TRANSMISSION
 - 09/24 17:02 [FirstSquawk] LOMBARDELLI: THAT, ULTIMATELY, IS WHAT WILL DETERMINE WHETHER BANK RATE NEEDS TO RISE
+- 09/24 17:06 [FirstSquawk] NORGES BANK SEES 2026 CPI-ATE OF 3% SAW 3.2% IN JUNE || SEES 2027 CPI-ATE OF 2.7%; SAW 2.8% IN JUNE NOW || SEES KEY RATE AT 4.51% IN Q4 2026 || NOW SEES KEY RATE AT 4.57% IN Q1 2027 || NOW SEES KEY RATE AT 4.60% IN Q2 2027
+- 09/24 17:14 [FirstSquawk] BRENT OIL FUTURES CLIMB 2.2 PCT TO SESSION HIGH OF $105.38/BBL
+- 09/24 17:24 [FirstSquawk] WILLIAMS: TIME FOR EXPLICIT, VERY DIRECT FORWARD GUIDANCE IS OVER

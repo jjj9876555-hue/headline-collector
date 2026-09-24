@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-24 17:04 JST／対象: 09/24 11:04 〜 09/24 17:04 JST（時刻はすべて日本時間）
+生成: 2026-09-24 17:27 JST／対象: 09/24 11:27 〜 09/24 17:27 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 82 | 09/24 11:05 | 09/24 17:02 | 25分（12:09→12:34） |
-| financialjuice | 25 | 09/24 11:04 | 09/24 15:47 | ⚠ 68分（11:33→12:41） |
+| FirstSquawk | 76 | 09/24 11:27 | 09/24 17:24 | 25分（12:09→12:34） |
+| financialjuice | 20 | 09/24 11:33 | 09/24 15:47 | ⚠ 68分（11:33→12:41） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 107 行（統合前 107 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 96 行（統合前 96 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 11:04 [financialjuice] OpenAI: ChatGPT ads to start launching across Indonesia, Malaysia, Philippines, Singapore, Thailand, Vietnam, and Taiwan
-- 09/24 11:05 [FirstSquawk] ChatGPT ads set to launch in Indonesia, Malaysia, Philippines, Singapore, Thailand, Vietnam and Taiwan
-- 09/24 11:08 [FirstSquawk] North Korea FM says denuclearization is an unrealistic delusion, KCNA reports
-- 09/24 11:08 [financialjuice] North Korea foreign minister: denuclearization an unrealistic delusion - KCNA
-- 09/24 11:10 [financialjuice] North Korea foreign minister: nuclear status irreversible and will last indefinitely
-- 09/24 11:10 [FirstSquawk] North Korea’s foreign minister says its nuclear status is irreversible
-- 09/24 11:11 [financialjuice] North Korea foreign minister: US and allies' denuclearization push only bolsters our position
-- 09/24 11:12 [FirstSquawk] North Korea’s foreign minister says calls for denuclearization strengthen its stance against the U.S.
-- 09/24 11:13 [FirstSquawk] VietJet Air plans Starlink deployment across 120 aircraft, future fleet
-- 09/24 11:14 [FirstSquawk] VietJet Air signs Starlink deal to bring high-speed internet to flights across global network
-- 09/24 11:17 [financialjuice] Google nears launch of flagship Gemini 4 AI model: The Information
-- 09/24 11:18 [FirstSquawk] Google close to unveiling next-generation Gemini 4 AI model, The Information says
-- 09/24 11:19 [FirstSquawk] Indonesian rupiah drops to 17,900 per dollar, weakest in over a month
-- 09/24 11:27 [FirstSquawk] Crude oil falls after bigger-than-expected increase in U.S. stockpiles - WSJ
 - 09/24 11:27 [FirstSquawk] Asian currencies come under pressure as Treasury yields climb sharply - WSJ
 - 09/24 11:32 [FirstSquawk] DHL Express, Singapore Airlines extend Boeing 777 freighter partnership
 - 09/24 11:32 [FirstSquawk] Singapore Airlines to operate 5 Boeing 777 freighters at Changi for DHL Express
@@ -131,3 +117,6 @@
 - 09/24 17:01 [FirstSquawk] LOMBARDELLI: I'M NO MEANS SUGGESTING THAT MONETARY POLICY SHOULD RESPOND MECHANICALLY TO MOVEMENTS IN ENERGY PRICES
 - 09/24 17:02 [FirstSquawk] LOMBARDELLI: KEY ISSUE IS NOT THE SPOT PRICE OF ENERGY ITSELF BUT THE INTERACTION OF THE UNDERLYING ECONOMY, HIGHER ENERGY PRICES, AND THE NATURE OF THEIR TRANSMISSION
 - 09/24 17:02 [FirstSquawk] LOMBARDELLI: THAT, ULTIMATELY, IS WHAT WILL DETERMINE WHETHER BANK RATE NEEDS TO RISE
+- 09/24 17:06 [FirstSquawk] NORGES BANK SEES 2026 CPI-ATE OF 3% SAW 3.2% IN JUNE || SEES 2027 CPI-ATE OF 2.7%; SAW 2.8% IN JUNE NOW || SEES KEY RATE AT 4.51% IN Q4 2026 || NOW SEES KEY RATE AT 4.57% IN Q1 2027 || NOW SEES KEY RATE AT 4.60% IN Q2 2027
+- 09/24 17:14 [FirstSquawk] BRENT OIL FUTURES CLIMB 2.2 PCT TO SESSION HIGH OF $105.38/BBL
+- 09/24 17:24 [FirstSquawk] WILLIAMS: TIME FOR EXPLICIT, VERY DIRECT FORWARD GUIDANCE IS OVER
