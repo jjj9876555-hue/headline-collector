@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 19:44 JST／対象: 09/24 07:44 〜 09/24 19:44 JST（時刻はすべて日本時間）
+生成: 2026-09-24 19:59 JST／対象: 09/24 07:59 〜 09/24 19:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 181 | 09/24 08:16 | 09/24 19:43 | 25分（12:09→12:34） |
-| financialjuice | 107 | 09/24 07:46 | 09/24 19:40 | ⚠ 108分（15:47→17:36） |
+| FirstSquawk | 187 | 09/24 08:16 | 09/24 19:57 | 25分（12:09→12:34） |
+| financialjuice | 107 | 09/24 08:03 | 09/24 19:57 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 285 行（統合前 288 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 291 行（統合前 294 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 07:46 [financialjuice] South Korea President Lee: Hanwha's Philly shipyard to construct warships for US - Korea presidential office
 - 09/24 08:03 [financialjuice] Meta launches annual Connect conference in Menlo Park, California
 - 09/24 08:08 [financialjuice] EU's Costa: spoke to Iran president, urged Tehran to restart cooperation with IAEA
 - 09/24 08:08 [financialjuice] EU's Costa: calls for halt to Iran's attacks on neighbors and complete freedom of navigation in Strait of Hormuz
@@ -309,3 +308,10 @@
 - 09/24 19:40 [financialjuice] China Life to invest up to 4.5B Yuan in a fund targeting AI and chip
 - 09/24 19:43 [FirstSquawk] TRUMP LENGTHENS TRADE CEASEFIRE WITH CHINA AND GREETS XI JINPING IN WASHINGTON.
 - 09/24 19:43 [FirstSquawk] CHINA LIFE WILL INVEST UP TO 4.5 BILLION YUAN IN A FUND FOCUSED ON AI AND CHIP TECHNOLOGIES.
+- 09/24 19:46 [FirstSquawk] MERCK’S REMIGROMIG MEETS PRIMARY ENDPOINT IN DME TRIAL
+- 09/24 19:47 [FirstSquawk] US FDA OKS LILLY'S ONSWIK
+- 09/24 19:47 [FirstSquawk] FDA APPROVES ELI LILLY'S ONSWIK FOR TYPE 2 DIABETES
+- 09/24 19:56 [FirstSquawk] IRAQ IS EXPORTING AROUND 2.6 MLN BARRELS OF OIL PER DAY FROM ITS SOUTHERN PORTS SO FAR IN SEPTEMBER - HEAD OF BASRA OIL COMPANY
+- 09/24 19:57 [financialjuice] Iraq is producing more than 3 million bpd from its southern oilfields - Head of Basra Oil Company
+- 09/24 19:57 [FirstSquawk] STARBUCKS SAYS IT WILL CUT 250 STORE LOCATIONS IN NORTH AMERICA
+- 09/24 19:57 [FirstSquawk] IRAQ IS PRODUCING MORE THAN 3 MLN BPD FROM ITS SOUTHERN OILFIELDS - HEAD OF BASRA OIL COMPANY

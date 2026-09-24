@@ -7,29 +7,24 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-24 19:44 JST／対象: 09/23 19:44 〜 09/24 19:44 JST（時刻はすべて日本時間）
+生成: 2026-09-24 19:59 JST／対象: 09/23 19:59 〜 09/24 19:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 71 | 09/23 19:45 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 337 | 09/23 19:45 | 09/24 19:43 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 279 | 09/23 19:45 | 09/24 19:40 | ⚠ 108分（15:47→17:36） |
+| DeItaone | 69 | 09/23 20:05 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
+| FirstSquawk | 342 | 09/23 19:59 | 09/24 19:57 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 277 | 09/23 20:00 | 09/24 19:57 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 668 行（統合前 690 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 670 行（統合前 691 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 19:45 [FirstSquawk] BOFA GLOBAL RESEARCH EXPECTS BOE TO HIKE INTEREST RATES BY 25 BP IN NOVEMBER 2026 AND FEBRUARY 2027 VS PRIOR FORECAST OF RATES UNCHANGED UNTIL A CUT IN NOVEMBER 2027
-- 09/23 19:45 [financialjuice] BofA global research expects BoE to hike interest rates by 25 bp in November 2026 and February 2027, vs. the prior forecast of rates unchanged until a cut in November 2027
-- 09/23 19:45 [DeItaone] RUSSIA CUTS GAS AND LNG OUTLOOK Russia has lowered its 2026 natural gas production forecast to 683.1 bcm, from 688.4 bcm previously. The government also cut its 2026 LNG export forecast to 35 million tons, down from 40.3 million tons. Russi…
-- 09/23 19:53 [DeItaone] HAWKISH FED SENDS DOLLAR TO TWO-MONTH HIGH The dollar climbed to its highest level since July as Fed officials signaled more rate hikes may be needed to fight inflation. Markets now price a 53% chance of an October hike after last week’s fi…
-- 09/23 19:57 [financialjuice] HSBC raises 2026 year-end Stoxx 600 index target to 680 from 670
-- 09/23 19:59 [financialjuice/FirstSquawk] HSBC raises 2026 year-end FTSE 100 target to 11,390 from 10,980
+- 09/23 19:59 [FirstSquawk] HSBC RAISES 2026 YEAR-END FTSE 100 TARGET TO 11,390 FROM 10,980
 - 09/23 20:00 [financialjuice] US MBA MORTGAGE APPLICATIONS ACTUAL -1.5% (FORECAST -, PREVIOUS -4.1%) $MACRO
 - 09/23 20:00 [financialjuice] US MBA 30-YR MORTGAGE RATE ACTUAL 7.12% (FORECAST -, PREVIOUS 6.97%) $MACRO
 - 09/23 20:02 [financialjuice] Oil executives lobbied against diesel export ban - WSJ
@@ -692,3 +687,10 @@
 - 09/24 19:40 [financialjuice] China Life to invest up to 4.5B Yuan in a fund targeting AI and chip
 - 09/24 19:43 [FirstSquawk] TRUMP LENGTHENS TRADE CEASEFIRE WITH CHINA AND GREETS XI JINPING IN WASHINGTON.
 - 09/24 19:43 [FirstSquawk] CHINA LIFE WILL INVEST UP TO 4.5 BILLION YUAN IN A FUND FOCUSED ON AI AND CHIP TECHNOLOGIES.
+- 09/24 19:46 [FirstSquawk] MERCK’S REMIGROMIG MEETS PRIMARY ENDPOINT IN DME TRIAL
+- 09/24 19:47 [FirstSquawk] US FDA OKS LILLY'S ONSWIK
+- 09/24 19:47 [FirstSquawk] FDA APPROVES ELI LILLY'S ONSWIK FOR TYPE 2 DIABETES
+- 09/24 19:56 [FirstSquawk] IRAQ IS EXPORTING AROUND 2.6 MLN BARRELS OF OIL PER DAY FROM ITS SOUTHERN PORTS SO FAR IN SEPTEMBER - HEAD OF BASRA OIL COMPANY
+- 09/24 19:57 [financialjuice] Iraq is producing more than 3 million bpd from its southern oilfields - Head of Basra Oil Company
+- 09/24 19:57 [FirstSquawk] STARBUCKS SAYS IT WILL CUT 250 STORE LOCATIONS IN NORTH AMERICA
+- 09/24 19:57 [FirstSquawk] IRAQ IS PRODUCING MORE THAN 3 MLN BPD FROM ITS SOUTHERN OILFIELDS - HEAD OF BASRA OIL COMPANY
