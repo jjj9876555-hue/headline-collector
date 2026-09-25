@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-26 07:32 JST／対象: 09/26 01:32 〜 09/26 07:32 JST（時刻はすべて日本時間）
+生成: 2026-09-26 07:46 JST／対象: 09/26 01:46 〜 09/26 07:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 20 | 09/26 01:35 | 09/26 05:35 | ⚠ 146分（03:09→05:35） |
+| DeItaone | 14 | 09/26 01:47 | 09/26 05:35 | ⚠ 146分（03:09→05:35） |
 | FirstSquawk | 41 | 09/26 01:50 | 09/26 05:01 | 25分（04:35→05:01） |
-| financialjuice | 79 | 09/26 01:34 | 09/26 07:29 | ⚠ 65分（05:23→06:28） |
+| financialjuice | 78 | 09/26 01:56 | 09/26 07:35 | ⚠ 65分（05:23→06:28） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 133 行（統合前 140 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 126 行（統合前 133 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 01:34 [financialjuice] ❗ Senior Iranian Official: Iran will make no concessions on its nuclear program.
-- 09/26 01:35 [financialjuice] ❗ Senior Iranian Official: The Strait of Hormuz will remain closed, no nuclear talks with the United States until Iran's conditions are met.
-- 09/26 01:35 [DeItaone] SENIOR IRANIAN OFFICIAL TO REUTERS: STRAIT OF HORMUZ WILL REMAIN CLOSED, NO NUCLEAR TALKS WITH UNITED STATES UNTIL IRAN'S CONDITIONS MET
-- 09/26 01:35 [DeItaone] SENIOR IRANIAN OFFICIAL TO REUTERS: IRAN WILL MAKE NO CONCESSIONS ON ITS NUCLEAR PROGRAM
-- 09/26 01:41 [DeItaone] PALANTIR CO-FOUNDER JOE LONSDALE SAYS OPENAI, ANTHROPIC’S AI POLICY PUSH IS 'VERY DANGEROUS'
-- 09/26 01:42 [DeItaone] PALANTIR CO-FOUNDER JOE LONSDALE SAYS HE BACKS AMODEI AS THE RIGHT LEADER FOR ANTHROPIC
-- 09/26 01:43 [DeItaone] XI SAYS FUTURE OF CHINA-U.S. TIES BRIGHT -XINHUA
-- 09/26 01:46 [DeItaone] SK HYNIX'S SOLIDIGM EYES 2027 IPO THAT COULD VALUE IT AT $150 BILLION, SOURCES SAY SOLIDIGM HELD PITCH MEETINGS THIS WEEK WITH BANKS FOR ROLES IN THE IPO, SOURCES SAY
 - 09/26 01:47 [DeItaone] SOLIDIGM EYES MASSIVE $150 BILLION IPO SK Hynix’s Solidigm is considering a U.S. IPO as early as next year that could value the chipmaker at up to $150 billion, Reuters reports. The company could raise around $15 billion, potentially making…
 - 09/26 01:50 [FirstSquawk] CENTCOM: U.S. MARINES ASSIGNED TO THE 11TH MARINE EXPEDITIONARY UNIT TRAIN ABOARD USS BOXER (LHD 4) AS THE SHIP SAILS IN REGIONAL WATERS AND CONTINUES TO SUPPORT ENFORCEMENT OF THE U.S. BLOCKADE AGAINST IRAN. AS OF SEPT. 25, CENTCOM FORCES …
 - 09/26 01:50 [DeItaone] TRUMP ADMINISTRATION TO MEET SEPTEMBER 30 DEADLINE TO COMMIT TO SPENDING $400 MILLION IN UKRAINE MILITARY AID, SOURCES SAY
@@ -157,3 +149,4 @@
 - 09/26 07:28 [financialjuice] Alabama AG: TikTok must add safety features to protect children alongside payment
 - 09/26 07:29 [financialjuice] Alabama AG: Alabama could obtain up to $300 million under settlement if conditions met
 - 09/26 07:29 [financialjuice] Alabama AG: deal settles claims TikTok built platform with addictive features, exposed young users to mental harm, misled public about safety
+- 09/26 07:35 [financialjuice] Skyworks extends expiration date of exchange offers for Gorvo senior notes due 2029 and 2031
