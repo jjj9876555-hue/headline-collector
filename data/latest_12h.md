@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-26 05:33 JST／対象: 09/25 17:33 〜 09/26 05:33 JST（時刻はすべて日本時間）
+生成: 2026-09-26 05:52 JST／対象: 09/25 17:52 〜 09/26 05:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 66 | 09/25 19:13 | 09/26 03:09 | ⚠ 92分（19:13→20:46） |
+| DeItaone | 67 | 09/25 19:13 | 09/26 05:35 | ⚠ 146分（03:09→05:35） |
 | FirstSquawk | 141 | 09/25 18:36 | 09/26 05:01 | ⚠ 47分（19:02→19:50） |
-| financialjuice | 197 | 09/25 17:50 | 09/26 05:23 | 39分（20:20→21:00） |
+| financialjuice | 196 | 09/25 18:12 | 09/26 05:23 | 39分（20:20→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 381 行（統合前 406 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,7 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 17:50 [financialjuice] Iraq's Najaf airport halts all flights to and from Iran - INA
 - 09/25 18:12 [financialjuice] Russia's Gazprom resumes gas supplies to Armenia - IFX
 - 09/25 18:21 [financialjuice] Japan's PM Takaichi: Didn't discuss monetary or fiscal policy with Trump
 - 09/25 18:30 [financialjuice] Japan's PM Takaichi: Trump said in the summit meeting that the weak Yen is pressuring US trade
@@ -405,3 +404,4 @@
 - 09/26 05:22 [financialjuice] Iran's Foreign Minister: The choice now rests with the US.
 - 09/26 05:22 [financialjuice] Iran's Foreign Minister: The actions that the US should take are not new, they are all already in the MOU.
 - 09/26 05:23 [financialjuice] Iran's Foreign Minister: They can accept this 7-day plan, and at the end, the Strait of Hormuz will be open.
+- 09/26 05:35 [DeItaone] OPENAI HAD IDENTIFIED ABOUT TWO DOZEN ROGUE AI INCIDENTS BY MID-SEPTEMBER, REUTERS SOURCE SAYS

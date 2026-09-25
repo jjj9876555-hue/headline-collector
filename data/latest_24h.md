@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-26 05:33 JST／対象: 09/25 05:33 〜 09/26 05:33 JST（時刻はすべて日本時間）
+生成: 2026-09-26 05:52 JST／対象: 09/25 05:52 〜 09/26 05:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 67 | 09/25 07:52 | 09/26 03:09 | ⚠ 681分（07:52→19:13） |
+| DeItaone | 68 | 09/25 07:52 | 09/26 05:35 | ⚠ 681分（07:52→19:13） |
 | FirstSquawk | 261 | 09/25 06:06 | 09/26 05:01 | ⚠ 155分（16:01→18:36） |
 | financialjuice | 251 | 09/25 06:01 | 09/26 05:23 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 550 行（統合前 581 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 551 行（統合前 582 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -574,3 +574,4 @@
 - 09/26 05:22 [financialjuice] Iran's Foreign Minister: The choice now rests with the US.
 - 09/26 05:22 [financialjuice] Iran's Foreign Minister: The actions that the US should take are not new, they are all already in the MOU.
 - 09/26 05:23 [financialjuice] Iran's Foreign Minister: They can accept this 7-day plan, and at the end, the Strait of Hormuz will be open.
+- 09/26 05:35 [DeItaone] OPENAI HAD IDENTIFIED ABOUT TWO DOZEN ROGUE AI INCIDENTS BY MID-SEPTEMBER, REUTERS SOURCE SAYS

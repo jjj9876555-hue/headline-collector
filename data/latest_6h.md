@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-26 05:33 JST／対象: 09/25 23:33 〜 09/26 05:33 JST（時刻はすべて日本時間）
+生成: 2026-09-26 05:52 JST／対象: 09/25 23:52 〜 09/26 05:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 30 | 09/25 23:42 | 09/26 03:09 | ⚠ 71分（00:09→01:20） |
-| FirstSquawk | 72 | 09/25 23:34 | 09/26 05:01 | 35分（00:26→01:01） |
-| financialjuice | 99 | 09/25 23:42 | 09/26 05:23 | 34分（02:18→02:52） |
+| DeItaone | 28 | 09/25 23:52 | 09/26 05:35 | ⚠ 146分（03:09→05:35） |
+| FirstSquawk | 69 | 09/25 23:59 | 09/26 05:01 | 35分（00:26→01:01） |
+| financialjuice | 98 | 09/25 23:56 | 09/26 05:23 | 34分（02:18→02:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 192 行（統合前 202 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 186 行（統合前 195 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 23:34 [FirstSquawk] MEXICO PRESIDENT SHEINBAUM: UNCLEAR IF US-MEXICO TRADE DEAL WILL BE REACHED BEFORE NOVEMBER || WORKING TO ADDRESS US TRADE DEFICIT CONCERNS
-- 09/25 23:34 [FirstSquawk] RUSSIA CLAIMS TO HAVE STRUCK DRY CARGO SHIP AT PORT OF CHORNOMORSK - IFX
-- 09/25 23:42 [DeItaone] RUSSIA CAN IMMEDIATELY RESTART 80% OF GRAIN TRADING PORTS IN BLACK SEA AND SEA OF AZOV IF DIPLOMATIC EFFORTS TO REOPEN BLACK SEA SUCCEED, DATA FROM INDUSTRY SOURCES SHOWS THREE TERMINALS ACCOUNTING FOR 20% OF RUSSIAN GRAIN INFRASTRUCTURE IN…
-- 09/25 23:42 [financialjuice] Russia can immediately restart 80% of grain trading ports in bLack Sea and Sea of Azov, if diplomatic efforts to reopen the Black Sea succeed - Data From Industry Sources.
-- 09/25 23:43 [DeItaone] U.S. 30-YEAR BOND YIELD TOPS 5.5% FOR FIRST TIME SINCE 2004
-- 09/25 23:46 [DeItaone] TRUMP LIVE https://t.co/wJt6zcr65f
-- 09/25 23:49 [FirstSquawk] NHC: POLO IS AN EXTREMELY POWERFUL CATEGORY 5 HURRICANE, INTERESTS IN BAJA CALIFORNIA SUR SHOULD MONITOR ITS PROGRESS
 - 09/25 23:52 [DeItaone] YIELD ON 10-YEAR TREASURY NOTE HITS FRESH 19-YEAR HIGH AT 5.2297%; LAST UP 5.92 BASIS POINTS AT 5.221%
 - 09/25 23:53 [DeItaone] OIL SLIPS AS U.S.-IRAN DIPLOMACY TAKES FOCUS Oil prices moved lower as markets weighed U.S.-Iran talks over reopening the Strait of Hormuz. WTI fell 1.4% to $93.32, while Brent dropped 1.2% to $105.35. Diplomatic progress could push crude l…
 - 09/25 23:56 [financialjuice] US Treasury Secretary Bessent: Today, I had a productive call with Japan's Fin. Min. Katayama. Discussed the desirability of a strong yen.
@@ -216,3 +209,4 @@
 - 09/26 05:22 [financialjuice] Iran's Foreign Minister: The choice now rests with the US.
 - 09/26 05:22 [financialjuice] Iran's Foreign Minister: The actions that the US should take are not new, they are all already in the MOU.
 - 09/26 05:23 [financialjuice] Iran's Foreign Minister: They can accept this 7-day plan, and at the end, the Strait of Hormuz will be open.
+- 09/26 05:35 [DeItaone] OPENAI HAD IDENTIFIED ABOUT TWO DOZEN ROGUE AI INCIDENTS BY MID-SEPTEMBER, REUTERS SOURCE SAYS
