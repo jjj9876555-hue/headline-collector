@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-25 13:18 JST／対象: 09/25 01:18 〜 09/25 13:18 JST（時刻はすべて日本時間）
+生成: 2026-09-25 13:35 JST／対象: 09/25 01:35 〜 09/25 13:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 23 | 09/25 01:51 | 09/25 07:52 | ⚠ 230分（04:02→07:52） |
-| FirstSquawk | 149 | 09/25 01:22 | 09/25 13:11 | ⚠ 46分（07:06→07:52） |
-| financialjuice | 75 | 09/25 01:20 | 09/25 13:09 | ⚠ 88分（11:11→12:40） |
+| FirstSquawk | 150 | 09/25 01:42 | 09/25 13:34 | ⚠ 46分（07:06→07:52） |
+| financialjuice | 74 | 09/25 01:46 | 09/25 13:32 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 235 行（統合前 251 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,10 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 01:20 [financialjuice] US and Iranian negotiators in New York are exploring a phased path out of war that would involve Tehran reopening the Strait of Hormuz and Washington lifting its economic blockade of Iran, sources close to the talks said. The strait has bec…
-- 09/25 01:22 [FirstSquawk] TRUMP'S ADMINISTRATION ANNOUNCES MEDIA ACCESS TO THE WHITE HOUSE HAS BEEN RESTORED.
-- 09/25 01:27 [FirstSquawk] TRUMP CONSIDERS ALLOWING CHINESE EV PRODUCTION IN US AMID XI TALKS - NBC
-- 09/25 01:28 [financialjuice] EU needs 'decisive change' in 'scale and pace' of defence efforts to be ready to defend against Russia by 2030 - Executive Summary of Report for EU Leaders.
 - 09/25 01:42 [FirstSquawk] WHITE HOUSE ASKS OPENAI, ANTHROPIC TO HOLD NEW MODELS FROM UK - POLITICO
 - 09/25 01:45 [FirstSquawk] XI SAYS CHINA HOPES U.S. TO ADHERE TO CORRECT POSITION OF OPPOSING "TAIWAN INDEPENDENCE," HANDLE TAIWAN QUESTION WITH PRUDENCE - XINHUA
 - 09/25 01:46 [financialjuice] China’s President Xi: China hopes the US will adhere to the correct position of opposing "Taiwan independence," and will handle the Taiwan question with prudence - Xinhua.
@@ -259,3 +255,7 @@
 - 09/25 13:05 [FirstSquawk] Jefferies lifts GoDaddy price target to $100 from $85
 - 09/25 13:09 [financialjuice] EU urges UK to increase tariffs on Chinese cars to avoid ‘made in Europe’ barriers: FT
 - 09/25 13:11 [FirstSquawk] EU calls on UK to increase tariffs on Chinese cars to prevent ‘Made in Europe’ barriers - FT
+- 09/25 13:20 [FirstSquawk] JPMorgan lowers Constellation Brands price target to $133 from $165
+- 09/25 13:29 [FirstSquawk] Trump’s AI agenda draws resistance from segments of his MAGA base - FT
+- 09/25 13:32 [financialjuice] Novoshakhtinsk oil refinery in Russia’s Rostov region hit by drone attack, pauses operations: governor
+- 09/25 13:34 [FirstSquawk] Drone attack damages Novoshakhtinsk oil refinery in Russia’s Rostov region, governor says
