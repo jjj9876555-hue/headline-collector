@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-25 14:24 JST／対象: 09/24 14:24 〜 09/25 14:24 JST（時刻はすべて日本時間）
+生成: 2026-09-25 14:44 JST／対象: 09/24 14:44 〜 09/25 14:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 87 | 09/24 21:26 | 09/25 07:52 | ⚠ 230分（04:02→07:52） |
-| FirstSquawk | 357 | 09/24 14:32 | 09/25 14:22 | ⚠ 46分（07:06→07:52） |
-| financialjuice | 244 | 09/24 14:25 | 09/25 14:21 | ⚠ 108分（15:47→17:36） |
+| FirstSquawk | 352 | 09/24 14:59 | 09/25 14:22 | ⚠ 46分（07:06→07:52） |
+| financialjuice | 242 | 09/24 14:45 | 09/25 14:21 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 660 行（統合前 694 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 653 行（統合前 687 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 14:25 [financialjuice] Iran: UN team coordinates with relevant authorities - ISNA
-- 09/24 14:32 [FirstSquawk] Tencent unveils payment app for international visitors ahead of APEC summit: SCMP
-- 09/24 14:35 [FirstSquawk] Mercedes plans €800 million reduction in German labour costs, WiWo reports
-- 09/24 14:37 [FirstSquawk] L’Oréal launches €650M 7-year bond paying a 4.00% fixed coupon
-- 09/24 14:42 [FirstSquawk] Saudi Arabia’s merchandise exports decline 17.2% YoY in July, oil exports down 12.8%
-- 09/24 14:43 [financialjuice] ECB's Kocher: Must prevent too high inflation, becoming entrenched.
-- 09/24 14:43 [FirstSquawk] Saudi merchandise exports plunge 17.2% in July 2026, govt data shows
 - 09/24 14:45 [financialjuice] ECB's Kocher: Eurozone economy remains fragile
 - 09/24 14:46 [financialjuice] ECB's Kocher: Signs of somewhat more Eurozone momentum since summer
 - 09/24 14:59 [FirstSquawk] JPMorgan lowers McDonald’s target price to $260 from $280
