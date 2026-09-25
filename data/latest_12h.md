@@ -7,30 +7,25 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-25 19:44 JST／対象: 09/25 07:44 〜 09/25 19:44 JST（時刻はすべて日本時間）
+生成: 2026-09-25 19:58 JST／対象: 09/25 07:58 〜 09/25 19:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 2 | 09/25 07:52 | 09/25 19:13 | ⚠ 681分（07:52→19:13） |
-| FirstSquawk | 124 | 09/25 07:52 | 09/25 19:02 | ⚠ 155分（16:01→18:36） |
-| financialjuice | 75 | 09/25 07:45 | 09/25 19:23 | ⚠ 88分（11:11→12:40） |
+| DeItaone | 1 | 09/25 19:13 | 09/25 19:13 | - |
+| FirstSquawk | 125 | 09/25 08:22 | 09/25 19:55 | ⚠ 155分（16:01→18:36） |
+| financialjuice | 75 | 09/25 08:01 | 09/25 19:54 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 198 行（統合前 201 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 199 行（統合前 201 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 07:45 [financialjuice] Trump, Johnson and tech CEOs to convene on Sept. 29: Axios
-- 09/25 07:52 [DeItaone] IRANIAN PRESIDENT WHEN ASKED IF WAR COULD END BEFORE END OF YEAR: IT'S AMERICA THAT MUST CHOOSE WHETHER IT WANTS TO END THIS
-- 09/25 07:52 [FirstSquawk] UK FOREIGN SECRETARY MILIBAND WARNS IRAN'S FOREIGN MINISTER: UK WILL NOT TOLERATE HOSTILE ACTS ON BRITISH SOIL - SKY NEWS
-- 09/25 07:52 [FirstSquawk] IRANIAN PRESIDENT ON WHETHER WAR COULD END BEFORE YEAR-END: IT'S AMERICA THAT MUST DECIDE IF IT WANTS TO END THIS
-- 09/25 07:57 [financialjuice] Qatar categorically rejects Netanyahu’s claim it is running campaign to sway public opinion against Israel
-- 09/25 07:58 [financialjuice/FirstSquawk] Qatar: Repeated attacks by Netanyahu appear aimed at deflecting political responsibility for ground policies
 - 09/25 08:01 [financialjuice] UK GfK consumer confidence index at -13 in September vs -14 in August, highest since August 2024 (poll -16)
+- 09/25 08:22 [FirstSquawk] QATAR: REPEATED ATTACKS BY NETANYAHU APPEAR AIMED AT DEFLECTING POLITICAL RESPONSIBILITY FOR GROUND POLICIES
 - 09/25 08:28 [financialjuice] Saudi Arabia issues warning over possible threat in Jazan
 - 09/25 08:30 [financialjuice] Saudi Arabia civil defence: threat over in Jazan
 - 09/25 08:42 [FirstSquawk] US ENVOY WITKOFF AND KUSHNER MET RUSSIA'S DMITRIEV TODAY - CNN
@@ -222,3 +217,9 @@
 - 09/25 19:10 [financialjuice] Fed's Williams: Not seeing productivity impact from AI yet
 - 09/25 19:13 [DeItaone] FED PLANS TO EASE OVERSIGHT FOR LARGE BANKS The Fed is preparing to raise asset thresholds that trigger tougher bank regulation, Reuters reports. The highest threshold could rise from $700 billion to around $960 billion, while some requirem…
 - 09/25 19:23 [financialjuice] Italy updated EU safe defense loan plan for slightly over €8B
+- 09/25 19:50 [FirstSquawk] IRAN LEADER ADVISER MOKHBER SAYS IF IRAN CANNOT HAVE FLIGHTS AND RECEIVE AIRPORT SERVICES, THEN NO ONE IN THE REGION CAN EITHER - NOURNEWS
+- 09/25 19:50 [financialjuice] Iran leader adviser Mokhbar: Iran cannot have flights and receive airport services, then no one in the region can either - NourNews
+- 09/25 19:53 [financialjuice] Iran president meets Qatar PM in New York
+- 09/25 19:54 [financialjuice] Iran President and Qatar PM discussed efforts to de-escalate
+- 09/25 19:55 [FirstSquawk] IRAN'S PRESIDENT AND QATAR'S PRIME MINISTER HOLD A MEETING IN NEW YORK.
+- 09/25 19:55 [FirstSquawk] IRAN'S PRESIDENT AND QATAR'S PM HELD TALKS ON EFFORTS TO REDUCE TENSIONS.
