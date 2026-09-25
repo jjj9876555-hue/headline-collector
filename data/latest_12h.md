@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-26 06:58 JST／対象: 09/25 18:58 〜 09/26 06:58 JST（時刻はすべて日本時間）
+生成: 2026-09-26 07:16 JST／対象: 09/25 19:16 〜 09/26 07:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 67 | 09/25 19:13 | 09/26 05:35 | ⚠ 146分（03:09→05:35） |
-| FirstSquawk | 131 | 09/25 19:01 | 09/26 05:01 | ⚠ 47分（19:02→19:50） |
-| financialjuice | 182 | 09/25 19:00 | 09/26 06:55 | ⚠ 65分（05:23→06:28） |
+| DeItaone | 66 | 09/25 20:46 | 09/26 05:35 | ⚠ 146分（03:09→05:35） |
+| FirstSquawk | 127 | 09/25 19:50 | 09/26 05:01 | 35分（00:26→01:01） |
+| financialjuice | 172 | 09/25 19:23 | 09/26 06:55 | ⚠ 65分（05:23→06:28） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 358 行（統合前 382 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 343 行（統合前 367 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 19:00 [financialjuice] US-sanctioned oil tanker Sibu 1 that was hijacked by Somali pirates in August, has been rescued - Puntland maritime police force
-- 09/25 19:00 [financialjuice] Japan's Fin. Min. Katayama: Takaichi very much respects the independence of the BoJ
-- 09/25 19:00 [financialjuice] Japan's Fin. Min. Katayama: Rising bond yields is global trend and temporary
-- 09/25 19:01 [financialjuice] Japan's Fin. Min. Katayama: Won't hesitate to take bold action on the yen
-- 09/25 19:01 [financialjuice] Japan's Fin. Min. Katayama: Defense spending at 2% of GDP is 'not enough"
-- 09/25 19:01 [financialjuice] Japan's Fin. Min. Katayama: Our defense policy is not determined by US pressure
-- 09/25 19:01 [FirstSquawk] JAPAN'S FINMIN KATAYAMA: TAKAICHI 'IS NOT A REFLATIONIST'
-- 09/25 19:02 [FirstSquawk] KATAYAMA: TAKAICHI VERY MUCH RESPECTS INDEPENDENCE OF BOJ || WON'T HESITATE TO TAKE BOLD ACTION ON YEN
-- 09/25 19:02 [FirstSquawk] KATAYAMA: DEFENSE SPENDING AT 2% OF GDP IS 'NOT ENOUGH' || OUR DEFENSE POLICY NOT DETERMINED BY US PRESSURE
-- 09/25 19:02 [FirstSquawk] KATAYAMA: OUR DEFENSE POLICY NOT DETERMINED BY US PRESSURE
-- 09/25 19:05 [financialjuice] Japan's Fin. Min. Katayama: Extra defense spending to address China threat
-- 09/25 19:05 [financialjuice] US Fed plans to raise bank oversight thresholds - Sources
-- 09/25 19:10 [financialjuice] Iraq's Erbil and Sulaimaniya airports suspend Iranian flights starting Friday - Two Sources
-- 09/25 19:10 [financialjuice] Fed's Williams: Not seeing productivity impact from AI yet
-- 09/25 19:13 [DeItaone] FED PLANS TO EASE OVERSIGHT FOR LARGE BANKS The Fed is preparing to raise asset thresholds that trigger tougher bank regulation, Reuters reports. The highest threshold could rise from $700 billion to around $960 billion, while some requirem…
 - 09/25 19:23 [financialjuice] Italy updated EU safe defense loan plan for slightly over €8B
 - 09/25 19:50 [FirstSquawk] IRAN LEADER ADVISER MOKHBER SAYS IF IRAN CANNOT HAVE FLIGHTS AND RECEIVE AIRPORT SERVICES, THEN NO ONE IN THE REGION CAN EITHER - NOURNEWS
 - 09/25 19:50 [financialjuice] Iran leader adviser Mokhbar: Iran cannot have flights and receive airport services, then no one in the region can either - NourNews

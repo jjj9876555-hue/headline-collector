@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-26 06:58 JST／対象: 09/26 00:58 〜 09/26 06:58 JST（時刻はすべて日本時間）
+生成: 2026-09-26 07:16 JST／対象: 09/26 01:16 〜 09/26 07:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 23 | 09/26 01:20 | 09/26 05:35 | ⚠ 146分（03:09→05:35） |
-| FirstSquawk | 53 | 09/26 01:01 | 09/26 05:01 | 25分（04:35→05:01） |
-| financialjuice | 80 | 09/26 01:00 | 09/26 06:55 | ⚠ 65分（05:23→06:28） |
+| FirstSquawk | 43 | 09/26 01:26 | 09/26 05:01 | 25分（04:35→05:01） |
+| financialjuice | 74 | 09/26 01:34 | 09/26 06:55 | ⚠ 65分（05:23→06:28） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 149 行（統合前 156 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 133 行（統合前 140 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 01:00 [financialjuice] ❗ Iran-US talks enter technical stage - Al-Jazeera Journalist Reports cited by CBS.
-- 09/26 01:00 [financialjuice] Iran-U.S. talks enter technical stage, Al-Jazeera journalist reports
-- 09/26 01:01 [FirstSquawk] IRAN-US TALKS ENTER TECHNICAL STAGE - AL-JAZEERA
-- 09/26 01:02 [FirstSquawk] IRAN-U.S. NEGOTIATIONS IN NEW YORK HAVE MOVED BEYOND INITIAL DIPLOMATIC CONTACTS INTO A MORE DETAILED TECHNICAL PHASE, WITH SOURCES IN TEHRAN DESCRIBING THE ATMOSPHERE AS INCREASINGLY POSITIVE, AL JAZEERA'S BUREAU CHIEF IN TEHRAN, NOURDDINE…
-- 09/26 01:02 [FirstSquawk] THE QATARI-GOVERNMENT OWNED NETWORK SAID TECHNICAL EXPERTS HAD JOINED THE DISCUSSIONS IN NEW YORK AFTER A FIRST MEETING INVOLVING U.S. ENVOYS STEVE WITKOFF AND JARED KUSHNER. WHILE VISAS WERE NOT INITIALLY APPROVED BY THE U.S. GOVERNMENT FO…
-- 09/26 01:02 [FirstSquawk] TRUMP: HAD A GREAT MEETING WITH XI, GREAT FOR FARMERS
-- 09/26 01:03 [FirstSquawk] TRUMP SAYS DISCUSSED IRAN WITH XI
-- 09/26 01:03 [FirstSquawk] TRUMP SAYS THINK WE'RE GOING TO DO GREAT
-- 09/26 01:03 [financialjuice] Trump: Discussed Iran with Xi
-- 09/26 01:03 [financialjuice] Trump: I think we're going to do great.
-- 09/26 01:05 [FirstSquawk] OIL EXTENDS DECLINE, BRENT TRADES BELOW $104 A BARREL
-- 09/26 01:07 [financialjuice] USTR Greer to travel to wisconsin next week for the G20 gathering.
-- 09/26 01:07 [FirstSquawk] USTR GREER: TO TRAVEL TO WISCONSIN NEXT WEEK FOR G20 GATHERING
-- 09/26 01:09 [FirstSquawk] USTR - G20 TRADE MINISTERIAL SCHEDULED FOR SEPT 29 - OCT 1
-- 09/26 01:09 [financialjuice] USTR Greer: The G20 Trade Ministerial is scheduled for September 29th - October 1st.
-- 09/26 01:11 [FirstSquawk] USTR - GREER TO TOUR ROCKWELL AUTOMATION WITH THE G20 MINISTERS
 - 09/26 01:20 [DeItaone] OIL FUTURES EXTEND LOSSES, BRENT CRUDE DOWN BY $3 A BARREL ON HOPES OF US-IRAN TRUCE
 - 09/26 01:23 [DeItaone] CHINA, U.S. AGREE TO BUILD CONSTRUCTIVE RELATIONSHIP OF STRATEGIC STABILITY BASED ON RESPECT, FAIRNESS AND RECIPROCITY - XINHUA CHINA, U.S. AGREE TO BUILD A CONSTRUCTIVE RELATIONSHIP OF STRATEGIC STABILITY -XINHUA
 - 09/26 01:23 [DeItaone] NORTH SEA OIL FREIGHT RATES CLIMB AGAIN Platts kept the October Forties de-escalator unchanged at 15 cents, while Aframax freight rates moved higher again. Meanwhile, there were no bids or offers for North Sea crude grades during the Platts…
