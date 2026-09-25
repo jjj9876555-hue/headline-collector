@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-25 16:36 JST／対象: 09/25 10:36 〜 09/25 16:36 JST（時刻はすべて日本時間）
+生成: 2026-09-25 16:52 JST／対象: 09/25 10:52 〜 09/25 16:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 58 | 09/25 10:38 | 09/25 16:01 | 25分（14:22→14:48） |
+| FirstSquawk | 55 | 09/25 10:56 | 09/25 16:01 | 25分（14:22→14:48） |
 | financialjuice | 19 | 09/25 11:04 | 09/25 16:05 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 77 行（統合前 77 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 74 行（統合前 74 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 10:38 [FirstSquawk] Japanese government bond yields rise following a sharp jump in U.S. Treasury yields - WSJ
-- 09/25 10:41 [FirstSquawk] 30-year Japanese government bond yield rises to 4.210%, up 5.0 basis points
-- 09/25 10:49 [FirstSquawk] Korea’s semiconductor boom lures students away from university for factory jobs - KYODO
 - 09/25 10:56 [FirstSquawk] White House meeting highlights apparent differences between Trump and Xi on AI guardrails - YONHAP
 - 09/25 11:04 [financialjuice] Japan finmin katayama: deciding on specific monetary policy tools is up to BoJ
 - 09/25 11:05 [FirstSquawk] Katayama: Specific monetary policy tools are up to BOJ to determine
