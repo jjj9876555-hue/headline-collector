@@ -7,41 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-25 21:07 JST／対象: 09/24 21:07 〜 09/25 21:07 JST（時刻はすべて日本時間）
+生成: 2026-09-25 21:31 JST／対象: 09/24 21:31 〜 09/25 21:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 94 | 09/24 21:26 | 09/25 21:05 | ⚠ 681分（07:52→19:13） |
-| FirstSquawk | 311 | 09/24 21:17 | 09/25 21:06 | ⚠ 155分（16:01→18:36） |
-| financialjuice | 254 | 09/24 21:10 | 09/25 21:05 | ⚠ 88分（11:11→12:40） |
+| DeItaone | 97 | 09/24 21:31 | 09/25 21:30 | ⚠ 681分（07:52→19:13） |
+| FirstSquawk | 312 | 09/24 21:35 | 09/25 21:19 | ⚠ 155分（16:01→18:36） |
+| financialjuice | 259 | 09/24 21:31 | 09/25 21:30 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 635 行（統合前 665 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 638 行（統合前 674 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 21:10 [financialjuice] Politico barred from White House this morning - Politico
-- 09/24 21:10 [financialjuice] Politico reporter denied access to white house after judge's order - Politico
-- 09/24 21:17 [FirstSquawk] MICRON FACES ITC PROBE OVER NETLIST PATENT CLAIMS
-- 09/24 21:17 [FirstSquawk] SLB - AWARDED FOUR INTEGRATED WELL CONSTRUCTION CONTRACTS BY ARAMCO IN SAUDI ARABIA
-- 09/24 21:25 [FirstSquawk] TRUMP SAYS XI LOOKED STRONG AND VIBRANT AT AIRPORT MEETING
-- 09/24 21:25 [FirstSquawk/DeItaone] ORACLE SENDS FORCE MAJEURE NOTICE OVER NEW MEXICO DATA CENTER
-- 09/24 21:26 [FirstSquawk] I met President Xi at the plane (Airport!) yesterday and he looks strong, vibrant, and fit - Better than ever. Madam Xi, of course, BEAUTIFUL! President DJT
-- 09/24 21:26 [FirstSquawk] ORACLE SHARES DROP 2.8% AFTER FORCE MAJEURE NOTICE
-- 09/24 21:27 [financialjuice] Oracle sends force majeure notice over New Mexico data center $ORCL
-- 09/24 21:28 [DeItaone] MSNOW REPORTER DENIED ACCESS TO WHITE HOUSE AFTER COURT RULING -MSNOW
-- 09/24 21:29 [financialjuice] ❗ CANADIAN RETAIL SALES MOM ACTUAL 0.6% (FORECAST -0.8%, PREVIOUS 0.6%) $MACRO
-- 09/24 21:29 [financialjuice] US CONTINUED JOBLESS CLAIMS ACTUAL 1.73M (FORECAST 1.74M, PREVIOUS 1.730M) $MACRO
-- 09/24 21:29 [financialjuice] ❗ US INITIAL JOBLESS CLAIMS ACTUAL 196K (FORECAST 200K, PREVIOUS 196K) $MACRO
-- 09/24 21:29 [financialjuice] CANADIAN CORE RETAIL SALES MOM ACTUAL 0.5% (FORECAST -0.5%, PREVIOUS 0.5%) $MACRO
-- 09/24 21:30 [FirstSquawk] US INITIAL JOBLESS CLAIMS ACTUAL: 197K VS 196K PREVIOUS; EST 200K
-- 09/24 21:30 [FirstSquawk] US CONTINUING JOBLESS CLAIMS ACTUAL: 1719K VS 1730K PREVIOUS; EST 1740K
-- 09/24 21:30 [DeItaone] US JOBLESS CLAIMS -1K TO 197K IN SEP-19 WK; SURVEY 201K US SEP-12 WEEK CONTINUING CLAIMS +2K TO 1,719,000 US SEP-12 WEEK JOBLESS CLAIMS REVISED TO 198K
-- 09/24 21:30 [financialjuice] US CURRENT ACCOUNT ACTUAL -246B (FORECAST -257.4B, PREVIOUS -226.8B) $MACRO
 - 09/24 21:31 [financialjuice] Canadian Retail Sales July 2026 Report
 - 09/24 21:31 [DeItaone] GOLDMAN SACHS RAISES BRENT OIL FORECAST TO $85 Goldman Sachs raised its December Brent crude forecast to $85 a barrel as energy prices climb across Asia-Pacific. The Iran war and Strait of Hormuz closure have tightened supplies, pushing LNG…
 - 09/24 21:32 [DeItaone] U.S. WEIGHS ALTERNATIVES TO DIESEL EXPORT BAN The U.S. administration is considering **voluntary diesel export cuts** instead of a ban or quota, according to the Wall Street Journal. Citi says this could reverse recent energy equity trades,…
@@ -659,3 +641,24 @@
 - 09/25 21:06 [FirstSquawk] MICROSOFT IS ROLLING OUT HOME & CODE IN COPILOT THROUGH THE FRONTIER PROGRAM SOON, WITH AUTOPILOT SET TO BEGIN PRIVATE PREVIEW BY MONTH-END.
 - 09/25 21:06 [FirstSquawk] MICROSOFT'S COPILOT MANAGED RUNTIME IS NOW AVAILABLE FOR PUBLIC PREVIEW AND WILL BE INTEGRATED INTO CODE.
 - 09/25 21:06 [FirstSquawk] MICROSOFT’S CODE IN COPILOT WILL BE AVAILABLE FOR PREVIEW TO MICROSOFT 365 PREMIUM AND PRO SUBSCRIBERS LATER THIS YEAR.
+- 09/25 21:07 [FirstSquawk] MICROSOFT ANNOUNCED THAT "TODAY" IN HOME WILL START PRIVATE PREVIEW IN OCTOBER FOR COPILOT AND WILL ALSO BE AVAILABLE IN OUTLOOK AND TEAMS SOON.
+- 09/25 21:07 [FirstSquawk] MICROSOFT IS EXPANDING COST MANAGEMENT IN AGENT 365 TO INCLUDE CODE AND COPILOT MANAGED RUNTIME, WITH COPILOT STUDIO SUPPORT COMING IN OCTOBER.
+- 09/25 21:07 [FirstSquawk] UNICREDIT OFFICIAL DENIES PRESS REPORT ABOUT BPM INTEREST AS BASELESS.
+- 09/25 21:08 [financialjuice] Kremlin: No concrete talks on black sea safety - TASS
+- 09/25 21:09 [FirstSquawk/financialjuice] KREMLIN: SANCTIONS MUST BE LIFTED TO END DIESEL EXPORT BAN -TASS
+- 09/25 21:11 [DeItaone] US AMBASSADOR TO CHINA: TRUMP, XI BEGINNING TO DEVELOP RELATIONSHIP OF SOMEWHAT TRUST
+- 09/25 21:11 [DeItaone/financialjuice/FirstSquawk] US AMBASSADOR TO CHINA: TRUMP, XI HAD VERY CANDID, OPEN CONVERSATION - CNBC
+- 09/25 21:12 [financialjuice/FirstSquawk] US Ambassador to China: Trump and Xi are beginning to develop a relationship of some trust
+- 09/25 21:12 [DeItaone/financialjuice] US AMBASSADOR TO CHINA: TRUMP MADE CLEAR ANY HELP CHINA GIVES IRAN TOTALLY UNACCEPTABLE -CNBC
+- 09/25 21:13 [DeItaone] US NATURAL GAS FUTURES EXTEND LOSSES, PRICES DOWN BY 5% IN VOLATILE TRADE AHEAD OF CONTRACT EXPIRATION
+- 09/25 21:13 [financialjuice] US and China agree that Iran should not have nuclear weapons - Perdue
+- 09/25 21:14 [financialjuice] Morning Juice - US Session Prep (25th September)
+- 09/25 21:14 [financialjuice] US Ambassador to China: US thinks there was China indirect support for Iran.
+- 09/25 21:17 [financialjuice/FirstSquawk] US and China on AI: Progress on law enforcement cooperation - Perdue
+- 09/25 21:18 [financialjuice/FirstSquawk] US Ambassador to China: There is no change on Taiwan policy from US.
+- 09/25 21:18 [DeItaone] GOLDMAN SEES AI CAPEX SURGING TO $1.2 TRILLION Goldman Sachs expects the five largest U.S. hyperscalers to boost AI infrastructure spending 54% to $1.2 trillion in 2027, above Wall Street estimates. Amazon, Alphabet, Microsoft, Oracle and M…
+- 09/25 21:18 [FirstSquawk] TRUMP TO CAMPAIGN IN OKLAHOMA, ALABAMA NEXT WEEK - WAPO
+- 09/25 21:19 [financialjuice] US Ambassador to China Perdue: The US doesn't support Taiwan independence
+- 09/25 21:30 [DeItaone] US AUG DURABLES ORDERS UNCHANGED (CONSENSUS -0.4%)
+- 09/25 21:30 [financialjuice] US CORE DURABLE GOODS ACTUAL 0.3% (FORECAST 0.6%, PREVIOUS 0.4%) $MACRO
+- 09/25 21:30 [financialjuice] ❗ US DURABLE GOODS ACTUAL 0% (FORECAST -0.3%, PREVIOUS 1.1%) $MACRO

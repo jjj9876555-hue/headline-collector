@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-25 21:07 JST／対象: 09/25 15:07 〜 09/25 21:07 JST（時刻はすべて日本時間）
+生成: 2026-09-25 21:31 JST／対象: 09/25 15:31 〜 09/25 21:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 7 | 09/25 19:13 | 09/25 21:05 | ⚠ 92分（19:13→20:46） |
-| FirstSquawk | 46 | 09/25 15:09 | 09/25 21:06 | ⚠ 155分（16:01→18:36） |
-| financialjuice | 49 | 09/25 16:00 | 09/25 21:05 | ⚠ 55分（16:05→17:00） |
+| DeItaone | 13 | 09/25 19:13 | 09/25 21:30 | ⚠ 92分（19:13→20:46） |
+| FirstSquawk | 49 | 09/25 15:32 | 09/25 21:19 | ⚠ 155分（16:01→18:36） |
+| financialjuice | 62 | 09/25 16:00 | 09/25 21:30 | ⚠ 55分（16:05→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 101 行（統合前 102 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 116 行（統合前 124 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 15:09 [FirstSquawk] Taiwan says Xi’s Taiwan remarks in Washington reflect Beijing’s continued ‘distortion of facts’
-- 09/25 15:10 [FirstSquawk] Taiwan says it will work with US, like-minded partners to protect peace and stability in Taiwan Strait
-- 09/25 15:12 [FirstSquawk] EU urges UK to raise tariffs on Chinese cars to avoid ‘Made in Europe’ barriers, FT reports
-- 09/25 15:12 [FirstSquawk] EU pushes Trump to preserve ‘free flow’ of diesel, FT reports
-- 09/25 15:23 [FirstSquawk] NIKKEI RISES 0.5%, LED BY BANK STOCKS-WSJ
-- 09/25 15:24 [FirstSquawk] Australia’s ASX 200 ends 0.4% lower at 8,665.00
 - 09/25 15:32 [FirstSquawk] ArcelorMittal expects $1 billion impairment charge for Kryvyi Rih assets after missile strikes
 - 09/25 15:35 [FirstSquawk] Swedish and Finnish fighter jets scrambled to identify Russian military aircraft, Finnish Air Force says
 - 09/25 15:40 [FirstSquawk] TRUMP EXPRESSED CONCERNS ABOUT YEN WEAKNESS, JAPAN FINANCE MINISTER SAYS-WSJ
@@ -125,3 +119,24 @@
 - 09/25 21:06 [FirstSquawk] MICROSOFT IS ROLLING OUT HOME & CODE IN COPILOT THROUGH THE FRONTIER PROGRAM SOON, WITH AUTOPILOT SET TO BEGIN PRIVATE PREVIEW BY MONTH-END.
 - 09/25 21:06 [FirstSquawk] MICROSOFT'S COPILOT MANAGED RUNTIME IS NOW AVAILABLE FOR PUBLIC PREVIEW AND WILL BE INTEGRATED INTO CODE.
 - 09/25 21:06 [FirstSquawk] MICROSOFT’S CODE IN COPILOT WILL BE AVAILABLE FOR PREVIEW TO MICROSOFT 365 PREMIUM AND PRO SUBSCRIBERS LATER THIS YEAR.
+- 09/25 21:07 [FirstSquawk] MICROSOFT ANNOUNCED THAT "TODAY" IN HOME WILL START PRIVATE PREVIEW IN OCTOBER FOR COPILOT AND WILL ALSO BE AVAILABLE IN OUTLOOK AND TEAMS SOON.
+- 09/25 21:07 [FirstSquawk] MICROSOFT IS EXPANDING COST MANAGEMENT IN AGENT 365 TO INCLUDE CODE AND COPILOT MANAGED RUNTIME, WITH COPILOT STUDIO SUPPORT COMING IN OCTOBER.
+- 09/25 21:07 [FirstSquawk] UNICREDIT OFFICIAL DENIES PRESS REPORT ABOUT BPM INTEREST AS BASELESS.
+- 09/25 21:08 [financialjuice] Kremlin: No concrete talks on black sea safety - TASS
+- 09/25 21:09 [FirstSquawk/financialjuice] KREMLIN: SANCTIONS MUST BE LIFTED TO END DIESEL EXPORT BAN -TASS
+- 09/25 21:11 [DeItaone] US AMBASSADOR TO CHINA: TRUMP, XI BEGINNING TO DEVELOP RELATIONSHIP OF SOMEWHAT TRUST
+- 09/25 21:11 [DeItaone/financialjuice/FirstSquawk] US AMBASSADOR TO CHINA: TRUMP, XI HAD VERY CANDID, OPEN CONVERSATION - CNBC
+- 09/25 21:12 [financialjuice/FirstSquawk] US Ambassador to China: Trump and Xi are beginning to develop a relationship of some trust
+- 09/25 21:12 [DeItaone/financialjuice] US AMBASSADOR TO CHINA: TRUMP MADE CLEAR ANY HELP CHINA GIVES IRAN TOTALLY UNACCEPTABLE -CNBC
+- 09/25 21:13 [DeItaone] US NATURAL GAS FUTURES EXTEND LOSSES, PRICES DOWN BY 5% IN VOLATILE TRADE AHEAD OF CONTRACT EXPIRATION
+- 09/25 21:13 [financialjuice] US and China agree that Iran should not have nuclear weapons - Perdue
+- 09/25 21:14 [financialjuice] Morning Juice - US Session Prep (25th September)
+- 09/25 21:14 [financialjuice] US Ambassador to China: US thinks there was China indirect support for Iran.
+- 09/25 21:17 [financialjuice/FirstSquawk] US and China on AI: Progress on law enforcement cooperation - Perdue
+- 09/25 21:18 [financialjuice/FirstSquawk] US Ambassador to China: There is no change on Taiwan policy from US.
+- 09/25 21:18 [DeItaone] GOLDMAN SEES AI CAPEX SURGING TO $1.2 TRILLION Goldman Sachs expects the five largest U.S. hyperscalers to boost AI infrastructure spending 54% to $1.2 trillion in 2027, above Wall Street estimates. Amazon, Alphabet, Microsoft, Oracle and M…
+- 09/25 21:18 [FirstSquawk] TRUMP TO CAMPAIGN IN OKLAHOMA, ALABAMA NEXT WEEK - WAPO
+- 09/25 21:19 [financialjuice] US Ambassador to China Perdue: The US doesn't support Taiwan independence
+- 09/25 21:30 [DeItaone] US AUG DURABLES ORDERS UNCHANGED (CONSENSUS -0.4%)
+- 09/25 21:30 [financialjuice] US CORE DURABLE GOODS ACTUAL 0.3% (FORECAST 0.6%, PREVIOUS 0.4%) $MACRO
+- 09/25 21:30 [financialjuice] ❗ US DURABLE GOODS ACTUAL 0% (FORECAST -0.3%, PREVIOUS 1.1%) $MACRO
