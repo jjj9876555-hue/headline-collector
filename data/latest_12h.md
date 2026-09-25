@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-25 12:44 JST／対象: 09/25 00:44 〜 09/25 12:44 JST（時刻はすべて日本時間）
+生成: 2026-09-25 12:59 JST／対象: 09/25 00:59 〜 09/25 12:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 30 | 09/25 00:48 | 09/25 07:52 | ⚠ 230分（04:02→07:52） |
-| FirstSquawk | 148 | 09/25 00:48 | 09/25 12:38 | ⚠ 46分（07:06→07:52） |
-| financialjuice | 80 | 09/25 00:48 | 09/25 12:40 | ⚠ 88分（11:11→12:40） |
+| DeItaone | 26 | 09/25 01:00 | 09/25 07:52 | ⚠ 230分（04:02→07:52） |
+| FirstSquawk | 149 | 09/25 01:08 | 09/25 12:53 | ⚠ 46分（07:06→07:52） |
+| financialjuice | 78 | 09/25 01:00 | 09/25 12:40 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 245 行（統合前 263 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 241 行（統合前 258 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 00:48 [DeItaone/FirstSquawk] XI HOLDS SMALL-GROUP EXCHANGES WITH TRUMP - XINHUA
-- 09/25 00:48 [financialjuice] China’s President Xi holds small-group exchanges with Trump - Xinhua.
-- 09/25 00:50 [DeItaone] ORACLE: FORCE-MAJEURE NOTICES ARE COMMONPLACE IN DEVELOPMENTS OF THIS SCALE AND ARE OFTEN USED TO PRESERVE CONTRACTUAL RIGHTS AMONG PROJECT PARTNERS
-- 09/25 00:55 [DeItaone] MS NOW PRODUCER GRANTED ACCESS TO WHITE HOUSE -MS NOW
-- 09/25 00:55 [FirstSquawk] GOOGLE: INTRODUCING GEMINI 3.8 LIVE WITH LIVE AVATAR
-- 09/25 00:56 [financialjuice] Google introduces Gemini 3.8 Live, with live avatar. $GOOGL
-- 09/25 00:57 [DeItaone] TWO-YEAR U.S. TREASURY YIELDS LAST UP 0.85 BASIS POINTS AT 4.904%
 - 09/25 01:00 [DeItaone] U.S. 30-YR FIXED RATE MORTGAGE AVERAGES 7.03 PCT IN SEPT 24 WEEK, HIGHEST SINCE JAN 16, 2025 WEEK, VS 6.95 PCT PRIOR WEEK-FREDDIE MAC
 - 09/25 01:00 [financialjuice] US 30-yr fixed rate mortgage averages 7.03% in Sept 24 week, highest since Jan 16, 2025 week, vs 6.95% prior week - Freddie Mac
 - 09/25 01:01 [financialjuice] BNP Paribas and Google Cloud sign five-year AI pact. $GOOGL
@@ -269,3 +262,6 @@
 - 09/25 12:14 [FirstSquawk] Asian bond yields rise despite weaker oil prices as markets remain cautious - WSJ
 - 09/25 12:38 [FirstSquawk] Thailand’s exports projected to rise through year-end, says Commerce Ministry
 - 09/25 12:40 [financialjuice] strait of hormuz commodity vessel crossings drop to single digits, preliminary shiptracking data shows
+- 09/25 12:45 [FirstSquawk] Strait of Hormuz sees commodity vessel crossings fall to single digits, preliminary data indicates
+- 09/25 12:51 [FirstSquawk] 2-year JGB yield climbs 3.0 basis points to 1.930%
+- 09/25 12:53 [FirstSquawk] Thailand’s exports could grow 15% this year, Commerce Ministry says
