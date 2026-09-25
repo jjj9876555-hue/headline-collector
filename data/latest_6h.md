@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-25 10:00 JST／対象: 09/25 04:00 〜 09/25 10:00 JST（時刻はすべて日本時間）
+生成: 2026-09-25 10:17 JST／対象: 09/25 04:17 〜 09/25 10:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 2 | 09/25 04:02 | 09/25 07:52 | ⚠ 230分（04:02→07:52） |
-| FirstSquawk | 79 | 09/25 04:01 | 09/25 09:56 | ⚠ 46分（07:06→07:52） |
-| financialjuice | 39 | 09/25 04:02 | 09/25 09:15 | 40分（06:04→06:44） |
+| DeItaone | 1 | 09/25 07:52 | 09/25 07:52 | - |
+| FirstSquawk | 76 | 09/25 04:49 | 09/25 10:15 | ⚠ 46分（07:06→07:52） |
+| financialjuice | 37 | 09/25 04:18 | 09/25 09:15 | 40分（06:04→06:44） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 112 行（統合前 121 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 106 行（統合前 115 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 04:01 [FirstSquawk] ISRAELI PRIME MINISTER NETANYAHU SAYS THE IRANIAN REGIME IS 'ESPECIALLY AFRAID' WHEN ITS PEOPLE HAVE STARLINK, WHICH HE SAYS 'ALLOWS PEOPLE TO ACCESS TRUTH', TELLING TRUMP HE WILL LEAVE THE DEVICE WITH HIM TO GIVE TO THE IRANIAN DELEGATION …
-- 09/25 04:01 [FirstSquawk] NETANYAHU ASKS THE PROTESTERS OUTSIDE AND 'THEIR HYPOCRITICAL DELEGATES WHO LEFT US ALL' WHERE THEY WERE 'WHEN THE IRANIAN TYRANTS BUTCHERED AND MAIMED TENS OF THOUSANDS OF UNARMED IRANIAN CIVILIANS'.
-- 09/25 04:01 [FirstSquawk] NETANYAHU SAYS THAT 'DESPITE YOUR SILENCE, DESPITE YOUR HYPOCRISY, IT'S ONLY A MATTER OF TIME' BEFORE 'SOMETHING INCREDIBLE WILL HAPPEN' IN IRAN, DECLARING THAT 'THE POWER OF THE PEOPLE WILL OVERCOME THE PEOPLE IN POWER' AND THAT 'ONE DAY..…
-- 09/25 04:01 [FirstSquawk] ISRAELI PRIME MINISTER NETANYAHU BECAME THE FIRST WORLD LEADER TO USE TRUMP'S PREFERRED TERM 'SUPERIOR INTELLIGENCE' FOR AI, AND MENTIONED HASAN PIKER DURING HIS UNGA SPEECH WHILE ATTACKING MAYOR MAMDANI
-- 09/25 04:02 [DeItaone] YEMEN'S HOUTHIS SAY THEY ATTACKED SAUDI ARAMCO FACILITIES IN YANBU
-- 09/25 04:02 [financialjuice] Yemen's Houthis: Attacked Saudi Aramco facilities in Yanbu.
-- 09/25 04:02 [FirstSquawk] YEMEN'S HOUTHIS SAY THEY ATTACKED SAUDI ARAMCO FACILITIES IN YANBU, AS WELL AS WHAT THEY CALLED A 'SENSITIVE TARGET' IN THE SAUDI CAPITAL RIYADH
-- 09/25 04:03 [financialjuice] Yemen's Houthis: Attacked a ‘sensitive target’ in Saudi Capital Riyadh.
-- 09/25 04:14 [FirstSquawk] MONEY MARKETS NOW PRICE THREE FED HIKES OVER THE NEXT YEAR AS PERSISTENT INFLATION, GOVERNMENT SPENDING AND AI-RELATED CORPORATE BORROWING DRIVE BOND VOLATILITY; THE S&P 500 WAS LITTLE CHANGED, DOW FELL 0.3%, WTI ROSE 2.9% TO $94.83 AND GOL…
 - 09/25 04:18 [financialjuice] The US files to intervene in the X, Musk, and EU commission cases.
 - 09/25 04:21 [financialjuice/FirstSquawk] NATO Sec. Gen. Rutte: European allies prepared for Russian hybrid attacks.
 - 09/25 04:22 [financialjuice] Friday FX Options Expiries
@@ -136,3 +127,6 @@
 - 09/25 09:48 [FirstSquawk] 10-year Japanese government bond yield rises to 3.115%, up 4.0 basis points
 - 09/25 09:51 [FirstSquawk] 40-year JGB yield climbs 5.5 basis points to 4.255%
 - 09/25 09:56 [FirstSquawk] Yen extends decline as Tokyo reiterates warning while refraining from intervention - FX
+- 09/25 10:01 [FirstSquawk] 2-year Japanese government bond yield rises to 1.920%, up 2.0 basis points
+- 09/25 10:08 [FirstSquawk] Pentagon investigates how China obtained parts from F-35 stealth fighter - KYODO
+- 09/25 10:15 [FirstSquawk] N. Korean official says S. Korea could become target of ‘collective punishment’ - YONHAP
