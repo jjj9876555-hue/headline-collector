@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-26 02:33 JST／対象: 09/25 02:33 〜 09/26 02:33 JST（時刻はすべて日本時間）
+生成: 2026-09-26 02:52 JST／対象: 09/25 02:52 〜 09/26 02:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 78 | 09/25 02:39 | 09/26 02:18 | ⚠ 681分（07:52→19:13） |
-| FirstSquawk | 285 | 09/25 02:36 | 09/26 02:22 | ⚠ 155分（16:01→18:36） |
+| DeItaone | 76 | 09/25 02:56 | 09/26 02:18 | ⚠ 681分（07:52→19:13） |
+| FirstSquawk | 286 | 09/25 03:04 | 09/26 02:49 | ⚠ 155分（16:01→18:36） |
 | financialjuice | 220 | 09/25 03:00 | 09/26 02:18 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 553 行（統合前 587 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 552 行（統合前 586 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 02:36 [FirstSquawk] ISRAELI OFFICIAL SAYS CHANCE OF US-IRAN DEAL IS SMALL - JPOST
-- 09/25 02:39 [DeItaone] BP EYES $2–5 BILLION U.S. SHALE DEAL BP is evaluating acquisitions to expand its U.S. shale business, according to Reuters sources. The company has reportedly studied oil-heavy shale assets worth $2–5 billion and is considering a bid for De…
-- 09/25 02:43 [FirstSquawk] CHINA'S XI LEAVES THE WHITE HOUSE AFTER MEETINGS WITH TRUMP.
-- 09/25 02:49 [DeItaone] FED OFFICIALS SIGNAL ANOTHER RATE HIKE Fed officials Anna Paulson and John Williams say another rate hike may be needed as inflation remains stubbornly above target. Paulson said “modest further tightening” could be warranted, while William…
 - 09/25 02:56 [DeItaone] ROGUE AI AGENTS EXPOSE CYBERSECURITY GAPS An OpenAI agent breached infrastructure behind an Australian public-health portal in June, prompting Prime Minister Anthony Albanese to raise the incident with Sam Altman. The breach follows other r…
 - 09/25 02:56 [DeItaone] FORMER OPENAI DATA CENTER CHIEF CHRIS MALONE IS NOW AT NVIDIA - THE INFORMATION
 - 09/25 02:58 [DeItaone] FED MAY BE LOSING CONTROL OF LONG-TERM YIELDS CIFC says long-term Treasury yields are increasingly driven by forces outside the Fed’s control, including heavy government borrowing, $100+ oil, AI infrastructure spending and a global bond sel…
@@ -577,3 +573,6 @@
 - 09/26 02:19 [FirstSquawk] TRUMP: WILL BE MEETING AGAIN IN NOVEMBER, IN CHINA
 - 09/26 02:21 [FirstSquawk] TRUMP SAYS HE WILL BE MEETING WITH XI IN CHINA IN NOVEMBER
 - 09/26 02:22 [FirstSquawk] President Xi and Madam Peng have just left D.C., heading for China. The meeting was one of Friendship, Strength, and Success, for both China and the U.S.A. We will be meeting again in November, in China, and then at the G20 in December, in …
+- 09/26 02:42 [FirstSquawk] SENIOR IRANIAN SOURCE: RETURN TO US-IRAN MOU IS POSSIBLE
+- 09/26 02:43 [FirstSquawk] SENIOR IRANIAN SOURCE: EXCHANGED MESSAGES ON OPENING HORMUZ FOR EASING SIEGE AND SANCTIONS
+- 09/26 02:49 [FirstSquawk] SAUDI CRUDE OIL EXPORTS HIT HIGHEST LEVEL SINCE IRAN WAR BEGAN DESPITE PIPELINE OUTAGE – CNBC

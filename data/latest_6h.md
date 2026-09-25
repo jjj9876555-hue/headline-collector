@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-26 02:33 JST／対象: 09/25 20:33 〜 09/26 02:33 JST（時刻はすべて日本時間）
+生成: 2026-09-26 02:52 JST／対象: 09/25 20:52 〜 09/26 02:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 64 | 09/25 20:46 | 09/26 02:18 | ⚠ 71分（00:09→01:20） |
-| FirstSquawk | 91 | 09/25 20:40 | 09/26 02:22 | 35分（00:26→01:01） |
+| DeItaone | 62 | 09/25 20:55 | 09/26 02:18 | ⚠ 71分（00:09→01:20） |
+| FirstSquawk | 93 | 09/25 20:56 | 09/26 02:49 | 35分（00:26→01:01） |
 | financialjuice | 107 | 09/25 21:00 | 09/26 02:18 | 24分（01:09→01:34） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,9 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 20:40 [FirstSquawk] GERMAN LAWMAKERS APPROVE NEW FUEL-TAX RELIEF WORTH €2.5 B
-- 09/25 20:46 [DeItaone] https://t.co/DfReK0eIPk
-- 09/25 20:50 [DeItaone] $TSLA - STONEX STAYS BULLISH ON TESLA AHEAD OF Q3 DELIVERIES StoneX reiterated its Buy rating and $475 price target on Tesla ahead of next week’s Q3 delivery report. The firm expects 446,500 deliveries, down 10% year-over-year and slightly …
 - 09/25 20:55 [DeItaone] CITI SAYS BUY THE NEXT STOCK MARKET PULLBACK Citi remains overweight U.S. equities and says it would add exposure on any market dip. Despite higher oil, interest rates and Fed uncertainty, stocks have remained resilient. Citi expects AI to …
 - 09/25 20:56 [DeItaone] SAUDI ARABIA, TURKEY AND PAKISTAN PLAN DEFENSE TALKS Representatives from Saudi Arabia, Turkey and Pakistan are planning talks on supporting Riyadh under their joint defense agreement, Al Jazeera reports. The move follows new Houthi missile…
 - 09/25 20:56 [FirstSquawk] KALLAS SAYS EU STATES AGREE ON TERMS FOR EPF FUNDS FOR UKRAINE
@@ -267,3 +264,6 @@
 - 09/26 02:19 [FirstSquawk] TRUMP: WILL BE MEETING AGAIN IN NOVEMBER, IN CHINA
 - 09/26 02:21 [FirstSquawk] TRUMP SAYS HE WILL BE MEETING WITH XI IN CHINA IN NOVEMBER
 - 09/26 02:22 [FirstSquawk] President Xi and Madam Peng have just left D.C., heading for China. The meeting was one of Friendship, Strength, and Success, for both China and the U.S.A. We will be meeting again in November, in China, and then at the G20 in December, in …
+- 09/26 02:42 [FirstSquawk] SENIOR IRANIAN SOURCE: RETURN TO US-IRAN MOU IS POSSIBLE
+- 09/26 02:43 [FirstSquawk] SENIOR IRANIAN SOURCE: EXCHANGED MESSAGES ON OPENING HORMUZ FOR EASING SIEGE AND SANCTIONS
+- 09/26 02:49 [FirstSquawk] SAUDI CRUDE OIL EXPORTS HIT HIGHEST LEVEL SINCE IRAN WAR BEGAN DESPITE PIPELINE OUTAGE – CNBC
