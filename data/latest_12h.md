@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-25 22:03 JST／対象: 09/25 10:03 〜 09/25 22:03 JST（時刻はすべて日本時間）
+生成: 2026-09-25 22:27 JST／対象: 09/25 10:27 〜 09/25 22:27 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 26 | 09/25 19:13 | 09/25 22:02 | ⚠ 92分（19:13→20:46） |
-| FirstSquawk | 125 | 09/25 10:08 | 09/25 21:58 | ⚠ 155分（16:01→18:36） |
-| financialjuice | 102 | 09/25 10:31 | 09/25 22:02 | ⚠ 88分（11:11→12:40） |
+| DeItaone | 30 | 09/25 19:13 | 09/25 22:20 | ⚠ 92分（19:13→20:46） |
+| FirstSquawk | 125 | 09/25 10:32 | 09/25 22:21 | ⚠ 155分（16:01→18:36） |
+| financialjuice | 109 | 09/25 10:31 | 09/25 22:19 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 239 行（統合前 254 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 250 行（統合前 265 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 10:08 [FirstSquawk] Pentagon investigates how China obtained parts from F-35 stealth fighter - KYODO
-- 09/25 10:15 [FirstSquawk] N. Korean official says S. Korea could become target of ‘collective punishment’ - YONHAP
-- 09/25 10:19 [FirstSquawk] Nikkei share average advances 1.05% to 66,202.32
-- 09/25 10:20 [FirstSquawk] Japan to offer ¥3.5 trillion in treasury discount bills
-- 09/25 10:25 [FirstSquawk] Alibaba shares in Hong Kong poised to open 2.3% lower
 - 09/25 10:31 [financialjuice] Tesla exec: semi truck deliveries begin this week
 - 09/25 10:31 [financialjuice] Tesla executive: DHL part of semi truck clientele
 - 09/25 10:32 [FirstSquawk] Tesla executive says Semi truck deliveries start this week
@@ -263,3 +258,19 @@
 - 09/25 22:02 [financialjuice] NScale: NVIDIA commits $1b to NScale, funding due mid-November.
 - 09/25 22:02 [DeItaone] $TSLA - TESLA’S OPTIMUS HITS SNAGS IN HANDS, SUPPLIERS AS SCALE-UP BEGINS - THE INFORMATION TESLA HAS RAMPED UP PRODUCTION OF ITS OPTIMUS HUMANOID ROBOT ROUGHLY TENFOLD IN RECENT MONTHS - THE INFORMATION
 - 09/25 22:02 [financialjuice] Tesla’s Optimus hits snags in its hand manufacturing and suppliers as scale-up begins - The Information.
+- 09/25 22:05 [DeItaone] $TSLA - TESLA ROBOT’S INTRICATE HANDS POSE MAJOR MANUFACTURING AND DURABILITY CHALLENGES - THE INFORMATION TESLA MANAGERS TOLD STAFFERS CO WANTS TO SET UP PRODUCTION LINE CAPABLE OF PRODUCING OVER A THOUSAND ROBOTS A WEEK BY YEAR END- THE I…
+- 09/25 22:07 [FirstSquawk] PERDUE SAYS WE'VE ESTABLISHED AN AI CRISIS MECHANISM WITH CHINA
+- 09/25 22:07 [financialjuice] US Ambassador to China: We've established an AI crisis mechanism with China.
+- 09/25 22:08 [financialjuice] Canada August wholesale sales fell 1.5% MoM- StatCan flash
+- 09/25 22:08 [DeItaone] TREASURY VOLATILITY SURGES AS FED BETS SHIFT U.S. Treasury volatility is heading for its biggest weekly jump in over a year, with the MOVE Index up nearly 30%. Hotter economic data and elevated oil prices have fueled a sharp repricing of Fe…
+- 09/25 22:10 [FirstSquawk] PERDUE SAYS US HASN'T CHANGED POSITION ON ONE CHINA POLICY
+- 09/25 22:11 [financialjuice] US Ambassador to China: The US hasn't changed position on one China policy.
+- 09/25 22:13 [DeItaone] $AAPL - BERNSTEIN WARNS APPLE EARNINGS COULD DISAPPOINT Bernstein sees downside risk to Apple’s December-quarter earnings as sharply higher memory-chip costs pressure iPhone margins. The firm cut its EPS forecast to $2.87 from $3.00, below …
+- 09/25 22:15 [financialjuice] Japan's Fin. Min. Katayama: Markets are 'misunderstanding' weak yen - Kyodo
+- 09/25 22:16 [FirstSquawk] MEXICO-US TO HOLD ROUND OF USMCA TALKS IN 'NEXT WEEKS' - VELASCO
+- 09/25 22:17 [financialjuice] Velasco: Mexico-US to hold round of USMCA talks in the 'next weeks'
+- 09/25 22:17 [FirstSquawk] KATAYAMA SAYS EXCESSIVE YEN SELLING MAY BE CORRECTED - KYODO
+- 09/25 22:18 [financialjuice] Japan's Fin. Min. Katayama: Excessive Yen selling may be corrected - Kyodo
+- 09/25 22:19 [financialjuice] Libya's NOC says forced closure of the valve on the Sharara-Zawiya crude pipeline has caused a loss of 720,362 barrels of output, more than $75 million in direct losses as of September 24th
+- 09/25 22:20 [DeItaone] FRANCE DEBT FEARS DRAW GREECE COMPARISONS Jupiter’s Ariel Bezalel warns France’s rising debt and political gridlock are increasingly reminiscent of Greece’s pre-crisis trajectory. French government debt has reached 117.5% of GDP and is proj…
+- 09/25 22:21 [FirstSquawk] JAPAN'S YEN RISES 1 PCT TO SESSION HIGH 157.23 PER DOLLAR

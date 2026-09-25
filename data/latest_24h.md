@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-25 22:03 JST／対象: 09/24 22:03 〜 09/25 22:03 JST（時刻はすべて日本時間）
+生成: 2026-09-25 22:27 JST／対象: 09/24 22:27 〜 09/25 22:27 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 93 | 09/24 22:06 | 09/25 22:02 | ⚠ 681分（07:52→19:13） |
-| FirstSquawk | 310 | 09/24 22:04 | 09/25 21:58 | ⚠ 155分（16:01→18:36） |
-| financialjuice | 254 | 09/24 22:07 | 09/25 22:02 | ⚠ 88分（11:11→12:40） |
+| DeItaone | 95 | 09/24 22:31 | 09/25 22:20 | ⚠ 681分（07:52→19:13） |
+| FirstSquawk | 307 | 09/24 22:29 | 09/25 22:21 | ⚠ 155分（16:01→18:36） |
+| financialjuice | 253 | 09/24 22:31 | 09/25 22:19 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 625 行（統合前 664 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 625 行（統合前 662 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 22:04 [FirstSquawk] PARAMOUNT SKYDANCE CORP: LAUNCHES SYNDICATION FOR $7.50 BLN INCREMENTAL TERM B FACILITY
-- 09/24 22:06 [DeItaone] U.S. WILL CONTINUE TO PROVIDE CRITICAL BUT MORE LIMITED CAPABILITIES TO NATO, GRYNKEWICH SAYS
-- 09/24 22:07 [financialjuice] NATO Commander Grynkewich: US will continue to provide critical but more limited capabilities to NATO.
-- 09/24 22:07 [financialjuice] NATO Supreme Allied Commander Grynkewich: US Government has stated ironclad commitment to NATO's Article 5.
-- 09/24 22:08 [FirstSquawk/financialjuice] RUSSIA RAISES 2026 OIL EXPORT OUTLOOK TO 244.7M TONS - IFX
-- 09/24 22:08 [financialjuice] Next Thursday, Google is sending experimental satellite into orbit that will have enough computing power to answer simple AI queries from space - NYT. $GOOGL
-- 09/24 22:08 [financialjuice/FirstSquawk] NATO's Grynkewich: There is no predetermined outcome to the US' review of its troop deployments in Europe
-- 09/24 22:09 [financialjuice] NATO Commander Grynkewich: NATO is stepping up information and intelligence sharing in response to hybrid attacks.
-- 09/24 22:09 [financialjuice] Russian Economy Ministry sees Urals oil price at $61.2/bbl in 2026 (previous forecast: $59/bbl).
-- 09/24 22:09 [financialjuice] Fed's Barkin: Capacity utilization good, but not overheated
-- 09/24 22:12 [FirstSquawk] NATO'S GRYNKEWICH SAYS DANISH INTELLIGENCE ASSESSMENT OF RUSSIA THREATS ARE 'PRETTY BALANCED'
-- 09/24 22:19 [FirstSquawk] INDIAN OIL MINISTER SAYS THERE ARE NO PLANS TO CUT FUEL PRODUCT EXPORTS
-- 09/24 22:22 [FirstSquawk] THREE TANKERS LINKED TO IRAN, HOLDING ALMOST SIX MILLION BARRELS OF IRANIAN CRUDE, WERE CAPTURED BY THE UNITED STATES IN THE ATLANTIC, ACCORDING TO AFP AND VESSEL-TRACKING DATA.
-- 09/24 22:22 [FirstSquawk] TANKERTRACKERS REPORTED A CARGO WORTH ALMOST $600 MILLION IS ON ITS WAY TO THE UNITED STATES. THE MAJESTIC X AND TIFANI, TWO VESSELS, ARE LOCATED OFF BRAZIL'S NORTHERN COAST, AS PER KPLER DATA. BOTH VESSELS WERE CAPTURED BY THE US IN APRIL …
-- 09/24 22:22 [FirstSquawk] US WAR DEPARTMENT STATED THAT THE SEIZURES TARGETED SANCTIONED SHIPS THAT SUPPORT IRAN.
-- 09/24 22:24 [DeItaone] BITCOIN ETF INFLOWS SURGE DESPITE MARKET PRESSURE Institutional demand for Bitcoin remains resilient despite its pullback from eight-month highs, according to XS. com Fed tightening and uncertainty around Iran are weighing on prices, but Bi…
 - 09/24 22:29 [FirstSquawk] NETANYAHU HAS ARRIVED IN THE U.S. FOR THE UN GENERAL ASSEMBLY. HE WILL DELIVER A SPEECH LATER TODAY IN NEW YORK.
 - 09/24 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -33.6 MLN NASDAQ 100: -9.0 MLN DOW 30: -5.5 MLN MAG 7: -7.4 MLN $MACRO
 - 09/24 22:31 [DeItaone] ORACLE SHARES DOWN 5.1% AFTER REPORT CO SENDS 'FORCE MAJEURE' NOTICE TO NEW MEXICO DATA CENTER DEVELOPER
@@ -649,3 +633,19 @@
 - 09/25 22:02 [financialjuice] NScale: NVIDIA commits $1b to NScale, funding due mid-November.
 - 09/25 22:02 [DeItaone] $TSLA - TESLA’S OPTIMUS HITS SNAGS IN HANDS, SUPPLIERS AS SCALE-UP BEGINS - THE INFORMATION TESLA HAS RAMPED UP PRODUCTION OF ITS OPTIMUS HUMANOID ROBOT ROUGHLY TENFOLD IN RECENT MONTHS - THE INFORMATION
 - 09/25 22:02 [financialjuice] Tesla’s Optimus hits snags in its hand manufacturing and suppliers as scale-up begins - The Information.
+- 09/25 22:05 [DeItaone] $TSLA - TESLA ROBOT’S INTRICATE HANDS POSE MAJOR MANUFACTURING AND DURABILITY CHALLENGES - THE INFORMATION TESLA MANAGERS TOLD STAFFERS CO WANTS TO SET UP PRODUCTION LINE CAPABLE OF PRODUCING OVER A THOUSAND ROBOTS A WEEK BY YEAR END- THE I…
+- 09/25 22:07 [FirstSquawk] PERDUE SAYS WE'VE ESTABLISHED AN AI CRISIS MECHANISM WITH CHINA
+- 09/25 22:07 [financialjuice] US Ambassador to China: We've established an AI crisis mechanism with China.
+- 09/25 22:08 [financialjuice] Canada August wholesale sales fell 1.5% MoM- StatCan flash
+- 09/25 22:08 [DeItaone] TREASURY VOLATILITY SURGES AS FED BETS SHIFT U.S. Treasury volatility is heading for its biggest weekly jump in over a year, with the MOVE Index up nearly 30%. Hotter economic data and elevated oil prices have fueled a sharp repricing of Fe…
+- 09/25 22:10 [FirstSquawk] PERDUE SAYS US HASN'T CHANGED POSITION ON ONE CHINA POLICY
+- 09/25 22:11 [financialjuice] US Ambassador to China: The US hasn't changed position on one China policy.
+- 09/25 22:13 [DeItaone] $AAPL - BERNSTEIN WARNS APPLE EARNINGS COULD DISAPPOINT Bernstein sees downside risk to Apple’s December-quarter earnings as sharply higher memory-chip costs pressure iPhone margins. The firm cut its EPS forecast to $2.87 from $3.00, below …
+- 09/25 22:15 [financialjuice] Japan's Fin. Min. Katayama: Markets are 'misunderstanding' weak yen - Kyodo
+- 09/25 22:16 [FirstSquawk] MEXICO-US TO HOLD ROUND OF USMCA TALKS IN 'NEXT WEEKS' - VELASCO
+- 09/25 22:17 [financialjuice] Velasco: Mexico-US to hold round of USMCA talks in the 'next weeks'
+- 09/25 22:17 [FirstSquawk] KATAYAMA SAYS EXCESSIVE YEN SELLING MAY BE CORRECTED - KYODO
+- 09/25 22:18 [financialjuice] Japan's Fin. Min. Katayama: Excessive Yen selling may be corrected - Kyodo
+- 09/25 22:19 [financialjuice] Libya's NOC says forced closure of the valve on the Sharara-Zawiya crude pipeline has caused a loss of 720,362 barrels of output, more than $75 million in direct losses as of September 24th
+- 09/25 22:20 [DeItaone] FRANCE DEBT FEARS DRAW GREECE COMPARISONS Jupiter’s Ariel Bezalel warns France’s rising debt and political gridlock are increasingly reminiscent of Greece’s pre-crisis trajectory. French government debt has reached 117.5% of GDP and is proj…
+- 09/25 22:21 [FirstSquawk] JAPAN'S YEN RISES 1 PCT TO SESSION HIGH 157.23 PER DOLLAR
