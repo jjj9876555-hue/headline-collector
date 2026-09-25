@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-25 16:52 JST／対象: 09/25 10:52 〜 09/25 16:52 JST（時刻はすべて日本時間）
+生成: 2026-09-25 17:04 JST／対象: 09/25 11:04 〜 09/25 17:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 55 | 09/25 10:56 | 09/25 16:01 | 25分（14:22→14:48） |
-| financialjuice | 19 | 09/25 11:04 | 09/25 16:05 | ⚠ 88分（11:11→12:40） |
+| FirstSquawk | 54 | 09/25 11:05 | 09/25 16:01 | 25分（14:22→14:48） |
+| financialjuice | 20 | 09/25 11:05 | 09/25 17:00 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 74 行（統合前 74 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,8 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 10:56 [FirstSquawk] White House meeting highlights apparent differences between Trump and Xi on AI guardrails - YONHAP
-- 09/25 11:04 [financialjuice] Japan finmin katayama: deciding on specific monetary policy tools is up to BoJ
 - 09/25 11:05 [FirstSquawk] Katayama: Specific monetary policy tools are up to BOJ to determine
 - 09/25 11:05 [financialjuice] Japan finance minister Katayama: BoJ’s recent rate reduction aimed at reaching inflation target
 - 09/25 11:05 [financialjuice] Japan finance minister katayama: expect BoJ to implement suitable monetary policy while cooperating with government
@@ -98,3 +96,5 @@
 - 09/25 16:01 [FirstSquawk] SPAIN (JUL) HOME SALES YOY ACTUAL: -5.1% VS 1.6% PREVIOUS
 - 09/25 16:01 [financialjuice] Currency Strength Chart: Strongest: GBP, AUD, NZD, NZD, GBP, USD, CAD, CHF - Weakest
 - 09/25 16:05 [financialjuice] Trump: China's Xi and I have forged a truly great friendship
+- 09/25 17:00 [financialjuice] EUROZONE LOANS TO HOUSEHOLDS ACTUAL 3.1% (FORECAST -, PREVIOUS 3.1%) $MACRO
+- 09/25 17:00 [financialjuice] EUROZONE LOANS TO NON FINANCIAL FIRMS ACTUAL 4.2% (FORECAST -, PREVIOUS 4.4%) $MACRO

@@ -7,26 +7,24 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-25 16:52 JST／対象: 09/25 04:52 〜 09/25 16:52 JST（時刻はすべて日本時間）
+生成: 2026-09-25 17:04 JST／対象: 09/25 05:04 〜 09/25 17:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/25 07:52 | 09/25 07:52 | - |
-| FirstSquawk | 138 | 09/25 05:01 | 09/25 16:01 | ⚠ 46分（07:06→07:52） |
-| financialjuice | 55 | 09/25 05:04 | 09/25 16:05 | ⚠ 88分（11:11→12:40） |
+| FirstSquawk | 136 | 09/25 05:06 | 09/25 16:01 | ⚠ 46分（07:06→07:52） |
+| financialjuice | 56 | 09/25 05:13 | 09/25 17:00 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 187 行（統合前 194 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 187 行（統合前 193 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 05:01 [FirstSquawk] NASDAQ CLOSES 0.04% HIGHER AT 26,945.85, UP 9.81 POINTS S&P 500 CLOSES 0.03% LOWER AT 7,703.93, DOWN 2.10 POINTS DOW JONES CLOSES 0.29% LOWER AT 51,359.75, DOWN 151.84 POINTS
-- 09/25 05:01 [FirstSquawk] NYSE SHORT INTEREST RISES 2.7% TO 22.78 BILLION SHARES IN MID-SEPTEMBER
-- 09/25 05:04 [financialjuice/FirstSquawk] Anthropic strikes $12 billion deal with Akamai for AI computing.
+- 09/25 05:06 [FirstSquawk] ANTHROPIC STRIKES $12 BILLION DEAL WITH AKAMAI FOR AI COMPUTING.
 - 09/25 05:13 [financialjuice] China's Xi: China and the US are major ai powers, we can cooperate.
 - 09/25 05:13 [FirstSquawk] XI CALLS ON CHINA & US TO KEEP AI TECHNOLOGY UNDER HUMAN CONTROL — XINHUA
 - 09/25 05:14 [financialjuice] China's Xi: We can continue with AI dialogs.
@@ -211,3 +209,5 @@
 - 09/25 16:01 [FirstSquawk] SPAIN (JUL) HOME SALES YOY ACTUAL: -5.1% VS 1.6% PREVIOUS
 - 09/25 16:01 [financialjuice] Currency Strength Chart: Strongest: GBP, AUD, NZD, NZD, GBP, USD, CAD, CHF - Weakest
 - 09/25 16:05 [financialjuice] Trump: China's Xi and I have forged a truly great friendship
+- 09/25 17:00 [financialjuice] EUROZONE LOANS TO HOUSEHOLDS ACTUAL 3.1% (FORECAST -, PREVIOUS 3.1%) $MACRO
+- 09/25 17:00 [financialjuice] EUROZONE LOANS TO NON FINANCIAL FIRMS ACTUAL 4.2% (FORECAST -, PREVIOUS 4.4%) $MACRO
