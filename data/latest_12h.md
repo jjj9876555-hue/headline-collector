@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-26 08:31 JST／対象: 09/25 20:31 〜 09/26 08:31 JST（時刻はすべて日本時間）
+生成: 2026-09-26 08:44 JST／対象: 09/25 20:44 〜 09/26 08:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 66 | 09/25 20:46 | 09/26 05:35 | ⚠ 146分（03:09→05:35） |
-| FirstSquawk | 119 | 09/25 20:40 | 09/26 05:01 | 35分（00:26→01:01） |
+| FirstSquawk | 118 | 09/25 20:56 | 09/26 05:01 | 35分（00:26→01:01） |
 | financialjuice | 174 | 09/25 21:00 | 09/26 08:28 | ⚠ 65分（05:23→06:28） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 337 行（統合前 361 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 336 行（統合前 360 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 20:40 [FirstSquawk] GERMAN LAWMAKERS APPROVE NEW FUEL-TAX RELIEF WORTH €2.5 B
 - 09/25 20:46 [DeItaone] https://t.co/DfReK0eIPk
 - 09/25 20:50 [DeItaone] $TSLA - STONEX STAYS BULLISH ON TESLA AHEAD OF Q3 DELIVERIES StoneX reiterated its Buy rating and $475 price target on Tesla ahead of next week’s Q3 delivery report. The firm expects 446,500 deliveries, down 10% year-over-year and slightly …
 - 09/25 20:55 [DeItaone] CITI SAYS BUY THE NEXT STOCK MARKET PULLBACK Citi remains overweight U.S. equities and says it would add exposure on any market dip. Despite higher oil, interest rates and Fed uncertainty, stocks have remained resilient. Citi expects AI to …
