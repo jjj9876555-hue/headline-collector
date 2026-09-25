@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-25 22:59 JST／対象: 09/25 16:59 〜 09/25 22:59 JST（時刻はすべて日本時間）
+生成: 2026-09-25 23:20 JST／対象: 09/25 17:20 〜 09/25 23:20 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 31 | 09/25 19:13 | 09/25 22:47 | ⚠ 92分（19:13→20:46） |
-| FirstSquawk | 66 | 09/25 18:36 | 09/25 22:53 | ⚠ 47分（19:02→19:50） |
-| financialjuice | 95 | 09/25 17:00 | 09/25 22:59 | 39分（20:20→21:00） |
+| DeItaone | 35 | 09/25 19:13 | 09/25 23:13 | ⚠ 92分（19:13→20:46） |
+| FirstSquawk | 69 | 09/25 18:36 | 09/25 23:09 | ⚠ 47分（19:02→19:50） |
+| financialjuice | 99 | 09/25 17:21 | 09/25 23:18 | 39分（20:20→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 178 行（統合前 193 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 189 行（統合前 204 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 17:00 [financialjuice] EUROZONE LOANS TO HOUSEHOLDS ACTUAL 3.1% (FORECAST -, PREVIOUS 3.1%) $MACRO
-- 09/25 17:00 [financialjuice] EUROZONE LOANS TO NON FINANCIAL FIRMS ACTUAL 4.2% (FORECAST -, PREVIOUS 4.4%) $MACRO
-- 09/25 17:05 [financialjuice] Egypt, Iran foreign ministers discuss proposals for deal.
-- 09/25 17:13 [financialjuice] Zelenskiy: US proposed preparing next trilateral meeting at technical level
-- 09/25 17:14 [financialjuice] Zelenskiy: US suggests UAE as next meeting host, Kyiv awaits date
 - 09/25 17:21 [financialjuice] Turkish parliament speaker: defence agreement with Pakistan, Saudi Arabia not submitted to parliament yet, expected after session opens next month
 - 09/25 17:25 [financialjuice] German economy minister Reiche: fantasies of seizure and nationalization have no place in Germany
 - 09/25 17:50 [financialjuice] Iraq's Najaf airport halts all flights to and from Iran - INA
@@ -202,3 +197,19 @@
 - 09/25 22:59 [financialjuice] ‼ BREAKING: UNIVERSITY MICHIGAN SENTIMENT FINAL ACTUAL 47.8 (FORECAST 47.5, PREVIOUS 47.8) $MACRO
 - 09/25 22:59 [financialjuice] UNIVERSITY MICHIGAN 1 YR INFLATION FINAL ACTUAL 4.6% (FORECAST 4.7%, PREVIOUS 4.6%) $MACRO
 - 09/25 22:59 [financialjuice] UNIVERSITY MICHIGAN EXPECTATIONS FINAL ACTUAL 45.8 (FORECAST 45.7, PREVIOUS 45.8) $MACRO
+- 09/25 23:00 [FirstSquawk] US UMICH FINAL SEPT. CONSUMER SENTIMENT FALLS TO 48.1; EST. 47.5
+- 09/25 23:00 [financialjuice] UNIVERSITY MICHIGAN 5 YR INFLATION FINAL ACTUAL 3.4% (FORECAST 3.4%, PREVIOUS 3.4%) $MACRO
+- 09/25 23:00 [DeItaone] U.S. CONSUMER SENTIMENT SLIDES AS INFLATION FEARS RISE University of Michigan consumer sentiment fell to 48.1 in September from 51.7 in August, though slightly above expectations. Inflation expectations moved higher, with the 1-year outlook…
+- 09/25 23:00 [financialjuice] ‼ BREAKING: UNIVERSITY MICHIGAN SENTIMENT FINAL ACTUAL 48.1 (FORECAST 47.5, PREVIOUS 47.8) $MACRO
+- 09/25 23:00 [financialjuice] UNIVERSITY MICHIGAN EXPECTATIONS FINAL ACTUAL 46.3 (FORECAST 45.7, PREVIOUS 45.8) $MACRO
+- 09/25 23:04 [financialjuice] University of Michigan sentiment Final September Report
+- 09/25 23:07 [FirstSquawk] SCHMID: U.S. DEBT SEEMS "EXTREME"
+- 09/25 23:07 [financialjuice] Fed's Schmid: US debt seems extreme.
+- 09/25 23:08 [financialjuice] Fed's Schmid: The Fed still hasn't fixed the inflation issue.
+- 09/25 23:09 [FirstSquawk] US, CHINA TO ANNOUNCE TARIFF EXEMPTIONS ON AG, MEDICAL, LO-TECH GOODS - FOX
+- 09/25 23:09 [DeItaone] YIELD ON 10-YEAR TREASURY NOTE LAST UP 4.45 BASIS POINTS AT 5.207%
+- 09/25 23:11 [DeItaone] YIELD ON 30-YEAR U.S. TREASURY BONDS HITS FRESH 22-YEAR HIGH AT 5.5185%; LAST UP 4.86 BASIS POINTS AT 5.511%
+- 09/25 23:13 [DeItaone] SCHMID: A QUESTION IS WHETHER THE AI ECOSYSTEM IS BECOMING TOO BIG TO FAIL
+- 09/25 23:13 [financialjuice] Fed's Schmid: A question is whether the AI ecosystem is becoming too big to fail.
+- 09/25 23:17 [financialjuice] Fear and Greed Index: 38/100 = Fear
+- 09/25 23:18 [financialjuice] Crypto Fear and Greed INdex: 71/100 = Greed

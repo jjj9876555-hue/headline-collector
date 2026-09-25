@@ -7,52 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-25 22:59 JST／対象: 09/24 22:59 〜 09/25 22:59 JST（時刻はすべて日本時間）
+生成: 2026-09-25 23:20 JST／対象: 09/24 23:20 〜 09/25 23:20 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 94 | 09/24 22:59 | 09/25 22:47 | ⚠ 681分（07:52→19:13） |
-| FirstSquawk | 297 | 09/24 23:01 | 09/25 22:53 | ⚠ 155分（16:01→18:36） |
-| financialjuice | 247 | 09/24 23:00 | 09/25 22:59 | ⚠ 88分（11:11→12:40） |
+| DeItaone | 92 | 09/24 23:20 | 09/25 23:13 | ⚠ 681分（07:52→19:13） |
+| FirstSquawk | 292 | 09/24 23:24 | 09/25 23:09 | ⚠ 155分（16:01→18:36） |
+| financialjuice | 241 | 09/24 23:20 | 09/25 23:18 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 608 行（統合前 645 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 595 行（統合前 632 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 22:59 [DeItaone] CNN, MS NOW, POLITICO REQUEST IMMEDIATE COURT HEARING AFTER BEING BLOCKED FROM WHITE HOUSE GROUNDS ON THURSDAY -FILING
-- 09/24 23:00 [DeItaone] US AUG SINGLE-FAMILY HOME SALES 0.684 MLN UNIT ANN. RATE, (CONS 0.615 MLN) US AUG SINGLE-FAMILY HOME SALES +6.4%
-- 09/24 23:00 [financialjuice] US NEW HOME SALES CHANGE MOM ACTUAL 6.4% (FORECAST 1.3%, PREVIOUS -10.5%) $MACRO
-- 09/24 23:00 [financialjuice] US NEW HOME SALES - UNITS ACTUAL 0.684M (FORECAST 0.6155M, PREVIOUS 0.607M) $MACRO
-- 09/24 23:01 [financialjuice] US New Home Sales August Report
-- 09/24 23:01 [FirstSquawk] US New Home Sales Aug: 684K (est 616K; prev 607K; prev R 643K)
-- 09/24 23:05 [DeItaone] FED'S PAULSON SAYS SEPTEMBER'S INFLATION REPORTS DROVE RATE HIKE
-- 09/24 23:06 [FirstSquawk] SENATE WILL RETURN TO DC NEXT WEEK, SENATE REPUBLICAN AIDE SAYS
-- 09/24 23:08 [financialjuice] Trump greets China’s President Xi at the White House ahead of bilateral talks.
-- 09/24 23:10 [financialjuice] ❗ Fed's Paulson: The US central bank may need to raise interest rates again to lower inflation.
-- 09/24 23:10 [financialjuice] Fed's Paulson: September rate hike helped move policy to better inflation-fighting posture.
-- 09/24 23:10 [financialjuice] Fed's Paulson: I will support doing what's needed to get inflation back to 2%.
-- 09/24 23:10 [DeItaone] FED’S PAULSON SIGNALS ANOTHER RATE HIKE Fed’s Paulson says the central bank may need to raise rates again as underlying inflation remains “stubbornly high.” She said September’s hike put policy in a better inflation-fighting position and pl…
-- 09/24 23:10 [financialjuice] Fed's Paulson: The best you can say about inflation is that it has not gotten worse.
-- 09/24 23:10 [FirstSquawk] FED'S PAULSON: US CENTRAL BANK MAY NEED TO RAISE INTEREST RATES AGAIN TO LOWER INFLATION || SEPTEMBER RATE HIKE HELPED MOVE POLICY TO BETTER INFLATION-FIGHTING POSTURE
-- 09/24 23:11 [financialjuice] Fed's Paulson: The AI buildout is helping drive inflation pressures.
-- 09/24 23:11 [financialjuice] Fed's Paulson: Underlying inflation remains stubbornly high.
-- 09/24 23:11 [FirstSquawk] FED'S PAULSON: INFLATION BALANCE OF RISKS SHIFTED AHEAD OF SEPTEMBER POLICY MEETING || AI BUILDOUT HELPING DRIVE INFLATION PRESSURES
-- 09/24 23:11 [FirstSquawk] FED'S PAULSON SAYS SHE WILL SUPPORT DOING WHAT'S NEEDED TO GET INFLATION BACK TO 2% || BEST YOU CAN SAY ABOUT INFLATION IS THAT IT HAS NOT GOTTEN WORSE
-- 09/24 23:11 [financialjuice] Fed's Paulson: The economy is resilient, and showing signs of increased momentum.
-- 09/24 23:14 [FirstSquawk] ECB: ISABEL SCHNABEL TO RESIGN FROM THE BOARD
-- 09/24 23:14 [DeItaone] ECB: ISABEL SCHNABEL TO RESIGN FROM THE BOARD ECB: SHE WILL STEP DOWN FROM HER POSITION ON 3 JANUARY 2027.
-- 09/24 23:14 [FirstSquawk] ECB: SHE WILL STEP DOWN FROM HER POSITION ON 3 JANUARY 2027.
-- 09/24 23:15 [financialjuice] ECB: ECB's Schnabel is going to be appointed to the IMF financial counsellor and director of the monetary and capital markets department, she will step down from her ECB position on 3rd January 2027.
-- 09/24 23:17 [financialjuice] Fear and Greed Index: 35/100 = Fear
-- 09/24 23:18 [financialjuice] Crypto Fear and Greed Index: 71/100 = Greed
-- 09/24 23:18 [DeItaone] SAUDI EAST-WEST PIPELINE IS BUILDING UP CRUDE VOLUMES, TANKER LOADING YET TO RESUME AT YANBU, SOURCES SAY
-- 09/24 23:18 [FirstSquawk] SAUDI EAST-WEST PIPELINE IS INCREASING CRUDE VOLUMES, BUT TANKER LOADING AT YANBU HAS NOT STARTED AGAIN, SOURCES REPORT.
-- 09/24 23:19 [financialjuice] Saudi East-West Pipeline is building up crude volumes, tanker loading yet to resume at Yanbu - Sources.
 - 09/24 23:20 [financialjuice] Trump and the President of China Deliver Remarks - WATCH LIVE
 - 09/24 23:20 [financialjuice] BoE Breeden: We cannot ignore moves in the OIS interest rate futures market, need to understand what's going on.
 - 09/24 23:20 [DeItaone] TRUMP XI LIVE https://t.co/1PT0hpw0cP
@@ -632,3 +603,19 @@
 - 09/25 22:59 [financialjuice] ‼ BREAKING: UNIVERSITY MICHIGAN SENTIMENT FINAL ACTUAL 47.8 (FORECAST 47.5, PREVIOUS 47.8) $MACRO
 - 09/25 22:59 [financialjuice] UNIVERSITY MICHIGAN 1 YR INFLATION FINAL ACTUAL 4.6% (FORECAST 4.7%, PREVIOUS 4.6%) $MACRO
 - 09/25 22:59 [financialjuice] UNIVERSITY MICHIGAN EXPECTATIONS FINAL ACTUAL 45.8 (FORECAST 45.7, PREVIOUS 45.8) $MACRO
+- 09/25 23:00 [FirstSquawk] US UMICH FINAL SEPT. CONSUMER SENTIMENT FALLS TO 48.1; EST. 47.5
+- 09/25 23:00 [financialjuice] UNIVERSITY MICHIGAN 5 YR INFLATION FINAL ACTUAL 3.4% (FORECAST 3.4%, PREVIOUS 3.4%) $MACRO
+- 09/25 23:00 [DeItaone] U.S. CONSUMER SENTIMENT SLIDES AS INFLATION FEARS RISE University of Michigan consumer sentiment fell to 48.1 in September from 51.7 in August, though slightly above expectations. Inflation expectations moved higher, with the 1-year outlook…
+- 09/25 23:00 [financialjuice] ‼ BREAKING: UNIVERSITY MICHIGAN SENTIMENT FINAL ACTUAL 48.1 (FORECAST 47.5, PREVIOUS 47.8) $MACRO
+- 09/25 23:00 [financialjuice] UNIVERSITY MICHIGAN EXPECTATIONS FINAL ACTUAL 46.3 (FORECAST 45.7, PREVIOUS 45.8) $MACRO
+- 09/25 23:04 [financialjuice] University of Michigan sentiment Final September Report
+- 09/25 23:07 [FirstSquawk] SCHMID: U.S. DEBT SEEMS "EXTREME"
+- 09/25 23:07 [financialjuice] Fed's Schmid: US debt seems extreme.
+- 09/25 23:08 [financialjuice] Fed's Schmid: The Fed still hasn't fixed the inflation issue.
+- 09/25 23:09 [FirstSquawk] US, CHINA TO ANNOUNCE TARIFF EXEMPTIONS ON AG, MEDICAL, LO-TECH GOODS - FOX
+- 09/25 23:09 [DeItaone] YIELD ON 10-YEAR TREASURY NOTE LAST UP 4.45 BASIS POINTS AT 5.207%
+- 09/25 23:11 [DeItaone] YIELD ON 30-YEAR U.S. TREASURY BONDS HITS FRESH 22-YEAR HIGH AT 5.5185%; LAST UP 4.86 BASIS POINTS AT 5.511%
+- 09/25 23:13 [DeItaone] SCHMID: A QUESTION IS WHETHER THE AI ECOSYSTEM IS BECOMING TOO BIG TO FAIL
+- 09/25 23:13 [financialjuice] Fed's Schmid: A question is whether the AI ecosystem is becoming too big to fail.
+- 09/25 23:17 [financialjuice] Fear and Greed Index: 38/100 = Fear
+- 09/25 23:18 [financialjuice] Crypto Fear and Greed INdex: 71/100 = Greed

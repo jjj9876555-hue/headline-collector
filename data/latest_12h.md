@@ -7,42 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-25 22:59 JST／対象: 09/25 10:59 〜 09/25 22:59 JST（時刻はすべて日本時間）
+生成: 2026-09-25 23:20 JST／対象: 09/25 11:20 〜 09/25 23:20 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 31 | 09/25 19:13 | 09/25 22:47 | ⚠ 92分（19:13→20:46） |
-| FirstSquawk | 120 | 09/25 11:05 | 09/25 22:53 | ⚠ 155分（16:01→18:36） |
-| financialjuice | 114 | 09/25 11:04 | 09/25 22:59 | ⚠ 88分（11:11→12:40） |
+| DeItaone | 35 | 09/25 19:13 | 09/25 23:13 | ⚠ 92分（19:13→20:46） |
+| FirstSquawk | 112 | 09/25 11:27 | 09/25 23:09 | ⚠ 155分（16:01→18:36） |
+| financialjuice | 115 | 09/25 12:40 | 09/25 23:18 | ⚠ 59分（15:00→16:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 251 行（統合前 266 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 248 行（統合前 263 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 11:04 [financialjuice] Japan finmin katayama: deciding on specific monetary policy tools is up to BoJ
-- 09/25 11:05 [FirstSquawk] Katayama: Specific monetary policy tools are up to BOJ to determine
-- 09/25 11:05 [financialjuice] Japan finance minister Katayama: BoJ’s recent rate reduction aimed at reaching inflation target
-- 09/25 11:05 [financialjuice] Japan finance minister katayama: expect BoJ to implement suitable monetary policy while cooperating with government
-- 09/25 11:06 [financialjuice] Japan finance minister Katayama: won’t discuss particular forex levels, rate interventions
-- 09/25 11:06 [FirstSquawk] Japan Finance Minister Katayama says BOJ cut rates to achieve inflation target
-- 09/25 11:06 [financialjuice] Japan finance minister katayama: trump voiced worries over weak yen during summit
-- 09/25 11:06 [FirstSquawk] Japan Finance Minister Katayama: BOJ expected to conduct monetary policy appropriately with government coordination
-- 09/25 11:07 [financialjuice] Japan finance minister Katayama: will closely cooperate with US on forex
-- 09/25 11:07 [FirstSquawk] Japan Finance Minister Katayama: No comment on specific FX levels or rate checks
-- 09/25 11:08 [FirstSquawk] Japan Finance Minister Katayama: Trump voiced concerns about yen weakness at summit
-- 09/25 11:08 [financialjuice] Japan finance minister Katayama: PM Takaichi voiced worries about yen weakness in general
-- 09/25 11:09 [FirstSquawk] Katayama: Japan will closely coordinate with US on foreign exchange
-- 09/25 11:10 [FirstSquawk] USD/JPY declines 0.25% to 158.4700
-- 09/25 11:11 [FirstSquawk] Katayama: PM Takaichi expressed concern about the yen’s weakness in general
-- 09/25 11:11 [FirstSquawk] Pakistan says attempted Afghan attack in Gulistan sector was thwarted, several Taliban killed
-- 09/25 11:11 [financialjuice] Japan finance minister Katayama: BoJ’s recent rate increase aimed at reaching inflation goal
-- 09/25 11:12 [FirstSquawk] Pakistan security sources: Security forces and Afghan Taliban continue intermittent exchanges of fire
-- 09/25 11:18 [FirstSquawk] Canadian dollar loses ground amid weaker oil prices and a firmer US dollar
 - 09/25 11:27 [FirstSquawk] Hong Kong gains ground on Dubai in ‘super-prime’ property sales during Iran war - scmp
 - 09/25 11:42 [FirstSquawk] North Korea faces propaganda setback after Ukraine’s POW transfer reveal - SCMP
 - 09/25 11:50 [FirstSquawk] Polo expected to strengthen back to Category 5 on Friday, NHC says
@@ -275,3 +256,19 @@
 - 09/25 22:59 [financialjuice] ‼ BREAKING: UNIVERSITY MICHIGAN SENTIMENT FINAL ACTUAL 47.8 (FORECAST 47.5, PREVIOUS 47.8) $MACRO
 - 09/25 22:59 [financialjuice] UNIVERSITY MICHIGAN 1 YR INFLATION FINAL ACTUAL 4.6% (FORECAST 4.7%, PREVIOUS 4.6%) $MACRO
 - 09/25 22:59 [financialjuice] UNIVERSITY MICHIGAN EXPECTATIONS FINAL ACTUAL 45.8 (FORECAST 45.7, PREVIOUS 45.8) $MACRO
+- 09/25 23:00 [FirstSquawk] US UMICH FINAL SEPT. CONSUMER SENTIMENT FALLS TO 48.1; EST. 47.5
+- 09/25 23:00 [financialjuice] UNIVERSITY MICHIGAN 5 YR INFLATION FINAL ACTUAL 3.4% (FORECAST 3.4%, PREVIOUS 3.4%) $MACRO
+- 09/25 23:00 [DeItaone] U.S. CONSUMER SENTIMENT SLIDES AS INFLATION FEARS RISE University of Michigan consumer sentiment fell to 48.1 in September from 51.7 in August, though slightly above expectations. Inflation expectations moved higher, with the 1-year outlook…
+- 09/25 23:00 [financialjuice] ‼ BREAKING: UNIVERSITY MICHIGAN SENTIMENT FINAL ACTUAL 48.1 (FORECAST 47.5, PREVIOUS 47.8) $MACRO
+- 09/25 23:00 [financialjuice] UNIVERSITY MICHIGAN EXPECTATIONS FINAL ACTUAL 46.3 (FORECAST 45.7, PREVIOUS 45.8) $MACRO
+- 09/25 23:04 [financialjuice] University of Michigan sentiment Final September Report
+- 09/25 23:07 [FirstSquawk] SCHMID: U.S. DEBT SEEMS "EXTREME"
+- 09/25 23:07 [financialjuice] Fed's Schmid: US debt seems extreme.
+- 09/25 23:08 [financialjuice] Fed's Schmid: The Fed still hasn't fixed the inflation issue.
+- 09/25 23:09 [FirstSquawk] US, CHINA TO ANNOUNCE TARIFF EXEMPTIONS ON AG, MEDICAL, LO-TECH GOODS - FOX
+- 09/25 23:09 [DeItaone] YIELD ON 10-YEAR TREASURY NOTE LAST UP 4.45 BASIS POINTS AT 5.207%
+- 09/25 23:11 [DeItaone] YIELD ON 30-YEAR U.S. TREASURY BONDS HITS FRESH 22-YEAR HIGH AT 5.5185%; LAST UP 4.86 BASIS POINTS AT 5.511%
+- 09/25 23:13 [DeItaone] SCHMID: A QUESTION IS WHETHER THE AI ECOSYSTEM IS BECOMING TOO BIG TO FAIL
+- 09/25 23:13 [financialjuice] Fed's Schmid: A question is whether the AI ecosystem is becoming too big to fail.
+- 09/25 23:17 [financialjuice] Fear and Greed Index: 38/100 = Fear
+- 09/25 23:18 [financialjuice] Crypto Fear and Greed INdex: 71/100 = Greed
