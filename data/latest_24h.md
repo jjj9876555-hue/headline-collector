@@ -7,44 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-25 22:45 JST／対象: 09/24 22:45 〜 09/25 22:45 JST（時刻はすべて日本時間）
+生成: 2026-09-25 22:59 JST／対象: 09/24 22:59 〜 09/25 22:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 93 | 09/24 22:59 | 09/25 22:20 | ⚠ 681分（07:52→19:13） |
-| FirstSquawk | 304 | 09/24 22:45 | 09/25 22:31 | ⚠ 155分（16:01→18:36） |
-| financialjuice | 254 | 09/24 22:45 | 09/25 22:37 | ⚠ 88分（11:11→12:40） |
+| DeItaone | 94 | 09/24 22:59 | 09/25 22:47 | ⚠ 681分（07:52→19:13） |
+| FirstSquawk | 297 | 09/24 23:01 | 09/25 22:53 | ⚠ 155分（16:01→18:36） |
+| financialjuice | 247 | 09/24 23:00 | 09/25 22:59 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 621 行（統合前 658 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 608 行（統合前 645 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 22:45 [financialjuice] BoE Breeden: It is not at all obvious that there is a path to lower energy prices.
-- 09/24 22:45 [FirstSquawk] BANK OF ENGLAND BREEDEN: NOT AT ALL OBVIOUS THAT THERE IS A PATH TO LOWER ENERGY PRICES
-- 09/24 22:46 [FirstSquawk] IRANIAN AND UKRAINIAN FOREIGN MINISTERS AGREED TO CONTINUE CONTACTS TO AVOID INCREASING TENSIONS IN BILATERAL RELATIONS - IRANIAN FOREIGN MINISTRY || IRANIAN AND UKRAINIAN FOREIGN MINISTERS EXCHANGED VIEWS ON HOW TO SOLVE THE ISSUE OF UKRAI…
-- 09/24 22:46 [financialjuice] BoE Breeden: Indirect pass-through of energy price rises are limited so far, which suggests slack in the economy.
-- 09/24 22:46 [financialjuice] BoE Breeden: The larger and longer the energy shock, the more likely policy will need to respond.
-- 09/24 22:47 [financialjuice] BoE Breeden: The balance of risks has shifted, if risks crystallise, it is increasingly likely that the BoE will need to respond.
-- 09/24 22:47 [financialjuice] BoE Breeden: You can't wait too long for conclusive evidence of 2nd round effects.
-- 09/24 22:48 [financialjuice] BoE Breeden: I like to focus on what firms say about how they're approaching pricing decisions.
-- 09/24 22:48 [FirstSquawk] BREEDEN: INDIRECT PASS THROUGH OF ENERGY PRICE RISES LIMITED SO FAR, SUGGESTS SLACK IN ECONOMY
-- 09/24 22:48 [FirstSquawk] BREEDEN: THE LARGER AND LONGER THE ENERGY SHOCK, THE MORE LIKELY POLICY WILL NEED TO RESPOND
-- 09/24 22:48 [FirstSquawk] BREEDEN: BALANCE OF RISKS HAS SHIFTED, IF RISKS CRYSTALLISE INCREASINGLY LIKELY BOE WILL NEED TO RESPOND
-- 09/24 22:48 [FirstSquawk] BREEDEN: YOU CAN'T WAIT TOO LONG FOR CONCLUSIVE EVIDENCE OF 2ND ROUND EFFECTS
-- 09/24 22:48 [FirstSquawk] BREEDEN: I LIKE TO FOCUS ON WHAT FIRMS SAY ABOUT HOW THEY'RE APPROACHING PRICING DECISIONS
-- 09/24 22:49 [financialjuice] BoE Breeden: The DMP survey, PMI, and agents' surveys are important to me.
-- 09/24 22:49 [FirstSquawk] BREEDEN: DMP SURVEY, PMI, AGENTS' SURVEY ARE IMPORTANT FOR ME
-- 09/24 22:52 [financialjuice] Trump Greets China’s President Xi - WATCH LIVE
-- 09/24 22:53 [financialjuice] BoE Breeden: Unlike in 2022, we're starting at a point where policy is restrictive.
-- 09/24 22:54 [financialjuice] BoE Breeden: We have to take a meeting-by-meeting approach to the rate decisions.
-- 09/24 22:54 [financialjuice] BoE Breeden: The question for me is whether we need to do a first move, there is more uncertainty about whether we need to do lots more.
-- 09/24 22:56 [financialjuice] BoE Breeden: We may find over time that we need to do a lot more.
-- 09/24 22:57 [financialjuice] BoE Breeden: It is incredibly important that the BoE has set out a plan to exit QE, it makes it a more credible tool.
 - 09/24 22:59 [DeItaone] CNN, MS NOW, POLITICO REQUEST IMMEDIATE COURT HEARING AFTER BEING BLOCKED FROM WHITE HOUSE GROUNDS ON THURSDAY -FILING
 - 09/24 23:00 [DeItaone] US AUG SINGLE-FAMILY HOME SALES 0.684 MLN UNIT ANN. RATE, (CONS 0.615 MLN) US AUG SINGLE-FAMILY HOME SALES +6.4%
 - 09/24 23:00 [financialjuice] US NEW HOME SALES CHANGE MOM ACTUAL 6.4% (FORECAST 1.3%, PREVIOUS -10.5%) $MACRO
@@ -645,3 +624,11 @@
 - 09/25 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -134.8 MLN NASDAQ 100: -57.7 MLN DOW 30: -4.0 MLN MAG 7: -24.0 MLN $MACRO
 - 09/25 22:31 [FirstSquawk] NASDAQ UP 27.53 POINTS, OR 0.10 PERCENT, AT 26,966.90 AFTER MARKET OPEN DOW JONES UP 30.23 POINTS, OR 0.06 PERCENT, AT 51,380.21 AFTER MARKET OPEN DOW JONES UP 30.23 POINTS, OR 0.06 %, AT 51,380.21 AFTER MARKET OPEN
 - 09/25 22:37 [financialjuice] BofA raises Advanced Micro Devices' price objective to $720 from $620. $AMD
+- 09/25 22:47 [DeItaone] KATAYAMA, BESSENT REAFFIRMED THAT YEN UNDERVALUATION IS MATTER OF CONCERN
+- 09/25 22:48 [financialjuice] Japan's Fin. Min. Katayama and US Treasury Secretary Bessent reaffirmed that yen undervaluation is a matter of concern.
+- 09/25 22:49 [financialjuice] Japan's Fin. Min. Katayama and US Treasury Secretary Bessent reaffirmed their intention to strengthen cooperation - Statement.
+- 09/25 22:53 [FirstSquawk] KATAYAMA AND BESSENT REAFFIRMED THAT YEN UNDERVALUATION IS MATTER OF CONCERN
+- 09/25 22:59 [financialjuice] UNIVERSITY MICHIGAN CONDITIONS FINAL ACTUAL 50.9 (FORECAST 50.5, PREVIOUS 50.9) $MACRO
+- 09/25 22:59 [financialjuice] ‼ BREAKING: UNIVERSITY MICHIGAN SENTIMENT FINAL ACTUAL 47.8 (FORECAST 47.5, PREVIOUS 47.8) $MACRO
+- 09/25 22:59 [financialjuice] UNIVERSITY MICHIGAN 1 YR INFLATION FINAL ACTUAL 4.6% (FORECAST 4.7%, PREVIOUS 4.6%) $MACRO
+- 09/25 22:59 [financialjuice] UNIVERSITY MICHIGAN EXPECTATIONS FINAL ACTUAL 45.8 (FORECAST 45.7, PREVIOUS 45.8) $MACRO

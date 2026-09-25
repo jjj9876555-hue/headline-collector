@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-25 22:45 JST／対象: 09/25 16:45 〜 09/25 22:45 JST（時刻はすべて日本時間）
+生成: 2026-09-25 22:59 JST／対象: 09/25 16:59 〜 09/25 22:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 30 | 09/25 19:13 | 09/25 22:20 | ⚠ 92分（19:13→20:46） |
-| FirstSquawk | 65 | 09/25 18:36 | 09/25 22:31 | ⚠ 47分（19:02→19:50） |
-| financialjuice | 89 | 09/25 17:00 | 09/25 22:37 | 39分（20:20→21:00） |
+| DeItaone | 31 | 09/25 19:13 | 09/25 22:47 | ⚠ 92分（19:13→20:46） |
+| FirstSquawk | 66 | 09/25 18:36 | 09/25 22:53 | ⚠ 47分（19:02→19:50） |
+| financialjuice | 95 | 09/25 17:00 | 09/25 22:59 | 39分（20:20→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 170 行（統合前 185 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 178 行（統合前 193 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -194,3 +194,11 @@
 - 09/25 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -134.8 MLN NASDAQ 100: -57.7 MLN DOW 30: -4.0 MLN MAG 7: -24.0 MLN $MACRO
 - 09/25 22:31 [FirstSquawk] NASDAQ UP 27.53 POINTS, OR 0.10 PERCENT, AT 26,966.90 AFTER MARKET OPEN DOW JONES UP 30.23 POINTS, OR 0.06 PERCENT, AT 51,380.21 AFTER MARKET OPEN DOW JONES UP 30.23 POINTS, OR 0.06 %, AT 51,380.21 AFTER MARKET OPEN
 - 09/25 22:37 [financialjuice] BofA raises Advanced Micro Devices' price objective to $720 from $620. $AMD
+- 09/25 22:47 [DeItaone] KATAYAMA, BESSENT REAFFIRMED THAT YEN UNDERVALUATION IS MATTER OF CONCERN
+- 09/25 22:48 [financialjuice] Japan's Fin. Min. Katayama and US Treasury Secretary Bessent reaffirmed that yen undervaluation is a matter of concern.
+- 09/25 22:49 [financialjuice] Japan's Fin. Min. Katayama and US Treasury Secretary Bessent reaffirmed their intention to strengthen cooperation - Statement.
+- 09/25 22:53 [FirstSquawk] KATAYAMA AND BESSENT REAFFIRMED THAT YEN UNDERVALUATION IS MATTER OF CONCERN
+- 09/25 22:59 [financialjuice] UNIVERSITY MICHIGAN CONDITIONS FINAL ACTUAL 50.9 (FORECAST 50.5, PREVIOUS 50.9) $MACRO
+- 09/25 22:59 [financialjuice] ‼ BREAKING: UNIVERSITY MICHIGAN SENTIMENT FINAL ACTUAL 47.8 (FORECAST 47.5, PREVIOUS 47.8) $MACRO
+- 09/25 22:59 [financialjuice] UNIVERSITY MICHIGAN 1 YR INFLATION FINAL ACTUAL 4.6% (FORECAST 4.7%, PREVIOUS 4.6%) $MACRO
+- 09/25 22:59 [financialjuice] UNIVERSITY MICHIGAN EXPECTATIONS FINAL ACTUAL 45.8 (FORECAST 45.7, PREVIOUS 45.8) $MACRO

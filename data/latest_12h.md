@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-25 22:45 JST／対象: 09/25 10:45 〜 09/25 22:45 JST（時刻はすべて日本時間）
+生成: 2026-09-25 22:59 JST／対象: 09/25 10:59 〜 09/25 22:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 30 | 09/25 19:13 | 09/25 22:20 | ⚠ 92分（19:13→20:46） |
-| FirstSquawk | 121 | 09/25 10:49 | 09/25 22:31 | ⚠ 155分（16:01→18:36） |
-| financialjuice | 108 | 09/25 11:04 | 09/25 22:37 | ⚠ 88分（11:11→12:40） |
+| DeItaone | 31 | 09/25 19:13 | 09/25 22:47 | ⚠ 92分（19:13→20:46） |
+| FirstSquawk | 120 | 09/25 11:05 | 09/25 22:53 | ⚠ 155分（16:01→18:36） |
+| financialjuice | 114 | 09/25 11:04 | 09/25 22:59 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 245 行（統合前 260 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 251 行（統合前 266 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 10:49 [FirstSquawk] Korea’s semiconductor boom lures students away from university for factory jobs - KYODO
-- 09/25 10:56 [FirstSquawk] White House meeting highlights apparent differences between Trump and Xi on AI guardrails - YONHAP
 - 09/25 11:04 [financialjuice] Japan finmin katayama: deciding on specific monetary policy tools is up to BoJ
 - 09/25 11:05 [FirstSquawk] Katayama: Specific monetary policy tools are up to BOJ to determine
 - 09/25 11:05 [financialjuice] Japan finance minister Katayama: BoJ’s recent rate reduction aimed at reaching inflation target
@@ -269,3 +267,11 @@
 - 09/25 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -134.8 MLN NASDAQ 100: -57.7 MLN DOW 30: -4.0 MLN MAG 7: -24.0 MLN $MACRO
 - 09/25 22:31 [FirstSquawk] NASDAQ UP 27.53 POINTS, OR 0.10 PERCENT, AT 26,966.90 AFTER MARKET OPEN DOW JONES UP 30.23 POINTS, OR 0.06 PERCENT, AT 51,380.21 AFTER MARKET OPEN DOW JONES UP 30.23 POINTS, OR 0.06 %, AT 51,380.21 AFTER MARKET OPEN
 - 09/25 22:37 [financialjuice] BofA raises Advanced Micro Devices' price objective to $720 from $620. $AMD
+- 09/25 22:47 [DeItaone] KATAYAMA, BESSENT REAFFIRMED THAT YEN UNDERVALUATION IS MATTER OF CONCERN
+- 09/25 22:48 [financialjuice] Japan's Fin. Min. Katayama and US Treasury Secretary Bessent reaffirmed that yen undervaluation is a matter of concern.
+- 09/25 22:49 [financialjuice] Japan's Fin. Min. Katayama and US Treasury Secretary Bessent reaffirmed their intention to strengthen cooperation - Statement.
+- 09/25 22:53 [FirstSquawk] KATAYAMA AND BESSENT REAFFIRMED THAT YEN UNDERVALUATION IS MATTER OF CONCERN
+- 09/25 22:59 [financialjuice] UNIVERSITY MICHIGAN CONDITIONS FINAL ACTUAL 50.9 (FORECAST 50.5, PREVIOUS 50.9) $MACRO
+- 09/25 22:59 [financialjuice] ‼ BREAKING: UNIVERSITY MICHIGAN SENTIMENT FINAL ACTUAL 47.8 (FORECAST 47.5, PREVIOUS 47.8) $MACRO
+- 09/25 22:59 [financialjuice] UNIVERSITY MICHIGAN 1 YR INFLATION FINAL ACTUAL 4.6% (FORECAST 4.7%, PREVIOUS 4.6%) $MACRO
+- 09/25 22:59 [financialjuice] UNIVERSITY MICHIGAN EXPECTATIONS FINAL ACTUAL 45.8 (FORECAST 45.7, PREVIOUS 45.8) $MACRO
