@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-25 19:05 JST／対象: 09/25 13:05 〜 09/25 19:05 JST（時刻はすべて日本時間）
+生成: 2026-09-25 19:25 JST／対象: 09/25 13:25 〜 09/25 19:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 0 | - | - | - |
-| FirstSquawk | 46 | 09/25 13:05 | 09/25 19:02 | ⚠ 155分（16:01→18:36） |
-| financialjuice | 42 | 09/25 13:09 | 09/25 19:01 | ⚠ 59分（15:00→16:00） |
+| DeItaone | 1 | 09/25 19:13 | 09/25 19:13 | - |
+| FirstSquawk | 43 | 09/25 13:29 | 09/25 19:02 | ⚠ 155分（16:01→18:36） |
+| financialjuice | 46 | 09/25 13:32 | 09/25 19:23 | ⚠ 59分（15:00→16:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 87 行（統合前 88 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 89 行（統合前 90 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 13:05 [FirstSquawk] Jefferies lifts GoDaddy price target to $100 from $85
-- 09/25 13:09 [financialjuice] EU urges UK to increase tariffs on Chinese cars to avoid ‘made in Europe’ barriers: FT
-- 09/25 13:11 [FirstSquawk] EU calls on UK to increase tariffs on Chinese cars to prevent ‘Made in Europe’ barriers - FT
-- 09/25 13:20 [FirstSquawk] JPMorgan lowers Constellation Brands price target to $133 from $165
 - 09/25 13:29 [FirstSquawk] Trump’s AI agenda draws resistance from segments of his MAGA base - FT
 - 09/25 13:32 [financialjuice] Novoshakhtinsk oil refinery in Russia’s Rostov region hit by drone attack, pauses operations: governor
 - 09/25 13:34 [FirstSquawk] Drone attack damages Novoshakhtinsk oil refinery in Russia’s Rostov region, governor says
@@ -111,3 +107,9 @@
 - 09/25 19:02 [FirstSquawk] KATAYAMA: TAKAICHI VERY MUCH RESPECTS INDEPENDENCE OF BOJ || WON'T HESITATE TO TAKE BOLD ACTION ON YEN
 - 09/25 19:02 [FirstSquawk] KATAYAMA: DEFENSE SPENDING AT 2% OF GDP IS 'NOT ENOUGH' || OUR DEFENSE POLICY NOT DETERMINED BY US PRESSURE
 - 09/25 19:02 [FirstSquawk] KATAYAMA: OUR DEFENSE POLICY NOT DETERMINED BY US PRESSURE
+- 09/25 19:05 [financialjuice] Japan's Fin. Min. Katayama: Extra defense spending to address China threat
+- 09/25 19:05 [financialjuice] US Fed plans to raise bank oversight thresholds - Sources
+- 09/25 19:10 [financialjuice] Iraq's Erbil and Sulaimaniya airports suspend Iranian flights starting Friday - Two Sources
+- 09/25 19:10 [financialjuice] Fed's Williams: Not seeing productivity impact from AI yet
+- 09/25 19:13 [DeItaone] FED PLANS TO EASE OVERSIGHT FOR LARGE BANKS The Fed is preparing to raise asset thresholds that trigger tougher bank regulation, Reuters reports. The highest threshold could rise from $700 billion to around $960 billion, while some requirem…
+- 09/25 19:23 [financialjuice] Italy updated EU safe defense loan plan for slightly over €8B

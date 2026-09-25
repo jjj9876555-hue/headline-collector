@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-25 19:05 JST／対象: 09/24 19:05 〜 09/25 19:05 JST（時刻はすべて日本時間）
+生成: 2026-09-25 19:25 JST／対象: 09/24 19:25 〜 09/25 19:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 87 | 09/24 21:26 | 09/25 07:52 | ⚠ 230分（04:02→07:52） |
-| FirstSquawk | 325 | 09/24 19:05 | 09/25 19:02 | ⚠ 155分（16:01→18:36） |
-| financialjuice | 253 | 09/24 19:16 | 09/25 19:01 | ⚠ 88分（11:11→12:40） |
+| DeItaone | 88 | 09/24 21:26 | 09/25 19:13 | ⚠ 681分（07:52→19:13） |
+| FirstSquawk | 315 | 09/24 19:27 | 09/25 19:02 | ⚠ 155分（16:01→18:36） |
+| financialjuice | 255 | 09/24 19:25 | 09/25 19:23 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 637 行（統合前 671 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 632 行（統合前 664 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 19:05 [FirstSquawk] DHINGRA SAYS NEED TO FACTOR IN CURRENT RATES LEVEL, CONSUMPTION
-- 09/24 19:12 [FirstSquawk] BOE MPC'S DHINGRA: I WOULD NOT BE SURPRISED IF AI LEADS TO LOWER SERVICES INFLATION
-- 09/24 19:12 [FirstSquawk] EU SPOX: HIGH LEVEL CONTACTS WITH US ADMIN ARE ONGOING
-- 09/24 19:15 [FirstSquawk/financialjuice] EU COMMISSION: NO CONCRETE SHORTAGE OF DIESEL IN THE EU
-- 09/24 19:16 [financialjuice] Global crude steel output falls 1.2% to 144.2 mln metric tons in August 2026 vs August 2025 -Worldsteel
-- 09/24 19:17 [FirstSquawk] GLOBAL CRUDE STEEL OUTPUT FALLS 1.2% TO 144.2 MLN METRIC TONS IN AUGUST 2026 VS AUGUST 2025, WORLDSTEEL SAYS
-- 09/24 19:18 [FirstSquawk] CHINA CRUDE STEEL OUTPUT FALLS 3.7% TO 74.6 MLN T IN AUG 2026 VS AUG 2025 - WORLDSTEEL
-- 09/24 19:22 [FirstSquawk] IRAN'S SECURITY COUNCIL SECRETARY REZAEI: A NEW US ESCALATION COULD OPEN A SECOND FRONT AT BAB EL-MANDEB ALONGSIDE HORMUZ.
-- 09/24 19:25 [financialjuice/FirstSquawk] Saudi civil defence alerts of potential danger in Taif - Statement
-- 09/24 19:25 [FirstSquawk] SAUDI CIVIL DEFENSE ALERTS OF POTENTIAL DANGER IN MECCA, JEDDAH AND YANBU AND TABUK
-- 09/24 19:25 [FirstSquawk] EUROPE SHOULD TAKE EVERY OPPORTUNITY FOR DIALOG: RADEV ON PUTIN
 - 09/24 19:25 [financialjuice] Saudi civil defense alerts of potential danger in Mecca, Jeddah, Yanbu, and Tabuk
 - 09/24 19:27 [FirstSquawk] SPOT GOLD FALLS NEARLY 1% TO $4,244.99/OZ
 - 09/24 19:40 [financialjuice] China Life to invest up to 4.5B Yuan in a fund targeting AI and chip
@@ -661,3 +650,9 @@
 - 09/25 19:02 [FirstSquawk] KATAYAMA: TAKAICHI VERY MUCH RESPECTS INDEPENDENCE OF BOJ || WON'T HESITATE TO TAKE BOLD ACTION ON YEN
 - 09/25 19:02 [FirstSquawk] KATAYAMA: DEFENSE SPENDING AT 2% OF GDP IS 'NOT ENOUGH' || OUR DEFENSE POLICY NOT DETERMINED BY US PRESSURE
 - 09/25 19:02 [FirstSquawk] KATAYAMA: OUR DEFENSE POLICY NOT DETERMINED BY US PRESSURE
+- 09/25 19:05 [financialjuice] Japan's Fin. Min. Katayama: Extra defense spending to address China threat
+- 09/25 19:05 [financialjuice] US Fed plans to raise bank oversight thresholds - Sources
+- 09/25 19:10 [financialjuice] Iraq's Erbil and Sulaimaniya airports suspend Iranian flights starting Friday - Two Sources
+- 09/25 19:10 [financialjuice] Fed's Williams: Not seeing productivity impact from AI yet
+- 09/25 19:13 [DeItaone] FED PLANS TO EASE OVERSIGHT FOR LARGE BANKS The Fed is preparing to raise asset thresholds that trigger tougher bank regulation, Reuters reports. The highest threshold could rise from $700 billion to around $960 billion, while some requirem…
+- 09/25 19:23 [financialjuice] Italy updated EU safe defense loan plan for slightly over €8B

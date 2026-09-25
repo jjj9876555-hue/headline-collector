@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-25 19:05 JST／対象: 09/25 07:05 〜 09/25 19:05 JST（時刻はすべて日本時間）
+生成: 2026-09-25 19:25 JST／対象: 09/25 07:25 〜 09/25 19:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 1 | 09/25 07:52 | 09/25 07:52 | - |
-| FirstSquawk | 125 | 09/25 07:06 | 09/25 19:02 | ⚠ 155分（16:01→18:36） |
-| financialjuice | 76 | 09/25 07:12 | 09/25 19:01 | ⚠ 88分（11:11→12:40） |
+| DeItaone | 2 | 09/25 07:52 | 09/25 19:13 | ⚠ 681分（07:52→19:13） |
+| FirstSquawk | 124 | 09/25 07:52 | 09/25 19:02 | ⚠ 155分（16:01→18:36） |
+| financialjuice | 80 | 09/25 07:27 | 09/25 19:23 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 197 行（統合前 202 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 201 行（統合前 206 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 07:06 [FirstSquawk] ARGENTINA'S PROVINCE OF SAN JUAN LAUNCHES $600 MILLION INTERNATIONAL BOND BELOW 10% RATE - LOCAL MEDIA
-- 09/25 07:12 [financialjuice] New Zealand Finance Minister announces short-term appointment of Rebecca Williams as internal member of Reserve Bank of New Zealand monetary policy committee
 - 09/25 07:27 [financialjuice/FirstSquawk] UK foreign secretary Miliband warns Iran's foreign minister: UK will not tolerate hostile acts on British soil - Sky News
 - 09/25 07:34 [financialjuice/FirstSquawk] Iranian president on whether war could end before year-end: it's America that must decide if it wants to end this
 - 09/25 07:41 [financialjuice] OpenAI to preview latest cybersecurity-focused model GPT-6 Cyber in coming days: Fortune
@@ -221,3 +219,9 @@
 - 09/25 19:02 [FirstSquawk] KATAYAMA: TAKAICHI VERY MUCH RESPECTS INDEPENDENCE OF BOJ || WON'T HESITATE TO TAKE BOLD ACTION ON YEN
 - 09/25 19:02 [FirstSquawk] KATAYAMA: DEFENSE SPENDING AT 2% OF GDP IS 'NOT ENOUGH' || OUR DEFENSE POLICY NOT DETERMINED BY US PRESSURE
 - 09/25 19:02 [FirstSquawk] KATAYAMA: OUR DEFENSE POLICY NOT DETERMINED BY US PRESSURE
+- 09/25 19:05 [financialjuice] Japan's Fin. Min. Katayama: Extra defense spending to address China threat
+- 09/25 19:05 [financialjuice] US Fed plans to raise bank oversight thresholds - Sources
+- 09/25 19:10 [financialjuice] Iraq's Erbil and Sulaimaniya airports suspend Iranian flights starting Friday - Two Sources
+- 09/25 19:10 [financialjuice] Fed's Williams: Not seeing productivity impact from AI yet
+- 09/25 19:13 [DeItaone] FED PLANS TO EASE OVERSIGHT FOR LARGE BANKS The Fed is preparing to raise asset thresholds that trigger tougher bank regulation, Reuters reports. The highest threshold could rise from $700 billion to around $960 billion, while some requirem…
+- 09/25 19:23 [financialjuice] Italy updated EU safe defense loan plan for slightly over €8B
