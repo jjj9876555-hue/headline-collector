@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-25 14:44 JST／対象: 09/24 14:44 〜 09/25 14:44 JST（時刻はすべて日本時間）
+生成: 2026-09-25 14:58 JST／対象: 09/24 14:58 〜 09/25 14:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 87 | 09/24 21:26 | 09/25 07:52 | ⚠ 230分（04:02→07:52） |
-| FirstSquawk | 352 | 09/24 14:59 | 09/25 14:22 | ⚠ 46分（07:06→07:52） |
-| financialjuice | 242 | 09/24 14:45 | 09/25 14:21 | ⚠ 108分（15:47→17:36） |
+| FirstSquawk | 354 | 09/24 14:59 | 09/25 14:52 | ⚠ 46分（07:06→07:52） |
+| financialjuice | 240 | 09/24 15:45 | 09/25 14:21 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 653 行（統合前 687 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,8 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 14:45 [financialjuice] ECB's Kocher: Eurozone economy remains fragile
-- 09/24 14:46 [financialjuice] ECB's Kocher: Signs of somewhat more Eurozone momentum since summer
 - 09/24 14:59 [FirstSquawk] JPMorgan lowers McDonald’s target price to $260 from $280
 - 09/24 15:02 [FirstSquawk] U.S. stock futures weaken as S&P 500 futures fall 0.37%, Nasdaq futures 0.45%
 - 09/24 15:03 [FirstSquawk] NORWAY CREDIT INDICATOR GROWTH (Y/Y) AUG: 4.5% (PREV 4.3%)
@@ -677,3 +675,5 @@
 - 09/25 14:18 [FirstSquawk] BP price target raised to 640p from 570p by HSBC
 - 09/25 14:21 [financialjuice] JAPANESE CHAIN STORE SALES YOY ACTUAL 0% (FORECAST -, PREVIOUS 0%) $MACRO
 - 09/25 14:22 [FirstSquawk] 5-year JGB yield climbs 3.5 basis points to 2.410%
+- 09/25 14:48 [FirstSquawk] US crude futures decline 2%
+- 09/25 14:52 [FirstSquawk] Japan Nationwide Department Store Sales (Y/Y) Aug: 2.6% (prev 5.1%) - Tokyo Department Store Sales (Y/Y): 5.7% (prev 9.0%)

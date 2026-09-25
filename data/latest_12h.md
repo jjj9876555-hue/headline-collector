@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-25 14:44 JST／対象: 09/25 02:44 〜 09/25 14:44 JST（時刻はすべて日本時間）
+生成: 2026-09-25 14:58 JST／対象: 09/25 02:58 〜 09/25 14:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 12 | 09/25 02:49 | 09/25 07:52 | ⚠ 230分（04:02→07:52） |
-| FirstSquawk | 150 | 09/25 03:04 | 09/25 14:22 | ⚠ 46分（07:06→07:52） |
+| DeItaone | 8 | 09/25 03:01 | 09/25 07:52 | ⚠ 230分（04:02→07:52） |
+| FirstSquawk | 152 | 09/25 03:04 | 09/25 14:52 | ⚠ 46分（07:06→07:52） |
 | financialjuice | 66 | 09/25 03:00 | 09/25 14:21 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 218 行（統合前 230 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 216 行（統合前 228 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 02:49 [DeItaone] FED OFFICIALS SIGNAL ANOTHER RATE HIKE Fed officials Anna Paulson and John Williams say another rate hike may be needed as inflation remains stubbornly above target. Paulson said “modest further tightening” could be warranted, while William…
-- 09/25 02:56 [DeItaone] ROGUE AI AGENTS EXPOSE CYBERSECURITY GAPS An OpenAI agent breached infrastructure behind an Australian public-health portal in June, prompting Prime Minister Anthony Albanese to raise the incident with Sam Altman. The breach follows other r…
-- 09/25 02:56 [DeItaone] FORMER OPENAI DATA CENTER CHIEF CHRIS MALONE IS NOW AT NVIDIA - THE INFORMATION
-- 09/25 02:58 [DeItaone] FED MAY BE LOSING CONTROL OF LONG-TERM YIELDS CIFC says long-term Treasury yields are increasingly driven by forces outside the Fed’s control, including heavy government borrowing, $100+ oil, AI infrastructure spending and a global bond sel…
 - 09/25 03:00 [financialjuice] US Energy Secretary seeks refiners' help amid narrow options to curb Diesel price.
 - 09/25 03:01 [DeItaone] WHITE HOUSE SEEKS VOLUNTARY DIESEL EXPORT CURBS Energy Secretary Chris Wright has contacted major U.S. refiners about voluntarily reducing diesel exports, Reuters reports. The administration is searching for an alternative to an outright ex…
 - 09/25 03:03 [DeItaone] *TREASURY ACCEPTS $4.08B OF OFFERS FOR BUYBACK, SHORT OF MAX $6B
@@ -242,3 +238,5 @@
 - 09/25 14:18 [FirstSquawk] BP price target raised to 640p from 570p by HSBC
 - 09/25 14:21 [financialjuice] JAPANESE CHAIN STORE SALES YOY ACTUAL 0% (FORECAST -, PREVIOUS 0%) $MACRO
 - 09/25 14:22 [FirstSquawk] 5-year JGB yield climbs 3.5 basis points to 2.410%
+- 09/25 14:48 [FirstSquawk] US crude futures decline 2%
+- 09/25 14:52 [FirstSquawk] Japan Nationwide Department Store Sales (Y/Y) Aug: 2.6% (prev 5.1%) - Tokyo Department Store Sales (Y/Y): 5.7% (prev 9.0%)

@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-25 14:44 JST／対象: 09/25 08:44 〜 09/25 14:44 JST（時刻はすべて日本時間）
+生成: 2026-09-25 14:58 JST／対象: 09/25 08:58 〜 09/25 14:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 86 | 09/25 08:56 | 09/25 14:22 | 23分（12:14→12:38） |
-| financialjuice | 26 | 09/25 08:51 | 09/25 14:21 | ⚠ 88分（11:11→12:40） |
+| FirstSquawk | 87 | 09/25 09:06 | 09/25 14:52 | 25分（14:22→14:48） |
+| financialjuice | 25 | 09/25 09:03 | 09/25 14:21 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 111 行（統合前 112 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,8 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 08:51 [financialjuice] Oracle guarantees payouts to investors on New Mexico data center even if it fails to secure power before project launch - FT
-- 09/25 08:56 [FirstSquawk] JAPAN’S NIKKEI FUTURES FALL 0.1% IN EARLY TRADE; 10-YEAR JGB FUTURES DOWN 0.12 POINT
 - 09/25 09:03 [financialjuice] China's President Xi: had a candid and thorough exchange with Trump
 - 09/25 09:04 [financialjuice] China's President Xi: reached broad agreement on numerous issues
 - 09/25 09:06 [FirstSquawk] XI: WASHINGTON AND CHINA MADE COMMON UNDERSTANDING ON MANY ISSUES
@@ -135,3 +133,5 @@
 - 09/25 14:18 [FirstSquawk] BP price target raised to 640p from 570p by HSBC
 - 09/25 14:21 [financialjuice] JAPANESE CHAIN STORE SALES YOY ACTUAL 0% (FORECAST -, PREVIOUS 0%) $MACRO
 - 09/25 14:22 [FirstSquawk] 5-year JGB yield climbs 3.5 basis points to 2.410%
+- 09/25 14:48 [FirstSquawk] US crude futures decline 2%
+- 09/25 14:52 [FirstSquawk] Japan Nationwide Department Store Sales (Y/Y) Aug: 2.6% (prev 5.1%) - Tokyo Department Store Sales (Y/Y): 5.7% (prev 9.0%)
