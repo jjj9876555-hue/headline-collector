@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-26 02:52 JST／対象: 09/25 20:52 〜 09/26 02:52 JST（時刻はすべて日本時間）
+生成: 2026-09-26 03:06 JST／対象: 09/25 21:06 〜 09/26 03:06 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 62 | 09/25 20:55 | 09/26 02:18 | ⚠ 71分（00:09→01:20） |
-| FirstSquawk | 93 | 09/25 20:56 | 09/26 02:49 | 35分（00:26→01:01） |
-| financialjuice | 107 | 09/25 21:00 | 09/26 02:18 | 24分（01:09→01:34） |
+| DeItaone | 58 | 09/25 21:11 | 09/26 02:18 | ⚠ 71分（00:09→01:20） |
+| FirstSquawk | 90 | 09/25 21:06 | 09/26 03:05 | 35分（00:26→01:01） |
+| financialjuice | 106 | 09/25 21:08 | 09/26 03:05 | 34分（02:18→02:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 243 行（統合前 264 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 234 行（統合前 256 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 20:55 [DeItaone] CITI SAYS BUY THE NEXT STOCK MARKET PULLBACK Citi remains overweight U.S. equities and says it would add exposure on any market dip. Despite higher oil, interest rates and Fed uncertainty, stocks have remained resilient. Citi expects AI to …
-- 09/25 20:56 [DeItaone] SAUDI ARABIA, TURKEY AND PAKISTAN PLAN DEFENSE TALKS Representatives from Saudi Arabia, Turkey and Pakistan are planning talks on supporting Riyadh under their joint defense agreement, Al Jazeera reports. The move follows new Houthi missile…
-- 09/25 20:56 [FirstSquawk] KALLAS SAYS EU STATES AGREE ON TERMS FOR EPF FUNDS FOR UKRAINE
-- 09/25 20:57 [DeItaone] BARCLAYS WARNS STOCKS ARE NEARING A BREAKING POINT Barclays warns that rising bond yields are making equities less attractive, with the extra return stocks offer over bonds near multi-decade lows. Despite resilient earnings and AI-driven gr…
-- 09/25 20:57 [FirstSquawk] KALLAS SAYS EU COUNTRIES AGREE TERMS ON €6.6B UKRAINE FUNDS
-- 09/25 21:00 [financialjuice] Secured overnight financing rate 3.88% Sept. 24th vs 3.87% Sept. 23rd
-- 09/25 21:00 [financialjuice] Microsoft abandons personal AI chatbot race with Copilot reboot.
-- 09/25 21:01 [financialjuice] Pakistan, Saudi Arabia, and Turkey condemn attacks targeting Makkah, Saudi facilities - Pakistan Foreign Ministry
-- 09/25 21:05 [FirstSquawk] PAKISTAN, SAUDI ARABIA, AND TURKEY ARE SCHEDULING A MEETING FOR THEIR MILITARY LEADERS, ACCORDING TO PAKISTAN'S FOREIGN MINISTRY.
-- 09/25 21:05 [financialjuice] Microsoft Copilot adds home, code, autopilot capabilities.
-- 09/25 21:05 [FirstSquawk] PAKISTAN, SAUDI ARABIA, AND TURKEY WILL MEET TO TALK ABOUT SUPPORTING RIYADH UNDER A JOINT DEFENSE AGREEMENT, ACCORDING TO PAKISTAN'S FOREIGN MINISTRY.
-- 09/25 21:05 [FirstSquawk] PAKISTAN, SAUDI ARABIA, AND TURKEY CONDEMN ATTACKS AIMED AT MAKKAH AND SAUDI FACILITIES, ACCORDING TO PAKISTAN'S FOREIGN MINISTRY.
-- 09/25 21:05 [FirstSquawk] PAKISTAN, SAUDI ARABIA, AND TURKEY SUPPORT RIYADH'S RIGHT TO PROTECT ITS SECURITY, ACCORDING TO THE PAKISTAN FOREIGN MINISTRY.
-- 09/25 21:05 [DeItaone] $MSTR - STRATEGY PROPOSES DAILY DIVIDENDS ON PREFERRED STOCK Strategy is seeking shareholder approval to shift four preferred-stock series — $STRF , $STRC, $STRK and $STRD — to daily dividend payments. The change would not alter dividend ra…
 - 09/25 21:06 [FirstSquawk] MICROSOFT UNVEILS NEW COPILOT FEATURES FOR HOME, CODE, AND AUTOPILOT.
 - 09/25 21:06 [FirstSquawk] MICROSOFT IS ROLLING OUT HOME & CODE IN COPILOT THROUGH THE FRONTIER PROGRAM SOON, WITH AUTOPILOT SET TO BEGIN PRIVATE PREVIEW BY MONTH-END.
 - 09/25 21:06 [FirstSquawk] MICROSOFT'S COPILOT MANAGED RUNTIME IS NOW AVAILABLE FOR PUBLIC PREVIEW AND WILL BE INTEGRATED INTO CODE.
@@ -267,3 +253,8 @@
 - 09/26 02:42 [FirstSquawk] SENIOR IRANIAN SOURCE: RETURN TO US-IRAN MOU IS POSSIBLE
 - 09/26 02:43 [FirstSquawk] SENIOR IRANIAN SOURCE: EXCHANGED MESSAGES ON OPENING HORMUZ FOR EASING SIEGE AND SANCTIONS
 - 09/26 02:49 [FirstSquawk] SAUDI CRUDE OIL EXPORTS HIT HIGHEST LEVEL SINCE IRAN WAR BEGAN DESPITE PIPELINE OUTAGE – CNBC
+- 09/26 02:52 [financialjuice/FirstSquawk] Germany discusses requiring gas firms to fill storage next year
+- 09/26 03:00 [FirstSquawk] ANDY BURNHAM UNDER PRESSURE TO SIGNAL SHIFT ON LABOUR’S EU ‘RED LINES’ - FT
+- 09/26 03:01 [financialjuice] Pakistan Prime Minister: Through concentrated efforts, Pakistan brought Washington and Tehran under one roof, that lead to Islamabad talks, Islamabad MoU. Must appreciate Field Marshal Asim Munir, efforts of Deputy PM Ishaq Dar” - AsiaOne N…
+- 09/26 03:05 [financialjuice] Fed's Hammack: The biggest risk with inflation is the formation of an inflationary mindset
+- 09/26 03:05 [FirstSquawk] WHITE HOUSE EYES DIESEL FUEL MOVES THAT FALL SHORT OF EXPORT BAN - POLITICO

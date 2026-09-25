@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-26 02:52 JST／対象: 09/25 14:52 〜 09/26 02:52 JST（時刻はすべて日本時間）
+生成: 2026-09-26 03:06 JST／対象: 09/25 15:06 〜 09/26 03:06 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 65 | 09/25 19:13 | 09/26 02:18 | ⚠ 92分（19:13→20:46） |
-| FirstSquawk | 134 | 09/25 15:01 | 09/26 02:49 | ⚠ 155分（16:01→18:36） |
-| financialjuice | 154 | 09/25 15:00 | 09/26 02:18 | ⚠ 59分（15:00→16:00） |
+| FirstSquawk | 132 | 09/25 15:09 | 09/26 03:05 | ⚠ 155分（16:01→18:36） |
+| financialjuice | 155 | 09/25 16:00 | 09/26 03:05 | ⚠ 55分（16:05→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 333 行（統合前 355 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 331 行（統合前 354 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 15:00 [financialjuice] SWEDISH PPI MOM ACTUAL 0.9% (FORECAST -, PREVIOUS 0.1%) $MACRO
-- 09/25 15:00 [financialjuice] SWEDISH PPI YOY ACTUAL 6.8% (FORECAST -, PREVIOUS 6.4%) $MACRO
-- 09/25 15:01 [FirstSquawk] SWEDEN (AUG) PPI MOM ACTUAL: 0.9% VS 0.1% PREVIOUS
-- 09/25 15:01 [FirstSquawk] SWEDEN (AUG) PPI YOY ACTUAL: 6.8% VS 6.4% PREVIOUS
-- 09/25 15:01 [FirstSquawk] GERMANY (OCT) GFK CONSUMER CONFIDENCE ACTUAL: -30.6 VS -26.6 PREVIOUS;EST -27.2
-- 09/25 15:01 [FirstSquawk] SWEDEN (AUG) HOUSEHOLD LENDING YOY ACTUAL: 3.3% VS 3.3% PREVIOUS
-- 09/25 15:04 [FirstSquawk] TotalEnergies board reiterates confidence in CEO, strategy support
 - 09/25 15:09 [FirstSquawk] Taiwan says Xi’s Taiwan remarks in Washington reflect Beijing’s continued ‘distortion of facts’
 - 09/25 15:10 [FirstSquawk] Taiwan says it will work with US, like-minded partners to protect peace and stability in Taiwan Strait
 - 09/25 15:12 [FirstSquawk] EU urges UK to raise tariffs on Chinese cars to avoid ‘Made in Europe’ barriers, FT reports
@@ -357,3 +350,8 @@
 - 09/26 02:42 [FirstSquawk] SENIOR IRANIAN SOURCE: RETURN TO US-IRAN MOU IS POSSIBLE
 - 09/26 02:43 [FirstSquawk] SENIOR IRANIAN SOURCE: EXCHANGED MESSAGES ON OPENING HORMUZ FOR EASING SIEGE AND SANCTIONS
 - 09/26 02:49 [FirstSquawk] SAUDI CRUDE OIL EXPORTS HIT HIGHEST LEVEL SINCE IRAN WAR BEGAN DESPITE PIPELINE OUTAGE – CNBC
+- 09/26 02:52 [financialjuice/FirstSquawk] Germany discusses requiring gas firms to fill storage next year
+- 09/26 03:00 [FirstSquawk] ANDY BURNHAM UNDER PRESSURE TO SIGNAL SHIFT ON LABOUR’S EU ‘RED LINES’ - FT
+- 09/26 03:01 [financialjuice] Pakistan Prime Minister: Through concentrated efforts, Pakistan brought Washington and Tehran under one roof, that lead to Islamabad talks, Islamabad MoU. Must appreciate Field Marshal Asim Munir, efforts of Deputy PM Ishaq Dar” - AsiaOne N…
+- 09/26 03:05 [financialjuice] Fed's Hammack: The biggest risk with inflation is the formation of an inflationary mindset
+- 09/26 03:05 [FirstSquawk] WHITE HOUSE EYES DIESEL FUEL MOVES THAT FALL SHORT OF EXPORT BAN - POLITICO

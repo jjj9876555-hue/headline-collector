@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-26 02:52 JST／対象: 09/25 02:52 〜 09/26 02:52 JST（時刻はすべて日本時間）
+生成: 2026-09-26 03:06 JST／対象: 09/25 03:06 〜 09/26 03:06 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 76 | 09/25 02:56 | 09/26 02:18 | ⚠ 681分（07:52→19:13） |
-| FirstSquawk | 286 | 09/25 03:04 | 09/26 02:49 | ⚠ 155分（16:01→18:36） |
-| financialjuice | 220 | 09/25 03:00 | 09/26 02:18 | ⚠ 88分（11:11→12:40） |
+| DeItaone | 71 | 09/25 03:12 | 09/26 02:18 | ⚠ 681分（07:52→19:13） |
+| FirstSquawk | 287 | 09/25 03:07 | 09/26 03:05 | ⚠ 155分（16:01→18:36） |
+| financialjuice | 219 | 09/25 03:24 | 09/26 03:05 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 552 行（統合前 586 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 546 行（統合前 581 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 02:56 [DeItaone] ROGUE AI AGENTS EXPOSE CYBERSECURITY GAPS An OpenAI agent breached infrastructure behind an Australian public-health portal in June, prompting Prime Minister Anthony Albanese to raise the incident with Sam Altman. The breach follows other r…
-- 09/25 02:56 [DeItaone] FORMER OPENAI DATA CENTER CHIEF CHRIS MALONE IS NOW AT NVIDIA - THE INFORMATION
-- 09/25 02:58 [DeItaone] FED MAY BE LOSING CONTROL OF LONG-TERM YIELDS CIFC says long-term Treasury yields are increasingly driven by forces outside the Fed’s control, including heavy government borrowing, $100+ oil, AI infrastructure spending and a global bond sel…
-- 09/25 03:00 [financialjuice] US Energy Secretary seeks refiners' help amid narrow options to curb Diesel price.
-- 09/25 03:01 [DeItaone] WHITE HOUSE SEEKS VOLUNTARY DIESEL EXPORT CURBS Energy Secretary Chris Wright has contacted major U.S. refiners about voluntarily reducing diesel exports, Reuters reports. The administration is searching for an alternative to an outright ex…
-- 09/25 03:03 [DeItaone] *TREASURY ACCEPTS $4.08B OF OFFERS FOR BUYBACK, SHORT OF MAX $6B
-- 09/25 03:03 [financialjuice] ❗ US Treasury bought $4.078 bln in 20- 30-year debt in September 24th buyback operation
-- 09/25 03:04 [FirstSquawk] US TREASURY BUYS $4.078 BILLION OF 20–30-YEAR DEBT IN SEPTEMBER 24 BUYBACK OPERATION
-- 09/25 03:05 [FirstSquawk] U.S. ENERGY SECRETARY CHRIS WRIGHT HAS CONTACTED EXECUTIVES AT MAJOR REFINERS TO GAUGE SUPPORT FOR VOLUNTARILY RESTRICTING DIESEL EXPORTS, AS THE TRUMP ADMINISTRATION SEEKS AN ALTERNATIVE TO A SHORT-TERM EXPORT BAN. THE PUSH HIGHLIGHTS LIMI…
-- 09/25 03:05 [financialjuice] ❗ US Treasury bought $4.078 bln in 20- 30-year debt in the September 24th buyback operation, short of the max $6 bln
-- 09/25 03:05 [financialjuice] Israel's Prime Minister Netanyahu Speaks at the UNGA - WATCH LIVE
 - 09/25 03:07 [FirstSquawk] DOZENS OF DIPLOMATS WALKED OUT AT THE START OF NETANYAHU'S UN SPEECH, WITH NETANYAHU CALLING THOSE WHO WALKED OUT OF THE UN GENERAL ASSEMBLY HALL 'MORAL COWARDS'
 - 09/25 03:07 [FirstSquawk] NETANYAHU: ISRAEL IS DEFENDING MANY COUNTRIES WHOSE DELEGATES LEFT THE UN GENERAL ASSEMBLY HALL
 - 09/25 03:11 [FirstSquawk] NETANYAHU TELLS SYRIAN PRESIDENT: JEWS HAVE BEEN IN THE GOLAN HEIGHTS SINCE THE TIME OF MOSES
@@ -576,3 +565,8 @@
 - 09/26 02:42 [FirstSquawk] SENIOR IRANIAN SOURCE: RETURN TO US-IRAN MOU IS POSSIBLE
 - 09/26 02:43 [FirstSquawk] SENIOR IRANIAN SOURCE: EXCHANGED MESSAGES ON OPENING HORMUZ FOR EASING SIEGE AND SANCTIONS
 - 09/26 02:49 [FirstSquawk] SAUDI CRUDE OIL EXPORTS HIT HIGHEST LEVEL SINCE IRAN WAR BEGAN DESPITE PIPELINE OUTAGE – CNBC
+- 09/26 02:52 [financialjuice/FirstSquawk] Germany discusses requiring gas firms to fill storage next year
+- 09/26 03:00 [FirstSquawk] ANDY BURNHAM UNDER PRESSURE TO SIGNAL SHIFT ON LABOUR’S EU ‘RED LINES’ - FT
+- 09/26 03:01 [financialjuice] Pakistan Prime Minister: Through concentrated efforts, Pakistan brought Washington and Tehran under one roof, that lead to Islamabad talks, Islamabad MoU. Must appreciate Field Marshal Asim Munir, efforts of Deputy PM Ishaq Dar” - AsiaOne N…
+- 09/26 03:05 [financialjuice] Fed's Hammack: The biggest risk with inflation is the formation of an inflationary mindset
+- 09/26 03:05 [FirstSquawk] WHITE HOUSE EYES DIESEL FUEL MOVES THAT FALL SHORT OF EXPORT BAN - POLITICO
