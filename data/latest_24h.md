@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-25 14:58 JST／対象: 09/24 14:58 〜 09/25 14:58 JST（時刻はすべて日本時間）
+生成: 2026-09-25 15:23 JST／対象: 09/24 15:23 〜 09/25 15:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 87 | 09/24 21:26 | 09/25 07:52 | ⚠ 230分（04:02→07:52） |
-| FirstSquawk | 354 | 09/24 14:59 | 09/25 14:52 | ⚠ 46分（07:06→07:52） |
-| financialjuice | 240 | 09/24 15:45 | 09/25 14:21 | ⚠ 108分（15:47→17:36） |
+| FirstSquawk | 357 | 09/24 15:24 | 09/25 15:12 | ⚠ 46分（07:06→07:52） |
+| financialjuice | 242 | 09/24 15:45 | 09/25 15:00 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 653 行（統合前 687 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 658 行（統合前 692 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 14:59 [FirstSquawk] JPMorgan lowers McDonald’s target price to $260 from $280
-- 09/24 15:02 [FirstSquawk] U.S. stock futures weaken as S&P 500 futures fall 0.37%, Nasdaq futures 0.45%
-- 09/24 15:03 [FirstSquawk] NORWAY CREDIT INDICATOR GROWTH (Y/Y) AUG: 4.5% (PREV 4.3%)
-- 09/24 15:14 [FirstSquawk] Russia says its forces struck a tanker in the Black Sea: IFX
-- 09/24 15:18 [FirstSquawk] Polish Army: Poland again launches preventive air operations linked to Russian strikes on Ukraine
-- 09/24 15:20 [FirstSquawk] German FM Wadephul urges immediate ceasefire in Ukraine, starting in Black Sea to secure grain flows
 - 09/24 15:24 [FirstSquawk] Australian S&P/ASX 200 ends 0.7% lower at 8,702.00 points
 - 09/24 15:24 [FirstSquawk] DeepSeek reaches $1B annualized revenue as $7.5B fundraising nears completion: The Information
 - 09/24 15:42 [FirstSquawk] EUROZONE BOND YIELDS OPEN HIGHER-WSJ
@@ -677,3 +671,14 @@
 - 09/25 14:22 [FirstSquawk] 5-year JGB yield climbs 3.5 basis points to 2.410%
 - 09/25 14:48 [FirstSquawk] US crude futures decline 2%
 - 09/25 14:52 [FirstSquawk] Japan Nationwide Department Store Sales (Y/Y) Aug: 2.6% (prev 5.1%) - Tokyo Department Store Sales (Y/Y): 5.7% (prev 9.0%)
+- 09/25 15:00 [financialjuice] SWEDISH PPI MOM ACTUAL 0.9% (FORECAST -, PREVIOUS 0.1%) $MACRO
+- 09/25 15:00 [financialjuice] SWEDISH PPI YOY ACTUAL 6.8% (FORECAST -, PREVIOUS 6.4%) $MACRO
+- 09/25 15:01 [FirstSquawk] SWEDEN (AUG) PPI MOM ACTUAL: 0.9% VS 0.1% PREVIOUS
+- 09/25 15:01 [FirstSquawk] SWEDEN (AUG) PPI YOY ACTUAL: 6.8% VS 6.4% PREVIOUS
+- 09/25 15:01 [FirstSquawk] GERMANY (OCT) GFK CONSUMER CONFIDENCE ACTUAL: -30.6 VS -26.6 PREVIOUS;EST -27.2
+- 09/25 15:01 [FirstSquawk] SWEDEN (AUG) HOUSEHOLD LENDING YOY ACTUAL: 3.3% VS 3.3% PREVIOUS
+- 09/25 15:04 [FirstSquawk] TotalEnergies board reiterates confidence in CEO, strategy support
+- 09/25 15:09 [FirstSquawk] Taiwan says Xi’s Taiwan remarks in Washington reflect Beijing’s continued ‘distortion of facts’
+- 09/25 15:10 [FirstSquawk] Taiwan says it will work with US, like-minded partners to protect peace and stability in Taiwan Strait
+- 09/25 15:12 [FirstSquawk] EU urges UK to raise tariffs on Chinese cars to avoid ‘Made in Europe’ barriers, FT reports
+- 09/25 15:12 [FirstSquawk] EU pushes Trump to preserve ‘free flow’ of diesel, FT reports

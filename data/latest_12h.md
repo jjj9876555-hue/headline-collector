@@ -7,42 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-25 14:58 JST／対象: 09/25 02:58 〜 09/25 14:58 JST（時刻はすべて日本時間）
+生成: 2026-09-25 15:23 JST／対象: 09/25 03:23 〜 09/25 15:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 8 | 09/25 03:01 | 09/25 07:52 | ⚠ 230分（04:02→07:52） |
-| FirstSquawk | 152 | 09/25 03:04 | 09/25 14:52 | ⚠ 46分（07:06→07:52） |
-| financialjuice | 66 | 09/25 03:00 | 09/25 14:21 | ⚠ 88分（11:11→12:40） |
+| DeItaone | 5 | 09/25 03:30 | 09/25 07:52 | ⚠ 230分（04:02→07:52） |
+| FirstSquawk | 148 | 09/25 03:25 | 09/25 15:12 | ⚠ 46分（07:06→07:52） |
+| financialjuice | 64 | 09/25 03:24 | 09/25 15:00 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 216 行（統合前 228 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 208 行（統合前 219 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 03:00 [financialjuice] US Energy Secretary seeks refiners' help amid narrow options to curb Diesel price.
-- 09/25 03:01 [DeItaone] WHITE HOUSE SEEKS VOLUNTARY DIESEL EXPORT CURBS Energy Secretary Chris Wright has contacted major U.S. refiners about voluntarily reducing diesel exports, Reuters reports. The administration is searching for an alternative to an outright ex…
-- 09/25 03:03 [DeItaone] *TREASURY ACCEPTS $4.08B OF OFFERS FOR BUYBACK, SHORT OF MAX $6B
-- 09/25 03:03 [financialjuice] ❗ US Treasury bought $4.078 bln in 20- 30-year debt in September 24th buyback operation
-- 09/25 03:04 [FirstSquawk] US TREASURY BUYS $4.078 BILLION OF 20–30-YEAR DEBT IN SEPTEMBER 24 BUYBACK OPERATION
-- 09/25 03:05 [FirstSquawk] U.S. ENERGY SECRETARY CHRIS WRIGHT HAS CONTACTED EXECUTIVES AT MAJOR REFINERS TO GAUGE SUPPORT FOR VOLUNTARILY RESTRICTING DIESEL EXPORTS, AS THE TRUMP ADMINISTRATION SEEKS AN ALTERNATIVE TO A SHORT-TERM EXPORT BAN. THE PUSH HIGHLIGHTS LIMI…
-- 09/25 03:05 [financialjuice] ❗ US Treasury bought $4.078 bln in 20- 30-year debt in the September 24th buyback operation, short of the max $6 bln
-- 09/25 03:05 [financialjuice] Israel's Prime Minister Netanyahu Speaks at the UNGA - WATCH LIVE
-- 09/25 03:07 [FirstSquawk] DOZENS OF DIPLOMATS WALKED OUT AT THE START OF NETANYAHU'S UN SPEECH, WITH NETANYAHU CALLING THOSE WHO WALKED OUT OF THE UN GENERAL ASSEMBLY HALL 'MORAL COWARDS'
-- 09/25 03:07 [FirstSquawk] NETANYAHU: ISRAEL IS DEFENDING MANY COUNTRIES WHOSE DELEGATES LEFT THE UN GENERAL ASSEMBLY HALL
-- 09/25 03:11 [FirstSquawk] NETANYAHU TELLS SYRIAN PRESIDENT: JEWS HAVE BEEN IN THE GOLAN HEIGHTS SINCE THE TIME OF MOSES
-- 09/25 03:12 [FirstSquawk/DeItaone] FRENCH PRESIDENT MACRON: CIA HAS NOT WARNED FRANCE ABOUT RUSSIAN THREATS
-- 09/25 03:13 [FirstSquawk] MARYGOLD COMPANIES’ SUBSIDIARY GOURMET FOODS HAS SIGNED A DEFINITIVE AGREEMENT TO SELL ITS PRINTSTOCK BUSINESS UNIT FOR NZ$2.45 MILLION (US$1.4 MILLION), COVERING ALL PRINTSTOCK ASSETS. || DEAL INCLUDES A FIVE-YEAR POST-CLOSING RESTRAINT OF…
-- 09/25 03:13 [FirstSquawk] MERCADOLIBRE IS LAUNCHING A NEW BRAZIL DELIVERY SEGMENT OFFERING ORDERS WITHIN UP TO ONE HOUR, STARTING IN SÃO PAULO, EXPANDING ITS FAST-COMMERCE OPERATIONS.
-- 09/25 03:13 [FirstSquawk] MERCADOLIBRE’S PHARMACY BUSINESS WILL BEGIN SELLING PRESCRIPTION DRUGS IN BRAZIL THIS MONTH, WITH THE PHARMACY SEGMENT SET TO JOIN ITS MARKETPLACE MODEL IN OCTOBER INITIALLY THROUGH THREE CHAINS.
-- 09/25 03:17 [FirstSquawk] FRENCH PRESIDENT MACRON SAYS RUSSIA IS 'MULTIPLYING HOSTILE, AND CRIMINAL ACTS, AGAINST EUROPEAN NATIONS', WARNING THAT FRANCE COULD FACE ATTACKS SIMILAR TO THE FAILED LEIPZIG ATTACK AND THAT ALL SENSITIVE SITES IN FRANCE ARE SUBJECT TO ADD…
-- 09/25 03:19 [FirstSquawk] NETANYAHU: “WE’RE GOING TO WIN, WE HAVE NO OTHER CHOICE”
-- 09/25 03:20 [FirstSquawk] NETANYAHU HOLDS UP PAGER IN REFERENCE TO ISRAEL’S ATTACK ON IRAN-BACKED HEZBOLLAH USING PAGERS
-- 09/25 03:20 [FirstSquawk] NETANYAHU: “I WON’T STAND FOR VIGILANTISM; WE’RE A COUNTRY OF LAW”
 - 09/25 03:24 [financialjuice] French President Macron: We will send military means, soldiers to protect the Red Sea route.
 - 09/25 03:25 [FirstSquawk] NETANYAHU: “WE HAVE NO GREATER PARTNER THAN TRUMP”; THANKS TRUMP
 - 09/25 03:26 [financialjuice] Meta introduces Horizon Create & Horizon Studio $META
@@ -240,3 +221,14 @@
 - 09/25 14:22 [FirstSquawk] 5-year JGB yield climbs 3.5 basis points to 2.410%
 - 09/25 14:48 [FirstSquawk] US crude futures decline 2%
 - 09/25 14:52 [FirstSquawk] Japan Nationwide Department Store Sales (Y/Y) Aug: 2.6% (prev 5.1%) - Tokyo Department Store Sales (Y/Y): 5.7% (prev 9.0%)
+- 09/25 15:00 [financialjuice] SWEDISH PPI MOM ACTUAL 0.9% (FORECAST -, PREVIOUS 0.1%) $MACRO
+- 09/25 15:00 [financialjuice] SWEDISH PPI YOY ACTUAL 6.8% (FORECAST -, PREVIOUS 6.4%) $MACRO
+- 09/25 15:01 [FirstSquawk] SWEDEN (AUG) PPI MOM ACTUAL: 0.9% VS 0.1% PREVIOUS
+- 09/25 15:01 [FirstSquawk] SWEDEN (AUG) PPI YOY ACTUAL: 6.8% VS 6.4% PREVIOUS
+- 09/25 15:01 [FirstSquawk] GERMANY (OCT) GFK CONSUMER CONFIDENCE ACTUAL: -30.6 VS -26.6 PREVIOUS;EST -27.2
+- 09/25 15:01 [FirstSquawk] SWEDEN (AUG) HOUSEHOLD LENDING YOY ACTUAL: 3.3% VS 3.3% PREVIOUS
+- 09/25 15:04 [FirstSquawk] TotalEnergies board reiterates confidence in CEO, strategy support
+- 09/25 15:09 [FirstSquawk] Taiwan says Xi’s Taiwan remarks in Washington reflect Beijing’s continued ‘distortion of facts’
+- 09/25 15:10 [FirstSquawk] Taiwan says it will work with US, like-minded partners to protect peace and stability in Taiwan Strait
+- 09/25 15:12 [FirstSquawk] EU urges UK to raise tariffs on Chinese cars to avoid ‘Made in Europe’ barriers, FT reports
+- 09/25 15:12 [FirstSquawk] EU pushes Trump to preserve ‘free flow’ of diesel, FT reports
