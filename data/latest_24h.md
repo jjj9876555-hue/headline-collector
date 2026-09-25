@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-25 10:44 JST／対象: 09/24 10:44 〜 09/25 10:44 JST（時刻はすべて日本時間）
+生成: 2026-09-25 10:58 JST／対象: 09/24 10:58 〜 09/25 10:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 87 | 09/24 21:26 | 09/25 07:52 | ⚠ 230分（04:02→07:52） |
-| FirstSquawk | 369 | 09/24 10:46 | 09/25 10:41 | ⚠ 46分（07:06→07:52） |
+| FirstSquawk | 369 | 09/24 10:59 | 09/25 10:56 | ⚠ 46分（07:06→07:52） |
 | financialjuice | 248 | 09/24 11:04 | 09/25 10:32 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,8 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 10:46 [FirstSquawk] Osaka rubber futures climb 5.25% to highest level in 15 years
-- 09/24 10:52 [FirstSquawk] Xi receives rare welcome from Trump at military base before summit - YONHAP
 - 09/24 10:59 [FirstSquawk] Euro drops below 1.1400 as expectations of Fed hikes lift the US Dollar - FX
 - 09/24 11:02 [FirstSquawk] 5-year Japanese government bond yield rises to record 2.345%, up 7 bps
 - 09/24 11:04 [financialjuice] OpenAI: ChatGPT ads to start launching across Indonesia, Malaysia, Philippines, Singapore, Thailand, Vietnam, and Taiwan
@@ -700,3 +698,5 @@
 - 09/25 10:33 [FirstSquawk] Tesla: DHL among customers for Semi trucks, executive says
 - 09/25 10:38 [FirstSquawk] Japanese government bond yields rise following a sharp jump in U.S. Treasury yields - WSJ
 - 09/25 10:41 [FirstSquawk] 30-year Japanese government bond yield rises to 4.210%, up 5.0 basis points
+- 09/25 10:49 [FirstSquawk] Korea’s semiconductor boom lures students away from university for factory jobs - KYODO
+- 09/25 10:56 [FirstSquawk] White House meeting highlights apparent differences between Trump and Xi on AI guardrails - YONHAP

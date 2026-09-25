@@ -7,44 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-25 10:44 JST／対象: 09/24 22:44 〜 09/25 10:44 JST（時刻はすべて日本時間）
+生成: 2026-09-25 10:58 JST／対象: 09/24 22:58 〜 09/25 10:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 63 | 09/24 22:59 | 09/25 07:52 | ⚠ 230分（04:02→07:52） |
-| FirstSquawk | 183 | 09/24 22:45 | 09/25 10:41 | ⚠ 46分（07:06→07:52） |
-| financialjuice | 146 | 09/24 22:45 | 09/25 10:32 | ⚠ 76分（09:15→10:31） |
+| FirstSquawk | 177 | 09/24 23:01 | 09/25 10:56 | ⚠ 46分（07:06→07:52） |
+| financialjuice | 133 | 09/24 23:00 | 09/25 10:32 | ⚠ 76分（09:15→10:31） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 376 行（統合前 398 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 357 行（統合前 379 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 22:45 [financialjuice] BoE Breeden: It is not at all obvious that there is a path to lower energy prices.
-- 09/24 22:45 [FirstSquawk] BANK OF ENGLAND BREEDEN: NOT AT ALL OBVIOUS THAT THERE IS A PATH TO LOWER ENERGY PRICES
-- 09/24 22:46 [FirstSquawk] IRANIAN AND UKRAINIAN FOREIGN MINISTERS AGREED TO CONTINUE CONTACTS TO AVOID INCREASING TENSIONS IN BILATERAL RELATIONS - IRANIAN FOREIGN MINISTRY || IRANIAN AND UKRAINIAN FOREIGN MINISTERS EXCHANGED VIEWS ON HOW TO SOLVE THE ISSUE OF UKRAI…
-- 09/24 22:46 [financialjuice] BoE Breeden: Indirect pass-through of energy price rises are limited so far, which suggests slack in the economy.
-- 09/24 22:46 [financialjuice] BoE Breeden: The larger and longer the energy shock, the more likely policy will need to respond.
-- 09/24 22:47 [financialjuice] BoE Breeden: The balance of risks has shifted, if risks crystallise, it is increasingly likely that the BoE will need to respond.
-- 09/24 22:47 [financialjuice] BoE Breeden: You can't wait too long for conclusive evidence of 2nd round effects.
-- 09/24 22:48 [financialjuice] BoE Breeden: I like to focus on what firms say about how they're approaching pricing decisions.
-- 09/24 22:48 [FirstSquawk] BREEDEN: INDIRECT PASS THROUGH OF ENERGY PRICE RISES LIMITED SO FAR, SUGGESTS SLACK IN ECONOMY
-- 09/24 22:48 [FirstSquawk] BREEDEN: THE LARGER AND LONGER THE ENERGY SHOCK, THE MORE LIKELY POLICY WILL NEED TO RESPOND
-- 09/24 22:48 [FirstSquawk] BREEDEN: BALANCE OF RISKS HAS SHIFTED, IF RISKS CRYSTALLISE INCREASINGLY LIKELY BOE WILL NEED TO RESPOND
-- 09/24 22:48 [FirstSquawk] BREEDEN: YOU CAN'T WAIT TOO LONG FOR CONCLUSIVE EVIDENCE OF 2ND ROUND EFFECTS
-- 09/24 22:48 [FirstSquawk] BREEDEN: I LIKE TO FOCUS ON WHAT FIRMS SAY ABOUT HOW THEY'RE APPROACHING PRICING DECISIONS
-- 09/24 22:49 [financialjuice] BoE Breeden: The DMP survey, PMI, and agents' surveys are important to me.
-- 09/24 22:49 [FirstSquawk] BREEDEN: DMP SURVEY, PMI, AGENTS' SURVEY ARE IMPORTANT FOR ME
-- 09/24 22:52 [financialjuice] Trump Greets China’s President Xi - WATCH LIVE
-- 09/24 22:53 [financialjuice] BoE Breeden: Unlike in 2022, we're starting at a point where policy is restrictive.
-- 09/24 22:54 [financialjuice] BoE Breeden: We have to take a meeting-by-meeting approach to the rate decisions.
-- 09/24 22:54 [financialjuice] BoE Breeden: The question for me is whether we need to do a first move, there is more uncertainty about whether we need to do lots more.
-- 09/24 22:56 [financialjuice] BoE Breeden: We may find over time that we need to do a lot more.
-- 09/24 22:57 [financialjuice] BoE Breeden: It is incredibly important that the BoE has set out a plan to exit QE, it makes it a more credible tool.
 - 09/24 22:59 [DeItaone] CNN, MS NOW, POLITICO REQUEST IMMEDIATE COURT HEARING AFTER BEING BLOCKED FROM WHITE HOUSE GROUNDS ON THURSDAY -FILING
 - 09/24 23:00 [DeItaone] US AUG SINGLE-FAMILY HOME SALES 0.684 MLN UNIT ANN. RATE, (CONS 0.615 MLN) US AUG SINGLE-FAMILY HOME SALES +6.4%
 - 09/24 23:00 [financialjuice] US NEW HOME SALES CHANGE MOM ACTUAL 6.4% (FORECAST 1.3%, PREVIOUS -10.5%) $MACRO
@@ -400,3 +379,5 @@
 - 09/25 10:33 [FirstSquawk] Tesla: DHL among customers for Semi trucks, executive says
 - 09/25 10:38 [FirstSquawk] Japanese government bond yields rise following a sharp jump in U.S. Treasury yields - WSJ
 - 09/25 10:41 [FirstSquawk] 30-year Japanese government bond yield rises to 4.210%, up 5.0 basis points
+- 09/25 10:49 [FirstSquawk] Korea’s semiconductor boom lures students away from university for factory jobs - KYODO
+- 09/25 10:56 [FirstSquawk] White House meeting highlights apparent differences between Trump and Xi on AI guardrails - YONHAP

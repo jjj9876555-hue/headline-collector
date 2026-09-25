@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-25 10:44 JST／対象: 09/25 04:44 〜 09/25 10:44 JST（時刻はすべて日本時間）
+生成: 2026-09-25 10:58 JST／対象: 09/25 04:58 〜 09/25 10:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/25 07:52 | 09/25 07:52 | - |
-| FirstSquawk | 84 | 09/25 04:49 | 09/25 10:41 | ⚠ 46分（07:06→07:52） |
-| financialjuice | 37 | 09/25 04:51 | 09/25 10:32 | ⚠ 76分（09:15→10:31） |
+| FirstSquawk | 84 | 09/25 05:01 | 09/25 10:56 | ⚠ 46分（07:06→07:52） |
+| financialjuice | 36 | 09/25 05:04 | 09/25 10:32 | ⚠ 76分（09:15→10:31） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 115 行（統合前 122 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 114 行（統合前 121 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 04:49 [FirstSquawk] NATO SEC. GEN. RUTTE: EUROPEAN ALLIES PREPARED FOR RUSSIAN HYBRID ATTACKS.
-- 09/25 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 2025.2 MLN NASDAQ 100: 1561.7 MLN DOW 30: 798.0 MLN MAG 7: 810.2 MLN $MACRO
-- 09/25 04:51 [FirstSquawk] SOUTH KOREA PRESIDENT LEE: SOUTH KOREA TO STRENGTHEN MONITORING OF COUNTERFEIT & ILLICIT GOODS IMPORTS
 - 09/25 05:01 [FirstSquawk] NASDAQ CLOSES 0.04% HIGHER AT 26,945.85, UP 9.81 POINTS S&P 500 CLOSES 0.03% LOWER AT 7,703.93, DOWN 2.10 POINTS DOW JONES CLOSES 0.29% LOWER AT 51,359.75, DOWN 151.84 POINTS
 - 09/25 05:01 [FirstSquawk] NYSE SHORT INTEREST RISES 2.7% TO 22.78 BILLION SHARES IN MID-SEPTEMBER
 - 09/25 05:04 [financialjuice/FirstSquawk] Anthropic strikes $12 billion deal with Akamai for AI computing.
@@ -139,3 +136,5 @@
 - 09/25 10:33 [FirstSquawk] Tesla: DHL among customers for Semi trucks, executive says
 - 09/25 10:38 [FirstSquawk] Japanese government bond yields rise following a sharp jump in U.S. Treasury yields - WSJ
 - 09/25 10:41 [FirstSquawk] 30-year Japanese government bond yield rises to 4.210%, up 5.0 basis points
+- 09/25 10:49 [FirstSquawk] Korea’s semiconductor boom lures students away from university for factory jobs - KYODO
+- 09/25 10:56 [FirstSquawk] White House meeting highlights apparent differences between Trump and Xi on AI guardrails - YONHAP
