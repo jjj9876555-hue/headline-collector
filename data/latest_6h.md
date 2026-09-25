@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-26 05:16 JST／対象: 09/25 23:16 〜 09/26 05:16 JST（時刻はすべて日本時間）
+生成: 2026-09-26 05:33 JST／対象: 09/25 23:33 〜 09/26 05:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 31 | 09/25 23:26 | 09/26 03:09 | ⚠ 71分（00:09→01:20） |
+| DeItaone | 30 | 09/25 23:42 | 09/26 03:09 | ⚠ 71分（00:09→01:20） |
 | FirstSquawk | 72 | 09/25 23:34 | 09/26 05:01 | 35分（00:26→01:01） |
-| financialjuice | 94 | 09/25 23:17 | 09/26 04:51 | 34分（02:18→02:52） |
+| financialjuice | 99 | 09/25 23:42 | 09/26 05:23 | 34分（02:18→02:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 188 行（統合前 198 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 192 行（統合前 202 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 23:17 [financialjuice] Fear and Greed Index: 38/100 = Fear
-- 09/25 23:18 [financialjuice] Crypto Fear and Greed INdex: 71/100 = Greed
-- 09/25 23:22 [financialjuice] President Trump and the First Lady Greet the President of China and Madame Peng
-- 09/25 23:26 [DeItaone] BILL GATES WARNS AI COULD CAUSE ‘A BILLION DEATHS’ Bill Gates warns AI is already powerful enough to potentially drive events causing a billion deaths, particularly if advanced tools are exploited by malicious actors. Gates says AI could be…
 - 09/25 23:34 [FirstSquawk] MEXICO PRESIDENT SHEINBAUM: UNCLEAR IF US-MEXICO TRADE DEAL WILL BE REACHED BEFORE NOVEMBER || WORKING TO ADDRESS US TRADE DEFICIT CONCERNS
 - 09/25 23:34 [FirstSquawk] RUSSIA CLAIMS TO HAVE STRUCK DRY CARGO SHIP AT PORT OF CHORNOMORSK - IFX
 - 09/25 23:42 [DeItaone] RUSSIA CAN IMMEDIATELY RESTART 80% OF GRAIN TRADING PORTS IN BLACK SEA AND SEA OF AZOV IF DIPLOMATIC EFFORTS TO REOPEN BLACK SEA SUCCEED, DATA FROM INDUSTRY SOURCES SHOWS THREE TERMINALS ACCOUNTING FOR 20% OF RUSSIAN GRAIN INFRASTRUCTURE IN…
@@ -212,3 +208,11 @@
 - 09/26 04:35 [FirstSquawk] OPENAI: SOME WEBSITES INVOLVED IN MISALIGNED MODELS INCIDENT ARE OPERATED BY GOVERNMENTS, UNIVERSITIES, PUBLIC AGENCIES, AND OTHERS
 - 09/26 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 1926.3 MLN NASDAQ 100: 1155.3 MLN DOW 30: 591.4 MLN MAG 7: 794.2 MLN $MACRO
 - 09/26 05:01 [FirstSquawk] NASDAQ UNOFFICIALLY CLOSES UP 139.94 POINTS, OR 0.52 PERCENT, AT 27,079.32 S&P 500 UNOFFICIALLY CLOSES UP 38.20 POINTS, OR 0.50 PERCENT, AT 7,742.33 DOW JONES UNOFFICIALLY CLOSES UP 461.86 POINTS, OR 0.90 PERCENT, AT 51,811.84
+- 09/26 05:17 [financialjuice] Stocks Rebound as Iran Diplomacy Hopes Push Oil Lower – US Market Wrap
+- 09/26 05:18 [financialjuice] US bank deposits fell to $19.568 trln from $19.658 trln in prior week.
+- 09/26 05:20 [financialjuice] ❗ Iran's Foreign Minister: Iran has conveyed to the US a concrete 7-day plan.
+- 09/26 05:21 [financialjuice] Iran's Foreign Minister: Iran will not surrender its sovereign rights under pressure.
+- 09/26 05:21 [financialjuice] Iran's Foreign Minister: The 7 days will start when the US accepts the plan.
+- 09/26 05:22 [financialjuice] Iran's Foreign Minister: The choice now rests with the US.
+- 09/26 05:22 [financialjuice] Iran's Foreign Minister: The actions that the US should take are not new, they are all already in the MOU.
+- 09/26 05:23 [financialjuice] Iran's Foreign Minister: They can accept this 7-day plan, and at the end, the Strait of Hormuz will be open.

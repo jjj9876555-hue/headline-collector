@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-26 05:16 JST／対象: 09/25 05:16 〜 09/26 05:16 JST（時刻はすべて日本時間）
+生成: 2026-09-26 05:33 JST／対象: 09/25 05:33 〜 09/26 05:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 67 | 09/25 07:52 | 09/26 03:09 | ⚠ 681分（07:52→19:13） |
-| FirstSquawk | 270 | 09/25 05:17 | 09/26 05:01 | ⚠ 155分（16:01→18:36） |
-| financialjuice | 248 | 09/25 05:16 | 09/26 04:51 | ⚠ 88分（11:11→12:40） |
+| FirstSquawk | 261 | 09/25 06:06 | 09/26 05:01 | ⚠ 155分（16:01→18:36） |
+| financialjuice | 251 | 09/25 06:01 | 09/26 05:23 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 556 行（統合前 587 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 550 行（統合前 581 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 05:16 [financialjuice] China's Xi: New arrangement after China-US trade talks is good news.
-- 09/25 05:17 [FirstSquawk] COSTCO Q4 NET SALES ROSE TO $93.87 BILLION, WITH TOTAL REVENUE AT $95.72 BILLION AND NET INCOME OF $3.0 BILLION; EPS CAME IN AT $6.75 VERSUS $6.56 EXPECTED. || ADJUSTED COMPARABLE SALES GREW 6.7%, WHILE EPS INCLUDED A $0.15 BENEFIT FROM IEE…
-- 09/25 05:18 [financialjuice] $COST Costco Q4 Earnings EPS $6.75, est. $6.53 Total Revenue $95.72B, est. $94.92B Total Company Comp Sales ex-gas, FX +6.7%, est. +6.44% Total Company Comp Sales incl. gas, FX +9.4%, est. +8.37%
-- 09/25 05:19 [financialjuice] Trump and Xi confirmed that they would support each other in hosting the APEC Economic Leaders meeting and the G20 Summit in 2026 - Xinhua
-- 09/25 05:19 [FirstSquawk] CHINESE PRESIDENT XI: CHINA & US DELEGATIONS REACH NEW ARRANGEMENT AFTER TRADE TALKS; CALLS IT “GOOD NEWS”
-- 09/25 05:20 [FirstSquawk] TRUMP & XI AGREE TO SUPPORT EACH OTHER IN HOSTING 2026 APEC ECONOMIC LEADERS’ MEETING & G20 SUMMIT — XINHUA
-- 09/25 05:21 [financialjuice] Xi and Trump exchange views on the Middle East situation, the Ukraine crisis and the Korean Peninsula - Xinhua
-- 09/25 05:22 [FirstSquawk] CHINESE PRESIDENT XI & TRUMP EXCHANGE VIEWS ON MIDDLE EAST, UKRAINE CRISIS & KOREAN PENINSULA — XINHUA
-- 09/25 05:24 [financialjuice] President Xi stressed that the economic and trade teams of the two sides held a new round of consultations and reached a new joint arrangement - Xinhua
-- 09/25 05:25 [FirstSquawk] NEW YORK MAYOR MAMDANI: NETANYAHU USED UN SPEECH TO REPEAT “BASELESS LIES” ABOUT PALESTINIANS; SAYS NO LIE CHANGES HIS STATUS UNDER AN INTERNATIONAL CRIMINAL COURT ARREST WARRANT
-- 09/25 05:29 [FirstSquawk] CHINESE PRESIDENT XI: CHINA & US HAVE “EVEN MORE REASONS TO COOPERATE” ON AI DESPITE COMPETITION — XINHUA
-- 09/25 05:31 [FirstSquawk] AKAMAI TECHNOLOGIES ANNOUNCES A MULTI-YEAR $11.6 BILLION AGREEMENT WITH ANTHROPIC TO SUPPORT RISING AI DEMAND, WITH POTENTIAL EXPANSION OF UP TO $9 BILLION, TAKING THE TOTAL COMMITMENT TO AS MUCH AS $20 BILLION.
-- 09/25 05:32 [FirstSquawk] AKAMAI EXPECTS $5.5 BILLION IN CAPITAL EXPENDITURE FOR THE INITIAL COMMITMENT, INCLUDING A $1.7 BILLION INCREASE IN 2026 CAPEX, WHILE ISSUING ANTHROPIC A WARRANT FOR UP TO 7.7 MILLION SHARES, OR 5% OF OUTSTANDING STOCK, AT $111.33 PER SHARE…
-- 09/25 05:32 [FirstSquawk] DELTA AIR LINES DECLARES QUARTERLY DIVIDEND OF $0.22 PER SHARE
 - 09/25 06:01 [financialjuice] Bond Volatility Keeps Stocks in Check as Oil Fuels Inflation Concerns – US Market Wrap
 - 09/25 06:04 [financialjuice/FirstSquawk] Finnish president says he urges Elon Musk to extend Starlink coverage over Russia and occupied areas to help Ukraine target Russian ballistic missile launchers
 - 09/25 06:13 [FirstSquawk] COSTCO RECEIVED $184 MILLION IN IEEPA TARIFF REFUNDS IN Q4 — EXECUTIVE SAYS ON EARNINGS CALL
@@ -580,3 +566,11 @@
 - 09/26 04:35 [FirstSquawk] OPENAI: SOME WEBSITES INVOLVED IN MISALIGNED MODELS INCIDENT ARE OPERATED BY GOVERNMENTS, UNIVERSITIES, PUBLIC AGENCIES, AND OTHERS
 - 09/26 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 1926.3 MLN NASDAQ 100: 1155.3 MLN DOW 30: 591.4 MLN MAG 7: 794.2 MLN $MACRO
 - 09/26 05:01 [FirstSquawk] NASDAQ UNOFFICIALLY CLOSES UP 139.94 POINTS, OR 0.52 PERCENT, AT 27,079.32 S&P 500 UNOFFICIALLY CLOSES UP 38.20 POINTS, OR 0.50 PERCENT, AT 7,742.33 DOW JONES UNOFFICIALLY CLOSES UP 461.86 POINTS, OR 0.90 PERCENT, AT 51,811.84
+- 09/26 05:17 [financialjuice] Stocks Rebound as Iran Diplomacy Hopes Push Oil Lower – US Market Wrap
+- 09/26 05:18 [financialjuice] US bank deposits fell to $19.568 trln from $19.658 trln in prior week.
+- 09/26 05:20 [financialjuice] ❗ Iran's Foreign Minister: Iran has conveyed to the US a concrete 7-day plan.
+- 09/26 05:21 [financialjuice] Iran's Foreign Minister: Iran will not surrender its sovereign rights under pressure.
+- 09/26 05:21 [financialjuice] Iran's Foreign Minister: The 7 days will start when the US accepts the plan.
+- 09/26 05:22 [financialjuice] Iran's Foreign Minister: The choice now rests with the US.
+- 09/26 05:22 [financialjuice] Iran's Foreign Minister: The actions that the US should take are not new, they are all already in the MOU.
+- 09/26 05:23 [financialjuice] Iran's Foreign Minister: They can accept this 7-day plan, and at the end, the Strait of Hormuz will be open.
