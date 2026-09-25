@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-26 06:24 JST／対象: 09/25 06:24 〜 09/26 06:24 JST（時刻はすべて日本時間）
+生成: 2026-09-26 06:44 JST／対象: 09/25 06:44 〜 09/26 06:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 68 | 09/25 07:52 | 09/26 05:35 | ⚠ 681分（07:52→19:13） |
-| FirstSquawk | 255 | 09/25 06:25 | 09/26 05:01 | ⚠ 155分（16:01→18:36） |
-| financialjuice | 249 | 09/25 06:44 | 09/26 05:23 | ⚠ 88分（11:11→12:40） |
+| FirstSquawk | 253 | 09/25 06:47 | 09/26 05:01 | ⚠ 155分（16:01→18:36） |
+| financialjuice | 250 | 09/25 06:44 | 09/26 06:28 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 544 行（統合前 574 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 543 行（統合前 573 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 06:25 [FirstSquawk] BOND VOLATILITY KEPT U.S. STOCKS UNDER PRESSURE AS BRENT CRUDE SETTLED NEAR $107 A BARREL, RAISING CONCERNS THAT PERSISTENT INFLATION COULD FORCE THE FEDERAL RESERVE TO KEEP RAISING RATES, WHILE 30-YEAR TREASURY YIELDS REACHED THEIR HIGHEST…
-- 09/25 06:25 [FirstSquawk] MONEY MARKETS ARE NOW FULLY PRICING THREE ADDITIONAL FED RATE HIKES OVER THE NEXT YEAR AS INVESTORS DEMAND HIGHER RETURNS ON LONG-TERM BONDS, WHILE TRUMP AND XI DISCUSSED AI COMPETITION AFTER THE U.S.-CHINA TRADE TRUCE WAS EXTENDED BY ABOUT…
 - 09/25 06:44 [financialjuice/FirstSquawk] Argentina's province of San Juan launches $600 million international bond below 10% rate - local media
 - 09/25 06:47 [FirstSquawk] MGM RESORTS EYES BID FOR BARRY DILLER’S PEOPLE INCORPORATED; PROPOSAL COULD COME WITHIN DAYS — WSJ
 - 09/25 07:12 [financialjuice] New Zealand Finance Minister announces short-term appointment of Rebecca Williams as internal member of Reserve Bank of New Zealand monetary policy committee
@@ -568,3 +566,4 @@
 - 09/26 05:22 [financialjuice] Iran's Foreign Minister: The actions that the US should take are not new, they are all already in the MOU.
 - 09/26 05:23 [financialjuice] Iran's Foreign Minister: They can accept this 7-day plan, and at the end, the Strait of Hormuz will be open.
 - 09/26 05:35 [DeItaone] OPENAI HAD IDENTIFIED ABOUT TWO DOZEN ROGUE AI INCIDENTS BY MID-SEPTEMBER, REUTERS SOURCE SAYS
+- 09/26 06:28 [financialjuice] US having positive, constructive talks with Iran via mediators on nuclear issues, US official says on 7-day plan

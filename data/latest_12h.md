@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-26 06:24 JST／対象: 09/25 18:24 〜 09/26 06:24 JST（時刻はすべて日本時間）
+生成: 2026-09-26 06:44 JST／対象: 09/25 18:44 〜 09/26 06:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 67 | 09/25 19:13 | 09/26 05:35 | ⚠ 146分（03:09→05:35） |
-| FirstSquawk | 141 | 09/25 18:36 | 09/26 05:01 | ⚠ 47分（19:02→19:50） |
-| financialjuice | 194 | 09/25 18:30 | 09/26 05:23 | 39分（20:20→21:00） |
+| FirstSquawk | 136 | 09/25 18:44 | 09/26 05:01 | ⚠ 47分（19:02→19:50） |
+| financialjuice | 183 | 09/25 18:50 | 09/26 06:28 | ⚠ 65分（05:23→06:28） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 379 行（統合前 404 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 364 行（統合前 388 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 18:30 [financialjuice] Japan's PM Takaichi: Trump said in the summit meeting that the weak Yen is pressuring US trade
-- 09/25 18:30 [financialjuice] BoE Gov. Bailey: AI could be a positive shock in an era of negative supply shocks
-- 09/25 18:31 [financialjuice] Kremlin: A trilateral meeting between the US, Russia, and Ukraine could take place in the near future, but there are no details on that for now
-- 09/25 18:32 [financialjuice] BoE Gov. Bailey: We are at the moment seeing quite subdued pass-through of energy prices, but it's early days
-- 09/25 18:33 [financialjuice] BoE Gov. Bailey: The longer we go on with high energy prices, the harder it gets to maintain no hike in the bank rate stance
-- 09/25 18:34 [financialjuice] BoE Gov. Bailey: There has been a tightening of financial conditions
-- 09/25 18:34 [financialjuice] BoE Gov. Bailey: We do take rise in mortgage rates into consideration
-- 09/25 18:36 [financialjuice] BoE Gov. Bailey: Can't wait for full evidence on 2nd-round effects
-- 09/25 18:36 [financialjuice] SNB's Chairman Schlegel: Moderate Swiss growth expected in coming quarters
-- 09/25 18:36 [FirstSquawk] BAILEY: AI COULD BE A POSITIVE SHOCK IN AN ERA OF NEGATIVE SUPPLY SHOCKS
-- 09/25 18:36 [FirstSquawk] BAILEY: WE ARE AT THE MOMENT SEEING QUITE SUBDUED PASS-THROUGH OF ENERGY PRICES BUT IT'S EARLY DAYS
-- 09/25 18:36 [FirstSquawk] BAILEY: THE LONGER WE GO ON WITH HIGH ENERGY PRICES, THE HARDER IT GETS TO MAINTAIN NO HIKE IN BANK RATE STANCE
-- 09/25 18:37 [FirstSquawk] BAILEY: WE DO TAKE RISE IN MORTGAGE RATES INTO CONSIDERATION
-- 09/25 18:37 [financialjuice] SNB's Chairman Schlegel: Rise in Swiss inflation mainly due to petrol products
-- 09/25 18:37 [financialjuice] SNB's Chairman Schlegel: Inflation pressure is slightly higher than in June
-- 09/25 18:42 [financialjuice/FirstSquawk] Fed's Williams: Can't ignore persistent supply shocks
 - 09/25 18:44 [FirstSquawk] SCHLEGEL SAYS INFLATION PRESSURE IS SLIGHTLY HIGHER THAN IN JUNE
 - 09/25 18:48 [FirstSquawk] WILLIAMS SAYS US LABOR MARKET NOT A SOURCE OF INFLATIONARY PRESSURE
 - 09/25 18:48 [FirstSquawk] UKRAINE ZELENSKYY SAYS UKRAINE HIT 2 REFINERIES IN RUSSIA OVERNIGHT
@@ -403,3 +387,4 @@
 - 09/26 05:22 [financialjuice] Iran's Foreign Minister: The actions that the US should take are not new, they are all already in the MOU.
 - 09/26 05:23 [financialjuice] Iran's Foreign Minister: They can accept this 7-day plan, and at the end, the Strait of Hormuz will be open.
 - 09/26 05:35 [DeItaone] OPENAI HAD IDENTIFIED ABOUT TWO DOZEN ROGUE AI INCIDENTS BY MID-SEPTEMBER, REUTERS SOURCE SAYS
+- 09/26 06:28 [financialjuice] US having positive, constructive talks with Iran via mediators on nuclear issues, US official says on 7-day plan
