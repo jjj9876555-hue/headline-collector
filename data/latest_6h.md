@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-26 05:52 JST／対象: 09/25 23:52 〜 09/26 05:52 JST（時刻はすべて日本時間）
+生成: 2026-09-26 06:04 JST／対象: 09/26 00:04 〜 09/26 06:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 28 | 09/25 23:52 | 09/26 05:35 | ⚠ 146分（03:09→05:35） |
-| FirstSquawk | 69 | 09/25 23:59 | 09/26 05:01 | 35分（00:26→01:01） |
-| financialjuice | 98 | 09/25 23:56 | 09/26 05:23 | 34分（02:18→02:52） |
+| DeItaone | 26 | 09/26 00:06 | 09/26 05:35 | ⚠ 146分（03:09→05:35） |
+| FirstSquawk | 63 | 09/26 00:07 | 09/26 05:01 | 35分（00:26→01:01） |
+| financialjuice | 94 | 09/26 00:06 | 09/26 05:23 | 34分（02:18→02:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 186 行（統合前 195 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 174 行（統合前 183 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 23:52 [DeItaone] YIELD ON 10-YEAR TREASURY NOTE HITS FRESH 19-YEAR HIGH AT 5.2297%; LAST UP 5.92 BASIS POINTS AT 5.221%
-- 09/25 23:53 [DeItaone] OIL SLIPS AS U.S.-IRAN DIPLOMACY TAKES FOCUS Oil prices moved lower as markets weighed U.S.-Iran talks over reopening the Strait of Hormuz. WTI fell 1.4% to $93.32, while Brent dropped 1.2% to $105.35. Diplomatic progress could push crude l…
-- 09/25 23:56 [financialjuice] US Treasury Secretary Bessent: Today, I had a productive call with Japan's Fin. Min. Katayama. Discussed the desirability of a strong yen.
-- 09/25 23:57 [financialjuice] The US Court of Appeals declines to block the Pentagon's blacklisting of Anthropic - Ruling.
-- 09/25 23:57 [financialjuice] US Treasury Secretary Bessent: The Katayama conversation was built from Trump and Japan's PM Takaichi.
-- 09/25 23:59 [FirstSquawk] BESSENT SAYS TODAY HAD A PRODUCTIVE CALL WITH KATAYAMA
-- 09/26 00:00 [FirstSquawk] BESSENT SAYS DISCUSSED THE DESIRABILITY OF A STRONG YEN
-- 09/26 00:00 [FirstSquawk] BESSENT SAYS TALKED DESIRABILITY OF A STRONG YEN W/ JAPAN'S FM
-- 09/26 00:00 [FirstSquawk] BESSENT SAYS KATAYAMA CONVERSATION BUILT FROM TRUMP, TAKAICHI
-- 09/26 00:00 [FirstSquawk] BESSENT SAYS MUST KEEP IN CLOSE COMMUNICATION ON CURRENCY MARKETS
-- 09/26 00:00 [financialjuice] CANADIAN BUDGET BALANCE ACTUAL -4.77B (FORECAST -, PREVIOUS 0.99B) $MACRO
-- 09/26 00:00 [FirstSquawk] BESSENT SAYS DISCUSSED DESIRABILITY OF STRONG YEN WITH JAPAN'S FM
 - 09/26 00:06 [DeItaone/financialjuice] TRUMP: WE'VE MADE TREMENDOUS STRIDES FOR BOTH COUNTRIES IN CHINA MEETINGS
 - 09/26 00:06 [financialjuice] Trump and China’s President Xi Speak - WATCH LIVEa
 - 09/26 00:06 [financialjuice] Trump: We've made great strides, positive for both countries.

@@ -7,25 +7,24 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-26 05:52 JST／対象: 09/25 05:52 〜 09/26 05:52 JST（時刻はすべて日本時間）
+生成: 2026-09-26 06:04 JST／対象: 09/25 06:04 〜 09/26 06:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 68 | 09/25 07:52 | 09/26 05:35 | ⚠ 681分（07:52→19:13） |
 | FirstSquawk | 261 | 09/25 06:06 | 09/26 05:01 | ⚠ 155分（16:01→18:36） |
-| financialjuice | 251 | 09/25 06:01 | 09/26 05:23 | ⚠ 88分（11:11→12:40） |
+| financialjuice | 249 | 09/25 06:44 | 09/26 05:23 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 551 行（統合前 582 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 550 行（統合前 580 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 06:01 [financialjuice] Bond Volatility Keeps Stocks in Check as Oil Fuels Inflation Concerns – US Market Wrap
-- 09/25 06:04 [financialjuice/FirstSquawk] Finnish president says he urges Elon Musk to extend Starlink coverage over Russia and occupied areas to help Ukraine target Russian ballistic missile launchers
+- 09/25 06:06 [FirstSquawk] FINNISH PRESIDENT SAYS HE URGES ELON MUSK TO EXTEND STARLINK COVERAGE OVER RUSSIA AND OCCUPIED AREAS TO HELP UKRAINE TARGET RUSSIAN BALLISTIC MISSILE LAUNCHERS
 - 09/25 06:13 [FirstSquawk] COSTCO RECEIVED $184 MILLION IN IEEPA TARIFF REFUNDS IN Q4 — EXECUTIVE SAYS ON EARNINGS CALL
 - 09/25 06:14 [FirstSquawk] AIRBUS ALERTS A321NEO CUSTOMERS TO QUALITY DEFECT THAT COULD REDUCE CORROSION RESISTANCE INSIDE FUSELAGE STRUCTURE — AIR CURRENT
 - 09/25 06:14 [FirstSquawk] AIRBUS A321NEO QUALITY ISSUE COULD AFFECT MORE THAN 500 AIRCRAFT — AIR CURRENT
