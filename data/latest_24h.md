@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-25 15:23 JST／対象: 09/24 15:23 〜 09/25 15:23 JST（時刻はすべて日本時間）
+生成: 2026-09-25 15:49 JST／対象: 09/24 15:49 〜 09/25 15:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 87 | 09/24 21:26 | 09/25 07:52 | ⚠ 230分（04:02→07:52） |
-| FirstSquawk | 357 | 09/24 15:24 | 09/25 15:12 | ⚠ 46分（07:06→07:52） |
-| financialjuice | 242 | 09/24 15:45 | 09/25 15:00 | ⚠ 108分（15:47→17:36） |
+| FirstSquawk | 354 | 09/24 16:00 | 09/25 15:45 | ⚠ 46分（07:06→07:52） |
+| financialjuice | 238 | 09/24 17:36 | 09/25 15:00 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 658 行（統合前 692 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 651 行（統合前 685 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 15:24 [FirstSquawk] Australian S&P/ASX 200 ends 0.7% lower at 8,702.00 points
-- 09/24 15:24 [FirstSquawk] DeepSeek reaches $1B annualized revenue as $7.5B fundraising nears completion: The Information
-- 09/24 15:42 [FirstSquawk] EUROZONE BOND YIELDS OPEN HIGHER-WSJ
-- 09/24 15:43 [FirstSquawk] SCHNEIDER ELECTRIC TO LAUNCH BID FOR SHELLY GROUP IN $1.4 BILLION DEAL-WSJ
-- 09/24 15:45 [financialjuice] FRENCH BUSINESS CLIMATE MFG ACTUAL 101 (FORECAST 102, PREVIOUS 103) $MACRO
-- 09/24 15:45 [financialjuice] FRENCH CONSUMER CONFIDENCE ACTUAL 86 (FORECAST 85, PREVIOUS 86) $MACRO
-- 09/24 15:45 [financialjuice] FRENCH BUSINESS CLIMATE OVERALL ACTUAL 96 (FORECAST 98, PREVIOUS 98) $MACRO
-- 09/24 15:46 [FirstSquawk] FRANCE (SEP) PRODUCTION OUTLOOK INDICATOR ACTUAL: -9 VS -11 PREVIOUS;EST -11
-- 09/24 15:46 [FirstSquawk] FRANCE (SEP) OWN COMPANY PRODUCTION OUTLOOK ACTUAL: 15 VS 9 PREVIOUS;EST 10
-- 09/24 15:46 [FirstSquawk] FRANCE (SEP) MANUFACTURING CONFIDENCE ACTUAL: 101 VS 103 PREVIOUS;EST 102
-- 09/24 15:46 [FirstSquawk] FRANCE (SEP) BUSINESS CONFIDENCE ACTUAL: 96 VS 98 PREVIOUS;EST 98
-- 09/24 15:46 [FirstSquawk] FRANCE (SEP) CONSUMER CONFIDENCE ACTUAL: 86 VS 86 PREVIOUS;EST 85
-- 09/24 15:47 [financialjuice] French Business Climate September 2026 Report
 - 09/24 16:00 [FirstSquawk] SPAIN (AUG) PPI YOY INDICATOR ACTUAL: 13.2% VS 9.2% PREVIOUS
 - 09/24 16:00 [FirstSquawk] SPAIN (AUG) PPI MOM INDICATOR ACTUAL: 2.9% VS 3.0% PREVIOUS
 - 09/24 16:01 [FirstSquawk] BLACKROCK AND IFM SAID IN EXCLUSIVE TALKS ON $25B DATA CENTER DEAL
@@ -682,3 +669,9 @@
 - 09/25 15:10 [FirstSquawk] Taiwan says it will work with US, like-minded partners to protect peace and stability in Taiwan Strait
 - 09/25 15:12 [FirstSquawk] EU urges UK to raise tariffs on Chinese cars to avoid ‘Made in Europe’ barriers, FT reports
 - 09/25 15:12 [FirstSquawk] EU pushes Trump to preserve ‘free flow’ of diesel, FT reports
+- 09/25 15:23 [FirstSquawk] NIKKEI RISES 0.5%, LED BY BANK STOCKS-WSJ
+- 09/25 15:24 [FirstSquawk] Australia’s ASX 200 ends 0.4% lower at 8,665.00
+- 09/25 15:32 [FirstSquawk] ArcelorMittal expects $1 billion impairment charge for Kryvyi Rih assets after missile strikes
+- 09/25 15:35 [FirstSquawk] Swedish and Finnish fighter jets scrambled to identify Russian military aircraft, Finnish Air Force says
+- 09/25 15:40 [FirstSquawk] TRUMP EXPRESSED CONCERNS ABOUT YEN WEAKNESS, JAPAN FINANCE MINISTER SAYS-WSJ
+- 09/25 15:45 [FirstSquawk] FRANCE (Q2) WAGES QOQ ACTUAL: 0.7% VS 0.7% PREVIOUS;EST 0.5%

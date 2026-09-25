@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-25 15:23 JST／対象: 09/25 03:23 〜 09/25 15:23 JST（時刻はすべて日本時間）
+生成: 2026-09-25 15:49 JST／対象: 09/25 03:49 〜 09/25 15:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 5 | 09/25 03:30 | 09/25 07:52 | ⚠ 230分（04:02→07:52） |
-| FirstSquawk | 148 | 09/25 03:25 | 09/25 15:12 | ⚠ 46分（07:06→07:52） |
-| financialjuice | 64 | 09/25 03:24 | 09/25 15:00 | ⚠ 88分（11:11→12:40） |
+| DeItaone | 4 | 09/25 03:51 | 09/25 07:52 | ⚠ 230分（04:02→07:52） |
+| FirstSquawk | 146 | 09/25 03:57 | 09/25 15:45 | ⚠ 46分（07:06→07:52） |
+| financialjuice | 60 | 09/25 03:55 | 09/25 15:00 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 208 行（統合前 219 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 202 行（統合前 212 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 03:24 [financialjuice] French President Macron: We will send military means, soldiers to protect the Red Sea route.
-- 09/25 03:25 [FirstSquawk] NETANYAHU: “WE HAVE NO GREATER PARTNER THAN TRUMP”; THANKS TRUMP
-- 09/25 03:26 [financialjuice] Meta introduces Horizon Create & Horizon Studio $META
-- 09/25 03:27 [financialjuice] French President Macron: Maybe we could think about releasing strategic oil reserves in a coordinated way.
-- 09/25 03:27 [FirstSquawk] NETANYAHU: ACCUSES SEVERAL FOREIGN COUNTRIES OF SPENDING BILLIONS TO PROMOTE WHAT HE CALLS FALSE NARRATIVES ABOUT ISRAEL
-- 09/25 03:28 [financialjuice/DeItaone] French President macron: US decision to ban diesel exports would be bad.
-- 09/25 03:29 [FirstSquawk] NETANYAHU ACCUSES QATAR OF TRYING TO INDOCTRINATE YOUNG PEOPLE AGAINST ISRAEL & AMERICA
-- 09/25 03:29 [FirstSquawk] NETANYAHU CALLS TURKISH PRESIDENT ERDOGAN A “TYRANT”
-- 09/25 03:31 [FirstSquawk] NETANYAHU REJECTS ACCUSATIONS THAT ISRAEL IS COMMITTING GENOCIDE IN GAZA
-- 09/25 03:34 [FirstSquawk] NETANYAHU TO THOSE ACCUSING ISRAEL OF GENOCIDE, INCLUDING NEW YORK MAYOR: “SHAME ON YOU”
-- 09/25 03:36 [FirstSquawk] NETANYAHU TO MAMDANI: “YOU CAN’T SILENCE ME”; SAYS ISRAEL “PREVENTED GENOCIDE”
-- 09/25 03:37 [FirstSquawk] NETANYAHU: ACCUSES SOME WESTERN EUROPEAN LEADERS OF “SUCCUMBING TO ANTI-SEMITIC MOBS”
 - 09/25 03:51 [DeItaone] SOME 60 COMMERCIAL VESSELS TRANSITED THE STRAIT OF HORMUZ ON WEDNESDAY CARRYING THE HIGHEST DAILY VOLUME OF CRUDE SINCE EARLY JULY, US DEFENSE OFFICIAL TELLS REUTERS
 - 09/25 03:55 [DeItaone] ABOUT 40 OF WEDNESDAY'S VESSELS THAT TRANSITED THE STRAIT OF HORMUZ COORDINATED WITH THE US MILITARY FOR PROTECTION, US OFFICIAL TELLS REUTERS
 - 09/25 03:55 [financialjuice] Brent crude futures settle at $106.60/bbl, up $3.52, 3.41%.
@@ -232,3 +220,9 @@
 - 09/25 15:10 [FirstSquawk] Taiwan says it will work with US, like-minded partners to protect peace and stability in Taiwan Strait
 - 09/25 15:12 [FirstSquawk] EU urges UK to raise tariffs on Chinese cars to avoid ‘Made in Europe’ barriers, FT reports
 - 09/25 15:12 [FirstSquawk] EU pushes Trump to preserve ‘free flow’ of diesel, FT reports
+- 09/25 15:23 [FirstSquawk] NIKKEI RISES 0.5%, LED BY BANK STOCKS-WSJ
+- 09/25 15:24 [FirstSquawk] Australia’s ASX 200 ends 0.4% lower at 8,665.00
+- 09/25 15:32 [FirstSquawk] ArcelorMittal expects $1 billion impairment charge for Kryvyi Rih assets after missile strikes
+- 09/25 15:35 [FirstSquawk] Swedish and Finnish fighter jets scrambled to identify Russian military aircraft, Finnish Air Force says
+- 09/25 15:40 [FirstSquawk] TRUMP EXPRESSED CONCERNS ABOUT YEN WEAKNESS, JAPAN FINANCE MINISTER SAYS-WSJ
+- 09/25 15:45 [FirstSquawk] FRANCE (Q2) WAGES QOQ ACTUAL: 0.7% VS 0.7% PREVIOUS;EST 0.5%
