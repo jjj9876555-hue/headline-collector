@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-25 20:52 JST／対象: 09/25 08:52 〜 09/25 20:52 JST（時刻はすべて日本時間）
+生成: 2026-09-25 21:07 JST／対象: 09/25 09:07 〜 09/25 21:07 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 3 | 09/25 19:13 | 09/25 20:50 | ⚠ 92分（19:13→20:46） |
-| FirstSquawk | 129 | 09/25 08:56 | 09/25 20:40 | ⚠ 155分（16:01→18:36） |
-| financialjuice | 72 | 09/25 09:03 | 09/25 20:20 | ⚠ 88分（11:11→12:40） |
+| DeItaone | 7 | 09/25 19:13 | 09/25 21:05 | ⚠ 92分（19:13→20:46） |
+| FirstSquawk | 136 | 09/25 09:09 | 09/25 21:06 | ⚠ 155分（16:01→18:36） |
+| financialjuice | 74 | 09/25 09:10 | 09/25 21:05 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 202 行（統合前 204 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 215 行（統合前 217 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 08:56 [FirstSquawk] JAPAN’S NIKKEI FUTURES FALL 0.1% IN EARLY TRADE; 10-YEAR JGB FUTURES DOWN 0.12 POINT
-- 09/25 09:03 [financialjuice] China's President Xi: had a candid and thorough exchange with Trump
-- 09/25 09:04 [financialjuice] China's President Xi: reached broad agreement on numerous issues
-- 09/25 09:06 [FirstSquawk] XI: WASHINGTON AND CHINA MADE COMMON UNDERSTANDING ON MANY ISSUES
-- 09/25 09:06 [FirstSquawk] XI SAYS HE HAD A FRANK AND IN-DEPTH EXCHANGE WITH TRUMP
 - 09/25 09:09 [FirstSquawk] BHP’S ESCONDIDA MINE IN CHILE RESUMES OPERATIONS GRADUALLY AS ASSESSMENTS CONTINUE
 - 09/25 09:10 [financialjuice] China's President Xi: us-china ties reach new historical milestone
 - 09/25 09:10 [FirstSquawk/financialjuice] SAUDI ARABIA, TURKEY, PAKISTAN TO HOLD URGENT CHIEFS OF STAFF MEETING ON BACKING RIYADH UNDER JOINT DEFENSE PACT: SAUDI FOREIGN MINISTRY
@@ -226,3 +221,21 @@
 - 09/25 20:40 [FirstSquawk] GERMAN LAWMAKERS APPROVE NEW FUEL-TAX RELIEF WORTH €2.5 B
 - 09/25 20:46 [DeItaone] https://t.co/DfReK0eIPk
 - 09/25 20:50 [DeItaone] $TSLA - STONEX STAYS BULLISH ON TESLA AHEAD OF Q3 DELIVERIES StoneX reiterated its Buy rating and $475 price target on Tesla ahead of next week’s Q3 delivery report. The firm expects 446,500 deliveries, down 10% year-over-year and slightly …
+- 09/25 20:55 [DeItaone] CITI SAYS BUY THE NEXT STOCK MARKET PULLBACK Citi remains overweight U.S. equities and says it would add exposure on any market dip. Despite higher oil, interest rates and Fed uncertainty, stocks have remained resilient. Citi expects AI to …
+- 09/25 20:56 [DeItaone] SAUDI ARABIA, TURKEY AND PAKISTAN PLAN DEFENSE TALKS Representatives from Saudi Arabia, Turkey and Pakistan are planning talks on supporting Riyadh under their joint defense agreement, Al Jazeera reports. The move follows new Houthi missile…
+- 09/25 20:56 [FirstSquawk] KALLAS SAYS EU STATES AGREE ON TERMS FOR EPF FUNDS FOR UKRAINE
+- 09/25 20:57 [DeItaone] BARCLAYS WARNS STOCKS ARE NEARING A BREAKING POINT Barclays warns that rising bond yields are making equities less attractive, with the extra return stocks offer over bonds near multi-decade lows. Despite resilient earnings and AI-driven gr…
+- 09/25 20:57 [FirstSquawk] KALLAS SAYS EU COUNTRIES AGREE TERMS ON €6.6B UKRAINE FUNDS
+- 09/25 21:00 [financialjuice] Secured overnight financing rate 3.88% Sept. 24th vs 3.87% Sept. 23rd
+- 09/25 21:00 [financialjuice] Microsoft abandons personal AI chatbot race with Copilot reboot.
+- 09/25 21:01 [financialjuice] Pakistan, Saudi Arabia, and Turkey condemn attacks targeting Makkah, Saudi facilities - Pakistan Foreign Ministry
+- 09/25 21:05 [FirstSquawk] PAKISTAN, SAUDI ARABIA, AND TURKEY ARE SCHEDULING A MEETING FOR THEIR MILITARY LEADERS, ACCORDING TO PAKISTAN'S FOREIGN MINISTRY.
+- 09/25 21:05 [financialjuice] Microsoft Copilot adds home, code, autopilot capabilities.
+- 09/25 21:05 [FirstSquawk] PAKISTAN, SAUDI ARABIA, AND TURKEY WILL MEET TO TALK ABOUT SUPPORTING RIYADH UNDER A JOINT DEFENSE AGREEMENT, ACCORDING TO PAKISTAN'S FOREIGN MINISTRY.
+- 09/25 21:05 [FirstSquawk] PAKISTAN, SAUDI ARABIA, AND TURKEY CONDEMN ATTACKS AIMED AT MAKKAH AND SAUDI FACILITIES, ACCORDING TO PAKISTAN'S FOREIGN MINISTRY.
+- 09/25 21:05 [FirstSquawk] PAKISTAN, SAUDI ARABIA, AND TURKEY SUPPORT RIYADH'S RIGHT TO PROTECT ITS SECURITY, ACCORDING TO THE PAKISTAN FOREIGN MINISTRY.
+- 09/25 21:05 [DeItaone] $MSTR - STRATEGY PROPOSES DAILY DIVIDENDS ON PREFERRED STOCK Strategy is seeking shareholder approval to shift four preferred-stock series — $STRF , $STRC, $STRK and $STRD — to daily dividend payments. The change would not alter dividend ra…
+- 09/25 21:06 [FirstSquawk] MICROSOFT UNVEILS NEW COPILOT FEATURES FOR HOME, CODE, AND AUTOPILOT.
+- 09/25 21:06 [FirstSquawk] MICROSOFT IS ROLLING OUT HOME & CODE IN COPILOT THROUGH THE FRONTIER PROGRAM SOON, WITH AUTOPILOT SET TO BEGIN PRIVATE PREVIEW BY MONTH-END.
+- 09/25 21:06 [FirstSquawk] MICROSOFT'S COPILOT MANAGED RUNTIME IS NOW AVAILABLE FOR PUBLIC PREVIEW AND WILL BE INTEGRATED INTO CODE.
+- 09/25 21:06 [FirstSquawk] MICROSOFT’S CODE IN COPILOT WILL BE AVAILABLE FOR PREVIEW TO MICROSOFT 365 PREMIUM AND PRO SUBSCRIBERS LATER THIS YEAR.
