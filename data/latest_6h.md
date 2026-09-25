@@ -7,47 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-26 06:04 JST／対象: 09/26 00:04 〜 09/26 06:04 JST（時刻はすべて日本時間）
+生成: 2026-09-26 06:24 JST／対象: 09/26 00:24 〜 09/26 06:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 26 | 09/26 00:06 | 09/26 05:35 | ⚠ 146分（03:09→05:35） |
-| FirstSquawk | 63 | 09/26 00:07 | 09/26 05:01 | 35分（00:26→01:01） |
-| financialjuice | 94 | 09/26 00:06 | 09/26 05:23 | 34分（02:18→02:52） |
+| DeItaone | 23 | 09/26 01:20 | 09/26 05:35 | ⚠ 146分（03:09→05:35） |
+| FirstSquawk | 54 | 09/26 00:26 | 09/26 05:01 | 35分（00:26→01:01） |
+| financialjuice | 80 | 09/26 00:25 | 09/26 05:23 | 34分（02:18→02:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 174 行（統合前 183 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 150 行（統合前 157 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 00:06 [DeItaone/financialjuice] TRUMP: WE'VE MADE TREMENDOUS STRIDES FOR BOTH COUNTRIES IN CHINA MEETINGS
-- 09/26 00:06 [financialjuice] Trump and China’s President Xi Speak - WATCH LIVEa
-- 09/26 00:06 [financialjuice] Trump: We've made great strides, positive for both countries.
-- 09/26 00:07 [FirstSquawk] TRUMP SAYS WE'VE HAD TREMENDOUS VISIT FROM XI || MADE TREMENDOUS, GREAT STRIDES FOR CHINA, US || WE'VE MADE GREAT STRIDES, POSITIVE FOR BOTH COUNTRIES
-- 09/26 00:07 [financialjuice] China’s President Xi: The US trip was very successful.
-- 09/26 00:08 [financialjuice] China’s President Xi: I see a brighter China-US future.
-- 09/26 00:08 [FirstSquawk] XI: US TRIP VERY SUCCESSFUL
-- 09/26 00:09 [FirstSquawk] CHINA XI SEES BRIGHTER CHINA-US FUTURE
-- 09/26 00:09 [DeItaone] CHINA'S XI: AGREED WITH TRUMP TO ADD NEW SUBSTANCE TO US-CHINA RELATIONSHIP
-- 09/26 00:09 [financialjuice] China’s President Xi: I still have 2 times to meet Trump.
-- 09/26 00:09 [DeItaone/financialjuice] TRUMP ON CHINA: WE WILL BE SPEAKING A LOT
-- 09/26 00:09 [financialjuice] China’s President Xi: I will welcome Trump to China.
-- 09/26 00:10 [financialjuice] China’s President Xi: I agreed with Trump to add new substance to US-China relationship.
-- 09/26 00:10 [FirstSquawk] XI SAYS STILL HAVE 2 TIMES TO MEET TRUMP || WELCOME TRUMP TO CHINA
-- 09/26 00:10 [financialjuice] China’s President Xi: The US-China relationship will be one of strategic stability based on respect, fairness, and reciprocity.
-- 09/26 00:10 [FirstSquawk] TRUMP SAYS ON CHINA: WE WILL BE SPEAKING A LOT
-- 09/26 00:10 [FirstSquawk] TRUMP SAYS THINK OUR FARMERS WILL BE VERY HAPPY
-- 09/26 00:11 [financialjuice] Trump on Xi Visit: I think our farmers will be very happy .
-- 09/26 00:11 [financialjuice] Trump ends remarks to the media during tea with Xi.
-- 09/26 00:14 [financialjuice] Russia's Perm Refinery halted processing after a drone attack on Friday - Sources.
-- 09/26 00:15 [financialjuice] Peru Expects Annual Copper Output to Rise by 1 Million Metric Tons Within 5-6 Years
-- 09/26 00:17 [FirstSquawk] PERU'S COPPER PRODUCTION EXPECTED TO BE 2.5 MILLION-2.7 MILLION METRIC TONS THIS YEAR - MINING MINISTER SAYS
-- 09/26 00:18 [FirstSquawk] PERU EXPECTED TO ADD 1 MILLION METRIC TONS OF ANNUAL COPPER OUTPUT WITHIN 5-6 YEARS - MINING MINISTER SAYS
-- 09/26 00:22 [FirstSquawk] PEZIZKIAN ON THE DETAILS OF THE IRANIAN DELEGATION'S MEETING WITH KUSHNER AND WHITTAKER: WHAT WE ARE DISCUSSING IS THE FRAMEWORK OF INTERNATIONAL LAW AND THE RIGHTS AND ENTITLEMENTS THAT WE SHOULD HAVE. WE HAVE NOT ASKED FOR ANYTHING OTHER …
 - 09/26 00:25 [financialjuice] Iran's President Pezeshkian: The Iranian delegation discussed rights under international law. We are reaching an understanding on that basis, if the other side accepts – ISNA.
 - 09/26 00:26 [FirstSquawk] BASF CONFIRMS PRELIM. DISCUSSIONS TO BUY EVONIK; SAYS OUTCOME OF TALKS REMAINS OPEN
 - 09/26 00:31 [financialjuice] Iran's President Pezeshkian, asked on diluting 60% uranium reserves: Yes, within the framework of international law, we are willing to accept whatever is proposed in the NPT - Fox News interview cited by ISNA.

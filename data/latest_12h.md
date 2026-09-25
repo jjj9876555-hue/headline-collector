@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-26 06:04 JST／対象: 09/25 18:04 〜 09/26 06:04 JST（時刻はすべて日本時間）
+生成: 2026-09-26 06:24 JST／対象: 09/25 18:24 〜 09/26 06:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 67 | 09/25 19:13 | 09/26 05:35 | ⚠ 146分（03:09→05:35） |
 | FirstSquawk | 141 | 09/25 18:36 | 09/26 05:01 | ⚠ 47分（19:02→19:50） |
-| financialjuice | 196 | 09/25 18:12 | 09/26 05:23 | 39分（20:20→21:00） |
+| financialjuice | 194 | 09/25 18:30 | 09/26 05:23 | 39分（20:20→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 381 行（統合前 406 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 379 行（統合前 404 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 18:12 [financialjuice] Russia's Gazprom resumes gas supplies to Armenia - IFX
-- 09/25 18:21 [financialjuice] Japan's PM Takaichi: Didn't discuss monetary or fiscal policy with Trump
 - 09/25 18:30 [financialjuice] Japan's PM Takaichi: Trump said in the summit meeting that the weak Yen is pressuring US trade
 - 09/25 18:30 [financialjuice] BoE Gov. Bailey: AI could be a positive shock in an era of negative supply shocks
 - 09/25 18:31 [financialjuice] Kremlin: A trilateral meeting between the US, Russia, and Ukraine could take place in the near future, but there are no details on that for now
