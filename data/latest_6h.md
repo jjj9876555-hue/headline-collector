@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-25 22:27 JST／対象: 09/25 16:27 〜 09/25 22:27 JST（時刻はすべて日本時間）
+生成: 2026-09-25 22:45 JST／対象: 09/25 16:45 〜 09/25 22:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 30 | 09/25 19:13 | 09/25 22:20 | ⚠ 92分（19:13→20:46） |
-| FirstSquawk | 64 | 09/25 18:36 | 09/25 22:21 | ⚠ 47分（19:02→19:50） |
-| financialjuice | 87 | 09/25 17:00 | 09/25 22:19 | 39分（20:20→21:00） |
+| FirstSquawk | 65 | 09/25 18:36 | 09/25 22:31 | ⚠ 47分（19:02→19:50） |
+| financialjuice | 89 | 09/25 17:00 | 09/25 22:37 | 39分（20:20→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 167 行（統合前 182 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 170 行（統合前 185 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -191,3 +191,6 @@
 - 09/25 22:19 [financialjuice] Libya's NOC says forced closure of the valve on the Sharara-Zawiya crude pipeline has caused a loss of 720,362 barrels of output, more than $75 million in direct losses as of September 24th
 - 09/25 22:20 [DeItaone] FRANCE DEBT FEARS DRAW GREECE COMPARISONS Jupiter’s Ariel Bezalel warns France’s rising debt and political gridlock are increasingly reminiscent of Greece’s pre-crisis trajectory. French government debt has reached 117.5% of GDP and is proj…
 - 09/25 22:21 [FirstSquawk] JAPAN'S YEN RISES 1 PCT TO SESSION HIGH 157.23 PER DOLLAR
+- 09/25 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -134.8 MLN NASDAQ 100: -57.7 MLN DOW 30: -4.0 MLN MAG 7: -24.0 MLN $MACRO
+- 09/25 22:31 [FirstSquawk] NASDAQ UP 27.53 POINTS, OR 0.10 PERCENT, AT 26,966.90 AFTER MARKET OPEN DOW JONES UP 30.23 POINTS, OR 0.06 PERCENT, AT 51,380.21 AFTER MARKET OPEN DOW JONES UP 30.23 POINTS, OR 0.06 %, AT 51,380.21 AFTER MARKET OPEN
+- 09/25 22:37 [financialjuice] BofA raises Advanced Micro Devices' price objective to $720 from $620. $AMD

@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-25 22:27 JST／対象: 09/25 10:27 〜 09/25 22:27 JST（時刻はすべて日本時間）
+生成: 2026-09-25 22:45 JST／対象: 09/25 10:45 〜 09/25 22:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 30 | 09/25 19:13 | 09/25 22:20 | ⚠ 92分（19:13→20:46） |
-| FirstSquawk | 125 | 09/25 10:32 | 09/25 22:21 | ⚠ 155分（16:01→18:36） |
-| financialjuice | 109 | 09/25 10:31 | 09/25 22:19 | ⚠ 88分（11:11→12:40） |
+| FirstSquawk | 121 | 09/25 10:49 | 09/25 22:31 | ⚠ 155分（16:01→18:36） |
+| financialjuice | 108 | 09/25 11:04 | 09/25 22:37 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 250 行（統合前 265 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 245 行（統合前 260 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 10:31 [financialjuice] Tesla exec: semi truck deliveries begin this week
-- 09/25 10:31 [financialjuice] Tesla executive: DHL part of semi truck clientele
-- 09/25 10:32 [FirstSquawk] Tesla executive says Semi truck deliveries start this week
-- 09/25 10:32 [FirstSquawk] 20-year Japanese government bond yield rises to 3.955%, up 4.0 basis points
-- 09/25 10:32 [financialjuice] Tesla exec: Pepsi, US Foods are customers of semi trucks
-- 09/25 10:33 [FirstSquawk] Tesla: DHL among customers for Semi trucks, executive says
-- 09/25 10:38 [FirstSquawk] Japanese government bond yields rise following a sharp jump in U.S. Treasury yields - WSJ
-- 09/25 10:41 [FirstSquawk] 30-year Japanese government bond yield rises to 4.210%, up 5.0 basis points
 - 09/25 10:49 [FirstSquawk] Korea’s semiconductor boom lures students away from university for factory jobs - KYODO
 - 09/25 10:56 [FirstSquawk] White House meeting highlights apparent differences between Trump and Xi on AI guardrails - YONHAP
 - 09/25 11:04 [financialjuice] Japan finmin katayama: deciding on specific monetary policy tools is up to BoJ
@@ -274,3 +266,6 @@
 - 09/25 22:19 [financialjuice] Libya's NOC says forced closure of the valve on the Sharara-Zawiya crude pipeline has caused a loss of 720,362 barrels of output, more than $75 million in direct losses as of September 24th
 - 09/25 22:20 [DeItaone] FRANCE DEBT FEARS DRAW GREECE COMPARISONS Jupiter’s Ariel Bezalel warns France’s rising debt and political gridlock are increasingly reminiscent of Greece’s pre-crisis trajectory. French government debt has reached 117.5% of GDP and is proj…
 - 09/25 22:21 [FirstSquawk] JAPAN'S YEN RISES 1 PCT TO SESSION HIGH 157.23 PER DOLLAR
+- 09/25 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -134.8 MLN NASDAQ 100: -57.7 MLN DOW 30: -4.0 MLN MAG 7: -24.0 MLN $MACRO
+- 09/25 22:31 [FirstSquawk] NASDAQ UP 27.53 POINTS, OR 0.10 PERCENT, AT 26,966.90 AFTER MARKET OPEN DOW JONES UP 30.23 POINTS, OR 0.06 PERCENT, AT 51,380.21 AFTER MARKET OPEN DOW JONES UP 30.23 POINTS, OR 0.06 %, AT 51,380.21 AFTER MARKET OPEN
+- 09/25 22:37 [financialjuice] BofA raises Advanced Micro Devices' price objective to $720 from $620. $AMD

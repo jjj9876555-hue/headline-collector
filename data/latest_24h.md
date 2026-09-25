@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-25 22:27 JST／対象: 09/24 22:27 〜 09/25 22:27 JST（時刻はすべて日本時間）
+生成: 2026-09-25 22:45 JST／対象: 09/24 22:45 〜 09/25 22:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 95 | 09/24 22:31 | 09/25 22:20 | ⚠ 681分（07:52→19:13） |
-| FirstSquawk | 307 | 09/24 22:29 | 09/25 22:21 | ⚠ 155分（16:01→18:36） |
-| financialjuice | 253 | 09/24 22:31 | 09/25 22:19 | ⚠ 88分（11:11→12:40） |
+| DeItaone | 93 | 09/24 22:59 | 09/25 22:20 | ⚠ 681分（07:52→19:13） |
+| FirstSquawk | 304 | 09/24 22:45 | 09/25 22:31 | ⚠ 155分（16:01→18:36） |
+| financialjuice | 254 | 09/24 22:45 | 09/25 22:37 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 625 行（統合前 662 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 621 行（統合前 658 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 22:29 [FirstSquawk] NETANYAHU HAS ARRIVED IN THE U.S. FOR THE UN GENERAL ASSEMBLY. HE WILL DELIVER A SPEECH LATER TODAY IN NEW YORK.
-- 09/24 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -33.6 MLN NASDAQ 100: -9.0 MLN DOW 30: -5.5 MLN MAG 7: -7.4 MLN $MACRO
-- 09/24 22:31 [DeItaone] ORACLE SHARES DOWN 5.1% AFTER REPORT CO SENDS 'FORCE MAJEURE' NOTICE TO NEW MEXICO DATA CENTER DEVELOPER
-- 09/24 22:32 [FirstSquawk] NASDAQ DOWN 208.33 POINTS, OR 0.77 PERCENT, AT 26,727.71 AFTER MARKET OPEN DOW JONES DOWN 173.62 POINTS, OR 0.34 %, AT 51,337.97 AFTER MARKET OPEN S&P 500 DOWN 38.61 POINTS, OR 0.50 PERCENT, AT 7,667.42 AFTER MARKET OPEN
-- 09/24 22:34 [FirstSquawk] ORACLE SHARES FALL 5.7% TO LOWEST SINCE AUG. 3
-- 09/24 22:39 [DeItaone] OIL FUTURES EXTEND GAINS, US CRUDE UP BY $2 A BARREL ON LITTLE SIGN OF PROGRESS IN US-IRAN TALKS
-- 09/24 22:40 [FirstSquawk] TRUMP TO DECIDE SHORTLY ON NEW TAIWAN ARMS PACKAGE - NBC
 - 09/24 22:45 [financialjuice] BoE Breeden: It is not at all obvious that there is a path to lower energy prices.
 - 09/24 22:45 [FirstSquawk] BANK OF ENGLAND BREEDEN: NOT AT ALL OBVIOUS THAT THERE IS A PATH TO LOWER ENERGY PRICES
 - 09/24 22:46 [FirstSquawk] IRANIAN AND UKRAINIAN FOREIGN MINISTERS AGREED TO CONTINUE CONTACTS TO AVOID INCREASING TENSIONS IN BILATERAL RELATIONS - IRANIAN FOREIGN MINISTRY || IRANIAN AND UKRAINIAN FOREIGN MINISTERS EXCHANGED VIEWS ON HOW TO SOLVE THE ISSUE OF UKRAI…
@@ -649,3 +642,6 @@
 - 09/25 22:19 [financialjuice] Libya's NOC says forced closure of the valve on the Sharara-Zawiya crude pipeline has caused a loss of 720,362 barrels of output, more than $75 million in direct losses as of September 24th
 - 09/25 22:20 [DeItaone] FRANCE DEBT FEARS DRAW GREECE COMPARISONS Jupiter’s Ariel Bezalel warns France’s rising debt and political gridlock are increasingly reminiscent of Greece’s pre-crisis trajectory. French government debt has reached 117.5% of GDP and is proj…
 - 09/25 22:21 [FirstSquawk] JAPAN'S YEN RISES 1 PCT TO SESSION HIGH 157.23 PER DOLLAR
+- 09/25 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -134.8 MLN NASDAQ 100: -57.7 MLN DOW 30: -4.0 MLN MAG 7: -24.0 MLN $MACRO
+- 09/25 22:31 [FirstSquawk] NASDAQ UP 27.53 POINTS, OR 0.10 PERCENT, AT 26,966.90 AFTER MARKET OPEN DOW JONES UP 30.23 POINTS, OR 0.06 PERCENT, AT 51,380.21 AFTER MARKET OPEN DOW JONES UP 30.23 POINTS, OR 0.06 %, AT 51,380.21 AFTER MARKET OPEN
+- 09/25 22:37 [financialjuice] BofA raises Advanced Micro Devices' price objective to $720 from $620. $AMD
