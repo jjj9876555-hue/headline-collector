@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-25 13:35 JST／対象: 09/24 13:35 〜 09/25 13:35 JST（時刻はすべて日本時間）
+生成: 2026-09-25 13:52 JST／対象: 09/24 13:52 〜 09/25 13:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 87 | 09/24 21:26 | 09/25 07:52 | ⚠ 230分（04:02→07:52） |
-| FirstSquawk | 359 | 09/24 13:40 | 09/25 13:34 | ⚠ 46分（07:06→07:52） |
-| financialjuice | 251 | 09/24 14:00 | 09/25 13:32 | ⚠ 108分（15:47→17:36） |
+| FirstSquawk | 357 | 09/24 13:53 | 09/25 13:47 | ⚠ 46分（07:06→07:52） |
+| financialjuice | 252 | 09/24 14:00 | 09/25 13:46 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 669 行（統合前 703 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 668 行（統合前 702 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 13:40 [FirstSquawk] France’s far left faces backlash over debt “fire” plan: FT
-- 09/24 13:40 [FirstSquawk] Leaked Belgian document warns Trump’s US is no longer a reliable ally: FT
-- 09/24 13:41 [FirstSquawk] FT: Fed will take action to ensure inflation resumes its slowdown
-- 09/24 13:45 [FirstSquawk] Pakistan FM tells Iraqji: We must remain committed to dialogue and diplomacy
 - 09/24 13:53 [FirstSquawk] Polish Army says preventive air operations conducted in response to Russian strikes on Ukraine
 - 09/24 14:00 [financialjuice] Iraqi economy expected to shrink 12% amid oil export drops: EBRD
 - 09/24 14:00 [financialjuice] EBRD lowers Turkey growth forecast 0.5 percentage points to 3% in 2026 on persistent inflation pressures
@@ -693,3 +689,6 @@
 - 09/25 13:29 [FirstSquawk] Trump’s AI agenda draws resistance from segments of his MAGA base - FT
 - 09/25 13:32 [financialjuice] Novoshakhtinsk oil refinery in Russia’s Rostov region hit by drone attack, pauses operations: governor
 - 09/25 13:34 [FirstSquawk] Drone attack damages Novoshakhtinsk oil refinery in Russia’s Rostov region, governor says
+- 09/25 13:41 [FirstSquawk] 2-year Japanese government bond yield rises to 1.950%, up 5.0 basis points
+- 09/25 13:46 [financialjuice] Internet disruption reported in conflict-hit northern Ethiopia: web monitor NetBlocks
+- 09/25 13:47 [FirstSquawk] Credit Suisse reaches settlement with Australian insurer over Greensill - FT

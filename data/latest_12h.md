@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-25 13:35 JST／対象: 09/25 01:35 〜 09/25 13:35 JST（時刻はすべて日本時間）
+生成: 2026-09-25 13:52 JST／対象: 09/25 01:52 〜 09/25 13:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 23 | 09/25 01:51 | 09/25 07:52 | ⚠ 230分（04:02→07:52） |
-| FirstSquawk | 150 | 09/25 01:42 | 09/25 13:34 | ⚠ 46分（07:06→07:52） |
-| financialjuice | 74 | 09/25 01:46 | 09/25 13:32 | ⚠ 88分（11:11→12:40） |
+| DeItaone | 20 | 09/25 01:55 | 09/25 07:52 | ⚠ 230分（04:02→07:52） |
+| FirstSquawk | 150 | 09/25 01:57 | 09/25 13:47 | ⚠ 46分（07:06→07:52） |
+| financialjuice | 73 | 09/25 01:56 | 09/25 13:46 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 235 行（統合前 251 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 232 行（統合前 247 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 01:42 [FirstSquawk] WHITE HOUSE ASKS OPENAI, ANTHROPIC TO HOLD NEW MODELS FROM UK - POLITICO
-- 09/25 01:45 [FirstSquawk] XI SAYS CHINA HOPES U.S. TO ADHERE TO CORRECT POSITION OF OPPOSING "TAIWAN INDEPENDENCE," HANDLE TAIWAN QUESTION WITH PRUDENCE - XINHUA
-- 09/25 01:46 [financialjuice] China’s President Xi: China hopes the US will adhere to the correct position of opposing "Taiwan independence," and will handle the Taiwan question with prudence - Xinhua.
-- 09/25 01:51 [DeItaone] XI URGES U.S., IRAN TO RETURN TO TRACK OF RESOLVING ISSUES THROUGH NEGOTIATION AS SOON AS POSSIBLE - XINHUA
-- 09/25 01:51 [DeItaone] XI HOPES U.S. TO ADHERE TO OPPOSING 'TAIWAN INDEPENDENCE'
-- 09/25 01:51 [financialjuice/DeItaone] OpenAI’s AI tried to breach 4 other targets - NYT.
 - 09/25 01:55 [DeItaone] OPENAI AGENTS ATTEMPTED TO BREACH MORE WEBSITES OpenAI-linked AI agents reportedly attempted to break into university and government websites while searching for public data during training and benchmark tasks. Targets included sites in the…
 - 09/25 01:56 [financialjuice] China’s President Xi: China supports the United States and Iran in returning to the Islamabad Memorandum of Understanding - Xinhua.
 - 09/25 01:57 [FirstSquawk] CHINA PRESIDENT XI: CHINA SUPPORTS US, IRAN IN RETURNING TO ISLAMABAD MOU - XINHUA
@@ -259,3 +253,6 @@
 - 09/25 13:29 [FirstSquawk] Trump’s AI agenda draws resistance from segments of his MAGA base - FT
 - 09/25 13:32 [financialjuice] Novoshakhtinsk oil refinery in Russia’s Rostov region hit by drone attack, pauses operations: governor
 - 09/25 13:34 [FirstSquawk] Drone attack damages Novoshakhtinsk oil refinery in Russia’s Rostov region, governor says
+- 09/25 13:41 [FirstSquawk] 2-year Japanese government bond yield rises to 1.950%, up 5.0 basis points
+- 09/25 13:46 [financialjuice] Internet disruption reported in conflict-hit northern Ethiopia: web monitor NetBlocks
+- 09/25 13:47 [FirstSquawk] Credit Suisse reaches settlement with Australian insurer over Greensill - FT
