@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-25 21:31 JST／対象: 09/25 15:31 〜 09/25 21:31 JST（時刻はすべて日本時間）
+生成: 2026-09-25 21:50 JST／対象: 09/25 15:50 〜 09/25 21:50 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 13 | 09/25 19:13 | 09/25 21:30 | ⚠ 92分（19:13→20:46） |
-| FirstSquawk | 49 | 09/25 15:32 | 09/25 21:19 | ⚠ 155分（16:01→18:36） |
-| financialjuice | 62 | 09/25 16:00 | 09/25 21:30 | ⚠ 55分（16:05→17:00） |
+| DeItaone | 21 | 09/25 19:13 | 09/25 21:50 | ⚠ 92分（19:13→20:46） |
+| FirstSquawk | 55 | 09/25 15:50 | 09/25 21:48 | ⚠ 155分（16:01→18:36） |
+| financialjuice | 73 | 09/25 16:00 | 09/25 21:49 | ⚠ 55分（16:05→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 116 行（統合前 124 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 138 行（統合前 150 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 15:32 [FirstSquawk] ArcelorMittal expects $1 billion impairment charge for Kryvyi Rih assets after missile strikes
-- 09/25 15:35 [FirstSquawk] Swedish and Finnish fighter jets scrambled to identify Russian military aircraft, Finnish Air Force says
-- 09/25 15:40 [FirstSquawk] TRUMP EXPRESSED CONCERNS ABOUT YEN WEAKNESS, JAPAN FINANCE MINISTER SAYS-WSJ
-- 09/25 15:45 [FirstSquawk] FRANCE (Q2) WAGES QOQ ACTUAL: 0.7% VS 0.7% PREVIOUS;EST 0.5%
 - 09/25 15:50 [FirstSquawk] Turkey’s military chief of staff to attend Mecca Defence Pact meeting in Saudi Arabia
 - 09/25 16:00 [financialjuice] SPANISH GDP QOQ ACTUAL 0.7% (FORECAST 0.7%, PREVIOUS 0.7%) $MACRO
 - 09/25 16:00 [financialjuice] SPANISH GDP YOY ACTUAL 2.6% (FORECAST 2.7%, PREVIOUS 2.7%) $MACRO
@@ -140,3 +136,29 @@
 - 09/25 21:30 [DeItaone] US AUG DURABLES ORDERS UNCHANGED (CONSENSUS -0.4%)
 - 09/25 21:30 [financialjuice] US CORE DURABLE GOODS ACTUAL 0.3% (FORECAST 0.6%, PREVIOUS 0.4%) $MACRO
 - 09/25 21:30 [financialjuice] ❗ US DURABLE GOODS ACTUAL 0% (FORECAST -0.3%, PREVIOUS 1.1%) $MACRO
+- 09/25 21:32 [FirstSquawk] US DURABLE GOODS ORDERS (M/M) AUG P: 0.0% (EST -0.3%; PREV 1.1%; PREVR 0.9%) || DURABLES EX-TRANSPORTATION (M/M): 0.3% (EST 0.6%; PREV 0.4%)
+- 09/25 21:32 [financialjuice] US Durable Goods August Report
+- 09/25 21:32 [FirstSquawk] BURNHAM PLANS FIRST BERLIN VISIT FOR TALKS WITH MERZ - POLITICO
+- 09/25 21:33 [DeItaone] YIELD ON 30-YEAR U.S. TREASURY BONDS LAST UP 1.85 BASIS POINTS AT 5.481% U.S. TREASURY YIELDS RISE AFTER DURABLE GOODS DATA; YIELD ON 10-YEAR TREASURY NOTE LAST UP 2.36 BASIS POINTS AT 5.186%
+- 09/25 21:44 [FirstSquawk] CHINA, US IN A MANAGED TRADE SITUATION, HAD PROGRESS - GREER
+- 09/25 21:45 [financialjuice] USTR Greer: China, US in a managed trade situation, had progress.
+- 09/25 21:45 [financialjuice] USTR's Greer: We will release on Monday details on negotiations with China and the US -CNBC
+- 09/25 21:45 [DeItaone/financialjuice] USTR GREER: WE HAVE REACHED AGREEMENTS WITH CHINA ON SUBSET OF GOODS WE CAN TRADE
+- 09/25 21:45 [DeItaone] GAZPROM INCREASED GAS PRODUCTION BY 3.4% IN THE FIRST HALF OF THE YEAR, TO 216.55 BILLION CUBIC METERS - IFX
+- 09/25 21:46 [FirstSquawk] GREER SAYS WILL RELEASE DETAILS ON CHINA TRADE TALKS ON MONDAY
+- 09/25 21:46 [FirstSquawk] US, CHINA REACHED AGREEMENT ON NUMBER OF TRADE AREAS - GREER
+- 09/25 21:46 [financialjuice] USTR Greer: The US and China reached an agreement on a number of trade areas.
+- 09/25 21:47 [DeItaone] USTR GREER: CONVERSATIONS WITH CHINA ABOUT EXPORT CONTROLS, NATIONAL SECURITY ARE OFF THE TABLE IN THESE TALKS -CNBC
+- 09/25 21:47 [financialjuice] ❗ USTR Greer: AI chip discussions are not happening in these talks.
+- 09/25 21:47 [financialjuice/FirstSquawk] Trump: Very productive meeting with China's Xi
+- 09/25 21:47 [financialjuice] Trump on Truth Social: Very productive meeting with president xi for both the US and China. tremendous things will be happening.
+- 09/25 21:47 [FirstSquawk] TRUMP: VERY PRODUCTIVE MEETING WITH PRESIDENT XI FOR BOTH
+- 09/25 21:47 [FirstSquawk/financialjuice] TRUMP: TREMENDOUS THINGS WILL BE HAPPENING
+- 09/25 21:47 [DeItaone] *CHINA, US IN A MANAGED TRADE SITUATION, HAD PROGRESS : GREER *GREER: WILL RELEASE DETAILS ON CHINA TRADE TALKS ON MONDAY
+- 09/25 21:48 [FirstSquawk] TRUMP: XI 'SEEMED TO LIKE' CALLING AI SUPER INTELLIGENCE
+- 09/25 21:48 [DeItaone] TRUMP: VERY PRODUCTIVE MEETING WITH PRESIDENT XI FOR BOTH U.S.A. AND CHINA.
+- 09/25 21:48 [FirstSquawk] TRUMP: XI SEEMED TO LIKING CALLING AI 'SUPER INTELLIGENCE'
+- 09/25 21:48 [financialjuice] USTR Greer: Conversations with China about export controls and national security are off the table in these talks - CNBC.
+- 09/25 21:49 [financialjuice] Houthis promise not to target European ships - FT
+- 09/25 21:49 [DeItaone] *GREER: AI CHIP DISCUSSIONS NOT HAPPENING IN THESE TALKS
+- 09/25 21:50 [DeItaone] USTR GREER: TRUMP IS COMFORTABLE WITH WHERE WE ARE ON CANADA - CNBC

@@ -7,59 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-25 21:31 JST／対象: 09/24 21:31 〜 09/25 21:31 JST（時刻はすべて日本時間）
+生成: 2026-09-25 21:50 JST／対象: 09/24 21:50 〜 09/25 21:50 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 97 | 09/24 21:31 | 09/25 21:30 | ⚠ 681分（07:52→19:13） |
-| FirstSquawk | 312 | 09/24 21:35 | 09/25 21:19 | ⚠ 155分（16:01→18:36） |
-| financialjuice | 259 | 09/24 21:31 | 09/25 21:30 | ⚠ 88分（11:11→12:40） |
+| DeItaone | 92 | 09/24 21:51 | 09/25 21:50 | ⚠ 681分（07:52→19:13） |
+| FirstSquawk | 313 | 09/24 21:53 | 09/25 21:48 | ⚠ 155分（16:01→18:36） |
+| financialjuice | 253 | 09/24 21:51 | 09/25 21:49 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 638 行（統合前 674 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 628 行（統合前 665 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 21:31 [financialjuice] Canadian Retail Sales July 2026 Report
-- 09/24 21:31 [DeItaone] GOLDMAN SACHS RAISES BRENT OIL FORECAST TO $85 Goldman Sachs raised its December Brent crude forecast to $85 a barrel as energy prices climb across Asia-Pacific. The Iran war and Strait of Hormuz closure have tightened supplies, pushing LNG…
-- 09/24 21:32 [DeItaone] U.S. WEIGHS ALTERNATIVES TO DIESEL EXPORT BAN The U.S. administration is considering **voluntary diesel export cuts** instead of a ban or quota, according to the Wall Street Journal. Citi says this could reverse recent energy equity trades,…
-- 09/24 21:32 [financialjuice] ❗ CANADIAN RETAIL SALES MOM ACTUAL 0.7% (FORECAST -0.8%, PREVIOUS 0.6%) $MACRO
-- 09/24 21:33 [DeItaone] BCA: FED HIKES UNLIKELY TO DERAIL S&P 500 BCA Research says the S&P 500 has gained during every full Fed tightening cycle since 1980, with returns ranging from 4.4% to 28.4%. BCA expects just one or two more 25bp hikes, arguing much of the …
-- 09/24 21:33 [financialjuice] US CONTINUED JOBLESS CLAIMS ACTUAL 1.719M (FORECAST 1.74M, PREVIOUS 1.730M) $MACRO
-- 09/24 21:33 [financialjuice] ❗ US INITIAL JOBLESS CLAIMS ACTUAL 197K (FORECAST 200K, PREVIOUS 196K) $MACRO
-- 09/24 21:33 [financialjuice] CANADIAN CORE RETAIL SALES MOM ACTUAL 0.7% (FORECAST -0.5%, PREVIOUS 0.5%) $MACRO
-- 09/24 21:34 [DeItaone] ORACLE MOVES TO LIMIT RISK ON MASSIVE AI DATA CENTER Oracle has invoked force majeure on Project Jupiter, a major New Mexico data center tied to the Stargate AI buildout. The move seeks to protect Oracle from payments if regulatory and infr…
-- 09/24 21:35 [DeItaone] ECB'S SCHNABEL TO STEP DOWN EARLY TO JOIN IMF, ANNOUNCEMENT IMMINENT, SOURCES SAY
-- 09/24 21:35 [FirstSquawk] ECB SCHNABEL IS SET TO LEAVE ECB BOARD EARLY FOR SENIOR JOB AT IMF
-- 09/24 21:35 [financialjuice] ECB's Schnabel to step down early to join IMF, announcement imminent - Sources
-- 09/24 21:36 [DeItaone] BOFA RAISES 10-YEAR TREASURY YIELD TARGET TO 5% Bank of America raised its year-end U.S. 10-year yield forecast to 5.0% from 4.5%, citing fiscal concerns and broader market risks. The bank also lifted its 2-year yield forecast to 5.0%. BofA…
-- 09/24 21:37 [DeItaone] SOME CNN STAFF UNABLE TO ACCESS WHITE HOUSE AFTER COURT RULING - CNN
-- 09/24 21:37 [DeItaone] $ORCL - ORACLE SHARES FALL 5.4% PREMARKET AFTER REPORT CO SENDS 'FORCE MAJEURE' NOTICE TO NEW MEXICO DATA CENTER DEVELOPER
-- 09/24 21:38 [financialjuice] Trump: Survey of people in business shows impressive growth.
-- 09/24 21:38 [FirstSquawk/financialjuice/DeItaone] TRUMP: GASOLINE PRICES WILL BE COMING DOWN
-- 09/24 21:40 [financialjuice] China and EU hold trade talks ahead of the mechanism meeting
-- 09/24 21:42 [DeItaone] 🇺🇸 🇨🇳 TRUMP-XI WHITE HOUSE SCHEDULE — THURSDAY 🔸 8:00 AM — Executive Time 🔸 9:00 AM — In-Town Pool Call 🔸 10:00 AM — Trump & First Lady greet Xi Jinping & Peng Liyuan 🔸 10:10 AM — Arrival Ceremony 🔸 10:15 AM — Trump & Xi deliver remarks 🔸 1…
-- 09/24 21:44 [DeItaone] 🇺🇸 WHAT TO WATCH TODAY — U.S. MARKETS 🔸 4:10 AM ET — 🏦 Fed’s John Williams 🔸 8:30 AM ET — 🇺🇸 Initial Jobless Claims 🔸 10:00 AM ET — 🏠 New Home Sales 🔸 10:30 AM ET — 🔥 EIA Natural Gas Storage 🔸 1:00 PM ET — 🇺🇸 $44B 7-Year Treasury Auction 🔸 …
-- 09/24 21:44 [financialjuice/DeItaone] Small group of Chinese CEOs arrived in Washington - SCMP
-- 09/24 21:45 [financialjuice] ECB's Radev: Rate hike doesn't put us on predetermined path.
-- 09/24 21:45 [financialjuice] ECB's Radev: ECB should give previous decisions time to work
-- 09/24 21:46 [DeItaone] CHINESE CEOS ARRIVE IN WASHINGTON AHEAD OF XI DINNER A small group of Chinese CEOs with U.S. visas has arrived in Washington separately from President Xi Jinping’s official delegation. The executives are still waiting to learn whether they …
-- 09/24 21:46 [financialjuice] ECB's Radev: ECB task is to judge is shock will broaden from energy.
-- 09/24 21:46 [financialjuice] ECB's Radev: Risks to inflation tilted to upside, growth to downside
-- 09/24 21:47 [FirstSquawk] CHINESE CEOS FLY TO US ON OWN, AWAIT INVITES TO TRUMP’S STATE DINNER FOR XI JINPING - SCMP
-- 09/24 21:47 [FirstSquawk] ECB'S RADEV SAYS RATE HIKE DOESN'T PUT US ON PREDETERMINED PATH
-- 09/24 21:47 [FirstSquawk] RADEV SAYS ECB SHOULD GIVE PREVIOUS DECISIONS TIME TO WORK
-- 09/24 21:47 [FirstSquawk] RADEV SAYS ECB TASK IS TO JUDGE IS SHOCK WILL BROADEN FROM ENERGY
-- 09/24 21:47 [financialjuice] ECB's Radev: Not seeing broad-based second-round effects
-- 09/24 21:47 [FirstSquawk] RADEV SAYS RISKS TO INFLATION TILTED TO UPSIDE, GROWTH TO DOWNSIDE
-- 09/24 21:48 [FirstSquawk] ECB’S RADEV SAYS NOT SEEING BROAD-BASED SECOND-ROUND EFFECTS
-- 09/24 21:48 [FirstSquawk] FED'S BARKIN SAYS INFLATION'S PERSISTENCE CLEARER THIS SUMMER
-- 09/24 21:48 [financialjuice] Russian economy ministry sees Urals oil price at $53/bbl in 2027 (previous forecast: $50/bbl).
-- 09/24 21:48 [financialjuice] Fed's Barkin: Inflation's persistence is clearer this summer.
 - 09/24 21:51 [financialjuice] Fed's Barkin: The labor market is stable, but new job growth remains slow.
 - 09/24 21:51 [DeItaone] BARKIN: INFLATION'S PERSISTENCE IS CLEARER THIS SUMMER
 - 09/24 21:53 [FirstSquawk] FED’S BARKIN: LABOR MARKET STABLE BUT NEW JOB GROWTH REMAINS SLOW
@@ -662,3 +626,29 @@
 - 09/25 21:30 [DeItaone] US AUG DURABLES ORDERS UNCHANGED (CONSENSUS -0.4%)
 - 09/25 21:30 [financialjuice] US CORE DURABLE GOODS ACTUAL 0.3% (FORECAST 0.6%, PREVIOUS 0.4%) $MACRO
 - 09/25 21:30 [financialjuice] ❗ US DURABLE GOODS ACTUAL 0% (FORECAST -0.3%, PREVIOUS 1.1%) $MACRO
+- 09/25 21:32 [FirstSquawk] US DURABLE GOODS ORDERS (M/M) AUG P: 0.0% (EST -0.3%; PREV 1.1%; PREVR 0.9%) || DURABLES EX-TRANSPORTATION (M/M): 0.3% (EST 0.6%; PREV 0.4%)
+- 09/25 21:32 [financialjuice] US Durable Goods August Report
+- 09/25 21:32 [FirstSquawk] BURNHAM PLANS FIRST BERLIN VISIT FOR TALKS WITH MERZ - POLITICO
+- 09/25 21:33 [DeItaone] YIELD ON 30-YEAR U.S. TREASURY BONDS LAST UP 1.85 BASIS POINTS AT 5.481% U.S. TREASURY YIELDS RISE AFTER DURABLE GOODS DATA; YIELD ON 10-YEAR TREASURY NOTE LAST UP 2.36 BASIS POINTS AT 5.186%
+- 09/25 21:44 [FirstSquawk] CHINA, US IN A MANAGED TRADE SITUATION, HAD PROGRESS - GREER
+- 09/25 21:45 [financialjuice] USTR Greer: China, US in a managed trade situation, had progress.
+- 09/25 21:45 [financialjuice] USTR's Greer: We will release on Monday details on negotiations with China and the US -CNBC
+- 09/25 21:45 [DeItaone/financialjuice] USTR GREER: WE HAVE REACHED AGREEMENTS WITH CHINA ON SUBSET OF GOODS WE CAN TRADE
+- 09/25 21:45 [DeItaone] GAZPROM INCREASED GAS PRODUCTION BY 3.4% IN THE FIRST HALF OF THE YEAR, TO 216.55 BILLION CUBIC METERS - IFX
+- 09/25 21:46 [FirstSquawk] GREER SAYS WILL RELEASE DETAILS ON CHINA TRADE TALKS ON MONDAY
+- 09/25 21:46 [FirstSquawk] US, CHINA REACHED AGREEMENT ON NUMBER OF TRADE AREAS - GREER
+- 09/25 21:46 [financialjuice] USTR Greer: The US and China reached an agreement on a number of trade areas.
+- 09/25 21:47 [DeItaone] USTR GREER: CONVERSATIONS WITH CHINA ABOUT EXPORT CONTROLS, NATIONAL SECURITY ARE OFF THE TABLE IN THESE TALKS -CNBC
+- 09/25 21:47 [financialjuice] ❗ USTR Greer: AI chip discussions are not happening in these talks.
+- 09/25 21:47 [financialjuice/FirstSquawk] Trump: Very productive meeting with China's Xi
+- 09/25 21:47 [financialjuice] Trump on Truth Social: Very productive meeting with president xi for both the US and China. tremendous things will be happening.
+- 09/25 21:47 [FirstSquawk] TRUMP: VERY PRODUCTIVE MEETING WITH PRESIDENT XI FOR BOTH
+- 09/25 21:47 [FirstSquawk/financialjuice] TRUMP: TREMENDOUS THINGS WILL BE HAPPENING
+- 09/25 21:47 [DeItaone] *CHINA, US IN A MANAGED TRADE SITUATION, HAD PROGRESS : GREER *GREER: WILL RELEASE DETAILS ON CHINA TRADE TALKS ON MONDAY
+- 09/25 21:48 [FirstSquawk] TRUMP: XI 'SEEMED TO LIKE' CALLING AI SUPER INTELLIGENCE
+- 09/25 21:48 [DeItaone] TRUMP: VERY PRODUCTIVE MEETING WITH PRESIDENT XI FOR BOTH U.S.A. AND CHINA.
+- 09/25 21:48 [FirstSquawk] TRUMP: XI SEEMED TO LIKING CALLING AI 'SUPER INTELLIGENCE'
+- 09/25 21:48 [financialjuice] USTR Greer: Conversations with China about export controls and national security are off the table in these talks - CNBC.
+- 09/25 21:49 [financialjuice] Houthis promise not to target European ships - FT
+- 09/25 21:49 [DeItaone] *GREER: AI CHIP DISCUSSIONS NOT HAPPENING IN THESE TALKS
+- 09/25 21:50 [DeItaone] USTR GREER: TRUMP IS COMFORTABLE WITH WHERE WE ARE ON CANADA - CNBC
