@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-26 08:15 JST／対象: 09/26 02:15 〜 09/26 08:15 JST（時刻はすべて日本時間）
+生成: 2026-09-26 08:31 JST／対象: 09/26 02:31 〜 09/26 08:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 3 | 09/26 02:18 | 09/26 05:35 | ⚠ 146分（03:09→05:35） |
-| FirstSquawk | 32 | 09/26 02:16 | 09/26 05:01 | 25分（04:35→05:01） |
-| financialjuice | 68 | 09/26 02:18 | 09/26 07:35 | ⚠ 65分（05:23→06:28） |
+| DeItaone | 2 | 09/26 03:09 | 09/26 05:35 | ⚠ 146分（03:09→05:35） |
+| FirstSquawk | 28 | 09/26 02:42 | 09/26 05:01 | 25分（04:35→05:01） |
+| financialjuice | 67 | 09/26 02:52 | 09/26 08:28 | ⚠ 65分（05:23→06:28） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 100 行（統合前 103 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 94 行（統合前 97 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 02:16 [FirstSquawk] US JUSTICE DEPARTMENT ENDS PROBE INTO CROWDSTRIKE TRANSACTIONS.
-- 09/26 02:18 [financialjuice] Trump: Will be meeting again in november, in China - Truth Social
-- 09/26 02:18 [DeItaone] TRUMP: WILL BE MEETING WITH XI AGAIN IN NOVEMBER, IN CHINA, AND THEN AT G20 IN DECEMBER, IN MIAMI, FLORIDA TRUMP: MUCH HAS BEEN, AND WILL BE, ACCOMPLISHED
-- 09/26 02:18 [financialjuice] Trump: Xi's meeting was one of friendship, strength, and success - Truth Social
-- 09/26 02:19 [FirstSquawk] TRUMP: WILL BE MEETING AGAIN IN NOVEMBER, IN CHINA
-- 09/26 02:21 [FirstSquawk] TRUMP SAYS HE WILL BE MEETING WITH XI IN CHINA IN NOVEMBER
-- 09/26 02:22 [FirstSquawk] President Xi and Madam Peng have just left D.C., heading for China. The meeting was one of Friendship, Strength, and Success, for both China and the U.S.A. We will be meeting again in November, in China, and then at the G20 in December, in …
 - 09/26 02:42 [FirstSquawk] SENIOR IRANIAN SOURCE: RETURN TO US-IRAN MOU IS POSSIBLE
 - 09/26 02:43 [FirstSquawk] SENIOR IRANIAN SOURCE: EXCHANGED MESSAGES ON OPENING HORMUZ FOR EASING SIEGE AND SANCTIONS
 - 09/26 02:49 [FirstSquawk] SAUDI CRUDE OIL EXPORTS HIT HIGHEST LEVEL SINCE IRAN WAR BEGAN DESPITE PIPELINE OUTAGE – CNBC
@@ -124,3 +117,4 @@
 - 09/26 07:29 [financialjuice] Alabama AG: Alabama could obtain up to $300 million under settlement if conditions met
 - 09/26 07:29 [financialjuice] Alabama AG: deal settles claims TikTok built platform with addictive features, exposed young users to mental harm, misled public about safety
 - 09/26 07:35 [financialjuice] Skyworks extends expiration date of exchange offers for Gorvo senior notes due 2029 and 2031
+- 09/26 08:28 [financialjuice] Google in threat intelligence report: ShinyHunters launches revived widespread attack campaign targeting Oracle PeopleSoft

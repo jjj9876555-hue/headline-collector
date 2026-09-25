@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-26 08:15 JST／対象: 09/25 08:15 〜 09/26 08:15 JST（時刻はすべて日本時間）
+生成: 2026-09-26 08:31 JST／対象: 09/25 08:31 〜 09/26 08:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 67 | 09/25 19:13 | 09/26 05:35 | ⚠ 146分（03:09→05:35） |
-| FirstSquawk | 249 | 09/25 08:22 | 09/26 05:01 | ⚠ 155分（16:01→18:36） |
-| financialjuice | 248 | 09/25 08:28 | 09/26 07:35 | ⚠ 88分（11:11→12:40） |
+| FirstSquawk | 248 | 09/25 08:42 | 09/26 05:01 | ⚠ 155分（16:01→18:36） |
+| financialjuice | 247 | 09/25 08:51 | 09/26 08:28 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 540 行（統合前 566 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 538 行（統合前 564 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 08:22 [FirstSquawk] QATAR: REPEATED ATTACKS BY NETANYAHU APPEAR AIMED AT DEFLECTING POLITICAL RESPONSIBILITY FOR GROUND POLICIES
-- 09/25 08:28 [financialjuice] Saudi Arabia issues warning over possible threat in Jazan
-- 09/25 08:30 [financialjuice] Saudi Arabia civil defence: threat over in Jazan
 - 09/25 08:42 [FirstSquawk] US ENVOY WITKOFF AND KUSHNER MET RUSSIA'S DMITRIEV TODAY - CNN
 - 09/25 08:51 [financialjuice] Oracle guarantees payouts to investors on New Mexico data center even if it fails to secure power before project launch - FT
 - 09/25 08:56 [FirstSquawk] JAPAN’S NIKKEI FUTURES FALL 0.1% IN EARLY TRADE; 10-YEAR JGB FUTURES DOWN 0.12 POINT
@@ -564,3 +561,4 @@
 - 09/26 07:29 [financialjuice] Alabama AG: Alabama could obtain up to $300 million under settlement if conditions met
 - 09/26 07:29 [financialjuice] Alabama AG: deal settles claims TikTok built platform with addictive features, exposed young users to mental harm, misled public about safety
 - 09/26 07:35 [financialjuice] Skyworks extends expiration date of exchange offers for Gorvo senior notes due 2029 and 2031
+- 09/26 08:28 [financialjuice] Google in threat intelligence report: ShinyHunters launches revived widespread attack campaign targeting Oracle PeopleSoft
