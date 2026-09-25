@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-26 00:18 JST／対象: 09/25 00:18 〜 09/26 00:18 JST（時刻はすべて日本時間）
+生成: 2026-09-26 00:34 JST／対象: 09/25 00:34 〜 09/26 00:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 77 | 09/25 00:30 | 09/26 00:09 | ⚠ 681分（07:52→19:13） |
-| FirstSquawk | 272 | 09/25 00:22 | 09/26 00:18 | ⚠ 155分（16:01→18:36） |
-| financialjuice | 218 | 09/25 00:32 | 09/26 00:15 | ⚠ 88分（11:11→12:40） |
+| DeItaone | 76 | 09/25 00:35 | 09/26 00:09 | ⚠ 681分（07:52→19:13） |
+| FirstSquawk | 272 | 09/25 00:48 | 09/26 00:26 | ⚠ 155分（16:01→18:36） |
+| financialjuice | 216 | 09/25 00:48 | 09/26 00:31 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 538 行（統合前 574 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 535 行（統合前 571 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 00:22 [FirstSquawk] US YIELDS FOR 10 TO 30 YEARS INCREASE WITH OIL PRICES, REACHING NEW MULTIYEAR HIGHS.
-- 09/25 00:30 [DeItaone] OIL FUTURES EXTEND GAINS, US CRUDE UP BY $4 A BARREL AFTER YEMEN'S HOUTHIS FIRE MISSILES AT SAUDI ARABIA
-- 09/25 00:31 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 0.23%; GERMANY'S DAX DOWN 0.61%
-- 09/25 00:32 [financialjuice] US 4-WEEK BILL HIGH YIELD ACTUAL 3.85% (FORECAST -, PREVIOUS 3.820%) $MACRO
-- 09/25 00:32 [financialjuice] US 4-WEEK BILL BID-TO-COVER ACTUAL 2.61 (FORECAST -, PREVIOUS 3.020) $MACRO
-- 09/25 00:33 [financialjuice] US 4-Week Bill Auction High Yield 3.850% Bid-to-cover 2.61 US sells $90 bln Awards 54.97% of bids at high
-- 09/25 00:33 [financialjuice] The US seeks to join Musk in his court fight with the EU over the X fine.
 - 09/25 00:35 [DeItaone] U.S. NATURAL GAS FUTURES JUMP MORE THAN 6% AS OIL EXTENDS RISE
 - 09/25 00:36 [DeItaone] U.S. TREASURY 10-YEAR YIELD HIGH FOR SESSION OF 5.1685%, HIGHEST SINCE JULY 2007; YIELD ON 10-YEAR NOTE LAST UP 5.24 BASIS POINTS AT 5.166%
 - 09/25 00:48 [DeItaone/FirstSquawk] XI HOLDS SMALL-GROUP EXCHANGES WITH TRUMP - XINHUA
@@ -562,3 +555,7 @@
 - 09/26 00:15 [financialjuice] Peru Expects Annual Copper Output to Rise by 1 Million Metric Tons Within 5-6 Years
 - 09/26 00:17 [FirstSquawk] PERU'S COPPER PRODUCTION EXPECTED TO BE 2.5 MILLION-2.7 MILLION METRIC TONS THIS YEAR - MINING MINISTER SAYS
 - 09/26 00:18 [FirstSquawk] PERU EXPECTED TO ADD 1 MILLION METRIC TONS OF ANNUAL COPPER OUTPUT WITHIN 5-6 YEARS - MINING MINISTER SAYS
+- 09/26 00:22 [FirstSquawk] PEZIZKIAN ON THE DETAILS OF THE IRANIAN DELEGATION'S MEETING WITH KUSHNER AND WHITTAKER: WHAT WE ARE DISCUSSING IS THE FRAMEWORK OF INTERNATIONAL LAW AND THE RIGHTS AND ENTITLEMENTS THAT WE SHOULD HAVE. WE HAVE NOT ASKED FOR ANYTHING OTHER …
+- 09/26 00:25 [financialjuice] Iran's President Pezeshkian: The Iranian delegation discussed rights under international law. We are reaching an understanding on that basis, if the other side accepts – ISNA.
+- 09/26 00:26 [FirstSquawk] BASF CONFIRMS PRELIM. DISCUSSIONS TO BUY EVONIK; SAYS OUTCOME OF TALKS REMAINS OPEN
+- 09/26 00:31 [financialjuice] Iran's President Pezeshkian, asked on diluting 60% uranium reserves: Yes, within the framework of international law, we are willing to accept whatever is proposed in the NPT - Fox News interview cited by ISNA.

@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-26 00:18 JST／対象: 09/25 18:18 〜 09/26 00:18 JST（時刻はすべて日本時間）
+生成: 2026-09-26 00:34 JST／対象: 09/25 18:34 〜 09/26 00:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 44 | 09/25 19:13 | 09/26 00:09 | ⚠ 92分（19:13→20:46） |
-| FirstSquawk | 86 | 09/25 18:36 | 09/26 00:18 | ⚠ 47分（19:02→19:50） |
-| financialjuice | 115 | 09/25 18:21 | 09/26 00:15 | 39分（20:20→21:00） |
+| FirstSquawk | 88 | 09/25 18:36 | 09/26 00:26 | ⚠ 47分（19:02→19:50） |
+| financialjuice | 111 | 09/25 18:34 | 09/26 00:31 | 39分（20:20→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 229 行（統合前 247 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 227 行（統合前 245 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 18:21 [financialjuice] Japan's PM Takaichi: Didn't discuss monetary or fiscal policy with Trump
-- 09/25 18:30 [financialjuice] Japan's PM Takaichi: Trump said in the summit meeting that the weak Yen is pressuring US trade
-- 09/25 18:30 [financialjuice] BoE Gov. Bailey: AI could be a positive shock in an era of negative supply shocks
-- 09/25 18:31 [financialjuice] Kremlin: A trilateral meeting between the US, Russia, and Ukraine could take place in the near future, but there are no details on that for now
-- 09/25 18:32 [financialjuice] BoE Gov. Bailey: We are at the moment seeing quite subdued pass-through of energy prices, but it's early days
-- 09/25 18:33 [financialjuice] BoE Gov. Bailey: The longer we go on with high energy prices, the harder it gets to maintain no hike in the bank rate stance
 - 09/25 18:34 [financialjuice] BoE Gov. Bailey: There has been a tightening of financial conditions
 - 09/25 18:34 [financialjuice] BoE Gov. Bailey: We do take rise in mortgage rates into consideration
 - 09/25 18:36 [financialjuice] BoE Gov. Bailey: Can't wait for full evidence on 2nd-round effects
@@ -253,3 +247,7 @@
 - 09/26 00:15 [financialjuice] Peru Expects Annual Copper Output to Rise by 1 Million Metric Tons Within 5-6 Years
 - 09/26 00:17 [FirstSquawk] PERU'S COPPER PRODUCTION EXPECTED TO BE 2.5 MILLION-2.7 MILLION METRIC TONS THIS YEAR - MINING MINISTER SAYS
 - 09/26 00:18 [FirstSquawk] PERU EXPECTED TO ADD 1 MILLION METRIC TONS OF ANNUAL COPPER OUTPUT WITHIN 5-6 YEARS - MINING MINISTER SAYS
+- 09/26 00:22 [FirstSquawk] PEZIZKIAN ON THE DETAILS OF THE IRANIAN DELEGATION'S MEETING WITH KUSHNER AND WHITTAKER: WHAT WE ARE DISCUSSING IS THE FRAMEWORK OF INTERNATIONAL LAW AND THE RIGHTS AND ENTITLEMENTS THAT WE SHOULD HAVE. WE HAVE NOT ASKED FOR ANYTHING OTHER …
+- 09/26 00:25 [financialjuice] Iran's President Pezeshkian: The Iranian delegation discussed rights under international law. We are reaching an understanding on that basis, if the other side accepts – ISNA.
+- 09/26 00:26 [FirstSquawk] BASF CONFIRMS PRELIM. DISCUSSIONS TO BUY EVONIK; SAYS OUTCOME OF TALKS REMAINS OPEN
+- 09/26 00:31 [financialjuice] Iran's President Pezeshkian, asked on diluting 60% uranium reserves: Yes, within the framework of international law, we are willing to accept whatever is proposed in the NPT - Fox News interview cited by ISNA.
