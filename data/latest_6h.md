@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-26 02:16 JST／対象: 09/25 20:16 〜 09/26 02:16 JST（時刻はすべて日本時間）
+生成: 2026-09-26 02:33 JST／対象: 09/25 20:33 〜 09/26 02:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 63 | 09/25 20:46 | 09/26 02:05 | ⚠ 71分（00:09→01:20） |
-| FirstSquawk | 90 | 09/25 20:19 | 09/26 02:16 | 35分（00:26→01:01） |
-| financialjuice | 106 | 09/25 20:20 | 09/26 02:03 | 39分（20:20→21:00） |
+| DeItaone | 64 | 09/25 20:46 | 09/26 02:18 | ⚠ 71分（00:09→01:20） |
+| FirstSquawk | 91 | 09/25 20:40 | 09/26 02:22 | 35分（00:26→01:01） |
+| financialjuice | 107 | 09/25 21:00 | 09/26 02:18 | 24分（01:09→01:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 240 行（統合前 261 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 243 行（統合前 264 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 20:19 [FirstSquawk] META: DEUTSCHE BANK RAISES TARGET PRICE TO $820 FROM $750
-- 09/25 20:20 [FirstSquawk] INTERNATIONAL CRIMINAL COURT IS INSULATED AGAINST US SANCTIONS, SAYS DEPUTY PROSECUTOR- FT
-- 09/25 20:20 [financialjuice] International Criminal Court is insulated against US sanctions, according to deputy prosecutor - FT
 - 09/25 20:40 [FirstSquawk] GERMAN LAWMAKERS APPROVE NEW FUEL-TAX RELIEF WORTH €2.5 B
 - 09/25 20:46 [DeItaone] https://t.co/DfReK0eIPk
 - 09/25 20:50 [DeItaone] $TSLA - STONEX STAYS BULLISH ON TESLA AHEAD OF Q3 DELIVERIES StoneX reiterated its Buy rating and $475 price target on Tesla ahead of next week’s Q3 delivery report. The firm expects 446,500 deliveries, down 10% year-over-year and slightly …
@@ -264,3 +261,9 @@
 - 09/26 02:10 [FirstSquawk] US OFFICIAL: NEARLY 40M BBLS OF OIL TRANSITED HORMUZ IN PAST 48 HOURS - NEWSNATION
 - 09/26 02:10 [FirstSquawk] US OFFICIAL: WASHINGTON IS IN A STRONG POSITION AND CONTROLS HORMUZ STRAIT, THEREFORE WE ARE NOT IN A HURRY TO REACH AN AGREEMENT WITH IRAN
 - 09/26 02:16 [FirstSquawk] US JUSTICE DEPARTMENT ENDS PROBE INTO CROWDSTRIKE TRANSACTIONS.
+- 09/26 02:18 [financialjuice] Trump: Will be meeting again in november, in China - Truth Social
+- 09/26 02:18 [DeItaone] TRUMP: WILL BE MEETING WITH XI AGAIN IN NOVEMBER, IN CHINA, AND THEN AT G20 IN DECEMBER, IN MIAMI, FLORIDA TRUMP: MUCH HAS BEEN, AND WILL BE, ACCOMPLISHED
+- 09/26 02:18 [financialjuice] Trump: Xi's meeting was one of friendship, strength, and success - Truth Social
+- 09/26 02:19 [FirstSquawk] TRUMP: WILL BE MEETING AGAIN IN NOVEMBER, IN CHINA
+- 09/26 02:21 [FirstSquawk] TRUMP SAYS HE WILL BE MEETING WITH XI IN CHINA IN NOVEMBER
+- 09/26 02:22 [FirstSquawk] President Xi and Madam Peng have just left D.C., heading for China. The meeting was one of Friendship, Strength, and Success, for both China and the U.S.A. We will be meeting again in November, in China, and then at the G20 in December, in …
