@@ -7,59 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-26 03:45 JST／対象: 09/25 21:45 〜 09/26 03:45 JST（時刻はすべて日本時間）
+生成: 2026-09-26 04:00 JST／対象: 09/25 22:00 〜 09/26 04:00 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 52 | 09/25 21:45 | 09/26 03:09 | ⚠ 71分（00:09→01:20） |
-| FirstSquawk | 87 | 09/25 21:46 | 09/26 03:42 | 35分（00:26→01:01） |
-| financialjuice | 118 | 09/25 21:46 | 09/26 03:43 | 34分（02:18→02:52） |
+| DeItaone | 41 | 09/25 22:02 | 09/26 03:09 | ⚠ 71分（00:09→01:20） |
+| FirstSquawk | 77 | 09/25 22:07 | 09/26 03:57 | 35分（00:26→01:01） |
+| financialjuice | 113 | 09/25 22:00 | 09/26 03:59 | 34分（02:18→02:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 243 行（統合前 258 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 222 行（統合前 232 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 21:45 [DeItaone/financialjuice] USTR GREER: WE HAVE REACHED AGREEMENTS WITH CHINA ON SUBSET OF GOODS WE CAN TRADE
-- 09/25 21:45 [DeItaone] GAZPROM INCREASED GAS PRODUCTION BY 3.4% IN THE FIRST HALF OF THE YEAR, TO 216.55 BILLION CUBIC METERS - IFX
-- 09/25 21:46 [FirstSquawk] GREER SAYS WILL RELEASE DETAILS ON CHINA TRADE TALKS ON MONDAY
-- 09/25 21:46 [financialjuice] Morning Juice – US Session Prep (25th September)
-- 09/25 21:46 [FirstSquawk] US, CHINA REACHED AGREEMENT ON NUMBER OF TRADE AREAS - GREER
-- 09/25 21:46 [financialjuice] USTR Greer: The US and China reached an agreement on a number of trade areas.
-- 09/25 21:47 [DeItaone] USTR GREER: CONVERSATIONS WITH CHINA ABOUT EXPORT CONTROLS, NATIONAL SECURITY ARE OFF THE TABLE IN THESE TALKS -CNBC
-- 09/25 21:47 [financialjuice] ❗ USTR Greer: AI chip discussions are not happening in these talks.
-- 09/25 21:47 [financialjuice/FirstSquawk] Trump: Very productive meeting with China's Xi
-- 09/25 21:47 [financialjuice] Trump on Truth Social: Very productive meeting with president xi for both the US and China. tremendous things will be happening.
-- 09/25 21:47 [FirstSquawk] TRUMP: VERY PRODUCTIVE MEETING WITH PRESIDENT XI FOR BOTH
-- 09/25 21:47 [FirstSquawk/financialjuice] TRUMP: TREMENDOUS THINGS WILL BE HAPPENING
-- 09/25 21:47 [DeItaone] *CHINA, US IN A MANAGED TRADE SITUATION, HAD PROGRESS : GREER *GREER: WILL RELEASE DETAILS ON CHINA TRADE TALKS ON MONDAY
-- 09/25 21:48 [FirstSquawk] TRUMP: XI 'SEEMED TO LIKE' CALLING AI SUPER INTELLIGENCE
-- 09/25 21:48 [DeItaone] TRUMP: VERY PRODUCTIVE MEETING WITH PRESIDENT XI FOR BOTH U.S.A. AND CHINA.
-- 09/25 21:48 [FirstSquawk] TRUMP: XI SEEMED TO LIKING CALLING AI 'SUPER INTELLIGENCE'
-- 09/25 21:48 [financialjuice] USTR Greer: Conversations with China about export controls and national security are off the table in these talks - CNBC.
-- 09/25 21:49 [financialjuice/FirstSquawk] Houthis promise not to target European ships - FT
-- 09/25 21:49 [DeItaone] *GREER: AI CHIP DISCUSSIONS NOT HAPPENING IN THESE TALKS
-- 09/25 21:50 [DeItaone/financialjuice] USTR GREER: TRUMP IS COMFORTABLE WITH WHERE WE ARE ON CANADA - CNBC
-- 09/25 21:50 [DeItaone] USTR GREER: THERE IS STILL A LOT OF STRONG TRADE WITH CANADA USTR GREER: CANADIANS WANT A DEAL
-- 09/25 21:51 [financialjuice] USTR Greer: There is still a lot of strong trade with Canada. The US is still getting oil, gas, and Potash it needs from Canada.
-- 09/25 21:51 [financialjuice] USTR Greer: Canadians want a deal
-- 09/25 21:52 [financialjuice] USTR Greer: We are in talks with Mexico about trade deficit.
-- 09/25 21:52 [FirstSquawk] JAPAN FINANCE MINISTER KATAYAMA, US TREASURY SECRETARY BESSETT HOLD ONLINE TALK - KYODO
-- 09/25 21:52 [FirstSquawk] GREER SAYS TRUMP COMFORTABLE ON WHERE US IS ON CANADA
-- 09/25 21:52 [FirstSquawk] GREER SAYS US STILL GETTING OIL, GAS, POTASH IT NEEDS FROM CANADA
-- 09/25 21:52 [DeItaone] *GREER: US, CANADA HAVE GOOD CONVERSATIONS, NO URGENCY
-- 09/25 21:52 [FirstSquawk] GREER SAYS US, CANADA HAVE GOOD CONVERSATIONS, NO URGENCY
-- 09/25 21:52 [FirstSquawk] GREER SAYS IN TALKS WITH MEXICO TO MANAGE EXPLODING TRADE DEFICIT
-- 09/25 21:53 [financialjuice] Gas supplies to China via the Power of Siberia Pipeline in H1 of 2026 exceeded the level of the first half of 2025 - Tass.
-- 09/25 21:53 [financialjuice] Japanese and US Finance Chiefs discuss yen depreciation - Kyodo.
-- 09/25 21:54 [financialjuice] USTR Greer ends CNBC interview.
-- 09/25 21:55 [DeItaone] *JAPANESE, US FINANCE CHIEFS DISCUSS YEN DEPRECIATION: KYODO
-- 09/25 21:57 [financialjuice/FirstSquawk] Katayama, Bessent reaffirm undervaluing yen is an issue - Kyodo.
-- 09/25 21:58 [DeItaone] HOUTHIS PLEDGE NOT TO TARGET EUROPEAN OR U.S. SHIPS Iran-backed Houthis have told the EU they will not target European ships in the Red Sea, according to the FT. The group said its operations near the Bab al-Mandeb Strait are not intended t…
 - 09/25 22:00 [financialjuice] Effective Fed Funds Rate 3.88% September 24 vs 3.88% September 23.
 - 09/25 22:02 [financialjuice] NScale: NVIDIA commits $1b to NScale, funding due mid-November.
 - 09/25 22:02 [DeItaone] $TSLA - TESLA’S OPTIMUS HITS SNAGS IN HANDS, SUPPLIERS AS SCALE-UP BEGINS - THE INFORMATION TESLA HAS RAMPED UP PRODUCTION OF ITS OPTIMUS HUMANOID ROBOT ROUGHLY TENFOLD IN RECENT MONTHS - THE INFORMATION
@@ -267,3 +231,18 @@
 - 09/26 03:41 [financialjuice] White House considers passing the diesel issue to the States, eyeing a move that falls short of an export ban - Politico.
 - 09/26 03:42 [FirstSquawk] WHITE HOUSE CONSIDERS PASSING DIESEL ISSUE TO STATES: POLITICO
 - 09/26 03:43 [financialjuice] Trump expected to announce Diesel policy soon as Friday - Politico
+- 09/26 03:46 [FirstSquawk] WHITE HOUSE COULD URGE STATES TO DROP EXCISE TAXES: POLITICO
+- 09/26 03:47 [financialjuice] Fed's Hammack: Rising bond yields driven by a number of factors
+- 09/26 03:48 [financialjuice/FirstSquawk] Brent crude futures settle at $104.32/bbl, down $2.28, 2.14%.
+- 09/26 03:48 [financialjuice] Fed's Hammack: Good economic outlook is pressuring up bond yields.
+- 09/26 03:48 [financialjuice] fed's Hammack: Some of what the bond market is doing is in reaction to the Fed and government policy.
+- 09/26 03:49 [financialjuice] Fed's Hammack: AI investment demand is competing for investors in the bond market.
+- 09/26 03:49 [financialjuice] Fed's hammock: Inflation expectations are reasonably well anchored.
+- 09/26 03:49 [financialjuice] Fed's Hammack: The US is on an unsustainable fiscal path.
+- 09/26 03:50 [financialjuice] fed's Hammack: I am mindful of financial conditions, but the Fed is the decision maker on monetary policy.
+- 09/26 03:52 [FirstSquawk] FED'S HAMMACK: NUMBER OF FACTORS DRIVING RISING BOND YIELDS
+- 09/26 03:55 [financialjuice] ECB's Vujcic: I think less about core inflation as my preferred measure than was the case before these shocks
+- 09/26 03:57 [FirstSquawk] EU ENERGY CHIEF: EU GAS STORAGE IS EXCEPTIONALLY LOW, SITUATION IS CHALLENGING BUT THERE IS NO IMMEDIATE SUPPLY RISK
+- 09/26 03:57 [financialjuice] EU Energy Chief in letter to member countries' ministers: We are facing an energy price crisis linked to a supply crisis
+- 09/26 03:58 [financialjuice] EU Energy Chief: The EU is better prepared than in winter 2021, owing to new lng capacity, renewables, and lower gas demand.
+- 09/26 03:59 [financialjuice] EU Energy chief: I invite you to consider extra measures to sustain gas storage injections or reduce gas and power demand.
