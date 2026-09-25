@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-26 06:44 JST／対象: 09/26 00:44 〜 09/26 06:44 JST（時刻はすべて日本時間）
+生成: 2026-09-26 06:58 JST／対象: 09/26 00:58 〜 09/26 06:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 23 | 09/26 01:20 | 09/26 05:35 | ⚠ 146分（03:09→05:35） |
 | FirstSquawk | 53 | 09/26 01:01 | 09/26 05:01 | 25分（04:35→05:01） |
-| financialjuice | 79 | 09/26 00:53 | 09/26 06:28 | ⚠ 65分（05:23→06:28） |
+| financialjuice | 80 | 09/26 01:00 | 09/26 06:55 | ⚠ 65分（05:23→06:28） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 148 行（統合前 155 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 149 行（統合前 156 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 00:53 [financialjuice] Trump and China’s President Xi Site Visit - WATCH LIVE
-- 09/26 00:57 [financialjuice] Trump asked Xi to stop supporting Iran - Axios
 - 09/26 01:00 [financialjuice] ❗ Iran-US talks enter technical stage - Al-Jazeera Journalist Reports cited by CBS.
 - 09/26 01:00 [financialjuice] Iran-U.S. talks enter technical stage, Al-Jazeera journalist reports
 - 09/26 01:01 [FirstSquawk] IRAN-US TALKS ENTER TECHNICAL STAGE - AL-JAZEERA
@@ -172,3 +170,6 @@
 - 09/26 05:23 [financialjuice] Iran's Foreign Minister: They can accept this 7-day plan, and at the end, the Strait of Hormuz will be open.
 - 09/26 05:35 [DeItaone] OPENAI HAD IDENTIFIED ABOUT TWO DOZEN ROGUE AI INCIDENTS BY MID-SEPTEMBER, REUTERS SOURCE SAYS
 - 09/26 06:28 [financialjuice] US having positive, constructive talks with Iran via mediators on nuclear issues, US official says on 7-day plan
+- 09/26 06:50 [financialjuice] Saudi civil defense issues warning over possible threat in Jazan
+- 09/26 06:53 [financialjuice] Saudi civil defense: danger has passed in Jazan
+- 09/26 06:55 [financialjuice] US Supreme Court blocks Missouri for third time from using GOP-drawn congressional map in November midterm elections

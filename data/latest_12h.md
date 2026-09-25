@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-26 06:44 JST／対象: 09/25 18:44 〜 09/26 06:44 JST（時刻はすべて日本時間）
+生成: 2026-09-26 06:58 JST／対象: 09/25 18:58 〜 09/26 06:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 67 | 09/25 19:13 | 09/26 05:35 | ⚠ 146分（03:09→05:35） |
-| FirstSquawk | 136 | 09/25 18:44 | 09/26 05:01 | ⚠ 47分（19:02→19:50） |
-| financialjuice | 183 | 09/25 18:50 | 09/26 06:28 | ⚠ 65分（05:23→06:28） |
+| FirstSquawk | 131 | 09/25 19:01 | 09/26 05:01 | ⚠ 47分（19:02→19:50） |
+| financialjuice | 182 | 09/25 19:00 | 09/26 06:55 | ⚠ 65分（05:23→06:28） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 364 行（統合前 388 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 358 行（統合前 382 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 18:44 [FirstSquawk] SCHLEGEL SAYS INFLATION PRESSURE IS SLIGHTLY HIGHER THAN IN JUNE
-- 09/25 18:48 [FirstSquawk] WILLIAMS SAYS US LABOR MARKET NOT A SOURCE OF INFLATIONARY PRESSURE
-- 09/25 18:48 [FirstSquawk] UKRAINE ZELENSKYY SAYS UKRAINE HIT 2 REFINERIES IN RUSSIA OVERNIGHT
-- 09/25 18:50 [financialjuice] Fed's Williams: Labor market not a source of inflationary pressure
-- 09/25 18:50 [financialjuice] Fed's Williams: Tariffs generally don't produce sustained inflation
-- 09/25 18:50 [financialjuice] Fed's Williams: Fed should ensure shocks don't become entrenched
-- 09/25 18:53 [financialjuice] BoE Gov. Bailey: Have to make judgment on incomplete evidence
-- 09/25 18:55 [FirstSquawk] BAILEY: HAVE TO MAKE JUDGMENT ON INCOMPLETE EVIDENCE
-- 09/25 18:55 [FirstSquawk] U.S.-SANCTIONED OIL TANKER SIBU ONE THAT WAS HIJACKED BY SOMALI PIRATES IN AUGUST HAS BEEN RESCUED - PUNTLAND MARITIME POLICE FORCE
 - 09/25 19:00 [financialjuice] US-sanctioned oil tanker Sibu 1 that was hijacked by Somali pirates in August, has been rescued - Puntland maritime police force
 - 09/25 19:00 [financialjuice] Japan's Fin. Min. Katayama: Takaichi very much respects the independence of the BoJ
 - 09/25 19:00 [financialjuice] Japan's Fin. Min. Katayama: Rising bond yields is global trend and temporary
@@ -388,3 +379,6 @@
 - 09/26 05:23 [financialjuice] Iran's Foreign Minister: They can accept this 7-day plan, and at the end, the Strait of Hormuz will be open.
 - 09/26 05:35 [DeItaone] OPENAI HAD IDENTIFIED ABOUT TWO DOZEN ROGUE AI INCIDENTS BY MID-SEPTEMBER, REUTERS SOURCE SAYS
 - 09/26 06:28 [financialjuice] US having positive, constructive talks with Iran via mediators on nuclear issues, US official says on 7-day plan
+- 09/26 06:50 [financialjuice] Saudi civil defense issues warning over possible threat in Jazan
+- 09/26 06:53 [financialjuice] Saudi civil defense: danger has passed in Jazan
+- 09/26 06:55 [financialjuice] US Supreme Court blocks Missouri for third time from using GOP-drawn congressional map in November midterm elections

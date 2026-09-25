@@ -7,25 +7,24 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-26 06:44 JST／対象: 09/25 06:44 〜 09/26 06:44 JST（時刻はすべて日本時間）
+生成: 2026-09-26 06:58 JST／対象: 09/25 06:58 〜 09/26 06:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 68 | 09/25 07:52 | 09/26 05:35 | ⚠ 681分（07:52→19:13） |
-| FirstSquawk | 253 | 09/25 06:47 | 09/26 05:01 | ⚠ 155分（16:01→18:36） |
-| financialjuice | 250 | 09/25 06:44 | 09/26 06:28 | ⚠ 88分（11:11→12:40） |
+| FirstSquawk | 252 | 09/25 07:06 | 09/26 05:01 | ⚠ 155分（16:01→18:36） |
+| financialjuice | 252 | 09/25 07:12 | 09/26 06:55 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 543 行（統合前 573 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 545 行（統合前 574 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 06:44 [financialjuice/FirstSquawk] Argentina's province of San Juan launches $600 million international bond below 10% rate - local media
-- 09/25 06:47 [FirstSquawk] MGM RESORTS EYES BID FOR BARRY DILLER’S PEOPLE INCORPORATED; PROPOSAL COULD COME WITHIN DAYS — WSJ
+- 09/25 07:06 [FirstSquawk] ARGENTINA'S PROVINCE OF SAN JUAN LAUNCHES $600 MILLION INTERNATIONAL BOND BELOW 10% RATE - LOCAL MEDIA
 - 09/25 07:12 [financialjuice] New Zealand Finance Minister announces short-term appointment of Rebecca Williams as internal member of Reserve Bank of New Zealand monetary policy committee
 - 09/25 07:27 [financialjuice/FirstSquawk] UK foreign secretary Miliband warns Iran's foreign minister: UK will not tolerate hostile acts on British soil - Sky News
 - 09/25 07:34 [financialjuice/FirstSquawk] Iranian president on whether war could end before year-end: it's America that must decide if it wants to end this
@@ -567,3 +566,6 @@
 - 09/26 05:23 [financialjuice] Iran's Foreign Minister: They can accept this 7-day plan, and at the end, the Strait of Hormuz will be open.
 - 09/26 05:35 [DeItaone] OPENAI HAD IDENTIFIED ABOUT TWO DOZEN ROGUE AI INCIDENTS BY MID-SEPTEMBER, REUTERS SOURCE SAYS
 - 09/26 06:28 [financialjuice] US having positive, constructive talks with Iran via mediators on nuclear issues, US official says on 7-day plan
+- 09/26 06:50 [financialjuice] Saudi civil defense issues warning over possible threat in Jazan
+- 09/26 06:53 [financialjuice] Saudi civil defense: danger has passed in Jazan
+- 09/26 06:55 [financialjuice] US Supreme Court blocks Missouri for third time from using GOP-drawn congressional map in November midterm elections
