@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-25 11:33 JST／対象: 09/25 05:33 〜 09/25 11:33 JST（時刻はすべて日本時間）
+生成: 2026-09-25 11:51 JST／対象: 09/25 05:51 〜 09/25 11:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/25 07:52 | 09/25 07:52 | - |
-| FirstSquawk | 78 | 09/25 06:06 | 09/25 11:27 | ⚠ 46分（07:06→07:52） |
+| FirstSquawk | 80 | 09/25 06:06 | 09/25 11:50 | ⚠ 46分（07:06→07:52） |
 | financialjuice | 36 | 09/25 06:01 | 09/25 11:11 | ⚠ 76分（09:15→10:31） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 109 行（統合前 115 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 111 行（統合前 117 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -133,3 +133,5 @@
 - 09/25 11:12 [FirstSquawk] Pakistan security sources: Security forces and Afghan Taliban continue intermittent exchanges of fire
 - 09/25 11:18 [FirstSquawk] Canadian dollar loses ground amid weaker oil prices and a firmer US dollar
 - 09/25 11:27 [FirstSquawk] Hong Kong gains ground on Dubai in ‘super-prime’ property sales during Iran war - scmp
+- 09/25 11:42 [FirstSquawk] North Korea faces propaganda setback after Ukraine’s POW transfer reveal - SCMP
+- 09/25 11:50 [FirstSquawk] Polo expected to strengthen back to Category 5 on Friday, NHC says
