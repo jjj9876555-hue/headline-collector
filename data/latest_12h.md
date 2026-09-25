@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-25 12:59 JST／対象: 09/25 00:59 〜 09/25 12:59 JST（時刻はすべて日本時間）
+生成: 2026-09-25 13:18 JST／対象: 09/25 01:18 〜 09/25 13:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 26 | 09/25 01:00 | 09/25 07:52 | ⚠ 230分（04:02→07:52） |
-| FirstSquawk | 149 | 09/25 01:08 | 09/25 12:53 | ⚠ 46分（07:06→07:52） |
-| financialjuice | 78 | 09/25 01:00 | 09/25 12:40 | ⚠ 88分（11:11→12:40） |
+| DeItaone | 23 | 09/25 01:51 | 09/25 07:52 | ⚠ 230分（04:02→07:52） |
+| FirstSquawk | 149 | 09/25 01:22 | 09/25 13:11 | ⚠ 46分（07:06→07:52） |
+| financialjuice | 75 | 09/25 01:20 | 09/25 13:09 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 241 行（統合前 258 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 235 行（統合前 251 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 01:00 [DeItaone] U.S. 30-YR FIXED RATE MORTGAGE AVERAGES 7.03 PCT IN SEPT 24 WEEK, HIGHEST SINCE JAN 16, 2025 WEEK, VS 6.95 PCT PRIOR WEEK-FREDDIE MAC
-- 09/25 01:00 [financialjuice] US 30-yr fixed rate mortgage averages 7.03% in Sept 24 week, highest since Jan 16, 2025 week, vs 6.95% prior week - Freddie Mac
-- 09/25 01:01 [financialjuice] BNP Paribas and Google Cloud sign five-year AI pact. $GOOGL
-- 09/25 01:08 [FirstSquawk] BNP PARIBAS, GOOGLE CLOUD SIGN 5-YEAR PARTNERSHIP FOR AI AND CLOUD INNOVATION
-- 09/25 01:09 [FirstSquawk] CNN AND MS HAVE BEEN GIVEN PERMISSION TO ENTER THE WHITE HOUSE.
-- 09/25 01:15 [financialjuice] Russia's Kuibyshev Oil Refinery has suspended oil processing since September 22ND, following A drone attack - Sources.
-- 09/25 01:15 [DeItaone] US and Iran discuss phased deal to reopen Hormuz and end US blockade, sources say
-- 09/25 01:16 [financialjuice] ❗ US and Iran discuss phased deal to reopen Hormuz and end US blockade - Sources.
-- 09/25 01:16 [DeItaone] U.S. AND IRAN EXPLORE PHASED HORMUZ DEAL U.S. and Iranian negotiators are discussing a phased agreement to end the conflict, Reuters reports. The potential first step would see Iran reopen the Strait of Hormuz in exchange for Washington lif…
-- 09/25 01:16 [FirstSquawk] US AND IRAN DISCUSS PHASED DEAL TO REOPEN HORMUZ AND END US BLOCKADE
 - 09/25 01:20 [financialjuice] US and Iranian negotiators in New York are exploring a phased path out of war that would involve Tehran reopening the Strait of Hormuz and Washington lifting its economic blockade of Iran, sources close to the talks said. The strait has bec…
 - 09/25 01:22 [FirstSquawk] TRUMP'S ADMINISTRATION ANNOUNCES MEDIA ACCESS TO THE WHITE HOUSE HAS BEEN RESTORED.
 - 09/25 01:27 [FirstSquawk] TRUMP CONSIDERS ALLOWING CHINESE EV PRODUCTION IN US AMID XI TALKS - NBC
@@ -265,3 +255,7 @@
 - 09/25 12:45 [FirstSquawk] Strait of Hormuz sees commodity vessel crossings fall to single digits, preliminary data indicates
 - 09/25 12:51 [FirstSquawk] 2-year JGB yield climbs 3.0 basis points to 1.930%
 - 09/25 12:53 [FirstSquawk] Thailand’s exports could grow 15% this year, Commerce Ministry says
+- 09/25 13:00 [FirstSquawk] Mizuho Markets Cayman’s $25 million guaranteed senior notes receive ‘A’ rating from Fitch
+- 09/25 13:05 [FirstSquawk] Jefferies lifts GoDaddy price target to $100 from $85
+- 09/25 13:09 [financialjuice] EU urges UK to increase tariffs on Chinese cars to avoid ‘made in Europe’ barriers: FT
+- 09/25 13:11 [FirstSquawk] EU calls on UK to increase tariffs on Chinese cars to prevent ‘Made in Europe’ barriers - FT

@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-25 12:59 JST／対象: 09/25 06:59 〜 09/25 12:59 JST（時刻はすべて日本時間）
+生成: 2026-09-25 13:18 JST／対象: 09/25 07:18 〜 09/25 13:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/25 07:52 | 09/25 07:52 | - |
-| FirstSquawk | 78 | 09/25 07:06 | 09/25 12:53 | ⚠ 46分（07:06→07:52） |
-| financialjuice | 34 | 09/25 07:12 | 09/25 12:40 | ⚠ 88分（11:11→12:40） |
+| FirstSquawk | 80 | 09/25 07:52 | 09/25 13:11 | 29分（07:52→08:22） |
+| financialjuice | 34 | 09/25 07:27 | 09/25 13:09 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 109 行（統合前 113 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 111 行（統合前 115 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 07:06 [FirstSquawk] ARGENTINA'S PROVINCE OF SAN JUAN LAUNCHES $600 MILLION INTERNATIONAL BOND BELOW 10% RATE - LOCAL MEDIA
-- 09/25 07:12 [financialjuice] New Zealand Finance Minister announces short-term appointment of Rebecca Williams as internal member of Reserve Bank of New Zealand monetary policy committee
 - 09/25 07:27 [financialjuice/FirstSquawk] UK foreign secretary Miliband warns Iran's foreign minister: UK will not tolerate hostile acts on British soil - Sky News
 - 09/25 07:34 [financialjuice/FirstSquawk] Iranian president on whether war could end before year-end: it's America that must decide if it wants to end this
 - 09/25 07:41 [financialjuice] OpenAI to preview latest cybersecurity-focused model GPT-6 Cyber in coming days: Fortune
@@ -133,3 +131,7 @@
 - 09/25 12:45 [FirstSquawk] Strait of Hormuz sees commodity vessel crossings fall to single digits, preliminary data indicates
 - 09/25 12:51 [FirstSquawk] 2-year JGB yield climbs 3.0 basis points to 1.930%
 - 09/25 12:53 [FirstSquawk] Thailand’s exports could grow 15% this year, Commerce Ministry says
+- 09/25 13:00 [FirstSquawk] Mizuho Markets Cayman’s $25 million guaranteed senior notes receive ‘A’ rating from Fitch
+- 09/25 13:05 [FirstSquawk] Jefferies lifts GoDaddy price target to $100 from $85
+- 09/25 13:09 [financialjuice] EU urges UK to increase tariffs on Chinese cars to avoid ‘made in Europe’ barriers: FT
+- 09/25 13:11 [FirstSquawk] EU calls on UK to increase tariffs on Chinese cars to prevent ‘Made in Europe’ barriers - FT
