@@ -7,47 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-25 10:58 JST／対象: 09/24 22:58 〜 09/25 10:58 JST（時刻はすべて日本時間）
+生成: 2026-09-25 11:16 JST／対象: 09/24 23:16 〜 09/25 11:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 63 | 09/24 22:59 | 09/25 07:52 | ⚠ 230分（04:02→07:52） |
-| FirstSquawk | 177 | 09/24 23:01 | 09/25 10:56 | ⚠ 46分（07:06→07:52） |
-| financialjuice | 133 | 09/24 23:00 | 09/25 10:32 | ⚠ 76分（09:15→10:31） |
+| DeItaone | 58 | 09/24 23:18 | 09/25 07:52 | ⚠ 230分（04:02→07:52） |
+| FirstSquawk | 180 | 09/24 23:18 | 09/25 11:12 | ⚠ 46分（07:06→07:52） |
+| financialjuice | 129 | 09/24 23:17 | 09/25 11:11 | ⚠ 76分（09:15→10:31） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 357 行（統合前 379 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 351 行（統合前 373 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 22:59 [DeItaone] CNN, MS NOW, POLITICO REQUEST IMMEDIATE COURT HEARING AFTER BEING BLOCKED FROM WHITE HOUSE GROUNDS ON THURSDAY -FILING
-- 09/24 23:00 [DeItaone] US AUG SINGLE-FAMILY HOME SALES 0.684 MLN UNIT ANN. RATE, (CONS 0.615 MLN) US AUG SINGLE-FAMILY HOME SALES +6.4%
-- 09/24 23:00 [financialjuice] US NEW HOME SALES CHANGE MOM ACTUAL 6.4% (FORECAST 1.3%, PREVIOUS -10.5%) $MACRO
-- 09/24 23:00 [financialjuice] US NEW HOME SALES - UNITS ACTUAL 0.684M (FORECAST 0.6155M, PREVIOUS 0.607M) $MACRO
-- 09/24 23:01 [financialjuice] US New Home Sales August Report
-- 09/24 23:01 [FirstSquawk] US New Home Sales Aug: 684K (est 616K; prev 607K; prev R 643K)
-- 09/24 23:05 [DeItaone] FED'S PAULSON SAYS SEPTEMBER'S INFLATION REPORTS DROVE RATE HIKE
-- 09/24 23:06 [FirstSquawk] SENATE WILL RETURN TO DC NEXT WEEK, SENATE REPUBLICAN AIDE SAYS
-- 09/24 23:08 [financialjuice] Trump greets China’s President Xi at the White House ahead of bilateral talks.
-- 09/24 23:10 [financialjuice] ❗ Fed's Paulson: The US central bank may need to raise interest rates again to lower inflation.
-- 09/24 23:10 [financialjuice] Fed's Paulson: September rate hike helped move policy to better inflation-fighting posture.
-- 09/24 23:10 [financialjuice] Fed's Paulson: I will support doing what's needed to get inflation back to 2%.
-- 09/24 23:10 [DeItaone] FED’S PAULSON SIGNALS ANOTHER RATE HIKE Fed’s Paulson says the central bank may need to raise rates again as underlying inflation remains “stubbornly high.” She said September’s hike put policy in a better inflation-fighting position and pl…
-- 09/24 23:10 [financialjuice] Fed's Paulson: The best you can say about inflation is that it has not gotten worse.
-- 09/24 23:10 [FirstSquawk] FED'S PAULSON: US CENTRAL BANK MAY NEED TO RAISE INTEREST RATES AGAIN TO LOWER INFLATION || SEPTEMBER RATE HIKE HELPED MOVE POLICY TO BETTER INFLATION-FIGHTING POSTURE
-- 09/24 23:11 [financialjuice] Fed's Paulson: The AI buildout is helping drive inflation pressures.
-- 09/24 23:11 [financialjuice] Fed's Paulson: Underlying inflation remains stubbornly high.
-- 09/24 23:11 [FirstSquawk] FED'S PAULSON: INFLATION BALANCE OF RISKS SHIFTED AHEAD OF SEPTEMBER POLICY MEETING || AI BUILDOUT HELPING DRIVE INFLATION PRESSURES
-- 09/24 23:11 [FirstSquawk] FED'S PAULSON SAYS SHE WILL SUPPORT DOING WHAT'S NEEDED TO GET INFLATION BACK TO 2% || BEST YOU CAN SAY ABOUT INFLATION IS THAT IT HAS NOT GOTTEN WORSE
-- 09/24 23:11 [financialjuice] Fed's Paulson: The economy is resilient, and showing signs of increased momentum.
-- 09/24 23:14 [FirstSquawk] ECB: ISABEL SCHNABEL TO RESIGN FROM THE BOARD
-- 09/24 23:14 [DeItaone] ECB: ISABEL SCHNABEL TO RESIGN FROM THE BOARD ECB: SHE WILL STEP DOWN FROM HER POSITION ON 3 JANUARY 2027.
-- 09/24 23:14 [FirstSquawk] ECB: SHE WILL STEP DOWN FROM HER POSITION ON 3 JANUARY 2027.
-- 09/24 23:15 [financialjuice] ECB: ECB's Schnabel is going to be appointed to the IMF financial counsellor and director of the monetary and capital markets department, she will step down from her ECB position on 3rd January 2027.
 - 09/24 23:17 [financialjuice] Fear and Greed Index: 35/100 = Fear
 - 09/24 23:18 [financialjuice] Crypto Fear and Greed Index: 71/100 = Greed
 - 09/24 23:18 [DeItaone] SAUDI EAST-WEST PIPELINE IS BUILDING UP CRUDE VOLUMES, TANKER LOADING YET TO RESUME AT YANBU, SOURCES SAY
@@ -381,3 +357,21 @@
 - 09/25 10:41 [FirstSquawk] 30-year Japanese government bond yield rises to 4.210%, up 5.0 basis points
 - 09/25 10:49 [FirstSquawk] Korea’s semiconductor boom lures students away from university for factory jobs - KYODO
 - 09/25 10:56 [FirstSquawk] White House meeting highlights apparent differences between Trump and Xi on AI guardrails - YONHAP
+- 09/25 11:04 [financialjuice] Japan finmin katayama: deciding on specific monetary policy tools is up to BoJ
+- 09/25 11:05 [FirstSquawk] Katayama: Specific monetary policy tools are up to BOJ to determine
+- 09/25 11:05 [financialjuice] Japan finance minister Katayama: BoJ’s recent rate reduction aimed at reaching inflation target
+- 09/25 11:05 [financialjuice] Japan finance minister katayama: expect BoJ to implement suitable monetary policy while cooperating with government
+- 09/25 11:06 [financialjuice] Japan finance minister Katayama: won’t discuss particular forex levels, rate interventions
+- 09/25 11:06 [FirstSquawk] Japan Finance Minister Katayama says BOJ cut rates to achieve inflation target
+- 09/25 11:06 [financialjuice] Japan finance minister katayama: trump voiced worries over weak yen during summit
+- 09/25 11:06 [FirstSquawk] Japan Finance Minister Katayama: BOJ expected to conduct monetary policy appropriately with government coordination
+- 09/25 11:07 [financialjuice] Japan finance minister Katayama: will closely cooperate with US on forex
+- 09/25 11:07 [FirstSquawk] Japan Finance Minister Katayama: No comment on specific FX levels or rate checks
+- 09/25 11:08 [FirstSquawk] Japan Finance Minister Katayama: Trump voiced concerns about yen weakness at summit
+- 09/25 11:08 [financialjuice] Japan finance minister Katayama: PM Takaichi voiced worries about yen weakness in general
+- 09/25 11:09 [FirstSquawk] Katayama: Japan will closely coordinate with US on foreign exchange
+- 09/25 11:10 [FirstSquawk] USD/JPY declines 0.25% to 158.4700
+- 09/25 11:11 [FirstSquawk] Katayama: PM Takaichi expressed concern about the yen’s weakness in general
+- 09/25 11:11 [FirstSquawk] Pakistan says attempted Afghan attack in Gulistan sector was thwarted, several Taliban killed
+- 09/25 11:11 [financialjuice] Japan finance minister Katayama: BoJ’s recent rate increase aimed at reaching inflation goal
+- 09/25 11:12 [FirstSquawk] Pakistan security sources: Security forces and Afghan Taliban continue intermittent exchanges of fire

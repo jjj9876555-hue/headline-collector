@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-25 10:58 JST／対象: 09/25 04:58 〜 09/25 10:58 JST（時刻はすべて日本時間）
+生成: 2026-09-25 11:16 JST／対象: 09/25 05:16 〜 09/25 11:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/25 07:52 | 09/25 07:52 | - |
-| FirstSquawk | 84 | 09/25 05:01 | 09/25 10:56 | ⚠ 46分（07:06→07:52） |
-| financialjuice | 36 | 09/25 05:04 | 09/25 10:32 | ⚠ 76分（09:15→10:31） |
+| FirstSquawk | 85 | 09/25 05:17 | 09/25 11:12 | ⚠ 46分（07:06→07:52） |
+| financialjuice | 41 | 09/25 05:16 | 09/25 11:11 | ⚠ 76分（09:15→10:31） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 114 行（統合前 121 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 121 行（統合前 127 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 05:01 [FirstSquawk] NASDAQ CLOSES 0.04% HIGHER AT 26,945.85, UP 9.81 POINTS S&P 500 CLOSES 0.03% LOWER AT 7,703.93, DOWN 2.10 POINTS DOW JONES CLOSES 0.29% LOWER AT 51,359.75, DOWN 151.84 POINTS
-- 09/25 05:01 [FirstSquawk] NYSE SHORT INTEREST RISES 2.7% TO 22.78 BILLION SHARES IN MID-SEPTEMBER
-- 09/25 05:04 [financialjuice/FirstSquawk] Anthropic strikes $12 billion deal with Akamai for AI computing.
-- 09/25 05:13 [financialjuice] China's Xi: China and the US are major ai powers, we can cooperate.
-- 09/25 05:13 [FirstSquawk] XI CALLS ON CHINA & US TO KEEP AI TECHNOLOGY UNDER HUMAN CONTROL — XINHUA
-- 09/25 05:14 [financialjuice] China's Xi: We can continue with AI dialogs.
-- 09/25 05:14 [FirstSquawk] FRENCH PRESIDENT MACRON SAYS FRANCE WILL DEPLOY TROOPS, RADARS AND AIR DEFENSE SYSTEMS TO PROTECT SAUDI ARABIA'S YANBU OIL TERMINAL, DAMAGED BY A HOUTHI ATTACK, SAYING IT IS 'NOT TO ENGAGE IN ANY CONFLICT, BUT TO PROTECT THIS SITE', WHICH W…
-- 09/25 05:14 [FirstSquawk] FRENCH PRESIDENT MACRON SAYS ON TRUMP'S THREAT TO BAN U.S. DIESEL EXPORTS THAT 'YOU NEVER HAVE GUARANTEES WITH DONALD TRUMP. NEVER', CALLING A POTENTIAL BAN 'CATASTROPHIC', AND SAYS RUSSIA COULD BE PREPARING TO MOBILIZE AROUND 300,000 ADDIT…
-- 09/25 05:14 [FirstSquawk] FRENCH PRESIDENT MACRON PROPOSES A 'DOUBLE MORATORIUM' UNDER WHICH UKRAINE STOPS STRIKING RUSSIAN REFINERIES AND RUSSIA COMMITS NOT TO STRIKE UKRAINE'S ENERGY SYSTEM AND CIVILIAN INFRASTRUCTURE, WARNING THAT RUSSIA 'CONSIDERS EUROPE TO BE U…
-- 09/25 05:15 [FirstSquawk] CHINESE PRESIDENT XI: CHINA & US ARE MAJOR AI POWERS AND CAN COOPERATE; SAYS AI DIALOGUE CAN CONTINUE
-- 09/25 05:16 [FirstSquawk] CHINESE PRESIDENT XI CALLS ON CHINA & US TO KEEP AI TECHNOLOGY UNDER HUMAN CONTROL — XINHUA
 - 09/25 05:16 [financialjuice] China's Xi: New arrangement after China-US trade talks is good news.
 - 09/25 05:17 [FirstSquawk] COSTCO Q4 NET SALES ROSE TO $93.87 BILLION, WITH TOTAL REVENUE AT $95.72 BILLION AND NET INCOME OF $3.0 BILLION; EPS CAME IN AT $6.75 VERSUS $6.56 EXPECTED. || ADJUSTED COMPARABLE SALES GREW 6.7%, WHILE EPS INCLUDED A $0.15 BENEFIT FROM IEE…
 - 09/25 05:18 [financialjuice] $COST Costco Q4 Earnings EPS $6.75, est. $6.53 Total Revenue $95.72B, est. $94.92B Total Company Comp Sales ex-gas, FX +6.7%, est. +6.44% Total Company Comp Sales incl. gas, FX +9.4%, est. +8.37%
@@ -138,3 +127,21 @@
 - 09/25 10:41 [FirstSquawk] 30-year Japanese government bond yield rises to 4.210%, up 5.0 basis points
 - 09/25 10:49 [FirstSquawk] Korea’s semiconductor boom lures students away from university for factory jobs - KYODO
 - 09/25 10:56 [FirstSquawk] White House meeting highlights apparent differences between Trump and Xi on AI guardrails - YONHAP
+- 09/25 11:04 [financialjuice] Japan finmin katayama: deciding on specific monetary policy tools is up to BoJ
+- 09/25 11:05 [FirstSquawk] Katayama: Specific monetary policy tools are up to BOJ to determine
+- 09/25 11:05 [financialjuice] Japan finance minister Katayama: BoJ’s recent rate reduction aimed at reaching inflation target
+- 09/25 11:05 [financialjuice] Japan finance minister katayama: expect BoJ to implement suitable monetary policy while cooperating with government
+- 09/25 11:06 [financialjuice] Japan finance minister Katayama: won’t discuss particular forex levels, rate interventions
+- 09/25 11:06 [FirstSquawk] Japan Finance Minister Katayama says BOJ cut rates to achieve inflation target
+- 09/25 11:06 [financialjuice] Japan finance minister katayama: trump voiced worries over weak yen during summit
+- 09/25 11:06 [FirstSquawk] Japan Finance Minister Katayama: BOJ expected to conduct monetary policy appropriately with government coordination
+- 09/25 11:07 [financialjuice] Japan finance minister Katayama: will closely cooperate with US on forex
+- 09/25 11:07 [FirstSquawk] Japan Finance Minister Katayama: No comment on specific FX levels or rate checks
+- 09/25 11:08 [FirstSquawk] Japan Finance Minister Katayama: Trump voiced concerns about yen weakness at summit
+- 09/25 11:08 [financialjuice] Japan finance minister Katayama: PM Takaichi voiced worries about yen weakness in general
+- 09/25 11:09 [FirstSquawk] Katayama: Japan will closely coordinate with US on foreign exchange
+- 09/25 11:10 [FirstSquawk] USD/JPY declines 0.25% to 158.4700
+- 09/25 11:11 [FirstSquawk] Katayama: PM Takaichi expressed concern about the yen’s weakness in general
+- 09/25 11:11 [FirstSquawk] Pakistan says attempted Afghan attack in Gulistan sector was thwarted, several Taliban killed
+- 09/25 11:11 [financialjuice] Japan finance minister Katayama: BoJ’s recent rate increase aimed at reaching inflation goal
+- 09/25 11:12 [FirstSquawk] Pakistan security sources: Security forces and Afghan Taliban continue intermittent exchanges of fire

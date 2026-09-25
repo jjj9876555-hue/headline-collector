@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-25 10:58 JST／対象: 09/24 10:58 〜 09/25 10:58 JST（時刻はすべて日本時間）
+生成: 2026-09-25 11:16 JST／対象: 09/24 11:16 〜 09/25 11:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 87 | 09/24 21:26 | 09/25 07:52 | ⚠ 230分（04:02→07:52） |
-| FirstSquawk | 369 | 09/24 10:59 | 09/25 10:56 | ⚠ 46分（07:06→07:52） |
-| financialjuice | 248 | 09/24 11:04 | 09/25 10:32 | ⚠ 108分（15:47→17:36） |
+| FirstSquawk | 371 | 09/24 11:18 | 09/25 11:12 | ⚠ 46分（07:06→07:52） |
+| financialjuice | 252 | 09/24 11:17 | 09/25 11:11 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 676 行（統合前 710 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 682 行（統合前 716 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 10:59 [FirstSquawk] Euro drops below 1.1400 as expectations of Fed hikes lift the US Dollar - FX
-- 09/24 11:02 [FirstSquawk] 5-year Japanese government bond yield rises to record 2.345%, up 7 bps
-- 09/24 11:04 [financialjuice] OpenAI: ChatGPT ads to start launching across Indonesia, Malaysia, Philippines, Singapore, Thailand, Vietnam, and Taiwan
-- 09/24 11:05 [FirstSquawk] ChatGPT ads set to launch in Indonesia, Malaysia, Philippines, Singapore, Thailand, Vietnam and Taiwan
-- 09/24 11:08 [FirstSquawk] North Korea FM says denuclearization is an unrealistic delusion, KCNA reports
-- 09/24 11:08 [financialjuice] North Korea foreign minister: denuclearization an unrealistic delusion - KCNA
-- 09/24 11:10 [financialjuice] North Korea foreign minister: nuclear status irreversible and will last indefinitely
-- 09/24 11:10 [FirstSquawk] North Korea’s foreign minister says its nuclear status is irreversible
-- 09/24 11:11 [financialjuice] North Korea foreign minister: US and allies' denuclearization push only bolsters our position
-- 09/24 11:12 [FirstSquawk] North Korea’s foreign minister says calls for denuclearization strengthen its stance against the U.S.
-- 09/24 11:13 [FirstSquawk] VietJet Air plans Starlink deployment across 120 aircraft, future fleet
-- 09/24 11:14 [FirstSquawk] VietJet Air signs Starlink deal to bring high-speed internet to flights across global network
 - 09/24 11:17 [financialjuice] Google nears launch of flagship Gemini 4 AI model: The Information
 - 09/24 11:18 [FirstSquawk] Google close to unveiling next-generation Gemini 4 AI model, The Information says
 - 09/24 11:19 [FirstSquawk] Indonesian rupiah drops to 17,900 per dollar, weakest in over a month
@@ -700,3 +688,21 @@
 - 09/25 10:41 [FirstSquawk] 30-year Japanese government bond yield rises to 4.210%, up 5.0 basis points
 - 09/25 10:49 [FirstSquawk] Korea’s semiconductor boom lures students away from university for factory jobs - KYODO
 - 09/25 10:56 [FirstSquawk] White House meeting highlights apparent differences between Trump and Xi on AI guardrails - YONHAP
+- 09/25 11:04 [financialjuice] Japan finmin katayama: deciding on specific monetary policy tools is up to BoJ
+- 09/25 11:05 [FirstSquawk] Katayama: Specific monetary policy tools are up to BOJ to determine
+- 09/25 11:05 [financialjuice] Japan finance minister Katayama: BoJ’s recent rate reduction aimed at reaching inflation target
+- 09/25 11:05 [financialjuice] Japan finance minister katayama: expect BoJ to implement suitable monetary policy while cooperating with government
+- 09/25 11:06 [financialjuice] Japan finance minister Katayama: won’t discuss particular forex levels, rate interventions
+- 09/25 11:06 [FirstSquawk] Japan Finance Minister Katayama says BOJ cut rates to achieve inflation target
+- 09/25 11:06 [financialjuice] Japan finance minister katayama: trump voiced worries over weak yen during summit
+- 09/25 11:06 [FirstSquawk] Japan Finance Minister Katayama: BOJ expected to conduct monetary policy appropriately with government coordination
+- 09/25 11:07 [financialjuice] Japan finance minister Katayama: will closely cooperate with US on forex
+- 09/25 11:07 [FirstSquawk] Japan Finance Minister Katayama: No comment on specific FX levels or rate checks
+- 09/25 11:08 [FirstSquawk] Japan Finance Minister Katayama: Trump voiced concerns about yen weakness at summit
+- 09/25 11:08 [financialjuice] Japan finance minister Katayama: PM Takaichi voiced worries about yen weakness in general
+- 09/25 11:09 [FirstSquawk] Katayama: Japan will closely coordinate with US on foreign exchange
+- 09/25 11:10 [FirstSquawk] USD/JPY declines 0.25% to 158.4700
+- 09/25 11:11 [FirstSquawk] Katayama: PM Takaichi expressed concern about the yen’s weakness in general
+- 09/25 11:11 [FirstSquawk] Pakistan says attempted Afghan attack in Gulistan sector was thwarted, several Taliban killed
+- 09/25 11:11 [financialjuice] Japan finance minister Katayama: BoJ’s recent rate increase aimed at reaching inflation goal
+- 09/25 11:12 [FirstSquawk] Pakistan security sources: Security forces and Afghan Taliban continue intermittent exchanges of fire
