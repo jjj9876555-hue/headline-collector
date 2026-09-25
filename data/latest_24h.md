@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-26 01:46 JST／対象: 09/25 01:46 〜 09/26 01:46 JST（時刻はすべて日本時間）
+生成: 2026-09-26 01:58 JST／対象: 09/25 01:58 〜 09/26 01:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 76 | 09/25 01:51 | 09/26 01:46 | ⚠ 681分（07:52→19:13） |
-| FirstSquawk | 275 | 09/25 01:57 | 09/26 01:26 | ⚠ 155分（16:01→18:36） |
-| financialjuice | 217 | 09/25 01:51 | 09/26 01:35 | ⚠ 88分（11:11→12:40） |
+| DeItaone | 79 | 09/25 02:00 | 09/26 01:58 | ⚠ 681分（07:52→19:13） |
+| FirstSquawk | 275 | 09/25 02:36 | 09/26 01:57 | ⚠ 155分（16:01→18:36） |
+| financialjuice | 219 | 09/25 02:01 | 09/26 01:58 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 540 行（統合前 574 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 544 行（統合前 579 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 01:51 [DeItaone] XI URGES U.S., IRAN TO RETURN TO TRACK OF RESOLVING ISSUES THROUGH NEGOTIATION AS SOON AS POSSIBLE - XINHUA
-- 09/25 01:51 [DeItaone] XI HOPES U.S. TO ADHERE TO OPPOSING 'TAIWAN INDEPENDENCE'
-- 09/25 01:51 [financialjuice/DeItaone] OpenAI’s AI tried to breach 4 other targets - NYT.
-- 09/25 01:55 [DeItaone] OPENAI AGENTS ATTEMPTED TO BREACH MORE WEBSITES OpenAI-linked AI agents reportedly attempted to break into university and government websites while searching for public data during training and benchmark tasks. Targets included sites in the…
-- 09/25 01:56 [financialjuice] China’s President Xi: China supports the United States and Iran in returning to the Islamabad Memorandum of Understanding - Xinhua.
-- 09/25 01:57 [FirstSquawk] CHINA PRESIDENT XI: CHINA SUPPORTS US, IRAN IN RETURNING TO ISLAMABAD MOU - XINHUA
-- 09/25 01:57 [FirstSquawk] CHINA PRESIDENT XI: CHINA HOPES US ADHERES TO CORRECT POSITION OF OPPOSING "TAIWAN INDEPENDENCE" - XINHUA
-- 09/25 01:57 [FirstSquawk] PEPSICO SPOX: PRICES OF CERTAIN CHIPS TO INCREASE BY LOW-TO-MID SINGLE DIGIT PERCENTAGE, ALIGNED WITH INFLATION
 - 09/25 02:00 [DeItaone] XI TOLD TRUMP CHINA'S POSITION ON SAFEGUARDING ITS NATIONAL UNITY AND TERRITORIAL INTEGRITY IS CRYSTAL CLEAR -XINHUA
 - 09/25 02:00 [DeItaone] TRUMP ADMINISTRATION PRESSES CHINA ON SUSPECTED NUCLEAR TESTS IN CONFIDENTIAL TALKS
 - 09/25 02:01 [financialjuice] Treasury WI 7-year yield 5.078% before $44 billion auction.
@@ -564,3 +556,15 @@
 - 09/26 01:42 [DeItaone] PALANTIR CO-FOUNDER JOE LONSDALE SAYS HE BACKS AMODEI AS THE RIGHT LEADER FOR ANTHROPIC
 - 09/26 01:43 [DeItaone] XI SAYS FUTURE OF CHINA-U.S. TIES BRIGHT -XINHUA
 - 09/26 01:46 [DeItaone] SK HYNIX'S SOLIDIGM EYES 2027 IPO THAT COULD VALUE IT AT $150 BILLION, SOURCES SAY SOLIDIGM HELD PITCH MEETINGS THIS WEEK WITH BANKS FOR ROLES IN THE IPO, SOURCES SAY
+- 09/26 01:47 [DeItaone] SOLIDIGM EYES MASSIVE $150 BILLION IPO SK Hynix’s Solidigm is considering a U.S. IPO as early as next year that could value the chipmaker at up to $150 billion, Reuters reports. The company could raise around $15 billion, potentially making…
+- 09/26 01:50 [FirstSquawk] CENTCOM: U.S. MARINES ASSIGNED TO THE 11TH MARINE EXPEDITIONARY UNIT TRAIN ABOARD USS BOXER (LHD 4) AS THE SHIP SAILS IN REGIONAL WATERS AND CONTINUES TO SUPPORT ENFORCEMENT OF THE U.S. BLOCKADE AGAINST IRAN. AS OF SEPT. 25, CENTCOM FORCES …
+- 09/26 01:50 [DeItaone] TRUMP ADMINISTRATION TO MEET SEPTEMBER 30 DEADLINE TO COMMIT TO SPENDING $400 MILLION IN UKRAINE MILITARY AID, SOURCES SAY
+- 09/26 01:50 [FirstSquawk] TRUMP: SCOTT BESSENT WILL NOT BE GOING TO BE SUPER INTELLIGENCE (SI) CZAR. NUMBER ONE, HE DOESN’T WANT TO. NUMBER TWO, HE’S DOING SUCH A GREAT JOB AT TREASURY, AND THAT’S WHERE I WANT TO KEEP HIM! WHY WOULD I EVER MAKE SUCH A CHANGE? JUST M…
+- 09/26 01:50 [DeItaone] TRUMP: SCOTT BESSENT WILL NOT BE GOING TO BE SUPER INTELLIGENCE (SI) CZAR. TRUMP: BESSENT DOING SUCH A GREAT JOB AT TREASURY
+- 09/26 01:51 [DeItaone] TRUMP: WANT TO KEEP BESSENT AT TREASURY
+- 09/26 01:51 [DeItaone] TRUMP ADMINISTRATION LOCKS IN $400M UKRAINE AID The Trump administration plans to obligate nearly all $400 million in military aid for Ukraine before funding expires September 30. About $307 million is already committed, with the remaining …
+- 09/26 01:56 [financialjuice] Trump: US Treasury Secretary Bessent won't be the AI Czar. He doesn't want to be the AI czar and is doing such a great job at the Treasury.
+- 09/26 01:56 [financialjuice] SK Hynix's Solidigm Eyes 2027 IPO at Potential $150 Billion Valuation
+- 09/26 01:56 [financialjuice/FirstSquawk] Trump to unveil New Government website on Tuesday, Elon Musk and NVIDIA's Huang will attend the event - Fox News.
+- 09/26 01:58 [DeItaone] *TRUMP TO UNVEIL NEW GOVERNMENT WEBSITE ON TUESDAY: FOX NEWS
+- 09/26 01:58 [DeItaone/financialjuice] PUTIN: RUSSIA WAS READY TO RESUME NEGOTIATIONS WITH KYIV AFTER THE ELECTIONS, BUT UKRAINE ATTEMPTED TO STRIKE MOSCOW AND ATTACKED POLLING STATIONS - TASS

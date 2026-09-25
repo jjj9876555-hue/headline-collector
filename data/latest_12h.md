@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-26 01:46 JST／対象: 09/25 13:46 〜 09/26 01:46 JST（時刻はすべて日本時間）
+生成: 2026-09-26 01:58 JST／対象: 09/25 13:58 〜 09/26 01:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 53 | 09/25 19:13 | 09/26 01:46 | ⚠ 92分（19:13→20:46） |
-| FirstSquawk | 126 | 09/25 13:47 | 09/26 01:26 | ⚠ 155分（16:01→18:36） |
-| financialjuice | 143 | 09/25 14:21 | 09/26 01:35 | ⚠ 59分（15:00→16:00） |
+| DeItaone | 60 | 09/25 19:13 | 09/26 01:58 | ⚠ 92分（19:13→20:46） |
+| FirstSquawk | 128 | 09/25 14:02 | 09/26 01:57 | ⚠ 155分（16:01→18:36） |
+| financialjuice | 147 | 09/25 14:21 | 09/26 01:58 | ⚠ 59分（15:00→16:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 306 行（統合前 324 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 317 行（統合前 337 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 13:47 [FirstSquawk] Credit Suisse reaches settlement with Australian insurer over Greensill - FT
 - 09/25 14:02 [FirstSquawk] Russia says it continued overnight strikes on Ukraine’s defense industry, logistics hubs and vessels
 - 09/25 14:03 [FirstSquawk] Explosion reported near central Kyiv amid Russian drone attack, Reuters witness says
 - 09/25 14:18 [FirstSquawk] Chevron price target raised to $250 from $218 by HSBC
@@ -330,3 +329,15 @@
 - 09/26 01:42 [DeItaone] PALANTIR CO-FOUNDER JOE LONSDALE SAYS HE BACKS AMODEI AS THE RIGHT LEADER FOR ANTHROPIC
 - 09/26 01:43 [DeItaone] XI SAYS FUTURE OF CHINA-U.S. TIES BRIGHT -XINHUA
 - 09/26 01:46 [DeItaone] SK HYNIX'S SOLIDIGM EYES 2027 IPO THAT COULD VALUE IT AT $150 BILLION, SOURCES SAY SOLIDIGM HELD PITCH MEETINGS THIS WEEK WITH BANKS FOR ROLES IN THE IPO, SOURCES SAY
+- 09/26 01:47 [DeItaone] SOLIDIGM EYES MASSIVE $150 BILLION IPO SK Hynix’s Solidigm is considering a U.S. IPO as early as next year that could value the chipmaker at up to $150 billion, Reuters reports. The company could raise around $15 billion, potentially making…
+- 09/26 01:50 [FirstSquawk] CENTCOM: U.S. MARINES ASSIGNED TO THE 11TH MARINE EXPEDITIONARY UNIT TRAIN ABOARD USS BOXER (LHD 4) AS THE SHIP SAILS IN REGIONAL WATERS AND CONTINUES TO SUPPORT ENFORCEMENT OF THE U.S. BLOCKADE AGAINST IRAN. AS OF SEPT. 25, CENTCOM FORCES …
+- 09/26 01:50 [DeItaone] TRUMP ADMINISTRATION TO MEET SEPTEMBER 30 DEADLINE TO COMMIT TO SPENDING $400 MILLION IN UKRAINE MILITARY AID, SOURCES SAY
+- 09/26 01:50 [FirstSquawk] TRUMP: SCOTT BESSENT WILL NOT BE GOING TO BE SUPER INTELLIGENCE (SI) CZAR. NUMBER ONE, HE DOESN’T WANT TO. NUMBER TWO, HE’S DOING SUCH A GREAT JOB AT TREASURY, AND THAT’S WHERE I WANT TO KEEP HIM! WHY WOULD I EVER MAKE SUCH A CHANGE? JUST M…
+- 09/26 01:50 [DeItaone] TRUMP: SCOTT BESSENT WILL NOT BE GOING TO BE SUPER INTELLIGENCE (SI) CZAR. TRUMP: BESSENT DOING SUCH A GREAT JOB AT TREASURY
+- 09/26 01:51 [DeItaone] TRUMP: WANT TO KEEP BESSENT AT TREASURY
+- 09/26 01:51 [DeItaone] TRUMP ADMINISTRATION LOCKS IN $400M UKRAINE AID The Trump administration plans to obligate nearly all $400 million in military aid for Ukraine before funding expires September 30. About $307 million is already committed, with the remaining …
+- 09/26 01:56 [financialjuice] Trump: US Treasury Secretary Bessent won't be the AI Czar. He doesn't want to be the AI czar and is doing such a great job at the Treasury.
+- 09/26 01:56 [financialjuice] SK Hynix's Solidigm Eyes 2027 IPO at Potential $150 Billion Valuation
+- 09/26 01:56 [financialjuice/FirstSquawk] Trump to unveil New Government website on Tuesday, Elon Musk and NVIDIA's Huang will attend the event - Fox News.
+- 09/26 01:58 [DeItaone] *TRUMP TO UNVEIL NEW GOVERNMENT WEBSITE ON TUESDAY: FOX NEWS
+- 09/26 01:58 [DeItaone/financialjuice] PUTIN: RUSSIA WAS READY TO RESUME NEGOTIATIONS WITH KYIV AFTER THE ELECTIONS, BUT UKRAINE ATTEMPTED TO STRIKE MOSCOW AND ATTACKED POLLING STATIONS - TASS
