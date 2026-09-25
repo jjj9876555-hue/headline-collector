@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-25 19:25 JST／対象: 09/24 19:25 〜 09/25 19:25 JST（時刻はすべて日本時間）
+生成: 2026-09-25 19:44 JST／対象: 09/24 19:44 〜 09/25 19:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 88 | 09/24 21:26 | 09/25 19:13 | ⚠ 681分（07:52→19:13） |
-| FirstSquawk | 315 | 09/24 19:27 | 09/25 19:02 | ⚠ 155分（16:01→18:36） |
-| financialjuice | 255 | 09/24 19:25 | 09/25 19:23 | ⚠ 88分（11:11→12:40） |
+| FirstSquawk | 312 | 09/24 19:46 | 09/25 19:02 | ⚠ 155分（16:01→18:36） |
+| financialjuice | 253 | 09/24 19:57 | 09/25 19:23 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 632 行（統合前 664 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 627 行（統合前 659 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 19:25 [financialjuice] Saudi civil defense alerts of potential danger in Mecca, Jeddah, Yanbu, and Tabuk
-- 09/24 19:27 [FirstSquawk] SPOT GOLD FALLS NEARLY 1% TO $4,244.99/OZ
-- 09/24 19:40 [financialjuice] China Life to invest up to 4.5B Yuan in a fund targeting AI and chip
-- 09/24 19:43 [FirstSquawk] TRUMP LENGTHENS TRADE CEASEFIRE WITH CHINA AND GREETS XI JINPING IN WASHINGTON.
-- 09/24 19:43 [FirstSquawk] CHINA LIFE WILL INVEST UP TO 4.5 BILLION YUAN IN A FUND FOCUSED ON AI AND CHIP TECHNOLOGIES.
 - 09/24 19:46 [FirstSquawk] MERCK’S REMIGROMIG MEETS PRIMARY ENDPOINT IN DME TRIAL
 - 09/24 19:47 [FirstSquawk] US FDA OKS LILLY'S ONSWIK
 - 09/24 19:47 [FirstSquawk] FDA APPROVES ELI LILLY'S ONSWIK FOR TYPE 2 DIABETES

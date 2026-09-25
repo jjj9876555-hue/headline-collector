@@ -7,30 +7,27 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-25 19:25 JST／対象: 09/25 07:25 〜 09/25 19:25 JST（時刻はすべて日本時間）
+生成: 2026-09-25 19:44 JST／対象: 09/25 07:44 〜 09/25 19:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/25 07:52 | 09/25 19:13 | ⚠ 681分（07:52→19:13） |
 | FirstSquawk | 124 | 09/25 07:52 | 09/25 19:02 | ⚠ 155分（16:01→18:36） |
-| financialjuice | 80 | 09/25 07:27 | 09/25 19:23 | ⚠ 88分（11:11→12:40） |
+| financialjuice | 75 | 09/25 07:45 | 09/25 19:23 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 201 行（統合前 206 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 198 行（統合前 201 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 07:27 [financialjuice/FirstSquawk] UK foreign secretary Miliband warns Iran's foreign minister: UK will not tolerate hostile acts on British soil - Sky News
-- 09/25 07:34 [financialjuice/FirstSquawk] Iranian president on whether war could end before year-end: it's America that must decide if it wants to end this
-- 09/25 07:41 [financialjuice] OpenAI to preview latest cybersecurity-focused model GPT-6 Cyber in coming days: Fortune
-- 09/25 07:41 [financialjuice] Ke Agentic migration converts AWS EKS infrastructure as code to GKE through automated pull requests
-- 09/25 07:42 [financialjuice] OpenAI to unveil product for more secure, automated GPT-6 Cyber deployment - Fortune
 - 09/25 07:45 [financialjuice] Trump, Johnson and tech CEOs to convene on Sept. 29: Axios
 - 09/25 07:52 [DeItaone] IRANIAN PRESIDENT WHEN ASKED IF WAR COULD END BEFORE END OF YEAR: IT'S AMERICA THAT MUST CHOOSE WHETHER IT WANTS TO END THIS
+- 09/25 07:52 [FirstSquawk] UK FOREIGN SECRETARY MILIBAND WARNS IRAN'S FOREIGN MINISTER: UK WILL NOT TOLERATE HOSTILE ACTS ON BRITISH SOIL - SKY NEWS
+- 09/25 07:52 [FirstSquawk] IRANIAN PRESIDENT ON WHETHER WAR COULD END BEFORE YEAR-END: IT'S AMERICA THAT MUST DECIDE IF IT WANTS TO END THIS
 - 09/25 07:57 [financialjuice] Qatar categorically rejects Netanyahu’s claim it is running campaign to sway public opinion against Israel
 - 09/25 07:58 [financialjuice/FirstSquawk] Qatar: Repeated attacks by Netanyahu appear aimed at deflecting political responsibility for ground policies
 - 09/25 08:01 [financialjuice] UK GfK consumer confidence index at -13 in September vs -14 in August, highest since August 2024 (poll -16)
