@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-26 00:51 JST／対象: 09/25 18:51 〜 09/26 00:51 JST（時刻はすべて日本時間）
+生成: 2026-09-26 01:03 JST／対象: 09/25 19:03 〜 09/26 01:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 44 | 09/25 19:13 | 09/26 00:09 | ⚠ 92分（19:13→20:46） |
-| FirstSquawk | 80 | 09/25 18:55 | 09/26 00:26 | ⚠ 47分（19:02→19:50） |
-| financialjuice | 101 | 09/25 18:53 | 09/26 00:31 | 39分（20:20→21:00） |
+| FirstSquawk | 80 | 09/25 19:50 | 09/26 01:03 | 35分（00:26→01:01） |
+| financialjuice | 98 | 09/25 19:05 | 09/26 01:00 | 39分（20:20→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 210 行（統合前 227 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 207 行（統合前 224 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 18:53 [financialjuice] BoE Gov. Bailey: Have to make judgment on incomplete evidence
-- 09/25 18:55 [FirstSquawk] BAILEY: HAVE TO MAKE JUDGMENT ON INCOMPLETE EVIDENCE
-- 09/25 18:55 [FirstSquawk] U.S.-SANCTIONED OIL TANKER SIBU ONE THAT WAS HIJACKED BY SOMALI PIRATES IN AUGUST HAS BEEN RESCUED - PUNTLAND MARITIME POLICE FORCE
-- 09/25 19:00 [financialjuice] US-sanctioned oil tanker Sibu 1 that was hijacked by Somali pirates in August, has been rescued - Puntland maritime police force
-- 09/25 19:00 [financialjuice] Japan's Fin. Min. Katayama: Takaichi very much respects the independence of the BoJ
-- 09/25 19:00 [financialjuice] Japan's Fin. Min. Katayama: Rising bond yields is global trend and temporary
-- 09/25 19:01 [financialjuice] Japan's Fin. Min. Katayama: Won't hesitate to take bold action on the yen
-- 09/25 19:01 [financialjuice] Japan's Fin. Min. Katayama: Defense spending at 2% of GDP is 'not enough"
-- 09/25 19:01 [financialjuice] Japan's Fin. Min. Katayama: Our defense policy is not determined by US pressure
-- 09/25 19:01 [FirstSquawk] JAPAN'S FINMIN KATAYAMA: TAKAICHI 'IS NOT A REFLATIONIST'
-- 09/25 19:02 [FirstSquawk] KATAYAMA: TAKAICHI VERY MUCH RESPECTS INDEPENDENCE OF BOJ || WON'T HESITATE TO TAKE BOLD ACTION ON YEN
-- 09/25 19:02 [FirstSquawk] KATAYAMA: DEFENSE SPENDING AT 2% OF GDP IS 'NOT ENOUGH' || OUR DEFENSE POLICY NOT DETERMINED BY US PRESSURE
-- 09/25 19:02 [FirstSquawk] KATAYAMA: OUR DEFENSE POLICY NOT DETERMINED BY US PRESSURE
 - 09/25 19:05 [financialjuice] Japan's Fin. Min. Katayama: Extra defense spending to address China threat
 - 09/25 19:05 [financialjuice] US Fed plans to raise bank oversight thresholds - Sources
 - 09/25 19:10 [financialjuice] Iraq's Erbil and Sulaimaniya airports suspend Iranian flights starting Friday - Two Sources
@@ -234,3 +221,13 @@
 - 09/26 00:25 [financialjuice] Iran's President Pezeshkian: The Iranian delegation discussed rights under international law. We are reaching an understanding on that basis, if the other side accepts – ISNA.
 - 09/26 00:26 [FirstSquawk] BASF CONFIRMS PRELIM. DISCUSSIONS TO BUY EVONIK; SAYS OUTCOME OF TALKS REMAINS OPEN
 - 09/26 00:31 [financialjuice] Iran's President Pezeshkian, asked on diluting 60% uranium reserves: Yes, within the framework of international law, we are willing to accept whatever is proposed in the NPT - Fox News interview cited by ISNA.
+- 09/26 00:53 [financialjuice] Trump and China’s President Xi Site Visit - WATCH LIVE
+- 09/26 00:57 [financialjuice] Trump asked Xi to stop supporting Iran - Axios
+- 09/26 01:00 [financialjuice] ❗ Iran-US talks enter technical stage - Al-Jazeera Journalist Reports cited by CBS.
+- 09/26 01:00 [financialjuice] Iran-U.S. talks enter technical stage, Al-Jazeera journalist reports
+- 09/26 01:01 [FirstSquawk] IRAN-US TALKS ENTER TECHNICAL STAGE - AL-JAZEERA
+- 09/26 01:02 [FirstSquawk] IRAN-U.S. NEGOTIATIONS IN NEW YORK HAVE MOVED BEYOND INITIAL DIPLOMATIC CONTACTS INTO A MORE DETAILED TECHNICAL PHASE, WITH SOURCES IN TEHRAN DESCRIBING THE ATMOSPHERE AS INCREASINGLY POSITIVE, AL JAZEERA'S BUREAU CHIEF IN TEHRAN, NOURDDINE…
+- 09/26 01:02 [FirstSquawk] THE QATARI-GOVERNMENT OWNED NETWORK SAID TECHNICAL EXPERTS HAD JOINED THE DISCUSSIONS IN NEW YORK AFTER A FIRST MEETING INVOLVING U.S. ENVOYS STEVE WITKOFF AND JARED KUSHNER. WHILE VISAS WERE NOT INITIALLY APPROVED BY THE U.S. GOVERNMENT FO…
+- 09/26 01:02 [FirstSquawk] TRUMP: HAD A GREAT MEETING WITH XI, GREAT FOR FARMERS
+- 09/26 01:03 [FirstSquawk] TRUMP SAYS DISCUSSED IRAN WITH XI
+- 09/26 01:03 [FirstSquawk] TRUMP SAYS THINK WE'RE GOING TO DO GREAT

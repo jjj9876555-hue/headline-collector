@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-26 00:51 JST／対象: 09/25 00:51 〜 09/26 00:51 JST（時刻はすべて日本時間）
+生成: 2026-09-26 01:03 JST／対象: 09/25 01:03 〜 09/26 01:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 72 | 09/25 00:55 | 09/26 00:09 | ⚠ 681分（07:52→19:13） |
-| FirstSquawk | 271 | 09/25 00:55 | 09/26 00:26 | ⚠ 155分（16:01→18:36） |
-| financialjuice | 215 | 09/25 00:56 | 09/26 00:31 | ⚠ 88分（11:11→12:40） |
+| DeItaone | 69 | 09/25 01:15 | 09/26 00:09 | ⚠ 681分（07:52→19:13） |
+| FirstSquawk | 276 | 09/25 01:08 | 09/26 01:03 | ⚠ 155分（16:01→18:36） |
+| financialjuice | 216 | 09/25 01:15 | 09/26 01:00 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 530 行（統合前 565 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 533 行（統合前 568 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 00:55 [DeItaone] MS NOW PRODUCER GRANTED ACCESS TO WHITE HOUSE -MS NOW
-- 09/25 00:55 [FirstSquawk] GOOGLE: INTRODUCING GEMINI 3.8 LIVE WITH LIVE AVATAR
-- 09/25 00:56 [financialjuice] Google introduces Gemini 3.8 Live, with live avatar. $GOOGL
-- 09/25 00:57 [DeItaone] TWO-YEAR U.S. TREASURY YIELDS LAST UP 0.85 BASIS POINTS AT 4.904%
-- 09/25 01:00 [DeItaone] U.S. 30-YR FIXED RATE MORTGAGE AVERAGES 7.03 PCT IN SEPT 24 WEEK, HIGHEST SINCE JAN 16, 2025 WEEK, VS 6.95 PCT PRIOR WEEK-FREDDIE MAC
-- 09/25 01:00 [financialjuice] US 30-yr fixed rate mortgage averages 7.03% in Sept 24 week, highest since Jan 16, 2025 week, vs 6.95% prior week - Freddie Mac
-- 09/25 01:01 [financialjuice] BNP Paribas and Google Cloud sign five-year AI pact. $GOOGL
 - 09/25 01:08 [FirstSquawk] BNP PARIBAS, GOOGLE CLOUD SIGN 5-YEAR PARTNERSHIP FOR AI AND CLOUD INNOVATION
 - 09/25 01:09 [FirstSquawk] CNN AND MS HAVE BEEN GIVEN PERMISSION TO ENTER THE WHITE HOUSE.
 - 09/25 01:15 [financialjuice] Russia's Kuibyshev Oil Refinery has suspended oil processing since September 22ND, following A drone attack - Sources.
@@ -554,3 +547,13 @@
 - 09/26 00:25 [financialjuice] Iran's President Pezeshkian: The Iranian delegation discussed rights under international law. We are reaching an understanding on that basis, if the other side accepts – ISNA.
 - 09/26 00:26 [FirstSquawk] BASF CONFIRMS PRELIM. DISCUSSIONS TO BUY EVONIK; SAYS OUTCOME OF TALKS REMAINS OPEN
 - 09/26 00:31 [financialjuice] Iran's President Pezeshkian, asked on diluting 60% uranium reserves: Yes, within the framework of international law, we are willing to accept whatever is proposed in the NPT - Fox News interview cited by ISNA.
+- 09/26 00:53 [financialjuice] Trump and China’s President Xi Site Visit - WATCH LIVE
+- 09/26 00:57 [financialjuice] Trump asked Xi to stop supporting Iran - Axios
+- 09/26 01:00 [financialjuice] ❗ Iran-US talks enter technical stage - Al-Jazeera Journalist Reports cited by CBS.
+- 09/26 01:00 [financialjuice] Iran-U.S. talks enter technical stage, Al-Jazeera journalist reports
+- 09/26 01:01 [FirstSquawk] IRAN-US TALKS ENTER TECHNICAL STAGE - AL-JAZEERA
+- 09/26 01:02 [FirstSquawk] IRAN-U.S. NEGOTIATIONS IN NEW YORK HAVE MOVED BEYOND INITIAL DIPLOMATIC CONTACTS INTO A MORE DETAILED TECHNICAL PHASE, WITH SOURCES IN TEHRAN DESCRIBING THE ATMOSPHERE AS INCREASINGLY POSITIVE, AL JAZEERA'S BUREAU CHIEF IN TEHRAN, NOURDDINE…
+- 09/26 01:02 [FirstSquawk] THE QATARI-GOVERNMENT OWNED NETWORK SAID TECHNICAL EXPERTS HAD JOINED THE DISCUSSIONS IN NEW YORK AFTER A FIRST MEETING INVOLVING U.S. ENVOYS STEVE WITKOFF AND JARED KUSHNER. WHILE VISAS WERE NOT INITIALLY APPROVED BY THE U.S. GOVERNMENT FO…
+- 09/26 01:02 [FirstSquawk] TRUMP: HAD A GREAT MEETING WITH XI, GREAT FOR FARMERS
+- 09/26 01:03 [FirstSquawk] TRUMP SAYS DISCUSSED IRAN WITH XI
+- 09/26 01:03 [FirstSquawk] TRUMP SAYS THINK WE'RE GOING TO DO GREAT
