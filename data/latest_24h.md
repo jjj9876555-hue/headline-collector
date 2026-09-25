@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-25 17:04 JST／対象: 09/24 17:04 〜 09/25 17:04 JST（時刻はすべて日本時間）
+生成: 2026-09-25 17:27 JST／対象: 09/24 17:27 〜 09/25 17:27 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 87 | 09/24 21:26 | 09/25 07:52 | ⚠ 230分（04:02→07:52） |
-| FirstSquawk | 339 | 09/24 17:06 | 09/25 16:01 | ⚠ 46分（07:06→07:52） |
-| financialjuice | 244 | 09/24 17:36 | 09/25 17:00 | ⚠ 88分（11:11→12:40） |
+| FirstSquawk | 336 | 09/24 17:28 | 09/25 16:01 | ⚠ 46分（07:06→07:52） |
+| financialjuice | 249 | 09/24 17:36 | 09/25 17:25 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 642 行（統合前 676 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 644 行（統合前 678 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 17:06 [FirstSquawk] NORGES BANK SEES 2026 CPI-ATE OF 3% SAW 3.2% IN JUNE || SEES 2027 CPI-ATE OF 2.7%; SAW 2.8% IN JUNE NOW || SEES KEY RATE AT 4.51% IN Q4 2026 || NOW SEES KEY RATE AT 4.57% IN Q1 2027 || NOW SEES KEY RATE AT 4.60% IN Q2 2027
-- 09/24 17:14 [FirstSquawk] BRENT OIL FUTURES CLIMB 2.2 PCT TO SESSION HIGH OF $105.38/BBL
-- 09/24 17:24 [FirstSquawk] WILLIAMS: TIME FOR EXPLICIT, VERY DIRECT FORWARD GUIDANCE IS OVER
 - 09/24 17:28 [FirstSquawk] U.S. 30-YEAR TREASURY YIELD RISES TO HIGHEST SINCE 2004
 - 09/24 17:31 [FirstSquawk] WILLIAMS: I SEE A TUG OF WAR BETWEEN HIGHER TREND GROWTH PUSHING UP U.S. R-START AND DEMOGRAPHICS PULLING IT DOWN
 - 09/24 17:32 [FirstSquawk] WILLIAMS: EXPECTATIONS OF REAL RATES ARE A BIG PART OF HIGHER BOND YIELDS
@@ -666,3 +663,8 @@
 - 09/25 16:05 [financialjuice] Trump: China's Xi and I have forged a truly great friendship
 - 09/25 17:00 [financialjuice] EUROZONE LOANS TO HOUSEHOLDS ACTUAL 3.1% (FORECAST -, PREVIOUS 3.1%) $MACRO
 - 09/25 17:00 [financialjuice] EUROZONE LOANS TO NON FINANCIAL FIRMS ACTUAL 4.2% (FORECAST -, PREVIOUS 4.4%) $MACRO
+- 09/25 17:05 [financialjuice] Egypt, Iran foreign ministers discuss proposals for deal.
+- 09/25 17:13 [financialjuice] Zelenskiy: US proposed preparing next trilateral meeting at technical level
+- 09/25 17:14 [financialjuice] Zelenskiy: US suggests UAE as next meeting host, Kyiv awaits date
+- 09/25 17:21 [financialjuice] Turkish parliament speaker: defence agreement with Pakistan, Saudi Arabia not submitted to parliament yet, expected after session opens next month
+- 09/25 17:25 [financialjuice] German economy minister Reiche: fantasies of seizure and nationalization have no place in Germany

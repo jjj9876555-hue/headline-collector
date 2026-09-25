@@ -7,42 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-25 17:04 JST／対象: 09/25 05:04 〜 09/25 17:04 JST（時刻はすべて日本時間）
+生成: 2026-09-25 17:27 JST／対象: 09/25 05:27 〜 09/25 17:27 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/25 07:52 | 09/25 07:52 | - |
-| FirstSquawk | 136 | 09/25 05:06 | 09/25 16:01 | ⚠ 46分（07:06→07:52） |
-| financialjuice | 56 | 09/25 05:13 | 09/25 17:00 | ⚠ 88分（11:11→12:40） |
+| FirstSquawk | 124 | 09/25 05:29 | 09/25 16:01 | ⚠ 46分（07:06→07:52） |
+| financialjuice | 54 | 09/25 06:01 | 09/25 17:25 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 187 行（統合前 193 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 173 行（統合前 179 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 05:06 [FirstSquawk] ANTHROPIC STRIKES $12 BILLION DEAL WITH AKAMAI FOR AI COMPUTING.
-- 09/25 05:13 [financialjuice] China's Xi: China and the US are major ai powers, we can cooperate.
-- 09/25 05:13 [FirstSquawk] XI CALLS ON CHINA & US TO KEEP AI TECHNOLOGY UNDER HUMAN CONTROL — XINHUA
-- 09/25 05:14 [financialjuice] China's Xi: We can continue with AI dialogs.
-- 09/25 05:14 [FirstSquawk] FRENCH PRESIDENT MACRON SAYS FRANCE WILL DEPLOY TROOPS, RADARS AND AIR DEFENSE SYSTEMS TO PROTECT SAUDI ARABIA'S YANBU OIL TERMINAL, DAMAGED BY A HOUTHI ATTACK, SAYING IT IS 'NOT TO ENGAGE IN ANY CONFLICT, BUT TO PROTECT THIS SITE', WHICH W…
-- 09/25 05:14 [FirstSquawk] FRENCH PRESIDENT MACRON SAYS ON TRUMP'S THREAT TO BAN U.S. DIESEL EXPORTS THAT 'YOU NEVER HAVE GUARANTEES WITH DONALD TRUMP. NEVER', CALLING A POTENTIAL BAN 'CATASTROPHIC', AND SAYS RUSSIA COULD BE PREPARING TO MOBILIZE AROUND 300,000 ADDIT…
-- 09/25 05:14 [FirstSquawk] FRENCH PRESIDENT MACRON PROPOSES A 'DOUBLE MORATORIUM' UNDER WHICH UKRAINE STOPS STRIKING RUSSIAN REFINERIES AND RUSSIA COMMITS NOT TO STRIKE UKRAINE'S ENERGY SYSTEM AND CIVILIAN INFRASTRUCTURE, WARNING THAT RUSSIA 'CONSIDERS EUROPE TO BE U…
-- 09/25 05:15 [FirstSquawk] CHINESE PRESIDENT XI: CHINA & US ARE MAJOR AI POWERS AND CAN COOPERATE; SAYS AI DIALOGUE CAN CONTINUE
-- 09/25 05:16 [FirstSquawk] CHINESE PRESIDENT XI CALLS ON CHINA & US TO KEEP AI TECHNOLOGY UNDER HUMAN CONTROL — XINHUA
-- 09/25 05:16 [financialjuice] China's Xi: New arrangement after China-US trade talks is good news.
-- 09/25 05:17 [FirstSquawk] COSTCO Q4 NET SALES ROSE TO $93.87 BILLION, WITH TOTAL REVENUE AT $95.72 BILLION AND NET INCOME OF $3.0 BILLION; EPS CAME IN AT $6.75 VERSUS $6.56 EXPECTED. || ADJUSTED COMPARABLE SALES GREW 6.7%, WHILE EPS INCLUDED A $0.15 BENEFIT FROM IEE…
-- 09/25 05:18 [financialjuice] $COST Costco Q4 Earnings EPS $6.75, est. $6.53 Total Revenue $95.72B, est. $94.92B Total Company Comp Sales ex-gas, FX +6.7%, est. +6.44% Total Company Comp Sales incl. gas, FX +9.4%, est. +8.37%
-- 09/25 05:19 [financialjuice] Trump and Xi confirmed that they would support each other in hosting the APEC Economic Leaders meeting and the G20 Summit in 2026 - Xinhua
-- 09/25 05:19 [FirstSquawk] CHINESE PRESIDENT XI: CHINA & US DELEGATIONS REACH NEW ARRANGEMENT AFTER TRADE TALKS; CALLS IT “GOOD NEWS”
-- 09/25 05:20 [FirstSquawk] TRUMP & XI AGREE TO SUPPORT EACH OTHER IN HOSTING 2026 APEC ECONOMIC LEADERS’ MEETING & G20 SUMMIT — XINHUA
-- 09/25 05:21 [financialjuice] Xi and Trump exchange views on the Middle East situation, the Ukraine crisis and the Korean Peninsula - Xinhua
-- 09/25 05:22 [FirstSquawk] CHINESE PRESIDENT XI & TRUMP EXCHANGE VIEWS ON MIDDLE EAST, UKRAINE CRISIS & KOREAN PENINSULA — XINHUA
-- 09/25 05:24 [financialjuice] President Xi stressed that the economic and trade teams of the two sides held a new round of consultations and reached a new joint arrangement - Xinhua
-- 09/25 05:25 [FirstSquawk] NEW YORK MAYOR MAMDANI: NETANYAHU USED UN SPEECH TO REPEAT “BASELESS LIES” ABOUT PALESTINIANS; SAYS NO LIE CHANGES HIS STATUS UNDER AN INTERNATIONAL CRIMINAL COURT ARREST WARRANT
 - 09/25 05:29 [FirstSquawk] CHINESE PRESIDENT XI: CHINA & US HAVE “EVEN MORE REASONS TO COOPERATE” ON AI DESPITE COMPETITION — XINHUA
 - 09/25 05:31 [FirstSquawk] AKAMAI TECHNOLOGIES ANNOUNCES A MULTI-YEAR $11.6 BILLION AGREEMENT WITH ANTHROPIC TO SUPPORT RISING AI DEMAND, WITH POTENTIAL EXPANSION OF UP TO $9 BILLION, TAKING THE TOTAL COMMITMENT TO AS MUCH AS $20 BILLION.
 - 09/25 05:32 [FirstSquawk] AKAMAI EXPECTS $5.5 BILLION IN CAPITAL EXPENDITURE FOR THE INITIAL COMMITMENT, INCLUDING A $1.7 BILLION INCREASE IN 2026 CAPEX, WHILE ISSUING ANTHROPIC A WARRANT FOR UP TO 7.7 MILLION SHARES, OR 5% OF OUTSTANDING STOCK, AT $111.33 PER SHARE…
@@ -211,3 +192,8 @@
 - 09/25 16:05 [financialjuice] Trump: China's Xi and I have forged a truly great friendship
 - 09/25 17:00 [financialjuice] EUROZONE LOANS TO HOUSEHOLDS ACTUAL 3.1% (FORECAST -, PREVIOUS 3.1%) $MACRO
 - 09/25 17:00 [financialjuice] EUROZONE LOANS TO NON FINANCIAL FIRMS ACTUAL 4.2% (FORECAST -, PREVIOUS 4.4%) $MACRO
+- 09/25 17:05 [financialjuice] Egypt, Iran foreign ministers discuss proposals for deal.
+- 09/25 17:13 [financialjuice] Zelenskiy: US proposed preparing next trilateral meeting at technical level
+- 09/25 17:14 [financialjuice] Zelenskiy: US suggests UAE as next meeting host, Kyiv awaits date
+- 09/25 17:21 [financialjuice] Turkish parliament speaker: defence agreement with Pakistan, Saudi Arabia not submitted to parliament yet, expected after session opens next month
+- 09/25 17:25 [financialjuice] German economy minister Reiche: fantasies of seizure and nationalization have no place in Germany

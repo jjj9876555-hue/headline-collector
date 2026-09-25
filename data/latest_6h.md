@@ -7,41 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-25 17:04 JST／対象: 09/25 11:04 〜 09/25 17:04 JST（時刻はすべて日本時間）
+生成: 2026-09-25 17:27 JST／対象: 09/25 11:27 〜 09/25 17:27 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 54 | 09/25 11:05 | 09/25 16:01 | 25分（14:22→14:48） |
-| financialjuice | 20 | 09/25 11:05 | 09/25 17:00 | ⚠ 88分（11:11→12:40） |
+| FirstSquawk | 43 | 09/25 11:27 | 09/25 16:01 | 25分（14:22→14:48） |
+| financialjuice | 18 | 09/25 12:40 | 09/25 17:25 | ⚠ 59分（15:00→16:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 74 行（統合前 74 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 61 行（統合前 61 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 11:05 [FirstSquawk] Katayama: Specific monetary policy tools are up to BOJ to determine
-- 09/25 11:05 [financialjuice] Japan finance minister Katayama: BoJ’s recent rate reduction aimed at reaching inflation target
-- 09/25 11:05 [financialjuice] Japan finance minister katayama: expect BoJ to implement suitable monetary policy while cooperating with government
-- 09/25 11:06 [financialjuice] Japan finance minister Katayama: won’t discuss particular forex levels, rate interventions
-- 09/25 11:06 [FirstSquawk] Japan Finance Minister Katayama says BOJ cut rates to achieve inflation target
-- 09/25 11:06 [financialjuice] Japan finance minister katayama: trump voiced worries over weak yen during summit
-- 09/25 11:06 [FirstSquawk] Japan Finance Minister Katayama: BOJ expected to conduct monetary policy appropriately with government coordination
-- 09/25 11:07 [financialjuice] Japan finance minister Katayama: will closely cooperate with US on forex
-- 09/25 11:07 [FirstSquawk] Japan Finance Minister Katayama: No comment on specific FX levels or rate checks
-- 09/25 11:08 [FirstSquawk] Japan Finance Minister Katayama: Trump voiced concerns about yen weakness at summit
-- 09/25 11:08 [financialjuice] Japan finance minister Katayama: PM Takaichi voiced worries about yen weakness in general
-- 09/25 11:09 [FirstSquawk] Katayama: Japan will closely coordinate with US on foreign exchange
-- 09/25 11:10 [FirstSquawk] USD/JPY declines 0.25% to 158.4700
-- 09/25 11:11 [FirstSquawk] Katayama: PM Takaichi expressed concern about the yen’s weakness in general
-- 09/25 11:11 [FirstSquawk] Pakistan says attempted Afghan attack in Gulistan sector was thwarted, several Taliban killed
-- 09/25 11:11 [financialjuice] Japan finance minister Katayama: BoJ’s recent rate increase aimed at reaching inflation goal
-- 09/25 11:12 [FirstSquawk] Pakistan security sources: Security forces and Afghan Taliban continue intermittent exchanges of fire
-- 09/25 11:18 [FirstSquawk] Canadian dollar loses ground amid weaker oil prices and a firmer US dollar
 - 09/25 11:27 [FirstSquawk] Hong Kong gains ground on Dubai in ‘super-prime’ property sales during Iran war - scmp
 - 09/25 11:42 [FirstSquawk] North Korea faces propaganda setback after Ukraine’s POW transfer reveal - SCMP
 - 09/25 11:50 [FirstSquawk] Polo expected to strengthen back to Category 5 on Friday, NHC says
@@ -98,3 +80,8 @@
 - 09/25 16:05 [financialjuice] Trump: China's Xi and I have forged a truly great friendship
 - 09/25 17:00 [financialjuice] EUROZONE LOANS TO HOUSEHOLDS ACTUAL 3.1% (FORECAST -, PREVIOUS 3.1%) $MACRO
 - 09/25 17:00 [financialjuice] EUROZONE LOANS TO NON FINANCIAL FIRMS ACTUAL 4.2% (FORECAST -, PREVIOUS 4.4%) $MACRO
+- 09/25 17:05 [financialjuice] Egypt, Iran foreign ministers discuss proposals for deal.
+- 09/25 17:13 [financialjuice] Zelenskiy: US proposed preparing next trilateral meeting at technical level
+- 09/25 17:14 [financialjuice] Zelenskiy: US suggests UAE as next meeting host, Kyiv awaits date
+- 09/25 17:21 [financialjuice] Turkish parliament speaker: defence agreement with Pakistan, Saudi Arabia not submitted to parliament yet, expected after session opens next month
+- 09/25 17:25 [financialjuice] German economy minister Reiche: fantasies of seizure and nationalization have no place in Germany
