@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-25 12:03 JST／対象: 09/25 00:03 〜 09/25 12:03 JST（時刻はすべて日本時間）
+生成: 2026-09-25 12:24 JST／対象: 09/25 00:24 〜 09/25 12:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 35 | 09/25 00:13 | 09/25 07:52 | ⚠ 230分（04:02→07:52） |
-| FirstSquawk | 151 | 09/25 00:05 | 09/25 11:59 | ⚠ 46分（07:06→07:52） |
-| financialjuice | 88 | 09/25 00:07 | 09/25 11:11 | ⚠ 76分（09:15→10:31） |
+| DeItaone | 33 | 09/25 00:30 | 09/25 07:52 | ⚠ 230分（04:02→07:52） |
+| FirstSquawk | 148 | 09/25 00:31 | 09/25 12:14 | ⚠ 46分（07:06→07:52） |
+| financialjuice | 83 | 09/25 00:32 | 09/25 11:11 | ⚠ 76分（09:15→10:31） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 261 行（統合前 279 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 251 行（統合前 269 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 00:05 [FirstSquawk] US NATURAL GAS FUTURES JUMP AS MUCH AS 5% AFTER PIPELINE ISSUE
-- 09/25 00:05 [FirstSquawk] RUSSIA CUTS 2026 OIL PRODUCT EXPORT OUTLOOK BY 24M TONS TO 98.5M TONS - IFX
-- 09/25 00:07 [financialjuice] Trump & Xi Attend a US Military Review - WATCH LIVE
-- 09/25 00:08 [financialjuice] Pakistan PM meets the Iranian President on the sidelines of the UNGA.
-- 09/25 00:11 [FirstSquawk] ISRAELI SOURCE: A NEW ROUND OF STRIKES AGAINST IRAN APPEARS TO BE A MATTER OF TIME.. AND WE WILL MOVE TO STRIKE NUCLEAR FACILITIES AGAIN IF TEHRAN CROSSES THE RED LINES
-- 09/25 00:12 [financialjuice] UAE's Civil Aviation suspends flights of iranian companies from and to the country starting Thursday until further notice- UAE State News Agency.
-- 09/25 00:13 [DeItaone] UAE'S CIVIL AVIATION SUSPENDS FLIGHTS OF IRANIAN COMPANIES FROM AND TO THE COUNTRY STRATING THURSDAY UNTIL FURTHER NOTICE- UAE STATE NEWS AGENCY UAE SAYS DECISION IS BASED ON US SANCTIONS ON IRANIAN AIRLINES USING AIRPORTS
-- 09/25 00:14 [financialjuice] UAE: The decision is based on US sanctions on Iranian airlines using airports.
-- 09/25 00:14 [FirstSquawk] UAE’S CIVIL AVIATION AUTHORITY SUSPENDS FLIGHTS BY IRANIAN AIRLINES TO AND FROM THE UAE
-- 09/25 00:15 [financialjuice] Fed bids for 4-week bills total $7.4 bln.
-- 09/25 00:16 [DeItaone] DOLLAR/YEN UP 0.42% AT 158.96 AFTER HITTING 158.98, HIGHEST SINCE SEPTEMBER 2
-- 09/25 00:22 [FirstSquawk] US YIELDS FOR 10 TO 30 YEARS INCREASE WITH OIL PRICES, REACHING NEW MULTIYEAR HIGHS.
 - 09/25 00:30 [DeItaone] OIL FUTURES EXTEND GAINS, US CRUDE UP BY $4 A BARREL AFTER YEMEN'S HOUTHIS FIRE MISSILES AT SAUDI ARABIA
 - 09/25 00:31 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 0.23%; GERMANY'S DAX DOWN 0.61%
 - 09/25 00:32 [financialjuice] US 4-WEEK BILL HIGH YIELD ACTUAL 3.85% (FORECAST -, PREVIOUS 3.820%) $MACRO
@@ -285,3 +273,5 @@
 - 09/25 11:42 [FirstSquawk] North Korea faces propaganda setback after Ukraine’s POW transfer reveal - SCMP
 - 09/25 11:50 [FirstSquawk] Polo expected to strengthen back to Category 5 on Friday, NHC says
 - 09/25 11:59 [FirstSquawk] Baird lifts Charles River Laboratories price target to $334 from $291
+- 09/25 12:06 [FirstSquawk] Brent crude futures decline 1% to $105.54 per barrel
+- 09/25 12:14 [FirstSquawk] Asian bond yields rise despite weaker oil prices as markets remain cautious - WSJ
