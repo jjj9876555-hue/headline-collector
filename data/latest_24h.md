@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-26 01:58 JST／対象: 09/25 01:58 〜 09/26 01:58 JST（時刻はすべて日本時間）
+生成: 2026-09-26 02:16 JST／対象: 09/25 02:16 〜 09/26 02:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 79 | 09/25 02:00 | 09/26 01:58 | ⚠ 681分（07:52→19:13） |
-| FirstSquawk | 275 | 09/25 02:36 | 09/26 01:57 | ⚠ 155分（16:01→18:36） |
-| financialjuice | 219 | 09/25 02:01 | 09/26 01:58 | ⚠ 88分（11:11→12:40） |
+| DeItaone | 77 | 09/25 02:39 | 09/26 02:05 | ⚠ 681分（07:52→19:13） |
+| FirstSquawk | 282 | 09/25 02:36 | 09/26 02:16 | ⚠ 155分（16:01→18:36） |
+| financialjuice | 219 | 09/25 02:29 | 09/26 02:03 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 544 行（統合前 579 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 548 行（統合前 582 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 02:00 [DeItaone] XI TOLD TRUMP CHINA'S POSITION ON SAFEGUARDING ITS NATIONAL UNITY AND TERRITORIAL INTEGRITY IS CRYSTAL CLEAR -XINHUA
-- 09/25 02:00 [DeItaone] TRUMP ADMINISTRATION PRESSES CHINA ON SUSPECTED NUCLEAR TESTS IN CONFIDENTIAL TALKS
-- 09/25 02:01 [financialjuice] Treasury WI 7-year yield 5.078% before $44 billion auction.
-- 09/25 02:01 [financialjuice] Trump administration presses China on suspected nuclear tests in confidential talks - WSJ.
-- 09/25 02:02 [DeItaone] U.S. PRESSES CHINA OVER SUSPECTED NUCLEAR TESTS The Trump administration has been quietly holding talks with China over allegations Beijing conducted secret low-yield nuclear tests and concerns about its rapidly expanding nuclear arsenal. C…
-- 09/25 02:02 [financialjuice] US 7-YEAR HIGH YIELD ACTUAL 5.085% (FORECAST -, PREVIOUS 4.512%) $MACRO
-- 09/25 02:03 [financialjuice] US 7-Year Note Auction High Yield 5.085% [Tail +0.7 bps] Bid-to-cover 2.42 Sells 44 bln Awards 91.11% of bids at high Primary Dealers take 12.5% Direct 30.3% Indirect 57.2%
-- 09/25 02:07 [DeItaone/financialjuice] TRUMP: WE HAD A GREAT MEETING
-- 09/25 02:10 [DeItaone] TRUMP TAKES CHINA'S XI INSIDE PRESIDENTIAL HELICOPTER
-- 09/25 02:10 [financialjuice] Trump takes China's Xi inside the Presidential Helicopter.
-- 09/25 02:16 [DeItaone] FED HIKE EXPECTATIONS SURGE Kalshi now forecasts 2.4 Fed rate hikes this year, up sharply from around 2.1 earlier this week. The jump signals a significant hawkish repricing of Fed expectations. https://t.co/mE21ntaTcP
 - 09/25 02:29 [financialjuice] China's Xi leaves white house after meetings with Trump.
 - 09/25 02:36 [FirstSquawk] ISRAELI OFFICIAL SAYS CHANCE OF US-IRAN DEAL IS SMALL - JPOST
 - 09/25 02:39 [DeItaone] BP EYES $2–5 BILLION U.S. SHALE DEAL BP is evaluating acquisitions to expand its U.S. shale business, according to Reuters sources. The company has reportedly studied oil-heavy shale assets worth $2–5 billion and is considering a bid for De…
@@ -567,4 +556,19 @@
 - 09/26 01:56 [financialjuice] SK Hynix's Solidigm Eyes 2027 IPO at Potential $150 Billion Valuation
 - 09/26 01:56 [financialjuice/FirstSquawk] Trump to unveil New Government website on Tuesday, Elon Musk and NVIDIA's Huang will attend the event - Fox News.
 - 09/26 01:58 [DeItaone] *TRUMP TO UNVEIL NEW GOVERNMENT WEBSITE ON TUESDAY: FOX NEWS
-- 09/26 01:58 [DeItaone/financialjuice] PUTIN: RUSSIA WAS READY TO RESUME NEGOTIATIONS WITH KYIV AFTER THE ELECTIONS, BUT UKRAINE ATTEMPTED TO STRIKE MOSCOW AND ATTACKED POLLING STATIONS - TASS
+- 09/26 01:58 [DeItaone/financialjuice/FirstSquawk] PUTIN: RUSSIA WAS READY TO RESUME NEGOTIATIONS WITH KYIV AFTER THE ELECTIONS, BUT UKRAINE ATTEMPTED TO STRIKE MOSCOW AND ATTACKED POLLING STATIONS - TASS
+- 09/26 01:59 [DeItaone] XI WRAPS UP STATE VISIT TO U.S. - XINHUA
+- 09/26 02:00 [DeItaone] PUTIN: KYIV HAS BEGUN ATTACKS ON CIVILIAN INFRASTRUCTURE; NOW IT MUST FACE THE CONSEQUENCES - TASS
+- 09/26 02:01 [financialjuice] US official to Al Jazeera: Washington is in a strong position and controls the Strait of Hormuz, therefore, we are not in a hurry to reach an agreement with Iran.
+- 09/26 02:01 [financialjuice] US BAKER HUGHES TOTAL RIG COUNT ACTUAL 599 (FORECAST -, PREVIOUS 595) $MACRO
+- 09/26 02:01 [financialjuice] US BAKER HUGHES OIL RIG COUNT ACTUAL 455 (FORECAST -, PREVIOUS 452) $MACRO
+- 09/26 02:02 [DeItaone/financialjuice] PUTIN: RUSSIA IS NOT PREPARING FOR ANY HOSTILITIES WITH EUROPE - IFX
+- 09/26 02:02 [financialjuice] US Official: Approximately 40 million barrels of oil have passed through the Strait of Hormuz in the past 48 hours - Al Jazeera
+- 09/26 02:03 [financialjuice] Putin: All proposals for a peaceful settlement are on the table, but Russia still needs to consider what is in its best interest - TASS
+- 09/26 02:03 [FirstSquawk] US Baker Hughes Rig Count 25-Sep: 599 (prev 595) - Rotary Gas Rigs: 135 (prev 134) - Rotary Oil Rigs: 455 (prev 452)
+- 09/26 02:05 [DeItaone] YEMEN'S PRESIDENTIAL COUNCIL CHAIRMAN CALLS ON YEMENIS TO MOBILISE AND JOIN ARMED FORCES
+- 09/26 02:09 [FirstSquawk] YEMEN'S PRESIDENTIAL COUNCIL CHAIRMAN SAYS ANYONE WHO LEAVES HOUTHI FORCES FROM SEPT 26, STOPS FIGHTING OR WORKING FOR THEM, WILL BE COVERED BY FUTURE GENERAL AMNESTY
+- 09/26 02:09 [FirstSquawk] SK HYNIX'S SOLIDIGM EYES 2027 IPO AT $150B VALUATION
+- 09/26 02:10 [FirstSquawk] US OFFICIAL: NEARLY 40M BBLS OF OIL TRANSITED HORMUZ IN PAST 48 HOURS - NEWSNATION
+- 09/26 02:10 [FirstSquawk] US OFFICIAL: WASHINGTON IS IN A STRONG POSITION AND CONTROLS HORMUZ STRAIT, THEREFORE WE ARE NOT IN A HURRY TO REACH AN AGREEMENT WITH IRAN
+- 09/26 02:16 [FirstSquawk] US JUSTICE DEPARTMENT ENDS PROBE INTO CROWDSTRIKE TRANSACTIONS.
