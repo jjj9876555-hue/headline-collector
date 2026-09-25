@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-25 17:27 JST／対象: 09/25 11:27 〜 09/25 17:27 JST（時刻はすべて日本時間）
+生成: 2026-09-25 17:45 JST／対象: 09/25 11:45 〜 09/25 17:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 43 | 09/25 11:27 | 09/25 16:01 | 25分（14:22→14:48） |
+| FirstSquawk | 41 | 09/25 11:50 | 09/25 16:01 | 25分（14:22→14:48） |
 | financialjuice | 18 | 09/25 12:40 | 09/25 17:25 | ⚠ 59分（15:00→16:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 61 行（統合前 61 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 59 行（統合前 59 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 11:27 [FirstSquawk] Hong Kong gains ground on Dubai in ‘super-prime’ property sales during Iran war - scmp
-- 09/25 11:42 [FirstSquawk] North Korea faces propaganda setback after Ukraine’s POW transfer reveal - SCMP
 - 09/25 11:50 [FirstSquawk] Polo expected to strengthen back to Category 5 on Friday, NHC says
 - 09/25 11:59 [FirstSquawk] Baird lifts Charles River Laboratories price target to $334 from $291
 - 09/25 12:06 [FirstSquawk] Brent crude futures decline 1% to $105.54 per barrel

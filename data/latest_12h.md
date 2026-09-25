@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-25 17:27 JST／対象: 09/25 05:27 〜 09/25 17:27 JST（時刻はすべて日本時間）
+生成: 2026-09-25 17:45 JST／対象: 09/25 05:45 〜 09/25 17:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/25 07:52 | 09/25 07:52 | - |
-| FirstSquawk | 124 | 09/25 05:29 | 09/25 16:01 | ⚠ 46分（07:06→07:52） |
+| FirstSquawk | 120 | 09/25 06:06 | 09/25 16:01 | ⚠ 46分（07:06→07:52） |
 | financialjuice | 54 | 09/25 06:01 | 09/25 17:25 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 173 行（統合前 179 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 169 行（統合前 175 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 05:29 [FirstSquawk] CHINESE PRESIDENT XI: CHINA & US HAVE “EVEN MORE REASONS TO COOPERATE” ON AI DESPITE COMPETITION — XINHUA
-- 09/25 05:31 [FirstSquawk] AKAMAI TECHNOLOGIES ANNOUNCES A MULTI-YEAR $11.6 BILLION AGREEMENT WITH ANTHROPIC TO SUPPORT RISING AI DEMAND, WITH POTENTIAL EXPANSION OF UP TO $9 BILLION, TAKING THE TOTAL COMMITMENT TO AS MUCH AS $20 BILLION.
-- 09/25 05:32 [FirstSquawk] AKAMAI EXPECTS $5.5 BILLION IN CAPITAL EXPENDITURE FOR THE INITIAL COMMITMENT, INCLUDING A $1.7 BILLION INCREASE IN 2026 CAPEX, WHILE ISSUING ANTHROPIC A WARRANT FOR UP TO 7.7 MILLION SHARES, OR 5% OF OUTSTANDING STOCK, AT $111.33 PER SHARE…
-- 09/25 05:32 [FirstSquawk] DELTA AIR LINES DECLARES QUARTERLY DIVIDEND OF $0.22 PER SHARE
 - 09/25 06:01 [financialjuice] Bond Volatility Keeps Stocks in Check as Oil Fuels Inflation Concerns – US Market Wrap
 - 09/25 06:04 [financialjuice/FirstSquawk] Finnish president says he urges Elon Musk to extend Starlink coverage over Russia and occupied areas to help Ukraine target Russian ballistic missile launchers
 - 09/25 06:13 [FirstSquawk] COSTCO RECEIVED $184 MILLION IN IEEPA TARIFF REFUNDS IN Q4 — EXECUTIVE SAYS ON EARNINGS CALL
