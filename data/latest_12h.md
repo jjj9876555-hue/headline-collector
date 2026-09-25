@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-25 17:59 JST／対象: 09/25 05:59 〜 09/25 17:59 JST（時刻はすべて日本時間）
+生成: 2026-09-25 18:19 JST／対象: 09/25 06:19 〜 09/25 18:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/25 07:52 | 09/25 07:52 | - |
-| FirstSquawk | 120 | 09/25 06:06 | 09/25 16:01 | ⚠ 46分（07:06→07:52） |
-| financialjuice | 55 | 09/25 06:01 | 09/25 17:50 | ⚠ 88分（11:11→12:40） |
+| FirstSquawk | 116 | 09/25 06:22 | 09/25 16:01 | ⚠ 46分（07:06→07:52） |
+| financialjuice | 54 | 09/25 06:44 | 09/25 18:12 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 170 行（統合前 176 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 166 行（統合前 171 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 06:01 [financialjuice] Bond Volatility Keeps Stocks in Check as Oil Fuels Inflation Concerns – US Market Wrap
-- 09/25 06:04 [financialjuice/FirstSquawk] Finnish president says he urges Elon Musk to extend Starlink coverage over Russia and occupied areas to help Ukraine target Russian ballistic missile launchers
-- 09/25 06:13 [FirstSquawk] COSTCO RECEIVED $184 MILLION IN IEEPA TARIFF REFUNDS IN Q4 — EXECUTIVE SAYS ON EARNINGS CALL
-- 09/25 06:14 [FirstSquawk] AIRBUS ALERTS A321NEO CUSTOMERS TO QUALITY DEFECT THAT COULD REDUCE CORROSION RESISTANCE INSIDE FUSELAGE STRUCTURE — AIR CURRENT
-- 09/25 06:14 [FirstSquawk] AIRBUS A321NEO QUALITY ISSUE COULD AFFECT MORE THAN 500 AIRCRAFT — AIR CURRENT
 - 09/25 06:22 [FirstSquawk] IRANIAN PRESIDENT MASOUD PEZESHKIAN SAYS TEHRAN WANTS TO REVIVE ITS CEASEFIRE MEMORANDUM OF UNDERSTANDING WITH THE U.S. BEFORE THE NOVEMBER MIDTERM ELECTIONS, SAYING IRAN DOES NOT WANT TALKS DELAYED UNTIL AFTER THE VOTE. - NBC NEWS
 - 09/25 06:22 [FirstSquawk] IRANIAN PRESIDENT MASOUD PEZESHKIAN SAYS IRAN IS “OPEN” TO INSPECTIONS OF ITS NUCLEAR FACILITIES AND DENIES THAT TEHRAN IS SEEKING TO ASSASSINATE PRESIDENT DONALD TRUMP OR HIS FAMILY. - NBC NEWS
 - 09/25 06:25 [FirstSquawk] BOND VOLATILITY KEPT U.S. STOCKS UNDER PRESSURE AS BRENT CRUDE SETTLED NEAR $107 A BARREL, RAISING CONCERNS THAT PERSISTENT INFLATION COULD FORCE THE FEDERAL RESERVE TO KEEP RAISING RATES, WHILE 30-YEAR TREASURY YIELDS REACHED THEIR HIGHEST…
@@ -194,3 +189,4 @@
 - 09/25 17:21 [financialjuice] Turkish parliament speaker: defence agreement with Pakistan, Saudi Arabia not submitted to parliament yet, expected after session opens next month
 - 09/25 17:25 [financialjuice] German economy minister Reiche: fantasies of seizure and nationalization have no place in Germany
 - 09/25 17:50 [financialjuice] Iraq's Najaf airport halts all flights to and from Iran - INA
+- 09/25 18:12 [financialjuice] Russia's Gazprom resumes gas supplies to Armenia - IFX
