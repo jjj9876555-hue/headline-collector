@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-26 04:00 JST／対象: 09/25 22:00 〜 09/26 04:00 JST（時刻はすべて日本時間）
+生成: 2026-09-26 04:16 JST／対象: 09/25 22:16 〜 09/26 04:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 41 | 09/25 22:02 | 09/26 03:09 | ⚠ 71分（00:09→01:20） |
-| FirstSquawk | 77 | 09/25 22:07 | 09/26 03:57 | 35分（00:26→01:01） |
-| financialjuice | 113 | 09/25 22:00 | 09/26 03:59 | 34分（02:18→02:52） |
+| DeItaone | 37 | 09/25 22:20 | 09/26 03:09 | ⚠ 71分（00:09→01:20） |
+| FirstSquawk | 77 | 09/25 22:16 | 09/26 04:13 | 35分（00:26→01:01） |
+| financialjuice | 108 | 09/25 22:17 | 09/26 04:07 | 34分（02:18→02:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 222 行（統合前 232 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 213 行（統合前 223 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 22:00 [financialjuice] Effective Fed Funds Rate 3.88% September 24 vs 3.88% September 23.
-- 09/25 22:02 [financialjuice] NScale: NVIDIA commits $1b to NScale, funding due mid-November.
-- 09/25 22:02 [DeItaone] $TSLA - TESLA’S OPTIMUS HITS SNAGS IN HANDS, SUPPLIERS AS SCALE-UP BEGINS - THE INFORMATION TESLA HAS RAMPED UP PRODUCTION OF ITS OPTIMUS HUMANOID ROBOT ROUGHLY TENFOLD IN RECENT MONTHS - THE INFORMATION
-- 09/25 22:02 [financialjuice] Tesla’s Optimus hits snags in its hand manufacturing and suppliers as scale-up begins - The Information.
-- 09/25 22:05 [DeItaone] $TSLA - TESLA ROBOT’S INTRICATE HANDS POSE MAJOR MANUFACTURING AND DURABILITY CHALLENGES - THE INFORMATION TESLA MANAGERS TOLD STAFFERS CO WANTS TO SET UP PRODUCTION LINE CAPABLE OF PRODUCING OVER A THOUSAND ROBOTS A WEEK BY YEAR END- THE I…
-- 09/25 22:07 [FirstSquawk] PERDUE SAYS WE'VE ESTABLISHED AN AI CRISIS MECHANISM WITH CHINA
-- 09/25 22:07 [financialjuice] US Ambassador to China: We've established an AI crisis mechanism with China.
-- 09/25 22:08 [financialjuice] Canada August wholesale sales fell 1.5% MoM- StatCan flash
-- 09/25 22:08 [DeItaone] TREASURY VOLATILITY SURGES AS FED BETS SHIFT U.S. Treasury volatility is heading for its biggest weekly jump in over a year, with the MOVE Index up nearly 30%. Hotter economic data and elevated oil prices have fueled a sharp repricing of Fe…
-- 09/25 22:10 [FirstSquawk] PERDUE SAYS US HASN'T CHANGED POSITION ON ONE CHINA POLICY
-- 09/25 22:11 [financialjuice] US Ambassador to China: The US hasn't changed position on one China policy.
-- 09/25 22:13 [DeItaone] $AAPL - BERNSTEIN WARNS APPLE EARNINGS COULD DISAPPOINT Bernstein sees downside risk to Apple’s December-quarter earnings as sharply higher memory-chip costs pressure iPhone margins. The firm cut its EPS forecast to $2.87 from $3.00, below …
-- 09/25 22:15 [financialjuice] Japan's Fin. Min. Katayama: Markets are 'misunderstanding' weak yen - Kyodo
 - 09/25 22:16 [FirstSquawk] MEXICO-US TO HOLD ROUND OF USMCA TALKS IN 'NEXT WEEKS' - VELASCO
 - 09/25 22:17 [financialjuice] Velasco: Mexico-US to hold round of USMCA talks in the 'next weeks'
 - 09/25 22:17 [FirstSquawk] KATAYAMA SAYS EXCESSIVE YEN SELLING MAY BE CORRECTED - KYODO
@@ -246,3 +233,7 @@
 - 09/26 03:57 [financialjuice] EU Energy Chief in letter to member countries' ministers: We are facing an energy price crisis linked to a supply crisis
 - 09/26 03:58 [financialjuice] EU Energy Chief: The EU is better prepared than in winter 2021, owing to new lng capacity, renewables, and lower gas demand.
 - 09/26 03:59 [financialjuice] EU Energy chief: I invite you to consider extra measures to sustain gas storage injections or reduce gas and power demand.
+- 09/26 04:02 [financialjuice] Iran's President: I welcomes Chinese President Xi's support for the return to the Islamabad Memorandum of Understanding.
+- 09/26 04:02 [FirstSquawk] IRAN'S PRESIDENT SAYS TEHRAN AGREES ON NEED TO RETURN TO ISLAMABAD UNDERSTANDING, HONOR COMMITMENTS
+- 09/26 04:07 [financialjuice] Week Ahead: Economic Indicators 28th September – 2nd October (US)
+- 09/26 04:13 [FirstSquawk] IRAN'S PRESIDENT: WELCOMES XI’S SUPPORT FOR RETURN TO ISLAMABAD MOU

@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-26 04:00 JST／対象: 09/25 16:00 〜 09/26 04:00 JST（時刻はすべて日本時間）
+生成: 2026-09-26 04:16 JST／対象: 09/25 16:16 〜 09/26 04:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 66 | 09/25 19:13 | 09/26 03:09 | ⚠ 92分（19:13→20:46） |
-| FirstSquawk | 138 | 09/25 16:01 | 09/26 03:57 | ⚠ 155分（16:01→18:36） |
-| financialjuice | 194 | 09/25 16:00 | 09/26 03:59 | ⚠ 55分（16:05→17:00） |
+| FirstSquawk | 138 | 09/25 18:36 | 09/26 04:13 | ⚠ 47分（19:02→19:50） |
+| financialjuice | 192 | 09/25 17:00 | 09/26 04:07 | 39分（20:20→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 375 行（統合前 400 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 373 行（統合前 398 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 16:00 [financialjuice] SPANISH GDP QOQ ACTUAL 0.7% (FORECAST 0.7%, PREVIOUS 0.7%) $MACRO
-- 09/25 16:00 [financialjuice] SPANISH GDP YOY ACTUAL 2.6% (FORECAST 2.7%, PREVIOUS 2.7%) $MACRO
-- 09/25 16:01 [FirstSquawk] SPAIN (Q2) GDP YOY YOY ACTUAL: 2.6% VS 2.7% PREVIOUS;EST 2.7%
-- 09/25 16:01 [FirstSquawk] SPAIN (JUL) HOME SALES YOY ACTUAL: -5.1% VS 1.6% PREVIOUS
-- 09/25 16:01 [financialjuice] Currency Strength Chart: Strongest: GBP, AUD, NZD, NZD, GBP, USD, CAD, CHF - Weakest
-- 09/25 16:05 [financialjuice] Trump: China's Xi and I have forged a truly great friendship
 - 09/25 17:00 [financialjuice] EUROZONE LOANS TO HOUSEHOLDS ACTUAL 3.1% (FORECAST -, PREVIOUS 3.1%) $MACRO
 - 09/25 17:00 [financialjuice] EUROZONE LOANS TO NON FINANCIAL FIRMS ACTUAL 4.2% (FORECAST -, PREVIOUS 4.4%) $MACRO
 - 09/25 17:05 [financialjuice] Egypt, Iran foreign ministers discuss proposals for deal.
@@ -399,3 +393,7 @@
 - 09/26 03:57 [financialjuice] EU Energy Chief in letter to member countries' ministers: We are facing an energy price crisis linked to a supply crisis
 - 09/26 03:58 [financialjuice] EU Energy Chief: The EU is better prepared than in winter 2021, owing to new lng capacity, renewables, and lower gas demand.
 - 09/26 03:59 [financialjuice] EU Energy chief: I invite you to consider extra measures to sustain gas storage injections or reduce gas and power demand.
+- 09/26 04:02 [financialjuice] Iran's President: I welcomes Chinese President Xi's support for the return to the Islamabad Memorandum of Understanding.
+- 09/26 04:02 [FirstSquawk] IRAN'S PRESIDENT SAYS TEHRAN AGREES ON NEED TO RETURN TO ISLAMABAD UNDERSTANDING, HONOR COMMITMENTS
+- 09/26 04:07 [financialjuice] Week Ahead: Economic Indicators 28th September – 2nd October (US)
+- 09/26 04:13 [FirstSquawk] IRAN'S PRESIDENT: WELCOMES XI’S SUPPORT FOR RETURN TO ISLAMABAD MOU

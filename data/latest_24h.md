@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-26 04:00 JST／対象: 09/25 04:00 〜 09/26 04:00 JST（時刻はすべて日本時間）
+生成: 2026-09-26 04:16 JST／対象: 09/25 04:16 〜 09/26 04:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 68 | 09/25 04:02 | 09/26 03:09 | ⚠ 681分（07:52→19:13） |
-| FirstSquawk | 282 | 09/25 04:01 | 09/26 03:57 | ⚠ 155分（16:01→18:36） |
-| financialjuice | 251 | 09/25 04:02 | 09/26 03:59 | ⚠ 88分（11:11→12:40） |
+| DeItaone | 67 | 09/25 07:52 | 09/26 03:09 | ⚠ 681分（07:52→19:13） |
+| FirstSquawk | 278 | 09/25 04:49 | 09/26 04:13 | ⚠ 155分（16:01→18:36） |
+| financialjuice | 251 | 09/25 04:18 | 09/26 04:07 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 570 行（統合前 604 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 565 行（統合前 599 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 04:01 [FirstSquawk] ISRAELI PRIME MINISTER NETANYAHU SAYS THE IRANIAN REGIME IS 'ESPECIALLY AFRAID' WHEN ITS PEOPLE HAVE STARLINK, WHICH HE SAYS 'ALLOWS PEOPLE TO ACCESS TRUTH', TELLING TRUMP HE WILL LEAVE THE DEVICE WITH HIM TO GIVE TO THE IRANIAN DELEGATION …
-- 09/25 04:01 [FirstSquawk] NETANYAHU ASKS THE PROTESTERS OUTSIDE AND 'THEIR HYPOCRITICAL DELEGATES WHO LEFT US ALL' WHERE THEY WERE 'WHEN THE IRANIAN TYRANTS BUTCHERED AND MAIMED TENS OF THOUSANDS OF UNARMED IRANIAN CIVILIANS'.
-- 09/25 04:01 [FirstSquawk] NETANYAHU SAYS THAT 'DESPITE YOUR SILENCE, DESPITE YOUR HYPOCRISY, IT'S ONLY A MATTER OF TIME' BEFORE 'SOMETHING INCREDIBLE WILL HAPPEN' IN IRAN, DECLARING THAT 'THE POWER OF THE PEOPLE WILL OVERCOME THE PEOPLE IN POWER' AND THAT 'ONE DAY..…
-- 09/25 04:01 [FirstSquawk] ISRAELI PRIME MINISTER NETANYAHU BECAME THE FIRST WORLD LEADER TO USE TRUMP'S PREFERRED TERM 'SUPERIOR INTELLIGENCE' FOR AI, AND MENTIONED HASAN PIKER DURING HIS UNGA SPEECH WHILE ATTACKING MAYOR MAMDANI
-- 09/25 04:02 [DeItaone] YEMEN'S HOUTHIS SAY THEY ATTACKED SAUDI ARAMCO FACILITIES IN YANBU
-- 09/25 04:02 [financialjuice] Yemen's Houthis: Attacked Saudi Aramco facilities in Yanbu.
-- 09/25 04:02 [FirstSquawk] YEMEN'S HOUTHIS SAY THEY ATTACKED SAUDI ARAMCO FACILITIES IN YANBU, AS WELL AS WHAT THEY CALLED A 'SENSITIVE TARGET' IN THE SAUDI CAPITAL RIYADH
-- 09/25 04:03 [financialjuice] Yemen's Houthis: Attacked a ‘sensitive target’ in Saudi Capital Riyadh.
-- 09/25 04:14 [FirstSquawk] MONEY MARKETS NOW PRICE THREE FED HIKES OVER THE NEXT YEAR AS PERSISTENT INFLATION, GOVERNMENT SPENDING AND AI-RELATED CORPORATE BORROWING DRIVE BOND VOLATILITY; THE S&P 500 WAS LITTLE CHANGED, DOW FELL 0.3%, WTI ROSE 2.9% TO $94.83 AND GOL…
 - 09/25 04:18 [financialjuice] The US files to intervene in the X, Musk, and EU commission cases.
 - 09/25 04:21 [financialjuice/FirstSquawk] NATO Sec. Gen. Rutte: European allies prepared for Russian hybrid attacks.
 - 09/25 04:22 [financialjuice] Friday FX Options Expiries
@@ -594,3 +585,7 @@
 - 09/26 03:57 [financialjuice] EU Energy Chief in letter to member countries' ministers: We are facing an energy price crisis linked to a supply crisis
 - 09/26 03:58 [financialjuice] EU Energy Chief: The EU is better prepared than in winter 2021, owing to new lng capacity, renewables, and lower gas demand.
 - 09/26 03:59 [financialjuice] EU Energy chief: I invite you to consider extra measures to sustain gas storage injections or reduce gas and power demand.
+- 09/26 04:02 [financialjuice] Iran's President: I welcomes Chinese President Xi's support for the return to the Islamabad Memorandum of Understanding.
+- 09/26 04:02 [FirstSquawk] IRAN'S PRESIDENT SAYS TEHRAN AGREES ON NEED TO RETURN TO ISLAMABAD UNDERSTANDING, HONOR COMMITMENTS
+- 09/26 04:07 [financialjuice] Week Ahead: Economic Indicators 28th September – 2nd October (US)
+- 09/26 04:13 [FirstSquawk] IRAN'S PRESIDENT: WELCOMES XI’S SUPPORT FOR RETURN TO ISLAMABAD MOU
