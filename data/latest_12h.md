@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-25 19:58 JST／対象: 09/25 07:58 〜 09/25 19:58 JST（時刻はすべて日本時間）
+生成: 2026-09-25 20:17 JST／対象: 09/25 08:17 〜 09/25 20:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/25 19:13 | 09/25 19:13 | - |
-| FirstSquawk | 125 | 09/25 08:22 | 09/25 19:55 | ⚠ 155分（16:01→18:36） |
-| financialjuice | 75 | 09/25 08:01 | 09/25 19:54 | ⚠ 88分（11:11→12:40） |
+| FirstSquawk | 128 | 09/25 08:22 | 09/25 20:10 | ⚠ 155分（16:01→18:36） |
+| financialjuice | 74 | 09/25 08:28 | 09/25 19:54 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 199 行（統合前 201 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 201 行（統合前 203 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 08:01 [financialjuice] UK GfK consumer confidence index at -13 in September vs -14 in August, highest since August 2024 (poll -16)
 - 09/25 08:22 [FirstSquawk] QATAR: REPEATED ATTACKS BY NETANYAHU APPEAR AIMED AT DEFLECTING POLITICAL RESPONSIBILITY FOR GROUND POLICIES
 - 09/25 08:28 [financialjuice] Saudi Arabia issues warning over possible threat in Jazan
 - 09/25 08:30 [financialjuice] Saudi Arabia civil defence: threat over in Jazan
@@ -223,3 +222,6 @@
 - 09/25 19:54 [financialjuice] Iran President and Qatar PM discussed efforts to de-escalate
 - 09/25 19:55 [FirstSquawk] IRAN'S PRESIDENT AND QATAR'S PRIME MINISTER HOLD A MEETING IN NEW YORK.
 - 09/25 19:55 [FirstSquawk] IRAN'S PRESIDENT AND QATAR'S PM HELD TALKS ON EFFORTS TO REDUCE TENSIONS.
+- 09/25 20:02 [FirstSquawk] J&J REPORTS A 69.2% OVERALL SURVIVAL RATE OVER FIVE YEARS AND A MEDIAN PROGRESSION-FREE SURVIVAL OF 60.5 MONTHS.
+- 09/25 20:10 [FirstSquawk] BASF MAKES TAKEOVER APPROACH FOR CHEMICALS RIVAL EVONIK - FT
+- 09/25 20:10 [FirstSquawk] DOLLAR/YEN EXTENDS FALL, LAST DOWN 0.76% AT 157.66
