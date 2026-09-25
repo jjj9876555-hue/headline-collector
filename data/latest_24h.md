@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-25 14:05 JST／対象: 09/24 14:05 〜 09/25 14:05 JST（時刻はすべて日本時間）
+生成: 2026-09-25 14:24 JST／対象: 09/24 14:24 〜 09/25 14:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 87 | 09/24 21:26 | 09/25 07:52 | ⚠ 230分（04:02→07:52） |
-| FirstSquawk | 357 | 09/24 14:12 | 09/25 14:03 | ⚠ 46分（07:06→07:52） |
-| financialjuice | 244 | 09/24 14:07 | 09/25 13:46 | ⚠ 108分（15:47→17:36） |
+| FirstSquawk | 357 | 09/24 14:32 | 09/25 14:22 | ⚠ 46分（07:06→07:52） |
+| financialjuice | 244 | 09/24 14:25 | 09/25 14:21 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 660 行（統合前 694 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,10 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 14:07 [financialjuice] ‼ BREAKING: SWISS INTEREST RATE ACTUAL 0.00% (FORECAST 0%, PREVIOUS 0.00%) $MACRO
-- 09/24 14:12 [FirstSquawk] Russia says it struck Ukrainian defence facilities, logistics centres and military-use vessels
-- 09/24 14:14 [FirstSquawk] Polish Air Force concludes operations launched in response to Russian strikes on Ukraine
-- 09/24 14:22 [FirstSquawk] US JUDGE ORDERS TRUMP TO RESTORE WHITE HOUSE ACCESS FOR CNN, MS NOW AND POLITICO, RULING MEDIA BAN LIKELY UNCONSTITUTIONAL
 - 09/24 14:25 [financialjuice] Iran: UN team coordinates with relevant authorities - ISNA
 - 09/24 14:32 [FirstSquawk] Tencent unveils payment app for international visitors ahead of APEC summit: SCMP
 - 09/24 14:35 [FirstSquawk] Mercedes plans €800 million reduction in German labour costs, WiWo reports
@@ -684,3 +680,7 @@
 - 09/25 13:47 [FirstSquawk] Credit Suisse reaches settlement with Australian insurer over Greensill - FT
 - 09/25 14:02 [FirstSquawk] Russia says it continued overnight strikes on Ukraine’s defense industry, logistics hubs and vessels
 - 09/25 14:03 [FirstSquawk] Explosion reported near central Kyiv amid Russian drone attack, Reuters witness says
+- 09/25 14:18 [FirstSquawk] Chevron price target raised to $250 from $218 by HSBC
+- 09/25 14:18 [FirstSquawk] BP price target raised to 640p from 570p by HSBC
+- 09/25 14:21 [financialjuice] JAPANESE CHAIN STORE SALES YOY ACTUAL 0% (FORECAST -, PREVIOUS 0%) $MACRO
+- 09/25 14:22 [FirstSquawk] 5-year JGB yield climbs 3.5 basis points to 2.410%

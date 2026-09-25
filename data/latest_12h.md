@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-25 14:05 JST／対象: 09/25 02:05 〜 09/25 14:05 JST（時刻はすべて日本時間）
+生成: 2026-09-25 14:24 JST／対象: 09/25 02:24 〜 09/25 14:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 16 | 09/25 02:07 | 09/25 07:52 | ⚠ 230分（04:02→07:52） |
-| FirstSquawk | 149 | 09/25 02:36 | 09/25 14:03 | ⚠ 46分（07:06→07:52） |
-| financialjuice | 68 | 09/25 02:08 | 09/25 13:46 | ⚠ 88分（11:11→12:40） |
+| DeItaone | 13 | 09/25 02:39 | 09/25 07:52 | ⚠ 230分（04:02→07:52） |
+| FirstSquawk | 152 | 09/25 02:36 | 09/25 14:22 | ⚠ 46分（07:06→07:52） |
+| financialjuice | 67 | 09/25 02:29 | 09/25 14:21 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 222 行（統合前 236 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 222 行（統合前 234 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 02:07 [DeItaone/financialjuice] TRUMP: WE HAD A GREAT MEETING
-- 09/25 02:10 [DeItaone] TRUMP TAKES CHINA'S XI INSIDE PRESIDENTIAL HELICOPTER
-- 09/25 02:10 [financialjuice] Trump takes China's Xi inside the Presidential Helicopter.
-- 09/25 02:16 [DeItaone] FED HIKE EXPECTATIONS SURGE Kalshi now forecasts 2.4 Fed rate hikes this year, up sharply from around 2.1 earlier this week. The jump signals a significant hawkish repricing of Fed expectations. https://t.co/mE21ntaTcP
 - 09/25 02:29 [financialjuice] China's Xi leaves white house after meetings with Trump.
 - 09/25 02:36 [FirstSquawk] ISRAELI OFFICIAL SAYS CHANCE OF US-IRAN DEAL IS SMALL - JPOST
 - 09/25 02:39 [DeItaone] BP EYES $2–5 BILLION U.S. SHALE DEAL BP is evaluating acquisitions to expand its U.S. shale business, according to Reuters sources. The company has reportedly studied oil-heavy shale assets worth $2–5 billion and is considering a bid for De…
@@ -246,3 +242,7 @@
 - 09/25 13:47 [FirstSquawk] Credit Suisse reaches settlement with Australian insurer over Greensill - FT
 - 09/25 14:02 [FirstSquawk] Russia says it continued overnight strikes on Ukraine’s defense industry, logistics hubs and vessels
 - 09/25 14:03 [FirstSquawk] Explosion reported near central Kyiv amid Russian drone attack, Reuters witness says
+- 09/25 14:18 [FirstSquawk] Chevron price target raised to $250 from $218 by HSBC
+- 09/25 14:18 [FirstSquawk] BP price target raised to 640p from 570p by HSBC
+- 09/25 14:21 [financialjuice] JAPANESE CHAIN STORE SALES YOY ACTUAL 0% (FORECAST -, PREVIOUS 0%) $MACRO
+- 09/25 14:22 [FirstSquawk] 5-year JGB yield climbs 3.5 basis points to 2.410%
