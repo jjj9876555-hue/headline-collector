@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-26 03:26 JST／対象: 09/25 21:26 〜 09/26 03:26 JST（時刻はすべて日本時間）
+生成: 2026-09-26 03:45 JST／対象: 09/25 21:45 〜 09/26 03:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 54 | 09/25 21:30 | 09/26 03:09 | ⚠ 71分（00:09→01:20） |
-| FirstSquawk | 85 | 09/25 21:32 | 09/26 03:26 | 35分（00:26→01:01） |
-| financialjuice | 110 | 09/25 21:30 | 09/26 03:23 | 34分（02:18→02:52） |
+| DeItaone | 52 | 09/25 21:45 | 09/26 03:09 | ⚠ 71分（00:09→01:20） |
+| FirstSquawk | 87 | 09/25 21:46 | 09/26 03:42 | 35分（00:26→01:01） |
+| financialjuice | 118 | 09/25 21:46 | 09/26 03:43 | 34分（02:18→02:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 236 行（統合前 250 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 243 行（統合前 258 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 21:30 [DeItaone] US AUG DURABLES ORDERS UNCHANGED (CONSENSUS -0.4%)
-- 09/25 21:30 [financialjuice] US CORE DURABLE GOODS ACTUAL 0.3% (FORECAST 0.6%, PREVIOUS 0.4%) $MACRO
-- 09/25 21:30 [financialjuice] ❗ US DURABLE GOODS ACTUAL 0% (FORECAST -0.3%, PREVIOUS 1.1%) $MACRO
-- 09/25 21:32 [FirstSquawk] US DURABLE GOODS ORDERS (M/M) AUG P: 0.0% (EST -0.3%; PREV 1.1%; PREVR 0.9%) || DURABLES EX-TRANSPORTATION (M/M): 0.3% (EST 0.6%; PREV 0.4%)
-- 09/25 21:32 [financialjuice] US Durable Goods August Report
-- 09/25 21:32 [FirstSquawk] BURNHAM PLANS FIRST BERLIN VISIT FOR TALKS WITH MERZ - POLITICO
-- 09/25 21:33 [DeItaone] YIELD ON 30-YEAR U.S. TREASURY BONDS LAST UP 1.85 BASIS POINTS AT 5.481% U.S. TREASURY YIELDS RISE AFTER DURABLE GOODS DATA; YIELD ON 10-YEAR TREASURY NOTE LAST UP 2.36 BASIS POINTS AT 5.186%
-- 09/25 21:44 [FirstSquawk] CHINA, US IN A MANAGED TRADE SITUATION, HAD PROGRESS - GREER
-- 09/25 21:45 [financialjuice] USTR Greer: China, US in a managed trade situation, had progress.
-- 09/25 21:45 [financialjuice] USTR's Greer: We will release on Monday details on negotiations with China and the US -CNBC
 - 09/25 21:45 [DeItaone/financialjuice] USTR GREER: WE HAVE REACHED AGREEMENTS WITH CHINA ON SUBSET OF GOODS WE CAN TRADE
 - 09/25 21:45 [DeItaone] GAZPROM INCREASED GAS PRODUCTION BY 3.4% IN THE FIRST HALF OF THE YEAR, TO 216.55 BILLION CUBIC METERS - IFX
 - 09/25 21:46 [FirstSquawk] GREER SAYS WILL RELEASE DETAILS ON CHINA TRADE TALKS ON MONDAY
@@ -260,3 +250,20 @@
 - 09/26 03:23 [financialjuice] Fed's Hammack: Underlying inflation is likely above target
 - 09/26 03:24 [FirstSquawk] FED'S HAMMACK: UNDERLYING INFLATION LIKELY ABOVE TARGET
 - 09/26 03:26 [FirstSquawk] BLACKSTONE’S TOP PRIVATE-EQUITY EXECUTIVE IS PREPARING TO LEAVE FIRM – WSJ
+- 09/26 03:28 [FirstSquawk] IRAN DENIES REPORTS OF US-IRAN TALKS, CALLS THEM MARKET MANAGEMENT - FARS
+- 09/26 03:28 [financialjuice] ❗ Fars News: Axios and Al Jazeera's claims about Iran-US talks are false.
+- 09/26 03:28 [financialjuice/FirstSquawk] Fed's Hammack: Sides of Fed mandates are generally not in conflict
+- 09/26 03:29 [financialjuice] Fed's Hammack: Persistently high inflation has 'real costs', pressures wages
+- 09/26 03:30 [financialjuice] Fed's Hammack: High inflation complicates economic planning
+- 09/26 03:31 [FirstSquawk] US CRUDE OIL FUTURES SETTLE AT $92.41/BBL, DOWN $2.20, 2.33%
+- 09/26 03:31 [financialjuice] ❗ Fars News, citing an informed source: The news coverage by Western media outlets, including Axios, about another round of negotiations is false and is designed more to manage the market and oil prices.
+- 09/26 03:31 [financialjuice] NYMEX WTI Crude November futures settle at $92.41 a barrel, down $2.20, 2.33%.
+- 09/26 03:31 [financialjuice] NYMEX Gasoline October futures settle at $3.3934 a gallon.
+- 09/26 03:31 [financialjuice] NYMEX Diesel October futures settle at $4.6847 a gallon.
+- 09/26 03:32 [financialjuice] Fed's Hammack: Fed policy is not restraining activity outside of housing
+- 09/26 03:32 [financialjuice] NYMEX Natural Gas October futures settle at $3.1960/MMBtu.
+- 09/26 03:33 [financialjuice] Fed's Hammack: Don't see current policy as restraining the economy
+- 09/26 03:36 [FirstSquawk] FED'S HAMMACK: POLICY ISN’T RESTRAINING ACTIVITY OUTSIDE OF HOUSING
+- 09/26 03:41 [financialjuice] White House considers passing the diesel issue to the States, eyeing a move that falls short of an export ban - Politico.
+- 09/26 03:42 [FirstSquawk] WHITE HOUSE CONSIDERS PASSING DIESEL ISSUE TO STATES: POLITICO
+- 09/26 03:43 [financialjuice] Trump expected to announce Diesel policy soon as Friday - Politico

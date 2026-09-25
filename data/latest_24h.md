@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-26 03:26 JST／対象: 09/25 03:26 〜 09/26 03:26 JST（時刻はすべて日本時間）
+生成: 2026-09-26 03:45 JST／対象: 09/25 03:45 〜 09/26 03:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 71 | 09/25 03:30 | 09/26 03:09 | ⚠ 681分（07:52→19:13） |
-| FirstSquawk | 283 | 09/25 03:27 | 09/26 03:26 | ⚠ 155分（16:01→18:36） |
-| financialjuice | 231 | 09/25 03:27 | 09/26 03:23 | ⚠ 88分（11:11→12:40） |
+| DeItaone | 70 | 09/25 03:51 | 09/26 03:09 | ⚠ 681分（07:52→19:13） |
+| FirstSquawk | 281 | 09/25 03:57 | 09/26 03:42 | ⚠ 155分（16:01→18:36） |
+| financialjuice | 242 | 09/25 03:55 | 09/26 03:43 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 555 行（統合前 589 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 563 行（統合前 597 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 03:27 [financialjuice] French President Macron: Maybe we could think about releasing strategic oil reserves in a coordinated way.
-- 09/25 03:27 [FirstSquawk] NETANYAHU: ACCUSES SEVERAL FOREIGN COUNTRIES OF SPENDING BILLIONS TO PROMOTE WHAT HE CALLS FALSE NARRATIVES ABOUT ISRAEL
-- 09/25 03:28 [financialjuice/DeItaone] French President macron: US decision to ban diesel exports would be bad.
-- 09/25 03:29 [FirstSquawk] NETANYAHU ACCUSES QATAR OF TRYING TO INDOCTRINATE YOUNG PEOPLE AGAINST ISRAEL & AMERICA
-- 09/25 03:29 [FirstSquawk] NETANYAHU CALLS TURKISH PRESIDENT ERDOGAN A “TYRANT”
-- 09/25 03:31 [FirstSquawk] NETANYAHU REJECTS ACCUSATIONS THAT ISRAEL IS COMMITTING GENOCIDE IN GAZA
-- 09/25 03:34 [FirstSquawk] NETANYAHU TO THOSE ACCUSING ISRAEL OF GENOCIDE, INCLUDING NEW YORK MAYOR: “SHAME ON YOU”
-- 09/25 03:36 [FirstSquawk] NETANYAHU TO MAMDANI: “YOU CAN’T SILENCE ME”; SAYS ISRAEL “PREVENTED GENOCIDE”
-- 09/25 03:37 [FirstSquawk] NETANYAHU: ACCUSES SOME WESTERN EUROPEAN LEADERS OF “SUCCUMBING TO ANTI-SEMITIC MOBS”
 - 09/25 03:51 [DeItaone] SOME 60 COMMERCIAL VESSELS TRANSITED THE STRAIT OF HORMUZ ON WEDNESDAY CARRYING THE HIGHEST DAILY VOLUME OF CRUDE SINCE EARLY JULY, US DEFENSE OFFICIAL TELLS REUTERS
 - 09/25 03:55 [DeItaone] ABOUT 40 OF WEDNESDAY'S VESSELS THAT TRANSITED THE STRAIT OF HORMUZ COORDINATED WITH THE US MILITARY FOR PROTECTION, US OFFICIAL TELLS REUTERS
 - 09/25 03:55 [financialjuice] Brent crude futures settle at $106.60/bbl, up $3.52, 3.41%.
@@ -579,3 +570,20 @@
 - 09/26 03:23 [financialjuice] Fed's Hammack: Underlying inflation is likely above target
 - 09/26 03:24 [FirstSquawk] FED'S HAMMACK: UNDERLYING INFLATION LIKELY ABOVE TARGET
 - 09/26 03:26 [FirstSquawk] BLACKSTONE’S TOP PRIVATE-EQUITY EXECUTIVE IS PREPARING TO LEAVE FIRM – WSJ
+- 09/26 03:28 [FirstSquawk] IRAN DENIES REPORTS OF US-IRAN TALKS, CALLS THEM MARKET MANAGEMENT - FARS
+- 09/26 03:28 [financialjuice] ❗ Fars News: Axios and Al Jazeera's claims about Iran-US talks are false.
+- 09/26 03:28 [financialjuice/FirstSquawk] Fed's Hammack: Sides of Fed mandates are generally not in conflict
+- 09/26 03:29 [financialjuice] Fed's Hammack: Persistently high inflation has 'real costs', pressures wages
+- 09/26 03:30 [financialjuice] Fed's Hammack: High inflation complicates economic planning
+- 09/26 03:31 [FirstSquawk] US CRUDE OIL FUTURES SETTLE AT $92.41/BBL, DOWN $2.20, 2.33%
+- 09/26 03:31 [financialjuice] ❗ Fars News, citing an informed source: The news coverage by Western media outlets, including Axios, about another round of negotiations is false and is designed more to manage the market and oil prices.
+- 09/26 03:31 [financialjuice] NYMEX WTI Crude November futures settle at $92.41 a barrel, down $2.20, 2.33%.
+- 09/26 03:31 [financialjuice] NYMEX Gasoline October futures settle at $3.3934 a gallon.
+- 09/26 03:31 [financialjuice] NYMEX Diesel October futures settle at $4.6847 a gallon.
+- 09/26 03:32 [financialjuice] Fed's Hammack: Fed policy is not restraining activity outside of housing
+- 09/26 03:32 [financialjuice] NYMEX Natural Gas October futures settle at $3.1960/MMBtu.
+- 09/26 03:33 [financialjuice] Fed's Hammack: Don't see current policy as restraining the economy
+- 09/26 03:36 [FirstSquawk] FED'S HAMMACK: POLICY ISN’T RESTRAINING ACTIVITY OUTSIDE OF HOUSING
+- 09/26 03:41 [financialjuice] White House considers passing the diesel issue to the States, eyeing a move that falls short of an export ban - Politico.
+- 09/26 03:42 [FirstSquawk] WHITE HOUSE CONSIDERS PASSING DIESEL ISSUE TO STATES: POLITICO
+- 09/26 03:43 [financialjuice] Trump expected to announce Diesel policy soon as Friday - Politico
