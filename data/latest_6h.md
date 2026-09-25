@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-25 09:47 JST／対象: 09/25 03:47 〜 09/25 09:47 JST（時刻はすべて日本時間）
+生成: 2026-09-25 10:00 JST／対象: 09/25 04:00 〜 09/25 10:00 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 4 | 09/25 03:51 | 09/25 07:52 | ⚠ 230分（04:02→07:52） |
-| FirstSquawk | 78 | 09/25 03:57 | 09/25 09:42 | ⚠ 46分（07:06→07:52） |
-| financialjuice | 42 | 09/25 03:55 | 09/25 09:15 | 40分（06:04→06:44） |
+| DeItaone | 2 | 09/25 04:02 | 09/25 07:52 | ⚠ 230分（04:02→07:52） |
+| FirstSquawk | 79 | 09/25 04:01 | 09/25 09:56 | ⚠ 46分（07:06→07:52） |
+| financialjuice | 39 | 09/25 04:02 | 09/25 09:15 | 40分（06:04→06:44） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 116 行（統合前 126 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 112 行（統合前 121 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 03:51 [DeItaone] SOME 60 COMMERCIAL VESSELS TRANSITED THE STRAIT OF HORMUZ ON WEDNESDAY CARRYING THE HIGHEST DAILY VOLUME OF CRUDE SINCE EARLY JULY, US DEFENSE OFFICIAL TELLS REUTERS
-- 09/25 03:55 [DeItaone] ABOUT 40 OF WEDNESDAY'S VESSELS THAT TRANSITED THE STRAIT OF HORMUZ COORDINATED WITH THE US MILITARY FOR PROTECTION, US OFFICIAL TELLS REUTERS
-- 09/25 03:55 [financialjuice] Brent crude futures settle at $106.60/bbl, up $3.52, 3.41%.
-- 09/25 03:55 [financialjuice] US Defense Official: Some 60 commercial vessels transited the strait of hormuz on Wednesday carrying the highest daily volume of Crude since early July.
-- 09/25 03:55 [financialjuice] France’s President Macron: I want the G7 to discuss the release of strategic oil.
-- 09/25 03:57 [FirstSquawk] US DEFENSE OFFICIAL: ABOUT 40 OF WEDNESDAY'S VESSELS THAT TRANSITED THE STRAIT OF HORMUZ COORDINATED WITH THE US MILITARY FOR PROTECTION.
-- 09/25 03:57 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 2.66% HIGHER AT $94.61/BBL, UP $2.45
-- 09/25 03:57 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 3.41% HIGHER AT $106.60/BBL, UP $3.52
 - 09/25 04:01 [FirstSquawk] ISRAELI PRIME MINISTER NETANYAHU SAYS THE IRANIAN REGIME IS 'ESPECIALLY AFRAID' WHEN ITS PEOPLE HAVE STARLINK, WHICH HE SAYS 'ALLOWS PEOPLE TO ACCESS TRUTH', TELLING TRUMP HE WILL LEAVE THE DEVICE WITH HIM TO GIVE TO THE IRANIAN DELEGATION …
 - 09/25 04:01 [FirstSquawk] NETANYAHU ASKS THE PROTESTERS OUTSIDE AND 'THEIR HYPOCRITICAL DELEGATES WHO LEFT US ALL' WHERE THEY WERE 'WHEN THE IRANIAN TYRANTS BUTCHERED AND MAIMED TENS OF THOUSANDS OF UNARMED IRANIAN CIVILIANS'.
 - 09/25 04:01 [FirstSquawk] NETANYAHU SAYS THAT 'DESPITE YOUR SILENCE, DESPITE YOUR HYPOCRISY, IT'S ONLY A MATTER OF TIME' BEFORE 'SOMETHING INCREDIBLE WILL HAPPEN' IN IRAN, DECLARING THAT 'THE POWER OF THE PEOPLE WILL OVERCOME THE PEOPLE IN POWER' AND THAT 'ONE DAY..…
@@ -140,3 +132,7 @@
 - 09/25 09:41 [FirstSquawk] FED CHAIR WARSH IS LISTED AMONG THE WHITE HOUSE STATE DINNER ATTENDEES, WITH THE GUEST LIST ALSO INCLUDING DAVID ELLISON, GOLDMAN SACHS' SOLOMON, LVMH CEO ARNAULT AND BLACKSTONE'S SCHWARZMAN
 - 09/25 09:42 [FirstSquawk] Gold retreats amid rising expectations for another Fed rate increase - WSJ
 - 09/25 09:42 [FirstSquawk] Jeff Bezos Has Poured $30 Billion of His Wealth Into Blue Origin - WSJ
+- 09/25 09:47 [FirstSquawk] Suzuki Motor to raise development efficiency 30% and production efficiency 50% as it targets shorter vehicle development times
+- 09/25 09:48 [FirstSquawk] 10-year Japanese government bond yield rises to 3.115%, up 4.0 basis points
+- 09/25 09:51 [FirstSquawk] 40-year JGB yield climbs 5.5 basis points to 4.255%
+- 09/25 09:56 [FirstSquawk] Yen extends decline as Tokyo reiterates warning while refraining from intervention - FX

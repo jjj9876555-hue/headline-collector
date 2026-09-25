@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-25 09:47 JST／対象: 09/24 09:47 〜 09/25 09:47 JST（時刻はすべて日本時間）
+生成: 2026-09-25 10:00 JST／対象: 09/24 10:00 〜 09/25 10:00 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 87 | 09/24 21:26 | 09/25 07:52 | ⚠ 230分（04:02→07:52） |
-| FirstSquawk | 376 | 09/24 09:52 | 09/25 09:42 | ⚠ 46分（07:06→07:52） |
+| FirstSquawk | 377 | 09/24 10:01 | 09/25 09:56 | ⚠ 46分（07:06→07:52） |
 | financialjuice | 257 | 09/24 10:01 | 09/25 09:15 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 692 行（統合前 726 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 693 行（統合前 727 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 09:52 [FirstSquawk] Australia condemns ‘unacceptable’ OpenAI breach of government health portal - SCMP
-- 09/24 09:56 [FirstSquawk] OpenAI breach had minor impact, Australia Defence Minister says
-- 09/24 09:58 [FirstSquawk] OpenAI cooperating with Australian government over breach, Defence Minister says
 - 09/24 10:01 [financialjuice] Taiwan overnight interbank rate starts at 0.804% (unchanged from prior session)
 - 09/24 10:01 [FirstSquawk] Taiwan overnight rate steady at 0.804% at the start of the session
 - 09/24 10:02 [FirstSquawk] Oil industry leaders launched a contingency plan to oppose restrictions on U.S. diesel exports, WSJ says
@@ -716,3 +713,7 @@
 - 09/25 09:41 [FirstSquawk] FED CHAIR WARSH IS LISTED AMONG THE WHITE HOUSE STATE DINNER ATTENDEES, WITH THE GUEST LIST ALSO INCLUDING DAVID ELLISON, GOLDMAN SACHS' SOLOMON, LVMH CEO ARNAULT AND BLACKSTONE'S SCHWARZMAN
 - 09/25 09:42 [FirstSquawk] Gold retreats amid rising expectations for another Fed rate increase - WSJ
 - 09/25 09:42 [FirstSquawk] Jeff Bezos Has Poured $30 Billion of His Wealth Into Blue Origin - WSJ
+- 09/25 09:47 [FirstSquawk] Suzuki Motor to raise development efficiency 30% and production efficiency 50% as it targets shorter vehicle development times
+- 09/25 09:48 [FirstSquawk] 10-year Japanese government bond yield rises to 3.115%, up 4.0 basis points
+- 09/25 09:51 [FirstSquawk] 40-year JGB yield climbs 5.5 basis points to 4.255%
+- 09/25 09:56 [FirstSquawk] Yen extends decline as Tokyo reiterates warning while refraining from intervention - FX

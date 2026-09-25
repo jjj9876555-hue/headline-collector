@@ -7,45 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-25 09:47 JST／対象: 09/24 21:47 〜 09/25 09:47 JST（時刻はすべて日本時間）
+生成: 2026-09-25 10:00 JST／対象: 09/24 22:00 〜 09/25 10:00 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 71 | 09/24 21:51 | 09/25 07:52 | ⚠ 230分（04:02→07:52） |
-| FirstSquawk | 194 | 09/24 21:47 | 09/25 09:42 | ⚠ 46分（07:06→07:52） |
-| financialjuice | 165 | 09/24 21:47 | 09/25 09:15 | 40分（06:04→06:44） |
+| DeItaone | 69 | 09/24 22:02 | 09/25 07:52 | ⚠ 230分（04:02→07:52） |
+| FirstSquawk | 188 | 09/24 22:01 | 09/25 09:56 | ⚠ 46分（07:06→07:52） |
+| financialjuice | 155 | 09/24 22:00 | 09/25 09:15 | 40分（06:04→06:44） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 411 行（統合前 436 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 393 行（統合前 418 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 21:47 [FirstSquawk] RADEV SAYS ECB TASK IS TO JUDGE IS SHOCK WILL BROADEN FROM ENERGY
-- 09/24 21:47 [financialjuice] ECB's Radev: Not seeing broad-based second-round effects
-- 09/24 21:47 [FirstSquawk] RADEV SAYS RISKS TO INFLATION TILTED TO UPSIDE, GROWTH TO DOWNSIDE
-- 09/24 21:48 [FirstSquawk] ECB’S RADEV SAYS NOT SEEING BROAD-BASED SECOND-ROUND EFFECTS
-- 09/24 21:48 [FirstSquawk] FED'S BARKIN SAYS INFLATION'S PERSISTENCE CLEARER THIS SUMMER
-- 09/24 21:48 [financialjuice] Russian economy ministry sees Urals oil price at $53/bbl in 2027 (previous forecast: $50/bbl).
-- 09/24 21:48 [financialjuice] Fed's Barkin: Inflation's persistence is clearer this summer.
-- 09/24 21:51 [financialjuice] Fed's Barkin: The labor market is stable, but new job growth remains slow.
-- 09/24 21:51 [DeItaone] BARKIN: INFLATION'S PERSISTENCE IS CLEARER THIS SUMMER
-- 09/24 21:53 [FirstSquawk] FED’S BARKIN: LABOR MARKET STABLE BUT NEW JOB GROWTH REMAINS SLOW
-- 09/24 21:53 [FirstSquawk] FED'S HAMMACK SAYS PRICE STABILITY IS RESPONSIBILITY OF CENTRAL BANKS
-- 09/24 21:54 [DeItaone] FED'S HAMMACK: INFLATION RISK TILTED TOWARD UPSIDE
-- 09/24 21:54 [financialjuice] Fed's Hammack: Inflation remains elevated amid solid output demand.
-- 09/24 21:54 [financialjuice] Fed's Hammack: Inflation risk is tilted toward upside
-- 09/24 21:54 [financialjuice] Fed's Hammack: Supply shocks are a notable challenge for fed policy right now.
-- 09/24 21:55 [financialjuice] Fed's Hammack: The longer inflation remains high, the harder it is to bring it back to target
-- 09/24 21:55 [FirstSquawk] HAMMACK: INFLATION REMAINS ELEVATED AMID SOLID OUTPUT DEMAND
-- 09/24 21:55 [FirstSquawk] HAMMACK: INFLATION RISK TILTED TOWARD UPSIDE
-- 09/24 21:56 [FirstSquawk] HAMMACK: SUPPLY SHOCKS A NOTABLE CHALLENGE FOR FED POLICY RIGHT NOW
-- 09/24 21:56 [FirstSquawk] HAMMACK: THE LONGER INFLATION REMAINS HIGH, THE HARDER IT IS TO BRING IT BACK TO TARGET
-- 09/24 21:56 [financialjuice] Fed's Hammack: The labor market remains close to maximum employment.
-- 09/24 21:56 [financialjuice] Fed's Hammack: Inflation outlook remains highly uncertain
 - 09/24 22:00 [financialjuice] Effective Fed Funds Rate 3.88% September 23 vs 3.88% September 22.
 - 09/24 22:01 [FirstSquawk] AMAZON TO SPEND ~$100M ON ROBOTICS-MANUFACTURING FACILITY: WSJ
 - 09/24 22:01 [FirstSquawk] AMAZON TO OPEN OVER $100M ROBOTICS PLANT IN INDIANA: WSJ
@@ -435,3 +413,7 @@
 - 09/25 09:41 [FirstSquawk] FED CHAIR WARSH IS LISTED AMONG THE WHITE HOUSE STATE DINNER ATTENDEES, WITH THE GUEST LIST ALSO INCLUDING DAVID ELLISON, GOLDMAN SACHS' SOLOMON, LVMH CEO ARNAULT AND BLACKSTONE'S SCHWARZMAN
 - 09/25 09:42 [FirstSquawk] Gold retreats amid rising expectations for another Fed rate increase - WSJ
 - 09/25 09:42 [FirstSquawk] Jeff Bezos Has Poured $30 Billion of His Wealth Into Blue Origin - WSJ
+- 09/25 09:47 [FirstSquawk] Suzuki Motor to raise development efficiency 30% and production efficiency 50% as it targets shorter vehicle development times
+- 09/25 09:48 [FirstSquawk] 10-year Japanese government bond yield rises to 3.115%, up 4.0 basis points
+- 09/25 09:51 [FirstSquawk] 40-year JGB yield climbs 5.5 basis points to 4.255%
+- 09/25 09:56 [FirstSquawk] Yen extends decline as Tokyo reiterates warning while refraining from intervention - FX
