@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-25 20:17 JST／対象: 09/25 14:17 〜 09/25 20:17 JST（時刻はすべて日本時間）
+生成: 2026-09-25 20:34 JST／対象: 09/25 14:34 〜 09/25 20:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/25 19:13 | 09/25 19:13 | - |
-| FirstSquawk | 43 | 09/25 14:18 | 09/25 20:10 | ⚠ 155分（16:01→18:36） |
-| financialjuice | 47 | 09/25 14:21 | 09/25 19:54 | ⚠ 59分（15:00→16:00） |
+| FirstSquawk | 42 | 09/25 14:48 | 09/25 20:20 | ⚠ 155分（16:01→18:36） |
+| financialjuice | 47 | 09/25 15:00 | 09/25 20:20 | ⚠ 59分（15:00→16:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 90 行（統合前 91 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 89 行（統合前 90 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 14:18 [FirstSquawk] Chevron price target raised to $250 from $218 by HSBC
-- 09/25 14:18 [FirstSquawk] BP price target raised to 640p from 570p by HSBC
-- 09/25 14:21 [financialjuice] JAPANESE CHAIN STORE SALES YOY ACTUAL 0% (FORECAST -, PREVIOUS 0%) $MACRO
-- 09/25 14:22 [FirstSquawk] 5-year JGB yield climbs 3.5 basis points to 2.410%
 - 09/25 14:48 [FirstSquawk] US crude futures decline 2%
 - 09/25 14:52 [FirstSquawk] Japan Nationwide Department Store Sales (Y/Y) Aug: 2.6% (prev 5.1%) - Tokyo Department Store Sales (Y/Y): 5.7% (prev 9.0%)
 - 09/25 15:00 [financialjuice] SWEDISH PPI MOM ACTUAL 0.9% (FORECAST -, PREVIOUS 0.1%) $MACRO
@@ -114,3 +110,6 @@
 - 09/25 20:02 [FirstSquawk] J&J REPORTS A 69.2% OVERALL SURVIVAL RATE OVER FIVE YEARS AND A MEDIAN PROGRESSION-FREE SURVIVAL OF 60.5 MONTHS.
 - 09/25 20:10 [FirstSquawk] BASF MAKES TAKEOVER APPROACH FOR CHEMICALS RIVAL EVONIK - FT
 - 09/25 20:10 [FirstSquawk] DOLLAR/YEN EXTENDS FALL, LAST DOWN 0.76% AT 157.66
+- 09/25 20:19 [FirstSquawk] META: DEUTSCHE BANK RAISES TARGET PRICE TO $820 FROM $750
+- 09/25 20:20 [FirstSquawk] INTERNATIONAL CRIMINAL COURT IS INSULATED AGAINST US SANCTIONS, SAYS DEPUTY PROSECUTOR- FT
+- 09/25 20:20 [financialjuice] International Criminal Court is insulated against US sanctions, according to deputy prosecutor - FT

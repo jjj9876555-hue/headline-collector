@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-25 20:17 JST／対象: 09/24 20:17 〜 09/25 20:17 JST（時刻はすべて日本時間）
+生成: 2026-09-25 20:34 JST／対象: 09/24 20:34 〜 09/25 20:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 88 | 09/24 21:26 | 09/25 19:13 | ⚠ 681分（07:52→19:13） |
-| FirstSquawk | 308 | 09/24 20:25 | 09/25 20:10 | ⚠ 155分（16:01→18:36） |
-| financialjuice | 252 | 09/24 20:25 | 09/25 19:54 | ⚠ 88分（11:11→12:40） |
+| FirstSquawk | 306 | 09/24 20:34 | 09/25 20:20 | ⚠ 155分（16:01→18:36） |
+| financialjuice | 252 | 09/24 20:56 | 09/25 20:20 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 623 行（統合前 654 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 622 行（統合前 652 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 20:25 [FirstSquawk] TRUMP SAYS ON AI: SUPER INTELLIGENCE (SI) WILL BE A BIG TOPIC OF DISCUSSION, BUT I WANT TO LEAVE IT EXACTLY WHERE IT IS.
-- 09/24 20:25 [financialjuice/FirstSquawk] Trump on Truth Social: A big day with President Xi of China. Super Intelligence (SI) will be a big topic of discussion, but I want to leave it exactly where it is. That is China’s position also.
-- 09/24 20:29 [FirstSquawk] US TRUMP SAYS US, CHINA WANT TO LEAVE AI 'EXACTLY WHERE IT IS'
-- 09/24 20:31 [FirstSquawk] QUALCOMM RENEWS GLOBAL PATENT LICENSE PACT WITH APPLE
 - 09/24 20:34 [FirstSquawk] OVER £30BN IN UK DEFENCE CONTRACTS HAVE BEEN GIVEN TO FOREIGN SUPPLIERS IN THE LAST FIVE YEARS, YET THEY ARE RECORDED AS UK INVESTMENT.
 - 09/24 20:41 [FirstSquawk] UKRAINE DELEGATION IS ON ITS WAY BACK FROM US - ZELENSKYY AIDE
 - 09/24 20:43 [FirstSquawk] USD/JPY EXTENDS GAINS A FIFTH DAY, RISES 0.4% TO 158.88
@@ -647,3 +643,6 @@
 - 09/25 20:02 [FirstSquawk] J&J REPORTS A 69.2% OVERALL SURVIVAL RATE OVER FIVE YEARS AND A MEDIAN PROGRESSION-FREE SURVIVAL OF 60.5 MONTHS.
 - 09/25 20:10 [FirstSquawk] BASF MAKES TAKEOVER APPROACH FOR CHEMICALS RIVAL EVONIK - FT
 - 09/25 20:10 [FirstSquawk] DOLLAR/YEN EXTENDS FALL, LAST DOWN 0.76% AT 157.66
+- 09/25 20:19 [FirstSquawk] META: DEUTSCHE BANK RAISES TARGET PRICE TO $820 FROM $750
+- 09/25 20:20 [FirstSquawk] INTERNATIONAL CRIMINAL COURT IS INSULATED AGAINST US SANCTIONS, SAYS DEPUTY PROSECUTOR- FT
+- 09/25 20:20 [financialjuice] International Criminal Court is insulated against US sanctions, according to deputy prosecutor - FT
