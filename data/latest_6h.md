@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-25 18:35 JST／対象: 09/25 12:35 〜 09/25 18:35 JST（時刻はすべて日本時間）
+生成: 2026-09-25 18:52 JST／対象: 09/25 12:52 〜 09/25 18:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 37 | 09/25 12:38 | 09/25 16:01 | 25分（14:22→14:48） |
-| financialjuice | 28 | 09/25 12:40 | 09/25 18:34 | ⚠ 59分（15:00→16:00） |
+| FirstSquawk | 42 | 09/25 12:53 | 09/25 18:48 | ⚠ 155分（16:01→18:36） |
+| financialjuice | 35 | 09/25 13:09 | 09/25 18:50 | ⚠ 59分（15:00→16:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 65 行（統合前 65 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 76 行（統合前 77 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 12:38 [FirstSquawk] Thailand’s exports projected to rise through year-end, says Commerce Ministry
-- 09/25 12:40 [financialjuice] strait of hormuz commodity vessel crossings drop to single digits, preliminary shiptracking data shows
-- 09/25 12:45 [FirstSquawk] Strait of Hormuz sees commodity vessel crossings fall to single digits, preliminary data indicates
-- 09/25 12:51 [FirstSquawk] 2-year JGB yield climbs 3.0 basis points to 1.930%
 - 09/25 12:53 [FirstSquawk] Thailand’s exports could grow 15% this year, Commerce Ministry says
 - 09/25 13:00 [FirstSquawk] Mizuho Markets Cayman’s $25 million guaranteed senior notes receive ‘A’ rating from Fitch
 - 09/25 13:05 [FirstSquawk] Jefferies lifts GoDaddy price target to $100 from $85
@@ -89,3 +85,18 @@
 - 09/25 18:33 [financialjuice] BoE Gov. Bailey: The longer we go on with high energy prices, the harder it gets to maintain no hike in the bank rate stance
 - 09/25 18:34 [financialjuice] BoE Gov. Bailey: There has been a tightening of financial conditions
 - 09/25 18:34 [financialjuice] BoE Gov. Bailey: We do take rise in mortgage rates into consideration
+- 09/25 18:36 [financialjuice] BoE Gov. Bailey: Can't wait for full evidence on 2nd-round effects
+- 09/25 18:36 [financialjuice] SNB's Chairman Schlegel: Moderate Swiss growth expected in coming quarters
+- 09/25 18:36 [FirstSquawk] BAILEY: AI COULD BE A POSITIVE SHOCK IN AN ERA OF NEGATIVE SUPPLY SHOCKS
+- 09/25 18:36 [FirstSquawk] BAILEY: WE ARE AT THE MOMENT SEEING QUITE SUBDUED PASS-THROUGH OF ENERGY PRICES BUT IT'S EARLY DAYS
+- 09/25 18:36 [FirstSquawk] BAILEY: THE LONGER WE GO ON WITH HIGH ENERGY PRICES, THE HARDER IT GETS TO MAINTAIN NO HIKE IN BANK RATE STANCE
+- 09/25 18:37 [FirstSquawk] BAILEY: WE DO TAKE RISE IN MORTGAGE RATES INTO CONSIDERATION
+- 09/25 18:37 [financialjuice] SNB's Chairman Schlegel: Rise in Swiss inflation mainly due to petrol products
+- 09/25 18:37 [financialjuice] SNB's Chairman Schlegel: Inflation pressure is slightly higher than in June
+- 09/25 18:42 [financialjuice/FirstSquawk] Fed's Williams: Can't ignore persistent supply shocks
+- 09/25 18:44 [FirstSquawk] SCHLEGEL SAYS INFLATION PRESSURE IS SLIGHTLY HIGHER THAN IN JUNE
+- 09/25 18:48 [FirstSquawk] WILLIAMS SAYS US LABOR MARKET NOT A SOURCE OF INFLATIONARY PRESSURE
+- 09/25 18:48 [FirstSquawk] UKRAINE ZELENSKYY SAYS UKRAINE HIT 2 REFINERIES IN RUSSIA OVERNIGHT
+- 09/25 18:50 [financialjuice] Fed's Williams: Labor market not a source of inflationary pressure
+- 09/25 18:50 [financialjuice] Fed's Williams: Tariffs generally don't produce sustained inflation
+- 09/25 18:50 [financialjuice] Fed's Williams: Fed should ensure shocks don't become entrenched

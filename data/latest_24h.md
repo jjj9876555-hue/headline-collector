@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-25 18:35 JST／対象: 09/24 18:35 〜 09/25 18:35 JST（時刻はすべて日本時間）
+生成: 2026-09-25 18:52 JST／対象: 09/24 18:52 〜 09/25 18:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 87 | 09/24 21:26 | 09/25 07:52 | ⚠ 230分（04:02→07:52） |
-| FirstSquawk | 314 | 09/24 18:38 | 09/25 16:01 | ⚠ 46分（07:06→07:52） |
-| financialjuice | 251 | 09/24 18:38 | 09/25 18:34 | ⚠ 88分（11:11→12:40） |
+| FirstSquawk | 321 | 09/24 19:01 | 09/25 18:48 | ⚠ 155分（16:01→18:36） |
+| financialjuice | 254 | 09/24 18:52 | 09/25 18:50 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 624 行（統合前 658 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 634 行（統合前 668 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 18:38 [FirstSquawk/financialjuice] ALL IRANIAN AIRLINE FLIGHTS TO UAE CANCELLED - ISNA
-- 09/24 18:51 [financialjuice] BoE's Dhingra: Financial conditions have done a lot of tightening work already in the UK
-- 09/24 18:51 [financialjuice] BoE's Dhingra: I am encouraged by what we're seeing on pricing
-- 09/24 18:51 [financialjuice] BoE's Dhingra: A lot of financial tightening has taken place
-- 09/24 18:52 [financialjuice] BoE's Dhingra: We are not seeing broad-based price rises like those that happened in 2022
 - 09/24 18:52 [financialjuice] Beijing urges Chinese LNG buyers to avoid resales before winter
 - 09/24 18:53 [financialjuice] BoE's Dhingra: Winter energy prices will be critical for second-round effects
 - 09/24 18:57 [financialjuice] BoE's Dhingra: Not seeing broadly spread price rises like 2022
@@ -648,3 +643,18 @@
 - 09/25 18:33 [financialjuice] BoE Gov. Bailey: The longer we go on with high energy prices, the harder it gets to maintain no hike in the bank rate stance
 - 09/25 18:34 [financialjuice] BoE Gov. Bailey: There has been a tightening of financial conditions
 - 09/25 18:34 [financialjuice] BoE Gov. Bailey: We do take rise in mortgage rates into consideration
+- 09/25 18:36 [financialjuice] BoE Gov. Bailey: Can't wait for full evidence on 2nd-round effects
+- 09/25 18:36 [financialjuice] SNB's Chairman Schlegel: Moderate Swiss growth expected in coming quarters
+- 09/25 18:36 [FirstSquawk] BAILEY: AI COULD BE A POSITIVE SHOCK IN AN ERA OF NEGATIVE SUPPLY SHOCKS
+- 09/25 18:36 [FirstSquawk] BAILEY: WE ARE AT THE MOMENT SEEING QUITE SUBDUED PASS-THROUGH OF ENERGY PRICES BUT IT'S EARLY DAYS
+- 09/25 18:36 [FirstSquawk] BAILEY: THE LONGER WE GO ON WITH HIGH ENERGY PRICES, THE HARDER IT GETS TO MAINTAIN NO HIKE IN BANK RATE STANCE
+- 09/25 18:37 [FirstSquawk] BAILEY: WE DO TAKE RISE IN MORTGAGE RATES INTO CONSIDERATION
+- 09/25 18:37 [financialjuice] SNB's Chairman Schlegel: Rise in Swiss inflation mainly due to petrol products
+- 09/25 18:37 [financialjuice] SNB's Chairman Schlegel: Inflation pressure is slightly higher than in June
+- 09/25 18:42 [financialjuice/FirstSquawk] Fed's Williams: Can't ignore persistent supply shocks
+- 09/25 18:44 [FirstSquawk] SCHLEGEL SAYS INFLATION PRESSURE IS SLIGHTLY HIGHER THAN IN JUNE
+- 09/25 18:48 [FirstSquawk] WILLIAMS SAYS US LABOR MARKET NOT A SOURCE OF INFLATIONARY PRESSURE
+- 09/25 18:48 [FirstSquawk] UKRAINE ZELENSKYY SAYS UKRAINE HIT 2 REFINERIES IN RUSSIA OVERNIGHT
+- 09/25 18:50 [financialjuice] Fed's Williams: Labor market not a source of inflationary pressure
+- 09/25 18:50 [financialjuice] Fed's Williams: Tariffs generally don't produce sustained inflation
+- 09/25 18:50 [financialjuice] Fed's Williams: Fed should ensure shocks don't become entrenched
