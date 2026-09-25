@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-26 08:44 JST／対象: 09/26 02:44 〜 09/26 08:44 JST（時刻はすべて日本時間）
+生成: 2026-09-26 08:58 JST／対象: 09/26 02:58 〜 09/26 08:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/26 03:09 | 09/26 05:35 | ⚠ 146分（03:09→05:35） |
-| FirstSquawk | 26 | 09/26 02:49 | 09/26 05:01 | 25分（04:35→05:01） |
-| financialjuice | 67 | 09/26 02:52 | 09/26 08:28 | ⚠ 65分（05:23→06:28） |
+| FirstSquawk | 24 | 09/26 03:00 | 09/26 05:01 | 25分（04:35→05:01） |
+| financialjuice | 66 | 09/26 03:01 | 09/26 08:28 | ⚠ 65分（05:23→06:28） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 92 行（統合前 95 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 90 行（統合前 92 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 02:49 [FirstSquawk] SAUDI CRUDE OIL EXPORTS HIT HIGHEST LEVEL SINCE IRAN WAR BEGAN DESPITE PIPELINE OUTAGE – CNBC
-- 09/26 02:52 [financialjuice/FirstSquawk] Germany discusses requiring gas firms to fill storage next year
 - 09/26 03:00 [FirstSquawk] ANDY BURNHAM UNDER PRESSURE TO SIGNAL SHIFT ON LABOUR’S EU ‘RED LINES’ - FT
 - 09/26 03:01 [financialjuice] Pakistan Prime Minister: Through concentrated efforts, Pakistan brought Washington and Tehran under one roof, that lead to Islamabad talks, Islamabad MoU. Must appreciate Field Marshal Asim Munir, efforts of Deputy PM Ishaq Dar” - AsiaOne N…
 - 09/26 03:05 [financialjuice] Fed's Hammack: The biggest risk with inflation is the formation of an inflationary mindset
