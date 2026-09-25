@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-26 00:34 JST／対象: 09/25 18:34 〜 09/26 00:34 JST（時刻はすべて日本時間）
+生成: 2026-09-26 00:51 JST／対象: 09/25 18:51 〜 09/26 00:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 44 | 09/25 19:13 | 09/26 00:09 | ⚠ 92分（19:13→20:46） |
-| FirstSquawk | 88 | 09/25 18:36 | 09/26 00:26 | ⚠ 47分（19:02→19:50） |
-| financialjuice | 111 | 09/25 18:34 | 09/26 00:31 | 39分（20:20→21:00） |
+| FirstSquawk | 80 | 09/25 18:55 | 09/26 00:26 | ⚠ 47分（19:02→19:50） |
+| financialjuice | 101 | 09/25 18:53 | 09/26 00:31 | 39分（20:20→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 227 行（統合前 245 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 210 行（統合前 227 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 18:34 [financialjuice] BoE Gov. Bailey: There has been a tightening of financial conditions
-- 09/25 18:34 [financialjuice] BoE Gov. Bailey: We do take rise in mortgage rates into consideration
-- 09/25 18:36 [financialjuice] BoE Gov. Bailey: Can't wait for full evidence on 2nd-round effects
-- 09/25 18:36 [financialjuice] SNB's Chairman Schlegel: Moderate Swiss growth expected in coming quarters
-- 09/25 18:36 [FirstSquawk] BAILEY: AI COULD BE A POSITIVE SHOCK IN AN ERA OF NEGATIVE SUPPLY SHOCKS
-- 09/25 18:36 [FirstSquawk] BAILEY: WE ARE AT THE MOMENT SEEING QUITE SUBDUED PASS-THROUGH OF ENERGY PRICES BUT IT'S EARLY DAYS
-- 09/25 18:36 [FirstSquawk] BAILEY: THE LONGER WE GO ON WITH HIGH ENERGY PRICES, THE HARDER IT GETS TO MAINTAIN NO HIKE IN BANK RATE STANCE
-- 09/25 18:37 [FirstSquawk] BAILEY: WE DO TAKE RISE IN MORTGAGE RATES INTO CONSIDERATION
-- 09/25 18:37 [financialjuice] SNB's Chairman Schlegel: Rise in Swiss inflation mainly due to petrol products
-- 09/25 18:37 [financialjuice] SNB's Chairman Schlegel: Inflation pressure is slightly higher than in June
-- 09/25 18:42 [financialjuice/FirstSquawk] Fed's Williams: Can't ignore persistent supply shocks
-- 09/25 18:44 [FirstSquawk] SCHLEGEL SAYS INFLATION PRESSURE IS SLIGHTLY HIGHER THAN IN JUNE
-- 09/25 18:48 [FirstSquawk] WILLIAMS SAYS US LABOR MARKET NOT A SOURCE OF INFLATIONARY PRESSURE
-- 09/25 18:48 [FirstSquawk] UKRAINE ZELENSKYY SAYS UKRAINE HIT 2 REFINERIES IN RUSSIA OVERNIGHT
-- 09/25 18:50 [financialjuice] Fed's Williams: Labor market not a source of inflationary pressure
-- 09/25 18:50 [financialjuice] Fed's Williams: Tariffs generally don't produce sustained inflation
-- 09/25 18:50 [financialjuice] Fed's Williams: Fed should ensure shocks don't become entrenched
 - 09/25 18:53 [financialjuice] BoE Gov. Bailey: Have to make judgment on incomplete evidence
 - 09/25 18:55 [FirstSquawk] BAILEY: HAVE TO MAKE JUDGMENT ON INCOMPLETE EVIDENCE
 - 09/25 18:55 [FirstSquawk] U.S.-SANCTIONED OIL TANKER SIBU ONE THAT WAS HIJACKED BY SOMALI PIRATES IN AUGUST HAS BEEN RESCUED - PUNTLAND MARITIME POLICE FORCE

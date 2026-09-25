@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-26 00:34 JST／対象: 09/25 12:34 〜 09/26 00:34 JST（時刻はすべて日本時間）
+生成: 2026-09-26 00:51 JST／対象: 09/25 12:51 〜 09/26 00:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 44 | 09/25 19:13 | 09/26 00:09 | ⚠ 92分（19:13→20:46） |
-| FirstSquawk | 125 | 09/25 12:38 | 09/26 00:26 | ⚠ 155分（16:01→18:36） |
-| financialjuice | 137 | 09/25 12:40 | 09/26 00:31 | ⚠ 59分（15:00→16:00） |
+| FirstSquawk | 122 | 09/25 12:53 | 09/26 00:26 | ⚠ 155分（16:01→18:36） |
+| financialjuice | 136 | 09/25 13:09 | 09/26 00:31 | ⚠ 59分（15:00→16:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 290 行（統合前 308 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 286 行（統合前 304 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 12:38 [FirstSquawk] Thailand’s exports projected to rise through year-end, says Commerce Ministry
-- 09/25 12:40 [financialjuice] strait of hormuz commodity vessel crossings drop to single digits, preliminary shiptracking data shows
-- 09/25 12:45 [FirstSquawk] Strait of Hormuz sees commodity vessel crossings fall to single digits, preliminary data indicates
-- 09/25 12:51 [FirstSquawk] 2-year JGB yield climbs 3.0 basis points to 1.930%
 - 09/25 12:53 [FirstSquawk] Thailand’s exports could grow 15% this year, Commerce Ministry says
 - 09/25 13:00 [FirstSquawk] Mizuho Markets Cayman’s $25 million guaranteed senior notes receive ‘A’ rating from Fitch
 - 09/25 13:05 [FirstSquawk] Jefferies lifts GoDaddy price target to $100 from $85
