@@ -7,70 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-25 23:20 JST／対象: 09/24 23:20 〜 09/25 23:20 JST（時刻はすべて日本時間）
+生成: 2026-09-25 23:36 JST／対象: 09/24 23:36 〜 09/25 23:36 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 92 | 09/24 23:20 | 09/25 23:13 | ⚠ 681分（07:52→19:13） |
-| FirstSquawk | 292 | 09/24 23:24 | 09/25 23:09 | ⚠ 155分（16:01→18:36） |
-| financialjuice | 241 | 09/24 23:20 | 09/25 23:18 | ⚠ 88分（11:11→12:40） |
+| DeItaone | 81 | 09/24 23:37 | 09/25 23:26 | ⚠ 681分（07:52→19:13） |
+| FirstSquawk | 276 | 09/24 23:37 | 09/25 23:34 | ⚠ 155分（16:01→18:36） |
+| financialjuice | 224 | 09/24 23:36 | 09/25 23:22 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 595 行（統合前 632 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 552 行（統合前 587 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 23:20 [financialjuice] Trump and the President of China Deliver Remarks - WATCH LIVE
-- 09/24 23:20 [financialjuice] BoE Breeden: We cannot ignore moves in the OIS interest rate futures market, need to understand what's going on.
-- 09/24 23:20 [DeItaone] TRUMP XI LIVE https://t.co/1PT0hpw0cP
-- 09/24 23:22 [financialjuice] BoE Breeden: We need to take into account the public's greater attentiveness to inflation, but also 2-sided risks.
-- 09/24 23:23 [DeItaone] TRUMP SAYS HE AND CHINA'S XI HAVE FORGED TRULY GREAT FRIENDSHIP
-- 09/24 23:24 [FirstSquawk] TRUMP: XI AND I HAVE FORGED A TRULY GREAT FRIENDSHIP
-- 09/24 23:24 [FirstSquawk] TRUMP: RELATIONSHIP WITH XI IS BUILT ON MUTUAL RESPECT
-- 09/24 23:24 [financialjuice] Trump: China’s President Xi and I have forged a truly great friendship built on mutual respect.
-- 09/24 23:25 [financialjuice] Trump: A lot has changed since China’s President Xi was last at the White House.
-- 09/24 23:25 [FirstSquawk] TRUMP: A LOT HAS CHANGED SINCE XI WAS LAST AT WHITE HOUSE
-- 09/24 23:25 [FirstSquawk] TRUMP: XI ARRIVES AT IMPORTANT MOMENT IN AMERICA'S HISTORY
-- 09/24 23:25 [financialjuice] Trump: I will visit the National Archives with Xi tomorrow.
-- 09/24 23:25 [FirstSquawk] TRUMP: WILL VISIT NATIONAL ARCHIVES WITH XI TOMORROW
-- 09/24 23:25 [financialjuice] Trump: Xi arrives at an important moment in America's history.
-- 09/24 23:26 [DeItaone] TRUMP SAYS PROUD OF US, CHINA RELATIONSHIP
-- 09/24 23:26 [FirstSquawk] TRUMP REFERS TO US 250TH ANNIVERSARY AS IMPORTANT MOMENT
-- 09/24 23:26 [FirstSquawk] TRUMP PRAISES HISTORY OF US-CHINA RELATIONS
-- 09/24 23:26 [financialjuice] Trump: I am proud of the US, China relationship.
-- 09/24 23:27 [DeItaone] TRUMP SAYS HE AND XI HAVE MADE TREMENDOUS STRIDES ON ISSUES FACING TWO COUNTRIES
-- 09/24 23:27 [FirstSquawk] TRUMP: MADE TREMENDOUS STRIDES WITH XI ON ISSUES WE FACE
-- 09/24 23:27 [DeItaone] TRUMP SAYS WORKING TOWARD A MORE BALANCED TRADE RELATIONSHIP
-- 09/24 23:27 [financialjuice] BoE Breeden: It is too far away to know if the BoE balance sheet will become fully repo-based, not an urgent issue.
-- 09/24 23:27 [financialjuice] Trump: Xi and I have made tremendous strides on issues facing the two countries.
-- 09/24 23:28 [DeItaone] TRUMP SAYS HE AND XI WILL DISCUSS SECURITY, TECHNOLOGY AND ARTIFICIAL INTELLIGENCE
-- 09/24 23:28 [financialjuice] Trump on China: We're working toward a more balanced trade relationship.
-- 09/24 23:28 [financialjuice] Trump: We're making progress on new market access for US farmers.
-- 09/24 23:28 [financialjuice] Trump: Xi and I will discuss security, technology and artificial intelligence.
-- 09/24 23:29 [financialjuice] Trump on China: If we focus on common interests, we can achieve a lot.
-- 09/24 23:29 [FirstSquawk] TRUMP:MAKING PROGRESS ON NEW MARKET ACCESS FOR US FARMERS
-- 09/24 23:29 [FirstSquawk] TRUMP: IF WE FOCUS ON COMMON INTERESTS, WE CAN ACHIEVE A LOT
-- 09/24 23:30 [financialjuice] EIA NATURAL GAS CHANGE BCF ACTUAL 53B (FORECAST 51B, PREVIOUS 44B) $MACRO
-- 09/24 23:30 [financialjuice] US EIA Weekly Natural Gas Storage Report
-- 09/24 23:30 [DeItaone] TRUMP SAYS HE AND XI WILL CONTINUE WORKING TOGETHER FOR A BETTER FUTURE
-- 09/24 23:30 [FirstSquawk] TRUMP: XI AND I WILL CONTINUE WORKING TOGETHER FOR FUTURE
-- 09/24 23:31 [financialjuice] Trump: Xi and I will continue working together for the future.
-- 09/24 23:32 [DeItaone] CHINA'S XI: HAPPY TO VISIT A 'BEAUTIFUL' US
-- 09/24 23:32 [FirstSquawk] WASHINGTON-CHINA'S XI: HAPPY TO VISIT A 'BEAUTIFUL' US
-- 09/24 23:33 [FirstSquawk] WASHINGTON-CHINA'S XI: ON BEHALF OF CHINESE PEOPLE, I EXPRESS MY GREETINGS TO US 250TH FOUNDING ANNIVERSAY
-- 09/24 23:33 [DeItaone] CHINA'S XI: CHINA, US ARE BOTH GREAT COUNTRIES, GREAT PEOPLES
-- 09/24 23:33 [DeItaone] CHINA'S XI: I'M HERE TO PASS ON FRIENDSHIP, EXPAND COOPERATION
-- 09/24 23:34 [FirstSquawk] XI: CHINA, US ARE GREAT NATIONS
-- 09/24 23:34 [FirstSquawk] XI: HERE TO EXPLORE COOPERATION
-- 09/24 23:34 [FirstSquawk] XI: VISIT FOR FRIENDSHIP, COOPERATION
-- 09/24 23:35 [DeItaone] CHINA'S XI: WILLING TO WORK WITH TRUMP TO STEER THE SHIP OF CHINA-US TIES
-- 09/24 23:35 [FirstSquawk] WASHINGTON-CHINA'S XI: WILLING TO WORK WITH TRUMP TO STEER THE SHIP OF CHINA-US TIES
-- 09/24 23:35 [DeItaone/FirstSquawk] CHINA'S XI: WE SHOULD STRENGTHEN COMMUNICATION
-- 09/24 23:35 [financialjuice] China’s President Xi: I am willing to work with Trump to steer the ship of China-US ties.
 - 09/24 23:36 [financialjuice] China’s President Xi on the US: We should strengthen communication.
 - 09/24 23:37 [financialjuice] China’s President Xi: I encourage economic and trade communication with the US.
 - 09/24 23:37 [FirstSquawk] CHINA'S XI: WE ENCOURGE EXCHANGES ON DIPLOMACY, TRADE AND ECONOMY, LAW ENFORCEMENT
@@ -619,3 +572,7 @@
 - 09/25 23:13 [financialjuice] Fed's Schmid: A question is whether the AI ecosystem is becoming too big to fail.
 - 09/25 23:17 [financialjuice] Fear and Greed Index: 38/100 = Fear
 - 09/25 23:18 [financialjuice] Crypto Fear and Greed INdex: 71/100 = Greed
+- 09/25 23:22 [financialjuice] President Trump and the First Lady Greet the President of China and Madame Peng
+- 09/25 23:26 [DeItaone] BILL GATES WARNS AI COULD CAUSE ‘A BILLION DEATHS’ Bill Gates warns AI is already powerful enough to potentially drive events causing a billion deaths, particularly if advanced tools are exploited by malicious actors. Gates says AI could be…
+- 09/25 23:34 [FirstSquawk] MEXICO PRESIDENT SHEINBAUM: UNCLEAR IF US-MEXICO TRADE DEAL WILL BE REACHED BEFORE NOVEMBER || WORKING TO ADDRESS US TRADE DEFICIT CONCERNS
+- 09/25 23:34 [FirstSquawk] RUSSIA CLAIMS TO HAVE STRUCK DRY CARGO SHIP AT PORT OF CHORNOMORSK - IFX
