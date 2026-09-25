@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-26 07:16 JST／対象: 09/26 01:16 〜 09/26 07:16 JST（時刻はすべて日本時間）
+生成: 2026-09-26 07:32 JST／対象: 09/26 01:32 〜 09/26 07:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 23 | 09/26 01:20 | 09/26 05:35 | ⚠ 146分（03:09→05:35） |
-| FirstSquawk | 43 | 09/26 01:26 | 09/26 05:01 | 25分（04:35→05:01） |
-| financialjuice | 74 | 09/26 01:34 | 09/26 06:55 | ⚠ 65分（05:23→06:28） |
+| DeItaone | 20 | 09/26 01:35 | 09/26 05:35 | ⚠ 146分（03:09→05:35） |
+| FirstSquawk | 41 | 09/26 01:50 | 09/26 05:01 | 25分（04:35→05:01） |
+| financialjuice | 79 | 09/26 01:34 | 09/26 07:29 | ⚠ 65分（05:23→06:28） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 133 行（統合前 140 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,11 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 01:20 [DeItaone] OIL FUTURES EXTEND LOSSES, BRENT CRUDE DOWN BY $3 A BARREL ON HOPES OF US-IRAN TRUCE
-- 09/26 01:23 [DeItaone] CHINA, U.S. AGREE TO BUILD CONSTRUCTIVE RELATIONSHIP OF STRATEGIC STABILITY BASED ON RESPECT, FAIRNESS AND RECIPROCITY - XINHUA CHINA, U.S. AGREE TO BUILD A CONSTRUCTIVE RELATIONSHIP OF STRATEGIC STABILITY -XINHUA
-- 09/26 01:23 [DeItaone] NORTH SEA OIL FREIGHT RATES CLIMB AGAIN Platts kept the October Forties de-escalator unchanged at 15 cents, while Aframax freight rates moved higher again. Meanwhile, there were no bids or offers for North Sea crude grades during the Platts…
-- 09/26 01:26 [FirstSquawk] BANK OF FRANCE'S MOULIN SAYS NO CONCERN OVER FRENCH STATE'S ABILITY TO FINANCE ITSELF
-- 09/26 01:26 [FirstSquawk] MOULIN: EVERYTHING MUST BE DONE TO AVOID A SOVEREIGN DEBT CRISIS
 - 09/26 01:34 [financialjuice] ❗ Senior Iranian Official: Iran will make no concessions on its nuclear program.
 - 09/26 01:35 [financialjuice] ❗ Senior Iranian Official: The Strait of Hormuz will remain closed, no nuclear talks with the United States until Iran's conditions are met.
 - 09/26 01:35 [DeItaone] SENIOR IRANIAN OFFICIAL TO REUTERS: STRAIT OF HORMUZ WILL REMAIN CLOSED, NO NUCLEAR TALKS WITH UNITED STATES UNTIL IRAN'S CONDITIONS MET
@@ -157,3 +152,8 @@
 - 09/26 06:50 [financialjuice] Saudi civil defense issues warning over possible threat in Jazan
 - 09/26 06:53 [financialjuice] Saudi civil defense: danger has passed in Jazan
 - 09/26 06:55 [financialjuice] US Supreme Court blocks Missouri for third time from using GOP-drawn congressional map in November midterm elections
+- 09/26 07:27 [financialjuice] Alabama Attorney General Marshall announces multi-million-dollar deal with TikTok
+- 09/26 07:27 [financialjuice] Alabama AG: under settlement, Alabama to get at least $100 million
+- 09/26 07:28 [financialjuice] Alabama AG: TikTok must add safety features to protect children alongside payment
+- 09/26 07:29 [financialjuice] Alabama AG: Alabama could obtain up to $300 million under settlement if conditions met
+- 09/26 07:29 [financialjuice] Alabama AG: deal settles claims TikTok built platform with addictive features, exposed young users to mental harm, misled public about safety
