@@ -7,26 +7,24 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-25 10:17 JST／対象: 09/25 04:17 〜 09/25 10:17 JST（時刻はすべて日本時間）
+生成: 2026-09-25 10:31 JST／対象: 09/25 04:31 〜 09/25 10:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/25 07:52 | 09/25 07:52 | - |
-| FirstSquawk | 76 | 09/25 04:49 | 09/25 10:15 | ⚠ 46分（07:06→07:52） |
-| financialjuice | 37 | 09/25 04:18 | 09/25 09:15 | 40分（06:04→06:44） |
+| FirstSquawk | 79 | 09/25 04:49 | 09/25 10:25 | ⚠ 46分（07:06→07:52） |
+| financialjuice | 34 | 09/25 04:51 | 09/25 09:15 | 40分（06:04→06:44） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 106 行（統合前 115 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 107 行（統合前 114 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 04:18 [financialjuice] The US files to intervene in the X, Musk, and EU commission cases.
-- 09/25 04:21 [financialjuice/FirstSquawk] NATO Sec. Gen. Rutte: European allies prepared for Russian hybrid attacks.
-- 09/25 04:22 [financialjuice] Friday FX Options Expiries
+- 09/25 04:49 [FirstSquawk] NATO SEC. GEN. RUTTE: EUROPEAN ALLIES PREPARED FOR RUSSIAN HYBRID ATTACKS.
 - 09/25 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 2025.2 MLN NASDAQ 100: 1561.7 MLN DOW 30: 798.0 MLN MAG 7: 810.2 MLN $MACRO
 - 09/25 04:51 [FirstSquawk] SOUTH KOREA PRESIDENT LEE: SOUTH KOREA TO STRENGTHEN MONITORING OF COUNTERFEIT & ILLICIT GOODS IMPORTS
 - 09/25 05:01 [FirstSquawk] NASDAQ CLOSES 0.04% HIGHER AT 26,945.85, UP 9.81 POINTS S&P 500 CLOSES 0.03% LOWER AT 7,703.93, DOWN 2.10 POINTS DOW JONES CLOSES 0.29% LOWER AT 51,359.75, DOWN 151.84 POINTS
@@ -130,3 +128,6 @@
 - 09/25 10:01 [FirstSquawk] 2-year Japanese government bond yield rises to 1.920%, up 2.0 basis points
 - 09/25 10:08 [FirstSquawk] Pentagon investigates how China obtained parts from F-35 stealth fighter - KYODO
 - 09/25 10:15 [FirstSquawk] N. Korean official says S. Korea could become target of ‘collective punishment’ - YONHAP
+- 09/25 10:19 [FirstSquawk] Nikkei share average advances 1.05% to 66,202.32
+- 09/25 10:20 [FirstSquawk] Japan to offer ¥3.5 trillion in treasury discount bills
+- 09/25 10:25 [FirstSquawk] Alibaba shares in Hong Kong poised to open 2.3% lower

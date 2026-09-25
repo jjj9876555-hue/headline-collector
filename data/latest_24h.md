@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-25 10:17 JST／対象: 09/24 10:17 〜 09/25 10:17 JST（時刻はすべて日本時間）
+生成: 2026-09-25 10:31 JST／対象: 09/24 10:31 〜 09/25 10:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 87 | 09/24 21:26 | 09/25 07:52 | ⚠ 230分（04:02→07:52） |
-| FirstSquawk | 372 | 09/24 10:20 | 09/25 10:15 | ⚠ 46分（07:06→07:52） |
-| financialjuice | 255 | 09/24 10:20 | 09/25 09:15 | ⚠ 108分（15:47→17:36） |
+| FirstSquawk | 373 | 09/24 10:32 | 09/25 10:25 | ⚠ 46分（07:06→07:52） |
+| financialjuice | 247 | 09/24 10:40 | 09/25 09:15 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 686 行（統合前 720 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 679 行（統合前 713 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 10:20 [financialjuice] China injects 51.5 bln yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement
-- 09/24 10:20 [FirstSquawk] PBOC adds 51.5 bln yuan via 7-day reverse repos, rate unchanged at 1.40%
-- 09/24 10:27 [FirstSquawk] Hang Seng Tech Index seen opening 0.8% lower
-- 09/24 10:30 [financialjuice] AUSTRALIAN PARTICIPATION RATE ACTUAL 67.1% (FORECAST 66.9%, PREVIOUS 66.9%) $MACRO
-- 09/24 10:30 [financialjuice] ‼ BREAKING: AUSTRALIAN EMPLOYMENT CHANGE ACTUAL 39.5K (FORECAST 20K, PREVIOUS -15.8K) $MACRO
-- 09/24 10:30 [financialjuice] ❗ AUSTRALIAN UNEMPLOYMENT RATE ACTUAL 4.6% (FORECAST 4.5%, PREVIOUS 4.5%) $MACRO
-- 09/24 10:30 [financialjuice] Australia Aug participation rate 67.1% s/adj: Poll 66.9%
-- 09/24 10:30 [financialjuice] Australia August full-time employment down 6,300 seasonally adjusted
-- 09/24 10:30 [financialjuice] Australia aug unemployment rate rises to 4.6%, s/adj (poll forecast 4.5%)
-- 09/24 10:30 [financialjuice] Australia August jobs rise 39.5k seasonally adjusted versus poll of 20.0k
 - 09/24 10:32 [FirstSquawk] Australia Employment Change Aug: 39.5K (est 20.0K; prev -15.8K)
 - 09/24 10:32 [FirstSquawk] Australia Unemployment Rate: 4.6% (est 4.5%; prev 4.5%)
 - 09/24 10:32 [FirstSquawk] Australia Full-Time Employment Change: -6.3K (prev 16.3K)
@@ -710,3 +700,6 @@
 - 09/25 10:01 [FirstSquawk] 2-year Japanese government bond yield rises to 1.920%, up 2.0 basis points
 - 09/25 10:08 [FirstSquawk] Pentagon investigates how China obtained parts from F-35 stealth fighter - KYODO
 - 09/25 10:15 [FirstSquawk] N. Korean official says S. Korea could become target of ‘collective punishment’ - YONHAP
+- 09/25 10:19 [FirstSquawk] Nikkei share average advances 1.05% to 66,202.32
+- 09/25 10:20 [FirstSquawk] Japan to offer ¥3.5 trillion in treasury discount bills
+- 09/25 10:25 [FirstSquawk] Alibaba shares in Hong Kong poised to open 2.3% lower
