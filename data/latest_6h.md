@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-25 21:50 JST／対象: 09/25 15:50 〜 09/25 21:50 JST（時刻はすべて日本時間）
+生成: 2026-09-25 22:03 JST／対象: 09/25 16:03 〜 09/25 22:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 21 | 09/25 19:13 | 09/25 21:50 | ⚠ 92分（19:13→20:46） |
-| FirstSquawk | 55 | 09/25 15:50 | 09/25 21:48 | ⚠ 155分（16:01→18:36） |
-| financialjuice | 73 | 09/25 16:00 | 09/25 21:49 | ⚠ 55分（16:05→17:00） |
+| DeItaone | 26 | 09/25 19:13 | 09/25 22:02 | ⚠ 92分（19:13→20:46） |
+| FirstSquawk | 59 | 09/25 18:36 | 09/25 21:58 | ⚠ 47分（19:02→19:50） |
+| financialjuice | 81 | 09/25 16:05 | 09/25 22:02 | ⚠ 55分（16:05→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 138 行（統合前 150 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 152 行（統合前 167 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 15:50 [FirstSquawk] Turkey’s military chief of staff to attend Mecca Defence Pact meeting in Saudi Arabia
-- 09/25 16:00 [financialjuice] SPANISH GDP QOQ ACTUAL 0.7% (FORECAST 0.7%, PREVIOUS 0.7%) $MACRO
-- 09/25 16:00 [financialjuice] SPANISH GDP YOY ACTUAL 2.6% (FORECAST 2.7%, PREVIOUS 2.7%) $MACRO
-- 09/25 16:01 [FirstSquawk] SPAIN (Q2) GDP YOY YOY ACTUAL: 2.6% VS 2.7% PREVIOUS;EST 2.7%
-- 09/25 16:01 [FirstSquawk] SPAIN (JUL) HOME SALES YOY ACTUAL: -5.1% VS 1.6% PREVIOUS
-- 09/25 16:01 [financialjuice] Currency Strength Chart: Strongest: GBP, AUD, NZD, NZD, GBP, USD, CAD, CHF - Weakest
 - 09/25 16:05 [financialjuice] Trump: China's Xi and I have forged a truly great friendship
 - 09/25 17:00 [financialjuice] EUROZONE LOANS TO HOUSEHOLDS ACTUAL 3.1% (FORECAST -, PREVIOUS 3.1%) $MACRO
 - 09/25 17:00 [financialjuice] EUROZONE LOANS TO NON FINANCIAL FIRMS ACTUAL 4.2% (FORECAST -, PREVIOUS 4.4%) $MACRO
@@ -159,6 +153,26 @@
 - 09/25 21:48 [DeItaone] TRUMP: VERY PRODUCTIVE MEETING WITH PRESIDENT XI FOR BOTH U.S.A. AND CHINA.
 - 09/25 21:48 [FirstSquawk] TRUMP: XI SEEMED TO LIKING CALLING AI 'SUPER INTELLIGENCE'
 - 09/25 21:48 [financialjuice] USTR Greer: Conversations with China about export controls and national security are off the table in these talks - CNBC.
-- 09/25 21:49 [financialjuice] Houthis promise not to target European ships - FT
+- 09/25 21:49 [financialjuice/FirstSquawk] Houthis promise not to target European ships - FT
 - 09/25 21:49 [DeItaone] *GREER: AI CHIP DISCUSSIONS NOT HAPPENING IN THESE TALKS
-- 09/25 21:50 [DeItaone] USTR GREER: TRUMP IS COMFORTABLE WITH WHERE WE ARE ON CANADA - CNBC
+- 09/25 21:50 [DeItaone/financialjuice] USTR GREER: TRUMP IS COMFORTABLE WITH WHERE WE ARE ON CANADA - CNBC
+- 09/25 21:50 [DeItaone] USTR GREER: THERE IS STILL A LOT OF STRONG TRADE WITH CANADA USTR GREER: CANADIANS WANT A DEAL
+- 09/25 21:51 [financialjuice] USTR Greer: There is still a lot of strong trade with Canada. The US is still getting oil, gas, and Potash it needs from Canada.
+- 09/25 21:51 [financialjuice] USTR Greer: Canadians want a deal
+- 09/25 21:52 [financialjuice] USTR Greer: We are in talks with Mexico about trade deficit.
+- 09/25 21:52 [FirstSquawk] JAPAN FINANCE MINISTER KATAYAMA, US TREASURY SECRETARY BESSETT HOLD ONLINE TALK - KYODO
+- 09/25 21:52 [FirstSquawk] GREER SAYS TRUMP COMFORTABLE ON WHERE US IS ON CANADA
+- 09/25 21:52 [FirstSquawk] GREER SAYS US STILL GETTING OIL, GAS, POTASH IT NEEDS FROM CANADA
+- 09/25 21:52 [DeItaone] *GREER: US, CANADA HAVE GOOD CONVERSATIONS, NO URGENCY
+- 09/25 21:52 [FirstSquawk] GREER SAYS US, CANADA HAVE GOOD CONVERSATIONS, NO URGENCY
+- 09/25 21:52 [FirstSquawk] GREER SAYS IN TALKS WITH MEXICO TO MANAGE EXPLODING TRADE DEFICIT
+- 09/25 21:53 [financialjuice] Gas supplies to China via the Power of Siberia Pipeline in H1 of 2026 exceeded the level of the first half of 2025 - Tass.
+- 09/25 21:53 [financialjuice] Japanese and US Finance Chiefs discuss yen depreciation - Kyodo.
+- 09/25 21:54 [financialjuice] USTR Greer ends CNBC interview.
+- 09/25 21:55 [DeItaone] *JAPANESE, US FINANCE CHIEFS DISCUSS YEN DEPRECIATION: KYODO
+- 09/25 21:57 [financialjuice/FirstSquawk] Katayama, Bessent reaffirm undervaluing yen is an issue - Kyodo.
+- 09/25 21:58 [DeItaone] HOUTHIS PLEDGE NOT TO TARGET EUROPEAN OR U.S. SHIPS Iran-backed Houthis have told the EU they will not target European ships in the Red Sea, according to the FT. The group said its operations near the Bab al-Mandeb Strait are not intended t…
+- 09/25 22:00 [financialjuice] Effective Fed Funds Rate 3.88% September 24 vs 3.88% September 23.
+- 09/25 22:02 [financialjuice] NScale: NVIDIA commits $1b to NScale, funding due mid-November.
+- 09/25 22:02 [DeItaone] $TSLA - TESLA’S OPTIMUS HITS SNAGS IN HANDS, SUPPLIERS AS SCALE-UP BEGINS - THE INFORMATION TESLA HAS RAMPED UP PRODUCTION OF ITS OPTIMUS HUMANOID ROBOT ROUGHLY TENFOLD IN RECENT MONTHS - THE INFORMATION
+- 09/25 22:02 [financialjuice] Tesla’s Optimus hits snags in its hand manufacturing and suppliers as scale-up begins - The Information.
