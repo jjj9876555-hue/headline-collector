@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-25 23:53 JST／対象: 09/25 11:53 〜 09/25 23:53 JST（時刻はすべて日本時間）
+生成: 2026-09-26 00:18 JST／対象: 09/25 12:18 〜 09/26 00:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 41 | 09/25 19:13 | 09/25 23:53 | ⚠ 92分（19:13→20:46） |
-| FirstSquawk | 112 | 09/25 11:59 | 09/25 23:49 | ⚠ 155分（16:01→18:36） |
-| financialjuice | 117 | 09/25 12:40 | 09/25 23:42 | ⚠ 59分（15:00→16:00） |
+| DeItaone | 44 | 09/25 19:13 | 09/26 00:09 | ⚠ 92分（19:13→20:46） |
+| FirstSquawk | 123 | 09/25 12:38 | 09/26 00:18 | ⚠ 155分（16:01→18:36） |
+| financialjuice | 135 | 09/25 12:40 | 09/26 00:15 | ⚠ 59分（15:00→16:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 256 行（統合前 272 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 286 行（統合前 304 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 11:59 [FirstSquawk] Baird lifts Charles River Laboratories price target to $334 from $291
-- 09/25 12:06 [FirstSquawk] Brent crude futures decline 1% to $105.54 per barrel
-- 09/25 12:14 [FirstSquawk] Asian bond yields rise despite weaker oil prices as markets remain cautious - WSJ
 - 09/25 12:38 [FirstSquawk] Thailand’s exports projected to rise through year-end, says Commerce Ministry
 - 09/25 12:40 [financialjuice] strait of hormuz commodity vessel crossings drop to single digits, preliminary shiptracking data shows
 - 09/25 12:45 [FirstSquawk] Strait of Hormuz sees commodity vessel crossings fall to single digits, preliminary data indicates
@@ -280,3 +277,36 @@
 - 09/25 23:49 [FirstSquawk] NHC: POLO IS AN EXTREMELY POWERFUL CATEGORY 5 HURRICANE, INTERESTS IN BAJA CALIFORNIA SUR SHOULD MONITOR ITS PROGRESS
 - 09/25 23:52 [DeItaone] YIELD ON 10-YEAR TREASURY NOTE HITS FRESH 19-YEAR HIGH AT 5.2297%; LAST UP 5.92 BASIS POINTS AT 5.221%
 - 09/25 23:53 [DeItaone] OIL SLIPS AS U.S.-IRAN DIPLOMACY TAKES FOCUS Oil prices moved lower as markets weighed U.S.-Iran talks over reopening the Strait of Hormuz. WTI fell 1.4% to $93.32, while Brent dropped 1.2% to $105.35. Diplomatic progress could push crude l…
+- 09/25 23:56 [financialjuice] US Treasury Secretary Bessent: Today, I had a productive call with Japan's Fin. Min. Katayama. Discussed the desirability of a strong yen.
+- 09/25 23:57 [financialjuice] The US Court of Appeals declines to block the Pentagon's blacklisting of Anthropic - Ruling.
+- 09/25 23:57 [financialjuice] US Treasury Secretary Bessent: The Katayama conversation was built from Trump and Japan's PM Takaichi.
+- 09/25 23:59 [FirstSquawk] BESSENT SAYS TODAY HAD A PRODUCTIVE CALL WITH KATAYAMA
+- 09/26 00:00 [FirstSquawk] BESSENT SAYS DISCUSSED THE DESIRABILITY OF A STRONG YEN
+- 09/26 00:00 [FirstSquawk] BESSENT SAYS TALKED DESIRABILITY OF A STRONG YEN W/ JAPAN'S FM
+- 09/26 00:00 [FirstSquawk] BESSENT SAYS KATAYAMA CONVERSATION BUILT FROM TRUMP, TAKAICHI
+- 09/26 00:00 [FirstSquawk] BESSENT SAYS MUST KEEP IN CLOSE COMMUNICATION ON CURRENCY MARKETS
+- 09/26 00:00 [financialjuice] CANADIAN BUDGET BALANCE ACTUAL -4.77B (FORECAST -, PREVIOUS 0.99B) $MACRO
+- 09/26 00:00 [FirstSquawk] BESSENT SAYS DISCUSSED DESIRABILITY OF STRONG YEN WITH JAPAN'S FM
+- 09/26 00:06 [DeItaone/financialjuice] TRUMP: WE'VE MADE TREMENDOUS STRIDES FOR BOTH COUNTRIES IN CHINA MEETINGS
+- 09/26 00:06 [financialjuice] Trump and China’s President Xi Speak - WATCH LIVEa
+- 09/26 00:06 [financialjuice] Trump: We've made great strides, positive for both countries.
+- 09/26 00:07 [FirstSquawk] TRUMP SAYS WE'VE HAD TREMENDOUS VISIT FROM XI || MADE TREMENDOUS, GREAT STRIDES FOR CHINA, US || WE'VE MADE GREAT STRIDES, POSITIVE FOR BOTH COUNTRIES
+- 09/26 00:07 [financialjuice] China’s President Xi: The US trip was very successful.
+- 09/26 00:08 [financialjuice] China’s President Xi: I see a brighter China-US future.
+- 09/26 00:08 [FirstSquawk] XI: US TRIP VERY SUCCESSFUL
+- 09/26 00:09 [FirstSquawk] CHINA XI SEES BRIGHTER CHINA-US FUTURE
+- 09/26 00:09 [DeItaone] CHINA'S XI: AGREED WITH TRUMP TO ADD NEW SUBSTANCE TO US-CHINA RELATIONSHIP
+- 09/26 00:09 [financialjuice] China’s President Xi: I still have 2 times to meet Trump.
+- 09/26 00:09 [DeItaone/financialjuice] TRUMP ON CHINA: WE WILL BE SPEAKING A LOT
+- 09/26 00:09 [financialjuice] China’s President Xi: I will welcome Trump to China.
+- 09/26 00:10 [financialjuice] China’s President Xi: I agreed with Trump to add new substance to US-China relationship.
+- 09/26 00:10 [FirstSquawk] XI SAYS STILL HAVE 2 TIMES TO MEET TRUMP || WELCOME TRUMP TO CHINA
+- 09/26 00:10 [financialjuice] China’s President Xi: The US-China relationship will be one of strategic stability based on respect, fairness, and reciprocity.
+- 09/26 00:10 [FirstSquawk] TRUMP SAYS ON CHINA: WE WILL BE SPEAKING A LOT
+- 09/26 00:10 [FirstSquawk] TRUMP SAYS THINK OUR FARMERS WILL BE VERY HAPPY
+- 09/26 00:11 [financialjuice] Trump on Xi Visit: I think our farmers will be very happy .
+- 09/26 00:11 [financialjuice] Trump ends remarks to the media during tea with Xi.
+- 09/26 00:14 [financialjuice] Russia's Perm Refinery halted processing after a drone attack on Friday - Sources.
+- 09/26 00:15 [financialjuice] Peru Expects Annual Copper Output to Rise by 1 Million Metric Tons Within 5-6 Years
+- 09/26 00:17 [FirstSquawk] PERU'S COPPER PRODUCTION EXPECTED TO BE 2.5 MILLION-2.7 MILLION METRIC TONS THIS YEAR - MINING MINISTER SAYS
+- 09/26 00:18 [FirstSquawk] PERU EXPECTED TO ADD 1 MILLION METRIC TONS OF ANNUAL COPPER OUTPUT WITHIN 5-6 YEARS - MINING MINISTER SAYS

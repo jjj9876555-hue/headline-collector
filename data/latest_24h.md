@@ -7,41 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-25 23:53 JST／対象: 09/24 23:53 〜 09/25 23:53 JST（時刻はすべて日本時間）
+生成: 2026-09-26 00:18 JST／対象: 09/25 00:18 〜 09/26 00:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 79 | 09/24 23:54 | 09/25 23:53 | ⚠ 681分（07:52→19:13） |
-| FirstSquawk | 263 | 09/25 00:00 | 09/25 23:49 | ⚠ 155分（16:01→18:36） |
-| financialjuice | 208 | 09/25 00:00 | 09/25 23:42 | ⚠ 88分（11:11→12:40） |
+| DeItaone | 77 | 09/25 00:30 | 09/26 00:09 | ⚠ 681分（07:52→19:13） |
+| FirstSquawk | 272 | 09/25 00:22 | 09/26 00:18 | ⚠ 155分（16:01→18:36） |
+| financialjuice | 218 | 09/25 00:32 | 09/26 00:15 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 523 行（統合前 557 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 538 行（統合前 574 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 23:54 [DeItaone] PEPSICO IS RAISING PRICES ON SOME CHIPS, DIPS AND SODA
-- 09/25 00:00 [FirstSquawk] NOMURA: NORGES BANK RATE SEEN ON PAUSE UNTIL 2028, PREVIOUSLY SAW CUT IN 2027
-- 09/25 00:00 [financialjuice] KANSAS CITY FED COMPOSITE INDEX ACTUAL 14 (FORECAST 8.5, PREVIOUS 10) $MACRO
-- 09/25 00:01 [DeItaone] US TREASURY SAYS WILL BUY UP TO $6 BLN OF 20-30 YEAR DEBT IN SEPTEMBER 24 LIQUIDITY BUYBACK
-- 09/25 00:01 [financialjuice] US Treasury will buy up to $6 bln of 20-30 year debt in it's September 24th liquidity buyback.
-- 09/25 00:01 [financialjuice] KANSAS CITY FED MANUFACTURING ACTUAL 20 (FORECAST -, PREVIOUS 17) $MACRO
-- 09/25 00:01 [DeItaone] OIL FUTURES EXTEND GAINS, BRENT CRUDE UP BY $4 A BARREL AFTER YEMEN'S HOUTHIS SAY THEY ATTACKED SAUDI MILITARY SITES IN JAZAN
-- 09/25 00:05 [FirstSquawk] US NATURAL GAS FUTURES JUMP AS MUCH AS 5% AFTER PIPELINE ISSUE
-- 09/25 00:05 [FirstSquawk] RUSSIA CUTS 2026 OIL PRODUCT EXPORT OUTLOOK BY 24M TONS TO 98.5M TONS - IFX
-- 09/25 00:07 [financialjuice] Trump & Xi Attend a US Military Review - WATCH LIVE
-- 09/25 00:08 [financialjuice] Pakistan PM meets the Iranian President on the sidelines of the UNGA.
-- 09/25 00:11 [FirstSquawk] ISRAELI SOURCE: A NEW ROUND OF STRIKES AGAINST IRAN APPEARS TO BE A MATTER OF TIME.. AND WE WILL MOVE TO STRIKE NUCLEAR FACILITIES AGAIN IF TEHRAN CROSSES THE RED LINES
-- 09/25 00:12 [financialjuice] UAE's Civil Aviation suspends flights of iranian companies from and to the country starting Thursday until further notice- UAE State News Agency.
-- 09/25 00:13 [DeItaone] UAE'S CIVIL AVIATION SUSPENDS FLIGHTS OF IRANIAN COMPANIES FROM AND TO THE COUNTRY STRATING THURSDAY UNTIL FURTHER NOTICE- UAE STATE NEWS AGENCY UAE SAYS DECISION IS BASED ON US SANCTIONS ON IRANIAN AIRLINES USING AIRPORTS
-- 09/25 00:14 [financialjuice] UAE: The decision is based on US sanctions on Iranian airlines using airports.
-- 09/25 00:14 [FirstSquawk] UAE’S CIVIL AVIATION AUTHORITY SUSPENDS FLIGHTS BY IRANIAN AIRLINES TO AND FROM THE UAE
-- 09/25 00:15 [financialjuice] Fed bids for 4-week bills total $7.4 bln.
-- 09/25 00:16 [DeItaone] DOLLAR/YEN UP 0.42% AT 158.96 AFTER HITTING 158.98, HIGHEST SINCE SEPTEMBER 2
 - 09/25 00:22 [FirstSquawk] US YIELDS FOR 10 TO 30 YEARS INCREASE WITH OIL PRICES, REACHING NEW MULTIYEAR HIGHS.
 - 09/25 00:30 [DeItaone] OIL FUTURES EXTEND GAINS, US CRUDE UP BY $4 A BARREL AFTER YEMEN'S HOUTHIS FIRE MISSILES AT SAUDI ARABIA
 - 09/25 00:31 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 0.23%; GERMANY'S DAX DOWN 0.61%
@@ -547,3 +529,36 @@
 - 09/25 23:49 [FirstSquawk] NHC: POLO IS AN EXTREMELY POWERFUL CATEGORY 5 HURRICANE, INTERESTS IN BAJA CALIFORNIA SUR SHOULD MONITOR ITS PROGRESS
 - 09/25 23:52 [DeItaone] YIELD ON 10-YEAR TREASURY NOTE HITS FRESH 19-YEAR HIGH AT 5.2297%; LAST UP 5.92 BASIS POINTS AT 5.221%
 - 09/25 23:53 [DeItaone] OIL SLIPS AS U.S.-IRAN DIPLOMACY TAKES FOCUS Oil prices moved lower as markets weighed U.S.-Iran talks over reopening the Strait of Hormuz. WTI fell 1.4% to $93.32, while Brent dropped 1.2% to $105.35. Diplomatic progress could push crude l…
+- 09/25 23:56 [financialjuice] US Treasury Secretary Bessent: Today, I had a productive call with Japan's Fin. Min. Katayama. Discussed the desirability of a strong yen.
+- 09/25 23:57 [financialjuice] The US Court of Appeals declines to block the Pentagon's blacklisting of Anthropic - Ruling.
+- 09/25 23:57 [financialjuice] US Treasury Secretary Bessent: The Katayama conversation was built from Trump and Japan's PM Takaichi.
+- 09/25 23:59 [FirstSquawk] BESSENT SAYS TODAY HAD A PRODUCTIVE CALL WITH KATAYAMA
+- 09/26 00:00 [FirstSquawk] BESSENT SAYS DISCUSSED THE DESIRABILITY OF A STRONG YEN
+- 09/26 00:00 [FirstSquawk] BESSENT SAYS TALKED DESIRABILITY OF A STRONG YEN W/ JAPAN'S FM
+- 09/26 00:00 [FirstSquawk] BESSENT SAYS KATAYAMA CONVERSATION BUILT FROM TRUMP, TAKAICHI
+- 09/26 00:00 [FirstSquawk] BESSENT SAYS MUST KEEP IN CLOSE COMMUNICATION ON CURRENCY MARKETS
+- 09/26 00:00 [financialjuice] CANADIAN BUDGET BALANCE ACTUAL -4.77B (FORECAST -, PREVIOUS 0.99B) $MACRO
+- 09/26 00:00 [FirstSquawk] BESSENT SAYS DISCUSSED DESIRABILITY OF STRONG YEN WITH JAPAN'S FM
+- 09/26 00:06 [DeItaone/financialjuice] TRUMP: WE'VE MADE TREMENDOUS STRIDES FOR BOTH COUNTRIES IN CHINA MEETINGS
+- 09/26 00:06 [financialjuice] Trump and China’s President Xi Speak - WATCH LIVEa
+- 09/26 00:06 [financialjuice] Trump: We've made great strides, positive for both countries.
+- 09/26 00:07 [FirstSquawk] TRUMP SAYS WE'VE HAD TREMENDOUS VISIT FROM XI || MADE TREMENDOUS, GREAT STRIDES FOR CHINA, US || WE'VE MADE GREAT STRIDES, POSITIVE FOR BOTH COUNTRIES
+- 09/26 00:07 [financialjuice] China’s President Xi: The US trip was very successful.
+- 09/26 00:08 [financialjuice] China’s President Xi: I see a brighter China-US future.
+- 09/26 00:08 [FirstSquawk] XI: US TRIP VERY SUCCESSFUL
+- 09/26 00:09 [FirstSquawk] CHINA XI SEES BRIGHTER CHINA-US FUTURE
+- 09/26 00:09 [DeItaone] CHINA'S XI: AGREED WITH TRUMP TO ADD NEW SUBSTANCE TO US-CHINA RELATIONSHIP
+- 09/26 00:09 [financialjuice] China’s President Xi: I still have 2 times to meet Trump.
+- 09/26 00:09 [DeItaone/financialjuice] TRUMP ON CHINA: WE WILL BE SPEAKING A LOT
+- 09/26 00:09 [financialjuice] China’s President Xi: I will welcome Trump to China.
+- 09/26 00:10 [financialjuice] China’s President Xi: I agreed with Trump to add new substance to US-China relationship.
+- 09/26 00:10 [FirstSquawk] XI SAYS STILL HAVE 2 TIMES TO MEET TRUMP || WELCOME TRUMP TO CHINA
+- 09/26 00:10 [financialjuice] China’s President Xi: The US-China relationship will be one of strategic stability based on respect, fairness, and reciprocity.
+- 09/26 00:10 [FirstSquawk] TRUMP SAYS ON CHINA: WE WILL BE SPEAKING A LOT
+- 09/26 00:10 [FirstSquawk] TRUMP SAYS THINK OUR FARMERS WILL BE VERY HAPPY
+- 09/26 00:11 [financialjuice] Trump on Xi Visit: I think our farmers will be very happy .
+- 09/26 00:11 [financialjuice] Trump ends remarks to the media during tea with Xi.
+- 09/26 00:14 [financialjuice] Russia's Perm Refinery halted processing after a drone attack on Friday - Sources.
+- 09/26 00:15 [financialjuice] Peru Expects Annual Copper Output to Rise by 1 Million Metric Tons Within 5-6 Years
+- 09/26 00:17 [FirstSquawk] PERU'S COPPER PRODUCTION EXPECTED TO BE 2.5 MILLION-2.7 MILLION METRIC TONS THIS YEAR - MINING MINISTER SAYS
+- 09/26 00:18 [FirstSquawk] PERU EXPECTED TO ADD 1 MILLION METRIC TONS OF ANNUAL COPPER OUTPUT WITHIN 5-6 YEARS - MINING MINISTER SAYS
