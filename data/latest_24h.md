@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-25 16:01 JST／対象: 09/24 16:01 〜 09/25 16:01 JST（時刻はすべて日本時間）
+生成: 2026-09-25 16:21 JST／対象: 09/24 16:21 〜 09/25 16:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 87 | 09/24 21:26 | 09/25 07:52 | ⚠ 230分（04:02→07:52） |
-| FirstSquawk | 354 | 09/24 16:03 | 09/25 16:01 | ⚠ 46分（07:06→07:52） |
-| financialjuice | 241 | 09/24 17:36 | 09/25 16:01 | ⚠ 88分（11:11→12:40） |
+| FirstSquawk | 350 | 09/24 16:30 | 09/25 16:01 | ⚠ 46分（07:06→07:52） |
+| financialjuice | 242 | 09/24 17:36 | 09/25 16:05 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 654 行（統合前 688 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 651 行（統合前 685 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 16:03 [FirstSquawk] FRANCE'S CAC 40 DOWN 0.43%; SPAIN'S IBEX DOWN 0.59%; BRITAIN'S FTSE 100 DOWN 0.22%
-- 09/24 16:14 [FirstSquawk] CHINA FOREIGN MINISTER SAYS ON IRAN PRESIDENT REMARKS ON STRAIT OF HORMUZ: ALL PARTIES SHOULD LOOK TO PEACEFUL OPTION, RESOLVE DISPUTES THROUGH DIALOGUE
-- 09/24 16:18 [FirstSquawk] CHINA FOREIGN MINISTRY SAYS CHINA OPPOSES AND RESOLUTELY CRACKS DOWN ON HACKING ATTACKS IN ACCORDING WITH LAW
-- 09/24 16:18 [FirstSquawk] CHINA FOREIGN MINISTRY SAYS CHINESE SIDE URGES THE RELEVANT NEW ZEALAND AGENCIES TO STOP 'SPREADING LIES AND CREATING CONTRADICTIONS'
 - 09/24 16:30 [FirstSquawk] SWISS NATIONAL BANK KEEPS INTEREST RATE UNCHANGED AT 0.00 PCT
 - 09/24 16:30 [FirstSquawk] SWEDEN'S RIKSBANK LEAVES POLICY RATE AT 1.75%; EST 1.750%
 - 09/24 16:32 [FirstSquawk] SNB: DROPS `INCREASED WILLINGNESS' WORDING FROM FX STATEMENT
@@ -678,3 +674,4 @@
 - 09/25 16:01 [FirstSquawk] SPAIN (Q2) GDP YOY YOY ACTUAL: 2.6% VS 2.7% PREVIOUS;EST 2.7%
 - 09/25 16:01 [FirstSquawk] SPAIN (JUL) HOME SALES YOY ACTUAL: -5.1% VS 1.6% PREVIOUS
 - 09/25 16:01 [financialjuice] Currency Strength Chart: Strongest: GBP, AUD, NZD, NZD, GBP, USD, CAD, CHF - Weakest
+- 09/25 16:05 [financialjuice] Trump: China's Xi and I have forged a truly great friendship

@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-25 16:01 JST／対象: 09/25 04:01 〜 09/25 16:01 JST（時刻はすべて日本時間）
+生成: 2026-09-25 16:21 JST／対象: 09/25 04:21 〜 09/25 16:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 2 | 09/25 04:02 | 09/25 07:52 | ⚠ 230分（04:02→07:52） |
-| FirstSquawk | 142 | 09/25 04:02 | 09/25 16:01 | ⚠ 46分（07:06→07:52） |
-| financialjuice | 60 | 09/25 04:02 | 09/25 16:01 | ⚠ 88分（11:11→12:40） |
+| DeItaone | 1 | 09/25 07:52 | 09/25 07:52 | - |
+| FirstSquawk | 140 | 09/25 04:49 | 09/25 16:01 | ⚠ 46分（07:06→07:52） |
+| financialjuice | 58 | 09/25 04:21 | 09/25 16:05 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 196 行（統合前 205 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 191 行（統合前 200 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 04:02 [DeItaone] YEMEN'S HOUTHIS SAY THEY ATTACKED SAUDI ARAMCO FACILITIES IN YANBU
-- 09/25 04:02 [financialjuice] Yemen's Houthis: Attacked Saudi Aramco facilities in Yanbu.
-- 09/25 04:02 [FirstSquawk] YEMEN'S HOUTHIS SAY THEY ATTACKED SAUDI ARAMCO FACILITIES IN YANBU, AS WELL AS WHAT THEY CALLED A 'SENSITIVE TARGET' IN THE SAUDI CAPITAL RIYADH
-- 09/25 04:03 [financialjuice] Yemen's Houthis: Attacked a ‘sensitive target’ in Saudi Capital Riyadh.
-- 09/25 04:14 [FirstSquawk] MONEY MARKETS NOW PRICE THREE FED HIKES OVER THE NEXT YEAR AS PERSISTENT INFLATION, GOVERNMENT SPENDING AND AI-RELATED CORPORATE BORROWING DRIVE BOND VOLATILITY; THE S&P 500 WAS LITTLE CHANGED, DOW FELL 0.3%, WTI ROSE 2.9% TO $94.83 AND GOL…
-- 09/25 04:18 [financialjuice] The US files to intervene in the X, Musk, and EU commission cases.
 - 09/25 04:21 [financialjuice/FirstSquawk] NATO Sec. Gen. Rutte: European allies prepared for Russian hybrid attacks.
 - 09/25 04:22 [financialjuice] Friday FX Options Expiries
 - 09/25 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 2025.2 MLN NASDAQ 100: 1561.7 MLN DOW 30: 798.0 MLN MAG 7: 810.2 MLN $MACRO
@@ -220,3 +214,4 @@
 - 09/25 16:01 [FirstSquawk] SPAIN (Q2) GDP YOY YOY ACTUAL: 2.6% VS 2.7% PREVIOUS;EST 2.7%
 - 09/25 16:01 [FirstSquawk] SPAIN (JUL) HOME SALES YOY ACTUAL: -5.1% VS 1.6% PREVIOUS
 - 09/25 16:01 [financialjuice] Currency Strength Chart: Strongest: GBP, AUD, NZD, NZD, GBP, USD, CAD, CHF - Weakest
+- 09/25 16:05 [financialjuice] Trump: China's Xi and I have forged a truly great friendship
