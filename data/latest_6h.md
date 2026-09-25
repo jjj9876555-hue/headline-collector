@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-25 15:49 JST／対象: 09/25 09:49 〜 09/25 15:49 JST（時刻はすべて日本時間）
+生成: 2026-09-25 16:01 JST／対象: 09/25 10:01 〜 09/25 16:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 66 | 09/25 09:51 | 09/25 15:45 | 25分（14:22→14:48） |
-| financialjuice | 18 | 09/25 10:31 | 09/25 15:00 | ⚠ 88分（11:11→12:40） |
+| FirstSquawk | 66 | 09/25 10:08 | 09/25 16:01 | 25分（14:22→14:48） |
+| financialjuice | 21 | 09/25 10:31 | 09/25 16:01 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 84 行（統合前 84 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 87 行（統合前 87 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 09:51 [FirstSquawk] 40-year JGB yield climbs 5.5 basis points to 4.255%
-- 09/25 09:56 [FirstSquawk] Yen extends decline as Tokyo reiterates warning while refraining from intervention - FX
-- 09/25 10:01 [FirstSquawk] 2-year Japanese government bond yield rises to 1.920%, up 2.0 basis points
 - 09/25 10:08 [FirstSquawk] Pentagon investigates how China obtained parts from F-35 stealth fighter - KYODO
 - 09/25 10:15 [FirstSquawk] N. Korean official says S. Korea could become target of ‘collective punishment’ - YONHAP
 - 09/25 10:19 [FirstSquawk] Nikkei share average advances 1.05% to 66,202.32
@@ -108,3 +105,9 @@
 - 09/25 15:35 [FirstSquawk] Swedish and Finnish fighter jets scrambled to identify Russian military aircraft, Finnish Air Force says
 - 09/25 15:40 [FirstSquawk] TRUMP EXPRESSED CONCERNS ABOUT YEN WEAKNESS, JAPAN FINANCE MINISTER SAYS-WSJ
 - 09/25 15:45 [FirstSquawk] FRANCE (Q2) WAGES QOQ ACTUAL: 0.7% VS 0.7% PREVIOUS;EST 0.5%
+- 09/25 15:50 [FirstSquawk] Turkey’s military chief of staff to attend Mecca Defence Pact meeting in Saudi Arabia
+- 09/25 16:00 [financialjuice] SPANISH GDP QOQ ACTUAL 0.7% (FORECAST 0.7%, PREVIOUS 0.7%) $MACRO
+- 09/25 16:00 [financialjuice] SPANISH GDP YOY ACTUAL 2.6% (FORECAST 2.7%, PREVIOUS 2.7%) $MACRO
+- 09/25 16:01 [FirstSquawk] SPAIN (Q2) GDP YOY YOY ACTUAL: 2.6% VS 2.7% PREVIOUS;EST 2.7%
+- 09/25 16:01 [FirstSquawk] SPAIN (JUL) HOME SALES YOY ACTUAL: -5.1% VS 1.6% PREVIOUS
+- 09/25 16:01 [financialjuice] Currency Strength Chart: Strongest: GBP, AUD, NZD, NZD, GBP, USD, CAD, CHF - Weakest
