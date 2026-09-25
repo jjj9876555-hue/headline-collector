@@ -7,29 +7,25 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-26 07:46 JST／対象: 09/25 07:46 〜 09/26 07:46 JST（時刻はすべて日本時間）
+生成: 2026-09-26 07:58 JST／対象: 09/25 07:58 〜 09/26 07:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 68 | 09/25 07:52 | 09/26 05:35 | ⚠ 681分（07:52→19:13） |
-| FirstSquawk | 251 | 09/25 07:52 | 09/26 05:01 | ⚠ 155分（16:01→18:36） |
-| financialjuice | 251 | 09/25 07:57 | 09/26 07:35 | ⚠ 88分（11:11→12:40） |
+| DeItaone | 67 | 09/25 19:13 | 09/26 05:35 | ⚠ 146分（03:09→05:35） |
+| FirstSquawk | 249 | 09/25 08:22 | 09/26 05:01 | ⚠ 155分（16:01→18:36） |
+| financialjuice | 249 | 09/25 08:01 | 09/26 07:35 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 545 行（統合前 572 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 541 行（統合前 567 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 07:52 [DeItaone] IRANIAN PRESIDENT WHEN ASKED IF WAR COULD END BEFORE END OF YEAR: IT'S AMERICA THAT MUST CHOOSE WHETHER IT WANTS TO END THIS
-- 09/25 07:52 [FirstSquawk] UK FOREIGN SECRETARY MILIBAND WARNS IRAN'S FOREIGN MINISTER: UK WILL NOT TOLERATE HOSTILE ACTS ON BRITISH SOIL - SKY NEWS
-- 09/25 07:52 [FirstSquawk] IRANIAN PRESIDENT ON WHETHER WAR COULD END BEFORE YEAR-END: IT'S AMERICA THAT MUST DECIDE IF IT WANTS TO END THIS
-- 09/25 07:57 [financialjuice] Qatar categorically rejects Netanyahu’s claim it is running campaign to sway public opinion against Israel
-- 09/25 07:58 [financialjuice/FirstSquawk] Qatar: Repeated attacks by Netanyahu appear aimed at deflecting political responsibility for ground policies
 - 09/25 08:01 [financialjuice] UK GfK consumer confidence index at -13 in September vs -14 in August, highest since August 2024 (poll -16)
+- 09/25 08:22 [FirstSquawk] QATAR: REPEATED ATTACKS BY NETANYAHU APPEAR AIMED AT DEFLECTING POLITICAL RESPONSIBILITY FOR GROUND POLICIES
 - 09/25 08:28 [financialjuice] Saudi Arabia issues warning over possible threat in Jazan
 - 09/25 08:30 [financialjuice] Saudi Arabia civil defence: threat over in Jazan
 - 09/25 08:42 [FirstSquawk] US ENVOY WITKOFF AND KUSHNER MET RUSSIA'S DMITRIEV TODAY - CNN
