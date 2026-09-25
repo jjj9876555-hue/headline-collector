@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-26 04:31 JST／対象: 09/25 22:31 〜 09/26 04:31 JST（時刻はすべて日本時間）
+生成: 2026-09-26 04:45 JST／対象: 09/25 22:45 〜 09/26 04:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 36 | 09/25 22:47 | 09/26 03:09 | ⚠ 71分（00:09→01:20） |
-| FirstSquawk | 75 | 09/25 22:31 | 09/26 04:22 | 35分（00:26→01:01） |
-| financialjuice | 106 | 09/25 22:37 | 09/26 04:30 | 34分（02:18→02:52） |
+| FirstSquawk | 75 | 09/25 22:53 | 09/26 04:35 | 35分（00:26→01:01） |
+| financialjuice | 106 | 09/25 22:48 | 09/26 04:31 | 34分（02:18→02:52） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 208 行（統合前 218 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,8 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 22:31 [FirstSquawk] NASDAQ UP 27.53 POINTS, OR 0.10 PERCENT, AT 26,966.90 AFTER MARKET OPEN DOW JONES UP 30.23 POINTS, OR 0.06 PERCENT, AT 51,380.21 AFTER MARKET OPEN DOW JONES UP 30.23 POINTS, OR 0.06 %, AT 51,380.21 AFTER MARKET OPEN
-- 09/25 22:37 [financialjuice] BofA raises Advanced Micro Devices' price objective to $720 from $620. $AMD
 - 09/25 22:47 [DeItaone] KATAYAMA, BESSENT REAFFIRMED THAT YEN UNDERVALUATION IS MATTER OF CONCERN
 - 09/25 22:48 [financialjuice] Japan's Fin. Min. Katayama and US Treasury Secretary Bessent reaffirmed that yen undervaluation is a matter of concern.
 - 09/25 22:49 [financialjuice] Japan's Fin. Min. Katayama and US Treasury Secretary Bessent reaffirmed their intention to strengthen cooperation - Statement.
@@ -232,3 +230,5 @@
 - 09/26 04:22 [FirstSquawk] TRUMP ADMINISTRATION SETTLES WITH UNIONS OVER SHUTDOWN FIRINGS - BLAW
 - 09/26 04:23 [financialjuice] Monday FX Option Expiries
 - 09/26 04:30 [financialjuice] OpenAI: Broader Review of Model Actions Expected to Take Months
+- 09/26 04:31 [financialjuice] CFTC Positions in the Week of September 22nd 2026
+- 09/26 04:35 [FirstSquawk] OPENAI: SOME WEBSITES INVOLVED IN MISALIGNED MODELS INCIDENT ARE OPERATED BY GOVERNMENTS, UNIVERSITIES, PUBLIC AGENCIES, AND OTHERS

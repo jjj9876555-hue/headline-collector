@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-26 04:31 JST／対象: 09/25 16:31 〜 09/26 04:31 JST（時刻はすべて日本時間）
+生成: 2026-09-26 04:45 JST／対象: 09/25 16:45 〜 09/26 04:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 66 | 09/25 19:13 | 09/26 03:09 | ⚠ 92分（19:13→20:46） |
-| FirstSquawk | 139 | 09/25 18:36 | 09/26 04:22 | ⚠ 47分（19:02→19:50） |
-| financialjuice | 194 | 09/25 17:00 | 09/26 04:30 | 39分（20:20→21:00） |
+| FirstSquawk | 140 | 09/25 18:36 | 09/26 04:35 | ⚠ 47分（19:02→19:50） |
+| financialjuice | 195 | 09/25 17:00 | 09/26 04:31 | 39分（20:20→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 376 行（統合前 401 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 378 行（統合前 403 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -400,3 +400,5 @@
 - 09/26 04:22 [FirstSquawk] TRUMP ADMINISTRATION SETTLES WITH UNIONS OVER SHUTDOWN FIRINGS - BLAW
 - 09/26 04:23 [financialjuice] Monday FX Option Expiries
 - 09/26 04:30 [financialjuice] OpenAI: Broader Review of Model Actions Expected to Take Months
+- 09/26 04:31 [financialjuice] CFTC Positions in the Week of September 22nd 2026
+- 09/26 04:35 [FirstSquawk] OPENAI: SOME WEBSITES INVOLVED IN MISALIGNED MODELS INCIDENT ARE OPERATED BY GOVERNMENTS, UNIVERSITIES, PUBLIC AGENCIES, AND OTHERS
