@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-26 01:03 JST／対象: 09/25 19:03 〜 09/26 01:03 JST（時刻はすべて日本時間）
+生成: 2026-09-26 01:27 JST／対象: 09/25 19:27 〜 09/26 01:27 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 44 | 09/25 19:13 | 09/26 00:09 | ⚠ 92分（19:13→20:46） |
-| FirstSquawk | 80 | 09/25 19:50 | 09/26 01:03 | 35分（00:26→01:01） |
-| financialjuice | 98 | 09/25 19:05 | 09/26 01:00 | 39分（20:20→21:00） |
+| DeItaone | 46 | 09/25 20:46 | 09/26 01:23 | ⚠ 71分（00:09→01:20） |
+| FirstSquawk | 86 | 09/25 19:50 | 09/26 01:26 | 35分（00:26→01:01） |
+| financialjuice | 97 | 09/25 19:50 | 09/26 01:09 | 39分（20:20→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 207 行（統合前 224 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 214 行（統合前 231 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 19:05 [financialjuice] Japan's Fin. Min. Katayama: Extra defense spending to address China threat
-- 09/25 19:05 [financialjuice] US Fed plans to raise bank oversight thresholds - Sources
-- 09/25 19:10 [financialjuice] Iraq's Erbil and Sulaimaniya airports suspend Iranian flights starting Friday - Two Sources
-- 09/25 19:10 [financialjuice] Fed's Williams: Not seeing productivity impact from AI yet
-- 09/25 19:13 [DeItaone] FED PLANS TO EASE OVERSIGHT FOR LARGE BANKS The Fed is preparing to raise asset thresholds that trigger tougher bank regulation, Reuters reports. The highest threshold could rise from $700 billion to around $960 billion, while some requirem…
-- 09/25 19:23 [financialjuice] Italy updated EU safe defense loan plan for slightly over €8B
 - 09/25 19:50 [FirstSquawk] IRAN LEADER ADVISER MOKHBER SAYS IF IRAN CANNOT HAVE FLIGHTS AND RECEIVE AIRPORT SERVICES, THEN NO ONE IN THE REGION CAN EITHER - NOURNEWS
 - 09/25 19:50 [financialjuice] Iran leader adviser Mokhbar: Iran cannot have flights and receive airport services, then no one in the region can either - NourNews
 - 09/25 19:53 [financialjuice] Iran president meets Qatar PM in New York
@@ -231,3 +225,16 @@
 - 09/26 01:02 [FirstSquawk] TRUMP: HAD A GREAT MEETING WITH XI, GREAT FOR FARMERS
 - 09/26 01:03 [FirstSquawk] TRUMP SAYS DISCUSSED IRAN WITH XI
 - 09/26 01:03 [FirstSquawk] TRUMP SAYS THINK WE'RE GOING TO DO GREAT
+- 09/26 01:03 [financialjuice] Trump: Discussed Iran with Xi
+- 09/26 01:03 [financialjuice] Trump: I think we're going to do great.
+- 09/26 01:05 [FirstSquawk] OIL EXTENDS DECLINE, BRENT TRADES BELOW $104 A BARREL
+- 09/26 01:07 [financialjuice] USTR Greer to travel to wisconsin next week for the G20 gathering.
+- 09/26 01:07 [FirstSquawk] USTR GREER: TO TRAVEL TO WISCONSIN NEXT WEEK FOR G20 GATHERING
+- 09/26 01:09 [FirstSquawk] USTR - G20 TRADE MINISTERIAL SCHEDULED FOR SEPT 29 - OCT 1
+- 09/26 01:09 [financialjuice] USTR Greer: The G20 Trade Ministerial is scheduled for September 29th - October 1st.
+- 09/26 01:11 [FirstSquawk] USTR - GREER TO TOUR ROCKWELL AUTOMATION WITH THE G20 MINISTERS
+- 09/26 01:20 [DeItaone] OIL FUTURES EXTEND LOSSES, BRENT CRUDE DOWN BY $3 A BARREL ON HOPES OF US-IRAN TRUCE
+- 09/26 01:23 [DeItaone] CHINA, U.S. AGREE TO BUILD CONSTRUCTIVE RELATIONSHIP OF STRATEGIC STABILITY BASED ON RESPECT, FAIRNESS AND RECIPROCITY - XINHUA CHINA, U.S. AGREE TO BUILD A CONSTRUCTIVE RELATIONSHIP OF STRATEGIC STABILITY -XINHUA
+- 09/26 01:23 [DeItaone] NORTH SEA OIL FREIGHT RATES CLIMB AGAIN Platts kept the October Forties de-escalator unchanged at 15 cents, while Aframax freight rates moved higher again. Meanwhile, there were no bids or offers for North Sea crude grades during the Platts…
+- 09/26 01:26 [FirstSquawk] BANK OF FRANCE'S MOULIN SAYS NO CONCERN OVER FRENCH STATE'S ABILITY TO FINANCE ITSELF
+- 09/26 01:26 [FirstSquawk] MOULIN: EVERYTHING MUST BE DONE TO AVOID A SOVEREIGN DEBT CRISIS

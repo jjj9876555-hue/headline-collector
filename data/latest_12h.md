@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-26 01:03 JST／対象: 09/25 13:03 〜 09/26 01:03 JST（時刻はすべて日本時間）
+生成: 2026-09-26 01:27 JST／対象: 09/25 13:27 〜 09/26 01:27 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 44 | 09/25 19:13 | 09/26 00:09 | ⚠ 92分（19:13→20:46） |
-| FirstSquawk | 126 | 09/25 13:05 | 09/26 01:03 | ⚠ 155分（16:01→18:36） |
-| financialjuice | 140 | 09/25 13:09 | 09/26 01:00 | ⚠ 59分（15:00→16:00） |
+| DeItaone | 47 | 09/25 19:13 | 09/26 01:23 | ⚠ 92分（19:13→20:46） |
+| FirstSquawk | 129 | 09/25 13:29 | 09/26 01:26 | ⚠ 155分（16:01→18:36） |
+| financialjuice | 143 | 09/25 13:32 | 09/26 01:09 | ⚠ 59分（15:00→16:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 294 行（統合前 312 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 303 行（統合前 321 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 13:05 [FirstSquawk] Jefferies lifts GoDaddy price target to $100 from $85
-- 09/25 13:09 [financialjuice] EU urges UK to increase tariffs on Chinese cars to avoid ‘made in Europe’ barriers: FT
-- 09/25 13:11 [FirstSquawk] EU calls on UK to increase tariffs on Chinese cars to prevent ‘Made in Europe’ barriers - FT
-- 09/25 13:20 [FirstSquawk] JPMorgan lowers Constellation Brands price target to $133 from $165
 - 09/25 13:29 [FirstSquawk] Trump’s AI agenda draws resistance from segments of his MAGA base - FT
 - 09/25 13:32 [financialjuice] Novoshakhtinsk oil refinery in Russia’s Rostov region hit by drone attack, pauses operations: governor
 - 09/25 13:34 [FirstSquawk] Drone attack damages Novoshakhtinsk oil refinery in Russia’s Rostov region, governor says
@@ -318,3 +314,16 @@
 - 09/26 01:02 [FirstSquawk] TRUMP: HAD A GREAT MEETING WITH XI, GREAT FOR FARMERS
 - 09/26 01:03 [FirstSquawk] TRUMP SAYS DISCUSSED IRAN WITH XI
 - 09/26 01:03 [FirstSquawk] TRUMP SAYS THINK WE'RE GOING TO DO GREAT
+- 09/26 01:03 [financialjuice] Trump: Discussed Iran with Xi
+- 09/26 01:03 [financialjuice] Trump: I think we're going to do great.
+- 09/26 01:05 [FirstSquawk] OIL EXTENDS DECLINE, BRENT TRADES BELOW $104 A BARREL
+- 09/26 01:07 [financialjuice] USTR Greer to travel to wisconsin next week for the G20 gathering.
+- 09/26 01:07 [FirstSquawk] USTR GREER: TO TRAVEL TO WISCONSIN NEXT WEEK FOR G20 GATHERING
+- 09/26 01:09 [FirstSquawk] USTR - G20 TRADE MINISTERIAL SCHEDULED FOR SEPT 29 - OCT 1
+- 09/26 01:09 [financialjuice] USTR Greer: The G20 Trade Ministerial is scheduled for September 29th - October 1st.
+- 09/26 01:11 [FirstSquawk] USTR - GREER TO TOUR ROCKWELL AUTOMATION WITH THE G20 MINISTERS
+- 09/26 01:20 [DeItaone] OIL FUTURES EXTEND LOSSES, BRENT CRUDE DOWN BY $3 A BARREL ON HOPES OF US-IRAN TRUCE
+- 09/26 01:23 [DeItaone] CHINA, U.S. AGREE TO BUILD CONSTRUCTIVE RELATIONSHIP OF STRATEGIC STABILITY BASED ON RESPECT, FAIRNESS AND RECIPROCITY - XINHUA CHINA, U.S. AGREE TO BUILD A CONSTRUCTIVE RELATIONSHIP OF STRATEGIC STABILITY -XINHUA
+- 09/26 01:23 [DeItaone] NORTH SEA OIL FREIGHT RATES CLIMB AGAIN Platts kept the October Forties de-escalator unchanged at 15 cents, while Aframax freight rates moved higher again. Meanwhile, there were no bids or offers for North Sea crude grades during the Platts…
+- 09/26 01:26 [FirstSquawk] BANK OF FRANCE'S MOULIN SAYS NO CONCERN OVER FRENCH STATE'S ABILITY TO FINANCE ITSELF
+- 09/26 01:26 [FirstSquawk] MOULIN: EVERYTHING MUST BE DONE TO AVOID A SOVEREIGN DEBT CRISIS

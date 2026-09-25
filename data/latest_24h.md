@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-26 01:03 JST／対象: 09/25 01:03 〜 09/26 01:03 JST（時刻はすべて日本時間）
+生成: 2026-09-26 01:27 JST／対象: 09/25 01:27 〜 09/26 01:27 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 69 | 09/25 01:15 | 09/26 00:09 | ⚠ 681分（07:52→19:13） |
-| FirstSquawk | 276 | 09/25 01:08 | 09/26 01:03 | ⚠ 155分（16:01→18:36） |
-| financialjuice | 216 | 09/25 01:15 | 09/26 01:00 | ⚠ 88分（11:11→12:40） |
+| DeItaone | 70 | 09/25 01:51 | 09/26 01:23 | ⚠ 681分（07:52→19:13） |
+| FirstSquawk | 277 | 09/25 01:42 | 09/26 01:26 | ⚠ 155分（16:01→18:36） |
+| financialjuice | 217 | 09/25 01:28 | 09/26 01:09 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 533 行（統合前 568 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 536 行（統合前 570 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 01:08 [FirstSquawk] BNP PARIBAS, GOOGLE CLOUD SIGN 5-YEAR PARTNERSHIP FOR AI AND CLOUD INNOVATION
-- 09/25 01:09 [FirstSquawk] CNN AND MS HAVE BEEN GIVEN PERMISSION TO ENTER THE WHITE HOUSE.
-- 09/25 01:15 [financialjuice] Russia's Kuibyshev Oil Refinery has suspended oil processing since September 22ND, following A drone attack - Sources.
-- 09/25 01:15 [DeItaone] US and Iran discuss phased deal to reopen Hormuz and end US blockade, sources say
-- 09/25 01:16 [financialjuice] ❗ US and Iran discuss phased deal to reopen Hormuz and end US blockade - Sources.
-- 09/25 01:16 [DeItaone] U.S. AND IRAN EXPLORE PHASED HORMUZ DEAL U.S. and Iranian negotiators are discussing a phased agreement to end the conflict, Reuters reports. The potential first step would see Iran reopen the Strait of Hormuz in exchange for Washington lif…
-- 09/25 01:16 [FirstSquawk] US AND IRAN DISCUSS PHASED DEAL TO REOPEN HORMUZ AND END US BLOCKADE
-- 09/25 01:20 [financialjuice] US and Iranian negotiators in New York are exploring a phased path out of war that would involve Tehran reopening the Strait of Hormuz and Washington lifting its economic blockade of Iran, sources close to the talks said. The strait has bec…
-- 09/25 01:22 [FirstSquawk] TRUMP'S ADMINISTRATION ANNOUNCES MEDIA ACCESS TO THE WHITE HOUSE HAS BEEN RESTORED.
-- 09/25 01:27 [FirstSquawk] TRUMP CONSIDERS ALLOWING CHINESE EV PRODUCTION IN US AMID XI TALKS - NBC
 - 09/25 01:28 [financialjuice] EU needs 'decisive change' in 'scale and pace' of defence efforts to be ready to defend against Russia by 2030 - Executive Summary of Report for EU Leaders.
 - 09/25 01:42 [FirstSquawk] WHITE HOUSE ASKS OPENAI, ANTHROPIC TO HOLD NEW MODELS FROM UK - POLITICO
 - 09/25 01:45 [FirstSquawk] XI SAYS CHINA HOPES U.S. TO ADHERE TO CORRECT POSITION OF OPPOSING "TAIWAN INDEPENDENCE," HANDLE TAIWAN QUESTION WITH PRUDENCE - XINHUA
@@ -557,3 +547,16 @@
 - 09/26 01:02 [FirstSquawk] TRUMP: HAD A GREAT MEETING WITH XI, GREAT FOR FARMERS
 - 09/26 01:03 [FirstSquawk] TRUMP SAYS DISCUSSED IRAN WITH XI
 - 09/26 01:03 [FirstSquawk] TRUMP SAYS THINK WE'RE GOING TO DO GREAT
+- 09/26 01:03 [financialjuice] Trump: Discussed Iran with Xi
+- 09/26 01:03 [financialjuice] Trump: I think we're going to do great.
+- 09/26 01:05 [FirstSquawk] OIL EXTENDS DECLINE, BRENT TRADES BELOW $104 A BARREL
+- 09/26 01:07 [financialjuice] USTR Greer to travel to wisconsin next week for the G20 gathering.
+- 09/26 01:07 [FirstSquawk] USTR GREER: TO TRAVEL TO WISCONSIN NEXT WEEK FOR G20 GATHERING
+- 09/26 01:09 [FirstSquawk] USTR - G20 TRADE MINISTERIAL SCHEDULED FOR SEPT 29 - OCT 1
+- 09/26 01:09 [financialjuice] USTR Greer: The G20 Trade Ministerial is scheduled for September 29th - October 1st.
+- 09/26 01:11 [FirstSquawk] USTR - GREER TO TOUR ROCKWELL AUTOMATION WITH THE G20 MINISTERS
+- 09/26 01:20 [DeItaone] OIL FUTURES EXTEND LOSSES, BRENT CRUDE DOWN BY $3 A BARREL ON HOPES OF US-IRAN TRUCE
+- 09/26 01:23 [DeItaone] CHINA, U.S. AGREE TO BUILD CONSTRUCTIVE RELATIONSHIP OF STRATEGIC STABILITY BASED ON RESPECT, FAIRNESS AND RECIPROCITY - XINHUA CHINA, U.S. AGREE TO BUILD A CONSTRUCTIVE RELATIONSHIP OF STRATEGIC STABILITY -XINHUA
+- 09/26 01:23 [DeItaone] NORTH SEA OIL FREIGHT RATES CLIMB AGAIN Platts kept the October Forties de-escalator unchanged at 15 cents, while Aframax freight rates moved higher again. Meanwhile, there were no bids or offers for North Sea crude grades during the Platts…
+- 09/26 01:26 [FirstSquawk] BANK OF FRANCE'S MOULIN SAYS NO CONCERN OVER FRENCH STATE'S ABILITY TO FINANCE ITSELF
+- 09/26 01:26 [FirstSquawk] MOULIN: EVERYTHING MUST BE DONE TO AVOID A SOVEREIGN DEBT CRISIS
