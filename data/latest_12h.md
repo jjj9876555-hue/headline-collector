@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-25 20:34 JST／対象: 09/25 08:34 〜 09/25 20:34 JST（時刻はすべて日本時間）
+生成: 2026-09-25 20:52 JST／対象: 09/25 08:52 〜 09/25 20:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 1 | 09/25 19:13 | 09/25 19:13 | - |
-| FirstSquawk | 129 | 09/25 08:42 | 09/25 20:20 | ⚠ 155分（16:01→18:36） |
-| financialjuice | 73 | 09/25 08:51 | 09/25 20:20 | ⚠ 88分（11:11→12:40） |
+| DeItaone | 3 | 09/25 19:13 | 09/25 20:50 | ⚠ 92分（19:13→20:46） |
+| FirstSquawk | 129 | 09/25 08:56 | 09/25 20:40 | ⚠ 155分（16:01→18:36） |
+| financialjuice | 72 | 09/25 09:03 | 09/25 20:20 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 201 行（統合前 203 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 202 行（統合前 204 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 08:42 [FirstSquawk] US ENVOY WITKOFF AND KUSHNER MET RUSSIA'S DMITRIEV TODAY - CNN
-- 09/25 08:51 [financialjuice] Oracle guarantees payouts to investors on New Mexico data center even if it fails to secure power before project launch - FT
 - 09/25 08:56 [FirstSquawk] JAPAN’S NIKKEI FUTURES FALL 0.1% IN EARLY TRADE; 10-YEAR JGB FUTURES DOWN 0.12 POINT
 - 09/25 09:03 [financialjuice] China's President Xi: had a candid and thorough exchange with Trump
 - 09/25 09:04 [financialjuice] China's President Xi: reached broad agreement on numerous issues
@@ -225,3 +223,6 @@
 - 09/25 20:19 [FirstSquawk] META: DEUTSCHE BANK RAISES TARGET PRICE TO $820 FROM $750
 - 09/25 20:20 [FirstSquawk] INTERNATIONAL CRIMINAL COURT IS INSULATED AGAINST US SANCTIONS, SAYS DEPUTY PROSECUTOR- FT
 - 09/25 20:20 [financialjuice] International Criminal Court is insulated against US sanctions, according to deputy prosecutor - FT
+- 09/25 20:40 [FirstSquawk] GERMAN LAWMAKERS APPROVE NEW FUEL-TAX RELIEF WORTH €2.5 B
+- 09/25 20:46 [DeItaone] https://t.co/DfReK0eIPk
+- 09/25 20:50 [DeItaone] $TSLA - STONEX STAYS BULLISH ON TESLA AHEAD OF Q3 DELIVERIES StoneX reiterated its Buy rating and $475 price target on Tesla ahead of next week’s Q3 delivery report. The firm expects 446,500 deliveries, down 10% year-over-year and slightly …
