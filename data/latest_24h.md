@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-26 03:06 JST／対象: 09/25 03:06 〜 09/26 03:06 JST（時刻はすべて日本時間）
+生成: 2026-09-26 03:26 JST／対象: 09/25 03:26 〜 09/26 03:26 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 71 | 09/25 03:12 | 09/26 02:18 | ⚠ 681分（07:52→19:13） |
-| FirstSquawk | 287 | 09/25 03:07 | 09/26 03:05 | ⚠ 155分（16:01→18:36） |
-| financialjuice | 219 | 09/25 03:24 | 09/26 03:05 | ⚠ 88分（11:11→12:40） |
+| DeItaone | 71 | 09/25 03:30 | 09/26 03:09 | ⚠ 681分（07:52→19:13） |
+| FirstSquawk | 283 | 09/25 03:27 | 09/26 03:26 | ⚠ 155分（16:01→18:36） |
+| financialjuice | 231 | 09/25 03:27 | 09/26 03:23 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 546 行（統合前 581 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 555 行（統合前 589 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 03:07 [FirstSquawk] DOZENS OF DIPLOMATS WALKED OUT AT THE START OF NETANYAHU'S UN SPEECH, WITH NETANYAHU CALLING THOSE WHO WALKED OUT OF THE UN GENERAL ASSEMBLY HALL 'MORAL COWARDS'
-- 09/25 03:07 [FirstSquawk] NETANYAHU: ISRAEL IS DEFENDING MANY COUNTRIES WHOSE DELEGATES LEFT THE UN GENERAL ASSEMBLY HALL
-- 09/25 03:11 [FirstSquawk] NETANYAHU TELLS SYRIAN PRESIDENT: JEWS HAVE BEEN IN THE GOLAN HEIGHTS SINCE THE TIME OF MOSES
-- 09/25 03:12 [FirstSquawk/DeItaone] FRENCH PRESIDENT MACRON: CIA HAS NOT WARNED FRANCE ABOUT RUSSIAN THREATS
-- 09/25 03:13 [FirstSquawk] MARYGOLD COMPANIES’ SUBSIDIARY GOURMET FOODS HAS SIGNED A DEFINITIVE AGREEMENT TO SELL ITS PRINTSTOCK BUSINESS UNIT FOR NZ$2.45 MILLION (US$1.4 MILLION), COVERING ALL PRINTSTOCK ASSETS. || DEAL INCLUDES A FIVE-YEAR POST-CLOSING RESTRAINT OF…
-- 09/25 03:13 [FirstSquawk] MERCADOLIBRE IS LAUNCHING A NEW BRAZIL DELIVERY SEGMENT OFFERING ORDERS WITHIN UP TO ONE HOUR, STARTING IN SÃO PAULO, EXPANDING ITS FAST-COMMERCE OPERATIONS.
-- 09/25 03:13 [FirstSquawk] MERCADOLIBRE’S PHARMACY BUSINESS WILL BEGIN SELLING PRESCRIPTION DRUGS IN BRAZIL THIS MONTH, WITH THE PHARMACY SEGMENT SET TO JOIN ITS MARKETPLACE MODEL IN OCTOBER INITIALLY THROUGH THREE CHAINS.
-- 09/25 03:17 [FirstSquawk] FRENCH PRESIDENT MACRON SAYS RUSSIA IS 'MULTIPLYING HOSTILE, AND CRIMINAL ACTS, AGAINST EUROPEAN NATIONS', WARNING THAT FRANCE COULD FACE ATTACKS SIMILAR TO THE FAILED LEIPZIG ATTACK AND THAT ALL SENSITIVE SITES IN FRANCE ARE SUBJECT TO ADD…
-- 09/25 03:19 [FirstSquawk] NETANYAHU: “WE’RE GOING TO WIN, WE HAVE NO OTHER CHOICE”
-- 09/25 03:20 [FirstSquawk] NETANYAHU HOLDS UP PAGER IN REFERENCE TO ISRAEL’S ATTACK ON IRAN-BACKED HEZBOLLAH USING PAGERS
-- 09/25 03:20 [FirstSquawk] NETANYAHU: “I WON’T STAND FOR VIGILANTISM; WE’RE A COUNTRY OF LAW”
-- 09/25 03:24 [financialjuice] French President Macron: We will send military means, soldiers to protect the Red Sea route.
-- 09/25 03:25 [FirstSquawk] NETANYAHU: “WE HAVE NO GREATER PARTNER THAN TRUMP”; THANKS TRUMP
-- 09/25 03:26 [financialjuice] Meta introduces Horizon Create & Horizon Studio $META
 - 09/25 03:27 [financialjuice] French President Macron: Maybe we could think about releasing strategic oil reserves in a coordinated way.
 - 09/25 03:27 [FirstSquawk] NETANYAHU: ACCUSES SEVERAL FOREIGN COUNTRIES OF SPENDING BILLIONS TO PROMOTE WHAT HE CALLS FALSE NARRATIVES ABOUT ISRAEL
 - 09/25 03:28 [financialjuice/DeItaone] French President macron: US decision to ban diesel exports would be bad.
@@ -570,3 +556,26 @@
 - 09/26 03:01 [financialjuice] Pakistan Prime Minister: Through concentrated efforts, Pakistan brought Washington and Tehran under one roof, that lead to Islamabad talks, Islamabad MoU. Must appreciate Field Marshal Asim Munir, efforts of Deputy PM Ishaq Dar” - AsiaOne N…
 - 09/26 03:05 [financialjuice] Fed's Hammack: The biggest risk with inflation is the formation of an inflationary mindset
 - 09/26 03:05 [FirstSquawk] WHITE HOUSE EYES DIESEL FUEL MOVES THAT FALL SHORT OF EXPORT BAN - POLITICO
+- 09/26 03:06 [financialjuice] Fed's Hammack: The public has been dealing with above-target inflation for an extended period
+- 09/26 03:06 [FirstSquawk] FED'S HAMMACK: BIGGEST RISK IS INFLATIONARY MINDSET SETTING IN
+- 09/26 03:06 [financialjuice] fed's Hammack: Growth has held up well, the job market is stable.
+- 09/26 03:06 [financialjuice] Fed's Hammack: Worried about demand-related pressure on inflation
+- 09/26 03:07 [financialjuice] Fed's Hammack: Capital expenditures will pressure inflation for a while
+- 09/26 03:07 [financialjuice] Fed's Hammack: If we don't make progress lowering inflation, expectations could shift.
+- 09/26 03:08 [FirstSquawk] FEDERAL RESERVE AND OTHER REGULATORS TARGETING MID-DECEMBER FOR CAPITAL RULE FINALIZATION - POLITICO
+- 09/26 03:08 [financialjuice] Fed's Hammack: Consumer spending and CAPEX are sources of pressure.
+- 09/26 03:08 [FirstSquawk] FED'S HAMMACK: EXPECTATIONS COULD SHIFT IF NO PROGRESS MADE ON LOWERING INFLATION
+- 09/26 03:08 [financialjuice] Fed's Hammack: Important to have restrictive policy rates
+- 09/26 03:08 [financialjuice] Fed's Hammack: The Fed needs to make sure policy is at a restrictive stance to lower inflation.
+- 09/26 03:09 [DeItaone] FED’S HAMMACK WARNS INFLATION RISKS REMAIN HIGH Fed’s Beth Hammack says the biggest risk is persistent inflation becoming embedded in public expectations. With economic growth holding up and the labor market stable, she warned that strong d…
+- 09/26 03:09 [financialjuice] ECB's Vujcic: We have started a tightening cycle
+- 09/26 03:09 [financialjuice] ECB's Vujcic: See risk of higher for longer energy prices
+- 09/26 03:10 [financialjuice] ECB's Vujcic: Price of refined products might not come down
+- 09/26 03:10 [FirstSquawk] ECB'S VUJCIC: ECB HAS STARTED A TIGHTENING CYCLE
+- 09/26 03:11 [financialjuice] ECB's Vujcic: Diesel prices will stay for long, feeding into inflation.
+- 09/26 03:12 [FirstSquawk] ECB'S VUJCIC: SEEMS LIKE PRICE OF CRUDE WILL FALL BUT NOT THAT OF REFINED PRODUCTS
+- 09/26 03:16 [FirstSquawk] EMEA EXPLORATION AND PRODUCTION OIL AND GAS SET FOR STRONG PERFORMANCE – FITCH
+- 09/26 03:21 [financialjuice] Fed's Hammack: There are lots of long-term questions on what AI will mean for inflation
+- 09/26 03:23 [financialjuice] Fed's Hammack: Underlying inflation is likely above target
+- 09/26 03:24 [FirstSquawk] FED'S HAMMACK: UNDERLYING INFLATION LIKELY ABOVE TARGET
+- 09/26 03:26 [FirstSquawk] BLACKSTONE’S TOP PRIVATE-EQUITY EXECUTIVE IS PREPARING TO LEAVE FIRM – WSJ

@@ -7,45 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-26 03:06 JST／対象: 09/25 21:06 〜 09/26 03:06 JST（時刻はすべて日本時間）
+生成: 2026-09-26 03:26 JST／対象: 09/25 21:26 〜 09/26 03:26 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 58 | 09/25 21:11 | 09/26 02:18 | ⚠ 71分（00:09→01:20） |
-| FirstSquawk | 90 | 09/25 21:06 | 09/26 03:05 | 35分（00:26→01:01） |
-| financialjuice | 106 | 09/25 21:08 | 09/26 03:05 | 34分（02:18→02:52） |
+| DeItaone | 54 | 09/25 21:30 | 09/26 03:09 | ⚠ 71分（00:09→01:20） |
+| FirstSquawk | 85 | 09/25 21:32 | 09/26 03:26 | 35分（00:26→01:01） |
+| financialjuice | 110 | 09/25 21:30 | 09/26 03:23 | 34分（02:18→02:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 234 行（統合前 256 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 236 行（統合前 250 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 21:06 [FirstSquawk] MICROSOFT UNVEILS NEW COPILOT FEATURES FOR HOME, CODE, AND AUTOPILOT.
-- 09/25 21:06 [FirstSquawk] MICROSOFT IS ROLLING OUT HOME & CODE IN COPILOT THROUGH THE FRONTIER PROGRAM SOON, WITH AUTOPILOT SET TO BEGIN PRIVATE PREVIEW BY MONTH-END.
-- 09/25 21:06 [FirstSquawk] MICROSOFT'S COPILOT MANAGED RUNTIME IS NOW AVAILABLE FOR PUBLIC PREVIEW AND WILL BE INTEGRATED INTO CODE.
-- 09/25 21:06 [FirstSquawk] MICROSOFT’S CODE IN COPILOT WILL BE AVAILABLE FOR PREVIEW TO MICROSOFT 365 PREMIUM AND PRO SUBSCRIBERS LATER THIS YEAR.
-- 09/25 21:07 [FirstSquawk] MICROSOFT ANNOUNCED THAT "TODAY" IN HOME WILL START PRIVATE PREVIEW IN OCTOBER FOR COPILOT AND WILL ALSO BE AVAILABLE IN OUTLOOK AND TEAMS SOON.
-- 09/25 21:07 [FirstSquawk] MICROSOFT IS EXPANDING COST MANAGEMENT IN AGENT 365 TO INCLUDE CODE AND COPILOT MANAGED RUNTIME, WITH COPILOT STUDIO SUPPORT COMING IN OCTOBER.
-- 09/25 21:07 [FirstSquawk] UNICREDIT OFFICIAL DENIES PRESS REPORT ABOUT BPM INTEREST AS BASELESS.
-- 09/25 21:08 [financialjuice] Kremlin: No concrete talks on black sea safety - TASS
-- 09/25 21:09 [FirstSquawk/financialjuice] KREMLIN: SANCTIONS MUST BE LIFTED TO END DIESEL EXPORT BAN -TASS
-- 09/25 21:11 [DeItaone] US AMBASSADOR TO CHINA: TRUMP, XI BEGINNING TO DEVELOP RELATIONSHIP OF SOMEWHAT TRUST
-- 09/25 21:11 [DeItaone/financialjuice/FirstSquawk] US AMBASSADOR TO CHINA: TRUMP, XI HAD VERY CANDID, OPEN CONVERSATION - CNBC
-- 09/25 21:12 [financialjuice/FirstSquawk] US Ambassador to China: Trump and Xi are beginning to develop a relationship of some trust
-- 09/25 21:12 [DeItaone/financialjuice] US AMBASSADOR TO CHINA: TRUMP MADE CLEAR ANY HELP CHINA GIVES IRAN TOTALLY UNACCEPTABLE -CNBC
-- 09/25 21:13 [DeItaone] US NATURAL GAS FUTURES EXTEND LOSSES, PRICES DOWN BY 5% IN VOLATILE TRADE AHEAD OF CONTRACT EXPIRATION
-- 09/25 21:13 [financialjuice] US and China agree that Iran should not have nuclear weapons - Perdue
-- 09/25 21:14 [financialjuice] Morning Juice - US Session Prep (25th September)
-- 09/25 21:14 [financialjuice] US Ambassador to China: US thinks there was China indirect support for Iran.
-- 09/25 21:17 [financialjuice/FirstSquawk] US and China on AI: Progress on law enforcement cooperation - Perdue
-- 09/25 21:18 [financialjuice/FirstSquawk] US Ambassador to China: There is no change on Taiwan policy from US.
-- 09/25 21:18 [DeItaone] GOLDMAN SEES AI CAPEX SURGING TO $1.2 TRILLION Goldman Sachs expects the five largest U.S. hyperscalers to boost AI infrastructure spending 54% to $1.2 trillion in 2027, above Wall Street estimates. Amazon, Alphabet, Microsoft, Oracle and M…
-- 09/25 21:18 [FirstSquawk] TRUMP TO CAMPAIGN IN OKLAHOMA, ALABAMA NEXT WEEK - WAPO
-- 09/25 21:19 [financialjuice] US Ambassador to China Perdue: The US doesn't support Taiwan independence
 - 09/25 21:30 [DeItaone] US AUG DURABLES ORDERS UNCHANGED (CONSENSUS -0.4%)
 - 09/25 21:30 [financialjuice] US CORE DURABLE GOODS ACTUAL 0.3% (FORECAST 0.6%, PREVIOUS 0.4%) $MACRO
 - 09/25 21:30 [financialjuice] ❗ US DURABLE GOODS ACTUAL 0% (FORECAST -0.3%, PREVIOUS 1.1%) $MACRO
@@ -59,6 +37,7 @@
 - 09/25 21:45 [DeItaone/financialjuice] USTR GREER: WE HAVE REACHED AGREEMENTS WITH CHINA ON SUBSET OF GOODS WE CAN TRADE
 - 09/25 21:45 [DeItaone] GAZPROM INCREASED GAS PRODUCTION BY 3.4% IN THE FIRST HALF OF THE YEAR, TO 216.55 BILLION CUBIC METERS - IFX
 - 09/25 21:46 [FirstSquawk] GREER SAYS WILL RELEASE DETAILS ON CHINA TRADE TALKS ON MONDAY
+- 09/25 21:46 [financialjuice] Morning Juice – US Session Prep (25th September)
 - 09/25 21:46 [FirstSquawk] US, CHINA REACHED AGREEMENT ON NUMBER OF TRADE AREAS - GREER
 - 09/25 21:46 [financialjuice] USTR Greer: The US and China reached an agreement on a number of trade areas.
 - 09/25 21:47 [DeItaone] USTR GREER: CONVERSATIONS WITH CHINA ABOUT EXPORT CONTROLS, NATIONAL SECURITY ARE OFF THE TABLE IN THESE TALKS -CNBC
@@ -258,3 +237,26 @@
 - 09/26 03:01 [financialjuice] Pakistan Prime Minister: Through concentrated efforts, Pakistan brought Washington and Tehran under one roof, that lead to Islamabad talks, Islamabad MoU. Must appreciate Field Marshal Asim Munir, efforts of Deputy PM Ishaq Dar” - AsiaOne N…
 - 09/26 03:05 [financialjuice] Fed's Hammack: The biggest risk with inflation is the formation of an inflationary mindset
 - 09/26 03:05 [FirstSquawk] WHITE HOUSE EYES DIESEL FUEL MOVES THAT FALL SHORT OF EXPORT BAN - POLITICO
+- 09/26 03:06 [financialjuice] Fed's Hammack: The public has been dealing with above-target inflation for an extended period
+- 09/26 03:06 [FirstSquawk] FED'S HAMMACK: BIGGEST RISK IS INFLATIONARY MINDSET SETTING IN
+- 09/26 03:06 [financialjuice] fed's Hammack: Growth has held up well, the job market is stable.
+- 09/26 03:06 [financialjuice] Fed's Hammack: Worried about demand-related pressure on inflation
+- 09/26 03:07 [financialjuice] Fed's Hammack: Capital expenditures will pressure inflation for a while
+- 09/26 03:07 [financialjuice] Fed's Hammack: If we don't make progress lowering inflation, expectations could shift.
+- 09/26 03:08 [FirstSquawk] FEDERAL RESERVE AND OTHER REGULATORS TARGETING MID-DECEMBER FOR CAPITAL RULE FINALIZATION - POLITICO
+- 09/26 03:08 [financialjuice] Fed's Hammack: Consumer spending and CAPEX are sources of pressure.
+- 09/26 03:08 [FirstSquawk] FED'S HAMMACK: EXPECTATIONS COULD SHIFT IF NO PROGRESS MADE ON LOWERING INFLATION
+- 09/26 03:08 [financialjuice] Fed's Hammack: Important to have restrictive policy rates
+- 09/26 03:08 [financialjuice] Fed's Hammack: The Fed needs to make sure policy is at a restrictive stance to lower inflation.
+- 09/26 03:09 [DeItaone] FED’S HAMMACK WARNS INFLATION RISKS REMAIN HIGH Fed’s Beth Hammack says the biggest risk is persistent inflation becoming embedded in public expectations. With economic growth holding up and the labor market stable, she warned that strong d…
+- 09/26 03:09 [financialjuice] ECB's Vujcic: We have started a tightening cycle
+- 09/26 03:09 [financialjuice] ECB's Vujcic: See risk of higher for longer energy prices
+- 09/26 03:10 [financialjuice] ECB's Vujcic: Price of refined products might not come down
+- 09/26 03:10 [FirstSquawk] ECB'S VUJCIC: ECB HAS STARTED A TIGHTENING CYCLE
+- 09/26 03:11 [financialjuice] ECB's Vujcic: Diesel prices will stay for long, feeding into inflation.
+- 09/26 03:12 [FirstSquawk] ECB'S VUJCIC: SEEMS LIKE PRICE OF CRUDE WILL FALL BUT NOT THAT OF REFINED PRODUCTS
+- 09/26 03:16 [FirstSquawk] EMEA EXPLORATION AND PRODUCTION OIL AND GAS SET FOR STRONG PERFORMANCE – FITCH
+- 09/26 03:21 [financialjuice] Fed's Hammack: There are lots of long-term questions on what AI will mean for inflation
+- 09/26 03:23 [financialjuice] Fed's Hammack: Underlying inflation is likely above target
+- 09/26 03:24 [FirstSquawk] FED'S HAMMACK: UNDERLYING INFLATION LIKELY ABOVE TARGET
+- 09/26 03:26 [FirstSquawk] BLACKSTONE’S TOP PRIVATE-EQUITY EXECUTIVE IS PREPARING TO LEAVE FIRM – WSJ

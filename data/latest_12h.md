@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-26 03:06 JST／対象: 09/25 15:06 〜 09/26 03:06 JST（時刻はすべて日本時間）
+生成: 2026-09-26 03:26 JST／対象: 09/25 15:26 〜 09/26 03:26 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 65 | 09/25 19:13 | 09/26 02:18 | ⚠ 92分（19:13→20:46） |
-| FirstSquawk | 132 | 09/25 15:09 | 09/26 03:05 | ⚠ 155分（16:01→18:36） |
-| financialjuice | 155 | 09/25 16:00 | 09/26 03:05 | ⚠ 55分（16:05→17:00） |
+| DeItaone | 66 | 09/25 19:13 | 09/26 03:09 | ⚠ 92分（19:13→20:46） |
+| FirstSquawk | 134 | 09/25 15:32 | 09/26 03:26 | ⚠ 155分（16:01→18:36） |
+| financialjuice | 169 | 09/25 16:00 | 09/26 03:23 | ⚠ 55分（16:05→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 331 行（統合前 354 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 348 行（統合前 371 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 15:09 [FirstSquawk] Taiwan says Xi’s Taiwan remarks in Washington reflect Beijing’s continued ‘distortion of facts’
-- 09/25 15:10 [FirstSquawk] Taiwan says it will work with US, like-minded partners to protect peace and stability in Taiwan Strait
-- 09/25 15:12 [FirstSquawk] EU urges UK to raise tariffs on Chinese cars to avoid ‘Made in Europe’ barriers, FT reports
-- 09/25 15:12 [FirstSquawk] EU pushes Trump to preserve ‘free flow’ of diesel, FT reports
-- 09/25 15:23 [FirstSquawk] NIKKEI RISES 0.5%, LED BY BANK STOCKS-WSJ
-- 09/25 15:24 [FirstSquawk] Australia’s ASX 200 ends 0.4% lower at 8,665.00
 - 09/25 15:32 [FirstSquawk] ArcelorMittal expects $1 billion impairment charge for Kryvyi Rih assets after missile strikes
 - 09/25 15:35 [FirstSquawk] Swedish and Finnish fighter jets scrambled to identify Russian military aircraft, Finnish Air Force says
 - 09/25 15:40 [FirstSquawk] TRUMP EXPRESSED CONCERNS ABOUT YEN WEAKNESS, JAPAN FINANCE MINISTER SAYS-WSJ
@@ -355,3 +349,26 @@
 - 09/26 03:01 [financialjuice] Pakistan Prime Minister: Through concentrated efforts, Pakistan brought Washington and Tehran under one roof, that lead to Islamabad talks, Islamabad MoU. Must appreciate Field Marshal Asim Munir, efforts of Deputy PM Ishaq Dar” - AsiaOne N…
 - 09/26 03:05 [financialjuice] Fed's Hammack: The biggest risk with inflation is the formation of an inflationary mindset
 - 09/26 03:05 [FirstSquawk] WHITE HOUSE EYES DIESEL FUEL MOVES THAT FALL SHORT OF EXPORT BAN - POLITICO
+- 09/26 03:06 [financialjuice] Fed's Hammack: The public has been dealing with above-target inflation for an extended period
+- 09/26 03:06 [FirstSquawk] FED'S HAMMACK: BIGGEST RISK IS INFLATIONARY MINDSET SETTING IN
+- 09/26 03:06 [financialjuice] fed's Hammack: Growth has held up well, the job market is stable.
+- 09/26 03:06 [financialjuice] Fed's Hammack: Worried about demand-related pressure on inflation
+- 09/26 03:07 [financialjuice] Fed's Hammack: Capital expenditures will pressure inflation for a while
+- 09/26 03:07 [financialjuice] Fed's Hammack: If we don't make progress lowering inflation, expectations could shift.
+- 09/26 03:08 [FirstSquawk] FEDERAL RESERVE AND OTHER REGULATORS TARGETING MID-DECEMBER FOR CAPITAL RULE FINALIZATION - POLITICO
+- 09/26 03:08 [financialjuice] Fed's Hammack: Consumer spending and CAPEX are sources of pressure.
+- 09/26 03:08 [FirstSquawk] FED'S HAMMACK: EXPECTATIONS COULD SHIFT IF NO PROGRESS MADE ON LOWERING INFLATION
+- 09/26 03:08 [financialjuice] Fed's Hammack: Important to have restrictive policy rates
+- 09/26 03:08 [financialjuice] Fed's Hammack: The Fed needs to make sure policy is at a restrictive stance to lower inflation.
+- 09/26 03:09 [DeItaone] FED’S HAMMACK WARNS INFLATION RISKS REMAIN HIGH Fed’s Beth Hammack says the biggest risk is persistent inflation becoming embedded in public expectations. With economic growth holding up and the labor market stable, she warned that strong d…
+- 09/26 03:09 [financialjuice] ECB's Vujcic: We have started a tightening cycle
+- 09/26 03:09 [financialjuice] ECB's Vujcic: See risk of higher for longer energy prices
+- 09/26 03:10 [financialjuice] ECB's Vujcic: Price of refined products might not come down
+- 09/26 03:10 [FirstSquawk] ECB'S VUJCIC: ECB HAS STARTED A TIGHTENING CYCLE
+- 09/26 03:11 [financialjuice] ECB's Vujcic: Diesel prices will stay for long, feeding into inflation.
+- 09/26 03:12 [FirstSquawk] ECB'S VUJCIC: SEEMS LIKE PRICE OF CRUDE WILL FALL BUT NOT THAT OF REFINED PRODUCTS
+- 09/26 03:16 [FirstSquawk] EMEA EXPLORATION AND PRODUCTION OIL AND GAS SET FOR STRONG PERFORMANCE – FITCH
+- 09/26 03:21 [financialjuice] Fed's Hammack: There are lots of long-term questions on what AI will mean for inflation
+- 09/26 03:23 [financialjuice] Fed's Hammack: Underlying inflation is likely above target
+- 09/26 03:24 [FirstSquawk] FED'S HAMMACK: UNDERLYING INFLATION LIKELY ABOVE TARGET
+- 09/26 03:26 [FirstSquawk] BLACKSTONE’S TOP PRIVATE-EQUITY EXECUTIVE IS PREPARING TO LEAVE FIRM – WSJ
