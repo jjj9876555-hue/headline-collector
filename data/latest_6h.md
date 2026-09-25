@@ -7,27 +7,25 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-25 12:24 JST／対象: 09/25 06:24 〜 09/25 12:24 JST（時刻はすべて日本時間）
+生成: 2026-09-25 12:44 JST／対象: 09/25 06:44 〜 09/25 12:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/25 07:52 | 09/25 07:52 | - |
-| FirstSquawk | 77 | 09/25 06:25 | 09/25 12:14 | ⚠ 46分（07:06→07:52） |
-| financialjuice | 34 | 09/25 06:44 | 09/25 11:11 | ⚠ 76分（09:15→10:31） |
+| FirstSquawk | 76 | 09/25 06:47 | 09/25 12:38 | ⚠ 46分（07:06→07:52） |
+| financialjuice | 34 | 09/25 07:12 | 09/25 12:40 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 107 行（統合前 112 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 107 行（統合前 111 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 06:25 [FirstSquawk] BOND VOLATILITY KEPT U.S. STOCKS UNDER PRESSURE AS BRENT CRUDE SETTLED NEAR $107 A BARREL, RAISING CONCERNS THAT PERSISTENT INFLATION COULD FORCE THE FEDERAL RESERVE TO KEEP RAISING RATES, WHILE 30-YEAR TREASURY YIELDS REACHED THEIR HIGHEST…
-- 09/25 06:25 [FirstSquawk] MONEY MARKETS ARE NOW FULLY PRICING THREE ADDITIONAL FED RATE HIKES OVER THE NEXT YEAR AS INVESTORS DEMAND HIGHER RETURNS ON LONG-TERM BONDS, WHILE TRUMP AND XI DISCUSSED AI COMPETITION AFTER THE U.S.-CHINA TRADE TRUCE WAS EXTENDED BY ABOUT…
-- 09/25 06:44 [financialjuice/FirstSquawk] Argentina's province of San Juan launches $600 million international bond below 10% rate - local media
 - 09/25 06:47 [FirstSquawk] MGM RESORTS EYES BID FOR BARRY DILLER’S PEOPLE INCORPORATED; PROPOSAL COULD COME WITHIN DAYS — WSJ
+- 09/25 07:06 [FirstSquawk] ARGENTINA'S PROVINCE OF SAN JUAN LAUNCHES $600 MILLION INTERNATIONAL BOND BELOW 10% RATE - LOCAL MEDIA
 - 09/25 07:12 [financialjuice] New Zealand Finance Minister announces short-term appointment of Rebecca Williams as internal member of Reserve Bank of New Zealand monetary policy committee
 - 09/25 07:27 [financialjuice/FirstSquawk] UK foreign secretary Miliband warns Iran's foreign minister: UK will not tolerate hostile acts on British soil - Sky News
 - 09/25 07:34 [financialjuice/FirstSquawk] Iranian president on whether war could end before year-end: it's America that must decide if it wants to end this
@@ -131,3 +129,5 @@
 - 09/25 11:59 [FirstSquawk] Baird lifts Charles River Laboratories price target to $334 from $291
 - 09/25 12:06 [FirstSquawk] Brent crude futures decline 1% to $105.54 per barrel
 - 09/25 12:14 [FirstSquawk] Asian bond yields rise despite weaker oil prices as markets remain cautious - WSJ
+- 09/25 12:38 [FirstSquawk] Thailand’s exports projected to rise through year-end, says Commerce Ministry
+- 09/25 12:40 [financialjuice] strait of hormuz commodity vessel crossings drop to single digits, preliminary shiptracking data shows

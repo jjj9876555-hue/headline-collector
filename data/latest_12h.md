@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-25 12:24 JST／対象: 09/25 00:24 〜 09/25 12:24 JST（時刻はすべて日本時間）
+生成: 2026-09-25 12:44 JST／対象: 09/25 00:44 〜 09/25 12:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 33 | 09/25 00:30 | 09/25 07:52 | ⚠ 230分（04:02→07:52） |
-| FirstSquawk | 148 | 09/25 00:31 | 09/25 12:14 | ⚠ 46分（07:06→07:52） |
-| financialjuice | 83 | 09/25 00:32 | 09/25 11:11 | ⚠ 76分（09:15→10:31） |
+| DeItaone | 30 | 09/25 00:48 | 09/25 07:52 | ⚠ 230分（04:02→07:52） |
+| FirstSquawk | 148 | 09/25 00:48 | 09/25 12:38 | ⚠ 46分（07:06→07:52） |
+| financialjuice | 80 | 09/25 00:48 | 09/25 12:40 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 251 行（統合前 269 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 245 行（統合前 263 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 00:30 [DeItaone] OIL FUTURES EXTEND GAINS, US CRUDE UP BY $4 A BARREL AFTER YEMEN'S HOUTHIS FIRE MISSILES AT SAUDI ARABIA
-- 09/25 00:31 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 0.23%; GERMANY'S DAX DOWN 0.61%
-- 09/25 00:32 [financialjuice] US 4-WEEK BILL HIGH YIELD ACTUAL 3.85% (FORECAST -, PREVIOUS 3.820%) $MACRO
-- 09/25 00:32 [financialjuice] US 4-WEEK BILL BID-TO-COVER ACTUAL 2.61 (FORECAST -, PREVIOUS 3.020) $MACRO
-- 09/25 00:33 [financialjuice] US 4-Week Bill Auction High Yield 3.850% Bid-to-cover 2.61 US sells $90 bln Awards 54.97% of bids at high
-- 09/25 00:33 [financialjuice] The US seeks to join Musk in his court fight with the EU over the X fine.
-- 09/25 00:35 [DeItaone] U.S. NATURAL GAS FUTURES JUMP MORE THAN 6% AS OIL EXTENDS RISE
-- 09/25 00:36 [DeItaone] U.S. TREASURY 10-YEAR YIELD HIGH FOR SESSION OF 5.1685%, HIGHEST SINCE JULY 2007; YIELD ON 10-YEAR NOTE LAST UP 5.24 BASIS POINTS AT 5.166%
 - 09/25 00:48 [DeItaone/FirstSquawk] XI HOLDS SMALL-GROUP EXCHANGES WITH TRUMP - XINHUA
 - 09/25 00:48 [financialjuice] China’s President Xi holds small-group exchanges with Trump - Xinhua.
 - 09/25 00:50 [DeItaone] ORACLE: FORCE-MAJEURE NOTICES ARE COMMONPLACE IN DEVELOPMENTS OF THIS SCALE AND ARE OFTEN USED TO PRESERVE CONTRACTUAL RIGHTS AMONG PROJECT PARTNERS
@@ -275,3 +267,5 @@
 - 09/25 11:59 [FirstSquawk] Baird lifts Charles River Laboratories price target to $334 from $291
 - 09/25 12:06 [FirstSquawk] Brent crude futures decline 1% to $105.54 per barrel
 - 09/25 12:14 [FirstSquawk] Asian bond yields rise despite weaker oil prices as markets remain cautious - WSJ
+- 09/25 12:38 [FirstSquawk] Thailand’s exports projected to rise through year-end, says Commerce Ministry
+- 09/25 12:40 [financialjuice] strait of hormuz commodity vessel crossings drop to single digits, preliminary shiptracking data shows
