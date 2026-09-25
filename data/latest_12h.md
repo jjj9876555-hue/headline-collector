@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-25 17:45 JST／対象: 09/25 05:45 〜 09/25 17:45 JST（時刻はすべて日本時間）
+生成: 2026-09-25 17:59 JST／対象: 09/25 05:59 〜 09/25 17:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/25 07:52 | 09/25 07:52 | - |
 | FirstSquawk | 120 | 09/25 06:06 | 09/25 16:01 | ⚠ 46分（07:06→07:52） |
-| financialjuice | 54 | 09/25 06:01 | 09/25 17:25 | ⚠ 88分（11:11→12:40） |
+| financialjuice | 55 | 09/25 06:01 | 09/25 17:50 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 169 行（統合前 175 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 170 行（統合前 176 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -193,3 +193,4 @@
 - 09/25 17:14 [financialjuice] Zelenskiy: US suggests UAE as next meeting host, Kyiv awaits date
 - 09/25 17:21 [financialjuice] Turkish parliament speaker: defence agreement with Pakistan, Saudi Arabia not submitted to parliament yet, expected after session opens next month
 - 09/25 17:25 [financialjuice] German economy minister Reiche: fantasies of seizure and nationalization have no place in Germany
+- 09/25 17:50 [financialjuice] Iraq's Najaf airport halts all flights to and from Iran - INA

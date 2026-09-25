@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-25 17:45 JST／対象: 09/24 17:45 〜 09/25 17:45 JST（時刻はすべて日本時間）
+生成: 2026-09-25 17:59 JST／対象: 09/24 17:59 〜 09/25 17:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 87 | 09/24 21:26 | 09/25 07:52 | ⚠ 230分（04:02→07:52） |
 | FirstSquawk | 330 | 09/24 18:05 | 09/25 16:01 | ⚠ 46分（07:06→07:52） |
-| financialjuice | 244 | 09/24 17:50 | 09/25 17:25 | ⚠ 88分（11:11→12:40） |
+| financialjuice | 244 | 09/24 18:09 | 09/25 17:50 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 633 行（統合前 667 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,7 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 17:50 [financialjuice] Fed's Williams: I view AI boom as more of a traditional demand shock, question on how long chip supply challenges last.
 - 09/24 18:05 [FirstSquawk] TRUMP ALLIES OPEN NEW FRONT AGAINST ANTHROPIC CEO OVER AI "DOOMERISM" - AXIOS
 - 09/24 18:05 [FirstSquawk] SAUDI ARAMCO CEO SAYS WILL CONTINUE TO SUPPLY JAPAN - NIKKEI
 - 09/24 18:05 [FirstSquawk] SAUDI ARAMCO STUDYING 4TH, 5TH ROUTES FOR CRUDE OIL - NIKKEI
@@ -657,3 +656,4 @@
 - 09/25 17:14 [financialjuice] Zelenskiy: US suggests UAE as next meeting host, Kyiv awaits date
 - 09/25 17:21 [financialjuice] Turkish parliament speaker: defence agreement with Pakistan, Saudi Arabia not submitted to parliament yet, expected after session opens next month
 - 09/25 17:25 [financialjuice] German economy minister Reiche: fantasies of seizure and nationalization have no place in Germany
+- 09/25 17:50 [financialjuice] Iraq's Najaf airport halts all flights to and from Iran - INA
