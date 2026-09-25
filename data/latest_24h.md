@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-25 11:16 JST／対象: 09/24 11:16 〜 09/25 11:16 JST（時刻はすべて日本時間）
+生成: 2026-09-25 11:33 JST／対象: 09/24 11:33 〜 09/25 11:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 87 | 09/24 21:26 | 09/25 07:52 | ⚠ 230分（04:02→07:52） |
-| FirstSquawk | 371 | 09/24 11:18 | 09/25 11:12 | ⚠ 46分（07:06→07:52） |
-| financialjuice | 252 | 09/24 11:17 | 09/25 11:11 | ⚠ 108分（15:47→17:36） |
+| FirstSquawk | 366 | 09/24 11:33 | 09/25 11:27 | ⚠ 46分（07:06→07:52） |
+| financialjuice | 250 | 09/24 12:41 | 09/25 11:11 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 682 行（統合前 716 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 675 行（統合前 709 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 11:17 [financialjuice] Google nears launch of flagship Gemini 4 AI model: The Information
-- 09/24 11:18 [FirstSquawk] Google close to unveiling next-generation Gemini 4 AI model, The Information says
-- 09/24 11:19 [FirstSquawk] Indonesian rupiah drops to 17,900 per dollar, weakest in over a month
-- 09/24 11:27 [FirstSquawk] Crude oil falls after bigger-than-expected increase in U.S. stockpiles - WSJ
-- 09/24 11:27 [FirstSquawk] Asian currencies come under pressure as Treasury yields climb sharply - WSJ
-- 09/24 11:32 [FirstSquawk] DHL Express, Singapore Airlines extend Boeing 777 freighter partnership
-- 09/24 11:32 [FirstSquawk] Singapore Airlines to operate 5 Boeing 777 freighters at Changi for DHL Express
-- 09/24 11:32 [FirstSquawk] Singapore Airlines to handle aircraft maintenance
-- 09/24 11:33 [financialjuice] Dollar/yen declines 0.33% to 157.80
 - 09/24 11:33 [FirstSquawk] USD/JPY drops 0.33% to 157.80
 - 09/24 11:37 [FirstSquawk] Fay regains tropical storm status, NHC says
 - 09/24 11:43 [FirstSquawk] South Korea’s Lee vows to double chip production in 5 years, strengthen AI supply chains - YONHAP
@@ -706,3 +697,5 @@
 - 09/25 11:11 [FirstSquawk] Pakistan says attempted Afghan attack in Gulistan sector was thwarted, several Taliban killed
 - 09/25 11:11 [financialjuice] Japan finance minister Katayama: BoJ’s recent rate increase aimed at reaching inflation goal
 - 09/25 11:12 [FirstSquawk] Pakistan security sources: Security forces and Afghan Taliban continue intermittent exchanges of fire
+- 09/25 11:18 [FirstSquawk] Canadian dollar loses ground amid weaker oil prices and a firmer US dollar
+- 09/25 11:27 [FirstSquawk] Hong Kong gains ground on Dubai in ‘super-prime’ property sales during Iran war - scmp
