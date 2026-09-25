@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-25 13:52 JST／対象: 09/24 13:52 〜 09/25 13:52 JST（時刻はすべて日本時間）
+生成: 2026-09-25 14:05 JST／対象: 09/24 14:05 〜 09/25 14:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 87 | 09/24 21:26 | 09/25 07:52 | ⚠ 230分（04:02→07:52） |
-| FirstSquawk | 357 | 09/24 13:53 | 09/25 13:47 | ⚠ 46分（07:06→07:52） |
-| financialjuice | 252 | 09/24 14:00 | 09/25 13:46 | ⚠ 108分（15:47→17:36） |
+| FirstSquawk | 357 | 09/24 14:12 | 09/25 14:03 | ⚠ 46分（07:06→07:52） |
+| financialjuice | 244 | 09/24 14:07 | 09/25 13:46 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 668 行（統合前 702 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 660 行（統合前 694 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 13:53 [FirstSquawk] Polish Army says preventive air operations conducted in response to Russian strikes on Ukraine
-- 09/24 14:00 [financialjuice] Iraqi economy expected to shrink 12% amid oil export drops: EBRD
-- 09/24 14:00 [financialjuice] EBRD lowers Turkey growth forecast 0.5 percentage points to 3% in 2026 on persistent inflation pressures
-- 09/24 14:00 [financialjuice] Average U.S. import tariffs from EBRD region dropped to 8.6% from 11.6% after July 2026 adjustments
-- 09/24 14:00 [financialjuice] EBRD lowers 2026 regional growth by 0.6 percentage points to 2.5%, boosts 2027 growth by 0.4 pp to 4%
-- 09/24 14:00 [financialjuice] Lebanon's economy to shrink 5% in 2026 amid israel hostilities, recover 4% in 2027: ebrd
-- 09/24 14:00 [financialjuice] Black Sea attacks could reduce Ukraine's wheat, metal and oilseed exports by up to $5.5 billion in 2026: EBRD
-- 09/24 14:00 [financialjuice] EBRD lowers Ukraine economic growth forecast for 2026 by 0.7 percentage points to 1.5%, cuts 2027 forecast by 1.5 percentage points to 2.5%
-- 09/24 14:01 [financialjuice] Ukraine’s economic outlook weakened materially to near stagnation as Russian air attacks increase, EBRD says
-- 09/24 14:01 [FirstSquawk] US judge issues order blocking Trump administration’s White House ban on CNN, MS NOW and Politico
 - 09/24 14:07 [financialjuice] ‼ BREAKING: SWISS INTEREST RATE ACTUAL 0.00% (FORECAST 0%, PREVIOUS 0.00%) $MACRO
 - 09/24 14:12 [FirstSquawk] Russia says it struck Ukrainian defence facilities, logistics centres and military-use vessels
 - 09/24 14:14 [FirstSquawk] Polish Air Force concludes operations launched in response to Russian strikes on Ukraine
@@ -692,3 +682,5 @@
 - 09/25 13:41 [FirstSquawk] 2-year Japanese government bond yield rises to 1.950%, up 5.0 basis points
 - 09/25 13:46 [financialjuice] Internet disruption reported in conflict-hit northern Ethiopia: web monitor NetBlocks
 - 09/25 13:47 [FirstSquawk] Credit Suisse reaches settlement with Australian insurer over Greensill - FT
+- 09/25 14:02 [FirstSquawk] Russia says it continued overnight strikes on Ukraine’s defense industry, logistics hubs and vessels
+- 09/25 14:03 [FirstSquawk] Explosion reported near central Kyiv amid Russian drone attack, Reuters witness says
