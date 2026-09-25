@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-25 11:51 JST／対象: 09/24 11:51 〜 09/25 11:51 JST（時刻はすべて日本時間）
+生成: 2026-09-25 12:03 JST／対象: 09/24 12:03 〜 09/25 12:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 87 | 09/24 21:26 | 09/25 07:52 | ⚠ 230分（04:02→07:52） |
-| FirstSquawk | 363 | 09/24 11:54 | 09/25 11:50 | ⚠ 46分（07:06→07:52） |
+| FirstSquawk | 362 | 09/24 12:09 | 09/25 11:59 | ⚠ 46分（07:06→07:52） |
 | financialjuice | 250 | 09/24 12:41 | 09/25 11:11 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 672 行（統合前 706 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 671 行（統合前 705 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 11:54 [FirstSquawk] AUD/JPY slips after mixed Australian jobs data
-- 09/24 12:01 [FirstSquawk] High costs challenge Thailand’s solar scheme as smaller users remain hesitant - SCMP
 - 09/24 12:09 [FirstSquawk] China drops two-thirds of planned coal power plants abroad - SCMP
 - 09/24 12:34 [FirstSquawk] Canadian dollar remains steady as oil uncertainty and Fed hawkishness persist
 - 09/24 12:35 [FirstSquawk] Hong Kong improves property market transparency ranking, remains behind Singapore - SCMP
@@ -696,3 +694,4 @@
 - 09/25 11:27 [FirstSquawk] Hong Kong gains ground on Dubai in ‘super-prime’ property sales during Iran war - scmp
 - 09/25 11:42 [FirstSquawk] North Korea faces propaganda setback after Ukraine’s POW transfer reveal - SCMP
 - 09/25 11:50 [FirstSquawk] Polo expected to strengthen back to Category 5 on Friday, NHC says
+- 09/25 11:59 [FirstSquawk] Baird lifts Charles River Laboratories price target to $334 from $291

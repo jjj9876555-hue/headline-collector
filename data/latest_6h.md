@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-25 11:51 JST／対象: 09/25 05:51 〜 09/25 11:51 JST（時刻はすべて日本時間）
+生成: 2026-09-25 12:03 JST／対象: 09/25 06:03 〜 09/25 12:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/25 07:52 | 09/25 07:52 | - |
-| FirstSquawk | 80 | 09/25 06:06 | 09/25 11:50 | ⚠ 46分（07:06→07:52） |
-| financialjuice | 36 | 09/25 06:01 | 09/25 11:11 | ⚠ 76分（09:15→10:31） |
+| FirstSquawk | 81 | 09/25 06:06 | 09/25 11:59 | ⚠ 46分（07:06→07:52） |
+| financialjuice | 35 | 09/25 06:04 | 09/25 11:11 | ⚠ 76分（09:15→10:31） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 111 行（統合前 117 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,7 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 06:01 [financialjuice] Bond Volatility Keeps Stocks in Check as Oil Fuels Inflation Concerns – US Market Wrap
 - 09/25 06:04 [financialjuice/FirstSquawk] Finnish president says he urges Elon Musk to extend Starlink coverage over Russia and occupied areas to help Ukraine target Russian ballistic missile launchers
 - 09/25 06:13 [FirstSquawk] COSTCO RECEIVED $184 MILLION IN IEEPA TARIFF REFUNDS IN Q4 — EXECUTIVE SAYS ON EARNINGS CALL
 - 09/25 06:14 [FirstSquawk] AIRBUS ALERTS A321NEO CUSTOMERS TO QUALITY DEFECT THAT COULD REDUCE CORROSION RESISTANCE INSIDE FUSELAGE STRUCTURE — AIR CURRENT
@@ -135,3 +134,4 @@
 - 09/25 11:27 [FirstSquawk] Hong Kong gains ground on Dubai in ‘super-prime’ property sales during Iran war - scmp
 - 09/25 11:42 [FirstSquawk] North Korea faces propaganda setback after Ukraine’s POW transfer reveal - SCMP
 - 09/25 11:50 [FirstSquawk] Polo expected to strengthen back to Category 5 on Friday, NHC says
+- 09/25 11:59 [FirstSquawk] Baird lifts Charles River Laboratories price target to $334 from $291
