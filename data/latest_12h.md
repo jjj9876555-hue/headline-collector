@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-25 23:36 JST／対象: 09/25 11:36 〜 09/25 23:36 JST（時刻はすべて日本時間）
+生成: 2026-09-25 23:53 JST／対象: 09/25 11:53 〜 09/25 23:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 36 | 09/25 19:13 | 09/25 23:26 | ⚠ 92分（19:13→20:46） |
-| FirstSquawk | 113 | 09/25 11:42 | 09/25 23:34 | ⚠ 155分（16:01→18:36） |
-| financialjuice | 116 | 09/25 12:40 | 09/25 23:22 | ⚠ 59分（15:00→16:00） |
+| DeItaone | 41 | 09/25 19:13 | 09/25 23:53 | ⚠ 92分（19:13→20:46） |
+| FirstSquawk | 112 | 09/25 11:59 | 09/25 23:49 | ⚠ 155分（16:01→18:36） |
+| financialjuice | 117 | 09/25 12:40 | 09/25 23:42 | ⚠ 59分（15:00→16:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 251 行（統合前 266 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 256 行（統合前 272 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 11:42 [FirstSquawk] North Korea faces propaganda setback after Ukraine’s POW transfer reveal - SCMP
-- 09/25 11:50 [FirstSquawk] Polo expected to strengthen back to Category 5 on Friday, NHC says
 - 09/25 11:59 [FirstSquawk] Baird lifts Charles River Laboratories price target to $334 from $291
 - 09/25 12:06 [FirstSquawk] Brent crude futures decline 1% to $105.54 per barrel
 - 09/25 12:14 [FirstSquawk] Asian bond yields rise despite weaker oil prices as markets remain cautious - WSJ
@@ -275,3 +273,10 @@
 - 09/25 23:26 [DeItaone] BILL GATES WARNS AI COULD CAUSE ‘A BILLION DEATHS’ Bill Gates warns AI is already powerful enough to potentially drive events causing a billion deaths, particularly if advanced tools are exploited by malicious actors. Gates says AI could be…
 - 09/25 23:34 [FirstSquawk] MEXICO PRESIDENT SHEINBAUM: UNCLEAR IF US-MEXICO TRADE DEAL WILL BE REACHED BEFORE NOVEMBER || WORKING TO ADDRESS US TRADE DEFICIT CONCERNS
 - 09/25 23:34 [FirstSquawk] RUSSIA CLAIMS TO HAVE STRUCK DRY CARGO SHIP AT PORT OF CHORNOMORSK - IFX
+- 09/25 23:42 [DeItaone] RUSSIA CAN IMMEDIATELY RESTART 80% OF GRAIN TRADING PORTS IN BLACK SEA AND SEA OF AZOV IF DIPLOMATIC EFFORTS TO REOPEN BLACK SEA SUCCEED, DATA FROM INDUSTRY SOURCES SHOWS THREE TERMINALS ACCOUNTING FOR 20% OF RUSSIAN GRAIN INFRASTRUCTURE IN…
+- 09/25 23:42 [financialjuice] Russia can immediately restart 80% of grain trading ports in bLack Sea and Sea of Azov, if diplomatic efforts to reopen the Black Sea succeed - Data From Industry Sources.
+- 09/25 23:43 [DeItaone] U.S. 30-YEAR BOND YIELD TOPS 5.5% FOR FIRST TIME SINCE 2004
+- 09/25 23:46 [DeItaone] TRUMP LIVE https://t.co/wJt6zcr65f
+- 09/25 23:49 [FirstSquawk] NHC: POLO IS AN EXTREMELY POWERFUL CATEGORY 5 HURRICANE, INTERESTS IN BAJA CALIFORNIA SUR SHOULD MONITOR ITS PROGRESS
+- 09/25 23:52 [DeItaone] YIELD ON 10-YEAR TREASURY NOTE HITS FRESH 19-YEAR HIGH AT 5.2297%; LAST UP 5.92 BASIS POINTS AT 5.221%
+- 09/25 23:53 [DeItaone] OIL SLIPS AS U.S.-IRAN DIPLOMACY TAKES FOCUS Oil prices moved lower as markets weighed U.S.-Iran talks over reopening the Strait of Hormuz. WTI fell 1.4% to $93.32, while Brent dropped 1.2% to $105.35. Diplomatic progress could push crude l…
