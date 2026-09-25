@@ -7,42 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-25 08:58 JST／対象: 09/24 08:58 〜 09/25 08:58 JST（時刻はすべて日本時間）
+生成: 2026-09-25 09:26 JST／対象: 09/24 09:26 〜 09/25 09:26 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 87 | 09/24 21:26 | 09/25 07:52 | ⚠ 230分（04:02→07:52） |
-| FirstSquawk | 363 | 09/24 09:02 | 09/25 08:56 | ⚠ 46分（07:06→07:52） |
-| financialjuice | 260 | 09/24 08:59 | 09/25 08:51 | ⚠ 108分（15:47→17:36） |
+| FirstSquawk | 371 | 09/24 09:26 | 09/25 09:25 | ⚠ 46分（07:06→07:52） |
+| financialjuice | 260 | 09/24 09:30 | 09/25 09:15 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 683 行（統合前 716 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 690 行（統合前 724 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 08:59 [financialjuice] China's President Xi: With joint efforts, US visit will be productive - Xinhua
-- 09/24 08:59 [financialjuice] China's President Xi: looks forward to strengthening constructive China-US strategic stability relationship - Xinhua
-- 09/24 08:59 [financialjuice] China’s President Xi: historical rationale for peaceful coexistence between China and U.S. remains unchanged - Xinhua
-- 09/24 08:59 [financialjuice] China's President Xi: confident China, U.S. can find right path to coexist in new era - Xinhua
-- 09/24 08:59 [financialjuice] China's President Xi: China, U.S. must be allies, not adversaries - Xinhua
-- 09/24 09:00 [financialjuice] China’s President Xi: china, U.S. should collaborate to boost stable relationship with cooperation, moderate competition, manageable differences, peace commitments -Xinhua
-- 09/24 09:00 [financialjuice] China’s President Xi: anticipates in-depth talks with Trump - Xinhua
-- 09/24 09:02 [FirstSquawk] CHINA'S XI SAYS THAT WITH JOINT EFFORTS, HIS U.S. VISIT IS 'SURE TO BE FRUITFUL', ADDING THAT HE LOOKS FORWARD TO ENRICHING A CONSTRUCTIVE CHINA-U.S. RELATIONSHIP OF STRATEGIC STABILITY AND TO IN-DEPTH EXCHANGES WITH TRUMP - XINHUA
-- 09/24 09:02 [FirstSquawk] CHINA'S XI SAYS 'THE HISTORICAL LOGIC OF PEACEFUL COEXISTENCE BETWEEN CHINA AND THE U.S. HAS NOT CHANGED' AND THAT HE IS CONFIDENT THE TWO CAN 'FIND THE RIGHT WAY TO GET ALONG IN THE NEW ERA', SAYING THEY 'SHOULD BE PARTNERS, NOT RIVALS'.
-- 09/24 09:03 [FirstSquawk] CHINA'S XI SAYS CHINA AND THE U.S. SHOULD 'WORK IN THE SAME DIRECTION' TO PROMOTE A STABLE RELATIONSHIP 'FEATURING COOPERATION AS THE MAINSTAY, MODERATE COMPETITION, MANAGEABLE DIFFERENCES' AND 'PROMISES OF PEACE' - XINHUA
-- 09/24 09:04 [FirstSquawk] 30-year Japanese government bond yield jumps 5.5 bps to 4.125%
-- 09/24 09:09 [FirstSquawk] Australia’s ASX 200 slides 1.3% to 8,655.40 points at open
-- 09/24 09:14 [financialjuice] China PBOC likely to set yuan midpoint at 6.7184 per dollar: Estimate
-- 09/24 09:18 [FirstSquawk] EIGHT U.S. NAVY SAILORS ASSIGNED TO THE USS ABRAHAM LINCOLN CARRIER STRIKE GROUP ATTEMPTED SUICIDE DURING A DEPLOYMENT THAT INCLUDED COMBAT OPERATIONS AGAINST IRAN, ACCORDING TO ACTING NAVY SECRETARY HUNG CAO, WITH THE FIGURE COVERING SAILO…
-- 09/24 09:18 [FirstSquawk] NO SAILORS DIED BY SUICIDE DURING THE DEPLOYMENT, WHICH INVOLVED 6,000-7,000 PERSONNEL AND KEPT THE CARRIER AT SEA FOR MORE THAN SIX MONTHS - CNN
-- 09/24 09:20 [financialjuice] Japan's finance ministry to consider cutting issuance in liquidity-enhancement auctions for medium-term JGBs, sources say
-- 09/24 09:22 [FirstSquawk] Japan’s Finance Ministry may discuss lower issuance of medium-term JGBs in liquidity-enhancement auctions, Reuters reports
-- 09/24 09:23 [FirstSquawk] Trump welcomes Xi Jinping at airport as Chinese president arrives for U.S. state visit
-- 09/24 09:25 [FirstSquawk] OPENAI IS LAUNCHING MENTALHEALTHBENCH, AN OPEN BENCHMARK DESIGNED TO EVALUATE HOW AI SYSTEMS RESPOND TO REALISTIC MENTAL-HEALTH CONVERSATIONS AND PROVIDE A STANDARDIZED WAY TO COMPARE PERFORMANCE. THE BENCHMARK COVERS ADULTS, TEENAGERS, CAR…
 - 09/24 09:26 [FirstSquawk] JAPAN’S 10-YEAR JGB YIELD SURGES 8.0 BPS TO 3.055%, HIGHEST SINCE SEPTEMBER 1996
 - 09/24 09:26 [FirstSquawk] Asia-Pac equities mixed at the open as Japanese markets reopen after long weekend
 - 09/24 09:27 [FirstSquawk] 10-year Japanese government bond yield jumps 8 bps to 3.055%, hits 30-year high
@@ -707,3 +688,29 @@
 - 09/25 08:42 [FirstSquawk] US ENVOY WITKOFF AND KUSHNER MET RUSSIA'S DMITRIEV TODAY - CNN
 - 09/25 08:51 [financialjuice] Oracle guarantees payouts to investors on New Mexico data center even if it fails to secure power before project launch - FT
 - 09/25 08:56 [FirstSquawk] JAPAN’S NIKKEI FUTURES FALL 0.1% IN EARLY TRADE; 10-YEAR JGB FUTURES DOWN 0.12 POINT
+- 09/25 09:03 [financialjuice] China's President Xi: had a candid and thorough exchange with Trump
+- 09/25 09:04 [financialjuice] China's President Xi: reached broad agreement on numerous issues
+- 09/25 09:06 [FirstSquawk] XI: WASHINGTON AND CHINA MADE COMMON UNDERSTANDING ON MANY ISSUES
+- 09/25 09:06 [FirstSquawk] XI SAYS HE HAD A FRANK AND IN-DEPTH EXCHANGE WITH TRUMP
+- 09/25 09:09 [FirstSquawk] BHP’S ESCONDIDA MINE IN CHILE RESUMES OPERATIONS GRADUALLY AS ASSESSMENTS CONTINUE
+- 09/25 09:10 [financialjuice] China's President Xi: us-china ties reach new historical milestone
+- 09/25 09:10 [FirstSquawk/financialjuice] SAUDI ARABIA, TURKEY, PAKISTAN TO HOLD URGENT CHIEFS OF STAFF MEETING ON BACKING RIYADH UNDER JOINT DEFENSE PACT: SAUDI FOREIGN MINISTRY
+- 09/25 09:10 [financialjuice] Ister announces short-term appointment of Rebecca Williams as internal member of Reserve Bank of New Zealand monetary policy committee
+- 09/25 09:11 [financialjuice] China's President Xi: major powers should demonstrate responsibility
+- 09/25 09:12 [financialjuice] China's President Xi: seek new method for major powers to coexist peacefully
+- 09/25 09:13 [FirstSquawk] XI: US-CHINA RELATIONS HAVE REACHED A NEW HISTORICAL STARTING POINT
+- 09/25 09:13 [FirstSquawk] SAUDI, TURKEY, PAKISTAN CHIEFS OF STAFF TO MEET URGENTLY ON SUPPORT FOR RIYADH
+- 09/25 09:14 [FirstSquawk] XI: US, CHINA SHOULD ACT WITH RESPONSIBILITY AS MAJOR POWERS
+- 09/25 09:14 [financialjuice] Saudi Arabia, Turkey, Pakistan affirm Riyadh’s right to defend itself under UN charter: Saudi foreign ministry
+- 09/25 09:15 [financialjuice] Washington: China’s Xi says China and U.S. should seek new ways for major countries to coexist
+- 09/25 09:15 [FirstSquawk] XI: MAJOR COUNTRIES SHOULD EXPLORE NEW APPROACH TO COEXIST PEACEFULLY
+- 09/25 09:15 [FirstSquawk] SAUDI FOREIGN MINISTRY: RIYADH HAS RIGHT TO DEFEND ITSELF UNDER UN CHARTER, BACKED BY TURKEY, PAKISTAN
+- 09/25 09:15 [FirstSquawk] XI: CHINA AND US SHOULD SEEK NEW APPROACHES FOR MAJOR COUNTRIES TO COEXIST
+- 09/25 09:17 [FirstSquawk] EUROPEAN STOCK FUTURES RISE: EUROSTOXX 50 +0.4%, DAX +0.4%, FTSE +0.2%
+- 09/25 09:17 [FirstSquawk] US STOCK FUTURES EDGE LOWER: S&P 500 FUTURES -0.2%, NASDAQ FUTURES -0.2%
+- 09/25 09:21 [FirstSquawk] CHINA'S XI JINPING TELLS TRUMP THAT 'THE FRIENDSHIP BETWEEN THE TWO PEOPLES IS A WORTHY CAUSE THAT HOLDS GREAT PROMISE', SAYING 'LET US JOIN HANDS AND MOVE FORWARD SIDE BY SIDE' TO 'NURTURE THE BEAUTIFUL FLOWERS OF SINO-U.S. FRIENDSHIP' AND…
+- 09/25 09:22 [FirstSquawk] CHINA'S XI JINPING SAYS TRUMP'S PLEDGE TO 'MAKE AMERICA GREAT AGAIN' AND CHINA'S GOAL OF 'GREAT NATIONAL REJUVENATION' ARE 'BOTH AMBITIOUS AND CAN SURELY BE MUTUALLY REINFORCING', ADDING THAT THE TWO MUST 'ACT AS RESPONSIBLE MAJOR COUNTRIES…
+- 09/25 09:22 [FirstSquawk] CHINA'S XI JINPING SAYS THAT 'TODAY, TRUMP AND I HAD SINCERE AND IN-DEPTH EXCHANGES AND REACHED COMMON UNDERSTANDING ON MANY ISSUES', WHICH HE SAYS 'HAS ADDED NEW SUBSTANCE TO THE CONSTRUCTIVE CHINA-U.S. RELATIONSHIP OF STRATEGIC STABILITY …
+- 09/25 09:25 [FirstSquawk] IRANIAN PRESIDENT MASOUD PEZESHKIAN SAYS 'ONE OF THE PROBLEMS THAT WE FACE IS THAT OUR MONEY IN CHINA IS BLOCKED', ADDING THAT 'WE CAN'T EVEN GET OUR OWN MONEY OUT OF A COUNTRY TO WHICH WE HAVE SUPPLIED GOODS, LET ALONE USE THOSE FUNDS TO P…
+- 09/25 09:25 [FirstSquawk] IRANIAN PRESIDENT MASOUD PEZESHKIAN SAYS 'WE DID REACH AN AGREEMENT WITH TRUMP', WHICH 'WAS SIGNED', AND THAT IRAN IS 'STILL WISH TO MOVE FORWARD' ON THE AGREED FRAMEWORK, ARGUING IRAN 'HAD NOT CLOSED THE STRAIT OF HORMUZ' AND THAT 'WITHOUT…
+- 09/25 09:25 [FirstSquawk] IRANIAN PRESIDENT MASOUD PEZESHKIAN SAYS 'WE DID NOT CHOOSE WAR. THE WAR WAS IMPOSED ON US', ADDING THAT IRAN IS 'FORCED TO DEFEND OURSELVES' WHENEVER ATTACKED AND THAT 'WE NEVER STARTED A WAR, BUT IF THEY WISH TO KEEP FIGHTING US, WE WILL …
