@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-25 18:19 JST／対象: 09/24 18:19 〜 09/25 18:19 JST（時刻はすべて日本時間）
+生成: 2026-09-25 18:35 JST／対象: 09/24 18:35 〜 09/25 18:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 87 | 09/24 21:26 | 09/25 07:52 | ⚠ 230分（04:02→07:52） |
-| FirstSquawk | 326 | 09/24 18:23 | 09/25 16:01 | ⚠ 46分（07:06→07:52） |
-| financialjuice | 244 | 09/24 18:23 | 09/25 18:12 | ⚠ 88分（11:11→12:40） |
+| FirstSquawk | 314 | 09/24 18:38 | 09/25 16:01 | ⚠ 46分（07:06→07:52） |
+| financialjuice | 251 | 09/24 18:38 | 09/25 18:34 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 629 行（統合前 663 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 624 行（統合前 658 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 18:23 [FirstSquawk] PBOC: CONVENES MONETARY POLICY COMMITTEE 3Q MEETING
-- 09/24 18:23 [FirstSquawk] PBOC SAYS TO MAKE POLICIES MORE TARGETED
-- 09/24 18:23 [financialjuice] China Central Bank: To step up counter-cyclical adjustments
-- 09/24 18:23 [FirstSquawk] PBOC: TO ADJUST MONETARY POLICY TOOLS AS NEEDED
-- 09/24 18:23 [FirstSquawk] PBOC: VOWS TO ADJUST MONETARY POLICY TOOLS IN A TIMELY MANNER
-- 09/24 18:23 [FirstSquawk] PBOC SAYS ADVANCE IMPROVEMENT OF MONETARY POLICY OP. FRAMEWORK
-- 09/24 18:23 [FirstSquawk] PBOC SAYS ENHANCE THE RESILIENCE OF FOREIGN EXCHANGE MARKET
-- 09/24 18:23 [FirstSquawk] PBOC: WARNS AGAINST HERD BEHAVIOR IN FINANCIAL MARKETS
-- 09/24 18:24 [FirstSquawk] PBOC SAYS MAINTAIN YUAN RATE AT REASONABLE AND BALANCED LEVEL
-- 09/24 18:26 [FirstSquawk] KREMLIN SAYS WE APPRECIATE THE US INVITATION TO PUTIN, WILL DECIDE RESPONSE
-- 09/24 18:26 [FirstSquawk] KREMLIN SAYS NO DECISION HAS BEEN TAKEN ABOUT A TRUMP-PUTIN SUMMIT IN DECEMBER, TOO EARLY TO TALK ABOUT POSSIBLE AGENDA
-- 09/24 18:26 [FirstSquawk] KREMLIN: REITERATES THAT RUSSIA WANTS A PEACE SETTLEMENT ON UKRAINE, NOT A TEMPORARY CEASEFIRE
-- 09/24 18:26 [FirstSquawk] KREMLIN: EU DECISION TO TRANSFER REVENUE FROM FROZEN RUSSIAN ASSETS TO UKRAINE IS ILLEGAL, IT'S THEFT
 - 09/24 18:38 [FirstSquawk/financialjuice] ALL IRANIAN AIRLINE FLIGHTS TO UAE CANCELLED - ISNA
 - 09/24 18:51 [financialjuice] BoE's Dhingra: Financial conditions have done a lot of tightening work already in the UK
 - 09/24 18:51 [financialjuice] BoE's Dhingra: I am encouraged by what we're seeing on pricing
@@ -653,3 +640,11 @@
 - 09/25 17:25 [financialjuice] German economy minister Reiche: fantasies of seizure and nationalization have no place in Germany
 - 09/25 17:50 [financialjuice] Iraq's Najaf airport halts all flights to and from Iran - INA
 - 09/25 18:12 [financialjuice] Russia's Gazprom resumes gas supplies to Armenia - IFX
+- 09/25 18:21 [financialjuice] Japan's PM Takaichi: Didn't discuss monetary or fiscal policy with Trump
+- 09/25 18:30 [financialjuice] Japan's PM Takaichi: Trump said in the summit meeting that the weak Yen is pressuring US trade
+- 09/25 18:30 [financialjuice] BoE Gov. Bailey: AI could be a positive shock in an era of negative supply shocks
+- 09/25 18:31 [financialjuice] Kremlin: A trilateral meeting between the US, Russia, and Ukraine could take place in the near future, but there are no details on that for now
+- 09/25 18:32 [financialjuice] BoE Gov. Bailey: We are at the moment seeing quite subdued pass-through of energy prices, but it's early days
+- 09/25 18:33 [financialjuice] BoE Gov. Bailey: The longer we go on with high energy prices, the harder it gets to maintain no hike in the bank rate stance
+- 09/25 18:34 [financialjuice] BoE Gov. Bailey: There has been a tightening of financial conditions
+- 09/25 18:34 [financialjuice] BoE Gov. Bailey: We do take rise in mortgage rates into consideration

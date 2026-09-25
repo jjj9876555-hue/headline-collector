@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-25 18:19 JST／対象: 09/25 12:19 〜 09/25 18:19 JST（時刻はすべて日本時間）
+生成: 2026-09-25 18:35 JST／対象: 09/25 12:35 〜 09/25 18:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
 | FirstSquawk | 37 | 09/25 12:38 | 09/25 16:01 | 25分（14:22→14:48） |
-| financialjuice | 20 | 09/25 12:40 | 09/25 18:12 | ⚠ 59分（15:00→16:00） |
+| financialjuice | 28 | 09/25 12:40 | 09/25 18:34 | ⚠ 59分（15:00→16:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 57 行（統合前 57 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 65 行（統合前 65 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -81,3 +81,11 @@
 - 09/25 17:25 [financialjuice] German economy minister Reiche: fantasies of seizure and nationalization have no place in Germany
 - 09/25 17:50 [financialjuice] Iraq's Najaf airport halts all flights to and from Iran - INA
 - 09/25 18:12 [financialjuice] Russia's Gazprom resumes gas supplies to Armenia - IFX
+- 09/25 18:21 [financialjuice] Japan's PM Takaichi: Didn't discuss monetary or fiscal policy with Trump
+- 09/25 18:30 [financialjuice] Japan's PM Takaichi: Trump said in the summit meeting that the weak Yen is pressuring US trade
+- 09/25 18:30 [financialjuice] BoE Gov. Bailey: AI could be a positive shock in an era of negative supply shocks
+- 09/25 18:31 [financialjuice] Kremlin: A trilateral meeting between the US, Russia, and Ukraine could take place in the near future, but there are no details on that for now
+- 09/25 18:32 [financialjuice] BoE Gov. Bailey: We are at the moment seeing quite subdued pass-through of energy prices, but it's early days
+- 09/25 18:33 [financialjuice] BoE Gov. Bailey: The longer we go on with high energy prices, the harder it gets to maintain no hike in the bank rate stance
+- 09/25 18:34 [financialjuice] BoE Gov. Bailey: There has been a tightening of financial conditions
+- 09/25 18:34 [financialjuice] BoE Gov. Bailey: We do take rise in mortgage rates into consideration
