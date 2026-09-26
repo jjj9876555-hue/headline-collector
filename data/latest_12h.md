@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-27 03:52 JST／対象: 09/26 15:52 〜 09/27 03:52 JST（時刻はすべて日本時間）
+生成: 2026-09-27 04:04 JST／対象: 09/26 16:04 〜 09/27 04:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/26 17:07 | 09/27 00:39 | ⚠ 291分（17:07→21:58） |
-| FirstSquawk | 167 | 09/26 16:00 | 09/27 03:23 | ⚠ 65分（19:20→20:25） |
+| FirstSquawk | 162 | 09/26 16:34 | 09/27 03:23 | ⚠ 65分（19:20→20:25） |
 | financialjuice | 34 | 09/26 16:36 | 09/27 03:38 | ⚠ 121分（19:57→21:58） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 204 行（統合前 209 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 199 行（統合前 204 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 16:00 [FirstSquawk] French Presidential Candidate Jean-Luc Mélenchon: Macron wants to send military assets to a theater of war in Saudi Arabia. What for? What would we do if we were attacked? In the end, even if we did not want it, we would become belligerents…
-- 09/26 16:00 [FirstSquawk] Vietnam to revise food safety law, reining in delivery apps like Shopee, Grab
-- 09/26 16:01 [FirstSquawk] Iraq is in direct talks with the United States to exempt some Iraqi airports from US Treasury measures affecting flights by Iranian airlines to regional airports, the Iraqi prime minister’s media office said on Saturday.
-- 09/26 16:01 [FirstSquawk] Peter Thiel: I’m not saying Pope Leo was an agent of the Communists, but he was at least acting as a useful idiot for the CCP.
-- 09/26 16:01 [FirstSquawk] OpenAI systems go rogue and meddle with US state sites
 - 09/26 16:34 [FirstSquawk] Russia stays in the top position among arms exporters Russia ranked second globally in arms exports, with $15 billion in deliveries, representing 12.5% of the global market.
 - 09/26 16:34 [FirstSquawk] Powerful storm surge hits Surf City, New Jersey, as a nor’easter pounds the coast.
 - 09/26 16:35 [FirstSquawk] Israeli airstrikes on Sajad Heights and the Thin Mountain in the Apple Region, southern Lebanon

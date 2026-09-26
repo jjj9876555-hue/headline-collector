@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-27 03:52 JST／対象: 09/26 03:52 〜 09/27 03:52 JST（時刻はすべて日本時間）
+生成: 2026-09-27 04:04 JST／対象: 09/26 04:04 〜 09/27 04:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 09/26 05:35 | 09/27 00:39 | ⚠ 692分（05:35→17:07） |
-| FirstSquawk | 287 | 09/26 03:57 | 09/27 03:23 | ⚠ 379分（05:01→11:20） |
-| financialjuice | 78 | 09/26 03:55 | 09/27 03:38 | ⚠ 215分（13:00→16:36） |
+| FirstSquawk | 285 | 09/26 04:13 | 09/27 03:23 | ⚠ 379分（05:01→11:20） |
+| financialjuice | 73 | 09/26 04:07 | 09/27 03:38 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 369 行（統合前 375 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 362 行（統合前 368 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 03:55 [financialjuice] ECB's Vujcic: I think less about core inflation as my preferred measure than was the case before these shocks
-- 09/26 03:57 [FirstSquawk] EU ENERGY CHIEF: EU GAS STORAGE IS EXCEPTIONALLY LOW, SITUATION IS CHALLENGING BUT THERE IS NO IMMEDIATE SUPPLY RISK
-- 09/26 03:57 [financialjuice] EU Energy Chief in letter to member countries' ministers: We are facing an energy price crisis linked to a supply crisis
-- 09/26 03:58 [financialjuice] EU Energy Chief: The EU is better prepared than in winter 2021, owing to new lng capacity, renewables, and lower gas demand.
-- 09/26 03:59 [financialjuice] EU Energy chief: I invite you to consider extra measures to sustain gas storage injections or reduce gas and power demand.
-- 09/26 04:02 [financialjuice] Iran's President: I welcomes Chinese President Xi's support for the return to the Islamabad Memorandum of Understanding.
-- 09/26 04:02 [FirstSquawk] IRAN'S PRESIDENT SAYS TEHRAN AGREES ON NEED TO RETURN TO ISLAMABAD UNDERSTANDING, HONOR COMMITMENTS
 - 09/26 04:07 [financialjuice] Week Ahead: Economic Indicators 28th September – 2nd October (US)
 - 09/26 04:13 [FirstSquawk] IRAN'S PRESIDENT: WELCOMES XI’S SUPPORT FOR RETURN TO ISLAMABAD MOU
 - 09/26 04:22 [FirstSquawk] TRUMP ADMINISTRATION SETTLES WITH UNIONS OVER SHUTDOWN FIRINGS - BLAW

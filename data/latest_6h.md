@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-27 03:52 JST／対象: 09/26 21:52 〜 09/27 03:52 JST（時刻はすべて日本時間）
+生成: 2026-09-27 04:04 JST／対象: 09/26 22:04 〜 09/27 04:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 7 | 09/26 21:58 | 09/27 00:39 | ⚠ 67分（22:54→00:01） |
-| FirstSquawk | 77 | 09/26 21:53 | 09/27 03:23 | ⚠ 52分（01:54→02:46） |
-| financialjuice | 23 | 09/26 21:58 | 09/27 03:38 | ⚠ 55分（01:01→01:57） |
+| DeItaone | 6 | 09/26 22:53 | 09/27 00:39 | ⚠ 67分（22:54→00:01） |
+| FirstSquawk | 76 | 09/26 22:41 | 09/27 03:23 | ⚠ 52分（01:54→02:46） |
+| financialjuice | 22 | 09/26 22:47 | 09/27 03:38 | ⚠ 55分（01:01→01:57） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 102 行（統合前 107 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 99 行（統合前 104 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 21:53 [FirstSquawk] Xi Seeks Lasting Gains on Trade, Taiwan From Trump Truce Xi Jinping pressed Donald Trump to limit US support for Taiwan while signaling scope for broader progress on trade, following their summit in Washington. The US and China extended the…
-- 09/26 21:58 [financialjuice] Top Iranian security body denies plans for military action over bans on Iranian flights - state media
-- 09/26 21:58 [DeItaone] TOP IRANIAN SECURITY BODY DENIES THAT IRAN IS PLANNING FOR MILITARY MOVES OVER BANS ON IRANIAN FLIGHTS - STATE MEDIA
 - 09/26 22:41 [FirstSquawk] Head of the Iraqi government's Security Media Commission: The international coalition has handed over all its bases and headquarters to the Iraqi authorities.
 - 09/26 22:41 [FirstSquawk] Head of the Iraqi government's Security Media Commission: There are no combat or military forces of the international coalition in Iraq.
 - 09/26 22:41 [FirstSquawk] Head of the Iraqi government's Security Media Commission: There will be no combat or training forces from the coalition after September 30
