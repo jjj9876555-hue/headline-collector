@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-26 22:43 JST／対象: 09/25 22:43 〜 09/26 22:43 JST（時刻はすべて日本時間）
+生成: 2026-09-26 22:58 JST／対象: 09/25 22:58 〜 09/26 22:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 39 | 09/25 22:47 | 09/26 21:58 | ⚠ 692分（05:35→17:07） |
-| FirstSquawk | 290 | 09/25 22:53 | 09/26 22:42 | ⚠ 379分（05:01→11:20） |
-| financialjuice | 153 | 09/25 22:48 | 09/26 21:58 | ⚠ 215分（13:00→16:36） |
+| DeItaone | 41 | 09/25 23:00 | 09/26 22:54 | ⚠ 692分（05:35→17:07） |
+| FirstSquawk | 295 | 09/25 23:00 | 09/26 22:56 | ⚠ 379分（05:01→11:20） |
+| financialjuice | 157 | 09/25 22:59 | 09/26 22:55 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 473 行（統合前 484 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 484 行（統合前 495 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 22:47 [DeItaone] KATAYAMA, BESSENT REAFFIRMED THAT YEN UNDERVALUATION IS MATTER OF CONCERN
-- 09/25 22:48 [financialjuice] Japan's Fin. Min. Katayama and US Treasury Secretary Bessent reaffirmed that yen undervaluation is a matter of concern.
-- 09/25 22:49 [financialjuice] Japan's Fin. Min. Katayama and US Treasury Secretary Bessent reaffirmed their intention to strengthen cooperation - Statement.
-- 09/25 22:53 [FirstSquawk] KATAYAMA AND BESSENT REAFFIRMED THAT YEN UNDERVALUATION IS MATTER OF CONCERN
 - 09/25 22:59 [financialjuice] UNIVERSITY MICHIGAN CONDITIONS FINAL ACTUAL 50.9 (FORECAST 50.5, PREVIOUS 50.9) $MACRO
 - 09/25 22:59 [financialjuice] ‼ BREAKING: UNIVERSITY MICHIGAN SENTIMENT FINAL ACTUAL 47.8 (FORECAST 47.5, PREVIOUS 47.8) $MACRO
 - 09/25 22:59 [financialjuice] UNIVERSITY MICHIGAN 1 YR INFLATION FINAL ACTUAL 4.6% (FORECAST 4.7%, PREVIOUS 4.6%) $MACRO
@@ -497,3 +493,18 @@
 - 09/26 22:42 [FirstSquawk] Iran's Supreme National Security Council: Claims that we will resort to a military response to restrictions imposed on our aviation are baseless.
 - 09/26 22:42 [FirstSquawk] Iran's Supreme National Security Council: We are negotiating with some concerned countries to lift the illegal air restrictions imposed on us.
 - 09/26 22:42 [FirstSquawk] Iran's National Security Council: There are non-military options to respond to the air restrictions, and we will implement them if necessary.
+- 09/26 22:47 [financialjuice] Trump on Iran: rejects their proposal
+- 09/26 22:50 [financialjuice] Trump: Taiwan mentioned with China's Xi
+- 09/26 22:50 [financialjuice] Trump: Xi grasps my stance on Taiwan
+- 09/26 22:51 [financialjuice] Trump: had a major discussion on artificial intelligence with China's Xi
+- 09/26 22:53 [DeItaone] TRUMP ON IRAN: I REJECT THEIR PROPOSAL
+- 09/26 22:53 [financialjuice] Trump: we want to open up Cuba to Americans
+- 09/26 22:53 [DeItaone] TRUMP: HAD A BIG TALK ON AI WITH CHINA'S XI
+- 09/26 22:54 [DeItaone] TRUMP: WE WANT TO OPEN CUBA UP TO OUR PEOPLE
+- 09/26 22:55 [FirstSquawk] Trump says he has rejected Iran’s proposal
+- 09/26 22:55 [FirstSquawk] Trump: Taiwan proposed meeting with China’s Xi
+- 09/26 22:55 [FirstSquawk] Trump: China’s Xi understands my stance on Taiwan
+- 09/26 22:55 [FirstSquawk] Trump: Held extensive AI talks with China’s Xi
+- 09/26 22:55 [financialjuice] Trump: spoke with Venezuela's Rodriguez on elections
+- 09/26 22:56 [FirstSquawk] Trump: We want Americans to have access to Cuba
+- 09/26 22:56 [FirstSquawk] Trump says elections were discussed with Venezuela’s Rodríguez
