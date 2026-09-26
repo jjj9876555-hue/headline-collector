@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-27 06:58 JST／対象: 09/26 18:58 〜 09/27 06:58 JST（時刻はすべて日本時間）
+生成: 2026-09-27 07:16 JST／対象: 09/26 19:16 〜 09/27 07:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/26 21:58 | 09/27 00:39 | ⚠ 67分（22:54→00:01） |
-| FirstSquawk | 124 | 09/26 19:14 | 09/27 03:23 | ⚠ 65分（19:20→20:25） |
-| financialjuice | 35 | 09/26 19:00 | 09/27 06:17 | ⚠ 121分（19:57→21:58） |
+| FirstSquawk | 117 | 09/26 19:16 | 09/27 03:23 | ⚠ 65分（19:20→20:25） |
+| financialjuice | 30 | 09/26 19:57 | 09/27 06:17 | ⚠ 121分（19:57→21:58） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 161 行（統合前 166 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 149 行（統合前 154 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 19:00 [financialjuice] SNB chairman Schlegel: can maintain interest rates as inflation hits target
-- 09/26 19:00 [financialjuice] SNB Chairman Schlegel: current drop in Swiss franc a minor reversal to long-term currency appreciation
-- 09/26 19:00 [financialjuice] NB chairman: food prices have risen, but inflation jump is almost entirely due to petrol prices
-- 09/26 19:00 [financialjuice] Swiss National Bank chairman: closely examining summer heat’s effect on food prices
-- 09/26 19:07 [financialjuice] Kremlin: Putin talks Ukraine and energy collaboration in call with Serbia's Vucic
-- 09/26 19:14 [FirstSquawk] Iranian President Masoud Pezeshkian: We no longer trust talks with Washington because of its repeated attacks and sanctions after every negotiation.
-- 09/26 19:14 [FirstSquawk] Iranian President: Qatar and Pakistan are currently mediating between Iran and the United States and conveying our messages to Washington
-- 09/26 19:15 [FirstSquawk] Iranian President: Our negotiations with Washington are based on a previous memorandum of understanding, and the Americans must clarify their position on it.
-- 09/26 19:15 [FirstSquawk] Iranian President: Why and for what purpose would I meet with the American President? When we signed the agreement, they didn't implement it.
-- 09/26 19:15 [FirstSquawk] Iranian President to Al Jazeera: Closing the Strait of Hormuz is a natural step when Iran is cut off from other routes.
-- 09/26 19:15 [FirstSquawk] Iranian President: Closing the Strait of Hormuz is a natural step when Iran is cut off from other routes.
-- 09/26 19:16 [FirstSquawk] Iranian President: The Strait of Hormuz crisis can be resolved through negotiations, not by force.
 - 09/26 19:16 [FirstSquawk] Iranian President: Regional security can be achieved through cooperation among its countries, and we do not need a regional policeman.
 - 09/26 19:16 [FirstSquawk] Iranian President: The enemies' strategy is based on stirring up disputes among officials in Iran , but we are witnessing unprecedented internal cohesion.
 - 09/26 19:17 [FirstSquawk] Iranian President: I met with the Supreme Leader twice, the first time for about 3 hours and the second time for 7 and a half hours
