@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-26 20:32 JST／対象: 09/26 14:32 〜 09/26 20:32 JST（時刻はすべて日本時間）
+生成: 2026-09-26 20:44 JST／対象: 09/26 14:44 〜 09/26 20:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/26 17:07 | 09/26 17:07 | - |
-| FirstSquawk | 82 | 09/26 14:36 | 09/26 20:25 | ⚠ 65分（19:20→20:25） |
+| FirstSquawk | 78 | 09/26 14:45 | 09/26 20:35 | ⚠ 65分（19:20→20:25） |
 | financialjuice | 11 | 09/26 16:36 | 09/26 19:57 | ⚠ 104分（17:15→19:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 94 行（統合前 94 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 90 行（統合前 90 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 14:36 [FirstSquawk] Fed’s Hammack: AI’s implications for inflation remain uncertain over the long term
-- 09/26 14:39 [FirstSquawk] Chinese auto companies advance EV technology with 5-minute ultrafast charging - Kyodo
-- 09/26 14:39 [FirstSquawk] China to weigh Costa Rican and Guyanese candidates in race for first woman UN chief - SCMP
-- 09/26 14:39 [FirstSquawk] US TV networks resume White House access as Trump applauds ‘fair’ coverage of Xi visit - SCMP
-- 09/26 14:40 [FirstSquawk] Japan set to hold first expert panel talks on anti-espionage measures - Kyodo
-- 09/26 14:42 [FirstSquawk] Poland’s central bank faces ‘political contest’ - FT
-- 09/26 14:43 [FirstSquawk] South Korea’s Lee seeks swift resumption of trade agreement negotiations with Mexico - YONHAP
 - 09/26 14:45 [FirstSquawk] South Korea records 2.87 million foreign nationals, up 5.3% from a year earlier - YONHAP
 - 09/26 14:52 [FirstSquawk] More than half of South Korea’s registered foreign nationals live in greater Seoul - YONHAP
 - 09/26 14:56 [FirstSquawk] US pressure campaign leaves Iran increasingly isolated from the rest of the world - WSJ
@@ -118,3 +111,6 @@
 - 09/26 19:20 [FirstSquawk] Weekend markets update: #DAX 25490 -0.24% #DOW 51727 -0.20% #NASDAQ 30565 -0.23% #FTSE 10727 -0.14% #HANGSENG 24475 -0.13% #EURUSD 11386 -0.04% #USDJPY 15715 -0.09% #GOLD 4279 -0.14% #USOIL 9356 +1.72%
 - 09/26 19:57 [financialjuice] China foreign minister Wang Yi: Xi's U.S. visit opens 'new chapter' in China-U.S. ties - ministry statement
 - 09/26 20:25 [FirstSquawk] Eleven people were killed and 30 others injured in an explosion in the city of Dera Ismail Khan in northwestern Pakistan.
+- 09/26 20:35 [FirstSquawk] Ethiopian Army Chief of Staff: The Tigray Front is trying to push the country into a new war through its provocations.
+- 09/26 20:35 [FirstSquawk] Ethiopian Army Chief of Staff: We are exercising restraint in dealing with the Tigray Front's movements to avoid dragging the people into a pointless war.
+- 09/26 20:35 [FirstSquawk] Ethiopian Army Chief of Staff: Armed groups cannot confront Ethiopia without external support
