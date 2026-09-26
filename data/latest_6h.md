@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-26 18:50 JST／対象: 09/26 12:50 〜 09/26 18:50 JST（時刻はすべて日本時間）
+生成: 2026-09-26 19:00 JST／対象: 09/26 13:00 〜 09/26 19:00 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/26 17:07 | 09/26 17:07 | - |
-| FirstSquawk | 94 | 09/26 12:51 | 09/26 18:43 | 34分（14:59→15:33） |
-| financialjuice | 6 | 09/26 13:00 | 09/26 17:15 | ⚠ 215分（13:00→16:36） |
+| FirstSquawk | 89 | 09/26 13:06 | 09/26 18:53 | 34分（14:59→15:33） |
+| financialjuice | 9 | 09/26 16:36 | 09/26 19:00 | ⚠ 104分（17:15→19:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 101 行（統合前 101 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 99 行（統合前 99 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 12:51 [FirstSquawk] China researchers warn offshore wind farms could disrupt radar, create ‘ghost’ targets - SCMP
-- 09/26 12:51 [FirstSquawk] China upgrades mobile payments to make spending easier for foreigners ahead of Apec - SCMP
-- 09/26 12:52 [FirstSquawk] Thailand steps up efforts to curb bad behaviour among foreign tourists - SCMP
-- 09/26 12:56 [FirstSquawk] S&P: Oman stands out among Gulf neighbors as its hydrocarbon exports do not rely on Strait of Hormuz
-- 09/26 12:57 [FirstSquawk] S&P: Ghana ratings affirmed at 'B-/B', outlook unchanged at stable
-- 09/26 12:58 [FirstSquawk] S&P sees Oman remaining resilient despite regional geopolitical tensions
-- 09/26 13:00 [financialjuice] Saudi civil defense: danger has passed in Abha
 - 09/26 13:06 [FirstSquawk] China’s Leapmotor outpaces Subaru, Mitsubishi Motors as European demand boosts deliveries - NA
 - 09/26 13:11 [FirstSquawk] Pakistan military: Chiefs of defense forces, general staff from Makkah pact members meet in Riyadh - RTRS
 - 09/26 13:12 [FirstSquawk] Bangkok faces widespread flooding after torrential rainfall
@@ -125,3 +118,8 @@
 - 09/26 18:43 [FirstSquawk] Russian authorities in Zaporizhzhia region: 3 people killed in Ukrainian attacks overnight
 - 09/26 18:43 [FirstSquawk] Settlers, protected by occupation forces, storm the village of Yabroud, north of Ramallah
 - 09/26 18:43 [FirstSquawk] Russian authorities in Luhansk: 4 killed and 5 injured in Ukrainian attacks
+- 09/26 18:53 [FirstSquawk] Yemeni sources: Airstrikes targeted Houthi military sites and vehicles in Taiz.
+- 09/26 19:00 [financialjuice] SNB chairman Schlegel: can maintain interest rates as inflation hits target
+- 09/26 19:00 [financialjuice] SNB Chairman Schlegel: current drop in Swiss franc a minor reversal to long-term currency appreciation
+- 09/26 19:00 [financialjuice] NB chairman: food prices have risen, but inflation jump is almost entirely due to petrol prices
+- 09/26 19:00 [financialjuice] Swiss National Bank chairman: closely examining summer heat’s effect on food prices
