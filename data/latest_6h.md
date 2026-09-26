@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-26 18:19 JST／対象: 09/26 12:19 〜 09/26 18:19 JST（時刻はすべて日本時間）
+生成: 2026-09-26 18:33 JST／対象: 09/26 12:33 〜 09/26 18:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/26 17:07 | 09/26 17:07 | - |
-| FirstSquawk | 95 | 09/26 12:20 | 09/26 18:16 | 34分（14:59→15:33） |
+| FirstSquawk | 94 | 09/26 12:34 | 09/26 18:22 | 34分（14:59→15:33） |
 | financialjuice | 6 | 09/26 13:00 | 09/26 17:15 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 102 行（統合前 102 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 101 行（統合前 101 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 12:20 [FirstSquawk] Bulgaria’s outlook raised to positive by Fitch; IDR affirmed at ‘BBB+’
-- 09/26 12:23 [FirstSquawk] US FDA: Boston Scientific will stop selling Imager II Angiographic Catheter product line
-- 09/26 12:23 [FirstSquawk] Australia to impose tougher social media penalties over underage access and online harms - NA
-- 09/26 12:26 [FirstSquawk] Hurricane Polo shows Category 5 winds, NOAA aircraft measures, NHC says
-- 09/26 12:28 [FirstSquawk] Moody’s says Angola’s outlook change reflects stronger macroeconomic stability amid varying oil prices
-- 09/26 12:32 [FirstSquawk] Major Hurricane Odalys moving slowly toward the north-northeast, NHC says
 - 09/26 12:34 [FirstSquawk] Merck and Daiichi Sankyo withdraw US BLA for ifinatamab deruxtecan in extensive-stage SCLC
 - 09/26 12:34 [FirstSquawk] Merck & Co. advances two additional Phase 3 trials of ifinatamab deruxtecan in CRPC, ESCC
 - 09/26 12:40 [FirstSquawk] Cape Town offers affordable winter sun for UK travellers despite stronger rand - FT
@@ -126,3 +120,8 @@
 - 09/26 18:14 [FirstSquawk] Germany 10-year yield hits its highest level since 2009.
 - 09/26 18:15 [FirstSquawk] Oracle's long-term bonds just crossed an all time high of 8.3%. Their 5 year CDS spreads also broke record highs, skyrocketing 16% to 227bps.
 - 09/26 18:16 [FirstSquawk] OpenAI investigating 'dozens' of instances of agents acting improperly
+- 09/26 18:20 [FirstSquawk] Tehran prosecutors have opened a criminal case against a theater company after a spectator's phone video showed an actress resting her head against an actor's chest on stage, in a scene the production says depicts a brother and sister.
+- 09/26 18:21 [FirstSquawk] Russian Ministry of Defense announces its forces' control over the town of "Marino" in Ukraine's "Sumy" region.
+- 09/26 18:21 [FirstSquawk] Hossein Ali Haji-Deligani, deputy head of parliament’s Article 90 Commission, said lawmakers had called for Nasser Asadi, a member of Iran’s UN mission, to be removed from his post and dismissed from the Foreign Ministry after he remained i…
+- 09/26 18:22 [FirstSquawk] Asadi was the only Iranian diplomat who stayed in the chamber during Trump’s address. Haji-Deligani also called for Iran to pursue a nuclear deterrent, saying that because countries Tehran considers enemies possess nuclear weapons, “we must…
+- 09/26 18:22 [FirstSquawk] Apple confirms iOS 27.0.1 update fixes Face ID freeze on iPhone 18 Pro models

@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-26 18:19 JST／対象: 09/25 18:19 〜 09/26 18:19 JST（時刻はすべて日本時間）
+生成: 2026-09-26 18:33 JST／対象: 09/25 18:33 〜 09/26 18:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 68 | 09/25 19:13 | 09/26 17:07 | ⚠ 692分（05:35→17:07） |
-| FirstSquawk | 286 | 09/25 18:36 | 09/26 18:16 | ⚠ 379分（05:01→11:20） |
-| financialjuice | 226 | 09/25 18:21 | 09/26 17:15 | ⚠ 215分（13:00→16:36） |
+| FirstSquawk | 291 | 09/25 18:36 | 09/26 18:22 | ⚠ 379分（05:01→11:20） |
+| financialjuice | 220 | 09/25 18:34 | 09/26 17:15 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 557 行（統合前 583 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 556 行（統合前 582 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 18:21 [financialjuice] Japan's PM Takaichi: Didn't discuss monetary or fiscal policy with Trump
-- 09/25 18:30 [financialjuice] Japan's PM Takaichi: Trump said in the summit meeting that the weak Yen is pressuring US trade
-- 09/25 18:30 [financialjuice] BoE Gov. Bailey: AI could be a positive shock in an era of negative supply shocks
-- 09/25 18:31 [financialjuice] Kremlin: A trilateral meeting between the US, Russia, and Ukraine could take place in the near future, but there are no details on that for now
-- 09/25 18:32 [financialjuice] BoE Gov. Bailey: We are at the moment seeing quite subdued pass-through of energy prices, but it's early days
-- 09/25 18:33 [financialjuice] BoE Gov. Bailey: The longer we go on with high energy prices, the harder it gets to maintain no hike in the bank rate stance
 - 09/25 18:34 [financialjuice] BoE Gov. Bailey: There has been a tightening of financial conditions
 - 09/25 18:34 [financialjuice] BoE Gov. Bailey: We do take rise in mortgage rates into consideration
 - 09/25 18:36 [financialjuice] BoE Gov. Bailey: Can't wait for full evidence on 2nd-round effects
@@ -581,3 +575,8 @@
 - 09/26 18:14 [FirstSquawk] Germany 10-year yield hits its highest level since 2009.
 - 09/26 18:15 [FirstSquawk] Oracle's long-term bonds just crossed an all time high of 8.3%. Their 5 year CDS spreads also broke record highs, skyrocketing 16% to 227bps.
 - 09/26 18:16 [FirstSquawk] OpenAI investigating 'dozens' of instances of agents acting improperly
+- 09/26 18:20 [FirstSquawk] Tehran prosecutors have opened a criminal case against a theater company after a spectator's phone video showed an actress resting her head against an actor's chest on stage, in a scene the production says depicts a brother and sister.
+- 09/26 18:21 [FirstSquawk] Russian Ministry of Defense announces its forces' control over the town of "Marino" in Ukraine's "Sumy" region.
+- 09/26 18:21 [FirstSquawk] Hossein Ali Haji-Deligani, deputy head of parliament’s Article 90 Commission, said lawmakers had called for Nasser Asadi, a member of Iran’s UN mission, to be removed from his post and dismissed from the Foreign Ministry after he remained i…
+- 09/26 18:22 [FirstSquawk] Asadi was the only Iranian diplomat who stayed in the chamber during Trump’s address. Haji-Deligani also called for Iran to pursue a nuclear deterrent, saying that because countries Tehran considers enemies possess nuclear weapons, “we must…
+- 09/26 18:22 [FirstSquawk] Apple confirms iOS 27.0.1 update fixes Face ID freeze on iPhone 18 Pro models
