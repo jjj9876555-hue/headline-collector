@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-27 02:33 JST／対象: 09/26 14:33 〜 09/27 02:33 JST（時刻はすべて日本時間）
+生成: 2026-09-27 02:45 JST／対象: 09/26 14:45 〜 09/27 02:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/26 17:07 | 09/27 00:39 | ⚠ 291分（17:07→21:58） |
-| FirstSquawk | 180 | 09/26 14:36 | 09/27 01:54 | ⚠ 65分（19:20→20:25） |
+| FirstSquawk | 173 | 09/26 14:45 | 09/27 01:54 | ⚠ 65分（19:20→20:25） |
 | financialjuice | 30 | 09/26 16:36 | 09/27 02:11 | ⚠ 121分（19:57→21:58） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 214 行（統合前 218 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 207 行（統合前 211 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 14:36 [FirstSquawk] Fed’s Hammack: AI’s implications for inflation remain uncertain over the long term
-- 09/26 14:39 [FirstSquawk] Chinese auto companies advance EV technology with 5-minute ultrafast charging - Kyodo
-- 09/26 14:39 [FirstSquawk] China to weigh Costa Rican and Guyanese candidates in race for first woman UN chief - SCMP
-- 09/26 14:39 [FirstSquawk] US TV networks resume White House access as Trump applauds ‘fair’ coverage of Xi visit - SCMP
-- 09/26 14:40 [FirstSquawk] Japan set to hold first expert panel talks on anti-espionage measures - Kyodo
-- 09/26 14:42 [FirstSquawk] Poland’s central bank faces ‘political contest’ - FT
-- 09/26 14:43 [FirstSquawk] South Korea’s Lee seeks swift resumption of trade agreement negotiations with Mexico - YONHAP
 - 09/26 14:45 [FirstSquawk] South Korea records 2.87 million foreign nationals, up 5.3% from a year earlier - YONHAP
 - 09/26 14:52 [FirstSquawk] More than half of South Korea’s registered foreign nationals live in greater Seoul - YONHAP
 - 09/26 14:56 [FirstSquawk] US pressure campaign leaves Iran increasingly isolated from the rest of the world - WSJ
