@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-26 19:18 JST／対象: 09/26 13:18 〜 09/26 19:18 JST（時刻はすべて日本時間）
+生成: 2026-09-26 19:32 JST／対象: 09/26 13:32 〜 09/26 19:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/26 17:07 | 09/26 17:07 | - |
-| FirstSquawk | 97 | 09/26 13:19 | 09/26 19:17 | 34分（14:59→15:33） |
+| FirstSquawk | 97 | 09/26 13:35 | 09/26 19:20 | 34分（14:59→15:33） |
 | financialjuice | 10 | 09/26 16:36 | 09/26 19:07 | ⚠ 104分（17:15→19:00） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,11 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 13:19 [FirstSquawk] Pakistan military: Three countries’ military chiefs commit to advancing cooperation under Makkah defence pact
-- 09/26 13:22 [FirstSquawk] Pakistan military: Pakistan, Saudi Arabia and Turkey military chiefs pledge commitment to collective defence
-- 09/26 13:25 [FirstSquawk] Pakistan military: Pakistan, Saudi Arabia and Turkey military chiefs assess regional security, threats to Saudi Arabia
-- 09/26 13:26 [FirstSquawk] Japan’s NYK Line plans hydrogen fuel cell ship for Tokyo Bay sightseeing tours - KYODO
-- 09/26 13:31 [FirstSquawk] US appeals court rejects Kalshi challenge, affirms states’ authority over event contracts - RTRS
 - 09/26 13:35 [FirstSquawk] YPF to lift average fuel prices in Argentina by 1%
 - 09/26 13:35 [FirstSquawk] Fitch rates California $1.8B general obligation bonds 'AA' with stable outlook
 - 09/26 13:38 [FirstSquawk] National Grid to deploy advanced technology across New England grid with DOE funding
@@ -132,3 +127,8 @@
 - 09/26 19:17 [FirstSquawk] Iranian President: The leadership structure is about setting policies, while implementation falls on us, and what we are implementing is within the framework of existing laws.
 - 09/26 19:17 [FirstSquawk] Iranian President: There is no problem on the executive side, but there are some delays in matters related to the negotiations and what America and other countries are waiting for.
 - 09/26 19:17 [FirstSquawk] Iranian President: What is happening in Yemen is not related to Iran, and we stand in solidarity with all those who are subjected to injustice.
+- 09/26 19:19 [FirstSquawk] Iranian President Masoud Pezeshkian: We no longer trust talks with Washington after repeated attacks and sanctions following every negotiation.
+- 09/26 19:19 [FirstSquawk] Iranian President: We can help resolve the dispute between SaudiArabia and Yemen, and we will not be warmongers.
+- 09/26 19:19 [FirstSquawk] Iranian President: Saudi Arabia is capable of playing a role in uniting the countries of the Islamic world
+- 09/26 19:20 [FirstSquawk] Crypto update: #Bitcoin 83982.00 +0.13% #Ether 2680.50 -0.15% #Cardano 0.2540 -0.12% #BitcoinCash 337.20 -0.69% #Litecoin 74.06 +4.1% #Stellar 0.2165 -1.19% #Dogecoin 0.0970 -0.82% #Uniswap 9.5994 -0.35% #Chainlink 14.0024 +1.27% #Polkadot …
+- 09/26 19:20 [FirstSquawk] Weekend markets update: #DAX 25490 -0.24% #DOW 51727 -0.20% #NASDAQ 30565 -0.23% #FTSE 10727 -0.14% #HANGSENG 24475 -0.13% #EURUSD 11386 -0.04% #USDJPY 15715 -0.09% #GOLD 4279 -0.14% #USOIL 9356 +1.72%

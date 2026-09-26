@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-26 19:18 JST／対象: 09/26 07:18 〜 09/26 19:18 JST（時刻はすべて日本時間）
+生成: 2026-09-26 19:32 JST／対象: 09/26 07:32 〜 09/26 19:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/26 17:07 | 09/26 17:07 | - |
-| FirstSquawk | 170 | 09/26 11:20 | 09/26 19:17 | 34分（14:59→15:33） |
-| financialjuice | 32 | 09/26 07:27 | 09/26 19:07 | ⚠ 215分（13:00→16:36） |
+| FirstSquawk | 175 | 09/26 11:20 | 09/26 19:20 | 34分（14:59→15:33） |
+| financialjuice | 27 | 09/26 07:35 | 09/26 19:07 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 203 行（統合前 204 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,11 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 07:27 [financialjuice] Alabama Attorney General Marshall announces multi-million-dollar deal with TikTok
-- 09/26 07:27 [financialjuice] Alabama AG: under settlement, Alabama to get at least $100 million
-- 09/26 07:28 [financialjuice] Alabama AG: TikTok must add safety features to protect children alongside payment
-- 09/26 07:29 [financialjuice] Alabama AG: Alabama could obtain up to $300 million under settlement if conditions met
-- 09/26 07:29 [financialjuice] Alabama AG: deal settles claims TikTok built platform with addictive features, exposed young users to mental harm, misled public about safety
 - 09/26 07:35 [financialjuice] Skyworks extends expiration date of exchange offers for Gorvo senior notes due 2029 and 2031
 - 09/26 08:28 [financialjuice] Google in threat intelligence report: ShinyHunters launches revived widespread attack campaign targeting Oracle PeopleSoft
 - 09/26 09:14 [financialjuice] OpenAI’s models accessed public US census, SEC information
@@ -227,3 +222,8 @@
 - 09/26 19:17 [FirstSquawk] Iranian President: The leadership structure is about setting policies, while implementation falls on us, and what we are implementing is within the framework of existing laws.
 - 09/26 19:17 [FirstSquawk] Iranian President: There is no problem on the executive side, but there are some delays in matters related to the negotiations and what America and other countries are waiting for.
 - 09/26 19:17 [FirstSquawk] Iranian President: What is happening in Yemen is not related to Iran, and we stand in solidarity with all those who are subjected to injustice.
+- 09/26 19:19 [FirstSquawk] Iranian President Masoud Pezeshkian: We no longer trust talks with Washington after repeated attacks and sanctions following every negotiation.
+- 09/26 19:19 [FirstSquawk] Iranian President: We can help resolve the dispute between SaudiArabia and Yemen, and we will not be warmongers.
+- 09/26 19:19 [FirstSquawk] Iranian President: Saudi Arabia is capable of playing a role in uniting the countries of the Islamic world
+- 09/26 19:20 [FirstSquawk] Crypto update: #Bitcoin 83982.00 +0.13% #Ether 2680.50 -0.15% #Cardano 0.2540 -0.12% #BitcoinCash 337.20 -0.69% #Litecoin 74.06 +4.1% #Stellar 0.2165 -1.19% #Dogecoin 0.0970 -0.82% #Uniswap 9.5994 -0.35% #Chainlink 14.0024 +1.27% #Polkadot …
+- 09/26 19:20 [FirstSquawk] Weekend markets update: #DAX 25490 -0.24% #DOW 51727 -0.20% #NASDAQ 30565 -0.23% #FTSE 10727 -0.14% #HANGSENG 24475 -0.13% #EURUSD 11386 -0.04% #USDJPY 15715 -0.09% #GOLD 4279 -0.14% #USOIL 9356 +1.72%
