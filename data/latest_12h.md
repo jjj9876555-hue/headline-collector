@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-26 13:02 JST／対象: 09/26 01:02 〜 09/26 13:02 JST（時刻はすべて日本時間）
+生成: 2026-09-26 13:20 JST／対象: 09/26 01:20 〜 09/26 13:20 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 23 | 09/26 01:20 | 09/26 05:35 | ⚠ 146分（03:09→05:35） |
-| FirstSquawk | 118 | 09/26 01:02 | 09/26 12:58 | ⚠ 379分（05:01→11:20） |
-| financialjuice | 100 | 09/26 01:03 | 09/26 13:00 | ⚠ 153分（10:27→13:00） |
+| FirstSquawk | 117 | 09/26 01:26 | 09/26 13:19 | ⚠ 379分（05:01→11:20） |
+| financialjuice | 96 | 09/26 01:34 | 09/26 13:00 | ⚠ 153分（10:27→13:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 234 行（統合前 242 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 229 行（統合前 237 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 01:02 [FirstSquawk] TRUMP: HAD A GREAT MEETING WITH XI, GREAT FOR FARMERS
-- 09/26 01:03 [FirstSquawk] TRUMP SAYS DISCUSSED IRAN WITH XI
-- 09/26 01:03 [FirstSquawk] TRUMP SAYS THINK WE'RE GOING TO DO GREAT
-- 09/26 01:03 [financialjuice] Trump: Discussed Iran with Xi
-- 09/26 01:03 [financialjuice] Trump: I think we're going to do great.
-- 09/26 01:05 [FirstSquawk] OIL EXTENDS DECLINE, BRENT TRADES BELOW $104 A BARREL
-- 09/26 01:07 [financialjuice] USTR Greer to travel to wisconsin next week for the G20 gathering.
-- 09/26 01:07 [FirstSquawk] USTR GREER: TO TRAVEL TO WISCONSIN NEXT WEEK FOR G20 GATHERING
-- 09/26 01:09 [FirstSquawk] USTR - G20 TRADE MINISTERIAL SCHEDULED FOR SEPT 29 - OCT 1
-- 09/26 01:09 [financialjuice] USTR Greer: The G20 Trade Ministerial is scheduled for September 29th - October 1st.
-- 09/26 01:11 [FirstSquawk] USTR - GREER TO TOUR ROCKWELL AUTOMATION WITH THE G20 MINISTERS
 - 09/26 01:20 [DeItaone] OIL FUTURES EXTEND LOSSES, BRENT CRUDE DOWN BY $3 A BARREL ON HOPES OF US-IRAN TRUCE
 - 09/26 01:23 [DeItaone] CHINA, U.S. AGREE TO BUILD CONSTRUCTIVE RELATIONSHIP OF STRATEGIC STABILITY BASED ON RESPECT, FAIRNESS AND RECIPROCITY - XINHUA CHINA, U.S. AGREE TO BUILD A CONSTRUCTIVE RELATIONSHIP OF STRATEGIC STABILITY -XINHUA
 - 09/26 01:23 [DeItaone] NORTH SEA OIL FREIGHT RATES CLIMB AGAIN Platts kept the October Forties de-escalator unchanged at 15 cents, while Aframax freight rates moved higher again. Meanwhile, there were no bids or offers for North Sea crude grades during the Platts…
@@ -258,3 +247,9 @@
 - 09/26 12:57 [FirstSquawk] S&P: Ghana ratings affirmed at 'B-/B', outlook unchanged at stable
 - 09/26 12:58 [FirstSquawk] S&P sees Oman remaining resilient despite regional geopolitical tensions
 - 09/26 13:00 [financialjuice] Saudi civil defense: danger has passed in Abha
+- 09/26 13:06 [FirstSquawk] China’s Leapmotor outpaces Subaru, Mitsubishi Motors as European demand boosts deliveries - NA
+- 09/26 13:11 [FirstSquawk] Pakistan military: Chiefs of defense forces, general staff from Makkah pact members meet in Riyadh - RTRS
+- 09/26 13:12 [FirstSquawk] Bangkok faces widespread flooding after torrential rainfall
+- 09/26 13:15 [FirstSquawk] Pakistan military: Pakistan, Saudi Arabia and Turkey discuss further cooperation among armed forces
+- 09/26 13:15 [FirstSquawk] White House: US, China establish communication channel dedicated to AI incidents
+- 09/26 13:19 [FirstSquawk] Pakistan military: Three countries’ military chiefs commit to advancing cooperation under Makkah defence pact

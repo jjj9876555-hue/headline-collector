@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-26 13:02 JST／対象: 09/26 07:02 〜 09/26 13:02 JST（時刻はすべて日本時間）
+生成: 2026-09-26 13:20 JST／対象: 09/26 07:20 〜 09/26 13:20 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 68 | 09/26 11:20 | 09/26 12:58 | 6分（12:10→12:17） |
+| FirstSquawk | 74 | 09/26 11:20 | 09/26 13:19 | 8分（12:58→13:06） |
 | financialjuice | 22 | 09/26 07:27 | 09/26 13:00 | ⚠ 153分（10:27→13:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 90 行（統合前 91 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 96 行（統合前 97 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -114,3 +114,9 @@
 - 09/26 12:57 [FirstSquawk] S&P: Ghana ratings affirmed at 'B-/B', outlook unchanged at stable
 - 09/26 12:58 [FirstSquawk] S&P sees Oman remaining resilient despite regional geopolitical tensions
 - 09/26 13:00 [financialjuice] Saudi civil defense: danger has passed in Abha
+- 09/26 13:06 [FirstSquawk] China’s Leapmotor outpaces Subaru, Mitsubishi Motors as European demand boosts deliveries - NA
+- 09/26 13:11 [FirstSquawk] Pakistan military: Chiefs of defense forces, general staff from Makkah pact members meet in Riyadh - RTRS
+- 09/26 13:12 [FirstSquawk] Bangkok faces widespread flooding after torrential rainfall
+- 09/26 13:15 [FirstSquawk] Pakistan military: Pakistan, Saudi Arabia and Turkey discuss further cooperation among armed forces
+- 09/26 13:15 [FirstSquawk] White House: US, China establish communication channel dedicated to AI incidents
+- 09/26 13:19 [FirstSquawk] Pakistan military: Three countries’ military chiefs commit to advancing cooperation under Makkah defence pact
