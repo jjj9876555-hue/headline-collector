@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-26 23:32 JST／対象: 09/26 17:32 〜 09/26 23:32 JST（時刻はすべて日本時間）
+生成: 2026-09-26 23:45 JST／対象: 09/26 17:45 〜 09/26 23:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/26 21:58 | 09/26 22:54 | ⚠ 54分（21:58→22:53） |
-| FirstSquawk | 89 | 09/26 17:53 | 09/26 23:25 | ⚠ 65分（19:20→20:25） |
-| financialjuice | 18 | 09/26 19:00 | 09/26 23:31 | ⚠ 121分（19:57→21:58） |
+| FirstSquawk | 92 | 09/26 17:53 | 09/26 23:43 | ⚠ 65分（19:20→20:25） |
+| financialjuice | 19 | 09/26 19:00 | 09/26 23:43 | ⚠ 121分（19:57→21:58） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 111 行（統合前 111 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 113 行（統合前 115 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -131,7 +131,9 @@
 - 09/26 23:00 [FirstSquawk] Iraq negotiating with US over airport exemptions for Iranian airlines
 - 09/26 23:01 [FirstSquawk] Iraq: Easing restrictions on Iranian airlines would enable humanitarian flights to resume
 - 09/26 23:01 [financialjuice] Easing limits on Iranian airlines allows Iraq to restart flights for humanitarian aid: Iraqi PM office
-- 09/26 23:24 [financialjuice] Pakistan PM Sharif on Houthis attacks on Saudi Arabia: Any threat to security, sanctity of Two Holy Mosques is a red line that can't be crossed under any circumstances
+- 09/26 23:24 [financialjuice/FirstSquawk] Pakistan PM Sharif on Houthis attacks on Saudi Arabia: Any threat to security, sanctity of Two Holy Mosques is a red line that can't be crossed under any circumstances
 - 09/26 23:25 [FirstSquawk] Trump: US expects to make a deal with Cuba without needing the military
 - 09/26 23:25 [financialjuice] Trump: Cuba and US to strike a deal, don’t expect military involvement
-- 09/26 23:31 [financialjuice] Russia's Lavrov meets German counterpart on sidelines of UN General Assembly
+- 09/26 23:31 [financialjuice/FirstSquawk] Russia's Lavrov meets German counterpart on sidelines of UN General Assembly
+- 09/26 23:43 [FirstSquawk] Russia says its forces struck a cargo vessel in the Black Sea
+- 09/26 23:43 [financialjuice] Russian defence ministry: Russian forces strike cargo ship in Black Sea

@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-26 23:32 JST／対象: 09/25 23:32 〜 09/26 23:32 JST（時刻はすべて日本時間）
+生成: 2026-09-26 23:45 JST／対象: 09/25 23:45 〜 09/26 23:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 36 | 09/25 23:42 | 09/26 22:54 | ⚠ 692分（05:35→17:07） |
-| FirstSquawk | 295 | 09/25 23:34 | 09/26 23:25 | ⚠ 379分（05:01→11:20） |
-| financialjuice | 148 | 09/25 23:42 | 09/26 23:31 | ⚠ 215分（13:00→16:36） |
+| DeItaone | 34 | 09/25 23:46 | 09/26 22:54 | ⚠ 692分（05:35→17:07） |
+| FirstSquawk | 296 | 09/25 23:49 | 09/26 23:43 | ⚠ 379分（05:01→11:20） |
+| financialjuice | 148 | 09/25 23:56 | 09/26 23:43 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 470 行（統合前 481 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 467 行（統合前 480 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 23:34 [FirstSquawk] MEXICO PRESIDENT SHEINBAUM: UNCLEAR IF US-MEXICO TRADE DEAL WILL BE REACHED BEFORE NOVEMBER || WORKING TO ADDRESS US TRADE DEFICIT CONCERNS
-- 09/25 23:34 [FirstSquawk] RUSSIA CLAIMS TO HAVE STRUCK DRY CARGO SHIP AT PORT OF CHORNOMORSK - IFX
-- 09/25 23:42 [DeItaone] RUSSIA CAN IMMEDIATELY RESTART 80% OF GRAIN TRADING PORTS IN BLACK SEA AND SEA OF AZOV IF DIPLOMATIC EFFORTS TO REOPEN BLACK SEA SUCCEED, DATA FROM INDUSTRY SOURCES SHOWS THREE TERMINALS ACCOUNTING FOR 20% OF RUSSIAN GRAIN INFRASTRUCTURE IN…
-- 09/25 23:42 [financialjuice] Russia can immediately restart 80% of grain trading ports in bLack Sea and Sea of Azov, if diplomatic efforts to reopen the Black Sea succeed - Data From Industry Sources.
-- 09/25 23:43 [DeItaone] U.S. 30-YEAR BOND YIELD TOPS 5.5% FOR FIRST TIME SINCE 2004
 - 09/25 23:46 [DeItaone] TRUMP LIVE https://t.co/wJt6zcr65f
 - 09/25 23:49 [FirstSquawk] NHC: POLO IS AN EXTREMELY POWERFUL CATEGORY 5 HURRICANE, INTERESTS IN BAJA CALIFORNIA SUR SHOULD MONITOR ITS PROGRESS
 - 09/25 23:52 [DeItaone] YIELD ON 10-YEAR TREASURY NOTE HITS FRESH 19-YEAR HIGH AT 5.2297%; LAST UP 5.92 BASIS POINTS AT 5.221%
@@ -490,7 +485,9 @@
 - 09/26 23:00 [FirstSquawk] Iraq negotiating with US over airport exemptions for Iranian airlines
 - 09/26 23:01 [FirstSquawk] Iraq: Easing restrictions on Iranian airlines would enable humanitarian flights to resume
 - 09/26 23:01 [financialjuice] Easing limits on Iranian airlines allows Iraq to restart flights for humanitarian aid: Iraqi PM office
-- 09/26 23:24 [financialjuice] Pakistan PM Sharif on Houthis attacks on Saudi Arabia: Any threat to security, sanctity of Two Holy Mosques is a red line that can't be crossed under any circumstances
+- 09/26 23:24 [financialjuice/FirstSquawk] Pakistan PM Sharif on Houthis attacks on Saudi Arabia: Any threat to security, sanctity of Two Holy Mosques is a red line that can't be crossed under any circumstances
 - 09/26 23:25 [FirstSquawk] Trump: US expects to make a deal with Cuba without needing the military
 - 09/26 23:25 [financialjuice] Trump: Cuba and US to strike a deal, don’t expect military involvement
-- 09/26 23:31 [financialjuice] Russia's Lavrov meets German counterpart on sidelines of UN General Assembly
+- 09/26 23:31 [financialjuice/FirstSquawk] Russia's Lavrov meets German counterpart on sidelines of UN General Assembly
+- 09/26 23:43 [FirstSquawk] Russia says its forces struck a cargo vessel in the Black Sea
+- 09/26 23:43 [financialjuice] Russian defence ministry: Russian forces strike cargo ship in Black Sea

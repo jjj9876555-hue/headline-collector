@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-26 23:32 JST／対象: 09/26 11:32 〜 09/26 23:32 JST（時刻はすべて日本時間）
+生成: 2026-09-26 23:45 JST／対象: 09/26 11:45 〜 09/26 23:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 09/26 17:07 | 09/26 22:54 | ⚠ 291分（17:07→21:58） |
-| FirstSquawk | 204 | 09/26 11:34 | 09/26 23:25 | ⚠ 65分（19:20→20:25） |
-| financialjuice | 24 | 09/26 13:00 | 09/26 23:31 | ⚠ 215分（13:00→16:36） |
+| FirstSquawk | 193 | 09/26 11:47 | 09/26 23:43 | ⚠ 65分（19:20→20:25） |
+| financialjuice | 25 | 09/26 13:00 | 09/26 23:43 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 233 行（統合前 233 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 221 行（統合前 223 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 11:34 [FirstSquawk] CNN blocked from Air Force One trip by White House, Washington Post reports
-- 09/26 11:35 [FirstSquawk] ShinyHunters expands global targeting and deploys web shells on dozens of systems, Google says
-- 09/26 11:36 [FirstSquawk] Google report: ShinyHunters resumes mass exploitation campaign against Oracle PeopleSoft
-- 09/26 11:38 [FirstSquawk] Fal seeks new funding at valuation above $15 billion as revenue reaches $800 million pace, The Information reports
-- 09/26 11:38 [FirstSquawk] Fireworks AI explores $30 billion valuation target, The Information says
-- 09/26 11:39 [FirstSquawk] TikTok reaches multimillion-dollar settlement with Alabama, Attorney General says
-- 09/26 11:39 [FirstSquawk] TikTok settlement to provide Alabama with at least $100 million, AG says
-- 09/26 11:40 [FirstSquawk] Alabama AG: TikTok settlement requires new safety measures for children on platform
-- 09/26 11:40 [FirstSquawk] TikTok settlement could provide Alabama up to $300 million if conditions are met
-- 09/26 11:40 [FirstSquawk] TikTok settlement addresses Alabama claims over addictive design, youth mental harms and safety disclosures
-- 09/26 11:41 [FirstSquawk] Ansell refocuses under new CEO, plans expansion into high-tech markets - FT
-- 09/26 11:41 [FirstSquawk] Brazilian President Lula seeks online gambling ban ahead of election, FT says
-- 09/26 11:44 [FirstSquawk] Warner Bros. Discovery says it intends to remove euro notes from Nasdaq Global
-- 09/26 11:44 [FirstSquawk] US Supreme Court blocks Missouri’s Republican-drawn congressional map for November midterms
 - 09/26 11:47 [FirstSquawk] US FDA grants approval to Juvmo (tavapadon) for adults with Parkinson’s disease
 - 09/26 11:51 [FirstSquawk] Brazil government orders ban on online betting operations nationwide
 - 09/26 11:51 [FirstSquawk] Brazil’s Durigan: Bettors can claim remaining funds from online betting websites until Oct. 5
@@ -253,7 +239,9 @@
 - 09/26 23:00 [FirstSquawk] Iraq negotiating with US over airport exemptions for Iranian airlines
 - 09/26 23:01 [FirstSquawk] Iraq: Easing restrictions on Iranian airlines would enable humanitarian flights to resume
 - 09/26 23:01 [financialjuice] Easing limits on Iranian airlines allows Iraq to restart flights for humanitarian aid: Iraqi PM office
-- 09/26 23:24 [financialjuice] Pakistan PM Sharif on Houthis attacks on Saudi Arabia: Any threat to security, sanctity of Two Holy Mosques is a red line that can't be crossed under any circumstances
+- 09/26 23:24 [financialjuice/FirstSquawk] Pakistan PM Sharif on Houthis attacks on Saudi Arabia: Any threat to security, sanctity of Two Holy Mosques is a red line that can't be crossed under any circumstances
 - 09/26 23:25 [FirstSquawk] Trump: US expects to make a deal with Cuba without needing the military
 - 09/26 23:25 [financialjuice] Trump: Cuba and US to strike a deal, don’t expect military involvement
-- 09/26 23:31 [financialjuice] Russia's Lavrov meets German counterpart on sidelines of UN General Assembly
+- 09/26 23:31 [financialjuice/FirstSquawk] Russia's Lavrov meets German counterpart on sidelines of UN General Assembly
+- 09/26 23:43 [FirstSquawk] Russia says its forces struck a cargo vessel in the Black Sea
+- 09/26 23:43 [financialjuice] Russian defence ministry: Russian forces strike cargo ship in Black Sea
