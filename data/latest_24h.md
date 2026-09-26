@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-27 00:16 JST／対象: 09/26 00:16 〜 09/27 00:16 JST（時刻はすべて日本時間）
+生成: 2026-09-27 00:33 JST／対象: 09/26 00:33 〜 09/27 00:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 29 | 09/26 01:20 | 09/27 00:01 | ⚠ 692分（05:35→17:07） |
-| FirstSquawk | 286 | 09/26 00:17 | 09/26 23:52 | ⚠ 379分（05:01→11:20） |
-| financialjuice | 130 | 09/26 00:25 | 09/26 23:43 | ⚠ 215分（13:00→16:36） |
+| DeItaone | 30 | 09/26 01:20 | 09/27 00:19 | ⚠ 692分（05:35→17:07） |
+| FirstSquawk | 283 | 09/26 01:01 | 09/27 00:22 | ⚠ 379分（05:01→11:20） |
+| financialjuice | 130 | 09/26 00:53 | 09/27 00:30 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 436 行（統合前 446 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 434 行（統合前 444 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 00:17 [FirstSquawk] PERU'S COPPER PRODUCTION EXPECTED TO BE 2.5 MILLION-2.7 MILLION METRIC TONS THIS YEAR - MINING MINISTER SAYS
-- 09/26 00:18 [FirstSquawk] PERU EXPECTED TO ADD 1 MILLION METRIC TONS OF ANNUAL COPPER OUTPUT WITHIN 5-6 YEARS - MINING MINISTER SAYS
-- 09/26 00:22 [FirstSquawk] PEZIZKIAN ON THE DETAILS OF THE IRANIAN DELEGATION'S MEETING WITH KUSHNER AND WHITTAKER: WHAT WE ARE DISCUSSING IS THE FRAMEWORK OF INTERNATIONAL LAW AND THE RIGHTS AND ENTITLEMENTS THAT WE SHOULD HAVE. WE HAVE NOT ASKED FOR ANYTHING OTHER …
-- 09/26 00:25 [financialjuice] Iran's President Pezeshkian: The Iranian delegation discussed rights under international law. We are reaching an understanding on that basis, if the other side accepts – ISNA.
-- 09/26 00:26 [FirstSquawk] BASF CONFIRMS PRELIM. DISCUSSIONS TO BUY EVONIK; SAYS OUTCOME OF TALKS REMAINS OPEN
-- 09/26 00:31 [financialjuice] Iran's President Pezeshkian, asked on diluting 60% uranium reserves: Yes, within the framework of international law, we are willing to accept whatever is proposed in the NPT - Fox News interview cited by ISNA.
 - 09/26 00:53 [financialjuice] Trump and China’s President Xi Site Visit - WATCH LIVE
 - 09/26 00:57 [financialjuice] Trump asked Xi to stop supporting Iran - Axios
 - 09/26 01:00 [financialjuice] ❗ Iran-US talks enter technical stage - Al-Jazeera Journalist Reports cited by CBS.
@@ -460,3 +454,7 @@
 - 09/26 23:51 [FirstSquawk] Axios, citing sources: US negotiators have told Iran that it does not control the Strait of Hormuz and has no right to set conditions regarding it.
 - 09/26 23:52 [FirstSquawk] Axios, citing a US official: Positive and constructive talks are ongoing between Washington and Tehran through intermediaries.
 - 09/27 00:01 [DeItaone] TRUMP REJECTS AI INTEGRATION WITH CHINA President Trump said the U.S. should not integrate its AI efforts with China, despite discussing the technology with President Xi Jinping this week. Trump argued the U.S. is leading China significantl…
+- 09/27 00:19 [DeItaone] TRUMP REJECTS IRAN’S HORMUZ DEAL President Trump said he rejected Iran’s proposal to reopen the Strait of Hormuz and halt regional fighting within seven days. Iran had presented the plan through Qatari mediators, offering to reopen the crit…
+- 09/27 00:22 [FirstSquawk] Israeli army: We attacked earlier today a Hezbollah weapons depot in the Sajd area of ​​southern Lebanon
+- 09/27 00:28 [financialjuice] UN mission: strikes on Libya's oil, energy infrastructure may lead to sanctions under Security Council resolutions
+- 09/27 00:30 [financialjuice] UN Libya mission warns of economic fallout from ongoing closure of Sharara-Zawiya oil pipeline

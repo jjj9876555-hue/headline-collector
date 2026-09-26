@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-27 00:16 JST／対象: 09/26 18:16 〜 09/27 00:16 JST（時刻はすべて日本時間）
+生成: 2026-09-27 00:33 JST／対象: 09/26 18:33 〜 09/27 00:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 5 | 09/26 21:58 | 09/27 00:01 | ⚠ 67分（22:54→00:01） |
-| FirstSquawk | 84 | 09/26 18:20 | 09/26 23:52 | ⚠ 65分（19:20→20:25） |
-| financialjuice | 19 | 09/26 19:00 | 09/26 23:43 | ⚠ 121分（19:57→21:58） |
+| DeItaone | 6 | 09/26 21:58 | 09/27 00:19 | ⚠ 67分（22:54→00:01） |
+| FirstSquawk | 80 | 09/26 18:42 | 09/27 00:22 | ⚠ 65分（19:20→20:25） |
+| financialjuice | 21 | 09/26 19:00 | 09/27 00:30 | ⚠ 121分（19:57→21:58） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 106 行（統合前 108 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 105 行（統合前 107 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 18:20 [FirstSquawk] Tehran prosecutors have opened a criminal case against a theater company after a spectator's phone video showed an actress resting her head against an actor's chest on stage, in a scene the production says depicts a brother and sister.
-- 09/26 18:21 [FirstSquawk] Russian Ministry of Defense announces its forces' control over the town of "Marino" in Ukraine's "Sumy" region.
-- 09/26 18:21 [FirstSquawk] Hossein Ali Haji-Deligani, deputy head of parliament’s Article 90 Commission, said lawmakers had called for Nasser Asadi, a member of Iran’s UN mission, to be removed from his post and dismissed from the Foreign Ministry after he remained i…
-- 09/26 18:22 [FirstSquawk] Asadi was the only Iranian diplomat who stayed in the chamber during Trump’s address. Haji-Deligani also called for Iran to pursue a nuclear deterrent, saying that because countries Tehran considers enemies possess nuclear weapons, “we must…
-- 09/26 18:22 [FirstSquawk] Apple confirms iOS 27.0.1 update fixes Face ID freeze on iPhone 18 Pro models
 - 09/26 18:42 [FirstSquawk] Libyan National Oil Corporation: A refining unit at the Zawiya refinery has stopped operating due to the continued closure of the Sharara pipeline by armed groups.
 - 09/26 18:42 [FirstSquawk] Deputy Speaker of the Iraqi Parliament: The decision to ban Iranian civilian flights at Iraqi airports is hasty, ill-considered, and violates the constitution.
 - 09/26 18:42 [FirstSquawk] Iraqi Parliament Deputy Speaker: We are ready to hold an extraordinary session if the decision to ban Iranian flights is not reversed.
@@ -130,3 +125,7 @@
 - 09/26 23:51 [FirstSquawk] Axios, citing sources: US negotiators have told Iran that it does not control the Strait of Hormuz and has no right to set conditions regarding it.
 - 09/26 23:52 [FirstSquawk] Axios, citing a US official: Positive and constructive talks are ongoing between Washington and Tehran through intermediaries.
 - 09/27 00:01 [DeItaone] TRUMP REJECTS AI INTEGRATION WITH CHINA President Trump said the U.S. should not integrate its AI efforts with China, despite discussing the technology with President Xi Jinping this week. Trump argued the U.S. is leading China significantl…
+- 09/27 00:19 [DeItaone] TRUMP REJECTS IRAN’S HORMUZ DEAL President Trump said he rejected Iran’s proposal to reopen the Strait of Hormuz and halt regional fighting within seven days. Iran had presented the plan through Qatari mediators, offering to reopen the crit…
+- 09/27 00:22 [FirstSquawk] Israeli army: We attacked earlier today a Hezbollah weapons depot in the Sajd area of ​​southern Lebanon
+- 09/27 00:28 [financialjuice] UN mission: strikes on Libya's oil, energy infrastructure may lead to sanctions under Security Council resolutions
+- 09/27 00:30 [financialjuice] UN Libya mission warns of economic fallout from ongoing closure of Sharara-Zawiya oil pipeline

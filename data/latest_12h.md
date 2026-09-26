@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-27 00:16 JST／対象: 09/26 12:16 〜 09/27 00:16 JST（時刻はすべて日本時間）
+生成: 2026-09-27 00:33 JST／対象: 09/26 12:33 〜 09/27 00:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 6 | 09/26 17:07 | 09/27 00:01 | ⚠ 291分（17:07→21:58） |
-| FirstSquawk | 180 | 09/26 12:17 | 09/26 23:52 | ⚠ 65分（19:20→20:25） |
-| financialjuice | 25 | 09/26 13:00 | 09/26 23:43 | ⚠ 215分（13:00→16:36） |
+| DeItaone | 7 | 09/26 17:07 | 09/27 00:19 | ⚠ 291分（17:07→21:58） |
+| FirstSquawk | 174 | 09/26 12:34 | 09/27 00:22 | ⚠ 65分（19:20→20:25） |
+| financialjuice | 27 | 09/26 13:00 | 09/27 00:30 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 209 行（統合前 211 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 206 行（統合前 208 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 12:17 [FirstSquawk] Bulgaria’s outlook revision reflects reduced political uncertainty after April general election, Fitch says
-- 09/26 12:20 [FirstSquawk] Bulgaria’s outlook raised to positive by Fitch; IDR affirmed at ‘BBB+’
-- 09/26 12:23 [FirstSquawk] US FDA: Boston Scientific will stop selling Imager II Angiographic Catheter product line
-- 09/26 12:23 [FirstSquawk] Australia to impose tougher social media penalties over underage access and online harms - NA
-- 09/26 12:26 [FirstSquawk] Hurricane Polo shows Category 5 winds, NOAA aircraft measures, NHC says
-- 09/26 12:28 [FirstSquawk] Moody’s says Angola’s outlook change reflects stronger macroeconomic stability amid varying oil prices
-- 09/26 12:32 [FirstSquawk] Major Hurricane Odalys moving slowly toward the north-northeast, NHC says
 - 09/26 12:34 [FirstSquawk] Merck and Daiichi Sankyo withdraw US BLA for ifinatamab deruxtecan in extensive-stage SCLC
 - 09/26 12:34 [FirstSquawk] Merck & Co. advances two additional Phase 3 trials of ifinatamab deruxtecan in CRPC, ESCC
 - 09/26 12:40 [FirstSquawk] Cape Town offers affordable winter sun for UK travellers despite stronger rand - FT
@@ -233,3 +226,7 @@
 - 09/26 23:51 [FirstSquawk] Axios, citing sources: US negotiators have told Iran that it does not control the Strait of Hormuz and has no right to set conditions regarding it.
 - 09/26 23:52 [FirstSquawk] Axios, citing a US official: Positive and constructive talks are ongoing between Washington and Tehran through intermediaries.
 - 09/27 00:01 [DeItaone] TRUMP REJECTS AI INTEGRATION WITH CHINA President Trump said the U.S. should not integrate its AI efforts with China, despite discussing the technology with President Xi Jinping this week. Trump argued the U.S. is leading China significantl…
+- 09/27 00:19 [DeItaone] TRUMP REJECTS IRAN’S HORMUZ DEAL President Trump said he rejected Iran’s proposal to reopen the Strait of Hormuz and halt regional fighting within seven days. Iran had presented the plan through Qatari mediators, offering to reopen the crit…
+- 09/27 00:22 [FirstSquawk] Israeli army: We attacked earlier today a Hezbollah weapons depot in the Sajd area of ​​southern Lebanon
+- 09/27 00:28 [financialjuice] UN mission: strikes on Libya's oil, energy infrastructure may lead to sanctions under Security Council resolutions
+- 09/27 00:30 [financialjuice] UN Libya mission warns of economic fallout from ongoing closure of Sharara-Zawiya oil pipeline
