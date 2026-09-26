@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-26 10:32 JST／対象: 09/25 22:32 〜 09/26 10:32 JST（時刻はすべて日本時間）
+生成: 2026-09-26 10:45 JST／対象: 09/25 22:45 〜 09/26 10:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 37 | 09/25 22:47 | 09/26 05:35 | ⚠ 146分（03:09→05:35） |
 | FirstSquawk | 76 | 09/25 22:53 | 09/26 05:01 | 35分（00:26→01:01） |
-| financialjuice | 141 | 09/25 22:37 | 09/26 10:27 | ⚠ 65分（05:23→06:28） |
+| financialjuice | 140 | 09/25 22:48 | 09/26 10:27 | ⚠ 65分（05:23→06:28） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 245 行（統合前 256 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 244 行（統合前 255 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 22:37 [financialjuice] BofA raises Advanced Micro Devices' price objective to $720 from $620. $AMD
 - 09/25 22:47 [DeItaone] KATAYAMA, BESSENT REAFFIRMED THAT YEN UNDERVALUATION IS MATTER OF CONCERN
 - 09/25 22:48 [financialjuice] Japan's Fin. Min. Katayama and US Treasury Secretary Bessent reaffirmed that yen undervaluation is a matter of concern.
 - 09/25 22:49 [financialjuice] Japan's Fin. Min. Katayama and US Treasury Secretary Bessent reaffirmed their intention to strengthen cooperation - Statement.

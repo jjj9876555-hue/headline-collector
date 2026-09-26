@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-26 10:32 JST／対象: 09/25 10:32 〜 09/26 10:32 JST（時刻はすべて日本時間）
+生成: 2026-09-26 10:45 JST／対象: 09/25 10:45 〜 09/26 10:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 67 | 09/25 19:13 | 09/26 05:35 | ⚠ 146分（03:09→05:35） |
-| FirstSquawk | 202 | 09/25 10:32 | 09/26 05:01 | ⚠ 155分（16:01→18:36） |
-| financialjuice | 249 | 09/25 10:32 | 09/26 10:27 | ⚠ 88分（11:11→12:40） |
+| FirstSquawk | 197 | 09/25 10:49 | 09/26 05:01 | ⚠ 155分（16:01→18:36） |
+| financialjuice | 248 | 09/25 11:04 | 09/26 10:27 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 495 行（統合前 521 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 489 行（統合前 515 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 10:32 [FirstSquawk] Tesla executive says Semi truck deliveries start this week
-- 09/25 10:32 [FirstSquawk] 20-year Japanese government bond yield rises to 3.955%, up 4.0 basis points
-- 09/25 10:32 [financialjuice] Tesla exec: Pepsi, US Foods are customers of semi trucks
-- 09/25 10:33 [FirstSquawk] Tesla: DHL among customers for Semi trucks, executive says
-- 09/25 10:38 [FirstSquawk] Japanese government bond yields rise following a sharp jump in U.S. Treasury yields - WSJ
-- 09/25 10:41 [FirstSquawk] 30-year Japanese government bond yield rises to 4.210%, up 5.0 basis points
 - 09/25 10:49 [FirstSquawk] Korea’s semiconductor boom lures students away from university for factory jobs - KYODO
 - 09/25 10:56 [FirstSquawk] White House meeting highlights apparent differences between Trump and Xi on AI guardrails - YONHAP
 - 09/25 11:04 [financialjuice] Japan finmin katayama: deciding on specific monetary policy tools is up to BoJ
