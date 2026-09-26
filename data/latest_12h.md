@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-27 03:19 JST／対象: 09/26 15:19 〜 09/27 03:19 JST（時刻はすべて日本時間）
+生成: 2026-09-27 03:36 JST／対象: 09/26 15:36 〜 09/27 03:36 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/26 17:07 | 09/27 00:39 | ⚠ 291分（17:07→21:58） |
-| FirstSquawk | 175 | 09/26 15:33 | 09/27 03:04 | ⚠ 65分（19:20→20:25） |
+| FirstSquawk | 167 | 09/26 16:00 | 09/27 03:23 | ⚠ 65分（19:20→20:25） |
 | financialjuice | 32 | 09/26 16:36 | 09/27 02:48 | ⚠ 121分（19:57→21:58） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 211 行（統合前 215 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 202 行（統合前 207 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 15:33 [FirstSquawk] Quds, a conservative Iranian daily affiliated with Astan Quds Razavi, the religious foundation that administers the Imam Reza shrine in Mashhad, called on Tehran to respond to restrictions imposed by neighboring countries on Iranian flights…
-- 09/26 15:33 [FirstSquawk] Iran has presented the U.S. with a seven-day plan aimed at halting months of fighting, reopening the Strait of Hormuz & restarting negotiations over Tehran’s nuclear program.
-- 09/26 15:34 [FirstSquawk] Iranian President Masoud Pezeshkian: There are no specific ongoing health issues or challenges for Mojtaba Khamenei. On the last occasion when we met for seven-plus hours, of course, we were not used to being in seated positions for that ma…
-- 09/26 15:34 [FirstSquawk] Trump ‘rejects’ Iran proposal to reopen Strait of Hormuz within seven days
-- 09/26 15:34 [FirstSquawk] Russian Ministry of Defense: Targeting a data center supporting "Starlink" systems in Kyiv
-- 09/26 15:34 [FirstSquawk] Donald Trump reportedly rejected Tehran's seven-day proposal to halt fighting, reopen the Strait of Hormuz, and resume nuclear talks in exchange for lifted naval blockades, oil sanction waivers, and a ceasefire, anticipating renewed bombing…
-- 09/26 15:35 [FirstSquawk] US and China agree on tariff relief for $30bn of nonsensitive goods each
-- 09/26 15:35 [FirstSquawk] A bipartisan group of 14 U.S. senators urged Trump to withdraw Putin’s invitation to the G20 summit in Miami, arguing that his participation would legitimize Russia’s war against Ukraine.
-- 09/26 15:36 [FirstSquawk] China agreed to import at least 10 million metric tons of coal from the US next year and again in 2028
 - 09/26 16:00 [FirstSquawk] French Presidential Candidate Jean-Luc Mélenchon: Macron wants to send military assets to a theater of war in Saudi Arabia. What for? What would we do if we were attacked? In the end, even if we did not want it, we would become belligerents…
 - 09/26 16:00 [FirstSquawk] Vietnam to revise food safety law, reining in delivery apps like Shopee, Grab
 - 09/26 16:01 [FirstSquawk] Iraq is in direct talks with the United States to exempt some Iraqi airports from US Treasury measures affecting flights by Iranian airlines to regional airports, the Iraqi prime minister’s media office said on Saturday.
@@ -224,7 +215,7 @@
 - 09/27 01:53 [FirstSquawk] Saudi Foreign Minister: We affirm our full right to protect the Kingdom's security and sovereignty.
 - 09/27 01:54 [FirstSquawk] Saudi Foreign Minister: We welcome the Security Council statement condemning the Houthi attacks on the Kingdom and commercial vessels.
 - 09/27 01:54 [FirstSquawk] Saudi Foreign Minister: We support the sovereignty and security of Iraq and stress that its territory should not be used as a launching pad for attacks on neighboring countries.
-- 09/27 01:57 [financialjuice] Iraq reaches agreement with US to continue cash dollar shipments: Iraqi government
+- 09/27 01:57 [financialjuice/FirstSquawk] Iraq reaches agreement with US to continue cash dollar shipments: Iraqi government
 - 09/27 02:10 [financialjuice] Northern Ireland high court issues injunction to block Drumcree Protestant parade through Catholic area on Sunday
 - 09/27 02:11 [financialjuice] Northern Ireland High Court injunction provides brief interim relief until judicial review on route decided
 - 09/27 02:46 [financialjuice] Ukraine intercepting 55% of Russian jet-powered drones: Zelenskiy

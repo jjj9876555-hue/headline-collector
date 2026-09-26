@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-27 03:19 JST／対象: 09/26 21:19 〜 09/27 03:19 JST（時刻はすべて日本時間）
+生成: 2026-09-27 03:36 JST／対象: 09/26 21:36 〜 09/27 03:36 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/26 21:58 | 09/27 00:39 | ⚠ 67分（22:54→00:01） |
-| FirstSquawk | 92 | 09/26 21:24 | 09/27 03:04 | ⚠ 52分（01:54→02:46） |
+| FirstSquawk | 86 | 09/26 21:39 | 09/27 03:23 | ⚠ 52分（01:54→02:46） |
 | financialjuice | 21 | 09/26 21:58 | 09/27 02:48 | ⚠ 55分（01:01→01:57） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 116 行（統合前 120 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 109 行（統合前 114 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 21:24 [FirstSquawk] TRUMP: IRAN CAN NOT HAVE A NUCLEAR WEAPON!!! President DJT
-- 09/26 21:30 [FirstSquawk] Gold Fields said to consider its next steps after rebuff
-- 09/26 21:30 [FirstSquawk] Gold Fields said to express interest in buying Northern Star
-- 09/26 21:30 [FirstSquawk] Japan PM has phone talks with Trump after US-China summit: Kyodo
-- 09/26 21:31 [FirstSquawk] China attaches importance to US position on AI, ministry says
-- 09/26 21:31 [FirstSquawk] China respects US's use of 'super intelligence' rather than AI
-- 09/26 21:32 [FirstSquawk] China seeks deeper discussions, consensus on AI with US
 - 09/26 21:39 [FirstSquawk] Gold Fields Eyes Northern Star Acquisition Gold Fields Ltd. has expressed interest in acquiring Northern Star Resources Ltd., according to people familiar with the matter. Northern Star rebuffed the approach, while Gold Fields is considerin…
 - 09/26 21:40 [FirstSquawk] UBS Leaving Switzerland Would Be More Expensive, Swiss Minister Says Swiss Finance Minister Karin Keller-Sutter said leaving Switzerland would be more expensive and legally complex for UBS Group AG, as the bank opposes planned stricter capi…
 - 09/26 21:41 [FirstSquawk] China to Buy 10 Million Tons of US Coal in 2027, 2028 China agreed to import at least 10 million metric tons of coal from the US in both 2027 and 2028, according to the White House, as the two countries move to ease trade tensions. The agre…
@@ -129,7 +122,7 @@
 - 09/27 01:53 [FirstSquawk] Saudi Foreign Minister: We affirm our full right to protect the Kingdom's security and sovereignty.
 - 09/27 01:54 [FirstSquawk] Saudi Foreign Minister: We welcome the Security Council statement condemning the Houthi attacks on the Kingdom and commercial vessels.
 - 09/27 01:54 [FirstSquawk] Saudi Foreign Minister: We support the sovereignty and security of Iraq and stress that its territory should not be used as a launching pad for attacks on neighboring countries.
-- 09/27 01:57 [financialjuice] Iraq reaches agreement with US to continue cash dollar shipments: Iraqi government
+- 09/27 01:57 [financialjuice/FirstSquawk] Iraq reaches agreement with US to continue cash dollar shipments: Iraqi government
 - 09/27 02:10 [financialjuice] Northern Ireland high court issues injunction to block Drumcree Protestant parade through Catholic area on Sunday
 - 09/27 02:11 [financialjuice] Northern Ireland High Court injunction provides brief interim relief until judicial review on route decided
 - 09/27 02:46 [financialjuice] Ukraine intercepting 55% of Russian jet-powered drones: Zelenskiy
