@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-27 02:45 JST／対象: 09/26 02:45 〜 09/27 02:45 JST（時刻はすべて日本時間）
+生成: 2026-09-27 02:58 JST／対象: 09/26 02:58 〜 09/27 02:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/26 03:09 | 09/27 00:39 | ⚠ 692分（05:35→17:07） |
-| FirstSquawk | 300 | 09/26 02:49 | 09/27 01:54 | ⚠ 379分（05:01→11:20） |
-| financialjuice | 112 | 09/26 02:52 | 09/27 02:11 | ⚠ 215分（13:00→16:36） |
+| FirstSquawk | 301 | 09/26 03:00 | 09/27 02:47 | ⚠ 379分（05:01→11:20） |
+| financialjuice | 113 | 09/26 03:01 | 09/27 02:48 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 415 行（統合前 423 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 418 行（統合前 425 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 02:49 [FirstSquawk] SAUDI CRUDE OIL EXPORTS HIT HIGHEST LEVEL SINCE IRAN WAR BEGAN DESPITE PIPELINE OUTAGE – CNBC
-- 09/26 02:52 [financialjuice/FirstSquawk] Germany discusses requiring gas firms to fill storage next year
 - 09/26 03:00 [FirstSquawk] ANDY BURNHAM UNDER PRESSURE TO SIGNAL SHIFT ON LABOUR’S EU ‘RED LINES’ - FT
 - 09/26 03:01 [financialjuice] Pakistan Prime Minister: Through concentrated efforts, Pakistan brought Washington and Tehran under one roof, that lead to Islamabad talks, Islamabad MoU. Must appreciate Field Marshal Asim Munir, efforts of Deputy PM Ishaq Dar” - AsiaOne N…
 - 09/26 03:05 [financialjuice] Fed's Hammack: The biggest risk with inflation is the formation of an inflationary mindset
@@ -439,3 +437,8 @@
 - 09/27 01:57 [financialjuice] Iraq reaches agreement with US to continue cash dollar shipments: Iraqi government
 - 09/27 02:10 [financialjuice] Northern Ireland high court issues injunction to block Drumcree Protestant parade through Catholic area on Sunday
 - 09/27 02:11 [financialjuice] Northern Ireland High Court injunction provides brief interim relief until judicial review on route decided
+- 09/27 02:46 [financialjuice] Ukraine intercepting 55% of Russian jet-powered drones: Zelenskiy
+- 09/27 02:46 [FirstSquawk] Iraqi government spokesperson: The Prime Minister has reached understandings with Washington to continue sending shipments of cash dollars.
+- 09/27 02:46 [FirstSquawk] Iraqi government spokesperson: A new shipment of US dollars in cash will arrive in Iraq in the coming days.
+- 09/27 02:47 [FirstSquawk] Russian Ministry of Defense: Today we intercepted and destroyed 105 drones over our territory and the Black Sea
+- 09/27 02:48 [financialjuice] IMF: staff wraps up visit to Gabon

@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-27 02:45 JST／対象: 09/26 14:45 〜 09/27 02:45 JST（時刻はすべて日本時間）
+生成: 2026-09-27 02:58 JST／対象: 09/26 14:58 〜 09/27 02:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/26 17:07 | 09/27 00:39 | ⚠ 291分（17:07→21:58） |
-| FirstSquawk | 173 | 09/26 14:45 | 09/27 01:54 | ⚠ 65分（19:20→20:25） |
-| financialjuice | 30 | 09/26 16:36 | 09/27 02:11 | ⚠ 121分（19:57→21:58） |
+| FirstSquawk | 173 | 09/26 14:59 | 09/27 02:47 | ⚠ 65分（19:20→20:25） |
+| financialjuice | 32 | 09/26 16:36 | 09/27 02:48 | ⚠ 121分（19:57→21:58） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 207 行（統合前 211 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 209 行（統合前 213 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 14:45 [FirstSquawk] South Korea records 2.87 million foreign nationals, up 5.3% from a year earlier - YONHAP
-- 09/26 14:52 [FirstSquawk] More than half of South Korea’s registered foreign nationals live in greater Seoul - YONHAP
-- 09/26 14:56 [FirstSquawk] US pressure campaign leaves Iran increasingly isolated from the rest of the world - WSJ
 - 09/26 14:59 [FirstSquawk] Trump’s $810 million in cuts sparks opposition from lawmakers - WSJ
 - 09/26 15:33 [FirstSquawk] Quds, a conservative Iranian daily affiliated with Astan Quds Razavi, the religious foundation that administers the Imam Reza shrine in Mashhad, called on Tehran to respond to restrictions imposed by neighboring countries on Iranian flights…
 - 09/26 15:33 [FirstSquawk] Iran has presented the U.S. with a seven-day plan aimed at halting months of fighting, reopening the Strait of Hormuz & restarting negotiations over Tehran’s nuclear program.
@@ -231,3 +228,8 @@
 - 09/27 01:57 [financialjuice] Iraq reaches agreement with US to continue cash dollar shipments: Iraqi government
 - 09/27 02:10 [financialjuice] Northern Ireland high court issues injunction to block Drumcree Protestant parade through Catholic area on Sunday
 - 09/27 02:11 [financialjuice] Northern Ireland High Court injunction provides brief interim relief until judicial review on route decided
+- 09/27 02:46 [financialjuice] Ukraine intercepting 55% of Russian jet-powered drones: Zelenskiy
+- 09/27 02:46 [FirstSquawk] Iraqi government spokesperson: The Prime Minister has reached understandings with Washington to continue sending shipments of cash dollars.
+- 09/27 02:46 [FirstSquawk] Iraqi government spokesperson: A new shipment of US dollars in cash will arrive in Iraq in the coming days.
+- 09/27 02:47 [FirstSquawk] Russian Ministry of Defense: Today we intercepted and destroyed 105 drones over our territory and the Black Sea
+- 09/27 02:48 [financialjuice] IMF: staff wraps up visit to Gabon

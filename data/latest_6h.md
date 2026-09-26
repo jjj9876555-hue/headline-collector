@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-27 02:45 JST／対象: 09/26 20:45 〜 09/27 02:45 JST（時刻はすべて日本時間）
+生成: 2026-09-27 02:58 JST／対象: 09/26 20:58 〜 09/27 02:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/26 21:58 | 09/27 00:39 | ⚠ 67分（22:54→00:01） |
-| FirstSquawk | 95 | 09/26 20:52 | 09/27 01:54 | ⚠ 47分（21:53→22:41） |
-| financialjuice | 19 | 09/26 21:58 | 09/27 02:11 | ⚠ 55分（01:01→01:57） |
+| FirstSquawk | 91 | 09/26 21:12 | 09/27 02:47 | ⚠ 52分（01:54→02:46） |
+| financialjuice | 21 | 09/26 21:58 | 09/27 02:48 | ⚠ 55分（01:01→01:57） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 117 行（統合前 121 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 115 行（統合前 119 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 20:52 [FirstSquawk] China Foreign Minister Wang Yi: Xi's U.S. Visit Opens "New Chapter" In China-U.S. Relations - Ministry Statement
-- 09/26 20:53 [FirstSquawk] NHC: Polo moving west-northwestward as an extremely dangerous Category 5 hurricane, expected to make landfall in Baja California Sur on Monday as a powerful hurricane
-- 09/26 20:54 [FirstSquawk] Kremlin: Putin discusses Ukraine, energy cooperation in phone call with Serbia's Vucic - IFX
-- 09/26 20:55 [FirstSquawk] SNB Chairman: Looking closely at impact of summer heat on food prices
-- 09/26 20:55 [FirstSquawk] SNB Chairman: Food prices have risen, but inflation increase is due almost totally to petrol prices
-- 09/26 20:55 [FirstSquawk] SNB Chairman: Can keep interest rates on hold because inflation is on target
-- 09/26 20:55 [FirstSquawk] SNB Chairman: Current decline in Swiss franc is a small counter trend to long-term strengthening of currency
 - 09/26 21:12 [FirstSquawk] SNB’s Schlegel Watching Hot Weather Impact on Food Price Inflation Record summer heat has affected food prices in Switzerland, but has not been a major driver of rising inflation, Swiss National Bank Chairman Martin Schlegel said. He added …
 - 09/26 21:13 [FirstSquawk] Ukraine Says It Struck Ilsky Oil Refinery in Southern Russia Ukrainian forces struck the Ilsky Oil Refinery in Russia’s southern Krasnodar region during an overnight attack, Ukraine’s military said on Saturday. Ukraine’s General Staff said …
 - 09/26 21:24 [FirstSquawk] TRUMP: IRAN CAN NOT HAVE A NUCLEAR WEAPON!!! President DJT
@@ -141,3 +134,8 @@
 - 09/27 01:57 [financialjuice] Iraq reaches agreement with US to continue cash dollar shipments: Iraqi government
 - 09/27 02:10 [financialjuice] Northern Ireland high court issues injunction to block Drumcree Protestant parade through Catholic area on Sunday
 - 09/27 02:11 [financialjuice] Northern Ireland High Court injunction provides brief interim relief until judicial review on route decided
+- 09/27 02:46 [financialjuice] Ukraine intercepting 55% of Russian jet-powered drones: Zelenskiy
+- 09/27 02:46 [FirstSquawk] Iraqi government spokesperson: The Prime Minister has reached understandings with Washington to continue sending shipments of cash dollars.
+- 09/27 02:46 [FirstSquawk] Iraqi government spokesperson: A new shipment of US dollars in cash will arrive in Iraq in the coming days.
+- 09/27 02:47 [FirstSquawk] Russian Ministry of Defense: Today we intercepted and destroyed 105 drones over our territory and the Black Sea
+- 09/27 02:48 [financialjuice] IMF: staff wraps up visit to Gabon
