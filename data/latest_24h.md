@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-26 19:45 JST／対象: 09/25 19:45 〜 09/26 19:45 JST（時刻はすべて日本時間）
+生成: 2026-09-26 19:58 JST／対象: 09/25 19:58 〜 09/26 19:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 67 | 09/25 20:46 | 09/26 17:07 | ⚠ 692分（05:35→17:07） |
-| FirstSquawk | 302 | 09/25 19:50 | 09/26 19:20 | ⚠ 379分（05:01→11:20） |
-| financialjuice | 203 | 09/25 19:50 | 09/26 19:07 | ⚠ 215分（13:00→16:36） |
+| FirstSquawk | 299 | 09/25 20:02 | 09/26 19:20 | ⚠ 379分（05:01→11:20） |
+| financialjuice | 201 | 09/25 20:20 | 09/26 19:57 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 550 行（統合前 575 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 545 行（統合前 570 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 19:50 [FirstSquawk] IRAN LEADER ADVISER MOKHBER SAYS IF IRAN CANNOT HAVE FLIGHTS AND RECEIVE AIRPORT SERVICES, THEN NO ONE IN THE REGION CAN EITHER - NOURNEWS
-- 09/25 19:50 [financialjuice] Iran leader adviser Mokhbar: Iran cannot have flights and receive airport services, then no one in the region can either - NourNews
-- 09/25 19:53 [financialjuice] Iran president meets Qatar PM in New York
-- 09/25 19:54 [financialjuice] Iran President and Qatar PM discussed efforts to de-escalate
-- 09/25 19:55 [FirstSquawk] IRAN'S PRESIDENT AND QATAR'S PRIME MINISTER HOLD A MEETING IN NEW YORK.
-- 09/25 19:55 [FirstSquawk] IRAN'S PRESIDENT AND QATAR'S PM HELD TALKS ON EFFORTS TO REDUCE TENSIONS.
 - 09/25 20:02 [FirstSquawk] J&J REPORTS A 69.2% OVERALL SURVIVAL RATE OVER FIVE YEARS AND A MEDIAN PROGRESSION-FREE SURVIVAL OF 60.5 MONTHS.
 - 09/25 20:10 [FirstSquawk] BASF MAKES TAKEOVER APPROACH FOR CHEMICALS RIVAL EVONIK - FT
 - 09/25 20:10 [FirstSquawk] DOLLAR/YEN EXTENDS FALL, LAST DOWN 0.76% AT 157.66
@@ -574,3 +568,4 @@
 - 09/26 19:19 [FirstSquawk] Iranian President: Saudi Arabia is capable of playing a role in uniting the countries of the Islamic world
 - 09/26 19:20 [FirstSquawk] Crypto update: #Bitcoin 83982.00 +0.13% #Ether 2680.50 -0.15% #Cardano 0.2540 -0.12% #BitcoinCash 337.20 -0.69% #Litecoin 74.06 +4.1% #Stellar 0.2165 -1.19% #Dogecoin 0.0970 -0.82% #Uniswap 9.5994 -0.35% #Chainlink 14.0024 +1.27% #Polkadot …
 - 09/26 19:20 [FirstSquawk] Weekend markets update: #DAX 25490 -0.24% #DOW 51727 -0.20% #NASDAQ 30565 -0.23% #FTSE 10727 -0.14% #HANGSENG 24475 -0.13% #EURUSD 11386 -0.04% #USDJPY 15715 -0.09% #GOLD 4279 -0.14% #USOIL 9356 +1.72%
+- 09/26 19:57 [financialjuice] China foreign minister Wang Yi: Xi's U.S. visit opens 'new chapter' in China-U.S. ties - ministry statement
