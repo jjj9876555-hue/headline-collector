@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-26 18:02 JST／対象: 09/25 18:02 〜 09/26 18:02 JST（時刻はすべて日本時間）
+生成: 2026-09-26 18:19 JST／対象: 09/25 18:19 〜 09/26 18:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 68 | 09/25 19:13 | 09/26 17:07 | ⚠ 692分（05:35→17:07） |
-| FirstSquawk | 281 | 09/25 18:36 | 09/26 17:56 | ⚠ 379分（05:01→11:20） |
-| financialjuice | 227 | 09/25 18:12 | 09/26 17:15 | ⚠ 215分（13:00→16:36） |
+| FirstSquawk | 286 | 09/25 18:36 | 09/26 18:16 | ⚠ 379分（05:01→11:20） |
+| financialjuice | 226 | 09/25 18:21 | 09/26 17:15 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 553 行（統合前 579 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 557 行（統合前 583 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 18:12 [financialjuice] Russia's Gazprom resumes gas supplies to Armenia - IFX
 - 09/25 18:21 [financialjuice] Japan's PM Takaichi: Didn't discuss monetary or fiscal policy with Trump
 - 09/25 18:30 [financialjuice] Japan's PM Takaichi: Trump said in the summit meeting that the weak Yen is pressuring US trade
 - 09/25 18:30 [financialjuice] BoE Gov. Bailey: AI could be a positive shock in an era of negative supply shocks
@@ -577,3 +576,8 @@
 - 09/26 17:54 [FirstSquawk] Azerbaijani FM Bayramov: Even though the decades-long conflict with Armenia brought immense tragedy to our people and left deep scars across our land, Azerbaijan has chosen to look ahead and turn the page of enmity.
 - 09/26 17:54 [FirstSquawk] Hegseth channels WARRIOR ethos in US-style SPARTAN helm — this is AMERICA
 - 09/26 17:56 [FirstSquawk] Maharashtra faces a severe drought crisis as nearly 75% of the state grapples with intense water scarcity, prompting the Devendra Fadnavis government to declare drought across multiple regions. Inadequate rainfall has severely stressed agri…
+- 09/26 18:06 [FirstSquawk] DPA": Continued Search for 18 Iraqi Migrants Believed to Have Drowned Off the Libyan Coast
+- 09/26 18:14 [FirstSquawk] German Foreign Minister Johann Wadephul yesterday said that the participation of Russian President Vladimir Putin at a G20 meeting could be the start of "serious negotiations" to end Russia’s full-scale invasion of Ukraine.
+- 09/26 18:14 [FirstSquawk] Germany 10-year yield hits its highest level since 2009.
+- 09/26 18:15 [FirstSquawk] Oracle's long-term bonds just crossed an all time high of 8.3%. Their 5 year CDS spreads also broke record highs, skyrocketing 16% to 227bps.
+- 09/26 18:16 [FirstSquawk] OpenAI investigating 'dozens' of instances of agents acting improperly

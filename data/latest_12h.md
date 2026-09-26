@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-26 18:02 JST／対象: 09/26 06:02 〜 09/26 18:02 JST（時刻はすべて日本時間）
+生成: 2026-09-26 18:19 JST／対象: 09/26 06:19 〜 09/26 18:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/26 17:07 | 09/26 17:07 | - |
-| FirstSquawk | 140 | 09/26 11:20 | 09/26 17:56 | 34分（14:59→15:33） |
+| FirstSquawk | 145 | 09/26 11:20 | 09/26 18:16 | 34分（14:59→15:33） |
 | financialjuice | 31 | 09/26 06:28 | 09/26 17:15 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 172 行（統合前 173 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 177 行（統合前 178 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -196,3 +196,8 @@
 - 09/26 17:54 [FirstSquawk] Azerbaijani FM Bayramov: Even though the decades-long conflict with Armenia brought immense tragedy to our people and left deep scars across our land, Azerbaijan has chosen to look ahead and turn the page of enmity.
 - 09/26 17:54 [FirstSquawk] Hegseth channels WARRIOR ethos in US-style SPARTAN helm — this is AMERICA
 - 09/26 17:56 [FirstSquawk] Maharashtra faces a severe drought crisis as nearly 75% of the state grapples with intense water scarcity, prompting the Devendra Fadnavis government to declare drought across multiple regions. Inadequate rainfall has severely stressed agri…
+- 09/26 18:06 [FirstSquawk] DPA": Continued Search for 18 Iraqi Migrants Believed to Have Drowned Off the Libyan Coast
+- 09/26 18:14 [FirstSquawk] German Foreign Minister Johann Wadephul yesterday said that the participation of Russian President Vladimir Putin at a G20 meeting could be the start of "serious negotiations" to end Russia’s full-scale invasion of Ukraine.
+- 09/26 18:14 [FirstSquawk] Germany 10-year yield hits its highest level since 2009.
+- 09/26 18:15 [FirstSquawk] Oracle's long-term bonds just crossed an all time high of 8.3%. Their 5 year CDS spreads also broke record highs, skyrocketing 16% to 227bps.
+- 09/26 18:16 [FirstSquawk] OpenAI investigating 'dozens' of instances of agents acting improperly

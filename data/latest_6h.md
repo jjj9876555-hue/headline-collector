@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-26 18:02 JST／対象: 09/26 12:02 〜 09/26 18:02 JST（時刻はすべて日本時間）
+生成: 2026-09-26 18:19 JST／対象: 09/26 12:19 〜 09/26 18:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/26 17:07 | 09/26 17:07 | - |
-| FirstSquawk | 99 | 09/26 12:04 | 09/26 17:56 | 34分（14:59→15:33） |
+| FirstSquawk | 95 | 09/26 12:20 | 09/26 18:16 | 34分（14:59→15:33） |
 | financialjuice | 6 | 09/26 13:00 | 09/26 17:15 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 106 行（統合前 106 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 102 行（統合前 102 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 12:04 [FirstSquawk] Brazil government program aims to address around 300 billion reais in credit card and unsecured personal loan debt
-- 09/26 12:08 [FirstSquawk] Brazil plans to extend debt discounts to families under new program
-- 09/26 12:08 [FirstSquawk] Brazil expects program to cover 150 billion reais of debt, or half of eligible pool, at 15 billion reais cost
-- 09/26 12:09 [FirstSquawk] Brazil government: Mechanism to support overdue payment regularization and family debt restructuring
-- 09/26 12:09 [FirstSquawk] US Tsunami Warning System: No tsunami threat following 7.0-magnitude Loyalty Islands quake
-- 09/26 12:10 [FirstSquawk] NYSE American notifies Southland of listing standards noncompliance
-- 09/26 12:10 [FirstSquawk] Health Canada: 11 insulin product lots recalled after shipments to about 80 pharmacies, clinics and hospitals
-- 09/26 12:10 [FirstSquawk] Magnitude 7.0 earthquake hits Tadine, New Caledonia region, USGS says
-- 09/26 12:17 [FirstSquawk] Bulgaria’s outlook revision reflects reduced political uncertainty after April general election, Fitch says
 - 09/26 12:20 [FirstSquawk] Bulgaria’s outlook raised to positive by Fitch; IDR affirmed at ‘BBB+’
 - 09/26 12:23 [FirstSquawk] US FDA: Boston Scientific will stop selling Imager II Angiographic Catheter product line
 - 09/26 12:23 [FirstSquawk] Australia to impose tougher social media penalties over underage access and online harms - NA
@@ -130,3 +121,8 @@
 - 09/26 17:54 [FirstSquawk] Azerbaijani FM Bayramov: Even though the decades-long conflict with Armenia brought immense tragedy to our people and left deep scars across our land, Azerbaijan has chosen to look ahead and turn the page of enmity.
 - 09/26 17:54 [FirstSquawk] Hegseth channels WARRIOR ethos in US-style SPARTAN helm — this is AMERICA
 - 09/26 17:56 [FirstSquawk] Maharashtra faces a severe drought crisis as nearly 75% of the state grapples with intense water scarcity, prompting the Devendra Fadnavis government to declare drought across multiple regions. Inadequate rainfall has severely stressed agri…
+- 09/26 18:06 [FirstSquawk] DPA": Continued Search for 18 Iraqi Migrants Believed to Have Drowned Off the Libyan Coast
+- 09/26 18:14 [FirstSquawk] German Foreign Minister Johann Wadephul yesterday said that the participation of Russian President Vladimir Putin at a G20 meeting could be the start of "serious negotiations" to end Russia’s full-scale invasion of Ukraine.
+- 09/26 18:14 [FirstSquawk] Germany 10-year yield hits its highest level since 2009.
+- 09/26 18:15 [FirstSquawk] Oracle's long-term bonds just crossed an all time high of 8.3%. Their 5 year CDS spreads also broke record highs, skyrocketing 16% to 227bps.
+- 09/26 18:16 [FirstSquawk] OpenAI investigating 'dozens' of instances of agents acting improperly
