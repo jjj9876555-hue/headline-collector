@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-27 00:50 JST／対象: 09/26 00:50 〜 09/27 00:50 JST（時刻はすべて日本時間）
+生成: 2026-09-27 01:02 JST／対象: 09/26 01:02 〜 09/27 01:02 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 31 | 09/26 01:20 | 09/27 00:39 | ⚠ 692分（05:35→17:07） |
-| FirstSquawk | 285 | 09/26 01:01 | 09/27 00:42 | ⚠ 379分（05:01→11:20） |
-| financialjuice | 130 | 09/26 00:53 | 09/27 00:30 | ⚠ 215分（13:00→16:36） |
+| FirstSquawk | 282 | 09/26 01:02 | 09/27 00:42 | ⚠ 379分（05:01→11:20） |
+| financialjuice | 127 | 09/26 01:03 | 09/27 01:01 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 435 行（統合前 447 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 429 行（統合前 441 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 00:53 [financialjuice] Trump and China’s President Xi Site Visit - WATCH LIVE
-- 09/26 00:57 [financialjuice] Trump asked Xi to stop supporting Iran - Axios
-- 09/26 01:00 [financialjuice] ❗ Iran-US talks enter technical stage - Al-Jazeera Journalist Reports cited by CBS.
-- 09/26 01:00 [financialjuice] Iran-U.S. talks enter technical stage, Al-Jazeera journalist reports
-- 09/26 01:01 [FirstSquawk] IRAN-US TALKS ENTER TECHNICAL STAGE - AL-JAZEERA
-- 09/26 01:02 [FirstSquawk] IRAN-U.S. NEGOTIATIONS IN NEW YORK HAVE MOVED BEYOND INITIAL DIPLOMATIC CONTACTS INTO A MORE DETAILED TECHNICAL PHASE, WITH SOURCES IN TEHRAN DESCRIBING THE ATMOSPHERE AS INCREASINGLY POSITIVE, AL JAZEERA'S BUREAU CHIEF IN TEHRAN, NOURDDINE…
-- 09/26 01:02 [FirstSquawk] THE QATARI-GOVERNMENT OWNED NETWORK SAID TECHNICAL EXPERTS HAD JOINED THE DISCUSSIONS IN NEW YORK AFTER A FIRST MEETING INVOLVING U.S. ENVOYS STEVE WITKOFF AND JARED KUSHNER. WHILE VISAS WERE NOT INITIALLY APPROVED BY THE U.S. GOVERNMENT FO…
 - 09/26 01:02 [FirstSquawk] TRUMP: HAD A GREAT MEETING WITH XI, GREAT FOR FARMERS
 - 09/26 01:03 [FirstSquawk] TRUMP SAYS DISCUSSED IRAN WITH XI
 - 09/26 01:03 [FirstSquawk] TRUMP SAYS THINK WE'RE GOING TO DO GREAT
@@ -459,3 +452,4 @@
 - 09/27 00:28 [financialjuice/FirstSquawk] UN mission: strikes on Libya's oil, energy infrastructure may lead to sanctions under Security Council resolutions
 - 09/27 00:30 [financialjuice/FirstSquawk] UN Libya mission warns of economic fallout from ongoing closure of Sharara-Zawiya oil pipeline
 - 09/27 00:39 [DeItaone] TRUMP PREDICTS U.S.-CUBA DEAL, DOWNPLAYS MILITARY ACTION President Trump said he expects the U.S. and Cuba to reach an agreement, adding that he does not believe military action will be necessary. “I don’t think we’ll need the military,” Tr…
+- 09/27 01:01 [financialjuice] United Nations: Russian Foreign Minister Lavrov says US must end 'siege' and trade restrictions on Cuba

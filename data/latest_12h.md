@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-27 00:50 JST／対象: 09/26 12:50 〜 09/27 00:50 JST（時刻はすべて日本時間）
+生成: 2026-09-27 01:02 JST／対象: 09/26 13:02 〜 09/27 01:02 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/26 17:07 | 09/27 00:39 | ⚠ 291分（17:07→21:58） |
-| FirstSquawk | 170 | 09/26 12:51 | 09/27 00:42 | ⚠ 65分（19:20→20:25） |
-| financialjuice | 27 | 09/26 13:00 | 09/27 00:30 | ⚠ 215分（13:00→16:36） |
+| FirstSquawk | 164 | 09/26 13:06 | 09/27 00:42 | ⚠ 65分（19:20→20:25） |
+| financialjuice | 27 | 09/26 16:36 | 09/27 01:01 | ⚠ 121分（19:57→21:58） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 201 行（統合前 205 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 195 行（統合前 199 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 12:51 [FirstSquawk] China researchers warn offshore wind farms could disrupt radar, create ‘ghost’ targets - SCMP
-- 09/26 12:51 [FirstSquawk] China upgrades mobile payments to make spending easier for foreigners ahead of Apec - SCMP
-- 09/26 12:52 [FirstSquawk] Thailand steps up efforts to curb bad behaviour among foreign tourists - SCMP
-- 09/26 12:56 [FirstSquawk] S&P: Oman stands out among Gulf neighbors as its hydrocarbon exports do not rely on Strait of Hormuz
-- 09/26 12:57 [FirstSquawk] S&P: Ghana ratings affirmed at 'B-/B', outlook unchanged at stable
-- 09/26 12:58 [FirstSquawk] S&P sees Oman remaining resilient despite regional geopolitical tensions
-- 09/26 13:00 [financialjuice] Saudi civil defense: danger has passed in Abha
 - 09/26 13:06 [FirstSquawk] China’s Leapmotor outpaces Subaru, Mitsubishi Motors as European demand boosts deliveries - NA
 - 09/26 13:11 [FirstSquawk] Pakistan military: Chiefs of defense forces, general staff from Makkah pact members meet in Riyadh - RTRS
 - 09/26 13:12 [FirstSquawk] Bangkok faces widespread flooding after torrential rainfall
@@ -225,3 +218,4 @@
 - 09/27 00:28 [financialjuice/FirstSquawk] UN mission: strikes on Libya's oil, energy infrastructure may lead to sanctions under Security Council resolutions
 - 09/27 00:30 [financialjuice/FirstSquawk] UN Libya mission warns of economic fallout from ongoing closure of Sharara-Zawiya oil pipeline
 - 09/27 00:39 [DeItaone] TRUMP PREDICTS U.S.-CUBA DEAL, DOWNPLAYS MILITARY ACTION President Trump said he expects the U.S. and Cuba to reach an agreement, adding that he does not believe military action will be necessary. “I don’t think we’ll need the military,” Tr…
+- 09/27 01:01 [financialjuice] United Nations: Russian Foreign Minister Lavrov says US must end 'siege' and trade restrictions on Cuba
