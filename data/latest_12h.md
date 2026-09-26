@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-26 09:23 JST／対象: 09/25 21:23 〜 09/26 09:23 JST（時刻はすべて日本時間）
+生成: 2026-09-26 09:42 JST／対象: 09/25 21:42 〜 09/26 09:42 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 55 | 09/25 21:30 | 09/26 05:35 | ⚠ 146分（03:09→05:35） |
-| FirstSquawk | 99 | 09/25 21:32 | 09/26 05:01 | 35分（00:26→01:01） |
-| financialjuice | 161 | 09/25 21:30 | 09/26 09:14 | ⚠ 65分（05:23→06:28） |
+| DeItaone | 53 | 09/25 21:45 | 09/26 05:35 | ⚠ 146分（03:09→05:35） |
+| FirstSquawk | 97 | 09/25 21:44 | 09/26 05:01 | 35分（00:26→01:01） |
+| financialjuice | 164 | 09/25 21:45 | 09/26 09:28 | ⚠ 65分（05:23→06:28） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 300 行（統合前 317 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 299 行（統合前 316 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 21:30 [DeItaone] US AUG DURABLES ORDERS UNCHANGED (CONSENSUS -0.4%)
-- 09/25 21:30 [financialjuice] US CORE DURABLE GOODS ACTUAL 0.3% (FORECAST 0.6%, PREVIOUS 0.4%) $MACRO
-- 09/25 21:30 [financialjuice] ❗ US DURABLE GOODS ACTUAL 0% (FORECAST -0.3%, PREVIOUS 1.1%) $MACRO
-- 09/25 21:32 [FirstSquawk] US DURABLE GOODS ORDERS (M/M) AUG P: 0.0% (EST -0.3%; PREV 1.1%; PREVR 0.9%) || DURABLES EX-TRANSPORTATION (M/M): 0.3% (EST 0.6%; PREV 0.4%)
-- 09/25 21:32 [financialjuice] US Durable Goods August Report
-- 09/25 21:32 [FirstSquawk] BURNHAM PLANS FIRST BERLIN VISIT FOR TALKS WITH MERZ - POLITICO
-- 09/25 21:33 [DeItaone] YIELD ON 30-YEAR U.S. TREASURY BONDS LAST UP 1.85 BASIS POINTS AT 5.481% U.S. TREASURY YIELDS RISE AFTER DURABLE GOODS DATA; YIELD ON 10-YEAR TREASURY NOTE LAST UP 2.36 BASIS POINTS AT 5.186%
 - 09/25 21:44 [FirstSquawk] CHINA, US IN A MANAGED TRADE SITUATION, HAD PROGRESS - GREER
 - 09/25 21:45 [financialjuice] USTR Greer: China, US in a managed trade situation, had progress.
 - 09/25 21:45 [financialjuice] USTR's Greer: We will release on Monday details on negotiations with China and the US -CNBC
@@ -324,3 +317,9 @@
 - 09/26 07:35 [financialjuice] Skyworks extends expiration date of exchange offers for Gorvo senior notes due 2029 and 2031
 - 09/26 08:28 [financialjuice] Google in threat intelligence report: ShinyHunters launches revived widespread attack campaign targeting Oracle PeopleSoft
 - 09/26 09:14 [financialjuice] OpenAI’s models accessed public US census, SEC information
+- 09/26 09:26 [financialjuice] OpenAI: models accessed publicly available info on and
+- 09/26 09:26 [financialjuice] OpenAI: Our models accessed some publicly available US Census Bureau data during internal training tasks
+- 09/26 09:27 [financialjuice] OpenAI: proactively informed US Census Bureau and provided technical details to aid review
+- 09/26 09:27 [financialjuice] OpenAI: review finds no access to census accounts, key-management roles, or ability to alter census data or systems
+- 09/26 09:27 [financialjuice] Trump rejects Iran ceasefire: anticipates increased bombing after midterms - WSJ
+- 09/26 09:28 [financialjuice] Trump skeptical Tehran will comply with his demands: WSJ

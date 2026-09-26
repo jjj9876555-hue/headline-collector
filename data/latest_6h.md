@@ -7,42 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-26 09:23 JST／対象: 09/26 03:23 〜 09/26 09:23 JST（時刻はすべて日本時間）
+生成: 2026-09-26 09:42 JST／対象: 09/26 03:42 〜 09/26 09:42 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/26 05:35 | 09/26 05:35 | - |
-| FirstSquawk | 16 | 09/26 03:24 | 09/26 05:01 | 25分（04:35→05:01） |
-| financialjuice | 52 | 09/26 03:23 | 09/26 09:14 | ⚠ 65分（05:23→06:28） |
+| FirstSquawk | 9 | 09/26 03:46 | 09/26 05:01 | 25分（04:35→05:01） |
+| financialjuice | 45 | 09/26 03:43 | 09/26 09:28 | ⚠ 65分（05:23→06:28） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 67 行（統合前 70 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 54 行（統合前 56 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 03:23 [financialjuice] Fed's Hammack: Underlying inflation is likely above target
-- 09/26 03:24 [FirstSquawk] FED'S HAMMACK: UNDERLYING INFLATION LIKELY ABOVE TARGET
-- 09/26 03:26 [FirstSquawk] BLACKSTONE’S TOP PRIVATE-EQUITY EXECUTIVE IS PREPARING TO LEAVE FIRM – WSJ
-- 09/26 03:28 [FirstSquawk] IRAN DENIES REPORTS OF US-IRAN TALKS, CALLS THEM MARKET MANAGEMENT - FARS
-- 09/26 03:28 [financialjuice] ❗ Fars News: Axios and Al Jazeera's claims about Iran-US talks are false.
-- 09/26 03:28 [financialjuice/FirstSquawk] Fed's Hammack: Sides of Fed mandates are generally not in conflict
-- 09/26 03:29 [financialjuice] Fed's Hammack: Persistently high inflation has 'real costs', pressures wages
-- 09/26 03:30 [financialjuice] Fed's Hammack: High inflation complicates economic planning
-- 09/26 03:31 [FirstSquawk] US CRUDE OIL FUTURES SETTLE AT $92.41/BBL, DOWN $2.20, 2.33%
-- 09/26 03:31 [financialjuice] ❗ Fars News, citing an informed source: The news coverage by Western media outlets, including Axios, about another round of negotiations is false and is designed more to manage the market and oil prices.
-- 09/26 03:31 [financialjuice] NYMEX WTI Crude November futures settle at $92.41 a barrel, down $2.20, 2.33%.
-- 09/26 03:31 [financialjuice] NYMEX Gasoline October futures settle at $3.3934 a gallon.
-- 09/26 03:31 [financialjuice] NYMEX Diesel October futures settle at $4.6847 a gallon.
-- 09/26 03:32 [financialjuice] Fed's Hammack: Fed policy is not restraining activity outside of housing
-- 09/26 03:32 [financialjuice] NYMEX Natural Gas October futures settle at $3.1960/MMBtu.
-- 09/26 03:33 [financialjuice] Fed's Hammack: Don't see current policy as restraining the economy
-- 09/26 03:36 [FirstSquawk] FED'S HAMMACK: POLICY ISN’T RESTRAINING ACTIVITY OUTSIDE OF HOUSING
-- 09/26 03:41 [financialjuice] White House considers passing the diesel issue to the States, eyeing a move that falls short of an export ban - Politico.
-- 09/26 03:42 [FirstSquawk] WHITE HOUSE CONSIDERS PASSING DIESEL ISSUE TO STATES: POLITICO
 - 09/26 03:43 [financialjuice] Trump expected to announce Diesel policy soon as Friday - Politico
 - 09/26 03:46 [FirstSquawk] WHITE HOUSE COULD URGE STATES TO DROP EXCISE TAXES: POLITICO
 - 09/26 03:47 [financialjuice] Fed's Hammack: Rising bond yields driven by a number of factors
@@ -91,3 +72,9 @@
 - 09/26 07:35 [financialjuice] Skyworks extends expiration date of exchange offers for Gorvo senior notes due 2029 and 2031
 - 09/26 08:28 [financialjuice] Google in threat intelligence report: ShinyHunters launches revived widespread attack campaign targeting Oracle PeopleSoft
 - 09/26 09:14 [financialjuice] OpenAI’s models accessed public US census, SEC information
+- 09/26 09:26 [financialjuice] OpenAI: models accessed publicly available info on and
+- 09/26 09:26 [financialjuice] OpenAI: Our models accessed some publicly available US Census Bureau data during internal training tasks
+- 09/26 09:27 [financialjuice] OpenAI: proactively informed US Census Bureau and provided technical details to aid review
+- 09/26 09:27 [financialjuice] OpenAI: review finds no access to census accounts, key-management roles, or ability to alter census data or systems
+- 09/26 09:27 [financialjuice] Trump rejects Iran ceasefire: anticipates increased bombing after midterms - WSJ
+- 09/26 09:28 [financialjuice] Trump skeptical Tehran will comply with his demands: WSJ
