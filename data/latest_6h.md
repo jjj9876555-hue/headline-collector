@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-26 18:33 JST／対象: 09/26 12:33 〜 09/26 18:33 JST（時刻はすべて日本時間）
+生成: 2026-09-26 18:50 JST／対象: 09/26 12:50 〜 09/26 18:50 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/26 17:07 | 09/26 17:07 | - |
-| FirstSquawk | 94 | 09/26 12:34 | 09/26 18:22 | 34分（14:59→15:33） |
+| FirstSquawk | 94 | 09/26 12:51 | 09/26 18:43 | 34分（14:59→15:33） |
 | financialjuice | 6 | 09/26 13:00 | 09/26 17:15 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,12 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 12:34 [FirstSquawk] Merck and Daiichi Sankyo withdraw US BLA for ifinatamab deruxtecan in extensive-stage SCLC
-- 09/26 12:34 [FirstSquawk] Merck & Co. advances two additional Phase 3 trials of ifinatamab deruxtecan in CRPC, ESCC
-- 09/26 12:40 [FirstSquawk] Cape Town offers affordable winter sun for UK travellers despite stronger rand - FT
-- 09/26 12:41 [FirstSquawk] Adult children in UK face average £300 monthly charge to live with parents - FT
-- 09/26 12:45 [FirstSquawk] S&P expects Mozambique LNG restart to reduce fiscal pressure, but benefits to come after 2030
-- 09/26 12:48 [FirstSquawk] S&P: Czech government debt to stay moderate by global standards through 2029
 - 09/26 12:51 [FirstSquawk] China researchers warn offshore wind farms could disrupt radar, create ‘ghost’ targets - SCMP
 - 09/26 12:51 [FirstSquawk] China upgrades mobile payments to make spending easier for foreigners ahead of Apec - SCMP
 - 09/26 12:52 [FirstSquawk] Thailand steps up efforts to curb bad behaviour among foreign tourists - SCMP
@@ -125,3 +119,9 @@
 - 09/26 18:21 [FirstSquawk] Hossein Ali Haji-Deligani, deputy head of parliament’s Article 90 Commission, said lawmakers had called for Nasser Asadi, a member of Iran’s UN mission, to be removed from his post and dismissed from the Foreign Ministry after he remained i…
 - 09/26 18:22 [FirstSquawk] Asadi was the only Iranian diplomat who stayed in the chamber during Trump’s address. Haji-Deligani also called for Iran to pursue a nuclear deterrent, saying that because countries Tehran considers enemies possess nuclear weapons, “we must…
 - 09/26 18:22 [FirstSquawk] Apple confirms iOS 27.0.1 update fixes Face ID freeze on iPhone 18 Pro models
+- 09/26 18:42 [FirstSquawk] Libyan National Oil Corporation: A refining unit at the Zawiya refinery has stopped operating due to the continued closure of the Sharara pipeline by armed groups.
+- 09/26 18:42 [FirstSquawk] Deputy Speaker of the Iraqi Parliament: The decision to ban Iranian civilian flights at Iraqi airports is hasty, ill-considered, and violates the constitution.
+- 09/26 18:42 [FirstSquawk] Iraqi Parliament Deputy Speaker: We are ready to hold an extraordinary session if the decision to ban Iranian flights is not reversed.
+- 09/26 18:43 [FirstSquawk] Russian authorities in Zaporizhzhia region: 3 people killed in Ukrainian attacks overnight
+- 09/26 18:43 [FirstSquawk] Settlers, protected by occupation forces, storm the village of Yabroud, north of Ramallah
+- 09/26 18:43 [FirstSquawk] Russian authorities in Luhansk: 4 killed and 5 injured in Ukrainian attacks
