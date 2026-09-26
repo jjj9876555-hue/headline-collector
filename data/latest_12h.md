@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-27 03:36 JST／対象: 09/26 15:36 〜 09/27 03:36 JST（時刻はすべて日本時間）
+生成: 2026-09-27 03:52 JST／対象: 09/26 15:52 〜 09/27 03:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/26 17:07 | 09/27 00:39 | ⚠ 291分（17:07→21:58） |
 | FirstSquawk | 167 | 09/26 16:00 | 09/27 03:23 | ⚠ 65分（19:20→20:25） |
-| financialjuice | 32 | 09/26 16:36 | 09/27 02:48 | ⚠ 121分（19:57→21:58） |
+| financialjuice | 34 | 09/26 16:36 | 09/27 03:38 | ⚠ 121分（19:57→21:58） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 202 行（統合前 207 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 204 行（統合前 209 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -226,3 +226,5 @@
 - 09/27 03:03 [FirstSquawk] Trump rejects Iran’s ceasefire proposal to reopen Strait of Hormuz - FT
 - 09/27 03:04 [FirstSquawk] Japan's Sumitomo Life to deploy AI for tailor-made contracts -Nikkei
 - 09/27 03:04 [FirstSquawk] Chinese EVs will come to US despite no summit deal, analysts say - Nikkei
+- 09/27 03:36 [financialjuice] Libya reopens Sharara-Zawiya pipeline valve: resumes crude flow, says Libya's NOC
+- 09/27 03:38 [financialjuice] Libya's National Oil Corporation: crude output to gradually return to normal levels

@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-27 03:36 JST／対象: 09/26 21:36 〜 09/27 03:36 JST（時刻はすべて日本時間）
+生成: 2026-09-27 03:52 JST／対象: 09/26 21:52 〜 09/27 03:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/26 21:58 | 09/27 00:39 | ⚠ 67分（22:54→00:01） |
-| FirstSquawk | 86 | 09/26 21:39 | 09/27 03:23 | ⚠ 52分（01:54→02:46） |
-| financialjuice | 21 | 09/26 21:58 | 09/27 02:48 | ⚠ 55分（01:01→01:57） |
+| FirstSquawk | 77 | 09/26 21:53 | 09/27 03:23 | ⚠ 52分（01:54→02:46） |
+| financialjuice | 23 | 09/26 21:58 | 09/27 03:38 | ⚠ 55分（01:01→01:57） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 109 行（統合前 114 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 102 行（統合前 107 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 21:39 [FirstSquawk] Gold Fields Eyes Northern Star Acquisition Gold Fields Ltd. has expressed interest in acquiring Northern Star Resources Ltd., according to people familiar with the matter. Northern Star rebuffed the approach, while Gold Fields is considerin…
-- 09/26 21:40 [FirstSquawk] UBS Leaving Switzerland Would Be More Expensive, Swiss Minister Says Swiss Finance Minister Karin Keller-Sutter said leaving Switzerland would be more expensive and legally complex for UBS Group AG, as the bank opposes planned stricter capi…
-- 09/26 21:41 [FirstSquawk] China to Buy 10 Million Tons of US Coal in 2027, 2028 China agreed to import at least 10 million metric tons of coal from the US in both 2027 and 2028, according to the White House, as the two countries move to ease trade tensions. The agre…
-- 09/26 21:42 [FirstSquawk] Iraq in Talks With US Over Exemption From Iranian Airlines Ban Iraq is in direct talks with the US to exempt certain Iraqi airports from measures imposed on Iranian airlines by the US Treasury, according to the prime minister’s office. Iraq…
-- 09/26 21:44 [FirstSquawk] White House Signals It Won’t Ban Diesel Exports, Senator Says The White House has assured Senator Ted Cruz that the Trump administration will not ban US diesel exports, according to people familiar with the matter, as officials weigh measur…
-- 09/26 21:45 [FirstSquawk] OpenAI Systems Meddled With US Government Sites After Going Rogue OpenAI’s AI agents interacted with websites operated by the US Education and Commerce departments and the SEC in unexpected ways, according to security researchers and a pers…
-- 09/26 21:49 [FirstSquawk] Houthis Attack Riyadh Again as Trump Rejects Ceasefire Offer Yemen’s Houthis launched fresh attacks toward Riyadh, with Saudi air defenses intercepting two drones and a ballistic missile targeting the kingdom, as tensions between the US and…
-- 09/26 21:50 [FirstSquawk] 5.2 MAG. EARTHQUAKE 79 KM NE OF TADINE NEW CALEDONIA - USGS
-- 09/26 21:51 [FirstSquawk] Iran Says Flights to Turkey, China, Pakistan Operational Flights from Iran to Turkey, Malaysia, China and Pakistan remain operational, while services to the UAE, Iraq, Oman and Georgia remain canceled, IRIB reported. Flights to Vietnam and …
 - 09/26 21:53 [FirstSquawk] Xi Seeks Lasting Gains on Trade, Taiwan From Trump Truce Xi Jinping pressed Donald Trump to limit US support for Taiwan while signaling scope for broader progress on trade, following their summit in Washington. The US and China extended the…
 - 09/26 21:58 [financialjuice] Top Iranian security body denies plans for military action over bans on Iranian flights - state media
 - 09/26 21:58 [DeItaone] TOP IRANIAN SECURITY BODY DENIES THAT IRAN IS PLANNING FOR MILITARY MOVES OVER BANS ON IRANIAN FLIGHTS - STATE MEDIA
@@ -133,3 +124,5 @@
 - 09/27 03:03 [FirstSquawk] Trump rejects Iran’s ceasefire proposal to reopen Strait of Hormuz - FT
 - 09/27 03:04 [FirstSquawk] Japan's Sumitomo Life to deploy AI for tailor-made contracts -Nikkei
 - 09/27 03:04 [FirstSquawk] Chinese EVs will come to US despite no summit deal, analysts say - Nikkei
+- 09/27 03:36 [financialjuice] Libya reopens Sharara-Zawiya pipeline valve: resumes crude flow, says Libya's NOC
+- 09/27 03:38 [financialjuice] Libya's National Oil Corporation: crude output to gradually return to normal levels
