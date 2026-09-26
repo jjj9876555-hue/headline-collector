@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-26 15:22 JST／対象: 09/25 15:22 〜 09/26 15:22 JST（時刻はすべて日本時間）
+生成: 2026-09-26 15:40 JST／対象: 09/25 15:40 〜 09/26 15:40 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 67 | 09/25 19:13 | 09/26 05:35 | ⚠ 146分（03:09→05:35） |
-| FirstSquawk | 255 | 09/25 15:23 | 09/26 14:59 | ⚠ 379分（05:01→11:20） |
+| FirstSquawk | 260 | 09/25 15:40 | 09/26 15:36 | ⚠ 379分（05:01→11:20） |
 | financialjuice | 234 | 09/25 16:00 | 09/26 13:00 | ⚠ 153分（10:27→13:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 533 行（統合前 559 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 538 行（統合前 564 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 15:23 [FirstSquawk] NIKKEI RISES 0.5%, LED BY BANK STOCKS-WSJ
-- 09/25 15:24 [FirstSquawk] Australia’s ASX 200 ends 0.4% lower at 8,665.00
-- 09/25 15:32 [FirstSquawk] ArcelorMittal expects $1 billion impairment charge for Kryvyi Rih assets after missile strikes
-- 09/25 15:35 [FirstSquawk] Swedish and Finnish fighter jets scrambled to identify Russian military aircraft, Finnish Air Force says
 - 09/25 15:40 [FirstSquawk] TRUMP EXPRESSED CONCERNS ABOUT YEN WEAKNESS, JAPAN FINANCE MINISTER SAYS-WSJ
 - 09/25 15:45 [FirstSquawk] FRANCE (Q2) WAGES QOQ ACTUAL: 0.7% VS 0.7% PREVIOUS;EST 0.5%
 - 09/25 15:50 [FirstSquawk] Turkey’s military chief of staff to attend Mecca Defence Pact meeting in Saudi Arabia
@@ -557,3 +553,12 @@
 - 09/26 14:52 [FirstSquawk] More than half of South Korea’s registered foreign nationals live in greater Seoul - YONHAP
 - 09/26 14:56 [FirstSquawk] US pressure campaign leaves Iran increasingly isolated from the rest of the world - WSJ
 - 09/26 14:59 [FirstSquawk] Trump’s $810 million in cuts sparks opposition from lawmakers - WSJ
+- 09/26 15:33 [FirstSquawk] Quds, a conservative Iranian daily affiliated with Astan Quds Razavi, the religious foundation that administers the Imam Reza shrine in Mashhad, called on Tehran to respond to restrictions imposed by neighboring countries on Iranian flights…
+- 09/26 15:33 [FirstSquawk] Iran has presented the U.S. with a seven-day plan aimed at halting months of fighting, reopening the Strait of Hormuz & restarting negotiations over Tehran’s nuclear program.
+- 09/26 15:34 [FirstSquawk] Iranian President Masoud Pezeshkian: There are no specific ongoing health issues or challenges for Mojtaba Khamenei. On the last occasion when we met for seven-plus hours, of course, we were not used to being in seated positions for that ma…
+- 09/26 15:34 [FirstSquawk] Trump ‘rejects’ Iran proposal to reopen Strait of Hormuz within seven days
+- 09/26 15:34 [FirstSquawk] Russian Ministry of Defense: Targeting a data center supporting "Starlink" systems in Kyiv
+- 09/26 15:34 [FirstSquawk] Donald Trump reportedly rejected Tehran's seven-day proposal to halt fighting, reopen the Strait of Hormuz, and resume nuclear talks in exchange for lifted naval blockades, oil sanction waivers, and a ceasefire, anticipating renewed bombing…
+- 09/26 15:35 [FirstSquawk] US and China agree on tariff relief for $30bn of nonsensitive goods each
+- 09/26 15:35 [FirstSquawk] A bipartisan group of 14 U.S. senators urged Trump to withdraw Putin’s invitation to the G20 summit in Miami, arguing that his participation would legitimize Russia’s war against Ukraine.
+- 09/26 15:36 [FirstSquawk] China agreed to import at least 10 million metric tons of coal from the US next year and again in 2028

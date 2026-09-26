@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-26 15:22 JST／対象: 09/26 03:22 〜 09/26 15:22 JST（時刻はすべて日本時間）
+生成: 2026-09-26 15:40 JST／対象: 09/26 03:40 〜 09/26 15:40 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/26 05:35 | 09/26 05:35 | - |
-| FirstSquawk | 121 | 09/26 03:24 | 09/26 14:59 | ⚠ 379分（05:01→11:20） |
-| financialjuice | 66 | 09/26 03:23 | 09/26 13:00 | ⚠ 153分（10:27→13:00） |
+| FirstSquawk | 124 | 09/26 03:42 | 09/26 15:36 | ⚠ 379分（05:01→11:20） |
+| financialjuice | 54 | 09/26 03:41 | 09/26 13:00 | ⚠ 153分（10:27→13:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 186 行（統合前 189 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 178 行（統合前 180 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 03:23 [financialjuice] Fed's Hammack: Underlying inflation is likely above target
-- 09/26 03:24 [FirstSquawk] FED'S HAMMACK: UNDERLYING INFLATION LIKELY ABOVE TARGET
-- 09/26 03:26 [FirstSquawk] BLACKSTONE’S TOP PRIVATE-EQUITY EXECUTIVE IS PREPARING TO LEAVE FIRM – WSJ
-- 09/26 03:28 [FirstSquawk] IRAN DENIES REPORTS OF US-IRAN TALKS, CALLS THEM MARKET MANAGEMENT - FARS
-- 09/26 03:28 [financialjuice] ❗ Fars News: Axios and Al Jazeera's claims about Iran-US talks are false.
-- 09/26 03:28 [financialjuice/FirstSquawk] Fed's Hammack: Sides of Fed mandates are generally not in conflict
-- 09/26 03:29 [financialjuice] Fed's Hammack: Persistently high inflation has 'real costs', pressures wages
-- 09/26 03:30 [financialjuice] Fed's Hammack: High inflation complicates economic planning
-- 09/26 03:31 [FirstSquawk] US CRUDE OIL FUTURES SETTLE AT $92.41/BBL, DOWN $2.20, 2.33%
-- 09/26 03:31 [financialjuice] ❗ Fars News, citing an informed source: The news coverage by Western media outlets, including Axios, about another round of negotiations is false and is designed more to manage the market and oil prices.
-- 09/26 03:31 [financialjuice] NYMEX WTI Crude November futures settle at $92.41 a barrel, down $2.20, 2.33%.
-- 09/26 03:31 [financialjuice] NYMEX Gasoline October futures settle at $3.3934 a gallon.
-- 09/26 03:31 [financialjuice] NYMEX Diesel October futures settle at $4.6847 a gallon.
-- 09/26 03:32 [financialjuice] Fed's Hammack: Fed policy is not restraining activity outside of housing
-- 09/26 03:32 [financialjuice] NYMEX Natural Gas October futures settle at $3.1960/MMBtu.
-- 09/26 03:33 [financialjuice] Fed's Hammack: Don't see current policy as restraining the economy
-- 09/26 03:36 [FirstSquawk] FED'S HAMMACK: POLICY ISN’T RESTRAINING ACTIVITY OUTSIDE OF HOUSING
 - 09/26 03:41 [financialjuice] White House considers passing the diesel issue to the States, eyeing a move that falls short of an export ban - Politico.
 - 09/26 03:42 [FirstSquawk] WHITE HOUSE CONSIDERS PASSING DIESEL ISSUE TO STATES: POLITICO
 - 09/26 03:43 [financialjuice] Trump expected to announce Diesel policy soon as Friday - Politico
@@ -210,3 +193,12 @@
 - 09/26 14:52 [FirstSquawk] More than half of South Korea’s registered foreign nationals live in greater Seoul - YONHAP
 - 09/26 14:56 [FirstSquawk] US pressure campaign leaves Iran increasingly isolated from the rest of the world - WSJ
 - 09/26 14:59 [FirstSquawk] Trump’s $810 million in cuts sparks opposition from lawmakers - WSJ
+- 09/26 15:33 [FirstSquawk] Quds, a conservative Iranian daily affiliated with Astan Quds Razavi, the religious foundation that administers the Imam Reza shrine in Mashhad, called on Tehran to respond to restrictions imposed by neighboring countries on Iranian flights…
+- 09/26 15:33 [FirstSquawk] Iran has presented the U.S. with a seven-day plan aimed at halting months of fighting, reopening the Strait of Hormuz & restarting negotiations over Tehran’s nuclear program.
+- 09/26 15:34 [FirstSquawk] Iranian President Masoud Pezeshkian: There are no specific ongoing health issues or challenges for Mojtaba Khamenei. On the last occasion when we met for seven-plus hours, of course, we were not used to being in seated positions for that ma…
+- 09/26 15:34 [FirstSquawk] Trump ‘rejects’ Iran proposal to reopen Strait of Hormuz within seven days
+- 09/26 15:34 [FirstSquawk] Russian Ministry of Defense: Targeting a data center supporting "Starlink" systems in Kyiv
+- 09/26 15:34 [FirstSquawk] Donald Trump reportedly rejected Tehran's seven-day proposal to halt fighting, reopen the Strait of Hormuz, and resume nuclear talks in exchange for lifted naval blockades, oil sanction waivers, and a ceasefire, anticipating renewed bombing…
+- 09/26 15:35 [FirstSquawk] US and China agree on tariff relief for $30bn of nonsensitive goods each
+- 09/26 15:35 [FirstSquawk] A bipartisan group of 14 U.S. senators urged Trump to withdraw Putin’s invitation to the G20 summit in Miami, arguing that his participation would legitimize Russia’s war against Ukraine.
+- 09/26 15:36 [FirstSquawk] China agreed to import at least 10 million metric tons of coal from the US next year and again in 2028
