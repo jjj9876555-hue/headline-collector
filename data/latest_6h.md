@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-26 22:31 JST／対象: 09/26 16:31 〜 09/26 22:31 JST（時刻はすべて日本時間）
+生成: 2026-09-26 22:43 JST／対象: 09/26 16:43 〜 09/26 22:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/26 17:07 | 09/26 21:58 | ⚠ 291分（17:07→21:58） |
-| FirstSquawk | 86 | 09/26 16:34 | 09/26 21:53 | ⚠ 65分（19:20→20:25） |
-| financialjuice | 12 | 09/26 16:36 | 09/26 21:58 | ⚠ 121分（19:57→21:58） |
+| FirstSquawk | 89 | 09/26 16:59 | 09/26 22:42 | ⚠ 65分（19:20→20:25） |
+| financialjuice | 11 | 09/26 16:56 | 09/26 21:58 | ⚠ 121分（19:57→21:58） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 100 行（統合前 100 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 102 行（統合前 102 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 16:34 [FirstSquawk] Russia stays in the top position among arms exporters Russia ranked second globally in arms exports, with $15 billion in deliveries, representing 12.5% of the global market.
-- 09/26 16:34 [FirstSquawk] Powerful storm surge hits Surf City, New Jersey, as a nor’easter pounds the coast.
-- 09/26 16:35 [FirstSquawk] Israeli airstrikes on Sajad Heights and the Thin Mountain in the Apple Region, southern Lebanon
-- 09/26 16:35 [FirstSquawk] Saudi coalition says it intercepts Houthi missiles, drones
-- 09/26 16:36 [FirstSquawk] Low Rhine levels are making companies confront the possibility that reliable access to the river can no longer be taken for granted
-- 09/26 16:36 [financialjuice] Ukrainian military: It hit Ilsky oil refinery in southern Russia
-- 09/26 16:36 [FirstSquawk] Iran is facing what the commander of the Revolutionary Guards Ground Forces described as a “full-scale hybrid war” spanning economic, social, cultural, political, security and military fronts, Tasnim reported.
 - 09/26 16:56 [financialjuice] Three killed in Ukraine strike on Russia's Krasnodar region: authorities
 - 09/26 16:56 [financialjuice] China's Xi arrives in Beijing after U.S. state visit: Xinhua
 - 09/26 16:59 [FirstSquawk] More than 45,000 students across Germany joined protests against plans for compulsory military service, with demonstrations held in over 100 cities.
@@ -124,3 +117,12 @@
 - 09/26 21:53 [FirstSquawk] Xi Seeks Lasting Gains on Trade, Taiwan From Trump Truce Xi Jinping pressed Donald Trump to limit US support for Taiwan while signaling scope for broader progress on trade, following their summit in Washington. The US and China extended the…
 - 09/26 21:58 [financialjuice] Top Iranian security body denies plans for military action over bans on Iranian flights - state media
 - 09/26 21:58 [DeItaone] TOP IRANIAN SECURITY BODY DENIES THAT IRAN IS PLANNING FOR MILITARY MOVES OVER BANS ON IRANIAN FLIGHTS - STATE MEDIA
+- 09/26 22:41 [FirstSquawk] Head of the Iraqi government's Security Media Commission: The international coalition has handed over all its bases and headquarters to the Iraqi authorities.
+- 09/26 22:41 [FirstSquawk] Head of the Iraqi government's Security Media Commission: There are no combat or military forces of the international coalition in Iraq.
+- 09/26 22:41 [FirstSquawk] Head of the Iraqi government's Security Media Commission: There will be no combat or training forces from the coalition after September 30
+- 09/26 22:41 [FirstSquawk] Head of the Iraqi government's Security Media Commission: We are ready to take over and manage security after the coalition's withdrawal
+- 09/26 22:42 [FirstSquawk] Head of the Iraqi government's Security Media Authority: Relations with coalition countries will become bilateral after their withdrawal
+- 09/26 22:42 [FirstSquawk] Ukrainian Emergency Service: Two killed in Sumy city as a result of Russian guided bomb attacks on homes and civilian infrastructure
+- 09/26 22:42 [FirstSquawk] Iran's Supreme National Security Council: Claims that we will resort to a military response to restrictions imposed on our aviation are baseless.
+- 09/26 22:42 [FirstSquawk] Iran's Supreme National Security Council: We are negotiating with some concerned countries to lift the illegal air restrictions imposed on us.
+- 09/26 22:42 [FirstSquawk] Iran's National Security Council: There are non-military options to respond to the air restrictions, and we will implement them if necessary.

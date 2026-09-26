@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-26 22:31 JST／対象: 09/25 22:31 〜 09/26 22:31 JST（時刻はすべて日本時間）
+生成: 2026-09-26 22:43 JST／対象: 09/25 22:43 〜 09/26 22:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 39 | 09/25 22:47 | 09/26 21:58 | ⚠ 692分（05:35→17:07） |
-| FirstSquawk | 281 | 09/25 22:53 | 09/26 21:53 | ⚠ 379分（05:01→11:20） |
-| financialjuice | 154 | 09/25 22:37 | 09/26 21:58 | ⚠ 215分（13:00→16:36） |
+| FirstSquawk | 290 | 09/25 22:53 | 09/26 22:42 | ⚠ 379分（05:01→11:20） |
+| financialjuice | 153 | 09/25 22:48 | 09/26 21:58 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 465 行（統合前 476 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 473 行（統合前 484 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 22:37 [financialjuice] BofA raises Advanced Micro Devices' price objective to $720 from $620. $AMD
 - 09/25 22:47 [DeItaone] KATAYAMA, BESSENT REAFFIRMED THAT YEN UNDERVALUATION IS MATTER OF CONCERN
 - 09/25 22:48 [financialjuice] Japan's Fin. Min. Katayama and US Treasury Secretary Bessent reaffirmed that yen undervaluation is a matter of concern.
 - 09/25 22:49 [financialjuice] Japan's Fin. Min. Katayama and US Treasury Secretary Bessent reaffirmed their intention to strengthen cooperation - Statement.
@@ -489,3 +488,12 @@
 - 09/26 21:53 [FirstSquawk] Xi Seeks Lasting Gains on Trade, Taiwan From Trump Truce Xi Jinping pressed Donald Trump to limit US support for Taiwan while signaling scope for broader progress on trade, following their summit in Washington. The US and China extended the…
 - 09/26 21:58 [financialjuice] Top Iranian security body denies plans for military action over bans on Iranian flights - state media
 - 09/26 21:58 [DeItaone] TOP IRANIAN SECURITY BODY DENIES THAT IRAN IS PLANNING FOR MILITARY MOVES OVER BANS ON IRANIAN FLIGHTS - STATE MEDIA
+- 09/26 22:41 [FirstSquawk] Head of the Iraqi government's Security Media Commission: The international coalition has handed over all its bases and headquarters to the Iraqi authorities.
+- 09/26 22:41 [FirstSquawk] Head of the Iraqi government's Security Media Commission: There are no combat or military forces of the international coalition in Iraq.
+- 09/26 22:41 [FirstSquawk] Head of the Iraqi government's Security Media Commission: There will be no combat or training forces from the coalition after September 30
+- 09/26 22:41 [FirstSquawk] Head of the Iraqi government's Security Media Commission: We are ready to take over and manage security after the coalition's withdrawal
+- 09/26 22:42 [FirstSquawk] Head of the Iraqi government's Security Media Authority: Relations with coalition countries will become bilateral after their withdrawal
+- 09/26 22:42 [FirstSquawk] Ukrainian Emergency Service: Two killed in Sumy city as a result of Russian guided bomb attacks on homes and civilian infrastructure
+- 09/26 22:42 [FirstSquawk] Iran's Supreme National Security Council: Claims that we will resort to a military response to restrictions imposed on our aviation are baseless.
+- 09/26 22:42 [FirstSquawk] Iran's Supreme National Security Council: We are negotiating with some concerned countries to lift the illegal air restrictions imposed on us.
+- 09/26 22:42 [FirstSquawk] Iran's National Security Council: There are non-military options to respond to the air restrictions, and we will implement them if necessary.

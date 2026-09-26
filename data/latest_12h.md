@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-26 22:31 JST／対象: 09/26 10:31 〜 09/26 22:31 JST（時刻はすべて日本時間）
+生成: 2026-09-26 22:43 JST／対象: 09/26 10:43 〜 09/26 22:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/26 17:07 | 09/26 21:58 | ⚠ 291分（17:07→21:58） |
-| FirstSquawk | 205 | 09/26 11:20 | 09/26 21:53 | ⚠ 65分（19:20→20:25） |
+| FirstSquawk | 214 | 09/26 11:20 | 09/26 22:42 | ⚠ 65分（19:20→20:25） |
 | financialjuice | 13 | 09/26 13:00 | 09/26 21:58 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 220 行（統合前 220 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 229 行（統合前 229 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -244,3 +244,12 @@
 - 09/26 21:53 [FirstSquawk] Xi Seeks Lasting Gains on Trade, Taiwan From Trump Truce Xi Jinping pressed Donald Trump to limit US support for Taiwan while signaling scope for broader progress on trade, following their summit in Washington. The US and China extended the…
 - 09/26 21:58 [financialjuice] Top Iranian security body denies plans for military action over bans on Iranian flights - state media
 - 09/26 21:58 [DeItaone] TOP IRANIAN SECURITY BODY DENIES THAT IRAN IS PLANNING FOR MILITARY MOVES OVER BANS ON IRANIAN FLIGHTS - STATE MEDIA
+- 09/26 22:41 [FirstSquawk] Head of the Iraqi government's Security Media Commission: The international coalition has handed over all its bases and headquarters to the Iraqi authorities.
+- 09/26 22:41 [FirstSquawk] Head of the Iraqi government's Security Media Commission: There are no combat or military forces of the international coalition in Iraq.
+- 09/26 22:41 [FirstSquawk] Head of the Iraqi government's Security Media Commission: There will be no combat or training forces from the coalition after September 30
+- 09/26 22:41 [FirstSquawk] Head of the Iraqi government's Security Media Commission: We are ready to take over and manage security after the coalition's withdrawal
+- 09/26 22:42 [FirstSquawk] Head of the Iraqi government's Security Media Authority: Relations with coalition countries will become bilateral after their withdrawal
+- 09/26 22:42 [FirstSquawk] Ukrainian Emergency Service: Two killed in Sumy city as a result of Russian guided bomb attacks on homes and civilian infrastructure
+- 09/26 22:42 [FirstSquawk] Iran's Supreme National Security Council: Claims that we will resort to a military response to restrictions imposed on our aviation are baseless.
+- 09/26 22:42 [FirstSquawk] Iran's Supreme National Security Council: We are negotiating with some concerned countries to lift the illegal air restrictions imposed on us.
+- 09/26 22:42 [FirstSquawk] Iran's National Security Council: There are non-military options to respond to the air restrictions, and we will implement them if necessary.
