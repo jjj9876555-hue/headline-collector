@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-27 08:15 JST／対象: 09/26 08:15 〜 09/27 08:15 JST（時刻はすべて日本時間）
+生成: 2026-09-27 08:30 JST／対象: 09/26 08:30 〜 09/27 08:30 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/26 17:07 | 09/27 00:39 | ⚠ 291分（17:07→21:58） |
 | FirstSquawk | 281 | 09/26 11:20 | 09/27 03:23 | ⚠ 65分（19:20→20:25） |
-| financialjuice | 56 | 09/26 08:28 | 09/27 06:17 | ⚠ 215分（13:00→16:36） |
+| financialjuice | 55 | 09/26 09:14 | 09/27 06:17 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 340 行（統合前 346 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 339 行（統合前 345 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 08:28 [financialjuice] Google in threat intelligence report: ShinyHunters launches revived widespread attack campaign targeting Oracle PeopleSoft
 - 09/26 09:14 [financialjuice] OpenAI’s models accessed public US census, SEC information
 - 09/26 09:26 [financialjuice] OpenAI: models accessed publicly available info on and
 - 09/26 09:26 [financialjuice] OpenAI: Our models accessed some publicly available US Census Bureau data during internal training tasks
