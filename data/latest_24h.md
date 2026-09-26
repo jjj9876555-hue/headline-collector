@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-27 07:16 JST／対象: 09/26 07:16 〜 09/27 07:16 JST（時刻はすべて日本時間）
+生成: 2026-09-27 07:32 JST／対象: 09/26 07:32 〜 09/27 07:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/26 17:07 | 09/27 00:39 | ⚠ 291分（17:07→21:58） |
 | FirstSquawk | 281 | 09/26 11:20 | 09/27 03:23 | ⚠ 65分（19:20→20:25） |
-| financialjuice | 62 | 09/26 07:27 | 09/27 06:17 | ⚠ 215分（13:00→16:36） |
+| financialjuice | 57 | 09/26 07:35 | 09/27 06:17 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 346 行（統合前 352 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 341 行（統合前 347 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 07:27 [financialjuice] Alabama Attorney General Marshall announces multi-million-dollar deal with TikTok
-- 09/26 07:27 [financialjuice] Alabama AG: under settlement, Alabama to get at least $100 million
-- 09/26 07:28 [financialjuice] Alabama AG: TikTok must add safety features to protect children alongside payment
-- 09/26 07:29 [financialjuice] Alabama AG: Alabama could obtain up to $300 million under settlement if conditions met
-- 09/26 07:29 [financialjuice] Alabama AG: deal settles claims TikTok built platform with addictive features, exposed young users to mental harm, misled public about safety
 - 09/26 07:35 [financialjuice] Skyworks extends expiration date of exchange offers for Gorvo senior notes due 2029 and 2031
 - 09/26 08:28 [financialjuice] Google in threat intelligence report: ShinyHunters launches revived widespread attack campaign targeting Oracle PeopleSoft
 - 09/26 09:14 [financialjuice] OpenAI’s models accessed public US census, SEC information
