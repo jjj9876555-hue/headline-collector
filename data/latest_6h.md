@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-27 02:02 JST／対象: 09/26 20:02 〜 09/27 02:02 JST（時刻はすべて日本時間）
+生成: 2026-09-27 02:18 JST／対象: 09/26 20:18 〜 09/27 02:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/26 21:58 | 09/27 00:39 | ⚠ 67分（22:54→00:01） |
 | FirstSquawk | 99 | 09/26 20:25 | 09/27 01:54 | ⚠ 47分（21:53→22:41） |
-| financialjuice | 17 | 09/26 21:58 | 09/27 01:57 | ⚠ 55分（01:01→01:57） |
+| financialjuice | 19 | 09/26 21:58 | 09/27 02:11 | ⚠ 55分（01:01→01:57） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 119 行（統合前 123 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 121 行（統合前 125 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -143,3 +143,5 @@
 - 09/27 01:54 [FirstSquawk] Saudi Foreign Minister: We welcome the Security Council statement condemning the Houthi attacks on the Kingdom and commercial vessels.
 - 09/27 01:54 [FirstSquawk] Saudi Foreign Minister: We support the sovereignty and security of Iraq and stress that its territory should not be used as a launching pad for attacks on neighboring countries.
 - 09/27 01:57 [financialjuice] Iraq reaches agreement with US to continue cash dollar shipments: Iraqi government
+- 09/27 02:10 [financialjuice] Northern Ireland high court issues injunction to block Drumcree Protestant parade through Catholic area on Sunday
+- 09/27 02:11 [financialjuice] Northern Ireland High Court injunction provides brief interim relief until judicial review on route decided

@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-27 02:02 JST／対象: 09/26 14:02 〜 09/27 02:02 JST（時刻はすべて日本時間）
+生成: 2026-09-27 02:18 JST／対象: 09/26 14:18 〜 09/27 02:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/26 17:07 | 09/27 00:39 | ⚠ 291分（17:07→21:58） |
-| FirstSquawk | 186 | 09/26 14:04 | 09/27 01:54 | ⚠ 65分（19:20→20:25） |
-| financialjuice | 28 | 09/26 16:36 | 09/27 01:57 | ⚠ 121分（19:57→21:58） |
+| FirstSquawk | 184 | 09/26 14:21 | 09/27 01:54 | ⚠ 65分（19:20→20:25） |
+| financialjuice | 30 | 09/26 16:36 | 09/27 02:11 | ⚠ 121分（19:57→21:58） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 218 行（統合前 222 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,8 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 14:04 [FirstSquawk] Fed’s Hammack: AI investment demand is vying for investor funds in bond market
-- 09/26 14:14 [FirstSquawk] Fed’s Hammack says several factors are behind the rise in bond yields
 - 09/26 14:21 [FirstSquawk] Fed’s Hammack: Persistent high inflation complicates economic planning
 - 09/26 14:22 [FirstSquawk] Apax set to buy out Warburg Pincus from €6.5bn telecoms group Odido - FT
 - 09/26 14:25 [FirstSquawk] EU explores Norway and Canada as locations for space launches - FT
@@ -242,3 +240,5 @@
 - 09/27 01:54 [FirstSquawk] Saudi Foreign Minister: We welcome the Security Council statement condemning the Houthi attacks on the Kingdom and commercial vessels.
 - 09/27 01:54 [FirstSquawk] Saudi Foreign Minister: We support the sovereignty and security of Iraq and stress that its territory should not be used as a launching pad for attacks on neighboring countries.
 - 09/27 01:57 [financialjuice] Iraq reaches agreement with US to continue cash dollar shipments: Iraqi government
+- 09/27 02:10 [financialjuice] Northern Ireland high court issues injunction to block Drumcree Protestant parade through Catholic area on Sunday
+- 09/27 02:11 [financialjuice] Northern Ireland High Court injunction provides brief interim relief until judicial review on route decided

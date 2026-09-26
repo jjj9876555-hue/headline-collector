@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-27 02:02 JST／対象: 09/26 02:02 〜 09/27 02:02 JST（時刻はすべて日本時間）
+生成: 2026-09-27 02:18 JST／対象: 09/26 02:18 〜 09/27 02:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 13 | 09/26 02:02 | 09/27 00:39 | ⚠ 692分（05:35→17:07） |
-| FirstSquawk | 311 | 09/26 02:03 | 09/27 01:54 | ⚠ 379分（05:01→11:20） |
-| financialjuice | 115 | 09/26 02:02 | 09/27 01:57 | ⚠ 215分（13:00→16:36） |
+| DeItaone | 10 | 09/26 03:09 | 09/27 00:39 | ⚠ 692分（05:35→17:07） |
+| FirstSquawk | 305 | 09/26 02:19 | 09/27 01:54 | ⚠ 379分（05:01→11:20） |
+| financialjuice | 112 | 09/26 02:52 | 09/27 02:11 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 431 行（統合前 440 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 420 行（統合前 428 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 02:02 [DeItaone/financialjuice] PUTIN: RUSSIA IS NOT PREPARING FOR ANY HOSTILITIES WITH EUROPE - IFX
-- 09/26 02:02 [financialjuice] US Official: Approximately 40 million barrels of oil have passed through the Strait of Hormuz in the past 48 hours - Al Jazeera
-- 09/26 02:03 [financialjuice] Putin: All proposals for a peaceful settlement are on the table, but Russia still needs to consider what is in its best interest - TASS
-- 09/26 02:03 [FirstSquawk] US Baker Hughes Rig Count 25-Sep: 599 (prev 595) - Rotary Gas Rigs: 135 (prev 134) - Rotary Oil Rigs: 455 (prev 452)
-- 09/26 02:05 [DeItaone] YEMEN'S PRESIDENTIAL COUNCIL CHAIRMAN CALLS ON YEMENIS TO MOBILISE AND JOIN ARMED FORCES
-- 09/26 02:09 [FirstSquawk] YEMEN'S PRESIDENTIAL COUNCIL CHAIRMAN SAYS ANYONE WHO LEAVES HOUTHI FORCES FROM SEPT 26, STOPS FIGHTING OR WORKING FOR THEM, WILL BE COVERED BY FUTURE GENERAL AMNESTY
-- 09/26 02:09 [FirstSquawk] SK HYNIX'S SOLIDIGM EYES 2027 IPO AT $150B VALUATION
-- 09/26 02:10 [FirstSquawk] US OFFICIAL: NEARLY 40M BBLS OF OIL TRANSITED HORMUZ IN PAST 48 HOURS - NEWSNATION
-- 09/26 02:10 [FirstSquawk] US OFFICIAL: WASHINGTON IS IN A STRONG POSITION AND CONTROLS HORMUZ STRAIT, THEREFORE WE ARE NOT IN A HURRY TO REACH AN AGREEMENT WITH IRAN
-- 09/26 02:16 [FirstSquawk] US JUSTICE DEPARTMENT ENDS PROBE INTO CROWDSTRIKE TRANSACTIONS.
-- 09/26 02:18 [financialjuice] Trump: Will be meeting again in november, in China - Truth Social
-- 09/26 02:18 [DeItaone] TRUMP: WILL BE MEETING WITH XI AGAIN IN NOVEMBER, IN CHINA, AND THEN AT G20 IN DECEMBER, IN MIAMI, FLORIDA TRUMP: MUCH HAS BEEN, AND WILL BE, ACCOMPLISHED
-- 09/26 02:18 [financialjuice] Trump: Xi's meeting was one of friendship, strength, and success - Truth Social
 - 09/26 02:19 [FirstSquawk] TRUMP: WILL BE MEETING AGAIN IN NOVEMBER, IN CHINA
 - 09/26 02:21 [FirstSquawk] TRUMP SAYS HE WILL BE MEETING WITH XI IN CHINA IN NOVEMBER
 - 09/26 02:22 [FirstSquawk] President Xi and Madam Peng have just left D.C., heading for China. The meeting was one of Friendship, Strength, and Success, for both China and the U.S.A. We will be meeting again in November, in China, and then at the G20 in December, in …
@@ -455,3 +442,5 @@
 - 09/27 01:54 [FirstSquawk] Saudi Foreign Minister: We welcome the Security Council statement condemning the Houthi attacks on the Kingdom and commercial vessels.
 - 09/27 01:54 [FirstSquawk] Saudi Foreign Minister: We support the sovereignty and security of Iraq and stress that its territory should not be used as a launching pad for attacks on neighboring countries.
 - 09/27 01:57 [financialjuice] Iraq reaches agreement with US to continue cash dollar shipments: Iraqi government
+- 09/27 02:10 [financialjuice] Northern Ireland high court issues injunction to block Drumcree Protestant parade through Catholic area on Sunday
+- 09/27 02:11 [financialjuice] Northern Ireland High Court injunction provides brief interim relief until judicial review on route decided
