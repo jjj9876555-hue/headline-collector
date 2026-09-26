@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-26 22:58 JST／対象: 09/26 10:58 〜 09/26 22:58 JST（時刻はすべて日本時間）
+生成: 2026-09-26 23:16 JST／対象: 09/26 11:16 〜 09/26 23:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 09/26 17:07 | 09/26 22:54 | ⚠ 291分（17:07→21:58） |
-| FirstSquawk | 220 | 09/26 11:20 | 09/26 22:56 | ⚠ 65分（19:20→20:25） |
-| financialjuice | 19 | 09/26 13:00 | 09/26 22:55 | ⚠ 215分（13:00→16:36） |
+| FirstSquawk | 222 | 09/26 11:20 | 09/26 23:01 | ⚠ 65分（19:20→20:25） |
+| financialjuice | 21 | 09/26 13:00 | 09/26 23:01 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 244 行（統合前 244 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 248 行（統合前 248 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -268,3 +268,7 @@
 - 09/26 22:55 [financialjuice] Trump: spoke with Venezuela's Rodriguez on elections
 - 09/26 22:56 [FirstSquawk] Trump: We want Americans to have access to Cuba
 - 09/26 22:56 [FirstSquawk] Trump says elections were discussed with Venezuela’s Rodríguez
+- 09/26 23:00 [financialjuice] Iraq in discussions with US to exempt some Iraqi airports from Iranian airline restrictions: Iraqi PM office
+- 09/26 23:00 [FirstSquawk] Iraq negotiating with US over airport exemptions for Iranian airlines
+- 09/26 23:01 [FirstSquawk] Iraq: Easing restrictions on Iranian airlines would enable humanitarian flights to resume
+- 09/26 23:01 [financialjuice] Easing limits on Iranian airlines allows Iraq to restart flights for humanitarian aid: Iraqi PM office
