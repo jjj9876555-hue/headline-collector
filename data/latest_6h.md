@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-26 17:51 JST／対象: 09/26 11:51 〜 09/26 17:51 JST（時刻はすべて日本時間）
+生成: 2026-09-26 18:02 JST／対象: 09/26 12:02 〜 09/26 18:02 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/26 17:07 | 09/26 17:07 | - |
-| FirstSquawk | 100 | 09/26 11:51 | 09/26 17:22 | 34分（14:59→15:33） |
+| FirstSquawk | 99 | 09/26 12:04 | 09/26 17:56 | 34分（14:59→15:33） |
 | financialjuice | 6 | 09/26 13:00 | 09/26 17:15 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 107 行（統合前 107 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 106 行（統合前 106 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 11:51 [FirstSquawk] Brazil government orders ban on online betting operations nationwide
-- 09/26 11:51 [FirstSquawk] Brazil’s Durigan: Bettors can claim remaining funds from online betting websites until Oct. 5
-- 09/26 11:51 [FirstSquawk] Brazil’s Durigan says app stores and network providers must block these sites starting Oct. 6
-- 09/26 11:55 [FirstSquawk] Online betting firms allowed to continue advertising until Oct. 5, Brazil’s Durigan says
-- 09/26 11:56 [FirstSquawk] Hurricane Polo remains a powerful Category 5 hurricane, NHC says
-- 09/26 11:59 [FirstSquawk] Brazil government sets November auction for purchasing credit portfolios from financial institutions
-- 09/26 12:01 [FirstSquawk] Brazil launches new debt-relief program targeting individuals with overdue debts of 2 to 4.5 years
 - 09/26 12:04 [FirstSquawk] Brazil government program aims to address around 300 billion reais in credit card and unsecured personal loan debt
 - 09/26 12:08 [FirstSquawk] Brazil plans to extend debt discounts to families under new program
 - 09/26 12:08 [FirstSquawk] Brazil expects program to cover 150 billion reais of debt, or half of eligible pool, at 15 billion reais cost
@@ -131,3 +124,9 @@
 - 09/26 17:21 [FirstSquawk] Peter Thiel on Germany: It’s very important for us to find a way to turn Germany around. It’s at the heart of Europe. Europe is still at the core of Western civilization.
 - 09/26 17:21 [FirstSquawk] Libya's NOC: considering crude shipment via Melitah or Sidra ports
 - 09/26 17:22 [FirstSquawk] Iranian lawmaker Esmail Kowsari said Tehran would take steps to counter what he described as an air blockade, amid restrictions affecting Iranian flights
+- 09/26 17:53 [FirstSquawk] US and Chinese presidents agree that imposing fees on international waterways is not permissible
+- 09/26 17:53 [FirstSquawk] China, US agree to $30 billion tariff cut, AI dialogue during Xi visit
+- 09/26 17:53 [FirstSquawk] Malaysian funeral offerings head to biennale and rock performances
+- 09/26 17:54 [FirstSquawk] Azerbaijani FM Bayramov: Even though the decades-long conflict with Armenia brought immense tragedy to our people and left deep scars across our land, Azerbaijan has chosen to look ahead and turn the page of enmity.
+- 09/26 17:54 [FirstSquawk] Hegseth channels WARRIOR ethos in US-style SPARTAN helm — this is AMERICA
+- 09/26 17:56 [FirstSquawk] Maharashtra faces a severe drought crisis as nearly 75% of the state grapples with intense water scarcity, prompting the Devendra Fadnavis government to declare drought across multiple regions. Inadequate rainfall has severely stressed agri…

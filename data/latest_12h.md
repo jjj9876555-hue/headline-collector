@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-26 17:51 JST／対象: 09/26 05:51 〜 09/26 17:51 JST（時刻はすべて日本時間）
+生成: 2026-09-26 18:02 JST／対象: 09/26 06:02 〜 09/26 18:02 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/26 17:07 | 09/26 17:07 | - |
-| FirstSquawk | 134 | 09/26 11:20 | 09/26 17:22 | 34分（14:59→15:33） |
+| FirstSquawk | 140 | 09/26 11:20 | 09/26 17:56 | 34分（14:59→15:33） |
 | financialjuice | 31 | 09/26 06:28 | 09/26 17:15 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 166 行（統合前 167 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 172 行（統合前 173 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -190,3 +190,9 @@
 - 09/26 17:21 [FirstSquawk] Peter Thiel on Germany: It’s very important for us to find a way to turn Germany around. It’s at the heart of Europe. Europe is still at the core of Western civilization.
 - 09/26 17:21 [FirstSquawk] Libya's NOC: considering crude shipment via Melitah or Sidra ports
 - 09/26 17:22 [FirstSquawk] Iranian lawmaker Esmail Kowsari said Tehran would take steps to counter what he described as an air blockade, amid restrictions affecting Iranian flights
+- 09/26 17:53 [FirstSquawk] US and Chinese presidents agree that imposing fees on international waterways is not permissible
+- 09/26 17:53 [FirstSquawk] China, US agree to $30 billion tariff cut, AI dialogue during Xi visit
+- 09/26 17:53 [FirstSquawk] Malaysian funeral offerings head to biennale and rock performances
+- 09/26 17:54 [FirstSquawk] Azerbaijani FM Bayramov: Even though the decades-long conflict with Armenia brought immense tragedy to our people and left deep scars across our land, Azerbaijan has chosen to look ahead and turn the page of enmity.
+- 09/26 17:54 [FirstSquawk] Hegseth channels WARRIOR ethos in US-style SPARTAN helm — this is AMERICA
+- 09/26 17:56 [FirstSquawk] Maharashtra faces a severe drought crisis as nearly 75% of the state grapples with intense water scarcity, prompting the Devendra Fadnavis government to declare drought across multiple regions. Inadequate rainfall has severely stressed agri…
