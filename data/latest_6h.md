@@ -7,42 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-26 17:18 JST／対象: 09/26 11:18 〜 09/26 17:18 JST（時刻はすべて日本時間）
+生成: 2026-09-26 17:33 JST／対象: 09/26 11:33 〜 09/26 17:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/26 17:07 | 09/26 17:07 | - |
-| FirstSquawk | 130 | 09/26 11:20 | 09/26 17:01 | 34分（14:59→15:33） |
+| FirstSquawk | 115 | 09/26 11:34 | 09/26 17:22 | 34分（14:59→15:33） |
 | financialjuice | 6 | 09/26 13:00 | 09/26 17:15 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 137 行（統合前 137 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 122 行（統合前 122 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 11:20 [FirstSquawk] Iran offers US a seven-day plan to restore normal passage through Strait of Hormuz
-- 09/26 11:21 [FirstSquawk] US State Department spokesman tells Al Jazeera: ‘Door to diplomacy has been open’
-- 09/26 11:23 [FirstSquawk] Air defenses intercept Houthi ballistic missile fired toward Khamis Mushait, coalition says
-- 09/26 11:23 [FirstSquawk] Saudi Civil Defense declares danger cleared in Abha and Khamis Mushait
-- 09/26 11:26 [FirstSquawk] President Lee calls for South Korea-Mexico comprehensive trade agreement
-- 09/26 11:27 [FirstSquawk] Ecuador’s Q2 2026 economic growth reaches 2.1%, central bank reports
-- 09/26 11:27 [FirstSquawk] Two Houthi drones headed toward Riyadh intercepted, Saudi-led coalition says
-- 09/26 11:28 [FirstSquawk] Saudi-led coalition says missile and drone threats toward Saudi Arabia are being monitored
-- 09/26 11:29 [FirstSquawk] Ecopetrol plans to expand conventional and unconventional projects and continue offshore exploration
-- 09/26 11:29 [FirstSquawk] Berkshire Hathaway adds about 1.7 million Lennar Class A shares, filing shows
-- 09/26 11:29 [FirstSquawk] Ecopetrol plans US alliances to secure more favorable business conditions, CEO says
-- 09/26 11:30 [FirstSquawk] OpenAI confirms models accessed publicly available information on SEC. gov, Investor. gov
-- 09/26 11:30 [FirstSquawk] OpenAI: Models found to have accessed publicly available Census Bureau data during training
-- 09/26 11:30 [FirstSquawk] OpenAI: U.S. Census Bureau was proactively notified and given technical details
-- 09/26 11:31 [FirstSquawk] OpenAI says no SEC credentials were used and no accounts or nonpublic data were accessed
-- 09/26 11:31 [FirstSquawk] OpenAI says review found no Census account access or ability to modify data or systems
-- 09/26 11:31 [FirstSquawk] Trump opposes Iran ceasefire, anticipates renewed strikes after midterms, WSJ reports
-- 09/26 11:32 [FirstSquawk] Trump questions whether Tehran will comply with his demands, WSJ says
-- 09/26 11:32 [FirstSquawk] Bombardier CEO says company in advanced talks to build Saab surveillance aircraft in Canada
 - 09/26 11:34 [FirstSquawk] CNN blocked from Air Force One trip by White House, Washington Post reports
 - 09/26 11:35 [FirstSquawk] ShinyHunters expands global targeting and deploys web shells on dozens of systems, Google says
 - 09/26 11:36 [FirstSquawk] Google report: ShinyHunters resumes mass exploitation campaign against Oracle PeopleSoft
@@ -161,3 +142,7 @@
 - 09/26 17:07 [DeItaone] TRUMP REJECTS IRAN’S HORMUZ PEACE PLAN, EXPECTS BOMBING COULD RESUME AFTER MIDTERMS — WSJ President Donald Trump has rejected Iran’s proposal to reopen the Strait of Hormuz and halt regional fighting within seven days, the Wall Street Journ…
 - 09/26 17:15 [financialjuice] Libya's NOC: halted one refining unit at Zawiya refinery due to ongoing forced closure of a valve on Sharara crude pipeline by armed groups
 - 09/26 17:15 [financialjuice] Libya's NOC: considering crude shipment via Melitah or Sidra ports to maintain Zawiya refinery operations
+- 09/26 17:20 [FirstSquawk] We no longer trust talks with Washington,' Iran's Pezeshkian
+- 09/26 17:21 [FirstSquawk] Peter Thiel on Germany: It’s very important for us to find a way to turn Germany around. It’s at the heart of Europe. Europe is still at the core of Western civilization.
+- 09/26 17:21 [FirstSquawk] Libya's NOC: considering crude shipment via Melitah or Sidra ports
+- 09/26 17:22 [FirstSquawk] Iranian lawmaker Esmail Kowsari said Tehran would take steps to counter what he described as an air blockade, amid restrictions affecting Iranian flights

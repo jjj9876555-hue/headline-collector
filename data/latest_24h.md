@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-26 17:18 JST／対象: 09/25 17:18 〜 09/26 17:18 JST（時刻はすべて日本時間）
+生成: 2026-09-26 17:33 JST／対象: 09/25 17:33 〜 09/26 17:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 68 | 09/25 19:13 | 09/26 17:07 | ⚠ 692分（05:35→17:07） |
-| FirstSquawk | 271 | 09/25 18:36 | 09/26 17:01 | ⚠ 379分（05:01→11:20） |
-| financialjuice | 230 | 09/25 17:21 | 09/26 17:15 | ⚠ 215分（13:00→16:36） |
+| FirstSquawk | 275 | 09/25 18:36 | 09/26 17:22 | ⚠ 379分（05:01→11:20） |
+| financialjuice | 228 | 09/25 17:50 | 09/26 17:15 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 546 行（統合前 572 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 548 行（統合前 574 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 17:21 [financialjuice] Turkish parliament speaker: defence agreement with Pakistan, Saudi Arabia not submitted to parliament yet, expected after session opens next month
-- 09/25 17:25 [financialjuice] German economy minister Reiche: fantasies of seizure and nationalization have no place in Germany
 - 09/25 17:50 [financialjuice] Iraq's Najaf airport halts all flights to and from Iran - INA
 - 09/25 18:12 [financialjuice] Russia's Gazprom resumes gas supplies to Armenia - IFX
 - 09/25 18:21 [financialjuice] Japan's PM Takaichi: Didn't discuss monetary or fiscal policy with Trump
@@ -570,3 +568,7 @@
 - 09/26 17:07 [DeItaone] TRUMP REJECTS IRAN’S HORMUZ PEACE PLAN, EXPECTS BOMBING COULD RESUME AFTER MIDTERMS — WSJ President Donald Trump has rejected Iran’s proposal to reopen the Strait of Hormuz and halt regional fighting within seven days, the Wall Street Journ…
 - 09/26 17:15 [financialjuice] Libya's NOC: halted one refining unit at Zawiya refinery due to ongoing forced closure of a valve on Sharara crude pipeline by armed groups
 - 09/26 17:15 [financialjuice] Libya's NOC: considering crude shipment via Melitah or Sidra ports to maintain Zawiya refinery operations
+- 09/26 17:20 [FirstSquawk] We no longer trust talks with Washington,' Iran's Pezeshkian
+- 09/26 17:21 [FirstSquawk] Peter Thiel on Germany: It’s very important for us to find a way to turn Germany around. It’s at the heart of Europe. Europe is still at the core of Western civilization.
+- 09/26 17:21 [FirstSquawk] Libya's NOC: considering crude shipment via Melitah or Sidra ports
+- 09/26 17:22 [FirstSquawk] Iranian lawmaker Esmail Kowsari said Tehran would take steps to counter what he described as an air blockade, amid restrictions affecting Iranian flights

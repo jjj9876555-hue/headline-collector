@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-26 17:18 JST／対象: 09/26 05:18 〜 09/26 17:18 JST（時刻はすべて日本時間）
+生成: 2026-09-26 17:33 JST／対象: 09/26 05:33 〜 09/26 17:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/26 05:35 | 09/26 17:07 | ⚠ 692分（05:35→17:07） |
-| FirstSquawk | 130 | 09/26 11:20 | 09/26 17:01 | 34分（14:59→15:33） |
-| financialjuice | 37 | 09/26 05:20 | 09/26 17:15 | ⚠ 215分（13:00→16:36） |
+| FirstSquawk | 134 | 09/26 11:20 | 09/26 17:22 | 34分（14:59→15:33） |
+| financialjuice | 31 | 09/26 06:28 | 09/26 17:15 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 169 行（統合前 170 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 167 行（統合前 168 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 05:20 [financialjuice] ❗ Iran's Foreign Minister: Iran has conveyed to the US a concrete 7-day plan.
-- 09/26 05:21 [financialjuice] Iran's Foreign Minister: Iran will not surrender its sovereign rights under pressure.
-- 09/26 05:21 [financialjuice] Iran's Foreign Minister: The 7 days will start when the US accepts the plan.
-- 09/26 05:22 [financialjuice] Iran's Foreign Minister: The choice now rests with the US.
-- 09/26 05:22 [financialjuice] Iran's Foreign Minister: The actions that the US should take are not new, they are all already in the MOU.
-- 09/26 05:23 [financialjuice] Iran's Foreign Minister: They can accept this 7-day plan, and at the end, the Strait of Hormuz will be open.
 - 09/26 05:35 [DeItaone] OPENAI HAD IDENTIFIED ABOUT TWO DOZEN ROGUE AI INCIDENTS BY MID-SEPTEMBER, REUTERS SOURCE SAYS
 - 09/26 06:28 [financialjuice] US having positive, constructive talks with Iran via mediators on nuclear issues, US official says on 7-day plan
 - 09/26 06:50 [financialjuice] Saudi civil defense issues warning over possible threat in Jazan
@@ -193,3 +187,7 @@
 - 09/26 17:07 [DeItaone] TRUMP REJECTS IRAN’S HORMUZ PEACE PLAN, EXPECTS BOMBING COULD RESUME AFTER MIDTERMS — WSJ President Donald Trump has rejected Iran’s proposal to reopen the Strait of Hormuz and halt regional fighting within seven days, the Wall Street Journ…
 - 09/26 17:15 [financialjuice] Libya's NOC: halted one refining unit at Zawiya refinery due to ongoing forced closure of a valve on Sharara crude pipeline by armed groups
 - 09/26 17:15 [financialjuice] Libya's NOC: considering crude shipment via Melitah or Sidra ports to maintain Zawiya refinery operations
+- 09/26 17:20 [FirstSquawk] We no longer trust talks with Washington,' Iran's Pezeshkian
+- 09/26 17:21 [FirstSquawk] Peter Thiel on Germany: It’s very important for us to find a way to turn Germany around. It’s at the heart of Europe. Europe is still at the core of Western civilization.
+- 09/26 17:21 [FirstSquawk] Libya's NOC: considering crude shipment via Melitah or Sidra ports
+- 09/26 17:22 [FirstSquawk] Iranian lawmaker Esmail Kowsari said Tehran would take steps to counter what he described as an air blockade, amid restrictions affecting Iranian flights
