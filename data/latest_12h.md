@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-26 09:57 JST／対象: 09/25 21:57 〜 09/26 09:57 JST（時刻はすべて日本時間）
+生成: 2026-09-26 10:15 JST／対象: 09/25 22:15 〜 09/26 10:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 43 | 09/25 21:58 | 09/26 05:35 | ⚠ 146分（03:09→05:35） |
-| FirstSquawk | 83 | 09/25 21:58 | 09/26 05:01 | 35分（00:26→01:01） |
-| financialjuice | 147 | 09/25 21:57 | 09/26 09:53 | ⚠ 65分（05:23→06:28） |
+| DeItaone | 38 | 09/25 22:20 | 09/26 05:35 | ⚠ 146分（03:09→05:35） |
+| FirstSquawk | 80 | 09/25 22:16 | 09/26 05:01 | 35分（00:26→01:01） |
+| financialjuice | 143 | 09/25 22:15 | 09/26 10:00 | ⚠ 65分（05:23→06:28） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 263 行（統合前 275 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 252 行（統合前 263 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 21:57 [financialjuice/FirstSquawk] Katayama, Bessent reaffirm undervaluing yen is an issue - Kyodo.
-- 09/25 21:58 [DeItaone] HOUTHIS PLEDGE NOT TO TARGET EUROPEAN OR U.S. SHIPS Iran-backed Houthis have told the EU they will not target European ships in the Red Sea, according to the FT. The group said its operations near the Bab al-Mandeb Strait are not intended t…
-- 09/25 22:00 [financialjuice] Effective Fed Funds Rate 3.88% September 24 vs 3.88% September 23.
-- 09/25 22:02 [financialjuice] NScale: NVIDIA commits $1b to NScale, funding due mid-November.
-- 09/25 22:02 [DeItaone] $TSLA - TESLA’S OPTIMUS HITS SNAGS IN HANDS, SUPPLIERS AS SCALE-UP BEGINS - THE INFORMATION TESLA HAS RAMPED UP PRODUCTION OF ITS OPTIMUS HUMANOID ROBOT ROUGHLY TENFOLD IN RECENT MONTHS - THE INFORMATION
-- 09/25 22:02 [financialjuice] Tesla’s Optimus hits snags in its hand manufacturing and suppliers as scale-up begins - The Information.
-- 09/25 22:05 [DeItaone] $TSLA - TESLA ROBOT’S INTRICATE HANDS POSE MAJOR MANUFACTURING AND DURABILITY CHALLENGES - THE INFORMATION TESLA MANAGERS TOLD STAFFERS CO WANTS TO SET UP PRODUCTION LINE CAPABLE OF PRODUCING OVER A THOUSAND ROBOTS A WEEK BY YEAR END- THE I…
-- 09/25 22:07 [FirstSquawk] PERDUE SAYS WE'VE ESTABLISHED AN AI CRISIS MECHANISM WITH CHINA
-- 09/25 22:07 [financialjuice] US Ambassador to China: We've established an AI crisis mechanism with China.
-- 09/25 22:08 [financialjuice] Canada August wholesale sales fell 1.5% MoM- StatCan flash
-- 09/25 22:08 [DeItaone] TREASURY VOLATILITY SURGES AS FED BETS SHIFT U.S. Treasury volatility is heading for its biggest weekly jump in over a year, with the MOVE Index up nearly 30%. Hotter economic data and elevated oil prices have fueled a sharp repricing of Fe…
-- 09/25 22:10 [FirstSquawk] PERDUE SAYS US HASN'T CHANGED POSITION ON ONE CHINA POLICY
-- 09/25 22:11 [financialjuice] US Ambassador to China: The US hasn't changed position on one China policy.
-- 09/25 22:13 [DeItaone] $AAPL - BERNSTEIN WARNS APPLE EARNINGS COULD DISAPPOINT Bernstein sees downside risk to Apple’s December-quarter earnings as sharply higher memory-chip costs pressure iPhone margins. The firm cut its EPS forecast to $2.87 from $3.00, below …
 - 09/25 22:15 [financialjuice] Japan's Fin. Min. Katayama: Markets are 'misunderstanding' weak yen - Kyodo
 - 09/25 22:16 [FirstSquawk] MEXICO-US TO HOLD ROUND OF USMCA TALKS IN 'NEXT WEEKS' - VELASCO
 - 09/25 22:17 [financialjuice] Velasco: Mexico-US to hold round of USMCA talks in the 'next weeks'
@@ -287,3 +273,6 @@
 - 09/26 09:27 [financialjuice] Trump rejects Iran ceasefire: anticipates increased bombing after midterms - WSJ
 - 09/26 09:28 [financialjuice] Trump skeptical Tehran will comply with his demands: WSJ
 - 09/26 09:53 [financialjuice] Saudi civil defense issues warning over potential risk in Khamis Mushait
+- 09/26 09:59 [financialjuice] Saudi civil defense: danger has passed in Khamis Mushait
+- 09/26 10:00 [financialjuice] Saudi-led coalition: monitoring missile and drone attacks on Saudi
+- 09/26 10:00 [financialjuice] Saudi-led coalition: intercepted two drones launched by Houthis towards Riyadh

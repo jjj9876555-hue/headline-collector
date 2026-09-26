@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-26 09:57 JST／対象: 09/26 03:57 〜 09/26 09:57 JST（時刻はすべて日本時間）
+生成: 2026-09-26 10:15 JST／対象: 09/26 04:15 〜 09/26 10:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/26 05:35 | 09/26 05:35 | - |
-| FirstSquawk | 6 | 09/26 03:57 | 09/26 05:01 | 25分（04:35→05:01） |
-| financialjuice | 36 | 09/26 03:57 | 09/26 09:53 | ⚠ 65分（05:23→06:28） |
+| FirstSquawk | 3 | 09/26 04:22 | 09/26 05:01 | 25分（04:35→05:01） |
+| financialjuice | 34 | 09/26 04:23 | 09/26 10:00 | ⚠ 65分（05:23→06:28） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 43 行（統合前 44 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 38 行（統合前 39 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 03:57 [FirstSquawk] EU ENERGY CHIEF: EU GAS STORAGE IS EXCEPTIONALLY LOW, SITUATION IS CHALLENGING BUT THERE IS NO IMMEDIATE SUPPLY RISK
-- 09/26 03:57 [financialjuice] EU Energy Chief in letter to member countries' ministers: We are facing an energy price crisis linked to a supply crisis
-- 09/26 03:58 [financialjuice] EU Energy Chief: The EU is better prepared than in winter 2021, owing to new lng capacity, renewables, and lower gas demand.
-- 09/26 03:59 [financialjuice] EU Energy chief: I invite you to consider extra measures to sustain gas storage injections or reduce gas and power demand.
-- 09/26 04:02 [financialjuice] Iran's President: I welcomes Chinese President Xi's support for the return to the Islamabad Memorandum of Understanding.
-- 09/26 04:02 [FirstSquawk] IRAN'S PRESIDENT SAYS TEHRAN AGREES ON NEED TO RETURN TO ISLAMABAD UNDERSTANDING, HONOR COMMITMENTS
-- 09/26 04:07 [financialjuice] Week Ahead: Economic Indicators 28th September – 2nd October (US)
-- 09/26 04:13 [FirstSquawk] IRAN'S PRESIDENT: WELCOMES XI’S SUPPORT FOR RETURN TO ISLAMABAD MOU
 - 09/26 04:22 [FirstSquawk] TRUMP ADMINISTRATION SETTLES WITH UNIONS OVER SHUTDOWN FIRINGS - BLAW
 - 09/26 04:23 [financialjuice] Monday FX Option Expiries
 - 09/26 04:30 [financialjuice] OpenAI: Broader Review of Model Actions Expected to Take Months
@@ -67,3 +59,6 @@
 - 09/26 09:27 [financialjuice] Trump rejects Iran ceasefire: anticipates increased bombing after midterms - WSJ
 - 09/26 09:28 [financialjuice] Trump skeptical Tehran will comply with his demands: WSJ
 - 09/26 09:53 [financialjuice] Saudi civil defense issues warning over potential risk in Khamis Mushait
+- 09/26 09:59 [financialjuice] Saudi civil defense: danger has passed in Khamis Mushait
+- 09/26 10:00 [financialjuice] Saudi-led coalition: monitoring missile and drone attacks on Saudi
+- 09/26 10:00 [financialjuice] Saudi-led coalition: intercepted two drones launched by Houthis towards Riyadh
