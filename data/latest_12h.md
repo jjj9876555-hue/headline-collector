@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-26 11:32 JST／対象: 09/25 23:32 〜 09/26 11:32 JST（時刻はすべて日本時間）
+生成: 2026-09-26 11:46 JST／対象: 09/25 23:46 〜 09/26 11:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 31 | 09/25 23:42 | 09/26 05:35 | ⚠ 146分（03:09→05:35） |
-| FirstSquawk | 91 | 09/25 23:34 | 09/26 11:32 | ⚠ 379分（05:01→11:20） |
-| financialjuice | 124 | 09/25 23:42 | 09/26 10:27 | ⚠ 65分（05:23→06:28） |
+| DeItaone | 29 | 09/25 23:46 | 09/26 05:35 | ⚠ 146分（03:09→05:35） |
+| FirstSquawk | 103 | 09/25 23:49 | 09/26 11:44 | ⚠ 379分（05:01→11:20） |
+| financialjuice | 123 | 09/25 23:56 | 09/26 10:27 | ⚠ 65分（05:23→06:28） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 237 行（統合前 248 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 246 行（統合前 257 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 23:34 [FirstSquawk] MEXICO PRESIDENT SHEINBAUM: UNCLEAR IF US-MEXICO TRADE DEAL WILL BE REACHED BEFORE NOVEMBER || WORKING TO ADDRESS US TRADE DEFICIT CONCERNS
-- 09/25 23:34 [FirstSquawk] RUSSIA CLAIMS TO HAVE STRUCK DRY CARGO SHIP AT PORT OF CHORNOMORSK - IFX
-- 09/25 23:42 [DeItaone] RUSSIA CAN IMMEDIATELY RESTART 80% OF GRAIN TRADING PORTS IN BLACK SEA AND SEA OF AZOV IF DIPLOMATIC EFFORTS TO REOPEN BLACK SEA SUCCEED, DATA FROM INDUSTRY SOURCES SHOWS THREE TERMINALS ACCOUNTING FOR 20% OF RUSSIAN GRAIN INFRASTRUCTURE IN…
-- 09/25 23:42 [financialjuice] Russia can immediately restart 80% of grain trading ports in bLack Sea and Sea of Azov, if diplomatic efforts to reopen the Black Sea succeed - Data From Industry Sources.
-- 09/25 23:43 [DeItaone] U.S. 30-YEAR BOND YIELD TOPS 5.5% FOR FIRST TIME SINCE 2004
 - 09/25 23:46 [DeItaone] TRUMP LIVE https://t.co/wJt6zcr65f
 - 09/25 23:49 [FirstSquawk] NHC: POLO IS AN EXTREMELY POWERFUL CATEGORY 5 HURRICANE, INTERESTS IN BAJA CALIFORNIA SUR SHOULD MONITOR ITS PROGRESS
 - 09/25 23:52 [DeItaone] YIELD ON 10-YEAR TREASURY NOTE HITS FRESH 19-YEAR HIGH AT 5.2297%; LAST UP 5.92 BASIS POINTS AT 5.221%
@@ -261,3 +256,17 @@
 - 09/26 11:31 [FirstSquawk] Trump opposes Iran ceasefire, anticipates renewed strikes after midterms, WSJ reports
 - 09/26 11:32 [FirstSquawk] Trump questions whether Tehran will comply with his demands, WSJ says
 - 09/26 11:32 [FirstSquawk] Bombardier CEO says company in advanced talks to build Saab surveillance aircraft in Canada
+- 09/26 11:34 [FirstSquawk] CNN blocked from Air Force One trip by White House, Washington Post reports
+- 09/26 11:35 [FirstSquawk] ShinyHunters expands global targeting and deploys web shells on dozens of systems, Google says
+- 09/26 11:36 [FirstSquawk] Google report: ShinyHunters resumes mass exploitation campaign against Oracle PeopleSoft
+- 09/26 11:38 [FirstSquawk] Fal seeks new funding at valuation above $15 billion as revenue reaches $800 million pace, The Information reports
+- 09/26 11:38 [FirstSquawk] Fireworks AI explores $30 billion valuation target, The Information says
+- 09/26 11:39 [FirstSquawk] TikTok reaches multimillion-dollar settlement with Alabama, Attorney General says
+- 09/26 11:39 [FirstSquawk] TikTok settlement to provide Alabama with at least $100 million, AG says
+- 09/26 11:40 [FirstSquawk] Alabama AG: TikTok settlement requires new safety measures for children on platform
+- 09/26 11:40 [FirstSquawk] TikTok settlement could provide Alabama up to $300 million if conditions are met
+- 09/26 11:40 [FirstSquawk] TikTok settlement addresses Alabama claims over addictive design, youth mental harms and safety disclosures
+- 09/26 11:41 [FirstSquawk] Ansell refocuses under new CEO, plans expansion into high-tech markets - FT
+- 09/26 11:41 [FirstSquawk] Brazilian President Lula seeks online gambling ban ahead of election, FT says
+- 09/26 11:44 [FirstSquawk] Warner Bros. Discovery says it intends to remove euro notes from Nasdaq Global
+- 09/26 11:44 [FirstSquawk] US Supreme Court blocks Missouri’s Republican-drawn congressional map for November midterms

@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-26 11:32 JST／対象: 09/25 11:32 〜 09/26 11:32 JST（時刻はすべて日本時間）
+生成: 2026-09-26 11:46 JST／対象: 09/25 11:46 〜 09/26 11:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 67 | 09/25 19:13 | 09/26 05:35 | ⚠ 146分（03:09→05:35） |
-| FirstSquawk | 202 | 09/25 11:42 | 09/26 11:32 | ⚠ 379分（05:01→11:20） |
+| FirstSquawk | 215 | 09/25 11:50 | 09/26 11:44 | ⚠ 379分（05:01→11:20） |
 | financialjuice | 240 | 09/25 12:40 | 09/26 10:27 | ⚠ 65分（05:23→06:28） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 486 行（統合前 512 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 499 行（統合前 525 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 11:42 [FirstSquawk] North Korea faces propaganda setback after Ukraine’s POW transfer reveal - SCMP
 - 09/25 11:50 [FirstSquawk] Polo expected to strengthen back to Category 5 on Friday, NHC says
 - 09/25 11:59 [FirstSquawk] Baird lifts Charles River Laboratories price target to $334 from $291
 - 09/25 12:06 [FirstSquawk] Brent crude futures decline 1% to $105.54 per barrel
@@ -510,3 +509,17 @@
 - 09/26 11:31 [FirstSquawk] Trump opposes Iran ceasefire, anticipates renewed strikes after midterms, WSJ reports
 - 09/26 11:32 [FirstSquawk] Trump questions whether Tehran will comply with his demands, WSJ says
 - 09/26 11:32 [FirstSquawk] Bombardier CEO says company in advanced talks to build Saab surveillance aircraft in Canada
+- 09/26 11:34 [FirstSquawk] CNN blocked from Air Force One trip by White House, Washington Post reports
+- 09/26 11:35 [FirstSquawk] ShinyHunters expands global targeting and deploys web shells on dozens of systems, Google says
+- 09/26 11:36 [FirstSquawk] Google report: ShinyHunters resumes mass exploitation campaign against Oracle PeopleSoft
+- 09/26 11:38 [FirstSquawk] Fal seeks new funding at valuation above $15 billion as revenue reaches $800 million pace, The Information reports
+- 09/26 11:38 [FirstSquawk] Fireworks AI explores $30 billion valuation target, The Information says
+- 09/26 11:39 [FirstSquawk] TikTok reaches multimillion-dollar settlement with Alabama, Attorney General says
+- 09/26 11:39 [FirstSquawk] TikTok settlement to provide Alabama with at least $100 million, AG says
+- 09/26 11:40 [FirstSquawk] Alabama AG: TikTok settlement requires new safety measures for children on platform
+- 09/26 11:40 [FirstSquawk] TikTok settlement could provide Alabama up to $300 million if conditions are met
+- 09/26 11:40 [FirstSquawk] TikTok settlement addresses Alabama claims over addictive design, youth mental harms and safety disclosures
+- 09/26 11:41 [FirstSquawk] Ansell refocuses under new CEO, plans expansion into high-tech markets - FT
+- 09/26 11:41 [FirstSquawk] Brazilian President Lula seeks online gambling ban ahead of election, FT says
+- 09/26 11:44 [FirstSquawk] Warner Bros. Discovery says it intends to remove euro notes from Nasdaq Global
+- 09/26 11:44 [FirstSquawk] US Supreme Court blocks Missouri’s Republican-drawn congressional map for November midterms
