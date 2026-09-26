@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-27 01:35 JST／対象: 09/26 13:35 〜 09/27 01:35 JST（時刻はすべて日本時間）
+生成: 2026-09-27 01:51 JST／対象: 09/26 13:51 〜 09/27 01:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/26 17:07 | 09/27 00:39 | ⚠ 291分（17:07→21:58） |
-| FirstSquawk | 173 | 09/26 13:35 | 09/27 01:19 | ⚠ 65分（19:20→20:25） |
+| FirstSquawk | 177 | 09/26 13:52 | 09/27 01:50 | ⚠ 65分（19:20→20:25） |
 | financialjuice | 27 | 09/26 16:36 | 09/27 01:01 | ⚠ 121分（19:57→21:58） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 204 行（統合前 208 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 208 行（統合前 212 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 13:35 [FirstSquawk] Fitch rates California $1.8B general obligation bonds 'AA' with stable outlook
-- 09/26 13:38 [FirstSquawk] National Grid to deploy advanced technology across New England grid with DOE funding
-- 09/26 13:40 [FirstSquawk] Iran’s president says Tehran backs return to Islamabad understanding, honoring commitments - RTRS
-- 09/26 13:40 [FirstSquawk] Iran’s president says Tehran welcomes Xi Jinping’s support for reviving Islamabad memorandum - RTRS
-- 09/26 13:44 [FirstSquawk] EU energy chief calls for targeted energy price measures to limit impact on gas demand
-- 09/26 13:45 [FirstSquawk] Fed’s Hammack says Fed needs flexibility as economic environment limits guidance
-- 09/26 13:48 [FirstSquawk] EU energy chief calls for extra steps to support gas storage and reduce gas and power demand
 - 09/26 13:52 [FirstSquawk] EU energy chief warns Europe is facing energy price crisis amid supply shortages
 - 09/26 13:57 [FirstSquawk] ECB’s Vujcic says he now places less emphasis on core inflation as a preferred measure
 - 09/26 14:04 [FirstSquawk] Fed’s Hammack: AI investment demand is vying for investor funds in bond market
@@ -228,3 +221,14 @@
 - 09/27 01:16 [FirstSquawk] Lavrov: The US and Israeli aggression targeted civilian infrastructure and Iranian nuclear facilities under IAEA safeguards.
 - 09/27 01:16 [FirstSquawk] Lavrov: The goals of the special military operation in Ukraine will be achieved, threats to our security will be eliminated, and peace will return.
 - 09/27 01:19 [FirstSquawk] Omani Foreign Minister: I discussed with my Iranian counterpart in New York efforts to de-escalate tensions and ensure the security of navigation in the Strait of Hormuz
+- 09/27 01:48 [FirstSquawk] Saudi Foreign Minister: We, along with other countries in the region, have been subjected to brutal Iranian attacks.
+- 09/27 01:49 [FirstSquawk] Saudi Foreign Minister: The security of the Gulf region is an integral part of the security of the region and the world.
+- 09/27 01:49 [FirstSquawk] Saudi Foreign Minister: Restoring global supply chains is a shared responsibility
+- 09/27 01:49 [FirstSquawk] Saudi Foreign Minister: Efforts to restore security in the region cannot be based on hegemony and imposing influence.
+- 09/27 01:49 [FirstSquawk] Saudi Foreign Minister: We stress the importance of any arrangements related to the region's security being comprehensive and sustainable
+- 09/27 01:49 [FirstSquawk] Saudi Foreign Minister: We stress the need for the region to be free of weapons of mass destruction and for peaceful nuclear facilities to be subject to international oversight.
+- 09/27 01:50 [FirstSquawk] Saudi Foreign Minister: We emphasize the need for stability in Yemen and the protection of civilians
+- 09/27 01:50 [FirstSquawk] Saudi Foreign Minister: We call on the international community to reject what the Houthi militia is doing in the Red Sea and the Bab al-Mandab Strait
+- 09/27 01:50 [FirstSquawk] Saudi Foreign Minister: The solution to the crisis in Sudan must be internal, in a way that enhances the security and stability of the people.
+- 09/27 01:50 [FirstSquawk] Saudi Foreign Minister: We welcome the United States' removal of Syria from the list of state sponsors of terrorism.
+- 09/27 01:50 [FirstSquawk] Saudi Foreign Minister: Risks threatening international navigation could affect the global economy

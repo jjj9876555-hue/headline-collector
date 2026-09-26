@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-27 01:35 JST／対象: 09/26 01:35 〜 09/27 01:35 JST（時刻はすべて日本時間）
+生成: 2026-09-27 01:51 JST／対象: 09/26 01:51 〜 09/27 01:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 26 | 09/26 01:41 | 09/27 00:39 | ⚠ 692分（05:35→17:07） |
-| FirstSquawk | 293 | 09/26 01:50 | 09/27 01:19 | ⚠ 379分（05:01→11:20） |
+| DeItaone | 19 | 09/26 01:51 | 09/27 00:39 | ⚠ 692分（05:35→17:07） |
+| FirstSquawk | 302 | 09/26 01:57 | 09/27 01:50 | ⚠ 379分（05:01→11:20） |
 | financialjuice | 121 | 09/26 01:56 | 09/27 01:01 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 429 行（統合前 441 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 431 行（統合前 443 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 01:41 [DeItaone] PALANTIR CO-FOUNDER JOE LONSDALE SAYS OPENAI, ANTHROPIC’S AI POLICY PUSH IS 'VERY DANGEROUS'
-- 09/26 01:42 [DeItaone] PALANTIR CO-FOUNDER JOE LONSDALE SAYS HE BACKS AMODEI AS THE RIGHT LEADER FOR ANTHROPIC
-- 09/26 01:43 [DeItaone] XI SAYS FUTURE OF CHINA-U.S. TIES BRIGHT -XINHUA
-- 09/26 01:46 [DeItaone] SK HYNIX'S SOLIDIGM EYES 2027 IPO THAT COULD VALUE IT AT $150 BILLION, SOURCES SAY SOLIDIGM HELD PITCH MEETINGS THIS WEEK WITH BANKS FOR ROLES IN THE IPO, SOURCES SAY
-- 09/26 01:47 [DeItaone] SOLIDIGM EYES MASSIVE $150 BILLION IPO SK Hynix’s Solidigm is considering a U.S. IPO as early as next year that could value the chipmaker at up to $150 billion, Reuters reports. The company could raise around $15 billion, potentially making…
-- 09/26 01:50 [FirstSquawk] CENTCOM: U.S. MARINES ASSIGNED TO THE 11TH MARINE EXPEDITIONARY UNIT TRAIN ABOARD USS BOXER (LHD 4) AS THE SHIP SAILS IN REGIONAL WATERS AND CONTINUES TO SUPPORT ENFORCEMENT OF THE U.S. BLOCKADE AGAINST IRAN. AS OF SEPT. 25, CENTCOM FORCES …
-- 09/26 01:50 [DeItaone] TRUMP ADMINISTRATION TO MEET SEPTEMBER 30 DEADLINE TO COMMIT TO SPENDING $400 MILLION IN UKRAINE MILITARY AID, SOURCES SAY
-- 09/26 01:50 [FirstSquawk] TRUMP: SCOTT BESSENT WILL NOT BE GOING TO BE SUPER INTELLIGENCE (SI) CZAR. NUMBER ONE, HE DOESN’T WANT TO. NUMBER TWO, HE’S DOING SUCH A GREAT JOB AT TREASURY, AND THAT’S WHERE I WANT TO KEEP HIM! WHY WOULD I EVER MAKE SUCH A CHANGE? JUST M…
-- 09/26 01:50 [DeItaone] TRUMP: SCOTT BESSENT WILL NOT BE GOING TO BE SUPER INTELLIGENCE (SI) CZAR. TRUMP: BESSENT DOING SUCH A GREAT JOB AT TREASURY
 - 09/26 01:51 [DeItaone] TRUMP: WANT TO KEEP BESSENT AT TREASURY
 - 09/26 01:51 [DeItaone] TRUMP ADMINISTRATION LOCKS IN $400M UKRAINE AID The Trump administration plans to obligate nearly all $400 million in military aid for Ukraine before funding expires September 30. About $307 million is already committed, with the remaining …
 - 09/26 01:56 [financialjuice] Trump: US Treasury Secretary Bessent won't be the AI Czar. He doesn't want to be the AI czar and is doing such a great job at the Treasury.
@@ -453,3 +444,14 @@
 - 09/27 01:16 [FirstSquawk] Lavrov: The US and Israeli aggression targeted civilian infrastructure and Iranian nuclear facilities under IAEA safeguards.
 - 09/27 01:16 [FirstSquawk] Lavrov: The goals of the special military operation in Ukraine will be achieved, threats to our security will be eliminated, and peace will return.
 - 09/27 01:19 [FirstSquawk] Omani Foreign Minister: I discussed with my Iranian counterpart in New York efforts to de-escalate tensions and ensure the security of navigation in the Strait of Hormuz
+- 09/27 01:48 [FirstSquawk] Saudi Foreign Minister: We, along with other countries in the region, have been subjected to brutal Iranian attacks.
+- 09/27 01:49 [FirstSquawk] Saudi Foreign Minister: The security of the Gulf region is an integral part of the security of the region and the world.
+- 09/27 01:49 [FirstSquawk] Saudi Foreign Minister: Restoring global supply chains is a shared responsibility
+- 09/27 01:49 [FirstSquawk] Saudi Foreign Minister: Efforts to restore security in the region cannot be based on hegemony and imposing influence.
+- 09/27 01:49 [FirstSquawk] Saudi Foreign Minister: We stress the importance of any arrangements related to the region's security being comprehensive and sustainable
+- 09/27 01:49 [FirstSquawk] Saudi Foreign Minister: We stress the need for the region to be free of weapons of mass destruction and for peaceful nuclear facilities to be subject to international oversight.
+- 09/27 01:50 [FirstSquawk] Saudi Foreign Minister: We emphasize the need for stability in Yemen and the protection of civilians
+- 09/27 01:50 [FirstSquawk] Saudi Foreign Minister: We call on the international community to reject what the Houthi militia is doing in the Red Sea and the Bab al-Mandab Strait
+- 09/27 01:50 [FirstSquawk] Saudi Foreign Minister: The solution to the crisis in Sudan must be internal, in a way that enhances the security and stability of the people.
+- 09/27 01:50 [FirstSquawk] Saudi Foreign Minister: We welcome the United States' removal of Syria from the list of state sponsors of terrorism.
+- 09/27 01:50 [FirstSquawk] Saudi Foreign Minister: Risks threatening international navigation could affect the global economy
