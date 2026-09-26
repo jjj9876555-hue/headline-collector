@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-27 05:32 JST／対象: 09/26 05:32 〜 09/27 05:32 JST（時刻はすべて日本時間）
+生成: 2026-09-27 05:45 JST／対象: 09/26 05:45 〜 09/27 05:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 9 | 09/26 05:35 | 09/27 00:39 | ⚠ 692分（05:35→17:07） |
+| DeItaone | 8 | 09/26 17:07 | 09/27 00:39 | ⚠ 291分（17:07→21:58） |
 | FirstSquawk | 281 | 09/26 11:20 | 09/27 03:23 | ⚠ 65分（19:20→20:25） |
 | financialjuice | 62 | 09/26 06:28 | 09/27 05:16 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 347 行（統合前 353 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 346 行（統合前 352 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 05:35 [DeItaone] OPENAI HAD IDENTIFIED ABOUT TWO DOZEN ROGUE AI INCIDENTS BY MID-SEPTEMBER, REUTERS SOURCE SAYS
 - 09/26 06:28 [financialjuice] US having positive, constructive talks with Iran via mediators on nuclear issues, US official says on 7-day plan
 - 09/26 06:50 [financialjuice] Saudi civil defense issues warning over possible threat in Jazan
 - 09/26 06:53 [financialjuice] Saudi civil defense: danger has passed in Jazan
