@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-26 21:53 JST／対象: 09/26 15:53 〜 09/26 21:53 JST（時刻はすべて日本時間）
+生成: 2026-09-26 22:15 JST／対象: 09/26 16:15 〜 09/26 22:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 1 | 09/26 17:07 | 09/26 17:07 | - |
-| FirstSquawk | 90 | 09/26 16:00 | 09/26 21:51 | ⚠ 65分（19:20→20:25） |
-| financialjuice | 11 | 09/26 16:36 | 09/26 19:57 | ⚠ 104分（17:15→19:00） |
+| DeItaone | 2 | 09/26 17:07 | 09/26 21:58 | ⚠ 291分（17:07→21:58） |
+| FirstSquawk | 86 | 09/26 16:34 | 09/26 21:53 | ⚠ 65分（19:20→20:25） |
+| financialjuice | 12 | 09/26 16:36 | 09/26 21:58 | ⚠ 121分（19:57→21:58） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 102 行（統合前 102 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 100 行（統合前 100 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 16:00 [FirstSquawk] French Presidential Candidate Jean-Luc Mélenchon: Macron wants to send military assets to a theater of war in Saudi Arabia. What for? What would we do if we were attacked? In the end, even if we did not want it, we would become belligerents…
-- 09/26 16:00 [FirstSquawk] Vietnam to revise food safety law, reining in delivery apps like Shopee, Grab
-- 09/26 16:01 [FirstSquawk] Iraq is in direct talks with the United States to exempt some Iraqi airports from US Treasury measures affecting flights by Iranian airlines to regional airports, the Iraqi prime minister’s media office said on Saturday.
-- 09/26 16:01 [FirstSquawk] Peter Thiel: I’m not saying Pope Leo was an agent of the Communists, but he was at least acting as a useful idiot for the CCP.
-- 09/26 16:01 [FirstSquawk] OpenAI systems go rogue and meddle with US state sites
 - 09/26 16:34 [FirstSquawk] Russia stays in the top position among arms exporters Russia ranked second globally in arms exports, with $15 billion in deliveries, representing 12.5% of the global market.
 - 09/26 16:34 [FirstSquawk] Powerful storm surge hits Surf City, New Jersey, as a nor’easter pounds the coast.
 - 09/26 16:35 [FirstSquawk] Israeli airstrikes on Sajad Heights and the Thin Mountain in the Apple Region, southern Lebanon
@@ -126,3 +121,6 @@
 - 09/26 21:49 [FirstSquawk] Houthis Attack Riyadh Again as Trump Rejects Ceasefire Offer Yemen’s Houthis launched fresh attacks toward Riyadh, with Saudi air defenses intercepting two drones and a ballistic missile targeting the kingdom, as tensions between the US and…
 - 09/26 21:50 [FirstSquawk] 5.2 MAG. EARTHQUAKE 79 KM NE OF TADINE NEW CALEDONIA - USGS
 - 09/26 21:51 [FirstSquawk] Iran Says Flights to Turkey, China, Pakistan Operational Flights from Iran to Turkey, Malaysia, China and Pakistan remain operational, while services to the UAE, Iraq, Oman and Georgia remain canceled, IRIB reported. Flights to Vietnam and …
+- 09/26 21:53 [FirstSquawk] Xi Seeks Lasting Gains on Trade, Taiwan From Trump Truce Xi Jinping pressed Donald Trump to limit US support for Taiwan while signaling scope for broader progress on trade, following their summit in Washington. The US and China extended the…
+- 09/26 21:58 [financialjuice] Top Iranian security body denies plans for military action over bans on Iranian flights - state media
+- 09/26 21:58 [DeItaone] TOP IRANIAN SECURITY BODY DENIES THAT IRAN IS PLANNING FOR MILITARY MOVES OVER BANS ON IRANIAN FLIGHTS - STATE MEDIA

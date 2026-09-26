@@ -7,41 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-26 21:53 JST／対象: 09/25 21:53 〜 09/26 21:53 JST（時刻はすべて日本時間）
+生成: 2026-09-26 22:15 JST／対象: 09/25 22:15 〜 09/26 22:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 45 | 09/25 21:55 | 09/26 17:07 | ⚠ 692分（05:35→17:07） |
-| FirstSquawk | 287 | 09/25 21:58 | 09/26 21:51 | ⚠ 379分（05:01→11:20） |
-| financialjuice | 168 | 09/25 21:53 | 09/26 19:57 | ⚠ 215分（13:00→16:36） |
+| DeItaone | 40 | 09/25 22:20 | 09/26 21:58 | ⚠ 692分（05:35→17:07） |
+| FirstSquawk | 285 | 09/25 22:16 | 09/26 21:53 | ⚠ 379分（05:01→11:20） |
+| financialjuice | 159 | 09/25 22:15 | 09/26 21:58 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 490 行（統合前 502 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 475 行（統合前 486 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 21:53 [financialjuice] Gas supplies to China via the Power of Siberia Pipeline in H1 of 2026 exceeded the level of the first half of 2025 - Tass.
-- 09/25 21:53 [financialjuice] Japanese and US Finance Chiefs discuss yen depreciation - Kyodo.
-- 09/25 21:54 [financialjuice] USTR Greer ends CNBC interview.
-- 09/25 21:55 [DeItaone] *JAPANESE, US FINANCE CHIEFS DISCUSS YEN DEPRECIATION: KYODO
-- 09/25 21:57 [financialjuice/FirstSquawk] Katayama, Bessent reaffirm undervaluing yen is an issue - Kyodo.
-- 09/25 21:58 [DeItaone] HOUTHIS PLEDGE NOT TO TARGET EUROPEAN OR U.S. SHIPS Iran-backed Houthis have told the EU they will not target European ships in the Red Sea, according to the FT. The group said its operations near the Bab al-Mandeb Strait are not intended t…
-- 09/25 22:00 [financialjuice] Effective Fed Funds Rate 3.88% September 24 vs 3.88% September 23.
-- 09/25 22:02 [financialjuice] NScale: NVIDIA commits $1b to NScale, funding due mid-November.
-- 09/25 22:02 [DeItaone] $TSLA - TESLA’S OPTIMUS HITS SNAGS IN HANDS, SUPPLIERS AS SCALE-UP BEGINS - THE INFORMATION TESLA HAS RAMPED UP PRODUCTION OF ITS OPTIMUS HUMANOID ROBOT ROUGHLY TENFOLD IN RECENT MONTHS - THE INFORMATION
-- 09/25 22:02 [financialjuice] Tesla’s Optimus hits snags in its hand manufacturing and suppliers as scale-up begins - The Information.
-- 09/25 22:05 [DeItaone] $TSLA - TESLA ROBOT’S INTRICATE HANDS POSE MAJOR MANUFACTURING AND DURABILITY CHALLENGES - THE INFORMATION TESLA MANAGERS TOLD STAFFERS CO WANTS TO SET UP PRODUCTION LINE CAPABLE OF PRODUCING OVER A THOUSAND ROBOTS A WEEK BY YEAR END- THE I…
-- 09/25 22:07 [FirstSquawk] PERDUE SAYS WE'VE ESTABLISHED AN AI CRISIS MECHANISM WITH CHINA
-- 09/25 22:07 [financialjuice] US Ambassador to China: We've established an AI crisis mechanism with China.
-- 09/25 22:08 [financialjuice] Canada August wholesale sales fell 1.5% MoM- StatCan flash
-- 09/25 22:08 [DeItaone] TREASURY VOLATILITY SURGES AS FED BETS SHIFT U.S. Treasury volatility is heading for its biggest weekly jump in over a year, with the MOVE Index up nearly 30%. Hotter economic data and elevated oil prices have fueled a sharp repricing of Fe…
-- 09/25 22:10 [FirstSquawk] PERDUE SAYS US HASN'T CHANGED POSITION ON ONE CHINA POLICY
-- 09/25 22:11 [financialjuice] US Ambassador to China: The US hasn't changed position on one China policy.
-- 09/25 22:13 [DeItaone] $AAPL - BERNSTEIN WARNS APPLE EARNINGS COULD DISAPPOINT Bernstein sees downside risk to Apple’s December-quarter earnings as sharply higher memory-chip costs pressure iPhone margins. The firm cut its EPS forecast to $2.87 from $3.00, below …
 - 09/25 22:15 [financialjuice] Japan's Fin. Min. Katayama: Markets are 'misunderstanding' weak yen - Kyodo
 - 09/25 22:16 [FirstSquawk] MEXICO-US TO HOLD ROUND OF USMCA TALKS IN 'NEXT WEEKS' - VELASCO
 - 09/25 22:17 [financialjuice] Velasco: Mexico-US to hold round of USMCA talks in the 'next weeks'
@@ -514,3 +496,6 @@
 - 09/26 21:49 [FirstSquawk] Houthis Attack Riyadh Again as Trump Rejects Ceasefire Offer Yemen’s Houthis launched fresh attacks toward Riyadh, with Saudi air defenses intercepting two drones and a ballistic missile targeting the kingdom, as tensions between the US and…
 - 09/26 21:50 [FirstSquawk] 5.2 MAG. EARTHQUAKE 79 KM NE OF TADINE NEW CALEDONIA - USGS
 - 09/26 21:51 [FirstSquawk] Iran Says Flights to Turkey, China, Pakistan Operational Flights from Iran to Turkey, Malaysia, China and Pakistan remain operational, while services to the UAE, Iraq, Oman and Georgia remain canceled, IRIB reported. Flights to Vietnam and …
+- 09/26 21:53 [FirstSquawk] Xi Seeks Lasting Gains on Trade, Taiwan From Trump Truce Xi Jinping pressed Donald Trump to limit US support for Taiwan while signaling scope for broader progress on trade, following their summit in Washington. The US and China extended the…
+- 09/26 21:58 [financialjuice] Top Iranian security body denies plans for military action over bans on Iranian flights - state media
+- 09/26 21:58 [DeItaone] TOP IRANIAN SECURITY BODY DENIES THAT IRAN IS PLANNING FOR MILITARY MOVES OVER BANS ON IRANIAN FLIGHTS - STATE MEDIA

@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-26 21:53 JST／対象: 09/26 09:53 〜 09/26 21:53 JST（時刻はすべて日本時間）
+生成: 2026-09-26 22:15 JST／対象: 09/26 10:15 〜 09/26 22:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 1 | 09/26 17:07 | 09/26 17:07 | - |
-| FirstSquawk | 204 | 09/26 11:20 | 09/26 21:51 | ⚠ 65分（19:20→20:25） |
-| financialjuice | 19 | 09/26 09:53 | 09/26 19:57 | ⚠ 215分（13:00→16:36） |
+| DeItaone | 2 | 09/26 17:07 | 09/26 21:58 | ⚠ 291分（17:07→21:58） |
+| FirstSquawk | 205 | 09/26 11:20 | 09/26 21:53 | ⚠ 65分（19:20→20:25） |
+| financialjuice | 15 | 09/26 10:16 | 09/26 21:58 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 224 行（統合前 224 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 222 行（統合前 222 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 09:53 [financialjuice] Saudi civil defense issues warning over potential risk in Khamis Mushait
-- 09/26 09:59 [financialjuice] Saudi civil defense: danger has passed in Khamis Mushait
-- 09/26 10:00 [financialjuice] Saudi-led coalition: monitoring missile and drone attacks on Saudi
-- 09/26 10:00 [financialjuice] Saudi-led coalition: intercepted two drones launched by Houthis towards Riyadh
-- 09/26 10:15 [financialjuice] Ecuador’s economy rises 2.1% in Q2 2026: central bank
 - 09/26 10:16 [financialjuice] South Korea president Lee calls for comprehensive trade deal between South Korea and Mexico: Blue House
 - 09/26 10:27 [financialjuice] Saudi-led coalition: intercepted ballistic missile launched by Yemen's Houthis towards Khamis Mushait
 - 09/26 11:20 [FirstSquawk] Iran offers US a seven-day plan to restore normal passage through Strait of Hormuz
@@ -248,3 +243,6 @@
 - 09/26 21:49 [FirstSquawk] Houthis Attack Riyadh Again as Trump Rejects Ceasefire Offer Yemen’s Houthis launched fresh attacks toward Riyadh, with Saudi air defenses intercepting two drones and a ballistic missile targeting the kingdom, as tensions between the US and…
 - 09/26 21:50 [FirstSquawk] 5.2 MAG. EARTHQUAKE 79 KM NE OF TADINE NEW CALEDONIA - USGS
 - 09/26 21:51 [FirstSquawk] Iran Says Flights to Turkey, China, Pakistan Operational Flights from Iran to Turkey, Malaysia, China and Pakistan remain operational, while services to the UAE, Iraq, Oman and Georgia remain canceled, IRIB reported. Flights to Vietnam and …
+- 09/26 21:53 [FirstSquawk] Xi Seeks Lasting Gains on Trade, Taiwan From Trump Truce Xi Jinping pressed Donald Trump to limit US support for Taiwan while signaling scope for broader progress on trade, following their summit in Washington. The US and China extended the…
+- 09/26 21:58 [financialjuice] Top Iranian security body denies plans for military action over bans on Iranian flights - state media
+- 09/26 21:58 [DeItaone] TOP IRANIAN SECURITY BODY DENIES THAT IRAN IS PLANNING FOR MILITARY MOVES OVER BANS ON IRANIAN FLIGHTS - STATE MEDIA
