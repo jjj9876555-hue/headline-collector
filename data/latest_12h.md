@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-26 23:58 JST／対象: 09/26 11:58 〜 09/26 23:58 JST（時刻はすべて日本時間）
+生成: 2026-09-27 00:16 JST／対象: 09/26 12:16 〜 09/27 00:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 5 | 09/26 17:07 | 09/26 22:54 | ⚠ 291分（17:07→21:58） |
-| FirstSquawk | 190 | 09/26 11:59 | 09/26 23:52 | ⚠ 65分（19:20→20:25） |
+| DeItaone | 6 | 09/26 17:07 | 09/27 00:01 | ⚠ 291分（17:07→21:58） |
+| FirstSquawk | 180 | 09/26 12:17 | 09/26 23:52 | ⚠ 65分（19:20→20:25） |
 | financialjuice | 25 | 09/26 13:00 | 09/26 23:43 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 218 行（統合前 220 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 209 行（統合前 211 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 11:59 [FirstSquawk] Brazil government sets November auction for purchasing credit portfolios from financial institutions
-- 09/26 12:01 [FirstSquawk] Brazil launches new debt-relief program targeting individuals with overdue debts of 2 to 4.5 years
-- 09/26 12:04 [FirstSquawk] Brazil government program aims to address around 300 billion reais in credit card and unsecured personal loan debt
-- 09/26 12:08 [FirstSquawk] Brazil plans to extend debt discounts to families under new program
-- 09/26 12:08 [FirstSquawk] Brazil expects program to cover 150 billion reais of debt, or half of eligible pool, at 15 billion reais cost
-- 09/26 12:09 [FirstSquawk] Brazil government: Mechanism to support overdue payment regularization and family debt restructuring
-- 09/26 12:09 [FirstSquawk] US Tsunami Warning System: No tsunami threat following 7.0-magnitude Loyalty Islands quake
-- 09/26 12:10 [FirstSquawk] NYSE American notifies Southland of listing standards noncompliance
-- 09/26 12:10 [FirstSquawk] Health Canada: 11 insulin product lots recalled after shipments to about 80 pharmacies, clinics and hospitals
-- 09/26 12:10 [FirstSquawk] Magnitude 7.0 earthquake hits Tadine, New Caledonia region, USGS says
 - 09/26 12:17 [FirstSquawk] Bulgaria’s outlook revision reflects reduced political uncertainty after April general election, Fitch says
 - 09/26 12:20 [FirstSquawk] Bulgaria’s outlook raised to positive by Fitch; IDR affirmed at ‘BBB+’
 - 09/26 12:23 [FirstSquawk] US FDA: Boston Scientific will stop selling Imager II Angiographic Catheter product line
@@ -242,3 +232,4 @@
 - 09/26 23:51 [FirstSquawk] Axios, citing US officials: Approximately 60 million barrels of oil have passed through the Strait of Hormuz in the past 72 hours
 - 09/26 23:51 [FirstSquawk] Axios, citing sources: US negotiators have told Iran that it does not control the Strait of Hormuz and has no right to set conditions regarding it.
 - 09/26 23:52 [FirstSquawk] Axios, citing a US official: Positive and constructive talks are ongoing between Washington and Tehran through intermediaries.
+- 09/27 00:01 [DeItaone] TRUMP REJECTS AI INTEGRATION WITH CHINA President Trump said the U.S. should not integrate its AI efforts with China, despite discussing the technology with President Xi Jinping this week. Trump argued the U.S. is leading China significantl…

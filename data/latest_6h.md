@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-26 23:58 JST／対象: 09/26 17:58 〜 09/26 23:58 JST（時刻はすべて日本時間）
+生成: 2026-09-27 00:16 JST／対象: 09/26 18:16 〜 09/27 00:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 4 | 09/26 21:58 | 09/26 22:54 | ⚠ 54分（21:58→22:53） |
-| FirstSquawk | 89 | 09/26 18:06 | 09/26 23:52 | ⚠ 65分（19:20→20:25） |
+| DeItaone | 5 | 09/26 21:58 | 09/27 00:01 | ⚠ 67分（22:54→00:01） |
+| FirstSquawk | 84 | 09/26 18:20 | 09/26 23:52 | ⚠ 65分（19:20→20:25） |
 | financialjuice | 19 | 09/26 19:00 | 09/26 23:43 | ⚠ 121分（19:57→21:58） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 110 行（統合前 112 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 106 行（統合前 108 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 18:06 [FirstSquawk] DPA": Continued Search for 18 Iraqi Migrants Believed to Have Drowned Off the Libyan Coast
-- 09/26 18:14 [FirstSquawk] German Foreign Minister Johann Wadephul yesterday said that the participation of Russian President Vladimir Putin at a G20 meeting could be the start of "serious negotiations" to end Russia’s full-scale invasion of Ukraine.
-- 09/26 18:14 [FirstSquawk] Germany 10-year yield hits its highest level since 2009.
-- 09/26 18:15 [FirstSquawk] Oracle's long-term bonds just crossed an all time high of 8.3%. Their 5 year CDS spreads also broke record highs, skyrocketing 16% to 227bps.
-- 09/26 18:16 [FirstSquawk] OpenAI investigating 'dozens' of instances of agents acting improperly
 - 09/26 18:20 [FirstSquawk] Tehran prosecutors have opened a criminal case against a theater company after a spectator's phone video showed an actress resting her head against an actor's chest on stage, in a scene the production says depicts a brother and sister.
 - 09/26 18:21 [FirstSquawk] Russian Ministry of Defense announces its forces' control over the town of "Marino" in Ukraine's "Sumy" region.
 - 09/26 18:21 [FirstSquawk] Hossein Ali Haji-Deligani, deputy head of parliament’s Article 90 Commission, said lawmakers had called for Nasser Asadi, a member of Iran’s UN mission, to be removed from his post and dismissed from the Foreign Ministry after he remained i…
@@ -134,3 +129,4 @@
 - 09/26 23:51 [FirstSquawk] Axios, citing US officials: Approximately 60 million barrels of oil have passed through the Strait of Hormuz in the past 72 hours
 - 09/26 23:51 [FirstSquawk] Axios, citing sources: US negotiators have told Iran that it does not control the Strait of Hormuz and has no right to set conditions regarding it.
 - 09/26 23:52 [FirstSquawk] Axios, citing a US official: Positive and constructive talks are ongoing between Washington and Tehran through intermediaries.
+- 09/27 00:01 [DeItaone] TRUMP REJECTS AI INTEGRATION WITH CHINA President Trump said the U.S. should not integrate its AI efforts with China, despite discussing the technology with President Xi Jinping this week. Trump argued the U.S. is leading China significantl…
