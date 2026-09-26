@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-26 23:16 JST／対象: 09/25 23:16 〜 09/26 23:16 JST（時刻はすべて日本時間）
+生成: 2026-09-26 23:32 JST／対象: 09/25 23:32 〜 09/26 23:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 37 | 09/25 23:26 | 09/26 22:54 | ⚠ 692分（05:35→17:07） |
-| FirstSquawk | 294 | 09/25 23:34 | 09/26 23:01 | ⚠ 379分（05:01→11:20） |
-| financialjuice | 148 | 09/25 23:17 | 09/26 23:01 | ⚠ 215分（13:00→16:36） |
+| DeItaone | 36 | 09/25 23:42 | 09/26 22:54 | ⚠ 692分（05:35→17:07） |
+| FirstSquawk | 295 | 09/25 23:34 | 09/26 23:25 | ⚠ 379分（05:01→11:20） |
+| financialjuice | 148 | 09/25 23:42 | 09/26 23:31 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 470 行（統合前 481 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,10 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 23:17 [financialjuice] Fear and Greed Index: 38/100 = Fear
-- 09/25 23:18 [financialjuice] Crypto Fear and Greed INdex: 71/100 = Greed
-- 09/25 23:22 [financialjuice] President Trump and the First Lady Greet the President of China and Madame Peng
-- 09/25 23:26 [DeItaone] BILL GATES WARNS AI COULD CAUSE ‘A BILLION DEATHS’ Bill Gates warns AI is already powerful enough to potentially drive events causing a billion deaths, particularly if advanced tools are exploited by malicious actors. Gates says AI could be…
 - 09/25 23:34 [FirstSquawk] MEXICO PRESIDENT SHEINBAUM: UNCLEAR IF US-MEXICO TRADE DEAL WILL BE REACHED BEFORE NOVEMBER || WORKING TO ADDRESS US TRADE DEFICIT CONCERNS
 - 09/25 23:34 [FirstSquawk] RUSSIA CLAIMS TO HAVE STRUCK DRY CARGO SHIP AT PORT OF CHORNOMORSK - IFX
 - 09/25 23:42 [DeItaone] RUSSIA CAN IMMEDIATELY RESTART 80% OF GRAIN TRADING PORTS IN BLACK SEA AND SEA OF AZOV IF DIPLOMATIC EFFORTS TO REOPEN BLACK SEA SUCCEED, DATA FROM INDUSTRY SOURCES SHOWS THREE TERMINALS ACCOUNTING FOR 20% OF RUSSIAN GRAIN INFRASTRUCTURE IN…
@@ -494,3 +490,7 @@
 - 09/26 23:00 [FirstSquawk] Iraq negotiating with US over airport exemptions for Iranian airlines
 - 09/26 23:01 [FirstSquawk] Iraq: Easing restrictions on Iranian airlines would enable humanitarian flights to resume
 - 09/26 23:01 [financialjuice] Easing limits on Iranian airlines allows Iraq to restart flights for humanitarian aid: Iraqi PM office
+- 09/26 23:24 [financialjuice] Pakistan PM Sharif on Houthis attacks on Saudi Arabia: Any threat to security, sanctity of Two Holy Mosques is a red line that can't be crossed under any circumstances
+- 09/26 23:25 [FirstSquawk] Trump: US expects to make a deal with Cuba without needing the military
+- 09/26 23:25 [financialjuice] Trump: Cuba and US to strike a deal, don’t expect military involvement
+- 09/26 23:31 [financialjuice] Russia's Lavrov meets German counterpart on sidelines of UN General Assembly

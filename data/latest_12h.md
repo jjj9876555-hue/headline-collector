@@ -7,42 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-26 23:16 JST／対象: 09/26 11:16 〜 09/26 23:16 JST（時刻はすべて日本時間）
+生成: 2026-09-26 23:32 JST／対象: 09/26 11:32 〜 09/26 23:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 09/26 17:07 | 09/26 22:54 | ⚠ 291分（17:07→21:58） |
-| FirstSquawk | 222 | 09/26 11:20 | 09/26 23:01 | ⚠ 65分（19:20→20:25） |
-| financialjuice | 21 | 09/26 13:00 | 09/26 23:01 | ⚠ 215分（13:00→16:36） |
+| FirstSquawk | 204 | 09/26 11:34 | 09/26 23:25 | ⚠ 65分（19:20→20:25） |
+| financialjuice | 24 | 09/26 13:00 | 09/26 23:31 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 248 行（統合前 248 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 233 行（統合前 233 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 11:20 [FirstSquawk] Iran offers US a seven-day plan to restore normal passage through Strait of Hormuz
-- 09/26 11:21 [FirstSquawk] US State Department spokesman tells Al Jazeera: ‘Door to diplomacy has been open’
-- 09/26 11:23 [FirstSquawk] Air defenses intercept Houthi ballistic missile fired toward Khamis Mushait, coalition says
-- 09/26 11:23 [FirstSquawk] Saudi Civil Defense declares danger cleared in Abha and Khamis Mushait
-- 09/26 11:26 [FirstSquawk] President Lee calls for South Korea-Mexico comprehensive trade agreement
-- 09/26 11:27 [FirstSquawk] Ecuador’s Q2 2026 economic growth reaches 2.1%, central bank reports
-- 09/26 11:27 [FirstSquawk] Two Houthi drones headed toward Riyadh intercepted, Saudi-led coalition says
-- 09/26 11:28 [FirstSquawk] Saudi-led coalition says missile and drone threats toward Saudi Arabia are being monitored
-- 09/26 11:29 [FirstSquawk] Ecopetrol plans to expand conventional and unconventional projects and continue offshore exploration
-- 09/26 11:29 [FirstSquawk] Berkshire Hathaway adds about 1.7 million Lennar Class A shares, filing shows
-- 09/26 11:29 [FirstSquawk] Ecopetrol plans US alliances to secure more favorable business conditions, CEO says
-- 09/26 11:30 [FirstSquawk] OpenAI confirms models accessed publicly available information on SEC. gov, Investor. gov
-- 09/26 11:30 [FirstSquawk] OpenAI: Models found to have accessed publicly available Census Bureau data during training
-- 09/26 11:30 [FirstSquawk] OpenAI: U.S. Census Bureau was proactively notified and given technical details
-- 09/26 11:31 [FirstSquawk] OpenAI says no SEC credentials were used and no accounts or nonpublic data were accessed
-- 09/26 11:31 [FirstSquawk] OpenAI says review found no Census account access or ability to modify data or systems
-- 09/26 11:31 [FirstSquawk] Trump opposes Iran ceasefire, anticipates renewed strikes after midterms, WSJ reports
-- 09/26 11:32 [FirstSquawk] Trump questions whether Tehran will comply with his demands, WSJ says
-- 09/26 11:32 [FirstSquawk] Bombardier CEO says company in advanced talks to build Saab surveillance aircraft in Canada
 - 09/26 11:34 [FirstSquawk] CNN blocked from Air Force One trip by White House, Washington Post reports
 - 09/26 11:35 [FirstSquawk] ShinyHunters expands global targeting and deploys web shells on dozens of systems, Google says
 - 09/26 11:36 [FirstSquawk] Google report: ShinyHunters resumes mass exploitation campaign against Oracle PeopleSoft
@@ -272,3 +253,7 @@
 - 09/26 23:00 [FirstSquawk] Iraq negotiating with US over airport exemptions for Iranian airlines
 - 09/26 23:01 [FirstSquawk] Iraq: Easing restrictions on Iranian airlines would enable humanitarian flights to resume
 - 09/26 23:01 [financialjuice] Easing limits on Iranian airlines allows Iraq to restart flights for humanitarian aid: Iraqi PM office
+- 09/26 23:24 [financialjuice] Pakistan PM Sharif on Houthis attacks on Saudi Arabia: Any threat to security, sanctity of Two Holy Mosques is a red line that can't be crossed under any circumstances
+- 09/26 23:25 [FirstSquawk] Trump: US expects to make a deal with Cuba without needing the military
+- 09/26 23:25 [financialjuice] Trump: Cuba and US to strike a deal, don’t expect military involvement
+- 09/26 23:31 [financialjuice] Russia's Lavrov meets German counterpart on sidelines of UN General Assembly
