@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-27 00:33 JST／対象: 09/26 12:33 〜 09/27 00:33 JST（時刻はすべて日本時間）
+生成: 2026-09-27 00:50 JST／対象: 09/26 12:50 〜 09/27 00:50 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 7 | 09/26 17:07 | 09/27 00:19 | ⚠ 291分（17:07→21:58） |
-| FirstSquawk | 174 | 09/26 12:34 | 09/27 00:22 | ⚠ 65分（19:20→20:25） |
+| DeItaone | 8 | 09/26 17:07 | 09/27 00:39 | ⚠ 291分（17:07→21:58） |
+| FirstSquawk | 170 | 09/26 12:51 | 09/27 00:42 | ⚠ 65分（19:20→20:25） |
 | financialjuice | 27 | 09/26 13:00 | 09/27 00:30 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 206 行（統合前 208 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 201 行（統合前 205 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 12:34 [FirstSquawk] Merck and Daiichi Sankyo withdraw US BLA for ifinatamab deruxtecan in extensive-stage SCLC
-- 09/26 12:34 [FirstSquawk] Merck & Co. advances two additional Phase 3 trials of ifinatamab deruxtecan in CRPC, ESCC
-- 09/26 12:40 [FirstSquawk] Cape Town offers affordable winter sun for UK travellers despite stronger rand - FT
-- 09/26 12:41 [FirstSquawk] Adult children in UK face average £300 monthly charge to live with parents - FT
-- 09/26 12:45 [FirstSquawk] S&P expects Mozambique LNG restart to reduce fiscal pressure, but benefits to come after 2030
-- 09/26 12:48 [FirstSquawk] S&P: Czech government debt to stay moderate by global standards through 2029
 - 09/26 12:51 [FirstSquawk] China researchers warn offshore wind farms could disrupt radar, create ‘ghost’ targets - SCMP
 - 09/26 12:51 [FirstSquawk] China upgrades mobile payments to make spending easier for foreigners ahead of Apec - SCMP
 - 09/26 12:52 [FirstSquawk] Thailand steps up efforts to curb bad behaviour among foreign tourists - SCMP
@@ -228,5 +222,6 @@
 - 09/27 00:01 [DeItaone] TRUMP REJECTS AI INTEGRATION WITH CHINA President Trump said the U.S. should not integrate its AI efforts with China, despite discussing the technology with President Xi Jinping this week. Trump argued the U.S. is leading China significantl…
 - 09/27 00:19 [DeItaone] TRUMP REJECTS IRAN’S HORMUZ DEAL President Trump said he rejected Iran’s proposal to reopen the Strait of Hormuz and halt regional fighting within seven days. Iran had presented the plan through Qatari mediators, offering to reopen the crit…
 - 09/27 00:22 [FirstSquawk] Israeli army: We attacked earlier today a Hezbollah weapons depot in the Sajd area of ​​southern Lebanon
-- 09/27 00:28 [financialjuice] UN mission: strikes on Libya's oil, energy infrastructure may lead to sanctions under Security Council resolutions
-- 09/27 00:30 [financialjuice] UN Libya mission warns of economic fallout from ongoing closure of Sharara-Zawiya oil pipeline
+- 09/27 00:28 [financialjuice/FirstSquawk] UN mission: strikes on Libya's oil, energy infrastructure may lead to sanctions under Security Council resolutions
+- 09/27 00:30 [financialjuice/FirstSquawk] UN Libya mission warns of economic fallout from ongoing closure of Sharara-Zawiya oil pipeline
+- 09/27 00:39 [DeItaone] TRUMP PREDICTS U.S.-CUBA DEAL, DOWNPLAYS MILITARY ACTION President Trump said he expects the U.S. and Cuba to reach an agreement, adding that he does not believe military action will be necessary. “I don’t think we’ll need the military,” Tr…
