@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-27 04:04 JST／対象: 09/26 04:04 〜 09/27 04:04 JST（時刻はすべて日本時間）
+生成: 2026-09-27 04:22 JST／対象: 09/26 04:22 〜 09/27 04:22 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 09/26 05:35 | 09/27 00:39 | ⚠ 692分（05:35→17:07） |
-| FirstSquawk | 285 | 09/26 04:13 | 09/27 03:23 | ⚠ 379分（05:01→11:20） |
-| financialjuice | 73 | 09/26 04:07 | 09/27 03:38 | ⚠ 215分（13:00→16:36） |
+| FirstSquawk | 284 | 09/26 04:22 | 09/27 03:23 | ⚠ 379分（05:01→11:20） |
+| financialjuice | 73 | 09/26 04:23 | 09/27 04:16 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 362 行（統合前 368 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 361 行（統合前 367 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 04:07 [financialjuice] Week Ahead: Economic Indicators 28th September – 2nd October (US)
-- 09/26 04:13 [FirstSquawk] IRAN'S PRESIDENT: WELCOMES XI’S SUPPORT FOR RETURN TO ISLAMABAD MOU
 - 09/26 04:22 [FirstSquawk] TRUMP ADMINISTRATION SETTLES WITH UNIONS OVER SHUTDOWN FIRINGS - BLAW
 - 09/26 04:23 [financialjuice] Monday FX Option Expiries
 - 09/26 04:30 [financialjuice] OpenAI: Broader Review of Model Actions Expected to Take Months
@@ -386,3 +384,4 @@
 - 09/27 03:04 [FirstSquawk] Chinese EVs will come to US despite no summit deal, analysts say - Nikkei
 - 09/27 03:36 [financialjuice] Libya reopens Sharara-Zawiya pipeline valve: resumes crude flow, says Libya's NOC
 - 09/27 03:38 [financialjuice] Libya's National Oil Corporation: crude output to gradually return to normal levels
+- 09/27 04:16 [financialjuice] Trump: approved new fuel economy standards ending Biden's EV mandate
