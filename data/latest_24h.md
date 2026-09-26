@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-26 19:58 JST／対象: 09/25 19:58 〜 09/26 19:58 JST（時刻はすべて日本時間）
+生成: 2026-09-26 20:15 JST／対象: 09/25 20:15 〜 09/26 20:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 67 | 09/25 20:46 | 09/26 17:07 | ⚠ 692分（05:35→17:07） |
-| FirstSquawk | 299 | 09/25 20:02 | 09/26 19:20 | ⚠ 379分（05:01→11:20） |
+| FirstSquawk | 296 | 09/25 20:19 | 09/26 19:20 | ⚠ 379分（05:01→11:20） |
 | financialjuice | 201 | 09/25 20:20 | 09/26 19:57 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 545 行（統合前 570 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 542 行（統合前 567 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 20:02 [FirstSquawk] J&J REPORTS A 69.2% OVERALL SURVIVAL RATE OVER FIVE YEARS AND A MEDIAN PROGRESSION-FREE SURVIVAL OF 60.5 MONTHS.
-- 09/25 20:10 [FirstSquawk] BASF MAKES TAKEOVER APPROACH FOR CHEMICALS RIVAL EVONIK - FT
-- 09/25 20:10 [FirstSquawk] DOLLAR/YEN EXTENDS FALL, LAST DOWN 0.76% AT 157.66
 - 09/25 20:19 [FirstSquawk] META: DEUTSCHE BANK RAISES TARGET PRICE TO $820 FROM $750
 - 09/25 20:20 [FirstSquawk] INTERNATIONAL CRIMINAL COURT IS INSULATED AGAINST US SANCTIONS, SAYS DEPUTY PROSECUTOR- FT
 - 09/25 20:20 [financialjuice] International Criminal Court is insulated against US sanctions, according to deputy prosecutor - FT
