@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-27 07:58 JST／対象: 09/27 01:58 〜 09/27 07:58 JST（時刻はすべて日本時間）
+生成: 2026-09-27 08:15 JST／対象: 09/27 02:15 〜 09/27 08:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
 | FirstSquawk | 7 | 09/27 02:46 | 09/27 03:23 | 18分（03:04→03:23） |
-| financialjuice | 12 | 09/27 02:10 | 09/27 06:17 | ⚠ 60分（04:16→05:16） |
+| financialjuice | 10 | 09/27 02:46 | 09/27 06:17 | ⚠ 60分（04:16→05:16） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 19 行（統合前 19 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 17 行（統合前 17 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 02:10 [financialjuice] Northern Ireland high court issues injunction to block Drumcree Protestant parade through Catholic area on Sunday
-- 09/27 02:11 [financialjuice] Northern Ireland High Court injunction provides brief interim relief until judicial review on route decided
 - 09/27 02:46 [financialjuice] Ukraine intercepting 55% of Russian jet-powered drones: Zelenskiy
 - 09/27 02:46 [FirstSquawk] Iraqi government spokesperson: The Prime Minister has reached understandings with Washington to continue sending shipments of cash dollars.
 - 09/27 02:46 [FirstSquawk] Iraqi government spokesperson: A new shipment of US dollars in cash will arrive in Iraq in the coming days.
