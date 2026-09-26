@@ -7,41 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-26 10:58 JST／対象: 09/25 22:58 〜 09/26 10:58 JST（時刻はすべて日本時間）
+生成: 2026-09-26 11:17 JST／対象: 09/25 23:17 〜 09/26 11:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 36 | 09/25 23:00 | 09/26 05:35 | ⚠ 146分（03:09→05:35） |
-| FirstSquawk | 75 | 09/25 23:00 | 09/26 05:01 | 35分（00:26→01:01） |
-| financialjuice | 138 | 09/25 22:59 | 09/26 10:27 | ⚠ 65分（05:23→06:28） |
+| DeItaone | 32 | 09/25 23:26 | 09/26 05:35 | ⚠ 146分（03:09→05:35） |
+| FirstSquawk | 72 | 09/25 23:34 | 09/26 05:01 | 35分（00:26→01:01） |
+| financialjuice | 127 | 09/25 23:17 | 09/26 10:27 | ⚠ 65分（05:23→06:28） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 240 行（統合前 251 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 222 行（統合前 233 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 22:59 [financialjuice] UNIVERSITY MICHIGAN CONDITIONS FINAL ACTUAL 50.9 (FORECAST 50.5, PREVIOUS 50.9) $MACRO
-- 09/25 22:59 [financialjuice] ‼ BREAKING: UNIVERSITY MICHIGAN SENTIMENT FINAL ACTUAL 47.8 (FORECAST 47.5, PREVIOUS 47.8) $MACRO
-- 09/25 22:59 [financialjuice] UNIVERSITY MICHIGAN 1 YR INFLATION FINAL ACTUAL 4.6% (FORECAST 4.7%, PREVIOUS 4.6%) $MACRO
-- 09/25 22:59 [financialjuice] UNIVERSITY MICHIGAN EXPECTATIONS FINAL ACTUAL 45.8 (FORECAST 45.7, PREVIOUS 45.8) $MACRO
-- 09/25 23:00 [FirstSquawk] US UMICH FINAL SEPT. CONSUMER SENTIMENT FALLS TO 48.1; EST. 47.5
-- 09/25 23:00 [financialjuice] UNIVERSITY MICHIGAN 5 YR INFLATION FINAL ACTUAL 3.4% (FORECAST 3.4%, PREVIOUS 3.4%) $MACRO
-- 09/25 23:00 [DeItaone] U.S. CONSUMER SENTIMENT SLIDES AS INFLATION FEARS RISE University of Michigan consumer sentiment fell to 48.1 in September from 51.7 in August, though slightly above expectations. Inflation expectations moved higher, with the 1-year outlook…
-- 09/25 23:00 [financialjuice] ‼ BREAKING: UNIVERSITY MICHIGAN SENTIMENT FINAL ACTUAL 48.1 (FORECAST 47.5, PREVIOUS 47.8) $MACRO
-- 09/25 23:00 [financialjuice] UNIVERSITY MICHIGAN EXPECTATIONS FINAL ACTUAL 46.3 (FORECAST 45.7, PREVIOUS 45.8) $MACRO
-- 09/25 23:04 [financialjuice] University of Michigan sentiment Final September Report
-- 09/25 23:07 [FirstSquawk] SCHMID: U.S. DEBT SEEMS "EXTREME"
-- 09/25 23:07 [financialjuice] Fed's Schmid: US debt seems extreme.
-- 09/25 23:08 [financialjuice] Fed's Schmid: The Fed still hasn't fixed the inflation issue.
-- 09/25 23:09 [FirstSquawk] US, CHINA TO ANNOUNCE TARIFF EXEMPTIONS ON AG, MEDICAL, LO-TECH GOODS - FOX
-- 09/25 23:09 [DeItaone] YIELD ON 10-YEAR TREASURY NOTE LAST UP 4.45 BASIS POINTS AT 5.207%
-- 09/25 23:11 [DeItaone] YIELD ON 30-YEAR U.S. TREASURY BONDS HITS FRESH 22-YEAR HIGH AT 5.5185%; LAST UP 4.86 BASIS POINTS AT 5.511%
-- 09/25 23:13 [DeItaone] SCHMID: A QUESTION IS WHETHER THE AI ECOSYSTEM IS BECOMING TOO BIG TO FAIL
-- 09/25 23:13 [financialjuice] Fed's Schmid: A question is whether the AI ecosystem is becoming too big to fail.
 - 09/25 23:17 [financialjuice] Fear and Greed Index: 38/100 = Fear
 - 09/25 23:18 [financialjuice] Crypto Fear and Greed INdex: 71/100 = Greed
 - 09/25 23:22 [financialjuice] President Trump and the First Lady Greet the President of China and Madame Peng

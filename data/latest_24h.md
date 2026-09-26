@@ -7,41 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-26 10:58 JST／対象: 09/25 10:58 〜 09/26 10:58 JST（時刻はすべて日本時間）
+生成: 2026-09-26 11:17 JST／対象: 09/25 11:17 〜 09/26 11:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 67 | 09/25 19:13 | 09/26 05:35 | ⚠ 146分（03:09→05:35） |
-| FirstSquawk | 195 | 09/25 11:05 | 09/26 05:01 | ⚠ 155分（16:01→18:36） |
-| financialjuice | 248 | 09/25 11:04 | 09/26 10:27 | ⚠ 88分（11:11→12:40） |
+| FirstSquawk | 185 | 09/25 11:18 | 09/26 05:01 | ⚠ 155分（16:01→18:36） |
+| financialjuice | 240 | 09/25 12:40 | 09/26 10:27 | ⚠ 65分（05:23→06:28） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 487 行（統合前 513 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 469 行（統合前 495 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 11:04 [financialjuice] Japan finmin katayama: deciding on specific monetary policy tools is up to BoJ
-- 09/25 11:05 [FirstSquawk] Katayama: Specific monetary policy tools are up to BOJ to determine
-- 09/25 11:05 [financialjuice] Japan finance minister Katayama: BoJ’s recent rate reduction aimed at reaching inflation target
-- 09/25 11:05 [financialjuice] Japan finance minister katayama: expect BoJ to implement suitable monetary policy while cooperating with government
-- 09/25 11:06 [financialjuice] Japan finance minister Katayama: won’t discuss particular forex levels, rate interventions
-- 09/25 11:06 [FirstSquawk] Japan Finance Minister Katayama says BOJ cut rates to achieve inflation target
-- 09/25 11:06 [financialjuice] Japan finance minister katayama: trump voiced worries over weak yen during summit
-- 09/25 11:06 [FirstSquawk] Japan Finance Minister Katayama: BOJ expected to conduct monetary policy appropriately with government coordination
-- 09/25 11:07 [financialjuice] Japan finance minister Katayama: will closely cooperate with US on forex
-- 09/25 11:07 [FirstSquawk] Japan Finance Minister Katayama: No comment on specific FX levels or rate checks
-- 09/25 11:08 [FirstSquawk] Japan Finance Minister Katayama: Trump voiced concerns about yen weakness at summit
-- 09/25 11:08 [financialjuice] Japan finance minister Katayama: PM Takaichi voiced worries about yen weakness in general
-- 09/25 11:09 [FirstSquawk] Katayama: Japan will closely coordinate with US on foreign exchange
-- 09/25 11:10 [FirstSquawk] USD/JPY declines 0.25% to 158.4700
-- 09/25 11:11 [FirstSquawk] Katayama: PM Takaichi expressed concern about the yen’s weakness in general
-- 09/25 11:11 [FirstSquawk] Pakistan says attempted Afghan attack in Gulistan sector was thwarted, several Taliban killed
-- 09/25 11:11 [financialjuice] Japan finance minister Katayama: BoJ’s recent rate increase aimed at reaching inflation goal
-- 09/25 11:12 [FirstSquawk] Pakistan security sources: Security forces and Afghan Taliban continue intermittent exchanges of fire
 - 09/25 11:18 [FirstSquawk] Canadian dollar loses ground amid weaker oil prices and a firmer US dollar
 - 09/25 11:27 [FirstSquawk] Hong Kong gains ground on Dubai in ‘super-prime’ property sales during Iran war - scmp
 - 09/25 11:42 [FirstSquawk] North Korea faces propaganda setback after Ukraine’s POW transfer reveal - SCMP
