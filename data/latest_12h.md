@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-27 02:58 JST／対象: 09/26 14:58 〜 09/27 02:58 JST（時刻はすべて日本時間）
+生成: 2026-09-27 03:19 JST／対象: 09/26 15:19 〜 09/27 03:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/26 17:07 | 09/27 00:39 | ⚠ 291分（17:07→21:58） |
-| FirstSquawk | 173 | 09/26 14:59 | 09/27 02:47 | ⚠ 65分（19:20→20:25） |
+| FirstSquawk | 175 | 09/26 15:33 | 09/27 03:04 | ⚠ 65分（19:20→20:25） |
 | financialjuice | 32 | 09/26 16:36 | 09/27 02:48 | ⚠ 121分（19:57→21:58） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 209 行（統合前 213 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 211 行（統合前 215 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 14:59 [FirstSquawk] Trump’s $810 million in cuts sparks opposition from lawmakers - WSJ
 - 09/26 15:33 [FirstSquawk] Quds, a conservative Iranian daily affiliated with Astan Quds Razavi, the religious foundation that administers the Imam Reza shrine in Mashhad, called on Tehran to respond to restrictions imposed by neighboring countries on Iranian flights…
 - 09/26 15:33 [FirstSquawk] Iran has presented the U.S. with a seven-day plan aimed at halting months of fighting, reopening the Strait of Hormuz & restarting negotiations over Tehran’s nuclear program.
 - 09/26 15:34 [FirstSquawk] Iranian President Masoud Pezeshkian: There are no specific ongoing health issues or challenges for Mojtaba Khamenei. On the last occasion when we met for seven-plus hours, of course, we were not used to being in seated positions for that ma…
@@ -233,3 +232,6 @@
 - 09/27 02:46 [FirstSquawk] Iraqi government spokesperson: A new shipment of US dollars in cash will arrive in Iraq in the coming days.
 - 09/27 02:47 [FirstSquawk] Russian Ministry of Defense: Today we intercepted and destroyed 105 drones over our territory and the Black Sea
 - 09/27 02:48 [financialjuice] IMF: staff wraps up visit to Gabon
+- 09/27 03:03 [FirstSquawk] Trump rejects Iran’s ceasefire proposal to reopen Strait of Hormuz - FT
+- 09/27 03:04 [FirstSquawk] Japan's Sumitomo Life to deploy AI for tailor-made contracts -Nikkei
+- 09/27 03:04 [FirstSquawk] Chinese EVs will come to US despite no summit deal, analysts say - Nikkei

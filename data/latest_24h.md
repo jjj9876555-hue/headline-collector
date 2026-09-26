@@ -7,46 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-27 02:58 JST／対象: 09/26 02:58 〜 09/27 02:58 JST（時刻はすべて日本時間）
+生成: 2026-09-27 03:19 JST／対象: 09/26 03:19 〜 09/27 03:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 10 | 09/26 03:09 | 09/27 00:39 | ⚠ 692分（05:35→17:07） |
-| FirstSquawk | 301 | 09/26 03:00 | 09/27 02:47 | ⚠ 379分（05:01→11:20） |
-| financialjuice | 113 | 09/26 03:01 | 09/27 02:48 | ⚠ 215分（13:00→16:36） |
+| DeItaone | 9 | 09/26 05:35 | 09/27 00:39 | ⚠ 692分（05:35→17:07） |
+| FirstSquawk | 296 | 09/26 03:24 | 09/27 03:04 | ⚠ 379分（05:01→11:20） |
+| financialjuice | 99 | 09/26 03:21 | 09/27 02:48 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 418 行（統合前 425 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 398 行（統合前 405 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 03:00 [FirstSquawk] ANDY BURNHAM UNDER PRESSURE TO SIGNAL SHIFT ON LABOUR’S EU ‘RED LINES’ - FT
-- 09/26 03:01 [financialjuice] Pakistan Prime Minister: Through concentrated efforts, Pakistan brought Washington and Tehran under one roof, that lead to Islamabad talks, Islamabad MoU. Must appreciate Field Marshal Asim Munir, efforts of Deputy PM Ishaq Dar” - AsiaOne N…
-- 09/26 03:05 [financialjuice] Fed's Hammack: The biggest risk with inflation is the formation of an inflationary mindset
-- 09/26 03:05 [FirstSquawk] WHITE HOUSE EYES DIESEL FUEL MOVES THAT FALL SHORT OF EXPORT BAN - POLITICO
-- 09/26 03:06 [financialjuice] Fed's Hammack: The public has been dealing with above-target inflation for an extended period
-- 09/26 03:06 [FirstSquawk] FED'S HAMMACK: BIGGEST RISK IS INFLATIONARY MINDSET SETTING IN
-- 09/26 03:06 [financialjuice] fed's Hammack: Growth has held up well, the job market is stable.
-- 09/26 03:06 [financialjuice] Fed's Hammack: Worried about demand-related pressure on inflation
-- 09/26 03:07 [financialjuice] Fed's Hammack: Capital expenditures will pressure inflation for a while
-- 09/26 03:07 [financialjuice] Fed's Hammack: If we don't make progress lowering inflation, expectations could shift.
-- 09/26 03:08 [FirstSquawk] FEDERAL RESERVE AND OTHER REGULATORS TARGETING MID-DECEMBER FOR CAPITAL RULE FINALIZATION - POLITICO
-- 09/26 03:08 [financialjuice] Fed's Hammack: Consumer spending and CAPEX are sources of pressure.
-- 09/26 03:08 [FirstSquawk] FED'S HAMMACK: EXPECTATIONS COULD SHIFT IF NO PROGRESS MADE ON LOWERING INFLATION
-- 09/26 03:08 [financialjuice] Fed's Hammack: Important to have restrictive policy rates
-- 09/26 03:08 [financialjuice] Fed's Hammack: The Fed needs to make sure policy is at a restrictive stance to lower inflation.
-- 09/26 03:09 [DeItaone] FED’S HAMMACK WARNS INFLATION RISKS REMAIN HIGH Fed’s Beth Hammack says the biggest risk is persistent inflation becoming embedded in public expectations. With economic growth holding up and the labor market stable, she warned that strong d…
-- 09/26 03:09 [financialjuice] ECB's Vujcic: We have started a tightening cycle
-- 09/26 03:09 [financialjuice] ECB's Vujcic: See risk of higher for longer energy prices
-- 09/26 03:10 [financialjuice] ECB's Vujcic: Price of refined products might not come down
-- 09/26 03:10 [FirstSquawk] ECB'S VUJCIC: ECB HAS STARTED A TIGHTENING CYCLE
-- 09/26 03:11 [financialjuice] ECB's Vujcic: Diesel prices will stay for long, feeding into inflation.
-- 09/26 03:12 [FirstSquawk] ECB'S VUJCIC: SEEMS LIKE PRICE OF CRUDE WILL FALL BUT NOT THAT OF REFINED PRODUCTS
-- 09/26 03:16 [FirstSquawk] EMEA EXPLORATION AND PRODUCTION OIL AND GAS SET FOR STRONG PERFORMANCE – FITCH
 - 09/26 03:21 [financialjuice] Fed's Hammack: There are lots of long-term questions on what AI will mean for inflation
 - 09/26 03:23 [financialjuice] Fed's Hammack: Underlying inflation is likely above target
 - 09/26 03:24 [FirstSquawk] FED'S HAMMACK: UNDERLYING INFLATION LIKELY ABOVE TARGET
@@ -442,3 +419,6 @@
 - 09/27 02:46 [FirstSquawk] Iraqi government spokesperson: A new shipment of US dollars in cash will arrive in Iraq in the coming days.
 - 09/27 02:47 [FirstSquawk] Russian Ministry of Defense: Today we intercepted and destroyed 105 drones over our territory and the Black Sea
 - 09/27 02:48 [financialjuice] IMF: staff wraps up visit to Gabon
+- 09/27 03:03 [FirstSquawk] Trump rejects Iran’s ceasefire proposal to reopen Strait of Hormuz - FT
+- 09/27 03:04 [FirstSquawk] Japan's Sumitomo Life to deploy AI for tailor-made contracts -Nikkei
+- 09/27 03:04 [FirstSquawk] Chinese EVs will come to US despite no summit deal, analysts say - Nikkei
