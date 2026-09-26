@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-26 23:45 JST／対象: 09/26 17:45 〜 09/26 23:45 JST（時刻はすべて日本時間）
+生成: 2026-09-26 23:58 JST／対象: 09/26 17:58 〜 09/26 23:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/26 21:58 | 09/26 22:54 | ⚠ 54分（21:58→22:53） |
-| FirstSquawk | 92 | 09/26 17:53 | 09/26 23:43 | ⚠ 65分（19:20→20:25） |
+| FirstSquawk | 89 | 09/26 18:06 | 09/26 23:52 | ⚠ 65分（19:20→20:25） |
 | financialjuice | 19 | 09/26 19:00 | 09/26 23:43 | ⚠ 121分（19:57→21:58） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 113 行（統合前 115 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 110 行（統合前 112 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 17:53 [FirstSquawk] US and Chinese presidents agree that imposing fees on international waterways is not permissible
-- 09/26 17:53 [FirstSquawk] China, US agree to $30 billion tariff cut, AI dialogue during Xi visit
-- 09/26 17:53 [FirstSquawk] Malaysian funeral offerings head to biennale and rock performances
-- 09/26 17:54 [FirstSquawk] Azerbaijani FM Bayramov: Even though the decades-long conflict with Armenia brought immense tragedy to our people and left deep scars across our land, Azerbaijan has chosen to look ahead and turn the page of enmity.
-- 09/26 17:54 [FirstSquawk] Hegseth channels WARRIOR ethos in US-style SPARTAN helm — this is AMERICA
-- 09/26 17:56 [FirstSquawk] Maharashtra faces a severe drought crisis as nearly 75% of the state grapples with intense water scarcity, prompting the Devendra Fadnavis government to declare drought across multiple regions. Inadequate rainfall has severely stressed agri…
 - 09/26 18:06 [FirstSquawk] DPA": Continued Search for 18 Iraqi Migrants Believed to Have Drowned Off the Libyan Coast
 - 09/26 18:14 [FirstSquawk] German Foreign Minister Johann Wadephul yesterday said that the participation of Russian President Vladimir Putin at a G20 meeting could be the start of "serious negotiations" to end Russia’s full-scale invasion of Ukraine.
 - 09/26 18:14 [FirstSquawk] Germany 10-year yield hits its highest level since 2009.
@@ -137,3 +131,6 @@
 - 09/26 23:31 [financialjuice/FirstSquawk] Russia's Lavrov meets German counterpart on sidelines of UN General Assembly
 - 09/26 23:43 [FirstSquawk] Russia says its forces struck a cargo vessel in the Black Sea
 - 09/26 23:43 [financialjuice] Russian defence ministry: Russian forces strike cargo ship in Black Sea
+- 09/26 23:51 [FirstSquawk] Axios, citing US officials: Approximately 60 million barrels of oil have passed through the Strait of Hormuz in the past 72 hours
+- 09/26 23:51 [FirstSquawk] Axios, citing sources: US negotiators have told Iran that it does not control the Strait of Hormuz and has no right to set conditions regarding it.
+- 09/26 23:52 [FirstSquawk] Axios, citing a US official: Positive and constructive talks are ongoing between Washington and Tehran through intermediaries.

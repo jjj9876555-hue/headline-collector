@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-26 23:45 JST／対象: 09/25 23:45 〜 09/26 23:45 JST（時刻はすべて日本時間）
+生成: 2026-09-26 23:58 JST／対象: 09/25 23:58 〜 09/26 23:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 34 | 09/25 23:46 | 09/26 22:54 | ⚠ 692分（05:35→17:07） |
-| FirstSquawk | 296 | 09/25 23:49 | 09/26 23:43 | ⚠ 379分（05:01→11:20） |
-| financialjuice | 148 | 09/25 23:56 | 09/26 23:43 | ⚠ 215分（13:00→16:36） |
+| DeItaone | 31 | 09/26 00:06 | 09/26 22:54 | ⚠ 692分（05:35→17:07） |
+| FirstSquawk | 298 | 09/25 23:59 | 09/26 23:52 | ⚠ 379分（05:01→11:20） |
+| financialjuice | 145 | 09/26 00:00 | 09/26 23:43 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 467 行（統合前 480 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 463 行（統合前 475 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 23:46 [DeItaone] TRUMP LIVE https://t.co/wJt6zcr65f
-- 09/25 23:49 [FirstSquawk] NHC: POLO IS AN EXTREMELY POWERFUL CATEGORY 5 HURRICANE, INTERESTS IN BAJA CALIFORNIA SUR SHOULD MONITOR ITS PROGRESS
-- 09/25 23:52 [DeItaone] YIELD ON 10-YEAR TREASURY NOTE HITS FRESH 19-YEAR HIGH AT 5.2297%; LAST UP 5.92 BASIS POINTS AT 5.221%
-- 09/25 23:53 [DeItaone] OIL SLIPS AS U.S.-IRAN DIPLOMACY TAKES FOCUS Oil prices moved lower as markets weighed U.S.-Iran talks over reopening the Strait of Hormuz. WTI fell 1.4% to $93.32, while Brent dropped 1.2% to $105.35. Diplomatic progress could push crude l…
-- 09/25 23:56 [financialjuice] US Treasury Secretary Bessent: Today, I had a productive call with Japan's Fin. Min. Katayama. Discussed the desirability of a strong yen.
-- 09/25 23:57 [financialjuice] The US Court of Appeals declines to block the Pentagon's blacklisting of Anthropic - Ruling.
-- 09/25 23:57 [financialjuice] US Treasury Secretary Bessent: The Katayama conversation was built from Trump and Japan's PM Takaichi.
 - 09/25 23:59 [FirstSquawk] BESSENT SAYS TODAY HAD A PRODUCTIVE CALL WITH KATAYAMA
 - 09/26 00:00 [FirstSquawk] BESSENT SAYS DISCUSSED THE DESIRABILITY OF A STRONG YEN
 - 09/26 00:00 [FirstSquawk] BESSENT SAYS TALKED DESIRABILITY OF A STRONG YEN W/ JAPAN'S FM
@@ -491,3 +484,6 @@
 - 09/26 23:31 [financialjuice/FirstSquawk] Russia's Lavrov meets German counterpart on sidelines of UN General Assembly
 - 09/26 23:43 [FirstSquawk] Russia says its forces struck a cargo vessel in the Black Sea
 - 09/26 23:43 [financialjuice] Russian defence ministry: Russian forces strike cargo ship in Black Sea
+- 09/26 23:51 [FirstSquawk] Axios, citing US officials: Approximately 60 million barrels of oil have passed through the Strait of Hormuz in the past 72 hours
+- 09/26 23:51 [FirstSquawk] Axios, citing sources: US negotiators have told Iran that it does not control the Strait of Hormuz and has no right to set conditions regarding it.
+- 09/26 23:52 [FirstSquawk] Axios, citing a US official: Positive and constructive talks are ongoing between Washington and Tehran through intermediaries.

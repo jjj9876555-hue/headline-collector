@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-26 23:45 JST／対象: 09/26 11:45 〜 09/26 23:45 JST（時刻はすべて日本時間）
+生成: 2026-09-26 23:58 JST／対象: 09/26 11:58 〜 09/26 23:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 09/26 17:07 | 09/26 22:54 | ⚠ 291分（17:07→21:58） |
-| FirstSquawk | 193 | 09/26 11:47 | 09/26 23:43 | ⚠ 65分（19:20→20:25） |
+| FirstSquawk | 190 | 09/26 11:59 | 09/26 23:52 | ⚠ 65分（19:20→20:25） |
 | financialjuice | 25 | 09/26 13:00 | 09/26 23:43 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 221 行（統合前 223 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 218 行（統合前 220 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 11:47 [FirstSquawk] US FDA grants approval to Juvmo (tavapadon) for adults with Parkinson’s disease
-- 09/26 11:51 [FirstSquawk] Brazil government orders ban on online betting operations nationwide
-- 09/26 11:51 [FirstSquawk] Brazil’s Durigan: Bettors can claim remaining funds from online betting websites until Oct. 5
-- 09/26 11:51 [FirstSquawk] Brazil’s Durigan says app stores and network providers must block these sites starting Oct. 6
-- 09/26 11:55 [FirstSquawk] Online betting firms allowed to continue advertising until Oct. 5, Brazil’s Durigan says
-- 09/26 11:56 [FirstSquawk] Hurricane Polo remains a powerful Category 5 hurricane, NHC says
 - 09/26 11:59 [FirstSquawk] Brazil government sets November auction for purchasing credit portfolios from financial institutions
 - 09/26 12:01 [FirstSquawk] Brazil launches new debt-relief program targeting individuals with overdue debts of 2 to 4.5 years
 - 09/26 12:04 [FirstSquawk] Brazil government program aims to address around 300 billion reais in credit card and unsecured personal loan debt
@@ -245,3 +239,6 @@
 - 09/26 23:31 [financialjuice/FirstSquawk] Russia's Lavrov meets German counterpart on sidelines of UN General Assembly
 - 09/26 23:43 [FirstSquawk] Russia says its forces struck a cargo vessel in the Black Sea
 - 09/26 23:43 [financialjuice] Russian defence ministry: Russian forces strike cargo ship in Black Sea
+- 09/26 23:51 [FirstSquawk] Axios, citing US officials: Approximately 60 million barrels of oil have passed through the Strait of Hormuz in the past 72 hours
+- 09/26 23:51 [FirstSquawk] Axios, citing sources: US negotiators have told Iran that it does not control the Strait of Hormuz and has no right to set conditions regarding it.
+- 09/26 23:52 [FirstSquawk] Axios, citing a US official: Positive and constructive talks are ongoing between Washington and Tehran through intermediaries.
