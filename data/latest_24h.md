@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-26 13:20 JST／対象: 09/25 13:20 〜 09/26 13:20 JST（時刻はすべて日本時間）
+生成: 2026-09-26 13:34 JST／対象: 09/25 13:34 〜 09/26 13:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 67 | 09/25 19:13 | 09/26 05:35 | ⚠ 146分（03:09→05:35） |
-| FirstSquawk | 245 | 09/25 13:20 | 09/26 13:19 | ⚠ 379分（05:01→11:20） |
-| financialjuice | 239 | 09/25 13:32 | 09/26 13:00 | ⚠ 153分（10:27→13:00） |
+| FirstSquawk | 246 | 09/25 13:41 | 09/26 13:31 | ⚠ 379分（05:01→11:20） |
+| financialjuice | 238 | 09/25 13:46 | 09/26 13:00 | ⚠ 153分（10:27→13:00） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 528 行（統合前 554 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,10 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 13:20 [FirstSquawk] JPMorgan lowers Constellation Brands price target to $133 from $165
-- 09/25 13:29 [FirstSquawk] Trump’s AI agenda draws resistance from segments of his MAGA base - FT
-- 09/25 13:32 [financialjuice] Novoshakhtinsk oil refinery in Russia’s Rostov region hit by drone attack, pauses operations: governor
-- 09/25 13:34 [FirstSquawk] Drone attack damages Novoshakhtinsk oil refinery in Russia’s Rostov region, governor says
 - 09/25 13:41 [FirstSquawk] 2-year Japanese government bond yield rises to 1.950%, up 5.0 basis points
 - 09/25 13:46 [financialjuice] Internet disruption reported in conflict-hit northern Ethiopia: web monitor NetBlocks
 - 09/25 13:47 [FirstSquawk] Credit Suisse reaches settlement with Australian insurer over Greensill - FT
@@ -552,3 +548,7 @@
 - 09/26 13:15 [FirstSquawk] Pakistan military: Pakistan, Saudi Arabia and Turkey discuss further cooperation among armed forces
 - 09/26 13:15 [FirstSquawk] White House: US, China establish communication channel dedicated to AI incidents
 - 09/26 13:19 [FirstSquawk] Pakistan military: Three countries’ military chiefs commit to advancing cooperation under Makkah defence pact
+- 09/26 13:22 [FirstSquawk] Pakistan military: Pakistan, Saudi Arabia and Turkey military chiefs pledge commitment to collective defence
+- 09/26 13:25 [FirstSquawk] Pakistan military: Pakistan, Saudi Arabia and Turkey military chiefs assess regional security, threats to Saudi Arabia
+- 09/26 13:26 [FirstSquawk] Japan’s NYK Line plans hydrogen fuel cell ship for Tokyo Bay sightseeing tours - KYODO
+- 09/26 13:31 [FirstSquawk] US appeals court rejects Kalshi challenge, affirms states’ authority over event contracts - RTRS

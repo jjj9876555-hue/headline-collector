@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-26 13:20 JST／対象: 09/26 07:20 〜 09/26 13:20 JST（時刻はすべて日本時間）
+生成: 2026-09-26 13:34 JST／対象: 09/26 07:34 〜 09/26 13:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 74 | 09/26 11:20 | 09/26 13:19 | 8分（12:58→13:06） |
-| financialjuice | 22 | 09/26 07:27 | 09/26 13:00 | ⚠ 153分（10:27→13:00） |
+| FirstSquawk | 78 | 09/26 11:20 | 09/26 13:31 | 8分（12:58→13:06） |
+| financialjuice | 17 | 09/26 07:35 | 09/26 13:00 | ⚠ 153分（10:27→13:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 96 行（統合前 97 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 95 行（統合前 96 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 07:27 [financialjuice] Alabama Attorney General Marshall announces multi-million-dollar deal with TikTok
-- 09/26 07:27 [financialjuice] Alabama AG: under settlement, Alabama to get at least $100 million
-- 09/26 07:28 [financialjuice] Alabama AG: TikTok must add safety features to protect children alongside payment
-- 09/26 07:29 [financialjuice] Alabama AG: Alabama could obtain up to $300 million under settlement if conditions met
-- 09/26 07:29 [financialjuice] Alabama AG: deal settles claims TikTok built platform with addictive features, exposed young users to mental harm, misled public about safety
 - 09/26 07:35 [financialjuice] Skyworks extends expiration date of exchange offers for Gorvo senior notes due 2029 and 2031
 - 09/26 08:28 [financialjuice] Google in threat intelligence report: ShinyHunters launches revived widespread attack campaign targeting Oracle PeopleSoft
 - 09/26 09:14 [financialjuice] OpenAI’s models accessed public US census, SEC information
@@ -120,3 +115,7 @@
 - 09/26 13:15 [FirstSquawk] Pakistan military: Pakistan, Saudi Arabia and Turkey discuss further cooperation among armed forces
 - 09/26 13:15 [FirstSquawk] White House: US, China establish communication channel dedicated to AI incidents
 - 09/26 13:19 [FirstSquawk] Pakistan military: Three countries’ military chiefs commit to advancing cooperation under Makkah defence pact
+- 09/26 13:22 [FirstSquawk] Pakistan military: Pakistan, Saudi Arabia and Turkey military chiefs pledge commitment to collective defence
+- 09/26 13:25 [FirstSquawk] Pakistan military: Pakistan, Saudi Arabia and Turkey military chiefs assess regional security, threats to Saudi Arabia
+- 09/26 13:26 [FirstSquawk] Japan’s NYK Line plans hydrogen fuel cell ship for Tokyo Bay sightseeing tours - KYODO
+- 09/26 13:31 [FirstSquawk] US appeals court rejects Kalshi challenge, affirms states’ authority over event contracts - RTRS

@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-26 13:20 JST／対象: 09/26 01:20 〜 09/26 13:20 JST（時刻はすべて日本時間）
+生成: 2026-09-26 13:34 JST／対象: 09/26 01:34 〜 09/26 13:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 23 | 09/26 01:20 | 09/26 05:35 | ⚠ 146分（03:09→05:35） |
-| FirstSquawk | 117 | 09/26 01:26 | 09/26 13:19 | ⚠ 379分（05:01→11:20） |
-| financialjuice | 96 | 09/26 01:34 | 09/26 13:00 | ⚠ 153分（10:27→13:00） |
+| DeItaone | 20 | 09/26 01:35 | 09/26 05:35 | ⚠ 146分（03:09→05:35） |
+| FirstSquawk | 119 | 09/26 01:50 | 09/26 13:31 | ⚠ 379分（05:01→11:20） |
+| financialjuice | 95 | 09/26 01:35 | 09/26 13:00 | ⚠ 153分（10:27→13:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 229 行（統合前 237 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 227 行（統合前 235 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 01:20 [DeItaone] OIL FUTURES EXTEND LOSSES, BRENT CRUDE DOWN BY $3 A BARREL ON HOPES OF US-IRAN TRUCE
-- 09/26 01:23 [DeItaone] CHINA, U.S. AGREE TO BUILD CONSTRUCTIVE RELATIONSHIP OF STRATEGIC STABILITY BASED ON RESPECT, FAIRNESS AND RECIPROCITY - XINHUA CHINA, U.S. AGREE TO BUILD A CONSTRUCTIVE RELATIONSHIP OF STRATEGIC STABILITY -XINHUA
-- 09/26 01:23 [DeItaone] NORTH SEA OIL FREIGHT RATES CLIMB AGAIN Platts kept the October Forties de-escalator unchanged at 15 cents, while Aframax freight rates moved higher again. Meanwhile, there were no bids or offers for North Sea crude grades during the Platts…
-- 09/26 01:26 [FirstSquawk] BANK OF FRANCE'S MOULIN SAYS NO CONCERN OVER FRENCH STATE'S ABILITY TO FINANCE ITSELF
-- 09/26 01:26 [FirstSquawk] MOULIN: EVERYTHING MUST BE DONE TO AVOID A SOVEREIGN DEBT CRISIS
-- 09/26 01:34 [financialjuice] ❗ Senior Iranian Official: Iran will make no concessions on its nuclear program.
 - 09/26 01:35 [financialjuice] ❗ Senior Iranian Official: The Strait of Hormuz will remain closed, no nuclear talks with the United States until Iran's conditions are met.
 - 09/26 01:35 [DeItaone] SENIOR IRANIAN OFFICIAL TO REUTERS: STRAIT OF HORMUZ WILL REMAIN CLOSED, NO NUCLEAR TALKS WITH UNITED STATES UNTIL IRAN'S CONDITIONS MET
 - 09/26 01:35 [DeItaone] SENIOR IRANIAN OFFICIAL TO REUTERS: IRAN WILL MAKE NO CONCESSIONS ON ITS NUCLEAR PROGRAM
@@ -253,3 +247,7 @@
 - 09/26 13:15 [FirstSquawk] Pakistan military: Pakistan, Saudi Arabia and Turkey discuss further cooperation among armed forces
 - 09/26 13:15 [FirstSquawk] White House: US, China establish communication channel dedicated to AI incidents
 - 09/26 13:19 [FirstSquawk] Pakistan military: Three countries’ military chiefs commit to advancing cooperation under Makkah defence pact
+- 09/26 13:22 [FirstSquawk] Pakistan military: Pakistan, Saudi Arabia and Turkey military chiefs pledge commitment to collective defence
+- 09/26 13:25 [FirstSquawk] Pakistan military: Pakistan, Saudi Arabia and Turkey military chiefs assess regional security, threats to Saudi Arabia
+- 09/26 13:26 [FirstSquawk] Japan’s NYK Line plans hydrogen fuel cell ship for Tokyo Bay sightseeing tours - KYODO
+- 09/26 13:31 [FirstSquawk] US appeals court rejects Kalshi challenge, affirms states’ authority over event contracts - RTRS
