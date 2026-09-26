@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-26 20:15 JST／対象: 09/26 14:15 〜 09/26 20:15 JST（時刻はすべて日本時間）
+生成: 2026-09-26 20:32 JST／対象: 09/26 14:32 〜 09/26 20:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/26 17:07 | 09/26 17:07 | - |
-| FirstSquawk | 85 | 09/26 14:21 | 09/26 19:20 | 34分（14:59→15:33） |
+| FirstSquawk | 82 | 09/26 14:36 | 09/26 20:25 | ⚠ 65分（19:20→20:25） |
 | financialjuice | 11 | 09/26 16:36 | 09/26 19:57 | ⚠ 104分（17:15→19:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 97 行（統合前 97 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 94 行（統合前 94 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 14:21 [FirstSquawk] Fed’s Hammack: Persistent high inflation complicates economic planning
-- 09/26 14:22 [FirstSquawk] Apax set to buy out Warburg Pincus from €6.5bn telecoms group Odido - FT
-- 09/26 14:25 [FirstSquawk] EU explores Norway and Canada as locations for space launches - FT
-- 09/26 14:31 [FirstSquawk] Xi concludes U.S. trip with agreement to meet Trump again in November - KYODO
 - 09/26 14:36 [FirstSquawk] Fed’s Hammack: AI’s implications for inflation remain uncertain over the long term
 - 09/26 14:39 [FirstSquawk] Chinese auto companies advance EV technology with 5-minute ultrafast charging - Kyodo
 - 09/26 14:39 [FirstSquawk] China to weigh Costa Rican and Guyanese candidates in race for first woman UN chief - SCMP
@@ -121,3 +117,4 @@
 - 09/26 19:20 [FirstSquawk] Crypto update: #Bitcoin 83982.00 +0.13% #Ether 2680.50 -0.15% #Cardano 0.2540 -0.12% #BitcoinCash 337.20 -0.69% #Litecoin 74.06 +4.1% #Stellar 0.2165 -1.19% #Dogecoin 0.0970 -0.82% #Uniswap 9.5994 -0.35% #Chainlink 14.0024 +1.27% #Polkadot …
 - 09/26 19:20 [FirstSquawk] Weekend markets update: #DAX 25490 -0.24% #DOW 51727 -0.20% #NASDAQ 30565 -0.23% #FTSE 10727 -0.14% #HANGSENG 24475 -0.13% #EURUSD 11386 -0.04% #USDJPY 15715 -0.09% #GOLD 4279 -0.14% #USOIL 9356 +1.72%
 - 09/26 19:57 [financialjuice] China foreign minister Wang Yi: Xi's U.S. visit opens 'new chapter' in China-U.S. ties - ministry statement
+- 09/26 20:25 [FirstSquawk] Eleven people were killed and 30 others injured in an explosion in the city of Dera Ismail Khan in northwestern Pakistan.

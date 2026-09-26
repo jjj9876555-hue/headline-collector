@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-26 20:15 JST／対象: 09/26 08:15 〜 09/26 20:15 JST（時刻はすべて日本時間）
+生成: 2026-09-26 20:32 JST／対象: 09/26 08:32 〜 09/26 20:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/26 17:07 | 09/26 17:07 | - |
-| FirstSquawk | 175 | 09/26 11:20 | 09/26 19:20 | 34分（14:59→15:33） |
-| financialjuice | 27 | 09/26 08:28 | 09/26 19:57 | ⚠ 215分（13:00→16:36） |
+| FirstSquawk | 176 | 09/26 11:20 | 09/26 20:25 | ⚠ 65分（19:20→20:25） |
+| financialjuice | 26 | 09/26 09:14 | 09/26 19:57 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 203 行（統合前 204 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,7 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 08:28 [financialjuice] Google in threat intelligence report: ShinyHunters launches revived widespread attack campaign targeting Oracle PeopleSoft
 - 09/26 09:14 [financialjuice] OpenAI’s models accessed public US census, SEC information
 - 09/26 09:26 [financialjuice] OpenAI: models accessed publicly available info on and
 - 09/26 09:26 [financialjuice] OpenAI: Our models accessed some publicly available US Census Bureau data during internal training tasks
@@ -227,3 +226,4 @@
 - 09/26 19:20 [FirstSquawk] Crypto update: #Bitcoin 83982.00 +0.13% #Ether 2680.50 -0.15% #Cardano 0.2540 -0.12% #BitcoinCash 337.20 -0.69% #Litecoin 74.06 +4.1% #Stellar 0.2165 -1.19% #Dogecoin 0.0970 -0.82% #Uniswap 9.5994 -0.35% #Chainlink 14.0024 +1.27% #Polkadot …
 - 09/26 19:20 [FirstSquawk] Weekend markets update: #DAX 25490 -0.24% #DOW 51727 -0.20% #NASDAQ 30565 -0.23% #FTSE 10727 -0.14% #HANGSENG 24475 -0.13% #EURUSD 11386 -0.04% #USDJPY 15715 -0.09% #GOLD 4279 -0.14% #USOIL 9356 +1.72%
 - 09/26 19:57 [financialjuice] China foreign minister Wang Yi: Xi's U.S. visit opens 'new chapter' in China-U.S. ties - ministry statement
+- 09/26 20:25 [FirstSquawk] Eleven people were killed and 30 others injured in an explosion in the city of Dera Ismail Khan in northwestern Pakistan.
