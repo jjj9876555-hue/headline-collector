@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-26 19:00 JST／対象: 09/25 19:00 〜 09/26 19:00 JST（時刻はすべて日本時間）
+生成: 2026-09-26 19:18 JST／対象: 09/25 19:18 〜 09/26 19:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 68 | 09/25 19:13 | 09/26 17:07 | ⚠ 692分（05:35→17:07） |
-| FirstSquawk | 288 | 09/25 19:01 | 09/26 18:53 | ⚠ 379分（05:01→11:20） |
-| financialjuice | 210 | 09/25 19:01 | 09/26 19:00 | ⚠ 215分（13:00→16:36） |
+| DeItaone | 67 | 09/25 20:46 | 09/26 17:07 | ⚠ 692分（05:35→17:07） |
+| FirstSquawk | 297 | 09/25 19:50 | 09/26 19:17 | ⚠ 379分（05:01→11:20） |
+| financialjuice | 204 | 09/25 19:23 | 09/26 19:07 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 544 行（統合前 569 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 546 行（統合前 571 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 19:01 [financialjuice] Japan's Fin. Min. Katayama: Won't hesitate to take bold action on the yen
-- 09/25 19:01 [financialjuice] Japan's Fin. Min. Katayama: Defense spending at 2% of GDP is 'not enough"
-- 09/25 19:01 [financialjuice] Japan's Fin. Min. Katayama: Our defense policy is not determined by US pressure
-- 09/25 19:01 [FirstSquawk] JAPAN'S FINMIN KATAYAMA: TAKAICHI 'IS NOT A REFLATIONIST'
-- 09/25 19:02 [FirstSquawk] KATAYAMA: TAKAICHI VERY MUCH RESPECTS INDEPENDENCE OF BOJ || WON'T HESITATE TO TAKE BOLD ACTION ON YEN
-- 09/25 19:02 [FirstSquawk] KATAYAMA: DEFENSE SPENDING AT 2% OF GDP IS 'NOT ENOUGH' || OUR DEFENSE POLICY NOT DETERMINED BY US PRESSURE
-- 09/25 19:02 [FirstSquawk] KATAYAMA: OUR DEFENSE POLICY NOT DETERMINED BY US PRESSURE
-- 09/25 19:05 [financialjuice] Japan's Fin. Min. Katayama: Extra defense spending to address China threat
-- 09/25 19:05 [financialjuice] US Fed plans to raise bank oversight thresholds - Sources
-- 09/25 19:10 [financialjuice] Iraq's Erbil and Sulaimaniya airports suspend Iranian flights starting Friday - Two Sources
-- 09/25 19:10 [financialjuice] Fed's Williams: Not seeing productivity impact from AI yet
-- 09/25 19:13 [DeItaone] FED PLANS TO EASE OVERSIGHT FOR LARGE BANKS The Fed is preparing to raise asset thresholds that trigger tougher bank regulation, Reuters reports. The highest threshold could rise from $700 billion to around $960 billion, while some requirem…
 - 09/25 19:23 [financialjuice] Italy updated EU safe defense loan plan for slightly over €8B
 - 09/25 19:50 [FirstSquawk] IRAN LEADER ADVISER MOKHBER SAYS IF IRAN CANNOT HAVE FLIGHTS AND RECEIVE AIRPORT SERVICES, THEN NO ONE IN THE REGION CAN EITHER - NOURNEWS
 - 09/25 19:50 [financialjuice] Iran leader adviser Mokhbar: Iran cannot have flights and receive airport services, then no one in the region can either - NourNews
@@ -568,3 +556,17 @@
 - 09/26 19:00 [financialjuice] SNB Chairman Schlegel: current drop in Swiss franc a minor reversal to long-term currency appreciation
 - 09/26 19:00 [financialjuice] NB chairman: food prices have risen, but inflation jump is almost entirely due to petrol prices
 - 09/26 19:00 [financialjuice] Swiss National Bank chairman: closely examining summer heat’s effect on food prices
+- 09/26 19:07 [financialjuice] Kremlin: Putin talks Ukraine and energy collaboration in call with Serbia's Vucic
+- 09/26 19:14 [FirstSquawk] Iranian President Masoud Pezeshkian: We no longer trust talks with Washington because of its repeated attacks and sanctions after every negotiation.
+- 09/26 19:14 [FirstSquawk] Iranian President: Qatar and Pakistan are currently mediating between Iran and the United States and conveying our messages to Washington
+- 09/26 19:15 [FirstSquawk] Iranian President: Our negotiations with Washington are based on a previous memorandum of understanding, and the Americans must clarify their position on it.
+- 09/26 19:15 [FirstSquawk] Iranian President: Why and for what purpose would I meet with the American President? When we signed the agreement, they didn't implement it.
+- 09/26 19:15 [FirstSquawk] Iranian President to Al Jazeera: Closing the Strait of Hormuz is a natural step when Iran is cut off from other routes.
+- 09/26 19:15 [FirstSquawk] Iranian President: Closing the Strait of Hormuz is a natural step when Iran is cut off from other routes.
+- 09/26 19:16 [FirstSquawk] Iranian President: The Strait of Hormuz crisis can be resolved through negotiations, not by force.
+- 09/26 19:16 [FirstSquawk] Iranian President: Regional security can be achieved through cooperation among its countries, and we do not need a regional policeman.
+- 09/26 19:16 [FirstSquawk] Iranian President: The enemies' strategy is based on stirring up disputes among officials in Iran , but we are witnessing unprecedented internal cohesion.
+- 09/26 19:17 [FirstSquawk] Iranian President: I met with the Supreme Leader twice, the first time for about 3 hours and the second time for 7 and a half hours
+- 09/26 19:17 [FirstSquawk] Iranian President: The leadership structure is about setting policies, while implementation falls on us, and what we are implementing is within the framework of existing laws.
+- 09/26 19:17 [FirstSquawk] Iranian President: There is no problem on the executive side, but there are some delays in matters related to the negotiations and what America and other countries are waiting for.
+- 09/26 19:17 [FirstSquawk] Iranian President: What is happening in Yemen is not related to Iran, and we stand in solidarity with all those who are subjected to injustice.
