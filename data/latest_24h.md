@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-27 06:16 JST／対象: 09/26 06:16 〜 09/27 06:16 JST（時刻はすべて日本時間）
+生成: 2026-09-27 06:32 JST／対象: 09/26 06:32 〜 09/27 06:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/26 17:07 | 09/27 00:39 | ⚠ 291分（17:07→21:58） |
 | FirstSquawk | 281 | 09/26 11:20 | 09/27 03:23 | ⚠ 65分（19:20→20:25） |
-| financialjuice | 65 | 09/26 06:28 | 09/27 06:14 | ⚠ 215分（13:00→16:36） |
+| financialjuice | 65 | 09/26 06:50 | 09/27 06:17 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 349 行（統合前 355 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,7 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 06:28 [financialjuice] US having positive, constructive talks with Iran via mediators on nuclear issues, US official says on 7-day plan
 - 09/26 06:50 [financialjuice] Saudi civil defense issues warning over possible threat in Jazan
 - 09/26 06:53 [financialjuice] Saudi civil defense: danger has passed in Jazan
 - 09/26 06:55 [financialjuice] US Supreme Court blocks Missouri for third time from using GOP-drawn congressional map in November midterm elections
@@ -373,3 +372,4 @@
 - 09/27 06:13 [financialjuice] Iran's foreign minister Araqchi: First reaction from U.S. president seen, but mediators have not yet communicated anything to us
 - 09/27 06:14 [financialjuice] Iran's Araqchi: awaiting mediators to relay final views for decision-making
 - 09/27 06:14 [financialjuice] Iran's Araqchi: conditions clear, any opening of Strait of Hormuz depends on them
+- 09/27 06:17 [financialjuice] Iran's Aragchi: negotiated solution is the only way to end deadlock, that is our stance

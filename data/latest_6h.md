@@ -7,28 +7,26 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-27 06:16 JST／対象: 09/27 00:16 〜 09/27 06:16 JST（時刻はすべて日本時間）
+生成: 2026-09-27 06:32 JST／対象: 09/27 00:32 〜 09/27 06:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 2 | 09/27 00:19 | 09/27 00:39 | 19分（00:19→00:39） |
-| FirstSquawk | 52 | 09/27 00:22 | 09/27 03:23 | ⚠ 52分（01:54→02:46） |
-| financialjuice | 15 | 09/27 00:28 | 09/27 06:14 | ⚠ 60分（04:16→05:16） |
+| DeItaone | 1 | 09/27 00:39 | 09/27 00:39 | - |
+| FirstSquawk | 51 | 09/27 00:42 | 09/27 03:23 | ⚠ 52分（01:54→02:46） |
+| financialjuice | 14 | 09/27 01:01 | 09/27 06:17 | ⚠ 60分（04:16→05:16） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 66 行（統合前 69 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 65 行（統合前 66 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 00:19 [DeItaone] TRUMP REJECTS IRAN’S HORMUZ DEAL President Trump said he rejected Iran’s proposal to reopen the Strait of Hormuz and halt regional fighting within seven days. Iran had presented the plan through Qatari mediators, offering to reopen the crit…
-- 09/27 00:22 [FirstSquawk] Israeli army: We attacked earlier today a Hezbollah weapons depot in the Sajd area of ​​southern Lebanon
-- 09/27 00:28 [financialjuice/FirstSquawk] UN mission: strikes on Libya's oil, energy infrastructure may lead to sanctions under Security Council resolutions
-- 09/27 00:30 [financialjuice/FirstSquawk] UN Libya mission warns of economic fallout from ongoing closure of Sharara-Zawiya oil pipeline
 - 09/27 00:39 [DeItaone] TRUMP PREDICTS U.S.-CUBA DEAL, DOWNPLAYS MILITARY ACTION President Trump said he expects the U.S. and Cuba to reach an agreement, adding that he does not believe military action will be necessary. “I don’t think we’ll need the military,” Tr…
+- 09/27 00:42 [FirstSquawk] UN mission: strikes on Libya's oil, energy infrastructure may lead to sanctions under Security Council resolutions
+- 09/27 00:42 [FirstSquawk] UN Libya mission warns of economic fallout from ongoing closure of Sharara-Zawiya oil pipeline
 - 09/27 01:01 [financialjuice] United Nations: Russian Foreign Minister Lavrov says US must end 'siege' and trade restrictions on Cuba
 - 09/27 01:03 [FirstSquawk] Lavrov: The waves of confrontation in the Gulf and the issue of the Strait of Hormuz must be resolved
 - 09/27 01:03 [FirstSquawk] Lavrov: We demand the immediate release of the Venezuelan president and his wife and that these abuses not be repeated
@@ -90,3 +88,4 @@
 - 09/27 06:13 [financialjuice] Iran's foreign minister Araqchi: First reaction from U.S. president seen, but mediators have not yet communicated anything to us
 - 09/27 06:14 [financialjuice] Iran's Araqchi: awaiting mediators to relay final views for decision-making
 - 09/27 06:14 [financialjuice] Iran's Araqchi: conditions clear, any opening of Strait of Hormuz depends on them
+- 09/27 06:17 [financialjuice] Iran's Aragchi: negotiated solution is the only way to end deadlock, that is our stance
