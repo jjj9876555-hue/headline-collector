@@ -7,42 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-27 01:02 JST／対象: 09/26 19:02 〜 09/27 01:02 JST（時刻はすべて日本時間）
+生成: 2026-09-27 01:20 JST／対象: 09/26 19:20 〜 09/27 01:20 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/26 21:58 | 09/27 00:39 | ⚠ 67分（22:54→00:01） |
-| FirstSquawk | 75 | 09/26 19:14 | 09/27 00:42 | ⚠ 65分（19:20→20:25） |
-| financialjuice | 18 | 09/26 19:07 | 09/27 01:01 | ⚠ 121分（19:57→21:58） |
+| FirstSquawk | 77 | 09/26 20:25 | 09/27 01:19 | ⚠ 47分（21:53→22:41） |
+| financialjuice | 17 | 09/26 19:57 | 09/27 01:01 | ⚠ 121分（19:57→21:58） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 96 行（統合前 100 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 97 行（統合前 101 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 19:07 [financialjuice] Kremlin: Putin talks Ukraine and energy collaboration in call with Serbia's Vucic
-- 09/26 19:14 [FirstSquawk] Iranian President Masoud Pezeshkian: We no longer trust talks with Washington because of its repeated attacks and sanctions after every negotiation.
-- 09/26 19:14 [FirstSquawk] Iranian President: Qatar and Pakistan are currently mediating between Iran and the United States and conveying our messages to Washington
-- 09/26 19:15 [FirstSquawk] Iranian President: Our negotiations with Washington are based on a previous memorandum of understanding, and the Americans must clarify their position on it.
-- 09/26 19:15 [FirstSquawk] Iranian President: Why and for what purpose would I meet with the American President? When we signed the agreement, they didn't implement it.
-- 09/26 19:15 [FirstSquawk] Iranian President to Al Jazeera: Closing the Strait of Hormuz is a natural step when Iran is cut off from other routes.
-- 09/26 19:15 [FirstSquawk] Iranian President: Closing the Strait of Hormuz is a natural step when Iran is cut off from other routes.
-- 09/26 19:16 [FirstSquawk] Iranian President: The Strait of Hormuz crisis can be resolved through negotiations, not by force.
-- 09/26 19:16 [FirstSquawk] Iranian President: Regional security can be achieved through cooperation among its countries, and we do not need a regional policeman.
-- 09/26 19:16 [FirstSquawk] Iranian President: The enemies' strategy is based on stirring up disputes among officials in Iran , but we are witnessing unprecedented internal cohesion.
-- 09/26 19:17 [FirstSquawk] Iranian President: I met with the Supreme Leader twice, the first time for about 3 hours and the second time for 7 and a half hours
-- 09/26 19:17 [FirstSquawk] Iranian President: The leadership structure is about setting policies, while implementation falls on us, and what we are implementing is within the framework of existing laws.
-- 09/26 19:17 [FirstSquawk] Iranian President: There is no problem on the executive side, but there are some delays in matters related to the negotiations and what America and other countries are waiting for.
-- 09/26 19:17 [FirstSquawk] Iranian President: What is happening in Yemen is not related to Iran, and we stand in solidarity with all those who are subjected to injustice.
-- 09/26 19:19 [FirstSquawk] Iranian President Masoud Pezeshkian: We no longer trust talks with Washington after repeated attacks and sanctions following every negotiation.
-- 09/26 19:19 [FirstSquawk] Iranian President: We can help resolve the dispute between SaudiArabia and Yemen, and we will not be warmongers.
-- 09/26 19:19 [FirstSquawk] Iranian President: Saudi Arabia is capable of playing a role in uniting the countries of the Islamic world
-- 09/26 19:20 [FirstSquawk] Crypto update: #Bitcoin 83982.00 +0.13% #Ether 2680.50 -0.15% #Cardano 0.2540 -0.12% #BitcoinCash 337.20 -0.69% #Litecoin 74.06 +4.1% #Stellar 0.2165 -1.19% #Dogecoin 0.0970 -0.82% #Uniswap 9.5994 -0.35% #Chainlink 14.0024 +1.27% #Polkadot …
-- 09/26 19:20 [FirstSquawk] Weekend markets update: #DAX 25490 -0.24% #DOW 51727 -0.20% #NASDAQ 30565 -0.23% #FTSE 10727 -0.14% #HANGSENG 24475 -0.13% #EURUSD 11386 -0.04% #USDJPY 15715 -0.09% #GOLD 4279 -0.14% #USOIL 9356 +1.72%
 - 09/26 19:57 [financialjuice] China foreign minister Wang Yi: Xi's U.S. visit opens 'new chapter' in China-U.S. ties - ministry statement
 - 09/26 20:25 [FirstSquawk] Eleven people were killed and 30 others injured in an explosion in the city of Dera Ismail Khan in northwestern Pakistan.
 - 09/26 20:35 [FirstSquawk] Ethiopian Army Chief of Staff: The Tigray Front is trying to push the country into a new war through its provocations.
@@ -120,3 +101,23 @@
 - 09/27 00:30 [financialjuice/FirstSquawk] UN Libya mission warns of economic fallout from ongoing closure of Sharara-Zawiya oil pipeline
 - 09/27 00:39 [DeItaone] TRUMP PREDICTS U.S.-CUBA DEAL, DOWNPLAYS MILITARY ACTION President Trump said he expects the U.S. and Cuba to reach an agreement, adding that he does not believe military action will be necessary. “I don’t think we’ll need the military,” Tr…
 - 09/27 01:01 [financialjuice] United Nations: Russian Foreign Minister Lavrov says US must end 'siege' and trade restrictions on Cuba
+- 09/27 01:03 [FirstSquawk] Lavrov: The waves of confrontation in the Gulf and the issue of the Strait of Hormuz must be resolved
+- 09/27 01:03 [FirstSquawk] Lavrov: We demand the immediate release of the Venezuelan president and his wife and that these abuses not be repeated
+- 09/27 01:03 [FirstSquawk] Lavrov: We have launched an initiative to establish peace in the Gulf region and resolve the crisis in the Strait of Hormuz
+- 09/27 01:04 [FirstSquawk] Lavrov: Targeting Iranian nuclear facilities dealt an irreparable blow to the authority of the International Atomic Energy Agency
+- 09/27 01:04 [FirstSquawk] Lavrov: Frequent armed clashes in the Gulf and the Strait of Hormuz continue, harming global navigation and trade.
+- 09/27 01:04 [FirstSquawk] Lavrov: Resolving the crisis requires building trust between the Gulf states, Arab countries, and Iran
+- 09/27 01:04 [FirstSquawk] Lavrov: Russia, along with other countries, is ready to contribute constructively to the stability of the strategically important Middle East region
+- 09/27 01:04 [FirstSquawk] Lavrov: It is time to ensure the establishment of a Palestinian state based on UN resolutions
+- 09/27 01:05 [FirstSquawk] Lavrov: The Security Council approved the peace plan for the Gaza Strip about a year ago, but peace has not yet been achieved.
+- 09/27 01:05 [FirstSquawk] Lavrov: The situation in the West Bank is deteriorating further as Israel intensifies its settlement activities.
+- 09/27 01:05 [FirstSquawk] Lavrov: The absence of a Palestinian state will leave Israel's security under constant threat
+- 09/27 01:06 [FirstSquawk] Lavrov: We demand that Washington lift the trade restrictions imposed on Cuba and remove it from the list of state sponsors of terrorism.
+- 09/27 01:06 [FirstSquawk] Lavrov: The United States has destroyed the European security system and established an anti-Russian regime in Ukraine
+- 09/27 01:07 [FirstSquawk] Lavrov: Europe is working to obstruct the peace negotiations that the US administration is interested in.
+- 09/27 01:07 [FirstSquawk] Lavrov: The West continues to supply Ukraine with weapons and assist it in directing drones and missiles against civilians.
+- 09/27 01:07 [FirstSquawk] Lavrov: EU leaders are embracing extreme anti-Russian ideas and supporting the Kyiv regime
+- 09/27 01:16 [FirstSquawk] Lavrov: Using force to kill Iranian Supreme Leader Ali Khamenei and members of his family is unacceptable
+- 09/27 01:16 [FirstSquawk] Lavrov: The US and Israeli aggression targeted civilian infrastructure and Iranian nuclear facilities under IAEA safeguards.
+- 09/27 01:16 [FirstSquawk] Lavrov: The goals of the special military operation in Ukraine will be achieved, threats to our security will be eliminated, and peace will return.
+- 09/27 01:19 [FirstSquawk] Omani Foreign Minister: I discussed with my Iranian counterpart in New York efforts to de-escalate tensions and ensure the security of navigation in the Strait of Hormuz

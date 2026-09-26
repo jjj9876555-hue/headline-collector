@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-27 01:02 JST／対象: 09/26 01:02 〜 09/27 01:02 JST（時刻はすべて日本時間）
+生成: 2026-09-27 01:20 JST／対象: 09/26 01:20 〜 09/27 01:20 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 31 | 09/26 01:20 | 09/27 00:39 | ⚠ 692分（05:35→17:07） |
-| FirstSquawk | 282 | 09/26 01:02 | 09/27 00:42 | ⚠ 379分（05:01→11:20） |
-| financialjuice | 127 | 09/26 01:03 | 09/27 01:01 | ⚠ 215分（13:00→16:36） |
+| FirstSquawk | 295 | 09/26 01:26 | 09/27 01:19 | ⚠ 379分（05:01→11:20） |
+| financialjuice | 123 | 09/26 01:34 | 09/27 01:01 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 429 行（統合前 441 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 438 行（統合前 450 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 01:02 [FirstSquawk] TRUMP: HAD A GREAT MEETING WITH XI, GREAT FOR FARMERS
-- 09/26 01:03 [FirstSquawk] TRUMP SAYS DISCUSSED IRAN WITH XI
-- 09/26 01:03 [FirstSquawk] TRUMP SAYS THINK WE'RE GOING TO DO GREAT
-- 09/26 01:03 [financialjuice] Trump: Discussed Iran with Xi
-- 09/26 01:03 [financialjuice] Trump: I think we're going to do great.
-- 09/26 01:05 [FirstSquawk] OIL EXTENDS DECLINE, BRENT TRADES BELOW $104 A BARREL
-- 09/26 01:07 [financialjuice] USTR Greer to travel to wisconsin next week for the G20 gathering.
-- 09/26 01:07 [FirstSquawk] USTR GREER: TO TRAVEL TO WISCONSIN NEXT WEEK FOR G20 GATHERING
-- 09/26 01:09 [FirstSquawk] USTR - G20 TRADE MINISTERIAL SCHEDULED FOR SEPT 29 - OCT 1
-- 09/26 01:09 [financialjuice] USTR Greer: The G20 Trade Ministerial is scheduled for September 29th - October 1st.
-- 09/26 01:11 [FirstSquawk] USTR - GREER TO TOUR ROCKWELL AUTOMATION WITH THE G20 MINISTERS
 - 09/26 01:20 [DeItaone] OIL FUTURES EXTEND LOSSES, BRENT CRUDE DOWN BY $3 A BARREL ON HOPES OF US-IRAN TRUCE
 - 09/26 01:23 [DeItaone] CHINA, U.S. AGREE TO BUILD CONSTRUCTIVE RELATIONSHIP OF STRATEGIC STABILITY BASED ON RESPECT, FAIRNESS AND RECIPROCITY - XINHUA CHINA, U.S. AGREE TO BUILD A CONSTRUCTIVE RELATIONSHIP OF STRATEGIC STABILITY -XINHUA
 - 09/26 01:23 [DeItaone] NORTH SEA OIL FREIGHT RATES CLIMB AGAIN Platts kept the October Forties de-escalator unchanged at 15 cents, while Aframax freight rates moved higher again. Meanwhile, there were no bids or offers for North Sea crude grades during the Platts…
@@ -453,3 +442,23 @@
 - 09/27 00:30 [financialjuice/FirstSquawk] UN Libya mission warns of economic fallout from ongoing closure of Sharara-Zawiya oil pipeline
 - 09/27 00:39 [DeItaone] TRUMP PREDICTS U.S.-CUBA DEAL, DOWNPLAYS MILITARY ACTION President Trump said he expects the U.S. and Cuba to reach an agreement, adding that he does not believe military action will be necessary. “I don’t think we’ll need the military,” Tr…
 - 09/27 01:01 [financialjuice] United Nations: Russian Foreign Minister Lavrov says US must end 'siege' and trade restrictions on Cuba
+- 09/27 01:03 [FirstSquawk] Lavrov: The waves of confrontation in the Gulf and the issue of the Strait of Hormuz must be resolved
+- 09/27 01:03 [FirstSquawk] Lavrov: We demand the immediate release of the Venezuelan president and his wife and that these abuses not be repeated
+- 09/27 01:03 [FirstSquawk] Lavrov: We have launched an initiative to establish peace in the Gulf region and resolve the crisis in the Strait of Hormuz
+- 09/27 01:04 [FirstSquawk] Lavrov: Targeting Iranian nuclear facilities dealt an irreparable blow to the authority of the International Atomic Energy Agency
+- 09/27 01:04 [FirstSquawk] Lavrov: Frequent armed clashes in the Gulf and the Strait of Hormuz continue, harming global navigation and trade.
+- 09/27 01:04 [FirstSquawk] Lavrov: Resolving the crisis requires building trust between the Gulf states, Arab countries, and Iran
+- 09/27 01:04 [FirstSquawk] Lavrov: Russia, along with other countries, is ready to contribute constructively to the stability of the strategically important Middle East region
+- 09/27 01:04 [FirstSquawk] Lavrov: It is time to ensure the establishment of a Palestinian state based on UN resolutions
+- 09/27 01:05 [FirstSquawk] Lavrov: The Security Council approved the peace plan for the Gaza Strip about a year ago, but peace has not yet been achieved.
+- 09/27 01:05 [FirstSquawk] Lavrov: The situation in the West Bank is deteriorating further as Israel intensifies its settlement activities.
+- 09/27 01:05 [FirstSquawk] Lavrov: The absence of a Palestinian state will leave Israel's security under constant threat
+- 09/27 01:06 [FirstSquawk] Lavrov: We demand that Washington lift the trade restrictions imposed on Cuba and remove it from the list of state sponsors of terrorism.
+- 09/27 01:06 [FirstSquawk] Lavrov: The United States has destroyed the European security system and established an anti-Russian regime in Ukraine
+- 09/27 01:07 [FirstSquawk] Lavrov: Europe is working to obstruct the peace negotiations that the US administration is interested in.
+- 09/27 01:07 [FirstSquawk] Lavrov: The West continues to supply Ukraine with weapons and assist it in directing drones and missiles against civilians.
+- 09/27 01:07 [FirstSquawk] Lavrov: EU leaders are embracing extreme anti-Russian ideas and supporting the Kyiv regime
+- 09/27 01:16 [FirstSquawk] Lavrov: Using force to kill Iranian Supreme Leader Ali Khamenei and members of his family is unacceptable
+- 09/27 01:16 [FirstSquawk] Lavrov: The US and Israeli aggression targeted civilian infrastructure and Iranian nuclear facilities under IAEA safeguards.
+- 09/27 01:16 [FirstSquawk] Lavrov: The goals of the special military operation in Ukraine will be achieved, threats to our security will be eliminated, and peace will return.
+- 09/27 01:19 [FirstSquawk] Omani Foreign Minister: I discussed with my Iranian counterpart in New York efforts to de-escalate tensions and ensure the security of navigation in the Strait of Hormuz
