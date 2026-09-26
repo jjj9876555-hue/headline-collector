@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-26 17:33 JST／対象: 09/25 17:33 〜 09/26 17:33 JST（時刻はすべて日本時間）
+生成: 2026-09-26 17:51 JST／対象: 09/25 17:51 〜 09/26 17:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 68 | 09/25 19:13 | 09/26 17:07 | ⚠ 692分（05:35→17:07） |
 | FirstSquawk | 275 | 09/25 18:36 | 09/26 17:22 | ⚠ 379分（05:01→11:20） |
-| financialjuice | 228 | 09/25 17:50 | 09/26 17:15 | ⚠ 215分（13:00→16:36） |
+| financialjuice | 227 | 09/25 18:12 | 09/26 17:15 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 548 行（統合前 574 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 547 行（統合前 573 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 17:50 [financialjuice] Iraq's Najaf airport halts all flights to and from Iran - INA
 - 09/25 18:12 [financialjuice] Russia's Gazprom resumes gas supplies to Armenia - IFX
 - 09/25 18:21 [financialjuice] Japan's PM Takaichi: Didn't discuss monetary or fiscal policy with Trump
 - 09/25 18:30 [financialjuice] Japan's PM Takaichi: Trump said in the summit meeting that the weak Yen is pressuring US trade
