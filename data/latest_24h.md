@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-26 10:15 JST／対象: 09/25 10:15 〜 09/26 10:15 JST（時刻はすべて日本時間）
+生成: 2026-09-26 10:32 JST／対象: 09/25 10:32 〜 09/26 10:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 67 | 09/25 19:13 | 09/26 05:35 | ⚠ 146分（03:09→05:35） |
-| FirstSquawk | 206 | 09/25 10:15 | 09/26 05:01 | ⚠ 155分（16:01→18:36） |
-| financialjuice | 248 | 09/25 10:31 | 09/26 10:00 | ⚠ 88分（11:11→12:40） |
+| FirstSquawk | 202 | 09/25 10:32 | 09/26 05:01 | ⚠ 155分（16:01→18:36） |
+| financialjuice | 249 | 09/25 10:32 | 09/26 10:27 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 498 行（統合前 524 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 495 行（統合前 521 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 10:15 [FirstSquawk] N. Korean official says S. Korea could become target of ‘collective punishment’ - YONHAP
-- 09/25 10:19 [FirstSquawk] Nikkei share average advances 1.05% to 66,202.32
-- 09/25 10:20 [FirstSquawk] Japan to offer ¥3.5 trillion in treasury discount bills
-- 09/25 10:25 [FirstSquawk] Alibaba shares in Hong Kong poised to open 2.3% lower
-- 09/25 10:31 [financialjuice] Tesla exec: semi truck deliveries begin this week
-- 09/25 10:31 [financialjuice] Tesla executive: DHL part of semi truck clientele
 - 09/25 10:32 [FirstSquawk] Tesla executive says Semi truck deliveries start this week
 - 09/25 10:32 [FirstSquawk] 20-year Japanese government bond yield rises to 3.955%, up 4.0 basis points
 - 09/25 10:32 [financialjuice] Tesla exec: Pepsi, US Foods are customers of semi trucks
@@ -522,3 +516,6 @@
 - 09/26 09:59 [financialjuice] Saudi civil defense: danger has passed in Khamis Mushait
 - 09/26 10:00 [financialjuice] Saudi-led coalition: monitoring missile and drone attacks on Saudi
 - 09/26 10:00 [financialjuice] Saudi-led coalition: intercepted two drones launched by Houthis towards Riyadh
+- 09/26 10:15 [financialjuice] Ecuador’s economy rises 2.1% in Q2 2026: central bank
+- 09/26 10:16 [financialjuice] South Korea president Lee calls for comprehensive trade deal between South Korea and Mexico: Blue House
+- 09/26 10:27 [financialjuice] Saudi-led coalition: intercepted ballistic missile launched by Yemen's Houthis towards Khamis Mushait

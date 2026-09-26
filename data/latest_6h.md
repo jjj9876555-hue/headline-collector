@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-26 10:15 JST／対象: 09/26 04:15 〜 09/26 10:15 JST（時刻はすべて日本時間）
+生成: 2026-09-26 10:32 JST／対象: 09/26 04:32 〜 09/26 10:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/26 05:35 | 09/26 05:35 | - |
-| FirstSquawk | 3 | 09/26 04:22 | 09/26 05:01 | 25分（04:35→05:01） |
-| financialjuice | 34 | 09/26 04:23 | 09/26 10:00 | ⚠ 65分（05:23→06:28） |
+| FirstSquawk | 2 | 09/26 04:35 | 09/26 05:01 | 25分（04:35→05:01） |
+| financialjuice | 34 | 09/26 04:51 | 09/26 10:27 | ⚠ 65分（05:23→06:28） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 38 行（統合前 39 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 37 行（統合前 38 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 04:22 [FirstSquawk] TRUMP ADMINISTRATION SETTLES WITH UNIONS OVER SHUTDOWN FIRINGS - BLAW
-- 09/26 04:23 [financialjuice] Monday FX Option Expiries
-- 09/26 04:30 [financialjuice] OpenAI: Broader Review of Model Actions Expected to Take Months
-- 09/26 04:31 [financialjuice] CFTC Positions in the Week of September 22nd 2026
 - 09/26 04:35 [FirstSquawk] OPENAI: SOME WEBSITES INVOLVED IN MISALIGNED MODELS INCIDENT ARE OPERATED BY GOVERNMENTS, UNIVERSITIES, PUBLIC AGENCIES, AND OTHERS
 - 09/26 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 1926.3 MLN NASDAQ 100: 1155.3 MLN DOW 30: 591.4 MLN MAG 7: 794.2 MLN $MACRO
 - 09/26 05:01 [FirstSquawk] NASDAQ UNOFFICIALLY CLOSES UP 139.94 POINTS, OR 0.52 PERCENT, AT 27,079.32 S&P 500 UNOFFICIALLY CLOSES UP 38.20 POINTS, OR 0.50 PERCENT, AT 7,742.33 DOW JONES UNOFFICIALLY CLOSES UP 461.86 POINTS, OR 0.90 PERCENT, AT 51,811.84
@@ -62,3 +58,6 @@
 - 09/26 09:59 [financialjuice] Saudi civil defense: danger has passed in Khamis Mushait
 - 09/26 10:00 [financialjuice] Saudi-led coalition: monitoring missile and drone attacks on Saudi
 - 09/26 10:00 [financialjuice] Saudi-led coalition: intercepted two drones launched by Houthis towards Riyadh
+- 09/26 10:15 [financialjuice] Ecuador’s economy rises 2.1% in Q2 2026: central bank
+- 09/26 10:16 [financialjuice] South Korea president Lee calls for comprehensive trade deal between South Korea and Mexico: Blue House
+- 09/26 10:27 [financialjuice] Saudi-led coalition: intercepted ballistic missile launched by Yemen's Houthis towards Khamis Mushait
