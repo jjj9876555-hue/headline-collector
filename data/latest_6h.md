@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-26 11:17 JST／対象: 09/26 05:17 〜 09/26 11:17 JST（時刻はすべて日本時間）
+生成: 2026-09-26 11:32 JST／対象: 09/26 05:32 〜 09/26 11:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/26 05:35 | 09/26 05:35 | - |
-| FirstSquawk | 0 | - | - | - |
-| financialjuice | 33 | 09/26 05:17 | 09/26 10:27 | ⚠ 65分（05:23→06:28） |
+| FirstSquawk | 19 | 09/26 11:20 | 09/26 11:32 | 2分（11:23→11:26） |
+| financialjuice | 25 | 09/26 06:28 | 09/26 10:27 | ⚠ 53分（07:35→08:28） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 34 行（統合前 35 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 45 行（統合前 46 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 05:17 [financialjuice] Stocks Rebound as Iran Diplomacy Hopes Push Oil Lower – US Market Wrap
-- 09/26 05:18 [financialjuice] US bank deposits fell to $19.568 trln from $19.658 trln in prior week.
-- 09/26 05:20 [financialjuice] ❗ Iran's Foreign Minister: Iran has conveyed to the US a concrete 7-day plan.
-- 09/26 05:21 [financialjuice] Iran's Foreign Minister: Iran will not surrender its sovereign rights under pressure.
-- 09/26 05:21 [financialjuice] Iran's Foreign Minister: The 7 days will start when the US accepts the plan.
-- 09/26 05:22 [financialjuice] Iran's Foreign Minister: The choice now rests with the US.
-- 09/26 05:22 [financialjuice] Iran's Foreign Minister: The actions that the US should take are not new, they are all already in the MOU.
-- 09/26 05:23 [financialjuice] Iran's Foreign Minister: They can accept this 7-day plan, and at the end, the Strait of Hormuz will be open.
 - 09/26 05:35 [DeItaone] OPENAI HAD IDENTIFIED ABOUT TWO DOZEN ROGUE AI INCIDENTS BY MID-SEPTEMBER, REUTERS SOURCE SAYS
 - 09/26 06:28 [financialjuice] US having positive, constructive talks with Iran via mediators on nuclear issues, US official says on 7-day plan
 - 09/26 06:50 [financialjuice] Saudi civil defense issues warning over possible threat in Jazan
@@ -58,3 +50,22 @@
 - 09/26 10:15 [financialjuice] Ecuador’s economy rises 2.1% in Q2 2026: central bank
 - 09/26 10:16 [financialjuice] South Korea president Lee calls for comprehensive trade deal between South Korea and Mexico: Blue House
 - 09/26 10:27 [financialjuice] Saudi-led coalition: intercepted ballistic missile launched by Yemen's Houthis towards Khamis Mushait
+- 09/26 11:20 [FirstSquawk] Iran offers US a seven-day plan to restore normal passage through Strait of Hormuz
+- 09/26 11:21 [FirstSquawk] US State Department spokesman tells Al Jazeera: ‘Door to diplomacy has been open’
+- 09/26 11:23 [FirstSquawk] Air defenses intercept Houthi ballistic missile fired toward Khamis Mushait, coalition says
+- 09/26 11:23 [FirstSquawk] Saudi Civil Defense declares danger cleared in Abha and Khamis Mushait
+- 09/26 11:26 [FirstSquawk] President Lee calls for South Korea-Mexico comprehensive trade agreement
+- 09/26 11:27 [FirstSquawk] Ecuador’s Q2 2026 economic growth reaches 2.1%, central bank reports
+- 09/26 11:27 [FirstSquawk] Two Houthi drones headed toward Riyadh intercepted, Saudi-led coalition says
+- 09/26 11:28 [FirstSquawk] Saudi-led coalition says missile and drone threats toward Saudi Arabia are being monitored
+- 09/26 11:29 [FirstSquawk] Ecopetrol plans to expand conventional and unconventional projects and continue offshore exploration
+- 09/26 11:29 [FirstSquawk] Berkshire Hathaway adds about 1.7 million Lennar Class A shares, filing shows
+- 09/26 11:29 [FirstSquawk] Ecopetrol plans US alliances to secure more favorable business conditions, CEO says
+- 09/26 11:30 [FirstSquawk] OpenAI confirms models accessed publicly available information on SEC. gov, Investor. gov
+- 09/26 11:30 [FirstSquawk] OpenAI: Models found to have accessed publicly available Census Bureau data during training
+- 09/26 11:30 [FirstSquawk] OpenAI: U.S. Census Bureau was proactively notified and given technical details
+- 09/26 11:31 [FirstSquawk] OpenAI says no SEC credentials were used and no accounts or nonpublic data were accessed
+- 09/26 11:31 [FirstSquawk] OpenAI says review found no Census account access or ability to modify data or systems
+- 09/26 11:31 [FirstSquawk] Trump opposes Iran ceasefire, anticipates renewed strikes after midterms, WSJ reports
+- 09/26 11:32 [FirstSquawk] Trump questions whether Tehran will comply with his demands, WSJ says
+- 09/26 11:32 [FirstSquawk] Bombardier CEO says company in advanced talks to build Saab surveillance aircraft in Canada

@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-26 11:17 JST／対象: 09/25 11:17 〜 09/26 11:17 JST（時刻はすべて日本時間）
+生成: 2026-09-26 11:32 JST／対象: 09/25 11:32 〜 09/26 11:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 67 | 09/25 19:13 | 09/26 05:35 | ⚠ 146分（03:09→05:35） |
-| FirstSquawk | 185 | 09/25 11:18 | 09/26 05:01 | ⚠ 155分（16:01→18:36） |
+| FirstSquawk | 202 | 09/25 11:42 | 09/26 11:32 | ⚠ 379分（05:01→11:20） |
 | financialjuice | 240 | 09/25 12:40 | 09/26 10:27 | ⚠ 65分（05:23→06:28） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 469 行（統合前 495 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 486 行（統合前 512 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 11:18 [FirstSquawk] Canadian dollar loses ground amid weaker oil prices and a firmer US dollar
-- 09/25 11:27 [FirstSquawk] Hong Kong gains ground on Dubai in ‘super-prime’ property sales during Iran war - scmp
 - 09/25 11:42 [FirstSquawk] North Korea faces propaganda setback after Ukraine’s POW transfer reveal - SCMP
 - 09/25 11:50 [FirstSquawk] Polo expected to strengthen back to Category 5 on Friday, NHC says
 - 09/25 11:59 [FirstSquawk] Baird lifts Charles River Laboratories price target to $334 from $291
@@ -493,3 +491,22 @@
 - 09/26 10:15 [financialjuice] Ecuador’s economy rises 2.1% in Q2 2026: central bank
 - 09/26 10:16 [financialjuice] South Korea president Lee calls for comprehensive trade deal between South Korea and Mexico: Blue House
 - 09/26 10:27 [financialjuice] Saudi-led coalition: intercepted ballistic missile launched by Yemen's Houthis towards Khamis Mushait
+- 09/26 11:20 [FirstSquawk] Iran offers US a seven-day plan to restore normal passage through Strait of Hormuz
+- 09/26 11:21 [FirstSquawk] US State Department spokesman tells Al Jazeera: ‘Door to diplomacy has been open’
+- 09/26 11:23 [FirstSquawk] Air defenses intercept Houthi ballistic missile fired toward Khamis Mushait, coalition says
+- 09/26 11:23 [FirstSquawk] Saudi Civil Defense declares danger cleared in Abha and Khamis Mushait
+- 09/26 11:26 [FirstSquawk] President Lee calls for South Korea-Mexico comprehensive trade agreement
+- 09/26 11:27 [FirstSquawk] Ecuador’s Q2 2026 economic growth reaches 2.1%, central bank reports
+- 09/26 11:27 [FirstSquawk] Two Houthi drones headed toward Riyadh intercepted, Saudi-led coalition says
+- 09/26 11:28 [FirstSquawk] Saudi-led coalition says missile and drone threats toward Saudi Arabia are being monitored
+- 09/26 11:29 [FirstSquawk] Ecopetrol plans to expand conventional and unconventional projects and continue offshore exploration
+- 09/26 11:29 [FirstSquawk] Berkshire Hathaway adds about 1.7 million Lennar Class A shares, filing shows
+- 09/26 11:29 [FirstSquawk] Ecopetrol plans US alliances to secure more favorable business conditions, CEO says
+- 09/26 11:30 [FirstSquawk] OpenAI confirms models accessed publicly available information on SEC. gov, Investor. gov
+- 09/26 11:30 [FirstSquawk] OpenAI: Models found to have accessed publicly available Census Bureau data during training
+- 09/26 11:30 [FirstSquawk] OpenAI: U.S. Census Bureau was proactively notified and given technical details
+- 09/26 11:31 [FirstSquawk] OpenAI says no SEC credentials were used and no accounts or nonpublic data were accessed
+- 09/26 11:31 [FirstSquawk] OpenAI says review found no Census account access or ability to modify data or systems
+- 09/26 11:31 [FirstSquawk] Trump opposes Iran ceasefire, anticipates renewed strikes after midterms, WSJ reports
+- 09/26 11:32 [FirstSquawk] Trump questions whether Tehran will comply with his demands, WSJ says
+- 09/26 11:32 [FirstSquawk] Bombardier CEO says company in advanced talks to build Saab surveillance aircraft in Canada
