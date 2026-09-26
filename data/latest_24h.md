@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-26 16:45 JST／対象: 09/25 16:45 〜 09/26 16:45 JST（時刻はすべて日本時間）
+生成: 2026-09-26 16:58 JST／対象: 09/25 16:58 〜 09/26 16:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 67 | 09/25 19:13 | 09/26 05:35 | ⚠ 146分（03:09→05:35） |
 | FirstSquawk | 266 | 09/25 18:36 | 09/26 16:36 | ⚠ 379分（05:01→11:20） |
-| financialjuice | 231 | 09/25 17:00 | 09/26 16:36 | ⚠ 215分（13:00→16:36） |
+| financialjuice | 233 | 09/25 17:00 | 09/26 16:56 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 541 行（統合前 567 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 543 行（統合前 569 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -565,3 +565,5 @@
 - 09/26 16:36 [FirstSquawk] Low Rhine levels are making companies confront the possibility that reliable access to the river can no longer be taken for granted
 - 09/26 16:36 [financialjuice] Ukrainian military: It hit Ilsky oil refinery in southern Russia
 - 09/26 16:36 [FirstSquawk] Iran is facing what the commander of the Revolutionary Guards Ground Forces described as a “full-scale hybrid war” spanning economic, social, cultural, political, security and military fronts, Tasnim reported.
+- 09/26 16:56 [financialjuice] Three killed in Ukraine strike on Russia's Krasnodar region: authorities
+- 09/26 16:56 [financialjuice] China's Xi arrives in Beijing after U.S. state visit: Xinhua

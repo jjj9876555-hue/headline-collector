@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-26 16:45 JST／対象: 09/26 04:45 〜 09/26 16:45 JST（時刻はすべて日本時間）
+生成: 2026-09-26 16:58 JST／対象: 09/26 04:58 〜 09/26 16:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/26 05:35 | 09/26 05:35 | - |
 | FirstSquawk | 126 | 09/26 05:01 | 09/26 16:36 | ⚠ 379分（05:01→11:20） |
-| financialjuice | 36 | 09/26 04:51 | 09/26 16:36 | ⚠ 215分（13:00→16:36） |
+| financialjuice | 37 | 09/26 05:17 | 09/26 16:56 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 163 行（統合前 164 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 164 行（統合前 165 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 1926.3 MLN NASDAQ 100: 1155.3 MLN DOW 30: 591.4 MLN MAG 7: 794.2 MLN $MACRO
 - 09/26 05:01 [FirstSquawk] NASDAQ UNOFFICIALLY CLOSES UP 139.94 POINTS, OR 0.52 PERCENT, AT 27,079.32 S&P 500 UNOFFICIALLY CLOSES UP 38.20 POINTS, OR 0.50 PERCENT, AT 7,742.33 DOW JONES UNOFFICIALLY CLOSES UP 461.86 POINTS, OR 0.90 PERCENT, AT 51,811.84
 - 09/26 05:17 [financialjuice] Stocks Rebound as Iran Diplomacy Hopes Push Oil Lower – US Market Wrap
 - 09/26 05:18 [financialjuice] US bank deposits fell to $19.568 trln from $19.658 trln in prior week.
@@ -187,3 +186,5 @@
 - 09/26 16:36 [FirstSquawk] Low Rhine levels are making companies confront the possibility that reliable access to the river can no longer be taken for granted
 - 09/26 16:36 [financialjuice] Ukrainian military: It hit Ilsky oil refinery in southern Russia
 - 09/26 16:36 [FirstSquawk] Iran is facing what the commander of the Revolutionary Guards Ground Forces described as a “full-scale hybrid war” spanning economic, social, cultural, political, security and military fronts, Tasnim reported.
+- 09/26 16:56 [financialjuice] Three killed in Ukraine strike on Russia's Krasnodar region: authorities
+- 09/26 16:56 [financialjuice] China's Xi arrives in Beijing after U.S. state visit: Xinhua
