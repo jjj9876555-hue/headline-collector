@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-27 06:32 JST／対象: 09/26 18:32 〜 09/27 06:32 JST（時刻はすべて日本時間）
+生成: 2026-09-27 06:44 JST／対象: 09/26 18:44 〜 09/27 06:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/26 21:58 | 09/27 00:39 | ⚠ 67分（22:54→00:01） |
-| FirstSquawk | 131 | 09/26 18:42 | 09/27 03:23 | ⚠ 65分（19:20→20:25） |
+| FirstSquawk | 125 | 09/26 18:53 | 09/27 03:23 | ⚠ 65分（19:20→20:25） |
 | financialjuice | 35 | 09/26 19:00 | 09/27 06:17 | ⚠ 121分（19:57→21:58） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 168 行（統合前 173 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 162 行（統合前 167 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 18:42 [FirstSquawk] Libyan National Oil Corporation: A refining unit at the Zawiya refinery has stopped operating due to the continued closure of the Sharara pipeline by armed groups.
-- 09/26 18:42 [FirstSquawk] Deputy Speaker of the Iraqi Parliament: The decision to ban Iranian civilian flights at Iraqi airports is hasty, ill-considered, and violates the constitution.
-- 09/26 18:42 [FirstSquawk] Iraqi Parliament Deputy Speaker: We are ready to hold an extraordinary session if the decision to ban Iranian flights is not reversed.
-- 09/26 18:43 [FirstSquawk] Russian authorities in Zaporizhzhia region: 3 people killed in Ukrainian attacks overnight
-- 09/26 18:43 [FirstSquawk] Settlers, protected by occupation forces, storm the village of Yabroud, north of Ramallah
-- 09/26 18:43 [FirstSquawk] Russian authorities in Luhansk: 4 killed and 5 injured in Ukrainian attacks
 - 09/26 18:53 [FirstSquawk] Yemeni sources: Airstrikes targeted Houthi military sites and vehicles in Taiz.
 - 09/26 19:00 [financialjuice] SNB chairman Schlegel: can maintain interest rates as inflation hits target
 - 09/26 19:00 [financialjuice] SNB Chairman Schlegel: current drop in Swiss franc a minor reversal to long-term currency appreciation
