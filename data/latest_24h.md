@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-26 12:33 JST／対象: 09/25 12:33 〜 09/26 12:33 JST（時刻はすべて日本時間）
+生成: 2026-09-26 12:50 JST／対象: 09/25 12:50 〜 09/26 12:50 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 67 | 09/25 19:13 | 09/26 05:35 | ⚠ 146分（03:09→05:35） |
-| FirstSquawk | 234 | 09/25 12:38 | 09/26 12:32 | ⚠ 379分（05:01→11:20） |
-| financialjuice | 240 | 09/25 12:40 | 09/26 10:27 | ⚠ 65分（05:23→06:28） |
+| FirstSquawk | 238 | 09/25 12:51 | 09/26 12:48 | ⚠ 379分（05:01→11:20） |
+| financialjuice | 239 | 09/25 13:09 | 09/26 10:27 | ⚠ 65分（05:23→06:28） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 518 行（統合前 544 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 521 行（統合前 547 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 12:38 [FirstSquawk] Thailand’s exports projected to rise through year-end, says Commerce Ministry
-- 09/25 12:40 [financialjuice] strait of hormuz commodity vessel crossings drop to single digits, preliminary shiptracking data shows
-- 09/25 12:45 [FirstSquawk] Strait of Hormuz sees commodity vessel crossings fall to single digits, preliminary data indicates
 - 09/25 12:51 [FirstSquawk] 2-year JGB yield climbs 3.0 basis points to 1.930%
 - 09/25 12:53 [FirstSquawk] Thailand’s exports could grow 15% this year, Commerce Ministry says
 - 09/25 13:00 [FirstSquawk] Mizuho Markets Cayman’s $25 million guaranteed senior notes receive ‘A’ rating from Fitch
@@ -542,3 +539,9 @@
 - 09/26 12:26 [FirstSquawk] Hurricane Polo shows Category 5 winds, NOAA aircraft measures, NHC says
 - 09/26 12:28 [FirstSquawk] Moody’s says Angola’s outlook change reflects stronger macroeconomic stability amid varying oil prices
 - 09/26 12:32 [FirstSquawk] Major Hurricane Odalys moving slowly toward the north-northeast, NHC says
+- 09/26 12:34 [FirstSquawk] Merck and Daiichi Sankyo withdraw US BLA for ifinatamab deruxtecan in extensive-stage SCLC
+- 09/26 12:34 [FirstSquawk] Merck & Co. advances two additional Phase 3 trials of ifinatamab deruxtecan in CRPC, ESCC
+- 09/26 12:40 [FirstSquawk] Cape Town offers affordable winter sun for UK travellers despite stronger rand - FT
+- 09/26 12:41 [FirstSquawk] Adult children in UK face average £300 monthly charge to live with parents - FT
+- 09/26 12:45 [FirstSquawk] S&P expects Mozambique LNG restart to reduce fiscal pressure, but benefits to come after 2030
+- 09/26 12:48 [FirstSquawk] S&P: Czech government debt to stay moderate by global standards through 2029

@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-26 12:33 JST／対象: 09/26 00:33 〜 09/26 12:33 JST（時刻はすべて日本時間）
+生成: 2026-09-26 12:50 JST／対象: 09/26 00:50 〜 09/26 12:50 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 23 | 09/26 01:20 | 09/26 05:35 | ⚠ 146分（03:09→05:35） |
-| FirstSquawk | 109 | 09/26 01:01 | 09/26 12:32 | ⚠ 379分（05:01→11:20） |
+| FirstSquawk | 115 | 09/26 01:01 | 09/26 12:48 | ⚠ 379分（05:01→11:20） |
 | financialjuice | 103 | 09/26 00:53 | 09/26 10:27 | ⚠ 65分（05:23→06:28） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 228 行（統合前 236 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 234 行（統合前 242 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -252,3 +252,9 @@
 - 09/26 12:26 [FirstSquawk] Hurricane Polo shows Category 5 winds, NOAA aircraft measures, NHC says
 - 09/26 12:28 [FirstSquawk] Moody’s says Angola’s outlook change reflects stronger macroeconomic stability amid varying oil prices
 - 09/26 12:32 [FirstSquawk] Major Hurricane Odalys moving slowly toward the north-northeast, NHC says
+- 09/26 12:34 [FirstSquawk] Merck and Daiichi Sankyo withdraw US BLA for ifinatamab deruxtecan in extensive-stage SCLC
+- 09/26 12:34 [FirstSquawk] Merck & Co. advances two additional Phase 3 trials of ifinatamab deruxtecan in CRPC, ESCC
+- 09/26 12:40 [FirstSquawk] Cape Town offers affordable winter sun for UK travellers despite stronger rand - FT
+- 09/26 12:41 [FirstSquawk] Adult children in UK face average £300 monthly charge to live with parents - FT
+- 09/26 12:45 [FirstSquawk] S&P expects Mozambique LNG restart to reduce fiscal pressure, but benefits to come after 2030
+- 09/26 12:48 [FirstSquawk] S&P: Czech government debt to stay moderate by global standards through 2029
