@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-26 20:44 JST／対象: 09/26 14:44 〜 09/26 20:44 JST（時刻はすべて日本時間）
+生成: 2026-09-26 20:58 JST／対象: 09/26 14:58 〜 09/26 20:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/26 17:07 | 09/26 17:07 | - |
-| FirstSquawk | 78 | 09/26 14:45 | 09/26 20:35 | ⚠ 65分（19:20→20:25） |
+| FirstSquawk | 82 | 09/26 14:59 | 09/26 20:55 | ⚠ 65分（19:20→20:25） |
 | financialjuice | 11 | 09/26 16:36 | 09/26 19:57 | ⚠ 104分（17:15→19:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 90 行（統合前 90 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 94 行（統合前 94 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 14:45 [FirstSquawk] South Korea records 2.87 million foreign nationals, up 5.3% from a year earlier - YONHAP
-- 09/26 14:52 [FirstSquawk] More than half of South Korea’s registered foreign nationals live in greater Seoul - YONHAP
-- 09/26 14:56 [FirstSquawk] US pressure campaign leaves Iran increasingly isolated from the rest of the world - WSJ
 - 09/26 14:59 [FirstSquawk] Trump’s $810 million in cuts sparks opposition from lawmakers - WSJ
 - 09/26 15:33 [FirstSquawk] Quds, a conservative Iranian daily affiliated with Astan Quds Razavi, the religious foundation that administers the Imam Reza shrine in Mashhad, called on Tehran to respond to restrictions imposed by neighboring countries on Iranian flights…
 - 09/26 15:33 [FirstSquawk] Iran has presented the U.S. with a seven-day plan aimed at halting months of fighting, reopening the Strait of Hormuz & restarting negotiations over Tehran’s nuclear program.
@@ -114,3 +111,10 @@
 - 09/26 20:35 [FirstSquawk] Ethiopian Army Chief of Staff: The Tigray Front is trying to push the country into a new war through its provocations.
 - 09/26 20:35 [FirstSquawk] Ethiopian Army Chief of Staff: We are exercising restraint in dealing with the Tigray Front's movements to avoid dragging the people into a pointless war.
 - 09/26 20:35 [FirstSquawk] Ethiopian Army Chief of Staff: Armed groups cannot confront Ethiopia without external support
+- 09/26 20:52 [FirstSquawk] China Foreign Minister Wang Yi: Xi's U.S. Visit Opens "New Chapter" In China-U.S. Relations - Ministry Statement
+- 09/26 20:53 [FirstSquawk] NHC: Polo moving west-northwestward as an extremely dangerous Category 5 hurricane, expected to make landfall in Baja California Sur on Monday as a powerful hurricane
+- 09/26 20:54 [FirstSquawk] Kremlin: Putin discusses Ukraine, energy cooperation in phone call with Serbia's Vucic - IFX
+- 09/26 20:55 [FirstSquawk] SNB Chairman: Looking closely at impact of summer heat on food prices
+- 09/26 20:55 [FirstSquawk] SNB Chairman: Food prices have risen, but inflation increase is due almost totally to petrol prices
+- 09/26 20:55 [FirstSquawk] SNB Chairman: Can keep interest rates on hold because inflation is on target
+- 09/26 20:55 [FirstSquawk] SNB Chairman: Current decline in Swiss franc is a small counter trend to long-term strengthening of currency

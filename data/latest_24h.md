@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-26 20:44 JST／対象: 09/25 20:44 〜 09/26 20:44 JST（時刻はすべて日本時間）
+生成: 2026-09-26 20:58 JST／対象: 09/25 20:58 〜 09/26 20:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 67 | 09/25 20:46 | 09/26 17:07 | ⚠ 692分（05:35→17:07） |
-| FirstSquawk | 297 | 09/25 20:56 | 09/26 20:35 | ⚠ 379分（05:01→11:20） |
+| DeItaone | 62 | 09/25 21:05 | 09/26 17:07 | ⚠ 692分（05:35→17:07） |
+| FirstSquawk | 302 | 09/25 21:05 | 09/26 20:55 | ⚠ 379分（05:01→11:20） |
 | financialjuice | 200 | 09/25 21:00 | 09/26 19:57 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,13 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 20:46 [DeItaone] https://t.co/DfReK0eIPk
-- 09/25 20:50 [DeItaone] $TSLA - STONEX STAYS BULLISH ON TESLA AHEAD OF Q3 DELIVERIES StoneX reiterated its Buy rating and $475 price target on Tesla ahead of next week’s Q3 delivery report. The firm expects 446,500 deliveries, down 10% year-over-year and slightly …
-- 09/25 20:55 [DeItaone] CITI SAYS BUY THE NEXT STOCK MARKET PULLBACK Citi remains overweight U.S. equities and says it would add exposure on any market dip. Despite higher oil, interest rates and Fed uncertainty, stocks have remained resilient. Citi expects AI to …
-- 09/25 20:56 [DeItaone] SAUDI ARABIA, TURKEY AND PAKISTAN PLAN DEFENSE TALKS Representatives from Saudi Arabia, Turkey and Pakistan are planning talks on supporting Riyadh under their joint defense agreement, Al Jazeera reports. The move follows new Houthi missile…
-- 09/25 20:56 [FirstSquawk] KALLAS SAYS EU STATES AGREE ON TERMS FOR EPF FUNDS FOR UKRAINE
-- 09/25 20:57 [DeItaone] BARCLAYS WARNS STOCKS ARE NEARING A BREAKING POINT Barclays warns that rising bond yields are making equities less attractive, with the extra return stocks offer over bonds near multi-decade lows. Despite resilient earnings and AI-driven gr…
-- 09/25 20:57 [FirstSquawk] KALLAS SAYS EU COUNTRIES AGREE TERMS ON €6.6B UKRAINE FUNDS
 - 09/25 21:00 [financialjuice] Secured overnight financing rate 3.88% Sept. 24th vs 3.87% Sept. 23rd
 - 09/25 21:00 [financialjuice] Microsoft abandons personal AI chatbot race with Copilot reboot.
 - 09/25 21:01 [financialjuice] Pakistan, Saudi Arabia, and Turkey condemn attacks targeting Makkah, Saudi facilities - Pakistan Foreign Ministry
@@ -566,3 +559,10 @@
 - 09/26 20:35 [FirstSquawk] Ethiopian Army Chief of Staff: The Tigray Front is trying to push the country into a new war through its provocations.
 - 09/26 20:35 [FirstSquawk] Ethiopian Army Chief of Staff: We are exercising restraint in dealing with the Tigray Front's movements to avoid dragging the people into a pointless war.
 - 09/26 20:35 [FirstSquawk] Ethiopian Army Chief of Staff: Armed groups cannot confront Ethiopia without external support
+- 09/26 20:52 [FirstSquawk] China Foreign Minister Wang Yi: Xi's U.S. Visit Opens "New Chapter" In China-U.S. Relations - Ministry Statement
+- 09/26 20:53 [FirstSquawk] NHC: Polo moving west-northwestward as an extremely dangerous Category 5 hurricane, expected to make landfall in Baja California Sur on Monday as a powerful hurricane
+- 09/26 20:54 [FirstSquawk] Kremlin: Putin discusses Ukraine, energy cooperation in phone call with Serbia's Vucic - IFX
+- 09/26 20:55 [FirstSquawk] SNB Chairman: Looking closely at impact of summer heat on food prices
+- 09/26 20:55 [FirstSquawk] SNB Chairman: Food prices have risen, but inflation increase is due almost totally to petrol prices
+- 09/26 20:55 [FirstSquawk] SNB Chairman: Can keep interest rates on hold because inflation is on target
+- 09/26 20:55 [FirstSquawk] SNB Chairman: Current decline in Swiss franc is a small counter trend to long-term strengthening of currency
