@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-26 14:58 JST／対象: 09/26 08:58 〜 09/26 14:58 JST（時刻はすべて日本時間）
+生成: 2026-09-26 15:22 JST／対象: 09/26 09:22 〜 09/26 15:22 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 104 | 09/26 11:20 | 09/26 14:56 | 9分（14:04→14:14） |
-| financialjuice | 15 | 09/26 09:14 | 09/26 13:00 | ⚠ 153分（10:27→13:00） |
+| FirstSquawk | 105 | 09/26 11:20 | 09/26 14:59 | 9分（14:04→14:14） |
+| financialjuice | 14 | 09/26 09:26 | 09/26 13:00 | ⚠ 153分（10:27→13:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 119 行（統合前 120 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 119 行（統合前 119 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 09:14 [financialjuice] OpenAI’s models accessed public US census, SEC information
 - 09/26 09:26 [financialjuice] OpenAI: models accessed publicly available info on and
 - 09/26 09:26 [financialjuice] OpenAI: Our models accessed some publicly available US Census Bureau data during internal training tasks
 - 09/26 09:27 [financialjuice] OpenAI: proactively informed US Census Bureau and provided technical details to aid review
@@ -143,3 +142,4 @@
 - 09/26 14:45 [FirstSquawk] South Korea records 2.87 million foreign nationals, up 5.3% from a year earlier - YONHAP
 - 09/26 14:52 [FirstSquawk] More than half of South Korea’s registered foreign nationals live in greater Seoul - YONHAP
 - 09/26 14:56 [FirstSquawk] US pressure campaign leaves Iran increasingly isolated from the rest of the world - WSJ
+- 09/26 14:59 [FirstSquawk] Trump’s $810 million in cuts sparks opposition from lawmakers - WSJ

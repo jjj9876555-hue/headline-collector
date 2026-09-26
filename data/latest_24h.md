@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-26 14:58 JST／対象: 09/25 14:58 〜 09/26 14:58 JST（時刻はすべて日本時間）
+生成: 2026-09-26 15:22 JST／対象: 09/25 15:22 〜 09/26 15:22 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 67 | 09/25 19:13 | 09/26 05:35 | ⚠ 146分（03:09→05:35） |
-| FirstSquawk | 263 | 09/25 15:01 | 09/26 14:56 | ⚠ 379分（05:01→11:20） |
-| financialjuice | 236 | 09/25 15:00 | 09/26 13:00 | ⚠ 153分（10:27→13:00） |
+| FirstSquawk | 255 | 09/25 15:23 | 09/26 14:59 | ⚠ 379分（05:01→11:20） |
+| financialjuice | 234 | 09/25 16:00 | 09/26 13:00 | ⚠ 153分（10:27→13:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 543 行（統合前 569 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 533 行（統合前 559 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 15:00 [financialjuice] SWEDISH PPI MOM ACTUAL 0.9% (FORECAST -, PREVIOUS 0.1%) $MACRO
-- 09/25 15:00 [financialjuice] SWEDISH PPI YOY ACTUAL 6.8% (FORECAST -, PREVIOUS 6.4%) $MACRO
-- 09/25 15:01 [FirstSquawk] SWEDEN (AUG) PPI MOM ACTUAL: 0.9% VS 0.1% PREVIOUS
-- 09/25 15:01 [FirstSquawk] SWEDEN (AUG) PPI YOY ACTUAL: 6.8% VS 6.4% PREVIOUS
-- 09/25 15:01 [FirstSquawk] GERMANY (OCT) GFK CONSUMER CONFIDENCE ACTUAL: -30.6 VS -26.6 PREVIOUS;EST -27.2
-- 09/25 15:01 [FirstSquawk] SWEDEN (AUG) HOUSEHOLD LENDING YOY ACTUAL: 3.3% VS 3.3% PREVIOUS
-- 09/25 15:04 [FirstSquawk] TotalEnergies board reiterates confidence in CEO, strategy support
-- 09/25 15:09 [FirstSquawk] Taiwan says Xi’s Taiwan remarks in Washington reflect Beijing’s continued ‘distortion of facts’
-- 09/25 15:10 [FirstSquawk] Taiwan says it will work with US, like-minded partners to protect peace and stability in Taiwan Strait
-- 09/25 15:12 [FirstSquawk] EU urges UK to raise tariffs on Chinese cars to avoid ‘Made in Europe’ barriers, FT reports
-- 09/25 15:12 [FirstSquawk] EU pushes Trump to preserve ‘free flow’ of diesel, FT reports
 - 09/25 15:23 [FirstSquawk] NIKKEI RISES 0.5%, LED BY BANK STOCKS-WSJ
 - 09/25 15:24 [FirstSquawk] Australia’s ASX 200 ends 0.4% lower at 8,665.00
 - 09/25 15:32 [FirstSquawk] ArcelorMittal expects $1 billion impairment charge for Kryvyi Rih assets after missile strikes
@@ -567,3 +556,4 @@
 - 09/26 14:45 [FirstSquawk] South Korea records 2.87 million foreign nationals, up 5.3% from a year earlier - YONHAP
 - 09/26 14:52 [FirstSquawk] More than half of South Korea’s registered foreign nationals live in greater Seoul - YONHAP
 - 09/26 14:56 [FirstSquawk] US pressure campaign leaves Iran increasingly isolated from the rest of the world - WSJ
+- 09/26 14:59 [FirstSquawk] Trump’s $810 million in cuts sparks opposition from lawmakers - WSJ
