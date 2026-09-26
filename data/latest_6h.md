@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-27 04:59 JST／対象: 09/26 22:59 〜 09/27 04:59 JST（時刻はすべて日本時間）
+生成: 2026-09-27 05:16 JST／対象: 09/26 23:16 〜 09/27 05:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/27 00:01 | 09/27 00:39 | 19分（00:19→00:39） |
-| FirstSquawk | 61 | 09/26 23:00 | 09/27 03:23 | ⚠ 52分（01:54→02:46） |
-| financialjuice | 17 | 09/26 23:00 | 09/27 04:16 | ⚠ 55分（01:01→01:57） |
+| FirstSquawk | 59 | 09/26 23:25 | 09/27 03:23 | ⚠ 52分（01:54→02:46） |
+| financialjuice | 15 | 09/26 23:24 | 09/27 04:16 | ⚠ 55分（01:01→01:57） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 76 行（統合前 81 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 72 行（統合前 77 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 23:00 [financialjuice] Iraq in discussions with US to exempt some Iraqi airports from Iranian airline restrictions: Iraqi PM office
-- 09/26 23:00 [FirstSquawk] Iraq negotiating with US over airport exemptions for Iranian airlines
-- 09/26 23:01 [FirstSquawk] Iraq: Easing restrictions on Iranian airlines would enable humanitarian flights to resume
-- 09/26 23:01 [financialjuice] Easing limits on Iranian airlines allows Iraq to restart flights for humanitarian aid: Iraqi PM office
 - 09/26 23:24 [financialjuice/FirstSquawk] Pakistan PM Sharif on Houthis attacks on Saudi Arabia: Any threat to security, sanctity of Two Holy Mosques is a red line that can't be crossed under any circumstances
 - 09/26 23:25 [FirstSquawk] Trump: US expects to make a deal with Cuba without needing the military
 - 09/26 23:25 [financialjuice] Trump: Cuba and US to strike a deal, don’t expect military involvement
