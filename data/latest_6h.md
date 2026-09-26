@@ -7,27 +7,25 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-27 05:16 JST／対象: 09/26 23:16 〜 09/27 05:16 JST（時刻はすべて日本時間）
+生成: 2026-09-27 05:32 JST／対象: 09/26 23:32 〜 09/27 05:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/27 00:01 | 09/27 00:39 | 19分（00:19→00:39） |
-| FirstSquawk | 59 | 09/26 23:25 | 09/27 03:23 | ⚠ 52分（01:54→02:46） |
-| financialjuice | 15 | 09/26 23:24 | 09/27 04:16 | ⚠ 55分（01:01→01:57） |
+| FirstSquawk | 58 | 09/26 23:37 | 09/27 03:23 | ⚠ 52分（01:54→02:46） |
+| financialjuice | 13 | 09/26 23:43 | 09/27 05:16 | ⚠ 60分（04:16→05:16） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 72 行（統合前 77 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 71 行（統合前 74 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 23:24 [financialjuice/FirstSquawk] Pakistan PM Sharif on Houthis attacks on Saudi Arabia: Any threat to security, sanctity of Two Holy Mosques is a red line that can't be crossed under any circumstances
-- 09/26 23:25 [FirstSquawk] Trump: US expects to make a deal with Cuba without needing the military
-- 09/26 23:25 [financialjuice] Trump: Cuba and US to strike a deal, don’t expect military involvement
-- 09/26 23:31 [financialjuice/FirstSquawk] Russia's Lavrov meets German counterpart on sidelines of UN General Assembly
+- 09/26 23:37 [FirstSquawk] Pakistan PM Sharif on Houthis attacks on Saudi Arabia: Any threat to security, sanctity of Two Holy Mosques is a red line that can't be crossed under any circumstances
+- 09/26 23:37 [FirstSquawk] Russia's Lavrov meets German counterpart on sidelines of UN General Assembly
 - 09/26 23:43 [FirstSquawk] Russia says its forces struck a cargo vessel in the Black Sea
 - 09/26 23:43 [financialjuice] Russian defence ministry: Russian forces strike cargo ship in Black Sea
 - 09/26 23:51 [FirstSquawk] Axios, citing US officials: Approximately 60 million barrels of oil have passed through the Strait of Hormuz in the past 72 hours
@@ -96,3 +94,4 @@
 - 09/27 03:36 [financialjuice] Libya reopens Sharara-Zawiya pipeline valve: resumes crude flow, says Libya's NOC
 - 09/27 03:38 [financialjuice] Libya's National Oil Corporation: crude output to gradually return to normal levels
 - 09/27 04:16 [financialjuice] Trump: approved new fuel economy standards ending Biden's EV mandate
+- 09/27 05:16 [financialjuice] European Commission: President von der Leyen unveils €710 million for aid to displaced persons in Africa and worldwide crisis relief

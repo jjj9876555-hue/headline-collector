@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-27 05:16 JST／対象: 09/26 17:16 〜 09/27 05:16 JST（時刻はすべて日本時間）
+生成: 2026-09-27 05:32 JST／対象: 09/26 17:32 〜 09/27 05:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/26 21:58 | 09/27 00:39 | ⚠ 67分（22:54→00:01） |
-| FirstSquawk | 151 | 09/26 17:20 | 09/27 03:23 | ⚠ 65分（19:20→20:25） |
-| financialjuice | 30 | 09/26 19:00 | 09/27 04:16 | ⚠ 121分（19:57→21:58） |
+| FirstSquawk | 147 | 09/26 17:53 | 09/27 03:23 | ⚠ 65分（19:20→20:25） |
+| financialjuice | 31 | 09/26 19:00 | 09/27 05:16 | ⚠ 121分（19:57→21:58） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 183 行（統合前 188 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 180 行（統合前 185 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 17:20 [FirstSquawk] We no longer trust talks with Washington,' Iran's Pezeshkian
-- 09/26 17:21 [FirstSquawk] Peter Thiel on Germany: It’s very important for us to find a way to turn Germany around. It’s at the heart of Europe. Europe is still at the core of Western civilization.
-- 09/26 17:21 [FirstSquawk] Libya's NOC: considering crude shipment via Melitah or Sidra ports
-- 09/26 17:22 [FirstSquawk] Iranian lawmaker Esmail Kowsari said Tehran would take steps to counter what he described as an air blockade, amid restrictions affecting Iranian flights
 - 09/26 17:53 [FirstSquawk] US and Chinese presidents agree that imposing fees on international waterways is not permissible
 - 09/26 17:53 [FirstSquawk] China, US agree to $30 billion tariff cut, AI dialogue during Xi visit
 - 09/26 17:53 [FirstSquawk] Malaysian funeral offerings head to biennale and rock performances
@@ -207,3 +203,4 @@
 - 09/27 03:36 [financialjuice] Libya reopens Sharara-Zawiya pipeline valve: resumes crude flow, says Libya's NOC
 - 09/27 03:38 [financialjuice] Libya's National Oil Corporation: crude output to gradually return to normal levels
 - 09/27 04:16 [financialjuice] Trump: approved new fuel economy standards ending Biden's EV mandate
+- 09/27 05:16 [financialjuice] European Commission: President von der Leyen unveils €710 million for aid to displaced persons in Africa and worldwide crisis relief
