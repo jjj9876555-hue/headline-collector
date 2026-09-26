@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-27 01:51 JST／対象: 09/26 01:51 〜 09/27 01:51 JST（時刻はすべて日本時間）
+生成: 2026-09-27 02:02 JST／対象: 09/26 02:02 〜 09/27 02:02 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 19 | 09/26 01:51 | 09/27 00:39 | ⚠ 692分（05:35→17:07） |
-| FirstSquawk | 302 | 09/26 01:57 | 09/27 01:50 | ⚠ 379分（05:01→11:20） |
-| financialjuice | 121 | 09/26 01:56 | 09/27 01:01 | ⚠ 215分（13:00→16:36） |
+| DeItaone | 13 | 09/26 02:02 | 09/27 00:39 | ⚠ 692分（05:35→17:07） |
+| FirstSquawk | 311 | 09/26 02:03 | 09/27 01:54 | ⚠ 379分（05:01→11:20） |
+| financialjuice | 115 | 09/26 02:02 | 09/27 01:57 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 431 行（統合前 443 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 431 行（統合前 440 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 01:51 [DeItaone] TRUMP: WANT TO KEEP BESSENT AT TREASURY
-- 09/26 01:51 [DeItaone] TRUMP ADMINISTRATION LOCKS IN $400M UKRAINE AID The Trump administration plans to obligate nearly all $400 million in military aid for Ukraine before funding expires September 30. About $307 million is already committed, with the remaining …
-- 09/26 01:56 [financialjuice] Trump: US Treasury Secretary Bessent won't be the AI Czar. He doesn't want to be the AI czar and is doing such a great job at the Treasury.
-- 09/26 01:56 [financialjuice] SK Hynix's Solidigm Eyes 2027 IPO at Potential $150 Billion Valuation
-- 09/26 01:56 [financialjuice/FirstSquawk] Trump to unveil New Government website on Tuesday, Elon Musk and NVIDIA's Huang will attend the event - Fox News.
-- 09/26 01:58 [DeItaone] *TRUMP TO UNVEIL NEW GOVERNMENT WEBSITE ON TUESDAY: FOX NEWS
-- 09/26 01:58 [DeItaone/financialjuice/FirstSquawk] PUTIN: RUSSIA WAS READY TO RESUME NEGOTIATIONS WITH KYIV AFTER THE ELECTIONS, BUT UKRAINE ATTEMPTED TO STRIKE MOSCOW AND ATTACKED POLLING STATIONS - TASS
-- 09/26 01:59 [DeItaone] XI WRAPS UP STATE VISIT TO U.S. - XINHUA
-- 09/26 02:00 [DeItaone] PUTIN: KYIV HAS BEGUN ATTACKS ON CIVILIAN INFRASTRUCTURE; NOW IT MUST FACE THE CONSEQUENCES - TASS
-- 09/26 02:01 [financialjuice] US official to Al Jazeera: Washington is in a strong position and controls the Strait of Hormuz, therefore, we are not in a hurry to reach an agreement with Iran.
-- 09/26 02:01 [financialjuice] US BAKER HUGHES TOTAL RIG COUNT ACTUAL 599 (FORECAST -, PREVIOUS 595) $MACRO
-- 09/26 02:01 [financialjuice] US BAKER HUGHES OIL RIG COUNT ACTUAL 455 (FORECAST -, PREVIOUS 452) $MACRO
 - 09/26 02:02 [DeItaone/financialjuice] PUTIN: RUSSIA IS NOT PREPARING FOR ANY HOSTILITIES WITH EUROPE - IFX
 - 09/26 02:02 [financialjuice] US Official: Approximately 40 million barrels of oil have passed through the Strait of Hormuz in the past 48 hours - Al Jazeera
 - 09/26 02:03 [financialjuice] Putin: All proposals for a peaceful settlement are on the table, but Russia still needs to consider what is in its best interest - TASS
@@ -455,3 +443,15 @@
 - 09/27 01:50 [FirstSquawk] Saudi Foreign Minister: The solution to the crisis in Sudan must be internal, in a way that enhances the security and stability of the people.
 - 09/27 01:50 [FirstSquawk] Saudi Foreign Minister: We welcome the United States' removal of Syria from the list of state sponsors of terrorism.
 - 09/27 01:50 [FirstSquawk] Saudi Foreign Minister: Risks threatening international navigation could affect the global economy
+- 09/27 01:51 [FirstSquawk] Saudi Foreign Minister: We emphasize the importance of ensuring freedom of navigation in all international waterways.
+- 09/27 01:51 [FirstSquawk] Saudi Foreign Minister: Continued illegal Israeli settlement expansion is a serious violation of international and humanitarian law
+- 09/27 01:51 [FirstSquawk] Saudi Foreign Minister: The Strait of Hormuz must return to its pre-war operation without imposing fees.
+- 09/27 01:52 [FirstSquawk] Saudi Foreign Minister: We reject any attempts at forced displacement or changing the status quo in the Palestinian territories.
+- 09/27 01:53 [FirstSquawk] Saudi Foreign Minister: We support efforts to de-escalate tensions, especially those of Qatar and Pakistan, which contribute to restoring stability.
+- 09/27 01:53 [FirstSquawk] Saudi Foreign Minister: A just and lasting peace can only be achieved by implementing the two-state solution and establishing a Palestinian state.
+- 09/27 01:53 [FirstSquawk] Saudi Foreign Minister: Continued suffering of Palestinians and obstruction of aid in Gaza is a violation of international law
+- 09/27 01:53 [FirstSquawk] Saudi Foreign Minister: We reject any violations that affect the security and stability of Syria
+- 09/27 01:53 [FirstSquawk] Saudi Foreign Minister: We affirm our full right to protect the Kingdom's security and sovereignty.
+- 09/27 01:54 [FirstSquawk] Saudi Foreign Minister: We welcome the Security Council statement condemning the Houthi attacks on the Kingdom and commercial vessels.
+- 09/27 01:54 [FirstSquawk] Saudi Foreign Minister: We support the sovereignty and security of Iraq and stress that its territory should not be used as a launching pad for attacks on neighboring countries.
+- 09/27 01:57 [financialjuice] Iraq reaches agreement with US to continue cash dollar shipments: Iraqi government

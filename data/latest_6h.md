@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-27 01:51 JST／対象: 09/26 19:51 〜 09/27 01:51 JST（時刻はすべて日本時間）
+生成: 2026-09-27 02:02 JST／対象: 09/26 20:02 〜 09/27 02:02 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/26 21:58 | 09/27 00:39 | ⚠ 67分（22:54→00:01） |
-| FirstSquawk | 88 | 09/26 20:25 | 09/27 01:50 | ⚠ 47分（21:53→22:41） |
-| financialjuice | 17 | 09/26 19:57 | 09/27 01:01 | ⚠ 121分（19:57→21:58） |
+| FirstSquawk | 99 | 09/26 20:25 | 09/27 01:54 | ⚠ 47分（21:53→22:41） |
+| financialjuice | 17 | 09/26 21:58 | 09/27 01:57 | ⚠ 55分（01:01→01:57） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 108 行（統合前 112 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 119 行（統合前 123 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 19:57 [financialjuice] China foreign minister Wang Yi: Xi's U.S. visit opens 'new chapter' in China-U.S. ties - ministry statement
 - 09/26 20:25 [FirstSquawk] Eleven people were killed and 30 others injured in an explosion in the city of Dera Ismail Khan in northwestern Pakistan.
 - 09/26 20:35 [FirstSquawk] Ethiopian Army Chief of Staff: The Tigray Front is trying to push the country into a new war through its provocations.
 - 09/26 20:35 [FirstSquawk] Ethiopian Army Chief of Staff: We are exercising restraint in dealing with the Tigray Front's movements to avoid dragging the people into a pointless war.
@@ -132,3 +131,15 @@
 - 09/27 01:50 [FirstSquawk] Saudi Foreign Minister: The solution to the crisis in Sudan must be internal, in a way that enhances the security and stability of the people.
 - 09/27 01:50 [FirstSquawk] Saudi Foreign Minister: We welcome the United States' removal of Syria from the list of state sponsors of terrorism.
 - 09/27 01:50 [FirstSquawk] Saudi Foreign Minister: Risks threatening international navigation could affect the global economy
+- 09/27 01:51 [FirstSquawk] Saudi Foreign Minister: We emphasize the importance of ensuring freedom of navigation in all international waterways.
+- 09/27 01:51 [FirstSquawk] Saudi Foreign Minister: Continued illegal Israeli settlement expansion is a serious violation of international and humanitarian law
+- 09/27 01:51 [FirstSquawk] Saudi Foreign Minister: The Strait of Hormuz must return to its pre-war operation without imposing fees.
+- 09/27 01:52 [FirstSquawk] Saudi Foreign Minister: We reject any attempts at forced displacement or changing the status quo in the Palestinian territories.
+- 09/27 01:53 [FirstSquawk] Saudi Foreign Minister: We support efforts to de-escalate tensions, especially those of Qatar and Pakistan, which contribute to restoring stability.
+- 09/27 01:53 [FirstSquawk] Saudi Foreign Minister: A just and lasting peace can only be achieved by implementing the two-state solution and establishing a Palestinian state.
+- 09/27 01:53 [FirstSquawk] Saudi Foreign Minister: Continued suffering of Palestinians and obstruction of aid in Gaza is a violation of international law
+- 09/27 01:53 [FirstSquawk] Saudi Foreign Minister: We reject any violations that affect the security and stability of Syria
+- 09/27 01:53 [FirstSquawk] Saudi Foreign Minister: We affirm our full right to protect the Kingdom's security and sovereignty.
+- 09/27 01:54 [FirstSquawk] Saudi Foreign Minister: We welcome the Security Council statement condemning the Houthi attacks on the Kingdom and commercial vessels.
+- 09/27 01:54 [FirstSquawk] Saudi Foreign Minister: We support the sovereignty and security of Iraq and stress that its territory should not be used as a launching pad for attacks on neighboring countries.
+- 09/27 01:57 [financialjuice] Iraq reaches agreement with US to continue cash dollar shipments: Iraqi government
