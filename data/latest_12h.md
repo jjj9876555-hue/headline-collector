@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-26 13:34 JST／対象: 09/26 01:34 〜 09/26 13:34 JST（時刻はすべて日本時間）
+生成: 2026-09-26 13:51 JST／対象: 09/26 01:51 〜 09/26 13:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 20 | 09/26 01:35 | 09/26 05:35 | ⚠ 146分（03:09→05:35） |
-| FirstSquawk | 119 | 09/26 01:50 | 09/26 13:31 | ⚠ 379分（05:01→11:20） |
-| financialjuice | 95 | 09/26 01:35 | 09/26 13:00 | ⚠ 153分（10:27→13:00） |
+| DeItaone | 11 | 09/26 01:51 | 09/26 05:35 | ⚠ 146分（03:09→05:35） |
+| FirstSquawk | 125 | 09/26 01:57 | 09/26 13:48 | ⚠ 379分（05:01→11:20） |
+| financialjuice | 94 | 09/26 01:56 | 09/26 13:00 | ⚠ 153分（10:27→13:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 227 行（統合前 235 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 223 行（統合前 231 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 01:35 [financialjuice] ❗ Senior Iranian Official: The Strait of Hormuz will remain closed, no nuclear talks with the United States until Iran's conditions are met.
-- 09/26 01:35 [DeItaone] SENIOR IRANIAN OFFICIAL TO REUTERS: STRAIT OF HORMUZ WILL REMAIN CLOSED, NO NUCLEAR TALKS WITH UNITED STATES UNTIL IRAN'S CONDITIONS MET
-- 09/26 01:35 [DeItaone] SENIOR IRANIAN OFFICIAL TO REUTERS: IRAN WILL MAKE NO CONCESSIONS ON ITS NUCLEAR PROGRAM
-- 09/26 01:41 [DeItaone] PALANTIR CO-FOUNDER JOE LONSDALE SAYS OPENAI, ANTHROPIC’S AI POLICY PUSH IS 'VERY DANGEROUS'
-- 09/26 01:42 [DeItaone] PALANTIR CO-FOUNDER JOE LONSDALE SAYS HE BACKS AMODEI AS THE RIGHT LEADER FOR ANTHROPIC
-- 09/26 01:43 [DeItaone] XI SAYS FUTURE OF CHINA-U.S. TIES BRIGHT -XINHUA
-- 09/26 01:46 [DeItaone] SK HYNIX'S SOLIDIGM EYES 2027 IPO THAT COULD VALUE IT AT $150 BILLION, SOURCES SAY SOLIDIGM HELD PITCH MEETINGS THIS WEEK WITH BANKS FOR ROLES IN THE IPO, SOURCES SAY
-- 09/26 01:47 [DeItaone] SOLIDIGM EYES MASSIVE $150 BILLION IPO SK Hynix’s Solidigm is considering a U.S. IPO as early as next year that could value the chipmaker at up to $150 billion, Reuters reports. The company could raise around $15 billion, potentially making…
-- 09/26 01:50 [FirstSquawk] CENTCOM: U.S. MARINES ASSIGNED TO THE 11TH MARINE EXPEDITIONARY UNIT TRAIN ABOARD USS BOXER (LHD 4) AS THE SHIP SAILS IN REGIONAL WATERS AND CONTINUES TO SUPPORT ENFORCEMENT OF THE U.S. BLOCKADE AGAINST IRAN. AS OF SEPT. 25, CENTCOM FORCES …
-- 09/26 01:50 [DeItaone] TRUMP ADMINISTRATION TO MEET SEPTEMBER 30 DEADLINE TO COMMIT TO SPENDING $400 MILLION IN UKRAINE MILITARY AID, SOURCES SAY
-- 09/26 01:50 [FirstSquawk] TRUMP: SCOTT BESSENT WILL NOT BE GOING TO BE SUPER INTELLIGENCE (SI) CZAR. NUMBER ONE, HE DOESN’T WANT TO. NUMBER TWO, HE’S DOING SUCH A GREAT JOB AT TREASURY, AND THAT’S WHERE I WANT TO KEEP HIM! WHY WOULD I EVER MAKE SUCH A CHANGE? JUST M…
-- 09/26 01:50 [DeItaone] TRUMP: SCOTT BESSENT WILL NOT BE GOING TO BE SUPER INTELLIGENCE (SI) CZAR. TRUMP: BESSENT DOING SUCH A GREAT JOB AT TREASURY
 - 09/26 01:51 [DeItaone] TRUMP: WANT TO KEEP BESSENT AT TREASURY
 - 09/26 01:51 [DeItaone] TRUMP ADMINISTRATION LOCKS IN $400M UKRAINE AID The Trump administration plans to obligate nearly all $400 million in military aid for Ukraine before funding expires September 30. About $307 million is already committed, with the remaining …
 - 09/26 01:56 [financialjuice] Trump: US Treasury Secretary Bessent won't be the AI Czar. He doesn't want to be the AI czar and is doing such a great job at the Treasury.
@@ -251,3 +239,11 @@
 - 09/26 13:25 [FirstSquawk] Pakistan military: Pakistan, Saudi Arabia and Turkey military chiefs assess regional security, threats to Saudi Arabia
 - 09/26 13:26 [FirstSquawk] Japan’s NYK Line plans hydrogen fuel cell ship for Tokyo Bay sightseeing tours - KYODO
 - 09/26 13:31 [FirstSquawk] US appeals court rejects Kalshi challenge, affirms states’ authority over event contracts - RTRS
+- 09/26 13:35 [FirstSquawk] YPF to lift average fuel prices in Argentina by 1%
+- 09/26 13:35 [FirstSquawk] Fitch rates California $1.8B general obligation bonds 'AA' with stable outlook
+- 09/26 13:38 [FirstSquawk] National Grid to deploy advanced technology across New England grid with DOE funding
+- 09/26 13:40 [FirstSquawk] Iran’s president says Tehran backs return to Islamabad understanding, honoring commitments - RTRS
+- 09/26 13:40 [FirstSquawk] Iran’s president says Tehran welcomes Xi Jinping’s support for reviving Islamabad memorandum - RTRS
+- 09/26 13:44 [FirstSquawk] EU energy chief calls for targeted energy price measures to limit impact on gas demand
+- 09/26 13:45 [FirstSquawk] Fed’s Hammack says Fed needs flexibility as economic environment limits guidance
+- 09/26 13:48 [FirstSquawk] EU energy chief calls for extra steps to support gas storage and reduce gas and power demand
