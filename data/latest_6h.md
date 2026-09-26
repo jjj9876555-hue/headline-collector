@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-27 04:34 JST／対象: 09/26 22:34 〜 09/27 04:34 JST（時刻はすべて日本時間）
+生成: 2026-09-27 04:49 JST／対象: 09/26 22:49 〜 09/27 04:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 6 | 09/26 22:53 | 09/27 00:39 | ⚠ 67分（22:54→00:01） |
-| FirstSquawk | 76 | 09/26 22:41 | 09/27 03:23 | ⚠ 52分（01:54→02:46） |
-| financialjuice | 23 | 09/26 22:47 | 09/27 04:16 | ⚠ 55分（01:01→01:57） |
+| FirstSquawk | 67 | 09/26 22:55 | 09/27 03:23 | ⚠ 52分（01:54→02:46） |
+| financialjuice | 22 | 09/26 22:50 | 09/27 04:16 | ⚠ 55分（01:01→01:57） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 100 行（統合前 105 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 90 行（統合前 95 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 22:41 [FirstSquawk] Head of the Iraqi government's Security Media Commission: The international coalition has handed over all its bases and headquarters to the Iraqi authorities.
-- 09/26 22:41 [FirstSquawk] Head of the Iraqi government's Security Media Commission: There are no combat or military forces of the international coalition in Iraq.
-- 09/26 22:41 [FirstSquawk] Head of the Iraqi government's Security Media Commission: There will be no combat or training forces from the coalition after September 30
-- 09/26 22:41 [FirstSquawk] Head of the Iraqi government's Security Media Commission: We are ready to take over and manage security after the coalition's withdrawal
-- 09/26 22:42 [FirstSquawk] Head of the Iraqi government's Security Media Authority: Relations with coalition countries will become bilateral after their withdrawal
-- 09/26 22:42 [FirstSquawk] Ukrainian Emergency Service: Two killed in Sumy city as a result of Russian guided bomb attacks on homes and civilian infrastructure
-- 09/26 22:42 [FirstSquawk] Iran's Supreme National Security Council: Claims that we will resort to a military response to restrictions imposed on our aviation are baseless.
-- 09/26 22:42 [FirstSquawk] Iran's Supreme National Security Council: We are negotiating with some concerned countries to lift the illegal air restrictions imposed on us.
-- 09/26 22:42 [FirstSquawk] Iran's National Security Council: There are non-military options to respond to the air restrictions, and we will implement them if necessary.
-- 09/26 22:47 [financialjuice] Trump on Iran: rejects their proposal
 - 09/26 22:50 [financialjuice] Trump: Taiwan mentioned with China's Xi
 - 09/26 22:50 [financialjuice] Trump: Xi grasps my stance on Taiwan
 - 09/26 22:51 [financialjuice] Trump: had a major discussion on artificial intelligence with China's Xi

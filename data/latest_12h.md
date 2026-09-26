@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-27 04:34 JST／対象: 09/26 16:34 〜 09/27 04:34 JST（時刻はすべて日本時間）
+生成: 2026-09-27 04:49 JST／対象: 09/26 16:49 〜 09/27 04:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/26 17:07 | 09/27 00:39 | ⚠ 291分（17:07→21:58） |
-| FirstSquawk | 161 | 09/26 16:34 | 09/27 03:23 | ⚠ 65分（19:20→20:25） |
-| financialjuice | 35 | 09/26 16:36 | 09/27 04:16 | ⚠ 121分（19:57→21:58） |
+| FirstSquawk | 156 | 09/26 16:59 | 09/27 03:23 | ⚠ 65分（19:20→20:25） |
+| financialjuice | 34 | 09/26 16:56 | 09/27 04:16 | ⚠ 121分（19:57→21:58） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 199 行（統合前 204 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 193 行（統合前 198 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 16:34 [FirstSquawk] Powerful storm surge hits Surf City, New Jersey, as a nor’easter pounds the coast.
-- 09/26 16:35 [FirstSquawk] Israeli airstrikes on Sajad Heights and the Thin Mountain in the Apple Region, southern Lebanon
-- 09/26 16:35 [FirstSquawk] Saudi coalition says it intercepts Houthi missiles, drones
-- 09/26 16:36 [FirstSquawk] Low Rhine levels are making companies confront the possibility that reliable access to the river can no longer be taken for granted
-- 09/26 16:36 [financialjuice] Ukrainian military: It hit Ilsky oil refinery in southern Russia
-- 09/26 16:36 [FirstSquawk] Iran is facing what the commander of the Revolutionary Guards Ground Forces described as a “full-scale hybrid war” spanning economic, social, cultural, political, security and military fronts, Tasnim reported.
 - 09/26 16:56 [financialjuice] Three killed in Ukraine strike on Russia's Krasnodar region: authorities
 - 09/26 16:56 [financialjuice] China's Xi arrives in Beijing after U.S. state visit: Xinhua
 - 09/26 16:59 [FirstSquawk] More than 45,000 students across Germany joined protests against plans for compulsory military service, with demonstrations held in over 100 cities.
