@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-26 15:40 JST／対象: 09/26 03:40 〜 09/26 15:40 JST（時刻はすべて日本時間）
+生成: 2026-09-26 15:55 JST／対象: 09/26 03:55 〜 09/26 15:55 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/26 05:35 | 09/26 05:35 | - |
-| FirstSquawk | 124 | 09/26 03:42 | 09/26 15:36 | ⚠ 379分（05:01→11:20） |
-| financialjuice | 54 | 09/26 03:41 | 09/26 13:00 | ⚠ 153分（10:27→13:00） |
+| FirstSquawk | 120 | 09/26 03:57 | 09/26 15:36 | ⚠ 379分（05:01→11:20） |
+| financialjuice | 43 | 09/26 03:57 | 09/26 13:00 | ⚠ 153分（10:27→13:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 178 行（統合前 180 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 164 行（統合前 165 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 03:41 [financialjuice] White House considers passing the diesel issue to the States, eyeing a move that falls short of an export ban - Politico.
-- 09/26 03:42 [FirstSquawk] WHITE HOUSE CONSIDERS PASSING DIESEL ISSUE TO STATES: POLITICO
-- 09/26 03:43 [financialjuice] Trump expected to announce Diesel policy soon as Friday - Politico
-- 09/26 03:46 [FirstSquawk] WHITE HOUSE COULD URGE STATES TO DROP EXCISE TAXES: POLITICO
-- 09/26 03:47 [financialjuice] Fed's Hammack: Rising bond yields driven by a number of factors
-- 09/26 03:48 [financialjuice/FirstSquawk] Brent crude futures settle at $104.32/bbl, down $2.28, 2.14%.
-- 09/26 03:48 [financialjuice] Fed's Hammack: Good economic outlook is pressuring up bond yields.
-- 09/26 03:48 [financialjuice] fed's Hammack: Some of what the bond market is doing is in reaction to the Fed and government policy.
-- 09/26 03:49 [financialjuice] Fed's Hammack: AI investment demand is competing for investors in the bond market.
-- 09/26 03:49 [financialjuice] Fed's hammock: Inflation expectations are reasonably well anchored.
-- 09/26 03:49 [financialjuice] Fed's Hammack: The US is on an unsustainable fiscal path.
-- 09/26 03:50 [financialjuice] fed's Hammack: I am mindful of financial conditions, but the Fed is the decision maker on monetary policy.
-- 09/26 03:52 [FirstSquawk] FED'S HAMMACK: NUMBER OF FACTORS DRIVING RISING BOND YIELDS
-- 09/26 03:55 [financialjuice] ECB's Vujcic: I think less about core inflation as my preferred measure than was the case before these shocks
 - 09/26 03:57 [FirstSquawk] EU ENERGY CHIEF: EU GAS STORAGE IS EXCEPTIONALLY LOW, SITUATION IS CHALLENGING BUT THERE IS NO IMMEDIATE SUPPLY RISK
 - 09/26 03:57 [financialjuice] EU Energy Chief in letter to member countries' ministers: We are facing an energy price crisis linked to a supply crisis
 - 09/26 03:58 [financialjuice] EU Energy Chief: The EU is better prepared than in winter 2021, owing to new lng capacity, renewables, and lower gas demand.
