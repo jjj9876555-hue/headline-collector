@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-26 16:58 JST／対象: 09/26 10:58 〜 09/26 16:58 JST（時刻はすべて日本時間）
+生成: 2026-09-26 17:18 JST／対象: 09/26 11:18 〜 09/26 17:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 0 | - | - | - |
-| FirstSquawk | 125 | 09/26 11:20 | 09/26 16:36 | 34分（14:59→15:33） |
-| financialjuice | 4 | 09/26 13:00 | 09/26 16:56 | ⚠ 215分（13:00→16:36） |
+| DeItaone | 1 | 09/26 17:07 | 09/26 17:07 | - |
+| FirstSquawk | 130 | 09/26 11:20 | 09/26 17:01 | 34分（14:59→15:33） |
+| financialjuice | 6 | 09/26 13:00 | 09/26 17:15 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 129 行（統合前 129 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 137 行（統合前 137 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -153,3 +153,11 @@
 - 09/26 16:36 [FirstSquawk] Iran is facing what the commander of the Revolutionary Guards Ground Forces described as a “full-scale hybrid war” spanning economic, social, cultural, political, security and military fronts, Tasnim reported.
 - 09/26 16:56 [financialjuice] Three killed in Ukraine strike on Russia's Krasnodar region: authorities
 - 09/26 16:56 [financialjuice] China's Xi arrives in Beijing after U.S. state visit: Xinhua
+- 09/26 16:59 [FirstSquawk] More than 45,000 students across Germany joined protests against plans for compulsory military service, with demonstrations held in over 100 cities.
+- 09/26 17:00 [FirstSquawk] Thailand’s capital declared all 50 of its districts disaster zones after nearly 300 millimeters of rain pounded Bangkok over about 48 hours
+- 09/26 17:00 [FirstSquawk] Xi returns to Beijing after state visit to U.S. Chinese President Xi Jinping returned to Beijing on Saturday afternoon after concluding his state visit to the United States.
+- 09/26 17:01 [FirstSquawk] GLP-1 medications continue reshaping the treatment of obesity and diabetes, researchers are also investigating whether the drugs could influence cancer risk and outcomes.
+- 09/26 17:01 [FirstSquawk] Iran’s Defense Ministry spokesman Reza Talaei-Nik said recent conflicts had become increasingly technology-driven and extended well beyond the battlefield.
+- 09/26 17:07 [DeItaone] TRUMP REJECTS IRAN’S HORMUZ PEACE PLAN, EXPECTS BOMBING COULD RESUME AFTER MIDTERMS — WSJ President Donald Trump has rejected Iran’s proposal to reopen the Strait of Hormuz and halt regional fighting within seven days, the Wall Street Journ…
+- 09/26 17:15 [financialjuice] Libya's NOC: halted one refining unit at Zawiya refinery due to ongoing forced closure of a valve on Sharara crude pipeline by armed groups
+- 09/26 17:15 [financialjuice] Libya's NOC: considering crude shipment via Melitah or Sidra ports to maintain Zawiya refinery operations

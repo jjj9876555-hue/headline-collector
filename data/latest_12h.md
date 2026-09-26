@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-26 16:58 JST／対象: 09/26 04:58 〜 09/26 16:58 JST（時刻はすべて日本時間）
+生成: 2026-09-26 17:18 JST／対象: 09/26 05:18 〜 09/26 17:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 1 | 09/26 05:35 | 09/26 05:35 | - |
-| FirstSquawk | 126 | 09/26 05:01 | 09/26 16:36 | ⚠ 379分（05:01→11:20） |
-| financialjuice | 37 | 09/26 05:17 | 09/26 16:56 | ⚠ 215分（13:00→16:36） |
+| DeItaone | 2 | 09/26 05:35 | 09/26 17:07 | ⚠ 692分（05:35→17:07） |
+| FirstSquawk | 130 | 09/26 11:20 | 09/26 17:01 | 34分（14:59→15:33） |
+| financialjuice | 37 | 09/26 05:20 | 09/26 17:15 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 164 行（統合前 165 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 169 行（統合前 170 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 05:01 [FirstSquawk] NASDAQ UNOFFICIALLY CLOSES UP 139.94 POINTS, OR 0.52 PERCENT, AT 27,079.32 S&P 500 UNOFFICIALLY CLOSES UP 38.20 POINTS, OR 0.50 PERCENT, AT 7,742.33 DOW JONES UNOFFICIALLY CLOSES UP 461.86 POINTS, OR 0.90 PERCENT, AT 51,811.84
-- 09/26 05:17 [financialjuice] Stocks Rebound as Iran Diplomacy Hopes Push Oil Lower – US Market Wrap
-- 09/26 05:18 [financialjuice] US bank deposits fell to $19.568 trln from $19.658 trln in prior week.
 - 09/26 05:20 [financialjuice] ❗ Iran's Foreign Minister: Iran has conveyed to the US a concrete 7-day plan.
 - 09/26 05:21 [financialjuice] Iran's Foreign Minister: Iran will not surrender its sovereign rights under pressure.
 - 09/26 05:21 [financialjuice] Iran's Foreign Minister: The 7 days will start when the US accepts the plan.
@@ -188,3 +185,11 @@
 - 09/26 16:36 [FirstSquawk] Iran is facing what the commander of the Revolutionary Guards Ground Forces described as a “full-scale hybrid war” spanning economic, social, cultural, political, security and military fronts, Tasnim reported.
 - 09/26 16:56 [financialjuice] Three killed in Ukraine strike on Russia's Krasnodar region: authorities
 - 09/26 16:56 [financialjuice] China's Xi arrives in Beijing after U.S. state visit: Xinhua
+- 09/26 16:59 [FirstSquawk] More than 45,000 students across Germany joined protests against plans for compulsory military service, with demonstrations held in over 100 cities.
+- 09/26 17:00 [FirstSquawk] Thailand’s capital declared all 50 of its districts disaster zones after nearly 300 millimeters of rain pounded Bangkok over about 48 hours
+- 09/26 17:00 [FirstSquawk] Xi returns to Beijing after state visit to U.S. Chinese President Xi Jinping returned to Beijing on Saturday afternoon after concluding his state visit to the United States.
+- 09/26 17:01 [FirstSquawk] GLP-1 medications continue reshaping the treatment of obesity and diabetes, researchers are also investigating whether the drugs could influence cancer risk and outcomes.
+- 09/26 17:01 [FirstSquawk] Iran’s Defense Ministry spokesman Reza Talaei-Nik said recent conflicts had become increasingly technology-driven and extended well beyond the battlefield.
+- 09/26 17:07 [DeItaone] TRUMP REJECTS IRAN’S HORMUZ PEACE PLAN, EXPECTS BOMBING COULD RESUME AFTER MIDTERMS — WSJ President Donald Trump has rejected Iran’s proposal to reopen the Strait of Hormuz and halt regional fighting within seven days, the Wall Street Journ…
+- 09/26 17:15 [financialjuice] Libya's NOC: halted one refining unit at Zawiya refinery due to ongoing forced closure of a valve on Sharara crude pipeline by armed groups
+- 09/26 17:15 [financialjuice] Libya's NOC: considering crude shipment via Melitah or Sidra ports to maintain Zawiya refinery operations
