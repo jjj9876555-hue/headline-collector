@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-26 09:42 JST／対象: 09/25 09:42 〜 09/26 09:42 JST（時刻はすべて日本時間）
+生成: 2026-09-26 09:57 JST／対象: 09/25 09:57 〜 09/26 09:57 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 67 | 09/25 19:13 | 09/26 05:35 | ⚠ 146分（03:09→05:35） |
-| FirstSquawk | 213 | 09/25 09:42 | 09/26 05:01 | ⚠ 155分（16:01→18:36） |
-| financialjuice | 244 | 09/25 10:31 | 09/26 09:28 | ⚠ 88分（11:11→12:40） |
+| FirstSquawk | 208 | 09/25 10:01 | 09/26 05:01 | ⚠ 155分（16:01→18:36） |
+| financialjuice | 245 | 09/25 10:31 | 09/26 09:53 | ⚠ 88分（11:11→12:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 501 行（統合前 527 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 497 行（統合前 523 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 09:42 [FirstSquawk] Jeff Bezos Has Poured $30 Billion of His Wealth Into Blue Origin - WSJ
-- 09/25 09:47 [FirstSquawk] Suzuki Motor to raise development efficiency 30% and production efficiency 50% as it targets shorter vehicle development times
-- 09/25 09:48 [FirstSquawk] 10-year Japanese government bond yield rises to 3.115%, up 4.0 basis points
-- 09/25 09:51 [FirstSquawk] 40-year JGB yield climbs 5.5 basis points to 4.255%
-- 09/25 09:56 [FirstSquawk] Yen extends decline as Tokyo reiterates warning while refraining from intervention - FX
 - 09/25 10:01 [FirstSquawk] 2-year Japanese government bond yield rises to 1.920%, up 2.0 basis points
 - 09/25 10:08 [FirstSquawk] Pentagon investigates how China obtained parts from F-35 stealth fighter - KYODO
 - 09/25 10:15 [FirstSquawk] N. Korean official says S. Korea could become target of ‘collective punishment’ - YONHAP
@@ -525,3 +520,4 @@
 - 09/26 09:27 [financialjuice] OpenAI: review finds no access to census accounts, key-management roles, or ability to alter census data or systems
 - 09/26 09:27 [financialjuice] Trump rejects Iran ceasefire: anticipates increased bombing after midterms - WSJ
 - 09/26 09:28 [financialjuice] Trump skeptical Tehran will comply with his demands: WSJ
+- 09/26 09:53 [financialjuice] Saudi civil defense issues warning over potential risk in Khamis Mushait
