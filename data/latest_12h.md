@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-27 02:18 JST／対象: 09/26 14:18 〜 09/27 02:18 JST（時刻はすべて日本時間）
+生成: 2026-09-27 02:33 JST／対象: 09/26 14:33 〜 09/27 02:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/26 17:07 | 09/27 00:39 | ⚠ 291分（17:07→21:58） |
-| FirstSquawk | 184 | 09/26 14:21 | 09/27 01:54 | ⚠ 65分（19:20→20:25） |
+| FirstSquawk | 180 | 09/26 14:36 | 09/27 01:54 | ⚠ 65分（19:20→20:25） |
 | financialjuice | 30 | 09/26 16:36 | 09/27 02:11 | ⚠ 121分（19:57→21:58） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 218 行（統合前 222 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 214 行（統合前 218 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 14:21 [FirstSquawk] Fed’s Hammack: Persistent high inflation complicates economic planning
-- 09/26 14:22 [FirstSquawk] Apax set to buy out Warburg Pincus from €6.5bn telecoms group Odido - FT
-- 09/26 14:25 [FirstSquawk] EU explores Norway and Canada as locations for space launches - FT
-- 09/26 14:31 [FirstSquawk] Xi concludes U.S. trip with agreement to meet Trump again in November - KYODO
 - 09/26 14:36 [FirstSquawk] Fed’s Hammack: AI’s implications for inflation remain uncertain over the long term
 - 09/26 14:39 [FirstSquawk] Chinese auto companies advance EV technology with 5-minute ultrafast charging - Kyodo
 - 09/26 14:39 [FirstSquawk] China to weigh Costa Rican and Guyanese candidates in race for first woman UN chief - SCMP
