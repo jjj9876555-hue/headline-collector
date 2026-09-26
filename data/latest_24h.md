@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-26 21:21 JST／対象: 09/25 21:21 〜 09/26 21:21 JST（時刻はすべて日本時間）
+生成: 2026-09-26 21:38 JST／対象: 09/25 21:38 〜 09/26 21:38 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 56 | 09/25 21:30 | 09/26 17:07 | ⚠ 692分（05:35→17:07） |
-| FirstSquawk | 287 | 09/25 21:32 | 09/26 21:13 | ⚠ 379分（05:01→11:20） |
-| financialjuice | 186 | 09/25 21:30 | 09/26 19:57 | ⚠ 215分（13:00→16:36） |
+| DeItaone | 54 | 09/25 21:45 | 09/26 17:07 | ⚠ 692分（05:35→17:07） |
+| FirstSquawk | 292 | 09/25 21:44 | 09/26 21:32 | ⚠ 379分（05:01→11:20） |
+| financialjuice | 183 | 09/25 21:45 | 09/26 19:57 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 514 行（統合前 531 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,13 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 21:30 [DeItaone] US AUG DURABLES ORDERS UNCHANGED (CONSENSUS -0.4%)
-- 09/25 21:30 [financialjuice] US CORE DURABLE GOODS ACTUAL 0.3% (FORECAST 0.6%, PREVIOUS 0.4%) $MACRO
-- 09/25 21:30 [financialjuice] ❗ US DURABLE GOODS ACTUAL 0% (FORECAST -0.3%, PREVIOUS 1.1%) $MACRO
-- 09/25 21:32 [FirstSquawk] US DURABLE GOODS ORDERS (M/M) AUG P: 0.0% (EST -0.3%; PREV 1.1%; PREVR 0.9%) || DURABLES EX-TRANSPORTATION (M/M): 0.3% (EST 0.6%; PREV 0.4%)
-- 09/25 21:32 [financialjuice] US Durable Goods August Report
-- 09/25 21:32 [FirstSquawk] BURNHAM PLANS FIRST BERLIN VISIT FOR TALKS WITH MERZ - POLITICO
-- 09/25 21:33 [DeItaone] YIELD ON 30-YEAR U.S. TREASURY BONDS LAST UP 1.85 BASIS POINTS AT 5.481% U.S. TREASURY YIELDS RISE AFTER DURABLE GOODS DATA; YIELD ON 10-YEAR TREASURY NOTE LAST UP 2.36 BASIS POINTS AT 5.186%
 - 09/25 21:44 [FirstSquawk] CHINA, US IN A MANAGED TRADE SITUATION, HAD PROGRESS - GREER
 - 09/25 21:45 [financialjuice] USTR Greer: China, US in a managed trade situation, had progress.
 - 09/25 21:45 [financialjuice] USTR's Greer: We will release on Monday details on negotiations with China and the US -CNBC
@@ -538,3 +531,10 @@
 - 09/26 20:55 [FirstSquawk] SNB Chairman: Current decline in Swiss franc is a small counter trend to long-term strengthening of currency
 - 09/26 21:12 [FirstSquawk] SNB’s Schlegel Watching Hot Weather Impact on Food Price Inflation Record summer heat has affected food prices in Switzerland, but has not been a major driver of rising inflation, Swiss National Bank Chairman Martin Schlegel said. He added …
 - 09/26 21:13 [FirstSquawk] Ukraine Says It Struck Ilsky Oil Refinery in Southern Russia Ukrainian forces struck the Ilsky Oil Refinery in Russia’s southern Krasnodar region during an overnight attack, Ukraine’s military said on Saturday. Ukraine’s General Staff said …
+- 09/26 21:24 [FirstSquawk] TRUMP: IRAN CAN NOT HAVE A NUCLEAR WEAPON!!! President DJT
+- 09/26 21:30 [FirstSquawk] Gold Fields said to consider its next steps after rebuff
+- 09/26 21:30 [FirstSquawk] Gold Fields said to express interest in buying Northern Star
+- 09/26 21:30 [FirstSquawk] Japan PM has phone talks with Trump after US-China summit: Kyodo
+- 09/26 21:31 [FirstSquawk] China attaches importance to US position on AI, ministry says
+- 09/26 21:31 [FirstSquawk] China respects US's use of 'super intelligence' rather than AI
+- 09/26 21:32 [FirstSquawk] China seeks deeper discussions, consensus on AI with US
