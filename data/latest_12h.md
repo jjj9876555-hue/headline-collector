@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-27 04:22 JST／対象: 09/26 16:22 〜 09/27 04:22 JST（時刻はすべて日本時間）
+生成: 2026-09-27 04:34 JST／対象: 09/26 16:34 〜 09/27 04:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/26 17:07 | 09/27 00:39 | ⚠ 291分（17:07→21:58） |
-| FirstSquawk | 162 | 09/26 16:34 | 09/27 03:23 | ⚠ 65分（19:20→20:25） |
+| FirstSquawk | 161 | 09/26 16:34 | 09/27 03:23 | ⚠ 65分（19:20→20:25） |
 | financialjuice | 35 | 09/26 16:36 | 09/27 04:16 | ⚠ 121分（19:57→21:58） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 200 行（統合前 205 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 199 行（統合前 204 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 16:34 [FirstSquawk] Russia stays in the top position among arms exporters Russia ranked second globally in arms exports, with $15 billion in deliveries, representing 12.5% of the global market.
 - 09/26 16:34 [FirstSquawk] Powerful storm surge hits Surf City, New Jersey, as a nor’easter pounds the coast.
 - 09/26 16:35 [FirstSquawk] Israeli airstrikes on Sajad Heights and the Thin Mountain in the Apple Region, southern Lebanon
 - 09/26 16:35 [FirstSquawk] Saudi coalition says it intercepts Houthi missiles, drones
