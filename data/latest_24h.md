@@ -7,56 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-26 21:38 JST／対象: 09/25 21:38 〜 09/26 21:38 JST（時刻はすべて日本時間）
+生成: 2026-09-26 21:53 JST／対象: 09/25 21:53 〜 09/26 21:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 54 | 09/25 21:45 | 09/26 17:07 | ⚠ 692分（05:35→17:07） |
-| FirstSquawk | 292 | 09/25 21:44 | 09/26 21:32 | ⚠ 379分（05:01→11:20） |
-| financialjuice | 183 | 09/25 21:45 | 09/26 19:57 | ⚠ 215分（13:00→16:36） |
+| DeItaone | 45 | 09/25 21:55 | 09/26 17:07 | ⚠ 692分（05:35→17:07） |
+| FirstSquawk | 287 | 09/25 21:58 | 09/26 21:51 | ⚠ 379分（05:01→11:20） |
+| financialjuice | 168 | 09/25 21:53 | 09/26 19:57 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 514 行（統合前 531 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 490 行（統合前 502 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 21:44 [FirstSquawk] CHINA, US IN A MANAGED TRADE SITUATION, HAD PROGRESS - GREER
-- 09/25 21:45 [financialjuice] USTR Greer: China, US in a managed trade situation, had progress.
-- 09/25 21:45 [financialjuice] USTR's Greer: We will release on Monday details on negotiations with China and the US -CNBC
-- 09/25 21:45 [DeItaone/financialjuice] USTR GREER: WE HAVE REACHED AGREEMENTS WITH CHINA ON SUBSET OF GOODS WE CAN TRADE
-- 09/25 21:45 [DeItaone] GAZPROM INCREASED GAS PRODUCTION BY 3.4% IN THE FIRST HALF OF THE YEAR, TO 216.55 BILLION CUBIC METERS - IFX
-- 09/25 21:46 [FirstSquawk] GREER SAYS WILL RELEASE DETAILS ON CHINA TRADE TALKS ON MONDAY
-- 09/25 21:46 [financialjuice] Morning Juice – US Session Prep (25th September)
-- 09/25 21:46 [FirstSquawk] US, CHINA REACHED AGREEMENT ON NUMBER OF TRADE AREAS - GREER
-- 09/25 21:46 [financialjuice] USTR Greer: The US and China reached an agreement on a number of trade areas.
-- 09/25 21:47 [DeItaone] USTR GREER: CONVERSATIONS WITH CHINA ABOUT EXPORT CONTROLS, NATIONAL SECURITY ARE OFF THE TABLE IN THESE TALKS -CNBC
-- 09/25 21:47 [financialjuice] ❗ USTR Greer: AI chip discussions are not happening in these talks.
-- 09/25 21:47 [financialjuice/FirstSquawk] Trump: Very productive meeting with China's Xi
-- 09/25 21:47 [financialjuice] Trump on Truth Social: Very productive meeting with president xi for both the US and China. tremendous things will be happening.
-- 09/25 21:47 [FirstSquawk] TRUMP: VERY PRODUCTIVE MEETING WITH PRESIDENT XI FOR BOTH
-- 09/25 21:47 [FirstSquawk/financialjuice] TRUMP: TREMENDOUS THINGS WILL BE HAPPENING
-- 09/25 21:47 [DeItaone] *CHINA, US IN A MANAGED TRADE SITUATION, HAD PROGRESS : GREER *GREER: WILL RELEASE DETAILS ON CHINA TRADE TALKS ON MONDAY
-- 09/25 21:48 [FirstSquawk] TRUMP: XI 'SEEMED TO LIKE' CALLING AI SUPER INTELLIGENCE
-- 09/25 21:48 [DeItaone] TRUMP: VERY PRODUCTIVE MEETING WITH PRESIDENT XI FOR BOTH U.S.A. AND CHINA.
-- 09/25 21:48 [FirstSquawk] TRUMP: XI SEEMED TO LIKING CALLING AI 'SUPER INTELLIGENCE'
-- 09/25 21:48 [financialjuice] USTR Greer: Conversations with China about export controls and national security are off the table in these talks - CNBC.
-- 09/25 21:49 [financialjuice/FirstSquawk] Houthis promise not to target European ships - FT
-- 09/25 21:49 [DeItaone] *GREER: AI CHIP DISCUSSIONS NOT HAPPENING IN THESE TALKS
-- 09/25 21:50 [DeItaone/financialjuice] USTR GREER: TRUMP IS COMFORTABLE WITH WHERE WE ARE ON CANADA - CNBC
-- 09/25 21:50 [DeItaone] USTR GREER: THERE IS STILL A LOT OF STRONG TRADE WITH CANADA USTR GREER: CANADIANS WANT A DEAL
-- 09/25 21:51 [financialjuice] USTR Greer: There is still a lot of strong trade with Canada. The US is still getting oil, gas, and Potash it needs from Canada.
-- 09/25 21:51 [financialjuice] USTR Greer: Canadians want a deal
-- 09/25 21:52 [financialjuice] USTR Greer: We are in talks with Mexico about trade deficit.
-- 09/25 21:52 [FirstSquawk] JAPAN FINANCE MINISTER KATAYAMA, US TREASURY SECRETARY BESSETT HOLD ONLINE TALK - KYODO
-- 09/25 21:52 [FirstSquawk] GREER SAYS TRUMP COMFORTABLE ON WHERE US IS ON CANADA
-- 09/25 21:52 [FirstSquawk] GREER SAYS US STILL GETTING OIL, GAS, POTASH IT NEEDS FROM CANADA
-- 09/25 21:52 [DeItaone] *GREER: US, CANADA HAVE GOOD CONVERSATIONS, NO URGENCY
-- 09/25 21:52 [FirstSquawk] GREER SAYS US, CANADA HAVE GOOD CONVERSATIONS, NO URGENCY
-- 09/25 21:52 [FirstSquawk] GREER SAYS IN TALKS WITH MEXICO TO MANAGE EXPLODING TRADE DEFICIT
 - 09/25 21:53 [financialjuice] Gas supplies to China via the Power of Siberia Pipeline in H1 of 2026 exceeded the level of the first half of 2025 - Tass.
 - 09/25 21:53 [financialjuice] Japanese and US Finance Chiefs discuss yen depreciation - Kyodo.
 - 09/25 21:54 [financialjuice] USTR Greer ends CNBC interview.
@@ -538,3 +505,12 @@
 - 09/26 21:31 [FirstSquawk] China attaches importance to US position on AI, ministry says
 - 09/26 21:31 [FirstSquawk] China respects US's use of 'super intelligence' rather than AI
 - 09/26 21:32 [FirstSquawk] China seeks deeper discussions, consensus on AI with US
+- 09/26 21:39 [FirstSquawk] Gold Fields Eyes Northern Star Acquisition Gold Fields Ltd. has expressed interest in acquiring Northern Star Resources Ltd., according to people familiar with the matter. Northern Star rebuffed the approach, while Gold Fields is considerin…
+- 09/26 21:40 [FirstSquawk] UBS Leaving Switzerland Would Be More Expensive, Swiss Minister Says Swiss Finance Minister Karin Keller-Sutter said leaving Switzerland would be more expensive and legally complex for UBS Group AG, as the bank opposes planned stricter capi…
+- 09/26 21:41 [FirstSquawk] China to Buy 10 Million Tons of US Coal in 2027, 2028 China agreed to import at least 10 million metric tons of coal from the US in both 2027 and 2028, according to the White House, as the two countries move to ease trade tensions. The agre…
+- 09/26 21:42 [FirstSquawk] Iraq in Talks With US Over Exemption From Iranian Airlines Ban Iraq is in direct talks with the US to exempt certain Iraqi airports from measures imposed on Iranian airlines by the US Treasury, according to the prime minister’s office. Iraq…
+- 09/26 21:44 [FirstSquawk] White House Signals It Won’t Ban Diesel Exports, Senator Says The White House has assured Senator Ted Cruz that the Trump administration will not ban US diesel exports, according to people familiar with the matter, as officials weigh measur…
+- 09/26 21:45 [FirstSquawk] OpenAI Systems Meddled With US Government Sites After Going Rogue OpenAI’s AI agents interacted with websites operated by the US Education and Commerce departments and the SEC in unexpected ways, according to security researchers and a pers…
+- 09/26 21:49 [FirstSquawk] Houthis Attack Riyadh Again as Trump Rejects Ceasefire Offer Yemen’s Houthis launched fresh attacks toward Riyadh, with Saudi air defenses intercepting two drones and a ballistic missile targeting the kingdom, as tensions between the US and…
+- 09/26 21:50 [FirstSquawk] 5.2 MAG. EARTHQUAKE 79 KM NE OF TADINE NEW CALEDONIA - USGS
+- 09/26 21:51 [FirstSquawk] Iran Says Flights to Turkey, China, Pakistan Operational Flights from Iran to Turkey, Malaysia, China and Pakistan remain operational, while services to the UAE, Iraq, Oman and Georgia remain canceled, IRIB reported. Flights to Vietnam and …
