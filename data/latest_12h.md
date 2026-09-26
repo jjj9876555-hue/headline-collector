@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-26 15:55 JST／対象: 09/26 03:55 〜 09/26 15:55 JST（時刻はすべて日本時間）
+生成: 2026-09-26 16:16 JST／対象: 09/26 04:16 〜 09/26 16:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/26 05:35 | 09/26 05:35 | - |
-| FirstSquawk | 120 | 09/26 03:57 | 09/26 15:36 | ⚠ 379分（05:01→11:20） |
-| financialjuice | 43 | 09/26 03:57 | 09/26 13:00 | ⚠ 153分（10:27→13:00） |
+| FirstSquawk | 122 | 09/26 04:22 | 09/26 16:01 | ⚠ 379分（05:01→11:20） |
+| financialjuice | 38 | 09/26 04:23 | 09/26 13:00 | ⚠ 153分（10:27→13:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 164 行（統合前 165 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 161 行（統合前 162 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 03:57 [FirstSquawk] EU ENERGY CHIEF: EU GAS STORAGE IS EXCEPTIONALLY LOW, SITUATION IS CHALLENGING BUT THERE IS NO IMMEDIATE SUPPLY RISK
-- 09/26 03:57 [financialjuice] EU Energy Chief in letter to member countries' ministers: We are facing an energy price crisis linked to a supply crisis
-- 09/26 03:58 [financialjuice] EU Energy Chief: The EU is better prepared than in winter 2021, owing to new lng capacity, renewables, and lower gas demand.
-- 09/26 03:59 [financialjuice] EU Energy chief: I invite you to consider extra measures to sustain gas storage injections or reduce gas and power demand.
-- 09/26 04:02 [financialjuice] Iran's President: I welcomes Chinese President Xi's support for the return to the Islamabad Memorandum of Understanding.
-- 09/26 04:02 [FirstSquawk] IRAN'S PRESIDENT SAYS TEHRAN AGREES ON NEED TO RETURN TO ISLAMABAD UNDERSTANDING, HONOR COMMITMENTS
-- 09/26 04:07 [financialjuice] Week Ahead: Economic Indicators 28th September – 2nd October (US)
-- 09/26 04:13 [FirstSquawk] IRAN'S PRESIDENT: WELCOMES XI’S SUPPORT FOR RETURN TO ISLAMABAD MOU
 - 09/26 04:22 [FirstSquawk] TRUMP ADMINISTRATION SETTLES WITH UNIONS OVER SHUTDOWN FIRINGS - BLAW
 - 09/26 04:23 [financialjuice] Monday FX Option Expiries
 - 09/26 04:30 [financialjuice] OpenAI: Broader Review of Model Actions Expected to Take Months
@@ -188,3 +180,8 @@
 - 09/26 15:35 [FirstSquawk] US and China agree on tariff relief for $30bn of nonsensitive goods each
 - 09/26 15:35 [FirstSquawk] A bipartisan group of 14 U.S. senators urged Trump to withdraw Putin’s invitation to the G20 summit in Miami, arguing that his participation would legitimize Russia’s war against Ukraine.
 - 09/26 15:36 [FirstSquawk] China agreed to import at least 10 million metric tons of coal from the US next year and again in 2028
+- 09/26 16:00 [FirstSquawk] French Presidential Candidate Jean-Luc Mélenchon: Macron wants to send military assets to a theater of war in Saudi Arabia. What for? What would we do if we were attacked? In the end, even if we did not want it, we would become belligerents…
+- 09/26 16:00 [FirstSquawk] Vietnam to revise food safety law, reining in delivery apps like Shopee, Grab
+- 09/26 16:01 [FirstSquawk] Iraq is in direct talks with the United States to exempt some Iraqi airports from US Treasury measures affecting flights by Iranian airlines to regional airports, the Iraqi prime minister’s media office said on Saturday.
+- 09/26 16:01 [FirstSquawk] Peter Thiel: I’m not saying Pope Leo was an agent of the Communists, but he was at least acting as a useful idiot for the CCP.
+- 09/26 16:01 [FirstSquawk] OpenAI systems go rogue and meddle with US state sites

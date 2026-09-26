@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-26 15:55 JST／対象: 09/25 15:55 〜 09/26 15:55 JST（時刻はすべて日本時間）
+生成: 2026-09-26 16:16 JST／対象: 09/25 16:16 〜 09/26 16:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 67 | 09/25 19:13 | 09/26 05:35 | ⚠ 146分（03:09→05:35） |
-| FirstSquawk | 257 | 09/25 16:01 | 09/26 15:36 | ⚠ 379分（05:01→11:20） |
-| financialjuice | 234 | 09/25 16:00 | 09/26 13:00 | ⚠ 153分（10:27→13:00） |
+| FirstSquawk | 260 | 09/25 18:36 | 09/26 16:01 | ⚠ 379分（05:01→11:20） |
+| financialjuice | 230 | 09/25 17:00 | 09/26 13:00 | ⚠ 153分（10:27→13:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 535 行（統合前 561 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 534 行（統合前 560 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 16:00 [financialjuice] SPANISH GDP QOQ ACTUAL 0.7% (FORECAST 0.7%, PREVIOUS 0.7%) $MACRO
-- 09/25 16:00 [financialjuice] SPANISH GDP YOY ACTUAL 2.6% (FORECAST 2.7%, PREVIOUS 2.7%) $MACRO
-- 09/25 16:01 [FirstSquawk] SPAIN (Q2) GDP YOY YOY ACTUAL: 2.6% VS 2.7% PREVIOUS;EST 2.7%
-- 09/25 16:01 [FirstSquawk] SPAIN (JUL) HOME SALES YOY ACTUAL: -5.1% VS 1.6% PREVIOUS
-- 09/25 16:01 [financialjuice] Currency Strength Chart: Strongest: GBP, AUD, NZD, NZD, GBP, USD, CAD, CHF - Weakest
-- 09/25 16:05 [financialjuice] Trump: China's Xi and I have forged a truly great friendship
 - 09/25 17:00 [financialjuice] EUROZONE LOANS TO HOUSEHOLDS ACTUAL 3.1% (FORECAST -, PREVIOUS 3.1%) $MACRO
 - 09/25 17:00 [financialjuice] EUROZONE LOANS TO NON FINANCIAL FIRMS ACTUAL 4.2% (FORECAST -, PREVIOUS 4.4%) $MACRO
 - 09/25 17:05 [financialjuice] Egypt, Iran foreign ministers discuss proposals for deal.
@@ -559,3 +553,8 @@
 - 09/26 15:35 [FirstSquawk] US and China agree on tariff relief for $30bn of nonsensitive goods each
 - 09/26 15:35 [FirstSquawk] A bipartisan group of 14 U.S. senators urged Trump to withdraw Putin’s invitation to the G20 summit in Miami, arguing that his participation would legitimize Russia’s war against Ukraine.
 - 09/26 15:36 [FirstSquawk] China agreed to import at least 10 million metric tons of coal from the US next year and again in 2028
+- 09/26 16:00 [FirstSquawk] French Presidential Candidate Jean-Luc Mélenchon: Macron wants to send military assets to a theater of war in Saudi Arabia. What for? What would we do if we were attacked? In the end, even if we did not want it, we would become belligerents…
+- 09/26 16:00 [FirstSquawk] Vietnam to revise food safety law, reining in delivery apps like Shopee, Grab
+- 09/26 16:01 [FirstSquawk] Iraq is in direct talks with the United States to exempt some Iraqi airports from US Treasury measures affecting flights by Iranian airlines to regional airports, the Iraqi prime minister’s media office said on Saturday.
+- 09/26 16:01 [FirstSquawk] Peter Thiel: I’m not saying Pope Leo was an agent of the Communists, but he was at least acting as a useful idiot for the CCP.
+- 09/26 16:01 [FirstSquawk] OpenAI systems go rogue and meddle with US state sites

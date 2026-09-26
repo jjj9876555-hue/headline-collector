@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-26 15:55 JST／対象: 09/26 09:55 〜 09/26 15:55 JST（時刻はすべて日本時間）
+生成: 2026-09-26 16:16 JST／対象: 09/26 10:16 〜 09/26 16:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 114 | 09/26 11:20 | 09/26 15:36 | 34分（14:59→15:33） |
-| financialjuice | 7 | 09/26 09:59 | 09/26 13:00 | ⚠ 153分（10:27→13:00） |
+| FirstSquawk | 119 | 09/26 11:20 | 09/26 16:01 | 34分（14:59→15:33） |
+| financialjuice | 2 | 09/26 10:27 | 09/26 13:00 | ⚠ 153分（10:27→13:00） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 121 行（統合前 121 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,11 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 09:59 [financialjuice] Saudi civil defense: danger has passed in Khamis Mushait
-- 09/26 10:00 [financialjuice] Saudi-led coalition: monitoring missile and drone attacks on Saudi
-- 09/26 10:00 [financialjuice] Saudi-led coalition: intercepted two drones launched by Houthis towards Riyadh
-- 09/26 10:15 [financialjuice] Ecuador’s economy rises 2.1% in Q2 2026: central bank
-- 09/26 10:16 [financialjuice] South Korea president Lee calls for comprehensive trade deal between South Korea and Mexico: Blue House
 - 09/26 10:27 [financialjuice] Saudi-led coalition: intercepted ballistic missile launched by Yemen's Houthis towards Khamis Mushait
 - 09/26 11:20 [FirstSquawk] Iran offers US a seven-day plan to restore normal passage through Strait of Hormuz
 - 09/26 11:21 [FirstSquawk] US State Department spokesman tells Al Jazeera: ‘Door to diplomacy has been open’
@@ -145,3 +140,8 @@
 - 09/26 15:35 [FirstSquawk] US and China agree on tariff relief for $30bn of nonsensitive goods each
 - 09/26 15:35 [FirstSquawk] A bipartisan group of 14 U.S. senators urged Trump to withdraw Putin’s invitation to the G20 summit in Miami, arguing that his participation would legitimize Russia’s war against Ukraine.
 - 09/26 15:36 [FirstSquawk] China agreed to import at least 10 million metric tons of coal from the US next year and again in 2028
+- 09/26 16:00 [FirstSquawk] French Presidential Candidate Jean-Luc Mélenchon: Macron wants to send military assets to a theater of war in Saudi Arabia. What for? What would we do if we were attacked? In the end, even if we did not want it, we would become belligerents…
+- 09/26 16:00 [FirstSquawk] Vietnam to revise food safety law, reining in delivery apps like Shopee, Grab
+- 09/26 16:01 [FirstSquawk] Iraq is in direct talks with the United States to exempt some Iraqi airports from US Treasury measures affecting flights by Iranian airlines to regional airports, the Iraqi prime minister’s media office said on Saturday.
+- 09/26 16:01 [FirstSquawk] Peter Thiel: I’m not saying Pope Leo was an agent of the Communists, but he was at least acting as a useful idiot for the CCP.
+- 09/26 16:01 [FirstSquawk] OpenAI systems go rogue and meddle with US state sites
