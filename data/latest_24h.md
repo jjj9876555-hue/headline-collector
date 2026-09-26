@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-26 12:50 JST／対象: 09/25 12:50 〜 09/26 12:50 JST（時刻はすべて日本時間）
+生成: 2026-09-26 13:02 JST／対象: 09/25 13:02 〜 09/26 13:02 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 67 | 09/25 19:13 | 09/26 05:35 | ⚠ 146分（03:09→05:35） |
-| FirstSquawk | 238 | 09/25 12:51 | 09/26 12:48 | ⚠ 379分（05:01→11:20） |
-| financialjuice | 239 | 09/25 13:09 | 09/26 10:27 | ⚠ 65分（05:23→06:28） |
+| FirstSquawk | 241 | 09/25 13:05 | 09/26 12:58 | ⚠ 379分（05:01→11:20） |
+| financialjuice | 240 | 09/25 13:09 | 09/26 13:00 | ⚠ 153分（10:27→13:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 521 行（統合前 547 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 525 行（統合前 551 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 12:51 [FirstSquawk] 2-year JGB yield climbs 3.0 basis points to 1.930%
-- 09/25 12:53 [FirstSquawk] Thailand’s exports could grow 15% this year, Commerce Ministry says
-- 09/25 13:00 [FirstSquawk] Mizuho Markets Cayman’s $25 million guaranteed senior notes receive ‘A’ rating from Fitch
 - 09/25 13:05 [FirstSquawk] Jefferies lifts GoDaddy price target to $100 from $85
 - 09/25 13:09 [financialjuice] EU urges UK to increase tariffs on Chinese cars to avoid ‘made in Europe’ barriers: FT
 - 09/25 13:11 [FirstSquawk] EU calls on UK to increase tariffs on Chinese cars to prevent ‘Made in Europe’ barriers - FT
@@ -545,3 +542,10 @@
 - 09/26 12:41 [FirstSquawk] Adult children in UK face average £300 monthly charge to live with parents - FT
 - 09/26 12:45 [FirstSquawk] S&P expects Mozambique LNG restart to reduce fiscal pressure, but benefits to come after 2030
 - 09/26 12:48 [FirstSquawk] S&P: Czech government debt to stay moderate by global standards through 2029
+- 09/26 12:51 [FirstSquawk] China researchers warn offshore wind farms could disrupt radar, create ‘ghost’ targets - SCMP
+- 09/26 12:51 [FirstSquawk] China upgrades mobile payments to make spending easier for foreigners ahead of Apec - SCMP
+- 09/26 12:52 [FirstSquawk] Thailand steps up efforts to curb bad behaviour among foreign tourists - SCMP
+- 09/26 12:56 [FirstSquawk] S&P: Oman stands out among Gulf neighbors as its hydrocarbon exports do not rely on Strait of Hormuz
+- 09/26 12:57 [FirstSquawk] S&P: Ghana ratings affirmed at 'B-/B', outlook unchanged at stable
+- 09/26 12:58 [FirstSquawk] S&P sees Oman remaining resilient despite regional geopolitical tensions
+- 09/26 13:00 [financialjuice] Saudi civil defense: danger has passed in Abha
