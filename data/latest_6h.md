@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-26 12:16 JST／対象: 09/26 06:16 〜 09/26 12:16 JST（時刻はすべて日本時間）
+生成: 2026-09-26 12:33 JST／対象: 09/26 06:33 〜 09/26 12:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 49 | 09/26 11:20 | 09/26 12:10 | 4分（12:04→12:08） |
-| financialjuice | 25 | 09/26 06:28 | 09/26 10:27 | ⚠ 53分（07:35→08:28） |
+| FirstSquawk | 56 | 09/26 11:20 | 09/26 12:32 | 6分（12:10→12:17） |
+| financialjuice | 24 | 09/26 06:50 | 09/26 10:27 | ⚠ 53分（07:35→08:28） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 74 行（統合前 75 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 80 行（統合前 81 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 06:28 [financialjuice] US having positive, constructive talks with Iran via mediators on nuclear issues, US official says on 7-day plan
 - 09/26 06:50 [financialjuice] Saudi civil defense issues warning over possible threat in Jazan
 - 09/26 06:53 [financialjuice] Saudi civil defense: danger has passed in Jazan
 - 09/26 06:55 [financialjuice] US Supreme Court blocks Missouri for third time from using GOP-drawn congressional map in November midterm elections
@@ -98,3 +97,10 @@
 - 09/26 12:10 [FirstSquawk] NYSE American notifies Southland of listing standards noncompliance
 - 09/26 12:10 [FirstSquawk] Health Canada: 11 insulin product lots recalled after shipments to about 80 pharmacies, clinics and hospitals
 - 09/26 12:10 [FirstSquawk] Magnitude 7.0 earthquake hits Tadine, New Caledonia region, USGS says
+- 09/26 12:17 [FirstSquawk] Bulgaria’s outlook revision reflects reduced political uncertainty after April general election, Fitch says
+- 09/26 12:20 [FirstSquawk] Bulgaria’s outlook raised to positive by Fitch; IDR affirmed at ‘BBB+’
+- 09/26 12:23 [FirstSquawk] US FDA: Boston Scientific will stop selling Imager II Angiographic Catheter product line
+- 09/26 12:23 [FirstSquawk] Australia to impose tougher social media penalties over underage access and online harms - NA
+- 09/26 12:26 [FirstSquawk] Hurricane Polo shows Category 5 winds, NOAA aircraft measures, NHC says
+- 09/26 12:28 [FirstSquawk] Moody’s says Angola’s outlook change reflects stronger macroeconomic stability amid varying oil prices
+- 09/26 12:32 [FirstSquawk] Major Hurricane Odalys moving slowly toward the north-northeast, NHC says

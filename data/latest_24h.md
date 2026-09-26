@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-26 12:16 JST／対象: 09/25 12:16 〜 09/26 12:16 JST（時刻はすべて日本時間）
+生成: 2026-09-26 12:33 JST／対象: 09/25 12:33 〜 09/26 12:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 67 | 09/25 19:13 | 09/26 05:35 | ⚠ 146分（03:09→05:35） |
-| FirstSquawk | 227 | 09/25 12:38 | 09/26 12:10 | ⚠ 379分（05:01→11:20） |
+| FirstSquawk | 234 | 09/25 12:38 | 09/26 12:32 | ⚠ 379分（05:01→11:20） |
 | financialjuice | 240 | 09/25 12:40 | 09/26 10:27 | ⚠ 65分（05:23→06:28） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 511 行（統合前 537 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 518 行（統合前 544 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -535,3 +535,10 @@
 - 09/26 12:10 [FirstSquawk] NYSE American notifies Southland of listing standards noncompliance
 - 09/26 12:10 [FirstSquawk] Health Canada: 11 insulin product lots recalled after shipments to about 80 pharmacies, clinics and hospitals
 - 09/26 12:10 [FirstSquawk] Magnitude 7.0 earthquake hits Tadine, New Caledonia region, USGS says
+- 09/26 12:17 [FirstSquawk] Bulgaria’s outlook revision reflects reduced political uncertainty after April general election, Fitch says
+- 09/26 12:20 [FirstSquawk] Bulgaria’s outlook raised to positive by Fitch; IDR affirmed at ‘BBB+’
+- 09/26 12:23 [FirstSquawk] US FDA: Boston Scientific will stop selling Imager II Angiographic Catheter product line
+- 09/26 12:23 [FirstSquawk] Australia to impose tougher social media penalties over underage access and online harms - NA
+- 09/26 12:26 [FirstSquawk] Hurricane Polo shows Category 5 winds, NOAA aircraft measures, NHC says
+- 09/26 12:28 [FirstSquawk] Moody’s says Angola’s outlook change reflects stronger macroeconomic stability amid varying oil prices
+- 09/26 12:32 [FirstSquawk] Major Hurricane Odalys moving slowly toward the north-northeast, NHC says
