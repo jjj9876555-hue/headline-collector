@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-27 04:49 JST／対象: 09/26 22:49 〜 09/27 04:49 JST（時刻はすべて日本時間）
+生成: 2026-09-27 04:59 JST／対象: 09/26 22:59 〜 09/27 04:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 6 | 09/26 22:53 | 09/27 00:39 | ⚠ 67分（22:54→00:01） |
-| FirstSquawk | 67 | 09/26 22:55 | 09/27 03:23 | ⚠ 52分（01:54→02:46） |
-| financialjuice | 22 | 09/26 22:50 | 09/27 04:16 | ⚠ 55分（01:01→01:57） |
+| DeItaone | 3 | 09/27 00:01 | 09/27 00:39 | 19分（00:19→00:39） |
+| FirstSquawk | 61 | 09/26 23:00 | 09/27 03:23 | ⚠ 52分（01:54→02:46） |
+| financialjuice | 17 | 09/26 23:00 | 09/27 04:16 | ⚠ 55分（01:01→01:57） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 90 行（統合前 95 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 76 行（統合前 81 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 22:50 [financialjuice] Trump: Taiwan mentioned with China's Xi
-- 09/26 22:50 [financialjuice] Trump: Xi grasps my stance on Taiwan
-- 09/26 22:51 [financialjuice] Trump: had a major discussion on artificial intelligence with China's Xi
-- 09/26 22:53 [DeItaone] TRUMP ON IRAN: I REJECT THEIR PROPOSAL
-- 09/26 22:53 [financialjuice] Trump: we want to open up Cuba to Americans
-- 09/26 22:53 [DeItaone] TRUMP: HAD A BIG TALK ON AI WITH CHINA'S XI
-- 09/26 22:54 [DeItaone] TRUMP: WE WANT TO OPEN CUBA UP TO OUR PEOPLE
-- 09/26 22:55 [FirstSquawk] Trump says he has rejected Iran’s proposal
-- 09/26 22:55 [FirstSquawk] Trump: Taiwan proposed meeting with China’s Xi
-- 09/26 22:55 [FirstSquawk] Trump: China’s Xi understands my stance on Taiwan
-- 09/26 22:55 [FirstSquawk] Trump: Held extensive AI talks with China’s Xi
-- 09/26 22:55 [financialjuice] Trump: spoke with Venezuela's Rodriguez on elections
-- 09/26 22:56 [FirstSquawk] Trump: We want Americans to have access to Cuba
-- 09/26 22:56 [FirstSquawk] Trump says elections were discussed with Venezuela’s Rodríguez
 - 09/26 23:00 [financialjuice] Iraq in discussions with US to exempt some Iraqi airports from Iranian airline restrictions: Iraqi PM office
 - 09/26 23:00 [FirstSquawk] Iraq negotiating with US over airport exemptions for Iranian airlines
 - 09/26 23:01 [FirstSquawk] Iraq: Easing restrictions on Iranian airlines would enable humanitarian flights to resume
