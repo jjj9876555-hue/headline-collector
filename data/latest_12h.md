@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-26 20:58 JST／対象: 09/26 08:58 〜 09/26 20:58 JST（時刻はすべて日本時間）
+生成: 2026-09-26 21:21 JST／対象: 09/26 09:21 〜 09/26 21:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/26 17:07 | 09/26 17:07 | - |
-| FirstSquawk | 186 | 09/26 11:20 | 09/26 20:55 | ⚠ 65分（19:20→20:25） |
-| financialjuice | 26 | 09/26 09:14 | 09/26 19:57 | ⚠ 215分（13:00→16:36） |
+| FirstSquawk | 188 | 09/26 11:20 | 09/26 21:13 | ⚠ 65分（19:20→20:25） |
+| financialjuice | 25 | 09/26 09:26 | 09/26 19:57 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 213 行（統合前 214 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 214 行（統合前 214 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 09:14 [financialjuice] OpenAI’s models accessed public US census, SEC information
 - 09/26 09:26 [financialjuice] OpenAI: models accessed publicly available info on and
 - 09/26 09:26 [financialjuice] OpenAI: Our models accessed some publicly available US Census Bureau data during internal training tasks
 - 09/26 09:27 [financialjuice] OpenAI: proactively informed US Census Bureau and provided technical details to aid review
@@ -237,3 +236,5 @@
 - 09/26 20:55 [FirstSquawk] SNB Chairman: Food prices have risen, but inflation increase is due almost totally to petrol prices
 - 09/26 20:55 [FirstSquawk] SNB Chairman: Can keep interest rates on hold because inflation is on target
 - 09/26 20:55 [FirstSquawk] SNB Chairman: Current decline in Swiss franc is a small counter trend to long-term strengthening of currency
+- 09/26 21:12 [FirstSquawk] SNB’s Schlegel Watching Hot Weather Impact on Food Price Inflation Record summer heat has affected food prices in Switzerland, but has not been a major driver of rising inflation, Swiss National Bank Chairman Martin Schlegel said. He added …
+- 09/26 21:13 [FirstSquawk] Ukraine Says It Struck Ilsky Oil Refinery in Southern Russia Ukrainian forces struck the Ilsky Oil Refinery in Russia’s southern Krasnodar region during an overnight attack, Ukraine’s military said on Saturday. Ukraine’s General Staff said …

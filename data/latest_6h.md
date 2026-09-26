@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-26 20:58 JST／対象: 09/26 14:58 〜 09/26 20:58 JST（時刻はすべて日本時間）
+生成: 2026-09-26 21:21 JST／対象: 09/26 15:21 〜 09/26 21:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/26 17:07 | 09/26 17:07 | - |
-| FirstSquawk | 82 | 09/26 14:59 | 09/26 20:55 | ⚠ 65分（19:20→20:25） |
+| FirstSquawk | 83 | 09/26 15:33 | 09/26 21:13 | ⚠ 65分（19:20→20:25） |
 | financialjuice | 11 | 09/26 16:36 | 09/26 19:57 | ⚠ 104分（17:15→19:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 94 行（統合前 94 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 95 行（統合前 95 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 14:59 [FirstSquawk] Trump’s $810 million in cuts sparks opposition from lawmakers - WSJ
 - 09/26 15:33 [FirstSquawk] Quds, a conservative Iranian daily affiliated with Astan Quds Razavi, the religious foundation that administers the Imam Reza shrine in Mashhad, called on Tehran to respond to restrictions imposed by neighboring countries on Iranian flights…
 - 09/26 15:33 [FirstSquawk] Iran has presented the U.S. with a seven-day plan aimed at halting months of fighting, reopening the Strait of Hormuz & restarting negotiations over Tehran’s nuclear program.
 - 09/26 15:34 [FirstSquawk] Iranian President Masoud Pezeshkian: There are no specific ongoing health issues or challenges for Mojtaba Khamenei. On the last occasion when we met for seven-plus hours, of course, we were not used to being in seated positions for that ma…
@@ -118,3 +117,5 @@
 - 09/26 20:55 [FirstSquawk] SNB Chairman: Food prices have risen, but inflation increase is due almost totally to petrol prices
 - 09/26 20:55 [FirstSquawk] SNB Chairman: Can keep interest rates on hold because inflation is on target
 - 09/26 20:55 [FirstSquawk] SNB Chairman: Current decline in Swiss franc is a small counter trend to long-term strengthening of currency
+- 09/26 21:12 [FirstSquawk] SNB’s Schlegel Watching Hot Weather Impact on Food Price Inflation Record summer heat has affected food prices in Switzerland, but has not been a major driver of rising inflation, Swiss National Bank Chairman Martin Schlegel said. He added …
+- 09/26 21:13 [FirstSquawk] Ukraine Says It Struck Ilsky Oil Refinery in Southern Russia Ukrainian forces struck the Ilsky Oil Refinery in Russia’s southern Krasnodar region during an overnight attack, Ukraine’s military said on Saturday. Ukraine’s General Staff said …

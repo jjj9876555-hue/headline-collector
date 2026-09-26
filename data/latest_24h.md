@@ -7,54 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-26 20:58 JST／対象: 09/25 20:58 〜 09/26 20:58 JST（時刻はすべて日本時間）
+生成: 2026-09-26 21:21 JST／対象: 09/25 21:21 〜 09/26 21:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 62 | 09/25 21:05 | 09/26 17:07 | ⚠ 692分（05:35→17:07） |
-| FirstSquawk | 302 | 09/25 21:05 | 09/26 20:55 | ⚠ 379分（05:01→11:20） |
-| financialjuice | 200 | 09/25 21:00 | 09/26 19:57 | ⚠ 215分（13:00→16:36） |
+| DeItaone | 56 | 09/25 21:30 | 09/26 17:07 | ⚠ 692分（05:35→17:07） |
+| FirstSquawk | 287 | 09/25 21:32 | 09/26 21:13 | ⚠ 379分（05:01→11:20） |
+| financialjuice | 186 | 09/25 21:30 | 09/26 19:57 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 542 行（統合前 567 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 514 行（統合前 531 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 21:00 [financialjuice] Secured overnight financing rate 3.88% Sept. 24th vs 3.87% Sept. 23rd
-- 09/25 21:00 [financialjuice] Microsoft abandons personal AI chatbot race with Copilot reboot.
-- 09/25 21:01 [financialjuice] Pakistan, Saudi Arabia, and Turkey condemn attacks targeting Makkah, Saudi facilities - Pakistan Foreign Ministry
-- 09/25 21:05 [FirstSquawk] PAKISTAN, SAUDI ARABIA, AND TURKEY ARE SCHEDULING A MEETING FOR THEIR MILITARY LEADERS, ACCORDING TO PAKISTAN'S FOREIGN MINISTRY.
-- 09/25 21:05 [financialjuice] Microsoft Copilot adds home, code, autopilot capabilities.
-- 09/25 21:05 [FirstSquawk] PAKISTAN, SAUDI ARABIA, AND TURKEY WILL MEET TO TALK ABOUT SUPPORTING RIYADH UNDER A JOINT DEFENSE AGREEMENT, ACCORDING TO PAKISTAN'S FOREIGN MINISTRY.
-- 09/25 21:05 [FirstSquawk] PAKISTAN, SAUDI ARABIA, AND TURKEY CONDEMN ATTACKS AIMED AT MAKKAH AND SAUDI FACILITIES, ACCORDING TO PAKISTAN'S FOREIGN MINISTRY.
-- 09/25 21:05 [FirstSquawk] PAKISTAN, SAUDI ARABIA, AND TURKEY SUPPORT RIYADH'S RIGHT TO PROTECT ITS SECURITY, ACCORDING TO THE PAKISTAN FOREIGN MINISTRY.
-- 09/25 21:05 [DeItaone] $MSTR - STRATEGY PROPOSES DAILY DIVIDENDS ON PREFERRED STOCK Strategy is seeking shareholder approval to shift four preferred-stock series — $STRF , $STRC, $STRK and $STRD — to daily dividend payments. The change would not alter dividend ra…
-- 09/25 21:06 [FirstSquawk] MICROSOFT UNVEILS NEW COPILOT FEATURES FOR HOME, CODE, AND AUTOPILOT.
-- 09/25 21:06 [FirstSquawk] MICROSOFT IS ROLLING OUT HOME & CODE IN COPILOT THROUGH THE FRONTIER PROGRAM SOON, WITH AUTOPILOT SET TO BEGIN PRIVATE PREVIEW BY MONTH-END.
-- 09/25 21:06 [FirstSquawk] MICROSOFT'S COPILOT MANAGED RUNTIME IS NOW AVAILABLE FOR PUBLIC PREVIEW AND WILL BE INTEGRATED INTO CODE.
-- 09/25 21:06 [FirstSquawk] MICROSOFT’S CODE IN COPILOT WILL BE AVAILABLE FOR PREVIEW TO MICROSOFT 365 PREMIUM AND PRO SUBSCRIBERS LATER THIS YEAR.
-- 09/25 21:07 [FirstSquawk] MICROSOFT ANNOUNCED THAT "TODAY" IN HOME WILL START PRIVATE PREVIEW IN OCTOBER FOR COPILOT AND WILL ALSO BE AVAILABLE IN OUTLOOK AND TEAMS SOON.
-- 09/25 21:07 [FirstSquawk] MICROSOFT IS EXPANDING COST MANAGEMENT IN AGENT 365 TO INCLUDE CODE AND COPILOT MANAGED RUNTIME, WITH COPILOT STUDIO SUPPORT COMING IN OCTOBER.
-- 09/25 21:07 [FirstSquawk] UNICREDIT OFFICIAL DENIES PRESS REPORT ABOUT BPM INTEREST AS BASELESS.
-- 09/25 21:08 [financialjuice] Kremlin: No concrete talks on black sea safety - TASS
-- 09/25 21:09 [FirstSquawk/financialjuice] KREMLIN: SANCTIONS MUST BE LIFTED TO END DIESEL EXPORT BAN -TASS
-- 09/25 21:11 [DeItaone] US AMBASSADOR TO CHINA: TRUMP, XI BEGINNING TO DEVELOP RELATIONSHIP OF SOMEWHAT TRUST
-- 09/25 21:11 [DeItaone/financialjuice/FirstSquawk] US AMBASSADOR TO CHINA: TRUMP, XI HAD VERY CANDID, OPEN CONVERSATION - CNBC
-- 09/25 21:12 [financialjuice/FirstSquawk] US Ambassador to China: Trump and Xi are beginning to develop a relationship of some trust
-- 09/25 21:12 [DeItaone/financialjuice] US AMBASSADOR TO CHINA: TRUMP MADE CLEAR ANY HELP CHINA GIVES IRAN TOTALLY UNACCEPTABLE -CNBC
-- 09/25 21:13 [DeItaone] US NATURAL GAS FUTURES EXTEND LOSSES, PRICES DOWN BY 5% IN VOLATILE TRADE AHEAD OF CONTRACT EXPIRATION
-- 09/25 21:13 [financialjuice] US and China agree that Iran should not have nuclear weapons - Perdue
-- 09/25 21:14 [financialjuice] Morning Juice - US Session Prep (25th September)
-- 09/25 21:14 [financialjuice] US Ambassador to China: US thinks there was China indirect support for Iran.
-- 09/25 21:17 [financialjuice/FirstSquawk] US and China on AI: Progress on law enforcement cooperation - Perdue
-- 09/25 21:18 [financialjuice/FirstSquawk] US Ambassador to China: There is no change on Taiwan policy from US.
-- 09/25 21:18 [DeItaone] GOLDMAN SEES AI CAPEX SURGING TO $1.2 TRILLION Goldman Sachs expects the five largest U.S. hyperscalers to boost AI infrastructure spending 54% to $1.2 trillion in 2027, above Wall Street estimates. Amazon, Alphabet, Microsoft, Oracle and M…
-- 09/25 21:18 [FirstSquawk] TRUMP TO CAMPAIGN IN OKLAHOMA, ALABAMA NEXT WEEK - WAPO
-- 09/25 21:19 [financialjuice] US Ambassador to China Perdue: The US doesn't support Taiwan independence
 - 09/25 21:30 [DeItaone] US AUG DURABLES ORDERS UNCHANGED (CONSENSUS -0.4%)
 - 09/25 21:30 [financialjuice] US CORE DURABLE GOODS ACTUAL 0.3% (FORECAST 0.6%, PREVIOUS 0.4%) $MACRO
 - 09/25 21:30 [financialjuice] ❗ US DURABLE GOODS ACTUAL 0% (FORECAST -0.3%, PREVIOUS 1.1%) $MACRO
@@ -68,6 +37,7 @@
 - 09/25 21:45 [DeItaone/financialjuice] USTR GREER: WE HAVE REACHED AGREEMENTS WITH CHINA ON SUBSET OF GOODS WE CAN TRADE
 - 09/25 21:45 [DeItaone] GAZPROM INCREASED GAS PRODUCTION BY 3.4% IN THE FIRST HALF OF THE YEAR, TO 216.55 BILLION CUBIC METERS - IFX
 - 09/25 21:46 [FirstSquawk] GREER SAYS WILL RELEASE DETAILS ON CHINA TRADE TALKS ON MONDAY
+- 09/25 21:46 [financialjuice] Morning Juice – US Session Prep (25th September)
 - 09/25 21:46 [FirstSquawk] US, CHINA REACHED AGREEMENT ON NUMBER OF TRADE AREAS - GREER
 - 09/25 21:46 [financialjuice] USTR Greer: The US and China reached an agreement on a number of trade areas.
 - 09/25 21:47 [DeItaone] USTR GREER: CONVERSATIONS WITH CHINA ABOUT EXPORT CONTROLS, NATIONAL SECURITY ARE OFF THE TABLE IN THESE TALKS -CNBC
@@ -566,3 +536,5 @@
 - 09/26 20:55 [FirstSquawk] SNB Chairman: Food prices have risen, but inflation increase is due almost totally to petrol prices
 - 09/26 20:55 [FirstSquawk] SNB Chairman: Can keep interest rates on hold because inflation is on target
 - 09/26 20:55 [FirstSquawk] SNB Chairman: Current decline in Swiss franc is a small counter trend to long-term strengthening of currency
+- 09/26 21:12 [FirstSquawk] SNB’s Schlegel Watching Hot Weather Impact on Food Price Inflation Record summer heat has affected food prices in Switzerland, but has not been a major driver of rising inflation, Swiss National Bank Chairman Martin Schlegel said. He added …
+- 09/26 21:13 [FirstSquawk] Ukraine Says It Struck Ilsky Oil Refinery in Southern Russia Ukrainian forces struck the Ilsky Oil Refinery in Russia’s southern Krasnodar region during an overnight attack, Ukraine’s military said on Saturday. Ukraine’s General Staff said …
