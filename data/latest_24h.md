@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-26 22:15 JST／対象: 09/25 22:15 〜 09/26 22:15 JST（時刻はすべて日本時間）
+生成: 2026-09-26 22:31 JST／対象: 09/25 22:31 〜 09/26 22:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 40 | 09/25 22:20 | 09/26 21:58 | ⚠ 692分（05:35→17:07） |
-| FirstSquawk | 285 | 09/25 22:16 | 09/26 21:53 | ⚠ 379分（05:01→11:20） |
-| financialjuice | 159 | 09/25 22:15 | 09/26 21:58 | ⚠ 215分（13:00→16:36） |
+| DeItaone | 39 | 09/25 22:47 | 09/26 21:58 | ⚠ 692分（05:35→17:07） |
+| FirstSquawk | 281 | 09/25 22:53 | 09/26 21:53 | ⚠ 379分（05:01→11:20） |
+| financialjuice | 154 | 09/25 22:37 | 09/26 21:58 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 475 行（統合前 486 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 465 行（統合前 476 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 22:15 [financialjuice] Japan's Fin. Min. Katayama: Markets are 'misunderstanding' weak yen - Kyodo
-- 09/25 22:16 [FirstSquawk] MEXICO-US TO HOLD ROUND OF USMCA TALKS IN 'NEXT WEEKS' - VELASCO
-- 09/25 22:17 [financialjuice] Velasco: Mexico-US to hold round of USMCA talks in the 'next weeks'
-- 09/25 22:17 [FirstSquawk] KATAYAMA SAYS EXCESSIVE YEN SELLING MAY BE CORRECTED - KYODO
-- 09/25 22:18 [financialjuice] Japan's Fin. Min. Katayama: Excessive Yen selling may be corrected - Kyodo
-- 09/25 22:19 [financialjuice] Libya's NOC says forced closure of the valve on the Sharara-Zawiya crude pipeline has caused a loss of 720,362 barrels of output, more than $75 million in direct losses as of September 24th
-- 09/25 22:20 [DeItaone] FRANCE DEBT FEARS DRAW GREECE COMPARISONS Jupiter’s Ariel Bezalel warns France’s rising debt and political gridlock are increasingly reminiscent of Greece’s pre-crisis trajectory. French government debt has reached 117.5% of GDP and is proj…
-- 09/25 22:21 [FirstSquawk] JAPAN'S YEN RISES 1 PCT TO SESSION HIGH 157.23 PER DOLLAR
-- 09/25 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -134.8 MLN NASDAQ 100: -57.7 MLN DOW 30: -4.0 MLN MAG 7: -24.0 MLN $MACRO
-- 09/25 22:31 [FirstSquawk] NASDAQ UP 27.53 POINTS, OR 0.10 PERCENT, AT 26,966.90 AFTER MARKET OPEN DOW JONES UP 30.23 POINTS, OR 0.06 PERCENT, AT 51,380.21 AFTER MARKET OPEN DOW JONES UP 30.23 POINTS, OR 0.06 %, AT 51,380.21 AFTER MARKET OPEN
 - 09/25 22:37 [financialjuice] BofA raises Advanced Micro Devices' price objective to $720 from $620. $AMD
 - 09/25 22:47 [DeItaone] KATAYAMA, BESSENT REAFFIRMED THAT YEN UNDERVALUATION IS MATTER OF CONCERN
 - 09/25 22:48 [financialjuice] Japan's Fin. Min. Katayama and US Treasury Secretary Bessent reaffirmed that yen undervaluation is a matter of concern.
