@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-26 11:46 JST／対象: 09/26 05:46 〜 09/26 11:46 JST（時刻はすべて日本時間）
+生成: 2026-09-26 11:58 JST／対象: 09/26 05:58 〜 09/26 11:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 33 | 09/26 11:20 | 09/26 11:44 | 2分（11:23→11:26） |
+| FirstSquawk | 39 | 09/26 11:20 | 09/26 11:56 | 4分（11:47→11:51） |
 | financialjuice | 25 | 09/26 06:28 | 09/26 10:27 | ⚠ 53分（07:35→08:28） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 58 行（統合前 59 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 64 行（統合前 65 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -82,3 +82,9 @@
 - 09/26 11:41 [FirstSquawk] Brazilian President Lula seeks online gambling ban ahead of election, FT says
 - 09/26 11:44 [FirstSquawk] Warner Bros. Discovery says it intends to remove euro notes from Nasdaq Global
 - 09/26 11:44 [FirstSquawk] US Supreme Court blocks Missouri’s Republican-drawn congressional map for November midterms
+- 09/26 11:47 [FirstSquawk] US FDA grants approval to Juvmo (tavapadon) for adults with Parkinson’s disease
+- 09/26 11:51 [FirstSquawk] Brazil government orders ban on online betting operations nationwide
+- 09/26 11:51 [FirstSquawk] Brazil’s Durigan: Bettors can claim remaining funds from online betting websites until Oct. 5
+- 09/26 11:51 [FirstSquawk] Brazil’s Durigan says app stores and network providers must block these sites starting Oct. 6
+- 09/26 11:55 [FirstSquawk] Online betting firms allowed to continue advertising until Oct. 5, Brazil’s Durigan says
+- 09/26 11:56 [FirstSquawk] Hurricane Polo remains a powerful Category 5 hurricane, NHC says
