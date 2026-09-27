@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-27 13:51 JST／対象: 09/27 01:51 〜 09/27 13:51 JST（時刻はすべて日本時間）
+生成: 2026-09-27 14:04 JST／対象: 09/27 02:04 〜 09/27 14:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 76 | 09/27 01:52 | 09/27 13:35 | ⚠ 371分（03:23→09:35） |
-| financialjuice | 17 | 09/27 01:57 | 09/27 12:09 | ⚠ 242分（06:17→10:19） |
+| FirstSquawk | 71 | 09/27 02:46 | 09/27 14:04 | ⚠ 371分（03:23→09:35） |
+| financialjuice | 16 | 09/27 02:10 | 09/27 12:09 | ⚠ 242分（06:17→10:19） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 91 行（統合前 93 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 86 行（統合前 87 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 01:52 [FirstSquawk] Saudi Foreign Minister: We reject any attempts at forced displacement or changing the status quo in the Palestinian territories.
-- 09/27 01:53 [FirstSquawk] Saudi Foreign Minister: We support efforts to de-escalate tensions, especially those of Qatar and Pakistan, which contribute to restoring stability.
-- 09/27 01:53 [FirstSquawk] Saudi Foreign Minister: A just and lasting peace can only be achieved by implementing the two-state solution and establishing a Palestinian state.
-- 09/27 01:53 [FirstSquawk] Saudi Foreign Minister: Continued suffering of Palestinians and obstruction of aid in Gaza is a violation of international law
-- 09/27 01:53 [FirstSquawk] Saudi Foreign Minister: We reject any violations that affect the security and stability of Syria
-- 09/27 01:53 [FirstSquawk] Saudi Foreign Minister: We affirm our full right to protect the Kingdom's security and sovereignty.
-- 09/27 01:54 [FirstSquawk] Saudi Foreign Minister: We welcome the Security Council statement condemning the Houthi attacks on the Kingdom and commercial vessels.
-- 09/27 01:54 [FirstSquawk] Saudi Foreign Minister: We support the sovereignty and security of Iraq and stress that its territory should not be used as a launching pad for attacks on neighboring countries.
-- 09/27 01:57 [financialjuice/FirstSquawk] Iraq reaches agreement with US to continue cash dollar shipments: Iraqi government
 - 09/27 02:10 [financialjuice] Northern Ireland high court issues injunction to block Drumcree Protestant parade through Catholic area on Sunday
 - 09/27 02:11 [financialjuice] Northern Ireland High Court injunction provides brief interim relief until judicial review on route decided
 - 09/27 02:46 [financialjuice] Ukraine intercepting 55% of Russian jet-powered drones: Zelenskiy
@@ -43,6 +34,7 @@
 - 09/27 03:03 [FirstSquawk] Trump rejects Iran’s ceasefire proposal to reopen Strait of Hormuz - FT
 - 09/27 03:04 [FirstSquawk] Japan's Sumitomo Life to deploy AI for tailor-made contracts -Nikkei
 - 09/27 03:04 [FirstSquawk] Chinese EVs will come to US despite no summit deal, analysts say - Nikkei
+- 09/27 03:23 [FirstSquawk] Iraq reaches agreement with US to continue cash dollar shipments: Iraqi government
 - 09/27 03:36 [financialjuice] Libya reopens Sharara-Zawiya pipeline valve: resumes crude flow, says Libya's NOC
 - 09/27 03:38 [financialjuice] Libya's National Oil Corporation: crude output to gradually return to normal levels
 - 09/27 04:16 [financialjuice] Trump: approved new fuel economy standards ending Biden's EV mandate
@@ -115,3 +107,6 @@
 - 09/27 13:22 [FirstSquawk] Indonesia’s coffee industry faces mounting heat from climate change - NA
 - 09/27 13:27 [FirstSquawk] Prices of older supertankers soar above new vessels as tanker market booms — FT
 - 09/27 13:35 [FirstSquawk] Investor withdrawals slow as turmoil in private credit market eases — FT
+- 09/27 13:52 [FirstSquawk] U.S. housing squeeze puts private equity under focus ahead of midterm elections - FT
+- 09/27 13:53 [FirstSquawk] West London high street pushes back against betting shops and chicken shops - FT
+- 09/27 14:04 [FirstSquawk] South Korea doubles down on its push for AI adoption across society - FT
