@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-27 14:24 JST／対象: 09/27 02:24 〜 09/27 14:24 JST（時刻はすべて日本時間）
+生成: 2026-09-27 14:43 JST／対象: 09/27 02:43 〜 09/27 14:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 74 | 09/27 02:46 | 09/27 14:19 | ⚠ 371分（03:23→09:35） |
+| FirstSquawk | 77 | 09/27 02:46 | 09/27 14:27 | ⚠ 371分（03:23→09:35） |
 | financialjuice | 14 | 09/27 02:46 | 09/27 12:09 | ⚠ 242分（06:17→10:19） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 87 行（統合前 88 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 90 行（統合前 91 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -111,3 +111,6 @@
 - 09/27 14:10 [FirstSquawk] Kurdish leader criticizes U.S. pullout from Iraq as ‘shameful’ — FT
 - 09/27 14:14 [FirstSquawk] Armani to launch talks with LVMH and L’Oréal on potential stake sale — FT
 - 09/27 14:19 [FirstSquawk] Lack of AI openness risks undermining investment in Europe, major companies warn — FT
+- 09/27 14:26 [FirstSquawk] Chinese waste worker scouted for modelling due to striking appearance, chooses not to go full-time - SCMP
+- 09/27 14:27 [FirstSquawk] Nearly 13 million barrels of oil transit Strait of Hormuz each day, U.S. Energy Secretary tells Fox News
+- 09/27 14:27 [FirstSquawk] U.S. Energy Secretary: U.S. forces assisting the movement of oil, gas and fertilizers through Strait of Hormuz
