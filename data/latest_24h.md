@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-27 19:17 JST／対象: 09/26 19:17 〜 09/27 19:17 JST（時刻はすべて日本時間）
+生成: 2026-09-27 19:32 JST／対象: 09/26 19:32 〜 09/27 19:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/26 21:58 | 09/27 00:39 | ⚠ 67分（22:54→00:01） |
-| FirstSquawk | 221 | 09/26 19:17 | 09/27 19:14 | ⚠ 371分（03:23→09:35） |
-| financialjuice | 41 | 09/26 19:57 | 09/27 19:02 | ⚠ 261分（12:09→16:30） |
+| FirstSquawk | 213 | 09/26 20:25 | 09/27 19:23 | ⚠ 371分（03:23→09:35） |
+| financialjuice | 43 | 09/26 19:57 | 09/27 19:32 | ⚠ 261分（12:09→16:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 263 行（統合前 269 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 257 行（統合前 263 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 19:17 [FirstSquawk] Iranian President: I met with the Supreme Leader twice, the first time for about 3 hours and the second time for 7 and a half hours
-- 09/26 19:17 [FirstSquawk] Iranian President: The leadership structure is about setting policies, while implementation falls on us, and what we are implementing is within the framework of existing laws.
-- 09/26 19:17 [FirstSquawk] Iranian President: There is no problem on the executive side, but there are some delays in matters related to the negotiations and what America and other countries are waiting for.
-- 09/26 19:17 [FirstSquawk] Iranian President: What is happening in Yemen is not related to Iran, and we stand in solidarity with all those who are subjected to injustice.
-- 09/26 19:19 [FirstSquawk] Iranian President Masoud Pezeshkian: We no longer trust talks with Washington after repeated attacks and sanctions following every negotiation.
-- 09/26 19:19 [FirstSquawk] Iranian President: We can help resolve the dispute between SaudiArabia and Yemen, and we will not be warmongers.
-- 09/26 19:19 [FirstSquawk] Iranian President: Saudi Arabia is capable of playing a role in uniting the countries of the Islamic world
-- 09/26 19:20 [FirstSquawk] Crypto update: #Bitcoin 83982.00 +0.13% #Ether 2680.50 -0.15% #Cardano 0.2540 -0.12% #BitcoinCash 337.20 -0.69% #Litecoin 74.06 +4.1% #Stellar 0.2165 -1.19% #Dogecoin 0.0970 -0.82% #Uniswap 9.5994 -0.35% #Chainlink 14.0024 +1.27% #Polkadot …
-- 09/26 19:20 [FirstSquawk] Weekend markets update: #DAX 25490 -0.24% #DOW 51727 -0.20% #NASDAQ 30565 -0.23% #FTSE 10727 -0.14% #HANGSENG 24475 -0.13% #EURUSD 11386 -0.04% #USDJPY 15715 -0.09% #GOLD 4279 -0.14% #USOIL 9356 +1.72%
 - 09/26 19:57 [financialjuice] China foreign minister Wang Yi: Xi's U.S. visit opens 'new chapter' in China-U.S. ties - ministry statement
 - 09/26 20:25 [FirstSquawk] Eleven people were killed and 30 others injured in an explosion in the city of Dera Ismail Khan in northwestern Pakistan.
 - 09/26 20:35 [FirstSquawk] Ethiopian Army Chief of Staff: The Tigray Front is trying to push the country into a new war through its provocations.
@@ -287,3 +278,6 @@
 - 09/27 19:08 [FirstSquawk] Yemeni government forces: Our warplanes are bombing a camp and vehicles belonging to the Houthi militia at the Mawiyah intersection east of Taiz
 - 09/27 19:13 [FirstSquawk] Lebanese media: Israeli airstrike targets a building on the outskirts of the town of Mefdoun in southern Lebanon
 - 09/27 19:14 [FirstSquawk] Lebanese media: Israeli artillery shelling between the towns of Haddatha and Haris in southern Lebanon
+- 09/27 19:23 [FirstSquawk] Ukrainian Emergency Service: One dead and three injured after a Russian drone crashed into cars in Bucha, Kyiv region
+- 09/27 19:28 [financialjuice] South Korea military, UN command open probe into DMZ blast: Korean military
+- 09/27 19:32 [financialjuice] Iran's Revolutionary Guards navy: captures US autonomous underwater vehicle in Strait of Hormuz - state media
