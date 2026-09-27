@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-27 10:46 JST／対象: 09/26 10:46 〜 09/27 10:46 JST（時刻はすべて日本時間）
+生成: 2026-09-27 10:59 JST／対象: 09/26 10:59 〜 09/27 10:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/26 17:07 | 09/27 00:39 | ⚠ 291分（17:07→21:58） |
-| FirstSquawk | 306 | 09/26 11:20 | 09/27 10:44 | ⚠ 371分（03:23→09:35） |
+| FirstSquawk | 310 | 09/26 11:20 | 09/27 10:55 | ⚠ 371分（03:23→09:35） |
 | financialjuice | 43 | 09/26 13:00 | 09/27 10:19 | ⚠ 242分（06:17→10:19） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 351 行（統合前 357 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 355 行（統合前 361 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -375,3 +375,7 @@
 - 09/27 10:37 [FirstSquawk] New York Mayor Mamdani and Netanyahu continue public dispute that began during mayoral campaign - CBS
 - 09/27 10:42 [FirstSquawk] Trump predicts U.S.-Cuba agreement, says military action likely unnecessary - RTRS
 - 09/27 10:44 [FirstSquawk] Israel’s October 27 vote may bring a major political shift as Middle East seeks to move beyond war - AJ MAJALLA
+- 09/27 10:47 [FirstSquawk] GM faces global cost pressures from tariffs and energy as American car buyers remain eager
+- 09/27 10:51 [FirstSquawk] Polymarket puts Democrats’ chances of sweeping 2026 midterms at 64%
+- 09/27 10:52 [FirstSquawk] German and Russian foreign ministers meet at UN as Berlin urges Moscow to enter negotiations
+- 09/27 10:55 [FirstSquawk] OpenAI agents used aggressive techniques to access U.N. website, hitting it more than 16,000 times - WSJ
