@@ -7,27 +7,25 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-27 23:16 JST／対象: 09/26 23:16 〜 09/27 23:16 JST（時刻はすべて日本時間）
+生成: 2026-09-27 23:32 JST／対象: 09/26 23:32 〜 09/27 23:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/27 00:01 | 09/27 00:39 | 19分（00:19→00:39） |
-| FirstSquawk | 187 | 09/26 23:25 | 09/27 22:33 | ⚠ 371分（03:23→09:35） |
-| financialjuice | 42 | 09/26 23:24 | 09/27 23:08 | ⚠ 261分（12:09→16:30） |
+| FirstSquawk | 193 | 09/26 23:37 | 09/27 23:31 | ⚠ 371分（03:23→09:35） |
+| financialjuice | 39 | 09/26 23:43 | 09/27 23:08 | ⚠ 261分（12:09→16:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 220 行（統合前 232 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 224 行（統合前 235 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 23:24 [financialjuice/FirstSquawk] Pakistan PM Sharif on Houthis attacks on Saudi Arabia: Any threat to security, sanctity of Two Holy Mosques is a red line that can't be crossed under any circumstances
-- 09/26 23:25 [FirstSquawk] Trump: US expects to make a deal with Cuba without needing the military
-- 09/26 23:25 [financialjuice] Trump: Cuba and US to strike a deal, don’t expect military involvement
-- 09/26 23:31 [financialjuice/FirstSquawk] Russia's Lavrov meets German counterpart on sidelines of UN General Assembly
+- 09/26 23:37 [FirstSquawk] Pakistan PM Sharif on Houthis attacks on Saudi Arabia: Any threat to security, sanctity of Two Holy Mosques is a red line that can't be crossed under any circumstances
+- 09/26 23:37 [FirstSquawk] Russia's Lavrov meets German counterpart on sidelines of UN General Assembly
 - 09/26 23:43 [FirstSquawk] Russia says its forces struck a cargo vessel in the Black Sea
 - 09/26 23:43 [financialjuice] Russian defence ministry: Russian forces strike cargo ship in Black Sea
 - 09/26 23:51 [FirstSquawk] Axios, citing US officials: Approximately 60 million barrels of oil have passed through the Strait of Hormuz in the past 72 hours
@@ -243,4 +241,10 @@
 - 09/27 22:33 [FirstSquawk] Iraqi official: Suspension of flights with Iran depends on ground service companies complying with US Treasury instructions
 - 09/27 22:33 [FirstSquawk] Iraqi official: The lack of a publicly stated government position on Iranian flights is due to the sensitivity of the issue.
 - 09/27 22:33 [FirstSquawk] Iraqi official: Companies' apologies for not providing services before takeoff and after landing led to the suspension of Iranian flights
-- 09/27 23:08 [financialjuice] UK government spokesperson: UK Prime Minister is being kept informed on Gloucestershire incident
+- 09/27 23:08 [financialjuice/FirstSquawk] UK government spokesperson: UK Prime Minister is being kept informed on Gloucestershire incident
+- 09/27 23:28 [FirstSquawk] The US ambassador to the UN on Iran: President Trump will keep all options on the table.
+- 09/27 23:29 [FirstSquawk] Palestinian was killed and others were injured when an Israeli drone struck a car in the center of Gaza City.
+- 09/27 23:29 [FirstSquawk] The Telegraph: Police are investigating Iran's link to a plot to bomb a British airbase used by US forces.
+- 09/27 23:29 [FirstSquawk] "Telegraph": Five men arrested on suspicion of plotting a terrorist operation targeting an airbase in western Britain
+- 09/27 23:30 [FirstSquawk] The Telegraph: The five men arrested were in possession of three trucks suspected of containing explosives
+- 09/27 23:31 [FirstSquawk] U.S. official tells me in response that "zero ships were struck over the last two days" - Axios Reporter
