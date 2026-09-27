@@ -7,28 +7,26 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-28 00:16 JST／対象: 09/27 00:16 〜 09/28 00:16 JST（時刻はすべて日本時間）
+生成: 2026-09-28 00:32 JST／対象: 09/27 00:32 〜 09/28 00:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 3 | 09/27 00:19 | 09/28 00:04 | ⚠ 1404分（00:39→00:04） |
-| FirstSquawk | 197 | 09/27 00:22 | 09/27 23:53 | ⚠ 371分（03:23→09:35） |
-| financialjuice | 46 | 09/27 00:28 | 09/28 00:07 | ⚠ 261分（12:09→16:30） |
+| DeItaone | 2 | 09/27 00:39 | 09/28 00:04 | ⚠ 1404分（00:39→00:04） |
+| FirstSquawk | 205 | 09/27 00:42 | 09/28 00:30 | ⚠ 371分（03:23→09:35） |
+| financialjuice | 45 | 09/27 01:01 | 09/28 00:29 | ⚠ 261分（12:09→16:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 235 行（統合前 246 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 243 行（統合前 253 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 00:19 [DeItaone] TRUMP REJECTS IRAN’S HORMUZ DEAL President Trump said he rejected Iran’s proposal to reopen the Strait of Hormuz and halt regional fighting within seven days. Iran had presented the plan through Qatari mediators, offering to reopen the crit…
-- 09/27 00:22 [FirstSquawk] Israeli army: We attacked earlier today a Hezbollah weapons depot in the Sajd area of ​​southern Lebanon
-- 09/27 00:28 [financialjuice/FirstSquawk] UN mission: strikes on Libya's oil, energy infrastructure may lead to sanctions under Security Council resolutions
-- 09/27 00:30 [financialjuice/FirstSquawk] UN Libya mission warns of economic fallout from ongoing closure of Sharara-Zawiya oil pipeline
 - 09/27 00:39 [DeItaone] TRUMP PREDICTS U.S.-CUBA DEAL, DOWNPLAYS MILITARY ACTION President Trump said he expects the U.S. and Cuba to reach an agreement, adding that he does not believe military action will be necessary. “I don’t think we’ll need the military,” Tr…
+- 09/27 00:42 [FirstSquawk] UN mission: strikes on Libya's oil, energy infrastructure may lead to sanctions under Security Council resolutions
+- 09/27 00:42 [FirstSquawk] UN Libya mission warns of economic fallout from ongoing closure of Sharara-Zawiya oil pipeline
 - 09/27 01:01 [financialjuice] United Nations: Russian Foreign Minister Lavrov says US must end 'siege' and trade restrictions on Cuba
 - 09/27 01:03 [FirstSquawk] Lavrov: The waves of confrontation in the Gulf and the issue of the Strait of Hormuz must be resolved
 - 09/27 01:03 [FirstSquawk] Lavrov: We demand the immediate release of the Venezuelan president and his wife and that these abuses not be repeated
@@ -259,3 +257,13 @@
 - 09/28 00:02 [financialjuice] South Korean presidency: country contemplating extra actions on issue - Yonhap
 - 09/28 00:04 [DeItaone] TRUMP TELLS AXIOS THAT HE EXPECTS US NEGOTIATORS TO ENGAGE IN MORE TALKS WITH IRAN THIS WEEK
 - 09/28 00:07 [financialjuice] China considers permitting ByteDance, Alibaba to buy new Nvidia chips - The Information
+- 09/28 00:24 [FirstSquawk] Trump to Axios: I expect US negotiators to hold more talks with Iran this week
+- 09/28 00:24 [FirstSquawk] Trump to Axios: I'm considering resuming strikes on Iran on an ongoing basis
+- 09/28 00:24 [FirstSquawk] Trump to Axios: US military is facilitating the passage of large quantities of oil through the Strait of Hormuz
+- 09/28 00:24 [FirstSquawk] Trump to Axios: Largest amount of oil has passed through the Strait of Hormuz over the weekend since the start of the war
+- 09/28 00:25 [FirstSquawk] Trump to Axios: Iran overestimated its strengths
+- 09/28 00:25 [FirstSquawk] Trump: I expect to hold talks with Iran this week
+- 09/28 00:25 [FirstSquawk] Axios, citing a US official: Qatari mediators are continuing shuttle diplomacy efforts in an attempt to reach an agreement.
+- 09/28 00:25 [FirstSquawk] Trump to Axios: The Iranians want to make a deal, but it's not the one I want, and we probably would have agreed to it a year ago.
+- 09/28 00:29 [financialjuice] Anthropic's Dario Amodei to attend White House dinner with Trump: Axios
+- 09/28 00:30 [FirstSquawk] TRUMP ON TRUTH SOCIAL: The Supreme Court of the United States will just not let Missouri have an Election Victory. They continuously, three times now, overrule Judges who came to the correct decisions. Thank you to the Governor, and all of …

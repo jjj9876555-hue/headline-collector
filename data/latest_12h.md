@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-28 00:16 JST／対象: 09/27 12:16 〜 09/28 00:16 JST（時刻はすべて日本時間）
+生成: 2026-09-28 00:32 JST／対象: 09/27 12:32 〜 09/28 00:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/28 00:04 | 09/28 00:04 | - |
-| FirstSquawk | 98 | 09/27 12:17 | 09/27 23:53 | ⚠ 54分（22:33→23:27） |
-| financialjuice | 26 | 09/27 16:30 | 09/28 00:07 | ⚠ 76分（20:38→21:54） |
+| FirstSquawk | 103 | 09/27 12:39 | 09/28 00:30 | ⚠ 54分（22:33→23:27） |
+| financialjuice | 27 | 09/27 16:30 | 09/28 00:29 | ⚠ 76分（20:38→21:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 118 行（統合前 125 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 124 行（統合前 132 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 12:17 [FirstSquawk] Japan’s wedding industry turns to foreign couples as domestic marriages fall - NA
-- 09/27 12:24 [FirstSquawk] Iran maintains diplomatic approach after Trump rejects proposed peace plan - RTRS
-- 09/27 12:31 [FirstSquawk] Russia’s Lavrov criticizes U.S. actions toward Maduro and Iran at UN - NYT
-- 09/27 12:32 [FirstSquawk] Russia’s Lavrov criticizes U.S. actions toward Maduro and Iran at UN
 - 09/27 12:39 [FirstSquawk] South Korea sees improved Q4 business sentiment as semiconductor and cosmetics exports remain strong
 - 09/27 12:45 [FirstSquawk] Second-generation Hyundai Palisade nears 300,000 units sold worldwide - YONHAP
 - 09/27 12:47 [FirstSquawk] Semiconductors account for nearly 40% of South Korea’s industrial technology leaks: data
@@ -142,3 +138,13 @@
 - 09/28 00:02 [financialjuice] South Korean presidency: country contemplating extra actions on issue - Yonhap
 - 09/28 00:04 [DeItaone] TRUMP TELLS AXIOS THAT HE EXPECTS US NEGOTIATORS TO ENGAGE IN MORE TALKS WITH IRAN THIS WEEK
 - 09/28 00:07 [financialjuice] China considers permitting ByteDance, Alibaba to buy new Nvidia chips - The Information
+- 09/28 00:24 [FirstSquawk] Trump to Axios: I expect US negotiators to hold more talks with Iran this week
+- 09/28 00:24 [FirstSquawk] Trump to Axios: I'm considering resuming strikes on Iran on an ongoing basis
+- 09/28 00:24 [FirstSquawk] Trump to Axios: US military is facilitating the passage of large quantities of oil through the Strait of Hormuz
+- 09/28 00:24 [FirstSquawk] Trump to Axios: Largest amount of oil has passed through the Strait of Hormuz over the weekend since the start of the war
+- 09/28 00:25 [FirstSquawk] Trump to Axios: Iran overestimated its strengths
+- 09/28 00:25 [FirstSquawk] Trump: I expect to hold talks with Iran this week
+- 09/28 00:25 [FirstSquawk] Axios, citing a US official: Qatari mediators are continuing shuttle diplomacy efforts in an attempt to reach an agreement.
+- 09/28 00:25 [FirstSquawk] Trump to Axios: The Iranians want to make a deal, but it's not the one I want, and we probably would have agreed to it a year ago.
+- 09/28 00:29 [financialjuice] Anthropic's Dario Amodei to attend White House dinner with Trump: Axios
+- 09/28 00:30 [FirstSquawk] TRUMP ON TRUTH SOCIAL: The Supreme Court of the United States will just not let Missouri have an Election Victory. They continuously, three times now, overrule Judges who came to the correct decisions. Thank you to the Governor, and all of …
