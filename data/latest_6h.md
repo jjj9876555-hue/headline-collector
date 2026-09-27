@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-27 11:18 JST／対象: 09/27 05:18 〜 09/27 11:18 JST（時刻はすべて日本時間）
+生成: 2026-09-27 11:34 JST／対象: 09/27 05:34 〜 09/27 11:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 33 | 09/27 09:35 | 09/27 11:13 | 28分（09:36→10:04） |
+| FirstSquawk | 37 | 09/27 09:35 | 09/27 11:33 | 28分（09:36→10:04） |
 | financialjuice | 6 | 09/27 06:13 | 09/27 10:19 | ⚠ 242分（06:17→10:19） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 38 行（統合前 39 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 42 行（統合前 43 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -62,3 +62,7 @@
 - 09/27 11:08 [FirstSquawk] Takaichi: Japan and U.S. agreed to collaborate on China issues, including economic security
 - 09/27 11:12 [FirstSquawk] U.S. farmers reconsider ties with GOP amid shifting political and economic pressures — WSJ
 - 09/27 11:13 [FirstSquawk] 737 MAX software glitch may affect navigation during landings as Boeing develops fix - WSJ
+- 09/27 11:19 [FirstSquawk] Amazon steps deeper into India’s quick-commerce market, challenging fast-delivery rivals — FT
+- 09/27 11:22 [FirstSquawk] AI power demand and higher energy costs take center stage in New York climate talks — FT
+- 09/27 11:26 [FirstSquawk] Germany, Russia hold first foreign ministers’ meeting in over four years – FT
+- 09/27 11:33 [FirstSquawk] Aramco explores additional crude export routes beyond three main routes
