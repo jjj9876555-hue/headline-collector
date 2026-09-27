@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-27 12:59 JST／対象: 09/26 12:59 〜 09/27 12:59 JST（時刻はすべて日本時間）
+生成: 2026-09-27 13:18 JST／対象: 09/26 13:18 〜 09/27 13:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/26 17:07 | 09/27 00:39 | ⚠ 291分（17:07→21:58） |
-| FirstSquawk | 268 | 09/26 13:06 | 09/27 12:56 | ⚠ 371分（03:23→09:35） |
-| financialjuice | 45 | 09/26 13:00 | 09/27 12:09 | ⚠ 242分（06:17→10:19） |
+| FirstSquawk | 266 | 09/26 13:19 | 09/27 13:15 | ⚠ 371分（03:23→09:35） |
+| financialjuice | 44 | 09/26 16:36 | 09/27 12:09 | ⚠ 242分（06:17→10:19） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 315 行（統合前 321 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 312 行（統合前 318 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 13:00 [financialjuice] Saudi civil defense: danger has passed in Abha
-- 09/26 13:06 [FirstSquawk] China’s Leapmotor outpaces Subaru, Mitsubishi Motors as European demand boosts deliveries - NA
-- 09/26 13:11 [FirstSquawk] Pakistan military: Chiefs of defense forces, general staff from Makkah pact members meet in Riyadh - RTRS
-- 09/26 13:12 [FirstSquawk] Bangkok faces widespread flooding after torrential rainfall
-- 09/26 13:15 [FirstSquawk] Pakistan military: Pakistan, Saudi Arabia and Turkey discuss further cooperation among armed forces
-- 09/26 13:15 [FirstSquawk] White House: US, China establish communication channel dedicated to AI incidents
 - 09/26 13:19 [FirstSquawk] Pakistan military: Three countries’ military chiefs commit to advancing cooperation under Makkah defence pact
 - 09/26 13:22 [FirstSquawk] Pakistan military: Pakistan, Saudi Arabia and Turkey military chiefs pledge commitment to collective defence
 - 09/26 13:25 [FirstSquawk] Pakistan military: Pakistan, Saudi Arabia and Turkey military chiefs assess regional security, threats to Saudi Arabia
@@ -339,3 +333,6 @@
 - 09/27 12:45 [FirstSquawk] Second-generation Hyundai Palisade nears 300,000 units sold worldwide - YONHAP
 - 09/27 12:47 [FirstSquawk] Semiconductors account for nearly 40% of South Korea’s industrial technology leaks: data
 - 09/27 12:56 [FirstSquawk] South Korea posts tourism deficit in July after four consecutive months of surplus - YONHAP
+- 09/27 13:00 [FirstSquawk] Morgan Stanley’s Slimmon sees stronger opportunities outside U.S. as earnings outlook improves - CNBC
+- 09/27 13:08 [FirstSquawk] U.S. nonimmigrant visas for South Koreans decline nearly 8% in 2025 after Trump takes office: data - YONHAP
+- 09/27 13:15 [FirstSquawk] Bangkok sees floodwaters subside as officials step up canal drainage efforts

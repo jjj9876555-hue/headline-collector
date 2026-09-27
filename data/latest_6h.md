@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-27 12:59 JST／対象: 09/27 06:59 〜 09/27 12:59 JST（時刻はすべて日本時間）
+生成: 2026-09-27 13:18 JST／対象: 09/27 07:18 〜 09/27 13:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 55 | 09/27 09:35 | 09/27 12:56 | 28分（09:36→10:04） |
+| FirstSquawk | 58 | 09/27 09:35 | 09/27 13:15 | 28分（09:36→10:04） |
 | financialjuice | 4 | 09/27 10:19 | 09/27 12:09 | ⚠ 109分（10:19→12:09） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 59 行（統合前 59 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 62 行（統合前 62 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -83,3 +83,6 @@
 - 09/27 12:45 [FirstSquawk] Second-generation Hyundai Palisade nears 300,000 units sold worldwide - YONHAP
 - 09/27 12:47 [FirstSquawk] Semiconductors account for nearly 40% of South Korea’s industrial technology leaks: data
 - 09/27 12:56 [FirstSquawk] South Korea posts tourism deficit in July after four consecutive months of surplus - YONHAP
+- 09/27 13:00 [FirstSquawk] Morgan Stanley’s Slimmon sees stronger opportunities outside U.S. as earnings outlook improves - CNBC
+- 09/27 13:08 [FirstSquawk] U.S. nonimmigrant visas for South Koreans decline nearly 8% in 2025 after Trump takes office: data - YONHAP
+- 09/27 13:15 [FirstSquawk] Bangkok sees floodwaters subside as officials step up canal drainage efforts

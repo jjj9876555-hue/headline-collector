@@ -7,43 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-27 12:59 JST／対象: 09/27 00:59 〜 09/27 12:59 JST（時刻はすべて日本時間）
+生成: 2026-09-27 13:18 JST／対象: 09/27 01:18 〜 09/27 13:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 104 | 09/27 01:03 | 09/27 12:56 | ⚠ 371分（03:23→09:35） |
-| financialjuice | 18 | 09/27 01:01 | 09/27 12:09 | ⚠ 242分（06:17→10:19） |
+| FirstSquawk | 88 | 09/27 01:19 | 09/27 13:15 | ⚠ 371分（03:23→09:35） |
+| financialjuice | 17 | 09/27 01:57 | 09/27 12:09 | ⚠ 242分（06:17→10:19） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 120 行（統合前 122 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 103 行（統合前 105 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 01:01 [financialjuice] United Nations: Russian Foreign Minister Lavrov says US must end 'siege' and trade restrictions on Cuba
-- 09/27 01:03 [FirstSquawk] Lavrov: The waves of confrontation in the Gulf and the issue of the Strait of Hormuz must be resolved
-- 09/27 01:03 [FirstSquawk] Lavrov: We demand the immediate release of the Venezuelan president and his wife and that these abuses not be repeated
-- 09/27 01:03 [FirstSquawk] Lavrov: We have launched an initiative to establish peace in the Gulf region and resolve the crisis in the Strait of Hormuz
-- 09/27 01:04 [FirstSquawk] Lavrov: Targeting Iranian nuclear facilities dealt an irreparable blow to the authority of the International Atomic Energy Agency
-- 09/27 01:04 [FirstSquawk] Lavrov: Frequent armed clashes in the Gulf and the Strait of Hormuz continue, harming global navigation and trade.
-- 09/27 01:04 [FirstSquawk] Lavrov: Resolving the crisis requires building trust between the Gulf states, Arab countries, and Iran
-- 09/27 01:04 [FirstSquawk] Lavrov: Russia, along with other countries, is ready to contribute constructively to the stability of the strategically important Middle East region
-- 09/27 01:04 [FirstSquawk] Lavrov: It is time to ensure the establishment of a Palestinian state based on UN resolutions
-- 09/27 01:05 [FirstSquawk] Lavrov: The Security Council approved the peace plan for the Gaza Strip about a year ago, but peace has not yet been achieved.
-- 09/27 01:05 [FirstSquawk] Lavrov: The situation in the West Bank is deteriorating further as Israel intensifies its settlement activities.
-- 09/27 01:05 [FirstSquawk] Lavrov: The absence of a Palestinian state will leave Israel's security under constant threat
-- 09/27 01:06 [FirstSquawk] Lavrov: We demand that Washington lift the trade restrictions imposed on Cuba and remove it from the list of state sponsors of terrorism.
-- 09/27 01:06 [FirstSquawk] Lavrov: The United States has destroyed the European security system and established an anti-Russian regime in Ukraine
-- 09/27 01:07 [FirstSquawk] Lavrov: Europe is working to obstruct the peace negotiations that the US administration is interested in.
-- 09/27 01:07 [FirstSquawk] Lavrov: The West continues to supply Ukraine with weapons and assist it in directing drones and missiles against civilians.
-- 09/27 01:07 [FirstSquawk] Lavrov: EU leaders are embracing extreme anti-Russian ideas and supporting the Kyiv regime
-- 09/27 01:16 [FirstSquawk] Lavrov: Using force to kill Iranian Supreme Leader Ali Khamenei and members of his family is unacceptable
-- 09/27 01:16 [FirstSquawk] Lavrov: The US and Israeli aggression targeted civilian infrastructure and Iranian nuclear facilities under IAEA safeguards.
-- 09/27 01:16 [FirstSquawk] Lavrov: The goals of the special military operation in Ukraine will be achieved, threats to our security will be eliminated, and peace will return.
 - 09/27 01:19 [FirstSquawk] Omani Foreign Minister: I discussed with my Iranian counterpart in New York efforts to de-escalate tensions and ensure the security of navigation in the Strait of Hormuz
 - 09/27 01:48 [FirstSquawk] Saudi Foreign Minister: We, along with other countries in the region, have been subjected to brutal Iranian attacks.
 - 09/27 01:49 [FirstSquawk] Saudi Foreign Minister: The security of the Gulf region is an integral part of the security of the region and the world.
@@ -144,3 +124,6 @@
 - 09/27 12:45 [FirstSquawk] Second-generation Hyundai Palisade nears 300,000 units sold worldwide - YONHAP
 - 09/27 12:47 [FirstSquawk] Semiconductors account for nearly 40% of South Korea’s industrial technology leaks: data
 - 09/27 12:56 [FirstSquawk] South Korea posts tourism deficit in July after four consecutive months of surplus - YONHAP
+- 09/27 13:00 [FirstSquawk] Morgan Stanley’s Slimmon sees stronger opportunities outside U.S. as earnings outlook improves - CNBC
+- 09/27 13:08 [FirstSquawk] U.S. nonimmigrant visas for South Koreans decline nearly 8% in 2025 after Trump takes office: data - YONHAP
+- 09/27 13:15 [FirstSquawk] Bangkok sees floodwaters subside as officials step up canal drainage efforts
