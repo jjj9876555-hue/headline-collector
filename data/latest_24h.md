@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-27 15:56 JST／対象: 09/26 15:56 〜 09/27 15:56 JST（時刻はすべて日本時間）
+生成: 2026-09-27 16:16 JST／対象: 09/26 16:16 〜 09/27 16:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/26 17:07 | 09/27 00:39 | ⚠ 291分（17:07→21:58） |
-| FirstSquawk | 243 | 09/26 16:00 | 09/27 15:28 | ⚠ 371分（03:23→09:35） |
+| FirstSquawk | 243 | 09/26 16:34 | 09/27 16:00 | ⚠ 371分（03:23→09:35） |
 | financialjuice | 44 | 09/26 16:36 | 09/27 12:09 | ⚠ 242分（06:17→10:19） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,11 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 16:00 [FirstSquawk] French Presidential Candidate Jean-Luc Mélenchon: Macron wants to send military assets to a theater of war in Saudi Arabia. What for? What would we do if we were attacked? In the end, even if we did not want it, we would become belligerents…
-- 09/26 16:00 [FirstSquawk] Vietnam to revise food safety law, reining in delivery apps like Shopee, Grab
-- 09/26 16:01 [FirstSquawk] Iraq is in direct talks with the United States to exempt some Iraqi airports from US Treasury measures affecting flights by Iranian airlines to regional airports, the Iraqi prime minister’s media office said on Saturday.
-- 09/26 16:01 [FirstSquawk] Peter Thiel: I’m not saying Pope Leo was an agent of the Communists, but he was at least acting as a useful idiot for the CCP.
-- 09/26 16:01 [FirstSquawk] OpenAI systems go rogue and meddle with US state sites
 - 09/26 16:34 [FirstSquawk] Russia stays in the top position among arms exporters Russia ranked second globally in arms exports, with $15 billion in deliveries, representing 12.5% of the global market.
 - 09/26 16:34 [FirstSquawk] Powerful storm surge hits Surf City, New Jersey, as a nor’easter pounds the coast.
 - 09/26 16:35 [FirstSquawk] Israeli airstrikes on Sajad Heights and the Thin Mountain in the Apple Region, southern Lebanon
@@ -313,3 +308,8 @@
 - 09/27 15:26 [FirstSquawk] US Energy Secretary Chris Wright told Fox News that oil flows through the Strait of Hormuz were averaging almost 13 million barrels a day.
 - 09/27 15:26 [FirstSquawk] Bangkok floodwaters recede as officials race to drain canals
 - 09/27 15:28 [FirstSquawk] Trump rejects Iranian proposal to open Hormuz and end fighting US president says Tehran wants a deal 'because they have no money coming in'
+- 09/27 15:57 [FirstSquawk] Russian Foreign Minister Sergey Lavrov criticised the use of force that killed Iran’s Supreme Leader Ayatollah Ali Khamenei and members of his family, calling the action unacceptable.
+- 09/27 15:58 [FirstSquawk] Iran’s parliament began a virtual plenary session on Sunday to continue reviewing a bill on countering foreign infiltration. Deputy Speaker Hamidreza Hajibabaei chaired the session.
+- 09/27 15:58 [FirstSquawk] China has stepped up criticism of US policy toward Cuba, urging Washington to end what Beijing describes as a “blockade” and coercive measures against Havana
+- 09/27 16:00 [FirstSquawk] Weekend markets update: #DAX 25496 -0.21% #DOW 51734 -0.18% #NASDAQ 30550 -0.28% #FTSE 10720 -0.21% #HANGSENG 24492 -0.06% #EURUSD 11387 -0.03% #GOLD 4282 -0.08% #SILVER 6418 -0.18% #USOIL 9362 +1.79%
+- 09/27 16:00 [FirstSquawk] Crypto update: #Bitcoin 84505.00 +0.56% #Ether 2706.30 +1.1% #BitcoinCash 340.18 +1.92% #EOS 0.1295 +0% #Litecoin 71.83 +0.57% #Stellar 0.2168 +0.98% #Dogecoin 0.0967 +0.94% #Uniswap 9.9111 +4.68% #Chainlink 14.2322 +1.94% #Polkadot 1.2373 …

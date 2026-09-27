@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-27 15:56 JST／対象: 09/27 03:56 〜 09/27 15:56 JST（時刻はすべて日本時間）
+生成: 2026-09-27 16:16 JST／対象: 09/27 04:16 〜 09/27 16:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 76 | 09/27 09:35 | 09/27 15:28 | 28分（09:36→10:04） |
-| financialjuice | 10 | 09/27 04:16 | 09/27 12:09 | ⚠ 242分（06:17→10:19） |
+| FirstSquawk | 81 | 09/27 09:35 | 09/27 16:00 | 29分（15:28→15:57） |
+| financialjuice | 9 | 09/27 05:16 | 09/27 12:09 | ⚠ 242分（06:17→10:19） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 85 行（統合前 86 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 89 行（統合前 90 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 04:16 [financialjuice] Trump: approved new fuel economy standards ending Biden's EV mandate
 - 09/27 05:16 [financialjuice] European Commission: President von der Leyen unveils €710 million for aid to displaced persons in Africa and worldwide crisis relief
 - 09/27 06:13 [financialjuice] Iran's foreign minister Araqchi: First reaction from U.S. president seen, but mediators have not yet communicated anything to us
 - 09/27 06:14 [financialjuice] Iran's Araqchi: awaiting mediators to relay final views for decision-making
@@ -109,3 +108,8 @@
 - 09/27 15:26 [FirstSquawk] US Energy Secretary Chris Wright told Fox News that oil flows through the Strait of Hormuz were averaging almost 13 million barrels a day.
 - 09/27 15:26 [FirstSquawk] Bangkok floodwaters recede as officials race to drain canals
 - 09/27 15:28 [FirstSquawk] Trump rejects Iranian proposal to open Hormuz and end fighting US president says Tehran wants a deal 'because they have no money coming in'
+- 09/27 15:57 [FirstSquawk] Russian Foreign Minister Sergey Lavrov criticised the use of force that killed Iran’s Supreme Leader Ayatollah Ali Khamenei and members of his family, calling the action unacceptable.
+- 09/27 15:58 [FirstSquawk] Iran’s parliament began a virtual plenary session on Sunday to continue reviewing a bill on countering foreign infiltration. Deputy Speaker Hamidreza Hajibabaei chaired the session.
+- 09/27 15:58 [FirstSquawk] China has stepped up criticism of US policy toward Cuba, urging Washington to end what Beijing describes as a “blockade” and coercive measures against Havana
+- 09/27 16:00 [FirstSquawk] Weekend markets update: #DAX 25496 -0.21% #DOW 51734 -0.18% #NASDAQ 30550 -0.28% #FTSE 10720 -0.21% #HANGSENG 24492 -0.06% #EURUSD 11387 -0.03% #GOLD 4282 -0.08% #SILVER 6418 -0.18% #USOIL 9362 +1.79%
+- 09/27 16:00 [FirstSquawk] Crypto update: #Bitcoin 84505.00 +0.56% #Ether 2706.30 +1.1% #BitcoinCash 340.18 +1.92% #EOS 0.1295 +0% #Litecoin 71.83 +0.57% #Stellar 0.2168 +0.98% #Dogecoin 0.0967 +0.94% #Uniswap 9.9111 +4.68% #Chainlink 14.2322 +1.94% #Polkadot 1.2373 …
