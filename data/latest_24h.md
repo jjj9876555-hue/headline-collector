@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-28 01:17 JST／対象: 09/27 01:17 〜 09/28 01:17 JST（時刻はすべて日本時間）
+生成: 2026-09-28 01:33 JST／対象: 09/27 01:33 〜 09/28 01:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/28 00:04 | 09/28 00:04 | - |
-| FirstSquawk | 188 | 09/27 01:19 | 09/28 01:16 | ⚠ 371分（03:23→09:35） |
+| FirstSquawk | 187 | 09/27 01:48 | 09/28 01:16 | ⚠ 371分（03:23→09:35） |
 | financialjuice | 44 | 09/27 01:57 | 09/28 00:29 | ⚠ 261分（12:09→16:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 220 行（統合前 234 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 219 行（統合前 233 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 01:19 [FirstSquawk] Omani Foreign Minister: I discussed with my Iranian counterpart in New York efforts to de-escalate tensions and ensure the security of navigation in the Strait of Hormuz
 - 09/27 01:48 [FirstSquawk] Saudi Foreign Minister: We, along with other countries in the region, have been subjected to brutal Iranian attacks.
 - 09/27 01:49 [FirstSquawk] Saudi Foreign Minister: The security of the Gulf region is an integral part of the security of the region and the world.
 - 09/27 01:49 [FirstSquawk] Saudi Foreign Minister: Restoring global supply chains is a shared responsibility
