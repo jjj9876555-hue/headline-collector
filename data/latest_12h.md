@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-27 21:21 JST／対象: 09/27 09:21 〜 09/27 21:21 JST（時刻はすべて日本時間）
+生成: 2026-09-27 21:39 JST／対象: 09/27 09:39 〜 09/27 21:39 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 117 | 09/27 09:35 | 09/27 20:49 | ⚠ 49分（19:34→20:24） |
+| FirstSquawk | 116 | 09/27 10:04 | 09/27 21:37 | ⚠ 49分（19:34→20:24） |
 | financialjuice | 15 | 09/27 10:19 | 09/27 20:38 | ⚠ 261分（12:09→16:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 132 行（統合前 132 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 131 行（統合前 131 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 09:35 [FirstSquawk] Experts warn Yemen intervention could cost Pakistan diplomatic capital - NA
-- 09/27 09:36 [FirstSquawk] Vingroup, Siemens seal up to €1 billion train deal for Hanoi, Ho Chi Minh City lines - NA
 - 09/27 10:04 [FirstSquawk] Investors debate how to respond as bond yields surge in 2026
 - 09/27 10:05 [FirstSquawk] Bond market “freaking out” amid rising yields, CBS says
 - 09/27 10:06 [FirstSquawk] Trump claims US financial figures are the “best ever,” criticizes news media
@@ -156,3 +154,4 @@
 - 09/27 20:48 [FirstSquawk] Explosives arrests made in ‘major incident’ near RAF Fairford - FT
 - 09/27 20:48 [FirstSquawk] The EU needs a clearer strategy for partners like Canada - FT
 - 09/27 20:49 [FirstSquawk] Burnham signals he will fight next election on tax rises to fund social care reform - FT
+- 09/27 21:37 [FirstSquawk] Japanese trade promotion group led by ex-foreign minister visits China -Nikkei
