@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-27 21:55 JST／対象: 09/26 21:55 〜 09/27 21:55 JST（時刻はすべて日本時間）
+生成: 2026-09-27 22:15 JST／対象: 09/26 22:15 〜 09/27 22:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 7 | 09/26 21:58 | 09/27 00:39 | ⚠ 67分（22:54→00:01） |
-| FirstSquawk | 195 | 09/26 22:41 | 09/27 21:40 | ⚠ 371分（03:23→09:35） |
-| financialjuice | 47 | 09/26 21:58 | 09/27 21:54 | ⚠ 261分（12:09→16:30） |
+| DeItaone | 6 | 09/26 22:53 | 09/27 00:39 | ⚠ 67分（22:54→00:01） |
+| FirstSquawk | 200 | 09/26 22:41 | 09/27 21:57 | ⚠ 371分（03:23→09:35） |
+| financialjuice | 49 | 09/26 22:47 | 09/27 22:01 | ⚠ 261分（12:09→16:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 242 行（統合前 249 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 243 行（統合前 255 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 21:58 [financialjuice] Top Iranian security body denies plans for military action over bans on Iranian flights - state media
-- 09/26 21:58 [DeItaone] TOP IRANIAN SECURITY BODY DENIES THAT IRAN IS PLANNING FOR MILITARY MOVES OVER BANS ON IRANIAN FLIGHTS - STATE MEDIA
 - 09/26 22:41 [FirstSquawk] Head of the Iraqi government's Security Media Commission: The international coalition has handed over all its bases and headquarters to the Iraqi authorities.
 - 09/26 22:41 [FirstSquawk] Head of the Iraqi government's Security Media Commission: There are no combat or military forces of the international coalition in Iraq.
 - 09/26 22:41 [FirstSquawk] Head of the Iraqi government's Security Media Commission: There will be no combat or training forces from the coalition after September 30
@@ -263,6 +261,9 @@
 - 09/27 20:48 [FirstSquawk] The EU needs a clearer strategy for partners like Canada - FT
 - 09/27 20:49 [FirstSquawk] Burnham signals he will fight next election on tax rises to fund social care reform - FT
 - 09/27 21:37 [FirstSquawk] Japanese trade promotion group led by ex-foreign minister visits China -Nikkei
-- 09/27 21:54 [financialjuice] UK police on Fairford air base incident: 5 men arrested near RAF Fairford
-- 09/27 21:54 [financialjuice] UK police on Fairford air base incident: men held in custody
-- 09/27 21:54 [financialjuice] UK police: 85 households told to evacuate
+- 09/27 21:54 [financialjuice/FirstSquawk] UK police on Fairford air base incident: 5 men arrested near RAF Fairford
+- 09/27 21:54 [financialjuice/FirstSquawk] UK police on Fairford air base incident: men held in custody
+- 09/27 21:54 [financialjuice/FirstSquawk] UK police: 85 households told to evacuate
+- 09/27 21:55 [financialjuice/FirstSquawk] UK police: working to determine full scope of this incident
+- 09/27 21:55 [financialjuice/FirstSquawk] UK police: working closely with partners in counterterrorism efforts
+- 09/27 22:01 [financialjuice] UK police: 5 men near RAF Fairford further apprehended on suspicion of preparing terrorist act
