@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-28 08:44 JST／対象: 09/27 08:44 〜 09/28 08:44 JST（時刻はすべて日本時間）
+生成: 2026-09-28 08:58 JST／対象: 09/27 08:58 〜 09/28 08:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 09/28 00:04 | 09/28 07:06 | ⚠ 368分（00:04→06:12） |
 | FirstSquawk | 186 | 09/27 09:35 | 09/28 08:02 | ⚠ 67分（05:59→07:06） |
-| financialjuice | 44 | 09/27 10:19 | 09/28 07:11 | ⚠ 261分（12:09→16:30） |
+| financialjuice | 57 | 09/27 10:19 | 09/28 08:57 | ⚠ 261分（12:09→16:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 224 行（統合前 236 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 237 行（統合前 249 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -248,3 +248,16 @@
 - 09/28 07:11 [financialjuice] Being Eswin computing technology announces 1.57 billion H shares offered globally
 - 09/28 08:02 [FirstSquawk] U.K. BUSINESS SECRETARY JONATHAN REYNOLDS SAYS A FULL U.S. DIESEL EXPORT BAN WOULD BE A “SIGNIFICANT CONCERN” FOR BRITAIN, WHICH SOURCES ABOUT ONE-SIXTH OF ITS DIESEL FROM THE U.S., THOUGH HE STRESSED THE U.K. HAS A DIVERSE FUEL SUPPLY.
 - 09/28 08:02 [FirstSquawk] THE U.S. IS CONSIDERING A 90-DAY DIESEL EXPORT BAN OR MORE LIMITED VOLUNTARY RESTRICTIONS AMID HIGH DOMESTIC FUEL PRICES, WHILE FRENCH PRESIDENT EMMANUEL MACRON HAS ALSO WARNED TRUMP AGAINST SUCH MEASURES.
+- 09/28 08:51 [financialjuice] BOJ july meeting minutes: members agreed financial conditions remain accommodative
+- 09/28 08:52 [financialjuice] JAPANESE SERVICE PPI ACTUAL 3.7% (FORECAST 3.6%, PREVIOUS 3.6%) $MACRO
+- 09/28 08:52 [financialjuice] BOJ minutes: some members note consumer prices rising, reflecting increased import costs
+- 09/28 08:53 [financialjuice] boj minutes: several members noted companies steadily pass rising raw material costs, sustaining high wholesale inflation
+- 09/28 08:53 [financialjuice] BOJ minutes: many members say medium-, long-term inflation expectations rising for households, companies
+- 09/28 08:54 [financialjuice] BOJ minutes: several members expect consumer goods price increases to expand from summer onward
+- 09/28 08:55 [financialjuice] BoJ minutes: many members noted underlying inflation nearing 2%, demanding focus on stability
+- 09/28 08:55 [financialjuice] Rising price growth near that level
+- 09/28 08:55 [financialjuice] BOJ minutes: one member said focus needed on whether long-term inflation expectations will settle near 2%
+- 09/28 08:55 [financialjuice] BOJ minutes: many members said underlying inflation nearing 2%, requiring focus on stabilising price growth around that level
+- 09/28 08:56 [financialjuice] Bank of Korea: to closely watch financial and forex markets
+- 09/28 08:57 [financialjuice] BOJ minutes: members concur fx volatility impacts economy, prices more than before as firms increase pass-through of rising import costs
+- 09/28 08:57 [financialjuice] BoJ minutes: one member notes rising upside price risks as recent weak yen, Middle East events could boost inflation expectations
