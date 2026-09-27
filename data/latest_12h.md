@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-28 03:53 JST／対象: 09/27 15:53 〜 09/28 03:53 JST（時刻はすべて日本時間）
+生成: 2026-09-28 04:14 JST／対象: 09/27 16:14 〜 09/28 04:14 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/28 00:04 | 09/28 00:04 | - |
-| FirstSquawk | 96 | 09/27 15:57 | 09/28 03:20 | ⚠ 58分（01:39→02:37） |
-| financialjuice | 33 | 09/27 16:30 | 09/28 03:05 | ⚠ 145分（00:29→02:54） |
+| FirstSquawk | 94 | 09/27 16:32 | 09/28 04:06 | ⚠ 58分（01:39→02:37） |
+| financialjuice | 34 | 09/27 16:30 | 09/28 04:04 | ⚠ 145分（00:29→02:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 119 行（統合前 131 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 118 行（統合前 130 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 15:57 [FirstSquawk] Russian Foreign Minister Sergey Lavrov criticised the use of force that killed Iran’s Supreme Leader Ayatollah Ali Khamenei and members of his family, calling the action unacceptable.
-- 09/27 15:58 [FirstSquawk] Iran’s parliament began a virtual plenary session on Sunday to continue reviewing a bill on countering foreign infiltration. Deputy Speaker Hamidreza Hajibabaei chaired the session.
-- 09/27 15:58 [FirstSquawk] China has stepped up criticism of US policy toward Cuba, urging Washington to end what Beijing describes as a “blockade” and coercive measures against Havana
-- 09/27 16:00 [FirstSquawk] Weekend markets update: #DAX 25496 -0.21% #DOW 51734 -0.18% #NASDAQ 30550 -0.28% #FTSE 10720 -0.21% #HANGSENG 24492 -0.06% #EURUSD 11387 -0.03% #GOLD 4282 -0.08% #SILVER 6418 -0.18% #USOIL 9362 +1.79%
-- 09/27 16:00 [FirstSquawk] Crypto update: #Bitcoin 84505.00 +0.56% #Ether 2706.30 +1.1% #BitcoinCash 340.18 +1.92% #EOS 0.1295 +0% #Litecoin 71.83 +0.57% #Stellar 0.2168 +0.98% #Dogecoin 0.0967 +0.94% #Uniswap 9.9111 +4.68% #Chainlink 14.2322 +1.94% #Polkadot 1.2373 …
 - 09/27 16:30 [financialjuice] Britain's Gloucestershire police: several men detained over explosives act violations after increased security at Fairford air base - Sky News
 - 09/27 16:31 [financialjuice] Britain's Gloucestershire police: army's specialist bomb disposal unit is currently inspecting several vehicles - Sky News
 - 09/27 16:32 [FirstSquawk] Andy Burnham will launch a new version of the controversial Help to Buy scheme through which hundreds of thousands of first-time buyers got on to the housing ladder under the previous Conservative government
@@ -143,3 +138,7 @@
 - 09/28 03:13 [FirstSquawk] DOWNING STREET SAYS UK PM BURNHAM WELCOMED THE PRIME MINISTER OF NORWAY JONAS STØRE TO LIVERPOOL TODAY, WITH THE TWO RAISING THE LUNNA HOUSE STRATEGIC DEFENCE AGREEMENT BETWEEN THE UK AND NORWAY.
 - 09/28 03:13 [FirstSquawk] DOWNING STREET SAYS UK PM BURNHAM AND THE NORWAY PM WELCOMED AN AGREEMENT BETWEEN DENMARK, GREENLAND AND THE UNITED STATES.
 - 09/28 03:20 [FirstSquawk] SERBIA’S PRESIDENT ALEKSANDAR VUCIC RESIGNS, PAVING WAY FOR EARLY PRESIDENTIAL ELECTIONS — REUTERS
+- 09/28 03:55 [FirstSquawk] US ISSUES SECURITY ALERT AFTER INCIDENT NEAR RAF FAIRFORD BASE IN UK; FIVE ARRESTED IN EXPLOSIVES PROBE
+- 09/28 04:01 [FirstSquawk] NETANYAHU TO FLY TO UAE TODAY FOR MEETING WITH PRESIDENT MOHAMMED BIN ZAYED — CHANNEL 12
+- 09/28 04:04 [financialjuice] Israeli prime minister visited Abu Dhabi on Sunday: UAE president met, Axios sources
+- 09/28 04:06 [FirstSquawk] ISRAELI PM NETANYAHU VISITED ABU DHABI ON SUNDAY, MET UAE PRESIDENT MBZ — AXIOS, CITING SOURCES

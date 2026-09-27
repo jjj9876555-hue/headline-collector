@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-28 03:53 JST／対象: 09/27 21:53 〜 09/28 03:53 JST（時刻はすべて日本時間）
+生成: 2026-09-28 04:14 JST／対象: 09/27 22:14 〜 09/28 04:14 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/28 00:04 | 09/28 00:04 | - |
-| FirstSquawk | 53 | 09/27 21:56 | 09/28 03:20 | ⚠ 58分（01:39→02:37） |
-| financialjuice | 22 | 09/27 21:54 | 09/28 03:05 | ⚠ 145分（00:29→02:54） |
+| FirstSquawk | 51 | 09/27 22:32 | 09/28 04:06 | ⚠ 58分（01:39→02:37） |
+| financialjuice | 17 | 09/27 23:08 | 09/28 04:04 | ⚠ 145分（00:29→02:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 66 行（統合前 77 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 64 行（統合前 70 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 21:54 [financialjuice/FirstSquawk] UK police on Fairford air base incident: 5 men arrested near RAF Fairford
-- 09/27 21:54 [financialjuice/FirstSquawk] UK police on Fairford air base incident: men held in custody
-- 09/27 21:54 [financialjuice/FirstSquawk] UK police: 85 households told to evacuate
-- 09/27 21:55 [financialjuice/FirstSquawk] UK police: working to determine full scope of this incident
-- 09/27 21:55 [financialjuice/FirstSquawk] UK police: working closely with partners in counterterrorism efforts
-- 09/27 22:01 [financialjuice] UK police: 5 men near RAF Fairford further apprehended on suspicion of preparing terrorist act
 - 09/27 22:32 [FirstSquawk] Trump: We moved a record amount of oil through the Strait of Hormuz last night, more than we moved before the war began.
 - 09/27 22:33 [FirstSquawk] Iraqi official: Suspension of flights with Iran depends on ground service companies complying with US Treasury instructions
 - 09/27 22:33 [FirstSquawk] Iraqi official: The lack of a publicly stated government position on Iranian flights is due to the sensitivity of the issue.
@@ -90,3 +84,7 @@
 - 09/28 03:13 [FirstSquawk] DOWNING STREET SAYS UK PM BURNHAM WELCOMED THE PRIME MINISTER OF NORWAY JONAS STØRE TO LIVERPOOL TODAY, WITH THE TWO RAISING THE LUNNA HOUSE STRATEGIC DEFENCE AGREEMENT BETWEEN THE UK AND NORWAY.
 - 09/28 03:13 [FirstSquawk] DOWNING STREET SAYS UK PM BURNHAM AND THE NORWAY PM WELCOMED AN AGREEMENT BETWEEN DENMARK, GREENLAND AND THE UNITED STATES.
 - 09/28 03:20 [FirstSquawk] SERBIA’S PRESIDENT ALEKSANDAR VUCIC RESIGNS, PAVING WAY FOR EARLY PRESIDENTIAL ELECTIONS — REUTERS
+- 09/28 03:55 [FirstSquawk] US ISSUES SECURITY ALERT AFTER INCIDENT NEAR RAF FAIRFORD BASE IN UK; FIVE ARRESTED IN EXPLOSIVES PROBE
+- 09/28 04:01 [FirstSquawk] NETANYAHU TO FLY TO UAE TODAY FOR MEETING WITH PRESIDENT MOHAMMED BIN ZAYED — CHANNEL 12
+- 09/28 04:04 [financialjuice] Israeli prime minister visited Abu Dhabi on Sunday: UAE president met, Axios sources
+- 09/28 04:06 [FirstSquawk] ISRAELI PM NETANYAHU VISITED ABU DHABI ON SUNDAY, MET UAE PRESIDENT MBZ — AXIOS, CITING SOURCES
