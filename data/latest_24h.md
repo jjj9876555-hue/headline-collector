@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-27 20:32 JST／対象: 09/26 20:32 〜 09/27 20:32 JST（時刻はすべて日本時間）
+生成: 2026-09-27 20:45 JST／対象: 09/26 20:45 〜 09/27 20:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/26 21:58 | 09/27 00:39 | ⚠ 67分（22:54→00:01） |
-| FirstSquawk | 216 | 09/26 20:35 | 09/27 20:24 | ⚠ 371分（03:23→09:35） |
-| financialjuice | 43 | 09/26 21:58 | 09/27 19:44 | ⚠ 261分（12:09→16:30） |
+| FirstSquawk | 215 | 09/26 20:52 | 09/27 20:34 | ⚠ 371分（03:23→09:35） |
+| financialjuice | 44 | 09/26 21:58 | 09/27 20:38 | ⚠ 261分（12:09→16:30） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 260 行（統合前 266 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,9 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 20:35 [FirstSquawk] Ethiopian Army Chief of Staff: The Tigray Front is trying to push the country into a new war through its provocations.
-- 09/26 20:35 [FirstSquawk] Ethiopian Army Chief of Staff: We are exercising restraint in dealing with the Tigray Front's movements to avoid dragging the people into a pointless war.
-- 09/26 20:35 [FirstSquawk] Ethiopian Army Chief of Staff: Armed groups cannot confront Ethiopia without external support
 - 09/26 20:52 [FirstSquawk] China Foreign Minister Wang Yi: Xi's U.S. Visit Opens "New Chapter" In China-U.S. Relations - Ministry Statement
 - 09/26 20:53 [FirstSquawk] NHC: Polo moving west-northwestward as an extremely dangerous Category 5 hurricane, expected to make landfall in Baja California Sur on Monday as a powerful hurricane
 - 09/26 20:54 [FirstSquawk] Kremlin: Putin discusses Ukraine, energy cooperation in phone call with Serbia's Vucic - IFX
@@ -284,3 +281,6 @@
 - 09/27 19:44 [financialjuice] Yemen's Houthi-run health ministry: 7 killed, 40 wounded in market strike in Taiz - Saba News Agency
 - 09/27 20:24 [FirstSquawk] Israeli airstrike on the town of Khiam in the Marjeyoun district of southern Lebanon
 - 09/27 20:24 [FirstSquawk] Israeli airstrike on the outskirts of Haris town in Bint Jbeil district, southern Lebanon
+- 09/27 20:33 [FirstSquawk] Lebanese media: Israeli raids on the towns of "Khiam" and "Mays al-Jabal" and explosions near the towns of "Barashit" and "Beit Yahoun"
+- 09/27 20:34 [FirstSquawk] Palestinian Foreign Ministry: Smotrich's statements regarding the West Bank are dangerous and a blatant call to expand the war of extermination, displacement, and annexation.
+- 09/27 20:38 [financialjuice] Pakistan information ministry rejects Afghan allegations of backing fighters in Nuristan, denies training ex-Afghan security personnel
