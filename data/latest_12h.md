@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-27 09:25 JST／対象: 09/26 21:25 〜 09/27 09:25 JST（時刻はすべて日本時間）
+生成: 2026-09-27 09:49 JST／対象: 09/26 21:49 〜 09/27 09:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/26 21:58 | 09/27 00:39 | ⚠ 67分（22:54→00:01） |
-| FirstSquawk | 92 | 09/26 21:30 | 09/27 03:23 | ⚠ 52分（01:54→02:46） |
+| FirstSquawk | 82 | 09/26 21:49 | 09/27 09:36 | ⚠ 371分（03:23→09:35） |
 | financialjuice | 29 | 09/26 21:58 | 09/27 06:17 | ⚠ 60分（04:16→05:16） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 123 行（統合前 128 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 113 行（統合前 118 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 21:30 [FirstSquawk] Gold Fields said to consider its next steps after rebuff
-- 09/26 21:30 [FirstSquawk] Gold Fields said to express interest in buying Northern Star
-- 09/26 21:30 [FirstSquawk] Japan PM has phone talks with Trump after US-China summit: Kyodo
-- 09/26 21:31 [FirstSquawk] China attaches importance to US position on AI, ministry says
-- 09/26 21:31 [FirstSquawk] China respects US's use of 'super intelligence' rather than AI
-- 09/26 21:32 [FirstSquawk] China seeks deeper discussions, consensus on AI with US
-- 09/26 21:39 [FirstSquawk] Gold Fields Eyes Northern Star Acquisition Gold Fields Ltd. has expressed interest in acquiring Northern Star Resources Ltd., according to people familiar with the matter. Northern Star rebuffed the approach, while Gold Fields is considerin…
-- 09/26 21:40 [FirstSquawk] UBS Leaving Switzerland Would Be More Expensive, Swiss Minister Says Swiss Finance Minister Karin Keller-Sutter said leaving Switzerland would be more expensive and legally complex for UBS Group AG, as the bank opposes planned stricter capi…
-- 09/26 21:41 [FirstSquawk] China to Buy 10 Million Tons of US Coal in 2027, 2028 China agreed to import at least 10 million metric tons of coal from the US in both 2027 and 2028, according to the White House, as the two countries move to ease trade tensions. The agre…
-- 09/26 21:42 [FirstSquawk] Iraq in Talks With US Over Exemption From Iranian Airlines Ban Iraq is in direct talks with the US to exempt certain Iraqi airports from measures imposed on Iranian airlines by the US Treasury, according to the prime minister’s office. Iraq…
-- 09/26 21:44 [FirstSquawk] White House Signals It Won’t Ban Diesel Exports, Senator Says The White House has assured Senator Ted Cruz that the Trump administration will not ban US diesel exports, according to people familiar with the matter, as officials weigh measur…
-- 09/26 21:45 [FirstSquawk] OpenAI Systems Meddled With US Government Sites After Going Rogue OpenAI’s AI agents interacted with websites operated by the US Education and Commerce departments and the SEC in unexpected ways, according to security researchers and a pers…
 - 09/26 21:49 [FirstSquawk] Houthis Attack Riyadh Again as Trump Rejects Ceasefire Offer Yemen’s Houthis launched fresh attacks toward Riyadh, with Saudi air defenses intercepting two drones and a ballistic missile targeting the kingdom, as tensions between the US and…
 - 09/26 21:50 [FirstSquawk] 5.2 MAG. EARTHQUAKE 79 KM NE OF TADINE NEW CALEDONIA - USGS
 - 09/26 21:51 [FirstSquawk] Iran Says Flights to Turkey, China, Pakistan Operational Flights from Iran to Turkey, Malaysia, China and Pakistan remain operational, while services to the UAE, Iraq, Oman and Georgia remain canceled, IRIB reported. Flights to Vietnam and …
@@ -147,3 +135,5 @@
 - 09/27 06:14 [financialjuice] Iran's Araqchi: awaiting mediators to relay final views for decision-making
 - 09/27 06:14 [financialjuice] Iran's Araqchi: conditions clear, any opening of Strait of Hormuz depends on them
 - 09/27 06:17 [financialjuice] Iran's Aragchi: negotiated solution is the only way to end deadlock, that is our stance
+- 09/27 09:35 [FirstSquawk] Experts warn Yemen intervention could cost Pakistan diplomatic capital - NA
+- 09/27 09:36 [FirstSquawk] Vingroup, Siemens seal up to €1 billion train deal for Hanoi, Ho Chi Minh City lines - NA

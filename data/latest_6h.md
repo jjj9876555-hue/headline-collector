@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-27 09:25 JST／対象: 09/27 03:25 〜 09/27 09:25 JST（時刻はすべて日本時間）
+生成: 2026-09-27 09:49 JST／対象: 09/27 03:49 〜 09/27 09:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 0 | - | - | - |
-| financialjuice | 8 | 09/27 03:36 | 09/27 06:17 | ⚠ 60分（04:16→05:16） |
+| FirstSquawk | 2 | 09/27 09:35 | 09/27 09:36 | 1分（09:35→09:36） |
+| financialjuice | 6 | 09/27 04:16 | 09/27 06:17 | ⚠ 60分（04:16→05:16） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 8 行（統合前 8 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,11 +24,11 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 03:36 [financialjuice] Libya reopens Sharara-Zawiya pipeline valve: resumes crude flow, says Libya's NOC
-- 09/27 03:38 [financialjuice] Libya's National Oil Corporation: crude output to gradually return to normal levels
 - 09/27 04:16 [financialjuice] Trump: approved new fuel economy standards ending Biden's EV mandate
 - 09/27 05:16 [financialjuice] European Commission: President von der Leyen unveils €710 million for aid to displaced persons in Africa and worldwide crisis relief
 - 09/27 06:13 [financialjuice] Iran's foreign minister Araqchi: First reaction from U.S. president seen, but mediators have not yet communicated anything to us
 - 09/27 06:14 [financialjuice] Iran's Araqchi: awaiting mediators to relay final views for decision-making
 - 09/27 06:14 [financialjuice] Iran's Araqchi: conditions clear, any opening of Strait of Hormuz depends on them
 - 09/27 06:17 [financialjuice] Iran's Aragchi: negotiated solution is the only way to end deadlock, that is our stance
+- 09/27 09:35 [FirstSquawk] Experts warn Yemen intervention could cost Pakistan diplomatic capital - NA
+- 09/27 09:36 [FirstSquawk] Vingroup, Siemens seal up to €1 billion train deal for Hanoi, Ho Chi Minh City lines - NA

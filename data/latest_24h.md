@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-27 09:25 JST／対象: 09/26 09:25 〜 09/27 09:25 JST（時刻はすべて日本時間）
+生成: 2026-09-27 09:49 JST／対象: 09/26 09:49 〜 09/27 09:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/26 17:07 | 09/27 00:39 | ⚠ 291分（17:07→21:58） |
-| FirstSquawk | 281 | 09/26 11:20 | 09/27 03:23 | ⚠ 65分（19:20→20:25） |
-| financialjuice | 54 | 09/26 09:26 | 09/27 06:17 | ⚠ 215分（13:00→16:36） |
+| FirstSquawk | 283 | 09/26 11:20 | 09/27 09:36 | ⚠ 371分（03:23→09:35） |
+| financialjuice | 48 | 09/26 09:53 | 09/27 06:17 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 338 行（統合前 343 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 334 行（統合前 339 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 09:26 [financialjuice] OpenAI: models accessed publicly available info on and
-- 09/26 09:26 [financialjuice] OpenAI: Our models accessed some publicly available US Census Bureau data during internal training tasks
-- 09/26 09:27 [financialjuice] OpenAI: proactively informed US Census Bureau and provided technical details to aid review
-- 09/26 09:27 [financialjuice] OpenAI: review finds no access to census accounts, key-management roles, or ability to alter census data or systems
-- 09/26 09:27 [financialjuice] Trump rejects Iran ceasefire: anticipates increased bombing after midterms - WSJ
-- 09/26 09:28 [financialjuice] Trump skeptical Tehran will comply with his demands: WSJ
 - 09/26 09:53 [financialjuice] Saudi civil defense issues warning over potential risk in Khamis Mushait
 - 09/26 09:59 [financialjuice] Saudi civil defense: danger has passed in Khamis Mushait
 - 09/26 10:00 [financialjuice] Saudi-led coalition: monitoring missile and drone attacks on Saudi
@@ -362,3 +356,5 @@
 - 09/27 06:14 [financialjuice] Iran's Araqchi: awaiting mediators to relay final views for decision-making
 - 09/27 06:14 [financialjuice] Iran's Araqchi: conditions clear, any opening of Strait of Hormuz depends on them
 - 09/27 06:17 [financialjuice] Iran's Aragchi: negotiated solution is the only way to end deadlock, that is our stance
+- 09/27 09:35 [FirstSquawk] Experts warn Yemen intervention could cost Pakistan diplomatic capital - NA
+- 09/27 09:36 [FirstSquawk] Vingroup, Siemens seal up to €1 billion train deal for Hanoi, Ho Chi Minh City lines - NA
