@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-27 10:59 JST／対象: 09/26 22:59 〜 09/27 10:59 JST（時刻はすべて日本時間）
+生成: 2026-09-27 11:18 JST／対象: 09/26 23:18 〜 09/27 11:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/27 00:01 | 09/27 00:39 | 19分（00:19→00:39） |
-| FirstSquawk | 90 | 09/26 23:00 | 09/27 10:55 | ⚠ 371分（03:23→09:35） |
-| financialjuice | 24 | 09/26 23:00 | 09/27 10:19 | ⚠ 242分（06:17→10:19） |
+| FirstSquawk | 92 | 09/26 23:25 | 09/27 11:13 | ⚠ 371分（03:23→09:35） |
+| financialjuice | 22 | 09/26 23:24 | 09/27 10:19 | ⚠ 242分（06:17→10:19） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 111 行（統合前 117 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,10 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 23:00 [financialjuice] Iraq in discussions with US to exempt some Iraqi airports from Iranian airline restrictions: Iraqi PM office
-- 09/26 23:00 [FirstSquawk] Iraq negotiating with US over airport exemptions for Iranian airlines
-- 09/26 23:01 [FirstSquawk] Iraq: Easing restrictions on Iranian airlines would enable humanitarian flights to resume
-- 09/26 23:01 [financialjuice] Easing limits on Iranian airlines allows Iraq to restart flights for humanitarian aid: Iraqi PM office
 - 09/26 23:24 [financialjuice/FirstSquawk] Pakistan PM Sharif on Houthis attacks on Saudi Arabia: Any threat to security, sanctity of Two Holy Mosques is a red line that can't be crossed under any circumstances
 - 09/26 23:25 [FirstSquawk] Trump: US expects to make a deal with Cuba without needing the military
 - 09/26 23:25 [financialjuice] Trump: Cuba and US to strike a deal, don’t expect military involvement
@@ -135,3 +131,7 @@
 - 09/27 10:51 [FirstSquawk] Polymarket puts Democrats’ chances of sweeping 2026 midterms at 64%
 - 09/27 10:52 [FirstSquawk] German and Russian foreign ministers meet at UN as Berlin urges Moscow to enter negotiations
 - 09/27 10:55 [FirstSquawk] OpenAI agents used aggressive techniques to access U.N. website, hitting it more than 16,000 times - WSJ
+- 09/27 11:00 [FirstSquawk] Japanese Ground Self-Defense Force long-range missiles expected in October U.S. drill — Kyodo
+- 09/27 11:08 [FirstSquawk] Takaichi: Japan and U.S. agreed to collaborate on China issues, including economic security
+- 09/27 11:12 [FirstSquawk] U.S. farmers reconsider ties with GOP amid shifting political and economic pressures — WSJ
+- 09/27 11:13 [FirstSquawk] 737 MAX software glitch may affect navigation during landings as Boeing develops fix - WSJ

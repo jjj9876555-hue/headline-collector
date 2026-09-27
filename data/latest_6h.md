@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-27 10:59 JST／対象: 09/27 04:59 〜 09/27 10:59 JST（時刻はすべて日本時間）
+生成: 2026-09-27 11:18 JST／対象: 09/27 05:18 〜 09/27 11:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 29 | 09/27 09:35 | 09/27 10:55 | 28分（09:36→10:04） |
-| financialjuice | 7 | 09/27 05:16 | 09/27 10:19 | ⚠ 242分（06:17→10:19） |
+| FirstSquawk | 33 | 09/27 09:35 | 09/27 11:13 | 28分（09:36→10:04） |
+| financialjuice | 6 | 09/27 06:13 | 09/27 10:19 | ⚠ 242分（06:17→10:19） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 35 行（統合前 36 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 38 行（統合前 39 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 05:16 [financialjuice] European Commission: President von der Leyen unveils €710 million for aid to displaced persons in Africa and worldwide crisis relief
 - 09/27 06:13 [financialjuice] Iran's foreign minister Araqchi: First reaction from U.S. president seen, but mediators have not yet communicated anything to us
 - 09/27 06:14 [financialjuice] Iran's Araqchi: awaiting mediators to relay final views for decision-making
 - 09/27 06:14 [financialjuice] Iran's Araqchi: conditions clear, any opening of Strait of Hormuz depends on them
@@ -59,3 +58,7 @@
 - 09/27 10:51 [FirstSquawk] Polymarket puts Democrats’ chances of sweeping 2026 midterms at 64%
 - 09/27 10:52 [FirstSquawk] German and Russian foreign ministers meet at UN as Berlin urges Moscow to enter negotiations
 - 09/27 10:55 [FirstSquawk] OpenAI agents used aggressive techniques to access U.N. website, hitting it more than 16,000 times - WSJ
+- 09/27 11:00 [FirstSquawk] Japanese Ground Self-Defense Force long-range missiles expected in October U.S. drill — Kyodo
+- 09/27 11:08 [FirstSquawk] Takaichi: Japan and U.S. agreed to collaborate on China issues, including economic security
+- 09/27 11:12 [FirstSquawk] U.S. farmers reconsider ties with GOP amid shifting political and economic pressures — WSJ
+- 09/27 11:13 [FirstSquawk] 737 MAX software glitch may affect navigation during landings as Boeing develops fix - WSJ
