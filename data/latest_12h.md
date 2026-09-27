@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-28 05:33 JST／対象: 09/27 17:33 〜 09/28 05:33 JST（時刻はすべて日本時間）
+生成: 2026-09-28 05:46 JST／対象: 09/27 17:46 〜 09/28 05:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/28 00:04 | 09/28 00:04 | - |
 | FirstSquawk | 88 | 09/27 18:07 | 09/28 05:06 | ⚠ 58分（01:39→02:37） |
-| financialjuice | 37 | 09/27 17:39 | 09/28 05:07 | ⚠ 145分（00:29→02:54） |
+| financialjuice | 35 | 09/27 18:08 | 09/28 05:07 | ⚠ 145分（00:29→02:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 115 行（統合前 127 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 113 行（統合前 125 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 17:39 [financialjuice] Iran's army spokesperson: US may initiate fresh strike due to 'its poor regional situation' - state media
-- 09/27 17:40 [financialjuice] Iran army spokesman: Tehran ready for clash, will cause greater damage to US - state media
 - 09/27 18:07 [FirstSquawk] US touts coal purchases, progress on trade vehicle, following Xi visit
 - 09/27 18:07 [FirstSquawk] After four years in opposition, Sweden’s former PM Magdalena Andersson is about to retake power. She aims to use it to fortify Europe’s place in an unstable world.
 - 09/27 18:08 [FirstSquawk] Australia Treasurer says new figures to be published on Monday will show the nation’s deficit for last financial year was “billions of dollars” smaller than forecast at the budget in May

@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-28 05:33 JST／対象: 09/27 23:33 〜 09/28 05:33 JST（時刻はすべて日本時間）
+生成: 2026-09-28 05:46 JST／対象: 09/27 23:46 〜 09/28 05:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/28 00:04 | 09/28 00:04 | - |
 | FirstSquawk | 43 | 09/27 23:51 | 09/28 05:06 | ⚠ 58分（01:39→02:37） |
-| financialjuice | 21 | 09/27 23:42 | 09/28 05:07 | ⚠ 145分（00:29→02:54） |
+| financialjuice | 18 | 09/27 23:52 | 09/28 05:07 | ⚠ 145分（00:29→02:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 61 行（統合前 66 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 58 行（統合前 63 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 23:42 [financialjuice] Trump: Arrests in UK were a positive development
-- 09/27 23:42 [financialjuice] Trump: Suspects had been under surveillance for a long time and we captured them
-- 09/27 23:44 [financialjuice] Trump: suspects aimed to cause major harm
 - 09/27 23:51 [FirstSquawk] Araqchi to NBC: We are as ready to negotiate as we are to confront any aggression, even if it comes to a devastating war
 - 09/27 23:52 [financialjuice] Libya's NOC: first refining units at Zawiya refinery, crude oil flow through main Sharara-Zawiya pipeline resumed after valve 7 reopening - statement
 - 09/27 23:52 [FirstSquawk] US Treasury Secretary: China has significantly reduced its aid to Iran
