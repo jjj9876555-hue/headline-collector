@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-27 12:25 JST／対象: 09/26 12:25 〜 09/27 12:25 JST（時刻はすべて日本時間）
+生成: 2026-09-27 12:45 JST／対象: 09/26 12:45 〜 09/27 12:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/26 17:07 | 09/27 00:39 | ⚠ 291分（17:07→21:58） |
-| FirstSquawk | 277 | 09/26 12:26 | 09/27 12:24 | ⚠ 371分（03:23→09:35） |
+| FirstSquawk | 273 | 09/26 12:45 | 09/27 12:39 | ⚠ 371分（03:23→09:35） |
 | financialjuice | 45 | 09/26 13:00 | 09/27 12:09 | ⚠ 242分（06:17→10:19） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 324 行（統合前 330 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 320 行（統合前 326 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 12:26 [FirstSquawk] Hurricane Polo shows Category 5 winds, NOAA aircraft measures, NHC says
-- 09/26 12:28 [FirstSquawk] Moody’s says Angola’s outlook change reflects stronger macroeconomic stability amid varying oil prices
-- 09/26 12:32 [FirstSquawk] Major Hurricane Odalys moving slowly toward the north-northeast, NHC says
-- 09/26 12:34 [FirstSquawk] Merck and Daiichi Sankyo withdraw US BLA for ifinatamab deruxtecan in extensive-stage SCLC
-- 09/26 12:34 [FirstSquawk] Merck & Co. advances two additional Phase 3 trials of ifinatamab deruxtecan in CRPC, ESCC
-- 09/26 12:40 [FirstSquawk] Cape Town offers affordable winter sun for UK travellers despite stronger rand - FT
-- 09/26 12:41 [FirstSquawk] Adult children in UK face average £300 monthly charge to live with parents - FT
 - 09/26 12:45 [FirstSquawk] S&P expects Mozambique LNG restart to reduce fiscal pressure, but benefits to come after 2030
 - 09/26 12:48 [FirstSquawk] S&P: Czech government debt to stay moderate by global standards through 2029
 - 09/26 12:51 [FirstSquawk] China researchers warn offshore wind farms could disrupt radar, create ‘ghost’ targets - SCMP
@@ -348,3 +341,6 @@
 - 09/27 12:10 [FirstSquawk] Trump shares details of latest U.S.-China summit with Japan PM Takaichi: Japan foreign ministry
 - 09/27 12:17 [FirstSquawk] Japan’s wedding industry turns to foreign couples as domestic marriages fall - NA
 - 09/27 12:24 [FirstSquawk] Iran maintains diplomatic approach after Trump rejects proposed peace plan - RTRS
+- 09/27 12:31 [FirstSquawk] Russia’s Lavrov criticizes U.S. actions toward Maduro and Iran at UN - NYT
+- 09/27 12:32 [FirstSquawk] Russia’s Lavrov criticizes U.S. actions toward Maduro and Iran at UN
+- 09/27 12:39 [FirstSquawk] South Korea sees improved Q4 business sentiment as semiconductor and cosmetics exports remain strong

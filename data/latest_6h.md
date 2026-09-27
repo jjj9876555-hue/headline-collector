@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-27 12:25 JST／対象: 09/27 06:25 〜 09/27 12:25 JST（時刻はすべて日本時間）
+生成: 2026-09-27 12:45 JST／対象: 09/27 06:45 〜 09/27 12:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 49 | 09/27 09:35 | 09/27 12:24 | 28分（09:36→10:04） |
+| FirstSquawk | 52 | 09/27 09:35 | 09/27 12:39 | 28分（09:36→10:04） |
 | financialjuice | 4 | 09/27 10:19 | 09/27 12:09 | ⚠ 109分（10:19→12:09） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 53 行（統合前 53 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 56 行（統合前 56 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -77,3 +77,6 @@
 - 09/27 12:10 [FirstSquawk] Trump shares details of latest U.S.-China summit with Japan PM Takaichi: Japan foreign ministry
 - 09/27 12:17 [FirstSquawk] Japan’s wedding industry turns to foreign couples as domestic marriages fall - NA
 - 09/27 12:24 [FirstSquawk] Iran maintains diplomatic approach after Trump rejects proposed peace plan - RTRS
+- 09/27 12:31 [FirstSquawk] Russia’s Lavrov criticizes U.S. actions toward Maduro and Iran at UN - NYT
+- 09/27 12:32 [FirstSquawk] Russia’s Lavrov criticizes U.S. actions toward Maduro and Iran at UN
+- 09/27 12:39 [FirstSquawk] South Korea sees improved Q4 business sentiment as semiconductor and cosmetics exports remain strong
