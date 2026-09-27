@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-28 06:16 JST／対象: 09/27 06:16 〜 09/28 06:16 JST（時刻はすべて日本時間）
+生成: 2026-09-28 06:32 JST／対象: 09/27 06:32 〜 09/28 06:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 2 | 09/28 00:04 | 09/28 06:12 | ⚠ 368分（00:04→06:12） |
+| DeItaone | 4 | 09/28 00:04 | 09/28 06:27 | ⚠ 368分（00:04→06:12） |
 | FirstSquawk | 183 | 09/27 09:35 | 09/28 05:59 | ⚠ 58分（01:39→02:37） |
-| financialjuice | 44 | 09/27 06:17 | 09/28 05:07 | ⚠ 261分（12:09→16:30） |
+| financialjuice | 43 | 09/27 10:19 | 09/28 05:07 | ⚠ 261分（12:09→16:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 217 行（統合前 230 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 219 行（統合前 231 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 06:17 [financialjuice/FirstSquawk] Iran's Aragchi: negotiated solution is the only way to end deadlock, that is our stance
 - 09/27 09:35 [FirstSquawk] Experts warn Yemen intervention could cost Pakistan diplomatic capital - NA
 - 09/27 09:36 [FirstSquawk] Vingroup, Siemens seal up to €1 billion train deal for Hanoi, Ho Chi Minh City lines - NA
 - 09/27 10:04 [FirstSquawk] Investors debate how to respond as bond yields surge in 2026
@@ -42,6 +41,7 @@
 - 09/27 10:23 [FirstSquawk] Iran’s Araqchi: First U.S. presidential reaction seen, but no message received from mediators
 - 09/27 10:23 [FirstSquawk] Araqchi: Iran awaits final views from mediators before deciding next steps
 - 09/27 10:23 [FirstSquawk] Iran FM Araqchi: Any reopening of Strait of Hormuz depends on meeting stated conditions
+- 09/27 10:24 [FirstSquawk] Iran's Aragchi: negotiated solution is the only way to end deadlock, that is our stance
 - 09/27 10:29 [FirstSquawk] BOJ rate hikes spur Japanese retail investors to sell shares at fastest pace since March
 - 09/27 10:30 [FirstSquawk] Tesla increases Texas Cybercab fleet to 127 vehicles - kalshi says
 - 09/27 10:31 [FirstSquawk] Visa study: Safeguards may encourage more Americans to use stablecoins
@@ -241,3 +241,5 @@
 - 09/28 05:59 [FirstSquawk] TRUMP SAYS HE IS CONSIDERING A DIESEL EXPORT BAN 'VERY SERIOUSLY' AND THAT THE U.S. MAY IMPLEMENT IT, THOUGH IT COULD CAUSE A SMALL RISE IN GASOLINE PRICES.
 - 09/28 05:59 [FirstSquawk] TRUMP SAYS THE U.S. WILL WIN AGAINST IRAN IN MILITARY AND ECONOMIC WARFARE, CLAIMING IRAN INFLATION WAS AT 318% AS OF THIS MORNING AND EXPECTING THE WAR TO END 'VERY SOON' AND OIL PRICES TO FALL, WHILE DECLINING TO SAY WHETHER IRAN STRIKES …
 - 09/28 06:12 [DeItaone] *TRUMP ON IRAN STRIKES BEFORE MIDTERMS: DON’T WANT TO SAY
+- 09/28 06:27 [DeItaone] *TRUMP ON DIESEL EXPORT BAN: THINKING OF IT VERY SERIOUSLY
+- 09/28 06:27 [DeItaone] *TRUMP: DIESEL EXPORT BAN MAY CAUSE A LITTLE CAR GASOLINE RISE

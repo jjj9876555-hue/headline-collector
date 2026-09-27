@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-28 06:16 JST／対象: 09/27 18:16 〜 09/28 06:16 JST（時刻はすべて日本時間）
+生成: 2026-09-28 06:32 JST／対象: 09/27 18:32 〜 09/28 06:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 2 | 09/28 00:04 | 09/28 06:12 | ⚠ 368分（00:04→06:12） |
+| DeItaone | 4 | 09/28 00:04 | 09/28 06:27 | ⚠ 368分（00:04→06:12） |
 | FirstSquawk | 86 | 09/27 18:38 | 09/28 05:59 | ⚠ 58分（01:39→02:37） |
 | financialjuice | 34 | 09/27 18:47 | 09/28 05:07 | ⚠ 145分（00:29→02:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 111 行（統合前 123 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 113 行（統合前 125 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -135,3 +135,5 @@
 - 09/28 05:59 [FirstSquawk] TRUMP SAYS HE IS CONSIDERING A DIESEL EXPORT BAN 'VERY SERIOUSLY' AND THAT THE U.S. MAY IMPLEMENT IT, THOUGH IT COULD CAUSE A SMALL RISE IN GASOLINE PRICES.
 - 09/28 05:59 [FirstSquawk] TRUMP SAYS THE U.S. WILL WIN AGAINST IRAN IN MILITARY AND ECONOMIC WARFARE, CLAIMING IRAN INFLATION WAS AT 318% AS OF THIS MORNING AND EXPECTING THE WAR TO END 'VERY SOON' AND OIL PRICES TO FALL, WHILE DECLINING TO SAY WHETHER IRAN STRIKES …
 - 09/28 06:12 [DeItaone] *TRUMP ON IRAN STRIKES BEFORE MIDTERMS: DON’T WANT TO SAY
+- 09/28 06:27 [DeItaone] *TRUMP ON DIESEL EXPORT BAN: THINKING OF IT VERY SERIOUSLY
+- 09/28 06:27 [DeItaone] *TRUMP: DIESEL EXPORT BAN MAY CAUSE A LITTLE CAR GASOLINE RISE
