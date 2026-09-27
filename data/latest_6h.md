@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-28 06:58 JST／対象: 09/28 00:58 〜 09/28 06:58 JST（時刻はすべて日本時間）
+生成: 2026-09-28 07:16 JST／対象: 09/28 01:16 〜 09/28 07:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 3 | 09/28 06:12 | 09/28 06:27 | 14分（06:12→06:27） |
-| FirstSquawk | 29 | 09/28 01:15 | 09/28 05:59 | ⚠ 58分（01:39→02:37） |
-| financialjuice | 12 | 09/28 02:54 | 09/28 05:07 | ⚠ 60分（04:04→05:04） |
+| DeItaone | 4 | 09/28 06:12 | 09/28 07:06 | 39分（06:27→07:06） |
+| FirstSquawk | 26 | 09/28 01:38 | 09/28 07:06 | ⚠ 67分（05:59→07:06） |
+| financialjuice | 13 | 09/28 02:54 | 09/28 07:11 | ⚠ 124分（05:07→07:11） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 44 行（統合前 44 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 43 行（統合前 43 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 01:15 [FirstSquawk] South Korea expresses strong regret over Ukraine's refusal of nondisclosure agreement on North Korean POWs - Yonhap
-- 09/28 01:15 [FirstSquawk] South Korean presidency: country contemplating extra actions on issue - Yonhap
-- 09/28 01:16 [FirstSquawk] China considers permitting ByteDance, Alibaba to buy new Nvidia chips - The Information
-- 09/28 01:16 [FirstSquawk] Anthropic's Dario Amodei to attend White House dinner with Trump: Axios
 - 09/28 01:38 [FirstSquawk] Iranian President: If America accepts the legal frameworks and our rights, we have no dispute with them; otherwise, we will never back down.
 - 09/28 01:38 [FirstSquawk] WSJ, citing a US official: Threat level raised at British base Fairford Saturday evening
 - 09/28 01:39 [FirstSquawk] WSJ, citing a US official: Fairford base is a key launchpad for military operations targeting Iran
@@ -68,3 +64,6 @@
 - 09/28 06:12 [DeItaone] *TRUMP ON IRAN STRIKES BEFORE MIDTERMS: DON’T WANT TO SAY
 - 09/28 06:27 [DeItaone] *TRUMP ON DIESEL EXPORT BAN: THINKING OF IT VERY SERIOUSLY
 - 09/28 06:27 [DeItaone] *TRUMP: DIESEL EXPORT BAN MAY CAUSE A LITTLE CAR GASOLINE RISE
+- 09/28 07:06 [DeItaone] OIL PRICES REBOUND MORE THAN 1% AFTER TRUMP REJECTS IRAN PEACE DEAL TO REOPEN STRAIT OF HORMUZ
+- 09/28 07:06 [FirstSquawk] US STOCK FUTURES EDGE LOWER: S&P 500 FUTURES -0.1%, NASDAQ FUTURES -0.1%
+- 09/28 07:11 [financialjuice] Being Eswin computing technology announces 1.57 billion H shares offered globally

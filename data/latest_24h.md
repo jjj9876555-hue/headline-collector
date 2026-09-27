@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-28 06:58 JST／対象: 09/27 06:58 〜 09/28 06:58 JST（時刻はすべて日本時間）
+生成: 2026-09-28 07:16 JST／対象: 09/27 07:16 〜 09/28 07:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 4 | 09/28 00:04 | 09/28 06:27 | ⚠ 368分（00:04→06:12） |
-| FirstSquawk | 183 | 09/27 09:35 | 09/28 05:59 | ⚠ 58分（01:39→02:37） |
-| financialjuice | 43 | 09/27 10:19 | 09/28 05:07 | ⚠ 261分（12:09→16:30） |
+| DeItaone | 5 | 09/28 00:04 | 09/28 07:06 | ⚠ 368分（00:04→06:12） |
+| FirstSquawk | 184 | 09/27 09:35 | 09/28 07:06 | ⚠ 67分（05:59→07:06） |
+| financialjuice | 44 | 09/27 10:19 | 09/28 07:11 | ⚠ 261分（12:09→16:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 219 行（統合前 231 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 222 行（統合前 234 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -243,3 +243,6 @@
 - 09/28 06:12 [DeItaone] *TRUMP ON IRAN STRIKES BEFORE MIDTERMS: DON’T WANT TO SAY
 - 09/28 06:27 [DeItaone] *TRUMP ON DIESEL EXPORT BAN: THINKING OF IT VERY SERIOUSLY
 - 09/28 06:27 [DeItaone] *TRUMP: DIESEL EXPORT BAN MAY CAUSE A LITTLE CAR GASOLINE RISE
+- 09/28 07:06 [DeItaone] OIL PRICES REBOUND MORE THAN 1% AFTER TRUMP REJECTS IRAN PEACE DEAL TO REOPEN STRAIT OF HORMUZ
+- 09/28 07:06 [FirstSquawk] US STOCK FUTURES EDGE LOWER: S&P 500 FUTURES -0.1%, NASDAQ FUTURES -0.1%
+- 09/28 07:11 [financialjuice] Being Eswin computing technology announces 1.57 billion H shares offered globally
