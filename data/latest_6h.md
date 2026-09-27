@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-27 23:59 JST／対象: 09/27 17:59 〜 09/27 23:59 JST（時刻はすべて日本時間）
+生成: 2026-09-28 00:16 JST／対象: 09/27 18:16 〜 09/28 00:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 0 | - | - | - |
-| FirstSquawk | 55 | 09/27 18:07 | 09/27 23:53 | ⚠ 54分（22:33→23:27） |
-| financialjuice | 19 | 09/27 18:08 | 09/27 23:58 | ⚠ 76分（20:38→21:54） |
+| DeItaone | 1 | 09/28 00:04 | 09/28 00:04 | - |
+| FirstSquawk | 48 | 09/27 18:38 | 09/27 23:53 | ⚠ 54分（22:33→23:27） |
+| financialjuice | 21 | 09/27 18:47 | 09/28 00:07 | ⚠ 76分（20:38→21:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 67 行（統合前 74 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 63 行（統合前 70 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 18:07 [FirstSquawk] US touts coal purchases, progress on trade vehicle, following Xi visit
-- 09/27 18:07 [FirstSquawk] After four years in opposition, Sweden’s former PM Magdalena Andersson is about to retake power. She aims to use it to fortify Europe’s place in an unstable world.
-- 09/27 18:08 [FirstSquawk] Australia Treasurer says new figures to be published on Monday will show the nation’s deficit for last financial year was “billions of dollars” smaller than forecast at the budget in May
-- 09/27 18:08 [financialjuice] Afghan defence ministry: 28 fighters killed after crossing from Pakistan into eastern Afghanistan; most were ex-Afghan security personnel
-- 09/27 18:11 [FirstSquawk] Andy Burnham signaled on Sunday that he'll set out proposals to introduce new taxes to pay for a reformed social care service in the UK.
-- 09/27 18:11 [FirstSquawk] Burnham declines to back Heathrow third runway amid four-year delay
-- 09/27 18:13 [FirstSquawk] Iranian army spokesperson: US may initiate fresh strike due to 'its poor regional situation'
-- 09/27 18:13 [FirstSquawk] Iranian army: Tehran ready for clash, will cause greater damage to US
 - 09/27 18:38 [FirstSquawk] Iranian Army Commander: The war is not over yet, and we must be prepared to deliver powerful blows to the enemy.
 - 09/27 18:38 [FirstSquawk] Jerusalem Governorate: 1143 settlers stormed Al-Aqsa Mosque through the Mughrabi Gate during the morning incursions.
 - 09/27 18:39 [FirstSquawk] British police: Security cordon in place around US Air Force Fairford base, situation under control
@@ -91,3 +83,7 @@
 - 09/27 23:53 [FirstSquawk] Hezbollah Secretary General: The president has the right to negotiate, but he does not have the right to violate the constitution and relinquish Lebanon's right to prosecute the enemy.
 - 09/27 23:53 [FirstSquawk] Ukrainian Emergency Service: Two dead and five injured in Russian shelling of Sumy city center
 - 09/27 23:58 [financialjuice] Trump tells Axios: expects US negotiators to hold more talks with Iran this week
+- 09/28 00:00 [financialjuice] South Korea expresses strong regret over Ukraine's refusal of nondisclosure agreement on North Korean POWs - Yonhap
+- 09/28 00:02 [financialjuice] South Korean presidency: country contemplating extra actions on issue - Yonhap
+- 09/28 00:04 [DeItaone] TRUMP TELLS AXIOS THAT HE EXPECTS US NEGOTIATORS TO ENGAGE IN MORE TALKS WITH IRAN THIS WEEK
+- 09/28 00:07 [financialjuice] China considers permitting ByteDance, Alibaba to buy new Nvidia chips - The Information

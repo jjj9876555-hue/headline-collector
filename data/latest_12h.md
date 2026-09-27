@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-27 23:59 JST／対象: 09/27 11:59 〜 09/27 23:59 JST（時刻はすべて日本時間）
+生成: 2026-09-28 00:16 JST／対象: 09/27 12:16 〜 09/28 00:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 0 | - | - | - |
-| FirstSquawk | 103 | 09/27 12:00 | 09/27 23:53 | ⚠ 54分（22:33→23:27） |
-| financialjuice | 25 | 09/27 12:09 | 09/27 23:58 | ⚠ 261分（12:09→16:30） |
+| DeItaone | 1 | 09/28 00:04 | 09/28 00:04 | - |
+| FirstSquawk | 98 | 09/27 12:17 | 09/27 23:53 | ⚠ 54分（22:33→23:27） |
+| financialjuice | 26 | 09/27 16:30 | 09/28 00:07 | ⚠ 76分（20:38→21:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 121 行（統合前 128 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 118 行（統合前 125 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 12:00 [FirstSquawk] U.S., China to pursue military crisis-communication pact, Beijing says
-- 09/27 12:02 [FirstSquawk] U.S. moves to finalize major reduction in vehicle fuel economy requirements - RTRS
-- 09/27 12:06 [FirstSquawk] China says Xi and Trump reached eight agreements and understandings during U.S. visit
-- 09/27 12:09 [financialjuice] US president Trump, Japan PM Takaichi hold 20-minute phone call Saturday from 1200 GMT: Japan foreign ministry
-- 09/27 12:09 [financialjuice] Trump offers detailed account of latest US-China summit during call with Japan PM Takaichi: Japan foreign ministry says
-- 09/27 12:10 [FirstSquawk] U.S. President Trump, Japan PM Takaichi hold 20-minute call: Japan foreign ministry
-- 09/27 12:10 [FirstSquawk] Trump shares details of latest U.S.-China summit with Japan PM Takaichi: Japan foreign ministry
 - 09/27 12:17 [FirstSquawk] Japan’s wedding industry turns to foreign couples as domestic marriages fall - NA
 - 09/27 12:24 [FirstSquawk] Iran maintains diplomatic approach after Trump rejects proposed peace plan - RTRS
 - 09/27 12:31 [FirstSquawk] Russia’s Lavrov criticizes U.S. actions toward Maduro and Iran at UN - NYT
@@ -145,3 +138,7 @@
 - 09/27 23:53 [FirstSquawk] Hezbollah Secretary General: The president has the right to negotiate, but he does not have the right to violate the constitution and relinquish Lebanon's right to prosecute the enemy.
 - 09/27 23:53 [FirstSquawk] Ukrainian Emergency Service: Two dead and five injured in Russian shelling of Sumy city center
 - 09/27 23:58 [financialjuice] Trump tells Axios: expects US negotiators to hold more talks with Iran this week
+- 09/28 00:00 [financialjuice] South Korea expresses strong regret over Ukraine's refusal of nondisclosure agreement on North Korean POWs - Yonhap
+- 09/28 00:02 [financialjuice] South Korean presidency: country contemplating extra actions on issue - Yonhap
+- 09/28 00:04 [DeItaone] TRUMP TELLS AXIOS THAT HE EXPECTS US NEGOTIATORS TO ENGAGE IN MORE TALKS WITH IRAN THIS WEEK
+- 09/28 00:07 [financialjuice] China considers permitting ByteDance, Alibaba to buy new Nvidia chips - The Information
