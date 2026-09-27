@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-27 18:03 JST／対象: 09/27 06:03 〜 09/27 18:03 JST（時刻はすべて日本時間）
+生成: 2026-09-27 18:24 JST／対象: 09/27 06:24 〜 09/27 18:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 90 | 09/27 09:35 | 09/27 17:29 | 32分（16:00→16:32） |
-| financialjuice | 12 | 09/27 06:13 | 09/27 17:40 | ⚠ 261分（12:09→16:30） |
+| FirstSquawk | 97 | 09/27 09:35 | 09/27 18:13 | 37分（17:29→18:07） |
+| financialjuice | 9 | 09/27 10:19 | 09/27 18:08 | ⚠ 261分（12:09→16:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 101 行（統合前 102 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 106 行（統合前 106 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 06:13 [financialjuice] Iran's foreign minister Araqchi: First reaction from U.S. president seen, but mediators have not yet communicated anything to us
-- 09/27 06:14 [financialjuice] Iran's Araqchi: awaiting mediators to relay final views for decision-making
-- 09/27 06:14 [financialjuice] Iran's Araqchi: conditions clear, any opening of Strait of Hormuz depends on them
-- 09/27 06:17 [financialjuice/FirstSquawk] Iran's Aragchi: negotiated solution is the only way to end deadlock, that is our stance
 - 09/27 09:35 [FirstSquawk] Experts warn Yemen intervention could cost Pakistan diplomatic capital - NA
 - 09/27 09:36 [FirstSquawk] Vingroup, Siemens seal up to €1 billion train deal for Hanoi, Ho Chi Minh City lines - NA
 - 09/27 10:04 [FirstSquawk] Investors debate how to respond as bond yields surge in 2026
@@ -45,6 +41,7 @@
 - 09/27 10:23 [FirstSquawk] Iran’s Araqchi: First U.S. presidential reaction seen, but no message received from mediators
 - 09/27 10:23 [FirstSquawk] Araqchi: Iran awaits final views from mediators before deciding next steps
 - 09/27 10:23 [FirstSquawk] Iran FM Araqchi: Any reopening of Strait of Hormuz depends on meeting stated conditions
+- 09/27 10:24 [FirstSquawk] Iran's Aragchi: negotiated solution is the only way to end deadlock, that is our stance
 - 09/27 10:29 [FirstSquawk] BOJ rate hikes spur Japanese retail investors to sell shares at fastest pace since March
 - 09/27 10:30 [FirstSquawk] Tesla increases Texas Cybercab fleet to 127 vehicles - kalshi says
 - 09/27 10:31 [FirstSquawk] Visa study: Safeguards may encourage more Americans to use stablecoins
@@ -125,3 +122,11 @@
 - 09/27 17:29 [FirstSquawk] Zelensky: This past week, the Russians launched more than 2,200 attack drones against Ukraine, as well as around 1,650 aerial bombs and 38 missiles of various types, a significant number of them ballistic missiles.
 - 09/27 17:39 [financialjuice] Iran's army spokesperson: US may initiate fresh strike due to 'its poor regional situation' - state media
 - 09/27 17:40 [financialjuice] Iran army spokesman: Tehran ready for clash, will cause greater damage to US - state media
+- 09/27 18:07 [FirstSquawk] US touts coal purchases, progress on trade vehicle, following Xi visit
+- 09/27 18:07 [FirstSquawk] After four years in opposition, Sweden’s former PM Magdalena Andersson is about to retake power. She aims to use it to fortify Europe’s place in an unstable world.
+- 09/27 18:08 [FirstSquawk] Australia Treasurer says new figures to be published on Monday will show the nation’s deficit for last financial year was “billions of dollars” smaller than forecast at the budget in May
+- 09/27 18:08 [financialjuice] Afghan defence ministry: 28 fighters killed after crossing from Pakistan into eastern Afghanistan; most were ex-Afghan security personnel
+- 09/27 18:11 [FirstSquawk] Andy Burnham signaled on Sunday that he'll set out proposals to introduce new taxes to pay for a reformed social care service in the UK.
+- 09/27 18:11 [FirstSquawk] Burnham declines to back Heathrow third runway amid four-year delay
+- 09/27 18:13 [FirstSquawk] Iranian army spokesperson: US may initiate fresh strike due to 'its poor regional situation'
+- 09/27 18:13 [FirstSquawk] Iranian army: Tehran ready for clash, will cause greater damage to US

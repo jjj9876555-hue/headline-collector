@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-27 18:03 JST／対象: 09/26 18:03 〜 09/27 18:03 JST（時刻はすべて日本時間）
+生成: 2026-09-27 18:24 JST／対象: 09/26 18:24 〜 09/27 18:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/26 21:58 | 09/27 00:39 | ⚠ 67分（22:54→00:01） |
-| FirstSquawk | 231 | 09/26 18:06 | 09/27 17:29 | ⚠ 371分（03:23→09:35） |
-| financialjuice | 43 | 09/26 19:00 | 09/27 17:40 | ⚠ 261分（12:09→16:30） |
+| FirstSquawk | 228 | 09/26 18:42 | 09/27 18:13 | ⚠ 371分（03:23→09:35） |
+| financialjuice | 44 | 09/26 19:00 | 09/27 18:08 | ⚠ 261分（12:09→16:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 275 行（統合前 281 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 273 行（統合前 279 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 18:06 [FirstSquawk] DPA": Continued Search for 18 Iraqi Migrants Believed to Have Drowned Off the Libyan Coast
-- 09/26 18:14 [FirstSquawk] German Foreign Minister Johann Wadephul yesterday said that the participation of Russian President Vladimir Putin at a G20 meeting could be the start of "serious negotiations" to end Russia’s full-scale invasion of Ukraine.
-- 09/26 18:14 [FirstSquawk] Germany 10-year yield hits its highest level since 2009.
-- 09/26 18:15 [FirstSquawk] Oracle's long-term bonds just crossed an all time high of 8.3%. Their 5 year CDS spreads also broke record highs, skyrocketing 16% to 227bps.
-- 09/26 18:16 [FirstSquawk] OpenAI investigating 'dozens' of instances of agents acting improperly
-- 09/26 18:20 [FirstSquawk] Tehran prosecutors have opened a criminal case against a theater company after a spectator's phone video showed an actress resting her head against an actor's chest on stage, in a scene the production says depicts a brother and sister.
-- 09/26 18:21 [FirstSquawk] Russian Ministry of Defense announces its forces' control over the town of "Marino" in Ukraine's "Sumy" region.
-- 09/26 18:21 [FirstSquawk] Hossein Ali Haji-Deligani, deputy head of parliament’s Article 90 Commission, said lawmakers had called for Nasser Asadi, a member of Iran’s UN mission, to be removed from his post and dismissed from the Foreign Ministry after he remained i…
-- 09/26 18:22 [FirstSquawk] Asadi was the only Iranian diplomat who stayed in the chamber during Trump’s address. Haji-Deligani also called for Iran to pursue a nuclear deterrent, saying that because countries Tehran considers enemies possess nuclear weapons, “we must…
-- 09/26 18:22 [FirstSquawk] Apple confirms iOS 27.0.1 update fixes Face ID freeze on iPhone 18 Pro models
 - 09/26 18:42 [FirstSquawk] Libyan National Oil Corporation: A refining unit at the Zawiya refinery has stopped operating due to the continued closure of the Sharara pipeline by armed groups.
 - 09/26 18:42 [FirstSquawk] Deputy Speaker of the Iraqi Parliament: The decision to ban Iranian civilian flights at Iraqi airports is hasty, ill-considered, and violates the constitution.
 - 09/26 18:42 [FirstSquawk] Iraqi Parliament Deputy Speaker: We are ready to hold an extraordinary session if the decision to ban Iranian flights is not reversed.
@@ -299,3 +289,11 @@
 - 09/27 17:29 [FirstSquawk] Zelensky: This past week, the Russians launched more than 2,200 attack drones against Ukraine, as well as around 1,650 aerial bombs and 38 missiles of various types, a significant number of them ballistic missiles.
 - 09/27 17:39 [financialjuice] Iran's army spokesperson: US may initiate fresh strike due to 'its poor regional situation' - state media
 - 09/27 17:40 [financialjuice] Iran army spokesman: Tehran ready for clash, will cause greater damage to US - state media
+- 09/27 18:07 [FirstSquawk] US touts coal purchases, progress on trade vehicle, following Xi visit
+- 09/27 18:07 [FirstSquawk] After four years in opposition, Sweden’s former PM Magdalena Andersson is about to retake power. She aims to use it to fortify Europe’s place in an unstable world.
+- 09/27 18:08 [FirstSquawk] Australia Treasurer says new figures to be published on Monday will show the nation’s deficit for last financial year was “billions of dollars” smaller than forecast at the budget in May
+- 09/27 18:08 [financialjuice] Afghan defence ministry: 28 fighters killed after crossing from Pakistan into eastern Afghanistan; most were ex-Afghan security personnel
+- 09/27 18:11 [FirstSquawk] Andy Burnham signaled on Sunday that he'll set out proposals to introduce new taxes to pay for a reformed social care service in the UK.
+- 09/27 18:11 [FirstSquawk] Burnham declines to back Heathrow third runway amid four-year delay
+- 09/27 18:13 [FirstSquawk] Iranian army spokesperson: US may initiate fresh strike due to 'its poor regional situation'
+- 09/27 18:13 [FirstSquawk] Iranian army: Tehran ready for clash, will cause greater damage to US

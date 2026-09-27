@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-27 18:03 JST／対象: 09/27 12:03 〜 09/27 18:03 JST（時刻はすべて日本時間）
+生成: 2026-09-27 18:24 JST／対象: 09/27 12:24 〜 09/27 18:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 46 | 09/27 12:06 | 09/27 17:29 | 32分（16:00→16:32） |
-| financialjuice | 6 | 09/27 12:09 | 09/27 17:40 | ⚠ 261分（12:09→16:30） |
+| FirstSquawk | 48 | 09/27 12:31 | 09/27 18:13 | 37分（17:29→18:07） |
+| financialjuice | 5 | 09/27 16:30 | 09/27 18:08 | ⚠ 68分（16:31→17:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 52 行（統合前 52 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 53 行（統合前 53 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 12:06 [FirstSquawk] China says Xi and Trump reached eight agreements and understandings during U.S. visit
-- 09/27 12:09 [financialjuice] US president Trump, Japan PM Takaichi hold 20-minute phone call Saturday from 1200 GMT: Japan foreign ministry
-- 09/27 12:09 [financialjuice] Trump offers detailed account of latest US-China summit during call with Japan PM Takaichi: Japan foreign ministry says
-- 09/27 12:10 [FirstSquawk] U.S. President Trump, Japan PM Takaichi hold 20-minute call: Japan foreign ministry
-- 09/27 12:10 [FirstSquawk] Trump shares details of latest U.S.-China summit with Japan PM Takaichi: Japan foreign ministry
-- 09/27 12:17 [FirstSquawk] Japan’s wedding industry turns to foreign couples as domestic marriages fall - NA
-- 09/27 12:24 [FirstSquawk] Iran maintains diplomatic approach after Trump rejects proposed peace plan - RTRS
 - 09/27 12:31 [FirstSquawk] Russia’s Lavrov criticizes U.S. actions toward Maduro and Iran at UN - NYT
 - 09/27 12:32 [FirstSquawk] Russia’s Lavrov criticizes U.S. actions toward Maduro and Iran at UN
 - 09/27 12:39 [FirstSquawk] South Korea sees improved Q4 business sentiment as semiconductor and cosmetics exports remain strong
@@ -76,3 +69,11 @@
 - 09/27 17:29 [FirstSquawk] Zelensky: This past week, the Russians launched more than 2,200 attack drones against Ukraine, as well as around 1,650 aerial bombs and 38 missiles of various types, a significant number of them ballistic missiles.
 - 09/27 17:39 [financialjuice] Iran's army spokesperson: US may initiate fresh strike due to 'its poor regional situation' - state media
 - 09/27 17:40 [financialjuice] Iran army spokesman: Tehran ready for clash, will cause greater damage to US - state media
+- 09/27 18:07 [FirstSquawk] US touts coal purchases, progress on trade vehicle, following Xi visit
+- 09/27 18:07 [FirstSquawk] After four years in opposition, Sweden’s former PM Magdalena Andersson is about to retake power. She aims to use it to fortify Europe’s place in an unstable world.
+- 09/27 18:08 [FirstSquawk] Australia Treasurer says new figures to be published on Monday will show the nation’s deficit for last financial year was “billions of dollars” smaller than forecast at the budget in May
+- 09/27 18:08 [financialjuice] Afghan defence ministry: 28 fighters killed after crossing from Pakistan into eastern Afghanistan; most were ex-Afghan security personnel
+- 09/27 18:11 [FirstSquawk] Andy Burnham signaled on Sunday that he'll set out proposals to introduce new taxes to pay for a reformed social care service in the UK.
+- 09/27 18:11 [FirstSquawk] Burnham declines to back Heathrow third runway amid four-year delay
+- 09/27 18:13 [FirstSquawk] Iranian army spokesperson: US may initiate fresh strike due to 'its poor regional situation'
+- 09/27 18:13 [FirstSquawk] Iranian army: Tehran ready for clash, will cause greater damage to US
