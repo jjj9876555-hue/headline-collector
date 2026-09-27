@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-27 20:16 JST／対象: 09/27 14:16 〜 09/27 20:16 JST（時刻はすべて日本時間）
+生成: 2026-09-27 20:32 JST／対象: 09/27 14:32 〜 09/27 20:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 43 | 09/27 14:19 | 09/27 19:34 | 37分（17:29→18:07） |
+| FirstSquawk | 41 | 09/27 14:48 | 09/27 20:24 | ⚠ 49分（19:34→20:24） |
 | financialjuice | 10 | 09/27 16:30 | 09/27 19:44 | ⚠ 68分（16:31→17:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 53 行（統合前 53 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 51 行（統合前 51 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 14:19 [FirstSquawk] Lack of AI openness risks undermining investment in Europe, major companies warn — FT
-- 09/27 14:26 [FirstSquawk] Chinese waste worker scouted for modelling due to striking appearance, chooses not to go full-time - SCMP
-- 09/27 14:27 [FirstSquawk] Nearly 13 million barrels of oil transit Strait of Hormuz each day, U.S. Energy Secretary tells Fox News
-- 09/27 14:27 [FirstSquawk] U.S. Energy Secretary: U.S. forces assisting the movement of oil, gas and fertilizers through Strait of Hormuz
 - 09/27 14:48 [FirstSquawk] Trump-Xi summit frequency could prove more significant than substance - KYODO
 - 09/27 14:59 [FirstSquawk] China fuels rapid expansion of AI-generated video into a commercial industry — Kyodo
 - 09/27 15:25 [FirstSquawk] 17 killed, at tavern in Carletonville, South Africa.
@@ -77,3 +73,5 @@
 - 09/27 19:34 [FirstSquawk] Iranian Revolutionary Guard: Seizure of an advanced American REMUS 600-class unmanned underwater vehicle in the Strait of Hormuz
 - 09/27 19:34 [FirstSquawk] Kremlin: Relations between Russia and the United States are not at their best
 - 09/27 19:44 [financialjuice] Yemen's Houthi-run health ministry: 7 killed, 40 wounded in market strike in Taiz - Saba News Agency
+- 09/27 20:24 [FirstSquawk] Israeli airstrike on the town of Khiam in the Marjeyoun district of southern Lebanon
+- 09/27 20:24 [FirstSquawk] Israeli airstrike on the outskirts of Haris town in Bint Jbeil district, southern Lebanon
