@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-27 20:59 JST／対象: 09/26 20:59 〜 09/27 20:59 JST（時刻はすべて日本時間）
+生成: 2026-09-27 21:21 JST／対象: 09/26 21:21 〜 09/27 21:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/26 21:58 | 09/27 00:39 | ⚠ 67分（22:54→00:01） |
-| FirstSquawk | 212 | 09/26 21:12 | 09/27 20:49 | ⚠ 371分（03:23→09:35） |
+| FirstSquawk | 210 | 09/26 21:24 | 09/27 20:49 | ⚠ 371分（03:23→09:35） |
 | financialjuice | 44 | 09/26 21:58 | 09/27 20:38 | ⚠ 261分（12:09→16:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 257 行（統合前 263 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 255 行（統合前 261 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 21:12 [FirstSquawk] SNB’s Schlegel Watching Hot Weather Impact on Food Price Inflation Record summer heat has affected food prices in Switzerland, but has not been a major driver of rising inflation, Swiss National Bank Chairman Martin Schlegel said. He added …
-- 09/26 21:13 [FirstSquawk] Ukraine Says It Struck Ilsky Oil Refinery in Southern Russia Ukrainian forces struck the Ilsky Oil Refinery in Russia’s southern Krasnodar region during an overnight attack, Ukraine’s military said on Saturday. Ukraine’s General Staff said …
 - 09/26 21:24 [FirstSquawk] TRUMP: IRAN CAN NOT HAVE A NUCLEAR WEAPON!!! President DJT
 - 09/26 21:30 [FirstSquawk] Gold Fields said to consider its next steps after rebuff
 - 09/26 21:30 [FirstSquawk] Gold Fields said to express interest in buying Northern Star
