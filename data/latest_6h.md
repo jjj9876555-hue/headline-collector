@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-27 14:43 JST／対象: 09/27 08:43 〜 09/27 14:43 JST（時刻はすべて日本時間）
+生成: 2026-09-27 14:54 JST／対象: 09/27 08:54 〜 09/27 14:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 70 | 09/27 09:35 | 09/27 14:27 | 28分（09:36→10:04） |
+| FirstSquawk | 71 | 09/27 09:35 | 09/27 14:48 | 28分（09:36→10:04） |
 | financialjuice | 4 | 09/27 10:19 | 09/27 12:09 | ⚠ 109分（10:19→12:09） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 74 行（統合前 74 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 75 行（統合前 75 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -98,3 +98,4 @@
 - 09/27 14:26 [FirstSquawk] Chinese waste worker scouted for modelling due to striking appearance, chooses not to go full-time - SCMP
 - 09/27 14:27 [FirstSquawk] Nearly 13 million barrels of oil transit Strait of Hormuz each day, U.S. Energy Secretary tells Fox News
 - 09/27 14:27 [FirstSquawk] U.S. Energy Secretary: U.S. forces assisting the movement of oil, gas and fertilizers through Strait of Hormuz
+- 09/27 14:48 [FirstSquawk] Trump-Xi summit frequency could prove more significant than substance - KYODO
