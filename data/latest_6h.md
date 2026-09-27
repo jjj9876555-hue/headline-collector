@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-27 23:32 JST／対象: 09/27 17:32 〜 09/27 23:32 JST（時刻はすべて日本時間）
+生成: 2026-09-27 23:45 JST／対象: 09/27 17:45 〜 09/27 23:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
 | FirstSquawk | 45 | 09/27 18:07 | 09/27 23:31 | ⚠ 54分（22:33→23:27） |
-| financialjuice | 16 | 09/27 17:39 | 09/27 23:08 | ⚠ 76分（20:38→21:54） |
+| financialjuice | 17 | 09/27 18:08 | 09/27 23:44 | ⚠ 76分（20:38→21:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 54 行（統合前 61 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 55 行（統合前 62 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 17:39 [financialjuice] Iran's army spokesperson: US may initiate fresh strike due to 'its poor regional situation' - state media
-- 09/27 17:40 [financialjuice] Iran army spokesman: Tehran ready for clash, will cause greater damage to US - state media
 - 09/27 18:07 [FirstSquawk] US touts coal purchases, progress on trade vehicle, following Xi visit
 - 09/27 18:07 [FirstSquawk] After four years in opposition, Sweden’s former PM Magdalena Andersson is about to retake power. She aims to use it to fortify Europe’s place in an unstable world.
 - 09/27 18:08 [FirstSquawk] Australia Treasurer says new figures to be published on Monday will show the nation’s deficit for last financial year was “billions of dollars” smaller than forecast at the budget in May
@@ -78,3 +76,6 @@
 - 09/27 23:29 [FirstSquawk] "Telegraph": Five men arrested on suspicion of plotting a terrorist operation targeting an airbase in western Britain
 - 09/27 23:30 [FirstSquawk] The Telegraph: The five men arrested were in possession of three trucks suspected of containing explosives
 - 09/27 23:31 [FirstSquawk] U.S. official tells me in response that "zero ships were struck over the last two days" - Axios Reporter
+- 09/27 23:42 [financialjuice] Trump: Arrests in UK were a positive development
+- 09/27 23:42 [financialjuice] Trump: Suspects had been under surveillance for a long time and we captured them
+- 09/27 23:44 [financialjuice] Trump: suspects aimed to cause major harm

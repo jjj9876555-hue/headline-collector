@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-27 23:32 JST／対象: 09/27 11:32 〜 09/27 23:32 JST（時刻はすべて日本時間）
+生成: 2026-09-27 23:45 JST／対象: 09/27 11:45 〜 09/27 23:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 99 | 09/27 11:33 | 09/27 23:31 | ⚠ 54分（22:33→23:27） |
-| financialjuice | 20 | 09/27 12:09 | 09/27 23:08 | ⚠ 261分（12:09→16:30） |
+| FirstSquawk | 96 | 09/27 11:47 | 09/27 23:31 | ⚠ 54分（22:33→23:27） |
+| financialjuice | 23 | 09/27 12:09 | 09/27 23:44 | ⚠ 261分（12:09→16:30） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 112 行（統合前 119 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,9 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 11:33 [FirstSquawk] Aramco explores additional crude export routes beyond three main routes
-- 09/27 11:37 [FirstSquawk] Hackers target AI accounts and servers as cybercrime activity surges — FT
-- 09/27 11:41 [FirstSquawk] Indonesia considers Chinese involvement in planned 2,772km railway project — SCMP
 - 09/27 11:47 [FirstSquawk] Hamas leader accuses Israel of leveraging Palestinian casualties for election purposes — SCMP
 - 09/27 11:47 [FirstSquawk] 6.5 tons of cannabis flown from Thailand to UK in two months, government says
 - 09/27 11:53 [FirstSquawk] Trump seeks to rebrand AI as “superintelligence” amid growing U.S.-China challenges
@@ -136,3 +133,6 @@
 - 09/27 23:29 [FirstSquawk] "Telegraph": Five men arrested on suspicion of plotting a terrorist operation targeting an airbase in western Britain
 - 09/27 23:30 [FirstSquawk] The Telegraph: The five men arrested were in possession of three trucks suspected of containing explosives
 - 09/27 23:31 [FirstSquawk] U.S. official tells me in response that "zero ships were struck over the last two days" - Axios Reporter
+- 09/27 23:42 [financialjuice] Trump: Arrests in UK were a positive development
+- 09/27 23:42 [financialjuice] Trump: Suspects had been under surveillance for a long time and we captured them
+- 09/27 23:44 [financialjuice] Trump: suspects aimed to cause major harm
