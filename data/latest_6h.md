@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-27 22:32 JST／対象: 09/27 16:32 〜 09/27 22:32 JST（時刻はすべて日本時間）
+生成: 2026-09-27 22:45 JST／対象: 09/27 16:45 〜 09/27 22:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 43 | 09/27 16:32 | 09/27 21:57 | ⚠ 49分（19:34→20:24） |
+| FirstSquawk | 43 | 09/27 17:03 | 09/27 22:33 | ⚠ 49分（19:34→20:24） |
 | financialjuice | 15 | 09/27 17:39 | 09/27 22:01 | ⚠ 76分（20:38→21:54） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,10 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 16:32 [FirstSquawk] Andy Burnham will launch a new version of the controversial Help to Buy scheme through which hundreds of thousands of first-time buyers got on to the housing ladder under the previous Conservative government
-- 09/27 16:33 [FirstSquawk] Southeast Asia manufacturing, Japan immigration costs, Vietnam GDP
-- 09/27 16:33 [FirstSquawk] Serbia's embattled president is expected to resign in a well-telegraphed move as he seeks to transition to the role of PM
-- 09/27 16:33 [FirstSquawk] Russia has targeted Ukraine's railway throughout the full-scale invasion, but the intensity of attacks has risen sharply over 2026. At the same time, Ukraine increasingly depends on the railway for passengers, trade, diplomacy, and wartime …
 - 09/27 17:03 [FirstSquawk] Police evacuated homes near RAF Fairford, a U.S. air base in England, and arrested several men over suspected explosive offenses. The base is used by the American forces during the war with Iran.
 - 09/27 17:03 [FirstSquawk] Iran said it’s awaiting a definitive US response to a seven-day proposal for reopening the Strait of Hormuz but won’t soften its conditions
 - 09/27 17:03 [FirstSquawk] Two giant pandas depart China for US after Xi-Trump summit Loan of the pair to Zoo Atlanta was one of the few concrete outcomes of their talks
@@ -76,3 +72,7 @@
 - 09/27 21:55 [financialjuice/FirstSquawk] UK police: working to determine full scope of this incident
 - 09/27 21:55 [financialjuice/FirstSquawk] UK police: working closely with partners in counterterrorism efforts
 - 09/27 22:01 [financialjuice] UK police: 5 men near RAF Fairford further apprehended on suspicion of preparing terrorist act
+- 09/27 22:32 [FirstSquawk] Trump: We moved a record amount of oil through the Strait of Hormuz last night, more than we moved before the war began.
+- 09/27 22:33 [FirstSquawk] Iraqi official: Suspension of flights with Iran depends on ground service companies complying with US Treasury instructions
+- 09/27 22:33 [FirstSquawk] Iraqi official: The lack of a publicly stated government position on Iranian flights is due to the sensitivity of the issue.
+- 09/27 22:33 [FirstSquawk] Iraqi official: Companies' apologies for not providing services before takeoff and after landing led to the suspension of Iranian flights
