@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-27 15:22 JST／対象: 09/27 09:22 〜 09/27 15:22 JST（時刻はすべて日本時間）
+生成: 2026-09-27 15:41 JST／対象: 09/27 09:41 〜 09/27 15:41 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 72 | 09/27 09:35 | 09/27 14:59 | 28分（09:36→10:04） |
+| FirstSquawk | 74 | 09/27 10:04 | 09/27 15:28 | 26分（14:59→15:25） |
 | financialjuice | 4 | 09/27 10:19 | 09/27 12:09 | ⚠ 109分（10:19→12:09） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 76 行（統合前 76 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 78 行（統合前 78 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 09:35 [FirstSquawk] Experts warn Yemen intervention could cost Pakistan diplomatic capital - NA
-- 09/27 09:36 [FirstSquawk] Vingroup, Siemens seal up to €1 billion train deal for Hanoi, Ho Chi Minh City lines - NA
 - 09/27 10:04 [FirstSquawk] Investors debate how to respond as bond yields surge in 2026
 - 09/27 10:05 [FirstSquawk] Bond market “freaking out” amid rising yields, CBS says
 - 09/27 10:06 [FirstSquawk] Trump claims US financial figures are the “best ever,” criticizes news media
@@ -100,3 +98,7 @@
 - 09/27 14:27 [FirstSquawk] U.S. Energy Secretary: U.S. forces assisting the movement of oil, gas and fertilizers through Strait of Hormuz
 - 09/27 14:48 [FirstSquawk] Trump-Xi summit frequency could prove more significant than substance - KYODO
 - 09/27 14:59 [FirstSquawk] China fuels rapid expansion of AI-generated video into a commercial industry — Kyodo
+- 09/27 15:25 [FirstSquawk] 17 killed, at tavern in Carletonville, South Africa.
+- 09/27 15:26 [FirstSquawk] US Energy Secretary Chris Wright told Fox News that oil flows through the Strait of Hormuz were averaging almost 13 million barrels a day.
+- 09/27 15:26 [FirstSquawk] Bangkok floodwaters recede as officials race to drain canals
+- 09/27 15:28 [FirstSquawk] Trump rejects Iranian proposal to open Hormuz and end fighting US president says Tehran wants a deal 'because they have no money coming in'

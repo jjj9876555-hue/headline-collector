@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-27 15:22 JST／対象: 09/26 15:22 〜 09/27 15:22 JST（時刻はすべて日本時間）
+生成: 2026-09-27 15:41 JST／対象: 09/26 15:41 〜 09/27 15:41 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/26 17:07 | 09/27 00:39 | ⚠ 291分（17:07→21:58） |
-| FirstSquawk | 248 | 09/26 15:33 | 09/27 14:59 | ⚠ 371分（03:23→09:35） |
+| FirstSquawk | 243 | 09/26 16:00 | 09/27 15:28 | ⚠ 371分（03:23→09:35） |
 | financialjuice | 44 | 09/26 16:36 | 09/27 12:09 | ⚠ 242分（06:17→10:19） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 294 行（統合前 300 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 289 行（統合前 295 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 15:33 [FirstSquawk] Quds, a conservative Iranian daily affiliated with Astan Quds Razavi, the religious foundation that administers the Imam Reza shrine in Mashhad, called on Tehran to respond to restrictions imposed by neighboring countries on Iranian flights…
-- 09/26 15:33 [FirstSquawk] Iran has presented the U.S. with a seven-day plan aimed at halting months of fighting, reopening the Strait of Hormuz & restarting negotiations over Tehran’s nuclear program.
-- 09/26 15:34 [FirstSquawk] Iranian President Masoud Pezeshkian: There are no specific ongoing health issues or challenges for Mojtaba Khamenei. On the last occasion when we met for seven-plus hours, of course, we were not used to being in seated positions for that ma…
-- 09/26 15:34 [FirstSquawk] Trump ‘rejects’ Iran proposal to reopen Strait of Hormuz within seven days
-- 09/26 15:34 [FirstSquawk] Russian Ministry of Defense: Targeting a data center supporting "Starlink" systems in Kyiv
-- 09/26 15:34 [FirstSquawk] Donald Trump reportedly rejected Tehran's seven-day proposal to halt fighting, reopen the Strait of Hormuz, and resume nuclear talks in exchange for lifted naval blockades, oil sanction waivers, and a ceasefire, anticipating renewed bombing…
-- 09/26 15:35 [FirstSquawk] US and China agree on tariff relief for $30bn of nonsensitive goods each
-- 09/26 15:35 [FirstSquawk] A bipartisan group of 14 U.S. senators urged Trump to withdraw Putin’s invitation to the G20 summit in Miami, arguing that his participation would legitimize Russia’s war against Ukraine.
-- 09/26 15:36 [FirstSquawk] China agreed to import at least 10 million metric tons of coal from the US next year and again in 2028
 - 09/26 16:00 [FirstSquawk] French Presidential Candidate Jean-Luc Mélenchon: Macron wants to send military assets to a theater of war in Saudi Arabia. What for? What would we do if we were attacked? In the end, even if we did not want it, we would become belligerents…
 - 09/26 16:00 [FirstSquawk] Vietnam to revise food safety law, reining in delivery apps like Shopee, Grab
 - 09/26 16:01 [FirstSquawk] Iraq is in direct talks with the United States to exempt some Iraqi airports from US Treasury measures affecting flights by Iranian airlines to regional airports, the Iraqi prime minister’s media office said on Saturday.
@@ -318,3 +309,7 @@
 - 09/27 14:27 [FirstSquawk] U.S. Energy Secretary: U.S. forces assisting the movement of oil, gas and fertilizers through Strait of Hormuz
 - 09/27 14:48 [FirstSquawk] Trump-Xi summit frequency could prove more significant than substance - KYODO
 - 09/27 14:59 [FirstSquawk] China fuels rapid expansion of AI-generated video into a commercial industry — Kyodo
+- 09/27 15:25 [FirstSquawk] 17 killed, at tavern in Carletonville, South Africa.
+- 09/27 15:26 [FirstSquawk] US Energy Secretary Chris Wright told Fox News that oil flows through the Strait of Hormuz were averaging almost 13 million barrels a day.
+- 09/27 15:26 [FirstSquawk] Bangkok floodwaters recede as officials race to drain canals
+- 09/27 15:28 [FirstSquawk] Trump rejects Iranian proposal to open Hormuz and end fighting US president says Tehran wants a deal 'because they have no money coming in'

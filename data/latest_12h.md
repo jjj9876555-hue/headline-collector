@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-27 15:22 JST／対象: 09/27 03:22 〜 09/27 15:22 JST（時刻はすべて日本時間）
+生成: 2026-09-27 15:41 JST／対象: 09/27 03:41 〜 09/27 15:41 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 73 | 09/27 03:23 | 09/27 14:59 | ⚠ 371分（03:23→09:35） |
-| financialjuice | 12 | 09/27 03:36 | 09/27 12:09 | ⚠ 242分（06:17→10:19） |
+| FirstSquawk | 76 | 09/27 09:35 | 09/27 15:28 | 28分（09:36→10:04） |
+| financialjuice | 10 | 09/27 04:16 | 09/27 12:09 | ⚠ 242分（06:17→10:19） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 84 行（統合前 85 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 85 行（統合前 86 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 03:23 [FirstSquawk] Iraq reaches agreement with US to continue cash dollar shipments: Iraqi government
-- 09/27 03:36 [financialjuice] Libya reopens Sharara-Zawiya pipeline valve: resumes crude flow, says Libya's NOC
-- 09/27 03:38 [financialjuice] Libya's National Oil Corporation: crude output to gradually return to normal levels
 - 09/27 04:16 [financialjuice] Trump: approved new fuel economy standards ending Biden's EV mandate
 - 09/27 05:16 [financialjuice] European Commission: President von der Leyen unveils €710 million for aid to displaced persons in Africa and worldwide crisis relief
 - 09/27 06:13 [financialjuice] Iran's foreign minister Araqchi: First reaction from U.S. president seen, but mediators have not yet communicated anything to us
@@ -108,3 +105,7 @@
 - 09/27 14:27 [FirstSquawk] U.S. Energy Secretary: U.S. forces assisting the movement of oil, gas and fertilizers through Strait of Hormuz
 - 09/27 14:48 [FirstSquawk] Trump-Xi summit frequency could prove more significant than substance - KYODO
 - 09/27 14:59 [FirstSquawk] China fuels rapid expansion of AI-generated video into a commercial industry — Kyodo
+- 09/27 15:25 [FirstSquawk] 17 killed, at tavern in Carletonville, South Africa.
+- 09/27 15:26 [FirstSquawk] US Energy Secretary Chris Wright told Fox News that oil flows through the Strait of Hormuz were averaging almost 13 million barrels a day.
+- 09/27 15:26 [FirstSquawk] Bangkok floodwaters recede as officials race to drain canals
+- 09/27 15:28 [FirstSquawk] Trump rejects Iranian proposal to open Hormuz and end fighting US president says Tehran wants a deal 'because they have no money coming in'
