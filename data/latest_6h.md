@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-27 13:34 JST／対象: 09/27 07:34 〜 09/27 13:34 JST（時刻はすべて日本時間）
+生成: 2026-09-27 13:51 JST／対象: 09/27 07:51 〜 09/27 13:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 60 | 09/27 09:35 | 09/27 13:27 | 28分（09:36→10:04） |
+| FirstSquawk | 61 | 09/27 09:35 | 09/27 13:35 | 28分（09:36→10:04） |
 | financialjuice | 4 | 09/27 10:19 | 09/27 12:09 | ⚠ 109分（10:19→12:09） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 64 行（統合前 64 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 65 行（統合前 65 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -88,3 +88,4 @@
 - 09/27 13:15 [FirstSquawk] Bangkok sees floodwaters subside as officials step up canal drainage efforts
 - 09/27 13:22 [FirstSquawk] Indonesia’s coffee industry faces mounting heat from climate change - NA
 - 09/27 13:27 [FirstSquawk] Prices of older supertankers soar above new vessels as tanker market booms — FT
+- 09/27 13:35 [FirstSquawk] Investor withdrawals slow as turmoil in private credit market eases — FT
