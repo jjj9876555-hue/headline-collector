@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-27 21:39 JST／対象: 09/27 15:39 〜 09/27 21:39 JST（時刻はすべて日本時間）
+生成: 2026-09-27 21:55 JST／対象: 09/27 15:55 〜 09/27 21:55 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 42 | 09/27 15:57 | 09/27 21:37 | ⚠ 49分（19:34→20:24） |
-| financialjuice | 11 | 09/27 16:30 | 09/27 20:38 | ⚠ 68分（16:31→17:39） |
+| FirstSquawk | 43 | 09/27 15:57 | 09/27 21:40 | ⚠ 49分（19:34→20:24） |
+| financialjuice | 14 | 09/27 16:30 | 09/27 21:54 | ⚠ 76分（20:38→21:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 53 行（統合前 53 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 56 行（統合前 57 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -71,9 +71,12 @@
 - 09/27 20:24 [FirstSquawk] Israeli airstrike on the outskirts of Haris town in Bint Jbeil district, southern Lebanon
 - 09/27 20:33 [FirstSquawk] Lebanese media: Israeli raids on the towns of "Khiam" and "Mays al-Jabal" and explosions near the towns of "Barashit" and "Beit Yahoun"
 - 09/27 20:34 [FirstSquawk] Palestinian Foreign Ministry: Smotrich's statements regarding the West Bank are dangerous and a blatant call to expand the war of extermination, displacement, and annexation.
-- 09/27 20:38 [financialjuice] Pakistan information ministry rejects Afghan allegations of backing fighters in Nuristan, denies training ex-Afghan security personnel
+- 09/27 20:38 [financialjuice/FirstSquawk] Pakistan information ministry rejects Afghan allegations of backing fighters in Nuristan, denies training ex-Afghan security personnel
 - 09/27 20:48 [FirstSquawk] British media: Counter-terrorism police are leading the investigation after arrests near RAF Fairford.
 - 09/27 20:48 [FirstSquawk] Explosives arrests made in ‘major incident’ near RAF Fairford - FT
 - 09/27 20:48 [FirstSquawk] The EU needs a clearer strategy for partners like Canada - FT
 - 09/27 20:49 [FirstSquawk] Burnham signals he will fight next election on tax rises to fund social care reform - FT
 - 09/27 21:37 [FirstSquawk] Japanese trade promotion group led by ex-foreign minister visits China -Nikkei
+- 09/27 21:54 [financialjuice] UK police on Fairford air base incident: 5 men arrested near RAF Fairford
+- 09/27 21:54 [financialjuice] UK police on Fairford air base incident: men held in custody
+- 09/27 21:54 [financialjuice] UK police: 85 households told to evacuate

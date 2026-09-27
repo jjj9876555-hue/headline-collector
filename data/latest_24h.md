@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-27 21:39 JST／対象: 09/26 21:39 〜 09/27 21:39 JST（時刻はすべて日本時間）
+生成: 2026-09-27 21:55 JST／対象: 09/26 21:55 〜 09/27 21:55 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/26 21:58 | 09/27 00:39 | ⚠ 67分（22:54→00:01） |
-| FirstSquawk | 203 | 09/26 21:40 | 09/27 21:37 | ⚠ 371分（03:23→09:35） |
-| financialjuice | 44 | 09/26 21:58 | 09/27 20:38 | ⚠ 261分（12:09→16:30） |
+| FirstSquawk | 195 | 09/26 22:41 | 09/27 21:40 | ⚠ 371分（03:23→09:35） |
+| financialjuice | 47 | 09/26 21:58 | 09/27 21:54 | ⚠ 261分（12:09→16:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 248 行（統合前 254 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 242 行（統合前 249 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 21:40 [FirstSquawk] UBS Leaving Switzerland Would Be More Expensive, Swiss Minister Says Swiss Finance Minister Karin Keller-Sutter said leaving Switzerland would be more expensive and legally complex for UBS Group AG, as the bank opposes planned stricter capi…
-- 09/26 21:41 [FirstSquawk] China to Buy 10 Million Tons of US Coal in 2027, 2028 China agreed to import at least 10 million metric tons of coal from the US in both 2027 and 2028, according to the White House, as the two countries move to ease trade tensions. The agre…
-- 09/26 21:42 [FirstSquawk] Iraq in Talks With US Over Exemption From Iranian Airlines Ban Iraq is in direct talks with the US to exempt certain Iraqi airports from measures imposed on Iranian airlines by the US Treasury, according to the prime minister’s office. Iraq…
-- 09/26 21:44 [FirstSquawk] White House Signals It Won’t Ban Diesel Exports, Senator Says The White House has assured Senator Ted Cruz that the Trump administration will not ban US diesel exports, according to people familiar with the matter, as officials weigh measur…
-- 09/26 21:45 [FirstSquawk] OpenAI Systems Meddled With US Government Sites After Going Rogue OpenAI’s AI agents interacted with websites operated by the US Education and Commerce departments and the SEC in unexpected ways, according to security researchers and a pers…
-- 09/26 21:49 [FirstSquawk] Houthis Attack Riyadh Again as Trump Rejects Ceasefire Offer Yemen’s Houthis launched fresh attacks toward Riyadh, with Saudi air defenses intercepting two drones and a ballistic missile targeting the kingdom, as tensions between the US and…
-- 09/26 21:50 [FirstSquawk] 5.2 MAG. EARTHQUAKE 79 KM NE OF TADINE NEW CALEDONIA - USGS
-- 09/26 21:51 [FirstSquawk] Iran Says Flights to Turkey, China, Pakistan Operational Flights from Iran to Turkey, Malaysia, China and Pakistan remain operational, while services to the UAE, Iraq, Oman and Georgia remain canceled, IRIB reported. Flights to Vietnam and …
-- 09/26 21:53 [FirstSquawk] Xi Seeks Lasting Gains on Trade, Taiwan From Trump Truce Xi Jinping pressed Donald Trump to limit US support for Taiwan while signaling scope for broader progress on trade, following their summit in Washington. The US and China extended the…
 - 09/26 21:58 [financialjuice] Top Iranian security body denies plans for military action over bans on Iranian flights - state media
 - 09/26 21:58 [DeItaone] TOP IRANIAN SECURITY BODY DENIES THAT IRAN IS PLANNING FOR MILITARY MOVES OVER BANS ON IRANIAN FLIGHTS - STATE MEDIA
 - 09/26 22:41 [FirstSquawk] Head of the Iraqi government's Security Media Commission: The international coalition has handed over all its bases and headquarters to the Iraqi authorities.
@@ -266,9 +257,12 @@
 - 09/27 20:24 [FirstSquawk] Israeli airstrike on the outskirts of Haris town in Bint Jbeil district, southern Lebanon
 - 09/27 20:33 [FirstSquawk] Lebanese media: Israeli raids on the towns of "Khiam" and "Mays al-Jabal" and explosions near the towns of "Barashit" and "Beit Yahoun"
 - 09/27 20:34 [FirstSquawk] Palestinian Foreign Ministry: Smotrich's statements regarding the West Bank are dangerous and a blatant call to expand the war of extermination, displacement, and annexation.
-- 09/27 20:38 [financialjuice] Pakistan information ministry rejects Afghan allegations of backing fighters in Nuristan, denies training ex-Afghan security personnel
+- 09/27 20:38 [financialjuice/FirstSquawk] Pakistan information ministry rejects Afghan allegations of backing fighters in Nuristan, denies training ex-Afghan security personnel
 - 09/27 20:48 [FirstSquawk] British media: Counter-terrorism police are leading the investigation after arrests near RAF Fairford.
 - 09/27 20:48 [FirstSquawk] Explosives arrests made in ‘major incident’ near RAF Fairford - FT
 - 09/27 20:48 [FirstSquawk] The EU needs a clearer strategy for partners like Canada - FT
 - 09/27 20:49 [FirstSquawk] Burnham signals he will fight next election on tax rises to fund social care reform - FT
 - 09/27 21:37 [FirstSquawk] Japanese trade promotion group led by ex-foreign minister visits China -Nikkei
+- 09/27 21:54 [financialjuice] UK police on Fairford air base incident: 5 men arrested near RAF Fairford
+- 09/27 21:54 [financialjuice] UK police on Fairford air base incident: men held in custody
+- 09/27 21:54 [financialjuice] UK police: 85 households told to evacuate
