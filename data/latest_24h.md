@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-28 00:32 JST／対象: 09/27 00:32 〜 09/28 00:32 JST（時刻はすべて日本時間）
+生成: 2026-09-28 00:46 JST／対象: 09/27 00:46 〜 09/28 00:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 2 | 09/27 00:39 | 09/28 00:04 | ⚠ 1404分（00:39→00:04） |
-| FirstSquawk | 205 | 09/27 00:42 | 09/28 00:30 | ⚠ 371分（03:23→09:35） |
+| DeItaone | 1 | 09/28 00:04 | 09/28 00:04 | - |
+| FirstSquawk | 203 | 09/27 01:03 | 09/28 00:30 | ⚠ 371分（03:23→09:35） |
 | financialjuice | 45 | 09/27 01:01 | 09/28 00:29 | ⚠ 261分（12:09→16:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 243 行（統合前 253 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 240 行（統合前 250 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 00:39 [DeItaone] TRUMP PREDICTS U.S.-CUBA DEAL, DOWNPLAYS MILITARY ACTION President Trump said he expects the U.S. and Cuba to reach an agreement, adding that he does not believe military action will be necessary. “I don’t think we’ll need the military,” Tr…
-- 09/27 00:42 [FirstSquawk] UN mission: strikes on Libya's oil, energy infrastructure may lead to sanctions under Security Council resolutions
-- 09/27 00:42 [FirstSquawk] UN Libya mission warns of economic fallout from ongoing closure of Sharara-Zawiya oil pipeline
 - 09/27 01:01 [financialjuice] United Nations: Russian Foreign Minister Lavrov says US must end 'siege' and trade restrictions on Cuba
 - 09/27 01:03 [FirstSquawk] Lavrov: The waves of confrontation in the Gulf and the issue of the Strait of Hormuz must be resolved
 - 09/27 01:03 [FirstSquawk] Lavrov: We demand the immediate release of the Venezuelan president and his wife and that these abuses not be repeated
