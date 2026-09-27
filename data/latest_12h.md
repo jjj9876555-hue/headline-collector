@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-28 06:32 JST／対象: 09/27 18:32 〜 09/28 06:32 JST（時刻はすべて日本時間）
+生成: 2026-09-28 06:45 JST／対象: 09/27 18:45 〜 09/28 06:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/28 00:04 | 09/28 06:27 | ⚠ 368分（00:04→06:12） |
-| FirstSquawk | 86 | 09/27 18:38 | 09/28 05:59 | ⚠ 58分（01:39→02:37） |
+| FirstSquawk | 80 | 09/27 19:08 | 09/28 05:59 | ⚠ 58分（01:39→02:37） |
 | financialjuice | 34 | 09/27 18:47 | 09/28 05:07 | ⚠ 145分（00:29→02:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 113 行（統合前 125 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 107 行（統合前 119 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 18:38 [FirstSquawk] Iranian Army Commander: The war is not over yet, and we must be prepared to deliver powerful blows to the enemy.
-- 09/27 18:38 [FirstSquawk] Jerusalem Governorate: 1143 settlers stormed Al-Aqsa Mosque through the Mughrabi Gate during the morning incursions.
-- 09/27 18:39 [FirstSquawk] British police: Security cordon in place around US Air Force Fairford base, situation under control
-- 09/27 18:39 [FirstSquawk] Iranian Army Spokesperson: The United States may launch a military attack because its situation in the region is dire.
-- 09/27 18:39 [FirstSquawk] Sudanese Army: We shot down a long-range drone belonging to the Rapid Support Forces in North Kordofan State
-- 09/27 18:39 [FirstSquawk] Yemeni government forces: Houthi shelling has resumed on our positions in the Air Defense and Han areas of Taiz
 - 09/27 18:47 [financialjuice] UK government spokesperson: UK Prime Minister receiving updates on Gloucestershire incident
 - 09/27 19:02 [financialjuice] Swiss voters poised to dismiss neutrality initiative, according to SRF projections
 - 09/27 19:08 [FirstSquawk] Yemeni government forces: Our warplanes are bombing a camp and vehicles belonging to the Houthi militia at the Mawiyah intersection east of Taiz
