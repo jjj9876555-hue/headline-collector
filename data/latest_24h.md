@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-28 03:00 JST／対象: 09/27 03:00 〜 09/28 03:00 JST（時刻はすべて日本時間）
+生成: 2026-09-28 03:21 JST／対象: 09/27 03:21 〜 09/28 03:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/28 00:04 | 09/28 00:04 | - |
-| FirstSquawk | 173 | 09/27 03:03 | 09/28 02:58 | ⚠ 371分（03:23→09:35） |
-| financialjuice | 41 | 09/27 03:36 | 09/28 02:55 | ⚠ 261分（12:09→16:30） |
+| FirstSquawk | 173 | 09/27 03:23 | 09/28 03:20 | ⚠ 371分（03:23→09:35） |
+| financialjuice | 45 | 09/27 03:36 | 09/28 03:05 | ⚠ 261分（12:09→16:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 203 行（統合前 216 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 207 行（統合前 220 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 03:03 [FirstSquawk] Trump rejects Iran’s ceasefire proposal to reopen Strait of Hormuz - FT
-- 09/27 03:04 [FirstSquawk] Japan's Sumitomo Life to deploy AI for tailor-made contracts -Nikkei
-- 09/27 03:04 [FirstSquawk] Chinese EVs will come to US despite no summit deal, analysts say - Nikkei
 - 09/27 03:23 [FirstSquawk] Iraq reaches agreement with US to continue cash dollar shipments: Iraqi government
 - 09/27 03:36 [financialjuice] Libya reopens Sharara-Zawiya pipeline valve: resumes crude flow, says Libya's NOC
 - 09/27 03:38 [financialjuice] Libya's National Oil Corporation: crude output to gradually return to normal levels
@@ -227,3 +224,10 @@
 - 09/28 02:55 [financialjuice] Israeli foreign ministry: diplomatic immunity of Dutch envoys in Ramallah to end in seven days
 - 09/28 02:58 [FirstSquawk] ISRAEL REVOKES DIPLOMATIC STATUS OF DUTCH DIPLOMATS IN RAMALLAH — FOREIGN MINISTRY
 - 09/28 02:58 [FirstSquawk] ISRAEL TO END DIPLOMATIC STATUS OF DUTCH DIPLOMATS IN RAMALLAH IN SEVEN DAYS — FOREIGN MINISTRY
+- 09/28 03:03 [financialjuice] Downing Street: UK PM Burnham greeted Norwegian Prime Minister Jonas Store in Liverpool today
+- 09/28 03:03 [financialjuice] Serbia’s President Aleksandar Vucic resigns, clears path for early presidential election
+- 09/28 03:03 [financialjuice] Downing Street: UK PM and Norway PM discuss Lunna House strategic defense pact between UK and Norway
+- 09/28 03:05 [financialjuice] Downing Street: UK PM Burnham and Norway PM hail deal between Denmark, Greenland and US
+- 09/28 03:13 [FirstSquawk] DOWNING STREET SAYS UK PM BURNHAM WELCOMED THE PRIME MINISTER OF NORWAY JONAS STØRE TO LIVERPOOL TODAY, WITH THE TWO RAISING THE LUNNA HOUSE STRATEGIC DEFENCE AGREEMENT BETWEEN THE UK AND NORWAY.
+- 09/28 03:13 [FirstSquawk] DOWNING STREET SAYS UK PM BURNHAM AND THE NORWAY PM WELCOMED AN AGREEMENT BETWEEN DENMARK, GREENLAND AND THE UNITED STATES.
+- 09/28 03:20 [FirstSquawk] SERBIA’S PRESIDENT ALEKSANDAR VUCIC RESIGNS, PAVING WAY FOR EARLY PRESIDENTIAL ELECTIONS — REUTERS

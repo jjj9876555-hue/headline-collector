@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-28 03:00 JST／対象: 09/27 21:00 〜 09/28 03:00 JST（時刻はすべて日本時間）
+生成: 2026-09-28 03:21 JST／対象: 09/27 21:21 〜 09/28 03:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/28 00:04 | 09/28 00:04 | - |
-| FirstSquawk | 52 | 09/27 21:37 | 09/28 02:58 | ⚠ 58分（01:39→02:37） |
-| financialjuice | 18 | 09/27 21:54 | 09/28 02:55 | ⚠ 145分（00:29→02:54） |
+| FirstSquawk | 55 | 09/27 21:37 | 09/28 03:20 | ⚠ 58分（01:39→02:37） |
+| financialjuice | 22 | 09/27 21:54 | 09/28 03:05 | ⚠ 145分（00:29→02:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 61 行（統合前 72 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 68 行（統合前 79 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -85,3 +85,10 @@
 - 09/28 02:55 [financialjuice] Israeli foreign ministry: diplomatic immunity of Dutch envoys in Ramallah to end in seven days
 - 09/28 02:58 [FirstSquawk] ISRAEL REVOKES DIPLOMATIC STATUS OF DUTCH DIPLOMATS IN RAMALLAH — FOREIGN MINISTRY
 - 09/28 02:58 [FirstSquawk] ISRAEL TO END DIPLOMATIC STATUS OF DUTCH DIPLOMATS IN RAMALLAH IN SEVEN DAYS — FOREIGN MINISTRY
+- 09/28 03:03 [financialjuice] Downing Street: UK PM Burnham greeted Norwegian Prime Minister Jonas Store in Liverpool today
+- 09/28 03:03 [financialjuice] Serbia’s President Aleksandar Vucic resigns, clears path for early presidential election
+- 09/28 03:03 [financialjuice] Downing Street: UK PM and Norway PM discuss Lunna House strategic defense pact between UK and Norway
+- 09/28 03:05 [financialjuice] Downing Street: UK PM Burnham and Norway PM hail deal between Denmark, Greenland and US
+- 09/28 03:13 [FirstSquawk] DOWNING STREET SAYS UK PM BURNHAM WELCOMED THE PRIME MINISTER OF NORWAY JONAS STØRE TO LIVERPOOL TODAY, WITH THE TWO RAISING THE LUNNA HOUSE STRATEGIC DEFENCE AGREEMENT BETWEEN THE UK AND NORWAY.
+- 09/28 03:13 [FirstSquawk] DOWNING STREET SAYS UK PM BURNHAM AND THE NORWAY PM WELCOMED AN AGREEMENT BETWEEN DENMARK, GREENLAND AND THE UNITED STATES.
+- 09/28 03:20 [FirstSquawk] SERBIA’S PRESIDENT ALEKSANDAR VUCIC RESIGNS, PAVING WAY FOR EARLY PRESIDENTIAL ELECTIONS — REUTERS
