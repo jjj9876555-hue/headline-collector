@@ -7,24 +7,24 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-28 04:58 JST／対象: 09/27 22:58 〜 09/28 04:58 JST（時刻はすべて日本時間）
+生成: 2026-09-28 05:16 JST／対象: 09/27 23:16 〜 09/28 05:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/28 00:04 | 09/28 00:04 | - |
-| FirstSquawk | 48 | 09/27 23:27 | 09/28 04:31 | ⚠ 58分（01:39→02:37） |
-| financialjuice | 17 | 09/27 23:08 | 09/28 04:04 | ⚠ 145分（00:29→02:54） |
+| FirstSquawk | 50 | 09/27 23:27 | 09/28 05:06 | ⚠ 58分（01:39→02:37） |
+| financialjuice | 21 | 09/27 23:42 | 09/28 05:07 | ⚠ 145分（00:29→02:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 61 行（統合前 67 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 68 行（統合前 73 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 23:08 [financialjuice/FirstSquawk] UK government spokesperson: UK Prime Minister is being kept informed on Gloucestershire incident
+- 09/27 23:27 [FirstSquawk] UK government spokesperson: UK Prime Minister is being kept informed on Gloucestershire incident
 - 09/27 23:28 [FirstSquawk] The US ambassador to the UN on Iran: President Trump will keep all options on the table.
 - 09/27 23:29 [FirstSquawk] Palestinian was killed and others were injured when an Israeli drone struck a car in the center of Gaza City.
 - 09/27 23:29 [FirstSquawk] The Telegraph: Police are investigating Iran's link to a plot to bomb a British airbase used by US forces.
@@ -85,3 +85,10 @@
 - 09/28 04:04 [financialjuice] Israeli prime minister visited Abu Dhabi on Sunday: UAE president met, Axios sources
 - 09/28 04:06 [FirstSquawk] ISRAELI PM NETANYAHU VISITED ABU DHABI ON SUNDAY, MET UAE PRESIDENT MBZ — AXIOS, CITING SOURCES
 - 09/28 04:31 [FirstSquawk] SYNLAIT MILK POSTED FY REVENUE OF NZD 1,940 MLN, WITH GROSS PROFIT OF NZD 37.7 MLN, EBITDA OF NZD 8.1 MLN AND NET DEBT OF NZD 215 MLN
+- 09/28 05:04 [financialjuice] South Korea presidential office: Ukraine asked to keep transfer of North Korean POWs confidential
+- 09/28 05:05 [financialjuice] South Korea presidential office: South Korea agreed to keep North Korean POW transfer under wraps due to security, diplomatic concerns
+- 09/28 05:05 [financialjuice] South Korea presidential office: Ukraine revealed North Korean POWs transfer to South Korea in UN speech without enough prior consultation
+- 09/28 05:06 [financialjuice] South Korea presidential office: Ukraine's revelation of North Korean POW transfer sparks unnecessary local controversy
+- 09/28 05:06 [FirstSquawk] THE SOUTH KOREA PRESIDENTIAL OFFICE SAYS UKRAINE REQUESTED KEEPING THE NORTH KOREAN POWS' TRANSFER TO SOUTH KOREA CONFIDENTIAL, AND THAT SOUTH KOREA AGREED TO DO SO DUE TO SECURITY AND DIPLOMATIC CONCERNS.
+- 09/28 05:06 [FirstSquawk] THE SOUTH KOREA PRESIDENTIAL OFFICE SAYS UKRAINE DISCLOSED THE NORTH KOREAN POWS' TRANSFER TO SOUTH KOREA IN A UN SPEECH WITHOUT SUFFICIENT PRIOR CONSULTATION, WHICH IT SAYS HAS TRIGGERED UNNECESSARY DOMESTIC CONTROVERSY.
+- 09/28 05:07 [financialjuice] South Korea presidential office demands official explanation and apology from Ukraine over revealing North Korean POW transfer
