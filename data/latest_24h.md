@@ -7,43 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-28 00:58 JST／対象: 09/27 00:58 〜 09/28 00:58 JST（時刻はすべて日本時間）
+生成: 2026-09-28 01:17 JST／対象: 09/27 01:17 〜 09/28 01:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/28 00:04 | 09/28 00:04 | - |
-| FirstSquawk | 203 | 09/27 01:03 | 09/28 00:30 | ⚠ 371分（03:23→09:35） |
-| financialjuice | 45 | 09/27 01:01 | 09/28 00:29 | ⚠ 261分（12:09→16:30） |
+| FirstSquawk | 188 | 09/27 01:19 | 09/28 01:16 | ⚠ 371分（03:23→09:35） |
+| financialjuice | 44 | 09/27 01:57 | 09/28 00:29 | ⚠ 261分（12:09→16:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 240 行（統合前 250 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 220 行（統合前 234 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 01:01 [financialjuice] United Nations: Russian Foreign Minister Lavrov says US must end 'siege' and trade restrictions on Cuba
-- 09/27 01:03 [FirstSquawk] Lavrov: The waves of confrontation in the Gulf and the issue of the Strait of Hormuz must be resolved
-- 09/27 01:03 [FirstSquawk] Lavrov: We demand the immediate release of the Venezuelan president and his wife and that these abuses not be repeated
-- 09/27 01:03 [FirstSquawk] Lavrov: We have launched an initiative to establish peace in the Gulf region and resolve the crisis in the Strait of Hormuz
-- 09/27 01:04 [FirstSquawk] Lavrov: Targeting Iranian nuclear facilities dealt an irreparable blow to the authority of the International Atomic Energy Agency
-- 09/27 01:04 [FirstSquawk] Lavrov: Frequent armed clashes in the Gulf and the Strait of Hormuz continue, harming global navigation and trade.
-- 09/27 01:04 [FirstSquawk] Lavrov: Resolving the crisis requires building trust between the Gulf states, Arab countries, and Iran
-- 09/27 01:04 [FirstSquawk] Lavrov: Russia, along with other countries, is ready to contribute constructively to the stability of the strategically important Middle East region
-- 09/27 01:04 [FirstSquawk] Lavrov: It is time to ensure the establishment of a Palestinian state based on UN resolutions
-- 09/27 01:05 [FirstSquawk] Lavrov: The Security Council approved the peace plan for the Gaza Strip about a year ago, but peace has not yet been achieved.
-- 09/27 01:05 [FirstSquawk] Lavrov: The situation in the West Bank is deteriorating further as Israel intensifies its settlement activities.
-- 09/27 01:05 [FirstSquawk] Lavrov: The absence of a Palestinian state will leave Israel's security under constant threat
-- 09/27 01:06 [FirstSquawk] Lavrov: We demand that Washington lift the trade restrictions imposed on Cuba and remove it from the list of state sponsors of terrorism.
-- 09/27 01:06 [FirstSquawk] Lavrov: The United States has destroyed the European security system and established an anti-Russian regime in Ukraine
-- 09/27 01:07 [FirstSquawk] Lavrov: Europe is working to obstruct the peace negotiations that the US administration is interested in.
-- 09/27 01:07 [FirstSquawk] Lavrov: The West continues to supply Ukraine with weapons and assist it in directing drones and missiles against civilians.
-- 09/27 01:07 [FirstSquawk] Lavrov: EU leaders are embracing extreme anti-Russian ideas and supporting the Kyiv regime
-- 09/27 01:16 [FirstSquawk] Lavrov: Using force to kill Iranian Supreme Leader Ali Khamenei and members of his family is unacceptable
-- 09/27 01:16 [FirstSquawk] Lavrov: The US and Israeli aggression targeted civilian infrastructure and Iranian nuclear facilities under IAEA safeguards.
-- 09/27 01:16 [FirstSquawk] Lavrov: The goals of the special military operation in Ukraine will be achieved, threats to our security will be eliminated, and peace will return.
 - 09/27 01:19 [FirstSquawk] Omani Foreign Minister: I discussed with my Iranian counterpart in New York efforts to de-escalate tensions and ensure the security of navigation in the Strait of Hormuz
 - 09/27 01:48 [FirstSquawk] Saudi Foreign Minister: We, along with other countries in the region, have been subjected to brutal Iranian attacks.
 - 09/27 01:49 [FirstSquawk] Saudi Foreign Minister: The security of the Gulf region is an integral part of the security of the region and the world.
@@ -250,10 +230,10 @@
 - 09/27 23:53 [FirstSquawk] Hezbollah Secretary General: The president has the right to negotiate, but he does not have the right to violate the constitution and relinquish Lebanon's right to prosecute the enemy.
 - 09/27 23:53 [FirstSquawk] Ukrainian Emergency Service: Two dead and five injured in Russian shelling of Sumy city center
 - 09/27 23:58 [financialjuice] Trump tells Axios: expects US negotiators to hold more talks with Iran this week
-- 09/28 00:00 [financialjuice] South Korea expresses strong regret over Ukraine's refusal of nondisclosure agreement on North Korean POWs - Yonhap
-- 09/28 00:02 [financialjuice] South Korean presidency: country contemplating extra actions on issue - Yonhap
+- 09/28 00:00 [financialjuice/FirstSquawk] South Korea expresses strong regret over Ukraine's refusal of nondisclosure agreement on North Korean POWs - Yonhap
+- 09/28 00:02 [financialjuice/FirstSquawk] South Korean presidency: country contemplating extra actions on issue - Yonhap
 - 09/28 00:04 [DeItaone] TRUMP TELLS AXIOS THAT HE EXPECTS US NEGOTIATORS TO ENGAGE IN MORE TALKS WITH IRAN THIS WEEK
-- 09/28 00:07 [financialjuice] China considers permitting ByteDance, Alibaba to buy new Nvidia chips - The Information
+- 09/28 00:07 [financialjuice/FirstSquawk] China considers permitting ByteDance, Alibaba to buy new Nvidia chips - The Information
 - 09/28 00:24 [FirstSquawk] Trump to Axios: I expect US negotiators to hold more talks with Iran this week
 - 09/28 00:24 [FirstSquawk] Trump to Axios: I'm considering resuming strikes on Iran on an ongoing basis
 - 09/28 00:24 [FirstSquawk] Trump to Axios: US military is facilitating the passage of large quantities of oil through the Strait of Hormuz
@@ -262,5 +242,5 @@
 - 09/28 00:25 [FirstSquawk] Trump: I expect to hold talks with Iran this week
 - 09/28 00:25 [FirstSquawk] Axios, citing a US official: Qatari mediators are continuing shuttle diplomacy efforts in an attempt to reach an agreement.
 - 09/28 00:25 [FirstSquawk] Trump to Axios: The Iranians want to make a deal, but it's not the one I want, and we probably would have agreed to it a year ago.
-- 09/28 00:29 [financialjuice] Anthropic's Dario Amodei to attend White House dinner with Trump: Axios
+- 09/28 00:29 [financialjuice/FirstSquawk] Anthropic's Dario Amodei to attend White House dinner with Trump: Axios
 - 09/28 00:30 [FirstSquawk] TRUMP ON TRUTH SOCIAL: The Supreme Court of the United States will just not let Missouri have an Election Victory. They continuously, three times now, overrule Judges who came to the correct decisions. Thank you to the Governor, and all of …

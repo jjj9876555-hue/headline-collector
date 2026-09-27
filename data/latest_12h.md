@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-28 00:58 JST／対象: 09/27 12:58 〜 09/28 00:58 JST（時刻はすべて日本時間）
+生成: 2026-09-28 01:17 JST／対象: 09/27 13:17 〜 09/28 01:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/28 00:04 | 09/28 00:04 | - |
-| FirstSquawk | 99 | 09/27 13:00 | 09/28 00:30 | ⚠ 54分（22:33→23:27） |
+| FirstSquawk | 100 | 09/27 13:22 | 09/28 01:16 | ⚠ 54分（22:33→23:27） |
 | financialjuice | 27 | 09/27 16:30 | 09/28 00:29 | ⚠ 76分（20:38→21:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 120 行（統合前 128 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 117 行（統合前 129 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 13:00 [FirstSquawk] Morgan Stanley’s Slimmon sees stronger opportunities outside U.S. as earnings outlook improves - CNBC
-- 09/27 13:08 [FirstSquawk] U.S. nonimmigrant visas for South Koreans decline nearly 8% in 2025 after Trump takes office: data - YONHAP
-- 09/27 13:15 [FirstSquawk] Bangkok sees floodwaters subside as officials step up canal drainage efforts
 - 09/27 13:22 [FirstSquawk] Indonesia’s coffee industry faces mounting heat from climate change - NA
 - 09/27 13:27 [FirstSquawk] Prices of older supertankers soar above new vessels as tanker market booms — FT
 - 09/27 13:35 [FirstSquawk] Investor withdrawals slow as turmoil in private credit market eases — FT
@@ -130,10 +127,10 @@
 - 09/27 23:53 [FirstSquawk] Hezbollah Secretary General: The president has the right to negotiate, but he does not have the right to violate the constitution and relinquish Lebanon's right to prosecute the enemy.
 - 09/27 23:53 [FirstSquawk] Ukrainian Emergency Service: Two dead and five injured in Russian shelling of Sumy city center
 - 09/27 23:58 [financialjuice] Trump tells Axios: expects US negotiators to hold more talks with Iran this week
-- 09/28 00:00 [financialjuice] South Korea expresses strong regret over Ukraine's refusal of nondisclosure agreement on North Korean POWs - Yonhap
-- 09/28 00:02 [financialjuice] South Korean presidency: country contemplating extra actions on issue - Yonhap
+- 09/28 00:00 [financialjuice/FirstSquawk] South Korea expresses strong regret over Ukraine's refusal of nondisclosure agreement on North Korean POWs - Yonhap
+- 09/28 00:02 [financialjuice/FirstSquawk] South Korean presidency: country contemplating extra actions on issue - Yonhap
 - 09/28 00:04 [DeItaone] TRUMP TELLS AXIOS THAT HE EXPECTS US NEGOTIATORS TO ENGAGE IN MORE TALKS WITH IRAN THIS WEEK
-- 09/28 00:07 [financialjuice] China considers permitting ByteDance, Alibaba to buy new Nvidia chips - The Information
+- 09/28 00:07 [financialjuice/FirstSquawk] China considers permitting ByteDance, Alibaba to buy new Nvidia chips - The Information
 - 09/28 00:24 [FirstSquawk] Trump to Axios: I expect US negotiators to hold more talks with Iran this week
 - 09/28 00:24 [FirstSquawk] Trump to Axios: I'm considering resuming strikes on Iran on an ongoing basis
 - 09/28 00:24 [FirstSquawk] Trump to Axios: US military is facilitating the passage of large quantities of oil through the Strait of Hormuz
@@ -142,5 +139,5 @@
 - 09/28 00:25 [FirstSquawk] Trump: I expect to hold talks with Iran this week
 - 09/28 00:25 [FirstSquawk] Axios, citing a US official: Qatari mediators are continuing shuttle diplomacy efforts in an attempt to reach an agreement.
 - 09/28 00:25 [FirstSquawk] Trump to Axios: The Iranians want to make a deal, but it's not the one I want, and we probably would have agreed to it a year ago.
-- 09/28 00:29 [financialjuice] Anthropic's Dario Amodei to attend White House dinner with Trump: Axios
+- 09/28 00:29 [financialjuice/FirstSquawk] Anthropic's Dario Amodei to attend White House dinner with Trump: Axios
 - 09/28 00:30 [FirstSquawk] TRUMP ON TRUTH SOCIAL: The Supreme Court of the United States will just not let Missouri have an Election Victory. They continuously, three times now, overrule Judges who came to the correct decisions. Thank you to the Governor, and all of …
