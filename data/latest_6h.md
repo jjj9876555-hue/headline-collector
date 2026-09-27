@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-27 10:18 JST／対象: 09/27 04:18 〜 09/27 10:18 JST（時刻はすべて日本時間）
+生成: 2026-09-27 10:32 JST／対象: 09/27 04:32 〜 09/27 10:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 8 | 09/27 09:35 | 09/27 10:15 | 28分（09:36→10:04） |
-| financialjuice | 5 | 09/27 05:16 | 09/27 06:17 | ⚠ 56分（05:16→06:13） |
+| FirstSquawk | 20 | 09/27 09:35 | 09/27 10:32 | 28分（09:36→10:04） |
+| financialjuice | 7 | 09/27 05:16 | 09/27 10:19 | ⚠ 242分（06:17→10:19） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 13 行（統合前 13 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 26 行（統合前 27 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -28,7 +28,7 @@
 - 09/27 06:13 [financialjuice] Iran's foreign minister Araqchi: First reaction from U.S. president seen, but mediators have not yet communicated anything to us
 - 09/27 06:14 [financialjuice] Iran's Araqchi: awaiting mediators to relay final views for decision-making
 - 09/27 06:14 [financialjuice] Iran's Araqchi: conditions clear, any opening of Strait of Hormuz depends on them
-- 09/27 06:17 [financialjuice] Iran's Aragchi: negotiated solution is the only way to end deadlock, that is our stance
+- 09/27 06:17 [financialjuice/FirstSquawk] Iran's Aragchi: negotiated solution is the only way to end deadlock, that is our stance
 - 09/27 09:35 [FirstSquawk] Experts warn Yemen intervention could cost Pakistan diplomatic capital - NA
 - 09/27 09:36 [FirstSquawk] Vingroup, Siemens seal up to €1 billion train deal for Hanoi, Ho Chi Minh City lines - NA
 - 09/27 10:04 [FirstSquawk] Investors debate how to respond as bond yields surge in 2026
@@ -37,3 +37,16 @@
 - 09/27 10:06 [FirstSquawk] Court clears Protestant march in Catholic area of Northern Ireland, Sky News says
 - 09/27 10:14 [FirstSquawk] Wedding guests become a source of down-payment funds for aspiring buyers - WSJ
 - 09/27 10:15 [FirstSquawk] Appeals court clears way for contentious Northern Ireland parade - FT
+- 09/27 10:19 [financialjuice] Northern Ireland High Court rejects bid to block Drumcree Protestant parade through Catholic area on Sunday
+- 09/27 10:19 [financialjuice] Ruling follows appeals court overturning Saturday’s parade injunction, judge "erred in law"
+- 09/27 10:20 [FirstSquawk] Drumcree Protestant parade cleared to proceed through Catholic area after High Court ruling
+- 09/27 10:20 [FirstSquawk] Court ruling follows appeal that overturned Saturday’s parade injunction over legal error
+- 09/27 10:21 [FirstSquawk] European Commission announces €710 million for Africa displacement aid and global crisis relief
+- 09/27 10:22 [FirstSquawk] Australia tightens social media rules, raising penalties for platforms over underage users - NA
+- 09/27 10:23 [FirstSquawk] Iran’s Araqchi: First U.S. presidential reaction seen, but no message received from mediators
+- 09/27 10:23 [FirstSquawk] Araqchi: Iran awaits final views from mediators before deciding next steps
+- 09/27 10:23 [FirstSquawk] Iran FM Araqchi: Any reopening of Strait of Hormuz depends on meeting stated conditions
+- 09/27 10:29 [FirstSquawk] BOJ rate hikes spur Japanese retail investors to sell shares at fastest pace since March
+- 09/27 10:30 [FirstSquawk] Tesla increases Texas Cybercab fleet to 127 vehicles - kalshi says
+- 09/27 10:31 [FirstSquawk] Visa study: Safeguards may encourage more Americans to use stablecoins
+- 09/27 10:32 [FirstSquawk] Visa study: 56% of Americans have never heard of stablecoins, misconceptions remain widespread
