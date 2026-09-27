@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-27 16:46 JST／対象: 09/26 16:46 〜 09/27 16:46 JST（時刻はすべて日本時間）
+生成: 2026-09-27 16:58 JST／対象: 09/26 16:58 〜 09/27 16:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/26 17:07 | 09/27 00:39 | ⚠ 291分（17:07→21:58） |
 | FirstSquawk | 241 | 09/26 16:59 | 09/27 16:33 | ⚠ 371分（03:23→09:35） |
-| financialjuice | 45 | 09/26 16:56 | 09/27 16:31 | ⚠ 261分（12:09→16:30） |
+| financialjuice | 43 | 09/26 17:15 | 09/27 16:31 | ⚠ 261分（12:09→16:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 288 行（統合前 294 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 286 行（統合前 292 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 16:56 [financialjuice] Three killed in Ukraine strike on Russia's Krasnodar region: authorities
-- 09/26 16:56 [financialjuice] China's Xi arrives in Beijing after U.S. state visit: Xinhua
 - 09/26 16:59 [FirstSquawk] More than 45,000 students across Germany joined protests against plans for compulsory military service, with demonstrations held in over 100 cities.
 - 09/26 17:00 [FirstSquawk] Thailand’s capital declared all 50 of its districts disaster zones after nearly 300 millimeters of rain pounded Bangkok over about 48 hours
 - 09/26 17:00 [FirstSquawk] Xi returns to Beijing after state visit to U.S. Chinese President Xi Jinping returned to Beijing on Saturday afternoon after concluding his state visit to the United States.
