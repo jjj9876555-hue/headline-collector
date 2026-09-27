@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-28 01:33 JST／対象: 09/27 01:33 〜 09/28 01:33 JST（時刻はすべて日本時間）
+生成: 2026-09-28 01:51 JST／対象: 09/27 01:51 〜 09/28 01:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/28 00:04 | 09/28 00:04 | - |
-| FirstSquawk | 187 | 09/27 01:48 | 09/28 01:16 | ⚠ 371分（03:23→09:35） |
+| FirstSquawk | 176 | 09/27 01:52 | 09/28 01:39 | ⚠ 371分（03:23→09:35） |
 | financialjuice | 44 | 09/27 01:57 | 09/28 00:29 | ⚠ 261分（12:09→16:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 219 行（統合前 233 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 208 行（統合前 222 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 01:48 [FirstSquawk] Saudi Foreign Minister: We, along with other countries in the region, have been subjected to brutal Iranian attacks.
-- 09/27 01:49 [FirstSquawk] Saudi Foreign Minister: The security of the Gulf region is an integral part of the security of the region and the world.
-- 09/27 01:49 [FirstSquawk] Saudi Foreign Minister: Restoring global supply chains is a shared responsibility
-- 09/27 01:49 [FirstSquawk] Saudi Foreign Minister: Efforts to restore security in the region cannot be based on hegemony and imposing influence.
-- 09/27 01:49 [FirstSquawk] Saudi Foreign Minister: We stress the importance of any arrangements related to the region's security being comprehensive and sustainable
-- 09/27 01:49 [FirstSquawk] Saudi Foreign Minister: We stress the need for the region to be free of weapons of mass destruction and for peaceful nuclear facilities to be subject to international oversight.
-- 09/27 01:50 [FirstSquawk] Saudi Foreign Minister: We emphasize the need for stability in Yemen and the protection of civilians
-- 09/27 01:50 [FirstSquawk] Saudi Foreign Minister: We call on the international community to reject what the Houthi militia is doing in the Red Sea and the Bab al-Mandab Strait
-- 09/27 01:50 [FirstSquawk] Saudi Foreign Minister: The solution to the crisis in Sudan must be internal, in a way that enhances the security and stability of the people.
-- 09/27 01:50 [FirstSquawk] Saudi Foreign Minister: We welcome the United States' removal of Syria from the list of state sponsors of terrorism.
-- 09/27 01:50 [FirstSquawk] Saudi Foreign Minister: Risks threatening international navigation could affect the global economy
-- 09/27 01:51 [FirstSquawk] Saudi Foreign Minister: We emphasize the importance of ensuring freedom of navigation in all international waterways.
-- 09/27 01:51 [FirstSquawk] Saudi Foreign Minister: Continued illegal Israeli settlement expansion is a serious violation of international and humanitarian law
-- 09/27 01:51 [FirstSquawk] Saudi Foreign Minister: The Strait of Hormuz must return to its pre-war operation without imposing fees.
 - 09/27 01:52 [FirstSquawk] Saudi Foreign Minister: We reject any attempts at forced displacement or changing the status quo in the Palestinian territories.
 - 09/27 01:53 [FirstSquawk] Saudi Foreign Minister: We support efforts to de-escalate tensions, especially those of Qatar and Pakistan, which contribute to restoring stability.
 - 09/27 01:53 [FirstSquawk] Saudi Foreign Minister: A just and lasting peace can only be achieved by implementing the two-state solution and establishing a Palestinian state.
@@ -243,3 +229,6 @@
 - 09/28 00:25 [FirstSquawk] Trump to Axios: The Iranians want to make a deal, but it's not the one I want, and we probably would have agreed to it a year ago.
 - 09/28 00:29 [financialjuice/FirstSquawk] Anthropic's Dario Amodei to attend White House dinner with Trump: Axios
 - 09/28 00:30 [FirstSquawk] TRUMP ON TRUTH SOCIAL: The Supreme Court of the United States will just not let Missouri have an Election Victory. They continuously, three times now, overrule Judges who came to the correct decisions. Thank you to the Governor, and all of …
+- 09/28 01:38 [FirstSquawk] Iranian President: If America accepts the legal frameworks and our rights, we have no dispute with them; otherwise, we will never back down.
+- 09/28 01:38 [FirstSquawk] WSJ, citing a US official: Threat level raised at British base Fairford Saturday evening
+- 09/28 01:39 [FirstSquawk] WSJ, citing a US official: Fairford base is a key launchpad for military operations targeting Iran

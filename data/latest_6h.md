@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-28 01:33 JST／対象: 09/27 19:33 〜 09/28 01:33 JST（時刻はすべて日本時間）
+生成: 2026-09-28 01:51 JST／対象: 09/27 19:51 〜 09/28 01:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/28 00:04 | 09/28 00:04 | - |
-| FirstSquawk | 51 | 09/27 19:34 | 09/28 01:16 | ⚠ 54分（22:33→23:27） |
-| financialjuice | 18 | 09/27 19:44 | 09/28 00:29 | ⚠ 76分（20:38→21:54） |
+| FirstSquawk | 52 | 09/27 20:24 | 09/28 01:39 | ⚠ 54分（22:33→23:27） |
+| financialjuice | 17 | 09/27 20:38 | 09/28 00:29 | ⚠ 76分（20:38→21:54） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 59 行（統合前 71 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,9 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 19:34 [FirstSquawk] Iranian Revolutionary Guard: Seizure of an advanced American REMUS 600-class unmanned underwater vehicle in the Strait of Hormuz
-- 09/27 19:34 [FirstSquawk] Kremlin: Relations between Russia and the United States are not at their best
-- 09/27 19:44 [financialjuice] Yemen's Houthi-run health ministry: 7 killed, 40 wounded in market strike in Taiz - Saba News Agency
 - 09/27 20:24 [FirstSquawk] Israeli airstrike on the town of Khiam in the Marjeyoun district of southern Lebanon
 - 09/27 20:24 [FirstSquawk] Israeli airstrike on the outskirts of Haris town in Bint Jbeil district, southern Lebanon
 - 09/27 20:33 [FirstSquawk] Lebanese media: Israeli raids on the towns of "Khiam" and "Mays al-Jabal" and explosions near the towns of "Barashit" and "Beit Yahoun"
@@ -83,3 +80,6 @@
 - 09/28 00:25 [FirstSquawk] Trump to Axios: The Iranians want to make a deal, but it's not the one I want, and we probably would have agreed to it a year ago.
 - 09/28 00:29 [financialjuice/FirstSquawk] Anthropic's Dario Amodei to attend White House dinner with Trump: Axios
 - 09/28 00:30 [FirstSquawk] TRUMP ON TRUTH SOCIAL: The Supreme Court of the United States will just not let Missouri have an Election Victory. They continuously, three times now, overrule Judges who came to the correct decisions. Thank you to the Governor, and all of …
+- 09/28 01:38 [FirstSquawk] Iranian President: If America accepts the legal frameworks and our rights, we have no dispute with them; otherwise, we will never back down.
+- 09/28 01:38 [FirstSquawk] WSJ, citing a US official: Threat level raised at British base Fairford Saturday evening
+- 09/28 01:39 [FirstSquawk] WSJ, citing a US official: Fairford base is a key launchpad for military operations targeting Iran

@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-28 01:33 JST／対象: 09/27 13:33 〜 09/28 01:33 JST（時刻はすべて日本時間）
+生成: 2026-09-28 01:51 JST／対象: 09/27 13:51 〜 09/28 01:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/28 00:04 | 09/28 00:04 | - |
-| FirstSquawk | 98 | 09/27 13:35 | 09/28 01:16 | ⚠ 54分（22:33→23:27） |
+| FirstSquawk | 100 | 09/27 13:52 | 09/28 01:39 | ⚠ 54分（22:33→23:27） |
 | financialjuice | 27 | 09/27 16:30 | 09/28 00:29 | ⚠ 76分（20:38→21:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 115 行（統合前 127 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 117 行（統合前 129 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 13:35 [FirstSquawk] Investor withdrawals slow as turmoil in private credit market eases — FT
 - 09/27 13:52 [FirstSquawk] U.S. housing squeeze puts private equity under focus ahead of midterm elections - FT
 - 09/27 13:53 [FirstSquawk] West London high street pushes back against betting shops and chicken shops - FT
 - 09/27 14:04 [FirstSquawk] South Korea doubles down on its push for AI adoption across society - FT
@@ -139,3 +138,6 @@
 - 09/28 00:25 [FirstSquawk] Trump to Axios: The Iranians want to make a deal, but it's not the one I want, and we probably would have agreed to it a year ago.
 - 09/28 00:29 [financialjuice/FirstSquawk] Anthropic's Dario Amodei to attend White House dinner with Trump: Axios
 - 09/28 00:30 [FirstSquawk] TRUMP ON TRUTH SOCIAL: The Supreme Court of the United States will just not let Missouri have an Election Victory. They continuously, three times now, overrule Judges who came to the correct decisions. Thank you to the Governor, and all of …
+- 09/28 01:38 [FirstSquawk] Iranian President: If America accepts the legal frameworks and our rights, we have no dispute with them; otherwise, we will never back down.
+- 09/28 01:38 [FirstSquawk] WSJ, citing a US official: Threat level raised at British base Fairford Saturday evening
+- 09/28 01:39 [FirstSquawk] WSJ, citing a US official: Fairford base is a key launchpad for military operations targeting Iran
