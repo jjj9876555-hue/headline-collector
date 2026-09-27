@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-27 12:04 JST／対象: 09/26 12:04 〜 09/27 12:04 JST（時刻はすべて日本時間）
+生成: 2026-09-27 12:25 JST／対象: 09/26 12:25 〜 09/27 12:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/26 17:07 | 09/27 00:39 | ⚠ 291分（17:07→21:58） |
-| FirstSquawk | 283 | 09/26 12:08 | 09/27 12:02 | ⚠ 371分（03:23→09:35） |
-| financialjuice | 43 | 09/26 13:00 | 09/27 10:19 | ⚠ 242分（06:17→10:19） |
+| FirstSquawk | 277 | 09/26 12:26 | 09/27 12:24 | ⚠ 371分（03:23→09:35） |
+| financialjuice | 45 | 09/26 13:00 | 09/27 12:09 | ⚠ 242分（06:17→10:19） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 328 行（統合前 334 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 324 行（統合前 330 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 12:08 [FirstSquawk] Brazil plans to extend debt discounts to families under new program
-- 09/26 12:08 [FirstSquawk] Brazil expects program to cover 150 billion reais of debt, or half of eligible pool, at 15 billion reais cost
-- 09/26 12:09 [FirstSquawk] Brazil government: Mechanism to support overdue payment regularization and family debt restructuring
-- 09/26 12:09 [FirstSquawk] US Tsunami Warning System: No tsunami threat following 7.0-magnitude Loyalty Islands quake
-- 09/26 12:10 [FirstSquawk] NYSE American notifies Southland of listing standards noncompliance
-- 09/26 12:10 [FirstSquawk] Health Canada: 11 insulin product lots recalled after shipments to about 80 pharmacies, clinics and hospitals
-- 09/26 12:10 [FirstSquawk] Magnitude 7.0 earthquake hits Tadine, New Caledonia region, USGS says
-- 09/26 12:17 [FirstSquawk] Bulgaria’s outlook revision reflects reduced political uncertainty after April general election, Fitch says
-- 09/26 12:20 [FirstSquawk] Bulgaria’s outlook raised to positive by Fitch; IDR affirmed at ‘BBB+’
-- 09/26 12:23 [FirstSquawk] US FDA: Boston Scientific will stop selling Imager II Angiographic Catheter product line
-- 09/26 12:23 [FirstSquawk] Australia to impose tougher social media penalties over underage access and online harms - NA
 - 09/26 12:26 [FirstSquawk] Hurricane Polo shows Category 5 winds, NOAA aircraft measures, NHC says
 - 09/26 12:28 [FirstSquawk] Moody’s says Angola’s outlook change reflects stronger macroeconomic stability amid varying oil prices
 - 09/26 12:32 [FirstSquawk] Major Hurricane Odalys moving slowly toward the north-northeast, NHC says
@@ -352,3 +341,10 @@
 - 09/27 11:53 [FirstSquawk] Trump seeks to rebrand AI as “superintelligence” amid growing U.S.-China challenges
 - 09/27 12:00 [FirstSquawk] U.S., China to pursue military crisis-communication pact, Beijing says
 - 09/27 12:02 [FirstSquawk] U.S. moves to finalize major reduction in vehicle fuel economy requirements - RTRS
+- 09/27 12:06 [FirstSquawk] China says Xi and Trump reached eight agreements and understandings during U.S. visit
+- 09/27 12:09 [financialjuice] US president Trump, Japan PM Takaichi hold 20-minute phone call Saturday from 1200 GMT: Japan foreign ministry
+- 09/27 12:09 [financialjuice] Trump offers detailed account of latest US-China summit during call with Japan PM Takaichi: Japan foreign ministry says
+- 09/27 12:10 [FirstSquawk] U.S. President Trump, Japan PM Takaichi hold 20-minute call: Japan foreign ministry
+- 09/27 12:10 [FirstSquawk] Trump shares details of latest U.S.-China summit with Japan PM Takaichi: Japan foreign ministry
+- 09/27 12:17 [FirstSquawk] Japan’s wedding industry turns to foreign couples as domestic marriages fall - NA
+- 09/27 12:24 [FirstSquawk] Iran maintains diplomatic approach after Trump rejects proposed peace plan - RTRS

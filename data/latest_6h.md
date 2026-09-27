@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-27 12:04 JST／対象: 09/27 06:04 〜 09/27 12:04 JST（時刻はすべて日本時間）
+生成: 2026-09-27 12:25 JST／対象: 09/27 06:25 〜 09/27 12:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 44 | 09/27 09:35 | 09/27 12:02 | 28分（09:36→10:04） |
-| financialjuice | 6 | 09/27 06:13 | 09/27 10:19 | ⚠ 242分（06:17→10:19） |
+| FirstSquawk | 49 | 09/27 09:35 | 09/27 12:24 | 28分（09:36→10:04） |
+| financialjuice | 4 | 09/27 10:19 | 09/27 12:09 | ⚠ 109分（10:19→12:09） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 49 行（統合前 50 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 53 行（統合前 53 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 06:13 [financialjuice] Iran's foreign minister Araqchi: First reaction from U.S. president seen, but mediators have not yet communicated anything to us
-- 09/27 06:14 [financialjuice] Iran's Araqchi: awaiting mediators to relay final views for decision-making
-- 09/27 06:14 [financialjuice] Iran's Araqchi: conditions clear, any opening of Strait of Hormuz depends on them
-- 09/27 06:17 [financialjuice/FirstSquawk] Iran's Aragchi: negotiated solution is the only way to end deadlock, that is our stance
 - 09/27 09:35 [FirstSquawk] Experts warn Yemen intervention could cost Pakistan diplomatic capital - NA
 - 09/27 09:36 [FirstSquawk] Vingroup, Siemens seal up to €1 billion train deal for Hanoi, Ho Chi Minh City lines - NA
 - 09/27 10:04 [FirstSquawk] Investors debate how to respond as bond yields surge in 2026
@@ -45,6 +41,7 @@
 - 09/27 10:23 [FirstSquawk] Iran’s Araqchi: First U.S. presidential reaction seen, but no message received from mediators
 - 09/27 10:23 [FirstSquawk] Araqchi: Iran awaits final views from mediators before deciding next steps
 - 09/27 10:23 [FirstSquawk] Iran FM Araqchi: Any reopening of Strait of Hormuz depends on meeting stated conditions
+- 09/27 10:24 [FirstSquawk] Iran's Aragchi: negotiated solution is the only way to end deadlock, that is our stance
 - 09/27 10:29 [FirstSquawk] BOJ rate hikes spur Japanese retail investors to sell shares at fastest pace since March
 - 09/27 10:30 [FirstSquawk] Tesla increases Texas Cybercab fleet to 127 vehicles - kalshi says
 - 09/27 10:31 [FirstSquawk] Visa study: Safeguards may encourage more Americans to use stablecoins
@@ -73,3 +70,10 @@
 - 09/27 11:53 [FirstSquawk] Trump seeks to rebrand AI as “superintelligence” amid growing U.S.-China challenges
 - 09/27 12:00 [FirstSquawk] U.S., China to pursue military crisis-communication pact, Beijing says
 - 09/27 12:02 [FirstSquawk] U.S. moves to finalize major reduction in vehicle fuel economy requirements - RTRS
+- 09/27 12:06 [FirstSquawk] China says Xi and Trump reached eight agreements and understandings during U.S. visit
+- 09/27 12:09 [financialjuice] US president Trump, Japan PM Takaichi hold 20-minute phone call Saturday from 1200 GMT: Japan foreign ministry
+- 09/27 12:09 [financialjuice] Trump offers detailed account of latest US-China summit during call with Japan PM Takaichi: Japan foreign ministry says
+- 09/27 12:10 [FirstSquawk] U.S. President Trump, Japan PM Takaichi hold 20-minute call: Japan foreign ministry
+- 09/27 12:10 [FirstSquawk] Trump shares details of latest U.S.-China summit with Japan PM Takaichi: Japan foreign ministry
+- 09/27 12:17 [FirstSquawk] Japan’s wedding industry turns to foreign couples as domestic marriages fall - NA
+- 09/27 12:24 [FirstSquawk] Iran maintains diplomatic approach after Trump rejects proposed peace plan - RTRS
