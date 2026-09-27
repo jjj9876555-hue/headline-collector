@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-27 17:33 JST／対象: 09/27 11:33 〜 09/27 17:33 JST（時刻はすべて日本時間）
+生成: 2026-09-27 17:51 JST／対象: 09/27 11:51 〜 09/27 17:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 53 | 09/27 11:37 | 09/27 17:29 | 32分（16:00→16:32） |
-| financialjuice | 4 | 09/27 12:09 | 09/27 16:31 | ⚠ 261分（12:09→16:30） |
+| FirstSquawk | 49 | 09/27 11:53 | 09/27 17:29 | 32分（16:00→16:32） |
+| financialjuice | 6 | 09/27 12:09 | 09/27 17:40 | ⚠ 261分（12:09→16:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 57 行（統合前 57 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 55 行（統合前 55 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 11:37 [FirstSquawk] Hackers target AI accounts and servers as cybercrime activity surges — FT
-- 09/27 11:41 [FirstSquawk] Indonesia considers Chinese involvement in planned 2,772km railway project — SCMP
-- 09/27 11:47 [FirstSquawk] Hamas leader accuses Israel of leveraging Palestinian casualties for election purposes — SCMP
-- 09/27 11:47 [FirstSquawk] 6.5 tons of cannabis flown from Thailand to UK in two months, government says
 - 09/27 11:53 [FirstSquawk] Trump seeks to rebrand AI as “superintelligence” amid growing U.S.-China challenges
 - 09/27 12:00 [FirstSquawk] U.S., China to pursue military crisis-communication pact, Beijing says
 - 09/27 12:02 [FirstSquawk] U.S. moves to finalize major reduction in vehicle fuel economy requirements - RTRS
@@ -81,3 +77,5 @@
 - 09/27 17:03 [FirstSquawk] Two giant pandas depart China for US after Xi-Trump summit Loan of the pair to Zoo Atlanta was one of the few concrete outcomes of their talks
 - 09/27 17:29 [FirstSquawk] Iran’s war is not over, and the country must stay ready to deliver further heavy blows to the enemy, the army chief said on Sunday. “We won, but we must preserve this victory,” Amir Hatami said.
 - 09/27 17:29 [FirstSquawk] Zelensky: This past week, the Russians launched more than 2,200 attack drones against Ukraine, as well as around 1,650 aerial bombs and 38 missiles of various types, a significant number of them ballistic missiles.
+- 09/27 17:39 [financialjuice] Iran's army spokesperson: US may initiate fresh strike due to 'its poor regional situation' - state media
+- 09/27 17:40 [financialjuice] Iran army spokesman: Tehran ready for clash, will cause greater damage to US - state media
