@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-27 16:16 JST／対象: 09/27 10:16 〜 09/27 16:16 JST（時刻はすべて日本時間）
+生成: 2026-09-27 16:32 JST／対象: 09/27 10:32 〜 09/27 16:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 73 | 09/27 10:20 | 09/27 16:00 | 29分（15:28→15:57） |
-| financialjuice | 4 | 09/27 10:19 | 09/27 12:09 | ⚠ 109分（10:19→12:09） |
+| FirstSquawk | 62 | 09/27 10:33 | 09/27 16:32 | 32分（16:00→16:32） |
+| financialjuice | 4 | 09/27 12:09 | 09/27 16:31 | ⚠ 261分（12:09→16:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 77 行（統合前 77 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 66 行（統合前 66 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 10:19 [financialjuice] Northern Ireland High Court rejects bid to block Drumcree Protestant parade through Catholic area on Sunday
-- 09/27 10:19 [financialjuice] Ruling follows appeals court overturning Saturday’s parade injunction, judge "erred in law"
-- 09/27 10:20 [FirstSquawk] Drumcree Protestant parade cleared to proceed through Catholic area after High Court ruling
-- 09/27 10:20 [FirstSquawk] Court ruling follows appeal that overturned Saturday’s parade injunction over legal error
-- 09/27 10:21 [FirstSquawk] European Commission announces €710 million for Africa displacement aid and global crisis relief
-- 09/27 10:22 [FirstSquawk] Australia tightens social media rules, raising penalties for platforms over underage users - NA
-- 09/27 10:23 [FirstSquawk] Iran’s Araqchi: First U.S. presidential reaction seen, but no message received from mediators
-- 09/27 10:23 [FirstSquawk] Araqchi: Iran awaits final views from mediators before deciding next steps
-- 09/27 10:23 [FirstSquawk] Iran FM Araqchi: Any reopening of Strait of Hormuz depends on meeting stated conditions
-- 09/27 10:24 [FirstSquawk] Iran's Aragchi: negotiated solution is the only way to end deadlock, that is our stance
-- 09/27 10:29 [FirstSquawk] BOJ rate hikes spur Japanese retail investors to sell shares at fastest pace since March
-- 09/27 10:30 [FirstSquawk] Tesla increases Texas Cybercab fleet to 127 vehicles - kalshi says
-- 09/27 10:31 [FirstSquawk] Visa study: Safeguards may encourage more Americans to use stablecoins
-- 09/27 10:32 [FirstSquawk] Visa study: 56% of Americans have never heard of stablecoins, misconceptions remain widespread
 - 09/27 10:33 [FirstSquawk] AI deepfakes and payment scams raise concerns among Americans sending money abroad, Visa study says
 - 09/27 10:36 [FirstSquawk] Trump to launch ‘AI Force’ and appoint AI czar amid calls for greater AI oversight — WaPo
 - 09/27 10:37 [FirstSquawk] New York Mayor Mamdani and Netanyahu continue public dispute that began during mayoral campaign - CBS
@@ -101,3 +87,6 @@
 - 09/27 15:58 [FirstSquawk] China has stepped up criticism of US policy toward Cuba, urging Washington to end what Beijing describes as a “blockade” and coercive measures against Havana
 - 09/27 16:00 [FirstSquawk] Weekend markets update: #DAX 25496 -0.21% #DOW 51734 -0.18% #NASDAQ 30550 -0.28% #FTSE 10720 -0.21% #HANGSENG 24492 -0.06% #EURUSD 11387 -0.03% #GOLD 4282 -0.08% #SILVER 6418 -0.18% #USOIL 9362 +1.79%
 - 09/27 16:00 [FirstSquawk] Crypto update: #Bitcoin 84505.00 +0.56% #Ether 2706.30 +1.1% #BitcoinCash 340.18 +1.92% #EOS 0.1295 +0% #Litecoin 71.83 +0.57% #Stellar 0.2168 +0.98% #Dogecoin 0.0967 +0.94% #Uniswap 9.9111 +4.68% #Chainlink 14.2322 +1.94% #Polkadot 1.2373 …
+- 09/27 16:30 [financialjuice] Britain's Gloucestershire police: several men detained over explosives act violations after increased security at Fairford air base - Sky News
+- 09/27 16:31 [financialjuice] Britain's Gloucestershire police: army's specialist bomb disposal unit is currently inspecting several vehicles - Sky News
+- 09/27 16:32 [FirstSquawk] Andy Burnham will launch a new version of the controversial Help to Buy scheme through which hundreds of thousands of first-time buyers got on to the housing ladder under the previous Conservative government
