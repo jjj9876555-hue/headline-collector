@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-27 14:04 JST／対象: 09/26 14:04 〜 09/27 14:04 JST（時刻はすべて日本時間）
+生成: 2026-09-27 14:24 JST／対象: 09/26 14:24 〜 09/27 14:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/26 17:07 | 09/27 00:39 | ⚠ 291分（17:07→21:58） |
-| FirstSquawk | 256 | 09/26 14:14 | 09/27 14:04 | ⚠ 371分（03:23→09:35） |
+| FirstSquawk | 256 | 09/26 14:25 | 09/27 14:19 | ⚠ 371分（03:23→09:35） |
 | financialjuice | 44 | 09/26 16:36 | 09/27 12:09 | ⚠ 242分（06:17→10:19） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,9 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 14:14 [FirstSquawk] Fed’s Hammack says several factors are behind the rise in bond yields
-- 09/26 14:21 [FirstSquawk] Fed’s Hammack: Persistent high inflation complicates economic planning
-- 09/26 14:22 [FirstSquawk] Apax set to buy out Warburg Pincus from €6.5bn telecoms group Odido - FT
 - 09/26 14:25 [FirstSquawk] EU explores Norway and Canada as locations for space launches - FT
 - 09/26 14:31 [FirstSquawk] Xi concludes U.S. trip with agreement to meet Trump again in November - KYODO
 - 09/26 14:36 [FirstSquawk] Fed’s Hammack: AI’s implications for inflation remain uncertain over the long term
@@ -326,3 +323,6 @@
 - 09/27 13:52 [FirstSquawk] U.S. housing squeeze puts private equity under focus ahead of midterm elections - FT
 - 09/27 13:53 [FirstSquawk] West London high street pushes back against betting shops and chicken shops - FT
 - 09/27 14:04 [FirstSquawk] South Korea doubles down on its push for AI adoption across society - FT
+- 09/27 14:10 [FirstSquawk] Kurdish leader criticizes U.S. pullout from Iraq as ‘shameful’ — FT
+- 09/27 14:14 [FirstSquawk] Armani to launch talks with LVMH and L’Oréal on potential stake sale — FT
+- 09/27 14:19 [FirstSquawk] Lack of AI openness risks undermining investment in Europe, major companies warn — FT
