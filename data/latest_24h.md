@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-27 17:17 JST／対象: 09/26 17:17 〜 09/27 17:17 JST（時刻はすべて日本時間）
+生成: 2026-09-27 17:33 JST／対象: 09/26 17:33 〜 09/27 17:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/26 21:58 | 09/27 00:39 | ⚠ 67分（22:54→00:01） |
-| FirstSquawk | 239 | 09/26 17:20 | 09/27 17:03 | ⚠ 371分（03:23→09:35） |
+| FirstSquawk | 237 | 09/26 17:53 | 09/27 17:29 | ⚠ 371分（03:23→09:35） |
 | financialjuice | 41 | 09/26 19:00 | 09/27 16:31 | ⚠ 261分（12:09→16:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 281 行（統合前 287 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 279 行（統合前 285 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 17:20 [FirstSquawk] We no longer trust talks with Washington,' Iran's Pezeshkian
-- 09/26 17:21 [FirstSquawk] Peter Thiel on Germany: It’s very important for us to find a way to turn Germany around. It’s at the heart of Europe. Europe is still at the core of Western civilization.
-- 09/26 17:21 [FirstSquawk] Libya's NOC: considering crude shipment via Melitah or Sidra ports
-- 09/26 17:22 [FirstSquawk] Iranian lawmaker Esmail Kowsari said Tehran would take steps to counter what he described as an air blockade, amid restrictions affecting Iranian flights
 - 09/26 17:53 [FirstSquawk] US and Chinese presidents agree that imposing fees on international waterways is not permissible
 - 09/26 17:53 [FirstSquawk] China, US agree to $30 billion tariff cut, AI dialogue during Xi visit
 - 09/26 17:53 [FirstSquawk] Malaysian funeral offerings head to biennale and rock performances
@@ -305,3 +301,5 @@
 - 09/27 17:03 [FirstSquawk] Police evacuated homes near RAF Fairford, a U.S. air base in England, and arrested several men over suspected explosive offenses. The base is used by the American forces during the war with Iran.
 - 09/27 17:03 [FirstSquawk] Iran said it’s awaiting a definitive US response to a seven-day proposal for reopening the Strait of Hormuz but won’t soften its conditions
 - 09/27 17:03 [FirstSquawk] Two giant pandas depart China for US after Xi-Trump summit Loan of the pair to Zoo Atlanta was one of the few concrete outcomes of their talks
+- 09/27 17:29 [FirstSquawk] Iran’s war is not over, and the country must stay ready to deliver further heavy blows to the enemy, the army chief said on Sunday. “We won, but we must preserve this victory,” Amir Hatami said.
+- 09/27 17:29 [FirstSquawk] Zelensky: This past week, the Russians launched more than 2,200 attack drones against Ukraine, as well as around 1,650 aerial bombs and 38 missiles of various types, a significant number of them ballistic missiles.

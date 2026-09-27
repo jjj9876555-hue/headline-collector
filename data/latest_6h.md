@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-27 17:17 JST／対象: 09/27 11:17 〜 09/27 17:17 JST（時刻はすべて日本時間）
+生成: 2026-09-27 17:33 JST／対象: 09/27 11:33 〜 09/27 17:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 55 | 09/27 11:19 | 09/27 17:03 | 32分（16:00→16:32） |
+| FirstSquawk | 53 | 09/27 11:37 | 09/27 17:29 | 32分（16:00→16:32） |
 | financialjuice | 4 | 09/27 12:09 | 09/27 16:31 | ⚠ 261分（12:09→16:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 59 行（統合前 59 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 57 行（統合前 57 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 11:19 [FirstSquawk] Amazon steps deeper into India’s quick-commerce market, challenging fast-delivery rivals — FT
-- 09/27 11:22 [FirstSquawk] AI power demand and higher energy costs take center stage in New York climate talks — FT
-- 09/27 11:26 [FirstSquawk] Germany, Russia hold first foreign ministers’ meeting in over four years – FT
-- 09/27 11:33 [FirstSquawk] Aramco explores additional crude export routes beyond three main routes
 - 09/27 11:37 [FirstSquawk] Hackers target AI accounts and servers as cybercrime activity surges — FT
 - 09/27 11:41 [FirstSquawk] Indonesia considers Chinese involvement in planned 2,772km railway project — SCMP
 - 09/27 11:47 [FirstSquawk] Hamas leader accuses Israel of leveraging Palestinian casualties for election purposes — SCMP
@@ -83,3 +79,5 @@
 - 09/27 17:03 [FirstSquawk] Police evacuated homes near RAF Fairford, a U.S. air base in England, and arrested several men over suspected explosive offenses. The base is used by the American forces during the war with Iran.
 - 09/27 17:03 [FirstSquawk] Iran said it’s awaiting a definitive US response to a seven-day proposal for reopening the Strait of Hormuz but won’t soften its conditions
 - 09/27 17:03 [FirstSquawk] Two giant pandas depart China for US after Xi-Trump summit Loan of the pair to Zoo Atlanta was one of the few concrete outcomes of their talks
+- 09/27 17:29 [FirstSquawk] Iran’s war is not over, and the country must stay ready to deliver further heavy blows to the enemy, the army chief said on Sunday. “We won, but we must preserve this victory,” Amir Hatami said.
+- 09/27 17:29 [FirstSquawk] Zelensky: This past week, the Russians launched more than 2,200 attack drones against Ukraine, as well as around 1,650 aerial bombs and 38 missiles of various types, a significant number of them ballistic missiles.
