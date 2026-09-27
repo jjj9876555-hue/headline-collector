@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-27 22:59 JST／対象: 09/27 16:59 〜 09/27 22:59 JST（時刻はすべて日本時間）
+生成: 2026-09-27 23:16 JST／対象: 09/27 17:16 〜 09/27 23:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 43 | 09/27 17:03 | 09/27 22:33 | ⚠ 49分（19:34→20:24） |
-| financialjuice | 15 | 09/27 17:39 | 09/27 22:01 | ⚠ 76分（20:38→21:54） |
+| FirstSquawk | 40 | 09/27 17:29 | 09/27 22:33 | ⚠ 49分（19:34→20:24） |
+| financialjuice | 16 | 09/27 17:39 | 09/27 23:08 | ⚠ 76分（20:38→21:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 52 行（統合前 58 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 50 行（統合前 56 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 17:03 [FirstSquawk] Police evacuated homes near RAF Fairford, a U.S. air base in England, and arrested several men over suspected explosive offenses. The base is used by the American forces during the war with Iran.
-- 09/27 17:03 [FirstSquawk] Iran said it’s awaiting a definitive US response to a seven-day proposal for reopening the Strait of Hormuz but won’t soften its conditions
-- 09/27 17:03 [FirstSquawk] Two giant pandas depart China for US after Xi-Trump summit Loan of the pair to Zoo Atlanta was one of the few concrete outcomes of their talks
 - 09/27 17:29 [FirstSquawk] Iran’s war is not over, and the country must stay ready to deliver further heavy blows to the enemy, the army chief said on Sunday. “We won, but we must preserve this victory,” Amir Hatami said.
 - 09/27 17:29 [FirstSquawk] Zelensky: This past week, the Russians launched more than 2,200 attack drones against Ukraine, as well as around 1,650 aerial bombs and 38 missiles of various types, a significant number of them ballistic missiles.
 - 09/27 17:39 [financialjuice] Iran's army spokesperson: US may initiate fresh strike due to 'its poor regional situation' - state media
@@ -76,3 +73,4 @@
 - 09/27 22:33 [FirstSquawk] Iraqi official: Suspension of flights with Iran depends on ground service companies complying with US Treasury instructions
 - 09/27 22:33 [FirstSquawk] Iraqi official: The lack of a publicly stated government position on Iranian flights is due to the sensitivity of the issue.
 - 09/27 22:33 [FirstSquawk] Iraqi official: Companies' apologies for not providing services before takeoff and after landing led to the suspension of Iranian flights
+- 09/27 23:08 [financialjuice] UK government spokesperson: UK Prime Minister is being kept informed on Gloucestershire incident

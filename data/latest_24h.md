@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-27 22:59 JST／対象: 09/26 22:59 〜 09/27 22:59 JST（時刻はすべて日本時間）
+生成: 2026-09-27 23:16 JST／対象: 09/26 23:16 〜 09/27 23:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/27 00:01 | 09/27 00:39 | 19分（00:19→00:39） |
-| FirstSquawk | 189 | 09/26 23:00 | 09/27 22:33 | ⚠ 371分（03:23→09:35） |
-| financialjuice | 43 | 09/26 23:00 | 09/27 22:01 | ⚠ 261分（12:09→16:30） |
+| FirstSquawk | 187 | 09/26 23:25 | 09/27 22:33 | ⚠ 371分（03:23→09:35） |
+| financialjuice | 42 | 09/26 23:24 | 09/27 23:08 | ⚠ 261分（12:09→16:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 223 行（統合前 235 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 220 行（統合前 232 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 23:00 [financialjuice] Iraq in discussions with US to exempt some Iraqi airports from Iranian airline restrictions: Iraqi PM office
-- 09/26 23:00 [FirstSquawk] Iraq negotiating with US over airport exemptions for Iranian airlines
-- 09/26 23:01 [FirstSquawk] Iraq: Easing restrictions on Iranian airlines would enable humanitarian flights to resume
-- 09/26 23:01 [financialjuice] Easing limits on Iranian airlines allows Iraq to restart flights for humanitarian aid: Iraqi PM office
 - 09/26 23:24 [financialjuice/FirstSquawk] Pakistan PM Sharif on Houthis attacks on Saudi Arabia: Any threat to security, sanctity of Two Holy Mosques is a red line that can't be crossed under any circumstances
 - 09/26 23:25 [FirstSquawk] Trump: US expects to make a deal with Cuba without needing the military
 - 09/26 23:25 [financialjuice] Trump: Cuba and US to strike a deal, don’t expect military involvement
@@ -247,3 +243,4 @@
 - 09/27 22:33 [FirstSquawk] Iraqi official: Suspension of flights with Iran depends on ground service companies complying with US Treasury instructions
 - 09/27 22:33 [FirstSquawk] Iraqi official: The lack of a publicly stated government position on Iranian flights is due to the sensitivity of the issue.
 - 09/27 22:33 [FirstSquawk] Iraqi official: Companies' apologies for not providing services before takeoff and after landing led to the suspension of Iranian flights
+- 09/27 23:08 [financialjuice] UK government spokesperson: UK Prime Minister is being kept informed on Gloucestershire incident
