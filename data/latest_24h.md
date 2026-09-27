@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-27 16:58 JST／対象: 09/26 16:58 〜 09/27 16:58 JST（時刻はすべて日本時間）
+生成: 2026-09-27 17:17 JST／対象: 09/26 17:17 〜 09/27 17:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 8 | 09/26 17:07 | 09/27 00:39 | ⚠ 291分（17:07→21:58） |
-| FirstSquawk | 241 | 09/26 16:59 | 09/27 16:33 | ⚠ 371分（03:23→09:35） |
-| financialjuice | 43 | 09/26 17:15 | 09/27 16:31 | ⚠ 261分（12:09→16:30） |
+| DeItaone | 7 | 09/26 21:58 | 09/27 00:39 | ⚠ 67分（22:54→00:01） |
+| FirstSquawk | 239 | 09/26 17:20 | 09/27 17:03 | ⚠ 371分（03:23→09:35） |
+| financialjuice | 41 | 09/26 19:00 | 09/27 16:31 | ⚠ 261分（12:09→16:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 286 行（統合前 292 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 281 行（統合前 287 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 16:59 [FirstSquawk] More than 45,000 students across Germany joined protests against plans for compulsory military service, with demonstrations held in over 100 cities.
-- 09/26 17:00 [FirstSquawk] Thailand’s capital declared all 50 of its districts disaster zones after nearly 300 millimeters of rain pounded Bangkok over about 48 hours
-- 09/26 17:00 [FirstSquawk] Xi returns to Beijing after state visit to U.S. Chinese President Xi Jinping returned to Beijing on Saturday afternoon after concluding his state visit to the United States.
-- 09/26 17:01 [FirstSquawk] GLP-1 medications continue reshaping the treatment of obesity and diabetes, researchers are also investigating whether the drugs could influence cancer risk and outcomes.
-- 09/26 17:01 [FirstSquawk] Iran’s Defense Ministry spokesman Reza Talaei-Nik said recent conflicts had become increasingly technology-driven and extended well beyond the battlefield.
-- 09/26 17:07 [DeItaone] TRUMP REJECTS IRAN’S HORMUZ PEACE PLAN, EXPECTS BOMBING COULD RESUME AFTER MIDTERMS — WSJ President Donald Trump has rejected Iran’s proposal to reopen the Strait of Hormuz and halt regional fighting within seven days, the Wall Street Journ…
-- 09/26 17:15 [financialjuice] Libya's NOC: halted one refining unit at Zawiya refinery due to ongoing forced closure of a valve on Sharara crude pipeline by armed groups
-- 09/26 17:15 [financialjuice] Libya's NOC: considering crude shipment via Melitah or Sidra ports to maintain Zawiya refinery operations
 - 09/26 17:20 [FirstSquawk] We no longer trust talks with Washington,' Iran's Pezeshkian
 - 09/26 17:21 [FirstSquawk] Peter Thiel on Germany: It’s very important for us to find a way to turn Germany around. It’s at the heart of Europe. Europe is still at the core of Western civilization.
 - 09/26 17:21 [FirstSquawk] Libya's NOC: considering crude shipment via Melitah or Sidra ports
@@ -310,3 +302,6 @@
 - 09/27 16:33 [FirstSquawk] Southeast Asia manufacturing, Japan immigration costs, Vietnam GDP
 - 09/27 16:33 [FirstSquawk] Serbia's embattled president is expected to resign in a well-telegraphed move as he seeks to transition to the role of PM
 - 09/27 16:33 [FirstSquawk] Russia has targeted Ukraine's railway throughout the full-scale invasion, but the intensity of attacks has risen sharply over 2026. At the same time, Ukraine increasingly depends on the railway for passengers, trade, diplomacy, and wartime …
+- 09/27 17:03 [FirstSquawk] Police evacuated homes near RAF Fairford, a U.S. air base in England, and arrested several men over suspected explosive offenses. The base is used by the American forces during the war with Iran.
+- 09/27 17:03 [FirstSquawk] Iran said it’s awaiting a definitive US response to a seven-day proposal for reopening the Strait of Hormuz but won’t soften its conditions
+- 09/27 17:03 [FirstSquawk] Two giant pandas depart China for US after Xi-Trump summit Loan of the pair to Zoo Atlanta was one of the few concrete outcomes of their talks

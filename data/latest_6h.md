@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-27 16:58 JST／対象: 09/27 10:58 〜 09/27 16:58 JST（時刻はすべて日本時間）
+生成: 2026-09-27 17:17 JST／対象: 09/27 11:17 〜 09/27 17:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 56 | 09/27 11:00 | 09/27 16:33 | 32分（16:00→16:32） |
+| FirstSquawk | 55 | 09/27 11:19 | 09/27 17:03 | 32分（16:00→16:32） |
 | financialjuice | 4 | 09/27 12:09 | 09/27 16:31 | ⚠ 261分（12:09→16:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 60 行（統合前 60 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 59 行（統合前 59 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 11:00 [FirstSquawk] Japanese Ground Self-Defense Force long-range missiles expected in October U.S. drill — Kyodo
-- 09/27 11:08 [FirstSquawk] Takaichi: Japan and U.S. agreed to collaborate on China issues, including economic security
-- 09/27 11:12 [FirstSquawk] U.S. farmers reconsider ties with GOP amid shifting political and economic pressures — WSJ
-- 09/27 11:13 [FirstSquawk] 737 MAX software glitch may affect navigation during landings as Boeing develops fix - WSJ
 - 09/27 11:19 [FirstSquawk] Amazon steps deeper into India’s quick-commerce market, challenging fast-delivery rivals — FT
 - 09/27 11:22 [FirstSquawk] AI power demand and higher energy costs take center stage in New York climate talks — FT
 - 09/27 11:26 [FirstSquawk] Germany, Russia hold first foreign ministers’ meeting in over four years – FT
@@ -84,3 +80,6 @@
 - 09/27 16:33 [FirstSquawk] Southeast Asia manufacturing, Japan immigration costs, Vietnam GDP
 - 09/27 16:33 [FirstSquawk] Serbia's embattled president is expected to resign in a well-telegraphed move as he seeks to transition to the role of PM
 - 09/27 16:33 [FirstSquawk] Russia has targeted Ukraine's railway throughout the full-scale invasion, but the intensity of attacks has risen sharply over 2026. At the same time, Ukraine increasingly depends on the railway for passengers, trade, diplomacy, and wartime …
+- 09/27 17:03 [FirstSquawk] Police evacuated homes near RAF Fairford, a U.S. air base in England, and arrested several men over suspected explosive offenses. The base is used by the American forces during the war with Iran.
+- 09/27 17:03 [FirstSquawk] Iran said it’s awaiting a definitive US response to a seven-day proposal for reopening the Strait of Hormuz but won’t soften its conditions
+- 09/27 17:03 [FirstSquawk] Two giant pandas depart China for US after Xi-Trump summit Loan of the pair to Zoo Atlanta was one of the few concrete outcomes of their talks
