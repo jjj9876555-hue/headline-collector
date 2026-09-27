@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-27 18:58 JST／対象: 09/27 12:58 〜 09/27 18:58 JST（時刻はすべて日本時間）
+生成: 2026-09-27 19:17 JST／対象: 09/27 13:17 〜 09/27 19:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 48 | 09/27 13:00 | 09/27 18:39 | 37分（17:29→18:07） |
-| financialjuice | 6 | 09/27 16:30 | 09/27 18:47 | ⚠ 68分（16:31→17:39） |
+| FirstSquawk | 48 | 09/27 13:22 | 09/27 19:14 | 37分（17:29→18:07） |
+| financialjuice | 7 | 09/27 16:30 | 09/27 19:02 | ⚠ 68分（16:31→17:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 54 行（統合前 54 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 55 行（統合前 55 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 13:00 [FirstSquawk] Morgan Stanley’s Slimmon sees stronger opportunities outside U.S. as earnings outlook improves - CNBC
-- 09/27 13:08 [FirstSquawk] U.S. nonimmigrant visas for South Koreans decline nearly 8% in 2025 after Trump takes office: data - YONHAP
-- 09/27 13:15 [FirstSquawk] Bangkok sees floodwaters subside as officials step up canal drainage efforts
 - 09/27 13:22 [FirstSquawk] Indonesia’s coffee industry faces mounting heat from climate change - NA
 - 09/27 13:27 [FirstSquawk] Prices of older supertankers soar above new vessels as tanker market booms — FT
 - 09/27 13:35 [FirstSquawk] Investor withdrawals slow as turmoil in private credit market eases — FT
@@ -78,3 +75,7 @@
 - 09/27 18:39 [FirstSquawk] Sudanese Army: We shot down a long-range drone belonging to the Rapid Support Forces in North Kordofan State
 - 09/27 18:39 [FirstSquawk] Yemeni government forces: Houthi shelling has resumed on our positions in the Air Defense and Han areas of Taiz
 - 09/27 18:47 [financialjuice] UK government spokesperson: UK Prime Minister receiving updates on Gloucestershire incident
+- 09/27 19:02 [financialjuice] Swiss voters poised to dismiss neutrality initiative, according to SRF projections
+- 09/27 19:08 [FirstSquawk] Yemeni government forces: Our warplanes are bombing a camp and vehicles belonging to the Houthi militia at the Mawiyah intersection east of Taiz
+- 09/27 19:13 [FirstSquawk] Lebanese media: Israeli airstrike targets a building on the outskirts of the town of Mefdoun in southern Lebanon
+- 09/27 19:14 [FirstSquawk] Lebanese media: Israeli artillery shelling between the towns of Haddatha and Haris in southern Lebanon

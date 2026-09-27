@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-27 18:58 JST／対象: 09/27 06:58 〜 09/27 18:58 JST（時刻はすべて日本時間）
+生成: 2026-09-27 19:17 JST／対象: 09/27 07:17 〜 09/27 19:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 103 | 09/27 09:35 | 09/27 18:39 | 37分（17:29→18:07） |
-| financialjuice | 10 | 09/27 10:19 | 09/27 18:47 | ⚠ 261分（12:09→16:30） |
+| FirstSquawk | 106 | 09/27 09:35 | 09/27 19:14 | 37分（17:29→18:07） |
+| financialjuice | 11 | 09/27 10:19 | 09/27 19:02 | ⚠ 261分（12:09→16:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 113 行（統合前 113 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 117 行（統合前 117 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -137,3 +137,7 @@
 - 09/27 18:39 [FirstSquawk] Sudanese Army: We shot down a long-range drone belonging to the Rapid Support Forces in North Kordofan State
 - 09/27 18:39 [FirstSquawk] Yemeni government forces: Houthi shelling has resumed on our positions in the Air Defense and Han areas of Taiz
 - 09/27 18:47 [financialjuice] UK government spokesperson: UK Prime Minister receiving updates on Gloucestershire incident
+- 09/27 19:02 [financialjuice] Swiss voters poised to dismiss neutrality initiative, according to SRF projections
+- 09/27 19:08 [FirstSquawk] Yemeni government forces: Our warplanes are bombing a camp and vehicles belonging to the Houthi militia at the Mawiyah intersection east of Taiz
+- 09/27 19:13 [FirstSquawk] Lebanese media: Israeli airstrike targets a building on the outskirts of the town of Mefdoun in southern Lebanon
+- 09/27 19:14 [FirstSquawk] Lebanese media: Israeli artillery shelling between the towns of Haddatha and Haris in southern Lebanon

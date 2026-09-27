@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-27 18:58 JST／対象: 09/26 18:58 〜 09/27 18:58 JST（時刻はすべて日本時間）
+生成: 2026-09-27 19:17 JST／対象: 09/26 19:17 〜 09/27 19:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/26 21:58 | 09/27 00:39 | ⚠ 67分（22:54→00:01） |
-| FirstSquawk | 227 | 09/26 19:14 | 09/27 18:39 | ⚠ 371分（03:23→09:35） |
-| financialjuice | 45 | 09/26 19:00 | 09/27 18:47 | ⚠ 261分（12:09→16:30） |
+| FirstSquawk | 221 | 09/26 19:17 | 09/27 19:14 | ⚠ 371分（03:23→09:35） |
+| financialjuice | 41 | 09/26 19:57 | 09/27 19:02 | ⚠ 261分（12:09→16:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 273 行（統合前 279 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 263 行（統合前 269 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 19:00 [financialjuice] SNB chairman Schlegel: can maintain interest rates as inflation hits target
-- 09/26 19:00 [financialjuice] SNB Chairman Schlegel: current drop in Swiss franc a minor reversal to long-term currency appreciation
-- 09/26 19:00 [financialjuice] NB chairman: food prices have risen, but inflation jump is almost entirely due to petrol prices
-- 09/26 19:00 [financialjuice] Swiss National Bank chairman: closely examining summer heat’s effect on food prices
-- 09/26 19:07 [financialjuice] Kremlin: Putin talks Ukraine and energy collaboration in call with Serbia's Vucic
-- 09/26 19:14 [FirstSquawk] Iranian President Masoud Pezeshkian: We no longer trust talks with Washington because of its repeated attacks and sanctions after every negotiation.
-- 09/26 19:14 [FirstSquawk] Iranian President: Qatar and Pakistan are currently mediating between Iran and the United States and conveying our messages to Washington
-- 09/26 19:15 [FirstSquawk] Iranian President: Our negotiations with Washington are based on a previous memorandum of understanding, and the Americans must clarify their position on it.
-- 09/26 19:15 [FirstSquawk] Iranian President: Why and for what purpose would I meet with the American President? When we signed the agreement, they didn't implement it.
-- 09/26 19:15 [FirstSquawk] Iranian President to Al Jazeera: Closing the Strait of Hormuz is a natural step when Iran is cut off from other routes.
-- 09/26 19:15 [FirstSquawk] Iranian President: Closing the Strait of Hormuz is a natural step when Iran is cut off from other routes.
-- 09/26 19:16 [FirstSquawk] Iranian President: The Strait of Hormuz crisis can be resolved through negotiations, not by force.
-- 09/26 19:16 [FirstSquawk] Iranian President: Regional security can be achieved through cooperation among its countries, and we do not need a regional policeman.
-- 09/26 19:16 [FirstSquawk] Iranian President: The enemies' strategy is based on stirring up disputes among officials in Iran , but we are witnessing unprecedented internal cohesion.
 - 09/26 19:17 [FirstSquawk] Iranian President: I met with the Supreme Leader twice, the first time for about 3 hours and the second time for 7 and a half hours
 - 09/26 19:17 [FirstSquawk] Iranian President: The leadership structure is about setting policies, while implementation falls on us, and what we are implementing is within the framework of existing laws.
 - 09/26 19:17 [FirstSquawk] Iranian President: There is no problem on the executive side, but there are some delays in matters related to the negotiations and what America and other countries are waiting for.
@@ -297,3 +283,7 @@
 - 09/27 18:39 [FirstSquawk] Sudanese Army: We shot down a long-range drone belonging to the Rapid Support Forces in North Kordofan State
 - 09/27 18:39 [FirstSquawk] Yemeni government forces: Houthi shelling has resumed on our positions in the Air Defense and Han areas of Taiz
 - 09/27 18:47 [financialjuice] UK government spokesperson: UK Prime Minister receiving updates on Gloucestershire incident
+- 09/27 19:02 [financialjuice] Swiss voters poised to dismiss neutrality initiative, according to SRF projections
+- 09/27 19:08 [FirstSquawk] Yemeni government forces: Our warplanes are bombing a camp and vehicles belonging to the Houthi militia at the Mawiyah intersection east of Taiz
+- 09/27 19:13 [FirstSquawk] Lebanese media: Israeli airstrike targets a building on the outskirts of the town of Mefdoun in southern Lebanon
+- 09/27 19:14 [FirstSquawk] Lebanese media: Israeli artillery shelling between the towns of Haddatha and Haris in southern Lebanon
