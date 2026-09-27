@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-27 10:32 JST／対象: 09/27 04:32 〜 09/27 10:32 JST（時刻はすべて日本時間）
+生成: 2026-09-27 10:46 JST／対象: 09/27 04:46 〜 09/27 10:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 20 | 09/27 09:35 | 09/27 10:32 | 28分（09:36→10:04） |
+| FirstSquawk | 25 | 09/27 09:35 | 09/27 10:44 | 28分（09:36→10:04） |
 | financialjuice | 7 | 09/27 05:16 | 09/27 10:19 | ⚠ 242分（06:17→10:19） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 26 行（統合前 27 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 31 行（統合前 32 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -50,3 +50,8 @@
 - 09/27 10:30 [FirstSquawk] Tesla increases Texas Cybercab fleet to 127 vehicles - kalshi says
 - 09/27 10:31 [FirstSquawk] Visa study: Safeguards may encourage more Americans to use stablecoins
 - 09/27 10:32 [FirstSquawk] Visa study: 56% of Americans have never heard of stablecoins, misconceptions remain widespread
+- 09/27 10:33 [FirstSquawk] AI deepfakes and payment scams raise concerns among Americans sending money abroad, Visa study says
+- 09/27 10:36 [FirstSquawk] Trump to launch ‘AI Force’ and appoint AI czar amid calls for greater AI oversight — WaPo
+- 09/27 10:37 [FirstSquawk] New York Mayor Mamdani and Netanyahu continue public dispute that began during mayoral campaign - CBS
+- 09/27 10:42 [FirstSquawk] Trump predicts U.S.-Cuba agreement, says military action likely unnecessary - RTRS
+- 09/27 10:44 [FirstSquawk] Israel’s October 27 vote may bring a major political shift as Middle East seeks to move beyond war - AJ MAJALLA
