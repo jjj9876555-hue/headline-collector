@@ -7,41 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-27 11:34 JST／対象: 09/26 11:34 〜 09/27 11:34 JST（時刻はすべて日本時間）
+生成: 2026-09-27 11:52 JST／対象: 09/26 11:52 〜 09/27 11:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/26 17:07 | 09/27 00:39 | ⚠ 291分（17:07→21:58） |
-| FirstSquawk | 299 | 09/26 11:34 | 09/27 11:33 | ⚠ 371分（03:23→09:35） |
+| FirstSquawk | 285 | 09/26 11:55 | 09/27 11:47 | ⚠ 371分（03:23→09:35） |
 | financialjuice | 43 | 09/26 13:00 | 09/27 10:19 | ⚠ 242分（06:17→10:19） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 344 行（統合前 350 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 330 行（統合前 336 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 11:34 [FirstSquawk] CNN blocked from Air Force One trip by White House, Washington Post reports
-- 09/26 11:35 [FirstSquawk] ShinyHunters expands global targeting and deploys web shells on dozens of systems, Google says
-- 09/26 11:36 [FirstSquawk] Google report: ShinyHunters resumes mass exploitation campaign against Oracle PeopleSoft
-- 09/26 11:38 [FirstSquawk] Fal seeks new funding at valuation above $15 billion as revenue reaches $800 million pace, The Information reports
-- 09/26 11:38 [FirstSquawk] Fireworks AI explores $30 billion valuation target, The Information says
-- 09/26 11:39 [FirstSquawk] TikTok reaches multimillion-dollar settlement with Alabama, Attorney General says
-- 09/26 11:39 [FirstSquawk] TikTok settlement to provide Alabama with at least $100 million, AG says
-- 09/26 11:40 [FirstSquawk] Alabama AG: TikTok settlement requires new safety measures for children on platform
-- 09/26 11:40 [FirstSquawk] TikTok settlement could provide Alabama up to $300 million if conditions are met
-- 09/26 11:40 [FirstSquawk] TikTok settlement addresses Alabama claims over addictive design, youth mental harms and safety disclosures
-- 09/26 11:41 [FirstSquawk] Ansell refocuses under new CEO, plans expansion into high-tech markets - FT
-- 09/26 11:41 [FirstSquawk] Brazilian President Lula seeks online gambling ban ahead of election, FT says
-- 09/26 11:44 [FirstSquawk] Warner Bros. Discovery says it intends to remove euro notes from Nasdaq Global
-- 09/26 11:44 [FirstSquawk] US Supreme Court blocks Missouri’s Republican-drawn congressional map for November midterms
-- 09/26 11:47 [FirstSquawk] US FDA grants approval to Juvmo (tavapadon) for adults with Parkinson’s disease
-- 09/26 11:51 [FirstSquawk] Brazil government orders ban on online betting operations nationwide
-- 09/26 11:51 [FirstSquawk] Brazil’s Durigan: Bettors can claim remaining funds from online betting websites until Oct. 5
-- 09/26 11:51 [FirstSquawk] Brazil’s Durigan says app stores and network providers must block these sites starting Oct. 6
 - 09/26 11:55 [FirstSquawk] Online betting firms allowed to continue advertising until Oct. 5, Brazil’s Durigan says
 - 09/26 11:56 [FirstSquawk] Hurricane Polo remains a powerful Category 5 hurricane, NHC says
 - 09/26 11:59 [FirstSquawk] Brazil government sets November auction for purchasing credit portfolios from financial institutions
@@ -368,3 +350,7 @@
 - 09/27 11:22 [FirstSquawk] AI power demand and higher energy costs take center stage in New York climate talks — FT
 - 09/27 11:26 [FirstSquawk] Germany, Russia hold first foreign ministers’ meeting in over four years – FT
 - 09/27 11:33 [FirstSquawk] Aramco explores additional crude export routes beyond three main routes
+- 09/27 11:37 [FirstSquawk] Hackers target AI accounts and servers as cybercrime activity surges — FT
+- 09/27 11:41 [FirstSquawk] Indonesia considers Chinese involvement in planned 2,772km railway project — SCMP
+- 09/27 11:47 [FirstSquawk] Hamas leader accuses Israel of leveraging Palestinian casualties for election purposes — SCMP
+- 09/27 11:47 [FirstSquawk] 6.5 tons of cannabis flown from Thailand to UK in two months, government says

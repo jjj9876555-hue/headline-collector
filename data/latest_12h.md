@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-27 11:34 JST／対象: 09/26 23:34 〜 09/27 11:34 JST（時刻はすべて日本時間）
+生成: 2026-09-27 11:52 JST／対象: 09/26 23:52 〜 09/27 11:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/27 00:01 | 09/27 00:39 | 19分（00:19→00:39） |
-| FirstSquawk | 95 | 09/26 23:37 | 09/27 11:33 | ⚠ 371分（03:23→09:35） |
-| financialjuice | 19 | 09/26 23:43 | 09/27 10:19 | ⚠ 242分（06:17→10:19） |
+| FirstSquawk | 94 | 09/26 23:52 | 09/27 11:47 | ⚠ 371分（03:23→09:35） |
+| financialjuice | 18 | 09/27 00:28 | 09/27 10:19 | ⚠ 242分（06:17→10:19） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 113 行（統合前 117 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 111 行（統合前 115 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 23:37 [FirstSquawk] Pakistan PM Sharif on Houthis attacks on Saudi Arabia: Any threat to security, sanctity of Two Holy Mosques is a red line that can't be crossed under any circumstances
-- 09/26 23:37 [FirstSquawk] Russia's Lavrov meets German counterpart on sidelines of UN General Assembly
-- 09/26 23:43 [FirstSquawk] Russia says its forces struck a cargo vessel in the Black Sea
-- 09/26 23:43 [financialjuice] Russian defence ministry: Russian forces strike cargo ship in Black Sea
-- 09/26 23:51 [FirstSquawk] Axios, citing US officials: Approximately 60 million barrels of oil have passed through the Strait of Hormuz in the past 72 hours
-- 09/26 23:51 [FirstSquawk] Axios, citing sources: US negotiators have told Iran that it does not control the Strait of Hormuz and has no right to set conditions regarding it.
 - 09/26 23:52 [FirstSquawk] Axios, citing a US official: Positive and constructive talks are ongoing between Washington and Tehran through intermediaries.
 - 09/27 00:01 [DeItaone] TRUMP REJECTS AI INTEGRATION WITH CHINA President Trump said the U.S. should not integrate its AI efforts with China, despite discussing the technology with President Xi Jinping this week. Trump argued the U.S. is leading China significantl…
 - 09/27 00:19 [DeItaone] TRUMP REJECTS IRAN’S HORMUZ DEAL President Trump said he rejected Iran’s proposal to reopen the Strait of Hormuz and halt regional fighting within seven days. Iran had presented the plan through Qatari mediators, offering to reopen the crit…
@@ -137,3 +131,7 @@
 - 09/27 11:22 [FirstSquawk] AI power demand and higher energy costs take center stage in New York climate talks — FT
 - 09/27 11:26 [FirstSquawk] Germany, Russia hold first foreign ministers’ meeting in over four years – FT
 - 09/27 11:33 [FirstSquawk] Aramco explores additional crude export routes beyond three main routes
+- 09/27 11:37 [FirstSquawk] Hackers target AI accounts and servers as cybercrime activity surges — FT
+- 09/27 11:41 [FirstSquawk] Indonesia considers Chinese involvement in planned 2,772km railway project — SCMP
+- 09/27 11:47 [FirstSquawk] Hamas leader accuses Israel of leveraging Palestinian casualties for election purposes — SCMP
+- 09/27 11:47 [FirstSquawk] 6.5 tons of cannabis flown from Thailand to UK in two months, government says
