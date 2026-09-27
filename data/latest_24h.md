@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-28 02:37 JST／対象: 09/27 02:37 〜 09/28 02:37 JST（時刻はすべて日本時間）
+生成: 2026-09-28 02:50 JST／対象: 09/27 02:50 〜 09/28 02:50 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/28 00:04 | 09/28 00:04 | - |
-| FirstSquawk | 168 | 09/27 02:46 | 09/28 01:39 | ⚠ 371分（03:23→09:35） |
-| financialjuice | 41 | 09/27 02:46 | 09/28 00:29 | ⚠ 261分（12:09→16:30） |
+| FirstSquawk | 171 | 09/27 03:03 | 09/28 02:43 | ⚠ 371分（03:23→09:35） |
+| financialjuice | 39 | 09/27 03:36 | 09/28 00:29 | ⚠ 261分（12:09→16:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 198 行（統合前 211 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 199 行（統合前 212 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 02:46 [financialjuice] Ukraine intercepting 55% of Russian jet-powered drones: Zelenskiy
-- 09/27 02:46 [FirstSquawk] Iraqi government spokesperson: The Prime Minister has reached understandings with Washington to continue sending shipments of cash dollars.
-- 09/27 02:46 [FirstSquawk] Iraqi government spokesperson: A new shipment of US dollars in cash will arrive in Iraq in the coming days.
-- 09/27 02:47 [FirstSquawk] Russian Ministry of Defense: Today we intercepted and destroyed 105 drones over our territory and the Black Sea
-- 09/27 02:48 [financialjuice] IMF: staff wraps up visit to Gabon
 - 09/27 03:03 [FirstSquawk] Trump rejects Iran’s ceasefire proposal to reopen Strait of Hormuz - FT
 - 09/27 03:04 [FirstSquawk] Japan's Sumitomo Life to deploy AI for tailor-made contracts -Nikkei
 - 09/27 03:04 [FirstSquawk] Chinese EVs will come to US despite no summit deal, analysts say - Nikkei
@@ -222,3 +217,9 @@
 - 09/28 01:38 [FirstSquawk] Iranian President: If America accepts the legal frameworks and our rights, we have no dispute with them; otherwise, we will never back down.
 - 09/28 01:38 [FirstSquawk] WSJ, citing a US official: Threat level raised at British base Fairford Saturday evening
 - 09/28 01:39 [FirstSquawk] WSJ, citing a US official: Fairford base is a key launchpad for military operations targeting Iran
+- 09/28 02:37 [FirstSquawk] SOUTH KOREA HAS EXPRESSED STRONG REGRET OVER UKRAINE'S REFUSAL OF A NONDISCLOSURE AGREEMENT ON NORTH KOREAN POWS, WITH THE SOUTH KOREAN PRESIDENCY SAYING THE COUNTRY IS CONTEMPLATING EXTRA ACTIONS ON THE ISSUE - YONHAP
+- 09/28 02:39 [FirstSquawk] ANTHROPIC CEO DARIO AMODEI SET TO JOIN TRUMP AT WHITE HOUSE DINNER — AXIOS
+- 09/28 02:43 [FirstSquawk] U.S. AMBASSADOR DAVID PERDUE SAYS U.S. POLICY ON TAIWAN REMAINS UNCHANGED AFTER XI JINPING’S STATE VISIT, SAYING WASHINGTON DOES NOT SUPPORT TAIWAN INDEPENDENCE OR COERCION, WHILE CONFIRMING THE TRUMP ADMINISTRATION HAS APPROVED $11 BILLION…
+- 09/28 02:43 [FirstSquawk] U.S. AMBASSADOR DAVID PERDUE SAYS TRUMP AND XI DISCUSS TAIWAN ARMS SALES AT EVERY MEETING, WHILE TAIWAN’S REPRESENTATIVE TO THE U.S. URGED FASTER WEAPONS DELIVERIES, CALLING THE ISLAND’S CHIP INDUSTRY AN IMPORTANT PART OF ITS SECURITY TIES …
+- 09/28 02:43 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT URGED THE FED TO KEEP AN “OPEN MIND” ON INTEREST RATES, ARGUING THAT AI-DRIVEN PRODUCTIVITY GAINS AND DEREGULATION COULD HELP KEEP U.S. INFLATION UNDER CONTROL, WHILE SAYING CORE INFLATION HAS REMAINED RELATI…
+- 09/28 02:43 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT ALSO SAID HE EXPECTS IRANIAN OIL DELIVERIES TO CHINA TO END SOON, CITING REDUCED CHINESE SUPPORT FOR IRAN AND SAYING ONLY ABOUT 15 MILLION BARRELS OF IRANIAN OIL REMAIN ON THE WATER.
