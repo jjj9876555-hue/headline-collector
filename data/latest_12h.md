@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-28 03:21 JST／対象: 09/27 15:21 〜 09/28 03:21 JST（時刻はすべて日本時間）
+生成: 2026-09-28 03:38 JST／対象: 09/27 15:38 〜 09/28 03:38 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/28 00:04 | 09/28 00:04 | - |
-| FirstSquawk | 100 | 09/27 15:25 | 09/28 03:20 | ⚠ 58分（01:39→02:37） |
+| FirstSquawk | 96 | 09/27 15:57 | 09/28 03:20 | ⚠ 58分（01:39→02:37） |
 | financialjuice | 33 | 09/27 16:30 | 09/28 03:05 | ⚠ 145分（00:29→02:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 123 行（統合前 135 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 119 行（統合前 131 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 15:25 [FirstSquawk] 17 killed, at tavern in Carletonville, South Africa.
-- 09/27 15:26 [FirstSquawk] US Energy Secretary Chris Wright told Fox News that oil flows through the Strait of Hormuz were averaging almost 13 million barrels a day.
-- 09/27 15:26 [FirstSquawk] Bangkok floodwaters recede as officials race to drain canals
-- 09/27 15:28 [FirstSquawk] Trump rejects Iranian proposal to open Hormuz and end fighting US president says Tehran wants a deal 'because they have no money coming in'
 - 09/27 15:57 [FirstSquawk] Russian Foreign Minister Sergey Lavrov criticised the use of force that killed Iran’s Supreme Leader Ayatollah Ali Khamenei and members of his family, calling the action unacceptable.
 - 09/27 15:58 [FirstSquawk] Iran’s parliament began a virtual plenary session on Sunday to continue reviewing a bill on countering foreign infiltration. Deputy Speaker Hamidreza Hajibabaei chaired the session.
 - 09/27 15:58 [FirstSquawk] China has stepped up criticism of US policy toward Cuba, urging Washington to end what Beijing describes as a “blockade” and coercive measures against Havana

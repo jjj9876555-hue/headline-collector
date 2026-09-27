@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-28 03:21 JST／対象: 09/27 03:21 〜 09/28 03:21 JST（時刻はすべて日本時間）
+生成: 2026-09-28 03:38 JST／対象: 09/27 03:38 〜 09/28 03:38 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/28 00:04 | 09/28 00:04 | - |
-| FirstSquawk | 173 | 09/27 03:23 | 09/28 03:20 | ⚠ 371分（03:23→09:35） |
-| financialjuice | 45 | 09/27 03:36 | 09/28 03:05 | ⚠ 261分（12:09→16:30） |
+| FirstSquawk | 172 | 09/27 09:35 | 09/28 03:20 | ⚠ 58分（01:39→02:37） |
+| financialjuice | 43 | 09/27 04:16 | 09/28 03:05 | ⚠ 261分（12:09→16:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 207 行（統合前 220 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 204 行（統合前 217 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 03:23 [FirstSquawk] Iraq reaches agreement with US to continue cash dollar shipments: Iraqi government
-- 09/27 03:36 [financialjuice] Libya reopens Sharara-Zawiya pipeline valve: resumes crude flow, says Libya's NOC
-- 09/27 03:38 [financialjuice] Libya's National Oil Corporation: crude output to gradually return to normal levels
 - 09/27 04:16 [financialjuice] Trump: approved new fuel economy standards ending Biden's EV mandate
 - 09/27 05:16 [financialjuice] European Commission: President von der Leyen unveils €710 million for aid to displaced persons in Africa and worldwide crisis relief
 - 09/27 06:13 [financialjuice] Iran's foreign minister Araqchi: First reaction from U.S. president seen, but mediators have not yet communicated anything to us

@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-28 03:21 JST／対象: 09/27 21:21 〜 09/28 03:21 JST（時刻はすべて日本時間）
+生成: 2026-09-28 03:38 JST／対象: 09/27 21:38 〜 09/28 03:38 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/28 00:04 | 09/28 00:04 | - |
-| FirstSquawk | 55 | 09/27 21:37 | 09/28 03:20 | ⚠ 58分（01:39→02:37） |
+| FirstSquawk | 54 | 09/27 21:40 | 09/28 03:20 | ⚠ 58分（01:39→02:37） |
 | financialjuice | 22 | 09/27 21:54 | 09/28 03:05 | ⚠ 145分（00:29→02:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 68 行（統合前 79 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 67 行（統合前 78 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 21:37 [FirstSquawk] Japanese trade promotion group led by ex-foreign minister visits China -Nikkei
 - 09/27 21:40 [FirstSquawk] Pakistan information ministry rejects Afghan allegations of backing fighters in Nuristan, denies training ex-Afghan security personnel
 - 09/27 21:54 [financialjuice/FirstSquawk] UK police on Fairford air base incident: 5 men arrested near RAF Fairford
 - 09/27 21:54 [financialjuice/FirstSquawk] UK police on Fairford air base incident: men held in custody
