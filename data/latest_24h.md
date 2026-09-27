@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-27 10:01 JST／対象: 09/26 10:01 〜 09/27 10:01 JST（時刻はすべて日本時間）
+生成: 2026-09-27 10:18 JST／対象: 09/26 10:18 〜 09/27 10:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/26 17:07 | 09/27 00:39 | ⚠ 291分（17:07→21:58） |
-| FirstSquawk | 283 | 09/26 11:20 | 09/27 09:36 | ⚠ 371分（03:23→09:35） |
-| financialjuice | 44 | 09/26 10:15 | 09/27 06:17 | ⚠ 215分（13:00→16:36） |
+| FirstSquawk | 289 | 09/26 11:20 | 09/27 10:15 | ⚠ 371分（03:23→09:35） |
+| financialjuice | 42 | 09/26 10:27 | 09/27 06:17 | ⚠ 215分（13:00→16:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 330 行（統合前 335 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 334 行（統合前 339 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 10:15 [financialjuice] Ecuador’s economy rises 2.1% in Q2 2026: central bank
-- 09/26 10:16 [financialjuice] South Korea president Lee calls for comprehensive trade deal between South Korea and Mexico: Blue House
 - 09/26 10:27 [financialjuice] Saudi-led coalition: intercepted ballistic missile launched by Yemen's Houthis towards Khamis Mushait
 - 09/26 11:20 [FirstSquawk] Iran offers US a seven-day plan to restore normal passage through Strait of Hormuz
 - 09/26 11:21 [FirstSquawk] US State Department spokesman tells Al Jazeera: ‘Door to diplomacy has been open’
@@ -354,3 +352,9 @@
 - 09/27 06:17 [financialjuice] Iran's Aragchi: negotiated solution is the only way to end deadlock, that is our stance
 - 09/27 09:35 [FirstSquawk] Experts warn Yemen intervention could cost Pakistan diplomatic capital - NA
 - 09/27 09:36 [FirstSquawk] Vingroup, Siemens seal up to €1 billion train deal for Hanoi, Ho Chi Minh City lines - NA
+- 09/27 10:04 [FirstSquawk] Investors debate how to respond as bond yields surge in 2026
+- 09/27 10:05 [FirstSquawk] Bond market “freaking out” amid rising yields, CBS says
+- 09/27 10:06 [FirstSquawk] Trump claims US financial figures are the “best ever,” criticizes news media
+- 09/27 10:06 [FirstSquawk] Court clears Protestant march in Catholic area of Northern Ireland, Sky News says
+- 09/27 10:14 [FirstSquawk] Wedding guests become a source of down-payment funds for aspiring buyers - WSJ
+- 09/27 10:15 [FirstSquawk] Appeals court clears way for contentious Northern Ireland parade - FT

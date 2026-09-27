@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-27 10:01 JST／対象: 09/26 22:01 〜 09/27 10:01 JST（時刻はすべて日本時間）
+生成: 2026-09-27 10:18 JST／対象: 09/26 22:18 〜 09/27 10:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 6 | 09/26 22:53 | 09/27 00:39 | ⚠ 67分（22:54→00:01） |
-| FirstSquawk | 78 | 09/26 22:41 | 09/27 09:36 | ⚠ 371分（03:23→09:35） |
+| FirstSquawk | 84 | 09/26 22:41 | 09/27 10:15 | ⚠ 371分（03:23→09:35） |
 | financialjuice | 28 | 09/26 22:47 | 09/27 06:17 | ⚠ 60分（04:16→05:16） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 107 行（統合前 112 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 113 行（統合前 118 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -131,3 +131,9 @@
 - 09/27 06:17 [financialjuice] Iran's Aragchi: negotiated solution is the only way to end deadlock, that is our stance
 - 09/27 09:35 [FirstSquawk] Experts warn Yemen intervention could cost Pakistan diplomatic capital - NA
 - 09/27 09:36 [FirstSquawk] Vingroup, Siemens seal up to €1 billion train deal for Hanoi, Ho Chi Minh City lines - NA
+- 09/27 10:04 [FirstSquawk] Investors debate how to respond as bond yields surge in 2026
+- 09/27 10:05 [FirstSquawk] Bond market “freaking out” amid rising yields, CBS says
+- 09/27 10:06 [FirstSquawk] Trump claims US financial figures are the “best ever,” criticizes news media
+- 09/27 10:06 [FirstSquawk] Court clears Protestant march in Catholic area of Northern Ireland, Sky News says
+- 09/27 10:14 [FirstSquawk] Wedding guests become a source of down-payment funds for aspiring buyers - WSJ
+- 09/27 10:15 [FirstSquawk] Appeals court clears way for contentious Northern Ireland parade - FT
