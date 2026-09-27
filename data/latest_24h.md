@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-27 18:43 JST／対象: 09/26 18:43 〜 09/27 18:43 JST（時刻はすべて日本時間）
+生成: 2026-09-27 18:58 JST／対象: 09/26 18:58 〜 09/27 18:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/26 21:58 | 09/27 00:39 | ⚠ 67分（22:54→00:01） |
-| FirstSquawk | 229 | 09/26 18:43 | 09/27 18:39 | ⚠ 371分（03:23→09:35） |
-| financialjuice | 44 | 09/26 19:00 | 09/27 18:08 | ⚠ 261分（12:09→16:30） |
+| FirstSquawk | 227 | 09/26 19:14 | 09/27 18:39 | ⚠ 371分（03:23→09:35） |
+| financialjuice | 45 | 09/26 19:00 | 09/27 18:47 | ⚠ 261分（12:09→16:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 274 行（統合前 280 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 273 行（統合前 279 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 18:43 [FirstSquawk] Russian authorities in Luhansk: 4 killed and 5 injured in Ukrainian attacks
-- 09/26 18:53 [FirstSquawk] Yemeni sources: Airstrikes targeted Houthi military sites and vehicles in Taiz.
 - 09/26 19:00 [financialjuice] SNB chairman Schlegel: can maintain interest rates as inflation hits target
 - 09/26 19:00 [financialjuice] SNB Chairman Schlegel: current drop in Swiss franc a minor reversal to long-term currency appreciation
 - 09/26 19:00 [financialjuice] NB chairman: food prices have risen, but inflation jump is almost entirely due to petrol prices
@@ -298,3 +296,4 @@
 - 09/27 18:39 [FirstSquawk] Iranian Army Spokesperson: The United States may launch a military attack because its situation in the region is dire.
 - 09/27 18:39 [FirstSquawk] Sudanese Army: We shot down a long-range drone belonging to the Rapid Support Forces in North Kordofan State
 - 09/27 18:39 [FirstSquawk] Yemeni government forces: Houthi shelling has resumed on our positions in the Air Defense and Han areas of Taiz
+- 09/27 18:47 [financialjuice] UK government spokesperson: UK Prime Minister receiving updates on Gloucestershire incident
