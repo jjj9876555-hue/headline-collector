@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-27 16:32 JST／対象: 09/26 16:32 〜 09/27 16:32 JST（時刻はすべて日本時間）
+生成: 2026-09-27 16:46 JST／対象: 09/26 16:46 〜 09/27 16:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/26 17:07 | 09/27 00:39 | ⚠ 291分（17:07→21:58） |
-| FirstSquawk | 244 | 09/26 16:34 | 09/27 16:32 | ⚠ 371分（03:23→09:35） |
-| financialjuice | 46 | 09/26 16:36 | 09/27 16:31 | ⚠ 261分（12:09→16:30） |
+| FirstSquawk | 241 | 09/26 16:59 | 09/27 16:33 | ⚠ 371分（03:23→09:35） |
+| financialjuice | 45 | 09/26 16:56 | 09/27 16:31 | ⚠ 261分（12:09→16:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 292 行（統合前 298 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 288 行（統合前 294 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 16:34 [FirstSquawk] Russia stays in the top position among arms exporters Russia ranked second globally in arms exports, with $15 billion in deliveries, representing 12.5% of the global market.
-- 09/26 16:34 [FirstSquawk] Powerful storm surge hits Surf City, New Jersey, as a nor’easter pounds the coast.
-- 09/26 16:35 [FirstSquawk] Israeli airstrikes on Sajad Heights and the Thin Mountain in the Apple Region, southern Lebanon
-- 09/26 16:35 [FirstSquawk] Saudi coalition says it intercepts Houthi missiles, drones
-- 09/26 16:36 [FirstSquawk] Low Rhine levels are making companies confront the possibility that reliable access to the river can no longer be taken for granted
-- 09/26 16:36 [financialjuice] Ukrainian military: It hit Ilsky oil refinery in southern Russia
-- 09/26 16:36 [FirstSquawk] Iran is facing what the commander of the Revolutionary Guards Ground Forces described as a “full-scale hybrid war” spanning economic, social, cultural, political, security and military fronts, Tasnim reported.
 - 09/26 16:56 [financialjuice] Three killed in Ukraine strike on Russia's Krasnodar region: authorities
 - 09/26 16:56 [financialjuice] China's Xi arrives in Beijing after U.S. state visit: Xinhua
 - 09/26 16:59 [FirstSquawk] More than 45,000 students across Germany joined protests against plans for compulsory military service, with demonstrations held in over 100 cities.
@@ -316,3 +309,6 @@
 - 09/27 16:30 [financialjuice] Britain's Gloucestershire police: several men detained over explosives act violations after increased security at Fairford air base - Sky News
 - 09/27 16:31 [financialjuice] Britain's Gloucestershire police: army's specialist bomb disposal unit is currently inspecting several vehicles - Sky News
 - 09/27 16:32 [FirstSquawk] Andy Burnham will launch a new version of the controversial Help to Buy scheme through which hundreds of thousands of first-time buyers got on to the housing ladder under the previous Conservative government
+- 09/27 16:33 [FirstSquawk] Southeast Asia manufacturing, Japan immigration costs, Vietnam GDP
+- 09/27 16:33 [FirstSquawk] Serbia's embattled president is expected to resign in a well-telegraphed move as he seeks to transition to the role of PM
+- 09/27 16:33 [FirstSquawk] Russia has targeted Ukraine's railway throughout the full-scale invasion, but the intensity of attacks has risen sharply over 2026. At the same time, Ukraine increasingly depends on the railway for passengers, trade, diplomacy, and wartime …
