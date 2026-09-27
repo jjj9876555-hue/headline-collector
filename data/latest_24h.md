@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-28 05:58 JST／対象: 09/27 05:58 〜 09/28 05:58 JST（時刻はすべて日本時間）
+生成: 2026-09-28 06:16 JST／対象: 09/27 06:16 〜 09/28 06:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 1 | 09/28 00:04 | 09/28 00:04 | - |
-| FirstSquawk | 180 | 09/27 09:35 | 09/28 05:57 | ⚠ 58分（01:39→02:37） |
-| financialjuice | 47 | 09/27 06:13 | 09/28 05:07 | ⚠ 261分（12:09→16:30） |
+| DeItaone | 2 | 09/28 00:04 | 09/28 06:12 | ⚠ 368分（00:04→06:12） |
+| FirstSquawk | 183 | 09/27 09:35 | 09/28 05:59 | ⚠ 58分（01:39→02:37） |
+| financialjuice | 44 | 09/27 06:17 | 09/28 05:07 | ⚠ 261分（12:09→16:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 216 行（統合前 229 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 217 行（統合前 230 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 06:13 [financialjuice] Iran's foreign minister Araqchi: First reaction from U.S. president seen, but mediators have not yet communicated anything to us
-- 09/27 06:14 [financialjuice] Iran's Araqchi: awaiting mediators to relay final views for decision-making
-- 09/27 06:14 [financialjuice] Iran's Araqchi: conditions clear, any opening of Strait of Hormuz depends on them
 - 09/27 06:17 [financialjuice/FirstSquawk] Iran's Aragchi: negotiated solution is the only way to end deadlock, that is our stance
 - 09/27 09:35 [FirstSquawk] Experts warn Yemen intervention could cost Pakistan diplomatic capital - NA
 - 09/27 09:36 [FirstSquawk] Vingroup, Siemens seal up to €1 billion train deal for Hanoi, Ho Chi Minh City lines - NA
@@ -240,3 +237,7 @@
 - 09/28 05:07 [financialjuice] South Korea presidential office demands official explanation and apology from Ukraine over revealing North Korean POW transfer
 - 09/28 05:57 [FirstSquawk] TRUMP IS SET TO HOST ANTHROPIC CEO DARIO AMODEI FOR A PRIVATE DINNER AT THE WHITE HOUSE ON SUNDAY, AMID AN ONGOING LEGAL DISPUTE BETWEEN THE AI COMPANY AND THE ADMINISTRATION AND GROWING DEBATE OVER AI SAFETY AND REGULATION.
 - 09/28 05:57 [FirstSquawk] THE MEETING COMES DAYS AFTER A FEDERAL APPEALS COURT UPHELD THE PENTAGON’S DECISION TO BLACKLIST ANTHROPIC’S CLAUDE MODELS, WHILE TRUMP AND HOUSE SPEAKER MIKE JOHNSON ARE ALSO EXPECTED TO MEET WITH MAJOR AI CEOS AS CALLS FOR STRONGER AI SAF…
+- 09/28 05:58 [FirstSquawk] TRUMP SAYS HE WILL DISCUSS AI WITH ANTHROPIC CEO AMODEI, SAYING ON THE MEETING 'LET'S GO, LET'S WIN', AND SAYS HE SPOKE WITH ZELENSKY AND TOLD HIM TO 'TAKE IT EASY' ON REFINERY STRIKES, BLAMING A DIESEL SHORTAGE ON UKRAINE STRIKING RUSSIAN …
+- 09/28 05:59 [FirstSquawk] TRUMP SAYS HE IS CONSIDERING A DIESEL EXPORT BAN 'VERY SERIOUSLY' AND THAT THE U.S. MAY IMPLEMENT IT, THOUGH IT COULD CAUSE A SMALL RISE IN GASOLINE PRICES.
+- 09/28 05:59 [FirstSquawk] TRUMP SAYS THE U.S. WILL WIN AGAINST IRAN IN MILITARY AND ECONOMIC WARFARE, CLAIMING IRAN INFLATION WAS AT 318% AS OF THIS MORNING AND EXPECTING THE WAR TO END 'VERY SOON' AND OIL PRICES TO FALL, WHILE DECLINING TO SAY WHETHER IRAN STRIKES …
+- 09/28 06:12 [DeItaone] *TRUMP ON IRAN STRIKES BEFORE MIDTERMS: DON’T WANT TO SAY

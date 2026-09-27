@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-28 05:58 JST／対象: 09/27 23:58 〜 09/28 05:58 JST（時刻はすべて日本時間）
+生成: 2026-09-28 06:16 JST／対象: 09/28 00:16 〜 09/28 06:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 1 | 09/28 00:04 | 09/28 00:04 | - |
-| FirstSquawk | 35 | 09/28 00:24 | 09/28 05:57 | ⚠ 58分（01:39→02:37） |
-| financialjuice | 17 | 09/27 23:58 | 09/28 05:07 | ⚠ 145分（00:29→02:54） |
+| DeItaone | 1 | 09/28 06:12 | 09/28 06:12 | - |
+| FirstSquawk | 38 | 09/28 00:24 | 09/28 05:59 | ⚠ 58分（01:39→02:37） |
+| financialjuice | 13 | 09/28 00:29 | 09/28 05:07 | ⚠ 145分（00:29→02:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 49 行（統合前 54 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 51 行（統合前 53 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 23:58 [financialjuice] Trump tells Axios: expects US negotiators to hold more talks with Iran this week
-- 09/28 00:00 [financialjuice/FirstSquawk] South Korea expresses strong regret over Ukraine's refusal of nondisclosure agreement on North Korean POWs - Yonhap
-- 09/28 00:02 [financialjuice/FirstSquawk] South Korean presidency: country contemplating extra actions on issue - Yonhap
-- 09/28 00:04 [DeItaone] TRUMP TELLS AXIOS THAT HE EXPECTS US NEGOTIATORS TO ENGAGE IN MORE TALKS WITH IRAN THIS WEEK
-- 09/28 00:07 [financialjuice/FirstSquawk] China considers permitting ByteDance, Alibaba to buy new Nvidia chips - The Information
 - 09/28 00:24 [FirstSquawk] Trump to Axios: I expect US negotiators to hold more talks with Iran this week
 - 09/28 00:24 [FirstSquawk] Trump to Axios: I'm considering resuming strikes on Iran on an ongoing basis
 - 09/28 00:24 [FirstSquawk] Trump to Axios: US military is facilitating the passage of large quantities of oil through the Strait of Hormuz
@@ -39,6 +34,9 @@
 - 09/28 00:25 [FirstSquawk] Trump to Axios: The Iranians want to make a deal, but it's not the one I want, and we probably would have agreed to it a year ago.
 - 09/28 00:29 [financialjuice/FirstSquawk] Anthropic's Dario Amodei to attend White House dinner with Trump: Axios
 - 09/28 00:30 [FirstSquawk] TRUMP ON TRUTH SOCIAL: The Supreme Court of the United States will just not let Missouri have an Election Victory. They continuously, three times now, overrule Judges who came to the correct decisions. Thank you to the Governor, and all of …
+- 09/28 01:15 [FirstSquawk] South Korea expresses strong regret over Ukraine's refusal of nondisclosure agreement on North Korean POWs - Yonhap
+- 09/28 01:15 [FirstSquawk] South Korean presidency: country contemplating extra actions on issue - Yonhap
+- 09/28 01:16 [FirstSquawk] China considers permitting ByteDance, Alibaba to buy new Nvidia chips - The Information
 - 09/28 01:38 [FirstSquawk] Iranian President: If America accepts the legal frameworks and our rights, we have no dispute with them; otherwise, we will never back down.
 - 09/28 01:38 [FirstSquawk] WSJ, citing a US official: Threat level raised at British base Fairford Saturday evening
 - 09/28 01:39 [FirstSquawk] WSJ, citing a US official: Fairford base is a key launchpad for military operations targeting Iran
@@ -73,3 +71,7 @@
 - 09/28 05:07 [financialjuice] South Korea presidential office demands official explanation and apology from Ukraine over revealing North Korean POW transfer
 - 09/28 05:57 [FirstSquawk] TRUMP IS SET TO HOST ANTHROPIC CEO DARIO AMODEI FOR A PRIVATE DINNER AT THE WHITE HOUSE ON SUNDAY, AMID AN ONGOING LEGAL DISPUTE BETWEEN THE AI COMPANY AND THE ADMINISTRATION AND GROWING DEBATE OVER AI SAFETY AND REGULATION.
 - 09/28 05:57 [FirstSquawk] THE MEETING COMES DAYS AFTER A FEDERAL APPEALS COURT UPHELD THE PENTAGON’S DECISION TO BLACKLIST ANTHROPIC’S CLAUDE MODELS, WHILE TRUMP AND HOUSE SPEAKER MIKE JOHNSON ARE ALSO EXPECTED TO MEET WITH MAJOR AI CEOS AS CALLS FOR STRONGER AI SAF…
+- 09/28 05:58 [FirstSquawk] TRUMP SAYS HE WILL DISCUSS AI WITH ANTHROPIC CEO AMODEI, SAYING ON THE MEETING 'LET'S GO, LET'S WIN', AND SAYS HE SPOKE WITH ZELENSKY AND TOLD HIM TO 'TAKE IT EASY' ON REFINERY STRIKES, BLAMING A DIESEL SHORTAGE ON UKRAINE STRIKING RUSSIAN …
+- 09/28 05:59 [FirstSquawk] TRUMP SAYS HE IS CONSIDERING A DIESEL EXPORT BAN 'VERY SERIOUSLY' AND THAT THE U.S. MAY IMPLEMENT IT, THOUGH IT COULD CAUSE A SMALL RISE IN GASOLINE PRICES.
+- 09/28 05:59 [FirstSquawk] TRUMP SAYS THE U.S. WILL WIN AGAINST IRAN IN MILITARY AND ECONOMIC WARFARE, CLAIMING IRAN INFLATION WAS AT 318% AS OF THIS MORNING AND EXPECTING THE WAR TO END 'VERY SOON' AND OIL PRICES TO FALL, WHILE DECLINING TO SAY WHETHER IRAN STRIKES …
+- 09/28 06:12 [DeItaone] *TRUMP ON IRAN STRIKES BEFORE MIDTERMS: DON’T WANT TO SAY
