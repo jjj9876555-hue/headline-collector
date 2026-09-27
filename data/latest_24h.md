@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-28 01:51 JST／対象: 09/27 01:51 〜 09/28 01:51 JST（時刻はすべて日本時間）
+生成: 2026-09-28 02:03 JST／対象: 09/27 02:03 〜 09/28 02:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/28 00:04 | 09/28 00:04 | - |
-| FirstSquawk | 176 | 09/27 01:52 | 09/28 01:39 | ⚠ 371分（03:23→09:35） |
-| financialjuice | 44 | 09/27 01:57 | 09/28 00:29 | ⚠ 261分（12:09→16:30） |
+| FirstSquawk | 168 | 09/27 02:46 | 09/28 01:39 | ⚠ 371分（03:23→09:35） |
+| financialjuice | 43 | 09/27 02:10 | 09/28 00:29 | ⚠ 261分（12:09→16:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 208 行（統合前 222 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 200 行（統合前 213 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 01:52 [FirstSquawk] Saudi Foreign Minister: We reject any attempts at forced displacement or changing the status quo in the Palestinian territories.
-- 09/27 01:53 [FirstSquawk] Saudi Foreign Minister: We support efforts to de-escalate tensions, especially those of Qatar and Pakistan, which contribute to restoring stability.
-- 09/27 01:53 [FirstSquawk] Saudi Foreign Minister: A just and lasting peace can only be achieved by implementing the two-state solution and establishing a Palestinian state.
-- 09/27 01:53 [FirstSquawk] Saudi Foreign Minister: Continued suffering of Palestinians and obstruction of aid in Gaza is a violation of international law
-- 09/27 01:53 [FirstSquawk] Saudi Foreign Minister: We reject any violations that affect the security and stability of Syria
-- 09/27 01:53 [FirstSquawk] Saudi Foreign Minister: We affirm our full right to protect the Kingdom's security and sovereignty.
-- 09/27 01:54 [FirstSquawk] Saudi Foreign Minister: We welcome the Security Council statement condemning the Houthi attacks on the Kingdom and commercial vessels.
-- 09/27 01:54 [FirstSquawk] Saudi Foreign Minister: We support the sovereignty and security of Iraq and stress that its territory should not be used as a launching pad for attacks on neighboring countries.
-- 09/27 01:57 [financialjuice/FirstSquawk] Iraq reaches agreement with US to continue cash dollar shipments: Iraqi government
 - 09/27 02:10 [financialjuice] Northern Ireland high court issues injunction to block Drumcree Protestant parade through Catholic area on Sunday
 - 09/27 02:11 [financialjuice] Northern Ireland High Court injunction provides brief interim relief until judicial review on route decided
 - 09/27 02:46 [financialjuice] Ukraine intercepting 55% of Russian jet-powered drones: Zelenskiy
@@ -43,6 +34,7 @@
 - 09/27 03:03 [FirstSquawk] Trump rejects Iran’s ceasefire proposal to reopen Strait of Hormuz - FT
 - 09/27 03:04 [FirstSquawk] Japan's Sumitomo Life to deploy AI for tailor-made contracts -Nikkei
 - 09/27 03:04 [FirstSquawk] Chinese EVs will come to US despite no summit deal, analysts say - Nikkei
+- 09/27 03:23 [FirstSquawk] Iraq reaches agreement with US to continue cash dollar shipments: Iraqi government
 - 09/27 03:36 [financialjuice] Libya reopens Sharara-Zawiya pipeline valve: resumes crude flow, says Libya's NOC
 - 09/27 03:38 [financialjuice] Libya's National Oil Corporation: crude output to gradually return to normal levels
 - 09/27 04:16 [financialjuice] Trump: approved new fuel economy standards ending Biden's EV mandate
