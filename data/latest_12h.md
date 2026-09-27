@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-28 02:50 JST／対象: 09/27 14:50 〜 09/28 02:50 JST（時刻はすべて日本時間）
+生成: 2026-09-28 03:00 JST／対象: 09/27 15:00 〜 09/28 03:00 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/28 00:04 | 09/28 00:04 | - |
-| FirstSquawk | 96 | 09/27 14:59 | 09/28 02:43 | ⚠ 58分（01:39→02:37） |
-| financialjuice | 27 | 09/27 16:30 | 09/28 00:29 | ⚠ 76分（20:38→21:54） |
+| FirstSquawk | 97 | 09/27 15:25 | 09/28 02:58 | ⚠ 58分（01:39→02:37） |
+| financialjuice | 29 | 09/27 16:30 | 09/28 02:55 | ⚠ 145分（00:29→02:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 113 行（統合前 125 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 116 行（統合前 128 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 14:59 [FirstSquawk] China fuels rapid expansion of AI-generated video into a commercial industry — Kyodo
 - 09/27 15:25 [FirstSquawk] 17 killed, at tavern in Carletonville, South Africa.
 - 09/27 15:26 [FirstSquawk] US Energy Secretary Chris Wright told Fox News that oil flows through the Strait of Hormuz were averaging almost 13 million barrels a day.
 - 09/27 15:26 [FirstSquawk] Bangkok floodwaters recede as officials race to drain canals
@@ -137,3 +136,7 @@
 - 09/28 02:43 [FirstSquawk] U.S. AMBASSADOR DAVID PERDUE SAYS TRUMP AND XI DISCUSS TAIWAN ARMS SALES AT EVERY MEETING, WHILE TAIWAN’S REPRESENTATIVE TO THE U.S. URGED FASTER WEAPONS DELIVERIES, CALLING THE ISLAND’S CHIP INDUSTRY AN IMPORTANT PART OF ITS SECURITY TIES …
 - 09/28 02:43 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT URGED THE FED TO KEEP AN “OPEN MIND” ON INTEREST RATES, ARGUING THAT AI-DRIVEN PRODUCTIVITY GAINS AND DEREGULATION COULD HELP KEEP U.S. INFLATION UNDER CONTROL, WHILE SAYING CORE INFLATION HAS REMAINED RELATI…
 - 09/28 02:43 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT ALSO SAID HE EXPECTS IRANIAN OIL DELIVERIES TO CHINA TO END SOON, CITING REDUCED CHINESE SUPPORT FOR IRAN AND SAYING ONLY ABOUT 15 MILLION BARRELS OF IRANIAN OIL REMAIN ON THE WATER.
+- 09/28 02:54 [financialjuice] Israeli foreign ministry: Israel cancels diplomatic status of Dutch diplomats in Ramallah
+- 09/28 02:55 [financialjuice] Israeli foreign ministry: diplomatic immunity of Dutch envoys in Ramallah to end in seven days
+- 09/28 02:58 [FirstSquawk] ISRAEL REVOKES DIPLOMATIC STATUS OF DUTCH DIPLOMATS IN RAMALLAH — FOREIGN MINISTRY
+- 09/28 02:58 [FirstSquawk] ISRAEL TO END DIPLOMATIC STATUS OF DUTCH DIPLOMATS IN RAMALLAH IN SEVEN DAYS — FOREIGN MINISTRY

@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-28 02:50 JST／対象: 09/27 20:50 〜 09/28 02:50 JST（時刻はすべて日本時間）
+生成: 2026-09-28 03:00 JST／対象: 09/27 21:00 〜 09/28 03:00 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/28 00:04 | 09/28 00:04 | - |
-| FirstSquawk | 50 | 09/27 21:37 | 09/28 02:43 | ⚠ 58分（01:39→02:37） |
-| financialjuice | 16 | 09/27 21:54 | 09/28 00:29 | ⚠ 66分（22:01→23:08） |
+| FirstSquawk | 52 | 09/27 21:37 | 09/28 02:58 | ⚠ 58分（01:39→02:37） |
+| financialjuice | 18 | 09/27 21:54 | 09/28 02:55 | ⚠ 145分（00:29→02:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 57 行（統合前 68 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 61 行（統合前 72 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -81,3 +81,7 @@
 - 09/28 02:43 [FirstSquawk] U.S. AMBASSADOR DAVID PERDUE SAYS TRUMP AND XI DISCUSS TAIWAN ARMS SALES AT EVERY MEETING, WHILE TAIWAN’S REPRESENTATIVE TO THE U.S. URGED FASTER WEAPONS DELIVERIES, CALLING THE ISLAND’S CHIP INDUSTRY AN IMPORTANT PART OF ITS SECURITY TIES …
 - 09/28 02:43 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT URGED THE FED TO KEEP AN “OPEN MIND” ON INTEREST RATES, ARGUING THAT AI-DRIVEN PRODUCTIVITY GAINS AND DEREGULATION COULD HELP KEEP U.S. INFLATION UNDER CONTROL, WHILE SAYING CORE INFLATION HAS REMAINED RELATI…
 - 09/28 02:43 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT ALSO SAID HE EXPECTS IRANIAN OIL DELIVERIES TO CHINA TO END SOON, CITING REDUCED CHINESE SUPPORT FOR IRAN AND SAYING ONLY ABOUT 15 MILLION BARRELS OF IRANIAN OIL REMAIN ON THE WATER.
+- 09/28 02:54 [financialjuice] Israeli foreign ministry: Israel cancels diplomatic status of Dutch diplomats in Ramallah
+- 09/28 02:55 [financialjuice] Israeli foreign ministry: diplomatic immunity of Dutch envoys in Ramallah to end in seven days
+- 09/28 02:58 [FirstSquawk] ISRAEL REVOKES DIPLOMATIC STATUS OF DUTCH DIPLOMATS IN RAMALLAH — FOREIGN MINISTRY
+- 09/28 02:58 [FirstSquawk] ISRAEL TO END DIPLOMATIC STATUS OF DUTCH DIPLOMATS IN RAMALLAH IN SEVEN DAYS — FOREIGN MINISTRY
