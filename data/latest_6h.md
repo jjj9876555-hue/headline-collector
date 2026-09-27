@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-27 23:45 JST／対象: 09/27 17:45 〜 09/27 23:45 JST（時刻はすべて日本時間）
+生成: 2026-09-27 23:59 JST／対象: 09/27 17:59 〜 09/27 23:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 45 | 09/27 18:07 | 09/27 23:31 | ⚠ 54分（22:33→23:27） |
-| financialjuice | 17 | 09/27 18:08 | 09/27 23:44 | ⚠ 76分（20:38→21:54） |
+| FirstSquawk | 55 | 09/27 18:07 | 09/27 23:53 | ⚠ 54分（22:33→23:27） |
+| financialjuice | 19 | 09/27 18:08 | 09/27 23:58 | ⚠ 76分（20:38→21:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 55 行（統合前 62 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 67 行（統合前 74 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -79,3 +79,15 @@
 - 09/27 23:42 [financialjuice] Trump: Arrests in UK were a positive development
 - 09/27 23:42 [financialjuice] Trump: Suspects had been under surveillance for a long time and we captured them
 - 09/27 23:44 [financialjuice] Trump: suspects aimed to cause major harm
+- 09/27 23:51 [FirstSquawk] Araqchi to NBC: We are as ready to negotiate as we are to confront any aggression, even if it comes to a devastating war
+- 09/27 23:52 [financialjuice] Libya's NOC: first refining units at Zawiya refinery, crude oil flow through main Sharara-Zawiya pipeline resumed after valve 7 reopening - statement
+- 09/27 23:52 [FirstSquawk] US Treasury Secretary: China has significantly reduced its aid to Iran
+- 09/27 23:52 [FirstSquawk] US Treasury Secretary to Fox News: We allowed more than a billion barrels of oil to leave the Strait of Hormuz in exchange for zero barrels for Iran.
+- 09/27 23:52 [FirstSquawk] US Treasury Secretary: Iran's economic isolation will be implemented in phases and includes cryptocurrencies, aviation, and maritime transport.
+- 09/27 23:52 [FirstSquawk] Hezbollah Secretary General: The authorities in Lebanon are aiding the Israeli-American project instead of confronting it.
+- 09/27 23:53 [FirstSquawk] Hezbollah Secretary General: The resistance fighters held out in Ali al-Taher for 3 months, but preserving the location is not the priority.
+- 09/27 23:53 [FirstSquawk] Trump: We are working with Britain on the investigation into the Fairford base and we know there was an attempt to harm us
+- 09/27 23:53 [FirstSquawk] Hezbollah Secretary General: We are ready for dialogue, but how can we negotiate with those who have deemed the resistance to be outside the law?
+- 09/27 23:53 [FirstSquawk] Hezbollah Secretary General: The president has the right to negotiate, but he does not have the right to violate the constitution and relinquish Lebanon's right to prosecute the enemy.
+- 09/27 23:53 [FirstSquawk] Ukrainian Emergency Service: Two dead and five injured in Russian shelling of Sumy city center
+- 09/27 23:58 [financialjuice] Trump tells Axios: expects US negotiators to hold more talks with Iran this week

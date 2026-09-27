@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-27 23:45 JST／対象: 09/26 23:45 〜 09/27 23:45 JST（時刻はすべて日本時間）
+生成: 2026-09-27 23:59 JST／対象: 09/26 23:59 〜 09/27 23:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/27 00:01 | 09/27 00:39 | 19分（00:19→00:39） |
-| FirstSquawk | 190 | 09/26 23:51 | 09/27 23:31 | ⚠ 371分（03:23→09:35） |
-| financialjuice | 41 | 09/27 00:28 | 09/27 23:44 | ⚠ 261分（12:09→16:30） |
+| FirstSquawk | 197 | 09/27 00:22 | 09/27 23:53 | ⚠ 371分（03:23→09:35） |
+| financialjuice | 43 | 09/27 00:28 | 09/27 23:58 | ⚠ 261分（12:09→16:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 223 行（統合前 234 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 232 行（統合前 243 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 23:51 [FirstSquawk] Axios, citing US officials: Approximately 60 million barrels of oil have passed through the Strait of Hormuz in the past 72 hours
-- 09/26 23:51 [FirstSquawk] Axios, citing sources: US negotiators have told Iran that it does not control the Strait of Hormuz and has no right to set conditions regarding it.
-- 09/26 23:52 [FirstSquawk] Axios, citing a US official: Positive and constructive talks are ongoing between Washington and Tehran through intermediaries.
 - 09/27 00:01 [DeItaone] TRUMP REJECTS AI INTEGRATION WITH CHINA President Trump said the U.S. should not integrate its AI efforts with China, despite discussing the technology with President Xi Jinping this week. Trump argued the U.S. is leading China significantl…
 - 09/27 00:19 [DeItaone] TRUMP REJECTS IRAN’S HORMUZ DEAL President Trump said he rejected Iran’s proposal to reopen the Strait of Hormuz and halt regional fighting within seven days. Iran had presented the plan through Qatari mediators, offering to reopen the crit…
 - 09/27 00:22 [FirstSquawk] Israeli army: We attacked earlier today a Hezbollah weapons depot in the Sajd area of ​​southern Lebanon
@@ -247,3 +244,15 @@
 - 09/27 23:42 [financialjuice] Trump: Arrests in UK were a positive development
 - 09/27 23:42 [financialjuice] Trump: Suspects had been under surveillance for a long time and we captured them
 - 09/27 23:44 [financialjuice] Trump: suspects aimed to cause major harm
+- 09/27 23:51 [FirstSquawk] Araqchi to NBC: We are as ready to negotiate as we are to confront any aggression, even if it comes to a devastating war
+- 09/27 23:52 [financialjuice] Libya's NOC: first refining units at Zawiya refinery, crude oil flow through main Sharara-Zawiya pipeline resumed after valve 7 reopening - statement
+- 09/27 23:52 [FirstSquawk] US Treasury Secretary: China has significantly reduced its aid to Iran
+- 09/27 23:52 [FirstSquawk] US Treasury Secretary to Fox News: We allowed more than a billion barrels of oil to leave the Strait of Hormuz in exchange for zero barrels for Iran.
+- 09/27 23:52 [FirstSquawk] US Treasury Secretary: Iran's economic isolation will be implemented in phases and includes cryptocurrencies, aviation, and maritime transport.
+- 09/27 23:52 [FirstSquawk] Hezbollah Secretary General: The authorities in Lebanon are aiding the Israeli-American project instead of confronting it.
+- 09/27 23:53 [FirstSquawk] Hezbollah Secretary General: The resistance fighters held out in Ali al-Taher for 3 months, but preserving the location is not the priority.
+- 09/27 23:53 [FirstSquawk] Trump: We are working with Britain on the investigation into the Fairford base and we know there was an attempt to harm us
+- 09/27 23:53 [FirstSquawk] Hezbollah Secretary General: We are ready for dialogue, but how can we negotiate with those who have deemed the resistance to be outside the law?
+- 09/27 23:53 [FirstSquawk] Hezbollah Secretary General: The president has the right to negotiate, but he does not have the right to violate the constitution and relinquish Lebanon's right to prosecute the enemy.
+- 09/27 23:53 [FirstSquawk] Ukrainian Emergency Service: Two dead and five injured in Russian shelling of Sumy city center
+- 09/27 23:58 [financialjuice] Trump tells Axios: expects US negotiators to hold more talks with Iran this week
