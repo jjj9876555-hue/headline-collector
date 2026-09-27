@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-28 07:33 JST／対象: 09/28 01:33 〜 09/28 07:33 JST（時刻はすべて日本時間）
+生成: 2026-09-28 07:51 JST／対象: 09/28 01:51 〜 09/28 07:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/28 06:12 | 09/28 07:06 | 39分（06:27→07:06） |
-| FirstSquawk | 26 | 09/28 01:38 | 09/28 07:06 | ⚠ 67分（05:59→07:06） |
+| FirstSquawk | 23 | 09/28 02:37 | 09/28 07:06 | ⚠ 67分（05:59→07:06） |
 | financialjuice | 13 | 09/28 02:54 | 09/28 07:11 | ⚠ 124分（05:07→07:11） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 43 行（統合前 43 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 40 行（統合前 40 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 01:38 [FirstSquawk] Iranian President: If America accepts the legal frameworks and our rights, we have no dispute with them; otherwise, we will never back down.
-- 09/28 01:38 [FirstSquawk] WSJ, citing a US official: Threat level raised at British base Fairford Saturday evening
-- 09/28 01:39 [FirstSquawk] WSJ, citing a US official: Fairford base is a key launchpad for military operations targeting Iran
 - 09/28 02:37 [FirstSquawk] SOUTH KOREA HAS EXPRESSED STRONG REGRET OVER UKRAINE'S REFUSAL OF A NONDISCLOSURE AGREEMENT ON NORTH KOREAN POWS, WITH THE SOUTH KOREAN PRESIDENCY SAYING THE COUNTRY IS CONTEMPLATING EXTRA ACTIONS ON THE ISSUE - YONHAP
 - 09/28 02:39 [FirstSquawk] ANTHROPIC CEO DARIO AMODEI SET TO JOIN TRUMP AT WHITE HOUSE DINNER — AXIOS
 - 09/28 02:43 [FirstSquawk] U.S. AMBASSADOR DAVID PERDUE SAYS U.S. POLICY ON TAIWAN REMAINS UNCHANGED AFTER XI JINPING’S STATE VISIT, SAYING WASHINGTON DOES NOT SUPPORT TAIWAN INDEPENDENCE OR COERCION, WHILE CONFIRMING THE TRUMP ADMINISTRATION HAS APPROVED $11 BILLION…
