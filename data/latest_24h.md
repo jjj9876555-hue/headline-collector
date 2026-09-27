@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-27 11:52 JST／対象: 09/26 11:52 〜 09/27 11:52 JST（時刻はすべて日本時間）
+生成: 2026-09-27 12:04 JST／対象: 09/26 12:04 〜 09/27 12:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/26 17:07 | 09/27 00:39 | ⚠ 291分（17:07→21:58） |
-| FirstSquawk | 285 | 09/26 11:55 | 09/27 11:47 | ⚠ 371分（03:23→09:35） |
+| FirstSquawk | 283 | 09/26 12:08 | 09/27 12:02 | ⚠ 371分（03:23→09:35） |
 | financialjuice | 43 | 09/26 13:00 | 09/27 10:19 | ⚠ 242分（06:17→10:19） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 330 行（統合前 336 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 328 行（統合前 334 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/26 11:55 [FirstSquawk] Online betting firms allowed to continue advertising until Oct. 5, Brazil’s Durigan says
-- 09/26 11:56 [FirstSquawk] Hurricane Polo remains a powerful Category 5 hurricane, NHC says
-- 09/26 11:59 [FirstSquawk] Brazil government sets November auction for purchasing credit portfolios from financial institutions
-- 09/26 12:01 [FirstSquawk] Brazil launches new debt-relief program targeting individuals with overdue debts of 2 to 4.5 years
-- 09/26 12:04 [FirstSquawk] Brazil government program aims to address around 300 billion reais in credit card and unsecured personal loan debt
 - 09/26 12:08 [FirstSquawk] Brazil plans to extend debt discounts to families under new program
 - 09/26 12:08 [FirstSquawk] Brazil expects program to cover 150 billion reais of debt, or half of eligible pool, at 15 billion reais cost
 - 09/26 12:09 [FirstSquawk] Brazil government: Mechanism to support overdue payment regularization and family debt restructuring
@@ -354,3 +349,6 @@
 - 09/27 11:41 [FirstSquawk] Indonesia considers Chinese involvement in planned 2,772km railway project — SCMP
 - 09/27 11:47 [FirstSquawk] Hamas leader accuses Israel of leveraging Palestinian casualties for election purposes — SCMP
 - 09/27 11:47 [FirstSquawk] 6.5 tons of cannabis flown from Thailand to UK in two months, government says
+- 09/27 11:53 [FirstSquawk] Trump seeks to rebrand AI as “superintelligence” amid growing U.S.-China challenges
+- 09/27 12:00 [FirstSquawk] U.S., China to pursue military crisis-communication pact, Beijing says
+- 09/27 12:02 [FirstSquawk] U.S. moves to finalize major reduction in vehicle fuel economy requirements - RTRS
