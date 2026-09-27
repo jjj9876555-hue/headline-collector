@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-28 04:31 JST／対象: 09/27 22:31 〜 09/28 04:31 JST（時刻はすべて日本時間）
+生成: 2026-09-28 04:43 JST／対象: 09/27 22:43 〜 09/28 04:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/28 00:04 | 09/28 00:04 | - |
-| FirstSquawk | 51 | 09/27 22:32 | 09/28 04:06 | ⚠ 58分（01:39→02:37） |
+| FirstSquawk | 48 | 09/27 23:27 | 09/28 04:31 | ⚠ 58分（01:39→02:37） |
 | financialjuice | 17 | 09/27 23:08 | 09/28 04:04 | ⚠ 145分（00:29→02:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 64 行（統合前 70 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 61 行（統合前 67 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 22:32 [FirstSquawk] Trump: We moved a record amount of oil through the Strait of Hormuz last night, more than we moved before the war began.
-- 09/27 22:33 [FirstSquawk] Iraqi official: Suspension of flights with Iran depends on ground service companies complying with US Treasury instructions
-- 09/27 22:33 [FirstSquawk] Iraqi official: The lack of a publicly stated government position on Iranian flights is due to the sensitivity of the issue.
-- 09/27 22:33 [FirstSquawk] Iraqi official: Companies' apologies for not providing services before takeoff and after landing led to the suspension of Iranian flights
 - 09/27 23:08 [financialjuice/FirstSquawk] UK government spokesperson: UK Prime Minister is being kept informed on Gloucestershire incident
 - 09/27 23:28 [FirstSquawk] The US ambassador to the UN on Iran: President Trump will keep all options on the table.
 - 09/27 23:29 [FirstSquawk] Palestinian was killed and others were injured when an Israeli drone struck a car in the center of Gaza City.
@@ -88,3 +84,4 @@
 - 09/28 04:01 [FirstSquawk] NETANYAHU TO FLY TO UAE TODAY FOR MEETING WITH PRESIDENT MOHAMMED BIN ZAYED — CHANNEL 12
 - 09/28 04:04 [financialjuice] Israeli prime minister visited Abu Dhabi on Sunday: UAE president met, Axios sources
 - 09/28 04:06 [FirstSquawk] ISRAELI PM NETANYAHU VISITED ABU DHABI ON SUNDAY, MET UAE PRESIDENT MBZ — AXIOS, CITING SOURCES
+- 09/28 04:31 [FirstSquawk] SYNLAIT MILK POSTED FY REVENUE OF NZD 1,940 MLN, WITH GROSS PROFIT OF NZD 37.7 MLN, EBITDA OF NZD 8.1 MLN AND NET DEBT OF NZD 215 MLN
