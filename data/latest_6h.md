@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-27 22:15 JST／対象: 09/27 16:15 〜 09/27 22:15 JST（時刻はすべて日本時間）
+生成: 2026-09-27 22:32 JST／対象: 09/27 16:32 〜 09/27 22:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
 | FirstSquawk | 43 | 09/27 16:32 | 09/27 21:57 | ⚠ 49分（19:34→20:24） |
-| financialjuice | 17 | 09/27 16:30 | 09/27 22:01 | ⚠ 76分（20:38→21:54） |
+| financialjuice | 15 | 09/27 17:39 | 09/27 22:01 | ⚠ 76分（20:38→21:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 54 行（統合前 60 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 52 行（統合前 58 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 16:30 [financialjuice] Britain's Gloucestershire police: several men detained over explosives act violations after increased security at Fairford air base - Sky News
-- 09/27 16:31 [financialjuice] Britain's Gloucestershire police: army's specialist bomb disposal unit is currently inspecting several vehicles - Sky News
 - 09/27 16:32 [FirstSquawk] Andy Burnham will launch a new version of the controversial Help to Buy scheme through which hundreds of thousands of first-time buyers got on to the housing ladder under the previous Conservative government
 - 09/27 16:33 [FirstSquawk] Southeast Asia manufacturing, Japan immigration costs, Vietnam GDP
 - 09/27 16:33 [FirstSquawk] Serbia's embattled president is expected to resign in a well-telegraphed move as he seeks to transition to the role of PM
