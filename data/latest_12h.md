@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-28 07:16 JST／対象: 09/27 19:16 〜 09/28 07:16 JST（時刻はすべて日本時間）
+生成: 2026-09-28 07:33 JST／対象: 09/27 19:33 〜 09/28 07:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 09/28 00:04 | 09/28 07:06 | ⚠ 368分（00:04→06:12） |
-| FirstSquawk | 78 | 09/27 19:23 | 09/28 07:06 | ⚠ 67分（05:59→07:06） |
-| financialjuice | 33 | 09/27 19:28 | 09/28 07:11 | ⚠ 145分（00:29→02:54） |
+| FirstSquawk | 77 | 09/27 19:34 | 09/28 07:06 | ⚠ 67分（05:59→07:06） |
+| financialjuice | 31 | 09/27 19:44 | 09/28 07:11 | ⚠ 145分（00:29→02:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 105 行（統合前 117 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 102 行（統合前 114 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 19:23 [FirstSquawk] Ukrainian Emergency Service: One dead and three injured after a Russian drone crashed into cars in Bucha, Kyiv region
-- 09/27 19:28 [financialjuice] South Korea military, UN command open probe into DMZ blast: Korean military
-- 09/27 19:32 [financialjuice] Iran's Revolutionary Guards navy: captures US autonomous underwater vehicle in Strait of Hormuz - state media
 - 09/27 19:34 [FirstSquawk] Iranian Revolutionary Guard: Seizure of an advanced American REMUS 600-class unmanned underwater vehicle in the Strait of Hormuz
 - 09/27 19:34 [FirstSquawk] Kremlin: Relations between Russia and the United States are not at their best
 - 09/27 19:44 [financialjuice] Yemen's Houthi-run health ministry: 7 killed, 40 wounded in market strike in Taiz - Saba News Agency
