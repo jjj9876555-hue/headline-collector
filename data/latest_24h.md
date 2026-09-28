@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-28 18:55 JST／対象: 09/27 18:55 〜 09/28 18:55 JST（時刻はすべて日本時間）
+生成: 2026-09-28 19:19 JST／対象: 09/27 19:19 〜 09/28 19:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 11 | 09/28 00:04 | 09/28 18:43 | ⚠ 562分（07:06→16:28） |
-| FirstSquawk | 210 | 09/27 19:08 | 09/28 18:55 | ⚠ 78分（08:02→09:21） |
-| financialjuice | 107 | 09/27 19:02 | 09/28 18:20 | ⚠ 145分（00:29→02:54） |
+| DeItaone | 14 | 09/28 00:04 | 09/28 19:13 | ⚠ 562分（07:06→16:28） |
+| FirstSquawk | 222 | 09/27 19:23 | 09/28 19:15 | ⚠ 78分（08:02→09:21） |
+| financialjuice | 120 | 09/27 19:28 | 09/28 19:15 | ⚠ 145分（00:29→02:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 317 行（統合前 329 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 345 行（統合前 357 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 19:02 [financialjuice] Swiss voters poised to dismiss neutrality initiative, according to SRF projections
-- 09/27 19:08 [FirstSquawk] Yemeni government forces: Our warplanes are bombing a camp and vehicles belonging to the Houthi militia at the Mawiyah intersection east of Taiz
-- 09/27 19:13 [FirstSquawk] Lebanese media: Israeli airstrike targets a building on the outskirts of the town of Mefdoun in southern Lebanon
-- 09/27 19:14 [FirstSquawk] Lebanese media: Israeli artillery shelling between the towns of Haddatha and Haris in southern Lebanon
 - 09/27 19:23 [FirstSquawk] Ukrainian Emergency Service: One dead and three injured after a Russian drone crashed into cars in Bucha, Kyiv region
 - 09/27 19:28 [financialjuice] South Korea military, UN command open probe into DMZ blast: Korean military
 - 09/27 19:32 [financialjuice] Iran's Revolutionary Guards navy: captures US autonomous underwater vehicle in Strait of Hormuz - state media
@@ -341,3 +337,35 @@
 - 09/28 18:43 [DeItaone] https://t.co/nx9ngNPg2L
 - 09/28 18:44 [FirstSquawk] UK FOREIGN SECRETARY MILIBAND: THE WORLD ORDER NEEDS REBUILDING
 - 09/28 18:55 [FirstSquawk] MILIBAND STATES THAT THEY WILL KEEP ISOLATING IRAN UNTIL THE STRAIT OF HORMUZ IS REOPENED.
+- 09/28 18:55 [FirstSquawk] MILIBAND SAYS IGNORING CLIMATE ISSUES MAKES THE COUNTRY DANGEROUS.
+- 09/28 18:55 [FirstSquawk] MILIBAND SAYS CORPORATIONS SHOULD NOT BE LEFT WITH ALL THE GUARDRAILS.
+- 09/28 18:55 [FirstSquawk] MILIBAND STATED THAT TECH GIANTS CANNOT BLOCK OUR PROGRESS.
+- 09/28 19:01 [financialjuice] BoE's Ramsden: I don’t foresee that we will be considering further QE any time soon
+- 09/28 19:01 [FirstSquawk] UKRAINE AGRICULTRUE CHIEF: NO POSITIVE SIGNS ON BLACK SEA CEASEFIRE || DOESN'T EXPECT BLACK SEA CEASEFIRE IN COMING MONTHS || SEES MAXIMUM EXPORTS AT 50% VIA BLACK SEA ALTERNATIVES || REACHED 45% OF AGRI EXPORTS VIA BLACK SEA ALTERNATIVES
+- 09/28 19:01 [FirstSquawk] UKRAINE AGRICULTRUE CHIEF: DENIED REQUEST FOR EU220M GRANT, FARMER CREDIT LINE || WORLD BANK $250M UKRAINE AGRI LOAN PROVIDES FOR THIS YEAR || REQUESTED TO UP '27 SUGAR, BIOETHANOL EU TARIFF QUOTAS
+- 09/28 19:03 [financialjuice] BoE's Ramsden: However, we have to recognise that the external environment can change very rapidly
+- 09/28 19:04 [financialjuice] BoE's Ramsden: The inflation pressures I will continue to focus on are external pressures from energy prices, weather, ALIsupply chain
+- 09/28 19:04 [financialjuice] BoE's Ramsden: Domestically, I will be focused on the outlook for indirect effects, particularly in food prices, and any early signs of second-round effects
+- 09/28 19:04 [financialjuice] BoE's Ramsden: QT plan provides a credible and coherent strategy
+- 09/28 19:04 [financialjuice] BoE's Ramsden: Risks to the inflation outlook, whether external or domestically generated, have tilted more to the upside
+- 09/28 19:05 [financialjuice] BoE's Ramsden: Were upside pressures on the inflation outlook to continue to build, there could be a case for increasing the bank rate
+- 09/28 19:05 [financialjuice] BoE's Ramsden: Case for hike if upside pressures persist
+- 09/28 19:05 [financialjuice] BoE's Ramsden: Focus is on energy prices
+- 09/28 19:05 [financialjuice] BoE's Ramsden: Current stance continues to provide restriction
+- 09/28 19:05 [financialjuice] BoE's Ramsden: Also looking at domestic food prices and wage settlements.
+- 09/28 19:06 [DeItaone] *UKRAINE DOESN'T EXPECT BLACK SEA CEASEFIRE IN COMING MONTHS
+- 09/28 19:08 [financialjuice] Japan Bank for International Cooperation: To issue Euro-denominated guaranteed bonds - SEC filing
+- 09/28 19:08 [DeItaone] POPE LEO URGES EUROPE TO INTEGRATE MIGRANTS, AS IF FAMILY MEMBERS, OFFERING THEM OPPORTUNITIES FOR BETTER LIFE
+- 09/28 19:11 [financialjuice] BoE's Ramsden: BoE QT changes in September have been well understood and well received by markets
+- 09/28 19:11 [FirstSquawk] BOE'S RAMSDEN STATES QT PLAN OFFERS A CREDIBLE AND LOGICAL STRATEGY.
+- 09/28 19:11 [FirstSquawk] BOE'S RAMSDEN SAYS INTEREST RATE INCREASE MAY BE NECESSARY IF INFLATIONARY PRESSURES CONTINUE.
+- 09/28 19:11 [FirstSquawk] RAMSDEN NOTES FOCUS ON LOCAL FOOD COSTS AND WAGE AGREEMENTS.
+- 09/28 19:11 [FirstSquawk] BOE'S RAMSDEN NOTED THAT INFLATION RISKS ARE NOW MORE LIKELY TO INCREASE.
+- 09/28 19:12 [FirstSquawk] XI EMPHASIZES THE IMPORTANCE OF PROMOTING A PEACEFUL CHINA INITIATIVE.
+- 09/28 19:12 [FirstSquawk] XT EMPHASIZES THE IMPORTANCE OF A PEACEFUL CHINA INITIATIVE FOR MODERNIZATION.
+- 09/28 19:12 [FirstSquawk] PBOC WILL DIRECT FINANCIAL RESOURCES TOWARD THE SERVICE SECTOR.
+- 09/28 19:12 [FirstSquawk] PBOC PLANS TO BOOST CREDIT AID FOR SERVICE SECTOR.
+- 09/28 19:13 [DeItaone] US CRUDE FUTURES GAIN OVER 4% TO HIT A SESSION HIGH OF $96.44/BBL ON STALLED U.S.-IRAN PEACE EFFORTS
+- 09/28 19:15 [FirstSquawk] US CRUDE FUTURES JUMPED MORE THAN 4%, REACHING A SESSION PEAK OF $96.44 PER BARREL DUE TO HALTED PEACE TALKS BETWEEN THE U.S. AND IRAN.
+- 09/28 19:15 [FirstSquawk] RAMSDEN ANNOUNCED THAT THE BANK OF ENGLAND WILL BEGIN SELLING GILTS WITH MATURITIES RANGING FROM 2033 TO 2049.
+- 09/28 19:15 [financialjuice] BoE's Ramsden: BoE sales to start with longest maturity 2035-49 gilts
