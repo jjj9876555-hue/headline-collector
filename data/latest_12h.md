@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-29 06:00 JST／対象: 09/28 18:00 〜 09/29 06:00 JST（時刻はすべて日本時間）
+生成: 2026-09-29 06:20 JST／対象: 09/28 18:20 〜 09/29 06:20 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 35 | 09/28 18:13 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 175 | 09/28 18:03 | 09/29 05:29 | 31分（02:57→03:29） |
-| financialjuice | 200 | 09/28 18:01 | 09/29 05:55 | 40分（18:20→19:01） |
+| DeItaone | 34 | 09/28 18:22 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
+| FirstSquawk | 171 | 09/28 18:21 | 09/29 05:29 | 31分（02:57→03:29） |
+| financialjuice | 200 | 09/28 18:20 | 09/29 06:11 | 40分（18:20→19:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 395 行（統合前 414 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 390 行（統合前 409 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 18:01 [financialjuice] Nvidia introduces open-source tool duo to boost AI security. $NVDA
-- 09/28 18:03 [FirstSquawk] NVIDIA DEBUTS SYSTEM DESIGNED TO STOP AI AGENTS GOING AWRY || INTRODUCES OPEN-SOURCE TOOL DUO TO BOOST AI SECURITY || OPENSHELL AND SENTRY ARE MEANT TO KEEP AI AGENTS IN LINE || TECHNOLOGY COULD HAVE PREVENTED HUGGING FACE BREACH
-- 09/28 18:08 [FirstSquawk] US 10-YEAR YIELD INCREASES 7 BASIS POINTS TO 5.23%, HIGHEST LEVEL SINCE 2007.
-- 09/28 18:13 [DeItaone] US 10-YEAR YIELD RISES 7BPS TO 5.23%, HIGHEST SINCE 2007
-- 09/28 18:18 [FirstSquawk] STREETING SAYS WHEN ALLIES CALL, BRITAIN ANSWERS
-- 09/28 18:20 [FirstSquawk] STREETING SAYS WE ARE WITH UKRAINE FOR AS LONG AS IT TAKES
 - 09/28 18:20 [financialjuice] Kremlin: US-Russia arms talks should have been resumed; the situation is so complex that long negotiations will be needed when they do resume.
 - 09/28 18:21 [FirstSquawk] KREMLIN STATES THAT UKRAINE MUST FACE CONSEQUENCES FOR ITS RECENT ACTIVITIES.
 - 09/28 18:21 [FirstSquawk] KREMLIN STATES THAT US-RUSSIA ARMS DISCUSSIONS SHOULD CONTINUE AS THE SITUATION IS COMPLICATED AND WILL REQUIRE EXTENSIVE NEGOTIATIONS ONCE RESTARTED.
@@ -419,3 +413,4 @@
 - 09/29 05:26 [financialjuice/FirstSquawk] Iran's State TV: The sounds heard on Qeshm Island were likely the result of warning shots fired at violating vessels in the Strait of Hormuz.
 - 09/29 05:48 [financialjuice] Libyan, Moroccan and Qatari military and government aircraft landed in Abu Dhabi during Israeli Prime Minister Netanyahu's visit - Israel's Kan News.
 - 09/29 05:55 [financialjuice] Anthropic collaborates with Nvidia on agent security $NVDA
+- 09/29 06:11 [financialjuice] North Korea: US approval for South Korea's nuclear submarine heightens regional instability - KCNA
