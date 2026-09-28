@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-29 01:25 JST／対象: 09/28 19:25 〜 09/29 01:25 JST（時刻はすべて日本時間）
+生成: 2026-09-29 01:47 JST／対象: 09/28 19:47 〜 09/29 01:47 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 18 | 09/28 19:34 | 09/29 00:44 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 88 | 09/28 19:25 | 09/29 01:24 | 14分（22:12→22:27） |
-| financialjuice | 102 | 09/28 19:29 | 09/29 01:24 | 21分（23:54→00:15） |
+| DeItaone | 23 | 09/28 19:52 | 09/29 01:46 | ⚠ 126分（20:42→22:49） |
+| FirstSquawk | 94 | 09/28 19:48 | 09/29 01:45 | 14分（22:12→22:27） |
+| financialjuice | 112 | 09/28 19:53 | 09/29 01:46 | 21分（23:54→00:15） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 200 行（統合前 210 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 219 行（統合前 232 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 19:25 [FirstSquawk] EU COMMISSION SPOKESPERSON: COMMISSION PLANS TO PROPOSE A POSTPONEMENT OF THE ENTRY INTO FORCE OF THE METHANE REGULATION
-- 09/28 19:29 [financialjuice] EU Commission spokesperson: Commission plans to propose a postponement of the entry into force of the methane regulation, we are now working on this at a technical level
-- 09/28 19:34 [DeItaone] LOUD EXPLOSION WAS HEARD IN CENTRAL KYIV, REUTERS WITNESSES SAY
-- 09/28 19:35 [FirstSquawk] LOUD EXPLOSION HEARD IN CENTRAL KYIV
-- 09/28 19:40 [DeItaone] IRAN'S SUPREME LEADER MOJTABA KHAMENEI SAYS 'ENEMY FORCES' DO NOT DARE ENTER GULF AND THE ARABIAN SEA WOULD SOON BE CLEARED OF 'ENEMIES' - STATEMENT
-- 09/28 19:40 [FirstSquawk] IRAN'S SUPREME LEADER MOJTABA KHAMENEI SAYS 'ENEMY FORCES' DO NOT DARE ENTER GULF AND THE ARABIAN SEA WOULD SOON BE CLEARED OF 'ENEMIES'
-- 09/28 19:41 [financialjuice] Iran's supreme leader, Mojtaba Khamenei: Enemy forces do not dare enter the Gulf, and the Arabian Sea would soon be cleared of 'enemies' - Statement
-- 09/28 19:43 [financialjuice/FirstSquawk] China Cabinet Meeting: Should step up counter-cyclical adjustments in macroeconomic policy - State radio
-- 09/28 19:43 [financialjuice] China Cabinet Meeting: Should accelerate the pace of issuance and use of various types of bonds.
-- 09/28 19:44 [financialjuice] China to study policies to stabilize the property market - Radio
-- 09/28 19:44 [DeItaone] $SPCX : CLSA INITIATES SPACEX AT ACCUMULATE - PT $250
-- 09/28 19:46 [financialjuice] BoE's Ramsden: Wanted QT even further into the background
 - 09/28 19:48 [FirstSquawk] MERCK ENTERS INTO EXCLUSIVE GLOBAL LICENSE AGREEMENT WITH SCIBRUNCH THERAPEUTICS FOR SPR2015, AN INVESTIGATIONAL ORAL KRAS G12D (ON) INHIBITOR (DESIGNED TO BLOCK THE KRAS G12D GENE MUTATION THAT CAUSES TUMOURS TO GROW IN CANCERS LIKE PANCRE…
 - 09/28 19:52 [DeItaone] S&P 500 BREADTH FALLS TO DOT-COM ERA LOW Goldman Sachs says AI stocks are masking extreme weakness beneath the S&P 500, with market breadth falling to its lowest level since the dot-com bubble. The median S&P 500 stock now trades 16% below …
 - 09/28 19:53 [financialjuice] UK Business Secretary Reynolds: Industrial strategy is about inventing and making in the UK
@@ -224,3 +212,34 @@
 - 09/29 01:22 [financialjuice] US official to Al Jazeera: Need guarantees this time that Iran is serious and not just seeking to escape the difficult situation it is suffering from.
 - 09/29 01:24 [financialjuice] WH Sr. Adviser Hassett: Estimate productivity growth right now about 2.5%.
 - 09/29 01:24 [FirstSquawk] US OFFICIAL: TRUMP READY TO EASE IRAN SANCTIONS, UNFREEZE ASSETS FOR NUCLEAR PROGRESS
+- 09/29 01:26 [FirstSquawk] US HASSETT: ESTIMATE PRODUCTIVITY GROWTH RIGHT NOW ABOUT 2.5%
+- 09/29 01:26 [FirstSquawk] HASSETT: BASE CASE ON GDP GROWTH, SHOULD BE AROUND 4%
+- 09/29 01:27 [financialjuice] WH Sr. Adviser Hassett: Base case on GDP growth, should be around 4%.
+- 09/29 01:27 [FirstSquawk] TRUMP OPEN TO IRAN SANCTIONS RELIEF FOR ‘CONCRETE PROGRESS’ ON NUCLEAR ISSUES, WHITE HOUSE OFFICIAL SAYS – CNN
+- 09/29 01:27 [financialjuice] ❗ White House official: Trump open to Iran sanctions relief for ‘concrete progress’ on nuclear issues - CNN
+- 09/29 01:30 [FirstSquawk] US OIL REVERSES GAINS, TRADES NEAR $92 A BARREL
+- 09/29 01:33 [financialjuice/FirstSquawk/DeItaone] Iran officials pessimistic about deal with US before midterms
+- 09/29 01:34 [financialjuice] Al Arabiya's Washington bureau chief: Iran and Yemen dossiers featured strongly in Saudi-US foreign ministers' meeting; Trump will not back down from economic siege on Tehran, wants Hormuz reopened without conditions
+- 09/29 01:35 [financialjuice] ECB's Pereira: Natural gas price pressures could lift inflation this winter.
+- 09/29 01:35 [financialjuice] WH Sr. Adviser Hassett: Lot of our debt is debt we owe ourselves.
+- 09/29 01:35 [financialjuice] WH Sr. Adviser Hassett: External debt maybe is around $15 trln
+- 09/29 01:36 [FirstSquawk] HASSETT: EXTERNAL DEBT MAYBE IS AROUND $15T
+- 09/29 01:36 [FirstSquawk] HASSETT: LOT OF OUR DEBT IS DEBT WE OWE OURSELVES
+- 09/29 01:37 [financialjuice] WH Sr. Adviser Hassett asked on bond yields, refers to Treasury Secretary.
+- 09/29 01:38 [financialjuice] White House weighs red-dyed diesel tax relief to lower fuel prices, according to 2 sources familiar
+- 09/29 01:39 [financialjuice] WH Sr. Adviser Hassett: 30-Yr TIPS yields tell you capital returns higher now.
+- 09/29 01:39 [DeItaone/financialjuice] SAUDI ARABIA RESUMES OIL EXPORTS VIA EAST-WEST PIPELINE AFTER REPAIRS -- SOURCES
+- 09/29 01:39 [FirstSquawk] HASSETT: 30-YR TIPS YIELDS TELL YOU CAPITAL RETURNS HIGHER NOW
+- 09/29 01:40 [FirstSquawk] HASSETT: 3% DEFICIT GOAL WILL DEPEND ON 'FORCE MAJEURE' FACTORS
+- 09/29 01:40 [DeItaone] IRAN PESSIMISTIC ON U.S. DEAL BEFORE MIDTERMS Iranian officials privately see little prospect of reaching a U.S. agreement to end hostilities and reopen Hormuz before the Nov. 3 midterms, Bloomberg reports. Talks in New York made limited pr…
+- 09/29 01:40 [financialjuice] Aramco currently operating pipeline at throughput rate of around 3.5 mln BPD - sources
+- 09/29 01:41 [DeItaone] ARAMCO CURRENTLY OPERATING PIPELINE AT THROUGHPUT RATE OF AROUND 3.5 MILLION BARRELS A DAY -- SOURCES
+- 09/29 01:42 [DeItaone] TRUMP OPEN TO IRAN SANCTIONS RELIEF FOR NUCLEAR PROGRESS President Trump is willing to offer sanctions relief and release frozen Iranian funds in exchange for concrete progress on Tehran’s nuclear program, a U.S. official told CNN. Washingt…
+- 09/29 01:43 [financialjuice] Texas Governor Abbott waives dyed-diesel restrictions
+- 09/29 01:43 [DeItaone] SAUDI ARABIA RESTORES KEY OIL EXPORT ROUTE Saudi Arabia has resumed oil exports through its East-West pipeline after repairing damage from drone strikes earlier this month. Saudi Aramco began loading vessels again at the Red Sea port of Yan…
+- 09/29 01:44 [financialjuice] ECB's Pereira: Inflation pressures are currently concentrated in energy prices.
+- 09/29 01:45 [FirstSquawk] US OFFICIAL: WE NEED GUARANTEES THIS TIME THAT IRAN IS SERIOUS AND NOT JUST SEEKING TO ESCAPE THE DIFFICULT SITUATION IT IS SUFFERING FROM
+- 09/29 01:45 [DeItaone] US CONSIDERING SANCTIONS WAIVER FOR FLIGHTS BETWEEN IRAN AND IRAQ'S HOLY CITY OF NAJAF, PERSON WITH DIRECT KNOWLEDGE SAYS
+- 09/29 01:46 [financialjuice] US considering sanctions waiver for flights between Iran and Iraq's holy city of Najaf - Source
+- 09/29 01:46 [DeItaone] WAIVER WOULD ALLOW PILGRIMS TO TRAVEL ON IRAQI AIRWAYS TO AND FROM IRAN FOR PILGRIMAGE FOR ONE MONTH, SOURCE SAYS
+- 09/29 01:46 [financialjuice] WH Sr. Adviser Hassett: 3-month annualized core inflation is around Fed target.

@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-29 01:25 JST／対象: 09/28 01:25 〜 09/29 01:25 JST（時刻はすべて日本時間）
+生成: 2026-09-29 01:47 JST／対象: 09/28 01:47 〜 09/29 01:47 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 32 | 09/28 06:12 | 09/29 00:44 | ⚠ 562分（07:06→16:28） |
-| FirstSquawk | 258 | 09/28 01:38 | 09/29 01:24 | ⚠ 78分（08:02→09:21） |
-| financialjuice | 202 | 09/28 02:54 | 09/29 01:24 | ⚠ 124分（05:07→07:11） |
+| DeItaone | 40 | 09/28 06:12 | 09/29 01:46 | ⚠ 562分（07:06→16:28） |
+| FirstSquawk | 265 | 09/28 02:37 | 09/29 01:45 | ⚠ 78分（08:02→09:21） |
+| financialjuice | 218 | 09/28 02:54 | 09/29 01:46 | ⚠ 124分（05:07→07:11） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 484 行（統合前 494 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 512 行（統合前 526 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 01:38 [FirstSquawk] Iranian President: If America accepts the legal frameworks and our rights, we have no dispute with them; otherwise, we will never back down.
-- 09/28 01:38 [FirstSquawk] WSJ, citing a US official: Threat level raised at British base Fairford Saturday evening
-- 09/28 01:39 [FirstSquawk] WSJ, citing a US official: Fairford base is a key launchpad for military operations targeting Iran
 - 09/28 02:37 [FirstSquawk] SOUTH KOREA HAS EXPRESSED STRONG REGRET OVER UKRAINE'S REFUSAL OF A NONDISCLOSURE AGREEMENT ON NORTH KOREAN POWS, WITH THE SOUTH KOREAN PRESIDENCY SAYING THE COUNTRY IS CONTEMPLATING EXTRA ACTIONS ON THE ISSUE - YONHAP
 - 09/28 02:39 [FirstSquawk] ANTHROPIC CEO DARIO AMODEI SET TO JOIN TRUMP AT WHITE HOUSE DINNER — AXIOS
 - 09/28 02:43 [FirstSquawk] U.S. AMBASSADOR DAVID PERDUE SAYS U.S. POLICY ON TAIWAN REMAINS UNCHANGED AFTER XI JINPING’S STATE VISIT, SAYING WASHINGTON DOES NOT SUPPORT TAIWAN INDEPENDENCE OR COERCION, WHILE CONFIRMING THE TRUMP ADMINISTRATION HAS APPROVED $11 BILLION…
@@ -508,3 +505,34 @@
 - 09/29 01:22 [financialjuice] US official to Al Jazeera: Need guarantees this time that Iran is serious and not just seeking to escape the difficult situation it is suffering from.
 - 09/29 01:24 [financialjuice] WH Sr. Adviser Hassett: Estimate productivity growth right now about 2.5%.
 - 09/29 01:24 [FirstSquawk] US OFFICIAL: TRUMP READY TO EASE IRAN SANCTIONS, UNFREEZE ASSETS FOR NUCLEAR PROGRESS
+- 09/29 01:26 [FirstSquawk] US HASSETT: ESTIMATE PRODUCTIVITY GROWTH RIGHT NOW ABOUT 2.5%
+- 09/29 01:26 [FirstSquawk] HASSETT: BASE CASE ON GDP GROWTH, SHOULD BE AROUND 4%
+- 09/29 01:27 [financialjuice] WH Sr. Adviser Hassett: Base case on GDP growth, should be around 4%.
+- 09/29 01:27 [FirstSquawk] TRUMP OPEN TO IRAN SANCTIONS RELIEF FOR ‘CONCRETE PROGRESS’ ON NUCLEAR ISSUES, WHITE HOUSE OFFICIAL SAYS – CNN
+- 09/29 01:27 [financialjuice] ❗ White House official: Trump open to Iran sanctions relief for ‘concrete progress’ on nuclear issues - CNN
+- 09/29 01:30 [FirstSquawk] US OIL REVERSES GAINS, TRADES NEAR $92 A BARREL
+- 09/29 01:33 [financialjuice/FirstSquawk/DeItaone] Iran officials pessimistic about deal with US before midterms
+- 09/29 01:34 [financialjuice] Al Arabiya's Washington bureau chief: Iran and Yemen dossiers featured strongly in Saudi-US foreign ministers' meeting; Trump will not back down from economic siege on Tehran, wants Hormuz reopened without conditions
+- 09/29 01:35 [financialjuice] ECB's Pereira: Natural gas price pressures could lift inflation this winter.
+- 09/29 01:35 [financialjuice] WH Sr. Adviser Hassett: Lot of our debt is debt we owe ourselves.
+- 09/29 01:35 [financialjuice] WH Sr. Adviser Hassett: External debt maybe is around $15 trln
+- 09/29 01:36 [FirstSquawk] HASSETT: EXTERNAL DEBT MAYBE IS AROUND $15T
+- 09/29 01:36 [FirstSquawk] HASSETT: LOT OF OUR DEBT IS DEBT WE OWE OURSELVES
+- 09/29 01:37 [financialjuice] WH Sr. Adviser Hassett asked on bond yields, refers to Treasury Secretary.
+- 09/29 01:38 [financialjuice] White House weighs red-dyed diesel tax relief to lower fuel prices, according to 2 sources familiar
+- 09/29 01:39 [financialjuice] WH Sr. Adviser Hassett: 30-Yr TIPS yields tell you capital returns higher now.
+- 09/29 01:39 [DeItaone/financialjuice] SAUDI ARABIA RESUMES OIL EXPORTS VIA EAST-WEST PIPELINE AFTER REPAIRS -- SOURCES
+- 09/29 01:39 [FirstSquawk] HASSETT: 30-YR TIPS YIELDS TELL YOU CAPITAL RETURNS HIGHER NOW
+- 09/29 01:40 [FirstSquawk] HASSETT: 3% DEFICIT GOAL WILL DEPEND ON 'FORCE MAJEURE' FACTORS
+- 09/29 01:40 [DeItaone] IRAN PESSIMISTIC ON U.S. DEAL BEFORE MIDTERMS Iranian officials privately see little prospect of reaching a U.S. agreement to end hostilities and reopen Hormuz before the Nov. 3 midterms, Bloomberg reports. Talks in New York made limited pr…
+- 09/29 01:40 [financialjuice] Aramco currently operating pipeline at throughput rate of around 3.5 mln BPD - sources
+- 09/29 01:41 [DeItaone] ARAMCO CURRENTLY OPERATING PIPELINE AT THROUGHPUT RATE OF AROUND 3.5 MILLION BARRELS A DAY -- SOURCES
+- 09/29 01:42 [DeItaone] TRUMP OPEN TO IRAN SANCTIONS RELIEF FOR NUCLEAR PROGRESS President Trump is willing to offer sanctions relief and release frozen Iranian funds in exchange for concrete progress on Tehran’s nuclear program, a U.S. official told CNN. Washingt…
+- 09/29 01:43 [financialjuice] Texas Governor Abbott waives dyed-diesel restrictions
+- 09/29 01:43 [DeItaone] SAUDI ARABIA RESTORES KEY OIL EXPORT ROUTE Saudi Arabia has resumed oil exports through its East-West pipeline after repairing damage from drone strikes earlier this month. Saudi Aramco began loading vessels again at the Red Sea port of Yan…
+- 09/29 01:44 [financialjuice] ECB's Pereira: Inflation pressures are currently concentrated in energy prices.
+- 09/29 01:45 [FirstSquawk] US OFFICIAL: WE NEED GUARANTEES THIS TIME THAT IRAN IS SERIOUS AND NOT JUST SEEKING TO ESCAPE THE DIFFICULT SITUATION IT IS SUFFERING FROM
+- 09/29 01:45 [DeItaone] US CONSIDERING SANCTIONS WAIVER FOR FLIGHTS BETWEEN IRAN AND IRAQ'S HOLY CITY OF NAJAF, PERSON WITH DIRECT KNOWLEDGE SAYS
+- 09/29 01:46 [financialjuice] US considering sanctions waiver for flights between Iran and Iraq's holy city of Najaf - Source
+- 09/29 01:46 [DeItaone] WAIVER WOULD ALLOW PILGRIMS TO TRAVEL ON IRAQI AIRWAYS TO AND FROM IRAN FOR PILGRIMAGE FOR ONE MONTH, SOURCE SAYS
+- 09/29 01:46 [financialjuice] WH Sr. Adviser Hassett: 3-month annualized core inflation is around Fed target.
