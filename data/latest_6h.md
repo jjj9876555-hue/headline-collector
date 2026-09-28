@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-28 20:17 JST／対象: 09/28 14:17 〜 09/28 20:17 JST（時刻はすべて日本時間）
+生成: 2026-09-28 20:36 JST／対象: 09/28 14:36 〜 09/28 20:36 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 18 | 09/28 16:28 | 09/28 20:12 | ⚠ 50分（17:23→18:13） |
-| FirstSquawk | 76 | 09/28 14:18 | 09/28 20:17 | 27分（16:10→16:38） |
-| financialjuice | 47 | 09/28 15:00 | 09/28 20:12 | ⚠ 54分（16:02→16:56） |
+| DeItaone | 19 | 09/28 16:28 | 09/28 20:19 | ⚠ 50分（17:23→18:13） |
+| FirstSquawk | 76 | 09/28 15:00 | 09/28 20:33 | 27分（16:10→16:38） |
+| financialjuice | 52 | 09/28 15:00 | 09/28 20:35 | ⚠ 54分（16:02→16:56） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 140 行（統合前 141 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 146 行（統合前 147 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 14:18 [FirstSquawk] TD Cowen raises Equinor target price to NOK 395 from NOK 366
-- 09/28 14:29 [FirstSquawk] Shell target price raised to 4,165p from 3,965p by TD Cowen
-- 09/28 14:32 [FirstSquawk] Xiaomi-backed robotics chipmaker eyes $100 million Hong Kong listing-scmp
-- 09/28 14:36 [FirstSquawk] Russian Defence Ministry says cargo ship was struck in Black Sea
 - 09/28 15:00 [financialjuice] SWEDISH TRADE BALANCE ACTUAL -11.9B (FORECAST -, PREVIOUS 1.2B) $MACRO
 - 09/28 15:00 [FirstSquawk] SWEDEN (AUG) TRADE BALANCE ACTUAL: -11.9B VS 1.2B PREVIOUS
 - 09/28 15:00 [FirstSquawk] NORWAY (AUG) RETAIL SALES W/AUTO FUEL MOM ACTUAL: 0.6% VS -0.7% PREVIOUS
@@ -164,3 +160,13 @@
 - 09/28 20:12 [DeItaone] $TSLA - CANTOR STAYS BULLISH ON TESLA AHEAD OF Q3 DELIVERIES Cantor Fitzgerald reiterated its Overweight rating and $485 price target on Tesla ahead of this week’s expected Q3 delivery update. Cantor forecasts 421,758 vehicle deliveries, be…
 - 09/28 20:12 [FirstSquawk] IRAN'S SUPREME LEADER MOJTABA KHAMENEI CLAIMS IRAN IS NOT JUST A SUPERPOWER BUT THE NUMBER ONE POWER GLOBALLY, ACCORDING TO DIVINE CALCULATIONS.
 - 09/28 20:17 [FirstSquawk] SAUDI ARABIA'S EAST-WEST PIPELINE IS BACK TO EXPORTING OIL.
+- 09/28 20:17 [financialjuice] UK finance Minister Healey: We will meet fiscal rules
+- 09/28 20:19 [FirstSquawk] SAUDI ARABIA ISSUES WARNING ALERT IN JAZAN, NAJRAN
+- 09/28 20:19 [DeItaone] SAUDI ARABIA'S EAST-WEST PIPELINE HAS RESUMED OIL EXPORTS
+- 09/28 20:21 [FirstSquawk] SAUDI CIVIL DEFENCE SAYS DANGER HAS PASSED IN JAZAN AND NAJRAN - STATE TV
+- 09/28 20:25 [FirstSquawk] UK CHANCELLOR HEALEY: THE CORE OF THE BUDGET WILL BE FISCAL DISCIPLINE
+- 09/28 20:25 [financialjuice] UK Finance Minister Healey: It falls to us to act to reduce the welfare bill
+- 09/28 20:30 [financialjuice] Citi partners with Coinbase to enable stablecoin payments for institutional clients - WSJ
+- 09/28 20:32 [financialjuice] Citi Expands Digital-Assets Footprint With Coinbase Partnership - WSJ
+- 09/28 20:33 [FirstSquawk] U.S. AND CHINA UNVEIL $30B TARIFF CUTS FOLLOWING TRUMP AND XI'S MEETING.
+- 09/28 20:35 [financialjuice] AI firm Instinct raised $1B at a $10B valuation - NYT DealBook
