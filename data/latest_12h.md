@@ -7,49 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-28 20:54 JST／対象: 09/28 08:54 〜 09/28 20:54 JST（時刻はすべて日本時間）
+生成: 2026-09-28 21:24 JST／対象: 09/28 09:24 〜 09/28 21:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 21 | 09/28 16:28 | 09/28 20:42 | ⚠ 50分（17:23→18:13） |
-| FirstSquawk | 161 | 09/28 09:21 | 09/28 20:51 | 27分（16:10→16:38） |
-| financialjuice | 108 | 09/28 08:54 | 09/28 20:43 | ⚠ 115分（11:30→13:26） |
+| FirstSquawk | 165 | 09/28 09:27 | 09/28 21:23 | 27分（16:10→16:38） |
+| financialjuice | 92 | 09/28 09:30 | 09/28 21:09 | ⚠ 115分（11:30→13:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 288 行（統合前 290 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 276 行（統合前 278 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 08:54 [financialjuice] BOJ minutes: several members expect consumer goods price increases to expand from summer onward
-- 09/28 08:55 [financialjuice] BoJ minutes: many members noted underlying inflation nearing 2%, demanding focus on stability
-- 09/28 08:55 [financialjuice] Rising price growth near that level
-- 09/28 08:55 [financialjuice] BOJ minutes: one member said focus needed on whether long-term inflation expectations will settle near 2%
-- 09/28 08:55 [financialjuice] BOJ minutes: many members said underlying inflation nearing 2%, requiring focus on stabilising price growth around that level
-- 09/28 08:56 [financialjuice] Bank of Korea: to closely watch financial and forex markets
-- 09/28 08:57 [financialjuice] BOJ minutes: members concur fx volatility impacts economy, prices more than before as firms increase pass-through of rising import costs
-- 09/28 08:57 [financialjuice] BoJ minutes: one member notes rising upside price risks as recent weak yen, Middle East events could boost inflation expectations
-- 09/28 08:58 [financialjuice] BOJ minutes: one member noted it takes 1-1.5 years for rate hike effect to ease inflation, economy
-- 09/28 09:00 [financialjuice] BOJ minutes: one member said Bank of Japan must taper monetary support gradually to prevent delay in interest-rate increases
-- 09/28 09:01 [financialjuice] BOJ minutes: one member said central bank must ensure nimble policy decisions by raising policy rate, which stayed below estimated neutral rate range
-- 09/28 09:02 [financialjuice] boj minutes: many members said central bank gradually moving to phase focusing on stabilising underlying inflation around 2%, not pushing up inflation
-- 09/28 09:03 [financialjuice] BOJ minutes: one member said markets appear to expect BOJ to raise rates about once every six months, but hikes could come more quickly
-- 09/28 09:03 [financialjuice] BoJ minutes: one member said bank must adjust policy rate nimbly with focus on upside inflation risks
-- 09/28 09:04 [financialjuice] BOJ minutes: one member says bank must speed up rate hikes as inflation risks could cause significant harm to economy
-- 09/28 09:04 [financialjuice] BOJ minutes: some members said central bank must signal focus on upside inflation risks more clearly
-- 09/28 09:05 [financialjuice] BOJ minutes: several members said it was difficult to anticipate pace and timing of future rate increases
-- 09/28 09:07 [financialjuice] BOJ minutes: board discussed long-term interest rate changes with some members saying term premia could increase if markets doubt BOJ will raise rates adequately
-- 09/28 09:08 [financialjuice] BOJ minutes: cabinet office official says suitable monetary policy crucial for stable inflation, hopes BOJ collaborates with government
-- 09/28 09:16 [financialjuice] South Korea 3-year Treasury bond futures KTBC1 drop by 30 ticks
-- 09/28 09:16 [financialjuice] South Korea 10-year Treasury bond futures drop by 120 ticks
-- 09/28 09:21 [financialjuice] China PBOC likely to set yuan midpoint at 6.7085 per dollar: estimate
-- 09/28 09:21 [FirstSquawk] US SECRETARY OF STATE RUBIO TO MEET SAUDI FOREIGN MINISTER AT 11:15 AM ET MONDAY
-- 09/28 09:22 [FirstSquawk] BANK OF JAPAN MINUTES SHOW MANY MEMBERS SAID UNDERLYING INFLATION IS NEARING 2%, REQUIRING A FOCUS ON STABILISING PRICE GROWTH AROUND THAT LEVEL RATHER THAN PUSHING UP INFLATION, WITH MANY NOTING MEDIUM- AND LONG-TERM INFLATION EXPECTATIONS…
-- 09/28 09:22 [FirstSquawk] BANK OF JAPAN MINUTES SHOW MEMBERS CONCURRED THAT FX VOLATILITY IMPACTS THE ECONOMY AND PRICES MORE THAN BEFORE AS FIRMS INCREASE PASS-THROUGH OF RISING IMPORT COSTS, WITH ONE MEMBER NOTING RISING UPSIDE PRICE RISKS AS A WEAK YEN AND MIDDLE…
-- 09/28 09:23 [FirstSquawk] BANK OF JAPAN MINUTES SHOW SEVERAL MEMBERS SAID IT WAS DIFFICULT TO ANTICIPATE THE PACE AND TIMING OF FUTURE RATE INCREASES, WITH ONE SAYING THE BANK MUST SPEED UP RATE HIKES AS INFLATION RISKS COULD CAUSE SIGNIFICANT HARM, ANOTHER NOTING M…
 - 09/28 09:27 [FirstSquawk] 30-year JGB yield rises 1.0bp to 4.165%
 - 09/28 09:30 [financialjuice] Momenta: two firms to jointly develop enhanced driver-assistance system for new mass-produced Peugeot and Jeep models
 - 09/28 09:30 [financialjuice] Momenta: technology to be deployed in China, Europe and other worldwide markets
@@ -312,3 +286,17 @@
 - 09/28 20:43 [financialjuice] Nvidia's commitments increased to $279B from $119B last quarter
 - 09/28 20:43 [financialjuice] NVIDIA commitments primarily related to procurement of memory.
 - 09/28 20:51 [FirstSquawk] FIVE PEOPLE DETAINED IN THE "FAIRFORD" INCIDENT IN BRITAIN ARE ALL BRITISH NATIONALS.
+- 09/28 20:57 [FirstSquawk] U.S. CENTRAL COMMAND REPORTS OVER ONE BILLION BARRELS OF OIL TRANSPORTED THROUGH THE HORMUZ STRAIT IN RECENT MONTHS.
+- 09/28 21:00 [financialjuice] Secured overnight financing rate: 3.90% September 25th vs 3.88% September 24th
+- 09/28 21:02 [FirstSquawk] US FDA OKS ABBVIE’S JUVMO FOR PARKINSON'S DISEASE
+- 09/28 21:02 [FirstSquawk] BAYER'S LYNKUET GETS FDA PRIORITY REVIEW FOR BREAST CANCER USE
+- 09/28 21:03 [financialjuice] Treasury Secretary Scott Bessent hires Wall Street economist David Zervos - CNBC.
+- 09/28 21:04 [financialjuice] ❗ Mediators expected to hold separate talks with the US and Iran on Monday or Tuesday, with Iran's Araghchi and Qatari mediators remaining in the US - Official briefed on the negotiations to
+- 09/28 21:05 [financialjuice] ❗ Talks to focus on amended version of 7-day proposal Iran presented on UNGA sidelines - Source Briefed on The Negotiations.
+- 09/28 21:06 [FirstSquawk] MEDIATORS WILL HAVE INDIVIDUAL DISCUSSIONS WITH THE US AND IRAN ON MONDAY OR TUESDAY, WITH IRAN'S ARAGHCHI AND QATARI MEDIATORS STAYING IN THE US, ACCORDING TO AN OFFICIAL BRIEFED ON THE TALKS.
+- 09/28 21:06 [FirstSquawk] TALKS WILL CENTER ON A REVISED 7-DAY PROPOSAL BY IRAN DISCUSSED AT THE UNGA, ACCORDING TO A SOURCE INFORMED ABOUT THE DISCUSSIONS.
+- 09/28 21:07 [financialjuice] Nvidia's CEO Huang: New software is a browser for agents $NVDA
+- 09/28 21:09 [FirstSquawk] NVIDIA CEO HUANG: NEW SOFTWARE IS A BROWSER FOR AGENTS - CNBC
+- 09/28 21:09 [financialjuice] Morning Juice – US Session Prep (28th September)
+- 09/28 21:22 [FirstSquawk] MANY GERMANS VIEW CHANCELLOR FRIEDRICH MERZ AS DISTANT, AGGRESSIVE, AND NOT EMPATHETIC.
+- 09/28 21:23 [FirstSquawk] HUNGARY DEBT CHIEF: EXPECTING EU FUNDS TO ARRIVE BY YEAR-END

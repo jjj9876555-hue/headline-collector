@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-28 20:54 JST／対象: 09/27 20:54 〜 09/28 20:54 JST（時刻はすべて日本時間）
+生成: 2026-09-28 21:24 JST／対象: 09/27 21:24 〜 09/28 21:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 26 | 09/28 00:04 | 09/28 20:42 | ⚠ 562分（07:06→16:28） |
-| FirstSquawk | 230 | 09/27 21:37 | 09/28 20:51 | ⚠ 78分（08:02→09:21） |
-| financialjuice | 142 | 09/27 21:54 | 09/28 20:43 | ⚠ 145分（00:29→02:54） |
+| FirstSquawk | 238 | 09/27 21:37 | 09/28 21:23 | ⚠ 78分（08:02→09:21） |
+| financialjuice | 148 | 09/27 21:54 | 09/28 21:09 | ⚠ 145分（00:29→02:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 386 行（統合前 399 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 400 行（統合前 413 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -410,3 +410,17 @@
 - 09/28 20:43 [financialjuice] Nvidia's commitments increased to $279B from $119B last quarter
 - 09/28 20:43 [financialjuice] NVIDIA commitments primarily related to procurement of memory.
 - 09/28 20:51 [FirstSquawk] FIVE PEOPLE DETAINED IN THE "FAIRFORD" INCIDENT IN BRITAIN ARE ALL BRITISH NATIONALS.
+- 09/28 20:57 [FirstSquawk] U.S. CENTRAL COMMAND REPORTS OVER ONE BILLION BARRELS OF OIL TRANSPORTED THROUGH THE HORMUZ STRAIT IN RECENT MONTHS.
+- 09/28 21:00 [financialjuice] Secured overnight financing rate: 3.90% September 25th vs 3.88% September 24th
+- 09/28 21:02 [FirstSquawk] US FDA OKS ABBVIE’S JUVMO FOR PARKINSON'S DISEASE
+- 09/28 21:02 [FirstSquawk] BAYER'S LYNKUET GETS FDA PRIORITY REVIEW FOR BREAST CANCER USE
+- 09/28 21:03 [financialjuice] Treasury Secretary Scott Bessent hires Wall Street economist David Zervos - CNBC.
+- 09/28 21:04 [financialjuice] ❗ Mediators expected to hold separate talks with the US and Iran on Monday or Tuesday, with Iran's Araghchi and Qatari mediators remaining in the US - Official briefed on the negotiations to
+- 09/28 21:05 [financialjuice] ❗ Talks to focus on amended version of 7-day proposal Iran presented on UNGA sidelines - Source Briefed on The Negotiations.
+- 09/28 21:06 [FirstSquawk] MEDIATORS WILL HAVE INDIVIDUAL DISCUSSIONS WITH THE US AND IRAN ON MONDAY OR TUESDAY, WITH IRAN'S ARAGHCHI AND QATARI MEDIATORS STAYING IN THE US, ACCORDING TO AN OFFICIAL BRIEFED ON THE TALKS.
+- 09/28 21:06 [FirstSquawk] TALKS WILL CENTER ON A REVISED 7-DAY PROPOSAL BY IRAN DISCUSSED AT THE UNGA, ACCORDING TO A SOURCE INFORMED ABOUT THE DISCUSSIONS.
+- 09/28 21:07 [financialjuice] Nvidia's CEO Huang: New software is a browser for agents $NVDA
+- 09/28 21:09 [FirstSquawk] NVIDIA CEO HUANG: NEW SOFTWARE IS A BROWSER FOR AGENTS - CNBC
+- 09/28 21:09 [financialjuice] Morning Juice – US Session Prep (28th September)
+- 09/28 21:22 [FirstSquawk] MANY GERMANS VIEW CHANCELLOR FRIEDRICH MERZ AS DISTANT, AGGRESSIVE, AND NOT EMPATHETIC.
+- 09/28 21:23 [FirstSquawk] HUNGARY DEBT CHIEF: EXPECTING EU FUNDS TO ARRIVE BY YEAR-END
