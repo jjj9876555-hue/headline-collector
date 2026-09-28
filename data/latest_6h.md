@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-28 19:53 JST／対象: 09/28 13:53 〜 09/28 19:53 JST（時刻はすべて日本時間）
+生成: 2026-09-28 20:17 JST／対象: 09/28 14:17 〜 09/28 20:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 14 | 09/28 16:28 | 09/28 19:52 | ⚠ 50分（17:23→18:13） |
-| FirstSquawk | 77 | 09/28 13:56 | 09/28 19:48 | 27分（16:10→16:38） |
-| financialjuice | 40 | 09/28 14:00 | 09/28 19:53 | ⚠ 59分（14:00→15:00） |
+| DeItaone | 18 | 09/28 16:28 | 09/28 20:12 | ⚠ 50分（17:23→18:13） |
+| FirstSquawk | 76 | 09/28 14:18 | 09/28 20:17 | 27分（16:10→16:38） |
+| financialjuice | 47 | 09/28 15:00 | 09/28 20:12 | ⚠ 54分（16:02→16:56） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 130 行（統合前 131 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 140 行（統合前 141 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 13:56 [FirstSquawk] Gold prices slide on expectations of prolonged higher Fed rates-wsj
-- 09/28 13:58 [FirstSquawk] Asian currencies come under pressure as geopolitical tensions continue-wsj
-- 09/28 14:00 [financialjuice] Finnish September industry confidence falls 3 points
-- 09/28 14:00 [financialjuice] Finnish September consumer confidence falls 4.9 points: Statistics Finland
-- 09/28 14:01 [FirstSquawk] JGB yields advance as investors assess Iran conflict risks and persistent inflation-wsj
-- 09/28 14:03 [FirstSquawk] Oil gains as geopolitical risks grow and stockpiles shrink-wsj
-- 09/28 14:11 [FirstSquawk] Silver prices slide toward $62 amid rising expectations of Fed rate hikes-fx
-- 09/28 14:12 [FirstSquawk] Jefferies raises Barratt Redrow target price to 323p from 303p
-- 09/28 14:14 [FirstSquawk] Jefferies cuts Berkeley Group target price to 4,301p from 4,517p
-- 09/28 14:16 [FirstSquawk] TD Cowen raises BP target price to 565p from 504p
-- 09/28 14:17 [FirstSquawk] HSBC lowers Burberry price target to 1,180p from 1,200p
 - 09/28 14:18 [FirstSquawk] TD Cowen raises Equinor target price to NOK 395 from NOK 366
 - 09/28 14:29 [FirstSquawk] Shell target price raised to 4,165p from 3,965p by TD Cowen
 - 09/28 14:32 [FirstSquawk] Xiaomi-backed robotics chipmaker eyes $100 million Hong Kong listing-scmp
@@ -154,3 +143,24 @@
 - 09/28 19:48 [FirstSquawk] MERCK ENTERS INTO EXCLUSIVE GLOBAL LICENSE AGREEMENT WITH SCIBRUNCH THERAPEUTICS FOR SPR2015, AN INVESTIGATIONAL ORAL KRAS G12D (ON) INHIBITOR (DESIGNED TO BLOCK THE KRAS G12D GENE MUTATION THAT CAUSES TUMOURS TO GROW IN CANCERS LIKE PANCRE…
 - 09/28 19:52 [DeItaone] S&P 500 BREADTH FALLS TO DOT-COM ERA LOW Goldman Sachs says AI stocks are masking extreme weakness beneath the S&P 500, with market breadth falling to its lowest level since the dot-com bubble. The median S&P 500 stock now trades 16% below …
 - 09/28 19:53 [financialjuice] UK Business Secretary Reynolds: Industrial strategy is about inventing and making in the UK
+- 09/28 19:55 [DeItaone] EU'S KALLAS: EUROPE NEEDS TO REARM MORE QUICKLY AND MORE EFFECTIVELY TO MEET OUR 2030 TARGET
+- 09/28 19:57 [FirstSquawk] EU FOREIGN POLICY CHIEF STATES EUROPE MUST INCREASE ARMAMENT SPEED AND EFFECTIVENESS TO REACH OBJECTIVES BY 2030.
+- 09/28 19:59 [FirstSquawk] UK AUTHORITIES INCREASED SECURITY AT A US-USED AIRBASE DUE TO RISING THREATS AND SUCCESSFULLY FOILED AN ATTACK ATTEMPT, SOURCES REVEAL.
+- 09/28 20:00 [financialjuice] Nvidia announces a $150b share buyback authorization boost $NVDA
+- 09/28 20:00 [DeItaone] $NVDA - NVIDIA EXPANDS BUYBACK PROGRAM TO $235 BILLION Nvidia’s board authorized a $150 billion increase to its share repurchase program, bringing the total authorization to $235 billion. The company expects to execute the expanded buyback …
+- 09/28 20:01 [FirstSquawk] NVIDIA INCREASES SHARE BUYBACK APPROVAL BY $150 BILLION.
+- 09/28 20:02 [financialjuice] BoE's Ramsden: Food prices are weaker than expected them to be
+- 09/28 20:02 [financialjuice] BoE's Ramsden: We will know more about 2nd round effects at upcoming meetings
+- 09/28 20:03 [FirstSquawk] NVIDIA ANNOUNCES RECORD-BREAKING BUYBACK PLAN.
+- 09/28 20:03 [financialjuice] Nvidia marks largest buyback authorization boost in history, to execute total remaining program through FY 2028 $NVDA
+- 09/28 20:03 [financialjuice] NVIDIA to execute total remaining program through fy 2028.
+- 09/28 20:04 [financialjuice] BoE's Ramsden: We seem to be in a period of higher and longer-lasting headline inflation, which is bearing on my thinking
+- 09/28 20:04 [FirstSquawk] BOE’S RAMSDEN: FOOD PRICES WEAKER THAN EXPECTED THEM TO BE
+- 09/28 20:05 [DeItaone] NVIDIA SHARES UP 1.4% PREMARKET AFTER CO ANNOUNCES A $150 BLN SHARE REPURCHASE AUTHORIZATION INCREASE
+- 09/28 20:07 [FirstSquawk] NVIDIA WILL COMPLETE ALL REMAINING PROGRAMS BY FY 2028.
+- 09/28 20:07 [financialjuice] BoE's Ramsden: Risk of higher and longer-lasting inflation increased between July and September MPC meetings
+- 09/28 20:11 [financialjuice] Google to invest at least $15.2b in Finland over two years - Fox $GOOGL
+- 09/28 20:12 [financialjuice] Finland to expand data centers from 50 to 75 facilities - Fox $GOOGL
+- 09/28 20:12 [DeItaone] $TSLA - CANTOR STAYS BULLISH ON TESLA AHEAD OF Q3 DELIVERIES Cantor Fitzgerald reiterated its Overweight rating and $485 price target on Tesla ahead of this week’s expected Q3 delivery update. Cantor forecasts 421,758 vehicle deliveries, be…
+- 09/28 20:12 [FirstSquawk] IRAN'S SUPREME LEADER MOJTABA KHAMENEI CLAIMS IRAN IS NOT JUST A SUPERPOWER BUT THE NUMBER ONE POWER GLOBALLY, ACCORDING TO DIVINE CALCULATIONS.
+- 09/28 20:17 [FirstSquawk] SAUDI ARABIA'S EAST-WEST PIPELINE IS BACK TO EXPORTING OIL.

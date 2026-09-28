@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-28 19:53 JST／対象: 09/27 19:53 〜 09/28 19:53 JST（時刻はすべて日本時間）
+生成: 2026-09-28 20:17 JST／対象: 09/27 20:17 〜 09/28 20:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 19 | 09/28 00:04 | 09/28 19:52 | ⚠ 562分（07:06→16:28） |
-| FirstSquawk | 224 | 09/27 20:24 | 09/28 19:48 | ⚠ 78分（08:02→09:21） |
-| financialjuice | 124 | 09/27 20:38 | 09/28 19:53 | ⚠ 145分（00:29→02:54） |
+| DeItaone | 23 | 09/28 00:04 | 09/28 20:12 | ⚠ 562分（07:06→16:28） |
+| FirstSquawk | 232 | 09/27 20:24 | 09/28 20:17 | ⚠ 78分（08:02→09:21） |
+| financialjuice | 133 | 09/27 20:38 | 09/28 20:12 | ⚠ 145分（00:29→02:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 355 行（統合前 368 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 376 行（統合前 389 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -379,3 +379,24 @@
 - 09/28 19:48 [FirstSquawk] MERCK ENTERS INTO EXCLUSIVE GLOBAL LICENSE AGREEMENT WITH SCIBRUNCH THERAPEUTICS FOR SPR2015, AN INVESTIGATIONAL ORAL KRAS G12D (ON) INHIBITOR (DESIGNED TO BLOCK THE KRAS G12D GENE MUTATION THAT CAUSES TUMOURS TO GROW IN CANCERS LIKE PANCRE…
 - 09/28 19:52 [DeItaone] S&P 500 BREADTH FALLS TO DOT-COM ERA LOW Goldman Sachs says AI stocks are masking extreme weakness beneath the S&P 500, with market breadth falling to its lowest level since the dot-com bubble. The median S&P 500 stock now trades 16% below …
 - 09/28 19:53 [financialjuice] UK Business Secretary Reynolds: Industrial strategy is about inventing and making in the UK
+- 09/28 19:55 [DeItaone] EU'S KALLAS: EUROPE NEEDS TO REARM MORE QUICKLY AND MORE EFFECTIVELY TO MEET OUR 2030 TARGET
+- 09/28 19:57 [FirstSquawk] EU FOREIGN POLICY CHIEF STATES EUROPE MUST INCREASE ARMAMENT SPEED AND EFFECTIVENESS TO REACH OBJECTIVES BY 2030.
+- 09/28 19:59 [FirstSquawk] UK AUTHORITIES INCREASED SECURITY AT A US-USED AIRBASE DUE TO RISING THREATS AND SUCCESSFULLY FOILED AN ATTACK ATTEMPT, SOURCES REVEAL.
+- 09/28 20:00 [financialjuice] Nvidia announces a $150b share buyback authorization boost $NVDA
+- 09/28 20:00 [DeItaone] $NVDA - NVIDIA EXPANDS BUYBACK PROGRAM TO $235 BILLION Nvidia’s board authorized a $150 billion increase to its share repurchase program, bringing the total authorization to $235 billion. The company expects to execute the expanded buyback …
+- 09/28 20:01 [FirstSquawk] NVIDIA INCREASES SHARE BUYBACK APPROVAL BY $150 BILLION.
+- 09/28 20:02 [financialjuice] BoE's Ramsden: Food prices are weaker than expected them to be
+- 09/28 20:02 [financialjuice] BoE's Ramsden: We will know more about 2nd round effects at upcoming meetings
+- 09/28 20:03 [FirstSquawk] NVIDIA ANNOUNCES RECORD-BREAKING BUYBACK PLAN.
+- 09/28 20:03 [financialjuice] Nvidia marks largest buyback authorization boost in history, to execute total remaining program through FY 2028 $NVDA
+- 09/28 20:03 [financialjuice] NVIDIA to execute total remaining program through fy 2028.
+- 09/28 20:04 [financialjuice] BoE's Ramsden: We seem to be in a period of higher and longer-lasting headline inflation, which is bearing on my thinking
+- 09/28 20:04 [FirstSquawk] BOE’S RAMSDEN: FOOD PRICES WEAKER THAN EXPECTED THEM TO BE
+- 09/28 20:05 [DeItaone] NVIDIA SHARES UP 1.4% PREMARKET AFTER CO ANNOUNCES A $150 BLN SHARE REPURCHASE AUTHORIZATION INCREASE
+- 09/28 20:07 [FirstSquawk] NVIDIA WILL COMPLETE ALL REMAINING PROGRAMS BY FY 2028.
+- 09/28 20:07 [financialjuice] BoE's Ramsden: Risk of higher and longer-lasting inflation increased between July and September MPC meetings
+- 09/28 20:11 [financialjuice] Google to invest at least $15.2b in Finland over two years - Fox $GOOGL
+- 09/28 20:12 [financialjuice] Finland to expand data centers from 50 to 75 facilities - Fox $GOOGL
+- 09/28 20:12 [DeItaone] $TSLA - CANTOR STAYS BULLISH ON TESLA AHEAD OF Q3 DELIVERIES Cantor Fitzgerald reiterated its Overweight rating and $485 price target on Tesla ahead of this week’s expected Q3 delivery update. Cantor forecasts 421,758 vehicle deliveries, be…
+- 09/28 20:12 [FirstSquawk] IRAN'S SUPREME LEADER MOJTABA KHAMENEI CLAIMS IRAN IS NOT JUST A SUPERPOWER BUT THE NUMBER ONE POWER GLOBALLY, ACCORDING TO DIVINE CALCULATIONS.
+- 09/28 20:17 [FirstSquawk] SAUDI ARABIA'S EAST-WEST PIPELINE IS BACK TO EXPORTING OIL.
