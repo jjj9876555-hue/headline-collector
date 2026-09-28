@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-28 22:49 JST／対象: 09/27 22:49 〜 09/28 22:49 JST（時刻はすべて日本時間）
+生成: 2026-09-28 23:02 JST／対象: 09/27 23:02 〜 09/28 23:02 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 26 | 09/28 00:04 | 09/28 20:42 | ⚠ 562分（07:06→16:28） |
-| FirstSquawk | 247 | 09/27 23:27 | 09/28 22:46 | ⚠ 78分（08:02→09:21） |
-| financialjuice | 170 | 09/27 23:08 | 09/28 22:48 | ⚠ 145分（00:29→02:54） |
+| DeItaone | 29 | 09/28 00:04 | 09/28 22:54 | ⚠ 562分（07:06→16:28） |
+| FirstSquawk | 253 | 09/27 23:27 | 09/28 23:02 | ⚠ 78分（08:02→09:21） |
+| financialjuice | 172 | 09/27 23:08 | 09/28 22:58 | ⚠ 145分（00:29→02:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 434 行（統合前 446 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 444 行（統合前 457 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -456,5 +456,15 @@
 - 09/28 22:39 [FirstSquawk] UK SEPTEMBER LONG-TERM PUBLIC INFLATION EXPECTATIONS AT 4.3% VS 4.1% IN AUGUST - CITI/YOUGOV
 - 09/28 22:41 [financialjuice] ECB's President Lagarde: AI could lower inflation in the long term by boosting productivity
 - 09/28 22:44 [financialjuice] WATCH LIVE: ECB's President Lagarde Speaks
-- 09/28 22:46 [FirstSquawk/financialjuice] RUSSIA PLANS TO EXTEND DIESEL EXPORT BAN THROUGH OCTOBER: TASS
+- 09/28 22:46 [FirstSquawk/financialjuice/DeItaone] RUSSIA PLANS TO EXTEND DIESEL EXPORT BAN THROUGH OCTOBER: TASS
 - 09/28 22:48 [financialjuice] Irna's Araqchi will meet with mediators in New York today. representative from the American side will not be present at this meeting - ISNA
+- 09/28 22:50 [FirstSquawk] IRAN'S ARAGHCHI TO MEET MEDIATORS IN NEW YORK ON MONDAY - ISNA
+- 09/28 22:50 [FirstSquawk] US REPRESENTATIVES WON'T BE PRESENT AT MEETING: IRAN'S ISNA
+- 09/28 22:51 [financialjuice] Iran’s Foreign Minister Araghchi to Meet Mediators, US Won't Be Present - ISNA
+- 09/28 22:51 [DeItaone] - IRAN'S ISNA NEWS AGENCY SAYS FOREIGN MINISTER ARAQCHI TO MEET MEDIATORS TODAY IN NEW YORK
+- 09/28 22:54 [DeItaone] $SPCX - SPACEX SHARES UP 1.1%; CO SAYS STARSHIP REACHES ORBIT DESPITE ENGINE ISSUE
+- 09/28 22:57 [FirstSquawk] SPACEX: ALL 26 SATELLITES ON STARSHIP ROCKET DEPLOYED IN ORBIT
+- 09/28 22:58 [FirstSquawk] UK ENERGY SEC. FAHNBULLEH: GOVT PLANS TO DEVOLVE THE WARM HOME PLAN
+- 09/28 22:58 [financialjuice] There are no plans for negotiations with US - Iran's Tasnim News citing informed source
+- 09/28 22:58 [FirstSquawk] IRAN SAYS MONDAY NY MEETING IS WITH MEDIATORS, NOT US TALKS - TASNIM
+- 09/28 23:02 [FirstSquawk] TOP AI RESEARCHERS CALL FOR URGENT OVERSIGHT OF SELF-IMPROVING SYSTEMS - WSJ
