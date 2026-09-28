@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-29 02:01 JST／対象: 09/28 14:01 〜 09/29 02:01 JST（時刻はすべて日本時間）
+生成: 2026-09-29 02:20 JST／対象: 09/28 14:20 〜 09/29 02:20 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 37 | 09/28 16:28 | 09/29 01:54 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 168 | 09/28 14:01 | 09/29 01:45 | 27分（16:10→16:38） |
-| financialjuice | 149 | 09/28 15:00 | 09/29 01:46 | ⚠ 54分（16:02→16:56） |
+| DeItaone | 38 | 09/28 16:28 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
+| FirstSquawk | 161 | 09/28 14:29 | 09/29 02:07 | 27分（16:10→16:38） |
+| financialjuice | 156 | 09/28 15:00 | 09/29 02:20 | ⚠ 54分（16:02→16:56） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 343 行（統合前 357 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 344 行（統合前 359 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 14:01 [FirstSquawk] JGB yields advance as investors assess Iran conflict risks and persistent inflation-wsj
-- 09/28 14:03 [FirstSquawk] Oil gains as geopolitical risks grow and stockpiles shrink-wsj
-- 09/28 14:11 [FirstSquawk] Silver prices slide toward $62 amid rising expectations of Fed rate hikes-fx
-- 09/28 14:12 [FirstSquawk] Jefferies raises Barratt Redrow target price to 323p from 303p
-- 09/28 14:14 [FirstSquawk] Jefferies cuts Berkeley Group target price to 4,301p from 4,517p
-- 09/28 14:16 [FirstSquawk] TD Cowen raises BP target price to 565p from 504p
-- 09/28 14:17 [FirstSquawk] HSBC lowers Burberry price target to 1,180p from 1,200p
-- 09/28 14:18 [FirstSquawk] TD Cowen raises Equinor target price to NOK 395 from NOK 366
 - 09/28 14:29 [FirstSquawk] Shell target price raised to 4,165p from 3,965p by TD Cowen
 - 09/28 14:32 [FirstSquawk] Xiaomi-backed robotics chipmaker eyes $100 million Hong Kong listing-scmp
 - 09/28 14:36 [FirstSquawk] Russian Defence Ministry says cargo ship was struck in Black Sea
@@ -367,3 +359,12 @@
 - 09/29 01:46 [DeItaone] WAIVER WOULD ALLOW PILGRIMS TO TRAVEL ON IRAQI AIRWAYS TO AND FROM IRAN FOR PILGRIMAGE FOR ONE MONTH, SOURCE SAYS
 - 09/29 01:46 [financialjuice] WH Sr. Adviser Hassett: 3-month annualized core inflation is around Fed target.
 - 09/29 01:54 [DeItaone] 36 DAYS TO MIDTERMS: DEMOCRATS HIT NEW 2026 HIGH With just 36 days until the Nov. 3 midterms, Kalshi’s American Power Index has swung sharply toward Democrats. USAGov Democrats now lead at +3.8 — their strongest level shown on the 2026 char…
+- 09/29 02:07 [FirstSquawk] TRUMP OFFERS IRAN ECONOMIC RELIEF FOR CONCRETE NUCLEAR CONCESSIONS - AXIOS
+- 09/29 02:09 [financialjuice] NYC Speaker: OpenAI, Anthropic, Google all agreed to testify
+- 09/29 02:09 [financialjuice] NYC Speaker: OpenAI, Anthropic, Google all agreed to testify $GOOGL
+- 09/29 02:11 [financialjuice] NYC Speaker: Meta also to testify $META
+- 09/29 02:12 [financialjuice] ❗ NYC Speaker: Council issued a subpoena for SpaceXAI to testify. $SPCX
+- 09/29 02:13 [financialjuice] ❗ Iran has agreed to halt uranium enrichment in exchange for the easing of US sanctions - Al Hadath citing sources
+- 09/29 02:14 [DeItaone] Iran Agrees To Suspend Uranium Enrichment In Exchange For US Sanctions Relief - Al Hadath
+- 09/29 02:19 [financialjuice] American source engaged in negotiations with Iran to Al Arabiya: The chances of an agreement are extremely slim.
+- 09/29 02:20 [financialjuice] US Source engaged in negotiations with Iran to Al Arabiya: Gaps are wide and obstacles are major

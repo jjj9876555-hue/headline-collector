@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-29 02:01 JST／対象: 09/28 02:01 〜 09/29 02:01 JST（時刻はすべて日本時間）
+生成: 2026-09-29 02:20 JST／対象: 09/28 02:20 〜 09/29 02:20 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 41 | 09/28 06:12 | 09/29 01:54 | ⚠ 562分（07:06→16:28） |
-| FirstSquawk | 265 | 09/28 02:37 | 09/29 01:45 | ⚠ 78分（08:02→09:21） |
-| financialjuice | 218 | 09/28 02:54 | 09/29 01:46 | ⚠ 124分（05:07→07:11） |
+| DeItaone | 42 | 09/28 06:12 | 09/29 02:14 | ⚠ 562分（07:06→16:28） |
+| FirstSquawk | 266 | 09/28 02:37 | 09/29 02:07 | ⚠ 78分（08:02→09:21） |
+| financialjuice | 225 | 09/28 02:54 | 09/29 02:20 | ⚠ 124分（05:07→07:11） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 513 行（統合前 527 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 522 行（統合前 537 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -537,3 +537,12 @@
 - 09/29 01:46 [DeItaone] WAIVER WOULD ALLOW PILGRIMS TO TRAVEL ON IRAQI AIRWAYS TO AND FROM IRAN FOR PILGRIMAGE FOR ONE MONTH, SOURCE SAYS
 - 09/29 01:46 [financialjuice] WH Sr. Adviser Hassett: 3-month annualized core inflation is around Fed target.
 - 09/29 01:54 [DeItaone] 36 DAYS TO MIDTERMS: DEMOCRATS HIT NEW 2026 HIGH With just 36 days until the Nov. 3 midterms, Kalshi’s American Power Index has swung sharply toward Democrats. USAGov Democrats now lead at +3.8 — their strongest level shown on the 2026 char…
+- 09/29 02:07 [FirstSquawk] TRUMP OFFERS IRAN ECONOMIC RELIEF FOR CONCRETE NUCLEAR CONCESSIONS - AXIOS
+- 09/29 02:09 [financialjuice] NYC Speaker: OpenAI, Anthropic, Google all agreed to testify
+- 09/29 02:09 [financialjuice] NYC Speaker: OpenAI, Anthropic, Google all agreed to testify $GOOGL
+- 09/29 02:11 [financialjuice] NYC Speaker: Meta also to testify $META
+- 09/29 02:12 [financialjuice] ❗ NYC Speaker: Council issued a subpoena for SpaceXAI to testify. $SPCX
+- 09/29 02:13 [financialjuice] ❗ Iran has agreed to halt uranium enrichment in exchange for the easing of US sanctions - Al Hadath citing sources
+- 09/29 02:14 [DeItaone] Iran Agrees To Suspend Uranium Enrichment In Exchange For US Sanctions Relief - Al Hadath
+- 09/29 02:19 [financialjuice] American source engaged in negotiations with Iran to Al Arabiya: The chances of an agreement are extremely slim.
+- 09/29 02:20 [financialjuice] US Source engaged in negotiations with Iran to Al Arabiya: Gaps are wide and obstacles are major

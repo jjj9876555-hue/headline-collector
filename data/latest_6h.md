@@ -7,42 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-29 02:01 JST／対象: 09/28 20:01 〜 09/29 02:01 JST（時刻はすべて日本時間）
+生成: 2026-09-29 02:20 JST／対象: 09/28 20:20 〜 09/29 02:20 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 21 | 09/28 20:05 | 09/29 01:54 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 91 | 09/28 20:01 | 09/29 01:45 | 14分（22:12→22:27） |
-| financialjuice | 110 | 09/28 20:02 | 09/29 01:46 | 21分（23:54→00:15） |
+| DeItaone | 19 | 09/28 20:38 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
+| FirstSquawk | 85 | 09/28 20:21 | 09/29 02:07 | 22分（01:45→02:07） |
+| financialjuice | 108 | 09/28 20:25 | 09/29 02:20 | 22分（01:46→02:09） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 212 行（統合前 225 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 202 行（統合前 216 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 20:01 [FirstSquawk] NVIDIA INCREASES SHARE BUYBACK APPROVAL BY $150 BILLION.
-- 09/28 20:02 [financialjuice] BoE's Ramsden: Food prices are weaker than expected them to be
-- 09/28 20:02 [financialjuice] BoE's Ramsden: We will know more about 2nd round effects at upcoming meetings
-- 09/28 20:03 [FirstSquawk] NVIDIA ANNOUNCES RECORD-BREAKING BUYBACK PLAN.
-- 09/28 20:03 [financialjuice] Nvidia marks largest buyback authorization boost in history, to execute total remaining program through FY 2028 $NVDA
-- 09/28 20:03 [financialjuice] NVIDIA to execute total remaining program through fy 2028.
-- 09/28 20:04 [financialjuice] BoE's Ramsden: We seem to be in a period of higher and longer-lasting headline inflation, which is bearing on my thinking
-- 09/28 20:04 [FirstSquawk] BOE’S RAMSDEN: FOOD PRICES WEAKER THAN EXPECTED THEM TO BE
-- 09/28 20:05 [DeItaone] NVIDIA SHARES UP 1.4% PREMARKET AFTER CO ANNOUNCES A $150 BLN SHARE REPURCHASE AUTHORIZATION INCREASE
-- 09/28 20:07 [FirstSquawk] NVIDIA WILL COMPLETE ALL REMAINING PROGRAMS BY FY 2028.
-- 09/28 20:07 [financialjuice] BoE's Ramsden: Risk of higher and longer-lasting inflation increased between July and September MPC meetings
-- 09/28 20:11 [financialjuice] Google to invest at least $15.2b in Finland over two years - Fox $GOOGL
-- 09/28 20:12 [financialjuice] Finland to expand data centers from 50 to 75 facilities - Fox $GOOGL
-- 09/28 20:12 [DeItaone] $TSLA - CANTOR STAYS BULLISH ON TESLA AHEAD OF Q3 DELIVERIES Cantor Fitzgerald reiterated its Overweight rating and $485 price target on Tesla ahead of this week’s expected Q3 delivery update. Cantor forecasts 421,758 vehicle deliveries, be…
-- 09/28 20:12 [FirstSquawk] IRAN'S SUPREME LEADER MOJTABA KHAMENEI CLAIMS IRAN IS NOT JUST A SUPERPOWER BUT THE NUMBER ONE POWER GLOBALLY, ACCORDING TO DIVINE CALCULATIONS.
-- 09/28 20:17 [FirstSquawk] SAUDI ARABIA'S EAST-WEST PIPELINE IS BACK TO EXPORTING OIL.
-- 09/28 20:17 [financialjuice] UK finance Minister Healey: We will meet fiscal rules
-- 09/28 20:19 [FirstSquawk] SAUDI ARABIA ISSUES WARNING ALERT IN JAZAN, NAJRAN
-- 09/28 20:19 [DeItaone] SAUDI ARABIA'S EAST-WEST PIPELINE HAS RESUMED OIL EXPORTS
 - 09/28 20:21 [FirstSquawk] SAUDI CIVIL DEFENCE SAYS DANGER HAS PASSED IN JAZAN AND NAJRAN - STATE TV
 - 09/28 20:25 [FirstSquawk] UK CHANCELLOR HEALEY: THE CORE OF THE BUDGET WILL BE FISCAL DISCIPLINE
 - 09/28 20:25 [financialjuice] UK Finance Minister Healey: It falls to us to act to reduce the welfare bill
@@ -236,3 +217,12 @@
 - 09/29 01:46 [DeItaone] WAIVER WOULD ALLOW PILGRIMS TO TRAVEL ON IRAQI AIRWAYS TO AND FROM IRAN FOR PILGRIMAGE FOR ONE MONTH, SOURCE SAYS
 - 09/29 01:46 [financialjuice] WH Sr. Adviser Hassett: 3-month annualized core inflation is around Fed target.
 - 09/29 01:54 [DeItaone] 36 DAYS TO MIDTERMS: DEMOCRATS HIT NEW 2026 HIGH With just 36 days until the Nov. 3 midterms, Kalshi’s American Power Index has swung sharply toward Democrats. USAGov Democrats now lead at +3.8 — their strongest level shown on the 2026 char…
+- 09/29 02:07 [FirstSquawk] TRUMP OFFERS IRAN ECONOMIC RELIEF FOR CONCRETE NUCLEAR CONCESSIONS - AXIOS
+- 09/29 02:09 [financialjuice] NYC Speaker: OpenAI, Anthropic, Google all agreed to testify
+- 09/29 02:09 [financialjuice] NYC Speaker: OpenAI, Anthropic, Google all agreed to testify $GOOGL
+- 09/29 02:11 [financialjuice] NYC Speaker: Meta also to testify $META
+- 09/29 02:12 [financialjuice] ❗ NYC Speaker: Council issued a subpoena for SpaceXAI to testify. $SPCX
+- 09/29 02:13 [financialjuice] ❗ Iran has agreed to halt uranium enrichment in exchange for the easing of US sanctions - Al Hadath citing sources
+- 09/29 02:14 [DeItaone] Iran Agrees To Suspend Uranium Enrichment In Exchange For US Sanctions Relief - Al Hadath
+- 09/29 02:19 [financialjuice] American source engaged in negotiations with Iran to Al Arabiya: The chances of an agreement are extremely slim.
+- 09/29 02:20 [financialjuice] US Source engaged in negotiations with Iran to Al Arabiya: Gaps are wide and obstacles are major
