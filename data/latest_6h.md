@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-28 21:24 JST／対象: 09/28 15:24 〜 09/28 21:24 JST（時刻はすべて日本時間）
+生成: 2026-09-28 21:51 JST／対象: 09/28 15:51 〜 09/28 21:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 21 | 09/28 16:28 | 09/28 20:42 | ⚠ 50分（17:23→18:13） |
-| FirstSquawk | 79 | 09/28 15:24 | 09/28 21:23 | 27分（16:10→16:38） |
-| financialjuice | 62 | 09/28 15:41 | 09/28 21:09 | ⚠ 54分（16:02→16:56） |
+| FirstSquawk | 81 | 09/28 15:51 | 09/28 21:49 | 27分（16:10→16:38） |
+| financialjuice | 65 | 09/28 16:02 | 09/28 21:49 | ⚠ 54分（16:02→16:56） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 160 行（統合前 162 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 164 行（統合前 167 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 15:24 [FirstSquawk] UK’s Streeting: State-backed actors could seek to harm Britain, requiring continued vigilance
-- 09/28 15:25 [FirstSquawk] UK’s Streeting declines to speculate on motives behind arrests
-- 09/28 15:27 [FirstSquawk] Deutsche Bank cuts PepsiCo rating to Hold from Buy and price target to $138 from $155
-- 09/28 15:41 [financialjuice] Qatar extends LNG force majeure for Pakistan into November
-- 09/28 15:48 [financialjuice] BoE's Dhingra: Worry that high rates would hit investment and lower supply
-- 09/28 15:51 [FirstSquawk] HSBC says euro weighed down by rate uncertainty and elevated energy costs-fx
 - 09/28 15:51 [FirstSquawk] Silver prices slide as markets react to the Fed’s hawkish rate outlook-fx
 - 09/28 16:02 [financialjuice] Currency Strength Chart: Strongest: USD, NZD, GBP, AUD, CAD, GBP, EUR, CHF - Weakest
 - 09/28 16:02 [FirstSquawk] SPAIN (JUL) TOTAL MORTGAGE LENDING YOY ACTUAL: 19.0% VS 27.4% PREVIOUS
@@ -184,3 +178,13 @@
 - 09/28 21:09 [financialjuice] Morning Juice – US Session Prep (28th September)
 - 09/28 21:22 [FirstSquawk] MANY GERMANS VIEW CHANCELLOR FRIEDRICH MERZ AS DISTANT, AGGRESSIVE, AND NOT EMPATHETIC.
 - 09/28 21:23 [FirstSquawk] HUNGARY DEBT CHIEF: EXPECTING EU FUNDS TO ARRIVE BY YEAR-END
+- 09/28 21:25 [FirstSquawk/financialjuice] IRAN REJECTS 'SPECULATIONS' ABOUT INCIDENT IN UK'S RAF FAIRFORD
+- 09/28 21:28 [FirstSquawk] TSMC'S PARTNER PLANS TO EXPAND AFTER FIRST SINGAPORE FACTORY SELLS OUT; SECOND PLANT IN THE WORKS DUE TO HIGH DEMAND FOR AI CHIPS.
+- 09/28 21:30 [FirstSquawk] OFFICIALS SAY MEDIATORS ARE STILL WORKING WITH IRAN AND THE US ON A POSSIBLE DEAL - AP
+- 09/28 21:37 [financialjuice] Meta CEO Zuckerberg: Starting major new pillar of our business today. Starting Meta enterprise platform.
+- 09/28 21:38 [financialjuice] Facebook's CEO Zuckerberg: To help businesses use AI to grow in new ways $META
+- 09/28 21:45 [FirstSquawk] META ZUCKERBERG: STARTING META ENTERPRISE PLATFORM || STARTING MAJOR NEW PILLAR OF OUR BUSINESS TODAY
+- 09/28 21:46 [FirstSquawk] OIL TRANSPORT VIA SAUDI ARABIA'S EAST-WEST PIPELINE HITS APPROXIMATELY 3.5 MILLION BARRELS PER DAY.
+- 09/28 21:46 [financialjuice] Oil flows through Saudi East-West pipeline reach about 3.5m b/d.
+- 09/28 21:49 [financialjuice] US House Speaker Johnson: We need Taiwan to be stable and independent
+- 09/28 21:49 [FirstSquawk] US HOUSE SPEAKER JOHNSON: WE NEED TAIWAN TO BE STABLE, INDEPENDENT

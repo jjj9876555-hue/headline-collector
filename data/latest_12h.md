@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-28 21:24 JST／対象: 09/28 09:24 〜 09/28 21:24 JST（時刻はすべて日本時間）
+生成: 2026-09-28 21:51 JST／対象: 09/28 09:51 〜 09/28 21:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 21 | 09/28 16:28 | 09/28 20:42 | ⚠ 50分（17:23→18:13） |
-| FirstSquawk | 165 | 09/28 09:27 | 09/28 21:23 | 27分（16:10→16:38） |
-| financialjuice | 92 | 09/28 09:30 | 09/28 21:09 | ⚠ 115分（11:30→13:26） |
+| FirstSquawk | 160 | 09/28 09:54 | 09/28 21:49 | 27分（16:10→16:38） |
+| financialjuice | 94 | 09/28 10:06 | 09/28 21:49 | ⚠ 115分（11:30→13:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 276 行（統合前 278 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 272 行（統合前 275 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 09:27 [FirstSquawk] 30-year JGB yield rises 1.0bp to 4.165%
-- 09/28 09:30 [financialjuice] Momenta: two firms to jointly develop enhanced driver-assistance system for new mass-produced Peugeot and Jeep models
-- 09/28 09:30 [financialjuice] Momenta: technology to be deployed in China, Europe and other worldwide markets
-- 09/28 09:30 [financialjuice] Momenta enters global strategic alliance with Dongfeng Stellantis automotive technology (Wuhan) Co
-- 09/28 09:31 [FirstSquawk] Asia-Pacific markets open the week cautiously after Trump rejects Iran proposal while signaling renewed talks
-- 09/28 09:32 [FirstSquawk] Gold prices slide more than 1%, with spot gold at $4,233.12/oz
-- 09/28 09:33 [FirstSquawk] GLOBAL MARKETS OPENED THE WEEK UNDER PRESSURE AFTER PRESIDENT TRUMP REJECTED IRAN'S LATEST PROPOSAL TO REOPEN THE STRAIT OF HORMUZ, LIFTING BRENT CRUDE TO AROUND $105.70 AND WTI TO $93.26, WITH RISING OIL PRICES FUELING INFLATION CONCERNS A…
-- 09/28 09:33 [FirstSquawk] MARKETS ALSO REACTED TO TRUMP'S COMMENTS THAT HE EXPECTS IRAN NEGOTIATIONS TO RESUME THIS WEEK DESPITE REJECTING TEHRAN'S OFFER AND THAT HE IS 'VERY SERIOUSLY' CONSIDERING A U.S. DIESEL EXPORT BAN — A MOVE THAT COULD TIGHTEN GLOBAL FUEL SUP…
-- 09/28 09:34 [FirstSquawk] Startup Red Queen Bio turns to AI to prepare antibody drugs for future pandemics - WSJ
-- 09/28 09:35 [FirstSquawk] Prada looks to attract ultra-wealthy shoppers with high-end experiences and $100,000 designs - WSJ
-- 09/28 09:36 [FirstSquawk] US SAYS NO PLANS TO SELL WEAPONS TO CHINA AFTER PERDUE COMMENTS – WSJ
-- 09/28 09:39 [FirstSquawk] Australian dollar slips toward 0.7000 as hawkish Fed signals weigh ahead of RBA decision - FX
-- 09/28 09:50 [FirstSquawk] Seoul equities start lower despite overnight gains on Wall Street
-- 09/28 09:51 [FirstSquawk] Seoul voices strong regret over Ukraine’s denial of nondisclosure deal involving North Korean POWs - YONHAP
 - 09/28 09:54 [FirstSquawk] Tokyo Metro says data breach may have exposed 59,000 customer email addresses
 - 09/28 09:58 [FirstSquawk] Darwin Port lease sparks fresh tensions between Australia and China - KYODO
 - 09/28 10:01 [FirstSquawk] POLITICO - Trump administration airs campaign-style Trump ad as taxpayer-funded messaging expands
@@ -300,3 +286,13 @@
 - 09/28 21:09 [financialjuice] Morning Juice – US Session Prep (28th September)
 - 09/28 21:22 [FirstSquawk] MANY GERMANS VIEW CHANCELLOR FRIEDRICH MERZ AS DISTANT, AGGRESSIVE, AND NOT EMPATHETIC.
 - 09/28 21:23 [FirstSquawk] HUNGARY DEBT CHIEF: EXPECTING EU FUNDS TO ARRIVE BY YEAR-END
+- 09/28 21:25 [FirstSquawk/financialjuice] IRAN REJECTS 'SPECULATIONS' ABOUT INCIDENT IN UK'S RAF FAIRFORD
+- 09/28 21:28 [FirstSquawk] TSMC'S PARTNER PLANS TO EXPAND AFTER FIRST SINGAPORE FACTORY SELLS OUT; SECOND PLANT IN THE WORKS DUE TO HIGH DEMAND FOR AI CHIPS.
+- 09/28 21:30 [FirstSquawk] OFFICIALS SAY MEDIATORS ARE STILL WORKING WITH IRAN AND THE US ON A POSSIBLE DEAL - AP
+- 09/28 21:37 [financialjuice] Meta CEO Zuckerberg: Starting major new pillar of our business today. Starting Meta enterprise platform.
+- 09/28 21:38 [financialjuice] Facebook's CEO Zuckerberg: To help businesses use AI to grow in new ways $META
+- 09/28 21:45 [FirstSquawk] META ZUCKERBERG: STARTING META ENTERPRISE PLATFORM || STARTING MAJOR NEW PILLAR OF OUR BUSINESS TODAY
+- 09/28 21:46 [FirstSquawk] OIL TRANSPORT VIA SAUDI ARABIA'S EAST-WEST PIPELINE HITS APPROXIMATELY 3.5 MILLION BARRELS PER DAY.
+- 09/28 21:46 [financialjuice] Oil flows through Saudi East-West pipeline reach about 3.5m b/d.
+- 09/28 21:49 [financialjuice] US House Speaker Johnson: We need Taiwan to be stable and independent
+- 09/28 21:49 [FirstSquawk] US HOUSE SPEAKER JOHNSON: WE NEED TAIWAN TO BE STABLE, INDEPENDENT
