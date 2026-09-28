@@ -7,46 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-29 07:04 JST／対象: 09/28 19:04 〜 09/29 07:04 JST（時刻はすべて日本時間）
+生成: 2026-09-29 07:24 JST／対象: 09/28 19:24 〜 09/29 07:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 32 | 09/28 19:06 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 159 | 09/28 19:11 | 09/29 05:29 | 31分（02:57→03:29） |
-| financialjuice | 205 | 09/28 19:04 | 09/29 07:02 | 23分（06:11→06:35） |
+| DeItaone | 28 | 09/28 19:34 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
+| FirstSquawk | 149 | 09/28 19:25 | 09/29 05:29 | 31分（02:57→03:29） |
+| financialjuice | 202 | 09/28 19:29 | 09/29 07:21 | 23分（06:11→06:35） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 381 行（統合前 400 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 364 行（統合前 383 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 19:04 [financialjuice] BoE's Ramsden: Risks to the inflation outlook, whether external or domestically generated, have tilted more to the upside
-- 09/28 19:05 [financialjuice] BoE's Ramsden: Were upside pressures on the inflation outlook to continue to build, there could be a case for increasing the bank rate
-- 09/28 19:05 [financialjuice] BoE's Ramsden: Case for hike if upside pressures persist
-- 09/28 19:05 [financialjuice] BoE's Ramsden: Focus is on energy prices
-- 09/28 19:05 [financialjuice] BoE's Ramsden: Current stance continues to provide restriction
-- 09/28 19:05 [financialjuice] BoE's Ramsden: Also looking at domestic food prices and wage settlements.
-- 09/28 19:06 [DeItaone] *UKRAINE DOESN'T EXPECT BLACK SEA CEASEFIRE IN COMING MONTHS
-- 09/28 19:08 [financialjuice] Japan Bank for International Cooperation: To issue Euro-denominated guaranteed bonds - SEC filing
-- 09/28 19:08 [DeItaone] POPE LEO URGES EUROPE TO INTEGRATE MIGRANTS, AS IF FAMILY MEMBERS, OFFERING THEM OPPORTUNITIES FOR BETTER LIFE
-- 09/28 19:11 [financialjuice] BoE's Ramsden: BoE QT changes in September have been well understood and well received by markets
-- 09/28 19:11 [FirstSquawk] BOE'S RAMSDEN STATES QT PLAN OFFERS A CREDIBLE AND LOGICAL STRATEGY.
-- 09/28 19:11 [FirstSquawk] BOE'S RAMSDEN SAYS INTEREST RATE INCREASE MAY BE NECESSARY IF INFLATIONARY PRESSURES CONTINUE.
-- 09/28 19:11 [FirstSquawk] RAMSDEN NOTES FOCUS ON LOCAL FOOD COSTS AND WAGE AGREEMENTS.
-- 09/28 19:11 [FirstSquawk] BOE'S RAMSDEN NOTED THAT INFLATION RISKS ARE NOW MORE LIKELY TO INCREASE.
-- 09/28 19:12 [FirstSquawk] XI EMPHASIZES THE IMPORTANCE OF PROMOTING A PEACEFUL CHINA INITIATIVE.
-- 09/28 19:12 [FirstSquawk] XT EMPHASIZES THE IMPORTANCE OF A PEACEFUL CHINA INITIATIVE FOR MODERNIZATION.
-- 09/28 19:12 [FirstSquawk] PBOC WILL DIRECT FINANCIAL RESOURCES TOWARD THE SERVICE SECTOR.
-- 09/28 19:12 [FirstSquawk] PBOC PLANS TO BOOST CREDIT AID FOR SERVICE SECTOR.
-- 09/28 19:13 [DeItaone] US CRUDE FUTURES GAIN OVER 4% TO HIT A SESSION HIGH OF $96.44/BBL ON STALLED U.S.-IRAN PEACE EFFORTS
-- 09/28 19:15 [FirstSquawk] US CRUDE FUTURES JUMPED MORE THAN 4%, REACHING A SESSION PEAK OF $96.44 PER BARREL DUE TO HALTED PEACE TALKS BETWEEN THE U.S. AND IRAN.
-- 09/28 19:15 [FirstSquawk] RAMSDEN ANNOUNCED THAT THE BANK OF ENGLAND WILL BEGIN SELLING GILTS WITH MATURITIES RANGING FROM 2033 TO 2049.
-- 09/28 19:15 [financialjuice] BoE's Ramsden: BoE sales to start with longest maturity 2035-49 gilts
-- 09/28 19:21 [DeItaone] $6.52 DIESEL SQUEEZES U.S. FISHING FLEETS U.S. diesel prices have climbed to $6.529 per gallon, marking an 11th consecutive weekly increase and hammering fishing-industry margins. Fishermen from Cape Cod to Alabama are cutting activity as f…
 - 09/28 19:25 [FirstSquawk] EU COMMISSION SPOKESPERSON: COMMISSION PLANS TO PROPOSE A POSTPONEMENT OF THE ENTRY INTO FORCE OF THE METHANE REGULATION
 - 09/28 19:29 [financialjuice] EU Commission spokesperson: Commission plans to propose a postponement of the entry into force of the methane regulation, we are now working on this at a technical level
 - 09/28 19:34 [DeItaone] LOUD EXPLOSION WAS HEARD IN CENTRAL KYIV, REUTERS WITNESSES SAY
@@ -405,3 +382,9 @@
 - 09/29 07:01 [financialjuice] OpenAI halts launch of new AI model over safety worries: WSJ
 - 09/29 07:02 [financialjuice] OpenAI planned to release model GPT-6.1 Astra in coming days or weeks, aiming for October debut: WSJ
 - 09/29 07:02 [financialjuice] OpenAI: will concentrate on enhancing safety of future models expected to be more advanced - WSJ
+- 09/29 07:09 [financialjuice] Firmus and Meta announce strategic AI infrastructure deals across Asia-Pacific
+- 09/29 07:15 [financialjuice] Nuobikan artificial intelligence technology (Chengdu) enters placement deal for 16.5 mln new H shares at HK$8.19 each
+- 09/29 07:19 [financialjuice] Iran's Aragchi: hopes US final answer through Qatari mediators by Tuesday, IRNA reports
+- 09/29 07:19 [financialjuice] Iran's Foreign Minister Aragchi: Tehran held talks with Qatari mediators on ways to meet Iran's demands
+- 09/29 07:20 [financialjuice] Iran's Aragchi: Qatari mediators to present ideas to US side - IRNA
+- 09/29 07:21 [financialjuice] Iran's Aragchi: Qatari and Pakistani mediation channels intensify after Iran unveils plan

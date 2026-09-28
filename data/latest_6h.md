@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-29 07:04 JST／対象: 09/29 01:04 〜 09/29 07:04 JST（時刻はすべて日本時間）
+生成: 2026-09-29 07:24 JST／対象: 09/29 01:24 〜 09/29 07:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/29 01:39 | 09/29 02:14 | 20分（01:54→02:14） |
-| FirstSquawk | 65 | 09/29 01:09 | 09/29 05:29 | 31分（02:57→03:29） |
-| financialjuice | 98 | 09/29 01:17 | 09/29 07:02 | 23分（06:11→06:35） |
+| FirstSquawk | 61 | 09/29 01:26 | 09/29 05:29 | 31分（02:57→03:29） |
+| financialjuice | 100 | 09/29 01:27 | 09/29 07:21 | 23分（06:11→06:35） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 166 行（統合前 175 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 164 行（統合前 173 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 01:09 [FirstSquawk] IRAN'S MILITARY AND SUPPORTING GROUPS WILL PROVIDE A "DEVASTATING RESPONSE" TO ANY THREAT, SAID ARMED FORCES CHIEF ALI ABDOLLAHI. HE STATED THAT TEHRAN'S NETWORK IN THE REGION HAS BECOME MORE STRATEGICALLY INTEGRATED EVEN AFTER THE DEATH OF…
-- 09/29 01:09 [FirstSquawk] ABDOLLAHI STATED THAT THE U.S. AND ISRAEL ANTICIPATED NASRALLAH'S DEATH WOULD LEAD TO THE COLLAPSE OF THE "RESISTANCE" FRONT, BUT THEY WERE WRONG.
-- 09/29 01:09 [FirstSquawk] HE STATED THAT THE NETWORK REMAINED STRONG AND HAD SUCCESSFULLY COMPLETED BOTH OPEN AND HIDDEN “STRATEGIC INTEGRATION,” NOTING NASRALLAH’S CONTINUED INFLUENCE IN LEBANON, PALESTINE, YEMEN, AND IRAQ.
-- 09/29 01:17 [financialjuice] ❗ US Official to Al Jazeera: We continue a positive discussion with Iran through intermediaries; there will be no agreement without addressing the nuclear issue
-- 09/29 01:20 [financialjuice] ❗ US official tells Al Jazeera: Trump Ready to Ease Sanctions, Release Frozen Assets for Nuclear Progress
-- 09/29 01:22 [financialjuice] US official to Al Jazeera: Need guarantees this time that Iran is serious and not just seeking to escape the difficult situation it is suffering from.
-- 09/29 01:24 [financialjuice] WH Sr. Adviser Hassett: Estimate productivity growth right now about 2.5%.
-- 09/29 01:24 [FirstSquawk] US OFFICIAL: TRUMP READY TO EASE IRAN SANCTIONS, UNFREEZE ASSETS FOR NUCLEAR PROGRESS
 - 09/29 01:26 [FirstSquawk] US HASSETT: ESTIMATE PRODUCTIVITY GROWTH RIGHT NOW ABOUT 2.5%
 - 09/29 01:26 [FirstSquawk] HASSETT: BASE CASE ON GDP GROWTH, SHOULD BE AROUND 4%
 - 09/29 01:27 [financialjuice] WH Sr. Adviser Hassett: Base case on GDP growth, should be around 4%.
@@ -190,3 +182,9 @@
 - 09/29 07:01 [financialjuice] OpenAI halts launch of new AI model over safety worries: WSJ
 - 09/29 07:02 [financialjuice] OpenAI planned to release model GPT-6.1 Astra in coming days or weeks, aiming for October debut: WSJ
 - 09/29 07:02 [financialjuice] OpenAI: will concentrate on enhancing safety of future models expected to be more advanced - WSJ
+- 09/29 07:09 [financialjuice] Firmus and Meta announce strategic AI infrastructure deals across Asia-Pacific
+- 09/29 07:15 [financialjuice] Nuobikan artificial intelligence technology (Chengdu) enters placement deal for 16.5 mln new H shares at HK$8.19 each
+- 09/29 07:19 [financialjuice] Iran's Aragchi: hopes US final answer through Qatari mediators by Tuesday, IRNA reports
+- 09/29 07:19 [financialjuice] Iran's Foreign Minister Aragchi: Tehran held talks with Qatari mediators on ways to meet Iran's demands
+- 09/29 07:20 [financialjuice] Iran's Aragchi: Qatari mediators to present ideas to US side - IRNA
+- 09/29 07:21 [financialjuice] Iran's Aragchi: Qatari and Pakistani mediation channels intensify after Iran unveils plan

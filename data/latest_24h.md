@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-29 07:04 JST／対象: 09/28 07:04 〜 09/29 07:04 JST（時刻はすべて日本時間）
+生成: 2026-09-29 07:24 JST／対象: 09/28 07:24 〜 09/29 07:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 39 | 09/28 07:06 | 09/29 02:14 | ⚠ 562分（07:06→16:28） |
-| FirstSquawk | 294 | 09/28 07:06 | 09/29 05:29 | ⚠ 78分（08:02→09:21） |
-| financialjuice | 284 | 09/28 07:11 | 09/29 07:02 | ⚠ 115分（11:30→13:26） |
+| DeItaone | 38 | 09/28 16:28 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
+| FirstSquawk | 293 | 09/28 08:02 | 09/29 05:29 | ⚠ 78分（08:02→09:21） |
+| financialjuice | 289 | 09/28 08:51 | 09/29 07:21 | ⚠ 115分（11:30→13:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 602 行（統合前 621 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 605 行（統合前 624 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 07:06 [DeItaone] OIL PRICES REBOUND MORE THAN 1% AFTER TRUMP REJECTS IRAN PEACE DEAL TO REOPEN STRAIT OF HORMUZ
-- 09/28 07:06 [FirstSquawk] US STOCK FUTURES EDGE LOWER: S&P 500 FUTURES -0.1%, NASDAQ FUTURES -0.1%
-- 09/28 07:11 [financialjuice] Being Eswin computing technology announces 1.57 billion H shares offered globally
 - 09/28 08:02 [FirstSquawk] U.K. BUSINESS SECRETARY JONATHAN REYNOLDS SAYS A FULL U.S. DIESEL EXPORT BAN WOULD BE A “SIGNIFICANT CONCERN” FOR BRITAIN, WHICH SOURCES ABOUT ONE-SIXTH OF ITS DIESEL FROM THE U.S., THOUGH HE STRESSED THE U.K. HAS A DIVERSE FUEL SUPPLY.
 - 09/28 08:02 [FirstSquawk] THE U.S. IS CONSIDERING A 90-DAY DIESEL EXPORT BAN OR MORE LIMITED VOLUNTARY RESTRICTIONS AMID HIGH DOMESTIC FUEL PRICES, WHILE FRENCH PRESIDENT EMMANUEL MACRON HAS ALSO WARNED TRUMP AGAINST SUCH MEASURES.
 - 09/28 08:51 [financialjuice] BOJ july meeting minutes: members agreed financial conditions remain accommodative
@@ -626,3 +623,9 @@
 - 09/29 07:01 [financialjuice] OpenAI halts launch of new AI model over safety worries: WSJ
 - 09/29 07:02 [financialjuice] OpenAI planned to release model GPT-6.1 Astra in coming days or weeks, aiming for October debut: WSJ
 - 09/29 07:02 [financialjuice] OpenAI: will concentrate on enhancing safety of future models expected to be more advanced - WSJ
+- 09/29 07:09 [financialjuice] Firmus and Meta announce strategic AI infrastructure deals across Asia-Pacific
+- 09/29 07:15 [financialjuice] Nuobikan artificial intelligence technology (Chengdu) enters placement deal for 16.5 mln new H shares at HK$8.19 each
+- 09/29 07:19 [financialjuice] Iran's Aragchi: hopes US final answer through Qatari mediators by Tuesday, IRNA reports
+- 09/29 07:19 [financialjuice] Iran's Foreign Minister Aragchi: Tehran held talks with Qatari mediators on ways to meet Iran's demands
+- 09/29 07:20 [financialjuice] Iran's Aragchi: Qatari mediators to present ideas to US side - IRNA
+- 09/29 07:21 [financialjuice] Iran's Aragchi: Qatari and Pakistani mediation channels intensify after Iran unveils plan
