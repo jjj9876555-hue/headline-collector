@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-28 18:21 JST／対象: 09/28 12:21 〜 09/28 18:21 JST（時刻はすべて日本時間）
+生成: 2026-09-28 18:39 JST／対象: 09/28 12:39 〜 09/28 18:39 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 4 | 09/28 16:28 | 09/28 18:13 | ⚠ 50分（17:23→18:13） |
-| FirstSquawk | 65 | 09/28 12:25 | 09/28 18:21 | 27分（16:10→16:38） |
+| DeItaone | 5 | 09/28 16:28 | 09/28 18:22 | ⚠ 50分（17:23→18:13） |
+| FirstSquawk | 66 | 09/28 12:41 | 09/28 18:29 | 27分（16:10→16:38） |
 | financialjuice | 20 | 09/28 13:26 | 09/28 18:20 | ⚠ 59分（14:00→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 89 行（統合前 89 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 91 行（統合前 91 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 12:25 [FirstSquawk] JPMorgan boosts Dassault Aviation target by €25 to €350
-- 09/28 12:33 [FirstSquawk] Swiss franc falls to fresh low since May 2025 near 0.8300 against dollar - FX
 - 09/28 12:41 [FirstSquawk] Paul Chan says Hong Kong aims to close strategic-sector company deals in coming months - SCMP
 - 09/28 12:54 [FirstSquawk] Thailand August domestic auto sales surge 25.59% from a year earlier
 - 09/28 13:04 [FirstSquawk] EU COUNTRIES CONSIDER NATO-STYLE JOINT RESPONSES TO RUSSIAN HYBRID ATTACKS – FT
@@ -113,3 +111,7 @@
 - 09/28 18:20 [financialjuice] Kremlin: US-Russia arms talks should have been resumed; the situation is so complex that long negotiations will be needed when they do resume.
 - 09/28 18:21 [FirstSquawk] KREMLIN STATES THAT UKRAINE MUST FACE CONSEQUENCES FOR ITS RECENT ACTIVITIES.
 - 09/28 18:21 [FirstSquawk] KREMLIN STATES THAT US-RUSSIA ARMS DISCUSSIONS SHOULD CONTINUE AS THE SITUATION IS COMPLICATED AND WILL REQUIRE EXTENSIVE NEGOTIATIONS ONCE RESTARTED.
+- 09/28 18:22 [DeItaone] KREMLIN: UKRAINE WILL HAVE TO PAY THE PRICE FOR ITS ACTIONS IN RECENT MONTHS, THIS IS WHAT IS HAPPENING NOW
+- 09/28 18:23 [FirstSquawk] STREETING SAYS WE NEED TO STEP UP, SPEND MORE ON DEFENSE
+- 09/28 18:23 [FirstSquawk] STREETING: REITERATES 3.5% SPEND ON DEFENSE BY 2035
+- 09/28 18:29 [FirstSquawk] STREETING SAYS UK COMMITS TO KEEPING NUKE SUB CONTRACT IN BRITAIN

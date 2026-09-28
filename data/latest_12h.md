@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-28 18:21 JST／対象: 09/28 06:21 〜 09/28 18:21 JST（時刻はすべて日本時間）
+生成: 2026-09-28 18:39 JST／対象: 09/28 06:39 〜 09/28 18:39 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 7 | 09/28 06:27 | 09/28 18:13 | ⚠ 562分（07:06→16:28） |
-| FirstSquawk | 125 | 09/28 07:06 | 09/28 18:21 | ⚠ 78分（08:02→09:21） |
+| DeItaone | 6 | 09/28 07:06 | 09/28 18:22 | ⚠ 562分（07:06→16:28） |
+| FirstSquawk | 128 | 09/28 07:06 | 09/28 18:29 | ⚠ 78分（08:02→09:21） |
 | financialjuice | 74 | 09/28 07:11 | 09/28 18:20 | ⚠ 115分（11:30→13:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 206 行（統合前 206 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 208 行（統合前 208 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 06:27 [DeItaone] *TRUMP ON DIESEL EXPORT BAN: THINKING OF IT VERY SERIOUSLY
-- 09/28 06:27 [DeItaone] *TRUMP: DIESEL EXPORT BAN MAY CAUSE A LITTLE CAR GASOLINE RISE
 - 09/28 07:06 [DeItaone] OIL PRICES REBOUND MORE THAN 1% AFTER TRUMP REJECTS IRAN PEACE DEAL TO REOPEN STRAIT OF HORMUZ
 - 09/28 07:06 [FirstSquawk] US STOCK FUTURES EDGE LOWER: S&P 500 FUTURES -0.1%, NASDAQ FUTURES -0.1%
 - 09/28 07:11 [financialjuice] Being Eswin computing technology announces 1.57 billion H shares offered globally
@@ -230,3 +228,7 @@
 - 09/28 18:20 [financialjuice] Kremlin: US-Russia arms talks should have been resumed; the situation is so complex that long negotiations will be needed when they do resume.
 - 09/28 18:21 [FirstSquawk] KREMLIN STATES THAT UKRAINE MUST FACE CONSEQUENCES FOR ITS RECENT ACTIVITIES.
 - 09/28 18:21 [FirstSquawk] KREMLIN STATES THAT US-RUSSIA ARMS DISCUSSIONS SHOULD CONTINUE AS THE SITUATION IS COMPLICATED AND WILL REQUIRE EXTENSIVE NEGOTIATIONS ONCE RESTARTED.
+- 09/28 18:22 [DeItaone] KREMLIN: UKRAINE WILL HAVE TO PAY THE PRICE FOR ITS ACTIONS IN RECENT MONTHS, THIS IS WHAT IS HAPPENING NOW
+- 09/28 18:23 [FirstSquawk] STREETING SAYS WE NEED TO STEP UP, SPEND MORE ON DEFENSE
+- 09/28 18:23 [FirstSquawk] STREETING: REITERATES 3.5% SPEND ON DEFENSE BY 2035
+- 09/28 18:29 [FirstSquawk] STREETING SAYS UK COMMITS TO KEEPING NUKE SUB CONTRACT IN BRITAIN
