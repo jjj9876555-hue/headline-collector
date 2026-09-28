@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-28 12:54 JST／対象: 09/27 12:54 〜 09/28 12:54 JST（時刻はすべて日本時間）
+生成: 2026-09-28 13:19 JST／対象: 09/27 13:19 〜 09/28 13:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 09/28 00:04 | 09/28 07:06 | ⚠ 368分（00:04→06:12） |
-| FirstSquawk | 193 | 09/27 12:56 | 09/28 12:54 | ⚠ 78分（08:02→09:21） |
+| FirstSquawk | 191 | 09/27 13:22 | 09/28 13:04 | ⚠ 78分（08:02→09:21） |
 | financialjuice | 93 | 09/27 16:30 | 09/28 11:30 | ⚠ 145分（00:29→02:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 280 行（統合前 292 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 278 行（統合前 290 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 12:56 [FirstSquawk] South Korea posts tourism deficit in July after four consecutive months of surplus - YONHAP
-- 09/27 13:00 [FirstSquawk] Morgan Stanley’s Slimmon sees stronger opportunities outside U.S. as earnings outlook improves - CNBC
-- 09/27 13:08 [FirstSquawk] U.S. nonimmigrant visas for South Koreans decline nearly 8% in 2025 after Trump takes office: data - YONHAP
-- 09/27 13:15 [FirstSquawk] Bangkok sees floodwaters subside as officials step up canal drainage efforts
 - 09/27 13:22 [FirstSquawk] Indonesia’s coffee industry faces mounting heat from climate change - NA
 - 09/27 13:27 [FirstSquawk] Prices of older supertankers soar above new vessels as tanker market booms — FT
 - 09/27 13:35 [FirstSquawk] Investor withdrawals slow as turmoil in private credit market eases — FT
@@ -304,3 +300,5 @@
 - 09/28 12:33 [FirstSquawk] Swiss franc falls to fresh low since May 2025 near 0.8300 against dollar - FX
 - 09/28 12:41 [FirstSquawk] Paul Chan says Hong Kong aims to close strategic-sector company deals in coming months - SCMP
 - 09/28 12:54 [FirstSquawk] Thailand August domestic auto sales surge 25.59% from a year earlier
+- 09/28 13:04 [FirstSquawk] EU COUNTRIES CONSIDER NATO-STYLE JOINT RESPONSES TO RUSSIAN HYBRID ATTACKS – FT
+- 09/28 13:04 [FirstSquawk] GM WARNS ON US MARKET AS CARMAKERS SEEK ‘SAFE HAVEN’ FROM CHINESE RIVALS – FT

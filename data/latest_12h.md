@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-28 12:54 JST／対象: 09/28 00:54 〜 09/28 12:54 JST（時刻はすべて日本時間）
+生成: 2026-09-28 13:19 JST／対象: 09/28 01:19 〜 09/28 13:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/28 06:12 | 09/28 07:06 | 39分（06:27→07:06） |
-| FirstSquawk | 93 | 09/28 01:15 | 09/28 12:54 | ⚠ 78分（08:02→09:21） |
+| FirstSquawk | 91 | 09/28 01:38 | 09/28 13:04 | ⚠ 78分（08:02→09:21） |
 | financialjuice | 66 | 09/28 02:54 | 09/28 11:30 | ⚠ 124分（05:07→07:11） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 163 行（統合前 163 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 161 行（統合前 161 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 01:15 [FirstSquawk] South Korea expresses strong regret over Ukraine's refusal of nondisclosure agreement on North Korean POWs - Yonhap
-- 09/28 01:15 [FirstSquawk] South Korean presidency: country contemplating extra actions on issue - Yonhap
-- 09/28 01:16 [FirstSquawk] China considers permitting ByteDance, Alibaba to buy new Nvidia chips - The Information
-- 09/28 01:16 [FirstSquawk] Anthropic's Dario Amodei to attend White House dinner with Trump: Axios
 - 09/28 01:38 [FirstSquawk] Iranian President: If America accepts the legal frameworks and our rights, we have no dispute with them; otherwise, we will never back down.
 - 09/28 01:38 [FirstSquawk] WSJ, citing a US official: Threat level raised at British base Fairford Saturday evening
 - 09/28 01:39 [FirstSquawk] WSJ, citing a US official: Fairford base is a key launchpad for military operations targeting Iran
@@ -187,3 +183,5 @@
 - 09/28 12:33 [FirstSquawk] Swiss franc falls to fresh low since May 2025 near 0.8300 against dollar - FX
 - 09/28 12:41 [FirstSquawk] Paul Chan says Hong Kong aims to close strategic-sector company deals in coming months - SCMP
 - 09/28 12:54 [FirstSquawk] Thailand August domestic auto sales surge 25.59% from a year earlier
+- 09/28 13:04 [FirstSquawk] EU COUNTRIES CONSIDER NATO-STYLE JOINT RESPONSES TO RUSSIAN HYBRID ATTACKS – FT
+- 09/28 13:04 [FirstSquawk] GM WARNS ON US MARKET AS CARMAKERS SEEK ‘SAFE HAVEN’ FROM CHINESE RIVALS – FT

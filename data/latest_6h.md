@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-28 12:54 JST／対象: 09/28 06:54 〜 09/28 12:54 JST（時刻はすべて日本時間）
+生成: 2026-09-28 13:19 JST／対象: 09/28 07:19 〜 09/28 13:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 1 | 09/28 07:06 | 09/28 07:06 | - |
-| FirstSquawk | 64 | 09/28 07:06 | 09/28 12:54 | ⚠ 78分（08:02→09:21） |
-| financialjuice | 54 | 09/28 07:11 | 09/28 11:30 | ⚠ 99分（07:11→08:51） |
+| DeItaone | 0 | - | - | - |
+| FirstSquawk | 65 | 09/28 08:02 | 09/28 13:04 | ⚠ 78分（08:02→09:21） |
+| financialjuice | 53 | 09/28 08:51 | 09/28 11:30 | ⚠ 50分（10:40→11:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 119 行（統合前 119 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 118 行（統合前 118 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 07:06 [DeItaone] OIL PRICES REBOUND MORE THAN 1% AFTER TRUMP REJECTS IRAN PEACE DEAL TO REOPEN STRAIT OF HORMUZ
-- 09/28 07:06 [FirstSquawk] US STOCK FUTURES EDGE LOWER: S&P 500 FUTURES -0.1%, NASDAQ FUTURES -0.1%
-- 09/28 07:11 [financialjuice] Being Eswin computing technology announces 1.57 billion H shares offered globally
 - 09/28 08:02 [FirstSquawk] U.K. BUSINESS SECRETARY JONATHAN REYNOLDS SAYS A FULL U.S. DIESEL EXPORT BAN WOULD BE A “SIGNIFICANT CONCERN” FOR BRITAIN, WHICH SOURCES ABOUT ONE-SIXTH OF ITS DIESEL FROM THE U.S., THOUGH HE STRESSED THE U.K. HAS A DIVERSE FUEL SUPPLY.
 - 09/28 08:02 [FirstSquawk] THE U.S. IS CONSIDERING A 90-DAY DIESEL EXPORT BAN OR MORE LIMITED VOLUNTARY RESTRICTIONS AMID HIGH DOMESTIC FUEL PRICES, WHILE FRENCH PRESIDENT EMMANUEL MACRON HAS ALSO WARNED TRUMP AGAINST SUCH MEASURES.
 - 09/28 08:51 [financialjuice] BOJ july meeting minutes: members agreed financial conditions remain accommodative
@@ -143,3 +140,5 @@
 - 09/28 12:33 [FirstSquawk] Swiss franc falls to fresh low since May 2025 near 0.8300 against dollar - FX
 - 09/28 12:41 [FirstSquawk] Paul Chan says Hong Kong aims to close strategic-sector company deals in coming months - SCMP
 - 09/28 12:54 [FirstSquawk] Thailand August domestic auto sales surge 25.59% from a year earlier
+- 09/28 13:04 [FirstSquawk] EU COUNTRIES CONSIDER NATO-STYLE JOINT RESPONSES TO RUSSIAN HYBRID ATTACKS – FT
+- 09/28 13:04 [FirstSquawk] GM WARNS ON US MARKET AS CARMAKERS SEEK ‘SAFE HAVEN’ FROM CHINESE RIVALS – FT
