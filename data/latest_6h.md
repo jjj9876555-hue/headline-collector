@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-28 18:39 JST／対象: 09/28 12:39 〜 09/28 18:39 JST（時刻はすべて日本時間）
+生成: 2026-09-28 18:55 JST／対象: 09/28 12:55 〜 09/28 18:55 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 5 | 09/28 16:28 | 09/28 18:22 | ⚠ 50分（17:23→18:13） |
-| FirstSquawk | 66 | 09/28 12:41 | 09/28 18:29 | 27分（16:10→16:38） |
+| DeItaone | 6 | 09/28 16:28 | 09/28 18:43 | ⚠ 50分（17:23→18:13） |
+| FirstSquawk | 66 | 09/28 13:04 | 09/28 18:55 | 27分（16:10→16:38） |
 | financialjuice | 20 | 09/28 13:26 | 09/28 18:20 | ⚠ 59分（14:00→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 91 行（統合前 91 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 92 行（統合前 92 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 12:41 [FirstSquawk] Paul Chan says Hong Kong aims to close strategic-sector company deals in coming months - SCMP
-- 09/28 12:54 [FirstSquawk] Thailand August domestic auto sales surge 25.59% from a year earlier
 - 09/28 13:04 [FirstSquawk] EU COUNTRIES CONSIDER NATO-STYLE JOINT RESPONSES TO RUSSIAN HYBRID ATTACKS – FT
 - 09/28 13:04 [FirstSquawk] GM WARNS ON US MARKET AS CARMAKERS SEEK ‘SAFE HAVEN’ FROM CHINESE RIVALS – FT
 - 09/28 13:23 [FirstSquawk] US and China strike $60 billion low-tariff deal spanning foie gras to camels
@@ -115,3 +113,6 @@
 - 09/28 18:23 [FirstSquawk] STREETING SAYS WE NEED TO STEP UP, SPEND MORE ON DEFENSE
 - 09/28 18:23 [FirstSquawk] STREETING: REITERATES 3.5% SPEND ON DEFENSE BY 2035
 - 09/28 18:29 [FirstSquawk] STREETING SAYS UK COMMITS TO KEEPING NUKE SUB CONTRACT IN BRITAIN
+- 09/28 18:43 [DeItaone] https://t.co/nx9ngNPg2L
+- 09/28 18:44 [FirstSquawk] UK FOREIGN SECRETARY MILIBAND: THE WORLD ORDER NEEDS REBUILDING
+- 09/28 18:55 [FirstSquawk] MILIBAND STATES THAT THEY WILL KEEP ISOLATING IRAN UNTIL THE STRAIT OF HORMUZ IS REOPENED.

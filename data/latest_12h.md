@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-28 18:39 JST／対象: 09/28 06:39 〜 09/28 18:39 JST（時刻はすべて日本時間）
+生成: 2026-09-28 18:55 JST／対象: 09/28 06:55 〜 09/28 18:55 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 6 | 09/28 07:06 | 09/28 18:22 | ⚠ 562分（07:06→16:28） |
-| FirstSquawk | 128 | 09/28 07:06 | 09/28 18:29 | ⚠ 78分（08:02→09:21） |
+| DeItaone | 7 | 09/28 07:06 | 09/28 18:43 | ⚠ 562分（07:06→16:28） |
+| FirstSquawk | 130 | 09/28 07:06 | 09/28 18:55 | ⚠ 78分（08:02→09:21） |
 | financialjuice | 74 | 09/28 07:11 | 09/28 18:20 | ⚠ 115分（11:30→13:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 208 行（統合前 208 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 211 行（統合前 211 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -232,3 +232,6 @@
 - 09/28 18:23 [FirstSquawk] STREETING SAYS WE NEED TO STEP UP, SPEND MORE ON DEFENSE
 - 09/28 18:23 [FirstSquawk] STREETING: REITERATES 3.5% SPEND ON DEFENSE BY 2035
 - 09/28 18:29 [FirstSquawk] STREETING SAYS UK COMMITS TO KEEPING NUKE SUB CONTRACT IN BRITAIN
+- 09/28 18:43 [DeItaone] https://t.co/nx9ngNPg2L
+- 09/28 18:44 [FirstSquawk] UK FOREIGN SECRETARY MILIBAND: THE WORLD ORDER NEEDS REBUILDING
+- 09/28 18:55 [FirstSquawk] MILIBAND STATES THAT THEY WILL KEEP ISOLATING IRAN UNTIL THE STRAIT OF HORMUZ IS REOPENED.
