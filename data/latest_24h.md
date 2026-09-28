@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-28 13:37 JST／対象: 09/27 13:37 〜 09/28 13:37 JST（時刻はすべて日本時間）
+生成: 2026-09-28 13:54 JST／対象: 09/27 13:54 〜 09/28 13:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 09/28 00:04 | 09/28 07:06 | ⚠ 368分（00:04→06:12） |
-| FirstSquawk | 190 | 09/27 13:52 | 09/28 13:24 | ⚠ 78分（08:02→09:21） |
+| FirstSquawk | 193 | 09/27 14:04 | 09/28 13:53 | ⚠ 78分（08:02→09:21） |
 | financialjuice | 94 | 09/27 16:30 | 09/28 13:26 | ⚠ 145分（00:29→02:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 278 行（統合前 290 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 281 行（統合前 293 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 13:52 [FirstSquawk] U.S. housing squeeze puts private equity under focus ahead of midterm elections - FT
-- 09/27 13:53 [FirstSquawk] West London high street pushes back against betting shops and chicken shops - FT
 - 09/27 14:04 [FirstSquawk] South Korea doubles down on its push for AI adoption across society - FT
 - 09/27 14:10 [FirstSquawk] Kurdish leader criticizes U.S. pullout from Iraq as ‘shameful’ — FT
 - 09/27 14:14 [FirstSquawk] Armani to launch talks with LVMH and L’Oréal on potential stake sale — FT
@@ -302,3 +300,8 @@
 - 09/28 13:23 [FirstSquawk] US and China strike $60 billion low-tariff deal spanning foie gras to camels
 - 09/28 13:24 [FirstSquawk] UK biodiesel industry criticises move to reject tariffs on cheaper US imports
 - 09/28 13:26 [financialjuice] Saudi foreign minister arrives in Washington to meet U.S. counterpart: Saudi state news agency
+- 09/28 13:42 [FirstSquawk] ASIAN CURRENCIES WEAKEN AMID ONGOING GEOPOLITICAL TENSIONS-WSJ
+- 09/28 13:45 [FirstSquawk] NORTHERN STAR REJECTS $27 BILLION TAKEOVER PROPOSAL FROM GOLD FIELDS-WSJ
+- 09/28 13:49 [FirstSquawk] JGB YIELDS RISE AMID CONCERNS ABOUT IRAN CONFLICT, INFLATION-WSJ
+- 09/28 13:53 [FirstSquawk] OIL RISES ON GEOPOLITICAL RISKS, STOCKPILE DECLINE-WSJ
+- 09/28 13:53 [FirstSquawk] GOLD FALLS ON EXPECTATIONS OF HIGHER FOR LONGER FED RATES-WSJ

@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-28 13:37 JST／対象: 09/28 01:37 〜 09/28 13:37 JST（時刻はすべて日本時間）
+生成: 2026-09-28 13:54 JST／対象: 09/28 01:54 〜 09/28 13:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/28 06:12 | 09/28 07:06 | 39分（06:27→07:06） |
-| FirstSquawk | 93 | 09/28 01:38 | 09/28 13:24 | ⚠ 78分（08:02→09:21） |
+| FirstSquawk | 95 | 09/28 02:37 | 09/28 13:53 | ⚠ 78分（08:02→09:21） |
 | financialjuice | 67 | 09/28 02:54 | 09/28 13:26 | ⚠ 124分（05:07→07:11） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 164 行（統合前 164 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 166 行（統合前 166 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 01:38 [FirstSquawk] Iranian President: If America accepts the legal frameworks and our rights, we have no dispute with them; otherwise, we will never back down.
-- 09/28 01:38 [FirstSquawk] WSJ, citing a US official: Threat level raised at British base Fairford Saturday evening
-- 09/28 01:39 [FirstSquawk] WSJ, citing a US official: Fairford base is a key launchpad for military operations targeting Iran
 - 09/28 02:37 [FirstSquawk] SOUTH KOREA HAS EXPRESSED STRONG REGRET OVER UKRAINE'S REFUSAL OF A NONDISCLOSURE AGREEMENT ON NORTH KOREAN POWS, WITH THE SOUTH KOREAN PRESIDENCY SAYING THE COUNTRY IS CONTEMPLATING EXTRA ACTIONS ON THE ISSUE - YONHAP
 - 09/28 02:39 [FirstSquawk] ANTHROPIC CEO DARIO AMODEI SET TO JOIN TRUMP AT WHITE HOUSE DINNER — AXIOS
 - 09/28 02:43 [FirstSquawk] U.S. AMBASSADOR DAVID PERDUE SAYS U.S. POLICY ON TAIWAN REMAINS UNCHANGED AFTER XI JINPING’S STATE VISIT, SAYING WASHINGTON DOES NOT SUPPORT TAIWAN INDEPENDENCE OR COERCION, WHILE CONFIRMING THE TRUMP ADMINISTRATION HAS APPROVED $11 BILLION…
@@ -188,3 +185,8 @@
 - 09/28 13:23 [FirstSquawk] US and China strike $60 billion low-tariff deal spanning foie gras to camels
 - 09/28 13:24 [FirstSquawk] UK biodiesel industry criticises move to reject tariffs on cheaper US imports
 - 09/28 13:26 [financialjuice] Saudi foreign minister arrives in Washington to meet U.S. counterpart: Saudi state news agency
+- 09/28 13:42 [FirstSquawk] ASIAN CURRENCIES WEAKEN AMID ONGOING GEOPOLITICAL TENSIONS-WSJ
+- 09/28 13:45 [FirstSquawk] NORTHERN STAR REJECTS $27 BILLION TAKEOVER PROPOSAL FROM GOLD FIELDS-WSJ
+- 09/28 13:49 [FirstSquawk] JGB YIELDS RISE AMID CONCERNS ABOUT IRAN CONFLICT, INFLATION-WSJ
+- 09/28 13:53 [FirstSquawk] OIL RISES ON GEOPOLITICAL RISKS, STOCKPILE DECLINE-WSJ
+- 09/28 13:53 [FirstSquawk] GOLD FALLS ON EXPECTATIONS OF HIGHER FOR LONGER FED RATES-WSJ
