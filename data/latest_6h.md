@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-28 12:21 JST／対象: 09/28 06:21 〜 09/28 12:21 JST（時刻はすべて日本時間）
+生成: 2026-09-28 12:39 JST／対象: 09/28 06:39 〜 09/28 12:39 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 3 | 09/28 06:27 | 09/28 07:06 | 39分（06:27→07:06） |
-| FirstSquawk | 60 | 09/28 07:06 | 09/28 12:21 | ⚠ 78分（08:02→09:21） |
+| DeItaone | 1 | 09/28 07:06 | 09/28 07:06 | - |
+| FirstSquawk | 62 | 09/28 07:06 | 09/28 12:33 | ⚠ 78分（08:02→09:21） |
 | financialjuice | 54 | 09/28 07:11 | 09/28 11:30 | ⚠ 99分（07:11→08:51） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,8 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 06:27 [DeItaone] *TRUMP ON DIESEL EXPORT BAN: THINKING OF IT VERY SERIOUSLY
-- 09/28 06:27 [DeItaone] *TRUMP: DIESEL EXPORT BAN MAY CAUSE A LITTLE CAR GASOLINE RISE
 - 09/28 07:06 [DeItaone] OIL PRICES REBOUND MORE THAN 1% AFTER TRUMP REJECTS IRAN PEACE DEAL TO REOPEN STRAIT OF HORMUZ
 - 09/28 07:06 [FirstSquawk] US STOCK FUTURES EDGE LOWER: S&P 500 FUTURES -0.1%, NASDAQ FUTURES -0.1%
 - 09/28 07:11 [financialjuice] Being Eswin computing technology announces 1.57 billion H shares offered globally
@@ -141,3 +139,5 @@
 - 09/28 12:07 [FirstSquawk] Northern Star declines Gold Fields’ $27 billion takeover offer - WSJ
 - 09/28 12:08 [FirstSquawk] Australia’s Ingenia receives improved $1.5 billion offer from Warburg Pincus - WSJ
 - 09/28 12:21 [FirstSquawk] South Korean regulator plans 14.8 billion won in fines for barbecue chain operator
+- 09/28 12:25 [FirstSquawk] JPMorgan boosts Dassault Aviation target by €25 to €350
+- 09/28 12:33 [FirstSquawk] Swiss franc falls to fresh low since May 2025 near 0.8300 against dollar - FX
