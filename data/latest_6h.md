@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-29 07:43 JST／対象: 09/29 01:43 〜 09/29 07:43 JST（時刻はすべて日本時間）
+生成: 2026-09-29 07:59 JST／対象: 09/29 01:59 〜 09/29 07:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 4 | 09/29 01:45 | 09/29 02:14 | 20分（01:54→02:14） |
-| FirstSquawk | 57 | 09/29 01:45 | 09/29 07:41 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 87 | 09/29 01:44 | 09/29 07:21 | 23分（06:11→06:35） |
+| DeItaone | 1 | 09/29 02:14 | 09/29 02:14 | - |
+| FirstSquawk | 59 | 09/29 02:07 | 09/29 07:48 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 85 | 09/29 02:09 | 09/29 07:45 | 24分（07:21→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 144 行（統合前 149 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 141 行（統合前 146 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 01:44 [financialjuice] ECB's Pereira: Inflation pressures are currently concentrated in energy prices.
-- 09/29 01:45 [FirstSquawk] US OFFICIAL: WE NEED GUARANTEES THIS TIME THAT IRAN IS SERIOUS AND NOT JUST SEEKING TO ESCAPE THE DIFFICULT SITUATION IT IS SUFFERING FROM
-- 09/29 01:45 [DeItaone] US CONSIDERING SANCTIONS WAIVER FOR FLIGHTS BETWEEN IRAN AND IRAQ'S HOLY CITY OF NAJAF, PERSON WITH DIRECT KNOWLEDGE SAYS
-- 09/29 01:46 [financialjuice] US considering sanctions waiver for flights between Iran and Iraq's holy city of Najaf - Source
-- 09/29 01:46 [DeItaone] WAIVER WOULD ALLOW PILGRIMS TO TRAVEL ON IRAQI AIRWAYS TO AND FROM IRAN FOR PILGRIMAGE FOR ONE MONTH, SOURCE SAYS
-- 09/29 01:46 [financialjuice] WH Sr. Adviser Hassett: 3-month annualized core inflation is around Fed target.
-- 09/29 01:54 [DeItaone] 36 DAYS TO MIDTERMS: DEMOCRATS HIT NEW 2026 HIGH With just 36 days until the Nov. 3 midterms, Kalshi’s American Power Index has swung sharply toward Democrats. USAGov Democrats now lead at +3.8 — their strongest level shown on the 2026 char…
 - 09/29 02:07 [FirstSquawk] TRUMP OFFERS IRAN ECONOMIC RELIEF FOR CONCRETE NUCLEAR CONCESSIONS - AXIOS
 - 09/29 02:09 [financialjuice] NYC Speaker: OpenAI, Anthropic, Google all agreed to testify
 - 09/29 02:09 [financialjuice] NYC Speaker: OpenAI, Anthropic, Google all agreed to testify $GOOGL
@@ -168,3 +161,7 @@
 - 09/29 07:40 [FirstSquawk] IRAN'S FOREIGN MINISTER ARAGHCHI SAYS THAT IF THE U.S. 'WANTS A DEAL OR PEACE, IRAN HAS OFFERED A SOLUTION', ADDING THAT THE CONDITIONS SET BY THE SUPREME LEADER MUST BE MET FOR THE STRAIT OF HORMUZ TO REOPEN - IRNA
 - 09/29 07:41 [FirstSquawk] IRAN'S FOREIGN MINISTER ARAGHCHI SAYS TEHRAN HELD TALKS WITH QATARI MEDIATORS ON WAYS TO MEET IRAN'S DEMANDS, WITH THE MEDIATORS TO PRESENT IDEAS TO THE U.S. SIDE, AND QATARI AND PAKISTANI MEDIATION CHANNELS INTENSIFYING AFTER IRAN UNVEILED…
 - 09/29 07:41 [FirstSquawk] IRAN'S FOREIGN MINISTER ARAGHCHI SAYS HE HOPES FOR THE U.S. FINAL ANSWER THROUGH THE QATARI MEDIATORS BY TUESDAY - IRNA
+- 09/29 07:43 [FirstSquawk] IRAN’S OIL EXPORTS ARE PLUNGING UNDER THE U.S. NAVAL BLOCKADE, WHILE SAUDI AND IRAQI CRUDE EXPORTS HAVE REBOUNDED AND SAUDI ARABIA HAS INCREASINGLY ROUTED OIL THROUGH THE PERSIAN GULF AFTER ITS EAST-WEST PIPELINE RETURNED TO OPERATION. THE …
+- 09/29 07:45 [financialjuice] Explosions heard in Ukraine's Kyiv: source witness
+- 09/29 07:48 [FirstSquawk] TRUMP SAYS AXIOS 'JUST RELEASED A STORY THAT TRUMP OFFERED SANCTIONS RELIEF AND FROZEN FUNDS TO IRAN', CALLING IT 'UNTRUE' AND SAYING 'I OFFERED THEM NOTHING'. - TRUTH SOCIAL
+- 09/29 07:48 [FirstSquawk] TRUMP CALLS THE AXIOS STORY 'A HOAX, USED ONLY FOR PURPOSES OF SATISFYING THEIR TRUMP DERANGEMENT SYNDROME', DEMANDING THEY 'WITHDRAW THIS FAKE STORY, IMMEDIATELY'. - TRUTH SOCIAL

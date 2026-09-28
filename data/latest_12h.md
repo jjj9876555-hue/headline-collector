@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-29 07:43 JST／対象: 09/28 19:43 〜 09/29 07:43 JST（時刻はすべて日本時間）
+生成: 2026-09-29 07:59 JST／対象: 09/28 19:59 〜 09/29 07:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 26 | 09/28 19:44 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 151 | 09/28 19:46 | 09/29 07:41 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 200 | 09/28 19:43 | 09/29 07:21 | 23分（06:11→06:35） |
+| DeItaone | 23 | 09/28 20:00 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
+| FirstSquawk | 151 | 09/28 19:59 | 09/29 07:48 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 196 | 09/28 20:00 | 09/29 07:45 | 24分（07:21→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 362 行（統合前 381 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 356 行（統合前 374 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 19:43 [financialjuice/FirstSquawk] China Cabinet Meeting: Should step up counter-cyclical adjustments in macroeconomic policy - State radio
-- 09/28 19:43 [financialjuice] China Cabinet Meeting: Should accelerate the pace of issuance and use of various types of bonds.
-- 09/28 19:44 [financialjuice] China to study policies to stabilize the property market - Radio
-- 09/28 19:44 [DeItaone] $SPCX : CLSA INITIATES SPACEX AT ACCUMULATE - PT $250
-- 09/28 19:46 [financialjuice] BoE's Ramsden: Wanted QT even further into the background
-- 09/28 19:48 [FirstSquawk] MERCK ENTERS INTO EXCLUSIVE GLOBAL LICENSE AGREEMENT WITH SCIBRUNCH THERAPEUTICS FOR SPR2015, AN INVESTIGATIONAL ORAL KRAS G12D (ON) INHIBITOR (DESIGNED TO BLOCK THE KRAS G12D GENE MUTATION THAT CAUSES TUMOURS TO GROW IN CANCERS LIKE PANCRE…
-- 09/28 19:52 [DeItaone] S&P 500 BREADTH FALLS TO DOT-COM ERA LOW Goldman Sachs says AI stocks are masking extreme weakness beneath the S&P 500, with market breadth falling to its lowest level since the dot-com bubble. The median S&P 500 stock now trades 16% below …
-- 09/28 19:53 [financialjuice] UK Business Secretary Reynolds: Industrial strategy is about inventing and making in the UK
-- 09/28 19:55 [DeItaone] EU'S KALLAS: EUROPE NEEDS TO REARM MORE QUICKLY AND MORE EFFECTIVELY TO MEET OUR 2030 TARGET
-- 09/28 19:57 [FirstSquawk] EU FOREIGN POLICY CHIEF STATES EUROPE MUST INCREASE ARMAMENT SPEED AND EFFECTIVENESS TO REACH OBJECTIVES BY 2030.
 - 09/28 19:59 [FirstSquawk] UK AUTHORITIES INCREASED SECURITY AT A US-USED AIRBASE DUE TO RISING THREATS AND SUCCESSFULLY FOILED AN ATTACK ATTEMPT, SOURCES REVEAL.
 - 09/28 20:00 [financialjuice] Nvidia announces a $150b share buyback authorization boost $NVDA
 - 09/28 20:00 [DeItaone] $NVDA - NVIDIA EXPANDS BUYBACK PROGRAM TO $235 BILLION Nvidia’s board authorized a $150 billion increase to its share repurchase program, bringing the total authorization to $235 billion. The company expects to execute the expanded buyback …
@@ -386,3 +376,7 @@
 - 09/29 07:40 [FirstSquawk] IRAN'S FOREIGN MINISTER ARAGHCHI SAYS THAT IF THE U.S. 'WANTS A DEAL OR PEACE, IRAN HAS OFFERED A SOLUTION', ADDING THAT THE CONDITIONS SET BY THE SUPREME LEADER MUST BE MET FOR THE STRAIT OF HORMUZ TO REOPEN - IRNA
 - 09/29 07:41 [FirstSquawk] IRAN'S FOREIGN MINISTER ARAGHCHI SAYS TEHRAN HELD TALKS WITH QATARI MEDIATORS ON WAYS TO MEET IRAN'S DEMANDS, WITH THE MEDIATORS TO PRESENT IDEAS TO THE U.S. SIDE, AND QATARI AND PAKISTANI MEDIATION CHANNELS INTENSIFYING AFTER IRAN UNVEILED…
 - 09/29 07:41 [FirstSquawk] IRAN'S FOREIGN MINISTER ARAGHCHI SAYS HE HOPES FOR THE U.S. FINAL ANSWER THROUGH THE QATARI MEDIATORS BY TUESDAY - IRNA
+- 09/29 07:43 [FirstSquawk] IRAN’S OIL EXPORTS ARE PLUNGING UNDER THE U.S. NAVAL BLOCKADE, WHILE SAUDI AND IRAQI CRUDE EXPORTS HAVE REBOUNDED AND SAUDI ARABIA HAS INCREASINGLY ROUTED OIL THROUGH THE PERSIAN GULF AFTER ITS EAST-WEST PIPELINE RETURNED TO OPERATION. THE …
+- 09/29 07:45 [financialjuice] Explosions heard in Ukraine's Kyiv: source witness
+- 09/29 07:48 [FirstSquawk] TRUMP SAYS AXIOS 'JUST RELEASED A STORY THAT TRUMP OFFERED SANCTIONS RELIEF AND FROZEN FUNDS TO IRAN', CALLING IT 'UNTRUE' AND SAYING 'I OFFERED THEM NOTHING'. - TRUTH SOCIAL
+- 09/29 07:48 [FirstSquawk] TRUMP CALLS THE AXIOS STORY 'A HOAX, USED ONLY FOR PURPOSES OF SATISFYING THEIR TRUMP DERANGEMENT SYNDROME', DEMANDING THEY 'WITHDRAW THIS FAKE STORY, IMMEDIATELY'. - TRUTH SOCIAL
