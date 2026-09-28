@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-28 15:35 JST／対象: 09/28 09:35 〜 09/28 15:35 JST（時刻はすべて日本時間）
+生成: 2026-09-28 15:58 JST／対象: 09/28 09:58 〜 09/28 15:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 83 | 09/28 09:35 | 09/28 15:27 | 24分（14:36→15:00） |
-| financialjuice | 27 | 09/28 10:06 | 09/28 15:00 | ⚠ 115分（11:30→13:26） |
+| FirstSquawk | 79 | 09/28 09:58 | 09/28 15:51 | 24分（15:27→15:51） |
+| financialjuice | 29 | 09/28 10:06 | 09/28 15:48 | ⚠ 115分（11:30→13:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 110 行（統合前 110 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 108 行（統合前 108 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 09:35 [FirstSquawk] Prada looks to attract ultra-wealthy shoppers with high-end experiences and $100,000 designs - WSJ
-- 09/28 09:36 [FirstSquawk] US SAYS NO PLANS TO SELL WEAPONS TO CHINA AFTER PERDUE COMMENTS – WSJ
-- 09/28 09:39 [FirstSquawk] Australian dollar slips toward 0.7000 as hawkish Fed signals weigh ahead of RBA decision - FX
-- 09/28 09:50 [FirstSquawk] Seoul equities start lower despite overnight gains on Wall Street
-- 09/28 09:51 [FirstSquawk] Seoul voices strong regret over Ukraine’s denial of nondisclosure deal involving North Korean POWs - YONHAP
-- 09/28 09:54 [FirstSquawk] Tokyo Metro says data breach may have exposed 59,000 customer email addresses
 - 09/28 09:58 [FirstSquawk] Darwin Port lease sparks fresh tensions between Australia and China - KYODO
 - 09/28 10:01 [FirstSquawk] POLITICO - Trump administration airs campaign-style Trump ad as taxpayer-funded messaging expands
 - 09/28 10:01 [FirstSquawk] 2-year Japanese government bond yield hits 1.955%, highest since April 1995
@@ -134,3 +128,7 @@
 - 09/28 15:24 [FirstSquawk] UK’s Streeting: State-backed actors could seek to harm Britain, requiring continued vigilance
 - 09/28 15:25 [FirstSquawk] UK’s Streeting declines to speculate on motives behind arrests
 - 09/28 15:27 [FirstSquawk] Deutsche Bank cuts PepsiCo rating to Hold from Buy and price target to $138 from $155
+- 09/28 15:41 [financialjuice] Qatar extends LNG force majeure for Pakistan into November
+- 09/28 15:48 [financialjuice] BoE's Dhingra: Worry that high rates would hit investment and lower supply
+- 09/28 15:51 [FirstSquawk] HSBC says euro weighed down by rate uncertainty and elevated energy costs-fx
+- 09/28 15:51 [FirstSquawk] Silver prices slide as markets react to the Fed’s hawkish rate outlook-fx
