@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-29 01:02 JST／対象: 09/28 13:02 〜 09/29 01:02 JST（時刻はすべて日本時間）
+生成: 2026-09-29 01:25 JST／対象: 09/28 13:25 〜 09/29 01:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 28 | 09/28 16:28 | 09/29 00:44 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 165 | 09/28 13:04 | 09/29 01:00 | 27分（16:10→16:38） |
-| financialjuice | 132 | 09/28 13:26 | 09/29 01:01 | ⚠ 59分（14:00→15:00） |
+| FirstSquawk | 165 | 09/28 13:42 | 09/29 01:24 | 27分（16:10→16:38） |
+| financialjuice | 136 | 09/28 13:26 | 09/29 01:24 | ⚠ 59分（14:00→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 317 行（統合前 327 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 321 行（統合前 331 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 13:04 [FirstSquawk] EU COUNTRIES CONSIDER NATO-STYLE JOINT RESPONSES TO RUSSIAN HYBRID ATTACKS – FT
-- 09/28 13:04 [FirstSquawk] GM WARNS ON US MARKET AS CARMAKERS SEEK ‘SAFE HAVEN’ FROM CHINESE RIVALS – FT
-- 09/28 13:23 [FirstSquawk] US and China strike $60 billion low-tariff deal spanning foie gras to camels
-- 09/28 13:24 [FirstSquawk] UK biodiesel industry criticises move to reject tariffs on cheaper US imports
 - 09/28 13:26 [financialjuice] Saudi foreign minister arrives in Washington to meet U.S. counterpart: Saudi state news agency
 - 09/28 13:42 [FirstSquawk] ASIAN CURRENCIES WEAKEN AMID ONGOING GEOPOLITICAL TENSIONS-WSJ
 - 09/28 13:45 [FirstSquawk] NORTHERN STAR REJECTS $27 BILLION TAKEOVER PROPOSAL FROM GOLD FIELDS-WSJ
@@ -341,3 +337,11 @@
 - 09/29 00:58 [financialjuice] TotalEnergies CEO: EU tankers can be used to ship LNG from Russia's Yamal outside of the EU, but it will be limited business
 - 09/29 01:00 [FirstSquawk] SPACEX'S STARSHIP RETURNS TO EARTH, TOUCHES DOWN IN THE PACIFIC OCEAN
 - 09/29 01:01 [financialjuice] Russia cuts oil and gas revenues estimate for 2026 to 7.6 trln roubles from 8.9 trln roubles previously, materials show
+- 09/29 01:09 [FirstSquawk] IRAN'S MILITARY AND SUPPORTING GROUPS WILL PROVIDE A "DEVASTATING RESPONSE" TO ANY THREAT, SAID ARMED FORCES CHIEF ALI ABDOLLAHI. HE STATED THAT TEHRAN'S NETWORK IN THE REGION HAS BECOME MORE STRATEGICALLY INTEGRATED EVEN AFTER THE DEATH OF…
+- 09/29 01:09 [FirstSquawk] ABDOLLAHI STATED THAT THE U.S. AND ISRAEL ANTICIPATED NASRALLAH'S DEATH WOULD LEAD TO THE COLLAPSE OF THE "RESISTANCE" FRONT, BUT THEY WERE WRONG.
+- 09/29 01:09 [FirstSquawk] HE STATED THAT THE NETWORK REMAINED STRONG AND HAD SUCCESSFULLY COMPLETED BOTH OPEN AND HIDDEN “STRATEGIC INTEGRATION,” NOTING NASRALLAH’S CONTINUED INFLUENCE IN LEBANON, PALESTINE, YEMEN, AND IRAQ.
+- 09/29 01:17 [financialjuice] ❗ US Official to Al Jazeera: We continue a positive discussion with Iran through intermediaries; there will be no agreement without addressing the nuclear issue
+- 09/29 01:20 [financialjuice] ❗ US official tells Al Jazeera: Trump Ready to Ease Sanctions, Release Frozen Assets for Nuclear Progress
+- 09/29 01:22 [financialjuice] US official to Al Jazeera: Need guarantees this time that Iran is serious and not just seeking to escape the difficult situation it is suffering from.
+- 09/29 01:24 [financialjuice] WH Sr. Adviser Hassett: Estimate productivity growth right now about 2.5%.
+- 09/29 01:24 [FirstSquawk] US OFFICIAL: TRUMP READY TO EASE IRAN SANCTIONS, UNFREEZE ASSETS FOR NUCLEAR PROGRESS

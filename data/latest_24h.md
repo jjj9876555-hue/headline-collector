@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-29 01:02 JST／対象: 09/28 01:02 〜 09/29 01:02 JST（時刻はすべて日本時間）
+生成: 2026-09-29 01:25 JST／対象: 09/28 01:25 〜 09/29 01:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 32 | 09/28 06:12 | 09/29 00:44 | ⚠ 562分（07:06→16:28） |
-| FirstSquawk | 258 | 09/28 01:15 | 09/29 01:00 | ⚠ 78分（08:02→09:21） |
-| financialjuice | 198 | 09/28 02:54 | 09/29 01:01 | ⚠ 124分（05:07→07:11） |
+| FirstSquawk | 258 | 09/28 01:38 | 09/29 01:24 | ⚠ 78分（08:02→09:21） |
+| financialjuice | 202 | 09/28 02:54 | 09/29 01:24 | ⚠ 124分（05:07→07:11） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 480 行（統合前 490 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 484 行（統合前 494 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 01:15 [FirstSquawk] South Korea expresses strong regret over Ukraine's refusal of nondisclosure agreement on North Korean POWs - Yonhap
-- 09/28 01:15 [FirstSquawk] South Korean presidency: country contemplating extra actions on issue - Yonhap
-- 09/28 01:16 [FirstSquawk] China considers permitting ByteDance, Alibaba to buy new Nvidia chips - The Information
-- 09/28 01:16 [FirstSquawk] Anthropic's Dario Amodei to attend White House dinner with Trump: Axios
 - 09/28 01:38 [FirstSquawk] Iranian President: If America accepts the legal frameworks and our rights, we have no dispute with them; otherwise, we will never back down.
 - 09/28 01:38 [FirstSquawk] WSJ, citing a US official: Threat level raised at British base Fairford Saturday evening
 - 09/28 01:39 [FirstSquawk] WSJ, citing a US official: Fairford base is a key launchpad for military operations targeting Iran
@@ -504,3 +500,11 @@
 - 09/29 00:58 [financialjuice] TotalEnergies CEO: EU tankers can be used to ship LNG from Russia's Yamal outside of the EU, but it will be limited business
 - 09/29 01:00 [FirstSquawk] SPACEX'S STARSHIP RETURNS TO EARTH, TOUCHES DOWN IN THE PACIFIC OCEAN
 - 09/29 01:01 [financialjuice] Russia cuts oil and gas revenues estimate for 2026 to 7.6 trln roubles from 8.9 trln roubles previously, materials show
+- 09/29 01:09 [FirstSquawk] IRAN'S MILITARY AND SUPPORTING GROUPS WILL PROVIDE A "DEVASTATING RESPONSE" TO ANY THREAT, SAID ARMED FORCES CHIEF ALI ABDOLLAHI. HE STATED THAT TEHRAN'S NETWORK IN THE REGION HAS BECOME MORE STRATEGICALLY INTEGRATED EVEN AFTER THE DEATH OF…
+- 09/29 01:09 [FirstSquawk] ABDOLLAHI STATED THAT THE U.S. AND ISRAEL ANTICIPATED NASRALLAH'S DEATH WOULD LEAD TO THE COLLAPSE OF THE "RESISTANCE" FRONT, BUT THEY WERE WRONG.
+- 09/29 01:09 [FirstSquawk] HE STATED THAT THE NETWORK REMAINED STRONG AND HAD SUCCESSFULLY COMPLETED BOTH OPEN AND HIDDEN “STRATEGIC INTEGRATION,” NOTING NASRALLAH’S CONTINUED INFLUENCE IN LEBANON, PALESTINE, YEMEN, AND IRAQ.
+- 09/29 01:17 [financialjuice] ❗ US Official to Al Jazeera: We continue a positive discussion with Iran through intermediaries; there will be no agreement without addressing the nuclear issue
+- 09/29 01:20 [financialjuice] ❗ US official tells Al Jazeera: Trump Ready to Ease Sanctions, Release Frozen Assets for Nuclear Progress
+- 09/29 01:22 [financialjuice] US official to Al Jazeera: Need guarantees this time that Iran is serious and not just seeking to escape the difficult situation it is suffering from.
+- 09/29 01:24 [financialjuice] WH Sr. Adviser Hassett: Estimate productivity growth right now about 2.5%.
+- 09/29 01:24 [FirstSquawk] US OFFICIAL: TRUMP READY TO EASE IRAN SANCTIONS, UNFREEZE ASSETS FOR NUCLEAR PROGRESS

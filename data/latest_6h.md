@@ -7,50 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-29 01:02 JST／対象: 09/28 19:02 〜 09/29 01:02 JST（時刻はすべて日本時間）
+生成: 2026-09-29 01:25 JST／対象: 09/28 19:25 〜 09/29 01:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 22 | 09/28 19:06 | 09/29 00:44 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 94 | 09/28 19:11 | 09/29 01:00 | 14分（22:12→22:27） |
-| financialjuice | 111 | 09/28 19:03 | 09/29 01:01 | 21分（23:54→00:15） |
+| DeItaone | 18 | 09/28 19:34 | 09/29 00:44 | ⚠ 126分（20:42→22:49） |
+| FirstSquawk | 88 | 09/28 19:25 | 09/29 01:24 | 14分（22:12→22:27） |
+| financialjuice | 102 | 09/28 19:29 | 09/29 01:24 | 21分（23:54→00:15） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 219 行（統合前 229 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 200 行（統合前 210 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 19:03 [financialjuice] BoE's Ramsden: However, we have to recognise that the external environment can change very rapidly
-- 09/28 19:04 [financialjuice] BoE's Ramsden: The inflation pressures I will continue to focus on are external pressures from energy prices, weather, ALIsupply chain
-- 09/28 19:04 [financialjuice] BoE's Ramsden: Domestically, I will be focused on the outlook for indirect effects, particularly in food prices, and any early signs of second-round effects
-- 09/28 19:04 [financialjuice] BoE's Ramsden: QT plan provides a credible and coherent strategy
-- 09/28 19:04 [financialjuice] BoE's Ramsden: Risks to the inflation outlook, whether external or domestically generated, have tilted more to the upside
-- 09/28 19:05 [financialjuice] BoE's Ramsden: Were upside pressures on the inflation outlook to continue to build, there could be a case for increasing the bank rate
-- 09/28 19:05 [financialjuice] BoE's Ramsden: Case for hike if upside pressures persist
-- 09/28 19:05 [financialjuice] BoE's Ramsden: Focus is on energy prices
-- 09/28 19:05 [financialjuice] BoE's Ramsden: Current stance continues to provide restriction
-- 09/28 19:05 [financialjuice] BoE's Ramsden: Also looking at domestic food prices and wage settlements.
-- 09/28 19:06 [DeItaone] *UKRAINE DOESN'T EXPECT BLACK SEA CEASEFIRE IN COMING MONTHS
-- 09/28 19:08 [financialjuice] Japan Bank for International Cooperation: To issue Euro-denominated guaranteed bonds - SEC filing
-- 09/28 19:08 [DeItaone] POPE LEO URGES EUROPE TO INTEGRATE MIGRANTS, AS IF FAMILY MEMBERS, OFFERING THEM OPPORTUNITIES FOR BETTER LIFE
-- 09/28 19:11 [financialjuice] BoE's Ramsden: BoE QT changes in September have been well understood and well received by markets
-- 09/28 19:11 [FirstSquawk] BOE'S RAMSDEN STATES QT PLAN OFFERS A CREDIBLE AND LOGICAL STRATEGY.
-- 09/28 19:11 [FirstSquawk] BOE'S RAMSDEN SAYS INTEREST RATE INCREASE MAY BE NECESSARY IF INFLATIONARY PRESSURES CONTINUE.
-- 09/28 19:11 [FirstSquawk] RAMSDEN NOTES FOCUS ON LOCAL FOOD COSTS AND WAGE AGREEMENTS.
-- 09/28 19:11 [FirstSquawk] BOE'S RAMSDEN NOTED THAT INFLATION RISKS ARE NOW MORE LIKELY TO INCREASE.
-- 09/28 19:12 [FirstSquawk] XI EMPHASIZES THE IMPORTANCE OF PROMOTING A PEACEFUL CHINA INITIATIVE.
-- 09/28 19:12 [FirstSquawk] XT EMPHASIZES THE IMPORTANCE OF A PEACEFUL CHINA INITIATIVE FOR MODERNIZATION.
-- 09/28 19:12 [FirstSquawk] PBOC WILL DIRECT FINANCIAL RESOURCES TOWARD THE SERVICE SECTOR.
-- 09/28 19:12 [FirstSquawk] PBOC PLANS TO BOOST CREDIT AID FOR SERVICE SECTOR.
-- 09/28 19:13 [DeItaone] US CRUDE FUTURES GAIN OVER 4% TO HIT A SESSION HIGH OF $96.44/BBL ON STALLED U.S.-IRAN PEACE EFFORTS
-- 09/28 19:15 [FirstSquawk] US CRUDE FUTURES JUMPED MORE THAN 4%, REACHING A SESSION PEAK OF $96.44 PER BARREL DUE TO HALTED PEACE TALKS BETWEEN THE U.S. AND IRAN.
-- 09/28 19:15 [FirstSquawk] RAMSDEN ANNOUNCED THAT THE BANK OF ENGLAND WILL BEGIN SELLING GILTS WITH MATURITIES RANGING FROM 2033 TO 2049.
-- 09/28 19:15 [financialjuice] BoE's Ramsden: BoE sales to start with longest maturity 2035-49 gilts
-- 09/28 19:21 [DeItaone] $6.52 DIESEL SQUEEZES U.S. FISHING FLEETS U.S. diesel prices have climbed to $6.529 per gallon, marking an 11th consecutive weekly increase and hammering fishing-industry margins. Fishermen from Cape Cod to Alabama are cutting activity as f…
 - 09/28 19:25 [FirstSquawk] EU COMMISSION SPOKESPERSON: COMMISSION PLANS TO PROPOSE A POSTPONEMENT OF THE ENTRY INTO FORCE OF THE METHANE REGULATION
 - 09/28 19:29 [financialjuice] EU Commission spokesperson: Commission plans to propose a postponement of the entry into force of the methane regulation, we are now working on this at a technical level
 - 09/28 19:34 [DeItaone] LOUD EXPLOSION WAS HEARD IN CENTRAL KYIV, REUTERS WITNESSES SAY
@@ -243,3 +216,11 @@
 - 09/29 00:58 [financialjuice] TotalEnergies CEO: EU tankers can be used to ship LNG from Russia's Yamal outside of the EU, but it will be limited business
 - 09/29 01:00 [FirstSquawk] SPACEX'S STARSHIP RETURNS TO EARTH, TOUCHES DOWN IN THE PACIFIC OCEAN
 - 09/29 01:01 [financialjuice] Russia cuts oil and gas revenues estimate for 2026 to 7.6 trln roubles from 8.9 trln roubles previously, materials show
+- 09/29 01:09 [FirstSquawk] IRAN'S MILITARY AND SUPPORTING GROUPS WILL PROVIDE A "DEVASTATING RESPONSE" TO ANY THREAT, SAID ARMED FORCES CHIEF ALI ABDOLLAHI. HE STATED THAT TEHRAN'S NETWORK IN THE REGION HAS BECOME MORE STRATEGICALLY INTEGRATED EVEN AFTER THE DEATH OF…
+- 09/29 01:09 [FirstSquawk] ABDOLLAHI STATED THAT THE U.S. AND ISRAEL ANTICIPATED NASRALLAH'S DEATH WOULD LEAD TO THE COLLAPSE OF THE "RESISTANCE" FRONT, BUT THEY WERE WRONG.
+- 09/29 01:09 [FirstSquawk] HE STATED THAT THE NETWORK REMAINED STRONG AND HAD SUCCESSFULLY COMPLETED BOTH OPEN AND HIDDEN “STRATEGIC INTEGRATION,” NOTING NASRALLAH’S CONTINUED INFLUENCE IN LEBANON, PALESTINE, YEMEN, AND IRAQ.
+- 09/29 01:17 [financialjuice] ❗ US Official to Al Jazeera: We continue a positive discussion with Iran through intermediaries; there will be no agreement without addressing the nuclear issue
+- 09/29 01:20 [financialjuice] ❗ US official tells Al Jazeera: Trump Ready to Ease Sanctions, Release Frozen Assets for Nuclear Progress
+- 09/29 01:22 [financialjuice] US official to Al Jazeera: Need guarantees this time that Iran is serious and not just seeking to escape the difficult situation it is suffering from.
+- 09/29 01:24 [financialjuice] WH Sr. Adviser Hassett: Estimate productivity growth right now about 2.5%.
+- 09/29 01:24 [FirstSquawk] US OFFICIAL: TRUMP READY TO EASE IRAN SANCTIONS, UNFREEZE ASSETS FOR NUCLEAR PROGRESS
