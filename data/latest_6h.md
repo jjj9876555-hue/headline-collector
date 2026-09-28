@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-28 11:45 JST／対象: 09/28 05:45 〜 09/28 11:45 JST（時刻はすべて日本時間）
+生成: 2026-09-28 12:00 JST／対象: 09/28 06:00 〜 09/28 12:00 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/28 06:12 | 09/28 07:06 | 39分（06:27→07:06） |
-| FirstSquawk | 57 | 09/28 05:57 | 09/28 11:26 | ⚠ 78分（08:02→09:21） |
+| FirstSquawk | 57 | 09/28 07:06 | 09/28 11:54 | ⚠ 78分（08:02→09:21） |
 | financialjuice | 54 | 09/28 07:11 | 09/28 11:30 | ⚠ 99分（07:11→08:51） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,11 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 05:57 [FirstSquawk] TRUMP IS SET TO HOST ANTHROPIC CEO DARIO AMODEI FOR A PRIVATE DINNER AT THE WHITE HOUSE ON SUNDAY, AMID AN ONGOING LEGAL DISPUTE BETWEEN THE AI COMPANY AND THE ADMINISTRATION AND GROWING DEBATE OVER AI SAFETY AND REGULATION.
-- 09/28 05:57 [FirstSquawk] THE MEETING COMES DAYS AFTER A FEDERAL APPEALS COURT UPHELD THE PENTAGON’S DECISION TO BLACKLIST ANTHROPIC’S CLAUDE MODELS, WHILE TRUMP AND HOUSE SPEAKER MIKE JOHNSON ARE ALSO EXPECTED TO MEET WITH MAJOR AI CEOS AS CALLS FOR STRONGER AI SAF…
-- 09/28 05:58 [FirstSquawk] TRUMP SAYS HE WILL DISCUSS AI WITH ANTHROPIC CEO AMODEI, SAYING ON THE MEETING 'LET'S GO, LET'S WIN', AND SAYS HE SPOKE WITH ZELENSKY AND TOLD HIM TO 'TAKE IT EASY' ON REFINERY STRIKES, BLAMING A DIESEL SHORTAGE ON UKRAINE STRIKING RUSSIAN …
-- 09/28 05:59 [FirstSquawk] TRUMP SAYS HE IS CONSIDERING A DIESEL EXPORT BAN 'VERY SERIOUSLY' AND THAT THE U.S. MAY IMPLEMENT IT, THOUGH IT COULD CAUSE A SMALL RISE IN GASOLINE PRICES.
-- 09/28 05:59 [FirstSquawk] TRUMP SAYS THE U.S. WILL WIN AGAINST IRAN IN MILITARY AND ECONOMIC WARFARE, CLAIMING IRAN INFLATION WAS AT 318% AS OF THIS MORNING AND EXPECTING THE WAR TO END 'VERY SOON' AND OIL PRICES TO FALL, WHILE DECLINING TO SAY WHETHER IRAN STRIKES …
 - 09/28 06:12 [DeItaone] *TRUMP ON IRAN STRIKES BEFORE MIDTERMS: DON’T WANT TO SAY
 - 09/28 06:27 [DeItaone] *TRUMP ON DIESEL EXPORT BAN: THINKING OF IT VERY SERIOUSLY
 - 09/28 06:27 [DeItaone] *TRUMP: DIESEL EXPORT BAN MAY CAUSE A LITTLE CAR GASOLINE RISE
@@ -139,3 +134,8 @@
 - 09/28 11:26 [FirstSquawk] Canadian dollar falls as wider US-Canada rate differential looms - FX
 - 09/28 11:30 [financialjuice] S.Korea finance minister: to pursue balanced policy mix with central bank — ministry
 - 09/28 11:30 [financialjuice] S.Korea finmin: to enhance collaboration with central bank on market oversight - ministry
+- 09/28 11:49 [FirstSquawk] Tropical storm watch issued for southwestern Mexico coast, NHC says
+- 09/28 11:50 [FirstSquawk] South Korea’s plan to provide airline meals to deportees sparks disagreement among officials - SCMP
+- 09/28 11:51 [FirstSquawk] Chinese wealthy buyers turn to Italy for property, attracted by lifestyle and tax benefits - SCMP
+- 09/28 11:54 [FirstSquawk] Gold spot price extends decline, last down 2% at $4,201.18/oz
+- 09/28 11:54 [FirstSquawk] Palladium spot price drops 3% to $1,229.42/oz
