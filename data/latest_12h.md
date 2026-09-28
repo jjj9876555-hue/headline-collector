@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-28 14:52 JST／対象: 09/28 02:52 〜 09/28 14:52 JST（時刻はすべて日本時間）
+生成: 2026-09-28 15:09 JST／対象: 09/28 03:09 〜 09/28 15:09 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/28 06:12 | 09/28 07:06 | 39分（06:27→07:06） |
-| FirstSquawk | 102 | 09/28 02:58 | 09/28 14:36 | ⚠ 78分（08:02→09:21） |
-| financialjuice | 69 | 09/28 02:54 | 09/28 14:00 | ⚠ 124分（05:07→07:11） |
+| FirstSquawk | 104 | 09/28 03:13 | 09/28 15:08 | ⚠ 78分（08:02→09:21） |
+| financialjuice | 64 | 09/28 04:04 | 09/28 15:00 | ⚠ 124分（05:07→07:11） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 175 行（統合前 175 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 172 行（統合前 172 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 02:54 [financialjuice] Israeli foreign ministry: Israel cancels diplomatic status of Dutch diplomats in Ramallah
-- 09/28 02:55 [financialjuice] Israeli foreign ministry: diplomatic immunity of Dutch envoys in Ramallah to end in seven days
-- 09/28 02:58 [FirstSquawk] ISRAEL REVOKES DIPLOMATIC STATUS OF DUTCH DIPLOMATS IN RAMALLAH — FOREIGN MINISTRY
-- 09/28 02:58 [FirstSquawk] ISRAEL TO END DIPLOMATIC STATUS OF DUTCH DIPLOMATS IN RAMALLAH IN SEVEN DAYS — FOREIGN MINISTRY
-- 09/28 03:03 [financialjuice] Downing Street: UK PM Burnham greeted Norwegian Prime Minister Jonas Store in Liverpool today
-- 09/28 03:03 [financialjuice] Serbia’s President Aleksandar Vucic resigns, clears path for early presidential election
-- 09/28 03:03 [financialjuice] Downing Street: UK PM and Norway PM discuss Lunna House strategic defense pact between UK and Norway
-- 09/28 03:05 [financialjuice] Downing Street: UK PM Burnham and Norway PM hail deal between Denmark, Greenland and US
 - 09/28 03:13 [FirstSquawk] DOWNING STREET SAYS UK PM BURNHAM WELCOMED THE PRIME MINISTER OF NORWAY JONAS STØRE TO LIVERPOOL TODAY, WITH THE TWO RAISING THE LUNNA HOUSE STRATEGIC DEFENCE AGREEMENT BETWEEN THE UK AND NORWAY.
 - 09/28 03:13 [FirstSquawk] DOWNING STREET SAYS UK PM BURNHAM AND THE NORWAY PM WELCOMED AN AGREEMENT BETWEEN DENMARK, GREENLAND AND THE UNITED STATES.
 - 09/28 03:20 [FirstSquawk] SERBIA’S PRESIDENT ALEKSANDAR VUCIC RESIGNS, PAVING WAY FOR EARLY PRESIDENTIAL ELECTIONS — REUTERS
@@ -199,3 +191,8 @@
 - 09/28 14:29 [FirstSquawk] Shell target price raised to 4,165p from 3,965p by TD Cowen
 - 09/28 14:32 [FirstSquawk] Xiaomi-backed robotics chipmaker eyes $100 million Hong Kong listing-scmp
 - 09/28 14:36 [FirstSquawk] Russian Defence Ministry says cargo ship was struck in Black Sea
+- 09/28 15:00 [financialjuice] SWEDISH TRADE BALANCE ACTUAL -11.9B (FORECAST -, PREVIOUS 1.2B) $MACRO
+- 09/28 15:00 [FirstSquawk] SWEDEN (AUG) TRADE BALANCE ACTUAL: -11.9B VS 1.2B PREVIOUS
+- 09/28 15:00 [FirstSquawk] NORWAY (AUG) RETAIL SALES W/AUTO FUEL MOM ACTUAL: 0.6% VS -0.7% PREVIOUS
+- 09/28 15:07 [FirstSquawk] EU’s Kallas calls for focus on addressing gaps in Europe’s defence capabilities
+- 09/28 15:08 [FirstSquawk] EU’s Kallas says Aspides mission faces greater need for naval assets than ever

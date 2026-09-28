@@ -7,44 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-28 14:52 JST／対象: 09/28 08:52 〜 09/28 14:52 JST（時刻はすべて日本時間）
+生成: 2026-09-28 15:09 JST／対象: 09/28 09:09 〜 09/28 15:09 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 83 | 09/28 09:21 | 09/28 14:36 | 23分（11:26→11:49） |
-| financialjuice | 53 | 09/28 08:53 | 09/28 14:00 | ⚠ 115分（11:30→13:26） |
+| FirstSquawk | 87 | 09/28 09:21 | 09/28 15:08 | 24分（14:36→15:00） |
+| financialjuice | 33 | 09/28 09:16 | 09/28 15:00 | ⚠ 115分（11:30→13:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 136 行（統合前 136 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 120 行（統合前 120 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 08:53 [financialjuice] boj minutes: several members noted companies steadily pass rising raw material costs, sustaining high wholesale inflation
-- 09/28 08:53 [financialjuice] BOJ minutes: many members say medium-, long-term inflation expectations rising for households, companies
-- 09/28 08:54 [financialjuice] BOJ minutes: several members expect consumer goods price increases to expand from summer onward
-- 09/28 08:55 [financialjuice] BoJ minutes: many members noted underlying inflation nearing 2%, demanding focus on stability
-- 09/28 08:55 [financialjuice] Rising price growth near that level
-- 09/28 08:55 [financialjuice] BOJ minutes: one member said focus needed on whether long-term inflation expectations will settle near 2%
-- 09/28 08:55 [financialjuice] BOJ minutes: many members said underlying inflation nearing 2%, requiring focus on stabilising price growth around that level
-- 09/28 08:56 [financialjuice] Bank of Korea: to closely watch financial and forex markets
-- 09/28 08:57 [financialjuice] BOJ minutes: members concur fx volatility impacts economy, prices more than before as firms increase pass-through of rising import costs
-- 09/28 08:57 [financialjuice] BoJ minutes: one member notes rising upside price risks as recent weak yen, Middle East events could boost inflation expectations
-- 09/28 08:58 [financialjuice] BOJ minutes: one member noted it takes 1-1.5 years for rate hike effect to ease inflation, economy
-- 09/28 09:00 [financialjuice] BOJ minutes: one member said Bank of Japan must taper monetary support gradually to prevent delay in interest-rate increases
-- 09/28 09:01 [financialjuice] BOJ minutes: one member said central bank must ensure nimble policy decisions by raising policy rate, which stayed below estimated neutral rate range
-- 09/28 09:02 [financialjuice] boj minutes: many members said central bank gradually moving to phase focusing on stabilising underlying inflation around 2%, not pushing up inflation
-- 09/28 09:03 [financialjuice] BOJ minutes: one member said markets appear to expect BOJ to raise rates about once every six months, but hikes could come more quickly
-- 09/28 09:03 [financialjuice] BoJ minutes: one member said bank must adjust policy rate nimbly with focus on upside inflation risks
-- 09/28 09:04 [financialjuice] BOJ minutes: one member says bank must speed up rate hikes as inflation risks could cause significant harm to economy
-- 09/28 09:04 [financialjuice] BOJ minutes: some members said central bank must signal focus on upside inflation risks more clearly
-- 09/28 09:05 [financialjuice] BOJ minutes: several members said it was difficult to anticipate pace and timing of future rate increases
-- 09/28 09:07 [financialjuice] BOJ minutes: board discussed long-term interest rate changes with some members saying term premia could increase if markets doubt BOJ will raise rates adequately
-- 09/28 09:08 [financialjuice] BOJ minutes: cabinet office official says suitable monetary policy crucial for stable inflation, hopes BOJ collaborates with government
 - 09/28 09:16 [financialjuice] South Korea 3-year Treasury bond futures KTBC1 drop by 30 ticks
 - 09/28 09:16 [financialjuice] South Korea 10-year Treasury bond futures drop by 120 ticks
 - 09/28 09:21 [financialjuice] China PBOC likely to set yuan midpoint at 6.7085 per dollar: estimate
@@ -160,3 +139,8 @@
 - 09/28 14:29 [FirstSquawk] Shell target price raised to 4,165p from 3,965p by TD Cowen
 - 09/28 14:32 [FirstSquawk] Xiaomi-backed robotics chipmaker eyes $100 million Hong Kong listing-scmp
 - 09/28 14:36 [FirstSquawk] Russian Defence Ministry says cargo ship was struck in Black Sea
+- 09/28 15:00 [financialjuice] SWEDISH TRADE BALANCE ACTUAL -11.9B (FORECAST -, PREVIOUS 1.2B) $MACRO
+- 09/28 15:00 [FirstSquawk] SWEDEN (AUG) TRADE BALANCE ACTUAL: -11.9B VS 1.2B PREVIOUS
+- 09/28 15:00 [FirstSquawk] NORWAY (AUG) RETAIL SALES W/AUTO FUEL MOM ACTUAL: 0.6% VS -0.7% PREVIOUS
+- 09/28 15:07 [FirstSquawk] EU’s Kallas calls for focus on addressing gaps in Europe’s defence capabilities
+- 09/28 15:08 [FirstSquawk] EU’s Kallas says Aspides mission faces greater need for naval assets than ever
