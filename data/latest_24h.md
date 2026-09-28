@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-28 15:09 JST／対象: 09/27 15:09 〜 09/28 15:09 JST（時刻はすべて日本時間）
+生成: 2026-09-28 15:35 JST／対象: 09/27 15:35 〜 09/28 15:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 09/28 00:04 | 09/28 07:06 | ⚠ 368分（00:04→06:12） |
-| FirstSquawk | 201 | 09/27 15:25 | 09/28 15:08 | ⚠ 78分（08:02→09:21） |
+| FirstSquawk | 203 | 09/27 15:57 | 09/28 15:27 | ⚠ 78分（08:02→09:21） |
 | financialjuice | 97 | 09/27 16:30 | 09/28 15:00 | ⚠ 145分（00:29→02:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 292 行（統合前 304 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 294 行（統合前 306 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 15:25 [FirstSquawk] 17 killed, at tavern in Carletonville, South Africa.
-- 09/27 15:26 [FirstSquawk] US Energy Secretary Chris Wright told Fox News that oil flows through the Strait of Hormuz were averaging almost 13 million barrels a day.
-- 09/27 15:26 [FirstSquawk] Bangkok floodwaters recede as officials race to drain canals
-- 09/27 15:28 [FirstSquawk] Trump rejects Iranian proposal to open Hormuz and end fighting US president says Tehran wants a deal 'because they have no money coming in'
 - 09/27 15:57 [FirstSquawk] Russian Foreign Minister Sergey Lavrov criticised the use of force that killed Iran’s Supreme Leader Ayatollah Ali Khamenei and members of his family, calling the action unacceptable.
 - 09/27 15:58 [FirstSquawk] Iran’s parliament began a virtual plenary session on Sunday to continue reviewing a bill on countering foreign infiltration. Deputy Speaker Hamidreza Hajibabaei chaired the session.
 - 09/27 15:58 [FirstSquawk] China has stepped up criticism of US policy toward Cuba, urging Washington to end what Beijing describes as a “blockade” and coercive measures against Havana
@@ -316,3 +312,9 @@
 - 09/28 15:00 [FirstSquawk] NORWAY (AUG) RETAIL SALES W/AUTO FUEL MOM ACTUAL: 0.6% VS -0.7% PREVIOUS
 - 09/28 15:07 [FirstSquawk] EU’s Kallas calls for focus on addressing gaps in Europe’s defence capabilities
 - 09/28 15:08 [FirstSquawk] EU’s Kallas says Aspides mission faces greater need for naval assets than ever
+- 09/28 15:13 [FirstSquawk] Foreign banks reportedly explore UBS merger, according to Swiss newspaper
+- 09/28 15:15 [FirstSquawk] EU’s Kallas: Russia planning additional sabotage operations, intelligence reports show
+- 09/28 15:22 [FirstSquawk] Australian stocks edge higher as S&P/ASX 200 ends at 8,679.70
+- 09/28 15:24 [FirstSquawk] UK’s Streeting: State-backed actors could seek to harm Britain, requiring continued vigilance
+- 09/28 15:25 [FirstSquawk] UK’s Streeting declines to speculate on motives behind arrests
+- 09/28 15:27 [FirstSquawk] Deutsche Bank cuts PepsiCo rating to Hold from Buy and price target to $138 from $155

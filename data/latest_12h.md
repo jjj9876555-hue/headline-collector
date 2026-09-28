@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-28 15:09 JST／対象: 09/28 03:09 〜 09/28 15:09 JST（時刻はすべて日本時間）
+生成: 2026-09-28 15:35 JST／対象: 09/28 03:35 〜 09/28 15:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/28 06:12 | 09/28 07:06 | 39分（06:27→07:06） |
-| FirstSquawk | 104 | 09/28 03:13 | 09/28 15:08 | ⚠ 78分（08:02→09:21） |
+| FirstSquawk | 107 | 09/28 03:55 | 09/28 15:27 | ⚠ 78分（08:02→09:21） |
 | financialjuice | 64 | 09/28 04:04 | 09/28 15:00 | ⚠ 124分（05:07→07:11） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 172 行（統合前 172 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 175 行（統合前 175 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 03:13 [FirstSquawk] DOWNING STREET SAYS UK PM BURNHAM WELCOMED THE PRIME MINISTER OF NORWAY JONAS STØRE TO LIVERPOOL TODAY, WITH THE TWO RAISING THE LUNNA HOUSE STRATEGIC DEFENCE AGREEMENT BETWEEN THE UK AND NORWAY.
-- 09/28 03:13 [FirstSquawk] DOWNING STREET SAYS UK PM BURNHAM AND THE NORWAY PM WELCOMED AN AGREEMENT BETWEEN DENMARK, GREENLAND AND THE UNITED STATES.
-- 09/28 03:20 [FirstSquawk] SERBIA’S PRESIDENT ALEKSANDAR VUCIC RESIGNS, PAVING WAY FOR EARLY PRESIDENTIAL ELECTIONS — REUTERS
 - 09/28 03:55 [FirstSquawk] US ISSUES SECURITY ALERT AFTER INCIDENT NEAR RAF FAIRFORD BASE IN UK; FIVE ARRESTED IN EXPLOSIVES PROBE
 - 09/28 04:01 [FirstSquawk] NETANYAHU TO FLY TO UAE TODAY FOR MEETING WITH PRESIDENT MOHAMMED BIN ZAYED — CHANNEL 12
 - 09/28 04:04 [financialjuice] Israeli prime minister visited Abu Dhabi on Sunday: UAE president met, Axios sources
@@ -196,3 +193,9 @@
 - 09/28 15:00 [FirstSquawk] NORWAY (AUG) RETAIL SALES W/AUTO FUEL MOM ACTUAL: 0.6% VS -0.7% PREVIOUS
 - 09/28 15:07 [FirstSquawk] EU’s Kallas calls for focus on addressing gaps in Europe’s defence capabilities
 - 09/28 15:08 [FirstSquawk] EU’s Kallas says Aspides mission faces greater need for naval assets than ever
+- 09/28 15:13 [FirstSquawk] Foreign banks reportedly explore UBS merger, according to Swiss newspaper
+- 09/28 15:15 [FirstSquawk] EU’s Kallas: Russia planning additional sabotage operations, intelligence reports show
+- 09/28 15:22 [FirstSquawk] Australian stocks edge higher as S&P/ASX 200 ends at 8,679.70
+- 09/28 15:24 [FirstSquawk] UK’s Streeting: State-backed actors could seek to harm Britain, requiring continued vigilance
+- 09/28 15:25 [FirstSquawk] UK’s Streeting declines to speculate on motives behind arrests
+- 09/28 15:27 [FirstSquawk] Deutsche Bank cuts PepsiCo rating to Hold from Buy and price target to $138 from $155

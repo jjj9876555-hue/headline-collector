@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-28 15:09 JST／対象: 09/28 09:09 〜 09/28 15:09 JST（時刻はすべて日本時間）
+生成: 2026-09-28 15:35 JST／対象: 09/28 09:35 〜 09/28 15:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 87 | 09/28 09:21 | 09/28 15:08 | 24分（14:36→15:00） |
-| financialjuice | 33 | 09/28 09:16 | 09/28 15:00 | ⚠ 115分（11:30→13:26） |
+| FirstSquawk | 83 | 09/28 09:35 | 09/28 15:27 | 24分（14:36→15:00） |
+| financialjuice | 27 | 09/28 10:06 | 09/28 15:00 | ⚠ 115分（11:30→13:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 120 行（統合前 120 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 110 行（統合前 110 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 09:16 [financialjuice] South Korea 3-year Treasury bond futures KTBC1 drop by 30 ticks
-- 09/28 09:16 [financialjuice] South Korea 10-year Treasury bond futures drop by 120 ticks
-- 09/28 09:21 [financialjuice] China PBOC likely to set yuan midpoint at 6.7085 per dollar: estimate
-- 09/28 09:21 [FirstSquawk] US SECRETARY OF STATE RUBIO TO MEET SAUDI FOREIGN MINISTER AT 11:15 AM ET MONDAY
-- 09/28 09:22 [FirstSquawk] BANK OF JAPAN MINUTES SHOW MANY MEMBERS SAID UNDERLYING INFLATION IS NEARING 2%, REQUIRING A FOCUS ON STABILISING PRICE GROWTH AROUND THAT LEVEL RATHER THAN PUSHING UP INFLATION, WITH MANY NOTING MEDIUM- AND LONG-TERM INFLATION EXPECTATIONS…
-- 09/28 09:22 [FirstSquawk] BANK OF JAPAN MINUTES SHOW MEMBERS CONCURRED THAT FX VOLATILITY IMPACTS THE ECONOMY AND PRICES MORE THAN BEFORE AS FIRMS INCREASE PASS-THROUGH OF RISING IMPORT COSTS, WITH ONE MEMBER NOTING RISING UPSIDE PRICE RISKS AS A WEAK YEN AND MIDDLE…
-- 09/28 09:23 [FirstSquawk] BANK OF JAPAN MINUTES SHOW SEVERAL MEMBERS SAID IT WAS DIFFICULT TO ANTICIPATE THE PACE AND TIMING OF FUTURE RATE INCREASES, WITH ONE SAYING THE BANK MUST SPEED UP RATE HIKES AS INFLATION RISKS COULD CAUSE SIGNIFICANT HARM, ANOTHER NOTING M…
-- 09/28 09:27 [FirstSquawk] 30-year JGB yield rises 1.0bp to 4.165%
-- 09/28 09:30 [financialjuice] Momenta: two firms to jointly develop enhanced driver-assistance system for new mass-produced Peugeot and Jeep models
-- 09/28 09:30 [financialjuice] Momenta: technology to be deployed in China, Europe and other worldwide markets
-- 09/28 09:30 [financialjuice] Momenta enters global strategic alliance with Dongfeng Stellantis automotive technology (Wuhan) Co
-- 09/28 09:31 [FirstSquawk] Asia-Pacific markets open the week cautiously after Trump rejects Iran proposal while signaling renewed talks
-- 09/28 09:32 [FirstSquawk] Gold prices slide more than 1%, with spot gold at $4,233.12/oz
-- 09/28 09:33 [FirstSquawk] GLOBAL MARKETS OPENED THE WEEK UNDER PRESSURE AFTER PRESIDENT TRUMP REJECTED IRAN'S LATEST PROPOSAL TO REOPEN THE STRAIT OF HORMUZ, LIFTING BRENT CRUDE TO AROUND $105.70 AND WTI TO $93.26, WITH RISING OIL PRICES FUELING INFLATION CONCERNS A…
-- 09/28 09:33 [FirstSquawk] MARKETS ALSO REACTED TO TRUMP'S COMMENTS THAT HE EXPECTS IRAN NEGOTIATIONS TO RESUME THIS WEEK DESPITE REJECTING TEHRAN'S OFFER AND THAT HE IS 'VERY SERIOUSLY' CONSIDERING A U.S. DIESEL EXPORT BAN — A MOVE THAT COULD TIGHTEN GLOBAL FUEL SUP…
-- 09/28 09:34 [FirstSquawk] Startup Red Queen Bio turns to AI to prepare antibody drugs for future pandemics - WSJ
 - 09/28 09:35 [FirstSquawk] Prada looks to attract ultra-wealthy shoppers with high-end experiences and $100,000 designs - WSJ
 - 09/28 09:36 [FirstSquawk] US SAYS NO PLANS TO SELL WEAPONS TO CHINA AFTER PERDUE COMMENTS – WSJ
 - 09/28 09:39 [FirstSquawk] Australian dollar slips toward 0.7000 as hawkish Fed signals weigh ahead of RBA decision - FX
@@ -144,3 +128,9 @@
 - 09/28 15:00 [FirstSquawk] NORWAY (AUG) RETAIL SALES W/AUTO FUEL MOM ACTUAL: 0.6% VS -0.7% PREVIOUS
 - 09/28 15:07 [FirstSquawk] EU’s Kallas calls for focus on addressing gaps in Europe’s defence capabilities
 - 09/28 15:08 [FirstSquawk] EU’s Kallas says Aspides mission faces greater need for naval assets than ever
+- 09/28 15:13 [FirstSquawk] Foreign banks reportedly explore UBS merger, according to Swiss newspaper
+- 09/28 15:15 [FirstSquawk] EU’s Kallas: Russia planning additional sabotage operations, intelligence reports show
+- 09/28 15:22 [FirstSquawk] Australian stocks edge higher as S&P/ASX 200 ends at 8,679.70
+- 09/28 15:24 [FirstSquawk] UK’s Streeting: State-backed actors could seek to harm Britain, requiring continued vigilance
+- 09/28 15:25 [FirstSquawk] UK’s Streeting declines to speculate on motives behind arrests
+- 09/28 15:27 [FirstSquawk] Deutsche Bank cuts PepsiCo rating to Hold from Buy and price target to $138 from $155
