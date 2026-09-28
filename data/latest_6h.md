@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-29 01:47 JST／対象: 09/28 19:47 〜 09/29 01:47 JST（時刻はすべて日本時間）
+生成: 2026-09-29 02:01 JST／対象: 09/28 20:01 〜 09/29 02:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 23 | 09/28 19:52 | 09/29 01:46 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 94 | 09/28 19:48 | 09/29 01:45 | 14分（22:12→22:27） |
-| financialjuice | 112 | 09/28 19:53 | 09/29 01:46 | 21分（23:54→00:15） |
+| DeItaone | 21 | 09/28 20:05 | 09/29 01:54 | ⚠ 126分（20:42→22:49） |
+| FirstSquawk | 91 | 09/28 20:01 | 09/29 01:45 | 14分（22:12→22:27） |
+| financialjuice | 110 | 09/28 20:02 | 09/29 01:46 | 21分（23:54→00:15） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 219 行（統合前 232 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 212 行（統合前 225 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 19:48 [FirstSquawk] MERCK ENTERS INTO EXCLUSIVE GLOBAL LICENSE AGREEMENT WITH SCIBRUNCH THERAPEUTICS FOR SPR2015, AN INVESTIGATIONAL ORAL KRAS G12D (ON) INHIBITOR (DESIGNED TO BLOCK THE KRAS G12D GENE MUTATION THAT CAUSES TUMOURS TO GROW IN CANCERS LIKE PANCRE…
-- 09/28 19:52 [DeItaone] S&P 500 BREADTH FALLS TO DOT-COM ERA LOW Goldman Sachs says AI stocks are masking extreme weakness beneath the S&P 500, with market breadth falling to its lowest level since the dot-com bubble. The median S&P 500 stock now trades 16% below …
-- 09/28 19:53 [financialjuice] UK Business Secretary Reynolds: Industrial strategy is about inventing and making in the UK
-- 09/28 19:55 [DeItaone] EU'S KALLAS: EUROPE NEEDS TO REARM MORE QUICKLY AND MORE EFFECTIVELY TO MEET OUR 2030 TARGET
-- 09/28 19:57 [FirstSquawk] EU FOREIGN POLICY CHIEF STATES EUROPE MUST INCREASE ARMAMENT SPEED AND EFFECTIVENESS TO REACH OBJECTIVES BY 2030.
-- 09/28 19:59 [FirstSquawk] UK AUTHORITIES INCREASED SECURITY AT A US-USED AIRBASE DUE TO RISING THREATS AND SUCCESSFULLY FOILED AN ATTACK ATTEMPT, SOURCES REVEAL.
-- 09/28 20:00 [financialjuice] Nvidia announces a $150b share buyback authorization boost $NVDA
-- 09/28 20:00 [DeItaone] $NVDA - NVIDIA EXPANDS BUYBACK PROGRAM TO $235 BILLION Nvidia’s board authorized a $150 billion increase to its share repurchase program, bringing the total authorization to $235 billion. The company expects to execute the expanded buyback …
 - 09/28 20:01 [FirstSquawk] NVIDIA INCREASES SHARE BUYBACK APPROVAL BY $150 BILLION.
 - 09/28 20:02 [financialjuice] BoE's Ramsden: Food prices are weaker than expected them to be
 - 09/28 20:02 [financialjuice] BoE's Ramsden: We will know more about 2nd round effects at upcoming meetings
@@ -243,3 +235,4 @@
 - 09/29 01:46 [financialjuice] US considering sanctions waiver for flights between Iran and Iraq's holy city of Najaf - Source
 - 09/29 01:46 [DeItaone] WAIVER WOULD ALLOW PILGRIMS TO TRAVEL ON IRAQI AIRWAYS TO AND FROM IRAN FOR PILGRIMAGE FOR ONE MONTH, SOURCE SAYS
 - 09/29 01:46 [financialjuice] WH Sr. Adviser Hassett: 3-month annualized core inflation is around Fed target.
+- 09/29 01:54 [DeItaone] 36 DAYS TO MIDTERMS: DEMOCRATS HIT NEW 2026 HIGH With just 36 days until the Nov. 3 midterms, Kalshi’s American Power Index has swung sharply toward Democrats. USAGov Democrats now lead at +3.8 — their strongest level shown on the 2026 char…

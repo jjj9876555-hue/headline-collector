@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-29 01:47 JST／対象: 09/28 01:47 〜 09/29 01:47 JST（時刻はすべて日本時間）
+生成: 2026-09-29 02:01 JST／対象: 09/28 02:01 〜 09/29 02:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 40 | 09/28 06:12 | 09/29 01:46 | ⚠ 562分（07:06→16:28） |
+| DeItaone | 41 | 09/28 06:12 | 09/29 01:54 | ⚠ 562分（07:06→16:28） |
 | FirstSquawk | 265 | 09/28 02:37 | 09/29 01:45 | ⚠ 78分（08:02→09:21） |
 | financialjuice | 218 | 09/28 02:54 | 09/29 01:46 | ⚠ 124分（05:07→07:11） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 512 行（統合前 526 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 513 行（統合前 527 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -536,3 +536,4 @@
 - 09/29 01:46 [financialjuice] US considering sanctions waiver for flights between Iran and Iraq's holy city of Najaf - Source
 - 09/29 01:46 [DeItaone] WAIVER WOULD ALLOW PILGRIMS TO TRAVEL ON IRAQI AIRWAYS TO AND FROM IRAN FOR PILGRIMAGE FOR ONE MONTH, SOURCE SAYS
 - 09/29 01:46 [financialjuice] WH Sr. Adviser Hassett: 3-month annualized core inflation is around Fed target.
+- 09/29 01:54 [DeItaone] 36 DAYS TO MIDTERMS: DEMOCRATS HIT NEW 2026 HIGH With just 36 days until the Nov. 3 midterms, Kalshi’s American Power Index has swung sharply toward Democrats. USAGov Democrats now lead at +3.8 — their strongest level shown on the 2026 char…

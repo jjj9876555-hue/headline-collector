@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-29 01:47 JST／対象: 09/28 13:47 〜 09/29 01:47 JST（時刻はすべて日本時間）
+生成: 2026-09-29 02:01 JST／対象: 09/28 14:01 〜 09/29 02:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 36 | 09/28 16:28 | 09/29 01:46 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 173 | 09/28 13:49 | 09/29 01:45 | 27分（16:10→16:38） |
-| financialjuice | 151 | 09/28 14:00 | 09/29 01:46 | ⚠ 59分（14:00→15:00） |
+| DeItaone | 37 | 09/28 16:28 | 09/29 01:54 | ⚠ 126分（20:42→22:49） |
+| FirstSquawk | 168 | 09/28 14:01 | 09/29 01:45 | 27分（16:10→16:38） |
+| financialjuice | 149 | 09/28 15:00 | 09/29 01:46 | ⚠ 54分（16:02→16:56） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 349 行（統合前 363 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 343 行（統合前 357 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 13:49 [FirstSquawk] JGB YIELDS RISE AMID CONCERNS ABOUT IRAN CONFLICT, INFLATION-WSJ
-- 09/28 13:53 [FirstSquawk] OIL RISES ON GEOPOLITICAL RISKS, STOCKPILE DECLINE-WSJ
-- 09/28 13:53 [FirstSquawk] GOLD FALLS ON EXPECTATIONS OF HIGHER FOR LONGER FED RATES-WSJ
-- 09/28 13:56 [FirstSquawk] Gold prices slide on expectations of prolonged higher Fed rates-wsj
-- 09/28 13:58 [FirstSquawk] Asian currencies come under pressure as geopolitical tensions continue-wsj
-- 09/28 14:00 [financialjuice] Finnish September industry confidence falls 3 points
-- 09/28 14:00 [financialjuice] Finnish September consumer confidence falls 4.9 points: Statistics Finland
 - 09/28 14:01 [FirstSquawk] JGB yields advance as investors assess Iran conflict risks and persistent inflation-wsj
 - 09/28 14:03 [FirstSquawk] Oil gains as geopolitical risks grow and stockpiles shrink-wsj
 - 09/28 14:11 [FirstSquawk] Silver prices slide toward $62 amid rising expectations of Fed rate hikes-fx
@@ -373,3 +366,4 @@
 - 09/29 01:46 [financialjuice] US considering sanctions waiver for flights between Iran and Iraq's holy city of Najaf - Source
 - 09/29 01:46 [DeItaone] WAIVER WOULD ALLOW PILGRIMS TO TRAVEL ON IRAQI AIRWAYS TO AND FROM IRAN FOR PILGRIMAGE FOR ONE MONTH, SOURCE SAYS
 - 09/29 01:46 [financialjuice] WH Sr. Adviser Hassett: 3-month annualized core inflation is around Fed target.
+- 09/29 01:54 [DeItaone] 36 DAYS TO MIDTERMS: DEMOCRATS HIT NEW 2026 HIGH With just 36 days until the Nov. 3 midterms, Kalshi’s American Power Index has swung sharply toward Democrats. USAGov Democrats now lead at +3.8 — their strongest level shown on the 2026 char…
