@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-29 00:48 JST／対象: 09/28 12:48 〜 09/29 00:48 JST（時刻はすべて日本時間）
+生成: 2026-09-29 01:02 JST／対象: 09/28 13:02 〜 09/29 01:02 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 28 | 09/28 16:28 | 09/29 00:44 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 163 | 09/28 12:54 | 09/29 00:40 | 27分（16:10→16:38） |
-| financialjuice | 129 | 09/28 13:26 | 09/29 00:39 | ⚠ 59分（14:00→15:00） |
+| FirstSquawk | 165 | 09/28 13:04 | 09/29 01:00 | 27分（16:10→16:38） |
+| financialjuice | 132 | 09/28 13:26 | 09/29 01:01 | ⚠ 59分（14:00→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 312 行（統合前 322 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 317 行（統合前 327 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 12:54 [FirstSquawk] Thailand August domestic auto sales surge 25.59% from a year earlier
 - 09/28 13:04 [FirstSquawk] EU COUNTRIES CONSIDER NATO-STYLE JOINT RESPONSES TO RUSSIAN HYBRID ATTACKS – FT
 - 09/28 13:04 [FirstSquawk] GM WARNS ON US MARKET AS CARMAKERS SEEK ‘SAFE HAVEN’ FROM CHINESE RIVALS – FT
 - 09/28 13:23 [FirstSquawk] US and China strike $60 billion low-tariff deal spanning foie gras to camels
@@ -336,3 +335,9 @@
 - 09/29 00:39 [FirstSquawk] TRUMP, HOUSE SPEAKER JOHNSON & AI CEOS TO MEET TUESDAY AT WHITE HOUSE - SEMAFOR
 - 09/29 00:40 [FirstSquawk] WH OFFICIAL: TRUMP, ANTHROPISM’S AMODEI MET LAST NIGHT
 - 09/29 00:44 [DeItaone] GOLDMAN WARNS JUNK BOND SUPPLY IS OVERWHELMING INVESTORS Goldman Sachs says a flood of U.S. high-yield debt issuance is straining investor demand, pushing junk-bond spreads to their widest since April. September issuance has reached $38.5 b…
+- 09/29 00:53 [FirstSquawk] CITIGROUP CEO FRASER SAYS BANK TRACKS AGENTS CONSTANTLY
+- 09/29 00:56 [FirstSquawk] KKR AND RWE SAID TO JOINTLY BID FOR GERMAN STATE-OWNED UNIPER
+- 09/29 00:56 [financialjuice] Lebanese Prime Minister: Rubio confirmed America's commitment to supporting the Lebanese army - Al Arabiya
+- 09/29 00:58 [financialjuice] TotalEnergies CEO: EU tankers can be used to ship LNG from Russia's Yamal outside of the EU, but it will be limited business
+- 09/29 01:00 [FirstSquawk] SPACEX'S STARSHIP RETURNS TO EARTH, TOUCHES DOWN IN THE PACIFIC OCEAN
+- 09/29 01:01 [financialjuice] Russia cuts oil and gas revenues estimate for 2026 to 7.6 trln roubles from 8.9 trln roubles previously, materials show

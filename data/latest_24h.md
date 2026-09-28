@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-29 00:48 JST／対象: 09/28 00:48 〜 09/29 00:48 JST（時刻はすべて日本時間）
+生成: 2026-09-29 01:02 JST／対象: 09/28 01:02 〜 09/29 01:02 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 32 | 09/28 06:12 | 09/29 00:44 | ⚠ 562分（07:06→16:28） |
-| FirstSquawk | 255 | 09/28 01:15 | 09/29 00:40 | ⚠ 78分（08:02→09:21） |
-| financialjuice | 195 | 09/28 02:54 | 09/29 00:39 | ⚠ 124分（05:07→07:11） |
+| FirstSquawk | 258 | 09/28 01:15 | 09/29 01:00 | ⚠ 78分（08:02→09:21） |
+| financialjuice | 198 | 09/28 02:54 | 09/29 01:01 | ⚠ 124分（05:07→07:11） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 474 行（統合前 484 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 480 行（統合前 490 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -498,3 +498,9 @@
 - 09/29 00:39 [FirstSquawk] TRUMP, HOUSE SPEAKER JOHNSON & AI CEOS TO MEET TUESDAY AT WHITE HOUSE - SEMAFOR
 - 09/29 00:40 [FirstSquawk] WH OFFICIAL: TRUMP, ANTHROPISM’S AMODEI MET LAST NIGHT
 - 09/29 00:44 [DeItaone] GOLDMAN WARNS JUNK BOND SUPPLY IS OVERWHELMING INVESTORS Goldman Sachs says a flood of U.S. high-yield debt issuance is straining investor demand, pushing junk-bond spreads to their widest since April. September issuance has reached $38.5 b…
+- 09/29 00:53 [FirstSquawk] CITIGROUP CEO FRASER SAYS BANK TRACKS AGENTS CONSTANTLY
+- 09/29 00:56 [FirstSquawk] KKR AND RWE SAID TO JOINTLY BID FOR GERMAN STATE-OWNED UNIPER
+- 09/29 00:56 [financialjuice] Lebanese Prime Minister: Rubio confirmed America's commitment to supporting the Lebanese army - Al Arabiya
+- 09/29 00:58 [financialjuice] TotalEnergies CEO: EU tankers can be used to ship LNG from Russia's Yamal outside of the EU, but it will be limited business
+- 09/29 01:00 [FirstSquawk] SPACEX'S STARSHIP RETURNS TO EARTH, TOUCHES DOWN IN THE PACIFIC OCEAN
+- 09/29 01:01 [financialjuice] Russia cuts oil and gas revenues estimate for 2026 to 7.6 trln roubles from 8.9 trln roubles previously, materials show

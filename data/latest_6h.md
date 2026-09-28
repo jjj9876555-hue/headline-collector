@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-29 00:48 JST／対象: 09/28 18:48 〜 09/29 00:48 JST（時刻はすべて日本時間）
+生成: 2026-09-29 01:02 JST／対象: 09/28 19:02 〜 09/29 01:02 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 22 | 09/28 19:06 | 09/29 00:44 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 97 | 09/28 18:55 | 09/29 00:40 | 14分（22:12→22:27） |
-| financialjuice | 109 | 09/28 19:01 | 09/29 00:39 | 21分（23:54→00:15） |
+| FirstSquawk | 94 | 09/28 19:11 | 09/29 01:00 | 14分（22:12→22:27） |
+| financialjuice | 111 | 09/28 19:03 | 09/29 01:01 | 21分（23:54→00:15） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 220 行（統合前 230 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 219 行（統合前 229 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 18:55 [FirstSquawk] MILIBAND STATES THAT THEY WILL KEEP ISOLATING IRAN UNTIL THE STRAIT OF HORMUZ IS REOPENED.
-- 09/28 18:55 [FirstSquawk] MILIBAND SAYS IGNORING CLIMATE ISSUES MAKES THE COUNTRY DANGEROUS.
-- 09/28 18:55 [FirstSquawk] MILIBAND SAYS CORPORATIONS SHOULD NOT BE LEFT WITH ALL THE GUARDRAILS.
-- 09/28 18:55 [FirstSquawk] MILIBAND STATED THAT TECH GIANTS CANNOT BLOCK OUR PROGRESS.
-- 09/28 19:01 [financialjuice] BoE's Ramsden: I don’t foresee that we will be considering further QE any time soon
-- 09/28 19:01 [FirstSquawk] UKRAINE AGRICULTRUE CHIEF: NO POSITIVE SIGNS ON BLACK SEA CEASEFIRE || DOESN'T EXPECT BLACK SEA CEASEFIRE IN COMING MONTHS || SEES MAXIMUM EXPORTS AT 50% VIA BLACK SEA ALTERNATIVES || REACHED 45% OF AGRI EXPORTS VIA BLACK SEA ALTERNATIVES
-- 09/28 19:01 [FirstSquawk] UKRAINE AGRICULTRUE CHIEF: DENIED REQUEST FOR EU220M GRANT, FARMER CREDIT LINE || WORLD BANK $250M UKRAINE AGRI LOAN PROVIDES FOR THIS YEAR || REQUESTED TO UP '27 SUGAR, BIOETHANOL EU TARIFF QUOTAS
 - 09/28 19:03 [financialjuice] BoE's Ramsden: However, we have to recognise that the external environment can change very rapidly
 - 09/28 19:04 [financialjuice] BoE's Ramsden: The inflation pressures I will continue to focus on are external pressures from energy prices, weather, ALIsupply chain
 - 09/28 19:04 [financialjuice] BoE's Ramsden: Domestically, I will be focused on the outlook for indirect effects, particularly in food prices, and any early signs of second-round effects
@@ -244,3 +237,9 @@
 - 09/29 00:39 [FirstSquawk] TRUMP, HOUSE SPEAKER JOHNSON & AI CEOS TO MEET TUESDAY AT WHITE HOUSE - SEMAFOR
 - 09/29 00:40 [FirstSquawk] WH OFFICIAL: TRUMP, ANTHROPISM’S AMODEI MET LAST NIGHT
 - 09/29 00:44 [DeItaone] GOLDMAN WARNS JUNK BOND SUPPLY IS OVERWHELMING INVESTORS Goldman Sachs says a flood of U.S. high-yield debt issuance is straining investor demand, pushing junk-bond spreads to their widest since April. September issuance has reached $38.5 b…
+- 09/29 00:53 [FirstSquawk] CITIGROUP CEO FRASER SAYS BANK TRACKS AGENTS CONSTANTLY
+- 09/29 00:56 [FirstSquawk] KKR AND RWE SAID TO JOINTLY BID FOR GERMAN STATE-OWNED UNIPER
+- 09/29 00:56 [financialjuice] Lebanese Prime Minister: Rubio confirmed America's commitment to supporting the Lebanese army - Al Arabiya
+- 09/29 00:58 [financialjuice] TotalEnergies CEO: EU tankers can be used to ship LNG from Russia's Yamal outside of the EU, but it will be limited business
+- 09/29 01:00 [FirstSquawk] SPACEX'S STARSHIP RETURNS TO EARTH, TOUCHES DOWN IN THE PACIFIC OCEAN
+- 09/29 01:01 [financialjuice] Russia cuts oil and gas revenues estimate for 2026 to 7.6 trln roubles from 8.9 trln roubles previously, materials show
