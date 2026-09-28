@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-28 22:28 JST／対象: 09/27 22:28 〜 09/28 22:28 JST（時刻はすべて日本時間）
+生成: 2026-09-28 22:49 JST／対象: 09/27 22:49 〜 09/28 22:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 26 | 09/28 00:04 | 09/28 20:42 | ⚠ 562分（07:06→16:28） |
-| FirstSquawk | 243 | 09/27 22:32 | 09/28 22:27 | ⚠ 78分（08:02→09:21） |
-| financialjuice | 152 | 09/27 23:08 | 09/28 22:25 | ⚠ 145分（00:29→02:54） |
+| FirstSquawk | 247 | 09/27 23:27 | 09/28 22:46 | ⚠ 78分（08:02→09:21） |
+| financialjuice | 170 | 09/27 23:08 | 09/28 22:48 | ⚠ 145分（00:29→02:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 413 行（統合前 423 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 434 行（統合前 446 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 22:32 [FirstSquawk] Trump: We moved a record amount of oil through the Strait of Hormuz last night, more than we moved before the war began.
-- 09/27 22:33 [FirstSquawk] Iraqi official: Suspension of flights with Iran depends on ground service companies complying with US Treasury instructions
-- 09/27 22:33 [FirstSquawk] Iraqi official: The lack of a publicly stated government position on Iranian flights is due to the sensitivity of the issue.
-- 09/27 22:33 [FirstSquawk] Iraqi official: Companies' apologies for not providing services before takeoff and after landing led to the suspension of Iranian flights
 - 09/27 23:08 [financialjuice/FirstSquawk] UK government spokesperson: UK Prime Minister is being kept informed on Gloucestershire incident
 - 09/27 23:28 [FirstSquawk] The US ambassador to the UN on Iran: President Trump will keep all options on the table.
 - 09/27 23:29 [FirstSquawk] Palestinian was killed and others were injured when an Israeli drone struck a car in the center of Gaza City.
@@ -437,3 +433,28 @@
 - 09/28 22:19 [financialjuice] Trump's 2PM announcement will be on Iowa steel project - Official
 - 09/28 22:25 [financialjuice] Total CEO: About 10M b/d going through Hormuz
 - 09/28 22:27 [FirstSquawk] LULA SEEN WITH 39%, BOLSONARO 34% OF VOTES IN 1ST ROUND POLL - QUAEST
+- 09/28 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -85.5 MLN NASDAQ 100: -8.3 MLN DOW 30: -7.7 MLN MAG 7: -4.5 MLN $MACRO
+- 09/28 22:31 [financialjuice] ECB's President Lagarde: Growth was broad-based across most countries and sectors, pattern expected to have continued in Q3
+- 09/28 22:31 [FirstSquawk] MONGODB SHARES DROP 26% AFTER CEO RESIGNS TO JOIN META.
+- 09/28 22:31 [financialjuice] ECB's President Lagarde: Manufacturing is performing solidly, the labour market remains robust.
+- 09/28 22:31 [financialjuice] ECB's President Lagarde: The outlook continues to be surrounded by high uncertainty
+- 09/28 22:31 [FirstSquawk] NASDAQ DOWN 134.78 POINTS, OR 0.50 PERCENT, AT 26,933.94 AFTER MARKET OPEN DOW JONES DOWN 379.93 POINTS, OR 0.73 PERCENT, AT 51,448.69 AFTER MARKET OPEN S&P 500 DOWN 36.38 POINTS, OR 0.47 PERCENT, AT 7,707.03 AFTER MARKET OPEN
+- 09/28 22:31 [financialjuice] ECB's President Lagarde: Major technological advancements have not reduced employment, but right now the verdict on al is still out.
+- 09/28 22:32 [financialjuice] ECB's Lagarde: We see higher inflation ahead but no signs yet that it is becoming embedded.
+- 09/28 22:32 [financialjuice] ECB's President Lagarde: The inflation outlook will be higher in 2027 and 2028 than we expected a few months ago.
+- 09/28 22:32 [FirstSquawk] LAGARDE: ECONOMIC RESILIENCE SET TO CONTINUE IN 3Q
+- 09/28 22:32 [FirstSquawk] LAGARDE: OUTLOOK SURROUNDED BY HIGH UNCERTAINTY
+- 09/28 22:32 [financialjuice] ECB's President Lagarde: We remain in the middle path for monetary policy that I laid out earlier this year.
+- 09/28 22:33 [FirstSquawk] LAGARDE: STILL SEES UPSIDE INFLATION RISKS, DOWNSIDE FOR GROWTH
+- 09/28 22:33 [financialjuice] ECB's President Lagarde: We view a measured response as appropriate to keep inflation in check
+- 09/28 22:33 [financialjuice] ECB's President Lagarde: This means that while the shock is too large to look through, we view a measured response as appropriate to keep inflation in check.
+- 09/28 22:33 [financialjuice] ECB's President Lagarde: Still sees upside risks to inflation and downside risks to growth
+- 09/28 22:33 [financialjuice] ECB's President Lagarde's Speech to European Parliament
+- 09/28 22:36 [financialjuice] UK September long-term public inflation expectations 4.3% vs 4.1% in August - Citi/YouGov
+- 09/28 22:37 [financialjuice] UK September year-ahead public inflation expectations year-ahead 4.5% vs 3.9% - Citi/YouGov
+- 09/28 22:37 [FirstSquawk] EVONIK REJECTS EUR10.3 BLN BASF BID TO CONSOLIDATE CHEMICALS INDUSTRY – FT
+- 09/28 22:39 [FirstSquawk] UK SEPTEMBER LONG-TERM PUBLIC INFLATION EXPECTATIONS AT 4.3% VS 4.1% IN AUGUST - CITI/YOUGOV
+- 09/28 22:41 [financialjuice] ECB's President Lagarde: AI could lower inflation in the long term by boosting productivity
+- 09/28 22:44 [financialjuice] WATCH LIVE: ECB's President Lagarde Speaks
+- 09/28 22:46 [FirstSquawk/financialjuice] RUSSIA PLANS TO EXTEND DIESEL EXPORT BAN THROUGH OCTOBER: TASS
+- 09/28 22:48 [financialjuice] Irna's Araqchi will meet with mediators in New York today. representative from the American side will not be present at this meeting - ISNA

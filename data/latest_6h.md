@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-28 22:28 JST／対象: 09/28 16:28 〜 09/28 22:28 JST（時刻はすべて日本時間）
+生成: 2026-09-28 22:49 JST／対象: 09/28 16:49 〜 09/28 22:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 21 | 09/28 16:28 | 09/28 20:42 | ⚠ 50分（17:23→18:13） |
-| FirstSquawk | 82 | 09/28 16:38 | 09/28 22:27 | 24分（16:39→17:04） |
-| financialjuice | 69 | 09/28 16:56 | 09/28 22:25 | 40分（18:20→19:01） |
+| DeItaone | 19 | 09/28 17:23 | 09/28 20:42 | ⚠ 50分（17:23→18:13） |
+| FirstSquawk | 86 | 09/28 17:04 | 09/28 22:46 | 15分（18:29→18:44） |
+| financialjuice | 87 | 09/28 16:56 | 09/28 22:48 | 40分（18:20→19:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 169 行（統合前 173 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 188 行（統合前 194 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 16:28 [DeItaone] YEMENI FORCES STRIKE HOUTHI TARGETS Yemeni government forces launched multiple airstrikes against Houthi positions west of Taiz, according to Al Arabiya citing Yemeni sources. The strikes reportedly targeted several Houthi sites in the Al-R…
-- 09/28 16:38 [FirstSquawk] KKR-BACKED ADVANTA IS REPORTEDLY BEGINNING A ROAD SHOW FOR A $400 MILLION INITIAL PUBLIC OFFERING.
-- 09/28 16:38 [FirstSquawk] SWEDISH PM ANDERSSON STATES GOVERNMENT FORMATION IS NOT POSSIBLE.
-- 09/28 16:38 [FirstSquawk] SWEDEN'S ANDERSSON RETURNS GOVERNMENT FORMATION MANDATE.
-- 09/28 16:39 [FirstSquawk] SPOT GOLD FALLS OVER 3% UNDER $4,155 AN OUNCE.
-- 09/28 16:48 [DeItaone] TRUMP SERIOUSLY CONSIDERS U.S. DIESEL EXPORT BAN President Trump said the U.S. is “very seriously” considering restricting diesel exports, despite concerns it could push gasoline prices higher. Trump blamed current fuel pressures largely on…
 - 09/28 16:56 [financialjuice] Japan's Top Currency Diplomat Mimura: Japanese Prime Minister, Finance Minister, US have sent clear message on yen.
 - 09/28 16:56 [financialjuice] Japan's Top Currency Diplomat Mimura when asked about market views funding constraints may limit Japan's ability to conduct yen-buying intervention: I have absolutely no such concern. when asked about market views funding constraints may li…
 - 09/28 16:56 [financialjuice] Japan's Top Currency Diplomat Mimura: We are always carefully watching how such japan-us rate trend has affected market moves.
@@ -193,3 +187,28 @@
 - 09/28 22:19 [financialjuice] Trump's 2PM announcement will be on Iowa steel project - Official
 - 09/28 22:25 [financialjuice] Total CEO: About 10M b/d going through Hormuz
 - 09/28 22:27 [FirstSquawk] LULA SEEN WITH 39%, BOLSONARO 34% OF VOTES IN 1ST ROUND POLL - QUAEST
+- 09/28 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -85.5 MLN NASDAQ 100: -8.3 MLN DOW 30: -7.7 MLN MAG 7: -4.5 MLN $MACRO
+- 09/28 22:31 [financialjuice] ECB's President Lagarde: Growth was broad-based across most countries and sectors, pattern expected to have continued in Q3
+- 09/28 22:31 [FirstSquawk] MONGODB SHARES DROP 26% AFTER CEO RESIGNS TO JOIN META.
+- 09/28 22:31 [financialjuice] ECB's President Lagarde: Manufacturing is performing solidly, the labour market remains robust.
+- 09/28 22:31 [financialjuice] ECB's President Lagarde: The outlook continues to be surrounded by high uncertainty
+- 09/28 22:31 [FirstSquawk] NASDAQ DOWN 134.78 POINTS, OR 0.50 PERCENT, AT 26,933.94 AFTER MARKET OPEN DOW JONES DOWN 379.93 POINTS, OR 0.73 PERCENT, AT 51,448.69 AFTER MARKET OPEN S&P 500 DOWN 36.38 POINTS, OR 0.47 PERCENT, AT 7,707.03 AFTER MARKET OPEN
+- 09/28 22:31 [financialjuice] ECB's President Lagarde: Major technological advancements have not reduced employment, but right now the verdict on al is still out.
+- 09/28 22:32 [financialjuice] ECB's Lagarde: We see higher inflation ahead but no signs yet that it is becoming embedded.
+- 09/28 22:32 [financialjuice] ECB's President Lagarde: The inflation outlook will be higher in 2027 and 2028 than we expected a few months ago.
+- 09/28 22:32 [FirstSquawk] LAGARDE: ECONOMIC RESILIENCE SET TO CONTINUE IN 3Q
+- 09/28 22:32 [FirstSquawk] LAGARDE: OUTLOOK SURROUNDED BY HIGH UNCERTAINTY
+- 09/28 22:32 [financialjuice] ECB's President Lagarde: We remain in the middle path for monetary policy that I laid out earlier this year.
+- 09/28 22:33 [FirstSquawk] LAGARDE: STILL SEES UPSIDE INFLATION RISKS, DOWNSIDE FOR GROWTH
+- 09/28 22:33 [financialjuice] ECB's President Lagarde: We view a measured response as appropriate to keep inflation in check
+- 09/28 22:33 [financialjuice] ECB's President Lagarde: This means that while the shock is too large to look through, we view a measured response as appropriate to keep inflation in check.
+- 09/28 22:33 [financialjuice] ECB's President Lagarde: Still sees upside risks to inflation and downside risks to growth
+- 09/28 22:33 [financialjuice] ECB's President Lagarde's Speech to European Parliament
+- 09/28 22:36 [financialjuice] UK September long-term public inflation expectations 4.3% vs 4.1% in August - Citi/YouGov
+- 09/28 22:37 [financialjuice] UK September year-ahead public inflation expectations year-ahead 4.5% vs 3.9% - Citi/YouGov
+- 09/28 22:37 [FirstSquawk] EVONIK REJECTS EUR10.3 BLN BASF BID TO CONSOLIDATE CHEMICALS INDUSTRY – FT
+- 09/28 22:39 [FirstSquawk] UK SEPTEMBER LONG-TERM PUBLIC INFLATION EXPECTATIONS AT 4.3% VS 4.1% IN AUGUST - CITI/YOUGOV
+- 09/28 22:41 [financialjuice] ECB's President Lagarde: AI could lower inflation in the long term by boosting productivity
+- 09/28 22:44 [financialjuice] WATCH LIVE: ECB's President Lagarde Speaks
+- 09/28 22:46 [FirstSquawk/financialjuice] RUSSIA PLANS TO EXTEND DIESEL EXPORT BAN THROUGH OCTOBER: TASS
+- 09/28 22:48 [financialjuice] Irna's Araqchi will meet with mediators in New York today. representative from the American side will not be present at this meeting - ISNA
