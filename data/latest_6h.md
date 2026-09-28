@@ -7,48 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-29 07:24 JST／対象: 09/29 01:24 〜 09/29 07:24 JST（時刻はすべて日本時間）
+生成: 2026-09-29 07:43 JST／対象: 09/29 01:43 〜 09/29 07:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 10 | 09/29 01:39 | 09/29 02:14 | 20分（01:54→02:14） |
-| FirstSquawk | 61 | 09/29 01:26 | 09/29 05:29 | 31分（02:57→03:29） |
-| financialjuice | 100 | 09/29 01:27 | 09/29 07:21 | 23分（06:11→06:35） |
+| DeItaone | 4 | 09/29 01:45 | 09/29 02:14 | 20分（01:54→02:14） |
+| FirstSquawk | 57 | 09/29 01:45 | 09/29 07:41 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 87 | 09/29 01:44 | 09/29 07:21 | 23分（06:11→06:35） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 164 行（統合前 173 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 144 行（統合前 149 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 01:26 [FirstSquawk] US HASSETT: ESTIMATE PRODUCTIVITY GROWTH RIGHT NOW ABOUT 2.5%
-- 09/29 01:26 [FirstSquawk] HASSETT: BASE CASE ON GDP GROWTH, SHOULD BE AROUND 4%
-- 09/29 01:27 [financialjuice] WH Sr. Adviser Hassett: Base case on GDP growth, should be around 4%.
-- 09/29 01:27 [FirstSquawk] TRUMP OPEN TO IRAN SANCTIONS RELIEF FOR ‘CONCRETE PROGRESS’ ON NUCLEAR ISSUES, WHITE HOUSE OFFICIAL SAYS – CNN
-- 09/29 01:27 [financialjuice] ❗ White House official: Trump open to Iran sanctions relief for ‘concrete progress’ on nuclear issues - CNN
-- 09/29 01:30 [FirstSquawk] US OIL REVERSES GAINS, TRADES NEAR $92 A BARREL
-- 09/29 01:33 [financialjuice/FirstSquawk/DeItaone] Iran officials pessimistic about deal with US before midterms
-- 09/29 01:34 [financialjuice] Al Arabiya's Washington bureau chief: Iran and Yemen dossiers featured strongly in Saudi-US foreign ministers' meeting; Trump will not back down from economic siege on Tehran, wants Hormuz reopened without conditions
-- 09/29 01:35 [financialjuice] ECB's Pereira: Natural gas price pressures could lift inflation this winter.
-- 09/29 01:35 [financialjuice] WH Sr. Adviser Hassett: Lot of our debt is debt we owe ourselves.
-- 09/29 01:35 [financialjuice] WH Sr. Adviser Hassett: External debt maybe is around $15 trln
-- 09/29 01:36 [FirstSquawk] HASSETT: EXTERNAL DEBT MAYBE IS AROUND $15T
-- 09/29 01:36 [FirstSquawk] HASSETT: LOT OF OUR DEBT IS DEBT WE OWE OURSELVES
-- 09/29 01:37 [financialjuice] WH Sr. Adviser Hassett asked on bond yields, refers to Treasury Secretary.
-- 09/29 01:38 [financialjuice] White House weighs red-dyed diesel tax relief to lower fuel prices, according to 2 sources familiar
-- 09/29 01:39 [financialjuice] WH Sr. Adviser Hassett: 30-Yr TIPS yields tell you capital returns higher now.
-- 09/29 01:39 [DeItaone/financialjuice] SAUDI ARABIA RESUMES OIL EXPORTS VIA EAST-WEST PIPELINE AFTER REPAIRS -- SOURCES
-- 09/29 01:39 [FirstSquawk] HASSETT: 30-YR TIPS YIELDS TELL YOU CAPITAL RETURNS HIGHER NOW
-- 09/29 01:40 [FirstSquawk] HASSETT: 3% DEFICIT GOAL WILL DEPEND ON 'FORCE MAJEURE' FACTORS
-- 09/29 01:40 [DeItaone] IRAN PESSIMISTIC ON U.S. DEAL BEFORE MIDTERMS Iranian officials privately see little prospect of reaching a U.S. agreement to end hostilities and reopen Hormuz before the Nov. 3 midterms, Bloomberg reports. Talks in New York made limited pr…
-- 09/29 01:40 [financialjuice] Aramco currently operating pipeline at throughput rate of around 3.5 mln BPD - sources
-- 09/29 01:41 [DeItaone] ARAMCO CURRENTLY OPERATING PIPELINE AT THROUGHPUT RATE OF AROUND 3.5 MILLION BARRELS A DAY -- SOURCES
-- 09/29 01:42 [DeItaone] TRUMP OPEN TO IRAN SANCTIONS RELIEF FOR NUCLEAR PROGRESS President Trump is willing to offer sanctions relief and release frozen Iranian funds in exchange for concrete progress on Tehran’s nuclear program, a U.S. official told CNN. Washingt…
-- 09/29 01:43 [financialjuice] Texas Governor Abbott waives dyed-diesel restrictions
-- 09/29 01:43 [DeItaone] SAUDI ARABIA RESTORES KEY OIL EXPORT ROUTE Saudi Arabia has resumed oil exports through its East-West pipeline after repairing damage from drone strikes earlier this month. Saudi Aramco began loading vessels again at the Red Sea port of Yan…
 - 09/29 01:44 [financialjuice] ECB's Pereira: Inflation pressures are currently concentrated in energy prices.
 - 09/29 01:45 [FirstSquawk] US OFFICIAL: WE NEED GUARANTEES THIS TIME THAT IRAN IS SERIOUS AND NOT JUST SEEKING TO ESCAPE THE DIFFICULT SITUATION IT IS SUFFERING FROM
 - 09/29 01:45 [DeItaone] US CONSIDERING SANCTIONS WAIVER FOR FLIGHTS BETWEEN IRAN AND IRAQ'S HOLY CITY OF NAJAF, PERSON WITH DIRECT KNOWLEDGE SAYS
@@ -188,3 +163,8 @@
 - 09/29 07:19 [financialjuice] Iran's Foreign Minister Aragchi: Tehran held talks with Qatari mediators on ways to meet Iran's demands
 - 09/29 07:20 [financialjuice] Iran's Aragchi: Qatari mediators to present ideas to US side - IRNA
 - 09/29 07:21 [financialjuice] Iran's Aragchi: Qatari and Pakistani mediation channels intensify after Iran unveils plan
+- 09/29 07:40 [FirstSquawk] NORTH KOREA: US APPROVAL OF SOUTH KOREA’S NUCLEAR SUBMARINE HEIGHTENS REGIONAL INSTABILITY — KCNA
+- 09/29 07:40 [FirstSquawk] IRAN'S FOREIGN MINISTER ARAGHCHI SAYS TEHRAN DISCUSSED PROPOSALS WITH QATARI MEDIATORS TO PRESENT TO THE U.S., WITH THE U.S. RESPONSE TO BE RELAYED TO TEHRAN THROUGH THE QATARI MEDIATORS.
+- 09/29 07:40 [FirstSquawk] IRAN'S FOREIGN MINISTER ARAGHCHI SAYS THAT IF THE U.S. 'WANTS A DEAL OR PEACE, IRAN HAS OFFERED A SOLUTION', ADDING THAT THE CONDITIONS SET BY THE SUPREME LEADER MUST BE MET FOR THE STRAIT OF HORMUZ TO REOPEN - IRNA
+- 09/29 07:41 [FirstSquawk] IRAN'S FOREIGN MINISTER ARAGHCHI SAYS TEHRAN HELD TALKS WITH QATARI MEDIATORS ON WAYS TO MEET IRAN'S DEMANDS, WITH THE MEDIATORS TO PRESENT IDEAS TO THE U.S. SIDE, AND QATARI AND PAKISTANI MEDIATION CHANNELS INTENSIFYING AFTER IRAN UNVEILED…
+- 09/29 07:41 [FirstSquawk] IRAN'S FOREIGN MINISTER ARAGHCHI SAYS HE HOPES FOR THE U.S. FINAL ANSWER THROUGH THE QATARI MEDIATORS BY TUESDAY - IRNA

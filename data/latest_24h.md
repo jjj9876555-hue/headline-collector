@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-29 07:24 JST／対象: 09/28 07:24 〜 09/29 07:24 JST（時刻はすべて日本時間）
+生成: 2026-09-29 07:43 JST／対象: 09/28 07:43 〜 09/29 07:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 38 | 09/28 16:28 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 293 | 09/28 08:02 | 09/29 05:29 | ⚠ 78分（08:02→09:21） |
+| FirstSquawk | 298 | 09/28 08:02 | 09/29 07:41 | ⚠ 131分（05:29→07:40） |
 | financialjuice | 289 | 09/28 08:51 | 09/29 07:21 | ⚠ 115分（11:30→13:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 605 行（統合前 624 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 610 行（統合前 629 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -629,3 +629,8 @@
 - 09/29 07:19 [financialjuice] Iran's Foreign Minister Aragchi: Tehran held talks with Qatari mediators on ways to meet Iran's demands
 - 09/29 07:20 [financialjuice] Iran's Aragchi: Qatari mediators to present ideas to US side - IRNA
 - 09/29 07:21 [financialjuice] Iran's Aragchi: Qatari and Pakistani mediation channels intensify after Iran unveils plan
+- 09/29 07:40 [FirstSquawk] NORTH KOREA: US APPROVAL OF SOUTH KOREA’S NUCLEAR SUBMARINE HEIGHTENS REGIONAL INSTABILITY — KCNA
+- 09/29 07:40 [FirstSquawk] IRAN'S FOREIGN MINISTER ARAGHCHI SAYS TEHRAN DISCUSSED PROPOSALS WITH QATARI MEDIATORS TO PRESENT TO THE U.S., WITH THE U.S. RESPONSE TO BE RELAYED TO TEHRAN THROUGH THE QATARI MEDIATORS.
+- 09/29 07:40 [FirstSquawk] IRAN'S FOREIGN MINISTER ARAGHCHI SAYS THAT IF THE U.S. 'WANTS A DEAL OR PEACE, IRAN HAS OFFERED A SOLUTION', ADDING THAT THE CONDITIONS SET BY THE SUPREME LEADER MUST BE MET FOR THE STRAIT OF HORMUZ TO REOPEN - IRNA
+- 09/29 07:41 [FirstSquawk] IRAN'S FOREIGN MINISTER ARAGHCHI SAYS TEHRAN HELD TALKS WITH QATARI MEDIATORS ON WAYS TO MEET IRAN'S DEMANDS, WITH THE MEDIATORS TO PRESENT IDEAS TO THE U.S. SIDE, AND QATARI AND PAKISTANI MEDIATION CHANNELS INTENSIFYING AFTER IRAN UNVEILED…
+- 09/29 07:41 [FirstSquawk] IRAN'S FOREIGN MINISTER ARAGHCHI SAYS HE HOPES FOR THE U.S. FINAL ANSWER THROUGH THE QATARI MEDIATORS BY TUESDAY - IRNA
