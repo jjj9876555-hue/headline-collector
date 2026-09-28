@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-29 05:46 JST／対象: 09/28 17:46 〜 09/29 05:46 JST（時刻はすべて日本時間）
+生成: 2026-09-29 06:00 JST／対象: 09/28 18:00 〜 09/29 06:00 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 35 | 09/28 18:13 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 176 | 09/28 17:54 | 09/29 05:29 | 31分（02:57→03:29） |
-| financialjuice | 199 | 09/28 18:00 | 09/29 05:26 | 40分（18:20→19:01） |
+| FirstSquawk | 175 | 09/28 18:03 | 09/29 05:29 | 31分（02:57→03:29） |
+| financialjuice | 200 | 09/28 18:01 | 09/29 05:55 | 40分（18:20→19:01） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 395 行（統合前 414 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,8 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 17:54 [FirstSquawk] NHC: LIFE-THREATENING WINDS AND FLASH FLOODS EXPECTED OVER PORTIONS OF BAJA CALIFORNIA SUR AND SONORA TODAY AND TUESDAY, CONDITIONS EXPECTED TO BEGIN DETERIORATING THIS MORNING IN BAJA CALIFORNIA SUR
-- 09/28 18:00 [financialjuice] NVIDIA Openshell and sentry are meant to keep AI agents in line.
 - 09/28 18:01 [financialjuice] Nvidia introduces open-source tool duo to boost AI security. $NVDA
 - 09/28 18:03 [FirstSquawk] NVIDIA DEBUTS SYSTEM DESIGNED TO STOP AI AGENTS GOING AWRY || INTRODUCES OPEN-SOURCE TOOL DUO TO BOOST AI SECURITY || OPENSHELL AND SENTRY ARE MEANT TO KEEP AI AGENTS IN LINE || TECHNOLOGY COULD HAVE PREVENTED HUGGING FACE BREACH
 - 09/28 18:08 [FirstSquawk] US 10-YEAR YIELD INCREASES 7 BASIS POINTS TO 5.23%, HIGHEST LEVEL SINCE 2007.
@@ -419,3 +417,5 @@
 - 09/29 05:19 [FirstSquawk] IN CORPORATE NEWS, NVIDIA EXPANDED ITS BUYBACK AUTHORIZATION BY $150 BLN, AMD AGREED TO ACQUIRE WORLD LABS FOR $8.2 BLN AND BOEING'S 737 MAX 10 CERTIFICATION WAS DELAYED OVER A SOFTWARE ISSUE, WHILE PARAMOUNT SKYDANCE SECURED ENOUGH INVESTO…
 - 09/29 05:20 [FirstSquawk] MSCI RECLASSIFIES CORTEVA FROM LARGE CAP TO MID CAP; ADDS VYLOR TO GLOBAL STANDARD INDEXES EFFECTIVE OCTOBER 2, 2026
 - 09/29 05:26 [financialjuice/FirstSquawk] Iran's State TV: The sounds heard on Qeshm Island were likely the result of warning shots fired at violating vessels in the Strait of Hormuz.
+- 09/29 05:48 [financialjuice] Libyan, Moroccan and Qatari military and government aircraft landed in Abu Dhabi during Israeli Prime Minister Netanyahu's visit - Israel's Kan News.
+- 09/29 05:55 [financialjuice] Anthropic collaborates with Nvidia on agent security $NVDA
