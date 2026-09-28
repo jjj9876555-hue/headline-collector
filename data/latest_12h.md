@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-28 21:51 JST／対象: 09/28 09:51 〜 09/28 21:51 JST（時刻はすべて日本時間）
+生成: 2026-09-28 22:06 JST／対象: 09/28 10:06 〜 09/28 22:06 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 21 | 09/28 16:28 | 09/28 20:42 | ⚠ 50分（17:23→18:13） |
-| FirstSquawk | 160 | 09/28 09:54 | 09/28 21:49 | 27分（16:10→16:38） |
-| financialjuice | 94 | 09/28 10:06 | 09/28 21:49 | ⚠ 115分（11:30→13:26） |
+| FirstSquawk | 158 | 09/28 10:06 | 09/28 21:58 | 27分（16:10→16:38） |
+| financialjuice | 97 | 09/28 10:06 | 09/28 22:01 | ⚠ 115分（11:30→13:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 272 行（統合前 275 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 273 行（統合前 277 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 09:54 [FirstSquawk] Tokyo Metro says data breach may have exposed 59,000 customer email addresses
-- 09/28 09:58 [FirstSquawk] Darwin Port lease sparks fresh tensions between Australia and China - KYODO
-- 09/28 10:01 [FirstSquawk] POLITICO - Trump administration airs campaign-style Trump ad as taxpayer-funded messaging expands
-- 09/28 10:01 [FirstSquawk] 2-year Japanese government bond yield hits 1.955%, highest since April 1995
 - 09/28 10:06 [financialjuice] China commerce ministry: importing US coal complements domestic market, offers stable economic returns and jobs for US industry
 - 09/28 10:06 [FirstSquawk] China Commerce Ministry says U.S. coal imports benefit domestic market and American coal industry
 - 09/28 10:06 [financialjuice] China commerce ministry: We look forward to expanding China-US collaboration in coal sector
@@ -296,3 +292,8 @@
 - 09/28 21:46 [financialjuice] Oil flows through Saudi East-West pipeline reach about 3.5m b/d.
 - 09/28 21:49 [financialjuice] US House Speaker Johnson: We need Taiwan to be stable and independent
 - 09/28 21:49 [FirstSquawk] US HOUSE SPEAKER JOHNSON: WE NEED TAIWAN TO BE STABLE, INDEPENDENT
+- 09/28 21:52 [financialjuice] Trump to unveil planned $15 billion Iowa steel project - WSJ
+- 09/28 21:53 [FirstSquawk] SPACEX'S STARSHIP ROCKET LIFTS OFF ON FIRST-EVER ORBITAL TEST
+- 09/28 21:58 [FirstSquawk] SHEIN 1H NET INCOME $2.30B VS. $1.09B Y/Y
+- 09/28 22:00 [financialjuice] Effective Fed Funds Rate 3.88% September 25 vs 3.88% September 24.
+- 09/28 22:01 [financialjuice] Senate report says Tether's USDT has become a primary means of payment for Iran - WSJ

@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-28 21:51 JST／対象: 09/27 21:51 〜 09/28 21:51 JST（時刻はすべて日本時間）
+生成: 2026-09-28 22:06 JST／対象: 09/27 22:06 〜 09/28 22:06 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 26 | 09/28 00:04 | 09/28 20:42 | ⚠ 562分（07:06→16:28） |
-| FirstSquawk | 242 | 09/27 21:56 | 09/28 21:49 | ⚠ 78分（08:02→09:21） |
-| financialjuice | 153 | 09/27 21:54 | 09/28 21:49 | ⚠ 145分（00:29→02:54） |
+| FirstSquawk | 239 | 09/27 22:32 | 09/28 21:58 | ⚠ 78分（08:02→09:21） |
+| financialjuice | 150 | 09/27 23:08 | 09/28 22:01 | ⚠ 145分（00:29→02:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 408 行（統合前 422 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 407 行（統合前 417 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 21:54 [financialjuice/FirstSquawk] UK police on Fairford air base incident: 5 men arrested near RAF Fairford
-- 09/27 21:54 [financialjuice/FirstSquawk] UK police on Fairford air base incident: men held in custody
-- 09/27 21:54 [financialjuice/FirstSquawk] UK police: 85 households told to evacuate
-- 09/27 21:55 [financialjuice/FirstSquawk] UK police: working to determine full scope of this incident
-- 09/27 21:55 [financialjuice/FirstSquawk] UK police: working closely with partners in counterterrorism efforts
-- 09/27 22:01 [financialjuice] UK police: 5 men near RAF Fairford further apprehended on suspicion of preparing terrorist act
 - 09/27 22:32 [FirstSquawk] Trump: We moved a record amount of oil through the Strait of Hormuz last night, more than we moved before the war began.
 - 09/27 22:33 [FirstSquawk] Iraqi official: Suspension of flights with Iran depends on ground service companies complying with US Treasury instructions
 - 09/27 22:33 [FirstSquawk] Iraqi official: The lack of a publicly stated government position on Iranian flights is due to the sensitivity of the issue.
@@ -432,3 +426,8 @@
 - 09/28 21:46 [financialjuice] Oil flows through Saudi East-West pipeline reach about 3.5m b/d.
 - 09/28 21:49 [financialjuice] US House Speaker Johnson: We need Taiwan to be stable and independent
 - 09/28 21:49 [FirstSquawk] US HOUSE SPEAKER JOHNSON: WE NEED TAIWAN TO BE STABLE, INDEPENDENT
+- 09/28 21:52 [financialjuice] Trump to unveil planned $15 billion Iowa steel project - WSJ
+- 09/28 21:53 [FirstSquawk] SPACEX'S STARSHIP ROCKET LIFTS OFF ON FIRST-EVER ORBITAL TEST
+- 09/28 21:58 [FirstSquawk] SHEIN 1H NET INCOME $2.30B VS. $1.09B Y/Y
+- 09/28 22:00 [financialjuice] Effective Fed Funds Rate 3.88% September 25 vs 3.88% September 24.
+- 09/28 22:01 [financialjuice] Senate report says Tether's USDT has become a primary means of payment for Iran - WSJ
