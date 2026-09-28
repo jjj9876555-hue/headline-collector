@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-28 22:06 JST／対象: 09/28 16:06 〜 09/28 22:06 JST（時刻はすべて日本時間）
+生成: 2026-09-28 22:28 JST／対象: 09/28 16:28 〜 09/28 22:28 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 21 | 09/28 16:28 | 09/28 20:42 | ⚠ 50分（17:23→18:13） |
-| FirstSquawk | 79 | 09/28 16:10 | 09/28 21:58 | 27分（16:10→16:38） |
-| financialjuice | 67 | 09/28 16:56 | 09/28 22:01 | 40分（18:20→19:01） |
+| FirstSquawk | 82 | 09/28 16:38 | 09/28 22:27 | 24分（16:39→17:04） |
+| financialjuice | 69 | 09/28 16:56 | 09/28 22:25 | 40分（18:20→19:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 164 行（統合前 168 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 169 行（統合前 173 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 16:10 [FirstSquawk] UK HOME BUILDER STOCKS RISE FOLLOWING NEW INITIATIVE TO ASSIST FIRST-TIME BUYERS.
 - 09/28 16:28 [DeItaone] YEMENI FORCES STRIKE HOUTHI TARGETS Yemeni government forces launched multiple airstrikes against Houthi positions west of Taiz, according to Al Arabiya citing Yemeni sources. The strikes reportedly targeted several Houthi sites in the Al-R…
 - 09/28 16:38 [FirstSquawk] KKR-BACKED ADVANTA IS REPORTEDLY BEGINNING A ROAD SHOW FOR A $400 MILLION INITIAL PUBLIC OFFERING.
 - 09/28 16:38 [FirstSquawk] SWEDISH PM ANDERSSON STATES GOVERNMENT FORMATION IS NOT POSSIBLE.
@@ -188,3 +187,9 @@
 - 09/28 21:58 [FirstSquawk] SHEIN 1H NET INCOME $2.30B VS. $1.09B Y/Y
 - 09/28 22:00 [financialjuice] Effective Fed Funds Rate 3.88% September 25 vs 3.88% September 24.
 - 09/28 22:01 [financialjuice] Senate report says Tether's USDT has become a primary means of payment for Iran - WSJ
+- 09/28 22:06 [FirstSquawk] INDIA TRADE MINISTER GOYAL TO VISIT US SEPT 29-OCT 5 FOR G20 TRADE TALKS
+- 09/28 22:11 [FirstSquawk] TRUMP ADMINISTRATION ENDS FUEL ECONOMY CREDIT TRADING IN 2028
+- 09/28 22:12 [FirstSquawk] SPACEX: GO-AHEAD GIVEN FOR STARSHIP ORBIT ATTEMPT DESPITE ENGINE GOING OUT
+- 09/28 22:19 [financialjuice] Trump's 2PM announcement will be on Iowa steel project - Official
+- 09/28 22:25 [financialjuice] Total CEO: About 10M b/d going through Hormuz
+- 09/28 22:27 [FirstSquawk] LULA SEEN WITH 39%, BOLSONARO 34% OF VOTES IN 1ST ROUND POLL - QUAEST

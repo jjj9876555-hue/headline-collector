@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-28 22:06 JST／対象: 09/27 22:06 〜 09/28 22:06 JST（時刻はすべて日本時間）
+生成: 2026-09-28 22:28 JST／対象: 09/27 22:28 〜 09/28 22:28 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 26 | 09/28 00:04 | 09/28 20:42 | ⚠ 562分（07:06→16:28） |
-| FirstSquawk | 239 | 09/27 22:32 | 09/28 21:58 | ⚠ 78分（08:02→09:21） |
-| financialjuice | 150 | 09/27 23:08 | 09/28 22:01 | ⚠ 145分（00:29→02:54） |
+| FirstSquawk | 243 | 09/27 22:32 | 09/28 22:27 | ⚠ 78分（08:02→09:21） |
+| financialjuice | 152 | 09/27 23:08 | 09/28 22:25 | ⚠ 145分（00:29→02:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 407 行（統合前 417 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 413 行（統合前 423 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -431,3 +431,9 @@
 - 09/28 21:58 [FirstSquawk] SHEIN 1H NET INCOME $2.30B VS. $1.09B Y/Y
 - 09/28 22:00 [financialjuice] Effective Fed Funds Rate 3.88% September 25 vs 3.88% September 24.
 - 09/28 22:01 [financialjuice] Senate report says Tether's USDT has become a primary means of payment for Iran - WSJ
+- 09/28 22:06 [FirstSquawk] INDIA TRADE MINISTER GOYAL TO VISIT US SEPT 29-OCT 5 FOR G20 TRADE TALKS
+- 09/28 22:11 [FirstSquawk] TRUMP ADMINISTRATION ENDS FUEL ECONOMY CREDIT TRADING IN 2028
+- 09/28 22:12 [FirstSquawk] SPACEX: GO-AHEAD GIVEN FOR STARSHIP ORBIT ATTEMPT DESPITE ENGINE GOING OUT
+- 09/28 22:19 [financialjuice] Trump's 2PM announcement will be on Iowa steel project - Official
+- 09/28 22:25 [financialjuice] Total CEO: About 10M b/d going through Hormuz
+- 09/28 22:27 [FirstSquawk] LULA SEEN WITH 39%, BOLSONARO 34% OF VOTES IN 1ST ROUND POLL - QUAEST
