@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-28 23:02 JST／対象: 09/28 17:02 〜 09/28 23:02 JST（時刻はすべて日本時間）
+生成: 2026-09-28 23:25 JST／対象: 09/28 17:25 〜 09/28 23:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 22 | 09/28 17:23 | 09/28 22:54 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 92 | 09/28 17:04 | 09/28 23:02 | 15分（18:29→18:44） |
-| financialjuice | 84 | 09/28 17:05 | 09/28 22:58 | 40分（18:20→19:01） |
+| DeItaone | 21 | 09/28 18:13 | 09/28 22:54 | ⚠ 126分（20:42→22:49） |
+| FirstSquawk | 94 | 09/28 17:25 | 09/28 23:23 | 15分（18:29→18:44） |
+| financialjuice | 93 | 09/28 17:32 | 09/28 23:24 | 40分（18:20→19:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 193 行（統合前 200 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 202 行（統合前 210 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 17:04 [FirstSquawk] U.S. S&P 500 E-MINI FUTURES DECLINE BY 0.4%, NASDAQ 100 FUTURES FALL BY 0.9%, DOW FUTURES DROP BY 0.3%.
-- 09/28 17:04 [FirstSquawk] LME ALUMINUM ON-WARRANT STOCKS FALL BY 10,650 TONS, THE SHARPEST DROP SINCE MAY.
-- 09/28 17:05 [financialjuice] Anthropic won't appear at Australian Senate probe - Guardian
-- 09/28 17:10 [financialjuice] ITALIAN NON-EU FLASH TRADE BALANCE ACTUAL 2.00B (FORECAST -, PREVIOUS 2.55B) $MACRO
-- 09/28 17:17 [FirstSquawk] LIBYA'S SHARARA OIL FIELD IS PRODUCING MORE THAN 300,000 BARRELS PER DAY, SAYS NOC CHAIRMAN.
-- 09/28 17:22 [FirstSquawk] INDIA EXPLORING POSSIBILITY OF UAE AS KEY LNG, LPG SOURCE SAY GOYAL
-- 09/28 17:23 [DeItaone] OIL JUMPS 2% AS U.S.-IRAN TALKS STALL Brent surged 2.5% to $106.92, while WTI climbed 2.3% to $94.49 after President Trump rejected Iran’s proposal to end the conflict and reopen Hormuz. Further U.S.-Iran talks are expected this week, while…
-- 09/28 17:23 [FirstSquawk] INDIA WORKING WITH UAE TO EXPAND PETROLEUM RESERVES SAYS GOYAL
 - 09/28 17:25 [FirstSquawk] INDIA-UAE TRADE COMING BACK TO PRE-WAR LEVEL SAYS GOYAL
 - 09/28 17:29 [FirstSquawk] INDIA AND UAE TO WORK ON SHIP BUILDING, CONTAINER MANUFACTURING
 - 09/28 17:32 [financialjuice] UK transport minister: government to take over Avanti West Coast services from March 7, 2027
@@ -217,3 +209,20 @@
 - 09/28 22:58 [financialjuice] There are no plans for negotiations with US - Iran's Tasnim News citing informed source
 - 09/28 22:58 [FirstSquawk] IRAN SAYS MONDAY NY MEETING IS WITH MEDIATORS, NOT US TALKS - TASNIM
 - 09/28 23:02 [FirstSquawk] TOP AI RESEARCHERS CALL FOR URGENT OVERSIGHT OF SELF-IMPROVING SYSTEMS - WSJ
+- 09/28 23:06 [financialjuice] UK's PM Burnham: Plan for next decade will require significant changes
+- 09/28 23:06 [financialjuice] WATCH LIVE: UK's PM Burnham Speaks on LBC Radio
+- 09/28 23:08 [financialjuice] ECB's President Lagarde: So far we're seeing energy support from governments in the 0.1pp of GDP range
+- 09/28 23:09 [financialjuice] UK PM Burnham on airbase arrests: Will chair COBRA meeting today.
+- 09/28 23:11 [FirstSquawk] TOTAL CEO REPORTS AROUND 10 MILLION BARRELS PER DAY TRAVEL THROUGH HORMUZ.
+- 09/28 23:12 [financialjuice] UK's PM Burnham: Defence investment plan will be fully funded at budget.
+- 09/28 23:16 [financialjuice/FirstSquawk] Traders pare ECB bets, see less than 40% chance of October hike
+- 09/28 23:18 [financialjuice] Crypto Fear & Greed Index: 74/100 - Greed
+- 09/28 23:18 [financialjuice] Fear & Greed Index: 36/100 - Fear
+- 09/28 23:19 [FirstSquawk] SPACEX: BRINGING STARSHIP HOME EARLIER THAN PLANNED
+- 09/28 23:20 [FirstSquawk] UK PM BURNHAM: DETAILS ON SOCIAL CARE FUNDING TO BE REVEALED TOMORROW
+- 09/28 23:21 [financialjuice] ECB's President Lagarde: Working on swap lines for sovereignty of euro area
+- 09/28 23:21 [FirstSquawk] TEXAS GOV. ABBOTT ANNOUNCES MORGAN STANLEY EXPANSION IN DALLAS; TO MAKE $684 MLN CAPITAL INVESTMENT
+- 09/28 23:21 [FirstSquawk] KASH PATEL'S CO-DEPUTY FBI DIRECTOR BAILEY RESIGNS: BLAW
+- 09/28 23:22 [financialjuice] Florida asks court to bar OpenAI from developing new models without oversight as part of child harm lawsuit - court filing
+- 09/28 23:23 [FirstSquawk] ECB'S LAGARDE: WORKING ON SWAP LINES FOR EURO AREA SOVEREIGNTY
+- 09/28 23:24 [financialjuice] Loading from Yanbu has been happening since the 22nd of September - Kpler's Energy Reporter Bakr

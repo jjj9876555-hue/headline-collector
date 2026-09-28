@@ -7,24 +7,24 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-28 23:02 JST／対象: 09/27 23:02 〜 09/28 23:02 JST（時刻はすべて日本時間）
+生成: 2026-09-28 23:25 JST／対象: 09/27 23:25 〜 09/28 23:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 29 | 09/28 00:04 | 09/28 22:54 | ⚠ 562分（07:06→16:28） |
-| FirstSquawk | 253 | 09/27 23:27 | 09/28 23:02 | ⚠ 78分（08:02→09:21） |
-| financialjuice | 172 | 09/27 23:08 | 09/28 22:58 | ⚠ 145分（00:29→02:54） |
+| FirstSquawk | 260 | 09/27 23:27 | 09/28 23:23 | ⚠ 78分（08:02→09:21） |
+| financialjuice | 182 | 09/27 23:42 | 09/28 23:24 | ⚠ 145分（00:29→02:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 444 行（統合前 457 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 461 行（統合前 474 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 23:08 [financialjuice/FirstSquawk] UK government spokesperson: UK Prime Minister is being kept informed on Gloucestershire incident
+- 09/27 23:27 [FirstSquawk] UK government spokesperson: UK Prime Minister is being kept informed on Gloucestershire incident
 - 09/27 23:28 [FirstSquawk] The US ambassador to the UN on Iran: President Trump will keep all options on the table.
 - 09/27 23:29 [FirstSquawk] Palestinian was killed and others were injured when an Israeli drone struck a car in the center of Gaza City.
 - 09/27 23:29 [FirstSquawk] The Telegraph: Police are investigating Iran's link to a plot to bomb a British airbase used by US forces.
@@ -468,3 +468,20 @@
 - 09/28 22:58 [financialjuice] There are no plans for negotiations with US - Iran's Tasnim News citing informed source
 - 09/28 22:58 [FirstSquawk] IRAN SAYS MONDAY NY MEETING IS WITH MEDIATORS, NOT US TALKS - TASNIM
 - 09/28 23:02 [FirstSquawk] TOP AI RESEARCHERS CALL FOR URGENT OVERSIGHT OF SELF-IMPROVING SYSTEMS - WSJ
+- 09/28 23:06 [financialjuice] UK's PM Burnham: Plan for next decade will require significant changes
+- 09/28 23:06 [financialjuice] WATCH LIVE: UK's PM Burnham Speaks on LBC Radio
+- 09/28 23:08 [financialjuice] ECB's President Lagarde: So far we're seeing energy support from governments in the 0.1pp of GDP range
+- 09/28 23:09 [financialjuice] UK PM Burnham on airbase arrests: Will chair COBRA meeting today.
+- 09/28 23:11 [FirstSquawk] TOTAL CEO REPORTS AROUND 10 MILLION BARRELS PER DAY TRAVEL THROUGH HORMUZ.
+- 09/28 23:12 [financialjuice] UK's PM Burnham: Defence investment plan will be fully funded at budget.
+- 09/28 23:16 [financialjuice/FirstSquawk] Traders pare ECB bets, see less than 40% chance of October hike
+- 09/28 23:18 [financialjuice] Crypto Fear & Greed Index: 74/100 - Greed
+- 09/28 23:18 [financialjuice] Fear & Greed Index: 36/100 - Fear
+- 09/28 23:19 [FirstSquawk] SPACEX: BRINGING STARSHIP HOME EARLIER THAN PLANNED
+- 09/28 23:20 [FirstSquawk] UK PM BURNHAM: DETAILS ON SOCIAL CARE FUNDING TO BE REVEALED TOMORROW
+- 09/28 23:21 [financialjuice] ECB's President Lagarde: Working on swap lines for sovereignty of euro area
+- 09/28 23:21 [FirstSquawk] TEXAS GOV. ABBOTT ANNOUNCES MORGAN STANLEY EXPANSION IN DALLAS; TO MAKE $684 MLN CAPITAL INVESTMENT
+- 09/28 23:21 [FirstSquawk] KASH PATEL'S CO-DEPUTY FBI DIRECTOR BAILEY RESIGNS: BLAW
+- 09/28 23:22 [financialjuice] Florida asks court to bar OpenAI from developing new models without oversight as part of child harm lawsuit - court filing
+- 09/28 23:23 [FirstSquawk] ECB'S LAGARDE: WORKING ON SWAP LINES FOR EURO AREA SOVEREIGNTY
+- 09/28 23:24 [financialjuice] Loading from Yanbu has been happening since the 22nd of September - Kpler's Energy Reporter Bakr

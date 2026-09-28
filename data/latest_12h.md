@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-28 23:02 JST／対象: 09/28 11:02 〜 09/28 23:02 JST（時刻はすべて日本時間）
+生成: 2026-09-28 23:25 JST／対象: 09/28 11:25 〜 09/28 23:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 24 | 09/28 16:28 | 09/28 22:54 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 150 | 09/28 11:12 | 09/28 23:02 | 27分（16:10→16:38） |
-| financialjuice | 98 | 09/28 11:30 | 09/28 22:58 | ⚠ 115分（11:30→13:26） |
+| FirstSquawk | 154 | 09/28 11:26 | 09/28 23:23 | 27分（16:10→16:38） |
+| financialjuice | 109 | 09/28 11:30 | 09/28 23:24 | ⚠ 115分（11:30→13:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 267 行（統合前 274 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 281 行（統合前 289 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 11:12 [FirstSquawk] Cathay Pacific suspends passenger flights to Dubai and Riyadh through Jan. 31, 2027
-- 09/28 11:13 [FirstSquawk] Cathay Cargo yet to set timing for resuming freighter services to Dubai, Riyadh
-- 09/28 11:25 [FirstSquawk] US defense industry pushes to ramp up missile output after years of underinvestment - WSJ
 - 09/28 11:26 [FirstSquawk] Canadian dollar falls as wider US-Canada rate differential looms - FX
 - 09/28 11:30 [financialjuice] S.Korea finance minister: to pursue balanced policy mix with central bank — ministry
 - 09/28 11:30 [financialjuice] S.Korea finmin: to enhance collaboration with central bank on market oversight - ministry
@@ -291,3 +288,20 @@
 - 09/28 22:58 [financialjuice] There are no plans for negotiations with US - Iran's Tasnim News citing informed source
 - 09/28 22:58 [FirstSquawk] IRAN SAYS MONDAY NY MEETING IS WITH MEDIATORS, NOT US TALKS - TASNIM
 - 09/28 23:02 [FirstSquawk] TOP AI RESEARCHERS CALL FOR URGENT OVERSIGHT OF SELF-IMPROVING SYSTEMS - WSJ
+- 09/28 23:06 [financialjuice] UK's PM Burnham: Plan for next decade will require significant changes
+- 09/28 23:06 [financialjuice] WATCH LIVE: UK's PM Burnham Speaks on LBC Radio
+- 09/28 23:08 [financialjuice] ECB's President Lagarde: So far we're seeing energy support from governments in the 0.1pp of GDP range
+- 09/28 23:09 [financialjuice] UK PM Burnham on airbase arrests: Will chair COBRA meeting today.
+- 09/28 23:11 [FirstSquawk] TOTAL CEO REPORTS AROUND 10 MILLION BARRELS PER DAY TRAVEL THROUGH HORMUZ.
+- 09/28 23:12 [financialjuice] UK's PM Burnham: Defence investment plan will be fully funded at budget.
+- 09/28 23:16 [financialjuice/FirstSquawk] Traders pare ECB bets, see less than 40% chance of October hike
+- 09/28 23:18 [financialjuice] Crypto Fear & Greed Index: 74/100 - Greed
+- 09/28 23:18 [financialjuice] Fear & Greed Index: 36/100 - Fear
+- 09/28 23:19 [FirstSquawk] SPACEX: BRINGING STARSHIP HOME EARLIER THAN PLANNED
+- 09/28 23:20 [FirstSquawk] UK PM BURNHAM: DETAILS ON SOCIAL CARE FUNDING TO BE REVEALED TOMORROW
+- 09/28 23:21 [financialjuice] ECB's President Lagarde: Working on swap lines for sovereignty of euro area
+- 09/28 23:21 [FirstSquawk] TEXAS GOV. ABBOTT ANNOUNCES MORGAN STANLEY EXPANSION IN DALLAS; TO MAKE $684 MLN CAPITAL INVESTMENT
+- 09/28 23:21 [FirstSquawk] KASH PATEL'S CO-DEPUTY FBI DIRECTOR BAILEY RESIGNS: BLAW
+- 09/28 23:22 [financialjuice] Florida asks court to bar OpenAI from developing new models without oversight as part of child harm lawsuit - court filing
+- 09/28 23:23 [FirstSquawk] ECB'S LAGARDE: WORKING ON SWAP LINES FOR EURO AREA SOVEREIGNTY
+- 09/28 23:24 [financialjuice] Loading from Yanbu has been happening since the 22nd of September - Kpler's Energy Reporter Bakr
