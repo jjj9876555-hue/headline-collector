@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-28 17:55 JST／対象: 09/27 17:55 〜 09/28 17:55 JST（時刻はすべて日本時間）
+生成: 2026-09-28 18:21 JST／対象: 09/27 18:21 〜 09/28 18:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 8 | 09/28 00:04 | 09/28 17:23 | ⚠ 562分（07:06→16:28） |
-| FirstSquawk | 212 | 09/27 18:07 | 09/28 17:54 | ⚠ 78分（08:02→09:21） |
-| financialjuice | 106 | 09/27 18:08 | 09/28 17:39 | ⚠ 145分（00:29→02:54） |
+| DeItaone | 9 | 09/28 00:04 | 09/28 18:13 | ⚠ 562分（07:06→16:28） |
+| FirstSquawk | 211 | 09/27 18:38 | 09/28 18:21 | ⚠ 78分（08:02→09:21） |
+| financialjuice | 108 | 09/27 18:47 | 09/28 18:20 | ⚠ 145分（00:29→02:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 315 行（統合前 327 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 317 行（統合前 329 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 18:07 [FirstSquawk] US touts coal purchases, progress on trade vehicle, following Xi visit
-- 09/27 18:07 [FirstSquawk] After four years in opposition, Sweden’s former PM Magdalena Andersson is about to retake power. She aims to use it to fortify Europe’s place in an unstable world.
-- 09/27 18:08 [FirstSquawk] Australia Treasurer says new figures to be published on Monday will show the nation’s deficit for last financial year was “billions of dollars” smaller than forecast at the budget in May
-- 09/27 18:08 [financialjuice] Afghan defence ministry: 28 fighters killed after crossing from Pakistan into eastern Afghanistan; most were ex-Afghan security personnel
-- 09/27 18:11 [FirstSquawk] Andy Burnham signaled on Sunday that he'll set out proposals to introduce new taxes to pay for a reformed social care service in the UK.
-- 09/27 18:11 [FirstSquawk] Burnham declines to back Heathrow third runway amid four-year delay
-- 09/27 18:13 [FirstSquawk] Iranian army spokesperson: US may initiate fresh strike due to 'its poor regional situation'
-- 09/27 18:13 [FirstSquawk] Iranian army: Tehran ready for clash, will cause greater damage to US
 - 09/27 18:38 [FirstSquawk] Iranian Army Commander: The war is not over yet, and we must be prepared to deliver powerful blows to the enemy.
 - 09/27 18:38 [FirstSquawk] Jerusalem Governorate: 1143 settlers stormed Al-Aqsa Mosque through the Mughrabi Gate during the morning incursions.
 - 09/27 18:39 [FirstSquawk] British police: Security cordon in place around US Air Force Fairford base, situation under control
@@ -339,3 +331,13 @@
 - 09/28 17:42 [FirstSquawk] STREETING SAYS 'MORE TO COME’ ON DEFENCE SPENDING AT BUDGET
 - 09/28 17:43 [FirstSquawk] CHINA IMPOSES TRAVEL RESTRICTIONS ON IMMEDIATE FAMILY OF LEADING AI EXPERTS.
 - 09/28 17:54 [FirstSquawk] NHC: LIFE-THREATENING WINDS AND FLASH FLOODS EXPECTED OVER PORTIONS OF BAJA CALIFORNIA SUR AND SONORA TODAY AND TUESDAY, CONDITIONS EXPECTED TO BEGIN DETERIORATING THIS MORNING IN BAJA CALIFORNIA SUR
+- 09/28 18:00 [financialjuice] NVIDIA Openshell and sentry are meant to keep AI agents in line.
+- 09/28 18:01 [financialjuice] Nvidia introduces open-source tool duo to boost AI security. $NVDA
+- 09/28 18:03 [FirstSquawk] NVIDIA DEBUTS SYSTEM DESIGNED TO STOP AI AGENTS GOING AWRY || INTRODUCES OPEN-SOURCE TOOL DUO TO BOOST AI SECURITY || OPENSHELL AND SENTRY ARE MEANT TO KEEP AI AGENTS IN LINE || TECHNOLOGY COULD HAVE PREVENTED HUGGING FACE BREACH
+- 09/28 18:08 [FirstSquawk] US 10-YEAR YIELD INCREASES 7 BASIS POINTS TO 5.23%, HIGHEST LEVEL SINCE 2007.
+- 09/28 18:13 [DeItaone] US 10-YEAR YIELD RISES 7BPS TO 5.23%, HIGHEST SINCE 2007
+- 09/28 18:18 [FirstSquawk] STREETING SAYS WHEN ALLIES CALL, BRITAIN ANSWERS
+- 09/28 18:20 [FirstSquawk] STREETING SAYS WE ARE WITH UKRAINE FOR AS LONG AS IT TAKES
+- 09/28 18:20 [financialjuice] Kremlin: US-Russia arms talks should have been resumed; the situation is so complex that long negotiations will be needed when they do resume.
+- 09/28 18:21 [FirstSquawk] KREMLIN STATES THAT UKRAINE MUST FACE CONSEQUENCES FOR ITS RECENT ACTIVITIES.
+- 09/28 18:21 [FirstSquawk] KREMLIN STATES THAT US-RUSSIA ARMS DISCUSSIONS SHOULD CONTINUE AS THE SITUATION IS COMPLICATED AND WILL REQUIRE EXTENSIVE NEGOTIATIONS ONCE RESTARTED.

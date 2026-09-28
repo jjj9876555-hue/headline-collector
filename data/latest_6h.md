@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-28 17:55 JST／対象: 09/28 11:55 〜 09/28 17:55 JST（時刻はすべて日本時間）
+生成: 2026-09-28 18:21 JST／対象: 09/28 12:21 〜 09/28 18:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 3 | 09/28 16:28 | 09/28 17:23 | 34分（16:48→17:23） |
-| FirstSquawk | 62 | 09/28 12:07 | 09/28 17:54 | 27分（16:10→16:38） |
-| financialjuice | 17 | 09/28 13:26 | 09/28 17:39 | ⚠ 59分（14:00→15:00） |
+| DeItaone | 4 | 09/28 16:28 | 09/28 18:13 | ⚠ 50分（17:23→18:13） |
+| FirstSquawk | 65 | 09/28 12:25 | 09/28 18:21 | 27分（16:10→16:38） |
+| financialjuice | 20 | 09/28 13:26 | 09/28 18:20 | ⚠ 59分（14:00→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 82 行（統合前 82 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 89 行（統合前 89 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 12:07 [FirstSquawk] Northern Star declines Gold Fields’ $27 billion takeover offer - WSJ
-- 09/28 12:08 [FirstSquawk] Australia’s Ingenia receives improved $1.5 billion offer from Warburg Pincus - WSJ
-- 09/28 12:21 [FirstSquawk] South Korean regulator plans 14.8 billion won in fines for barbecue chain operator
 - 09/28 12:25 [FirstSquawk] JPMorgan boosts Dassault Aviation target by €25 to €350
 - 09/28 12:33 [FirstSquawk] Swiss franc falls to fresh low since May 2025 near 0.8300 against dollar - FX
 - 09/28 12:41 [FirstSquawk] Paul Chan says Hong Kong aims to close strategic-sector company deals in coming months - SCMP
@@ -106,3 +103,13 @@
 - 09/28 17:42 [FirstSquawk] STREETING SAYS 'MORE TO COME’ ON DEFENCE SPENDING AT BUDGET
 - 09/28 17:43 [FirstSquawk] CHINA IMPOSES TRAVEL RESTRICTIONS ON IMMEDIATE FAMILY OF LEADING AI EXPERTS.
 - 09/28 17:54 [FirstSquawk] NHC: LIFE-THREATENING WINDS AND FLASH FLOODS EXPECTED OVER PORTIONS OF BAJA CALIFORNIA SUR AND SONORA TODAY AND TUESDAY, CONDITIONS EXPECTED TO BEGIN DETERIORATING THIS MORNING IN BAJA CALIFORNIA SUR
+- 09/28 18:00 [financialjuice] NVIDIA Openshell and sentry are meant to keep AI agents in line.
+- 09/28 18:01 [financialjuice] Nvidia introduces open-source tool duo to boost AI security. $NVDA
+- 09/28 18:03 [FirstSquawk] NVIDIA DEBUTS SYSTEM DESIGNED TO STOP AI AGENTS GOING AWRY || INTRODUCES OPEN-SOURCE TOOL DUO TO BOOST AI SECURITY || OPENSHELL AND SENTRY ARE MEANT TO KEEP AI AGENTS IN LINE || TECHNOLOGY COULD HAVE PREVENTED HUGGING FACE BREACH
+- 09/28 18:08 [FirstSquawk] US 10-YEAR YIELD INCREASES 7 BASIS POINTS TO 5.23%, HIGHEST LEVEL SINCE 2007.
+- 09/28 18:13 [DeItaone] US 10-YEAR YIELD RISES 7BPS TO 5.23%, HIGHEST SINCE 2007
+- 09/28 18:18 [FirstSquawk] STREETING SAYS WHEN ALLIES CALL, BRITAIN ANSWERS
+- 09/28 18:20 [FirstSquawk] STREETING SAYS WE ARE WITH UKRAINE FOR AS LONG AS IT TAKES
+- 09/28 18:20 [financialjuice] Kremlin: US-Russia arms talks should have been resumed; the situation is so complex that long negotiations will be needed when they do resume.
+- 09/28 18:21 [FirstSquawk] KREMLIN STATES THAT UKRAINE MUST FACE CONSEQUENCES FOR ITS RECENT ACTIVITIES.
+- 09/28 18:21 [FirstSquawk] KREMLIN STATES THAT US-RUSSIA ARMS DISCUSSIONS SHOULD CONTINUE AS THE SITUATION IS COMPLICATED AND WILL REQUIRE EXTENSIVE NEGOTIATIONS ONCE RESTARTED.
