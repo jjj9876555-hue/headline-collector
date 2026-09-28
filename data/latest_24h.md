@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-28 12:39 JST／対象: 09/27 12:39 〜 09/28 12:39 JST（時刻はすべて日本時間）
+生成: 2026-09-28 12:54 JST／対象: 09/27 12:54 〜 09/28 12:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 09/28 00:04 | 09/28 07:06 | ⚠ 368分（00:04→06:12） |
-| FirstSquawk | 193 | 09/27 12:45 | 09/28 12:33 | ⚠ 78分（08:02→09:21） |
+| FirstSquawk | 193 | 09/27 12:56 | 09/28 12:54 | ⚠ 78分（08:02→09:21） |
 | financialjuice | 93 | 09/27 16:30 | 09/28 11:30 | ⚠ 145分（00:29→02:54） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,8 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 12:45 [FirstSquawk] Second-generation Hyundai Palisade nears 300,000 units sold worldwide - YONHAP
-- 09/27 12:47 [FirstSquawk] Semiconductors account for nearly 40% of South Korea’s industrial technology leaks: data
 - 09/27 12:56 [FirstSquawk] South Korea posts tourism deficit in July after four consecutive months of surplus - YONHAP
 - 09/27 13:00 [FirstSquawk] Morgan Stanley’s Slimmon sees stronger opportunities outside U.S. as earnings outlook improves - CNBC
 - 09/27 13:08 [FirstSquawk] U.S. nonimmigrant visas for South Koreans decline nearly 8% in 2025 after Trump takes office: data - YONHAP
@@ -304,3 +302,5 @@
 - 09/28 12:21 [FirstSquawk] South Korean regulator plans 14.8 billion won in fines for barbecue chain operator
 - 09/28 12:25 [FirstSquawk] JPMorgan boosts Dassault Aviation target by €25 to €350
 - 09/28 12:33 [FirstSquawk] Swiss franc falls to fresh low since May 2025 near 0.8300 against dollar - FX
+- 09/28 12:41 [FirstSquawk] Paul Chan says Hong Kong aims to close strategic-sector company deals in coming months - SCMP
+- 09/28 12:54 [FirstSquawk] Thailand August domestic auto sales surge 25.59% from a year earlier

@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-28 12:39 JST／対象: 09/28 00:39 〜 09/28 12:39 JST（時刻はすべて日本時間）
+生成: 2026-09-28 12:54 JST／対象: 09/28 00:54 〜 09/28 12:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/28 06:12 | 09/28 07:06 | 39分（06:27→07:06） |
-| FirstSquawk | 91 | 09/28 01:15 | 09/28 12:33 | ⚠ 78分（08:02→09:21） |
+| FirstSquawk | 93 | 09/28 01:15 | 09/28 12:54 | ⚠ 78分（08:02→09:21） |
 | financialjuice | 66 | 09/28 02:54 | 09/28 11:30 | ⚠ 124分（05:07→07:11） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 161 行（統合前 161 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 163 行（統合前 163 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -185,3 +185,5 @@
 - 09/28 12:21 [FirstSquawk] South Korean regulator plans 14.8 billion won in fines for barbecue chain operator
 - 09/28 12:25 [FirstSquawk] JPMorgan boosts Dassault Aviation target by €25 to €350
 - 09/28 12:33 [FirstSquawk] Swiss franc falls to fresh low since May 2025 near 0.8300 against dollar - FX
+- 09/28 12:41 [FirstSquawk] Paul Chan says Hong Kong aims to close strategic-sector company deals in coming months - SCMP
+- 09/28 12:54 [FirstSquawk] Thailand August domestic auto sales surge 25.59% from a year earlier
