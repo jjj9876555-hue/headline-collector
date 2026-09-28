@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-28 08:58 JST／対象: 09/27 08:58 〜 09/28 08:58 JST（時刻はすべて日本時間）
+生成: 2026-09-28 09:26 JST／対象: 09/27 09:26 〜 09/28 09:26 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 09/28 00:04 | 09/28 07:06 | ⚠ 368分（00:04→06:12） |
-| FirstSquawk | 186 | 09/27 09:35 | 09/28 08:02 | ⚠ 67分（05:59→07:06） |
-| financialjuice | 57 | 09/27 10:19 | 09/28 08:57 | ⚠ 261分（12:09→16:30） |
+| FirstSquawk | 190 | 09/27 09:35 | 09/28 09:23 | ⚠ 78分（08:02→09:21） |
+| financialjuice | 71 | 09/27 10:19 | 09/28 09:21 | ⚠ 261分（12:09→16:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 237 行（統合前 249 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 255 行（統合前 267 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -261,3 +261,21 @@
 - 09/28 08:56 [financialjuice] Bank of Korea: to closely watch financial and forex markets
 - 09/28 08:57 [financialjuice] BOJ minutes: members concur fx volatility impacts economy, prices more than before as firms increase pass-through of rising import costs
 - 09/28 08:57 [financialjuice] BoJ minutes: one member notes rising upside price risks as recent weak yen, Middle East events could boost inflation expectations
+- 09/28 08:58 [financialjuice] BOJ minutes: one member noted it takes 1-1.5 years for rate hike effect to ease inflation, economy
+- 09/28 09:00 [financialjuice] BOJ minutes: one member said Bank of Japan must taper monetary support gradually to prevent delay in interest-rate increases
+- 09/28 09:01 [financialjuice] BOJ minutes: one member said central bank must ensure nimble policy decisions by raising policy rate, which stayed below estimated neutral rate range
+- 09/28 09:02 [financialjuice] boj minutes: many members said central bank gradually moving to phase focusing on stabilising underlying inflation around 2%, not pushing up inflation
+- 09/28 09:03 [financialjuice] BOJ minutes: one member said markets appear to expect BOJ to raise rates about once every six months, but hikes could come more quickly
+- 09/28 09:03 [financialjuice] BoJ minutes: one member said bank must adjust policy rate nimbly with focus on upside inflation risks
+- 09/28 09:04 [financialjuice] BOJ minutes: one member says bank must speed up rate hikes as inflation risks could cause significant harm to economy
+- 09/28 09:04 [financialjuice] BOJ minutes: some members said central bank must signal focus on upside inflation risks more clearly
+- 09/28 09:05 [financialjuice] BOJ minutes: several members said it was difficult to anticipate pace and timing of future rate increases
+- 09/28 09:07 [financialjuice] BOJ minutes: board discussed long-term interest rate changes with some members saying term premia could increase if markets doubt BOJ will raise rates adequately
+- 09/28 09:08 [financialjuice] BOJ minutes: cabinet office official says suitable monetary policy crucial for stable inflation, hopes BOJ collaborates with government
+- 09/28 09:16 [financialjuice] South Korea 3-year Treasury bond futures KTBC1 drop by 30 ticks
+- 09/28 09:16 [financialjuice] South Korea 10-year Treasury bond futures drop by 120 ticks
+- 09/28 09:21 [financialjuice] China PBOC likely to set yuan midpoint at 6.7085 per dollar: estimate
+- 09/28 09:21 [FirstSquawk] US SECRETARY OF STATE RUBIO TO MEET SAUDI FOREIGN MINISTER AT 11:15 AM ET MONDAY
+- 09/28 09:22 [FirstSquawk] BANK OF JAPAN MINUTES SHOW MANY MEMBERS SAID UNDERLYING INFLATION IS NEARING 2%, REQUIRING A FOCUS ON STABILISING PRICE GROWTH AROUND THAT LEVEL RATHER THAN PUSHING UP INFLATION, WITH MANY NOTING MEDIUM- AND LONG-TERM INFLATION EXPECTATIONS…
+- 09/28 09:22 [FirstSquawk] BANK OF JAPAN MINUTES SHOW MEMBERS CONCURRED THAT FX VOLATILITY IMPACTS THE ECONOMY AND PRICES MORE THAN BEFORE AS FIRMS INCREASE PASS-THROUGH OF RISING IMPORT COSTS, WITH ONE MEMBER NOTING RISING UPSIDE PRICE RISKS AS A WEAK YEN AND MIDDLE…
+- 09/28 09:23 [FirstSquawk] BANK OF JAPAN MINUTES SHOW SEVERAL MEMBERS SAID IT WAS DIFFICULT TO ANTICIPATE THE PACE AND TIMING OF FUTURE RATE INCREASES, WITH ONE SAYING THE BANK MUST SPEED UP RATE HIKES AS INFLATION RISKS COULD CAUSE SIGNIFICANT HARM, ANOTHER NOTING M…
