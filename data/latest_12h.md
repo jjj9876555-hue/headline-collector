@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-29 08:33 JST／対象: 09/28 20:33 〜 09/29 08:33 JST（時刻はすべて日本時間）
+生成: 2026-09-29 08:51 JST／対象: 09/28 20:51 〜 09/29 08:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 19 | 09/28 20:38 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 140 | 09/28 20:42 | 09/29 07:48 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 190 | 09/28 20:35 | 09/29 08:16 | 30分（07:45→08:16） |
+| DeItaone | 17 | 09/28 22:49 | 09/29 02:14 | ⚠ 54分（00:44→01:39） |
+| FirstSquawk | 139 | 09/28 20:57 | 09/29 08:46 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 186 | 09/28 21:00 | 09/29 08:45 | 30分（07:45→08:16） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 335 行（統合前 353 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 329 行（統合前 346 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 20:35 [financialjuice] AI firm Instinct raised $1B at a $10B valuation - NYT DealBook
-- 09/28 20:38 [financialjuice] US Health Sec. Azar: We will make sure Britain wins in AI revolution
-- 09/28 20:38 [DeItaone] $META - META PRICE TARGET RAISED TO $830 Monness Crespi Hardt raised its Meta price target to $830 from $730, maintaining a Buy rating. The firm says early traction for Meta’s Muse personal AI agent and its broader AI strategy have started …
-- 09/28 20:41 [financialjuice] Nvidia investments portfolio consists of 13 public companies, 229 private
-- 09/28 20:42 [FirstSquawk/financialjuice] NVIDIA: ANTHROPIC'S REPORTED CONTRACTED VALUE EXCEEDS $180B
-- 09/28 20:42 [DeItaone] IRAN REACHES OUT TO ARAB STATES Iranian General Yahya Safavi says Tehran has “extended a hand of friendship” to Arab countries, according to local media. Safavi warned that the United States will eventually leave the region, signaling Iran’…
-- 09/28 20:43 [financialjuice] Nvidia's commitments increased to $279B from $119B last quarter
-- 09/28 20:43 [financialjuice] NVIDIA commitments primarily related to procurement of memory.
-- 09/28 20:51 [FirstSquawk] FIVE PEOPLE DETAINED IN THE "FAIRFORD" INCIDENT IN BRITAIN ARE ALL BRITISH NATIONALS.
 - 09/28 20:57 [FirstSquawk] U.S. CENTRAL COMMAND REPORTS OVER ONE BILLION BARRELS OF OIL TRANSPORTED THROUGH THE HORMUZ STRAIT IN RECENT MONTHS.
 - 09/28 21:00 [financialjuice] Secured overnight financing rate: 3.90% September 25th vs 3.88% September 24th
 - 09/28 21:02 [FirstSquawk] US FDA OKS ABBVIE’S JUVMO FOR PARKINSON'S DISEASE
@@ -359,3 +350,6 @@
 - 09/29 08:16 [financialjuice] Anthropic’s FY25 GAAP operating loss expands to $8.06 billion from $2.98 billion in FY24, prospectus shows
 - 09/29 08:16 [financialjuice] Anthropic fy25 compute and infrastructure costs surge 190% to $7.33 billion, accounting for 58% of operating expenses
 - 09/29 08:16 [financialjuice] Anthropic fy25 GAAP net deficit widens to $41.97 billion from $8.31 billion in fy24, prospectus shows
+- 09/29 08:40 [financialjuice] 15 states take federal aviation administration to court over environmental assessment of commercial drone delivery rules - filing
+- 09/29 08:45 [financialjuice] CSL Ltd collaborates with Amazon Web Services
+- 09/29 08:46 [FirstSquawk] JAPAN’S NIKKEI FUTURES RISE 0.3% IN EARLY TRADE; 10-YEAR JGB FUTURES FALL 0.16 POINT
