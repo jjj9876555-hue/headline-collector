@@ -7,37 +7,28 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-29 00:04 JST／対象: 09/28 00:04 〜 09/29 00:04 JST（時刻はすべて日本時間）
+生成: 2026-09-29 00:29 JST／対象: 09/28 00:29 〜 09/29 00:29 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 30 | 09/28 00:04 | 09/28 23:28 | ⚠ 562分（07:06→16:28） |
-| FirstSquawk | 254 | 09/28 00:24 | 09/29 00:02 | ⚠ 78分（08:02→09:21） |
-| financialjuice | 185 | 09/28 00:07 | 09/28 23:54 | ⚠ 145分（00:29→02:54） |
+| DeItaone | 30 | 09/28 06:12 | 09/29 00:19 | ⚠ 562分（07:06→16:28） |
+| FirstSquawk | 249 | 09/28 00:30 | 09/29 00:18 | ⚠ 78分（08:02→09:21） |
+| financialjuice | 185 | 09/28 02:54 | 09/29 00:23 | ⚠ 124分（05:07→07:11） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 461 行（統合前 472 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 458 行（統合前 466 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 00:04 [DeItaone] TRUMP TELLS AXIOS THAT HE EXPECTS US NEGOTIATORS TO ENGAGE IN MORE TALKS WITH IRAN THIS WEEK
-- 09/28 00:07 [financialjuice/FirstSquawk] China considers permitting ByteDance, Alibaba to buy new Nvidia chips - The Information
-- 09/28 00:24 [FirstSquawk] Trump to Axios: I expect US negotiators to hold more talks with Iran this week
-- 09/28 00:24 [FirstSquawk] Trump to Axios: I'm considering resuming strikes on Iran on an ongoing basis
-- 09/28 00:24 [FirstSquawk] Trump to Axios: US military is facilitating the passage of large quantities of oil through the Strait of Hormuz
-- 09/28 00:24 [FirstSquawk] Trump to Axios: Largest amount of oil has passed through the Strait of Hormuz over the weekend since the start of the war
-- 09/28 00:25 [FirstSquawk] Trump to Axios: Iran overestimated its strengths
-- 09/28 00:25 [FirstSquawk] Trump: I expect to hold talks with Iran this week
-- 09/28 00:25 [FirstSquawk] Axios, citing a US official: Qatari mediators are continuing shuttle diplomacy efforts in an attempt to reach an agreement.
-- 09/28 00:25 [FirstSquawk] Trump to Axios: The Iranians want to make a deal, but it's not the one I want, and we probably would have agreed to it a year ago.
-- 09/28 00:29 [financialjuice/FirstSquawk] Anthropic's Dario Amodei to attend White House dinner with Trump: Axios
 - 09/28 00:30 [FirstSquawk] TRUMP ON TRUTH SOCIAL: The Supreme Court of the United States will just not let Missouri have an Election Victory. They continuously, three times now, overrule Judges who came to the correct decisions. Thank you to the Governor, and all of …
 - 09/28 01:15 [FirstSquawk] South Korea expresses strong regret over Ukraine's refusal of nondisclosure agreement on North Korean POWs - Yonhap
 - 09/28 01:15 [FirstSquawk] South Korean presidency: country contemplating extra actions on issue - Yonhap
+- 09/28 01:16 [FirstSquawk] China considers permitting ByteDance, Alibaba to buy new Nvidia chips - The Information
+- 09/28 01:16 [FirstSquawk] Anthropic's Dario Amodei to attend White House dinner with Trump: Axios
 - 09/28 01:38 [FirstSquawk] Iranian President: If America accepts the legal frameworks and our rights, we have no dispute with them; otherwise, we will never back down.
 - 09/28 01:38 [FirstSquawk] WSJ, citing a US official: Threat level raised at British base Fairford Saturday evening
 - 09/28 01:39 [FirstSquawk] WSJ, citing a US official: Fairford base is a key launchpad for military operations targeting Iran
@@ -485,3 +476,9 @@
 - 09/28 23:58 [FirstSquawk] US 10-YEAR TREASURY YIELD INCREASES BY 10 BASIS POINTS TO 5.27%.
 - 09/28 23:59 [FirstSquawk] IRAN FOREIGN MINISTER'S NEW YORK STAY HAS NOT BEEN EXTENDED, SAYS SPOKESPERSON
 - 09/29 00:02 [FirstSquawk] SPACEX: CONNECTION ESTABLISHED WITH ALL 26 V3 SATELLITES
+- 09/29 00:09 [FirstSquawk] UK 10-YEAR GILT YIELDS RISE TO HIGHEST SINCE JULY 2007 AT 5.441%
+- 09/29 00:15 [FirstSquawk] UNION: WORKERS AT CHILE'S CENTINELA MINE IN ANTOFAGASTA REJECT CONTRACT OFFER
+- 09/29 00:15 [financialjuice] Fed bids for 3-Month bills total $9.1 bln. Fed bids for 6-Month bills total $7.8 bln
+- 09/29 00:18 [FirstSquawk] RUSSIA SAYS IT HIT TWO SHIPS HEADING TO ODESA PORT: IFX
+- 09/29 00:19 [DeItaone] U.S. TWO-YEAR TREASURY YIELD REACHES 4.952%, HIGHEST SINCE MAY 2024
+- 09/29 00:23 [financialjuice] US Secretary of State Rubio met with Lebanese PM Mikati in Washington - Israel's Channel 12 News

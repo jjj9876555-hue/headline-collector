@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-29 00:04 JST／対象: 09/28 18:04 〜 09/29 00:04 JST（時刻はすべて日本時間）
+生成: 2026-09-29 00:29 JST／対象: 09/28 18:29 〜 09/29 00:29 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 22 | 09/28 18:13 | 09/28 23:28 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 96 | 09/28 18:08 | 09/29 00:02 | 15分（18:29→18:44） |
-| financialjuice | 98 | 09/28 18:20 | 09/28 23:54 | 40分（18:20→19:01） |
+| DeItaone | 21 | 09/28 18:43 | 09/29 00:19 | ⚠ 126分（20:42→22:49） |
+| FirstSquawk | 91 | 09/28 18:44 | 09/29 00:18 | 14分（22:12→22:27） |
+| financialjuice | 99 | 09/28 19:01 | 09/29 00:23 | 21分（23:54→00:15） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 210 行（統合前 218 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 205 行（統合前 213 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 18:08 [FirstSquawk] US 10-YEAR YIELD INCREASES 7 BASIS POINTS TO 5.23%, HIGHEST LEVEL SINCE 2007.
-- 09/28 18:13 [DeItaone] US 10-YEAR YIELD RISES 7BPS TO 5.23%, HIGHEST SINCE 2007
-- 09/28 18:18 [FirstSquawk] STREETING SAYS WHEN ALLIES CALL, BRITAIN ANSWERS
-- 09/28 18:20 [FirstSquawk] STREETING SAYS WE ARE WITH UKRAINE FOR AS LONG AS IT TAKES
-- 09/28 18:20 [financialjuice] Kremlin: US-Russia arms talks should have been resumed; the situation is so complex that long negotiations will be needed when they do resume.
-- 09/28 18:21 [FirstSquawk] KREMLIN STATES THAT UKRAINE MUST FACE CONSEQUENCES FOR ITS RECENT ACTIVITIES.
-- 09/28 18:21 [FirstSquawk] KREMLIN STATES THAT US-RUSSIA ARMS DISCUSSIONS SHOULD CONTINUE AS THE SITUATION IS COMPLICATED AND WILL REQUIRE EXTENSIVE NEGOTIATIONS ONCE RESTARTED.
-- 09/28 18:22 [DeItaone] KREMLIN: UKRAINE WILL HAVE TO PAY THE PRICE FOR ITS ACTIONS IN RECENT MONTHS, THIS IS WHAT IS HAPPENING NOW
-- 09/28 18:23 [FirstSquawk] STREETING SAYS WE NEED TO STEP UP, SPEND MORE ON DEFENSE
-- 09/28 18:23 [FirstSquawk] STREETING: REITERATES 3.5% SPEND ON DEFENSE BY 2035
-- 09/28 18:29 [FirstSquawk] STREETING SAYS UK COMMITS TO KEEPING NUKE SUB CONTRACT IN BRITAIN
 - 09/28 18:43 [DeItaone] https://t.co/nx9ngNPg2L
 - 09/28 18:44 [FirstSquawk] UK FOREIGN SECRETARY MILIBAND: THE WORLD ORDER NEEDS REBUILDING
 - 09/28 18:55 [FirstSquawk] MILIBAND STATES THAT THEY WILL KEEP ISOLATING IRAN UNTIL THE STRAIT OF HORMUZ IS REOPENED.
@@ -234,3 +223,9 @@
 - 09/28 23:58 [FirstSquawk] US 10-YEAR TREASURY YIELD INCREASES BY 10 BASIS POINTS TO 5.27%.
 - 09/28 23:59 [FirstSquawk] IRAN FOREIGN MINISTER'S NEW YORK STAY HAS NOT BEEN EXTENDED, SAYS SPOKESPERSON
 - 09/29 00:02 [FirstSquawk] SPACEX: CONNECTION ESTABLISHED WITH ALL 26 V3 SATELLITES
+- 09/29 00:09 [FirstSquawk] UK 10-YEAR GILT YIELDS RISE TO HIGHEST SINCE JULY 2007 AT 5.441%
+- 09/29 00:15 [FirstSquawk] UNION: WORKERS AT CHILE'S CENTINELA MINE IN ANTOFAGASTA REJECT CONTRACT OFFER
+- 09/29 00:15 [financialjuice] Fed bids for 3-Month bills total $9.1 bln. Fed bids for 6-Month bills total $7.8 bln
+- 09/29 00:18 [FirstSquawk] RUSSIA SAYS IT HIT TWO SHIPS HEADING TO ODESA PORT: IFX
+- 09/29 00:19 [DeItaone] U.S. TWO-YEAR TREASURY YIELD REACHES 4.952%, HIGHEST SINCE MAY 2024
+- 09/29 00:23 [financialjuice] US Secretary of State Rubio met with Lebanese PM Mikati in Washington - Israel's Channel 12 News
