@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-29 05:05 JST／対象: 09/28 23:05 〜 09/29 05:05 JST（時刻はすべて日本時間）
+生成: 2026-09-29 05:25 JST／対象: 09/28 23:25 〜 09/29 05:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 14 | 09/28 23:28 | 09/29 02:14 | ⚠ 54分（00:44→01:39） |
-| FirstSquawk | 87 | 09/28 23:11 | 09/29 05:03 | 31分（02:57→03:29） |
-| financialjuice | 117 | 09/28 23:06 | 09/29 05:04 | 23分（03:04→03:28） |
+| FirstSquawk | 88 | 09/28 23:30 | 09/29 05:20 | 31分（02:57→03:29） |
+| financialjuice | 108 | 09/28 23:28 | 09/29 05:08 | 23分（03:04→03:28） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 211 行（統合前 220 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 202 行（統合前 212 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 23:06 [financialjuice] UK's PM Burnham: Plan for next decade will require significant changes
-- 09/28 23:06 [financialjuice] WATCH LIVE: UK's PM Burnham Speaks on LBC Radio
-- 09/28 23:08 [financialjuice] ECB's President Lagarde: So far we're seeing energy support from governments in the 0.1pp of GDP range
-- 09/28 23:09 [financialjuice] UK PM Burnham on airbase arrests: Will chair COBRA meeting today.
-- 09/28 23:11 [FirstSquawk] TOTAL CEO REPORTS AROUND 10 MILLION BARRELS PER DAY TRAVEL THROUGH HORMUZ.
-- 09/28 23:12 [financialjuice] UK's PM Burnham: Defence investment plan will be fully funded at budget.
-- 09/28 23:16 [financialjuice/FirstSquawk] Traders pare ECB bets, see less than 40% chance of October hike
-- 09/28 23:18 [financialjuice] Crypto Fear & Greed Index: 74/100 - Greed
-- 09/28 23:18 [financialjuice] Fear & Greed Index: 36/100 - Fear
-- 09/28 23:19 [FirstSquawk] SPACEX: BRINGING STARSHIP HOME EARLIER THAN PLANNED
-- 09/28 23:20 [FirstSquawk] UK PM BURNHAM: DETAILS ON SOCIAL CARE FUNDING TO BE REVEALED TOMORROW
-- 09/28 23:21 [financialjuice] ECB's President Lagarde: Working on swap lines for sovereignty of euro area
-- 09/28 23:21 [FirstSquawk] TEXAS GOV. ABBOTT ANNOUNCES MORGAN STANLEY EXPANSION IN DALLAS; TO MAKE $684 MLN CAPITAL INVESTMENT
-- 09/28 23:21 [FirstSquawk] KASH PATEL'S CO-DEPUTY FBI DIRECTOR BAILEY RESIGNS: BLAW
-- 09/28 23:22 [financialjuice] Florida asks court to bar OpenAI from developing new models without oversight as part of child harm lawsuit - court filing
-- 09/28 23:23 [FirstSquawk] ECB'S LAGARDE: WORKING ON SWAP LINES FOR EURO AREA SOVEREIGNTY
-- 09/28 23:24 [financialjuice] Loading from Yanbu has been happening since the 22nd of September - Kpler's Energy Reporter Bakr
 - 09/28 23:28 [DeItaone] $GM - TRUMP ADMINISTRATION FORECASTS GENERAL MOTORS TECHNOLOGY COSTS THROUGH 2031 WILL DECLINE BY $20.4 BILLION IN TOTAL AS RESULT OF LOWER FUEL ECONOMY STANDARDS -- DOCUMENT
 - 09/28 23:28 [financialjuice] Houthis: Passage through the Bab-el-Mandeb Strait continues, except for Saudi Arabian ships - ISNA
 - 09/28 23:30 [financialjuice] DALLAS FED MFG. BUS. INDEX ACTUAL 9.80 (FORECAST 7.8, PREVIOUS 11.60) $MACRO
@@ -232,6 +215,14 @@
 - 09/29 05:02 [FirstSquawk] POPE LEO HAS URGED THE WORLD TO MAKE SURE AI DOES NOT DEVELOP TO A POINT WHERE IT CAN DESTROY HUMANITY, SAYING THE DANGERS OF AI ARE NOT 'FAKE NEWS' AND SHOULD BE TAKEN SERIOUSLY.
 - 09/29 05:02 [FirstSquawk] THE PONTIFF TARGETED NVIDIA FOR CRITICISM FOR NOT WANTING GOVERNMENT REGULATION OF THE TECHNOLOGY.
 - 09/29 05:02 [FirstSquawk] NASDAQ CLOSES 0.92% LOWER AT 26,820.49, DOWN 248.23 POINTS S&P 500 CLOSES 0.69% LOWER, DOWN 60.11 POINTS DOW JONES CLOSES 0.69% LOWER AT 51,472.14, DOWN 356.48 POINTS
-- 09/29 05:03 [financialjuice] Iran's Deputy Chairman of the National Security Committee: Before any negotiations, the United States must accept Iran's conditions - Fars News
+- 09/29 05:03 [financialjuice/FirstSquawk] Iran's Deputy Chairman of the National Security Committee: Before any negotiations, the United States must accept Iran's conditions - Fars News
 - 09/29 05:03 [FirstSquawk] AAR IS TO PAY $1.8 BLN FOR A STAKE IN AIRCRAFT-MAINTENANCE COMPANY MRO HOLDINGS, AGREEING TO TAKE A 65% INTEREST - WSJ
-- 09/29 05:04 [financialjuice] Iran's Deputy Chairman of the National Security Committee: The nuclear issue is no longer the central focus of negotiations; rather, the Strait of Hormuz is now at the center.
+- 09/29 05:04 [financialjuice/FirstSquawk] Iran's Deputy Chairman of the National Security Committee: The nuclear issue is no longer the central focus of negotiations; rather, the Strait of Hormuz is now at the center.
+- 09/29 05:06 [financialjuice] AMD agrees to buY Fei-Fei Li’s World Labs AI startup for $8.2b. $AMD
+- 09/29 05:07 [FirstSquawk] AMD HAS AGREED TO BUY FEI-FEI LI'S WORLD LABS AI STARTUP FOR $8.2 BLN TO ADVANCE THE FUTURE OF AI COMPUTING, WITH CEO LISA SU SAYING THE ACQUISITION WILL STRENGTHEN THE COMPANY'S HARDWARE ROADMAP AND THAT THE GOAL IS TO BUILD 'BETTER AI'
+- 09/29 05:08 [financialjuice] Bond yields rise as the US-Iran standoff causes stocks to decline – US Market Wrap
+- 09/29 05:11 [FirstSquawk] TRUMP ANNOUNCES A $15 BILLION STEEL PLANT IN IOWA BACKED BY INDIA’S ESSAR GROUP, WITH PRODUCTION EXPECTED TO BEGIN IN 2030, MORE THAN 2,000 JOBS CREATED AND EVENTUAL OUTPUT OF 10 MILLION TONS OF STEEL ANNUALLY. THE PROJECT WILL BE SUPPLIED …
+- 09/29 05:19 [FirstSquawk] U.S. STOCKS AND BONDS FELL AS THE U.S.-IRAN STANDOFF FUELED OIL-MARKET VOLATILITY AND RENEWED CONCERNS ABOUT INFLATION AND HIGHER FED RATES, WITH THE S&P 500 DOWN 0.8% AND THE NASDAQ 100 OFF 1.1% AS BRENT CRUDE REMAINED AROUND $105 AND HOPE…
+- 09/29 05:19 [FirstSquawk] TREASURY YIELDS CLIMBED SHARPLY, WITH THE 10-YEAR RISING SEVEN BASIS POINTS TO 5.23%, ITS HIGHEST SINCE 2007, AS MARKETS INCREASED BETS ON AN OCTOBER FED RATE HIKE, THE DOLLAR GAINED AND GOLD DROPPED 3.9% TO $4,118.66, WITH INVESTORS NOW FO…
+- 09/29 05:19 [FirstSquawk] IN CORPORATE NEWS, NVIDIA EXPANDED ITS BUYBACK AUTHORIZATION BY $150 BLN, AMD AGREED TO ACQUIRE WORLD LABS FOR $8.2 BLN AND BOEING'S 737 MAX 10 CERTIFICATION WAS DELAYED OVER A SOFTWARE ISSUE, WHILE PARAMOUNT SKYDANCE SECURED ENOUGH INVESTO…
+- 09/29 05:20 [FirstSquawk] MSCI RECLASSIFIES CORTEVA FROM LARGE CAP TO MID CAP; ADDS VYLOR TO GLOBAL STANDARD INDEXES EFFECTIVE OCTOBER 2, 2026
