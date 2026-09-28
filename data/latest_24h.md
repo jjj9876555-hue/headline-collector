@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-28 10:20 JST／対象: 09/27 10:20 〜 09/28 10:20 JST（時刻はすべて日本時間）
+生成: 2026-09-28 10:35 JST／対象: 09/27 10:35 〜 09/28 10:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 09/28 00:04 | 09/28 07:06 | ⚠ 368分（00:04→06:12） |
-| FirstSquawk | 209 | 09/27 10:20 | 09/28 10:15 | ⚠ 78分（08:02→09:21） |
-| financialjuice | 85 | 09/27 12:09 | 09/28 10:18 | ⚠ 261分（12:09→16:30） |
+| FirstSquawk | 205 | 09/27 10:36 | 09/28 10:34 | ⚠ 78分（08:02→09:21） |
+| financialjuice | 92 | 09/27 12:09 | 09/28 10:31 | ⚠ 261分（12:09→16:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 288 行（統合前 300 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 291 行（統合前 303 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 10:20 [FirstSquawk] Court ruling follows appeal that overturned Saturday’s parade injunction over legal error
-- 09/27 10:21 [FirstSquawk] European Commission announces €710 million for Africa displacement aid and global crisis relief
-- 09/27 10:22 [FirstSquawk] Australia tightens social media rules, raising penalties for platforms over underage users - NA
-- 09/27 10:23 [FirstSquawk] Iran’s Araqchi: First U.S. presidential reaction seen, but no message received from mediators
-- 09/27 10:23 [FirstSquawk] Araqchi: Iran awaits final views from mediators before deciding next steps
-- 09/27 10:23 [FirstSquawk] Iran FM Araqchi: Any reopening of Strait of Hormuz depends on meeting stated conditions
-- 09/27 10:24 [FirstSquawk] Iran's Aragchi: negotiated solution is the only way to end deadlock, that is our stance
-- 09/27 10:29 [FirstSquawk] BOJ rate hikes spur Japanese retail investors to sell shares at fastest pace since March
-- 09/27 10:30 [FirstSquawk] Tesla increases Texas Cybercab fleet to 127 vehicles - kalshi says
-- 09/27 10:31 [FirstSquawk] Visa study: Safeguards may encourage more Americans to use stablecoins
-- 09/27 10:32 [FirstSquawk] Visa study: 56% of Americans have never heard of stablecoins, misconceptions remain widespread
-- 09/27 10:33 [FirstSquawk] AI deepfakes and payment scams raise concerns among Americans sending money abroad, Visa study says
 - 09/27 10:36 [FirstSquawk] Trump to launch ‘AI Force’ and appoint AI czar amid calls for greater AI oversight — WaPo
 - 09/27 10:37 [FirstSquawk] New York Mayor Mamdani and Netanyahu continue public dispute that began during mayoral campaign - CBS
 - 09/27 10:42 [FirstSquawk] Trump predicts U.S.-Cuba agreement, says military action likely unnecessary - RTRS
@@ -312,3 +300,18 @@
 - 09/28 10:13 [FirstSquawk] China, U.S. to continue dialogue on expanding flights and related matters
 - 09/28 10:15 [FirstSquawk] China central bank sets yuan reference rate at 6.7399 per dollar
 - 09/28 10:18 [financialjuice] PBOC establishes yuan midpoint at strongest level since Feb. 3, 2023
+- 09/28 10:21 [FirstSquawk] China sets yuan midpoint at strongest level in more than three years
+- 09/28 10:21 [FirstSquawk] Nissan Rogue e-Power hybrid shipments to U.S. start next month ahead of November launch
+- 09/28 10:22 [financialjuice] China injects 139 bln yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement
+- 09/28 10:23 [financialjuice] China central bank to inject 139 billion yuan via 7-day reverse repos: statement
+- 09/28 10:23 [FirstSquawk] 2-year Japanese government bond yield advances 2.5bps to 1.960%
+- 09/28 10:23 [FirstSquawk] 20-year Japanese government bond yield climbs 0.5bp to 3.915%
+- 09/28 10:24 [FirstSquawk] China’s most-active coking coal contract drops 3.21% to 1,446 yuan/ton
+- 09/28 10:24 [financialjuice] China to inject 661 billion yuan via overnight reverse repos: statement
+- 09/28 10:28 [FirstSquawk] Nissan targets 80% localization of US manufacturing by 2030, chairman says
+- 09/28 10:30 [financialjuice] CHINESE INDUSTRIAL PROFIT YTD ACTUAL 15.7% (FORECAST -, PREVIOUS 17.6%) $MACRO
+- 09/28 10:31 [financialjuice] China industrial profits rise 15.7% year on year Jan-Aug: stats bureau
+- 09/28 10:31 [financialjuice] China aug industrial profits rise 4.2% yr/yr: stats bureau
+- 09/28 10:31 [financialjuice] China central bank injects 300 bln yuan via 14-day reverse repos: statement
+- 09/28 10:32 [FirstSquawk] CHINA INDUSTRIAL PROFITS YTD (Y/Y) AUG: 15.7% (PREV 17.6%)
+- 09/28 10:34 [FirstSquawk] CSI SSH Gold Equity Index in China drops over 3%
