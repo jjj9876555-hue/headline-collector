@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-28 12:00 JST／対象: 09/27 12:00 〜 09/28 12:00 JST（時刻はすべて日本時間）
+生成: 2026-09-28 12:21 JST／対象: 09/27 12:21 〜 09/28 12:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 09/28 00:04 | 09/28 07:06 | ⚠ 368分（00:04→06:12） |
-| FirstSquawk | 197 | 09/27 12:02 | 09/28 11:54 | ⚠ 78分（08:02→09:21） |
-| financialjuice | 95 | 09/27 12:09 | 09/28 11:30 | ⚠ 261分（12:09→16:30） |
+| FirstSquawk | 195 | 09/27 12:24 | 09/28 12:21 | ⚠ 78分（08:02→09:21） |
+| financialjuice | 93 | 09/27 16:30 | 09/28 11:30 | ⚠ 145分（00:29→02:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 286 行（統合前 298 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 282 行（統合前 294 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 12:02 [FirstSquawk] U.S. moves to finalize major reduction in vehicle fuel economy requirements - RTRS
-- 09/27 12:06 [FirstSquawk] China says Xi and Trump reached eight agreements and understandings during U.S. visit
-- 09/27 12:09 [financialjuice] US president Trump, Japan PM Takaichi hold 20-minute phone call Saturday from 1200 GMT: Japan foreign ministry
-- 09/27 12:09 [financialjuice] Trump offers detailed account of latest US-China summit during call with Japan PM Takaichi: Japan foreign ministry says
-- 09/27 12:10 [FirstSquawk] U.S. President Trump, Japan PM Takaichi hold 20-minute call: Japan foreign ministry
-- 09/27 12:10 [FirstSquawk] Trump shares details of latest U.S.-China summit with Japan PM Takaichi: Japan foreign ministry
-- 09/27 12:17 [FirstSquawk] Japan’s wedding industry turns to foreign couples as domestic marriages fall - NA
 - 09/27 12:24 [FirstSquawk] Iran maintains diplomatic approach after Trump rejects proposed peace plan - RTRS
 - 09/27 12:31 [FirstSquawk] Russia’s Lavrov criticizes U.S. actions toward Maduro and Iran at UN - NYT
 - 09/27 12:32 [FirstSquawk] Russia’s Lavrov criticizes U.S. actions toward Maduro and Iran at UN
@@ -310,3 +303,6 @@
 - 09/28 11:51 [FirstSquawk] Chinese wealthy buyers turn to Italy for property, attracted by lifestyle and tax benefits - SCMP
 - 09/28 11:54 [FirstSquawk] Gold spot price extends decline, last down 2% at $4,201.18/oz
 - 09/28 11:54 [FirstSquawk] Palladium spot price drops 3% to $1,229.42/oz
+- 09/28 12:07 [FirstSquawk] Northern Star declines Gold Fields’ $27 billion takeover offer - WSJ
+- 09/28 12:08 [FirstSquawk] Australia’s Ingenia receives improved $1.5 billion offer from Warburg Pincus - WSJ
+- 09/28 12:21 [FirstSquawk] South Korean regulator plans 14.8 billion won in fines for barbecue chain operator

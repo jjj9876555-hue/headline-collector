@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-28 12:00 JST／対象: 09/28 00:00 〜 09/28 12:00 JST（時刻はすべて日本時間）
+生成: 2026-09-28 12:21 JST／対象: 09/28 00:21 〜 09/28 12:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 5 | 09/28 00:04 | 09/28 07:06 | ⚠ 368分（00:04→06:12） |
-| FirstSquawk | 95 | 09/28 00:24 | 09/28 11:54 | ⚠ 78分（08:02→09:21） |
-| financialjuice | 70 | 09/28 00:00 | 09/28 11:30 | ⚠ 145分（00:29→02:54） |
+| DeItaone | 4 | 09/28 06:12 | 09/28 07:06 | 39分（06:27→07:06） |
+| FirstSquawk | 98 | 09/28 00:24 | 09/28 12:21 | ⚠ 78分（08:02→09:21） |
+| financialjuice | 67 | 09/28 00:29 | 09/28 11:30 | ⚠ 145分（00:29→02:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 166 行（統合前 171 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 168 行（統合前 170 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 00:00 [financialjuice/FirstSquawk] South Korea expresses strong regret over Ukraine's refusal of nondisclosure agreement on North Korean POWs - Yonhap
-- 09/28 00:02 [financialjuice/FirstSquawk] South Korean presidency: country contemplating extra actions on issue - Yonhap
-- 09/28 00:04 [DeItaone] TRUMP TELLS AXIOS THAT HE EXPECTS US NEGOTIATORS TO ENGAGE IN MORE TALKS WITH IRAN THIS WEEK
-- 09/28 00:07 [financialjuice/FirstSquawk] China considers permitting ByteDance, Alibaba to buy new Nvidia chips - The Information
 - 09/28 00:24 [FirstSquawk] Trump to Axios: I expect US negotiators to hold more talks with Iran this week
 - 09/28 00:24 [FirstSquawk] Trump to Axios: I'm considering resuming strikes on Iran on an ongoing basis
 - 09/28 00:24 [FirstSquawk] Trump to Axios: US military is facilitating the passage of large quantities of oil through the Strait of Hormuz
@@ -38,6 +34,9 @@
 - 09/28 00:25 [FirstSquawk] Trump to Axios: The Iranians want to make a deal, but it's not the one I want, and we probably would have agreed to it a year ago.
 - 09/28 00:29 [financialjuice/FirstSquawk] Anthropic's Dario Amodei to attend White House dinner with Trump: Axios
 - 09/28 00:30 [FirstSquawk] TRUMP ON TRUTH SOCIAL: The Supreme Court of the United States will just not let Missouri have an Election Victory. They continuously, three times now, overrule Judges who came to the correct decisions. Thank you to the Governor, and all of …
+- 09/28 01:15 [FirstSquawk] South Korea expresses strong regret over Ukraine's refusal of nondisclosure agreement on North Korean POWs - Yonhap
+- 09/28 01:15 [FirstSquawk] South Korean presidency: country contemplating extra actions on issue - Yonhap
+- 09/28 01:16 [FirstSquawk] China considers permitting ByteDance, Alibaba to buy new Nvidia chips - The Information
 - 09/28 01:38 [FirstSquawk] Iranian President: If America accepts the legal frameworks and our rights, we have no dispute with them; otherwise, we will never back down.
 - 09/28 01:38 [FirstSquawk] WSJ, citing a US official: Threat level raised at British base Fairford Saturday evening
 - 09/28 01:39 [FirstSquawk] WSJ, citing a US official: Fairford base is a key launchpad for military operations targeting Iran
@@ -190,3 +189,6 @@
 - 09/28 11:51 [FirstSquawk] Chinese wealthy buyers turn to Italy for property, attracted by lifestyle and tax benefits - SCMP
 - 09/28 11:54 [FirstSquawk] Gold spot price extends decline, last down 2% at $4,201.18/oz
 - 09/28 11:54 [FirstSquawk] Palladium spot price drops 3% to $1,229.42/oz
+- 09/28 12:07 [FirstSquawk] Northern Star declines Gold Fields’ $27 billion takeover offer - WSJ
+- 09/28 12:08 [FirstSquawk] Australia’s Ingenia receives improved $1.5 billion offer from Warburg Pincus - WSJ
+- 09/28 12:21 [FirstSquawk] South Korean regulator plans 14.8 billion won in fines for barbecue chain operator

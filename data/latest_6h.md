@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-28 12:00 JST／対象: 09/28 06:00 〜 09/28 12:00 JST（時刻はすべて日本時間）
+生成: 2026-09-28 12:21 JST／対象: 09/28 06:21 〜 09/28 12:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 4 | 09/28 06:12 | 09/28 07:06 | 39分（06:27→07:06） |
-| FirstSquawk | 57 | 09/28 07:06 | 09/28 11:54 | ⚠ 78分（08:02→09:21） |
+| DeItaone | 3 | 09/28 06:27 | 09/28 07:06 | 39分（06:27→07:06） |
+| FirstSquawk | 60 | 09/28 07:06 | 09/28 12:21 | ⚠ 78分（08:02→09:21） |
 | financialjuice | 54 | 09/28 07:11 | 09/28 11:30 | ⚠ 99分（07:11→08:51） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 115 行（統合前 115 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 117 行（統合前 117 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 06:12 [DeItaone] *TRUMP ON IRAN STRIKES BEFORE MIDTERMS: DON’T WANT TO SAY
 - 09/28 06:27 [DeItaone] *TRUMP ON DIESEL EXPORT BAN: THINKING OF IT VERY SERIOUSLY
 - 09/28 06:27 [DeItaone] *TRUMP: DIESEL EXPORT BAN MAY CAUSE A LITTLE CAR GASOLINE RISE
 - 09/28 07:06 [DeItaone] OIL PRICES REBOUND MORE THAN 1% AFTER TRUMP REJECTS IRAN PEACE DEAL TO REOPEN STRAIT OF HORMUZ
@@ -139,3 +138,6 @@
 - 09/28 11:51 [FirstSquawk] Chinese wealthy buyers turn to Italy for property, attracted by lifestyle and tax benefits - SCMP
 - 09/28 11:54 [FirstSquawk] Gold spot price extends decline, last down 2% at $4,201.18/oz
 - 09/28 11:54 [FirstSquawk] Palladium spot price drops 3% to $1,229.42/oz
+- 09/28 12:07 [FirstSquawk] Northern Star declines Gold Fields’ $27 billion takeover offer - WSJ
+- 09/28 12:08 [FirstSquawk] Australia’s Ingenia receives improved $1.5 billion offer from Warburg Pincus - WSJ
+- 09/28 12:21 [FirstSquawk] South Korean regulator plans 14.8 billion won in fines for barbecue chain operator
