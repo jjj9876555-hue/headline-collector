@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-29 03:58 JST／対象: 09/28 15:58 〜 09/29 03:58 JST（時刻はすべて日本時間）
+生成: 2026-09-29 04:17 JST／対象: 09/28 16:17 〜 09/29 04:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 38 | 09/28 16:28 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 170 | 09/28 16:02 | 09/29 03:52 | 31分（02:57→03:29） |
-| financialjuice | 182 | 09/28 16:02 | 09/29 03:57 | ⚠ 54分（16:02→16:56） |
+| FirstSquawk | 170 | 09/28 16:38 | 09/29 04:13 | 31分（02:57→03:29） |
+| financialjuice | 189 | 09/28 16:56 | 09/29 04:10 | 40分（18:20→19:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 379 行（統合前 394 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 386 行（統合前 401 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 16:02 [financialjuice] Currency Strength Chart: Strongest: USD, NZD, GBP, AUD, CAD, GBP, EUR, CHF - Weakest
-- 09/28 16:02 [FirstSquawk] SPAIN (JUL) TOTAL MORTGAGE LENDING YOY ACTUAL: 19.0% VS 27.4% PREVIOUS
-- 09/28 16:02 [FirstSquawk] SPAIN (JUL) HOUSE MORTGAGE APPROVALS YOY ACTUAL: -3.5% VS 10.8% PREVIOUS
-- 09/28 16:02 [FirstSquawk] Gold spot price drops nearly 3% to $4,163.69/oz
-- 09/28 16:10 [FirstSquawk] UK HOME BUILDER STOCKS RISE FOLLOWING NEW INITIATIVE TO ASSIST FIRST-TIME BUYERS.
 - 09/28 16:28 [DeItaone] YEMENI FORCES STRIKE HOUTHI TARGETS Yemeni government forces launched multiple airstrikes against Houthi positions west of Taiz, according to Al Arabiya citing Yemeni sources. The strikes reportedly targeted several Houthi sites in the Al-R…
 - 09/28 16:38 [FirstSquawk] KKR-BACKED ADVANTA IS REPORTEDLY BEGINNING A ROAD SHOW FOR A $400 MILLION INITIAL PUBLIC OFFERING.
 - 09/28 16:38 [FirstSquawk] SWEDISH PM ANDERSSON STATES GOVERNMENT FORMATION IS NOT POSSIBLE.
@@ -403,3 +398,15 @@
 - 09/29 03:52 [FirstSquawk] TRUMP: HAD A “VERY RESPECTFUL” MEETING WITH CHINA PRESIDENT XI JINPING
 - 09/29 03:56 [financialjuice] Trump: US officials spoke with Iran mediators today.
 - 09/29 03:57 [financialjuice] US Nonfarm Payrolls Prep (2nd October)
+- 09/29 03:59 [financialjuice] Trump, asked about arms sales to China: It wasn't discussed.
+- 09/29 03:59 [FirstSquawk] TRUMP: US OFFICIALS SPOKE WITH IRAN MEDIATORS TODAY; SAYS US PREVENTED IRAN FROM OBTAINING A NUCLEAR WEAPON
+- 09/29 03:59 [FirstSquawk] NVIDIA’S BOARD APPROVED AN ADDITIONAL $150 BILLION IN SHARE BUYBACK AUTHORIZATION, BRINGING THE TOTAL REPURCHASE PROGRAM TO $235 BILLION THROUGH THE FISCAL YEAR ENDING JANUARY 30, 2028.
+- 09/29 03:59 [FirstSquawk] NVIDIA SHARES ROSE 2.1% MONDAY, WITH THE STOCK UP ABOUT 24% THIS YEAR, AS THE COMPANY LOOKS TO RETURN PART OF ITS AI-DRIVEN CASH GENERATION TO SHAREHOLDERS WHILE CONTINUING TO INVEST IN AI AND ACCELERATED COMPUTING.
+- 09/29 04:02 [financialjuice] Tesla: Roadster event rescheduled due to weather; new date is October 15th. $TSLA
+- 09/29 04:03 [financialjuice] Meta and Amazon are being queried over tax breaks related to AI investments. $META $AMZN
+- 09/29 04:04 [financialjuice] Trump: Think a deal will be made on Canada trade.
+- 09/29 04:07 [financialjuice] Trump: Inflation will be eradicated after the war with Iran ends.
+- 09/29 04:09 [financialjuice] Trump ends remarks at the White House.
+- 09/29 04:09 [financialjuice] UAE President received Israel's Netanyahu on Sunday - UAE State News Agency.
+- 09/29 04:10 [financialjuice] The UAE President and Israel's Prime Minister Netanyahu discussed bilateral relations between the UAE and Israel, and the means to strengthen them - UAE State News Agency.
+- 09/29 04:13 [FirstSquawk] UAE PRESIDENT RECEIVED ISRAEL'S NETANYAHU ON SUNDAY, WITH THE TWO DISCUSSING BILATERAL RELATIONS BETWEEN THE UAE AND ISRAEL AND MEANS TO STRENGTHEN THEM - UAE STATE NEWS AGENCY

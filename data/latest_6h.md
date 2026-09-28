@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-29 03:58 JST／対象: 09/28 21:58 〜 09/29 03:58 JST（時刻はすべて日本時間）
+生成: 2026-09-29 04:17 JST／対象: 09/28 22:17 〜 09/29 04:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 17 | 09/28 22:49 | 09/29 02:14 | ⚠ 54分（00:44→01:39） |
-| FirstSquawk | 89 | 09/28 21:58 | 09/29 03:52 | 31分（02:57→03:29） |
-| financialjuice | 116 | 09/28 22:00 | 09/29 03:57 | 23分（03:04→03:28） |
+| FirstSquawk | 89 | 09/28 22:27 | 09/29 04:13 | 31分（02:57→03:29） |
+| financialjuice | 122 | 09/28 22:19 | 09/29 04:10 | 23分（03:04→03:28） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 214 行（統合前 225 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 220 行（統合前 231 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 21:58 [FirstSquawk] SHEIN 1H NET INCOME $2.30B VS. $1.09B Y/Y
-- 09/28 22:00 [financialjuice] Effective Fed Funds Rate 3.88% September 25 vs 3.88% September 24.
-- 09/28 22:01 [financialjuice] Senate report says Tether's USDT has become a primary means of payment for Iran - WSJ
-- 09/28 22:06 [FirstSquawk] INDIA TRADE MINISTER GOYAL TO VISIT US SEPT 29-OCT 5 FOR G20 TRADE TALKS
-- 09/28 22:11 [FirstSquawk] TRUMP ADMINISTRATION ENDS FUEL ECONOMY CREDIT TRADING IN 2028
-- 09/28 22:12 [FirstSquawk] SPACEX: GO-AHEAD GIVEN FOR STARSHIP ORBIT ATTEMPT DESPITE ENGINE GOING OUT
 - 09/28 22:19 [financialjuice] Trump's 2PM announcement will be on Iowa steel project - Official
 - 09/28 22:25 [financialjuice] Total CEO: About 10M b/d going through Hormuz
 - 09/28 22:27 [FirstSquawk] LULA SEEN WITH 39%, BOLSONARO 34% OF VOTES IN 1ST ROUND POLL - QUAEST
@@ -238,3 +232,15 @@
 - 09/29 03:52 [FirstSquawk] TRUMP: HAD A “VERY RESPECTFUL” MEETING WITH CHINA PRESIDENT XI JINPING
 - 09/29 03:56 [financialjuice] Trump: US officials spoke with Iran mediators today.
 - 09/29 03:57 [financialjuice] US Nonfarm Payrolls Prep (2nd October)
+- 09/29 03:59 [financialjuice] Trump, asked about arms sales to China: It wasn't discussed.
+- 09/29 03:59 [FirstSquawk] TRUMP: US OFFICIALS SPOKE WITH IRAN MEDIATORS TODAY; SAYS US PREVENTED IRAN FROM OBTAINING A NUCLEAR WEAPON
+- 09/29 03:59 [FirstSquawk] NVIDIA’S BOARD APPROVED AN ADDITIONAL $150 BILLION IN SHARE BUYBACK AUTHORIZATION, BRINGING THE TOTAL REPURCHASE PROGRAM TO $235 BILLION THROUGH THE FISCAL YEAR ENDING JANUARY 30, 2028.
+- 09/29 03:59 [FirstSquawk] NVIDIA SHARES ROSE 2.1% MONDAY, WITH THE STOCK UP ABOUT 24% THIS YEAR, AS THE COMPANY LOOKS TO RETURN PART OF ITS AI-DRIVEN CASH GENERATION TO SHAREHOLDERS WHILE CONTINUING TO INVEST IN AI AND ACCELERATED COMPUTING.
+- 09/29 04:02 [financialjuice] Tesla: Roadster event rescheduled due to weather; new date is October 15th. $TSLA
+- 09/29 04:03 [financialjuice] Meta and Amazon are being queried over tax breaks related to AI investments. $META $AMZN
+- 09/29 04:04 [financialjuice] Trump: Think a deal will be made on Canada trade.
+- 09/29 04:07 [financialjuice] Trump: Inflation will be eradicated after the war with Iran ends.
+- 09/29 04:09 [financialjuice] Trump ends remarks at the White House.
+- 09/29 04:09 [financialjuice] UAE President received Israel's Netanyahu on Sunday - UAE State News Agency.
+- 09/29 04:10 [financialjuice] The UAE President and Israel's Prime Minister Netanyahu discussed bilateral relations between the UAE and Israel, and the means to strengthen them - UAE State News Agency.
+- 09/29 04:13 [FirstSquawk] UAE PRESIDENT RECEIVED ISRAEL'S NETANYAHU ON SUNDAY, WITH THE TWO DISCUSSING BILATERAL RELATIONS BETWEEN THE UAE AND ISRAEL AND MEANS TO STRENGTHEN THEM - UAE STATE NEWS AGENCY
