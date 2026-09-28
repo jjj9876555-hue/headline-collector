@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-28 09:50 JST／対象: 09/27 09:50 〜 09/28 09:50 JST（時刻はすべて日本時間）
+生成: 2026-09-28 10:02 JST／対象: 09/27 10:02 〜 09/28 10:02 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 09/28 00:04 | 09/28 07:06 | ⚠ 368分（00:04→06:12） |
-| FirstSquawk | 198 | 09/27 10:04 | 09/28 09:50 | ⚠ 78分（08:02→09:21） |
+| FirstSquawk | 203 | 09/27 10:04 | 09/28 10:01 | ⚠ 78分（08:02→09:21） |
 | financialjuice | 74 | 09/27 10:19 | 09/28 09:30 | ⚠ 261分（12:09→16:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 266 行（統合前 278 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 271 行（統合前 283 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -290,3 +290,8 @@
 - 09/28 09:36 [FirstSquawk] US SAYS NO PLANS TO SELL WEAPONS TO CHINA AFTER PERDUE COMMENTS – WSJ
 - 09/28 09:39 [FirstSquawk] Australian dollar slips toward 0.7000 as hawkish Fed signals weigh ahead of RBA decision - FX
 - 09/28 09:50 [FirstSquawk] Seoul equities start lower despite overnight gains on Wall Street
+- 09/28 09:51 [FirstSquawk] Seoul voices strong regret over Ukraine’s denial of nondisclosure deal involving North Korean POWs - YONHAP
+- 09/28 09:54 [FirstSquawk] Tokyo Metro says data breach may have exposed 59,000 customer email addresses
+- 09/28 09:58 [FirstSquawk] Darwin Port lease sparks fresh tensions between Australia and China - KYODO
+- 09/28 10:01 [FirstSquawk] POLITICO - Trump administration airs campaign-style Trump ad as taxpayer-funded messaging expands
+- 09/28 10:01 [FirstSquawk] 2-year Japanese government bond yield hits 1.955%, highest since April 1995
