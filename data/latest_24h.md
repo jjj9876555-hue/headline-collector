@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-29 02:53 JST／対象: 09/28 02:53 〜 09/29 02:53 JST（時刻はすべて日本時間）
+生成: 2026-09-29 03:21 JST／対象: 09/28 03:21 〜 09/29 03:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 42 | 09/28 06:12 | 09/29 02:14 | ⚠ 562分（07:06→16:28） |
-| FirstSquawk | 274 | 09/28 02:58 | 09/29 02:50 | ⚠ 78分（08:02→09:21） |
-| financialjuice | 237 | 09/28 02:54 | 09/29 02:51 | ⚠ 124分（05:07→07:11） |
+| FirstSquawk | 270 | 09/28 03:55 | 09/29 02:57 | ⚠ 78分（08:02→09:21） |
+| financialjuice | 235 | 09/28 04:04 | 09/29 03:04 | ⚠ 124分（05:07→07:11） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 542 行（統合前 557 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 536 行（統合前 551 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 02:54 [financialjuice] Israeli foreign ministry: Israel cancels diplomatic status of Dutch diplomats in Ramallah
-- 09/28 02:55 [financialjuice] Israeli foreign ministry: diplomatic immunity of Dutch envoys in Ramallah to end in seven days
-- 09/28 02:58 [FirstSquawk] ISRAEL REVOKES DIPLOMATIC STATUS OF DUTCH DIPLOMATS IN RAMALLAH — FOREIGN MINISTRY
-- 09/28 02:58 [FirstSquawk] ISRAEL TO END DIPLOMATIC STATUS OF DUTCH DIPLOMATS IN RAMALLAH IN SEVEN DAYS — FOREIGN MINISTRY
-- 09/28 03:03 [financialjuice] Downing Street: UK PM Burnham greeted Norwegian Prime Minister Jonas Store in Liverpool today
-- 09/28 03:03 [financialjuice] Serbia’s President Aleksandar Vucic resigns, clears path for early presidential election
-- 09/28 03:03 [financialjuice] Downing Street: UK PM and Norway PM discuss Lunna House strategic defense pact between UK and Norway
-- 09/28 03:05 [financialjuice] Downing Street: UK PM Burnham and Norway PM hail deal between Denmark, Greenland and US
-- 09/28 03:13 [FirstSquawk] DOWNING STREET SAYS UK PM BURNHAM WELCOMED THE PRIME MINISTER OF NORWAY JONAS STØRE TO LIVERPOOL TODAY, WITH THE TWO RAISING THE LUNNA HOUSE STRATEGIC DEFENCE AGREEMENT BETWEEN THE UK AND NORWAY.
-- 09/28 03:13 [FirstSquawk] DOWNING STREET SAYS UK PM BURNHAM AND THE NORWAY PM WELCOMED AN AGREEMENT BETWEEN DENMARK, GREENLAND AND THE UNITED STATES.
-- 09/28 03:20 [FirstSquawk] SERBIA’S PRESIDENT ALEKSANDAR VUCIC RESIGNS, PAVING WAY FOR EARLY PRESIDENTIAL ELECTIONS — REUTERS
 - 09/28 03:55 [FirstSquawk] US ISSUES SECURITY ALERT AFTER INCIDENT NEAR RAF FAIRFORD BASE IN UK; FIVE ARRESTED IN EXPLOSIVES PROBE
 - 09/28 04:01 [FirstSquawk] NETANYAHU TO FLY TO UAE TODAY FOR MEETING WITH PRESIDENT MOHAMMED BIN ZAYED — CHANNEL 12
 - 09/28 04:04 [financialjuice] Israeli prime minister visited Abu Dhabi on Sunday: UAE president met, Axios sources
@@ -566,3 +555,8 @@
 - 09/29 02:49 [FirstSquawk] US NATURAL GAS FUTURES PLUNGE MORE THAN 5% AS CONTRACT EXPIRY NEARS AND WEST VIRGINIA PIPELINE RETURN BOOSTS OUTPUT EXPECTATIONS
 - 09/29 02:50 [FirstSquawk] ANTHROPIC CEO DARIO AMODEI TO ATTEND WHITE HOUSE MEETING WITH TRUMP TOMORROW — SOURCE familiar with the matter
 - 09/29 02:51 [financialjuice] A powerful explosion occurred in a gas pipeline in Deir ez-Zor, Syria, near the Iraqi border - Tasnim News
+- 09/29 02:55 [financialjuice] Trump Speaks Live
+- 09/29 02:56 [financialjuice] LIVE: Trump announces a $15 billion steel mill planned for Iowa
+- 09/29 02:57 [financialjuice] Axios Reporter on X: The US wants to see Iran inviting IAEA inspectors back as it committed to in the talks in Switzerland
+- 09/29 02:57 [FirstSquawk] US WANTS IRAN TO ALLOW IAEA INSPECTORS TO RETURN, HONORING COMMITMENT MADE DURING SWISS TALKS — AXIOS REPORTER ON X
+- 09/29 03:04 [financialjuice] UK Official confirms that no viable explosives were found at Fairford.

@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-29 02:53 JST／対象: 09/28 20:53 〜 09/29 02:53 JST（時刻はすべて日本時間）
+生成: 2026-09-29 03:21 JST／対象: 09/28 21:21 〜 09/29 03:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 17 | 09/28 22:49 | 09/29 02:14 | ⚠ 54分（00:44→01:39） |
-| FirstSquawk | 94 | 09/28 20:57 | 09/29 02:50 | 22分（01:45→02:07） |
-| financialjuice | 111 | 09/28 21:00 | 09/29 02:51 | 22分（01:46→02:09） |
+| FirstSquawk | 89 | 09/28 21:22 | 09/29 02:57 | 22分（01:45→02:07） |
+| financialjuice | 109 | 09/28 21:25 | 09/29 03:04 | 22分（01:46→02:09） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 213 行（統合前 226 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 206 行（統合前 219 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 20:57 [FirstSquawk] U.S. CENTRAL COMMAND REPORTS OVER ONE BILLION BARRELS OF OIL TRANSPORTED THROUGH THE HORMUZ STRAIT IN RECENT MONTHS.
-- 09/28 21:00 [financialjuice] Secured overnight financing rate: 3.90% September 25th vs 3.88% September 24th
-- 09/28 21:02 [FirstSquawk] US FDA OKS ABBVIE’S JUVMO FOR PARKINSON'S DISEASE
-- 09/28 21:02 [FirstSquawk] BAYER'S LYNKUET GETS FDA PRIORITY REVIEW FOR BREAST CANCER USE
-- 09/28 21:03 [financialjuice] Treasury Secretary Scott Bessent hires Wall Street economist David Zervos - CNBC.
-- 09/28 21:04 [financialjuice] ❗ Mediators expected to hold separate talks with the US and Iran on Monday or Tuesday, with Iran's Araghchi and Qatari mediators remaining in the US - Official briefed on the negotiations to
-- 09/28 21:05 [financialjuice] ❗ Talks to focus on amended version of 7-day proposal Iran presented on UNGA sidelines - Source Briefed on The Negotiations.
-- 09/28 21:06 [FirstSquawk] MEDIATORS WILL HAVE INDIVIDUAL DISCUSSIONS WITH THE US AND IRAN ON MONDAY OR TUESDAY, WITH IRAN'S ARAGHCHI AND QATARI MEDIATORS STAYING IN THE US, ACCORDING TO AN OFFICIAL BRIEFED ON THE TALKS.
-- 09/28 21:06 [FirstSquawk] TALKS WILL CENTER ON A REVISED 7-DAY PROPOSAL BY IRAN DISCUSSED AT THE UNGA, ACCORDING TO A SOURCE INFORMED ABOUT THE DISCUSSIONS.
-- 09/28 21:07 [financialjuice] Nvidia's CEO Huang: New software is a browser for agents $NVDA
-- 09/28 21:09 [FirstSquawk] NVIDIA CEO HUANG: NEW SOFTWARE IS A BROWSER FOR AGENTS - CNBC
-- 09/28 21:09 [financialjuice] Morning Juice – US Session Prep (28th September)
 - 09/28 21:22 [FirstSquawk] MANY GERMANS VIEW CHANCELLOR FRIEDRICH MERZ AS DISTANT, AGGRESSIVE, AND NOT EMPATHETIC.
 - 09/28 21:23 [FirstSquawk] HUNGARY DEBT CHIEF: EXPECTING EU FUNDS TO ARRIVE BY YEAR-END
 - 09/28 21:25 [FirstSquawk/financialjuice] IRAN REJECTS 'SPECULATIONS' ABOUT INCIDENT IN UK'S RAF FAIRFORD
@@ -237,3 +225,8 @@
 - 09/29 02:49 [FirstSquawk] US NATURAL GAS FUTURES PLUNGE MORE THAN 5% AS CONTRACT EXPIRY NEARS AND WEST VIRGINIA PIPELINE RETURN BOOSTS OUTPUT EXPECTATIONS
 - 09/29 02:50 [FirstSquawk] ANTHROPIC CEO DARIO AMODEI TO ATTEND WHITE HOUSE MEETING WITH TRUMP TOMORROW — SOURCE familiar with the matter
 - 09/29 02:51 [financialjuice] A powerful explosion occurred in a gas pipeline in Deir ez-Zor, Syria, near the Iraqi border - Tasnim News
+- 09/29 02:55 [financialjuice] Trump Speaks Live
+- 09/29 02:56 [financialjuice] LIVE: Trump announces a $15 billion steel mill planned for Iowa
+- 09/29 02:57 [financialjuice] Axios Reporter on X: The US wants to see Iran inviting IAEA inspectors back as it committed to in the talks in Switzerland
+- 09/29 02:57 [FirstSquawk] US WANTS IRAN TO ALLOW IAEA INSPECTORS TO RETURN, HONORING COMMITMENT MADE DURING SWISS TALKS — AXIOS REPORTER ON X
+- 09/29 03:04 [financialjuice] UK Official confirms that no viable explosives were found at Fairford.

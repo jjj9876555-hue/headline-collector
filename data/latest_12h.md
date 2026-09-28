@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-29 02:53 JST／対象: 09/28 14:53 〜 09/29 02:53 JST（時刻はすべて日本時間）
+生成: 2026-09-29 03:21 JST／対象: 09/28 15:21 〜 09/29 03:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 38 | 09/28 16:28 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 172 | 09/28 15:00 | 09/29 02:50 | 27分（16:10→16:38） |
-| financialjuice | 168 | 09/28 15:00 | 09/29 02:51 | ⚠ 54分（16:02→16:56） |
+| FirstSquawk | 167 | 09/28 15:22 | 09/29 02:57 | 27分（16:10→16:38） |
+| financialjuice | 171 | 09/28 15:41 | 09/29 03:04 | ⚠ 54分（16:02→16:56） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 367 行（統合前 382 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 365 行（統合前 380 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 15:00 [financialjuice] SWEDISH TRADE BALANCE ACTUAL -11.9B (FORECAST -, PREVIOUS 1.2B) $MACRO
-- 09/28 15:00 [FirstSquawk] SWEDEN (AUG) TRADE BALANCE ACTUAL: -11.9B VS 1.2B PREVIOUS
-- 09/28 15:00 [FirstSquawk] NORWAY (AUG) RETAIL SALES W/AUTO FUEL MOM ACTUAL: 0.6% VS -0.7% PREVIOUS
-- 09/28 15:07 [FirstSquawk] EU’s Kallas calls for focus on addressing gaps in Europe’s defence capabilities
-- 09/28 15:08 [FirstSquawk] EU’s Kallas says Aspides mission faces greater need for naval assets than ever
-- 09/28 15:13 [FirstSquawk] Foreign banks reportedly explore UBS merger, according to Swiss newspaper
-- 09/28 15:15 [FirstSquawk] EU’s Kallas: Russia planning additional sabotage operations, intelligence reports show
 - 09/28 15:22 [FirstSquawk] Australian stocks edge higher as S&P/ASX 200 ends at 8,679.70
 - 09/28 15:24 [FirstSquawk] UK’s Streeting: State-backed actors could seek to harm Britain, requiring continued vigilance
 - 09/28 15:25 [FirstSquawk] UK’s Streeting declines to speculate on motives behind arrests
@@ -391,3 +384,8 @@
 - 09/29 02:49 [FirstSquawk] US NATURAL GAS FUTURES PLUNGE MORE THAN 5% AS CONTRACT EXPIRY NEARS AND WEST VIRGINIA PIPELINE RETURN BOOSTS OUTPUT EXPECTATIONS
 - 09/29 02:50 [FirstSquawk] ANTHROPIC CEO DARIO AMODEI TO ATTEND WHITE HOUSE MEETING WITH TRUMP TOMORROW — SOURCE familiar with the matter
 - 09/29 02:51 [financialjuice] A powerful explosion occurred in a gas pipeline in Deir ez-Zor, Syria, near the Iraqi border - Tasnim News
+- 09/29 02:55 [financialjuice] Trump Speaks Live
+- 09/29 02:56 [financialjuice] LIVE: Trump announces a $15 billion steel mill planned for Iowa
+- 09/29 02:57 [financialjuice] Axios Reporter on X: The US wants to see Iran inviting IAEA inspectors back as it committed to in the talks in Switzerland
+- 09/29 02:57 [FirstSquawk] US WANTS IRAN TO ALLOW IAEA INSPECTORS TO RETURN, HONORING COMMITMENT MADE DURING SWISS TALKS — AXIOS REPORTER ON X
+- 09/29 03:04 [financialjuice] UK Official confirms that no viable explosives were found at Fairford.
