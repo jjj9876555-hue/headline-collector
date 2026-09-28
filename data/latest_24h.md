@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-29 00:29 JST／対象: 09/28 00:29 〜 09/29 00:29 JST（時刻はすべて日本時間）
+生成: 2026-09-29 00:48 JST／対象: 09/28 00:48 〜 09/29 00:48 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 30 | 09/28 06:12 | 09/29 00:19 | ⚠ 562分（07:06→16:28） |
-| FirstSquawk | 249 | 09/28 00:30 | 09/29 00:18 | ⚠ 78分（08:02→09:21） |
-| financialjuice | 185 | 09/28 02:54 | 09/29 00:23 | ⚠ 124分（05:07→07:11） |
+| DeItaone | 32 | 09/28 06:12 | 09/29 00:44 | ⚠ 562分（07:06→16:28） |
+| FirstSquawk | 255 | 09/28 01:15 | 09/29 00:40 | ⚠ 78分（08:02→09:21） |
+| financialjuice | 195 | 09/28 02:54 | 09/29 00:39 | ⚠ 124分（05:07→07:11） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 458 行（統合前 466 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 474 行（統合前 484 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 00:30 [FirstSquawk] TRUMP ON TRUTH SOCIAL: The Supreme Court of the United States will just not let Missouri have an Election Victory. They continuously, three times now, overrule Judges who came to the correct decisions. Thank you to the Governor, and all of …
 - 09/28 01:15 [FirstSquawk] South Korea expresses strong regret over Ukraine's refusal of nondisclosure agreement on North Korean POWs - Yonhap
 - 09/28 01:15 [FirstSquawk] South Korean presidency: country contemplating extra actions on issue - Yonhap
 - 09/28 01:16 [FirstSquawk] China considers permitting ByteDance, Alibaba to buy new Nvidia chips - The Information
@@ -482,3 +481,20 @@
 - 09/29 00:18 [FirstSquawk] RUSSIA SAYS IT HIT TWO SHIPS HEADING TO ODESA PORT: IFX
 - 09/29 00:19 [DeItaone] U.S. TWO-YEAR TREASURY YIELD REACHES 4.952%, HIGHEST SINCE MAY 2024
 - 09/29 00:23 [financialjuice] US Secretary of State Rubio met with Lebanese PM Mikati in Washington - Israel's Channel 12 News
+- 09/29 00:32 [FirstSquawk] BRITAIN'S FTSE 100 UP 0.05%; GERMANY'S DAX DOWN 0.01%
+- 09/29 00:32 [financialjuice] US 6-MONTH BILL HIGH YIELD ACTUAL 4.285% (FORECAST -, PREVIOUS 4.155%) $MACRO
+- 09/29 00:32 [FirstSquawk] FRANCE'S CAC 40 UP 0.14%; SPAIN'S IBEX DOWN 0.33%
+- 09/29 00:32 [financialjuice] US 6-MONTH BILL BID-TO-COVER ACTUAL 2.64 (FORECAST -, PREVIOUS 2.620) $MACRO
+- 09/29 00:32 [financialjuice] US 3-MONTH BILL BID-TO-COVER ACTUAL 2.99 (FORECAST -, PREVIOUS 2.770) $MACRO
+- 09/29 00:32 [financialjuice] US 3-MONTH BILL HIGH YIELD ACTUAL 4.11% (FORECAST -, PREVIOUS 4.015%) $MACRO
+- 09/29 00:32 [financialjuice] US 3-MONTH AWARDED HIGH ACTUAL 61.140% (FORECAST -, PREVIOUS 36.660%) $MACRO
+- 09/29 00:32 [financialjuice] US 6-MONTH AWARDED HIGH ACTUAL 37.890% (FORECAST -, PREVIOUS 48.010%) $MACRO
+- 09/29 00:34 [financialjuice/FirstSquawk] TotalEnergies CEO: There was a big debate whether we should declare force majeure on LNG
+- 09/29 00:35 [FirstSquawk/DeItaone] STOCKS OF CRUDE OIL IN US STRATEGIC PETROLEUM RESERVE FELL TO 283.8 MLN BARRELS LAST WEEK, LOWEST SINCE 1982
+- 09/29 00:37 [financialjuice] Nvidia, OpenAI invited to Trump-Johnson meeting - Semafor. $NVDA
+- 09/29 00:38 [financialjuice] White House Official: Trump and Anthropic's Amodei met last night.
+- 09/29 00:39 [FirstSquawk] NVIDIA, OPENAI INVITED TO TRUMP-JOHNSON MEETING: SEMAFOR
+- 09/29 00:39 [financialjuice] US 3-Month Bill Auction High Yield 4.11% Bid-to-Cover 2.99 Sells $95 bln Awards 61.14% of bids at high US 6-Month Bill Auction High Yield 4.285% Bid-to-Cover 2.64 Sells 82 bln Awards 37.89% of bids at high
+- 09/29 00:39 [FirstSquawk] TRUMP, HOUSE SPEAKER JOHNSON & AI CEOS TO MEET TUESDAY AT WHITE HOUSE - SEMAFOR
+- 09/29 00:40 [FirstSquawk] WH OFFICIAL: TRUMP, ANTHROPISM’S AMODEI MET LAST NIGHT
+- 09/29 00:44 [DeItaone] GOLDMAN WARNS JUNK BOND SUPPLY IS OVERWHELMING INVESTORS Goldman Sachs says a flood of U.S. high-yield debt issuance is straining investor demand, pushing junk-bond spreads to their widest since April. September issuance has reached $38.5 b…
