@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-28 20:36 JST／対象: 09/28 14:36 〜 09/28 20:36 JST（時刻はすべて日本時間）
+生成: 2026-09-28 20:54 JST／対象: 09/28 14:54 〜 09/28 20:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 19 | 09/28 16:28 | 09/28 20:19 | ⚠ 50分（17:23→18:13） |
-| FirstSquawk | 76 | 09/28 15:00 | 09/28 20:33 | 27分（16:10→16:38） |
-| financialjuice | 52 | 09/28 15:00 | 09/28 20:35 | ⚠ 54分（16:02→16:56） |
+| DeItaone | 21 | 09/28 16:28 | 09/28 20:42 | ⚠ 50分（17:23→18:13） |
+| FirstSquawk | 78 | 09/28 15:00 | 09/28 20:51 | 27分（16:10→16:38） |
+| financialjuice | 57 | 09/28 15:00 | 09/28 20:43 | ⚠ 54分（16:02→16:56） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 146 行（統合前 147 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 154 行（統合前 156 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -170,3 +170,11 @@
 - 09/28 20:32 [financialjuice] Citi Expands Digital-Assets Footprint With Coinbase Partnership - WSJ
 - 09/28 20:33 [FirstSquawk] U.S. AND CHINA UNVEIL $30B TARIFF CUTS FOLLOWING TRUMP AND XI'S MEETING.
 - 09/28 20:35 [financialjuice] AI firm Instinct raised $1B at a $10B valuation - NYT DealBook
+- 09/28 20:38 [financialjuice] US Health Sec. Azar: We will make sure Britain wins in AI revolution
+- 09/28 20:38 [DeItaone] $META - META PRICE TARGET RAISED TO $830 Monness Crespi Hardt raised its Meta price target to $830 from $730, maintaining a Buy rating. The firm says early traction for Meta’s Muse personal AI agent and its broader AI strategy have started …
+- 09/28 20:41 [financialjuice] Nvidia investments portfolio consists of 13 public companies, 229 private
+- 09/28 20:42 [FirstSquawk/financialjuice] NVIDIA: ANTHROPIC'S REPORTED CONTRACTED VALUE EXCEEDS $180B
+- 09/28 20:42 [DeItaone] IRAN REACHES OUT TO ARAB STATES Iranian General Yahya Safavi says Tehran has “extended a hand of friendship” to Arab countries, according to local media. Safavi warned that the United States will eventually leave the region, signaling Iran’…
+- 09/28 20:43 [financialjuice] Nvidia's commitments increased to $279B from $119B last quarter
+- 09/28 20:43 [financialjuice] NVIDIA commitments primarily related to procurement of memory.
+- 09/28 20:51 [FirstSquawk] FIVE PEOPLE DETAINED IN THE "FAIRFORD" INCIDENT IN BRITAIN ARE ALL BRITISH NATIONALS.

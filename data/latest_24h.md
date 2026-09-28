@@ -7,29 +7,25 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-28 20:36 JST／対象: 09/27 20:36 〜 09/28 20:36 JST（時刻はすべて日本時間）
+生成: 2026-09-28 20:54 JST／対象: 09/27 20:54 〜 09/28 20:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 24 | 09/28 00:04 | 09/28 20:19 | ⚠ 562分（07:06→16:28） |
-| FirstSquawk | 232 | 09/27 20:48 | 09/28 20:33 | ⚠ 78分（08:02→09:21） |
-| financialjuice | 138 | 09/27 20:38 | 09/28 20:35 | ⚠ 145分（00:29→02:54） |
+| DeItaone | 26 | 09/28 00:04 | 09/28 20:42 | ⚠ 562分（07:06→16:28） |
+| FirstSquawk | 230 | 09/27 21:37 | 09/28 20:51 | ⚠ 78分（08:02→09:21） |
+| financialjuice | 142 | 09/27 21:54 | 09/28 20:43 | ⚠ 145分（00:29→02:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 382 行（統合前 395 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 386 行（統合前 399 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 20:38 [financialjuice/FirstSquawk] Pakistan information ministry rejects Afghan allegations of backing fighters in Nuristan, denies training ex-Afghan security personnel
-- 09/27 20:48 [FirstSquawk] British media: Counter-terrorism police are leading the investigation after arrests near RAF Fairford.
-- 09/27 20:48 [FirstSquawk] Explosives arrests made in ‘major incident’ near RAF Fairford - FT
-- 09/27 20:48 [FirstSquawk] The EU needs a clearer strategy for partners like Canada - FT
-- 09/27 20:49 [FirstSquawk] Burnham signals he will fight next election on tax rises to fund social care reform - FT
 - 09/27 21:37 [FirstSquawk] Japanese trade promotion group led by ex-foreign minister visits China -Nikkei
+- 09/27 21:40 [FirstSquawk] Pakistan information ministry rejects Afghan allegations of backing fighters in Nuristan, denies training ex-Afghan security personnel
 - 09/27 21:54 [financialjuice/FirstSquawk] UK police on Fairford air base incident: 5 men arrested near RAF Fairford
 - 09/27 21:54 [financialjuice/FirstSquawk] UK police on Fairford air base incident: men held in custody
 - 09/27 21:54 [financialjuice/FirstSquawk] UK police: 85 households told to evacuate
@@ -406,3 +402,11 @@
 - 09/28 20:32 [financialjuice] Citi Expands Digital-Assets Footprint With Coinbase Partnership - WSJ
 - 09/28 20:33 [FirstSquawk] U.S. AND CHINA UNVEIL $30B TARIFF CUTS FOLLOWING TRUMP AND XI'S MEETING.
 - 09/28 20:35 [financialjuice] AI firm Instinct raised $1B at a $10B valuation - NYT DealBook
+- 09/28 20:38 [financialjuice] US Health Sec. Azar: We will make sure Britain wins in AI revolution
+- 09/28 20:38 [DeItaone] $META - META PRICE TARGET RAISED TO $830 Monness Crespi Hardt raised its Meta price target to $830 from $730, maintaining a Buy rating. The firm says early traction for Meta’s Muse personal AI agent and its broader AI strategy have started …
+- 09/28 20:41 [financialjuice] Nvidia investments portfolio consists of 13 public companies, 229 private
+- 09/28 20:42 [FirstSquawk/financialjuice] NVIDIA: ANTHROPIC'S REPORTED CONTRACTED VALUE EXCEEDS $180B
+- 09/28 20:42 [DeItaone] IRAN REACHES OUT TO ARAB STATES Iranian General Yahya Safavi says Tehran has “extended a hand of friendship” to Arab countries, according to local media. Safavi warned that the United States will eventually leave the region, signaling Iran’…
+- 09/28 20:43 [financialjuice] Nvidia's commitments increased to $279B from $119B last quarter
+- 09/28 20:43 [financialjuice] NVIDIA commitments primarily related to procurement of memory.
+- 09/28 20:51 [FirstSquawk] FIVE PEOPLE DETAINED IN THE "FAIRFORD" INCIDENT IN BRITAIN ARE ALL BRITISH NATIONALS.
