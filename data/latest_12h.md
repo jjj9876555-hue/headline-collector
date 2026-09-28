@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-29 06:52 JST／対象: 09/28 18:52 〜 09/29 06:52 JST（時刻はすべて日本時間）
+生成: 2026-09-29 07:04 JST／対象: 09/28 19:04 〜 09/29 07:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 32 | 09/28 19:06 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 165 | 09/28 18:55 | 09/29 05:29 | 31分（02:57→03:29） |
-| financialjuice | 203 | 09/28 19:01 | 09/29 06:37 | 23分（06:11→06:35） |
+| FirstSquawk | 159 | 09/28 19:11 | 09/29 05:29 | 31分（02:57→03:29） |
+| financialjuice | 205 | 09/28 19:04 | 09/29 07:02 | 23分（06:11→06:35） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 385 行（統合前 404 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 381 行（統合前 400 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 18:55 [FirstSquawk] MILIBAND STATES THAT THEY WILL KEEP ISOLATING IRAN UNTIL THE STRAIT OF HORMUZ IS REOPENED.
-- 09/28 18:55 [FirstSquawk] MILIBAND SAYS IGNORING CLIMATE ISSUES MAKES THE COUNTRY DANGEROUS.
-- 09/28 18:55 [FirstSquawk] MILIBAND SAYS CORPORATIONS SHOULD NOT BE LEFT WITH ALL THE GUARDRAILS.
-- 09/28 18:55 [FirstSquawk] MILIBAND STATED THAT TECH GIANTS CANNOT BLOCK OUR PROGRESS.
-- 09/28 19:01 [financialjuice] BoE's Ramsden: I don’t foresee that we will be considering further QE any time soon
-- 09/28 19:01 [FirstSquawk] UKRAINE AGRICULTRUE CHIEF: NO POSITIVE SIGNS ON BLACK SEA CEASEFIRE || DOESN'T EXPECT BLACK SEA CEASEFIRE IN COMING MONTHS || SEES MAXIMUM EXPORTS AT 50% VIA BLACK SEA ALTERNATIVES || REACHED 45% OF AGRI EXPORTS VIA BLACK SEA ALTERNATIVES
-- 09/28 19:01 [FirstSquawk] UKRAINE AGRICULTRUE CHIEF: DENIED REQUEST FOR EU220M GRANT, FARMER CREDIT LINE || WORLD BANK $250M UKRAINE AGRI LOAN PROVIDES FOR THIS YEAR || REQUESTED TO UP '27 SUGAR, BIOETHANOL EU TARIFF QUOTAS
-- 09/28 19:03 [financialjuice] BoE's Ramsden: However, we have to recognise that the external environment can change very rapidly
-- 09/28 19:04 [financialjuice] BoE's Ramsden: The inflation pressures I will continue to focus on are external pressures from energy prices, weather, ALIsupply chain
-- 09/28 19:04 [financialjuice] BoE's Ramsden: Domestically, I will be focused on the outlook for indirect effects, particularly in food prices, and any early signs of second-round effects
-- 09/28 19:04 [financialjuice] BoE's Ramsden: QT plan provides a credible and coherent strategy
 - 09/28 19:04 [financialjuice] BoE's Ramsden: Risks to the inflation outlook, whether external or domestically generated, have tilted more to the upside
 - 09/28 19:05 [financialjuice] BoE's Ramsden: Were upside pressures on the inflation outlook to continue to build, there could be a case for increasing the bank rate
 - 09/28 19:05 [financialjuice] BoE's Ramsden: Case for hike if upside pressures persist
@@ -409,3 +398,10 @@
 - 09/29 06:36 [financialjuice] Syria: Gas pipeline fire between Al-Shola and Deir al-Zour caused by sabotage - state news agency
 - 09/29 06:36 [financialjuice] Syrian Petroleum Company: efforts underway to extinguish fire - Syrian state news agency
 - 09/29 06:37 [financialjuice] Syria’s state petroleum company: Fire stopped gas supply from Jbeissa plant to power stations – Syrian state news agency
+- 09/29 06:54 [financialjuice] Iran’s foreign minister: Tehran discussed proposals with Qatari mediators to present to US - IRNA
+- 09/29 06:55 [financialjuice] Iran's Aragchi: US response to be relayed to Tehran through Qatari mediators - IRNA
+- 09/29 06:56 [financialjuice] Iran's Araqchi: conditions set by supreme leader must be met for Strait of Hormuz to reopen - IRNA
+- 09/29 06:58 [financialjuice] Aragchi: If US wants deal or peace, Iran has offered solution - IRNA
+- 09/29 07:01 [financialjuice] OpenAI halts launch of new AI model over safety worries: WSJ
+- 09/29 07:02 [financialjuice] OpenAI planned to release model GPT-6.1 Astra in coming days or weeks, aiming for October debut: WSJ
+- 09/29 07:02 [financialjuice] OpenAI: will concentrate on enhancing safety of future models expected to be more advanced - WSJ
