@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-28 19:19 JST／対象: 09/27 19:19 〜 09/28 19:19 JST（時刻はすべて日本時間）
+生成: 2026-09-28 19:36 JST／対象: 09/27 19:36 〜 09/28 19:36 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 14 | 09/28 00:04 | 09/28 19:13 | ⚠ 562分（07:06→16:28） |
-| FirstSquawk | 222 | 09/27 19:23 | 09/28 19:15 | ⚠ 78分（08:02→09:21） |
-| financialjuice | 120 | 09/27 19:28 | 09/28 19:15 | ⚠ 145分（00:29→02:54） |
+| DeItaone | 16 | 09/28 00:04 | 09/28 19:34 | ⚠ 562分（07:06→16:28） |
+| FirstSquawk | 221 | 09/27 20:24 | 09/28 19:35 | ⚠ 78分（08:02→09:21） |
+| financialjuice | 119 | 09/27 19:44 | 09/28 19:29 | ⚠ 145分（00:29→02:54） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 345 行（統合前 357 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,11 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 19:23 [FirstSquawk] Ukrainian Emergency Service: One dead and three injured after a Russian drone crashed into cars in Bucha, Kyiv region
-- 09/27 19:28 [financialjuice] South Korea military, UN command open probe into DMZ blast: Korean military
-- 09/27 19:32 [financialjuice] Iran's Revolutionary Guards navy: captures US autonomous underwater vehicle in Strait of Hormuz - state media
-- 09/27 19:34 [FirstSquawk] Iranian Revolutionary Guard: Seizure of an advanced American REMUS 600-class unmanned underwater vehicle in the Strait of Hormuz
-- 09/27 19:34 [FirstSquawk] Kremlin: Relations between Russia and the United States are not at their best
 - 09/27 19:44 [financialjuice] Yemen's Houthi-run health ministry: 7 killed, 40 wounded in market strike in Taiz - Saba News Agency
 - 09/27 20:24 [FirstSquawk] Israeli airstrike on the town of Khiam in the Marjeyoun district of southern Lebanon
 - 09/27 20:24 [FirstSquawk] Israeli airstrike on the outskirts of Haris town in Bint Jbeil district, southern Lebanon
@@ -369,3 +364,8 @@
 - 09/28 19:15 [FirstSquawk] US CRUDE FUTURES JUMPED MORE THAN 4%, REACHING A SESSION PEAK OF $96.44 PER BARREL DUE TO HALTED PEACE TALKS BETWEEN THE U.S. AND IRAN.
 - 09/28 19:15 [FirstSquawk] RAMSDEN ANNOUNCED THAT THE BANK OF ENGLAND WILL BEGIN SELLING GILTS WITH MATURITIES RANGING FROM 2033 TO 2049.
 - 09/28 19:15 [financialjuice] BoE's Ramsden: BoE sales to start with longest maturity 2035-49 gilts
+- 09/28 19:21 [DeItaone] $6.52 DIESEL SQUEEZES U.S. FISHING FLEETS U.S. diesel prices have climbed to $6.529 per gallon, marking an 11th consecutive weekly increase and hammering fishing-industry margins. Fishermen from Cape Cod to Alabama are cutting activity as f…
+- 09/28 19:25 [FirstSquawk] EU COMMISSION SPOKESPERSON: COMMISSION PLANS TO PROPOSE A POSTPONEMENT OF THE ENTRY INTO FORCE OF THE METHANE REGULATION
+- 09/28 19:29 [financialjuice] EU Commission spokesperson: Commission plans to propose a postponement of the entry into force of the methane regulation, we are now working on this at a technical level
+- 09/28 19:34 [DeItaone] LOUD EXPLOSION WAS HEARD IN CENTRAL KYIV, REUTERS WITNESSES SAY
+- 09/28 19:35 [FirstSquawk] LOUD EXPLOSION HEARD IN CENTRAL KYIV

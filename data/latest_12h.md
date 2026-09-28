@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-28 19:19 JST／対象: 09/28 07:19 〜 09/28 19:19 JST（時刻はすべて日本時間）
+生成: 2026-09-28 19:36 JST／対象: 09/28 07:36 〜 09/28 19:36 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 9 | 09/28 16:28 | 09/28 19:13 | ⚠ 50分（17:23→18:13） |
-| FirstSquawk | 144 | 09/28 08:02 | 09/28 19:15 | ⚠ 78分（08:02→09:21） |
-| financialjuice | 87 | 09/28 08:51 | 09/28 19:15 | ⚠ 115分（11:30→13:26） |
+| DeItaone | 11 | 09/28 16:28 | 09/28 19:34 | ⚠ 50分（17:23→18:13） |
+| FirstSquawk | 146 | 09/28 08:02 | 09/28 19:35 | ⚠ 78分（08:02→09:21） |
+| financialjuice | 88 | 09/28 08:51 | 09/28 19:29 | ⚠ 115分（11:30→13:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 240 行（統合前 240 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 245 行（統合前 245 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -264,3 +264,8 @@
 - 09/28 19:15 [FirstSquawk] US CRUDE FUTURES JUMPED MORE THAN 4%, REACHING A SESSION PEAK OF $96.44 PER BARREL DUE TO HALTED PEACE TALKS BETWEEN THE U.S. AND IRAN.
 - 09/28 19:15 [FirstSquawk] RAMSDEN ANNOUNCED THAT THE BANK OF ENGLAND WILL BEGIN SELLING GILTS WITH MATURITIES RANGING FROM 2033 TO 2049.
 - 09/28 19:15 [financialjuice] BoE's Ramsden: BoE sales to start with longest maturity 2035-49 gilts
+- 09/28 19:21 [DeItaone] $6.52 DIESEL SQUEEZES U.S. FISHING FLEETS U.S. diesel prices have climbed to $6.529 per gallon, marking an 11th consecutive weekly increase and hammering fishing-industry margins. Fishermen from Cape Cod to Alabama are cutting activity as f…
+- 09/28 19:25 [FirstSquawk] EU COMMISSION SPOKESPERSON: COMMISSION PLANS TO PROPOSE A POSTPONEMENT OF THE ENTRY INTO FORCE OF THE METHANE REGULATION
+- 09/28 19:29 [financialjuice] EU Commission spokesperson: Commission plans to propose a postponement of the entry into force of the methane regulation, we are now working on this at a technical level
+- 09/28 19:34 [DeItaone] LOUD EXPLOSION WAS HEARD IN CENTRAL KYIV, REUTERS WITNESSES SAY
+- 09/28 19:35 [FirstSquawk] LOUD EXPLOSION HEARD IN CENTRAL KYIV

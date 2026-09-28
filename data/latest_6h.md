@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-28 19:19 JST／対象: 09/28 13:19 〜 09/28 19:19 JST（時刻はすべて日本時間）
+生成: 2026-09-28 19:36 JST／対象: 09/28 13:36 〜 09/28 19:36 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 9 | 09/28 16:28 | 09/28 19:13 | ⚠ 50分（17:23→18:13） |
-| FirstSquawk | 79 | 09/28 13:23 | 09/28 19:15 | 27分（16:10→16:38） |
-| financialjuice | 34 | 09/28 13:26 | 09/28 19:15 | ⚠ 59分（14:00→15:00） |
+| DeItaone | 11 | 09/28 16:28 | 09/28 19:34 | ⚠ 50分（17:23→18:13） |
+| FirstSquawk | 79 | 09/28 13:42 | 09/28 19:35 | 27分（16:10→16:38） |
+| financialjuice | 34 | 09/28 14:00 | 09/28 19:29 | ⚠ 59分（14:00→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 122 行（統合前 122 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 124 行（統合前 124 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 13:23 [FirstSquawk] US and China strike $60 billion low-tariff deal spanning foie gras to camels
-- 09/28 13:24 [FirstSquawk] UK biodiesel industry criticises move to reject tariffs on cheaper US imports
-- 09/28 13:26 [financialjuice] Saudi foreign minister arrives in Washington to meet U.S. counterpart: Saudi state news agency
 - 09/28 13:42 [FirstSquawk] ASIAN CURRENCIES WEAKEN AMID ONGOING GEOPOLITICAL TENSIONS-WSJ
 - 09/28 13:45 [FirstSquawk] NORTHERN STAR REJECTS $27 BILLION TAKEOVER PROPOSAL FROM GOLD FIELDS-WSJ
 - 09/28 13:49 [FirstSquawk] JGB YIELDS RISE AMID CONCERNS ABOUT IRAN CONFLICT, INFLATION-WSJ
@@ -146,3 +143,8 @@
 - 09/28 19:15 [FirstSquawk] US CRUDE FUTURES JUMPED MORE THAN 4%, REACHING A SESSION PEAK OF $96.44 PER BARREL DUE TO HALTED PEACE TALKS BETWEEN THE U.S. AND IRAN.
 - 09/28 19:15 [FirstSquawk] RAMSDEN ANNOUNCED THAT THE BANK OF ENGLAND WILL BEGIN SELLING GILTS WITH MATURITIES RANGING FROM 2033 TO 2049.
 - 09/28 19:15 [financialjuice] BoE's Ramsden: BoE sales to start with longest maturity 2035-49 gilts
+- 09/28 19:21 [DeItaone] $6.52 DIESEL SQUEEZES U.S. FISHING FLEETS U.S. diesel prices have climbed to $6.529 per gallon, marking an 11th consecutive weekly increase and hammering fishing-industry margins. Fishermen from Cape Cod to Alabama are cutting activity as f…
+- 09/28 19:25 [FirstSquawk] EU COMMISSION SPOKESPERSON: COMMISSION PLANS TO PROPOSE A POSTPONEMENT OF THE ENTRY INTO FORCE OF THE METHANE REGULATION
+- 09/28 19:29 [financialjuice] EU Commission spokesperson: Commission plans to propose a postponement of the entry into force of the methane regulation, we are now working on this at a technical level
+- 09/28 19:34 [DeItaone] LOUD EXPLOSION WAS HEARD IN CENTRAL KYIV, REUTERS WITNESSES SAY
+- 09/28 19:35 [FirstSquawk] LOUD EXPLOSION HEARD IN CENTRAL KYIV
