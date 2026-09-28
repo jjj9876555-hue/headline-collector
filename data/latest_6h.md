@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-28 17:39 JST／対象: 09/28 11:39 〜 09/28 17:39 JST（時刻はすべて日本時間）
+生成: 2026-09-28 17:55 JST／対象: 09/28 11:55 〜 09/28 17:55 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/28 16:28 | 09/28 17:23 | 34分（16:48→17:23） |
-| FirstSquawk | 62 | 09/28 11:49 | 09/28 17:38 | 27分（16:10→16:38） |
+| FirstSquawk | 62 | 09/28 12:07 | 09/28 17:54 | 27分（16:10→16:38） |
 | financialjuice | 17 | 09/28 13:26 | 09/28 17:39 | ⚠ 59分（14:00→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,11 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 11:49 [FirstSquawk] Tropical storm watch issued for southwestern Mexico coast, NHC says
-- 09/28 11:50 [FirstSquawk] South Korea’s plan to provide airline meals to deportees sparks disagreement among officials - SCMP
-- 09/28 11:51 [FirstSquawk] Chinese wealthy buyers turn to Italy for property, attracted by lifestyle and tax benefits - SCMP
-- 09/28 11:54 [FirstSquawk] Gold spot price extends decline, last down 2% at $4,201.18/oz
-- 09/28 11:54 [FirstSquawk] Palladium spot price drops 3% to $1,229.42/oz
 - 09/28 12:07 [FirstSquawk] Northern Star declines Gold Fields’ $27 billion takeover offer - WSJ
 - 09/28 12:08 [FirstSquawk] Australia’s Ingenia receives improved $1.5 billion offer from Warburg Pincus - WSJ
 - 09/28 12:21 [FirstSquawk] South Korean regulator plans 14.8 billion won in fines for barbecue chain operator
@@ -106,3 +101,8 @@
 - 09/28 17:38 [FirstSquawk] UK DEFENSE SECRETARY WES STREETING LIVE POLICE PROBE INTO FAIRFORD SITUATION
 - 09/28 17:38 [financialjuice] EU extends mandates of Rafah crossing point and police missions in Palestinian authorities until June 30, 2027
 - 09/28 17:39 [financialjuice] China's Sinograin sells 191,699 metric tons of imported soybeans Monday, 37.3% of total volume: Mysteel
+- 09/28 17:40 [FirstSquawk] IRAN'S DELEGATION IN NEW YORK HAS NO PLANS TO NEGOTIATE WITH THE UNITED STATES - IRNA
+- 09/28 17:42 [FirstSquawk] CORRECTION: STREETING SAYS WON T LINK IRAN CONFLICT, FAIRFORD INCIDENT
+- 09/28 17:42 [FirstSquawk] STREETING SAYS 'MORE TO COME’ ON DEFENCE SPENDING AT BUDGET
+- 09/28 17:43 [FirstSquawk] CHINA IMPOSES TRAVEL RESTRICTIONS ON IMMEDIATE FAMILY OF LEADING AI EXPERTS.
+- 09/28 17:54 [FirstSquawk] NHC: LIFE-THREATENING WINDS AND FLASH FLOODS EXPECTED OVER PORTIONS OF BAJA CALIFORNIA SUR AND SONORA TODAY AND TUESDAY, CONDITIONS EXPECTED TO BEGIN DETERIORATING THIS MORNING IN BAJA CALIFORNIA SUR

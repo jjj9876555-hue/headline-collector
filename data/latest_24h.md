@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-28 17:39 JST／対象: 09/27 17:39 〜 09/28 17:39 JST（時刻はすべて日本時間）
+生成: 2026-09-28 17:55 JST／対象: 09/27 17:55 〜 09/28 17:55 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/28 00:04 | 09/28 17:23 | ⚠ 562分（07:06→16:28） |
-| FirstSquawk | 207 | 09/27 18:07 | 09/28 17:38 | ⚠ 78分（08:02→09:21） |
-| financialjuice | 108 | 09/27 17:39 | 09/28 17:39 | ⚠ 145分（00:29→02:54） |
+| FirstSquawk | 212 | 09/27 18:07 | 09/28 17:54 | ⚠ 78分（08:02→09:21） |
+| financialjuice | 106 | 09/27 18:08 | 09/28 17:39 | ⚠ 145分（00:29→02:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 312 行（統合前 324 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 315 行（統合前 327 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 17:39 [financialjuice] Iran's army spokesperson: US may initiate fresh strike due to 'its poor regional situation' - state media
-- 09/27 17:40 [financialjuice] Iran army spokesman: Tehran ready for clash, will cause greater damage to US - state media
 - 09/27 18:07 [FirstSquawk] US touts coal purchases, progress on trade vehicle, following Xi visit
 - 09/27 18:07 [FirstSquawk] After four years in opposition, Sweden’s former PM Magdalena Andersson is about to retake power. She aims to use it to fortify Europe’s place in an unstable world.
 - 09/27 18:08 [FirstSquawk] Australia Treasurer says new figures to be published on Monday will show the nation’s deficit for last financial year was “billions of dollars” smaller than forecast at the budget in May
@@ -336,3 +334,8 @@
 - 09/28 17:38 [FirstSquawk] UK DEFENSE SECRETARY WES STREETING LIVE POLICE PROBE INTO FAIRFORD SITUATION
 - 09/28 17:38 [financialjuice] EU extends mandates of Rafah crossing point and police missions in Palestinian authorities until June 30, 2027
 - 09/28 17:39 [financialjuice] China's Sinograin sells 191,699 metric tons of imported soybeans Monday, 37.3% of total volume: Mysteel
+- 09/28 17:40 [FirstSquawk] IRAN'S DELEGATION IN NEW YORK HAS NO PLANS TO NEGOTIATE WITH THE UNITED STATES - IRNA
+- 09/28 17:42 [FirstSquawk] CORRECTION: STREETING SAYS WON T LINK IRAN CONFLICT, FAIRFORD INCIDENT
+- 09/28 17:42 [FirstSquawk] STREETING SAYS 'MORE TO COME’ ON DEFENCE SPENDING AT BUDGET
+- 09/28 17:43 [FirstSquawk] CHINA IMPOSES TRAVEL RESTRICTIONS ON IMMEDIATE FAMILY OF LEADING AI EXPERTS.
+- 09/28 17:54 [FirstSquawk] NHC: LIFE-THREATENING WINDS AND FLASH FLOODS EXPECTED OVER PORTIONS OF BAJA CALIFORNIA SUR AND SONORA TODAY AND TUESDAY, CONDITIONS EXPECTED TO BEGIN DETERIORATING THIS MORNING IN BAJA CALIFORNIA SUR

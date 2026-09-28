@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-28 17:39 JST／対象: 09/28 05:39 〜 09/28 17:39 JST（時刻はすべて日本時間）
+生成: 2026-09-28 17:55 JST／対象: 09/28 05:55 〜 09/28 17:55 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/28 06:12 | 09/28 17:23 | ⚠ 562分（07:06→16:28） |
-| FirstSquawk | 119 | 09/28 05:57 | 09/28 17:38 | ⚠ 78分（08:02→09:21） |
+| FirstSquawk | 124 | 09/28 05:57 | 09/28 17:54 | ⚠ 78分（08:02→09:21） |
 | financialjuice | 71 | 09/28 07:11 | 09/28 17:39 | ⚠ 115分（11:30→13:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 197 行（統合前 197 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 202 行（統合前 202 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -221,3 +221,8 @@
 - 09/28 17:38 [FirstSquawk] UK DEFENSE SECRETARY WES STREETING LIVE POLICE PROBE INTO FAIRFORD SITUATION
 - 09/28 17:38 [financialjuice] EU extends mandates of Rafah crossing point and police missions in Palestinian authorities until June 30, 2027
 - 09/28 17:39 [financialjuice] China's Sinograin sells 191,699 metric tons of imported soybeans Monday, 37.3% of total volume: Mysteel
+- 09/28 17:40 [FirstSquawk] IRAN'S DELEGATION IN NEW YORK HAS NO PLANS TO NEGOTIATE WITH THE UNITED STATES - IRNA
+- 09/28 17:42 [FirstSquawk] CORRECTION: STREETING SAYS WON T LINK IRAN CONFLICT, FAIRFORD INCIDENT
+- 09/28 17:42 [FirstSquawk] STREETING SAYS 'MORE TO COME’ ON DEFENCE SPENDING AT BUDGET
+- 09/28 17:43 [FirstSquawk] CHINA IMPOSES TRAVEL RESTRICTIONS ON IMMEDIATE FAMILY OF LEADING AI EXPERTS.
+- 09/28 17:54 [FirstSquawk] NHC: LIFE-THREATENING WINDS AND FLASH FLOODS EXPECTED OVER PORTIONS OF BAJA CALIFORNIA SUR AND SONORA TODAY AND TUESDAY, CONDITIONS EXPECTED TO BEGIN DETERIORATING THIS MORNING IN BAJA CALIFORNIA SUR
