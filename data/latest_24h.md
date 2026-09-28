@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-29 06:34 JST／対象: 09/28 06:34 〜 09/29 06:34 JST（時刻はすべて日本時間）
+生成: 2026-09-29 06:52 JST／対象: 09/28 06:52 〜 09/29 06:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 39 | 09/28 07:06 | 09/29 02:14 | ⚠ 562分（07:06→16:28） |
 | FirstSquawk | 294 | 09/28 07:06 | 09/29 05:29 | ⚠ 78分（08:02→09:21） |
-| financialjuice | 273 | 09/28 07:11 | 09/29 06:11 | ⚠ 115分（11:30→13:26） |
+| financialjuice | 277 | 09/28 07:11 | 09/29 06:37 | ⚠ 115分（11:30→13:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 591 行（統合前 610 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 595 行（統合前 614 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -615,3 +615,7 @@
 - 09/29 05:48 [financialjuice] Libyan, Moroccan and Qatari military and government aircraft landed in Abu Dhabi during Israeli Prime Minister Netanyahu's visit - Israel's Kan News.
 - 09/29 05:55 [financialjuice] Anthropic collaborates with Nvidia on agent security $NVDA
 - 09/29 06:11 [financialjuice] North Korea: US approval for South Korea's nuclear submarine heightens regional instability - KCNA
+- 09/29 06:35 [financialjuice] Trump: He did not provide sanctions relief to Iran
+- 09/29 06:36 [financialjuice] Syria: Gas pipeline fire between Al-Shola and Deir al-Zour caused by sabotage - state news agency
+- 09/29 06:36 [financialjuice] Syrian Petroleum Company: efforts underway to extinguish fire - Syrian state news agency
+- 09/29 06:37 [financialjuice] Syria’s state petroleum company: Fire stopped gas supply from Jbeissa plant to power stations – Syrian state news agency

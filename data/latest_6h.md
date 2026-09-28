@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-29 06:34 JST／対象: 09/29 00:34 〜 09/29 06:34 JST（時刻はすべて日本時間）
+生成: 2026-09-29 06:52 JST／対象: 09/29 00:52 〜 09/29 06:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 12 | 09/29 00:35 | 09/29 02:14 | ⚠ 54分（00:44→01:39） |
-| FirstSquawk | 73 | 09/29 00:35 | 09/29 05:29 | 31分（02:57→03:29） |
-| financialjuice | 94 | 09/29 00:34 | 09/29 06:11 | 23分（03:04→03:28） |
+| DeItaone | 10 | 09/29 01:39 | 09/29 02:14 | 20分（01:54→02:14） |
+| FirstSquawk | 68 | 09/29 00:53 | 09/29 05:29 | 31分（02:57→03:29） |
+| financialjuice | 94 | 09/29 00:56 | 09/29 06:37 | 23分（06:11→06:35） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 170 行（統合前 181 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 165 行（統合前 174 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 00:34 [financialjuice/FirstSquawk] TotalEnergies CEO: There was a big debate whether we should declare force majeure on LNG
-- 09/29 00:35 [FirstSquawk/DeItaone] STOCKS OF CRUDE OIL IN US STRATEGIC PETROLEUM RESERVE FELL TO 283.8 MLN BARRELS LAST WEEK, LOWEST SINCE 1982
-- 09/29 00:37 [financialjuice] Nvidia, OpenAI invited to Trump-Johnson meeting - Semafor. $NVDA
-- 09/29 00:38 [financialjuice] White House Official: Trump and Anthropic's Amodei met last night.
-- 09/29 00:39 [FirstSquawk] NVIDIA, OPENAI INVITED TO TRUMP-JOHNSON MEETING: SEMAFOR
-- 09/29 00:39 [financialjuice] US 3-Month Bill Auction High Yield 4.11% Bid-to-Cover 2.99 Sells $95 bln Awards 61.14% of bids at high US 6-Month Bill Auction High Yield 4.285% Bid-to-Cover 2.64 Sells 82 bln Awards 37.89% of bids at high
-- 09/29 00:39 [FirstSquawk] TRUMP, HOUSE SPEAKER JOHNSON & AI CEOS TO MEET TUESDAY AT WHITE HOUSE - SEMAFOR
-- 09/29 00:40 [FirstSquawk] WH OFFICIAL: TRUMP, ANTHROPISM’S AMODEI MET LAST NIGHT
-- 09/29 00:44 [DeItaone] GOLDMAN WARNS JUNK BOND SUPPLY IS OVERWHELMING INVESTORS Goldman Sachs says a flood of U.S. high-yield debt issuance is straining investor demand, pushing junk-bond spreads to their widest since April. September issuance has reached $38.5 b…
 - 09/29 00:53 [FirstSquawk] CITIGROUP CEO FRASER SAYS BANK TRACKS AGENTS CONSTANTLY
 - 09/29 00:56 [FirstSquawk] KKR AND RWE SAID TO JOINTLY BID FOR GERMAN STATE-OWNED UNIPER
 - 09/29 00:56 [financialjuice] Lebanese Prime Minister: Rubio confirmed America's commitment to supporting the Lebanese army - Al Arabiya
@@ -194,3 +185,7 @@
 - 09/29 05:48 [financialjuice] Libyan, Moroccan and Qatari military and government aircraft landed in Abu Dhabi during Israeli Prime Minister Netanyahu's visit - Israel's Kan News.
 - 09/29 05:55 [financialjuice] Anthropic collaborates with Nvidia on agent security $NVDA
 - 09/29 06:11 [financialjuice] North Korea: US approval for South Korea's nuclear submarine heightens regional instability - KCNA
+- 09/29 06:35 [financialjuice] Trump: He did not provide sanctions relief to Iran
+- 09/29 06:36 [financialjuice] Syria: Gas pipeline fire between Al-Shola and Deir al-Zour caused by sabotage - state news agency
+- 09/29 06:36 [financialjuice] Syrian Petroleum Company: efforts underway to extinguish fire - Syrian state news agency
+- 09/29 06:37 [financialjuice] Syria’s state petroleum company: Fire stopped gas supply from Jbeissa plant to power stations – Syrian state news agency

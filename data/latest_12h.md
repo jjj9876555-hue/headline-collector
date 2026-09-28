@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-29 06:34 JST／対象: 09/28 18:34 〜 09/29 06:34 JST（時刻はすべて日本時間）
+生成: 2026-09-29 06:52 JST／対象: 09/28 18:52 〜 09/29 06:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 33 | 09/28 18:43 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 166 | 09/28 18:44 | 09/29 05:29 | 31分（02:57→03:29） |
-| financialjuice | 199 | 09/28 19:01 | 09/29 06:11 | 23分（03:04→03:28） |
+| DeItaone | 32 | 09/28 19:06 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
+| FirstSquawk | 165 | 09/28 18:55 | 09/29 05:29 | 31分（02:57→03:29） |
+| financialjuice | 203 | 09/28 19:01 | 09/29 06:37 | 23分（06:11→06:35） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 383 行（統合前 402 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 385 行（統合前 404 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 18:43 [DeItaone] https://t.co/nx9ngNPg2L
-- 09/28 18:44 [FirstSquawk] UK FOREIGN SECRETARY MILIBAND: THE WORLD ORDER NEEDS REBUILDING
 - 09/28 18:55 [FirstSquawk] MILIBAND STATES THAT THEY WILL KEEP ISOLATING IRAN UNTIL THE STRAIT OF HORMUZ IS REOPENED.
 - 09/28 18:55 [FirstSquawk] MILIBAND SAYS IGNORING CLIMATE ISSUES MAKES THE COUNTRY DANGEROUS.
 - 09/28 18:55 [FirstSquawk] MILIBAND SAYS CORPORATIONS SHOULD NOT BE LEFT WITH ALL THE GUARDRAILS.
@@ -407,3 +405,7 @@
 - 09/29 05:48 [financialjuice] Libyan, Moroccan and Qatari military and government aircraft landed in Abu Dhabi during Israeli Prime Minister Netanyahu's visit - Israel's Kan News.
 - 09/29 05:55 [financialjuice] Anthropic collaborates with Nvidia on agent security $NVDA
 - 09/29 06:11 [financialjuice] North Korea: US approval for South Korea's nuclear submarine heightens regional instability - KCNA
+- 09/29 06:35 [financialjuice] Trump: He did not provide sanctions relief to Iran
+- 09/29 06:36 [financialjuice] Syria: Gas pipeline fire between Al-Shola and Deir al-Zour caused by sabotage - state news agency
+- 09/29 06:36 [financialjuice] Syrian Petroleum Company: efforts underway to extinguish fire - Syrian state news agency
+- 09/29 06:37 [financialjuice] Syria’s state petroleum company: Fire stopped gas supply from Jbeissa plant to power stations – Syrian state news agency
