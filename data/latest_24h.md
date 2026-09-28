@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-28 13:54 JST／対象: 09/27 13:54 〜 09/28 13:54 JST（時刻はすべて日本時間）
+生成: 2026-09-28 14:18 JST／対象: 09/27 14:18 〜 09/28 14:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 09/28 00:04 | 09/28 07:06 | ⚠ 368分（00:04→06:12） |
-| FirstSquawk | 193 | 09/27 14:04 | 09/28 13:53 | ⚠ 78分（08:02→09:21） |
-| financialjuice | 94 | 09/27 16:30 | 09/28 13:26 | ⚠ 145分（00:29→02:54） |
+| FirstSquawk | 200 | 09/27 14:19 | 09/28 14:18 | ⚠ 78分（08:02→09:21） |
+| financialjuice | 96 | 09/27 16:30 | 09/28 14:00 | ⚠ 145分（00:29→02:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 281 行（統合前 293 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 290 行（統合前 302 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 14:04 [FirstSquawk] South Korea doubles down on its push for AI adoption across society - FT
-- 09/27 14:10 [FirstSquawk] Kurdish leader criticizes U.S. pullout from Iraq as ‘shameful’ — FT
-- 09/27 14:14 [FirstSquawk] Armani to launch talks with LVMH and L’Oréal on potential stake sale — FT
 - 09/27 14:19 [FirstSquawk] Lack of AI openness risks undermining investment in Europe, major companies warn — FT
 - 09/27 14:26 [FirstSquawk] Chinese waste worker scouted for modelling due to striking appearance, chooses not to go full-time - SCMP
 - 09/27 14:27 [FirstSquawk] Nearly 13 million barrels of oil transit Strait of Hormuz each day, U.S. Energy Secretary tells Fox News
@@ -305,3 +302,15 @@
 - 09/28 13:49 [FirstSquawk] JGB YIELDS RISE AMID CONCERNS ABOUT IRAN CONFLICT, INFLATION-WSJ
 - 09/28 13:53 [FirstSquawk] OIL RISES ON GEOPOLITICAL RISKS, STOCKPILE DECLINE-WSJ
 - 09/28 13:53 [FirstSquawk] GOLD FALLS ON EXPECTATIONS OF HIGHER FOR LONGER FED RATES-WSJ
+- 09/28 13:56 [FirstSquawk] Gold prices slide on expectations of prolonged higher Fed rates-wsj
+- 09/28 13:58 [FirstSquawk] Asian currencies come under pressure as geopolitical tensions continue-wsj
+- 09/28 14:00 [financialjuice] Finnish September industry confidence falls 3 points
+- 09/28 14:00 [financialjuice] Finnish September consumer confidence falls 4.9 points: Statistics Finland
+- 09/28 14:01 [FirstSquawk] JGB yields advance as investors assess Iran conflict risks and persistent inflation-wsj
+- 09/28 14:03 [FirstSquawk] Oil gains as geopolitical risks grow and stockpiles shrink-wsj
+- 09/28 14:11 [FirstSquawk] Silver prices slide toward $62 amid rising expectations of Fed rate hikes-fx
+- 09/28 14:12 [FirstSquawk] Jefferies raises Barratt Redrow target price to 323p from 303p
+- 09/28 14:14 [FirstSquawk] Jefferies cuts Berkeley Group target price to 4,301p from 4,517p
+- 09/28 14:16 [FirstSquawk] TD Cowen raises BP target price to 565p from 504p
+- 09/28 14:17 [FirstSquawk] HSBC lowers Burberry price target to 1,180p from 1,200p
+- 09/28 14:18 [FirstSquawk] TD Cowen raises Equinor target price to NOK 395 from NOK 366

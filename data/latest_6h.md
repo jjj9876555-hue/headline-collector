@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-28 13:54 JST／対象: 09/28 07:54 〜 09/28 13:54 JST（時刻はすべて日本時間）
+生成: 2026-09-28 14:18 JST／対象: 09/28 08:18 〜 09/28 14:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 72 | 09/28 08:02 | 09/28 13:53 | ⚠ 78分（08:02→09:21） |
-| financialjuice | 54 | 09/28 08:51 | 09/28 13:26 | ⚠ 115分（11:30→13:26） |
+| FirstSquawk | 80 | 09/28 09:21 | 09/28 14:18 | 23分（11:26→11:49） |
+| financialjuice | 56 | 09/28 08:51 | 09/28 14:00 | ⚠ 115分（11:30→13:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 126 行（統合前 126 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 136 行（統合前 136 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 08:02 [FirstSquawk] U.K. BUSINESS SECRETARY JONATHAN REYNOLDS SAYS A FULL U.S. DIESEL EXPORT BAN WOULD BE A “SIGNIFICANT CONCERN” FOR BRITAIN, WHICH SOURCES ABOUT ONE-SIXTH OF ITS DIESEL FROM THE U.S., THOUGH HE STRESSED THE U.K. HAS A DIVERSE FUEL SUPPLY.
-- 09/28 08:02 [FirstSquawk] THE U.S. IS CONSIDERING A 90-DAY DIESEL EXPORT BAN OR MORE LIMITED VOLUNTARY RESTRICTIONS AMID HIGH DOMESTIC FUEL PRICES, WHILE FRENCH PRESIDENT EMMANUEL MACRON HAS ALSO WARNED TRUMP AGAINST SUCH MEASURES.
 - 09/28 08:51 [financialjuice] BOJ july meeting minutes: members agreed financial conditions remain accommodative
 - 09/28 08:52 [financialjuice] JAPANESE SERVICE PPI ACTUAL 3.7% (FORECAST 3.6%, PREVIOUS 3.6%) $MACRO
 - 09/28 08:52 [financialjuice] BOJ minutes: some members note consumer prices rising, reflecting increased import costs
@@ -150,3 +148,15 @@
 - 09/28 13:49 [FirstSquawk] JGB YIELDS RISE AMID CONCERNS ABOUT IRAN CONFLICT, INFLATION-WSJ
 - 09/28 13:53 [FirstSquawk] OIL RISES ON GEOPOLITICAL RISKS, STOCKPILE DECLINE-WSJ
 - 09/28 13:53 [FirstSquawk] GOLD FALLS ON EXPECTATIONS OF HIGHER FOR LONGER FED RATES-WSJ
+- 09/28 13:56 [FirstSquawk] Gold prices slide on expectations of prolonged higher Fed rates-wsj
+- 09/28 13:58 [FirstSquawk] Asian currencies come under pressure as geopolitical tensions continue-wsj
+- 09/28 14:00 [financialjuice] Finnish September industry confidence falls 3 points
+- 09/28 14:00 [financialjuice] Finnish September consumer confidence falls 4.9 points: Statistics Finland
+- 09/28 14:01 [FirstSquawk] JGB yields advance as investors assess Iran conflict risks and persistent inflation-wsj
+- 09/28 14:03 [FirstSquawk] Oil gains as geopolitical risks grow and stockpiles shrink-wsj
+- 09/28 14:11 [FirstSquawk] Silver prices slide toward $62 amid rising expectations of Fed rate hikes-fx
+- 09/28 14:12 [FirstSquawk] Jefferies raises Barratt Redrow target price to 323p from 303p
+- 09/28 14:14 [FirstSquawk] Jefferies cuts Berkeley Group target price to 4,301p from 4,517p
+- 09/28 14:16 [FirstSquawk] TD Cowen raises BP target price to 565p from 504p
+- 09/28 14:17 [FirstSquawk] HSBC lowers Burberry price target to 1,180p from 1,200p
+- 09/28 14:18 [FirstSquawk] TD Cowen raises Equinor target price to NOK 395 from NOK 366
