@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-28 10:02 JST／対象: 09/27 22:02 〜 09/28 10:02 JST（時刻はすべて日本時間）
+生成: 2026-09-28 10:20 JST／対象: 09/27 22:20 〜 09/28 10:20 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 09/28 00:04 | 09/28 07:06 | ⚠ 368分（00:04→06:12） |
-| FirstSquawk | 81 | 09/27 22:32 | 09/28 10:01 | ⚠ 78分（08:02→09:21） |
-| financialjuice | 53 | 09/27 23:08 | 09/28 09:30 | ⚠ 145分（00:29→02:54） |
+| FirstSquawk | 94 | 09/27 22:32 | 09/28 10:15 | ⚠ 78分（08:02→09:21） |
+| financialjuice | 66 | 09/27 23:08 | 09/28 10:18 | ⚠ 145分（00:29→02:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 134 行（統合前 140 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 160 行（統合前 166 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -158,3 +158,29 @@
 - 09/28 09:58 [FirstSquawk] Darwin Port lease sparks fresh tensions between Australia and China - KYODO
 - 09/28 10:01 [FirstSquawk] POLITICO - Trump administration airs campaign-style Trump ad as taxpayer-funded messaging expands
 - 09/28 10:01 [FirstSquawk] 2-year Japanese government bond yield hits 1.955%, highest since April 1995
+- 09/28 10:06 [financialjuice] China commerce ministry: importing US coal complements domestic market, offers stable economic returns and jobs for US industry
+- 09/28 10:06 [FirstSquawk] China Commerce Ministry says U.S. coal imports benefit domestic market and American coal industry
+- 09/28 10:06 [financialjuice] China commerce ministry: We look forward to expanding China-US collaboration in coal sector
+- 09/28 10:07 [financialjuice] China commerce ministry: China and US agree to form agricultural working group
+- 09/28 10:07 [FirstSquawk] China Commerce Ministry calls for deeper China-U.S. cooperation in coal sector
+- 09/28 10:07 [financialjuice] China commerce ministry: both parties agree to hold first agriculture working group meeting before end of 2026
+- 09/28 10:07 [financialjuice] China commerce ministry: China will review and approve applications from financial service institutions worldwide, including those with US capital, to operate and open branches
+- 09/28 10:08 [financialjuice] China commerce ministry: China expects US to offer fair, transparent, and stable policy environment for Chinese financial institutions
+- 09/28 10:08 [financialjuice] China commerce ministry: China, US agree to set up communication channel for AI incidents
+- 09/28 10:08 [FirstSquawk] China, U.S. to establish working group on agriculture, Commerce Ministry says
+- 09/28 10:09 [FirstSquawk] China says first U.S.-China agriculture working group meeting will take place by end-2026
+- 09/28 10:09 [FirstSquawk] China says it will approve eligible foreign financial institutions to conduct business and open branches
+- 09/28 10:10 [financialjuice] China commerce ministry: both parties agreed to maintain dialogue on boosting China-US flights and related issues
+- 09/28 10:10 [financialjuice] China commerce ministry: trade ceasefire with US to be extended to January 2027
+- 09/28 10:10 [FirstSquawk] China hopes U.S. will offer stable and transparent policy environment for Chinese financial institutions
+- 09/28 10:11 [FirstSquawk] China and U.S. agree to set up communication channel for AI incidents
+- 09/28 10:11 [FirstSquawk] China, U.S. to continue talks on expanding flights and related matters
+- 09/28 10:11 [financialjuice] China commerce ministry: trade truce offers room for both sides to review and evaluate joint arrangement implementation and explore ways to boost China-US economic and trade relations
+- 09/28 10:11 [financialjuice] China commerce ministry: both sides likely to keep working on positive solution for continued extension via high-level economic and trade talks before year-end
+- 09/28 10:11 [FirstSquawk] China says trade truce with U.S. will remain in place through January 2027
+- 09/28 10:11 [financialjuice] China commerce ministry: both sides agree to keep talks on boosting China-US flights and related issues
+- 09/28 10:12 [FirstSquawk] China Commerce Ministry: Trade truce allows China, U.S. to review progress and consider next steps
+- 09/28 10:13 [FirstSquawk] China Commerce Ministry: Both sides will continue efforts to advance trade truce extension before year-end
+- 09/28 10:13 [FirstSquawk] China, U.S. to continue dialogue on expanding flights and related matters
+- 09/28 10:15 [FirstSquawk] China central bank sets yuan reference rate at 6.7399 per dollar
+- 09/28 10:18 [financialjuice] PBOC establishes yuan midpoint at strongest level since Feb. 3, 2023
