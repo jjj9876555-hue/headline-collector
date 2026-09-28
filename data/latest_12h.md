@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-28 17:21 JST／対象: 09/28 05:21 〜 09/28 17:21 JST（時刻はすべて日本時間）
+生成: 2026-09-28 17:39 JST／対象: 09/28 05:39 〜 09/28 17:39 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 6 | 09/28 06:12 | 09/28 16:48 | ⚠ 562分（07:06→16:28） |
-| FirstSquawk | 114 | 09/28 05:57 | 09/28 17:17 | ⚠ 78分（08:02→09:21） |
-| financialjuice | 68 | 09/28 07:11 | 09/28 17:10 | ⚠ 115分（11:30→13:26） |
+| DeItaone | 7 | 09/28 06:12 | 09/28 17:23 | ⚠ 562分（07:06→16:28） |
+| FirstSquawk | 119 | 09/28 05:57 | 09/28 17:38 | ⚠ 78分（08:02→09:21） |
+| financialjuice | 71 | 09/28 07:11 | 09/28 17:39 | ⚠ 115分（11:30→13:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 188 行（統合前 188 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 197 行（統合前 197 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -212,3 +212,12 @@
 - 09/28 17:05 [financialjuice] Anthropic won't appear at Australian Senate probe - Guardian
 - 09/28 17:10 [financialjuice] ITALIAN NON-EU FLASH TRADE BALANCE ACTUAL 2.00B (FORECAST -, PREVIOUS 2.55B) $MACRO
 - 09/28 17:17 [FirstSquawk] LIBYA'S SHARARA OIL FIELD IS PRODUCING MORE THAN 300,000 BARRELS PER DAY, SAYS NOC CHAIRMAN.
+- 09/28 17:22 [FirstSquawk] INDIA EXPLORING POSSIBILITY OF UAE AS KEY LNG, LPG SOURCE SAY GOYAL
+- 09/28 17:23 [DeItaone] OIL JUMPS 2% AS U.S.-IRAN TALKS STALL Brent surged 2.5% to $106.92, while WTI climbed 2.3% to $94.49 after President Trump rejected Iran’s proposal to end the conflict and reopen Hormuz. Further U.S.-Iran talks are expected this week, while…
+- 09/28 17:23 [FirstSquawk] INDIA WORKING WITH UAE TO EXPAND PETROLEUM RESERVES SAYS GOYAL
+- 09/28 17:25 [FirstSquawk] INDIA-UAE TRADE COMING BACK TO PRE-WAR LEVEL SAYS GOYAL
+- 09/28 17:29 [FirstSquawk] INDIA AND UAE TO WORK ON SHIP BUILDING, CONTAINER MANUFACTURING
+- 09/28 17:32 [financialjuice] UK transport minister: government to take over Avanti West Coast services from March 7, 2027
+- 09/28 17:38 [FirstSquawk] UK DEFENSE SECRETARY WES STREETING LIVE POLICE PROBE INTO FAIRFORD SITUATION
+- 09/28 17:38 [financialjuice] EU extends mandates of Rafah crossing point and police missions in Palestinian authorities until June 30, 2027
+- 09/28 17:39 [financialjuice] China's Sinograin sells 191,699 metric tons of imported soybeans Monday, 37.3% of total volume: Mysteel

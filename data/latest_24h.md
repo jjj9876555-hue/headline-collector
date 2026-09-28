@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-28 17:21 JST／対象: 09/27 17:21 〜 09/28 17:21 JST（時刻はすべて日本時間）
+生成: 2026-09-28 17:39 JST／対象: 09/27 17:39 〜 09/28 17:39 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 7 | 09/28 00:04 | 09/28 16:48 | ⚠ 562分（07:06→16:28） |
-| FirstSquawk | 204 | 09/27 17:29 | 09/28 17:17 | ⚠ 78分（08:02→09:21） |
-| financialjuice | 105 | 09/27 17:39 | 09/28 17:10 | ⚠ 145分（00:29→02:54） |
+| DeItaone | 8 | 09/28 00:04 | 09/28 17:23 | ⚠ 562分（07:06→16:28） |
+| FirstSquawk | 207 | 09/27 18:07 | 09/28 17:38 | ⚠ 78分（08:02→09:21） |
+| financialjuice | 108 | 09/27 17:39 | 09/28 17:39 | ⚠ 145分（00:29→02:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 305 行（統合前 317 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 312 行（統合前 324 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 17:29 [FirstSquawk] Iran’s war is not over, and the country must stay ready to deliver further heavy blows to the enemy, the army chief said on Sunday. “We won, but we must preserve this victory,” Amir Hatami said.
-- 09/27 17:29 [FirstSquawk] Zelensky: This past week, the Russians launched more than 2,200 attack drones against Ukraine, as well as around 1,650 aerial bombs and 38 missiles of various types, a significant number of them ballistic missiles.
 - 09/27 17:39 [financialjuice] Iran's army spokesperson: US may initiate fresh strike due to 'its poor regional situation' - state media
 - 09/27 17:40 [financialjuice] Iran army spokesman: Tehran ready for clash, will cause greater damage to US - state media
 - 09/27 18:07 [FirstSquawk] US touts coal purchases, progress on trade vehicle, following Xi visit
@@ -329,3 +327,12 @@
 - 09/28 17:05 [financialjuice] Anthropic won't appear at Australian Senate probe - Guardian
 - 09/28 17:10 [financialjuice] ITALIAN NON-EU FLASH TRADE BALANCE ACTUAL 2.00B (FORECAST -, PREVIOUS 2.55B) $MACRO
 - 09/28 17:17 [FirstSquawk] LIBYA'S SHARARA OIL FIELD IS PRODUCING MORE THAN 300,000 BARRELS PER DAY, SAYS NOC CHAIRMAN.
+- 09/28 17:22 [FirstSquawk] INDIA EXPLORING POSSIBILITY OF UAE AS KEY LNG, LPG SOURCE SAY GOYAL
+- 09/28 17:23 [DeItaone] OIL JUMPS 2% AS U.S.-IRAN TALKS STALL Brent surged 2.5% to $106.92, while WTI climbed 2.3% to $94.49 after President Trump rejected Iran’s proposal to end the conflict and reopen Hormuz. Further U.S.-Iran talks are expected this week, while…
+- 09/28 17:23 [FirstSquawk] INDIA WORKING WITH UAE TO EXPAND PETROLEUM RESERVES SAYS GOYAL
+- 09/28 17:25 [FirstSquawk] INDIA-UAE TRADE COMING BACK TO PRE-WAR LEVEL SAYS GOYAL
+- 09/28 17:29 [FirstSquawk] INDIA AND UAE TO WORK ON SHIP BUILDING, CONTAINER MANUFACTURING
+- 09/28 17:32 [financialjuice] UK transport minister: government to take over Avanti West Coast services from March 7, 2027
+- 09/28 17:38 [FirstSquawk] UK DEFENSE SECRETARY WES STREETING LIVE POLICE PROBE INTO FAIRFORD SITUATION
+- 09/28 17:38 [financialjuice] EU extends mandates of Rafah crossing point and police missions in Palestinian authorities until June 30, 2027
+- 09/28 17:39 [financialjuice] China's Sinograin sells 191,699 metric tons of imported soybeans Monday, 37.3% of total volume: Mysteel

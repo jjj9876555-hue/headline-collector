@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-28 17:21 JST／対象: 09/28 11:21 〜 09/28 17:21 JST（時刻はすべて日本時間）
+生成: 2026-09-28 17:39 JST／対象: 09/28 11:39 〜 09/28 17:39 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 2 | 09/28 16:28 | 09/28 16:48 | 19分（16:28→16:48） |
-| FirstSquawk | 59 | 09/28 11:25 | 09/28 17:17 | 27分（16:10→16:38） |
-| financialjuice | 16 | 09/28 11:30 | 09/28 17:10 | ⚠ 115分（11:30→13:26） |
+| DeItaone | 3 | 09/28 16:28 | 09/28 17:23 | 34分（16:48→17:23） |
+| FirstSquawk | 62 | 09/28 11:49 | 09/28 17:38 | 27分（16:10→16:38） |
+| financialjuice | 17 | 09/28 13:26 | 09/28 17:39 | ⚠ 59分（14:00→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 77 行（統合前 77 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 82 行（統合前 82 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 11:25 [FirstSquawk] US defense industry pushes to ramp up missile output after years of underinvestment - WSJ
-- 09/28 11:26 [FirstSquawk] Canadian dollar falls as wider US-Canada rate differential looms - FX
-- 09/28 11:30 [financialjuice] S.Korea finance minister: to pursue balanced policy mix with central bank — ministry
-- 09/28 11:30 [financialjuice] S.Korea finmin: to enhance collaboration with central bank on market oversight - ministry
 - 09/28 11:49 [FirstSquawk] Tropical storm watch issued for southwestern Mexico coast, NHC says
 - 09/28 11:50 [FirstSquawk] South Korea’s plan to provide airline meals to deportees sparks disagreement among officials - SCMP
 - 09/28 11:51 [FirstSquawk] Chinese wealthy buyers turn to Italy for property, attracted by lifestyle and tax benefits - SCMP
@@ -101,3 +97,12 @@
 - 09/28 17:05 [financialjuice] Anthropic won't appear at Australian Senate probe - Guardian
 - 09/28 17:10 [financialjuice] ITALIAN NON-EU FLASH TRADE BALANCE ACTUAL 2.00B (FORECAST -, PREVIOUS 2.55B) $MACRO
 - 09/28 17:17 [FirstSquawk] LIBYA'S SHARARA OIL FIELD IS PRODUCING MORE THAN 300,000 BARRELS PER DAY, SAYS NOC CHAIRMAN.
+- 09/28 17:22 [FirstSquawk] INDIA EXPLORING POSSIBILITY OF UAE AS KEY LNG, LPG SOURCE SAY GOYAL
+- 09/28 17:23 [DeItaone] OIL JUMPS 2% AS U.S.-IRAN TALKS STALL Brent surged 2.5% to $106.92, while WTI climbed 2.3% to $94.49 after President Trump rejected Iran’s proposal to end the conflict and reopen Hormuz. Further U.S.-Iran talks are expected this week, while…
+- 09/28 17:23 [FirstSquawk] INDIA WORKING WITH UAE TO EXPAND PETROLEUM RESERVES SAYS GOYAL
+- 09/28 17:25 [FirstSquawk] INDIA-UAE TRADE COMING BACK TO PRE-WAR LEVEL SAYS GOYAL
+- 09/28 17:29 [FirstSquawk] INDIA AND UAE TO WORK ON SHIP BUILDING, CONTAINER MANUFACTURING
+- 09/28 17:32 [financialjuice] UK transport minister: government to take over Avanti West Coast services from March 7, 2027
+- 09/28 17:38 [FirstSquawk] UK DEFENSE SECRETARY WES STREETING LIVE POLICE PROBE INTO FAIRFORD SITUATION
+- 09/28 17:38 [financialjuice] EU extends mandates of Rafah crossing point and police missions in Palestinian authorities until June 30, 2027
+- 09/28 17:39 [financialjuice] China's Sinograin sells 191,699 metric tons of imported soybeans Monday, 37.3% of total volume: Mysteel
