@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-28 16:20 JST／対象: 09/27 16:20 〜 09/28 16:20 JST（時刻はすべて日本時間）
+生成: 2026-09-28 16:37 JST／対象: 09/27 16:37 〜 09/28 16:37 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 5 | 09/28 00:04 | 09/28 07:06 | ⚠ 368分（00:04→06:12） |
-| FirstSquawk | 204 | 09/27 16:32 | 09/28 16:10 | ⚠ 78分（08:02→09:21） |
-| financialjuice | 100 | 09/27 16:30 | 09/28 16:02 | ⚠ 145分（00:29→02:54） |
+| DeItaone | 6 | 09/28 00:04 | 09/28 16:28 | ⚠ 562分（07:06→16:28） |
+| FirstSquawk | 200 | 09/27 17:03 | 09/28 16:10 | ⚠ 78分（08:02→09:21） |
+| financialjuice | 98 | 09/27 17:39 | 09/28 16:02 | ⚠ 145分（00:29→02:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 298 行（統合前 310 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 293 行（統合前 305 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 16:30 [financialjuice] Britain's Gloucestershire police: several men detained over explosives act violations after increased security at Fairford air base - Sky News
-- 09/27 16:31 [financialjuice] Britain's Gloucestershire police: army's specialist bomb disposal unit is currently inspecting several vehicles - Sky News
-- 09/27 16:32 [FirstSquawk] Andy Burnham will launch a new version of the controversial Help to Buy scheme through which hundreds of thousands of first-time buyers got on to the housing ladder under the previous Conservative government
-- 09/27 16:33 [FirstSquawk] Southeast Asia manufacturing, Japan immigration costs, Vietnam GDP
-- 09/27 16:33 [FirstSquawk] Serbia's embattled president is expected to resign in a well-telegraphed move as he seeks to transition to the role of PM
-- 09/27 16:33 [FirstSquawk] Russia has targeted Ukraine's railway throughout the full-scale invasion, but the intensity of attacks has risen sharply over 2026. At the same time, Ukraine increasingly depends on the railway for passengers, trade, diplomacy, and wartime …
 - 09/27 17:03 [FirstSquawk] Police evacuated homes near RAF Fairford, a U.S. air base in England, and arrested several men over suspected explosive offenses. The base is used by the American forces during the war with Iran.
 - 09/27 17:03 [FirstSquawk] Iran said it’s awaiting a definitive US response to a seven-day proposal for reopening the Strait of Hormuz but won’t soften its conditions
 - 09/27 17:03 [FirstSquawk] Two giant pandas depart China for US after Xi-Trump summit Loan of the pair to Zoo Atlanta was one of the few concrete outcomes of their talks
@@ -322,3 +316,4 @@
 - 09/28 16:02 [FirstSquawk] SPAIN (JUL) HOUSE MORTGAGE APPROVALS YOY ACTUAL: -3.5% VS 10.8% PREVIOUS
 - 09/28 16:02 [FirstSquawk] Gold spot price drops nearly 3% to $4,163.69/oz
 - 09/28 16:10 [FirstSquawk] UK HOME BUILDER STOCKS RISE FOLLOWING NEW INITIATIVE TO ASSIST FIRST-TIME BUYERS.
+- 09/28 16:28 [DeItaone] YEMENI FORCES STRIKE HOUTHI TARGETS Yemeni government forces launched multiple airstrikes against Houthi positions west of Taiz, according to Al Arabiya citing Yemeni sources. The strikes reportedly targeted several Houthi sites in the Al-R…

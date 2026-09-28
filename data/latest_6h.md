@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-28 16:20 JST／対象: 09/28 10:20 〜 09/28 16:20 JST（時刻はすべて日本時間）
+生成: 2026-09-28 16:37 JST／対象: 09/28 10:37 〜 09/28 16:37 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 0 | - | - | - |
-| FirstSquawk | 67 | 09/28 10:21 | 09/28 16:10 | 24分（15:27→15:51） |
-| financialjuice | 17 | 09/28 10:22 | 09/28 16:02 | ⚠ 115分（11:30→13:26） |
+| DeItaone | 1 | 09/28 16:28 | 09/28 16:28 | - |
+| FirstSquawk | 59 | 09/28 10:44 | 09/28 16:10 | 24分（15:27→15:51） |
+| financialjuice | 10 | 09/28 10:40 | 09/28 16:02 | ⚠ 115分（11:30→13:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 84 行（統合前 84 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 70 行（統合前 70 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 10:21 [FirstSquawk] China sets yuan midpoint at strongest level in more than three years
-- 09/28 10:21 [FirstSquawk] Nissan Rogue e-Power hybrid shipments to U.S. start next month ahead of November launch
-- 09/28 10:22 [financialjuice] China injects 139 bln yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement
-- 09/28 10:23 [financialjuice] China central bank to inject 139 billion yuan via 7-day reverse repos: statement
-- 09/28 10:23 [FirstSquawk] 2-year Japanese government bond yield advances 2.5bps to 1.960%
-- 09/28 10:23 [FirstSquawk] 20-year Japanese government bond yield climbs 0.5bp to 3.915%
-- 09/28 10:24 [FirstSquawk] China’s most-active coking coal contract drops 3.21% to 1,446 yuan/ton
-- 09/28 10:24 [financialjuice] China to inject 661 billion yuan via overnight reverse repos: statement
-- 09/28 10:28 [FirstSquawk] Nissan targets 80% localization of US manufacturing by 2030, chairman says
-- 09/28 10:30 [financialjuice] CHINESE INDUSTRIAL PROFIT YTD ACTUAL 15.7% (FORECAST -, PREVIOUS 17.6%) $MACRO
-- 09/28 10:31 [financialjuice] China industrial profits rise 15.7% year on year Jan-Aug: stats bureau
-- 09/28 10:31 [financialjuice] China aug industrial profits rise 4.2% yr/yr: stats bureau
-- 09/28 10:31 [financialjuice] China central bank injects 300 bln yuan via 14-day reverse repos: statement
-- 09/28 10:32 [FirstSquawk] CHINA INDUSTRIAL PROFITS YTD (Y/Y) AUG: 15.7% (PREV 17.6%)
-- 09/28 10:34 [FirstSquawk] CSI SSH Gold Equity Index in China drops over 3%
 - 09/28 10:40 [financialjuice] S.Korea central bank: sells 91-day monetary stabilisation bonds at 3.140% yield
 - 09/28 10:44 [FirstSquawk] Bank of Korea sells 91-day Monetary Stabilisation Bonds at 3.140% yield
 - 09/28 10:44 [FirstSquawk] Nissan Americas: US dealer supply now around 50 days, down from 100 days in January 2025
@@ -108,3 +93,4 @@
 - 09/28 16:02 [FirstSquawk] SPAIN (JUL) HOUSE MORTGAGE APPROVALS YOY ACTUAL: -3.5% VS 10.8% PREVIOUS
 - 09/28 16:02 [FirstSquawk] Gold spot price drops nearly 3% to $4,163.69/oz
 - 09/28 16:10 [FirstSquawk] UK HOME BUILDER STOCKS RISE FOLLOWING NEW INITIATIVE TO ASSIST FIRST-TIME BUYERS.
+- 09/28 16:28 [DeItaone] YEMENI FORCES STRIKE HOUTHI TARGETS Yemeni government forces launched multiple airstrikes against Houthi positions west of Taiz, according to Al Arabiya citing Yemeni sources. The strikes reportedly targeted several Houthi sites in the Al-R…

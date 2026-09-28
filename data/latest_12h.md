@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-28 16:20 JST／対象: 09/28 04:20 〜 09/28 16:20 JST（時刻はすべて日本時間）
+生成: 2026-09-28 16:37 JST／対象: 09/28 04:37 〜 09/28 16:37 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 4 | 09/28 06:12 | 09/28 07:06 | 39分（06:27→07:06） |
-| FirstSquawk | 110 | 09/28 04:31 | 09/28 16:10 | ⚠ 78分（08:02→09:21） |
+| DeItaone | 5 | 09/28 06:12 | 09/28 16:28 | ⚠ 562分（07:06→16:28） |
+| FirstSquawk | 109 | 09/28 05:06 | 09/28 16:10 | ⚠ 78分（08:02→09:21） |
 | financialjuice | 66 | 09/28 05:04 | 09/28 16:02 | ⚠ 124分（05:07→07:11） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,7 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 04:31 [FirstSquawk] SYNLAIT MILK POSTED FY REVENUE OF NZD 1,940 MLN, WITH GROSS PROFIT OF NZD 37.7 MLN, EBITDA OF NZD 8.1 MLN AND NET DEBT OF NZD 215 MLN
 - 09/28 05:04 [financialjuice] South Korea presidential office: Ukraine asked to keep transfer of North Korean POWs confidential
 - 09/28 05:05 [financialjuice] South Korea presidential office: South Korea agreed to keep North Korean POW transfer under wraps due to security, diplomatic concerns
 - 09/28 05:05 [financialjuice] South Korea presidential office: Ukraine revealed North Korean POWs transfer to South Korea in UN speech without enough prior consultation
@@ -204,3 +203,4 @@
 - 09/28 16:02 [FirstSquawk] SPAIN (JUL) HOUSE MORTGAGE APPROVALS YOY ACTUAL: -3.5% VS 10.8% PREVIOUS
 - 09/28 16:02 [FirstSquawk] Gold spot price drops nearly 3% to $4,163.69/oz
 - 09/28 16:10 [FirstSquawk] UK HOME BUILDER STOCKS RISE FOLLOWING NEW INITIATIVE TO ASSIST FIRST-TIME BUYERS.
+- 09/28 16:28 [DeItaone] YEMENI FORCES STRIKE HOUTHI TARGETS Yemeni government forces launched multiple airstrikes against Houthi positions west of Taiz, according to Al Arabiya citing Yemeni sources. The strikes reportedly targeted several Houthi sites in the Al-R…
