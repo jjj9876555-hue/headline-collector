@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-28 11:26 JST／対象: 09/27 23:26 〜 09/28 11:26 JST（時刻はすべて日本時間）
+生成: 2026-09-28 11:45 JST／対象: 09/27 23:45 〜 09/28 11:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 09/28 00:04 | 09/28 07:06 | ⚠ 368分（00:04→06:12） |
-| FirstSquawk | 107 | 09/27 23:27 | 09/28 11:26 | ⚠ 78分（08:02→09:21） |
-| financialjuice | 73 | 09/27 23:42 | 09/28 10:40 | ⚠ 145分（00:29→02:54） |
+| FirstSquawk | 100 | 09/27 23:51 | 09/28 11:26 | ⚠ 78分（08:02→09:21） |
+| financialjuice | 72 | 09/27 23:52 | 09/28 11:30 | ⚠ 145分（00:29→02:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 181 行（統合前 186 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 173 行（統合前 178 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 23:27 [FirstSquawk] UK government spokesperson: UK Prime Minister is being kept informed on Gloucestershire incident
-- 09/27 23:28 [FirstSquawk] The US ambassador to the UN on Iran: President Trump will keep all options on the table.
-- 09/27 23:29 [FirstSquawk] Palestinian was killed and others were injured when an Israeli drone struck a car in the center of Gaza City.
-- 09/27 23:29 [FirstSquawk] The Telegraph: Police are investigating Iran's link to a plot to bomb a British airbase used by US forces.
-- 09/27 23:29 [FirstSquawk] "Telegraph": Five men arrested on suspicion of plotting a terrorist operation targeting an airbase in western Britain
-- 09/27 23:30 [FirstSquawk] The Telegraph: The five men arrested were in possession of three trucks suspected of containing explosives
-- 09/27 23:31 [FirstSquawk] U.S. official tells me in response that "zero ships were struck over the last two days" - Axios Reporter
-- 09/27 23:42 [financialjuice] Trump: Arrests in UK were a positive development
-- 09/27 23:42 [financialjuice] Trump: Suspects had been under surveillance for a long time and we captured them
-- 09/27 23:44 [financialjuice] Trump: suspects aimed to cause major harm
 - 09/27 23:51 [FirstSquawk] Araqchi to NBC: We are as ready to negotiate as we are to confront any aggression, even if it comes to a devastating war
 - 09/27 23:52 [financialjuice] Libya's NOC: first refining units at Zawiya refinery, crude oil flow through main Sharara-Zawiya pipeline resumed after valve 7 reopening - statement
 - 09/27 23:52 [FirstSquawk] US Treasury Secretary: China has significantly reduced its aid to Iran
@@ -205,3 +195,5 @@
 - 09/28 11:13 [FirstSquawk] Cathay Cargo yet to set timing for resuming freighter services to Dubai, Riyadh
 - 09/28 11:25 [FirstSquawk] US defense industry pushes to ramp up missile output after years of underinvestment - WSJ
 - 09/28 11:26 [FirstSquawk] Canadian dollar falls as wider US-Canada rate differential looms - FX
+- 09/28 11:30 [financialjuice] S.Korea finance minister: to pursue balanced policy mix with central bank — ministry
+- 09/28 11:30 [financialjuice] S.Korea finmin: to enhance collaboration with central bank on market oversight - ministry

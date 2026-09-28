@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-28 11:26 JST／対象: 09/28 05:26 〜 09/28 11:26 JST（時刻はすべて日本時間）
+生成: 2026-09-28 11:45 JST／対象: 09/28 05:45 〜 09/28 11:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/28 06:12 | 09/28 07:06 | 39分（06:27→07:06） |
 | FirstSquawk | 57 | 09/28 05:57 | 09/28 11:26 | ⚠ 78分（08:02→09:21） |
-| financialjuice | 52 | 09/28 07:11 | 09/28 10:40 | ⚠ 99分（07:11→08:51） |
+| financialjuice | 54 | 09/28 07:11 | 09/28 11:30 | ⚠ 99分（07:11→08:51） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 113 行（統合前 113 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 115 行（統合前 115 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -137,3 +137,5 @@
 - 09/28 11:13 [FirstSquawk] Cathay Cargo yet to set timing for resuming freighter services to Dubai, Riyadh
 - 09/28 11:25 [FirstSquawk] US defense industry pushes to ramp up missile output after years of underinvestment - WSJ
 - 09/28 11:26 [FirstSquawk] Canadian dollar falls as wider US-Canada rate differential looms - FX
+- 09/28 11:30 [financialjuice] S.Korea finance minister: to pursue balanced policy mix with central bank — ministry
+- 09/28 11:30 [financialjuice] S.Korea finmin: to enhance collaboration with central bank on market oversight - ministry
