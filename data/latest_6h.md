@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-28 11:04 JST／対象: 09/28 05:04 〜 09/28 11:04 JST（時刻はすべて日本時間）
+生成: 2026-09-28 11:26 JST／対象: 09/28 05:26 〜 09/28 11:26 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/28 06:12 | 09/28 07:06 | 39分（06:27→07:06） |
-| FirstSquawk | 55 | 09/28 05:06 | 09/28 10:56 | ⚠ 78分（08:02→09:21） |
-| financialjuice | 57 | 09/28 05:04 | 09/28 10:40 | ⚠ 124分（05:07→07:11） |
+| FirstSquawk | 57 | 09/28 05:57 | 09/28 11:26 | ⚠ 78分（08:02→09:21） |
+| financialjuice | 52 | 09/28 07:11 | 09/28 10:40 | ⚠ 99分（07:11→08:51） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 116 行（統合前 116 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 113 行（統合前 113 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 05:04 [financialjuice] South Korea presidential office: Ukraine asked to keep transfer of North Korean POWs confidential
-- 09/28 05:05 [financialjuice] South Korea presidential office: South Korea agreed to keep North Korean POW transfer under wraps due to security, diplomatic concerns
-- 09/28 05:05 [financialjuice] South Korea presidential office: Ukraine revealed North Korean POWs transfer to South Korea in UN speech without enough prior consultation
-- 09/28 05:06 [financialjuice] South Korea presidential office: Ukraine's revelation of North Korean POW transfer sparks unnecessary local controversy
-- 09/28 05:06 [FirstSquawk] THE SOUTH KOREA PRESIDENTIAL OFFICE SAYS UKRAINE REQUESTED KEEPING THE NORTH KOREAN POWS' TRANSFER TO SOUTH KOREA CONFIDENTIAL, AND THAT SOUTH KOREA AGREED TO DO SO DUE TO SECURITY AND DIPLOMATIC CONCERNS.
-- 09/28 05:06 [FirstSquawk] THE SOUTH KOREA PRESIDENTIAL OFFICE SAYS UKRAINE DISCLOSED THE NORTH KOREAN POWS' TRANSFER TO SOUTH KOREA IN A UN SPEECH WITHOUT SUFFICIENT PRIOR CONSULTATION, WHICH IT SAYS HAS TRIGGERED UNNECESSARY DOMESTIC CONTROVERSY.
-- 09/28 05:07 [financialjuice] South Korea presidential office demands official explanation and apology from Ukraine over revealing North Korean POW transfer
 - 09/28 05:57 [FirstSquawk] TRUMP IS SET TO HOST ANTHROPIC CEO DARIO AMODEI FOR A PRIVATE DINNER AT THE WHITE HOUSE ON SUNDAY, AMID AN ONGOING LEGAL DISPUTE BETWEEN THE AI COMPANY AND THE ADMINISTRATION AND GROWING DEBATE OVER AI SAFETY AND REGULATION.
 - 09/28 05:57 [FirstSquawk] THE MEETING COMES DAYS AFTER A FEDERAL APPEALS COURT UPHELD THE PENTAGON’S DECISION TO BLACKLIST ANTHROPIC’S CLAUDE MODELS, WHILE TRUMP AND HOUSE SPEAKER MIKE JOHNSON ARE ALSO EXPECTED TO MEET WITH MAJOR AI CEOS AS CALLS FOR STRONGER AI SAF…
 - 09/28 05:58 [FirstSquawk] TRUMP SAYS HE WILL DISCUSS AI WITH ANTHROPIC CEO AMODEI, SAYING ON THE MEETING 'LET'S GO, LET'S WIN', AND SAYS HE SPOKE WITH ZELENSKY AND TOLD HIM TO 'TAKE IT EASY' ON REFINERY STRIKES, BLAMING A DIESEL SHORTAGE ON UKRAINE STRIKING RUSSIAN …
@@ -140,3 +133,7 @@
 - 09/28 10:45 [FirstSquawk] 2-year Japanese government bond yield advances 3.0 bps to 1.965%
 - 09/28 10:52 [FirstSquawk] Silver spot price drops nearly 3% to $62.40/oz
 - 09/28 10:56 [FirstSquawk] Nissan chairman sees little chance of US market opening to Chinese automakers over next five years
+- 09/28 11:12 [FirstSquawk] Cathay Pacific suspends passenger flights to Dubai and Riyadh through Jan. 31, 2027
+- 09/28 11:13 [FirstSquawk] Cathay Cargo yet to set timing for resuming freighter services to Dubai, Riyadh
+- 09/28 11:25 [FirstSquawk] US defense industry pushes to ramp up missile output after years of underinvestment - WSJ
+- 09/28 11:26 [FirstSquawk] Canadian dollar falls as wider US-Canada rate differential looms - FX

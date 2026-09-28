@@ -7,24 +7,24 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-28 11:04 JST／対象: 09/27 23:04 〜 09/28 11:04 JST（時刻はすべて日本時間）
+生成: 2026-09-28 11:26 JST／対象: 09/27 23:26 〜 09/28 11:26 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 09/28 00:04 | 09/28 07:06 | ⚠ 368分（00:04→06:12） |
-| FirstSquawk | 103 | 09/27 23:27 | 09/28 10:56 | ⚠ 78分（08:02→09:21） |
-| financialjuice | 74 | 09/27 23:08 | 09/28 10:40 | ⚠ 145分（00:29→02:54） |
+| FirstSquawk | 107 | 09/27 23:27 | 09/28 11:26 | ⚠ 78分（08:02→09:21） |
+| financialjuice | 73 | 09/27 23:42 | 09/28 10:40 | ⚠ 145分（00:29→02:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 177 行（統合前 183 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 181 行（統合前 186 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 23:08 [financialjuice/FirstSquawk] UK government spokesperson: UK Prime Minister is being kept informed on Gloucestershire incident
+- 09/27 23:27 [FirstSquawk] UK government spokesperson: UK Prime Minister is being kept informed on Gloucestershire incident
 - 09/27 23:28 [FirstSquawk] The US ambassador to the UN on Iran: President Trump will keep all options on the table.
 - 09/27 23:29 [FirstSquawk] Palestinian was killed and others were injured when an Israeli drone struck a car in the center of Gaza City.
 - 09/27 23:29 [FirstSquawk] The Telegraph: Police are investigating Iran's link to a plot to bomb a British airbase used by US forces.
@@ -201,3 +201,7 @@
 - 09/28 10:45 [FirstSquawk] 2-year Japanese government bond yield advances 3.0 bps to 1.965%
 - 09/28 10:52 [FirstSquawk] Silver spot price drops nearly 3% to $62.40/oz
 - 09/28 10:56 [FirstSquawk] Nissan chairman sees little chance of US market opening to Chinese automakers over next five years
+- 09/28 11:12 [FirstSquawk] Cathay Pacific suspends passenger flights to Dubai and Riyadh through Jan. 31, 2027
+- 09/28 11:13 [FirstSquawk] Cathay Cargo yet to set timing for resuming freighter services to Dubai, Riyadh
+- 09/28 11:25 [FirstSquawk] US defense industry pushes to ramp up missile output after years of underinvestment - WSJ
+- 09/28 11:26 [FirstSquawk] Canadian dollar falls as wider US-Canada rate differential looms - FX
