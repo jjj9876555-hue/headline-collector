@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-29 04:35 JST／対象: 09/28 16:35 〜 09/29 04:35 JST（時刻はすべて日本時間）
+生成: 2026-09-29 04:53 JST／対象: 09/28 16:53 〜 09/29 04:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 37 | 09/28 16:48 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 175 | 09/28 16:38 | 09/29 04:32 | 31分（02:57→03:29） |
-| financialjuice | 196 | 09/28 16:56 | 09/29 04:32 | 40分（18:20→19:01） |
+| DeItaone | 36 | 09/28 17:23 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
+| FirstSquawk | 173 | 09/28 17:04 | 09/29 04:49 | 31分（02:57→03:29） |
+| financialjuice | 199 | 09/28 16:56 | 09/29 04:51 | 40分（18:20→19:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 397 行（統合前 412 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 396 行（統合前 412 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 16:38 [FirstSquawk] KKR-BACKED ADVANTA IS REPORTEDLY BEGINNING A ROAD SHOW FOR A $400 MILLION INITIAL PUBLIC OFFERING.
-- 09/28 16:38 [FirstSquawk] SWEDISH PM ANDERSSON STATES GOVERNMENT FORMATION IS NOT POSSIBLE.
-- 09/28 16:38 [FirstSquawk] SWEDEN'S ANDERSSON RETURNS GOVERNMENT FORMATION MANDATE.
-- 09/28 16:39 [FirstSquawk] SPOT GOLD FALLS OVER 3% UNDER $4,155 AN OUNCE.
-- 09/28 16:48 [DeItaone] TRUMP SERIOUSLY CONSIDERS U.S. DIESEL EXPORT BAN President Trump said the U.S. is “very seriously” considering restricting diesel exports, despite concerns it could push gasoline prices higher. Trump blamed current fuel pressures largely on…
 - 09/28 16:56 [financialjuice] Japan's Top Currency Diplomat Mimura: Japanese Prime Minister, Finance Minister, US have sent clear message on yen.
 - 09/28 16:56 [financialjuice] Japan's Top Currency Diplomat Mimura when asked about market views funding constraints may limit Japan's ability to conduct yen-buying intervention: I have absolutely no such concern. when asked about market views funding constraints may li…
 - 09/28 16:56 [financialjuice] Japan's Top Currency Diplomat Mimura: We are always carefully watching how such japan-us rate trend has affected market moves.
@@ -421,3 +416,7 @@
 - 09/29 04:30 [financialjuice] Iranian Official: Iran's position on the nuclear issue has not changed, no discussions are currently taking place on this matter - Fars News.
 - 09/29 04:32 [financialjuice] saudi Foreign Minister and US Secretary of State Rubio discuss region, Yemen - SPA
 - 09/29 04:32 [FirstSquawk] IRANIAN OFFICIAL SAYS IRAN'S POSITION ON THE NUCLEAR ISSUE HAS NOT CHANGED AND THAT NO DISCUSSIONS ARE CURRENTLY TAKING PLACE ON THE MATTER, ADDING THAT REPORTS OF IRAN'S FLEXIBILITY ON ITS NUCLEAR STANCE ARE INCORRECT - FARS NEWS
+- 09/29 04:36 [financialjuice/FirstSquawk] UAE-Netanyahu meeting took place with the knowledge and blessing of the American government - Israel's Hayom News
+- 09/29 04:49 [FirstSquawk] IRAQ’S HEZBOLLAH THREATENS TO CLOSE BORDERS WITH COUNTRIES SANCTIONING IRAN IF AIR EMBARGO ON IRAN CONTINUES AFTER OCTOBER 1 — IRIB
+- 09/29 04:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: -332.0 MLN NASDAQ 100: 613.1 MLN DOW 30: -251.3 MLN MAG 7: 16.3 MLN $MACRO
+- 09/29 04:51 [financialjuice] US Ambassador to NATO Whitaker: Working closely with the UK on arrested men.

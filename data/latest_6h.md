@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-29 04:35 JST／対象: 09/28 22:35 〜 09/29 04:35 JST（時刻はすべて日本時間）
+生成: 2026-09-29 04:53 JST／対象: 09/28 22:53 〜 09/29 04:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 17 | 09/28 22:49 | 09/29 02:14 | ⚠ 54分（00:44→01:39） |
-| FirstSquawk | 88 | 09/28 22:37 | 09/29 04:32 | 31分（02:57→03:29） |
-| financialjuice | 115 | 09/28 22:36 | 09/29 04:32 | 23分（03:04→03:28） |
+| DeItaone | 15 | 09/28 22:54 | 09/29 02:14 | ⚠ 54分（00:44→01:39） |
+| FirstSquawk | 85 | 09/28 22:57 | 09/29 04:49 | 31分（02:57→03:29） |
+| financialjuice | 111 | 09/28 22:58 | 09/29 04:51 | 23分（03:04→03:28） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 212 行（統合前 223 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 204 行（統合前 213 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 22:36 [financialjuice] UK September long-term public inflation expectations 4.3% vs 4.1% in August - Citi/YouGov
-- 09/28 22:37 [financialjuice] UK September year-ahead public inflation expectations year-ahead 4.5% vs 3.9% - Citi/YouGov
-- 09/28 22:37 [FirstSquawk] EVONIK REJECTS EUR10.3 BLN BASF BID TO CONSOLIDATE CHEMICALS INDUSTRY – FT
-- 09/28 22:39 [FirstSquawk] UK SEPTEMBER LONG-TERM PUBLIC INFLATION EXPECTATIONS AT 4.3% VS 4.1% IN AUGUST - CITI/YOUGOV
-- 09/28 22:41 [financialjuice] ECB's President Lagarde: AI could lower inflation in the long term by boosting productivity
-- 09/28 22:44 [financialjuice] WATCH LIVE: ECB's President Lagarde Speaks
-- 09/28 22:46 [FirstSquawk/financialjuice/DeItaone] RUSSIA PLANS TO EXTEND DIESEL EXPORT BAN THROUGH OCTOBER: TASS
-- 09/28 22:48 [financialjuice] Irna's Araqchi will meet with mediators in New York today. representative from the American side will not be present at this meeting - ISNA
-- 09/28 22:50 [FirstSquawk] IRAN'S ARAGHCHI TO MEET MEDIATORS IN NEW YORK ON MONDAY - ISNA
-- 09/28 22:50 [FirstSquawk] US REPRESENTATIVES WON'T BE PRESENT AT MEETING: IRAN'S ISNA
-- 09/28 22:51 [financialjuice] Iran’s Foreign Minister Araghchi to Meet Mediators, US Won't Be Present - ISNA
-- 09/28 22:51 [DeItaone] - IRAN'S ISNA NEWS AGENCY SAYS FOREIGN MINISTER ARAQCHI TO MEET MEDIATORS TODAY IN NEW YORK
 - 09/28 22:54 [DeItaone] $SPCX - SPACEX SHARES UP 1.1%; CO SAYS STARSHIP REACHES ORBIT DESPITE ENGINE ISSUE
 - 09/28 22:57 [FirstSquawk] SPACEX: ALL 26 SATELLITES ON STARSHIP ROCKET DEPLOYED IN ORBIT
 - 09/28 22:58 [FirstSquawk] UK ENERGY SEC. FAHNBULLEH: GOVT PLANS TO DEVOLVE THE WARM HOME PLAN
@@ -236,3 +224,7 @@
 - 09/29 04:30 [financialjuice] Iranian Official: Iran's position on the nuclear issue has not changed, no discussions are currently taking place on this matter - Fars News.
 - 09/29 04:32 [financialjuice] saudi Foreign Minister and US Secretary of State Rubio discuss region, Yemen - SPA
 - 09/29 04:32 [FirstSquawk] IRANIAN OFFICIAL SAYS IRAN'S POSITION ON THE NUCLEAR ISSUE HAS NOT CHANGED AND THAT NO DISCUSSIONS ARE CURRENTLY TAKING PLACE ON THE MATTER, ADDING THAT REPORTS OF IRAN'S FLEXIBILITY ON ITS NUCLEAR STANCE ARE INCORRECT - FARS NEWS
+- 09/29 04:36 [financialjuice/FirstSquawk] UAE-Netanyahu meeting took place with the knowledge and blessing of the American government - Israel's Hayom News
+- 09/29 04:49 [FirstSquawk] IRAQ’S HEZBOLLAH THREATENS TO CLOSE BORDERS WITH COUNTRIES SANCTIONING IRAN IF AIR EMBARGO ON IRAN CONTINUES AFTER OCTOBER 1 — IRIB
+- 09/29 04:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: -332.0 MLN NASDAQ 100: 613.1 MLN DOW 30: -251.3 MLN MAG 7: 16.3 MLN $MACRO
+- 09/29 04:51 [financialjuice] US Ambassador to NATO Whitaker: Working closely with the UK on arrested men.

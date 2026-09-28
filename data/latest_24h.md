@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-29 04:35 JST／対象: 09/28 04:35 〜 09/29 04:35 JST（時刻はすべて日本時間）
+生成: 2026-09-29 04:53 JST／対象: 09/28 04:53 〜 09/29 04:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 42 | 09/28 06:12 | 09/29 02:14 | ⚠ 562分（07:06→16:28） |
-| FirstSquawk | 284 | 09/28 05:06 | 09/29 04:32 | ⚠ 78分（08:02→09:21） |
-| financialjuice | 262 | 09/28 05:04 | 09/29 04:32 | ⚠ 124分（05:07→07:11） |
+| FirstSquawk | 286 | 09/28 05:06 | 09/29 04:49 | ⚠ 78分（08:02→09:21） |
+| financialjuice | 265 | 09/28 05:04 | 09/29 04:51 | ⚠ 124分（05:07→07:11） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 577 行（統合前 592 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 581 行（統合前 597 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -601,3 +601,7 @@
 - 09/29 04:30 [financialjuice] Iranian Official: Iran's position on the nuclear issue has not changed, no discussions are currently taking place on this matter - Fars News.
 - 09/29 04:32 [financialjuice] saudi Foreign Minister and US Secretary of State Rubio discuss region, Yemen - SPA
 - 09/29 04:32 [FirstSquawk] IRANIAN OFFICIAL SAYS IRAN'S POSITION ON THE NUCLEAR ISSUE HAS NOT CHANGED AND THAT NO DISCUSSIONS ARE CURRENTLY TAKING PLACE ON THE MATTER, ADDING THAT REPORTS OF IRAN'S FLEXIBILITY ON ITS NUCLEAR STANCE ARE INCORRECT - FARS NEWS
+- 09/29 04:36 [financialjuice/FirstSquawk] UAE-Netanyahu meeting took place with the knowledge and blessing of the American government - Israel's Hayom News
+- 09/29 04:49 [FirstSquawk] IRAQ’S HEZBOLLAH THREATENS TO CLOSE BORDERS WITH COUNTRIES SANCTIONING IRAN IF AIR EMBARGO ON IRAN CONTINUES AFTER OCTOBER 1 — IRIB
+- 09/29 04:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: -332.0 MLN NASDAQ 100: 613.1 MLN DOW 30: -251.3 MLN MAG 7: 16.3 MLN $MACRO
+- 09/29 04:51 [financialjuice] US Ambassador to NATO Whitaker: Working closely with the UK on arrested men.
