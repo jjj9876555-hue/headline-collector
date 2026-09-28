@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-29 04:17 JST／対象: 09/28 04:17 〜 09/29 04:17 JST（時刻はすべて日本時間）
+生成: 2026-09-29 04:35 JST／対象: 09/28 04:35 〜 09/29 04:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 42 | 09/28 06:12 | 09/29 02:14 | ⚠ 562分（07:06→16:28） |
-| FirstSquawk | 280 | 09/28 04:31 | 09/29 04:13 | ⚠ 78分（08:02→09:21） |
-| financialjuice | 255 | 09/28 05:04 | 09/29 04:10 | ⚠ 124分（05:07→07:11） |
+| FirstSquawk | 284 | 09/28 05:06 | 09/29 04:32 | ⚠ 78分（08:02→09:21） |
+| financialjuice | 262 | 09/28 05:04 | 09/29 04:32 | ⚠ 124分（05:07→07:11） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 566 行（統合前 581 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 577 行（統合前 592 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 04:31 [FirstSquawk] SYNLAIT MILK POSTED FY REVENUE OF NZD 1,940 MLN, WITH GROSS PROFIT OF NZD 37.7 MLN, EBITDA OF NZD 8.1 MLN AND NET DEBT OF NZD 215 MLN
 - 09/28 05:04 [financialjuice] South Korea presidential office: Ukraine asked to keep transfer of North Korean POWs confidential
 - 09/28 05:05 [financialjuice] South Korea presidential office: South Korea agreed to keep North Korean POW transfer under wraps due to security, diplomatic concerns
 - 09/28 05:05 [financialjuice] South Korea presidential office: Ukraine revealed North Korean POWs transfer to South Korea in UN speech without enough prior consultation
@@ -590,3 +589,15 @@
 - 09/29 04:09 [financialjuice] UAE President received Israel's Netanyahu on Sunday - UAE State News Agency.
 - 09/29 04:10 [financialjuice] The UAE President and Israel's Prime Minister Netanyahu discussed bilateral relations between the UAE and Israel, and the means to strengthen them - UAE State News Agency.
 - 09/29 04:13 [FirstSquawk] UAE PRESIDENT RECEIVED ISRAEL'S NETANYAHU ON SUNDAY, WITH THE TWO DISCUSSING BILATERAL RELATIONS BETWEEN THE UAE AND ISRAEL AND MEANS TO STRENGTHEN THEM - UAE STATE NEWS AGENCY
+- 09/29 04:18 [financialjuice] Iranian lawmaker: Parliament weighing NPT exit bill - Fars
+- 09/29 04:19 [financialjuice] UK's Labour Party: The Prime Minister announces the new 'GB Grid' to rewire public control into Britain’s energy system and drive down costs.
+- 09/29 04:19 [FirstSquawk] CANADIAN CARRIER WESTJET SAYS IT USES SOFTWARE VERSION 14.1 — NOW BEING REVIEWED BY THE FAA — FOR ITS BOEING 737 MAX JETS, ADDING THAT WHILE IT IS AWARE OF THE REPORTED POTENTIAL SOFTWARE ISSUE AFFECTING SOME B737S AND IS WORKING CLOSELY WI…
+- 09/29 04:20 [FirstSquawk] THE FAA ADMINISTRATOR SAYS THE SOFTWARE ISSUE WILL DELAY MAX 10 CERTIFICATION, THOUGH HE IS NOT SURE HOW LONG, ADDING THAT PILOTS ARE STILL IN CONTROL DURING GO-AROUNDS DESPITE THE BOEING 737 MAX SOFTWARE ISSUE.
+- 09/29 04:20 [FirstSquawk] IRAN PARLIAMENT WEIGHS BILL TO EXIT NUCLEAR NON-PROLIFERATION TREATY (NPT) — FARS
+- 09/29 04:21 [FirstSquawk] UK LABOUR: PM ANNOUNCES NEW ‘GB GRID’ TO BRING ENERGY SYSTEM UNDER PUBLIC CONTROL AND CUT COSTS
+- 09/29 04:21 [financialjuice] Tuesday FX Option Expiries
+- 09/29 04:25 [financialjuice] Nvidia's CEO Huang is among executives expected at Tuesday's meeting at the White House - Person Familiar with the Matter. $NVDA
+- 09/29 04:29 [financialjuice] ❗ Iranian Official: Reports of Iran's flexibility on nuclear stance are incorrect - Fars News.
+- 09/29 04:30 [financialjuice] Iranian Official: Iran's position on the nuclear issue has not changed, no discussions are currently taking place on this matter - Fars News.
+- 09/29 04:32 [financialjuice] saudi Foreign Minister and US Secretary of State Rubio discuss region, Yemen - SPA
+- 09/29 04:32 [FirstSquawk] IRANIAN OFFICIAL SAYS IRAN'S POSITION ON THE NUCLEAR ISSUE HAS NOT CHANGED AND THAT NO DISCUSSIONS ARE CURRENTLY TAKING PLACE ON THE MATTER, ADDING THAT REPORTS OF IRAN'S FLEXIBILITY ON ITS NUCLEAR STANCE ARE INCORRECT - FARS NEWS

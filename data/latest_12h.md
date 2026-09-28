@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-29 04:17 JST／対象: 09/28 16:17 〜 09/29 04:17 JST（時刻はすべて日本時間）
+生成: 2026-09-29 04:35 JST／対象: 09/28 16:35 〜 09/29 04:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 38 | 09/28 16:28 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 170 | 09/28 16:38 | 09/29 04:13 | 31分（02:57→03:29） |
-| financialjuice | 189 | 09/28 16:56 | 09/29 04:10 | 40分（18:20→19:01） |
+| DeItaone | 37 | 09/28 16:48 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
+| FirstSquawk | 175 | 09/28 16:38 | 09/29 04:32 | 31分（02:57→03:29） |
+| financialjuice | 196 | 09/28 16:56 | 09/29 04:32 | 40分（18:20→19:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 386 行（統合前 401 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 397 行（統合前 412 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 16:28 [DeItaone] YEMENI FORCES STRIKE HOUTHI TARGETS Yemeni government forces launched multiple airstrikes against Houthi positions west of Taiz, according to Al Arabiya citing Yemeni sources. The strikes reportedly targeted several Houthi sites in the Al-R…
 - 09/28 16:38 [FirstSquawk] KKR-BACKED ADVANTA IS REPORTEDLY BEGINNING A ROAD SHOW FOR A $400 MILLION INITIAL PUBLIC OFFERING.
 - 09/28 16:38 [FirstSquawk] SWEDISH PM ANDERSSON STATES GOVERNMENT FORMATION IS NOT POSSIBLE.
 - 09/28 16:38 [FirstSquawk] SWEDEN'S ANDERSSON RETURNS GOVERNMENT FORMATION MANDATE.
@@ -410,3 +409,15 @@
 - 09/29 04:09 [financialjuice] UAE President received Israel's Netanyahu on Sunday - UAE State News Agency.
 - 09/29 04:10 [financialjuice] The UAE President and Israel's Prime Minister Netanyahu discussed bilateral relations between the UAE and Israel, and the means to strengthen them - UAE State News Agency.
 - 09/29 04:13 [FirstSquawk] UAE PRESIDENT RECEIVED ISRAEL'S NETANYAHU ON SUNDAY, WITH THE TWO DISCUSSING BILATERAL RELATIONS BETWEEN THE UAE AND ISRAEL AND MEANS TO STRENGTHEN THEM - UAE STATE NEWS AGENCY
+- 09/29 04:18 [financialjuice] Iranian lawmaker: Parliament weighing NPT exit bill - Fars
+- 09/29 04:19 [financialjuice] UK's Labour Party: The Prime Minister announces the new 'GB Grid' to rewire public control into Britain’s energy system and drive down costs.
+- 09/29 04:19 [FirstSquawk] CANADIAN CARRIER WESTJET SAYS IT USES SOFTWARE VERSION 14.1 — NOW BEING REVIEWED BY THE FAA — FOR ITS BOEING 737 MAX JETS, ADDING THAT WHILE IT IS AWARE OF THE REPORTED POTENTIAL SOFTWARE ISSUE AFFECTING SOME B737S AND IS WORKING CLOSELY WI…
+- 09/29 04:20 [FirstSquawk] THE FAA ADMINISTRATOR SAYS THE SOFTWARE ISSUE WILL DELAY MAX 10 CERTIFICATION, THOUGH HE IS NOT SURE HOW LONG, ADDING THAT PILOTS ARE STILL IN CONTROL DURING GO-AROUNDS DESPITE THE BOEING 737 MAX SOFTWARE ISSUE.
+- 09/29 04:20 [FirstSquawk] IRAN PARLIAMENT WEIGHS BILL TO EXIT NUCLEAR NON-PROLIFERATION TREATY (NPT) — FARS
+- 09/29 04:21 [FirstSquawk] UK LABOUR: PM ANNOUNCES NEW ‘GB GRID’ TO BRING ENERGY SYSTEM UNDER PUBLIC CONTROL AND CUT COSTS
+- 09/29 04:21 [financialjuice] Tuesday FX Option Expiries
+- 09/29 04:25 [financialjuice] Nvidia's CEO Huang is among executives expected at Tuesday's meeting at the White House - Person Familiar with the Matter. $NVDA
+- 09/29 04:29 [financialjuice] ❗ Iranian Official: Reports of Iran's flexibility on nuclear stance are incorrect - Fars News.
+- 09/29 04:30 [financialjuice] Iranian Official: Iran's position on the nuclear issue has not changed, no discussions are currently taking place on this matter - Fars News.
+- 09/29 04:32 [financialjuice] saudi Foreign Minister and US Secretary of State Rubio discuss region, Yemen - SPA
+- 09/29 04:32 [FirstSquawk] IRANIAN OFFICIAL SAYS IRAN'S POSITION ON THE NUCLEAR ISSUE HAS NOT CHANGED AND THAT NO DISCUSSIONS ARE CURRENTLY TAKING PLACE ON THE MATTER, ADDING THAT REPORTS OF IRAN'S FLEXIBILITY ON ITS NUCLEAR STANCE ARE INCORRECT - FARS NEWS
