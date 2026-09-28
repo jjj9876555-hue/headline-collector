@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-28 10:35 JST／対象: 09/27 22:35 〜 09/28 10:35 JST（時刻はすべて日本時間）
+生成: 2026-09-28 10:51 JST／対象: 09/27 22:51 〜 09/28 10:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 09/28 00:04 | 09/28 07:06 | ⚠ 368分（00:04→06:12） |
-| FirstSquawk | 98 | 09/27 23:27 | 09/28 10:34 | ⚠ 78分（08:02→09:21） |
-| financialjuice | 73 | 09/27 23:08 | 09/28 10:31 | ⚠ 145分（00:29→02:54） |
+| FirstSquawk | 101 | 09/27 23:27 | 09/28 10:45 | ⚠ 78分（08:02→09:21） |
+| financialjuice | 74 | 09/27 23:08 | 09/28 10:40 | ⚠ 145分（00:29→02:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 171 行（統合前 177 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 175 行（統合前 181 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -195,3 +195,7 @@
 - 09/28 10:31 [financialjuice] China central bank injects 300 bln yuan via 14-day reverse repos: statement
 - 09/28 10:32 [FirstSquawk] CHINA INDUSTRIAL PROFITS YTD (Y/Y) AUG: 15.7% (PREV 17.6%)
 - 09/28 10:34 [FirstSquawk] CSI SSH Gold Equity Index in China drops over 3%
+- 09/28 10:40 [financialjuice] S.Korea central bank: sells 91-day monetary stabilisation bonds at 3.140% yield
+- 09/28 10:44 [FirstSquawk] Bank of Korea sells 91-day Monetary Stabilisation Bonds at 3.140% yield
+- 09/28 10:44 [FirstSquawk] Nissan Americas: US dealer supply now around 50 days, down from 100 days in January 2025
+- 09/28 10:45 [FirstSquawk] 2-year Japanese government bond yield advances 3.0 bps to 1.965%

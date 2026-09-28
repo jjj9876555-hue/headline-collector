@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-28 10:35 JST／対象: 09/27 10:35 〜 09/28 10:35 JST（時刻はすべて日本時間）
+生成: 2026-09-28 10:51 JST／対象: 09/27 10:51 〜 09/28 10:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 09/28 00:04 | 09/28 07:06 | ⚠ 368分（00:04→06:12） |
-| FirstSquawk | 205 | 09/27 10:36 | 09/28 10:34 | ⚠ 78分（08:02→09:21） |
-| financialjuice | 92 | 09/27 12:09 | 09/28 10:31 | ⚠ 261分（12:09→16:30） |
+| FirstSquawk | 202 | 09/27 10:52 | 09/28 10:45 | ⚠ 78分（08:02→09:21） |
+| financialjuice | 93 | 09/27 12:09 | 09/28 10:40 | ⚠ 261分（12:09→16:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 291 行（統合前 303 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 289 行（統合前 301 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 10:36 [FirstSquawk] Trump to launch ‘AI Force’ and appoint AI czar amid calls for greater AI oversight — WaPo
-- 09/27 10:37 [FirstSquawk] New York Mayor Mamdani and Netanyahu continue public dispute that began during mayoral campaign - CBS
-- 09/27 10:42 [FirstSquawk] Trump predicts U.S.-Cuba agreement, says military action likely unnecessary - RTRS
-- 09/27 10:44 [FirstSquawk] Israel’s October 27 vote may bring a major political shift as Middle East seeks to move beyond war - AJ MAJALLA
-- 09/27 10:47 [FirstSquawk] GM faces global cost pressures from tariffs and energy as American car buyers remain eager
-- 09/27 10:51 [FirstSquawk] Polymarket puts Democrats’ chances of sweeping 2026 midterms at 64%
 - 09/27 10:52 [FirstSquawk] German and Russian foreign ministers meet at UN as Berlin urges Moscow to enter negotiations
 - 09/27 10:55 [FirstSquawk] OpenAI agents used aggressive techniques to access U.N. website, hitting it more than 16,000 times - WSJ
 - 09/27 11:00 [FirstSquawk] Japanese Ground Self-Defense Force long-range missiles expected in October U.S. drill — Kyodo
@@ -315,3 +309,7 @@
 - 09/28 10:31 [financialjuice] China central bank injects 300 bln yuan via 14-day reverse repos: statement
 - 09/28 10:32 [FirstSquawk] CHINA INDUSTRIAL PROFITS YTD (Y/Y) AUG: 15.7% (PREV 17.6%)
 - 09/28 10:34 [FirstSquawk] CSI SSH Gold Equity Index in China drops over 3%
+- 09/28 10:40 [financialjuice] S.Korea central bank: sells 91-day monetary stabilisation bonds at 3.140% yield
+- 09/28 10:44 [FirstSquawk] Bank of Korea sells 91-day Monetary Stabilisation Bonds at 3.140% yield
+- 09/28 10:44 [FirstSquawk] Nissan Americas: US dealer supply now around 50 days, down from 100 days in January 2025
+- 09/28 10:45 [FirstSquawk] 2-year Japanese government bond yield advances 3.0 bps to 1.965%
