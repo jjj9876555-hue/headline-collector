@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-29 02:35 JST／対象: 09/28 20:35 〜 09/29 02:35 JST（時刻はすべて日本時間）
+生成: 2026-09-29 02:53 JST／対象: 09/28 20:53 〜 09/29 02:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 19 | 09/28 20:38 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 87 | 09/28 20:42 | 09/29 02:35 | 22分（01:45→02:07） |
-| financialjuice | 115 | 09/28 20:38 | 09/29 02:32 | 22分（01:46→02:09） |
+| DeItaone | 17 | 09/28 22:49 | 09/29 02:14 | ⚠ 54分（00:44→01:39） |
+| FirstSquawk | 94 | 09/28 20:57 | 09/29 02:50 | 22分（01:45→02:07） |
+| financialjuice | 111 | 09/28 21:00 | 09/29 02:51 | 22分（01:46→02:09） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 211 行（統合前 225 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 213 行（統合前 226 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 20:38 [financialjuice] US Health Sec. Azar: We will make sure Britain wins in AI revolution
-- 09/28 20:38 [DeItaone] $META - META PRICE TARGET RAISED TO $830 Monness Crespi Hardt raised its Meta price target to $830 from $730, maintaining a Buy rating. The firm says early traction for Meta’s Muse personal AI agent and its broader AI strategy have started …
-- 09/28 20:41 [financialjuice] Nvidia investments portfolio consists of 13 public companies, 229 private
-- 09/28 20:42 [FirstSquawk/financialjuice] NVIDIA: ANTHROPIC'S REPORTED CONTRACTED VALUE EXCEEDS $180B
-- 09/28 20:42 [DeItaone] IRAN REACHES OUT TO ARAB STATES Iranian General Yahya Safavi says Tehran has “extended a hand of friendship” to Arab countries, according to local media. Safavi warned that the United States will eventually leave the region, signaling Iran’…
-- 09/28 20:43 [financialjuice] Nvidia's commitments increased to $279B from $119B last quarter
-- 09/28 20:43 [financialjuice] NVIDIA commitments primarily related to procurement of memory.
-- 09/28 20:51 [FirstSquawk] FIVE PEOPLE DETAINED IN THE "FAIRFORD" INCIDENT IN BRITAIN ARE ALL BRITISH NATIONALS.
 - 09/28 20:57 [FirstSquawk] U.S. CENTRAL COMMAND REPORTS OVER ONE BILLION BARRELS OF OIL TRANSPORTED THROUGH THE HORMUZ STRAIT IN RECENT MONTHS.
 - 09/28 21:00 [financialjuice] Secured overnight financing rate: 3.90% September 25th vs 3.88% September 24th
 - 09/28 21:02 [FirstSquawk] US FDA OKS ABBVIE’S JUVMO FOR PARKINSON'S DISEASE
@@ -235,3 +227,13 @@
 - 09/29 02:31 [FirstSquawk] HAPAG-LLOYD SEES FY EBITDA BETWEEN $3.9 BLN AND $4.4 BLN AND FY2026 GROUP EBIT IN A $1.25 BLN-$1.75 BLN RANGE, ADDING THAT AGAINST A BACKDROP OF VOLATILE FREIGHT RATES AND PERSISTENT GEOPOLITICAL CHALLENGES, THE FORECAST IS SUBJECT TO A HIG…
 - 09/29 02:32 [financialjuice] Fed's Barkin: Wouldn't say AI is immune to rate pressure
 - 09/29 02:35 [FirstSquawk] PENNSYLVANIA REPORTS 903 MEASLES CASES, INCLUDING 176 HOSPITALIZATIONS, AS OF SEPTEMBER 28 — HEALTH DEPARTMENT
+- 09/29 02:35 [FirstSquawk] ZUCKERBERG & AMODEI TO JOIN TRUMP AT WHITE HOUSE AI MEETING — POLITICO
+- 09/29 02:38 [FirstSquawk] FED'S COOK SAYS SHE EXPECTS TO SEE CONTINUED INFLATION PRESSURE IN COMING MONTHS FROM ARTIFICIAL INTELLIGENCE AND THE CONFLICT IN THE MIDDLE EAST, SEEING SOME ECONOMY-WIDE PRESSURE FROM AI-FUELED DEMAND AND SIGNS OF BROADENING PRESSURE IN T…
+- 09/29 02:38 [FirstSquawk] FED'S COOK SAYS SHE IS HIGHLY ATTENTIVE TO AI POTENTIALLY CAUSING A TEMPORARY RISE IN UNEMPLOYMENT, THOUGH THERE IS LIMITED EVIDENCE TO DATE THAT AI IS CHANGING LABOR MARKET STRUCTURE, AND SHE HOPES THE PACE OF AI ADOPTION WILL MINIMIZE NET…
+- 09/29 02:38 [FirstSquawk] FED'S COOK SAYS THE NUMBER AND MAGNITUDE OF ANY FUTURE RATE ADJUSTMENTS WILL BE INFORMED BY INFLATION AND LABOR MARKET DATA, AND BY THE ECONOMY'S REACTION TO THE FED'S ACTIONS SO FAR.
+- 09/29 02:40 [FirstSquawk] TRUMP IS OPEN TO EASING SANCTIONS AND RELEASING FROZEN IRANIAN FUNDS IN EXCHANGE FOR 'CONCRETE PROGRESS' ON NUCLEAR ISSUES, A U.S. OFFICIAL TOLD CNN, WITH U.S. OFFICIALS SAYING TALKS THROUGH MEDIATORS HAVE BEEN 'POSITIVE AND CONSTRUCTIVE' A…
+- 09/29 02:40 [FirstSquawk] TURKISH PRESIDENT ERDOGAN SAYS 'WE WILL NEVER WAVER IN OUR STANCE UNTIL THOSE WHO COMMITTED CRIMES AGAINST HUMANITY, SHED THE BLOOD OF 74,000 OF OUR GAZAN BROTHERS AND SISTERS, AND SPREAD TERROR ACROSS OUR REGION FROM LEBANON TO SYRIA ARE H…
+- 09/29 02:44 [FirstSquawk] AIRBUS FACES SLOWER-THAN-EXPECTED SEPTEMBER DELIVERIES AFTER NEWLY DISCOVERED A321NEO FUSELAGE DEFECT — SOURCES
+- 09/29 02:49 [FirstSquawk] US NATURAL GAS FUTURES PLUNGE MORE THAN 5% AS CONTRACT EXPIRY NEARS AND WEST VIRGINIA PIPELINE RETURN BOOSTS OUTPUT EXPECTATIONS
+- 09/29 02:50 [FirstSquawk] ANTHROPIC CEO DARIO AMODEI TO ATTEND WHITE HOUSE MEETING WITH TRUMP TOMORROW — SOURCE familiar with the matter
+- 09/29 02:51 [financialjuice] A powerful explosion occurred in a gas pipeline in Deir ez-Zor, Syria, near the Iraqi border - Tasnim News
