@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-28 09:26 JST／対象: 09/27 21:26 〜 09/28 09:26 JST（時刻はすべて日本時間）
+生成: 2026-09-28 09:50 JST／対象: 09/27 21:50 〜 09/28 09:50 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 09/28 00:04 | 09/28 07:06 | ⚠ 368分（00:04→06:12） |
-| FirstSquawk | 73 | 09/27 21:37 | 09/28 09:23 | ⚠ 78分（08:02→09:21） |
-| financialjuice | 56 | 09/27 21:54 | 09/28 09:21 | ⚠ 145分（00:29→02:54） |
+| FirstSquawk | 81 | 09/27 21:56 | 09/28 09:50 | ⚠ 78分（08:02→09:21） |
+| financialjuice | 59 | 09/27 21:54 | 09/28 09:30 | ⚠ 145分（00:29→02:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 124 行（統合前 135 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 135 行（統合前 146 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 21:37 [FirstSquawk] Japanese trade promotion group led by ex-foreign minister visits China -Nikkei
-- 09/27 21:40 [FirstSquawk] Pakistan information ministry rejects Afghan allegations of backing fighters in Nuristan, denies training ex-Afghan security personnel
 - 09/27 21:54 [financialjuice/FirstSquawk] UK police on Fairford air base incident: 5 men arrested near RAF Fairford
 - 09/27 21:54 [financialjuice/FirstSquawk] UK police on Fairford air base incident: men held in custody
 - 09/27 21:54 [financialjuice/FirstSquawk] UK police: 85 households told to evacuate
@@ -148,3 +146,16 @@
 - 09/28 09:22 [FirstSquawk] BANK OF JAPAN MINUTES SHOW MANY MEMBERS SAID UNDERLYING INFLATION IS NEARING 2%, REQUIRING A FOCUS ON STABILISING PRICE GROWTH AROUND THAT LEVEL RATHER THAN PUSHING UP INFLATION, WITH MANY NOTING MEDIUM- AND LONG-TERM INFLATION EXPECTATIONS…
 - 09/28 09:22 [FirstSquawk] BANK OF JAPAN MINUTES SHOW MEMBERS CONCURRED THAT FX VOLATILITY IMPACTS THE ECONOMY AND PRICES MORE THAN BEFORE AS FIRMS INCREASE PASS-THROUGH OF RISING IMPORT COSTS, WITH ONE MEMBER NOTING RISING UPSIDE PRICE RISKS AS A WEAK YEN AND MIDDLE…
 - 09/28 09:23 [FirstSquawk] BANK OF JAPAN MINUTES SHOW SEVERAL MEMBERS SAID IT WAS DIFFICULT TO ANTICIPATE THE PACE AND TIMING OF FUTURE RATE INCREASES, WITH ONE SAYING THE BANK MUST SPEED UP RATE HIKES AS INFLATION RISKS COULD CAUSE SIGNIFICANT HARM, ANOTHER NOTING M…
+- 09/28 09:27 [FirstSquawk] 30-year JGB yield rises 1.0bp to 4.165%
+- 09/28 09:30 [financialjuice] Momenta: two firms to jointly develop enhanced driver-assistance system for new mass-produced Peugeot and Jeep models
+- 09/28 09:30 [financialjuice] Momenta: technology to be deployed in China, Europe and other worldwide markets
+- 09/28 09:30 [financialjuice] Momenta enters global strategic alliance with Dongfeng Stellantis automotive technology (Wuhan) Co
+- 09/28 09:31 [FirstSquawk] Asia-Pacific markets open the week cautiously after Trump rejects Iran proposal while signaling renewed talks
+- 09/28 09:32 [FirstSquawk] Gold prices slide more than 1%, with spot gold at $4,233.12/oz
+- 09/28 09:33 [FirstSquawk] GLOBAL MARKETS OPENED THE WEEK UNDER PRESSURE AFTER PRESIDENT TRUMP REJECTED IRAN'S LATEST PROPOSAL TO REOPEN THE STRAIT OF HORMUZ, LIFTING BRENT CRUDE TO AROUND $105.70 AND WTI TO $93.26, WITH RISING OIL PRICES FUELING INFLATION CONCERNS A…
+- 09/28 09:33 [FirstSquawk] MARKETS ALSO REACTED TO TRUMP'S COMMENTS THAT HE EXPECTS IRAN NEGOTIATIONS TO RESUME THIS WEEK DESPITE REJECTING TEHRAN'S OFFER AND THAT HE IS 'VERY SERIOUSLY' CONSIDERING A U.S. DIESEL EXPORT BAN — A MOVE THAT COULD TIGHTEN GLOBAL FUEL SUP…
+- 09/28 09:34 [FirstSquawk] Startup Red Queen Bio turns to AI to prepare antibody drugs for future pandemics - WSJ
+- 09/28 09:35 [FirstSquawk] Prada looks to attract ultra-wealthy shoppers with high-end experiences and $100,000 designs - WSJ
+- 09/28 09:36 [FirstSquawk] US SAYS NO PLANS TO SELL WEAPONS TO CHINA AFTER PERDUE COMMENTS – WSJ
+- 09/28 09:39 [FirstSquawk] Australian dollar slips toward 0.7000 as hawkish Fed signals weigh ahead of RBA decision - FX
+- 09/28 09:50 [FirstSquawk] Seoul equities start lower despite overnight gains on Wall Street
