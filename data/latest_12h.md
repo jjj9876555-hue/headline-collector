@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-29 06:20 JST／対象: 09/28 18:20 〜 09/29 06:20 JST（時刻はすべて日本時間）
+生成: 2026-09-29 06:34 JST／対象: 09/28 18:34 〜 09/29 06:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 34 | 09/28 18:22 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 171 | 09/28 18:21 | 09/29 05:29 | 31分（02:57→03:29） |
-| financialjuice | 200 | 09/28 18:20 | 09/29 06:11 | 40分（18:20→19:01） |
+| DeItaone | 33 | 09/28 18:43 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
+| FirstSquawk | 166 | 09/28 18:44 | 09/29 05:29 | 31分（02:57→03:29） |
+| financialjuice | 199 | 09/28 19:01 | 09/29 06:11 | 23分（03:04→03:28） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 390 行（統合前 409 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 383 行（統合前 402 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 18:20 [financialjuice] Kremlin: US-Russia arms talks should have been resumed; the situation is so complex that long negotiations will be needed when they do resume.
-- 09/28 18:21 [FirstSquawk] KREMLIN STATES THAT UKRAINE MUST FACE CONSEQUENCES FOR ITS RECENT ACTIVITIES.
-- 09/28 18:21 [FirstSquawk] KREMLIN STATES THAT US-RUSSIA ARMS DISCUSSIONS SHOULD CONTINUE AS THE SITUATION IS COMPLICATED AND WILL REQUIRE EXTENSIVE NEGOTIATIONS ONCE RESTARTED.
-- 09/28 18:22 [DeItaone] KREMLIN: UKRAINE WILL HAVE TO PAY THE PRICE FOR ITS ACTIONS IN RECENT MONTHS, THIS IS WHAT IS HAPPENING NOW
-- 09/28 18:23 [FirstSquawk] STREETING SAYS WE NEED TO STEP UP, SPEND MORE ON DEFENSE
-- 09/28 18:23 [FirstSquawk] STREETING: REITERATES 3.5% SPEND ON DEFENSE BY 2035
-- 09/28 18:29 [FirstSquawk] STREETING SAYS UK COMMITS TO KEEPING NUKE SUB CONTRACT IN BRITAIN
 - 09/28 18:43 [DeItaone] https://t.co/nx9ngNPg2L
 - 09/28 18:44 [FirstSquawk] UK FOREIGN SECRETARY MILIBAND: THE WORLD ORDER NEEDS REBUILDING
 - 09/28 18:55 [FirstSquawk] MILIBAND STATES THAT THEY WILL KEEP ISOLATING IRAN UNTIL THE STRAIT OF HORMUZ IS REOPENED.

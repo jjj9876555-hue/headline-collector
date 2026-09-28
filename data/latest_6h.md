@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-29 06:20 JST／対象: 09/29 00:20 〜 09/29 06:20 JST（時刻はすべて日本時間）
+生成: 2026-09-29 06:34 JST／対象: 09/29 00:34 〜 09/29 06:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/29 00:35 | 09/29 02:14 | ⚠ 54分（00:44→01:39） |
-| FirstSquawk | 75 | 09/29 00:32 | 09/29 05:29 | 31分（02:57→03:29） |
-| financialjuice | 101 | 09/29 00:23 | 09/29 06:11 | 23分（03:04→03:28） |
+| FirstSquawk | 73 | 09/29 00:35 | 09/29 05:29 | 31分（02:57→03:29） |
+| financialjuice | 94 | 09/29 00:34 | 09/29 06:11 | 23分（03:04→03:28） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 179 行（統合前 190 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 170 行（統合前 181 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 00:23 [financialjuice] US Secretary of State Rubio met with Lebanese PM Mikati in Washington - Israel's Channel 12 News
-- 09/29 00:32 [FirstSquawk] BRITAIN'S FTSE 100 UP 0.05%; GERMANY'S DAX DOWN 0.01%
-- 09/29 00:32 [financialjuice] US 6-MONTH BILL HIGH YIELD ACTUAL 4.285% (FORECAST -, PREVIOUS 4.155%) $MACRO
-- 09/29 00:32 [FirstSquawk] FRANCE'S CAC 40 UP 0.14%; SPAIN'S IBEX DOWN 0.33%
-- 09/29 00:32 [financialjuice] US 6-MONTH BILL BID-TO-COVER ACTUAL 2.64 (FORECAST -, PREVIOUS 2.620) $MACRO
-- 09/29 00:32 [financialjuice] US 3-MONTH BILL BID-TO-COVER ACTUAL 2.99 (FORECAST -, PREVIOUS 2.770) $MACRO
-- 09/29 00:32 [financialjuice] US 3-MONTH BILL HIGH YIELD ACTUAL 4.11% (FORECAST -, PREVIOUS 4.015%) $MACRO
-- 09/29 00:32 [financialjuice] US 3-MONTH AWARDED HIGH ACTUAL 61.140% (FORECAST -, PREVIOUS 36.660%) $MACRO
-- 09/29 00:32 [financialjuice] US 6-MONTH AWARDED HIGH ACTUAL 37.890% (FORECAST -, PREVIOUS 48.010%) $MACRO
 - 09/29 00:34 [financialjuice/FirstSquawk] TotalEnergies CEO: There was a big debate whether we should declare force majeure on LNG
 - 09/29 00:35 [FirstSquawk/DeItaone] STOCKS OF CRUDE OIL IN US STRATEGIC PETROLEUM RESERVE FELL TO 283.8 MLN BARRELS LAST WEEK, LOWEST SINCE 1982
 - 09/29 00:37 [financialjuice] Nvidia, OpenAI invited to Trump-Johnson meeting - Semafor. $NVDA
