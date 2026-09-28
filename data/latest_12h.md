@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-28 23:50 JST／対象: 09/28 11:50 〜 09/28 23:50 JST（時刻はすべて日本時間）
+生成: 2026-09-29 00:04 JST／対象: 09/28 12:04 〜 09/29 00:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 25 | 09/28 16:28 | 09/28 23:28 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 157 | 09/28 11:50 | 09/28 23:41 | 27分（16:10→16:38） |
-| financialjuice | 115 | 09/28 13:26 | 09/28 23:49 | ⚠ 59分（14:00→15:00） |
+| FirstSquawk | 159 | 09/28 12:07 | 09/29 00:02 | 27分（16:10→16:38） |
+| financialjuice | 117 | 09/28 13:26 | 09/28 23:54 | ⚠ 59分（14:00→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 291 行（統合前 299 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 295 行（統合前 303 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 11:50 [FirstSquawk] South Korea’s plan to provide airline meals to deportees sparks disagreement among officials - SCMP
-- 09/28 11:51 [FirstSquawk] Chinese wealthy buyers turn to Italy for property, attracted by lifestyle and tax benefits - SCMP
-- 09/28 11:54 [FirstSquawk] Gold spot price extends decline, last down 2% at $4,201.18/oz
-- 09/28 11:54 [FirstSquawk] Palladium spot price drops 3% to $1,229.42/oz
 - 09/28 12:07 [FirstSquawk] Northern Star declines Gold Fields’ $27 billion takeover offer - WSJ
 - 09/28 12:08 [FirstSquawk] Australia’s Ingenia receives improved $1.5 billion offer from Warburg Pincus - WSJ
 - 09/28 12:21 [FirstSquawk] South Korean regulator plans 14.8 billion won in fines for barbecue chain operator
@@ -315,3 +311,11 @@
 - 09/28 23:41 [FirstSquawk] TOTALENERGIES CEO: WE ARE MORE AND MORE CONFIDENT WE'LL FIND MORE OIL IN THE SURINAME BASIN
 - 09/28 23:48 [financialjuice] Explosions heard in the Saudi cities of Yanbu, Jazan and Najran in the past few hours, according to Saudi media reports - Fars News
 - 09/28 23:49 [financialjuice] ECB's President Lagarde: Energy subsidy impact on inflation seen by staff at 0.1%
+- 09/28 23:50 [FirstSquawk] EXPLOSIONS REPORTED IN YANBU, JAZAN, AND NAJRAN CITIES IN SAUDI ARABIA, AS PER SAUDI MEDIA SOURCES.
+- 09/28 23:51 [FirstSquawk] TOTAL CEO SAYS US DIESEL EXPORT BAN IS 'A BAD IDEA'
+- 09/28 23:52 [financialjuice] ❗ Iran's Foreign Ministry Spokesperson Baghaei: Iran’s Foreign Minister Araghchi's presence in New York has not been extended - IRIB News
+- 09/28 23:54 [financialjuice] Iran's Foreign Ministry Spokesperson Baghaei: The Foreign Minister's return to Tehran will be according to the previous schedule - IRIB News
+- 09/28 23:54 [FirstSquawk] TOTAL CEO: EUROPE WOULD HAVE TO RELEASE SPR ON US DIESEL BAN
+- 09/28 23:58 [FirstSquawk] US 10-YEAR TREASURY YIELD INCREASES BY 10 BASIS POINTS TO 5.27%.
+- 09/28 23:59 [FirstSquawk] IRAN FOREIGN MINISTER'S NEW YORK STAY HAS NOT BEEN EXTENDED, SAYS SPOKESPERSON
+- 09/29 00:02 [FirstSquawk] SPACEX: CONNECTION ESTABLISHED WITH ALL 26 V3 SATELLITES

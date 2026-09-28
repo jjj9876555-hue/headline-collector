@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-28 23:50 JST／対象: 09/28 17:50 〜 09/28 23:50 JST（時刻はすべて日本時間）
+生成: 2026-09-29 00:04 JST／対象: 09/28 18:04 〜 09/29 00:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 22 | 09/28 18:13 | 09/28 23:28 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 92 | 09/28 17:54 | 09/28 23:41 | 15分（18:29→18:44） |
-| financialjuice | 98 | 09/28 18:00 | 09/28 23:49 | 40分（18:20→19:01） |
+| FirstSquawk | 96 | 09/28 18:08 | 09/29 00:02 | 15分（18:29→18:44） |
+| financialjuice | 98 | 09/28 18:20 | 09/28 23:54 | 40分（18:20→19:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 206 行（統合前 214 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 210 行（統合前 218 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 17:54 [FirstSquawk] NHC: LIFE-THREATENING WINDS AND FLASH FLOODS EXPECTED OVER PORTIONS OF BAJA CALIFORNIA SUR AND SONORA TODAY AND TUESDAY, CONDITIONS EXPECTED TO BEGIN DETERIORATING THIS MORNING IN BAJA CALIFORNIA SUR
-- 09/28 18:00 [financialjuice] NVIDIA Openshell and sentry are meant to keep AI agents in line.
-- 09/28 18:01 [financialjuice] Nvidia introduces open-source tool duo to boost AI security. $NVDA
-- 09/28 18:03 [FirstSquawk] NVIDIA DEBUTS SYSTEM DESIGNED TO STOP AI AGENTS GOING AWRY || INTRODUCES OPEN-SOURCE TOOL DUO TO BOOST AI SECURITY || OPENSHELL AND SENTRY ARE MEANT TO KEEP AI AGENTS IN LINE || TECHNOLOGY COULD HAVE PREVENTED HUGGING FACE BREACH
 - 09/28 18:08 [FirstSquawk] US 10-YEAR YIELD INCREASES 7 BASIS POINTS TO 5.23%, HIGHEST LEVEL SINCE 2007.
 - 09/28 18:13 [DeItaone] US 10-YEAR YIELD RISES 7BPS TO 5.23%, HIGHEST SINCE 2007
 - 09/28 18:18 [FirstSquawk] STREETING SAYS WHEN ALLIES CALL, BRITAIN ANSWERS
@@ -230,3 +226,11 @@
 - 09/28 23:41 [FirstSquawk] TOTALENERGIES CEO: WE ARE MORE AND MORE CONFIDENT WE'LL FIND MORE OIL IN THE SURINAME BASIN
 - 09/28 23:48 [financialjuice] Explosions heard in the Saudi cities of Yanbu, Jazan and Najran in the past few hours, according to Saudi media reports - Fars News
 - 09/28 23:49 [financialjuice] ECB's President Lagarde: Energy subsidy impact on inflation seen by staff at 0.1%
+- 09/28 23:50 [FirstSquawk] EXPLOSIONS REPORTED IN YANBU, JAZAN, AND NAJRAN CITIES IN SAUDI ARABIA, AS PER SAUDI MEDIA SOURCES.
+- 09/28 23:51 [FirstSquawk] TOTAL CEO SAYS US DIESEL EXPORT BAN IS 'A BAD IDEA'
+- 09/28 23:52 [financialjuice] ❗ Iran's Foreign Ministry Spokesperson Baghaei: Iran’s Foreign Minister Araghchi's presence in New York has not been extended - IRIB News
+- 09/28 23:54 [financialjuice] Iran's Foreign Ministry Spokesperson Baghaei: The Foreign Minister's return to Tehran will be according to the previous schedule - IRIB News
+- 09/28 23:54 [FirstSquawk] TOTAL CEO: EUROPE WOULD HAVE TO RELEASE SPR ON US DIESEL BAN
+- 09/28 23:58 [FirstSquawk] US 10-YEAR TREASURY YIELD INCREASES BY 10 BASIS POINTS TO 5.27%.
+- 09/28 23:59 [FirstSquawk] IRAN FOREIGN MINISTER'S NEW YORK STAY HAS NOT BEEN EXTENDED, SAYS SPOKESPERSON
+- 09/29 00:02 [FirstSquawk] SPACEX: CONNECTION ESTABLISHED WITH ALL 26 V3 SATELLITES

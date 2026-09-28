@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-28 23:50 JST／対象: 09/27 23:50 〜 09/28 23:50 JST（時刻はすべて日本時間）
+生成: 2026-09-29 00:04 JST／対象: 09/28 00:04 〜 09/29 00:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 30 | 09/28 00:04 | 09/28 23:28 | ⚠ 562分（07:06→16:28） |
-| FirstSquawk | 258 | 09/27 23:51 | 09/28 23:41 | ⚠ 78分（08:02→09:21） |
-| financialjuice | 187 | 09/27 23:52 | 09/28 23:49 | ⚠ 145分（00:29→02:54） |
+| FirstSquawk | 254 | 09/28 00:24 | 09/29 00:02 | ⚠ 78分（08:02→09:21） |
+| financialjuice | 185 | 09/28 00:07 | 09/28 23:54 | ⚠ 145分（00:29→02:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 465 行（統合前 478 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 461 行（統合前 472 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 23:51 [FirstSquawk] Araqchi to NBC: We are as ready to negotiate as we are to confront any aggression, even if it comes to a devastating war
-- 09/27 23:52 [financialjuice] Libya's NOC: first refining units at Zawiya refinery, crude oil flow through main Sharara-Zawiya pipeline resumed after valve 7 reopening - statement
-- 09/27 23:52 [FirstSquawk] US Treasury Secretary: China has significantly reduced its aid to Iran
-- 09/27 23:52 [FirstSquawk] US Treasury Secretary to Fox News: We allowed more than a billion barrels of oil to leave the Strait of Hormuz in exchange for zero barrels for Iran.
-- 09/27 23:52 [FirstSquawk] US Treasury Secretary: Iran's economic isolation will be implemented in phases and includes cryptocurrencies, aviation, and maritime transport.
-- 09/27 23:52 [FirstSquawk] Hezbollah Secretary General: The authorities in Lebanon are aiding the Israeli-American project instead of confronting it.
-- 09/27 23:53 [FirstSquawk] Hezbollah Secretary General: The resistance fighters held out in Ali al-Taher for 3 months, but preserving the location is not the priority.
-- 09/27 23:53 [FirstSquawk] Trump: We are working with Britain on the investigation into the Fairford base and we know there was an attempt to harm us
-- 09/27 23:53 [FirstSquawk] Hezbollah Secretary General: We are ready for dialogue, but how can we negotiate with those who have deemed the resistance to be outside the law?
-- 09/27 23:53 [FirstSquawk] Hezbollah Secretary General: The president has the right to negotiate, but he does not have the right to violate the constitution and relinquish Lebanon's right to prosecute the enemy.
-- 09/27 23:53 [FirstSquawk] Ukrainian Emergency Service: Two dead and five injured in Russian shelling of Sumy city center
-- 09/27 23:58 [financialjuice] Trump tells Axios: expects US negotiators to hold more talks with Iran this week
-- 09/28 00:00 [financialjuice/FirstSquawk] South Korea expresses strong regret over Ukraine's refusal of nondisclosure agreement on North Korean POWs - Yonhap
-- 09/28 00:02 [financialjuice/FirstSquawk] South Korean presidency: country contemplating extra actions on issue - Yonhap
 - 09/28 00:04 [DeItaone] TRUMP TELLS AXIOS THAT HE EXPECTS US NEGOTIATORS TO ENGAGE IN MORE TALKS WITH IRAN THIS WEEK
 - 09/28 00:07 [financialjuice/FirstSquawk] China considers permitting ByteDance, Alibaba to buy new Nvidia chips - The Information
 - 09/28 00:24 [FirstSquawk] Trump to Axios: I expect US negotiators to hold more talks with Iran this week
@@ -50,6 +36,8 @@
 - 09/28 00:25 [FirstSquawk] Trump to Axios: The Iranians want to make a deal, but it's not the one I want, and we probably would have agreed to it a year ago.
 - 09/28 00:29 [financialjuice/FirstSquawk] Anthropic's Dario Amodei to attend White House dinner with Trump: Axios
 - 09/28 00:30 [FirstSquawk] TRUMP ON TRUTH SOCIAL: The Supreme Court of the United States will just not let Missouri have an Election Victory. They continuously, three times now, overrule Judges who came to the correct decisions. Thank you to the Governor, and all of …
+- 09/28 01:15 [FirstSquawk] South Korea expresses strong regret over Ukraine's refusal of nondisclosure agreement on North Korean POWs - Yonhap
+- 09/28 01:15 [FirstSquawk] South Korean presidency: country contemplating extra actions on issue - Yonhap
 - 09/28 01:38 [FirstSquawk] Iranian President: If America accepts the legal frameworks and our rights, we have no dispute with them; otherwise, we will never back down.
 - 09/28 01:38 [FirstSquawk] WSJ, citing a US official: Threat level raised at British base Fairford Saturday evening
 - 09/28 01:39 [FirstSquawk] WSJ, citing a US official: Fairford base is a key launchpad for military operations targeting Iran
@@ -489,3 +477,11 @@
 - 09/28 23:41 [FirstSquawk] TOTALENERGIES CEO: WE ARE MORE AND MORE CONFIDENT WE'LL FIND MORE OIL IN THE SURINAME BASIN
 - 09/28 23:48 [financialjuice] Explosions heard in the Saudi cities of Yanbu, Jazan and Najran in the past few hours, according to Saudi media reports - Fars News
 - 09/28 23:49 [financialjuice] ECB's President Lagarde: Energy subsidy impact on inflation seen by staff at 0.1%
+- 09/28 23:50 [FirstSquawk] EXPLOSIONS REPORTED IN YANBU, JAZAN, AND NAJRAN CITIES IN SAUDI ARABIA, AS PER SAUDI MEDIA SOURCES.
+- 09/28 23:51 [FirstSquawk] TOTAL CEO SAYS US DIESEL EXPORT BAN IS 'A BAD IDEA'
+- 09/28 23:52 [financialjuice] ❗ Iran's Foreign Ministry Spokesperson Baghaei: Iran’s Foreign Minister Araghchi's presence in New York has not been extended - IRIB News
+- 09/28 23:54 [financialjuice] Iran's Foreign Ministry Spokesperson Baghaei: The Foreign Minister's return to Tehran will be according to the previous schedule - IRIB News
+- 09/28 23:54 [FirstSquawk] TOTAL CEO: EUROPE WOULD HAVE TO RELEASE SPR ON US DIESEL BAN
+- 09/28 23:58 [FirstSquawk] US 10-YEAR TREASURY YIELD INCREASES BY 10 BASIS POINTS TO 5.27%.
+- 09/28 23:59 [FirstSquawk] IRAN FOREIGN MINISTER'S NEW YORK STAY HAS NOT BEEN EXTENDED, SAYS SPOKESPERSON
+- 09/29 00:02 [FirstSquawk] SPACEX: CONNECTION ESTABLISHED WITH ALL 26 V3 SATELLITES
