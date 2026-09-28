@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-29 02:20 JST／対象: 09/28 14:20 〜 09/29 02:20 JST（時刻はすべて日本時間）
+生成: 2026-09-29 02:35 JST／対象: 09/28 14:35 〜 09/29 02:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 38 | 09/28 16:28 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 161 | 09/28 14:29 | 09/29 02:07 | 27分（16:10→16:38） |
-| financialjuice | 156 | 09/28 15:00 | 09/29 02:20 | ⚠ 54分（16:02→16:56） |
+| FirstSquawk | 164 | 09/28 14:36 | 09/29 02:35 | 27分（16:10→16:38） |
+| financialjuice | 167 | 09/28 15:00 | 09/29 02:32 | ⚠ 54分（16:02→16:56） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 344 行（統合前 359 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 358 行（統合前 373 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 14:29 [FirstSquawk] Shell target price raised to 4,165p from 3,965p by TD Cowen
-- 09/28 14:32 [FirstSquawk] Xiaomi-backed robotics chipmaker eyes $100 million Hong Kong listing-scmp
 - 09/28 14:36 [FirstSquawk] Russian Defence Ministry says cargo ship was struck in Black Sea
 - 09/28 15:00 [financialjuice] SWEDISH TRADE BALANCE ACTUAL -11.9B (FORECAST -, PREVIOUS 1.2B) $MACRO
 - 09/28 15:00 [FirstSquawk] SWEDEN (AUG) TRADE BALANCE ACTUAL: -11.9B VS 1.2B PREVIOUS
@@ -368,3 +366,19 @@
 - 09/29 02:14 [DeItaone] Iran Agrees To Suspend Uranium Enrichment In Exchange For US Sanctions Relief - Al Hadath
 - 09/29 02:19 [financialjuice] American source engaged in negotiations with Iran to Al Arabiya: The chances of an agreement are extremely slim.
 - 09/29 02:20 [financialjuice] US Source engaged in negotiations with Iran to Al Arabiya: Gaps are wide and obstacles are major
+- 09/29 02:25 [financialjuice] Fed's Cook: Number and magnitude of any future rate adjustments will be informed by inflation and labor market data, and the economy's reaction to the Fed's actions so far
+- 09/29 02:26 [financialjuice] Fed's Cook: Highly attentive to AI potentially causing a temporary rise in unemployment; Fed has limited tools, rate cuts could fuel inflation
+- 09/29 02:26 [financialjuice] Fed's Cook: Expect to see continued inflation pressure in coming months, from artificial intelligence and conflict in the Middle East
+- 09/29 02:26 [financialjuice] Fed's Cook: Hope pace of AI adoption will minimize net job losses
+- 09/29 02:26 [financialjuice] Fed's Cook: See some economy-wide pressure from AI-fueled demand
+- 09/29 02:26 [financialjuice] Fed's Cook: Those gains will not come in time to offset broadening inflation this year; signs of broadening pressure in inflation data
+- 09/29 02:26 [financialjuice] Fed's Cook: Limited evidence to date that al is changing labor market structure.
+- 09/29 02:27 [financialjuice] Fed's Cook: Fed would have limited tools to help in such a case. Lowering rates could fuel inflation.
+- 09/29 02:27 [financialjuice] Fed's Cook Speech
+- 09/29 02:28 [FirstSquawk] IRAN REPORTEDLY AGREES TO HALT URANIUM ENRICHMENT IN EXCHANGE FOR US SANCTIONS RELIEF — AL HADATH, CITING SOURCES
+- 09/29 02:29 [financialjuice] Fed's Barkin: Low unemployment rate is a key factor for consumption
+- 09/29 02:29 [FirstSquawk] THE NYC SPEAKER SAYS OPENAI, ANTHROPIC, GOOGLE AND META HAVE ALL AGREED TO TESTIFY, WHILE THE COUNCIL HAS ISSUED A SUBPOENA FOR SPACEXAI TO TESTIFY
+- 09/29 02:30 [FirstSquawk] A U.S. SOURCE ENGAGED IN NEGOTIATIONS WITH IRAN TELLS AL ARABIYA THAT 'THE GAPS ARE WIDE AND OBSTACLES ARE MAJOR', ADDING THAT 'THE CHANCES OF AN AGREEMENT ARE EXTREMELY SLIM'
+- 09/29 02:31 [FirstSquawk] HAPAG-LLOYD SEES FY EBITDA BETWEEN $3.9 BLN AND $4.4 BLN AND FY2026 GROUP EBIT IN A $1.25 BLN-$1.75 BLN RANGE, ADDING THAT AGAINST A BACKDROP OF VOLATILE FREIGHT RATES AND PERSISTENT GEOPOLITICAL CHALLENGES, THE FORECAST IS SUBJECT TO A HIG…
+- 09/29 02:32 [financialjuice] Fed's Barkin: Wouldn't say AI is immune to rate pressure
+- 09/29 02:35 [FirstSquawk] PENNSYLVANIA REPORTS 903 MEASLES CASES, INCLUDING 176 HOSPITALIZATIONS, AS OF SEPTEMBER 28 — HEALTH DEPARTMENT
