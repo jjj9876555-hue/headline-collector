@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-29 08:17 JST／対象: 09/28 20:17 〜 09/29 08:17 JST（時刻はすべて日本時間）
+生成: 2026-09-29 08:33 JST／対象: 09/28 20:33 〜 09/29 08:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 20 | 09/28 20:19 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 144 | 09/28 20:19 | 09/29 07:48 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 194 | 09/28 20:17 | 09/29 08:16 | 30分（07:45→08:16） |
+| DeItaone | 19 | 09/28 20:38 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
+| FirstSquawk | 140 | 09/28 20:42 | 09/29 07:48 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 190 | 09/28 20:35 | 09/29 08:16 | 30分（07:45→08:16） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 344 行（統合前 362 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 335 行（統合前 353 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 20:17 [financialjuice] UK finance Minister Healey: We will meet fiscal rules
-- 09/28 20:19 [FirstSquawk] SAUDI ARABIA ISSUES WARNING ALERT IN JAZAN, NAJRAN
-- 09/28 20:19 [DeItaone] SAUDI ARABIA'S EAST-WEST PIPELINE HAS RESUMED OIL EXPORTS
-- 09/28 20:21 [FirstSquawk] SAUDI CIVIL DEFENCE SAYS DANGER HAS PASSED IN JAZAN AND NAJRAN - STATE TV
-- 09/28 20:25 [FirstSquawk] UK CHANCELLOR HEALEY: THE CORE OF THE BUDGET WILL BE FISCAL DISCIPLINE
-- 09/28 20:25 [financialjuice] UK Finance Minister Healey: It falls to us to act to reduce the welfare bill
-- 09/28 20:30 [financialjuice] Citi partners with Coinbase to enable stablecoin payments for institutional clients - WSJ
-- 09/28 20:32 [financialjuice] Citi Expands Digital-Assets Footprint With Coinbase Partnership - WSJ
-- 09/28 20:33 [FirstSquawk] U.S. AND CHINA UNVEIL $30B TARIFF CUTS FOLLOWING TRUMP AND XI'S MEETING.
 - 09/28 20:35 [financialjuice] AI firm Instinct raised $1B at a $10B valuation - NYT DealBook
 - 09/28 20:38 [financialjuice] US Health Sec. Azar: We will make sure Britain wins in AI revolution
 - 09/28 20:38 [DeItaone] $META - META PRICE TARGET RAISED TO $830 Monness Crespi Hardt raised its Meta price target to $830 from $730, maintaining a Buy rating. The firm says early traction for Meta’s Muse personal AI agent and its broader AI strategy have started …
