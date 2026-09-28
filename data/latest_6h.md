@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-28 16:37 JST／対象: 09/28 10:37 〜 09/28 16:37 JST（時刻はすべて日本時間）
+生成: 2026-09-28 16:54 JST／対象: 09/28 10:54 〜 09/28 16:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 1 | 09/28 16:28 | 09/28 16:28 | - |
-| FirstSquawk | 59 | 09/28 10:44 | 09/28 16:10 | 24分（15:27→15:51） |
-| financialjuice | 10 | 09/28 10:40 | 09/28 16:02 | ⚠ 115分（11:30→13:26） |
+| DeItaone | 2 | 09/28 16:28 | 09/28 16:48 | 19分（16:28→16:48） |
+| FirstSquawk | 59 | 09/28 10:56 | 09/28 16:39 | 27分（16:10→16:38） |
+| financialjuice | 9 | 09/28 11:30 | 09/28 16:02 | ⚠ 115分（11:30→13:26） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 70 行（統合前 70 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,11 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 10:40 [financialjuice] S.Korea central bank: sells 91-day monetary stabilisation bonds at 3.140% yield
-- 09/28 10:44 [FirstSquawk] Bank of Korea sells 91-day Monetary Stabilisation Bonds at 3.140% yield
-- 09/28 10:44 [FirstSquawk] Nissan Americas: US dealer supply now around 50 days, down from 100 days in January 2025
-- 09/28 10:45 [FirstSquawk] 2-year Japanese government bond yield advances 3.0 bps to 1.965%
-- 09/28 10:52 [FirstSquawk] Silver spot price drops nearly 3% to $62.40/oz
 - 09/28 10:56 [FirstSquawk] Nissan chairman sees little chance of US market opening to Chinese automakers over next five years
 - 09/28 11:12 [FirstSquawk] Cathay Pacific suspends passenger flights to Dubai and Riyadh through Jan. 31, 2027
 - 09/28 11:13 [FirstSquawk] Cathay Cargo yet to set timing for resuming freighter services to Dubai, Riyadh
@@ -94,3 +89,8 @@
 - 09/28 16:02 [FirstSquawk] Gold spot price drops nearly 3% to $4,163.69/oz
 - 09/28 16:10 [FirstSquawk] UK HOME BUILDER STOCKS RISE FOLLOWING NEW INITIATIVE TO ASSIST FIRST-TIME BUYERS.
 - 09/28 16:28 [DeItaone] YEMENI FORCES STRIKE HOUTHI TARGETS Yemeni government forces launched multiple airstrikes against Houthi positions west of Taiz, according to Al Arabiya citing Yemeni sources. The strikes reportedly targeted several Houthi sites in the Al-R…
+- 09/28 16:38 [FirstSquawk] KKR-BACKED ADVANTA IS REPORTEDLY BEGINNING A ROAD SHOW FOR A $400 MILLION INITIAL PUBLIC OFFERING.
+- 09/28 16:38 [FirstSquawk] SWEDISH PM ANDERSSON STATES GOVERNMENT FORMATION IS NOT POSSIBLE.
+- 09/28 16:38 [FirstSquawk] SWEDEN'S ANDERSSON RETURNS GOVERNMENT FORMATION MANDATE.
+- 09/28 16:39 [FirstSquawk] SPOT GOLD FALLS OVER 3% UNDER $4,155 AN OUNCE.
+- 09/28 16:48 [DeItaone] TRUMP SERIOUSLY CONSIDERS U.S. DIESEL EXPORT BAN President Trump said the U.S. is “very seriously” considering restricting diesel exports, despite concerns it could push gasoline prices higher. Trump blamed current fuel pressures largely on…

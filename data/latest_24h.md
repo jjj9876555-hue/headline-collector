@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-28 16:37 JST／対象: 09/27 16:37 〜 09/28 16:37 JST（時刻はすべて日本時間）
+生成: 2026-09-28 16:54 JST／対象: 09/27 16:54 〜 09/28 16:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 6 | 09/28 00:04 | 09/28 16:28 | ⚠ 562分（07:06→16:28） |
-| FirstSquawk | 200 | 09/27 17:03 | 09/28 16:10 | ⚠ 78分（08:02→09:21） |
+| DeItaone | 7 | 09/28 00:04 | 09/28 16:48 | ⚠ 562分（07:06→16:28） |
+| FirstSquawk | 204 | 09/27 17:03 | 09/28 16:39 | ⚠ 78分（08:02→09:21） |
 | financialjuice | 98 | 09/27 17:39 | 09/28 16:02 | ⚠ 145分（00:29→02:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 293 行（統合前 305 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 298 行（統合前 310 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -317,3 +317,8 @@
 - 09/28 16:02 [FirstSquawk] Gold spot price drops nearly 3% to $4,163.69/oz
 - 09/28 16:10 [FirstSquawk] UK HOME BUILDER STOCKS RISE FOLLOWING NEW INITIATIVE TO ASSIST FIRST-TIME BUYERS.
 - 09/28 16:28 [DeItaone] YEMENI FORCES STRIKE HOUTHI TARGETS Yemeni government forces launched multiple airstrikes against Houthi positions west of Taiz, according to Al Arabiya citing Yemeni sources. The strikes reportedly targeted several Houthi sites in the Al-R…
+- 09/28 16:38 [FirstSquawk] KKR-BACKED ADVANTA IS REPORTEDLY BEGINNING A ROAD SHOW FOR A $400 MILLION INITIAL PUBLIC OFFERING.
+- 09/28 16:38 [FirstSquawk] SWEDISH PM ANDERSSON STATES GOVERNMENT FORMATION IS NOT POSSIBLE.
+- 09/28 16:38 [FirstSquawk] SWEDEN'S ANDERSSON RETURNS GOVERNMENT FORMATION MANDATE.
+- 09/28 16:39 [FirstSquawk] SPOT GOLD FALLS OVER 3% UNDER $4,155 AN OUNCE.
+- 09/28 16:48 [DeItaone] TRUMP SERIOUSLY CONSIDERS U.S. DIESEL EXPORT BAN President Trump said the U.S. is “very seriously” considering restricting diesel exports, despite concerns it could push gasoline prices higher. Trump blamed current fuel pressures largely on…
