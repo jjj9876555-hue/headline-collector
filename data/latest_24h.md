@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-28 14:35 JST／対象: 09/27 14:35 〜 09/28 14:35 JST（時刻はすべて日本時間）
+生成: 2026-09-28 14:52 JST／対象: 09/27 14:52 〜 09/28 14:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 09/28 00:04 | 09/28 07:06 | ⚠ 368分（00:04→06:12） |
-| FirstSquawk | 198 | 09/27 14:48 | 09/28 14:32 | ⚠ 78分（08:02→09:21） |
+| FirstSquawk | 198 | 09/27 14:59 | 09/28 14:36 | ⚠ 78分（08:02→09:21） |
 | financialjuice | 96 | 09/27 16:30 | 09/28 14:00 | ⚠ 145分（00:29→02:54） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,7 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 14:48 [FirstSquawk] Trump-Xi summit frequency could prove more significant than substance - KYODO
 - 09/27 14:59 [FirstSquawk] China fuels rapid expansion of AI-generated video into a commercial industry — Kyodo
 - 09/27 15:25 [FirstSquawk] 17 killed, at tavern in Carletonville, South Africa.
 - 09/27 15:26 [FirstSquawk] US Energy Secretary Chris Wright told Fox News that oil flows through the Strait of Hormuz were averaging almost 13 million barrels a day.
@@ -312,3 +311,4 @@
 - 09/28 14:18 [FirstSquawk] TD Cowen raises Equinor target price to NOK 395 from NOK 366
 - 09/28 14:29 [FirstSquawk] Shell target price raised to 4,165p from 3,965p by TD Cowen
 - 09/28 14:32 [FirstSquawk] Xiaomi-backed robotics chipmaker eyes $100 million Hong Kong listing-scmp
+- 09/28 14:36 [FirstSquawk] Russian Defence Ministry says cargo ship was struck in Black Sea

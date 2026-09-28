@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-28 14:35 JST／対象: 09/28 08:35 〜 09/28 14:35 JST（時刻はすべて日本時間）
+生成: 2026-09-28 14:52 JST／対象: 09/28 08:52 〜 09/28 14:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 82 | 09/28 09:21 | 09/28 14:32 | 23分（11:26→11:49） |
-| financialjuice | 56 | 09/28 08:51 | 09/28 14:00 | ⚠ 115分（11:30→13:26） |
+| FirstSquawk | 83 | 09/28 09:21 | 09/28 14:36 | 23分（11:26→11:49） |
+| financialjuice | 53 | 09/28 08:53 | 09/28 14:00 | ⚠ 115分（11:30→13:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 138 行（統合前 138 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 136 行（統合前 136 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 08:51 [financialjuice] BOJ july meeting minutes: members agreed financial conditions remain accommodative
-- 09/28 08:52 [financialjuice] JAPANESE SERVICE PPI ACTUAL 3.7% (FORECAST 3.6%, PREVIOUS 3.6%) $MACRO
-- 09/28 08:52 [financialjuice] BOJ minutes: some members note consumer prices rising, reflecting increased import costs
 - 09/28 08:53 [financialjuice] boj minutes: several members noted companies steadily pass rising raw material costs, sustaining high wholesale inflation
 - 09/28 08:53 [financialjuice] BOJ minutes: many members say medium-, long-term inflation expectations rising for households, companies
 - 09/28 08:54 [financialjuice] BOJ minutes: several members expect consumer goods price increases to expand from summer onward
@@ -162,3 +159,4 @@
 - 09/28 14:18 [FirstSquawk] TD Cowen raises Equinor target price to NOK 395 from NOK 366
 - 09/28 14:29 [FirstSquawk] Shell target price raised to 4,165p from 3,965p by TD Cowen
 - 09/28 14:32 [FirstSquawk] Xiaomi-backed robotics chipmaker eyes $100 million Hong Kong listing-scmp
+- 09/28 14:36 [FirstSquawk] Russian Defence Ministry says cargo ship was struck in Black Sea
