@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-28 23:25 JST／対象: 09/28 11:25 〜 09/28 23:25 JST（時刻はすべて日本時間）
+生成: 2026-09-28 23:50 JST／対象: 09/28 11:50 〜 09/28 23:50 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 24 | 09/28 16:28 | 09/28 22:54 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 154 | 09/28 11:26 | 09/28 23:23 | 27分（16:10→16:38） |
-| financialjuice | 109 | 09/28 11:30 | 09/28 23:24 | ⚠ 115分（11:30→13:26） |
+| DeItaone | 25 | 09/28 16:28 | 09/28 23:28 | ⚠ 126分（20:42→22:49） |
+| FirstSquawk | 157 | 09/28 11:50 | 09/28 23:41 | 27分（16:10→16:38） |
+| financialjuice | 115 | 09/28 13:26 | 09/28 23:49 | ⚠ 59分（14:00→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 281 行（統合前 289 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 291 行（統合前 299 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 11:26 [FirstSquawk] Canadian dollar falls as wider US-Canada rate differential looms - FX
-- 09/28 11:30 [financialjuice] S.Korea finance minister: to pursue balanced policy mix with central bank — ministry
-- 09/28 11:30 [financialjuice] S.Korea finmin: to enhance collaboration with central bank on market oversight - ministry
-- 09/28 11:49 [FirstSquawk] Tropical storm watch issued for southwestern Mexico coast, NHC says
 - 09/28 11:50 [FirstSquawk] South Korea’s plan to provide airline meals to deportees sparks disagreement among officials - SCMP
 - 09/28 11:51 [FirstSquawk] Chinese wealthy buyers turn to Italy for property, attracted by lifestyle and tax benefits - SCMP
 - 09/28 11:54 [FirstSquawk] Gold spot price extends decline, last down 2% at $4,201.18/oz
@@ -305,3 +301,17 @@
 - 09/28 23:22 [financialjuice] Florida asks court to bar OpenAI from developing new models without oversight as part of child harm lawsuit - court filing
 - 09/28 23:23 [FirstSquawk] ECB'S LAGARDE: WORKING ON SWAP LINES FOR EURO AREA SOVEREIGNTY
 - 09/28 23:24 [financialjuice] Loading from Yanbu has been happening since the 22nd of September - Kpler's Energy Reporter Bakr
+- 09/28 23:28 [DeItaone] $GM - TRUMP ADMINISTRATION FORECASTS GENERAL MOTORS TECHNOLOGY COSTS THROUGH 2031 WILL DECLINE BY $20.4 BILLION IN TOTAL AS RESULT OF LOWER FUEL ECONOMY STANDARDS -- DOCUMENT
+- 09/28 23:28 [financialjuice] Houthis: Passage through the Bab-el-Mandeb Strait continues, except for Saudi Arabian ships - ISNA
+- 09/28 23:30 [financialjuice] DALLAS FED MFG. BUS. INDEX ACTUAL 9.80 (FORECAST 7.8, PREVIOUS 11.60) $MACRO
+- 09/28 23:30 [FirstSquawk] US DALLAS FED MANUFACTURING ACTIVITY SEP: 9.8 (EST 7.8; PREV 11.6)
+- 09/28 23:31 [financialjuice] Houthis: 198 ships have passed through the Bab-el-Mandeb Strait in the past 5 days - ISNA
+- 09/28 23:31 [FirstSquawk] ECB'S LAGARDE: RATES AT UPPER END OF NEUTRAL RANGE
+- 09/28 23:31 [financialjuice] ECB's President Lagarde: Rates at upper end of neutral range. Not driving policy with reference to neutral rate.
+- 09/28 23:32 [FirstSquawk] ECB'S LAGARDE: RATES AT UPPER END OF NEUTRAL RANGE || NOT DRIVING POLICY WITH REFERENCE TO NEUTRAL RATE
+- 09/28 23:33 [financialjuice] Citi: Spring by Citi enables institutional clients to accept stablecoin payments at checkout. $C
+- 09/28 23:34 [financialjuice] UK's PM Burnham concludes remarks on LBC Radio
+- 09/28 23:37 [FirstSquawk] TOTAL CEO SAYS 3Q LNG BUSINESS WILL BE `VERY GOOD'
+- 09/28 23:41 [FirstSquawk] TOTALENERGIES CEO: WE ARE MORE AND MORE CONFIDENT WE'LL FIND MORE OIL IN THE SURINAME BASIN
+- 09/28 23:48 [financialjuice] Explosions heard in the Saudi cities of Yanbu, Jazan and Najran in the past few hours, according to Saudi media reports - Fars News
+- 09/28 23:49 [financialjuice] ECB's President Lagarde: Energy subsidy impact on inflation seen by staff at 0.1%

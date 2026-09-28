@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-28 23:25 JST／対象: 09/28 17:25 〜 09/28 23:25 JST（時刻はすべて日本時間）
+生成: 2026-09-28 23:50 JST／対象: 09/28 17:50 〜 09/28 23:50 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 21 | 09/28 18:13 | 09/28 22:54 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 94 | 09/28 17:25 | 09/28 23:23 | 15分（18:29→18:44） |
-| financialjuice | 93 | 09/28 17:32 | 09/28 23:24 | 40分（18:20→19:01） |
+| DeItaone | 22 | 09/28 18:13 | 09/28 23:28 | ⚠ 126分（20:42→22:49） |
+| FirstSquawk | 92 | 09/28 17:54 | 09/28 23:41 | 15分（18:29→18:44） |
+| financialjuice | 98 | 09/28 18:00 | 09/28 23:49 | 40分（18:20→19:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 202 行（統合前 210 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 206 行（統合前 214 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 17:25 [FirstSquawk] INDIA-UAE TRADE COMING BACK TO PRE-WAR LEVEL SAYS GOYAL
-- 09/28 17:29 [FirstSquawk] INDIA AND UAE TO WORK ON SHIP BUILDING, CONTAINER MANUFACTURING
-- 09/28 17:32 [financialjuice] UK transport minister: government to take over Avanti West Coast services from March 7, 2027
-- 09/28 17:38 [FirstSquawk] UK DEFENSE SECRETARY WES STREETING LIVE POLICE PROBE INTO FAIRFORD SITUATION
-- 09/28 17:38 [financialjuice] EU extends mandates of Rafah crossing point and police missions in Palestinian authorities until June 30, 2027
-- 09/28 17:39 [financialjuice] China's Sinograin sells 191,699 metric tons of imported soybeans Monday, 37.3% of total volume: Mysteel
-- 09/28 17:40 [FirstSquawk] IRAN'S DELEGATION IN NEW YORK HAS NO PLANS TO NEGOTIATE WITH THE UNITED STATES - IRNA
-- 09/28 17:42 [FirstSquawk] CORRECTION: STREETING SAYS WON T LINK IRAN CONFLICT, FAIRFORD INCIDENT
-- 09/28 17:42 [FirstSquawk] STREETING SAYS 'MORE TO COME’ ON DEFENCE SPENDING AT BUDGET
-- 09/28 17:43 [FirstSquawk] CHINA IMPOSES TRAVEL RESTRICTIONS ON IMMEDIATE FAMILY OF LEADING AI EXPERTS.
 - 09/28 17:54 [FirstSquawk] NHC: LIFE-THREATENING WINDS AND FLASH FLOODS EXPECTED OVER PORTIONS OF BAJA CALIFORNIA SUR AND SONORA TODAY AND TUESDAY, CONDITIONS EXPECTED TO BEGIN DETERIORATING THIS MORNING IN BAJA CALIFORNIA SUR
 - 09/28 18:00 [financialjuice] NVIDIA Openshell and sentry are meant to keep AI agents in line.
 - 09/28 18:01 [financialjuice] Nvidia introduces open-source tool duo to boost AI security. $NVDA
@@ -226,3 +216,17 @@
 - 09/28 23:22 [financialjuice] Florida asks court to bar OpenAI from developing new models without oversight as part of child harm lawsuit - court filing
 - 09/28 23:23 [FirstSquawk] ECB'S LAGARDE: WORKING ON SWAP LINES FOR EURO AREA SOVEREIGNTY
 - 09/28 23:24 [financialjuice] Loading from Yanbu has been happening since the 22nd of September - Kpler's Energy Reporter Bakr
+- 09/28 23:28 [DeItaone] $GM - TRUMP ADMINISTRATION FORECASTS GENERAL MOTORS TECHNOLOGY COSTS THROUGH 2031 WILL DECLINE BY $20.4 BILLION IN TOTAL AS RESULT OF LOWER FUEL ECONOMY STANDARDS -- DOCUMENT
+- 09/28 23:28 [financialjuice] Houthis: Passage through the Bab-el-Mandeb Strait continues, except for Saudi Arabian ships - ISNA
+- 09/28 23:30 [financialjuice] DALLAS FED MFG. BUS. INDEX ACTUAL 9.80 (FORECAST 7.8, PREVIOUS 11.60) $MACRO
+- 09/28 23:30 [FirstSquawk] US DALLAS FED MANUFACTURING ACTIVITY SEP: 9.8 (EST 7.8; PREV 11.6)
+- 09/28 23:31 [financialjuice] Houthis: 198 ships have passed through the Bab-el-Mandeb Strait in the past 5 days - ISNA
+- 09/28 23:31 [FirstSquawk] ECB'S LAGARDE: RATES AT UPPER END OF NEUTRAL RANGE
+- 09/28 23:31 [financialjuice] ECB's President Lagarde: Rates at upper end of neutral range. Not driving policy with reference to neutral rate.
+- 09/28 23:32 [FirstSquawk] ECB'S LAGARDE: RATES AT UPPER END OF NEUTRAL RANGE || NOT DRIVING POLICY WITH REFERENCE TO NEUTRAL RATE
+- 09/28 23:33 [financialjuice] Citi: Spring by Citi enables institutional clients to accept stablecoin payments at checkout. $C
+- 09/28 23:34 [financialjuice] UK's PM Burnham concludes remarks on LBC Radio
+- 09/28 23:37 [FirstSquawk] TOTAL CEO SAYS 3Q LNG BUSINESS WILL BE `VERY GOOD'
+- 09/28 23:41 [FirstSquawk] TOTALENERGIES CEO: WE ARE MORE AND MORE CONFIDENT WE'LL FIND MORE OIL IN THE SURINAME BASIN
+- 09/28 23:48 [financialjuice] Explosions heard in the Saudi cities of Yanbu, Jazan and Najran in the past few hours, according to Saudi media reports - Fars News
+- 09/28 23:49 [financialjuice] ECB's President Lagarde: Energy subsidy impact on inflation seen by staff at 0.1%
