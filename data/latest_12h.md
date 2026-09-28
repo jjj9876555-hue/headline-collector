@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-28 16:54 JST／対象: 09/28 04:54 〜 09/28 16:54 JST（時刻はすべて日本時間）
+生成: 2026-09-28 17:21 JST／対象: 09/28 05:21 〜 09/28 17:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 6 | 09/28 06:12 | 09/28 16:48 | ⚠ 562分（07:06→16:28） |
-| FirstSquawk | 113 | 09/28 05:06 | 09/28 16:39 | ⚠ 78分（08:02→09:21） |
-| financialjuice | 66 | 09/28 05:04 | 09/28 16:02 | ⚠ 124分（05:07→07:11） |
+| FirstSquawk | 114 | 09/28 05:57 | 09/28 17:17 | ⚠ 78分（08:02→09:21） |
+| financialjuice | 68 | 09/28 07:11 | 09/28 17:10 | ⚠ 115分（11:30→13:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 185 行（統合前 185 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 188 行（統合前 188 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 05:04 [financialjuice] South Korea presidential office: Ukraine asked to keep transfer of North Korean POWs confidential
-- 09/28 05:05 [financialjuice] South Korea presidential office: South Korea agreed to keep North Korean POW transfer under wraps due to security, diplomatic concerns
-- 09/28 05:05 [financialjuice] South Korea presidential office: Ukraine revealed North Korean POWs transfer to South Korea in UN speech without enough prior consultation
-- 09/28 05:06 [financialjuice] South Korea presidential office: Ukraine's revelation of North Korean POW transfer sparks unnecessary local controversy
-- 09/28 05:06 [FirstSquawk] THE SOUTH KOREA PRESIDENTIAL OFFICE SAYS UKRAINE REQUESTED KEEPING THE NORTH KOREAN POWS' TRANSFER TO SOUTH KOREA CONFIDENTIAL, AND THAT SOUTH KOREA AGREED TO DO SO DUE TO SECURITY AND DIPLOMATIC CONCERNS.
-- 09/28 05:06 [FirstSquawk] THE SOUTH KOREA PRESIDENTIAL OFFICE SAYS UKRAINE DISCLOSED THE NORTH KOREAN POWS' TRANSFER TO SOUTH KOREA IN A UN SPEECH WITHOUT SUFFICIENT PRIOR CONSULTATION, WHICH IT SAYS HAS TRIGGERED UNNECESSARY DOMESTIC CONTROVERSY.
-- 09/28 05:07 [financialjuice] South Korea presidential office demands official explanation and apology from Ukraine over revealing North Korean POW transfer
 - 09/28 05:57 [FirstSquawk] TRUMP IS SET TO HOST ANTHROPIC CEO DARIO AMODEI FOR A PRIVATE DINNER AT THE WHITE HOUSE ON SUNDAY, AMID AN ONGOING LEGAL DISPUTE BETWEEN THE AI COMPANY AND THE ADMINISTRATION AND GROWING DEBATE OVER AI SAFETY AND REGULATION.
 - 09/28 05:57 [FirstSquawk] THE MEETING COMES DAYS AFTER A FEDERAL APPEALS COURT UPHELD THE PENTAGON’S DECISION TO BLACKLIST ANTHROPIC’S CLAUDE MODELS, WHILE TRUMP AND HOUSE SPEAKER MIKE JOHNSON ARE ALSO EXPECTED TO MEET WITH MAJOR AI CEOS AS CALLS FOR STRONGER AI SAF…
 - 09/28 05:58 [FirstSquawk] TRUMP SAYS HE WILL DISCUSS AI WITH ANTHROPIC CEO AMODEI, SAYING ON THE MEETING 'LET'S GO, LET'S WIN', AND SAYS HE SPOKE WITH ZELENSKY AND TOLD HIM TO 'TAKE IT EASY' ON REFINERY STRIKES, BLAMING A DIESEL SHORTAGE ON UKRAINE STRIKING RUSSIAN …
@@ -209,3 +202,13 @@
 - 09/28 16:38 [FirstSquawk] SWEDEN'S ANDERSSON RETURNS GOVERNMENT FORMATION MANDATE.
 - 09/28 16:39 [FirstSquawk] SPOT GOLD FALLS OVER 3% UNDER $4,155 AN OUNCE.
 - 09/28 16:48 [DeItaone] TRUMP SERIOUSLY CONSIDERS U.S. DIESEL EXPORT BAN President Trump said the U.S. is “very seriously” considering restricting diesel exports, despite concerns it could push gasoline prices higher. Trump blamed current fuel pressures largely on…
+- 09/28 16:56 [financialjuice] Japan's Top Currency Diplomat Mimura: Japanese Prime Minister, Finance Minister, US have sent clear message on yen.
+- 09/28 16:56 [financialjuice] Japan's Top Currency Diplomat Mimura when asked about market views funding constraints may limit Japan's ability to conduct yen-buying intervention: I have absolutely no such concern. when asked about market views funding constraints may li…
+- 09/28 16:56 [financialjuice] Japan's Top Currency Diplomat Mimura: We are always carefully watching how such japan-us rate trend has affected market moves.
+- 09/28 16:57 [financialjuice] Japan's Top Currency Diplomat Mimura: Japan's strong ‘currency alliance’ with US covers not just FX but wider bilateral cooperation on economic policy, global supply chain.
+- 09/28 16:57 [financialjuice] Japan's Top Currency Diplomat Mimura: Japan remains neither satisfied nor reassured about underlying yen moves.
+- 09/28 17:04 [FirstSquawk] U.S. S&P 500 E-MINI FUTURES DECLINE BY 0.4%, NASDAQ 100 FUTURES FALL BY 0.9%, DOW FUTURES DROP BY 0.3%.
+- 09/28 17:04 [FirstSquawk] LME ALUMINUM ON-WARRANT STOCKS FALL BY 10,650 TONS, THE SHARPEST DROP SINCE MAY.
+- 09/28 17:05 [financialjuice] Anthropic won't appear at Australian Senate probe - Guardian
+- 09/28 17:10 [financialjuice] ITALIAN NON-EU FLASH TRADE BALANCE ACTUAL 2.00B (FORECAST -, PREVIOUS 2.55B) $MACRO
+- 09/28 17:17 [FirstSquawk] LIBYA'S SHARARA OIL FIELD IS PRODUCING MORE THAN 300,000 BARRELS PER DAY, SAYS NOC CHAIRMAN.

@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-28 16:54 JST／対象: 09/27 16:54 〜 09/28 16:54 JST（時刻はすべて日本時間）
+生成: 2026-09-28 17:21 JST／対象: 09/27 17:21 〜 09/28 17:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/28 00:04 | 09/28 16:48 | ⚠ 562分（07:06→16:28） |
-| FirstSquawk | 204 | 09/27 17:03 | 09/28 16:39 | ⚠ 78分（08:02→09:21） |
-| financialjuice | 98 | 09/27 17:39 | 09/28 16:02 | ⚠ 145分（00:29→02:54） |
+| FirstSquawk | 204 | 09/27 17:29 | 09/28 17:17 | ⚠ 78分（08:02→09:21） |
+| financialjuice | 105 | 09/27 17:39 | 09/28 17:10 | ⚠ 145分（00:29→02:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 298 行（統合前 310 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 305 行（統合前 317 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 17:03 [FirstSquawk] Police evacuated homes near RAF Fairford, a U.S. air base in England, and arrested several men over suspected explosive offenses. The base is used by the American forces during the war with Iran.
-- 09/27 17:03 [FirstSquawk] Iran said it’s awaiting a definitive US response to a seven-day proposal for reopening the Strait of Hormuz but won’t soften its conditions
-- 09/27 17:03 [FirstSquawk] Two giant pandas depart China for US after Xi-Trump summit Loan of the pair to Zoo Atlanta was one of the few concrete outcomes of their talks
 - 09/27 17:29 [FirstSquawk] Iran’s war is not over, and the country must stay ready to deliver further heavy blows to the enemy, the army chief said on Sunday. “We won, but we must preserve this victory,” Amir Hatami said.
 - 09/27 17:29 [FirstSquawk] Zelensky: This past week, the Russians launched more than 2,200 attack drones against Ukraine, as well as around 1,650 aerial bombs and 38 missiles of various types, a significant number of them ballistic missiles.
 - 09/27 17:39 [financialjuice] Iran's army spokesperson: US may initiate fresh strike due to 'its poor regional situation' - state media
@@ -322,3 +319,13 @@
 - 09/28 16:38 [FirstSquawk] SWEDEN'S ANDERSSON RETURNS GOVERNMENT FORMATION MANDATE.
 - 09/28 16:39 [FirstSquawk] SPOT GOLD FALLS OVER 3% UNDER $4,155 AN OUNCE.
 - 09/28 16:48 [DeItaone] TRUMP SERIOUSLY CONSIDERS U.S. DIESEL EXPORT BAN President Trump said the U.S. is “very seriously” considering restricting diesel exports, despite concerns it could push gasoline prices higher. Trump blamed current fuel pressures largely on…
+- 09/28 16:56 [financialjuice] Japan's Top Currency Diplomat Mimura: Japanese Prime Minister, Finance Minister, US have sent clear message on yen.
+- 09/28 16:56 [financialjuice] Japan's Top Currency Diplomat Mimura when asked about market views funding constraints may limit Japan's ability to conduct yen-buying intervention: I have absolutely no such concern. when asked about market views funding constraints may li…
+- 09/28 16:56 [financialjuice] Japan's Top Currency Diplomat Mimura: We are always carefully watching how such japan-us rate trend has affected market moves.
+- 09/28 16:57 [financialjuice] Japan's Top Currency Diplomat Mimura: Japan's strong ‘currency alliance’ with US covers not just FX but wider bilateral cooperation on economic policy, global supply chain.
+- 09/28 16:57 [financialjuice] Japan's Top Currency Diplomat Mimura: Japan remains neither satisfied nor reassured about underlying yen moves.
+- 09/28 17:04 [FirstSquawk] U.S. S&P 500 E-MINI FUTURES DECLINE BY 0.4%, NASDAQ 100 FUTURES FALL BY 0.9%, DOW FUTURES DROP BY 0.3%.
+- 09/28 17:04 [FirstSquawk] LME ALUMINUM ON-WARRANT STOCKS FALL BY 10,650 TONS, THE SHARPEST DROP SINCE MAY.
+- 09/28 17:05 [financialjuice] Anthropic won't appear at Australian Senate probe - Guardian
+- 09/28 17:10 [financialjuice] ITALIAN NON-EU FLASH TRADE BALANCE ACTUAL 2.00B (FORECAST -, PREVIOUS 2.55B) $MACRO
+- 09/28 17:17 [FirstSquawk] LIBYA'S SHARARA OIL FIELD IS PRODUCING MORE THAN 300,000 BARRELS PER DAY, SAYS NOC CHAIRMAN.

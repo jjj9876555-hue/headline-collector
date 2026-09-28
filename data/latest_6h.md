@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-28 16:54 JST／対象: 09/28 10:54 〜 09/28 16:54 JST（時刻はすべて日本時間）
+生成: 2026-09-28 17:21 JST／対象: 09/28 11:21 〜 09/28 17:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/28 16:28 | 09/28 16:48 | 19分（16:28→16:48） |
-| FirstSquawk | 59 | 09/28 10:56 | 09/28 16:39 | 27分（16:10→16:38） |
-| financialjuice | 9 | 09/28 11:30 | 09/28 16:02 | ⚠ 115分（11:30→13:26） |
+| FirstSquawk | 59 | 09/28 11:25 | 09/28 17:17 | 27分（16:10→16:38） |
+| financialjuice | 16 | 09/28 11:30 | 09/28 17:10 | ⚠ 115分（11:30→13:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 70 行（統合前 70 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 77 行（統合前 77 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 10:56 [FirstSquawk] Nissan chairman sees little chance of US market opening to Chinese automakers over next five years
-- 09/28 11:12 [FirstSquawk] Cathay Pacific suspends passenger flights to Dubai and Riyadh through Jan. 31, 2027
-- 09/28 11:13 [FirstSquawk] Cathay Cargo yet to set timing for resuming freighter services to Dubai, Riyadh
 - 09/28 11:25 [FirstSquawk] US defense industry pushes to ramp up missile output after years of underinvestment - WSJ
 - 09/28 11:26 [FirstSquawk] Canadian dollar falls as wider US-Canada rate differential looms - FX
 - 09/28 11:30 [financialjuice] S.Korea finance minister: to pursue balanced policy mix with central bank — ministry
@@ -94,3 +91,13 @@
 - 09/28 16:38 [FirstSquawk] SWEDEN'S ANDERSSON RETURNS GOVERNMENT FORMATION MANDATE.
 - 09/28 16:39 [FirstSquawk] SPOT GOLD FALLS OVER 3% UNDER $4,155 AN OUNCE.
 - 09/28 16:48 [DeItaone] TRUMP SERIOUSLY CONSIDERS U.S. DIESEL EXPORT BAN President Trump said the U.S. is “very seriously” considering restricting diesel exports, despite concerns it could push gasoline prices higher. Trump blamed current fuel pressures largely on…
+- 09/28 16:56 [financialjuice] Japan's Top Currency Diplomat Mimura: Japanese Prime Minister, Finance Minister, US have sent clear message on yen.
+- 09/28 16:56 [financialjuice] Japan's Top Currency Diplomat Mimura when asked about market views funding constraints may limit Japan's ability to conduct yen-buying intervention: I have absolutely no such concern. when asked about market views funding constraints may li…
+- 09/28 16:56 [financialjuice] Japan's Top Currency Diplomat Mimura: We are always carefully watching how such japan-us rate trend has affected market moves.
+- 09/28 16:57 [financialjuice] Japan's Top Currency Diplomat Mimura: Japan's strong ‘currency alliance’ with US covers not just FX but wider bilateral cooperation on economic policy, global supply chain.
+- 09/28 16:57 [financialjuice] Japan's Top Currency Diplomat Mimura: Japan remains neither satisfied nor reassured about underlying yen moves.
+- 09/28 17:04 [FirstSquawk] U.S. S&P 500 E-MINI FUTURES DECLINE BY 0.4%, NASDAQ 100 FUTURES FALL BY 0.9%, DOW FUTURES DROP BY 0.3%.
+- 09/28 17:04 [FirstSquawk] LME ALUMINUM ON-WARRANT STOCKS FALL BY 10,650 TONS, THE SHARPEST DROP SINCE MAY.
+- 09/28 17:05 [financialjuice] Anthropic won't appear at Australian Senate probe - Guardian
+- 09/28 17:10 [financialjuice] ITALIAN NON-EU FLASH TRADE BALANCE ACTUAL 2.00B (FORECAST -, PREVIOUS 2.55B) $MACRO
+- 09/28 17:17 [FirstSquawk] LIBYA'S SHARARA OIL FIELD IS PRODUCING MORE THAN 300,000 BARRELS PER DAY, SAYS NOC CHAIRMAN.
