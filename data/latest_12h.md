@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-29 05:25 JST／対象: 09/28 17:25 〜 09/29 05:25 JST（時刻はすべて日本時間）
+生成: 2026-09-29 05:46 JST／対象: 09/28 17:46 〜 09/29 05:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 35 | 09/28 18:13 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 182 | 09/28 17:25 | 09/29 05:20 | 31分（02:57→03:29） |
-| financialjuice | 201 | 09/28 17:32 | 09/29 05:08 | 40分（18:20→19:01） |
+| FirstSquawk | 176 | 09/28 17:54 | 09/29 05:29 | 31分（02:57→03:29） |
+| financialjuice | 199 | 09/28 18:00 | 09/29 05:26 | 40分（18:20→19:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 404 行（統合前 422 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 395 行（統合前 414 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 17:25 [FirstSquawk] INDIA-UAE TRADE COMING BACK TO PRE-WAR LEVEL SAYS GOYAL
-- 09/28 17:29 [FirstSquawk] INDIA AND UAE TO WORK ON SHIP BUILDING, CONTAINER MANUFACTURING
-- 09/28 17:32 [financialjuice] UK transport minister: government to take over Avanti West Coast services from March 7, 2027
-- 09/28 17:38 [FirstSquawk] UK DEFENSE SECRETARY WES STREETING LIVE POLICE PROBE INTO FAIRFORD SITUATION
-- 09/28 17:38 [financialjuice] EU extends mandates of Rafah crossing point and police missions in Palestinian authorities until June 30, 2027
-- 09/28 17:39 [financialjuice] China's Sinograin sells 191,699 metric tons of imported soybeans Monday, 37.3% of total volume: Mysteel
-- 09/28 17:40 [FirstSquawk] IRAN'S DELEGATION IN NEW YORK HAS NO PLANS TO NEGOTIATE WITH THE UNITED STATES - IRNA
-- 09/28 17:42 [FirstSquawk] CORRECTION: STREETING SAYS WON T LINK IRAN CONFLICT, FAIRFORD INCIDENT
-- 09/28 17:42 [FirstSquawk] STREETING SAYS 'MORE TO COME’ ON DEFENCE SPENDING AT BUDGET
-- 09/28 17:43 [FirstSquawk] CHINA IMPOSES TRAVEL RESTRICTIONS ON IMMEDIATE FAMILY OF LEADING AI EXPERTS.
 - 09/28 17:54 [FirstSquawk] NHC: LIFE-THREATENING WINDS AND FLASH FLOODS EXPECTED OVER PORTIONS OF BAJA CALIFORNIA SUR AND SONORA TODAY AND TUESDAY, CONDITIONS EXPECTED TO BEGIN DETERIORATING THIS MORNING IN BAJA CALIFORNIA SUR
 - 09/28 18:00 [financialjuice] NVIDIA Openshell and sentry are meant to keep AI agents in line.
 - 09/28 18:01 [financialjuice] Nvidia introduces open-source tool duo to boost AI security. $NVDA
@@ -428,3 +418,4 @@
 - 09/29 05:19 [FirstSquawk] TREASURY YIELDS CLIMBED SHARPLY, WITH THE 10-YEAR RISING SEVEN BASIS POINTS TO 5.23%, ITS HIGHEST SINCE 2007, AS MARKETS INCREASED BETS ON AN OCTOBER FED RATE HIKE, THE DOLLAR GAINED AND GOLD DROPPED 3.9% TO $4,118.66, WITH INVESTORS NOW FO…
 - 09/29 05:19 [FirstSquawk] IN CORPORATE NEWS, NVIDIA EXPANDED ITS BUYBACK AUTHORIZATION BY $150 BLN, AMD AGREED TO ACQUIRE WORLD LABS FOR $8.2 BLN AND BOEING'S 737 MAX 10 CERTIFICATION WAS DELAYED OVER A SOFTWARE ISSUE, WHILE PARAMOUNT SKYDANCE SECURED ENOUGH INVESTO…
 - 09/29 05:20 [FirstSquawk] MSCI RECLASSIFIES CORTEVA FROM LARGE CAP TO MID CAP; ADDS VYLOR TO GLOBAL STANDARD INDEXES EFFECTIVE OCTOBER 2, 2026
+- 09/29 05:26 [financialjuice/FirstSquawk] Iran's State TV: The sounds heard on Qeshm Island were likely the result of warning shots fired at violating vessels in the Strait of Hormuz.

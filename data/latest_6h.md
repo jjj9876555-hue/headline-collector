@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-29 05:25 JST／対象: 09/28 23:25 〜 09/29 05:25 JST（時刻はすべて日本時間）
+生成: 2026-09-29 05:46 JST／対象: 09/28 23:46 〜 09/29 05:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 14 | 09/28 23:28 | 09/29 02:14 | ⚠ 54分（00:44→01:39） |
-| FirstSquawk | 88 | 09/28 23:30 | 09/29 05:20 | 31分（02:57→03:29） |
-| financialjuice | 108 | 09/28 23:28 | 09/29 05:08 | 23分（03:04→03:28） |
+| DeItaone | 13 | 09/29 00:19 | 09/29 02:14 | ⚠ 54分（00:44→01:39） |
+| FirstSquawk | 84 | 09/28 23:50 | 09/29 05:29 | 31分（02:57→03:29） |
+| financialjuice | 103 | 09/28 23:48 | 09/29 05:26 | 23分（03:04→03:28） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 202 行（統合前 212 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 191 行（統合前 202 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 23:28 [DeItaone] $GM - TRUMP ADMINISTRATION FORECASTS GENERAL MOTORS TECHNOLOGY COSTS THROUGH 2031 WILL DECLINE BY $20.4 BILLION IN TOTAL AS RESULT OF LOWER FUEL ECONOMY STANDARDS -- DOCUMENT
-- 09/28 23:28 [financialjuice] Houthis: Passage through the Bab-el-Mandeb Strait continues, except for Saudi Arabian ships - ISNA
-- 09/28 23:30 [financialjuice] DALLAS FED MFG. BUS. INDEX ACTUAL 9.80 (FORECAST 7.8, PREVIOUS 11.60) $MACRO
-- 09/28 23:30 [FirstSquawk] US DALLAS FED MANUFACTURING ACTIVITY SEP: 9.8 (EST 7.8; PREV 11.6)
-- 09/28 23:31 [financialjuice] Houthis: 198 ships have passed through the Bab-el-Mandeb Strait in the past 5 days - ISNA
-- 09/28 23:31 [FirstSquawk] ECB'S LAGARDE: RATES AT UPPER END OF NEUTRAL RANGE
-- 09/28 23:31 [financialjuice] ECB's President Lagarde: Rates at upper end of neutral range. Not driving policy with reference to neutral rate.
-- 09/28 23:32 [FirstSquawk] ECB'S LAGARDE: RATES AT UPPER END OF NEUTRAL RANGE || NOT DRIVING POLICY WITH REFERENCE TO NEUTRAL RATE
-- 09/28 23:33 [financialjuice] Citi: Spring by Citi enables institutional clients to accept stablecoin payments at checkout. $C
-- 09/28 23:34 [financialjuice] UK's PM Burnham concludes remarks on LBC Radio
-- 09/28 23:37 [FirstSquawk] TOTAL CEO SAYS 3Q LNG BUSINESS WILL BE `VERY GOOD'
-- 09/28 23:41 [FirstSquawk] TOTALENERGIES CEO: WE ARE MORE AND MORE CONFIDENT WE'LL FIND MORE OIL IN THE SURINAME BASIN
 - 09/28 23:48 [financialjuice] Explosions heard in the Saudi cities of Yanbu, Jazan and Najran in the past few hours, according to Saudi media reports - Fars News
 - 09/28 23:49 [financialjuice] ECB's President Lagarde: Energy subsidy impact on inflation seen by staff at 0.1%
 - 09/28 23:50 [FirstSquawk] EXPLOSIONS REPORTED IN YANBU, JAZAN, AND NAJRAN CITIES IN SAUDI ARABIA, AS PER SAUDI MEDIA SOURCES.
@@ -226,3 +214,4 @@
 - 09/29 05:19 [FirstSquawk] TREASURY YIELDS CLIMBED SHARPLY, WITH THE 10-YEAR RISING SEVEN BASIS POINTS TO 5.23%, ITS HIGHEST SINCE 2007, AS MARKETS INCREASED BETS ON AN OCTOBER FED RATE HIKE, THE DOLLAR GAINED AND GOLD DROPPED 3.9% TO $4,118.66, WITH INVESTORS NOW FO…
 - 09/29 05:19 [FirstSquawk] IN CORPORATE NEWS, NVIDIA EXPANDED ITS BUYBACK AUTHORIZATION BY $150 BLN, AMD AGREED TO ACQUIRE WORLD LABS FOR $8.2 BLN AND BOEING'S 737 MAX 10 CERTIFICATION WAS DELAYED OVER A SOFTWARE ISSUE, WHILE PARAMOUNT SKYDANCE SECURED ENOUGH INVESTO…
 - 09/29 05:20 [FirstSquawk] MSCI RECLASSIFIES CORTEVA FROM LARGE CAP TO MID CAP; ADDS VYLOR TO GLOBAL STANDARD INDEXES EFFECTIVE OCTOBER 2, 2026
+- 09/29 05:26 [financialjuice/FirstSquawk] Iran's State TV: The sounds heard on Qeshm Island were likely the result of warning shots fired at violating vessels in the Strait of Hormuz.

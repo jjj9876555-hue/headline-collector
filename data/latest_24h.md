@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-29 05:25 JST／対象: 09/28 05:25 〜 09/29 05:25 JST（時刻はすべて日本時間）
+生成: 2026-09-29 05:46 JST／対象: 09/28 05:46 〜 09/29 05:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 42 | 09/28 06:12 | 09/29 02:14 | ⚠ 562分（07:06→16:28） |
-| FirstSquawk | 298 | 09/28 05:57 | 09/29 05:20 | ⚠ 78分（08:02→09:21） |
-| financialjuice | 269 | 09/28 07:11 | 09/29 05:08 | ⚠ 115分（11:30→13:26） |
+| FirstSquawk | 299 | 09/28 05:57 | 09/29 05:29 | ⚠ 78分（08:02→09:21） |
+| financialjuice | 270 | 09/28 07:11 | 09/29 05:26 | ⚠ 115分（11:30→13:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 595 行（統合前 613 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 596 行（統合前 615 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -619,3 +619,4 @@
 - 09/29 05:19 [FirstSquawk] TREASURY YIELDS CLIMBED SHARPLY, WITH THE 10-YEAR RISING SEVEN BASIS POINTS TO 5.23%, ITS HIGHEST SINCE 2007, AS MARKETS INCREASED BETS ON AN OCTOBER FED RATE HIKE, THE DOLLAR GAINED AND GOLD DROPPED 3.9% TO $4,118.66, WITH INVESTORS NOW FO…
 - 09/29 05:19 [FirstSquawk] IN CORPORATE NEWS, NVIDIA EXPANDED ITS BUYBACK AUTHORIZATION BY $150 BLN, AMD AGREED TO ACQUIRE WORLD LABS FOR $8.2 BLN AND BOEING'S 737 MAX 10 CERTIFICATION WAS DELAYED OVER A SOFTWARE ISSUE, WHILE PARAMOUNT SKYDANCE SECURED ENOUGH INVESTO…
 - 09/29 05:20 [FirstSquawk] MSCI RECLASSIFIES CORTEVA FROM LARGE CAP TO MID CAP; ADDS VYLOR TO GLOBAL STANDARD INDEXES EFFECTIVE OCTOBER 2, 2026
+- 09/29 05:26 [financialjuice/FirstSquawk] Iran's State TV: The sounds heard on Qeshm Island were likely the result of warning shots fired at violating vessels in the Strait of Hormuz.
