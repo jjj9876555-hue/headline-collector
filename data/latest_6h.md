@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-29 07:59 JST／対象: 09/29 01:59 〜 09/29 07:59 JST（時刻はすべて日本時間）
+生成: 2026-09-29 08:17 JST／対象: 09/29 02:17 〜 09/29 08:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 1 | 09/29 02:14 | 09/29 02:14 | - |
-| FirstSquawk | 59 | 09/29 02:07 | 09/29 07:48 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 85 | 09/29 02:09 | 09/29 07:45 | 24分（07:21→07:45） |
+| DeItaone | 0 | - | - | - |
+| FirstSquawk | 58 | 09/29 02:28 | 09/29 07:48 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 87 | 09/29 02:19 | 09/29 08:16 | 30分（07:45→08:16） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 141 行（統合前 146 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 141 行（統合前 145 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 02:07 [FirstSquawk] TRUMP OFFERS IRAN ECONOMIC RELIEF FOR CONCRETE NUCLEAR CONCESSIONS - AXIOS
-- 09/29 02:09 [financialjuice] NYC Speaker: OpenAI, Anthropic, Google all agreed to testify
-- 09/29 02:09 [financialjuice] NYC Speaker: OpenAI, Anthropic, Google all agreed to testify $GOOGL
-- 09/29 02:11 [financialjuice] NYC Speaker: Meta also to testify $META
-- 09/29 02:12 [financialjuice] ❗ NYC Speaker: Council issued a subpoena for SpaceXAI to testify. $SPCX
-- 09/29 02:13 [financialjuice] ❗ Iran has agreed to halt uranium enrichment in exchange for the easing of US sanctions - Al Hadath citing sources
-- 09/29 02:14 [DeItaone] Iran Agrees To Suspend Uranium Enrichment In Exchange For US Sanctions Relief - Al Hadath
 - 09/29 02:19 [financialjuice] American source engaged in negotiations with Iran to Al Arabiya: The chances of an agreement are extremely slim.
 - 09/29 02:20 [financialjuice] US Source engaged in negotiations with Iran to Al Arabiya: Gaps are wide and obstacles are major
 - 09/29 02:25 [financialjuice] Fed's Cook: Number and magnitude of any future rate adjustments will be informed by inflation and labor market data, and the economy's reaction to the Fed's actions so far
@@ -165,3 +158,10 @@
 - 09/29 07:45 [financialjuice] Explosions heard in Ukraine's Kyiv: source witness
 - 09/29 07:48 [FirstSquawk] TRUMP SAYS AXIOS 'JUST RELEASED A STORY THAT TRUMP OFFERED SANCTIONS RELIEF AND FROZEN FUNDS TO IRAN', CALLING IT 'UNTRUE' AND SAYING 'I OFFERED THEM NOTHING'. - TRUTH SOCIAL
 - 09/29 07:48 [FirstSquawk] TRUMP CALLS THE AXIOS STORY 'A HOAX, USED ONLY FOR PURPOSES OF SATISFYING THEIR TRUMP DERANGEMENT SYNDROME', DEMANDING THEY 'WITHDRAW THIS FAKE STORY, IMMEDIATELY'. - TRUTH SOCIAL
+- 09/29 08:16 [financialjuice] Anthropic’s top two direct clients made up 24% of total FY25 revenue, 12% each
+- 09/29 08:16 [financialjuice] Exclusive-Anthropic fy25 revenue $4.59 billion, up 1,088% y/y from $386 million in fy24: IPO prospectus seen by source
+- 09/29 08:16 [financialjuice] Anthropic's cash, cash equivalents and short-term investments reached $20.28 billion as of Dec. 31, 2025
+- 09/29 08:16 [financialjuice] Exclusive: Anthropic outlines transformative AI technology plans in marketing pitch to IPO investors – prospectus seen by source
+- 09/29 08:16 [financialjuice] Anthropic’s FY25 GAAP operating loss expands to $8.06 billion from $2.98 billion in FY24, prospectus shows
+- 09/29 08:16 [financialjuice] Anthropic fy25 compute and infrastructure costs surge 190% to $7.33 billion, accounting for 58% of operating expenses
+- 09/29 08:16 [financialjuice] Anthropic fy25 GAAP net deficit widens to $41.97 billion from $8.31 billion in fy24, prospectus shows

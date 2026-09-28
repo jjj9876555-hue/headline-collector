@@ -7,42 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-29 07:59 JST／対象: 09/28 19:59 〜 09/29 07:59 JST（時刻はすべて日本時間）
+生成: 2026-09-29 08:17 JST／対象: 09/28 20:17 〜 09/29 08:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 23 | 09/28 20:00 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 151 | 09/28 19:59 | 09/29 07:48 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 196 | 09/28 20:00 | 09/29 07:45 | 24分（07:21→07:45） |
+| DeItaone | 20 | 09/28 20:19 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
+| FirstSquawk | 144 | 09/28 20:19 | 09/29 07:48 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 194 | 09/28 20:17 | 09/29 08:16 | 30分（07:45→08:16） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 356 行（統合前 374 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 344 行（統合前 362 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 19:59 [FirstSquawk] UK AUTHORITIES INCREASED SECURITY AT A US-USED AIRBASE DUE TO RISING THREATS AND SUCCESSFULLY FOILED AN ATTACK ATTEMPT, SOURCES REVEAL.
-- 09/28 20:00 [financialjuice] Nvidia announces a $150b share buyback authorization boost $NVDA
-- 09/28 20:00 [DeItaone] $NVDA - NVIDIA EXPANDS BUYBACK PROGRAM TO $235 BILLION Nvidia’s board authorized a $150 billion increase to its share repurchase program, bringing the total authorization to $235 billion. The company expects to execute the expanded buyback …
-- 09/28 20:01 [FirstSquawk] NVIDIA INCREASES SHARE BUYBACK APPROVAL BY $150 BILLION.
-- 09/28 20:02 [financialjuice] BoE's Ramsden: Food prices are weaker than expected them to be
-- 09/28 20:02 [financialjuice] BoE's Ramsden: We will know more about 2nd round effects at upcoming meetings
-- 09/28 20:03 [FirstSquawk] NVIDIA ANNOUNCES RECORD-BREAKING BUYBACK PLAN.
-- 09/28 20:03 [financialjuice] Nvidia marks largest buyback authorization boost in history, to execute total remaining program through FY 2028 $NVDA
-- 09/28 20:03 [financialjuice] NVIDIA to execute total remaining program through fy 2028.
-- 09/28 20:04 [financialjuice] BoE's Ramsden: We seem to be in a period of higher and longer-lasting headline inflation, which is bearing on my thinking
-- 09/28 20:04 [FirstSquawk] BOE’S RAMSDEN: FOOD PRICES WEAKER THAN EXPECTED THEM TO BE
-- 09/28 20:05 [DeItaone] NVIDIA SHARES UP 1.4% PREMARKET AFTER CO ANNOUNCES A $150 BLN SHARE REPURCHASE AUTHORIZATION INCREASE
-- 09/28 20:07 [FirstSquawk] NVIDIA WILL COMPLETE ALL REMAINING PROGRAMS BY FY 2028.
-- 09/28 20:07 [financialjuice] BoE's Ramsden: Risk of higher and longer-lasting inflation increased between July and September MPC meetings
-- 09/28 20:11 [financialjuice] Google to invest at least $15.2b in Finland over two years - Fox $GOOGL
-- 09/28 20:12 [financialjuice] Finland to expand data centers from 50 to 75 facilities - Fox $GOOGL
-- 09/28 20:12 [DeItaone] $TSLA - CANTOR STAYS BULLISH ON TESLA AHEAD OF Q3 DELIVERIES Cantor Fitzgerald reiterated its Overweight rating and $485 price target on Tesla ahead of this week’s expected Q3 delivery update. Cantor forecasts 421,758 vehicle deliveries, be…
-- 09/28 20:12 [FirstSquawk] IRAN'S SUPREME LEADER MOJTABA KHAMENEI CLAIMS IRAN IS NOT JUST A SUPERPOWER BUT THE NUMBER ONE POWER GLOBALLY, ACCORDING TO DIVINE CALCULATIONS.
-- 09/28 20:17 [FirstSquawk] SAUDI ARABIA'S EAST-WEST PIPELINE IS BACK TO EXPORTING OIL.
 - 09/28 20:17 [financialjuice] UK finance Minister Healey: We will meet fiscal rules
 - 09/28 20:19 [FirstSquawk] SAUDI ARABIA ISSUES WARNING ALERT IN JAZAN, NAJRAN
 - 09/28 20:19 [DeItaone] SAUDI ARABIA'S EAST-WEST PIPELINE HAS RESUMED OIL EXPORTS
@@ -380,3 +361,10 @@
 - 09/29 07:45 [financialjuice] Explosions heard in Ukraine's Kyiv: source witness
 - 09/29 07:48 [FirstSquawk] TRUMP SAYS AXIOS 'JUST RELEASED A STORY THAT TRUMP OFFERED SANCTIONS RELIEF AND FROZEN FUNDS TO IRAN', CALLING IT 'UNTRUE' AND SAYING 'I OFFERED THEM NOTHING'. - TRUTH SOCIAL
 - 09/29 07:48 [FirstSquawk] TRUMP CALLS THE AXIOS STORY 'A HOAX, USED ONLY FOR PURPOSES OF SATISFYING THEIR TRUMP DERANGEMENT SYNDROME', DEMANDING THEY 'WITHDRAW THIS FAKE STORY, IMMEDIATELY'. - TRUTH SOCIAL
+- 09/29 08:16 [financialjuice] Anthropic’s top two direct clients made up 24% of total FY25 revenue, 12% each
+- 09/29 08:16 [financialjuice] Exclusive-Anthropic fy25 revenue $4.59 billion, up 1,088% y/y from $386 million in fy24: IPO prospectus seen by source
+- 09/29 08:16 [financialjuice] Anthropic's cash, cash equivalents and short-term investments reached $20.28 billion as of Dec. 31, 2025
+- 09/29 08:16 [financialjuice] Exclusive: Anthropic outlines transformative AI technology plans in marketing pitch to IPO investors – prospectus seen by source
+- 09/29 08:16 [financialjuice] Anthropic’s FY25 GAAP operating loss expands to $8.06 billion from $2.98 billion in FY24, prospectus shows
+- 09/29 08:16 [financialjuice] Anthropic fy25 compute and infrastructure costs surge 190% to $7.33 billion, accounting for 58% of operating expenses
+- 09/29 08:16 [financialjuice] Anthropic fy25 GAAP net deficit widens to $41.97 billion from $8.31 billion in fy24, prospectus shows
