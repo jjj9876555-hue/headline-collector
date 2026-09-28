@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-29 04:53 JST／対象: 09/28 04:53 〜 09/29 04:53 JST（時刻はすべて日本時間）
+生成: 2026-09-29 05:05 JST／対象: 09/28 05:05 〜 09/29 05:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 42 | 09/28 06:12 | 09/29 02:14 | ⚠ 562分（07:06→16:28） |
-| FirstSquawk | 286 | 09/28 05:06 | 09/29 04:49 | ⚠ 78分（08:02→09:21） |
-| financialjuice | 265 | 09/28 05:04 | 09/29 04:51 | ⚠ 124分（05:07→07:11） |
+| FirstSquawk | 292 | 09/28 05:06 | 09/29 05:03 | ⚠ 78分（08:02→09:21） |
+| financialjuice | 269 | 09/28 05:06 | 09/29 05:04 | ⚠ 124分（05:07→07:11） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 581 行（統合前 597 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 591 行（統合前 607 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 05:04 [financialjuice] South Korea presidential office: Ukraine asked to keep transfer of North Korean POWs confidential
-- 09/28 05:05 [financialjuice] South Korea presidential office: South Korea agreed to keep North Korean POW transfer under wraps due to security, diplomatic concerns
-- 09/28 05:05 [financialjuice] South Korea presidential office: Ukraine revealed North Korean POWs transfer to South Korea in UN speech without enough prior consultation
 - 09/28 05:06 [financialjuice] South Korea presidential office: Ukraine's revelation of North Korean POW transfer sparks unnecessary local controversy
 - 09/28 05:06 [FirstSquawk] THE SOUTH KOREA PRESIDENTIAL OFFICE SAYS UKRAINE REQUESTED KEEPING THE NORTH KOREAN POWS' TRANSFER TO SOUTH KOREA CONFIDENTIAL, AND THAT SOUTH KOREA AGREED TO DO SO DUE TO SECURITY AND DIPLOMATIC CONCERNS.
 - 09/28 05:06 [FirstSquawk] THE SOUTH KOREA PRESIDENTIAL OFFICE SAYS UKRAINE DISCLOSED THE NORTH KOREAN POWS' TRANSFER TO SOUTH KOREA IN A UN SPEECH WITHOUT SUFFICIENT PRIOR CONSULTATION, WHICH IT SAYS HAS TRIGGERED UNNECESSARY DOMESTIC CONTROVERSY.
@@ -605,3 +602,16 @@
 - 09/29 04:49 [FirstSquawk] IRAQ’S HEZBOLLAH THREATENS TO CLOSE BORDERS WITH COUNTRIES SANCTIONING IRAN IF AIR EMBARGO ON IRAN CONTINUES AFTER OCTOBER 1 — IRIB
 - 09/29 04:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: -332.0 MLN NASDAQ 100: 613.1 MLN DOW 30: -251.3 MLN MAG 7: 16.3 MLN $MACRO
 - 09/29 04:51 [financialjuice] US Ambassador to NATO Whitaker: Working closely with the UK on arrested men.
+- 09/29 04:53 [financialjuice] Argentina is going to attempt to halt the UK oil project in the Falklands.
+- 09/29 04:53 [financialjuice] Trump: Will visit Iowa
+- 09/29 04:54 [financialjuice] SpaceXAI launches Team Bots for collaborative AI workflows. $SPCX
+- 09/29 04:55 [financialjuice] Al Jazeera Bureau Chief: Information indicates new Iranian proposal does not include nuclear commitments until after the first phase is implemented.
+- 09/29 04:56 [financialjuice] An explosion was heard on Qeshm Island a few minutes ago - IRNA
+- 09/29 04:58 [FirstSquawk] AL JAZEERA: NEW IRANIAN PROPOSAL DEFERS NUCLEAR COMMITMENTS UNTIL AFTER FIRST-PHASE IMPLEMENTATION; DISPUTE CENTERS ON WHICH SIDE GIVES UP LEVERAGE FIRST
+- 09/29 04:58 [FirstSquawk] EXPLOSION HEARD NEAR IRAN’S QESHM ISLAND; SOUND REPORTEDLY CAME FROM SEA, NO DAMAGE REPORTED ON ISLAND — IRNA
+- 09/29 05:02 [FirstSquawk] POPE LEO HAS URGED THE WORLD TO MAKE SURE AI DOES NOT DEVELOP TO A POINT WHERE IT CAN DESTROY HUMANITY, SAYING THE DANGERS OF AI ARE NOT 'FAKE NEWS' AND SHOULD BE TAKEN SERIOUSLY.
+- 09/29 05:02 [FirstSquawk] THE PONTIFF TARGETED NVIDIA FOR CRITICISM FOR NOT WANTING GOVERNMENT REGULATION OF THE TECHNOLOGY.
+- 09/29 05:02 [FirstSquawk] NASDAQ CLOSES 0.92% LOWER AT 26,820.49, DOWN 248.23 POINTS S&P 500 CLOSES 0.69% LOWER, DOWN 60.11 POINTS DOW JONES CLOSES 0.69% LOWER AT 51,472.14, DOWN 356.48 POINTS
+- 09/29 05:03 [financialjuice] Iran's Deputy Chairman of the National Security Committee: Before any negotiations, the United States must accept Iran's conditions - Fars News
+- 09/29 05:03 [FirstSquawk] AAR IS TO PAY $1.8 BLN FOR A STAKE IN AIRCRAFT-MAINTENANCE COMPANY MRO HOLDINGS, AGREEING TO TAKE A 65% INTEREST - WSJ
+- 09/29 05:04 [financialjuice] Iran's Deputy Chairman of the National Security Committee: The nuclear issue is no longer the central focus of negotiations; rather, the Strait of Hormuz is now at the center.
