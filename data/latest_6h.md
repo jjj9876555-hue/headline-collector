@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-28 19:36 JST／対象: 09/28 13:36 〜 09/28 19:36 JST（時刻はすべて日本時間）
+生成: 2026-09-28 19:53 JST／対象: 09/28 13:53 〜 09/28 19:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 11 | 09/28 16:28 | 09/28 19:34 | ⚠ 50分（17:23→18:13） |
-| FirstSquawk | 79 | 09/28 13:42 | 09/28 19:35 | 27分（16:10→16:38） |
-| financialjuice | 34 | 09/28 14:00 | 09/28 19:29 | ⚠ 59分（14:00→15:00） |
+| DeItaone | 14 | 09/28 16:28 | 09/28 19:52 | ⚠ 50分（17:23→18:13） |
+| FirstSquawk | 77 | 09/28 13:56 | 09/28 19:48 | 27分（16:10→16:38） |
+| financialjuice | 40 | 09/28 14:00 | 09/28 19:53 | ⚠ 59分（14:00→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 124 行（統合前 124 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 130 行（統合前 131 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 13:42 [FirstSquawk] ASIAN CURRENCIES WEAKEN AMID ONGOING GEOPOLITICAL TENSIONS-WSJ
-- 09/28 13:45 [FirstSquawk] NORTHERN STAR REJECTS $27 BILLION TAKEOVER PROPOSAL FROM GOLD FIELDS-WSJ
-- 09/28 13:49 [FirstSquawk] JGB YIELDS RISE AMID CONCERNS ABOUT IRAN CONFLICT, INFLATION-WSJ
-- 09/28 13:53 [FirstSquawk] OIL RISES ON GEOPOLITICAL RISKS, STOCKPILE DECLINE-WSJ
-- 09/28 13:53 [FirstSquawk] GOLD FALLS ON EXPECTATIONS OF HIGHER FOR LONGER FED RATES-WSJ
 - 09/28 13:56 [FirstSquawk] Gold prices slide on expectations of prolonged higher Fed rates-wsj
 - 09/28 13:58 [FirstSquawk] Asian currencies come under pressure as geopolitical tensions continue-wsj
 - 09/28 14:00 [financialjuice] Finnish September industry confidence falls 3 points
@@ -148,3 +143,14 @@
 - 09/28 19:29 [financialjuice] EU Commission spokesperson: Commission plans to propose a postponement of the entry into force of the methane regulation, we are now working on this at a technical level
 - 09/28 19:34 [DeItaone] LOUD EXPLOSION WAS HEARD IN CENTRAL KYIV, REUTERS WITNESSES SAY
 - 09/28 19:35 [FirstSquawk] LOUD EXPLOSION HEARD IN CENTRAL KYIV
+- 09/28 19:40 [DeItaone] IRAN'S SUPREME LEADER MOJTABA KHAMENEI SAYS 'ENEMY FORCES' DO NOT DARE ENTER GULF AND THE ARABIAN SEA WOULD SOON BE CLEARED OF 'ENEMIES' - STATEMENT
+- 09/28 19:40 [FirstSquawk] IRAN'S SUPREME LEADER MOJTABA KHAMENEI SAYS 'ENEMY FORCES' DO NOT DARE ENTER GULF AND THE ARABIAN SEA WOULD SOON BE CLEARED OF 'ENEMIES'
+- 09/28 19:41 [financialjuice] Iran's supreme leader, Mojtaba Khamenei: Enemy forces do not dare enter the Gulf, and the Arabian Sea would soon be cleared of 'enemies' - Statement
+- 09/28 19:43 [financialjuice/FirstSquawk] China Cabinet Meeting: Should step up counter-cyclical adjustments in macroeconomic policy - State radio
+- 09/28 19:43 [financialjuice] China Cabinet Meeting: Should accelerate the pace of issuance and use of various types of bonds.
+- 09/28 19:44 [financialjuice] China to study policies to stabilize the property market - Radio
+- 09/28 19:44 [DeItaone] $SPCX : CLSA INITIATES SPACEX AT ACCUMULATE - PT $250
+- 09/28 19:46 [financialjuice] BoE's Ramsden: Wanted QT even further into the background
+- 09/28 19:48 [FirstSquawk] MERCK ENTERS INTO EXCLUSIVE GLOBAL LICENSE AGREEMENT WITH SCIBRUNCH THERAPEUTICS FOR SPR2015, AN INVESTIGATIONAL ORAL KRAS G12D (ON) INHIBITOR (DESIGNED TO BLOCK THE KRAS G12D GENE MUTATION THAT CAUSES TUMOURS TO GROW IN CANCERS LIKE PANCRE…
+- 09/28 19:52 [DeItaone] S&P 500 BREADTH FALLS TO DOT-COM ERA LOW Goldman Sachs says AI stocks are masking extreme weakness beneath the S&P 500, with market breadth falling to its lowest level since the dot-com bubble. The median S&P 500 stock now trades 16% below …
+- 09/28 19:53 [financialjuice] UK Business Secretary Reynolds: Industrial strategy is about inventing and making in the UK
