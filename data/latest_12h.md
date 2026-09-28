@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-29 03:40 JST／対象: 09/28 15:40 〜 09/29 03:40 JST（時刻はすべて日本時間）
+生成: 2026-09-29 03:58 JST／対象: 09/28 15:58 〜 09/29 03:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 38 | 09/28 16:28 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 169 | 09/28 15:51 | 09/29 03:35 | 31分（02:57→03:29） |
-| financialjuice | 178 | 09/28 15:41 | 09/29 03:32 | ⚠ 54分（16:02→16:56） |
+| FirstSquawk | 170 | 09/28 16:02 | 09/29 03:52 | 31分（02:57→03:29） |
+| financialjuice | 182 | 09/28 16:02 | 09/29 03:57 | ⚠ 54分（16:02→16:56） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 374 行（統合前 389 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 379 行（統合前 394 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 15:41 [financialjuice] Qatar extends LNG force majeure for Pakistan into November
-- 09/28 15:48 [financialjuice] BoE's Dhingra: Worry that high rates would hit investment and lower supply
-- 09/28 15:51 [FirstSquawk] HSBC says euro weighed down by rate uncertainty and elevated energy costs-fx
-- 09/28 15:51 [FirstSquawk] Silver prices slide as markets react to the Fed’s hawkish rate outlook-fx
 - 09/28 16:02 [financialjuice] Currency Strength Chart: Strongest: USD, NZD, GBP, AUD, CAD, GBP, EUR, CHF - Weakest
 - 09/28 16:02 [FirstSquawk] SPAIN (JUL) TOTAL MORTGAGE LENDING YOY ACTUAL: 19.0% VS 27.4% PREVIOUS
 - 09/28 16:02 [FirstSquawk] SPAIN (JUL) HOUSE MORTGAGE APPROVALS YOY ACTUAL: -3.5% VS 10.8% PREVIOUS
@@ -398,3 +394,12 @@
 - 09/29 03:31 [financialjuice] NYMEX Diesel October futures settle at $4.7553 a gallon.
 - 09/29 03:32 [financialjuice] NYMEX Natural Gas October futures settle at $3.0000/MMBtu.
 - 09/29 03:35 [FirstSquawk] US COMMERCE SECRETARY LUTNICK HIGHLIGHTS US TRADE IN IRON PELLETS FROM BRAZIL
+- 09/29 03:44 [financialjuice] Saudi Defense Minister invites UAE Vice President to visit Saudi Arabia on Tuesday - Saudi State News Agency.
+- 09/29 03:49 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 0.92% HIGHER AT $105.28/BBL, UP 96 CENTS
+- 09/29 03:49 [financialjuice] Brent Crude futures settle at $105.28/bbl, up 96 cents, 0.92%.
+- 09/29 03:50 [financialjuice] Trump: We will win the Iran war very soon, and it will be over. Gas prices will come tumbling.
+- 09/29 03:50 [FirstSquawk] TRUMP: US WILL WIN IRAN WAR “VERY SOON”; GAS PRICES WILL COME “TUMBLING”
+- 09/29 03:51 [financialjuice] Trump: I had a very respectful meeting with China’s President Xi.
+- 09/29 03:52 [FirstSquawk] TRUMP: HAD A “VERY RESPECTFUL” MEETING WITH CHINA PRESIDENT XI JINPING
+- 09/29 03:56 [financialjuice] Trump: US officials spoke with Iran mediators today.
+- 09/29 03:57 [financialjuice] US Nonfarm Payrolls Prep (2nd October)

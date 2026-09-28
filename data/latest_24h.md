@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-29 03:40 JST／対象: 09/28 03:40 〜 09/29 03:40 JST（時刻はすべて日本時間）
+生成: 2026-09-29 03:58 JST／対象: 09/28 03:58 〜 09/29 03:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 42 | 09/28 06:12 | 09/29 02:14 | ⚠ 562分（07:06→16:28） |
-| FirstSquawk | 276 | 09/28 03:55 | 09/29 03:35 | ⚠ 78分（08:02→09:21） |
-| financialjuice | 242 | 09/28 04:04 | 09/29 03:32 | ⚠ 124分（05:07→07:11） |
+| FirstSquawk | 278 | 09/28 04:01 | 09/29 03:52 | ⚠ 78分（08:02→09:21） |
+| financialjuice | 248 | 09/28 04:04 | 09/29 03:57 | ⚠ 124分（05:07→07:11） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 549 行（統合前 564 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 557 行（統合前 572 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 03:55 [FirstSquawk] US ISSUES SECURITY ALERT AFTER INCIDENT NEAR RAF FAIRFORD BASE IN UK; FIVE ARRESTED IN EXPLOSIVES PROBE
 - 09/28 04:01 [FirstSquawk] NETANYAHU TO FLY TO UAE TODAY FOR MEETING WITH PRESIDENT MOHAMMED BIN ZAYED — CHANNEL 12
 - 09/28 04:04 [financialjuice] Israeli prime minister visited Abu Dhabi on Sunday: UAE president met, Axios sources
 - 09/28 04:06 [FirstSquawk] ISRAELI PM NETANYAHU VISITED ABU DHABI ON SUNDAY, MET UAE PRESIDENT MBZ — AXIOS, CITING SOURCES
@@ -573,3 +572,12 @@
 - 09/29 03:31 [financialjuice] NYMEX Diesel October futures settle at $4.7553 a gallon.
 - 09/29 03:32 [financialjuice] NYMEX Natural Gas October futures settle at $3.0000/MMBtu.
 - 09/29 03:35 [FirstSquawk] US COMMERCE SECRETARY LUTNICK HIGHLIGHTS US TRADE IN IRON PELLETS FROM BRAZIL
+- 09/29 03:44 [financialjuice] Saudi Defense Minister invites UAE Vice President to visit Saudi Arabia on Tuesday - Saudi State News Agency.
+- 09/29 03:49 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 0.92% HIGHER AT $105.28/BBL, UP 96 CENTS
+- 09/29 03:49 [financialjuice] Brent Crude futures settle at $105.28/bbl, up 96 cents, 0.92%.
+- 09/29 03:50 [financialjuice] Trump: We will win the Iran war very soon, and it will be over. Gas prices will come tumbling.
+- 09/29 03:50 [FirstSquawk] TRUMP: US WILL WIN IRAN WAR “VERY SOON”; GAS PRICES WILL COME “TUMBLING”
+- 09/29 03:51 [financialjuice] Trump: I had a very respectful meeting with China’s President Xi.
+- 09/29 03:52 [FirstSquawk] TRUMP: HAD A “VERY RESPECTFUL” MEETING WITH CHINA PRESIDENT XI JINPING
+- 09/29 03:56 [financialjuice] Trump: US officials spoke with Iran mediators today.
+- 09/29 03:57 [financialjuice] US Nonfarm Payrolls Prep (2nd October)

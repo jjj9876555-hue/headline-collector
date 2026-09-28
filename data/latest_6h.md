@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-29 03:40 JST／対象: 09/28 21:40 〜 09/29 03:40 JST（時刻はすべて日本時間）
+生成: 2026-09-29 03:58 JST／対象: 09/28 21:58 〜 09/29 03:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 17 | 09/28 22:49 | 09/29 02:14 | ⚠ 54分（00:44→01:39） |
-| FirstSquawk | 90 | 09/28 21:45 | 09/29 03:35 | 31分（02:57→03:29） |
-| financialjuice | 113 | 09/28 21:46 | 09/29 03:32 | 23分（03:04→03:28） |
+| FirstSquawk | 89 | 09/28 21:58 | 09/29 03:52 | 31分（02:57→03:29） |
+| financialjuice | 116 | 09/28 22:00 | 09/29 03:57 | 23分（03:04→03:28） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 212 行（統合前 224 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 214 行（統合前 225 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 21:45 [FirstSquawk] META ZUCKERBERG: STARTING META ENTERPRISE PLATFORM || STARTING MAJOR NEW PILLAR OF OUR BUSINESS TODAY
-- 09/28 21:46 [FirstSquawk] OIL TRANSPORT VIA SAUDI ARABIA'S EAST-WEST PIPELINE HITS APPROXIMATELY 3.5 MILLION BARRELS PER DAY.
-- 09/28 21:46 [financialjuice] Oil flows through Saudi East-West pipeline reach about 3.5m b/d.
-- 09/28 21:49 [financialjuice] US House Speaker Johnson: We need Taiwan to be stable and independent
-- 09/28 21:49 [FirstSquawk] US HOUSE SPEAKER JOHNSON: WE NEED TAIWAN TO BE STABLE, INDEPENDENT
-- 09/28 21:52 [financialjuice] Trump to unveil planned $15 billion Iowa steel project - WSJ
-- 09/28 21:53 [FirstSquawk] SPACEX'S STARSHIP ROCKET LIFTS OFF ON FIRST-EVER ORBITAL TEST
 - 09/28 21:58 [FirstSquawk] SHEIN 1H NET INCOME $2.30B VS. $1.09B Y/Y
 - 09/28 22:00 [financialjuice] Effective Fed Funds Rate 3.88% September 25 vs 3.88% September 24.
 - 09/28 22:01 [financialjuice] Senate report says Tether's USDT has become a primary means of payment for Iran - WSJ
@@ -236,3 +229,12 @@
 - 09/29 03:31 [financialjuice] NYMEX Diesel October futures settle at $4.7553 a gallon.
 - 09/29 03:32 [financialjuice] NYMEX Natural Gas October futures settle at $3.0000/MMBtu.
 - 09/29 03:35 [FirstSquawk] US COMMERCE SECRETARY LUTNICK HIGHLIGHTS US TRADE IN IRON PELLETS FROM BRAZIL
+- 09/29 03:44 [financialjuice] Saudi Defense Minister invites UAE Vice President to visit Saudi Arabia on Tuesday - Saudi State News Agency.
+- 09/29 03:49 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 0.92% HIGHER AT $105.28/BBL, UP 96 CENTS
+- 09/29 03:49 [financialjuice] Brent Crude futures settle at $105.28/bbl, up 96 cents, 0.92%.
+- 09/29 03:50 [financialjuice] Trump: We will win the Iran war very soon, and it will be over. Gas prices will come tumbling.
+- 09/29 03:50 [FirstSquawk] TRUMP: US WILL WIN IRAN WAR “VERY SOON”; GAS PRICES WILL COME “TUMBLING”
+- 09/29 03:51 [financialjuice] Trump: I had a very respectful meeting with China’s President Xi.
+- 09/29 03:52 [FirstSquawk] TRUMP: HAD A “VERY RESPECTFUL” MEETING WITH CHINA PRESIDENT XI JINPING
+- 09/29 03:56 [financialjuice] Trump: US officials spoke with Iran mediators today.
+- 09/29 03:57 [financialjuice] US Nonfarm Payrolls Prep (2nd October)
