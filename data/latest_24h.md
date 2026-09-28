@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-28 14:18 JST／対象: 09/27 14:18 〜 09/28 14:18 JST（時刻はすべて日本時間）
+生成: 2026-09-28 14:35 JST／対象: 09/27 14:35 〜 09/28 14:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 09/28 00:04 | 09/28 07:06 | ⚠ 368分（00:04→06:12） |
-| FirstSquawk | 200 | 09/27 14:19 | 09/28 14:18 | ⚠ 78分（08:02→09:21） |
+| FirstSquawk | 198 | 09/27 14:48 | 09/28 14:32 | ⚠ 78分（08:02→09:21） |
 | financialjuice | 96 | 09/27 16:30 | 09/28 14:00 | ⚠ 145分（00:29→02:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 290 行（統合前 302 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 288 行（統合前 300 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/27 14:19 [FirstSquawk] Lack of AI openness risks undermining investment in Europe, major companies warn — FT
-- 09/27 14:26 [FirstSquawk] Chinese waste worker scouted for modelling due to striking appearance, chooses not to go full-time - SCMP
-- 09/27 14:27 [FirstSquawk] Nearly 13 million barrels of oil transit Strait of Hormuz each day, U.S. Energy Secretary tells Fox News
-- 09/27 14:27 [FirstSquawk] U.S. Energy Secretary: U.S. forces assisting the movement of oil, gas and fertilizers through Strait of Hormuz
 - 09/27 14:48 [FirstSquawk] Trump-Xi summit frequency could prove more significant than substance - KYODO
 - 09/27 14:59 [FirstSquawk] China fuels rapid expansion of AI-generated video into a commercial industry — Kyodo
 - 09/27 15:25 [FirstSquawk] 17 killed, at tavern in Carletonville, South Africa.
@@ -314,3 +310,5 @@
 - 09/28 14:16 [FirstSquawk] TD Cowen raises BP target price to 565p from 504p
 - 09/28 14:17 [FirstSquawk] HSBC lowers Burberry price target to 1,180p from 1,200p
 - 09/28 14:18 [FirstSquawk] TD Cowen raises Equinor target price to NOK 395 from NOK 366
+- 09/28 14:29 [FirstSquawk] Shell target price raised to 4,165p from 3,965p by TD Cowen
+- 09/28 14:32 [FirstSquawk] Xiaomi-backed robotics chipmaker eyes $100 million Hong Kong listing-scmp

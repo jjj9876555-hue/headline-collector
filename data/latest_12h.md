@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-28 14:18 JST／対象: 09/28 02:18 〜 09/28 14:18 JST（時刻はすべて日本時間）
+生成: 2026-09-28 14:35 JST／対象: 09/28 02:35 〜 09/28 14:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/28 06:12 | 09/28 07:06 | 39分（06:27→07:06） |
-| FirstSquawk | 105 | 09/28 02:37 | 09/28 14:18 | ⚠ 78分（08:02→09:21） |
+| FirstSquawk | 107 | 09/28 02:37 | 09/28 14:32 | ⚠ 78分（08:02→09:21） |
 | financialjuice | 69 | 09/28 02:54 | 09/28 14:00 | ⚠ 124分（05:07→07:11） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 178 行（統合前 178 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 180 行（統合前 180 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -202,3 +202,5 @@
 - 09/28 14:16 [FirstSquawk] TD Cowen raises BP target price to 565p from 504p
 - 09/28 14:17 [FirstSquawk] HSBC lowers Burberry price target to 1,180p from 1,200p
 - 09/28 14:18 [FirstSquawk] TD Cowen raises Equinor target price to NOK 395 from NOK 366
+- 09/28 14:29 [FirstSquawk] Shell target price raised to 4,165p from 3,965p by TD Cowen
+- 09/28 14:32 [FirstSquawk] Xiaomi-backed robotics chipmaker eyes $100 million Hong Kong listing-scmp
