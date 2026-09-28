@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-29 03:21 JST／対象: 09/28 15:21 〜 09/29 03:21 JST（時刻はすべて日本時間）
+生成: 2026-09-29 03:40 JST／対象: 09/28 15:40 〜 09/29 03:40 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 38 | 09/28 16:28 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 167 | 09/28 15:22 | 09/29 02:57 | 27分（16:10→16:38） |
-| financialjuice | 171 | 09/28 15:41 | 09/29 03:04 | ⚠ 54分（16:02→16:56） |
+| FirstSquawk | 169 | 09/28 15:51 | 09/29 03:35 | 31分（02:57→03:29） |
+| financialjuice | 178 | 09/28 15:41 | 09/29 03:32 | ⚠ 54分（16:02→16:56） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 365 行（統合前 380 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 374 行（統合前 389 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 15:22 [FirstSquawk] Australian stocks edge higher as S&P/ASX 200 ends at 8,679.70
-- 09/28 15:24 [FirstSquawk] UK’s Streeting: State-backed actors could seek to harm Britain, requiring continued vigilance
-- 09/28 15:25 [FirstSquawk] UK’s Streeting declines to speculate on motives behind arrests
-- 09/28 15:27 [FirstSquawk] Deutsche Bank cuts PepsiCo rating to Hold from Buy and price target to $138 from $155
 - 09/28 15:41 [financialjuice] Qatar extends LNG force majeure for Pakistan into November
 - 09/28 15:48 [financialjuice] BoE's Dhingra: Worry that high rates would hit investment and lower supply
 - 09/28 15:51 [FirstSquawk] HSBC says euro weighed down by rate uncertainty and elevated energy costs-fx
@@ -389,3 +385,16 @@
 - 09/29 02:57 [financialjuice] Axios Reporter on X: The US wants to see Iran inviting IAEA inspectors back as it committed to in the talks in Switzerland
 - 09/29 02:57 [FirstSquawk] US WANTS IRAN TO ALLOW IAEA INSPECTORS TO RETURN, HONORING COMMITMENT MADE DURING SWISS TALKS — AXIOS REPORTER ON X
 - 09/29 03:04 [financialjuice] UK Official confirms that no viable explosives were found at Fairford.
+- 09/29 03:28 [financialjuice] Trump: Mesabi Metallics to produce 10m tons of steel per year.
+- 09/29 03:29 [financialjuice] Trump Makes an Announcement, September 28th 2026
+- 09/29 03:29 [FirstSquawk] TRUMP: MESABI METALLICS TO PRODUCE 10 MILLION TONS OF STEEL ANNUALLY
+- 09/29 03:30 [FirstSquawk] NIDEC PRESIDENT MITSUYA KISHIDA HAS DECIDED TO STEP DOWN AS CEO OVER LOSSES AT THE E-AXLE EV DRIVE UNIT AND IS EXPECTED TO SUBMIT HIS RESIGNATION AS EARLY AS TUESDAY, WITH MICHIO KAIDA EMERGING AS A POTENTIAL SUCCESSOR - NIKKEI
+- 09/29 03:30 [FirstSquawk] TRUMP: MESABI METALLICS TO BUILD STEEL PLANT IN IOWA, TARGET 10M TONS ANNUAL OUTPUT; PROJECT EXPECTED TO CREATE UP TO 8,000 JOBS AND ADD $95B TO US ECONOMY
+- 09/29 03:30 [financialjuice] Trump: The US has surpassed Japan in steel production.
+- 09/29 03:31 [FirstSquawk] TRUMP: US HAS SURPASSED JAPAN IN STEEL PRODUCTION
+- 09/29 03:31 [financialjuice] NYMEX WTI Crude November futures settle at $92.60 a barrel, up 19 cents, 0.21%.
+- 09/29 03:31 [financialjuice] NYMEX Gasoline October futures settle at $3.3377 a gallon.
+- 09/29 03:31 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 0.21% HIGHER AT $92.60/BBL, UP 19 CENTS
+- 09/29 03:31 [financialjuice] NYMEX Diesel October futures settle at $4.7553 a gallon.
+- 09/29 03:32 [financialjuice] NYMEX Natural Gas October futures settle at $3.0000/MMBtu.
+- 09/29 03:35 [FirstSquawk] US COMMERCE SECRETARY LUTNICK HIGHLIGHTS US TRADE IN IRON PELLETS FROM BRAZIL
