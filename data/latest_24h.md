@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-29 09:33 JST／対象: 09/28 09:33 〜 09/29 09:33 JST（時刻はすべて日本時間）
+生成: 2026-09-29 09:53 JST／対象: 09/28 09:53 〜 09/29 09:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 38 | 09/28 16:28 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 310 | 09/28 09:33 | 09/29 09:17 | ⚠ 131分（05:29→07:40） |
+| FirstSquawk | 302 | 09/28 09:54 | 09/29 09:17 | ⚠ 131分（05:29→07:40） |
 | financialjuice | 282 | 09/28 10:06 | 09/29 09:25 | ⚠ 115分（11:30→13:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 615 行（統合前 634 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 607 行（統合前 626 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 09:33 [FirstSquawk] GLOBAL MARKETS OPENED THE WEEK UNDER PRESSURE AFTER PRESIDENT TRUMP REJECTED IRAN'S LATEST PROPOSAL TO REOPEN THE STRAIT OF HORMUZ, LIFTING BRENT CRUDE TO AROUND $105.70 AND WTI TO $93.26, WITH RISING OIL PRICES FUELING INFLATION CONCERNS A…
-- 09/28 09:33 [FirstSquawk] MARKETS ALSO REACTED TO TRUMP'S COMMENTS THAT HE EXPECTS IRAN NEGOTIATIONS TO RESUME THIS WEEK DESPITE REJECTING TEHRAN'S OFFER AND THAT HE IS 'VERY SERIOUSLY' CONSIDERING A U.S. DIESEL EXPORT BAN — A MOVE THAT COULD TIGHTEN GLOBAL FUEL SUP…
-- 09/28 09:34 [FirstSquawk] Startup Red Queen Bio turns to AI to prepare antibody drugs for future pandemics - WSJ
-- 09/28 09:35 [FirstSquawk] Prada looks to attract ultra-wealthy shoppers with high-end experiences and $100,000 designs - WSJ
-- 09/28 09:36 [FirstSquawk] US SAYS NO PLANS TO SELL WEAPONS TO CHINA AFTER PERDUE COMMENTS – WSJ
-- 09/28 09:39 [FirstSquawk] Australian dollar slips toward 0.7000 as hawkish Fed signals weigh ahead of RBA decision - FX
-- 09/28 09:50 [FirstSquawk] Seoul equities start lower despite overnight gains on Wall Street
-- 09/28 09:51 [FirstSquawk] Seoul voices strong regret over Ukraine’s denial of nondisclosure deal involving North Korean POWs - YONHAP
 - 09/28 09:54 [FirstSquawk] Tokyo Metro says data breach may have exposed 59,000 customer email addresses
 - 09/28 09:58 [FirstSquawk] Darwin Port lease sparks fresh tensions between Australia and China - KYODO
 - 09/28 10:01 [FirstSquawk] POLITICO - Trump administration airs campaign-style Trump ad as taxpayer-funded messaging expands

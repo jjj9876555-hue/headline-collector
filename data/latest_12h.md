@@ -7,32 +7,24 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-29 09:33 JST／対象: 09/28 21:33 〜 09/29 09:33 JST（時刻はすべて日本時間）
+生成: 2026-09-29 09:53 JST／対象: 09/28 21:53 〜 09/29 09:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 17 | 09/28 22:49 | 09/29 02:14 | ⚠ 54分（00:44→01:39） |
-| FirstSquawk | 145 | 09/28 21:45 | 09/29 09:17 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 192 | 09/28 21:37 | 09/29 09:25 | 30分（07:45→08:16） |
+| FirstSquawk | 141 | 09/28 21:58 | 09/29 09:17 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 188 | 09/28 21:53 | 09/29 09:25 | 30分（07:45→08:16） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 342 行（統合前 358 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 334 行（統合前 349 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 21:37 [financialjuice] Meta CEO Zuckerberg: Starting major new pillar of our business today. Starting Meta enterprise platform.
-- 09/28 21:38 [financialjuice] Facebook's CEO Zuckerberg: To help businesses use AI to grow in new ways $META
-- 09/28 21:45 [FirstSquawk] META ZUCKERBERG: STARTING META ENTERPRISE PLATFORM || STARTING MAJOR NEW PILLAR OF OUR BUSINESS TODAY
-- 09/28 21:46 [FirstSquawk] OIL TRANSPORT VIA SAUDI ARABIA'S EAST-WEST PIPELINE HITS APPROXIMATELY 3.5 MILLION BARRELS PER DAY.
-- 09/28 21:46 [financialjuice] Oil flows through Saudi East-West pipeline reach about 3.5m b/d.
-- 09/28 21:49 [financialjuice] US House Speaker Johnson: We need Taiwan to be stable and independent
-- 09/28 21:49 [FirstSquawk] US HOUSE SPEAKER JOHNSON: WE NEED TAIWAN TO BE STABLE, INDEPENDENT
-- 09/28 21:52 [financialjuice] Trump to unveil planned $15 billion Iowa steel project - WSJ
-- 09/28 21:53 [FirstSquawk] SPACEX'S STARSHIP ROCKET LIFTS OFF ON FIRST-EVER ORBITAL TEST
+- 09/28 21:53 [financialjuice] Trump to Unveil Planned $15 Billion Iowa Steel Project- WSJ
 - 09/28 21:58 [FirstSquawk] SHEIN 1H NET INCOME $2.30B VS. $1.09B Y/Y
 - 09/28 22:00 [financialjuice] Effective Fed Funds Rate 3.88% September 25 vs 3.88% September 24.
 - 09/28 22:01 [financialjuice] Senate report says Tether's USDT has become a primary means of payment for Iran - WSJ
