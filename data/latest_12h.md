@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-29 15:44 JST／対象: 09/29 03:44 〜 09/29 15:44 JST（時刻はすべて日本時間）
+生成: 2026-09-29 16:03 JST／対象: 09/29 04:03 〜 09/29 16:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 175 | 09/29 03:49 | 09/29 15:40 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 128 | 09/29 03:49 | 09/29 15:22 | ⚠ 62分（11:21→12:24） |
+| FirstSquawk | 181 | 09/29 04:13 | 09/29 16:02 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 127 | 09/29 04:03 | 09/29 16:00 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 299 行（統合前 303 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 304 行（統合前 308 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 03:49 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 0.92% HIGHER AT $105.28/BBL, UP 96 CENTS
-- 09/29 03:49 [financialjuice] Brent Crude futures settle at $105.28/bbl, up 96 cents, 0.92%.
-- 09/29 03:50 [financialjuice] Trump: We will win the Iran war very soon, and it will be over. Gas prices will come tumbling.
-- 09/29 03:50 [FirstSquawk] TRUMP: US WILL WIN IRAN WAR “VERY SOON”; GAS PRICES WILL COME “TUMBLING”
-- 09/29 03:51 [financialjuice] Trump: I had a very respectful meeting with China’s President Xi.
-- 09/29 03:52 [FirstSquawk] TRUMP: HAD A “VERY RESPECTFUL” MEETING WITH CHINA PRESIDENT XI JINPING
-- 09/29 03:56 [financialjuice] Trump: US officials spoke with Iran mediators today.
-- 09/29 03:57 [financialjuice] US Nonfarm Payrolls Prep (2nd October)
-- 09/29 03:59 [financialjuice] Trump, asked about arms sales to China: It wasn't discussed.
-- 09/29 03:59 [FirstSquawk] TRUMP: US OFFICIALS SPOKE WITH IRAN MEDIATORS TODAY; SAYS US PREVENTED IRAN FROM OBTAINING A NUCLEAR WEAPON
-- 09/29 03:59 [FirstSquawk] NVIDIA’S BOARD APPROVED AN ADDITIONAL $150 BILLION IN SHARE BUYBACK AUTHORIZATION, BRINGING THE TOTAL REPURCHASE PROGRAM TO $235 BILLION THROUGH THE FISCAL YEAR ENDING JANUARY 30, 2028.
-- 09/29 03:59 [FirstSquawk] NVIDIA SHARES ROSE 2.1% MONDAY, WITH THE STOCK UP ABOUT 24% THIS YEAR, AS THE COMPANY LOOKS TO RETURN PART OF ITS AI-DRIVEN CASH GENERATION TO SHAREHOLDERS WHILE CONTINUING TO INVEST IN AI AND ACCELERATED COMPUTING.
-- 09/29 04:02 [financialjuice] Tesla: Roadster event rescheduled due to weather; new date is October 15th. $TSLA
 - 09/29 04:03 [financialjuice] Meta and Amazon are being queried over tax breaks related to AI investments. $META $AMZN
 - 09/29 04:04 [financialjuice] Trump: Think a deal will be made on Canada trade.
 - 09/29 04:07 [financialjuice] Trump: Inflation will be eradicated after the war with Iran ends.
@@ -323,3 +310,21 @@
 - 09/29 15:22 [financialjuice] RBA's Gov. Bullock: We need to see quarterly core inflation numbers sitting around 0.6%.
 - 09/29 15:24 [FirstSquawk] South Korea’s Defense Minister: North Korean mine that caused explosion violated armistice agreement
 - 09/29 15:40 [FirstSquawk] South Korea Defence Minister Kang: DMZ mine appears to have been planted during North Korea’s border fortification work
+- 09/29 15:44 [FirstSquawk] South Korea’s Defence Minister Kang says DMZ mine appears linked to North Korea’s border fortification work
+- 09/29 15:48 [FirstSquawk] Shell to expand Canada LNG facility capacity to 28 million tonnes a year
+- 09/29 15:58 [FirstSquawk] South Korea Joint Chiefs of Staff: DMZ mines likely planted just over a year ago
+- 09/29 15:59 [FirstSquawk] South Korea Joint Chiefs of Staff: UN Command says DMZ explosion mines were clearly south of Military Demarcation Line
+- 09/29 16:00 [financialjuice] SPANISH CPI MOM FLASH ACTUAL 0.3% (FORECAST 0.1%, PREVIOUS 0.70%) $MACRO
+- 09/29 16:00 [financialjuice] SPANISH HICP MOM FLASH ACTUAL 0.6% (FORECAST 0.6%, PREVIOUS 0.7%) $MACRO
+- 09/29 16:00 [financialjuice] SPANISH HICP YOY FLASH ACTUAL 5% (FORECAST 4.9%, PREVIOUS 4.6%) $MACRO
+- 09/29 16:00 [financialjuice] SWISS KOF INDICATOR ACTUAL 109.1 (FORECAST 106, PREVIOUS 106.7) $MACRO
+- 09/29 16:00 [financialjuice] SPANISH CPI YOY FLASH ACTUAL 4.9% (FORECAST 4.6%, PREVIOUS 4.3%) $MACRO
+- 09/29 16:00 [financialjuice] SPANISH RETAIL SALES SA YOY ACTUAL -0.4% (FORECAST -, PREVIOUS -0.3%) $MACRO
+- 09/29 16:02 [FirstSquawk] SPAIN CPI (Y/Y) SEP P: 4.9% (EST 4.6%; PREV 4.3%)
+- 09/29 16:02 [FirstSquawk] SPAIN CPI (M/M): 0.3% (EST 0.1%; PREV 0.7%)
+- 09/29 16:02 [FirstSquawk] SPAIN CPI EU H. (Y/Y): 5.0% (EST 4.9%; PREV 4.6%)
+- 09/29 16:02 [FirstSquawk] SWITZERLAND KOF LEADING INDICATOR SEP: 109.1 (EST 106.0; PREV 106.7; PREV R 107.5)
+- 09/29 16:02 [FirstSquawk] SPAIN CPI EU H. (M/M): 0.6% (EST 0.6%; PREV 0.7%)
+- 09/29 16:02 [FirstSquawk] SPAIN CPI CORE (Y/Y): 3.1% (EST 3.0%; PREV 2.9%)
+- 09/29 16:02 [FirstSquawk] SPAIN RETAIL SALES (Y/Y) AUG: -1.1% (PREV -0.2%; PREV R -0.3%)
+- 09/29 16:02 [FirstSquawk] SPAIN RETAIL SALES SA (Y/Y): -0.4% (EST -0.3%; PREV R -0.4%)

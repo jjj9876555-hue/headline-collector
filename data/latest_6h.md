@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-29 15:44 JST／対象: 09/29 09:44 〜 09/29 15:44 JST（時刻はすべて日本時間）
+生成: 2026-09-29 16:03 JST／対象: 09/29 10:03 〜 09/29 16:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 120 | 09/29 10:06 | 09/29 15:40 | 26分（12:45→13:11） |
-| financialjuice | 52 | 09/29 10:05 | 09/29 15:22 | ⚠ 62分（11:21→12:24） |
+| FirstSquawk | 132 | 09/29 10:06 | 09/29 16:02 | 26分（12:45→13:11） |
+| financialjuice | 58 | 09/29 10:05 | 09/29 16:00 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 172 行（統合前 172 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 190 行（統合前 190 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -196,3 +196,21 @@
 - 09/29 15:22 [financialjuice] RBA's Gov. Bullock: We need to see quarterly core inflation numbers sitting around 0.6%.
 - 09/29 15:24 [FirstSquawk] South Korea’s Defense Minister: North Korean mine that caused explosion violated armistice agreement
 - 09/29 15:40 [FirstSquawk] South Korea Defence Minister Kang: DMZ mine appears to have been planted during North Korea’s border fortification work
+- 09/29 15:44 [FirstSquawk] South Korea’s Defence Minister Kang says DMZ mine appears linked to North Korea’s border fortification work
+- 09/29 15:48 [FirstSquawk] Shell to expand Canada LNG facility capacity to 28 million tonnes a year
+- 09/29 15:58 [FirstSquawk] South Korea Joint Chiefs of Staff: DMZ mines likely planted just over a year ago
+- 09/29 15:59 [FirstSquawk] South Korea Joint Chiefs of Staff: UN Command says DMZ explosion mines were clearly south of Military Demarcation Line
+- 09/29 16:00 [financialjuice] SPANISH CPI MOM FLASH ACTUAL 0.3% (FORECAST 0.1%, PREVIOUS 0.70%) $MACRO
+- 09/29 16:00 [financialjuice] SPANISH HICP MOM FLASH ACTUAL 0.6% (FORECAST 0.6%, PREVIOUS 0.7%) $MACRO
+- 09/29 16:00 [financialjuice] SPANISH HICP YOY FLASH ACTUAL 5% (FORECAST 4.9%, PREVIOUS 4.6%) $MACRO
+- 09/29 16:00 [financialjuice] SWISS KOF INDICATOR ACTUAL 109.1 (FORECAST 106, PREVIOUS 106.7) $MACRO
+- 09/29 16:00 [financialjuice] SPANISH CPI YOY FLASH ACTUAL 4.9% (FORECAST 4.6%, PREVIOUS 4.3%) $MACRO
+- 09/29 16:00 [financialjuice] SPANISH RETAIL SALES SA YOY ACTUAL -0.4% (FORECAST -, PREVIOUS -0.3%) $MACRO
+- 09/29 16:02 [FirstSquawk] SPAIN CPI (Y/Y) SEP P: 4.9% (EST 4.6%; PREV 4.3%)
+- 09/29 16:02 [FirstSquawk] SPAIN CPI (M/M): 0.3% (EST 0.1%; PREV 0.7%)
+- 09/29 16:02 [FirstSquawk] SPAIN CPI EU H. (Y/Y): 5.0% (EST 4.9%; PREV 4.6%)
+- 09/29 16:02 [FirstSquawk] SWITZERLAND KOF LEADING INDICATOR SEP: 109.1 (EST 106.0; PREV 106.7; PREV R 107.5)
+- 09/29 16:02 [FirstSquawk] SPAIN CPI EU H. (M/M): 0.6% (EST 0.6%; PREV 0.7%)
+- 09/29 16:02 [FirstSquawk] SPAIN CPI CORE (Y/Y): 3.1% (EST 3.0%; PREV 2.9%)
+- 09/29 16:02 [FirstSquawk] SPAIN RETAIL SALES (Y/Y) AUG: -1.1% (PREV -0.2%; PREV R -0.3%)
+- 09/29 16:02 [FirstSquawk] SPAIN RETAIL SALES SA (Y/Y): -0.4% (EST -0.3%; PREV R -0.4%)
