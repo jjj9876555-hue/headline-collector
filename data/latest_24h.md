@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-29 11:47 JST／対象: 09/28 11:47 〜 09/29 11:47 JST（時刻はすべて日本時間）
+生成: 2026-09-29 11:59 JST／対象: 09/28 11:59 〜 09/29 11:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 38 | 09/28 16:28 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 315 | 09/28 11:49 | 09/29 11:47 | ⚠ 131分（05:29→07:40） |
+| FirstSquawk | 310 | 09/28 12:07 | 09/29 11:47 | ⚠ 131分（05:29→07:40） |
 | financialjuice | 273 | 09/28 13:26 | 09/29 11:21 | ⚠ 59分（14:00→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 611 行（統合前 630 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 606 行（統合前 625 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 11:49 [FirstSquawk] Tropical storm watch issued for southwestern Mexico coast, NHC says
-- 09/28 11:50 [FirstSquawk] South Korea’s plan to provide airline meals to deportees sparks disagreement among officials - SCMP
-- 09/28 11:51 [FirstSquawk] Chinese wealthy buyers turn to Italy for property, attracted by lifestyle and tax benefits - SCMP
-- 09/28 11:54 [FirstSquawk] Gold spot price extends decline, last down 2% at $4,201.18/oz
-- 09/28 11:54 [FirstSquawk] Palladium spot price drops 3% to $1,229.42/oz
 - 09/28 12:07 [FirstSquawk] Northern Star declines Gold Fields’ $27 billion takeover offer - WSJ
 - 09/28 12:08 [FirstSquawk] Australia’s Ingenia receives improved $1.5 billion offer from Warburg Pincus - WSJ
 - 09/28 12:21 [FirstSquawk] South Korean regulator plans 14.8 billion won in fines for barbecue chain operator
