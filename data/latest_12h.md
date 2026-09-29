@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-30 00:03 JST／対象: 09/29 12:03 〜 09/30 00:03 JST（時刻はすべて日本時間）
+生成: 2026-09-30 00:29 JST／対象: 09/29 12:29 〜 09/30 00:29 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 42 | 09/29 20:26 | 09/30 00:01 | 35分（21:39→22:14） |
-| FirstSquawk | 218 | 09/29 12:04 | 09/30 00:02 | 30分（19:41→20:12） |
-| financialjuice | 132 | 09/29 12:24 | 09/30 00:03 | ⚠ 50分（22:45→23:36） |
+| DeItaone | 44 | 09/29 20:26 | 09/30 00:25 | 35分（21:39→22:14） |
+| FirstSquawk | 220 | 09/29 12:36 | 09/30 00:28 | 30分（19:41→20:12） |
+| financialjuice | 140 | 09/29 13:03 | 09/30 00:21 | ⚠ 50分（22:45→23:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 378 行（統合前 394 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 390 行（統合前 406 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 12:04 [FirstSquawk] Singapore MAS to launch $16 million market-making sleeve to support SGX stock trading
-- 09/29 12:14 [FirstSquawk] China asks local governments to trial ‘high-quality’ policies to spur consumer spending
-- 09/29 12:22 [FirstSquawk] Dollar index gains as rising oil prices lift Fed rate-hike expectations - FX
-- 09/29 12:24 [financialjuice] CNN, MSNBC and Politico ask judge to block Trump from reviving White House ban
-- 09/29 12:24 [FirstSquawk] CNN, MS NOW and Politico ask court to halt Trump’s attempt to revive White House ban
-- 09/29 12:27 [FirstSquawk] Bank of India’s $1 billion MTN programme rated ‘BBB-’ by Fitch
 - 09/29 12:36 [FirstSquawk] Japan 40-year JGB auction highest yield stands at 4.1250%; 42.4153% of bids accepted
 - 09/29 12:45 [FirstSquawk] South Korea sees farming households increase to 1.27 million in 2025, while average farm area hits 65-year low - YONHAP
 - 09/29 13:03 [financialjuice] Germany delivers EU budget ultimatum - FT
@@ -402,3 +396,21 @@
 - 09/30 00:02 [financialjuice] The EU Commission is going to convene an extra oil coordination group meeting, if need.
 - 09/30 00:02 [FirstSquawk] EU OIL COORDINATION GROUP NEXT MEETING IS SCHEDULED FOR 15TH OCTOBER
 - 09/30 00:03 [financialjuice] ❗ UK's PM Burnham Spokesman doesn’t rule out UK rejoining EU
+- 09/30 00:04 [FirstSquawk] UK PM BURNHAM SPOX DOESN’T JOIN OUT UK REJOINING EU
+- 09/30 00:04 [financialjuice] China comments on reports of EU members drafting 301 tools: Moves will disrupt supply chain stability.
+- 09/30 00:05 [financialjuice] The UK pensions change is going to save £15 billion by 2040 - Official.
+- 09/30 00:05 [financialjuice] ❗ UK's PM Burnham official doesn’t rule out tax rises to fund care.
+- 09/30 00:05 [financialjuice] China urges the EU to use dialogs to solve disputes.
+- 09/30 00:06 [financialjuice] China vows response if EU goes ahead with discriminatory moves.
+- 09/30 00:08 [DeItaone] EU OIL COORDINATION GROUP MET ON TUESDAY, CONFIRMED SUPPLY STABLE DESPITE HIGH DIESEL AND JET FUEL PRICES EU SAYS BLOC'S OIL REFINERIES ARE RUNNING AT NEAR-MAXIMUM CAPACITY, RESPONDING WELL TO MARKET SIGNALS
+- 09/30 00:08 [FirstSquawk] CHINA MOFCOM ON REPORTS OF EU MEMBERS DRAFTING 301 TOOLS: MOVES WILL DISRUPT SUPPLY CHAIN STABILITY
+- 09/30 00:09 [FirstSquawk] UK PENSIONS CHANGE TO SAVE £15 BILLION BY 2040: OFFICIAL
+- 09/30 00:12 [financialjuice] Trump will headline a midterm rally in Nebraska on Monday - CNN.
+- 09/30 00:15 [FirstSquawk] APPLE’S NEW CEO MOVES TO OVERHAUL COMPANY TO RUN FASTER, LEANER
+- 09/30 00:15 [FirstSquawk] APPLE’S TERNUS DISCUSSES HOLDING MORE FREQUENT PRODUCT LAUNCHES
+- 09/30 00:15 [financialjuice] Apple Cuts Engineering Program Managers in Efficiency Push $AAPL
+- 09/30 00:15 [financialjuice] Fed bids for 52-Week bills total $5.2 bln
+- 09/30 00:21 [financialjuice] Israel's Yamina Leader Bennett: The IDF is on verge of collapse and lacks enough soldiers to deal with threats cited by Israeli Prime Minister Netanyahu - Israel's Channel 12 News.
+- 09/30 00:25 [DeItaone] HOMELAND SECURITY MONEY FINANCED PRO-TRUMP TV ADS, SOURCES SAY
+- 09/30 00:28 [FirstSquawk] DIMON: JPMORGAN MAY EXCEED $1.5T GOAL FOR NATL SEC. INITIATIVE
+- 09/30 00:28 [FirstSquawk] ANTHROPIC DISCLOSES UP TO $84.5 BLN IN SPACEX COMPUTE DEALS THROUGH 2029 - INFORMATION
