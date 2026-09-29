@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-29 14:18 JST／対象: 09/29 08:18 〜 09/29 14:18 JST（時刻はすべて日本時間）
+生成: 2026-09-29 14:34 JST／対象: 09/29 08:34 〜 09/29 14:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 112 | 09/29 08:46 | 09/29 14:01 | ⚠ 49分（09:17→10:06） |
-| financialjuice | 51 | 09/29 08:40 | 09/29 14:05 | ⚠ 62分（11:21→12:24） |
+| FirstSquawk | 117 | 09/29 08:46 | 09/29 14:26 | ⚠ 49分（09:17→10:06） |
+| financialjuice | 56 | 09/29 08:40 | 09/29 14:34 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 163 行（統合前 163 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 173 行（統合前 173 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -187,3 +187,13 @@
 - 09/29 14:01 [FirstSquawk] JAPAN (JUL) LEADING INDEX CI ACTUAL: 117.7 VS 117.9 PREVIOUS
 - 09/29 14:01 [FirstSquawk] JAPAN (JUL) COINCIDENT INDEX ACTUAL: 120.6 VS 120.6 PREVIOUS
 - 09/29 14:05 [financialjuice] ❗ JAPANESE LEADING INDICATOR CHANGE REV. ACTUAL 1.5 (FORECAST -, PREVIOUS 1.7) $MACRO
+- 09/29 14:18 [FirstSquawk] RBA hikes rates for fourth time amid renewed inflation concerns, WSJ says
+- 09/29 14:18 [FirstSquawk] Samsung invests $1 billion in AI infrastructure firm backed by KKR, Nvidia, WSJ says
+- 09/29 14:21 [FirstSquawk] Brent oil futures gain more than 2% to $107.44/bbl; December contract up over 2% at $99.87/bbl
+- 09/29 14:22 [FirstSquawk] IRANIAN FOREIGN MINISTER SAYS TEHRAN EXPECTS US RESPONSE TODAY ON HORMUZ REOPENING PROPOSAL
+- 09/29 14:26 [FirstSquawk] Russian strike damages port facilities in Ukraine’s Odesa region, governor says
+- 09/29 14:31 [financialjuice] RBA's Gov. Bullock: Inflation is driven by domestic capacity pressures.
+- 09/29 14:32 [financialjuice] RBA's Gov. Bullock: Inflationary pressures to last longer than expected.
+- 09/29 14:33 [financialjuice] RBA's Gov. Bullock: The board will raise rates again if needed
+- 09/29 14:33 [financialjuice] RBA's Gov. Bullock: I still think the labor market is a little bit tight
+- 09/29 14:34 [financialjuice] RBA's Gov. Bullock: Unemployment is still quite low by historical standards

@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-29 14:18 JST／対象: 09/29 02:18 〜 09/29 14:18 JST（時刻はすべて日本時間）
+生成: 2026-09-29 14:34 JST／対象: 09/29 02:34 〜 09/29 14:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 170 | 09/29 02:28 | 09/29 14:01 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 138 | 09/29 02:19 | 09/29 14:05 | ⚠ 62分（11:21→12:24） |
+| FirstSquawk | 171 | 09/29 02:35 | 09/29 14:26 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 130 | 09/29 02:51 | 09/29 14:34 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 304 行（統合前 308 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 297 行（統合前 301 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 02:19 [financialjuice] American source engaged in negotiations with Iran to Al Arabiya: The chances of an agreement are extremely slim.
-- 09/29 02:20 [financialjuice] US Source engaged in negotiations with Iran to Al Arabiya: Gaps are wide and obstacles are major
-- 09/29 02:25 [financialjuice] Fed's Cook: Number and magnitude of any future rate adjustments will be informed by inflation and labor market data, and the economy's reaction to the Fed's actions so far
-- 09/29 02:26 [financialjuice] Fed's Cook: Highly attentive to AI potentially causing a temporary rise in unemployment; Fed has limited tools, rate cuts could fuel inflation
-- 09/29 02:26 [financialjuice] Fed's Cook: Expect to see continued inflation pressure in coming months, from artificial intelligence and conflict in the Middle East
-- 09/29 02:26 [financialjuice] Fed's Cook: Hope pace of AI adoption will minimize net job losses
-- 09/29 02:26 [financialjuice] Fed's Cook: See some economy-wide pressure from AI-fueled demand
-- 09/29 02:26 [financialjuice] Fed's Cook: Those gains will not come in time to offset broadening inflation this year; signs of broadening pressure in inflation data
-- 09/29 02:26 [financialjuice] Fed's Cook: Limited evidence to date that al is changing labor market structure.
-- 09/29 02:27 [financialjuice] Fed's Cook: Fed would have limited tools to help in such a case. Lowering rates could fuel inflation.
-- 09/29 02:27 [financialjuice] Fed's Cook Speech
-- 09/29 02:28 [FirstSquawk] IRAN REPORTEDLY AGREES TO HALT URANIUM ENRICHMENT IN EXCHANGE FOR US SANCTIONS RELIEF — AL HADATH, CITING SOURCES
-- 09/29 02:29 [financialjuice] Fed's Barkin: Low unemployment rate is a key factor for consumption
-- 09/29 02:29 [FirstSquawk] THE NYC SPEAKER SAYS OPENAI, ANTHROPIC, GOOGLE AND META HAVE ALL AGREED TO TESTIFY, WHILE THE COUNCIL HAS ISSUED A SUBPOENA FOR SPACEXAI TO TESTIFY
-- 09/29 02:30 [FirstSquawk] A U.S. SOURCE ENGAGED IN NEGOTIATIONS WITH IRAN TELLS AL ARABIYA THAT 'THE GAPS ARE WIDE AND OBSTACLES ARE MAJOR', ADDING THAT 'THE CHANCES OF AN AGREEMENT ARE EXTREMELY SLIM'
-- 09/29 02:31 [FirstSquawk] HAPAG-LLOYD SEES FY EBITDA BETWEEN $3.9 BLN AND $4.4 BLN AND FY2026 GROUP EBIT IN A $1.25 BLN-$1.75 BLN RANGE, ADDING THAT AGAINST A BACKDROP OF VOLATILE FREIGHT RATES AND PERSISTENT GEOPOLITICAL CHALLENGES, THE FORECAST IS SUBJECT TO A HIG…
-- 09/29 02:32 [financialjuice] Fed's Barkin: Wouldn't say AI is immune to rate pressure
 - 09/29 02:35 [FirstSquawk] PENNSYLVANIA REPORTS 903 MEASLES CASES, INCLUDING 176 HOSPITALIZATIONS, AS OF SEPTEMBER 28 — HEALTH DEPARTMENT
 - 09/29 02:35 [FirstSquawk] ZUCKERBERG & AMODEI TO JOIN TRUMP AT WHITE HOUSE AI MEETING — POLITICO
 - 09/29 02:38 [FirstSquawk] FED'S COOK SAYS SHE EXPECTS TO SEE CONTINUED INFLATION PRESSURE IN COMING MONTHS FROM ARTIFICIAL INTELLIGENCE AND THE CONFLICT IN THE MIDDLE EAST, SEEING SOME ECONOMY-WIDE PRESSURE FROM AI-FUELED DEMAND AND SIGNS OF BROADENING PRESSURE IN T…
@@ -328,3 +311,13 @@
 - 09/29 14:01 [FirstSquawk] JAPAN (JUL) LEADING INDEX CI ACTUAL: 117.7 VS 117.9 PREVIOUS
 - 09/29 14:01 [FirstSquawk] JAPAN (JUL) COINCIDENT INDEX ACTUAL: 120.6 VS 120.6 PREVIOUS
 - 09/29 14:05 [financialjuice] ❗ JAPANESE LEADING INDICATOR CHANGE REV. ACTUAL 1.5 (FORECAST -, PREVIOUS 1.7) $MACRO
+- 09/29 14:18 [FirstSquawk] RBA hikes rates for fourth time amid renewed inflation concerns, WSJ says
+- 09/29 14:18 [FirstSquawk] Samsung invests $1 billion in AI infrastructure firm backed by KKR, Nvidia, WSJ says
+- 09/29 14:21 [FirstSquawk] Brent oil futures gain more than 2% to $107.44/bbl; December contract up over 2% at $99.87/bbl
+- 09/29 14:22 [FirstSquawk] IRANIAN FOREIGN MINISTER SAYS TEHRAN EXPECTS US RESPONSE TODAY ON HORMUZ REOPENING PROPOSAL
+- 09/29 14:26 [FirstSquawk] Russian strike damages port facilities in Ukraine’s Odesa region, governor says
+- 09/29 14:31 [financialjuice] RBA's Gov. Bullock: Inflation is driven by domestic capacity pressures.
+- 09/29 14:32 [financialjuice] RBA's Gov. Bullock: Inflationary pressures to last longer than expected.
+- 09/29 14:33 [financialjuice] RBA's Gov. Bullock: The board will raise rates again if needed
+- 09/29 14:33 [financialjuice] RBA's Gov. Bullock: I still think the labor market is a little bit tight
+- 09/29 14:34 [financialjuice] RBA's Gov. Bullock: Unemployment is still quite low by historical standards

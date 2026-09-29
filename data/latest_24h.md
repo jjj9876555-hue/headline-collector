@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-29 14:18 JST／対象: 09/28 14:18 〜 09/29 14:18 JST（時刻はすべて日本時間）
+生成: 2026-09-29 14:34 JST／対象: 09/28 14:34 〜 09/29 14:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 38 | 09/28 16:28 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 332 | 09/28 14:18 | 09/29 14:01 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 292 | 09/28 15:00 | 09/29 14:05 | ⚠ 62分（11:21→12:24） |
+| FirstSquawk | 334 | 09/28 14:36 | 09/29 14:26 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 297 | 09/28 15:00 | 09/29 14:34 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 647 行（統合前 666 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 654 行（統合前 673 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 14:18 [FirstSquawk] TD Cowen raises Equinor target price to NOK 395 from NOK 366
-- 09/28 14:29 [FirstSquawk] Shell target price raised to 4,165p from 3,965p by TD Cowen
-- 09/28 14:32 [FirstSquawk] Xiaomi-backed robotics chipmaker eyes $100 million Hong Kong listing-scmp
 - 09/28 14:36 [FirstSquawk] Russian Defence Ministry says cargo ship was struck in Black Sea
 - 09/28 15:00 [financialjuice] SWEDISH TRADE BALANCE ACTUAL -11.9B (FORECAST -, PREVIOUS 1.2B) $MACRO
 - 09/28 15:00 [FirstSquawk] SWEDEN (AUG) TRADE BALANCE ACTUAL: -11.9B VS 1.2B PREVIOUS
@@ -671,3 +668,13 @@
 - 09/29 14:01 [FirstSquawk] JAPAN (JUL) LEADING INDEX CI ACTUAL: 117.7 VS 117.9 PREVIOUS
 - 09/29 14:01 [FirstSquawk] JAPAN (JUL) COINCIDENT INDEX ACTUAL: 120.6 VS 120.6 PREVIOUS
 - 09/29 14:05 [financialjuice] ❗ JAPANESE LEADING INDICATOR CHANGE REV. ACTUAL 1.5 (FORECAST -, PREVIOUS 1.7) $MACRO
+- 09/29 14:18 [FirstSquawk] RBA hikes rates for fourth time amid renewed inflation concerns, WSJ says
+- 09/29 14:18 [FirstSquawk] Samsung invests $1 billion in AI infrastructure firm backed by KKR, Nvidia, WSJ says
+- 09/29 14:21 [FirstSquawk] Brent oil futures gain more than 2% to $107.44/bbl; December contract up over 2% at $99.87/bbl
+- 09/29 14:22 [FirstSquawk] IRANIAN FOREIGN MINISTER SAYS TEHRAN EXPECTS US RESPONSE TODAY ON HORMUZ REOPENING PROPOSAL
+- 09/29 14:26 [FirstSquawk] Russian strike damages port facilities in Ukraine’s Odesa region, governor says
+- 09/29 14:31 [financialjuice] RBA's Gov. Bullock: Inflation is driven by domestic capacity pressures.
+- 09/29 14:32 [financialjuice] RBA's Gov. Bullock: Inflationary pressures to last longer than expected.
+- 09/29 14:33 [financialjuice] RBA's Gov. Bullock: The board will raise rates again if needed
+- 09/29 14:33 [financialjuice] RBA's Gov. Bullock: I still think the labor market is a little bit tight
+- 09/29 14:34 [financialjuice] RBA's Gov. Bullock: Unemployment is still quite low by historical standards
