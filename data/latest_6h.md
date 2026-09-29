@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-29 23:48 JST／対象: 09/29 17:48 〜 09/29 23:48 JST（時刻はすべて日本時間）
+生成: 2026-09-30 00:03 JST／対象: 09/29 18:03 〜 09/30 00:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 41 | 09/29 20:26 | 09/29 23:44 | 35分（21:39→22:14） |
-| FirstSquawk | 102 | 09/29 17:49 | 09/29 23:42 | 30分（19:41→20:12） |
-| financialjuice | 66 | 09/29 17:52 | 09/29 23:46 | ⚠ 50分（22:45→23:36） |
+| DeItaone | 42 | 09/29 20:26 | 09/30 00:01 | 35分（21:39→22:14） |
+| FirstSquawk | 98 | 09/29 18:04 | 09/30 00:02 | 30分（19:41→20:12） |
+| financialjuice | 72 | 09/29 18:06 | 09/30 00:03 | ⚠ 50分（22:45→23:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 196 行（統合前 210 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 199 行（統合前 214 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 17:49 [FirstSquawk] NVIDIA, AMD WANT TRUMP TO KEEP THEIR CHIPS FLOWING TO CHINA – POLITICO
-- 09/29 17:52 [financialjuice] UK AI Minister Narayan: Need to build data centres with control, UK values.
-- 09/29 17:55 [FirstSquawk] UK AI MINISTER KANISHKA NARAYAN CONFIRMS AI GROWTH ZONES ARE STILL PROGRESSING.
-- 09/29 17:55 [FirstSquawk] UK AI MINISTER KANISHKA NARAYAN BRITAIN REQUIRES A HIGH LEVEL OF COMPUTER SOVEREIGNTY.
-- 09/29 17:55 [FirstSquawk] NARAYAN STRESSES THE IMPORTANCE OF BUILDING DATA CENTRES THAT ALIGN WITH UK VALUES AND STANDARDS.
-- 09/29 17:55 [FirstSquawk] CHINA'S FINAL CURRENT ACCOUNT SURPLUS FOR Q2 IS $193.7 BILLION, DOWN FROM PRELIMINARY SURPLUS OF $195.1 BILLION.
-- 09/29 17:57 [FirstSquawk] NHC REPORTS POLO IS HITTING BAJA CALIFORNIA WITH DANGEROUS WINDS AND LIFE-THREATENING FLASH FLOODS, CONDITIONS ARE SET TO WORSEN IN SONORA EARLY TODAY.
-- 09/29 18:01 [FirstSquawk] ITALY'S PPI ROSE 13.5% YEAR-OVER-YEAR IN AUGUST, UP FROM 9.3% PREVIOUSLY. MONTHLY PPI INCREASED BY 3.1%, UP FROM 3.0%.
-- 09/29 18:03 [financialjuice] UK 10 YR GILT YIELD ACTUAL 5.383% (FORECAST -, PREVIOUS 5.155%) $MACRO
-- 09/29 18:03 [financialjuice] UK 10 YR GILT BID-TO-COVER ACTUAL 3.34 (FORECAST -, PREVIOUS 3.65) $MACRO
 - 09/29 18:04 [FirstSquawk] UAE'S L'IMAD CAPITAL IS THINKING ABOUT SEEKING EXTERNAL FUNDING.
 - 09/29 18:06 [financialjuice] OpenAI to debut always-on AI agent at DevDay - Axios
 - 09/29 18:12 [financialjuice] ITALIAN PPI YOY ACTUAL 10.9% (FORECAST -, PREVIOUS 7.8%) $MACRO
@@ -220,3 +210,16 @@
 - 09/29 23:44 [DeItaone] WELLS FARGO RAISES 2027 OIL TARGETS Wells Fargo raised its 2027 WTI target to $75-$85 and Brent to $80-$90 per barrel, citing persistent supply risks and the need to rebuild depleted inventories. The firm expects oil prices to ease from rec…
 - 09/29 23:46 [financialjuice] Netanyahu will hold a security discussion shortly - Israel's Channel 12 News
 - 09/29 23:46 [financialjuice] Trump ends remarks at the Government website event.
+- 09/29 23:50 [FirstSquawk] HURRICANE POLO ABOUT TO MAKE LANDFALL NEAR GUAYMAS MEXICO. CONDITIONS DETERIORATING IN THE LANDFALL AREA - NHC
+- 09/29 23:57 [financialjuice] Qatar's UCC oil and gas in talks for possible entrance into oil and gas areas in Venezuela - Upstream Head Erik Keskula.
+- 09/29 23:59 [financialjuice] EU oil coordination group finds supply stable and there are concern on price.
+- 09/30 00:00 [FirstSquawk] US TREASURY 30-YEAR YIELD RISES TO 5.595%, HIGHEST SINCE 2002
+- 09/30 00:00 [financialjuice] EU Oil Coordination group finds supply stable for the time being.
+- 09/30 00:00 [financialjuice] US to sell $100 bln 4-Week bills on Oct 1st, to settle on Oct 6th
+- 09/30 00:00 [financialjuice] Fed's Bowman does not comment on economic or monetary policy outlook in opening remarks to banking workshop.
+- 09/30 00:01 [DeItaone] U.S. 30-YEAR YIELD NEARS HIGHEST SINCE 2002 The U.S. 30-year Treasury yield climbed to 5.58%, within 1 basis point of its highest level since 2002, extending its rise for a sixth straight session. The 10-year yield reached 5.24%, its highes…
+- 09/30 00:01 [financialjuice] EU Oil Coordination Group: EU refineries running near max capacity.
+- 09/30 00:01 [financialjuice] EU Oil coordination group's next meeting scheduled for Oct. 15th
+- 09/30 00:02 [financialjuice] The EU Commission is going to convene an extra oil coordination group meeting, if need.
+- 09/30 00:02 [FirstSquawk] EU OIL COORDINATION GROUP NEXT MEETING IS SCHEDULED FOR 15TH OCTOBER
+- 09/30 00:03 [financialjuice] ❗ UK's PM Burnham Spokesman doesn’t rule out UK rejoining EU

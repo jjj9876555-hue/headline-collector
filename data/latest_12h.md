@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-29 23:48 JST／対象: 09/29 11:48 〜 09/29 23:48 JST（時刻はすべて日本時間）
+生成: 2026-09-30 00:03 JST／対象: 09/29 12:03 〜 09/30 00:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 41 | 09/29 20:26 | 09/29 23:44 | 35分（21:39→22:14） |
-| FirstSquawk | 220 | 09/29 12:01 | 09/29 23:42 | 30分（19:41→20:12） |
-| financialjuice | 123 | 09/29 12:24 | 09/29 23:46 | ⚠ 50分（22:45→23:36） |
+| DeItaone | 42 | 09/29 20:26 | 09/30 00:01 | 35分（21:39→22:14） |
+| FirstSquawk | 218 | 09/29 12:04 | 09/30 00:02 | 30分（19:41→20:12） |
+| financialjuice | 132 | 09/29 12:24 | 09/30 00:03 | ⚠ 50分（22:45→23:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 370 行（統合前 385 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 378 行（統合前 394 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 12:01 [FirstSquawk] MAS deputy chair: Singapore to commit $1.1 billion across five asset managers to strengthen equities market
-- 09/29 12:01 [FirstSquawk] US Navy reports aircraft recovery incident aboard Nimitz-class carrier USS Dwight D. Eisenhower off Virginia coast
-- 09/29 12:02 [FirstSquawk] Two naval aviators from Carrier Air Wing 3 recovered by search-and-rescue personnel, US Navy says
-- 09/29 12:03 [FirstSquawk] US Navy says one sailor is being transported to a Norfolk-area hospital for treatment of non-life-threatening injuries
-- 09/29 12:03 [FirstSquawk] Four shipboard personnel injured in incident, US Navy says
 - 09/29 12:04 [FirstSquawk] Singapore MAS to launch $16 million market-making sleeve to support SGX stock trading
 - 09/29 12:14 [FirstSquawk] China asks local governments to trial ‘high-quality’ policies to spur consumer spending
 - 09/29 12:22 [FirstSquawk] Dollar index gains as rising oil prices lift Fed rate-hike expectations - FX
@@ -394,3 +389,16 @@
 - 09/29 23:44 [DeItaone] WELLS FARGO RAISES 2027 OIL TARGETS Wells Fargo raised its 2027 WTI target to $75-$85 and Brent to $80-$90 per barrel, citing persistent supply risks and the need to rebuild depleted inventories. The firm expects oil prices to ease from rec…
 - 09/29 23:46 [financialjuice] Netanyahu will hold a security discussion shortly - Israel's Channel 12 News
 - 09/29 23:46 [financialjuice] Trump ends remarks at the Government website event.
+- 09/29 23:50 [FirstSquawk] HURRICANE POLO ABOUT TO MAKE LANDFALL NEAR GUAYMAS MEXICO. CONDITIONS DETERIORATING IN THE LANDFALL AREA - NHC
+- 09/29 23:57 [financialjuice] Qatar's UCC oil and gas in talks for possible entrance into oil and gas areas in Venezuela - Upstream Head Erik Keskula.
+- 09/29 23:59 [financialjuice] EU oil coordination group finds supply stable and there are concern on price.
+- 09/30 00:00 [FirstSquawk] US TREASURY 30-YEAR YIELD RISES TO 5.595%, HIGHEST SINCE 2002
+- 09/30 00:00 [financialjuice] EU Oil Coordination group finds supply stable for the time being.
+- 09/30 00:00 [financialjuice] US to sell $100 bln 4-Week bills on Oct 1st, to settle on Oct 6th
+- 09/30 00:00 [financialjuice] Fed's Bowman does not comment on economic or monetary policy outlook in opening remarks to banking workshop.
+- 09/30 00:01 [DeItaone] U.S. 30-YEAR YIELD NEARS HIGHEST SINCE 2002 The U.S. 30-year Treasury yield climbed to 5.58%, within 1 basis point of its highest level since 2002, extending its rise for a sixth straight session. The 10-year yield reached 5.24%, its highes…
+- 09/30 00:01 [financialjuice] EU Oil Coordination Group: EU refineries running near max capacity.
+- 09/30 00:01 [financialjuice] EU Oil coordination group's next meeting scheduled for Oct. 15th
+- 09/30 00:02 [financialjuice] The EU Commission is going to convene an extra oil coordination group meeting, if need.
+- 09/30 00:02 [FirstSquawk] EU OIL COORDINATION GROUP NEXT MEETING IS SCHEDULED FOR 15TH OCTOBER
+- 09/30 00:03 [financialjuice] ❗ UK's PM Burnham Spokesman doesn’t rule out UK rejoining EU
