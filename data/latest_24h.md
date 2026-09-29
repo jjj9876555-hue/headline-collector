@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-29 10:17 JST／対象: 09/28 10:17 〜 09/29 10:17 JST（時刻はすべて日本時間）
+生成: 2026-09-29 10:33 JST／対象: 09/28 10:33 〜 09/29 10:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 38 | 09/28 16:28 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 286 | 09/28 10:21 | 09/29 10:06 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 272 | 09/28 10:18 | 09/29 10:06 | ⚠ 115分（11:30→13:26） |
+| FirstSquawk | 289 | 09/28 10:34 | 09/29 10:33 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 266 | 09/28 10:40 | 09/29 10:30 | ⚠ 115分（11:30→13:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 581 行（統合前 600 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 578 行（統合前 597 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 10:18 [financialjuice] PBOC establishes yuan midpoint at strongest level since Feb. 3, 2023
-- 09/28 10:21 [FirstSquawk] China sets yuan midpoint at strongest level in more than three years
-- 09/28 10:21 [FirstSquawk] Nissan Rogue e-Power hybrid shipments to U.S. start next month ahead of November launch
-- 09/28 10:22 [financialjuice] China injects 139 bln yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement
-- 09/28 10:23 [financialjuice] China central bank to inject 139 billion yuan via 7-day reverse repos: statement
-- 09/28 10:23 [FirstSquawk] 2-year Japanese government bond yield advances 2.5bps to 1.960%
-- 09/28 10:23 [FirstSquawk] 20-year Japanese government bond yield climbs 0.5bp to 3.915%
-- 09/28 10:24 [FirstSquawk] China’s most-active coking coal contract drops 3.21% to 1,446 yuan/ton
-- 09/28 10:24 [financialjuice] China to inject 661 billion yuan via overnight reverse repos: statement
-- 09/28 10:28 [FirstSquawk] Nissan targets 80% localization of US manufacturing by 2030, chairman says
-- 09/28 10:30 [financialjuice] CHINESE INDUSTRIAL PROFIT YTD ACTUAL 15.7% (FORECAST -, PREVIOUS 17.6%) $MACRO
-- 09/28 10:31 [financialjuice] China industrial profits rise 15.7% year on year Jan-Aug: stats bureau
-- 09/28 10:31 [financialjuice] China aug industrial profits rise 4.2% yr/yr: stats bureau
-- 09/28 10:31 [financialjuice] China central bank injects 300 bln yuan via 14-day reverse repos: statement
-- 09/28 10:32 [FirstSquawk] CHINA INDUSTRIAL PROFITS YTD (Y/Y) AUG: 15.7% (PREV 17.6%)
 - 09/28 10:34 [FirstSquawk] CSI SSH Gold Equity Index in China drops over 3%
 - 09/28 10:40 [financialjuice] S.Korea central bank: sells 91-day monetary stabilisation bonds at 3.140% yield
 - 09/28 10:44 [FirstSquawk] Bank of Korea sells 91-day Monetary Stabilisation Bonds at 3.140% yield
@@ -605,3 +590,15 @@
 - 09/29 10:05 [financialjuice] Taiwan overnight interbank rate starts at 0.805% versus 0.804% in previous session opening
 - 09/29 10:06 [financialjuice] US secretary of state Rubio: uk base incident involved foreign actor
 - 09/29 10:06 [FirstSquawk] Taxpayers Footed Bill For Three Bottles Of Pinot Noir During Janelle Saffin’s $4,400 Sydney Hotel Stay - dailytelegraph
+- 09/29 10:20 [FirstSquawk] Rubio to Fox News: British base incident involved a foreign party
+- 09/29 10:20 [financialjuice] China central bank injects 90.5 billion yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement
+- 09/29 10:21 [FirstSquawk] Rubio to Fox News: If Iran had a nuclear weapon, no one could prevent it from controlling the Strait of Hormuz
+- 09/29 10:22 [FirstSquawk] PBOC sets yuan midpoint at 6.7411 per dollar, vs 6.7399 previously
+- 09/29 10:22 [FirstSquawk] China’s PBOC adds CNY90.5 billion via 7-day reverse repos, keeping rate at 1.40%
+- 09/29 10:23 [FirstSquawk] Taiwan overnight rate rises to 0.805% at session open vs 0.804% prior
+- 09/29 10:24 [FirstSquawk] Rubio to Fox News: Iran uses its money to fund terrorism around the world
+- 09/29 10:25 [FirstSquawk] Goldman Sachs spokesperson says succession timeline remains undecided
+- 09/29 10:27 [FirstSquawk] Hong Kong’s Hang Seng Innovative Drug Index seen opening nearly 2% higher
+- 09/29 10:30 [financialjuice] Australia August household spending unchanged month on month seasonally adjusted - ABS
+- 09/29 10:32 [FirstSquawk] Japan offers ¥300 billion of 40-year government bonds
+- 09/29 10:33 [FirstSquawk] Australia household spending up 6.8% Y/Y in August, below 7.1% forecast

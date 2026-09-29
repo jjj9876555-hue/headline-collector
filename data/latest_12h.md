@@ -7,41 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-29 10:17 JST／対象: 09/28 22:17 〜 09/29 10:17 JST（時刻はすべて日本時間）
+生成: 2026-09-29 10:33 JST／対象: 09/28 22:33 〜 09/29 10:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 17 | 09/28 22:49 | 09/29 02:14 | ⚠ 54分（00:44→01:39） |
-| FirstSquawk | 138 | 09/28 22:27 | 09/29 10:06 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 187 | 09/28 22:19 | 09/29 10:06 | 40分（09:25→10:05） |
+| FirstSquawk | 142 | 09/28 22:37 | 09/29 10:33 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 177 | 09/28 22:33 | 09/29 10:30 | 40分（09:25→10:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 330 行（統合前 345 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 324 行（統合前 339 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 22:19 [financialjuice] Trump's 2PM announcement will be on Iowa steel project - Official
-- 09/28 22:25 [financialjuice] Total CEO: About 10M b/d going through Hormuz
-- 09/28 22:27 [FirstSquawk] LULA SEEN WITH 39%, BOLSONARO 34% OF VOTES IN 1ST ROUND POLL - QUAEST
-- 09/28 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -85.5 MLN NASDAQ 100: -8.3 MLN DOW 30: -7.7 MLN MAG 7: -4.5 MLN $MACRO
-- 09/28 22:31 [financialjuice] ECB's President Lagarde: Growth was broad-based across most countries and sectors, pattern expected to have continued in Q3
-- 09/28 22:31 [FirstSquawk] MONGODB SHARES DROP 26% AFTER CEO RESIGNS TO JOIN META.
-- 09/28 22:31 [financialjuice] ECB's President Lagarde: Manufacturing is performing solidly, the labour market remains robust.
-- 09/28 22:31 [financialjuice] ECB's President Lagarde: The outlook continues to be surrounded by high uncertainty
-- 09/28 22:31 [FirstSquawk] NASDAQ DOWN 134.78 POINTS, OR 0.50 PERCENT, AT 26,933.94 AFTER MARKET OPEN DOW JONES DOWN 379.93 POINTS, OR 0.73 PERCENT, AT 51,448.69 AFTER MARKET OPEN S&P 500 DOWN 36.38 POINTS, OR 0.47 PERCENT, AT 7,707.03 AFTER MARKET OPEN
-- 09/28 22:31 [financialjuice] ECB's President Lagarde: Major technological advancements have not reduced employment, but right now the verdict on al is still out.
-- 09/28 22:32 [financialjuice] ECB's Lagarde: We see higher inflation ahead but no signs yet that it is becoming embedded.
-- 09/28 22:32 [financialjuice] ECB's President Lagarde: The inflation outlook will be higher in 2027 and 2028 than we expected a few months ago.
-- 09/28 22:32 [FirstSquawk] LAGARDE: ECONOMIC RESILIENCE SET TO CONTINUE IN 3Q
-- 09/28 22:32 [FirstSquawk] LAGARDE: OUTLOOK SURROUNDED BY HIGH UNCERTAINTY
-- 09/28 22:32 [financialjuice] ECB's President Lagarde: We remain in the middle path for monetary policy that I laid out earlier this year.
-- 09/28 22:33 [FirstSquawk] LAGARDE: STILL SEES UPSIDE INFLATION RISKS, DOWNSIDE FOR GROWTH
-- 09/28 22:33 [financialjuice] ECB's President Lagarde: We view a measured response as appropriate to keep inflation in check
-- 09/28 22:33 [financialjuice] ECB's President Lagarde: This means that while the shock is too large to look through, we view a measured response as appropriate to keep inflation in check.
 - 09/28 22:33 [financialjuice] ECB's President Lagarde: Still sees upside risks to inflation and downside risks to growth
 - 09/28 22:33 [financialjuice] ECB's President Lagarde's Speech to European Parliament
 - 09/28 22:36 [financialjuice] UK September long-term public inflation expectations 4.3% vs 4.1% in August - Citi/YouGov
@@ -354,3 +336,15 @@
 - 09/29 10:05 [financialjuice] Taiwan overnight interbank rate starts at 0.805% versus 0.804% in previous session opening
 - 09/29 10:06 [financialjuice] US secretary of state Rubio: uk base incident involved foreign actor
 - 09/29 10:06 [FirstSquawk] Taxpayers Footed Bill For Three Bottles Of Pinot Noir During Janelle Saffin’s $4,400 Sydney Hotel Stay - dailytelegraph
+- 09/29 10:20 [FirstSquawk] Rubio to Fox News: British base incident involved a foreign party
+- 09/29 10:20 [financialjuice] China central bank injects 90.5 billion yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement
+- 09/29 10:21 [FirstSquawk] Rubio to Fox News: If Iran had a nuclear weapon, no one could prevent it from controlling the Strait of Hormuz
+- 09/29 10:22 [FirstSquawk] PBOC sets yuan midpoint at 6.7411 per dollar, vs 6.7399 previously
+- 09/29 10:22 [FirstSquawk] China’s PBOC adds CNY90.5 billion via 7-day reverse repos, keeping rate at 1.40%
+- 09/29 10:23 [FirstSquawk] Taiwan overnight rate rises to 0.805% at session open vs 0.804% prior
+- 09/29 10:24 [FirstSquawk] Rubio to Fox News: Iran uses its money to fund terrorism around the world
+- 09/29 10:25 [FirstSquawk] Goldman Sachs spokesperson says succession timeline remains undecided
+- 09/29 10:27 [FirstSquawk] Hong Kong’s Hang Seng Innovative Drug Index seen opening nearly 2% higher
+- 09/29 10:30 [financialjuice] Australia August household spending unchanged month on month seasonally adjusted - ABS
+- 09/29 10:32 [FirstSquawk] Japan offers ¥300 billion of 40-year government bonds
+- 09/29 10:33 [FirstSquawk] Australia household spending up 6.8% Y/Y in August, below 7.1% forecast

@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-29 10:17 JST／対象: 09/29 04:17 〜 09/29 10:17 JST（時刻はすべて日本時間）
+生成: 2026-09-29 10:33 JST／対象: 09/29 04:33 〜 09/29 10:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 49 | 09/29 04:19 | 09/29 10:06 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 65 | 09/29 04:18 | 09/29 10:06 | 40分（09:25→10:05） |
+| FirstSquawk | 54 | 09/29 04:49 | 09/29 10:33 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 60 | 09/29 04:36 | 09/29 10:30 | 40分（09:25→10:05） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 110 行（統合前 114 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,18 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 04:18 [financialjuice] Iranian lawmaker: Parliament weighing NPT exit bill - Fars
-- 09/29 04:19 [financialjuice] UK's Labour Party: The Prime Minister announces the new 'GB Grid' to rewire public control into Britain’s energy system and drive down costs.
-- 09/29 04:19 [FirstSquawk] CANADIAN CARRIER WESTJET SAYS IT USES SOFTWARE VERSION 14.1 — NOW BEING REVIEWED BY THE FAA — FOR ITS BOEING 737 MAX JETS, ADDING THAT WHILE IT IS AWARE OF THE REPORTED POTENTIAL SOFTWARE ISSUE AFFECTING SOME B737S AND IS WORKING CLOSELY WI…
-- 09/29 04:20 [FirstSquawk] THE FAA ADMINISTRATOR SAYS THE SOFTWARE ISSUE WILL DELAY MAX 10 CERTIFICATION, THOUGH HE IS NOT SURE HOW LONG, ADDING THAT PILOTS ARE STILL IN CONTROL DURING GO-AROUNDS DESPITE THE BOEING 737 MAX SOFTWARE ISSUE.
-- 09/29 04:20 [FirstSquawk] IRAN PARLIAMENT WEIGHS BILL TO EXIT NUCLEAR NON-PROLIFERATION TREATY (NPT) — FARS
-- 09/29 04:21 [FirstSquawk] UK LABOUR: PM ANNOUNCES NEW ‘GB GRID’ TO BRING ENERGY SYSTEM UNDER PUBLIC CONTROL AND CUT COSTS
-- 09/29 04:21 [financialjuice] Tuesday FX Option Expiries
-- 09/29 04:25 [financialjuice] Nvidia's CEO Huang is among executives expected at Tuesday's meeting at the White House - Person Familiar with the Matter. $NVDA
-- 09/29 04:29 [financialjuice] ❗ Iranian Official: Reports of Iran's flexibility on nuclear stance are incorrect - Fars News.
-- 09/29 04:30 [financialjuice] Iranian Official: Iran's position on the nuclear issue has not changed, no discussions are currently taking place on this matter - Fars News.
-- 09/29 04:32 [financialjuice] saudi Foreign Minister and US Secretary of State Rubio discuss region, Yemen - SPA
-- 09/29 04:32 [FirstSquawk] IRANIAN OFFICIAL SAYS IRAN'S POSITION ON THE NUCLEAR ISSUE HAS NOT CHANGED AND THAT NO DISCUSSIONS ARE CURRENTLY TAKING PLACE ON THE MATTER, ADDING THAT REPORTS OF IRAN'S FLEXIBILITY ON ITS NUCLEAR STANCE ARE INCORRECT - FARS NEWS
 - 09/29 04:36 [financialjuice/FirstSquawk] UAE-Netanyahu meeting took place with the knowledge and blessing of the American government - Israel's Hayom News
 - 09/29 04:49 [FirstSquawk] IRAQ’S HEZBOLLAH THREATENS TO CLOSE BORDERS WITH COUNTRIES SANCTIONING IRAN IF AIR EMBARGO ON IRAN CONTINUES AFTER OCTOBER 1 — IRIB
 - 09/29 04:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: -332.0 MLN NASDAQ 100: 613.1 MLN DOW 30: -251.3 MLN MAG 7: 16.3 MLN $MACRO
@@ -134,3 +122,15 @@
 - 09/29 10:05 [financialjuice] Taiwan overnight interbank rate starts at 0.805% versus 0.804% in previous session opening
 - 09/29 10:06 [financialjuice] US secretary of state Rubio: uk base incident involved foreign actor
 - 09/29 10:06 [FirstSquawk] Taxpayers Footed Bill For Three Bottles Of Pinot Noir During Janelle Saffin’s $4,400 Sydney Hotel Stay - dailytelegraph
+- 09/29 10:20 [FirstSquawk] Rubio to Fox News: British base incident involved a foreign party
+- 09/29 10:20 [financialjuice] China central bank injects 90.5 billion yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement
+- 09/29 10:21 [FirstSquawk] Rubio to Fox News: If Iran had a nuclear weapon, no one could prevent it from controlling the Strait of Hormuz
+- 09/29 10:22 [FirstSquawk] PBOC sets yuan midpoint at 6.7411 per dollar, vs 6.7399 previously
+- 09/29 10:22 [FirstSquawk] China’s PBOC adds CNY90.5 billion via 7-day reverse repos, keeping rate at 1.40%
+- 09/29 10:23 [FirstSquawk] Taiwan overnight rate rises to 0.805% at session open vs 0.804% prior
+- 09/29 10:24 [FirstSquawk] Rubio to Fox News: Iran uses its money to fund terrorism around the world
+- 09/29 10:25 [FirstSquawk] Goldman Sachs spokesperson says succession timeline remains undecided
+- 09/29 10:27 [FirstSquawk] Hong Kong’s Hang Seng Innovative Drug Index seen opening nearly 2% higher
+- 09/29 10:30 [financialjuice] Australia August household spending unchanged month on month seasonally adjusted - ABS
+- 09/29 10:32 [FirstSquawk] Japan offers ¥300 billion of 40-year government bonds
+- 09/29 10:33 [FirstSquawk] Australia household spending up 6.8% Y/Y in August, below 7.1% forecast
