@@ -7,38 +7,26 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-29 10:53 JST／対象: 09/28 22:53 〜 09/29 10:53 JST（時刻はすべて日本時間）
+生成: 2026-09-29 11:16 JST／対象: 09/28 23:16 〜 09/29 11:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 15 | 09/28 22:54 | 09/29 02:14 | ⚠ 54分（00:44→01:39） |
-| FirstSquawk | 151 | 09/28 22:57 | 09/29 10:51 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 168 | 09/28 22:58 | 09/29 10:30 | 40分（09:25→10:05） |
+| DeItaone | 14 | 09/28 23:28 | 09/29 02:14 | ⚠ 54分（00:44→01:39） |
+| FirstSquawk | 159 | 09/28 23:19 | 09/29 11:12 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 170 | 09/28 23:18 | 09/29 11:05 | 40分（09:25→10:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 324 行（統合前 336 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 334 行（統合前 345 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 22:54 [DeItaone] $SPCX - SPACEX SHARES UP 1.1%; CO SAYS STARSHIP REACHES ORBIT DESPITE ENGINE ISSUE
-- 09/28 22:57 [FirstSquawk] SPACEX: ALL 26 SATELLITES ON STARSHIP ROCKET DEPLOYED IN ORBIT
-- 09/28 22:58 [FirstSquawk] UK ENERGY SEC. FAHNBULLEH: GOVT PLANS TO DEVOLVE THE WARM HOME PLAN
-- 09/28 22:58 [financialjuice] There are no plans for negotiations with US - Iran's Tasnim News citing informed source
-- 09/28 22:58 [FirstSquawk] IRAN SAYS MONDAY NY MEETING IS WITH MEDIATORS, NOT US TALKS - TASNIM
-- 09/28 23:02 [FirstSquawk] TOP AI RESEARCHERS CALL FOR URGENT OVERSIGHT OF SELF-IMPROVING SYSTEMS - WSJ
-- 09/28 23:06 [financialjuice] UK's PM Burnham: Plan for next decade will require significant changes
-- 09/28 23:06 [financialjuice] WATCH LIVE: UK's PM Burnham Speaks on LBC Radio
-- 09/28 23:08 [financialjuice] ECB's President Lagarde: So far we're seeing energy support from governments in the 0.1pp of GDP range
-- 09/28 23:09 [financialjuice] UK PM Burnham on airbase arrests: Will chair COBRA meeting today.
-- 09/28 23:11 [FirstSquawk] TOTAL CEO REPORTS AROUND 10 MILLION BARRELS PER DAY TRAVEL THROUGH HORMUZ.
-- 09/28 23:12 [financialjuice] UK's PM Burnham: Defence investment plan will be fully funded at budget.
-- 09/28 23:16 [financialjuice/FirstSquawk] Traders pare ECB bets, see less than 40% chance of October hike
 - 09/28 23:18 [financialjuice] Crypto Fear & Greed Index: 74/100 - Greed
 - 09/28 23:18 [financialjuice] Fear & Greed Index: 36/100 - Fear
+- 09/28 23:19 [FirstSquawk] TRADERS PARE ECB BETS, SEE LESS THAN 40% CHANCE OF OCTOBER HIKE
 - 09/28 23:19 [FirstSquawk] SPACEX: BRINGING STARSHIP HOME EARLIER THAN PLANNED
 - 09/28 23:20 [FirstSquawk] UK PM BURNHAM: DETAILS ON SOCIAL CARE FUNDING TO BE REVEALED TOMORROW
 - 09/28 23:21 [financialjuice] ECB's President Lagarde: Working on swap lines for sovereignty of euro area
@@ -348,3 +336,25 @@
 - 09/29 10:47 [FirstSquawk] Massive Pentagon employee database breach exposes sensitive information, ABC News reports
 - 09/29 10:47 [FirstSquawk] Haiti mayor says at least 11 killed in Gros-Morne after likely gang retaliation over UN-backed patrol
 - 09/29 10:51 [FirstSquawk] Pope Leo says warnings about AI doom scenarios should be taken seriously - RTRS
+- 09/29 10:54 [FirstSquawk] North Korea accused of operating alleged secret prison at Beijing embassy - YONHAP
+- 09/29 10:59 [FirstSquawk] Samsung SDI to present battery solutions aimed at AI data centres in Singapore - YONHAP
+- 09/29 11:00 [financialjuice] Japan finance minister katayama: agreed with bessent to strengthen cooperation on phone talks sept 25
+- 09/29 11:00 [FirstSquawk] Japan FinMin Katayama says agreed with Bessent to bolster cooperation
+- 09/29 11:00 [financialjuice] Japan finmin katayama: undervalued yen generally poses problems
+- 09/29 11:01 [FirstSquawk] Katayama: Japan believes an undervalued yen is problematic
+- 09/29 11:01 [financialjuice] Japan finance minister Katayama: will keep close talks with US Treasury to ensure stable forex markets
+- 09/29 11:01 [FirstSquawk] Katayama: Japan will stay in close contact with U.S. Treasury over orderly FX markets
+- 09/29 11:02 [financialjuice] Japan finance minister Katayama: Takaichi's government is not reflationary
+- 09/29 11:02 [financialjuice] S.Korea finance minister: closely watching bond market
+- 09/29 11:02 [financialjuice] S.Korea finmin: will carry out treasury bond repurchase if yields surge excessively
+- 09/29 11:03 [financialjuice] Japan finmin Katayama: interest rates set by markets
+- 09/29 11:03 [FirstSquawk] Japan FinMin Katayama says Takaichi administration is not focused on reflation
+- 09/29 11:03 [FirstSquawk] S.Korea FinMin: Government keeping a close watch on bond market
+- 09/29 11:03 [financialjuice] Japan finmin Katayama: will coordinate closely with bond markets, pursue suitable debt management policy
+- 09/29 11:03 [FirstSquawk] South Korea FinMin says authorities will buy back treasury bonds if yields surge excessively
+- 09/29 11:03 [FirstSquawk] Katayama: Market forces determine interest rates
+- 09/29 11:04 [FirstSquawk] Katayama: Japan will maintain close dialogue with bond markets and implement appropriate debt management
+- 09/29 11:05 [financialjuice] Japan finmin katayama: will engage closely with market participants while maintaining strong urgency
+- 09/29 11:05 [FirstSquawk] Japan FinMin Katayama says Tokyo will closely engage with market participants while remaining highly vigilant
+- 09/29 11:07 [FirstSquawk] 40-year JGB yield edges up 0.5bp to 4.230%
+- 09/29 11:12 [FirstSquawk] Tokyo among the world’s highest-risk housing bubble markets, ranking second - KYODO

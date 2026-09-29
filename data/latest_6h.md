@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-29 10:53 JST／対象: 09/29 04:53 〜 09/29 10:53 JST（時刻はすべて日本時間）
+生成: 2026-09-29 11:16 JST／対象: 09/29 05:16 〜 09/29 11:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 66 | 09/29 04:58 | 09/29 10:51 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 56 | 09/29 04:53 | 09/29 10:30 | 40分（09:25→10:05） |
+| FirstSquawk | 69 | 09/29 05:19 | 09/29 11:12 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 57 | 09/29 05:26 | 09/29 11:05 | 40分（09:25→10:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 119 行（統合前 122 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 125 行（統合前 126 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 04:53 [financialjuice] Trump: Will visit Iowa
-- 09/29 04:54 [financialjuice] SpaceXAI launches Team Bots for collaborative AI workflows. $SPCX
-- 09/29 04:55 [financialjuice] Al Jazeera Bureau Chief: Information indicates new Iranian proposal does not include nuclear commitments until after the first phase is implemented.
-- 09/29 04:56 [financialjuice] An explosion was heard on Qeshm Island a few minutes ago - IRNA
-- 09/29 04:58 [FirstSquawk] AL JAZEERA: NEW IRANIAN PROPOSAL DEFERS NUCLEAR COMMITMENTS UNTIL AFTER FIRST-PHASE IMPLEMENTATION; DISPUTE CENTERS ON WHICH SIDE GIVES UP LEVERAGE FIRST
-- 09/29 04:58 [FirstSquawk] EXPLOSION HEARD NEAR IRAN’S QESHM ISLAND; SOUND REPORTEDLY CAME FROM SEA, NO DAMAGE REPORTED ON ISLAND — IRNA
-- 09/29 05:02 [FirstSquawk] POPE LEO HAS URGED THE WORLD TO MAKE SURE AI DOES NOT DEVELOP TO A POINT WHERE IT CAN DESTROY HUMANITY, SAYING THE DANGERS OF AI ARE NOT 'FAKE NEWS' AND SHOULD BE TAKEN SERIOUSLY.
-- 09/29 05:02 [FirstSquawk] THE PONTIFF TARGETED NVIDIA FOR CRITICISM FOR NOT WANTING GOVERNMENT REGULATION OF THE TECHNOLOGY.
-- 09/29 05:02 [FirstSquawk] NASDAQ CLOSES 0.92% LOWER AT 26,820.49, DOWN 248.23 POINTS S&P 500 CLOSES 0.69% LOWER, DOWN 60.11 POINTS DOW JONES CLOSES 0.69% LOWER AT 51,472.14, DOWN 356.48 POINTS
-- 09/29 05:03 [financialjuice/FirstSquawk] Iran's Deputy Chairman of the National Security Committee: Before any negotiations, the United States must accept Iran's conditions - Fars News
-- 09/29 05:03 [FirstSquawk] AAR IS TO PAY $1.8 BLN FOR A STAKE IN AIRCRAFT-MAINTENANCE COMPANY MRO HOLDINGS, AGREEING TO TAKE A 65% INTEREST - WSJ
-- 09/29 05:04 [financialjuice/FirstSquawk] Iran's Deputy Chairman of the National Security Committee: The nuclear issue is no longer the central focus of negotiations; rather, the Strait of Hormuz is now at the center.
-- 09/29 05:06 [financialjuice] AMD agrees to buY Fei-Fei Li’s World Labs AI startup for $8.2b. $AMD
-- 09/29 05:07 [FirstSquawk] AMD HAS AGREED TO BUY FEI-FEI LI'S WORLD LABS AI STARTUP FOR $8.2 BLN TO ADVANCE THE FUTURE OF AI COMPUTING, WITH CEO LISA SU SAYING THE ACQUISITION WILL STRENGTHEN THE COMPANY'S HARDWARE ROADMAP AND THAT THE GOAL IS TO BUILD 'BETTER AI'
-- 09/29 05:08 [financialjuice] Bond yields rise as the US-Iran standoff causes stocks to decline – US Market Wrap
-- 09/29 05:11 [FirstSquawk] TRUMP ANNOUNCES A $15 BILLION STEEL PLANT IN IOWA BACKED BY INDIA’S ESSAR GROUP, WITH PRODUCTION EXPECTED TO BEGIN IN 2030, MORE THAN 2,000 JOBS CREATED AND EVENTUAL OUTPUT OF 10 MILLION TONS OF STEEL ANNUALLY. THE PROJECT WILL BE SUPPLIED …
 - 09/29 05:19 [FirstSquawk] U.S. STOCKS AND BONDS FELL AS THE U.S.-IRAN STANDOFF FUELED OIL-MARKET VOLATILITY AND RENEWED CONCERNS ABOUT INFLATION AND HIGHER FED RATES, WITH THE S&P 500 DOWN 0.8% AND THE NASDAQ 100 OFF 1.1% AS BRENT CRUDE REMAINED AROUND $105 AND HOPE…
 - 09/29 05:19 [FirstSquawk] TREASURY YIELDS CLIMBED SHARPLY, WITH THE 10-YEAR RISING SEVEN BASIS POINTS TO 5.23%, ITS HIGHEST SINCE 2007, AS MARKETS INCREASED BETS ON AN OCTOBER FED RATE HIKE, THE DOLLAR GAINED AND GOLD DROPPED 3.9% TO $4,118.66, WITH INVESTORS NOW FO…
 - 09/29 05:19 [FirstSquawk] IN CORPORATE NEWS, NVIDIA EXPANDED ITS BUYBACK AUTHORIZATION BY $150 BLN, AMD AGREED TO ACQUIRE WORLD LABS FOR $8.2 BLN AND BOEING'S 737 MAX 10 CERTIFICATION WAS DELAYED OVER A SOFTWARE ISSUE, WHILE PARAMOUNT SKYDANCE SECURED ENOUGH INVESTO…
@@ -143,3 +127,25 @@
 - 09/29 10:47 [FirstSquawk] Massive Pentagon employee database breach exposes sensitive information, ABC News reports
 - 09/29 10:47 [FirstSquawk] Haiti mayor says at least 11 killed in Gros-Morne after likely gang retaliation over UN-backed patrol
 - 09/29 10:51 [FirstSquawk] Pope Leo says warnings about AI doom scenarios should be taken seriously - RTRS
+- 09/29 10:54 [FirstSquawk] North Korea accused of operating alleged secret prison at Beijing embassy - YONHAP
+- 09/29 10:59 [FirstSquawk] Samsung SDI to present battery solutions aimed at AI data centres in Singapore - YONHAP
+- 09/29 11:00 [financialjuice] Japan finance minister katayama: agreed with bessent to strengthen cooperation on phone talks sept 25
+- 09/29 11:00 [FirstSquawk] Japan FinMin Katayama says agreed with Bessent to bolster cooperation
+- 09/29 11:00 [financialjuice] Japan finmin katayama: undervalued yen generally poses problems
+- 09/29 11:01 [FirstSquawk] Katayama: Japan believes an undervalued yen is problematic
+- 09/29 11:01 [financialjuice] Japan finance minister Katayama: will keep close talks with US Treasury to ensure stable forex markets
+- 09/29 11:01 [FirstSquawk] Katayama: Japan will stay in close contact with U.S. Treasury over orderly FX markets
+- 09/29 11:02 [financialjuice] Japan finance minister Katayama: Takaichi's government is not reflationary
+- 09/29 11:02 [financialjuice] S.Korea finance minister: closely watching bond market
+- 09/29 11:02 [financialjuice] S.Korea finmin: will carry out treasury bond repurchase if yields surge excessively
+- 09/29 11:03 [financialjuice] Japan finmin Katayama: interest rates set by markets
+- 09/29 11:03 [FirstSquawk] Japan FinMin Katayama says Takaichi administration is not focused on reflation
+- 09/29 11:03 [FirstSquawk] S.Korea FinMin: Government keeping a close watch on bond market
+- 09/29 11:03 [financialjuice] Japan finmin Katayama: will coordinate closely with bond markets, pursue suitable debt management policy
+- 09/29 11:03 [FirstSquawk] South Korea FinMin says authorities will buy back treasury bonds if yields surge excessively
+- 09/29 11:03 [FirstSquawk] Katayama: Market forces determine interest rates
+- 09/29 11:04 [FirstSquawk] Katayama: Japan will maintain close dialogue with bond markets and implement appropriate debt management
+- 09/29 11:05 [financialjuice] Japan finmin katayama: will engage closely with market participants while maintaining strong urgency
+- 09/29 11:05 [FirstSquawk] Japan FinMin Katayama says Tokyo will closely engage with market participants while remaining highly vigilant
+- 09/29 11:07 [FirstSquawk] 40-year JGB yield edges up 0.5bp to 4.230%
+- 09/29 11:12 [FirstSquawk] Tokyo among the world’s highest-risk housing bubble markets, ranking second - KYODO
