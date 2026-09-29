@@ -7,42 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-30 04:53 JST／対象: 09/29 04:53 〜 09/30 04:53 JST（時刻はすべて日本時間）
+生成: 2026-09-30 05:19 JST／対象: 09/29 05:19 〜 09/30 05:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 76 | 09/29 20:26 | 09/30 04:51 | ⚠ 80分（02:40→04:01） |
-| FirstSquawk | 388 | 09/29 04:58 | 09/30 04:46 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 384 | 09/29 04:53 | 09/30 04:52 | ⚠ 62分（11:21→12:24） |
+| DeItaone | 84 | 09/29 20:26 | 09/30 05:12 | ⚠ 80分（02:40→04:01） |
+| FirstSquawk | 382 | 09/29 05:20 | 09/30 05:18 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 392 | 09/29 05:26 | 09/30 05:11 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 824 行（統合前 854 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 835 行（統合前 864 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 04:53 [financialjuice] Trump: Will visit Iowa
-- 09/29 04:54 [financialjuice] SpaceXAI launches Team Bots for collaborative AI workflows. $SPCX
-- 09/29 04:55 [financialjuice] Al Jazeera Bureau Chief: Information indicates new Iranian proposal does not include nuclear commitments until after the first phase is implemented.
-- 09/29 04:56 [financialjuice] An explosion was heard on Qeshm Island a few minutes ago - IRNA
-- 09/29 04:58 [FirstSquawk] AL JAZEERA: NEW IRANIAN PROPOSAL DEFERS NUCLEAR COMMITMENTS UNTIL AFTER FIRST-PHASE IMPLEMENTATION; DISPUTE CENTERS ON WHICH SIDE GIVES UP LEVERAGE FIRST
-- 09/29 04:58 [FirstSquawk] EXPLOSION HEARD NEAR IRAN’S QESHM ISLAND; SOUND REPORTEDLY CAME FROM SEA, NO DAMAGE REPORTED ON ISLAND — IRNA
-- 09/29 05:02 [FirstSquawk] POPE LEO HAS URGED THE WORLD TO MAKE SURE AI DOES NOT DEVELOP TO A POINT WHERE IT CAN DESTROY HUMANITY, SAYING THE DANGERS OF AI ARE NOT 'FAKE NEWS' AND SHOULD BE TAKEN SERIOUSLY.
-- 09/29 05:02 [FirstSquawk] THE PONTIFF TARGETED NVIDIA FOR CRITICISM FOR NOT WANTING GOVERNMENT REGULATION OF THE TECHNOLOGY.
-- 09/29 05:02 [FirstSquawk] NASDAQ CLOSES 0.92% LOWER AT 26,820.49, DOWN 248.23 POINTS S&P 500 CLOSES 0.69% LOWER, DOWN 60.11 POINTS DOW JONES CLOSES 0.69% LOWER AT 51,472.14, DOWN 356.48 POINTS
-- 09/29 05:03 [financialjuice/FirstSquawk] Iran's Deputy Chairman of the National Security Committee: Before any negotiations, the United States must accept Iran's conditions - Fars News
-- 09/29 05:03 [FirstSquawk] AAR IS TO PAY $1.8 BLN FOR A STAKE IN AIRCRAFT-MAINTENANCE COMPANY MRO HOLDINGS, AGREEING TO TAKE A 65% INTEREST - WSJ
-- 09/29 05:04 [financialjuice/FirstSquawk] Iran's Deputy Chairman of the National Security Committee: The nuclear issue is no longer the central focus of negotiations; rather, the Strait of Hormuz is now at the center.
-- 09/29 05:06 [financialjuice] AMD agrees to buY Fei-Fei Li’s World Labs AI startup for $8.2b. $AMD
-- 09/29 05:07 [FirstSquawk] AMD HAS AGREED TO BUY FEI-FEI LI'S WORLD LABS AI STARTUP FOR $8.2 BLN TO ADVANCE THE FUTURE OF AI COMPUTING, WITH CEO LISA SU SAYING THE ACQUISITION WILL STRENGTHEN THE COMPANY'S HARDWARE ROADMAP AND THAT THE GOAL IS TO BUILD 'BETTER AI'
-- 09/29 05:08 [financialjuice] Bond yields rise as the US-Iran standoff causes stocks to decline – US Market Wrap
-- 09/29 05:11 [FirstSquawk] TRUMP ANNOUNCES A $15 BILLION STEEL PLANT IN IOWA BACKED BY INDIA’S ESSAR GROUP, WITH PRODUCTION EXPECTED TO BEGIN IN 2030, MORE THAN 2,000 JOBS CREATED AND EVENTUAL OUTPUT OF 10 MILLION TONS OF STEEL ANNUALLY. THE PROJECT WILL BE SUPPLIED …
-- 09/29 05:19 [FirstSquawk] U.S. STOCKS AND BONDS FELL AS THE U.S.-IRAN STANDOFF FUELED OIL-MARKET VOLATILITY AND RENEWED CONCERNS ABOUT INFLATION AND HIGHER FED RATES, WITH THE S&P 500 DOWN 0.8% AND THE NASDAQ 100 OFF 1.1% AS BRENT CRUDE REMAINED AROUND $105 AND HOPE…
-- 09/29 05:19 [FirstSquawk] TREASURY YIELDS CLIMBED SHARPLY, WITH THE 10-YEAR RISING SEVEN BASIS POINTS TO 5.23%, ITS HIGHEST SINCE 2007, AS MARKETS INCREASED BETS ON AN OCTOBER FED RATE HIKE, THE DOLLAR GAINED AND GOLD DROPPED 3.9% TO $4,118.66, WITH INVESTORS NOW FO…
-- 09/29 05:19 [FirstSquawk] IN CORPORATE NEWS, NVIDIA EXPANDED ITS BUYBACK AUTHORIZATION BY $150 BLN, AMD AGREED TO ACQUIRE WORLD LABS FOR $8.2 BLN AND BOEING'S 737 MAX 10 CERTIFICATION WAS DELAYED OVER A SOFTWARE ISSUE, WHILE PARAMOUNT SKYDANCE SECURED ENOUGH INVESTO…
 - 09/29 05:20 [FirstSquawk] MSCI RECLASSIFIES CORTEVA FROM LARGE CAP TO MID CAP; ADDS VYLOR TO GLOBAL STANDARD INDEXES EFFECTIVE OCTOBER 2, 2026
 - 09/29 05:26 [financialjuice/FirstSquawk] Iran's State TV: The sounds heard on Qeshm Island were likely the result of warning shots fired at violating vessels in the Strait of Hormuz.
 - 09/29 05:48 [financialjuice] Libyan, Moroccan and Qatari military and government aircraft landed in Abu Dhabi during Israeli Prime Minister Netanyahu's visit - Israel's Kan News.
@@ -848,3 +829,33 @@
 - 09/30 04:51 [financialjuice] Trump, asked on data centers and midterms: We must do what's right.
 - 09/30 04:51 [financialjuice] Nvidia CEO Huang: No conflict between AI innovation and safety $NVDA
 - 09/30 04:52 [financialjuice] Trump and Nvidia's CEO Huang Speak - WATCH LIVE
+- 09/30 04:53 [financialjuice] Trump on AI regulation: We will have AI very well assessed.
+- 09/30 04:55 [DeItaone] TRUMP: IRAN DOING VERY POORLY, DON'T KNOW IF THEY ARE GOING TO GIVE UP YET
+- 09/30 04:56 [financialjuice] Trump: Iran is doing very poorly, I don't know if they are going to give up yet.
+- 09/30 04:58 [financialjuice] Trump: Kim Jong UN is a friend of mine, I like him.
+- 09/30 04:58 [DeItaone/financialjuice] TRUMP: NORTH KOREA'S KIM WILL BE FINE AS LONG AS I AM AROUND
+- 09/30 04:59 [financialjuice] Trump: I'll be naming the AI Czar in the next three to four days.
+- 09/30 04:59 [DeItaone] TRUMP: WILL BE NAMING AI CZAR IN NEXT THREE OR FOUR DAYS
+- 09/30 04:59 [financialjuice] Trump: I discussed the Xi meeting with tech leaders.
+- 09/30 05:02 [DeItaone] ANTHROPIC'S AMODEI: TECHNOLOGY HAS VERY REAL RISKS, STILL UNDER DISCUSSION HOW TO ADDRESS THE RISKS
+- 09/30 05:03 [financialjuice] Trump on Anthropic's Amodei: He's been great
+- 09/30 05:03 [financialjuice] Trump: Zuckerberg had a view that was right down the middle. $META
+- 09/30 05:04 [DeItaone] WORKDAY CUTS 2.5% OF WORKFORCE Workday is cutting about 2.5% of its workforce, primarily within its product and technology team, while reducing some office space. The restructuring will generate $65–80 million in charges, but Workday reiter…
+- 09/30 05:05 [financialjuice] Fed's williams: Rising bond yields show tighter financial conditions at the margin.
+- 09/30 05:05 [financialjuice] Fed's Williams: I don't believe rising yields signal shifting longer-run inflation views.
+- 09/30 05:05 [financialjuice] Fed's Williams: Strong AI investment is important to bolster future productivity
+- 09/30 05:06 [financialjuice] Fed's Williams: Thus far, AI is not causing big changes in job levels.
+- 09/30 05:07 [financialjuice] Stocks and Bonds Fall as Inflation Concerns Keep Yields Elevated – US Market Wrap
+- 09/30 05:08 [DeItaone] TRUMP: DISCUSSED WITH AI LEADERS WHERE TO PUT DATA CENTERS
+- 09/30 05:08 [financialjuice] Trump: We discussed the locations of data centers.
+- 09/30 05:09 [financialjuice] Trump on Data Centers: I want them built in America
+- 09/30 05:09 [DeItaone] TRUMP: PEOPLE IN AREAS WHERE DATA CENTERS BUILT WILL GREATLY BENEFIT FINANCIALLY
+- 09/30 05:11 [financialjuice] Trump, next to alphabet CEO, critiques Finland data center plan
+- 09/30 05:12 [DeItaone] MUSK: MOST LIKELY OUTCOME OF AI IS INCREDIBLY BENEFICIAL
+- 09/30 05:15 [FirstSquawk] NASDAQ CLOSES 0.07% LOWER AT 26,801.11, DOWN 19.27 POINTS S&P 500 CLOSES 0.17% LOWER AT 7,670.53, DOWN 13.16 POINTS DOW JONES CLOSES 0.21% LOWER AT 51,372.27, DOWN 109.24 POINTS
+- 09/30 05:15 [FirstSquawk] US BANK REGULATORS FIND NO DEFICIENCIES IN 15 “LIVING WILLS” FOR BANKS WITH OVER $250 BILLION IN ASSETS
+- 09/30 05:15 [FirstSquawk] TRUMP SAYS HE WILL BE NAMING THE AI CZAR IN THE NEXT THREE TO FOUR DAYS AND THAT 'WE WILL HAVE AI VERY WELL ASSESSED', PRAISING ANTHROPIC'S AMODEI AS 'GREAT' AND SAYING ZUCKERBERG 'HAD A VIEW THAT WAS RIGHT DOWN THE MIDDLE', ADDING THAT HE …
+- 09/30 05:15 [FirstSquawk] TRUMP SAYS ON IRAN THAT IT IS 'DOING VERY POORLY' AND THAT HE DOESN'T KNOW 'IF THEY ARE GOING TO GIVE UP YET'.
+- 09/30 05:16 [FirstSquawk] TRUMP SAYS ON NORTH KOREA'S KIM JONG UN THAT 'HE'S A FRIEND OF MINE, I LIKE HIM' AND THAT 'KIM WILL BE FINE AS LONG AS I AM AROUND'.
+- 09/30 05:17 [FirstSquawk] TRUMP SAYS ON DATA CENTERS THAT 'I WANT THEM BUILT IN AMERICA', ADDING THAT THE GROUP DISCUSSED THE LOCATIONS OF DATA CENTERS AND, NEXT TO ALPHABET'S CEO, CRITIQUING A FINLAND DATA CENTER PLAN
+- 09/30 05:18 [FirstSquawk] SALESFORCE SIGNS DEFINITIVE AGREEMENT TO ACQUIRE LISTEN LABS; DEAL EXPECTED TO CLOSE IN Q4 FY2027 — COMPANY WEBSITE
