@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-30 06:06 JST／対象: 09/30 00:06 〜 09/30 06:06 JST（時刻はすべて日本時間）
+生成: 2026-09-30 06:26 JST／対象: 09/30 00:26 〜 09/30 06:26 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 46 | 09/30 00:08 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
-| FirstSquawk | 100 | 09/30 00:08 | 09/30 06:04 | 30分（02:00→02:31） |
-| financialjuice | 211 | 09/30 00:12 | 09/30 06:05 | 13分（05:11→05:25） |
+| DeItaone | 44 | 09/30 00:34 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
+| FirstSquawk | 102 | 09/30 00:28 | 09/30 06:20 | 30分（02:00→02:31） |
+| financialjuice | 213 | 09/30 00:31 | 09/30 06:26 | 13分（05:11→05:25） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 347 行（統合前 361 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 348 行（統合前 363 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 00:08 [DeItaone] EU OIL COORDINATION GROUP MET ON TUESDAY, CONFIRMED SUPPLY STABLE DESPITE HIGH DIESEL AND JET FUEL PRICES EU SAYS BLOC'S OIL REFINERIES ARE RUNNING AT NEAR-MAXIMUM CAPACITY, RESPONDING WELL TO MARKET SIGNALS
-- 09/30 00:08 [FirstSquawk] CHINA MOFCOM ON REPORTS OF EU MEMBERS DRAFTING 301 TOOLS: MOVES WILL DISRUPT SUPPLY CHAIN STABILITY
-- 09/30 00:09 [FirstSquawk] UK PENSIONS CHANGE TO SAVE £15 BILLION BY 2040: OFFICIAL
-- 09/30 00:12 [financialjuice] Trump will headline a midterm rally in Nebraska on Monday - CNN.
-- 09/30 00:15 [FirstSquawk] APPLE’S NEW CEO MOVES TO OVERHAUL COMPANY TO RUN FASTER, LEANER
-- 09/30 00:15 [FirstSquawk] APPLE’S TERNUS DISCUSSES HOLDING MORE FREQUENT PRODUCT LAUNCHES
-- 09/30 00:15 [financialjuice] Apple Cuts Engineering Program Managers in Efficiency Push $AAPL
-- 09/30 00:15 [financialjuice] Fed bids for 52-Week bills total $5.2 bln
-- 09/30 00:21 [financialjuice] Israel's Yamina Leader Bennett: The IDF is on verge of collapse and lacks enough soldiers to deal with threats cited by Israeli Prime Minister Netanyahu - Israel's Channel 12 News.
-- 09/30 00:25 [DeItaone] HOMELAND SECURITY MONEY FINANCED PRO-TRUMP TV ADS, SOURCES SAY
 - 09/30 00:28 [FirstSquawk] DIMON: JPMORGAN MAY EXCEED $1.5T GOAL FOR NATL SEC. INITIATIVE
 - 09/30 00:28 [FirstSquawk] ANTHROPIC DISCLOSES UP TO $84.5 BLN IN SPACEX COMPUTE DEALS THROUGH 2029 - INFORMATION
 - 09/30 00:31 [financialjuice] BoE's Taylor: The right policy response is vigilant but disciplined.
@@ -371,3 +361,14 @@
 - 09/30 06:01 [financialjuice] Trump likely to unveil $54 billion from South Korean investment fund for Alaska LNG project as soon as Wednesday - sources
 - 09/30 06:02 [financialjuice/FirstSquawk] Elon Musk: SpaceX and Tesla target 200 gigawatts of annual solar output
 - 09/30 06:05 [financialjuice] North Korea: South Korea fabricating 'baseless findings' on mine blast in DMZ injuring troops - KCNA
+- 09/30 06:06 [financialjuice] North Korea: South Korea could encounter a miserable and catastrophic situation - KCNA
+- 09/30 06:07 [FirstSquawk] NORTH KOREA SAYS SOUTH KOREA IS FABRICATING 'BASELESS FINDINGS' ON A MINE BLAST IN THE DMZ THAT INJURED TROOPS, WARNING THAT SOUTH KOREA 'COULD ENCOUNTER A MISERABLE AND CATASTROPHIC SITUATION' - KCNA
+- 09/30 06:07 [financialjuice] North Korea: troops never crossed military border as alleged by Seoul - KCNA
+- 09/30 06:08 [financialjuice] North Korea: constructing barriers along border as demonstration of sovereignty, not for military aims - KCNA
+- 09/30 06:08 [FirstSquawk] NORTH KOREA SAYS SOUTH KOREA IS COOKING UP 'GROUNDLESS RESULTS' OVER A MINE BLAST IN THE DMZ THAT INJURED SOUTH KOREAN TROOPS, WARNING THAT SOUTH KOREA CAN FACE 'A MISERABLE AND CATASTROPHIC POSITION'.
+- 09/30 06:08 [FirstSquawk] NORTH KOREA SAYS ITS TROOPS HAVE NEVER CROSSED THE MILITARY BORDER AS CLAIMED BY SEOUL, AND THAT IT IS BUILDING BARRIERS ALONG THE BORDER AS AN EXERCISE OF SOVEREIGNTY UNRELATED TO ANY MILITARY PURPOSE - KCNA
+- 09/30 06:14 [financialjuice] Nvidia's Jensen Huang: White House declaration carries significant impact
+- 09/30 06:15 [FirstSquawk] CANADA PM CARNEY SAYS CANADA IS VERY DISAPPOINTED BY CLEVELAND-CLIFFS' DECISION TO IDLE PART OF ITS HAMILTON PLANT, ADDING THAT CANADA WILL USE ALL THE POWERS IT HAS TO ENSURE CLEVELAND-CLIFFS LIVES UP TO ITS OBLIGATIONS
+- 09/30 06:18 [financialjuice/FirstSquawk] Trump tells Axios: Jay Clayton would make a good AI chief
+- 09/30 06:20 [FirstSquawk] FDA INVESTIGATION HAS LED TO CHARGES AGAINST TWO INDIAN NATIONALS INVOLVED IN A TRANSNATIONAL COUNTERFEIT DRUG DISTRIBUTION SCHEME, WITH THE FDA ALLEGING THAT BETWEEN JULY 2023 AND APRIL 2024, SWAPNADIP ROY AND VICKY RAMANCHA OBTAINED COUNT…
+- 09/30 06:26 [financialjuice] Trump releases document approved by all executives at White House on Tuesday: Truth Social

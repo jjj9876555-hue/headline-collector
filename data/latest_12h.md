@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-30 06:06 JST／対象: 09/29 18:06 〜 09/30 06:06 JST（時刻はすべて日本時間）
+生成: 2026-09-30 06:26 JST／対象: 09/29 18:26 〜 09/30 06:26 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 88 | 09/29 20:26 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
-| FirstSquawk | 198 | 09/29 18:16 | 09/30 06:04 | 30分（19:41→20:12） |
-| financialjuice | 287 | 09/29 18:12 | 09/30 06:05 | ⚠ 50分（22:45→23:36） |
+| FirstSquawk | 195 | 09/29 18:30 | 09/30 06:20 | 30分（19:41→20:12） |
+| financialjuice | 291 | 09/29 18:30 | 09/30 06:26 | ⚠ 50分（22:45→23:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 550 行（統合前 579 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 550 行（統合前 580 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 18:12 [financialjuice] ITALIAN PPI YOY ACTUAL 10.9% (FORECAST -, PREVIOUS 7.8%) $MACRO
-- 09/29 18:16 [FirstSquawk] KREMLIN STATES THAT NEW RULES FOR TEMPORARY CONTROL OF FOREIGN FIRMS' RUSSIAN OPERATIONS DO NOT INTEND TO ALTER OWNERSHIP.
-- 09/29 18:16 [FirstSquawk] KREMLIN SAYS TEMPORARY ADMINISTRATIONS ARE PARTLY DUE TO INCREASED MILITARY ACTION BY UNFRIENDLY COUNTRIES AGAINST RUSSIA.
-- 09/29 18:16 [FirstSquawk] KREMLIN STATES THAT TEMPORARY ADMINISTRATION ORDERS AIM TO ESTABLISH OUTSIDE CONTROL.
-- 09/29 18:16 [FirstSquawk] KREMLIN SAYS THE SITUATION CAN BE CHANGED BACK BUT CURRENTLY, THEY DON'T FIND REASONS TO DO SO.
-- 09/29 18:17 [FirstSquawk] KREMLIN SAYS IRANIAN OFFICIAL NEEDS TO CLARIFY COMMENT ON LEAVING NON-PROLIFERATION TREATY.
-- 09/29 18:17 [FirstSquawk] KREMLIN STATES THEY DON'T WANT IRAN TO EXIT NUCLEAR NON-PROLIFERATION TREATY.
-- 09/29 18:17 [FirstSquawk] KREMLIN HOPES IRAN WILL STAY COMMITTED TO THE TREATY.
-- 09/29 18:22 [FirstSquawk] META WILL EXTEND ITS 'ONE STEP AHEAD' CAMPAIGN UNTIL 2026, INTRODUCING NEW TOOLS AND PARTNERSHIPS.
-- 09/29 18:23 [financialjuice] UK PM expected to signal plans for electoral reform - Guardian
-- 09/29 18:23 [FirstSquawk] UK PM IS SET TO ANNOUNCE PLANS FOR CHANGES IN ELECTORAL SYSTEMS.
 - 09/29 18:30 [FirstSquawk] CHINA'S FX REGULATOR PREDICTS PROMISING GROWTH FOR AI EXPORTS AND IMPORTS.
 - 09/29 18:30 [financialjuice] China FX Regulator: AI-related exports and imports expected to maintain rapid growth.
 - 09/29 18:55 [FirstSquawk] PBOC HAS REDUCED THE PSL RATE BY 0.25 PERCENT POINTS.
@@ -574,3 +563,14 @@
 - 09/30 06:01 [financialjuice] Trump likely to unveil $54 billion from South Korean investment fund for Alaska LNG project as soon as Wednesday - sources
 - 09/30 06:02 [financialjuice/FirstSquawk] Elon Musk: SpaceX and Tesla target 200 gigawatts of annual solar output
 - 09/30 06:05 [financialjuice] North Korea: South Korea fabricating 'baseless findings' on mine blast in DMZ injuring troops - KCNA
+- 09/30 06:06 [financialjuice] North Korea: South Korea could encounter a miserable and catastrophic situation - KCNA
+- 09/30 06:07 [FirstSquawk] NORTH KOREA SAYS SOUTH KOREA IS FABRICATING 'BASELESS FINDINGS' ON A MINE BLAST IN THE DMZ THAT INJURED TROOPS, WARNING THAT SOUTH KOREA 'COULD ENCOUNTER A MISERABLE AND CATASTROPHIC SITUATION' - KCNA
+- 09/30 06:07 [financialjuice] North Korea: troops never crossed military border as alleged by Seoul - KCNA
+- 09/30 06:08 [financialjuice] North Korea: constructing barriers along border as demonstration of sovereignty, not for military aims - KCNA
+- 09/30 06:08 [FirstSquawk] NORTH KOREA SAYS SOUTH KOREA IS COOKING UP 'GROUNDLESS RESULTS' OVER A MINE BLAST IN THE DMZ THAT INJURED SOUTH KOREAN TROOPS, WARNING THAT SOUTH KOREA CAN FACE 'A MISERABLE AND CATASTROPHIC POSITION'.
+- 09/30 06:08 [FirstSquawk] NORTH KOREA SAYS ITS TROOPS HAVE NEVER CROSSED THE MILITARY BORDER AS CLAIMED BY SEOUL, AND THAT IT IS BUILDING BARRIERS ALONG THE BORDER AS AN EXERCISE OF SOVEREIGNTY UNRELATED TO ANY MILITARY PURPOSE - KCNA
+- 09/30 06:14 [financialjuice] Nvidia's Jensen Huang: White House declaration carries significant impact
+- 09/30 06:15 [FirstSquawk] CANADA PM CARNEY SAYS CANADA IS VERY DISAPPOINTED BY CLEVELAND-CLIFFS' DECISION TO IDLE PART OF ITS HAMILTON PLANT, ADDING THAT CANADA WILL USE ALL THE POWERS IT HAS TO ENSURE CLEVELAND-CLIFFS LIVES UP TO ITS OBLIGATIONS
+- 09/30 06:18 [financialjuice/FirstSquawk] Trump tells Axios: Jay Clayton would make a good AI chief
+- 09/30 06:20 [FirstSquawk] FDA INVESTIGATION HAS LED TO CHARGES AGAINST TWO INDIAN NATIONALS INVOLVED IN A TRANSNATIONAL COUNTERFEIT DRUG DISTRIBUTION SCHEME, WITH THE FDA ALLEGING THAT BETWEEN JULY 2023 AND APRIL 2024, SWAPNADIP ROY AND VICKY RAMANCHA OBTAINED COUNT…
+- 09/30 06:26 [financialjuice] Trump releases document approved by all executives at White House on Tuesday: Truth Social
