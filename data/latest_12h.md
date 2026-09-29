@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-29 15:23 JST／対象: 09/29 03:23 〜 09/29 15:23 JST（時刻はすべて日本時間）
+生成: 2026-09-29 15:44 JST／対象: 09/29 03:44 〜 09/29 15:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 179 | 09/29 03:29 | 09/29 15:22 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 136 | 09/29 03:28 | 09/29 15:22 | ⚠ 62分（11:21→12:24） |
+| FirstSquawk | 175 | 09/29 03:49 | 09/29 15:40 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 128 | 09/29 03:49 | 09/29 15:22 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 311 行（統合前 315 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 299 行（統合前 303 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 03:28 [financialjuice] Trump: Mesabi Metallics to produce 10m tons of steel per year.
-- 09/29 03:29 [financialjuice] Trump Makes an Announcement, September 28th 2026
-- 09/29 03:29 [FirstSquawk] TRUMP: MESABI METALLICS TO PRODUCE 10 MILLION TONS OF STEEL ANNUALLY
-- 09/29 03:30 [FirstSquawk] NIDEC PRESIDENT MITSUYA KISHIDA HAS DECIDED TO STEP DOWN AS CEO OVER LOSSES AT THE E-AXLE EV DRIVE UNIT AND IS EXPECTED TO SUBMIT HIS RESIGNATION AS EARLY AS TUESDAY, WITH MICHIO KAIDA EMERGING AS A POTENTIAL SUCCESSOR - NIKKEI
-- 09/29 03:30 [FirstSquawk] TRUMP: MESABI METALLICS TO BUILD STEEL PLANT IN IOWA, TARGET 10M TONS ANNUAL OUTPUT; PROJECT EXPECTED TO CREATE UP TO 8,000 JOBS AND ADD $95B TO US ECONOMY
-- 09/29 03:30 [financialjuice] Trump: The US has surpassed Japan in steel production.
-- 09/29 03:31 [FirstSquawk] TRUMP: US HAS SURPASSED JAPAN IN STEEL PRODUCTION
-- 09/29 03:31 [financialjuice] NYMEX WTI Crude November futures settle at $92.60 a barrel, up 19 cents, 0.21%.
-- 09/29 03:31 [financialjuice] NYMEX Gasoline October futures settle at $3.3377 a gallon.
-- 09/29 03:31 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 0.21% HIGHER AT $92.60/BBL, UP 19 CENTS
-- 09/29 03:31 [financialjuice] NYMEX Diesel October futures settle at $4.7553 a gallon.
-- 09/29 03:32 [financialjuice] NYMEX Natural Gas October futures settle at $3.0000/MMBtu.
-- 09/29 03:35 [FirstSquawk] US COMMERCE SECRETARY LUTNICK HIGHLIGHTS US TRADE IN IRON PELLETS FROM BRAZIL
-- 09/29 03:44 [financialjuice] Saudi Defense Minister invites UAE Vice President to visit Saudi Arabia on Tuesday - Saudi State News Agency.
 - 09/29 03:49 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 0.92% HIGHER AT $105.28/BBL, UP 96 CENTS
 - 09/29 03:49 [financialjuice] Brent Crude futures settle at $105.28/bbl, up 96 cents, 0.92%.
 - 09/29 03:50 [financialjuice] Trump: We will win the Iran war very soon, and it will be over. Gas prices will come tumbling.
@@ -335,3 +321,5 @@
 - 09/29 15:19 [financialjuice] RBA's Gov. Bullock: Neutral interest rate moving up in australia, globally.
 - 09/29 15:22 [FirstSquawk] RBA’s Bullock says quarterly core inflation needs to be around 0.6%
 - 09/29 15:22 [financialjuice] RBA's Gov. Bullock: We need to see quarterly core inflation numbers sitting around 0.6%.
+- 09/29 15:24 [FirstSquawk] South Korea’s Defense Minister: North Korean mine that caused explosion violated armistice agreement
+- 09/29 15:40 [FirstSquawk] South Korea Defence Minister Kang: DMZ mine appears to have been planted during North Korea’s border fortification work

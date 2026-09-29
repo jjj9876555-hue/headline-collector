@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-29 15:23 JST／対象: 09/29 09:23 〜 09/29 15:23 JST（時刻はすべて日本時間）
+生成: 2026-09-29 15:44 JST／対象: 09/29 09:44 〜 09/29 15:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 118 | 09/29 10:06 | 09/29 15:22 | 26分（12:45→13:11） |
-| financialjuice | 53 | 09/29 09:25 | 09/29 15:22 | ⚠ 62分（11:21→12:24） |
+| FirstSquawk | 120 | 09/29 10:06 | 09/29 15:40 | 26分（12:45→13:11） |
+| financialjuice | 52 | 09/29 10:05 | 09/29 15:22 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 171 行（統合前 171 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 172 行（統合前 172 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 09:25 [financialjuice] China PBOC seen setting yuan midpoint at 6.7177 per dollar: estimate
 - 09/29 10:05 [financialjuice] Taiwan overnight interbank rate starts at 0.805% versus 0.804% in previous session opening
 - 09/29 10:06 [financialjuice] US secretary of state Rubio: uk base incident involved foreign actor
 - 09/29 10:06 [FirstSquawk] Taxpayers Footed Bill For Three Bottles Of Pinot Noir During Janelle Saffin’s $4,400 Sydney Hotel Stay - dailytelegraph
@@ -195,3 +194,5 @@
 - 09/29 15:19 [financialjuice] RBA's Gov. Bullock: Neutral interest rate moving up in australia, globally.
 - 09/29 15:22 [FirstSquawk] RBA’s Bullock says quarterly core inflation needs to be around 0.6%
 - 09/29 15:22 [financialjuice] RBA's Gov. Bullock: We need to see quarterly core inflation numbers sitting around 0.6%.
+- 09/29 15:24 [FirstSquawk] South Korea’s Defense Minister: North Korean mine that caused explosion violated armistice agreement
+- 09/29 15:40 [FirstSquawk] South Korea Defence Minister Kang: DMZ mine appears to have been planted during North Korea’s border fortification work

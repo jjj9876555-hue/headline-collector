@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-29 15:23 JST／対象: 09/28 15:23 〜 09/29 15:23 JST（時刻はすべて日本時間）
+生成: 2026-09-29 15:44 JST／対象: 09/28 15:44 〜 09/29 15:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 38 | 09/28 16:28 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 345 | 09/28 15:24 | 09/29 15:22 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 307 | 09/28 15:41 | 09/29 15:22 | ⚠ 62分（11:21→12:24） |
+| FirstSquawk | 344 | 09/28 15:51 | 09/29 15:40 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 306 | 09/28 15:48 | 09/29 15:22 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 675 行（統合前 694 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 673 行（統合前 692 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 15:24 [FirstSquawk] UK’s Streeting: State-backed actors could seek to harm Britain, requiring continued vigilance
-- 09/28 15:25 [FirstSquawk] UK’s Streeting declines to speculate on motives behind arrests
-- 09/28 15:27 [FirstSquawk] Deutsche Bank cuts PepsiCo rating to Hold from Buy and price target to $138 from $155
-- 09/28 15:41 [financialjuice] Qatar extends LNG force majeure for Pakistan into November
 - 09/28 15:48 [financialjuice] BoE's Dhingra: Worry that high rates would hit investment and lower supply
 - 09/28 15:51 [FirstSquawk] HSBC says euro weighed down by rate uncertainty and elevated energy costs-fx
 - 09/28 15:51 [FirstSquawk] Silver prices slide as markets react to the Fed’s hawkish rate outlook-fx
@@ -699,3 +695,5 @@
 - 09/29 15:19 [financialjuice] RBA's Gov. Bullock: Neutral interest rate moving up in australia, globally.
 - 09/29 15:22 [FirstSquawk] RBA’s Bullock says quarterly core inflation needs to be around 0.6%
 - 09/29 15:22 [financialjuice] RBA's Gov. Bullock: We need to see quarterly core inflation numbers sitting around 0.6%.
+- 09/29 15:24 [FirstSquawk] South Korea’s Defense Minister: North Korean mine that caused explosion violated armistice agreement
+- 09/29 15:40 [FirstSquawk] South Korea Defence Minister Kang: DMZ mine appears to have been planted during North Korea’s border fortification work
