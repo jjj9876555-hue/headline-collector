@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-29 12:19 JST／対象: 09/29 00:19 〜 09/29 12:19 JST（時刻はすべて日本時間）
+生成: 2026-09-29 12:37 JST／対象: 09/29 00:37 〜 09/29 12:37 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 12 | 09/29 00:35 | 09/29 02:14 | ⚠ 54分（00:44→01:39） |
-| FirstSquawk | 155 | 09/29 00:32 | 09/29 12:14 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 155 | 09/29 00:23 | 09/29 11:21 | 40分（09:25→10:05） |
+| DeItaone | 11 | 09/29 00:44 | 09/29 02:14 | ⚠ 54分（00:44→01:39） |
+| FirstSquawk | 155 | 09/29 00:39 | 09/29 12:36 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 148 | 09/29 00:37 | 09/29 12:24 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 313 行（統合前 324 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 307 行（統合前 316 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 00:23 [financialjuice] US Secretary of State Rubio met with Lebanese PM Mikati in Washington - Israel's Channel 12 News
-- 09/29 00:32 [FirstSquawk] BRITAIN'S FTSE 100 UP 0.05%; GERMANY'S DAX DOWN 0.01%
-- 09/29 00:32 [financialjuice] US 6-MONTH BILL HIGH YIELD ACTUAL 4.285% (FORECAST -, PREVIOUS 4.155%) $MACRO
-- 09/29 00:32 [FirstSquawk] FRANCE'S CAC 40 UP 0.14%; SPAIN'S IBEX DOWN 0.33%
-- 09/29 00:32 [financialjuice] US 6-MONTH BILL BID-TO-COVER ACTUAL 2.64 (FORECAST -, PREVIOUS 2.620) $MACRO
-- 09/29 00:32 [financialjuice] US 3-MONTH BILL BID-TO-COVER ACTUAL 2.99 (FORECAST -, PREVIOUS 2.770) $MACRO
-- 09/29 00:32 [financialjuice] US 3-MONTH BILL HIGH YIELD ACTUAL 4.11% (FORECAST -, PREVIOUS 4.015%) $MACRO
-- 09/29 00:32 [financialjuice] US 3-MONTH AWARDED HIGH ACTUAL 61.140% (FORECAST -, PREVIOUS 36.660%) $MACRO
-- 09/29 00:32 [financialjuice] US 6-MONTH AWARDED HIGH ACTUAL 37.890% (FORECAST -, PREVIOUS 48.010%) $MACRO
-- 09/29 00:34 [financialjuice/FirstSquawk] TotalEnergies CEO: There was a big debate whether we should declare force majeure on LNG
-- 09/29 00:35 [FirstSquawk/DeItaone] STOCKS OF CRUDE OIL IN US STRATEGIC PETROLEUM RESERVE FELL TO 283.8 MLN BARRELS LAST WEEK, LOWEST SINCE 1982
 - 09/29 00:37 [financialjuice] Nvidia, OpenAI invited to Trump-Johnson meeting - Semafor. $NVDA
 - 09/29 00:38 [financialjuice] White House Official: Trump and Anthropic's Amodei met last night.
 - 09/29 00:39 [FirstSquawk] NVIDIA, OPENAI INVITED TO TRUMP-JOHNSON MEETING: SEMAFOR
@@ -337,3 +326,8 @@
 - 09/29 12:03 [FirstSquawk] Four shipboard personnel injured in incident, US Navy says
 - 09/29 12:04 [FirstSquawk] Singapore MAS to launch $16 million market-making sleeve to support SGX stock trading
 - 09/29 12:14 [FirstSquawk] China asks local governments to trial ‘high-quality’ policies to spur consumer spending
+- 09/29 12:22 [FirstSquawk] Dollar index gains as rising oil prices lift Fed rate-hike expectations - FX
+- 09/29 12:24 [financialjuice] CNN, MSNBC and Politico ask judge to block Trump from reviving White House ban
+- 09/29 12:24 [FirstSquawk] CNN, MS NOW and Politico ask court to halt Trump’s attempt to revive White House ban
+- 09/29 12:27 [FirstSquawk] Bank of India’s $1 billion MTN programme rated ‘BBB-’ by Fitch
+- 09/29 12:36 [FirstSquawk] Japan 40-year JGB auction highest yield stands at 4.1250%; 42.4153% of bids accepted

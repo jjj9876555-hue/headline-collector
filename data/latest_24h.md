@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-29 12:19 JST／対象: 09/28 12:19 〜 09/29 12:19 JST（時刻はすべて日本時間）
+生成: 2026-09-29 12:37 JST／対象: 09/28 12:37 〜 09/29 12:37 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 38 | 09/28 16:28 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 315 | 09/28 12:21 | 09/29 12:14 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 273 | 09/28 13:26 | 09/29 11:21 | ⚠ 59分（14:00→15:00） |
+| FirstSquawk | 316 | 09/28 12:41 | 09/29 12:36 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 274 | 09/28 13:26 | 09/29 12:24 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 611 行（統合前 630 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 613 行（統合前 632 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 12:21 [FirstSquawk] South Korean regulator plans 14.8 billion won in fines for barbecue chain operator
-- 09/28 12:25 [FirstSquawk] JPMorgan boosts Dassault Aviation target by €25 to €350
-- 09/28 12:33 [FirstSquawk] Swiss franc falls to fresh low since May 2025 near 0.8300 against dollar - FX
 - 09/28 12:41 [FirstSquawk] Paul Chan says Hong Kong aims to close strategic-sector company deals in coming months - SCMP
 - 09/28 12:54 [FirstSquawk] Thailand August domestic auto sales surge 25.59% from a year earlier
 - 09/28 13:04 [FirstSquawk] EU COUNTRIES CONSIDER NATO-STYLE JOINT RESPONSES TO RUSSIAN HYBRID ATTACKS – FT
@@ -635,3 +632,8 @@
 - 09/29 12:03 [FirstSquawk] Four shipboard personnel injured in incident, US Navy says
 - 09/29 12:04 [FirstSquawk] Singapore MAS to launch $16 million market-making sleeve to support SGX stock trading
 - 09/29 12:14 [FirstSquawk] China asks local governments to trial ‘high-quality’ policies to spur consumer spending
+- 09/29 12:22 [FirstSquawk] Dollar index gains as rising oil prices lift Fed rate-hike expectations - FX
+- 09/29 12:24 [financialjuice] CNN, MSNBC and Politico ask judge to block Trump from reviving White House ban
+- 09/29 12:24 [FirstSquawk] CNN, MS NOW and Politico ask court to halt Trump’s attempt to revive White House ban
+- 09/29 12:27 [FirstSquawk] Bank of India’s $1 billion MTN programme rated ‘BBB-’ by Fitch
+- 09/29 12:36 [FirstSquawk] Japan 40-year JGB auction highest yield stands at 4.1250%; 42.4153% of bids accepted
