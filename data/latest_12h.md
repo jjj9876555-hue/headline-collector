@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-29 21:52 JST／対象: 09/29 09:52 〜 09/29 21:52 JST（時刻はすべて日本時間）
+生成: 2026-09-29 22:08 JST／対象: 09/29 10:08 〜 09/29 22:08 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 18 | 09/29 20:26 | 09/29 21:39 | 15分（21:00→21:16） |
-| FirstSquawk | 221 | 09/29 10:06 | 09/29 21:46 | 30分（19:41→20:12） |
-| financialjuice | 111 | 09/29 10:05 | 09/29 21:43 | ⚠ 62分（11:21→12:24） |
+| FirstSquawk | 222 | 09/29 10:20 | 09/29 22:06 | 30分（19:41→20:12） |
+| financialjuice | 114 | 09/29 10:20 | 09/29 22:02 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 341 行（統合前 350 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 345 行（統合前 354 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 10:05 [financialjuice] Taiwan overnight interbank rate starts at 0.805% versus 0.804% in previous session opening
-- 09/29 10:06 [financialjuice] US secretary of state Rubio: uk base incident involved foreign actor
-- 09/29 10:06 [FirstSquawk] Taxpayers Footed Bill For Three Bottles Of Pinot Noir During Janelle Saffin’s $4,400 Sydney Hotel Stay - dailytelegraph
 - 09/29 10:20 [FirstSquawk] Rubio to Fox News: British base incident involved a foreign party
 - 09/29 10:20 [financialjuice] China central bank injects 90.5 billion yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement
 - 09/29 10:21 [FirstSquawk] Rubio to Fox News: If Iran had a nuclear weapon, no one could prevent it from controlling the Strait of Hormuz
@@ -365,3 +362,10 @@
 - 09/29 21:39 [DeItaone/financialjuice] WELLS FARGO INVESTMENT INSTITUTE CUTS GOLD'S 2027 YEAR-END TARGET RANGE TO $5,200-$5,400 PER OUNCE FROM PRIOR FORECAST OF $5,400-$5,600 PER OUNCE
 - 09/29 21:39 [financialjuice] Wells Fargo Investment Institute upgrades S&P 500 industrials sector to favorable from neutral.
 - 09/29 21:43 [financialjuice/FirstSquawk] Wells Fargo Investment Institute forecasts 10-Year US Treasury yield at 5.25%-5.75% by 2027-end vs prior forecast of 4.50%-5.00%.
+- 09/29 21:55 [financialjuice] US REDBOOK YOY ACTUAL 8.2% (FORECAST -, PREVIOUS 7.6%) $MACRO
+- 09/29 22:00 [financialjuice] US HOUSE PRICE INDEX MOM ACTUAL 0.3% (FORECAST 0.1%, PREVIOUS 0.0%) $MACRO
+- 09/29 22:00 [financialjuice] US CASESHILLER 20 YOY ACTUAL 2.47% (FORECAST 2.2%, PREVIOUS 2.1%) $MACRO
+- 09/29 22:00 [financialjuice] US HOUSE PRICE INDEX YOY ACTUAL 2.6% (FORECAST -, PREVIOUS 2.3%) $MACRO
+- 09/29 22:00 [FirstSquawk] US FHFA HOUSE PRICE INDEX (M/M) JUL: 0.3% (EST 0.1%; PREV 0.0%)
+- 09/29 22:02 [financialjuice] US Case-Shiller July Report
+- 09/29 22:06 [FirstSquawk] EU: NO TALKS PLANNED TO RENEGOTIATE UKRAINE EXPORT QUOTAS

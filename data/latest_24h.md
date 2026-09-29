@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-29 21:52 JST／対象: 09/28 21:52 〜 09/29 21:52 JST（時刻はすべて日本時間）
+生成: 2026-09-29 22:08 JST／対象: 09/28 22:08 〜 09/29 22:08 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 35 | 09/28 22:49 | 09/29 21:39 | ⚠ 1092分（02:14→20:26） |
-| FirstSquawk | 363 | 09/28 21:53 | 09/29 21:46 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 299 | 09/28 21:52 | 09/29 21:43 | ⚠ 62分（11:21→12:24） |
+| FirstSquawk | 362 | 09/28 22:11 | 09/29 22:06 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 301 | 09/28 22:19 | 09/29 22:02 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 676 行（統合前 701 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 677 行（統合前 701 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 21:52 [financialjuice] Trump to unveil planned $15 billion Iowa steel project - WSJ
-- 09/28 21:53 [FirstSquawk] SPACEX'S STARSHIP ROCKET LIFTS OFF ON FIRST-EVER ORBITAL TEST
-- 09/28 21:58 [FirstSquawk] SHEIN 1H NET INCOME $2.30B VS. $1.09B Y/Y
-- 09/28 22:00 [financialjuice] Effective Fed Funds Rate 3.88% September 25 vs 3.88% September 24.
-- 09/28 22:01 [financialjuice] Senate report says Tether's USDT has become a primary means of payment for Iran - WSJ
-- 09/28 22:06 [FirstSquawk] INDIA TRADE MINISTER GOYAL TO VISIT US SEPT 29-OCT 5 FOR G20 TRADE TALKS
 - 09/28 22:11 [FirstSquawk] TRUMP ADMINISTRATION ENDS FUEL ECONOMY CREDIT TRADING IN 2028
 - 09/28 22:12 [FirstSquawk] SPACEX: GO-AHEAD GIVEN FOR STARSHIP ORBIT ATTEMPT DESPITE ENGINE GOING OUT
 - 09/28 22:19 [financialjuice] Trump's 2PM announcement will be on Iowa steel project - Official
@@ -700,3 +694,10 @@
 - 09/29 21:39 [DeItaone/financialjuice] WELLS FARGO INVESTMENT INSTITUTE CUTS GOLD'S 2027 YEAR-END TARGET RANGE TO $5,200-$5,400 PER OUNCE FROM PRIOR FORECAST OF $5,400-$5,600 PER OUNCE
 - 09/29 21:39 [financialjuice] Wells Fargo Investment Institute upgrades S&P 500 industrials sector to favorable from neutral.
 - 09/29 21:43 [financialjuice/FirstSquawk] Wells Fargo Investment Institute forecasts 10-Year US Treasury yield at 5.25%-5.75% by 2027-end vs prior forecast of 4.50%-5.00%.
+- 09/29 21:55 [financialjuice] US REDBOOK YOY ACTUAL 8.2% (FORECAST -, PREVIOUS 7.6%) $MACRO
+- 09/29 22:00 [financialjuice] US HOUSE PRICE INDEX MOM ACTUAL 0.3% (FORECAST 0.1%, PREVIOUS 0.0%) $MACRO
+- 09/29 22:00 [financialjuice] US CASESHILLER 20 YOY ACTUAL 2.47% (FORECAST 2.2%, PREVIOUS 2.1%) $MACRO
+- 09/29 22:00 [financialjuice] US HOUSE PRICE INDEX YOY ACTUAL 2.6% (FORECAST -, PREVIOUS 2.3%) $MACRO
+- 09/29 22:00 [FirstSquawk] US FHFA HOUSE PRICE INDEX (M/M) JUL: 0.3% (EST 0.1%; PREV 0.0%)
+- 09/29 22:02 [financialjuice] US Case-Shiller July Report
+- 09/29 22:06 [FirstSquawk] EU: NO TALKS PLANNED TO RENEGOTIATE UKRAINE EXPORT QUOTAS

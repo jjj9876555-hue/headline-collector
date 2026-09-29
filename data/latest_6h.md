@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-29 21:52 JST／対象: 09/29 15:52 〜 09/29 21:52 JST（時刻はすべて日本時間）
+生成: 2026-09-29 22:08 JST／対象: 09/29 16:08 〜 09/29 22:08 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 18 | 09/29 20:26 | 09/29 21:39 | 15分（21:00→21:16） |
-| FirstSquawk | 99 | 09/29 15:58 | 09/29 21:46 | 30分（19:41→20:12） |
-| financialjuice | 59 | 09/29 16:00 | 09/29 21:43 | ⚠ 50分（18:30→19:20） |
+| FirstSquawk | 91 | 09/29 16:10 | 09/29 22:06 | 30分（19:41→20:12） |
+| financialjuice | 58 | 09/29 16:13 | 09/29 22:02 | ⚠ 50分（18:30→19:20） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 167 行（統合前 176 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 158 行（統合前 167 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 15:58 [FirstSquawk] South Korea Joint Chiefs of Staff: DMZ mines likely planted just over a year ago
-- 09/29 15:59 [FirstSquawk] South Korea Joint Chiefs of Staff: UN Command says DMZ explosion mines were clearly south of Military Demarcation Line
-- 09/29 16:00 [financialjuice] SPANISH CPI MOM FLASH ACTUAL 0.3% (FORECAST 0.1%, PREVIOUS 0.70%) $MACRO
-- 09/29 16:00 [financialjuice] SPANISH HICP MOM FLASH ACTUAL 0.6% (FORECAST 0.6%, PREVIOUS 0.7%) $MACRO
-- 09/29 16:00 [financialjuice] SPANISH HICP YOY FLASH ACTUAL 5% (FORECAST 4.9%, PREVIOUS 4.6%) $MACRO
-- 09/29 16:00 [financialjuice] SWISS KOF INDICATOR ACTUAL 109.1 (FORECAST 106, PREVIOUS 106.7) $MACRO
-- 09/29 16:00 [financialjuice] SPANISH CPI YOY FLASH ACTUAL 4.9% (FORECAST 4.6%, PREVIOUS 4.3%) $MACRO
-- 09/29 16:00 [financialjuice] SPANISH RETAIL SALES SA YOY ACTUAL -0.4% (FORECAST -, PREVIOUS -0.3%) $MACRO
-- 09/29 16:02 [FirstSquawk] SPAIN CPI (Y/Y) SEP P: 4.9% (EST 4.6%; PREV 4.3%)
-- 09/29 16:02 [FirstSquawk] SPAIN CPI (M/M): 0.3% (EST 0.1%; PREV 0.7%)
-- 09/29 16:02 [FirstSquawk] SPAIN CPI EU H. (Y/Y): 5.0% (EST 4.9%; PREV 4.6%)
-- 09/29 16:02 [FirstSquawk] SWITZERLAND KOF LEADING INDICATOR SEP: 109.1 (EST 106.0; PREV 106.7; PREV R 107.5)
-- 09/29 16:02 [FirstSquawk] SPAIN CPI EU H. (M/M): 0.6% (EST 0.6%; PREV 0.7%)
-- 09/29 16:02 [FirstSquawk] SPAIN CPI CORE (Y/Y): 3.1% (EST 3.0%; PREV 2.9%)
-- 09/29 16:02 [FirstSquawk] SPAIN RETAIL SALES (Y/Y) AUG: -1.1% (PREV -0.2%; PREV R -0.3%)
-- 09/29 16:02 [FirstSquawk] SPAIN RETAIL SALES SA (Y/Y): -0.4% (EST -0.3%; PREV R -0.4%)
 - 09/29 16:10 [FirstSquawk] BRITAIN'S FTSE 100 UP 0.18% || FRANCE'S CAC 40 UP 0.05% || SPAIN'S IBEX UP 0.26% || GERMANY'S DAX UP 0.08%
 - 09/29 16:10 [FirstSquawk] NHTSA HAS CLOSED A DEFECT PETITION REGARDING 806,963 HONDA ODYSSEY VEHICLES IN THE U.S. DUE TO AIRBAGS DEPLOYING UNINTENTIONALLY WHILE DRIVING.
 - 09/29 16:11 [FirstSquawk] NHTSA ENDS INITIAL REVIEW OF 1,076,999 CHRYSLER CARS DUE TO UNDERHOOD FIRES WHEN VEHICLES ARE TURNED OFF.
@@ -191,3 +175,10 @@
 - 09/29 21:39 [DeItaone/financialjuice] WELLS FARGO INVESTMENT INSTITUTE CUTS GOLD'S 2027 YEAR-END TARGET RANGE TO $5,200-$5,400 PER OUNCE FROM PRIOR FORECAST OF $5,400-$5,600 PER OUNCE
 - 09/29 21:39 [financialjuice] Wells Fargo Investment Institute upgrades S&P 500 industrials sector to favorable from neutral.
 - 09/29 21:43 [financialjuice/FirstSquawk] Wells Fargo Investment Institute forecasts 10-Year US Treasury yield at 5.25%-5.75% by 2027-end vs prior forecast of 4.50%-5.00%.
+- 09/29 21:55 [financialjuice] US REDBOOK YOY ACTUAL 8.2% (FORECAST -, PREVIOUS 7.6%) $MACRO
+- 09/29 22:00 [financialjuice] US HOUSE PRICE INDEX MOM ACTUAL 0.3% (FORECAST 0.1%, PREVIOUS 0.0%) $MACRO
+- 09/29 22:00 [financialjuice] US CASESHILLER 20 YOY ACTUAL 2.47% (FORECAST 2.2%, PREVIOUS 2.1%) $MACRO
+- 09/29 22:00 [financialjuice] US HOUSE PRICE INDEX YOY ACTUAL 2.6% (FORECAST -, PREVIOUS 2.3%) $MACRO
+- 09/29 22:00 [FirstSquawk] US FHFA HOUSE PRICE INDEX (M/M) JUL: 0.3% (EST 0.1%; PREV 0.0%)
+- 09/29 22:02 [financialjuice] US Case-Shiller July Report
+- 09/29 22:06 [FirstSquawk] EU: NO TALKS PLANNED TO RENEGOTIATE UKRAINE EXPORT QUOTAS
