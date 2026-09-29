@@ -7,36 +7,24 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-30 08:43 JST／対象: 09/29 20:43 〜 09/30 08:43 JST（時刻はすべて日本時間）
+生成: 2026-09-30 08:55 JST／対象: 09/29 20:55 〜 09/30 08:55 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 82 | 09/29 20:45 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
-| FirstSquawk | 188 | 09/29 20:44 | 09/30 08:42 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 300 | 09/29 20:43 | 09/30 08:09 | ⚠ 67分（06:32→07:40） |
+| DeItaone | 77 | 09/29 21:00 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
+| FirstSquawk | 191 | 09/29 20:55 | 09/30 08:51 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 300 | 09/29 20:57 | 09/30 08:53 | ⚠ 67分（06:32→07:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 548 行（統合前 576 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 548 行（統合前 574 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 20:43 [financialjuice] Iran: It discussed expanding energy trade with Azerbaijan.
-- 09/29 20:44 [FirstSquawk] GERMAN DEFENCE MINISTER PISTORIUS: GERMANY PLANNING TO BUY 16 A400M TRANSPORTERS FROM AIRBUS, ORDER VOLUME WILL BE IN THE BILLIONS
-- 09/29 20:45 [DeItaone] U.S. CRUDE PRICES FALL AS HORMUZ EXPORTS RISE Regional U.S. crude prices weakened as rising exports through the Strait of Hormuz eased concerns over global supply tightness. WTI remained rangebound in the mid-$90s/bbl. Houston averaged $98.…
-- 09/29 20:46 [DeItaone] FED SPEAKERS IN FOCUS AS BOND YIELDS SURGE Markets are closely watching Fed officials for any shift in tone following the sharp rise in Treasury yields. Deutsche Bank says policymakers remain broadly hawkish and expects two additional 25bp …
-- 09/29 20:47 [financialjuice] ECB’s Escriva: We are still not in a restrictive territory.
-- 09/29 20:49 [financialjuice] ECB's Escriva: What I would start to worry about is the global upward trajectory of long-term rates.
-- 09/29 20:49 [DeItaone] MEDVEDEV WARNS WORLD CLOSER TO GLOBAL CONFLICT Russian Security Council Deputy Chairman Dmitry Medvedev claimed Tuesday that the world is closer to a global conflict than at any point since 1945.
-- 09/29 20:49 [financialjuice] ECB’s Escriva: This can add pressure to interest rates.
-- 09/29 20:50 [financialjuice/DeItaone] ❗ Trump backs Russia sanction relief on prisoner release - Atlantic.
-- 09/29 20:51 [financialjuice] Trump expressed support for the plan a few months ago - Atlantic.
-- 09/29 20:51 [financialjuice] Russia initiative is still in its early stages - Atlantic.
-- 09/29 20:53 [DeItaone/FirstSquawk] IEA'S BIROL: EUROPE IS GOING TO ENTER A VERY DIFFICULT WINTER
-- 09/29 20:54 [financialjuice] ECB's Escriva: High energy prices might anchor in inflation.
+- 09/29 20:55 [FirstSquawk] IEA'S BIROL: EUROPE IS GOING TO ENTER A VERY DIFFICULT WINTER
 - 09/29 20:55 [FirstSquawk] IEA'S BIROL: HOPE EUROPE AND ITS ALLIES WORK TOGETHER TO MINIMISE RISKS FACING EUROPE IN TERMS OF ENERGY SITUATION
 - 09/29 20:57 [financialjuice] ECB's Escriva: Not seeing second-round effects.
 - 09/29 21:00 [financialjuice] Secured Overnight Financing Rate 3.90% September 28th vs 3.90% September 25th.
@@ -572,3 +560,15 @@
 - 09/30 08:38 [FirstSquawk] COPPER REMAINS ON TRACK FOR A THIRD STRAIGHT MONTHLY GAIN AFTER HITTING A RECORD $14,875 IN SEPTEMBER, WITH TIGHT PHYSICAL MARKETS AND STRONG CHINESE DEMAND SUPPORTING PRICES; DEUTSCHE BANK SEES COPPER RISING ABOVE $22,000 A TON WITHIN SIX …
 - 09/30 08:41 [FirstSquawk] BOEING HAS WON THE U.S. NAVY'S F/A-XX COMPETITION, BEATING NORTHROP GRUMMAN FOR A CONTRACT WORTH MORE THAN $20 BLN TO DEVELOP THE NAVY'S NEXT-GENERATION CARRIER FIGHTER. || THE AIRCRAFT IS EXPECTED TO ENTER SERVICE IN THE 2030S, REPLACING T…
 - 09/30 08:42 [FirstSquawk] THE EURO FELL 0.5% TO $1.1312, ITS WEAKEST LEVEL SINCE MAY 2025, AS EXPECTATIONS FOR FURTHER FED RATE HIKES AND RISING U.S. TREASURY YIELDS BOOSTED THE DOLLAR; THE EURO IS DOWN 2.6% AGAINST THE DOLLAR IN SEPTEMBER. DOLLAR SPOT INDEX HAS GAI…
+- 09/30 08:45 [financialjuice] USTR Greer: will consider trade deal tariff caps in setting tariffs in section 301 excess capacity probe
+- 09/30 08:46 [FirstSquawk] JAPAN’S NIKKEI FUTURES RISE 0.9% IN EARLY TRADE; 10-YEAR JGB FUTURES UP 0.04 POINT
+- 09/30 08:49 [FirstSquawk] ISRAEL’S FINANCE MINISTRY HAS OBJECTED TO THE PROPOSED $4.2 BILLION SALE OF ZIM TO HAPAG-LLOYD, CITING SECURITY CONCERNS OVER SAUDI ARABIA’S AND QATAR’S STAKES IN THE GERMAN SHIPPING COMPANY. HAPAG-LLOYD AND FIMI HAVE PROPOSED A DIRECT FAR …
+- 09/30 08:50 [financialjuice] ‼ BREAKING: JAPANESE INDUSTRIAL OUTPUT PRELIM MOM SA ACTUAL -1.7% (FORECAST 1.3%, PREVIOUS -0.2%) $MACRO
+- 09/30 08:50 [financialjuice] JAPANESE RETAIL SALES YOY ACTUAL 2.7% (FORECAST 3.2%, PREVIOUS 4.0%) $MACRO
+- 09/30 08:50 [financialjuice] Japan August industrial output falls 1.7% m/m : government (Poll +1.7%)
+- 09/30 08:50 [financialjuice] Japan august retail sales climb 2.7% year/year: govt (poll +3.3%)
+- 09/30 08:50 [financialjuice] Japan manufacturers see Sept output up 3.2% m/m, prev forecast -4.2%: govt
+- 09/30 08:50 [financialjuice] Japan manufacturers report October output up 3.1% m/m, government says
+- 09/30 08:50 [FirstSquawk] JAPAN'S AUGUST INDUSTRIAL OUTPUT FELL 1.7% MONTH-ON-MONTH, AGAINST AN EXPECTED 1.7% RISE, WHILE AUGUST RETAIL SALES CLIMBED 2.7% YEAR-ON-YEAR, BELOW THE 3.3% POLL AND DOWN FROM 4.0%.
+- 09/30 08:51 [FirstSquawk] JAPAN'S MANUFACTURERS SEE SEPTEMBER OUTPUT UP 3.2% MONTH-ON-MONTH — VERSUS A PREVIOUS FORECAST OF -4.2% — AND OCTOBER OUTPUT UP 3.1% - GOVT
+- 09/30 08:53 [financialjuice] JAPANESE LARGE SCALE RETAIL SALES YOY ACTUAL 1% (FORECAST -, PREVIOUS 2%) $MACRO

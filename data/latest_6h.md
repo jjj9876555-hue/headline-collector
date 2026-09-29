@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-30 08:43 JST／対象: 09/30 02:43 〜 09/30 08:43 JST（時刻はすべて日本時間）
+生成: 2026-09-30 08:55 JST／対象: 09/30 02:55 〜 09/30 08:55 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 22 | 09/30 04:01 | 09/30 05:46 | 23分（05:12→05:36） |
-| FirstSquawk | 87 | 09/30 02:43 | 09/30 08:42 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 129 | 09/30 02:43 | 09/30 08:09 | ⚠ 67分（06:32→07:40） |
+| FirstSquawk | 85 | 09/30 02:56 | 09/30 08:51 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 129 | 09/30 02:55 | 09/30 08:53 | ⚠ 67分（06:32→07:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 231 行（統合前 241 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 229 行（統合前 239 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 02:43 [FirstSquawk] BP'S WHITING REFINERY SAYS IT IS PROPOSING A 6-YEAR CONTRACT TERM THAT WOULD PROVIDE STABILITY FOR THE REFINERY AND EMPLOYEES, ALONG WITH AN EXTENDED NOTICE PERIOD BEFORE THE UNION CAN STRIKE OR THE COMPANY CAN INITIATE A LOCKOUT.
-- 09/30 02:43 [FirstSquawk] BP'S WHITING REFINERY SAYS IT WILL CONTINUE TO MEET WITH USW 7-1 REPRESENTATIVES TO FIND COMMON GROUND AS NEGOTIATIONS PROGRESS.
-- 09/30 02:43 [financialjuice] Fed's Goolsbee: Nothing in the Federal Reserve Act says make sure the bond market is happy or stock markets aren't surprised
-- 09/30 02:48 [financialjuice] Fed's Goolsbee: Need to revisit the logic of looking through supply shocks
-- 09/30 02:49 [financialjuice] Oklahoma Governor Stitt Seeks dyed Diesel tax pause for 120 days.
-- 09/30 02:49 [FirstSquawk] FED'S BARR SAYS THE ECONOMY IS QUITE STRONG RIGHT NOW, BUT THAT PEOPLE ARE FRUSTRATED AND UNCERTAIN BECAUSE INFLATION HAS BEEN TOO HIGH, ADDING THAT IN THE SHORT TERM THE BIGGEST EFFECT OF AI RIGHT NOW IS DRIVING UP COSTS - DETROIT RADIO ST…
-- 09/30 02:49 [financialjuice] Fed's Goolsbee: The fact we have been 5-1/2 years above inflation target is playing with fire
-- 09/30 02:50 [FirstSquawk] FED'S GOOLSBEE SAYS THE FACT THAT INFLATION HAS BEEN ABOVE THE TARGET FOR 5-1/2 YEARS IS 'PLAYING WITH FIRE', ADDING THAT THERE IS A NEED TO REVISIT THE LOGIC OF LOOKING THROUGH SUPPLY SHOCKS.
-- 09/30 02:50 [FirstSquawk] FEDS' GOOLSBEE SAYS 'NOTHING IN THE FEDERAL RESERVE ACT SAYS MAKE SURE THE BOND MARKET IS HAPPY OR STOCK MARKETS AREN'T SURPRISED'.
-- 09/30 02:50 [financialjuice] Fed's Goolsbee: Price of oil could go down relatively quickly, but the deeper problem is getting refineries back online
-- 09/30 02:51 [FirstSquawk] FED’S GOOLSBEE: OIL PRICES COULD FALL RELATIVELY QUICKLY, BUT KEY CHALLENGE IS RESTORING REFINERY OPERATIONS
-- 09/30 02:52 [financialjuice] Fed's Goolsbee: Keep your eye on productivity.
-- 09/30 02:53 [financialjuice] BoC's Gravelle: Timing of GoC bond purchases likely to be delayed
-- 09/30 02:54 [financialjuice] BoC's Gravelle: Balance sheet GoC purchases may not start until 2028.
 - 09/30 02:55 [financialjuice] OpenAI: Investigating elevated errors with ChatGPT, Codex
 - 09/30 02:56 [FirstSquawk] BANK OF CANADA PUSHES BACK TIMELINE FOR GOVERNMENT BOND PURCHASES; COULD START IN LATE 2027 OR 2028
 - 09/30 02:56 [FirstSquawk] OPENAI INVESTIGATING ELEVATED ERROR RATES AFFECTING CHATGPT & CODEX
@@ -255,3 +241,15 @@
 - 09/30 08:38 [FirstSquawk] COPPER REMAINS ON TRACK FOR A THIRD STRAIGHT MONTHLY GAIN AFTER HITTING A RECORD $14,875 IN SEPTEMBER, WITH TIGHT PHYSICAL MARKETS AND STRONG CHINESE DEMAND SUPPORTING PRICES; DEUTSCHE BANK SEES COPPER RISING ABOVE $22,000 A TON WITHIN SIX …
 - 09/30 08:41 [FirstSquawk] BOEING HAS WON THE U.S. NAVY'S F/A-XX COMPETITION, BEATING NORTHROP GRUMMAN FOR A CONTRACT WORTH MORE THAN $20 BLN TO DEVELOP THE NAVY'S NEXT-GENERATION CARRIER FIGHTER. || THE AIRCRAFT IS EXPECTED TO ENTER SERVICE IN THE 2030S, REPLACING T…
 - 09/30 08:42 [FirstSquawk] THE EURO FELL 0.5% TO $1.1312, ITS WEAKEST LEVEL SINCE MAY 2025, AS EXPECTATIONS FOR FURTHER FED RATE HIKES AND RISING U.S. TREASURY YIELDS BOOSTED THE DOLLAR; THE EURO IS DOWN 2.6% AGAINST THE DOLLAR IN SEPTEMBER. DOLLAR SPOT INDEX HAS GAI…
+- 09/30 08:45 [financialjuice] USTR Greer: will consider trade deal tariff caps in setting tariffs in section 301 excess capacity probe
+- 09/30 08:46 [FirstSquawk] JAPAN’S NIKKEI FUTURES RISE 0.9% IN EARLY TRADE; 10-YEAR JGB FUTURES UP 0.04 POINT
+- 09/30 08:49 [FirstSquawk] ISRAEL’S FINANCE MINISTRY HAS OBJECTED TO THE PROPOSED $4.2 BILLION SALE OF ZIM TO HAPAG-LLOYD, CITING SECURITY CONCERNS OVER SAUDI ARABIA’S AND QATAR’S STAKES IN THE GERMAN SHIPPING COMPANY. HAPAG-LLOYD AND FIMI HAVE PROPOSED A DIRECT FAR …
+- 09/30 08:50 [financialjuice] ‼ BREAKING: JAPANESE INDUSTRIAL OUTPUT PRELIM MOM SA ACTUAL -1.7% (FORECAST 1.3%, PREVIOUS -0.2%) $MACRO
+- 09/30 08:50 [financialjuice] JAPANESE RETAIL SALES YOY ACTUAL 2.7% (FORECAST 3.2%, PREVIOUS 4.0%) $MACRO
+- 09/30 08:50 [financialjuice] Japan August industrial output falls 1.7% m/m : government (Poll +1.7%)
+- 09/30 08:50 [financialjuice] Japan august retail sales climb 2.7% year/year: govt (poll +3.3%)
+- 09/30 08:50 [financialjuice] Japan manufacturers see Sept output up 3.2% m/m, prev forecast -4.2%: govt
+- 09/30 08:50 [financialjuice] Japan manufacturers report October output up 3.1% m/m, government says
+- 09/30 08:50 [FirstSquawk] JAPAN'S AUGUST INDUSTRIAL OUTPUT FELL 1.7% MONTH-ON-MONTH, AGAINST AN EXPECTED 1.7% RISE, WHILE AUGUST RETAIL SALES CLIMBED 2.7% YEAR-ON-YEAR, BELOW THE 3.3% POLL AND DOWN FROM 4.0%.
+- 09/30 08:51 [FirstSquawk] JAPAN'S MANUFACTURERS SEE SEPTEMBER OUTPUT UP 3.2% MONTH-ON-MONTH — VERSUS A PREVIOUS FORECAST OF -4.2% — AND OCTOBER OUTPUT UP 3.1% - GOVT
+- 09/30 08:53 [financialjuice] JAPANESE LARGE SCALE RETAIL SALES YOY ACTUAL 1% (FORECAST -, PREVIOUS 2%) $MACRO
