@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-29 16:28 JST／対象: 09/29 10:28 〜 09/29 16:28 JST（時刻はすべて日本時間）
+生成: 2026-09-29 16:47 JST／対象: 09/29 10:47 〜 09/29 16:47 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 128 | 09/29 10:32 | 09/29 16:26 | 26分（12:45→13:11） |
-| financialjuice | 57 | 09/29 10:30 | 09/29 16:25 | ⚠ 62分（11:21→12:24） |
+| FirstSquawk | 116 | 09/29 10:47 | 09/29 16:39 | 26分（12:45→13:11） |
+| financialjuice | 57 | 09/29 11:00 | 09/29 16:39 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 185 行（統合前 185 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 172 行（統合前 173 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 10:30 [financialjuice] Australia August household spending unchanged month on month seasonally adjusted - ABS
-- 09/29 10:32 [FirstSquawk] Japan offers ¥300 billion of 40-year government bonds
-- 09/29 10:33 [FirstSquawk] Australia household spending up 6.8% Y/Y in August, below 7.1% forecast
-- 09/29 10:33 [FirstSquawk] Australia household spending growth slows to 6.8% Y/Y in August from 7.0%
-- 09/29 10:36 [FirstSquawk] Oil extends rally amid ongoing concerns over Middle East supply - CNBC
-- 09/29 10:37 [FirstSquawk] Rubio urges Cuba to choose a different path, says U.S. will not tolerate threat to national security - FOX NEWS
-- 09/29 10:39 [FirstSquawk] Middle East oil exports rebound as Hormuz disruption from Iran fades - WSJ
-- 09/29 10:40 [FirstSquawk] Asian currencies stabilize but remain vulnerable to higher oil prices - WSJ
-- 09/29 10:40 [FirstSquawk] Oil prices climb amid deadlock in U.S.-Iran ceasefire negotiations - WSJ
-- 09/29 10:40 [FirstSquawk] 5-year Japan government bond yield eases 2.0bps to 2.400%
-- 09/29 10:41 [FirstSquawk] US$842 million Sydney data centre project scrapped following public backlash
-- 09/29 10:41 [FirstSquawk] Alibaba strengthens sports tech ambitions with new Nets partnership
-- 09/29 10:43 [FirstSquawk] Shein shares sink nearly 6% following 67% decline in quarterly profit
-- 09/29 10:45 [FirstSquawk] China hospital workers face wage cuts amid mounting financial pressures - zerohedge
-- 09/29 10:47 [FirstSquawk] Massive Pentagon employee database breach exposes sensitive information, ABC News reports
 - 09/29 10:47 [FirstSquawk] Haiti mayor says at least 11 killed in Gros-Morne after likely gang retaliation over UN-backed patrol
 - 09/29 10:51 [FirstSquawk] Pope Leo says warnings about AI doom scenarios should be taken seriously - RTRS
 - 09/29 10:54 [FirstSquawk] North Korea accused of operating alleged secret prison at Beijing embassy - YONHAP
@@ -209,3 +194,5 @@
 - 09/29 16:14 [FirstSquawk] IRAN'S REVOLUTIONARY GUARDS SPOKESPERSON CALLS TRUMP 'A BIG LIAR' AND SAYS US CITIZENS DESERVE THE TRUTH.
 - 09/29 16:25 [financialjuice] Iran's IRGC Spokesperson: US has no other choice but to declare failure and leave the region.
 - 09/29 16:26 [FirstSquawk] IRAN'S IRGC SPOKESPERSON CLAIMS US MUST ADMIT DEFEAT AND EXIT THE REGION.
+- 09/29 16:36 [FirstSquawk] SPANISH ENERGY MINISTER AAGESEN SAYS SPAIN, PORTUGAL, LUXEMBOURG SENT A LETTER ASKING COMMISSION FOR A NEW TARGET OF RENEWABLE ENERGY CAPACITY
+- 09/29 16:39 [financialjuice/FirstSquawk] Iran's Parliament Speaker Qalibaf: No one in the region shall sell its oil if Iran cannot sell its oil, if Iran has no security then no regional infrastructure shall be safe - State Media

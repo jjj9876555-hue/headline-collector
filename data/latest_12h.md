@@ -7,28 +7,24 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-29 16:28 JST／対象: 09/29 04:28 〜 09/29 16:28 JST（時刻はすべて日本時間）
+生成: 2026-09-29 16:47 JST／対象: 09/29 04:47 〜 09/29 16:47 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 181 | 09/29 04:32 | 09/29 16:26 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 119 | 09/29 04:29 | 09/29 16:25 | ⚠ 62分（11:21→12:24） |
+| FirstSquawk | 182 | 09/29 04:49 | 09/29 16:39 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 116 | 09/29 04:50 | 09/29 16:39 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 296 行（統合前 300 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 294 行（統合前 298 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 04:29 [financialjuice] ❗ Iranian Official: Reports of Iran's flexibility on nuclear stance are incorrect - Fars News.
-- 09/29 04:30 [financialjuice] Iranian Official: Iran's position on the nuclear issue has not changed, no discussions are currently taking place on this matter - Fars News.
-- 09/29 04:32 [financialjuice] saudi Foreign Minister and US Secretary of State Rubio discuss region, Yemen - SPA
-- 09/29 04:32 [FirstSquawk] IRANIAN OFFICIAL SAYS IRAN'S POSITION ON THE NUCLEAR ISSUE HAS NOT CHANGED AND THAT NO DISCUSSIONS ARE CURRENTLY TAKING PLACE ON THE MATTER, ADDING THAT REPORTS OF IRAN'S FLEXIBILITY ON ITS NUCLEAR STANCE ARE INCORRECT - FARS NEWS
-- 09/29 04:36 [financialjuice/FirstSquawk] UAE-Netanyahu meeting took place with the knowledge and blessing of the American government - Israel's Hayom News
+- 09/29 04:49 [FirstSquawk] UAE-NETANYAHU MEETING TOOK PLACE WITH THE KNOWLEDGE AND BLESSING OF THE AMERICAN GOVERNMENT - ISRAEL'S HAYOM NEWS
 - 09/29 04:49 [FirstSquawk] IRAQ’S HEZBOLLAH THREATENS TO CLOSE BORDERS WITH COUNTRIES SANCTIONING IRAN IF AIR EMBARGO ON IRAN CONTINUES AFTER OCTOBER 1 — IRIB
 - 09/29 04:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: -332.0 MLN NASDAQ 100: 613.1 MLN DOW 30: -251.3 MLN MAG 7: 16.3 MLN $MACRO
 - 09/29 04:51 [financialjuice] US Ambassador to NATO Whitaker: Working closely with the UK on arrested men.
@@ -320,3 +316,5 @@
 - 09/29 16:14 [FirstSquawk] IRAN'S REVOLUTIONARY GUARDS SPOKESPERSON CALLS TRUMP 'A BIG LIAR' AND SAYS US CITIZENS DESERVE THE TRUTH.
 - 09/29 16:25 [financialjuice] Iran's IRGC Spokesperson: US has no other choice but to declare failure and leave the region.
 - 09/29 16:26 [FirstSquawk] IRAN'S IRGC SPOKESPERSON CLAIMS US MUST ADMIT DEFEAT AND EXIT THE REGION.
+- 09/29 16:36 [FirstSquawk] SPANISH ENERGY MINISTER AAGESEN SAYS SPAIN, PORTUGAL, LUXEMBOURG SENT A LETTER ASKING COMMISSION FOR A NEW TARGET OF RENEWABLE ENERGY CAPACITY
+- 09/29 16:39 [financialjuice/FirstSquawk] Iran's Parliament Speaker Qalibaf: No one in the region shall sell its oil if Iran cannot sell its oil, if Iran has no security then no regional infrastructure shall be safe - State Media
