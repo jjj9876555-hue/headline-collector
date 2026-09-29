@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-30 04:18 JST／対象: 09/29 16:18 〜 09/30 04:18 JST（時刻はすべて日本時間）
+生成: 2026-09-30 04:35 JST／対象: 09/29 16:35 〜 09/30 04:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 69 | 09/29 20:26 | 09/30 04:04 | ⚠ 80分（02:40→04:01） |
-| FirstSquawk | 202 | 09/29 16:26 | 09/30 04:16 | 30分（19:41→20:12） |
-| financialjuice | 254 | 09/29 16:25 | 09/30 04:10 | ⚠ 50分（22:45→23:36） |
+| DeItaone | 70 | 09/29 20:26 | 09/30 04:27 | ⚠ 80分（02:40→04:01） |
+| FirstSquawk | 204 | 09/29 16:36 | 09/30 04:28 | 30分（19:41→20:12） |
+| financialjuice | 257 | 09/29 16:39 | 09/30 04:25 | ⚠ 50分（22:45→23:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 506 行（統合前 530 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 511 行（統合前 537 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 16:25 [financialjuice] Iran's IRGC Spokesperson: US has no other choice but to declare failure and leave the region.
-- 09/29 16:26 [FirstSquawk] IRAN'S IRGC SPOKESPERSON CLAIMS US MUST ADMIT DEFEAT AND EXIT THE REGION.
 - 09/29 16:36 [FirstSquawk] SPANISH ENERGY MINISTER AAGESEN SAYS SPAIN, PORTUGAL, LUXEMBOURG SENT A LETTER ASKING COMMISSION FOR A NEW TARGET OF RENEWABLE ENERGY CAPACITY
 - 09/29 16:39 [financialjuice/FirstSquawk] Iran's Parliament Speaker Qalibaf: No one in the region shall sell its oil if Iran cannot sell its oil, if Iran has no security then no regional infrastructure shall be safe - State Media
 - 09/29 16:47 [FirstSquawk] SPANISH ENERGY MINISTER AAGESEN SUGGESTS THAT THE EU SHOULD CONSIDER MEASURES TO HARNESS WINDFALL PROFITS DUE TO HIGH ENERGY PRICES.
@@ -530,3 +528,10 @@
 - 09/30 04:09 [FirstSquawk] QATAR TO ALLOW DRONE USE IN DESIGNATED AREAS — INTERIOR MINISTRY
 - 09/30 04:10 [financialjuice] Iran Foreign Ministry warns regional countries of the consequences of Israeli Prime Minister Netanyahu's visit to the UAE - Fars News.
 - 09/30 04:16 [FirstSquawk] APPLE PAY TO LAUNCH IN INDIA WITH AXIS BANK ON TUESDAY — TECHCRUNCH
+- 09/30 04:21 [financialjuice] Trump and Tech Executives discussed industry standards, audits - CBS
+- 09/30 04:22 [financialjuice] OPEC+ is likely to stick with the plan for steady quotas - Delegates.
+- 09/30 04:24 [FirstSquawk] OPEC+ MEMBERS LED BY SAUDI ARABIA AND RUSSIA ARE LIKELY TO KEEP CRUDE PRODUCTION QUOTAS UNCHANGED FOR NOVEMBER, WITH DELEGATES EXPECTING THE GROUP TO RATIFY ITS EXISTING ROADMAP AT SUNDAY’S MEETING. MILLIONS OF BARRELS OF MIDDLE EASTERN PRO…
+- 09/30 04:24 [financialjuice] Iran's President's Office: We will not compromise on nuclear rights in any way; this was a key point highlighted in the President's speech - IRIB News.
+- 09/30 04:25 [financialjuice/FirstSquawk] CEO inside the room@: AI industry is ramping up - Fox
+- 09/30 04:27 [DeItaone] *OPEC+ LIKELY TO STICK WITH PLAN FOR STEADY QUOTAS: DELEGATES
+- 09/30 04:28 [FirstSquawk] IRAN PRESIDENT’S OFFICE: IRAN WILL NOT COMPROMISE ON ITS NUCLEAR RIGHTS — IRIB NEWS

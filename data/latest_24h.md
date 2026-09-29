@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-30 04:18 JST／対象: 09/29 04:18 〜 09/30 04:18 JST（時刻はすべて日本時間）
+生成: 2026-09-30 04:35 JST／対象: 09/29 04:35 〜 09/30 04:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 69 | 09/29 20:26 | 09/30 04:04 | ⚠ 80分（02:40→04:01） |
-| FirstSquawk | 386 | 09/29 04:19 | 09/30 04:16 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 375 | 09/29 04:19 | 09/30 04:10 | ⚠ 62分（11:21→12:24） |
+| DeItaone | 70 | 09/29 20:26 | 09/30 04:27 | ⚠ 80分（02:40→04:01） |
+| FirstSquawk | 384 | 09/29 04:49 | 09/30 04:28 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 373 | 09/29 04:36 | 09/30 04:25 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 807 行（統合前 835 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 803 行（統合前 833 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 04:19 [financialjuice] UK's Labour Party: The Prime Minister announces the new 'GB Grid' to rewire public control into Britain’s energy system and drive down costs.
-- 09/29 04:19 [FirstSquawk] CANADIAN CARRIER WESTJET SAYS IT USES SOFTWARE VERSION 14.1 — NOW BEING REVIEWED BY THE FAA — FOR ITS BOEING 737 MAX JETS, ADDING THAT WHILE IT IS AWARE OF THE REPORTED POTENTIAL SOFTWARE ISSUE AFFECTING SOME B737S AND IS WORKING CLOSELY WI…
-- 09/29 04:20 [FirstSquawk] THE FAA ADMINISTRATOR SAYS THE SOFTWARE ISSUE WILL DELAY MAX 10 CERTIFICATION, THOUGH HE IS NOT SURE HOW LONG, ADDING THAT PILOTS ARE STILL IN CONTROL DURING GO-AROUNDS DESPITE THE BOEING 737 MAX SOFTWARE ISSUE.
-- 09/29 04:20 [FirstSquawk] IRAN PARLIAMENT WEIGHS BILL TO EXIT NUCLEAR NON-PROLIFERATION TREATY (NPT) — FARS
-- 09/29 04:21 [FirstSquawk] UK LABOUR: PM ANNOUNCES NEW ‘GB GRID’ TO BRING ENERGY SYSTEM UNDER PUBLIC CONTROL AND CUT COSTS
-- 09/29 04:21 [financialjuice] Tuesday FX Option Expiries
-- 09/29 04:25 [financialjuice] Nvidia's CEO Huang is among executives expected at Tuesday's meeting at the White House - Person Familiar with the Matter. $NVDA
-- 09/29 04:29 [financialjuice] ❗ Iranian Official: Reports of Iran's flexibility on nuclear stance are incorrect - Fars News.
-- 09/29 04:30 [financialjuice] Iranian Official: Iran's position on the nuclear issue has not changed, no discussions are currently taking place on this matter - Fars News.
-- 09/29 04:32 [financialjuice] saudi Foreign Minister and US Secretary of State Rubio discuss region, Yemen - SPA
-- 09/29 04:32 [FirstSquawk] IRANIAN OFFICIAL SAYS IRAN'S POSITION ON THE NUCLEAR ISSUE HAS NOT CHANGED AND THAT NO DISCUSSIONS ARE CURRENTLY TAKING PLACE ON THE MATTER, ADDING THAT REPORTS OF IRAN'S FLEXIBILITY ON ITS NUCLEAR STANCE ARE INCORRECT - FARS NEWS
 - 09/29 04:36 [financialjuice/FirstSquawk] UAE-Netanyahu meeting took place with the knowledge and blessing of the American government - Israel's Hayom News
 - 09/29 04:49 [FirstSquawk] IRAQ’S HEZBOLLAH THREATENS TO CLOSE BORDERS WITH COUNTRIES SANCTIONING IRAN IF AIR EMBARGO ON IRAN CONTINUES AFTER OCTOBER 1 — IRIB
 - 09/29 04:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: -332.0 MLN NASDAQ 100: 613.1 MLN DOW 30: -251.3 MLN MAG 7: 16.3 MLN $MACRO
@@ -831,3 +820,10 @@
 - 09/30 04:09 [FirstSquawk] QATAR TO ALLOW DRONE USE IN DESIGNATED AREAS — INTERIOR MINISTRY
 - 09/30 04:10 [financialjuice] Iran Foreign Ministry warns regional countries of the consequences of Israeli Prime Minister Netanyahu's visit to the UAE - Fars News.
 - 09/30 04:16 [FirstSquawk] APPLE PAY TO LAUNCH IN INDIA WITH AXIS BANK ON TUESDAY — TECHCRUNCH
+- 09/30 04:21 [financialjuice] Trump and Tech Executives discussed industry standards, audits - CBS
+- 09/30 04:22 [financialjuice] OPEC+ is likely to stick with the plan for steady quotas - Delegates.
+- 09/30 04:24 [FirstSquawk] OPEC+ MEMBERS LED BY SAUDI ARABIA AND RUSSIA ARE LIKELY TO KEEP CRUDE PRODUCTION QUOTAS UNCHANGED FOR NOVEMBER, WITH DELEGATES EXPECTING THE GROUP TO RATIFY ITS EXISTING ROADMAP AT SUNDAY’S MEETING. MILLIONS OF BARRELS OF MIDDLE EASTERN PRO…
+- 09/30 04:24 [financialjuice] Iran's President's Office: We will not compromise on nuclear rights in any way; this was a key point highlighted in the President's speech - IRIB News.
+- 09/30 04:25 [financialjuice/FirstSquawk] CEO inside the room@: AI industry is ramping up - Fox
+- 09/30 04:27 [DeItaone] *OPEC+ LIKELY TO STICK WITH PLAN FOR STEADY QUOTAS: DELEGATES
+- 09/30 04:28 [FirstSquawk] IRAN PRESIDENT’S OFFICE: IRAN WILL NOT COMPROMISE ON ITS NUCLEAR RIGHTS — IRIB NEWS

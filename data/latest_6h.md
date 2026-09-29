@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-30 04:18 JST／対象: 09/29 22:18 〜 09/30 04:18 JST（時刻はすべて日本時間）
+生成: 2026-09-30 04:35 JST／対象: 09/29 22:35 〜 09/30 04:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 49 | 09/29 22:30 | 09/30 04:04 | ⚠ 80分（02:40→04:01） |
-| FirstSquawk | 111 | 09/29 22:23 | 09/30 04:16 | 30分（02:00→02:31） |
-| financialjuice | 196 | 09/29 22:21 | 09/30 04:10 | ⚠ 50分（22:45→23:36） |
+| DeItaone | 48 | 09/29 22:41 | 09/30 04:27 | ⚠ 80分（02:40→04:01） |
+| FirstSquawk | 107 | 09/29 22:41 | 09/30 04:28 | 30分（02:00→02:31） |
+| financialjuice | 197 | 09/29 22:41 | 09/30 04:25 | ⚠ 50分（22:45→23:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 346 行（統合前 361 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 341 行（統合前 358 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 22:21 [financialjuice] UAE Vice President meets with the Saudi Defence Minister in Riyadh - WAM.
-- 09/29 22:23 [FirstSquawk] BURNHAM: BILL FOR LEASEHOLD REFORM BEFORE CHRISTMAS
-- 09/29 22:28 [financialjuice] UK's PM Burnham: We are reforming the energy market.
-- 09/29 22:29 [FirstSquawk] UK SEEKS TO REPEAL BAN ON PUBLIC OWNERSHIP OF WATER COMPANIES
-- 09/29 22:29 [FirstSquawk] UK AIMS TO LIFT RESTRICTION ON PUBLIC CONTROL OF WATER FIRMS.
-- 09/29 22:30 [DeItaone] GENSLER WARNS CHINESE AI MODELS POSE CHALLENGE TO U.S. FIRMS Former SEC Chair Gary Gensler says competition from Chinese AI models complicates efforts to impose stronger safeguards on advanced AI. He also questioned whether the enormous spe…
-- 09/29 22:31 [financialjuice] UK's PM Burnham: You will see VAT disappear off electricity bill on Thursday.
-- 09/29 22:31 [FirstSquawk] DOW JONES DOWN 44.23 POINTS, OR 0.09 PERCENT, AT 51,437.28 AFTER MARKET OPEN NASDAQ UP 84.22 POINTS, OR 0.31 PERCENT, AT 26,904.60 AFTER MARKET OPEN S&P 500 UP 8.67 POINTS, OR 0.11 PERCENT, AT 7,692.36 AFTER MARKET OPEN
-- 09/29 22:32 [DeItaone] GOLDMAN: STOCKS NEED BOND YIELDS TO FALL Goldman Sachs says the clearest path to further equity gains is relief in Treasury yields, with the U.S. 10-year reaching 5.25%, its highest since 2007. Stocks have remained resilient, led by large-c…
-- 09/29 22:33 [FirstSquawk] BURNHAM: APPROACH IS RESPONSIBLE
-- 09/29 22:33 [FirstSquawk] BURNHAM: WILL STICK TO FISCAL RULES
-- 09/29 22:35 [FirstSquawk] US HEGSETH TO ANNOUNCE 20% CUT TO GENERALS, ADMIRAL POSITIONS: FOX
 - 09/29 22:41 [financialjuice] IRGC Spokesman: US Navy ships have withdrawn to 500 kilometers from the Strait of Hormuz - Tasnim News
 - 09/29 22:41 [DeItaone] HEGSETH PLANS 20% CUT TO GENERAL, ADMIRAL POSITIONS War Secretary Pete Hegseth plans to reduce by 20% the number of military positions reserved for generals and admirals, Fox News reports. The target doubles the 10% reduction ordered last y…
 - 09/29 22:41 [FirstSquawk] UK BURNHAM: SOCIAL CARE FULLY FUNDED NOT THROUGH BORROWING
@@ -370,3 +358,10 @@
 - 09/30 04:09 [FirstSquawk] QATAR TO ALLOW DRONE USE IN DESIGNATED AREAS — INTERIOR MINISTRY
 - 09/30 04:10 [financialjuice] Iran Foreign Ministry warns regional countries of the consequences of Israeli Prime Minister Netanyahu's visit to the UAE - Fars News.
 - 09/30 04:16 [FirstSquawk] APPLE PAY TO LAUNCH IN INDIA WITH AXIS BANK ON TUESDAY — TECHCRUNCH
+- 09/30 04:21 [financialjuice] Trump and Tech Executives discussed industry standards, audits - CBS
+- 09/30 04:22 [financialjuice] OPEC+ is likely to stick with the plan for steady quotas - Delegates.
+- 09/30 04:24 [FirstSquawk] OPEC+ MEMBERS LED BY SAUDI ARABIA AND RUSSIA ARE LIKELY TO KEEP CRUDE PRODUCTION QUOTAS UNCHANGED FOR NOVEMBER, WITH DELEGATES EXPECTING THE GROUP TO RATIFY ITS EXISTING ROADMAP AT SUNDAY’S MEETING. MILLIONS OF BARRELS OF MIDDLE EASTERN PRO…
+- 09/30 04:24 [financialjuice] Iran's President's Office: We will not compromise on nuclear rights in any way; this was a key point highlighted in the President's speech - IRIB News.
+- 09/30 04:25 [financialjuice/FirstSquawk] CEO inside the room@: AI industry is ramping up - Fox
+- 09/30 04:27 [DeItaone] *OPEC+ LIKELY TO STICK WITH PLAN FOR STEADY QUOTAS: DELEGATES
+- 09/30 04:28 [FirstSquawk] IRAN PRESIDENT’S OFFICE: IRAN WILL NOT COMPROMISE ON ITS NUCLEAR RIGHTS — IRIB NEWS
