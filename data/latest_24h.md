@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-29 09:06 JST／対象: 09/28 09:06 〜 09/29 09:06 JST（時刻はすべて日本時間）
+生成: 2026-09-29 09:33 JST／対象: 09/28 09:33 〜 09/29 09:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 38 | 09/28 16:28 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 313 | 09/28 09:21 | 09/29 09:03 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 289 | 09/28 09:07 | 09/29 09:02 | ⚠ 115分（11:30→13:26） |
+| FirstSquawk | 310 | 09/28 09:33 | 09/29 09:17 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 282 | 09/28 10:06 | 09/29 09:25 | ⚠ 115分（11:30→13:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 625 行（統合前 644 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 615 行（統合前 634 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 09:07 [financialjuice] BOJ minutes: board discussed long-term interest rate changes with some members saying term premia could increase if markets doubt BOJ will raise rates adequately
-- 09/28 09:08 [financialjuice] BOJ minutes: cabinet office official says suitable monetary policy crucial for stable inflation, hopes BOJ collaborates with government
-- 09/28 09:16 [financialjuice] South Korea 3-year Treasury bond futures KTBC1 drop by 30 ticks
-- 09/28 09:16 [financialjuice] South Korea 10-year Treasury bond futures drop by 120 ticks
-- 09/28 09:21 [financialjuice] China PBOC likely to set yuan midpoint at 6.7085 per dollar: estimate
-- 09/28 09:21 [FirstSquawk] US SECRETARY OF STATE RUBIO TO MEET SAUDI FOREIGN MINISTER AT 11:15 AM ET MONDAY
-- 09/28 09:22 [FirstSquawk] BANK OF JAPAN MINUTES SHOW MANY MEMBERS SAID UNDERLYING INFLATION IS NEARING 2%, REQUIRING A FOCUS ON STABILISING PRICE GROWTH AROUND THAT LEVEL RATHER THAN PUSHING UP INFLATION, WITH MANY NOTING MEDIUM- AND LONG-TERM INFLATION EXPECTATIONS…
-- 09/28 09:22 [FirstSquawk] BANK OF JAPAN MINUTES SHOW MEMBERS CONCURRED THAT FX VOLATILITY IMPACTS THE ECONOMY AND PRICES MORE THAN BEFORE AS FIRMS INCREASE PASS-THROUGH OF RISING IMPORT COSTS, WITH ONE MEMBER NOTING RISING UPSIDE PRICE RISKS AS A WEAK YEN AND MIDDLE…
-- 09/28 09:23 [FirstSquawk] BANK OF JAPAN MINUTES SHOW SEVERAL MEMBERS SAID IT WAS DIFFICULT TO ANTICIPATE THE PACE AND TIMING OF FUTURE RATE INCREASES, WITH ONE SAYING THE BANK MUST SPEED UP RATE HIKES AS INFLATION RISKS COULD CAUSE SIGNIFICANT HARM, ANOTHER NOTING M…
-- 09/28 09:27 [FirstSquawk] 30-year JGB yield rises 1.0bp to 4.165%
-- 09/28 09:30 [financialjuice] Momenta: two firms to jointly develop enhanced driver-assistance system for new mass-produced Peugeot and Jeep models
-- 09/28 09:30 [financialjuice] Momenta: technology to be deployed in China, Europe and other worldwide markets
-- 09/28 09:30 [financialjuice] Momenta enters global strategic alliance with Dongfeng Stellantis automotive technology (Wuhan) Co
-- 09/28 09:31 [FirstSquawk] Asia-Pacific markets open the week cautiously after Trump rejects Iran proposal while signaling renewed talks
-- 09/28 09:32 [FirstSquawk] Gold prices slide more than 1%, with spot gold at $4,233.12/oz
 - 09/28 09:33 [FirstSquawk] GLOBAL MARKETS OPENED THE WEEK UNDER PRESSURE AFTER PRESIDENT TRUMP REJECTED IRAN'S LATEST PROPOSAL TO REOPEN THE STRAIT OF HORMUZ, LIFTING BRENT CRUDE TO AROUND $105.70 AND WTI TO $93.26, WITH RISING OIL PRICES FUELING INFLATION CONCERNS A…
 - 09/28 09:33 [FirstSquawk] MARKETS ALSO REACTED TO TRUMP'S COMMENTS THAT HE EXPECTS IRAN NEGOTIATIONS TO RESUME THIS WEEK DESPITE REJECTING TEHRAN'S OFFER AND THAT HE IS 'VERY SERIOUSLY' CONSIDERING A U.S. DIESEL EXPORT BAN — A MOVE THAT COULD TIGHTEN GLOBAL FUEL SUP…
 - 09/28 09:34 [FirstSquawk] Startup Red Queen Bio turns to AI to prepare antibody drugs for future pandemics - WSJ
@@ -649,3 +634,8 @@
 - 09/29 09:02 [FirstSquawk] NEW ZEALAND'S GOVERNMENT PROJECTS A RETURN TO AN OPERATING SURPLUS IN THE 2028/29 BUDGET, WITH 2026/27 GDP GROWTH SEEN AT 2.3% — MATCHING THE BUDGET FORECAST — AND THE 2026/27 OPERATING BALANCE BEFORE GAINS AND LOSSES FORECAST AT A NARROWER…
 - 09/29 09:02 [FirstSquawk] NEW ZEALAND FORECASTS NET DEBT AT 43.7% OF GDP IN 2026/27, BELOW THE BUDGETED 45.6%, WITH THE 2026/27 CASH BALANCE AT A NZ$21.99 BLN DEFICIT AND UNEMPLOYMENT SEEN AT 5.2%.
 - 09/29 09:03 [FirstSquawk] NEW ZEALAND'S DMO FORECASTS 2026/27 BOND ISSUANCE AT NZ$30 BLN, DOWN FROM NZ$34 BLN IN THE PRE-ELECTION UPDATE, AND PLANS GROSS BOND ISSUANCE OF NZ$109 BLN THROUGH JUNE 2030, DOWN FROM THE NZ$124 BLN FORECAST IN MAY.
+- 09/29 09:06 [FirstSquawk] SYRIA SAYS A GAS PIPELINE FIRE BETWEEN AL-SHOLA AND DEIR AL-ZOUR WAS CAUSED BY AN 'ACT OF SABOTAGE', WITH THE SYRIAN PETROLEUM COMPANY SAYING EFFORTS ARE UNDERWAY TO EXTINGUISH THE FIRE - STATE NEWS AGENCY
+- 09/29 09:06 [FirstSquawk] ANTHROPIC IPO PLAN INCLUDES NEW FOUNDER LLC TO RETAIN CONTROL OF ITS “LOW-EGO, TRUTH-SEEKING” CULTURE — IPO FILING
+- 09/29 09:07 [FirstSquawk] AUSTRALIA’S S&P/ASX 200 RISES 0.1% TO 8,688.30 IN EARLY TRADE
+- 09/29 09:17 [FirstSquawk] EUROPEAN STOCK FUTURES RISE: EUROSTOXX 50 +0.5%, DAX +0.3%, FTSE +0.2%
+- 09/29 09:25 [financialjuice] China PBOC seen setting yuan midpoint at 6.7177 per dollar: estimate

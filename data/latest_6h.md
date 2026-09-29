@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-29 09:06 JST／対象: 09/29 03:06 〜 09/29 09:06 JST（時刻はすべて日本時間）
+生成: 2026-09-29 09:33 JST／対象: 09/29 03:33 〜 09/29 09:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 57 | 09/29 03:29 | 09/29 09:03 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 83 | 09/29 03:28 | 09/29 09:02 | 30分（07:45→08:16） |
+| FirstSquawk | 56 | 09/29 03:35 | 09/29 09:17 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 77 | 09/29 03:44 | 09/29 09:25 | 30分（07:45→08:16） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 136 行（統合前 140 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 129 行（統合前 133 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 03:28 [financialjuice] Trump: Mesabi Metallics to produce 10m tons of steel per year.
-- 09/29 03:29 [financialjuice] Trump Makes an Announcement, September 28th 2026
-- 09/29 03:29 [FirstSquawk] TRUMP: MESABI METALLICS TO PRODUCE 10 MILLION TONS OF STEEL ANNUALLY
-- 09/29 03:30 [FirstSquawk] NIDEC PRESIDENT MITSUYA KISHIDA HAS DECIDED TO STEP DOWN AS CEO OVER LOSSES AT THE E-AXLE EV DRIVE UNIT AND IS EXPECTED TO SUBMIT HIS RESIGNATION AS EARLY AS TUESDAY, WITH MICHIO KAIDA EMERGING AS A POTENTIAL SUCCESSOR - NIKKEI
-- 09/29 03:30 [FirstSquawk] TRUMP: MESABI METALLICS TO BUILD STEEL PLANT IN IOWA, TARGET 10M TONS ANNUAL OUTPUT; PROJECT EXPECTED TO CREATE UP TO 8,000 JOBS AND ADD $95B TO US ECONOMY
-- 09/29 03:30 [financialjuice] Trump: The US has surpassed Japan in steel production.
-- 09/29 03:31 [FirstSquawk] TRUMP: US HAS SURPASSED JAPAN IN STEEL PRODUCTION
-- 09/29 03:31 [financialjuice] NYMEX WTI Crude November futures settle at $92.60 a barrel, up 19 cents, 0.21%.
-- 09/29 03:31 [financialjuice] NYMEX Gasoline October futures settle at $3.3377 a gallon.
-- 09/29 03:31 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 0.21% HIGHER AT $92.60/BBL, UP 19 CENTS
-- 09/29 03:31 [financialjuice] NYMEX Diesel October futures settle at $4.7553 a gallon.
-- 09/29 03:32 [financialjuice] NYMEX Natural Gas October futures settle at $3.0000/MMBtu.
 - 09/29 03:35 [FirstSquawk] US COMMERCE SECRETARY LUTNICK HIGHLIGHTS US TRADE IN IRON PELLETS FROM BRAZIL
 - 09/29 03:44 [financialjuice] Saudi Defense Minister invites UAE Vice President to visit Saudi Arabia on Tuesday - Saudi State News Agency.
 - 09/29 03:49 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 0.92% HIGHER AT $105.28/BBL, UP 96 CENTS
@@ -160,3 +148,8 @@
 - 09/29 09:02 [FirstSquawk] NEW ZEALAND'S GOVERNMENT PROJECTS A RETURN TO AN OPERATING SURPLUS IN THE 2028/29 BUDGET, WITH 2026/27 GDP GROWTH SEEN AT 2.3% — MATCHING THE BUDGET FORECAST — AND THE 2026/27 OPERATING BALANCE BEFORE GAINS AND LOSSES FORECAST AT A NARROWER…
 - 09/29 09:02 [FirstSquawk] NEW ZEALAND FORECASTS NET DEBT AT 43.7% OF GDP IN 2026/27, BELOW THE BUDGETED 45.6%, WITH THE 2026/27 CASH BALANCE AT A NZ$21.99 BLN DEFICIT AND UNEMPLOYMENT SEEN AT 5.2%.
 - 09/29 09:03 [FirstSquawk] NEW ZEALAND'S DMO FORECASTS 2026/27 BOND ISSUANCE AT NZ$30 BLN, DOWN FROM NZ$34 BLN IN THE PRE-ELECTION UPDATE, AND PLANS GROSS BOND ISSUANCE OF NZ$109 BLN THROUGH JUNE 2030, DOWN FROM THE NZ$124 BLN FORECAST IN MAY.
+- 09/29 09:06 [FirstSquawk] SYRIA SAYS A GAS PIPELINE FIRE BETWEEN AL-SHOLA AND DEIR AL-ZOUR WAS CAUSED BY AN 'ACT OF SABOTAGE', WITH THE SYRIAN PETROLEUM COMPANY SAYING EFFORTS ARE UNDERWAY TO EXTINGUISH THE FIRE - STATE NEWS AGENCY
+- 09/29 09:06 [FirstSquawk] ANTHROPIC IPO PLAN INCLUDES NEW FOUNDER LLC TO RETAIN CONTROL OF ITS “LOW-EGO, TRUTH-SEEKING” CULTURE — IPO FILING
+- 09/29 09:07 [FirstSquawk] AUSTRALIA’S S&P/ASX 200 RISES 0.1% TO 8,688.30 IN EARLY TRADE
+- 09/29 09:17 [FirstSquawk] EUROPEAN STOCK FUTURES RISE: EUROSTOXX 50 +0.5%, DAX +0.3%, FTSE +0.2%
+- 09/29 09:25 [financialjuice] China PBOC seen setting yuan midpoint at 6.7177 per dollar: estimate
