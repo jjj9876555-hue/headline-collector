@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-30 08:04 JST／対象: 09/29 20:04 〜 09/30 08:04 JST（時刻はすべて日本時間）
+生成: 2026-09-30 08:24 JST／対象: 09/29 20:24 〜 09/30 08:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 88 | 09/29 20:26 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
-| FirstSquawk | 183 | 09/29 20:12 | 09/30 06:29 | 30分（02:00→02:31） |
-| financialjuice | 300 | 09/29 20:14 | 09/30 08:02 | ⚠ 67分（06:32→07:40） |
+| FirstSquawk | 184 | 09/29 20:26 | 09/30 08:09 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 301 | 09/29 20:29 | 09/30 08:09 | ⚠ 67分（06:32→07:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 547 行（統合前 577 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 550 行（統合前 579 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 20:12 [FirstSquawk] ELI LILLY: ZEPBOUND ACHIEVES 20.2% WEIGHT REDUCTION VS 13.7% FOR WEGOVY AT 72 WEEKS
-- 09/29 20:14 [financialjuice/FirstSquawk] Rosatom, Iran discuss options to build new nuclear plants - Tass
-- 09/29 20:23 [FirstSquawk] DEUTSCHE BANK RAISES NETFLIX TO BUY FROM HOLD; CUTS TARGET PRICE TO $95 FROM $100
 - 09/29 20:26 [FirstSquawk] BYD SAYS WANG CHUANFU APPOINTED AS COMPANY PRESIDENT
 - 09/29 20:26 [DeItaone] IRAN EXPECTS FORMAL U.S. RESPONSE TODAY Iranian Foreign Minister Abbas Araghchi says Tehran expects a final U.S. response to its proposal today, as Qatari and Pakistani mediators push for an understanding that could revive the Islamabad MoU…
 - 09/29 20:27 [DeItaone/FirstSquawk] PUTIN'S ENVOY DMITRIEV HAD 'CONSTRUCTIVE' MEETING ON MONDAY WITH US OFFICIALS ON PEACEFULLY RESOLVING WAR IN UKRAINE -US OFFICIAL
@@ -571,3 +568,9 @@
 - 09/30 08:00 [financialjuice] S. Korea August retail sales fall 1.8% month on month: stats office
 - 09/30 08:01 [financialjuice] uk vehicle output increased 5.7% yoy to 40,872 units in august: smmt
 - 09/30 08:02 [financialjuice] Sefcovic: working for greater cooperation with US, other allies to secure supply chains, prevent weaponization of critical minerals
+- 09/30 08:05 [FirstSquawk] EU TRADE CHIEF SEFCOVIC SAYS HE IS WORKING FOR GREATER COOPERATION WITH THE U.S. AND OTHER ALLIES TO SECURE SUPPLY CHAINS AND PREVENT THE WEAPONIZATION OF CRITICAL MINERALS, ADDING THAT HE IS PUSHING FOR REFORMS TO TACKLE EXCESS INDUSTRIAL …
+- 09/30 08:07 [financialjuice] China commerce ministry: if Europe continues imposing biased limits on Chinese firms or products, China will firmly react to protect its industry interests
+- 09/30 08:08 [FirstSquawk] US HOUSE SPEAKER MIKE JOHNSON WARNS DEMOCRATIC HOUSE CONTROL WOULD BRING INTENSIFIED CONGRESSIONAL INVESTIGATIONS OF TRUMP, HIS ADMINISTRATION & BUSINESS FIGURES
+- 09/30 08:09 [FirstSquawk] JD VANCE ON AI: “SKYNET” SCENARIO WON’T HAPPEN; SAYS AI WILL NOT TAKE OVER NUCLEAR WEAPONS OR HAVE ROBOTS KILLING PEOPLE
+- 09/30 08:09 [financialjuice] China commerce ministry: eu states considering tougher trade actions on China use typical protectionist, unilateral measures that will disrupt stability
+- 09/30 08:09 [FirstSquawk] JD VANCE ON FRONTIER AI: “IF YOU’RE BUILDING A TERRIBLE, TERRIBLE THING, THEN STOP AND BUILD SOMETHING GOOD”

@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-30 08:04 JST／対象: 09/29 08:04 〜 09/30 08:04 JST（時刻はすべて日本時間）
+生成: 2026-09-30 08:24 JST／対象: 09/29 08:24 〜 09/30 08:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 88 | 09/29 20:26 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
-| FirstSquawk | 400 | 09/29 08:46 | 09/30 06:29 | ⚠ 49分（09:17→10:06） |
-| financialjuice | 404 | 09/29 08:16 | 09/30 08:02 | ⚠ 67分（06:32→07:40） |
+| FirstSquawk | 404 | 09/29 08:46 | 09/30 08:09 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 399 | 09/29 08:40 | 09/30 08:09 | ⚠ 67分（06:32→07:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 867 行（統合前 898 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 866 行（統合前 897 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 08:16 [financialjuice] Anthropic’s top two direct clients made up 24% of total FY25 revenue, 12% each
-- 09/29 08:16 [financialjuice] Exclusive-Anthropic fy25 revenue $4.59 billion, up 1,088% y/y from $386 million in fy24: IPO prospectus seen by source
-- 09/29 08:16 [financialjuice] Anthropic's cash, cash equivalents and short-term investments reached $20.28 billion as of Dec. 31, 2025
-- 09/29 08:16 [financialjuice] Exclusive: Anthropic outlines transformative AI technology plans in marketing pitch to IPO investors – prospectus seen by source
-- 09/29 08:16 [financialjuice] Anthropic’s FY25 GAAP operating loss expands to $8.06 billion from $2.98 billion in FY24, prospectus shows
-- 09/29 08:16 [financialjuice] Anthropic fy25 compute and infrastructure costs surge 190% to $7.33 billion, accounting for 58% of operating expenses
-- 09/29 08:16 [financialjuice] Anthropic fy25 GAAP net deficit widens to $41.97 billion from $8.31 billion in fy24, prospectus shows
 - 09/29 08:40 [financialjuice] 15 states take federal aviation administration to court over environmental assessment of commercial drone delivery rules - filing
 - 09/29 08:45 [financialjuice] CSL Ltd collaborates with Amazon Web Services
 - 09/29 08:46 [FirstSquawk] JAPAN’S NIKKEI FUTURES RISE 0.3% IN EARLY TRADE; 10-YEAR JGB FUTURES FALL 0.16 POINT
@@ -891,3 +884,9 @@
 - 09/30 08:00 [financialjuice] S. Korea August retail sales fall 1.8% month on month: stats office
 - 09/30 08:01 [financialjuice] uk vehicle output increased 5.7% yoy to 40,872 units in august: smmt
 - 09/30 08:02 [financialjuice] Sefcovic: working for greater cooperation with US, other allies to secure supply chains, prevent weaponization of critical minerals
+- 09/30 08:05 [FirstSquawk] EU TRADE CHIEF SEFCOVIC SAYS HE IS WORKING FOR GREATER COOPERATION WITH THE U.S. AND OTHER ALLIES TO SECURE SUPPLY CHAINS AND PREVENT THE WEAPONIZATION OF CRITICAL MINERALS, ADDING THAT HE IS PUSHING FOR REFORMS TO TACKLE EXCESS INDUSTRIAL …
+- 09/30 08:07 [financialjuice] China commerce ministry: if Europe continues imposing biased limits on Chinese firms or products, China will firmly react to protect its industry interests
+- 09/30 08:08 [FirstSquawk] US HOUSE SPEAKER MIKE JOHNSON WARNS DEMOCRATIC HOUSE CONTROL WOULD BRING INTENSIFIED CONGRESSIONAL INVESTIGATIONS OF TRUMP, HIS ADMINISTRATION & BUSINESS FIGURES
+- 09/30 08:09 [FirstSquawk] JD VANCE ON AI: “SKYNET” SCENARIO WON’T HAPPEN; SAYS AI WILL NOT TAKE OVER NUCLEAR WEAPONS OR HAVE ROBOTS KILLING PEOPLE
+- 09/30 08:09 [financialjuice] China commerce ministry: eu states considering tougher trade actions on China use typical protectionist, unilateral measures that will disrupt stability
+- 09/30 08:09 [FirstSquawk] JD VANCE ON FRONTIER AI: “IF YOU’RE BUILDING A TERRIBLE, TERRIBLE THING, THEN STOP AND BUILD SOMETHING GOOD”

@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-30 08:04 JST／対象: 09/30 02:04 〜 09/30 08:04 JST（時刻はすべて日本時間）
+生成: 2026-09-30 08:24 JST／対象: 09/30 02:24 〜 09/30 08:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 27 | 09/30 02:08 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
-| FirstSquawk | 88 | 09/30 02:31 | 09/30 06:29 | 28分（04:46→05:15） |
-| financialjuice | 162 | 09/30 02:05 | 09/30 08:02 | ⚠ 67分（06:32→07:40） |
+| DeItaone | 24 | 09/30 02:26 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
+| FirstSquawk | 92 | 09/30 02:31 | 09/30 08:09 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 151 | 09/30 02:25 | 09/30 08:09 | ⚠ 67分（06:32→07:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 270 行（統合前 280 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 260 行（統合前 270 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 02:05 [financialjuice] Fed's Barr: Taking the longer view, we need to be sure we do what it takes to bring supply and demand into balance
-- 09/30 02:06 [financialjuice] Fed's Barr: The resilience of the US economy is striking
-- 09/30 02:06 [financialjuice] OFAC sanctions 10 over Iran MODAFL weapons procurement
-- 09/30 02:08 [DeItaone] OPENAI:INTRODUCING GPT‑6.1 SOL
-- 09/30 02:08 [financialjuice] OpenAI: Introducing GPT-6.1 Sol, launched at one-fifth of Astra's price; cached input cut 95% vs standard price
-- 09/30 02:10 [financialjuice] OpenAI's Altman unveils new AI agent tool called Dots; launched for Pro and Business plans
-- 09/30 02:11 [financialjuice] Fed's Barr: Momentum seems to be building in the economy
-- 09/30 02:12 [financialjuice] The US is looking to Europe to release Diesel from reserves - Politico
-- 09/30 02:13 [financialjuice] fed's Barr: All we're focused on is what the data tell us about the evolving outlook and balance of risks to achieving our congressional mandate.
-- 09/30 02:16 [financialjuice] OpenAI: 35 million people build with ChatGPT Work and Codex every week; new Pro $500 plan includes access to ultrafast processing in Codex and ChatGPT
-- 09/30 02:18 [financialjuice] OpenAI: Preview of private inference, coming this fall, combines confidential computing with strict, verifiable controls
-- 09/30 02:18 [DeItaone] *US LOOKING TO EUROPE TO RELEASE DIESEL FROM RESERVES: POLITICO
-- 09/30 02:20 [financialjuice] BoC's Gravelle: Will deploy operations as needed to control policy rate amid repo imbalances; only tolerate so much upward pressure on CORRA, as large deviations can disrupt policy transmission
-- 09/30 02:21 [financialjuice] BoC's Gravelle: BoC and OSFI released joint statement saying use of the SLF for overnight liquidity is not seen as an exceptional event or a sign of stress
-- 09/30 02:21 [financialjuice] BoC's Gravelle: Using two-week repos more actively could mean reserves sometimes exceed our best estimate of steady-state demand, which remains C$50 billion to C$70 billion
-- 09/30 02:23 [DeItaone] WHITE HOUSE EYES EUROPE’S DIESEL RESERVES The Trump administration is considering asking European governments to release diesel from strategic reserves as it searches for alternatives to a U.S. export ban. Europe reportedly holds more than …
 - 09/30 02:25 [financialjuice] Fed's Goolsbee: Business margins are high but starting to thin
 - 09/30 02:26 [DeItaone] FED'S BARR: I SEE US NOT GETTING TO 2% INFLATION TARGET IN A TIMELY WAY UNLESS WE ADJUST OUR POLICY
 - 09/30 02:27 [financialjuice] Fed's Barr: I see us not getting to the 2% inflation target in a timely way unless we adjust our policy.
@@ -294,3 +278,9 @@
 - 09/30 08:00 [financialjuice] S. Korea August retail sales fall 1.8% month on month: stats office
 - 09/30 08:01 [financialjuice] uk vehicle output increased 5.7% yoy to 40,872 units in august: smmt
 - 09/30 08:02 [financialjuice] Sefcovic: working for greater cooperation with US, other allies to secure supply chains, prevent weaponization of critical minerals
+- 09/30 08:05 [FirstSquawk] EU TRADE CHIEF SEFCOVIC SAYS HE IS WORKING FOR GREATER COOPERATION WITH THE U.S. AND OTHER ALLIES TO SECURE SUPPLY CHAINS AND PREVENT THE WEAPONIZATION OF CRITICAL MINERALS, ADDING THAT HE IS PUSHING FOR REFORMS TO TACKLE EXCESS INDUSTRIAL …
+- 09/30 08:07 [financialjuice] China commerce ministry: if Europe continues imposing biased limits on Chinese firms or products, China will firmly react to protect its industry interests
+- 09/30 08:08 [FirstSquawk] US HOUSE SPEAKER MIKE JOHNSON WARNS DEMOCRATIC HOUSE CONTROL WOULD BRING INTENSIFIED CONGRESSIONAL INVESTIGATIONS OF TRUMP, HIS ADMINISTRATION & BUSINESS FIGURES
+- 09/30 08:09 [FirstSquawk] JD VANCE ON AI: “SKYNET” SCENARIO WON’T HAPPEN; SAYS AI WILL NOT TAKE OVER NUCLEAR WEAPONS OR HAVE ROBOTS KILLING PEOPLE
+- 09/30 08:09 [financialjuice] China commerce ministry: eu states considering tougher trade actions on China use typical protectionist, unilateral measures that will disrupt stability
+- 09/30 08:09 [FirstSquawk] JD VANCE ON FRONTIER AI: “IF YOU’RE BUILDING A TERRIBLE, TERRIBLE THING, THEN STOP AND BUILD SOMETHING GOOD”
