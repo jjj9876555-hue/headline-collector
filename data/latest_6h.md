@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-29 14:34 JST／対象: 09/29 08:34 〜 09/29 14:34 JST（時刻はすべて日本時間）
+生成: 2026-09-29 14:53 JST／対象: 09/29 08:53 〜 09/29 14:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 117 | 09/29 08:46 | 09/29 14:26 | ⚠ 49分（09:17→10:06） |
-| financialjuice | 56 | 09/29 08:40 | 09/29 14:34 | ⚠ 62分（11:21→12:24） |
+| FirstSquawk | 124 | 09/29 08:54 | 09/29 14:53 | ⚠ 49分（09:17→10:06） |
+| financialjuice | 60 | 09/29 09:00 | 09/29 14:46 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 173 行（統合前 173 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 184 行（統合前 184 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 08:40 [financialjuice] 15 states take federal aviation administration to court over environmental assessment of commercial drone delivery rules - filing
-- 09/29 08:45 [financialjuice] CSL Ltd collaborates with Amazon Web Services
-- 09/29 08:46 [FirstSquawk] JAPAN’S NIKKEI FUTURES RISE 0.3% IN EARLY TRADE; 10-YEAR JGB FUTURES FALL 0.16 POINT
-- 09/29 08:53 [FirstSquawk] DEFENSE SECRETARY PETE HEGSETH HAS ORDERED THE PENTAGON TO USE INTELLIGENCE, CYBER OPERATIONS AND ADVANCED AI TO DETECT AND DISRUPT FOREIGN INTERFERENCE IN UPCOMING U.S. ELECTIONS, WITH THE SEPT. 22 DIRECTIVE TELLING U.S. CYBER COMMAND AND …
-- 09/29 08:53 [FirstSquawk] THE MEMO DOES NOT AUTHORIZE TROOPS AT POLLING STATIONS OR THE SEIZURE OF VOTING MACHINES - AXIOS
 - 09/29 08:54 [FirstSquawk] NETANYAHU'S OFFICE SAYS NETANYAHU AND HIS WIFE VISITED THE UNITED ARAB EMIRATES YESTERDAY AT THE INVITATION OF THE UAE PRESIDENT, SHEIKH MOHAMED BIN ZAYED.
 - 09/29 08:54 [FirstSquawk] NETANYAHU'S OFFICE SAYS HE WAS ACCOMPANIED BY THE HEAD OF THE NATIONAL SECURITY COUNCIL, THE HEAD OF THE MOSSAD, THE MILITARY SECRETARY AND THE FOREIGN POLICY ADVISER.
 - 09/29 08:54 [FirstSquawk] THE U.S. NAVY'S USS SANTA BARBARA REQUIRED URGENT REPAIRS IN SINGAPORE AFTER DOCUMENTS WARNED ALL FOUR ENGINES WERE OPERATING BEYOND RECOMMENDED LIMITS, CREATING A 'CRITICAL THREAT OF MECHANICAL FAILURE', WITH THE SHIP ALSO HAVING PROBLEMS …
@@ -197,3 +192,19 @@
 - 09/29 14:33 [financialjuice] RBA's Gov. Bullock: The board will raise rates again if needed
 - 09/29 14:33 [financialjuice] RBA's Gov. Bullock: I still think the labor market is a little bit tight
 - 09/29 14:34 [financialjuice] RBA's Gov. Bullock: Unemployment is still quite low by historical standards
+- 09/29 14:35 [FirstSquawk] Bullock: RBA needs to bring excess demand lower; recession is not the central case
+- 09/29 14:36 [financialjuice] RBA's Gov. Bullock: Recession isn't the central base case at this point
+- 09/29 14:37 [FirstSquawk] RBA’s Bullock says August CPI won’t be given too much emphasis; tight financial conditions are needed
+- 09/29 14:38 [financialjuice] RBA's Gov. Bullock: I hope 4 rate hikes will be restrictive enough to slow inflation
+- 09/29 14:38 [FirstSquawk] RBA’s Bullock says financial conditions remain restrictive
+- 09/29 14:40 [financialjuice] RBA's Gov. Bullock: If inflation comes down, then it's possible no more hikes are needed
+- 09/29 14:42 [FirstSquawk] RBA’s Bullock: Could avoid additional hikes if inflation eases
+- 09/29 14:44 [financialjuice] RBA's Gov. Bullock: The Middle East made things worse, but had a CPI problem before
+- 09/29 14:44 [FirstSquawk] RBA’s Bullock says Middle East conflict has been a significant shock that has made everyone poorer
+- 09/29 14:44 [FirstSquawk] Bullock: Prolonged conflict increases the likelihood businesses pass higher costs on
+- 09/29 14:45 [FirstSquawk] RBA’s Bullock says bond markets are reacting orderly, with the central bank watching closely
+- 09/29 14:45 [financialjuice] RBA's Gov. Bullock: Bond markets are reacting in an orderly way, but we are watching closely
+- 09/29 14:46 [financialjuice] RBA's Gov. Bullock: The board considered pause and 25-bps hike today
+- 09/29 14:48 [FirstSquawk] RBA’s Bullock says inflation risks linked to the AI boom are increasing
+- 09/29 14:49 [FirstSquawk] RBA’s Bullock: One upside inflation risk has materialised and two others are building
+- 09/29 14:53 [FirstSquawk] RBA’s Bullock says unemployment rate can edge higher without widespread job losses
