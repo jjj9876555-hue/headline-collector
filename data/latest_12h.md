@@ -7,42 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-29 11:16 JST／対象: 09/28 23:16 〜 09/29 11:16 JST（時刻はすべて日本時間）
+生成: 2026-09-29 11:33 JST／対象: 09/28 23:33 〜 09/29 11:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 14 | 09/28 23:28 | 09/29 02:14 | ⚠ 54分（00:44→01:39） |
-| FirstSquawk | 159 | 09/28 23:19 | 09/29 11:12 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 170 | 09/28 23:18 | 09/29 11:05 | 40分（09:25→10:05） |
+| DeItaone | 13 | 09/29 00:19 | 09/29 02:14 | ⚠ 54分（00:44→01:39） |
+| FirstSquawk | 154 | 09/28 23:37 | 09/29 11:28 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 162 | 09/28 23:33 | 09/29 11:21 | 40分（09:25→10:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 334 行（統合前 345 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 320 行（統合前 331 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 23:18 [financialjuice] Crypto Fear & Greed Index: 74/100 - Greed
-- 09/28 23:18 [financialjuice] Fear & Greed Index: 36/100 - Fear
-- 09/28 23:19 [FirstSquawk] TRADERS PARE ECB BETS, SEE LESS THAN 40% CHANCE OF OCTOBER HIKE
-- 09/28 23:19 [FirstSquawk] SPACEX: BRINGING STARSHIP HOME EARLIER THAN PLANNED
-- 09/28 23:20 [FirstSquawk] UK PM BURNHAM: DETAILS ON SOCIAL CARE FUNDING TO BE REVEALED TOMORROW
-- 09/28 23:21 [financialjuice] ECB's President Lagarde: Working on swap lines for sovereignty of euro area
-- 09/28 23:21 [FirstSquawk] TEXAS GOV. ABBOTT ANNOUNCES MORGAN STANLEY EXPANSION IN DALLAS; TO MAKE $684 MLN CAPITAL INVESTMENT
-- 09/28 23:21 [FirstSquawk] KASH PATEL'S CO-DEPUTY FBI DIRECTOR BAILEY RESIGNS: BLAW
-- 09/28 23:22 [financialjuice] Florida asks court to bar OpenAI from developing new models without oversight as part of child harm lawsuit - court filing
-- 09/28 23:23 [FirstSquawk] ECB'S LAGARDE: WORKING ON SWAP LINES FOR EURO AREA SOVEREIGNTY
-- 09/28 23:24 [financialjuice] Loading from Yanbu has been happening since the 22nd of September - Kpler's Energy Reporter Bakr
-- 09/28 23:28 [DeItaone] $GM - TRUMP ADMINISTRATION FORECASTS GENERAL MOTORS TECHNOLOGY COSTS THROUGH 2031 WILL DECLINE BY $20.4 BILLION IN TOTAL AS RESULT OF LOWER FUEL ECONOMY STANDARDS -- DOCUMENT
-- 09/28 23:28 [financialjuice] Houthis: Passage through the Bab-el-Mandeb Strait continues, except for Saudi Arabian ships - ISNA
-- 09/28 23:30 [financialjuice] DALLAS FED MFG. BUS. INDEX ACTUAL 9.80 (FORECAST 7.8, PREVIOUS 11.60) $MACRO
-- 09/28 23:30 [FirstSquawk] US DALLAS FED MANUFACTURING ACTIVITY SEP: 9.8 (EST 7.8; PREV 11.6)
-- 09/28 23:31 [financialjuice] Houthis: 198 ships have passed through the Bab-el-Mandeb Strait in the past 5 days - ISNA
-- 09/28 23:31 [FirstSquawk] ECB'S LAGARDE: RATES AT UPPER END OF NEUTRAL RANGE
-- 09/28 23:31 [financialjuice] ECB's President Lagarde: Rates at upper end of neutral range. Not driving policy with reference to neutral rate.
-- 09/28 23:32 [FirstSquawk] ECB'S LAGARDE: RATES AT UPPER END OF NEUTRAL RANGE || NOT DRIVING POLICY WITH REFERENCE TO NEUTRAL RATE
 - 09/28 23:33 [financialjuice] Citi: Spring by Citi enables institutional clients to accept stablecoin payments at checkout. $C
 - 09/28 23:34 [financialjuice] UK's PM Burnham concludes remarks on LBC Radio
 - 09/28 23:37 [FirstSquawk] TOTAL CEO SAYS 3Q LNG BUSINESS WILL BE `VERY GOOD'
@@ -358,3 +339,8 @@
 - 09/29 11:05 [FirstSquawk] Japan FinMin Katayama says Tokyo will closely engage with market participants while remaining highly vigilant
 - 09/29 11:07 [FirstSquawk] 40-year JGB yield edges up 0.5bp to 4.230%
 - 09/29 11:12 [FirstSquawk] Tokyo among the world’s highest-risk housing bubble markets, ranking second - KYODO
+- 09/29 11:17 [FirstSquawk] Experts expect Japan’s fiction surge to endure - KYODO
+- 09/29 11:20 [FirstSquawk] Indonesia benchmark stock index slides as much as 1.2%, hits lowest since July 29
+- 09/29 11:21 [financialjuice] China’s FAW signs strategic framework pact with Guangzhou Automobile Industry Group
+- 09/29 11:21 [FirstSquawk] China’s FAW and Guangzhou Automobile Industry Group sign strategic cooperation framework agreement
+- 09/29 11:28 [FirstSquawk] Shein stock tumbles 10%

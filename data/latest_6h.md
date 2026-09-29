@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-29 11:16 JST／対象: 09/29 05:16 〜 09/29 11:16 JST（時刻はすべて日本時間）
+生成: 2026-09-29 11:33 JST／対象: 09/29 05:33 〜 09/29 11:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 69 | 09/29 05:19 | 09/29 11:12 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 57 | 09/29 05:26 | 09/29 11:05 | 40分（09:25→10:05） |
+| FirstSquawk | 68 | 09/29 07:40 | 09/29 11:28 | ⚠ 57分（07:48→08:46） |
+| financialjuice | 57 | 09/29 05:48 | 09/29 11:21 | 40分（09:25→10:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 125 行（統合前 126 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 125 行（統合前 125 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 05:19 [FirstSquawk] U.S. STOCKS AND BONDS FELL AS THE U.S.-IRAN STANDOFF FUELED OIL-MARKET VOLATILITY AND RENEWED CONCERNS ABOUT INFLATION AND HIGHER FED RATES, WITH THE S&P 500 DOWN 0.8% AND THE NASDAQ 100 OFF 1.1% AS BRENT CRUDE REMAINED AROUND $105 AND HOPE…
-- 09/29 05:19 [FirstSquawk] TREASURY YIELDS CLIMBED SHARPLY, WITH THE 10-YEAR RISING SEVEN BASIS POINTS TO 5.23%, ITS HIGHEST SINCE 2007, AS MARKETS INCREASED BETS ON AN OCTOBER FED RATE HIKE, THE DOLLAR GAINED AND GOLD DROPPED 3.9% TO $4,118.66, WITH INVESTORS NOW FO…
-- 09/29 05:19 [FirstSquawk] IN CORPORATE NEWS, NVIDIA EXPANDED ITS BUYBACK AUTHORIZATION BY $150 BLN, AMD AGREED TO ACQUIRE WORLD LABS FOR $8.2 BLN AND BOEING'S 737 MAX 10 CERTIFICATION WAS DELAYED OVER A SOFTWARE ISSUE, WHILE PARAMOUNT SKYDANCE SECURED ENOUGH INVESTO…
-- 09/29 05:20 [FirstSquawk] MSCI RECLASSIFIES CORTEVA FROM LARGE CAP TO MID CAP; ADDS VYLOR TO GLOBAL STANDARD INDEXES EFFECTIVE OCTOBER 2, 2026
-- 09/29 05:26 [financialjuice/FirstSquawk] Iran's State TV: The sounds heard on Qeshm Island were likely the result of warning shots fired at violating vessels in the Strait of Hormuz.
 - 09/29 05:48 [financialjuice] Libyan, Moroccan and Qatari military and government aircraft landed in Abu Dhabi during Israeli Prime Minister Netanyahu's visit - Israel's Kan News.
 - 09/29 05:55 [financialjuice] Anthropic collaborates with Nvidia on agent security $NVDA
 - 09/29 06:11 [financialjuice] North Korea: US approval for South Korea's nuclear submarine heightens regional instability - KCNA
@@ -149,3 +144,8 @@
 - 09/29 11:05 [FirstSquawk] Japan FinMin Katayama says Tokyo will closely engage with market participants while remaining highly vigilant
 - 09/29 11:07 [FirstSquawk] 40-year JGB yield edges up 0.5bp to 4.230%
 - 09/29 11:12 [FirstSquawk] Tokyo among the world’s highest-risk housing bubble markets, ranking second - KYODO
+- 09/29 11:17 [FirstSquawk] Experts expect Japan’s fiction surge to endure - KYODO
+- 09/29 11:20 [FirstSquawk] Indonesia benchmark stock index slides as much as 1.2%, hits lowest since July 29
+- 09/29 11:21 [financialjuice] China’s FAW signs strategic framework pact with Guangzhou Automobile Industry Group
+- 09/29 11:21 [FirstSquawk] China’s FAW and Guangzhou Automobile Industry Group sign strategic cooperation framework agreement
+- 09/29 11:28 [FirstSquawk] Shein stock tumbles 10%

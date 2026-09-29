@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-29 11:16 JST／対象: 09/28 11:16 〜 09/29 11:16 JST（時刻はすべて日本時間）
+生成: 2026-09-29 11:33 JST／対象: 09/28 11:33 〜 09/29 11:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 38 | 09/28 16:28 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 308 | 09/28 11:25 | 09/29 11:12 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 274 | 09/28 11:30 | 09/29 11:05 | ⚠ 115分（11:30→13:26） |
+| FirstSquawk | 310 | 09/28 11:49 | 09/29 11:28 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 273 | 09/28 13:26 | 09/29 11:21 | ⚠ 59分（14:00→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 605 行（統合前 624 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 606 行（統合前 625 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 11:25 [FirstSquawk] US defense industry pushes to ramp up missile output after years of underinvestment - WSJ
-- 09/28 11:26 [FirstSquawk] Canadian dollar falls as wider US-Canada rate differential looms - FX
-- 09/28 11:30 [financialjuice] S.Korea finance minister: to pursue balanced policy mix with central bank — ministry
-- 09/28 11:30 [financialjuice] S.Korea finmin: to enhance collaboration with central bank on market oversight - ministry
 - 09/28 11:49 [FirstSquawk] Tropical storm watch issued for southwestern Mexico coast, NHC says
 - 09/28 11:50 [FirstSquawk] South Korea’s plan to provide airline meals to deportees sparks disagreement among officials - SCMP
 - 09/28 11:51 [FirstSquawk] Chinese wealthy buyers turn to Italy for property, attracted by lifestyle and tax benefits - SCMP
@@ -629,3 +625,8 @@
 - 09/29 11:05 [FirstSquawk] Japan FinMin Katayama says Tokyo will closely engage with market participants while remaining highly vigilant
 - 09/29 11:07 [FirstSquawk] 40-year JGB yield edges up 0.5bp to 4.230%
 - 09/29 11:12 [FirstSquawk] Tokyo among the world’s highest-risk housing bubble markets, ranking second - KYODO
+- 09/29 11:17 [FirstSquawk] Experts expect Japan’s fiction surge to endure - KYODO
+- 09/29 11:20 [FirstSquawk] Indonesia benchmark stock index slides as much as 1.2%, hits lowest since July 29
+- 09/29 11:21 [financialjuice] China’s FAW signs strategic framework pact with Guangzhou Automobile Industry Group
+- 09/29 11:21 [FirstSquawk] China’s FAW and Guangzhou Automobile Industry Group sign strategic cooperation framework agreement
+- 09/29 11:28 [FirstSquawk] Shein stock tumbles 10%
