@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-29 18:01 JST／対象: 09/29 12:01 〜 09/29 18:01 JST（時刻はすべて日本時間）
+生成: 2026-09-29 18:23 JST／対象: 09/29 12:23 〜 09/29 18:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 123 | 09/29 12:01 | 09/29 17:57 | 26分（12:45→13:11） |
-| financialjuice | 58 | 09/29 12:24 | 09/29 17:52 | 39分（12:24→13:03） |
+| FirstSquawk | 127 | 09/29 12:24 | 09/29 18:23 | 26分（12:45→13:11） |
+| financialjuice | 63 | 09/29 12:24 | 09/29 18:23 | 39分（12:24→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 180 行（統合前 181 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 189 行（統合前 190 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 12:01 [FirstSquawk] US Navy reports aircraft recovery incident aboard Nimitz-class carrier USS Dwight D. Eisenhower off Virginia coast
-- 09/29 12:02 [FirstSquawk] Two naval aviators from Carrier Air Wing 3 recovered by search-and-rescue personnel, US Navy says
-- 09/29 12:03 [FirstSquawk] US Navy says one sailor is being transported to a Norfolk-area hospital for treatment of non-life-threatening injuries
-- 09/29 12:03 [FirstSquawk] Four shipboard personnel injured in incident, US Navy says
-- 09/29 12:04 [FirstSquawk] Singapore MAS to launch $16 million market-making sleeve to support SGX stock trading
-- 09/29 12:14 [FirstSquawk] China asks local governments to trial ‘high-quality’ policies to spur consumer spending
-- 09/29 12:22 [FirstSquawk] Dollar index gains as rising oil prices lift Fed rate-hike expectations - FX
 - 09/29 12:24 [financialjuice] CNN, MSNBC and Politico ask judge to block Trump from reviving White House ban
 - 09/29 12:24 [FirstSquawk] CNN, MS NOW and Politico ask court to halt Trump’s attempt to revive White House ban
 - 09/29 12:27 [FirstSquawk] Bank of India’s $1 billion MTN programme rated ‘BBB-’ by Fitch
@@ -204,3 +197,19 @@
 - 09/29 17:55 [FirstSquawk] NARAYAN STRESSES THE IMPORTANCE OF BUILDING DATA CENTRES THAT ALIGN WITH UK VALUES AND STANDARDS.
 - 09/29 17:55 [FirstSquawk] CHINA'S FINAL CURRENT ACCOUNT SURPLUS FOR Q2 IS $193.7 BILLION, DOWN FROM PRELIMINARY SURPLUS OF $195.1 BILLION.
 - 09/29 17:57 [FirstSquawk] NHC REPORTS POLO IS HITTING BAJA CALIFORNIA WITH DANGEROUS WINDS AND LIFE-THREATENING FLASH FLOODS, CONDITIONS ARE SET TO WORSEN IN SONORA EARLY TODAY.
+- 09/29 18:01 [FirstSquawk] ITALY'S PPI ROSE 13.5% YEAR-OVER-YEAR IN AUGUST, UP FROM 9.3% PREVIOUSLY. MONTHLY PPI INCREASED BY 3.1%, UP FROM 3.0%.
+- 09/29 18:03 [financialjuice] UK 10 YR GILT YIELD ACTUAL 5.383% (FORECAST -, PREVIOUS 5.155%) $MACRO
+- 09/29 18:03 [financialjuice] UK 10 YR GILT BID-TO-COVER ACTUAL 3.34 (FORECAST -, PREVIOUS 3.65) $MACRO
+- 09/29 18:04 [FirstSquawk] UAE'S L'IMAD CAPITAL IS THINKING ABOUT SEEKING EXTERNAL FUNDING.
+- 09/29 18:06 [financialjuice] OpenAI to debut always-on AI agent at DevDay - Axios
+- 09/29 18:12 [financialjuice] ITALIAN PPI YOY ACTUAL 10.9% (FORECAST -, PREVIOUS 7.8%) $MACRO
+- 09/29 18:16 [FirstSquawk] KREMLIN STATES THAT NEW RULES FOR TEMPORARY CONTROL OF FOREIGN FIRMS' RUSSIAN OPERATIONS DO NOT INTEND TO ALTER OWNERSHIP.
+- 09/29 18:16 [FirstSquawk] KREMLIN SAYS TEMPORARY ADMINISTRATIONS ARE PARTLY DUE TO INCREASED MILITARY ACTION BY UNFRIENDLY COUNTRIES AGAINST RUSSIA.
+- 09/29 18:16 [FirstSquawk] KREMLIN STATES THAT TEMPORARY ADMINISTRATION ORDERS AIM TO ESTABLISH OUTSIDE CONTROL.
+- 09/29 18:16 [FirstSquawk] KREMLIN SAYS THE SITUATION CAN BE CHANGED BACK BUT CURRENTLY, THEY DON'T FIND REASONS TO DO SO.
+- 09/29 18:17 [FirstSquawk] KREMLIN SAYS IRANIAN OFFICIAL NEEDS TO CLARIFY COMMENT ON LEAVING NON-PROLIFERATION TREATY.
+- 09/29 18:17 [FirstSquawk] KREMLIN STATES THEY DON'T WANT IRAN TO EXIT NUCLEAR NON-PROLIFERATION TREATY.
+- 09/29 18:17 [FirstSquawk] KREMLIN HOPES IRAN WILL STAY COMMITTED TO THE TREATY.
+- 09/29 18:22 [FirstSquawk] META WILL EXTEND ITS 'ONE STEP AHEAD' CAMPAIGN UNTIL 2026, INTRODUCING NEW TOOLS AND PARTNERSHIPS.
+- 09/29 18:23 [financialjuice] UK PM expected to signal plans for electoral reform - Guardian
+- 09/29 18:23 [FirstSquawk] UK PM IS SET TO ANNOUNCE PLANS FOR CHANGES IN ELECTORAL SYSTEMS.
