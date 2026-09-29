@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-30 06:26 JST／対象: 09/29 06:26 〜 09/30 06:26 JST（時刻はすべて日本時間）
+生成: 2026-09-30 06:44 JST／対象: 09/29 06:44 〜 09/30 06:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 88 | 09/29 20:26 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
-| FirstSquawk | 403 | 09/29 07:40 | 09/30 06:20 | ⚠ 57分（07:48→08:46） |
-| financialjuice | 408 | 09/29 06:35 | 09/30 06:26 | ⚠ 62分（11:21→12:24） |
+| FirstSquawk | 408 | 09/29 07:40 | 09/30 06:29 | ⚠ 57分（07:48→08:46） |
+| financialjuice | 410 | 09/29 06:54 | 09/30 06:32 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 874 行（統合前 905 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 881 行（統合前 912 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 06:35 [financialjuice] Trump: He did not provide sanctions relief to Iran
-- 09/29 06:36 [financialjuice] Syria: Gas pipeline fire between Al-Shola and Deir al-Zour caused by sabotage - state news agency
-- 09/29 06:36 [financialjuice] Syrian Petroleum Company: efforts underway to extinguish fire - Syrian state news agency
-- 09/29 06:37 [financialjuice] Syria’s state petroleum company: Fire stopped gas supply from Jbeissa plant to power stations – Syrian state news agency
 - 09/29 06:54 [financialjuice] Iran’s foreign minister: Tehran discussed proposals with Qatari mediators to present to US - IRNA
 - 09/29 06:55 [financialjuice] Iran's Aragchi: US response to be relayed to Tehran through Qatari mediators - IRNA
 - 09/29 06:56 [financialjuice] Iran's Araqchi: conditions set by supreme leader must be met for Strait of Hormuz to reopen - IRNA
@@ -898,3 +894,14 @@
 - 09/30 06:18 [financialjuice/FirstSquawk] Trump tells Axios: Jay Clayton would make a good AI chief
 - 09/30 06:20 [FirstSquawk] FDA INVESTIGATION HAS LED TO CHARGES AGAINST TWO INDIAN NATIONALS INVOLVED IN A TRANSNATIONAL COUNTERFEIT DRUG DISTRIBUTION SCHEME, WITH THE FDA ALLEGING THAT BETWEEN JULY 2023 AND APRIL 2024, SWAPNADIP ROY AND VICKY RAMANCHA OBTAINED COUNT…
 - 09/30 06:26 [financialjuice] Trump releases document approved by all executives at White House on Tuesday: Truth Social
+- 09/30 06:27 [financialjuice] Document shared by Trump: Each company should apply four layers of controls and audits
+- 09/30 06:27 [financialjuice] Document shared by Trump: implement strong internal controls to oversee model capabilities and alignment
+- 09/30 06:28 [FirstSquawk] GOLDMAN SACHS PRIVATE CREDIT CORP SAYS ABOUT 7,605,110.708 SHARES — 2.03% OF THOSE OUTSTANDING — WERE TENDERED BEFORE THE OFFER EXPIRATION ON SEPT. 22, 2026, WITH THE FUND TO REPURCHASE 100% OF THE REQUESTED AMOUNTS, AND THE REPURCHASE RATE…
+- 09/30 06:28 [FirstSquawk] GOLDMAN SACHS PRIVATE CREDIT CORP SAYS IT WAS THE ONLY FUND IN ITS PEER GROUP WITH REPURCHASE REQUESTS BELOW THE 5% QUARTERLY OFFER IN 2026, GENERATING $400 MLN IN GROSS INFLOWS IN Q3 2026 — 4.4% OF JUNE 30, 2026 NAV — AND ADDING THAT CONCE…
+- 09/30 06:28 [financialjuice] Document shared by Trump: empower internal team to ensure all controls, monitoring and detection operate as intended
+- 09/30 06:29 [financialjuice] Document shared by Trump: appoint independent board committee to monitor and receive updates from control teams and auditors
+- 09/30 06:29 [FirstSquawk] TRUMP HAS POSTED THE 'WHITE HOUSE ACCORD ON SUPER INTELLIGENCE', A 'JOINT COMMITMENT ON FRONTIER RESPONSIBILITIES', SAYING THAT TO BUILD A POSITIVE FUTURE 'EVERY COMPANY IS RESPONSIBLE FOR DEVELOPING ITS OWN TECHNOLOGY SAFELY AND IN A WAY T…
+- 09/30 06:29 [FirstSquawk] THE ACCORD CALLS FOR EACH COMPANY TO IMPLEMENT FOUR LAYERS OF CONTROLS AND AUDITS: ROBUST INTERNAL CONTROLS TO MONITOR MODELS' CAPABILITIES AND ALIGNMENT AROUND AREAS LIKE CYBERSECURITY, BIOSECURITY AND CHEMICAL THREATS AND ENSURE THEY DO N…
+- 09/30 06:29 [FirstSquawk] THE ACCORD SAYS PARTICIPATING COMPANIES WILL MEET REGULARLY TO ESTABLISH STANDARDS AND BEST PRACTICES, AND THAT 'OVER TIME, IT MAY MAKE SENSE TO CODIFY THESE STEPS INTO LAWS OR REGULATIONS', ADDING THAT REGARDLESS OF WHETHER THAT HAPPENS, I…
+- 09/30 06:29 [financialjuice] Document circulated by Trump endorsed by Google, Anthropic, Meta, OpenAI, Musk, Nvidia
+- 09/30 06:32 [financialjuice] Document shared by Trump: Nvidia, OpenAI, Anthropic, xAI, Google to convene regularly on AI safety standards
