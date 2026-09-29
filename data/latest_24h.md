@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-29 20:18 JST／対象: 09/28 20:18 〜 09/29 20:18 JST（時刻はすべて日本時間）
+生成: 2026-09-29 20:34 JST／対象: 09/28 20:34 〜 09/29 20:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 20 | 09/28 20:19 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 362 | 09/28 20:19 | 09/29 20:12 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 291 | 09/28 20:25 | 09/29 20:14 | ⚠ 62分（11:21→12:24） |
+| DeItaone | 23 | 09/28 20:38 | 09/29 20:32 | ⚠ 1092分（02:14→20:26） |
+| FirstSquawk | 363 | 09/28 20:42 | 09/29 20:28 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 289 | 09/28 20:35 | 09/29 20:29 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 658 行（統合前 677 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 658 行（統合前 679 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 20:19 [FirstSquawk] SAUDI ARABIA ISSUES WARNING ALERT IN JAZAN, NAJRAN
-- 09/28 20:19 [DeItaone] SAUDI ARABIA'S EAST-WEST PIPELINE HAS RESUMED OIL EXPORTS
-- 09/28 20:21 [FirstSquawk] SAUDI CIVIL DEFENCE SAYS DANGER HAS PASSED IN JAZAN AND NAJRAN - STATE TV
-- 09/28 20:25 [FirstSquawk] UK CHANCELLOR HEALEY: THE CORE OF THE BUDGET WILL BE FISCAL DISCIPLINE
-- 09/28 20:25 [financialjuice] UK Finance Minister Healey: It falls to us to act to reduce the welfare bill
-- 09/28 20:30 [financialjuice] Citi partners with Coinbase to enable stablecoin payments for institutional clients - WSJ
-- 09/28 20:32 [financialjuice] Citi Expands Digital-Assets Footprint With Coinbase Partnership - WSJ
-- 09/28 20:33 [FirstSquawk] U.S. AND CHINA UNVEIL $30B TARIFF CUTS FOLLOWING TRUMP AND XI'S MEETING.
 - 09/28 20:35 [financialjuice] AI firm Instinct raised $1B at a $10B valuation - NYT DealBook
 - 09/28 20:38 [financialjuice] US Health Sec. Azar: We will make sure Britain wins in AI revolution
 - 09/28 20:38 [DeItaone] $META - META PRICE TARGET RAISED TO $830 Monness Crespi Hardt raised its Meta price target to $830 from $730, maintaining a Buy rating. The firm says early traction for Meta’s Muse personal AI agent and its broader AI strategy have started …
@@ -681,4 +673,12 @@
 - 09/29 19:42 [financialjuice] Italy's Energy Minister: Will speak with US Energy Secretary Wright later on Tuesday, will ask about potential US diesel export ban.
 - 09/29 19:54 [financialjuice] Qatar Foreign Ministry Spokesman: Exchanging messages, possible solutions with US-Iran.
 - 09/29 20:12 [FirstSquawk] ELI LILLY: ZEPBOUND ACHIEVES 20.2% WEIGHT REDUCTION VS 13.7% FOR WEGOVY AT 72 WEEKS
-- 09/29 20:14 [financialjuice] Rosatom, Iran discuss options to build new nuclear plants - Tass
+- 09/29 20:14 [financialjuice/FirstSquawk] Rosatom, Iran discuss options to build new nuclear plants - Tass
+- 09/29 20:23 [FirstSquawk] DEUTSCHE BANK RAISES NETFLIX TO BUY FROM HOLD; CUTS TARGET PRICE TO $95 FROM $100
+- 09/29 20:26 [FirstSquawk] BYD SAYS WANG CHUANFU APPOINTED AS COMPANY PRESIDENT
+- 09/29 20:26 [DeItaone] IRAN EXPECTS FORMAL U.S. RESPONSE TODAY Iranian Foreign Minister Abbas Araghchi says Tehran expects a final U.S. response to its proposal today, as Qatari and Pakistani mediators push for an understanding that could revive the Islamabad MoU…
+- 09/29 20:27 [DeItaone/FirstSquawk] PUTIN'S ENVOY DMITRIEV HAD 'CONSTRUCTIVE' MEETING ON MONDAY WITH US OFFICIALS ON PEACEFULLY RESOLVING WAR IN UKRAINE -US OFFICIAL
+- 09/29 20:28 [FirstSquawk] PUTIN'S ENVOY DMITRIEV, US OFFICIALS ALSO DISCUSSED POSSIBLE US-RUSSIA ENERGY INITIATIVES AFTER THE WAR ENDS -US OFFICIAL
+- 09/29 20:29 [financialjuice] Putin's Envoy Dmitriev, US Officials discussed possible US-Russia energy initiatives after the war ends - US Official.
+- 09/29 20:29 [DeItaone] MORGAN STANLEY BUILDS CRYPTO LAB Morgan Stanley has launched a Digital Asset Lab to test stablecoins, tokenization and DeFi applications before deploying them across the bank. The firm will explore tokenized deposits, CBDCs, money-market fu…
+- 09/29 20:32 [DeItaone] U.S. S&P 500 E-MINI FUTURES UP 0.1%, NASDAQ 100 FUTURES UP 0.3%, DOW FUTURES UP 0.2%

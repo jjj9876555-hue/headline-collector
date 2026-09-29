@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-29 20:18 JST／対象: 09/29 14:18 〜 09/29 20:18 JST（時刻はすべて日本時間）
+生成: 2026-09-29 20:34 JST／対象: 09/29 14:34 〜 09/29 20:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 0 | - | - | - |
-| FirstSquawk | 106 | 09/29 14:18 | 09/29 20:12 | 30分（19:41→20:12） |
-| financialjuice | 47 | 09/29 14:31 | 09/29 20:14 | ⚠ 50分（18:30→19:20） |
+| DeItaone | 4 | 09/29 20:26 | 09/29 20:32 | 2分（20:29→20:32） |
+| FirstSquawk | 106 | 09/29 14:35 | 09/29 20:28 | 30分（19:41→20:12） |
+| financialjuice | 44 | 09/29 14:34 | 09/29 20:29 | ⚠ 50分（18:30→19:20） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 152 行（統合前 153 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 151 行（統合前 154 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 14:18 [FirstSquawk] RBA hikes rates for fourth time amid renewed inflation concerns, WSJ says
-- 09/29 14:18 [FirstSquawk] Samsung invests $1 billion in AI infrastructure firm backed by KKR, Nvidia, WSJ says
-- 09/29 14:21 [FirstSquawk] Brent oil futures gain more than 2% to $107.44/bbl; December contract up over 2% at $99.87/bbl
-- 09/29 14:22 [FirstSquawk] IRANIAN FOREIGN MINISTER SAYS TEHRAN EXPECTS US RESPONSE TODAY ON HORMUZ REOPENING PROPOSAL
-- 09/29 14:26 [FirstSquawk] Russian strike damages port facilities in Ukraine’s Odesa region, governor says
-- 09/29 14:31 [financialjuice] RBA's Gov. Bullock: Inflation is driven by domestic capacity pressures.
-- 09/29 14:32 [financialjuice] RBA's Gov. Bullock: Inflationary pressures to last longer than expected.
-- 09/29 14:33 [financialjuice] RBA's Gov. Bullock: The board will raise rates again if needed
-- 09/29 14:33 [financialjuice] RBA's Gov. Bullock: I still think the labor market is a little bit tight
 - 09/29 14:34 [financialjuice] RBA's Gov. Bullock: Unemployment is still quite low by historical standards
 - 09/29 14:35 [FirstSquawk] Bullock: RBA needs to bring excess demand lower; recession is not the central case
 - 09/29 14:36 [financialjuice] RBA's Gov. Bullock: Recession isn't the central base case at this point
@@ -175,4 +166,12 @@
 - 09/29 19:42 [financialjuice] Italy's Energy Minister: Will speak with US Energy Secretary Wright later on Tuesday, will ask about potential US diesel export ban.
 - 09/29 19:54 [financialjuice] Qatar Foreign Ministry Spokesman: Exchanging messages, possible solutions with US-Iran.
 - 09/29 20:12 [FirstSquawk] ELI LILLY: ZEPBOUND ACHIEVES 20.2% WEIGHT REDUCTION VS 13.7% FOR WEGOVY AT 72 WEEKS
-- 09/29 20:14 [financialjuice] Rosatom, Iran discuss options to build new nuclear plants - Tass
+- 09/29 20:14 [financialjuice/FirstSquawk] Rosatom, Iran discuss options to build new nuclear plants - Tass
+- 09/29 20:23 [FirstSquawk] DEUTSCHE BANK RAISES NETFLIX TO BUY FROM HOLD; CUTS TARGET PRICE TO $95 FROM $100
+- 09/29 20:26 [FirstSquawk] BYD SAYS WANG CHUANFU APPOINTED AS COMPANY PRESIDENT
+- 09/29 20:26 [DeItaone] IRAN EXPECTS FORMAL U.S. RESPONSE TODAY Iranian Foreign Minister Abbas Araghchi says Tehran expects a final U.S. response to its proposal today, as Qatari and Pakistani mediators push for an understanding that could revive the Islamabad MoU…
+- 09/29 20:27 [DeItaone/FirstSquawk] PUTIN'S ENVOY DMITRIEV HAD 'CONSTRUCTIVE' MEETING ON MONDAY WITH US OFFICIALS ON PEACEFULLY RESOLVING WAR IN UKRAINE -US OFFICIAL
+- 09/29 20:28 [FirstSquawk] PUTIN'S ENVOY DMITRIEV, US OFFICIALS ALSO DISCUSSED POSSIBLE US-RUSSIA ENERGY INITIATIVES AFTER THE WAR ENDS -US OFFICIAL
+- 09/29 20:29 [financialjuice] Putin's Envoy Dmitriev, US Officials discussed possible US-Russia energy initiatives after the war ends - US Official.
+- 09/29 20:29 [DeItaone] MORGAN STANLEY BUILDS CRYPTO LAB Morgan Stanley has launched a Digital Asset Lab to test stablecoins, tokenization and DeFi applications before deploying them across the bank. The firm will explore tokenized deposits, CBDCs, money-market fu…
+- 09/29 20:32 [DeItaone] U.S. S&P 500 E-MINI FUTURES UP 0.1%, NASDAQ 100 FUTURES UP 0.3%, DOW FUTURES UP 0.2%

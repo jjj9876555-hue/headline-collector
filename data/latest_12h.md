@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-29 20:18 JST／対象: 09/29 08:18 〜 09/29 20:18 JST（時刻はすべて日本時間）
+生成: 2026-09-29 20:34 JST／対象: 09/29 08:34 〜 09/29 20:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 0 | - | - | - |
-| FirstSquawk | 218 | 09/29 08:46 | 09/29 20:12 | ⚠ 49分（09:17→10:06） |
-| financialjuice | 98 | 09/29 08:40 | 09/29 20:14 | ⚠ 62分（11:21→12:24） |
+| DeItaone | 4 | 09/29 20:26 | 09/29 20:32 | 2分（20:29→20:32） |
+| FirstSquawk | 223 | 09/29 08:46 | 09/29 20:28 | ⚠ 49分（09:17→10:06） |
+| financialjuice | 99 | 09/29 08:40 | 09/29 20:29 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 315 行（統合前 316 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 323 行（統合前 326 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -338,4 +338,12 @@
 - 09/29 19:42 [financialjuice] Italy's Energy Minister: Will speak with US Energy Secretary Wright later on Tuesday, will ask about potential US diesel export ban.
 - 09/29 19:54 [financialjuice] Qatar Foreign Ministry Spokesman: Exchanging messages, possible solutions with US-Iran.
 - 09/29 20:12 [FirstSquawk] ELI LILLY: ZEPBOUND ACHIEVES 20.2% WEIGHT REDUCTION VS 13.7% FOR WEGOVY AT 72 WEEKS
-- 09/29 20:14 [financialjuice] Rosatom, Iran discuss options to build new nuclear plants - Tass
+- 09/29 20:14 [financialjuice/FirstSquawk] Rosatom, Iran discuss options to build new nuclear plants - Tass
+- 09/29 20:23 [FirstSquawk] DEUTSCHE BANK RAISES NETFLIX TO BUY FROM HOLD; CUTS TARGET PRICE TO $95 FROM $100
+- 09/29 20:26 [FirstSquawk] BYD SAYS WANG CHUANFU APPOINTED AS COMPANY PRESIDENT
+- 09/29 20:26 [DeItaone] IRAN EXPECTS FORMAL U.S. RESPONSE TODAY Iranian Foreign Minister Abbas Araghchi says Tehran expects a final U.S. response to its proposal today, as Qatari and Pakistani mediators push for an understanding that could revive the Islamabad MoU…
+- 09/29 20:27 [DeItaone/FirstSquawk] PUTIN'S ENVOY DMITRIEV HAD 'CONSTRUCTIVE' MEETING ON MONDAY WITH US OFFICIALS ON PEACEFULLY RESOLVING WAR IN UKRAINE -US OFFICIAL
+- 09/29 20:28 [FirstSquawk] PUTIN'S ENVOY DMITRIEV, US OFFICIALS ALSO DISCUSSED POSSIBLE US-RUSSIA ENERGY INITIATIVES AFTER THE WAR ENDS -US OFFICIAL
+- 09/29 20:29 [financialjuice] Putin's Envoy Dmitriev, US Officials discussed possible US-Russia energy initiatives after the war ends - US Official.
+- 09/29 20:29 [DeItaone] MORGAN STANLEY BUILDS CRYPTO LAB Morgan Stanley has launched a Digital Asset Lab to test stablecoins, tokenization and DeFi applications before deploying them across the bank. The firm will explore tokenized deposits, CBDCs, money-market fu…
+- 09/29 20:32 [DeItaone] U.S. S&P 500 E-MINI FUTURES UP 0.1%, NASDAQ 100 FUTURES UP 0.3%, DOW FUTURES UP 0.2%
