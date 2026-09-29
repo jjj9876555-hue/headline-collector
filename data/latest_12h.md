@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-30 07:00 JST／対象: 09/29 19:00 〜 09/30 07:00 JST（時刻はすべて日本時間）
+生成: 2026-09-30 07:19 JST／対象: 09/29 19:19 〜 09/30 07:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 88 | 09/29 20:26 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
-| FirstSquawk | 194 | 09/29 19:05 | 09/30 06:29 | 30分（19:41→20:12） |
+| FirstSquawk | 190 | 09/29 19:19 | 09/30 06:29 | 30分（19:41→20:12） |
 | financialjuice | 296 | 09/29 19:20 | 09/30 06:32 | ⚠ 50分（22:45→23:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 554 行（統合前 584 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 550 行（統合前 580 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 19:05 [FirstSquawk] NOVO’S OZEMPIC ® (SEMAGLUTIDE) 2 MG IS LINKED TO A LOWER RISK OF SERIOUS HEART-RELATED ISSUES (DEATH, HEART ATTACK, AND STROKE) IN ADULTS WITH TYPE 2 DIABETES THAN SWITCHING TO MOUNJARO ® (TIRZEPATIDE), AS PER A REAL-WORLD STUDY PRESENTED A…
-- 09/29 19:06 [FirstSquawk] NOVO NORDISK'S SEMAGLUTIDE 2 MG DOSE IS ASSOCIATED WITH A 6% LOWER RISK OF SERIOUS CARDIOVASCULAR EVENTS.
-- 09/29 19:07 [FirstSquawk] CHINA WILL HELP COVER INTEREST PAYMENTS FOR FIRST-TIME HOME MORTGAGES.
-- 09/29 19:18 [FirstSquawk] IRANIAN ARMY SPOKESPERSON ANNOUNCED A 10 BILLION TOMAN REWARD FOR ANY IRANIAN WHO CAPTURES AN AMERICAN SOLDIER, DEAD OR ALIVE.
 - 09/29 19:19 [FirstSquawk] HOUSE DEMOCRATS DEMAND TECH CEOS GIVE INFO ON ROGUE AI:POLITICO
 - 09/29 19:20 [financialjuice] Three House Democrats penned letter to tech CEOs (Altman, Amodei, Musk) - Politico
 - 09/29 19:26 [FirstSquawk] PEPSICO CUT TO NEUTRAL AT JPMORGAN; PT $138
