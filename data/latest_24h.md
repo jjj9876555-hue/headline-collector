@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-30 07:19 JST／対象: 09/29 07:19 〜 09/30 07:19 JST（時刻はすべて日本時間）
+生成: 2026-09-30 07:34 JST／対象: 09/29 07:34 〜 09/30 07:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 88 | 09/29 20:26 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
 | FirstSquawk | 408 | 09/29 07:40 | 09/30 06:29 | ⚠ 57分（07:48→08:46） |
-| financialjuice | 401 | 09/29 07:19 | 09/30 06:32 | ⚠ 62分（11:21→12:24） |
+| financialjuice | 397 | 09/29 07:45 | 09/30 06:32 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 872 行（統合前 903 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 868 行（統合前 899 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 07:19 [financialjuice] Iran's Aragchi: hopes US final answer through Qatari mediators by Tuesday, IRNA reports
-- 09/29 07:19 [financialjuice] Iran's Foreign Minister Aragchi: Tehran held talks with Qatari mediators on ways to meet Iran's demands
-- 09/29 07:20 [financialjuice] Iran's Aragchi: Qatari mediators to present ideas to US side - IRNA
-- 09/29 07:21 [financialjuice] Iran's Aragchi: Qatari and Pakistani mediation channels intensify after Iran unveils plan
 - 09/29 07:40 [FirstSquawk] NORTH KOREA: US APPROVAL OF SOUTH KOREA’S NUCLEAR SUBMARINE HEIGHTENS REGIONAL INSTABILITY — KCNA
 - 09/29 07:40 [FirstSquawk] IRAN'S FOREIGN MINISTER ARAGHCHI SAYS TEHRAN DISCUSSED PROPOSALS WITH QATARI MEDIATORS TO PRESENT TO THE U.S., WITH THE U.S. RESPONSE TO BE RELAYED TO TEHRAN THROUGH THE QATARI MEDIATORS.
 - 09/29 07:40 [FirstSquawk] IRAN'S FOREIGN MINISTER ARAGHCHI SAYS THAT IF THE U.S. 'WANTS A DEAL OR PEACE, IRAN HAS OFFERED A SOLUTION', ADDING THAT THE CONDITIONS SET BY THE SUPREME LEADER MUST BE MET FOR THE STRAIT OF HORMUZ TO REOPEN - IRNA

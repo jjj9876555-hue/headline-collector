@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-30 07:19 JST／対象: 09/29 19:19 〜 09/30 07:19 JST（時刻はすべて日本時間）
+生成: 2026-09-30 07:34 JST／対象: 09/29 19:34 〜 09/30 07:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 88 | 09/29 20:26 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
-| FirstSquawk | 190 | 09/29 19:19 | 09/30 06:29 | 30分（19:41→20:12） |
-| financialjuice | 296 | 09/29 19:20 | 09/30 06:32 | ⚠ 50分（22:45→23:36） |
+| FirstSquawk | 185 | 09/29 19:39 | 09/30 06:29 | 30分（19:41→20:12） |
+| financialjuice | 294 | 09/29 19:42 | 09/30 06:32 | ⚠ 50分（22:45→23:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 550 行（統合前 580 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 543 行（統合前 573 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 19:19 [FirstSquawk] HOUSE DEMOCRATS DEMAND TECH CEOS GIVE INFO ON ROGUE AI:POLITICO
-- 09/29 19:20 [financialjuice] Three House Democrats penned letter to tech CEOs (Altman, Amodei, Musk) - Politico
-- 09/29 19:26 [FirstSquawk] PEPSICO CUT TO NEUTRAL AT JPMORGAN; PT $138
-- 09/29 19:28 [FirstSquawk] VOLKSWAGEN TO SHOW HIT FROM UK MOTOR FINANCE SCHEME: SKY
-- 09/29 19:29 [FirstSquawk] RUSSIAN FOREIGN MINISTER LAVROV ON WEST'S ACCUSATIONS OF RUSSIA WAGING HYBRID WAR IN EUROPE: NO DOUBT EUROPE IS WAGING WAR AGAINST RUSSIA
-- 09/29 19:33 [financialjuice] UK Navy: Vessel struck by projectile in Hormuz September 28.
-- 09/29 19:34 [FirstSquawk] UKMTO: GETS TIME-LATE REPORT OF INCIDENT IN HORMUZ
 - 09/29 19:39 [FirstSquawk] SAUDI CIVIL DEFENCE SAYS DANGER HAS PASSED
 - 09/29 19:41 [FirstSquawk] IRAN'S FOREIGN MINISTER STATED THAT A SEVEN-POINT PLAN FROM TEHRAN WAS SHARED WITH WASHINGTON VIA QATAR, AND IRAN IS NOW WAITING FOR AN OFFICIAL RESPONSE FROM THE U.S.
 - 09/29 19:42 [financialjuice] Italy's Energy Minister: Will speak with US Energy Secretary Wright later on Tuesday, will ask about potential US diesel export ban.
