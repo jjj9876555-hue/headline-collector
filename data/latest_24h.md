@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-30 03:58 JST／対象: 09/29 03:58 〜 09/30 03:58 JST（時刻はすべて日本時間）
+生成: 2026-09-30 04:18 JST／対象: 09/29 04:18 〜 09/30 04:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 66 | 09/29 20:26 | 09/30 02:40 | 35分（21:39→22:14） |
-| FirstSquawk | 386 | 09/29 03:59 | 09/30 03:54 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 381 | 09/29 03:59 | 09/30 03:57 | ⚠ 62分（11:21→12:24） |
+| DeItaone | 69 | 09/29 20:26 | 09/30 04:04 | ⚠ 80分（02:40→04:01） |
+| FirstSquawk | 386 | 09/29 04:19 | 09/30 04:16 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 375 | 09/29 04:19 | 09/30 04:10 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 810 行（統合前 838 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 807 行（統合前 835 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 03:59 [financialjuice] Trump, asked about arms sales to China: It wasn't discussed.
-- 09/29 03:59 [FirstSquawk] TRUMP: US OFFICIALS SPOKE WITH IRAN MEDIATORS TODAY; SAYS US PREVENTED IRAN FROM OBTAINING A NUCLEAR WEAPON
-- 09/29 03:59 [FirstSquawk] NVIDIA’S BOARD APPROVED AN ADDITIONAL $150 BILLION IN SHARE BUYBACK AUTHORIZATION, BRINGING THE TOTAL REPURCHASE PROGRAM TO $235 BILLION THROUGH THE FISCAL YEAR ENDING JANUARY 30, 2028.
-- 09/29 03:59 [FirstSquawk] NVIDIA SHARES ROSE 2.1% MONDAY, WITH THE STOCK UP ABOUT 24% THIS YEAR, AS THE COMPANY LOOKS TO RETURN PART OF ITS AI-DRIVEN CASH GENERATION TO SHAREHOLDERS WHILE CONTINUING TO INVEST IN AI AND ACCELERATED COMPUTING.
-- 09/29 04:02 [financialjuice] Tesla: Roadster event rescheduled due to weather; new date is October 15th. $TSLA
-- 09/29 04:03 [financialjuice] Meta and Amazon are being queried over tax breaks related to AI investments. $META $AMZN
-- 09/29 04:04 [financialjuice] Trump: Think a deal will be made on Canada trade.
-- 09/29 04:07 [financialjuice] Trump: Inflation will be eradicated after the war with Iran ends.
-- 09/29 04:09 [financialjuice] Trump ends remarks at the White House.
-- 09/29 04:09 [financialjuice] UAE President received Israel's Netanyahu on Sunday - UAE State News Agency.
-- 09/29 04:10 [financialjuice] The UAE President and Israel's Prime Minister Netanyahu discussed bilateral relations between the UAE and Israel, and the means to strengthen them - UAE State News Agency.
-- 09/29 04:13 [FirstSquawk] UAE PRESIDENT RECEIVED ISRAEL'S NETANYAHU ON SUNDAY, WITH THE TWO DISCUSSING BILATERAL RELATIONS BETWEEN THE UAE AND ISRAEL AND MEANS TO STRENGTHEN THEM - UAE STATE NEWS AGENCY
-- 09/29 04:18 [financialjuice] Iranian lawmaker: Parliament weighing NPT exit bill - Fars
 - 09/29 04:19 [financialjuice] UK's Labour Party: The Prime Minister announces the new 'GB Grid' to rewire public control into Britain’s energy system and drive down costs.
 - 09/29 04:19 [FirstSquawk] CANADIAN CARRIER WESTJET SAYS IT USES SOFTWARE VERSION 14.1 — NOW BEING REVIEWED BY THE FAA — FOR ITS BOEING 737 MAX JETS, ADDING THAT WHILE IT IS AWARE OF THE REPORTED POTENTIAL SOFTWARE ISSUE AFFECTING SOME B737S AND IS WORKING CLOSELY WI…
 - 09/29 04:20 [FirstSquawk] THE FAA ADMINISTRATOR SAYS THE SOFTWARE ISSUE WILL DELAY MAX 10 CERTIFICATION, THOUGH HE IS NOT SURE HOW LONG, ADDING THAT PILOTS ARE STILL IN CONTROL DURING GO-AROUNDS DESPITE THE BOEING 737 MAX SOFTWARE ISSUE.
@@ -834,3 +821,13 @@
 - 09/30 03:53 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 3.48% LOWER AT $89.38/BBL, DOWN $3.22
 - 09/30 03:54 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 2.56% LOWER AT $102.59/BBL, DOWN $2.69
 - 09/30 03:57 [financialjuice] OpenAI aims to prioritize mission and safety before IPO.
+- 09/30 04:00 [financialjuice] Fed's Waller does not comment on monetary policy, economic outlook in remarks on 'Payments in the Age of AI Agents'
+- 09/30 04:00 [FirstSquawk] FED’S WALLER MAKES NO COMMENTS ON MONETARY POLICY OR ECONOMIC OUTLOOK IN REMARKS ON “PAYMENTS IN THE AGE OF AI AGENTS”
+- 09/30 04:01 [DeItaone] EURO HITS 16-MONTH LOW AGAINST US DOLLAR, LAST DOWN 0.26% AT $1.13415
+- 09/30 04:02 [FirstSquawk] US AGRICULTURE PRICES PAID RISE 5.3% IN AUGUST, EASING FROM 7.7%; PRICES RECEIVED FALL 2.0% VS 2.6% PREVIOUSLY
+- 09/30 04:03 [DeItaone] *SUPREME COURT LETS TRUMP’S THIRD-COUNTRY DEPORTATIONS RESUME
+- 09/30 04:04 [DeItaone] OCTOBER FED HIKE ODDS DROP TO 50% Markets now price a 50% chance of an October Fed hike, down from around 70%, after Fed’s Williams said there is “no rush to act.” Williams still sees one more hike potentially needed by year-end, with infla…
+- 09/30 04:09 [financialjuice] Qatar is going to allow the use of drones in designated areas - Interior Ministry.
+- 09/30 04:09 [FirstSquawk] QATAR TO ALLOW DRONE USE IN DESIGNATED AREAS — INTERIOR MINISTRY
+- 09/30 04:10 [financialjuice] Iran Foreign Ministry warns regional countries of the consequences of Israeli Prime Minister Netanyahu's visit to the UAE - Fars News.
+- 09/30 04:16 [FirstSquawk] APPLE PAY TO LAUNCH IN INDIA WITH AXIS BANK ON TUESDAY — TECHCRUNCH

@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-30 03:58 JST／対象: 09/29 21:58 〜 09/30 03:58 JST（時刻はすべて日本時間）
+生成: 2026-09-30 04:18 JST／対象: 09/29 22:18 〜 09/30 04:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 48 | 09/29 22:14 | 09/30 02:40 | 17分（00:08→00:25） |
-| FirstSquawk | 113 | 09/29 22:00 | 09/30 03:54 | 30分（02:00→02:31） |
-| financialjuice | 198 | 09/29 22:00 | 09/30 03:57 | ⚠ 50分（22:45→23:36） |
+| DeItaone | 49 | 09/29 22:30 | 09/30 04:04 | ⚠ 80分（02:40→04:01） |
+| FirstSquawk | 111 | 09/29 22:23 | 09/30 04:16 | 30分（02:00→02:31） |
+| financialjuice | 196 | 09/29 22:21 | 09/30 04:10 | ⚠ 50分（22:45→23:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 349 行（統合前 364 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 346 行（統合前 361 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 22:00 [financialjuice] US HOUSE PRICE INDEX MOM ACTUAL 0.3% (FORECAST 0.1%, PREVIOUS 0.0%) $MACRO
-- 09/29 22:00 [financialjuice] US CASESHILLER 20 YOY ACTUAL 2.47% (FORECAST 2.2%, PREVIOUS 2.1%) $MACRO
-- 09/29 22:00 [financialjuice] US HOUSE PRICE INDEX YOY ACTUAL 2.6% (FORECAST -, PREVIOUS 2.3%) $MACRO
-- 09/29 22:00 [FirstSquawk] US FHFA HOUSE PRICE INDEX (M/M) JUL: 0.3% (EST 0.1%; PREV 0.0%)
-- 09/29 22:02 [financialjuice] US Case-Shiller July Report
-- 09/29 22:06 [FirstSquawk] EU: NO TALKS PLANNED TO RENEGOTIATE UKRAINE EXPORT QUOTAS
-- 09/29 22:12 [FirstSquawk] LITHUANIA PREMIER 'READY TO PAY' FOR PERMANENT US DEPLOYMENT
-- 09/29 22:13 [FirstSquawk] SEC: WON'T RECOMMEND ACTION ON TESLA RETAIL VOTING PROGRAM
-- 09/29 22:13 [FirstSquawk] JEFFERIES CUTS HERMES TARGET PRICE TO EUR 1,600 FROM EUR 2,000
-- 09/29 22:14 [DeItaone] CITADEL’S RUBNER SEES BETTER SETUP FOR STOCKS IN OCTOBER Citadel Securities’ Scott Rubner expects equity market conditions to improve in October as quarter-end selling ends and historically favorable midterm-election seasonality begins. He …
-- 09/29 22:14 [financialjuice] UK PM Burnham: I will make a break and put Britain on a new path with a new economy.
-- 09/29 22:16 [DeItaone] $NFLX - DEUTSCHE BANK UPGRADES NETFLIX TO BUY Deutsche Bank upgraded Netflix to Buy from Hold, citing its global scale, international production advantage and attractive valuation. The bank lowered its price target to $95 from $100. Netflix…
-- 09/29 22:18 [FirstSquawk] UK PM BURNHAM: MORE CONTROL OF THE BASICS
 - 09/29 22:21 [financialjuice] UAE Vice President meets with the Saudi Defence Minister in Riyadh - WAM.
 - 09/29 22:23 [FirstSquawk] BURNHAM: BILL FOR LEASEHOLD REFORM BEFORE CHRISTMAS
 - 09/29 22:28 [financialjuice] UK's PM Burnham: We are reforming the energy market.
@@ -373,3 +360,13 @@
 - 09/30 03:53 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 3.48% LOWER AT $89.38/BBL, DOWN $3.22
 - 09/30 03:54 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 2.56% LOWER AT $102.59/BBL, DOWN $2.69
 - 09/30 03:57 [financialjuice] OpenAI aims to prioritize mission and safety before IPO.
+- 09/30 04:00 [financialjuice] Fed's Waller does not comment on monetary policy, economic outlook in remarks on 'Payments in the Age of AI Agents'
+- 09/30 04:00 [FirstSquawk] FED’S WALLER MAKES NO COMMENTS ON MONETARY POLICY OR ECONOMIC OUTLOOK IN REMARKS ON “PAYMENTS IN THE AGE OF AI AGENTS”
+- 09/30 04:01 [DeItaone] EURO HITS 16-MONTH LOW AGAINST US DOLLAR, LAST DOWN 0.26% AT $1.13415
+- 09/30 04:02 [FirstSquawk] US AGRICULTURE PRICES PAID RISE 5.3% IN AUGUST, EASING FROM 7.7%; PRICES RECEIVED FALL 2.0% VS 2.6% PREVIOUSLY
+- 09/30 04:03 [DeItaone] *SUPREME COURT LETS TRUMP’S THIRD-COUNTRY DEPORTATIONS RESUME
+- 09/30 04:04 [DeItaone] OCTOBER FED HIKE ODDS DROP TO 50% Markets now price a 50% chance of an October Fed hike, down from around 70%, after Fed’s Williams said there is “no rush to act.” Williams still sees one more hike potentially needed by year-end, with infla…
+- 09/30 04:09 [financialjuice] Qatar is going to allow the use of drones in designated areas - Interior Ministry.
+- 09/30 04:09 [FirstSquawk] QATAR TO ALLOW DRONE USE IN DESIGNATED AREAS — INTERIOR MINISTRY
+- 09/30 04:10 [financialjuice] Iran Foreign Ministry warns regional countries of the consequences of Israeli Prime Minister Netanyahu's visit to the UAE - Fars News.
+- 09/30 04:16 [FirstSquawk] APPLE PAY TO LAUNCH IN INDIA WITH AXIS BANK ON TUESDAY — TECHCRUNCH

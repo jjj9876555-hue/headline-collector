@@ -7,44 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-30 03:58 JST／対象: 09/29 15:58 〜 09/30 03:58 JST（時刻はすべて日本時間）
+生成: 2026-09-30 04:18 JST／対象: 09/29 16:18 〜 09/30 04:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 66 | 09/29 20:26 | 09/30 02:40 | 35分（21:39→22:14） |
-| FirstSquawk | 212 | 09/29 15:58 | 09/30 03:54 | 30分（19:41→20:12） |
-| financialjuice | 258 | 09/29 16:00 | 09/30 03:57 | ⚠ 50分（22:45→23:36） |
+| DeItaone | 69 | 09/29 20:26 | 09/30 04:04 | ⚠ 80分（02:40→04:01） |
+| FirstSquawk | 202 | 09/29 16:26 | 09/30 04:16 | 30分（19:41→20:12） |
+| financialjuice | 254 | 09/29 16:25 | 09/30 04:10 | ⚠ 50分（22:45→23:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 517 行（統合前 541 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 506 行（統合前 530 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 15:58 [FirstSquawk] South Korea Joint Chiefs of Staff: DMZ mines likely planted just over a year ago
-- 09/29 15:59 [FirstSquawk] South Korea Joint Chiefs of Staff: UN Command says DMZ explosion mines were clearly south of Military Demarcation Line
-- 09/29 16:00 [financialjuice] SPANISH CPI MOM FLASH ACTUAL 0.3% (FORECAST 0.1%, PREVIOUS 0.70%) $MACRO
-- 09/29 16:00 [financialjuice] SPANISH HICP MOM FLASH ACTUAL 0.6% (FORECAST 0.6%, PREVIOUS 0.7%) $MACRO
-- 09/29 16:00 [financialjuice] SPANISH HICP YOY FLASH ACTUAL 5% (FORECAST 4.9%, PREVIOUS 4.6%) $MACRO
-- 09/29 16:00 [financialjuice] SWISS KOF INDICATOR ACTUAL 109.1 (FORECAST 106, PREVIOUS 106.7) $MACRO
-- 09/29 16:00 [financialjuice] SPANISH CPI YOY FLASH ACTUAL 4.9% (FORECAST 4.6%, PREVIOUS 4.3%) $MACRO
-- 09/29 16:00 [financialjuice] SPANISH RETAIL SALES SA YOY ACTUAL -0.4% (FORECAST -, PREVIOUS -0.3%) $MACRO
-- 09/29 16:02 [FirstSquawk] SPAIN CPI (Y/Y) SEP P: 4.9% (EST 4.6%; PREV 4.3%)
-- 09/29 16:02 [FirstSquawk] SPAIN CPI (M/M): 0.3% (EST 0.1%; PREV 0.7%)
-- 09/29 16:02 [FirstSquawk] SPAIN CPI EU H. (Y/Y): 5.0% (EST 4.9%; PREV 4.6%)
-- 09/29 16:02 [FirstSquawk] SWITZERLAND KOF LEADING INDICATOR SEP: 109.1 (EST 106.0; PREV 106.7; PREV R 107.5)
-- 09/29 16:02 [FirstSquawk] SPAIN CPI EU H. (M/M): 0.6% (EST 0.6%; PREV 0.7%)
-- 09/29 16:02 [FirstSquawk] SPAIN CPI CORE (Y/Y): 3.1% (EST 3.0%; PREV 2.9%)
-- 09/29 16:02 [FirstSquawk] SPAIN RETAIL SALES (Y/Y) AUG: -1.1% (PREV -0.2%; PREV R -0.3%)
-- 09/29 16:02 [FirstSquawk] SPAIN RETAIL SALES SA (Y/Y): -0.4% (EST -0.3%; PREV R -0.4%)
-- 09/29 16:10 [FirstSquawk] BRITAIN'S FTSE 100 UP 0.18% || FRANCE'S CAC 40 UP 0.05% || SPAIN'S IBEX UP 0.26% || GERMANY'S DAX UP 0.08%
-- 09/29 16:10 [FirstSquawk] NHTSA HAS CLOSED A DEFECT PETITION REGARDING 806,963 HONDA ODYSSEY VEHICLES IN THE U.S. DUE TO AIRBAGS DEPLOYING UNINTENTIONALLY WHILE DRIVING.
-- 09/29 16:11 [FirstSquawk] NHTSA ENDS INITIAL REVIEW OF 1,076,999 CHRYSLER CARS DUE TO UNDERHOOD FIRES WHEN VEHICLES ARE TURNED OFF.
-- 09/29 16:13 [financialjuice] Iran's Revolutionary Guards Spokesperson: Trump is 'a big liar’, US people need to be told the truth.
-- 09/29 16:14 [FirstSquawk] IRAN'S REVOLUTIONARY GUARDS SPOKESPERSON CALLS TRUMP 'A BIG LIAR' AND SAYS US CITIZENS DESERVE THE TRUTH.
 - 09/29 16:25 [financialjuice] Iran's IRGC Spokesperson: US has no other choice but to declare failure and leave the region.
 - 09/29 16:26 [FirstSquawk] IRAN'S IRGC SPOKESPERSON CLAIMS US MUST ADMIT DEFEAT AND EXIT THE REGION.
 - 09/29 16:36 [FirstSquawk] SPANISH ENERGY MINISTER AAGESEN SAYS SPAIN, PORTUGAL, LUXEMBOURG SENT A LETTER ASKING COMMISSION FOR A NEW TARGET OF RENEWABLE ENERGY CAPACITY
@@ -541,3 +520,13 @@
 - 09/30 03:53 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 3.48% LOWER AT $89.38/BBL, DOWN $3.22
 - 09/30 03:54 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 2.56% LOWER AT $102.59/BBL, DOWN $2.69
 - 09/30 03:57 [financialjuice] OpenAI aims to prioritize mission and safety before IPO.
+- 09/30 04:00 [financialjuice] Fed's Waller does not comment on monetary policy, economic outlook in remarks on 'Payments in the Age of AI Agents'
+- 09/30 04:00 [FirstSquawk] FED’S WALLER MAKES NO COMMENTS ON MONETARY POLICY OR ECONOMIC OUTLOOK IN REMARKS ON “PAYMENTS IN THE AGE OF AI AGENTS”
+- 09/30 04:01 [DeItaone] EURO HITS 16-MONTH LOW AGAINST US DOLLAR, LAST DOWN 0.26% AT $1.13415
+- 09/30 04:02 [FirstSquawk] US AGRICULTURE PRICES PAID RISE 5.3% IN AUGUST, EASING FROM 7.7%; PRICES RECEIVED FALL 2.0% VS 2.6% PREVIOUSLY
+- 09/30 04:03 [DeItaone] *SUPREME COURT LETS TRUMP’S THIRD-COUNTRY DEPORTATIONS RESUME
+- 09/30 04:04 [DeItaone] OCTOBER FED HIKE ODDS DROP TO 50% Markets now price a 50% chance of an October Fed hike, down from around 70%, after Fed’s Williams said there is “no rush to act.” Williams still sees one more hike potentially needed by year-end, with infla…
+- 09/30 04:09 [financialjuice] Qatar is going to allow the use of drones in designated areas - Interior Ministry.
+- 09/30 04:09 [FirstSquawk] QATAR TO ALLOW DRONE USE IN DESIGNATED AREAS — INTERIOR MINISTRY
+- 09/30 04:10 [financialjuice] Iran Foreign Ministry warns regional countries of the consequences of Israeli Prime Minister Netanyahu's visit to the UAE - Fars News.
+- 09/30 04:16 [FirstSquawk] APPLE PAY TO LAUNCH IN INDIA WITH AXIS BANK ON TUESDAY — TECHCRUNCH
