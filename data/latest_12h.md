@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-29 12:53 JST／対象: 09/29 00:53 〜 09/29 12:53 JST（時刻はすべて日本時間）
+生成: 2026-09-29 13:18 JST／対象: 09/29 01:18 〜 09/29 13:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/29 01:39 | 09/29 02:14 | 20分（01:54→02:14） |
-| FirstSquawk | 152 | 09/29 00:56 | 09/29 12:45 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 145 | 09/29 00:56 | 09/29 12:24 | ⚠ 62分（11:21→12:24） |
+| FirstSquawk | 156 | 09/29 01:24 | 09/29 13:18 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 144 | 09/29 01:20 | 09/29 13:06 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 300 行（統合前 309 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 303 行（統合前 312 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 00:56 [FirstSquawk] KKR AND RWE SAID TO JOINTLY BID FOR GERMAN STATE-OWNED UNIPER
-- 09/29 00:56 [financialjuice] Lebanese Prime Minister: Rubio confirmed America's commitment to supporting the Lebanese army - Al Arabiya
-- 09/29 00:58 [financialjuice] TotalEnergies CEO: EU tankers can be used to ship LNG from Russia's Yamal outside of the EU, but it will be limited business
-- 09/29 01:00 [FirstSquawk] SPACEX'S STARSHIP RETURNS TO EARTH, TOUCHES DOWN IN THE PACIFIC OCEAN
-- 09/29 01:01 [financialjuice] Russia cuts oil and gas revenues estimate for 2026 to 7.6 trln roubles from 8.9 trln roubles previously, materials show
-- 09/29 01:09 [FirstSquawk] IRAN'S MILITARY AND SUPPORTING GROUPS WILL PROVIDE A "DEVASTATING RESPONSE" TO ANY THREAT, SAID ARMED FORCES CHIEF ALI ABDOLLAHI. HE STATED THAT TEHRAN'S NETWORK IN THE REGION HAS BECOME MORE STRATEGICALLY INTEGRATED EVEN AFTER THE DEATH OF…
-- 09/29 01:09 [FirstSquawk] ABDOLLAHI STATED THAT THE U.S. AND ISRAEL ANTICIPATED NASRALLAH'S DEATH WOULD LEAD TO THE COLLAPSE OF THE "RESISTANCE" FRONT, BUT THEY WERE WRONG.
-- 09/29 01:09 [FirstSquawk] HE STATED THAT THE NETWORK REMAINED STRONG AND HAD SUCCESSFULLY COMPLETED BOTH OPEN AND HIDDEN “STRATEGIC INTEGRATION,” NOTING NASRALLAH’S CONTINUED INFLUENCE IN LEBANON, PALESTINE, YEMEN, AND IRAQ.
-- 09/29 01:17 [financialjuice] ❗ US Official to Al Jazeera: We continue a positive discussion with Iran through intermediaries; there will be no agreement without addressing the nuclear issue
 - 09/29 01:20 [financialjuice] ❗ US official tells Al Jazeera: Trump Ready to Ease Sanctions, Release Frozen Assets for Nuclear Progress
 - 09/29 01:22 [financialjuice] US official to Al Jazeera: Need guarantees this time that Iran is serious and not just seeking to escape the difficult situation it is suffering from.
 - 09/29 01:24 [financialjuice] WH Sr. Adviser Hassett: Estimate productivity growth right now about 2.5%.
@@ -324,3 +315,15 @@
 - 09/29 12:27 [FirstSquawk] Bank of India’s $1 billion MTN programme rated ‘BBB-’ by Fitch
 - 09/29 12:36 [FirstSquawk] Japan 40-year JGB auction highest yield stands at 4.1250%; 42.4153% of bids accepted
 - 09/29 12:45 [FirstSquawk] South Korea sees farming households increase to 1.27 million in 2025, while average farm area hits 65-year low - YONHAP
+- 09/29 13:03 [financialjuice] Germany delivers EU budget ultimatum - FT
+- 09/29 13:05 [financialjuice] Germany, the Netherlands, Sweden, Denmark, Austria and Finland tell Brussels to cut ‘hundreds of billions’ in planned spending - FT
+- 09/29 13:06 [financialjuice] Nvidia turns to insurers to share risk of AI expansion - FT
+- 09/29 13:11 [FirstSquawk] US says Houthi ties to al-Shabaab could endanger Red Sea trade, FT reports
+- 09/29 13:11 [FirstSquawk] European banks move to reclaim fees from BlackRock and Vanguard, FT says
+- 09/29 13:12 [FirstSquawk] Nvidia looks to insurers to mitigate risks from AI build-out, FT says
+- 09/29 13:13 [FirstSquawk] Oil-Treasury yield relationship reaches tightest level since 1990, FT says
+- 09/29 13:13 [FirstSquawk] UK tech founders push PM to relax non-compete rules amid US competition, FT says
+- 09/29 13:14 [FirstSquawk] UniCredit preparing to convene extraordinary general meeting pending final regulatory approvals for Commerzbank control, FT says
+- 09/29 13:14 [FirstSquawk] FT: Germany delivers EU budget ultimatum over ‘billions’ in planned spending
+- 09/29 13:17 [FirstSquawk] White House says Democrats are responsible for failure to pass Crypto Clarity Act - WatcherGuru
+- 09/29 13:18 [FirstSquawk] Jefferies increases Ferrari target price to $460 from $435

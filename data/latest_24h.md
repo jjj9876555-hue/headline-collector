@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-29 12:53 JST／対象: 09/28 12:53 〜 09/29 12:53 JST（時刻はすべて日本時間）
+生成: 2026-09-29 13:18 JST／対象: 09/28 13:18 〜 09/29 13:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 38 | 09/28 16:28 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 316 | 09/28 12:54 | 09/29 12:45 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 274 | 09/28 13:26 | 09/29 12:24 | ⚠ 62分（11:21→12:24） |
+| FirstSquawk | 322 | 09/28 13:23 | 09/29 13:18 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 277 | 09/28 13:26 | 09/29 13:06 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 613 行（統合前 632 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 622 行（統合前 641 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 12:54 [FirstSquawk] Thailand August domestic auto sales surge 25.59% from a year earlier
-- 09/28 13:04 [FirstSquawk] EU COUNTRIES CONSIDER NATO-STYLE JOINT RESPONSES TO RUSSIAN HYBRID ATTACKS – FT
-- 09/28 13:04 [FirstSquawk] GM WARNS ON US MARKET AS CARMAKERS SEEK ‘SAFE HAVEN’ FROM CHINESE RIVALS – FT
 - 09/28 13:23 [FirstSquawk] US and China strike $60 billion low-tariff deal spanning foie gras to camels
 - 09/28 13:24 [FirstSquawk] UK biodiesel industry criticises move to reject tariffs on cheaper US imports
 - 09/28 13:26 [financialjuice] Saudi foreign minister arrives in Washington to meet U.S. counterpart: Saudi state news agency
@@ -637,3 +634,15 @@
 - 09/29 12:27 [FirstSquawk] Bank of India’s $1 billion MTN programme rated ‘BBB-’ by Fitch
 - 09/29 12:36 [FirstSquawk] Japan 40-year JGB auction highest yield stands at 4.1250%; 42.4153% of bids accepted
 - 09/29 12:45 [FirstSquawk] South Korea sees farming households increase to 1.27 million in 2025, while average farm area hits 65-year low - YONHAP
+- 09/29 13:03 [financialjuice] Germany delivers EU budget ultimatum - FT
+- 09/29 13:05 [financialjuice] Germany, the Netherlands, Sweden, Denmark, Austria and Finland tell Brussels to cut ‘hundreds of billions’ in planned spending - FT
+- 09/29 13:06 [financialjuice] Nvidia turns to insurers to share risk of AI expansion - FT
+- 09/29 13:11 [FirstSquawk] US says Houthi ties to al-Shabaab could endanger Red Sea trade, FT reports
+- 09/29 13:11 [FirstSquawk] European banks move to reclaim fees from BlackRock and Vanguard, FT says
+- 09/29 13:12 [FirstSquawk] Nvidia looks to insurers to mitigate risks from AI build-out, FT says
+- 09/29 13:13 [FirstSquawk] Oil-Treasury yield relationship reaches tightest level since 1990, FT says
+- 09/29 13:13 [FirstSquawk] UK tech founders push PM to relax non-compete rules amid US competition, FT says
+- 09/29 13:14 [FirstSquawk] UniCredit preparing to convene extraordinary general meeting pending final regulatory approvals for Commerzbank control, FT says
+- 09/29 13:14 [FirstSquawk] FT: Germany delivers EU budget ultimatum over ‘billions’ in planned spending
+- 09/29 13:17 [FirstSquawk] White House says Democrats are responsible for failure to pass Crypto Clarity Act - WatcherGuru
+- 09/29 13:18 [FirstSquawk] Jefferies increases Ferrari target price to $460 from $435
