@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-29 11:33 JST／対象: 09/28 23:33 〜 09/29 11:33 JST（時刻はすべて日本時間）
+生成: 2026-09-29 11:47 JST／対象: 09/28 23:47 〜 09/29 11:47 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 13 | 09/29 00:19 | 09/29 02:14 | ⚠ 54分（00:44→01:39） |
-| FirstSquawk | 154 | 09/28 23:37 | 09/29 11:28 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 162 | 09/28 23:33 | 09/29 11:21 | 40分（09:25→10:05） |
+| FirstSquawk | 157 | 09/28 23:50 | 09/29 11:47 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 160 | 09/28 23:48 | 09/29 11:21 | 40分（09:25→10:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 320 行（統合前 331 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 321 行（統合前 332 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 23:33 [financialjuice] Citi: Spring by Citi enables institutional clients to accept stablecoin payments at checkout. $C
-- 09/28 23:34 [financialjuice] UK's PM Burnham concludes remarks on LBC Radio
-- 09/28 23:37 [FirstSquawk] TOTAL CEO SAYS 3Q LNG BUSINESS WILL BE `VERY GOOD'
-- 09/28 23:41 [FirstSquawk] TOTALENERGIES CEO: WE ARE MORE AND MORE CONFIDENT WE'LL FIND MORE OIL IN THE SURINAME BASIN
 - 09/28 23:48 [financialjuice] Explosions heard in the Saudi cities of Yanbu, Jazan and Najran in the past few hours, according to Saudi media reports - Fars News
 - 09/28 23:49 [financialjuice] ECB's President Lagarde: Energy subsidy impact on inflation seen by staff at 0.1%
 - 09/28 23:50 [FirstSquawk] EXPLOSIONS REPORTED IN YANBU, JAZAN, AND NAJRAN CITIES IN SAUDI ARABIA, AS PER SAUDI MEDIA SOURCES.
@@ -344,3 +340,8 @@
 - 09/29 11:21 [financialjuice] China’s FAW signs strategic framework pact with Guangzhou Automobile Industry Group
 - 09/29 11:21 [FirstSquawk] China’s FAW and Guangzhou Automobile Industry Group sign strategic cooperation framework agreement
 - 09/29 11:28 [FirstSquawk] Shein stock tumbles 10%
+- 09/29 11:34 [FirstSquawk] Aussie dollar steadies above 0.7000 vs USD ahead of RBA rate decision - FX
+- 09/29 11:36 [FirstSquawk] Fay strengthens back into a tropical storm, NHC says
+- 09/29 11:37 [FirstSquawk] Tropical Storm Fay 1,380 miles west-southwest of Azores with maximum winds of 40 mph, NHC says
+- 09/29 11:41 [FirstSquawk] OpenAI delays new AI model launch due to safety concerns - NA
+- 09/29 11:47 [FirstSquawk] Gold prices tick higher as selling pressure persists - WSJ
