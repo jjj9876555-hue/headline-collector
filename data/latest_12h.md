@@ -7,48 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-29 20:54 JST／対象: 09/29 08:54 〜 09/29 20:54 JST（時刻はすべて日本時間）
+生成: 2026-09-29 21:24 JST／対象: 09/29 09:24 〜 09/29 21:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 11 | 09/29 20:26 | 09/29 20:53 | 5分（20:39→20:45） |
-| FirstSquawk | 220 | 09/29 08:54 | 09/29 20:44 | ⚠ 49分（09:17→10:06） |
-| financialjuice | 105 | 09/29 09:00 | 09/29 20:54 | ⚠ 62分（11:21→12:24） |
+| DeItaone | 15 | 09/29 20:26 | 09/29 21:23 | 15分（21:00→21:16） |
+| FirstSquawk | 214 | 09/29 10:06 | 09/29 21:22 | 30分（19:41→20:12） |
+| financialjuice | 104 | 09/29 09:25 | 09/29 21:24 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 332 行（統合前 336 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 328 行（統合前 333 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 08:54 [FirstSquawk] THE U.S. NAVY'S USS SANTA BARBARA REQUIRED URGENT REPAIRS IN SINGAPORE AFTER DOCUMENTS WARNED ALL FOUR ENGINES WERE OPERATING BEYOND RECOMMENDED LIMITS, CREATING A 'CRITICAL THREAT OF MECHANICAL FAILURE', WITH THE SHIP ALSO HAVING PROBLEMS …
-- 09/29 08:54 [FirstSquawk] THE NAVY INITIALLY RECEIVED NO BIDS FROM CONTRACTORS FOR SOME OF THE REPAIRS AND HAD TO RELY ON LOCAL SINGAPORE FACILITIES, WITH THE 7TH FLEET SAYING THE SHIP ARRIVED SAFELY AND WOULD RETURN TO OPERATIONS AFTER MAINTENANCE - THE WASHINGTON …
-- 09/29 08:54 [FirstSquawk] CSL SAYS IT IS COLLABORATING WITH AMAZON WEB SERVICES TO ADVANCE BIOPHARMACEUTICAL R&D, APPLYING ARTIFICIAL INTELLIGENCE AND CLOUD TECHNOLOGIES TO SUPPORT ITS RESEARCH AND CLINICAL DEVELOPMENT.
-- 09/29 08:54 [FirstSquawk] CSL SAYS THAT IN CLINICAL DEVELOPMENT, IT IS WORKING WITH AWS TO REDUCE MANUAL EFFORT IN AREAS INCLUDING PROTOCOL AUTHORING.
-- 09/29 08:55 [FirstSquawk] 15 STATES SUE FAA OVER ENVIRONMENTAL REVIEW OF COMMERCIAL DRONE DELIVERY RULES — FILING
-- 09/29 09:00 [financialjuice] Pope laments national leaders pursuing increasingly destructive wars
-- 09/29 09:00 [financialjuice] NZ DMO plans gross bond issuance of NZ$109 billion through June 2030, down from NZ$124 billion forecast in May
-- 09/29 09:00 [FirstSquawk] SAMSUNG UNITS TO INVEST $1 BILLION IN KKR-BACKED AI INFRASTRUCTURE COMPANY
-- 09/29 09:00 [financialjuice] NZ unemployment rate forecast at 5.2% in 2026/27, budget targets 5.0%
-- 09/29 09:00 [financialjuice] NZ forecasts net debt at 43.7% of GDP in 2026/27, below budgeted 45.6%
-- 09/29 09:00 [financialjuice] NZ forecasts 2026/27 cash balance NZ$-21.99 billion vs budget NZ$-24.22 billion
-- 09/29 09:00 [financialjuice] NZ DMO forecasts 2026/27 bond issuance at NZ$30 billion vs NZ$34 billion in pre-election update
-- 09/29 09:00 [financialjuice] NZ expects 2.3% GDP growth in 2026/27, matching budget forecast
-- 09/29 09:00 [financialjuice] NZ forecasts 2026/27 operating balance before gains and losses at NZ$-8.7 billion (budget NZ$-14.09 billion)
-- 09/29 09:01 [financialjuice] Pope Leo urges Russia, Ukraine to negotiate end to four-year war
-- 09/29 09:01 [financialjuice] NZ government projects return to operating surplus in 2028/29 budget
-- 09/29 09:01 [financialjuice] ITC Neocloud Group to acquire 80% stake in target company for RMB83.62 million
-- 09/29 09:02 [financialjuice] ITC Properties Group targets Guangzhou Chaog! Xiyang Technology
-- 09/29 09:02 [FirstSquawk] NEW ZEALAND'S GOVERNMENT PROJECTS A RETURN TO AN OPERATING SURPLUS IN THE 2028/29 BUDGET, WITH 2026/27 GDP GROWTH SEEN AT 2.3% — MATCHING THE BUDGET FORECAST — AND THE 2026/27 OPERATING BALANCE BEFORE GAINS AND LOSSES FORECAST AT A NARROWER…
-- 09/29 09:02 [FirstSquawk] NEW ZEALAND FORECASTS NET DEBT AT 43.7% OF GDP IN 2026/27, BELOW THE BUDGETED 45.6%, WITH THE 2026/27 CASH BALANCE AT A NZ$21.99 BLN DEFICIT AND UNEMPLOYMENT SEEN AT 5.2%.
-- 09/29 09:03 [FirstSquawk] NEW ZEALAND'S DMO FORECASTS 2026/27 BOND ISSUANCE AT NZ$30 BLN, DOWN FROM NZ$34 BLN IN THE PRE-ELECTION UPDATE, AND PLANS GROSS BOND ISSUANCE OF NZ$109 BLN THROUGH JUNE 2030, DOWN FROM THE NZ$124 BLN FORECAST IN MAY.
-- 09/29 09:06 [FirstSquawk] SYRIA SAYS A GAS PIPELINE FIRE BETWEEN AL-SHOLA AND DEIR AL-ZOUR WAS CAUSED BY AN 'ACT OF SABOTAGE', WITH THE SYRIAN PETROLEUM COMPANY SAYING EFFORTS ARE UNDERWAY TO EXTINGUISH THE FIRE - STATE NEWS AGENCY
-- 09/29 09:06 [FirstSquawk] ANTHROPIC IPO PLAN INCLUDES NEW FOUNDER LLC TO RETAIN CONTROL OF ITS “LOW-EGO, TRUTH-SEEKING” CULTURE — IPO FILING
-- 09/29 09:07 [FirstSquawk] AUSTRALIA’S S&P/ASX 200 RISES 0.1% TO 8,688.30 IN EARLY TRADE
-- 09/29 09:17 [FirstSquawk] EUROPEAN STOCK FUTURES RISE: EUROSTOXX 50 +0.5%, DAX +0.3%, FTSE +0.2%
 - 09/29 09:25 [financialjuice] China PBOC seen setting yuan midpoint at 6.7177 per dollar: estimate
 - 09/29 10:05 [financialjuice] Taiwan overnight interbank rate starts at 0.805% versus 0.804% in previous session opening
 - 09/29 10:06 [financialjuice] US secretary of state Rubio: uk base incident involved foreign actor
@@ -354,5 +329,26 @@
 - 09/29 20:50 [financialjuice/DeItaone] ❗ Trump backs Russia sanction relief on prisoner release - Atlantic.
 - 09/29 20:51 [financialjuice] Trump expressed support for the plan a few months ago - Atlantic.
 - 09/29 20:51 [financialjuice] Russia initiative is still in its early stages - Atlantic.
-- 09/29 20:53 [DeItaone] IEA'S BIROL: EUROPE IS GOING TO ENTER A VERY DIFFICULT WINTER
+- 09/29 20:53 [DeItaone/FirstSquawk] IEA'S BIROL: EUROPE IS GOING TO ENTER A VERY DIFFICULT WINTER
 - 09/29 20:54 [financialjuice] ECB's Escriva: High energy prices might anchor in inflation.
+- 09/29 20:55 [FirstSquawk] IEA'S BIROL: HOPE EUROPE AND ITS ALLIES WORK TOGETHER TO MINIMISE RISKS FACING EUROPE IN TERMS OF ENERGY SITUATION
+- 09/29 20:57 [financialjuice] ECB's Escriva: Not seeing second-round effects.
+- 09/29 21:00 [financialjuice] Secured Overnight Financing Rate 3.90% September 28th vs 3.90% September 25th.
+- 09/29 21:00 [DeItaone] PUTIN'S ENVOY DMITRIEV HAD MEETINGS WITH REPRESENTATIVES OF US DEPARTMENTS OF TREASURY, ENERGY IN WASHINGTON, SOURCES SAY
+- 09/29 21:03 [financialjuice] Morning Juice - US Session Prep (29th September)
+- 09/29 21:06 [FirstSquawk] U.S. WILL PERMIT IRAQI AIRWAYS TO CARRY IRANIAN TRAVELERS TO AND FROM NAJAF.
+- 09/29 21:07 [FirstSquawk] NORTH SEA FORTIES CRUDE LOADINGS SET AT EIGHT CARGOES IN NOV.
+- 09/29 21:09 [financialjuice] ECB's Escriva: Spain is not considering moving gold reserves.
+- 09/29 21:14 [financialjuice] IEA's Birol: Another oil stock release is not at the top of the agenda.
+- 09/29 21:16 [financialjuice] Putin Envoy met with US Treasury and Energy officials - Tass.
+- 09/29 21:16 [DeItaone] ANTHROPIC TARGETS $2 TRILLION IPO VALUATION Anthropic is reportedly targeting a valuation above $2 trillion in a potential IPO, more than double its estimated $965 billion valuation in May. Revenue surged 12-fold to nearly $4.6 billion in 2…
+- 09/29 21:17 [FirstSquawk] IEA'S BIROL: ANOTHER OIL STOCK RELEASE NOT TOP OF AGENDA
+- 09/29 21:20 [financialjuice] US VP Vance: Iran must behave for there to be any kind of deal.
+- 09/29 21:21 [financialjuice] US VP Vance: We think Iran's Supreme Leader is alive.
+- 09/29 21:21 [DeItaone] *VANCE: IRAN MUST BEHAVE FOR THERE TO BE ANY KIND OF DEAL
+- 09/29 21:22 [FirstSquawk] JD VANCE: WE THINK IRAN SUPREME LEADER IS ALIVE
+- 09/29 21:22 [FirstSquawk] JD VANCE: IRAN MUST BEHAVE FOR THERE TO BE ANY KIND OF DEAL
+- 09/29 21:23 [DeItaone] IRAN’S RIAL HITS RECORD LOW AS WAR WEIGHS ON ECONOMY Iran’s currency weakened to a fresh record low Tuesday, with traders exchanging more than 2.5 million rials per U.S. dollar, according to AP. The rial has fallen steadily since the U.S.-I…
+- 09/29 21:23 [financialjuice] US House Speaker Johnson on AI: The US can do security and innovation at the same time.
+- 09/29 21:23 [financialjuice] US House Speaker Johnson: I hope the AI meeting today will lead to agreement.
+- 09/29 21:24 [financialjuice] Oman plans to more than double oil storage capacity at Duqm.

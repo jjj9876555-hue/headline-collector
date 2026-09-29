@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-29 20:54 JST／対象: 09/28 20:54 〜 09/29 20:54 JST（時刻はすべて日本時間）
+生成: 2026-09-29 21:24 JST／対象: 09/28 21:24 〜 09/29 21:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 28 | 09/28 22:49 | 09/29 20:53 | ⚠ 1092分（02:14→20:26） |
-| FirstSquawk | 363 | 09/28 20:57 | 09/29 20:44 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 291 | 09/28 21:00 | 09/29 20:54 | ⚠ 62分（11:21→12:24） |
+| DeItaone | 32 | 09/28 22:49 | 09/29 21:23 | ⚠ 1092分（02:14→20:26） |
+| FirstSquawk | 362 | 09/28 21:25 | 09/29 21:22 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 296 | 09/28 21:25 | 09/29 21:24 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 665 行（統合前 686 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 672 行（統合前 694 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 20:57 [FirstSquawk] U.S. CENTRAL COMMAND REPORTS OVER ONE BILLION BARRELS OF OIL TRANSPORTED THROUGH THE HORMUZ STRAIT IN RECENT MONTHS.
-- 09/28 21:00 [financialjuice] Secured overnight financing rate: 3.90% September 25th vs 3.88% September 24th
-- 09/28 21:02 [FirstSquawk] US FDA OKS ABBVIE’S JUVMO FOR PARKINSON'S DISEASE
-- 09/28 21:02 [FirstSquawk] BAYER'S LYNKUET GETS FDA PRIORITY REVIEW FOR BREAST CANCER USE
-- 09/28 21:03 [financialjuice] Treasury Secretary Scott Bessent hires Wall Street economist David Zervos - CNBC.
-- 09/28 21:04 [financialjuice] ❗ Mediators expected to hold separate talks with the US and Iran on Monday or Tuesday, with Iran's Araghchi and Qatari mediators remaining in the US - Official briefed on the negotiations to
-- 09/28 21:05 [financialjuice] ❗ Talks to focus on amended version of 7-day proposal Iran presented on UNGA sidelines - Source Briefed on The Negotiations.
-- 09/28 21:06 [FirstSquawk] MEDIATORS WILL HAVE INDIVIDUAL DISCUSSIONS WITH THE US AND IRAN ON MONDAY OR TUESDAY, WITH IRAN'S ARAGHCHI AND QATARI MEDIATORS STAYING IN THE US, ACCORDING TO AN OFFICIAL BRIEFED ON THE TALKS.
-- 09/28 21:06 [FirstSquawk] TALKS WILL CENTER ON A REVISED 7-DAY PROPOSAL BY IRAN DISCUSSED AT THE UNGA, ACCORDING TO A SOURCE INFORMED ABOUT THE DISCUSSIONS.
-- 09/28 21:07 [financialjuice] Nvidia's CEO Huang: New software is a browser for agents $NVDA
-- 09/28 21:09 [FirstSquawk] NVIDIA CEO HUANG: NEW SOFTWARE IS A BROWSER FOR AGENTS - CNBC
-- 09/28 21:09 [financialjuice] Morning Juice – US Session Prep (28th September)
-- 09/28 21:22 [FirstSquawk] MANY GERMANS VIEW CHANCELLOR FRIEDRICH MERZ AS DISTANT, AGGRESSIVE, AND NOT EMPATHETIC.
-- 09/28 21:23 [FirstSquawk] HUNGARY DEBT CHIEF: EXPECTING EU FUNDS TO ARRIVE BY YEAR-END
 - 09/28 21:25 [FirstSquawk/financialjuice] IRAN REJECTS 'SPECULATIONS' ABOUT INCIDENT IN UK'S RAF FAIRFORD
 - 09/28 21:28 [FirstSquawk] TSMC'S PARTNER PLANS TO EXPAND AFTER FIRST SINGAPORE FACTORY SELLS OUT; SECOND PLANT IN THE WORKS DUE TO HIGH DEMAND FOR AI CHIPS.
 - 09/28 21:30 [FirstSquawk] OFFICIALS SAY MEDIATORS ARE STILL WORKING WITH IRAN AND THE US ON A POSSIBLE DEAL - AP
@@ -687,5 +673,26 @@
 - 09/29 20:50 [financialjuice/DeItaone] ❗ Trump backs Russia sanction relief on prisoner release - Atlantic.
 - 09/29 20:51 [financialjuice] Trump expressed support for the plan a few months ago - Atlantic.
 - 09/29 20:51 [financialjuice] Russia initiative is still in its early stages - Atlantic.
-- 09/29 20:53 [DeItaone] IEA'S BIROL: EUROPE IS GOING TO ENTER A VERY DIFFICULT WINTER
+- 09/29 20:53 [DeItaone/FirstSquawk] IEA'S BIROL: EUROPE IS GOING TO ENTER A VERY DIFFICULT WINTER
 - 09/29 20:54 [financialjuice] ECB's Escriva: High energy prices might anchor in inflation.
+- 09/29 20:55 [FirstSquawk] IEA'S BIROL: HOPE EUROPE AND ITS ALLIES WORK TOGETHER TO MINIMISE RISKS FACING EUROPE IN TERMS OF ENERGY SITUATION
+- 09/29 20:57 [financialjuice] ECB's Escriva: Not seeing second-round effects.
+- 09/29 21:00 [financialjuice] Secured Overnight Financing Rate 3.90% September 28th vs 3.90% September 25th.
+- 09/29 21:00 [DeItaone] PUTIN'S ENVOY DMITRIEV HAD MEETINGS WITH REPRESENTATIVES OF US DEPARTMENTS OF TREASURY, ENERGY IN WASHINGTON, SOURCES SAY
+- 09/29 21:03 [financialjuice] Morning Juice - US Session Prep (29th September)
+- 09/29 21:06 [FirstSquawk] U.S. WILL PERMIT IRAQI AIRWAYS TO CARRY IRANIAN TRAVELERS TO AND FROM NAJAF.
+- 09/29 21:07 [FirstSquawk] NORTH SEA FORTIES CRUDE LOADINGS SET AT EIGHT CARGOES IN NOV.
+- 09/29 21:09 [financialjuice] ECB's Escriva: Spain is not considering moving gold reserves.
+- 09/29 21:14 [financialjuice] IEA's Birol: Another oil stock release is not at the top of the agenda.
+- 09/29 21:16 [financialjuice] Putin Envoy met with US Treasury and Energy officials - Tass.
+- 09/29 21:16 [DeItaone] ANTHROPIC TARGETS $2 TRILLION IPO VALUATION Anthropic is reportedly targeting a valuation above $2 trillion in a potential IPO, more than double its estimated $965 billion valuation in May. Revenue surged 12-fold to nearly $4.6 billion in 2…
+- 09/29 21:17 [FirstSquawk] IEA'S BIROL: ANOTHER OIL STOCK RELEASE NOT TOP OF AGENDA
+- 09/29 21:20 [financialjuice] US VP Vance: Iran must behave for there to be any kind of deal.
+- 09/29 21:21 [financialjuice] US VP Vance: We think Iran's Supreme Leader is alive.
+- 09/29 21:21 [DeItaone] *VANCE: IRAN MUST BEHAVE FOR THERE TO BE ANY KIND OF DEAL
+- 09/29 21:22 [FirstSquawk] JD VANCE: WE THINK IRAN SUPREME LEADER IS ALIVE
+- 09/29 21:22 [FirstSquawk] JD VANCE: IRAN MUST BEHAVE FOR THERE TO BE ANY KIND OF DEAL
+- 09/29 21:23 [DeItaone] IRAN’S RIAL HITS RECORD LOW AS WAR WEIGHS ON ECONOMY Iran’s currency weakened to a fresh record low Tuesday, with traders exchanging more than 2.5 million rials per U.S. dollar, according to AP. The rial has fallen steadily since the U.S.-I…
+- 09/29 21:23 [financialjuice] US House Speaker Johnson on AI: The US can do security and innovation at the same time.
+- 09/29 21:23 [financialjuice] US House Speaker Johnson: I hope the AI meeting today will lead to agreement.
+- 09/29 21:24 [financialjuice] Oman plans to more than double oil storage capacity at Duqm.

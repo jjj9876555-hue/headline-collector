@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-29 20:54 JST／対象: 09/29 14:54 〜 09/29 20:54 JST（時刻はすべて日本時間）
+生成: 2026-09-29 21:24 JST／対象: 09/29 15:24 〜 09/29 21:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 11 | 09/29 20:26 | 09/29 20:53 | 5分（20:39→20:45） |
-| FirstSquawk | 98 | 09/29 14:55 | 09/29 20:44 | 30分（19:41→20:12） |
-| financialjuice | 45 | 09/29 14:58 | 09/29 20:54 | ⚠ 50分（18:30→19:20） |
+| DeItaone | 15 | 09/29 20:26 | 09/29 21:23 | 15分（21:00→21:16） |
+| FirstSquawk | 96 | 09/29 15:24 | 09/29 21:22 | 30分（19:41→20:12） |
+| financialjuice | 51 | 09/29 16:00 | 09/29 21:24 | ⚠ 50分（18:30→19:20） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 150 行（統合前 154 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 157 行（統合前 162 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 14:55 [FirstSquawk] RBA’s Bullock says multiple inflationary pressures are making the situation very difficult
-- 09/29 14:58 [financialjuice] RBA's Gov. Bullock: We are aiming to tighten in a measured way
-- 09/29 14:59 [FirstSquawk] RBA’s Bullock says the central bank is seeking measured policy tightening
-- 09/29 15:02 [FirstSquawk] SWEDEN (SEP) ECONOMIC TENDENCY SURVEY ACTUAL: 102.2 VS 105.1 PREVIOUS
-- 09/29 15:02 [FirstSquawk] SWEDEN (SEP) ECONOMIC TENDENCY SURVEY ACTUAL: 106.3 VS 98.0 PREVIOUS
-- 09/29 15:03 [financialjuice] RBA's Gov. Bullock: We're looking to schedule board meetings around ABS inflation data
-- 09/29 15:03 [financialjuice] RBA's Gov. Bullock: There is no wage price spiral in Australia
-- 09/29 15:04 [FirstSquawk] RBA’s Bullock says there is no wage-price spiral in Australia
-- 09/29 15:04 [FirstSquawk] Russian forces strike two data centres in Kyiv, Russian Defence Ministry says, IFX reports
-- 09/29 15:17 [FirstSquawk] RBA’s Bullock: Will do what is necessary with interest rates
-- 09/29 15:19 [FirstSquawk] RBA’s Bullock: Hope we can avoid needing a recession
-- 09/29 15:19 [financialjuice] RBA's Gov. Bullock: Neutral interest rate moving up in australia, globally.
-- 09/29 15:22 [FirstSquawk] RBA’s Bullock says quarterly core inflation needs to be around 0.6%
-- 09/29 15:22 [financialjuice] RBA's Gov. Bullock: We need to see quarterly core inflation numbers sitting around 0.6%.
 - 09/29 15:24 [FirstSquawk] South Korea’s Defense Minister: North Korean mine that caused explosion violated armistice agreement
 - 09/29 15:40 [FirstSquawk] South Korea Defence Minister Kang: DMZ mine appears to have been planted during North Korea’s border fortification work
 - 09/29 15:44 [FirstSquawk] South Korea’s Defence Minister Kang says DMZ mine appears linked to North Korea’s border fortification work
@@ -172,5 +158,26 @@
 - 09/29 20:50 [financialjuice/DeItaone] ❗ Trump backs Russia sanction relief on prisoner release - Atlantic.
 - 09/29 20:51 [financialjuice] Trump expressed support for the plan a few months ago - Atlantic.
 - 09/29 20:51 [financialjuice] Russia initiative is still in its early stages - Atlantic.
-- 09/29 20:53 [DeItaone] IEA'S BIROL: EUROPE IS GOING TO ENTER A VERY DIFFICULT WINTER
+- 09/29 20:53 [DeItaone/FirstSquawk] IEA'S BIROL: EUROPE IS GOING TO ENTER A VERY DIFFICULT WINTER
 - 09/29 20:54 [financialjuice] ECB's Escriva: High energy prices might anchor in inflation.
+- 09/29 20:55 [FirstSquawk] IEA'S BIROL: HOPE EUROPE AND ITS ALLIES WORK TOGETHER TO MINIMISE RISKS FACING EUROPE IN TERMS OF ENERGY SITUATION
+- 09/29 20:57 [financialjuice] ECB's Escriva: Not seeing second-round effects.
+- 09/29 21:00 [financialjuice] Secured Overnight Financing Rate 3.90% September 28th vs 3.90% September 25th.
+- 09/29 21:00 [DeItaone] PUTIN'S ENVOY DMITRIEV HAD MEETINGS WITH REPRESENTATIVES OF US DEPARTMENTS OF TREASURY, ENERGY IN WASHINGTON, SOURCES SAY
+- 09/29 21:03 [financialjuice] Morning Juice - US Session Prep (29th September)
+- 09/29 21:06 [FirstSquawk] U.S. WILL PERMIT IRAQI AIRWAYS TO CARRY IRANIAN TRAVELERS TO AND FROM NAJAF.
+- 09/29 21:07 [FirstSquawk] NORTH SEA FORTIES CRUDE LOADINGS SET AT EIGHT CARGOES IN NOV.
+- 09/29 21:09 [financialjuice] ECB's Escriva: Spain is not considering moving gold reserves.
+- 09/29 21:14 [financialjuice] IEA's Birol: Another oil stock release is not at the top of the agenda.
+- 09/29 21:16 [financialjuice] Putin Envoy met with US Treasury and Energy officials - Tass.
+- 09/29 21:16 [DeItaone] ANTHROPIC TARGETS $2 TRILLION IPO VALUATION Anthropic is reportedly targeting a valuation above $2 trillion in a potential IPO, more than double its estimated $965 billion valuation in May. Revenue surged 12-fold to nearly $4.6 billion in 2…
+- 09/29 21:17 [FirstSquawk] IEA'S BIROL: ANOTHER OIL STOCK RELEASE NOT TOP OF AGENDA
+- 09/29 21:20 [financialjuice] US VP Vance: Iran must behave for there to be any kind of deal.
+- 09/29 21:21 [financialjuice] US VP Vance: We think Iran's Supreme Leader is alive.
+- 09/29 21:21 [DeItaone] *VANCE: IRAN MUST BEHAVE FOR THERE TO BE ANY KIND OF DEAL
+- 09/29 21:22 [FirstSquawk] JD VANCE: WE THINK IRAN SUPREME LEADER IS ALIVE
+- 09/29 21:22 [FirstSquawk] JD VANCE: IRAN MUST BEHAVE FOR THERE TO BE ANY KIND OF DEAL
+- 09/29 21:23 [DeItaone] IRAN’S RIAL HITS RECORD LOW AS WAR WEIGHS ON ECONOMY Iran’s currency weakened to a fresh record low Tuesday, with traders exchanging more than 2.5 million rials per U.S. dollar, according to AP. The rial has fallen steadily since the U.S.-I…
+- 09/29 21:23 [financialjuice] US House Speaker Johnson on AI: The US can do security and innovation at the same time.
+- 09/29 21:23 [financialjuice] US House Speaker Johnson: I hope the AI meeting today will lead to agreement.
+- 09/29 21:24 [financialjuice] Oman plans to more than double oil storage capacity at Duqm.
