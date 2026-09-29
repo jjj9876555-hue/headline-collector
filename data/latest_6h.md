@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-30 01:48 JST／対象: 09/29 19:48 〜 09/30 01:48 JST（時刻はすべて日本時間）
+生成: 2026-09-30 02:01 JST／対象: 09/29 20:01 〜 09/30 02:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 59 | 09/29 20:26 | 09/30 01:45 | 35分（21:39→22:14） |
-| FirstSquawk | 91 | 09/29 20:12 | 09/30 01:44 | 27分（00:53→01:20） |
-| financialjuice | 132 | 09/29 19:54 | 09/30 01:48 | ⚠ 50分（22:45→23:36） |
+| DeItaone | 60 | 09/29 20:26 | 09/30 01:58 | 35分（21:39→22:14） |
+| FirstSquawk | 95 | 09/29 20:12 | 09/30 02:00 | 27分（00:53→01:20） |
+| financialjuice | 136 | 09/29 20:14 | 09/30 01:58 | ⚠ 50分（22:45→23:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 266 行（統合前 284 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 274 行（統合前 294 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 19:54 [financialjuice] Qatar Foreign Ministry Spokesman: Exchanging messages, possible solutions with US-Iran.
 - 09/29 20:12 [FirstSquawk] ELI LILLY: ZEPBOUND ACHIEVES 20.2% WEIGHT REDUCTION VS 13.7% FOR WEGOVY AT 72 WEEKS
 - 09/29 20:14 [financialjuice/FirstSquawk] Rosatom, Iran discuss options to build new nuclear plants - Tass
 - 09/29 20:23 [FirstSquawk] DEUTSCHE BANK RAISES NETFLIX TO BUY FROM HOLD; CUTS TARGET PRICE TO $95 FROM $100
@@ -290,3 +289,12 @@
 - 09/30 01:45 [DeItaone] TRUMP ADMINISTRATION SAYS SEVERAL EU MEMBER COUNTRIES HAVE NOT RELEASED AS MUCH OIL AND REFINED PRODUCTS FROM RESERVES AS THEY PROMISED
 - 09/30 01:45 [financialjuice] ❗ Trump Administration: Several EU member countries have not released as much oil and refined products from reserves as they promised.
 - 09/30 01:48 [financialjuice] Iran's Major General Rezai: We have stated our conditions, but Trump is incapable of making decisions - IRIB News
+- 09/30 01:49 [financialjuice] BoE's Taylor: I don't know if BoE can do a single insurance hike that would not be misinterpreted as start of a series.
+- 09/30 01:51 [financialjuice] Iran's Major General Rezai: Iran is ready to help establish peace in Caucasus but US has no future in region and Iran stands firmly against it.
+- 09/30 01:52 [FirstSquawk] TRUMP ADMIN.: SEVERAL EU MEMBER COUNTRIES HAVEN’T RELEASED AS MUCH OIL & REFINED PRODUCTS FROM RESERVES AS PROMISED
+- 09/30 01:55 [financialjuice] UK Police: No explosive devices found at Fairford airbase.
+- 09/30 01:57 [financialjuice/FirstSquawk] OpenAI ignored employees who warned it wasn’t doing enough - NYT
+- 09/30 01:57 [FirstSquawk] OPENAI EMPLOYEES RAISED ALARM WITH TOP EXECUTIVES: NYT
+- 09/30 01:58 [financialjuice] WATCH LIVE: Fed's Goolsbee Speaks 1 PM ET
+- 09/30 01:58 [DeItaone] BITCOIN TRADERS PILE INTO $90K+ CALLS Bitcoin is trading around $83,238, but options traders are increasingly positioning for a move above $90,000, with $95,000 and $100,000 also popular strikes. Institutional flows are improving too: Bitco…
+- 09/30 02:00 [FirstSquawk] ALTMAN NOT CLOSELY INVOLVED IN SECURITY, EMPLOYEES SAID: NYT
