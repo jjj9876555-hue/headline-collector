@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-29 19:39 JST／対象: 09/28 19:39 〜 09/29 19:39 JST（時刻はすべて日本時間）
+生成: 2026-09-29 19:55 JST／対象: 09/28 19:55 〜 09/29 19:55 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 27 | 09/28 19:40 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 370 | 09/28 19:40 | 09/29 19:34 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 304 | 09/28 19:41 | 09/29 19:33 | ⚠ 62分（11:21→12:24） |
+| DeItaone | 23 | 09/28 20:00 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
+| FirstSquawk | 369 | 09/28 19:57 | 09/29 19:41 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 300 | 09/28 20:00 | 09/29 19:54 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 685 行（統合前 705 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 677 行（統合前 696 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 19:40 [DeItaone] IRAN'S SUPREME LEADER MOJTABA KHAMENEI SAYS 'ENEMY FORCES' DO NOT DARE ENTER GULF AND THE ARABIAN SEA WOULD SOON BE CLEARED OF 'ENEMIES' - STATEMENT
-- 09/28 19:40 [FirstSquawk] IRAN'S SUPREME LEADER MOJTABA KHAMENEI SAYS 'ENEMY FORCES' DO NOT DARE ENTER GULF AND THE ARABIAN SEA WOULD SOON BE CLEARED OF 'ENEMIES'
-- 09/28 19:41 [financialjuice] Iran's supreme leader, Mojtaba Khamenei: Enemy forces do not dare enter the Gulf, and the Arabian Sea would soon be cleared of 'enemies' - Statement
-- 09/28 19:43 [financialjuice/FirstSquawk] China Cabinet Meeting: Should step up counter-cyclical adjustments in macroeconomic policy - State radio
-- 09/28 19:43 [financialjuice] China Cabinet Meeting: Should accelerate the pace of issuance and use of various types of bonds.
-- 09/28 19:44 [financialjuice] China to study policies to stabilize the property market - Radio
-- 09/28 19:44 [DeItaone] $SPCX : CLSA INITIATES SPACEX AT ACCUMULATE - PT $250
-- 09/28 19:46 [financialjuice] BoE's Ramsden: Wanted QT even further into the background
-- 09/28 19:48 [FirstSquawk] MERCK ENTERS INTO EXCLUSIVE GLOBAL LICENSE AGREEMENT WITH SCIBRUNCH THERAPEUTICS FOR SPR2015, AN INVESTIGATIONAL ORAL KRAS G12D (ON) INHIBITOR (DESIGNED TO BLOCK THE KRAS G12D GENE MUTATION THAT CAUSES TUMOURS TO GROW IN CANCERS LIKE PANCRE…
-- 09/28 19:52 [DeItaone] S&P 500 BREADTH FALLS TO DOT-COM ERA LOW Goldman Sachs says AI stocks are masking extreme weakness beneath the S&P 500, with market breadth falling to its lowest level since the dot-com bubble. The median S&P 500 stock now trades 16% below …
-- 09/28 19:53 [financialjuice] UK Business Secretary Reynolds: Industrial strategy is about inventing and making in the UK
-- 09/28 19:55 [DeItaone] EU'S KALLAS: EUROPE NEEDS TO REARM MORE QUICKLY AND MORE EFFECTIVELY TO MEET OUR 2030 TARGET
 - 09/28 19:57 [FirstSquawk] EU FOREIGN POLICY CHIEF STATES EUROPE MUST INCREASE ARMAMENT SPEED AND EFFECTIVENESS TO REACH OBJECTIVES BY 2030.
 - 09/28 19:59 [FirstSquawk] UK AUTHORITIES INCREASED SECURITY AT A US-USED AIRBASE DUE TO RISING THREATS AND SUCCESSFULLY FOILED AN ATTACK ATTEMPT, SOURCES REVEAL.
 - 09/28 20:00 [financialjuice] Nvidia announces a $150b share buyback authorization boost $NVDA
@@ -709,3 +697,7 @@
 - 09/29 19:29 [FirstSquawk] RUSSIAN FOREIGN MINISTER LAVROV ON WEST'S ACCUSATIONS OF RUSSIA WAGING HYBRID WAR IN EUROPE: NO DOUBT EUROPE IS WAGING WAR AGAINST RUSSIA
 - 09/29 19:33 [financialjuice] UK Navy: Vessel struck by projectile in Hormuz September 28.
 - 09/29 19:34 [FirstSquawk] UKMTO: GETS TIME-LATE REPORT OF INCIDENT IN HORMUZ
+- 09/29 19:39 [FirstSquawk] SAUDI CIVIL DEFENCE SAYS DANGER HAS PASSED
+- 09/29 19:41 [FirstSquawk] IRAN'S FOREIGN MINISTER STATED THAT A SEVEN-POINT PLAN FROM TEHRAN WAS SHARED WITH WASHINGTON VIA QATAR, AND IRAN IS NOW WAITING FOR AN OFFICIAL RESPONSE FROM THE U.S.
+- 09/29 19:42 [financialjuice] Italy's Energy Minister: Will speak with US Energy Secretary Wright later on Tuesday, will ask about potential US diesel export ban.
+- 09/29 19:54 [financialjuice] Qatar Foreign Ministry Spokesman: Exchanging messages, possible solutions with US-Iran.

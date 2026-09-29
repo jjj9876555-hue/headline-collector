@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-29 19:39 JST／対象: 09/29 13:39 〜 09/29 19:39 JST（時刻はすべて日本時間）
+生成: 2026-09-29 19:55 JST／対象: 09/29 13:55 〜 09/29 19:55 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 109 | 09/29 13:44 | 09/29 19:34 | 24分（18:30→18:55） |
-| financialjuice | 46 | 09/29 14:00 | 09/29 19:33 | ⚠ 50分（18:30→19:20） |
+| FirstSquawk | 107 | 09/29 14:01 | 09/29 19:41 | 24分（18:30→18:55） |
+| financialjuice | 48 | 09/29 14:00 | 09/29 19:54 | ⚠ 50分（18:30→19:20） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 154 行（統合前 155 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,10 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 13:44 [FirstSquawk] Vietnam banks’ capitalisation seen steady as $5.7 billion capital drive progresses, Fitch says
-- 09/29 13:47 [FirstSquawk] Novo Nordisk to pay $300 million upfront for global rights to Hengrui’s HRS-1596, deal worth up to $2.6 billion
-- 09/29 13:48 [FirstSquawk] Etihad to fly twice daily between Abu Dhabi and Sydney starting Dec. 15
-- 09/29 13:54 [FirstSquawk] US, China unveil $60 billion in nonsensitive products targeted for tariff cuts after Trump-Xi meeting
 - 09/29 14:00 [financialjuice] Alphabet’s Google challenges EU orders to open up AI search-engine rivals, company says
 - 09/29 14:01 [FirstSquawk] JAPAN (JUL) LEADING INDEX CI ACTUAL: 117.7 VS 117.9 PREVIOUS
 - 09/29 14:01 [FirstSquawk] JAPAN (JUL) COINCIDENT INDEX ACTUAL: 120.6 VS 120.6 PREVIOUS
@@ -178,3 +174,7 @@
 - 09/29 19:29 [FirstSquawk] RUSSIAN FOREIGN MINISTER LAVROV ON WEST'S ACCUSATIONS OF RUSSIA WAGING HYBRID WAR IN EUROPE: NO DOUBT EUROPE IS WAGING WAR AGAINST RUSSIA
 - 09/29 19:33 [financialjuice] UK Navy: Vessel struck by projectile in Hormuz September 28.
 - 09/29 19:34 [FirstSquawk] UKMTO: GETS TIME-LATE REPORT OF INCIDENT IN HORMUZ
+- 09/29 19:39 [FirstSquawk] SAUDI CIVIL DEFENCE SAYS DANGER HAS PASSED
+- 09/29 19:41 [FirstSquawk] IRAN'S FOREIGN MINISTER STATED THAT A SEVEN-POINT PLAN FROM TEHRAN WAS SHARED WITH WASHINGTON VIA QATAR, AND IRAN IS NOW WAITING FOR AN OFFICIAL RESPONSE FROM THE U.S.
+- 09/29 19:42 [financialjuice] Italy's Energy Minister: Will speak with US Energy Secretary Wright later on Tuesday, will ask about potential US diesel export ban.
+- 09/29 19:54 [financialjuice] Qatar Foreign Ministry Spokesman: Exchanging messages, possible solutions with US-Iran.
