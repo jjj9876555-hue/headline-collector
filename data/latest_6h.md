@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-29 22:08 JST／対象: 09/29 16:08 〜 09/29 22:08 JST（時刻はすべて日本時間）
+生成: 2026-09-29 22:31 JST／対象: 09/29 16:31 〜 09/29 22:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 18 | 09/29 20:26 | 09/29 21:39 | 15分（21:00→21:16） |
-| FirstSquawk | 91 | 09/29 16:10 | 09/29 22:06 | 30分（19:41→20:12） |
-| financialjuice | 58 | 09/29 16:13 | 09/29 22:02 | ⚠ 50分（18:30→19:20） |
+| DeItaone | 21 | 09/29 20:26 | 09/29 22:30 | 35分（21:39→22:14） |
+| FirstSquawk | 93 | 09/29 16:36 | 09/29 22:29 | 30分（19:41→20:12） |
+| financialjuice | 59 | 09/29 16:39 | 09/29 22:28 | ⚠ 50分（18:30→19:20） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 158 行（統合前 167 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 164 行（統合前 173 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 16:10 [FirstSquawk] BRITAIN'S FTSE 100 UP 0.18% || FRANCE'S CAC 40 UP 0.05% || SPAIN'S IBEX UP 0.26% || GERMANY'S DAX UP 0.08%
-- 09/29 16:10 [FirstSquawk] NHTSA HAS CLOSED A DEFECT PETITION REGARDING 806,963 HONDA ODYSSEY VEHICLES IN THE U.S. DUE TO AIRBAGS DEPLOYING UNINTENTIONALLY WHILE DRIVING.
-- 09/29 16:11 [FirstSquawk] NHTSA ENDS INITIAL REVIEW OF 1,076,999 CHRYSLER CARS DUE TO UNDERHOOD FIRES WHEN VEHICLES ARE TURNED OFF.
-- 09/29 16:13 [financialjuice] Iran's Revolutionary Guards Spokesperson: Trump is 'a big liar’, US people need to be told the truth.
-- 09/29 16:14 [FirstSquawk] IRAN'S REVOLUTIONARY GUARDS SPOKESPERSON CALLS TRUMP 'A BIG LIAR' AND SAYS US CITIZENS DESERVE THE TRUTH.
-- 09/29 16:25 [financialjuice] Iran's IRGC Spokesperson: US has no other choice but to declare failure and leave the region.
-- 09/29 16:26 [FirstSquawk] IRAN'S IRGC SPOKESPERSON CLAIMS US MUST ADMIT DEFEAT AND EXIT THE REGION.
 - 09/29 16:36 [FirstSquawk] SPANISH ENERGY MINISTER AAGESEN SAYS SPAIN, PORTUGAL, LUXEMBOURG SENT A LETTER ASKING COMMISSION FOR A NEW TARGET OF RENEWABLE ENERGY CAPACITY
 - 09/29 16:39 [financialjuice/FirstSquawk] Iran's Parliament Speaker Qalibaf: No one in the region shall sell its oil if Iran cannot sell its oil, if Iran has no security then no regional infrastructure shall be safe - State Media
 - 09/29 16:47 [FirstSquawk] SPANISH ENERGY MINISTER AAGESEN SUGGESTS THAT THE EU SHOULD CONSIDER MEASURES TO HARNESS WINDFALL PROFITS DUE TO HIGH ENERGY PRICES.
@@ -182,3 +175,16 @@
 - 09/29 22:00 [FirstSquawk] US FHFA HOUSE PRICE INDEX (M/M) JUL: 0.3% (EST 0.1%; PREV 0.0%)
 - 09/29 22:02 [financialjuice] US Case-Shiller July Report
 - 09/29 22:06 [FirstSquawk] EU: NO TALKS PLANNED TO RENEGOTIATE UKRAINE EXPORT QUOTAS
+- 09/29 22:12 [FirstSquawk] LITHUANIA PREMIER 'READY TO PAY' FOR PERMANENT US DEPLOYMENT
+- 09/29 22:13 [FirstSquawk] SEC: WON'T RECOMMEND ACTION ON TESLA RETAIL VOTING PROGRAM
+- 09/29 22:13 [FirstSquawk] JEFFERIES CUTS HERMES TARGET PRICE TO EUR 1,600 FROM EUR 2,000
+- 09/29 22:14 [DeItaone] CITADEL’S RUBNER SEES BETTER SETUP FOR STOCKS IN OCTOBER Citadel Securities’ Scott Rubner expects equity market conditions to improve in October as quarter-end selling ends and historically favorable midterm-election seasonality begins. He …
+- 09/29 22:14 [financialjuice] UK PM Burnham: I will make a break and put Britain on a new path with a new economy.
+- 09/29 22:16 [DeItaone] $NFLX - DEUTSCHE BANK UPGRADES NETFLIX TO BUY Deutsche Bank upgraded Netflix to Buy from Hold, citing its global scale, international production advantage and attractive valuation. The bank lowered its price target to $95 from $100. Netflix…
+- 09/29 22:18 [FirstSquawk] UK PM BURNHAM: MORE CONTROL OF THE BASICS
+- 09/29 22:21 [financialjuice] UAE Vice President meets with the Saudi Defence Minister in Riyadh - WAM.
+- 09/29 22:23 [FirstSquawk] BURNHAM: BILL FOR LEASEHOLD REFORM BEFORE CHRISTMAS
+- 09/29 22:28 [financialjuice] UK's PM Burnham: We are reforming the energy market.
+- 09/29 22:29 [FirstSquawk] UK SEEKS TO REPEAL BAN ON PUBLIC OWNERSHIP OF WATER COMPANIES
+- 09/29 22:29 [FirstSquawk] UK AIMS TO LIFT RESTRICTION ON PUBLIC CONTROL OF WATER FIRMS.
+- 09/29 22:30 [DeItaone] GENSLER WARNS CHINESE AI MODELS POSE CHALLENGE TO U.S. FIRMS Former SEC Chair Gary Gensler says competition from Chinese AI models complicates efforts to impose stronger safeguards on advanced AI. He also questioned whether the enormous spe…

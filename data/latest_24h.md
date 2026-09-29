@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-29 22:08 JST／対象: 09/28 22:08 〜 09/29 22:08 JST（時刻はすべて日本時間）
+生成: 2026-09-29 22:31 JST／対象: 09/28 22:31 〜 09/29 22:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 35 | 09/28 22:49 | 09/29 21:39 | ⚠ 1092分（02:14→20:26） |
-| FirstSquawk | 362 | 09/28 22:11 | 09/29 22:06 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 301 | 09/28 22:19 | 09/29 22:02 | ⚠ 62分（11:21→12:24） |
+| DeItaone | 38 | 09/28 22:49 | 09/29 22:30 | ⚠ 1092分（02:14→20:26） |
+| FirstSquawk | 366 | 09/28 22:31 | 09/29 22:29 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 300 | 09/28 22:31 | 09/29 22:28 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 677 行（統合前 701 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 683 行（統合前 707 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 22:11 [FirstSquawk] TRUMP ADMINISTRATION ENDS FUEL ECONOMY CREDIT TRADING IN 2028
-- 09/28 22:12 [FirstSquawk] SPACEX: GO-AHEAD GIVEN FOR STARSHIP ORBIT ATTEMPT DESPITE ENGINE GOING OUT
-- 09/28 22:19 [financialjuice] Trump's 2PM announcement will be on Iowa steel project - Official
-- 09/28 22:25 [financialjuice] Total CEO: About 10M b/d going through Hormuz
-- 09/28 22:27 [FirstSquawk] LULA SEEN WITH 39%, BOLSONARO 34% OF VOTES IN 1ST ROUND POLL - QUAEST
-- 09/28 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -85.5 MLN NASDAQ 100: -8.3 MLN DOW 30: -7.7 MLN MAG 7: -4.5 MLN $MACRO
-- 09/28 22:31 [financialjuice] ECB's President Lagarde: Growth was broad-based across most countries and sectors, pattern expected to have continued in Q3
 - 09/28 22:31 [FirstSquawk] MONGODB SHARES DROP 26% AFTER CEO RESIGNS TO JOIN META.
 - 09/28 22:31 [financialjuice] ECB's President Lagarde: Manufacturing is performing solidly, the labour market remains robust.
 - 09/28 22:31 [financialjuice] ECB's President Lagarde: The outlook continues to be surrounded by high uncertainty
@@ -701,3 +694,16 @@
 - 09/29 22:00 [FirstSquawk] US FHFA HOUSE PRICE INDEX (M/M) JUL: 0.3% (EST 0.1%; PREV 0.0%)
 - 09/29 22:02 [financialjuice] US Case-Shiller July Report
 - 09/29 22:06 [FirstSquawk] EU: NO TALKS PLANNED TO RENEGOTIATE UKRAINE EXPORT QUOTAS
+- 09/29 22:12 [FirstSquawk] LITHUANIA PREMIER 'READY TO PAY' FOR PERMANENT US DEPLOYMENT
+- 09/29 22:13 [FirstSquawk] SEC: WON'T RECOMMEND ACTION ON TESLA RETAIL VOTING PROGRAM
+- 09/29 22:13 [FirstSquawk] JEFFERIES CUTS HERMES TARGET PRICE TO EUR 1,600 FROM EUR 2,000
+- 09/29 22:14 [DeItaone] CITADEL’S RUBNER SEES BETTER SETUP FOR STOCKS IN OCTOBER Citadel Securities’ Scott Rubner expects equity market conditions to improve in October as quarter-end selling ends and historically favorable midterm-election seasonality begins. He …
+- 09/29 22:14 [financialjuice] UK PM Burnham: I will make a break and put Britain on a new path with a new economy.
+- 09/29 22:16 [DeItaone] $NFLX - DEUTSCHE BANK UPGRADES NETFLIX TO BUY Deutsche Bank upgraded Netflix to Buy from Hold, citing its global scale, international production advantage and attractive valuation. The bank lowered its price target to $95 from $100. Netflix…
+- 09/29 22:18 [FirstSquawk] UK PM BURNHAM: MORE CONTROL OF THE BASICS
+- 09/29 22:21 [financialjuice] UAE Vice President meets with the Saudi Defence Minister in Riyadh - WAM.
+- 09/29 22:23 [FirstSquawk] BURNHAM: BILL FOR LEASEHOLD REFORM BEFORE CHRISTMAS
+- 09/29 22:28 [financialjuice] UK's PM Burnham: We are reforming the energy market.
+- 09/29 22:29 [FirstSquawk] UK SEEKS TO REPEAL BAN ON PUBLIC OWNERSHIP OF WATER COMPANIES
+- 09/29 22:29 [FirstSquawk] UK AIMS TO LIFT RESTRICTION ON PUBLIC CONTROL OF WATER FIRMS.
+- 09/29 22:30 [DeItaone] GENSLER WARNS CHINESE AI MODELS POSE CHALLENGE TO U.S. FIRMS Former SEC Chair Gary Gensler says competition from Chinese AI models complicates efforts to impose stronger safeguards on advanced AI. He also questioned whether the enormous spe…
