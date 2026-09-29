@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-29 19:21 JST／対象: 09/28 19:21 〜 09/29 19:21 JST（時刻はすべて日本時間）
+生成: 2026-09-29 19:39 JST／対象: 09/28 19:39 〜 09/29 19:39 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 28 | 09/28 19:34 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 368 | 09/28 19:25 | 09/29 19:19 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 304 | 09/28 19:29 | 09/29 19:20 | ⚠ 62分（11:21→12:24） |
+| DeItaone | 27 | 09/28 19:40 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
+| FirstSquawk | 370 | 09/28 19:40 | 09/29 19:34 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 304 | 09/28 19:41 | 09/29 19:33 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 684 行（統合前 704 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 685 行（統合前 705 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 19:25 [FirstSquawk] EU COMMISSION SPOKESPERSON: COMMISSION PLANS TO PROPOSE A POSTPONEMENT OF THE ENTRY INTO FORCE OF THE METHANE REGULATION
-- 09/28 19:29 [financialjuice] EU Commission spokesperson: Commission plans to propose a postponement of the entry into force of the methane regulation, we are now working on this at a technical level
-- 09/28 19:34 [DeItaone] LOUD EXPLOSION WAS HEARD IN CENTRAL KYIV, REUTERS WITNESSES SAY
-- 09/28 19:35 [FirstSquawk] LOUD EXPLOSION HEARD IN CENTRAL KYIV
 - 09/28 19:40 [DeItaone] IRAN'S SUPREME LEADER MOJTABA KHAMENEI SAYS 'ENEMY FORCES' DO NOT DARE ENTER GULF AND THE ARABIAN SEA WOULD SOON BE CLEARED OF 'ENEMIES' - STATEMENT
 - 09/28 19:40 [FirstSquawk] IRAN'S SUPREME LEADER MOJTABA KHAMENEI SAYS 'ENEMY FORCES' DO NOT DARE ENTER GULF AND THE ARABIAN SEA WOULD SOON BE CLEARED OF 'ENEMIES'
 - 09/28 19:41 [financialjuice] Iran's supreme leader, Mojtaba Khamenei: Enemy forces do not dare enter the Gulf, and the Arabian Sea would soon be cleared of 'enemies' - Statement
@@ -708,3 +704,8 @@
 - 09/29 19:18 [FirstSquawk] IRANIAN ARMY SPOKESPERSON ANNOUNCED A 10 BILLION TOMAN REWARD FOR ANY IRANIAN WHO CAPTURES AN AMERICAN SOLDIER, DEAD OR ALIVE.
 - 09/29 19:19 [FirstSquawk] HOUSE DEMOCRATS DEMAND TECH CEOS GIVE INFO ON ROGUE AI:POLITICO
 - 09/29 19:20 [financialjuice] Three House Democrats penned letter to tech CEOs (Altman, Amodei, Musk) - Politico
+- 09/29 19:26 [FirstSquawk] PEPSICO CUT TO NEUTRAL AT JPMORGAN; PT $138
+- 09/29 19:28 [FirstSquawk] VOLKSWAGEN TO SHOW HIT FROM UK MOTOR FINANCE SCHEME: SKY
+- 09/29 19:29 [FirstSquawk] RUSSIAN FOREIGN MINISTER LAVROV ON WEST'S ACCUSATIONS OF RUSSIA WAGING HYBRID WAR IN EUROPE: NO DOUBT EUROPE IS WAGING WAR AGAINST RUSSIA
+- 09/29 19:33 [financialjuice] UK Navy: Vessel struck by projectile in Hormuz September 28.
+- 09/29 19:34 [FirstSquawk] UKMTO: GETS TIME-LATE REPORT OF INCIDENT IN HORMUZ

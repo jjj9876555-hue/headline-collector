@@ -7,57 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-29 19:21 JST／対象: 09/29 13:21 〜 09/29 19:21 JST（時刻はすべて日本時間）
+生成: 2026-09-29 19:39 JST／対象: 09/29 13:39 〜 09/29 19:39 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 124 | 09/29 13:33 | 09/29 19:19 | 24分（18:30→18:55） |
-| financialjuice | 60 | 09/29 13:30 | 09/29 19:20 | ⚠ 50分（18:30→19:20） |
+| FirstSquawk | 109 | 09/29 13:44 | 09/29 19:34 | 24分（18:30→18:55） |
+| financialjuice | 46 | 09/29 14:00 | 09/29 19:33 | ⚠ 50分（18:30→19:20） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 183 行（統合前 184 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 154 行（統合前 155 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 13:30 [financialjuice] ‼ BREAKING: RBA CASH RATE ACTUAL 4.6% (FORECAST 4.6%, PREVIOUS 4.35%) $MACRO
-- 09/29 13:30 [financialjuice] Reserve Bank of Australia at its meeting today raises cash rate target by 25 basis points to 4.60%
-- 09/29 13:31 [financialjuice] Reserve Bank of Australia sets cash rate at 4.60%
-- 09/29 13:31 [financialjuice] RBA: inflation stays high as some upside risks flagged in August emerge
-- 09/29 13:31 [financialjuice] RBA: three cash rate hikes since start of year tighten financial conditions as economy shows signs of slowing
-- 09/29 13:31 [financialjuice] Rba: short-term inflation expectations stay elevated
-- 09/29 13:31 [financialjuice] RBA: inflation remains elevated, board decides further financial tightening needed to ensure inflation returns to target
-- 09/29 13:31 [financialjuice] RBA: recent inflation results in Australia exceeded expectations from previous meeting
-- 09/29 13:31 [financialjuice] RBA: board will continue necessary measures to bring inflation sustainably back to target, including raising cash rate further if needed
-- 09/29 13:31 [financialjuice] RBA: monetary policy is well positioned to address developments, board focused on mandate for price stability and full employment
-- 09/29 13:31 [financialjuice] RBA: labour market conditions have generally eased as expected in recent months, with leading indicators broadly stable
-- 09/29 13:31 [financialjuice] RBA: some of the upside risks to inflation are emerging since the previous meeting
-- 09/29 13:31 [financialjuice] RBA: uncertainties remain elevated about outlook for domestic economic activity and inflation
-- 09/29 13:31 [financialjuice] DUTCH MANUFACTURING CONFIDENCE ACTUAL 4.2 (FORECAST -, PREVIOUS 3.7) $MACRO
-- 09/29 13:31 [financialjuice] RBA: Middle East conflict remains unresolved, with scenarios of higher inflation and lower activity than forecast
-- 09/29 13:33 [FirstSquawk] Australia’s benchmark ASX 200 slips 0.1% after CBA raises rates
-- 09/29 13:33 [FirstSquawk] Australia’s RBA lifts cash rate target to 4.60% with 25bp hike, as expected
-- 09/29 13:34 [FirstSquawk] Australian dollar climbs to $0.7026 after RBA hikes interest rates
-- 09/29 13:35 [FirstSquawk] Toyota’s parent-only Japan production declines 1.7% y/y to 204,487 vehicles in August
-- 09/29 13:35 [FirstSquawk] Toyota’s parent-only global vehicle sales drop 6.4% y/y to 790,743 units in August
-- 09/29 13:35 [FirstSquawk] Toyota’s parent-only overseas production drops 7.6% y/y to 496,373 vehicles in August
-- 09/29 13:36 [FirstSquawk] Toyota’s parent-only global production drops 5.9% y/y to 700,860 vehicles in August
-- 09/29 13:38 [FirstSquawk] RBA: Price pressures stay stubbornly persistent, with previously identified August upside risks increasingly turning into reality.
-- 09/29 13:38 [FirstSquawk] RBA: Expanding Middle East hostilities have driven worldwide fuel and power costs well past earlier August projections.
-- 09/29 13:38 [FirstSquawk] RBA: This year's trio of rate hikes has constrained overall credit conditions, visibly sapping momentum from the broader economy.
-- 09/29 13:38 [FirstSquawk] RBA: Near-term public and market inflation forecasts continue to track uncomfortably high.
-- 09/29 13:38 [FirstSquawk] RBA: Given that inflation remains unacceptably steep, policymakers concluded that additional monetary tightening is necessary to restore target levels within an acceptable timeframe.
-- 09/29 13:38 [FirstSquawk] RBA: Domestic inflation prints since the last review have consistently outpaced internal forecasts.
-- 09/29 13:38 [FirstSquawk] RBA: The central bank will implement whatever measures are required to pull inflation back to the target band permanently, not ruling out additional rate hikes.
-- 09/29 13:38 [FirstSquawk] RBA: Current policy settings are flexible enough to absorb shifting economic conditions as officials balance price stability against maximum employment goals.
-- 09/29 13:39 [FirstSquawk] RBA: Hiring demand and employment metrics have cooled generally in step with expectations, while forward-looking job market indicators remain steady.
-- 09/29 13:39 [FirstSquawk] RBA: Price-growth risks have steadily tilted upward since the previous policy gathering.
-- 09/29 13:39 [FirstSquawk] RBA: Serious doubts still cloud the future path of local economic growth and consumer price pressures.
-- 09/29 13:39 [FirstSquawk] RBA: Ongoing turmoil across the Middle East leaves open the possibility of stagflationary pressures—namely hotter inflation alongside weaker output.
 - 09/29 13:44 [FirstSquawk] Vietnam banks’ capitalisation seen steady as $5.7 billion capital drive progresses, Fitch says
 - 09/29 13:47 [FirstSquawk] Novo Nordisk to pay $300 million upfront for global rights to Hengrui’s HRS-1596, deal worth up to $2.6 billion
 - 09/29 13:48 [FirstSquawk] Etihad to fly twice daily between Abu Dhabi and Sydney starting Dec. 15
@@ -207,3 +173,8 @@
 - 09/29 19:18 [FirstSquawk] IRANIAN ARMY SPOKESPERSON ANNOUNCED A 10 BILLION TOMAN REWARD FOR ANY IRANIAN WHO CAPTURES AN AMERICAN SOLDIER, DEAD OR ALIVE.
 - 09/29 19:19 [FirstSquawk] HOUSE DEMOCRATS DEMAND TECH CEOS GIVE INFO ON ROGUE AI:POLITICO
 - 09/29 19:20 [financialjuice] Three House Democrats penned letter to tech CEOs (Altman, Amodei, Musk) - Politico
+- 09/29 19:26 [FirstSquawk] PEPSICO CUT TO NEUTRAL AT JPMORGAN; PT $138
+- 09/29 19:28 [FirstSquawk] VOLKSWAGEN TO SHOW HIT FROM UK MOTOR FINANCE SCHEME: SKY
+- 09/29 19:29 [FirstSquawk] RUSSIAN FOREIGN MINISTER LAVROV ON WEST'S ACCUSATIONS OF RUSSIA WAGING HYBRID WAR IN EUROPE: NO DOUBT EUROPE IS WAGING WAR AGAINST RUSSIA
+- 09/29 19:33 [financialjuice] UK Navy: Vessel struck by projectile in Hormuz September 28.
+- 09/29 19:34 [FirstSquawk] UKMTO: GETS TIME-LATE REPORT OF INCIDENT IN HORMUZ

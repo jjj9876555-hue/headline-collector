@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-29 19:21 JST／対象: 09/29 07:21 〜 09/29 19:21 JST（時刻はすべて日本時間）
+生成: 2026-09-29 19:39 JST／対象: 09/29 07:39 〜 09/29 19:39 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 219 | 09/29 07:40 | 09/29 19:19 | ⚠ 57分（07:48→08:46） |
-| financialjuice | 102 | 09/29 07:45 | 09/29 19:20 | ⚠ 62分（11:21→12:24） |
+| FirstSquawk | 223 | 09/29 07:40 | 09/29 19:34 | ⚠ 57分（07:48→08:46） |
+| financialjuice | 103 | 09/29 07:45 | 09/29 19:33 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 320 行（統合前 321 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 325 行（統合前 326 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -344,3 +344,8 @@
 - 09/29 19:18 [FirstSquawk] IRANIAN ARMY SPOKESPERSON ANNOUNCED A 10 BILLION TOMAN REWARD FOR ANY IRANIAN WHO CAPTURES AN AMERICAN SOLDIER, DEAD OR ALIVE.
 - 09/29 19:19 [FirstSquawk] HOUSE DEMOCRATS DEMAND TECH CEOS GIVE INFO ON ROGUE AI:POLITICO
 - 09/29 19:20 [financialjuice] Three House Democrats penned letter to tech CEOs (Altman, Amodei, Musk) - Politico
+- 09/29 19:26 [FirstSquawk] PEPSICO CUT TO NEUTRAL AT JPMORGAN; PT $138
+- 09/29 19:28 [FirstSquawk] VOLKSWAGEN TO SHOW HIT FROM UK MOTOR FINANCE SCHEME: SKY
+- 09/29 19:29 [FirstSquawk] RUSSIAN FOREIGN MINISTER LAVROV ON WEST'S ACCUSATIONS OF RUSSIA WAGING HYBRID WAR IN EUROPE: NO DOUBT EUROPE IS WAGING WAR AGAINST RUSSIA
+- 09/29 19:33 [financialjuice] UK Navy: Vessel struck by projectile in Hormuz September 28.
+- 09/29 19:34 [FirstSquawk] UKMTO: GETS TIME-LATE REPORT OF INCIDENT IN HORMUZ
