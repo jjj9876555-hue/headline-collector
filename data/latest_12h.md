@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-30 05:36 JST／対象: 09/29 17:36 〜 09/30 05:36 JST（時刻はすべて日本時間）
+生成: 2026-09-30 05:52 JST／対象: 09/29 17:52 〜 09/30 05:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 85 | 09/29 20:26 | 09/30 05:36 | ⚠ 80分（02:40→04:01） |
-| FirstSquawk | 200 | 09/29 17:40 | 09/30 05:26 | 30分（19:41→20:12） |
-| financialjuice | 280 | 09/29 17:47 | 09/30 05:36 | ⚠ 50分（22:45→23:36） |
+| DeItaone | 88 | 09/29 20:26 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
+| FirstSquawk | 204 | 09/29 17:55 | 09/30 05:47 | 30分（19:41→20:12） |
+| financialjuice | 286 | 09/29 18:03 | 09/30 05:52 | ⚠ 50分（22:45→23:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 544 行（統合前 571 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 556 行（統合前 584 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 17:40 [FirstSquawk] RUSSIA ATTACKED TWO FOREIGN SHIPS IN THE ODESA AREA OF UKRAINE, ACCORDING TO ZELENSKIY.
-- 09/29 17:47 [financialjuice] NVIDIA and AMD up White House lobbying on China exports - Politico
-- 09/29 17:49 [FirstSquawk] NVIDIA, AMD WANT TRUMP TO KEEP THEIR CHIPS FLOWING TO CHINA – POLITICO
-- 09/29 17:52 [financialjuice] UK AI Minister Narayan: Need to build data centres with control, UK values.
 - 09/29 17:55 [FirstSquawk] UK AI MINISTER KANISHKA NARAYAN CONFIRMS AI GROWTH ZONES ARE STILL PROGRESSING.
 - 09/29 17:55 [FirstSquawk] UK AI MINISTER KANISHKA NARAYAN BRITAIN REQUIRES A HIGH LEVEL OF COMPUTER SOVEREIGNTY.
 - 09/29 17:55 [FirstSquawk] NARAYAN STRESSES THE IMPORTANCE OF BUILDING DATA CENTRES THAT ALIGN WITH UK VALUES AND STANDARDS.
@@ -563,8 +559,24 @@
 - 09/30 05:20 [FirstSquawk] AMERICAN AIRLINES & ALASKA AIRLINES PLAN TO EXPAND JOINT BUSINESSES ACROSS ATLANTIC & PACIFIC; TO SEEK REGULATORY APPROVAL
 - 09/30 05:20 [FirstSquawk] FED'S WILLIAMS SAYS RISING BOND YIELDS SHOW TIGHTER FINANCIAL CONDITIONS AT THE MARGIN, BUT THAT HE DOESN'T BELIEVE THEY SIGNAL SHIFTING LONGER-RUN INFLATION VIEWS.
 - 09/30 05:20 [FirstSquawk] FED'S WILLIAMS SAYS STRONG AI INVESTMENT IS IMPORTANT TO BOLSTER FUTURE PRODUCTIVITY, ADDING THAT THUS FAR AI IS NOT CAUSING BIG CHANGES IN JOB LEVELS.
-- 09/30 05:22 [FirstSquawk] MASTERCARD DECLARES QUARTERLY CASH DIVIDEND OF $0.87 PER SHARE
+- 09/30 05:22 [FirstSquawk/DeItaone] MASTERCARD DECLARES QUARTERLY CASH DIVIDEND OF $0.87 PER SHARE
 - 09/30 05:25 [financialjuice] Al Mayadeen: The purpose of Netanyahu's visit to the UAE was to encourage Abu Dhabi to resume its participation in the war against Yemen.
 - 09/30 05:26 [FirstSquawk] AL MAYADEEN: NETANYAHU’S UAE VISIT AIMED TO ENCOURAGE ABU DHABI TO RESUME PARTICIPATION IN WAR AGAINST YEMEN
 - 09/30 05:36 [DeItaone] https://t.me/boost/WalterBloomberg
 - 09/30 05:36 [financialjuice] https://t.me/boost/breakingmarketnews
+- 09/30 05:40 [DeItaone] $TSLA - TESLA SECURES $30 BILLION IN NEW CREDIT FACILITIES Tesla has entered into $30 billion of new financing facilities, according to an SEC filing. The package includes a $20 billion three-year delayed-draw term loan, an $8 billion five-…
+- 09/30 05:40 [financialjuice] Tesla Secures $30 Billion in New Credit Facilities $TSLA
+- 09/30 05:42 [FirstSquawk] TESLA HAS ENTERED AN $8 BLN FIVE-YEAR REVOLVING FACILITY, A $2 BLN 364-DAY REVOLVING CREDIT FACILITY AND A $20 BLN THREE-YEAR DELAYED DRAW TERM LOAN FACILITY ON SEPT. 29, 2026, WITH THE TERM LOAN FACILITY MATURING ON SEPT. 29, 2029.
+- 09/30 05:42 [FirstSquawk] TESLA SAYS THE FIVE-YEAR REVOLVING FACILITY ALLOWS LETTERS OF CREDIT UP TO $500 MLN AND THAT IT MAY INCREASE ITS REVOLVING CREDIT AGREEMENTS BY UP TO $4 BLN TO $14 BLN, ADDING THAT IT TERMINATED ITS EXISTING REVOLVING CREDIT AGREEMENT ON SE…
+- 09/30 05:42 [DeItaone] BREAKING: Inventories in the US Strategic Petroleum Reserve fell by ~800,000 barrels last week, to 283.8 million barrels, the lowest level since 1982. This marks the 27th consecutive weekly decline, putting inventories down more than -132 m…
+- 09/30 05:43 [financialjuice] US API GASOLINE STOCK CHANGE ACTUAL 2.991M (FORECAST -, PREVIOUS -2.16M) $MACRO
+- 09/30 05:44 [financialjuice] US API DISTILLATE STOCK CHANGE ACTUAL -0.286M (FORECAST -, PREVIOUS -2.164M) $MACRO
+- 09/30 05:46 [financialjuice] US API CRUDE OIL STOCK CHANGE ACTUAL 1.019M (FORECAST -1.9M, PREVIOUS 1.786M) $MACRO
+- 09/30 05:46 [FirstSquawk] U.S. API CRUDE OIL STOCK CHANGE WAS A BUILD OF 1.019 MLN, VERSUS A FORECAST 1.9 MLN DRAW, WITH GASOLINE STOCKS UP 2.991 MLN AND DISTILLATE STOCKS DOWN 0.286 MLN
+- 09/30 05:47 [FirstSquawk] U.S. STOCKS ENDED MIXED TO LOWER AS CONCERNS OVER PERSISTENT INFLATION, GOVERNMENT SPENDING AND RISING CORPORATE BORROWING PUSHED TREASURY YIELDS HIGHER, WITH THE 30-YEAR YIELD REACHING ITS HIGHEST SINCE 2002, THE S&P 500 DOWN 0.2% AND THE …
+- 09/30 05:47 [FirstSquawk] OIL PRICES FELL, WITH WTI DOWN 3.9% TO $89.01 A BARREL AND BRENT BELOW $103, THOUGH INVESTORS REMAINED CONCERNED ELEVATED ENERGY COSTS COULD KEEP INFLATION PRESSURES HIGH, AS NY FED PRESIDENT JOHN WILLIAMS SAID ANOTHER RATE HIKE THIS YEAR M…
+- 09/30 05:47 [FirstSquawk] U.S. JOB OPENINGS FELL TO A FIVE-MONTH LOW AND CONSUMER CONFIDENCE DROPPED TO ITS LOWEST SINCE 2014, REINFORCING A 'LOW-HIRE, LOW-FIRE' LABOR-MARKET BACKDROP, WITH THE DOLLAR GAINING, THE EURO WEAKENING TO $1.1340 AND GOLD UP 1.4% TO $4,175…
+- 09/30 05:49 [financialjuice] Trump to unveil $54 billion Alaska LNG plan amid midterm woes.
+- 09/30 05:50 [financialjuice] Funds to be provided under South Korea investment deal - people familiar describe Alaska plan for Trump Announcement
+- 09/30 05:51 [financialjuice] Anthropic IPO Filing Shows Amazon and Google Drove 47% of 2025 Sales
+- 09/30 05:52 [financialjuice] The LNG project is part of a $200 billion South Korean investment announcement.
