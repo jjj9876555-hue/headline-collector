@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-30 07:52 JST／対象: 09/29 07:52 〜 09/30 07:52 JST（時刻はすべて日本時間）
+生成: 2026-09-30 08:04 JST／対象: 09/29 08:04 〜 09/30 08:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 88 | 09/29 20:26 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
 | FirstSquawk | 400 | 09/29 08:46 | 09/30 06:29 | ⚠ 49分（09:17→10:06） |
-| financialjuice | 397 | 09/29 08:16 | 09/30 07:40 | ⚠ 67分（06:32→07:40） |
+| financialjuice | 404 | 09/29 08:16 | 09/30 08:02 | ⚠ 67分（06:32→07:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 860 行（統合前 891 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 867 行（統合前 898 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -884,3 +884,10 @@
 - 09/30 06:29 [financialjuice] Document circulated by Trump endorsed by Google, Anthropic, Meta, OpenAI, Musk, Nvidia
 - 09/30 06:32 [financialjuice] Document shared by Trump: Nvidia, OpenAI, Anthropic, xAI, Google to convene regularly on AI safety standards
 - 09/30 07:40 [financialjuice] Senior Saudi official denies any meeting with Israeli officials
+- 09/30 07:59 [financialjuice] EU trade chief Sefcovic: pushing for reforms to tackle excess industrial capacity in G20, WTO frameworks
+- 09/30 08:00 [financialjuice] South Korea August industrial output falls 2.2% year on year, poll predicted 4% increase: stats office
+- 09/30 08:00 [financialjuice] S. Korea Aug service sector output rises 0.5% m/m: stats office
+- 09/30 08:00 [financialjuice] S.Korea Aug Industrial output falls 4.8% month-on-month, stats office
+- 09/30 08:00 [financialjuice] S. Korea August retail sales fall 1.8% month on month: stats office
+- 09/30 08:01 [financialjuice] uk vehicle output increased 5.7% yoy to 40,872 units in august: smmt
+- 09/30 08:02 [financialjuice] Sefcovic: working for greater cooperation with US, other allies to secure supply chains, prevent weaponization of critical minerals

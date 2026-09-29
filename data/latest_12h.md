@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-30 07:52 JST／対象: 09/29 19:52 〜 09/30 07:52 JST（時刻はすべて日本時間）
+生成: 2026-09-30 08:04 JST／対象: 09/29 20:04 〜 09/30 08:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 88 | 09/29 20:26 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
 | FirstSquawk | 183 | 09/29 20:12 | 09/30 06:29 | 30分（02:00→02:31） |
-| financialjuice | 294 | 09/29 19:54 | 09/30 07:40 | ⚠ 67分（06:32→07:40） |
+| financialjuice | 300 | 09/29 20:14 | 09/30 08:02 | ⚠ 67分（06:32→07:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 541 行（統合前 571 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 547 行（統合前 577 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 19:54 [financialjuice] Qatar Foreign Ministry Spokesman: Exchanging messages, possible solutions with US-Iran.
 - 09/29 20:12 [FirstSquawk] ELI LILLY: ZEPBOUND ACHIEVES 20.2% WEIGHT REDUCTION VS 13.7% FOR WEGOVY AT 72 WEEKS
 - 09/29 20:14 [financialjuice/FirstSquawk] Rosatom, Iran discuss options to build new nuclear plants - Tass
 - 09/29 20:23 [FirstSquawk] DEUTSCHE BANK RAISES NETFLIX TO BUY FROM HOLD; CUTS TARGET PRICE TO $95 FROM $100
@@ -565,3 +564,10 @@
 - 09/30 06:29 [financialjuice] Document circulated by Trump endorsed by Google, Anthropic, Meta, OpenAI, Musk, Nvidia
 - 09/30 06:32 [financialjuice] Document shared by Trump: Nvidia, OpenAI, Anthropic, xAI, Google to convene regularly on AI safety standards
 - 09/30 07:40 [financialjuice] Senior Saudi official denies any meeting with Israeli officials
+- 09/30 07:59 [financialjuice] EU trade chief Sefcovic: pushing for reforms to tackle excess industrial capacity in G20, WTO frameworks
+- 09/30 08:00 [financialjuice] South Korea August industrial output falls 2.2% year on year, poll predicted 4% increase: stats office
+- 09/30 08:00 [financialjuice] S. Korea Aug service sector output rises 0.5% m/m: stats office
+- 09/30 08:00 [financialjuice] S.Korea Aug Industrial output falls 4.8% month-on-month, stats office
+- 09/30 08:00 [financialjuice] S. Korea August retail sales fall 1.8% month on month: stats office
+- 09/30 08:01 [financialjuice] uk vehicle output increased 5.7% yoy to 40,872 units in august: smmt
+- 09/30 08:02 [financialjuice] Sefcovic: working for greater cooperation with US, other allies to secure supply chains, prevent weaponization of critical minerals

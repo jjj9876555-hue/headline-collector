@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-30 07:52 JST／対象: 09/30 01:52 〜 09/30 07:52 JST（時刻はすべて日本時間）
+生成: 2026-09-30 08:04 JST／対象: 09/30 02:04 〜 09/30 08:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 29 | 09/30 01:58 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
-| FirstSquawk | 92 | 09/30 01:52 | 09/30 06:29 | 30分（02:00→02:31） |
-| financialjuice | 160 | 09/30 01:55 | 09/30 07:40 | ⚠ 67分（06:32→07:40） |
+| DeItaone | 27 | 09/30 02:08 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
+| FirstSquawk | 88 | 09/30 02:31 | 09/30 06:29 | 28分（04:46→05:15） |
+| financialjuice | 162 | 09/30 02:05 | 09/30 08:02 | ⚠ 67分（06:32→07:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 273 行（統合前 285 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 270 行（統合前 280 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 01:52 [FirstSquawk] TRUMP ADMIN.: SEVERAL EU MEMBER COUNTRIES HAVEN’T RELEASED AS MUCH OIL & REFINED PRODUCTS FROM RESERVES AS PROMISED
-- 09/30 01:55 [financialjuice] UK Police: No explosive devices found at Fairford airbase.
-- 09/30 01:57 [financialjuice/FirstSquawk] OpenAI ignored employees who warned it wasn’t doing enough - NYT
-- 09/30 01:57 [FirstSquawk] OPENAI EMPLOYEES RAISED ALARM WITH TOP EXECUTIVES: NYT
-- 09/30 01:58 [financialjuice] WATCH LIVE: Fed's Goolsbee Speaks 1 PM ET
-- 09/30 01:58 [DeItaone] BITCOIN TRADERS PILE INTO $90K+ CALLS Bitcoin is trading around $83,238, but options traders are increasingly positioning for a move above $90,000, with $95,000 and $100,000 also popular strikes. Institutional flows are improving too: Bitco…
-- 09/30 02:00 [FirstSquawk] ALTMAN NOT CLOSELY INVOLVED IN SECURITY, EMPLOYEES SAID: NYT
-- 09/30 02:02 [DeItaone] OPENAI REPORTEDLY IGNORED INTERNAL SECURITY WARNINGS OpenAI employees warned executives that advanced AI models were not being adequately monitored during safety testing, but were reportedly overruled as the company prioritized release time…
-- 09/30 02:02 [financialjuice] Israeli security source: No concrete, reliable information directly links Israeli elections to escalation - Kan News
-- 09/30 02:03 [financialjuice] Fed's Barr: Seeing some elevated wage rates in the skilled trades
 - 09/30 02:05 [financialjuice] Fed's Barr: Taking the longer view, we need to be sure we do what it takes to bring supply and demand into balance
 - 09/30 02:06 [financialjuice] Fed's Barr: The resilience of the US economy is striking
 - 09/30 02:06 [financialjuice] OFAC sanctions 10 over Iran MODAFL weapons procurement
@@ -297,3 +287,10 @@
 - 09/30 06:29 [financialjuice] Document circulated by Trump endorsed by Google, Anthropic, Meta, OpenAI, Musk, Nvidia
 - 09/30 06:32 [financialjuice] Document shared by Trump: Nvidia, OpenAI, Anthropic, xAI, Google to convene regularly on AI safety standards
 - 09/30 07:40 [financialjuice] Senior Saudi official denies any meeting with Israeli officials
+- 09/30 07:59 [financialjuice] EU trade chief Sefcovic: pushing for reforms to tackle excess industrial capacity in G20, WTO frameworks
+- 09/30 08:00 [financialjuice] South Korea August industrial output falls 2.2% year on year, poll predicted 4% increase: stats office
+- 09/30 08:00 [financialjuice] S. Korea Aug service sector output rises 0.5% m/m: stats office
+- 09/30 08:00 [financialjuice] S.Korea Aug Industrial output falls 4.8% month-on-month, stats office
+- 09/30 08:00 [financialjuice] S. Korea August retail sales fall 1.8% month on month: stats office
+- 09/30 08:01 [financialjuice] uk vehicle output increased 5.7% yoy to 40,872 units in august: smmt
+- 09/30 08:02 [financialjuice] Sefcovic: working for greater cooperation with US, other allies to secure supply chains, prevent weaponization of critical minerals
