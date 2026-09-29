@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-29 12:37 JST／対象: 09/29 06:37 〜 09/29 12:37 JST（時刻はすべて日本時間）
+生成: 2026-09-29 12:53 JST／対象: 09/29 06:53 〜 09/29 12:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 84 | 09/29 07:40 | 09/29 12:36 | ⚠ 57分（07:48→08:46） |
-| financialjuice | 52 | 09/29 06:37 | 09/29 12:24 | ⚠ 62分（11:21→12:24） |
+| FirstSquawk | 85 | 09/29 07:40 | 09/29 12:45 | ⚠ 57分（07:48→08:46） |
+| financialjuice | 51 | 09/29 06:54 | 09/29 12:24 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 136 行（統合前 136 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,7 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 06:37 [financialjuice] Syria’s state petroleum company: Fire stopped gas supply from Jbeissa plant to power stations – Syrian state news agency
 - 09/29 06:54 [financialjuice] Iran’s foreign minister: Tehran discussed proposals with Qatari mediators to present to US - IRNA
 - 09/29 06:55 [financialjuice] Iran's Aragchi: US response to be relayed to Tehran through Qatari mediators - IRNA
 - 09/29 06:56 [financialjuice] Iran's Araqchi: conditions set by supreme leader must be met for Strait of Hormuz to reopen - IRNA
@@ -160,3 +159,4 @@
 - 09/29 12:24 [FirstSquawk] CNN, MS NOW and Politico ask court to halt Trump’s attempt to revive White House ban
 - 09/29 12:27 [FirstSquawk] Bank of India’s $1 billion MTN programme rated ‘BBB-’ by Fitch
 - 09/29 12:36 [FirstSquawk] Japan 40-year JGB auction highest yield stands at 4.1250%; 42.4153% of bids accepted
+- 09/29 12:45 [FirstSquawk] South Korea sees farming households increase to 1.27 million in 2025, while average farm area hits 65-year low - YONHAP
