@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-29 11:59 JST／対象: 09/28 11:59 〜 09/29 11:59 JST（時刻はすべて日本時間）
+生成: 2026-09-29 12:19 JST／対象: 09/28 12:19 〜 09/29 12:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 38 | 09/28 16:28 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 310 | 09/28 12:07 | 09/29 11:47 | ⚠ 131分（05:29→07:40） |
+| FirstSquawk | 315 | 09/28 12:21 | 09/29 12:14 | ⚠ 131分（05:29→07:40） |
 | financialjuice | 273 | 09/28 13:26 | 09/29 11:21 | ⚠ 59分（14:00→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 606 行（統合前 625 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 611 行（統合前 630 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 12:07 [FirstSquawk] Northern Star declines Gold Fields’ $27 billion takeover offer - WSJ
-- 09/28 12:08 [FirstSquawk] Australia’s Ingenia receives improved $1.5 billion offer from Warburg Pincus - WSJ
 - 09/28 12:21 [FirstSquawk] South Korean regulator plans 14.8 billion won in fines for barbecue chain operator
 - 09/28 12:25 [FirstSquawk] JPMorgan boosts Dassault Aviation target by €25 to €350
 - 09/28 12:33 [FirstSquawk] Swiss franc falls to fresh low since May 2025 near 0.8300 against dollar - FX
@@ -630,3 +628,10 @@
 - 09/29 11:37 [FirstSquawk] Tropical Storm Fay 1,380 miles west-southwest of Azores with maximum winds of 40 mph, NHC says
 - 09/29 11:41 [FirstSquawk] OpenAI delays new AI model launch due to safety concerns - NA
 - 09/29 11:47 [FirstSquawk] Gold prices tick higher as selling pressure persists - WSJ
+- 09/29 12:01 [FirstSquawk] MAS deputy chair: Singapore to commit $1.1 billion across five asset managers to strengthen equities market
+- 09/29 12:01 [FirstSquawk] US Navy reports aircraft recovery incident aboard Nimitz-class carrier USS Dwight D. Eisenhower off Virginia coast
+- 09/29 12:02 [FirstSquawk] Two naval aviators from Carrier Air Wing 3 recovered by search-and-rescue personnel, US Navy says
+- 09/29 12:03 [FirstSquawk] US Navy says one sailor is being transported to a Norfolk-area hospital for treatment of non-life-threatening injuries
+- 09/29 12:03 [FirstSquawk] Four shipboard personnel injured in incident, US Navy says
+- 09/29 12:04 [FirstSquawk] Singapore MAS to launch $16 million market-making sleeve to support SGX stock trading
+- 09/29 12:14 [FirstSquawk] China asks local governments to trial ‘high-quality’ policies to spur consumer spending

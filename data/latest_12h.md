@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-29 11:59 JST／対象: 09/28 23:59 〜 09/29 11:59 JST（時刻はすべて日本時間）
+生成: 2026-09-29 12:19 JST／対象: 09/29 00:19 〜 09/29 12:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 13 | 09/29 00:19 | 09/29 02:14 | ⚠ 54分（00:44→01:39） |
-| FirstSquawk | 152 | 09/29 00:02 | 09/29 11:47 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 156 | 09/29 00:15 | 09/29 11:21 | 40分（09:25→10:05） |
+| DeItaone | 12 | 09/29 00:35 | 09/29 02:14 | ⚠ 54分（00:44→01:39） |
+| FirstSquawk | 155 | 09/29 00:32 | 09/29 12:14 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 155 | 09/29 00:23 | 09/29 11:21 | 40分（09:25→10:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 312 行（統合前 323 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 313 行（統合前 324 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 00:02 [FirstSquawk] SPACEX: CONNECTION ESTABLISHED WITH ALL 26 V3 SATELLITES
-- 09/29 00:09 [FirstSquawk] UK 10-YEAR GILT YIELDS RISE TO HIGHEST SINCE JULY 2007 AT 5.441%
-- 09/29 00:15 [FirstSquawk] UNION: WORKERS AT CHILE'S CENTINELA MINE IN ANTOFAGASTA REJECT CONTRACT OFFER
-- 09/29 00:15 [financialjuice] Fed bids for 3-Month bills total $9.1 bln. Fed bids for 6-Month bills total $7.8 bln
-- 09/29 00:18 [FirstSquawk] RUSSIA SAYS IT HIT TWO SHIPS HEADING TO ODESA PORT: IFX
-- 09/29 00:19 [DeItaone] U.S. TWO-YEAR TREASURY YIELD REACHES 4.952%, HIGHEST SINCE MAY 2024
 - 09/29 00:23 [financialjuice] US Secretary of State Rubio met with Lebanese PM Mikati in Washington - Israel's Channel 12 News
 - 09/29 00:32 [FirstSquawk] BRITAIN'S FTSE 100 UP 0.05%; GERMANY'S DAX DOWN 0.01%
 - 09/29 00:32 [financialjuice] US 6-MONTH BILL HIGH YIELD ACTUAL 4.285% (FORECAST -, PREVIOUS 4.155%) $MACRO
@@ -336,3 +330,10 @@
 - 09/29 11:37 [FirstSquawk] Tropical Storm Fay 1,380 miles west-southwest of Azores with maximum winds of 40 mph, NHC says
 - 09/29 11:41 [FirstSquawk] OpenAI delays new AI model launch due to safety concerns - NA
 - 09/29 11:47 [FirstSquawk] Gold prices tick higher as selling pressure persists - WSJ
+- 09/29 12:01 [FirstSquawk] MAS deputy chair: Singapore to commit $1.1 billion across five asset managers to strengthen equities market
+- 09/29 12:01 [FirstSquawk] US Navy reports aircraft recovery incident aboard Nimitz-class carrier USS Dwight D. Eisenhower off Virginia coast
+- 09/29 12:02 [FirstSquawk] Two naval aviators from Carrier Air Wing 3 recovered by search-and-rescue personnel, US Navy says
+- 09/29 12:03 [FirstSquawk] US Navy says one sailor is being transported to a Norfolk-area hospital for treatment of non-life-threatening injuries
+- 09/29 12:03 [FirstSquawk] Four shipboard personnel injured in incident, US Navy says
+- 09/29 12:04 [FirstSquawk] Singapore MAS to launch $16 million market-making sleeve to support SGX stock trading
+- 09/29 12:14 [FirstSquawk] China asks local governments to trial ‘high-quality’ policies to spur consumer spending
