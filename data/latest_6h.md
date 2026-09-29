@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-29 09:53 JST／対象: 09/29 03:53 〜 09/29 09:53 JST（時刻はすべて日本時間）
+生成: 2026-09-29 10:17 JST／対象: 09/29 04:17 〜 09/29 10:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 52 | 09/29 03:59 | 09/29 09:17 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 73 | 09/29 03:56 | 09/29 09:25 | 30分（07:45→08:16） |
+| FirstSquawk | 49 | 09/29 04:19 | 09/29 10:06 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 65 | 09/29 04:18 | 09/29 10:06 | 40分（09:25→10:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 121 行（統合前 125 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 110 行（統合前 114 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 03:56 [financialjuice] Trump: US officials spoke with Iran mediators today.
-- 09/29 03:57 [financialjuice] US Nonfarm Payrolls Prep (2nd October)
-- 09/29 03:59 [financialjuice] Trump, asked about arms sales to China: It wasn't discussed.
-- 09/29 03:59 [FirstSquawk] TRUMP: US OFFICIALS SPOKE WITH IRAN MEDIATORS TODAY; SAYS US PREVENTED IRAN FROM OBTAINING A NUCLEAR WEAPON
-- 09/29 03:59 [FirstSquawk] NVIDIA’S BOARD APPROVED AN ADDITIONAL $150 BILLION IN SHARE BUYBACK AUTHORIZATION, BRINGING THE TOTAL REPURCHASE PROGRAM TO $235 BILLION THROUGH THE FISCAL YEAR ENDING JANUARY 30, 2028.
-- 09/29 03:59 [FirstSquawk] NVIDIA SHARES ROSE 2.1% MONDAY, WITH THE STOCK UP ABOUT 24% THIS YEAR, AS THE COMPANY LOOKS TO RETURN PART OF ITS AI-DRIVEN CASH GENERATION TO SHAREHOLDERS WHILE CONTINUING TO INVEST IN AI AND ACCELERATED COMPUTING.
-- 09/29 04:02 [financialjuice] Tesla: Roadster event rescheduled due to weather; new date is October 15th. $TSLA
-- 09/29 04:03 [financialjuice] Meta and Amazon are being queried over tax breaks related to AI investments. $META $AMZN
-- 09/29 04:04 [financialjuice] Trump: Think a deal will be made on Canada trade.
-- 09/29 04:07 [financialjuice] Trump: Inflation will be eradicated after the war with Iran ends.
-- 09/29 04:09 [financialjuice] Trump ends remarks at the White House.
-- 09/29 04:09 [financialjuice] UAE President received Israel's Netanyahu on Sunday - UAE State News Agency.
-- 09/29 04:10 [financialjuice] The UAE President and Israel's Prime Minister Netanyahu discussed bilateral relations between the UAE and Israel, and the means to strengthen them - UAE State News Agency.
-- 09/29 04:13 [FirstSquawk] UAE PRESIDENT RECEIVED ISRAEL'S NETANYAHU ON SUNDAY, WITH THE TWO DISCUSSING BILATERAL RELATIONS BETWEEN THE UAE AND ISRAEL AND MEANS TO STRENGTHEN THEM - UAE STATE NEWS AGENCY
 - 09/29 04:18 [financialjuice] Iranian lawmaker: Parliament weighing NPT exit bill - Fars
 - 09/29 04:19 [financialjuice] UK's Labour Party: The Prime Minister announces the new 'GB Grid' to rewire public control into Britain’s energy system and drive down costs.
 - 09/29 04:19 [FirstSquawk] CANADIAN CARRIER WESTJET SAYS IT USES SOFTWARE VERSION 14.1 — NOW BEING REVIEWED BY THE FAA — FOR ITS BOEING 737 MAX JETS, ADDING THAT WHILE IT IS AWARE OF THE REPORTED POTENTIAL SOFTWARE ISSUE AFFECTING SOME B737S AND IS WORKING CLOSELY WI…
@@ -145,3 +131,6 @@
 - 09/29 09:07 [FirstSquawk] AUSTRALIA’S S&P/ASX 200 RISES 0.1% TO 8,688.30 IN EARLY TRADE
 - 09/29 09:17 [FirstSquawk] EUROPEAN STOCK FUTURES RISE: EUROSTOXX 50 +0.5%, DAX +0.3%, FTSE +0.2%
 - 09/29 09:25 [financialjuice] China PBOC seen setting yuan midpoint at 6.7177 per dollar: estimate
+- 09/29 10:05 [financialjuice] Taiwan overnight interbank rate starts at 0.805% versus 0.804% in previous session opening
+- 09/29 10:06 [financialjuice] US secretary of state Rubio: uk base incident involved foreign actor
+- 09/29 10:06 [FirstSquawk] Taxpayers Footed Bill For Three Bottles Of Pinot Noir During Janelle Saffin’s $4,400 Sydney Hotel Stay - dailytelegraph

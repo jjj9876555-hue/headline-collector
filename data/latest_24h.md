@@ -7,52 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-29 09:53 JST／対象: 09/28 09:53 〜 09/29 09:53 JST（時刻はすべて日本時間）
+生成: 2026-09-29 10:17 JST／対象: 09/28 10:17 〜 09/29 10:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 38 | 09/28 16:28 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 302 | 09/28 09:54 | 09/29 09:17 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 282 | 09/28 10:06 | 09/29 09:25 | ⚠ 115分（11:30→13:26） |
+| FirstSquawk | 286 | 09/28 10:21 | 09/29 10:06 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 272 | 09/28 10:18 | 09/29 10:06 | ⚠ 115分（11:30→13:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 607 行（統合前 626 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 581 行（統合前 600 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 09:54 [FirstSquawk] Tokyo Metro says data breach may have exposed 59,000 customer email addresses
-- 09/28 09:58 [FirstSquawk] Darwin Port lease sparks fresh tensions between Australia and China - KYODO
-- 09/28 10:01 [FirstSquawk] POLITICO - Trump administration airs campaign-style Trump ad as taxpayer-funded messaging expands
-- 09/28 10:01 [FirstSquawk] 2-year Japanese government bond yield hits 1.955%, highest since April 1995
-- 09/28 10:06 [financialjuice] China commerce ministry: importing US coal complements domestic market, offers stable economic returns and jobs for US industry
-- 09/28 10:06 [FirstSquawk] China Commerce Ministry says U.S. coal imports benefit domestic market and American coal industry
-- 09/28 10:06 [financialjuice] China commerce ministry: We look forward to expanding China-US collaboration in coal sector
-- 09/28 10:07 [financialjuice] China commerce ministry: China and US agree to form agricultural working group
-- 09/28 10:07 [FirstSquawk] China Commerce Ministry calls for deeper China-U.S. cooperation in coal sector
-- 09/28 10:07 [financialjuice] China commerce ministry: both parties agree to hold first agriculture working group meeting before end of 2026
-- 09/28 10:07 [financialjuice] China commerce ministry: China will review and approve applications from financial service institutions worldwide, including those with US capital, to operate and open branches
-- 09/28 10:08 [financialjuice] China commerce ministry: China expects US to offer fair, transparent, and stable policy environment for Chinese financial institutions
-- 09/28 10:08 [financialjuice] China commerce ministry: China, US agree to set up communication channel for AI incidents
-- 09/28 10:08 [FirstSquawk] China, U.S. to establish working group on agriculture, Commerce Ministry says
-- 09/28 10:09 [FirstSquawk] China says first U.S.-China agriculture working group meeting will take place by end-2026
-- 09/28 10:09 [FirstSquawk] China says it will approve eligible foreign financial institutions to conduct business and open branches
-- 09/28 10:10 [financialjuice] China commerce ministry: both parties agreed to maintain dialogue on boosting China-US flights and related issues
-- 09/28 10:10 [financialjuice] China commerce ministry: trade ceasefire with US to be extended to January 2027
-- 09/28 10:10 [FirstSquawk] China hopes U.S. will offer stable and transparent policy environment for Chinese financial institutions
-- 09/28 10:11 [FirstSquawk] China and U.S. agree to set up communication channel for AI incidents
-- 09/28 10:11 [FirstSquawk] China, U.S. to continue talks on expanding flights and related matters
-- 09/28 10:11 [financialjuice] China commerce ministry: trade truce offers room for both sides to review and evaluate joint arrangement implementation and explore ways to boost China-US economic and trade relations
-- 09/28 10:11 [financialjuice] China commerce ministry: both sides likely to keep working on positive solution for continued extension via high-level economic and trade talks before year-end
-- 09/28 10:11 [FirstSquawk] China says trade truce with U.S. will remain in place through January 2027
-- 09/28 10:11 [financialjuice] China commerce ministry: both sides agree to keep talks on boosting China-US flights and related issues
-- 09/28 10:12 [FirstSquawk] China Commerce Ministry: Trade truce allows China, U.S. to review progress and consider next steps
-- 09/28 10:13 [FirstSquawk] China Commerce Ministry: Both sides will continue efforts to advance trade truce extension before year-end
-- 09/28 10:13 [FirstSquawk] China, U.S. to continue dialogue on expanding flights and related matters
-- 09/28 10:15 [FirstSquawk] China central bank sets yuan reference rate at 6.7399 per dollar
 - 09/28 10:18 [financialjuice] PBOC establishes yuan midpoint at strongest level since Feb. 3, 2023
 - 09/28 10:21 [FirstSquawk] China sets yuan midpoint at strongest level in more than three years
 - 09/28 10:21 [FirstSquawk] Nissan Rogue e-Power hybrid shipments to U.S. start next month ahead of November launch
@@ -631,3 +602,6 @@
 - 09/29 09:07 [FirstSquawk] AUSTRALIA’S S&P/ASX 200 RISES 0.1% TO 8,688.30 IN EARLY TRADE
 - 09/29 09:17 [FirstSquawk] EUROPEAN STOCK FUTURES RISE: EUROSTOXX 50 +0.5%, DAX +0.3%, FTSE +0.2%
 - 09/29 09:25 [financialjuice] China PBOC seen setting yuan midpoint at 6.7177 per dollar: estimate
+- 09/29 10:05 [financialjuice] Taiwan overnight interbank rate starts at 0.805% versus 0.804% in previous session opening
+- 09/29 10:06 [financialjuice] US secretary of state Rubio: uk base incident involved foreign actor
+- 09/29 10:06 [FirstSquawk] Taxpayers Footed Bill For Three Bottles Of Pinot Noir During Janelle Saffin’s $4,400 Sydney Hotel Stay - dailytelegraph

@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-29 09:53 JST／対象: 09/28 21:53 〜 09/29 09:53 JST（時刻はすべて日本時間）
+生成: 2026-09-29 10:17 JST／対象: 09/28 22:17 〜 09/29 10:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 17 | 09/28 22:49 | 09/29 02:14 | ⚠ 54分（00:44→01:39） |
-| FirstSquawk | 141 | 09/28 21:58 | 09/29 09:17 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 188 | 09/28 21:53 | 09/29 09:25 | 30分（07:45→08:16） |
+| FirstSquawk | 138 | 09/28 22:27 | 09/29 10:06 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 187 | 09/28 22:19 | 09/29 10:06 | 40分（09:25→10:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 334 行（統合前 349 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 330 行（統合前 345 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 21:53 [financialjuice] Trump to Unveil Planned $15 Billion Iowa Steel Project- WSJ
-- 09/28 21:58 [FirstSquawk] SHEIN 1H NET INCOME $2.30B VS. $1.09B Y/Y
-- 09/28 22:00 [financialjuice] Effective Fed Funds Rate 3.88% September 25 vs 3.88% September 24.
-- 09/28 22:01 [financialjuice] Senate report says Tether's USDT has become a primary means of payment for Iran - WSJ
-- 09/28 22:06 [FirstSquawk] INDIA TRADE MINISTER GOYAL TO VISIT US SEPT 29-OCT 5 FOR G20 TRADE TALKS
-- 09/28 22:11 [FirstSquawk] TRUMP ADMINISTRATION ENDS FUEL ECONOMY CREDIT TRADING IN 2028
-- 09/28 22:12 [FirstSquawk] SPACEX: GO-AHEAD GIVEN FOR STARSHIP ORBIT ATTEMPT DESPITE ENGINE GOING OUT
 - 09/28 22:19 [financialjuice] Trump's 2PM announcement will be on Iowa steel project - Official
 - 09/28 22:25 [financialjuice] Total CEO: About 10M b/d going through Hormuz
 - 09/28 22:27 [FirstSquawk] LULA SEEN WITH 39%, BOLSONARO 34% OF VOTES IN 1ST ROUND POLL - QUAEST
@@ -358,3 +351,6 @@
 - 09/29 09:07 [FirstSquawk] AUSTRALIA’S S&P/ASX 200 RISES 0.1% TO 8,688.30 IN EARLY TRADE
 - 09/29 09:17 [FirstSquawk] EUROPEAN STOCK FUTURES RISE: EUROSTOXX 50 +0.5%, DAX +0.3%, FTSE +0.2%
 - 09/29 09:25 [financialjuice] China PBOC seen setting yuan midpoint at 6.7177 per dollar: estimate
+- 09/29 10:05 [financialjuice] Taiwan overnight interbank rate starts at 0.805% versus 0.804% in previous session opening
+- 09/29 10:06 [financialjuice] US secretary of state Rubio: uk base incident involved foreign actor
+- 09/29 10:06 [FirstSquawk] Taxpayers Footed Bill For Three Bottles Of Pinot Noir During Janelle Saffin’s $4,400 Sydney Hotel Stay - dailytelegraph
