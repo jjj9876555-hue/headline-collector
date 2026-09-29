@@ -7,46 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-29 13:35 JST／対象: 09/29 01:35 〜 09/29 13:35 JST（時刻はすべて日本時間）
+生成: 2026-09-29 13:53 JST／対象: 09/29 01:53 〜 09/29 13:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 10 | 09/29 01:39 | 09/29 02:14 | 20分（01:54→02:14） |
-| FirstSquawk | 156 | 09/29 01:36 | 09/29 13:35 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 152 | 09/29 01:35 | 09/29 13:31 | ⚠ 62分（11:21→12:24） |
+| DeItaone | 2 | 09/29 01:54 | 09/29 02:14 | 20分（01:54→02:14） |
+| FirstSquawk | 168 | 09/29 02:07 | 09/29 13:48 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 141 | 09/29 02:09 | 09/29 13:31 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 312 行（統合前 319 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 307 行（統合前 312 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 01:35 [financialjuice] WH Sr. Adviser Hassett: Lot of our debt is debt we owe ourselves.
-- 09/29 01:35 [financialjuice] WH Sr. Adviser Hassett: External debt maybe is around $15 trln
-- 09/29 01:36 [FirstSquawk] HASSETT: EXTERNAL DEBT MAYBE IS AROUND $15T
-- 09/29 01:36 [FirstSquawk] HASSETT: LOT OF OUR DEBT IS DEBT WE OWE OURSELVES
-- 09/29 01:37 [financialjuice] WH Sr. Adviser Hassett asked on bond yields, refers to Treasury Secretary.
-- 09/29 01:38 [FirstSquawk/DeItaone] IRAN OFFICIALS PESSIMISTIC ABOUT DEAL WITH US BEFORE MIDTERMS
-- 09/29 01:38 [financialjuice] White House weighs red-dyed diesel tax relief to lower fuel prices, according to 2 sources familiar
-- 09/29 01:39 [financialjuice] WH Sr. Adviser Hassett: 30-Yr TIPS yields tell you capital returns higher now.
-- 09/29 01:39 [DeItaone/financialjuice] SAUDI ARABIA RESUMES OIL EXPORTS VIA EAST-WEST PIPELINE AFTER REPAIRS -- SOURCES
-- 09/29 01:39 [FirstSquawk] HASSETT: 30-YR TIPS YIELDS TELL YOU CAPITAL RETURNS HIGHER NOW
-- 09/29 01:40 [FirstSquawk] HASSETT: 3% DEFICIT GOAL WILL DEPEND ON 'FORCE MAJEURE' FACTORS
-- 09/29 01:40 [DeItaone] IRAN PESSIMISTIC ON U.S. DEAL BEFORE MIDTERMS Iranian officials privately see little prospect of reaching a U.S. agreement to end hostilities and reopen Hormuz before the Nov. 3 midterms, Bloomberg reports. Talks in New York made limited pr…
-- 09/29 01:40 [financialjuice] Aramco currently operating pipeline at throughput rate of around 3.5 mln BPD - sources
-- 09/29 01:41 [DeItaone] ARAMCO CURRENTLY OPERATING PIPELINE AT THROUGHPUT RATE OF AROUND 3.5 MILLION BARRELS A DAY -- SOURCES
-- 09/29 01:42 [DeItaone] TRUMP OPEN TO IRAN SANCTIONS RELIEF FOR NUCLEAR PROGRESS President Trump is willing to offer sanctions relief and release frozen Iranian funds in exchange for concrete progress on Tehran’s nuclear program, a U.S. official told CNN. Washingt…
-- 09/29 01:43 [financialjuice] Texas Governor Abbott waives dyed-diesel restrictions
-- 09/29 01:43 [DeItaone] SAUDI ARABIA RESTORES KEY OIL EXPORT ROUTE Saudi Arabia has resumed oil exports through its East-West pipeline after repairing damage from drone strikes earlier this month. Saudi Aramco began loading vessels again at the Red Sea port of Yan…
-- 09/29 01:44 [financialjuice] ECB's Pereira: Inflation pressures are currently concentrated in energy prices.
-- 09/29 01:45 [FirstSquawk] US OFFICIAL: WE NEED GUARANTEES THIS TIME THAT IRAN IS SERIOUS AND NOT JUST SEEKING TO ESCAPE THE DIFFICULT SITUATION IT IS SUFFERING FROM
-- 09/29 01:45 [DeItaone] US CONSIDERING SANCTIONS WAIVER FOR FLIGHTS BETWEEN IRAN AND IRAQ'S HOLY CITY OF NAJAF, PERSON WITH DIRECT KNOWLEDGE SAYS
-- 09/29 01:46 [financialjuice] US considering sanctions waiver for flights between Iran and Iraq's holy city of Najaf - Source
-- 09/29 01:46 [DeItaone] WAIVER WOULD ALLOW PILGRIMS TO TRAVEL ON IRAQI AIRWAYS TO AND FROM IRAN FOR PILGRIMAGE FOR ONE MONTH, SOURCE SAYS
-- 09/29 01:46 [financialjuice] WH Sr. Adviser Hassett: 3-month annualized core inflation is around Fed target.
 - 09/29 01:54 [DeItaone] 36 DAYS TO MIDTERMS: DEMOCRATS HIT NEW 2026 HIGH With just 36 days until the Nov. 3 midterms, Kalshi’s American Power Index has swung sharply toward Democrats. USAGov Democrats now lead at +3.8 — their strongest level shown on the 2026 char…
 - 09/29 02:07 [FirstSquawk] TRUMP OFFERS IRAN ECONOMIC RELIEF FOR CONCRETE NUCLEAR CONCESSIONS - AXIOS
 - 09/29 02:09 [financialjuice] NYC Speaker: OpenAI, Anthropic, Google all agreed to testify
@@ -336,3 +313,21 @@
 - 09/29 13:33 [FirstSquawk] Australia’s RBA lifts cash rate target to 4.60% with 25bp hike, as expected
 - 09/29 13:34 [FirstSquawk] Australian dollar climbs to $0.7026 after RBA hikes interest rates
 - 09/29 13:35 [FirstSquawk] Toyota’s parent-only Japan production declines 1.7% y/y to 204,487 vehicles in August
+- 09/29 13:35 [FirstSquawk] Toyota’s parent-only global vehicle sales drop 6.4% y/y to 790,743 units in August
+- 09/29 13:35 [FirstSquawk] Toyota’s parent-only overseas production drops 7.6% y/y to 496,373 vehicles in August
+- 09/29 13:36 [FirstSquawk] Toyota’s parent-only global production drops 5.9% y/y to 700,860 vehicles in August
+- 09/29 13:38 [FirstSquawk] RBA: Price pressures stay stubbornly persistent, with previously identified August upside risks increasingly turning into reality.
+- 09/29 13:38 [FirstSquawk] RBA: Expanding Middle East hostilities have driven worldwide fuel and power costs well past earlier August projections.
+- 09/29 13:38 [FirstSquawk] RBA: This year's trio of rate hikes has constrained overall credit conditions, visibly sapping momentum from the broader economy.
+- 09/29 13:38 [FirstSquawk] RBA: Near-term public and market inflation forecasts continue to track uncomfortably high.
+- 09/29 13:38 [FirstSquawk] RBA: Given that inflation remains unacceptably steep, policymakers concluded that additional monetary tightening is necessary to restore target levels within an acceptable timeframe.
+- 09/29 13:38 [FirstSquawk] RBA: Domestic inflation prints since the last review have consistently outpaced internal forecasts.
+- 09/29 13:38 [FirstSquawk] RBA: The central bank will implement whatever measures are required to pull inflation back to the target band permanently, not ruling out additional rate hikes.
+- 09/29 13:38 [FirstSquawk] RBA: Current policy settings are flexible enough to absorb shifting economic conditions as officials balance price stability against maximum employment goals.
+- 09/29 13:39 [FirstSquawk] RBA: Hiring demand and employment metrics have cooled generally in step with expectations, while forward-looking job market indicators remain steady.
+- 09/29 13:39 [FirstSquawk] RBA: Price-growth risks have steadily tilted upward since the previous policy gathering.
+- 09/29 13:39 [FirstSquawk] RBA: Serious doubts still cloud the future path of local economic growth and consumer price pressures.
+- 09/29 13:39 [FirstSquawk] RBA: Ongoing turmoil across the Middle East leaves open the possibility of stagflationary pressures—namely hotter inflation alongside weaker output.
+- 09/29 13:44 [FirstSquawk] Vietnam banks’ capitalisation seen steady as $5.7 billion capital drive progresses, Fitch says
+- 09/29 13:47 [FirstSquawk] Novo Nordisk to pay $300 million upfront for global rights to Hengrui’s HRS-1596, deal worth up to $2.6 billion
+- 09/29 13:48 [FirstSquawk] Etihad to fly twice daily between Abu Dhabi and Sydney starting Dec. 15

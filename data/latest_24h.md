@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-29 13:35 JST／対象: 09/28 13:35 〜 09/29 13:35 JST（時刻はすべて日本時間）
+生成: 2026-09-29 13:53 JST／対象: 09/28 13:53 〜 09/29 13:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 38 | 09/28 16:28 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 325 | 09/28 13:42 | 09/29 13:35 | ⚠ 131分（05:29→07:40） |
+| FirstSquawk | 338 | 09/28 13:56 | 09/29 13:48 | ⚠ 131分（05:29→07:40） |
 | financialjuice | 292 | 09/28 14:00 | 09/29 13:31 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 640 行（統合前 659 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 653 行（統合前 672 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 13:42 [FirstSquawk] ASIAN CURRENCIES WEAKEN AMID ONGOING GEOPOLITICAL TENSIONS-WSJ
-- 09/28 13:45 [FirstSquawk] NORTHERN STAR REJECTS $27 BILLION TAKEOVER PROPOSAL FROM GOLD FIELDS-WSJ
-- 09/28 13:49 [FirstSquawk] JGB YIELDS RISE AMID CONCERNS ABOUT IRAN CONFLICT, INFLATION-WSJ
-- 09/28 13:53 [FirstSquawk] OIL RISES ON GEOPOLITICAL RISKS, STOCKPILE DECLINE-WSJ
-- 09/28 13:53 [FirstSquawk] GOLD FALLS ON EXPECTATIONS OF HIGHER FOR LONGER FED RATES-WSJ
 - 09/28 13:56 [FirstSquawk] Gold prices slide on expectations of prolonged higher Fed rates-wsj
 - 09/28 13:58 [FirstSquawk] Asian currencies come under pressure as geopolitical tensions continue-wsj
 - 09/28 14:00 [financialjuice] Finnish September industry confidence falls 3 points
@@ -664,3 +659,21 @@
 - 09/29 13:33 [FirstSquawk] Australia’s RBA lifts cash rate target to 4.60% with 25bp hike, as expected
 - 09/29 13:34 [FirstSquawk] Australian dollar climbs to $0.7026 after RBA hikes interest rates
 - 09/29 13:35 [FirstSquawk] Toyota’s parent-only Japan production declines 1.7% y/y to 204,487 vehicles in August
+- 09/29 13:35 [FirstSquawk] Toyota’s parent-only global vehicle sales drop 6.4% y/y to 790,743 units in August
+- 09/29 13:35 [FirstSquawk] Toyota’s parent-only overseas production drops 7.6% y/y to 496,373 vehicles in August
+- 09/29 13:36 [FirstSquawk] Toyota’s parent-only global production drops 5.9% y/y to 700,860 vehicles in August
+- 09/29 13:38 [FirstSquawk] RBA: Price pressures stay stubbornly persistent, with previously identified August upside risks increasingly turning into reality.
+- 09/29 13:38 [FirstSquawk] RBA: Expanding Middle East hostilities have driven worldwide fuel and power costs well past earlier August projections.
+- 09/29 13:38 [FirstSquawk] RBA: This year's trio of rate hikes has constrained overall credit conditions, visibly sapping momentum from the broader economy.
+- 09/29 13:38 [FirstSquawk] RBA: Near-term public and market inflation forecasts continue to track uncomfortably high.
+- 09/29 13:38 [FirstSquawk] RBA: Given that inflation remains unacceptably steep, policymakers concluded that additional monetary tightening is necessary to restore target levels within an acceptable timeframe.
+- 09/29 13:38 [FirstSquawk] RBA: Domestic inflation prints since the last review have consistently outpaced internal forecasts.
+- 09/29 13:38 [FirstSquawk] RBA: The central bank will implement whatever measures are required to pull inflation back to the target band permanently, not ruling out additional rate hikes.
+- 09/29 13:38 [FirstSquawk] RBA: Current policy settings are flexible enough to absorb shifting economic conditions as officials balance price stability against maximum employment goals.
+- 09/29 13:39 [FirstSquawk] RBA: Hiring demand and employment metrics have cooled generally in step with expectations, while forward-looking job market indicators remain steady.
+- 09/29 13:39 [FirstSquawk] RBA: Price-growth risks have steadily tilted upward since the previous policy gathering.
+- 09/29 13:39 [FirstSquawk] RBA: Serious doubts still cloud the future path of local economic growth and consumer price pressures.
+- 09/29 13:39 [FirstSquawk] RBA: Ongoing turmoil across the Middle East leaves open the possibility of stagflationary pressures—namely hotter inflation alongside weaker output.
+- 09/29 13:44 [FirstSquawk] Vietnam banks’ capitalisation seen steady as $5.7 billion capital drive progresses, Fitch says
+- 09/29 13:47 [FirstSquawk] Novo Nordisk to pay $300 million upfront for global rights to Hengrui’s HRS-1596, deal worth up to $2.6 billion
+- 09/29 13:48 [FirstSquawk] Etihad to fly twice daily between Abu Dhabi and Sydney starting Dec. 15

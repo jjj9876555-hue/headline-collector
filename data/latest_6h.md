@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-29 13:35 JST／対象: 09/29 07:35 〜 09/29 13:35 JST（時刻はすべて日本時間）
+生成: 2026-09-29 13:53 JST／対象: 09/29 07:53 〜 09/29 13:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 99 | 09/29 07:40 | 09/29 13:35 | ⚠ 57分（07:48→08:46） |
-| financialjuice | 57 | 09/29 07:45 | 09/29 13:31 | ⚠ 62分（11:21→12:24） |
+| FirstSquawk | 109 | 09/29 08:46 | 09/29 13:48 | ⚠ 49分（09:17→10:06） |
+| financialjuice | 56 | 09/29 08:16 | 09/29 13:31 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 156 行（統合前 156 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 165 行（統合前 165 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 07:40 [FirstSquawk] NORTH KOREA: US APPROVAL OF SOUTH KOREA’S NUCLEAR SUBMARINE HEIGHTENS REGIONAL INSTABILITY — KCNA
-- 09/29 07:40 [FirstSquawk] IRAN'S FOREIGN MINISTER ARAGHCHI SAYS TEHRAN DISCUSSED PROPOSALS WITH QATARI MEDIATORS TO PRESENT TO THE U.S., WITH THE U.S. RESPONSE TO BE RELAYED TO TEHRAN THROUGH THE QATARI MEDIATORS.
-- 09/29 07:40 [FirstSquawk] IRAN'S FOREIGN MINISTER ARAGHCHI SAYS THAT IF THE U.S. 'WANTS A DEAL OR PEACE, IRAN HAS OFFERED A SOLUTION', ADDING THAT THE CONDITIONS SET BY THE SUPREME LEADER MUST BE MET FOR THE STRAIT OF HORMUZ TO REOPEN - IRNA
-- 09/29 07:41 [FirstSquawk] IRAN'S FOREIGN MINISTER ARAGHCHI SAYS TEHRAN HELD TALKS WITH QATARI MEDIATORS ON WAYS TO MEET IRAN'S DEMANDS, WITH THE MEDIATORS TO PRESENT IDEAS TO THE U.S. SIDE, AND QATARI AND PAKISTANI MEDIATION CHANNELS INTENSIFYING AFTER IRAN UNVEILED…
-- 09/29 07:41 [FirstSquawk] IRAN'S FOREIGN MINISTER ARAGHCHI SAYS HE HOPES FOR THE U.S. FINAL ANSWER THROUGH THE QATARI MEDIATORS BY TUESDAY - IRNA
-- 09/29 07:43 [FirstSquawk] IRAN’S OIL EXPORTS ARE PLUNGING UNDER THE U.S. NAVAL BLOCKADE, WHILE SAUDI AND IRAQI CRUDE EXPORTS HAVE REBOUNDED AND SAUDI ARABIA HAS INCREASINGLY ROUTED OIL THROUGH THE PERSIAN GULF AFTER ITS EAST-WEST PIPELINE RETURNED TO OPERATION. THE …
-- 09/29 07:45 [financialjuice] Explosions heard in Ukraine's Kyiv: source witness
-- 09/29 07:48 [FirstSquawk] TRUMP SAYS AXIOS 'JUST RELEASED A STORY THAT TRUMP OFFERED SANCTIONS RELIEF AND FROZEN FUNDS TO IRAN', CALLING IT 'UNTRUE' AND SAYING 'I OFFERED THEM NOTHING'. - TRUTH SOCIAL
-- 09/29 07:48 [FirstSquawk] TRUMP CALLS THE AXIOS STORY 'A HOAX, USED ONLY FOR PURPOSES OF SATISFYING THEIR TRUMP DERANGEMENT SYNDROME', DEMANDING THEY 'WITHDRAW THIS FAKE STORY, IMMEDIATELY'. - TRUTH SOCIAL
 - 09/29 08:16 [financialjuice] Anthropic’s top two direct clients made up 24% of total FY25 revenue, 12% each
 - 09/29 08:16 [financialjuice] Exclusive-Anthropic fy25 revenue $4.59 billion, up 1,088% y/y from $386 million in fy24: IPO prospectus seen by source
 - 09/29 08:16 [financialjuice] Anthropic's cash, cash equivalents and short-term investments reached $20.28 billion as of Dec. 31, 2025
@@ -180,3 +171,21 @@
 - 09/29 13:33 [FirstSquawk] Australia’s RBA lifts cash rate target to 4.60% with 25bp hike, as expected
 - 09/29 13:34 [FirstSquawk] Australian dollar climbs to $0.7026 after RBA hikes interest rates
 - 09/29 13:35 [FirstSquawk] Toyota’s parent-only Japan production declines 1.7% y/y to 204,487 vehicles in August
+- 09/29 13:35 [FirstSquawk] Toyota’s parent-only global vehicle sales drop 6.4% y/y to 790,743 units in August
+- 09/29 13:35 [FirstSquawk] Toyota’s parent-only overseas production drops 7.6% y/y to 496,373 vehicles in August
+- 09/29 13:36 [FirstSquawk] Toyota’s parent-only global production drops 5.9% y/y to 700,860 vehicles in August
+- 09/29 13:38 [FirstSquawk] RBA: Price pressures stay stubbornly persistent, with previously identified August upside risks increasingly turning into reality.
+- 09/29 13:38 [FirstSquawk] RBA: Expanding Middle East hostilities have driven worldwide fuel and power costs well past earlier August projections.
+- 09/29 13:38 [FirstSquawk] RBA: This year's trio of rate hikes has constrained overall credit conditions, visibly sapping momentum from the broader economy.
+- 09/29 13:38 [FirstSquawk] RBA: Near-term public and market inflation forecasts continue to track uncomfortably high.
+- 09/29 13:38 [FirstSquawk] RBA: Given that inflation remains unacceptably steep, policymakers concluded that additional monetary tightening is necessary to restore target levels within an acceptable timeframe.
+- 09/29 13:38 [FirstSquawk] RBA: Domestic inflation prints since the last review have consistently outpaced internal forecasts.
+- 09/29 13:38 [FirstSquawk] RBA: The central bank will implement whatever measures are required to pull inflation back to the target band permanently, not ruling out additional rate hikes.
+- 09/29 13:38 [FirstSquawk] RBA: Current policy settings are flexible enough to absorb shifting economic conditions as officials balance price stability against maximum employment goals.
+- 09/29 13:39 [FirstSquawk] RBA: Hiring demand and employment metrics have cooled generally in step with expectations, while forward-looking job market indicators remain steady.
+- 09/29 13:39 [FirstSquawk] RBA: Price-growth risks have steadily tilted upward since the previous policy gathering.
+- 09/29 13:39 [FirstSquawk] RBA: Serious doubts still cloud the future path of local economic growth and consumer price pressures.
+- 09/29 13:39 [FirstSquawk] RBA: Ongoing turmoil across the Middle East leaves open the possibility of stagflationary pressures—namely hotter inflation alongside weaker output.
+- 09/29 13:44 [FirstSquawk] Vietnam banks’ capitalisation seen steady as $5.7 billion capital drive progresses, Fitch says
+- 09/29 13:47 [FirstSquawk] Novo Nordisk to pay $300 million upfront for global rights to Hengrui’s HRS-1596, deal worth up to $2.6 billion
+- 09/29 13:48 [FirstSquawk] Etihad to fly twice daily between Abu Dhabi and Sydney starting Dec. 15
