@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-30 03:21 JST／対象: 09/29 15:21 〜 09/30 03:21 JST（時刻はすべて日本時間）
+生成: 2026-09-30 03:42 JST／対象: 09/29 15:42 〜 09/30 03:42 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 66 | 09/29 20:26 | 09/30 02:40 | 35分（21:39→22:14） |
-| FirstSquawk | 208 | 09/29 15:22 | 09/30 03:19 | 30分（19:41→20:12） |
-| financialjuice | 235 | 09/29 15:22 | 09/30 03:19 | ⚠ 50分（22:45→23:36） |
+| FirstSquawk | 210 | 09/29 15:44 | 09/30 03:41 | 30分（19:41→20:12） |
+| financialjuice | 252 | 09/29 16:00 | 09/30 03:39 | ⚠ 50分（22:45→23:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 491 行（統合前 513 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 509 行（統合前 533 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 15:22 [FirstSquawk] RBA’s Bullock says quarterly core inflation needs to be around 0.6%
-- 09/29 15:22 [financialjuice] RBA's Gov. Bullock: We need to see quarterly core inflation numbers sitting around 0.6%.
-- 09/29 15:24 [FirstSquawk] South Korea’s Defense Minister: North Korean mine that caused explosion violated armistice agreement
-- 09/29 15:40 [FirstSquawk] South Korea Defence Minister Kang: DMZ mine appears to have been planted during North Korea’s border fortification work
 - 09/29 15:44 [FirstSquawk] South Korea’s Defence Minister Kang says DMZ mine appears linked to North Korea’s border fortification work
 - 09/29 15:48 [FirstSquawk] Shell to expand Canada LNG facility capacity to 28 million tonnes a year
 - 09/29 15:58 [FirstSquawk] South Korea Joint Chiefs of Staff: DMZ mines likely planted just over a year ago
@@ -515,3 +511,25 @@
 - 09/30 03:14 [FirstSquawk] LOCKHEED MARTIN SAYS AVIO USA HAS BROKEN GROUND ON ITS FIRST U.S. SOLID ROCKET MOTOR FACILITY IN VIRGINIA, WHICH WILL PRODUCE THOUSANDS OF SOLID ROCKET MOTORS ANNUALLY AND CREATE 1,500 JOBS
 - 09/30 03:19 [FirstSquawk] OPENAI: HUGGING FACE INCIDENT WAS THE MOST SEVERE PLATFORM INCIDENT TO DATE
 - 09/30 03:19 [financialjuice] OpenaAI: Hugging Face event most severe platform incident so far.
+- 09/30 03:22 [financialjuice] Fed's Musalem: The Fed's SEP could be improved by anonymously connecting rate "dots" with economic projections
+- 09/30 03:27 [financialjuice] Fed's Musalem: Monetary policy remains somewhat accommodative even after the last rate hike.
+- 09/30 03:29 [financialjuice] Sounds like this White House AI meeting is wrapping up... Pool says press has been called to gather for an event - Fox News reporter
+- 09/30 03:29 [financialjuice] Fed's Williams: Inflation should ease because the biggest shocks have largely played out.
+- 09/30 03:29 [financialjuice] Trump Participates in a Meeting and Luncheon on Super Intelligence - WATCH LIVE
+- 09/30 03:30 [financialjuice] Fed's Williams: Energy prices remain very important in the economy, but the US is less exposed relative to the past.
+- 09/30 03:31 [financialjuice] ❗ Mediators push to break US-Iran deadlock - FT
+- 09/30 03:32 [FirstSquawk] MEDIATORS PUSH TO BREAK US-IRAN DEADLOCK AS TALKS REMAIN STALLED — FT
+- 09/30 03:32 [financialjuice] Fed's Williams: Determining how restrictive monetary policy is is hard.
+- 09/30 03:34 [FirstSquawk/financialjuice] MEDIATORS ARE RENEWING EFFORTS TO NEGOTIATE A SETTLEMENT BETWEEN THE UNITED STATES AND IRAN, DAYS AFTER PRESIDENT DONALD TRUMP REJECTED AN IRANIAN REQUEST TO REOPEN THE STRAIT OF HORMUZ AND RESTART TALKS TO END THE WAR, WITH NEGOTIATORS DUE…
+- 09/30 03:35 [FirstSquawk] UNDER THE TERMS OF THE AGREEMENT, WHICH MEDIATORS HOPE COULD RESTART TALKS ON A FINAL SETTLEMENT, IRAN WOULD ALLOW FREE MOVEMENT OF TRAFFIC THROUGH THE STRAIT OF HORMUZ AND THE U.S. WOULD EASE ITS BLOCKADE OF IRANIAN PORTS IN EXCHANGE, WITH…
+- 09/30 03:35 [financialjuice] Trump on AI meeting: Very good, very productive
+- 09/30 03:36 [financialjuice] Trump: What we spoke about will make the world safer
+- 09/30 03:36 [financialjuice] Trump: US has a big lead in AI, we'll keep our lead
+- 09/30 03:37 [financialjuice] Trump on AI Lunch: There was a lot of 'commonality' in the room.
+- 09/30 03:37 [financialjuice] Trump on AI: Should be tremendous self-regulation.
+- 09/30 03:38 [financialjuice] Trump on AI: Self-regulation is very important.
+- 09/30 03:38 [financialjuice] Trump: AI leaders to work with local communities on data centers.
+- 09/30 03:39 [financialjuice] Trump: AI leaders want to do the right thing
+- 09/30 03:39 [financialjuice] Trump ends remarks to reporters.
+- 09/30 03:41 [FirstSquawk] TRUMP SAYS IN A MEETING WITH AI LEADERS THAT IT WAS A 'VERY GOOD MEETING, EXTREMELY FRIENDLY AND PRODUCTIVE', WITH 'A LOT OF COMMONALITY IN THE ROOM', ADDING THAT THE U.S. HAS A 'BIG LEAD ON AI AND WANT TO KEEP IT'.
+- 09/30 03:41 [FirstSquawk] TRUMP SAYS 'SELF-REGULATION IS VERY IMPORTANT IN AI', ADDING THAT THE GROUP WANTS TO WORK WITH LOCAL COMMUNITIES 'TO MAKE THE PEOPLE HAPPY' AND THAT THE AI LEADERS 'WANT TO DO THE RIGHT THING'.

@@ -7,42 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-30 03:21 JST／対象: 09/29 21:21 〜 09/30 03:21 JST（時刻はすべて日本時間）
+生成: 2026-09-30 03:42 JST／対象: 09/29 21:42 〜 09/30 03:42 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 52 | 09/29 21:23 | 09/30 02:40 | 35分（21:39→22:14） |
-| FirstSquawk | 113 | 09/29 21:22 | 09/30 03:19 | 30分（02:00→02:31） |
-| financialjuice | 186 | 09/29 21:23 | 09/30 03:19 | ⚠ 50分（22:45→23:36） |
+| DeItaone | 48 | 09/29 22:14 | 09/30 02:40 | 17分（00:08→00:25） |
+| FirstSquawk | 110 | 09/29 21:46 | 09/30 03:41 | 30分（02:00→02:31） |
+| financialjuice | 194 | 09/29 21:43 | 09/30 03:39 | ⚠ 50分（22:45→23:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 338 行（統合前 355 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 341 行（統合前 357 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 21:22 [FirstSquawk] JD VANCE: WE THINK IRAN SUPREME LEADER IS ALIVE
-- 09/29 21:22 [FirstSquawk] JD VANCE: IRAN MUST BEHAVE FOR THERE TO BE ANY KIND OF DEAL
-- 09/29 21:23 [DeItaone] IRAN’S RIAL HITS RECORD LOW AS WAR WEIGHS ON ECONOMY Iran’s currency weakened to a fresh record low Tuesday, with traders exchanging more than 2.5 million rials per U.S. dollar, according to AP. The rial has fallen steadily since the U.S.-I…
-- 09/29 21:23 [financialjuice] US House Speaker Johnson on AI: The US can do security and innovation at the same time.
-- 09/29 21:23 [financialjuice] US House Speaker Johnson: I hope the AI meeting today will lead to agreement.
-- 09/29 21:24 [financialjuice/FirstSquawk/DeItaone] Oman plans to more than double oil storage capacity at Duqm.
-- 09/29 21:24 [FirstSquawk] OMAN'S OQ MULLS BUYING TWO SUPERTANKERS FOR FLOATING STORAGE
-- 09/29 21:24 [financialjuice] Iraq's Transport Ministry: Iraqi airways are preparing to resume flights to Iran after securing special exemption. Flights to and from Iran expected to resume in October, starting from Najaf international airport - Transport Ministry.
-- 09/29 21:27 [FirstSquawk] IRAQI AIRWAYS FLIGHTS TO AND FROM IRAN EXPECTED TO RESUME IN OCTOBER, STARTING FROM NAJAF INTERNATIONAL AIRPORT
-- 09/29 21:30 [financialjuice] ❗ CANADIAN GDP MOM ACTUAL 0.0% (FORECAST 0%, PREVIOUS 0.3%) $MACRO
-- 09/29 21:31 [financialjuice] Canadian GDP July Report
-- 09/29 21:31 [FirstSquawk] ISRAELI PM BENJAMIN NETANYAHU STATED ON TUESDAY THAT THERE ARE INDICATIONS THAT ISRAEL'S ENEMIES MAY ATTEMPT ATTACKS AS ELECTIONS NEAR, CAUTIONING THAT ISRAEL CAN STRIKE ITS FOES "ANYWHERE, ANYTIME."
-- 09/29 21:31 [FirstSquawk] CANADA GDP (M/M) JUL: 0.0% (EST 0.0%; PREV 0.3%)
-- 09/29 21:31 [FirstSquawk] RUSSIAN ECONOMY MINISTER TO ATTEND G20 MEETING IN US - IFX
-- 09/29 21:35 [DeItaone] 🇬🇧 AVERAGE UK DIESEL PRICE SET TO REACH £2 PER LITRE WITHIN DAYS
-- 09/29 21:38 [financialjuice] Wells Fargo Investment Institute forecasts US Fed policy rate at 4.75%-5.00% by 2027-end vs prior forecast of 4.00%-4.25%.
-- 09/29 21:38 [financialjuice] Wells Fargo Investment Institute downgrades S&P 500 information technology sector to neutral from favorable.
-- 09/29 21:39 [DeItaone/financialjuice] WELLS FARGO INVESTMENT INSTITUTE CUTS GOLD'S 2027 YEAR-END TARGET RANGE TO $5,200-$5,400 PER OUNCE FROM PRIOR FORECAST OF $5,400-$5,600 PER OUNCE
-- 09/29 21:39 [financialjuice] Wells Fargo Investment Institute upgrades S&P 500 industrials sector to favorable from neutral.
 - 09/29 21:43 [financialjuice/FirstSquawk] Wells Fargo Investment Institute forecasts 10-Year US Treasury yield at 5.25%-5.75% by 2027-end vs prior forecast of 4.50%-5.00%.
 - 09/29 21:55 [financialjuice] US REDBOOK YOY ACTUAL 8.2% (FORECAST -, PREVIOUS 7.6%) $MACRO
 - 09/29 22:00 [financialjuice] US HOUSE PRICE INDEX MOM ACTUAL 0.3% (FORECAST 0.1%, PREVIOUS 0.0%) $MACRO
@@ -362,3 +343,25 @@
 - 09/30 03:14 [FirstSquawk] LOCKHEED MARTIN SAYS AVIO USA HAS BROKEN GROUND ON ITS FIRST U.S. SOLID ROCKET MOTOR FACILITY IN VIRGINIA, WHICH WILL PRODUCE THOUSANDS OF SOLID ROCKET MOTORS ANNUALLY AND CREATE 1,500 JOBS
 - 09/30 03:19 [FirstSquawk] OPENAI: HUGGING FACE INCIDENT WAS THE MOST SEVERE PLATFORM INCIDENT TO DATE
 - 09/30 03:19 [financialjuice] OpenaAI: Hugging Face event most severe platform incident so far.
+- 09/30 03:22 [financialjuice] Fed's Musalem: The Fed's SEP could be improved by anonymously connecting rate "dots" with economic projections
+- 09/30 03:27 [financialjuice] Fed's Musalem: Monetary policy remains somewhat accommodative even after the last rate hike.
+- 09/30 03:29 [financialjuice] Sounds like this White House AI meeting is wrapping up... Pool says press has been called to gather for an event - Fox News reporter
+- 09/30 03:29 [financialjuice] Fed's Williams: Inflation should ease because the biggest shocks have largely played out.
+- 09/30 03:29 [financialjuice] Trump Participates in a Meeting and Luncheon on Super Intelligence - WATCH LIVE
+- 09/30 03:30 [financialjuice] Fed's Williams: Energy prices remain very important in the economy, but the US is less exposed relative to the past.
+- 09/30 03:31 [financialjuice] ❗ Mediators push to break US-Iran deadlock - FT
+- 09/30 03:32 [FirstSquawk] MEDIATORS PUSH TO BREAK US-IRAN DEADLOCK AS TALKS REMAIN STALLED — FT
+- 09/30 03:32 [financialjuice] Fed's Williams: Determining how restrictive monetary policy is is hard.
+- 09/30 03:34 [FirstSquawk/financialjuice] MEDIATORS ARE RENEWING EFFORTS TO NEGOTIATE A SETTLEMENT BETWEEN THE UNITED STATES AND IRAN, DAYS AFTER PRESIDENT DONALD TRUMP REJECTED AN IRANIAN REQUEST TO REOPEN THE STRAIT OF HORMUZ AND RESTART TALKS TO END THE WAR, WITH NEGOTIATORS DUE…
+- 09/30 03:35 [FirstSquawk] UNDER THE TERMS OF THE AGREEMENT, WHICH MEDIATORS HOPE COULD RESTART TALKS ON A FINAL SETTLEMENT, IRAN WOULD ALLOW FREE MOVEMENT OF TRAFFIC THROUGH THE STRAIT OF HORMUZ AND THE U.S. WOULD EASE ITS BLOCKADE OF IRANIAN PORTS IN EXCHANGE, WITH…
+- 09/30 03:35 [financialjuice] Trump on AI meeting: Very good, very productive
+- 09/30 03:36 [financialjuice] Trump: What we spoke about will make the world safer
+- 09/30 03:36 [financialjuice] Trump: US has a big lead in AI, we'll keep our lead
+- 09/30 03:37 [financialjuice] Trump on AI Lunch: There was a lot of 'commonality' in the room.
+- 09/30 03:37 [financialjuice] Trump on AI: Should be tremendous self-regulation.
+- 09/30 03:38 [financialjuice] Trump on AI: Self-regulation is very important.
+- 09/30 03:38 [financialjuice] Trump: AI leaders to work with local communities on data centers.
+- 09/30 03:39 [financialjuice] Trump: AI leaders want to do the right thing
+- 09/30 03:39 [financialjuice] Trump ends remarks to reporters.
+- 09/30 03:41 [FirstSquawk] TRUMP SAYS IN A MEETING WITH AI LEADERS THAT IT WAS A 'VERY GOOD MEETING, EXTREMELY FRIENDLY AND PRODUCTIVE', WITH 'A LOT OF COMMONALITY IN THE ROOM', ADDING THAT THE U.S. HAS A 'BIG LEAD ON AI AND WANT TO KEEP IT'.
+- 09/30 03:41 [FirstSquawk] TRUMP SAYS 'SELF-REGULATION IS VERY IMPORTANT IN AI', ADDING THAT THE GROUP WANTS TO WORK WITH LOCAL COMMUNITIES 'TO MAKE THE PEOPLE HAPPY' AND THAT THE AI LEADERS 'WANT TO DO THE RIGHT THING'.
