@@ -7,42 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-29 17:01 JST／対象: 09/29 11:01 〜 09/29 17:01 JST（時刻はすべて日本時間）
+生成: 2026-09-29 17:24 JST／対象: 09/29 11:24 〜 09/29 17:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 117 | 09/29 11:01 | 09/29 16:50 | 26分（12:45→13:11） |
-| financialjuice | 55 | 09/29 11:02 | 09/29 17:01 | ⚠ 62分（11:21→12:24） |
+| FirstSquawk | 117 | 09/29 11:28 | 09/29 17:16 | 26分（12:45→13:11） |
+| financialjuice | 48 | 09/29 12:24 | 09/29 17:01 | 39分（12:24→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 171 行（統合前 172 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 164 行（統合前 165 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 11:01 [FirstSquawk] Katayama: Japan will stay in close contact with U.S. Treasury over orderly FX markets
-- 09/29 11:02 [financialjuice] Japan finance minister Katayama: Takaichi's government is not reflationary
-- 09/29 11:02 [financialjuice] S.Korea finance minister: closely watching bond market
-- 09/29 11:02 [financialjuice] S.Korea finmin: will carry out treasury bond repurchase if yields surge excessively
-- 09/29 11:03 [financialjuice] Japan finmin Katayama: interest rates set by markets
-- 09/29 11:03 [FirstSquawk] Japan FinMin Katayama says Takaichi administration is not focused on reflation
-- 09/29 11:03 [FirstSquawk] S.Korea FinMin: Government keeping a close watch on bond market
-- 09/29 11:03 [financialjuice] Japan finmin Katayama: will coordinate closely with bond markets, pursue suitable debt management policy
-- 09/29 11:03 [FirstSquawk] South Korea FinMin says authorities will buy back treasury bonds if yields surge excessively
-- 09/29 11:03 [FirstSquawk] Katayama: Market forces determine interest rates
-- 09/29 11:04 [FirstSquawk] Katayama: Japan will maintain close dialogue with bond markets and implement appropriate debt management
-- 09/29 11:05 [financialjuice] Japan finmin katayama: will engage closely with market participants while maintaining strong urgency
-- 09/29 11:05 [FirstSquawk] Japan FinMin Katayama says Tokyo will closely engage with market participants while remaining highly vigilant
-- 09/29 11:07 [FirstSquawk] 40-year JGB yield edges up 0.5bp to 4.230%
-- 09/29 11:12 [FirstSquawk] Tokyo among the world’s highest-risk housing bubble markets, ranking second - KYODO
-- 09/29 11:17 [FirstSquawk] Experts expect Japan’s fiction surge to endure - KYODO
-- 09/29 11:20 [FirstSquawk] Indonesia benchmark stock index slides as much as 1.2%, hits lowest since July 29
-- 09/29 11:21 [financialjuice] China’s FAW signs strategic framework pact with Guangzhou Automobile Industry Group
-- 09/29 11:21 [FirstSquawk] China’s FAW and Guangzhou Automobile Industry Group sign strategic cooperation framework agreement
 - 09/29 11:28 [FirstSquawk] Shein stock tumbles 10%
 - 09/29 11:34 [FirstSquawk] Aussie dollar steadies above 0.7000 vs USD ahead of RBA rate decision - FX
 - 09/29 11:36 [FirstSquawk] Fay strengthens back into a tropical storm, NHC says
@@ -195,3 +176,15 @@
 - 09/29 16:49 [FirstSquawk] IEA CHIEF SAYS WE ARE IN TALKS WITH COUNTRIES ABOUT THIS SITUATION.
 - 09/29 16:50 [FirstSquawk] IEA LEADER SAYS EUROPE RECEIVES 50% OF ITS DIESEL SUPPLY FROM THE UNITED STATES TODAY.
 - 09/29 17:01 [financialjuice] ITALIAN INDUSTRIAL SALES MOM ACTUAL 0.6% (FORECAST -, PREVIOUS -1.0%) $MACRO
+- 09/29 17:05 [FirstSquawk] EU ENERGY COMMISSIONER STATED THAT THEY HAVE INFORMED THEIR U.S. COUNTERPART THAT BLOCKING ENERGY SUPPLIES BENEFITS NOBODY.
+- 09/29 17:05 [FirstSquawk] EU ENERGY CHIEF HAS ASKED FOR A REVIEW OF PLANS TO DELAY METHANE REGULATIONS ON IMPORTED FUELS.
+- 09/29 17:05 [FirstSquawk] EU ENERGY CHIEF STATED THAT THEY WILL EXPLORE LEGAL OPTIONS, AND THEN THE DECISION WILL BE IN THE HANDS OF EU NATIONS AND THE EU PARLIAMENT.
+- 09/29 17:05 [FirstSquawk] TESLA'S FSD SUPERVISED IS NOW APPROVED IN CROATIA, WITH ROLLOUT EXPECTED TO START SOON.
+- 09/29 17:11 [FirstSquawk] EU ENERGY CHIEF SAYS METHANE RULES SHOULD NOT BE EASED, JUST POSTPONED.
+- 09/29 17:14 [FirstSquawk] IRISH ENERGY MINISTER STATES THAT A U.S. BAN ON DIESEL EXPORTS WOULD AFFECT THE EU SIGNIFICANTLY.
+- 09/29 17:14 [FirstSquawk] IRISH ENERGY MINISTER SAYS U.S. BAN ON DIESEL EXPORTS UNLIKELY.
+- 09/29 17:14 [FirstSquawk] BAT EXPECTS FY ADJUSTED EPS GROWTH IN THE 5-8% RANGE AND ANTICIPATES REVENUE GROWTH AT THE LOWER END OF 2-5%.
+- 09/29 17:14 [FirstSquawk] BAT EXPECTS NEW CATEGORY CONTRIBUTION MARGIN TO BE AT LEAST 30% BY 2030 AND IS ON TARGET FOR FY26 GUIDANCE.
+- 09/29 17:15 [FirstSquawk] IRISH ENERGY MINISTER SAYS EUROPE HAS AMPLE RESERVES AND WE MUST STAY READY.
+- 09/29 17:15 [FirstSquawk] IRISH ENERGY MINISTER ANNOUNCES THAT EU ENERGY MINISTERS WILL MEET IN OCTOBER TO TALK ABOUT WINTER ENERGY SECURITY AND SUPPLY.
+- 09/29 17:16 [FirstSquawk] IRISH ENERGY MINISTER SAYS EU COUNTRIES CAN TEMPORARILY CHANGE TAXES TO HELP WITH HIGH ENERGY COSTS.
