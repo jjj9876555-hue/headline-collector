@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-29 17:48 JST／対象: 09/29 11:48 〜 09/29 17:48 JST（時刻はすべて日本時間）
+生成: 2026-09-29 18:01 JST／対象: 09/29 12:01 〜 09/29 18:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 118 | 09/29 12:01 | 09/29 17:40 | 26分（12:45→13:11） |
-| financialjuice | 57 | 09/29 12:24 | 09/29 17:47 | 39分（12:24→13:03） |
+| FirstSquawk | 123 | 09/29 12:01 | 09/29 17:57 | 26分（12:45→13:11） |
+| financialjuice | 58 | 09/29 12:24 | 09/29 17:52 | 39分（12:24→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 174 行（統合前 175 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 180 行（統合前 181 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 12:01 [FirstSquawk] MAS deputy chair: Singapore to commit $1.1 billion across five asset managers to strengthen equities market
 - 09/29 12:01 [FirstSquawk] US Navy reports aircraft recovery incident aboard Nimitz-class carrier USS Dwight D. Eisenhower off Virginia coast
 - 09/29 12:02 [FirstSquawk] Two naval aviators from Carrier Air Wing 3 recovered by search-and-rescue personnel, US Navy says
 - 09/29 12:03 [FirstSquawk] US Navy says one sailor is being transported to a Norfolk-area hospital for treatment of non-life-threatening injuries
@@ -198,3 +197,10 @@
 - 09/29 17:30 [financialjuice] BOE CONSUMER CREDIT ACTUAL 2.464B (FORECAST 1.9B, PREVIOUS 2.006B) $MACRO
 - 09/29 17:40 [FirstSquawk] RUSSIA ATTACKED TWO FOREIGN SHIPS IN THE ODESA AREA OF UKRAINE, ACCORDING TO ZELENSKIY.
 - 09/29 17:47 [financialjuice] NVIDIA and AMD up White House lobbying on China exports - Politico
+- 09/29 17:49 [FirstSquawk] NVIDIA, AMD WANT TRUMP TO KEEP THEIR CHIPS FLOWING TO CHINA – POLITICO
+- 09/29 17:52 [financialjuice] UK AI Minister Narayan: Need to build data centres with control, UK values.
+- 09/29 17:55 [FirstSquawk] UK AI MINISTER KANISHKA NARAYAN CONFIRMS AI GROWTH ZONES ARE STILL PROGRESSING.
+- 09/29 17:55 [FirstSquawk] UK AI MINISTER KANISHKA NARAYAN BRITAIN REQUIRES A HIGH LEVEL OF COMPUTER SOVEREIGNTY.
+- 09/29 17:55 [FirstSquawk] NARAYAN STRESSES THE IMPORTANCE OF BUILDING DATA CENTRES THAT ALIGN WITH UK VALUES AND STANDARDS.
+- 09/29 17:55 [FirstSquawk] CHINA'S FINAL CURRENT ACCOUNT SURPLUS FOR Q2 IS $193.7 BILLION, DOWN FROM PRELIMINARY SURPLUS OF $195.1 BILLION.
+- 09/29 17:57 [FirstSquawk] NHC REPORTS POLO IS HITTING BAJA CALIFORNIA WITH DANGEROUS WINDS AND LIFE-THREATENING FLASH FLOODS, CONDITIONS ARE SET TO WORSEN IN SONORA EARLY TODAY.
