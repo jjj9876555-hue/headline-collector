@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-29 10:33 JST／対象: 09/28 10:33 〜 09/29 10:33 JST（時刻はすべて日本時間）
+生成: 2026-09-29 10:53 JST／対象: 09/28 10:53 〜 09/29 10:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 38 | 09/28 16:28 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 289 | 09/28 10:34 | 09/29 10:33 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 266 | 09/28 10:40 | 09/29 10:30 | ⚠ 115分（11:30→13:26） |
+| FirstSquawk | 298 | 09/28 10:56 | 09/29 10:51 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 265 | 09/28 11:30 | 09/29 10:30 | ⚠ 115分（11:30→13:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 578 行（統合前 597 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 586 行（統合前 605 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 10:34 [FirstSquawk] CSI SSH Gold Equity Index in China drops over 3%
-- 09/28 10:40 [financialjuice] S.Korea central bank: sells 91-day monetary stabilisation bonds at 3.140% yield
-- 09/28 10:44 [FirstSquawk] Bank of Korea sells 91-day Monetary Stabilisation Bonds at 3.140% yield
-- 09/28 10:44 [FirstSquawk] Nissan Americas: US dealer supply now around 50 days, down from 100 days in January 2025
-- 09/28 10:45 [FirstSquawk] 2-year Japanese government bond yield advances 3.0 bps to 1.965%
-- 09/28 10:52 [FirstSquawk] Silver spot price drops nearly 3% to $62.40/oz
 - 09/28 10:56 [FirstSquawk] Nissan chairman sees little chance of US market opening to Chinese automakers over next five years
 - 09/28 11:12 [FirstSquawk] Cathay Pacific suspends passenger flights to Dubai and Riyadh through Jan. 31, 2027
 - 09/28 11:13 [FirstSquawk] Cathay Cargo yet to set timing for resuming freighter services to Dubai, Riyadh
@@ -602,3 +596,17 @@
 - 09/29 10:30 [financialjuice] Australia August household spending unchanged month on month seasonally adjusted - ABS
 - 09/29 10:32 [FirstSquawk] Japan offers ¥300 billion of 40-year government bonds
 - 09/29 10:33 [FirstSquawk] Australia household spending up 6.8% Y/Y in August, below 7.1% forecast
+- 09/29 10:33 [FirstSquawk] Australia household spending growth slows to 6.8% Y/Y in August from 7.0%
+- 09/29 10:36 [FirstSquawk] Oil extends rally amid ongoing concerns over Middle East supply - CNBC
+- 09/29 10:37 [FirstSquawk] Rubio urges Cuba to choose a different path, says U.S. will not tolerate threat to national security - FOX NEWS
+- 09/29 10:39 [FirstSquawk] Middle East oil exports rebound as Hormuz disruption from Iran fades - WSJ
+- 09/29 10:40 [FirstSquawk] Asian currencies stabilize but remain vulnerable to higher oil prices - WSJ
+- 09/29 10:40 [FirstSquawk] Oil prices climb amid deadlock in U.S.-Iran ceasefire negotiations - WSJ
+- 09/29 10:40 [FirstSquawk] 5-year Japan government bond yield eases 2.0bps to 2.400%
+- 09/29 10:41 [FirstSquawk] US$842 million Sydney data centre project scrapped following public backlash
+- 09/29 10:41 [FirstSquawk] Alibaba strengthens sports tech ambitions with new Nets partnership
+- 09/29 10:43 [FirstSquawk] Shein shares sink nearly 6% following 67% decline in quarterly profit
+- 09/29 10:45 [FirstSquawk] China hospital workers face wage cuts amid mounting financial pressures - zerohedge
+- 09/29 10:47 [FirstSquawk] Massive Pentagon employee database breach exposes sensitive information, ABC News reports
+- 09/29 10:47 [FirstSquawk] Haiti mayor says at least 11 killed in Gros-Morne after likely gang retaliation over UN-backed patrol
+- 09/29 10:51 [FirstSquawk] Pope Leo says warnings about AI doom scenarios should be taken seriously - RTRS

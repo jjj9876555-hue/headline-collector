@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-29 10:33 JST／対象: 09/28 22:33 〜 09/29 10:33 JST（時刻はすべて日本時間）
+生成: 2026-09-29 10:53 JST／対象: 09/28 22:53 〜 09/29 10:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 17 | 09/28 22:49 | 09/29 02:14 | ⚠ 54分（00:44→01:39） |
-| FirstSquawk | 142 | 09/28 22:37 | 09/29 10:33 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 177 | 09/28 22:33 | 09/29 10:30 | 40分（09:25→10:05） |
+| DeItaone | 15 | 09/28 22:54 | 09/29 02:14 | ⚠ 54分（00:44→01:39） |
+| FirstSquawk | 151 | 09/28 22:57 | 09/29 10:51 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 168 | 09/28 22:58 | 09/29 10:30 | 40分（09:25→10:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 324 行（統合前 339 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 324 行（統合前 336 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 22:33 [financialjuice] ECB's President Lagarde: Still sees upside risks to inflation and downside risks to growth
-- 09/28 22:33 [financialjuice] ECB's President Lagarde's Speech to European Parliament
-- 09/28 22:36 [financialjuice] UK September long-term public inflation expectations 4.3% vs 4.1% in August - Citi/YouGov
-- 09/28 22:37 [financialjuice] UK September year-ahead public inflation expectations year-ahead 4.5% vs 3.9% - Citi/YouGov
-- 09/28 22:37 [FirstSquawk] EVONIK REJECTS EUR10.3 BLN BASF BID TO CONSOLIDATE CHEMICALS INDUSTRY – FT
-- 09/28 22:39 [FirstSquawk] UK SEPTEMBER LONG-TERM PUBLIC INFLATION EXPECTATIONS AT 4.3% VS 4.1% IN AUGUST - CITI/YOUGOV
-- 09/28 22:41 [financialjuice] ECB's President Lagarde: AI could lower inflation in the long term by boosting productivity
-- 09/28 22:44 [financialjuice] WATCH LIVE: ECB's President Lagarde Speaks
-- 09/28 22:46 [FirstSquawk/financialjuice/DeItaone] RUSSIA PLANS TO EXTEND DIESEL EXPORT BAN THROUGH OCTOBER: TASS
-- 09/28 22:48 [financialjuice] Irna's Araqchi will meet with mediators in New York today. representative from the American side will not be present at this meeting - ISNA
-- 09/28 22:50 [FirstSquawk] IRAN'S ARAGHCHI TO MEET MEDIATORS IN NEW YORK ON MONDAY - ISNA
-- 09/28 22:50 [FirstSquawk] US REPRESENTATIVES WON'T BE PRESENT AT MEETING: IRAN'S ISNA
-- 09/28 22:51 [financialjuice] Iran’s Foreign Minister Araghchi to Meet Mediators, US Won't Be Present - ISNA
-- 09/28 22:51 [DeItaone] - IRAN'S ISNA NEWS AGENCY SAYS FOREIGN MINISTER ARAQCHI TO MEET MEDIATORS TODAY IN NEW YORK
 - 09/28 22:54 [DeItaone] $SPCX - SPACEX SHARES UP 1.1%; CO SAYS STARSHIP REACHES ORBIT DESPITE ENGINE ISSUE
 - 09/28 22:57 [FirstSquawk] SPACEX: ALL 26 SATELLITES ON STARSHIP ROCKET DEPLOYED IN ORBIT
 - 09/28 22:58 [FirstSquawk] UK ENERGY SEC. FAHNBULLEH: GOVT PLANS TO DEVOLVE THE WARM HOME PLAN
@@ -348,3 +334,17 @@
 - 09/29 10:30 [financialjuice] Australia August household spending unchanged month on month seasonally adjusted - ABS
 - 09/29 10:32 [FirstSquawk] Japan offers ¥300 billion of 40-year government bonds
 - 09/29 10:33 [FirstSquawk] Australia household spending up 6.8% Y/Y in August, below 7.1% forecast
+- 09/29 10:33 [FirstSquawk] Australia household spending growth slows to 6.8% Y/Y in August from 7.0%
+- 09/29 10:36 [FirstSquawk] Oil extends rally amid ongoing concerns over Middle East supply - CNBC
+- 09/29 10:37 [FirstSquawk] Rubio urges Cuba to choose a different path, says U.S. will not tolerate threat to national security - FOX NEWS
+- 09/29 10:39 [FirstSquawk] Middle East oil exports rebound as Hormuz disruption from Iran fades - WSJ
+- 09/29 10:40 [FirstSquawk] Asian currencies stabilize but remain vulnerable to higher oil prices - WSJ
+- 09/29 10:40 [FirstSquawk] Oil prices climb amid deadlock in U.S.-Iran ceasefire negotiations - WSJ
+- 09/29 10:40 [FirstSquawk] 5-year Japan government bond yield eases 2.0bps to 2.400%
+- 09/29 10:41 [FirstSquawk] US$842 million Sydney data centre project scrapped following public backlash
+- 09/29 10:41 [FirstSquawk] Alibaba strengthens sports tech ambitions with new Nets partnership
+- 09/29 10:43 [FirstSquawk] Shein shares sink nearly 6% following 67% decline in quarterly profit
+- 09/29 10:45 [FirstSquawk] China hospital workers face wage cuts amid mounting financial pressures - zerohedge
+- 09/29 10:47 [FirstSquawk] Massive Pentagon employee database breach exposes sensitive information, ABC News reports
+- 09/29 10:47 [FirstSquawk] Haiti mayor says at least 11 killed in Gros-Morne after likely gang retaliation over UN-backed patrol
+- 09/29 10:51 [FirstSquawk] Pope Leo says warnings about AI doom scenarios should be taken seriously - RTRS
