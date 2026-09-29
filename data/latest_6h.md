@@ -7,41 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-30 04:35 JST／対象: 09/29 22:35 〜 09/30 04:35 JST（時刻はすべて日本時間）
+生成: 2026-09-30 04:53 JST／対象: 09/29 22:53 〜 09/30 04:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 48 | 09/29 22:41 | 09/30 04:27 | ⚠ 80分（02:40→04:01） |
-| FirstSquawk | 107 | 09/29 22:41 | 09/30 04:28 | 30分（02:00→02:31） |
-| financialjuice | 197 | 09/29 22:41 | 09/30 04:25 | ⚠ 50分（22:45→23:36） |
+| DeItaone | 48 | 09/29 23:00 | 09/30 04:51 | ⚠ 80分（02:40→04:01） |
+| FirstSquawk | 105 | 09/29 22:56 | 09/30 04:46 | 30分（02:00→02:31） |
+| financialjuice | 207 | 09/29 23:36 | 09/30 04:52 | 10分（04:10→04:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 341 行（統合前 358 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 349 行（統合前 366 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 22:41 [financialjuice] IRGC Spokesman: US Navy ships have withdrawn to 500 kilometers from the Strait of Hormuz - Tasnim News
-- 09/29 22:41 [DeItaone] HEGSETH PLANS 20% CUT TO GENERAL, ADMIRAL POSITIONS War Secretary Pete Hegseth plans to reduce by 20% the number of military positions reserved for generals and admirals, Fox News reports. The target doubles the 10% reduction ordered last y…
-- 09/29 22:41 [FirstSquawk] UK BURNHAM: SOCIAL CARE FULLY FUNDED NOT THROUGH BORROWING
-- 09/29 22:41 [FirstSquawk] BURNHAM: I ACCEPT I MAY PAY A POLITICAL PRICE
-- 09/29 22:43 [financialjuice] Musk and Bezos to attend White House AI lunch - Axios. $TSLA $SPCX $AMZN
-- 09/29 22:44 [DeItaone] *MUSK, BEZOS TO ATTEND WHITE HOUSE AI LUNCH: AXIOS
-- 09/29 22:44 [FirstSquawk] UK TO ADJUST STATE PENSION FROM 2030 TO FUND CARE SERVICE
-- 09/29 22:45 [financialjuice] The UK is going to adjust the state pension from 2030 to fund care service.
-- 09/29 22:45 [financialjuice] Micron, Microsoft and AMD CEOs to attend White House lunch - Axios. $MSFT $MU $AMD
-- 09/29 22:45 [FirstSquawk] PARAMOUNT KICKS OFF HIGH-GRADE BOND SALE FOR WARNER BROS. DEAL
-- 09/29 22:45 [DeItaone/FirstSquawk] ELON MUSK, CEOS OF PALANTIR, AMAZON, SERVICE NOW, ALTIMETER TO ATTEND WHITE HOUSE MEETING ON AI, AXIOS REPORTS
-- 09/29 22:45 [financialjuice] Full list of attendees at White House AI lunch - Axios
-- 09/29 22:46 [DeItaone] TRUMP TO HOST AI POWER LUNCH WITH TOP TECH CEOs President Trump and House Speaker Mike Johnson are set to meet leading AI and tech executives Tuesday as Washington debates how to oversee rapidly advancing AI. Axios Attendees include Elon Mu…
-- 09/29 22:47 [FirstSquawk] UK GILT FUTURES PARE GAINS BY AROUND 10 TICKS AFTER PM BURNHAM SAYS SAVINGS FROM SCRAPPING TRIPLE LOCK WILL BE USED TO FINANCE SOCIAL CARE
-- 09/29 22:50 [DeItaone] U.S. GASOLINE AND DIESEL PRICES FALL U.S. regular gasoline prices fell 1.3 cents over the week to $4.465/gallon, though prices remain $1.347 higher than a year ago. Diesel saw a much larger decline, falling 14.7 cents to $6.382/gallon, but …
-- 09/29 22:50 [DeItaone] U.S. 30-YEAR TREASURY YIELD REACHES 5.587%, HIGHEST SINCE MAY 2004
-- 09/29 22:51 [FirstSquawk] STELLANTIS TO SUSPEND PRODUCTION AT THREE FRENCH PLANTS - LES ECHOS
-- 09/29 22:53 [FirstSquawk] PIPER SANDLER HOLDS TALKS TO BUY PERELLA WEINBERG: WSJ
 - 09/29 22:56 [FirstSquawk] BURNHAM: NATL'L COMMISSION ON ELECTORAL REFORM
 - 09/29 22:57 [FirstSquawk] BURNHAM: PARTY WITH UNDER 30% OF VOTE SHOULDN'T BE IN POWER
 - 09/29 23:00 [FirstSquawk/DeItaone] US SEPT. CONSUMER CONFIDENCE 81.9; EST. 89.0
@@ -365,3 +347,29 @@
 - 09/30 04:25 [financialjuice/FirstSquawk] CEO inside the room@: AI industry is ramping up - Fox
 - 09/30 04:27 [DeItaone] *OPEC+ LIKELY TO STICK WITH PLAN FOR STEADY QUOTAS: DELEGATES
 - 09/30 04:28 [FirstSquawk] IRAN PRESIDENT’S OFFICE: IRAN WILL NOT COMPROMISE ON ITS NUCLEAR RIGHTS — IRIB NEWS
+- 09/30 04:35 [financialjuice] House Speaker Johnson: Held a very productive meeting with tech executives
+- 09/30 04:38 [financialjuice] US House Speaker Johnson: AI providers are committed to building trust.
+- 09/30 04:39 [FirstSquawk] U.S. HOUSE SPEAKER JOHNSON SAYS ON A MEETING WITH AI LEADERS THAT THEY 'DISCUSSED STRIKING THE RIGHT BALANCE' AND AI COMPANIES ENSURING SAFETY, WITH AI PROVIDERS 'COMMITTED TO BUILDING TRUST'.
+- 09/30 04:39 [FirstSquawk] U.S. HOUSE SPEAKER JOHNSON SAYS 'WE JUST SIGNED AN ACCORD ON AI, WHICH IS A STATEMENT OF STANDARDS', ADDING THAT THE U.S. 'CAN KEEP ITS EDGE IN A SAFE WAY' AND WILL 'CONTINUE TO ASSESS AND DELIBERATE IN COMING DAYS'.
+- 09/30 04:41 [DeItaone] TRUMP ON MEETING WITH AI LEADERS: SIGNED AI DOCUMENT THAT IS A FORM OF PROTECTION
+- 09/30 04:42 [financialjuice] Trump: Had a great meeting with tech executives.
+- 09/30 04:42 [financialjuice] Trump: The document signed with ai firms is a form of protection.
+- 09/30 04:42 [FirstSquawk] TRUMP ON AI LEADERS MEETING: SIGNED AI DOCUMENT THAT HE SAYS PROVIDES A FORM OF PROTECTION
+- 09/30 04:42 [financialjuice/FirstSquawk] No evacuation alert has been issued for European citizens in Iran - Fars News
+- 09/30 04:44 [financialjuice] OpenAI CFO: Business segment revenue doubled from July.
+- 09/30 04:44 [financialjuice] Trump: If AI models are not used for good, we will nab them.
+- 09/30 04:45 [DeItaone] TRUMP: THINK WE ARE SEEING TREMENDOUS SELF-POLICING, AI LEADERS UNDERSTAND THAT TRUMP: WE ARE THKING OF CREATING COMMITTEE TO WATCH OVER
+- 09/30 04:45 [financialjuice] Trump: I'm seeing tremendous self-policing on AI
+- 09/30 04:45 [financialjuice] Trump: We're thinking about a committee of 10 people to watch over AI.
+- 09/30 04:45 [DeItaone] *TRUMP ON AI REGULATION: REITERATES US HAS FBI, CIA, DOJ
+- 09/30 04:46 [FirstSquawk] TRUMP SAYS ON A MEETING WITH AI LEADERS THAT HE THINKS THE DOCUMENT IS 'MORALLY BINDING' AND THAT HE IS SEEING 'TREMENDOUS SELF-POLICING', WITH AI LEADERS UNDERSTANDING THAT.
+- 09/30 04:46 [FirstSquawk] TRUMP SAYS THE U.S. IS 'THINKING ABOUT A COMMITTEE OF 10 PEOPLE TO WATCH OVER AI', ADDING THAT 'IF AI MODELS ARE NOT USED FOR GOOD, WE WILL NAB THEM'.
+- 09/30 04:49 [financialjuice] Trump praises NVIDIA's Huang. $NVDA
+- 09/30 04:50 [financialjuice] Trump, asked if AI guardrails are unnecessary: Yes.
+- 09/30 04:50 [DeItaone] NVIDIA'S HUANG: THERE IS NO CONFLICT BETWEEN INNOVATION, TECHNOLOGY AND SAFETY
+- 09/30 04:50 [DeItaone] NVIDIA'S HUANG: WE'RE GOING TO ADVANCE THIS RESPONSIBLY AND SAFELY
+- 09/30 04:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: -751.6 MLN NASDAQ 100: -141.4 MLN DOW 30: -165.8 MLN MAG 7: 34.4 MLN $MACRO
+- 09/30 04:51 [DeItaone] TRUMP, ASKED IF AI GUARDRAILS UNNECESSARY, SAYS YES TRUMP: THINKING ABOUT COMMITTEE OF 10 PEOPLE TO WATCH OVER AI TRUMP: I BELIEVE AI MODELS WILL BE USED FOR GOOD TRUMP: AI FIRMS KNOW THEY NEED TO SELF-POLICE
+- 09/30 04:51 [financialjuice] Trump, asked on data centers and midterms: We must do what's right.
+- 09/30 04:51 [financialjuice] Nvidia CEO Huang: No conflict between AI innovation and safety $NVDA
+- 09/30 04:52 [financialjuice] Trump and Nvidia's CEO Huang Speak - WATCH LIVE

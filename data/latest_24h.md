@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-30 04:35 JST／対象: 09/29 04:35 〜 09/30 04:35 JST（時刻はすべて日本時間）
+生成: 2026-09-30 04:53 JST／対象: 09/29 04:53 〜 09/30 04:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 70 | 09/29 20:26 | 09/30 04:27 | ⚠ 80分（02:40→04:01） |
-| FirstSquawk | 384 | 09/29 04:49 | 09/30 04:28 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 373 | 09/29 04:36 | 09/30 04:25 | ⚠ 62分（11:21→12:24） |
+| DeItaone | 76 | 09/29 20:26 | 09/30 04:51 | ⚠ 80分（02:40→04:01） |
+| FirstSquawk | 388 | 09/29 04:58 | 09/30 04:46 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 384 | 09/29 04:53 | 09/30 04:52 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 803 行（統合前 833 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 824 行（統合前 854 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 04:36 [financialjuice/FirstSquawk] UAE-Netanyahu meeting took place with the knowledge and blessing of the American government - Israel's Hayom News
-- 09/29 04:49 [FirstSquawk] IRAQ’S HEZBOLLAH THREATENS TO CLOSE BORDERS WITH COUNTRIES SANCTIONING IRAN IF AIR EMBARGO ON IRAN CONTINUES AFTER OCTOBER 1 — IRIB
-- 09/29 04:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: -332.0 MLN NASDAQ 100: 613.1 MLN DOW 30: -251.3 MLN MAG 7: 16.3 MLN $MACRO
-- 09/29 04:51 [financialjuice] US Ambassador to NATO Whitaker: Working closely with the UK on arrested men.
-- 09/29 04:53 [financialjuice] Argentina is going to attempt to halt the UK oil project in the Falklands.
 - 09/29 04:53 [financialjuice] Trump: Will visit Iowa
 - 09/29 04:54 [financialjuice] SpaceXAI launches Team Bots for collaborative AI workflows. $SPCX
 - 09/29 04:55 [financialjuice] Al Jazeera Bureau Chief: Information indicates new Iranian proposal does not include nuclear commitments until after the first phase is implemented.
@@ -827,3 +822,29 @@
 - 09/30 04:25 [financialjuice/FirstSquawk] CEO inside the room@: AI industry is ramping up - Fox
 - 09/30 04:27 [DeItaone] *OPEC+ LIKELY TO STICK WITH PLAN FOR STEADY QUOTAS: DELEGATES
 - 09/30 04:28 [FirstSquawk] IRAN PRESIDENT’S OFFICE: IRAN WILL NOT COMPROMISE ON ITS NUCLEAR RIGHTS — IRIB NEWS
+- 09/30 04:35 [financialjuice] House Speaker Johnson: Held a very productive meeting with tech executives
+- 09/30 04:38 [financialjuice] US House Speaker Johnson: AI providers are committed to building trust.
+- 09/30 04:39 [FirstSquawk] U.S. HOUSE SPEAKER JOHNSON SAYS ON A MEETING WITH AI LEADERS THAT THEY 'DISCUSSED STRIKING THE RIGHT BALANCE' AND AI COMPANIES ENSURING SAFETY, WITH AI PROVIDERS 'COMMITTED TO BUILDING TRUST'.
+- 09/30 04:39 [FirstSquawk] U.S. HOUSE SPEAKER JOHNSON SAYS 'WE JUST SIGNED AN ACCORD ON AI, WHICH IS A STATEMENT OF STANDARDS', ADDING THAT THE U.S. 'CAN KEEP ITS EDGE IN A SAFE WAY' AND WILL 'CONTINUE TO ASSESS AND DELIBERATE IN COMING DAYS'.
+- 09/30 04:41 [DeItaone] TRUMP ON MEETING WITH AI LEADERS: SIGNED AI DOCUMENT THAT IS A FORM OF PROTECTION
+- 09/30 04:42 [financialjuice] Trump: Had a great meeting with tech executives.
+- 09/30 04:42 [financialjuice] Trump: The document signed with ai firms is a form of protection.
+- 09/30 04:42 [FirstSquawk] TRUMP ON AI LEADERS MEETING: SIGNED AI DOCUMENT THAT HE SAYS PROVIDES A FORM OF PROTECTION
+- 09/30 04:42 [financialjuice/FirstSquawk] No evacuation alert has been issued for European citizens in Iran - Fars News
+- 09/30 04:44 [financialjuice] OpenAI CFO: Business segment revenue doubled from July.
+- 09/30 04:44 [financialjuice] Trump: If AI models are not used for good, we will nab them.
+- 09/30 04:45 [DeItaone] TRUMP: THINK WE ARE SEEING TREMENDOUS SELF-POLICING, AI LEADERS UNDERSTAND THAT TRUMP: WE ARE THKING OF CREATING COMMITTEE TO WATCH OVER
+- 09/30 04:45 [financialjuice] Trump: I'm seeing tremendous self-policing on AI
+- 09/30 04:45 [financialjuice] Trump: We're thinking about a committee of 10 people to watch over AI.
+- 09/30 04:45 [DeItaone] *TRUMP ON AI REGULATION: REITERATES US HAS FBI, CIA, DOJ
+- 09/30 04:46 [FirstSquawk] TRUMP SAYS ON A MEETING WITH AI LEADERS THAT HE THINKS THE DOCUMENT IS 'MORALLY BINDING' AND THAT HE IS SEEING 'TREMENDOUS SELF-POLICING', WITH AI LEADERS UNDERSTANDING THAT.
+- 09/30 04:46 [FirstSquawk] TRUMP SAYS THE U.S. IS 'THINKING ABOUT A COMMITTEE OF 10 PEOPLE TO WATCH OVER AI', ADDING THAT 'IF AI MODELS ARE NOT USED FOR GOOD, WE WILL NAB THEM'.
+- 09/30 04:49 [financialjuice] Trump praises NVIDIA's Huang. $NVDA
+- 09/30 04:50 [financialjuice] Trump, asked if AI guardrails are unnecessary: Yes.
+- 09/30 04:50 [DeItaone] NVIDIA'S HUANG: THERE IS NO CONFLICT BETWEEN INNOVATION, TECHNOLOGY AND SAFETY
+- 09/30 04:50 [DeItaone] NVIDIA'S HUANG: WE'RE GOING TO ADVANCE THIS RESPONSIBLY AND SAFELY
+- 09/30 04:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: -751.6 MLN NASDAQ 100: -141.4 MLN DOW 30: -165.8 MLN MAG 7: 34.4 MLN $MACRO
+- 09/30 04:51 [DeItaone] TRUMP, ASKED IF AI GUARDRAILS UNNECESSARY, SAYS YES TRUMP: THINKING ABOUT COMMITTEE OF 10 PEOPLE TO WATCH OVER AI TRUMP: I BELIEVE AI MODELS WILL BE USED FOR GOOD TRUMP: AI FIRMS KNOW THEY NEED TO SELF-POLICE
+- 09/30 04:51 [financialjuice] Trump, asked on data centers and midterms: We must do what's right.
+- 09/30 04:51 [financialjuice] Nvidia CEO Huang: No conflict between AI innovation and safety $NVDA
+- 09/30 04:52 [financialjuice] Trump and Nvidia's CEO Huang Speak - WATCH LIVE
