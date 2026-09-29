@@ -7,60 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-30 08:24 JST／対象: 09/30 02:24 〜 09/30 08:24 JST（時刻はすべて日本時間）
+生成: 2026-09-30 08:43 JST／対象: 09/30 02:43 〜 09/30 08:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 24 | 09/30 02:26 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
-| FirstSquawk | 92 | 09/30 02:31 | 09/30 08:09 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 151 | 09/30 02:25 | 09/30 08:09 | ⚠ 67分（06:32→07:40） |
+| DeItaone | 22 | 09/30 04:01 | 09/30 05:46 | 23分（05:12→05:36） |
+| FirstSquawk | 87 | 09/30 02:43 | 09/30 08:42 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 129 | 09/30 02:43 | 09/30 08:09 | ⚠ 67分（06:32→07:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 260 行（統合前 270 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 231 行（統合前 241 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 02:25 [financialjuice] Fed's Goolsbee: Business margins are high but starting to thin
-- 09/30 02:26 [DeItaone] FED'S BARR: I SEE US NOT GETTING TO 2% INFLATION TARGET IN A TIMELY WAY UNLESS WE ADJUST OUR POLICY
-- 09/30 02:27 [financialjuice] Fed's Barr: I see us not getting to the 2% inflation target in a timely way unless we adjust our policy.
-- 09/30 02:27 [financialjuice] Fed's Barr: Last hike was appropriate, and I think we will likely need further adjustments.
-- 09/30 02:28 [financialjuice] Fed's Goolsbee: Expectation of productivity gains from AI in the future creates a high danger of overheating now
-- 09/30 02:30 [financialjuice] Fed's Musalem: Clear framework helps policy transmission
-- 09/30 02:30 [financialjuice] Fed's Musalem: Fed should communicate how it turns info into policy
-- 09/30 02:31 [financialjuice] Fed's Musalem: Framework doesn't promise a specific interest rate path
-- 09/30 02:31 [financialjuice] Fed's Musalem: If the public understands the framework, private expectations line up with the Fed's intentions, improving trade-offs between inflation and employment
-- 09/30 02:31 [financialjuice] Fed's Musalem: Central banks should also avoid 'exiting the conversation altogether', would pose risks in terms of inflation
-- 09/30 02:31 [FirstSquawk] FED'S BARR SAYS THE LAST HIKE WAS APPROPRIATE AND THAT HE THINKS THE FED WILL LIKELY NEED FURTHER ADJUSTMENTS, SEEING THE U.S. NOT GETTING TO ITS 2% INFLATION TARGET IN A TIMELY WAY UNLESS POLICY IS ADJUSTED, WITH ALL THE FED'S FOCUS ON WHA…
-- 09/30 02:31 [financialjuice] Fed's Musalem: A central bank that keeps its framework to itself forces market participants to guess at its reaction, rather than focus on data
-- 09/30 02:31 [FirstSquawk] FED'S BARR SAYS THE RESILIENCE OF THE U.S. ECONOMY IS STRIKING AND THAT MOMENTUM SEEMS TO BE BUILDING, ADDING THAT HE DOESN'T HAVE A RECESSION IN HIS BASE CASE BUT THAT THE FED NEEDS TO BE SURE IT DOES WHAT IT TAKES TO BRING SUPPLY AND DEMA…
-- 09/30 02:31 [financialjuice] Fed's Musalem: Central bankers needn't make promises, but should tell the public how and why the central bank makes policy decisions
-- 09/30 02:31 [FirstSquawk] FED'S BARR SAYS FED INDEPENDENCE HELPS IT BETTER SERVE THE AMERICAN PEOPLE.
-- 09/30 02:32 [financialjuice] Fed's Musalem: A predictable, explained framework, is part of what makes a central bank democratically legitimate.
-- 09/30 02:32 [financialjuice] Fed's Musalem: Delegated power over interest rates also obligates the Fed to explain 'how and why that power is used'
-- 09/30 02:32 [financialjuice] Fed's Musalem: If the public understands the framework, private expectations line up with the fed's intentions, improves trade-offs between inflation and employment
-- 09/30 02:32 [FirstSquawk] FED'S MUSALEM SAYS CENTRAL BANKERS NEEDN'T MAKE PROMISES BUT SHOULD TELL THE PUBLIC HOW AND WHY THE CENTRAL BANK MAKES POLICY DECISIONS, ARGUING THAT COMMUNICATING A WELL-ARTICULATED FRAMEWORK — INCLUDING TWO OR THREE LIKELY SCENARIOS — MAK…
-- 09/30 02:32 [financialjuice] Fed's Musalem: The 'Hall of Mirrors' occurs when the Fed announces a forecast, not a framework.
-- 09/30 02:32 [FirstSquawk] FED'S MUSALEM SAYS A CENTRAL BANK THAT KEEPS ITS FRAMEWORK TO ITSELF FORCES MARKET PARTICIPANTS TO GUESS AT ITS REACTION RATHER THAN FOCUS ON DATA, WHICH 'ADDS NOISE' AND RESULTS IN HIGHER AND MORE VOLATILE INTEREST RATES AND FINANCING COST…
-- 09/30 02:32 [FirstSquawk] FED'S MUSALEM SAYS IF THE PUBLIC UNDERSTANDS THE FRAMEWORK, PRIVATE EXPECTATIONS LINE UP WITH THE FED'S INTENTIONS, IMPROVING THE TRADE-OFFS BETWEEN INFLATION AND EMPLOYMENT AND GUARDING AGAINST INFLATIONARY AND DEFLATIONARY SPIRALS, ADDING…
-- 09/30 02:32 [FirstSquawk] ISRAELI SECURITY SOURCE: NO CONCRETE OR RELIABLE INFORMATION LINKS ISRAELI ELECTIONS TO ESCALATION — KAN NEWS
-- 09/30 02:32 [financialjuice] CrowdStrike brings Falcon platform to OpenAI marketplace
-- 09/30 02:34 [FirstSquawk] KALSHI IN ADVANCED TALKS TO RAISE $1 BILLION IN FRESH FUNDING; TIGER GLOBAL & DRAGONEER AMONG POTENTIAL INVESTORS
-- 09/30 02:34 [financialjuice] Fed's Barr - Listen Live
-- 09/30 02:35 [FirstSquawk] US LAWMAKERS URGE ENERGY REGULATORS TO REJECT BLACKROCK-LED CONSORTIUM’S $33.4 BILLION AES ACQUISITION
-- 09/30 02:35 [financialjuice] Senior Jordanian official denies Israeli media reports that a Jordanian representative participated in a meeting with Netanyahu during his recent visit to the UAE - Axios
-- 09/30 02:36 [financialjuice] OpenAI targets $30 billion in funding at $1.4 trillion valuation
-- 09/30 02:36 [FirstSquawk] OPENAI'S ALTMAN HAS UNVEILED A NEW AI AGENT TOOL CALLED 'DOTS', OFFERING ALWAYS-ON AUTONOMOUS AGENTS ACROSS PAID TIERS, AND INTRODUCED GPT-6.1 SOL AT ONE-FIFTH OF ASTRA'S PRICE WITH A CUT TO ITS CACHED INPUT VERSUS STANDARD PRICE.
-- 09/30 02:36 [FirstSquawk] OPENAI'S ALTMAN SAYS IT IS WORKING WITH MICROSOFT TO INTEGRATE SPECIALIST DOTS WITH THEIR ENTERPRISE GOVERNANCE AND SECURITY CONTROLS IN AGENT 365.
-- 09/30 02:36 [FirstSquawk] WHITE HOUSE EYES EUROPE DIESEL RESERVE RELEASE TO AVOID EXPORT BAN - POLITICO
-- 09/30 02:37 [FirstSquawk] JORDANIAN OFFICIAL DENIES REPORTS THAT JORDANIAN REPRESENTATIVE JOINED NETANYAHU MEETING DURING UAE VISIT — AXIOS
-- 09/30 02:40 [financialjuice] Fed's Barr: Economy is quite strong right now - Detroit Radio Station WJR
-- 09/30 02:40 [DeItaone] OPENAI SEEKS $30 BILLION AT $1.4 TRILLION VALUATION OpenAI is targeting at least $30 billion in new funding at a roughly $1.4 trillion valuation, Bloomberg reports, after postponing its IPO plans. The financing would serve as a bridge round…
-- 09/30 02:41 [financialjuice] Fed's Barr: People are frustrated and uncertain because inflation has been too high.
-- 09/30 02:42 [financialjuice] Fed's Barr: In the short term, the biggest effect of AI right now is driving up costs
 - 09/30 02:43 [FirstSquawk] BP'S WHITING REFINERY SAYS IT IS PROPOSING A 6-YEAR CONTRACT TERM THAT WOULD PROVIDE STABILITY FOR THE REFINERY AND EMPLOYEES, ALONG WITH AN EXTENDED NOTICE PERIOD BEFORE THE UNION CAN STRIKE OR THE COMPANY CAN INITIATE A LOCKOUT.
 - 09/30 02:43 [FirstSquawk] BP'S WHITING REFINERY SAYS IT WILL CONTINUE TO MEET WITH USW 7-1 REPRESENTATIVES TO FIND COMMON GROUND AS NEGOTIATIONS PROGRESS.
 - 09/30 02:43 [financialjuice] Fed's Goolsbee: Nothing in the Federal Reserve Act says make sure the bond market is happy or stock markets aren't surprised
@@ -284,3 +247,11 @@
 - 09/30 08:09 [FirstSquawk] JD VANCE ON AI: “SKYNET” SCENARIO WON’T HAPPEN; SAYS AI WILL NOT TAKE OVER NUCLEAR WEAPONS OR HAVE ROBOTS KILLING PEOPLE
 - 09/30 08:09 [financialjuice] China commerce ministry: eu states considering tougher trade actions on China use typical protectionist, unilateral measures that will disrupt stability
 - 09/30 08:09 [FirstSquawk] JD VANCE ON FRONTIER AI: “IF YOU’RE BUILDING A TERRIBLE, TERRIBLE THING, THEN STOP AND BUILD SOMETHING GOOD”
+- 09/30 08:35 [FirstSquawk] JAPAN, US AND EUROPE TO AGREE STEEL MONITORING FRAMEWORK - YOMIURI
+- 09/30 08:35 [FirstSquawk] QATARI-MEDIATED TALKS BETWEEN THE U.S. AND IRAN MADE LITTLE PROGRESS, WITH BOTH SIDES REFUSING TO COMPROMISE AND FEARS OF RENEWED FIGHTING RISING, AS QATAR PROPOSED A DEAL LINKING IRAN'S DEMAND TO LIFT THE U.S. NAVAL BLOCKADE WITH U.S. DEMA…
+- 09/30 08:35 [FirstSquawk] U.S. OFFICIALS INITIALLY DESCRIBED THE TALKS AS POSITIVE AND SAID TRUMP WAS OPEN TO SANCTIONS RELIEF AND RELEASING FROZEN FUNDS FOR NUCLEAR CONCESSIONS, BUT HOURS LATER TRUMP SAID HE HAD OFFERED IRAN NOTHING, WITH A SOURCE TELLING AXIOS THE…
+- 09/30 08:36 [FirstSquawk] SAUDI ARABIA HAS APPROVED A VISA EXEMPTION AGREEMENT WITH TÜRKIYE FOR DIPLOMATIC AND SPECIAL PASSPORT HOLDERS, UNDER WHICH HOLDERS CAN STAY VISA-FREE FOR UP TO 90 DAYS WITHIN ANY 180-DAY PERIOD
+- 09/30 08:38 [FirstSquawk] COPPER HOLDS ABOVE $14,400 A TON AFTER WORKERS AT CHILE’S CENTINELA MINE OVERWHELMINGLY REJECTED A WAGE OFFER, RAISING STRIKE RISKS, WHILE WORKERS AT BHP’S ESCONDIDA MINE ALSO VOTE ON A WAGE PROPOSAL; LME COPPER ROSE 0.2% TO $14,438.50.
+- 09/30 08:38 [FirstSquawk] COPPER REMAINS ON TRACK FOR A THIRD STRAIGHT MONTHLY GAIN AFTER HITTING A RECORD $14,875 IN SEPTEMBER, WITH TIGHT PHYSICAL MARKETS AND STRONG CHINESE DEMAND SUPPORTING PRICES; DEUTSCHE BANK SEES COPPER RISING ABOVE $22,000 A TON WITHIN SIX …
+- 09/30 08:41 [FirstSquawk] BOEING HAS WON THE U.S. NAVY'S F/A-XX COMPETITION, BEATING NORTHROP GRUMMAN FOR A CONTRACT WORTH MORE THAN $20 BLN TO DEVELOP THE NAVY'S NEXT-GENERATION CARRIER FIGHTER. || THE AIRCRAFT IS EXPECTED TO ENTER SERVICE IN THE 2030S, REPLACING T…
+- 09/30 08:42 [FirstSquawk] THE EURO FELL 0.5% TO $1.1312, ITS WEAKEST LEVEL SINCE MAY 2025, AS EXPECTATIONS FOR FURTHER FED RATE HIKES AND RISING U.S. TREASURY YIELDS BOOSTED THE DOLLAR; THE EURO IS DOWN 2.6% AGAINST THE DOLLAR IN SEPTEMBER. DOLLAR SPOT INDEX HAS GAI…
