@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-29 14:53 JST／対象: 09/28 14:53 〜 09/29 14:53 JST（時刻はすべて日本時間）
+生成: 2026-09-29 15:23 JST／対象: 09/28 15:23 〜 09/29 15:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 38 | 09/28 16:28 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 343 | 09/28 15:00 | 09/29 14:53 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 303 | 09/28 15:00 | 09/29 14:46 | ⚠ 62分（11:21→12:24） |
+| FirstSquawk | 345 | 09/28 15:24 | 09/29 15:22 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 307 | 09/28 15:41 | 09/29 15:22 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 669 行（統合前 688 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 675 行（統合前 694 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 15:00 [financialjuice] SWEDISH TRADE BALANCE ACTUAL -11.9B (FORECAST -, PREVIOUS 1.2B) $MACRO
-- 09/28 15:00 [FirstSquawk] SWEDEN (AUG) TRADE BALANCE ACTUAL: -11.9B VS 1.2B PREVIOUS
-- 09/28 15:00 [FirstSquawk] NORWAY (AUG) RETAIL SALES W/AUTO FUEL MOM ACTUAL: 0.6% VS -0.7% PREVIOUS
-- 09/28 15:07 [FirstSquawk] EU’s Kallas calls for focus on addressing gaps in Europe’s defence capabilities
-- 09/28 15:08 [FirstSquawk] EU’s Kallas says Aspides mission faces greater need for naval assets than ever
-- 09/28 15:13 [FirstSquawk] Foreign banks reportedly explore UBS merger, according to Swiss newspaper
-- 09/28 15:15 [FirstSquawk] EU’s Kallas: Russia planning additional sabotage operations, intelligence reports show
-- 09/28 15:22 [FirstSquawk] Australian stocks edge higher as S&P/ASX 200 ends at 8,679.70
 - 09/28 15:24 [FirstSquawk] UK’s Streeting: State-backed actors could seek to harm Britain, requiring continued vigilance
 - 09/28 15:25 [FirstSquawk] UK’s Streeting declines to speculate on motives behind arrests
 - 09/28 15:27 [FirstSquawk] Deutsche Bank cuts PepsiCo rating to Hold from Buy and price target to $138 from $155
@@ -693,3 +685,17 @@
 - 09/29 14:48 [FirstSquawk] RBA’s Bullock says inflation risks linked to the AI boom are increasing
 - 09/29 14:49 [FirstSquawk] RBA’s Bullock: One upside inflation risk has materialised and two others are building
 - 09/29 14:53 [FirstSquawk] RBA’s Bullock says unemployment rate can edge higher without widespread job losses
+- 09/29 14:55 [FirstSquawk] RBA’s Bullock says multiple inflationary pressures are making the situation very difficult
+- 09/29 14:58 [financialjuice] RBA's Gov. Bullock: We are aiming to tighten in a measured way
+- 09/29 14:59 [FirstSquawk] RBA’s Bullock says the central bank is seeking measured policy tightening
+- 09/29 15:02 [FirstSquawk] SWEDEN (SEP) ECONOMIC TENDENCY SURVEY ACTUAL: 102.2 VS 105.1 PREVIOUS
+- 09/29 15:02 [FirstSquawk] SWEDEN (SEP) ECONOMIC TENDENCY SURVEY ACTUAL: 106.3 VS 98.0 PREVIOUS
+- 09/29 15:03 [financialjuice] RBA's Gov. Bullock: We're looking to schedule board meetings around ABS inflation data
+- 09/29 15:03 [financialjuice] RBA's Gov. Bullock: There is no wage price spiral in Australia
+- 09/29 15:04 [FirstSquawk] RBA’s Bullock says there is no wage-price spiral in Australia
+- 09/29 15:04 [FirstSquawk] Russian forces strike two data centres in Kyiv, Russian Defence Ministry says, IFX reports
+- 09/29 15:17 [FirstSquawk] RBA’s Bullock: Will do what is necessary with interest rates
+- 09/29 15:19 [FirstSquawk] RBA’s Bullock: Hope we can avoid needing a recession
+- 09/29 15:19 [financialjuice] RBA's Gov. Bullock: Neutral interest rate moving up in australia, globally.
+- 09/29 15:22 [FirstSquawk] RBA’s Bullock says quarterly core inflation needs to be around 0.6%
+- 09/29 15:22 [financialjuice] RBA's Gov. Bullock: We need to see quarterly core inflation numbers sitting around 0.6%.

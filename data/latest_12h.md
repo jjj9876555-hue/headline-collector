@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-29 14:53 JST／対象: 09/29 02:53 〜 09/29 14:53 JST（時刻はすべて日本時間）
+生成: 2026-09-29 15:23 JST／対象: 09/29 03:23 〜 09/29 15:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 171 | 09/29 02:57 | 09/29 14:53 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 135 | 09/29 02:55 | 09/29 14:46 | ⚠ 62分（11:21→12:24） |
+| FirstSquawk | 179 | 09/29 03:29 | 09/29 15:22 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 136 | 09/29 03:28 | 09/29 15:22 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 302 行（統合前 306 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 311 行（統合前 315 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 02:55 [financialjuice] Trump Speaks Live
-- 09/29 02:56 [financialjuice] LIVE: Trump announces a $15 billion steel mill planned for Iowa
-- 09/29 02:57 [financialjuice] Axios Reporter on X: The US wants to see Iran inviting IAEA inspectors back as it committed to in the talks in Switzerland
-- 09/29 02:57 [FirstSquawk] US WANTS IRAN TO ALLOW IAEA INSPECTORS TO RETURN, HONORING COMMITMENT MADE DURING SWISS TALKS — AXIOS REPORTER ON X
-- 09/29 03:04 [financialjuice] UK Official confirms that no viable explosives were found at Fairford.
 - 09/29 03:28 [financialjuice] Trump: Mesabi Metallics to produce 10m tons of steel per year.
 - 09/29 03:29 [financialjuice] Trump Makes an Announcement, September 28th 2026
 - 09/29 03:29 [FirstSquawk] TRUMP: MESABI METALLICS TO PRODUCE 10 MILLION TONS OF STEEL ANNUALLY
@@ -326,3 +321,17 @@
 - 09/29 14:48 [FirstSquawk] RBA’s Bullock says inflation risks linked to the AI boom are increasing
 - 09/29 14:49 [FirstSquawk] RBA’s Bullock: One upside inflation risk has materialised and two others are building
 - 09/29 14:53 [FirstSquawk] RBA’s Bullock says unemployment rate can edge higher without widespread job losses
+- 09/29 14:55 [FirstSquawk] RBA’s Bullock says multiple inflationary pressures are making the situation very difficult
+- 09/29 14:58 [financialjuice] RBA's Gov. Bullock: We are aiming to tighten in a measured way
+- 09/29 14:59 [FirstSquawk] RBA’s Bullock says the central bank is seeking measured policy tightening
+- 09/29 15:02 [FirstSquawk] SWEDEN (SEP) ECONOMIC TENDENCY SURVEY ACTUAL: 102.2 VS 105.1 PREVIOUS
+- 09/29 15:02 [FirstSquawk] SWEDEN (SEP) ECONOMIC TENDENCY SURVEY ACTUAL: 106.3 VS 98.0 PREVIOUS
+- 09/29 15:03 [financialjuice] RBA's Gov. Bullock: We're looking to schedule board meetings around ABS inflation data
+- 09/29 15:03 [financialjuice] RBA's Gov. Bullock: There is no wage price spiral in Australia
+- 09/29 15:04 [FirstSquawk] RBA’s Bullock says there is no wage-price spiral in Australia
+- 09/29 15:04 [FirstSquawk] Russian forces strike two data centres in Kyiv, Russian Defence Ministry says, IFX reports
+- 09/29 15:17 [FirstSquawk] RBA’s Bullock: Will do what is necessary with interest rates
+- 09/29 15:19 [FirstSquawk] RBA’s Bullock: Hope we can avoid needing a recession
+- 09/29 15:19 [financialjuice] RBA's Gov. Bullock: Neutral interest rate moving up in australia, globally.
+- 09/29 15:22 [FirstSquawk] RBA’s Bullock says quarterly core inflation needs to be around 0.6%
+- 09/29 15:22 [financialjuice] RBA's Gov. Bullock: We need to see quarterly core inflation numbers sitting around 0.6%.
