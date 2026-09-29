@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-30 00:49 JST／対象: 09/29 00:49 〜 09/30 00:49 JST（時刻はすべて日本時間）
+生成: 2026-09-30 01:02 JST／対象: 09/29 01:02 〜 09/30 01:02 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 59 | 09/29 01:39 | 09/30 00:46 | ⚠ 1092分（02:14→20:26） |
-| FirstSquawk | 375 | 09/29 00:53 | 09/30 00:48 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 303 | 09/29 00:56 | 09/30 00:48 | ⚠ 62分（11:21→12:24） |
+| DeItaone | 62 | 09/29 01:39 | 09/30 01:01 | ⚠ 1092分（02:14→20:26） |
+| FirstSquawk | 374 | 09/29 01:09 | 09/30 00:53 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 307 | 09/29 01:17 | 09/30 01:01 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 714 行（統合前 741 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 719 行（統合前 747 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 00:53 [FirstSquawk] CITIGROUP CEO FRASER SAYS BANK TRACKS AGENTS CONSTANTLY
-- 09/29 00:56 [FirstSquawk] KKR AND RWE SAID TO JOINTLY BID FOR GERMAN STATE-OWNED UNIPER
-- 09/29 00:56 [financialjuice] Lebanese Prime Minister: Rubio confirmed America's commitment to supporting the Lebanese army - Al Arabiya
-- 09/29 00:58 [financialjuice] TotalEnergies CEO: EU tankers can be used to ship LNG from Russia's Yamal outside of the EU, but it will be limited business
-- 09/29 01:00 [FirstSquawk] SPACEX'S STARSHIP RETURNS TO EARTH, TOUCHES DOWN IN THE PACIFIC OCEAN
-- 09/29 01:01 [financialjuice] Russia cuts oil and gas revenues estimate for 2026 to 7.6 trln roubles from 8.9 trln roubles previously, materials show
 - 09/29 01:09 [FirstSquawk] IRAN'S MILITARY AND SUPPORTING GROUPS WILL PROVIDE A "DEVASTATING RESPONSE" TO ANY THREAT, SAID ARMED FORCES CHIEF ALI ABDOLLAHI. HE STATED THAT TEHRAN'S NETWORK IN THE REGION HAS BECOME MORE STRATEGICALLY INTEGRATED EVEN AFTER THE DEATH OF…
 - 09/29 01:09 [FirstSquawk] ABDOLLAHI STATED THAT THE U.S. AND ISRAEL ANTICIPATED NASRALLAH'S DEATH WOULD LEAD TO THE COLLAPSE OF THE "RESISTANCE" FRONT, BUT THEY WERE WRONG.
 - 09/29 01:09 [FirstSquawk] HE STATED THAT THE NETWORK REMAINED STRONG AND HAD SUCCESSFULLY COMPLETED BOTH OPEN AND HIDDEN “STRATEGIC INTEGRATION,” NOTING NASRALLAH’S CONTINUED INFLUENCE IN LEBANON, PALESTINE, YEMEN, AND IRAQ.
@@ -738,3 +732,14 @@
 - 09/30 00:48 [FirstSquawk] US OFFERS UP TO 40 MILLION BARRELS FROM STRATEGIC OIL RESERVE
 - 09/30 00:48 [financialjuice] US Energy Department announces an SPR release in a statement.
 - 09/30 00:48 [financialjuice] BoE's Mann: Inflation staying above 2% is a credibility problem.
+- 09/30 00:51 [DeItaone] *US ENERGY DEPARTMENT ANNOUNCES SPR RELEASE IN STATEMENT
+- 09/30 00:52 [financialjuice/DeItaone] ECB's DeMarco: Stronger core inflation could be grounds to act.
+- 09/30 00:53 [FirstSquawk] IRAN WILL BE READY TO DISCUSS THE NUCLEAR ISSUE ONLY AFTER THE STRAIT OF HORMUZ ISSUE IS RESOLVED AND WASHINGTON LIFTS THE BLOCKADE - RIA CITING IRANIAN DIPLOMATIC SOURCE
+- 09/30 00:53 [FirstSquawk] IRAN IS READY TO DISCUSS THE NUCLEAR DOSSIER ONLY AFTER A NUMBER OF CONDITIONS ARE MET, ACCORDING TO A DIPLOMATIC SOURCE.
+- 09/30 00:54 [financialjuice] ECB's DeMarco: I would not exclude a rate hike in October.
+- 09/30 00:55 [financialjuice] ECB's Demarco: Recent rise in L-T bond yields quite worrying.
+- 09/30 00:55 [financialjuice] ECB's DeMarco: The economic situation is quite fragile.
+- 09/30 01:00 [financialjuice] France to issue €340 bln of medium and long-term bonds next year, net of buybacks - AFT
+- 09/30 01:01 [financialjuice] France's stock of outstanding T-bills seen increasing by €2.2 bln in 2027 - AFT.
+- 09/30 01:01 [financialjuice] French 3-Month T-bills seen at 3% next year, 10-Yr benchmark at 4.3% - AFT
+- 09/30 01:01 [DeItaone] FRANCE FACES RECORD €340 BILLION BORROWING WAVE France plans to issue €340 billion of medium- and long-term debt in 2027, as its total borrowing requirement reaches €339.7 billion. A record €189.2 billion of debt redemptions will add to ref…

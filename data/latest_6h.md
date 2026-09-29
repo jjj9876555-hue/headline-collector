@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-30 00:49 JST／対象: 09/29 18:49 〜 09/30 00:49 JST（時刻はすべて日本時間）
+生成: 2026-09-30 01:02 JST／対象: 09/29 19:02 〜 09/30 01:02 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 49 | 09/29 20:26 | 09/30 00:46 | 35分（21:39→22:14） |
-| FirstSquawk | 98 | 09/29 18:55 | 09/30 00:48 | 30分（19:41→20:12） |
-| financialjuice | 95 | 09/29 19:20 | 09/30 00:48 | ⚠ 50分（22:45→23:36） |
+| DeItaone | 52 | 09/29 20:26 | 09/30 01:01 | 35分（21:39→22:14） |
+| FirstSquawk | 95 | 09/29 19:05 | 09/30 00:53 | 30分（19:41→20:12） |
+| financialjuice | 102 | 09/29 19:20 | 09/30 01:01 | ⚠ 50分（22:45→23:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 227 行（統合前 244 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 233 行（統合前 251 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 18:55 [FirstSquawk] PBOC HAS REDUCED THE PSL RATE BY 0.25 PERCENT POINTS.
-- 09/29 18:55 [FirstSquawk] PBOC CHANGES SOME MONETARY POLICY TOOLS.
-- 09/29 18:55 [FirstSquawk] PBOC SLASHES PSL RATES BY 0.25 PERCENTAGE POINT, 1-YEAR PSL NOW AT 1.5%.
-- 09/29 18:57 [FirstSquawk] PBOC INCREASES RELENDING QUOTA BY 500 BILLION YUAN FOR AGRICULTURE AND SMALL BUSINESSES.
-- 09/29 18:57 [FirstSquawk] PBOC TO INCREASE RELENDING BY 200 BILLION YUAN FOR TECHNOLOGY TRANSFORMATION.
 - 09/29 19:05 [FirstSquawk] NOVO’S OZEMPIC ® (SEMAGLUTIDE) 2 MG IS LINKED TO A LOWER RISK OF SERIOUS HEART-RELATED ISSUES (DEATH, HEART ATTACK, AND STROKE) IN ADULTS WITH TYPE 2 DIABETES THAN SWITCHING TO MOUNJARO ® (TIRZEPATIDE), AS PER A REAL-WORLD STUDY PRESENTED A…
 - 09/29 19:06 [FirstSquawk] NOVO NORDISK'S SEMAGLUTIDE 2 MG DOSE IS ASSOCIATED WITH A 6% LOWER RISK OF SERIOUS CARDIOVASCULAR EVENTS.
 - 09/29 19:07 [FirstSquawk] CHINA WILL HELP COVER INTEREST PAYMENTS FOR FIRST-TIME HOME MORTGAGES.
@@ -251,3 +246,14 @@
 - 09/30 00:48 [FirstSquawk] US OFFERS UP TO 40 MILLION BARRELS FROM STRATEGIC OIL RESERVE
 - 09/30 00:48 [financialjuice] US Energy Department announces an SPR release in a statement.
 - 09/30 00:48 [financialjuice] BoE's Mann: Inflation staying above 2% is a credibility problem.
+- 09/30 00:51 [DeItaone] *US ENERGY DEPARTMENT ANNOUNCES SPR RELEASE IN STATEMENT
+- 09/30 00:52 [financialjuice/DeItaone] ECB's DeMarco: Stronger core inflation could be grounds to act.
+- 09/30 00:53 [FirstSquawk] IRAN WILL BE READY TO DISCUSS THE NUCLEAR ISSUE ONLY AFTER THE STRAIT OF HORMUZ ISSUE IS RESOLVED AND WASHINGTON LIFTS THE BLOCKADE - RIA CITING IRANIAN DIPLOMATIC SOURCE
+- 09/30 00:53 [FirstSquawk] IRAN IS READY TO DISCUSS THE NUCLEAR DOSSIER ONLY AFTER A NUMBER OF CONDITIONS ARE MET, ACCORDING TO A DIPLOMATIC SOURCE.
+- 09/30 00:54 [financialjuice] ECB's DeMarco: I would not exclude a rate hike in October.
+- 09/30 00:55 [financialjuice] ECB's Demarco: Recent rise in L-T bond yields quite worrying.
+- 09/30 00:55 [financialjuice] ECB's DeMarco: The economic situation is quite fragile.
+- 09/30 01:00 [financialjuice] France to issue €340 bln of medium and long-term bonds next year, net of buybacks - AFT
+- 09/30 01:01 [financialjuice] France's stock of outstanding T-bills seen increasing by €2.2 bln in 2027 - AFT.
+- 09/30 01:01 [financialjuice] French 3-Month T-bills seen at 3% next year, 10-Yr benchmark at 4.3% - AFT
+- 09/30 01:01 [DeItaone] FRANCE FACES RECORD €340 BILLION BORROWING WAVE France plans to issue €340 billion of medium- and long-term debt in 2027, as its total borrowing requirement reaches €339.7 billion. A record €189.2 billion of debt redemptions will add to ref…
