@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-29 20:34 JST／対象: 09/28 20:34 〜 09/29 20:34 JST（時刻はすべて日本時間）
+生成: 2026-09-29 20:54 JST／対象: 09/28 20:54 〜 09/29 20:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 23 | 09/28 20:38 | 09/29 20:32 | ⚠ 1092分（02:14→20:26） |
-| FirstSquawk | 363 | 09/28 20:42 | 09/29 20:28 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 289 | 09/28 20:35 | 09/29 20:29 | ⚠ 62分（11:21→12:24） |
+| DeItaone | 28 | 09/28 22:49 | 09/29 20:53 | ⚠ 1092分（02:14→20:26） |
+| FirstSquawk | 363 | 09/28 20:57 | 09/29 20:44 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 291 | 09/28 21:00 | 09/29 20:54 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 658 行（統合前 679 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 665 行（統合前 686 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 20:35 [financialjuice] AI firm Instinct raised $1B at a $10B valuation - NYT DealBook
-- 09/28 20:38 [financialjuice] US Health Sec. Azar: We will make sure Britain wins in AI revolution
-- 09/28 20:38 [DeItaone] $META - META PRICE TARGET RAISED TO $830 Monness Crespi Hardt raised its Meta price target to $830 from $730, maintaining a Buy rating. The firm says early traction for Meta’s Muse personal AI agent and its broader AI strategy have started …
-- 09/28 20:41 [financialjuice] Nvidia investments portfolio consists of 13 public companies, 229 private
-- 09/28 20:42 [FirstSquawk/financialjuice] NVIDIA: ANTHROPIC'S REPORTED CONTRACTED VALUE EXCEEDS $180B
-- 09/28 20:42 [DeItaone] IRAN REACHES OUT TO ARAB STATES Iranian General Yahya Safavi says Tehran has “extended a hand of friendship” to Arab countries, according to local media. Safavi warned that the United States will eventually leave the region, signaling Iran’…
-- 09/28 20:43 [financialjuice] Nvidia's commitments increased to $279B from $119B last quarter
-- 09/28 20:43 [financialjuice] NVIDIA commitments primarily related to procurement of memory.
-- 09/28 20:51 [FirstSquawk] FIVE PEOPLE DETAINED IN THE "FAIRFORD" INCIDENT IN BRITAIN ARE ALL BRITISH NATIONALS.
 - 09/28 20:57 [FirstSquawk] U.S. CENTRAL COMMAND REPORTS OVER ONE BILLION BARRELS OF OIL TRANSPORTED THROUGH THE HORMUZ STRAIT IN RECENT MONTHS.
 - 09/28 21:00 [financialjuice] Secured overnight financing rate: 3.90% September 25th vs 3.88% September 24th
 - 09/28 21:02 [FirstSquawk] US FDA OKS ABBVIE’S JUVMO FOR PARKINSON'S DISEASE
@@ -682,3 +673,19 @@
 - 09/29 20:29 [financialjuice] Putin's Envoy Dmitriev, US Officials discussed possible US-Russia energy initiatives after the war ends - US Official.
 - 09/29 20:29 [DeItaone] MORGAN STANLEY BUILDS CRYPTO LAB Morgan Stanley has launched a Digital Asset Lab to test stablecoins, tokenization and DeFi applications before deploying them across the bank. The firm will explore tokenized deposits, CBDCs, money-market fu…
 - 09/29 20:32 [DeItaone] U.S. S&P 500 E-MINI FUTURES UP 0.1%, NASDAQ 100 FUTURES UP 0.3%, DOW FUTURES UP 0.2%
+- 09/29 20:35 [DeItaone] 🇺🇸 PRESIDENT TRUMP — TUESDAY, SEPTEMBER 29, 2026 🔸 8:00 AM — Executive Time 🔸 9:00 AM — In-Town Pool Call Time 🔸 10:00 AM — Announcement on https://t.co/wreay0MAAb — Andrew W. Mellon Auditorium 🔸 12:30 PM — Meeting & Luncheon on Super Intel…
+- 09/29 20:39 [DeItaone] https://t.co/3Cw9HhjwNx
+- 09/29 20:40 [FirstSquawk] US OFFICIALPUTIN'S ENVOY DMITRIEV HAD 'CONSTRUCTIVE' MEETING ON MONDAY WITH US OFFICIALS ON PEACEFULLY RESOLVING WAR IN UKRAINE
+- 09/29 20:43 [financialjuice] Iran: It discussed expanding energy trade with Azerbaijan.
+- 09/29 20:44 [FirstSquawk] GERMAN DEFENCE MINISTER PISTORIUS: GERMANY PLANNING TO BUY 16 A400M TRANSPORTERS FROM AIRBUS, ORDER VOLUME WILL BE IN THE BILLIONS
+- 09/29 20:45 [DeItaone] U.S. CRUDE PRICES FALL AS HORMUZ EXPORTS RISE Regional U.S. crude prices weakened as rising exports through the Strait of Hormuz eased concerns over global supply tightness. WTI remained rangebound in the mid-$90s/bbl. Houston averaged $98.…
+- 09/29 20:46 [DeItaone] FED SPEAKERS IN FOCUS AS BOND YIELDS SURGE Markets are closely watching Fed officials for any shift in tone following the sharp rise in Treasury yields. Deutsche Bank says policymakers remain broadly hawkish and expects two additional 25bp …
+- 09/29 20:47 [financialjuice] ECB’s Escriva: We are still not in a restrictive territory.
+- 09/29 20:49 [financialjuice] ECB's Escriva: What I would start to worry about is the global upward trajectory of long-term rates.
+- 09/29 20:49 [DeItaone] MEDVEDEV WARNS WORLD CLOSER TO GLOBAL CONFLICT Russian Security Council Deputy Chairman Dmitry Medvedev claimed Tuesday that the world is closer to a global conflict than at any point since 1945.
+- 09/29 20:49 [financialjuice] ECB’s Escriva: This can add pressure to interest rates.
+- 09/29 20:50 [financialjuice/DeItaone] ❗ Trump backs Russia sanction relief on prisoner release - Atlantic.
+- 09/29 20:51 [financialjuice] Trump expressed support for the plan a few months ago - Atlantic.
+- 09/29 20:51 [financialjuice] Russia initiative is still in its early stages - Atlantic.
+- 09/29 20:53 [DeItaone] IEA'S BIROL: EUROPE IS GOING TO ENTER A VERY DIFFICULT WINTER
+- 09/29 20:54 [financialjuice] ECB's Escriva: High energy prices might anchor in inflation.

@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-29 20:34 JST／対象: 09/29 14:34 〜 09/29 20:34 JST（時刻はすべて日本時間）
+生成: 2026-09-29 20:54 JST／対象: 09/29 14:54 〜 09/29 20:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 4 | 09/29 20:26 | 09/29 20:32 | 2分（20:29→20:32） |
-| FirstSquawk | 106 | 09/29 14:35 | 09/29 20:28 | 30分（19:41→20:12） |
-| financialjuice | 44 | 09/29 14:34 | 09/29 20:29 | ⚠ 50分（18:30→19:20） |
+| DeItaone | 11 | 09/29 20:26 | 09/29 20:53 | 5分（20:39→20:45） |
+| FirstSquawk | 98 | 09/29 14:55 | 09/29 20:44 | 30分（19:41→20:12） |
+| financialjuice | 45 | 09/29 14:58 | 09/29 20:54 | ⚠ 50分（18:30→19:20） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 151 行（統合前 154 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 150 行（統合前 154 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 14:34 [financialjuice] RBA's Gov. Bullock: Unemployment is still quite low by historical standards
-- 09/29 14:35 [FirstSquawk] Bullock: RBA needs to bring excess demand lower; recession is not the central case
-- 09/29 14:36 [financialjuice] RBA's Gov. Bullock: Recession isn't the central base case at this point
-- 09/29 14:37 [FirstSquawk] RBA’s Bullock says August CPI won’t be given too much emphasis; tight financial conditions are needed
-- 09/29 14:38 [financialjuice] RBA's Gov. Bullock: I hope 4 rate hikes will be restrictive enough to slow inflation
-- 09/29 14:38 [FirstSquawk] RBA’s Bullock says financial conditions remain restrictive
-- 09/29 14:40 [financialjuice] RBA's Gov. Bullock: If inflation comes down, then it's possible no more hikes are needed
-- 09/29 14:42 [FirstSquawk] RBA’s Bullock: Could avoid additional hikes if inflation eases
-- 09/29 14:44 [financialjuice] RBA's Gov. Bullock: The Middle East made things worse, but had a CPI problem before
-- 09/29 14:44 [FirstSquawk] RBA’s Bullock says Middle East conflict has been a significant shock that has made everyone poorer
-- 09/29 14:44 [FirstSquawk] Bullock: Prolonged conflict increases the likelihood businesses pass higher costs on
-- 09/29 14:45 [FirstSquawk] RBA’s Bullock says bond markets are reacting orderly, with the central bank watching closely
-- 09/29 14:45 [financialjuice] RBA's Gov. Bullock: Bond markets are reacting in an orderly way, but we are watching closely
-- 09/29 14:46 [financialjuice] RBA's Gov. Bullock: The board considered pause and 25-bps hike today
-- 09/29 14:48 [FirstSquawk] RBA’s Bullock says inflation risks linked to the AI boom are increasing
-- 09/29 14:49 [FirstSquawk] RBA’s Bullock: One upside inflation risk has materialised and two others are building
-- 09/29 14:53 [FirstSquawk] RBA’s Bullock says unemployment rate can edge higher without widespread job losses
 - 09/29 14:55 [FirstSquawk] RBA’s Bullock says multiple inflationary pressures are making the situation very difficult
 - 09/29 14:58 [financialjuice] RBA's Gov. Bullock: We are aiming to tighten in a measured way
 - 09/29 14:59 [FirstSquawk] RBA’s Bullock says the central bank is seeking measured policy tightening
@@ -175,3 +158,19 @@
 - 09/29 20:29 [financialjuice] Putin's Envoy Dmitriev, US Officials discussed possible US-Russia energy initiatives after the war ends - US Official.
 - 09/29 20:29 [DeItaone] MORGAN STANLEY BUILDS CRYPTO LAB Morgan Stanley has launched a Digital Asset Lab to test stablecoins, tokenization and DeFi applications before deploying them across the bank. The firm will explore tokenized deposits, CBDCs, money-market fu…
 - 09/29 20:32 [DeItaone] U.S. S&P 500 E-MINI FUTURES UP 0.1%, NASDAQ 100 FUTURES UP 0.3%, DOW FUTURES UP 0.2%
+- 09/29 20:35 [DeItaone] 🇺🇸 PRESIDENT TRUMP — TUESDAY, SEPTEMBER 29, 2026 🔸 8:00 AM — Executive Time 🔸 9:00 AM — In-Town Pool Call Time 🔸 10:00 AM — Announcement on https://t.co/wreay0MAAb — Andrew W. Mellon Auditorium 🔸 12:30 PM — Meeting & Luncheon on Super Intel…
+- 09/29 20:39 [DeItaone] https://t.co/3Cw9HhjwNx
+- 09/29 20:40 [FirstSquawk] US OFFICIALPUTIN'S ENVOY DMITRIEV HAD 'CONSTRUCTIVE' MEETING ON MONDAY WITH US OFFICIALS ON PEACEFULLY RESOLVING WAR IN UKRAINE
+- 09/29 20:43 [financialjuice] Iran: It discussed expanding energy trade with Azerbaijan.
+- 09/29 20:44 [FirstSquawk] GERMAN DEFENCE MINISTER PISTORIUS: GERMANY PLANNING TO BUY 16 A400M TRANSPORTERS FROM AIRBUS, ORDER VOLUME WILL BE IN THE BILLIONS
+- 09/29 20:45 [DeItaone] U.S. CRUDE PRICES FALL AS HORMUZ EXPORTS RISE Regional U.S. crude prices weakened as rising exports through the Strait of Hormuz eased concerns over global supply tightness. WTI remained rangebound in the mid-$90s/bbl. Houston averaged $98.…
+- 09/29 20:46 [DeItaone] FED SPEAKERS IN FOCUS AS BOND YIELDS SURGE Markets are closely watching Fed officials for any shift in tone following the sharp rise in Treasury yields. Deutsche Bank says policymakers remain broadly hawkish and expects two additional 25bp …
+- 09/29 20:47 [financialjuice] ECB’s Escriva: We are still not in a restrictive territory.
+- 09/29 20:49 [financialjuice] ECB's Escriva: What I would start to worry about is the global upward trajectory of long-term rates.
+- 09/29 20:49 [DeItaone] MEDVEDEV WARNS WORLD CLOSER TO GLOBAL CONFLICT Russian Security Council Deputy Chairman Dmitry Medvedev claimed Tuesday that the world is closer to a global conflict than at any point since 1945.
+- 09/29 20:49 [financialjuice] ECB’s Escriva: This can add pressure to interest rates.
+- 09/29 20:50 [financialjuice/DeItaone] ❗ Trump backs Russia sanction relief on prisoner release - Atlantic.
+- 09/29 20:51 [financialjuice] Trump expressed support for the plan a few months ago - Atlantic.
+- 09/29 20:51 [financialjuice] Russia initiative is still in its early stages - Atlantic.
+- 09/29 20:53 [DeItaone] IEA'S BIROL: EUROPE IS GOING TO ENTER A VERY DIFFICULT WINTER
+- 09/29 20:54 [financialjuice] ECB's Escriva: High energy prices might anchor in inflation.

@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-29 20:34 JST／対象: 09/29 08:34 〜 09/29 20:34 JST（時刻はすべて日本時間）
+生成: 2026-09-29 20:54 JST／対象: 09/29 08:54 〜 09/29 20:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 4 | 09/29 20:26 | 09/29 20:32 | 2分（20:29→20:32） |
-| FirstSquawk | 223 | 09/29 08:46 | 09/29 20:28 | ⚠ 49分（09:17→10:06） |
-| financialjuice | 99 | 09/29 08:40 | 09/29 20:29 | ⚠ 62分（11:21→12:24） |
+| DeItaone | 11 | 09/29 20:26 | 09/29 20:53 | 5分（20:39→20:45） |
+| FirstSquawk | 220 | 09/29 08:54 | 09/29 20:44 | ⚠ 49分（09:17→10:06） |
+| financialjuice | 105 | 09/29 09:00 | 09/29 20:54 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 323 行（統合前 326 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 332 行（統合前 336 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 08:40 [financialjuice] 15 states take federal aviation administration to court over environmental assessment of commercial drone delivery rules - filing
-- 09/29 08:45 [financialjuice] CSL Ltd collaborates with Amazon Web Services
-- 09/29 08:46 [FirstSquawk] JAPAN’S NIKKEI FUTURES RISE 0.3% IN EARLY TRADE; 10-YEAR JGB FUTURES FALL 0.16 POINT
-- 09/29 08:53 [FirstSquawk] DEFENSE SECRETARY PETE HEGSETH HAS ORDERED THE PENTAGON TO USE INTELLIGENCE, CYBER OPERATIONS AND ADVANCED AI TO DETECT AND DISRUPT FOREIGN INTERFERENCE IN UPCOMING U.S. ELECTIONS, WITH THE SEPT. 22 DIRECTIVE TELLING U.S. CYBER COMMAND AND …
-- 09/29 08:53 [FirstSquawk] THE MEMO DOES NOT AUTHORIZE TROOPS AT POLLING STATIONS OR THE SEIZURE OF VOTING MACHINES - AXIOS
-- 09/29 08:54 [FirstSquawk] NETANYAHU'S OFFICE SAYS NETANYAHU AND HIS WIFE VISITED THE UNITED ARAB EMIRATES YESTERDAY AT THE INVITATION OF THE UAE PRESIDENT, SHEIKH MOHAMED BIN ZAYED.
-- 09/29 08:54 [FirstSquawk] NETANYAHU'S OFFICE SAYS HE WAS ACCOMPANIED BY THE HEAD OF THE NATIONAL SECURITY COUNCIL, THE HEAD OF THE MOSSAD, THE MILITARY SECRETARY AND THE FOREIGN POLICY ADVISER.
 - 09/29 08:54 [FirstSquawk] THE U.S. NAVY'S USS SANTA BARBARA REQUIRED URGENT REPAIRS IN SINGAPORE AFTER DOCUMENTS WARNED ALL FOUR ENGINES WERE OPERATING BEYOND RECOMMENDED LIMITS, CREATING A 'CRITICAL THREAT OF MECHANICAL FAILURE', WITH THE SHIP ALSO HAVING PROBLEMS …
 - 09/29 08:54 [FirstSquawk] THE NAVY INITIALLY RECEIVED NO BIDS FROM CONTRACTORS FOR SOME OF THE REPAIRS AND HAD TO RELY ON LOCAL SINGAPORE FACILITIES, WITH THE 7TH FLEET SAYING THE SHIP ARRIVED SAFELY AND WOULD RETURN TO OPERATIONS AFTER MAINTENANCE - THE WASHINGTON …
 - 09/29 08:54 [FirstSquawk] CSL SAYS IT IS COLLABORATING WITH AMAZON WEB SERVICES TO ADVANCE BIOPHARMACEUTICAL R&D, APPLYING ARTIFICIAL INTELLIGENCE AND CLOUD TECHNOLOGIES TO SUPPORT ITS RESEARCH AND CLINICAL DEVELOPMENT.
@@ -347,3 +340,19 @@
 - 09/29 20:29 [financialjuice] Putin's Envoy Dmitriev, US Officials discussed possible US-Russia energy initiatives after the war ends - US Official.
 - 09/29 20:29 [DeItaone] MORGAN STANLEY BUILDS CRYPTO LAB Morgan Stanley has launched a Digital Asset Lab to test stablecoins, tokenization and DeFi applications before deploying them across the bank. The firm will explore tokenized deposits, CBDCs, money-market fu…
 - 09/29 20:32 [DeItaone] U.S. S&P 500 E-MINI FUTURES UP 0.1%, NASDAQ 100 FUTURES UP 0.3%, DOW FUTURES UP 0.2%
+- 09/29 20:35 [DeItaone] 🇺🇸 PRESIDENT TRUMP — TUESDAY, SEPTEMBER 29, 2026 🔸 8:00 AM — Executive Time 🔸 9:00 AM — In-Town Pool Call Time 🔸 10:00 AM — Announcement on https://t.co/wreay0MAAb — Andrew W. Mellon Auditorium 🔸 12:30 PM — Meeting & Luncheon on Super Intel…
+- 09/29 20:39 [DeItaone] https://t.co/3Cw9HhjwNx
+- 09/29 20:40 [FirstSquawk] US OFFICIALPUTIN'S ENVOY DMITRIEV HAD 'CONSTRUCTIVE' MEETING ON MONDAY WITH US OFFICIALS ON PEACEFULLY RESOLVING WAR IN UKRAINE
+- 09/29 20:43 [financialjuice] Iran: It discussed expanding energy trade with Azerbaijan.
+- 09/29 20:44 [FirstSquawk] GERMAN DEFENCE MINISTER PISTORIUS: GERMANY PLANNING TO BUY 16 A400M TRANSPORTERS FROM AIRBUS, ORDER VOLUME WILL BE IN THE BILLIONS
+- 09/29 20:45 [DeItaone] U.S. CRUDE PRICES FALL AS HORMUZ EXPORTS RISE Regional U.S. crude prices weakened as rising exports through the Strait of Hormuz eased concerns over global supply tightness. WTI remained rangebound in the mid-$90s/bbl. Houston averaged $98.…
+- 09/29 20:46 [DeItaone] FED SPEAKERS IN FOCUS AS BOND YIELDS SURGE Markets are closely watching Fed officials for any shift in tone following the sharp rise in Treasury yields. Deutsche Bank says policymakers remain broadly hawkish and expects two additional 25bp …
+- 09/29 20:47 [financialjuice] ECB’s Escriva: We are still not in a restrictive territory.
+- 09/29 20:49 [financialjuice] ECB's Escriva: What I would start to worry about is the global upward trajectory of long-term rates.
+- 09/29 20:49 [DeItaone] MEDVEDEV WARNS WORLD CLOSER TO GLOBAL CONFLICT Russian Security Council Deputy Chairman Dmitry Medvedev claimed Tuesday that the world is closer to a global conflict than at any point since 1945.
+- 09/29 20:49 [financialjuice] ECB’s Escriva: This can add pressure to interest rates.
+- 09/29 20:50 [financialjuice/DeItaone] ❗ Trump backs Russia sanction relief on prisoner release - Atlantic.
+- 09/29 20:51 [financialjuice] Trump expressed support for the plan a few months ago - Atlantic.
+- 09/29 20:51 [financialjuice] Russia initiative is still in its early stages - Atlantic.
+- 09/29 20:53 [DeItaone] IEA'S BIROL: EUROPE IS GOING TO ENTER A VERY DIFFICULT WINTER
+- 09/29 20:54 [financialjuice] ECB's Escriva: High energy prices might anchor in inflation.
