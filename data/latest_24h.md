@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-29 16:03 JST／対象: 09/28 16:03 〜 09/29 16:03 JST（時刻はすべて日本時間）
+生成: 2026-09-29 16:28 JST／対象: 09/28 16:28 〜 09/29 16:28 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 38 | 09/28 16:28 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 351 | 09/28 16:10 | 09/29 16:02 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 310 | 09/28 16:56 | 09/29 16:00 | ⚠ 62分（11:21→12:24） |
+| FirstSquawk | 355 | 09/28 16:38 | 09/29 16:26 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 312 | 09/28 16:56 | 09/29 16:25 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 684 行（統合前 703 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 690 行（統合前 709 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 16:10 [FirstSquawk] UK HOME BUILDER STOCKS RISE FOLLOWING NEW INITIATIVE TO ASSIST FIRST-TIME BUYERS.
 - 09/28 16:28 [DeItaone] YEMENI FORCES STRIKE HOUTHI TARGETS Yemeni government forces launched multiple airstrikes against Houthi positions west of Taiz, according to Al Arabiya citing Yemeni sources. The strikes reportedly targeted several Houthi sites in the Al-R…
 - 09/28 16:38 [FirstSquawk] KKR-BACKED ADVANTA IS REPORTEDLY BEGINNING A ROAD SHOW FOR A $400 MILLION INITIAL PUBLIC OFFERING.
 - 09/28 16:38 [FirstSquawk] SWEDISH PM ANDERSSON STATES GOVERNMENT FORMATION IS NOT POSSIBLE.
@@ -708,3 +707,10 @@
 - 09/29 16:02 [FirstSquawk] SPAIN CPI CORE (Y/Y): 3.1% (EST 3.0%; PREV 2.9%)
 - 09/29 16:02 [FirstSquawk] SPAIN RETAIL SALES (Y/Y) AUG: -1.1% (PREV -0.2%; PREV R -0.3%)
 - 09/29 16:02 [FirstSquawk] SPAIN RETAIL SALES SA (Y/Y): -0.4% (EST -0.3%; PREV R -0.4%)
+- 09/29 16:10 [FirstSquawk] BRITAIN'S FTSE 100 UP 0.18% || FRANCE'S CAC 40 UP 0.05% || SPAIN'S IBEX UP 0.26% || GERMANY'S DAX UP 0.08%
+- 09/29 16:10 [FirstSquawk] NHTSA HAS CLOSED A DEFECT PETITION REGARDING 806,963 HONDA ODYSSEY VEHICLES IN THE U.S. DUE TO AIRBAGS DEPLOYING UNINTENTIONALLY WHILE DRIVING.
+- 09/29 16:11 [FirstSquawk] NHTSA ENDS INITIAL REVIEW OF 1,076,999 CHRYSLER CARS DUE TO UNDERHOOD FIRES WHEN VEHICLES ARE TURNED OFF.
+- 09/29 16:13 [financialjuice] Iran's Revolutionary Guards Spokesperson: Trump is 'a big liar’, US people need to be told the truth.
+- 09/29 16:14 [FirstSquawk] IRAN'S REVOLUTIONARY GUARDS SPOKESPERSON CALLS TRUMP 'A BIG LIAR' AND SAYS US CITIZENS DESERVE THE TRUTH.
+- 09/29 16:25 [financialjuice] Iran's IRGC Spokesperson: US has no other choice but to declare failure and leave the region.
+- 09/29 16:26 [FirstSquawk] IRAN'S IRGC SPOKESPERSON CLAIMS US MUST ADMIT DEFEAT AND EXIT THE REGION.

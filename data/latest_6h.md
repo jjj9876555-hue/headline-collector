@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-29 16:03 JST／対象: 09/29 10:03 〜 09/29 16:03 JST（時刻はすべて日本時間）
+生成: 2026-09-29 16:28 JST／対象: 09/29 10:28 〜 09/29 16:28 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 132 | 09/29 10:06 | 09/29 16:02 | 26分（12:45→13:11） |
-| financialjuice | 58 | 09/29 10:05 | 09/29 16:00 | ⚠ 62分（11:21→12:24） |
+| FirstSquawk | 128 | 09/29 10:32 | 09/29 16:26 | 26分（12:45→13:11） |
+| financialjuice | 57 | 09/29 10:30 | 09/29 16:25 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 190 行（統合前 190 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 185 行（統合前 185 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 10:05 [financialjuice] Taiwan overnight interbank rate starts at 0.805% versus 0.804% in previous session opening
-- 09/29 10:06 [financialjuice] US secretary of state Rubio: uk base incident involved foreign actor
-- 09/29 10:06 [FirstSquawk] Taxpayers Footed Bill For Three Bottles Of Pinot Noir During Janelle Saffin’s $4,400 Sydney Hotel Stay - dailytelegraph
-- 09/29 10:20 [FirstSquawk] Rubio to Fox News: British base incident involved a foreign party
-- 09/29 10:20 [financialjuice] China central bank injects 90.5 billion yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement
-- 09/29 10:21 [FirstSquawk] Rubio to Fox News: If Iran had a nuclear weapon, no one could prevent it from controlling the Strait of Hormuz
-- 09/29 10:22 [FirstSquawk] PBOC sets yuan midpoint at 6.7411 per dollar, vs 6.7399 previously
-- 09/29 10:22 [FirstSquawk] China’s PBOC adds CNY90.5 billion via 7-day reverse repos, keeping rate at 1.40%
-- 09/29 10:23 [FirstSquawk] Taiwan overnight rate rises to 0.805% at session open vs 0.804% prior
-- 09/29 10:24 [FirstSquawk] Rubio to Fox News: Iran uses its money to fund terrorism around the world
-- 09/29 10:25 [FirstSquawk] Goldman Sachs spokesperson says succession timeline remains undecided
-- 09/29 10:27 [FirstSquawk] Hong Kong’s Hang Seng Innovative Drug Index seen opening nearly 2% higher
 - 09/29 10:30 [financialjuice] Australia August household spending unchanged month on month seasonally adjusted - ABS
 - 09/29 10:32 [FirstSquawk] Japan offers ¥300 billion of 40-year government bonds
 - 09/29 10:33 [FirstSquawk] Australia household spending up 6.8% Y/Y in August, below 7.1% forecast
@@ -214,3 +202,10 @@
 - 09/29 16:02 [FirstSquawk] SPAIN CPI CORE (Y/Y): 3.1% (EST 3.0%; PREV 2.9%)
 - 09/29 16:02 [FirstSquawk] SPAIN RETAIL SALES (Y/Y) AUG: -1.1% (PREV -0.2%; PREV R -0.3%)
 - 09/29 16:02 [FirstSquawk] SPAIN RETAIL SALES SA (Y/Y): -0.4% (EST -0.3%; PREV R -0.4%)
+- 09/29 16:10 [FirstSquawk] BRITAIN'S FTSE 100 UP 0.18% || FRANCE'S CAC 40 UP 0.05% || SPAIN'S IBEX UP 0.26% || GERMANY'S DAX UP 0.08%
+- 09/29 16:10 [FirstSquawk] NHTSA HAS CLOSED A DEFECT PETITION REGARDING 806,963 HONDA ODYSSEY VEHICLES IN THE U.S. DUE TO AIRBAGS DEPLOYING UNINTENTIONALLY WHILE DRIVING.
+- 09/29 16:11 [FirstSquawk] NHTSA ENDS INITIAL REVIEW OF 1,076,999 CHRYSLER CARS DUE TO UNDERHOOD FIRES WHEN VEHICLES ARE TURNED OFF.
+- 09/29 16:13 [financialjuice] Iran's Revolutionary Guards Spokesperson: Trump is 'a big liar’, US people need to be told the truth.
+- 09/29 16:14 [FirstSquawk] IRAN'S REVOLUTIONARY GUARDS SPOKESPERSON CALLS TRUMP 'A BIG LIAR' AND SAYS US CITIZENS DESERVE THE TRUTH.
+- 09/29 16:25 [financialjuice] Iran's IRGC Spokesperson: US has no other choice but to declare failure and leave the region.
+- 09/29 16:26 [FirstSquawk] IRAN'S IRGC SPOKESPERSON CLAIMS US MUST ADMIT DEFEAT AND EXIT THE REGION.
