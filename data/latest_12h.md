@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-29 23:04 JST／対象: 09/29 11:04 〜 09/29 23:04 JST（時刻はすべて日本時間）
+生成: 2026-09-29 23:29 JST／対象: 09/29 11:29 〜 09/29 23:29 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 31 | 09/29 20:26 | 09/29 23:01 | 35分（21:39→22:14） |
-| FirstSquawk | 212 | 09/29 11:05 | 09/29 23:02 | 30分（19:41→20:12） |
-| financialjuice | 113 | 09/29 11:05 | 09/29 22:45 | ⚠ 62分（11:21→12:24） |
+| DeItaone | 35 | 09/29 20:26 | 09/29 23:24 | 35分（21:39→22:14） |
+| FirstSquawk | 214 | 09/29 11:34 | 09/29 23:28 | 30分（19:41→20:12） |
+| financialjuice | 111 | 09/29 12:24 | 09/29 22:45 | ⚠ 50分（18:30→19:20） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 344 行（統合前 356 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 348 行（統合前 361 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 11:05 [financialjuice] Japan finmin katayama: will engage closely with market participants while maintaining strong urgency
-- 09/29 11:05 [FirstSquawk] Japan FinMin Katayama says Tokyo will closely engage with market participants while remaining highly vigilant
-- 09/29 11:07 [FirstSquawk] 40-year JGB yield edges up 0.5bp to 4.230%
-- 09/29 11:12 [FirstSquawk] Tokyo among the world’s highest-risk housing bubble markets, ranking second - KYODO
-- 09/29 11:17 [FirstSquawk] Experts expect Japan’s fiction surge to endure - KYODO
-- 09/29 11:20 [FirstSquawk] Indonesia benchmark stock index slides as much as 1.2%, hits lowest since July 29
-- 09/29 11:21 [financialjuice] China’s FAW signs strategic framework pact with Guangzhou Automobile Industry Group
-- 09/29 11:21 [FirstSquawk] China’s FAW and Guangzhou Automobile Industry Group sign strategic cooperation framework agreement
-- 09/29 11:28 [FirstSquawk] Shein stock tumbles 10%
 - 09/29 11:34 [FirstSquawk] Aussie dollar steadies above 0.7000 vs USD ahead of RBA rate decision - FX
 - 09/29 11:36 [FirstSquawk] Fay strengthens back into a tropical storm, NHC says
 - 09/29 11:37 [FirstSquawk] Tropical Storm Fay 1,380 miles west-southwest of Azores with maximum winds of 40 mph, NHC says
@@ -368,3 +359,16 @@
 - 09/29 23:00 [FirstSquawk/DeItaone] US AUG. JOB OPENINGS 7.079M; EST. 7.228M
 - 09/29 23:00 [DeItaone] U.S. JOB OPENINGS FALL TO 7.08 MILLION U.S. job openings fell to 7.079 million in August, down from a revised 7.335 million in July, according to the Labor Department’s JOLTS report. The job-openings rate slipped to 4.3% from 4.4%, while hi…
 - 09/29 23:02 [FirstSquawk] SAUDI CROWN PRINCE MEETS WITH UAE VICE PRESIDENT IN RIYADH:SPA
+- 09/29 23:05 [FirstSquawk] BURNHAM: BREXIT HASN'T GIVEN US CONTROL
+- 09/29 23:05 [FirstSquawk] L3HARRIS RECEIVES THAAD PROPULSION CONTRACT VALUED AT $6 BLN
+- 09/29 23:08 [FirstSquawk] BURNHAM: UK-EU SUMMIT THIS YEAR
+- 09/29 23:08 [FirstSquawk] UK PM BURNHAM: UK-EU SUMMIT LATER THIS YEAR WILL DISCUSS WORKING TOGETHER
+- 09/29 23:09 [DeItaone] $SPCX - TD COWEN STARTS SPACEX AT BUY, SEES AI BOOM TD Cowen initiated SpaceX at Buy with a $200 price target, citing major opportunities across AI computing and space. The firm expects AI compute leasing to become SpaceX’s largest business…
+- 09/29 23:12 [FirstSquawk] BURNHAM SAYS UK TO DECIDE ON LONG-TERM RELATIONSHIP WITH EU
+- 09/29 23:17 [DeItaone] OPENAI'S ANNUAL RECURRING REVENUE NEARS $70B - AXIOS
+- 09/29 23:20 [DeItaone] TRUMP LIVE https://t.co/17DdwfEzmz
+- 09/29 23:24 [DeItaone] OPENAI ANNUAL REVENUE RUN RATE NEARS $70 BILLION OpenAI’s annualized revenue run rate is approaching $70 billion, up more than 70% since the start of Q3, according to Axios. Enterprise revenue has more than doubled since July, as OpenAI gai…
+- 09/29 23:25 [FirstSquawk] OPENAI'S ANNUAL RECURRING REVENUE NEARS $70B, AXIOS REPORTS
+- 09/29 23:25 [FirstSquawk] USER REPORTS SHOW PROBLEMS WITH SPOTIFY - DOWNDETECTOR
+- 09/29 23:25 [FirstSquawk] ORACLE LAUNCHES FUSION CLAW AI EXECUTION RUNTIME
+- 09/29 23:28 [FirstSquawk] TRUMP THANKS MUSK

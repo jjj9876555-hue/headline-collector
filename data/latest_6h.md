@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-29 23:04 JST／対象: 09/29 17:04 〜 09/29 23:04 JST（時刻はすべて日本時間）
+生成: 2026-09-29 23:29 JST／対象: 09/29 17:29 〜 09/29 23:29 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 31 | 09/29 20:26 | 09/29 23:01 | 35分（21:39→22:14） |
-| FirstSquawk | 101 | 09/29 17:05 | 09/29 23:02 | 30分（19:41→20:12） |
-| financialjuice | 63 | 09/29 17:28 | 09/29 22:45 | ⚠ 50分（18:30→19:20） |
+| DeItaone | 35 | 09/29 20:26 | 09/29 23:24 | 35分（21:39→22:14） |
+| FirstSquawk | 98 | 09/29 17:29 | 09/29 23:28 | 30分（19:41→20:12） |
+| financialjuice | 61 | 09/29 17:29 | 09/29 22:45 | ⚠ 50分（18:30→19:20） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 184 行（統合前 195 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 183 行（統合前 195 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 17:05 [FirstSquawk] EU ENERGY COMMISSIONER STATED THAT THEY HAVE INFORMED THEIR U.S. COUNTERPART THAT BLOCKING ENERGY SUPPLIES BENEFITS NOBODY.
-- 09/29 17:05 [FirstSquawk] EU ENERGY CHIEF HAS ASKED FOR A REVIEW OF PLANS TO DELAY METHANE REGULATIONS ON IMPORTED FUELS.
-- 09/29 17:05 [FirstSquawk] EU ENERGY CHIEF STATED THAT THEY WILL EXPLORE LEGAL OPTIONS, AND THEN THE DECISION WILL BE IN THE HANDS OF EU NATIONS AND THE EU PARLIAMENT.
-- 09/29 17:05 [FirstSquawk] TESLA'S FSD SUPERVISED IS NOW APPROVED IN CROATIA, WITH ROLLOUT EXPECTED TO START SOON.
-- 09/29 17:11 [FirstSquawk] EU ENERGY CHIEF SAYS METHANE RULES SHOULD NOT BE EASED, JUST POSTPONED.
-- 09/29 17:14 [FirstSquawk] IRISH ENERGY MINISTER STATES THAT A U.S. BAN ON DIESEL EXPORTS WOULD AFFECT THE EU SIGNIFICANTLY.
-- 09/29 17:14 [FirstSquawk] IRISH ENERGY MINISTER SAYS U.S. BAN ON DIESEL EXPORTS UNLIKELY.
-- 09/29 17:14 [FirstSquawk] BAT EXPECTS FY ADJUSTED EPS GROWTH IN THE 5-8% RANGE AND ANTICIPATES REVENUE GROWTH AT THE LOWER END OF 2-5%.
-- 09/29 17:14 [FirstSquawk] BAT EXPECTS NEW CATEGORY CONTRIBUTION MARGIN TO BE AT LEAST 30% BY 2030 AND IS ON TARGET FOR FY26 GUIDANCE.
-- 09/29 17:15 [FirstSquawk] IRISH ENERGY MINISTER SAYS EUROPE HAS AMPLE RESERVES AND WE MUST STAY READY.
-- 09/29 17:15 [FirstSquawk] IRISH ENERGY MINISTER ANNOUNCES THAT EU ENERGY MINISTERS WILL MEET IN OCTOBER TO TALK ABOUT WINTER ENERGY SECURITY AND SUPPLY.
-- 09/29 17:16 [FirstSquawk] IRISH ENERGY MINISTER SAYS EU COUNTRIES CAN TEMPORARILY CHANGE TAXES TO HELP WITH HIGH ENERGY COSTS.
-- 09/29 17:28 [financialjuice] ECB's Kazimir: Rate hike was unavoidable.
-- 09/29 17:28 [financialjuice] ECB's Kazimir: Energy prices remain key factor.
 - 09/29 17:29 [financialjuice] ECB's Kazimir: Key for me will be January repricing.
 - 09/29 17:29 [FirstSquawk] MELONI: KUWAIT'S Q8 ACCEPTED TO LOWER FUEL PRICES IN ITALY
 - 09/29 17:29 [financialjuice] ECB's Kazimir: We need flexibility, we have enough time.
@@ -208,3 +194,16 @@
 - 09/29 23:00 [FirstSquawk/DeItaone] US AUG. JOB OPENINGS 7.079M; EST. 7.228M
 - 09/29 23:00 [DeItaone] U.S. JOB OPENINGS FALL TO 7.08 MILLION U.S. job openings fell to 7.079 million in August, down from a revised 7.335 million in July, according to the Labor Department’s JOLTS report. The job-openings rate slipped to 4.3% from 4.4%, while hi…
 - 09/29 23:02 [FirstSquawk] SAUDI CROWN PRINCE MEETS WITH UAE VICE PRESIDENT IN RIYADH:SPA
+- 09/29 23:05 [FirstSquawk] BURNHAM: BREXIT HASN'T GIVEN US CONTROL
+- 09/29 23:05 [FirstSquawk] L3HARRIS RECEIVES THAAD PROPULSION CONTRACT VALUED AT $6 BLN
+- 09/29 23:08 [FirstSquawk] BURNHAM: UK-EU SUMMIT THIS YEAR
+- 09/29 23:08 [FirstSquawk] UK PM BURNHAM: UK-EU SUMMIT LATER THIS YEAR WILL DISCUSS WORKING TOGETHER
+- 09/29 23:09 [DeItaone] $SPCX - TD COWEN STARTS SPACEX AT BUY, SEES AI BOOM TD Cowen initiated SpaceX at Buy with a $200 price target, citing major opportunities across AI computing and space. The firm expects AI compute leasing to become SpaceX’s largest business…
+- 09/29 23:12 [FirstSquawk] BURNHAM SAYS UK TO DECIDE ON LONG-TERM RELATIONSHIP WITH EU
+- 09/29 23:17 [DeItaone] OPENAI'S ANNUAL RECURRING REVENUE NEARS $70B - AXIOS
+- 09/29 23:20 [DeItaone] TRUMP LIVE https://t.co/17DdwfEzmz
+- 09/29 23:24 [DeItaone] OPENAI ANNUAL REVENUE RUN RATE NEARS $70 BILLION OpenAI’s annualized revenue run rate is approaching $70 billion, up more than 70% since the start of Q3, according to Axios. Enterprise revenue has more than doubled since July, as OpenAI gai…
+- 09/29 23:25 [FirstSquawk] OPENAI'S ANNUAL RECURRING REVENUE NEARS $70B, AXIOS REPORTS
+- 09/29 23:25 [FirstSquawk] USER REPORTS SHOW PROBLEMS WITH SPOTIFY - DOWNDETECTOR
+- 09/29 23:25 [FirstSquawk] ORACLE LAUNCHES FUSION CLAW AI EXECUTION RUNTIME
+- 09/29 23:28 [FirstSquawk] TRUMP THANKS MUSK
