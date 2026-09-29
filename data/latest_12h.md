@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-29 21:24 JST／対象: 09/29 09:24 〜 09/29 21:24 JST（時刻はすべて日本時間）
+生成: 2026-09-29 21:52 JST／対象: 09/29 09:52 〜 09/29 21:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 15 | 09/29 20:26 | 09/29 21:23 | 15分（21:00→21:16） |
-| FirstSquawk | 214 | 09/29 10:06 | 09/29 21:22 | 30分（19:41→20:12） |
-| financialjuice | 104 | 09/29 09:25 | 09/29 21:24 | ⚠ 62分（11:21→12:24） |
+| DeItaone | 18 | 09/29 20:26 | 09/29 21:39 | 15分（21:00→21:16） |
+| FirstSquawk | 221 | 09/29 10:06 | 09/29 21:46 | 30分（19:41→20:12） |
+| financialjuice | 111 | 09/29 10:05 | 09/29 21:43 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 328 行（統合前 333 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 341 行（統合前 350 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 09:25 [financialjuice] China PBOC seen setting yuan midpoint at 6.7177 per dollar: estimate
 - 09/29 10:05 [financialjuice] Taiwan overnight interbank rate starts at 0.805% versus 0.804% in previous session opening
 - 09/29 10:06 [financialjuice] US secretary of state Rubio: uk base incident involved foreign actor
 - 09/29 10:06 [FirstSquawk] Taxpayers Footed Bill For Three Bottles Of Pinot Noir During Janelle Saffin’s $4,400 Sydney Hotel Stay - dailytelegraph
@@ -351,4 +350,18 @@
 - 09/29 21:23 [DeItaone] IRAN’S RIAL HITS RECORD LOW AS WAR WEIGHS ON ECONOMY Iran’s currency weakened to a fresh record low Tuesday, with traders exchanging more than 2.5 million rials per U.S. dollar, according to AP. The rial has fallen steadily since the U.S.-I…
 - 09/29 21:23 [financialjuice] US House Speaker Johnson on AI: The US can do security and innovation at the same time.
 - 09/29 21:23 [financialjuice] US House Speaker Johnson: I hope the AI meeting today will lead to agreement.
-- 09/29 21:24 [financialjuice] Oman plans to more than double oil storage capacity at Duqm.
+- 09/29 21:24 [financialjuice/FirstSquawk/DeItaone] Oman plans to more than double oil storage capacity at Duqm.
+- 09/29 21:24 [FirstSquawk] OMAN'S OQ MULLS BUYING TWO SUPERTANKERS FOR FLOATING STORAGE
+- 09/29 21:24 [financialjuice] Iraq's Transport Ministry: Iraqi airways are preparing to resume flights to Iran after securing special exemption. Flights to and from Iran expected to resume in October, starting from Najaf international airport - Transport Ministry.
+- 09/29 21:27 [FirstSquawk] IRAQI AIRWAYS FLIGHTS TO AND FROM IRAN EXPECTED TO RESUME IN OCTOBER, STARTING FROM NAJAF INTERNATIONAL AIRPORT
+- 09/29 21:30 [financialjuice] ❗ CANADIAN GDP MOM ACTUAL 0.0% (FORECAST 0%, PREVIOUS 0.3%) $MACRO
+- 09/29 21:31 [financialjuice] Canadian GDP July Report
+- 09/29 21:31 [FirstSquawk] ISRAELI PM BENJAMIN NETANYAHU STATED ON TUESDAY THAT THERE ARE INDICATIONS THAT ISRAEL'S ENEMIES MAY ATTEMPT ATTACKS AS ELECTIONS NEAR, CAUTIONING THAT ISRAEL CAN STRIKE ITS FOES "ANYWHERE, ANYTIME."
+- 09/29 21:31 [FirstSquawk] CANADA GDP (M/M) JUL: 0.0% (EST 0.0%; PREV 0.3%)
+- 09/29 21:31 [FirstSquawk] RUSSIAN ECONOMY MINISTER TO ATTEND G20 MEETING IN US - IFX
+- 09/29 21:35 [DeItaone] 🇬🇧 AVERAGE UK DIESEL PRICE SET TO REACH £2 PER LITRE WITHIN DAYS
+- 09/29 21:38 [financialjuice] Wells Fargo Investment Institute forecasts US Fed policy rate at 4.75%-5.00% by 2027-end vs prior forecast of 4.00%-4.25%.
+- 09/29 21:38 [financialjuice] Wells Fargo Investment Institute downgrades S&P 500 information technology sector to neutral from favorable.
+- 09/29 21:39 [DeItaone/financialjuice] WELLS FARGO INVESTMENT INSTITUTE CUTS GOLD'S 2027 YEAR-END TARGET RANGE TO $5,200-$5,400 PER OUNCE FROM PRIOR FORECAST OF $5,400-$5,600 PER OUNCE
+- 09/29 21:39 [financialjuice] Wells Fargo Investment Institute upgrades S&P 500 industrials sector to favorable from neutral.
+- 09/29 21:43 [financialjuice/FirstSquawk] Wells Fargo Investment Institute forecasts 10-Year US Treasury yield at 5.25%-5.75% by 2027-end vs prior forecast of 4.50%-5.00%.

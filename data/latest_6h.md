@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-29 21:24 JST／対象: 09/29 15:24 〜 09/29 21:24 JST（時刻はすべて日本時間）
+生成: 2026-09-29 21:52 JST／対象: 09/29 15:52 〜 09/29 21:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 15 | 09/29 20:26 | 09/29 21:23 | 15分（21:00→21:16） |
-| FirstSquawk | 96 | 09/29 15:24 | 09/29 21:22 | 30分（19:41→20:12） |
-| financialjuice | 51 | 09/29 16:00 | 09/29 21:24 | ⚠ 50分（18:30→19:20） |
+| DeItaone | 18 | 09/29 20:26 | 09/29 21:39 | 15分（21:00→21:16） |
+| FirstSquawk | 99 | 09/29 15:58 | 09/29 21:46 | 30分（19:41→20:12） |
+| financialjuice | 59 | 09/29 16:00 | 09/29 21:43 | ⚠ 50分（18:30→19:20） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 157 行（統合前 162 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 167 行（統合前 176 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 15:24 [FirstSquawk] South Korea’s Defense Minister: North Korean mine that caused explosion violated armistice agreement
-- 09/29 15:40 [FirstSquawk] South Korea Defence Minister Kang: DMZ mine appears to have been planted during North Korea’s border fortification work
-- 09/29 15:44 [FirstSquawk] South Korea’s Defence Minister Kang says DMZ mine appears linked to North Korea’s border fortification work
-- 09/29 15:48 [FirstSquawk] Shell to expand Canada LNG facility capacity to 28 million tonnes a year
 - 09/29 15:58 [FirstSquawk] South Korea Joint Chiefs of Staff: DMZ mines likely planted just over a year ago
 - 09/29 15:59 [FirstSquawk] South Korea Joint Chiefs of Staff: UN Command says DMZ explosion mines were clearly south of Military Demarcation Line
 - 09/29 16:00 [financialjuice] SPANISH CPI MOM FLASH ACTUAL 0.3% (FORECAST 0.1%, PREVIOUS 0.70%) $MACRO
@@ -180,4 +176,18 @@
 - 09/29 21:23 [DeItaone] IRAN’S RIAL HITS RECORD LOW AS WAR WEIGHS ON ECONOMY Iran’s currency weakened to a fresh record low Tuesday, with traders exchanging more than 2.5 million rials per U.S. dollar, according to AP. The rial has fallen steadily since the U.S.-I…
 - 09/29 21:23 [financialjuice] US House Speaker Johnson on AI: The US can do security and innovation at the same time.
 - 09/29 21:23 [financialjuice] US House Speaker Johnson: I hope the AI meeting today will lead to agreement.
-- 09/29 21:24 [financialjuice] Oman plans to more than double oil storage capacity at Duqm.
+- 09/29 21:24 [financialjuice/FirstSquawk/DeItaone] Oman plans to more than double oil storage capacity at Duqm.
+- 09/29 21:24 [FirstSquawk] OMAN'S OQ MULLS BUYING TWO SUPERTANKERS FOR FLOATING STORAGE
+- 09/29 21:24 [financialjuice] Iraq's Transport Ministry: Iraqi airways are preparing to resume flights to Iran after securing special exemption. Flights to and from Iran expected to resume in October, starting from Najaf international airport - Transport Ministry.
+- 09/29 21:27 [FirstSquawk] IRAQI AIRWAYS FLIGHTS TO AND FROM IRAN EXPECTED TO RESUME IN OCTOBER, STARTING FROM NAJAF INTERNATIONAL AIRPORT
+- 09/29 21:30 [financialjuice] ❗ CANADIAN GDP MOM ACTUAL 0.0% (FORECAST 0%, PREVIOUS 0.3%) $MACRO
+- 09/29 21:31 [financialjuice] Canadian GDP July Report
+- 09/29 21:31 [FirstSquawk] ISRAELI PM BENJAMIN NETANYAHU STATED ON TUESDAY THAT THERE ARE INDICATIONS THAT ISRAEL'S ENEMIES MAY ATTEMPT ATTACKS AS ELECTIONS NEAR, CAUTIONING THAT ISRAEL CAN STRIKE ITS FOES "ANYWHERE, ANYTIME."
+- 09/29 21:31 [FirstSquawk] CANADA GDP (M/M) JUL: 0.0% (EST 0.0%; PREV 0.3%)
+- 09/29 21:31 [FirstSquawk] RUSSIAN ECONOMY MINISTER TO ATTEND G20 MEETING IN US - IFX
+- 09/29 21:35 [DeItaone] 🇬🇧 AVERAGE UK DIESEL PRICE SET TO REACH £2 PER LITRE WITHIN DAYS
+- 09/29 21:38 [financialjuice] Wells Fargo Investment Institute forecasts US Fed policy rate at 4.75%-5.00% by 2027-end vs prior forecast of 4.00%-4.25%.
+- 09/29 21:38 [financialjuice] Wells Fargo Investment Institute downgrades S&P 500 information technology sector to neutral from favorable.
+- 09/29 21:39 [DeItaone/financialjuice] WELLS FARGO INVESTMENT INSTITUTE CUTS GOLD'S 2027 YEAR-END TARGET RANGE TO $5,200-$5,400 PER OUNCE FROM PRIOR FORECAST OF $5,400-$5,600 PER OUNCE
+- 09/29 21:39 [financialjuice] Wells Fargo Investment Institute upgrades S&P 500 industrials sector to favorable from neutral.
+- 09/29 21:43 [financialjuice/FirstSquawk] Wells Fargo Investment Institute forecasts 10-Year US Treasury yield at 5.25%-5.75% by 2027-end vs prior forecast of 4.50%-5.00%.
