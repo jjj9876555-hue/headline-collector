@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-29 13:53 JST／対象: 09/28 13:53 〜 09/29 13:53 JST（時刻はすべて日本時間）
+生成: 2026-09-29 14:18 JST／対象: 09/28 14:18 〜 09/29 14:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 38 | 09/28 16:28 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 338 | 09/28 13:56 | 09/29 13:48 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 292 | 09/28 14:00 | 09/29 13:31 | ⚠ 62分（11:21→12:24） |
+| FirstSquawk | 332 | 09/28 14:18 | 09/29 14:01 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 292 | 09/28 15:00 | 09/29 14:05 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 653 行（統合前 672 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 647 行（統合前 666 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 13:56 [FirstSquawk] Gold prices slide on expectations of prolonged higher Fed rates-wsj
-- 09/28 13:58 [FirstSquawk] Asian currencies come under pressure as geopolitical tensions continue-wsj
-- 09/28 14:00 [financialjuice] Finnish September industry confidence falls 3 points
-- 09/28 14:00 [financialjuice] Finnish September consumer confidence falls 4.9 points: Statistics Finland
-- 09/28 14:01 [FirstSquawk] JGB yields advance as investors assess Iran conflict risks and persistent inflation-wsj
-- 09/28 14:03 [FirstSquawk] Oil gains as geopolitical risks grow and stockpiles shrink-wsj
-- 09/28 14:11 [FirstSquawk] Silver prices slide toward $62 amid rising expectations of Fed rate hikes-fx
-- 09/28 14:12 [FirstSquawk] Jefferies raises Barratt Redrow target price to 323p from 303p
-- 09/28 14:14 [FirstSquawk] Jefferies cuts Berkeley Group target price to 4,301p from 4,517p
-- 09/28 14:16 [FirstSquawk] TD Cowen raises BP target price to 565p from 504p
-- 09/28 14:17 [FirstSquawk] HSBC lowers Burberry price target to 1,180p from 1,200p
 - 09/28 14:18 [FirstSquawk] TD Cowen raises Equinor target price to NOK 395 from NOK 366
 - 09/28 14:29 [FirstSquawk] Shell target price raised to 4,165p from 3,965p by TD Cowen
 - 09/28 14:32 [FirstSquawk] Xiaomi-backed robotics chipmaker eyes $100 million Hong Kong listing-scmp
@@ -677,3 +666,8 @@
 - 09/29 13:44 [FirstSquawk] Vietnam banks’ capitalisation seen steady as $5.7 billion capital drive progresses, Fitch says
 - 09/29 13:47 [FirstSquawk] Novo Nordisk to pay $300 million upfront for global rights to Hengrui’s HRS-1596, deal worth up to $2.6 billion
 - 09/29 13:48 [FirstSquawk] Etihad to fly twice daily between Abu Dhabi and Sydney starting Dec. 15
+- 09/29 13:54 [FirstSquawk] US, China unveil $60 billion in nonsensitive products targeted for tariff cuts after Trump-Xi meeting
+- 09/29 14:00 [financialjuice] Alphabet’s Google challenges EU orders to open up AI search-engine rivals, company says
+- 09/29 14:01 [FirstSquawk] JAPAN (JUL) LEADING INDEX CI ACTUAL: 117.7 VS 117.9 PREVIOUS
+- 09/29 14:01 [FirstSquawk] JAPAN (JUL) COINCIDENT INDEX ACTUAL: 120.6 VS 120.6 PREVIOUS
+- 09/29 14:05 [financialjuice] ❗ JAPANESE LEADING INDICATOR CHANGE REV. ACTUAL 1.5 (FORECAST -, PREVIOUS 1.7) $MACRO
