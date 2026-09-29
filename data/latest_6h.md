@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-29 19:01 JST／対象: 09/29 13:01 〜 09/29 19:01 JST（時刻はすべて日本時間）
+生成: 2026-09-29 19:21 JST／対象: 09/29 13:21 〜 09/29 19:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 129 | 09/29 13:11 | 09/29 18:57 | 24分（18:30→18:55） |
-| financialjuice | 63 | 09/29 13:03 | 09/29 18:30 | 37分（15:22→16:00） |
+| FirstSquawk | 124 | 09/29 13:33 | 09/29 19:19 | 24分（18:30→18:55） |
+| financialjuice | 60 | 09/29 13:30 | 09/29 19:20 | ⚠ 50分（18:30→19:20） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 191 行（統合前 192 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 183 行（統合前 184 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 13:03 [financialjuice] Germany delivers EU budget ultimatum - FT
-- 09/29 13:05 [financialjuice] Germany, the Netherlands, Sweden, Denmark, Austria and Finland tell Brussels to cut ‘hundreds of billions’ in planned spending - FT
-- 09/29 13:06 [financialjuice] Nvidia turns to insurers to share risk of AI expansion - FT
-- 09/29 13:11 [FirstSquawk] US says Houthi ties to al-Shabaab could endanger Red Sea trade, FT reports
-- 09/29 13:11 [FirstSquawk] European banks move to reclaim fees from BlackRock and Vanguard, FT says
-- 09/29 13:12 [FirstSquawk] Nvidia looks to insurers to mitigate risks from AI build-out, FT says
-- 09/29 13:13 [FirstSquawk] Oil-Treasury yield relationship reaches tightest level since 1990, FT says
-- 09/29 13:13 [FirstSquawk] UK tech founders push PM to relax non-compete rules amid US competition, FT says
-- 09/29 13:14 [FirstSquawk] UniCredit preparing to convene extraordinary general meeting pending final regulatory approvals for Commerzbank control, FT says
-- 09/29 13:14 [FirstSquawk] FT: Germany delivers EU budget ultimatum over ‘billions’ in planned spending
-- 09/29 13:17 [FirstSquawk] White House says Democrats are responsible for failure to pass Crypto Clarity Act - WatcherGuru
-- 09/29 13:18 [FirstSquawk] Jefferies increases Ferrari target price to $460 from $435
-- 09/29 13:19 [financialjuice] Alaris Equity Partners income trust ad_u:to: Canaccord Genuity lifts target to C$30.25 from C$30
-- 09/29 13:20 [FirstSquawk] JPMorgan downgrades PepsiCo to Neutral, cuts price target to $138 from $170
 - 09/29 13:30 [financialjuice] ‼ BREAKING: RBA CASH RATE ACTUAL 4.6% (FORECAST 4.6%, PREVIOUS 4.35%) $MACRO
 - 09/29 13:30 [financialjuice] Reserve Bank of Australia at its meeting today raises cash rate target by 25 basis points to 4.60%
 - 09/29 13:31 [financialjuice] Reserve Bank of Australia sets cash rate at 4.60%
@@ -215,3 +201,9 @@
 - 09/29 18:55 [FirstSquawk] PBOC SLASHES PSL RATES BY 0.25 PERCENTAGE POINT, 1-YEAR PSL NOW AT 1.5%.
 - 09/29 18:57 [FirstSquawk] PBOC INCREASES RELENDING QUOTA BY 500 BILLION YUAN FOR AGRICULTURE AND SMALL BUSINESSES.
 - 09/29 18:57 [FirstSquawk] PBOC TO INCREASE RELENDING BY 200 BILLION YUAN FOR TECHNOLOGY TRANSFORMATION.
+- 09/29 19:05 [FirstSquawk] NOVO’S OZEMPIC ® (SEMAGLUTIDE) 2 MG IS LINKED TO A LOWER RISK OF SERIOUS HEART-RELATED ISSUES (DEATH, HEART ATTACK, AND STROKE) IN ADULTS WITH TYPE 2 DIABETES THAN SWITCHING TO MOUNJARO ® (TIRZEPATIDE), AS PER A REAL-WORLD STUDY PRESENTED A…
+- 09/29 19:06 [FirstSquawk] NOVO NORDISK'S SEMAGLUTIDE 2 MG DOSE IS ASSOCIATED WITH A 6% LOWER RISK OF SERIOUS CARDIOVASCULAR EVENTS.
+- 09/29 19:07 [FirstSquawk] CHINA WILL HELP COVER INTEREST PAYMENTS FOR FIRST-TIME HOME MORTGAGES.
+- 09/29 19:18 [FirstSquawk] IRANIAN ARMY SPOKESPERSON ANNOUNCED A 10 BILLION TOMAN REWARD FOR ANY IRANIAN WHO CAPTURES AN AMERICAN SOLDIER, DEAD OR ALIVE.
+- 09/29 19:19 [FirstSquawk] HOUSE DEMOCRATS DEMAND TECH CEOS GIVE INFO ON ROGUE AI:POLITICO
+- 09/29 19:20 [financialjuice] Three House Democrats penned letter to tech CEOs (Altman, Amodei, Musk) - Politico

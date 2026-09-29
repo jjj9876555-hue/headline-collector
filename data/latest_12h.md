@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-29 19:01 JST／対象: 09/29 07:01 〜 09/29 19:01 JST（時刻はすべて日本時間）
+生成: 2026-09-29 19:21 JST／対象: 09/29 07:21 〜 09/29 19:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 214 | 09/29 07:40 | 09/29 18:57 | ⚠ 57分（07:48→08:46） |
-| financialjuice | 110 | 09/29 07:01 | 09/29 18:30 | ⚠ 62分（11:21→12:24） |
+| FirstSquawk | 219 | 09/29 07:40 | 09/29 19:19 | ⚠ 57分（07:48→08:46） |
+| financialjuice | 102 | 09/29 07:45 | 09/29 19:20 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 323 行（統合前 324 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 320 行（統合前 321 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 07:01 [financialjuice] OpenAI halts launch of new AI model over safety worries: WSJ
-- 09/29 07:02 [financialjuice] OpenAI planned to release model GPT-6.1 Astra in coming days or weeks, aiming for October debut: WSJ
-- 09/29 07:02 [financialjuice] OpenAI: will concentrate on enhancing safety of future models expected to be more advanced - WSJ
-- 09/29 07:09 [financialjuice] Firmus and Meta announce strategic AI infrastructure deals across Asia-Pacific
-- 09/29 07:15 [financialjuice] Nuobikan artificial intelligence technology (Chengdu) enters placement deal for 16.5 mln new H shares at HK$8.19 each
-- 09/29 07:19 [financialjuice] Iran's Aragchi: hopes US final answer through Qatari mediators by Tuesday, IRNA reports
-- 09/29 07:19 [financialjuice] Iran's Foreign Minister Aragchi: Tehran held talks with Qatari mediators on ways to meet Iran's demands
-- 09/29 07:20 [financialjuice] Iran's Aragchi: Qatari mediators to present ideas to US side - IRNA
-- 09/29 07:21 [financialjuice] Iran's Aragchi: Qatari and Pakistani mediation channels intensify after Iran unveils plan
 - 09/29 07:40 [FirstSquawk] NORTH KOREA: US APPROVAL OF SOUTH KOREA’S NUCLEAR SUBMARINE HEIGHTENS REGIONAL INSTABILITY — KCNA
 - 09/29 07:40 [FirstSquawk] IRAN'S FOREIGN MINISTER ARAGHCHI SAYS TEHRAN DISCUSSED PROPOSALS WITH QATARI MEDIATORS TO PRESENT TO THE U.S., WITH THE U.S. RESPONSE TO BE RELAYED TO TEHRAN THROUGH THE QATARI MEDIATORS.
 - 09/29 07:40 [FirstSquawk] IRAN'S FOREIGN MINISTER ARAGHCHI SAYS THAT IF THE U.S. 'WANTS A DEAL OR PEACE, IRAN HAS OFFERED A SOLUTION', ADDING THAT THE CONDITIONS SET BY THE SUPREME LEADER MUST BE MET FOR THE STRAIT OF HORMUZ TO REOPEN - IRNA
@@ -347,3 +338,9 @@
 - 09/29 18:55 [FirstSquawk] PBOC SLASHES PSL RATES BY 0.25 PERCENTAGE POINT, 1-YEAR PSL NOW AT 1.5%.
 - 09/29 18:57 [FirstSquawk] PBOC INCREASES RELENDING QUOTA BY 500 BILLION YUAN FOR AGRICULTURE AND SMALL BUSINESSES.
 - 09/29 18:57 [FirstSquawk] PBOC TO INCREASE RELENDING BY 200 BILLION YUAN FOR TECHNOLOGY TRANSFORMATION.
+- 09/29 19:05 [FirstSquawk] NOVO’S OZEMPIC ® (SEMAGLUTIDE) 2 MG IS LINKED TO A LOWER RISK OF SERIOUS HEART-RELATED ISSUES (DEATH, HEART ATTACK, AND STROKE) IN ADULTS WITH TYPE 2 DIABETES THAN SWITCHING TO MOUNJARO ® (TIRZEPATIDE), AS PER A REAL-WORLD STUDY PRESENTED A…
+- 09/29 19:06 [FirstSquawk] NOVO NORDISK'S SEMAGLUTIDE 2 MG DOSE IS ASSOCIATED WITH A 6% LOWER RISK OF SERIOUS CARDIOVASCULAR EVENTS.
+- 09/29 19:07 [FirstSquawk] CHINA WILL HELP COVER INTEREST PAYMENTS FOR FIRST-TIME HOME MORTGAGES.
+- 09/29 19:18 [FirstSquawk] IRANIAN ARMY SPOKESPERSON ANNOUNCED A 10 BILLION TOMAN REWARD FOR ANY IRANIAN WHO CAPTURES AN AMERICAN SOLDIER, DEAD OR ALIVE.
+- 09/29 19:19 [FirstSquawk] HOUSE DEMOCRATS DEMAND TECH CEOS GIVE INFO ON ROGUE AI:POLITICO
+- 09/29 19:20 [financialjuice] Three House Democrats penned letter to tech CEOs (Altman, Amodei, Musk) - Politico

@@ -7,53 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-29 19:01 JST／対象: 09/28 19:01 〜 09/29 19:01 JST（時刻はすべて日本時間）
+生成: 2026-09-29 19:21 JST／対象: 09/28 19:21 〜 09/29 19:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 32 | 09/28 19:06 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 375 | 09/28 19:01 | 09/29 18:57 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 317 | 09/28 19:01 | 09/29 18:30 | ⚠ 62分（11:21→12:24） |
+| DeItaone | 28 | 09/28 19:34 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
+| FirstSquawk | 368 | 09/28 19:25 | 09/29 19:19 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 304 | 09/28 19:29 | 09/29 19:20 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 708 行（統合前 728 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 684 行（統合前 704 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 19:01 [financialjuice] BoE's Ramsden: I don’t foresee that we will be considering further QE any time soon
-- 09/28 19:01 [FirstSquawk] UKRAINE AGRICULTRUE CHIEF: NO POSITIVE SIGNS ON BLACK SEA CEASEFIRE || DOESN'T EXPECT BLACK SEA CEASEFIRE IN COMING MONTHS || SEES MAXIMUM EXPORTS AT 50% VIA BLACK SEA ALTERNATIVES || REACHED 45% OF AGRI EXPORTS VIA BLACK SEA ALTERNATIVES
-- 09/28 19:01 [FirstSquawk] UKRAINE AGRICULTRUE CHIEF: DENIED REQUEST FOR EU220M GRANT, FARMER CREDIT LINE || WORLD BANK $250M UKRAINE AGRI LOAN PROVIDES FOR THIS YEAR || REQUESTED TO UP '27 SUGAR, BIOETHANOL EU TARIFF QUOTAS
-- 09/28 19:03 [financialjuice] BoE's Ramsden: However, we have to recognise that the external environment can change very rapidly
-- 09/28 19:04 [financialjuice] BoE's Ramsden: The inflation pressures I will continue to focus on are external pressures from energy prices, weather, ALIsupply chain
-- 09/28 19:04 [financialjuice] BoE's Ramsden: Domestically, I will be focused on the outlook for indirect effects, particularly in food prices, and any early signs of second-round effects
-- 09/28 19:04 [financialjuice] BoE's Ramsden: QT plan provides a credible and coherent strategy
-- 09/28 19:04 [financialjuice] BoE's Ramsden: Risks to the inflation outlook, whether external or domestically generated, have tilted more to the upside
-- 09/28 19:05 [financialjuice] BoE's Ramsden: Were upside pressures on the inflation outlook to continue to build, there could be a case for increasing the bank rate
-- 09/28 19:05 [financialjuice] BoE's Ramsden: Case for hike if upside pressures persist
-- 09/28 19:05 [financialjuice] BoE's Ramsden: Focus is on energy prices
-- 09/28 19:05 [financialjuice] BoE's Ramsden: Current stance continues to provide restriction
-- 09/28 19:05 [financialjuice] BoE's Ramsden: Also looking at domestic food prices and wage settlements.
-- 09/28 19:06 [DeItaone] *UKRAINE DOESN'T EXPECT BLACK SEA CEASEFIRE IN COMING MONTHS
-- 09/28 19:08 [financialjuice] Japan Bank for International Cooperation: To issue Euro-denominated guaranteed bonds - SEC filing
-- 09/28 19:08 [DeItaone] POPE LEO URGES EUROPE TO INTEGRATE MIGRANTS, AS IF FAMILY MEMBERS, OFFERING THEM OPPORTUNITIES FOR BETTER LIFE
-- 09/28 19:11 [financialjuice] BoE's Ramsden: BoE QT changes in September have been well understood and well received by markets
-- 09/28 19:11 [FirstSquawk] BOE'S RAMSDEN STATES QT PLAN OFFERS A CREDIBLE AND LOGICAL STRATEGY.
-- 09/28 19:11 [FirstSquawk] BOE'S RAMSDEN SAYS INTEREST RATE INCREASE MAY BE NECESSARY IF INFLATIONARY PRESSURES CONTINUE.
-- 09/28 19:11 [FirstSquawk] RAMSDEN NOTES FOCUS ON LOCAL FOOD COSTS AND WAGE AGREEMENTS.
-- 09/28 19:11 [FirstSquawk] BOE'S RAMSDEN NOTED THAT INFLATION RISKS ARE NOW MORE LIKELY TO INCREASE.
-- 09/28 19:12 [FirstSquawk] XI EMPHASIZES THE IMPORTANCE OF PROMOTING A PEACEFUL CHINA INITIATIVE.
-- 09/28 19:12 [FirstSquawk] XT EMPHASIZES THE IMPORTANCE OF A PEACEFUL CHINA INITIATIVE FOR MODERNIZATION.
-- 09/28 19:12 [FirstSquawk] PBOC WILL DIRECT FINANCIAL RESOURCES TOWARD THE SERVICE SECTOR.
-- 09/28 19:12 [FirstSquawk] PBOC PLANS TO BOOST CREDIT AID FOR SERVICE SECTOR.
-- 09/28 19:13 [DeItaone] US CRUDE FUTURES GAIN OVER 4% TO HIT A SESSION HIGH OF $96.44/BBL ON STALLED U.S.-IRAN PEACE EFFORTS
-- 09/28 19:15 [FirstSquawk] US CRUDE FUTURES JUMPED MORE THAN 4%, REACHING A SESSION PEAK OF $96.44 PER BARREL DUE TO HALTED PEACE TALKS BETWEEN THE U.S. AND IRAN.
-- 09/28 19:15 [FirstSquawk] RAMSDEN ANNOUNCED THAT THE BANK OF ENGLAND WILL BEGIN SELLING GILTS WITH MATURITIES RANGING FROM 2033 TO 2049.
-- 09/28 19:15 [financialjuice] BoE's Ramsden: BoE sales to start with longest maturity 2035-49 gilts
-- 09/28 19:21 [DeItaone] $6.52 DIESEL SQUEEZES U.S. FISHING FLEETS U.S. diesel prices have climbed to $6.529 per gallon, marking an 11th consecutive weekly increase and hammering fishing-industry margins. Fishermen from Cape Cod to Alabama are cutting activity as f…
 - 09/28 19:25 [FirstSquawk] EU COMMISSION SPOKESPERSON: COMMISSION PLANS TO PROPOSE A POSTPONEMENT OF THE ENTRY INTO FORCE OF THE METHANE REGULATION
 - 09/28 19:29 [financialjuice] EU Commission spokesperson: Commission plans to propose a postponement of the entry into force of the methane regulation, we are now working on this at a technical level
 - 09/28 19:34 [DeItaone] LOUD EXPLOSION WAS HEARD IN CENTRAL KYIV, REUTERS WITNESSES SAY
@@ -732,3 +702,9 @@
 - 09/29 18:55 [FirstSquawk] PBOC SLASHES PSL RATES BY 0.25 PERCENTAGE POINT, 1-YEAR PSL NOW AT 1.5%.
 - 09/29 18:57 [FirstSquawk] PBOC INCREASES RELENDING QUOTA BY 500 BILLION YUAN FOR AGRICULTURE AND SMALL BUSINESSES.
 - 09/29 18:57 [FirstSquawk] PBOC TO INCREASE RELENDING BY 200 BILLION YUAN FOR TECHNOLOGY TRANSFORMATION.
+- 09/29 19:05 [FirstSquawk] NOVO’S OZEMPIC ® (SEMAGLUTIDE) 2 MG IS LINKED TO A LOWER RISK OF SERIOUS HEART-RELATED ISSUES (DEATH, HEART ATTACK, AND STROKE) IN ADULTS WITH TYPE 2 DIABETES THAN SWITCHING TO MOUNJARO ® (TIRZEPATIDE), AS PER A REAL-WORLD STUDY PRESENTED A…
+- 09/29 19:06 [FirstSquawk] NOVO NORDISK'S SEMAGLUTIDE 2 MG DOSE IS ASSOCIATED WITH A 6% LOWER RISK OF SERIOUS CARDIOVASCULAR EVENTS.
+- 09/29 19:07 [FirstSquawk] CHINA WILL HELP COVER INTEREST PAYMENTS FOR FIRST-TIME HOME MORTGAGES.
+- 09/29 19:18 [FirstSquawk] IRANIAN ARMY SPOKESPERSON ANNOUNCED A 10 BILLION TOMAN REWARD FOR ANY IRANIAN WHO CAPTURES AN AMERICAN SOLDIER, DEAD OR ALIVE.
+- 09/29 19:19 [FirstSquawk] HOUSE DEMOCRATS DEMAND TECH CEOS GIVE INFO ON ROGUE AI:POLITICO
+- 09/29 19:20 [financialjuice] Three House Democrats penned letter to tech CEOs (Altman, Amodei, Musk) - Politico
