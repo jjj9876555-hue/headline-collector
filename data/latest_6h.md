@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-30 01:25 JST／対象: 09/29 19:25 〜 09/30 01:25 JST（時刻はすべて日本時間）
+生成: 2026-09-30 01:48 JST／対象: 09/29 19:48 〜 09/30 01:48 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 56 | 09/29 20:26 | 09/30 01:24 | 35分（21:39→22:14） |
-| FirstSquawk | 93 | 09/29 19:26 | 09/30 01:21 | 30分（19:41→20:12） |
-| financialjuice | 112 | 09/29 19:33 | 09/30 01:21 | ⚠ 50分（22:45→23:36） |
+| DeItaone | 59 | 09/29 20:26 | 09/30 01:45 | 35分（21:39→22:14） |
+| FirstSquawk | 91 | 09/29 20:12 | 09/30 01:44 | 27分（00:53→01:20） |
+| financialjuice | 132 | 09/29 19:54 | 09/30 01:48 | ⚠ 50分（22:45→23:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 245 行（統合前 263 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 266 行（統合前 284 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 19:26 [FirstSquawk] PEPSICO CUT TO NEUTRAL AT JPMORGAN; PT $138
-- 09/29 19:28 [FirstSquawk] VOLKSWAGEN TO SHOW HIT FROM UK MOTOR FINANCE SCHEME: SKY
-- 09/29 19:29 [FirstSquawk] RUSSIAN FOREIGN MINISTER LAVROV ON WEST'S ACCUSATIONS OF RUSSIA WAGING HYBRID WAR IN EUROPE: NO DOUBT EUROPE IS WAGING WAR AGAINST RUSSIA
-- 09/29 19:33 [financialjuice] UK Navy: Vessel struck by projectile in Hormuz September 28.
-- 09/29 19:34 [FirstSquawk] UKMTO: GETS TIME-LATE REPORT OF INCIDENT IN HORMUZ
-- 09/29 19:39 [FirstSquawk] SAUDI CIVIL DEFENCE SAYS DANGER HAS PASSED
-- 09/29 19:41 [FirstSquawk] IRAN'S FOREIGN MINISTER STATED THAT A SEVEN-POINT PLAN FROM TEHRAN WAS SHARED WITH WASHINGTON VIA QATAR, AND IRAN IS NOW WAITING FOR AN OFFICIAL RESPONSE FROM THE U.S.
-- 09/29 19:42 [financialjuice] Italy's Energy Minister: Will speak with US Energy Secretary Wright later on Tuesday, will ask about potential US diesel export ban.
 - 09/29 19:54 [financialjuice] Qatar Foreign Ministry Spokesman: Exchanging messages, possible solutions with US-Iran.
 - 09/29 20:12 [FirstSquawk] ELI LILLY: ZEPBOUND ACHIEVES 20.2% WEIGHT REDUCTION VS 13.7% FOR WEGOVY AT 72 WEEKS
 - 09/29 20:14 [financialjuice/FirstSquawk] Rosatom, Iran discuss options to build new nuclear plants - Tass
@@ -269,3 +261,32 @@
 - 09/30 01:21 [financialjuice] ❗ White House has urged EU to draw down diesel emergency inventories in bid to lower global prices - sources
 - 09/30 01:24 [DeItaone] WHITE HOUSE HAS URGED EUROPEAN UNION TO DRAW DOWN DIESEL EMERGENCY INVENTORIES IN BID TO LOWER GLOBAL PRICES- SOURCES
 - 09/30 01:24 [DeItaone] *WHITE HOUSE URGED THE EU TO DRAW DOWN DIESEL INVENTORIES
+- 09/30 01:25 [financialjuice] Anthropic: Rogue AI agents pose uncertain legal risk for the company.
+- 09/30 01:28 [financialjuice] BoE's Taylor: I'm not seeing any clear signal of building second round effects, unlike 2022.
+- 09/30 01:29 [financialjuice] BoE's Taylor: If wage growth expectations stay near 3%, that would be reassuring.
+- 09/30 01:31 [financialjuice] WATCH LIVE: Fed's Barr Speaks 12:40 ET
+- 09/30 01:33 [FirstSquawk] BOE'S TAYLOR: WOULD BE REASSURING IF WAGE GROWTH EXPECTATIONS STAY NEAR 3%
+- 09/30 01:36 [financialjuice] Republican Senator Moreno: Talks ongoing to revise Chinese vehicle ban bill to prevent restrictions on Mercedes-Benz.
+- 09/30 01:38 [FirstSquawk] DISNEY MAKES MORE JOB CUTS
+- 09/30 01:38 [FirstSquawk] US SEN. (R) MORENO: TALKS ONGOING TO REVISE CHINESE VEHICLE BAN BILL TO PREVENT RESTRICTIONS ON MERCEDES-BENZ
+- 09/30 01:40 [DeItaone] $DIS - DISNEY CUTS HUNDREDS MORE JOBS Disney is laying off several hundred employees, primarily across HR and IT, marking its third round of job cuts this year under CEO Josh D’Amaro. The latest reductions follow roughly 1,000 layoffs in Ap…
+- 09/30 01:40 [financialjuice] Fed's Barr: I expects GDP growth to pick up a bit in second half of year, from 2% pace in first half
+- 09/30 01:40 [financialjuice] Fed's Barr: Risks to achieving inflation target have increased, risks to labor market have receded.
+- 09/30 01:41 [financialjuice] Fed's Barr: There is a need to recalibrate policy. Base case is that further policy adjustments likely to be needed.
+- 09/30 01:41 [DeItaone] FED’S BARR SEES MORE RATE HIKES AHEAD Fed Governor Michael Barr says further policy adjustments are likely needed, warning that inflation risks have increased while labor-market risks have receded. Barr expects U.S. growth to accelerate fro…
+- 09/30 01:41 [financialjuice] Fed's Barr: Labor market solid, supported by business investment and consumer spending
+- 09/30 01:41 [financialjuice] Fed's Barr: Inflation is a key concern. Fed has been knocked off course to 2% goal.
+- 09/30 01:41 [financialjuice] Fed's Barr: I do not see a clear trend toward a timely return to 2% inflation.
+- 09/30 01:41 [financialjuice] Fed's Barr: it makes sense to pencil in AI productivity boost in medium term, but difficult to project how or when
+- 09/30 01:42 [financialjuice] Fed's Barr: Too early to know if AI will push up neutral rate of interest
+- 09/30 01:42 [financialjuice] Fed's Barr: I am optimistic that AI will boost productivity in the longer term.
+- 09/30 01:42 [financialjuice] Fed's Barr: AI buildout likely to be a strong boost to us economic activity in next year or so
+- 09/30 01:42 [financialjuice] Fed's Barr: Broad productivity gains from AI may take some time
+- 09/30 01:42 [financialjuice] Fed's Barr: We should be prepared for serious short-term disruptions in the labor market from AI.
+- 09/30 01:43 [financialjuice] Local sources report that a drone has fired upon a violating ship in the southern route of the Strait of Hormuz - Fars News
+- 09/30 01:44 [FirstSquawk] SHIP TARGETED WITH DRONE ALONG SOUTHERN HORMUZ ROUTE: FARS
+- 09/30 01:44 [financialjuice] BoE's Taylor: There's a lot of upside risk to food inflation
+- 09/30 01:45 [financialjuice] BoE's Taylor: Every time oil futures curves rise, the greater the risk we do get to a 2022-type inflation scenario.
+- 09/30 01:45 [DeItaone] TRUMP ADMINISTRATION SAYS SEVERAL EU MEMBER COUNTRIES HAVE NOT RELEASED AS MUCH OIL AND REFINED PRODUCTS FROM RESERVES AS THEY PROMISED
+- 09/30 01:45 [financialjuice] ❗ Trump Administration: Several EU member countries have not released as much oil and refined products from reserves as they promised.
+- 09/30 01:48 [financialjuice] Iran's Major General Rezai: We have stated our conditions, but Trump is incapable of making decisions - IRIB News

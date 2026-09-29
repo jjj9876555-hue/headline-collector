@@ -7,54 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-30 01:25 JST／対象: 09/29 01:25 〜 09/30 01:25 JST（時刻はすべて日本時間）
+生成: 2026-09-30 01:48 JST／対象: 09/29 01:48 〜 09/30 01:48 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 66 | 09/29 01:39 | 09/30 01:24 | ⚠ 1092分（02:14→20:26） |
-| FirstSquawk | 373 | 09/29 01:26 | 09/30 01:21 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 314 | 09/29 01:27 | 09/30 01:21 | ⚠ 62分（11:21→12:24） |
+| DeItaone | 61 | 09/29 01:54 | 09/30 01:45 | ⚠ 1092分（02:14→20:26） |
+| FirstSquawk | 367 | 09/29 02:07 | 09/30 01:44 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 320 | 09/29 02:09 | 09/30 01:48 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 729 行（統合前 757 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 727 行（統合前 751 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 01:26 [FirstSquawk] US HASSETT: ESTIMATE PRODUCTIVITY GROWTH RIGHT NOW ABOUT 2.5%
-- 09/29 01:26 [FirstSquawk] HASSETT: BASE CASE ON GDP GROWTH, SHOULD BE AROUND 4%
-- 09/29 01:27 [financialjuice] WH Sr. Adviser Hassett: Base case on GDP growth, should be around 4%.
-- 09/29 01:27 [FirstSquawk] TRUMP OPEN TO IRAN SANCTIONS RELIEF FOR ‘CONCRETE PROGRESS’ ON NUCLEAR ISSUES, WHITE HOUSE OFFICIAL SAYS – CNN
-- 09/29 01:27 [financialjuice] ❗ White House official: Trump open to Iran sanctions relief for ‘concrete progress’ on nuclear issues - CNN
-- 09/29 01:30 [FirstSquawk] US OIL REVERSES GAINS, TRADES NEAR $92 A BARREL
-- 09/29 01:33 [financialjuice/FirstSquawk/DeItaone] Iran officials pessimistic about deal with US before midterms
-- 09/29 01:34 [financialjuice] Al Arabiya's Washington bureau chief: Iran and Yemen dossiers featured strongly in Saudi-US foreign ministers' meeting; Trump will not back down from economic siege on Tehran, wants Hormuz reopened without conditions
-- 09/29 01:35 [financialjuice] ECB's Pereira: Natural gas price pressures could lift inflation this winter.
-- 09/29 01:35 [financialjuice] WH Sr. Adviser Hassett: Lot of our debt is debt we owe ourselves.
-- 09/29 01:35 [financialjuice] WH Sr. Adviser Hassett: External debt maybe is around $15 trln
-- 09/29 01:36 [FirstSquawk] HASSETT: EXTERNAL DEBT MAYBE IS AROUND $15T
-- 09/29 01:36 [FirstSquawk] HASSETT: LOT OF OUR DEBT IS DEBT WE OWE OURSELVES
-- 09/29 01:37 [financialjuice] WH Sr. Adviser Hassett asked on bond yields, refers to Treasury Secretary.
-- 09/29 01:38 [financialjuice] White House weighs red-dyed diesel tax relief to lower fuel prices, according to 2 sources familiar
-- 09/29 01:39 [financialjuice] WH Sr. Adviser Hassett: 30-Yr TIPS yields tell you capital returns higher now.
-- 09/29 01:39 [DeItaone/financialjuice] SAUDI ARABIA RESUMES OIL EXPORTS VIA EAST-WEST PIPELINE AFTER REPAIRS -- SOURCES
-- 09/29 01:39 [FirstSquawk] HASSETT: 30-YR TIPS YIELDS TELL YOU CAPITAL RETURNS HIGHER NOW
-- 09/29 01:40 [FirstSquawk] HASSETT: 3% DEFICIT GOAL WILL DEPEND ON 'FORCE MAJEURE' FACTORS
-- 09/29 01:40 [DeItaone] IRAN PESSIMISTIC ON U.S. DEAL BEFORE MIDTERMS Iranian officials privately see little prospect of reaching a U.S. agreement to end hostilities and reopen Hormuz before the Nov. 3 midterms, Bloomberg reports. Talks in New York made limited pr…
-- 09/29 01:40 [financialjuice] Aramco currently operating pipeline at throughput rate of around 3.5 mln BPD - sources
-- 09/29 01:41 [DeItaone] ARAMCO CURRENTLY OPERATING PIPELINE AT THROUGHPUT RATE OF AROUND 3.5 MILLION BARRELS A DAY -- SOURCES
-- 09/29 01:42 [DeItaone] TRUMP OPEN TO IRAN SANCTIONS RELIEF FOR NUCLEAR PROGRESS President Trump is willing to offer sanctions relief and release frozen Iranian funds in exchange for concrete progress on Tehran’s nuclear program, a U.S. official told CNN. Washingt…
-- 09/29 01:43 [financialjuice] Texas Governor Abbott waives dyed-diesel restrictions
-- 09/29 01:43 [DeItaone] SAUDI ARABIA RESTORES KEY OIL EXPORT ROUTE Saudi Arabia has resumed oil exports through its East-West pipeline after repairing damage from drone strikes earlier this month. Saudi Aramco began loading vessels again at the Red Sea port of Yan…
-- 09/29 01:44 [financialjuice] ECB's Pereira: Inflation pressures are currently concentrated in energy prices.
-- 09/29 01:45 [FirstSquawk] US OFFICIAL: WE NEED GUARANTEES THIS TIME THAT IRAN IS SERIOUS AND NOT JUST SEEKING TO ESCAPE THE DIFFICULT SITUATION IT IS SUFFERING FROM
-- 09/29 01:45 [DeItaone] US CONSIDERING SANCTIONS WAIVER FOR FLIGHTS BETWEEN IRAN AND IRAQ'S HOLY CITY OF NAJAF, PERSON WITH DIRECT KNOWLEDGE SAYS
-- 09/29 01:46 [financialjuice] US considering sanctions waiver for flights between Iran and Iraq's holy city of Najaf - Source
-- 09/29 01:46 [DeItaone] WAIVER WOULD ALLOW PILGRIMS TO TRAVEL ON IRAQI AIRWAYS TO AND FROM IRAN FOR PILGRIMAGE FOR ONE MONTH, SOURCE SAYS
-- 09/29 01:46 [financialjuice] WH Sr. Adviser Hassett: 3-month annualized core inflation is around Fed target.
 - 09/29 01:54 [DeItaone] 36 DAYS TO MIDTERMS: DEMOCRATS HIT NEW 2026 HIGH With just 36 days until the Nov. 3 midterms, Kalshi’s American Power Index has swung sharply toward Democrats. USAGov Democrats now lead at +3.8 — their strongest level shown on the 2026 char…
 - 09/29 02:07 [FirstSquawk] TRUMP OFFERS IRAN ECONOMIC RELIEF FOR CONCRETE NUCLEAR CONCESSIONS - AXIOS
 - 09/29 02:09 [financialjuice] NYC Speaker: OpenAI, Anthropic, Google all agreed to testify
@@ -753,3 +722,32 @@
 - 09/30 01:21 [financialjuice] ❗ White House has urged EU to draw down diesel emergency inventories in bid to lower global prices - sources
 - 09/30 01:24 [DeItaone] WHITE HOUSE HAS URGED EUROPEAN UNION TO DRAW DOWN DIESEL EMERGENCY INVENTORIES IN BID TO LOWER GLOBAL PRICES- SOURCES
 - 09/30 01:24 [DeItaone] *WHITE HOUSE URGED THE EU TO DRAW DOWN DIESEL INVENTORIES
+- 09/30 01:25 [financialjuice] Anthropic: Rogue AI agents pose uncertain legal risk for the company.
+- 09/30 01:28 [financialjuice] BoE's Taylor: I'm not seeing any clear signal of building second round effects, unlike 2022.
+- 09/30 01:29 [financialjuice] BoE's Taylor: If wage growth expectations stay near 3%, that would be reassuring.
+- 09/30 01:31 [financialjuice] WATCH LIVE: Fed's Barr Speaks 12:40 ET
+- 09/30 01:33 [FirstSquawk] BOE'S TAYLOR: WOULD BE REASSURING IF WAGE GROWTH EXPECTATIONS STAY NEAR 3%
+- 09/30 01:36 [financialjuice] Republican Senator Moreno: Talks ongoing to revise Chinese vehicle ban bill to prevent restrictions on Mercedes-Benz.
+- 09/30 01:38 [FirstSquawk] DISNEY MAKES MORE JOB CUTS
+- 09/30 01:38 [FirstSquawk] US SEN. (R) MORENO: TALKS ONGOING TO REVISE CHINESE VEHICLE BAN BILL TO PREVENT RESTRICTIONS ON MERCEDES-BENZ
+- 09/30 01:40 [DeItaone] $DIS - DISNEY CUTS HUNDREDS MORE JOBS Disney is laying off several hundred employees, primarily across HR and IT, marking its third round of job cuts this year under CEO Josh D’Amaro. The latest reductions follow roughly 1,000 layoffs in Ap…
+- 09/30 01:40 [financialjuice] Fed's Barr: I expects GDP growth to pick up a bit in second half of year, from 2% pace in first half
+- 09/30 01:40 [financialjuice] Fed's Barr: Risks to achieving inflation target have increased, risks to labor market have receded.
+- 09/30 01:41 [financialjuice] Fed's Barr: There is a need to recalibrate policy. Base case is that further policy adjustments likely to be needed.
+- 09/30 01:41 [DeItaone] FED’S BARR SEES MORE RATE HIKES AHEAD Fed Governor Michael Barr says further policy adjustments are likely needed, warning that inflation risks have increased while labor-market risks have receded. Barr expects U.S. growth to accelerate fro…
+- 09/30 01:41 [financialjuice] Fed's Barr: Labor market solid, supported by business investment and consumer spending
+- 09/30 01:41 [financialjuice] Fed's Barr: Inflation is a key concern. Fed has been knocked off course to 2% goal.
+- 09/30 01:41 [financialjuice] Fed's Barr: I do not see a clear trend toward a timely return to 2% inflation.
+- 09/30 01:41 [financialjuice] Fed's Barr: it makes sense to pencil in AI productivity boost in medium term, but difficult to project how or when
+- 09/30 01:42 [financialjuice] Fed's Barr: Too early to know if AI will push up neutral rate of interest
+- 09/30 01:42 [financialjuice] Fed's Barr: I am optimistic that AI will boost productivity in the longer term.
+- 09/30 01:42 [financialjuice] Fed's Barr: AI buildout likely to be a strong boost to us economic activity in next year or so
+- 09/30 01:42 [financialjuice] Fed's Barr: Broad productivity gains from AI may take some time
+- 09/30 01:42 [financialjuice] Fed's Barr: We should be prepared for serious short-term disruptions in the labor market from AI.
+- 09/30 01:43 [financialjuice] Local sources report that a drone has fired upon a violating ship in the southern route of the Strait of Hormuz - Fars News
+- 09/30 01:44 [FirstSquawk] SHIP TARGETED WITH DRONE ALONG SOUTHERN HORMUZ ROUTE: FARS
+- 09/30 01:44 [financialjuice] BoE's Taylor: There's a lot of upside risk to food inflation
+- 09/30 01:45 [financialjuice] BoE's Taylor: Every time oil futures curves rise, the greater the risk we do get to a 2022-type inflation scenario.
+- 09/30 01:45 [DeItaone] TRUMP ADMINISTRATION SAYS SEVERAL EU MEMBER COUNTRIES HAVE NOT RELEASED AS MUCH OIL AND REFINED PRODUCTS FROM RESERVES AS THEY PROMISED
+- 09/30 01:45 [financialjuice] ❗ Trump Administration: Several EU member countries have not released as much oil and refined products from reserves as they promised.
+- 09/30 01:48 [financialjuice] Iran's Major General Rezai: We have stated our conditions, but Trump is incapable of making decisions - IRIB News
