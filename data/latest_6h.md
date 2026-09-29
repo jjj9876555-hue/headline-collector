@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-29 18:48 JST／対象: 09/29 12:48 〜 09/29 18:48 JST（時刻はすべて日本時間）
+生成: 2026-09-29 19:01 JST／対象: 09/29 13:01 〜 09/29 19:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 124 | 09/29 13:11 | 09/29 18:30 | 17分（14:01→14:18） |
+| FirstSquawk | 129 | 09/29 13:11 | 09/29 18:57 | 24分（18:30→18:55） |
 | financialjuice | 63 | 09/29 13:03 | 09/29 18:30 | 37分（15:22→16:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 186 行（統合前 187 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 191 行（統合前 192 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -210,3 +210,8 @@
 - 09/29 18:23 [FirstSquawk] UK PM IS SET TO ANNOUNCE PLANS FOR CHANGES IN ELECTORAL SYSTEMS.
 - 09/29 18:30 [FirstSquawk] CHINA'S FX REGULATOR PREDICTS PROMISING GROWTH FOR AI EXPORTS AND IMPORTS.
 - 09/29 18:30 [financialjuice] China FX Regulator: AI-related exports and imports expected to maintain rapid growth.
+- 09/29 18:55 [FirstSquawk] PBOC HAS REDUCED THE PSL RATE BY 0.25 PERCENT POINTS.
+- 09/29 18:55 [FirstSquawk] PBOC CHANGES SOME MONETARY POLICY TOOLS.
+- 09/29 18:55 [FirstSquawk] PBOC SLASHES PSL RATES BY 0.25 PERCENTAGE POINT, 1-YEAR PSL NOW AT 1.5%.
+- 09/29 18:57 [FirstSquawk] PBOC INCREASES RELENDING QUOTA BY 500 BILLION YUAN FOR AGRICULTURE AND SMALL BUSINESSES.
+- 09/29 18:57 [FirstSquawk] PBOC TO INCREASE RELENDING BY 200 BILLION YUAN FOR TECHNOLOGY TRANSFORMATION.

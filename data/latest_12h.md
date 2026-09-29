@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-29 18:48 JST／対象: 09/29 06:48 〜 09/29 18:48 JST（時刻はすべて日本時間）
+生成: 2026-09-29 19:01 JST／対象: 09/29 07:01 〜 09/29 19:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 209 | 09/29 07:40 | 09/29 18:30 | ⚠ 57分（07:48→08:46） |
-| financialjuice | 114 | 09/29 06:54 | 09/29 18:30 | ⚠ 62分（11:21→12:24） |
+| FirstSquawk | 214 | 09/29 07:40 | 09/29 18:57 | ⚠ 57分（07:48→08:46） |
+| financialjuice | 110 | 09/29 07:01 | 09/29 18:30 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 322 行（統合前 323 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 323 行（統合前 324 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 06:54 [financialjuice] Iran’s foreign minister: Tehran discussed proposals with Qatari mediators to present to US - IRNA
-- 09/29 06:55 [financialjuice] Iran's Aragchi: US response to be relayed to Tehran through Qatari mediators - IRNA
-- 09/29 06:56 [financialjuice] Iran's Araqchi: conditions set by supreme leader must be met for Strait of Hormuz to reopen - IRNA
-- 09/29 06:58 [financialjuice] Aragchi: If US wants deal or peace, Iran has offered solution - IRNA
 - 09/29 07:01 [financialjuice] OpenAI halts launch of new AI model over safety worries: WSJ
 - 09/29 07:02 [financialjuice] OpenAI planned to release model GPT-6.1 Astra in coming days or weeks, aiming for October debut: WSJ
 - 09/29 07:02 [financialjuice] OpenAI: will concentrate on enhancing safety of future models expected to be more advanced - WSJ
@@ -346,3 +342,8 @@
 - 09/29 18:23 [FirstSquawk] UK PM IS SET TO ANNOUNCE PLANS FOR CHANGES IN ELECTORAL SYSTEMS.
 - 09/29 18:30 [FirstSquawk] CHINA'S FX REGULATOR PREDICTS PROMISING GROWTH FOR AI EXPORTS AND IMPORTS.
 - 09/29 18:30 [financialjuice] China FX Regulator: AI-related exports and imports expected to maintain rapid growth.
+- 09/29 18:55 [FirstSquawk] PBOC HAS REDUCED THE PSL RATE BY 0.25 PERCENT POINTS.
+- 09/29 18:55 [FirstSquawk] PBOC CHANGES SOME MONETARY POLICY TOOLS.
+- 09/29 18:55 [FirstSquawk] PBOC SLASHES PSL RATES BY 0.25 PERCENTAGE POINT, 1-YEAR PSL NOW AT 1.5%.
+- 09/29 18:57 [FirstSquawk] PBOC INCREASES RELENDING QUOTA BY 500 BILLION YUAN FOR AGRICULTURE AND SMALL BUSINESSES.
+- 09/29 18:57 [FirstSquawk] PBOC TO INCREASE RELENDING BY 200 BILLION YUAN FOR TECHNOLOGY TRANSFORMATION.
