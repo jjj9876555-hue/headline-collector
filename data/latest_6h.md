@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-29 22:50 JST／対象: 09/29 16:50 〜 09/29 22:50 JST（時刻はすべて日本時間）
+生成: 2026-09-29 23:04 JST／対象: 09/29 17:04 〜 09/29 23:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 27 | 09/29 20:26 | 09/29 22:50 | 35分（21:39→22:14） |
-| FirstSquawk | 94 | 09/29 17:05 | 09/29 22:47 | 30分（19:41→20:12） |
-| financialjuice | 64 | 09/29 17:01 | 09/29 22:45 | ⚠ 50分（18:30→19:20） |
+| DeItaone | 31 | 09/29 20:26 | 09/29 23:01 | 35分（21:39→22:14） |
+| FirstSquawk | 101 | 09/29 17:05 | 09/29 23:02 | 30分（19:41→20:12） |
+| financialjuice | 63 | 09/29 17:28 | 09/29 22:45 | ⚠ 50分（18:30→19:20） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 176 行（統合前 185 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 184 行（統合前 195 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 17:01 [financialjuice] ITALIAN INDUSTRIAL SALES MOM ACTUAL 0.6% (FORECAST -, PREVIOUS -1.0%) $MACRO
 - 09/29 17:05 [FirstSquawk] EU ENERGY COMMISSIONER STATED THAT THEY HAVE INFORMED THEIR U.S. COUNTERPART THAT BLOCKING ENERGY SUPPLIES BENEFITS NOBODY.
 - 09/29 17:05 [FirstSquawk] EU ENERGY CHIEF HAS ASKED FOR A REVIEW OF PLANS TO DELAY METHANE REGULATIONS ON IMPORTED FUELS.
 - 09/29 17:05 [FirstSquawk] EU ENERGY CHIEF STATED THAT THEY WILL EXPLORE LEGAL OPTIONS, AND THEN THE DECISION WILL BE IN THE HANDS OF EU NATIONS AND THE EU PARLIAMENT.
@@ -200,3 +199,12 @@
 - 09/29 22:46 [DeItaone] TRUMP TO HOST AI POWER LUNCH WITH TOP TECH CEOs President Trump and House Speaker Mike Johnson are set to meet leading AI and tech executives Tuesday as Washington debates how to oversee rapidly advancing AI. Axios Attendees include Elon Mu…
 - 09/29 22:47 [FirstSquawk] UK GILT FUTURES PARE GAINS BY AROUND 10 TICKS AFTER PM BURNHAM SAYS SAVINGS FROM SCRAPPING TRIPLE LOCK WILL BE USED TO FINANCE SOCIAL CARE
 - 09/29 22:50 [DeItaone] U.S. GASOLINE AND DIESEL PRICES FALL U.S. regular gasoline prices fell 1.3 cents over the week to $4.465/gallon, though prices remain $1.347 higher than a year ago. Diesel saw a much larger decline, falling 14.7 cents to $6.382/gallon, but …
+- 09/29 22:50 [DeItaone] U.S. 30-YEAR TREASURY YIELD REACHES 5.587%, HIGHEST SINCE MAY 2004
+- 09/29 22:51 [FirstSquawk] STELLANTIS TO SUSPEND PRODUCTION AT THREE FRENCH PLANTS - LES ECHOS
+- 09/29 22:53 [FirstSquawk] PIPER SANDLER HOLDS TALKS TO BUY PERELLA WEINBERG: WSJ
+- 09/29 22:56 [FirstSquawk] BURNHAM: NATL'L COMMISSION ON ELECTORAL REFORM
+- 09/29 22:57 [FirstSquawk] BURNHAM: PARTY WITH UNDER 30% OF VOTE SHOULDN'T BE IN POWER
+- 09/29 23:00 [FirstSquawk/DeItaone] US SEPT. CONSUMER CONFIDENCE 81.9; EST. 89.0
+- 09/29 23:00 [FirstSquawk/DeItaone] US AUG. JOB OPENINGS 7.079M; EST. 7.228M
+- 09/29 23:00 [DeItaone] U.S. JOB OPENINGS FALL TO 7.08 MILLION U.S. job openings fell to 7.079 million in August, down from a revised 7.335 million in July, according to the Labor Department’s JOLTS report. The job-openings rate slipped to 4.3% from 4.4%, while hi…
+- 09/29 23:02 [FirstSquawk] SAUDI CROWN PRINCE MEETS WITH UAE VICE PRESIDENT IN RIYADH:SPA
