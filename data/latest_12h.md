@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-29 18:23 JST／対象: 09/29 06:23 〜 09/29 18:23 JST（時刻はすべて日本時間）
+生成: 2026-09-29 18:48 JST／対象: 09/29 06:48 〜 09/29 18:48 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 208 | 09/29 07:40 | 09/29 18:23 | ⚠ 57分（07:48→08:46） |
-| financialjuice | 117 | 09/29 06:35 | 09/29 18:23 | ⚠ 62分（11:21→12:24） |
+| FirstSquawk | 209 | 09/29 07:40 | 09/29 18:30 | ⚠ 57分（07:48→08:46） |
+| financialjuice | 114 | 09/29 06:54 | 09/29 18:30 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 324 行（統合前 325 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 322 行（統合前 323 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 06:35 [financialjuice] Trump: He did not provide sanctions relief to Iran
-- 09/29 06:36 [financialjuice] Syria: Gas pipeline fire between Al-Shola and Deir al-Zour caused by sabotage - state news agency
-- 09/29 06:36 [financialjuice] Syrian Petroleum Company: efforts underway to extinguish fire - Syrian state news agency
-- 09/29 06:37 [financialjuice] Syria’s state petroleum company: Fire stopped gas supply from Jbeissa plant to power stations – Syrian state news agency
 - 09/29 06:54 [financialjuice] Iran’s foreign minister: Tehran discussed proposals with Qatari mediators to present to US - IRNA
 - 09/29 06:55 [financialjuice] Iran's Aragchi: US response to be relayed to Tehran through Qatari mediators - IRNA
 - 09/29 06:56 [financialjuice] Iran's Araqchi: conditions set by supreme leader must be met for Strait of Hormuz to reopen - IRNA
@@ -348,3 +344,5 @@
 - 09/29 18:22 [FirstSquawk] META WILL EXTEND ITS 'ONE STEP AHEAD' CAMPAIGN UNTIL 2026, INTRODUCING NEW TOOLS AND PARTNERSHIPS.
 - 09/29 18:23 [financialjuice] UK PM expected to signal plans for electoral reform - Guardian
 - 09/29 18:23 [FirstSquawk] UK PM IS SET TO ANNOUNCE PLANS FOR CHANGES IN ELECTORAL SYSTEMS.
+- 09/29 18:30 [FirstSquawk] CHINA'S FX REGULATOR PREDICTS PROMISING GROWTH FOR AI EXPORTS AND IMPORTS.
+- 09/29 18:30 [financialjuice] China FX Regulator: AI-related exports and imports expected to maintain rapid growth.

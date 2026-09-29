@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-29 18:23 JST／対象: 09/29 12:23 〜 09/29 18:23 JST（時刻はすべて日本時間）
+生成: 2026-09-29 18:48 JST／対象: 09/29 12:48 〜 09/29 18:48 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 127 | 09/29 12:24 | 09/29 18:23 | 26分（12:45→13:11） |
-| financialjuice | 63 | 09/29 12:24 | 09/29 18:23 | 39分（12:24→13:03） |
+| FirstSquawk | 124 | 09/29 13:11 | 09/29 18:30 | 17分（14:01→14:18） |
+| financialjuice | 63 | 09/29 13:03 | 09/29 18:30 | 37分（15:22→16:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 189 行（統合前 190 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 186 行（統合前 187 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 12:24 [financialjuice] CNN, MSNBC and Politico ask judge to block Trump from reviving White House ban
-- 09/29 12:24 [FirstSquawk] CNN, MS NOW and Politico ask court to halt Trump’s attempt to revive White House ban
-- 09/29 12:27 [FirstSquawk] Bank of India’s $1 billion MTN programme rated ‘BBB-’ by Fitch
-- 09/29 12:36 [FirstSquawk] Japan 40-year JGB auction highest yield stands at 4.1250%; 42.4153% of bids accepted
-- 09/29 12:45 [FirstSquawk] South Korea sees farming households increase to 1.27 million in 2025, while average farm area hits 65-year low - YONHAP
 - 09/29 13:03 [financialjuice] Germany delivers EU budget ultimatum - FT
 - 09/29 13:05 [financialjuice] Germany, the Netherlands, Sweden, Denmark, Austria and Finland tell Brussels to cut ‘hundreds of billions’ in planned spending - FT
 - 09/29 13:06 [financialjuice] Nvidia turns to insurers to share risk of AI expansion - FT
@@ -213,3 +208,5 @@
 - 09/29 18:22 [FirstSquawk] META WILL EXTEND ITS 'ONE STEP AHEAD' CAMPAIGN UNTIL 2026, INTRODUCING NEW TOOLS AND PARTNERSHIPS.
 - 09/29 18:23 [financialjuice] UK PM expected to signal plans for electoral reform - Guardian
 - 09/29 18:23 [FirstSquawk] UK PM IS SET TO ANNOUNCE PLANS FOR CHANGES IN ELECTORAL SYSTEMS.
+- 09/29 18:30 [FirstSquawk] CHINA'S FX REGULATOR PREDICTS PROMISING GROWTH FOR AI EXPORTS AND IMPORTS.
+- 09/29 18:30 [financialjuice] China FX Regulator: AI-related exports and imports expected to maintain rapid growth.
