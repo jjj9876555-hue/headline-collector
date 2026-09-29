@@ -7,44 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-29 08:51 JST／対象: 09/28 08:51 〜 09/29 08:51 JST（時刻はすべて日本時間）
+生成: 2026-09-29 09:06 JST／対象: 09/28 09:06 〜 09/29 09:06 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 38 | 09/28 16:28 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 300 | 09/28 09:21 | 09/29 08:46 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 298 | 09/28 08:52 | 09/29 08:45 | ⚠ 115分（11:30→13:26） |
+| FirstSquawk | 313 | 09/28 09:21 | 09/29 09:03 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 289 | 09/28 09:07 | 09/29 09:02 | ⚠ 115分（11:30→13:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 621 行（統合前 640 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 625 行（統合前 644 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 08:52 [financialjuice] JAPANESE SERVICE PPI ACTUAL 3.7% (FORECAST 3.6%, PREVIOUS 3.6%) $MACRO
-- 09/28 08:52 [financialjuice] BOJ minutes: some members note consumer prices rising, reflecting increased import costs
-- 09/28 08:53 [financialjuice] boj minutes: several members noted companies steadily pass rising raw material costs, sustaining high wholesale inflation
-- 09/28 08:53 [financialjuice] BOJ minutes: many members say medium-, long-term inflation expectations rising for households, companies
-- 09/28 08:54 [financialjuice] BOJ minutes: several members expect consumer goods price increases to expand from summer onward
-- 09/28 08:55 [financialjuice] BoJ minutes: many members noted underlying inflation nearing 2%, demanding focus on stability
-- 09/28 08:55 [financialjuice] Rising price growth near that level
-- 09/28 08:55 [financialjuice] BOJ minutes: one member said focus needed on whether long-term inflation expectations will settle near 2%
-- 09/28 08:55 [financialjuice] BOJ minutes: many members said underlying inflation nearing 2%, requiring focus on stabilising price growth around that level
-- 09/28 08:56 [financialjuice] Bank of Korea: to closely watch financial and forex markets
-- 09/28 08:57 [financialjuice] BOJ minutes: members concur fx volatility impacts economy, prices more than before as firms increase pass-through of rising import costs
-- 09/28 08:57 [financialjuice] BoJ minutes: one member notes rising upside price risks as recent weak yen, Middle East events could boost inflation expectations
-- 09/28 08:58 [financialjuice] BOJ minutes: one member noted it takes 1-1.5 years for rate hike effect to ease inflation, economy
-- 09/28 09:00 [financialjuice] BOJ minutes: one member said Bank of Japan must taper monetary support gradually to prevent delay in interest-rate increases
-- 09/28 09:01 [financialjuice] BOJ minutes: one member said central bank must ensure nimble policy decisions by raising policy rate, which stayed below estimated neutral rate range
-- 09/28 09:02 [financialjuice] boj minutes: many members said central bank gradually moving to phase focusing on stabilising underlying inflation around 2%, not pushing up inflation
-- 09/28 09:03 [financialjuice] BOJ minutes: one member said markets appear to expect BOJ to raise rates about once every six months, but hikes could come more quickly
-- 09/28 09:03 [financialjuice] BoJ minutes: one member said bank must adjust policy rate nimbly with focus on upside inflation risks
-- 09/28 09:04 [financialjuice] BOJ minutes: one member says bank must speed up rate hikes as inflation risks could cause significant harm to economy
-- 09/28 09:04 [financialjuice] BOJ minutes: some members said central bank must signal focus on upside inflation risks more clearly
-- 09/28 09:05 [financialjuice] BOJ minutes: several members said it was difficult to anticipate pace and timing of future rate increases
 - 09/28 09:07 [financialjuice] BOJ minutes: board discussed long-term interest rate changes with some members saying term premia could increase if markets doubt BOJ will raise rates adequately
 - 09/28 09:08 [financialjuice] BOJ minutes: cabinet office official says suitable monetary policy crucial for stable inflation, hopes BOJ collaborates with government
 - 09/28 09:16 [financialjuice] South Korea 3-year Treasury bond futures KTBC1 drop by 30 ticks
@@ -645,3 +624,28 @@
 - 09/29 08:40 [financialjuice] 15 states take federal aviation administration to court over environmental assessment of commercial drone delivery rules - filing
 - 09/29 08:45 [financialjuice] CSL Ltd collaborates with Amazon Web Services
 - 09/29 08:46 [FirstSquawk] JAPAN’S NIKKEI FUTURES RISE 0.3% IN EARLY TRADE; 10-YEAR JGB FUTURES FALL 0.16 POINT
+- 09/29 08:53 [FirstSquawk] DEFENSE SECRETARY PETE HEGSETH HAS ORDERED THE PENTAGON TO USE INTELLIGENCE, CYBER OPERATIONS AND ADVANCED AI TO DETECT AND DISRUPT FOREIGN INTERFERENCE IN UPCOMING U.S. ELECTIONS, WITH THE SEPT. 22 DIRECTIVE TELLING U.S. CYBER COMMAND AND …
+- 09/29 08:53 [FirstSquawk] THE MEMO DOES NOT AUTHORIZE TROOPS AT POLLING STATIONS OR THE SEIZURE OF VOTING MACHINES - AXIOS
+- 09/29 08:54 [FirstSquawk] NETANYAHU'S OFFICE SAYS NETANYAHU AND HIS WIFE VISITED THE UNITED ARAB EMIRATES YESTERDAY AT THE INVITATION OF THE UAE PRESIDENT, SHEIKH MOHAMED BIN ZAYED.
+- 09/29 08:54 [FirstSquawk] NETANYAHU'S OFFICE SAYS HE WAS ACCOMPANIED BY THE HEAD OF THE NATIONAL SECURITY COUNCIL, THE HEAD OF THE MOSSAD, THE MILITARY SECRETARY AND THE FOREIGN POLICY ADVISER.
+- 09/29 08:54 [FirstSquawk] THE U.S. NAVY'S USS SANTA BARBARA REQUIRED URGENT REPAIRS IN SINGAPORE AFTER DOCUMENTS WARNED ALL FOUR ENGINES WERE OPERATING BEYOND RECOMMENDED LIMITS, CREATING A 'CRITICAL THREAT OF MECHANICAL FAILURE', WITH THE SHIP ALSO HAVING PROBLEMS …
+- 09/29 08:54 [FirstSquawk] THE NAVY INITIALLY RECEIVED NO BIDS FROM CONTRACTORS FOR SOME OF THE REPAIRS AND HAD TO RELY ON LOCAL SINGAPORE FACILITIES, WITH THE 7TH FLEET SAYING THE SHIP ARRIVED SAFELY AND WOULD RETURN TO OPERATIONS AFTER MAINTENANCE - THE WASHINGTON …
+- 09/29 08:54 [FirstSquawk] CSL SAYS IT IS COLLABORATING WITH AMAZON WEB SERVICES TO ADVANCE BIOPHARMACEUTICAL R&D, APPLYING ARTIFICIAL INTELLIGENCE AND CLOUD TECHNOLOGIES TO SUPPORT ITS RESEARCH AND CLINICAL DEVELOPMENT.
+- 09/29 08:54 [FirstSquawk] CSL SAYS THAT IN CLINICAL DEVELOPMENT, IT IS WORKING WITH AWS TO REDUCE MANUAL EFFORT IN AREAS INCLUDING PROTOCOL AUTHORING.
+- 09/29 08:55 [FirstSquawk] 15 STATES SUE FAA OVER ENVIRONMENTAL REVIEW OF COMMERCIAL DRONE DELIVERY RULES — FILING
+- 09/29 09:00 [financialjuice] Pope laments national leaders pursuing increasingly destructive wars
+- 09/29 09:00 [financialjuice] NZ DMO plans gross bond issuance of NZ$109 billion through June 2030, down from NZ$124 billion forecast in May
+- 09/29 09:00 [FirstSquawk] SAMSUNG UNITS TO INVEST $1 BILLION IN KKR-BACKED AI INFRASTRUCTURE COMPANY
+- 09/29 09:00 [financialjuice] NZ unemployment rate forecast at 5.2% in 2026/27, budget targets 5.0%
+- 09/29 09:00 [financialjuice] NZ forecasts net debt at 43.7% of GDP in 2026/27, below budgeted 45.6%
+- 09/29 09:00 [financialjuice] NZ forecasts 2026/27 cash balance NZ$-21.99 billion vs budget NZ$-24.22 billion
+- 09/29 09:00 [financialjuice] NZ DMO forecasts 2026/27 bond issuance at NZ$30 billion vs NZ$34 billion in pre-election update
+- 09/29 09:00 [financialjuice] NZ expects 2.3% GDP growth in 2026/27, matching budget forecast
+- 09/29 09:00 [financialjuice] NZ forecasts 2026/27 operating balance before gains and losses at NZ$-8.7 billion (budget NZ$-14.09 billion)
+- 09/29 09:01 [financialjuice] Pope Leo urges Russia, Ukraine to negotiate end to four-year war
+- 09/29 09:01 [financialjuice] NZ government projects return to operating surplus in 2028/29 budget
+- 09/29 09:01 [financialjuice] ITC Neocloud Group to acquire 80% stake in target company for RMB83.62 million
+- 09/29 09:02 [financialjuice] ITC Properties Group targets Guangzhou Chaog! Xiyang Technology
+- 09/29 09:02 [FirstSquawk] NEW ZEALAND'S GOVERNMENT PROJECTS A RETURN TO AN OPERATING SURPLUS IN THE 2028/29 BUDGET, WITH 2026/27 GDP GROWTH SEEN AT 2.3% — MATCHING THE BUDGET FORECAST — AND THE 2026/27 OPERATING BALANCE BEFORE GAINS AND LOSSES FORECAST AT A NARROWER…
+- 09/29 09:02 [FirstSquawk] NEW ZEALAND FORECASTS NET DEBT AT 43.7% OF GDP IN 2026/27, BELOW THE BUDGETED 45.6%, WITH THE 2026/27 CASH BALANCE AT A NZ$21.99 BLN DEFICIT AND UNEMPLOYMENT SEEN AT 5.2%.
+- 09/29 09:03 [FirstSquawk] NEW ZEALAND'S DMO FORECASTS 2026/27 BOND ISSUANCE AT NZ$30 BLN, DOWN FROM NZ$34 BLN IN THE PRE-ELECTION UPDATE, AND PLANS GROSS BOND ISSUANCE OF NZ$109 BLN THROUGH JUNE 2030, DOWN FROM THE NZ$124 BLN FORECAST IN MAY.
