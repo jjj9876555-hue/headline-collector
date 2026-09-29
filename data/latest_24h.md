@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-30 01:02 JST／対象: 09/29 01:02 〜 09/30 01:02 JST（時刻はすべて日本時間）
+生成: 2026-09-30 01:25 JST／対象: 09/29 01:25 〜 09/30 01:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 62 | 09/29 01:39 | 09/30 01:01 | ⚠ 1092分（02:14→20:26） |
-| FirstSquawk | 374 | 09/29 01:09 | 09/30 00:53 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 307 | 09/29 01:17 | 09/30 01:01 | ⚠ 62分（11:21→12:24） |
+| DeItaone | 66 | 09/29 01:39 | 09/30 01:24 | ⚠ 1092分（02:14→20:26） |
+| FirstSquawk | 373 | 09/29 01:26 | 09/30 01:21 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 314 | 09/29 01:27 | 09/30 01:21 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 719 行（統合前 747 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 729 行（統合前 757 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 01:09 [FirstSquawk] IRAN'S MILITARY AND SUPPORTING GROUPS WILL PROVIDE A "DEVASTATING RESPONSE" TO ANY THREAT, SAID ARMED FORCES CHIEF ALI ABDOLLAHI. HE STATED THAT TEHRAN'S NETWORK IN THE REGION HAS BECOME MORE STRATEGICALLY INTEGRATED EVEN AFTER THE DEATH OF…
-- 09/29 01:09 [FirstSquawk] ABDOLLAHI STATED THAT THE U.S. AND ISRAEL ANTICIPATED NASRALLAH'S DEATH WOULD LEAD TO THE COLLAPSE OF THE "RESISTANCE" FRONT, BUT THEY WERE WRONG.
-- 09/29 01:09 [FirstSquawk] HE STATED THAT THE NETWORK REMAINED STRONG AND HAD SUCCESSFULLY COMPLETED BOTH OPEN AND HIDDEN “STRATEGIC INTEGRATION,” NOTING NASRALLAH’S CONTINUED INFLUENCE IN LEBANON, PALESTINE, YEMEN, AND IRAQ.
-- 09/29 01:17 [financialjuice] ❗ US Official to Al Jazeera: We continue a positive discussion with Iran through intermediaries; there will be no agreement without addressing the nuclear issue
-- 09/29 01:20 [financialjuice] ❗ US official tells Al Jazeera: Trump Ready to Ease Sanctions, Release Frozen Assets for Nuclear Progress
-- 09/29 01:22 [financialjuice] US official to Al Jazeera: Need guarantees this time that Iran is serious and not just seeking to escape the difficult situation it is suffering from.
-- 09/29 01:24 [financialjuice] WH Sr. Adviser Hassett: Estimate productivity growth right now about 2.5%.
-- 09/29 01:24 [FirstSquawk] US OFFICIAL: TRUMP READY TO EASE IRAN SANCTIONS, UNFREEZE ASSETS FOR NUCLEAR PROGRESS
 - 09/29 01:26 [FirstSquawk] US HASSETT: ESTIMATE PRODUCTIVITY GROWTH RIGHT NOW ABOUT 2.5%
 - 09/29 01:26 [FirstSquawk] HASSETT: BASE CASE ON GDP GROWTH, SHOULD BE AROUND 4%
 - 09/29 01:27 [financialjuice] WH Sr. Adviser Hassett: Base case on GDP growth, should be around 4%.
@@ -743,3 +735,21 @@
 - 09/30 01:01 [financialjuice] France's stock of outstanding T-bills seen increasing by €2.2 bln in 2027 - AFT.
 - 09/30 01:01 [financialjuice] French 3-Month T-bills seen at 3% next year, 10-Yr benchmark at 4.3% - AFT
 - 09/30 01:01 [DeItaone] FRANCE FACES RECORD €340 BILLION BORROWING WAVE France plans to issue €340 billion of medium- and long-term debt in 2027, as its total borrowing requirement reaches €339.7 billion. A record €189.2 billion of debt redemptions will add to ref…
+- 09/30 01:02 [financialjuice] META: Releases forum app for iOS and Android in US. $META
+- 09/30 01:11 [financialjuice] OpenAI's Altman: Model scrapped out of abundance of caution - CNBC
+- 09/30 01:11 [DeItaone] U.S.-CHINA TARIFF DEAL LEAVES LNG OUT The latest U.S.-China tariff agreement does not include LNG, leaving JKM and TTF pricing largely unaffected, according to Platts. The newly created U.S.-China Board of Trade could eventually expand nego…
+- 09/30 01:12 [financialjuice] OpenAI's Altman: Will have many great new models.
+- 09/30 01:15 [financialjuice] OpenAI's Altman: Nvidia security system not a full solution. $NVDA
+- 09/30 01:16 [DeItaone] ALTMAN: AI HAS MORE OF A SCIENCE PROBLEM THAN ENGINEERING ALTMAN: NVIDIA SECURITY SYSTEM NOT 'A FULL SOLUTION'
+- 09/30 01:17 [financialjuice] Altman: Muse is a nice product, not threatened by Meta. $META
+- 09/30 01:17 [financialjuice] BoE's Taylor: BoE agents' survey of firms' wage intentions, due in January 2027, will be very significant data point
+- 09/30 01:19 [financialjuice] OpenAI CEO Altman: Don't have an IPO timeline in mind
+- 09/30 01:20 [financialjuice] OpenAI CEO Altman wraps up interview on CNBC
+- 09/30 01:20 [FirstSquawk] OPENAI’S ALTMAN: NOT THREATENED BY META, MUSE IS A NICE PRODUCT
+- 09/30 01:20 [FirstSquawk] OPENAI’S ALTMAN: NO IPO TIMELINE IN MIND
+- 09/30 01:21 [financialjuice] BoE's Taylor: It's not clear to me that OIS rates give a clear signal of BoE market rate expectations. I'm not a fan.
+- 09/30 01:21 [financialjuice] META introduces new features for forum app. $META
+- 09/30 01:21 [FirstSquawk] ALTMAN SAYS OPENAI WILL HAVE 'MANY GREAT NEW MODELS'
+- 09/30 01:21 [financialjuice] ❗ White House has urged EU to draw down diesel emergency inventories in bid to lower global prices - sources
+- 09/30 01:24 [DeItaone] WHITE HOUSE HAS URGED EUROPEAN UNION TO DRAW DOWN DIESEL EMERGENCY INVENTORIES IN BID TO LOWER GLOBAL PRICES- SOURCES
+- 09/30 01:24 [DeItaone] *WHITE HOUSE URGED THE EU TO DRAW DOWN DIESEL INVENTORIES

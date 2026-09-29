@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-30 01:02 JST／対象: 09/29 19:02 〜 09/30 01:02 JST（時刻はすべて日本時間）
+生成: 2026-09-30 01:25 JST／対象: 09/29 19:25 〜 09/30 01:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 52 | 09/29 20:26 | 09/30 01:01 | 35分（21:39→22:14） |
-| FirstSquawk | 95 | 09/29 19:05 | 09/30 00:53 | 30分（19:41→20:12） |
-| financialjuice | 102 | 09/29 19:20 | 09/30 01:01 | ⚠ 50分（22:45→23:36） |
+| DeItaone | 56 | 09/29 20:26 | 09/30 01:24 | 35分（21:39→22:14） |
+| FirstSquawk | 93 | 09/29 19:26 | 09/30 01:21 | 30分（19:41→20:12） |
+| financialjuice | 112 | 09/29 19:33 | 09/30 01:21 | ⚠ 50分（22:45→23:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 233 行（統合前 251 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 245 行（統合前 263 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 19:05 [FirstSquawk] NOVO’S OZEMPIC ® (SEMAGLUTIDE) 2 MG IS LINKED TO A LOWER RISK OF SERIOUS HEART-RELATED ISSUES (DEATH, HEART ATTACK, AND STROKE) IN ADULTS WITH TYPE 2 DIABETES THAN SWITCHING TO MOUNJARO ® (TIRZEPATIDE), AS PER A REAL-WORLD STUDY PRESENTED A…
-- 09/29 19:06 [FirstSquawk] NOVO NORDISK'S SEMAGLUTIDE 2 MG DOSE IS ASSOCIATED WITH A 6% LOWER RISK OF SERIOUS CARDIOVASCULAR EVENTS.
-- 09/29 19:07 [FirstSquawk] CHINA WILL HELP COVER INTEREST PAYMENTS FOR FIRST-TIME HOME MORTGAGES.
-- 09/29 19:18 [FirstSquawk] IRANIAN ARMY SPOKESPERSON ANNOUNCED A 10 BILLION TOMAN REWARD FOR ANY IRANIAN WHO CAPTURES AN AMERICAN SOLDIER, DEAD OR ALIVE.
-- 09/29 19:19 [FirstSquawk] HOUSE DEMOCRATS DEMAND TECH CEOS GIVE INFO ON ROGUE AI:POLITICO
-- 09/29 19:20 [financialjuice] Three House Democrats penned letter to tech CEOs (Altman, Amodei, Musk) - Politico
 - 09/29 19:26 [FirstSquawk] PEPSICO CUT TO NEUTRAL AT JPMORGAN; PT $138
 - 09/29 19:28 [FirstSquawk] VOLKSWAGEN TO SHOW HIT FROM UK MOTOR FINANCE SCHEME: SKY
 - 09/29 19:29 [FirstSquawk] RUSSIAN FOREIGN MINISTER LAVROV ON WEST'S ACCUSATIONS OF RUSSIA WAGING HYBRID WAR IN EUROPE: NO DOUBT EUROPE IS WAGING WAR AGAINST RUSSIA
@@ -257,3 +251,21 @@
 - 09/30 01:01 [financialjuice] France's stock of outstanding T-bills seen increasing by €2.2 bln in 2027 - AFT.
 - 09/30 01:01 [financialjuice] French 3-Month T-bills seen at 3% next year, 10-Yr benchmark at 4.3% - AFT
 - 09/30 01:01 [DeItaone] FRANCE FACES RECORD €340 BILLION BORROWING WAVE France plans to issue €340 billion of medium- and long-term debt in 2027, as its total borrowing requirement reaches €339.7 billion. A record €189.2 billion of debt redemptions will add to ref…
+- 09/30 01:02 [financialjuice] META: Releases forum app for iOS and Android in US. $META
+- 09/30 01:11 [financialjuice] OpenAI's Altman: Model scrapped out of abundance of caution - CNBC
+- 09/30 01:11 [DeItaone] U.S.-CHINA TARIFF DEAL LEAVES LNG OUT The latest U.S.-China tariff agreement does not include LNG, leaving JKM and TTF pricing largely unaffected, according to Platts. The newly created U.S.-China Board of Trade could eventually expand nego…
+- 09/30 01:12 [financialjuice] OpenAI's Altman: Will have many great new models.
+- 09/30 01:15 [financialjuice] OpenAI's Altman: Nvidia security system not a full solution. $NVDA
+- 09/30 01:16 [DeItaone] ALTMAN: AI HAS MORE OF A SCIENCE PROBLEM THAN ENGINEERING ALTMAN: NVIDIA SECURITY SYSTEM NOT 'A FULL SOLUTION'
+- 09/30 01:17 [financialjuice] Altman: Muse is a nice product, not threatened by Meta. $META
+- 09/30 01:17 [financialjuice] BoE's Taylor: BoE agents' survey of firms' wage intentions, due in January 2027, will be very significant data point
+- 09/30 01:19 [financialjuice] OpenAI CEO Altman: Don't have an IPO timeline in mind
+- 09/30 01:20 [financialjuice] OpenAI CEO Altman wraps up interview on CNBC
+- 09/30 01:20 [FirstSquawk] OPENAI’S ALTMAN: NOT THREATENED BY META, MUSE IS A NICE PRODUCT
+- 09/30 01:20 [FirstSquawk] OPENAI’S ALTMAN: NO IPO TIMELINE IN MIND
+- 09/30 01:21 [financialjuice] BoE's Taylor: It's not clear to me that OIS rates give a clear signal of BoE market rate expectations. I'm not a fan.
+- 09/30 01:21 [financialjuice] META introduces new features for forum app. $META
+- 09/30 01:21 [FirstSquawk] ALTMAN SAYS OPENAI WILL HAVE 'MANY GREAT NEW MODELS'
+- 09/30 01:21 [financialjuice] ❗ White House has urged EU to draw down diesel emergency inventories in bid to lower global prices - sources
+- 09/30 01:24 [DeItaone] WHITE HOUSE HAS URGED EUROPEAN UNION TO DRAW DOWN DIESEL EMERGENCY INVENTORIES IN BID TO LOWER GLOBAL PRICES- SOURCES
+- 09/30 01:24 [DeItaone] *WHITE HOUSE URGED THE EU TO DRAW DOWN DIESEL INVENTORIES
