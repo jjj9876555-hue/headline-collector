@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-29 23:29 JST／対象: 09/28 23:29 〜 09/29 23:29 JST（時刻はすべて日本時間）
+生成: 2026-09-29 23:48 JST／対象: 09/28 23:48 〜 09/29 23:48 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 48 | 09/29 00:19 | 09/29 23:24 | ⚠ 1092分（02:14→20:26） |
-| FirstSquawk | 371 | 09/28 23:30 | 09/29 23:28 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 276 | 09/28 23:30 | 09/29 22:45 | ⚠ 62分（11:21→12:24） |
+| DeItaone | 54 | 09/29 00:19 | 09/29 23:44 | ⚠ 1092分（02:14→20:26） |
+| FirstSquawk | 377 | 09/28 23:50 | 09/29 23:42 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 282 | 09/28 23:49 | 09/29 23:46 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 674 行（統合前 698 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 690 行（統合前 716 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 23:30 [financialjuice] DALLAS FED MFG. BUS. INDEX ACTUAL 9.80 (FORECAST 7.8, PREVIOUS 11.60) $MACRO
-- 09/28 23:30 [FirstSquawk] US DALLAS FED MANUFACTURING ACTIVITY SEP: 9.8 (EST 7.8; PREV 11.6)
-- 09/28 23:31 [financialjuice] Houthis: 198 ships have passed through the Bab-el-Mandeb Strait in the past 5 days - ISNA
-- 09/28 23:31 [FirstSquawk] ECB'S LAGARDE: RATES AT UPPER END OF NEUTRAL RANGE
-- 09/28 23:31 [financialjuice] ECB's President Lagarde: Rates at upper end of neutral range. Not driving policy with reference to neutral rate.
-- 09/28 23:32 [FirstSquawk] ECB'S LAGARDE: RATES AT UPPER END OF NEUTRAL RANGE || NOT DRIVING POLICY WITH REFERENCE TO NEUTRAL RATE
-- 09/28 23:33 [financialjuice] Citi: Spring by Citi enables institutional clients to accept stablecoin payments at checkout. $C
-- 09/28 23:34 [financialjuice] UK's PM Burnham concludes remarks on LBC Radio
-- 09/28 23:37 [FirstSquawk] TOTAL CEO SAYS 3Q LNG BUSINESS WILL BE `VERY GOOD'
-- 09/28 23:41 [FirstSquawk] TOTALENERGIES CEO: WE ARE MORE AND MORE CONFIDENT WE'LL FIND MORE OIL IN THE SURINAME BASIN
-- 09/28 23:48 [financialjuice] Explosions heard in the Saudi cities of Yanbu, Jazan and Najran in the past few hours, according to Saudi media reports - Fars News
 - 09/28 23:49 [financialjuice] ECB's President Lagarde: Energy subsidy impact on inflation seen by staff at 0.1%
 - 09/28 23:50 [FirstSquawk] EXPLOSIONS REPORTED IN YANBU, JAZAN, AND NAJRAN CITIES IN SAUDI ARABIA, AS PER SAUDI MEDIA SOURCES.
 - 09/28 23:51 [FirstSquawk] TOTAL CEO SAYS US DIESEL EXPORT BAN IS 'A BAD IDEA'
@@ -698,3 +687,30 @@
 - 09/29 23:25 [FirstSquawk] USER REPORTS SHOW PROBLEMS WITH SPOTIFY - DOWNDETECTOR
 - 09/29 23:25 [FirstSquawk] ORACLE LAUNCHES FUSION CLAW AI EXECUTION RUNTIME
 - 09/29 23:28 [FirstSquawk] TRUMP THANKS MUSK
+- 09/29 23:29 [FirstSquawk] MICROSOFT SHARES TURN POSITIVE, HAD BEEN DOWN 1.3%
+- 09/29 23:30 [DeItaone] USER REPORTS SHOW PROBLEMS WITH CLAUDE - DOWNDETECTOR
+- 09/29 23:35 [FirstSquawk] TRUMP ON AI: SPOKE TO XI, HE LOVES IT
+- 09/29 23:35 [FirstSquawk] TRUMP: WILL SIGN POWERFUL ORDER ON AI
+- 09/29 23:36 [financialjuice] Trump: I will sign a powerful order on AI, I spoke to China’s President Xi, he loves it.
+- 09/29 23:36 [financialjuice] Trump: We will never stifle the growth of AI.
+- 09/29 23:37 [financialjuice] Trump on AI: We don't want to mix it up too much.
+- 09/29 23:37 [FirstSquawk] TRUMP ON AI: DON'T WANT TO MIX IT UP TOO MUCH
+- 09/29 23:37 [FirstSquawk] TRUMP: DIDN'T DISCUSS AI THAT MUCH WITH XI
+- 09/29 23:37 [financialjuice] Trump: We don't want to give China US AI secrets. Didn't discuss AI that much with Xi.
+- 09/29 23:37 [financialjuice] Trump: We want to keep the AI lead.
+- 09/29 23:37 [DeItaone] IRAN WARNS OF PREEMPTIVE STRIKES Iran’s army says it could launch a preemptive strike if it concludes an enemy attack is imminent.
+- 09/29 23:38 [FirstSquawk] TRUMP: WANT TO KEEP AI LEAD
+- 09/29 23:38 [FirstSquawk/financialjuice] TRUMP ON AI: HAVE FORMS OF GOVERNMENT EFFECTIVE IF MISUSED
+- 09/29 23:41 [DeItaone] TRUMP: IRAN WAR WILL BE OVER WITH VERY VERY SOON
+- 09/29 23:41 [financialjuice] Trump: Iran is failing very badly, will be over with very soon. Oil prices will tumble down.
+- 09/29 23:41 [financialjuice] Iran's Army Spokesman: If we determine that an enemy attack is imminent, we will definitely conduct a preemptive operation - Fars News.
+- 09/29 23:42 [FirstSquawk] TRUMP: IRAN IS FAILING VERY BADLY, WILL BE OVER VERY SOON
+- 09/29 23:42 [FirstSquawk/DeItaone] TRUMP: OIL PRICES WILL TUMBLE DOWN
+- 09/29 23:42 [FirstSquawk] US PRESIDENT TRUMP: IRAN WILL NOT HAVE A NUCLEAR WEAPON AND IS FAILING VERY BADLY, NUCLEAR ISSUE WILL BE OVER WITH VERY SOON
+- 09/29 23:42 [financialjuice] Trump: We do not surrender to fear on what tech will do to us.
+- 09/29 23:42 [FirstSquawk] TRUMP: DO NOT SURRENDER TO FEAR ON WHAT TECH WILL DO TO US
+- 09/29 23:42 [financialjuice] Trump praises what technology can do in the medical field.
+- 09/29 23:43 [DeItaone] *TRUMP: IRAN IS FAILING VERY BADLY, WILL BE OVER W/ VERY SOON
+- 09/29 23:44 [DeItaone] WELLS FARGO RAISES 2027 OIL TARGETS Wells Fargo raised its 2027 WTI target to $75-$85 and Brent to $80-$90 per barrel, citing persistent supply risks and the need to rebuild depleted inventories. The firm expects oil prices to ease from rec…
+- 09/29 23:46 [financialjuice] Netanyahu will hold a security discussion shortly - Israel's Channel 12 News
+- 09/29 23:46 [financialjuice] Trump ends remarks at the Government website event.
