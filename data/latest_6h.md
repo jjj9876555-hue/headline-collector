@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-30 02:20 JST／対象: 09/29 20:20 〜 09/30 02:20 JST（時刻はすべて日本時間）
+生成: 2026-09-30 02:37 JST／対象: 09/29 20:37 〜 09/30 02:37 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 63 | 09/29 20:26 | 09/30 02:18 | 35分（21:39→22:14） |
-| FirstSquawk | 93 | 09/29 20:23 | 09/30 02:00 | 27分（00:53→01:20） |
-| financialjuice | 147 | 09/29 20:29 | 09/30 02:18 | ⚠ 50分（22:45→23:36） |
+| DeItaone | 60 | 09/29 20:39 | 09/30 02:26 | 35分（21:39→22:14） |
+| FirstSquawk | 101 | 09/29 20:40 | 09/30 02:36 | 30分（02:00→02:31） |
+| financialjuice | 168 | 09/29 20:43 | 09/30 02:36 | ⚠ 50分（22:45→23:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 287 行（統合前 306 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 314 行（統合前 332 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 20:23 [FirstSquawk] DEUTSCHE BANK RAISES NETFLIX TO BUY FROM HOLD; CUTS TARGET PRICE TO $95 FROM $100
-- 09/29 20:26 [FirstSquawk] BYD SAYS WANG CHUANFU APPOINTED AS COMPANY PRESIDENT
-- 09/29 20:26 [DeItaone] IRAN EXPECTS FORMAL U.S. RESPONSE TODAY Iranian Foreign Minister Abbas Araghchi says Tehran expects a final U.S. response to its proposal today, as Qatari and Pakistani mediators push for an understanding that could revive the Islamabad MoU…
-- 09/29 20:27 [DeItaone/FirstSquawk] PUTIN'S ENVOY DMITRIEV HAD 'CONSTRUCTIVE' MEETING ON MONDAY WITH US OFFICIALS ON PEACEFULLY RESOLVING WAR IN UKRAINE -US OFFICIAL
-- 09/29 20:28 [FirstSquawk] PUTIN'S ENVOY DMITRIEV, US OFFICIALS ALSO DISCUSSED POSSIBLE US-RUSSIA ENERGY INITIATIVES AFTER THE WAR ENDS -US OFFICIAL
-- 09/29 20:29 [financialjuice] Putin's Envoy Dmitriev, US Officials discussed possible US-Russia energy initiatives after the war ends - US Official.
-- 09/29 20:29 [DeItaone] MORGAN STANLEY BUILDS CRYPTO LAB Morgan Stanley has launched a Digital Asset Lab to test stablecoins, tokenization and DeFi applications before deploying them across the bank. The firm will explore tokenized deposits, CBDCs, money-market fu…
-- 09/29 20:32 [DeItaone] U.S. S&P 500 E-MINI FUTURES UP 0.1%, NASDAQ 100 FUTURES UP 0.3%, DOW FUTURES UP 0.2%
-- 09/29 20:35 [DeItaone] 🇺🇸 PRESIDENT TRUMP — TUESDAY, SEPTEMBER 29, 2026 🔸 8:00 AM — Executive Time 🔸 9:00 AM — In-Town Pool Call Time 🔸 10:00 AM — Announcement on https://t.co/wreay0MAAb — Andrew W. Mellon Auditorium 🔸 12:30 PM — Meeting & Luncheon on Super Intel…
 - 09/29 20:39 [DeItaone] https://t.co/3Cw9HhjwNx
 - 09/29 20:40 [FirstSquawk] US OFFICIALPUTIN'S ENVOY DMITRIEV HAD 'CONSTRUCTIVE' MEETING ON MONDAY WITH US OFFICIALS ON PEACEFULLY RESOLVING WAR IN UKRAINE
 - 09/29 20:43 [financialjuice] Iran: It discussed expanding energy trade with Azerbaijan.
@@ -311,3 +302,39 @@
 - 09/30 02:16 [financialjuice] OpenAI: 35 million people build with ChatGPT Work and Codex every week; new Pro $500 plan includes access to ultrafast processing in Codex and ChatGPT
 - 09/30 02:18 [financialjuice] OpenAI: Preview of private inference, coming this fall, combines confidential computing with strict, verifiable controls
 - 09/30 02:18 [DeItaone] *US LOOKING TO EUROPE TO RELEASE DIESEL FROM RESERVES: POLITICO
+- 09/30 02:20 [financialjuice] BoC's Gravelle: Will deploy operations as needed to control policy rate amid repo imbalances; only tolerate so much upward pressure on CORRA, as large deviations can disrupt policy transmission
+- 09/30 02:21 [financialjuice] BoC's Gravelle: BoC and OSFI released joint statement saying use of the SLF for overnight liquidity is not seen as an exceptional event or a sign of stress
+- 09/30 02:21 [financialjuice] BoC's Gravelle: Using two-week repos more actively could mean reserves sometimes exceed our best estimate of steady-state demand, which remains C$50 billion to C$70 billion
+- 09/30 02:23 [DeItaone] WHITE HOUSE EYES EUROPE’S DIESEL RESERVES The Trump administration is considering asking European governments to release diesel from strategic reserves as it searches for alternatives to a U.S. export ban. Europe reportedly holds more than …
+- 09/30 02:25 [financialjuice] Fed's Goolsbee: Business margins are high but starting to thin
+- 09/30 02:26 [DeItaone] FED'S BARR: I SEE US NOT GETTING TO 2% INFLATION TARGET IN A TIMELY WAY UNLESS WE ADJUST OUR POLICY
+- 09/30 02:27 [financialjuice] Fed's Barr: I see us not getting to the 2% inflation target in a timely way unless we adjust our policy.
+- 09/30 02:27 [financialjuice] Fed's Barr: Last hike was appropriate, and I think we will likely need further adjustments.
+- 09/30 02:28 [financialjuice] Fed's Goolsbee: Expectation of productivity gains from AI in the future creates a high danger of overheating now
+- 09/30 02:30 [financialjuice] Fed's Musalem: Clear framework helps policy transmission
+- 09/30 02:30 [financialjuice] Fed's Musalem: Fed should communicate how it turns info into policy
+- 09/30 02:31 [financialjuice] Fed's Musalem: Framework doesn't promise a specific interest rate path
+- 09/30 02:31 [financialjuice] Fed's Musalem: If the public understands the framework, private expectations line up with the Fed's intentions, improving trade-offs between inflation and employment
+- 09/30 02:31 [financialjuice] Fed's Musalem: Central banks should also avoid 'exiting the conversation altogether', would pose risks in terms of inflation
+- 09/30 02:31 [FirstSquawk] FED'S BARR SAYS THE LAST HIKE WAS APPROPRIATE AND THAT HE THINKS THE FED WILL LIKELY NEED FURTHER ADJUSTMENTS, SEEING THE U.S. NOT GETTING TO ITS 2% INFLATION TARGET IN A TIMELY WAY UNLESS POLICY IS ADJUSTED, WITH ALL THE FED'S FOCUS ON WHA…
+- 09/30 02:31 [financialjuice] Fed's Musalem: A central bank that keeps its framework to itself forces market participants to guess at its reaction, rather than focus on data
+- 09/30 02:31 [FirstSquawk] FED'S BARR SAYS THE RESILIENCE OF THE U.S. ECONOMY IS STRIKING AND THAT MOMENTUM SEEMS TO BE BUILDING, ADDING THAT HE DOESN'T HAVE A RECESSION IN HIS BASE CASE BUT THAT THE FED NEEDS TO BE SURE IT DOES WHAT IT TAKES TO BRING SUPPLY AND DEMA…
+- 09/30 02:31 [financialjuice] Fed's Musalem: Central bankers needn't make promises, but should tell the public how and why the central bank makes policy decisions
+- 09/30 02:31 [FirstSquawk] FED'S BARR SAYS FED INDEPENDENCE HELPS IT BETTER SERVE THE AMERICAN PEOPLE.
+- 09/30 02:32 [financialjuice] Fed's Musalem: A predictable, explained framework, is part of what makes a central bank democratically legitimate.
+- 09/30 02:32 [financialjuice] Fed's Musalem: Delegated power over interest rates also obligates the Fed to explain 'how and why that power is used'
+- 09/30 02:32 [financialjuice] Fed's Musalem: If the public understands the framework, private expectations line up with the fed's intentions, improves trade-offs between inflation and employment
+- 09/30 02:32 [FirstSquawk] FED'S MUSALEM SAYS CENTRAL BANKERS NEEDN'T MAKE PROMISES BUT SHOULD TELL THE PUBLIC HOW AND WHY THE CENTRAL BANK MAKES POLICY DECISIONS, ARGUING THAT COMMUNICATING A WELL-ARTICULATED FRAMEWORK — INCLUDING TWO OR THREE LIKELY SCENARIOS — MAK…
+- 09/30 02:32 [financialjuice] Fed's Musalem: The 'Hall of Mirrors' occurs when the Fed announces a forecast, not a framework.
+- 09/30 02:32 [FirstSquawk] FED'S MUSALEM SAYS A CENTRAL BANK THAT KEEPS ITS FRAMEWORK TO ITSELF FORCES MARKET PARTICIPANTS TO GUESS AT ITS REACTION RATHER THAN FOCUS ON DATA, WHICH 'ADDS NOISE' AND RESULTS IN HIGHER AND MORE VOLATILE INTEREST RATES AND FINANCING COST…
+- 09/30 02:32 [FirstSquawk] FED'S MUSALEM SAYS IF THE PUBLIC UNDERSTANDS THE FRAMEWORK, PRIVATE EXPECTATIONS LINE UP WITH THE FED'S INTENTIONS, IMPROVING THE TRADE-OFFS BETWEEN INFLATION AND EMPLOYMENT AND GUARDING AGAINST INFLATIONARY AND DEFLATIONARY SPIRALS, ADDING…
+- 09/30 02:32 [FirstSquawk] ISRAELI SECURITY SOURCE: NO CONCRETE OR RELIABLE INFORMATION LINKS ISRAELI ELECTIONS TO ESCALATION — KAN NEWS
+- 09/30 02:32 [financialjuice] CrowdStrike brings Falcon platform to OpenAI marketplace
+- 09/30 02:34 [FirstSquawk] KALSHI IN ADVANCED TALKS TO RAISE $1 BILLION IN FRESH FUNDING; TIGER GLOBAL & DRAGONEER AMONG POTENTIAL INVESTORS
+- 09/30 02:34 [financialjuice] Fed's Barr - Listen Live
+- 09/30 02:35 [FirstSquawk] US LAWMAKERS URGE ENERGY REGULATORS TO REJECT BLACKROCK-LED CONSORTIUM’S $33.4 BILLION AES ACQUISITION
+- 09/30 02:35 [financialjuice] Senior Jordanian official denies Israeli media reports that a Jordanian representative participated in a meeting with Netanyahu during his recent visit to the UAE - Axios
+- 09/30 02:36 [financialjuice] OpenAI targets $30 billion in funding at $1.4 trillion valuation
+- 09/30 02:36 [FirstSquawk] OPENAI'S ALTMAN HAS UNVEILED A NEW AI AGENT TOOL CALLED 'DOTS', OFFERING ALWAYS-ON AUTONOMOUS AGENTS ACROSS PAID TIERS, AND INTRODUCED GPT-6.1 SOL AT ONE-FIFTH OF ASTRA'S PRICE WITH A CUT TO ITS CACHED INPUT VERSUS STANDARD PRICE.
+- 09/30 02:36 [FirstSquawk] OPENAI'S ALTMAN SAYS IT IS WORKING WITH MICROSOFT TO INTEGRATE SPECIALIST DOTS WITH THEIR ENTERPRISE GOVERNANCE AND SECURITY CONTROLS IN AGENT 365.
+- 09/30 02:36 [FirstSquawk] WHITE HOUSE EYES EUROPE DIESEL RESERVE RELEASE TO AVOID EXPORT BAN - POLITICO
