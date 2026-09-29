@@ -7,41 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-30 05:52 JST／対象: 09/29 23:52 〜 09/30 05:52 JST（時刻はすべて日本時間）
+生成: 2026-09-30 06:06 JST／対象: 09/30 00:06 〜 09/30 06:06 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 47 | 09/30 00:01 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
-| FirstSquawk | 102 | 09/30 00:00 | 09/30 05:47 | 30分（02:00→02:31） |
-| financialjuice | 221 | 09/29 23:57 | 09/30 05:52 | 13分（05:11→05:25） |
+| DeItaone | 46 | 09/30 00:08 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
+| FirstSquawk | 100 | 09/30 00:08 | 09/30 06:04 | 30分（02:00→02:31） |
+| financialjuice | 211 | 09/30 00:12 | 09/30 06:05 | 13分（05:11→05:25） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 361 行（統合前 375 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 347 行（統合前 361 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 23:57 [financialjuice] Qatar's UCC oil and gas in talks for possible entrance into oil and gas areas in Venezuela - Upstream Head Erik Keskula.
-- 09/29 23:59 [financialjuice] EU oil coordination group finds supply stable and there are concern on price.
-- 09/30 00:00 [FirstSquawk] US TREASURY 30-YEAR YIELD RISES TO 5.595%, HIGHEST SINCE 2002
-- 09/30 00:00 [financialjuice] EU Oil Coordination group finds supply stable for the time being.
-- 09/30 00:00 [financialjuice] US to sell $100 bln 4-Week bills on Oct 1st, to settle on Oct 6th
-- 09/30 00:00 [financialjuice] Fed's Bowman does not comment on economic or monetary policy outlook in opening remarks to banking workshop.
-- 09/30 00:01 [DeItaone] U.S. 30-YEAR YIELD NEARS HIGHEST SINCE 2002 The U.S. 30-year Treasury yield climbed to 5.58%, within 1 basis point of its highest level since 2002, extending its rise for a sixth straight session. The 10-year yield reached 5.24%, its highes…
-- 09/30 00:01 [financialjuice] EU Oil Coordination Group: EU refineries running near max capacity.
-- 09/30 00:01 [financialjuice] EU Oil coordination group's next meeting scheduled for Oct. 15th
-- 09/30 00:02 [financialjuice] The EU Commission is going to convene an extra oil coordination group meeting, if need.
-- 09/30 00:02 [FirstSquawk] EU OIL COORDINATION GROUP NEXT MEETING IS SCHEDULED FOR 15TH OCTOBER
-- 09/30 00:03 [financialjuice] ❗ UK's PM Burnham Spokesman doesn’t rule out UK rejoining EU
-- 09/30 00:04 [FirstSquawk] UK PM BURNHAM SPOX DOESN’T JOIN OUT UK REJOINING EU
-- 09/30 00:04 [financialjuice] China comments on reports of EU members drafting 301 tools: Moves will disrupt supply chain stability.
-- 09/30 00:05 [financialjuice] The UK pensions change is going to save £15 billion by 2040 - Official.
-- 09/30 00:05 [financialjuice] ❗ UK's PM Burnham official doesn’t rule out tax rises to fund care.
-- 09/30 00:05 [financialjuice] China urges the EU to use dialogs to solve disputes.
-- 09/30 00:06 [financialjuice] China vows response if EU goes ahead with discriminatory moves.
 - 09/30 00:08 [DeItaone] EU OIL COORDINATION GROUP MET ON TUESDAY, CONFIRMED SUPPLY STABLE DESPITE HIGH DIESEL AND JET FUEL PRICES EU SAYS BLOC'S OIL REFINERIES ARE RUNNING AT NEAR-MAXIMUM CAPACITY, RESPONDING WELL TO MARKET SIGNALS
 - 09/30 00:08 [FirstSquawk] CHINA MOFCOM ON REPORTS OF EU MEMBERS DRAFTING 301 TOOLS: MOVES WILL DISRUPT SUPPLY CHAIN STABILITY
 - 09/30 00:09 [FirstSquawk] UK PENSIONS CHANGE TO SAVE £15 BILLION BY 2040: OFFICIAL
@@ -385,3 +367,7 @@
 - 09/30 05:50 [financialjuice] Funds to be provided under South Korea investment deal - people familiar describe Alaska plan for Trump Announcement
 - 09/30 05:51 [financialjuice] Anthropic IPO Filing Shows Amazon and Google Drove 47% of 2025 Sales
 - 09/30 05:52 [financialjuice] The LNG project is part of a $200 billion South Korean investment announcement.
+- 09/30 05:56 [financialjuice] US API CUSHING STOCK CHANGE ACTUAL 0.233M (FORECAST -, PREVIOUS 2.082M) $MACRO
+- 09/30 06:01 [financialjuice] Trump likely to unveil $54 billion from South Korean investment fund for Alaska LNG project as soon as Wednesday - sources
+- 09/30 06:02 [financialjuice/FirstSquawk] Elon Musk: SpaceX and Tesla target 200 gigawatts of annual solar output
+- 09/30 06:05 [financialjuice] North Korea: South Korea fabricating 'baseless findings' on mine blast in DMZ injuring troops - KCNA

@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-30 05:52 JST／対象: 09/29 17:52 〜 09/30 05:52 JST（時刻はすべて日本時間）
+生成: 2026-09-30 06:06 JST／対象: 09/29 18:06 〜 09/30 06:06 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 88 | 09/29 20:26 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
-| FirstSquawk | 204 | 09/29 17:55 | 09/30 05:47 | 30分（19:41→20:12） |
-| financialjuice | 286 | 09/29 18:03 | 09/30 05:52 | ⚠ 50分（22:45→23:36） |
+| FirstSquawk | 198 | 09/29 18:16 | 09/30 06:04 | 30分（19:41→20:12） |
+| financialjuice | 287 | 09/29 18:12 | 09/30 06:05 | ⚠ 50分（22:45→23:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 556 行（統合前 584 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 550 行（統合前 579 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 17:55 [FirstSquawk] UK AI MINISTER KANISHKA NARAYAN CONFIRMS AI GROWTH ZONES ARE STILL PROGRESSING.
-- 09/29 17:55 [FirstSquawk] UK AI MINISTER KANISHKA NARAYAN BRITAIN REQUIRES A HIGH LEVEL OF COMPUTER SOVEREIGNTY.
-- 09/29 17:55 [FirstSquawk] NARAYAN STRESSES THE IMPORTANCE OF BUILDING DATA CENTRES THAT ALIGN WITH UK VALUES AND STANDARDS.
-- 09/29 17:55 [FirstSquawk] CHINA'S FINAL CURRENT ACCOUNT SURPLUS FOR Q2 IS $193.7 BILLION, DOWN FROM PRELIMINARY SURPLUS OF $195.1 BILLION.
-- 09/29 17:57 [FirstSquawk] NHC REPORTS POLO IS HITTING BAJA CALIFORNIA WITH DANGEROUS WINDS AND LIFE-THREATENING FLASH FLOODS, CONDITIONS ARE SET TO WORSEN IN SONORA EARLY TODAY.
-- 09/29 18:01 [FirstSquawk] ITALY'S PPI ROSE 13.5% YEAR-OVER-YEAR IN AUGUST, UP FROM 9.3% PREVIOUSLY. MONTHLY PPI INCREASED BY 3.1%, UP FROM 3.0%.
-- 09/29 18:03 [financialjuice] UK 10 YR GILT YIELD ACTUAL 5.383% (FORECAST -, PREVIOUS 5.155%) $MACRO
-- 09/29 18:03 [financialjuice] UK 10 YR GILT BID-TO-COVER ACTUAL 3.34 (FORECAST -, PREVIOUS 3.65) $MACRO
-- 09/29 18:04 [FirstSquawk] UAE'S L'IMAD CAPITAL IS THINKING ABOUT SEEKING EXTERNAL FUNDING.
-- 09/29 18:06 [financialjuice] OpenAI to debut always-on AI agent at DevDay - Axios
 - 09/29 18:12 [financialjuice] ITALIAN PPI YOY ACTUAL 10.9% (FORECAST -, PREVIOUS 7.8%) $MACRO
 - 09/29 18:16 [FirstSquawk] KREMLIN STATES THAT NEW RULES FOR TEMPORARY CONTROL OF FOREIGN FIRMS' RUSSIAN OPERATIONS DO NOT INTEND TO ALTER OWNERSHIP.
 - 09/29 18:16 [FirstSquawk] KREMLIN SAYS TEMPORARY ADMINISTRATIONS ARE PARTLY DUE TO INCREASED MILITARY ACTION BY UNFRIENDLY COUNTRIES AGAINST RUSSIA.
@@ -580,3 +570,7 @@
 - 09/30 05:50 [financialjuice] Funds to be provided under South Korea investment deal - people familiar describe Alaska plan for Trump Announcement
 - 09/30 05:51 [financialjuice] Anthropic IPO Filing Shows Amazon and Google Drove 47% of 2025 Sales
 - 09/30 05:52 [financialjuice] The LNG project is part of a $200 billion South Korean investment announcement.
+- 09/30 05:56 [financialjuice] US API CUSHING STOCK CHANGE ACTUAL 0.233M (FORECAST -, PREVIOUS 2.082M) $MACRO
+- 09/30 06:01 [financialjuice] Trump likely to unveil $54 billion from South Korean investment fund for Alaska LNG project as soon as Wednesday - sources
+- 09/30 06:02 [financialjuice/FirstSquawk] Elon Musk: SpaceX and Tesla target 200 gigawatts of annual solar output
+- 09/30 06:05 [financialjuice] North Korea: South Korea fabricating 'baseless findings' on mine blast in DMZ injuring troops - KCNA
