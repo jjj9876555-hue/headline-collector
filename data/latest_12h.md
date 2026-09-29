@@ -7,41 +7,29 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-29 13:18 JST／対象: 09/29 01:18 〜 09/29 13:18 JST（時刻はすべて日本時間）
+生成: 2026-09-29 13:35 JST／対象: 09/29 01:35 〜 09/29 13:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/29 01:39 | 09/29 02:14 | 20分（01:54→02:14） |
-| FirstSquawk | 156 | 09/29 01:24 | 09/29 13:18 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 144 | 09/29 01:20 | 09/29 13:06 | ⚠ 62分（11:21→12:24） |
+| FirstSquawk | 156 | 09/29 01:36 | 09/29 13:35 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 152 | 09/29 01:35 | 09/29 13:31 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 303 行（統合前 312 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 312 行（統合前 319 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 01:20 [financialjuice] ❗ US official tells Al Jazeera: Trump Ready to Ease Sanctions, Release Frozen Assets for Nuclear Progress
-- 09/29 01:22 [financialjuice] US official to Al Jazeera: Need guarantees this time that Iran is serious and not just seeking to escape the difficult situation it is suffering from.
-- 09/29 01:24 [financialjuice] WH Sr. Adviser Hassett: Estimate productivity growth right now about 2.5%.
-- 09/29 01:24 [FirstSquawk] US OFFICIAL: TRUMP READY TO EASE IRAN SANCTIONS, UNFREEZE ASSETS FOR NUCLEAR PROGRESS
-- 09/29 01:26 [FirstSquawk] US HASSETT: ESTIMATE PRODUCTIVITY GROWTH RIGHT NOW ABOUT 2.5%
-- 09/29 01:26 [FirstSquawk] HASSETT: BASE CASE ON GDP GROWTH, SHOULD BE AROUND 4%
-- 09/29 01:27 [financialjuice] WH Sr. Adviser Hassett: Base case on GDP growth, should be around 4%.
-- 09/29 01:27 [FirstSquawk] TRUMP OPEN TO IRAN SANCTIONS RELIEF FOR ‘CONCRETE PROGRESS’ ON NUCLEAR ISSUES, WHITE HOUSE OFFICIAL SAYS – CNN
-- 09/29 01:27 [financialjuice] ❗ White House official: Trump open to Iran sanctions relief for ‘concrete progress’ on nuclear issues - CNN
-- 09/29 01:30 [FirstSquawk] US OIL REVERSES GAINS, TRADES NEAR $92 A BARREL
-- 09/29 01:33 [financialjuice/FirstSquawk/DeItaone] Iran officials pessimistic about deal with US before midterms
-- 09/29 01:34 [financialjuice] Al Arabiya's Washington bureau chief: Iran and Yemen dossiers featured strongly in Saudi-US foreign ministers' meeting; Trump will not back down from economic siege on Tehran, wants Hormuz reopened without conditions
-- 09/29 01:35 [financialjuice] ECB's Pereira: Natural gas price pressures could lift inflation this winter.
 - 09/29 01:35 [financialjuice] WH Sr. Adviser Hassett: Lot of our debt is debt we owe ourselves.
 - 09/29 01:35 [financialjuice] WH Sr. Adviser Hassett: External debt maybe is around $15 trln
 - 09/29 01:36 [FirstSquawk] HASSETT: EXTERNAL DEBT MAYBE IS AROUND $15T
 - 09/29 01:36 [FirstSquawk] HASSETT: LOT OF OUR DEBT IS DEBT WE OWE OURSELVES
 - 09/29 01:37 [financialjuice] WH Sr. Adviser Hassett asked on bond yields, refers to Treasury Secretary.
+- 09/29 01:38 [FirstSquawk/DeItaone] IRAN OFFICIALS PESSIMISTIC ABOUT DEAL WITH US BEFORE MIDTERMS
 - 09/29 01:38 [financialjuice] White House weighs red-dyed diesel tax relief to lower fuel prices, according to 2 sources familiar
 - 09/29 01:39 [financialjuice] WH Sr. Adviser Hassett: 30-Yr TIPS yields tell you capital returns higher now.
 - 09/29 01:39 [DeItaone/financialjuice] SAUDI ARABIA RESUMES OIL EXPORTS VIA EAST-WEST PIPELINE AFTER REPAIRS -- SOURCES
@@ -327,3 +315,24 @@
 - 09/29 13:14 [FirstSquawk] FT: Germany delivers EU budget ultimatum over ‘billions’ in planned spending
 - 09/29 13:17 [FirstSquawk] White House says Democrats are responsible for failure to pass Crypto Clarity Act - WatcherGuru
 - 09/29 13:18 [FirstSquawk] Jefferies increases Ferrari target price to $460 from $435
+- 09/29 13:19 [financialjuice] Alaris Equity Partners income trust ad_u:to: Canaccord Genuity lifts target to C$30.25 from C$30
+- 09/29 13:20 [FirstSquawk] JPMorgan downgrades PepsiCo to Neutral, cuts price target to $138 from $170
+- 09/29 13:30 [financialjuice] ‼ BREAKING: RBA CASH RATE ACTUAL 4.6% (FORECAST 4.6%, PREVIOUS 4.35%) $MACRO
+- 09/29 13:30 [financialjuice] Reserve Bank of Australia at its meeting today raises cash rate target by 25 basis points to 4.60%
+- 09/29 13:31 [financialjuice] Reserve Bank of Australia sets cash rate at 4.60%
+- 09/29 13:31 [financialjuice] RBA: inflation stays high as some upside risks flagged in August emerge
+- 09/29 13:31 [financialjuice] RBA: three cash rate hikes since start of year tighten financial conditions as economy shows signs of slowing
+- 09/29 13:31 [financialjuice] Rba: short-term inflation expectations stay elevated
+- 09/29 13:31 [financialjuice] RBA: inflation remains elevated, board decides further financial tightening needed to ensure inflation returns to target
+- 09/29 13:31 [financialjuice] RBA: recent inflation results in Australia exceeded expectations from previous meeting
+- 09/29 13:31 [financialjuice] RBA: board will continue necessary measures to bring inflation sustainably back to target, including raising cash rate further if needed
+- 09/29 13:31 [financialjuice] RBA: monetary policy is well positioned to address developments, board focused on mandate for price stability and full employment
+- 09/29 13:31 [financialjuice] RBA: labour market conditions have generally eased as expected in recent months, with leading indicators broadly stable
+- 09/29 13:31 [financialjuice] RBA: some of the upside risks to inflation are emerging since the previous meeting
+- 09/29 13:31 [financialjuice] RBA: uncertainties remain elevated about outlook for domestic economic activity and inflation
+- 09/29 13:31 [financialjuice] DUTCH MANUFACTURING CONFIDENCE ACTUAL 4.2 (FORECAST -, PREVIOUS 3.7) $MACRO
+- 09/29 13:31 [financialjuice] RBA: Middle East conflict remains unresolved, with scenarios of higher inflation and lower activity than forecast
+- 09/29 13:33 [FirstSquawk] Australia’s benchmark ASX 200 slips 0.1% after CBA raises rates
+- 09/29 13:33 [FirstSquawk] Australia’s RBA lifts cash rate target to 4.60% with 25bp hike, as expected
+- 09/29 13:34 [FirstSquawk] Australian dollar climbs to $0.7026 after RBA hikes interest rates
+- 09/29 13:35 [FirstSquawk] Toyota’s parent-only Japan production declines 1.7% y/y to 204,487 vehicles in August

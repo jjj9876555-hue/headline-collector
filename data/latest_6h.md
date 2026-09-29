@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-29 13:18 JST／対象: 09/29 07:18 〜 09/29 13:18 JST（時刻はすべて日本時間）
+生成: 2026-09-29 13:35 JST／対象: 09/29 07:35 〜 09/29 13:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 94 | 09/29 07:40 | 09/29 13:18 | ⚠ 57分（07:48→08:46） |
-| financialjuice | 45 | 09/29 07:19 | 09/29 13:06 | ⚠ 62分（11:21→12:24） |
+| FirstSquawk | 99 | 09/29 07:40 | 09/29 13:35 | ⚠ 57分（07:48→08:46） |
+| financialjuice | 57 | 09/29 07:45 | 09/29 13:31 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 139 行（統合前 139 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 156 行（統合前 156 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 07:19 [financialjuice] Iran's Aragchi: hopes US final answer through Qatari mediators by Tuesday, IRNA reports
-- 09/29 07:19 [financialjuice] Iran's Foreign Minister Aragchi: Tehran held talks with Qatari mediators on ways to meet Iran's demands
-- 09/29 07:20 [financialjuice] Iran's Aragchi: Qatari mediators to present ideas to US side - IRNA
-- 09/29 07:21 [financialjuice] Iran's Aragchi: Qatari and Pakistani mediation channels intensify after Iran unveils plan
 - 09/29 07:40 [FirstSquawk] NORTH KOREA: US APPROVAL OF SOUTH KOREA’S NUCLEAR SUBMARINE HEIGHTENS REGIONAL INSTABILITY — KCNA
 - 09/29 07:40 [FirstSquawk] IRAN'S FOREIGN MINISTER ARAGHCHI SAYS TEHRAN DISCUSSED PROPOSALS WITH QATARI MEDIATORS TO PRESENT TO THE U.S., WITH THE U.S. RESPONSE TO BE RELAYED TO TEHRAN THROUGH THE QATARI MEDIATORS.
 - 09/29 07:40 [FirstSquawk] IRAN'S FOREIGN MINISTER ARAGHCHI SAYS THAT IF THE U.S. 'WANTS A DEAL OR PEACE, IRAN HAS OFFERED A SOLUTION', ADDING THAT THE CONDITIONS SET BY THE SUPREME LEADER MUST BE MET FOR THE STRAIT OF HORMUZ TO REOPEN - IRNA
@@ -163,3 +159,24 @@
 - 09/29 13:14 [FirstSquawk] FT: Germany delivers EU budget ultimatum over ‘billions’ in planned spending
 - 09/29 13:17 [FirstSquawk] White House says Democrats are responsible for failure to pass Crypto Clarity Act - WatcherGuru
 - 09/29 13:18 [FirstSquawk] Jefferies increases Ferrari target price to $460 from $435
+- 09/29 13:19 [financialjuice] Alaris Equity Partners income trust ad_u:to: Canaccord Genuity lifts target to C$30.25 from C$30
+- 09/29 13:20 [FirstSquawk] JPMorgan downgrades PepsiCo to Neutral, cuts price target to $138 from $170
+- 09/29 13:30 [financialjuice] ‼ BREAKING: RBA CASH RATE ACTUAL 4.6% (FORECAST 4.6%, PREVIOUS 4.35%) $MACRO
+- 09/29 13:30 [financialjuice] Reserve Bank of Australia at its meeting today raises cash rate target by 25 basis points to 4.60%
+- 09/29 13:31 [financialjuice] Reserve Bank of Australia sets cash rate at 4.60%
+- 09/29 13:31 [financialjuice] RBA: inflation stays high as some upside risks flagged in August emerge
+- 09/29 13:31 [financialjuice] RBA: three cash rate hikes since start of year tighten financial conditions as economy shows signs of slowing
+- 09/29 13:31 [financialjuice] Rba: short-term inflation expectations stay elevated
+- 09/29 13:31 [financialjuice] RBA: inflation remains elevated, board decides further financial tightening needed to ensure inflation returns to target
+- 09/29 13:31 [financialjuice] RBA: recent inflation results in Australia exceeded expectations from previous meeting
+- 09/29 13:31 [financialjuice] RBA: board will continue necessary measures to bring inflation sustainably back to target, including raising cash rate further if needed
+- 09/29 13:31 [financialjuice] RBA: monetary policy is well positioned to address developments, board focused on mandate for price stability and full employment
+- 09/29 13:31 [financialjuice] RBA: labour market conditions have generally eased as expected in recent months, with leading indicators broadly stable
+- 09/29 13:31 [financialjuice] RBA: some of the upside risks to inflation are emerging since the previous meeting
+- 09/29 13:31 [financialjuice] RBA: uncertainties remain elevated about outlook for domestic economic activity and inflation
+- 09/29 13:31 [financialjuice] DUTCH MANUFACTURING CONFIDENCE ACTUAL 4.2 (FORECAST -, PREVIOUS 3.7) $MACRO
+- 09/29 13:31 [financialjuice] RBA: Middle East conflict remains unresolved, with scenarios of higher inflation and lower activity than forecast
+- 09/29 13:33 [FirstSquawk] Australia’s benchmark ASX 200 slips 0.1% after CBA raises rates
+- 09/29 13:33 [FirstSquawk] Australia’s RBA lifts cash rate target to 4.60% with 25bp hike, as expected
+- 09/29 13:34 [FirstSquawk] Australian dollar climbs to $0.7026 after RBA hikes interest rates
+- 09/29 13:35 [FirstSquawk] Toyota’s parent-only Japan production declines 1.7% y/y to 204,487 vehicles in August
