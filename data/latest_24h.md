@@ -7,48 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-29 22:31 JST／対象: 09/28 22:31 〜 09/29 22:31 JST（時刻はすべて日本時間）
+生成: 2026-09-29 22:50 JST／対象: 09/28 22:50 〜 09/29 22:50 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 38 | 09/28 22:49 | 09/29 22:30 | ⚠ 1092分（02:14→20:26） |
-| FirstSquawk | 366 | 09/28 22:31 | 09/29 22:29 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 300 | 09/28 22:31 | 09/29 22:28 | ⚠ 62分（11:21→12:24） |
+| DeItaone | 43 | 09/28 22:51 | 09/29 22:50 | ⚠ 1092分（02:14→20:26） |
+| FirstSquawk | 366 | 09/28 22:57 | 09/29 22:47 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 290 | 09/28 22:51 | 09/29 22:45 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 683 行（統合前 707 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 679 行（統合前 701 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 22:31 [FirstSquawk] MONGODB SHARES DROP 26% AFTER CEO RESIGNS TO JOIN META.
-- 09/28 22:31 [financialjuice] ECB's President Lagarde: Manufacturing is performing solidly, the labour market remains robust.
-- 09/28 22:31 [financialjuice] ECB's President Lagarde: The outlook continues to be surrounded by high uncertainty
-- 09/28 22:31 [FirstSquawk] NASDAQ DOWN 134.78 POINTS, OR 0.50 PERCENT, AT 26,933.94 AFTER MARKET OPEN DOW JONES DOWN 379.93 POINTS, OR 0.73 PERCENT, AT 51,448.69 AFTER MARKET OPEN S&P 500 DOWN 36.38 POINTS, OR 0.47 PERCENT, AT 7,707.03 AFTER MARKET OPEN
-- 09/28 22:31 [financialjuice] ECB's President Lagarde: Major technological advancements have not reduced employment, but right now the verdict on al is still out.
-- 09/28 22:32 [financialjuice] ECB's Lagarde: We see higher inflation ahead but no signs yet that it is becoming embedded.
-- 09/28 22:32 [financialjuice] ECB's President Lagarde: The inflation outlook will be higher in 2027 and 2028 than we expected a few months ago.
-- 09/28 22:32 [FirstSquawk] LAGARDE: ECONOMIC RESILIENCE SET TO CONTINUE IN 3Q
-- 09/28 22:32 [FirstSquawk] LAGARDE: OUTLOOK SURROUNDED BY HIGH UNCERTAINTY
-- 09/28 22:32 [financialjuice] ECB's President Lagarde: We remain in the middle path for monetary policy that I laid out earlier this year.
-- 09/28 22:33 [FirstSquawk] LAGARDE: STILL SEES UPSIDE INFLATION RISKS, DOWNSIDE FOR GROWTH
-- 09/28 22:33 [financialjuice] ECB's President Lagarde: We view a measured response as appropriate to keep inflation in check
-- 09/28 22:33 [financialjuice] ECB's President Lagarde: This means that while the shock is too large to look through, we view a measured response as appropriate to keep inflation in check.
-- 09/28 22:33 [financialjuice] ECB's President Lagarde: Still sees upside risks to inflation and downside risks to growth
-- 09/28 22:33 [financialjuice] ECB's President Lagarde's Speech to European Parliament
-- 09/28 22:36 [financialjuice] UK September long-term public inflation expectations 4.3% vs 4.1% in August - Citi/YouGov
-- 09/28 22:37 [financialjuice] UK September year-ahead public inflation expectations year-ahead 4.5% vs 3.9% - Citi/YouGov
-- 09/28 22:37 [FirstSquawk] EVONIK REJECTS EUR10.3 BLN BASF BID TO CONSOLIDATE CHEMICALS INDUSTRY – FT
-- 09/28 22:39 [FirstSquawk] UK SEPTEMBER LONG-TERM PUBLIC INFLATION EXPECTATIONS AT 4.3% VS 4.1% IN AUGUST - CITI/YOUGOV
-- 09/28 22:41 [financialjuice] ECB's President Lagarde: AI could lower inflation in the long term by boosting productivity
-- 09/28 22:44 [financialjuice] WATCH LIVE: ECB's President Lagarde Speaks
-- 09/28 22:46 [FirstSquawk/financialjuice/DeItaone] RUSSIA PLANS TO EXTEND DIESEL EXPORT BAN THROUGH OCTOBER: TASS
-- 09/28 22:48 [financialjuice] Irna's Araqchi will meet with mediators in New York today. representative from the American side will not be present at this meeting - ISNA
-- 09/28 22:50 [FirstSquawk] IRAN'S ARAGHCHI TO MEET MEDIATORS IN NEW YORK ON MONDAY - ISNA
-- 09/28 22:50 [FirstSquawk] US REPRESENTATIVES WON'T BE PRESENT AT MEETING: IRAN'S ISNA
 - 09/28 22:51 [financialjuice] Iran’s Foreign Minister Araghchi to Meet Mediators, US Won't Be Present - ISNA
 - 09/28 22:51 [DeItaone] - IRAN'S ISNA NEWS AGENCY SAYS FOREIGN MINISTER ARAQCHI TO MEET MEDIATORS TODAY IN NEW YORK
 - 09/28 22:54 [DeItaone] $SPCX - SPACEX SHARES UP 1.1%; CO SAYS STARSHIP REACHES ORBIT DESPITE ENGINE ISSUE
@@ -707,3 +682,24 @@
 - 09/29 22:29 [FirstSquawk] UK SEEKS TO REPEAL BAN ON PUBLIC OWNERSHIP OF WATER COMPANIES
 - 09/29 22:29 [FirstSquawk] UK AIMS TO LIFT RESTRICTION ON PUBLIC CONTROL OF WATER FIRMS.
 - 09/29 22:30 [DeItaone] GENSLER WARNS CHINESE AI MODELS POSE CHALLENGE TO U.S. FIRMS Former SEC Chair Gary Gensler says competition from Chinese AI models complicates efforts to impose stronger safeguards on advanced AI. He also questioned whether the enormous spe…
+- 09/29 22:31 [financialjuice] UK's PM Burnham: You will see VAT disappear off electricity bill on Thursday.
+- 09/29 22:31 [FirstSquawk] DOW JONES DOWN 44.23 POINTS, OR 0.09 PERCENT, AT 51,437.28 AFTER MARKET OPEN NASDAQ UP 84.22 POINTS, OR 0.31 PERCENT, AT 26,904.60 AFTER MARKET OPEN S&P 500 UP 8.67 POINTS, OR 0.11 PERCENT, AT 7,692.36 AFTER MARKET OPEN
+- 09/29 22:32 [DeItaone] GOLDMAN: STOCKS NEED BOND YIELDS TO FALL Goldman Sachs says the clearest path to further equity gains is relief in Treasury yields, with the U.S. 10-year reaching 5.25%, its highest since 2007. Stocks have remained resilient, led by large-c…
+- 09/29 22:33 [FirstSquawk] BURNHAM: APPROACH IS RESPONSIBLE
+- 09/29 22:33 [FirstSquawk] BURNHAM: WILL STICK TO FISCAL RULES
+- 09/29 22:35 [FirstSquawk] US HEGSETH TO ANNOUNCE 20% CUT TO GENERALS, ADMIRAL POSITIONS: FOX
+- 09/29 22:41 [financialjuice] IRGC Spokesman: US Navy ships have withdrawn to 500 kilometers from the Strait of Hormuz - Tasnim News
+- 09/29 22:41 [DeItaone] HEGSETH PLANS 20% CUT TO GENERAL, ADMIRAL POSITIONS War Secretary Pete Hegseth plans to reduce by 20% the number of military positions reserved for generals and admirals, Fox News reports. The target doubles the 10% reduction ordered last y…
+- 09/29 22:41 [FirstSquawk] UK BURNHAM: SOCIAL CARE FULLY FUNDED NOT THROUGH BORROWING
+- 09/29 22:41 [FirstSquawk] BURNHAM: I ACCEPT I MAY PAY A POLITICAL PRICE
+- 09/29 22:43 [financialjuice] Musk and Bezos to attend White House AI lunch - Axios. $TSLA $SPCX $AMZN
+- 09/29 22:44 [DeItaone] *MUSK, BEZOS TO ATTEND WHITE HOUSE AI LUNCH: AXIOS
+- 09/29 22:44 [FirstSquawk] UK TO ADJUST STATE PENSION FROM 2030 TO FUND CARE SERVICE
+- 09/29 22:45 [financialjuice] The UK is going to adjust the state pension from 2030 to fund care service.
+- 09/29 22:45 [financialjuice] Micron, Microsoft and AMD CEOs to attend White House lunch - Axios. $MSFT $MU $AMD
+- 09/29 22:45 [FirstSquawk] PARAMOUNT KICKS OFF HIGH-GRADE BOND SALE FOR WARNER BROS. DEAL
+- 09/29 22:45 [DeItaone/FirstSquawk] ELON MUSK, CEOS OF PALANTIR, AMAZON, SERVICE NOW, ALTIMETER TO ATTEND WHITE HOUSE MEETING ON AI, AXIOS REPORTS
+- 09/29 22:45 [financialjuice] Full list of attendees at White House AI lunch - Axios
+- 09/29 22:46 [DeItaone] TRUMP TO HOST AI POWER LUNCH WITH TOP TECH CEOs President Trump and House Speaker Mike Johnson are set to meet leading AI and tech executives Tuesday as Washington debates how to oversee rapidly advancing AI. Axios Attendees include Elon Mu…
+- 09/29 22:47 [FirstSquawk] UK GILT FUTURES PARE GAINS BY AROUND 10 TICKS AFTER PM BURNHAM SAYS SAVINGS FROM SCRAPPING TRIPLE LOCK WILL BE USED TO FINANCE SOCIAL CARE
+- 09/29 22:50 [DeItaone] U.S. GASOLINE AND DIESEL PRICES FALL U.S. regular gasoline prices fell 1.3 cents over the week to $4.465/gallon, though prices remain $1.347 higher than a year ago. Diesel saw a much larger decline, falling 14.7 cents to $6.382/gallon, but …
