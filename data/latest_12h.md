@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-30 02:37 JST／対象: 09/29 14:37 〜 09/30 02:37 JST（時刻はすべて日本時間）
+生成: 2026-09-30 02:53 JST／対象: 09/29 14:53 〜 09/30 02:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 65 | 09/29 20:26 | 09/30 02:26 | 35分（21:39→22:14） |
-| FirstSquawk | 206 | 09/29 14:37 | 09/30 02:36 | 30分（19:41→20:12） |
-| financialjuice | 210 | 09/29 14:38 | 09/30 02:36 | ⚠ 50分（22:45→23:36） |
+| DeItaone | 66 | 09/29 20:26 | 09/30 02:40 | 35分（21:39→22:14） |
+| FirstSquawk | 204 | 09/29 14:55 | 09/30 02:51 | 30分（19:41→20:12） |
+| financialjuice | 215 | 09/29 14:58 | 09/30 02:53 | ⚠ 50分（22:45→23:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 463 行（統合前 484 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 467 行（統合前 488 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 14:37 [FirstSquawk] RBA’s Bullock says August CPI won’t be given too much emphasis; tight financial conditions are needed
-- 09/29 14:38 [financialjuice] RBA's Gov. Bullock: I hope 4 rate hikes will be restrictive enough to slow inflation
-- 09/29 14:38 [FirstSquawk] RBA’s Bullock says financial conditions remain restrictive
-- 09/29 14:40 [financialjuice] RBA's Gov. Bullock: If inflation comes down, then it's possible no more hikes are needed
-- 09/29 14:42 [FirstSquawk] RBA’s Bullock: Could avoid additional hikes if inflation eases
-- 09/29 14:44 [financialjuice] RBA's Gov. Bullock: The Middle East made things worse, but had a CPI problem before
-- 09/29 14:44 [FirstSquawk] RBA’s Bullock says Middle East conflict has been a significant shock that has made everyone poorer
-- 09/29 14:44 [FirstSquawk] Bullock: Prolonged conflict increases the likelihood businesses pass higher costs on
-- 09/29 14:45 [FirstSquawk] RBA’s Bullock says bond markets are reacting orderly, with the central bank watching closely
-- 09/29 14:45 [financialjuice] RBA's Gov. Bullock: Bond markets are reacting in an orderly way, but we are watching closely
-- 09/29 14:46 [financialjuice] RBA's Gov. Bullock: The board considered pause and 25-bps hike today
-- 09/29 14:48 [FirstSquawk] RBA’s Bullock says inflation risks linked to the AI boom are increasing
-- 09/29 14:49 [FirstSquawk] RBA’s Bullock: One upside inflation risk has materialised and two others are building
-- 09/29 14:53 [FirstSquawk] RBA’s Bullock says unemployment rate can edge higher without widespread job losses
 - 09/29 14:55 [FirstSquawk] RBA’s Bullock says multiple inflationary pressures are making the situation very difficult
 - 09/29 14:58 [financialjuice] RBA's Gov. Bullock: We are aiming to tighten in a measured way
 - 09/29 14:59 [FirstSquawk] RBA’s Bullock says the central bank is seeking measured policy tightening
@@ -487,3 +473,21 @@
 - 09/30 02:36 [FirstSquawk] OPENAI'S ALTMAN HAS UNVEILED A NEW AI AGENT TOOL CALLED 'DOTS', OFFERING ALWAYS-ON AUTONOMOUS AGENTS ACROSS PAID TIERS, AND INTRODUCED GPT-6.1 SOL AT ONE-FIFTH OF ASTRA'S PRICE WITH A CUT TO ITS CACHED INPUT VERSUS STANDARD PRICE.
 - 09/30 02:36 [FirstSquawk] OPENAI'S ALTMAN SAYS IT IS WORKING WITH MICROSOFT TO INTEGRATE SPECIALIST DOTS WITH THEIR ENTERPRISE GOVERNANCE AND SECURITY CONTROLS IN AGENT 365.
 - 09/30 02:36 [FirstSquawk] WHITE HOUSE EYES EUROPE DIESEL RESERVE RELEASE TO AVOID EXPORT BAN - POLITICO
+- 09/30 02:37 [FirstSquawk] JORDANIAN OFFICIAL DENIES REPORTS THAT JORDANIAN REPRESENTATIVE JOINED NETANYAHU MEETING DURING UAE VISIT — AXIOS
+- 09/30 02:40 [financialjuice] Fed's Barr: Economy is quite strong right now - Detroit Radio Station WJR
+- 09/30 02:40 [DeItaone] OPENAI SEEKS $30 BILLION AT $1.4 TRILLION VALUATION OpenAI is targeting at least $30 billion in new funding at a roughly $1.4 trillion valuation, Bloomberg reports, after postponing its IPO plans. The financing would serve as a bridge round…
+- 09/30 02:41 [financialjuice] Fed's Barr: People are frustrated and uncertain because inflation has been too high.
+- 09/30 02:42 [financialjuice] Fed's Barr: In the short term, the biggest effect of AI right now is driving up costs
+- 09/30 02:43 [FirstSquawk] BP'S WHITING REFINERY SAYS IT IS PROPOSING A 6-YEAR CONTRACT TERM THAT WOULD PROVIDE STABILITY FOR THE REFINERY AND EMPLOYEES, ALONG WITH AN EXTENDED NOTICE PERIOD BEFORE THE UNION CAN STRIKE OR THE COMPANY CAN INITIATE A LOCKOUT.
+- 09/30 02:43 [FirstSquawk] BP'S WHITING REFINERY SAYS IT WILL CONTINUE TO MEET WITH USW 7-1 REPRESENTATIVES TO FIND COMMON GROUND AS NEGOTIATIONS PROGRESS.
+- 09/30 02:43 [financialjuice] Fed's Goolsbee: Nothing in the Federal Reserve Act says make sure the bond market is happy or stock markets aren't surprised
+- 09/30 02:48 [financialjuice] Fed's Goolsbee: Need to revisit the logic of looking through supply shocks
+- 09/30 02:49 [financialjuice] Oklahoma Governor Stitt Seeks dyed Diesel tax pause for 120 days.
+- 09/30 02:49 [FirstSquawk] FED'S BARR SAYS THE ECONOMY IS QUITE STRONG RIGHT NOW, BUT THAT PEOPLE ARE FRUSTRATED AND UNCERTAIN BECAUSE INFLATION HAS BEEN TOO HIGH, ADDING THAT IN THE SHORT TERM THE BIGGEST EFFECT OF AI RIGHT NOW IS DRIVING UP COSTS - DETROIT RADIO ST…
+- 09/30 02:49 [financialjuice] Fed's Goolsbee: The fact we have been 5-1/2 years above inflation target is playing with fire
+- 09/30 02:50 [FirstSquawk] FED'S GOOLSBEE SAYS THE FACT THAT INFLATION HAS BEEN ABOVE THE TARGET FOR 5-1/2 YEARS IS 'PLAYING WITH FIRE', ADDING THAT THERE IS A NEED TO REVISIT THE LOGIC OF LOOKING THROUGH SUPPLY SHOCKS.
+- 09/30 02:50 [FirstSquawk] FEDS' GOOLSBEE SAYS 'NOTHING IN THE FEDERAL RESERVE ACT SAYS MAKE SURE THE BOND MARKET IS HAPPY OR STOCK MARKETS AREN'T SURPRISED'.
+- 09/30 02:50 [financialjuice] Fed's Goolsbee: Price of oil could go down relatively quickly, but the deeper problem is getting refineries back online
+- 09/30 02:51 [FirstSquawk] FED’S GOOLSBEE: OIL PRICES COULD FALL RELATIVELY QUICKLY, BUT KEY CHALLENGE IS RESTORING REFINERY OPERATIONS
+- 09/30 02:52 [financialjuice] Fed's Goolsbee: Keep your eye on productivity.
+- 09/30 02:53 [financialjuice] BoC's Gravelle: Timing of GoC bond purchases likely to be delayed
