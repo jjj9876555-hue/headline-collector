@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-29 17:24 JST／対象: 09/29 05:24 〜 09/29 17:24 JST（時刻はすべて日本時間）
+生成: 2026-09-29 17:48 JST／対象: 09/29 05:48 〜 09/29 17:48 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 185 | 09/29 05:29 | 09/29 17:16 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 106 | 09/29 05:26 | 09/29 17:01 | ⚠ 62分（11:21→12:24） |
+| FirstSquawk | 191 | 09/29 07:40 | 09/29 17:40 | ⚠ 57分（07:48→08:46） |
+| financialjuice | 114 | 09/29 05:48 | 09/29 17:47 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 289 行（統合前 291 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 304 行（統合前 305 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 05:26 [financialjuice/FirstSquawk] Iran's State TV: The sounds heard on Qeshm Island were likely the result of warning shots fired at violating vessels in the Strait of Hormuz.
 - 09/29 05:48 [financialjuice] Libyan, Moroccan and Qatari military and government aircraft landed in Abu Dhabi during Israeli Prime Minister Netanyahu's visit - Israel's Kan News.
 - 09/29 05:55 [financialjuice] Anthropic collaborates with Nvidia on agent security $NVDA
 - 09/29 06:11 [financialjuice] North Korea: US approval for South Korea's nuclear submarine heightens regional instability - KCNA
@@ -313,3 +312,19 @@
 - 09/29 17:15 [FirstSquawk] IRISH ENERGY MINISTER SAYS EUROPE HAS AMPLE RESERVES AND WE MUST STAY READY.
 - 09/29 17:15 [FirstSquawk] IRISH ENERGY MINISTER ANNOUNCES THAT EU ENERGY MINISTERS WILL MEET IN OCTOBER TO TALK ABOUT WINTER ENERGY SECURITY AND SUPPLY.
 - 09/29 17:16 [FirstSquawk] IRISH ENERGY MINISTER SAYS EU COUNTRIES CAN TEMPORARILY CHANGE TAXES TO HELP WITH HIGH ENERGY COSTS.
+- 09/29 17:28 [financialjuice] ECB's Kazimir: Rate hike was unavoidable.
+- 09/29 17:28 [financialjuice] ECB's Kazimir: Energy prices remain key factor.
+- 09/29 17:29 [financialjuice] ECB's Kazimir: Key for me will be January repricing.
+- 09/29 17:29 [FirstSquawk] MELONI: KUWAIT'S Q8 ACCEPTED TO LOWER FUEL PRICES IN ITALY
+- 09/29 17:29 [financialjuice] ECB's Kazimir: We need flexibility, we have enough time.
+- 09/29 17:30 [FirstSquawk] MELONI ANNOUNCES KUWAIT'S Q8 AGREED TO REDUCE FUEL PRICES IN ITALY.
+- 09/29 17:30 [FirstSquawk] ECB'S KAZIMIR SAYS RATE INCREASE WAS INEVITABLE.
+- 09/29 17:30 [FirstSquawk] ECB'S KAZIMIR SAYS ENERGY COSTS ARE STILL A SIGNIFICANT INFLUENCE.
+- 09/29 17:30 [financialjuice] UK MORTGAGE APPROVALS ACTUAL 54.918K (FORECAST 56.1K, PREVIOUS 56.053K) $MACRO
+- 09/29 17:30 [FirstSquawk] ECB'S KAZIMIR SAYS JANUARY WILL BE CRUCIAL FOR REPRICING.
+- 09/29 17:30 [financialjuice] UK MORTGAGE LENDING ACTUAL 4.410B (FORECAST 4.4B, PREVIOUS 4.292B ,REVISION 4.082B) $MACRO
+- 09/29 17:30 [FirstSquawk] ECB'S KAZIMIR STRESSES THE IMPORTANCE OF FLEXIBILITY AND AFFIRMS THERE IS PLENTY OF TIME.
+- 09/29 17:30 [financialjuice] UK M4 MONEY SUPPLY ACTUAL 0.4% (FORECAST -, PREVIOUS -0.3%) $MACRO
+- 09/29 17:30 [financialjuice] BOE CONSUMER CREDIT ACTUAL 2.464B (FORECAST 1.9B, PREVIOUS 2.006B) $MACRO
+- 09/29 17:40 [FirstSquawk] RUSSIA ATTACKED TWO FOREIGN SHIPS IN THE ODESA AREA OF UKRAINE, ACCORDING TO ZELENSKIY.
+- 09/29 17:47 [financialjuice] NVIDIA and AMD up White House lobbying on China exports - Politico

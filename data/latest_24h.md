@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-29 17:24 JST／対象: 09/28 17:24 〜 09/29 17:24 JST（時刻はすべて日本時間）
+生成: 2026-09-29 17:48 JST／対象: 09/28 17:48 〜 09/29 17:48 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 35 | 09/28 18:13 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 367 | 09/28 17:25 | 09/29 17:16 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 307 | 09/28 17:32 | 09/29 17:01 | ⚠ 62分（11:21→12:24） |
+| FirstSquawk | 367 | 09/28 17:54 | 09/29 17:40 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 313 | 09/28 18:00 | 09/29 17:47 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 693 行（統合前 713 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 699 行（統合前 719 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 17:25 [FirstSquawk] INDIA-UAE TRADE COMING BACK TO PRE-WAR LEVEL SAYS GOYAL
-- 09/28 17:29 [FirstSquawk] INDIA AND UAE TO WORK ON SHIP BUILDING, CONTAINER MANUFACTURING
-- 09/28 17:32 [financialjuice] UK transport minister: government to take over Avanti West Coast services from March 7, 2027
-- 09/28 17:38 [FirstSquawk] UK DEFENSE SECRETARY WES STREETING LIVE POLICE PROBE INTO FAIRFORD SITUATION
-- 09/28 17:38 [financialjuice] EU extends mandates of Rafah crossing point and police missions in Palestinian authorities until June 30, 2027
-- 09/28 17:39 [financialjuice] China's Sinograin sells 191,699 metric tons of imported soybeans Monday, 37.3% of total volume: Mysteel
-- 09/28 17:40 [FirstSquawk] IRAN'S DELEGATION IN NEW YORK HAS NO PLANS TO NEGOTIATE WITH THE UNITED STATES - IRNA
-- 09/28 17:42 [FirstSquawk] CORRECTION: STREETING SAYS WON T LINK IRAN CONFLICT, FAIRFORD INCIDENT
-- 09/28 17:42 [FirstSquawk] STREETING SAYS 'MORE TO COME’ ON DEFENCE SPENDING AT BUDGET
-- 09/28 17:43 [FirstSquawk] CHINA IMPOSES TRAVEL RESTRICTIONS ON IMMEDIATE FAMILY OF LEADING AI EXPERTS.
 - 09/28 17:54 [FirstSquawk] NHC: LIFE-THREATENING WINDS AND FLASH FLOODS EXPECTED OVER PORTIONS OF BAJA CALIFORNIA SUR AND SONORA TODAY AND TUESDAY, CONDITIONS EXPECTED TO BEGIN DETERIORATING THIS MORNING IN BAJA CALIFORNIA SUR
 - 09/28 18:00 [financialjuice] NVIDIA Openshell and sentry are meant to keep AI agents in line.
 - 09/28 18:01 [financialjuice] Nvidia introduces open-source tool duo to boost AI security. $NVDA
@@ -717,3 +707,19 @@
 - 09/29 17:15 [FirstSquawk] IRISH ENERGY MINISTER SAYS EUROPE HAS AMPLE RESERVES AND WE MUST STAY READY.
 - 09/29 17:15 [FirstSquawk] IRISH ENERGY MINISTER ANNOUNCES THAT EU ENERGY MINISTERS WILL MEET IN OCTOBER TO TALK ABOUT WINTER ENERGY SECURITY AND SUPPLY.
 - 09/29 17:16 [FirstSquawk] IRISH ENERGY MINISTER SAYS EU COUNTRIES CAN TEMPORARILY CHANGE TAXES TO HELP WITH HIGH ENERGY COSTS.
+- 09/29 17:28 [financialjuice] ECB's Kazimir: Rate hike was unavoidable.
+- 09/29 17:28 [financialjuice] ECB's Kazimir: Energy prices remain key factor.
+- 09/29 17:29 [financialjuice] ECB's Kazimir: Key for me will be January repricing.
+- 09/29 17:29 [FirstSquawk] MELONI: KUWAIT'S Q8 ACCEPTED TO LOWER FUEL PRICES IN ITALY
+- 09/29 17:29 [financialjuice] ECB's Kazimir: We need flexibility, we have enough time.
+- 09/29 17:30 [FirstSquawk] MELONI ANNOUNCES KUWAIT'S Q8 AGREED TO REDUCE FUEL PRICES IN ITALY.
+- 09/29 17:30 [FirstSquawk] ECB'S KAZIMIR SAYS RATE INCREASE WAS INEVITABLE.
+- 09/29 17:30 [FirstSquawk] ECB'S KAZIMIR SAYS ENERGY COSTS ARE STILL A SIGNIFICANT INFLUENCE.
+- 09/29 17:30 [financialjuice] UK MORTGAGE APPROVALS ACTUAL 54.918K (FORECAST 56.1K, PREVIOUS 56.053K) $MACRO
+- 09/29 17:30 [FirstSquawk] ECB'S KAZIMIR SAYS JANUARY WILL BE CRUCIAL FOR REPRICING.
+- 09/29 17:30 [financialjuice] UK MORTGAGE LENDING ACTUAL 4.410B (FORECAST 4.4B, PREVIOUS 4.292B ,REVISION 4.082B) $MACRO
+- 09/29 17:30 [FirstSquawk] ECB'S KAZIMIR STRESSES THE IMPORTANCE OF FLEXIBILITY AND AFFIRMS THERE IS PLENTY OF TIME.
+- 09/29 17:30 [financialjuice] UK M4 MONEY SUPPLY ACTUAL 0.4% (FORECAST -, PREVIOUS -0.3%) $MACRO
+- 09/29 17:30 [financialjuice] BOE CONSUMER CREDIT ACTUAL 2.464B (FORECAST 1.9B, PREVIOUS 2.006B) $MACRO
+- 09/29 17:40 [FirstSquawk] RUSSIA ATTACKED TWO FOREIGN SHIPS IN THE ODESA AREA OF UKRAINE, ACCORDING TO ZELENSKIY.
+- 09/29 17:47 [financialjuice] NVIDIA and AMD up White House lobbying on China exports - Politico

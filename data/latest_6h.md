@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-29 17:24 JST／対象: 09/29 11:24 〜 09/29 17:24 JST（時刻はすべて日本時間）
+生成: 2026-09-29 17:48 JST／対象: 09/29 11:48 〜 09/29 17:48 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 117 | 09/29 11:28 | 09/29 17:16 | 26分（12:45→13:11） |
-| financialjuice | 48 | 09/29 12:24 | 09/29 17:01 | 39分（12:24→13:03） |
+| FirstSquawk | 118 | 09/29 12:01 | 09/29 17:40 | 26分（12:45→13:11） |
+| financialjuice | 57 | 09/29 12:24 | 09/29 17:47 | 39分（12:24→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 164 行（統合前 165 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 174 行（統合前 175 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 11:28 [FirstSquawk] Shein stock tumbles 10%
-- 09/29 11:34 [FirstSquawk] Aussie dollar steadies above 0.7000 vs USD ahead of RBA rate decision - FX
-- 09/29 11:36 [FirstSquawk] Fay strengthens back into a tropical storm, NHC says
-- 09/29 11:37 [FirstSquawk] Tropical Storm Fay 1,380 miles west-southwest of Azores with maximum winds of 40 mph, NHC says
-- 09/29 11:41 [FirstSquawk] OpenAI delays new AI model launch due to safety concerns - NA
-- 09/29 11:47 [FirstSquawk] Gold prices tick higher as selling pressure persists - WSJ
 - 09/29 12:01 [FirstSquawk] MAS deputy chair: Singapore to commit $1.1 billion across five asset managers to strengthen equities market
 - 09/29 12:01 [FirstSquawk] US Navy reports aircraft recovery incident aboard Nimitz-class carrier USS Dwight D. Eisenhower off Virginia coast
 - 09/29 12:02 [FirstSquawk] Two naval aviators from Carrier Air Wing 3 recovered by search-and-rescue personnel, US Navy says
@@ -188,3 +182,19 @@
 - 09/29 17:15 [FirstSquawk] IRISH ENERGY MINISTER SAYS EUROPE HAS AMPLE RESERVES AND WE MUST STAY READY.
 - 09/29 17:15 [FirstSquawk] IRISH ENERGY MINISTER ANNOUNCES THAT EU ENERGY MINISTERS WILL MEET IN OCTOBER TO TALK ABOUT WINTER ENERGY SECURITY AND SUPPLY.
 - 09/29 17:16 [FirstSquawk] IRISH ENERGY MINISTER SAYS EU COUNTRIES CAN TEMPORARILY CHANGE TAXES TO HELP WITH HIGH ENERGY COSTS.
+- 09/29 17:28 [financialjuice] ECB's Kazimir: Rate hike was unavoidable.
+- 09/29 17:28 [financialjuice] ECB's Kazimir: Energy prices remain key factor.
+- 09/29 17:29 [financialjuice] ECB's Kazimir: Key for me will be January repricing.
+- 09/29 17:29 [FirstSquawk] MELONI: KUWAIT'S Q8 ACCEPTED TO LOWER FUEL PRICES IN ITALY
+- 09/29 17:29 [financialjuice] ECB's Kazimir: We need flexibility, we have enough time.
+- 09/29 17:30 [FirstSquawk] MELONI ANNOUNCES KUWAIT'S Q8 AGREED TO REDUCE FUEL PRICES IN ITALY.
+- 09/29 17:30 [FirstSquawk] ECB'S KAZIMIR SAYS RATE INCREASE WAS INEVITABLE.
+- 09/29 17:30 [FirstSquawk] ECB'S KAZIMIR SAYS ENERGY COSTS ARE STILL A SIGNIFICANT INFLUENCE.
+- 09/29 17:30 [financialjuice] UK MORTGAGE APPROVALS ACTUAL 54.918K (FORECAST 56.1K, PREVIOUS 56.053K) $MACRO
+- 09/29 17:30 [FirstSquawk] ECB'S KAZIMIR SAYS JANUARY WILL BE CRUCIAL FOR REPRICING.
+- 09/29 17:30 [financialjuice] UK MORTGAGE LENDING ACTUAL 4.410B (FORECAST 4.4B, PREVIOUS 4.292B ,REVISION 4.082B) $MACRO
+- 09/29 17:30 [FirstSquawk] ECB'S KAZIMIR STRESSES THE IMPORTANCE OF FLEXIBILITY AND AFFIRMS THERE IS PLENTY OF TIME.
+- 09/29 17:30 [financialjuice] UK M4 MONEY SUPPLY ACTUAL 0.4% (FORECAST -, PREVIOUS -0.3%) $MACRO
+- 09/29 17:30 [financialjuice] BOE CONSUMER CREDIT ACTUAL 2.464B (FORECAST 1.9B, PREVIOUS 2.006B) $MACRO
+- 09/29 17:40 [FirstSquawk] RUSSIA ATTACKED TWO FOREIGN SHIPS IN THE ODESA AREA OF UKRAINE, ACCORDING TO ZELENSKIY.
+- 09/29 17:47 [financialjuice] NVIDIA and AMD up White House lobbying on China exports - Politico
