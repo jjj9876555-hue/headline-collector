@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-30 03:42 JST／対象: 09/29 15:42 〜 09/30 03:42 JST（時刻はすべて日本時間）
+生成: 2026-09-30 03:58 JST／対象: 09/29 15:58 〜 09/30 03:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 66 | 09/29 20:26 | 09/30 02:40 | 35分（21:39→22:14） |
-| FirstSquawk | 210 | 09/29 15:44 | 09/30 03:41 | 30分（19:41→20:12） |
-| financialjuice | 252 | 09/29 16:00 | 09/30 03:39 | ⚠ 50分（22:45→23:36） |
+| FirstSquawk | 212 | 09/29 15:58 | 09/30 03:54 | 30分（19:41→20:12） |
+| financialjuice | 258 | 09/29 16:00 | 09/30 03:57 | ⚠ 50分（22:45→23:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 509 行（統合前 533 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 517 行（統合前 541 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 15:44 [FirstSquawk] South Korea’s Defence Minister Kang says DMZ mine appears linked to North Korea’s border fortification work
-- 09/29 15:48 [FirstSquawk] Shell to expand Canada LNG facility capacity to 28 million tonnes a year
 - 09/29 15:58 [FirstSquawk] South Korea Joint Chiefs of Staff: DMZ mines likely planted just over a year ago
 - 09/29 15:59 [FirstSquawk] South Korea Joint Chiefs of Staff: UN Command says DMZ explosion mines were clearly south of Military Demarcation Line
 - 09/29 16:00 [financialjuice] SPANISH CPI MOM FLASH ACTUAL 0.3% (FORECAST 0.1%, PREVIOUS 0.70%) $MACRO
@@ -533,3 +531,13 @@
 - 09/30 03:39 [financialjuice] Trump ends remarks to reporters.
 - 09/30 03:41 [FirstSquawk] TRUMP SAYS IN A MEETING WITH AI LEADERS THAT IT WAS A 'VERY GOOD MEETING, EXTREMELY FRIENDLY AND PRODUCTIVE', WITH 'A LOT OF COMMONALITY IN THE ROOM', ADDING THAT THE U.S. HAS A 'BIG LEAD ON AI AND WANT TO KEEP IT'.
 - 09/30 03:41 [FirstSquawk] TRUMP SAYS 'SELF-REGULATION IS VERY IMPORTANT IN AI', ADDING THAT THE GROUP WANTS TO WORK WITH LOCAL COMMUNITIES 'TO MAKE THE PEOPLE HAPPY' AND THAT THE AI LEADERS 'WANT TO DO THE RIGHT THING'.
+- 09/30 03:47 [financialjuice] Fed's Williams: AI is driving up asset market valuations, bolstering the wealth effect.
+- 09/30 03:48 [financialjuice] Fed's Williams: starting to see some data that shows AI bolstering productivity gains.
+- 09/30 03:49 [FirstSquawk] TRADERS CUT BETS ON OCTOBER FED HIKE; NOW SEE JUST ONE RATE HIKE BY YEAR-END AFTER WILLIAMS SAYS THERE IS “NO URGENCY” TO ACT
+- 09/30 03:49 [financialjuice] ❗ Traders trim bets on October Fed rate hike, see just one Fed rate hike by year-end after Fed's Williams says 'no urgency' on Fed action
+- 09/30 03:51 [financialjuice] Traders now see about a 50-50 chance of a Fed rate hike in October, down from about 70% previously.
+- 09/30 03:51 [FirstSquawk] TRADERS SEE 50-50 CHANCE OF OCTOBER FED RATE HIKE, DOWN FROM 70% PREVIOUSLY
+- 09/30 03:52 [financialjuice] Brent Crude futures settle at $102.59/bbl, down $2.69, 2.56%.
+- 09/30 03:53 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 3.48% LOWER AT $89.38/BBL, DOWN $3.22
+- 09/30 03:54 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 2.56% LOWER AT $102.59/BBL, DOWN $2.69
+- 09/30 03:57 [financialjuice] OpenAI aims to prioritize mission and safety before IPO.
