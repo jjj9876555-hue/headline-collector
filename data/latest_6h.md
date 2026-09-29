@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-29 16:47 JST／対象: 09/29 10:47 〜 09/29 16:47 JST（時刻はすべて日本時間）
+生成: 2026-09-29 17:01 JST／対象: 09/29 11:01 〜 09/29 17:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 116 | 09/29 10:47 | 09/29 16:39 | 26分（12:45→13:11） |
-| financialjuice | 57 | 09/29 11:00 | 09/29 16:39 | ⚠ 62分（11:21→12:24） |
+| FirstSquawk | 117 | 09/29 11:01 | 09/29 16:50 | 26分（12:45→13:11） |
+| financialjuice | 55 | 09/29 11:02 | 09/29 17:01 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 172 行（統合前 173 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 171 行（統合前 172 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 10:47 [FirstSquawk] Haiti mayor says at least 11 killed in Gros-Morne after likely gang retaliation over UN-backed patrol
-- 09/29 10:51 [FirstSquawk] Pope Leo says warnings about AI doom scenarios should be taken seriously - RTRS
-- 09/29 10:54 [FirstSquawk] North Korea accused of operating alleged secret prison at Beijing embassy - YONHAP
-- 09/29 10:59 [FirstSquawk] Samsung SDI to present battery solutions aimed at AI data centres in Singapore - YONHAP
-- 09/29 11:00 [financialjuice] Japan finance minister katayama: agreed with bessent to strengthen cooperation on phone talks sept 25
-- 09/29 11:00 [FirstSquawk] Japan FinMin Katayama says agreed with Bessent to bolster cooperation
-- 09/29 11:00 [financialjuice] Japan finmin katayama: undervalued yen generally poses problems
-- 09/29 11:01 [FirstSquawk] Katayama: Japan believes an undervalued yen is problematic
-- 09/29 11:01 [financialjuice] Japan finance minister Katayama: will keep close talks with US Treasury to ensure stable forex markets
 - 09/29 11:01 [FirstSquawk] Katayama: Japan will stay in close contact with U.S. Treasury over orderly FX markets
 - 09/29 11:02 [financialjuice] Japan finance minister Katayama: Takaichi's government is not reflationary
 - 09/29 11:02 [financialjuice] S.Korea finance minister: closely watching bond market
@@ -196,3 +187,11 @@
 - 09/29 16:26 [FirstSquawk] IRAN'S IRGC SPOKESPERSON CLAIMS US MUST ADMIT DEFEAT AND EXIT THE REGION.
 - 09/29 16:36 [FirstSquawk] SPANISH ENERGY MINISTER AAGESEN SAYS SPAIN, PORTUGAL, LUXEMBOURG SENT A LETTER ASKING COMMISSION FOR A NEW TARGET OF RENEWABLE ENERGY CAPACITY
 - 09/29 16:39 [financialjuice/FirstSquawk] Iran's Parliament Speaker Qalibaf: No one in the region shall sell its oil if Iran cannot sell its oil, if Iran has no security then no regional infrastructure shall be safe - State Media
+- 09/29 16:47 [FirstSquawk] SPANISH ENERGY MINISTER AAGESEN SUGGESTS THAT THE EU SHOULD CONSIDER MEASURES TO HARNESS WINDFALL PROFITS DUE TO HIGH ENERGY PRICES.
+- 09/29 16:47 [FirstSquawk] SPANISH ENERGY MINISTER AAGESEN STATES THEY ARE AWAITING A RESPONSE TO THE PROPOSAL.
+- 09/29 16:47 [FirstSquawk] SPANISH ENERGY MINISTER AAGESEN SAYS THEY ARE STILL AWAITING A RESPONSE TO THE PROPOSAL.
+- 09/29 16:47 [FirstSquawk] SPANISH ENERGY MINISTER AAGESEN WANTS A PERMANENT TAX ON OIL AND GAS COMPANIES TO FUND CLIMATE PROJECTS. SPAIN AIMS TO IMPOSE METHANE REGULATIONS WITHOUT DELAY.
+- 09/29 16:49 [FirstSquawk] IEA'S BIROL SAID EUROPE IS HIGHLY VULNERABLE IN THE DIESEL MARKET AND IS KEEPING A CLOSE EYE ON IT. HE NOTED THAT IF MORE STRATEGIC RESERVE RELEASES ARE NEEDED, THEY WILL TALK WITH MEMBER GOVERNMENTS.
+- 09/29 16:49 [FirstSquawk] IEA CHIEF SAYS WE ARE IN TALKS WITH COUNTRIES ABOUT THIS SITUATION.
+- 09/29 16:50 [FirstSquawk] IEA LEADER SAYS EUROPE RECEIVES 50% OF ITS DIESEL SUPPLY FROM THE UNITED STATES TODAY.
+- 09/29 17:01 [financialjuice] ITALIAN INDUSTRIAL SALES MOM ACTUAL 0.6% (FORECAST -, PREVIOUS -1.0%) $MACRO

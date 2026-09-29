@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-29 16:47 JST／対象: 09/28 16:47 〜 09/29 16:47 JST（時刻はすべて日本時間）
+生成: 2026-09-29 17:01 JST／対象: 09/28 17:01 〜 09/29 17:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 37 | 09/28 16:48 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
-| FirstSquawk | 353 | 09/28 17:04 | 09/29 16:39 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 313 | 09/28 16:56 | 09/29 16:39 | ⚠ 62分（11:21→12:24） |
+| DeItaone | 36 | 09/28 17:23 | 09/29 02:14 | ⚠ 126分（20:42→22:49） |
+| FirstSquawk | 360 | 09/28 17:04 | 09/29 16:50 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 309 | 09/28 17:05 | 09/29 17:01 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 687 行（統合前 707 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 689 行（統合前 709 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/28 16:48 [DeItaone] TRUMP SERIOUSLY CONSIDERS U.S. DIESEL EXPORT BAN President Trump said the U.S. is “very seriously” considering restricting diesel exports, despite concerns it could push gasoline prices higher. Trump blamed current fuel pressures largely on…
-- 09/28 16:56 [financialjuice] Japan's Top Currency Diplomat Mimura: Japanese Prime Minister, Finance Minister, US have sent clear message on yen.
-- 09/28 16:56 [financialjuice] Japan's Top Currency Diplomat Mimura when asked about market views funding constraints may limit Japan's ability to conduct yen-buying intervention: I have absolutely no such concern. when asked about market views funding constraints may li…
-- 09/28 16:56 [financialjuice] Japan's Top Currency Diplomat Mimura: We are always carefully watching how such japan-us rate trend has affected market moves.
-- 09/28 16:57 [financialjuice] Japan's Top Currency Diplomat Mimura: Japan's strong ‘currency alliance’ with US covers not just FX but wider bilateral cooperation on economic policy, global supply chain.
-- 09/28 16:57 [financialjuice] Japan's Top Currency Diplomat Mimura: Japan remains neither satisfied nor reassured about underlying yen moves.
 - 09/28 17:04 [FirstSquawk] U.S. S&P 500 E-MINI FUTURES DECLINE BY 0.4%, NASDAQ 100 FUTURES FALL BY 0.9%, DOW FUTURES DROP BY 0.3%.
 - 09/28 17:04 [FirstSquawk] LME ALUMINUM ON-WARRANT STOCKS FALL BY 10,650 TONS, THE SHARPEST DROP SINCE MAY.
 - 09/28 17:05 [financialjuice] Anthropic won't appear at Australian Senate probe - Guardian
@@ -711,3 +705,11 @@
 - 09/29 16:26 [FirstSquawk] IRAN'S IRGC SPOKESPERSON CLAIMS US MUST ADMIT DEFEAT AND EXIT THE REGION.
 - 09/29 16:36 [FirstSquawk] SPANISH ENERGY MINISTER AAGESEN SAYS SPAIN, PORTUGAL, LUXEMBOURG SENT A LETTER ASKING COMMISSION FOR A NEW TARGET OF RENEWABLE ENERGY CAPACITY
 - 09/29 16:39 [financialjuice/FirstSquawk] Iran's Parliament Speaker Qalibaf: No one in the region shall sell its oil if Iran cannot sell its oil, if Iran has no security then no regional infrastructure shall be safe - State Media
+- 09/29 16:47 [FirstSquawk] SPANISH ENERGY MINISTER AAGESEN SUGGESTS THAT THE EU SHOULD CONSIDER MEASURES TO HARNESS WINDFALL PROFITS DUE TO HIGH ENERGY PRICES.
+- 09/29 16:47 [FirstSquawk] SPANISH ENERGY MINISTER AAGESEN STATES THEY ARE AWAITING A RESPONSE TO THE PROPOSAL.
+- 09/29 16:47 [FirstSquawk] SPANISH ENERGY MINISTER AAGESEN SAYS THEY ARE STILL AWAITING A RESPONSE TO THE PROPOSAL.
+- 09/29 16:47 [FirstSquawk] SPANISH ENERGY MINISTER AAGESEN WANTS A PERMANENT TAX ON OIL AND GAS COMPANIES TO FUND CLIMATE PROJECTS. SPAIN AIMS TO IMPOSE METHANE REGULATIONS WITHOUT DELAY.
+- 09/29 16:49 [FirstSquawk] IEA'S BIROL SAID EUROPE IS HIGHLY VULNERABLE IN THE DIESEL MARKET AND IS KEEPING A CLOSE EYE ON IT. HE NOTED THAT IF MORE STRATEGIC RESERVE RELEASES ARE NEEDED, THEY WILL TALK WITH MEMBER GOVERNMENTS.
+- 09/29 16:49 [FirstSquawk] IEA CHIEF SAYS WE ARE IN TALKS WITH COUNTRIES ABOUT THIS SITUATION.
+- 09/29 16:50 [FirstSquawk] IEA LEADER SAYS EUROPE RECEIVES 50% OF ITS DIESEL SUPPLY FROM THE UNITED STATES TODAY.
+- 09/29 17:01 [financialjuice] ITALIAN INDUSTRIAL SALES MOM ACTUAL 0.6% (FORECAST -, PREVIOUS -1.0%) $MACRO
