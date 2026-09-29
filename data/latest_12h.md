@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-30 07:34 JST／対象: 09/29 19:34 〜 09/30 07:34 JST（時刻はすべて日本時間）
+生成: 2026-09-30 07:52 JST／対象: 09/29 19:52 〜 09/30 07:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 88 | 09/29 20:26 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
-| FirstSquawk | 185 | 09/29 19:39 | 09/30 06:29 | 30分（19:41→20:12） |
-| financialjuice | 294 | 09/29 19:42 | 09/30 06:32 | ⚠ 50分（22:45→23:36） |
+| FirstSquawk | 183 | 09/29 20:12 | 09/30 06:29 | 30分（02:00→02:31） |
+| financialjuice | 294 | 09/29 19:54 | 09/30 07:40 | ⚠ 67分（06:32→07:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 543 行（統合前 573 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 541 行（統合前 571 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 19:39 [FirstSquawk] SAUDI CIVIL DEFENCE SAYS DANGER HAS PASSED
-- 09/29 19:41 [FirstSquawk] IRAN'S FOREIGN MINISTER STATED THAT A SEVEN-POINT PLAN FROM TEHRAN WAS SHARED WITH WASHINGTON VIA QATAR, AND IRAN IS NOW WAITING FOR AN OFFICIAL RESPONSE FROM THE U.S.
-- 09/29 19:42 [financialjuice] Italy's Energy Minister: Will speak with US Energy Secretary Wright later on Tuesday, will ask about potential US diesel export ban.
 - 09/29 19:54 [financialjuice] Qatar Foreign Ministry Spokesman: Exchanging messages, possible solutions with US-Iran.
 - 09/29 20:12 [FirstSquawk] ELI LILLY: ZEPBOUND ACHIEVES 20.2% WEIGHT REDUCTION VS 13.7% FOR WEGOVY AT 72 WEEKS
 - 09/29 20:14 [financialjuice/FirstSquawk] Rosatom, Iran discuss options to build new nuclear plants - Tass
@@ -567,3 +564,4 @@
 - 09/30 06:29 [FirstSquawk] THE ACCORD SAYS PARTICIPATING COMPANIES WILL MEET REGULARLY TO ESTABLISH STANDARDS AND BEST PRACTICES, AND THAT 'OVER TIME, IT MAY MAKE SENSE TO CODIFY THESE STEPS INTO LAWS OR REGULATIONS', ADDING THAT REGARDLESS OF WHETHER THAT HAPPENS, I…
 - 09/30 06:29 [financialjuice] Document circulated by Trump endorsed by Google, Anthropic, Meta, OpenAI, Musk, Nvidia
 - 09/30 06:32 [financialjuice] Document shared by Trump: Nvidia, OpenAI, Anthropic, xAI, Google to convene regularly on AI safety standards
+- 09/30 07:40 [financialjuice] Senior Saudi official denies any meeting with Israeli officials

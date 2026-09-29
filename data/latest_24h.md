@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-30 07:34 JST／対象: 09/29 07:34 〜 09/30 07:34 JST（時刻はすべて日本時間）
+生成: 2026-09-30 07:52 JST／対象: 09/29 07:52 〜 09/30 07:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 88 | 09/29 20:26 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
-| FirstSquawk | 408 | 09/29 07:40 | 09/30 06:29 | ⚠ 57分（07:48→08:46） |
-| financialjuice | 397 | 09/29 07:45 | 09/30 06:32 | ⚠ 62分（11:21→12:24） |
+| FirstSquawk | 400 | 09/29 08:46 | 09/30 06:29 | ⚠ 49分（09:17→10:06） |
+| financialjuice | 397 | 09/29 08:16 | 09/30 07:40 | ⚠ 67分（06:32→07:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 868 行（統合前 899 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 860 行（統合前 891 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 07:40 [FirstSquawk] NORTH KOREA: US APPROVAL OF SOUTH KOREA’S NUCLEAR SUBMARINE HEIGHTENS REGIONAL INSTABILITY — KCNA
-- 09/29 07:40 [FirstSquawk] IRAN'S FOREIGN MINISTER ARAGHCHI SAYS TEHRAN DISCUSSED PROPOSALS WITH QATARI MEDIATORS TO PRESENT TO THE U.S., WITH THE U.S. RESPONSE TO BE RELAYED TO TEHRAN THROUGH THE QATARI MEDIATORS.
-- 09/29 07:40 [FirstSquawk] IRAN'S FOREIGN MINISTER ARAGHCHI SAYS THAT IF THE U.S. 'WANTS A DEAL OR PEACE, IRAN HAS OFFERED A SOLUTION', ADDING THAT THE CONDITIONS SET BY THE SUPREME LEADER MUST BE MET FOR THE STRAIT OF HORMUZ TO REOPEN - IRNA
-- 09/29 07:41 [FirstSquawk] IRAN'S FOREIGN MINISTER ARAGHCHI SAYS TEHRAN HELD TALKS WITH QATARI MEDIATORS ON WAYS TO MEET IRAN'S DEMANDS, WITH THE MEDIATORS TO PRESENT IDEAS TO THE U.S. SIDE, AND QATARI AND PAKISTANI MEDIATION CHANNELS INTENSIFYING AFTER IRAN UNVEILED…
-- 09/29 07:41 [FirstSquawk] IRAN'S FOREIGN MINISTER ARAGHCHI SAYS HE HOPES FOR THE U.S. FINAL ANSWER THROUGH THE QATARI MEDIATORS BY TUESDAY - IRNA
-- 09/29 07:43 [FirstSquawk] IRAN’S OIL EXPORTS ARE PLUNGING UNDER THE U.S. NAVAL BLOCKADE, WHILE SAUDI AND IRAQI CRUDE EXPORTS HAVE REBOUNDED AND SAUDI ARABIA HAS INCREASINGLY ROUTED OIL THROUGH THE PERSIAN GULF AFTER ITS EAST-WEST PIPELINE RETURNED TO OPERATION. THE …
-- 09/29 07:45 [financialjuice] Explosions heard in Ukraine's Kyiv: source witness
-- 09/29 07:48 [FirstSquawk] TRUMP SAYS AXIOS 'JUST RELEASED A STORY THAT TRUMP OFFERED SANCTIONS RELIEF AND FROZEN FUNDS TO IRAN', CALLING IT 'UNTRUE' AND SAYING 'I OFFERED THEM NOTHING'. - TRUTH SOCIAL
-- 09/29 07:48 [FirstSquawk] TRUMP CALLS THE AXIOS STORY 'A HOAX, USED ONLY FOR PURPOSES OF SATISFYING THEIR TRUMP DERANGEMENT SYNDROME', DEMANDING THEY 'WITHDRAW THIS FAKE STORY, IMMEDIATELY'. - TRUTH SOCIAL
 - 09/29 08:16 [financialjuice] Anthropic’s top two direct clients made up 24% of total FY25 revenue, 12% each
 - 09/29 08:16 [financialjuice] Exclusive-Anthropic fy25 revenue $4.59 billion, up 1,088% y/y from $386 million in fy24: IPO prospectus seen by source
 - 09/29 08:16 [financialjuice] Anthropic's cash, cash equivalents and short-term investments reached $20.28 billion as of Dec. 31, 2025
@@ -892,3 +883,4 @@
 - 09/30 06:29 [FirstSquawk] THE ACCORD SAYS PARTICIPATING COMPANIES WILL MEET REGULARLY TO ESTABLISH STANDARDS AND BEST PRACTICES, AND THAT 'OVER TIME, IT MAY MAKE SENSE TO CODIFY THESE STEPS INTO LAWS OR REGULATIONS', ADDING THAT REGARDLESS OF WHETHER THAT HAPPENS, I…
 - 09/30 06:29 [financialjuice] Document circulated by Trump endorsed by Google, Anthropic, Meta, OpenAI, Musk, Nvidia
 - 09/30 06:32 [financialjuice] Document shared by Trump: Nvidia, OpenAI, Anthropic, xAI, Google to convene regularly on AI safety standards
+- 09/30 07:40 [financialjuice] Senior Saudi official denies any meeting with Israeli officials
