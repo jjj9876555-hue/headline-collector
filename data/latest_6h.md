@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-30 02:01 JST／対象: 09/29 20:01 〜 09/30 02:01 JST（時刻はすべて日本時間）
+生成: 2026-09-30 02:20 JST／対象: 09/29 20:20 〜 09/30 02:20 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 60 | 09/29 20:26 | 09/30 01:58 | 35分（21:39→22:14） |
-| FirstSquawk | 95 | 09/29 20:12 | 09/30 02:00 | 27分（00:53→01:20） |
-| financialjuice | 136 | 09/29 20:14 | 09/30 01:58 | ⚠ 50分（22:45→23:36） |
+| DeItaone | 63 | 09/29 20:26 | 09/30 02:18 | 35分（21:39→22:14） |
+| FirstSquawk | 93 | 09/29 20:23 | 09/30 02:00 | 27分（00:53→01:20） |
+| financialjuice | 147 | 09/29 20:29 | 09/30 02:18 | ⚠ 50分（22:45→23:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 274 行（統合前 294 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 287 行（統合前 306 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 20:12 [FirstSquawk] ELI LILLY: ZEPBOUND ACHIEVES 20.2% WEIGHT REDUCTION VS 13.7% FOR WEGOVY AT 72 WEEKS
-- 09/29 20:14 [financialjuice/FirstSquawk] Rosatom, Iran discuss options to build new nuclear plants - Tass
 - 09/29 20:23 [FirstSquawk] DEUTSCHE BANK RAISES NETFLIX TO BUY FROM HOLD; CUTS TARGET PRICE TO $95 FROM $100
 - 09/29 20:26 [FirstSquawk] BYD SAYS WANG CHUANFU APPOINTED AS COMPANY PRESIDENT
 - 09/29 20:26 [DeItaone] IRAN EXPECTS FORMAL U.S. RESPONSE TODAY Iranian Foreign Minister Abbas Araghchi says Tehran expects a final U.S. response to its proposal today, as Qatari and Pakistani mediators push for an understanding that could revive the Islamabad MoU…
@@ -298,3 +296,18 @@
 - 09/30 01:58 [financialjuice] WATCH LIVE: Fed's Goolsbee Speaks 1 PM ET
 - 09/30 01:58 [DeItaone] BITCOIN TRADERS PILE INTO $90K+ CALLS Bitcoin is trading around $83,238, but options traders are increasingly positioning for a move above $90,000, with $95,000 and $100,000 also popular strikes. Institutional flows are improving too: Bitco…
 - 09/30 02:00 [FirstSquawk] ALTMAN NOT CLOSELY INVOLVED IN SECURITY, EMPLOYEES SAID: NYT
+- 09/30 02:02 [DeItaone] OPENAI REPORTEDLY IGNORED INTERNAL SECURITY WARNINGS OpenAI employees warned executives that advanced AI models were not being adequately monitored during safety testing, but were reportedly overruled as the company prioritized release time…
+- 09/30 02:02 [financialjuice] Israeli security source: No concrete, reliable information directly links Israeli elections to escalation - Kan News
+- 09/30 02:03 [financialjuice] Fed's Barr: Seeing some elevated wage rates in the skilled trades
+- 09/30 02:05 [financialjuice] Fed's Barr: Taking the longer view, we need to be sure we do what it takes to bring supply and demand into balance
+- 09/30 02:06 [financialjuice] Fed's Barr: The resilience of the US economy is striking
+- 09/30 02:06 [financialjuice] OFAC sanctions 10 over Iran MODAFL weapons procurement
+- 09/30 02:08 [DeItaone] OPENAI:INTRODUCING GPT‑6.1 SOL
+- 09/30 02:08 [financialjuice] OpenAI: Introducing GPT-6.1 Sol, launched at one-fifth of Astra's price; cached input cut 95% vs standard price
+- 09/30 02:10 [financialjuice] OpenAI's Altman unveils new AI agent tool called Dots; launched for Pro and Business plans
+- 09/30 02:11 [financialjuice] Fed's Barr: Momentum seems to be building in the economy
+- 09/30 02:12 [financialjuice] The US is looking to Europe to release Diesel from reserves - Politico
+- 09/30 02:13 [financialjuice] fed's Barr: All we're focused on is what the data tell us about the evolving outlook and balance of risks to achieving our congressional mandate.
+- 09/30 02:16 [financialjuice] OpenAI: 35 million people build with ChatGPT Work and Codex every week; new Pro $500 plan includes access to ultrafast processing in Codex and ChatGPT
+- 09/30 02:18 [financialjuice] OpenAI: Preview of private inference, coming this fall, combines confidential computing with strict, verifiable controls
+- 09/30 02:18 [DeItaone] *US LOOKING TO EUROPE TO RELEASE DIESEL FROM RESERVES: POLITICO

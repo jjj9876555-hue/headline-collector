@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-30 02:01 JST／対象: 09/29 02:01 〜 09/30 02:01 JST（時刻はすべて日本時間）
+生成: 2026-09-30 02:20 JST／対象: 09/29 02:20 〜 09/30 02:20 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 61 | 09/29 02:14 | 09/30 01:58 | ⚠ 1092分（02:14→20:26） |
-| FirstSquawk | 371 | 09/29 02:07 | 09/30 02:00 | ⚠ 131分（05:29→07:40） |
-| financialjuice | 325 | 09/29 02:09 | 09/30 01:58 | ⚠ 62分（11:21→12:24） |
+| DeItaone | 63 | 09/29 20:26 | 09/30 02:18 | 35分（21:39→22:14） |
+| FirstSquawk | 370 | 09/29 02:28 | 09/30 02:00 | ⚠ 131分（05:29→07:40） |
+| financialjuice | 330 | 09/29 02:25 | 09/30 02:18 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 735 行（統合前 761 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 741 行（統合前 766 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 02:07 [FirstSquawk] TRUMP OFFERS IRAN ECONOMIC RELIEF FOR CONCRETE NUCLEAR CONCESSIONS - AXIOS
-- 09/29 02:09 [financialjuice] NYC Speaker: OpenAI, Anthropic, Google all agreed to testify
-- 09/29 02:09 [financialjuice] NYC Speaker: OpenAI, Anthropic, Google all agreed to testify $GOOGL
-- 09/29 02:11 [financialjuice] NYC Speaker: Meta also to testify $META
-- 09/29 02:12 [financialjuice] ❗ NYC Speaker: Council issued a subpoena for SpaceXAI to testify. $SPCX
-- 09/29 02:13 [financialjuice] ❗ Iran has agreed to halt uranium enrichment in exchange for the easing of US sanctions - Al Hadath citing sources
-- 09/29 02:14 [DeItaone] Iran Agrees To Suspend Uranium Enrichment In Exchange For US Sanctions Relief - Al Hadath
-- 09/29 02:19 [financialjuice] American source engaged in negotiations with Iran to Al Arabiya: The chances of an agreement are extremely slim.
-- 09/29 02:20 [financialjuice] US Source engaged in negotiations with Iran to Al Arabiya: Gaps are wide and obstacles are major
 - 09/29 02:25 [financialjuice] Fed's Cook: Number and magnitude of any future rate adjustments will be informed by inflation and labor market data, and the economy's reaction to the Fed's actions so far
 - 09/29 02:26 [financialjuice] Fed's Cook: Highly attentive to AI potentially causing a temporary rise in unemployment; Fed has limited tools, rate cuts could fuel inflation
 - 09/29 02:26 [financialjuice] Fed's Cook: Expect to see continued inflation pressure in coming months, from artificial intelligence and conflict in the Middle East
@@ -759,3 +750,18 @@
 - 09/30 01:58 [financialjuice] WATCH LIVE: Fed's Goolsbee Speaks 1 PM ET
 - 09/30 01:58 [DeItaone] BITCOIN TRADERS PILE INTO $90K+ CALLS Bitcoin is trading around $83,238, but options traders are increasingly positioning for a move above $90,000, with $95,000 and $100,000 also popular strikes. Institutional flows are improving too: Bitco…
 - 09/30 02:00 [FirstSquawk] ALTMAN NOT CLOSELY INVOLVED IN SECURITY, EMPLOYEES SAID: NYT
+- 09/30 02:02 [DeItaone] OPENAI REPORTEDLY IGNORED INTERNAL SECURITY WARNINGS OpenAI employees warned executives that advanced AI models were not being adequately monitored during safety testing, but were reportedly overruled as the company prioritized release time…
+- 09/30 02:02 [financialjuice] Israeli security source: No concrete, reliable information directly links Israeli elections to escalation - Kan News
+- 09/30 02:03 [financialjuice] Fed's Barr: Seeing some elevated wage rates in the skilled trades
+- 09/30 02:05 [financialjuice] Fed's Barr: Taking the longer view, we need to be sure we do what it takes to bring supply and demand into balance
+- 09/30 02:06 [financialjuice] Fed's Barr: The resilience of the US economy is striking
+- 09/30 02:06 [financialjuice] OFAC sanctions 10 over Iran MODAFL weapons procurement
+- 09/30 02:08 [DeItaone] OPENAI:INTRODUCING GPT‑6.1 SOL
+- 09/30 02:08 [financialjuice] OpenAI: Introducing GPT-6.1 Sol, launched at one-fifth of Astra's price; cached input cut 95% vs standard price
+- 09/30 02:10 [financialjuice] OpenAI's Altman unveils new AI agent tool called Dots; launched for Pro and Business plans
+- 09/30 02:11 [financialjuice] Fed's Barr: Momentum seems to be building in the economy
+- 09/30 02:12 [financialjuice] The US is looking to Europe to release Diesel from reserves - Politico
+- 09/30 02:13 [financialjuice] fed's Barr: All we're focused on is what the data tell us about the evolving outlook and balance of risks to achieving our congressional mandate.
+- 09/30 02:16 [financialjuice] OpenAI: 35 million people build with ChatGPT Work and Codex every week; new Pro $500 plan includes access to ultrafast processing in Codex and ChatGPT
+- 09/30 02:18 [financialjuice] OpenAI: Preview of private inference, coming this fall, combines confidential computing with strict, verifiable controls
+- 09/30 02:18 [DeItaone] *US LOOKING TO EUROPE TO RELEASE DIESEL FROM RESERVES: POLITICO
