@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-29 19:55 JST／対象: 09/29 07:55 〜 09/29 19:55 JST（時刻はすべて日本時間）
+生成: 2026-09-29 20:18 JST／対象: 09/29 08:18 〜 09/29 20:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 217 | 09/29 08:46 | 09/29 19:41 | ⚠ 49分（09:17→10:06） |
-| financialjuice | 104 | 09/29 08:16 | 09/29 19:54 | ⚠ 62分（11:21→12:24） |
+| FirstSquawk | 218 | 09/29 08:46 | 09/29 20:12 | ⚠ 49分（09:17→10:06） |
+| financialjuice | 98 | 09/29 08:40 | 09/29 20:14 | ⚠ 62分（11:21→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 320 行（統合前 321 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 315 行（統合前 316 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 08:16 [financialjuice] Anthropic’s top two direct clients made up 24% of total FY25 revenue, 12% each
-- 09/29 08:16 [financialjuice] Exclusive-Anthropic fy25 revenue $4.59 billion, up 1,088% y/y from $386 million in fy24: IPO prospectus seen by source
-- 09/29 08:16 [financialjuice] Anthropic's cash, cash equivalents and short-term investments reached $20.28 billion as of Dec. 31, 2025
-- 09/29 08:16 [financialjuice] Exclusive: Anthropic outlines transformative AI technology plans in marketing pitch to IPO investors – prospectus seen by source
-- 09/29 08:16 [financialjuice] Anthropic’s FY25 GAAP operating loss expands to $8.06 billion from $2.98 billion in FY24, prospectus shows
-- 09/29 08:16 [financialjuice] Anthropic fy25 compute and infrastructure costs surge 190% to $7.33 billion, accounting for 58% of operating expenses
-- 09/29 08:16 [financialjuice] Anthropic fy25 GAAP net deficit widens to $41.97 billion from $8.31 billion in fy24, prospectus shows
 - 09/29 08:40 [financialjuice] 15 states take federal aviation administration to court over environmental assessment of commercial drone delivery rules - filing
 - 09/29 08:45 [financialjuice] CSL Ltd collaborates with Amazon Web Services
 - 09/29 08:46 [FirstSquawk] JAPAN’S NIKKEI FUTURES RISE 0.3% IN EARLY TRADE; 10-YEAR JGB FUTURES FALL 0.16 POINT
@@ -344,3 +337,5 @@
 - 09/29 19:41 [FirstSquawk] IRAN'S FOREIGN MINISTER STATED THAT A SEVEN-POINT PLAN FROM TEHRAN WAS SHARED WITH WASHINGTON VIA QATAR, AND IRAN IS NOW WAITING FOR AN OFFICIAL RESPONSE FROM THE U.S.
 - 09/29 19:42 [financialjuice] Italy's Energy Minister: Will speak with US Energy Secretary Wright later on Tuesday, will ask about potential US diesel export ban.
 - 09/29 19:54 [financialjuice] Qatar Foreign Ministry Spokesman: Exchanging messages, possible solutions with US-Iran.
+- 09/29 20:12 [FirstSquawk] ELI LILLY: ZEPBOUND ACHIEVES 20.2% WEIGHT REDUCTION VS 13.7% FOR WEGOVY AT 72 WEEKS
+- 09/29 20:14 [financialjuice] Rosatom, Iran discuss options to build new nuclear plants - Tass
