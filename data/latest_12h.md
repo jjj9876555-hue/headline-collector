@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-01 02:22 JST／対象: 09/30 14:22 〜 10/01 02:22 JST（時刻はすべて日本時間）
+生成: 2026-10-01 02:38 JST／対象: 09/30 14:38 〜 10/01 02:38 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 47 | 09/30 18:55 | 10/01 02:19 | ⚠ 77分（00:53→02:11） |
-| FirstSquawk | 163 | 09/30 14:33 | 10/01 02:02 | 31分（17:30→18:02） |
-| financialjuice | 151 | 09/30 14:59 | 10/01 02:18 | ⚠ 54分（16:01→16:55） |
+| DeItaone | 51 | 09/30 18:55 | 10/01 02:31 | ⚠ 77分（00:53→02:11） |
+| FirstSquawk | 170 | 09/30 14:38 | 10/01 02:35 | 31分（17:30→18:02） |
+| financialjuice | 157 | 09/30 14:59 | 10/01 02:33 | ⚠ 54分（16:01→16:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 352 行（統合前 362 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 369 行（統合前 379 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 14:33 [FirstSquawk] Nikkei climbs 1.5%, driven by gains in chip and bank stocks — WSJ
 - 09/30 14:38 [FirstSquawk] Gold slips as Fed hike bets and Middle East tensions underpin the U.S. dollar — FX
 - 09/30 14:39 [FirstSquawk] Kazakhstan restarts enforcement proceedings to recover 2.3 trillion tenge fine from NCOC — IFX
 - 09/30 14:48 [FirstSquawk] HSBC calls its stablecoin RedCoin as it targets 3.3 million PayMe users
@@ -376,3 +375,21 @@
 - 10/01 02:15 [DeItaone] GOLDMAN PUSHES NEXT FED HIKE TO DECEMBER Goldman Sachs now says an October Fed hike is unlikely, pushing its forecast for the next increase to December after softer inflation data. Core PCE fell to 3.01% YoY, well below expectations, with G…
 - 10/01 02:18 [financialjuice] Trump: Last US forces are leaving iraq - Truth Social
 - 10/01 02:19 [DeItaone] TRUMP: WE LEAVE IRAQ WITH A WONDERFUL NEW PRIME MINISTER
+- 10/01 02:22 [DeItaone] TRUMP ON TRUTH SOCIAL: I AM PLEASED TO ANNOUNCE, THE LAST AMERICAN FORCES ARE LEAVING IRAQ
+- 10/01 02:24 [financialjuice] A Senior Political source on the attempted attack on a flight from Dubai: The terrorist wanted to undermine the Abraham Accords. - Channel 12 News
+- 10/01 02:27 [financialjuice] WATCH LIVE: Trump hosts a Hispanic Heritage Month celebration at the White House
+- 10/01 02:28 [financialjuice] Legislation to cap electricity bill hikes tied to data centers fails to gain enough votes to advance in US Senate; voting continues
+- 10/01 02:29 [financialjuice] OECD Global Forum on Steel Excess Capacity adopts framework to avoid market-distorting subsidies that encourage loss-making steel plants - Statement
+- 10/01 02:30 [FirstSquawk] US SENATE BILL TO CAP DATA CENTER-DRIVEN ELECTRICITY BILL HIKES FAILS TO GET ENOUGH VOTES TO ADVANCE; VOTING CONTINUES
+- 10/01 02:30 [DeItaone] U.S. 10-YEAR TREASURY YIELD TOUCHES 5.304%, HIGHEST SINCE MAY 2002
+- 10/01 02:30 [FirstSquawk] OPENAI SAYS IT HAS IDENTIFIED AND DISRUPTED A COORDINATED CAMPAIGN DESIGNED TO EXTRACT PROTECTED REASONING FROM ITS MODELS, ATTRIBUTING A CORE ACTIVITY TO INDIVIDUALS TIED TO KIMI DEVELOPER MOONSHOT AI.
+- 10/01 02:30 [FirstSquawk] OPENAI SAYS THE OPERATORS DID NOT BREAK ITS ENCRYPTION, COMPROMISE A DATABASE OR GAIN DIRECT ACCESS TO STORED USER CONVERSATIONS.
+- 10/01 02:30 [DeItaone] U.S. 10-YEAR YIELD HITS 24-YEAR HIGH The 10-year Treasury yield surged to 5.304%, surpassing its 2007 peak and reaching the highest level since May 2002. Persistent energy-driven inflation concerns and stronger U.S. economic data are fuelin…
+- 10/01 02:31 [DeItaone] ANTHROPIC: CLAUDE FOR GOVERNMENT IS NOW GENERALLY AVAILABLE
+- 10/01 02:33 [financialjuice] Anthropic: Claude for Government is now generally available; Claude Code CLI and Claude for Microsoft 365 also now available in early access
+- 10/01 02:33 [FirstSquawk] TRUMP SAYS 'OUR NATION IS DOING REALLY WELL, IN MANY WAYS, BETTER THAN EVER BEFORE, BUT THE PUBLIC JUST DOESN'T KNOW HOW WELL WE'RE DOING', ADDING THAT 'THE FAKE NEWS MEDIA REFUSES TO DISSEMINATE OUR RECORD SETTING NUMBERS, SO I'M DOING THE…
+- 10/01 02:33 [financialjuice] Global Forum on steel excess capacity member countries to apply tariffs and other trade measures to deter imports from countries that are sources of excess capacity where appropriate - Statement
+- 10/01 02:35 [FirstSquawk] ANTHROPIC EXPANDS CLAUDE AVAILABILITY: CLAUDE CODE CLI & CLAUDE FOR MICROSOFT 365 ENTER EARLY ACCESS; CLAUDE FOR GOVERNMENT NOW GENERALLY AVAILABLE
+- 10/01 02:35 [FirstSquawk] TRUMP SAYS HE IS PLEASED TO ANNOUNCE THAT 'THE LAST AMERICAN FORCES ARE LEAVING IRAQ', CALLING IT 'A GREAT DAY FOR AMERICA' AND SAYING THE U.S. LEAVES WITH IRAQ HAVING 'A WONDERFUL NEW PRIME MINISTER, ALI AL-ZAIDI', WHOM HE SUPPORTED AND EN…
+- 10/01 02:35 [FirstSquawk] TRUMP SAYS OPERATION INHERENT RESOLVE — LAUNCHED IN 2003 UNDER GEORGE W. BUSH AND CONTINUED UNDER OBAMA IN 2014 AND JOE BIDEN — 'ENDS IN 2026 UNDER THE LEADERSHIP OF PRESIDENT DONALD J. TRUMP', CALLING IT 'A VICTORY FOR THE UNITED STATES, A…
+- 10/01 02:35 [FirstSquawk] TRUMP SAYS THAT UNLIKE AFGHANISTAN, 'WHERE MUCH MILITARY EQUIPMENT AND EVERYTHING ELSE WAS LEFT BEHIND, AND 13 WARRIORS LIE DEAD', THE 'ORDERLY DEPARTURE OF COALITION FORCES AND EQUIPMENT FROM ERBIL AIR BASE MARKS THE END OF A VERY EXPENSIV…

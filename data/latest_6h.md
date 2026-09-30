@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 02:22 JST／対象: 09/30 20:22 〜 10/01 02:22 JST（時刻はすべて日本時間）
+生成: 2026-10-01 02:38 JST／対象: 09/30 20:38 〜 10/01 02:38 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 31 | 09/30 20:30 | 10/01 02:19 | ⚠ 77分（00:53→02:11） |
-| FirstSquawk | 70 | 09/30 20:30 | 10/01 02:02 | 16分（01:09→01:25） |
-| financialjuice | 94 | 09/30 20:32 | 10/01 02:18 | 35分（01:01→01:37） |
+| DeItaone | 34 | 09/30 20:48 | 10/01 02:31 | ⚠ 77分（00:53→02:11） |
+| FirstSquawk | 76 | 09/30 20:38 | 10/01 02:35 | 27分（02:02→02:30） |
+| financialjuice | 98 | 09/30 20:52 | 10/01 02:33 | 35分（01:01→01:37） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 188 行（統合前 196 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 201 行（統合前 209 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 20:30 [FirstSquawk] PORSCHE SE SAYS GERMAN COURT HAS DISMISSED $6.1 BILLION LAWSUIT BROUGHT BY INVESTORS
-- 09/30 20:30 [DeItaone] *BURNHAM: COULD GO ALL THE WAY AND REJOIN EU
-- 09/30 20:32 [financialjuice] Poll: Brent crude oil projected to average $89.05 a barrel in 2026 versus $85.08 forecast in August
-- 09/30 20:32 [financialjuice] Poll: US crude oil set to average $83.90 per barrel in 2026 versus $80.20 forecast in August
-- 09/30 20:35 [FirstSquawk] IG METALL: VW PLANS TO TERMINATE LABOUR PACTS
 - 09/30 20:38 [FirstSquawk] CONAGRA Q1 2027 EARNINGS - ADJ. EPS 41C (EST 29C) - ADJ. OPER MARGIN 11.5% (EST 9.2%) - SALES $2.6B (EST $2.59B) - STILL SEES FY ADJ OPER MARGIN 10% TO 10.5% (EST 10.2%) - SEES FY ORGANIC NET SALES -1% TO -3% (EST -1.93%)
 - 09/30 20:48 [DeItaone] *EXPLOSION HEARD IN IRAN'S ZAHEDAN: FARS
 - 09/30 20:50 [FirstSquawk] EXPLOSION SOUND HEARD NEAR JAMOOHI BLVD IN ZAHEDAN; CAUSE UNKNOWN - FARS
@@ -212,3 +207,21 @@
 - 10/01 02:15 [DeItaone] GOLDMAN PUSHES NEXT FED HIKE TO DECEMBER Goldman Sachs now says an October Fed hike is unlikely, pushing its forecast for the next increase to December after softer inflation data. Core PCE fell to 3.01% YoY, well below expectations, with G…
 - 10/01 02:18 [financialjuice] Trump: Last US forces are leaving iraq - Truth Social
 - 10/01 02:19 [DeItaone] TRUMP: WE LEAVE IRAQ WITH A WONDERFUL NEW PRIME MINISTER
+- 10/01 02:22 [DeItaone] TRUMP ON TRUTH SOCIAL: I AM PLEASED TO ANNOUNCE, THE LAST AMERICAN FORCES ARE LEAVING IRAQ
+- 10/01 02:24 [financialjuice] A Senior Political source on the attempted attack on a flight from Dubai: The terrorist wanted to undermine the Abraham Accords. - Channel 12 News
+- 10/01 02:27 [financialjuice] WATCH LIVE: Trump hosts a Hispanic Heritage Month celebration at the White House
+- 10/01 02:28 [financialjuice] Legislation to cap electricity bill hikes tied to data centers fails to gain enough votes to advance in US Senate; voting continues
+- 10/01 02:29 [financialjuice] OECD Global Forum on Steel Excess Capacity adopts framework to avoid market-distorting subsidies that encourage loss-making steel plants - Statement
+- 10/01 02:30 [FirstSquawk] US SENATE BILL TO CAP DATA CENTER-DRIVEN ELECTRICITY BILL HIKES FAILS TO GET ENOUGH VOTES TO ADVANCE; VOTING CONTINUES
+- 10/01 02:30 [DeItaone] U.S. 10-YEAR TREASURY YIELD TOUCHES 5.304%, HIGHEST SINCE MAY 2002
+- 10/01 02:30 [FirstSquawk] OPENAI SAYS IT HAS IDENTIFIED AND DISRUPTED A COORDINATED CAMPAIGN DESIGNED TO EXTRACT PROTECTED REASONING FROM ITS MODELS, ATTRIBUTING A CORE ACTIVITY TO INDIVIDUALS TIED TO KIMI DEVELOPER MOONSHOT AI.
+- 10/01 02:30 [FirstSquawk] OPENAI SAYS THE OPERATORS DID NOT BREAK ITS ENCRYPTION, COMPROMISE A DATABASE OR GAIN DIRECT ACCESS TO STORED USER CONVERSATIONS.
+- 10/01 02:30 [DeItaone] U.S. 10-YEAR YIELD HITS 24-YEAR HIGH The 10-year Treasury yield surged to 5.304%, surpassing its 2007 peak and reaching the highest level since May 2002. Persistent energy-driven inflation concerns and stronger U.S. economic data are fuelin…
+- 10/01 02:31 [DeItaone] ANTHROPIC: CLAUDE FOR GOVERNMENT IS NOW GENERALLY AVAILABLE
+- 10/01 02:33 [financialjuice] Anthropic: Claude for Government is now generally available; Claude Code CLI and Claude for Microsoft 365 also now available in early access
+- 10/01 02:33 [FirstSquawk] TRUMP SAYS 'OUR NATION IS DOING REALLY WELL, IN MANY WAYS, BETTER THAN EVER BEFORE, BUT THE PUBLIC JUST DOESN'T KNOW HOW WELL WE'RE DOING', ADDING THAT 'THE FAKE NEWS MEDIA REFUSES TO DISSEMINATE OUR RECORD SETTING NUMBERS, SO I'M DOING THE…
+- 10/01 02:33 [financialjuice] Global Forum on steel excess capacity member countries to apply tariffs and other trade measures to deter imports from countries that are sources of excess capacity where appropriate - Statement
+- 10/01 02:35 [FirstSquawk] ANTHROPIC EXPANDS CLAUDE AVAILABILITY: CLAUDE CODE CLI & CLAUDE FOR MICROSOFT 365 ENTER EARLY ACCESS; CLAUDE FOR GOVERNMENT NOW GENERALLY AVAILABLE
+- 10/01 02:35 [FirstSquawk] TRUMP SAYS HE IS PLEASED TO ANNOUNCE THAT 'THE LAST AMERICAN FORCES ARE LEAVING IRAQ', CALLING IT 'A GREAT DAY FOR AMERICA' AND SAYING THE U.S. LEAVES WITH IRAQ HAVING 'A WONDERFUL NEW PRIME MINISTER, ALI AL-ZAIDI', WHOM HE SUPPORTED AND EN…
+- 10/01 02:35 [FirstSquawk] TRUMP SAYS OPERATION INHERENT RESOLVE — LAUNCHED IN 2003 UNDER GEORGE W. BUSH AND CONTINUED UNDER OBAMA IN 2014 AND JOE BIDEN — 'ENDS IN 2026 UNDER THE LEADERSHIP OF PRESIDENT DONALD J. TRUMP', CALLING IT 'A VICTORY FOR THE UNITED STATES, A…
+- 10/01 02:35 [FirstSquawk] TRUMP SAYS THAT UNLIKE AFGHANISTAN, 'WHERE MUCH MILITARY EQUIPMENT AND EVERYTHING ELSE WAS LEFT BEHIND, AND 13 WARRIORS LIE DEAD', THE 'ORDERLY DEPARTURE OF COALITION FORCES AND EQUIPMENT FROM ERBIL AIR BASE MARKS THE END OF A VERY EXPENSIV…

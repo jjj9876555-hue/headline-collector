@@ -7,57 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-01 02:22 JST／対象: 09/30 02:22 〜 10/01 02:22 JST（時刻はすべて日本時間）
+生成: 2026-10-01 02:38 JST／対象: 09/30 02:38 〜 10/01 02:38 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 72 | 09/30 02:23 | 10/01 02:19 | ⚠ 789分（05:46→18:55） |
-| FirstSquawk | 383 | 09/30 02:31 | 10/01 02:02 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 363 | 09/30 02:25 | 10/01 02:18 | ⚠ 80分（10:57→12:18） |
+| DeItaone | 74 | 09/30 02:40 | 10/01 02:31 | ⚠ 789分（05:46→18:55） |
+| FirstSquawk | 378 | 09/30 02:43 | 10/01 02:35 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 350 | 09/30 02:40 | 10/01 02:33 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 801 行（統合前 822 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 785 行（統合前 806 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 02:23 [DeItaone] WHITE HOUSE EYES EUROPE’S DIESEL RESERVES The Trump administration is considering asking European governments to release diesel from strategic reserves as it searches for alternatives to a U.S. export ban. Europe reportedly holds more than …
-- 09/30 02:25 [financialjuice] Fed's Goolsbee: Business margins are high but starting to thin
-- 09/30 02:26 [DeItaone] FED'S BARR: I SEE US NOT GETTING TO 2% INFLATION TARGET IN A TIMELY WAY UNLESS WE ADJUST OUR POLICY
-- 09/30 02:27 [financialjuice] Fed's Barr: I see us not getting to the 2% inflation target in a timely way unless we adjust our policy.
-- 09/30 02:27 [financialjuice] Fed's Barr: Last hike was appropriate, and I think we will likely need further adjustments.
-- 09/30 02:28 [financialjuice] Fed's Goolsbee: Expectation of productivity gains from AI in the future creates a high danger of overheating now
-- 09/30 02:30 [financialjuice] Fed's Musalem: Clear framework helps policy transmission
-- 09/30 02:30 [financialjuice] Fed's Musalem: Fed should communicate how it turns info into policy
-- 09/30 02:31 [financialjuice] Fed's Musalem: Framework doesn't promise a specific interest rate path
-- 09/30 02:31 [financialjuice] Fed's Musalem: If the public understands the framework, private expectations line up with the Fed's intentions, improving trade-offs between inflation and employment
-- 09/30 02:31 [financialjuice] Fed's Musalem: Central banks should also avoid 'exiting the conversation altogether', would pose risks in terms of inflation
-- 09/30 02:31 [FirstSquawk] FED'S BARR SAYS THE LAST HIKE WAS APPROPRIATE AND THAT HE THINKS THE FED WILL LIKELY NEED FURTHER ADJUSTMENTS, SEEING THE U.S. NOT GETTING TO ITS 2% INFLATION TARGET IN A TIMELY WAY UNLESS POLICY IS ADJUSTED, WITH ALL THE FED'S FOCUS ON WHA…
-- 09/30 02:31 [financialjuice] Fed's Musalem: A central bank that keeps its framework to itself forces market participants to guess at its reaction, rather than focus on data
-- 09/30 02:31 [FirstSquawk] FED'S BARR SAYS THE RESILIENCE OF THE U.S. ECONOMY IS STRIKING AND THAT MOMENTUM SEEMS TO BE BUILDING, ADDING THAT HE DOESN'T HAVE A RECESSION IN HIS BASE CASE BUT THAT THE FED NEEDS TO BE SURE IT DOES WHAT IT TAKES TO BRING SUPPLY AND DEMA…
-- 09/30 02:31 [financialjuice] Fed's Musalem: Central bankers needn't make promises, but should tell the public how and why the central bank makes policy decisions
-- 09/30 02:31 [FirstSquawk] FED'S BARR SAYS FED INDEPENDENCE HELPS IT BETTER SERVE THE AMERICAN PEOPLE.
-- 09/30 02:32 [financialjuice] Fed's Musalem: A predictable, explained framework, is part of what makes a central bank democratically legitimate.
-- 09/30 02:32 [financialjuice] Fed's Musalem: Delegated power over interest rates also obligates the Fed to explain 'how and why that power is used'
-- 09/30 02:32 [financialjuice] Fed's Musalem: If the public understands the framework, private expectations line up with the fed's intentions, improves trade-offs between inflation and employment
-- 09/30 02:32 [FirstSquawk] FED'S MUSALEM SAYS CENTRAL BANKERS NEEDN'T MAKE PROMISES BUT SHOULD TELL THE PUBLIC HOW AND WHY THE CENTRAL BANK MAKES POLICY DECISIONS, ARGUING THAT COMMUNICATING A WELL-ARTICULATED FRAMEWORK — INCLUDING TWO OR THREE LIKELY SCENARIOS — MAK…
-- 09/30 02:32 [financialjuice] Fed's Musalem: The 'Hall of Mirrors' occurs when the Fed announces a forecast, not a framework.
-- 09/30 02:32 [FirstSquawk] FED'S MUSALEM SAYS A CENTRAL BANK THAT KEEPS ITS FRAMEWORK TO ITSELF FORCES MARKET PARTICIPANTS TO GUESS AT ITS REACTION RATHER THAN FOCUS ON DATA, WHICH 'ADDS NOISE' AND RESULTS IN HIGHER AND MORE VOLATILE INTEREST RATES AND FINANCING COST…
-- 09/30 02:32 [FirstSquawk] FED'S MUSALEM SAYS IF THE PUBLIC UNDERSTANDS THE FRAMEWORK, PRIVATE EXPECTATIONS LINE UP WITH THE FED'S INTENTIONS, IMPROVING THE TRADE-OFFS BETWEEN INFLATION AND EMPLOYMENT AND GUARDING AGAINST INFLATIONARY AND DEFLATIONARY SPIRALS, ADDING…
-- 09/30 02:32 [FirstSquawk] ISRAELI SECURITY SOURCE: NO CONCRETE OR RELIABLE INFORMATION LINKS ISRAELI ELECTIONS TO ESCALATION — KAN NEWS
-- 09/30 02:32 [financialjuice] CrowdStrike brings Falcon platform to OpenAI marketplace
-- 09/30 02:34 [FirstSquawk] KALSHI IN ADVANCED TALKS TO RAISE $1 BILLION IN FRESH FUNDING; TIGER GLOBAL & DRAGONEER AMONG POTENTIAL INVESTORS
-- 09/30 02:34 [financialjuice] Fed's Barr - Listen Live
-- 09/30 02:35 [FirstSquawk] US LAWMAKERS URGE ENERGY REGULATORS TO REJECT BLACKROCK-LED CONSORTIUM’S $33.4 BILLION AES ACQUISITION
-- 09/30 02:35 [financialjuice] Senior Jordanian official denies Israeli media reports that a Jordanian representative participated in a meeting with Netanyahu during his recent visit to the UAE - Axios
-- 09/30 02:36 [financialjuice] OpenAI targets $30 billion in funding at $1.4 trillion valuation
-- 09/30 02:36 [FirstSquawk] OPENAI'S ALTMAN HAS UNVEILED A NEW AI AGENT TOOL CALLED 'DOTS', OFFERING ALWAYS-ON AUTONOMOUS AGENTS ACROSS PAID TIERS, AND INTRODUCED GPT-6.1 SOL AT ONE-FIFTH OF ASTRA'S PRICE WITH A CUT TO ITS CACHED INPUT VERSUS STANDARD PRICE.
-- 09/30 02:36 [FirstSquawk] OPENAI'S ALTMAN SAYS IT IS WORKING WITH MICROSOFT TO INTEGRATE SPECIALIST DOTS WITH THEIR ENTERPRISE GOVERNANCE AND SECURITY CONTROLS IN AGENT 365.
-- 09/30 02:36 [FirstSquawk] WHITE HOUSE EYES EUROPE DIESEL RESERVE RELEASE TO AVOID EXPORT BAN - POLITICO
-- 09/30 02:37 [FirstSquawk] JORDANIAN OFFICIAL DENIES REPORTS THAT JORDANIAN REPRESENTATIVE JOINED NETANYAHU MEETING DURING UAE VISIT — AXIOS
 - 09/30 02:40 [financialjuice] Fed's Barr: Economy is quite strong right now - Detroit Radio Station WJR
 - 09/30 02:40 [DeItaone] OPENAI SEEKS $30 BILLION AT $1.4 TRILLION VALUATION OpenAI is targeting at least $30 billion in new funding at a roughly $1.4 trillion valuation, Bloomberg reports, after postponing its IPO plans. The financing would serve as a bridge round…
 - 09/30 02:41 [financialjuice] Fed's Barr: People are frustrated and uncertain because inflation has been too high.
@@ -825,3 +791,21 @@
 - 10/01 02:15 [DeItaone] GOLDMAN PUSHES NEXT FED HIKE TO DECEMBER Goldman Sachs now says an October Fed hike is unlikely, pushing its forecast for the next increase to December after softer inflation data. Core PCE fell to 3.01% YoY, well below expectations, with G…
 - 10/01 02:18 [financialjuice] Trump: Last US forces are leaving iraq - Truth Social
 - 10/01 02:19 [DeItaone] TRUMP: WE LEAVE IRAQ WITH A WONDERFUL NEW PRIME MINISTER
+- 10/01 02:22 [DeItaone] TRUMP ON TRUTH SOCIAL: I AM PLEASED TO ANNOUNCE, THE LAST AMERICAN FORCES ARE LEAVING IRAQ
+- 10/01 02:24 [financialjuice] A Senior Political source on the attempted attack on a flight from Dubai: The terrorist wanted to undermine the Abraham Accords. - Channel 12 News
+- 10/01 02:27 [financialjuice] WATCH LIVE: Trump hosts a Hispanic Heritage Month celebration at the White House
+- 10/01 02:28 [financialjuice] Legislation to cap electricity bill hikes tied to data centers fails to gain enough votes to advance in US Senate; voting continues
+- 10/01 02:29 [financialjuice] OECD Global Forum on Steel Excess Capacity adopts framework to avoid market-distorting subsidies that encourage loss-making steel plants - Statement
+- 10/01 02:30 [FirstSquawk] US SENATE BILL TO CAP DATA CENTER-DRIVEN ELECTRICITY BILL HIKES FAILS TO GET ENOUGH VOTES TO ADVANCE; VOTING CONTINUES
+- 10/01 02:30 [DeItaone] U.S. 10-YEAR TREASURY YIELD TOUCHES 5.304%, HIGHEST SINCE MAY 2002
+- 10/01 02:30 [FirstSquawk] OPENAI SAYS IT HAS IDENTIFIED AND DISRUPTED A COORDINATED CAMPAIGN DESIGNED TO EXTRACT PROTECTED REASONING FROM ITS MODELS, ATTRIBUTING A CORE ACTIVITY TO INDIVIDUALS TIED TO KIMI DEVELOPER MOONSHOT AI.
+- 10/01 02:30 [FirstSquawk] OPENAI SAYS THE OPERATORS DID NOT BREAK ITS ENCRYPTION, COMPROMISE A DATABASE OR GAIN DIRECT ACCESS TO STORED USER CONVERSATIONS.
+- 10/01 02:30 [DeItaone] U.S. 10-YEAR YIELD HITS 24-YEAR HIGH The 10-year Treasury yield surged to 5.304%, surpassing its 2007 peak and reaching the highest level since May 2002. Persistent energy-driven inflation concerns and stronger U.S. economic data are fuelin…
+- 10/01 02:31 [DeItaone] ANTHROPIC: CLAUDE FOR GOVERNMENT IS NOW GENERALLY AVAILABLE
+- 10/01 02:33 [financialjuice] Anthropic: Claude for Government is now generally available; Claude Code CLI and Claude for Microsoft 365 also now available in early access
+- 10/01 02:33 [FirstSquawk] TRUMP SAYS 'OUR NATION IS DOING REALLY WELL, IN MANY WAYS, BETTER THAN EVER BEFORE, BUT THE PUBLIC JUST DOESN'T KNOW HOW WELL WE'RE DOING', ADDING THAT 'THE FAKE NEWS MEDIA REFUSES TO DISSEMINATE OUR RECORD SETTING NUMBERS, SO I'M DOING THE…
+- 10/01 02:33 [financialjuice] Global Forum on steel excess capacity member countries to apply tariffs and other trade measures to deter imports from countries that are sources of excess capacity where appropriate - Statement
+- 10/01 02:35 [FirstSquawk] ANTHROPIC EXPANDS CLAUDE AVAILABILITY: CLAUDE CODE CLI & CLAUDE FOR MICROSOFT 365 ENTER EARLY ACCESS; CLAUDE FOR GOVERNMENT NOW GENERALLY AVAILABLE
+- 10/01 02:35 [FirstSquawk] TRUMP SAYS HE IS PLEASED TO ANNOUNCE THAT 'THE LAST AMERICAN FORCES ARE LEAVING IRAQ', CALLING IT 'A GREAT DAY FOR AMERICA' AND SAYING THE U.S. LEAVES WITH IRAQ HAVING 'A WONDERFUL NEW PRIME MINISTER, ALI AL-ZAIDI', WHOM HE SUPPORTED AND EN…
+- 10/01 02:35 [FirstSquawk] TRUMP SAYS OPERATION INHERENT RESOLVE — LAUNCHED IN 2003 UNDER GEORGE W. BUSH AND CONTINUED UNDER OBAMA IN 2014 AND JOE BIDEN — 'ENDS IN 2026 UNDER THE LEADERSHIP OF PRESIDENT DONALD J. TRUMP', CALLING IT 'A VICTORY FOR THE UNITED STATES, A…
+- 10/01 02:35 [FirstSquawk] TRUMP SAYS THAT UNLIKE AFGHANISTAN, 'WHERE MUCH MILITARY EQUIPMENT AND EVERYTHING ELSE WAS LEFT BEHIND, AND 13 WARRIORS LIE DEAD', THE 'ORDERLY DEPARTURE OF COALITION FORCES AND EQUIPMENT FROM ERBIL AIR BASE MARKS THE END OF A VERY EXPENSIV…
