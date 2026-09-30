@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-30 18:21 JST／対象: 09/30 12:21 〜 09/30 18:21 JST（時刻はすべて日本時間）
+生成: 2026-09-30 18:40 JST／対象: 09/30 12:40 〜 09/30 18:40 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 84 | 09/30 12:25 | 09/30 18:07 | 31分（17:30→18:02） |
-| financialjuice | 43 | 09/30 13:02 | 09/30 18:05 | ⚠ 58分（14:00→14:59） |
+| FirstSquawk | 90 | 09/30 12:44 | 09/30 18:38 | 31分（17:30→18:02） |
+| financialjuice | 56 | 09/30 13:02 | 09/30 18:33 | ⚠ 58分（14:00→14:59） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 127 行（統合前 127 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 146 行（統合前 146 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 12:25 [FirstSquawk] Human Made ramps up global expansion as Japanese fashion brand
-- 09/30 12:32 [FirstSquawk] Trump expected to announce South Korea investment projects as early as Wednesday, YONHAP says
-- 09/30 12:36 [FirstSquawk] Japan 2-year JGB auction sees bid-to-cover ratio of 3.89
 - 09/30 12:44 [FirstSquawk] More than 3,000 food items in Japan to face price hikes in October
 - 09/30 12:48 [FirstSquawk] New Zealand dollar consolidates near 0.5625 support amid uncertain outlook - FX
 - 09/30 12:54 [FirstSquawk] Boeing chosen by Pentagon to build new carrier fighter jet replacing F/A-18 — SCMP
@@ -151,3 +148,25 @@
 - 09/30 18:04 [FirstSquawk] META AVOIDS BILLIONS IN FEDERAL TAXES BY CLASSIFYING ITS DATA CENTRES AS EXPERIMENTAL - NYT
 - 09/30 18:05 [financialjuice] Meta told IRS data centers are experimental, could fail - NYT
 - 09/30 18:07 [FirstSquawk] ISRAELI OFFICIAL TO I24 REPORTER: INCIDENT ABOARD THE FLYDUBAI FLIGHT WAS A TERRORIST ATTACK.
+- 09/30 18:29 [financialjuice] Japan PM Takaichi: Takaichi administration will boost supply side of the economy.
+- 09/30 18:30 [financialjuice] Japan PM Takaichi: Government will set a clearer path of economy and fiscal policy management.
+- 09/30 18:30 [financialjuice] UKMTO gets time-late report of incident in Hormuz.
+- 09/30 18:31 [financialjuice] BoE FPC: Likelihood financial risks crystallise at same time has risen since July.
+- 09/30 18:32 [financialjuice] BoE FPC: Rise in oil and gas prices has led to more protracted supply shock.
+- 09/30 18:32 [financialjuice] GERMAN 10 YR BUND YIELD ACTUAL 3.58% (FORECAST -, PREVIOUS 3.39%) $MACRO
+- 09/30 18:32 [financialjuice] GERMAN 10 YR BUND BID-TO-COVER ACTUAL 1.2 (FORECAST -, PREVIOUS 1.5) $MACRO
+- 09/30 18:32 [financialjuice] BoE FPC: Frontier AI breaches reinforce need for financial firms to prepare for risk, engage wth UK authorities.
+- 09/30 18:32 [financialjuice] BoE FPC: BoE will set out proposed bank leverage ratio reforms and gilt repo reforms in early 2027.
+- 09/30 18:32 [financialjuice] BoE FPC: Planned market-based reforms to gilt repo will mitigate risks from leverage ratio changes.
+- 09/30 18:32 [financialjuice] BoE FPC: Financial markets so far have been resilient to higher energy prices and bond yields.
+- 09/30 18:33 [financialjuice] BoE FPC: Risky credit markets, including parts of private credit, remain vulnerable to tighter financing conditions.
+- 09/30 18:33 [financialjuice] BoE FPC: UK households and corporates remain resilient, banking system remains appropriately capitalised.
+- 09/30 18:37 [FirstSquawk] BANK OF ENGLAND FPC SAYS CHANCES OF FINANCIAL RISKS OCCURRING SIMULTANEOUSLY HAVE INCREASED SINCE JULY.
+- 09/30 18:38 [FirstSquawk] BOE FPC REPORTS THAT INCREASING OIL AND GAS PRICES HAVE CAUSED A LONGER SUPPLY DISRUPTION.
+- 09/30 18:38 [FirstSquawk] BOE FPC SAYS FRONTIER AI BREACHES SHOW FINANCIAL FIRMS MUST PREPARE FOR RISKS AND WORK WITH UK AUTHORITIES.
+- 09/30 18:38 [FirstSquawk] BOE PLANS TO INTRODUCE PROPOSED REFORMS FOR BANK LEVERAGE RATIOS AND GILT REPO IN EARLY 2027.
+- 09/30 18:38 [FirstSquawk] BOE FPC SAYS NEW MARKET PLANS FOR GILT REPO WILL REDUCE RISKS FROM LEVERAGE RATIO CHANGES.
+- 09/30 18:38 [FirstSquawk] BOE FPC STATES THAT FINANCIAL MARKETS HAVE REMAINED STRONG DESPITE RISING ENERGY COSTS AND BOND YIELDS.
+- 09/30 18:38 [FirstSquawk] BANK OF ENGLAND'S BAILEY STRESSES THE NEED FOR INCREASED TESTING OF AI MODELS BEFORE AND AFTER THEY GO LIVE, PRIOR TO REGULATIONS.
+- 09/30 18:38 [FirstSquawk] BOE FPC WARNED THAT RISKY CREDIT MARKETS, ESPECIALLY IN PRIVATE CREDIT, ARE STILL SENSITIVE TO TIGHTER FINANCING.
+- 09/30 18:38 [FirstSquawk] BOE FPC STATES UK HOUSEHOLDS AND BUSINESSES ARE STRONG, BANKING SYSTEM IS WELL-CAPITALIZED.

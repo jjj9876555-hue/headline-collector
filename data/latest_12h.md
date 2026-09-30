@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-30 18:21 JST／対象: 09/30 06:21 〜 09/30 18:21 JST（時刻はすべて日本時間）
+生成: 2026-09-30 18:40 JST／対象: 09/30 06:40 〜 09/30 18:40 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 198 | 09/30 06:28 | 09/30 18:07 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 117 | 09/30 06:26 | 09/30 18:05 | ⚠ 80分（10:57→12:18） |
+| FirstSquawk | 202 | 09/30 08:05 | 09/30 18:38 | 31分（17:30→18:02） |
+| financialjuice | 123 | 09/30 07:40 | 09/30 18:33 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 314 行（統合前 315 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 324 行（統合前 325 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 06:26 [financialjuice] Trump releases document approved by all executives at White House on Tuesday: Truth Social
-- 09/30 06:27 [financialjuice] Document shared by Trump: Each company should apply four layers of controls and audits
-- 09/30 06:27 [financialjuice] Document shared by Trump: implement strong internal controls to oversee model capabilities and alignment
-- 09/30 06:28 [FirstSquawk] GOLDMAN SACHS PRIVATE CREDIT CORP SAYS ABOUT 7,605,110.708 SHARES — 2.03% OF THOSE OUTSTANDING — WERE TENDERED BEFORE THE OFFER EXPIRATION ON SEPT. 22, 2026, WITH THE FUND TO REPURCHASE 100% OF THE REQUESTED AMOUNTS, AND THE REPURCHASE RATE…
-- 09/30 06:28 [FirstSquawk] GOLDMAN SACHS PRIVATE CREDIT CORP SAYS IT WAS THE ONLY FUND IN ITS PEER GROUP WITH REPURCHASE REQUESTS BELOW THE 5% QUARTERLY OFFER IN 2026, GENERATING $400 MLN IN GROSS INFLOWS IN Q3 2026 — 4.4% OF JUNE 30, 2026 NAV — AND ADDING THAT CONCE…
-- 09/30 06:28 [financialjuice] Document shared by Trump: empower internal team to ensure all controls, monitoring and detection operate as intended
-- 09/30 06:29 [financialjuice] Document shared by Trump: appoint independent board committee to monitor and receive updates from control teams and auditors
-- 09/30 06:29 [FirstSquawk] TRUMP HAS POSTED THE 'WHITE HOUSE ACCORD ON SUPER INTELLIGENCE', A 'JOINT COMMITMENT ON FRONTIER RESPONSIBILITIES', SAYING THAT TO BUILD A POSITIVE FUTURE 'EVERY COMPANY IS RESPONSIBLE FOR DEVELOPING ITS OWN TECHNOLOGY SAFELY AND IN A WAY T…
-- 09/30 06:29 [FirstSquawk] THE ACCORD CALLS FOR EACH COMPANY TO IMPLEMENT FOUR LAYERS OF CONTROLS AND AUDITS: ROBUST INTERNAL CONTROLS TO MONITOR MODELS' CAPABILITIES AND ALIGNMENT AROUND AREAS LIKE CYBERSECURITY, BIOSECURITY AND CHEMICAL THREATS AND ENSURE THEY DO N…
-- 09/30 06:29 [FirstSquawk] THE ACCORD SAYS PARTICIPATING COMPANIES WILL MEET REGULARLY TO ESTABLISH STANDARDS AND BEST PRACTICES, AND THAT 'OVER TIME, IT MAY MAKE SENSE TO CODIFY THESE STEPS INTO LAWS OR REGULATIONS', ADDING THAT REGARDLESS OF WHETHER THAT HAPPENS, I…
-- 09/30 06:29 [financialjuice] Document circulated by Trump endorsed by Google, Anthropic, Meta, OpenAI, Musk, Nvidia
-- 09/30 06:32 [financialjuice] Document shared by Trump: Nvidia, OpenAI, Anthropic, xAI, Google to convene regularly on AI safety standards
 - 09/30 07:40 [financialjuice] Senior Saudi official denies any meeting with Israeli officials
 - 09/30 07:59 [financialjuice] EU trade chief Sefcovic: pushing for reforms to tackle excess industrial capacity in G20, WTO frameworks
 - 09/30 08:00 [financialjuice] South Korea August industrial output falls 2.2% year on year, poll predicted 4% increase: stats office
@@ -338,3 +326,25 @@
 - 09/30 18:04 [FirstSquawk] META AVOIDS BILLIONS IN FEDERAL TAXES BY CLASSIFYING ITS DATA CENTRES AS EXPERIMENTAL - NYT
 - 09/30 18:05 [financialjuice] Meta told IRS data centers are experimental, could fail - NYT
 - 09/30 18:07 [FirstSquawk] ISRAELI OFFICIAL TO I24 REPORTER: INCIDENT ABOARD THE FLYDUBAI FLIGHT WAS A TERRORIST ATTACK.
+- 09/30 18:29 [financialjuice] Japan PM Takaichi: Takaichi administration will boost supply side of the economy.
+- 09/30 18:30 [financialjuice] Japan PM Takaichi: Government will set a clearer path of economy and fiscal policy management.
+- 09/30 18:30 [financialjuice] UKMTO gets time-late report of incident in Hormuz.
+- 09/30 18:31 [financialjuice] BoE FPC: Likelihood financial risks crystallise at same time has risen since July.
+- 09/30 18:32 [financialjuice] BoE FPC: Rise in oil and gas prices has led to more protracted supply shock.
+- 09/30 18:32 [financialjuice] GERMAN 10 YR BUND YIELD ACTUAL 3.58% (FORECAST -, PREVIOUS 3.39%) $MACRO
+- 09/30 18:32 [financialjuice] GERMAN 10 YR BUND BID-TO-COVER ACTUAL 1.2 (FORECAST -, PREVIOUS 1.5) $MACRO
+- 09/30 18:32 [financialjuice] BoE FPC: Frontier AI breaches reinforce need for financial firms to prepare for risk, engage wth UK authorities.
+- 09/30 18:32 [financialjuice] BoE FPC: BoE will set out proposed bank leverage ratio reforms and gilt repo reforms in early 2027.
+- 09/30 18:32 [financialjuice] BoE FPC: Planned market-based reforms to gilt repo will mitigate risks from leverage ratio changes.
+- 09/30 18:32 [financialjuice] BoE FPC: Financial markets so far have been resilient to higher energy prices and bond yields.
+- 09/30 18:33 [financialjuice] BoE FPC: Risky credit markets, including parts of private credit, remain vulnerable to tighter financing conditions.
+- 09/30 18:33 [financialjuice] BoE FPC: UK households and corporates remain resilient, banking system remains appropriately capitalised.
+- 09/30 18:37 [FirstSquawk] BANK OF ENGLAND FPC SAYS CHANCES OF FINANCIAL RISKS OCCURRING SIMULTANEOUSLY HAVE INCREASED SINCE JULY.
+- 09/30 18:38 [FirstSquawk] BOE FPC REPORTS THAT INCREASING OIL AND GAS PRICES HAVE CAUSED A LONGER SUPPLY DISRUPTION.
+- 09/30 18:38 [FirstSquawk] BOE FPC SAYS FRONTIER AI BREACHES SHOW FINANCIAL FIRMS MUST PREPARE FOR RISKS AND WORK WITH UK AUTHORITIES.
+- 09/30 18:38 [FirstSquawk] BOE PLANS TO INTRODUCE PROPOSED REFORMS FOR BANK LEVERAGE RATIOS AND GILT REPO IN EARLY 2027.
+- 09/30 18:38 [FirstSquawk] BOE FPC SAYS NEW MARKET PLANS FOR GILT REPO WILL REDUCE RISKS FROM LEVERAGE RATIO CHANGES.
+- 09/30 18:38 [FirstSquawk] BOE FPC STATES THAT FINANCIAL MARKETS HAVE REMAINED STRONG DESPITE RISING ENERGY COSTS AND BOND YIELDS.
+- 09/30 18:38 [FirstSquawk] BANK OF ENGLAND'S BAILEY STRESSES THE NEED FOR INCREASED TESTING OF AI MODELS BEFORE AND AFTER THEY GO LIVE, PRIOR TO REGULATIONS.
+- 09/30 18:38 [FirstSquawk] BOE FPC WARNED THAT RISKY CREDIT MARKETS, ESPECIALLY IN PRIVATE CREDIT, ARE STILL SENSITIVE TO TIGHTER FINANCING.
+- 09/30 18:38 [FirstSquawk] BOE FPC STATES UK HOUSEHOLDS AND BUSINESSES ARE STRONG, BANKING SYSTEM IS WELL-CAPITALIZED.
