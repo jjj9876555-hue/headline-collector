@@ -7,42 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-30 10:46 JST／対象: 09/30 04:46 〜 09/30 10:46 JST（時刻はすべて日本時間）
+生成: 2026-09-30 11:01 JST／対象: 09/30 05:01 〜 09/30 11:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 15 | 09/30 04:50 | 09/30 05:46 | 23分（05:12→05:36） |
-| FirstSquawk | 113 | 09/30 04:46 | 09/30 10:44 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 112 | 09/30 04:49 | 09/30 10:45 | ⚠ 67分（06:32→07:40） |
+| DeItaone | 9 | 09/30 05:02 | 09/30 05:46 | 23分（05:12→05:36） |
+| FirstSquawk | 116 | 09/30 05:15 | 09/30 10:58 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 101 | 09/30 05:03 | 09/30 10:57 | ⚠ 67分（06:32→07:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 236 行（統合前 240 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 223 行（統合前 226 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 04:46 [FirstSquawk] TRUMP SAYS ON A MEETING WITH AI LEADERS THAT HE THINKS THE DOCUMENT IS 'MORALLY BINDING' AND THAT HE IS SEEING 'TREMENDOUS SELF-POLICING', WITH AI LEADERS UNDERSTANDING THAT.
-- 09/30 04:46 [FirstSquawk] TRUMP SAYS THE U.S. IS 'THINKING ABOUT A COMMITTEE OF 10 PEOPLE TO WATCH OVER AI', ADDING THAT 'IF AI MODELS ARE NOT USED FOR GOOD, WE WILL NAB THEM'.
-- 09/30 04:49 [financialjuice] Trump praises NVIDIA's Huang. $NVDA
-- 09/30 04:50 [financialjuice] Trump, asked if AI guardrails are unnecessary: Yes.
-- 09/30 04:50 [DeItaone] NVIDIA'S HUANG: THERE IS NO CONFLICT BETWEEN INNOVATION, TECHNOLOGY AND SAFETY
-- 09/30 04:50 [DeItaone] NVIDIA'S HUANG: WE'RE GOING TO ADVANCE THIS RESPONSIBLY AND SAFELY
-- 09/30 04:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: -751.6 MLN NASDAQ 100: -141.4 MLN DOW 30: -165.8 MLN MAG 7: 34.4 MLN $MACRO
-- 09/30 04:51 [DeItaone] TRUMP, ASKED IF AI GUARDRAILS UNNECESSARY, SAYS YES TRUMP: THINKING ABOUT COMMITTEE OF 10 PEOPLE TO WATCH OVER AI TRUMP: I BELIEVE AI MODELS WILL BE USED FOR GOOD TRUMP: AI FIRMS KNOW THEY NEED TO SELF-POLICE
-- 09/30 04:51 [financialjuice] Trump, asked on data centers and midterms: We must do what's right.
-- 09/30 04:51 [financialjuice] Nvidia CEO Huang: No conflict between AI innovation and safety $NVDA
-- 09/30 04:52 [financialjuice] Trump and Nvidia's CEO Huang Speak - WATCH LIVE
-- 09/30 04:53 [financialjuice] Trump on AI regulation: We will have AI very well assessed.
-- 09/30 04:55 [DeItaone] TRUMP: IRAN DOING VERY POORLY, DON'T KNOW IF THEY ARE GOING TO GIVE UP YET
-- 09/30 04:56 [financialjuice] Trump: Iran is doing very poorly, I don't know if they are going to give up yet.
-- 09/30 04:58 [financialjuice] Trump: Kim Jong UN is a friend of mine, I like him.
-- 09/30 04:58 [DeItaone/financialjuice] TRUMP: NORTH KOREA'S KIM WILL BE FINE AS LONG AS I AM AROUND
-- 09/30 04:59 [financialjuice] Trump: I'll be naming the AI Czar in the next three to four days.
-- 09/30 04:59 [DeItaone] TRUMP: WILL BE NAMING AI CZAR IN NEXT THREE OR FOUR DAYS
-- 09/30 04:59 [financialjuice] Trump: I discussed the Xi meeting with tech leaders.
 - 09/30 05:02 [DeItaone] ANTHROPIC'S AMODEI: TECHNOLOGY HAS VERY REAL RISKS, STILL UNDER DISCUSSION HOW TO ADDRESS THE RISKS
 - 09/30 05:03 [financialjuice] Trump on Anthropic's Amodei: He's been great
 - 09/30 05:03 [financialjuice] Trump: Zuckerberg had a view that was right down the middle. $META
@@ -260,3 +241,9 @@
 - 09/30 10:45 [financialjuice] ❗ CHINESE MANUFACTURING PMI ACTUAL 52.1 (FORECAST 51.7, PREVIOUS 51.5) $MACRO
 - 09/30 10:45 [financialjuice] RatingDog China general manufacturing PMI at 52.1 in September beats forecast 51.6
 - 09/30 10:45 [financialjuice] Ratingdog China general services PMI at 51.6 in September vs 51.4 in August
+- 09/30 10:47 [FirstSquawk] China RatingDog Manufacturing PMI Sep: 52.1 (est 51.7; prev 51.5)
+- 09/30 10:47 [FirstSquawk] China RatingDog Services PMI: 51.6 (est 51.3; prev 51.4)
+- 09/30 10:47 [FirstSquawk] China RatingDog Composite PMI: 52.4 (prev 52.1)
+- 09/30 10:57 [FirstSquawk] Toys R Us weighs Japan exit through sale of local business to Don Quijote operator
+- 09/30 10:57 [financialjuice] Russian air strike on Ukraine's Kyiv region wounds three, kills one: official
+- 09/30 10:58 [FirstSquawk] Russian strike on Kyiv region kills one, injures three, official says

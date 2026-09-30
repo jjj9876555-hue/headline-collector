@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-30 10:46 JST／対象: 09/29 10:46 〜 09/30 10:46 JST（時刻はすべて日本時間）
+生成: 2026-09-30 11:01 JST／対象: 09/29 11:01 〜 09/30 11:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 88 | 09/29 20:26 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
-| FirstSquawk | 436 | 09/29 10:47 | 09/30 10:44 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 434 | 09/29 11:00 | 09/30 10:45 | ⚠ 67分（06:32→07:40） |
+| FirstSquawk | 434 | 09/29 11:01 | 09/30 10:58 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 432 | 09/29 11:02 | 09/30 10:57 | ⚠ 67分（06:32→07:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 933 行（統合前 964 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 929 行（統合前 960 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 10:47 [FirstSquawk] Massive Pentagon employee database breach exposes sensitive information, ABC News reports
-- 09/29 10:47 [FirstSquawk] Haiti mayor says at least 11 killed in Gros-Morne after likely gang retaliation over UN-backed patrol
-- 09/29 10:51 [FirstSquawk] Pope Leo says warnings about AI doom scenarios should be taken seriously - RTRS
-- 09/29 10:54 [FirstSquawk] North Korea accused of operating alleged secret prison at Beijing embassy - YONHAP
-- 09/29 10:59 [FirstSquawk] Samsung SDI to present battery solutions aimed at AI data centres in Singapore - YONHAP
-- 09/29 11:00 [financialjuice] Japan finance minister katayama: agreed with bessent to strengthen cooperation on phone talks sept 25
-- 09/29 11:00 [FirstSquawk] Japan FinMin Katayama says agreed with Bessent to bolster cooperation
-- 09/29 11:00 [financialjuice] Japan finmin katayama: undervalued yen generally poses problems
-- 09/29 11:01 [FirstSquawk] Katayama: Japan believes an undervalued yen is problematic
-- 09/29 11:01 [financialjuice] Japan finance minister Katayama: will keep close talks with US Treasury to ensure stable forex markets
 - 09/29 11:01 [FirstSquawk] Katayama: Japan will stay in close contact with U.S. Treasury over orderly FX markets
 - 09/29 11:02 [financialjuice] Japan finance minister Katayama: Takaichi's government is not reflationary
 - 09/29 11:02 [financialjuice] S.Korea finance minister: closely watching bond market
@@ -957,3 +947,9 @@
 - 09/30 10:45 [financialjuice] ❗ CHINESE MANUFACTURING PMI ACTUAL 52.1 (FORECAST 51.7, PREVIOUS 51.5) $MACRO
 - 09/30 10:45 [financialjuice] RatingDog China general manufacturing PMI at 52.1 in September beats forecast 51.6
 - 09/30 10:45 [financialjuice] Ratingdog China general services PMI at 51.6 in September vs 51.4 in August
+- 09/30 10:47 [FirstSquawk] China RatingDog Manufacturing PMI Sep: 52.1 (est 51.7; prev 51.5)
+- 09/30 10:47 [FirstSquawk] China RatingDog Services PMI: 51.6 (est 51.3; prev 51.4)
+- 09/30 10:47 [FirstSquawk] China RatingDog Composite PMI: 52.4 (prev 52.1)
+- 09/30 10:57 [FirstSquawk] Toys R Us weighs Japan exit through sale of local business to Don Quijote operator
+- 09/30 10:57 [financialjuice] Russian air strike on Ukraine's Kyiv region wounds three, kills one: official
+- 09/30 10:58 [FirstSquawk] Russian strike on Kyiv region kills one, injures three, official says

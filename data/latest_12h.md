@@ -7,34 +7,25 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-30 10:46 JST／対象: 09/29 22:46 〜 09/30 10:46 JST（時刻はすべて日本時間）
+生成: 2026-09-30 11:01 JST／対象: 09/29 23:01 〜 09/30 11:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 62 | 09/29 22:50 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
-| FirstSquawk | 220 | 09/29 22:46 | 09/30 10:44 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 313 | 09/29 23:36 | 09/30 10:45 | ⚠ 67分（06:32→07:40） |
+| DeItaone | 59 | 09/29 23:01 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
+| FirstSquawk | 217 | 09/29 23:02 | 09/30 10:58 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 314 | 09/29 23:36 | 09/30 10:57 | ⚠ 67分（06:32→07:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 580 行（統合前 601 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 577 行（統合前 596 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 22:46 [FirstSquawk] ELON MUSK, CEOS OF PALANTIR, AMAZON, SERVICE NOW, ALTIMETER TO ATTEND WHITE HOUSE MEETING ON AI, AXIOS REPORTS
-- 09/29 22:47 [FirstSquawk] UK GILT FUTURES PARE GAINS BY AROUND 10 TICKS AFTER PM BURNHAM SAYS SAVINGS FROM SCRAPPING TRIPLE LOCK WILL BE USED TO FINANCE SOCIAL CARE
-- 09/29 22:50 [DeItaone] U.S. GASOLINE AND DIESEL PRICES FALL U.S. regular gasoline prices fell 1.3 cents over the week to $4.465/gallon, though prices remain $1.347 higher than a year ago. Diesel saw a much larger decline, falling 14.7 cents to $6.382/gallon, but …
-- 09/29 22:50 [DeItaone] U.S. 30-YEAR TREASURY YIELD REACHES 5.587%, HIGHEST SINCE MAY 2004
-- 09/29 22:51 [FirstSquawk] STELLANTIS TO SUSPEND PRODUCTION AT THREE FRENCH PLANTS - LES ECHOS
-- 09/29 22:53 [FirstSquawk] PIPER SANDLER HOLDS TALKS TO BUY PERELLA WEINBERG: WSJ
-- 09/29 22:56 [FirstSquawk] BURNHAM: NATL'L COMMISSION ON ELECTORAL REFORM
-- 09/29 22:57 [FirstSquawk] BURNHAM: PARTY WITH UNDER 30% OF VOTE SHOULDN'T BE IN POWER
-- 09/29 23:00 [FirstSquawk/DeItaone] US SEPT. CONSUMER CONFIDENCE 81.9; EST. 89.0
-- 09/29 23:00 [FirstSquawk/DeItaone] US AUG. JOB OPENINGS 7.079M; EST. 7.228M
-- 09/29 23:00 [DeItaone] U.S. JOB OPENINGS FALL TO 7.08 MILLION U.S. job openings fell to 7.079 million in August, down from a revised 7.335 million in July, according to the Labor Department’s JOLTS report. The job-openings rate slipped to 4.3% from 4.4%, while hi…
+- 09/29 23:01 [DeItaone] *US SEPT. CONSUMER CONFIDENCE 81.9; EST. 89.0
+- 09/29 23:01 [DeItaone] *US AUG. JOB OPENINGS 7.079M; EST. 7.228M
 - 09/29 23:02 [FirstSquawk] SAUDI CROWN PRINCE MEETS WITH UAE VICE PRESIDENT IN RIYADH:SPA
 - 09/29 23:05 [FirstSquawk] BURNHAM: BREXIT HASN'T GIVEN US CONTROL
 - 09/29 23:05 [FirstSquawk] L3HARRIS RECEIVES THAAD PROPULSION CONTRACT VALUED AT $6 BLN
@@ -604,3 +595,9 @@
 - 09/30 10:45 [financialjuice] ❗ CHINESE MANUFACTURING PMI ACTUAL 52.1 (FORECAST 51.7, PREVIOUS 51.5) $MACRO
 - 09/30 10:45 [financialjuice] RatingDog China general manufacturing PMI at 52.1 in September beats forecast 51.6
 - 09/30 10:45 [financialjuice] Ratingdog China general services PMI at 51.6 in September vs 51.4 in August
+- 09/30 10:47 [FirstSquawk] China RatingDog Manufacturing PMI Sep: 52.1 (est 51.7; prev 51.5)
+- 09/30 10:47 [FirstSquawk] China RatingDog Services PMI: 51.6 (est 51.3; prev 51.4)
+- 09/30 10:47 [FirstSquawk] China RatingDog Composite PMI: 52.4 (prev 52.1)
+- 09/30 10:57 [FirstSquawk] Toys R Us weighs Japan exit through sale of local business to Don Quijote operator
+- 09/30 10:57 [financialjuice] Russian air strike on Ukraine's Kyiv region wounds three, kills one: official
+- 09/30 10:58 [FirstSquawk] Russian strike on Kyiv region kills one, injures three, official says
