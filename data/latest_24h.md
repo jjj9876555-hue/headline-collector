@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-30 10:07 JST／対象: 09/29 10:07 〜 09/30 10:07 JST（時刻はすべて日本時間）
+生成: 2026-09-30 10:27 JST／対象: 09/29 10:27 〜 09/30 10:27 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 88 | 09/29 20:26 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
-| FirstSquawk | 431 | 09/29 10:20 | 09/30 10:07 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 401 | 09/29 10:20 | 09/30 10:00 | ⚠ 67分（06:32→07:40） |
+| FirstSquawk | 432 | 09/29 10:27 | 09/30 10:27 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 404 | 09/29 10:30 | 09/30 10:27 | ⚠ 67分（06:32→07:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 895 行（統合前 926 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 899 行（統合前 930 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 10:20 [FirstSquawk] Rubio to Fox News: British base incident involved a foreign party
-- 09/29 10:20 [financialjuice] China central bank injects 90.5 billion yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement
-- 09/29 10:21 [FirstSquawk] Rubio to Fox News: If Iran had a nuclear weapon, no one could prevent it from controlling the Strait of Hormuz
-- 09/29 10:22 [FirstSquawk] PBOC sets yuan midpoint at 6.7411 per dollar, vs 6.7399 previously
-- 09/29 10:22 [FirstSquawk] China’s PBOC adds CNY90.5 billion via 7-day reverse repos, keeping rate at 1.40%
-- 09/29 10:23 [FirstSquawk] Taiwan overnight rate rises to 0.805% at session open vs 0.804% prior
-- 09/29 10:24 [FirstSquawk] Rubio to Fox News: Iran uses its money to fund terrorism around the world
-- 09/29 10:25 [FirstSquawk] Goldman Sachs spokesperson says succession timeline remains undecided
 - 09/29 10:27 [FirstSquawk] Hong Kong’s Hang Seng Innovative Drug Index seen opening nearly 2% higher
 - 09/29 10:30 [financialjuice] Australia August household spending unchanged month on month seasonally adjusted - ABS
 - 09/29 10:32 [FirstSquawk] Japan offers ¥300 billion of 40-year government bonds
@@ -919,3 +911,15 @@
 - 09/30 10:01 [FirstSquawk] Taiwan overnight interbank rate opens unchanged at 0.805% from previous session
 - 09/30 10:02 [FirstSquawk] WSJ: Market turbulence and AI safety worries cloud prospects for blockbuster fall IPOs
 - 09/30 10:07 [FirstSquawk] South Korea calls for closer coordination between donor and recipient nations on development projects - yonhap
+- 09/30 10:11 [FirstSquawk] South Korean envoy says Seoul remains committed to facilitating renewed U.S.-North Korea dialogue - yonhap
+- 09/30 10:13 [FirstSquawk] Fitch Ratings says Vietnam banks’ capitalisation will remain steady as lenders pursue $5.7 billion in fresh capital
+- 09/30 10:15 [FirstSquawk] PBOC fixes yuan midpoint at 6.7351 against the dollar
+- 09/30 10:16 [FirstSquawk] Shanghai benchmark rubber futures gain more than 3.9%
+- 09/30 10:16 [financialjuice] China sets yuan midpoint at strongest level since Feb. 2, 2023
+- 09/30 10:20 [FirstSquawk] Taiwan stocks climb 1.2%, with benchmark index at 48,211.54 points
+- 09/30 10:20 [FirstSquawk] Gold prices remain subdued as investors await U.S. economic data — WSJ
+- 09/30 10:20 [financialjuice] Shares of Shenzhen Camsense Technologies set to open at HK$168 in Hong Kong debut versus offer price HK$58.85 apiece
+- 09/30 10:23 [financialjuice] China injects 833.5 bln yuan via overnight reverse repos: statement
+- 09/30 10:23 [FirstSquawk] PBOC injects 833.5 billion yuan through overnight reverse repo operations
+- 09/30 10:27 [financialjuice] China pauses 7-day reverse repos: statement
+- 09/30 10:27 [FirstSquawk] PBOC conducts no 7-day reverse repo operations

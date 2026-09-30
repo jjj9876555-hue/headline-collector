@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-30 10:07 JST／対象: 09/29 22:07 〜 09/30 10:07 JST（時刻はすべて日本時間）
+生成: 2026-09-30 10:27 JST／対象: 09/29 22:27 〜 09/30 10:27 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 70 | 09/29 22:14 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
-| FirstSquawk | 209 | 09/29 22:12 | 09/30 10:07 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 287 | 09/29 22:14 | 09/30 10:00 | ⚠ 67分（06:32→07:40） |
+| DeItaone | 68 | 09/29 22:30 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
+| FirstSquawk | 212 | 09/29 22:29 | 09/30 10:27 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 289 | 09/29 22:28 | 09/30 10:27 | ⚠ 67分（06:32→07:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 550 行（統合前 572 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 553 行（統合前 575 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 22:12 [FirstSquawk] LITHUANIA PREMIER 'READY TO PAY' FOR PERMANENT US DEPLOYMENT
-- 09/29 22:13 [FirstSquawk] SEC: WON'T RECOMMEND ACTION ON TESLA RETAIL VOTING PROGRAM
-- 09/29 22:13 [FirstSquawk] JEFFERIES CUTS HERMES TARGET PRICE TO EUR 1,600 FROM EUR 2,000
-- 09/29 22:14 [DeItaone] CITADEL’S RUBNER SEES BETTER SETUP FOR STOCKS IN OCTOBER Citadel Securities’ Scott Rubner expects equity market conditions to improve in October as quarter-end selling ends and historically favorable midterm-election seasonality begins. He …
-- 09/29 22:14 [financialjuice] UK PM Burnham: I will make a break and put Britain on a new path with a new economy.
-- 09/29 22:16 [DeItaone] $NFLX - DEUTSCHE BANK UPGRADES NETFLIX TO BUY Deutsche Bank upgraded Netflix to Buy from Hold, citing its global scale, international production advantage and attractive valuation. The bank lowered its price target to $95 from $100. Netflix…
-- 09/29 22:18 [FirstSquawk] UK PM BURNHAM: MORE CONTROL OF THE BASICS
-- 09/29 22:21 [financialjuice] UAE Vice President meets with the Saudi Defence Minister in Riyadh - WAM.
-- 09/29 22:23 [FirstSquawk] BURNHAM: BILL FOR LEASEHOLD REFORM BEFORE CHRISTMAS
 - 09/29 22:28 [financialjuice] UK's PM Burnham: We are reforming the energy market.
 - 09/29 22:29 [FirstSquawk] UK SEEKS TO REPEAL BAN ON PUBLIC OWNERSHIP OF WATER COMPANIES
 - 09/29 22:29 [FirstSquawk] UK AIMS TO LIFT RESTRICTION ON PUBLIC CONTROL OF WATER FIRMS.
@@ -574,3 +565,15 @@
 - 09/30 10:01 [FirstSquawk] Taiwan overnight interbank rate opens unchanged at 0.805% from previous session
 - 09/30 10:02 [FirstSquawk] WSJ: Market turbulence and AI safety worries cloud prospects for blockbuster fall IPOs
 - 09/30 10:07 [FirstSquawk] South Korea calls for closer coordination between donor and recipient nations on development projects - yonhap
+- 09/30 10:11 [FirstSquawk] South Korean envoy says Seoul remains committed to facilitating renewed U.S.-North Korea dialogue - yonhap
+- 09/30 10:13 [FirstSquawk] Fitch Ratings says Vietnam banks’ capitalisation will remain steady as lenders pursue $5.7 billion in fresh capital
+- 09/30 10:15 [FirstSquawk] PBOC fixes yuan midpoint at 6.7351 against the dollar
+- 09/30 10:16 [FirstSquawk] Shanghai benchmark rubber futures gain more than 3.9%
+- 09/30 10:16 [financialjuice] China sets yuan midpoint at strongest level since Feb. 2, 2023
+- 09/30 10:20 [FirstSquawk] Taiwan stocks climb 1.2%, with benchmark index at 48,211.54 points
+- 09/30 10:20 [FirstSquawk] Gold prices remain subdued as investors await U.S. economic data — WSJ
+- 09/30 10:20 [financialjuice] Shares of Shenzhen Camsense Technologies set to open at HK$168 in Hong Kong debut versus offer price HK$58.85 apiece
+- 09/30 10:23 [financialjuice] China injects 833.5 bln yuan via overnight reverse repos: statement
+- 09/30 10:23 [FirstSquawk] PBOC injects 833.5 billion yuan through overnight reverse repo operations
+- 09/30 10:27 [financialjuice] China pauses 7-day reverse repos: statement
+- 09/30 10:27 [FirstSquawk] PBOC conducts no 7-day reverse repo operations

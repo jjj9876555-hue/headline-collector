@@ -7,33 +7,25 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-30 10:07 JST／対象: 09/30 04:07 〜 09/30 10:07 JST（時刻はすべて日本時間）
+生成: 2026-09-30 10:27 JST／対象: 09/30 04:27 〜 09/30 10:27 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 19 | 09/30 04:27 | 09/30 05:46 | 23分（05:12→05:36） |
-| FirstSquawk | 96 | 09/30 04:09 | 09/30 10:07 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 92 | 09/30 04:09 | 09/30 10:00 | ⚠ 67分（06:32→07:40） |
+| FirstSquawk | 101 | 09/30 04:28 | 09/30 10:27 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 90 | 09/30 04:35 | 09/30 10:27 | ⚠ 67分（06:32→07:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 201 行（統合前 208 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 205 行（統合前 210 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 04:09 [financialjuice] Qatar is going to allow the use of drones in designated areas - Interior Ministry.
-- 09/30 04:09 [FirstSquawk] QATAR TO ALLOW DRONE USE IN DESIGNATED AREAS — INTERIOR MINISTRY
-- 09/30 04:10 [financialjuice] Iran Foreign Ministry warns regional countries of the consequences of Israeli Prime Minister Netanyahu's visit to the UAE - Fars News.
-- 09/30 04:16 [FirstSquawk] APPLE PAY TO LAUNCH IN INDIA WITH AXIS BANK ON TUESDAY — TECHCRUNCH
-- 09/30 04:21 [financialjuice] Trump and Tech Executives discussed industry standards, audits - CBS
-- 09/30 04:22 [financialjuice] OPEC+ is likely to stick with the plan for steady quotas - Delegates.
-- 09/30 04:24 [FirstSquawk] OPEC+ MEMBERS LED BY SAUDI ARABIA AND RUSSIA ARE LIKELY TO KEEP CRUDE PRODUCTION QUOTAS UNCHANGED FOR NOVEMBER, WITH DELEGATES EXPECTING THE GROUP TO RATIFY ITS EXISTING ROADMAP AT SUNDAY’S MEETING. MILLIONS OF BARRELS OF MIDDLE EASTERN PRO…
-- 09/30 04:24 [financialjuice] Iran's President's Office: We will not compromise on nuclear rights in any way; this was a key point highlighted in the President's speech - IRIB News.
-- 09/30 04:25 [financialjuice/FirstSquawk] CEO inside the room@: AI industry is ramping up - Fox
 - 09/30 04:27 [DeItaone] *OPEC+ LIKELY TO STICK WITH PLAN FOR STEADY QUOTAS: DELEGATES
+- 09/30 04:28 [FirstSquawk] CEO INSIDE THE ROOM: AI INDUSTRY IS RAMPING UP - FOX
 - 09/30 04:28 [FirstSquawk] IRAN PRESIDENT’S OFFICE: IRAN WILL NOT COMPROMISE ON ITS NUCLEAR RIGHTS — IRIB NEWS
 - 09/30 04:35 [financialjuice] House Speaker Johnson: Held a very productive meeting with tech executives
 - 09/30 04:38 [financialjuice] US House Speaker Johnson: AI providers are committed to building trust.
@@ -225,3 +217,15 @@
 - 09/30 10:01 [FirstSquawk] Taiwan overnight interbank rate opens unchanged at 0.805% from previous session
 - 09/30 10:02 [FirstSquawk] WSJ: Market turbulence and AI safety worries cloud prospects for blockbuster fall IPOs
 - 09/30 10:07 [FirstSquawk] South Korea calls for closer coordination between donor and recipient nations on development projects - yonhap
+- 09/30 10:11 [FirstSquawk] South Korean envoy says Seoul remains committed to facilitating renewed U.S.-North Korea dialogue - yonhap
+- 09/30 10:13 [FirstSquawk] Fitch Ratings says Vietnam banks’ capitalisation will remain steady as lenders pursue $5.7 billion in fresh capital
+- 09/30 10:15 [FirstSquawk] PBOC fixes yuan midpoint at 6.7351 against the dollar
+- 09/30 10:16 [FirstSquawk] Shanghai benchmark rubber futures gain more than 3.9%
+- 09/30 10:16 [financialjuice] China sets yuan midpoint at strongest level since Feb. 2, 2023
+- 09/30 10:20 [FirstSquawk] Taiwan stocks climb 1.2%, with benchmark index at 48,211.54 points
+- 09/30 10:20 [FirstSquawk] Gold prices remain subdued as investors await U.S. economic data — WSJ
+- 09/30 10:20 [financialjuice] Shares of Shenzhen Camsense Technologies set to open at HK$168 in Hong Kong debut versus offer price HK$58.85 apiece
+- 09/30 10:23 [financialjuice] China injects 833.5 bln yuan via overnight reverse repos: statement
+- 09/30 10:23 [FirstSquawk] PBOC injects 833.5 billion yuan through overnight reverse repo operations
+- 09/30 10:27 [financialjuice] China pauses 7-day reverse repos: statement
+- 09/30 10:27 [FirstSquawk] PBOC conducts no 7-day reverse repo operations
