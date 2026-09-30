@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-30 14:19 JST／対象: 09/29 14:19 〜 09/30 14:19 JST（時刻はすべて日本時間）
+生成: 2026-09-30 14:35 JST／対象: 09/29 14:35 〜 09/30 14:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 88 | 09/29 20:26 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
-| FirstSquawk | 418 | 09/29 14:21 | 09/30 14:16 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 409 | 09/29 14:31 | 09/30 14:00 | ⚠ 80分（10:57→12:18） |
+| FirstSquawk | 415 | 09/29 14:37 | 09/30 14:33 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 404 | 09/29 14:36 | 09/30 14:00 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 889 行（統合前 921 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 881 行（統合前 913 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 14:21 [FirstSquawk] Brent oil futures gain more than 2% to $107.44/bbl; December contract up over 2% at $99.87/bbl
-- 09/29 14:22 [FirstSquawk] IRANIAN FOREIGN MINISTER SAYS TEHRAN EXPECTS US RESPONSE TODAY ON HORMUZ REOPENING PROPOSAL
-- 09/29 14:26 [FirstSquawk] Russian strike damages port facilities in Ukraine’s Odesa region, governor says
-- 09/29 14:31 [financialjuice] RBA's Gov. Bullock: Inflation is driven by domestic capacity pressures.
-- 09/29 14:32 [financialjuice] RBA's Gov. Bullock: Inflationary pressures to last longer than expected.
-- 09/29 14:33 [financialjuice] RBA's Gov. Bullock: The board will raise rates again if needed
-- 09/29 14:33 [financialjuice] RBA's Gov. Bullock: I still think the labor market is a little bit tight
-- 09/29 14:34 [financialjuice] RBA's Gov. Bullock: Unemployment is still quite low by historical standards
-- 09/29 14:35 [FirstSquawk] Bullock: RBA needs to bring excess demand lower; recession is not the central case
 - 09/29 14:36 [financialjuice] RBA's Gov. Bullock: Recession isn't the central base case at this point
 - 09/29 14:37 [FirstSquawk] RBA’s Bullock says August CPI won’t be given too much emphasis; tight financial conditions are needed
 - 09/29 14:38 [financialjuice] RBA's Gov. Bullock: I hope 4 rate hikes will be restrictive enough to slow inflation
@@ -913,3 +904,4 @@
 - 09/30 14:10 [FirstSquawk] Berenberg lifts Rio Tinto target price to 8,700p from 8,600p
 - 09/30 14:15 [FirstSquawk] Russian military strikes communications center in Kyiv overnight, IFX reports, citing Defence Ministry
 - 09/30 14:16 [FirstSquawk] Energy system facilities in Kyiv region hit in massive strike, Russian Defence Ministry says — IFX
+- 09/30 14:33 [FirstSquawk] Nikkei climbs 1.5%, driven by gains in chip and bank stocks — WSJ

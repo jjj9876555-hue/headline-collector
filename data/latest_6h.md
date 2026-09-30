@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-30 14:19 JST／対象: 09/30 08:19 〜 09/30 14:19 JST（時刻はすべて日本時間）
+生成: 2026-09-30 14:35 JST／対象: 09/30 08:35 〜 09/30 14:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 128 | 09/30 08:35 | 09/30 14:16 | 17分（13:16→13:33） |
+| FirstSquawk | 127 | 09/30 08:35 | 09/30 14:33 | 17分（13:16→13:33） |
 | financialjuice | 61 | 09/30 08:45 | 09/30 14:00 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 188 行（統合前 189 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 187 行（統合前 188 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 08:35 [FirstSquawk] JAPAN, US AND EUROPE TO AGREE STEEL MONITORING FRAMEWORK - YOMIURI
-- 09/30 08:35 [FirstSquawk] QATARI-MEDIATED TALKS BETWEEN THE U.S. AND IRAN MADE LITTLE PROGRESS, WITH BOTH SIDES REFUSING TO COMPROMISE AND FEARS OF RENEWED FIGHTING RISING, AS QATAR PROPOSED A DEAL LINKING IRAN'S DEMAND TO LIFT THE U.S. NAVAL BLOCKADE WITH U.S. DEMA…
 - 09/30 08:35 [FirstSquawk] U.S. OFFICIALS INITIALLY DESCRIBED THE TALKS AS POSITIVE AND SAID TRUMP WAS OPEN TO SANCTIONS RELIEF AND RELEASING FROZEN FUNDS FOR NUCLEAR CONCESSIONS, BUT HOURS LATER TRUMP SAID HE HAD OFFERED IRAN NOTHING, WITH A SOURCE TELLING AXIOS THE…
 - 09/30 08:36 [FirstSquawk] SAUDI ARABIA HAS APPROVED A VISA EXEMPTION AGREEMENT WITH TÜRKIYE FOR DIPLOMATIC AND SPECIAL PASSPORT HOLDERS, UNDER WHICH HOLDERS CAN STAY VISA-FREE FOR UP TO 90 DAYS WITHIN ANY 180-DAY PERIOD
 - 09/30 08:38 [FirstSquawk] COPPER HOLDS ABOVE $14,400 A TON AFTER WORKERS AT CHILE’S CENTINELA MINE OVERWHELMINGLY REJECTED A WAGE OFFER, RAISING STRIKE RISKS, WHILE WORKERS AT BHP’S ESCONDIDA MINE ALSO VOTE ON A WAGE PROPOSAL; LME COPPER ROSE 0.2% TO $14,438.50.
@@ -212,3 +210,4 @@
 - 09/30 14:10 [FirstSquawk] Berenberg lifts Rio Tinto target price to 8,700p from 8,600p
 - 09/30 14:15 [FirstSquawk] Russian military strikes communications center in Kyiv overnight, IFX reports, citing Defence Ministry
 - 09/30 14:16 [FirstSquawk] Energy system facilities in Kyiv region hit in massive strike, Russian Defence Ministry says — IFX
+- 09/30 14:33 [FirstSquawk] Nikkei climbs 1.5%, driven by gains in chip and bank stocks — WSJ
