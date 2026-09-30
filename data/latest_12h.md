@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-30 16:30 JST／対象: 09/30 04:30 〜 09/30 16:30 JST（時刻はすべて日本時間）
+生成: 2026-09-30 16:49 JST／対象: 09/30 04:49 〜 09/30 16:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 18 | 09/30 04:41 | 09/30 05:46 | 23分（05:12→05:36） |
-| FirstSquawk | 219 | 09/30 04:39 | 09/30 16:29 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 146 | 09/30 04:35 | 09/30 16:01 | ⚠ 80分（10:57→12:18） |
+| DeItaone | 15 | 09/30 04:50 | 09/30 05:46 | 23分（05:12→05:36） |
+| FirstSquawk | 216 | 09/30 05:15 | 09/30 16:33 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 137 | 09/30 04:49 | 09/30 16:01 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 377 行（統合前 383 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 363 行（統合前 368 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 04:35 [financialjuice] House Speaker Johnson: Held a very productive meeting with tech executives
-- 09/30 04:38 [financialjuice] US House Speaker Johnson: AI providers are committed to building trust.
-- 09/30 04:39 [FirstSquawk] U.S. HOUSE SPEAKER JOHNSON SAYS ON A MEETING WITH AI LEADERS THAT THEY 'DISCUSSED STRIKING THE RIGHT BALANCE' AND AI COMPANIES ENSURING SAFETY, WITH AI PROVIDERS 'COMMITTED TO BUILDING TRUST'.
-- 09/30 04:39 [FirstSquawk] U.S. HOUSE SPEAKER JOHNSON SAYS 'WE JUST SIGNED AN ACCORD ON AI, WHICH IS A STATEMENT OF STANDARDS', ADDING THAT THE U.S. 'CAN KEEP ITS EDGE IN A SAFE WAY' AND WILL 'CONTINUE TO ASSESS AND DELIBERATE IN COMING DAYS'.
-- 09/30 04:41 [DeItaone] TRUMP ON MEETING WITH AI LEADERS: SIGNED AI DOCUMENT THAT IS A FORM OF PROTECTION
-- 09/30 04:42 [financialjuice] Trump: Had a great meeting with tech executives.
-- 09/30 04:42 [financialjuice] Trump: The document signed with ai firms is a form of protection.
-- 09/30 04:42 [FirstSquawk] TRUMP ON AI LEADERS MEETING: SIGNED AI DOCUMENT THAT HE SAYS PROVIDES A FORM OF PROTECTION
-- 09/30 04:42 [financialjuice/FirstSquawk] No evacuation alert has been issued for European citizens in Iran - Fars News
-- 09/30 04:44 [financialjuice] OpenAI CFO: Business segment revenue doubled from July.
-- 09/30 04:44 [financialjuice] Trump: If AI models are not used for good, we will nab them.
-- 09/30 04:45 [DeItaone] TRUMP: THINK WE ARE SEEING TREMENDOUS SELF-POLICING, AI LEADERS UNDERSTAND THAT TRUMP: WE ARE THKING OF CREATING COMMITTEE TO WATCH OVER
-- 09/30 04:45 [financialjuice] Trump: I'm seeing tremendous self-policing on AI
-- 09/30 04:45 [financialjuice] Trump: We're thinking about a committee of 10 people to watch over AI.
-- 09/30 04:45 [DeItaone] *TRUMP ON AI REGULATION: REITERATES US HAS FBI, CIA, DOJ
-- 09/30 04:46 [FirstSquawk] TRUMP SAYS ON A MEETING WITH AI LEADERS THAT HE THINKS THE DOCUMENT IS 'MORALLY BINDING' AND THAT HE IS SEEING 'TREMENDOUS SELF-POLICING', WITH AI LEADERS UNDERSTANDING THAT.
-- 09/30 04:46 [FirstSquawk] TRUMP SAYS THE U.S. IS 'THINKING ABOUT A COMMITTEE OF 10 PEOPLE TO WATCH OVER AI', ADDING THAT 'IF AI MODELS ARE NOT USED FOR GOOD, WE WILL NAB THEM'.
 - 09/30 04:49 [financialjuice] Trump praises NVIDIA's Huang. $NVDA
 - 09/30 04:50 [financialjuice] Trump, asked if AI guardrails are unnecessary: Yes.
 - 09/30 04:50 [DeItaone] NVIDIA'S HUANG: THERE IS NO CONFLICT BETWEEN INNOVATION, TECHNOLOGY AND SAFETY
@@ -401,3 +384,6 @@
 - 09/30 16:23 [FirstSquawk] IRAQ'S DAILY OIL EXPORTS AVERAGED 2.65 MILLION BPD IN SEPTEMBER, WITH 250,000 BPD SHIPPED THROUGH TURKEY'S CEYHAN PORT, ACCORDING TO THE OIL MINISTRY SPOKESPERSON.
 - 09/30 16:23 [FirstSquawk] US OFFICIALLY ENDS OPERATION INHERENT RESOLVE IN IRAQ.
 - 09/30 16:29 [FirstSquawk] FLY DUBAI FLIGHT FZ 1073 FROM DUBAI TO TEL AVIV HAD A SITUATION ON 30 SEPTEMBER.
+- 09/30 16:33 [FirstSquawk] RIKSBANK'S THEDEEN SAYS SWEDEN'S ECONOMY IS UNEXPECTEDLY STRONG.
+- 09/30 16:33 [FirstSquawk] NOVO'S LANGE SAYS HENGRUI WEIGHT LOSS PILL COULD BE AVAILABLE BY 2030.
+- 09/30 16:33 [FirstSquawk] NOVO REVEALS HENGRUI OBESITY PILL WILL BEGIN PHASE 1 TRIALS SOON.
