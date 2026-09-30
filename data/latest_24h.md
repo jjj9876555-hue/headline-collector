@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-01 04:20 JST／対象: 09/30 04:20 〜 10/01 04:20 JST（時刻はすべて日本時間）
+生成: 2026-10-01 04:35 JST／対象: 09/30 04:35 〜 10/01 04:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 86 | 09/30 04:27 | 10/01 03:56 | ⚠ 789分（05:46→18:55） |
-| FirstSquawk | 361 | 09/30 04:24 | 10/01 04:07 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 313 | 09/30 04:21 | 10/01 04:07 | ⚠ 80分（10:57→12:18） |
+| DeItaone | 86 | 09/30 04:41 | 10/01 04:26 | ⚠ 789分（05:46→18:55） |
+| FirstSquawk | 359 | 09/30 04:39 | 10/01 04:28 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 314 | 09/30 04:38 | 10/01 04:35 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 740 行（統合前 762 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 740 行（統合前 760 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 04:21 [financialjuice] Trump and Tech Executives discussed industry standards, audits - CBS
-- 09/30 04:22 [financialjuice] OPEC+ is likely to stick with the plan for steady quotas - Delegates.
-- 09/30 04:24 [FirstSquawk] OPEC+ MEMBERS LED BY SAUDI ARABIA AND RUSSIA ARE LIKELY TO KEEP CRUDE PRODUCTION QUOTAS UNCHANGED FOR NOVEMBER, WITH DELEGATES EXPECTING THE GROUP TO RATIFY ITS EXISTING ROADMAP AT SUNDAY’S MEETING. MILLIONS OF BARRELS OF MIDDLE EASTERN PRO…
-- 09/30 04:24 [financialjuice] Iran's President's Office: We will not compromise on nuclear rights in any way; this was a key point highlighted in the President's speech - IRIB News.
-- 09/30 04:25 [financialjuice/FirstSquawk] CEO inside the room@: AI industry is ramping up - Fox
-- 09/30 04:27 [DeItaone] *OPEC+ LIKELY TO STICK WITH PLAN FOR STEADY QUOTAS: DELEGATES
-- 09/30 04:28 [FirstSquawk] IRAN PRESIDENT’S OFFICE: IRAN WILL NOT COMPROMISE ON ITS NUCLEAR RIGHTS — IRIB NEWS
-- 09/30 04:35 [financialjuice] House Speaker Johnson: Held a very productive meeting with tech executives
 - 09/30 04:38 [financialjuice] US House Speaker Johnson: AI providers are committed to building trust.
 - 09/30 04:39 [FirstSquawk] U.S. HOUSE SPEAKER JOHNSON SAYS ON A MEETING WITH AI LEADERS THAT THEY 'DISCUSSED STRIKING THE RIGHT BALANCE' AND AI COMPANIES ENSURING SAFETY, WITH AI PROVIDERS 'COMMITTED TO BUILDING TRUST'.
 - 09/30 04:39 [FirstSquawk] U.S. HOUSE SPEAKER JOHNSON SAYS 'WE JUST SIGNED AN ACCORD ON AI, WHICH IS A STATEMENT OF STANDARDS', ADDING THAT THE U.S. 'CAN KEEP ITS EDGE IN A SAFE WAY' AND WILL 'CONTINUE TO ASSESS AND DELIBERATE IN COMING DAYS'.
@@ -764,3 +756,11 @@
 - 10/01 04:06 [FirstSquawk] INDIAN EMBASSY IN SAUDI ARABIA SAYS IT HAS BEEN FOLLOWING THE HEALTH CONDITION OF SMIT MACHCHHAR, THE INDIAN PILOT OF THE FLYDUBAI FLIGHT THAT WAS DIVERTED TO TABUK TODAY, WHO IS ADMITTED IN A HOSPITAL IN TABUK CITY IN NORTHWEST SAUDI ARABI…
 - 10/01 04:07 [FirstSquawk] INDIAN EMBASSY SAYS A FULL UPDATE ON MACHCHHAR'S HEALTH IS AWAITED BUT HE IS REPORTED TO BE IN STABLE CONDITION, ADDING THAT IT IS IN TOUCH WITH HIS FAMILY AND WILL CONTINUE TO FOLLOW UP ON HIS HEALTH WITH SAUDI AUTHORITIES.
 - 10/01 04:07 [financialjuice] US Sec. of Defense Hegseth State Of The Force Address - WATCH LIVE
+- 10/01 04:23 [financialjuice] Thursday FX Options Expiries
+- 10/01 04:25 [financialjuice] US Sec. of Defense Hegseth announces creation of new autonomous warfare command
+- 10/01 04:25 [financialjuice] fed’s cook: Committed to returning inflation to the 2% objective while preserving labor market strength.
+- 10/01 04:26 [financialjuice] Fed's Cook: Inflation has been too high for too long.
+- 10/01 04:26 [DeItaone] FED’S COOK: INFLATION HAS BEEN TOO HIGH FOR TOO LONG Fed Governor Lisa Cook says she remains committed to bringing inflation back to target while preserving labor-market strength. Cook did not comment directly on today’s softer inflation da…
+- 10/01 04:28 [FirstSquawk] US DEFENSE SECRETARY HEGSETH ANNOUNCES CREATION OF NEW AUTONOMOUS WARFARE COMMAND
+- 10/01 04:30 [financialjuice] LIVE: Trump announces plans for a $54 billion project in Alaska
+- 10/01 04:35 [financialjuice] US Sec. of Defense Hegseth on new Autonomous Warfare Command: Musk, Gingrich, and Luckey will lead the new Pentagon project

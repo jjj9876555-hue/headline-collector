@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-01 04:20 JST／対象: 09/30 16:20 〜 10/01 04:20 JST（時刻はすべて日本時間）
+生成: 2026-10-01 04:35 JST／対象: 09/30 16:35 〜 10/01 04:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 67 | 09/30 18:55 | 10/01 03:56 | ⚠ 77分（00:53→02:11） |
-| FirstSquawk | 142 | 09/30 16:23 | 10/01 04:07 | 31分（17:30→18:02） |
-| financialjuice | 163 | 09/30 16:55 | 10/01 04:07 | ⚠ 50分（17:10→18:01） |
+| DeItaone | 68 | 09/30 18:55 | 10/01 04:26 | ⚠ 77分（00:53→02:11） |
+| FirstSquawk | 137 | 09/30 16:55 | 10/01 04:28 | 31分（17:30→18:02） |
+| financialjuice | 169 | 09/30 16:55 | 10/01 04:35 | ⚠ 50分（17:10→18:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 359 行（統合前 373 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 361 行（統合前 375 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 16:23 [FirstSquawk] IRAQ'S DAILY OIL EXPORTS AVERAGED 2.65 MILLION BPD IN SEPTEMBER, WITH 250,000 BPD SHIPPED THROUGH TURKEY'S CEYHAN PORT, ACCORDING TO THE OIL MINISTRY SPOKESPERSON.
-- 09/30 16:23 [FirstSquawk] US OFFICIALLY ENDS OPERATION INHERENT RESOLVE IN IRAQ.
-- 09/30 16:29 [FirstSquawk] FLY DUBAI FLIGHT FZ 1073 FROM DUBAI TO TEL AVIV HAD A SITUATION ON 30 SEPTEMBER.
-- 09/30 16:33 [FirstSquawk] RIKSBANK'S THEDEEN SAYS SWEDEN'S ECONOMY IS UNEXPECTEDLY STRONG.
-- 09/30 16:33 [FirstSquawk] NOVO'S LANGE SAYS HENGRUI WEIGHT LOSS PILL COULD BE AVAILABLE BY 2030.
-- 09/30 16:33 [FirstSquawk] NOVO REVEALS HENGRUI OBESITY PILL WILL BEGIN PHASE 1 TRIALS SOON.
 - 09/30 16:55 [financialjuice] ‼ BREAKING: GERMAN UNEMPLOYMENT CHANGE SA ACTUAL 12K (FORECAST 0.5K, PREVIOUS 4K) $MACRO
 - 09/30 16:55 [financialjuice] ❗ GERMAN UNEMPLOYMENT RATE ACTUAL 6.4% (FORECAST 6.4%, PREVIOUS 6.4%) $MACRO
 - 09/30 16:55 [FirstSquawk] GERMANY'S UNEMPLOYMENT INCREASED BY 12,000 IN SEPTEMBER; ESTIMATES WERE ONLY A RISE OF 500.
@@ -383,3 +377,11 @@
 - 10/01 04:06 [FirstSquawk] INDIAN EMBASSY IN SAUDI ARABIA SAYS IT HAS BEEN FOLLOWING THE HEALTH CONDITION OF SMIT MACHCHHAR, THE INDIAN PILOT OF THE FLYDUBAI FLIGHT THAT WAS DIVERTED TO TABUK TODAY, WHO IS ADMITTED IN A HOSPITAL IN TABUK CITY IN NORTHWEST SAUDI ARABI…
 - 10/01 04:07 [FirstSquawk] INDIAN EMBASSY SAYS A FULL UPDATE ON MACHCHHAR'S HEALTH IS AWAITED BUT HE IS REPORTED TO BE IN STABLE CONDITION, ADDING THAT IT IS IN TOUCH WITH HIS FAMILY AND WILL CONTINUE TO FOLLOW UP ON HIS HEALTH WITH SAUDI AUTHORITIES.
 - 10/01 04:07 [financialjuice] US Sec. of Defense Hegseth State Of The Force Address - WATCH LIVE
+- 10/01 04:23 [financialjuice] Thursday FX Options Expiries
+- 10/01 04:25 [financialjuice] US Sec. of Defense Hegseth announces creation of new autonomous warfare command
+- 10/01 04:25 [financialjuice] fed’s cook: Committed to returning inflation to the 2% objective while preserving labor market strength.
+- 10/01 04:26 [financialjuice] Fed's Cook: Inflation has been too high for too long.
+- 10/01 04:26 [DeItaone] FED’S COOK: INFLATION HAS BEEN TOO HIGH FOR TOO LONG Fed Governor Lisa Cook says she remains committed to bringing inflation back to target while preserving labor-market strength. Cook did not comment directly on today’s softer inflation da…
+- 10/01 04:28 [FirstSquawk] US DEFENSE SECRETARY HEGSETH ANNOUNCES CREATION OF NEW AUTONOMOUS WARFARE COMMAND
+- 10/01 04:30 [financialjuice] LIVE: Trump announces plans for a $54 billion project in Alaska
+- 10/01 04:35 [financialjuice] US Sec. of Defense Hegseth on new Autonomous Warfare Command: Musk, Gingrich, and Luckey will lead the new Pentagon project
