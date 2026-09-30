@@ -7,41 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-01 00:10 JST／対象: 09/30 00:10 〜 10/01 00:10 JST（時刻はすべて日本時間）
+生成: 2026-10-01 00:33 JST／対象: 09/30 00:33 〜 10/01 00:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 86 | 09/30 00:25 | 09/30 23:35 | ⚠ 789分（05:46→18:55） |
-| FirstSquawk | 386 | 09/30 00:15 | 10/01 00:08 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 419 | 09/30 00:12 | 10/01 00:08 | ⚠ 80分（10:57→12:18） |
+| DeItaone | 85 | 09/30 00:34 | 09/30 23:35 | ⚠ 789分（05:46→18:55） |
+| FirstSquawk | 384 | 09/30 00:35 | 10/01 00:31 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 411 | 09/30 00:33 | 10/01 00:31 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 871 行（統合前 895 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 860 行（統合前 884 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 00:12 [financialjuice] Trump will headline a midterm rally in Nebraska on Monday - CNN.
-- 09/30 00:15 [FirstSquawk] APPLE’S NEW CEO MOVES TO OVERHAUL COMPANY TO RUN FASTER, LEANER
-- 09/30 00:15 [FirstSquawk] APPLE’S TERNUS DISCUSSES HOLDING MORE FREQUENT PRODUCT LAUNCHES
-- 09/30 00:15 [financialjuice] Apple Cuts Engineering Program Managers in Efficiency Push $AAPL
-- 09/30 00:15 [financialjuice] Fed bids for 52-Week bills total $5.2 bln
-- 09/30 00:21 [financialjuice] Israel's Yamina Leader Bennett: The IDF is on verge of collapse and lacks enough soldiers to deal with threats cited by Israeli Prime Minister Netanyahu - Israel's Channel 12 News.
-- 09/30 00:25 [DeItaone] HOMELAND SECURITY MONEY FINANCED PRO-TRUMP TV ADS, SOURCES SAY
-- 09/30 00:28 [FirstSquawk] DIMON: JPMORGAN MAY EXCEED $1.5T GOAL FOR NATL SEC. INITIATIVE
-- 09/30 00:28 [FirstSquawk] ANTHROPIC DISCLOSES UP TO $84.5 BLN IN SPACEX COMPUTE DEALS THROUGH 2029 - INFORMATION
-- 09/30 00:31 [financialjuice] BoE's Taylor: The right policy response is vigilant but disciplined.
-- 09/30 00:31 [financialjuice] BoE's Taylor: Monetary policy should not react mechanically to movements in energy prices if those movements remain primarily relative-price shocks.
-- 09/30 00:31 [FirstSquawk] RUSSIA SAYS IT HIT DRY CARGO SHIP IN BLACK SEA: IFX
-- 09/30 00:31 [financialjuice] BoE's Taylor: If pressure builds and second-round effects begin to gain traction, the policy assessment would have to change.
-- 09/30 00:32 [financialjuice] BoE's Taylor: At some point, once energy risks abate, policy will need to move in the other direction.
-- 09/30 00:32 [financialjuice] BoE's Taylor: The burden of proof for additional tightening should rest on evidence that second-round effects are actually gaining traction.
-- 09/30 00:32 [financialjuice] US 52-WEEK BILL HIGH YIELD ACTUAL 4.4% (FORECAST -, PREVIOUS 3.980%) $MACRO
-- 09/30 00:32 [financialjuice] US 52-WEEK BILL BID-TO-COVER ACTUAL 3.070 (FORECAST -, PREVIOUS 3.610) $MACRO
-- 09/30 00:33 [financialjuice] BoE's Taylor: The case for further rate increases is not compelling to me unless energy prices remain high for an extended period and also generate clearer signals of a transmission into broader inflation persistence.
 - 09/30 00:33 [financialjuice] BoE's Taylor: The economy is proving less susceptible, at least so far, to a repeat of the inflation dynamics seen in 2022.
 - 09/30 00:33 [financialjuice] US 52 Week Bill Auction High rate 4.4% Bid-To-Cover 3.07 Sells $54 bln Awards 70.21% of bids at high
 - 09/30 00:33 [financialjuice] BoE's Taylor: There is a non-trivial risk to inflation.
@@ -895,3 +877,10 @@
 - 10/01 00:02 [FirstSquawk] US TREASURY TO BUY UP TO $6 BLN OF 10-20 YEAR DEBT IN OCTOBER 1 LIQUIDITY BUYBACK
 - 10/01 00:08 [financialjuice] Senate Republican Leader Thune: Congress may raise debt limit after election
 - 10/01 00:08 [FirstSquawk] SIKORSKY, US ARMY REACH NOVEL PRODUCTION AGREEMENT FOR BLACK HAWK HELICOPTER TO ACCELERATE US AND ALLIED FIELDING - LMT
+- 10/01 00:13 [financialjuice] SNB's Governing Board Member Tschudin: Stablecoins and lower connection to the two-level finance system make the transmission of monetary policy more difficult
+- 10/01 00:20 [FirstSquawk] COREWEAVE CEO: NEW CLOUD PRODUCT FORGE SEEN BOOSTING MARGINS
+- 10/01 00:25 [financialjuice] Pakistan Defense Minister Asif: Pakistan will use all possible means to defend Saudi Arabia against what he calls foreign aggression - IRNA
+- 10/01 00:26 [financialjuice] Pakistan Defense Minister Asif declines to comment on potential Pakistani involvement in Saudi-led attacks on Yemen - IRNA
+- 10/01 00:31 [financialjuice] Smoke plumes in the Qatif region of Saudi Arabia - Iran's Mehr News
+- 10/01 00:31 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 0.24%; GERMANY'S DAX DOWN 0.74%
+- 10/01 00:31 [FirstSquawk] FRANCE'S CAC 40 DOWN 0.93%; SPAIN'S IBEX DOWN 0.36%

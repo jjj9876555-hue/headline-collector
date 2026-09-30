@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-01 00:10 JST／対象: 09/30 12:10 〜 10/01 00:10 JST（時刻はすべて日本時間）
+生成: 2026-10-01 00:33 JST／対象: 09/30 12:33 〜 10/01 00:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 41 | 09/30 18:55 | 09/30 23:35 | 20分（22:25→22:46） |
-| FirstSquawk | 171 | 09/30 12:15 | 10/01 00:08 | 31分（17:30→18:02） |
-| financialjuice | 131 | 09/30 12:18 | 10/01 00:08 | ⚠ 58分（14:00→14:59） |
+| FirstSquawk | 169 | 09/30 12:36 | 10/01 00:31 | 31分（17:30→18:02） |
+| financialjuice | 133 | 09/30 13:02 | 10/01 00:31 | ⚠ 58分（14:00→14:59） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 334 行（統合前 343 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 335 行（統合前 343 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 12:15 [FirstSquawk] Singapore dollar steadies ahead of major U.S. economic data — WSJ
-- 09/30 12:18 [financialjuice/FirstSquawk] China Finance Ministry to sell 20 billion yuan of 28-day bills on Oct. 8
-- 09/30 12:19 [financialjuice] China finance ministry: to reopen 80 billion yuan 10-year bonds on Oct. 9
-- 09/30 12:19 [FirstSquawk] China Finance Ministry to sell 80 billion yuan of reopened 10-year bonds on Oct. 9
-- 09/30 12:25 [FirstSquawk] Human Made ramps up global expansion as Japanese fashion brand
-- 09/30 12:32 [FirstSquawk] Trump expected to announce South Korea investment projects as early as Wednesday, YONHAP says
 - 09/30 12:36 [FirstSquawk] Japan 2-year JGB auction sees bid-to-cover ratio of 3.89
 - 09/30 12:44 [FirstSquawk] More than 3,000 food items in Japan to face price hikes in October
 - 09/30 12:48 [FirstSquawk] New Zealand dollar consolidates near 0.5625 support amid uncertain outlook - FX
@@ -358,3 +352,10 @@
 - 10/01 00:02 [FirstSquawk] US TREASURY TO BUY UP TO $6 BLN OF 10-20 YEAR DEBT IN OCTOBER 1 LIQUIDITY BUYBACK
 - 10/01 00:08 [financialjuice] Senate Republican Leader Thune: Congress may raise debt limit after election
 - 10/01 00:08 [FirstSquawk] SIKORSKY, US ARMY REACH NOVEL PRODUCTION AGREEMENT FOR BLACK HAWK HELICOPTER TO ACCELERATE US AND ALLIED FIELDING - LMT
+- 10/01 00:13 [financialjuice] SNB's Governing Board Member Tschudin: Stablecoins and lower connection to the two-level finance system make the transmission of monetary policy more difficult
+- 10/01 00:20 [FirstSquawk] COREWEAVE CEO: NEW CLOUD PRODUCT FORGE SEEN BOOSTING MARGINS
+- 10/01 00:25 [financialjuice] Pakistan Defense Minister Asif: Pakistan will use all possible means to defend Saudi Arabia against what he calls foreign aggression - IRNA
+- 10/01 00:26 [financialjuice] Pakistan Defense Minister Asif declines to comment on potential Pakistani involvement in Saudi-led attacks on Yemen - IRNA
+- 10/01 00:31 [financialjuice] Smoke plumes in the Qatif region of Saudi Arabia - Iran's Mehr News
+- 10/01 00:31 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 0.24%; GERMANY'S DAX DOWN 0.74%
+- 10/01 00:31 [FirstSquawk] FRANCE'S CAC 40 DOWN 0.93%; SPAIN'S IBEX DOWN 0.36%

@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 00:10 JST／対象: 09/30 18:10 〜 10/01 00:10 JST（時刻はすべて日本時間）
+生成: 2026-10-01 00:33 JST／対象: 09/30 18:33 〜 10/01 00:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 41 | 09/30 18:55 | 09/30 23:35 | 20分（22:25→22:46） |
-| FirstSquawk | 84 | 09/30 18:37 | 10/01 00:08 | 23分（19:06→19:29） |
-| financialjuice | 86 | 09/30 18:29 | 10/01 00:08 | 31分（20:00→20:32） |
+| FirstSquawk | 87 | 09/30 18:37 | 10/01 00:31 | 23分（19:06→19:29） |
+| financialjuice | 79 | 09/30 18:33 | 10/01 00:31 | 31分（20:00→20:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 203 行（統合前 211 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 199 行（統合前 207 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 18:29 [financialjuice] Japan PM Takaichi: Takaichi administration will boost supply side of the economy.
-- 09/30 18:30 [financialjuice] Japan PM Takaichi: Government will set a clearer path of economy and fiscal policy management.
-- 09/30 18:30 [financialjuice] UKMTO gets time-late report of incident in Hormuz.
-- 09/30 18:31 [financialjuice] BoE FPC: Likelihood financial risks crystallise at same time has risen since July.
-- 09/30 18:32 [financialjuice] BoE FPC: Rise in oil and gas prices has led to more protracted supply shock.
-- 09/30 18:32 [financialjuice] GERMAN 10 YR BUND YIELD ACTUAL 3.58% (FORECAST -, PREVIOUS 3.39%) $MACRO
-- 09/30 18:32 [financialjuice] GERMAN 10 YR BUND BID-TO-COVER ACTUAL 1.2 (FORECAST -, PREVIOUS 1.5) $MACRO
-- 09/30 18:32 [financialjuice] BoE FPC: Frontier AI breaches reinforce need for financial firms to prepare for risk, engage wth UK authorities.
-- 09/30 18:32 [financialjuice] BoE FPC: BoE will set out proposed bank leverage ratio reforms and gilt repo reforms in early 2027.
-- 09/30 18:32 [financialjuice] BoE FPC: Planned market-based reforms to gilt repo will mitigate risks from leverage ratio changes.
-- 09/30 18:32 [financialjuice] BoE FPC: Financial markets so far have been resilient to higher energy prices and bond yields.
 - 09/30 18:33 [financialjuice] BoE FPC: Risky credit markets, including parts of private credit, remain vulnerable to tighter financing conditions.
 - 09/30 18:33 [financialjuice] BoE FPC: UK households and corporates remain resilient, banking system remains appropriately capitalised.
 - 09/30 18:37 [FirstSquawk] BANK OF ENGLAND FPC SAYS CHANCES OF FINANCIAL RISKS OCCURRING SIMULTANEOUSLY HAVE INCREASED SINCE JULY.
@@ -227,3 +216,10 @@
 - 10/01 00:02 [FirstSquawk] US TREASURY TO BUY UP TO $6 BLN OF 10-20 YEAR DEBT IN OCTOBER 1 LIQUIDITY BUYBACK
 - 10/01 00:08 [financialjuice] Senate Republican Leader Thune: Congress may raise debt limit after election
 - 10/01 00:08 [FirstSquawk] SIKORSKY, US ARMY REACH NOVEL PRODUCTION AGREEMENT FOR BLACK HAWK HELICOPTER TO ACCELERATE US AND ALLIED FIELDING - LMT
+- 10/01 00:13 [financialjuice] SNB's Governing Board Member Tschudin: Stablecoins and lower connection to the two-level finance system make the transmission of monetary policy more difficult
+- 10/01 00:20 [FirstSquawk] COREWEAVE CEO: NEW CLOUD PRODUCT FORGE SEEN BOOSTING MARGINS
+- 10/01 00:25 [financialjuice] Pakistan Defense Minister Asif: Pakistan will use all possible means to defend Saudi Arabia against what he calls foreign aggression - IRNA
+- 10/01 00:26 [financialjuice] Pakistan Defense Minister Asif declines to comment on potential Pakistani involvement in Saudi-led attacks on Yemen - IRNA
+- 10/01 00:31 [financialjuice] Smoke plumes in the Qatif region of Saudi Arabia - Iran's Mehr News
+- 10/01 00:31 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 0.24%; GERMANY'S DAX DOWN 0.74%
+- 10/01 00:31 [FirstSquawk] FRANCE'S CAC 40 DOWN 0.93%; SPAIN'S IBEX DOWN 0.36%
