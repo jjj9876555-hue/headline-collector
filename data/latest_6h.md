@@ -7,36 +7,24 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-30 11:54 JST／対象: 09/30 05:54 〜 09/30 11:54 JST（時刻はすべて日本時間）
+生成: 2026-09-30 12:19 JST／対象: 09/30 06:19 〜 09/30 12:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 111 | 09/30 06:04 | 09/30 11:51 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 81 | 09/30 05:56 | 09/30 10:57 | ⚠ 67分（06:32→07:40） |
+| FirstSquawk | 115 | 09/30 06:19 | 09/30 12:19 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 74 | 09/30 06:26 | 09/30 12:19 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 190 行（統合前 192 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 188 行（統合前 189 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 05:56 [financialjuice] US API CUSHING STOCK CHANGE ACTUAL 0.233M (FORECAST -, PREVIOUS 2.082M) $MACRO
-- 09/30 06:01 [financialjuice] Trump likely to unveil $54 billion from South Korean investment fund for Alaska LNG project as soon as Wednesday - sources
-- 09/30 06:02 [financialjuice/FirstSquawk] Elon Musk: SpaceX and Tesla target 200 gigawatts of annual solar output
-- 09/30 06:05 [financialjuice] North Korea: South Korea fabricating 'baseless findings' on mine blast in DMZ injuring troops - KCNA
-- 09/30 06:06 [financialjuice] North Korea: South Korea could encounter a miserable and catastrophic situation - KCNA
-- 09/30 06:07 [FirstSquawk] NORTH KOREA SAYS SOUTH KOREA IS FABRICATING 'BASELESS FINDINGS' ON A MINE BLAST IN THE DMZ THAT INJURED TROOPS, WARNING THAT SOUTH KOREA 'COULD ENCOUNTER A MISERABLE AND CATASTROPHIC SITUATION' - KCNA
-- 09/30 06:07 [financialjuice] North Korea: troops never crossed military border as alleged by Seoul - KCNA
-- 09/30 06:08 [financialjuice] North Korea: constructing barriers along border as demonstration of sovereignty, not for military aims - KCNA
-- 09/30 06:08 [FirstSquawk] NORTH KOREA SAYS SOUTH KOREA IS COOKING UP 'GROUNDLESS RESULTS' OVER A MINE BLAST IN THE DMZ THAT INJURED SOUTH KOREAN TROOPS, WARNING THAT SOUTH KOREA CAN FACE 'A MISERABLE AND CATASTROPHIC POSITION'.
-- 09/30 06:08 [FirstSquawk] NORTH KOREA SAYS ITS TROOPS HAVE NEVER CROSSED THE MILITARY BORDER AS CLAIMED BY SEOUL, AND THAT IT IS BUILDING BARRIERS ALONG THE BORDER AS AN EXERCISE OF SOVEREIGNTY UNRELATED TO ANY MILITARY PURPOSE - KCNA
-- 09/30 06:14 [financialjuice] Nvidia's Jensen Huang: White House declaration carries significant impact
-- 09/30 06:15 [FirstSquawk] CANADA PM CARNEY SAYS CANADA IS VERY DISAPPOINTED BY CLEVELAND-CLIFFS' DECISION TO IDLE PART OF ITS HAMILTON PLANT, ADDING THAT CANADA WILL USE ALL THE POWERS IT HAS TO ENSURE CLEVELAND-CLIFFS LIVES UP TO ITS OBLIGATIONS
-- 09/30 06:18 [financialjuice/FirstSquawk] Trump tells Axios: Jay Clayton would make a good AI chief
+- 09/30 06:19 [FirstSquawk] TRUMP TELLS AXIOS: JAY CLAYTON WOULD MAKE A GOOD AI CHIEF
 - 09/30 06:20 [FirstSquawk] FDA INVESTIGATION HAS LED TO CHARGES AGAINST TWO INDIAN NATIONALS INVOLVED IN A TRANSNATIONAL COUNTERFEIT DRUG DISTRIBUTION SCHEME, WITH THE FDA ALLEGING THAT BETWEEN JULY 2023 AND APRIL 2024, SWAPNADIP ROY AND VICKY RAMANCHA OBTAINED COUNT…
 - 09/30 06:26 [financialjuice] Trump releases document approved by all executives at White House on Tuesday: Truth Social
 - 09/30 06:27 [financialjuice] Document shared by Trump: Each company should apply four layers of controls and audits
@@ -214,3 +202,13 @@
 - 09/30 11:43 [FirstSquawk] Vietnam’s HDBank plans to raise $500 million through USD-denominated bonds overseas
 - 09/30 11:45 [FirstSquawk] Australia’s benchmark ASX 200 gains 1% to 8,794.50, highest since Sept. 11
 - 09/30 11:51 [FirstSquawk] China’s CSI Health Care Industry Index climbs more than 3%
+- 09/30 11:55 [FirstSquawk] Indonesia central bank will use spot instruments to respond to FX volatility when necessary — official
+- 09/30 11:56 [FirstSquawk] Brooklyn Nets name Alibaba Group official technology and cloud partner
+- 09/30 12:03 [FirstSquawk] Air New Zealand refers to TAIC report on engine fire aboard NZ5366 flight from Christchurch to Wellington
+- 09/30 12:03 [FirstSquawk] TAIC found turbine blade fatigue caused Air New Zealand flight fire, with no evidence of maintenance or operating issues contributing to failure
+- 09/30 12:04 [FirstSquawk] Air New Zealand says TAIC found no other similar turbine blade failures in PW100 engine series
+- 09/30 12:04 [FirstSquawk] Air New Zealand accepts TAIC findings, cites changes to training, procedures and passenger safety information
+- 09/30 12:09 [FirstSquawk] JPMorgan lifts Mondi target price to 890p from 800p
+- 09/30 12:15 [FirstSquawk] Singapore dollar steadies ahead of major U.S. economic data — WSJ
+- 09/30 12:18 [financialjuice/FirstSquawk] China Finance Ministry to sell 20 billion yuan of 28-day bills on Oct. 8
+- 09/30 12:19 [financialjuice] China finance ministry: to reopen 80 billion yuan 10-year bonds on Oct. 9

@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-30 11:54 JST／対象: 09/29 11:54 〜 09/30 11:54 JST（時刻はすべて日本時間）
+生成: 2026-09-30 12:19 JST／対象: 09/29 12:19 〜 09/30 12:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 88 | 09/29 20:26 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
-| FirstSquawk | 434 | 09/29 12:01 | 09/30 11:51 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 425 | 09/29 12:24 | 09/30 10:57 | ⚠ 67分（06:32→07:40） |
+| FirstSquawk | 436 | 09/29 12:22 | 09/30 12:19 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 427 | 09/29 12:24 | 09/30 12:19 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 922 行（統合前 953 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 925 行（統合前 957 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 12:01 [FirstSquawk] MAS deputy chair: Singapore to commit $1.1 billion across five asset managers to strengthen equities market
-- 09/29 12:01 [FirstSquawk] US Navy reports aircraft recovery incident aboard Nimitz-class carrier USS Dwight D. Eisenhower off Virginia coast
-- 09/29 12:02 [FirstSquawk] Two naval aviators from Carrier Air Wing 3 recovered by search-and-rescue personnel, US Navy says
-- 09/29 12:03 [FirstSquawk] US Navy says one sailor is being transported to a Norfolk-area hospital for treatment of non-life-threatening injuries
-- 09/29 12:03 [FirstSquawk] Four shipboard personnel injured in incident, US Navy says
-- 09/29 12:04 [FirstSquawk] Singapore MAS to launch $16 million market-making sleeve to support SGX stock trading
-- 09/29 12:14 [FirstSquawk] China asks local governments to trial ‘high-quality’ policies to spur consumer spending
 - 09/29 12:22 [FirstSquawk] Dollar index gains as rising oil prices lift Fed rate-hike expectations - FX
 - 09/29 12:24 [financialjuice] CNN, MSNBC and Politico ask judge to block Trump from reviving White House ban
 - 09/29 12:24 [FirstSquawk] CNN, MS NOW and Politico ask court to halt Trump’s attempt to revive White House ban
@@ -946,3 +939,13 @@
 - 09/30 11:43 [FirstSquawk] Vietnam’s HDBank plans to raise $500 million through USD-denominated bonds overseas
 - 09/30 11:45 [FirstSquawk] Australia’s benchmark ASX 200 gains 1% to 8,794.50, highest since Sept. 11
 - 09/30 11:51 [FirstSquawk] China’s CSI Health Care Industry Index climbs more than 3%
+- 09/30 11:55 [FirstSquawk] Indonesia central bank will use spot instruments to respond to FX volatility when necessary — official
+- 09/30 11:56 [FirstSquawk] Brooklyn Nets name Alibaba Group official technology and cloud partner
+- 09/30 12:03 [FirstSquawk] Air New Zealand refers to TAIC report on engine fire aboard NZ5366 flight from Christchurch to Wellington
+- 09/30 12:03 [FirstSquawk] TAIC found turbine blade fatigue caused Air New Zealand flight fire, with no evidence of maintenance or operating issues contributing to failure
+- 09/30 12:04 [FirstSquawk] Air New Zealand says TAIC found no other similar turbine blade failures in PW100 engine series
+- 09/30 12:04 [FirstSquawk] Air New Zealand accepts TAIC findings, cites changes to training, procedures and passenger safety information
+- 09/30 12:09 [FirstSquawk] JPMorgan lifts Mondi target price to 890p from 800p
+- 09/30 12:15 [FirstSquawk] Singapore dollar steadies ahead of major U.S. economic data — WSJ
+- 09/30 12:18 [financialjuice/FirstSquawk] China Finance Ministry to sell 20 billion yuan of 28-day bills on Oct. 8
+- 09/30 12:19 [financialjuice] China finance ministry: to reopen 80 billion yuan 10-year bonds on Oct. 9
