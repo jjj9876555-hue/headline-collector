@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-30 15:51 JST／対象: 09/30 09:51 〜 09/30 15:51 JST（時刻はすべて日本時間）
+生成: 2026-09-30 16:06 JST／対象: 09/30 10:06 〜 09/30 16:06 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 130 | 09/30 09:51 | 09/30 15:48 | 17分（13:16→13:33） |
-| financialjuice | 60 | 09/30 10:00 | 09/30 15:45 | ⚠ 80分（10:57→12:18） |
+| FirstSquawk | 123 | 09/30 10:07 | 09/30 16:01 | 17分（13:16→13:33） |
+| financialjuice | 60 | 09/30 10:16 | 09/30 16:01 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 189 行（統合前 190 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 182 行（統合前 183 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 09:51 [FirstSquawk] Russian ballistic missile strikes rock Kyiv, leaving parts of capital without power
-- 09/30 09:55 [FirstSquawk] WSJ: Oil prices mixed, with production recovery potentially weighing on prices
-- 09/30 09:55 [FirstSquawk] WSJ: Nikkei climbs 1.5%, driven by gains in chip and bank stocks
-- 09/30 09:56 [FirstSquawk] WSJ: Short-term JGBs advance alongside gains in similar-maturity U.S. Treasurys
-- 09/30 09:59 [FirstSquawk] FXStreet: Euro weakens below 1.1350 as Lagarde signals dovish stance, German retail sales awaited
-- 09/30 10:00 [financialjuice] Taiwan overnight interbank rate starts at 0.805% vs 0.805% at prior session open
-- 09/30 10:00 [FirstSquawk] Philippines August exports climb 27.8% versus year ago
-- 09/30 10:01 [FirstSquawk] Taiwan overnight interbank rate opens unchanged at 0.805% from previous session
-- 09/30 10:02 [FirstSquawk] WSJ: Market turbulence and AI safety worries cloud prospects for blockbuster fall IPOs
 - 09/30 10:07 [FirstSquawk] South Korea calls for closer coordination between donor and recipient nations on development projects - yonhap
 - 09/30 10:11 [FirstSquawk] South Korean envoy says Seoul remains committed to facilitating renewed U.S.-North Korea dialogue - yonhap
 - 09/30 10:13 [FirstSquawk] Fitch Ratings says Vietnam banks’ capitalisation will remain steady as lenders pursue $5.7 billion in fresh capital
@@ -213,3 +204,5 @@
 - 09/30 15:48 [FirstSquawk] FRANCE (SEP) CPI MOM ACTUAL: -0.3% VS 0.7% PREVIOUS;EST -0.5%
 - 09/30 15:48 [FirstSquawk] FRANCE (SEP) CPI EU HARMONIZED YOY ACTUAL: 3.4% VS 2.6% PREVIOUS;EST 3.2%
 - 09/30 15:48 [FirstSquawk] FRANCE (SEP) CPI EU HARMONIZED MOM ACTUAL: -0.4% VS 0.7% PREVIOUS;EST -0.5%
+- 09/30 16:01 [financialjuice] Russia extends diesel export ban through October - IFX
+- 09/30 16:01 [FirstSquawk] Israeli prime minister’s spokesperson says Flydubai incident is not a hijacking

@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-30 15:51 JST／対象: 09/29 15:51 〜 09/30 15:51 JST（時刻はすべて日本時間）
+生成: 2026-09-30 16:06 JST／対象: 09/29 16:06 〜 09/30 16:06 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 88 | 09/29 20:26 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
-| FirstSquawk | 431 | 09/29 15:58 | 09/30 15:48 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 410 | 09/29 16:00 | 09/30 15:45 | ⚠ 80分（10:57→12:18） |
+| FirstSquawk | 422 | 09/29 16:10 | 09/30 16:01 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 405 | 09/29 16:13 | 09/30 16:01 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 903 行（統合前 935 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 889 行（統合前 921 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 15:58 [FirstSquawk] South Korea Joint Chiefs of Staff: DMZ mines likely planted just over a year ago
-- 09/29 15:59 [FirstSquawk] South Korea Joint Chiefs of Staff: UN Command says DMZ explosion mines were clearly south of Military Demarcation Line
-- 09/29 16:00 [financialjuice] SPANISH CPI MOM FLASH ACTUAL 0.3% (FORECAST 0.1%, PREVIOUS 0.70%) $MACRO
-- 09/29 16:00 [financialjuice] SPANISH HICP MOM FLASH ACTUAL 0.6% (FORECAST 0.6%, PREVIOUS 0.7%) $MACRO
-- 09/29 16:00 [financialjuice] SPANISH HICP YOY FLASH ACTUAL 5% (FORECAST 4.9%, PREVIOUS 4.6%) $MACRO
-- 09/29 16:00 [financialjuice] SWISS KOF INDICATOR ACTUAL 109.1 (FORECAST 106, PREVIOUS 106.7) $MACRO
-- 09/29 16:00 [financialjuice] SPANISH CPI YOY FLASH ACTUAL 4.9% (FORECAST 4.6%, PREVIOUS 4.3%) $MACRO
-- 09/29 16:00 [financialjuice] SPANISH RETAIL SALES SA YOY ACTUAL -0.4% (FORECAST -, PREVIOUS -0.3%) $MACRO
-- 09/29 16:02 [FirstSquawk] SPAIN CPI (Y/Y) SEP P: 4.9% (EST 4.6%; PREV 4.3%)
-- 09/29 16:02 [FirstSquawk] SPAIN CPI (M/M): 0.3% (EST 0.1%; PREV 0.7%)
-- 09/29 16:02 [FirstSquawk] SPAIN CPI EU H. (Y/Y): 5.0% (EST 4.9%; PREV 4.6%)
-- 09/29 16:02 [FirstSquawk] SWITZERLAND KOF LEADING INDICATOR SEP: 109.1 (EST 106.0; PREV 106.7; PREV R 107.5)
-- 09/29 16:02 [FirstSquawk] SPAIN CPI EU H. (M/M): 0.6% (EST 0.6%; PREV 0.7%)
-- 09/29 16:02 [FirstSquawk] SPAIN CPI CORE (Y/Y): 3.1% (EST 3.0%; PREV 2.9%)
-- 09/29 16:02 [FirstSquawk] SPAIN RETAIL SALES (Y/Y) AUG: -1.1% (PREV -0.2%; PREV R -0.3%)
-- 09/29 16:02 [FirstSquawk] SPAIN RETAIL SALES SA (Y/Y): -0.4% (EST -0.3%; PREV R -0.4%)
 - 09/29 16:10 [FirstSquawk] BRITAIN'S FTSE 100 UP 0.18% || FRANCE'S CAC 40 UP 0.05% || SPAIN'S IBEX UP 0.26% || GERMANY'S DAX UP 0.08%
 - 09/29 16:10 [FirstSquawk] NHTSA HAS CLOSED A DEFECT PETITION REGARDING 806,963 HONDA ODYSSEY VEHICLES IN THE U.S. DUE TO AIRBAGS DEPLOYING UNINTENTIONALLY WHILE DRIVING.
 - 09/29 16:11 [FirstSquawk] NHTSA ENDS INITIAL REVIEW OF 1,076,999 CHRYSLER CARS DUE TO UNDERHOOD FIRES WHEN VEHICLES ARE TURNED OFF.
@@ -927,3 +911,5 @@
 - 09/30 15:48 [FirstSquawk] FRANCE (SEP) CPI MOM ACTUAL: -0.3% VS 0.7% PREVIOUS;EST -0.5%
 - 09/30 15:48 [FirstSquawk] FRANCE (SEP) CPI EU HARMONIZED YOY ACTUAL: 3.4% VS 2.6% PREVIOUS;EST 3.2%
 - 09/30 15:48 [FirstSquawk] FRANCE (SEP) CPI EU HARMONIZED MOM ACTUAL: -0.4% VS 0.7% PREVIOUS;EST -0.5%
+- 09/30 16:01 [financialjuice] Russia extends diesel export ban through October - IFX
+- 09/30 16:01 [FirstSquawk] Israeli prime minister’s spokesperson says Flydubai incident is not a hijacking

@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-30 15:51 JST／対象: 09/30 03:51 〜 09/30 15:51 JST（時刻はすべて日本時間）
+生成: 2026-09-30 16:06 JST／対象: 09/30 04:06 〜 09/30 16:06 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 22 | 09/30 04:01 | 09/30 05:46 | 23分（05:12→05:36） |
-| FirstSquawk | 222 | 09/30 03:51 | 09/30 15:48 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 155 | 09/30 03:51 | 09/30 15:45 | ⚠ 80分（10:57→12:18） |
+| DeItaone | 19 | 09/30 04:27 | 09/30 05:46 | 23分（05:12→05:36） |
+| FirstSquawk | 218 | 09/30 04:09 | 09/30 16:01 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 152 | 09/30 04:09 | 09/30 16:01 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 392 行（統合前 400 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 382 行（統合前 390 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 03:51 [financialjuice] Traders now see about a 50-50 chance of a Fed rate hike in October, down from about 70% previously.
-- 09/30 03:51 [FirstSquawk] TRADERS SEE 50-50 CHANCE OF OCTOBER FED RATE HIKE, DOWN FROM 70% PREVIOUSLY
-- 09/30 03:52 [financialjuice] Brent Crude futures settle at $102.59/bbl, down $2.69, 2.56%.
-- 09/30 03:53 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 3.48% LOWER AT $89.38/BBL, DOWN $3.22
-- 09/30 03:54 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 2.56% LOWER AT $102.59/BBL, DOWN $2.69
-- 09/30 03:57 [financialjuice] OpenAI aims to prioritize mission and safety before IPO.
-- 09/30 04:00 [financialjuice] Fed's Waller does not comment on monetary policy, economic outlook in remarks on 'Payments in the Age of AI Agents'
-- 09/30 04:00 [FirstSquawk] FED’S WALLER MAKES NO COMMENTS ON MONETARY POLICY OR ECONOMIC OUTLOOK IN REMARKS ON “PAYMENTS IN THE AGE OF AI AGENTS”
-- 09/30 04:01 [DeItaone] EURO HITS 16-MONTH LOW AGAINST US DOLLAR, LAST DOWN 0.26% AT $1.13415
-- 09/30 04:02 [FirstSquawk] US AGRICULTURE PRICES PAID RISE 5.3% IN AUGUST, EASING FROM 7.7%; PRICES RECEIVED FALL 2.0% VS 2.6% PREVIOUSLY
-- 09/30 04:03 [DeItaone] *SUPREME COURT LETS TRUMP’S THIRD-COUNTRY DEPORTATIONS RESUME
-- 09/30 04:04 [DeItaone] OCTOBER FED HIKE ODDS DROP TO 50% Markets now price a 50% chance of an October Fed hike, down from around 70%, after Fed’s Williams said there is “no rush to act.” Williams still sees one more hike potentially needed by year-end, with infla…
 - 09/30 04:09 [financialjuice] Qatar is going to allow the use of drones in designated areas - Interior Ministry.
 - 09/30 04:09 [FirstSquawk] QATAR TO ALLOW DRONE USE IN DESIGNATED AREAS — INTERIOR MINISTRY
 - 09/30 04:10 [financialjuice] Iran Foreign Ministry warns regional countries of the consequences of Israeli Prime Minister Netanyahu's visit to the UAE - Fars News.
@@ -416,3 +404,5 @@
 - 09/30 15:48 [FirstSquawk] FRANCE (SEP) CPI MOM ACTUAL: -0.3% VS 0.7% PREVIOUS;EST -0.5%
 - 09/30 15:48 [FirstSquawk] FRANCE (SEP) CPI EU HARMONIZED YOY ACTUAL: 3.4% VS 2.6% PREVIOUS;EST 3.2%
 - 09/30 15:48 [FirstSquawk] FRANCE (SEP) CPI EU HARMONIZED MOM ACTUAL: -0.4% VS 0.7% PREVIOUS;EST -0.5%
+- 09/30 16:01 [financialjuice] Russia extends diesel export ban through October - IFX
+- 09/30 16:01 [FirstSquawk] Israeli prime minister’s spokesperson says Flydubai incident is not a hijacking
