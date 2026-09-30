@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-01 00:33 JST／対象: 09/30 12:33 〜 10/01 00:33 JST（時刻はすべて日本時間）
+生成: 2026-10-01 00:52 JST／対象: 09/30 12:52 〜 10/01 00:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 41 | 09/30 18:55 | 09/30 23:35 | 20分（22:25→22:46） |
-| FirstSquawk | 169 | 09/30 12:36 | 10/01 00:31 | 31分（17:30→18:02） |
-| financialjuice | 133 | 09/30 13:02 | 10/01 00:31 | ⚠ 58分（14:00→14:59） |
+| DeItaone | 42 | 09/30 18:55 | 10/01 00:48 | ⚠ 72分（23:35→00:48） |
+| FirstSquawk | 167 | 09/30 12:54 | 10/01 00:46 | 31分（17:30→18:02） |
+| financialjuice | 142 | 09/30 13:02 | 10/01 00:48 | ⚠ 58分（14:00→14:59） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 335 行（統合前 343 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 343 行（統合前 351 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 12:36 [FirstSquawk] Japan 2-year JGB auction sees bid-to-cover ratio of 3.89
-- 09/30 12:44 [FirstSquawk] More than 3,000 food items in Japan to face price hikes in October
-- 09/30 12:48 [FirstSquawk] New Zealand dollar consolidates near 0.5625 support amid uncertain outlook - FX
 - 09/30 12:54 [FirstSquawk] Boeing chosen by Pentagon to build new carrier fighter jet replacing F/A-18 — SCMP
 - 09/30 12:59 [FirstSquawk] South Korea urges North Korea to apologize over DMZ mine blast and stop border fortification work
 - 09/30 13:02 [FirstSquawk] AI industry seeks to ease data centre backlash ahead of U.S. midterm elections — FT
@@ -359,3 +356,14 @@
 - 10/01 00:31 [financialjuice] Smoke plumes in the Qatif region of Saudi Arabia - Iran's Mehr News
 - 10/01 00:31 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 0.24%; GERMANY'S DAX DOWN 0.74%
 - 10/01 00:31 [FirstSquawk] FRANCE'S CAC 40 DOWN 0.93%; SPAIN'S IBEX DOWN 0.36%
+- 10/01 00:45 [financialjuice] ECB's Schnabel: High costs passed through to consumers more quickly when economy resilient.
+- 10/01 00:45 [financialjuice] ECB's Schnabel: Robust credit dynamics suggest that financial conditions are not yet restrictive.
+- 10/01 00:46 [financialjuice] ECB's Schnabel: Possible economy responds more to the recent global yield rise than assumed. Would dampen price pressures.
+- 10/01 00:46 [financialjuice] ECB's Schnabel: can return inflation to target more gradually when expectations anchored.
+- 10/01 00:46 [FirstSquawk] FITCH AFFIRMS VOLKSWAGEN AG AT 'A-'; OUTLOOK NEGATIVE
+- 10/01 00:47 [financialjuice] ECB's Schnabel's Speech
+- 10/01 00:47 [financialjuice] ECB's President Lagarde to La Croix: France's debt situation is serious at 120% of GDP and without a path to lowering
+- 10/01 00:48 [DeItaone] ECB'S LAGARDE TELLS LA CROIX NEWSPAPER FRANCE'S DEBT SITUATION IS SERIOUS AT 120% OF GDP AND WITHOUT A PATH TO LOWERING
+- 10/01 00:48 [financialjuice] ECB's President Lagarde's Interview with La Croix
+- 10/01 00:48 [financialjuice] ECB's President Lagarde to La Croix: European financial system is more solid now than in 2008 and 2011 crises
+- 10/01 00:48 [financialjuice] ECB's President Lagarde to La Croix: France needs a credible budget trajectory and reforms to restore confidence

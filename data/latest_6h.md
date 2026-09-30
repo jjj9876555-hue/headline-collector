@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 00:33 JST／対象: 09/30 18:33 〜 10/01 00:33 JST（時刻はすべて日本時間）
+生成: 2026-10-01 00:52 JST／対象: 09/30 18:52 〜 10/01 00:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 41 | 09/30 18:55 | 09/30 23:35 | 20分（22:25→22:46） |
-| FirstSquawk | 87 | 09/30 18:37 | 10/01 00:31 | 23分（19:06→19:29） |
-| financialjuice | 79 | 09/30 18:33 | 10/01 00:31 | 31分（20:00→20:32） |
+| DeItaone | 42 | 09/30 18:55 | 10/01 00:48 | ⚠ 72分（23:35→00:48） |
+| FirstSquawk | 74 | 09/30 18:52 | 10/01 00:46 | 23分（19:06→19:29） |
+| financialjuice | 86 | 09/30 18:58 | 10/01 00:48 | 31分（20:00→20:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 199 行（統合前 207 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 194 行（統合前 202 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 18:33 [financialjuice] BoE FPC: Risky credit markets, including parts of private credit, remain vulnerable to tighter financing conditions.
-- 09/30 18:33 [financialjuice] BoE FPC: UK households and corporates remain resilient, banking system remains appropriately capitalised.
-- 09/30 18:37 [FirstSquawk] BANK OF ENGLAND FPC SAYS CHANCES OF FINANCIAL RISKS OCCURRING SIMULTANEOUSLY HAVE INCREASED SINCE JULY.
-- 09/30 18:38 [FirstSquawk] BOE FPC REPORTS THAT INCREASING OIL AND GAS PRICES HAVE CAUSED A LONGER SUPPLY DISRUPTION.
-- 09/30 18:38 [FirstSquawk] BOE FPC SAYS FRONTIER AI BREACHES SHOW FINANCIAL FIRMS MUST PREPARE FOR RISKS AND WORK WITH UK AUTHORITIES.
-- 09/30 18:38 [FirstSquawk] BOE PLANS TO INTRODUCE PROPOSED REFORMS FOR BANK LEVERAGE RATIOS AND GILT REPO IN EARLY 2027.
-- 09/30 18:38 [FirstSquawk] BOE FPC SAYS NEW MARKET PLANS FOR GILT REPO WILL REDUCE RISKS FROM LEVERAGE RATIO CHANGES.
-- 09/30 18:38 [FirstSquawk] BOE FPC STATES THAT FINANCIAL MARKETS HAVE REMAINED STRONG DESPITE RISING ENERGY COSTS AND BOND YIELDS.
-- 09/30 18:38 [FirstSquawk] BANK OF ENGLAND'S BAILEY STRESSES THE NEED FOR INCREASED TESTING OF AI MODELS BEFORE AND AFTER THEY GO LIVE, PRIOR TO REGULATIONS.
-- 09/30 18:38 [FirstSquawk] BOE FPC WARNED THAT RISKY CREDIT MARKETS, ESPECIALLY IN PRIVATE CREDIT, ARE STILL SENSITIVE TO TIGHTER FINANCING.
-- 09/30 18:38 [FirstSquawk] BOE FPC STATES UK HOUSEHOLDS AND BUSINESSES ARE STRONG, BANKING SYSTEM IS WELL-CAPITALIZED.
-- 09/30 18:41 [FirstSquawk] PORSCHE SE: GERMAN FEDERAL COURT CONFIRMS DECISION OF THE HIGHER REGIONAL COURT OF CELLE IN FAVOR OF PORSCHE SE
-- 09/30 18:41 [FirstSquawk] PORSCHE SE: NO CLAIM OF PLAINTIFFS FOR DAMAGES IN THE AMOUNT OF 5.4 BILLION EURO
-- 09/30 18:41 [FirstSquawk] PORSCHE SE: RULING OF GERMAN FEDERAL COURT BINDING UPON COURTS IN INITIAL PROCEEDINGS
-- 09/30 18:47 [FirstSquawk] JAPAN PM: TO STRENGTHEN SUPPLY CAPACITY AMID PRICE RISES, RATES
-- 09/30 18:47 [FirstSquawk] JAPAN PM: TO ASSESS TAX INTAKE TRENDS, REVIEW REVENUE, SPENDING
 - 09/30 18:52 [FirstSquawk] KREMLIN SAYS REPORTS OF SANCTION RELIEF FOR POLITICAL PRISONERS ARE NOT RELEVANT, CLAIMING RUSSIA DOES NOT HAVE POLITICAL PRISONERS.
 - 09/30 18:52 [FirstSquawk] KREMLIN RESPONDS TO RUSSIA'S NUCLEAR THREATS TO NATO OVER KALININGRAD, STATING DIPLOMATS REMIND EUROPEAN LEADERS ABOUT FOUNDING DOCUMENTS.
 - 09/30 18:52 [FirstSquawk] KREMLIN REJECTS CLAIMS OF TALKING ABOUT LIFTING SANCTIONS ON RUSSIA IN RETURN FOR PRISONERS.
@@ -223,3 +207,14 @@
 - 10/01 00:31 [financialjuice] Smoke plumes in the Qatif region of Saudi Arabia - Iran's Mehr News
 - 10/01 00:31 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 0.24%; GERMANY'S DAX DOWN 0.74%
 - 10/01 00:31 [FirstSquawk] FRANCE'S CAC 40 DOWN 0.93%; SPAIN'S IBEX DOWN 0.36%
+- 10/01 00:45 [financialjuice] ECB's Schnabel: High costs passed through to consumers more quickly when economy resilient.
+- 10/01 00:45 [financialjuice] ECB's Schnabel: Robust credit dynamics suggest that financial conditions are not yet restrictive.
+- 10/01 00:46 [financialjuice] ECB's Schnabel: Possible economy responds more to the recent global yield rise than assumed. Would dampen price pressures.
+- 10/01 00:46 [financialjuice] ECB's Schnabel: can return inflation to target more gradually when expectations anchored.
+- 10/01 00:46 [FirstSquawk] FITCH AFFIRMS VOLKSWAGEN AG AT 'A-'; OUTLOOK NEGATIVE
+- 10/01 00:47 [financialjuice] ECB's Schnabel's Speech
+- 10/01 00:47 [financialjuice] ECB's President Lagarde to La Croix: France's debt situation is serious at 120% of GDP and without a path to lowering
+- 10/01 00:48 [DeItaone] ECB'S LAGARDE TELLS LA CROIX NEWSPAPER FRANCE'S DEBT SITUATION IS SERIOUS AT 120% OF GDP AND WITHOUT A PATH TO LOWERING
+- 10/01 00:48 [financialjuice] ECB's President Lagarde's Interview with La Croix
+- 10/01 00:48 [financialjuice] ECB's President Lagarde to La Croix: European financial system is more solid now than in 2008 and 2011 crises
+- 10/01 00:48 [financialjuice] ECB's President Lagarde to La Croix: France needs a credible budget trajectory and reforms to restore confidence

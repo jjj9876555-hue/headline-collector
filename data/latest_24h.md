@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-01 00:33 JST／対象: 09/30 00:33 〜 10/01 00:33 JST（時刻はすべて日本時間）
+生成: 2026-10-01 00:52 JST／対象: 09/30 00:52 〜 10/01 00:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 85 | 09/30 00:34 | 09/30 23:35 | ⚠ 789分（05:46→18:55） |
-| FirstSquawk | 384 | 09/30 00:35 | 10/01 00:31 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 411 | 09/30 00:33 | 10/01 00:31 | ⚠ 80分（10:57→12:18） |
+| DeItaone | 80 | 09/30 00:52 | 10/01 00:48 | ⚠ 789分（05:46→18:55） |
+| FirstSquawk | 382 | 09/30 00:53 | 10/01 00:46 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 410 | 09/30 00:52 | 10/01 00:48 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 860 行（統合前 884 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 854 行（統合前 876 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 00:33 [financialjuice] BoE's Taylor: The economy is proving less susceptible, at least so far, to a repeat of the inflation dynamics seen in 2022.
-- 09/30 00:33 [financialjuice] US 52 Week Bill Auction High rate 4.4% Bid-To-Cover 3.07 Sells $54 bln Awards 70.21% of bids at high
-- 09/30 00:33 [financialjuice] BoE's Taylor: There is a non-trivial risk to inflation.
-- 09/30 00:34 [DeItaone/financialjuice] OPENAI ANNUALIZED REVENUE RUN RATE GROWS MORE THAN 70% IN Q3, NEARLY $70 BLN - SOURCE FAMILIAR WITH MATTER
-- 09/30 00:35 [FirstSquawk] BOE’S TAYLOR: RIGHT POLICY RESPONSE IS VIGILANT BUT DISCIPLINED
-- 09/30 00:35 [financialjuice/DeItaone] OpenAI B2B revenue grows more than 100% in Q3 - Source.
-- 09/30 00:36 [financialjuice] BoE's Taylor: Evidence points against a general inflation shock.
-- 09/30 00:36 [DeItaone] OPENAI ADDS MORE CONSUMER REVENUE IN Q3 THAN IN ALL OF LAST YEAR - SOURCE
-- 09/30 00:37 [DeItaone] U.S. 30-YEAR TREASURY YIELD TOUCHES 5.612%, HIGHEST SINCE JUNE 2002
-- 09/30 00:40 [financialjuice] BoE's Taylor's Speech
-- 09/30 00:40 [financialjuice] BoE's Taylor: The current policy stance is restrictive enough.
-- 09/30 00:40 [FirstSquawk] EU ENERGY COMMISSIONER JORGENSEN: SEE NO IMMEDIATE RISK TO ENERGY SUPPLIES IN EUROPE AHEAD OF WINTER
-- 09/30 00:46 [DeItaone] BARCLAYS: U.S. 30-YEAR YIELD COULD HIT 6% Barclays says the 30-year Treasury yield could reach 6% if the AI investment boom produces a sustained acceleration in U.S. productivity. Stronger productivity could keep the economy growing faster …
-- 09/30 00:48 [FirstSquawk] US OFFERS UP TO 40 MILLION BARRELS FROM STRATEGIC OIL RESERVE
-- 09/30 00:48 [financialjuice] US Energy Department announces an SPR release in a statement.
-- 09/30 00:48 [financialjuice] BoE's Mann: Inflation staying above 2% is a credibility problem.
-- 09/30 00:51 [DeItaone] *US ENERGY DEPARTMENT ANNOUNCES SPR RELEASE IN STATEMENT
 - 09/30 00:52 [financialjuice/DeItaone] ECB's DeMarco: Stronger core inflation could be grounds to act.
 - 09/30 00:53 [FirstSquawk] IRAN WILL BE READY TO DISCUSS THE NUCLEAR ISSUE ONLY AFTER THE STRAIT OF HORMUZ ISSUE IS RESOLVED AND WASHINGTON LIFTS THE BLOCKADE - RIA CITING IRANIAN DIPLOMATIC SOURCE
 - 09/30 00:53 [FirstSquawk] IRAN IS READY TO DISCUSS THE NUCLEAR DOSSIER ONLY AFTER A NUMBER OF CONDITIONS ARE MET, ACCORDING TO A DIPLOMATIC SOURCE.
@@ -884,3 +867,14 @@
 - 10/01 00:31 [financialjuice] Smoke plumes in the Qatif region of Saudi Arabia - Iran's Mehr News
 - 10/01 00:31 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 0.24%; GERMANY'S DAX DOWN 0.74%
 - 10/01 00:31 [FirstSquawk] FRANCE'S CAC 40 DOWN 0.93%; SPAIN'S IBEX DOWN 0.36%
+- 10/01 00:45 [financialjuice] ECB's Schnabel: High costs passed through to consumers more quickly when economy resilient.
+- 10/01 00:45 [financialjuice] ECB's Schnabel: Robust credit dynamics suggest that financial conditions are not yet restrictive.
+- 10/01 00:46 [financialjuice] ECB's Schnabel: Possible economy responds more to the recent global yield rise than assumed. Would dampen price pressures.
+- 10/01 00:46 [financialjuice] ECB's Schnabel: can return inflation to target more gradually when expectations anchored.
+- 10/01 00:46 [FirstSquawk] FITCH AFFIRMS VOLKSWAGEN AG AT 'A-'; OUTLOOK NEGATIVE
+- 10/01 00:47 [financialjuice] ECB's Schnabel's Speech
+- 10/01 00:47 [financialjuice] ECB's President Lagarde to La Croix: France's debt situation is serious at 120% of GDP and without a path to lowering
+- 10/01 00:48 [DeItaone] ECB'S LAGARDE TELLS LA CROIX NEWSPAPER FRANCE'S DEBT SITUATION IS SERIOUS AT 120% OF GDP AND WITHOUT A PATH TO LOWERING
+- 10/01 00:48 [financialjuice] ECB's President Lagarde's Interview with La Croix
+- 10/01 00:48 [financialjuice] ECB's President Lagarde to La Croix: European financial system is more solid now than in 2008 and 2011 crises
+- 10/01 00:48 [financialjuice] ECB's President Lagarde to La Croix: France needs a credible budget trajectory and reforms to restore confidence
