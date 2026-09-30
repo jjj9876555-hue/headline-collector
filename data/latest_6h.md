@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 08:33 JST／対象: 10/01 02:33 〜 10/01 08:33 JST（時刻はすべて日本時間）
+生成: 2026-10-01 08:47 JST／対象: 10/01 02:47 〜 10/01 08:47 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 24 | 10/01 02:49 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
-| FirstSquawk | 73 | 10/01 02:33 | 10/01 07:50 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 103 | 10/01 02:33 | 10/01 08:17 | 36分（07:29→08:05） |
+| FirstSquawk | 69 | 10/01 03:02 | 10/01 08:46 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 99 | 10/01 02:48 | 10/01 08:43 | 36分（07:29→08:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 191 行（統合前 201 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 184 行（統合前 193 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 02:33 [financialjuice] Anthropic: Claude for Government is now generally available; Claude Code CLI and Claude for Microsoft 365 also now available in early access
-- 10/01 02:33 [FirstSquawk] TRUMP SAYS 'OUR NATION IS DOING REALLY WELL, IN MANY WAYS, BETTER THAN EVER BEFORE, BUT THE PUBLIC JUST DOESN'T KNOW HOW WELL WE'RE DOING', ADDING THAT 'THE FAKE NEWS MEDIA REFUSES TO DISSEMINATE OUR RECORD SETTING NUMBERS, SO I'M DOING THE…
-- 10/01 02:33 [financialjuice] Global Forum on steel excess capacity member countries to apply tariffs and other trade measures to deter imports from countries that are sources of excess capacity where appropriate - Statement
-- 10/01 02:35 [FirstSquawk] ANTHROPIC EXPANDS CLAUDE AVAILABILITY: CLAUDE CODE CLI & CLAUDE FOR MICROSOFT 365 ENTER EARLY ACCESS; CLAUDE FOR GOVERNMENT NOW GENERALLY AVAILABLE
-- 10/01 02:35 [FirstSquawk] TRUMP SAYS HE IS PLEASED TO ANNOUNCE THAT 'THE LAST AMERICAN FORCES ARE LEAVING IRAQ', CALLING IT 'A GREAT DAY FOR AMERICA' AND SAYING THE U.S. LEAVES WITH IRAQ HAVING 'A WONDERFUL NEW PRIME MINISTER, ALI AL-ZAIDI', WHOM HE SUPPORTED AND EN…
-- 10/01 02:35 [FirstSquawk] TRUMP SAYS OPERATION INHERENT RESOLVE — LAUNCHED IN 2003 UNDER GEORGE W. BUSH AND CONTINUED UNDER OBAMA IN 2014 AND JOE BIDEN — 'ENDS IN 2026 UNDER THE LEADERSHIP OF PRESIDENT DONALD J. TRUMP', CALLING IT 'A VICTORY FOR THE UNITED STATES, A…
-- 10/01 02:35 [FirstSquawk] TRUMP SAYS THAT UNLIKE AFGHANISTAN, 'WHERE MUCH MILITARY EQUIPMENT AND EVERYTHING ELSE WAS LEFT BEHIND, AND 13 WARRIORS LIE DEAD', THE 'ORDERLY DEPARTURE OF COALITION FORCES AND EQUIPMENT FROM ERBIL AIR BASE MARKS THE END OF A VERY EXPENSIV…
-- 10/01 02:39 [FirstSquawk] THE ICE OCTOBER RAW SUGAR DELIVERY IS SEEN AT 28,574 LOTS, OR 1.45 MLN METRIC TONS, TRADERS SAY, WITH ASIAN COMMODITIES TRADER WILMAR THE SOLE RECEIVER AND BTG PACTUAL COMMODITIES THE LARGEST DELIVERER ON THE ICE OCTOBER EXPIRATION
-- 10/01 02:39 [financialjuice] US Senate blocks legislation to cap electricity bill increases tied to data centers
-- 10/01 02:40 [financialjuice/FirstSquawk] USTR Greer: 10 more trade deals are on the way.
-- 10/01 02:40 [financialjuice] USTR Greer: In fairly frequent contact with Canadian counterpart.
-- 10/01 02:41 [financialjuice] USTR Greer: If Canadians want a deal, our door is always open.
-- 10/01 02:43 [financialjuice] USTR Greer: Don't like EU rules on imports of US gas and forestry
-- 10/01 02:43 [financialjuice] USTR Greer interview on Fox business ends
 - 10/01 02:48 [financialjuice/DeItaone] Trump on Iran: You will see things happening very soon
 - 10/01 02:51 [DeItaone] *TRUMP: HISTORIC FLOWS OF OIL OUT OF HORMUZ IN LAST 3 DAYS
 - 10/01 02:54 [financialjuice] Intel adds openshell policy layer to AI agent toolkit $INTC
@@ -215,3 +201,10 @@
 - 10/01 08:11 [financialjuice] Eager to see outcomes from Fed task forces
 - 10/01 08:11 [financialjuice] Skyworks extends expiration date of exchange offers for Gorvo’s senior notes due 2029 and 2031
 - 10/01 08:17 [financialjuice] Meta names Dhruv Vohra managing director of global business group in Southeast Asia
+- 10/01 08:36 [financialjuice] S.Korea finance minister: will closely watch financial markets, take pre-emptive steps if necessary
+- 10/01 08:43 [financialjuice] Colombia's autonomous fiscal rule committee sees 7.8% GDP deficit for 2026, 9.5% for 2027: report
+- 10/01 08:43 [financialjuice] Fed's Kashkari: can't second-guess how market investment occurs
+- 10/01 08:43 [financialjuice] Colombia's autonomous fiscal rule committee forecasts GDP growth of 2.5% in 2026 and 1.8% in 2027 - report
+- 10/01 08:44 [FirstSquawk] FRANCE NEW CAR REGISTRATIONS RISE 11.6% Y/Y TO 156,629 IN SEPTEMBER; TESLA REGISTRATIONS SURGE 61.9% — PFA
+- 10/01 08:46 [FirstSquawk] JAPAN’S NIKKEI FUTURES RISE 0.3% IN EARLY TRADE; 10-YEAR JGB FUTURES FALL 0.3 POINT
+- 10/01 08:46 [FirstSquawk] COLOMBIA FISCAL RULE COMMITTEE SEES DEFICIT AT 7.8% OF GDP IN 2026, 9.5% IN 2027; GDP GROWTH SEEN AT 2.5% & 1.8%, RESPECTIVELY

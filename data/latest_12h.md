@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-01 08:33 JST／対象: 09/30 20:33 〜 10/01 08:33 JST（時刻はすべて日本時間）
+生成: 2026-10-01 08:47 JST／対象: 09/30 20:47 〜 10/01 08:47 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 58 | 09/30 20:48 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
-| FirstSquawk | 145 | 09/30 20:35 | 10/01 07:50 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 199 | 09/30 20:52 | 10/01 08:17 | 36分（07:29→08:05） |
+| FirstSquawk | 146 | 09/30 20:50 | 10/01 08:46 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 203 | 09/30 20:52 | 10/01 08:43 | 36分（07:29→08:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 386 行（統合前 404 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 391 行（統合前 409 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 20:35 [FirstSquawk] IG METALL: VW PLANS TO TERMINATE LABOUR PACTS
-- 09/30 20:38 [FirstSquawk] CONAGRA Q1 2027 EARNINGS - ADJ. EPS 41C (EST 29C) - ADJ. OPER MARGIN 11.5% (EST 9.2%) - SALES $2.6B (EST $2.59B) - STILL SEES FY ADJ OPER MARGIN 10% TO 10.5% (EST 10.2%) - SEES FY ORGANIC NET SALES -1% TO -3% (EST -1.93%)
 - 09/30 20:48 [DeItaone] *EXPLOSION HEARD IN IRAN'S ZAHEDAN: FARS
 - 09/30 20:50 [FirstSquawk] EXPLOSION SOUND HEARD NEAR JAMOOHI BLVD IN ZAHEDAN; CAUSE UNKNOWN - FARS
 - 09/30 20:51 [DeItaone] IRAN: EXPLOSION REPORTED IN ZAHEDAN Iran’s Fars News Agency reports that an explosion was heard near Jomhuri Boulevard in Zahedan. The source of the blast remains unknown, with authorities yet to provide further details. More information is…
@@ -410,3 +408,10 @@
 - 10/01 08:11 [financialjuice] Eager to see outcomes from Fed task forces
 - 10/01 08:11 [financialjuice] Skyworks extends expiration date of exchange offers for Gorvo’s senior notes due 2029 and 2031
 - 10/01 08:17 [financialjuice] Meta names Dhruv Vohra managing director of global business group in Southeast Asia
+- 10/01 08:36 [financialjuice] S.Korea finance minister: will closely watch financial markets, take pre-emptive steps if necessary
+- 10/01 08:43 [financialjuice] Colombia's autonomous fiscal rule committee sees 7.8% GDP deficit for 2026, 9.5% for 2027: report
+- 10/01 08:43 [financialjuice] Fed's Kashkari: can't second-guess how market investment occurs
+- 10/01 08:43 [financialjuice] Colombia's autonomous fiscal rule committee forecasts GDP growth of 2.5% in 2026 and 1.8% in 2027 - report
+- 10/01 08:44 [FirstSquawk] FRANCE NEW CAR REGISTRATIONS RISE 11.6% Y/Y TO 156,629 IN SEPTEMBER; TESLA REGISTRATIONS SURGE 61.9% — PFA
+- 10/01 08:46 [FirstSquawk] JAPAN’S NIKKEI FUTURES RISE 0.3% IN EARLY TRADE; 10-YEAR JGB FUTURES FALL 0.3 POINT
+- 10/01 08:46 [FirstSquawk] COLOMBIA FISCAL RULE COMMITTEE SEES DEFICIT AT 7.8% OF GDP IN 2026, 9.5% IN 2027; GDP GROWTH SEEN AT 2.5% & 1.8%, RESPECTIVELY
