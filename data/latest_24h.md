@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-30 11:35 JST／対象: 09/29 11:35 〜 09/30 11:35 JST（時刻はすべて日本時間）
+生成: 2026-09-30 11:54 JST／対象: 09/29 11:54 〜 09/30 11:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 88 | 09/29 20:26 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
-| FirstSquawk | 434 | 09/29 11:36 | 09/30 11:33 | ⚠ 96分（06:29→08:05） |
+| FirstSquawk | 434 | 09/29 12:01 | 09/30 11:51 | ⚠ 96分（06:29→08:05） |
 | financialjuice | 425 | 09/29 12:24 | 09/30 10:57 | ⚠ 67分（06:32→07:40） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,10 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 11:36 [FirstSquawk] Fay strengthens back into a tropical storm, NHC says
-- 09/29 11:37 [FirstSquawk] Tropical Storm Fay 1,380 miles west-southwest of Azores with maximum winds of 40 mph, NHC says
-- 09/29 11:41 [FirstSquawk] OpenAI delays new AI model launch due to safety concerns - NA
-- 09/29 11:47 [FirstSquawk] Gold prices tick higher as selling pressure persists - WSJ
 - 09/29 12:01 [FirstSquawk] MAS deputy chair: Singapore to commit $1.1 billion across five asset managers to strengthen equities market
 - 09/29 12:01 [FirstSquawk] US Navy reports aircraft recovery incident aboard Nimitz-class carrier USS Dwight D. Eisenhower off Virginia coast
 - 09/29 12:02 [FirstSquawk] Two naval aviators from Carrier Air Wing 3 recovered by search-and-rescue personnel, US Navy says
@@ -946,3 +942,7 @@
 - 09/30 11:28 [FirstSquawk] South Korean lawmaker says spy agency estimates about 9,000 North Korean soldiers are in Russia
 - 09/30 11:29 [FirstSquawk] Russia shows no active signs of transferring advanced military technologies to North Korea, South Korean lawmaker says
 - 09/30 11:33 [FirstSquawk] South Korean lawmaker says North Korea and Russia worked together on ballistic missile shipments
+- 09/30 11:41 [FirstSquawk] Seoul stocks give up some gains in late Wednesday morning trading
+- 09/30 11:43 [FirstSquawk] Vietnam’s HDBank plans to raise $500 million through USD-denominated bonds overseas
+- 09/30 11:45 [FirstSquawk] Australia’s benchmark ASX 200 gains 1% to 8,794.50, highest since Sept. 11
+- 09/30 11:51 [FirstSquawk] China’s CSI Health Care Industry Index climbs more than 3%
