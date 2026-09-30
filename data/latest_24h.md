@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-01 05:45 JST／対象: 09/30 05:45 〜 10/01 05:45 JST（時刻はすべて日本時間）
+生成: 2026-10-01 06:00 JST／対象: 09/30 06:00 〜 10/01 06:00 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 69 | 09/30 05:46 | 10/01 04:26 | ⚠ 789分（05:46→18:55） |
-| FirstSquawk | 368 | 09/30 05:46 | 10/01 05:35 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 295 | 09/30 05:46 | 10/01 05:43 | ⚠ 80分（10:57→12:18） |
+| DeItaone | 71 | 09/30 18:55 | 10/01 05:52 | ⚠ 78分（04:26→05:45） |
+| FirstSquawk | 369 | 09/30 06:04 | 10/01 05:55 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 291 | 09/30 06:01 | 10/01 05:59 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 713 行（統合前 734 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 712 行（統合前 733 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 05:46 [financialjuice] US API CRUDE OIL STOCK CHANGE ACTUAL 1.019M (FORECAST -1.9M, PREVIOUS 1.786M) $MACRO
-- 09/30 05:46 [FirstSquawk] U.S. API CRUDE OIL STOCK CHANGE WAS A BUILD OF 1.019 MLN, VERSUS A FORECAST 1.9 MLN DRAW, WITH GASOLINE STOCKS UP 2.991 MLN AND DISTILLATE STOCKS DOWN 0.286 MLN
-- 09/30 05:46 [DeItaone] MASTERCARD DECLARES QUARTERLY CASH DIVIDEND OF $0.87 PER SHARE
-- 09/30 05:47 [FirstSquawk] U.S. STOCKS ENDED MIXED TO LOWER AS CONCERNS OVER PERSISTENT INFLATION, GOVERNMENT SPENDING AND RISING CORPORATE BORROWING PUSHED TREASURY YIELDS HIGHER, WITH THE 30-YEAR YIELD REACHING ITS HIGHEST SINCE 2002, THE S&P 500 DOWN 0.2% AND THE …
-- 09/30 05:47 [FirstSquawk] OIL PRICES FELL, WITH WTI DOWN 3.9% TO $89.01 A BARREL AND BRENT BELOW $103, THOUGH INVESTORS REMAINED CONCERNED ELEVATED ENERGY COSTS COULD KEEP INFLATION PRESSURES HIGH, AS NY FED PRESIDENT JOHN WILLIAMS SAID ANOTHER RATE HIKE THIS YEAR M…
-- 09/30 05:47 [FirstSquawk] U.S. JOB OPENINGS FELL TO A FIVE-MONTH LOW AND CONSUMER CONFIDENCE DROPPED TO ITS LOWEST SINCE 2014, REINFORCING A 'LOW-HIRE, LOW-FIRE' LABOR-MARKET BACKDROP, WITH THE DOLLAR GAINING, THE EURO WEAKENING TO $1.1340 AND GOLD UP 1.4% TO $4,175…
-- 09/30 05:49 [financialjuice] Trump to unveil $54 billion Alaska LNG plan amid midterm woes.
-- 09/30 05:50 [financialjuice] Funds to be provided under South Korea investment deal - people familiar describe Alaska plan for Trump Announcement
-- 09/30 05:51 [financialjuice] Anthropic IPO Filing Shows Amazon and Google Drove 47% of 2025 Sales
-- 09/30 05:52 [financialjuice] The LNG project is part of a $200 billion South Korean investment announcement.
-- 09/30 05:56 [financialjuice] US API CUSHING STOCK CHANGE ACTUAL 0.233M (FORECAST -, PREVIOUS 2.082M) $MACRO
 - 09/30 06:01 [financialjuice] Trump likely to unveil $54 billion from South Korean investment fund for Alaska LNG project as soon as Wednesday - sources
 - 09/30 06:02 [financialjuice/FirstSquawk] Elon Musk: SpaceX and Tesla target 200 gigawatts of annual solar output
 - 09/30 06:05 [financialjuice] North Korea: South Korea fabricating 'baseless findings' on mine blast in DMZ injuring troops - KCNA
@@ -737,3 +726,13 @@
 - 10/01 05:34 [financialjuice/FirstSquawk] Trump: South Korea 'paid' to reduce US tariffs on its goods.
 - 10/01 05:36 [financialjuice] Trump touts nuclear energy as safe
 - 10/01 05:43 [financialjuice] US Commerce Secretary Lutnick: Southeast Asia to lean on US for gas due to the pipeline.
+- 10/01 05:45 [DeItaone] CBS NEWS PARTNERS WITH KALSHI CBS News is partnering with Kalshi to integrate prediction-market data into its 2026 midterm coverage. CBS joins CNN, Fox News and NBC News in highlighting prediction markets as part of their coverage
+- 10/01 05:45 [FirstSquawk] THE FEDERAL RESERVE INSPECTOR GENERAL FOUND NO CRIMINAL OR ADMINISTRATIVE MISCONDUCT IN THE CENTRAL BANK’S ROUGHLY $2.4 BILLION HEADQUARTERS RENOVATION, CLEARING FORMER CHAIR JEROME POWELL OF WRONGDOING.
+- 10/01 05:45 [FirstSquawk] THE REPORT FOUND MAJOR PROJECT-MANAGEMENT FAILURES, INCLUDING NO GUARANTEED MAXIMUM PRICE AND LATE COST ESTIMATES, CONTRIBUTING TO ABOUT $1 BILLION IN OVERRUNS; THE FED PLANS TIGHTER BUDGET AND SCHEDULE CONTROLS.
+- 10/01 05:46 [DeItaone] U.S. 10-YEAR SUFFERS WORST QUARTER SINCE 1994 The 10-year Treasury yield ended Q3 at 5.29%, surging 87 basis points — its largest quarterly increase in more than three decades. The move has been driven largely by real yields approaching 3%,…
+- 10/01 05:50 [FirstSquawk] CMS SAYS IT HAS FINALIZED THE GLOBE MODEL TO DELIVER LOWER DRUG PRICES FOR BENEFICIARIES IN ORIGINAL MEDICARE PART B, WITH THE MODEL OPERATING FOR FIVE YEARS BEGINNING JANUARY 1, 2027 AND ENDING MARCH 31, 2032, THOUGH IT EXCLUDES BIOSIMILAR…
+- 10/01 05:50 [FirstSquawk] CMS SAYS SELECTED BENEFICIARIES IMPACTED BY THE GLOBE MODEL MAY BEGIN TO SEE REDUCED OUT-OF-POCKET COSTS FROM APRIL 1, 2027.
+- 10/01 05:52 [DeItaone] MUSK RETURNS TO PENTAGON ROLE FOR FUTURE WARFARE STUDY Elon Musk, Palmer Luckey and Newt Gingrich will lead “Project Meridian,” a Pentagon study examining the future of warfare, Defense Secretary Pete Hegseth announced. The group will focus…
+- 10/01 05:55 [FirstSquawk] PENTAGON NAMES MUSK AND LUCKEY TO LEAD WAR STUDY - AXIOS
+- 10/01 05:57 [financialjuice] Trump reiterates gasoline prices will drop after the Iran war ends
+- 10/01 05:59 [financialjuice] US and South Korea Launch $22.3 Billion Texas Gas Power Project for AI Data Centers

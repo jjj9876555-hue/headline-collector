@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 05:45 JST／対象: 09/30 23:45 〜 10/01 05:45 JST（時刻はすべて日本時間）
+生成: 2026-10-01 06:00 JST／対象: 10/01 00:00 〜 10/01 06:00 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 27 | 10/01 00:48 | 10/01 04:26 | ⚠ 77分（00:53→02:11） |
-| FirstSquawk | 80 | 09/30 23:50 | 10/01 05:35 | 28分（03:03→03:31） |
-| financialjuice | 84 | 09/30 23:46 | 10/01 05:43 | 35分（01:01→01:37） |
+| DeItaone | 30 | 10/01 00:48 | 10/01 05:52 | ⚠ 78分（04:26→05:45） |
+| FirstSquawk | 82 | 10/01 00:02 | 10/01 05:55 | 28分（03:03→03:31） |
+| financialjuice | 82 | 10/01 00:01 | 10/01 05:59 | 35分（01:01→01:37） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 183 行（統合前 193 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 186 行（統合前 196 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 23:46 [financialjuice] Saudi Arabia turned down Israeli request to allow its planes to pick up Israeli passengers from FlyDubai flight that made emergency landing in Saudi - Security sources
-- 09/30 23:50 [financialjuice] Russian Foreign Ministry Spokeswoman: Claims that Russia does not want peace are unfounded.
-- 09/30 23:50 [FirstSquawk] RUSSIAN FOREIGN MINISTRY SPOX CALLS CLAIMS RUSSIA DOESN’T WANT PEACE ‘UNFOUNDED’
-- 09/30 23:52 [financialjuice] EIA: US domestic crude oil production rose in latest week to record highs
-- 09/30 23:54 [FirstSquawk] US DOMESTIC PRODUCTION OF CRUDE OIL ROSE IN LATEST WEEK TO RECORD HIGHS, EIA SAYS
-- 09/30 23:57 [financialjuice] Senate Republican Leader Thune: I have yet to receive diesel proposal from White House
-- 09/30 23:58 [FirstSquawk] US SENATE MAJORITY LEADER THUNE: YET TO RECEIVE DIESEL PROPOSAL FROM WHITE HOUSE
 - 10/01 00:01 [financialjuice] US Treasury: Will buy up to $6 bln of 10-20 Year debt in October 1st liquidity buyback
 - 10/01 00:02 [FirstSquawk] US TREASURY TO BUY UP TO $6 BLN OF 10-20 YEAR DEBT IN OCTOBER 1 LIQUIDITY BUYBACK
 - 10/01 00:08 [financialjuice] Senate Republican Leader Thune: Congress may raise debt limit after election
@@ -207,3 +200,13 @@
 - 10/01 05:34 [financialjuice/FirstSquawk] Trump: South Korea 'paid' to reduce US tariffs on its goods.
 - 10/01 05:36 [financialjuice] Trump touts nuclear energy as safe
 - 10/01 05:43 [financialjuice] US Commerce Secretary Lutnick: Southeast Asia to lean on US for gas due to the pipeline.
+- 10/01 05:45 [DeItaone] CBS NEWS PARTNERS WITH KALSHI CBS News is partnering with Kalshi to integrate prediction-market data into its 2026 midterm coverage. CBS joins CNN, Fox News and NBC News in highlighting prediction markets as part of their coverage
+- 10/01 05:45 [FirstSquawk] THE FEDERAL RESERVE INSPECTOR GENERAL FOUND NO CRIMINAL OR ADMINISTRATIVE MISCONDUCT IN THE CENTRAL BANK’S ROUGHLY $2.4 BILLION HEADQUARTERS RENOVATION, CLEARING FORMER CHAIR JEROME POWELL OF WRONGDOING.
+- 10/01 05:45 [FirstSquawk] THE REPORT FOUND MAJOR PROJECT-MANAGEMENT FAILURES, INCLUDING NO GUARANTEED MAXIMUM PRICE AND LATE COST ESTIMATES, CONTRIBUTING TO ABOUT $1 BILLION IN OVERRUNS; THE FED PLANS TIGHTER BUDGET AND SCHEDULE CONTROLS.
+- 10/01 05:46 [DeItaone] U.S. 10-YEAR SUFFERS WORST QUARTER SINCE 1994 The 10-year Treasury yield ended Q3 at 5.29%, surging 87 basis points — its largest quarterly increase in more than three decades. The move has been driven largely by real yields approaching 3%,…
+- 10/01 05:50 [FirstSquawk] CMS SAYS IT HAS FINALIZED THE GLOBE MODEL TO DELIVER LOWER DRUG PRICES FOR BENEFICIARIES IN ORIGINAL MEDICARE PART B, WITH THE MODEL OPERATING FOR FIVE YEARS BEGINNING JANUARY 1, 2027 AND ENDING MARCH 31, 2032, THOUGH IT EXCLUDES BIOSIMILAR…
+- 10/01 05:50 [FirstSquawk] CMS SAYS SELECTED BENEFICIARIES IMPACTED BY THE GLOBE MODEL MAY BEGIN TO SEE REDUCED OUT-OF-POCKET COSTS FROM APRIL 1, 2027.
+- 10/01 05:52 [DeItaone] MUSK RETURNS TO PENTAGON ROLE FOR FUTURE WARFARE STUDY Elon Musk, Palmer Luckey and Newt Gingrich will lead “Project Meridian,” a Pentagon study examining the future of warfare, Defense Secretary Pete Hegseth announced. The group will focus…
+- 10/01 05:55 [FirstSquawk] PENTAGON NAMES MUSK AND LUCKEY TO LEAD WAR STUDY - AXIOS
+- 10/01 05:57 [financialjuice] Trump reiterates gasoline prices will drop after the Iran war ends
+- 10/01 05:59 [financialjuice] US and South Korea Launch $22.3 Billion Texas Gas Power Project for AI Data Centers

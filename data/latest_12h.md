@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-01 05:45 JST／対象: 09/30 17:45 〜 10/01 05:45 JST（時刻はすべて日本時間）
+生成: 2026-10-01 06:00 JST／対象: 09/30 18:00 〜 10/01 06:00 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 68 | 09/30 18:55 | 10/01 04:26 | ⚠ 77分（00:53→02:11） |
-| FirstSquawk | 162 | 09/30 18:02 | 10/01 05:35 | 30分（18:07→18:37） |
-| financialjuice | 171 | 09/30 18:01 | 10/01 05:43 | 35分（01:01→01:37） |
+| DeItaone | 71 | 09/30 18:55 | 10/01 05:52 | ⚠ 78分（04:26→05:45） |
+| FirstSquawk | 167 | 09/30 18:02 | 10/01 05:55 | 30分（18:07→18:37） |
+| financialjuice | 173 | 09/30 18:01 | 10/01 05:59 | 35分（01:01→01:37） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 385 行（統合前 403 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 395 行（統合前 413 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -409,3 +409,13 @@
 - 10/01 05:34 [financialjuice/FirstSquawk] Trump: South Korea 'paid' to reduce US tariffs on its goods.
 - 10/01 05:36 [financialjuice] Trump touts nuclear energy as safe
 - 10/01 05:43 [financialjuice] US Commerce Secretary Lutnick: Southeast Asia to lean on US for gas due to the pipeline.
+- 10/01 05:45 [DeItaone] CBS NEWS PARTNERS WITH KALSHI CBS News is partnering with Kalshi to integrate prediction-market data into its 2026 midterm coverage. CBS joins CNN, Fox News and NBC News in highlighting prediction markets as part of their coverage
+- 10/01 05:45 [FirstSquawk] THE FEDERAL RESERVE INSPECTOR GENERAL FOUND NO CRIMINAL OR ADMINISTRATIVE MISCONDUCT IN THE CENTRAL BANK’S ROUGHLY $2.4 BILLION HEADQUARTERS RENOVATION, CLEARING FORMER CHAIR JEROME POWELL OF WRONGDOING.
+- 10/01 05:45 [FirstSquawk] THE REPORT FOUND MAJOR PROJECT-MANAGEMENT FAILURES, INCLUDING NO GUARANTEED MAXIMUM PRICE AND LATE COST ESTIMATES, CONTRIBUTING TO ABOUT $1 BILLION IN OVERRUNS; THE FED PLANS TIGHTER BUDGET AND SCHEDULE CONTROLS.
+- 10/01 05:46 [DeItaone] U.S. 10-YEAR SUFFERS WORST QUARTER SINCE 1994 The 10-year Treasury yield ended Q3 at 5.29%, surging 87 basis points — its largest quarterly increase in more than three decades. The move has been driven largely by real yields approaching 3%,…
+- 10/01 05:50 [FirstSquawk] CMS SAYS IT HAS FINALIZED THE GLOBE MODEL TO DELIVER LOWER DRUG PRICES FOR BENEFICIARIES IN ORIGINAL MEDICARE PART B, WITH THE MODEL OPERATING FOR FIVE YEARS BEGINNING JANUARY 1, 2027 AND ENDING MARCH 31, 2032, THOUGH IT EXCLUDES BIOSIMILAR…
+- 10/01 05:50 [FirstSquawk] CMS SAYS SELECTED BENEFICIARIES IMPACTED BY THE GLOBE MODEL MAY BEGIN TO SEE REDUCED OUT-OF-POCKET COSTS FROM APRIL 1, 2027.
+- 10/01 05:52 [DeItaone] MUSK RETURNS TO PENTAGON ROLE FOR FUTURE WARFARE STUDY Elon Musk, Palmer Luckey and Newt Gingrich will lead “Project Meridian,” a Pentagon study examining the future of warfare, Defense Secretary Pete Hegseth announced. The group will focus…
+- 10/01 05:55 [FirstSquawk] PENTAGON NAMES MUSK AND LUCKEY TO LEAD WAR STUDY - AXIOS
+- 10/01 05:57 [financialjuice] Trump reiterates gasoline prices will drop after the Iran war ends
+- 10/01 05:59 [financialjuice] US and South Korea Launch $22.3 Billion Texas Gas Power Project for AI Data Centers
