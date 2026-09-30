@@ -7,43 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-30 21:27 JST／対象: 09/30 15:27 〜 09/30 21:27 JST（時刻はすべて日本時間）
+生成: 2026-09-30 21:54 JST／対象: 09/30 15:54 〜 09/30 21:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 22 | 09/30 18:55 | 09/30 21:14 | 18分（20:30→20:48） |
-| FirstSquawk | 77 | 09/30 15:34 | 09/30 21:15 | 31分（17:30→18:02） |
-| financialjuice | 58 | 09/30 15:45 | 09/30 21:16 | ⚠ 54分（16:01→16:55） |
+| DeItaone | 31 | 09/30 18:55 | 09/30 21:51 | 18分（20:30→20:48） |
+| FirstSquawk | 70 | 09/30 16:01 | 09/30 21:53 | 31分（17:30→18:02） |
+| financialjuice | 74 | 09/30 16:01 | 09/30 21:49 | ⚠ 54分（16:01→16:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 155 行（統合前 157 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 170 行（統合前 175 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 15:34 [FirstSquawk] Goldman Sachs lifts Hapag-Lloyd target price to €90 from €81
-- 09/30 15:34 [FirstSquawk] Russian strike damages Kyiv energy infrastructure, DTEK says
-- 09/30 15:37 [FirstSquawk] Israeli PM and security minister hold urgent talks with senior security officials, sources say — Alaraby TV
-- 09/30 15:38 [FirstSquawk] 7-day plan needs significant changes before progress can be discussed, senior source says — Al Arabiya
-- 09/30 15:41 [FirstSquawk] One person killed and another injured in drone attacks in Bryansk region, governor says
-- 09/30 15:42 [FirstSquawk] Israeli source: Plane expected to land in Saudi Arabia shortly, with situation to become clearer afterward
-- 09/30 15:45 [financialjuice] FRENCH HICP MOM PRELIM ACTUAL -0.4% (FORECAST -0.5%, PREVIOUS 0.7%) $MACRO
-- 09/30 15:45 [financialjuice] FRENCH CONSUMER SPENDING MOM ACTUAL -0.5% (FORECAST 0%, PREVIOUS 0.5%) $MACRO
-- 09/30 15:45 [financialjuice] FRENCH PPI YOY ACTUAL 4.8% (FORECAST -, PREVIOUS 3.4%) $MACRO
-- 09/30 15:45 [financialjuice] ❗ FRENCH CPI MOM NSA PRELIM ACTUAL -0.3% (FORECAST -0.5%, PREVIOUS 0.7%) $MACRO
-- 09/30 15:45 [financialjuice] ❗ FRENCH HICP YOY PRELIM ACTUAL 3.4% (FORECAST 3.2%, PREVIOUS 2.6%) $MACRO
-- 09/30 15:45 [financialjuice] ❗ FRENCH CPI YOY NSA PRELIM ACTUAL 3% (FORECAST 2.8%, PREVIOUS 2.4%) $MACRO
-- 09/30 15:48 [FirstSquawk] FRANCE (AUG) CONSUMER SPENDING YOY ACTUAL: 0.8% VS 1.4% PREVIOUS
-- 09/30 15:48 [FirstSquawk] FRANCE (AUG) CONSUMER SPENDING MOM ACTUAL: -0.5% VS 0.5% PREVIOUS;EST 0.0%
-- 09/30 15:48 [FirstSquawk] FRANCE (AUG) PPI YOY ACTUAL: 4.8% VS 3.4% PREVIOUS
-- 09/30 15:48 [FirstSquawk] FRANCE (AUG) PPI MOM ACTUAL: 1.0% VS 1.1% PREVIOUS
-- 09/30 15:48 [FirstSquawk] FRANCE (SEP) CPI YOY ACTUAL: 3.0% VS 2.4% PREVIOUS;EST 2.8%
-- 09/30 15:48 [FirstSquawk] FRANCE (SEP) CPI MOM ACTUAL: -0.3% VS 0.7% PREVIOUS;EST -0.5%
-- 09/30 15:48 [FirstSquawk] FRANCE (SEP) CPI EU HARMONIZED YOY ACTUAL: 3.4% VS 2.6% PREVIOUS;EST 3.2%
-- 09/30 15:48 [FirstSquawk] FRANCE (SEP) CPI EU HARMONIZED MOM ACTUAL: -0.4% VS 0.7% PREVIOUS;EST -0.5%
 - 09/30 16:01 [financialjuice] Russia extends diesel export ban through October - IFX
 - 09/30 16:01 [FirstSquawk] Israeli prime minister’s spokesperson says Flydubai incident is not a hijacking
 - 09/30 16:14 [FirstSquawk] RUSSIA HAS DECIDED TO CONTINUE ITS BAN ON DIESEL EXPORTS UNTIL OCTOBER.
@@ -179,3 +159,38 @@
 - 09/30 21:15 [FirstSquawk] US ADP NONFARM EMPLOYMENT CHANGE (SEP) ACTUAL: 90K VS 75K PREVIOUS; EST 38K
 - 09/30 21:15 [financialjuice] ❗ US ADP EMPLOYMENT CHANGE ACTUAL 90K (FORECAST 74.5K, PREVIOUS 38K) $MACRO
 - 09/30 21:16 [financialjuice] France’s President Macron: Trade war with china, cutting ties would make no sense.
+- 09/30 21:30 [DeItaone] US FINAL Q2 GDP +2.2% (CONSENSUS +1.5%) US FINAL Q2 PCE PRICE INDEX +5.0% US FINAL Q2 CORE PCE +3.3% (CONSENSUS +3.6%)
+- 09/30 21:30 [financialjuice] US ADVANCE GOODS TRADE BALANCE ACTUAL -132.6B (FORECAST -115B, PREVIOUS -118.94B) $MACRO
+- 09/30 21:30 [financialjuice] US WHOLESALE INVENTORIES MOM ADVANCE ACTUAL 0.7% (FORECAST 0.5%, PREVIOUS 1.3%) $MACRO
+- 09/30 21:30 [financialjuice] US RETAIL INVENTORIES EX-AUTO ADV. ACTUAL 0.1% (FORECAST -, PREVIOUS 0.8%) $MACRO
+- 09/30 21:30 [FirstSquawk] US GDP (QOQ) (Q2) ACTUAL: 2.2% VS 1.5% PREVIOUS; EST 1.5%
+- 09/30 21:30 [financialjuice] ❗ US GDP QOQ FINAL ACTUAL 2.2% (FORECAST 1.5%, PREVIOUS 1.5%) $MACRO
+- 09/30 21:30 [FirstSquawk] US PERSONAL INCOME (MOM) (AUG) ACTUAL: 0.2% VS 0.4% PREVIOUS; EST 0.5%
+- 09/30 21:30 [financialjuice] ❗ US CONSUMER SPENDING MOM ACTUAL 0.9% (FORECAST 0.9%, PREVIOUS 0.2%) $MACRO
+- 09/30 21:30 [FirstSquawk] US PERSONAL SPENDING (MOM) (AUG) ACTUAL: 0.9% VS 0.2% PREVIOUS; EST 0.9%
+- 09/30 21:30 [FirstSquawk] US WHOLESALE INVENTORIES (MOM) ACTUAL: 0.7% VS 1.3% PREVIOUS; EST 0.5%
+- 09/30 21:30 [financialjuice] ❗ US PCE PRICE INDEX MOM ACTUAL 0.3% (FORECAST 0.3%, PREVIOUS 0.2%) $MACRO
+- 09/30 21:30 [financialjuice] US PERSONAL INCOME MOM ACTUAL 0.2% (FORECAST 0.5%, PREVIOUS 0.4%) $MACRO
+- 09/30 21:30 [financialjuice] ❗ US CORE PCE PRICE INDEX MOM ACTUAL 0.2% (FORECAST 0.3%, PREVIOUS 0.2%) $MACRO
+- 09/30 21:31 [financialjuice] ‼ BREAKING: US PCE PRICE INDEX YOY ACTUAL 3.4% (FORECAST 3.7%, PREVIOUS 3.7%) $MACRO
+- 09/30 21:31 [financialjuice] ❗ US CORE PCE PRICE INDEX YOY ACTUAL 3.007601% (FORECAST 3.3%, PREVIOUS 3.3%) $MACRO
+- 09/30 21:31 [financialjuice] US CORE PCE PRICES FINAL ACTUAL 3.3% (FORECAST 3.6%, PREVIOUS 3.6%) $MACRO
+- 09/30 21:31 [financialjuice] US PCE PRICES FINAL ACTUAL 5.0% (FORECAST -, PREVIOUS 5.3%) $MACRO
+- 09/30 21:31 [financialjuice] US GDP DEFLATOR SA FINAL ACTUAL 6.1% (FORECAST -, PREVIOUS 6.4%) $MACRO
+- 09/30 21:31 [DeItaone] SPOT GOLD EXTENDS GAINS AFTER US PCE DATA, LAST UP 0.6% AT $4,206.29/OZ
+- 09/30 21:35 [financialjuice] US 2025 GDP growth revised to +2.3% from +2.1%.
+- 09/30 21:36 [financialjuice] US Personal Income and Outlays August 2026 Report
+- 09/30 21:37 [DeItaone] SOFTER U.S. INFLATION CUTS FED HIKE ODDS August core PCE fell to 3.0% YoY vs. 3.3% expected, while headline PCE came in at 3.4% vs. 3.7% forecast. Q2 GDP was revised higher to 2.2% from 1.5%. Kalshi now prices a 65% chance of no October Fed…
+- 09/30 21:37 [FirstSquawk/financialjuice] TRADERS PARE BETS ON OCTOBER FED RATE HIKE AFTER PCE REPORT
+- 09/30 21:38 [financialjuice] US GDP QoQ Q2 Report
+- 09/30 21:38 [DeItaone] U.S. CONSUMER SPENDING SURGES AS CORE INFLATION COOLS Inflation-adjusted U.S. consumer spending jumped 0.6% in August, its strongest monthly increase since March 2025. Meanwhile, the Fed’s preferred inflation gauge rose 0.3% MoM, with core …
+- 09/30 21:39 [financialjuice] Eu and Canada to explore new technology links and LNG sales - Draft Agreement
+- 09/30 21:40 [DeItaone/financialjuice] SHORT-TERM TRADERS TRIM BETS ON RATE HIKES AFTER ECONOMIC DATA
+- 09/30 21:42 [FirstSquawk] EU AND CANADA TO EXPLORE NEW TECHNOLOGY LINKS AND LNG SALES
+- 09/30 21:44 [DeItaone] U.S. CORE PCE FALLS BELOW EVERY ANALYST FORECAST August core PCE came in at 3.0% YoY vs. 3.3% expected, below the entire range of 51 Bloomberg analyst forecasts (3.1%–3.5%). The surprise was driven primarily by larger-than-expected downward…
+- 09/30 21:45 [financialjuice] France’s President Macron: Welcome back if the UK wants to rejoin the EU.
+- 09/30 21:46 [DeItaone/financialjuice] FRANCE’S MACRON: IF THE BRITISH PM WANTS BRITAIN TO RETURN TO THE EU THAT WOULD BE EXCELLENT NEWS AND A GOOD DECISION
+- 09/30 21:48 [DeItaone] *MACRON SAYS `WELCOME BACK' IF UK WANTS TO REJOIN EU
+- 09/30 21:49 [financialjuice] EU Commission Spokesperson Ujvari: The EU is open to engaging on relationship options the UK may put forward - Statement
+- 09/30 21:51 [DeItaone] U.S. S&P 500 E-MINI FUTURES UP 0.3%, NASDAQ 100 FUTURES UP 0.29%, DOW FUTURES UP 0.26%
+- 09/30 21:53 [FirstSquawk] EU OPEN TO ENGAGING ON RELATIONSHIP OPTIONS UK MAY PUT FORWARD
