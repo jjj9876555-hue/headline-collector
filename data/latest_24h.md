@@ -7,35 +7,24 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-01 06:00 JST／対象: 09/30 06:00 〜 10/01 06:00 JST（時刻はすべて日本時間）
+生成: 2026-10-01 06:19 JST／対象: 09/30 06:19 〜 10/01 06:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 71 | 09/30 18:55 | 10/01 05:52 | ⚠ 78分（04:26→05:45） |
-| FirstSquawk | 369 | 09/30 06:04 | 10/01 05:55 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 291 | 09/30 06:01 | 10/01 05:59 | ⚠ 80分（10:57→12:18） |
+| DeItaone | 75 | 09/30 18:55 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
+| FirstSquawk | 367 | 09/30 06:19 | 10/01 06:18 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 286 | 09/30 06:26 | 10/01 06:14 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 712 行（統合前 733 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 711 行（統合前 730 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 06:01 [financialjuice] Trump likely to unveil $54 billion from South Korean investment fund for Alaska LNG project as soon as Wednesday - sources
-- 09/30 06:02 [financialjuice/FirstSquawk] Elon Musk: SpaceX and Tesla target 200 gigawatts of annual solar output
-- 09/30 06:05 [financialjuice] North Korea: South Korea fabricating 'baseless findings' on mine blast in DMZ injuring troops - KCNA
-- 09/30 06:06 [financialjuice] North Korea: South Korea could encounter a miserable and catastrophic situation - KCNA
-- 09/30 06:07 [FirstSquawk] NORTH KOREA SAYS SOUTH KOREA IS FABRICATING 'BASELESS FINDINGS' ON A MINE BLAST IN THE DMZ THAT INJURED TROOPS, WARNING THAT SOUTH KOREA 'COULD ENCOUNTER A MISERABLE AND CATASTROPHIC SITUATION' - KCNA
-- 09/30 06:07 [financialjuice] North Korea: troops never crossed military border as alleged by Seoul - KCNA
-- 09/30 06:08 [financialjuice] North Korea: constructing barriers along border as demonstration of sovereignty, not for military aims - KCNA
-- 09/30 06:08 [FirstSquawk] NORTH KOREA SAYS SOUTH KOREA IS COOKING UP 'GROUNDLESS RESULTS' OVER A MINE BLAST IN THE DMZ THAT INJURED SOUTH KOREAN TROOPS, WARNING THAT SOUTH KOREA CAN FACE 'A MISERABLE AND CATASTROPHIC POSITION'.
-- 09/30 06:08 [FirstSquawk] NORTH KOREA SAYS ITS TROOPS HAVE NEVER CROSSED THE MILITARY BORDER AS CLAIMED BY SEOUL, AND THAT IT IS BUILDING BARRIERS ALONG THE BORDER AS AN EXERCISE OF SOVEREIGNTY UNRELATED TO ANY MILITARY PURPOSE - KCNA
-- 09/30 06:14 [financialjuice] Nvidia's Jensen Huang: White House declaration carries significant impact
-- 09/30 06:15 [FirstSquawk] CANADA PM CARNEY SAYS CANADA IS VERY DISAPPOINTED BY CLEVELAND-CLIFFS' DECISION TO IDLE PART OF ITS HAMILTON PLANT, ADDING THAT CANADA WILL USE ALL THE POWERS IT HAS TO ENSURE CLEVELAND-CLIFFS LIVES UP TO ITS OBLIGATIONS
-- 09/30 06:18 [financialjuice/FirstSquawk] Trump tells Axios: Jay Clayton would make a good AI chief
+- 09/30 06:19 [FirstSquawk] TRUMP TELLS AXIOS: JAY CLAYTON WOULD MAKE A GOOD AI CHIEF
 - 09/30 06:20 [FirstSquawk] FDA INVESTIGATION HAS LED TO CHARGES AGAINST TWO INDIAN NATIONALS INVOLVED IN A TRANSNATIONAL COUNTERFEIT DRUG DISTRIBUTION SCHEME, WITH THE FDA ALLEGING THAT BETWEEN JULY 2023 AND APRIL 2024, SWAPNADIP ROY AND VICKY RAMANCHA OBTAINED COUNT…
 - 09/30 06:26 [financialjuice] Trump releases document approved by all executives at White House on Tuesday: Truth Social
 - 09/30 06:27 [financialjuice] Document shared by Trump: Each company should apply four layers of controls and audits
@@ -736,3 +725,13 @@
 - 10/01 05:55 [FirstSquawk] PENTAGON NAMES MUSK AND LUCKEY TO LEAD WAR STUDY - AXIOS
 - 10/01 05:57 [financialjuice] Trump reiterates gasoline prices will drop after the Iran war ends
 - 10/01 05:59 [financialjuice] US and South Korea Launch $22.3 Billion Texas Gas Power Project for AI Data Centers
+- 10/01 06:00 [financialjuice] Trump on FlyDubai incident: I did speak to Netanyahu
+- 10/01 06:07 [DeItaone] *TRUMP: INFLATION NUMBERS ARE WAY DOWN OTHER THAN FOR OIL
+- 10/01 06:08 [financialjuice] Trump on UK base incident: will learn this afternoon why UK freed suspects
+- 10/01 06:13 [DeItaone] *TRUMP ASKED ABOUT POWELL, WARSH: WARSH WILL DO HIS OWN THING
+- 10/01 06:14 [financialjuice] South Korea industry minister: US likely to maintain tariff rate on South Korea at 15% - Yonhap
+- 10/01 06:15 [DeItaone] *TRUMP COMMENTS ON HIS CALL FOR POWELL TO BE FORCED TO RESIGN
+- 10/01 06:15 [DeItaone] SOUTH KOREA INDUSTRY MINISTER SAYS US HAS INDICATED TARIFF RATE ON SOUTH KOREA WOULD BE KEPT AT 15% LEVEL - YONHAP
+- 10/01 06:17 [FirstSquawk] U.S. AND SOUTH KOREA HAVE LAUNCHED A $22.3 BLN TEXAS GAS POWER PROJECT FOR AI DATA CENTERS, WHICH SOUTH KOREA SAYS WILL SUPPLY 6.47 GW OF ELECTRICITY WITH COMMERCIAL OPERATIONS EXPECTED BY 2029, WITH ANNUAL U.S. INVESTMENT CAPPED AT $20 BLN…
+- 10/01 06:17 [FirstSquawk] SEOUL AND WASHINGTON WILL REVIEW THE ALASKA LNG PIPELINE AND EXPORT TERMINAL PROJECT — WHICH WILL PROCEED ONLY IF COMMERCIAL AND LEGAL CONDITIONS ARE MET — WHILE SOUTH KOREA IS SEEKING EQUITY INVESTMENTS BY KOREAN COMPANIES IN WESTINGHOUSE.
+- 10/01 06:18 [FirstSquawk] RIO TINTO SAYS A DEAL WITH THE AUSTRALIAN AND TASMANIAN GOVERNMENTS SECURES ITS BELL BAY ALUMINIUM OPERATIONS THROUGH 2031, WITH HYDRO TASMANIA TO SUPPLY ELECTRICITY THROUGH 31 DECEMBER 2031 AND THE AUSTRALIAN AND TASMANIAN GOVERNMENTS TO P…

@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 06:00 JST／対象: 10/01 00:00 〜 10/01 06:00 JST（時刻はすべて日本時間）
+生成: 2026-10-01 06:19 JST／対象: 10/01 00:19 〜 10/01 06:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 30 | 10/01 00:48 | 10/01 05:52 | ⚠ 78分（04:26→05:45） |
-| FirstSquawk | 82 | 10/01 00:02 | 10/01 05:55 | 28分（03:03→03:31） |
-| financialjuice | 82 | 10/01 00:01 | 10/01 05:59 | 35分（01:01→01:37） |
+| DeItaone | 34 | 10/01 00:48 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
+| FirstSquawk | 83 | 10/01 00:20 | 10/01 06:18 | 28分（03:03→03:31） |
+| financialjuice | 82 | 10/01 00:25 | 10/01 06:14 | 35分（01:01→01:37） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 186 行（統合前 196 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 191 行（統合前 201 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 00:01 [financialjuice] US Treasury: Will buy up to $6 bln of 10-20 Year debt in October 1st liquidity buyback
-- 10/01 00:02 [FirstSquawk] US TREASURY TO BUY UP TO $6 BLN OF 10-20 YEAR DEBT IN OCTOBER 1 LIQUIDITY BUYBACK
-- 10/01 00:08 [financialjuice] Senate Republican Leader Thune: Congress may raise debt limit after election
-- 10/01 00:08 [FirstSquawk] SIKORSKY, US ARMY REACH NOVEL PRODUCTION AGREEMENT FOR BLACK HAWK HELICOPTER TO ACCELERATE US AND ALLIED FIELDING - LMT
-- 10/01 00:13 [financialjuice] SNB's Governing Board Member Tschudin: Stablecoins and lower connection to the two-level finance system make the transmission of monetary policy more difficult
 - 10/01 00:20 [FirstSquawk] COREWEAVE CEO: NEW CLOUD PRODUCT FORGE SEEN BOOSTING MARGINS
 - 10/01 00:25 [financialjuice] Pakistan Defense Minister Asif: Pakistan will use all possible means to defend Saudi Arabia against what he calls foreign aggression - IRNA
 - 10/01 00:26 [financialjuice] Pakistan Defense Minister Asif declines to comment on potential Pakistani involvement in Saudi-led attacks on Yemen - IRNA
@@ -210,3 +205,13 @@
 - 10/01 05:55 [FirstSquawk] PENTAGON NAMES MUSK AND LUCKEY TO LEAD WAR STUDY - AXIOS
 - 10/01 05:57 [financialjuice] Trump reiterates gasoline prices will drop after the Iran war ends
 - 10/01 05:59 [financialjuice] US and South Korea Launch $22.3 Billion Texas Gas Power Project for AI Data Centers
+- 10/01 06:00 [financialjuice] Trump on FlyDubai incident: I did speak to Netanyahu
+- 10/01 06:07 [DeItaone] *TRUMP: INFLATION NUMBERS ARE WAY DOWN OTHER THAN FOR OIL
+- 10/01 06:08 [financialjuice] Trump on UK base incident: will learn this afternoon why UK freed suspects
+- 10/01 06:13 [DeItaone] *TRUMP ASKED ABOUT POWELL, WARSH: WARSH WILL DO HIS OWN THING
+- 10/01 06:14 [financialjuice] South Korea industry minister: US likely to maintain tariff rate on South Korea at 15% - Yonhap
+- 10/01 06:15 [DeItaone] *TRUMP COMMENTS ON HIS CALL FOR POWELL TO BE FORCED TO RESIGN
+- 10/01 06:15 [DeItaone] SOUTH KOREA INDUSTRY MINISTER SAYS US HAS INDICATED TARIFF RATE ON SOUTH KOREA WOULD BE KEPT AT 15% LEVEL - YONHAP
+- 10/01 06:17 [FirstSquawk] U.S. AND SOUTH KOREA HAVE LAUNCHED A $22.3 BLN TEXAS GAS POWER PROJECT FOR AI DATA CENTERS, WHICH SOUTH KOREA SAYS WILL SUPPLY 6.47 GW OF ELECTRICITY WITH COMMERCIAL OPERATIONS EXPECTED BY 2029, WITH ANNUAL U.S. INVESTMENT CAPPED AT $20 BLN…
+- 10/01 06:17 [FirstSquawk] SEOUL AND WASHINGTON WILL REVIEW THE ALASKA LNG PIPELINE AND EXPORT TERMINAL PROJECT — WHICH WILL PROCEED ONLY IF COMMERCIAL AND LEGAL CONDITIONS ARE MET — WHILE SOUTH KOREA IS SEEKING EQUITY INVESTMENTS BY KOREAN COMPANIES IN WESTINGHOUSE.
+- 10/01 06:18 [FirstSquawk] RIO TINTO SAYS A DEAL WITH THE AUSTRALIAN AND TASMANIAN GOVERNMENTS SECURES ITS BELL BAY ALUMINIUM OPERATIONS THROUGH 2031, WITH HYDRO TASMANIA TO SUPPLY ELECTRICITY THROUGH 31 DECEMBER 2031 AND THE AUSTRALIAN AND TASMANIAN GOVERNMENTS TO P…

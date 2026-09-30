@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-01 06:00 JST／対象: 09/30 18:00 〜 10/01 06:00 JST（時刻はすべて日本時間）
+生成: 2026-10-01 06:19 JST／対象: 09/30 18:19 〜 10/01 06:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 71 | 09/30 18:55 | 10/01 05:52 | ⚠ 78分（04:26→05:45） |
-| FirstSquawk | 167 | 09/30 18:02 | 10/01 05:55 | 30分（18:07→18:37） |
-| financialjuice | 173 | 09/30 18:01 | 10/01 05:59 | 35分（01:01→01:37） |
+| DeItaone | 75 | 09/30 18:55 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
+| FirstSquawk | 167 | 09/30 18:37 | 10/01 06:18 | 28分（03:03→03:31） |
+| financialjuice | 169 | 09/30 18:29 | 10/01 06:14 | 35分（01:01→01:37） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 395 行（統合前 413 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,16 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 18:01 [financialjuice] Top house judiciary committee Democrat Raskin seeks information on data center NDAs - According to Letters Reviewed by WSJ
-- 09/30 18:01 [financialjuice] ITALIAN CPI MOM PRELIM ACTUAL 0.7% (FORECAST 0.3%, PREVIOUS 0.5%) $MACRO
-- 09/30 18:01 [financialjuice] ITALIAN HICP PRELIM MOM ACTUAL 2.0% (FORECAST 1.7%, PREVIOUS 0.1%) $MACRO
-- 09/30 18:01 [financialjuice] ITALIAN CPI YOY PRELIM ACTUAL 4.2% (FORECAST 3.7%, PREVIOUS 3.3%) $MACRO
-- 09/30 18:01 [financialjuice] ITALIAN HICP PRELIM YOY ACTUAL 4.1% (FORECAST 3.7%, PREVIOUS 3.2%) $MACRO
-- 09/30 18:02 [FirstSquawk] ITALY'S PRELIMINARY SEPTEMBER HARMONIZED CPI INCREASES 4.1% YEAR-OVER-YEAR, ABOVE ESTIMATE OF 3.7%.
-- 09/30 18:02 [financialjuice] Rep. Raskin sent letters to Amazon, Google, Meta, Oracle - WSJ.
-- 09/30 18:04 [FirstSquawk] META AVOIDS BILLIONS IN FEDERAL TAXES BY CLASSIFYING ITS DATA CENTRES AS EXPERIMENTAL - NYT
-- 09/30 18:05 [financialjuice] Meta told IRS data centers are experimental, could fail - NYT
-- 09/30 18:07 [FirstSquawk] ISRAELI OFFICIAL TO I24 REPORTER: INCIDENT ABOARD THE FLYDUBAI FLIGHT WAS A TERRORIST ATTACK.
 - 09/30 18:29 [financialjuice] Japan PM Takaichi: Takaichi administration will boost supply side of the economy.
 - 09/30 18:30 [financialjuice] Japan PM Takaichi: Government will set a clearer path of economy and fiscal policy management.
 - 09/30 18:30 [financialjuice] UKMTO gets time-late report of incident in Hormuz.
@@ -419,3 +409,13 @@
 - 10/01 05:55 [FirstSquawk] PENTAGON NAMES MUSK AND LUCKEY TO LEAD WAR STUDY - AXIOS
 - 10/01 05:57 [financialjuice] Trump reiterates gasoline prices will drop after the Iran war ends
 - 10/01 05:59 [financialjuice] US and South Korea Launch $22.3 Billion Texas Gas Power Project for AI Data Centers
+- 10/01 06:00 [financialjuice] Trump on FlyDubai incident: I did speak to Netanyahu
+- 10/01 06:07 [DeItaone] *TRUMP: INFLATION NUMBERS ARE WAY DOWN OTHER THAN FOR OIL
+- 10/01 06:08 [financialjuice] Trump on UK base incident: will learn this afternoon why UK freed suspects
+- 10/01 06:13 [DeItaone] *TRUMP ASKED ABOUT POWELL, WARSH: WARSH WILL DO HIS OWN THING
+- 10/01 06:14 [financialjuice] South Korea industry minister: US likely to maintain tariff rate on South Korea at 15% - Yonhap
+- 10/01 06:15 [DeItaone] *TRUMP COMMENTS ON HIS CALL FOR POWELL TO BE FORCED TO RESIGN
+- 10/01 06:15 [DeItaone] SOUTH KOREA INDUSTRY MINISTER SAYS US HAS INDICATED TARIFF RATE ON SOUTH KOREA WOULD BE KEPT AT 15% LEVEL - YONHAP
+- 10/01 06:17 [FirstSquawk] U.S. AND SOUTH KOREA HAVE LAUNCHED A $22.3 BLN TEXAS GAS POWER PROJECT FOR AI DATA CENTERS, WHICH SOUTH KOREA SAYS WILL SUPPLY 6.47 GW OF ELECTRICITY WITH COMMERCIAL OPERATIONS EXPECTED BY 2029, WITH ANNUAL U.S. INVESTMENT CAPPED AT $20 BLN…
+- 10/01 06:17 [FirstSquawk] SEOUL AND WASHINGTON WILL REVIEW THE ALASKA LNG PIPELINE AND EXPORT TERMINAL PROJECT — WHICH WILL PROCEED ONLY IF COMMERCIAL AND LEGAL CONDITIONS ARE MET — WHILE SOUTH KOREA IS SEEKING EQUITY INVESTMENTS BY KOREAN COMPANIES IN WESTINGHOUSE.
+- 10/01 06:18 [FirstSquawk] RIO TINTO SAYS A DEAL WITH THE AUSTRALIAN AND TASMANIAN GOVERNMENTS SECURES ITS BELL BAY ALUMINIUM OPERATIONS THROUGH 2031, WITH HYDRO TASMANIA TO SUPPLY ELECTRICITY THROUGH 31 DECEMBER 2031 AND THE AUSTRALIAN AND TASMANIAN GOVERNMENTS TO P…
