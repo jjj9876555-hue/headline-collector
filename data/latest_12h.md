@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-30 11:20 JST／対象: 09/29 23:20 〜 09/30 11:20 JST（時刻はすべて日本時間）
+生成: 2026-09-30 11:35 JST／対象: 09/29 23:35 〜 09/30 11:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 55 | 09/29 23:20 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
-| FirstSquawk | 217 | 09/29 23:25 | 09/30 11:18 | ⚠ 96分（06:29→08:05） |
+| DeItaone | 52 | 09/29 23:37 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
+| FirstSquawk | 218 | 09/29 23:37 | 09/30 11:33 | ⚠ 96分（06:29→08:05） |
 | financialjuice | 314 | 09/29 23:36 | 09/30 10:57 | ⚠ 67分（06:32→07:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 573 行（統合前 592 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 571 行（統合前 589 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 23:20 [DeItaone] TRUMP LIVE https://t.co/17DdwfEzmz
-- 09/29 23:24 [DeItaone] OPENAI ANNUAL REVENUE RUN RATE NEARS $70 BILLION OpenAI’s annualized revenue run rate is approaching $70 billion, up more than 70% since the start of Q3, according to Axios. Enterprise revenue has more than doubled since July, as OpenAI gai…
-- 09/29 23:25 [FirstSquawk] OPENAI'S ANNUAL RECURRING REVENUE NEARS $70B, AXIOS REPORTS
-- 09/29 23:25 [FirstSquawk] USER REPORTS SHOW PROBLEMS WITH SPOTIFY - DOWNDETECTOR
-- 09/29 23:25 [FirstSquawk] ORACLE LAUNCHES FUSION CLAW AI EXECUTION RUNTIME
-- 09/29 23:28 [FirstSquawk] TRUMP THANKS MUSK
-- 09/29 23:29 [FirstSquawk] MICROSOFT SHARES TURN POSITIVE, HAD BEEN DOWN 1.3%
-- 09/29 23:30 [DeItaone] USER REPORTS SHOW PROBLEMS WITH CLAUDE - DOWNDETECTOR
-- 09/29 23:35 [FirstSquawk] TRUMP ON AI: SPOKE TO XI, HE LOVES IT
-- 09/29 23:35 [FirstSquawk] TRUMP: WILL SIGN POWERFUL ORDER ON AI
 - 09/29 23:36 [financialjuice] Trump: I will sign a powerful order on AI, I spoke to China’s President Xi, he loves it.
 - 09/29 23:36 [financialjuice] Trump: We will never stifle the growth of AI.
 - 09/29 23:37 [financialjuice] Trump on AI: We don't want to mix it up too much.
@@ -597,3 +587,11 @@
 - 09/30 11:13 [FirstSquawk] China’s military carries out readiness patrols in Scarborough Shoal’s surrounding sea and airspace
 - 09/30 11:18 [FirstSquawk] Porsche introduces Cayenne Electric to South Korean market
 - 09/30 11:18 [FirstSquawk] DeepSeek releases open-source programming tools powered by Huawei Ascend chips
+- 09/30 11:21 [FirstSquawk] North Korean POWs entered South Korea in September, South Korean lawmaker says — media
+- 09/30 11:22 [FirstSquawk] North Korean leader Kim has no apparent health problems, South Korean lawmaker says, citing spy agency
+- 09/30 11:27 [FirstSquawk] DeepSeek develops 128-chip “super node” based on Ascend 950, with optimized computation and communication
+- 09/30 11:28 [FirstSquawk] South Korean lawmaker says there is a 50% chance of North Korea-U.S. talks at APEC summit
+- 09/30 11:28 [FirstSquawk] No signs of North Korea deploying additional troops to Russia, South Korean lawmaker says
+- 09/30 11:28 [FirstSquawk] South Korean lawmaker says spy agency estimates about 9,000 North Korean soldiers are in Russia
+- 09/30 11:29 [FirstSquawk] Russia shows no active signs of transferring advanced military technologies to North Korea, South Korean lawmaker says
+- 09/30 11:33 [FirstSquawk] South Korean lawmaker says North Korea and Russia worked together on ballistic missile shipments

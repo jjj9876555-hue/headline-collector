@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-30 11:20 JST／対象: 09/30 05:20 〜 09/30 11:20 JST（時刻はすべて日本時間）
+生成: 2026-09-30 11:35 JST／対象: 09/30 05:35 〜 09/30 11:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/30 05:36 | 09/30 05:46 | 3分（05:36→05:40） |
-| FirstSquawk | 107 | 09/30 05:22 | 09/30 11:18 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 91 | 09/30 05:25 | 09/30 10:57 | ⚠ 67分（06:32→07:40） |
+| FirstSquawk | 113 | 09/30 05:42 | 09/30 11:33 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 90 | 09/30 05:36 | 09/30 10:57 | ⚠ 67分（06:32→07:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 199 行（統合前 202 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 205 行（統合前 207 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 05:22 [FirstSquawk/DeItaone] MASTERCARD DECLARES QUARTERLY CASH DIVIDEND OF $0.87 PER SHARE
-- 09/30 05:25 [financialjuice] Al Mayadeen: The purpose of Netanyahu's visit to the UAE was to encourage Abu Dhabi to resume its participation in the war against Yemen.
-- 09/30 05:26 [FirstSquawk] AL MAYADEEN: NETANYAHU’S UAE VISIT AIMED TO ENCOURAGE ABU DHABI TO RESUME PARTICIPATION IN WAR AGAINST YEMEN
 - 09/30 05:36 [DeItaone] https://t.me/boost/WalterBloomberg
 - 09/30 05:36 [financialjuice] https://t.me/boost/breakingmarketnews
 - 09/30 05:40 [DeItaone] $TSLA - TESLA SECURES $30 BILLION IN NEW CREDIT FACILITIES Tesla has entered into $30 billion of new financing facilities, according to an SEC filing. The package includes a $20 billion three-year delayed-draw term loan, an $8 billion five-…
@@ -38,6 +35,7 @@
 - 09/30 05:44 [financialjuice] US API DISTILLATE STOCK CHANGE ACTUAL -0.286M (FORECAST -, PREVIOUS -2.164M) $MACRO
 - 09/30 05:46 [financialjuice] US API CRUDE OIL STOCK CHANGE ACTUAL 1.019M (FORECAST -1.9M, PREVIOUS 1.786M) $MACRO
 - 09/30 05:46 [FirstSquawk] U.S. API CRUDE OIL STOCK CHANGE WAS A BUILD OF 1.019 MLN, VERSUS A FORECAST 1.9 MLN DRAW, WITH GASOLINE STOCKS UP 2.991 MLN AND DISTILLATE STOCKS DOWN 0.286 MLN
+- 09/30 05:46 [DeItaone] MASTERCARD DECLARES QUARTERLY CASH DIVIDEND OF $0.87 PER SHARE
 - 09/30 05:47 [FirstSquawk] U.S. STOCKS ENDED MIXED TO LOWER AS CONCERNS OVER PERSISTENT INFLATION, GOVERNMENT SPENDING AND RISING CORPORATE BORROWING PUSHED TREASURY YIELDS HIGHER, WITH THE 30-YEAR YIELD REACHING ITS HIGHEST SINCE 2002, THE S&P 500 DOWN 0.2% AND THE …
 - 09/30 05:47 [FirstSquawk] OIL PRICES FELL, WITH WTI DOWN 3.9% TO $89.01 A BARREL AND BRENT BELOW $103, THOUGH INVESTORS REMAINED CONCERNED ELEVATED ENERGY COSTS COULD KEEP INFLATION PRESSURES HIGH, AS NY FED PRESIDENT JOHN WILLIAMS SAID ANOTHER RATE HIKE THIS YEAR M…
 - 09/30 05:47 [FirstSquawk] U.S. JOB OPENINGS FELL TO A FIVE-MONTH LOW AND CONSUMER CONFIDENCE DROPPED TO ITS LOWEST SINCE 2014, REINFORCING A 'LOW-HIRE, LOW-FIRE' LABOR-MARKET BACKDROP, WITH THE DOLLAR GAINING, THE EURO WEAKENING TO $1.1340 AND GOLD UP 1.4% TO $4,175…
@@ -223,3 +221,11 @@
 - 09/30 11:13 [FirstSquawk] China’s military carries out readiness patrols in Scarborough Shoal’s surrounding sea and airspace
 - 09/30 11:18 [FirstSquawk] Porsche introduces Cayenne Electric to South Korean market
 - 09/30 11:18 [FirstSquawk] DeepSeek releases open-source programming tools powered by Huawei Ascend chips
+- 09/30 11:21 [FirstSquawk] North Korean POWs entered South Korea in September, South Korean lawmaker says — media
+- 09/30 11:22 [FirstSquawk] North Korean leader Kim has no apparent health problems, South Korean lawmaker says, citing spy agency
+- 09/30 11:27 [FirstSquawk] DeepSeek develops 128-chip “super node” based on Ascend 950, with optimized computation and communication
+- 09/30 11:28 [FirstSquawk] South Korean lawmaker says there is a 50% chance of North Korea-U.S. talks at APEC summit
+- 09/30 11:28 [FirstSquawk] No signs of North Korea deploying additional troops to Russia, South Korean lawmaker says
+- 09/30 11:28 [FirstSquawk] South Korean lawmaker says spy agency estimates about 9,000 North Korean soldiers are in Russia
+- 09/30 11:29 [FirstSquawk] Russia shows no active signs of transferring advanced military technologies to North Korea, South Korean lawmaker says
+- 09/30 11:33 [FirstSquawk] South Korean lawmaker says North Korea and Russia worked together on ballistic missile shipments

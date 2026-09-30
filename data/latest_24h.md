@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-30 11:20 JST／対象: 09/29 11:20 〜 09/30 11:20 JST（時刻はすべて日本時間）
+生成: 2026-09-30 11:35 JST／対象: 09/29 11:35 〜 09/30 11:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 88 | 09/29 20:26 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
-| FirstSquawk | 430 | 09/29 11:20 | 09/30 11:18 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 426 | 09/29 11:21 | 09/30 10:57 | ⚠ 67分（06:32→07:40） |
+| FirstSquawk | 434 | 09/29 11:36 | 09/30 11:33 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 425 | 09/29 12:24 | 09/30 10:57 | ⚠ 67分（06:32→07:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 919 行（統合前 950 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 922 行（統合前 953 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 11:20 [FirstSquawk] Indonesia benchmark stock index slides as much as 1.2%, hits lowest since July 29
-- 09/29 11:21 [financialjuice] China’s FAW signs strategic framework pact with Guangzhou Automobile Industry Group
-- 09/29 11:21 [FirstSquawk] China’s FAW and Guangzhou Automobile Industry Group sign strategic cooperation framework agreement
-- 09/29 11:28 [FirstSquawk] Shein stock tumbles 10%
-- 09/29 11:34 [FirstSquawk] Aussie dollar steadies above 0.7000 vs USD ahead of RBA rate decision - FX
 - 09/29 11:36 [FirstSquawk] Fay strengthens back into a tropical storm, NHC says
 - 09/29 11:37 [FirstSquawk] Tropical Storm Fay 1,380 miles west-southwest of Azores with maximum winds of 40 mph, NHC says
 - 09/29 11:41 [FirstSquawk] OpenAI delays new AI model launch due to safety concerns - NA
@@ -943,3 +938,11 @@
 - 09/30 11:13 [FirstSquawk] China’s military carries out readiness patrols in Scarborough Shoal’s surrounding sea and airspace
 - 09/30 11:18 [FirstSquawk] Porsche introduces Cayenne Electric to South Korean market
 - 09/30 11:18 [FirstSquawk] DeepSeek releases open-source programming tools powered by Huawei Ascend chips
+- 09/30 11:21 [FirstSquawk] North Korean POWs entered South Korea in September, South Korean lawmaker says — media
+- 09/30 11:22 [FirstSquawk] North Korean leader Kim has no apparent health problems, South Korean lawmaker says, citing spy agency
+- 09/30 11:27 [FirstSquawk] DeepSeek develops 128-chip “super node” based on Ascend 950, with optimized computation and communication
+- 09/30 11:28 [FirstSquawk] South Korean lawmaker says there is a 50% chance of North Korea-U.S. talks at APEC summit
+- 09/30 11:28 [FirstSquawk] No signs of North Korea deploying additional troops to Russia, South Korean lawmaker says
+- 09/30 11:28 [FirstSquawk] South Korean lawmaker says spy agency estimates about 9,000 North Korean soldiers are in Russia
+- 09/30 11:29 [FirstSquawk] Russia shows no active signs of transferring advanced military technologies to North Korea, South Korean lawmaker says
+- 09/30 11:33 [FirstSquawk] South Korean lawmaker says North Korea and Russia worked together on ballistic missile shipments
