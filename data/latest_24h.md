@@ -7,48 +7,25 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-30 20:54 JST／対象: 09/29 20:54 〜 09/30 20:54 JST（時刻はすべて日本時間）
+生成: 2026-09-30 21:27 JST／対象: 09/29 21:27 〜 09/30 21:27 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 96 | 09/29 21:00 | 09/30 20:51 | ⚠ 789分（05:46→18:55） |
-| FirstSquawk | 404 | 09/29 20:55 | 09/30 20:50 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 413 | 09/29 20:57 | 09/30 20:52 | ⚠ 80分（10:57→12:18） |
+| DeItaone | 95 | 09/29 21:30 | 09/30 21:14 | ⚠ 789分（05:46→18:55） |
+| FirstSquawk | 400 | 09/29 21:27 | 09/30 21:15 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 410 | 09/29 21:30 | 09/30 21:16 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 890 行（統合前 919 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 884 行（統合前 911 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 20:55 [FirstSquawk] IEA'S BIROL: EUROPE IS GOING TO ENTER A VERY DIFFICULT WINTER
-- 09/29 20:55 [FirstSquawk] IEA'S BIROL: HOPE EUROPE AND ITS ALLIES WORK TOGETHER TO MINIMISE RISKS FACING EUROPE IN TERMS OF ENERGY SITUATION
-- 09/29 20:57 [financialjuice] ECB's Escriva: Not seeing second-round effects.
-- 09/29 21:00 [financialjuice] Secured Overnight Financing Rate 3.90% September 28th vs 3.90% September 25th.
-- 09/29 21:00 [DeItaone] PUTIN'S ENVOY DMITRIEV HAD MEETINGS WITH REPRESENTATIVES OF US DEPARTMENTS OF TREASURY, ENERGY IN WASHINGTON, SOURCES SAY
-- 09/29 21:03 [financialjuice] Morning Juice - US Session Prep (29th September)
-- 09/29 21:06 [FirstSquawk] U.S. WILL PERMIT IRAQI AIRWAYS TO CARRY IRANIAN TRAVELERS TO AND FROM NAJAF.
-- 09/29 21:07 [FirstSquawk] NORTH SEA FORTIES CRUDE LOADINGS SET AT EIGHT CARGOES IN NOV.
-- 09/29 21:09 [financialjuice] ECB's Escriva: Spain is not considering moving gold reserves.
-- 09/29 21:14 [financialjuice] IEA's Birol: Another oil stock release is not at the top of the agenda.
-- 09/29 21:16 [financialjuice] Putin Envoy met with US Treasury and Energy officials - Tass.
-- 09/29 21:16 [DeItaone] ANTHROPIC TARGETS $2 TRILLION IPO VALUATION Anthropic is reportedly targeting a valuation above $2 trillion in a potential IPO, more than double its estimated $965 billion valuation in May. Revenue surged 12-fold to nearly $4.6 billion in 2…
-- 09/29 21:17 [FirstSquawk] IEA'S BIROL: ANOTHER OIL STOCK RELEASE NOT TOP OF AGENDA
-- 09/29 21:20 [financialjuice] US VP Vance: Iran must behave for there to be any kind of deal.
-- 09/29 21:21 [financialjuice] US VP Vance: We think Iran's Supreme Leader is alive.
-- 09/29 21:21 [DeItaone] *VANCE: IRAN MUST BEHAVE FOR THERE TO BE ANY KIND OF DEAL
-- 09/29 21:22 [FirstSquawk] JD VANCE: WE THINK IRAN SUPREME LEADER IS ALIVE
-- 09/29 21:22 [FirstSquawk] JD VANCE: IRAN MUST BEHAVE FOR THERE TO BE ANY KIND OF DEAL
-- 09/29 21:23 [DeItaone] IRAN’S RIAL HITS RECORD LOW AS WAR WEIGHS ON ECONOMY Iran’s currency weakened to a fresh record low Tuesday, with traders exchanging more than 2.5 million rials per U.S. dollar, according to AP. The rial has fallen steadily since the U.S.-I…
-- 09/29 21:23 [financialjuice] US House Speaker Johnson on AI: The US can do security and innovation at the same time.
-- 09/29 21:23 [financialjuice] US House Speaker Johnson: I hope the AI meeting today will lead to agreement.
-- 09/29 21:24 [financialjuice/FirstSquawk/DeItaone] Oman plans to more than double oil storage capacity at Duqm.
-- 09/29 21:24 [FirstSquawk] OMAN'S OQ MULLS BUYING TWO SUPERTANKERS FOR FLOATING STORAGE
-- 09/29 21:24 [financialjuice] Iraq's Transport Ministry: Iraqi airways are preparing to resume flights to Iran after securing special exemption. Flights to and from Iran expected to resume in October, starting from Najaf international airport - Transport Ministry.
 - 09/29 21:27 [FirstSquawk] IRAQI AIRWAYS FLIGHTS TO AND FROM IRAN EXPECTED TO RESUME IN OCTOBER, STARTING FROM NAJAF INTERNATIONAL AIRPORT
+- 09/29 21:30 [DeItaone] *OMAN PLANS TO MORE THAN DOUBLE OIL STORAGE CAPACITY AT DUQM
 - 09/29 21:30 [financialjuice] ❗ CANADIAN GDP MOM ACTUAL 0.0% (FORECAST 0%, PREVIOUS 0.3%) $MACRO
 - 09/29 21:31 [financialjuice] Canadian GDP July Report
 - 09/29 21:31 [FirstSquawk] ISRAELI PM BENJAMIN NETANYAHU STATED ON TUESDAY THAT THERE ARE INDICATIONS THAT ISRAEL'S ENEMIES MAY ATTEMPT ATTACKS AS ELECTIONS NEAR, CAUTIONING THAT ISRAEL CAN STRIKE ITS FOES "ANYWHERE, ANYTIME."
@@ -914,3 +891,20 @@
 - 09/30 20:50 [FirstSquawk] EXPLOSION SOUND HEARD NEAR JAMOOHI BLVD IN ZAHEDAN; CAUSE UNKNOWN - FARS
 - 09/30 20:51 [DeItaone] IRAN: EXPLOSION REPORTED IN ZAHEDAN Iran’s Fars News Agency reports that an explosion was heard near Jomhuri Boulevard in Zahedan. The source of the blast remains unknown, with authorities yet to provide further details. More information is…
 - 09/30 20:52 [financialjuice] Explosion heard in IRAN'S southeastern city of Zahedan, source of detonation unknown - Fars News.
+- 09/30 21:00 [DeItaone] U.S. TREASURIES END A BRUTAL QUARTER The U.S. bond market is closing Q3 after a relentless selloff, with 10- and 30-year Treasury yields reaching multidecade highs. According to WSJ/Dow Jones Market Data: 🔸 10-year: +85 bps, biggest quarter…
+- 09/30 21:00 [financialjuice] ❗ GERMAN HICP YOY PRELIM ACTUAL 3.3% (FORECAST 3.2%, PREVIOUS 2.90%) $MACRO
+- 09/30 21:00 [financialjuice] GERMAN HICP MOM PRELIM ACTUAL 0.6% (FORECAST 0.5%, PREVIOUS 0.20%) $MACRO
+- 09/30 21:00 [financialjuice] ❗ GERMAN CPI YOY PRELIM ACTUAL 3.3% (FORECAST 3.1%, PREVIOUS 2.90%) $MACRO
+- 09/30 21:00 [financialjuice] GERMAN CPI MOM PRELIM ACTUAL 0.6% (FORECAST 0.5%, PREVIOUS 0.20%) $MACRO
+- 09/30 21:00 [FirstSquawk] GERMANY PRELIM SEPT. HARMONIZED CPI RISES 3.3% Y/Y; EST. +3.2%
+- 09/30 21:01 [FirstSquawk] Germany CPI (M/M) Sep P: 0.6% (est 0.5%; prev 0.2%) - CPI (Y/Y): 3.3% (est 3.1%; prev 2.9%) - CPI EU Harmonised (M/M: 0.6% (est 0.5%; prev 0.2%) - CPI EU Harmonised (Y/Y): 3.3% (est 3.2%; prev 2.9%)
+- 09/30 21:01 [financialjuice] Secured Overnight Financing Rate 3.88% September 29 vs 3.90% September 28.
+- 09/30 21:02 [DeItaone] GERMANY SEP FLASH HICP 0.6% M/M (0.2% AUG) GERMANY SEP FLASH HICP 3.3% Y/Y (2.9% AUG) GERMANY SEP FLASH NATIONAL CPI 0.6% M/M (0.2% AUG) GERMANY SEP FLASH NATIONAL CPI 3.3% Y/Y (2.9% AUG)
+- 09/30 21:02 [FirstSquawk] QATAR FLOATS NEW PROPOSAL FOR US-IRAN WAR SEEKING CONCESSIONS FROM BOTH SIDES
+- 09/30 21:05 [financialjuice] German CPI September Prelim Report
+- 09/30 21:07 [FirstSquawk] LILLY'S EBGLYSS MEETS PRIMARY ENDPOINT IN PHASE 3B ADTOUCH
+- 09/30 21:08 [financialjuice] Morning Juice - US Session Prep (30th September)
+- 09/30 21:14 [DeItaone] GERMAN INFLATION HITS HIGHEST LEVEL IN NEARLY 3 YEARS Germany’s September inflation accelerated to 3.3% YoY, above the 3.2% forecast, driven primarily by surging energy costs. With inflation also accelerating across France, Italy and Spain,…
+- 09/30 21:15 [FirstSquawk] US ADP NONFARM EMPLOYMENT CHANGE (SEP) ACTUAL: 90K VS 75K PREVIOUS; EST 38K
+- 09/30 21:15 [financialjuice] ❗ US ADP EMPLOYMENT CHANGE ACTUAL 90K (FORECAST 74.5K, PREVIOUS 38K) $MACRO
+- 09/30 21:16 [financialjuice] France’s President Macron: Trade war with china, cutting ties would make no sense.
