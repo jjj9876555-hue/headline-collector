@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-30 17:49 JST／対象: 09/29 17:49 〜 09/30 17:49 JST（時刻はすべて日本時間）
+生成: 2026-09-30 18:00 JST／対象: 09/29 18:00 〜 09/30 18:00 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 88 | 09/29 20:26 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
-| FirstSquawk | 406 | 09/29 17:55 | 09/30 17:30 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 406 | 09/29 17:52 | 09/30 17:10 | ⚠ 80分（10:57→12:18） |
+| FirstSquawk | 401 | 09/29 18:01 | 09/30 17:30 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 405 | 09/29 18:03 | 09/30 17:10 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 875 行（統合前 906 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 869 行（統合前 900 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 17:52 [financialjuice] UK AI Minister Narayan: Need to build data centres with control, UK values.
-- 09/29 17:55 [FirstSquawk] UK AI MINISTER KANISHKA NARAYAN CONFIRMS AI GROWTH ZONES ARE STILL PROGRESSING.
-- 09/29 17:55 [FirstSquawk] UK AI MINISTER KANISHKA NARAYAN BRITAIN REQUIRES A HIGH LEVEL OF COMPUTER SOVEREIGNTY.
-- 09/29 17:55 [FirstSquawk] NARAYAN STRESSES THE IMPORTANCE OF BUILDING DATA CENTRES THAT ALIGN WITH UK VALUES AND STANDARDS.
-- 09/29 17:55 [FirstSquawk] CHINA'S FINAL CURRENT ACCOUNT SURPLUS FOR Q2 IS $193.7 BILLION, DOWN FROM PRELIMINARY SURPLUS OF $195.1 BILLION.
-- 09/29 17:57 [FirstSquawk] NHC REPORTS POLO IS HITTING BAJA CALIFORNIA WITH DANGEROUS WINDS AND LIFE-THREATENING FLASH FLOODS, CONDITIONS ARE SET TO WORSEN IN SONORA EARLY TODAY.
 - 09/29 18:01 [FirstSquawk] ITALY'S PPI ROSE 13.5% YEAR-OVER-YEAR IN AUGUST, UP FROM 9.3% PREVIOUSLY. MONTHLY PPI INCREASED BY 3.1%, UP FROM 3.0%.
 - 09/29 18:03 [financialjuice] UK 10 YR GILT YIELD ACTUAL 5.383% (FORECAST -, PREVIOUS 5.155%) $MACRO
 - 09/29 18:03 [financialjuice] UK 10 YR GILT BID-TO-COVER ACTUAL 3.34 (FORECAST -, PREVIOUS 3.65) $MACRO

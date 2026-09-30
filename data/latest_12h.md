@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-30 17:49 JST／対象: 09/30 05:49 〜 09/30 17:49 JST（時刻はすべて日本時間）
+生成: 2026-09-30 18:00 JST／対象: 09/30 06:00 〜 09/30 18:00 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
 | FirstSquawk | 202 | 09/30 06:04 | 09/30 17:30 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 123 | 09/30 05:49 | 09/30 17:10 | ⚠ 80分（10:57→12:18） |
+| financialjuice | 118 | 09/30 06:01 | 09/30 17:10 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 322 行（統合前 325 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 317 行（統合前 320 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 05:49 [financialjuice] Trump to unveil $54 billion Alaska LNG plan amid midterm woes.
-- 09/30 05:50 [financialjuice] Funds to be provided under South Korea investment deal - people familiar describe Alaska plan for Trump Announcement
-- 09/30 05:51 [financialjuice] Anthropic IPO Filing Shows Amazon and Google Drove 47% of 2025 Sales
-- 09/30 05:52 [financialjuice] The LNG project is part of a $200 billion South Korean investment announcement.
-- 09/30 05:56 [financialjuice] US API CUSHING STOCK CHANGE ACTUAL 0.233M (FORECAST -, PREVIOUS 2.082M) $MACRO
 - 09/30 06:01 [financialjuice] Trump likely to unveil $54 billion from South Korean investment fund for Alaska LNG project as soon as Wednesday - sources
 - 09/30 06:02 [financialjuice/FirstSquawk] Elon Musk: SpaceX and Tesla target 200 gigawatts of annual solar output
 - 09/30 06:05 [financialjuice] North Korea: South Korea fabricating 'baseless findings' on mine blast in DMZ injuring troops - KCNA
