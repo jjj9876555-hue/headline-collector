@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-30 20:17 JST／対象: 09/30 14:17 〜 09/30 20:17 JST（時刻はすべて日本時間）
+生成: 2026-09-30 20:33 JST／対象: 09/30 14:33 〜 09/30 20:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 16 | 09/30 18:55 | 09/30 20:13 | 14分（19:38→19:53） |
-| FirstSquawk | 93 | 09/30 14:33 | 09/30 20:14 | 31分（17:30→18:02） |
-| financialjuice | 57 | 09/30 14:59 | 09/30 20:00 | ⚠ 54分（16:01→16:55） |
+| DeItaone | 17 | 09/30 18:55 | 09/30 20:30 | 16分（20:13→20:30） |
+| FirstSquawk | 93 | 09/30 14:38 | 09/30 20:30 | 31分（17:30→18:02） |
+| financialjuice | 59 | 09/30 14:59 | 09/30 20:32 | ⚠ 54分（16:01→16:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 164 行（統合前 166 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 167 行（統合前 169 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 14:33 [FirstSquawk] Nikkei climbs 1.5%, driven by gains in chip and bank stocks — WSJ
 - 09/30 14:38 [FirstSquawk] Gold slips as Fed hike bets and Middle East tensions underpin the U.S. dollar — FX
 - 09/30 14:39 [FirstSquawk] Kazakhstan restarts enforcement proceedings to recover 2.3 trillion tenge fine from NCOC — IFX
 - 09/30 14:48 [FirstSquawk] HSBC calls its stablecoin RedCoin as it targets 3.3 million PayMe users
@@ -188,3 +187,7 @@
 - 09/30 20:12 [DeItaone] GOLDMAN: GULF OIL EXPORTS FULLY RECOVER TO 2025 LEVELS Persian Gulf oil exports have doubled in September, reaching 23.3 million barrels per day, according to Goldman Sachs. Crude shipments have recovered to 108% of their 2025 average, but …
 - 09/30 20:13 [DeItaone] GOLDMAN: U.S. PENSION FUNDS SET TO SELL $33 BILLION IN STOCKS Goldman Sachs estimates $33 billion in U.S. pension fund equity selling around September month-end, a flow ranking in the 98th percentile since 2000. Meanwhile, systematic CTAs c…
 - 09/30 20:14 [FirstSquawk] AI BOOM DRIVES ROBOT MAKERS FANUC, YASKAWA TO STEP UP SHIFT FROM CHINA TO US || JAPANESE COMPANIES WEIGH LOCAL PRODUCTION, BUT SUPPLY CHAIN CONCERNS REMAIN
+- 09/30 20:30 [FirstSquawk] PORSCHE SE SAYS GERMAN COURT HAS DISMISSED $6.1 BILLION LAWSUIT BROUGHT BY INVESTORS
+- 09/30 20:30 [DeItaone] *BURNHAM: COULD GO ALL THE WAY AND REJOIN EU
+- 09/30 20:32 [financialjuice] Poll: Brent crude oil projected to average $89.05 a barrel in 2026 versus $85.08 forecast in August
+- 09/30 20:32 [financialjuice] Poll: US crude oil set to average $83.90 per barrel in 2026 versus $80.20 forecast in August

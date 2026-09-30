@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-30 20:17 JST／対象: 09/29 20:17 〜 09/30 20:17 JST（時刻はすべて日本時間）
+生成: 2026-09-30 20:33 JST／対象: 09/29 20:33 〜 09/30 20:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 104 | 09/29 20:26 | 09/30 20:13 | ⚠ 789分（05:46→18:55） |
-| FirstSquawk | 407 | 09/29 20:18 | 09/30 20:14 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 419 | 09/29 20:29 | 09/30 20:00 | ⚠ 80分（10:57→12:18） |
+| DeItaone | 101 | 09/29 20:35 | 09/30 20:30 | ⚠ 789分（05:46→18:55） |
+| FirstSquawk | 403 | 09/29 20:40 | 09/30 20:30 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 420 | 09/29 20:43 | 09/30 20:32 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 904 行（統合前 936 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 899 行（統合前 930 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 20:18 [FirstSquawk] ROSATOM, IRAN DISCUSS OPTIONS TO BUILD NEW NUCLEAR PLANTS: TASS
-- 09/29 20:23 [FirstSquawk] DEUTSCHE BANK RAISES NETFLIX TO BUY FROM HOLD; CUTS TARGET PRICE TO $95 FROM $100
-- 09/29 20:26 [FirstSquawk] BYD SAYS WANG CHUANFU APPOINTED AS COMPANY PRESIDENT
-- 09/29 20:26 [DeItaone] IRAN EXPECTS FORMAL U.S. RESPONSE TODAY Iranian Foreign Minister Abbas Araghchi says Tehran expects a final U.S. response to its proposal today, as Qatari and Pakistani mediators push for an understanding that could revive the Islamabad MoU…
-- 09/29 20:27 [DeItaone/FirstSquawk] PUTIN'S ENVOY DMITRIEV HAD 'CONSTRUCTIVE' MEETING ON MONDAY WITH US OFFICIALS ON PEACEFULLY RESOLVING WAR IN UKRAINE -US OFFICIAL
-- 09/29 20:28 [FirstSquawk] PUTIN'S ENVOY DMITRIEV, US OFFICIALS ALSO DISCUSSED POSSIBLE US-RUSSIA ENERGY INITIATIVES AFTER THE WAR ENDS -US OFFICIAL
-- 09/29 20:29 [financialjuice] Putin's Envoy Dmitriev, US Officials discussed possible US-Russia energy initiatives after the war ends - US Official.
-- 09/29 20:29 [DeItaone] MORGAN STANLEY BUILDS CRYPTO LAB Morgan Stanley has launched a Digital Asset Lab to test stablecoins, tokenization and DeFi applications before deploying them across the bank. The firm will explore tokenized deposits, CBDCs, money-market fu…
-- 09/29 20:32 [DeItaone] U.S. S&P 500 E-MINI FUTURES UP 0.1%, NASDAQ 100 FUTURES UP 0.3%, DOW FUTURES UP 0.2%
 - 09/29 20:35 [DeItaone] 🇺🇸 PRESIDENT TRUMP — TUESDAY, SEPTEMBER 29, 2026 🔸 8:00 AM — Executive Time 🔸 9:00 AM — In-Town Pool Call Time 🔸 10:00 AM — Announcement on https://t.co/wreay0MAAb — Andrew W. Mellon Auditorium 🔸 12:30 PM — Meeting & Luncheon on Super Intel…
 - 09/29 20:39 [DeItaone] https://t.co/3Cw9HhjwNx
 - 09/29 20:40 [FirstSquawk] US OFFICIALPUTIN'S ENVOY DMITRIEV HAD 'CONSTRUCTIVE' MEETING ON MONDAY WITH US OFFICIALS ON PEACEFULLY RESOLVING WAR IN UKRAINE
@@ -928,3 +919,7 @@
 - 09/30 20:12 [DeItaone] GOLDMAN: GULF OIL EXPORTS FULLY RECOVER TO 2025 LEVELS Persian Gulf oil exports have doubled in September, reaching 23.3 million barrels per day, according to Goldman Sachs. Crude shipments have recovered to 108% of their 2025 average, but …
 - 09/30 20:13 [DeItaone] GOLDMAN: U.S. PENSION FUNDS SET TO SELL $33 BILLION IN STOCKS Goldman Sachs estimates $33 billion in U.S. pension fund equity selling around September month-end, a flow ranking in the 98th percentile since 2000. Meanwhile, systematic CTAs c…
 - 09/30 20:14 [FirstSquawk] AI BOOM DRIVES ROBOT MAKERS FANUC, YASKAWA TO STEP UP SHIFT FROM CHINA TO US || JAPANESE COMPANIES WEIGH LOCAL PRODUCTION, BUT SUPPLY CHAIN CONCERNS REMAIN
+- 09/30 20:30 [FirstSquawk] PORSCHE SE SAYS GERMAN COURT HAS DISMISSED $6.1 BILLION LAWSUIT BROUGHT BY INVESTORS
+- 09/30 20:30 [DeItaone] *BURNHAM: COULD GO ALL THE WAY AND REJOIN EU
+- 09/30 20:32 [financialjuice] Poll: Brent crude oil projected to average $89.05 a barrel in 2026 versus $85.08 forecast in August
+- 09/30 20:32 [financialjuice] Poll: US crude oil set to average $83.90 per barrel in 2026 versus $80.20 forecast in August
