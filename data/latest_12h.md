@@ -7,50 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-30 22:32 JST／対象: 09/30 10:32 〜 09/30 22:32 JST（時刻はすべて日本時間）
+生成: 2026-09-30 22:50 JST／対象: 09/30 10:50 〜 09/30 22:50 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 34 | 09/30 18:55 | 09/30 22:25 | 20分（22:02→22:23） |
-| FirstSquawk | 192 | 09/30 10:32 | 09/30 22:31 | 31分（17:30→18:02） |
-| financialjuice | 117 | 09/30 10:32 | 09/30 22:30 | ⚠ 80分（10:57→12:18） |
+| DeItaone | 35 | 09/30 18:55 | 09/30 22:46 | 20分（22:25→22:46） |
+| FirstSquawk | 179 | 09/30 10:57 | 09/30 22:48 | 31分（17:30→18:02） |
+| financialjuice | 111 | 09/30 10:57 | 09/30 22:45 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 336 行（統合前 343 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 318 行（統合前 325 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 10:32 [financialjuice] South Korea military: North Korea must halt fortification efforts immediately
-- 09/30 10:32 [financialjuice] South Korea military: North Korea must apologize for fortification activities
-- 09/30 10:32 [FirstSquawk] Australia CPI (M/M) Aug: 0.4% (est 0.5%; prev 1.0%)
-- 09/30 10:33 [FirstSquawk] Australia CPI (Y/Y): 4.0% (est 4.1%; prev 3.5%)
-- 09/30 10:33 [FirstSquawk] Australia Trimmed Mean CPI (M/M): 0.2% (est 0.3%; prev 0.5%)
-- 09/30 10:33 [FirstSquawk] Australia Trimmed Mean CPI (Y/Y): 3.6% (est 3.6%; prev 3.6%)
-- 09/30 10:33 [financialjuice] South Korea military: personnel seriously injured by North Korean mines
-- 09/30 10:33 [FirstSquawk] Brent futures gain over $1 to $103.73 following Trump’s denial of Iran sanctions relief
-- 09/30 10:34 [FirstSquawk] Australia Private Sector Credit (M/M) Aug: 0.6% (est 0.5%; prev 0.6%)
-- 09/30 10:34 [FirstSquawk] Australia Private Sector Credit (Y/Y): 8.4% (prev 8.4%)
-- 09/30 10:34 [FirstSquawk] Australia Building Approvals (M/M) Aug: -6.1% (est -1.0%; prev -3.6%)
-- 09/30 10:34 [FirstSquawk] Australia Private Sector Houses (M/M): 3.7% (prev -4.2%)
-- 09/30 10:35 [FirstSquawk] China Manufacturing PMI Sep: 50.1 (est 50.1; prev 49.8)
-- 09/30 10:35 [FirstSquawk] China Non-Manufacturing PMI: 50.2 (est 49.2; prev 49.0)
-- 09/30 10:35 [FirstSquawk] China Composite PMI: 50.7 (prev 49.5)
-- 09/30 10:36 [FirstSquawk] Australia’s benchmark S&P/ASX 200 index advances 0.5% to 8,749.50 after inflation data
-- 09/30 10:36 [FirstSquawk] South Korean military demands North Korea cease fortification activities immediately
-- 09/30 10:36 [FirstSquawk] South Korea military warns North Korea’s fortification activities are escalating tensions on Korean Peninsula
-- 09/30 10:40 [FirstSquawk] Australia struggles with illicit cigarette trade after a decade of tax increases — FT
-- 09/30 10:44 [FirstSquawk] Gold prices stabilize with markets awaiting key U.S. economic data — WSJ
-- 09/30 10:45 [financialjuice] ❗ CHINESE SERVICES PMI ACTUAL 51.6 (FORECAST 51.3, PREVIOUS 51.4) $MACRO
-- 09/30 10:45 [financialjuice] ❗ CHINESE MANUFACTURING PMI ACTUAL 52.1 (FORECAST 51.7, PREVIOUS 51.5) $MACRO
-- 09/30 10:45 [financialjuice] RatingDog China general manufacturing PMI at 52.1 in September beats forecast 51.6
-- 09/30 10:45 [financialjuice] Ratingdog China general services PMI at 51.6 in September vs 51.4 in August
-- 09/30 10:47 [FirstSquawk] China RatingDog Manufacturing PMI Sep: 52.1 (est 51.7; prev 51.5)
-- 09/30 10:47 [FirstSquawk] China RatingDog Services PMI: 51.6 (est 51.3; prev 51.4)
-- 09/30 10:47 [FirstSquawk] China RatingDog Composite PMI: 52.4 (prev 52.1)
 - 09/30 10:57 [FirstSquawk] Toys R Us weighs Japan exit through sale of local business to Don Quijote operator
 - 09/30 10:57 [financialjuice] Russian air strike on Ukraine's Kyiv region wounds three, kills one: official
 - 09/30 10:58 [FirstSquawk] Russian strike on Kyiv region kills one, injures three, official says
@@ -360,3 +333,12 @@
 - 09/30 22:28 [FirstSquawk] NETANYAHU: PILOT WHO STABBED APPARENTLY TRIED TO CRASH PLANE
 - 09/30 22:30 [financialjuice] ❗ MOO IMBALANCE S&P 500: -24.1 MLN NASDAQ 100: 7.5 MLN DOW 30: -5.8 MLN MAG 7: 1.9 MLN $MACRO
 - 09/30 22:31 [FirstSquawk] DOW JONES UP 72.70 POINTS, OR 0.14 PERCENT, AT 51,422.62 AFTER MARKET OPEN NASDAQ UP 99.52 POINTS, OR 0.37 PERCENT, AT 26,897.06 AFTER MARKET OPEN S&P 500 UP 21.09 POINTS, OR 0.27 PERCENT, AT 7,691.93 AFTER MARKET OPEN
+- 09/30 22:36 [FirstSquawk] NATO CHIEF: IN REACTION TO RUSSIA'S LETTER, I SAID WE ARE A DEFENSIVE ALLIANCE AND TO STOP THE NUCLEAR THREAT
+- 09/30 22:42 [FirstSquawk] NATO'S RUTTE SAYS RUSSIA THREAT ASSESSMENT NOW IS SAME AS THREE WEEKS, THREE MONTHS AGO, A YEAR AGO
+- 09/30 22:42 [FirstSquawk] NATO'S RUTTE: THERE IS NO IMMINENT THREAT TO NATO TERRITORY
+- 09/30 22:45 [FirstSquawk] ISRAEL’S DEFENSE MINISTER KATZ CITING PRELIMINARY INFORMATION: THE ATTACKER INTENDED TO CRASH THE PLANE, KILLING EVERYONE ON BOARD
+- 09/30 22:45 [financialjuice] US CHICAGO PMI ACTUAL 58.8 (FORECAST 51, PREVIOUS 47.1) $MACRO
+- 09/30 22:45 [FirstSquawk] US MNI CHICAGO PMI SEP: 58.8 (EST 51.0; PREV 47.1)
+- 09/30 22:46 [DeItaone] *US SEPT. MNI CHICAGO REPORT BUSINESS INDEX AT 58.8; EST 51.0
+- 09/30 22:47 [FirstSquawk] PM MODI: HAD A PRODUCTIVE CONVERSATION WITH US PRESIDENT TRUMP
+- 09/30 22:48 [FirstSquawk] PM MODI: ALSO EXCHANGED VIEWS ON REGIONAL AND INTERNATIONAL ISSUES, INCLUDING ONGOING EFFORTS TO ADVANCE GLOBAL PEACE AND SECURITY

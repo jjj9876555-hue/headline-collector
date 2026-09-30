@@ -7,41 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-30 22:32 JST／対象: 09/29 22:32 〜 09/30 22:32 JST（時刻はすべて日本時間）
+生成: 2026-09-30 22:50 JST／対象: 09/29 22:50 〜 09/30 22:50 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 101 | 09/29 22:32 | 09/30 22:25 | ⚠ 789分（05:46→18:55） |
-| FirstSquawk | 402 | 09/29 22:33 | 09/30 22:31 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 428 | 09/29 22:41 | 09/30 22:30 | ⚠ 80分（10:57→12:18） |
+| DeItaone | 97 | 09/29 22:50 | 09/30 22:46 | ⚠ 789分（05:46→18:55） |
+| FirstSquawk | 400 | 09/29 22:51 | 09/30 22:48 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 424 | 09/29 23:36 | 09/30 22:45 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 908 行（統合前 937 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 899 行（統合前 927 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 22:32 [DeItaone] GOLDMAN: STOCKS NEED BOND YIELDS TO FALL Goldman Sachs says the clearest path to further equity gains is relief in Treasury yields, with the U.S. 10-year reaching 5.25%, its highest since 2007. Stocks have remained resilient, led by large-c…
-- 09/29 22:33 [FirstSquawk] BURNHAM: APPROACH IS RESPONSIBLE
-- 09/29 22:33 [FirstSquawk] BURNHAM: WILL STICK TO FISCAL RULES
-- 09/29 22:35 [FirstSquawk] US HEGSETH TO ANNOUNCE 20% CUT TO GENERALS, ADMIRAL POSITIONS: FOX
-- 09/29 22:41 [financialjuice] IRGC Spokesman: US Navy ships have withdrawn to 500 kilometers from the Strait of Hormuz - Tasnim News
-- 09/29 22:41 [DeItaone] HEGSETH PLANS 20% CUT TO GENERAL, ADMIRAL POSITIONS War Secretary Pete Hegseth plans to reduce by 20% the number of military positions reserved for generals and admirals, Fox News reports. The target doubles the 10% reduction ordered last y…
-- 09/29 22:41 [FirstSquawk] UK BURNHAM: SOCIAL CARE FULLY FUNDED NOT THROUGH BORROWING
-- 09/29 22:41 [FirstSquawk] BURNHAM: I ACCEPT I MAY PAY A POLITICAL PRICE
-- 09/29 22:43 [financialjuice] Musk and Bezos to attend White House AI lunch - Axios. $TSLA $SPCX $AMZN
-- 09/29 22:44 [DeItaone] *MUSK, BEZOS TO ATTEND WHITE HOUSE AI LUNCH: AXIOS
-- 09/29 22:44 [FirstSquawk] UK TO ADJUST STATE PENSION FROM 2030 TO FUND CARE SERVICE
-- 09/29 22:45 [financialjuice] The UK is going to adjust the state pension from 2030 to fund care service.
-- 09/29 22:45 [financialjuice] Micron, Microsoft and AMD CEOs to attend White House lunch - Axios. $MSFT $MU $AMD
-- 09/29 22:45 [FirstSquawk] PARAMOUNT KICKS OFF HIGH-GRADE BOND SALE FOR WARNER BROS. DEAL
-- 09/29 22:45 [DeItaone/FirstSquawk] ELON MUSK, CEOS OF PALANTIR, AMAZON, SERVICE NOW, ALTIMETER TO ATTEND WHITE HOUSE MEETING ON AI, AXIOS REPORTS
-- 09/29 22:45 [financialjuice] Full list of attendees at White House AI lunch - Axios
-- 09/29 22:46 [DeItaone] TRUMP TO HOST AI POWER LUNCH WITH TOP TECH CEOs President Trump and House Speaker Mike Johnson are set to meet leading AI and tech executives Tuesday as Washington debates how to oversee rapidly advancing AI. Axios Attendees include Elon Mu…
-- 09/29 22:47 [FirstSquawk] UK GILT FUTURES PARE GAINS BY AROUND 10 TICKS AFTER PM BURNHAM SAYS SAVINGS FROM SCRAPPING TRIPLE LOCK WILL BE USED TO FINANCE SOCIAL CARE
 - 09/29 22:50 [DeItaone] U.S. GASOLINE AND DIESEL PRICES FALL U.S. regular gasoline prices fell 1.3 cents over the week to $4.465/gallon, though prices remain $1.347 higher than a year ago. Diesel saw a much larger decline, falling 14.7 cents to $6.382/gallon, but …
 - 09/29 22:50 [DeItaone] U.S. 30-YEAR TREASURY YIELD REACHES 5.587%, HIGHEST SINCE MAY 2004
 - 09/29 22:51 [FirstSquawk] STELLANTIS TO SUSPEND PRODUCTION AT THREE FRENCH PLANTS - LES ECHOS
@@ -932,3 +914,12 @@
 - 09/30 22:28 [FirstSquawk] NETANYAHU: PILOT WHO STABBED APPARENTLY TRIED TO CRASH PLANE
 - 09/30 22:30 [financialjuice] ❗ MOO IMBALANCE S&P 500: -24.1 MLN NASDAQ 100: 7.5 MLN DOW 30: -5.8 MLN MAG 7: 1.9 MLN $MACRO
 - 09/30 22:31 [FirstSquawk] DOW JONES UP 72.70 POINTS, OR 0.14 PERCENT, AT 51,422.62 AFTER MARKET OPEN NASDAQ UP 99.52 POINTS, OR 0.37 PERCENT, AT 26,897.06 AFTER MARKET OPEN S&P 500 UP 21.09 POINTS, OR 0.27 PERCENT, AT 7,691.93 AFTER MARKET OPEN
+- 09/30 22:36 [FirstSquawk] NATO CHIEF: IN REACTION TO RUSSIA'S LETTER, I SAID WE ARE A DEFENSIVE ALLIANCE AND TO STOP THE NUCLEAR THREAT
+- 09/30 22:42 [FirstSquawk] NATO'S RUTTE SAYS RUSSIA THREAT ASSESSMENT NOW IS SAME AS THREE WEEKS, THREE MONTHS AGO, A YEAR AGO
+- 09/30 22:42 [FirstSquawk] NATO'S RUTTE: THERE IS NO IMMINENT THREAT TO NATO TERRITORY
+- 09/30 22:45 [FirstSquawk] ISRAEL’S DEFENSE MINISTER KATZ CITING PRELIMINARY INFORMATION: THE ATTACKER INTENDED TO CRASH THE PLANE, KILLING EVERYONE ON BOARD
+- 09/30 22:45 [financialjuice] US CHICAGO PMI ACTUAL 58.8 (FORECAST 51, PREVIOUS 47.1) $MACRO
+- 09/30 22:45 [FirstSquawk] US MNI CHICAGO PMI SEP: 58.8 (EST 51.0; PREV 47.1)
+- 09/30 22:46 [DeItaone] *US SEPT. MNI CHICAGO REPORT BUSINESS INDEX AT 58.8; EST 51.0
+- 09/30 22:47 [FirstSquawk] PM MODI: HAD A PRODUCTIVE CONVERSATION WITH US PRESIDENT TRUMP
+- 09/30 22:48 [FirstSquawk] PM MODI: ALSO EXCHANGED VIEWS ON REGIONAL AND INTERNATIONAL ISSUES, INCLUDING ONGOING EFFORTS TO ADVANCE GLOBAL PEACE AND SECURITY
