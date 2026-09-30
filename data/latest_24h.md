@@ -7,41 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-01 02:01 JST／対象: 09/30 02:01 〜 10/01 02:01 JST（時刻はすべて日本時間）
+生成: 2026-10-01 02:22 JST／対象: 09/30 02:22 〜 10/01 02:22 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 72 | 09/30 02:02 | 10/01 00:53 | ⚠ 789分（05:46→18:55） |
-| FirstSquawk | 382 | 09/30 02:31 | 10/01 01:55 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 374 | 09/30 02:02 | 10/01 01:59 | ⚠ 80分（10:57→12:18） |
+| DeItaone | 72 | 09/30 02:23 | 10/01 02:19 | ⚠ 789分（05:46→18:55） |
+| FirstSquawk | 383 | 09/30 02:31 | 10/01 02:02 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 363 | 09/30 02:25 | 10/01 02:18 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 812 行（統合前 832 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 801 行（統合前 822 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 02:02 [DeItaone] OPENAI REPORTEDLY IGNORED INTERNAL SECURITY WARNINGS OpenAI employees warned executives that advanced AI models were not being adequately monitored during safety testing, but were reportedly overruled as the company prioritized release time…
-- 09/30 02:02 [financialjuice] Israeli security source: No concrete, reliable information directly links Israeli elections to escalation - Kan News
-- 09/30 02:03 [financialjuice] Fed's Barr: Seeing some elevated wage rates in the skilled trades
-- 09/30 02:05 [financialjuice] Fed's Barr: Taking the longer view, we need to be sure we do what it takes to bring supply and demand into balance
-- 09/30 02:06 [financialjuice] Fed's Barr: The resilience of the US economy is striking
-- 09/30 02:06 [financialjuice] OFAC sanctions 10 over Iran MODAFL weapons procurement
-- 09/30 02:08 [DeItaone] OPENAI:INTRODUCING GPT‑6.1 SOL
-- 09/30 02:08 [financialjuice] OpenAI: Introducing GPT-6.1 Sol, launched at one-fifth of Astra's price; cached input cut 95% vs standard price
-- 09/30 02:10 [financialjuice] OpenAI's Altman unveils new AI agent tool called Dots; launched for Pro and Business plans
-- 09/30 02:11 [financialjuice] Fed's Barr: Momentum seems to be building in the economy
-- 09/30 02:12 [financialjuice] The US is looking to Europe to release Diesel from reserves - Politico
-- 09/30 02:13 [financialjuice] fed's Barr: All we're focused on is what the data tell us about the evolving outlook and balance of risks to achieving our congressional mandate.
-- 09/30 02:16 [financialjuice] OpenAI: 35 million people build with ChatGPT Work and Codex every week; new Pro $500 plan includes access to ultrafast processing in Codex and ChatGPT
-- 09/30 02:18 [financialjuice] OpenAI: Preview of private inference, coming this fall, combines confidential computing with strict, verifiable controls
-- 09/30 02:18 [DeItaone] *US LOOKING TO EUROPE TO RELEASE DIESEL FROM RESERVES: POLITICO
-- 09/30 02:20 [financialjuice] BoC's Gravelle: Will deploy operations as needed to control policy rate amid repo imbalances; only tolerate so much upward pressure on CORRA, as large deviations can disrupt policy transmission
-- 09/30 02:21 [financialjuice] BoC's Gravelle: BoC and OSFI released joint statement saying use of the SLF for overnight liquidity is not seen as an exceptional event or a sign of stress
-- 09/30 02:21 [financialjuice] BoC's Gravelle: Using two-week repos more actively could mean reserves sometimes exceed our best estimate of steady-state demand, which remains C$50 billion to C$70 billion
 - 09/30 02:23 [DeItaone] WHITE HOUSE EYES EUROPE’S DIESEL RESERVES The Trump administration is considering asking European governments to release diesel from strategic reserves as it searches for alternatives to a U.S. export ban. Europe reportedly holds more than …
 - 09/30 02:25 [financialjuice] Fed's Goolsbee: Business margins are high but starting to thin
 - 09/30 02:26 [DeItaone] FED'S BARR: I SEE US NOT GETTING TO 2% INFLATION TARGET IN A TIMELY WAY UNLESS WE ADJUST OUR POLICY
@@ -836,3 +818,10 @@
 - 10/01 01:55 [FirstSquawk] SPACEXAI PLANS TO SOON UNVEIL FOUR GROK PRICING TIERS
 - 10/01 01:55 [financialjuice] SpaceXAI plans to soon unveil four Grok pricing tiers. $SPCX
 - 10/01 01:59 [financialjuice] Israel's Prime Minister Netanyahu spoke with UAE President - Israel's Hayom News
+- 10/01 02:02 [FirstSquawk/DeItaone] FED WATCHDOG FINDS NO CRIMINAL VIOLATIONS IN RENOVATION PROJECT
+- 10/01 02:03 [financialjuice] OpenAI: Identified, disrupted coordinated campaign designed to extract protected reasoning from our models; operators did not break our encryption, compromise a database or gain direct access to stored user conversations
+- 10/01 02:04 [financialjuice] OpenAI: Attribute a core activity attributed to individuals tied to Kimi developer Moonshot AI
+- 10/01 02:08 [financialjuice] An Omani pilot who attempted to crash the plane from Dubai to Tel Aviv was neutralized, and the plane landed in Saudi Arabia - Israel's channel 14 news
+- 10/01 02:15 [DeItaone] GOLDMAN PUSHES NEXT FED HIKE TO DECEMBER Goldman Sachs now says an October Fed hike is unlikely, pushing its forecast for the next increase to December after softer inflation data. Core PCE fell to 3.01% YoY, well below expectations, with G…
+- 10/01 02:18 [financialjuice] Trump: Last US forces are leaving iraq - Truth Social
+- 10/01 02:19 [DeItaone] TRUMP: WE LEAVE IRAQ WITH A WONDERFUL NEW PRIME MINISTER

@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 02:01 JST／対象: 09/30 20:01 〜 10/01 02:01 JST（時刻はすべて日本時間）
+生成: 2026-10-01 02:22 JST／対象: 09/30 20:22 〜 10/01 02:22 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 32 | 09/30 20:01 | 10/01 00:53 | ⚠ 72分（23:35→00:48） |
-| FirstSquawk | 71 | 09/30 20:01 | 10/01 01:55 | 16分（01:09→01:25） |
-| financialjuice | 90 | 09/30 20:32 | 10/01 01:59 | 35分（01:01→01:37） |
+| DeItaone | 31 | 09/30 20:30 | 10/01 02:19 | ⚠ 77分（00:53→02:11） |
+| FirstSquawk | 70 | 09/30 20:30 | 10/01 02:02 | 16分（01:09→01:25） |
+| financialjuice | 94 | 09/30 20:32 | 10/01 02:18 | 35分（01:01→01:37） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 187 行（統合前 194 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 188 行（統合前 196 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 20:01 [FirstSquawk] US MBA MORTGAGE APPLICATIONS SEP-25: -6.0% (PREV -1.5%)
-- 09/30 20:01 [DeItaone] *US 30-YR FIXED MORTGAGE SURGES TO 7.3%, HIGHEST SINCE NOV. 2023
-- 09/30 20:01 [DeItaone] U.S. MORTGAGE RATES SURGE TO 7.30% The average 30-year fixed mortgage contract rate climbed to 7.30%, up 18 basis points in one week and 84 basis points year-over-year, according to the MBA. The 15-year fixed rate rose to 6.56%, while the 5…
-- 09/30 20:12 [DeItaone] GOLDMAN: GULF OIL EXPORTS FULLY RECOVER TO 2025 LEVELS Persian Gulf oil exports have doubled in September, reaching 23.3 million barrels per day, according to Goldman Sachs. Crude shipments have recovered to 108% of their 2025 average, but …
-- 09/30 20:13 [DeItaone] GOLDMAN: U.S. PENSION FUNDS SET TO SELL $33 BILLION IN STOCKS Goldman Sachs estimates $33 billion in U.S. pension fund equity selling around September month-end, a flow ranking in the 98th percentile since 2000. Meanwhile, systematic CTAs c…
-- 09/30 20:14 [FirstSquawk] AI BOOM DRIVES ROBOT MAKERS FANUC, YASKAWA TO STEP UP SHIFT FROM CHINA TO US || JAPANESE COMPANIES WEIGH LOCAL PRODUCTION, BUT SUPPLY CHAIN CONCERNS REMAIN
 - 09/30 20:30 [FirstSquawk] PORSCHE SE SAYS GERMAN COURT HAS DISMISSED $6.1 BILLION LAWSUIT BROUGHT BY INVESTORS
 - 09/30 20:30 [DeItaone] *BURNHAM: COULD GO ALL THE WAY AND REJOIN EU
 - 09/30 20:32 [financialjuice] Poll: Brent crude oil projected to average $89.05 a barrel in 2026 versus $85.08 forecast in August
@@ -211,3 +205,10 @@
 - 10/01 01:55 [FirstSquawk] SPACEXAI PLANS TO SOON UNVEIL FOUR GROK PRICING TIERS
 - 10/01 01:55 [financialjuice] SpaceXAI plans to soon unveil four Grok pricing tiers. $SPCX
 - 10/01 01:59 [financialjuice] Israel's Prime Minister Netanyahu spoke with UAE President - Israel's Hayom News
+- 10/01 02:02 [FirstSquawk/DeItaone] FED WATCHDOG FINDS NO CRIMINAL VIOLATIONS IN RENOVATION PROJECT
+- 10/01 02:03 [financialjuice] OpenAI: Identified, disrupted coordinated campaign designed to extract protected reasoning from our models; operators did not break our encryption, compromise a database or gain direct access to stored user conversations
+- 10/01 02:04 [financialjuice] OpenAI: Attribute a core activity attributed to individuals tied to Kimi developer Moonshot AI
+- 10/01 02:08 [financialjuice] An Omani pilot who attempted to crash the plane from Dubai to Tel Aviv was neutralized, and the plane landed in Saudi Arabia - Israel's channel 14 news
+- 10/01 02:15 [DeItaone] GOLDMAN PUSHES NEXT FED HIKE TO DECEMBER Goldman Sachs now says an October Fed hike is unlikely, pushing its forecast for the next increase to December after softer inflation data. Core PCE fell to 3.01% YoY, well below expectations, with G…
+- 10/01 02:18 [financialjuice] Trump: Last US forces are leaving iraq - Truth Social
+- 10/01 02:19 [DeItaone] TRUMP: WE LEAVE IRAQ WITH A WONDERFUL NEW PRIME MINISTER

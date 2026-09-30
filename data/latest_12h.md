@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-01 02:01 JST／対象: 09/30 14:01 〜 10/01 02:01 JST（時刻はすべて日本時間）
+生成: 2026-10-01 02:22 JST／対象: 09/30 14:22 〜 10/01 02:22 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 44 | 09/30 18:55 | 10/01 00:53 | ⚠ 72分（23:35→00:48） |
-| FirstSquawk | 170 | 09/30 14:02 | 10/01 01:55 | 31分（17:30→18:02） |
-| financialjuice | 147 | 09/30 14:59 | 10/01 01:59 | ⚠ 54分（16:01→16:55） |
+| DeItaone | 47 | 09/30 18:55 | 10/01 02:19 | ⚠ 77分（00:53→02:11） |
+| FirstSquawk | 163 | 09/30 14:33 | 10/01 02:02 | 31分（17:30→18:02） |
+| financialjuice | 151 | 09/30 14:59 | 10/01 02:18 | ⚠ 54分（16:01→16:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 353 行（統合前 362 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 352 行（統合前 362 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 14:02 [FirstSquawk] FINLAND (AUG) Retail Sales Volume WDA YoY ACTUAL: 3.7% VS 2% PREVIOUS
-- 09/30 14:02 [FirstSquawk] FINLAND (AUG) GDP Indicator WDA YoY ACTUAL: 2.3% VS 1.4% PREVIOUS
-- 09/30 14:02 [FirstSquawk] JAPAN (AUG) HOUSING STARTS YOY ACTUAL: 6.1% VS 8.2% PREVIOUS;EST 7.0%
-- 09/30 14:02 [FirstSquawk] JAPAN (AUG) ANNUALIED HOUSING STARTS ACTUAL: 0.753M VS 0.774M PREVIOUS;EST 0.766M
-- 09/30 14:09 [FirstSquawk] Chinese manufacturing activity grows in September as AI boom fuels demand
-- 09/30 14:10 [FirstSquawk] Berenberg lifts Rio Tinto target price to 8,700p from 8,600p
-- 09/30 14:15 [FirstSquawk] Russian military strikes communications center in Kyiv overnight, IFX reports, citing Defence Ministry
-- 09/30 14:16 [FirstSquawk] Energy system facilities in Kyiv region hit in massive strike, Russian Defence Ministry says — IFX
 - 09/30 14:33 [FirstSquawk] Nikkei climbs 1.5%, driven by gains in chip and bank stocks — WSJ
 - 09/30 14:38 [FirstSquawk] Gold slips as Fed hike bets and Middle East tensions underpin the U.S. dollar — FX
 - 09/30 14:39 [FirstSquawk] Kazakhstan restarts enforcement proceedings to recover 2.3 trillion tenge fine from NCOC — IFX
@@ -377,3 +369,10 @@
 - 10/01 01:55 [FirstSquawk] SPACEXAI PLANS TO SOON UNVEIL FOUR GROK PRICING TIERS
 - 10/01 01:55 [financialjuice] SpaceXAI plans to soon unveil four Grok pricing tiers. $SPCX
 - 10/01 01:59 [financialjuice] Israel's Prime Minister Netanyahu spoke with UAE President - Israel's Hayom News
+- 10/01 02:02 [FirstSquawk/DeItaone] FED WATCHDOG FINDS NO CRIMINAL VIOLATIONS IN RENOVATION PROJECT
+- 10/01 02:03 [financialjuice] OpenAI: Identified, disrupted coordinated campaign designed to extract protected reasoning from our models; operators did not break our encryption, compromise a database or gain direct access to stored user conversations
+- 10/01 02:04 [financialjuice] OpenAI: Attribute a core activity attributed to individuals tied to Kimi developer Moonshot AI
+- 10/01 02:08 [financialjuice] An Omani pilot who attempted to crash the plane from Dubai to Tel Aviv was neutralized, and the plane landed in Saudi Arabia - Israel's channel 14 news
+- 10/01 02:15 [DeItaone] GOLDMAN PUSHES NEXT FED HIKE TO DECEMBER Goldman Sachs now says an October Fed hike is unlikely, pushing its forecast for the next increase to December after softer inflation data. Core PCE fell to 3.01% YoY, well below expectations, with G…
+- 10/01 02:18 [financialjuice] Trump: Last US forces are leaving iraq - Truth Social
+- 10/01 02:19 [DeItaone] TRUMP: WE LEAVE IRAQ WITH A WONDERFUL NEW PRIME MINISTER
