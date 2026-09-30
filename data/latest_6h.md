@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 05:27 JST／対象: 09/30 23:27 〜 10/01 05:27 JST（時刻はすべて日本時間）
+生成: 2026-10-01 05:45 JST／対象: 09/30 23:45 〜 10/01 05:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 28 | 09/30 23:35 | 10/01 04:26 | ⚠ 77分（00:53→02:11） |
-| FirstSquawk | 84 | 09/30 23:27 | 10/01 05:24 | 28分（03:03→03:31） |
-| financialjuice | 88 | 09/30 23:30 | 10/01 05:23 | 35分（01:01→01:37） |
+| DeItaone | 27 | 10/01 00:48 | 10/01 04:26 | ⚠ 77分（00:53→02:11） |
+| FirstSquawk | 80 | 09/30 23:50 | 10/01 05:35 | 28分（03:03→03:31） |
+| financialjuice | 84 | 09/30 23:46 | 10/01 05:43 | 35分（01:01→01:37） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 192 行（統合前 202 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 183 行（統合前 193 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 23:27 [FirstSquawk] KALSHI, POLYMARKET TRADING VOLUMES ON SOME PRODUCTS RAISES QUESTIONS AMID MASSIVE GROWTH – CNBC
-- 09/30 23:29 [FirstSquawk] US TREASURY 30-YEAR YIELD RISES TO 5.62%, NEW HIGH SINCE 2002
-- 09/30 23:30 [FirstSquawk] US CRUDE OIL INVENTORIES ACTUAL: 922K VS 2969K PREVIOUS; EST -455K
-- 09/30 23:30 [financialjuice] EIA GASOLINE INVENTORIES ACTUAL -1.684M (FORECAST -1M, PREVIOUS -1.686M) $MACRO
-- 09/30 23:30 [financialjuice] EIA DISTILLATE INVENTORIES ACTUAL -2.251M (FORECAST 0.075M, PREVIOUS -0.428M) $MACRO
-- 09/30 23:30 [financialjuice] EIA CRUDE OIL INVENTORIES ACTUAL 0.922M (FORECAST -0.71M, PREVIOUS 2.969M) $MACRO
-- 09/30 23:30 [FirstSquawk] US CUSHING CRUDE OIL INVENTORIES ACTUAL: 553K VS 2266K PREVIOUS
-- 09/30 23:31 [financialjuice] EIA Weekly Inventories Report
-- 09/30 23:33 [financialjuice] FTC opens probe of Anthropic, OpenAI and others - CNBC cites FTC Spokesperson
-- 09/30 23:35 [DeItaone/FirstSquawk] U.S. DIESEL FUTURES EXTEND GAINS, UP 4.5%, AFTER EIA STORAGE REPORT
-- 09/30 23:39 [FirstSquawk] US GASOLINE FUTURES HOLD GAINS, STILL UP 2.9%, AFTER EIA STORAGE REPORT
-- 09/30 23:43 [FirstSquawk] VOLKSWAGEN: IG METALL 5% PAY RISE DEMAND ’INCOMPATIBLE’
-- 09/30 23:44 [financialjuice] Russian Foreign Ministry Spokeswoman: Weapons factories in Europe that produce arms for Ukraine are legitimate military targets for Russia
-- 09/30 23:45 [financialjuice] Unconfirmed reports of an explosion heard in eastern Saudi Arabia - Tasnim News
 - 09/30 23:46 [financialjuice] Saudi Arabia turned down Israeli request to allow its planes to pick up Israeli passengers from FlyDubai flight that made emergency landing in Saudi - Security sources
 - 09/30 23:50 [financialjuice] Russian Foreign Ministry Spokeswoman: Claims that Russia does not want peace are unfounded.
 - 09/30 23:50 [FirstSquawk] RUSSIAN FOREIGN MINISTRY SPOX CALLS CLAIMS RUSSIA DOESN’T WANT PEACE ‘UNFOUNDED’
@@ -216,3 +202,8 @@
 - 10/01 05:22 [financialjuice] Trump's Tech Adviser Sacks: AI firms agreed to have external audits.
 - 10/01 05:23 [financialjuice] Trump's Tech Advisor Sacks on AI accord: We don't have to wait for new legislation.
 - 10/01 05:24 [FirstSquawk] TRUMP'S TECH ADVISER SACKS SAYS ON THE AI ACCORD THAT 'WE DON'T HAVE TO WAIT FOR NEW LEGISLATION', ADDING THAT AI FIRMS AGREED TO HAVE EXTERNAL AUDITS
+- 10/01 05:33 [FirstSquawk] MADISON SQUARE GARDEN SPORTS CORP'S BOARD HAS APPROVED THE SPIN-OFF OF THE RANGERS BUSINESS FROM THE KNICKS BUSINESS, EXPECTED TO BE COMPLETED ON OCTOBER 26, 2026, WITH MSG SPORTS TO BE RENAMED MSG KNICKERBOCKERS CORP. INCLUDING THE KNICKS …
+- 10/01 05:33 [FirstSquawk] MADISON SQUARE GARDEN SPORTS CORP SAYS MSG SPORTS STOCKHOLDERS WILL RECEIVE ONE MSG RANGERS SHARE FOR EVERY TWO MSG SPORTS SHARES, WITH THE COMMON STOCK TO TRADE AS MSGS AND MSGK WI ON THE NYSE, AND THE SPIN-OFF INTENDED TO QUALIFY AS A TAX…
+- 10/01 05:34 [financialjuice/FirstSquawk] Trump: South Korea 'paid' to reduce US tariffs on its goods.
+- 10/01 05:36 [financialjuice] Trump touts nuclear energy as safe
+- 10/01 05:43 [financialjuice] US Commerce Secretary Lutnick: Southeast Asia to lean on US for gas due to the pipeline.

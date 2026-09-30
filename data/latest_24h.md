@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-01 05:27 JST／対象: 09/30 05:27 〜 10/01 05:27 JST（時刻はすべて日本時間）
+生成: 2026-10-01 05:45 JST／対象: 09/30 05:45 〜 10/01 05:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 72 | 09/30 05:36 | 10/01 04:26 | ⚠ 789分（05:46→18:55） |
-| FirstSquawk | 367 | 09/30 05:42 | 10/01 05:24 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 296 | 09/30 05:36 | 10/01 05:23 | ⚠ 80分（10:57→12:18） |
+| DeItaone | 69 | 09/30 05:46 | 10/01 04:26 | ⚠ 789分（05:46→18:55） |
+| FirstSquawk | 368 | 09/30 05:46 | 10/01 05:35 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 295 | 09/30 05:46 | 10/01 05:43 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 717 行（統合前 737 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 713 行（統合前 734 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 05:36 [DeItaone] https://t.me/boost/WalterBloomberg
-- 09/30 05:36 [financialjuice] https://t.me/boost/breakingmarketnews
-- 09/30 05:40 [DeItaone] $TSLA - TESLA SECURES $30 BILLION IN NEW CREDIT FACILITIES Tesla has entered into $30 billion of new financing facilities, according to an SEC filing. The package includes a $20 billion three-year delayed-draw term loan, an $8 billion five-…
-- 09/30 05:40 [financialjuice] Tesla Secures $30 Billion in New Credit Facilities $TSLA
-- 09/30 05:42 [FirstSquawk] TESLA HAS ENTERED AN $8 BLN FIVE-YEAR REVOLVING FACILITY, A $2 BLN 364-DAY REVOLVING CREDIT FACILITY AND A $20 BLN THREE-YEAR DELAYED DRAW TERM LOAN FACILITY ON SEPT. 29, 2026, WITH THE TERM LOAN FACILITY MATURING ON SEPT. 29, 2029.
-- 09/30 05:42 [FirstSquawk] TESLA SAYS THE FIVE-YEAR REVOLVING FACILITY ALLOWS LETTERS OF CREDIT UP TO $500 MLN AND THAT IT MAY INCREASE ITS REVOLVING CREDIT AGREEMENTS BY UP TO $4 BLN TO $14 BLN, ADDING THAT IT TERMINATED ITS EXISTING REVOLVING CREDIT AGREEMENT ON SE…
-- 09/30 05:42 [DeItaone] BREAKING: Inventories in the US Strategic Petroleum Reserve fell by ~800,000 barrels last week, to 283.8 million barrels, the lowest level since 1982. This marks the 27th consecutive weekly decline, putting inventories down more than -132 m…
-- 09/30 05:43 [financialjuice] US API GASOLINE STOCK CHANGE ACTUAL 2.991M (FORECAST -, PREVIOUS -2.16M) $MACRO
-- 09/30 05:44 [financialjuice] US API DISTILLATE STOCK CHANGE ACTUAL -0.286M (FORECAST -, PREVIOUS -2.164M) $MACRO
 - 09/30 05:46 [financialjuice] US API CRUDE OIL STOCK CHANGE ACTUAL 1.019M (FORECAST -1.9M, PREVIOUS 1.786M) $MACRO
 - 09/30 05:46 [FirstSquawk] U.S. API CRUDE OIL STOCK CHANGE WAS A BUILD OF 1.019 MLN, VERSUS A FORECAST 1.9 MLN DRAW, WITH GASOLINE STOCKS UP 2.991 MLN AND DISTILLATE STOCKS DOWN 0.286 MLN
 - 09/30 05:46 [DeItaone] MASTERCARD DECLARES QUARTERLY CASH DIVIDEND OF $0.87 PER SHARE
@@ -741,3 +732,8 @@
 - 10/01 05:22 [financialjuice] Trump's Tech Adviser Sacks: AI firms agreed to have external audits.
 - 10/01 05:23 [financialjuice] Trump's Tech Advisor Sacks on AI accord: We don't have to wait for new legislation.
 - 10/01 05:24 [FirstSquawk] TRUMP'S TECH ADVISER SACKS SAYS ON THE AI ACCORD THAT 'WE DON'T HAVE TO WAIT FOR NEW LEGISLATION', ADDING THAT AI FIRMS AGREED TO HAVE EXTERNAL AUDITS
+- 10/01 05:33 [FirstSquawk] MADISON SQUARE GARDEN SPORTS CORP'S BOARD HAS APPROVED THE SPIN-OFF OF THE RANGERS BUSINESS FROM THE KNICKS BUSINESS, EXPECTED TO BE COMPLETED ON OCTOBER 26, 2026, WITH MSG SPORTS TO BE RENAMED MSG KNICKERBOCKERS CORP. INCLUDING THE KNICKS …
+- 10/01 05:33 [FirstSquawk] MADISON SQUARE GARDEN SPORTS CORP SAYS MSG SPORTS STOCKHOLDERS WILL RECEIVE ONE MSG RANGERS SHARE FOR EVERY TWO MSG SPORTS SHARES, WITH THE COMMON STOCK TO TRADE AS MSGS AND MSGK WI ON THE NYSE, AND THE SPIN-OFF INTENDED TO QUALIFY AS A TAX…
+- 10/01 05:34 [financialjuice/FirstSquawk] Trump: South Korea 'paid' to reduce US tariffs on its goods.
+- 10/01 05:36 [financialjuice] Trump touts nuclear energy as safe
+- 10/01 05:43 [financialjuice] US Commerce Secretary Lutnick: Southeast Asia to lean on US for gas due to the pipeline.
