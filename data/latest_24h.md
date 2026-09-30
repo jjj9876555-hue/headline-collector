@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-30 19:19 JST／対象: 09/29 19:19 〜 09/30 19:19 JST（時刻はすべて日本時間）
+生成: 2026-09-30 19:37 JST／対象: 09/29 19:37 〜 09/30 19:37 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 94 | 09/29 20:26 | 09/30 19:18 | ⚠ 789分（05:46→18:55） |
-| FirstSquawk | 403 | 09/29 19:26 | 09/30 19:06 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 420 | 09/29 19:20 | 09/30 18:58 | ⚠ 80分（10:57→12:18） |
+| DeItaone | 96 | 09/29 20:26 | 09/30 19:34 | ⚠ 789分（05:46→18:55） |
+| FirstSquawk | 401 | 09/29 19:39 | 09/30 19:30 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 420 | 09/29 19:42 | 09/30 19:30 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 891 行（統合前 923 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,12 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 19:20 [financialjuice] Three House Democrats penned letter to tech CEOs (Altman, Amodei, Musk) - Politico
-- 09/29 19:26 [FirstSquawk] PEPSICO CUT TO NEUTRAL AT JPMORGAN; PT $138
-- 09/29 19:28 [FirstSquawk] VOLKSWAGEN TO SHOW HIT FROM UK MOTOR FINANCE SCHEME: SKY
-- 09/29 19:29 [FirstSquawk] RUSSIAN FOREIGN MINISTER LAVROV ON WEST'S ACCUSATIONS OF RUSSIA WAGING HYBRID WAR IN EUROPE: NO DOUBT EUROPE IS WAGING WAR AGAINST RUSSIA
-- 09/29 19:33 [financialjuice] UK Navy: Vessel struck by projectile in Hormuz September 28.
-- 09/29 19:34 [FirstSquawk/financialjuice] UKMTO: GETS TIME-LATE REPORT OF INCIDENT IN HORMUZ
 - 09/29 19:39 [FirstSquawk] SAUDI CIVIL DEFENCE SAYS DANGER HAS PASSED
 - 09/29 19:41 [FirstSquawk] IRAN'S FOREIGN MINISTER STATED THAT A SEVEN-POINT PLAN FROM TEHRAN WAS SHARED WITH WASHINGTON VIA QATAR, AND IRAN IS NOW WAITING FOR AN OFFICIAL RESPONSE FROM THE U.S.
 - 09/29 19:42 [financialjuice] Italy's Energy Minister: Will speak with US Energy Secretary Wright later on Tuesday, will ask about potential US diesel export ban.
@@ -877,6 +871,7 @@
 - 09/30 18:07 [FirstSquawk] ISRAELI OFFICIAL TO I24 REPORTER: INCIDENT ABOARD THE FLYDUBAI FLIGHT WAS A TERRORIST ATTACK.
 - 09/30 18:29 [financialjuice] Japan PM Takaichi: Takaichi administration will boost supply side of the economy.
 - 09/30 18:30 [financialjuice] Japan PM Takaichi: Government will set a clearer path of economy and fiscal policy management.
+- 09/30 18:30 [financialjuice] UKMTO gets time-late report of incident in Hormuz.
 - 09/30 18:31 [financialjuice] BoE FPC: Likelihood financial risks crystallise at same time has risen since July.
 - 09/30 18:32 [financialjuice] BoE FPC: Rise in oil and gas prices has led to more protracted supply shock.
 - 09/30 18:32 [financialjuice] GERMAN 10 YR BUND YIELD ACTUAL 3.58% (FORECAST -, PREVIOUS 3.39%) $MACRO
@@ -914,4 +909,9 @@
 - 09/30 19:04 [DeItaone] BANK OF ENGLAND WARNS OF SHARPER AI MARKET CORRECTION The Bank of England warns AI valuations remain vulnerable to a deeper selloff than July’s, potentially spilling into global growth expectations and sovereign bond markets. The BOE says s…
 - 09/30 19:06 [FirstSquawk] VOLKSWAGEN PREPARES TO TERMINATE MULTIPLE COLLECTIVE DEALS - HANDELSBLATT
 - 09/30 19:10 [DeItaone] PORSCHE PIVOTS BACK TO PETROL AS EV DEMAND WEAKENS Porsche is reviving its petrol strategy, with a combustion-engine Macan planned for 2028 after electric Macan sales fell 40% in H1. CEO Michael Leiters says EVs remain part of Porsche’s fut…
-- 09/30 19:18 [DeItaone] *LIBYA SHARARA OIL FIELD OUTPUT RISES TO NEAR 340,000 B/D
+- 09/30 19:18 [DeItaone/FirstSquawk] *LIBYA SHARARA OIL FIELD OUTPUT RISES TO NEAR 340,000 B/D
+- 09/30 19:28 [financialjuice] BoE Gov. Bailey: Regulating AI is not the right place to start.
+- 09/30 19:30 [financialjuice] Apple set to debut Home Hub and updated Apple TV, Homepod Mini.
+- 09/30 19:30 [FirstSquawk] APPLE PLANS SIGNIFICANT EXPANSION INTO SMART-HOME SECTOR ON OCTOBER 13.
+- 09/30 19:31 [DeItaone] $AAPL - APPLE TO MAKE MAJOR PUSH INTO SMART-HOME MARKET ON OCTOBER 13TH
+- 09/30 19:34 [DeItaone] IRAN RAISES ALERT LEVEL AT 46 INFRASTRUCTURE FACILITIES Iranian Civil Defense is raising readiness at 46 facilities in anticipation of potential attacks targeting critical infrastructure, according to Al Arabiya. The heightened alert signal…

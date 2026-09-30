@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-30 19:19 JST／対象: 09/30 13:19 〜 09/30 19:19 JST（時刻はすべて日本時間）
+生成: 2026-09-30 19:37 JST／対象: 09/30 13:37 〜 09/30 19:37 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 6 | 09/30 18:55 | 09/30 19:18 | 8分（19:10→19:18） |
-| FirstSquawk | 95 | 09/30 13:33 | 09/30 19:06 | 31分（17:30→18:02） |
-| financialjuice | 55 | 09/30 14:00 | 09/30 18:58 | ⚠ 58分（14:00→14:59） |
+| DeItaone | 8 | 09/30 18:55 | 09/30 19:34 | 12分（19:18→19:31） |
+| FirstSquawk | 95 | 09/30 13:50 | 09/30 19:30 | 31分（17:30→18:02） |
+| financialjuice | 57 | 09/30 14:00 | 09/30 19:30 | ⚠ 58分（14:00→14:59） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 156 行（統合前 156 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 159 行（統合前 160 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 13:33 [FirstSquawk] OIL REMAINS ELEVATED DESPITE PERSIAN GULF EXPORTS RECOVERY-WSJ
-- 09/30 13:35 [FirstSquawk] China’s PMI data signals broader economic improvement across sectors — WSJ
 - 09/30 13:50 [FirstSquawk] Berenberg lifts BHP Group target price to 3,500p from 3,400p
 - 09/30 13:51 [FirstSquawk] Berenberg lifts Cornish Metals target price to 153p from 151p
 - 09/30 13:59 [FirstSquawk] Berenberg lifts Sabre Insurance Group target price to 205p from 200p
@@ -179,4 +177,9 @@
 - 09/30 19:04 [DeItaone] BANK OF ENGLAND WARNS OF SHARPER AI MARKET CORRECTION The Bank of England warns AI valuations remain vulnerable to a deeper selloff than July’s, potentially spilling into global growth expectations and sovereign bond markets. The BOE says s…
 - 09/30 19:06 [FirstSquawk] VOLKSWAGEN PREPARES TO TERMINATE MULTIPLE COLLECTIVE DEALS - HANDELSBLATT
 - 09/30 19:10 [DeItaone] PORSCHE PIVOTS BACK TO PETROL AS EV DEMAND WEAKENS Porsche is reviving its petrol strategy, with a combustion-engine Macan planned for 2028 after electric Macan sales fell 40% in H1. CEO Michael Leiters says EVs remain part of Porsche’s fut…
-- 09/30 19:18 [DeItaone] *LIBYA SHARARA OIL FIELD OUTPUT RISES TO NEAR 340,000 B/D
+- 09/30 19:18 [DeItaone/FirstSquawk] *LIBYA SHARARA OIL FIELD OUTPUT RISES TO NEAR 340,000 B/D
+- 09/30 19:28 [financialjuice] BoE Gov. Bailey: Regulating AI is not the right place to start.
+- 09/30 19:30 [financialjuice] Apple set to debut Home Hub and updated Apple TV, Homepod Mini.
+- 09/30 19:30 [FirstSquawk] APPLE PLANS SIGNIFICANT EXPANSION INTO SMART-HOME SECTOR ON OCTOBER 13.
+- 09/30 19:31 [DeItaone] $AAPL - APPLE TO MAKE MAJOR PUSH INTO SMART-HOME MARKET ON OCTOBER 13TH
+- 09/30 19:34 [DeItaone] IRAN RAISES ALERT LEVEL AT 46 INFRASTRUCTURE FACILITIES Iranian Civil Defense is raising readiness at 46 facilities in anticipation of potential attacks targeting critical infrastructure, according to Al Arabiya. The heightened alert signal…

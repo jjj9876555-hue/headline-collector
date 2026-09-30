@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-30 19:19 JST／対象: 09/30 07:19 〜 09/30 19:19 JST（時刻はすべて日本時間）
+生成: 2026-09-30 19:37 JST／対象: 09/30 07:37 〜 09/30 19:37 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 6 | 09/30 18:55 | 09/30 19:18 | 8分（19:10→19:18） |
-| FirstSquawk | 214 | 09/30 08:05 | 09/30 19:06 | 31分（17:30→18:02） |
-| financialjuice | 124 | 09/30 07:40 | 09/30 18:58 | ⚠ 80分（10:57→12:18） |
+| DeItaone | 8 | 09/30 18:55 | 09/30 19:34 | 12分（19:18→19:31） |
+| FirstSquawk | 216 | 09/30 08:05 | 09/30 19:30 | 31分（17:30→18:02） |
+| financialjuice | 126 | 09/30 07:40 | 09/30 19:30 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 343 行（統合前 344 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 348 行（統合前 350 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -366,4 +366,9 @@
 - 09/30 19:04 [DeItaone] BANK OF ENGLAND WARNS OF SHARPER AI MARKET CORRECTION The Bank of England warns AI valuations remain vulnerable to a deeper selloff than July’s, potentially spilling into global growth expectations and sovereign bond markets. The BOE says s…
 - 09/30 19:06 [FirstSquawk] VOLKSWAGEN PREPARES TO TERMINATE MULTIPLE COLLECTIVE DEALS - HANDELSBLATT
 - 09/30 19:10 [DeItaone] PORSCHE PIVOTS BACK TO PETROL AS EV DEMAND WEAKENS Porsche is reviving its petrol strategy, with a combustion-engine Macan planned for 2028 after electric Macan sales fell 40% in H1. CEO Michael Leiters says EVs remain part of Porsche’s fut…
-- 09/30 19:18 [DeItaone] *LIBYA SHARARA OIL FIELD OUTPUT RISES TO NEAR 340,000 B/D
+- 09/30 19:18 [DeItaone/FirstSquawk] *LIBYA SHARARA OIL FIELD OUTPUT RISES TO NEAR 340,000 B/D
+- 09/30 19:28 [financialjuice] BoE Gov. Bailey: Regulating AI is not the right place to start.
+- 09/30 19:30 [financialjuice] Apple set to debut Home Hub and updated Apple TV, Homepod Mini.
+- 09/30 19:30 [FirstSquawk] APPLE PLANS SIGNIFICANT EXPANSION INTO SMART-HOME SECTOR ON OCTOBER 13.
+- 09/30 19:31 [DeItaone] $AAPL - APPLE TO MAKE MAJOR PUSH INTO SMART-HOME MARKET ON OCTOBER 13TH
+- 09/30 19:34 [DeItaone] IRAN RAISES ALERT LEVEL AT 46 INFRASTRUCTURE FACILITIES Iranian Civil Defense is raising readiness at 46 facilities in anticipation of potential attacks targeting critical infrastructure, according to Al Arabiya. The heightened alert signal…
