@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-01 07:18 JST／対象: 09/30 19:18 〜 10/01 07:18 JST（時刻はすべて日本時間）
+生成: 2026-10-01 07:35 JST／対象: 09/30 19:35 〜 10/01 07:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 70 | 09/30 19:18 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
-| FirstSquawk | 153 | 09/30 19:29 | 10/01 06:31 | 28分（03:03→03:31） |
-| financialjuice | 187 | 09/30 19:28 | 10/01 07:15 | 35分（01:01→01:37） |
+| DeItaone | 67 | 09/30 19:38 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
+| FirstSquawk | 151 | 09/30 19:43 | 10/01 06:31 | 28分（03:03→03:31） |
+| financialjuice | 195 | 09/30 20:00 | 10/01 07:29 | 35分（01:01→01:37） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 392 行（統合前 412 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 396 行（統合前 415 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 19:18 [DeItaone/FirstSquawk] *LIBYA SHARARA OIL FIELD OUTPUT RISES TO NEAR 340,000 B/D
-- 09/30 19:28 [financialjuice] BoE Gov. Bailey: Regulating AI is not the right place to start.
-- 09/30 19:30 [financialjuice] Apple set to debut Home Hub and updated Apple TV, Homepod Mini.
-- 09/30 19:30 [FirstSquawk] APPLE PLANS SIGNIFICANT EXPANSION INTO SMART-HOME SECTOR ON OCTOBER 13.
-- 09/30 19:31 [DeItaone] $AAPL - APPLE TO MAKE MAJOR PUSH INTO SMART-HOME MARKET ON OCTOBER 13TH
-- 09/30 19:34 [DeItaone] IRAN RAISES ALERT LEVEL AT 46 INFRASTRUCTURE FACILITIES Iranian Civil Defense is raising readiness at 46 facilities in anticipation of potential attacks targeting critical infrastructure, according to Al Arabiya. The heightened alert signal…
 - 09/30 19:38 [DeItaone/FirstSquawk] A SECOND FLYDUBAI FLIGHT FROM DUBAI TO TEL AVIV, FZ1081, HAS DIVERTED, NOW HEADING BACK TO DUBAI - FLIGHTRADAR24
 - 09/30 19:43 [FirstSquawk] OPENAI: IMPACTED SERVICES FOR CHATGPT PRO, PLUS USERS RECOVERED
 - 09/30 19:53 [DeItaone] BITCOIN PRICE COULD REACH $1 MILLION PER COIN BY 2030, MAELSTROM CIO SAYS MAELSTROM CIO HAYES EXPECTS EXPLOSIVE BITCOIN RALLY IN LATE 2027, EARLY 2028 HAYES SEES AI-INVESTMENT BUST TRIGGERING TRILLIONS OF DOLLARS IN BAILOUTS
@@ -416,3 +410,13 @@
 - 10/01 07:15 [financialjuice] Should not blindly follow markets: won't disregard its signals
 - 10/01 07:15 [financialjuice] Fed's Kashkari warns rolling supply shocks may boost inflation expectations
 - 10/01 07:15 [financialjuice] Fed must bring inflation back to 2% after extended period above target
+- 10/01 07:19 [financialjuice] Rolling supply disruptions risk pushing up inflation expectations
+- 10/01 07:19 [financialjuice] Fed's Kashkari: not shocked Fed IG found no wrongdoing in renovation project
+- 10/01 07:19 [financialjuice] Not sure where the neutral rate stands currently
+- 10/01 07:19 [financialjuice] Neutral rate likely higher at least for now
+- 10/01 07:19 [financialjuice] The longer the economy remains robust, the more I question monetary policy tightness
+- 10/01 07:28 [financialjuice] Fed's Kashkari: central bank balance sheet works best in near-zero rate environment
+- 10/01 07:29 [financialjuice] Fed balance sheet is most effective in near-zero rate environment
+- 10/01 07:29 [financialjuice] Not surprised Fed IG didn’t uncover any wrongdoing in Fed renovation project
+- 10/01 07:29 [financialjuice] Fed's Kashkari: size of central bank balance sheet is a complex issue
+- 10/01 07:29 [financialjuice] Rolling supply shocks risk boosting inflation expectations

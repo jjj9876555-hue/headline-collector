@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-01 07:18 JST／対象: 09/30 07:18 〜 10/01 07:18 JST（時刻はすべて日本時間）
+生成: 2026-10-01 07:35 JST／対象: 09/30 07:35 〜 10/01 07:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 75 | 09/30 18:55 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
 | FirstSquawk | 367 | 09/30 08:05 | 10/01 06:31 | 31分（17:30→18:02） |
-| financialjuice | 311 | 09/30 07:40 | 10/01 07:15 | ⚠ 80分（10:57→12:18） |
+| financialjuice | 321 | 09/30 07:40 | 10/01 07:29 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 734 行（統合前 755 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 744 行（統合前 765 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -758,3 +758,13 @@
 - 10/01 07:15 [financialjuice] Should not blindly follow markets: won't disregard its signals
 - 10/01 07:15 [financialjuice] Fed's Kashkari warns rolling supply shocks may boost inflation expectations
 - 10/01 07:15 [financialjuice] Fed must bring inflation back to 2% after extended period above target
+- 10/01 07:19 [financialjuice] Rolling supply disruptions risk pushing up inflation expectations
+- 10/01 07:19 [financialjuice] Fed's Kashkari: not shocked Fed IG found no wrongdoing in renovation project
+- 10/01 07:19 [financialjuice] Not sure where the neutral rate stands currently
+- 10/01 07:19 [financialjuice] Neutral rate likely higher at least for now
+- 10/01 07:19 [financialjuice] The longer the economy remains robust, the more I question monetary policy tightness
+- 10/01 07:28 [financialjuice] Fed's Kashkari: central bank balance sheet works best in near-zero rate environment
+- 10/01 07:29 [financialjuice] Fed balance sheet is most effective in near-zero rate environment
+- 10/01 07:29 [financialjuice] Not surprised Fed IG didn’t uncover any wrongdoing in Fed renovation project
+- 10/01 07:29 [financialjuice] Fed's Kashkari: size of central bank balance sheet is a complex issue
+- 10/01 07:29 [financialjuice] Rolling supply shocks risk boosting inflation expectations

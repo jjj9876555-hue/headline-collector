@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 07:18 JST／対象: 10/01 01:18 〜 10/01 07:18 JST（時刻はすべて日本時間）
+生成: 2026-10-01 07:35 JST／対象: 10/01 01:35 〜 10/01 07:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 31 | 10/01 02:11 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
-| FirstSquawk | 81 | 10/01 01:25 | 10/01 06:31 | 28分（03:03→03:31） |
-| financialjuice | 98 | 10/01 01:37 | 10/01 07:15 | 20分（03:02→03:23） |
+| FirstSquawk | 78 | 10/01 01:45 | 10/01 06:31 | 28分（03:03→03:31） |
+| financialjuice | 108 | 10/01 01:37 | 10/01 07:29 | 20分（03:02→03:23） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 200 行（統合前 212 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 207 行（統合前 219 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 01:25 [FirstSquawk] ITALY PM MELONI: PLANS TO SPEND EUR14 BLN STEMMING FROM EU ESCAPE CLAUSE TO LOWER FIRMS’ ENERGY COSTS
-- 10/01 01:28 [FirstSquawk] FORD SHARES FALL 2.6% TO REACH LOWEST SINCE MAY 13
-- 10/01 01:32 [FirstSquawk] US 10-YEAR TREASURY YIELD RISES TO 5.29%, RENEWS HIGH SINCE '2007
 - 10/01 01:37 [financialjuice] Call is scheduled to take place between Trump and Netanyahu in the coming hours regarding the FlyDubai incident - Israeli Channel 14
 - 10/01 01:43 [financialjuice] US oil industry warns diesel prices will not return to normal for a year - FT
 - 10/01 01:45 [FirstSquawk] GOLDMAN SACHS REVISES FOR FED HIKE TO DECEMBER FROM OCTOBER
@@ -224,3 +221,13 @@
 - 10/01 07:15 [financialjuice] Should not blindly follow markets: won't disregard its signals
 - 10/01 07:15 [financialjuice] Fed's Kashkari warns rolling supply shocks may boost inflation expectations
 - 10/01 07:15 [financialjuice] Fed must bring inflation back to 2% after extended period above target
+- 10/01 07:19 [financialjuice] Rolling supply disruptions risk pushing up inflation expectations
+- 10/01 07:19 [financialjuice] Fed's Kashkari: not shocked Fed IG found no wrongdoing in renovation project
+- 10/01 07:19 [financialjuice] Not sure where the neutral rate stands currently
+- 10/01 07:19 [financialjuice] Neutral rate likely higher at least for now
+- 10/01 07:19 [financialjuice] The longer the economy remains robust, the more I question monetary policy tightness
+- 10/01 07:28 [financialjuice] Fed's Kashkari: central bank balance sheet works best in near-zero rate environment
+- 10/01 07:29 [financialjuice] Fed balance sheet is most effective in near-zero rate environment
+- 10/01 07:29 [financialjuice] Not surprised Fed IG didn’t uncover any wrongdoing in Fed renovation project
+- 10/01 07:29 [financialjuice] Fed's Kashkari: size of central bank balance sheet is a complex issue
+- 10/01 07:29 [financialjuice] Rolling supply shocks risk boosting inflation expectations
