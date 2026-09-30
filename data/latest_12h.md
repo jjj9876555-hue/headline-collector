@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-01 03:20 JST／対象: 09/30 15:20 〜 10/01 03:20 JST（時刻はすべて日本時間）
+生成: 2026-10-01 03:41 JST／対象: 09/30 15:41 〜 10/01 03:41 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 56 | 09/30 18:55 | 10/01 03:18 | ⚠ 77分（00:53→02:11） |
-| FirstSquawk | 151 | 09/30 15:25 | 10/01 03:03 | 31分（17:30→18:02） |
-| financialjuice | 157 | 09/30 15:45 | 10/01 03:02 | ⚠ 54分（16:01→16:55） |
+| DeItaone | 60 | 09/30 18:55 | 10/01 03:38 | ⚠ 77分（00:53→02:11） |
+| FirstSquawk | 148 | 09/30 15:42 | 10/01 03:40 | 31分（17:30→18:02） |
+| financialjuice | 164 | 09/30 15:45 | 10/01 03:37 | ⚠ 54分（16:01→16:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 351 行（統合前 365 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 359 行（統合前 373 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 15:25 [FirstSquawk] AUD/USD holds modest rebound from 0.6960, price outlook — FX
-- 09/30 15:34 [FirstSquawk] Goldman Sachs lifts Hapag-Lloyd target price to €90 from €81
-- 09/30 15:34 [FirstSquawk] Russian strike damages Kyiv energy infrastructure, DTEK says
-- 09/30 15:37 [FirstSquawk] Israeli PM and security minister hold urgent talks with senior security officials, sources say — Alaraby TV
-- 09/30 15:38 [FirstSquawk] 7-day plan needs significant changes before progress can be discussed, senior source says — Al Arabiya
-- 09/30 15:41 [FirstSquawk] One person killed and another injured in drone attacks in Bryansk region, governor says
 - 09/30 15:42 [FirstSquawk] Israeli source: Plane expected to land in Saudi Arabia shortly, with situation to become clearer afterward
 - 09/30 15:45 [financialjuice] FRENCH HICP MOM PRELIM ACTUAL -0.4% (FORECAST -0.5%, PREVIOUS 0.7%) $MACRO
 - 09/30 15:45 [financialjuice] FRENCH CONSUMER SPENDING MOM ACTUAL -0.5% (FORECAST 0%, PREVIOUS 0.5%) $MACRO
@@ -375,3 +369,17 @@
 - 10/01 03:01 [DeItaone] ITALY PROLONGS UNTIL MID-OCTOBER SUSPENSION OF EU'S SCHENGEN FREE BORDER AGREEMENT WITH SPAIN - STATEMENT
 - 10/01 03:02 [financialjuice/FirstSquawk] Israel's Foreign Minister: I spoke with my UAE counterpart and agreed with him to cooperate against extremist elements threatening regional security and stability - Post on X.
 - 10/01 03:18 [DeItaone] S&P 500 BREADTH FLASHES RARE WARNING The equal-weight S&P 500 is heading for a seventh straight weekly decline — something seen only twice before, during 2002 and 2022 bear markets. Yet the headline S&P 500 remains broadly stable, as tech m…
+- 10/01 03:22 [DeItaone] FEDERATED HERMES: DON’T RUSH INTO BONDS YET Treasury yields are at some of their highest levels in a generation, but Federated Hermes CIO R.J. Gallo says elevated rate volatility means it may be too early to buy aggressively. He warns anoth…
+- 10/01 03:23 [financialjuice] Trump: Canada has taken advantage of the US for many years.
+- 10/01 03:31 [financialjuice] NYMEX WTI Crude November futures settle at $90.42 a barrel, up $1.04, 1.16%.
+- 10/01 03:31 [DeItaone] $SNPS - OPENAI AND SYNOPSYS ANNOUNCE GPT-SYNOPSYS: FRONTIER INTELLIGENCE TO REVOLUTIONIZE CHIP DESIGN
+- 10/01 03:31 [financialjuice] NYMEX Gasoline October futures settle at $3.4378 a gallon.
+- 10/01 03:31 [financialjuice] NYMEX Diesel October futures settle at $4.9569 a gallon.
+- 10/01 03:31 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 1.16% HIGHER AT $90.42/BBL, UP $1.04
+- 10/01 03:32 [financialjuice] NYMEX Natural Gas November futures settle at $3.0260/MMBtu.
+- 10/01 03:36 [DeItaone] SYCAMORE PARTNERS IN TALKS TO SELL U.K. PHARMACY CHAIN BOOTS, SOURCES SAY SYCAMORE PARTNERS IN TALKS TO SELL U.K. PHARMACY CHAIN BOOTS, SOURCES SAY CANADIAN ARM OF WESTON FAMILY IN TALKS TO BUY BOOTS FOR CLOSE TO $9 BILLION, SOURCES SAY SYC…
+- 10/01 03:36 [financialjuice] White House: South Korea plans to invest billions into major US energy projects, including a crucial Alaska LNG plan. These investments will generate thousands of jobs and help reduce energy costs for Americans - Post on X.
+- 10/01 03:37 [financialjuice] Trump ends remarks.
+- 10/01 03:38 [DeItaone] WALGREENS OWNER NEARS $9 BILLION BOOTS SALE Walgreens owner Sycamore Partners is nearing a deal to sell Boots for close to $9 billion including debt, according to the WSJ. The buyer is reportedly the Canadian arm of the Weston family, which…
+- 10/01 03:40 [FirstSquawk] SYNOPSYS SAYS IT AND OPENAI HAVE SIGNED A MULTI-YEAR AGREEMENT TO DEVELOP GPT-SYNOPSYS FOR CHIP DESIGN, WITH OPENAI TO LICENSE SYNOPSYS' TRUSTED ELECTRONIC DESIGN AUTOMATION (EDA) TOOLS FOR DEVELOPMENT OF THE SPECIALIZED MODEL.
+- 10/01 03:40 [FirstSquawk] SYNOPSYS SAYS THE AGREEMENT INCLUDES REVENUE SHARING AND A GLOBAL GO-TO-MARKET FOR GPT-SYNOPSYS.

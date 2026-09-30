@@ -7,50 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 03:20 JST／対象: 09/30 21:20 〜 10/01 03:20 JST（時刻はすべて日本時間）
+生成: 2026-10-01 03:41 JST／対象: 09/30 21:41 〜 10/01 03:41 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 34 | 09/30 21:30 | 10/01 03:18 | ⚠ 77分（00:53→02:11） |
-| FirstSquawk | 73 | 09/30 21:30 | 10/01 03:03 | 27分（02:02→02:30） |
-| financialjuice | 99 | 09/30 21:30 | 10/01 03:02 | 35分（01:01→01:37） |
+| DeItaone | 33 | 09/30 21:44 | 10/01 03:38 | ⚠ 77分（00:53→02:11） |
+| FirstSquawk | 71 | 09/30 21:42 | 10/01 03:40 | 28分（03:03→03:31） |
+| financialjuice | 87 | 09/30 21:45 | 10/01 03:37 | 35分（01:01→01:37） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 195 行（統合前 207 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 182 行（統合前 192 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 21:30 [DeItaone] US FINAL Q2 GDP +2.2% (CONSENSUS +1.5%) US FINAL Q2 PCE PRICE INDEX +5.0% US FINAL Q2 CORE PCE +3.3% (CONSENSUS +3.6%)
-- 09/30 21:30 [financialjuice] US ADVANCE GOODS TRADE BALANCE ACTUAL -132.6B (FORECAST -115B, PREVIOUS -118.94B) $MACRO
-- 09/30 21:30 [financialjuice] US WHOLESALE INVENTORIES MOM ADVANCE ACTUAL 0.7% (FORECAST 0.5%, PREVIOUS 1.3%) $MACRO
-- 09/30 21:30 [financialjuice] US RETAIL INVENTORIES EX-AUTO ADV. ACTUAL 0.1% (FORECAST -, PREVIOUS 0.8%) $MACRO
-- 09/30 21:30 [FirstSquawk] US GDP (QOQ) (Q2) ACTUAL: 2.2% VS 1.5% PREVIOUS; EST 1.5%
-- 09/30 21:30 [financialjuice] ❗ US GDP QOQ FINAL ACTUAL 2.2% (FORECAST 1.5%, PREVIOUS 1.5%) $MACRO
-- 09/30 21:30 [FirstSquawk] US PERSONAL INCOME (MOM) (AUG) ACTUAL: 0.2% VS 0.4% PREVIOUS; EST 0.5%
-- 09/30 21:30 [financialjuice] ❗ US CONSUMER SPENDING MOM ACTUAL 0.9% (FORECAST 0.9%, PREVIOUS 0.2%) $MACRO
-- 09/30 21:30 [FirstSquawk] US PERSONAL SPENDING (MOM) (AUG) ACTUAL: 0.9% VS 0.2% PREVIOUS; EST 0.9%
-- 09/30 21:30 [FirstSquawk] US WHOLESALE INVENTORIES (MOM) ACTUAL: 0.7% VS 1.3% PREVIOUS; EST 0.5%
-- 09/30 21:30 [financialjuice] ❗ US PCE PRICE INDEX MOM ACTUAL 0.3% (FORECAST 0.3%, PREVIOUS 0.2%) $MACRO
-- 09/30 21:30 [financialjuice] US PERSONAL INCOME MOM ACTUAL 0.2% (FORECAST 0.5%, PREVIOUS 0.4%) $MACRO
-- 09/30 21:30 [financialjuice] ❗ US CORE PCE PRICE INDEX MOM ACTUAL 0.2% (FORECAST 0.3%, PREVIOUS 0.2%) $MACRO
-- 09/30 21:31 [financialjuice] ‼ BREAKING: US PCE PRICE INDEX YOY ACTUAL 3.4% (FORECAST 3.7%, PREVIOUS 3.7%) $MACRO
-- 09/30 21:31 [financialjuice] ❗ US CORE PCE PRICE INDEX YOY ACTUAL 3.007601% (FORECAST 3.3%, PREVIOUS 3.3%) $MACRO
-- 09/30 21:31 [financialjuice] US CORE PCE PRICES FINAL ACTUAL 3.3% (FORECAST 3.6%, PREVIOUS 3.6%) $MACRO
-- 09/30 21:31 [financialjuice] US PCE PRICES FINAL ACTUAL 5.0% (FORECAST -, PREVIOUS 5.3%) $MACRO
-- 09/30 21:31 [financialjuice] US GDP DEFLATOR SA FINAL ACTUAL 6.1% (FORECAST -, PREVIOUS 6.4%) $MACRO
-- 09/30 21:31 [DeItaone] SPOT GOLD EXTENDS GAINS AFTER US PCE DATA, LAST UP 0.6% AT $4,206.29/OZ
-- 09/30 21:35 [financialjuice] US 2025 GDP growth revised to +2.3% from +2.1%.
-- 09/30 21:36 [financialjuice] US Personal Income and Outlays August 2026 Report
-- 09/30 21:37 [DeItaone] SOFTER U.S. INFLATION CUTS FED HIKE ODDS August core PCE fell to 3.0% YoY vs. 3.3% expected, while headline PCE came in at 3.4% vs. 3.7% forecast. Q2 GDP was revised higher to 2.2% from 1.5%. Kalshi now prices a 65% chance of no October Fed…
-- 09/30 21:37 [FirstSquawk/financialjuice] TRADERS PARE BETS ON OCTOBER FED RATE HIKE AFTER PCE REPORT
-- 09/30 21:38 [financialjuice] US GDP QoQ Q2 Report
-- 09/30 21:38 [DeItaone] U.S. CONSUMER SPENDING SURGES AS CORE INFLATION COOLS Inflation-adjusted U.S. consumer spending jumped 0.6% in August, its strongest monthly increase since March 2025. Meanwhile, the Fed’s preferred inflation gauge rose 0.3% MoM, with core …
-- 09/30 21:39 [financialjuice] Eu and Canada to explore new technology links and LNG sales - Draft Agreement
-- 09/30 21:40 [DeItaone/financialjuice] SHORT-TERM TRADERS TRIM BETS ON RATE HIKES AFTER ECONOMIC DATA
 - 09/30 21:42 [FirstSquawk] EU AND CANADA TO EXPLORE NEW TECHNOLOGY LINKS AND LNG SALES
 - 09/30 21:44 [DeItaone] U.S. CORE PCE FALLS BELOW EVERY ANALYST FORECAST August core PCE came in at 3.0% YoY vs. 3.3% expected, below the entire range of 51 Bloomberg analyst forecasts (3.1%–3.5%). The surprise was driven primarily by larger-than-expected downward…
 - 09/30 21:45 [financialjuice] France’s President Macron: Welcome back if the UK wants to rejoin the EU.
@@ -219,3 +192,17 @@
 - 10/01 03:01 [DeItaone] ITALY PROLONGS UNTIL MID-OCTOBER SUSPENSION OF EU'S SCHENGEN FREE BORDER AGREEMENT WITH SPAIN - STATEMENT
 - 10/01 03:02 [financialjuice/FirstSquawk] Israel's Foreign Minister: I spoke with my UAE counterpart and agreed with him to cooperate against extremist elements threatening regional security and stability - Post on X.
 - 10/01 03:18 [DeItaone] S&P 500 BREADTH FLASHES RARE WARNING The equal-weight S&P 500 is heading for a seventh straight weekly decline — something seen only twice before, during 2002 and 2022 bear markets. Yet the headline S&P 500 remains broadly stable, as tech m…
+- 10/01 03:22 [DeItaone] FEDERATED HERMES: DON’T RUSH INTO BONDS YET Treasury yields are at some of their highest levels in a generation, but Federated Hermes CIO R.J. Gallo says elevated rate volatility means it may be too early to buy aggressively. He warns anoth…
+- 10/01 03:23 [financialjuice] Trump: Canada has taken advantage of the US for many years.
+- 10/01 03:31 [financialjuice] NYMEX WTI Crude November futures settle at $90.42 a barrel, up $1.04, 1.16%.
+- 10/01 03:31 [DeItaone] $SNPS - OPENAI AND SYNOPSYS ANNOUNCE GPT-SYNOPSYS: FRONTIER INTELLIGENCE TO REVOLUTIONIZE CHIP DESIGN
+- 10/01 03:31 [financialjuice] NYMEX Gasoline October futures settle at $3.4378 a gallon.
+- 10/01 03:31 [financialjuice] NYMEX Diesel October futures settle at $4.9569 a gallon.
+- 10/01 03:31 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 1.16% HIGHER AT $90.42/BBL, UP $1.04
+- 10/01 03:32 [financialjuice] NYMEX Natural Gas November futures settle at $3.0260/MMBtu.
+- 10/01 03:36 [DeItaone] SYCAMORE PARTNERS IN TALKS TO SELL U.K. PHARMACY CHAIN BOOTS, SOURCES SAY SYCAMORE PARTNERS IN TALKS TO SELL U.K. PHARMACY CHAIN BOOTS, SOURCES SAY CANADIAN ARM OF WESTON FAMILY IN TALKS TO BUY BOOTS FOR CLOSE TO $9 BILLION, SOURCES SAY SYC…
+- 10/01 03:36 [financialjuice] White House: South Korea plans to invest billions into major US energy projects, including a crucial Alaska LNG plan. These investments will generate thousands of jobs and help reduce energy costs for Americans - Post on X.
+- 10/01 03:37 [financialjuice] Trump ends remarks.
+- 10/01 03:38 [DeItaone] WALGREENS OWNER NEARS $9 BILLION BOOTS SALE Walgreens owner Sycamore Partners is nearing a deal to sell Boots for close to $9 billion including debt, according to the WSJ. The buyer is reportedly the Canadian arm of the Weston family, which…
+- 10/01 03:40 [FirstSquawk] SYNOPSYS SAYS IT AND OPENAI HAVE SIGNED A MULTI-YEAR AGREEMENT TO DEVELOP GPT-SYNOPSYS FOR CHIP DESIGN, WITH OPENAI TO LICENSE SYNOPSYS' TRUSTED ELECTRONIC DESIGN AUTOMATION (EDA) TOOLS FOR DEVELOPMENT OF THE SPECIALIZED MODEL.
+- 10/01 03:40 [FirstSquawk] SYNOPSYS SAYS THE AGREEMENT INCLUDES REVENUE SHARING AND A GLOBAL GO-TO-MARKET FOR GPT-SYNOPSYS.

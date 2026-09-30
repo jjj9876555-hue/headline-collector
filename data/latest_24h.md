@@ -7,44 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-01 03:20 JST／対象: 09/30 03:20 〜 10/01 03:20 JST（時刻はすべて日本時間）
+生成: 2026-10-01 03:41 JST／対象: 09/30 03:41 〜 10/01 03:41 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 78 | 09/30 04:01 | 10/01 03:18 | ⚠ 789分（05:46→18:55） |
-| FirstSquawk | 364 | 09/30 03:32 | 10/01 03:03 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 327 | 09/30 03:22 | 10/01 03:02 | ⚠ 80分（10:57→12:18） |
+| DeItaone | 82 | 09/30 04:01 | 10/01 03:38 | ⚠ 789分（05:46→18:55） |
+| FirstSquawk | 363 | 09/30 03:41 | 10/01 03:40 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 316 | 09/30 03:47 | 10/01 03:37 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 748 行（統合前 772 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 741 行（統合前 763 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 03:22 [financialjuice] Fed's Musalem: The Fed's SEP could be improved by anonymously connecting rate "dots" with economic projections
-- 09/30 03:27 [financialjuice] Fed's Musalem: Monetary policy remains somewhat accommodative even after the last rate hike.
-- 09/30 03:29 [financialjuice] Sounds like this White House AI meeting is wrapping up... Pool says press has been called to gather for an event - Fox News reporter
-- 09/30 03:29 [financialjuice] Fed's Williams: Inflation should ease because the biggest shocks have largely played out.
-- 09/30 03:29 [financialjuice] Trump Participates in a Meeting and Luncheon on Super Intelligence - WATCH LIVE
-- 09/30 03:30 [financialjuice] Fed's Williams: Energy prices remain very important in the economy, but the US is less exposed relative to the past.
-- 09/30 03:31 [financialjuice] ❗ Mediators push to break US-Iran deadlock - FT
-- 09/30 03:32 [FirstSquawk] MEDIATORS PUSH TO BREAK US-IRAN DEADLOCK AS TALKS REMAIN STALLED — FT
-- 09/30 03:32 [financialjuice] Fed's Williams: Determining how restrictive monetary policy is is hard.
-- 09/30 03:34 [FirstSquawk/financialjuice] MEDIATORS ARE RENEWING EFFORTS TO NEGOTIATE A SETTLEMENT BETWEEN THE UNITED STATES AND IRAN, DAYS AFTER PRESIDENT DONALD TRUMP REJECTED AN IRANIAN REQUEST TO REOPEN THE STRAIT OF HORMUZ AND RESTART TALKS TO END THE WAR, WITH NEGOTIATORS DUE…
-- 09/30 03:35 [FirstSquawk] UNDER THE TERMS OF THE AGREEMENT, WHICH MEDIATORS HOPE COULD RESTART TALKS ON A FINAL SETTLEMENT, IRAN WOULD ALLOW FREE MOVEMENT OF TRAFFIC THROUGH THE STRAIT OF HORMUZ AND THE U.S. WOULD EASE ITS BLOCKADE OF IRANIAN PORTS IN EXCHANGE, WITH…
-- 09/30 03:35 [financialjuice] Trump on AI meeting: Very good, very productive
-- 09/30 03:36 [financialjuice] Trump: What we spoke about will make the world safer
-- 09/30 03:36 [financialjuice] Trump: US has a big lead in AI, we'll keep our lead
-- 09/30 03:37 [financialjuice] Trump on AI Lunch: There was a lot of 'commonality' in the room.
-- 09/30 03:37 [financialjuice] Trump on AI: Should be tremendous self-regulation.
-- 09/30 03:38 [financialjuice] Trump on AI: Self-regulation is very important.
-- 09/30 03:38 [financialjuice] Trump: AI leaders to work with local communities on data centers.
-- 09/30 03:39 [financialjuice] Trump: AI leaders want to do the right thing
-- 09/30 03:39 [financialjuice] Trump ends remarks to reporters.
-- 09/30 03:41 [FirstSquawk] TRUMP SAYS IN A MEETING WITH AI LEADERS THAT IT WAS A 'VERY GOOD MEETING, EXTREMELY FRIENDLY AND PRODUCTIVE', WITH 'A LOT OF COMMONALITY IN THE ROOM', ADDING THAT THE U.S. HAS A 'BIG LEAD ON AI AND WANT TO KEEP IT'.
 - 09/30 03:41 [FirstSquawk] TRUMP SAYS 'SELF-REGULATION IS VERY IMPORTANT IN AI', ADDING THAT THE GROUP WANTS TO WORK WITH LOCAL COMMUNITIES 'TO MAKE THE PEOPLE HAPPY' AND THAT THE AI LEADERS 'WANT TO DO THE RIGHT THING'.
 - 09/30 03:47 [financialjuice] Fed's Williams: AI is driving up asset market valuations, bolstering the wealth effect.
 - 09/30 03:48 [financialjuice] Fed's Williams: starting to see some data that shows AI bolstering productivity gains.
@@ -772,3 +751,17 @@
 - 10/01 03:01 [DeItaone] ITALY PROLONGS UNTIL MID-OCTOBER SUSPENSION OF EU'S SCHENGEN FREE BORDER AGREEMENT WITH SPAIN - STATEMENT
 - 10/01 03:02 [financialjuice/FirstSquawk] Israel's Foreign Minister: I spoke with my UAE counterpart and agreed with him to cooperate against extremist elements threatening regional security and stability - Post on X.
 - 10/01 03:18 [DeItaone] S&P 500 BREADTH FLASHES RARE WARNING The equal-weight S&P 500 is heading for a seventh straight weekly decline — something seen only twice before, during 2002 and 2022 bear markets. Yet the headline S&P 500 remains broadly stable, as tech m…
+- 10/01 03:22 [DeItaone] FEDERATED HERMES: DON’T RUSH INTO BONDS YET Treasury yields are at some of their highest levels in a generation, but Federated Hermes CIO R.J. Gallo says elevated rate volatility means it may be too early to buy aggressively. He warns anoth…
+- 10/01 03:23 [financialjuice] Trump: Canada has taken advantage of the US for many years.
+- 10/01 03:31 [financialjuice] NYMEX WTI Crude November futures settle at $90.42 a barrel, up $1.04, 1.16%.
+- 10/01 03:31 [DeItaone] $SNPS - OPENAI AND SYNOPSYS ANNOUNCE GPT-SYNOPSYS: FRONTIER INTELLIGENCE TO REVOLUTIONIZE CHIP DESIGN
+- 10/01 03:31 [financialjuice] NYMEX Gasoline October futures settle at $3.4378 a gallon.
+- 10/01 03:31 [financialjuice] NYMEX Diesel October futures settle at $4.9569 a gallon.
+- 10/01 03:31 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 1.16% HIGHER AT $90.42/BBL, UP $1.04
+- 10/01 03:32 [financialjuice] NYMEX Natural Gas November futures settle at $3.0260/MMBtu.
+- 10/01 03:36 [DeItaone] SYCAMORE PARTNERS IN TALKS TO SELL U.K. PHARMACY CHAIN BOOTS, SOURCES SAY SYCAMORE PARTNERS IN TALKS TO SELL U.K. PHARMACY CHAIN BOOTS, SOURCES SAY CANADIAN ARM OF WESTON FAMILY IN TALKS TO BUY BOOTS FOR CLOSE TO $9 BILLION, SOURCES SAY SYC…
+- 10/01 03:36 [financialjuice] White House: South Korea plans to invest billions into major US energy projects, including a crucial Alaska LNG plan. These investments will generate thousands of jobs and help reduce energy costs for Americans - Post on X.
+- 10/01 03:37 [financialjuice] Trump ends remarks.
+- 10/01 03:38 [DeItaone] WALGREENS OWNER NEARS $9 BILLION BOOTS SALE Walgreens owner Sycamore Partners is nearing a deal to sell Boots for close to $9 billion including debt, according to the WSJ. The buyer is reportedly the Canadian arm of the Weston family, which…
+- 10/01 03:40 [FirstSquawk] SYNOPSYS SAYS IT AND OPENAI HAVE SIGNED A MULTI-YEAR AGREEMENT TO DEVELOP GPT-SYNOPSYS FOR CHIP DESIGN, WITH OPENAI TO LICENSE SYNOPSYS' TRUSTED ELECTRONIC DESIGN AUTOMATION (EDA) TOOLS FOR DEVELOPMENT OF THE SPECIALIZED MODEL.
+- 10/01 03:40 [FirstSquawk] SYNOPSYS SAYS THE AGREEMENT INCLUDES REVENUE SHARING AND A GLOBAL GO-TO-MARKET FOR GPT-SYNOPSYS.
