@@ -7,44 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-30 12:19 JST／対象: 09/30 00:19 〜 09/30 12:19 JST（時刻はすべて日本時間）
+生成: 2026-09-30 12:36 JST／対象: 09/30 00:36 〜 09/30 12:36 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 45 | 09/30 00:25 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
-| FirstSquawk | 215 | 09/30 00:28 | 09/30 12:19 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 287 | 09/30 00:21 | 09/30 12:19 | ⚠ 80分（10:57→12:18） |
+| DeItaone | 41 | 09/30 00:37 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
+| FirstSquawk | 214 | 09/30 00:40 | 09/30 12:32 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 272 | 09/30 00:40 | 09/30 12:19 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 535 行（統合前 551 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 517 行（統合前 531 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 00:21 [financialjuice] Israel's Yamina Leader Bennett: The IDF is on verge of collapse and lacks enough soldiers to deal with threats cited by Israeli Prime Minister Netanyahu - Israel's Channel 12 News.
-- 09/30 00:25 [DeItaone] HOMELAND SECURITY MONEY FINANCED PRO-TRUMP TV ADS, SOURCES SAY
-- 09/30 00:28 [FirstSquawk] DIMON: JPMORGAN MAY EXCEED $1.5T GOAL FOR NATL SEC. INITIATIVE
-- 09/30 00:28 [FirstSquawk] ANTHROPIC DISCLOSES UP TO $84.5 BLN IN SPACEX COMPUTE DEALS THROUGH 2029 - INFORMATION
-- 09/30 00:31 [financialjuice] BoE's Taylor: The right policy response is vigilant but disciplined.
-- 09/30 00:31 [financialjuice] BoE's Taylor: Monetary policy should not react mechanically to movements in energy prices if those movements remain primarily relative-price shocks.
-- 09/30 00:31 [FirstSquawk] RUSSIA SAYS IT HIT DRY CARGO SHIP IN BLACK SEA: IFX
-- 09/30 00:31 [financialjuice] BoE's Taylor: If pressure builds and second-round effects begin to gain traction, the policy assessment would have to change.
-- 09/30 00:32 [financialjuice] BoE's Taylor: At some point, once energy risks abate, policy will need to move in the other direction.
-- 09/30 00:32 [financialjuice] BoE's Taylor: The burden of proof for additional tightening should rest on evidence that second-round effects are actually gaining traction.
-- 09/30 00:32 [financialjuice] US 52-WEEK BILL HIGH YIELD ACTUAL 4.4% (FORECAST -, PREVIOUS 3.980%) $MACRO
-- 09/30 00:32 [financialjuice] US 52-WEEK BILL BID-TO-COVER ACTUAL 3.070 (FORECAST -, PREVIOUS 3.610) $MACRO
-- 09/30 00:33 [financialjuice] BoE's Taylor: The case for further rate increases is not compelling to me unless energy prices remain high for an extended period and also generate clearer signals of a transmission into broader inflation persistence.
-- 09/30 00:33 [financialjuice] BoE's Taylor: The economy is proving less susceptible, at least so far, to a repeat of the inflation dynamics seen in 2022.
-- 09/30 00:33 [financialjuice] US 52 Week Bill Auction High rate 4.4% Bid-To-Cover 3.07 Sells $54 bln Awards 70.21% of bids at high
-- 09/30 00:33 [financialjuice] BoE's Taylor: There is a non-trivial risk to inflation.
-- 09/30 00:34 [DeItaone/financialjuice] OPENAI ANNUALIZED REVENUE RUN RATE GROWS MORE THAN 70% IN Q3, NEARLY $70 BLN - SOURCE FAMILIAR WITH MATTER
-- 09/30 00:35 [FirstSquawk] BOE’S TAYLOR: RIGHT POLICY RESPONSE IS VIGILANT BUT DISCIPLINED
-- 09/30 00:35 [financialjuice/DeItaone] OpenAI B2B revenue grows more than 100% in Q3 - Source.
-- 09/30 00:36 [financialjuice] BoE's Taylor: Evidence points against a general inflation shock.
-- 09/30 00:36 [DeItaone] OPENAI ADDS MORE CONSUMER REVENUE IN Q3 THAN IN ALL OF LAST YEAR - SOURCE
 - 09/30 00:37 [DeItaone] U.S. 30-YEAR TREASURY YIELD TOUCHES 5.612%, HIGHEST SINCE JUNE 2002
 - 09/30 00:40 [financialjuice] BoE's Taylor's Speech
 - 09/30 00:40 [financialjuice] BoE's Taylor: The current policy stance is restrictive enough.
@@ -559,3 +538,6 @@
 - 09/30 12:15 [FirstSquawk] Singapore dollar steadies ahead of major U.S. economic data — WSJ
 - 09/30 12:18 [financialjuice/FirstSquawk] China Finance Ministry to sell 20 billion yuan of 28-day bills on Oct. 8
 - 09/30 12:19 [financialjuice] China finance ministry: to reopen 80 billion yuan 10-year bonds on Oct. 9
+- 09/30 12:19 [FirstSquawk] China Finance Ministry to sell 80 billion yuan of reopened 10-year bonds on Oct. 9
+- 09/30 12:25 [FirstSquawk] Human Made ramps up global expansion as Japanese fashion brand
+- 09/30 12:32 [FirstSquawk] Trump expected to announce South Korea investment projects as early as Wednesday, YONHAP says
