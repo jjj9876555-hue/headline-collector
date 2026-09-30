@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 08:47 JST／対象: 10/01 02:47 〜 10/01 08:47 JST（時刻はすべて日本時間）
+生成: 2026-10-01 08:58 JST／対象: 10/01 02:58 〜 10/01 08:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 24 | 10/01 02:49 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
-| FirstSquawk | 69 | 10/01 03:02 | 10/01 08:46 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 99 | 10/01 02:48 | 10/01 08:43 | 36分（07:29→08:05） |
+| DeItaone | 21 | 10/01 03:01 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
+| FirstSquawk | 72 | 10/01 03:02 | 10/01 08:54 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 127 | 10/01 03:01 | 10/01 08:58 | 36分（07:29→08:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 184 行（統合前 193 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 213 行（統合前 221 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 02:48 [financialjuice/DeItaone] Trump on Iran: You will see things happening very soon
-- 10/01 02:51 [DeItaone] *TRUMP: HISTORIC FLOWS OF OIL OUT OF HORMUZ IN LAST 3 DAYS
-- 10/01 02:54 [financialjuice] Intel adds openshell policy layer to AI agent toolkit $INTC
-- 10/01 02:54 [financialjuice] Intel adds nvidia openshell policy layer to AI agent toolkit $INTC $NVDA
-- 10/01 02:55 [DeItaone] SPACEXAI CONSIDERS $100 GROK “ULTRA” SUBSCRIPTION Elon Musk’s SpaceXAI is considering a four-tier subscription model combining Grok and X, Bloomberg reports. Plans reportedly range from a free tier to a $100-per-month “Ultra” package, which…
 - 10/01 03:01 [financialjuice/FirstSquawk] Israel needs to understand that normalization cannot be forced - Jerusalem Post citing a source close to the Saudi royal family:
 - 10/01 03:01 [DeItaone] ITALY PROLONGS UNTIL MID-OCTOBER SUSPENSION OF EU'S SCHENGEN FREE BORDER AGREEMENT WITH SPAIN - STATEMENT
 - 10/01 03:02 [financialjuice/FirstSquawk] Israel's Foreign Minister: I spoke with my UAE counterpart and agreed with him to cooperate against extremist elements threatening regional security and stability - Post on X.
@@ -208,3 +203,37 @@
 - 10/01 08:44 [FirstSquawk] FRANCE NEW CAR REGISTRATIONS RISE 11.6% Y/Y TO 156,629 IN SEPTEMBER; TESLA REGISTRATIONS SURGE 61.9% — PFA
 - 10/01 08:46 [FirstSquawk] JAPAN’S NIKKEI FUTURES RISE 0.3% IN EARLY TRADE; 10-YEAR JGB FUTURES FALL 0.3 POINT
 - 10/01 08:46 [FirstSquawk] COLOMBIA FISCAL RULE COMMITTEE SEES DEFICIT AT 7.8% OF GDP IN 2026, 9.5% IN 2027; GDP GROWTH SEEN AT 2.5% & 1.8%, RESPECTIVELY
+- 10/01 08:49 [FirstSquawk] US CONGRESS IS LEAVING WASHINGTON WITHOUT ADVANCING MAJOR LEGISLATION ON AI SAFETY OR DATA-CENTER ELECTRICITY COSTS, AS PARTISAN DISAGREEMENTS BLOCKED SEVERAL PROPOSALS. LAWMAKERS HAVE INTRODUCED BILLS COVERING AI SAFETY, NATIONAL SECURITY …
+- 10/01 08:50 [financialjuice] ❗ JAPANESE TANKAN BIG NON-MFG INDEX ACTUAL 35 (FORECAST 36, PREVIOUS 37) $MACRO
+- 10/01 08:50 [financialjuice] ‼ BREAKING: JAPANESE TANKAN BIG MFG INDEX ACTUAL 24 (FORECAST 25, PREVIOUS 22) $MACRO
+- 10/01 08:50 [financialjuice] FOREIGN INVESTMENT JAPANESE STOCKS ACTUAL -362.0B (FORECAST -, PREVIOUS -1,522.8B) $MACRO
+- 10/01 08:50 [financialjuice] BoJ Tankan: September all-firms employment index at -38
+- 10/01 08:50 [financialjuice] boj tankan: japan major manufacturers expect fy2026/27 recurring profits to rise 13.6%
+- 10/01 08:50 [financialjuice] oj tankan: japan big manufacturers forecast dollar averaging 153.79 yen for fy2026/27
+- 10/01 08:50 [financialjuice] boj sept tankan corporate price outlook: japan firms foresee consumer prices up 2.6% in a year vs 2.7% prior
+- 10/01 08:50 [financialjuice] Boj tankan: Japan companies forecast consumer prices to increase 2.6% annually in 3 years vs 2.6% in prior survey
+- 10/01 08:51 [financialjuice] BOJ Tankan: Sept all firms financial condition index steady at +11 vs June +11
+- 10/01 08:51 [financialjuice] boj tankan: japan all firms expect dollar to average 154.23 yen in fy2026/27
+- 10/01 08:51 [financialjuice] Boj Tankan: Sept big manufacturers' production capacity index falls to -2 from June 0
+- 10/01 08:51 [financialjuice] Boj tankan: Japan big firms expect FY2026/27 capex up 11.3% (Poll: 12.3%)
+- 10/01 08:51 [financialjuice] boj tankan: japan all firms project euro averaging 177.86 yen for fy2026/27
+- 10/01 08:51 [financialjuice] BOJ Tankan: Japan small firms forecast FY2026/27 capex decline 4.7% (Poll -4.9%)
+- 10/01 08:51 [financialjuice] FOREIGN INVESTMENT JAPANESE BONDS ACTUAL -1341.8B (FORECAST -, PREVIOUS 2,236.2B) $MACRO
+- 10/01 08:51 [financialjuice] JAPANESE FOREIGN STOCK INVESTMENT ACTUAL 225.8B (FORECAST -, PREVIOUS 169.2B) $MACRO
+- 10/01 08:51 [financialjuice] BOJ Sept summary of opinions: one member said appropriate to keep raising rates in line with economy, price, financial developments
+- 10/01 08:52 [financialjuice] BOJ summary: one member says policy phase shifted, focus must be on anchoring underlying inflation near 2%
+- 10/01 08:52 [financialjuice] BoJ summary: one member said BoJ must act nimbly, show market determination to prevent inflation overshoot and consider impact on FX market
+- 10/01 08:52 [financialjuice] BoJ summary: one member said central bank must accelerate rate increases if inflation exceeds target
+- 10/01 08:53 [financialjuice] BOJ: big manufacturers' sentiment index rises for 6 straight quarters, reaches highest level since March 2018
+- 10/01 08:53 [financialjuice] BOJ summary: one member said central bank must raise rates early to terminal to respond swiftly to unexpected economic, price changes
+- 10/01 08:53 [financialjuice] BoJ summary: one member said no need to rush raising rates but must guide policy properly as underlying inflation likely to hit 2% soon
+- 10/01 08:54 [financialjuice] BOJ summary: one member said central bank shouldn't be overly cautious in raising rates given significant upside risks to inflation
+- 10/01 08:54 [FirstSquawk] GEOPARK IS IN TALKS WITH VENEZUELA’S PDVSA TO SECURE DILUENT SUPPLIES NEEDED TO BLEND ORINOCO’S EXTRA-HEAVY CRUDE, AS THE COMPANY PREPARES TO START OPERATIONS IN THE COUNTRY.
+- 10/01 08:54 [FirstSquawk] GEOPARK PLANS TO NEARLY NINEFOLD PRODUCTION AT THE BARE BLOCK TO ABOUT 90,000 BARRELS PER DAY UNDER ITS 25-YEAR CONTRACT, WITH RELIABLE DILUENT SUPPLIES SEEN AS KEY TO EXPANDING OUTPUT.
+- 10/01 08:55 [financialjuice] BOJ summary: one member said chance terminal rate could exceed estimated range, market expectations, depending on overseas developments
+- 10/01 08:55 [financialjuice] BOJ summary: one member said most firms report impact of past and further rate hikes likely limited
+- 10/01 08:56 [financialjuice] BOJ summary: one member says financial conditions continue to be accommodative
+- 10/01 08:57 [financialjuice] BOJ summary: cabinet office rep says govt expects central bank to uphold accountability, carefully assess cumulative impact of previous rate increases
+- 10/01 08:57 [financialjuice] BoJ summary: Cabinet office rep says BoJ may need to consider its neutral rate estimates
+- 10/01 08:58 [financialjuice] BOJ summary: cabinet office rep says central bank must take proactive, appropriate measures during excessive economic or market fluctuations
+- 10/01 08:58 [financialjuice] BOJ summary: Cabinet office rep says govt expects central bank to conduct monetary policy appropriately to stably achieve price target while closely cooperating with govt
