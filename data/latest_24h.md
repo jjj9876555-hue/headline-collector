@@ -7,43 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-01 01:07 JST／対象: 09/30 01:07 〜 10/01 01:07 JST（時刻はすべて日本時間）
+生成: 2026-10-01 01:30 JST／対象: 09/30 01:30 〜 10/01 01:30 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 80 | 09/30 01:11 | 10/01 00:53 | ⚠ 789分（05:46→18:55） |
-| FirstSquawk | 384 | 09/30 01:20 | 10/01 01:01 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 406 | 09/30 01:11 | 10/01 01:01 | ⚠ 80分（10:57→12:18） |
+| DeItaone | 76 | 09/30 01:40 | 10/01 00:53 | ⚠ 789分（05:46→18:55） |
+| FirstSquawk | 384 | 09/30 01:33 | 10/01 01:28 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 393 | 09/30 01:31 | 10/01 01:01 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 853 行（統合前 874 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 836 行（統合前 857 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 01:11 [financialjuice] OpenAI's Altman: Model scrapped out of abundance of caution - CNBC
-- 09/30 01:11 [DeItaone] U.S.-CHINA TARIFF DEAL LEAVES LNG OUT The latest U.S.-China tariff agreement does not include LNG, leaving JKM and TTF pricing largely unaffected, according to Platts. The newly created U.S.-China Board of Trade could eventually expand nego…
-- 09/30 01:12 [financialjuice] OpenAI's Altman: Will have many great new models.
-- 09/30 01:15 [financialjuice] OpenAI's Altman: Nvidia security system not a full solution. $NVDA
-- 09/30 01:16 [DeItaone] ALTMAN: AI HAS MORE OF A SCIENCE PROBLEM THAN ENGINEERING ALTMAN: NVIDIA SECURITY SYSTEM NOT 'A FULL SOLUTION'
-- 09/30 01:17 [financialjuice] Altman: Muse is a nice product, not threatened by Meta. $META
-- 09/30 01:17 [financialjuice] BoE's Taylor: BoE agents' survey of firms' wage intentions, due in January 2027, will be very significant data point
-- 09/30 01:19 [financialjuice] OpenAI CEO Altman: Don't have an IPO timeline in mind
-- 09/30 01:20 [financialjuice] OpenAI CEO Altman wraps up interview on CNBC
-- 09/30 01:20 [FirstSquawk] OPENAI’S ALTMAN: NOT THREATENED BY META, MUSE IS A NICE PRODUCT
-- 09/30 01:20 [FirstSquawk] OPENAI’S ALTMAN: NO IPO TIMELINE IN MIND
-- 09/30 01:21 [financialjuice] BoE's Taylor: It's not clear to me that OIS rates give a clear signal of BoE market rate expectations. I'm not a fan.
-- 09/30 01:21 [financialjuice] META introduces new features for forum app. $META
-- 09/30 01:21 [FirstSquawk] ALTMAN SAYS OPENAI WILL HAVE 'MANY GREAT NEW MODELS'
-- 09/30 01:21 [financialjuice] ❗ White House has urged EU to draw down diesel emergency inventories in bid to lower global prices - sources
-- 09/30 01:24 [DeItaone] WHITE HOUSE HAS URGED EUROPEAN UNION TO DRAW DOWN DIESEL EMERGENCY INVENTORIES IN BID TO LOWER GLOBAL PRICES- SOURCES
-- 09/30 01:24 [DeItaone] *WHITE HOUSE URGED THE EU TO DRAW DOWN DIESEL INVENTORIES
-- 09/30 01:25 [financialjuice] Anthropic: Rogue AI agents pose uncertain legal risk for the company.
-- 09/30 01:28 [financialjuice] BoE's Taylor: I'm not seeing any clear signal of building second round effects, unlike 2022.
-- 09/30 01:29 [financialjuice] BoE's Taylor: If wage growth expectations stay near 3%, that would be reassuring.
 - 09/30 01:31 [financialjuice] WATCH LIVE: Fed's Barr Speaks 12:40 ET
 - 09/30 01:33 [FirstSquawk] BOE'S TAYLOR: WOULD BE REASSURING IF WAGE GROWTH EXPECTATIONS STAY NEAR 3%
 - 09/30 01:36 [financialjuice] Republican Senator Moreno: Talks ongoing to revise Chinese vehicle ban bill to prevent restrictions on Mercedes-Benz.
@@ -877,3 +857,6 @@
 - 10/01 01:01 [FirstSquawk] Continental Q3 2026 Results: - ContiTech Q3 Sales, EBIT Margin Seen Falling (Q/Q) - Q3 Tires Sales Seen Slightly Below Prior Year - Tires Q3 Margin Seen Hitting Upper End Of FY Guidance
 - 10/01 01:01 [financialjuice] UK's PM Burnham: We can't have unfunded plans in budget.
 - 10/01 01:01 [financialjuice] UK's PM Burnham: Will do what we can alongside challenging finances.
+- 10/01 01:09 [FirstSquawk] UK PM BURNHAM: EU OPTIONS RANGE FROM UK STAYING AS IT IS, TO REJOINING - BBC INTERVIEW
+- 10/01 01:25 [FirstSquawk] ITALY PM MELONI: PLANS TO SPEND EUR14 BLN STEMMING FROM EU ESCAPE CLAUSE TO LOWER FIRMS’ ENERGY COSTS
+- 10/01 01:28 [FirstSquawk] FORD SHARES FALL 2.6% TO REACH LOWEST SINCE MAY 13

@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 01:07 JST／対象: 09/30 19:07 〜 10/01 01:07 JST（時刻はすべて日本時間）
+生成: 2026-10-01 01:30 JST／対象: 09/30 19:30 〜 10/01 01:30 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 40 | 09/30 19:10 | 10/01 00:53 | ⚠ 72分（23:35→00:48） |
-| FirstSquawk | 71 | 09/30 19:29 | 10/01 01:01 | 16分（20:14→20:30） |
-| financialjuice | 89 | 09/30 19:28 | 10/01 01:01 | 31分（20:00→20:32） |
+| DeItaone | 38 | 09/30 19:31 | 10/01 00:53 | ⚠ 72分（23:35→00:48） |
+| FirstSquawk | 73 | 09/30 19:30 | 10/01 01:28 | 16分（01:09→01:25） |
+| financialjuice | 88 | 09/30 19:30 | 10/01 01:01 | 31分（20:00→20:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 192 行（統合前 200 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 192 行（統合前 199 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 19:10 [DeItaone] PORSCHE PIVOTS BACK TO PETROL AS EV DEMAND WEAKENS Porsche is reviving its petrol strategy, with a combustion-engine Macan planned for 2028 after electric Macan sales fell 40% in H1. CEO Michael Leiters says EVs remain part of Porsche’s fut…
-- 09/30 19:18 [DeItaone/FirstSquawk] *LIBYA SHARARA OIL FIELD OUTPUT RISES TO NEAR 340,000 B/D
-- 09/30 19:28 [financialjuice] BoE Gov. Bailey: Regulating AI is not the right place to start.
 - 09/30 19:30 [financialjuice] Apple set to debut Home Hub and updated Apple TV, Homepod Mini.
 - 09/30 19:30 [FirstSquawk] APPLE PLANS SIGNIFICANT EXPANSION INTO SMART-HOME SECTOR ON OCTOBER 13.
 - 09/30 19:31 [DeItaone] $AAPL - APPLE TO MAKE MAJOR PUSH INTO SMART-HOME MARKET ON OCTOBER 13TH
@@ -216,3 +213,6 @@
 - 10/01 01:01 [FirstSquawk] Continental Q3 2026 Results: - ContiTech Q3 Sales, EBIT Margin Seen Falling (Q/Q) - Q3 Tires Sales Seen Slightly Below Prior Year - Tires Q3 Margin Seen Hitting Upper End Of FY Guidance
 - 10/01 01:01 [financialjuice] UK's PM Burnham: We can't have unfunded plans in budget.
 - 10/01 01:01 [financialjuice] UK's PM Burnham: Will do what we can alongside challenging finances.
+- 10/01 01:09 [FirstSquawk] UK PM BURNHAM: EU OPTIONS RANGE FROM UK STAYING AS IT IS, TO REJOINING - BBC INTERVIEW
+- 10/01 01:25 [FirstSquawk] ITALY PM MELONI: PLANS TO SPEND EUR14 BLN STEMMING FROM EU ESCAPE CLAUSE TO LOWER FIRMS’ ENERGY COSTS
+- 10/01 01:28 [FirstSquawk] FORD SHARES FALL 2.6% TO REACH LOWEST SINCE MAY 13

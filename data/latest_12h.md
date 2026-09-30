@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-01 01:07 JST／対象: 09/30 13:07 〜 10/01 01:07 JST（時刻はすべて日本時間）
+生成: 2026-10-01 01:30 JST／対象: 09/30 13:30 〜 10/01 01:30 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 44 | 09/30 18:55 | 10/01 00:53 | ⚠ 72分（23:35→00:48） |
-| FirstSquawk | 167 | 09/30 13:16 | 10/01 01:01 | 31分（17:30→18:02） |
-| financialjuice | 145 | 09/30 13:15 | 10/01 01:01 | ⚠ 58分（14:00→14:59） |
+| FirstSquawk | 169 | 09/30 13:33 | 10/01 01:28 | 31分（17:30→18:02） |
+| financialjuice | 144 | 09/30 14:00 | 10/01 01:01 | ⚠ 58分（14:00→14:59） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 348 行（統合前 356 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 349 行（統合前 357 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 13:15 [financialjuice] Iran executes two men accused of killing security forces during early 2026 protests: SNN
-- 09/30 13:16 [FirstSquawk] Iran executes two men over alleged killings of security forces during early 2026 protests — SNN
 - 09/30 13:33 [FirstSquawk] OIL REMAINS ELEVATED DESPITE PERSIAN GULF EXPORTS RECOVERY-WSJ
 - 09/30 13:35 [FirstSquawk] China’s PMI data signals broader economic improvement across sectors — WSJ
 - 09/30 13:50 [FirstSquawk] Berenberg lifts BHP Group target price to 3,500p from 3,400p
@@ -372,3 +370,6 @@
 - 10/01 01:01 [FirstSquawk] Continental Q3 2026 Results: - ContiTech Q3 Sales, EBIT Margin Seen Falling (Q/Q) - Q3 Tires Sales Seen Slightly Below Prior Year - Tires Q3 Margin Seen Hitting Upper End Of FY Guidance
 - 10/01 01:01 [financialjuice] UK's PM Burnham: We can't have unfunded plans in budget.
 - 10/01 01:01 [financialjuice] UK's PM Burnham: Will do what we can alongside challenging finances.
+- 10/01 01:09 [FirstSquawk] UK PM BURNHAM: EU OPTIONS RANGE FROM UK STAYING AS IT IS, TO REJOINING - BBC INTERVIEW
+- 10/01 01:25 [FirstSquawk] ITALY PM MELONI: PLANS TO SPEND EUR14 BLN STEMMING FROM EU ESCAPE CLAUSE TO LOWER FIRMS’ ENERGY COSTS
+- 10/01 01:28 [FirstSquawk] FORD SHARES FALL 2.6% TO REACH LOWEST SINCE MAY 13
