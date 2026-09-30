@@ -7,41 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-30 14:35 JST／対象: 09/30 08:35 〜 09/30 14:35 JST（時刻はすべて日本時間）
+生成: 2026-09-30 14:53 JST／対象: 09/30 08:53 〜 09/30 14:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 127 | 09/30 08:35 | 09/30 14:33 | 17分（13:16→13:33） |
-| financialjuice | 61 | 09/30 08:45 | 09/30 14:00 | ⚠ 80分（10:57→12:18） |
+| FirstSquawk | 120 | 09/30 09:02 | 09/30 14:48 | 17分（13:16→13:33） |
+| financialjuice | 53 | 09/30 09:00 | 09/30 14:00 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 187 行（統合前 188 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 172 行（統合前 173 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 08:35 [FirstSquawk] U.S. OFFICIALS INITIALLY DESCRIBED THE TALKS AS POSITIVE AND SAID TRUMP WAS OPEN TO SANCTIONS RELIEF AND RELEASING FROZEN FUNDS FOR NUCLEAR CONCESSIONS, BUT HOURS LATER TRUMP SAID HE HAD OFFERED IRAN NOTHING, WITH A SOURCE TELLING AXIOS THE…
-- 09/30 08:36 [FirstSquawk] SAUDI ARABIA HAS APPROVED A VISA EXEMPTION AGREEMENT WITH TÜRKIYE FOR DIPLOMATIC AND SPECIAL PASSPORT HOLDERS, UNDER WHICH HOLDERS CAN STAY VISA-FREE FOR UP TO 90 DAYS WITHIN ANY 180-DAY PERIOD
-- 09/30 08:38 [FirstSquawk] COPPER HOLDS ABOVE $14,400 A TON AFTER WORKERS AT CHILE’S CENTINELA MINE OVERWHELMINGLY REJECTED A WAGE OFFER, RAISING STRIKE RISKS, WHILE WORKERS AT BHP’S ESCONDIDA MINE ALSO VOTE ON A WAGE PROPOSAL; LME COPPER ROSE 0.2% TO $14,438.50.
-- 09/30 08:38 [FirstSquawk] COPPER REMAINS ON TRACK FOR A THIRD STRAIGHT MONTHLY GAIN AFTER HITTING A RECORD $14,875 IN SEPTEMBER, WITH TIGHT PHYSICAL MARKETS AND STRONG CHINESE DEMAND SUPPORTING PRICES; DEUTSCHE BANK SEES COPPER RISING ABOVE $22,000 A TON WITHIN SIX …
-- 09/30 08:41 [FirstSquawk] BOEING HAS WON THE U.S. NAVY'S F/A-XX COMPETITION, BEATING NORTHROP GRUMMAN FOR A CONTRACT WORTH MORE THAN $20 BLN TO DEVELOP THE NAVY'S NEXT-GENERATION CARRIER FIGHTER. || THE AIRCRAFT IS EXPECTED TO ENTER SERVICE IN THE 2030S, REPLACING T…
-- 09/30 08:42 [FirstSquawk] THE EURO FELL 0.5% TO $1.1312, ITS WEAKEST LEVEL SINCE MAY 2025, AS EXPECTATIONS FOR FURTHER FED RATE HIKES AND RISING U.S. TREASURY YIELDS BOOSTED THE DOLLAR; THE EURO IS DOWN 2.6% AGAINST THE DOLLAR IN SEPTEMBER. DOLLAR SPOT INDEX HAS GAI…
-- 09/30 08:45 [financialjuice] USTR Greer: will consider trade deal tariff caps in setting tariffs in section 301 excess capacity probe
-- 09/30 08:46 [FirstSquawk] JAPAN’S NIKKEI FUTURES RISE 0.9% IN EARLY TRADE; 10-YEAR JGB FUTURES UP 0.04 POINT
-- 09/30 08:49 [FirstSquawk] ISRAEL’S FINANCE MINISTRY HAS OBJECTED TO THE PROPOSED $4.2 BILLION SALE OF ZIM TO HAPAG-LLOYD, CITING SECURITY CONCERNS OVER SAUDI ARABIA’S AND QATAR’S STAKES IN THE GERMAN SHIPPING COMPANY. HAPAG-LLOYD AND FIMI HAVE PROPOSED A DIRECT FAR …
-- 09/30 08:50 [financialjuice] ‼ BREAKING: JAPANESE INDUSTRIAL OUTPUT PRELIM MOM SA ACTUAL -1.7% (FORECAST 1.3%, PREVIOUS -0.2%) $MACRO
-- 09/30 08:50 [financialjuice] JAPANESE RETAIL SALES YOY ACTUAL 2.7% (FORECAST 3.2%, PREVIOUS 4.0%) $MACRO
-- 09/30 08:50 [financialjuice] Japan August industrial output falls 1.7% m/m : government (Poll +1.7%)
-- 09/30 08:50 [financialjuice] Japan august retail sales climb 2.7% year/year: govt (poll +3.3%)
-- 09/30 08:50 [financialjuice] Japan manufacturers see Sept output up 3.2% m/m, prev forecast -4.2%: govt
-- 09/30 08:50 [financialjuice] Japan manufacturers report October output up 3.1% m/m, government says
-- 09/30 08:50 [FirstSquawk] JAPAN'S AUGUST INDUSTRIAL OUTPUT FELL 1.7% MONTH-ON-MONTH, AGAINST AN EXPECTED 1.7% RISE, WHILE AUGUST RETAIL SALES CLIMBED 2.7% YEAR-ON-YEAR, BELOW THE 3.3% POLL AND DOWN FROM 4.0%.
-- 09/30 08:51 [FirstSquawk] JAPAN'S MANUFACTURERS SEE SEPTEMBER OUTPUT UP 3.2% MONTH-ON-MONTH — VERSUS A PREVIOUS FORECAST OF -4.2% — AND OCTOBER OUTPUT UP 3.1% - GOVT
-- 09/30 08:53 [financialjuice] JAPANESE LARGE SCALE RETAIL SALES YOY ACTUAL 1% (FORECAST -, PREVIOUS 2%) $MACRO
 - 09/30 09:00 [financialjuice] NBNZ BUSINESS OUTLOOK ACTUAL 51.9 (FORECAST -, PREVIOUS 53.7) $MACRO
 - 09/30 09:00 [financialjuice] NBNZ OWN ACTIVITY ACTUAL 47.9 (FORECAST -, PREVIOUS 48.2) $MACRO
 - 09/30 09:00 [financialjuice] New Zealand business activity outlook at 47.9% in September vs 48.2% in previous survey: ANZ survey
@@ -211,3 +193,6 @@
 - 09/30 14:15 [FirstSquawk] Russian military strikes communications center in Kyiv overnight, IFX reports, citing Defence Ministry
 - 09/30 14:16 [FirstSquawk] Energy system facilities in Kyiv region hit in massive strike, Russian Defence Ministry says — IFX
 - 09/30 14:33 [FirstSquawk] Nikkei climbs 1.5%, driven by gains in chip and bank stocks — WSJ
+- 09/30 14:38 [FirstSquawk] Gold slips as Fed hike bets and Middle East tensions underpin the U.S. dollar — FX
+- 09/30 14:39 [FirstSquawk] Kazakhstan restarts enforcement proceedings to recover 2.3 trillion tenge fine from NCOC — IFX
+- 09/30 14:48 [FirstSquawk] HSBC calls its stablecoin RedCoin as it targets 3.3 million PayMe users

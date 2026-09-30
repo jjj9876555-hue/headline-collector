@@ -7,45 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-30 14:35 JST／対象: 09/30 02:35 〜 09/30 14:35 JST（時刻はすべて日本時間）
+生成: 2026-09-30 14:53 JST／対象: 09/30 02:53 〜 09/30 14:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 23 | 09/30 02:40 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
-| FirstSquawk | 212 | 09/30 02:36 | 09/30 14:33 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 194 | 09/30 02:36 | 09/30 14:00 | ⚠ 80分（10:57→12:18） |
+| DeItaone | 22 | 09/30 04:01 | 09/30 05:46 | 23分（05:12→05:36） |
+| FirstSquawk | 205 | 09/30 02:56 | 09/30 14:48 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 183 | 09/30 02:54 | 09/30 14:00 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 421 行（統合前 432 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 402 行（統合前 413 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 02:36 [financialjuice] OpenAI targets $30 billion in funding at $1.4 trillion valuation
-- 09/30 02:36 [FirstSquawk] OPENAI'S ALTMAN HAS UNVEILED A NEW AI AGENT TOOL CALLED 'DOTS', OFFERING ALWAYS-ON AUTONOMOUS AGENTS ACROSS PAID TIERS, AND INTRODUCED GPT-6.1 SOL AT ONE-FIFTH OF ASTRA'S PRICE WITH A CUT TO ITS CACHED INPUT VERSUS STANDARD PRICE.
-- 09/30 02:36 [FirstSquawk] OPENAI'S ALTMAN SAYS IT IS WORKING WITH MICROSOFT TO INTEGRATE SPECIALIST DOTS WITH THEIR ENTERPRISE GOVERNANCE AND SECURITY CONTROLS IN AGENT 365.
-- 09/30 02:36 [FirstSquawk] WHITE HOUSE EYES EUROPE DIESEL RESERVE RELEASE TO AVOID EXPORT BAN - POLITICO
-- 09/30 02:37 [FirstSquawk] JORDANIAN OFFICIAL DENIES REPORTS THAT JORDANIAN REPRESENTATIVE JOINED NETANYAHU MEETING DURING UAE VISIT — AXIOS
-- 09/30 02:40 [financialjuice] Fed's Barr: Economy is quite strong right now - Detroit Radio Station WJR
-- 09/30 02:40 [DeItaone] OPENAI SEEKS $30 BILLION AT $1.4 TRILLION VALUATION OpenAI is targeting at least $30 billion in new funding at a roughly $1.4 trillion valuation, Bloomberg reports, after postponing its IPO plans. The financing would serve as a bridge round…
-- 09/30 02:41 [financialjuice] Fed's Barr: People are frustrated and uncertain because inflation has been too high.
-- 09/30 02:42 [financialjuice] Fed's Barr: In the short term, the biggest effect of AI right now is driving up costs
-- 09/30 02:43 [FirstSquawk] BP'S WHITING REFINERY SAYS IT IS PROPOSING A 6-YEAR CONTRACT TERM THAT WOULD PROVIDE STABILITY FOR THE REFINERY AND EMPLOYEES, ALONG WITH AN EXTENDED NOTICE PERIOD BEFORE THE UNION CAN STRIKE OR THE COMPANY CAN INITIATE A LOCKOUT.
-- 09/30 02:43 [FirstSquawk] BP'S WHITING REFINERY SAYS IT WILL CONTINUE TO MEET WITH USW 7-1 REPRESENTATIVES TO FIND COMMON GROUND AS NEGOTIATIONS PROGRESS.
-- 09/30 02:43 [financialjuice] Fed's Goolsbee: Nothing in the Federal Reserve Act says make sure the bond market is happy or stock markets aren't surprised
-- 09/30 02:48 [financialjuice] Fed's Goolsbee: Need to revisit the logic of looking through supply shocks
-- 09/30 02:49 [financialjuice] Oklahoma Governor Stitt Seeks dyed Diesel tax pause for 120 days.
-- 09/30 02:49 [FirstSquawk] FED'S BARR SAYS THE ECONOMY IS QUITE STRONG RIGHT NOW, BUT THAT PEOPLE ARE FRUSTRATED AND UNCERTAIN BECAUSE INFLATION HAS BEEN TOO HIGH, ADDING THAT IN THE SHORT TERM THE BIGGEST EFFECT OF AI RIGHT NOW IS DRIVING UP COSTS - DETROIT RADIO ST…
-- 09/30 02:49 [financialjuice] Fed's Goolsbee: The fact we have been 5-1/2 years above inflation target is playing with fire
-- 09/30 02:50 [FirstSquawk] FED'S GOOLSBEE SAYS THE FACT THAT INFLATION HAS BEEN ABOVE THE TARGET FOR 5-1/2 YEARS IS 'PLAYING WITH FIRE', ADDING THAT THERE IS A NEED TO REVISIT THE LOGIC OF LOOKING THROUGH SUPPLY SHOCKS.
-- 09/30 02:50 [FirstSquawk] FEDS' GOOLSBEE SAYS 'NOTHING IN THE FEDERAL RESERVE ACT SAYS MAKE SURE THE BOND MARKET IS HAPPY OR STOCK MARKETS AREN'T SURPRISED'.
-- 09/30 02:50 [financialjuice] Fed's Goolsbee: Price of oil could go down relatively quickly, but the deeper problem is getting refineries back online
-- 09/30 02:51 [FirstSquawk] FED’S GOOLSBEE: OIL PRICES COULD FALL RELATIVELY QUICKLY, BUT KEY CHALLENGE IS RESTORING REFINERY OPERATIONS
-- 09/30 02:52 [financialjuice] Fed's Goolsbee: Keep your eye on productivity.
-- 09/30 02:53 [financialjuice] BoC's Gravelle: Timing of GoC bond purchases likely to be delayed
 - 09/30 02:54 [financialjuice] BoC's Gravelle: Balance sheet GoC purchases may not start until 2028.
 - 09/30 02:55 [financialjuice] OpenAI: Investigating elevated errors with ChatGPT, Codex
 - 09/30 02:56 [FirstSquawk] BANK OF CANADA PUSHES BACK TIMELINE FOR GOVERNMENT BOND PURCHASES; COULD START IN LATE 2027 OR 2028
@@ -445,3 +423,6 @@
 - 09/30 14:15 [FirstSquawk] Russian military strikes communications center in Kyiv overnight, IFX reports, citing Defence Ministry
 - 09/30 14:16 [FirstSquawk] Energy system facilities in Kyiv region hit in massive strike, Russian Defence Ministry says — IFX
 - 09/30 14:33 [FirstSquawk] Nikkei climbs 1.5%, driven by gains in chip and bank stocks — WSJ
+- 09/30 14:38 [FirstSquawk] Gold slips as Fed hike bets and Middle East tensions underpin the U.S. dollar — FX
+- 09/30 14:39 [FirstSquawk] Kazakhstan restarts enforcement proceedings to recover 2.3 trillion tenge fine from NCOC — IFX
+- 09/30 14:48 [FirstSquawk] HSBC calls its stablecoin RedCoin as it targets 3.3 million PayMe users

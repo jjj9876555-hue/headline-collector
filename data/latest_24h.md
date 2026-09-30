@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-30 14:35 JST／対象: 09/29 14:35 〜 09/30 14:35 JST（時刻はすべて日本時間）
+生成: 2026-09-30 14:53 JST／対象: 09/29 14:53 〜 09/30 14:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 88 | 09/29 20:26 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
-| FirstSquawk | 415 | 09/29 14:37 | 09/30 14:33 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 404 | 09/29 14:36 | 09/30 14:00 | ⚠ 80分（10:57→12:18） |
+| FirstSquawk | 409 | 09/29 14:55 | 09/30 14:48 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 398 | 09/29 14:58 | 09/30 14:00 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 881 行（統合前 913 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 869 行（統合前 901 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 14:36 [financialjuice] RBA's Gov. Bullock: Recession isn't the central base case at this point
-- 09/29 14:37 [FirstSquawk] RBA’s Bullock says August CPI won’t be given too much emphasis; tight financial conditions are needed
-- 09/29 14:38 [financialjuice] RBA's Gov. Bullock: I hope 4 rate hikes will be restrictive enough to slow inflation
-- 09/29 14:38 [FirstSquawk] RBA’s Bullock says financial conditions remain restrictive
-- 09/29 14:40 [financialjuice] RBA's Gov. Bullock: If inflation comes down, then it's possible no more hikes are needed
-- 09/29 14:42 [FirstSquawk] RBA’s Bullock: Could avoid additional hikes if inflation eases
-- 09/29 14:44 [financialjuice] RBA's Gov. Bullock: The Middle East made things worse, but had a CPI problem before
-- 09/29 14:44 [FirstSquawk] RBA’s Bullock says Middle East conflict has been a significant shock that has made everyone poorer
-- 09/29 14:44 [FirstSquawk] Bullock: Prolonged conflict increases the likelihood businesses pass higher costs on
-- 09/29 14:45 [FirstSquawk] RBA’s Bullock says bond markets are reacting orderly, with the central bank watching closely
-- 09/29 14:45 [financialjuice] RBA's Gov. Bullock: Bond markets are reacting in an orderly way, but we are watching closely
-- 09/29 14:46 [financialjuice] RBA's Gov. Bullock: The board considered pause and 25-bps hike today
-- 09/29 14:48 [FirstSquawk] RBA’s Bullock says inflation risks linked to the AI boom are increasing
-- 09/29 14:49 [FirstSquawk] RBA’s Bullock: One upside inflation risk has materialised and two others are building
-- 09/29 14:53 [FirstSquawk] RBA’s Bullock says unemployment rate can edge higher without widespread job losses
 - 09/29 14:55 [FirstSquawk] RBA’s Bullock says multiple inflationary pressures are making the situation very difficult
 - 09/29 14:58 [financialjuice] RBA's Gov. Bullock: We are aiming to tighten in a measured way
 - 09/29 14:59 [FirstSquawk] RBA’s Bullock says the central bank is seeking measured policy tightening
@@ -905,3 +890,6 @@
 - 09/30 14:15 [FirstSquawk] Russian military strikes communications center in Kyiv overnight, IFX reports, citing Defence Ministry
 - 09/30 14:16 [FirstSquawk] Energy system facilities in Kyiv region hit in massive strike, Russian Defence Ministry says — IFX
 - 09/30 14:33 [FirstSquawk] Nikkei climbs 1.5%, driven by gains in chip and bank stocks — WSJ
+- 09/30 14:38 [FirstSquawk] Gold slips as Fed hike bets and Middle East tensions underpin the U.S. dollar — FX
+- 09/30 14:39 [FirstSquawk] Kazakhstan restarts enforcement proceedings to recover 2.3 trillion tenge fine from NCOC — IFX
+- 09/30 14:48 [FirstSquawk] HSBC calls its stablecoin RedCoin as it targets 3.3 million PayMe users
