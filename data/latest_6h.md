@@ -7,59 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-30 08:55 JST／対象: 09/30 02:55 〜 09/30 08:55 JST（時刻はすべて日本時間）
+生成: 2026-09-30 09:26 JST／対象: 09/30 03:26 〜 09/30 09:26 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 22 | 09/30 04:01 | 09/30 05:46 | 23分（05:12→05:36） |
-| FirstSquawk | 85 | 09/30 02:56 | 09/30 08:51 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 129 | 09/30 02:55 | 09/30 08:53 | ⚠ 67分（06:32→07:40） |
+| FirstSquawk | 86 | 09/30 03:32 | 09/30 09:17 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 111 | 09/30 03:27 | 09/30 09:24 | ⚠ 67分（06:32→07:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 229 行（統合前 239 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 212 行（統合前 221 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 02:55 [financialjuice] OpenAI: Investigating elevated errors with ChatGPT, Codex
-- 09/30 02:56 [FirstSquawk] BANK OF CANADA PUSHES BACK TIMELINE FOR GOVERNMENT BOND PURCHASES; COULD START IN LATE 2027 OR 2028
-- 09/30 02:56 [FirstSquawk] OPENAI INVESTIGATING ELEVATED ERROR RATES AFFECTING CHATGPT & CODEX
-- 09/30 02:56 [financialjuice] BoC's Gravelle: Hedge fund positions may amplify bond-market stress
-- 09/30 02:56 [financialjuice] Fed's Goolsbee: Massive deficits are a form of stimulus and can overheat the economy
-- 09/30 03:00 [financialjuice] Fed's Goolsbee: In the dot plot, I'm one of the more optimistic folks at the Fed
-- 09/30 03:00 [financialjuice] ❗ Fed's Williams: If the economy meets expectations, one further hike is likely this year.
-- 09/30 03:00 [financialjuice] Fed's Williams: sees no need for urgency after september rate hike.
-- 09/30 03:01 [financialjuice] Fed's Williams: Fed will respond to data when setting monetary policy.
-- 09/30 03:01 [financialjuice] Fed's Williams: More data will help the Fed decide what's next for rate policy.
-- 09/30 03:01 [financialjuice] Fed's Williams: The Fed must make sure high inflation does not become entrenched.
-- 09/30 03:01 [financialjuice] ❗ Fed's Williams: I see inflation at 3.5% this year, hit 2% target in 2028.
-- 09/30 03:01 [financialjuice] Fed's williams: Fed policy can make sure the impact of supply shocks is not long-lasting.
-- 09/30 03:01 [financialjuice] fed's Williams: AI investment issues are an increasingly big issue for inflation.
-- 09/30 03:01 [financialjuice] Fed's Williams: I see US GDP at 2.25% this year, unemployment at 4% over 2027.
-- 09/30 03:01 [financialjuice] Fed's Williams: US economic momentum is strong and may be strengthening.
-- 09/30 03:02 [financialjuice] Fed's Goolsbee: We have to get evidence that inflation is coming back down.
-- 09/30 03:02 [FirstSquawk] FED'S WILLIAMS SAYS THAT IF THE ECONOMY MEETS EXPECTATIONS, ONE FURTHER HIKE IS LIKELY THIS YEAR, THOUGH HE SEES 'NO NEED FOR URGENCY' AFTER THE SEPTEMBER RATE HIKE AND SAYS MORE DATA WILL HELP THE FED DECIDE WHAT'S NEXT, WITH POLICY RESPON…
-- 09/30 03:02 [FirstSquawk] FED'S WILLIAMS SAYS IT IS IMPERATIVE TO GET INFLATION BACK TO 2% AND THAT THE FED MUST MAKE SURE HIGH INFLATION DOES NOT BECOME ENTRENCHED, WHILE FED POLICY CAN ENSURE THE IMPACT OF SUPPLY SHOCKS IS NOT LONG-LASTING, SEEING INFLATION AT 3.5…
-- 09/30 03:02 [FirstSquawk] FED'S WILLIAMS SAYS U.S. ECONOMIC MOMENTUM IS STRONG AND MAY BE STRENGTHENING, SEEING GDP AT 2.25% THIS YEAR AND UNEMPLOYMENT AT 4% OVER 2027, AND ADDS THAT AI INVESTMENT ISSUES ARE AN INCREASINGLY BIG ISSUE FOR INFLATION.
-- 09/30 03:03 [FirstSquawk] COINBASE REPORTS DELAYS IN SUI SENDS & RECEIVES; BUYS, SELLS AND FIAT TRANSFERS UNAFFECTED — WEBSITE
-- 09/30 03:04 [FirstSquawk] FED’S MUSALEM: AI CAPEX BOOM IS CURRENTLY DRIVING DEMAND PRESSURE, WITH PRODUCTIVITY & “SUPPLY RELIEF” NOT YET VISIBLE
-- 09/30 03:04 [financialjuice] Fed's Musalem: Fed can't ease rates based on expected AI productivity
-- 09/30 03:05 [financialjuice] Fed's musalem: Right now the AI CAPEX boom is resulting in demand pressure, with productivity and "supply relief" not yet apparent.
-- 09/30 03:05 [financialjuice] fed's Musalem: The economy is very strong now, but predicated on continued growth.
-- 09/30 03:05 [FirstSquawk] FED'S MUSALEM SAYS THE ECONOMY IS VERY STRONG NOW, BUT THAT THIS IS PREDICATED ON CONTINUED GROWTH, ADDING THAT THE FED CAN'T EASE RATES BASED ON EXPECTED AI PRODUCTIVITY.
-- 09/30 03:05 [FirstSquawk] FED'S MUSALEM SAYS THAT RIGHT NOW THE AI CAPEX BOOM IS RESULTING IN DEMAND PRESSURE, WITH PRODUCTIVITY AND 'SUPPLY RELIEF' NOT YET APPARENT.
-- 09/30 03:05 [financialjuice] Fed's Musalem: US economic growth is strong, labor market in a good place.
-- 09/30 03:09 [financialjuice] Fed's Musalem: Logic of 'looking through' supply shocks weakens when one shock follows another; heightens risk of broader inflation taking root
-- 09/30 03:11 [financialjuice] Fed's Musalem: About half of inflation now is from persistent demand pressure
-- 09/30 03:12 [FirstSquawk] LINEAGE AND BSF HAVE EXTENDED THEIR 25-YEAR RELATIONSHIP, WITH LINEAGE CONTINUING TO MANAGE WAREHOUSING AND DISTRIBUTION OPERATIONS FOR BSF UNDER A RENEWED COMMERCIAL WAREHOUSING AGREEMENT THAT RUNS THROUGH JUNE 30, 2028
-- 09/30 03:13 [financialjuice] Fed's Musalem: Inflation expectations remain consistent with 2% inflation over the long run
-- 09/30 03:14 [FirstSquawk] LOCKHEED MARTIN SAYS AVIO USA HAS BROKEN GROUND ON ITS FIRST U.S. SOLID ROCKET MOTOR FACILITY IN VIRGINIA, WHICH WILL PRODUCE THOUSANDS OF SOLID ROCKET MOTORS ANNUALLY AND CREATE 1,500 JOBS
-- 09/30 03:19 [FirstSquawk] OPENAI: HUGGING FACE INCIDENT WAS THE MOST SEVERE PLATFORM INCIDENT TO DATE
-- 09/30 03:19 [financialjuice] OpenaAI: Hugging Face event most severe platform incident so far.
-- 09/30 03:22 [financialjuice] Fed's Musalem: The Fed's SEP could be improved by anonymously connecting rate "dots" with economic projections
 - 09/30 03:27 [financialjuice] Fed's Musalem: Monetary policy remains somewhat accommodative even after the last rate hike.
 - 09/30 03:29 [financialjuice] Sounds like this White House AI meeting is wrapping up... Pool says press has been called to gather for an event - Fox News reporter
 - 09/30 03:29 [financialjuice] Fed's Williams: Inflation should ease because the biggest shocks have largely played out.
@@ -253,3 +217,22 @@
 - 09/30 08:50 [FirstSquawk] JAPAN'S AUGUST INDUSTRIAL OUTPUT FELL 1.7% MONTH-ON-MONTH, AGAINST AN EXPECTED 1.7% RISE, WHILE AUGUST RETAIL SALES CLIMBED 2.7% YEAR-ON-YEAR, BELOW THE 3.3% POLL AND DOWN FROM 4.0%.
 - 09/30 08:51 [FirstSquawk] JAPAN'S MANUFACTURERS SEE SEPTEMBER OUTPUT UP 3.2% MONTH-ON-MONTH — VERSUS A PREVIOUS FORECAST OF -4.2% — AND OCTOBER OUTPUT UP 3.1% - GOVT
 - 09/30 08:53 [financialjuice] JAPANESE LARGE SCALE RETAIL SALES YOY ACTUAL 1% (FORECAST -, PREVIOUS 2%) $MACRO
+- 09/30 09:00 [financialjuice] NBNZ BUSINESS OUTLOOK ACTUAL 51.9 (FORECAST -, PREVIOUS 53.7) $MACRO
+- 09/30 09:00 [financialjuice] NBNZ OWN ACTIVITY ACTUAL 47.9 (FORECAST -, PREVIOUS 48.2) $MACRO
+- 09/30 09:00 [financialjuice] New Zealand business activity outlook at 47.9% in September vs 48.2% in previous survey: ANZ survey
+- 09/30 09:00 [financialjuice] New Zealand business optimism 51.9% in September vs 53.7% in previous survey: ANZ Bank survey
+- 09/30 09:02 [FirstSquawk] BILL GATES SAYS ON AI THAT IT 'HAS CROSSED THE THRESHOLD' WHERE 'ITS ABILITY TO EMPOWER A BIOTERRORIST TO KILL HUNDREDS OF MILLIONS EXISTS TODAY', ALONG WITH THE ABILITY TO CARRY OUT A CYBERATTACK THAT 'SCRAMBLES ALL THE BANK ACCOUNTS, SHUT…
+- 09/30 09:02 [FirstSquawk] BILL GATES SAYS THAT 'OUTSIDE OF THE INDUSTRY, THE AWARENESS OF THE DANGERS OF AI IS EXTREMELY LOW' — INCLUDING IN ACADEMIA, THINK TANKS AND AMONG POLICYMAKERS — AND THAT HE IS 'SPEAKING AS LOUD AS I CAN' BECAUSE 'YOU CAN'T RELY ON THE INDU…
+- 09/30 09:03 [FirstSquawk] BILL GATES SAYS THE ONLY QUESTION IN HIS MIND IS WHETHER 'WE WAIT UNTIL A CYBERATTACK CAUSES MASSIVE DAMAGE AND A BIOATTACK CAUSES MASSIVE DAMAGE' BEFORE MONITORING SAFEGUARDS ARE REQUIRED IN THESE MODELS, 'OR CAN WE BE WISE ENOUGH TO PUT T…
+- 09/30 09:10 [FirstSquawk] ISRAELI FINANCE MINISTER BEZALEL SMOTRICH SAYS 'I WANT AN ARMS RACE IN ISRAEL THAT IS EVEN BIGGER THAN WHAT THE ARMY WANTS', ADDING THAT HE IS 'CONVINCED THAT WE HAVE TO BE MUCH STRONGER'.
+- 09/30 09:10 [FirstSquawk] ISRAELI FINANCE MINISTER BEZALEL SMOTRICH SAYS THAT 'IF WE BECOME AN EMPIRE OF SOPHISTICATED ARMAMENTS AND SELL TO THE WHOLE WORLD, THE WORLD WILL NEED US', ARGUING 'THE STATE OF ISRAEL HAS TO BE AN ASSET IN THE EYES OF THE WORLD IN ORDER T…
+- 09/30 09:10 [FirstSquawk] ISRAELI FINANCE MINISTER BEZALEL SMOTRICH SAYS 'I WANT THE ENTIRE MIDDLE EAST, AND BEYOND THAT COUNTRIES IN EUROPE, TO BE DEPENDENT ON US AND ON PURCHASING OUR DEFENSE PRODUCTS'.
+- 09/30 09:10 [FirstSquawk] ISRAELI FINANCE MINISTER BEZALEL SMOTRICH SAYS 'WE ARE A PEACE-SEEKING PEOPLE. WE HAVE NEVER STARTED A WAR. WE NEVER WANTED TO HURT ANYONE. WE NEVER ASKED TO EXPEL ANYONE', SAYING ISRAEL 'BROUGHT SO MUCH PROSPERITY, DEVELOPMENT AND PROGRESS…
+- 09/30 09:10 [FirstSquawk] ISRAELI FINANCE MINISTER BEZALEL SMOTRICH SAYS 'WHAT YOU DID IN GAZA, DO IN THE WEST BANK' — 'NO TERRORIST INFRASTRUCTURE IN THE WEST BANK, NO TERRORISTS, NO WEAPONS, NO TUNNELS' — AND, CITING A TUNNEL FOUND IN QALQILYA, SAYS 'THE ENTIRE NE…
+- 09/30 09:10 [FirstSquawk] ISRAELI FINANCE MINISTER BEZALEL SMOTRICH SAYS THAT IF 'ARABS IN THE WEST BANK TURN A VEHICLE INTO A WEAPON AND RUN PEOPLE OVER WITH IT, AS HAPPENED LAST WEEK, THEN YOU WILL NOT DRIVE CARS ON OUR ROADS', ADDING 'NO GAMES'.
+- 09/30 09:10 [FirstSquawk] TRUMP SAID DIRECTOR OF NATIONAL INTELLIGENCE JAY CLAYTON WOULD BE A 'GOOD' CHOICE FOR AI CZAR AS HE CONSIDERS FILLING THE ROLE WITHIN DAYS, WITH CLAYTON HAVING DESCRIBED AI AS BOTH AN OPPORTUNITY AND A THREAT THAT GOVERNMENT NEEDS TO 'GET Y…
+- 09/30 09:11 [FirstSquawk] ELI LILLY SAYS RETATRUTIDE 12MG DELIVERED 49.6LB, OR 20.8%, WEIGHT LOSS OVER 80 WEEKS, WITH PARTICIPANTS WHO HAD A BMI OF AT LEAST 35 LOSING 60.8LB, OR 23.4%, AND 59.5% OF PARTICIPANTS ON 12MG NO LONGER MEETING THE BMI CRITERIA FOR OBESITY.
+- 09/30 09:11 [FirstSquawk] ELI LILLY SAYS THE TRIPLE AGONIST ALSO REDUCED A1C IN PEOPLE WITH OBESITY AND TYPE 2 DIABETES, WITH A BIOLOGICS LICENCE APPLICATION PLANNED FOR Q1 2027.
+- 09/30 09:17 [FirstSquawk] EUROPEAN EQUITY FUTURES ADVANCE: DAX AND EUROSTOXX 50 UP 0.5%, FTSE GAINS 0.4%
+- 09/30 09:23 [financialjuice] China PBOC expected to set yuan midpoint at 6.7025 per dollar: estimate
+- 09/30 09:24 [financialjuice] Explosions heard in Ukraine's Kyiv: witness source reports
