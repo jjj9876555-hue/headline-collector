@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-30 16:49 JST／対象: 09/30 04:49 〜 09/30 16:49 JST（時刻はすべて日本時間）
+生成: 2026-09-30 17:02 JST／対象: 09/30 05:02 〜 09/30 17:02 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 15 | 09/30 04:50 | 09/30 05:46 | 23分（05:12→05:36） |
-| FirstSquawk | 216 | 09/30 05:15 | 09/30 16:33 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 137 | 09/30 04:49 | 09/30 16:01 | ⚠ 80分（10:57→12:18） |
+| DeItaone | 9 | 09/30 05:02 | 09/30 05:46 | 23分（05:12→05:36） |
+| FirstSquawk | 218 | 09/30 05:15 | 09/30 16:55 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 137 | 09/30 05:03 | 09/30 17:01 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 363 行（統合前 368 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 360 行（統合前 364 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 04:49 [financialjuice] Trump praises NVIDIA's Huang. $NVDA
-- 09/30 04:50 [financialjuice] Trump, asked if AI guardrails are unnecessary: Yes.
-- 09/30 04:50 [DeItaone] NVIDIA'S HUANG: THERE IS NO CONFLICT BETWEEN INNOVATION, TECHNOLOGY AND SAFETY
-- 09/30 04:50 [DeItaone] NVIDIA'S HUANG: WE'RE GOING TO ADVANCE THIS RESPONSIBLY AND SAFELY
-- 09/30 04:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: -751.6 MLN NASDAQ 100: -141.4 MLN DOW 30: -165.8 MLN MAG 7: 34.4 MLN $MACRO
-- 09/30 04:51 [DeItaone] TRUMP, ASKED IF AI GUARDRAILS UNNECESSARY, SAYS YES TRUMP: THINKING ABOUT COMMITTEE OF 10 PEOPLE TO WATCH OVER AI TRUMP: I BELIEVE AI MODELS WILL BE USED FOR GOOD TRUMP: AI FIRMS KNOW THEY NEED TO SELF-POLICE
-- 09/30 04:51 [financialjuice] Trump, asked on data centers and midterms: We must do what's right.
-- 09/30 04:51 [financialjuice] Nvidia CEO Huang: No conflict between AI innovation and safety $NVDA
-- 09/30 04:52 [financialjuice] Trump and Nvidia's CEO Huang Speak - WATCH LIVE
-- 09/30 04:53 [financialjuice] Trump on AI regulation: We will have AI very well assessed.
-- 09/30 04:55 [DeItaone] TRUMP: IRAN DOING VERY POORLY, DON'T KNOW IF THEY ARE GOING TO GIVE UP YET
-- 09/30 04:56 [financialjuice] Trump: Iran is doing very poorly, I don't know if they are going to give up yet.
-- 09/30 04:58 [financialjuice] Trump: Kim Jong UN is a friend of mine, I like him.
-- 09/30 04:58 [DeItaone/financialjuice] TRUMP: NORTH KOREA'S KIM WILL BE FINE AS LONG AS I AM AROUND
-- 09/30 04:59 [financialjuice] Trump: I'll be naming the AI Czar in the next three to four days.
-- 09/30 04:59 [DeItaone] TRUMP: WILL BE NAMING AI CZAR IN NEXT THREE OR FOUR DAYS
-- 09/30 04:59 [financialjuice] Trump: I discussed the Xi meeting with tech leaders.
 - 09/30 05:02 [DeItaone] ANTHROPIC'S AMODEI: TECHNOLOGY HAS VERY REAL RISKS, STILL UNDER DISCUSSION HOW TO ADDRESS THE RISKS
 - 09/30 05:03 [financialjuice] Trump on Anthropic's Amodei: He's been great
 - 09/30 05:03 [financialjuice] Trump: Zuckerberg had a view that was right down the middle. $META
@@ -387,3 +370,17 @@
 - 09/30 16:33 [FirstSquawk] RIKSBANK'S THEDEEN SAYS SWEDEN'S ECONOMY IS UNEXPECTEDLY STRONG.
 - 09/30 16:33 [FirstSquawk] NOVO'S LANGE SAYS HENGRUI WEIGHT LOSS PILL COULD BE AVAILABLE BY 2030.
 - 09/30 16:33 [FirstSquawk] NOVO REVEALS HENGRUI OBESITY PILL WILL BEGIN PHASE 1 TRIALS SOON.
+- 09/30 16:55 [financialjuice] ‼ BREAKING: GERMAN UNEMPLOYMENT CHANGE SA ACTUAL 12K (FORECAST 0.5K, PREVIOUS 4K) $MACRO
+- 09/30 16:55 [financialjuice] ❗ GERMAN UNEMPLOYMENT RATE ACTUAL 6.4% (FORECAST 6.4%, PREVIOUS 6.4%) $MACRO
+- 09/30 16:55 [FirstSquawk] GERMANY'S UNEMPLOYMENT INCREASED BY 12,000 IN SEPTEMBER; ESTIMATES WERE ONLY A RISE OF 500.
+- 09/30 16:55 [FirstSquawk] GERMANY'S UNEMPLOYMENT RATE FOR SEPTEMBER IS 6.4%, MATCHING ESTIMATIONS OF 6.4%.
+- 09/30 16:55 [financialjuice] GERMAN UNEMPLOYMENT TOTAL SA ACTUAL 3.012M (FORECAST -, PREVIOUS 2.996M) $MACRO
+- 09/30 16:55 [financialjuice] GERMAN UNEMPLOYMENT TOTAL NSA ACTUAL 2.994M (FORECAST -, PREVIOUS 3.061M) $MACRO
+- 09/30 17:00 [financialjuice] SWISS ZEW EXPECTATIONS ACTUAL 2.6 (FORECAST -, PREVIOUS 12.1) $MACRO
+- 09/30 17:00 [financialjuice] BAVARIA CPI YOY ACTUAL 3.2% (FORECAST -, PREVIOUS 2.9%) $MACRO
+- 09/30 17:00 [financialjuice] BAVARIA CPI MOM ACTUAL 0.6% (FORECAST -, PREVIOUS 0.2%) $MACRO
+- 09/30 17:01 [financialjuice] ITALIAN CONSUMER CONFIDENCE ACTUAL 91.2 (FORECAST 94.4, PREVIOUS 94.5) $MACRO
+- 09/30 17:01 [financialjuice] ITALIAN MFG BUSINESS CONFIDENCE ACTUAL 91.9 (FORECAST 90.5, PREVIOUS 89.9 ,REVISION 90.2) $MACRO
+- 09/30 17:01 [financialjuice] NORTH RHINE CPI MOM ACTUAL 0.6% (FORECAST -, PREVIOUS 0.2%) $MACRO
+- 09/30 17:01 [financialjuice] NORTH-RHINE CPI YOY ACTUAL 3.3% (FORECAST -, PREVIOUS 2.9%) $MACRO
+- 09/30 17:01 [financialjuice] SPANISH CURRENT ACCOUNT BALANCE ACTUAL 5.909B (FORECAST -, PREVIOUS 2.41B) $MACRO

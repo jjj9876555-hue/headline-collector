@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-30 16:49 JST／対象: 09/30 10:49 〜 09/30 16:49 JST（時刻はすべて日本時間）
+生成: 2026-09-30 17:02 JST／対象: 09/30 11:02 〜 09/30 17:02 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 102 | 09/30 10:57 | 09/30 16:33 | 17分（13:16→13:33） |
-| financialjuice | 25 | 09/30 10:57 | 09/30 16:01 | ⚠ 80分（10:57→12:18） |
+| FirstSquawk | 102 | 09/30 11:02 | 09/30 16:55 | 22分（16:33→16:55） |
+| financialjuice | 36 | 09/30 12:18 | 09/30 17:01 | ⚠ 58分（14:00→14:59） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 126 行（統合前 127 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 137 行（統合前 138 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 10:57 [FirstSquawk] Toys R Us weighs Japan exit through sale of local business to Don Quijote operator
-- 09/30 10:57 [financialjuice] Russian air strike on Ukraine's Kyiv region wounds three, kills one: official
-- 09/30 10:58 [FirstSquawk] Russian strike on Kyiv region kills one, injures three, official says
 - 09/30 11:02 [FirstSquawk] Sri Lanka central bank leaves overnight policy rate unchanged at 8.75%
 - 09/30 11:03 [FirstSquawk] Fitch confirms Bank of Queensland’s mortgage covered bond programmes at AAA with stable outlook
 - 09/30 11:07 [FirstSquawk] Sri Lanka central bank says current account likely recorded a surplus in August 2026
@@ -150,3 +147,17 @@
 - 09/30 16:33 [FirstSquawk] RIKSBANK'S THEDEEN SAYS SWEDEN'S ECONOMY IS UNEXPECTEDLY STRONG.
 - 09/30 16:33 [FirstSquawk] NOVO'S LANGE SAYS HENGRUI WEIGHT LOSS PILL COULD BE AVAILABLE BY 2030.
 - 09/30 16:33 [FirstSquawk] NOVO REVEALS HENGRUI OBESITY PILL WILL BEGIN PHASE 1 TRIALS SOON.
+- 09/30 16:55 [financialjuice] ‼ BREAKING: GERMAN UNEMPLOYMENT CHANGE SA ACTUAL 12K (FORECAST 0.5K, PREVIOUS 4K) $MACRO
+- 09/30 16:55 [financialjuice] ❗ GERMAN UNEMPLOYMENT RATE ACTUAL 6.4% (FORECAST 6.4%, PREVIOUS 6.4%) $MACRO
+- 09/30 16:55 [FirstSquawk] GERMANY'S UNEMPLOYMENT INCREASED BY 12,000 IN SEPTEMBER; ESTIMATES WERE ONLY A RISE OF 500.
+- 09/30 16:55 [FirstSquawk] GERMANY'S UNEMPLOYMENT RATE FOR SEPTEMBER IS 6.4%, MATCHING ESTIMATIONS OF 6.4%.
+- 09/30 16:55 [financialjuice] GERMAN UNEMPLOYMENT TOTAL SA ACTUAL 3.012M (FORECAST -, PREVIOUS 2.996M) $MACRO
+- 09/30 16:55 [financialjuice] GERMAN UNEMPLOYMENT TOTAL NSA ACTUAL 2.994M (FORECAST -, PREVIOUS 3.061M) $MACRO
+- 09/30 17:00 [financialjuice] SWISS ZEW EXPECTATIONS ACTUAL 2.6 (FORECAST -, PREVIOUS 12.1) $MACRO
+- 09/30 17:00 [financialjuice] BAVARIA CPI YOY ACTUAL 3.2% (FORECAST -, PREVIOUS 2.9%) $MACRO
+- 09/30 17:00 [financialjuice] BAVARIA CPI MOM ACTUAL 0.6% (FORECAST -, PREVIOUS 0.2%) $MACRO
+- 09/30 17:01 [financialjuice] ITALIAN CONSUMER CONFIDENCE ACTUAL 91.2 (FORECAST 94.4, PREVIOUS 94.5) $MACRO
+- 09/30 17:01 [financialjuice] ITALIAN MFG BUSINESS CONFIDENCE ACTUAL 91.9 (FORECAST 90.5, PREVIOUS 89.9 ,REVISION 90.2) $MACRO
+- 09/30 17:01 [financialjuice] NORTH RHINE CPI MOM ACTUAL 0.6% (FORECAST -, PREVIOUS 0.2%) $MACRO
+- 09/30 17:01 [financialjuice] NORTH-RHINE CPI YOY ACTUAL 3.3% (FORECAST -, PREVIOUS 2.9%) $MACRO
+- 09/30 17:01 [financialjuice] SPANISH CURRENT ACCOUNT BALANCE ACTUAL 5.909B (FORECAST -, PREVIOUS 2.41B) $MACRO
