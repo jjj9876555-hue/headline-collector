@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-30 12:36 JST／対象: 09/30 06:36 〜 09/30 12:36 JST（時刻はすべて日本時間）
+生成: 2026-09-30 12:54 JST／対象: 09/30 06:54 〜 09/30 12:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 111 | 09/30 08:05 | 09/30 12:32 | 25分（08:09→08:35） |
+| FirstSquawk | 115 | 09/30 08:05 | 09/30 12:54 | 25分（08:09→08:35） |
 | financialjuice | 67 | 09/30 07:40 | 09/30 12:19 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 177 行（統合前 178 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 181 行（統合前 182 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -201,3 +201,7 @@
 - 09/30 12:19 [FirstSquawk] China Finance Ministry to sell 80 billion yuan of reopened 10-year bonds on Oct. 9
 - 09/30 12:25 [FirstSquawk] Human Made ramps up global expansion as Japanese fashion brand
 - 09/30 12:32 [FirstSquawk] Trump expected to announce South Korea investment projects as early as Wednesday, YONHAP says
+- 09/30 12:36 [FirstSquawk] Japan 2-year JGB auction sees bid-to-cover ratio of 3.89
+- 09/30 12:44 [FirstSquawk] More than 3,000 food items in Japan to face price hikes in October
+- 09/30 12:48 [FirstSquawk] New Zealand dollar consolidates near 0.5625 support amid uncertain outlook - FX
+- 09/30 12:54 [FirstSquawk] Boeing chosen by Pentagon to build new carrier fighter jet replacing F/A-18 — SCMP

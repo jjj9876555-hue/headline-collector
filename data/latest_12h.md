@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-30 12:36 JST／対象: 09/30 00:36 〜 09/30 12:36 JST（時刻はすべて日本時間）
+生成: 2026-09-30 12:54 JST／対象: 09/30 00:54 〜 09/30 12:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 41 | 09/30 00:37 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
-| FirstSquawk | 214 | 09/30 00:40 | 09/30 12:32 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 272 | 09/30 00:40 | 09/30 12:19 | ⚠ 80分（10:57→12:18） |
+| DeItaone | 37 | 09/30 01:01 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
+| FirstSquawk | 214 | 09/30 01:20 | 09/30 12:54 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 266 | 09/30 00:55 | 09/30 12:19 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 517 行（統合前 531 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 508 行（統合前 521 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 00:37 [DeItaone] U.S. 30-YEAR TREASURY YIELD TOUCHES 5.612%, HIGHEST SINCE JUNE 2002
-- 09/30 00:40 [financialjuice] BoE's Taylor's Speech
-- 09/30 00:40 [financialjuice] BoE's Taylor: The current policy stance is restrictive enough.
-- 09/30 00:40 [FirstSquawk] EU ENERGY COMMISSIONER JORGENSEN: SEE NO IMMEDIATE RISK TO ENERGY SUPPLIES IN EUROPE AHEAD OF WINTER
-- 09/30 00:46 [DeItaone] BARCLAYS: U.S. 30-YEAR YIELD COULD HIT 6% Barclays says the 30-year Treasury yield could reach 6% if the AI investment boom produces a sustained acceleration in U.S. productivity. Stronger productivity could keep the economy growing faster …
-- 09/30 00:48 [FirstSquawk] US OFFERS UP TO 40 MILLION BARRELS FROM STRATEGIC OIL RESERVE
-- 09/30 00:48 [financialjuice] US Energy Department announces an SPR release in a statement.
-- 09/30 00:48 [financialjuice] BoE's Mann: Inflation staying above 2% is a credibility problem.
-- 09/30 00:51 [DeItaone] *US ENERGY DEPARTMENT ANNOUNCES SPR RELEASE IN STATEMENT
-- 09/30 00:52 [financialjuice/DeItaone] ECB's DeMarco: Stronger core inflation could be grounds to act.
-- 09/30 00:53 [FirstSquawk] IRAN WILL BE READY TO DISCUSS THE NUCLEAR ISSUE ONLY AFTER THE STRAIT OF HORMUZ ISSUE IS RESOLVED AND WASHINGTON LIFTS THE BLOCKADE - RIA CITING IRANIAN DIPLOMATIC SOURCE
-- 09/30 00:53 [FirstSquawk] IRAN IS READY TO DISCUSS THE NUCLEAR DOSSIER ONLY AFTER A NUMBER OF CONDITIONS ARE MET, ACCORDING TO A DIPLOMATIC SOURCE.
-- 09/30 00:54 [financialjuice] ECB's DeMarco: I would not exclude a rate hike in October.
 - 09/30 00:55 [financialjuice] ECB's Demarco: Recent rise in L-T bond yields quite worrying.
 - 09/30 00:55 [financialjuice] ECB's DeMarco: The economic situation is quite fragile.
 - 09/30 01:00 [financialjuice] France to issue €340 bln of medium and long-term bonds next year, net of buybacks - AFT
@@ -541,3 +528,7 @@
 - 09/30 12:19 [FirstSquawk] China Finance Ministry to sell 80 billion yuan of reopened 10-year bonds on Oct. 9
 - 09/30 12:25 [FirstSquawk] Human Made ramps up global expansion as Japanese fashion brand
 - 09/30 12:32 [FirstSquawk] Trump expected to announce South Korea investment projects as early as Wednesday, YONHAP says
+- 09/30 12:36 [FirstSquawk] Japan 2-year JGB auction sees bid-to-cover ratio of 3.89
+- 09/30 12:44 [FirstSquawk] More than 3,000 food items in Japan to face price hikes in October
+- 09/30 12:48 [FirstSquawk] New Zealand dollar consolidates near 0.5625 support amid uncertain outlook - FX
+- 09/30 12:54 [FirstSquawk] Boeing chosen by Pentagon to build new carrier fighter jet replacing F/A-18 — SCMP

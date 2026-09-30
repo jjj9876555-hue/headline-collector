@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-30 12:36 JST／対象: 09/29 12:36 〜 09/30 12:36 JST（時刻はすべて日本時間）
+生成: 2026-09-30 12:54 JST／対象: 09/29 12:54 〜 09/30 12:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 88 | 09/29 20:26 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
-| FirstSquawk | 435 | 09/29 12:45 | 09/30 12:32 | ⚠ 96分（06:29→08:05） |
+| FirstSquawk | 438 | 09/29 13:11 | 09/30 12:54 | ⚠ 96分（06:29→08:05） |
 | financialjuice | 426 | 09/29 13:03 | 09/30 12:19 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 923 行（統合前 955 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 926 行（統合前 958 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 12:45 [FirstSquawk] South Korea sees farming households increase to 1.27 million in 2025, while average farm area hits 65-year low - YONHAP
 - 09/29 13:03 [financialjuice] Germany delivers EU budget ultimatum - FT
 - 09/29 13:05 [financialjuice] Germany, the Netherlands, Sweden, Denmark, Austria and Finland tell Brussels to cut ‘hundreds of billions’ in planned spending - FT
 - 09/29 13:06 [financialjuice] Nvidia turns to insurers to share risk of AI expansion - FT
@@ -947,3 +946,7 @@
 - 09/30 12:19 [FirstSquawk] China Finance Ministry to sell 80 billion yuan of reopened 10-year bonds on Oct. 9
 - 09/30 12:25 [FirstSquawk] Human Made ramps up global expansion as Japanese fashion brand
 - 09/30 12:32 [FirstSquawk] Trump expected to announce South Korea investment projects as early as Wednesday, YONHAP says
+- 09/30 12:36 [FirstSquawk] Japan 2-year JGB auction sees bid-to-cover ratio of 3.89
+- 09/30 12:44 [FirstSquawk] More than 3,000 food items in Japan to face price hikes in October
+- 09/30 12:48 [FirstSquawk] New Zealand dollar consolidates near 0.5625 support amid uncertain outlook - FX
+- 09/30 12:54 [FirstSquawk] Boeing chosen by Pentagon to build new carrier fighter jet replacing F/A-18 — SCMP
