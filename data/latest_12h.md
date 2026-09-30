@@ -7,46 +7,24 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-30 10:27 JST／対象: 09/29 22:27 〜 09/30 10:27 JST（時刻はすべて日本時間）
+生成: 2026-09-30 10:46 JST／対象: 09/29 22:46 〜 09/30 10:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 68 | 09/29 22:30 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
-| FirstSquawk | 212 | 09/29 22:29 | 09/30 10:27 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 289 | 09/29 22:28 | 09/30 10:27 | ⚠ 67分（06:32→07:40） |
+| DeItaone | 62 | 09/29 22:50 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
+| FirstSquawk | 220 | 09/29 22:46 | 09/30 10:44 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 313 | 09/29 23:36 | 09/30 10:45 | ⚠ 67分（06:32→07:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 553 行（統合前 575 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 580 行（統合前 601 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 22:28 [financialjuice] UK's PM Burnham: We are reforming the energy market.
-- 09/29 22:29 [FirstSquawk] UK SEEKS TO REPEAL BAN ON PUBLIC OWNERSHIP OF WATER COMPANIES
-- 09/29 22:29 [FirstSquawk] UK AIMS TO LIFT RESTRICTION ON PUBLIC CONTROL OF WATER FIRMS.
-- 09/29 22:30 [DeItaone] GENSLER WARNS CHINESE AI MODELS POSE CHALLENGE TO U.S. FIRMS Former SEC Chair Gary Gensler says competition from Chinese AI models complicates efforts to impose stronger safeguards on advanced AI. He also questioned whether the enormous spe…
-- 09/29 22:31 [financialjuice] UK's PM Burnham: You will see VAT disappear off electricity bill on Thursday.
-- 09/29 22:31 [FirstSquawk] DOW JONES DOWN 44.23 POINTS, OR 0.09 PERCENT, AT 51,437.28 AFTER MARKET OPEN NASDAQ UP 84.22 POINTS, OR 0.31 PERCENT, AT 26,904.60 AFTER MARKET OPEN S&P 500 UP 8.67 POINTS, OR 0.11 PERCENT, AT 7,692.36 AFTER MARKET OPEN
-- 09/29 22:32 [DeItaone] GOLDMAN: STOCKS NEED BOND YIELDS TO FALL Goldman Sachs says the clearest path to further equity gains is relief in Treasury yields, with the U.S. 10-year reaching 5.25%, its highest since 2007. Stocks have remained resilient, led by large-c…
-- 09/29 22:33 [FirstSquawk] BURNHAM: APPROACH IS RESPONSIBLE
-- 09/29 22:33 [FirstSquawk] BURNHAM: WILL STICK TO FISCAL RULES
-- 09/29 22:35 [FirstSquawk] US HEGSETH TO ANNOUNCE 20% CUT TO GENERALS, ADMIRAL POSITIONS: FOX
-- 09/29 22:41 [financialjuice] IRGC Spokesman: US Navy ships have withdrawn to 500 kilometers from the Strait of Hormuz - Tasnim News
-- 09/29 22:41 [DeItaone] HEGSETH PLANS 20% CUT TO GENERAL, ADMIRAL POSITIONS War Secretary Pete Hegseth plans to reduce by 20% the number of military positions reserved for generals and admirals, Fox News reports. The target doubles the 10% reduction ordered last y…
-- 09/29 22:41 [FirstSquawk] UK BURNHAM: SOCIAL CARE FULLY FUNDED NOT THROUGH BORROWING
-- 09/29 22:41 [FirstSquawk] BURNHAM: I ACCEPT I MAY PAY A POLITICAL PRICE
-- 09/29 22:43 [financialjuice] Musk and Bezos to attend White House AI lunch - Axios. $TSLA $SPCX $AMZN
-- 09/29 22:44 [DeItaone] *MUSK, BEZOS TO ATTEND WHITE HOUSE AI LUNCH: AXIOS
-- 09/29 22:44 [FirstSquawk] UK TO ADJUST STATE PENSION FROM 2030 TO FUND CARE SERVICE
-- 09/29 22:45 [financialjuice] The UK is going to adjust the state pension from 2030 to fund care service.
-- 09/29 22:45 [financialjuice] Micron, Microsoft and AMD CEOs to attend White House lunch - Axios. $MSFT $MU $AMD
-- 09/29 22:45 [FirstSquawk] PARAMOUNT KICKS OFF HIGH-GRADE BOND SALE FOR WARNER BROS. DEAL
-- 09/29 22:45 [DeItaone/FirstSquawk] ELON MUSK, CEOS OF PALANTIR, AMAZON, SERVICE NOW, ALTIMETER TO ATTEND WHITE HOUSE MEETING ON AI, AXIOS REPORTS
-- 09/29 22:45 [financialjuice] Full list of attendees at White House AI lunch - Axios
-- 09/29 22:46 [DeItaone] TRUMP TO HOST AI POWER LUNCH WITH TOP TECH CEOs President Trump and House Speaker Mike Johnson are set to meet leading AI and tech executives Tuesday as Washington debates how to oversee rapidly advancing AI. Axios Attendees include Elon Mu…
+- 09/29 22:46 [FirstSquawk] ELON MUSK, CEOS OF PALANTIR, AMAZON, SERVICE NOW, ALTIMETER TO ATTEND WHITE HOUSE MEETING ON AI, AXIOS REPORTS
 - 09/29 22:47 [FirstSquawk] UK GILT FUTURES PARE GAINS BY AROUND 10 TICKS AFTER PM BURNHAM SAYS SAVINGS FROM SCRAPPING TRIPLE LOCK WILL BE USED TO FINANCE SOCIAL CARE
 - 09/29 22:50 [DeItaone] U.S. GASOLINE AND DIESEL PRICES FALL U.S. regular gasoline prices fell 1.3 cents over the week to $4.465/gallon, though prices remain $1.347 higher than a year ago. Diesel saw a much larger decline, falling 14.7 cents to $6.382/gallon, but …
 - 09/29 22:50 [DeItaone] U.S. 30-YEAR TREASURY YIELD REACHES 5.587%, HIGHEST SINCE MAY 2004
@@ -577,3 +555,52 @@
 - 09/30 10:23 [FirstSquawk] PBOC injects 833.5 billion yuan through overnight reverse repo operations
 - 09/30 10:27 [financialjuice] China pauses 7-day reverse repos: statement
 - 09/30 10:27 [FirstSquawk] PBOC conducts no 7-day reverse repo operations
+- 09/30 10:28 [FirstSquawk] China’s CSI 300 Real Estate Index seen declining 5%
+- 09/30 10:30 [financialjuice] ‼ BREAKING: AUSTRALIAN CPI YOY NSA ACTUAL 4% (FORECAST 4.1%, PREVIOUS 3.5%) $MACRO
+- 09/30 10:30 [financialjuice] ❗ AUSTRALIAN BUILDING APPROVALS ACTUAL -6.1% (FORECAST -1%, PREVIOUS -3.6%) $MACRO
+- 09/30 10:30 [financialjuice] ❗ AUSTRALIAN CPI TRIMMED MEAN YOY ACTUAL 3.6% (FORECAST 3.6%, PREVIOUS 3.6%) $MACRO
+- 09/30 10:30 [financialjuice] AUSTRALIAN PRIVATE HOUSE APPROVALS ACTUAL 3.7% (FORECAST -, PREVIOUS -4.2%) $MACRO
+- 09/30 10:30 [financialjuice] Australia August RBA trimmed mean inflation rises 0.2% month on month
+- 09/30 10:30 [financialjuice] Australia aug private sector house approvals rise 3.7% m/m, s/adj
+- 09/30 10:30 [financialjuice] Australia aug cpi all groups rises 4% yr/yr
+- 09/30 10:30 [financialjuice] Australia Aug RBA weighted median CPI rises 3.6% year/year
+- 09/30 10:30 [financialjuice] Australia August RBA trimmed mean inflation at 3.6% year on year
+- 09/30 10:30 [financialjuice] Australia Aug RBA weighted median CPI rises 0.3% m/m
+- 09/30 10:31 [financialjuice] Australia Aug CPI (all groups) rises 0.4% m/m
+- 09/30 10:31 [financialjuice] Australia aug building approvals decline 6.1% m/m, adjusted
+- 09/30 10:31 [financialjuice] Australia August private-sector credit rises 0.6% m/m, s/adj: central bank
+- 09/30 10:31 [financialjuice] Australia August housing credit rises 0.4% m/m, seasonally adjusted: central bank
+- 09/30 10:31 [financialjuice] AUSTRALIAN HOUSING CREDIT ACTUAL 0.4% (FORECAST -, PREVIOUS 0.5%) $MACRO
+- 09/30 10:31 [financialjuice] AUSTRALIAN PRIVATE SECTOR CREDIT ACTUAL 0.6% (FORECAST 0.5%, PREVIOUS 0.6%) $MACRO
+- 09/30 10:31 [financialjuice] CHINESE COMPOSITE PMI ACTUAL 50.7 (FORECAST -, PREVIOUS 49.5) $MACRO
+- 09/30 10:31 [financialjuice] ‼ BREAKING: CHINESE NBS MANUFACTURING PMI ACTUAL 50.1 (FORECAST 50.1, PREVIOUS 49.8) $MACRO
+- 09/30 10:31 [financialjuice] CHINESE NBS NON-MANUFACTURING PMI ACTUAL 50.2 (FORECAST 49.2, PREVIOUS 49.0) $MACRO
+- 09/30 10:31 [financialjuice] China september official non-manufacturing pmi climbs to 50.2 from 49.0 in august
+- 09/30 10:31 [financialjuice] China September official manufacturing PMI at 50.1 vs 49.8 in August
+- 09/30 10:31 [financialjuice] China September official composite PMI at 50.7
+- 09/30 10:31 [financialjuice] China Sept official manufacturing PMI at 50.1: poll matched previous 49.8
+- 09/30 10:31 [financialjuice] China Sept official non-manufacturing PMI at 50.2 vs 49.0 in Aug
+- 09/30 10:32 [financialjuice] South Korea military: North Korea must halt fortification efforts immediately
+- 09/30 10:32 [financialjuice] South Korea military: North Korea must apologize for fortification activities
+- 09/30 10:32 [FirstSquawk] Australia CPI (M/M) Aug: 0.4% (est 0.5%; prev 1.0%)
+- 09/30 10:33 [FirstSquawk] Australia CPI (Y/Y): 4.0% (est 4.1%; prev 3.5%)
+- 09/30 10:33 [FirstSquawk] Australia Trimmed Mean CPI (M/M): 0.2% (est 0.3%; prev 0.5%)
+- 09/30 10:33 [FirstSquawk] Australia Trimmed Mean CPI (Y/Y): 3.6% (est 3.6%; prev 3.6%)
+- 09/30 10:33 [financialjuice] South Korea military: personnel seriously injured by North Korean mines
+- 09/30 10:33 [FirstSquawk] Brent futures gain over $1 to $103.73 following Trump’s denial of Iran sanctions relief
+- 09/30 10:34 [FirstSquawk] Australia Private Sector Credit (M/M) Aug: 0.6% (est 0.5%; prev 0.6%)
+- 09/30 10:34 [FirstSquawk] Australia Private Sector Credit (Y/Y): 8.4% (prev 8.4%)
+- 09/30 10:34 [FirstSquawk] Australia Building Approvals (M/M) Aug: -6.1% (est -1.0%; prev -3.6%)
+- 09/30 10:34 [FirstSquawk] Australia Private Sector Houses (M/M): 3.7% (prev -4.2%)
+- 09/30 10:35 [FirstSquawk] China Manufacturing PMI Sep: 50.1 (est 50.1; prev 49.8)
+- 09/30 10:35 [FirstSquawk] China Non-Manufacturing PMI: 50.2 (est 49.2; prev 49.0)
+- 09/30 10:35 [FirstSquawk] China Composite PMI: 50.7 (prev 49.5)
+- 09/30 10:36 [FirstSquawk] Australia’s benchmark S&P/ASX 200 index advances 0.5% to 8,749.50 after inflation data
+- 09/30 10:36 [FirstSquawk] South Korean military demands North Korea cease fortification activities immediately
+- 09/30 10:36 [FirstSquawk] South Korea military warns North Korea’s fortification activities are escalating tensions on Korean Peninsula
+- 09/30 10:40 [FirstSquawk] Australia struggles with illicit cigarette trade after a decade of tax increases — FT
+- 09/30 10:44 [FirstSquawk] Gold prices stabilize with markets awaiting key U.S. economic data — WSJ
+- 09/30 10:45 [financialjuice] ❗ CHINESE SERVICES PMI ACTUAL 51.6 (FORECAST 51.3, PREVIOUS 51.4) $MACRO
+- 09/30 10:45 [financialjuice] ❗ CHINESE MANUFACTURING PMI ACTUAL 52.1 (FORECAST 51.7, PREVIOUS 51.5) $MACRO
+- 09/30 10:45 [financialjuice] RatingDog China general manufacturing PMI at 52.1 in September beats forecast 51.6
+- 09/30 10:45 [financialjuice] Ratingdog China general services PMI at 51.6 in September vs 51.4 in August

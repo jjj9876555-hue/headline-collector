@@ -7,41 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-30 10:27 JST／対象: 09/30 04:27 〜 09/30 10:27 JST（時刻はすべて日本時間）
+生成: 2026-09-30 10:46 JST／対象: 09/30 04:46 〜 09/30 10:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 19 | 09/30 04:27 | 09/30 05:46 | 23分（05:12→05:36） |
-| FirstSquawk | 101 | 09/30 04:28 | 09/30 10:27 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 90 | 09/30 04:35 | 09/30 10:27 | ⚠ 67分（06:32→07:40） |
+| DeItaone | 15 | 09/30 04:50 | 09/30 05:46 | 23分（05:12→05:36） |
+| FirstSquawk | 113 | 09/30 04:46 | 09/30 10:44 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 112 | 09/30 04:49 | 09/30 10:45 | ⚠ 67分（06:32→07:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 205 行（統合前 210 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 236 行（統合前 240 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 04:27 [DeItaone] *OPEC+ LIKELY TO STICK WITH PLAN FOR STEADY QUOTAS: DELEGATES
-- 09/30 04:28 [FirstSquawk] CEO INSIDE THE ROOM: AI INDUSTRY IS RAMPING UP - FOX
-- 09/30 04:28 [FirstSquawk] IRAN PRESIDENT’S OFFICE: IRAN WILL NOT COMPROMISE ON ITS NUCLEAR RIGHTS — IRIB NEWS
-- 09/30 04:35 [financialjuice] House Speaker Johnson: Held a very productive meeting with tech executives
-- 09/30 04:38 [financialjuice] US House Speaker Johnson: AI providers are committed to building trust.
-- 09/30 04:39 [FirstSquawk] U.S. HOUSE SPEAKER JOHNSON SAYS ON A MEETING WITH AI LEADERS THAT THEY 'DISCUSSED STRIKING THE RIGHT BALANCE' AND AI COMPANIES ENSURING SAFETY, WITH AI PROVIDERS 'COMMITTED TO BUILDING TRUST'.
-- 09/30 04:39 [FirstSquawk] U.S. HOUSE SPEAKER JOHNSON SAYS 'WE JUST SIGNED AN ACCORD ON AI, WHICH IS A STATEMENT OF STANDARDS', ADDING THAT THE U.S. 'CAN KEEP ITS EDGE IN A SAFE WAY' AND WILL 'CONTINUE TO ASSESS AND DELIBERATE IN COMING DAYS'.
-- 09/30 04:41 [DeItaone] TRUMP ON MEETING WITH AI LEADERS: SIGNED AI DOCUMENT THAT IS A FORM OF PROTECTION
-- 09/30 04:42 [financialjuice] Trump: Had a great meeting with tech executives.
-- 09/30 04:42 [financialjuice] Trump: The document signed with ai firms is a form of protection.
-- 09/30 04:42 [FirstSquawk] TRUMP ON AI LEADERS MEETING: SIGNED AI DOCUMENT THAT HE SAYS PROVIDES A FORM OF PROTECTION
-- 09/30 04:42 [financialjuice/FirstSquawk] No evacuation alert has been issued for European citizens in Iran - Fars News
-- 09/30 04:44 [financialjuice] OpenAI CFO: Business segment revenue doubled from July.
-- 09/30 04:44 [financialjuice] Trump: If AI models are not used for good, we will nab them.
-- 09/30 04:45 [DeItaone] TRUMP: THINK WE ARE SEEING TREMENDOUS SELF-POLICING, AI LEADERS UNDERSTAND THAT TRUMP: WE ARE THKING OF CREATING COMMITTEE TO WATCH OVER
-- 09/30 04:45 [financialjuice] Trump: I'm seeing tremendous self-policing on AI
-- 09/30 04:45 [financialjuice] Trump: We're thinking about a committee of 10 people to watch over AI.
-- 09/30 04:45 [DeItaone] *TRUMP ON AI REGULATION: REITERATES US HAS FBI, CIA, DOJ
 - 09/30 04:46 [FirstSquawk] TRUMP SAYS ON A MEETING WITH AI LEADERS THAT HE THINKS THE DOCUMENT IS 'MORALLY BINDING' AND THAT HE IS SEEING 'TREMENDOUS SELF-POLICING', WITH AI LEADERS UNDERSTANDING THAT.
 - 09/30 04:46 [FirstSquawk] TRUMP SAYS THE U.S. IS 'THINKING ABOUT A COMMITTEE OF 10 PEOPLE TO WATCH OVER AI', ADDING THAT 'IF AI MODELS ARE NOT USED FOR GOOD, WE WILL NAB THEM'.
 - 09/30 04:49 [financialjuice] Trump praises NVIDIA's Huang. $NVDA
@@ -229,3 +211,52 @@
 - 09/30 10:23 [FirstSquawk] PBOC injects 833.5 billion yuan through overnight reverse repo operations
 - 09/30 10:27 [financialjuice] China pauses 7-day reverse repos: statement
 - 09/30 10:27 [FirstSquawk] PBOC conducts no 7-day reverse repo operations
+- 09/30 10:28 [FirstSquawk] China’s CSI 300 Real Estate Index seen declining 5%
+- 09/30 10:30 [financialjuice] ‼ BREAKING: AUSTRALIAN CPI YOY NSA ACTUAL 4% (FORECAST 4.1%, PREVIOUS 3.5%) $MACRO
+- 09/30 10:30 [financialjuice] ❗ AUSTRALIAN BUILDING APPROVALS ACTUAL -6.1% (FORECAST -1%, PREVIOUS -3.6%) $MACRO
+- 09/30 10:30 [financialjuice] ❗ AUSTRALIAN CPI TRIMMED MEAN YOY ACTUAL 3.6% (FORECAST 3.6%, PREVIOUS 3.6%) $MACRO
+- 09/30 10:30 [financialjuice] AUSTRALIAN PRIVATE HOUSE APPROVALS ACTUAL 3.7% (FORECAST -, PREVIOUS -4.2%) $MACRO
+- 09/30 10:30 [financialjuice] Australia August RBA trimmed mean inflation rises 0.2% month on month
+- 09/30 10:30 [financialjuice] Australia aug private sector house approvals rise 3.7% m/m, s/adj
+- 09/30 10:30 [financialjuice] Australia aug cpi all groups rises 4% yr/yr
+- 09/30 10:30 [financialjuice] Australia Aug RBA weighted median CPI rises 3.6% year/year
+- 09/30 10:30 [financialjuice] Australia August RBA trimmed mean inflation at 3.6% year on year
+- 09/30 10:30 [financialjuice] Australia Aug RBA weighted median CPI rises 0.3% m/m
+- 09/30 10:31 [financialjuice] Australia Aug CPI (all groups) rises 0.4% m/m
+- 09/30 10:31 [financialjuice] Australia aug building approvals decline 6.1% m/m, adjusted
+- 09/30 10:31 [financialjuice] Australia August private-sector credit rises 0.6% m/m, s/adj: central bank
+- 09/30 10:31 [financialjuice] Australia August housing credit rises 0.4% m/m, seasonally adjusted: central bank
+- 09/30 10:31 [financialjuice] AUSTRALIAN HOUSING CREDIT ACTUAL 0.4% (FORECAST -, PREVIOUS 0.5%) $MACRO
+- 09/30 10:31 [financialjuice] AUSTRALIAN PRIVATE SECTOR CREDIT ACTUAL 0.6% (FORECAST 0.5%, PREVIOUS 0.6%) $MACRO
+- 09/30 10:31 [financialjuice] CHINESE COMPOSITE PMI ACTUAL 50.7 (FORECAST -, PREVIOUS 49.5) $MACRO
+- 09/30 10:31 [financialjuice] ‼ BREAKING: CHINESE NBS MANUFACTURING PMI ACTUAL 50.1 (FORECAST 50.1, PREVIOUS 49.8) $MACRO
+- 09/30 10:31 [financialjuice] CHINESE NBS NON-MANUFACTURING PMI ACTUAL 50.2 (FORECAST 49.2, PREVIOUS 49.0) $MACRO
+- 09/30 10:31 [financialjuice] China september official non-manufacturing pmi climbs to 50.2 from 49.0 in august
+- 09/30 10:31 [financialjuice] China September official manufacturing PMI at 50.1 vs 49.8 in August
+- 09/30 10:31 [financialjuice] China September official composite PMI at 50.7
+- 09/30 10:31 [financialjuice] China Sept official manufacturing PMI at 50.1: poll matched previous 49.8
+- 09/30 10:31 [financialjuice] China Sept official non-manufacturing PMI at 50.2 vs 49.0 in Aug
+- 09/30 10:32 [financialjuice] South Korea military: North Korea must halt fortification efforts immediately
+- 09/30 10:32 [financialjuice] South Korea military: North Korea must apologize for fortification activities
+- 09/30 10:32 [FirstSquawk] Australia CPI (M/M) Aug: 0.4% (est 0.5%; prev 1.0%)
+- 09/30 10:33 [FirstSquawk] Australia CPI (Y/Y): 4.0% (est 4.1%; prev 3.5%)
+- 09/30 10:33 [FirstSquawk] Australia Trimmed Mean CPI (M/M): 0.2% (est 0.3%; prev 0.5%)
+- 09/30 10:33 [FirstSquawk] Australia Trimmed Mean CPI (Y/Y): 3.6% (est 3.6%; prev 3.6%)
+- 09/30 10:33 [financialjuice] South Korea military: personnel seriously injured by North Korean mines
+- 09/30 10:33 [FirstSquawk] Brent futures gain over $1 to $103.73 following Trump’s denial of Iran sanctions relief
+- 09/30 10:34 [FirstSquawk] Australia Private Sector Credit (M/M) Aug: 0.6% (est 0.5%; prev 0.6%)
+- 09/30 10:34 [FirstSquawk] Australia Private Sector Credit (Y/Y): 8.4% (prev 8.4%)
+- 09/30 10:34 [FirstSquawk] Australia Building Approvals (M/M) Aug: -6.1% (est -1.0%; prev -3.6%)
+- 09/30 10:34 [FirstSquawk] Australia Private Sector Houses (M/M): 3.7% (prev -4.2%)
+- 09/30 10:35 [FirstSquawk] China Manufacturing PMI Sep: 50.1 (est 50.1; prev 49.8)
+- 09/30 10:35 [FirstSquawk] China Non-Manufacturing PMI: 50.2 (est 49.2; prev 49.0)
+- 09/30 10:35 [FirstSquawk] China Composite PMI: 50.7 (prev 49.5)
+- 09/30 10:36 [FirstSquawk] Australia’s benchmark S&P/ASX 200 index advances 0.5% to 8,749.50 after inflation data
+- 09/30 10:36 [FirstSquawk] South Korean military demands North Korea cease fortification activities immediately
+- 09/30 10:36 [FirstSquawk] South Korea military warns North Korea’s fortification activities are escalating tensions on Korean Peninsula
+- 09/30 10:40 [FirstSquawk] Australia struggles with illicit cigarette trade after a decade of tax increases — FT
+- 09/30 10:44 [FirstSquawk] Gold prices stabilize with markets awaiting key U.S. economic data — WSJ
+- 09/30 10:45 [financialjuice] ❗ CHINESE SERVICES PMI ACTUAL 51.6 (FORECAST 51.3, PREVIOUS 51.4) $MACRO
+- 09/30 10:45 [financialjuice] ❗ CHINESE MANUFACTURING PMI ACTUAL 52.1 (FORECAST 51.7, PREVIOUS 51.5) $MACRO
+- 09/30 10:45 [financialjuice] RatingDog China general manufacturing PMI at 52.1 in September beats forecast 51.6
+- 09/30 10:45 [financialjuice] Ratingdog China general services PMI at 51.6 in September vs 51.4 in August
