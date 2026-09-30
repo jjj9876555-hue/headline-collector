@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 04:35 JST／対象: 09/30 22:35 〜 10/01 04:35 JST（時刻はすべて日本時間）
+生成: 2026-10-01 04:52 JST／対象: 09/30 22:52 〜 10/01 04:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 34 | 09/30 22:46 | 10/01 04:26 | ⚠ 77分（00:53→02:11） |
-| FirstSquawk | 67 | 09/30 22:36 | 10/01 04:28 | 28分（03:03→03:31） |
-| financialjuice | 84 | 09/30 22:45 | 10/01 04:35 | 35分（01:01→01:37） |
+| DeItaone | 33 | 09/30 22:54 | 10/01 04:26 | ⚠ 77分（00:53→02:11） |
+| FirstSquawk | 64 | 09/30 22:55 | 10/01 04:51 | 28分（03:03→03:31） |
+| financialjuice | 86 | 09/30 22:52 | 10/01 04:51 | 35分（01:01→01:37） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 178 行（統合前 186 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 176 行（統合前 184 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 22:36 [FirstSquawk] NATO CHIEF: IN REACTION TO RUSSIA'S LETTER, I SAID WE ARE A DEFENSIVE ALLIANCE AND TO STOP THE NUCLEAR THREAT
-- 09/30 22:42 [FirstSquawk] NATO'S RUTTE SAYS RUSSIA THREAT ASSESSMENT NOW IS SAME AS THREE WEEKS, THREE MONTHS AGO, A YEAR AGO
-- 09/30 22:42 [FirstSquawk] NATO'S RUTTE: THERE IS NO IMMINENT THREAT TO NATO TERRITORY
-- 09/30 22:45 [FirstSquawk] ISRAEL’S DEFENSE MINISTER KATZ CITING PRELIMINARY INFORMATION: THE ATTACKER INTENDED TO CRASH THE PLANE, KILLING EVERYONE ON BOARD
-- 09/30 22:45 [financialjuice] US CHICAGO PMI ACTUAL 58.8 (FORECAST 51, PREVIOUS 47.1) $MACRO
-- 09/30 22:45 [FirstSquawk] US MNI CHICAGO PMI SEP: 58.8 (EST 51.0; PREV 47.1)
-- 09/30 22:46 [DeItaone] *US SEPT. MNI CHICAGO REPORT BUSINESS INDEX AT 58.8; EST 51.0
-- 09/30 22:47 [FirstSquawk] PM MODI: HAD A PRODUCTIVE CONVERSATION WITH US PRESIDENT TRUMP
-- 09/30 22:48 [FirstSquawk] PM MODI: ALSO EXCHANGED VIEWS ON REGIONAL AND INTERNATIONAL ISSUES, INCLUDING ONGOING EFFORTS TO ADVANCE GLOBAL PEACE AND SECURITY
-- 09/30 22:50 [FirstSquawk] ISRAEL DEFENCE MINISTER KATZ: INCIDENT ABOARD FLYDUBAI FLIGHT WAS A 'JIHADIST TERROR ATTACK' ATTEMPT
-- 09/30 22:51 [FirstSquawk] TRUMP TO ANNOUNCE 8 NUCLEAR POWER PLANTS FUNDED BY S.KOREA
 - 09/30 22:52 [financialjuice] White House Official: Trump to announce 8 nuclear power plants funded by South Korea. Announcing South Korea’s $200 bln investment in US
 - 09/30 22:53 [financialjuice] EASA issues advisory to airlines over Saudi airspace following recent increase in Houthi attacks
 - 09/30 22:53 [financialjuice] Latest EASA advisory does not mention Wednesday's incident involving diverted FlyDubai airliner.
@@ -202,3 +191,12 @@
 - 10/01 04:28 [FirstSquawk] US DEFENSE SECRETARY HEGSETH ANNOUNCES CREATION OF NEW AUTONOMOUS WARFARE COMMAND
 - 10/01 04:30 [financialjuice] LIVE: Trump announces plans for a $54 billion project in Alaska
 - 10/01 04:35 [financialjuice] US Sec. of Defense Hegseth on new Autonomous Warfare Command: Musk, Gingrich, and Luckey will lead the new Pentagon project
+- 10/01 04:39 [financialjuice] US Sec. of Defense Hegseth: Major US military installations to generate their own power.
+- 10/01 04:41 [FirstSquawk] US DEFENSE SECRETARY HEGSETH: MUSK, GINGRICH & LUCKEY TO LEAD NEW PENTAGON AUTONOMOUS WARFARE PROJECT
+- 10/01 04:42 [FirstSquawk] US DEFENSE SECRETARY HEGSETH: MAJOR US MILITARY INSTALLATIONS TO GENERATE THEIR OWN POWER
+- 10/01 04:48 [FirstSquawk] FLYDUBAI SAYS ITS FLIGHTS TO AND FROM ISRAEL WILL BE SUSPENDED WHILE THE INVESTIGATION CONTINUES, ADDING THAT THE TEMPORARY SUSPENSION WILL ALLOW THE RELEVANT AUTHORITIES TO CONTINUE THEIR WORK AND ESTABLISH ALL THE FACTS SURROUNDING THE IN…
+- 10/01 04:48 [FirstSquawk] FLYDUBAI SAYS IT REMAINS IN CLOSE COORDINATION WITH GOVERNMENT AUTHORITIES, REGULATORS AND AIRPORT STAKEHOLDERS AND WILL REVIEW THE SUSPENSION AS MORE INFORMATION BECOMES AVAILABLE - STATEMENT
+- 10/01 04:49 [FirstSquawk] TRUMP SAYS HE ASKED ATTORNEY GENERAL TO STUDY FEDERAL RESERVE REPORT
+- 10/01 04:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: -6771.9 MLN NASDAQ 100: -2790.7 MLN DOW 30: -2444.3 MLN MAG 7: -1731.5 MLN $MACRO
+- 10/01 04:51 [financialjuice] AI can exhibit 'self-preserving behaviors,' 'resist shutdown,’ ’conceal or manipulate information' - Anthropic's IPO Filing.
+- 10/01 04:51 [FirstSquawk] TRUMP SAYS FED CHAIR POWELL SHOULD BE “FORCED TO RESIGN”; ASKS ATTORNEY GENERAL BLANCHE TO REVIEW FED REPORT

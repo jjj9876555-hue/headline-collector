@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-01 04:35 JST／対象: 09/30 16:35 〜 10/01 04:35 JST（時刻はすべて日本時間）
+生成: 2026-10-01 04:52 JST／対象: 09/30 16:52 〜 10/01 04:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 68 | 09/30 18:55 | 10/01 04:26 | ⚠ 77分（00:53→02:11） |
-| FirstSquawk | 137 | 09/30 16:55 | 10/01 04:28 | 31分（17:30→18:02） |
-| financialjuice | 169 | 09/30 16:55 | 10/01 04:35 | ⚠ 50分（17:10→18:01） |
+| FirstSquawk | 143 | 09/30 16:55 | 10/01 04:51 | 31分（17:30→18:02） |
+| financialjuice | 172 | 09/30 16:55 | 10/01 04:51 | ⚠ 50分（17:10→18:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 361 行（統合前 375 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 370 行（統合前 384 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -385,3 +385,12 @@
 - 10/01 04:28 [FirstSquawk] US DEFENSE SECRETARY HEGSETH ANNOUNCES CREATION OF NEW AUTONOMOUS WARFARE COMMAND
 - 10/01 04:30 [financialjuice] LIVE: Trump announces plans for a $54 billion project in Alaska
 - 10/01 04:35 [financialjuice] US Sec. of Defense Hegseth on new Autonomous Warfare Command: Musk, Gingrich, and Luckey will lead the new Pentagon project
+- 10/01 04:39 [financialjuice] US Sec. of Defense Hegseth: Major US military installations to generate their own power.
+- 10/01 04:41 [FirstSquawk] US DEFENSE SECRETARY HEGSETH: MUSK, GINGRICH & LUCKEY TO LEAD NEW PENTAGON AUTONOMOUS WARFARE PROJECT
+- 10/01 04:42 [FirstSquawk] US DEFENSE SECRETARY HEGSETH: MAJOR US MILITARY INSTALLATIONS TO GENERATE THEIR OWN POWER
+- 10/01 04:48 [FirstSquawk] FLYDUBAI SAYS ITS FLIGHTS TO AND FROM ISRAEL WILL BE SUSPENDED WHILE THE INVESTIGATION CONTINUES, ADDING THAT THE TEMPORARY SUSPENSION WILL ALLOW THE RELEVANT AUTHORITIES TO CONTINUE THEIR WORK AND ESTABLISH ALL THE FACTS SURROUNDING THE IN…
+- 10/01 04:48 [FirstSquawk] FLYDUBAI SAYS IT REMAINS IN CLOSE COORDINATION WITH GOVERNMENT AUTHORITIES, REGULATORS AND AIRPORT STAKEHOLDERS AND WILL REVIEW THE SUSPENSION AS MORE INFORMATION BECOMES AVAILABLE - STATEMENT
+- 10/01 04:49 [FirstSquawk] TRUMP SAYS HE ASKED ATTORNEY GENERAL TO STUDY FEDERAL RESERVE REPORT
+- 10/01 04:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: -6771.9 MLN NASDAQ 100: -2790.7 MLN DOW 30: -2444.3 MLN MAG 7: -1731.5 MLN $MACRO
+- 10/01 04:51 [financialjuice] AI can exhibit 'self-preserving behaviors,' 'resist shutdown,’ ’conceal or manipulate information' - Anthropic's IPO Filing.
+- 10/01 04:51 [FirstSquawk] TRUMP SAYS FED CHAIR POWELL SHOULD BE “FORCED TO RESIGN”; ASKS ATTORNEY GENERAL BLANCHE TO REVIEW FED REPORT
