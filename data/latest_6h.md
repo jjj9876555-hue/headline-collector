@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-30 18:00 JST／対象: 09/30 12:00 〜 09/30 18:00 JST（時刻はすべて日本時間）
+生成: 2026-09-30 18:21 JST／対象: 09/30 12:21 〜 09/30 18:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 89 | 09/30 12:03 | 09/30 17:30 | 22分（16:33→16:55） |
-| financialjuice | 38 | 09/30 12:18 | 09/30 17:10 | ⚠ 58分（14:00→14:59） |
+| FirstSquawk | 84 | 09/30 12:25 | 09/30 18:07 | 31分（17:30→18:02） |
+| financialjuice | 43 | 09/30 13:02 | 09/30 18:05 | ⚠ 58分（14:00→14:59） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 126 行（統合前 127 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 127 行（統合前 127 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 12:03 [FirstSquawk] Air New Zealand refers to TAIC report on engine fire aboard NZ5366 flight from Christchurch to Wellington
-- 09/30 12:03 [FirstSquawk] TAIC found turbine blade fatigue caused Air New Zealand flight fire, with no evidence of maintenance or operating issues contributing to failure
-- 09/30 12:04 [FirstSquawk] Air New Zealand says TAIC found no other similar turbine blade failures in PW100 engine series
-- 09/30 12:04 [FirstSquawk] Air New Zealand accepts TAIC findings, cites changes to training, procedures and passenger safety information
-- 09/30 12:09 [FirstSquawk] JPMorgan lifts Mondi target price to 890p from 800p
-- 09/30 12:15 [FirstSquawk] Singapore dollar steadies ahead of major U.S. economic data — WSJ
-- 09/30 12:18 [financialjuice/FirstSquawk] China Finance Ministry to sell 20 billion yuan of 28-day bills on Oct. 8
-- 09/30 12:19 [financialjuice] China finance ministry: to reopen 80 billion yuan 10-year bonds on Oct. 9
-- 09/30 12:19 [FirstSquawk] China Finance Ministry to sell 80 billion yuan of reopened 10-year bonds on Oct. 9
 - 09/30 12:25 [FirstSquawk] Human Made ramps up global expansion as Japanese fashion brand
 - 09/30 12:32 [FirstSquawk] Trump expected to announce South Korea investment projects as early as Wednesday, YONHAP says
 - 09/30 12:36 [FirstSquawk] Japan 2-year JGB auction sees bid-to-cover ratio of 3.89
@@ -150,3 +141,13 @@
 - 09/30 17:14 [FirstSquawk] IRAN'S FOREIGN MINISTER ARAQCHI INFORMED IRANIAN CABINET OF RECEIVING U.S. PROPOSAL, GOVERNMENT SPOKESPERSON SAYS - X POST
 - 09/30 17:30 [FirstSquawk] IRAN'S ARAGHCHI DISCUSSED A U.S. PROPOSAL WITH THE IRANIAN PRESIDENT, ACCORDING TO IRNA.
 - 09/30 17:30 [FirstSquawk] IRAN'S OFFICIAL AGENCY IRNA REPORTS GOVERNMENT SPOKESWOMAN DISCUSSING US PROPOSAL.
+- 09/30 18:01 [financialjuice] Top house judiciary committee Democrat Raskin seeks information on data center NDAs - According to Letters Reviewed by WSJ
+- 09/30 18:01 [financialjuice] ITALIAN CPI MOM PRELIM ACTUAL 0.7% (FORECAST 0.3%, PREVIOUS 0.5%) $MACRO
+- 09/30 18:01 [financialjuice] ITALIAN HICP PRELIM MOM ACTUAL 2.0% (FORECAST 1.7%, PREVIOUS 0.1%) $MACRO
+- 09/30 18:01 [financialjuice] ITALIAN CPI YOY PRELIM ACTUAL 4.2% (FORECAST 3.7%, PREVIOUS 3.3%) $MACRO
+- 09/30 18:01 [financialjuice] ITALIAN HICP PRELIM YOY ACTUAL 4.1% (FORECAST 3.7%, PREVIOUS 3.2%) $MACRO
+- 09/30 18:02 [FirstSquawk] ITALY'S PRELIMINARY SEPTEMBER HARMONIZED CPI INCREASES 4.1% YEAR-OVER-YEAR, ABOVE ESTIMATE OF 3.7%.
+- 09/30 18:02 [financialjuice] Rep. Raskin sent letters to Amazon, Google, Meta, Oracle - WSJ.
+- 09/30 18:04 [FirstSquawk] META AVOIDS BILLIONS IN FEDERAL TAXES BY CLASSIFYING ITS DATA CENTRES AS EXPERIMENTAL - NYT
+- 09/30 18:05 [financialjuice] Meta told IRS data centers are experimental, could fail - NYT
+- 09/30 18:07 [FirstSquawk] ISRAELI OFFICIAL TO I24 REPORTER: INCIDENT ABOARD THE FLYDUBAI FLIGHT WAS A TERRORIST ATTACK.
