@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-30 12:54 JST／対象: 09/30 06:54 〜 09/30 12:54 JST（時刻はすべて日本時間）
+生成: 2026-09-30 13:19 JST／対象: 09/30 07:19 〜 09/30 13:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 115 | 09/30 08:05 | 09/30 12:54 | 25分（08:09→08:35） |
-| financialjuice | 67 | 09/30 07:40 | 09/30 12:19 | ⚠ 80分（10:57→12:18） |
+| FirstSquawk | 119 | 09/30 08:05 | 09/30 13:16 | 25分（08:09→08:35） |
+| financialjuice | 69 | 09/30 07:40 | 09/30 13:15 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 181 行（統合前 182 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 187 行（統合前 188 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -205,3 +205,9 @@
 - 09/30 12:44 [FirstSquawk] More than 3,000 food items in Japan to face price hikes in October
 - 09/30 12:48 [FirstSquawk] New Zealand dollar consolidates near 0.5625 support amid uncertain outlook - FX
 - 09/30 12:54 [FirstSquawk] Boeing chosen by Pentagon to build new carrier fighter jet replacing F/A-18 — SCMP
+- 09/30 12:59 [FirstSquawk] South Korea urges North Korea to apologize over DMZ mine blast and stop border fortification work
+- 09/30 13:02 [FirstSquawk] AI industry seeks to ease data centre backlash ahead of U.S. midterm elections — FT
+- 09/30 13:02 [financialjuice] White House holds critical talks on diesel export ban as midterms approach - FT
+- 09/30 13:05 [FirstSquawk] White House weighs diesel export ban ahead of U.S. midterms — FT
+- 09/30 13:15 [financialjuice] Iran executes two men accused of killing security forces during early 2026 protests: SNN
+- 09/30 13:16 [FirstSquawk] Iran executes two men over alleged killings of security forces during early 2026 protests — SNN

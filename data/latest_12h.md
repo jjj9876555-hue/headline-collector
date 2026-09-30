@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-30 12:54 JST／対象: 09/30 00:54 〜 09/30 12:54 JST（時刻はすべて日本時間）
+生成: 2026-09-30 13:19 JST／対象: 09/30 01:19 〜 09/30 13:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 37 | 09/30 01:01 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
-| FirstSquawk | 214 | 09/30 01:20 | 09/30 12:54 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 266 | 09/30 00:55 | 09/30 12:19 | ⚠ 80分（10:57→12:18） |
+| DeItaone | 34 | 09/30 01:24 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
+| FirstSquawk | 218 | 09/30 01:20 | 09/30 13:16 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 256 | 09/30 01:20 | 09/30 13:15 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 508 行（統合前 521 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 499 行（統合前 512 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 00:55 [financialjuice] ECB's Demarco: Recent rise in L-T bond yields quite worrying.
-- 09/30 00:55 [financialjuice] ECB's DeMarco: The economic situation is quite fragile.
-- 09/30 01:00 [financialjuice] France to issue €340 bln of medium and long-term bonds next year, net of buybacks - AFT
-- 09/30 01:01 [financialjuice] France's stock of outstanding T-bills seen increasing by €2.2 bln in 2027 - AFT.
-- 09/30 01:01 [financialjuice] French 3-Month T-bills seen at 3% next year, 10-Yr benchmark at 4.3% - AFT
-- 09/30 01:01 [DeItaone] FRANCE FACES RECORD €340 BILLION BORROWING WAVE France plans to issue €340 billion of medium- and long-term debt in 2027, as its total borrowing requirement reaches €339.7 billion. A record €189.2 billion of debt redemptions will add to ref…
-- 09/30 01:02 [financialjuice] META: Releases forum app for iOS and Android in US. $META
-- 09/30 01:11 [financialjuice] OpenAI's Altman: Model scrapped out of abundance of caution - CNBC
-- 09/30 01:11 [DeItaone] U.S.-CHINA TARIFF DEAL LEAVES LNG OUT The latest U.S.-China tariff agreement does not include LNG, leaving JKM and TTF pricing largely unaffected, according to Platts. The newly created U.S.-China Board of Trade could eventually expand nego…
-- 09/30 01:12 [financialjuice] OpenAI's Altman: Will have many great new models.
-- 09/30 01:15 [financialjuice] OpenAI's Altman: Nvidia security system not a full solution. $NVDA
-- 09/30 01:16 [DeItaone] ALTMAN: AI HAS MORE OF A SCIENCE PROBLEM THAN ENGINEERING ALTMAN: NVIDIA SECURITY SYSTEM NOT 'A FULL SOLUTION'
-- 09/30 01:17 [financialjuice] Altman: Muse is a nice product, not threatened by Meta. $META
-- 09/30 01:17 [financialjuice] BoE's Taylor: BoE agents' survey of firms' wage intentions, due in January 2027, will be very significant data point
-- 09/30 01:19 [financialjuice] OpenAI CEO Altman: Don't have an IPO timeline in mind
 - 09/30 01:20 [financialjuice] OpenAI CEO Altman wraps up interview on CNBC
 - 09/30 01:20 [FirstSquawk] OPENAI’S ALTMAN: NOT THREATENED BY META, MUSE IS A NICE PRODUCT
 - 09/30 01:20 [FirstSquawk] OPENAI’S ALTMAN: NO IPO TIMELINE IN MIND
@@ -532,3 +517,9 @@
 - 09/30 12:44 [FirstSquawk] More than 3,000 food items in Japan to face price hikes in October
 - 09/30 12:48 [FirstSquawk] New Zealand dollar consolidates near 0.5625 support amid uncertain outlook - FX
 - 09/30 12:54 [FirstSquawk] Boeing chosen by Pentagon to build new carrier fighter jet replacing F/A-18 — SCMP
+- 09/30 12:59 [FirstSquawk] South Korea urges North Korea to apologize over DMZ mine blast and stop border fortification work
+- 09/30 13:02 [FirstSquawk] AI industry seeks to ease data centre backlash ahead of U.S. midterm elections — FT
+- 09/30 13:02 [financialjuice] White House holds critical talks on diesel export ban as midterms approach - FT
+- 09/30 13:05 [FirstSquawk] White House weighs diesel export ban ahead of U.S. midterms — FT
+- 09/30 13:15 [financialjuice] Iran executes two men accused of killing security forces during early 2026 protests: SNN
+- 09/30 13:16 [FirstSquawk] Iran executes two men over alleged killings of security forces during early 2026 protests — SNN

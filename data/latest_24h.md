@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-30 12:54 JST／対象: 09/29 12:54 〜 09/30 12:54 JST（時刻はすべて日本時間）
+生成: 2026-09-30 13:19 JST／対象: 09/29 13:19 〜 09/30 13:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 88 | 09/29 20:26 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
-| FirstSquawk | 438 | 09/29 13:11 | 09/30 12:54 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 426 | 09/29 13:03 | 09/30 12:19 | ⚠ 80分（10:57→12:18） |
+| FirstSquawk | 433 | 09/29 13:20 | 09/30 13:16 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 424 | 09/29 13:30 | 09/30 13:15 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 926 行（統合前 958 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 919 行（統合前 951 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 13:03 [financialjuice] Germany delivers EU budget ultimatum - FT
-- 09/29 13:05 [financialjuice] Germany, the Netherlands, Sweden, Denmark, Austria and Finland tell Brussels to cut ‘hundreds of billions’ in planned spending - FT
-- 09/29 13:06 [financialjuice] Nvidia turns to insurers to share risk of AI expansion - FT
-- 09/29 13:11 [FirstSquawk] US says Houthi ties to al-Shabaab could endanger Red Sea trade, FT reports
-- 09/29 13:11 [FirstSquawk] European banks move to reclaim fees from BlackRock and Vanguard, FT says
-- 09/29 13:12 [FirstSquawk] Nvidia looks to insurers to mitigate risks from AI build-out, FT says
-- 09/29 13:13 [FirstSquawk] Oil-Treasury yield relationship reaches tightest level since 1990, FT says
-- 09/29 13:13 [FirstSquawk] UK tech founders push PM to relax non-compete rules amid US competition, FT says
-- 09/29 13:14 [FirstSquawk] UniCredit preparing to convene extraordinary general meeting pending final regulatory approvals for Commerzbank control, FT says
-- 09/29 13:14 [FirstSquawk] FT: Germany delivers EU budget ultimatum over ‘billions’ in planned spending
-- 09/29 13:17 [FirstSquawk] White House says Democrats are responsible for failure to pass Crypto Clarity Act - WatcherGuru
-- 09/29 13:18 [FirstSquawk] Jefferies increases Ferrari target price to $460 from $435
-- 09/29 13:19 [financialjuice] Alaris Equity Partners income trust ad_u:to: Canaccord Genuity lifts target to C$30.25 from C$30
 - 09/29 13:20 [FirstSquawk] JPMorgan downgrades PepsiCo to Neutral, cuts price target to $138 from $170
 - 09/29 13:30 [financialjuice] ‼ BREAKING: RBA CASH RATE ACTUAL 4.6% (FORECAST 4.6%, PREVIOUS 4.35%) $MACRO
 - 09/29 13:30 [financialjuice] Reserve Bank of Australia at its meeting today raises cash rate target by 25 basis points to 4.60%
@@ -950,3 +937,9 @@
 - 09/30 12:44 [FirstSquawk] More than 3,000 food items in Japan to face price hikes in October
 - 09/30 12:48 [FirstSquawk] New Zealand dollar consolidates near 0.5625 support amid uncertain outlook - FX
 - 09/30 12:54 [FirstSquawk] Boeing chosen by Pentagon to build new carrier fighter jet replacing F/A-18 — SCMP
+- 09/30 12:59 [FirstSquawk] South Korea urges North Korea to apologize over DMZ mine blast and stop border fortification work
+- 09/30 13:02 [FirstSquawk] AI industry seeks to ease data centre backlash ahead of U.S. midterm elections — FT
+- 09/30 13:02 [financialjuice] White House holds critical talks on diesel export ban as midterms approach - FT
+- 09/30 13:05 [FirstSquawk] White House weighs diesel export ban ahead of U.S. midterms — FT
+- 09/30 13:15 [financialjuice] Iran executes two men accused of killing security forces during early 2026 protests: SNN
+- 09/30 13:16 [FirstSquawk] Iran executes two men over alleged killings of security forces during early 2026 protests — SNN
