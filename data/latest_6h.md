@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-30 16:06 JST／対象: 09/30 10:06 〜 09/30 16:06 JST（時刻はすべて日本時間）
+生成: 2026-09-30 16:30 JST／対象: 09/30 10:30 〜 09/30 16:30 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 123 | 09/30 10:07 | 09/30 16:01 | 17分（13:16→13:33） |
-| financialjuice | 60 | 09/30 10:16 | 09/30 16:01 | ⚠ 80分（10:57→12:18） |
+| FirstSquawk | 119 | 09/30 10:32 | 09/30 16:29 | 17分（13:16→13:33） |
+| financialjuice | 56 | 09/30 10:30 | 09/30 16:01 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 182 行（統合前 183 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 174 行（統合前 175 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 10:07 [FirstSquawk] South Korea calls for closer coordination between donor and recipient nations on development projects - yonhap
-- 09/30 10:11 [FirstSquawk] South Korean envoy says Seoul remains committed to facilitating renewed U.S.-North Korea dialogue - yonhap
-- 09/30 10:13 [FirstSquawk] Fitch Ratings says Vietnam banks’ capitalisation will remain steady as lenders pursue $5.7 billion in fresh capital
-- 09/30 10:15 [FirstSquawk] PBOC fixes yuan midpoint at 6.7351 against the dollar
-- 09/30 10:16 [FirstSquawk] Shanghai benchmark rubber futures gain more than 3.9%
-- 09/30 10:16 [financialjuice] China sets yuan midpoint at strongest level since Feb. 2, 2023
-- 09/30 10:20 [FirstSquawk] Taiwan stocks climb 1.2%, with benchmark index at 48,211.54 points
-- 09/30 10:20 [FirstSquawk] Gold prices remain subdued as investors await U.S. economic data — WSJ
-- 09/30 10:20 [financialjuice] Shares of Shenzhen Camsense Technologies set to open at HK$168 in Hong Kong debut versus offer price HK$58.85 apiece
-- 09/30 10:23 [financialjuice] China injects 833.5 bln yuan via overnight reverse repos: statement
-- 09/30 10:23 [FirstSquawk] PBOC injects 833.5 billion yuan through overnight reverse repo operations
-- 09/30 10:27 [financialjuice] China pauses 7-day reverse repos: statement
-- 09/30 10:27 [FirstSquawk] PBOC conducts no 7-day reverse repo operations
-- 09/30 10:28 [FirstSquawk] China’s CSI 300 Real Estate Index seen declining 5%
 - 09/30 10:30 [financialjuice] ‼ BREAKING: AUSTRALIAN CPI YOY NSA ACTUAL 4% (FORECAST 4.1%, PREVIOUS 3.5%) $MACRO
 - 09/30 10:30 [financialjuice] ❗ AUSTRALIAN BUILDING APPROVALS ACTUAL -6.1% (FORECAST -1%, PREVIOUS -3.6%) $MACRO
 - 09/30 10:30 [financialjuice] ❗ AUSTRALIAN CPI TRIMMED MEAN YOY ACTUAL 3.6% (FORECAST 3.6%, PREVIOUS 3.6%) $MACRO
@@ -206,3 +192,9 @@
 - 09/30 15:48 [FirstSquawk] FRANCE (SEP) CPI EU HARMONIZED MOM ACTUAL: -0.4% VS 0.7% PREVIOUS;EST -0.5%
 - 09/30 16:01 [financialjuice] Russia extends diesel export ban through October - IFX
 - 09/30 16:01 [FirstSquawk] Israeli prime minister’s spokesperson says Flydubai incident is not a hijacking
+- 09/30 16:14 [FirstSquawk] RUSSIA HAS DECIDED TO CONTINUE ITS BAN ON DIESEL EXPORTS UNTIL OCTOBER.
+- 09/30 16:14 [FirstSquawk] S. KOREA FOREIGN EXCHANGE OFFICIALS SOLD A NET OF $9.61 BILLION IN THE MARKET DURING THE SECOND QUARTER.
+- 09/30 16:14 [FirstSquawk] CHINA'S FOREIGN MINISTRY WILL STOP BRIEFINGS FROM OCTOBER 1 TO 7 AND WILL RESUME ON OCTOBER 8.
+- 09/30 16:23 [FirstSquawk] IRAQ'S DAILY OIL EXPORTS AVERAGED 2.65 MILLION BPD IN SEPTEMBER, WITH 250,000 BPD SHIPPED THROUGH TURKEY'S CEYHAN PORT, ACCORDING TO THE OIL MINISTRY SPOKESPERSON.
+- 09/30 16:23 [FirstSquawk] US OFFICIALLY ENDS OPERATION INHERENT RESOLVE IN IRAQ.
+- 09/30 16:29 [FirstSquawk] FLY DUBAI FLIGHT FZ 1073 FROM DUBAI TO TEL AVIV HAD A SITUATION ON 30 SEPTEMBER.

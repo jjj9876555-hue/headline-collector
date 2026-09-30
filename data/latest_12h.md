@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-30 16:06 JST／対象: 09/30 04:06 〜 09/30 16:06 JST（時刻はすべて日本時間）
+生成: 2026-09-30 16:30 JST／対象: 09/30 04:30 〜 09/30 16:30 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 19 | 09/30 04:27 | 09/30 05:46 | 23分（05:12→05:36） |
-| FirstSquawk | 218 | 09/30 04:09 | 09/30 16:01 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 152 | 09/30 04:09 | 09/30 16:01 | ⚠ 80分（10:57→12:18） |
+| DeItaone | 18 | 09/30 04:41 | 09/30 05:46 | 23分（05:12→05:36） |
+| FirstSquawk | 219 | 09/30 04:39 | 09/30 16:29 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 146 | 09/30 04:35 | 09/30 16:01 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 382 行（統合前 390 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 377 行（統合前 383 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 04:09 [financialjuice] Qatar is going to allow the use of drones in designated areas - Interior Ministry.
-- 09/30 04:09 [FirstSquawk] QATAR TO ALLOW DRONE USE IN DESIGNATED AREAS — INTERIOR MINISTRY
-- 09/30 04:10 [financialjuice] Iran Foreign Ministry warns regional countries of the consequences of Israeli Prime Minister Netanyahu's visit to the UAE - Fars News.
-- 09/30 04:16 [FirstSquawk] APPLE PAY TO LAUNCH IN INDIA WITH AXIS BANK ON TUESDAY — TECHCRUNCH
-- 09/30 04:21 [financialjuice] Trump and Tech Executives discussed industry standards, audits - CBS
-- 09/30 04:22 [financialjuice] OPEC+ is likely to stick with the plan for steady quotas - Delegates.
-- 09/30 04:24 [FirstSquawk] OPEC+ MEMBERS LED BY SAUDI ARABIA AND RUSSIA ARE LIKELY TO KEEP CRUDE PRODUCTION QUOTAS UNCHANGED FOR NOVEMBER, WITH DELEGATES EXPECTING THE GROUP TO RATIFY ITS EXISTING ROADMAP AT SUNDAY’S MEETING. MILLIONS OF BARRELS OF MIDDLE EASTERN PRO…
-- 09/30 04:24 [financialjuice] Iran's President's Office: We will not compromise on nuclear rights in any way; this was a key point highlighted in the President's speech - IRIB News.
-- 09/30 04:25 [financialjuice/FirstSquawk] CEO inside the room@: AI industry is ramping up - Fox
-- 09/30 04:27 [DeItaone] *OPEC+ LIKELY TO STICK WITH PLAN FOR STEADY QUOTAS: DELEGATES
-- 09/30 04:28 [FirstSquawk] IRAN PRESIDENT’S OFFICE: IRAN WILL NOT COMPROMISE ON ITS NUCLEAR RIGHTS — IRIB NEWS
 - 09/30 04:35 [financialjuice] House Speaker Johnson: Held a very productive meeting with tech executives
 - 09/30 04:38 [financialjuice] US House Speaker Johnson: AI providers are committed to building trust.
 - 09/30 04:39 [FirstSquawk] U.S. HOUSE SPEAKER JOHNSON SAYS ON A MEETING WITH AI LEADERS THAT THEY 'DISCUSSED STRIKING THE RIGHT BALANCE' AND AI COMPANIES ENSURING SAFETY, WITH AI PROVIDERS 'COMMITTED TO BUILDING TRUST'.
@@ -406,3 +395,9 @@
 - 09/30 15:48 [FirstSquawk] FRANCE (SEP) CPI EU HARMONIZED MOM ACTUAL: -0.4% VS 0.7% PREVIOUS;EST -0.5%
 - 09/30 16:01 [financialjuice] Russia extends diesel export ban through October - IFX
 - 09/30 16:01 [FirstSquawk] Israeli prime minister’s spokesperson says Flydubai incident is not a hijacking
+- 09/30 16:14 [FirstSquawk] RUSSIA HAS DECIDED TO CONTINUE ITS BAN ON DIESEL EXPORTS UNTIL OCTOBER.
+- 09/30 16:14 [FirstSquawk] S. KOREA FOREIGN EXCHANGE OFFICIALS SOLD A NET OF $9.61 BILLION IN THE MARKET DURING THE SECOND QUARTER.
+- 09/30 16:14 [FirstSquawk] CHINA'S FOREIGN MINISTRY WILL STOP BRIEFINGS FROM OCTOBER 1 TO 7 AND WILL RESUME ON OCTOBER 8.
+- 09/30 16:23 [FirstSquawk] IRAQ'S DAILY OIL EXPORTS AVERAGED 2.65 MILLION BPD IN SEPTEMBER, WITH 250,000 BPD SHIPPED THROUGH TURKEY'S CEYHAN PORT, ACCORDING TO THE OIL MINISTRY SPOKESPERSON.
+- 09/30 16:23 [FirstSquawk] US OFFICIALLY ENDS OPERATION INHERENT RESOLVE IN IRAQ.
+- 09/30 16:29 [FirstSquawk] FLY DUBAI FLIGHT FZ 1073 FROM DUBAI TO TEL AVIV HAD A SITUATION ON 30 SEPTEMBER.

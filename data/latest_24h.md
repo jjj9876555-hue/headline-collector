@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-30 16:06 JST／対象: 09/29 16:06 〜 09/30 16:06 JST（時刻はすべて日本時間）
+生成: 2026-09-30 16:30 JST／対象: 09/29 16:30 〜 09/30 16:30 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 88 | 09/29 20:26 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
-| FirstSquawk | 422 | 09/29 16:10 | 09/30 16:01 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 405 | 09/29 16:13 | 09/30 16:01 | ⚠ 80分（10:57→12:18） |
+| FirstSquawk | 423 | 09/29 16:36 | 09/30 16:29 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 403 | 09/29 16:39 | 09/30 16:01 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 889 行（統合前 921 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 888 行（統合前 920 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 16:10 [FirstSquawk] BRITAIN'S FTSE 100 UP 0.18% || FRANCE'S CAC 40 UP 0.05% || SPAIN'S IBEX UP 0.26% || GERMANY'S DAX UP 0.08%
-- 09/29 16:10 [FirstSquawk] NHTSA HAS CLOSED A DEFECT PETITION REGARDING 806,963 HONDA ODYSSEY VEHICLES IN THE U.S. DUE TO AIRBAGS DEPLOYING UNINTENTIONALLY WHILE DRIVING.
-- 09/29 16:11 [FirstSquawk] NHTSA ENDS INITIAL REVIEW OF 1,076,999 CHRYSLER CARS DUE TO UNDERHOOD FIRES WHEN VEHICLES ARE TURNED OFF.
-- 09/29 16:13 [financialjuice] Iran's Revolutionary Guards Spokesperson: Trump is 'a big liar’, US people need to be told the truth.
-- 09/29 16:14 [FirstSquawk] IRAN'S REVOLUTIONARY GUARDS SPOKESPERSON CALLS TRUMP 'A BIG LIAR' AND SAYS US CITIZENS DESERVE THE TRUTH.
-- 09/29 16:25 [financialjuice] Iran's IRGC Spokesperson: US has no other choice but to declare failure and leave the region.
-- 09/29 16:26 [FirstSquawk] IRAN'S IRGC SPOKESPERSON CLAIMS US MUST ADMIT DEFEAT AND EXIT THE REGION.
 - 09/29 16:36 [FirstSquawk] SPANISH ENERGY MINISTER AAGESEN SAYS SPAIN, PORTUGAL, LUXEMBOURG SENT A LETTER ASKING COMMISSION FOR A NEW TARGET OF RENEWABLE ENERGY CAPACITY
 - 09/29 16:39 [financialjuice/FirstSquawk] Iran's Parliament Speaker Qalibaf: No one in the region shall sell its oil if Iran cannot sell its oil, if Iran has no security then no regional infrastructure shall be safe - State Media
 - 09/29 16:47 [FirstSquawk] SPANISH ENERGY MINISTER AAGESEN SUGGESTS THAT THE EU SHOULD CONSIDER MEASURES TO HARNESS WINDFALL PROFITS DUE TO HIGH ENERGY PRICES.
@@ -913,3 +906,9 @@
 - 09/30 15:48 [FirstSquawk] FRANCE (SEP) CPI EU HARMONIZED MOM ACTUAL: -0.4% VS 0.7% PREVIOUS;EST -0.5%
 - 09/30 16:01 [financialjuice] Russia extends diesel export ban through October - IFX
 - 09/30 16:01 [FirstSquawk] Israeli prime minister’s spokesperson says Flydubai incident is not a hijacking
+- 09/30 16:14 [FirstSquawk] RUSSIA HAS DECIDED TO CONTINUE ITS BAN ON DIESEL EXPORTS UNTIL OCTOBER.
+- 09/30 16:14 [FirstSquawk] S. KOREA FOREIGN EXCHANGE OFFICIALS SOLD A NET OF $9.61 BILLION IN THE MARKET DURING THE SECOND QUARTER.
+- 09/30 16:14 [FirstSquawk] CHINA'S FOREIGN MINISTRY WILL STOP BRIEFINGS FROM OCTOBER 1 TO 7 AND WILL RESUME ON OCTOBER 8.
+- 09/30 16:23 [FirstSquawk] IRAQ'S DAILY OIL EXPORTS AVERAGED 2.65 MILLION BPD IN SEPTEMBER, WITH 250,000 BPD SHIPPED THROUGH TURKEY'S CEYHAN PORT, ACCORDING TO THE OIL MINISTRY SPOKESPERSON.
+- 09/30 16:23 [FirstSquawk] US OFFICIALLY ENDS OPERATION INHERENT RESOLVE IN IRAQ.
+- 09/30 16:29 [FirstSquawk] FLY DUBAI FLIGHT FZ 1073 FROM DUBAI TO TEL AVIV HAD A SITUATION ON 30 SEPTEMBER.
