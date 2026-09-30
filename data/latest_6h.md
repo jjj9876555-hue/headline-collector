@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 02:38 JST／対象: 09/30 20:38 〜 10/01 02:38 JST（時刻はすべて日本時間）
+生成: 2026-10-01 02:53 JST／対象: 09/30 20:53 〜 10/01 02:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 34 | 09/30 20:48 | 10/01 02:31 | ⚠ 77分（00:53→02:11） |
-| FirstSquawk | 76 | 09/30 20:38 | 10/01 02:35 | 27分（02:02→02:30） |
-| financialjuice | 98 | 09/30 20:52 | 10/01 02:33 | 35分（01:01→01:37） |
+| DeItaone | 34 | 09/30 21:00 | 10/01 02:51 | ⚠ 77分（00:53→02:11） |
+| FirstSquawk | 76 | 09/30 21:00 | 10/01 02:40 | 27分（02:02→02:30） |
+| financialjuice | 104 | 09/30 21:00 | 10/01 02:48 | 35分（01:01→01:37） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 201 行（統合前 209 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 205 行（統合前 215 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 20:38 [FirstSquawk] CONAGRA Q1 2027 EARNINGS - ADJ. EPS 41C (EST 29C) - ADJ. OPER MARGIN 11.5% (EST 9.2%) - SALES $2.6B (EST $2.59B) - STILL SEES FY ADJ OPER MARGIN 10% TO 10.5% (EST 10.2%) - SEES FY ORGANIC NET SALES -1% TO -3% (EST -1.93%)
-- 09/30 20:48 [DeItaone] *EXPLOSION HEARD IN IRAN'S ZAHEDAN: FARS
-- 09/30 20:50 [FirstSquawk] EXPLOSION SOUND HEARD NEAR JAMOOHI BLVD IN ZAHEDAN; CAUSE UNKNOWN - FARS
-- 09/30 20:51 [DeItaone] IRAN: EXPLOSION REPORTED IN ZAHEDAN Iran’s Fars News Agency reports that an explosion was heard near Jomhuri Boulevard in Zahedan. The source of the blast remains unknown, with authorities yet to provide further details. More information is…
-- 09/30 20:52 [financialjuice] Explosion heard in IRAN'S southeastern city of Zahedan, source of detonation unknown - Fars News.
 - 09/30 21:00 [DeItaone] U.S. TREASURIES END A BRUTAL QUARTER The U.S. bond market is closing Q3 after a relentless selloff, with 10- and 30-year Treasury yields reaching multidecade highs. According to WSJ/Dow Jones Market Data: 🔸 10-year: +85 bps, biggest quarter…
 - 09/30 21:00 [financialjuice] ❗ GERMAN HICP YOY PRELIM ACTUAL 3.3% (FORECAST 3.2%, PREVIOUS 2.90%) $MACRO
 - 09/30 21:00 [financialjuice] GERMAN HICP MOM PRELIM ACTUAL 0.6% (FORECAST 0.5%, PREVIOUS 0.20%) $MACRO
@@ -225,3 +220,12 @@
 - 10/01 02:35 [FirstSquawk] TRUMP SAYS HE IS PLEASED TO ANNOUNCE THAT 'THE LAST AMERICAN FORCES ARE LEAVING IRAQ', CALLING IT 'A GREAT DAY FOR AMERICA' AND SAYING THE U.S. LEAVES WITH IRAQ HAVING 'A WONDERFUL NEW PRIME MINISTER, ALI AL-ZAIDI', WHOM HE SUPPORTED AND EN…
 - 10/01 02:35 [FirstSquawk] TRUMP SAYS OPERATION INHERENT RESOLVE — LAUNCHED IN 2003 UNDER GEORGE W. BUSH AND CONTINUED UNDER OBAMA IN 2014 AND JOE BIDEN — 'ENDS IN 2026 UNDER THE LEADERSHIP OF PRESIDENT DONALD J. TRUMP', CALLING IT 'A VICTORY FOR THE UNITED STATES, A…
 - 10/01 02:35 [FirstSquawk] TRUMP SAYS THAT UNLIKE AFGHANISTAN, 'WHERE MUCH MILITARY EQUIPMENT AND EVERYTHING ELSE WAS LEFT BEHIND, AND 13 WARRIORS LIE DEAD', THE 'ORDERLY DEPARTURE OF COALITION FORCES AND EQUIPMENT FROM ERBIL AIR BASE MARKS THE END OF A VERY EXPENSIV…
+- 10/01 02:39 [FirstSquawk] THE ICE OCTOBER RAW SUGAR DELIVERY IS SEEN AT 28,574 LOTS, OR 1.45 MLN METRIC TONS, TRADERS SAY, WITH ASIAN COMMODITIES TRADER WILMAR THE SOLE RECEIVER AND BTG PACTUAL COMMODITIES THE LARGEST DELIVERER ON THE ICE OCTOBER EXPIRATION
+- 10/01 02:39 [financialjuice] US Senate blocks legislation to cap electricity bill increases tied to data centers
+- 10/01 02:40 [financialjuice/FirstSquawk] USTR Greer: 10 more trade deals are on the way.
+- 10/01 02:40 [financialjuice] USTR Greer: In fairly frequent contact with Canadian counterpart.
+- 10/01 02:41 [financialjuice] USTR Greer: If Canadians want a deal, our door is always open.
+- 10/01 02:43 [financialjuice] USTR Greer: Don't like EU rules on imports of US gas and forestry
+- 10/01 02:43 [financialjuice] USTR Greer interview on Fox business ends
+- 10/01 02:48 [financialjuice/DeItaone] Trump on Iran: You will see things happening very soon
+- 10/01 02:51 [DeItaone] *TRUMP: HISTORIC FLOWS OF OIL OUT OF HORMUZ IN LAST 3 DAYS

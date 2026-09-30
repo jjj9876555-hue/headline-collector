@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-01 02:38 JST／対象: 09/30 02:38 〜 10/01 02:38 JST（時刻はすべて日本時間）
+生成: 2026-10-01 02:53 JST／対象: 09/30 02:53 〜 10/01 02:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 74 | 09/30 02:40 | 10/01 02:31 | ⚠ 789分（05:46→18:55） |
-| FirstSquawk | 378 | 09/30 02:43 | 10/01 02:35 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 350 | 09/30 02:40 | 10/01 02:33 | ⚠ 80分（10:57→12:18） |
+| DeItaone | 75 | 09/30 04:01 | 10/01 02:51 | ⚠ 789分（05:46→18:55） |
+| FirstSquawk | 374 | 09/30 02:56 | 10/01 02:40 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 347 | 09/30 02:54 | 10/01 02:48 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 785 行（統合前 806 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 777 行（統合前 800 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 02:40 [financialjuice] Fed's Barr: Economy is quite strong right now - Detroit Radio Station WJR
-- 09/30 02:40 [DeItaone] OPENAI SEEKS $30 BILLION AT $1.4 TRILLION VALUATION OpenAI is targeting at least $30 billion in new funding at a roughly $1.4 trillion valuation, Bloomberg reports, after postponing its IPO plans. The financing would serve as a bridge round…
-- 09/30 02:41 [financialjuice] Fed's Barr: People are frustrated and uncertain because inflation has been too high.
-- 09/30 02:42 [financialjuice] Fed's Barr: In the short term, the biggest effect of AI right now is driving up costs
-- 09/30 02:43 [FirstSquawk] BP'S WHITING REFINERY SAYS IT IS PROPOSING A 6-YEAR CONTRACT TERM THAT WOULD PROVIDE STABILITY FOR THE REFINERY AND EMPLOYEES, ALONG WITH AN EXTENDED NOTICE PERIOD BEFORE THE UNION CAN STRIKE OR THE COMPANY CAN INITIATE A LOCKOUT.
-- 09/30 02:43 [FirstSquawk] BP'S WHITING REFINERY SAYS IT WILL CONTINUE TO MEET WITH USW 7-1 REPRESENTATIVES TO FIND COMMON GROUND AS NEGOTIATIONS PROGRESS.
-- 09/30 02:43 [financialjuice] Fed's Goolsbee: Nothing in the Federal Reserve Act says make sure the bond market is happy or stock markets aren't surprised
-- 09/30 02:48 [financialjuice] Fed's Goolsbee: Need to revisit the logic of looking through supply shocks
-- 09/30 02:49 [financialjuice] Oklahoma Governor Stitt Seeks dyed Diesel tax pause for 120 days.
-- 09/30 02:49 [FirstSquawk] FED'S BARR SAYS THE ECONOMY IS QUITE STRONG RIGHT NOW, BUT THAT PEOPLE ARE FRUSTRATED AND UNCERTAIN BECAUSE INFLATION HAS BEEN TOO HIGH, ADDING THAT IN THE SHORT TERM THE BIGGEST EFFECT OF AI RIGHT NOW IS DRIVING UP COSTS - DETROIT RADIO ST…
-- 09/30 02:49 [financialjuice] Fed's Goolsbee: The fact we have been 5-1/2 years above inflation target is playing with fire
-- 09/30 02:50 [FirstSquawk] FED'S GOOLSBEE SAYS THE FACT THAT INFLATION HAS BEEN ABOVE THE TARGET FOR 5-1/2 YEARS IS 'PLAYING WITH FIRE', ADDING THAT THERE IS A NEED TO REVISIT THE LOGIC OF LOOKING THROUGH SUPPLY SHOCKS.
-- 09/30 02:50 [FirstSquawk] FEDS' GOOLSBEE SAYS 'NOTHING IN THE FEDERAL RESERVE ACT SAYS MAKE SURE THE BOND MARKET IS HAPPY OR STOCK MARKETS AREN'T SURPRISED'.
-- 09/30 02:50 [financialjuice] Fed's Goolsbee: Price of oil could go down relatively quickly, but the deeper problem is getting refineries back online
-- 09/30 02:51 [FirstSquawk] FED’S GOOLSBEE: OIL PRICES COULD FALL RELATIVELY QUICKLY, BUT KEY CHALLENGE IS RESTORING REFINERY OPERATIONS
-- 09/30 02:52 [financialjuice] Fed's Goolsbee: Keep your eye on productivity.
-- 09/30 02:53 [financialjuice] BoC's Gravelle: Timing of GoC bond purchases likely to be delayed
 - 09/30 02:54 [financialjuice] BoC's Gravelle: Balance sheet GoC purchases may not start until 2028.
 - 09/30 02:55 [financialjuice] OpenAI: Investigating elevated errors with ChatGPT, Codex
 - 09/30 02:56 [FirstSquawk] BANK OF CANADA PUSHES BACK TIMELINE FOR GOVERNMENT BOND PURCHASES; COULD START IN LATE 2027 OR 2028
@@ -809,3 +792,12 @@
 - 10/01 02:35 [FirstSquawk] TRUMP SAYS HE IS PLEASED TO ANNOUNCE THAT 'THE LAST AMERICAN FORCES ARE LEAVING IRAQ', CALLING IT 'A GREAT DAY FOR AMERICA' AND SAYING THE U.S. LEAVES WITH IRAQ HAVING 'A WONDERFUL NEW PRIME MINISTER, ALI AL-ZAIDI', WHOM HE SUPPORTED AND EN…
 - 10/01 02:35 [FirstSquawk] TRUMP SAYS OPERATION INHERENT RESOLVE — LAUNCHED IN 2003 UNDER GEORGE W. BUSH AND CONTINUED UNDER OBAMA IN 2014 AND JOE BIDEN — 'ENDS IN 2026 UNDER THE LEADERSHIP OF PRESIDENT DONALD J. TRUMP', CALLING IT 'A VICTORY FOR THE UNITED STATES, A…
 - 10/01 02:35 [FirstSquawk] TRUMP SAYS THAT UNLIKE AFGHANISTAN, 'WHERE MUCH MILITARY EQUIPMENT AND EVERYTHING ELSE WAS LEFT BEHIND, AND 13 WARRIORS LIE DEAD', THE 'ORDERLY DEPARTURE OF COALITION FORCES AND EQUIPMENT FROM ERBIL AIR BASE MARKS THE END OF A VERY EXPENSIV…
+- 10/01 02:39 [FirstSquawk] THE ICE OCTOBER RAW SUGAR DELIVERY IS SEEN AT 28,574 LOTS, OR 1.45 MLN METRIC TONS, TRADERS SAY, WITH ASIAN COMMODITIES TRADER WILMAR THE SOLE RECEIVER AND BTG PACTUAL COMMODITIES THE LARGEST DELIVERER ON THE ICE OCTOBER EXPIRATION
+- 10/01 02:39 [financialjuice] US Senate blocks legislation to cap electricity bill increases tied to data centers
+- 10/01 02:40 [financialjuice/FirstSquawk] USTR Greer: 10 more trade deals are on the way.
+- 10/01 02:40 [financialjuice] USTR Greer: In fairly frequent contact with Canadian counterpart.
+- 10/01 02:41 [financialjuice] USTR Greer: If Canadians want a deal, our door is always open.
+- 10/01 02:43 [financialjuice] USTR Greer: Don't like EU rules on imports of US gas and forestry
+- 10/01 02:43 [financialjuice] USTR Greer interview on Fox business ends
+- 10/01 02:48 [financialjuice/DeItaone] Trump on Iran: You will see things happening very soon
+- 10/01 02:51 [DeItaone] *TRUMP: HISTORIC FLOWS OF OIL OUT OF HORMUZ IN LAST 3 DAYS

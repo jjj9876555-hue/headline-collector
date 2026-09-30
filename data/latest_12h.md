@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-01 02:38 JST／対象: 09/30 14:38 〜 10/01 02:38 JST（時刻はすべて日本時間）
+生成: 2026-10-01 02:53 JST／対象: 09/30 14:53 〜 10/01 02:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 51 | 09/30 18:55 | 10/01 02:31 | ⚠ 77分（00:53→02:11） |
-| FirstSquawk | 170 | 09/30 14:38 | 10/01 02:35 | 31分（17:30→18:02） |
-| financialjuice | 157 | 09/30 14:59 | 10/01 02:33 | ⚠ 54分（16:01→16:55） |
+| DeItaone | 53 | 09/30 18:55 | 10/01 02:51 | ⚠ 77分（00:53→02:11） |
+| FirstSquawk | 169 | 09/30 14:58 | 10/01 02:40 | 31分（17:30→18:02） |
+| financialjuice | 164 | 09/30 14:59 | 10/01 02:48 | ⚠ 54分（16:01→16:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 369 行（統合前 379 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 375 行（統合前 387 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 14:38 [FirstSquawk] Gold slips as Fed hike bets and Middle East tensions underpin the U.S. dollar — FX
-- 09/30 14:39 [FirstSquawk] Kazakhstan restarts enforcement proceedings to recover 2.3 trillion tenge fine from NCOC — IFX
-- 09/30 14:48 [FirstSquawk] HSBC calls its stablecoin RedCoin as it targets 3.3 million PayMe users
 - 09/30 14:58 [FirstSquawk] Seoul and Washington discuss human rights, democracy and governance matters - YONHAP
 - 09/30 14:59 [FirstSquawk] Iran’s Araghchi to discuss U.S. feedback on seven-day proposal in Tehran on Wednesday — Reuters
 - 09/30 14:59 [financialjuice] Iran’s Aragchi and team met Qatari mediators in doha on tuesday night; Araqchi received US feedback to seven-day proposal which he will discuss in Tehran on Wednesday - Official Briefed on Talks.
@@ -393,3 +390,12 @@
 - 10/01 02:35 [FirstSquawk] TRUMP SAYS HE IS PLEASED TO ANNOUNCE THAT 'THE LAST AMERICAN FORCES ARE LEAVING IRAQ', CALLING IT 'A GREAT DAY FOR AMERICA' AND SAYING THE U.S. LEAVES WITH IRAQ HAVING 'A WONDERFUL NEW PRIME MINISTER, ALI AL-ZAIDI', WHOM HE SUPPORTED AND EN…
 - 10/01 02:35 [FirstSquawk] TRUMP SAYS OPERATION INHERENT RESOLVE — LAUNCHED IN 2003 UNDER GEORGE W. BUSH AND CONTINUED UNDER OBAMA IN 2014 AND JOE BIDEN — 'ENDS IN 2026 UNDER THE LEADERSHIP OF PRESIDENT DONALD J. TRUMP', CALLING IT 'A VICTORY FOR THE UNITED STATES, A…
 - 10/01 02:35 [FirstSquawk] TRUMP SAYS THAT UNLIKE AFGHANISTAN, 'WHERE MUCH MILITARY EQUIPMENT AND EVERYTHING ELSE WAS LEFT BEHIND, AND 13 WARRIORS LIE DEAD', THE 'ORDERLY DEPARTURE OF COALITION FORCES AND EQUIPMENT FROM ERBIL AIR BASE MARKS THE END OF A VERY EXPENSIV…
+- 10/01 02:39 [FirstSquawk] THE ICE OCTOBER RAW SUGAR DELIVERY IS SEEN AT 28,574 LOTS, OR 1.45 MLN METRIC TONS, TRADERS SAY, WITH ASIAN COMMODITIES TRADER WILMAR THE SOLE RECEIVER AND BTG PACTUAL COMMODITIES THE LARGEST DELIVERER ON THE ICE OCTOBER EXPIRATION
+- 10/01 02:39 [financialjuice] US Senate blocks legislation to cap electricity bill increases tied to data centers
+- 10/01 02:40 [financialjuice/FirstSquawk] USTR Greer: 10 more trade deals are on the way.
+- 10/01 02:40 [financialjuice] USTR Greer: In fairly frequent contact with Canadian counterpart.
+- 10/01 02:41 [financialjuice] USTR Greer: If Canadians want a deal, our door is always open.
+- 10/01 02:43 [financialjuice] USTR Greer: Don't like EU rules on imports of US gas and forestry
+- 10/01 02:43 [financialjuice] USTR Greer interview on Fox business ends
+- 10/01 02:48 [financialjuice/DeItaone] Trump on Iran: You will see things happening very soon
+- 10/01 02:51 [DeItaone] *TRUMP: HISTORIC FLOWS OF OIL OUT OF HORMUZ IN LAST 3 DAYS
