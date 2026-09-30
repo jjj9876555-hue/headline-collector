@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-01 01:48 JST／対象: 09/30 13:48 〜 10/01 01:48 JST（時刻はすべて日本時間）
+生成: 2026-10-01 02:01 JST／対象: 09/30 14:01 〜 10/01 02:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 44 | 09/30 18:55 | 10/01 00:53 | ⚠ 72分（23:35→00:48） |
-| FirstSquawk | 169 | 09/30 13:50 | 10/01 01:45 | 31分（17:30→18:02） |
-| financialjuice | 147 | 09/30 14:00 | 10/01 01:45 | ⚠ 58分（14:00→14:59） |
+| FirstSquawk | 170 | 09/30 14:02 | 10/01 01:55 | 31分（17:30→18:02） |
+| financialjuice | 147 | 09/30 14:59 | 10/01 01:59 | ⚠ 54分（16:01→16:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 352 行（統合前 361 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 353 行（統合前 362 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 13:50 [FirstSquawk] Berenberg lifts BHP Group target price to 3,500p from 3,400p
-- 09/30 13:51 [FirstSquawk] Berenberg lifts Cornish Metals target price to 153p from 151p
-- 09/30 13:59 [FirstSquawk] Berenberg lifts Sabre Insurance Group target price to 205p from 200p
-- 09/30 14:00 [financialjuice] JAPANESE HOUSING STARTS YOY ACTUAL 6.137% (FORECAST 7%, PREVIOUS 8.2%) $MACRO
-- 09/30 14:00 [financialjuice] Finnish August GDP rises 2.3% year on year: Statistics Finland
 - 09/30 14:02 [FirstSquawk] FINLAND (AUG) Retail Sales Volume WDA YoY ACTUAL: 3.7% VS 2% PREVIOUS
 - 09/30 14:02 [FirstSquawk] FINLAND (AUG) GDP Indicator WDA YoY ACTUAL: 2.3% VS 1.4% PREVIOUS
 - 09/30 14:02 [FirstSquawk] JAPAN (AUG) HOUSING STARTS YOY ACTUAL: 6.1% VS 8.2% PREVIOUS;EST 7.0%
@@ -376,3 +371,9 @@
 - 10/01 01:43 [financialjuice] US oil industry warns diesel prices will not return to normal for a year - FT
 - 10/01 01:45 [FirstSquawk] GOLDMAN SACHS REVISES FOR FED HIKE TO DECEMBER FROM OCTOBER
 - 10/01 01:45 [financialjuice] Goldman Sachs shifts fed forecast to December hike from October
+- 10/01 01:52 [FirstSquawk] LAGARDE: MÉLENCHON DEBT PLAN RISKY, FINANCIALLY VERY DANGEROUS
+- 10/01 01:54 [FirstSquawk] LAGARDE: RUNNING FOR FRENCH PRESIDENT NOT GOOD IDEA FOR ME
+- 10/01 01:54 [FirstSquawk] LAGARDE: WON'T RULE OUT LEAVING FEW MONTHS BEFORE ECB TERM ENDS
+- 10/01 01:55 [FirstSquawk] SPACEXAI PLANS TO SOON UNVEIL FOUR GROK PRICING TIERS
+- 10/01 01:55 [financialjuice] SpaceXAI plans to soon unveil four Grok pricing tiers. $SPCX
+- 10/01 01:59 [financialjuice] Israel's Prime Minister Netanyahu spoke with UAE President - Israel's Hayom News

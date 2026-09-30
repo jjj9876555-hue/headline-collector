@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 01:48 JST／対象: 09/30 19:48 〜 10/01 01:48 JST（時刻はすべて日本時間）
+生成: 2026-10-01 02:01 JST／対象: 09/30 20:01 〜 10/01 02:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 35 | 09/30 19:53 | 10/01 00:53 | ⚠ 72分（23:35→00:48） |
-| FirstSquawk | 72 | 09/30 19:54 | 10/01 01:45 | 16分（01:09→01:25） |
-| financialjuice | 90 | 09/30 20:00 | 10/01 01:45 | 35分（01:01→01:37） |
+| DeItaone | 32 | 09/30 20:01 | 10/01 00:53 | ⚠ 72分（23:35→00:48） |
+| FirstSquawk | 71 | 09/30 20:01 | 10/01 01:55 | 16分（01:09→01:25） |
+| financialjuice | 90 | 09/30 20:32 | 10/01 01:59 | 35分（01:01→01:37） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 191 行（統合前 198 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 187 行（統合前 194 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 19:53 [DeItaone] BITCOIN PRICE COULD REACH $1 MILLION PER COIN BY 2030, MAELSTROM CIO SAYS MAELSTROM CIO HAYES EXPECTS EXPLOSIVE BITCOIN RALLY IN LATE 2027, EARLY 2028 HAYES SEES AI-INVESTMENT BUST TRIGGERING TRILLIONS OF DOLLARS IN BAILOUTS
-- 09/30 19:54 [FirstSquawk] PAKISTAN MIGHT LET POWER PLANTS AND PRIVATE FIRMS IMPORT LNG DIRECTLY TO BOOST ENERGY SUPPLIES WITHOUT AFFECTING GOVERNMENT FUNDS.
-- 09/30 19:54 [DeItaone] ARTHUR HAYES SEES BITCOIN AT $1 MILLION BY 2030 Maelstrom CIO Arthur Hayes predicts Bitcoin could reach $1 million by 2030, with its strongest rally in late 2027 or early 2028. His thesis: an AI infrastructure bubble bursts as data-center r…
-- 09/30 19:57 [DeItaone] UBS: HIGHER INTEREST RATES COULD BENEFIT HEDGE FUNDS UBS says the current environment of elevated interest rates could support hedge fund performance, citing historical resilience during monetary tightening. Hedge funds have generated posit…
-- 09/30 19:57 [FirstSquawk] AMAZON: ROSENBLATT SECURITIES RAISES TARGET PRICE TO $360 FROM $335
-- 09/30 19:59 [FirstSquawk] JAPAN STOPS FOREX INTERVENTION AS YEN GETS STRONGER.
-- 09/30 19:59 [FirstSquawk] OMAN SULTAN MEETS UAE NATIONAL SECURITY ADVISOR
-- 09/30 20:00 [financialjuice] US MBA MORTGAGE APPLICATIONS ACTUAL -6% (FORECAST -, PREVIOUS -1.5%) $MACRO
-- 09/30 20:00 [FirstSquawk] US 30-YEAR FIXED MORTGAGE RATE RISES TO 7.3%, THE HIGHEST LEVEL SINCE NOVEMBER 2023.
-- 09/30 20:00 [financialjuice] US MBA 30-YR MORTGAGE RATE ACTUAL 7.30% (FORECAST -, PREVIOUS 7.12%) $MACRO
 - 09/30 20:01 [FirstSquawk] US MBA MORTGAGE APPLICATIONS SEP-25: -6.0% (PREV -1.5%)
 - 09/30 20:01 [DeItaone] *US 30-YR FIXED MORTGAGE SURGES TO 7.3%, HIGHEST SINCE NOV. 2023
 - 09/30 20:01 [DeItaone] U.S. MORTGAGE RATES SURGE TO 7.30% The average 30-year fixed mortgage contract rate climbed to 7.30%, up 18 basis points in one week and 84 basis points year-over-year, according to the MBA. The 15-year fixed rate rose to 6.56%, while the 5…
@@ -215,3 +205,9 @@
 - 10/01 01:43 [financialjuice] US oil industry warns diesel prices will not return to normal for a year - FT
 - 10/01 01:45 [FirstSquawk] GOLDMAN SACHS REVISES FOR FED HIKE TO DECEMBER FROM OCTOBER
 - 10/01 01:45 [financialjuice] Goldman Sachs shifts fed forecast to December hike from October
+- 10/01 01:52 [FirstSquawk] LAGARDE: MÉLENCHON DEBT PLAN RISKY, FINANCIALLY VERY DANGEROUS
+- 10/01 01:54 [FirstSquawk] LAGARDE: RUNNING FOR FRENCH PRESIDENT NOT GOOD IDEA FOR ME
+- 10/01 01:54 [FirstSquawk] LAGARDE: WON'T RULE OUT LEAVING FEW MONTHS BEFORE ECB TERM ENDS
+- 10/01 01:55 [FirstSquawk] SPACEXAI PLANS TO SOON UNVEIL FOUR GROK PRICING TIERS
+- 10/01 01:55 [financialjuice] SpaceXAI plans to soon unveil four Grok pricing tiers. $SPCX
+- 10/01 01:59 [financialjuice] Israel's Prime Minister Netanyahu spoke with UAE President - Israel's Hayom News

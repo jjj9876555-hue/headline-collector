@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-01 01:48 JST／対象: 09/30 01:48 〜 10/01 01:48 JST（時刻はすべて日本時間）
+生成: 2026-10-01 02:01 JST／対象: 09/30 02:01 〜 10/01 02:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 73 | 09/30 01:58 | 10/01 00:53 | ⚠ 789分（05:46→18:55） |
-| FirstSquawk | 382 | 09/30 01:52 | 10/01 01:45 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 378 | 09/30 01:48 | 10/01 01:45 | ⚠ 80分（10:57→12:18） |
+| DeItaone | 72 | 09/30 02:02 | 10/01 00:53 | ⚠ 789分（05:46→18:55） |
+| FirstSquawk | 382 | 09/30 02:31 | 10/01 01:55 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 374 | 09/30 02:02 | 10/01 01:59 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 816 行（統合前 838 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 812 行（統合前 832 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 01:48 [financialjuice] Iran's Major General Rezai: We have stated our conditions, but Trump is incapable of making decisions - IRIB News
-- 09/30 01:49 [financialjuice] BoE's Taylor: I don't know if BoE can do a single insurance hike that would not be misinterpreted as start of a series.
-- 09/30 01:51 [financialjuice] Iran's Major General Rezai: Iran is ready to help establish peace in Caucasus but US has no future in region and Iran stands firmly against it.
-- 09/30 01:52 [FirstSquawk] TRUMP ADMIN.: SEVERAL EU MEMBER COUNTRIES HAVEN’T RELEASED AS MUCH OIL & REFINED PRODUCTS FROM RESERVES AS PROMISED
-- 09/30 01:55 [financialjuice] UK Police: No explosive devices found at Fairford airbase.
-- 09/30 01:57 [financialjuice/FirstSquawk] OpenAI ignored employees who warned it wasn’t doing enough - NYT
-- 09/30 01:57 [FirstSquawk] OPENAI EMPLOYEES RAISED ALARM WITH TOP EXECUTIVES: NYT
-- 09/30 01:58 [financialjuice] WATCH LIVE: Fed's Goolsbee Speaks 1 PM ET
-- 09/30 01:58 [DeItaone] BITCOIN TRADERS PILE INTO $90K+ CALLS Bitcoin is trading around $83,238, but options traders are increasingly positioning for a move above $90,000, with $95,000 and $100,000 also popular strikes. Institutional flows are improving too: Bitco…
-- 09/30 02:00 [FirstSquawk] ALTMAN NOT CLOSELY INVOLVED IN SECURITY, EMPLOYEES SAID: NYT
 - 09/30 02:02 [DeItaone] OPENAI REPORTEDLY IGNORED INTERNAL SECURITY WARNINGS OpenAI employees warned executives that advanced AI models were not being adequately monitored during safety testing, but were reportedly overruled as the company prioritized release time…
 - 09/30 02:02 [financialjuice] Israeli security source: No concrete, reliable information directly links Israeli elections to escalation - Kan News
 - 09/30 02:03 [financialjuice] Fed's Barr: Seeing some elevated wage rates in the skilled trades
@@ -840,3 +830,9 @@
 - 10/01 01:43 [financialjuice] US oil industry warns diesel prices will not return to normal for a year - FT
 - 10/01 01:45 [FirstSquawk] GOLDMAN SACHS REVISES FOR FED HIKE TO DECEMBER FROM OCTOBER
 - 10/01 01:45 [financialjuice] Goldman Sachs shifts fed forecast to December hike from October
+- 10/01 01:52 [FirstSquawk] LAGARDE: MÉLENCHON DEBT PLAN RISKY, FINANCIALLY VERY DANGEROUS
+- 10/01 01:54 [FirstSquawk] LAGARDE: RUNNING FOR FRENCH PRESIDENT NOT GOOD IDEA FOR ME
+- 10/01 01:54 [FirstSquawk] LAGARDE: WON'T RULE OUT LEAVING FEW MONTHS BEFORE ECB TERM ENDS
+- 10/01 01:55 [FirstSquawk] SPACEXAI PLANS TO SOON UNVEIL FOUR GROK PRICING TIERS
+- 10/01 01:55 [financialjuice] SpaceXAI plans to soon unveil four Grok pricing tiers. $SPCX
+- 10/01 01:59 [financialjuice] Israel's Prime Minister Netanyahu spoke with UAE President - Israel's Hayom News
