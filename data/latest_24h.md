@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-01 04:52 JST／対象: 09/30 04:52 〜 10/01 04:52 JST（時刻はすべて日本時間）
+生成: 2026-10-01 05:06 JST／対象: 09/30 05:06 〜 10/01 05:06 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 80 | 09/30 04:55 | 10/01 04:26 | ⚠ 789分（05:46→18:55） |
-| FirstSquawk | 359 | 09/30 05:15 | 10/01 04:51 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 304 | 09/30 04:52 | 10/01 04:51 | ⚠ 80分（10:57→12:18） |
+| DeItaone | 75 | 09/30 05:08 | 10/01 04:26 | ⚠ 789分（05:46→18:55） |
+| FirstSquawk | 372 | 09/30 05:15 | 10/01 05:03 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 297 | 09/30 05:07 | 10/01 05:06 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 725 行（統合前 744 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 726 行（統合前 746 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 04:52 [financialjuice] Trump and Nvidia's CEO Huang Speak - WATCH LIVE
-- 09/30 04:53 [financialjuice] Trump on AI regulation: We will have AI very well assessed.
-- 09/30 04:55 [DeItaone] TRUMP: IRAN DOING VERY POORLY, DON'T KNOW IF THEY ARE GOING TO GIVE UP YET
-- 09/30 04:56 [financialjuice] Trump: Iran is doing very poorly, I don't know if they are going to give up yet.
-- 09/30 04:58 [financialjuice] Trump: Kim Jong UN is a friend of mine, I like him.
-- 09/30 04:58 [DeItaone/financialjuice] TRUMP: NORTH KOREA'S KIM WILL BE FINE AS LONG AS I AM AROUND
-- 09/30 04:59 [financialjuice] Trump: I'll be naming the AI Czar in the next three to four days.
-- 09/30 04:59 [DeItaone] TRUMP: WILL BE NAMING AI CZAR IN NEXT THREE OR FOUR DAYS
-- 09/30 04:59 [financialjuice] Trump: I discussed the Xi meeting with tech leaders.
-- 09/30 05:02 [DeItaone] ANTHROPIC'S AMODEI: TECHNOLOGY HAS VERY REAL RISKS, STILL UNDER DISCUSSION HOW TO ADDRESS THE RISKS
-- 09/30 05:03 [financialjuice] Trump on Anthropic's Amodei: He's been great
-- 09/30 05:03 [financialjuice] Trump: Zuckerberg had a view that was right down the middle. $META
-- 09/30 05:04 [DeItaone] WORKDAY CUTS 2.5% OF WORKFORCE Workday is cutting about 2.5% of its workforce, primarily within its product and technology team, while reducing some office space. The restructuring will generate $65–80 million in charges, but Workday reiter…
-- 09/30 05:05 [financialjuice] Fed's williams: Rising bond yields show tighter financial conditions at the margin.
-- 09/30 05:05 [financialjuice] Fed's Williams: I don't believe rising yields signal shifting longer-run inflation views.
-- 09/30 05:05 [financialjuice] Fed's Williams: Strong AI investment is important to bolster future productivity
-- 09/30 05:06 [financialjuice] Fed's Williams: Thus far, AI is not causing big changes in job levels.
 - 09/30 05:07 [financialjuice] Stocks and Bonds Fall as Inflation Concerns Keep Yields Elevated – US Market Wrap
 - 09/30 05:08 [DeItaone] TRUMP: DISCUSSED WITH AI LEADERS WHERE TO PUT DATA CENTERS
 - 09/30 05:08 [financialjuice] Trump: We discussed the locations of data centers.
@@ -747,5 +730,23 @@
 - 10/01 04:48 [FirstSquawk] FLYDUBAI SAYS IT REMAINS IN CLOSE COORDINATION WITH GOVERNMENT AUTHORITIES, REGULATORS AND AIRPORT STAKEHOLDERS AND WILL REVIEW THE SUSPENSION AS MORE INFORMATION BECOMES AVAILABLE - STATEMENT
 - 10/01 04:49 [FirstSquawk] TRUMP SAYS HE ASKED ATTORNEY GENERAL TO STUDY FEDERAL RESERVE REPORT
 - 10/01 04:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: -6771.9 MLN NASDAQ 100: -2790.7 MLN DOW 30: -2444.3 MLN MAG 7: -1731.5 MLN $MACRO
-- 10/01 04:51 [financialjuice] AI can exhibit 'self-preserving behaviors,' 'resist shutdown,’ ’conceal or manipulate information' - Anthropic's IPO Filing.
+- 10/01 04:51 [financialjuice/FirstSquawk] AI can exhibit 'self-preserving behaviors,' 'resist shutdown,’ ’conceal or manipulate information' - Anthropic's IPO Filing.
 - 10/01 04:51 [FirstSquawk] TRUMP SAYS FED CHAIR POWELL SHOULD BE “FORCED TO RESIGN”; ASKS ATTORNEY GENERAL BLANCHE TO REVIEW FED REPORT
+- 10/01 04:53 [financialjuice] Google grapples with employee skepticism about the new Gemini Model $GOOGL
+- 10/01 04:54 [FirstSquawk] GOOGLE GRAPPLES WITH EMPLOYEE SKEPTICISM ABOUT THE NEW GEMINI MODEL
+- 10/01 04:54 [financialjuice] US Sec. of Defense Hegseth finishes remarks
+- 10/01 04:56 [FirstSquawk] META'S OVERSIGHT BOARD HAS CALLED FOR INDEPENDENT OVERSIGHT OF AI COMPANIES, SAYING AI OVERSIGHT BODIES SHOULD BE SEPARATE AND INDEPENDENT FROM THE COMPANIES THEY OVERSEE.
+- 10/01 04:56 [FirstSquawk] META'S OVERSIGHT BOARD SAYS ANY AI OVERSIGHT BODY SHOULD HAVE A DIVERSE COMPOSITION AND MUST NOT OPERATE IN ISOLATION.
+- 10/01 04:56 [FirstSquawk] SYRIA'S ELECTRICITY COMPANY SAYS THE DEIR ALI, NASIRIYAH AND TISHREEN POWER PLANTS HAVE GONE OFFLINE AFTER AN EXPLOSION ON A GAS PIPELINE SUPPLYING THE TISHREEN THERMAL POWER PLANT NEAR THE TOWN OF AL-OTAIBA, WITH THE BLAST CUTTING GAS SUPP…
+- 10/01 04:56 [FirstSquawk] THE SHUTDOWN IS EXPECTED TO REDUCE ELECTRICITY GENERATION AND TEMPORARILY INCREASE POWER CUTS ACROSS THE COUNTRY, THE COMPANY SAID - SANA
+- 10/01 04:58 [financialjuice] The pilot planned to seize control of the cockpit over Jordan and crash it in Israeli territory - Israel's N12 News
+- 10/01 05:01 [financialjuice] $MU Micron Q4 Earnings Adjusted revenue $54.23B, est. $51.49B Adjusted gross margin 87%, est. 86.2% Cloud Memory revenue $16.28B, est. $15.14B Mobile & Client revenue $13.11B, est. $12.95B Automotive & Embedded revenue $6.82B, est. $4.73B
+- 10/01 05:02 [FirstSquawk] GOOGLE SAYS THAT FOR TRUSTED DEFENDERS AND ITS OWN INTERNAL TEAMS, IT WILL RELEASE ARGON WITHOUT CYBER GUARDRAILS, AND THAT IT IS DEPLOYING MISALIGNMENT MITIGATIONS THAT MONITOR ARGON'S CHAIN-OF-THOUGHT AND ACTIONS AND STOP EXECUTION WHEN N…
+- 10/01 05:02 [FirstSquawk] GOOGLE SAYS THAT TO SUPPORT GEMINI 4 ARGON'S CAPABILITIES, IT IS SIGNIFICANTLY EXPANDING THE MODEL'S OUTPUT TOKEN LIMIT TO 1 MLN TOKENS.
+- 10/01 05:02 [FirstSquawk] GOOGLE IS GRAPPLING WITH INTERNAL SKEPTICISM OVER GEMINI 4 PERFORMANCE, WITH EMPLOYEES RAISING CONCERNS ABOUT THE MODEL'S PERFORMANCE IN CODING AND OTHER KEY TASKS DESPITE STRONG BENCHMARK RESULTS, AND GEMINI 4 REPORTEDLY PERFORMING LESS WE…
+- 10/01 05:02 [FirstSquawk] GOOGLE HAD PLANNED TO RELEASE GEMINI 3.5 PRO IN JUNE BUT ABANDONED THE EFFORT, AND IS NOW PREPARING FOR THE UPCOMING LAUNCH OF GEMINI 4.
+- 10/01 05:03 [FirstSquawk] NASDAQ CLOSES 0.35% HIGHER AT 26,892.17, UP 94.63 POINTS
+- 10/01 05:03 [FirstSquawk] S&P 500 CLOSES 0.08% LOWER AT 7,664.32, DOWN 6.52 POINTS
+- 10/01 05:03 [FirstSquawk] DOW JONES CLOSES 0.70% LOWER AT 50,990.13, DOWN 359.79 POINTS
+- 10/01 05:04 [financialjuice] Alphabet's Pichai: Introducing Gemini 4 Argon. $GOOGL
+- 10/01 05:06 [financialjuice] Google sets Argon pricing at $2/M input, $10/M output tokens. $GOOGL
