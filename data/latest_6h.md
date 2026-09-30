@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 03:59 JST／対象: 09/30 21:59 〜 10/01 03:59 JST（時刻はすべて日本時間）
+生成: 2026-10-01 04:20 JST／対象: 09/30 22:20 〜 10/01 04:20 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 36 | 09/30 22:02 | 10/01 03:56 | ⚠ 77分（00:53→02:11） |
-| FirstSquawk | 73 | 09/30 22:01 | 10/01 03:54 | 28分（03:03→03:31） |
-| financialjuice | 87 | 09/30 22:00 | 10/01 03:53 | 35分（01:01→01:37） |
+| DeItaone | 35 | 09/30 22:23 | 10/01 03:56 | ⚠ 77分（00:53→02:11） |
+| FirstSquawk | 71 | 09/30 22:20 | 10/01 04:07 | 28分（03:03→03:31） |
+| financialjuice | 81 | 09/30 22:21 | 10/01 04:07 | 35分（01:01→01:37） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 188 行（統合前 197 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 180 行（統合前 188 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 22:00 [financialjuice] Effective fed funds rate 3.88% September 29th vs 3.88% September 28th.
-- 09/30 22:01 [FirstSquawk] BMW AIMS TO CUT 20% OF MANAGEMENT JOBS WITH AI ASSISTANCE.
-- 09/30 22:01 [financialjuice] Fed's Barr opposes final rule, changes will weaken stress test.
-- 09/30 22:01 [financialjuice] Fed: Changes are likely to reduce year-over-year volatility in bank capital requirements by roughly 50% while not materially affecting aggregate capital requirements
-- 09/30 22:02 [financialjuice] Fed: Final rule largely similar to the proposed rule aimed at making tests more transparent and predictable
-- 09/30 22:02 [financialjuice] UK's MI5 Issues Espionage Alert Over Chinese Body Targeting British Academics
-- 09/30 22:02 [DeItaone] FRENCH 10Y YIELD PREMIUM OVER GERMANY CLIMBS 5BPS TO 124BPS
-- 09/30 22:03 [financialjuice] Coreweave to offer NVIDIA vera cpu for agentic AI $NVDA
-- 09/30 22:06 [FirstSquawk] FED SAYS FINAL RULE LARGELY SIMILAR TO PROPOSED RULE AIMED AT MAKING TESTS MORE TRANSPARENT AND PREDICTABLE
-- 09/30 22:12 [financialjuice] SNB: Swiss economy grew robustly in Q3, company survey showed
-- 09/30 22:12 [financialjuice/FirstSquawk] SNB: Companies plan to increase hiring, staff levels too low.
-- 09/30 22:12 [financialjuice] SNB: Companies expect turnover to keep rising in the coming quarters.
-- 09/30 22:16 [FirstSquawk] SNB PUBLISHES COMPANY SURVEY RESULTS IN QUARTERLY BULLETIN
-- 09/30 22:17 [FirstSquawk] NEW WORLD FY26 NET LOSS HK$28.15B VS HK$16.3B Y/Y
 - 09/30 22:20 [FirstSquawk] EU, CANADA TO ANNOUNCE SWEEPING PARTNERSHIP PACT AT OCT. 29 SUMMIT - POLITICO
 - 09/30 22:21 [financialjuice] goldman Sachs estimates crude exports from persian gulf producers at 19 million b/d.
 - 09/30 22:21 [financialjuice] JPMorgan estimates crude exports hit 98% of prewar levels.
@@ -212,3 +198,9 @@
 - 10/01 03:54 [DeItaone] TRUMP SET TO UNVEIL $200 BILLION SOUTH KOREAN INVESTMENT President Trump is expected to announce $200 billion in South Korean investment in U.S. energy projects, including eight nuclear power plants, a Texas power facility and Alaska LNG. T…
 - 10/01 03:54 [FirstSquawk] OPENAI CEO SAM ALTMAN TO SKIP CONGRESSIONAL HEARING ON ROGUE AI AGENTS — NBC NEWS
 - 10/01 03:56 [DeItaone] PENTAGON TO CREATE NEW DRONE WARFARE GROUP Defense Secretary Pete Hegseth is establishing a permanent Pentagon organization for drones, autonomous systems and defense robotics, according to Sen. Tim Sheehy. The Pentagon is seeking $54.6 bil…
+- 10/01 04:01 [financialjuice] Meta's Oversight Board Calls for Independent Oversight of AI Companies $META
+- 10/01 04:03 [FirstSquawk] NEW ZEALAND HOME PRICES FELL 0.3% IN SEPTEMBER FROM AUGUST, HITTING THEIR LOWEST LEVEL SINCE JANUARY 2021 AND STANDING 19% BELOW THE JANUARY 2022 PEAK. HIGH MORTGAGE RATES, RISING UNEMPLOYMENT AND ECONOMIC UNCERTAINTY CONTINUE TO WEIGH ON H…
+- 10/01 04:06 [financialjuice] US Sec. of Defense Hegseth: Reduction in top officer slots long overdue.
+- 10/01 04:06 [FirstSquawk] INDIAN EMBASSY IN SAUDI ARABIA SAYS IT HAS BEEN FOLLOWING THE HEALTH CONDITION OF SMIT MACHCHHAR, THE INDIAN PILOT OF THE FLYDUBAI FLIGHT THAT WAS DIVERTED TO TABUK TODAY, WHO IS ADMITTED IN A HOSPITAL IN TABUK CITY IN NORTHWEST SAUDI ARABI…
+- 10/01 04:07 [FirstSquawk] INDIAN EMBASSY SAYS A FULL UPDATE ON MACHCHHAR'S HEALTH IS AWAITED BUT HE IS REPORTED TO BE IN STABLE CONDITION, ADDING THAT IT IS IN TOUCH WITH HIS FAMILY AND WILL CONTINUE TO FOLLOW UP ON HIS HEALTH WITH SAUDI AUTHORITIES.
+- 10/01 04:07 [financialjuice] US Sec. of Defense Hegseth State Of The Force Address - WATCH LIVE

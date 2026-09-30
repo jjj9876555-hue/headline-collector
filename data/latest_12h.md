@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-01 03:59 JST／対象: 09/30 15:59 〜 10/01 03:59 JST（時刻はすべて日本時間）
+生成: 2026-10-01 04:20 JST／対象: 09/30 16:20 〜 10/01 04:20 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 67 | 09/30 18:55 | 10/01 03:56 | ⚠ 77分（00:53→02:11） |
-| FirstSquawk | 143 | 09/30 16:01 | 10/01 03:54 | 31分（17:30→18:02） |
-| financialjuice | 161 | 09/30 16:01 | 10/01 03:53 | ⚠ 54分（16:01→16:55） |
+| FirstSquawk | 142 | 09/30 16:23 | 10/01 04:07 | 31分（17:30→18:02） |
+| financialjuice | 163 | 09/30 16:55 | 10/01 04:07 | ⚠ 50分（17:10→18:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 358 行（統合前 372 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 359 行（統合前 373 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 16:01 [financialjuice] Russia extends diesel export ban through October - IFX
-- 09/30 16:01 [FirstSquawk] Israeli prime minister’s spokesperson says Flydubai incident is not a hijacking
-- 09/30 16:14 [FirstSquawk] RUSSIA HAS DECIDED TO CONTINUE ITS BAN ON DIESEL EXPORTS UNTIL OCTOBER.
-- 09/30 16:14 [FirstSquawk] S. KOREA FOREIGN EXCHANGE OFFICIALS SOLD A NET OF $9.61 BILLION IN THE MARKET DURING THE SECOND QUARTER.
-- 09/30 16:14 [FirstSquawk] CHINA'S FOREIGN MINISTRY WILL STOP BRIEFINGS FROM OCTOBER 1 TO 7 AND WILL RESUME ON OCTOBER 8.
 - 09/30 16:23 [FirstSquawk] IRAQ'S DAILY OIL EXPORTS AVERAGED 2.65 MILLION BPD IN SEPTEMBER, WITH 250,000 BPD SHIPPED THROUGH TURKEY'S CEYHAN PORT, ACCORDING TO THE OIL MINISTRY SPOKESPERSON.
 - 09/30 16:23 [FirstSquawk] US OFFICIALLY ENDS OPERATION INHERENT RESOLVE IN IRAQ.
 - 09/30 16:29 [FirstSquawk] FLY DUBAI FLIGHT FZ 1073 FROM DUBAI TO TEL AVIV HAD A SITUATION ON 30 SEPTEMBER.
@@ -382,3 +377,9 @@
 - 10/01 03:54 [DeItaone] TRUMP SET TO UNVEIL $200 BILLION SOUTH KOREAN INVESTMENT President Trump is expected to announce $200 billion in South Korean investment in U.S. energy projects, including eight nuclear power plants, a Texas power facility and Alaska LNG. T…
 - 10/01 03:54 [FirstSquawk] OPENAI CEO SAM ALTMAN TO SKIP CONGRESSIONAL HEARING ON ROGUE AI AGENTS — NBC NEWS
 - 10/01 03:56 [DeItaone] PENTAGON TO CREATE NEW DRONE WARFARE GROUP Defense Secretary Pete Hegseth is establishing a permanent Pentagon organization for drones, autonomous systems and defense robotics, according to Sen. Tim Sheehy. The Pentagon is seeking $54.6 bil…
+- 10/01 04:01 [financialjuice] Meta's Oversight Board Calls for Independent Oversight of AI Companies $META
+- 10/01 04:03 [FirstSquawk] NEW ZEALAND HOME PRICES FELL 0.3% IN SEPTEMBER FROM AUGUST, HITTING THEIR LOWEST LEVEL SINCE JANUARY 2021 AND STANDING 19% BELOW THE JANUARY 2022 PEAK. HIGH MORTGAGE RATES, RISING UNEMPLOYMENT AND ECONOMIC UNCERTAINTY CONTINUE TO WEIGH ON H…
+- 10/01 04:06 [financialjuice] US Sec. of Defense Hegseth: Reduction in top officer slots long overdue.
+- 10/01 04:06 [FirstSquawk] INDIAN EMBASSY IN SAUDI ARABIA SAYS IT HAS BEEN FOLLOWING THE HEALTH CONDITION OF SMIT MACHCHHAR, THE INDIAN PILOT OF THE FLYDUBAI FLIGHT THAT WAS DIVERTED TO TABUK TODAY, WHO IS ADMITTED IN A HOSPITAL IN TABUK CITY IN NORTHWEST SAUDI ARABI…
+- 10/01 04:07 [FirstSquawk] INDIAN EMBASSY SAYS A FULL UPDATE ON MACHCHHAR'S HEALTH IS AWAITED BUT HE IS REPORTED TO BE IN STABLE CONDITION, ADDING THAT IT IS IN TOUCH WITH HIS FAMILY AND WILL CONTINUE TO FOLLOW UP ON HIS HEALTH WITH SAUDI AUTHORITIES.
+- 10/01 04:07 [financialjuice] US Sec. of Defense Hegseth State Of The Force Address - WATCH LIVE
