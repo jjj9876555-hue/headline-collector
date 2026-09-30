@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-30 17:25 JST／対象: 09/30 05:25 〜 09/30 17:25 JST（時刻はすべて日本時間）
+生成: 2026-09-30 17:49 JST／対象: 09/30 05:49 〜 09/30 17:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 4 | 09/30 05:36 | 09/30 05:46 | 3分（05:36→05:40） |
-| FirstSquawk | 207 | 09/30 05:26 | 09/30 17:14 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 129 | 09/30 05:25 | 09/30 17:10 | ⚠ 80分（10:57→12:18） |
+| DeItaone | 0 | - | - | - |
+| FirstSquawk | 202 | 09/30 06:04 | 09/30 17:30 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 123 | 09/30 05:49 | 09/30 17:10 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 337 行（統合前 340 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 322 行（統合前 325 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 05:25 [financialjuice] Al Mayadeen: The purpose of Netanyahu's visit to the UAE was to encourage Abu Dhabi to resume its participation in the war against Yemen.
-- 09/30 05:26 [FirstSquawk] AL MAYADEEN: NETANYAHU’S UAE VISIT AIMED TO ENCOURAGE ABU DHABI TO RESUME PARTICIPATION IN WAR AGAINST YEMEN
-- 09/30 05:36 [DeItaone] https://t.me/boost/WalterBloomberg
-- 09/30 05:36 [financialjuice] https://t.me/boost/breakingmarketnews
-- 09/30 05:40 [DeItaone] $TSLA - TESLA SECURES $30 BILLION IN NEW CREDIT FACILITIES Tesla has entered into $30 billion of new financing facilities, according to an SEC filing. The package includes a $20 billion three-year delayed-draw term loan, an $8 billion five-…
-- 09/30 05:40 [financialjuice] Tesla Secures $30 Billion in New Credit Facilities $TSLA
-- 09/30 05:42 [FirstSquawk] TESLA HAS ENTERED AN $8 BLN FIVE-YEAR REVOLVING FACILITY, A $2 BLN 364-DAY REVOLVING CREDIT FACILITY AND A $20 BLN THREE-YEAR DELAYED DRAW TERM LOAN FACILITY ON SEPT. 29, 2026, WITH THE TERM LOAN FACILITY MATURING ON SEPT. 29, 2029.
-- 09/30 05:42 [FirstSquawk] TESLA SAYS THE FIVE-YEAR REVOLVING FACILITY ALLOWS LETTERS OF CREDIT UP TO $500 MLN AND THAT IT MAY INCREASE ITS REVOLVING CREDIT AGREEMENTS BY UP TO $4 BLN TO $14 BLN, ADDING THAT IT TERMINATED ITS EXISTING REVOLVING CREDIT AGREEMENT ON SE…
-- 09/30 05:42 [DeItaone] BREAKING: Inventories in the US Strategic Petroleum Reserve fell by ~800,000 barrels last week, to 283.8 million barrels, the lowest level since 1982. This marks the 27th consecutive weekly decline, putting inventories down more than -132 m…
-- 09/30 05:43 [financialjuice] US API GASOLINE STOCK CHANGE ACTUAL 2.991M (FORECAST -, PREVIOUS -2.16M) $MACRO
-- 09/30 05:44 [financialjuice] US API DISTILLATE STOCK CHANGE ACTUAL -0.286M (FORECAST -, PREVIOUS -2.164M) $MACRO
-- 09/30 05:46 [financialjuice] US API CRUDE OIL STOCK CHANGE ACTUAL 1.019M (FORECAST -1.9M, PREVIOUS 1.786M) $MACRO
-- 09/30 05:46 [FirstSquawk] U.S. API CRUDE OIL STOCK CHANGE WAS A BUILD OF 1.019 MLN, VERSUS A FORECAST 1.9 MLN DRAW, WITH GASOLINE STOCKS UP 2.991 MLN AND DISTILLATE STOCKS DOWN 0.286 MLN
-- 09/30 05:46 [DeItaone] MASTERCARD DECLARES QUARTERLY CASH DIVIDEND OF $0.87 PER SHARE
-- 09/30 05:47 [FirstSquawk] U.S. STOCKS ENDED MIXED TO LOWER AS CONCERNS OVER PERSISTENT INFLATION, GOVERNMENT SPENDING AND RISING CORPORATE BORROWING PUSHED TREASURY YIELDS HIGHER, WITH THE 30-YEAR YIELD REACHING ITS HIGHEST SINCE 2002, THE S&P 500 DOWN 0.2% AND THE …
-- 09/30 05:47 [FirstSquawk] OIL PRICES FELL, WITH WTI DOWN 3.9% TO $89.01 A BARREL AND BRENT BELOW $103, THOUGH INVESTORS REMAINED CONCERNED ELEVATED ENERGY COSTS COULD KEEP INFLATION PRESSURES HIGH, AS NY FED PRESIDENT JOHN WILLIAMS SAID ANOTHER RATE HIKE THIS YEAR M…
-- 09/30 05:47 [FirstSquawk] U.S. JOB OPENINGS FELL TO A FIVE-MONTH LOW AND CONSUMER CONFIDENCE DROPPED TO ITS LOWEST SINCE 2014, REINFORCING A 'LOW-HIRE, LOW-FIRE' LABOR-MARKET BACKDROP, WITH THE DOLLAR GAINING, THE EURO WEAKENING TO $1.1340 AND GOLD UP 1.4% TO $4,175…
 - 09/30 05:49 [financialjuice] Trump to unveil $54 billion Alaska LNG plan amid midterm woes.
 - 09/30 05:50 [financialjuice] Funds to be provided under South Korea investment deal - people familiar describe Alaska plan for Trump Announcement
 - 09/30 05:51 [financialjuice] Anthropic IPO Filing Shows Amazon and Google Drove 47% of 2025 Sales
@@ -361,3 +344,5 @@
 - 09/30 17:08 [financialjuice] German Economy Ministry Spokesperson: Economy minister decided to instruct SEFE to increase natural gas storage due to ongoing geopolitical risks.
 - 09/30 17:10 [financialjuice] German Economy Ministry Spokesperson: Government will establish strategic gas reserve from 2027.
 - 09/30 17:14 [FirstSquawk] IRAN'S FOREIGN MINISTER ARAQCHI INFORMED IRANIAN CABINET OF RECEIVING U.S. PROPOSAL, GOVERNMENT SPOKESPERSON SAYS - X POST
+- 09/30 17:30 [FirstSquawk] IRAN'S ARAGHCHI DISCUSSED A U.S. PROPOSAL WITH THE IRANIAN PRESIDENT, ACCORDING TO IRNA.
+- 09/30 17:30 [FirstSquawk] IRAN'S OFFICIAL AGENCY IRNA REPORTS GOVERNMENT SPOKESWOMAN DISCUSSING US PROPOSAL.

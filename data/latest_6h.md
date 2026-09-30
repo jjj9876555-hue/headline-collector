@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-30 17:25 JST／対象: 09/30 11:25 〜 09/30 17:25 JST（時刻はすべて日本時間）
+生成: 2026-09-30 17:49 JST／対象: 09/30 11:49 〜 09/30 17:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 99 | 09/30 11:27 | 09/30 17:14 | 22分（16:33→16:55） |
+| FirstSquawk | 92 | 09/30 11:51 | 09/30 17:30 | 22分（16:33→16:55） |
 | financialjuice | 38 | 09/30 12:18 | 09/30 17:10 | ⚠ 58分（14:00→14:59） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 136 行（統合前 137 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 129 行（統合前 130 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 11:27 [FirstSquawk] DeepSeek develops 128-chip “super node” based on Ascend 950, with optimized computation and communication
-- 09/30 11:28 [FirstSquawk] South Korean lawmaker says there is a 50% chance of North Korea-U.S. talks at APEC summit
-- 09/30 11:28 [FirstSquawk] No signs of North Korea deploying additional troops to Russia, South Korean lawmaker says
-- 09/30 11:28 [FirstSquawk] South Korean lawmaker says spy agency estimates about 9,000 North Korean soldiers are in Russia
-- 09/30 11:29 [FirstSquawk] Russia shows no active signs of transferring advanced military technologies to North Korea, South Korean lawmaker says
-- 09/30 11:33 [FirstSquawk] South Korean lawmaker says North Korea and Russia worked together on ballistic missile shipments
-- 09/30 11:41 [FirstSquawk] Seoul stocks give up some gains in late Wednesday morning trading
-- 09/30 11:43 [FirstSquawk] Vietnam’s HDBank plans to raise $500 million through USD-denominated bonds overseas
-- 09/30 11:45 [FirstSquawk] Australia’s benchmark ASX 200 gains 1% to 8,794.50, highest since Sept. 11
 - 09/30 11:51 [FirstSquawk] China’s CSI Health Care Industry Index climbs more than 3%
 - 09/30 11:55 [FirstSquawk] Indonesia central bank will use spot instruments to respond to FX volatility when necessary — official
 - 09/30 11:56 [FirstSquawk] Brooklyn Nets name Alibaba Group official technology and cloud partner
@@ -160,3 +151,5 @@
 - 09/30 17:08 [financialjuice] German Economy Ministry Spokesperson: Economy minister decided to instruct SEFE to increase natural gas storage due to ongoing geopolitical risks.
 - 09/30 17:10 [financialjuice] German Economy Ministry Spokesperson: Government will establish strategic gas reserve from 2027.
 - 09/30 17:14 [FirstSquawk] IRAN'S FOREIGN MINISTER ARAQCHI INFORMED IRANIAN CABINET OF RECEIVING U.S. PROPOSAL, GOVERNMENT SPOKESPERSON SAYS - X POST
+- 09/30 17:30 [FirstSquawk] IRAN'S ARAGHCHI DISCUSSED A U.S. PROPOSAL WITH THE IRANIAN PRESIDENT, ACCORDING TO IRNA.
+- 09/30 17:30 [FirstSquawk] IRAN'S OFFICIAL AGENCY IRNA REPORTS GOVERNMENT SPOKESWOMAN DISCUSSING US PROPOSAL.

@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-30 17:25 JST／対象: 09/29 17:25 〜 09/30 17:25 JST（時刻はすべて日本時間）
+生成: 2026-09-30 17:49 JST／対象: 09/29 17:49 〜 09/30 17:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 88 | 09/29 20:26 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
-| FirstSquawk | 412 | 09/29 17:29 | 09/30 17:14 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 415 | 09/29 17:28 | 09/30 17:10 | ⚠ 80分（10:57→12:18） |
+| FirstSquawk | 406 | 09/29 17:55 | 09/30 17:30 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 406 | 09/29 17:52 | 09/30 17:10 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 890 行（統合前 921 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 875 行（統合前 906 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 17:28 [financialjuice] ECB's Kazimir: Rate hike was unavoidable.
-- 09/29 17:28 [financialjuice] ECB's Kazimir: Energy prices remain key factor.
-- 09/29 17:29 [financialjuice] ECB's Kazimir: Key for me will be January repricing.
-- 09/29 17:29 [FirstSquawk] MELONI: KUWAIT'S Q8 ACCEPTED TO LOWER FUEL PRICES IN ITALY
-- 09/29 17:29 [financialjuice] ECB's Kazimir: We need flexibility, we have enough time.
-- 09/29 17:30 [FirstSquawk] MELONI ANNOUNCES KUWAIT'S Q8 AGREED TO REDUCE FUEL PRICES IN ITALY.
-- 09/29 17:30 [FirstSquawk] ECB'S KAZIMIR SAYS RATE INCREASE WAS INEVITABLE.
-- 09/29 17:30 [FirstSquawk] ECB'S KAZIMIR SAYS ENERGY COSTS ARE STILL A SIGNIFICANT INFLUENCE.
-- 09/29 17:30 [financialjuice] UK MORTGAGE APPROVALS ACTUAL 54.918K (FORECAST 56.1K, PREVIOUS 56.053K) $MACRO
-- 09/29 17:30 [FirstSquawk] ECB'S KAZIMIR SAYS JANUARY WILL BE CRUCIAL FOR REPRICING.
-- 09/29 17:30 [financialjuice] UK MORTGAGE LENDING ACTUAL 4.410B (FORECAST 4.4B, PREVIOUS 4.292B ,REVISION 4.082B) $MACRO
-- 09/29 17:30 [FirstSquawk] ECB'S KAZIMIR STRESSES THE IMPORTANCE OF FLEXIBILITY AND AFFIRMS THERE IS PLENTY OF TIME.
-- 09/29 17:30 [financialjuice] UK M4 MONEY SUPPLY ACTUAL 0.4% (FORECAST -, PREVIOUS -0.3%) $MACRO
-- 09/29 17:30 [financialjuice] BOE CONSUMER CREDIT ACTUAL 2.464B (FORECAST 1.9B, PREVIOUS 2.006B) $MACRO
-- 09/29 17:40 [FirstSquawk] RUSSIA ATTACKED TWO FOREIGN SHIPS IN THE ODESA AREA OF UKRAINE, ACCORDING TO ZELENSKIY.
-- 09/29 17:47 [financialjuice] NVIDIA and AMD up White House lobbying on China exports - Politico
-- 09/29 17:49 [FirstSquawk] NVIDIA, AMD WANT TRUMP TO KEEP THEIR CHIPS FLOWING TO CHINA – POLITICO
 - 09/29 17:52 [financialjuice] UK AI Minister Narayan: Need to build data centres with control, UK values.
 - 09/29 17:55 [FirstSquawk] UK AI MINISTER KANISHKA NARAYAN CONFIRMS AI GROWTH ZONES ARE STILL PROGRESSING.
 - 09/29 17:55 [FirstSquawk] UK AI MINISTER KANISHKA NARAYAN BRITAIN REQUIRES A HIGH LEVEL OF COMPUTER SOVEREIGNTY.
@@ -914,3 +897,5 @@
 - 09/30 17:08 [financialjuice] German Economy Ministry Spokesperson: Economy minister decided to instruct SEFE to increase natural gas storage due to ongoing geopolitical risks.
 - 09/30 17:10 [financialjuice] German Economy Ministry Spokesperson: Government will establish strategic gas reserve from 2027.
 - 09/30 17:14 [FirstSquawk] IRAN'S FOREIGN MINISTER ARAQCHI INFORMED IRANIAN CABINET OF RECEIVING U.S. PROPOSAL, GOVERNMENT SPOKESPERSON SAYS - X POST
+- 09/30 17:30 [FirstSquawk] IRAN'S ARAGHCHI DISCUSSED A U.S. PROPOSAL WITH THE IRANIAN PRESIDENT, ACCORDING TO IRNA.
+- 09/30 17:30 [FirstSquawk] IRAN'S OFFICIAL AGENCY IRNA REPORTS GOVERNMENT SPOKESWOMAN DISCUSSING US PROPOSAL.
