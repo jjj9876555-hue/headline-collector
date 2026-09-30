@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-01 00:52 JST／対象: 09/30 12:52 〜 10/01 00:52 JST（時刻はすべて日本時間）
+生成: 2026-10-01 01:07 JST／対象: 09/30 13:07 〜 10/01 01:07 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 42 | 09/30 18:55 | 10/01 00:48 | ⚠ 72分（23:35→00:48） |
-| FirstSquawk | 167 | 09/30 12:54 | 10/01 00:46 | 31分（17:30→18:02） |
-| financialjuice | 142 | 09/30 13:02 | 10/01 00:48 | ⚠ 58分（14:00→14:59） |
+| DeItaone | 44 | 09/30 18:55 | 10/01 00:53 | ⚠ 72分（23:35→00:48） |
+| FirstSquawk | 167 | 09/30 13:16 | 10/01 01:01 | 31分（17:30→18:02） |
+| financialjuice | 145 | 09/30 13:15 | 10/01 01:01 | ⚠ 58分（14:00→14:59） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 343 行（統合前 351 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 348 行（統合前 356 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 12:54 [FirstSquawk] Boeing chosen by Pentagon to build new carrier fighter jet replacing F/A-18 — SCMP
-- 09/30 12:59 [FirstSquawk] South Korea urges North Korea to apologize over DMZ mine blast and stop border fortification work
-- 09/30 13:02 [FirstSquawk] AI industry seeks to ease data centre backlash ahead of U.S. midterm elections — FT
-- 09/30 13:02 [financialjuice] White House holds critical talks on diesel export ban as midterms approach - FT
-- 09/30 13:05 [FirstSquawk] White House weighs diesel export ban ahead of U.S. midterms — FT
 - 09/30 13:15 [financialjuice] Iran executes two men accused of killing security forces during early 2026 protests: SNN
 - 09/30 13:16 [FirstSquawk] Iran executes two men over alleged killings of security forces during early 2026 protests — SNN
 - 09/30 13:33 [FirstSquawk] OIL REMAINS ELEVATED DESPITE PERSIAN GULF EXPORTS RECOVERY-WSJ
@@ -367,3 +362,13 @@
 - 10/01 00:48 [financialjuice] ECB's President Lagarde's Interview with La Croix
 - 10/01 00:48 [financialjuice] ECB's President Lagarde to La Croix: European financial system is more solid now than in 2008 and 2011 crises
 - 10/01 00:48 [financialjuice] ECB's President Lagarde to La Croix: France needs a credible budget trajectory and reforms to restore confidence
+- 10/01 00:52 [DeItaone] ECB'S LAGARDE, ASKED BY LA CROIX NEWSPAPER IF SHE WOULD BE A FRENCH PRESIDENTIAL CANDIDATE, SAYS 'THAT WOULD NOT BE A GOOD IDEA AT ALL'
+- 10/01 00:53 [DeItaone] ECB'S LAGARDE TELLS LA CROIX IF I LEAVE ECB EARLY, "IT WILL ONLY BE BY A FEW MONTHS"
+- 10/01 00:58 [FirstSquawk] ECB'S LAGARDE ON IF SHE WOULD BE A FRENCH PRESIDENTIAL CANDIDATE: 'THAT WOULD NOT BE A GOOD IDEA AT ALL' - LA CROIX
+- 10/01 00:58 [FirstSquawk] ECB'S LAGARDE: IF I LEAVE ECB EARLY, "IT WILL ONLY BE BY A FEW MONTHS" – LA CROIX
+- 10/01 00:58 [FirstSquawk] USTR GREER: TO RELEASE 'MILWAUKEE FRAMEWORK' FOR COORDINATED ACTION TO ADDRESS EXCESS STEEL CAPACITY AT G20 TRADE MINISTERS MEETING
+- 10/01 01:00 [financialjuice] UK's PM Burnham: Looking at all things including fuel duty ahead of budget.
+- 10/01 01:01 [financialjuice] UK's PM Burnham: Hard to return to past growth without closer EU ties
+- 10/01 01:01 [FirstSquawk] Continental Q3 2026 Results: - ContiTech Q3 Sales, EBIT Margin Seen Falling (Q/Q) - Q3 Tires Sales Seen Slightly Below Prior Year - Tires Q3 Margin Seen Hitting Upper End Of FY Guidance
+- 10/01 01:01 [financialjuice] UK's PM Burnham: We can't have unfunded plans in budget.
+- 10/01 01:01 [financialjuice] UK's PM Burnham: Will do what we can alongside challenging finances.

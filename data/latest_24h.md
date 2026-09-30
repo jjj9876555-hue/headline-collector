@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-01 00:52 JST／対象: 09/30 00:52 〜 10/01 00:52 JST（時刻はすべて日本時間）
+生成: 2026-10-01 01:07 JST／対象: 09/30 01:07 〜 10/01 01:07 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 80 | 09/30 00:52 | 10/01 00:48 | ⚠ 789分（05:46→18:55） |
-| FirstSquawk | 382 | 09/30 00:53 | 10/01 00:46 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 410 | 09/30 00:52 | 10/01 00:48 | ⚠ 80分（10:57→12:18） |
+| DeItaone | 80 | 09/30 01:11 | 10/01 00:53 | ⚠ 789分（05:46→18:55） |
+| FirstSquawk | 384 | 09/30 01:20 | 10/01 01:01 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 406 | 09/30 01:11 | 10/01 01:01 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 854 行（統合前 876 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 853 行（統合前 874 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 00:52 [financialjuice/DeItaone] ECB's DeMarco: Stronger core inflation could be grounds to act.
-- 09/30 00:53 [FirstSquawk] IRAN WILL BE READY TO DISCUSS THE NUCLEAR ISSUE ONLY AFTER THE STRAIT OF HORMUZ ISSUE IS RESOLVED AND WASHINGTON LIFTS THE BLOCKADE - RIA CITING IRANIAN DIPLOMATIC SOURCE
-- 09/30 00:53 [FirstSquawk] IRAN IS READY TO DISCUSS THE NUCLEAR DOSSIER ONLY AFTER A NUMBER OF CONDITIONS ARE MET, ACCORDING TO A DIPLOMATIC SOURCE.
-- 09/30 00:54 [financialjuice] ECB's DeMarco: I would not exclude a rate hike in October.
-- 09/30 00:55 [financialjuice] ECB's Demarco: Recent rise in L-T bond yields quite worrying.
-- 09/30 00:55 [financialjuice] ECB's DeMarco: The economic situation is quite fragile.
-- 09/30 01:00 [financialjuice] France to issue €340 bln of medium and long-term bonds next year, net of buybacks - AFT
-- 09/30 01:01 [financialjuice] France's stock of outstanding T-bills seen increasing by €2.2 bln in 2027 - AFT.
-- 09/30 01:01 [financialjuice] French 3-Month T-bills seen at 3% next year, 10-Yr benchmark at 4.3% - AFT
-- 09/30 01:01 [DeItaone] FRANCE FACES RECORD €340 BILLION BORROWING WAVE France plans to issue €340 billion of medium- and long-term debt in 2027, as its total borrowing requirement reaches €339.7 billion. A record €189.2 billion of debt redemptions will add to ref…
-- 09/30 01:02 [financialjuice] META: Releases forum app for iOS and Android in US. $META
 - 09/30 01:11 [financialjuice] OpenAI's Altman: Model scrapped out of abundance of caution - CNBC
 - 09/30 01:11 [DeItaone] U.S.-CHINA TARIFF DEAL LEAVES LNG OUT The latest U.S.-China tariff agreement does not include LNG, leaving JKM and TTF pricing largely unaffected, according to Platts. The newly created U.S.-China Board of Trade could eventually expand nego…
 - 09/30 01:12 [financialjuice] OpenAI's Altman: Will have many great new models.
@@ -878,3 +867,13 @@
 - 10/01 00:48 [financialjuice] ECB's President Lagarde's Interview with La Croix
 - 10/01 00:48 [financialjuice] ECB's President Lagarde to La Croix: European financial system is more solid now than in 2008 and 2011 crises
 - 10/01 00:48 [financialjuice] ECB's President Lagarde to La Croix: France needs a credible budget trajectory and reforms to restore confidence
+- 10/01 00:52 [DeItaone] ECB'S LAGARDE, ASKED BY LA CROIX NEWSPAPER IF SHE WOULD BE A FRENCH PRESIDENTIAL CANDIDATE, SAYS 'THAT WOULD NOT BE A GOOD IDEA AT ALL'
+- 10/01 00:53 [DeItaone] ECB'S LAGARDE TELLS LA CROIX IF I LEAVE ECB EARLY, "IT WILL ONLY BE BY A FEW MONTHS"
+- 10/01 00:58 [FirstSquawk] ECB'S LAGARDE ON IF SHE WOULD BE A FRENCH PRESIDENTIAL CANDIDATE: 'THAT WOULD NOT BE A GOOD IDEA AT ALL' - LA CROIX
+- 10/01 00:58 [FirstSquawk] ECB'S LAGARDE: IF I LEAVE ECB EARLY, "IT WILL ONLY BE BY A FEW MONTHS" – LA CROIX
+- 10/01 00:58 [FirstSquawk] USTR GREER: TO RELEASE 'MILWAUKEE FRAMEWORK' FOR COORDINATED ACTION TO ADDRESS EXCESS STEEL CAPACITY AT G20 TRADE MINISTERS MEETING
+- 10/01 01:00 [financialjuice] UK's PM Burnham: Looking at all things including fuel duty ahead of budget.
+- 10/01 01:01 [financialjuice] UK's PM Burnham: Hard to return to past growth without closer EU ties
+- 10/01 01:01 [FirstSquawk] Continental Q3 2026 Results: - ContiTech Q3 Sales, EBIT Margin Seen Falling (Q/Q) - Q3 Tires Sales Seen Slightly Below Prior Year - Tires Q3 Margin Seen Hitting Upper End Of FY Guidance
+- 10/01 01:01 [financialjuice] UK's PM Burnham: We can't have unfunded plans in budget.
+- 10/01 01:01 [financialjuice] UK's PM Burnham: Will do what we can alongside challenging finances.
