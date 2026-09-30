@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-30 18:40 JST／対象: 09/30 12:40 〜 09/30 18:40 JST（時刻はすべて日本時間）
+生成: 2026-09-30 18:56 JST／対象: 09/30 12:56 〜 09/30 18:56 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 0 | - | - | - |
-| FirstSquawk | 90 | 09/30 12:44 | 09/30 18:38 | 31分（17:30→18:02） |
+| DeItaone | 1 | 09/30 18:55 | 09/30 18:55 | - |
+| FirstSquawk | 96 | 09/30 12:59 | 09/30 18:52 | 31分（17:30→18:02） |
 | financialjuice | 56 | 09/30 13:02 | 09/30 18:33 | ⚠ 58分（14:00→14:59） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 146 行（統合前 146 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 153 行（統合前 153 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 12:44 [FirstSquawk] More than 3,000 food items in Japan to face price hikes in October
-- 09/30 12:48 [FirstSquawk] New Zealand dollar consolidates near 0.5625 support amid uncertain outlook - FX
-- 09/30 12:54 [FirstSquawk] Boeing chosen by Pentagon to build new carrier fighter jet replacing F/A-18 — SCMP
 - 09/30 12:59 [FirstSquawk] South Korea urges North Korea to apologize over DMZ mine blast and stop border fortification work
 - 09/30 13:02 [FirstSquawk] AI industry seeks to ease data centre backlash ahead of U.S. midterm elections — FT
 - 09/30 13:02 [financialjuice] White House holds critical talks on diesel export ban as midterms approach - FT
@@ -170,3 +167,13 @@
 - 09/30 18:38 [FirstSquawk] BANK OF ENGLAND'S BAILEY STRESSES THE NEED FOR INCREASED TESTING OF AI MODELS BEFORE AND AFTER THEY GO LIVE, PRIOR TO REGULATIONS.
 - 09/30 18:38 [FirstSquawk] BOE FPC WARNED THAT RISKY CREDIT MARKETS, ESPECIALLY IN PRIVATE CREDIT, ARE STILL SENSITIVE TO TIGHTER FINANCING.
 - 09/30 18:38 [FirstSquawk] BOE FPC STATES UK HOUSEHOLDS AND BUSINESSES ARE STRONG, BANKING SYSTEM IS WELL-CAPITALIZED.
+- 09/30 18:41 [FirstSquawk] PORSCHE SE: GERMAN FEDERAL COURT CONFIRMS DECISION OF THE HIGHER REGIONAL COURT OF CELLE IN FAVOR OF PORSCHE SE
+- 09/30 18:41 [FirstSquawk] PORSCHE SE: NO CLAIM OF PLAINTIFFS FOR DAMAGES IN THE AMOUNT OF 5.4 BILLION EURO
+- 09/30 18:41 [FirstSquawk] PORSCHE SE: RULING OF GERMAN FEDERAL COURT BINDING UPON COURTS IN INITIAL PROCEEDINGS
+- 09/30 18:47 [FirstSquawk] JAPAN PM: TO STRENGTHEN SUPPLY CAPACITY AMID PRICE RISES, RATES
+- 09/30 18:47 [FirstSquawk] JAPAN PM: TO ASSESS TAX INTAKE TRENDS, REVIEW REVENUE, SPENDING
+- 09/30 18:52 [FirstSquawk] KREMLIN SAYS REPORTS OF SANCTION RELIEF FOR POLITICAL PRISONERS ARE NOT RELEVANT, CLAIMING RUSSIA DOES NOT HAVE POLITICAL PRISONERS.
+- 09/30 18:52 [FirstSquawk] KREMLIN RESPONDS TO RUSSIA'S NUCLEAR THREATS TO NATO OVER KALININGRAD, STATING DIPLOMATS REMIND EUROPEAN LEADERS ABOUT FOUNDING DOCUMENTS.
+- 09/30 18:52 [FirstSquawk] KREMLIN REJECTS CLAIMS OF TALKING ABOUT LIFTING SANCTIONS ON RUSSIA IN RETURN FOR PRISONERS.
+- 09/30 18:52 [FirstSquawk] KREMLIN CONFIRMS COMMUNICATIONS WITH THE UNITED STATES REGARDING A POSSIBLE PRISONER EXCHANGE.
+- 09/30 18:55 [DeItaone] https://t.co/uo7LOnJ1Lp
