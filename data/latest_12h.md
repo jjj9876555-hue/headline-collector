@@ -7,44 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-30 13:54 JST／対象: 09/30 01:54 〜 09/30 13:54 JST（時刻はすべて日本時間）
+生成: 2026-09-30 14:19 JST／対象: 09/30 02:19 〜 09/30 14:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 29 | 09/30 01:58 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
-| FirstSquawk | 214 | 09/30 01:57 | 09/30 13:51 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 228 | 09/30 01:55 | 09/30 13:15 | ⚠ 80分（10:57→12:18） |
+| DeItaone | 25 | 09/30 02:23 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
+| FirstSquawk | 220 | 09/30 02:31 | 09/30 14:16 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 215 | 09/30 02:20 | 09/30 14:00 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 462 行（統合前 475 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 452 行（統合前 463 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 01:55 [financialjuice] UK Police: No explosive devices found at Fairford airbase.
-- 09/30 01:57 [financialjuice/FirstSquawk] OpenAI ignored employees who warned it wasn’t doing enough - NYT
-- 09/30 01:57 [FirstSquawk] OPENAI EMPLOYEES RAISED ALARM WITH TOP EXECUTIVES: NYT
-- 09/30 01:58 [financialjuice] WATCH LIVE: Fed's Goolsbee Speaks 1 PM ET
-- 09/30 01:58 [DeItaone] BITCOIN TRADERS PILE INTO $90K+ CALLS Bitcoin is trading around $83,238, but options traders are increasingly positioning for a move above $90,000, with $95,000 and $100,000 also popular strikes. Institutional flows are improving too: Bitco…
-- 09/30 02:00 [FirstSquawk] ALTMAN NOT CLOSELY INVOLVED IN SECURITY, EMPLOYEES SAID: NYT
-- 09/30 02:02 [DeItaone] OPENAI REPORTEDLY IGNORED INTERNAL SECURITY WARNINGS OpenAI employees warned executives that advanced AI models were not being adequately monitored during safety testing, but were reportedly overruled as the company prioritized release time…
-- 09/30 02:02 [financialjuice] Israeli security source: No concrete, reliable information directly links Israeli elections to escalation - Kan News
-- 09/30 02:03 [financialjuice] Fed's Barr: Seeing some elevated wage rates in the skilled trades
-- 09/30 02:05 [financialjuice] Fed's Barr: Taking the longer view, we need to be sure we do what it takes to bring supply and demand into balance
-- 09/30 02:06 [financialjuice] Fed's Barr: The resilience of the US economy is striking
-- 09/30 02:06 [financialjuice] OFAC sanctions 10 over Iran MODAFL weapons procurement
-- 09/30 02:08 [DeItaone] OPENAI:INTRODUCING GPT‑6.1 SOL
-- 09/30 02:08 [financialjuice] OpenAI: Introducing GPT-6.1 Sol, launched at one-fifth of Astra's price; cached input cut 95% vs standard price
-- 09/30 02:10 [financialjuice] OpenAI's Altman unveils new AI agent tool called Dots; launched for Pro and Business plans
-- 09/30 02:11 [financialjuice] Fed's Barr: Momentum seems to be building in the economy
-- 09/30 02:12 [financialjuice] The US is looking to Europe to release Diesel from reserves - Politico
-- 09/30 02:13 [financialjuice] fed's Barr: All we're focused on is what the data tell us about the evolving outlook and balance of risks to achieving our congressional mandate.
-- 09/30 02:16 [financialjuice] OpenAI: 35 million people build with ChatGPT Work and Codex every week; new Pro $500 plan includes access to ultrafast processing in Codex and ChatGPT
-- 09/30 02:18 [financialjuice] OpenAI: Preview of private inference, coming this fall, combines confidential computing with strict, verifiable controls
-- 09/30 02:18 [DeItaone] *US LOOKING TO EUROPE TO RELEASE DIESEL FROM RESERVES: POLITICO
 - 09/30 02:20 [financialjuice] BoC's Gravelle: Will deploy operations as needed to control policy rate amid repo imbalances; only tolerate so much upward pressure on CORRA, as large deviations can disrupt policy transmission
 - 09/30 02:21 [financialjuice] BoC's Gravelle: BoC and OSFI released joint statement saying use of the SLF for overnight liquidity is not seen as an exceptional event or a sign of stress
 - 09/30 02:21 [financialjuice] BoC's Gravelle: Using two-week repos more actively could mean reserves sometimes exceed our best estimate of steady-state demand, which remains C$50 billion to C$70 billion
@@ -486,3 +465,14 @@
 - 09/30 13:35 [FirstSquawk] China’s PMI data signals broader economic improvement across sectors — WSJ
 - 09/30 13:50 [FirstSquawk] Berenberg lifts BHP Group target price to 3,500p from 3,400p
 - 09/30 13:51 [FirstSquawk] Berenberg lifts Cornish Metals target price to 153p from 151p
+- 09/30 13:59 [FirstSquawk] Berenberg lifts Sabre Insurance Group target price to 205p from 200p
+- 09/30 14:00 [financialjuice] JAPANESE HOUSING STARTS YOY ACTUAL 6.137% (FORECAST 7%, PREVIOUS 8.2%) $MACRO
+- 09/30 14:00 [financialjuice] Finnish August GDP rises 2.3% year on year: Statistics Finland
+- 09/30 14:02 [FirstSquawk] FINLAND (AUG) Retail Sales Volume WDA YoY ACTUAL: 3.7% VS 2% PREVIOUS
+- 09/30 14:02 [FirstSquawk] FINLAND (AUG) GDP Indicator WDA YoY ACTUAL: 2.3% VS 1.4% PREVIOUS
+- 09/30 14:02 [FirstSquawk] JAPAN (AUG) HOUSING STARTS YOY ACTUAL: 6.1% VS 8.2% PREVIOUS;EST 7.0%
+- 09/30 14:02 [FirstSquawk] JAPAN (AUG) ANNUALIED HOUSING STARTS ACTUAL: 0.753M VS 0.774M PREVIOUS;EST 0.766M
+- 09/30 14:09 [FirstSquawk] Chinese manufacturing activity grows in September as AI boom fuels demand
+- 09/30 14:10 [FirstSquawk] Berenberg lifts Rio Tinto target price to 8,700p from 8,600p
+- 09/30 14:15 [FirstSquawk] Russian military strikes communications center in Kyiv overnight, IFX reports, citing Defence Ministry
+- 09/30 14:16 [FirstSquawk] Energy system facilities in Kyiv region hit in massive strike, Russian Defence Ministry says — IFX

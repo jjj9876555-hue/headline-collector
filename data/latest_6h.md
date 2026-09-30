@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-30 13:54 JST／対象: 09/30 07:54 〜 09/30 13:54 JST（時刻はすべて日本時間）
+生成: 2026-09-30 14:19 JST／対象: 09/30 08:19 〜 09/30 14:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 123 | 09/30 08:05 | 09/30 13:51 | 25分（08:09→08:35） |
-| financialjuice | 68 | 09/30 07:59 | 09/30 13:15 | ⚠ 80分（10:57→12:18） |
+| FirstSquawk | 128 | 09/30 08:35 | 09/30 14:16 | 17分（13:16→13:33） |
+| financialjuice | 61 | 09/30 08:45 | 09/30 14:00 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 190 行（統合前 191 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 188 行（統合前 189 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 07:59 [financialjuice] EU trade chief Sefcovic: pushing for reforms to tackle excess industrial capacity in G20, WTO frameworks
-- 09/30 08:00 [financialjuice] South Korea August industrial output falls 2.2% year on year, poll predicted 4% increase: stats office
-- 09/30 08:00 [financialjuice] S. Korea Aug service sector output rises 0.5% m/m: stats office
-- 09/30 08:00 [financialjuice] S.Korea Aug Industrial output falls 4.8% month-on-month, stats office
-- 09/30 08:00 [financialjuice] S. Korea August retail sales fall 1.8% month on month: stats office
-- 09/30 08:01 [financialjuice] uk vehicle output increased 5.7% yoy to 40,872 units in august: smmt
-- 09/30 08:02 [financialjuice] Sefcovic: working for greater cooperation with US, other allies to secure supply chains, prevent weaponization of critical minerals
-- 09/30 08:05 [FirstSquawk] EU TRADE CHIEF SEFCOVIC SAYS HE IS WORKING FOR GREATER COOPERATION WITH THE U.S. AND OTHER ALLIES TO SECURE SUPPLY CHAINS AND PREVENT THE WEAPONIZATION OF CRITICAL MINERALS, ADDING THAT HE IS PUSHING FOR REFORMS TO TACKLE EXCESS INDUSTRIAL …
-- 09/30 08:07 [financialjuice] China commerce ministry: if Europe continues imposing biased limits on Chinese firms or products, China will firmly react to protect its industry interests
-- 09/30 08:08 [FirstSquawk] US HOUSE SPEAKER MIKE JOHNSON WARNS DEMOCRATIC HOUSE CONTROL WOULD BRING INTENSIFIED CONGRESSIONAL INVESTIGATIONS OF TRUMP, HIS ADMINISTRATION & BUSINESS FIGURES
-- 09/30 08:09 [FirstSquawk] JD VANCE ON AI: “SKYNET” SCENARIO WON’T HAPPEN; SAYS AI WILL NOT TAKE OVER NUCLEAR WEAPONS OR HAVE ROBOTS KILLING PEOPLE
-- 09/30 08:09 [financialjuice] China commerce ministry: eu states considering tougher trade actions on China use typical protectionist, unilateral measures that will disrupt stability
-- 09/30 08:09 [FirstSquawk] JD VANCE ON FRONTIER AI: “IF YOU’RE BUILDING A TERRIBLE, TERRIBLE THING, THEN STOP AND BUILD SOMETHING GOOD”
 - 09/30 08:35 [FirstSquawk] JAPAN, US AND EUROPE TO AGREE STEEL MONITORING FRAMEWORK - YOMIURI
 - 09/30 08:35 [FirstSquawk] QATARI-MEDIATED TALKS BETWEEN THE U.S. AND IRAN MADE LITTLE PROGRESS, WITH BOTH SIDES REFUSING TO COMPROMISE AND FEARS OF RENEWED FIGHTING RISING, AS QATAR PROPOSED A DEAL LINKING IRAN'S DEMAND TO LIFT THE U.S. NAVAL BLOCKADE WITH U.S. DEMA…
 - 09/30 08:35 [FirstSquawk] U.S. OFFICIALS INITIALLY DESCRIBED THE TALKS AS POSITIVE AND SAID TRUMP WAS OPEN TO SANCTIONS RELIEF AND RELEASING FROZEN FUNDS FOR NUCLEAR CONCESSIONS, BUT HOURS LATER TRUMP SAID HE HAD OFFERED IRAN NOTHING, WITH A SOURCE TELLING AXIOS THE…
@@ -214,3 +201,14 @@
 - 09/30 13:35 [FirstSquawk] China’s PMI data signals broader economic improvement across sectors — WSJ
 - 09/30 13:50 [FirstSquawk] Berenberg lifts BHP Group target price to 3,500p from 3,400p
 - 09/30 13:51 [FirstSquawk] Berenberg lifts Cornish Metals target price to 153p from 151p
+- 09/30 13:59 [FirstSquawk] Berenberg lifts Sabre Insurance Group target price to 205p from 200p
+- 09/30 14:00 [financialjuice] JAPANESE HOUSING STARTS YOY ACTUAL 6.137% (FORECAST 7%, PREVIOUS 8.2%) $MACRO
+- 09/30 14:00 [financialjuice] Finnish August GDP rises 2.3% year on year: Statistics Finland
+- 09/30 14:02 [FirstSquawk] FINLAND (AUG) Retail Sales Volume WDA YoY ACTUAL: 3.7% VS 2% PREVIOUS
+- 09/30 14:02 [FirstSquawk] FINLAND (AUG) GDP Indicator WDA YoY ACTUAL: 2.3% VS 1.4% PREVIOUS
+- 09/30 14:02 [FirstSquawk] JAPAN (AUG) HOUSING STARTS YOY ACTUAL: 6.1% VS 8.2% PREVIOUS;EST 7.0%
+- 09/30 14:02 [FirstSquawk] JAPAN (AUG) ANNUALIED HOUSING STARTS ACTUAL: 0.753M VS 0.774M PREVIOUS;EST 0.766M
+- 09/30 14:09 [FirstSquawk] Chinese manufacturing activity grows in September as AI boom fuels demand
+- 09/30 14:10 [FirstSquawk] Berenberg lifts Rio Tinto target price to 8,700p from 8,600p
+- 09/30 14:15 [FirstSquawk] Russian military strikes communications center in Kyiv overnight, IFX reports, citing Defence Ministry
+- 09/30 14:16 [FirstSquawk] Energy system facilities in Kyiv region hit in massive strike, Russian Defence Ministry says — IFX

@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-30 13:54 JST／対象: 09/29 13:54 〜 09/30 13:54 JST（時刻はすべて日本時間）
+生成: 2026-09-30 14:19 JST／対象: 09/29 14:19 〜 09/30 14:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 88 | 09/29 20:26 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
-| FirstSquawk | 414 | 09/29 13:54 | 09/30 13:51 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 409 | 09/29 14:00 | 09/30 13:15 | ⚠ 80分（10:57→12:18） |
+| FirstSquawk | 418 | 09/29 14:21 | 09/30 14:16 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 409 | 09/29 14:31 | 09/30 14:00 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 885 行（統合前 917 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 889 行（統合前 921 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 13:54 [FirstSquawk] US, China unveil $60 billion in nonsensitive products targeted for tariff cuts after Trump-Xi meeting
-- 09/29 14:00 [financialjuice] Alphabet’s Google challenges EU orders to open up AI search-engine rivals, company says
-- 09/29 14:01 [FirstSquawk] JAPAN (JUL) LEADING INDEX CI ACTUAL: 117.7 VS 117.9 PREVIOUS
-- 09/29 14:01 [FirstSquawk] JAPAN (JUL) COINCIDENT INDEX ACTUAL: 120.6 VS 120.6 PREVIOUS
-- 09/29 14:05 [financialjuice] ❗ JAPANESE LEADING INDICATOR CHANGE REV. ACTUAL 1.5 (FORECAST -, PREVIOUS 1.7) $MACRO
-- 09/29 14:18 [FirstSquawk] RBA hikes rates for fourth time amid renewed inflation concerns, WSJ says
-- 09/29 14:18 [FirstSquawk] Samsung invests $1 billion in AI infrastructure firm backed by KKR, Nvidia, WSJ says
 - 09/29 14:21 [FirstSquawk] Brent oil futures gain more than 2% to $107.44/bbl; December contract up over 2% at $99.87/bbl
 - 09/29 14:22 [FirstSquawk] IRANIAN FOREIGN MINISTER SAYS TEHRAN EXPECTS US RESPONSE TODAY ON HORMUZ REOPENING PROPOSAL
 - 09/29 14:26 [FirstSquawk] Russian strike damages port facilities in Ukraine’s Odesa region, governor says
@@ -909,3 +902,14 @@
 - 09/30 13:35 [FirstSquawk] China’s PMI data signals broader economic improvement across sectors — WSJ
 - 09/30 13:50 [FirstSquawk] Berenberg lifts BHP Group target price to 3,500p from 3,400p
 - 09/30 13:51 [FirstSquawk] Berenberg lifts Cornish Metals target price to 153p from 151p
+- 09/30 13:59 [FirstSquawk] Berenberg lifts Sabre Insurance Group target price to 205p from 200p
+- 09/30 14:00 [financialjuice] JAPANESE HOUSING STARTS YOY ACTUAL 6.137% (FORECAST 7%, PREVIOUS 8.2%) $MACRO
+- 09/30 14:00 [financialjuice] Finnish August GDP rises 2.3% year on year: Statistics Finland
+- 09/30 14:02 [FirstSquawk] FINLAND (AUG) Retail Sales Volume WDA YoY ACTUAL: 3.7% VS 2% PREVIOUS
+- 09/30 14:02 [FirstSquawk] FINLAND (AUG) GDP Indicator WDA YoY ACTUAL: 2.3% VS 1.4% PREVIOUS
+- 09/30 14:02 [FirstSquawk] JAPAN (AUG) HOUSING STARTS YOY ACTUAL: 6.1% VS 8.2% PREVIOUS;EST 7.0%
+- 09/30 14:02 [FirstSquawk] JAPAN (AUG) ANNUALIED HOUSING STARTS ACTUAL: 0.753M VS 0.774M PREVIOUS;EST 0.766M
+- 09/30 14:09 [FirstSquawk] Chinese manufacturing activity grows in September as AI boom fuels demand
+- 09/30 14:10 [FirstSquawk] Berenberg lifts Rio Tinto target price to 8,700p from 8,600p
+- 09/30 14:15 [FirstSquawk] Russian military strikes communications center in Kyiv overnight, IFX reports, citing Defence Ministry
+- 09/30 14:16 [FirstSquawk] Energy system facilities in Kyiv region hit in massive strike, Russian Defence Ministry says — IFX
