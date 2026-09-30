@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-30 13:37 JST／対象: 09/29 13:37 〜 09/30 13:37 JST（時刻はすべて日本時間）
+生成: 2026-09-30 13:54 JST／対象: 09/29 13:54 〜 09/30 13:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 88 | 09/29 20:26 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
-| FirstSquawk | 427 | 09/29 13:38 | 09/30 13:35 | ⚠ 96分（06:29→08:05） |
+| FirstSquawk | 414 | 09/29 13:54 | 09/30 13:51 | ⚠ 96分（06:29→08:05） |
 | financialjuice | 409 | 09/29 14:00 | 09/30 13:15 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 898 行（統合前 930 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 885 行（統合前 917 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 13:38 [FirstSquawk] RBA: Price pressures stay stubbornly persistent, with previously identified August upside risks increasingly turning into reality.
-- 09/29 13:38 [FirstSquawk] RBA: Expanding Middle East hostilities have driven worldwide fuel and power costs well past earlier August projections.
-- 09/29 13:38 [FirstSquawk] RBA: This year's trio of rate hikes has constrained overall credit conditions, visibly sapping momentum from the broader economy.
-- 09/29 13:38 [FirstSquawk] RBA: Near-term public and market inflation forecasts continue to track uncomfortably high.
-- 09/29 13:38 [FirstSquawk] RBA: Given that inflation remains unacceptably steep, policymakers concluded that additional monetary tightening is necessary to restore target levels within an acceptable timeframe.
-- 09/29 13:38 [FirstSquawk] RBA: Domestic inflation prints since the last review have consistently outpaced internal forecasts.
-- 09/29 13:38 [FirstSquawk] RBA: The central bank will implement whatever measures are required to pull inflation back to the target band permanently, not ruling out additional rate hikes.
-- 09/29 13:38 [FirstSquawk] RBA: Current policy settings are flexible enough to absorb shifting economic conditions as officials balance price stability against maximum employment goals.
-- 09/29 13:39 [FirstSquawk] RBA: Hiring demand and employment metrics have cooled generally in step with expectations, while forward-looking job market indicators remain steady.
-- 09/29 13:39 [FirstSquawk] RBA: Price-growth risks have steadily tilted upward since the previous policy gathering.
-- 09/29 13:39 [FirstSquawk] RBA: Serious doubts still cloud the future path of local economic growth and consumer price pressures.
-- 09/29 13:39 [FirstSquawk] RBA: Ongoing turmoil across the Middle East leaves open the possibility of stagflationary pressures—namely hotter inflation alongside weaker output.
-- 09/29 13:44 [FirstSquawk] Vietnam banks’ capitalisation seen steady as $5.7 billion capital drive progresses, Fitch says
-- 09/29 13:47 [FirstSquawk] Novo Nordisk to pay $300 million upfront for global rights to Hengrui’s HRS-1596, deal worth up to $2.6 billion
-- 09/29 13:48 [FirstSquawk] Etihad to fly twice daily between Abu Dhabi and Sydney starting Dec. 15
 - 09/29 13:54 [FirstSquawk] US, China unveil $60 billion in nonsensitive products targeted for tariff cuts after Trump-Xi meeting
 - 09/29 14:00 [financialjuice] Alphabet’s Google challenges EU orders to open up AI search-engine rivals, company says
 - 09/29 14:01 [FirstSquawk] JAPAN (JUL) LEADING INDEX CI ACTUAL: 117.7 VS 117.9 PREVIOUS
@@ -922,3 +907,5 @@
 - 09/30 13:16 [FirstSquawk] Iran executes two men over alleged killings of security forces during early 2026 protests — SNN
 - 09/30 13:33 [FirstSquawk] OIL REMAINS ELEVATED DESPITE PERSIAN GULF EXPORTS RECOVERY-WSJ
 - 09/30 13:35 [FirstSquawk] China’s PMI data signals broader economic improvement across sectors — WSJ
+- 09/30 13:50 [FirstSquawk] Berenberg lifts BHP Group target price to 3,500p from 3,400p
+- 09/30 13:51 [FirstSquawk] Berenberg lifts Cornish Metals target price to 153p from 151p

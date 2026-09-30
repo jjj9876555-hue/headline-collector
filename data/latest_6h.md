@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-30 13:37 JST／対象: 09/30 07:37 〜 09/30 13:37 JST（時刻はすべて日本時間）
+生成: 2026-09-30 13:54 JST／対象: 09/30 07:54 〜 09/30 13:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 121 | 09/30 08:05 | 09/30 13:35 | 25分（08:09→08:35） |
-| financialjuice | 69 | 09/30 07:40 | 09/30 13:15 | ⚠ 80分（10:57→12:18） |
+| FirstSquawk | 123 | 09/30 08:05 | 09/30 13:51 | 25分（08:09→08:35） |
+| financialjuice | 68 | 09/30 07:59 | 09/30 13:15 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 189 行（統合前 190 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 190 行（統合前 191 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 07:40 [financialjuice] Senior Saudi official denies any meeting with Israeli officials
 - 09/30 07:59 [financialjuice] EU trade chief Sefcovic: pushing for reforms to tackle excess industrial capacity in G20, WTO frameworks
 - 09/30 08:00 [financialjuice] South Korea August industrial output falls 2.2% year on year, poll predicted 4% increase: stats office
 - 09/30 08:00 [financialjuice] S. Korea Aug service sector output rises 0.5% m/m: stats office
@@ -213,3 +212,5 @@
 - 09/30 13:16 [FirstSquawk] Iran executes two men over alleged killings of security forces during early 2026 protests — SNN
 - 09/30 13:33 [FirstSquawk] OIL REMAINS ELEVATED DESPITE PERSIAN GULF EXPORTS RECOVERY-WSJ
 - 09/30 13:35 [FirstSquawk] China’s PMI data signals broader economic improvement across sectors — WSJ
+- 09/30 13:50 [FirstSquawk] Berenberg lifts BHP Group target price to 3,500p from 3,400p
+- 09/30 13:51 [FirstSquawk] Berenberg lifts Cornish Metals target price to 153p from 151p
