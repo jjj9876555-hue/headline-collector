@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 08:16 JST／対象: 10/01 02:16 〜 10/01 08:16 JST（時刻はすべて日本時間）
+生成: 2026-10-01 08:33 JST／対象: 10/01 02:33 〜 10/01 08:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 29 | 10/01 02:19 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
-| FirstSquawk | 76 | 10/01 02:30 | 10/01 07:50 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 107 | 10/01 02:18 | 10/01 08:11 | 36分（07:29→08:05） |
+| DeItaone | 24 | 10/01 02:49 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
+| FirstSquawk | 73 | 10/01 02:33 | 10/01 07:50 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 103 | 10/01 02:33 | 10/01 08:17 | 36分（07:29→08:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 203 行（統合前 213 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 191 行（統合前 201 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 02:18 [financialjuice] Trump: Last US forces are leaving iraq - Truth Social
-- 10/01 02:19 [DeItaone] TRUMP: WE LEAVE IRAQ WITH A WONDERFUL NEW PRIME MINISTER
-- 10/01 02:22 [DeItaone] TRUMP ON TRUTH SOCIAL: I AM PLEASED TO ANNOUNCE, THE LAST AMERICAN FORCES ARE LEAVING IRAQ
-- 10/01 02:24 [financialjuice] A Senior Political source on the attempted attack on a flight from Dubai: The terrorist wanted to undermine the Abraham Accords. - Channel 12 News
-- 10/01 02:27 [financialjuice] WATCH LIVE: Trump hosts a Hispanic Heritage Month celebration at the White House
-- 10/01 02:28 [financialjuice] Legislation to cap electricity bill hikes tied to data centers fails to gain enough votes to advance in US Senate; voting continues
-- 10/01 02:29 [financialjuice] OECD Global Forum on Steel Excess Capacity adopts framework to avoid market-distorting subsidies that encourage loss-making steel plants - Statement
-- 10/01 02:30 [FirstSquawk] US SENATE BILL TO CAP DATA CENTER-DRIVEN ELECTRICITY BILL HIKES FAILS TO GET ENOUGH VOTES TO ADVANCE; VOTING CONTINUES
-- 10/01 02:30 [DeItaone] U.S. 10-YEAR TREASURY YIELD TOUCHES 5.304%, HIGHEST SINCE MAY 2002
-- 10/01 02:30 [FirstSquawk] OPENAI SAYS IT HAS IDENTIFIED AND DISRUPTED A COORDINATED CAMPAIGN DESIGNED TO EXTRACT PROTECTED REASONING FROM ITS MODELS, ATTRIBUTING A CORE ACTIVITY TO INDIVIDUALS TIED TO KIMI DEVELOPER MOONSHOT AI.
-- 10/01 02:30 [FirstSquawk] OPENAI SAYS THE OPERATORS DID NOT BREAK ITS ENCRYPTION, COMPROMISE A DATABASE OR GAIN DIRECT ACCESS TO STORED USER CONVERSATIONS.
-- 10/01 02:30 [DeItaone] U.S. 10-YEAR YIELD HITS 24-YEAR HIGH The 10-year Treasury yield surged to 5.304%, surpassing its 2007 peak and reaching the highest level since May 2002. Persistent energy-driven inflation concerns and stronger U.S. economic data are fuelin…
-- 10/01 02:31 [DeItaone] ANTHROPIC: CLAUDE FOR GOVERNMENT IS NOW GENERALLY AVAILABLE
 - 10/01 02:33 [financialjuice] Anthropic: Claude for Government is now generally available; Claude Code CLI and Claude for Microsoft 365 also now available in early access
 - 10/01 02:33 [FirstSquawk] TRUMP SAYS 'OUR NATION IS DOING REALLY WELL, IN MANY WAYS, BETTER THAN EVER BEFORE, BUT THE PUBLIC JUST DOESN'T KNOW HOW WELL WE'RE DOING', ADDING THAT 'THE FAKE NEWS MEDIA REFUSES TO DISSEMINATE OUR RECORD SETTING NUMBERS, SO I'M DOING THE…
 - 10/01 02:33 [financialjuice] Global Forum on steel excess capacity member countries to apply tariffs and other trade measures to deter imports from countries that are sources of excess capacity where appropriate - Statement
@@ -227,3 +214,4 @@
 - 10/01 08:05 [financialjuice] AUSTRALIAN MANUFACTURING PMI FINAL ACTUAL 49.6 (FORECAST -, PREVIOUS 49.3) $MACRO
 - 10/01 08:11 [financialjuice] Eager to see outcomes from Fed task forces
 - 10/01 08:11 [financialjuice] Skyworks extends expiration date of exchange offers for Gorvo’s senior notes due 2029 and 2031
+- 10/01 08:17 [financialjuice] Meta names Dhruv Vohra managing director of global business group in Southeast Asia

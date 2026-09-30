@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-01 08:16 JST／対象: 09/30 08:16 〜 10/01 08:16 JST（時刻はすべて日本時間）
+生成: 2026-10-01 08:33 JST／対象: 09/30 08:33 〜 10/01 08:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 75 | 09/30 18:55 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
 | FirstSquawk | 367 | 09/30 08:35 | 10/01 07:50 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 318 | 09/30 08:45 | 10/01 08:11 | ⚠ 80分（10:57→12:18） |
+| financialjuice | 319 | 09/30 08:45 | 10/01 08:17 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 741 行（統合前 762 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 742 行（統合前 763 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -765,3 +765,4 @@
 - 10/01 08:05 [financialjuice] AUSTRALIAN MANUFACTURING PMI FINAL ACTUAL 49.6 (FORECAST -, PREVIOUS 49.3) $MACRO
 - 10/01 08:11 [financialjuice] Eager to see outcomes from Fed task forces
 - 10/01 08:11 [financialjuice] Skyworks extends expiration date of exchange offers for Gorvo’s senior notes due 2029 and 2031
+- 10/01 08:17 [financialjuice] Meta names Dhruv Vohra managing director of global business group in Southeast Asia

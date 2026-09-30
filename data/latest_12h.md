@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-01 08:16 JST／対象: 09/30 20:16 〜 10/01 08:16 JST（時刻はすべて日本時間）
+生成: 2026-10-01 08:33 JST／対象: 09/30 20:33 〜 10/01 08:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 59 | 09/30 20:30 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
-| FirstSquawk | 146 | 09/30 20:30 | 10/01 07:50 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 200 | 09/30 20:32 | 10/01 08:11 | 36分（07:29→08:05） |
+| DeItaone | 58 | 09/30 20:48 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
+| FirstSquawk | 145 | 09/30 20:35 | 10/01 07:50 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 199 | 09/30 20:52 | 10/01 08:17 | 36分（07:29→08:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 389 行（統合前 407 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 386 行（統合前 404 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 20:30 [FirstSquawk] PORSCHE SE SAYS GERMAN COURT HAS DISMISSED $6.1 BILLION LAWSUIT BROUGHT BY INVESTORS
-- 09/30 20:30 [DeItaone] *BURNHAM: COULD GO ALL THE WAY AND REJOIN EU
-- 09/30 20:32 [financialjuice] Poll: Brent crude oil projected to average $89.05 a barrel in 2026 versus $85.08 forecast in August
-- 09/30 20:32 [financialjuice] Poll: US crude oil set to average $83.90 per barrel in 2026 versus $80.20 forecast in August
 - 09/30 20:35 [FirstSquawk] IG METALL: VW PLANS TO TERMINATE LABOUR PACTS
 - 09/30 20:38 [FirstSquawk] CONAGRA Q1 2027 EARNINGS - ADJ. EPS 41C (EST 29C) - ADJ. OPER MARGIN 11.5% (EST 9.2%) - SALES $2.6B (EST $2.59B) - STILL SEES FY ADJ OPER MARGIN 10% TO 10.5% (EST 10.2%) - SEES FY ORGANIC NET SALES -1% TO -3% (EST -1.93%)
 - 09/30 20:48 [DeItaone] *EXPLOSION HEARD IN IRAN'S ZAHEDAN: FARS
@@ -413,3 +409,4 @@
 - 10/01 08:05 [financialjuice] AUSTRALIAN MANUFACTURING PMI FINAL ACTUAL 49.6 (FORECAST -, PREVIOUS 49.3) $MACRO
 - 10/01 08:11 [financialjuice] Eager to see outcomes from Fed task forces
 - 10/01 08:11 [financialjuice] Skyworks extends expiration date of exchange offers for Gorvo’s senior notes due 2029 and 2031
+- 10/01 08:17 [financialjuice] Meta names Dhruv Vohra managing director of global business group in Southeast Asia
