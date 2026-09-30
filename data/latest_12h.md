@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-01 06:19 JST／対象: 09/30 18:19 〜 10/01 06:19 JST（時刻はすべて日本時間）
+生成: 2026-10-01 06:37 JST／対象: 09/30 18:37 〜 10/01 06:37 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 75 | 09/30 18:55 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
-| FirstSquawk | 167 | 09/30 18:37 | 10/01 06:18 | 28分（03:03→03:31） |
-| financialjuice | 169 | 09/30 18:29 | 10/01 06:14 | 35分（01:01→01:37） |
+| FirstSquawk | 174 | 09/30 18:37 | 10/01 06:31 | 28分（03:03→03:31） |
+| financialjuice | 163 | 09/30 18:58 | 10/01 06:29 | 35分（01:01→01:37） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 395 行（統合前 413 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 394 行（統合前 414 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 18:29 [financialjuice] Japan PM Takaichi: Takaichi administration will boost supply side of the economy.
-- 09/30 18:30 [financialjuice] Japan PM Takaichi: Government will set a clearer path of economy and fiscal policy management.
-- 09/30 18:30 [financialjuice] UKMTO gets time-late report of incident in Hormuz.
-- 09/30 18:31 [financialjuice] BoE FPC: Likelihood financial risks crystallise at same time has risen since July.
-- 09/30 18:32 [financialjuice] BoE FPC: Rise in oil and gas prices has led to more protracted supply shock.
-- 09/30 18:32 [financialjuice] GERMAN 10 YR BUND YIELD ACTUAL 3.58% (FORECAST -, PREVIOUS 3.39%) $MACRO
-- 09/30 18:32 [financialjuice] GERMAN 10 YR BUND BID-TO-COVER ACTUAL 1.2 (FORECAST -, PREVIOUS 1.5) $MACRO
-- 09/30 18:32 [financialjuice] BoE FPC: Frontier AI breaches reinforce need for financial firms to prepare for risk, engage wth UK authorities.
-- 09/30 18:32 [financialjuice] BoE FPC: BoE will set out proposed bank leverage ratio reforms and gilt repo reforms in early 2027.
-- 09/30 18:32 [financialjuice] BoE FPC: Planned market-based reforms to gilt repo will mitigate risks from leverage ratio changes.
-- 09/30 18:32 [financialjuice] BoE FPC: Financial markets so far have been resilient to higher energy prices and bond yields.
-- 09/30 18:33 [financialjuice] BoE FPC: Risky credit markets, including parts of private credit, remain vulnerable to tighter financing conditions.
-- 09/30 18:33 [financialjuice] BoE FPC: UK households and corporates remain resilient, banking system remains appropriately capitalised.
 - 09/30 18:37 [FirstSquawk] BANK OF ENGLAND FPC SAYS CHANCES OF FINANCIAL RISKS OCCURRING SIMULTANEOUSLY HAVE INCREASED SINCE JULY.
 - 09/30 18:38 [FirstSquawk] BOE FPC REPORTS THAT INCREASING OIL AND GAS PRICES HAVE CAUSED A LONGER SUPPLY DISRUPTION.
 - 09/30 18:38 [FirstSquawk] BOE FPC SAYS FRONTIER AI BREACHES SHOW FINANCIAL FIRMS MUST PREPARE FOR RISKS AND WORK WITH UK AUTHORITIES.
@@ -419,3 +406,15 @@
 - 10/01 06:17 [FirstSquawk] U.S. AND SOUTH KOREA HAVE LAUNCHED A $22.3 BLN TEXAS GAS POWER PROJECT FOR AI DATA CENTERS, WHICH SOUTH KOREA SAYS WILL SUPPLY 6.47 GW OF ELECTRICITY WITH COMMERCIAL OPERATIONS EXPECTED BY 2029, WITH ANNUAL U.S. INVESTMENT CAPPED AT $20 BLN…
 - 10/01 06:17 [FirstSquawk] SEOUL AND WASHINGTON WILL REVIEW THE ALASKA LNG PIPELINE AND EXPORT TERMINAL PROJECT — WHICH WILL PROCEED ONLY IF COMMERCIAL AND LEGAL CONDITIONS ARE MET — WHILE SOUTH KOREA IS SEEKING EQUITY INVESTMENTS BY KOREAN COMPANIES IN WESTINGHOUSE.
 - 10/01 06:18 [FirstSquawk] RIO TINTO SAYS A DEAL WITH THE AUSTRALIAN AND TASMANIAN GOVERNMENTS SECURES ITS BELL BAY ALUMINIUM OPERATIONS THROUGH 2031, WITH HYDRO TASMANIA TO SUPPLY ELECTRICITY THROUGH 31 DECEMBER 2031 AND THE AUSTRALIAN AND TASMANIAN GOVERNMENTS TO P…
+- 10/01 06:22 [financialjuice] OpenAI executive withdraws second $25 million contribution to AI super PAC: NYT
+- 10/01 06:22 [financialjuice] OpenAI's Greg Brockman withdraws from second $25 million donation to a super PAC - NYT
+- 10/01 06:22 [financialjuice] US energy secretary Wright: will make some announcements on diesel
+- 10/01 06:23 [financialjuice] US energy secretary Wright: to receive updates from Europe on fresh diesel supplies
+- 10/01 06:23 [financialjuice/FirstSquawk] Climate change causes 6C temperature rise per decade, experts warn
+- 10/01 06:25 [FirstSquawk] US ENERGY SECRETARY WRIGHT: DIESEL SUPPLY ANNOUNCEMENTS EXPECTED FROM US & EUROPE
+- 10/01 06:28 [FirstSquawk] YEMENI FORCES DESTROYED AN IRANIAN-DEVELOPED MOBILE AIR DEFENCE SYSTEM IN AL-MOKHA - AL ARABIYA, WITH THE YEMENI ARMED FORCES SAYING THEY DESTROYED HOUTHI REINFORCEMENTS AND WEAPONS
+- 10/01 06:29 [FirstSquawk] TRUMP SAYS ON LONG-TERM TREASURY AUCTIONS THAT BESSENT 'HAS GOOD INSTINCTS', AND THAT HE IS CONSIDERING A DIESEL EXPORT BAN DAILY, THOUGH IT COULD HAVE A NEGATIVE IMPACT ON GASOLINE, ADDING THAT THE U.S. HAS 'TOTAL CONTROL OF THE STRAIT OF …
+- 10/01 06:29 [FirstSquawk] TRUMP SAYS ON CHINA AND AI THAT 'THEY'RE GOING FULL BLAST'.
+- 10/01 06:29 [FirstSquawk/financialjuice] SOUTH KOREA URGES GOVERNMENT TO BOOST INVESTMENTS IN ELECTRIC VEHICLE SECTOR
+- 10/01 06:29 [financialjuice] Fed's Goolsbee: record gap between consumer sentiment vibes and actual spending data
+- 10/01 06:31 [FirstSquawk] U.S. CENTRAL COMMAND SAYS THAT AS OF SEPT. 30, CENTCOM FORCES HAVE REDIRECTED 125 COMMERCIAL VESSELS TO ENSURE STRICT COMPLIANCE, WITH THE USS GEORGE H.W. BUSH (CVN 77) SAILING IN THE ARABIAN SEA SUPPORTING ENFORCEMENT OF THE U.S. BLOCKADE …

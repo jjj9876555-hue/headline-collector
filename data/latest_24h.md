@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-01 06:19 JST／対象: 09/30 06:19 〜 10/01 06:19 JST（時刻はすべて日本時間）
+生成: 2026-10-01 06:37 JST／対象: 09/30 06:37 〜 10/01 06:37 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 75 | 09/30 18:55 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
-| FirstSquawk | 367 | 09/30 06:19 | 10/01 06:18 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 286 | 09/30 06:26 | 10/01 06:14 | ⚠ 80分（10:57→12:18） |
+| FirstSquawk | 367 | 09/30 08:05 | 10/01 06:31 | 31分（17:30→18:02） |
+| financialjuice | 286 | 09/30 07:40 | 10/01 06:29 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 711 行（統合前 730 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 709 行（統合前 730 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 06:19 [FirstSquawk] TRUMP TELLS AXIOS: JAY CLAYTON WOULD MAKE A GOOD AI CHIEF
-- 09/30 06:20 [FirstSquawk] FDA INVESTIGATION HAS LED TO CHARGES AGAINST TWO INDIAN NATIONALS INVOLVED IN A TRANSNATIONAL COUNTERFEIT DRUG DISTRIBUTION SCHEME, WITH THE FDA ALLEGING THAT BETWEEN JULY 2023 AND APRIL 2024, SWAPNADIP ROY AND VICKY RAMANCHA OBTAINED COUNT…
-- 09/30 06:26 [financialjuice] Trump releases document approved by all executives at White House on Tuesday: Truth Social
-- 09/30 06:27 [financialjuice] Document shared by Trump: Each company should apply four layers of controls and audits
-- 09/30 06:27 [financialjuice] Document shared by Trump: implement strong internal controls to oversee model capabilities and alignment
-- 09/30 06:28 [FirstSquawk] GOLDMAN SACHS PRIVATE CREDIT CORP SAYS ABOUT 7,605,110.708 SHARES — 2.03% OF THOSE OUTSTANDING — WERE TENDERED BEFORE THE OFFER EXPIRATION ON SEPT. 22, 2026, WITH THE FUND TO REPURCHASE 100% OF THE REQUESTED AMOUNTS, AND THE REPURCHASE RATE…
-- 09/30 06:28 [FirstSquawk] GOLDMAN SACHS PRIVATE CREDIT CORP SAYS IT WAS THE ONLY FUND IN ITS PEER GROUP WITH REPURCHASE REQUESTS BELOW THE 5% QUARTERLY OFFER IN 2026, GENERATING $400 MLN IN GROSS INFLOWS IN Q3 2026 — 4.4% OF JUNE 30, 2026 NAV — AND ADDING THAT CONCE…
-- 09/30 06:28 [financialjuice] Document shared by Trump: empower internal team to ensure all controls, monitoring and detection operate as intended
-- 09/30 06:29 [financialjuice] Document shared by Trump: appoint independent board committee to monitor and receive updates from control teams and auditors
-- 09/30 06:29 [FirstSquawk] TRUMP HAS POSTED THE 'WHITE HOUSE ACCORD ON SUPER INTELLIGENCE', A 'JOINT COMMITMENT ON FRONTIER RESPONSIBILITIES', SAYING THAT TO BUILD A POSITIVE FUTURE 'EVERY COMPANY IS RESPONSIBLE FOR DEVELOPING ITS OWN TECHNOLOGY SAFELY AND IN A WAY T…
-- 09/30 06:29 [FirstSquawk] THE ACCORD CALLS FOR EACH COMPANY TO IMPLEMENT FOUR LAYERS OF CONTROLS AND AUDITS: ROBUST INTERNAL CONTROLS TO MONITOR MODELS' CAPABILITIES AND ALIGNMENT AROUND AREAS LIKE CYBERSECURITY, BIOSECURITY AND CHEMICAL THREATS AND ENSURE THEY DO N…
-- 09/30 06:29 [FirstSquawk] THE ACCORD SAYS PARTICIPATING COMPANIES WILL MEET REGULARLY TO ESTABLISH STANDARDS AND BEST PRACTICES, AND THAT 'OVER TIME, IT MAY MAKE SENSE TO CODIFY THESE STEPS INTO LAWS OR REGULATIONS', ADDING THAT REGARDLESS OF WHETHER THAT HAPPENS, I…
-- 09/30 06:29 [financialjuice] Document circulated by Trump endorsed by Google, Anthropic, Meta, OpenAI, Musk, Nvidia
-- 09/30 06:32 [financialjuice] Document shared by Trump: Nvidia, OpenAI, Anthropic, xAI, Google to convene regularly on AI safety standards
 - 09/30 07:40 [financialjuice] Senior Saudi official denies any meeting with Israeli officials
 - 09/30 07:59 [financialjuice] EU trade chief Sefcovic: pushing for reforms to tackle excess industrial capacity in G20, WTO frameworks
 - 09/30 08:00 [financialjuice] South Korea August industrial output falls 2.2% year on year, poll predicted 4% increase: stats office
@@ -735,3 +721,15 @@
 - 10/01 06:17 [FirstSquawk] U.S. AND SOUTH KOREA HAVE LAUNCHED A $22.3 BLN TEXAS GAS POWER PROJECT FOR AI DATA CENTERS, WHICH SOUTH KOREA SAYS WILL SUPPLY 6.47 GW OF ELECTRICITY WITH COMMERCIAL OPERATIONS EXPECTED BY 2029, WITH ANNUAL U.S. INVESTMENT CAPPED AT $20 BLN…
 - 10/01 06:17 [FirstSquawk] SEOUL AND WASHINGTON WILL REVIEW THE ALASKA LNG PIPELINE AND EXPORT TERMINAL PROJECT — WHICH WILL PROCEED ONLY IF COMMERCIAL AND LEGAL CONDITIONS ARE MET — WHILE SOUTH KOREA IS SEEKING EQUITY INVESTMENTS BY KOREAN COMPANIES IN WESTINGHOUSE.
 - 10/01 06:18 [FirstSquawk] RIO TINTO SAYS A DEAL WITH THE AUSTRALIAN AND TASMANIAN GOVERNMENTS SECURES ITS BELL BAY ALUMINIUM OPERATIONS THROUGH 2031, WITH HYDRO TASMANIA TO SUPPLY ELECTRICITY THROUGH 31 DECEMBER 2031 AND THE AUSTRALIAN AND TASMANIAN GOVERNMENTS TO P…
+- 10/01 06:22 [financialjuice] OpenAI executive withdraws second $25 million contribution to AI super PAC: NYT
+- 10/01 06:22 [financialjuice] OpenAI's Greg Brockman withdraws from second $25 million donation to a super PAC - NYT
+- 10/01 06:22 [financialjuice] US energy secretary Wright: will make some announcements on diesel
+- 10/01 06:23 [financialjuice] US energy secretary Wright: to receive updates from Europe on fresh diesel supplies
+- 10/01 06:23 [financialjuice/FirstSquawk] Climate change causes 6C temperature rise per decade, experts warn
+- 10/01 06:25 [FirstSquawk] US ENERGY SECRETARY WRIGHT: DIESEL SUPPLY ANNOUNCEMENTS EXPECTED FROM US & EUROPE
+- 10/01 06:28 [FirstSquawk] YEMENI FORCES DESTROYED AN IRANIAN-DEVELOPED MOBILE AIR DEFENCE SYSTEM IN AL-MOKHA - AL ARABIYA, WITH THE YEMENI ARMED FORCES SAYING THEY DESTROYED HOUTHI REINFORCEMENTS AND WEAPONS
+- 10/01 06:29 [FirstSquawk] TRUMP SAYS ON LONG-TERM TREASURY AUCTIONS THAT BESSENT 'HAS GOOD INSTINCTS', AND THAT HE IS CONSIDERING A DIESEL EXPORT BAN DAILY, THOUGH IT COULD HAVE A NEGATIVE IMPACT ON GASOLINE, ADDING THAT THE U.S. HAS 'TOTAL CONTROL OF THE STRAIT OF …
+- 10/01 06:29 [FirstSquawk] TRUMP SAYS ON CHINA AND AI THAT 'THEY'RE GOING FULL BLAST'.
+- 10/01 06:29 [FirstSquawk/financialjuice] SOUTH KOREA URGES GOVERNMENT TO BOOST INVESTMENTS IN ELECTRIC VEHICLE SECTOR
+- 10/01 06:29 [financialjuice] Fed's Goolsbee: record gap between consumer sentiment vibes and actual spending data
+- 10/01 06:31 [FirstSquawk] U.S. CENTRAL COMMAND SAYS THAT AS OF SEPT. 30, CENTCOM FORCES HAVE REDIRECTED 125 COMMERCIAL VESSELS TO ENSURE STRICT COMPLIANCE, WITH THE USS GEORGE H.W. BUSH (CVN 77) SAILING IN THE ARABIAN SEA SUPPORTING ENFORCEMENT OF THE U.S. BLOCKADE …
