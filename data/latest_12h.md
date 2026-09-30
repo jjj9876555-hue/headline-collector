@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-01 03:41 JST／対象: 09/30 15:41 〜 10/01 03:41 JST（時刻はすべて日本時間）
+生成: 2026-10-01 03:59 JST／対象: 09/30 15:59 〜 10/01 03:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 60 | 09/30 18:55 | 10/01 03:38 | ⚠ 77分（00:53→02:11） |
-| FirstSquawk | 148 | 09/30 15:42 | 10/01 03:40 | 31分（17:30→18:02） |
-| financialjuice | 164 | 09/30 15:45 | 10/01 03:37 | ⚠ 54分（16:01→16:55） |
+| DeItaone | 67 | 09/30 18:55 | 10/01 03:56 | ⚠ 77分（00:53→02:11） |
+| FirstSquawk | 143 | 09/30 16:01 | 10/01 03:54 | 31分（17:30→18:02） |
+| financialjuice | 161 | 09/30 16:01 | 10/01 03:53 | ⚠ 54分（16:01→16:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 359 行（統合前 373 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 358 行（統合前 372 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 15:42 [FirstSquawk] Israeli source: Plane expected to land in Saudi Arabia shortly, with situation to become clearer afterward
-- 09/30 15:45 [financialjuice] FRENCH HICP MOM PRELIM ACTUAL -0.4% (FORECAST -0.5%, PREVIOUS 0.7%) $MACRO
-- 09/30 15:45 [financialjuice] FRENCH CONSUMER SPENDING MOM ACTUAL -0.5% (FORECAST 0%, PREVIOUS 0.5%) $MACRO
-- 09/30 15:45 [financialjuice] FRENCH PPI YOY ACTUAL 4.8% (FORECAST -, PREVIOUS 3.4%) $MACRO
-- 09/30 15:45 [financialjuice] ❗ FRENCH CPI MOM NSA PRELIM ACTUAL -0.3% (FORECAST -0.5%, PREVIOUS 0.7%) $MACRO
-- 09/30 15:45 [financialjuice] ❗ FRENCH HICP YOY PRELIM ACTUAL 3.4% (FORECAST 3.2%, PREVIOUS 2.6%) $MACRO
-- 09/30 15:45 [financialjuice] ❗ FRENCH CPI YOY NSA PRELIM ACTUAL 3% (FORECAST 2.8%, PREVIOUS 2.4%) $MACRO
-- 09/30 15:48 [FirstSquawk] FRANCE (AUG) CONSUMER SPENDING YOY ACTUAL: 0.8% VS 1.4% PREVIOUS
-- 09/30 15:48 [FirstSquawk] FRANCE (AUG) CONSUMER SPENDING MOM ACTUAL: -0.5% VS 0.5% PREVIOUS;EST 0.0%
-- 09/30 15:48 [FirstSquawk] FRANCE (AUG) PPI YOY ACTUAL: 4.8% VS 3.4% PREVIOUS
-- 09/30 15:48 [FirstSquawk] FRANCE (AUG) PPI MOM ACTUAL: 1.0% VS 1.1% PREVIOUS
-- 09/30 15:48 [FirstSquawk] FRANCE (SEP) CPI YOY ACTUAL: 3.0% VS 2.4% PREVIOUS;EST 2.8%
-- 09/30 15:48 [FirstSquawk] FRANCE (SEP) CPI MOM ACTUAL: -0.3% VS 0.7% PREVIOUS;EST -0.5%
-- 09/30 15:48 [FirstSquawk] FRANCE (SEP) CPI EU HARMONIZED YOY ACTUAL: 3.4% VS 2.6% PREVIOUS;EST 3.2%
-- 09/30 15:48 [FirstSquawk] FRANCE (SEP) CPI EU HARMONIZED MOM ACTUAL: -0.4% VS 0.7% PREVIOUS;EST -0.5%
 - 09/30 16:01 [financialjuice] Russia extends diesel export ban through October - IFX
 - 09/30 16:01 [FirstSquawk] Israeli prime minister’s spokesperson says Flydubai incident is not a hijacking
 - 09/30 16:14 [FirstSquawk] RUSSIA HAS DECIDED TO CONTINUE ITS BAN ON DIESEL EXPORTS UNTIL OCTOBER.
@@ -383,3 +368,17 @@
 - 10/01 03:38 [DeItaone] WALGREENS OWNER NEARS $9 BILLION BOOTS SALE Walgreens owner Sycamore Partners is nearing a deal to sell Boots for close to $9 billion including debt, according to the WSJ. The buyer is reportedly the Canadian arm of the Weston family, which…
 - 10/01 03:40 [FirstSquawk] SYNOPSYS SAYS IT AND OPENAI HAVE SIGNED A MULTI-YEAR AGREEMENT TO DEVELOP GPT-SYNOPSYS FOR CHIP DESIGN, WITH OPENAI TO LICENSE SYNOPSYS' TRUSTED ELECTRONIC DESIGN AUTOMATION (EDA) TOOLS FOR DEVELOPMENT OF THE SPECIALIZED MODEL.
 - 10/01 03:40 [FirstSquawk] SYNOPSYS SAYS THE AGREEMENT INCLUDES REVENUE SHARING AND A GLOBAL GO-TO-MARKET FOR GPT-SYNOPSYS.
+- 10/01 03:41 [DeItaone] *WHITE HOUSE: SOUTH KOREA PLANS TO INVEST BILLIONS
+- 10/01 03:41 [DeItaone] WHITE HOUSE SAYS S. KOREA TO INVEST IN US ENERGY
+- 10/01 03:42 [FirstSquawk] US SENATORS DELAY PUSH FOR PERMANENT CHINESE CAR BAN APPROVAL UNTIL NOVEMBER — AIDES
+- 10/01 03:44 [FirstSquawk] ISRAEL'S NETANYAHU SAYS THE PILOT ATTACKED ON A FLYDUBAI FLIGHT WAS INDIAN, NAMING HIM AS SMIT MACHCHHAR, AND SAYS THE PILOT'S ACTIONS SAVED 174 LIVES, INCLUDING ISRAELIS AND OTHER NATIONALS
+- 10/01 03:45 [DeItaone] *BIGGEST US GRID SUSPENDS PLAN FOR NEW DATA CENTER POWER AUCTION
+- 10/01 03:46 [DeItaone] SYRIA SAYS THREE POWER PLANTS GONE OUT OF SERVICE AFTER GAS PIPELINE EXPLOSION -STATE NEWS AGENCY
+- 10/01 03:46 [financialjuice] Syria: Three power plants gone out of service after gas pipeline explosion - State News Agency.
+- 10/01 03:48 [DeItaone] *OPENAI CEO SAM ALTMAN TO SKIP CONGRESS HEARING ON AI: NBC
+- 10/01 03:51 [financialjuice] OpenAI CEO Altman is going to skip the Congressional hearing on rogue AI agents - NBC News.
+- 10/01 03:53 [financialjuice] Brent Crude futures settle at $103.53/bbl, up 94 cents, 0.92%.
+- 10/01 03:54 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 0.92% HIGHER AT $103.53/BBL, UP 94 CENTS
+- 10/01 03:54 [DeItaone] TRUMP SET TO UNVEIL $200 BILLION SOUTH KOREAN INVESTMENT President Trump is expected to announce $200 billion in South Korean investment in U.S. energy projects, including eight nuclear power plants, a Texas power facility and Alaska LNG. T…
+- 10/01 03:54 [FirstSquawk] OPENAI CEO SAM ALTMAN TO SKIP CONGRESSIONAL HEARING ON ROGUE AI AGENTS — NBC NEWS
+- 10/01 03:56 [DeItaone] PENTAGON TO CREATE NEW DRONE WARFARE GROUP Defense Secretary Pete Hegseth is establishing a permanent Pentagon organization for drones, autonomous systems and defense robotics, according to Sen. Tim Sheehy. The Pentagon is seeking $54.6 bil…

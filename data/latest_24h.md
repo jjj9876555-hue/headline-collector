@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-01 03:41 JST／対象: 09/30 03:41 〜 10/01 03:41 JST（時刻はすべて日本時間）
+生成: 2026-10-01 03:59 JST／対象: 09/30 03:59 〜 10/01 03:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 82 | 09/30 04:01 | 10/01 03:38 | ⚠ 789分（05:46→18:55） |
-| FirstSquawk | 363 | 09/30 03:41 | 10/01 03:40 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 316 | 09/30 03:47 | 10/01 03:37 | ⚠ 80分（10:57→12:18） |
+| DeItaone | 89 | 09/30 04:01 | 10/01 03:56 | ⚠ 789分（05:46→18:55） |
+| FirstSquawk | 362 | 09/30 04:00 | 10/01 03:54 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 313 | 09/30 04:00 | 10/01 03:53 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 741 行（統合前 763 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 744 行（統合前 766 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 03:41 [FirstSquawk] TRUMP SAYS 'SELF-REGULATION IS VERY IMPORTANT IN AI', ADDING THAT THE GROUP WANTS TO WORK WITH LOCAL COMMUNITIES 'TO MAKE THE PEOPLE HAPPY' AND THAT THE AI LEADERS 'WANT TO DO THE RIGHT THING'.
-- 09/30 03:47 [financialjuice] Fed's Williams: AI is driving up asset market valuations, bolstering the wealth effect.
-- 09/30 03:48 [financialjuice] Fed's Williams: starting to see some data that shows AI bolstering productivity gains.
-- 09/30 03:49 [FirstSquawk] TRADERS CUT BETS ON OCTOBER FED HIKE; NOW SEE JUST ONE RATE HIKE BY YEAR-END AFTER WILLIAMS SAYS THERE IS “NO URGENCY” TO ACT
-- 09/30 03:49 [financialjuice] ❗ Traders trim bets on October Fed rate hike, see just one Fed rate hike by year-end after Fed's Williams says 'no urgency' on Fed action
-- 09/30 03:51 [financialjuice] Traders now see about a 50-50 chance of a Fed rate hike in October, down from about 70% previously.
-- 09/30 03:51 [FirstSquawk] TRADERS SEE 50-50 CHANCE OF OCTOBER FED RATE HIKE, DOWN FROM 70% PREVIOUSLY
-- 09/30 03:52 [financialjuice] Brent Crude futures settle at $102.59/bbl, down $2.69, 2.56%.
-- 09/30 03:53 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 3.48% LOWER AT $89.38/BBL, DOWN $3.22
-- 09/30 03:54 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 2.56% LOWER AT $102.59/BBL, DOWN $2.69
-- 09/30 03:57 [financialjuice] OpenAI aims to prioritize mission and safety before IPO.
 - 09/30 04:00 [financialjuice] Fed's Waller does not comment on monetary policy, economic outlook in remarks on 'Payments in the Age of AI Agents'
 - 09/30 04:00 [FirstSquawk] FED’S WALLER MAKES NO COMMENTS ON MONETARY POLICY OR ECONOMIC OUTLOOK IN REMARKS ON “PAYMENTS IN THE AGE OF AI AGENTS”
 - 09/30 04:01 [DeItaone] EURO HITS 16-MONTH LOW AGAINST US DOLLAR, LAST DOWN 0.26% AT $1.13415
@@ -765,3 +754,17 @@
 - 10/01 03:38 [DeItaone] WALGREENS OWNER NEARS $9 BILLION BOOTS SALE Walgreens owner Sycamore Partners is nearing a deal to sell Boots for close to $9 billion including debt, according to the WSJ. The buyer is reportedly the Canadian arm of the Weston family, which…
 - 10/01 03:40 [FirstSquawk] SYNOPSYS SAYS IT AND OPENAI HAVE SIGNED A MULTI-YEAR AGREEMENT TO DEVELOP GPT-SYNOPSYS FOR CHIP DESIGN, WITH OPENAI TO LICENSE SYNOPSYS' TRUSTED ELECTRONIC DESIGN AUTOMATION (EDA) TOOLS FOR DEVELOPMENT OF THE SPECIALIZED MODEL.
 - 10/01 03:40 [FirstSquawk] SYNOPSYS SAYS THE AGREEMENT INCLUDES REVENUE SHARING AND A GLOBAL GO-TO-MARKET FOR GPT-SYNOPSYS.
+- 10/01 03:41 [DeItaone] *WHITE HOUSE: SOUTH KOREA PLANS TO INVEST BILLIONS
+- 10/01 03:41 [DeItaone] WHITE HOUSE SAYS S. KOREA TO INVEST IN US ENERGY
+- 10/01 03:42 [FirstSquawk] US SENATORS DELAY PUSH FOR PERMANENT CHINESE CAR BAN APPROVAL UNTIL NOVEMBER — AIDES
+- 10/01 03:44 [FirstSquawk] ISRAEL'S NETANYAHU SAYS THE PILOT ATTACKED ON A FLYDUBAI FLIGHT WAS INDIAN, NAMING HIM AS SMIT MACHCHHAR, AND SAYS THE PILOT'S ACTIONS SAVED 174 LIVES, INCLUDING ISRAELIS AND OTHER NATIONALS
+- 10/01 03:45 [DeItaone] *BIGGEST US GRID SUSPENDS PLAN FOR NEW DATA CENTER POWER AUCTION
+- 10/01 03:46 [DeItaone] SYRIA SAYS THREE POWER PLANTS GONE OUT OF SERVICE AFTER GAS PIPELINE EXPLOSION -STATE NEWS AGENCY
+- 10/01 03:46 [financialjuice] Syria: Three power plants gone out of service after gas pipeline explosion - State News Agency.
+- 10/01 03:48 [DeItaone] *OPENAI CEO SAM ALTMAN TO SKIP CONGRESS HEARING ON AI: NBC
+- 10/01 03:51 [financialjuice] OpenAI CEO Altman is going to skip the Congressional hearing on rogue AI agents - NBC News.
+- 10/01 03:53 [financialjuice] Brent Crude futures settle at $103.53/bbl, up 94 cents, 0.92%.
+- 10/01 03:54 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 0.92% HIGHER AT $103.53/BBL, UP 94 CENTS
+- 10/01 03:54 [DeItaone] TRUMP SET TO UNVEIL $200 BILLION SOUTH KOREAN INVESTMENT President Trump is expected to announce $200 billion in South Korean investment in U.S. energy projects, including eight nuclear power plants, a Texas power facility and Alaska LNG. T…
+- 10/01 03:54 [FirstSquawk] OPENAI CEO SAM ALTMAN TO SKIP CONGRESSIONAL HEARING ON ROGUE AI AGENTS — NBC NEWS
+- 10/01 03:56 [DeItaone] PENTAGON TO CREATE NEW DRONE WARFARE GROUP Defense Secretary Pete Hegseth is establishing a permanent Pentagon organization for drones, autonomous systems and defense robotics, according to Sen. Tim Sheehy. The Pentagon is seeking $54.6 bil…

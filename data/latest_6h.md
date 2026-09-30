@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 03:41 JST／対象: 09/30 21:41 〜 10/01 03:41 JST（時刻はすべて日本時間）
+生成: 2026-10-01 03:59 JST／対象: 09/30 21:59 〜 10/01 03:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 33 | 09/30 21:44 | 10/01 03:38 | ⚠ 77分（00:53→02:11） |
-| FirstSquawk | 71 | 09/30 21:42 | 10/01 03:40 | 28分（03:03→03:31） |
-| financialjuice | 87 | 09/30 21:45 | 10/01 03:37 | 35分（01:01→01:37） |
+| DeItaone | 36 | 09/30 22:02 | 10/01 03:56 | ⚠ 77分（00:53→02:11） |
+| FirstSquawk | 73 | 09/30 22:01 | 10/01 03:54 | 28分（03:03→03:31） |
+| financialjuice | 87 | 09/30 22:00 | 10/01 03:53 | 35分（01:01→01:37） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 182 行（統合前 192 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 188 行（統合前 197 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 21:42 [FirstSquawk] EU AND CANADA TO EXPLORE NEW TECHNOLOGY LINKS AND LNG SALES
-- 09/30 21:44 [DeItaone] U.S. CORE PCE FALLS BELOW EVERY ANALYST FORECAST August core PCE came in at 3.0% YoY vs. 3.3% expected, below the entire range of 51 Bloomberg analyst forecasts (3.1%–3.5%). The surprise was driven primarily by larger-than-expected downward…
-- 09/30 21:45 [financialjuice] France’s President Macron: Welcome back if the UK wants to rejoin the EU.
-- 09/30 21:46 [DeItaone/financialjuice] FRANCE’S MACRON: IF THE BRITISH PM WANTS BRITAIN TO RETURN TO THE EU THAT WOULD BE EXCELLENT NEWS AND A GOOD DECISION
-- 09/30 21:48 [DeItaone] *MACRON SAYS `WELCOME BACK' IF UK WANTS TO REJOIN EU
-- 09/30 21:49 [financialjuice] EU Commission Spokesperson Ujvari: The EU is open to engaging on relationship options the UK may put forward - Statement
-- 09/30 21:51 [DeItaone] U.S. S&P 500 E-MINI FUTURES UP 0.3%, NASDAQ 100 FUTURES UP 0.29%, DOW FUTURES UP 0.26%
-- 09/30 21:53 [FirstSquawk] EU OPEN TO ENGAGING ON RELATIONSHIP OPTIONS UK MAY PUT FORWARD
 - 09/30 22:00 [financialjuice] Effective fed funds rate 3.88% September 29th vs 3.88% September 28th.
 - 09/30 22:01 [FirstSquawk] BMW AIMS TO CUT 20% OF MANAGEMENT JOBS WITH AI ASSISTANCE.
 - 09/30 22:01 [financialjuice] Fed's Barr opposes final rule, changes will weaken stress test.
@@ -206,3 +198,17 @@
 - 10/01 03:38 [DeItaone] WALGREENS OWNER NEARS $9 BILLION BOOTS SALE Walgreens owner Sycamore Partners is nearing a deal to sell Boots for close to $9 billion including debt, according to the WSJ. The buyer is reportedly the Canadian arm of the Weston family, which…
 - 10/01 03:40 [FirstSquawk] SYNOPSYS SAYS IT AND OPENAI HAVE SIGNED A MULTI-YEAR AGREEMENT TO DEVELOP GPT-SYNOPSYS FOR CHIP DESIGN, WITH OPENAI TO LICENSE SYNOPSYS' TRUSTED ELECTRONIC DESIGN AUTOMATION (EDA) TOOLS FOR DEVELOPMENT OF THE SPECIALIZED MODEL.
 - 10/01 03:40 [FirstSquawk] SYNOPSYS SAYS THE AGREEMENT INCLUDES REVENUE SHARING AND A GLOBAL GO-TO-MARKET FOR GPT-SYNOPSYS.
+- 10/01 03:41 [DeItaone] *WHITE HOUSE: SOUTH KOREA PLANS TO INVEST BILLIONS
+- 10/01 03:41 [DeItaone] WHITE HOUSE SAYS S. KOREA TO INVEST IN US ENERGY
+- 10/01 03:42 [FirstSquawk] US SENATORS DELAY PUSH FOR PERMANENT CHINESE CAR BAN APPROVAL UNTIL NOVEMBER — AIDES
+- 10/01 03:44 [FirstSquawk] ISRAEL'S NETANYAHU SAYS THE PILOT ATTACKED ON A FLYDUBAI FLIGHT WAS INDIAN, NAMING HIM AS SMIT MACHCHHAR, AND SAYS THE PILOT'S ACTIONS SAVED 174 LIVES, INCLUDING ISRAELIS AND OTHER NATIONALS
+- 10/01 03:45 [DeItaone] *BIGGEST US GRID SUSPENDS PLAN FOR NEW DATA CENTER POWER AUCTION
+- 10/01 03:46 [DeItaone] SYRIA SAYS THREE POWER PLANTS GONE OUT OF SERVICE AFTER GAS PIPELINE EXPLOSION -STATE NEWS AGENCY
+- 10/01 03:46 [financialjuice] Syria: Three power plants gone out of service after gas pipeline explosion - State News Agency.
+- 10/01 03:48 [DeItaone] *OPENAI CEO SAM ALTMAN TO SKIP CONGRESS HEARING ON AI: NBC
+- 10/01 03:51 [financialjuice] OpenAI CEO Altman is going to skip the Congressional hearing on rogue AI agents - NBC News.
+- 10/01 03:53 [financialjuice] Brent Crude futures settle at $103.53/bbl, up 94 cents, 0.92%.
+- 10/01 03:54 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 0.92% HIGHER AT $103.53/BBL, UP 94 CENTS
+- 10/01 03:54 [DeItaone] TRUMP SET TO UNVEIL $200 BILLION SOUTH KOREAN INVESTMENT President Trump is expected to announce $200 billion in South Korean investment in U.S. energy projects, including eight nuclear power plants, a Texas power facility and Alaska LNG. T…
+- 10/01 03:54 [FirstSquawk] OPENAI CEO SAM ALTMAN TO SKIP CONGRESSIONAL HEARING ON ROGUE AI AGENTS — NBC NEWS
+- 10/01 03:56 [DeItaone] PENTAGON TO CREATE NEW DRONE WARFARE GROUP Defense Secretary Pete Hegseth is establishing a permanent Pentagon organization for drones, autonomous systems and defense robotics, according to Sen. Tim Sheehy. The Pentagon is seeking $54.6 bil…
