@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-01 07:35 JST／対象: 09/30 07:35 〜 10/01 07:35 JST（時刻はすべて日本時間）
+生成: 2026-10-01 07:53 JST／対象: 09/30 07:53 〜 10/01 07:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 75 | 09/30 18:55 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
-| FirstSquawk | 367 | 09/30 08:05 | 10/01 06:31 | 31分（17:30→18:02） |
-| financialjuice | 321 | 09/30 07:40 | 10/01 07:29 | ⚠ 80分（10:57→12:18） |
+| FirstSquawk | 371 | 09/30 08:05 | 10/01 07:50 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 320 | 09/30 07:59 | 10/01 07:29 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 744 行（統合前 765 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 747 行（統合前 768 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 07:40 [financialjuice] Senior Saudi official denies any meeting with Israeli officials
 - 09/30 07:59 [financialjuice] EU trade chief Sefcovic: pushing for reforms to tackle excess industrial capacity in G20, WTO frameworks
 - 09/30 08:00 [financialjuice] South Korea August industrial output falls 2.2% year on year, poll predicted 4% increase: stats office
 - 09/30 08:00 [financialjuice] S. Korea Aug service sector output rises 0.5% m/m: stats office
@@ -768,3 +767,7 @@
 - 10/01 07:29 [financialjuice] Not surprised Fed IG didn’t uncover any wrongdoing in Fed renovation project
 - 10/01 07:29 [financialjuice] Fed's Kashkari: size of central bank balance sheet is a complex issue
 - 10/01 07:29 [financialjuice] Rolling supply shocks risk boosting inflation expectations
+- 10/01 07:49 [FirstSquawk] BOEING: JAPAN AIRLINES RENEWS INTEGRATED MATERIALS MANAGEMENT SERVICES AGREEMENT
+- 10/01 07:49 [FirstSquawk] FED'S KASHKARI SAYS THE ECONOMY REMAINS ROBUST DESPITE SHOCKS, WITH CONSUMERS CONTINUING TO SPEND AND JOB SEEKERS FINDING EMPLOYMENT, AND EXPECTS ONE MORE RATE INCREASE THIS YEAR AND ANOTHER IN 2027, ADDING THAT 'THE LONGER THE ECONOMY REMA…
+- 10/01 07:49 [FirstSquawk] FED'S KASHKARI SAYS THE CENTRAL BANK MUST RETURN INFLATION TO 2% GIVEN THE EXTENDED PERIOD ABOVE TARGET AND HOPES IT CAN DO SO WITH RESTRAINED MEASURES, WHILE WARNING THAT ROLLING SUPPLY SHOCKS MAY BOOST INFLATION EXPECTATIONS AND DOUBTING …
+- 10/01 07:50 [FirstSquawk] CPP INVESTMENTS TO SELL AUSTRALIAN TOLL ROAD STAKES TO TRANSURBAN FOR A$4.5B; DEAL COVERS WESTCONNEX & NORTHWESTERN ROADS GROUP INTERESTS

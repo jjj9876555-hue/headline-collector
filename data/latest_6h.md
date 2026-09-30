@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 07:35 JST／対象: 10/01 01:35 〜 10/01 07:35 JST（時刻はすべて日本時間）
+生成: 2026-10-01 07:53 JST／対象: 10/01 01:53 〜 10/01 07:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 31 | 10/01 02:11 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
-| FirstSquawk | 78 | 10/01 01:45 | 10/01 06:31 | 28分（03:03→03:31） |
-| financialjuice | 108 | 10/01 01:37 | 10/01 07:29 | 20分（03:02→03:23） |
+| FirstSquawk | 80 | 10/01 01:54 | 10/01 07:50 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 105 | 10/01 01:55 | 10/01 07:29 | 20分（03:02→03:23） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 207 行（統合前 219 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 206 行（統合前 217 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 01:37 [financialjuice] Call is scheduled to take place between Trump and Netanyahu in the coming hours regarding the FlyDubai incident - Israeli Channel 14
-- 10/01 01:43 [financialjuice] US oil industry warns diesel prices will not return to normal for a year - FT
-- 10/01 01:45 [FirstSquawk] GOLDMAN SACHS REVISES FOR FED HIKE TO DECEMBER FROM OCTOBER
-- 10/01 01:45 [financialjuice] Goldman Sachs shifts fed forecast to December hike from October
-- 10/01 01:52 [FirstSquawk] LAGARDE: MÉLENCHON DEBT PLAN RISKY, FINANCIALLY VERY DANGEROUS
 - 10/01 01:54 [FirstSquawk] LAGARDE: RUNNING FOR FRENCH PRESIDENT NOT GOOD IDEA FOR ME
 - 10/01 01:54 [FirstSquawk] LAGARDE: WON'T RULE OUT LEAVING FEW MONTHS BEFORE ECB TERM ENDS
 - 10/01 01:55 [FirstSquawk] SPACEXAI PLANS TO SOON UNVEIL FOUR GROK PRICING TIERS
@@ -231,3 +226,7 @@
 - 10/01 07:29 [financialjuice] Not surprised Fed IG didn’t uncover any wrongdoing in Fed renovation project
 - 10/01 07:29 [financialjuice] Fed's Kashkari: size of central bank balance sheet is a complex issue
 - 10/01 07:29 [financialjuice] Rolling supply shocks risk boosting inflation expectations
+- 10/01 07:49 [FirstSquawk] BOEING: JAPAN AIRLINES RENEWS INTEGRATED MATERIALS MANAGEMENT SERVICES AGREEMENT
+- 10/01 07:49 [FirstSquawk] FED'S KASHKARI SAYS THE ECONOMY REMAINS ROBUST DESPITE SHOCKS, WITH CONSUMERS CONTINUING TO SPEND AND JOB SEEKERS FINDING EMPLOYMENT, AND EXPECTS ONE MORE RATE INCREASE THIS YEAR AND ANOTHER IN 2027, ADDING THAT 'THE LONGER THE ECONOMY REMA…
+- 10/01 07:49 [FirstSquawk] FED'S KASHKARI SAYS THE CENTRAL BANK MUST RETURN INFLATION TO 2% GIVEN THE EXTENDED PERIOD ABOVE TARGET AND HOPES IT CAN DO SO WITH RESTRAINED MEASURES, WHILE WARNING THAT ROLLING SUPPLY SHOCKS MAY BOOST INFLATION EXPECTATIONS AND DOUBTING …
+- 10/01 07:50 [FirstSquawk] CPP INVESTMENTS TO SELL AUSTRALIAN TOLL ROAD STAKES TO TRANSURBAN FOR A$4.5B; DEAL COVERS WESTCONNEX & NORTHWESTERN ROADS GROUP INTERESTS

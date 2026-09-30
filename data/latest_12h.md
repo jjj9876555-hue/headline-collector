@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-01 07:35 JST／対象: 09/30 19:35 〜 10/01 07:35 JST（時刻はすべて日本時間）
+生成: 2026-10-01 07:53 JST／対象: 09/30 19:53 〜 10/01 07:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 67 | 09/30 19:38 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
-| FirstSquawk | 151 | 09/30 19:43 | 10/01 06:31 | 28分（03:03→03:31） |
+| DeItaone | 65 | 09/30 19:54 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
+| FirstSquawk | 153 | 09/30 19:54 | 10/01 07:50 | ⚠ 78分（06:31→07:49） |
 | financialjuice | 195 | 09/30 20:00 | 10/01 07:29 | 35分（01:01→01:37） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 396 行（統合前 415 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 397 行（統合前 415 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 19:38 [DeItaone/FirstSquawk] A SECOND FLYDUBAI FLIGHT FROM DUBAI TO TEL AVIV, FZ1081, HAS DIVERTED, NOW HEADING BACK TO DUBAI - FLIGHTRADAR24
-- 09/30 19:43 [FirstSquawk] OPENAI: IMPACTED SERVICES FOR CHATGPT PRO, PLUS USERS RECOVERED
-- 09/30 19:53 [DeItaone] BITCOIN PRICE COULD REACH $1 MILLION PER COIN BY 2030, MAELSTROM CIO SAYS MAELSTROM CIO HAYES EXPECTS EXPLOSIVE BITCOIN RALLY IN LATE 2027, EARLY 2028 HAYES SEES AI-INVESTMENT BUST TRIGGERING TRILLIONS OF DOLLARS IN BAILOUTS
 - 09/30 19:54 [FirstSquawk] PAKISTAN MIGHT LET POWER PLANTS AND PRIVATE FIRMS IMPORT LNG DIRECTLY TO BOOST ENERGY SUPPLIES WITHOUT AFFECTING GOVERNMENT FUNDS.
 - 09/30 19:54 [DeItaone] ARTHUR HAYES SEES BITCOIN AT $1 MILLION BY 2030 Maelstrom CIO Arthur Hayes predicts Bitcoin could reach $1 million by 2030, with its strongest rally in late 2027 or early 2028. His thesis: an AI infrastructure bubble bursts as data-center r…
 - 09/30 19:57 [DeItaone] UBS: HIGHER INTEREST RATES COULD BENEFIT HEDGE FUNDS UBS says the current environment of elevated interest rates could support hedge fund performance, citing historical resilience during monetary tightening. Hedge funds have generated posit…
@@ -420,3 +417,7 @@
 - 10/01 07:29 [financialjuice] Not surprised Fed IG didn’t uncover any wrongdoing in Fed renovation project
 - 10/01 07:29 [financialjuice] Fed's Kashkari: size of central bank balance sheet is a complex issue
 - 10/01 07:29 [financialjuice] Rolling supply shocks risk boosting inflation expectations
+- 10/01 07:49 [FirstSquawk] BOEING: JAPAN AIRLINES RENEWS INTEGRATED MATERIALS MANAGEMENT SERVICES AGREEMENT
+- 10/01 07:49 [FirstSquawk] FED'S KASHKARI SAYS THE ECONOMY REMAINS ROBUST DESPITE SHOCKS, WITH CONSUMERS CONTINUING TO SPEND AND JOB SEEKERS FINDING EMPLOYMENT, AND EXPECTS ONE MORE RATE INCREASE THIS YEAR AND ANOTHER IN 2027, ADDING THAT 'THE LONGER THE ECONOMY REMA…
+- 10/01 07:49 [FirstSquawk] FED'S KASHKARI SAYS THE CENTRAL BANK MUST RETURN INFLATION TO 2% GIVEN THE EXTENDED PERIOD ABOVE TARGET AND HOPES IT CAN DO SO WITH RESTRAINED MEASURES, WHILE WARNING THAT ROLLING SUPPLY SHOCKS MAY BOOST INFLATION EXPECTATIONS AND DOUBTING …
+- 10/01 07:50 [FirstSquawk] CPP INVESTMENTS TO SELL AUSTRALIAN TOLL ROAD STAKES TO TRANSURBAN FOR A$4.5B; DEAL COVERS WESTCONNEX & NORTHWESTERN ROADS GROUP INTERESTS
