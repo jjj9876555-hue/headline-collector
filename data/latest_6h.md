@@ -7,50 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-30 09:26 JST／対象: 09/30 03:26 〜 09/30 09:26 JST（時刻はすべて日本時間）
+生成: 2026-09-30 09:52 JST／対象: 09/30 03:52 〜 09/30 09:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 22 | 09/30 04:01 | 09/30 05:46 | 23分（05:12→05:36） |
-| FirstSquawk | 86 | 09/30 03:32 | 09/30 09:17 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 111 | 09/30 03:27 | 09/30 09:24 | ⚠ 67分（06:32→07:40） |
+| FirstSquawk | 92 | 09/30 03:53 | 09/30 09:51 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 94 | 09/30 03:52 | 09/30 09:39 | ⚠ 67分（06:32→07:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 212 行（統合前 221 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 202 行（統合前 209 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 03:27 [financialjuice] Fed's Musalem: Monetary policy remains somewhat accommodative even after the last rate hike.
-- 09/30 03:29 [financialjuice] Sounds like this White House AI meeting is wrapping up... Pool says press has been called to gather for an event - Fox News reporter
-- 09/30 03:29 [financialjuice] Fed's Williams: Inflation should ease because the biggest shocks have largely played out.
-- 09/30 03:29 [financialjuice] Trump Participates in a Meeting and Luncheon on Super Intelligence - WATCH LIVE
-- 09/30 03:30 [financialjuice] Fed's Williams: Energy prices remain very important in the economy, but the US is less exposed relative to the past.
-- 09/30 03:31 [financialjuice] ❗ Mediators push to break US-Iran deadlock - FT
-- 09/30 03:32 [FirstSquawk] MEDIATORS PUSH TO BREAK US-IRAN DEADLOCK AS TALKS REMAIN STALLED — FT
-- 09/30 03:32 [financialjuice] Fed's Williams: Determining how restrictive monetary policy is is hard.
-- 09/30 03:34 [FirstSquawk/financialjuice] MEDIATORS ARE RENEWING EFFORTS TO NEGOTIATE A SETTLEMENT BETWEEN THE UNITED STATES AND IRAN, DAYS AFTER PRESIDENT DONALD TRUMP REJECTED AN IRANIAN REQUEST TO REOPEN THE STRAIT OF HORMUZ AND RESTART TALKS TO END THE WAR, WITH NEGOTIATORS DUE…
-- 09/30 03:35 [FirstSquawk] UNDER THE TERMS OF THE AGREEMENT, WHICH MEDIATORS HOPE COULD RESTART TALKS ON A FINAL SETTLEMENT, IRAN WOULD ALLOW FREE MOVEMENT OF TRAFFIC THROUGH THE STRAIT OF HORMUZ AND THE U.S. WOULD EASE ITS BLOCKADE OF IRANIAN PORTS IN EXCHANGE, WITH…
-- 09/30 03:35 [financialjuice] Trump on AI meeting: Very good, very productive
-- 09/30 03:36 [financialjuice] Trump: What we spoke about will make the world safer
-- 09/30 03:36 [financialjuice] Trump: US has a big lead in AI, we'll keep our lead
-- 09/30 03:37 [financialjuice] Trump on AI Lunch: There was a lot of 'commonality' in the room.
-- 09/30 03:37 [financialjuice] Trump on AI: Should be tremendous self-regulation.
-- 09/30 03:38 [financialjuice] Trump on AI: Self-regulation is very important.
-- 09/30 03:38 [financialjuice] Trump: AI leaders to work with local communities on data centers.
-- 09/30 03:39 [financialjuice] Trump: AI leaders want to do the right thing
-- 09/30 03:39 [financialjuice] Trump ends remarks to reporters.
-- 09/30 03:41 [FirstSquawk] TRUMP SAYS IN A MEETING WITH AI LEADERS THAT IT WAS A 'VERY GOOD MEETING, EXTREMELY FRIENDLY AND PRODUCTIVE', WITH 'A LOT OF COMMONALITY IN THE ROOM', ADDING THAT THE U.S. HAS A 'BIG LEAD ON AI AND WANT TO KEEP IT'.
-- 09/30 03:41 [FirstSquawk] TRUMP SAYS 'SELF-REGULATION IS VERY IMPORTANT IN AI', ADDING THAT THE GROUP WANTS TO WORK WITH LOCAL COMMUNITIES 'TO MAKE THE PEOPLE HAPPY' AND THAT THE AI LEADERS 'WANT TO DO THE RIGHT THING'.
-- 09/30 03:47 [financialjuice] Fed's Williams: AI is driving up asset market valuations, bolstering the wealth effect.
-- 09/30 03:48 [financialjuice] Fed's Williams: starting to see some data that shows AI bolstering productivity gains.
-- 09/30 03:49 [FirstSquawk] TRADERS CUT BETS ON OCTOBER FED HIKE; NOW SEE JUST ONE RATE HIKE BY YEAR-END AFTER WILLIAMS SAYS THERE IS “NO URGENCY” TO ACT
-- 09/30 03:49 [financialjuice] ❗ Traders trim bets on October Fed rate hike, see just one Fed rate hike by year-end after Fed's Williams says 'no urgency' on Fed action
-- 09/30 03:51 [financialjuice] Traders now see about a 50-50 chance of a Fed rate hike in October, down from about 70% previously.
-- 09/30 03:51 [FirstSquawk] TRADERS SEE 50-50 CHANCE OF OCTOBER FED RATE HIKE, DOWN FROM 70% PREVIOUSLY
 - 09/30 03:52 [financialjuice] Brent Crude futures settle at $102.59/bbl, down $2.69, 2.56%.
 - 09/30 03:53 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 3.48% LOWER AT $89.38/BBL, DOWN $3.22
 - 09/30 03:54 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 2.56% LOWER AT $102.59/BBL, DOWN $2.69
@@ -236,3 +209,20 @@
 - 09/30 09:17 [FirstSquawk] EUROPEAN EQUITY FUTURES ADVANCE: DAX AND EUROSTOXX 50 UP 0.5%, FTSE GAINS 0.4%
 - 09/30 09:23 [financialjuice] China PBOC expected to set yuan midpoint at 6.7025 per dollar: estimate
 - 09/30 09:24 [financialjuice] Explosions heard in Ukraine's Kyiv: witness source reports
+- 09/30 09:29 [FirstSquawk] TRUMP STANDS BY LIGHT-TOUCH AI POLICY AMID GROWING INDUSTRY WARNINGS - WSJ
+- 09/30 09:30 [FirstSquawk] CHINA SIGNALS RESPONSE IF EU MOVES AGAINST CHINESE TRADE
+- 09/30 09:32 [financialjuice] S.Korea finmin: closely watching bond market
+- 09/30 09:33 [FirstSquawk] S.Korea finmin: Watching bond market developments closely
+- 09/30 09:33 [FirstSquawk] S.Korea finmin: Plans to use excess tax revenue to lower bond issuance if required
+- 09/30 09:33 [financialjuice] S.Korea Finance Ministry: to use surplus tax revenue to cut bond issuance if necessary
+- 09/30 09:33 [FirstSquawk] Reuters: Echoes of explosions heard in Kyiv
+- 09/30 09:35 [financialjuice] S. Korea finmin: to implement other stabilizing steps including treasury bond repurchase if bond yields soar excessively
+- 09/30 09:38 [FirstSquawk] S.Korea finmin: May use treasury bond buybacks and other measures if bond yields rise too sharply
+- 09/30 09:38 [FirstSquawk] Samsung Heavy Industries secures 307.4 billion won order
+- 09/30 09:39 [financialjuice] UN command: DMZ blast violates armistice agreement - Yonhap
+- 09/30 09:39 [FirstSquawk] Samsung Heavy Industries wins contract to build two very large gas carriers for Bermuda shipper
+- 09/30 09:42 [FirstSquawk] Heavy missile attack strikes Kyiv, with residential areas and energy sites hit and power outages reported in parts of the capital
+- 09/30 09:46 [FirstSquawk] 10-year JGB yield advances 1.0 basis point to 3.095%
+- 09/30 09:47 [FirstSquawk] CBS: Hegseth to announce plans to reduce generals and admirals by 20%
+- 09/30 09:51 [FirstSquawk] Japan elderly population rises to record 29.4% of total in 2025 census
+- 09/30 09:51 [FirstSquawk] Russian ballistic missile strikes rock Kyiv, leaving parts of capital without power

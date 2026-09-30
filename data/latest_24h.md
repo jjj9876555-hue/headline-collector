@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-30 09:26 JST／対象: 09/29 09:26 〜 09/30 09:26 JST（時刻はすべて日本時間）
+生成: 2026-09-30 09:52 JST／対象: 09/29 09:52 〜 09/30 09:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 88 | 09/29 20:26 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
-| FirstSquawk | 411 | 09/29 10:06 | 09/30 09:17 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 398 | 09/29 10:05 | 09/30 09:24 | ⚠ 67分（06:32→07:40） |
+| FirstSquawk | 424 | 09/29 10:06 | 09/30 09:51 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 402 | 09/29 10:05 | 09/30 09:39 | ⚠ 67分（06:32→07:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 872 行（統合前 903 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 889 行（統合前 920 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -896,3 +896,20 @@
 - 09/30 09:17 [FirstSquawk] EUROPEAN EQUITY FUTURES ADVANCE: DAX AND EUROSTOXX 50 UP 0.5%, FTSE GAINS 0.4%
 - 09/30 09:23 [financialjuice] China PBOC expected to set yuan midpoint at 6.7025 per dollar: estimate
 - 09/30 09:24 [financialjuice] Explosions heard in Ukraine's Kyiv: witness source reports
+- 09/30 09:29 [FirstSquawk] TRUMP STANDS BY LIGHT-TOUCH AI POLICY AMID GROWING INDUSTRY WARNINGS - WSJ
+- 09/30 09:30 [FirstSquawk] CHINA SIGNALS RESPONSE IF EU MOVES AGAINST CHINESE TRADE
+- 09/30 09:32 [financialjuice] S.Korea finmin: closely watching bond market
+- 09/30 09:33 [FirstSquawk] S.Korea finmin: Watching bond market developments closely
+- 09/30 09:33 [FirstSquawk] S.Korea finmin: Plans to use excess tax revenue to lower bond issuance if required
+- 09/30 09:33 [financialjuice] S.Korea Finance Ministry: to use surplus tax revenue to cut bond issuance if necessary
+- 09/30 09:33 [FirstSquawk] Reuters: Echoes of explosions heard in Kyiv
+- 09/30 09:35 [financialjuice] S. Korea finmin: to implement other stabilizing steps including treasury bond repurchase if bond yields soar excessively
+- 09/30 09:38 [FirstSquawk] S.Korea finmin: May use treasury bond buybacks and other measures if bond yields rise too sharply
+- 09/30 09:38 [FirstSquawk] Samsung Heavy Industries secures 307.4 billion won order
+- 09/30 09:39 [financialjuice] UN command: DMZ blast violates armistice agreement - Yonhap
+- 09/30 09:39 [FirstSquawk] Samsung Heavy Industries wins contract to build two very large gas carriers for Bermuda shipper
+- 09/30 09:42 [FirstSquawk] Heavy missile attack strikes Kyiv, with residential areas and energy sites hit and power outages reported in parts of the capital
+- 09/30 09:46 [FirstSquawk] 10-year JGB yield advances 1.0 basis point to 3.095%
+- 09/30 09:47 [FirstSquawk] CBS: Hegseth to announce plans to reduce generals and admirals by 20%
+- 09/30 09:51 [FirstSquawk] Japan elderly population rises to record 29.4% of total in 2025 census
+- 09/30 09:51 [FirstSquawk] Russian ballistic missile strikes rock Kyiv, leaving parts of capital without power

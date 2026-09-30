@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-30 09:26 JST／対象: 09/29 21:26 〜 09/30 09:26 JST（時刻はすべて日本時間）
+生成: 2026-09-30 09:52 JST／対象: 09/29 21:52 〜 09/30 09:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 73 | 09/29 21:30 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
-| FirstSquawk | 195 | 09/29 21:27 | 09/30 09:17 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 294 | 09/29 21:30 | 09/30 09:24 | ⚠ 67分（06:32→07:40） |
+| DeItaone | 70 | 09/29 22:14 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
+| FirstSquawk | 203 | 09/29 22:00 | 09/30 09:51 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 291 | 09/29 21:55 | 09/30 09:39 | ⚠ 67分（06:32→07:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 544 行（統合前 568 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 548 行（統合前 570 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 21:27 [FirstSquawk] IRAQI AIRWAYS FLIGHTS TO AND FROM IRAN EXPECTED TO RESUME IN OCTOBER, STARTING FROM NAJAF INTERNATIONAL AIRPORT
-- 09/29 21:30 [DeItaone] *OMAN PLANS TO MORE THAN DOUBLE OIL STORAGE CAPACITY AT DUQM
-- 09/29 21:30 [financialjuice] ❗ CANADIAN GDP MOM ACTUAL 0.0% (FORECAST 0%, PREVIOUS 0.3%) $MACRO
-- 09/29 21:31 [financialjuice] Canadian GDP July Report
-- 09/29 21:31 [FirstSquawk] ISRAELI PM BENJAMIN NETANYAHU STATED ON TUESDAY THAT THERE ARE INDICATIONS THAT ISRAEL'S ENEMIES MAY ATTEMPT ATTACKS AS ELECTIONS NEAR, CAUTIONING THAT ISRAEL CAN STRIKE ITS FOES "ANYWHERE, ANYTIME."
-- 09/29 21:31 [FirstSquawk] CANADA GDP (M/M) JUL: 0.0% (EST 0.0%; PREV 0.3%)
-- 09/29 21:31 [FirstSquawk] RUSSIAN ECONOMY MINISTER TO ATTEND G20 MEETING IN US - IFX
-- 09/29 21:35 [DeItaone] 🇬🇧 AVERAGE UK DIESEL PRICE SET TO REACH £2 PER LITRE WITHIN DAYS
-- 09/29 21:38 [financialjuice] Wells Fargo Investment Institute forecasts US Fed policy rate at 4.75%-5.00% by 2027-end vs prior forecast of 4.00%-4.25%.
-- 09/29 21:38 [financialjuice] Wells Fargo Investment Institute downgrades S&P 500 information technology sector to neutral from favorable.
-- 09/29 21:39 [DeItaone/financialjuice] WELLS FARGO INVESTMENT INSTITUTE CUTS GOLD'S 2027 YEAR-END TARGET RANGE TO $5,200-$5,400 PER OUNCE FROM PRIOR FORECAST OF $5,400-$5,600 PER OUNCE
-- 09/29 21:39 [financialjuice] Wells Fargo Investment Institute upgrades S&P 500 industrials sector to favorable from neutral.
-- 09/29 21:43 [financialjuice/FirstSquawk] Wells Fargo Investment Institute forecasts 10-Year US Treasury yield at 5.25%-5.75% by 2027-end vs prior forecast of 4.50%-5.00%.
 - 09/29 21:55 [financialjuice] US REDBOOK YOY ACTUAL 8.2% (FORECAST -, PREVIOUS 7.6%) $MACRO
 - 09/29 22:00 [financialjuice] US HOUSE PRICE INDEX MOM ACTUAL 0.3% (FORECAST 0.1%, PREVIOUS 0.0%) $MACRO
 - 09/29 22:00 [financialjuice] US CASESHILLER 20 YOY ACTUAL 2.47% (FORECAST 2.2%, PREVIOUS 2.1%) $MACRO
@@ -568,3 +555,20 @@
 - 09/30 09:17 [FirstSquawk] EUROPEAN EQUITY FUTURES ADVANCE: DAX AND EUROSTOXX 50 UP 0.5%, FTSE GAINS 0.4%
 - 09/30 09:23 [financialjuice] China PBOC expected to set yuan midpoint at 6.7025 per dollar: estimate
 - 09/30 09:24 [financialjuice] Explosions heard in Ukraine's Kyiv: witness source reports
+- 09/30 09:29 [FirstSquawk] TRUMP STANDS BY LIGHT-TOUCH AI POLICY AMID GROWING INDUSTRY WARNINGS - WSJ
+- 09/30 09:30 [FirstSquawk] CHINA SIGNALS RESPONSE IF EU MOVES AGAINST CHINESE TRADE
+- 09/30 09:32 [financialjuice] S.Korea finmin: closely watching bond market
+- 09/30 09:33 [FirstSquawk] S.Korea finmin: Watching bond market developments closely
+- 09/30 09:33 [FirstSquawk] S.Korea finmin: Plans to use excess tax revenue to lower bond issuance if required
+- 09/30 09:33 [financialjuice] S.Korea Finance Ministry: to use surplus tax revenue to cut bond issuance if necessary
+- 09/30 09:33 [FirstSquawk] Reuters: Echoes of explosions heard in Kyiv
+- 09/30 09:35 [financialjuice] S. Korea finmin: to implement other stabilizing steps including treasury bond repurchase if bond yields soar excessively
+- 09/30 09:38 [FirstSquawk] S.Korea finmin: May use treasury bond buybacks and other measures if bond yields rise too sharply
+- 09/30 09:38 [FirstSquawk] Samsung Heavy Industries secures 307.4 billion won order
+- 09/30 09:39 [financialjuice] UN command: DMZ blast violates armistice agreement - Yonhap
+- 09/30 09:39 [FirstSquawk] Samsung Heavy Industries wins contract to build two very large gas carriers for Bermuda shipper
+- 09/30 09:42 [FirstSquawk] Heavy missile attack strikes Kyiv, with residential areas and energy sites hit and power outages reported in parts of the capital
+- 09/30 09:46 [FirstSquawk] 10-year JGB yield advances 1.0 basis point to 3.095%
+- 09/30 09:47 [FirstSquawk] CBS: Hegseth to announce plans to reduce generals and admirals by 20%
+- 09/30 09:51 [FirstSquawk] Japan elderly population rises to record 29.4% of total in 2025 census
+- 09/30 09:51 [FirstSquawk] Russian ballistic missile strikes rock Kyiv, leaving parts of capital without power
