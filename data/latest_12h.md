@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-30 19:54 JST／対象: 09/30 07:54 〜 09/30 19:54 JST（時刻はすべて日本時間）
+生成: 2026-09-30 20:17 JST／対象: 09/30 08:17 〜 09/30 20:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 10 | 09/30 18:55 | 09/30 19:53 | 14分（19:38→19:53） |
-| FirstSquawk | 219 | 09/30 08:05 | 09/30 19:54 | 31分（17:30→18:02） |
-| financialjuice | 125 | 09/30 07:59 | 09/30 19:30 | ⚠ 80分（10:57→12:18） |
+| DeItaone | 16 | 09/30 18:55 | 09/30 20:13 | 14分（19:38→19:53） |
+| FirstSquawk | 221 | 09/30 08:35 | 09/30 20:14 | 31分（17:30→18:02） |
+| financialjuice | 118 | 09/30 08:45 | 09/30 20:00 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 351 行（統合前 354 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 352 行（統合前 355 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 07:59 [financialjuice] EU trade chief Sefcovic: pushing for reforms to tackle excess industrial capacity in G20, WTO frameworks
-- 09/30 08:00 [financialjuice] South Korea August industrial output falls 2.2% year on year, poll predicted 4% increase: stats office
-- 09/30 08:00 [financialjuice] S. Korea Aug service sector output rises 0.5% m/m: stats office
-- 09/30 08:00 [financialjuice] S.Korea Aug Industrial output falls 4.8% month-on-month, stats office
-- 09/30 08:00 [financialjuice] S. Korea August retail sales fall 1.8% month on month: stats office
-- 09/30 08:01 [financialjuice] uk vehicle output increased 5.7% yoy to 40,872 units in august: smmt
-- 09/30 08:02 [financialjuice] Sefcovic: working for greater cooperation with US, other allies to secure supply chains, prevent weaponization of critical minerals
-- 09/30 08:05 [FirstSquawk] EU TRADE CHIEF SEFCOVIC SAYS HE IS WORKING FOR GREATER COOPERATION WITH THE U.S. AND OTHER ALLIES TO SECURE SUPPLY CHAINS AND PREVENT THE WEAPONIZATION OF CRITICAL MINERALS, ADDING THAT HE IS PUSHING FOR REFORMS TO TACKLE EXCESS INDUSTRIAL …
-- 09/30 08:07 [financialjuice] China commerce ministry: if Europe continues imposing biased limits on Chinese firms or products, China will firmly react to protect its industry interests
-- 09/30 08:08 [FirstSquawk] US HOUSE SPEAKER MIKE JOHNSON WARNS DEMOCRATIC HOUSE CONTROL WOULD BRING INTENSIFIED CONGRESSIONAL INVESTIGATIONS OF TRUMP, HIS ADMINISTRATION & BUSINESS FIGURES
-- 09/30 08:09 [FirstSquawk] JD VANCE ON AI: “SKYNET” SCENARIO WON’T HAPPEN; SAYS AI WILL NOT TAKE OVER NUCLEAR WEAPONS OR HAVE ROBOTS KILLING PEOPLE
-- 09/30 08:09 [financialjuice] China commerce ministry: eu states considering tougher trade actions on China use typical protectionist, unilateral measures that will disrupt stability
-- 09/30 08:09 [FirstSquawk] JD VANCE ON FRONTIER AI: “IF YOU’RE BUILDING A TERRIBLE, TERRIBLE THING, THEN STOP AND BUILD SOMETHING GOOD”
 - 09/30 08:35 [FirstSquawk] JAPAN, US AND EUROPE TO AGREE STEEL MONITORING FRAMEWORK - YOMIURI
 - 09/30 08:35 [FirstSquawk] QATARI-MEDIATED TALKS BETWEEN THE U.S. AND IRAN MADE LITTLE PROGRESS, WITH BOTH SIDES REFUSING TO COMPROMISE AND FEARS OF RENEWED FIGHTING RISING, AS QATAR PROPOSED A DEAL LINKING IRAN'S DEMAND TO LIFT THE U.S. NAVAL BLOCKADE WITH U.S. DEMA…
 - 09/30 08:35 [FirstSquawk] U.S. OFFICIALS INITIALLY DESCRIBED THE TALKS AS POSITIVE AND SAID TRUMP WAS OPEN TO SANCTIONS RELIEF AND RELEASING FROZEN FUNDS FOR NUCLEAR CONCESSIONS, BUT HOURS LATER TRUMP SAID HE HAD OFFERED IRAN NOTHING, WITH A SOURCE TELLING AXIOS THE…
@@ -375,3 +362,17 @@
 - 09/30 19:43 [FirstSquawk] OPENAI: IMPACTED SERVICES FOR CHATGPT PRO, PLUS USERS RECOVERED
 - 09/30 19:53 [DeItaone] BITCOIN PRICE COULD REACH $1 MILLION PER COIN BY 2030, MAELSTROM CIO SAYS MAELSTROM CIO HAYES EXPECTS EXPLOSIVE BITCOIN RALLY IN LATE 2027, EARLY 2028 HAYES SEES AI-INVESTMENT BUST TRIGGERING TRILLIONS OF DOLLARS IN BAILOUTS
 - 09/30 19:54 [FirstSquawk] PAKISTAN MIGHT LET POWER PLANTS AND PRIVATE FIRMS IMPORT LNG DIRECTLY TO BOOST ENERGY SUPPLIES WITHOUT AFFECTING GOVERNMENT FUNDS.
+- 09/30 19:54 [DeItaone] ARTHUR HAYES SEES BITCOIN AT $1 MILLION BY 2030 Maelstrom CIO Arthur Hayes predicts Bitcoin could reach $1 million by 2030, with its strongest rally in late 2027 or early 2028. His thesis: an AI infrastructure bubble bursts as data-center r…
+- 09/30 19:57 [DeItaone] UBS: HIGHER INTEREST RATES COULD BENEFIT HEDGE FUNDS UBS says the current environment of elevated interest rates could support hedge fund performance, citing historical resilience during monetary tightening. Hedge funds have generated posit…
+- 09/30 19:57 [FirstSquawk] AMAZON: ROSENBLATT SECURITIES RAISES TARGET PRICE TO $360 FROM $335
+- 09/30 19:59 [FirstSquawk] JAPAN STOPS FOREX INTERVENTION AS YEN GETS STRONGER.
+- 09/30 19:59 [FirstSquawk] OMAN SULTAN MEETS UAE NATIONAL SECURITY ADVISOR
+- 09/30 20:00 [financialjuice] US MBA MORTGAGE APPLICATIONS ACTUAL -6% (FORECAST -, PREVIOUS -1.5%) $MACRO
+- 09/30 20:00 [FirstSquawk] US 30-YEAR FIXED MORTGAGE RATE RISES TO 7.3%, THE HIGHEST LEVEL SINCE NOVEMBER 2023.
+- 09/30 20:00 [financialjuice] US MBA 30-YR MORTGAGE RATE ACTUAL 7.30% (FORECAST -, PREVIOUS 7.12%) $MACRO
+- 09/30 20:01 [FirstSquawk] US MBA MORTGAGE APPLICATIONS SEP-25: -6.0% (PREV -1.5%)
+- 09/30 20:01 [DeItaone] *US 30-YR FIXED MORTGAGE SURGES TO 7.3%, HIGHEST SINCE NOV. 2023
+- 09/30 20:01 [DeItaone] U.S. MORTGAGE RATES SURGE TO 7.30% The average 30-year fixed mortgage contract rate climbed to 7.30%, up 18 basis points in one week and 84 basis points year-over-year, according to the MBA. The 15-year fixed rate rose to 6.56%, while the 5…
+- 09/30 20:12 [DeItaone] GOLDMAN: GULF OIL EXPORTS FULLY RECOVER TO 2025 LEVELS Persian Gulf oil exports have doubled in September, reaching 23.3 million barrels per day, according to Goldman Sachs. Crude shipments have recovered to 108% of their 2025 average, but …
+- 09/30 20:13 [DeItaone] GOLDMAN: U.S. PENSION FUNDS SET TO SELL $33 BILLION IN STOCKS Goldman Sachs estimates $33 billion in U.S. pension fund equity selling around September month-end, a flow ranking in the 98th percentile since 2000. Meanwhile, systematic CTAs c…
+- 09/30 20:14 [FirstSquawk] AI BOOM DRIVES ROBOT MAKERS FANUC, YASKAWA TO STEP UP SHIFT FROM CHINA TO US || JAPANESE COMPANIES WEIGH LOCAL PRODUCTION, BUT SUPPLY CHAIN CONCERNS REMAIN

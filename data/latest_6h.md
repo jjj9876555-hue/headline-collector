@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-30 19:54 JST／対象: 09/30 13:54 〜 09/30 19:54 JST（時刻はすべて日本時間）
+生成: 2026-09-30 20:17 JST／対象: 09/30 14:17 〜 09/30 20:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 10 | 09/30 18:55 | 09/30 19:53 | 14分（19:38→19:53） |
-| FirstSquawk | 96 | 09/30 13:59 | 09/30 19:54 | 31分（17:30→18:02） |
-| financialjuice | 57 | 09/30 14:00 | 09/30 19:30 | ⚠ 58分（14:00→14:59） |
+| DeItaone | 16 | 09/30 18:55 | 09/30 20:13 | 14分（19:38→19:53） |
+| FirstSquawk | 93 | 09/30 14:33 | 09/30 20:14 | 31分（17:30→18:02） |
+| financialjuice | 57 | 09/30 14:59 | 09/30 20:00 | ⚠ 54分（16:01→16:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 161 行（統合前 163 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 164 行（統合前 166 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 13:59 [FirstSquawk] Berenberg lifts Sabre Insurance Group target price to 205p from 200p
-- 09/30 14:00 [financialjuice] JAPANESE HOUSING STARTS YOY ACTUAL 6.137% (FORECAST 7%, PREVIOUS 8.2%) $MACRO
-- 09/30 14:00 [financialjuice] Finnish August GDP rises 2.3% year on year: Statistics Finland
-- 09/30 14:02 [FirstSquawk] FINLAND (AUG) Retail Sales Volume WDA YoY ACTUAL: 3.7% VS 2% PREVIOUS
-- 09/30 14:02 [FirstSquawk] FINLAND (AUG) GDP Indicator WDA YoY ACTUAL: 2.3% VS 1.4% PREVIOUS
-- 09/30 14:02 [FirstSquawk] JAPAN (AUG) HOUSING STARTS YOY ACTUAL: 6.1% VS 8.2% PREVIOUS;EST 7.0%
-- 09/30 14:02 [FirstSquawk] JAPAN (AUG) ANNUALIED HOUSING STARTS ACTUAL: 0.753M VS 0.774M PREVIOUS;EST 0.766M
-- 09/30 14:09 [FirstSquawk] Chinese manufacturing activity grows in September as AI boom fuels demand
-- 09/30 14:10 [FirstSquawk] Berenberg lifts Rio Tinto target price to 8,700p from 8,600p
-- 09/30 14:15 [FirstSquawk] Russian military strikes communications center in Kyiv overnight, IFX reports, citing Defence Ministry
-- 09/30 14:16 [FirstSquawk] Energy system facilities in Kyiv region hit in massive strike, Russian Defence Ministry says — IFX
 - 09/30 14:33 [FirstSquawk] Nikkei climbs 1.5%, driven by gains in chip and bank stocks — WSJ
 - 09/30 14:38 [FirstSquawk] Gold slips as Fed hike bets and Middle East tensions underpin the U.S. dollar — FX
 - 09/30 14:39 [FirstSquawk] Kazakhstan restarts enforcement proceedings to recover 2.3 trillion tenge fine from NCOC — IFX
@@ -185,3 +174,17 @@
 - 09/30 19:43 [FirstSquawk] OPENAI: IMPACTED SERVICES FOR CHATGPT PRO, PLUS USERS RECOVERED
 - 09/30 19:53 [DeItaone] BITCOIN PRICE COULD REACH $1 MILLION PER COIN BY 2030, MAELSTROM CIO SAYS MAELSTROM CIO HAYES EXPECTS EXPLOSIVE BITCOIN RALLY IN LATE 2027, EARLY 2028 HAYES SEES AI-INVESTMENT BUST TRIGGERING TRILLIONS OF DOLLARS IN BAILOUTS
 - 09/30 19:54 [FirstSquawk] PAKISTAN MIGHT LET POWER PLANTS AND PRIVATE FIRMS IMPORT LNG DIRECTLY TO BOOST ENERGY SUPPLIES WITHOUT AFFECTING GOVERNMENT FUNDS.
+- 09/30 19:54 [DeItaone] ARTHUR HAYES SEES BITCOIN AT $1 MILLION BY 2030 Maelstrom CIO Arthur Hayes predicts Bitcoin could reach $1 million by 2030, with its strongest rally in late 2027 or early 2028. His thesis: an AI infrastructure bubble bursts as data-center r…
+- 09/30 19:57 [DeItaone] UBS: HIGHER INTEREST RATES COULD BENEFIT HEDGE FUNDS UBS says the current environment of elevated interest rates could support hedge fund performance, citing historical resilience during monetary tightening. Hedge funds have generated posit…
+- 09/30 19:57 [FirstSquawk] AMAZON: ROSENBLATT SECURITIES RAISES TARGET PRICE TO $360 FROM $335
+- 09/30 19:59 [FirstSquawk] JAPAN STOPS FOREX INTERVENTION AS YEN GETS STRONGER.
+- 09/30 19:59 [FirstSquawk] OMAN SULTAN MEETS UAE NATIONAL SECURITY ADVISOR
+- 09/30 20:00 [financialjuice] US MBA MORTGAGE APPLICATIONS ACTUAL -6% (FORECAST -, PREVIOUS -1.5%) $MACRO
+- 09/30 20:00 [FirstSquawk] US 30-YEAR FIXED MORTGAGE RATE RISES TO 7.3%, THE HIGHEST LEVEL SINCE NOVEMBER 2023.
+- 09/30 20:00 [financialjuice] US MBA 30-YR MORTGAGE RATE ACTUAL 7.30% (FORECAST -, PREVIOUS 7.12%) $MACRO
+- 09/30 20:01 [FirstSquawk] US MBA MORTGAGE APPLICATIONS SEP-25: -6.0% (PREV -1.5%)
+- 09/30 20:01 [DeItaone] *US 30-YR FIXED MORTGAGE SURGES TO 7.3%, HIGHEST SINCE NOV. 2023
+- 09/30 20:01 [DeItaone] U.S. MORTGAGE RATES SURGE TO 7.30% The average 30-year fixed mortgage contract rate climbed to 7.30%, up 18 basis points in one week and 84 basis points year-over-year, according to the MBA. The 15-year fixed rate rose to 6.56%, while the 5…
+- 09/30 20:12 [DeItaone] GOLDMAN: GULF OIL EXPORTS FULLY RECOVER TO 2025 LEVELS Persian Gulf oil exports have doubled in September, reaching 23.3 million barrels per day, according to Goldman Sachs. Crude shipments have recovered to 108% of their 2025 average, but …
+- 09/30 20:13 [DeItaone] GOLDMAN: U.S. PENSION FUNDS SET TO SELL $33 BILLION IN STOCKS Goldman Sachs estimates $33 billion in U.S. pension fund equity selling around September month-end, a flow ranking in the 98th percentile since 2000. Meanwhile, systematic CTAs c…
+- 09/30 20:14 [FirstSquawk] AI BOOM DRIVES ROBOT MAKERS FANUC, YASKAWA TO STEP UP SHIFT FROM CHINA TO US || JAPANESE COMPANIES WEIGH LOCAL PRODUCTION, BUT SUPPLY CHAIN CONCERNS REMAIN
