@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 06:37 JST／対象: 10/01 00:37 〜 10/01 06:37 JST（時刻はすべて日本時間）
+生成: 2026-10-01 06:54 JST／対象: 10/01 00:54 〜 10/01 06:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 34 | 10/01 00:48 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
-| FirstSquawk | 87 | 10/01 00:46 | 10/01 06:31 | 28分（03:03→03:31） |
-| financialjuice | 86 | 10/01 00:45 | 10/01 06:29 | 35分（01:01→01:37） |
+| DeItaone | 31 | 10/01 02:11 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
+| FirstSquawk | 86 | 10/01 00:58 | 10/01 06:31 | 28分（03:03→03:31） |
+| financialjuice | 79 | 10/01 01:00 | 10/01 06:45 | 35分（01:01→01:37） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 197 行（統合前 209 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 186 行（統合前 198 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 00:45 [financialjuice] ECB's Schnabel: High costs passed through to consumers more quickly when economy resilient.
-- 10/01 00:45 [financialjuice] ECB's Schnabel: Robust credit dynamics suggest that financial conditions are not yet restrictive.
-- 10/01 00:46 [financialjuice] ECB's Schnabel: Possible economy responds more to the recent global yield rise than assumed. Would dampen price pressures.
-- 10/01 00:46 [financialjuice] ECB's Schnabel: can return inflation to target more gradually when expectations anchored.
-- 10/01 00:46 [FirstSquawk] FITCH AFFIRMS VOLKSWAGEN AG AT 'A-'; OUTLOOK NEGATIVE
-- 10/01 00:47 [financialjuice] ECB's Schnabel's Speech
-- 10/01 00:47 [financialjuice] ECB's President Lagarde to La Croix: France's debt situation is serious at 120% of GDP and without a path to lowering
-- 10/01 00:48 [DeItaone] ECB'S LAGARDE TELLS LA CROIX NEWSPAPER FRANCE'S DEBT SITUATION IS SERIOUS AT 120% OF GDP AND WITHOUT A PATH TO LOWERING
-- 10/01 00:48 [financialjuice] ECB's President Lagarde's Interview with La Croix
-- 10/01 00:48 [financialjuice] ECB's President Lagarde to La Croix: European financial system is more solid now than in 2008 and 2011 crises
-- 10/01 00:48 [financialjuice] ECB's President Lagarde to La Croix: France needs a credible budget trajectory and reforms to restore confidence
-- 10/01 00:52 [DeItaone] ECB'S LAGARDE, ASKED BY LA CROIX NEWSPAPER IF SHE WOULD BE A FRENCH PRESIDENTIAL CANDIDATE, SAYS 'THAT WOULD NOT BE A GOOD IDEA AT ALL'
-- 10/01 00:53 [DeItaone] ECB'S LAGARDE TELLS LA CROIX IF I LEAVE ECB EARLY, "IT WILL ONLY BE BY A FEW MONTHS"
 - 10/01 00:58 [FirstSquawk] ECB'S LAGARDE ON IF SHE WOULD BE A FRENCH PRESIDENTIAL CANDIDATE: 'THAT WOULD NOT BE A GOOD IDEA AT ALL' - LA CROIX
 - 10/01 00:58 [FirstSquawk] ECB'S LAGARDE: IF I LEAVE ECB EARLY, "IT WILL ONLY BE BY A FEW MONTHS" – LA CROIX
 - 10/01 00:58 [FirstSquawk] USTR GREER: TO RELEASE 'MILWAUKEE FRAMEWORK' FOR COORDINATED ACTION TO ADDRESS EXCESS STEEL CAPACITY AT G20 TRADE MINISTERS MEETING
@@ -221,3 +208,5 @@
 - 10/01 06:29 [FirstSquawk/financialjuice] SOUTH KOREA URGES GOVERNMENT TO BOOST INVESTMENTS IN ELECTRIC VEHICLE SECTOR
 - 10/01 06:29 [financialjuice] Fed's Goolsbee: record gap between consumer sentiment vibes and actual spending data
 - 10/01 06:31 [FirstSquawk] U.S. CENTRAL COMMAND SAYS THAT AS OF SEPT. 30, CENTCOM FORCES HAVE REDIRECTED 125 COMMERCIAL VESSELS TO ENSURE STRICT COMPLIANCE, WITH THE USS GEORGE H.W. BUSH (CVN 77) SAILING IN THE ARABIAN SEA SUPPORTING ENFORCEMENT OF THE U.S. BLOCKADE …
+- 10/01 06:45 [financialjuice] NEW ZEALAND BUILDING CONSENTS ACTUAL 5.6% (FORECAST -, PREVIOUS -4.3%) $MACRO
+- 10/01 06:45 [financialjuice] New Zealand seasonally adjusted new dwelling consents increase 5.6% in August versus previous month

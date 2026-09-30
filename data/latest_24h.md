@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-01 06:37 JST／対象: 09/30 06:37 〜 10/01 06:37 JST（時刻はすべて日本時間）
+生成: 2026-10-01 06:54 JST／対象: 09/30 06:54 〜 10/01 06:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 75 | 09/30 18:55 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
 | FirstSquawk | 367 | 09/30 08:05 | 10/01 06:31 | 31分（17:30→18:02） |
-| financialjuice | 286 | 09/30 07:40 | 10/01 06:29 | ⚠ 80分（10:57→12:18） |
+| financialjuice | 288 | 09/30 07:40 | 10/01 06:45 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 709 行（統合前 730 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 711 行（統合前 732 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -733,3 +733,5 @@
 - 10/01 06:29 [FirstSquawk/financialjuice] SOUTH KOREA URGES GOVERNMENT TO BOOST INVESTMENTS IN ELECTRIC VEHICLE SECTOR
 - 10/01 06:29 [financialjuice] Fed's Goolsbee: record gap between consumer sentiment vibes and actual spending data
 - 10/01 06:31 [FirstSquawk] U.S. CENTRAL COMMAND SAYS THAT AS OF SEPT. 30, CENTCOM FORCES HAVE REDIRECTED 125 COMMERCIAL VESSELS TO ENSURE STRICT COMPLIANCE, WITH THE USS GEORGE H.W. BUSH (CVN 77) SAILING IN THE ARABIAN SEA SUPPORTING ENFORCEMENT OF THE U.S. BLOCKADE …
+- 10/01 06:45 [financialjuice] NEW ZEALAND BUILDING CONSENTS ACTUAL 5.6% (FORECAST -, PREVIOUS -4.3%) $MACRO
+- 10/01 06:45 [financialjuice] New Zealand seasonally adjusted new dwelling consents increase 5.6% in August versus previous month
