@@ -7,60 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-30 22:10 JST／対象: 09/30 10:10 〜 09/30 22:10 JST（時刻はすべて日本時間）
+生成: 2026-09-30 22:32 JST／対象: 09/30 10:32 〜 09/30 22:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 32 | 09/30 18:55 | 09/30 22:02 | 18分（20:30→20:48） |
-| FirstSquawk | 193 | 09/30 10:11 | 09/30 22:06 | 31分（17:30→18:02） |
-| financialjuice | 139 | 09/30 10:16 | 09/30 22:03 | ⚠ 80分（10:57→12:18） |
+| DeItaone | 34 | 09/30 18:55 | 09/30 22:25 | 20分（22:02→22:23） |
+| FirstSquawk | 192 | 09/30 10:32 | 09/30 22:31 | 31分（17:30→18:02） |
+| financialjuice | 117 | 09/30 10:32 | 09/30 22:30 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 358 行（統合前 364 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 336 行（統合前 343 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 10:11 [FirstSquawk] South Korean envoy says Seoul remains committed to facilitating renewed U.S.-North Korea dialogue - yonhap
-- 09/30 10:13 [FirstSquawk] Fitch Ratings says Vietnam banks’ capitalisation will remain steady as lenders pursue $5.7 billion in fresh capital
-- 09/30 10:15 [FirstSquawk] PBOC fixes yuan midpoint at 6.7351 against the dollar
-- 09/30 10:16 [FirstSquawk] Shanghai benchmark rubber futures gain more than 3.9%
-- 09/30 10:16 [financialjuice] China sets yuan midpoint at strongest level since Feb. 2, 2023
-- 09/30 10:20 [FirstSquawk] Taiwan stocks climb 1.2%, with benchmark index at 48,211.54 points
-- 09/30 10:20 [FirstSquawk] Gold prices remain subdued as investors await U.S. economic data — WSJ
-- 09/30 10:20 [financialjuice] Shares of Shenzhen Camsense Technologies set to open at HK$168 in Hong Kong debut versus offer price HK$58.85 apiece
-- 09/30 10:23 [financialjuice] China injects 833.5 bln yuan via overnight reverse repos: statement
-- 09/30 10:23 [FirstSquawk] PBOC injects 833.5 billion yuan through overnight reverse repo operations
-- 09/30 10:27 [financialjuice] China pauses 7-day reverse repos: statement
-- 09/30 10:27 [FirstSquawk] PBOC conducts no 7-day reverse repo operations
-- 09/30 10:28 [FirstSquawk] China’s CSI 300 Real Estate Index seen declining 5%
-- 09/30 10:30 [financialjuice] ‼ BREAKING: AUSTRALIAN CPI YOY NSA ACTUAL 4% (FORECAST 4.1%, PREVIOUS 3.5%) $MACRO
-- 09/30 10:30 [financialjuice] ❗ AUSTRALIAN BUILDING APPROVALS ACTUAL -6.1% (FORECAST -1%, PREVIOUS -3.6%) $MACRO
-- 09/30 10:30 [financialjuice] ❗ AUSTRALIAN CPI TRIMMED MEAN YOY ACTUAL 3.6% (FORECAST 3.6%, PREVIOUS 3.6%) $MACRO
-- 09/30 10:30 [financialjuice] AUSTRALIAN PRIVATE HOUSE APPROVALS ACTUAL 3.7% (FORECAST -, PREVIOUS -4.2%) $MACRO
-- 09/30 10:30 [financialjuice] Australia August RBA trimmed mean inflation rises 0.2% month on month
-- 09/30 10:30 [financialjuice] Australia aug private sector house approvals rise 3.7% m/m, s/adj
-- 09/30 10:30 [financialjuice] Australia aug cpi all groups rises 4% yr/yr
-- 09/30 10:30 [financialjuice] Australia Aug RBA weighted median CPI rises 3.6% year/year
-- 09/30 10:30 [financialjuice] Australia August RBA trimmed mean inflation at 3.6% year on year
-- 09/30 10:30 [financialjuice] Australia Aug RBA weighted median CPI rises 0.3% m/m
-- 09/30 10:31 [financialjuice] Australia Aug CPI (all groups) rises 0.4% m/m
-- 09/30 10:31 [financialjuice] Australia aug building approvals decline 6.1% m/m, adjusted
-- 09/30 10:31 [financialjuice] Australia August private-sector credit rises 0.6% m/m, s/adj: central bank
-- 09/30 10:31 [financialjuice] Australia August housing credit rises 0.4% m/m, seasonally adjusted: central bank
-- 09/30 10:31 [financialjuice] AUSTRALIAN HOUSING CREDIT ACTUAL 0.4% (FORECAST -, PREVIOUS 0.5%) $MACRO
-- 09/30 10:31 [financialjuice] AUSTRALIAN PRIVATE SECTOR CREDIT ACTUAL 0.6% (FORECAST 0.5%, PREVIOUS 0.6%) $MACRO
-- 09/30 10:31 [financialjuice] CHINESE COMPOSITE PMI ACTUAL 50.7 (FORECAST -, PREVIOUS 49.5) $MACRO
-- 09/30 10:31 [financialjuice] ‼ BREAKING: CHINESE NBS MANUFACTURING PMI ACTUAL 50.1 (FORECAST 50.1, PREVIOUS 49.8) $MACRO
-- 09/30 10:31 [financialjuice] CHINESE NBS NON-MANUFACTURING PMI ACTUAL 50.2 (FORECAST 49.2, PREVIOUS 49.0) $MACRO
-- 09/30 10:31 [financialjuice] China september official non-manufacturing pmi climbs to 50.2 from 49.0 in august
-- 09/30 10:31 [financialjuice] China September official manufacturing PMI at 50.1 vs 49.8 in August
-- 09/30 10:31 [financialjuice] China September official composite PMI at 50.7
-- 09/30 10:31 [financialjuice] China Sept official manufacturing PMI at 50.1: poll matched previous 49.8
-- 09/30 10:31 [financialjuice] China Sept official non-manufacturing PMI at 50.2 vs 49.0 in Aug
 - 09/30 10:32 [financialjuice] South Korea military: North Korea must halt fortification efforts immediately
 - 09/30 10:32 [financialjuice] South Korea military: North Korea must apologize for fortification activities
 - 09/30 10:32 [FirstSquawk] Australia CPI (M/M) Aug: 0.4% (est 0.5%; prev 1.0%)
@@ -382,3 +345,18 @@
 - 09/30 22:02 [DeItaone] FRENCH 10Y YIELD PREMIUM OVER GERMANY CLIMBS 5BPS TO 124BPS
 - 09/30 22:03 [financialjuice] Coreweave to offer NVIDIA vera cpu for agentic AI $NVDA
 - 09/30 22:06 [FirstSquawk] FED SAYS FINAL RULE LARGELY SIMILAR TO PROPOSED RULE AIMED AT MAKING TESTS MORE TRANSPARENT AND PREDICTABLE
+- 09/30 22:12 [financialjuice] SNB: Swiss economy grew robustly in Q3, company survey showed
+- 09/30 22:12 [financialjuice/FirstSquawk] SNB: Companies plan to increase hiring, staff levels too low.
+- 09/30 22:12 [financialjuice] SNB: Companies expect turnover to keep rising in the coming quarters.
+- 09/30 22:16 [FirstSquawk] SNB PUBLISHES COMPANY SURVEY RESULTS IN QUARTERLY BULLETIN
+- 09/30 22:17 [FirstSquawk] NEW WORLD FY26 NET LOSS HK$28.15B VS HK$16.3B Y/Y
+- 09/30 22:20 [FirstSquawk] EU, CANADA TO ANNOUNCE SWEEPING PARTNERSHIP PACT AT OCT. 29 SUMMIT - POLITICO
+- 09/30 22:21 [financialjuice] goldman Sachs estimates crude exports from persian gulf producers at 19 million b/d.
+- 09/30 22:21 [financialjuice] JPMorgan estimates crude exports hit 98% of prewar levels.
+- 09/30 22:22 [FirstSquawk] NETANYAHU: WAS SERIOUS SECURITY INCIDENT ON FLIGHT FROM DUBAI
+- 09/30 22:23 [DeItaone] MIDDLE EAST CRUDE EXPORTS RECOVER TO PREWAR LEVELS Middle East crude exports have rebounded to 98% of prewar levels, reaching roughly 17.5 million barrels per day, according to JPMorgan. Producers are increasingly bypassing Hormuz through a…
+- 09/30 22:25 [DeItaone] MIDDLE EAST CRUDE EXPORTS RECOVER TO PREWAR LEVELS, ANALYSTS SAY GOLDMAN ESTIMATES CRUDE EXPORTS FROM PERSIAN GULF PRODUCERS AT 19 MILLION B/D INCREASED HORMUZ EXPORTS DROVE RECOVERY, GOLDMAN SAYS JPM ESTIMATES CRUDE EXPORTS HIT 98% OF PREW…
+- 09/30 22:25 [FirstSquawk] EASA: CONFLICT ZONE INFORMATION BULLETIN FOR AIRSPACE OF JORDAN WAS EXTENDED UNTIL 16 OCTOBER 2026
+- 09/30 22:28 [FirstSquawk] NETANYAHU: PILOT WHO STABBED APPARENTLY TRIED TO CRASH PLANE
+- 09/30 22:30 [financialjuice] ❗ MOO IMBALANCE S&P 500: -24.1 MLN NASDAQ 100: 7.5 MLN DOW 30: -5.8 MLN MAG 7: 1.9 MLN $MACRO
+- 09/30 22:31 [FirstSquawk] DOW JONES UP 72.70 POINTS, OR 0.14 PERCENT, AT 51,422.62 AFTER MARKET OPEN NASDAQ UP 99.52 POINTS, OR 0.37 PERCENT, AT 26,897.06 AFTER MARKET OPEN S&P 500 UP 21.09 POINTS, OR 0.27 PERCENT, AT 7,691.93 AFTER MARKET OPEN

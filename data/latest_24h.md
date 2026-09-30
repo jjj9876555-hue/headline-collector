@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-30 22:10 JST／対象: 09/29 22:10 〜 09/30 22:10 JST（時刻はすべて日本時間）
+生成: 2026-09-30 22:32 JST／対象: 09/29 22:32 〜 09/30 22:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 102 | 09/29 22:14 | 09/30 22:02 | ⚠ 789分（05:46→18:55） |
-| FirstSquawk | 402 | 09/29 22:12 | 09/30 22:06 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 426 | 09/29 22:14 | 09/30 22:03 | ⚠ 80分（10:57→12:18） |
+| DeItaone | 101 | 09/29 22:32 | 09/30 22:25 | ⚠ 789分（05:46→18:55） |
+| FirstSquawk | 402 | 09/29 22:33 | 09/30 22:31 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 428 | 09/29 22:41 | 09/30 22:30 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 908 行（統合前 936 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 908 行（統合前 937 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 22:12 [FirstSquawk] LITHUANIA PREMIER 'READY TO PAY' FOR PERMANENT US DEPLOYMENT
-- 09/29 22:13 [FirstSquawk] SEC: WON'T RECOMMEND ACTION ON TESLA RETAIL VOTING PROGRAM
-- 09/29 22:13 [FirstSquawk] JEFFERIES CUTS HERMES TARGET PRICE TO EUR 1,600 FROM EUR 2,000
-- 09/29 22:14 [DeItaone] CITADEL’S RUBNER SEES BETTER SETUP FOR STOCKS IN OCTOBER Citadel Securities’ Scott Rubner expects equity market conditions to improve in October as quarter-end selling ends and historically favorable midterm-election seasonality begins. He …
-- 09/29 22:14 [financialjuice] UK PM Burnham: I will make a break and put Britain on a new path with a new economy.
-- 09/29 22:16 [DeItaone] $NFLX - DEUTSCHE BANK UPGRADES NETFLIX TO BUY Deutsche Bank upgraded Netflix to Buy from Hold, citing its global scale, international production advantage and attractive valuation. The bank lowered its price target to $95 from $100. Netflix…
-- 09/29 22:18 [FirstSquawk] UK PM BURNHAM: MORE CONTROL OF THE BASICS
-- 09/29 22:21 [financialjuice] UAE Vice President meets with the Saudi Defence Minister in Riyadh - WAM.
-- 09/29 22:23 [FirstSquawk] BURNHAM: BILL FOR LEASEHOLD REFORM BEFORE CHRISTMAS
-- 09/29 22:28 [financialjuice] UK's PM Burnham: We are reforming the energy market.
-- 09/29 22:29 [FirstSquawk] UK SEEKS TO REPEAL BAN ON PUBLIC OWNERSHIP OF WATER COMPANIES
-- 09/29 22:29 [FirstSquawk] UK AIMS TO LIFT RESTRICTION ON PUBLIC CONTROL OF WATER FIRMS.
-- 09/29 22:30 [DeItaone] GENSLER WARNS CHINESE AI MODELS POSE CHALLENGE TO U.S. FIRMS Former SEC Chair Gary Gensler says competition from Chinese AI models complicates efforts to impose stronger safeguards on advanced AI. He also questioned whether the enormous spe…
-- 09/29 22:31 [financialjuice] UK's PM Burnham: You will see VAT disappear off electricity bill on Thursday.
-- 09/29 22:31 [FirstSquawk] DOW JONES DOWN 44.23 POINTS, OR 0.09 PERCENT, AT 51,437.28 AFTER MARKET OPEN NASDAQ UP 84.22 POINTS, OR 0.31 PERCENT, AT 26,904.60 AFTER MARKET OPEN S&P 500 UP 8.67 POINTS, OR 0.11 PERCENT, AT 7,692.36 AFTER MARKET OPEN
 - 09/29 22:32 [DeItaone] GOLDMAN: STOCKS NEED BOND YIELDS TO FALL Goldman Sachs says the clearest path to further equity gains is relief in Treasury yields, with the U.S. 10-year reaching 5.25%, its highest since 2007. Stocks have remained resilient, led by large-c…
 - 09/29 22:33 [FirstSquawk] BURNHAM: APPROACH IS RESPONSIBLE
 - 09/29 22:33 [FirstSquawk] BURNHAM: WILL STICK TO FISCAL RULES
@@ -932,3 +917,18 @@
 - 09/30 22:02 [DeItaone] FRENCH 10Y YIELD PREMIUM OVER GERMANY CLIMBS 5BPS TO 124BPS
 - 09/30 22:03 [financialjuice] Coreweave to offer NVIDIA vera cpu for agentic AI $NVDA
 - 09/30 22:06 [FirstSquawk] FED SAYS FINAL RULE LARGELY SIMILAR TO PROPOSED RULE AIMED AT MAKING TESTS MORE TRANSPARENT AND PREDICTABLE
+- 09/30 22:12 [financialjuice] SNB: Swiss economy grew robustly in Q3, company survey showed
+- 09/30 22:12 [financialjuice/FirstSquawk] SNB: Companies plan to increase hiring, staff levels too low.
+- 09/30 22:12 [financialjuice] SNB: Companies expect turnover to keep rising in the coming quarters.
+- 09/30 22:16 [FirstSquawk] SNB PUBLISHES COMPANY SURVEY RESULTS IN QUARTERLY BULLETIN
+- 09/30 22:17 [FirstSquawk] NEW WORLD FY26 NET LOSS HK$28.15B VS HK$16.3B Y/Y
+- 09/30 22:20 [FirstSquawk] EU, CANADA TO ANNOUNCE SWEEPING PARTNERSHIP PACT AT OCT. 29 SUMMIT - POLITICO
+- 09/30 22:21 [financialjuice] goldman Sachs estimates crude exports from persian gulf producers at 19 million b/d.
+- 09/30 22:21 [financialjuice] JPMorgan estimates crude exports hit 98% of prewar levels.
+- 09/30 22:22 [FirstSquawk] NETANYAHU: WAS SERIOUS SECURITY INCIDENT ON FLIGHT FROM DUBAI
+- 09/30 22:23 [DeItaone] MIDDLE EAST CRUDE EXPORTS RECOVER TO PREWAR LEVELS Middle East crude exports have rebounded to 98% of prewar levels, reaching roughly 17.5 million barrels per day, according to JPMorgan. Producers are increasingly bypassing Hormuz through a…
+- 09/30 22:25 [DeItaone] MIDDLE EAST CRUDE EXPORTS RECOVER TO PREWAR LEVELS, ANALYSTS SAY GOLDMAN ESTIMATES CRUDE EXPORTS FROM PERSIAN GULF PRODUCERS AT 19 MILLION B/D INCREASED HORMUZ EXPORTS DROVE RECOVERY, GOLDMAN SAYS JPM ESTIMATES CRUDE EXPORTS HIT 98% OF PREW…
+- 09/30 22:25 [FirstSquawk] EASA: CONFLICT ZONE INFORMATION BULLETIN FOR AIRSPACE OF JORDAN WAS EXTENDED UNTIL 16 OCTOBER 2026
+- 09/30 22:28 [FirstSquawk] NETANYAHU: PILOT WHO STABBED APPARENTLY TRIED TO CRASH PLANE
+- 09/30 22:30 [financialjuice] ❗ MOO IMBALANCE S&P 500: -24.1 MLN NASDAQ 100: 7.5 MLN DOW 30: -5.8 MLN MAG 7: 1.9 MLN $MACRO
+- 09/30 22:31 [FirstSquawk] DOW JONES UP 72.70 POINTS, OR 0.14 PERCENT, AT 51,422.62 AFTER MARKET OPEN NASDAQ UP 99.52 POINTS, OR 0.37 PERCENT, AT 26,897.06 AFTER MARKET OPEN S&P 500 UP 21.09 POINTS, OR 0.27 PERCENT, AT 7,691.93 AFTER MARKET OPEN

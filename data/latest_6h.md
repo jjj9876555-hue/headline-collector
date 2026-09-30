@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-30 22:10 JST／対象: 09/30 16:10 〜 09/30 22:10 JST（時刻はすべて日本時間）
+生成: 2026-09-30 22:31 JST／対象: 09/30 16:31 〜 09/30 22:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 32 | 09/30 18:55 | 09/30 22:02 | 18分（20:30→20:48） |
-| FirstSquawk | 71 | 09/30 16:14 | 09/30 22:06 | 31分（17:30→18:02） |
-| financialjuice | 79 | 09/30 16:55 | 09/30 22:03 | ⚠ 50分（17:10→18:01） |
+| DeItaone | 34 | 09/30 18:55 | 09/30 22:25 | 20分（22:02→22:23） |
+| FirstSquawk | 73 | 09/30 16:33 | 09/30 22:31 | 31分（17:30→18:02） |
+| financialjuice | 85 | 09/30 16:55 | 09/30 22:30 | ⚠ 50分（17:10→18:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 177 行（統合前 182 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 186 行（統合前 192 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 16:14 [FirstSquawk] RUSSIA HAS DECIDED TO CONTINUE ITS BAN ON DIESEL EXPORTS UNTIL OCTOBER.
-- 09/30 16:14 [FirstSquawk] S. KOREA FOREIGN EXCHANGE OFFICIALS SOLD A NET OF $9.61 BILLION IN THE MARKET DURING THE SECOND QUARTER.
-- 09/30 16:14 [FirstSquawk] CHINA'S FOREIGN MINISTRY WILL STOP BRIEFINGS FROM OCTOBER 1 TO 7 AND WILL RESUME ON OCTOBER 8.
-- 09/30 16:23 [FirstSquawk] IRAQ'S DAILY OIL EXPORTS AVERAGED 2.65 MILLION BPD IN SEPTEMBER, WITH 250,000 BPD SHIPPED THROUGH TURKEY'S CEYHAN PORT, ACCORDING TO THE OIL MINISTRY SPOKESPERSON.
-- 09/30 16:23 [FirstSquawk] US OFFICIALLY ENDS OPERATION INHERENT RESOLVE IN IRAQ.
-- 09/30 16:29 [FirstSquawk] FLY DUBAI FLIGHT FZ 1073 FROM DUBAI TO TEL AVIV HAD A SITUATION ON 30 SEPTEMBER.
 - 09/30 16:33 [FirstSquawk] RIKSBANK'S THEDEEN SAYS SWEDEN'S ECONOMY IS UNEXPECTEDLY STRONG.
 - 09/30 16:33 [FirstSquawk] NOVO'S LANGE SAYS HENGRUI WEIGHT LOSS PILL COULD BE AVAILABLE BY 2030.
 - 09/30 16:33 [FirstSquawk] NOVO REVEALS HENGRUI OBESITY PILL WILL BEGIN PHASE 1 TRIALS SOON.
@@ -201,3 +195,18 @@
 - 09/30 22:02 [DeItaone] FRENCH 10Y YIELD PREMIUM OVER GERMANY CLIMBS 5BPS TO 124BPS
 - 09/30 22:03 [financialjuice] Coreweave to offer NVIDIA vera cpu for agentic AI $NVDA
 - 09/30 22:06 [FirstSquawk] FED SAYS FINAL RULE LARGELY SIMILAR TO PROPOSED RULE AIMED AT MAKING TESTS MORE TRANSPARENT AND PREDICTABLE
+- 09/30 22:12 [financialjuice] SNB: Swiss economy grew robustly in Q3, company survey showed
+- 09/30 22:12 [financialjuice/FirstSquawk] SNB: Companies plan to increase hiring, staff levels too low.
+- 09/30 22:12 [financialjuice] SNB: Companies expect turnover to keep rising in the coming quarters.
+- 09/30 22:16 [FirstSquawk] SNB PUBLISHES COMPANY SURVEY RESULTS IN QUARTERLY BULLETIN
+- 09/30 22:17 [FirstSquawk] NEW WORLD FY26 NET LOSS HK$28.15B VS HK$16.3B Y/Y
+- 09/30 22:20 [FirstSquawk] EU, CANADA TO ANNOUNCE SWEEPING PARTNERSHIP PACT AT OCT. 29 SUMMIT - POLITICO
+- 09/30 22:21 [financialjuice] goldman Sachs estimates crude exports from persian gulf producers at 19 million b/d.
+- 09/30 22:21 [financialjuice] JPMorgan estimates crude exports hit 98% of prewar levels.
+- 09/30 22:22 [FirstSquawk] NETANYAHU: WAS SERIOUS SECURITY INCIDENT ON FLIGHT FROM DUBAI
+- 09/30 22:23 [DeItaone] MIDDLE EAST CRUDE EXPORTS RECOVER TO PREWAR LEVELS Middle East crude exports have rebounded to 98% of prewar levels, reaching roughly 17.5 million barrels per day, according to JPMorgan. Producers are increasingly bypassing Hormuz through a…
+- 09/30 22:25 [DeItaone] MIDDLE EAST CRUDE EXPORTS RECOVER TO PREWAR LEVELS, ANALYSTS SAY GOLDMAN ESTIMATES CRUDE EXPORTS FROM PERSIAN GULF PRODUCERS AT 19 MILLION B/D INCREASED HORMUZ EXPORTS DROVE RECOVERY, GOLDMAN SAYS JPM ESTIMATES CRUDE EXPORTS HIT 98% OF PREW…
+- 09/30 22:25 [FirstSquawk] EASA: CONFLICT ZONE INFORMATION BULLETIN FOR AIRSPACE OF JORDAN WAS EXTENDED UNTIL 16 OCTOBER 2026
+- 09/30 22:28 [FirstSquawk] NETANYAHU: PILOT WHO STABBED APPARENTLY TRIED TO CRASH PLANE
+- 09/30 22:30 [financialjuice] ❗ MOO IMBALANCE S&P 500: -24.1 MLN NASDAQ 100: 7.5 MLN DOW 30: -5.8 MLN MAG 7: 1.9 MLN $MACRO
+- 09/30 22:31 [FirstSquawk] DOW JONES UP 72.70 POINTS, OR 0.14 PERCENT, AT 51,422.62 AFTER MARKET OPEN NASDAQ UP 99.52 POINTS, OR 0.37 PERCENT, AT 26,897.06 AFTER MARKET OPEN S&P 500 UP 21.09 POINTS, OR 0.27 PERCENT, AT 7,691.93 AFTER MARKET OPEN
