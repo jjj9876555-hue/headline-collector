@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-30 09:52 JST／対象: 09/29 09:52 〜 09/30 09:52 JST（時刻はすべて日本時間）
+生成: 2026-09-30 10:07 JST／対象: 09/29 10:07 〜 09/30 10:07 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 88 | 09/29 20:26 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
-| FirstSquawk | 424 | 09/29 10:06 | 09/30 09:51 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 402 | 09/29 10:05 | 09/30 09:39 | ⚠ 67分（06:32→07:40） |
+| FirstSquawk | 431 | 09/29 10:20 | 09/30 10:07 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 401 | 09/29 10:20 | 09/30 10:00 | ⚠ 67分（06:32→07:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 889 行（統合前 920 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 895 行（統合前 926 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 10:05 [financialjuice] Taiwan overnight interbank rate starts at 0.805% versus 0.804% in previous session opening
-- 09/29 10:06 [financialjuice] US secretary of state Rubio: uk base incident involved foreign actor
-- 09/29 10:06 [FirstSquawk] Taxpayers Footed Bill For Three Bottles Of Pinot Noir During Janelle Saffin’s $4,400 Sydney Hotel Stay - dailytelegraph
 - 09/29 10:20 [FirstSquawk] Rubio to Fox News: British base incident involved a foreign party
 - 09/29 10:20 [financialjuice] China central bank injects 90.5 billion yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement
 - 09/29 10:21 [FirstSquawk] Rubio to Fox News: If Iran had a nuclear weapon, no one could prevent it from controlling the Strait of Hormuz
@@ -913,3 +910,12 @@
 - 09/30 09:47 [FirstSquawk] CBS: Hegseth to announce plans to reduce generals and admirals by 20%
 - 09/30 09:51 [FirstSquawk] Japan elderly population rises to record 29.4% of total in 2025 census
 - 09/30 09:51 [FirstSquawk] Russian ballistic missile strikes rock Kyiv, leaving parts of capital without power
+- 09/30 09:55 [FirstSquawk] WSJ: Oil prices mixed, with production recovery potentially weighing on prices
+- 09/30 09:55 [FirstSquawk] WSJ: Nikkei climbs 1.5%, driven by gains in chip and bank stocks
+- 09/30 09:56 [FirstSquawk] WSJ: Short-term JGBs advance alongside gains in similar-maturity U.S. Treasurys
+- 09/30 09:59 [FirstSquawk] FXStreet: Euro weakens below 1.1350 as Lagarde signals dovish stance, German retail sales awaited
+- 09/30 10:00 [financialjuice] Taiwan overnight interbank rate starts at 0.805% vs 0.805% at prior session open
+- 09/30 10:00 [FirstSquawk] Philippines August exports climb 27.8% versus year ago
+- 09/30 10:01 [FirstSquawk] Taiwan overnight interbank rate opens unchanged at 0.805% from previous session
+- 09/30 10:02 [FirstSquawk] WSJ: Market turbulence and AI safety worries cloud prospects for blockbuster fall IPOs
+- 09/30 10:07 [FirstSquawk] South Korea calls for closer coordination between donor and recipient nations on development projects - yonhap

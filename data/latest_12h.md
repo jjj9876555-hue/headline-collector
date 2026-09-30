@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-30 09:52 JST／対象: 09/29 21:52 〜 09/30 09:52 JST（時刻はすべて日本時間）
+生成: 2026-09-30 10:07 JST／対象: 09/29 22:07 〜 09/30 10:07 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 70 | 09/29 22:14 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
-| FirstSquawk | 203 | 09/29 22:00 | 09/30 09:51 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 291 | 09/29 21:55 | 09/30 09:39 | ⚠ 67分（06:32→07:40） |
+| FirstSquawk | 209 | 09/29 22:12 | 09/30 10:07 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 287 | 09/29 22:14 | 09/30 10:00 | ⚠ 67分（06:32→07:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 548 行（統合前 570 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 550 行（統合前 572 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 21:55 [financialjuice] US REDBOOK YOY ACTUAL 8.2% (FORECAST -, PREVIOUS 7.6%) $MACRO
-- 09/29 22:00 [financialjuice] US HOUSE PRICE INDEX MOM ACTUAL 0.3% (FORECAST 0.1%, PREVIOUS 0.0%) $MACRO
-- 09/29 22:00 [financialjuice] US CASESHILLER 20 YOY ACTUAL 2.47% (FORECAST 2.2%, PREVIOUS 2.1%) $MACRO
-- 09/29 22:00 [financialjuice] US HOUSE PRICE INDEX YOY ACTUAL 2.6% (FORECAST -, PREVIOUS 2.3%) $MACRO
-- 09/29 22:00 [FirstSquawk] US FHFA HOUSE PRICE INDEX (M/M) JUL: 0.3% (EST 0.1%; PREV 0.0%)
-- 09/29 22:02 [financialjuice] US Case-Shiller July Report
-- 09/29 22:06 [FirstSquawk] EU: NO TALKS PLANNED TO RENEGOTIATE UKRAINE EXPORT QUOTAS
 - 09/29 22:12 [FirstSquawk] LITHUANIA PREMIER 'READY TO PAY' FOR PERMANENT US DEPLOYMENT
 - 09/29 22:13 [FirstSquawk] SEC: WON'T RECOMMEND ACTION ON TESLA RETAIL VOTING PROGRAM
 - 09/29 22:13 [FirstSquawk] JEFFERIES CUTS HERMES TARGET PRICE TO EUR 1,600 FROM EUR 2,000
@@ -572,3 +565,12 @@
 - 09/30 09:47 [FirstSquawk] CBS: Hegseth to announce plans to reduce generals and admirals by 20%
 - 09/30 09:51 [FirstSquawk] Japan elderly population rises to record 29.4% of total in 2025 census
 - 09/30 09:51 [FirstSquawk] Russian ballistic missile strikes rock Kyiv, leaving parts of capital without power
+- 09/30 09:55 [FirstSquawk] WSJ: Oil prices mixed, with production recovery potentially weighing on prices
+- 09/30 09:55 [FirstSquawk] WSJ: Nikkei climbs 1.5%, driven by gains in chip and bank stocks
+- 09/30 09:56 [FirstSquawk] WSJ: Short-term JGBs advance alongside gains in similar-maturity U.S. Treasurys
+- 09/30 09:59 [FirstSquawk] FXStreet: Euro weakens below 1.1350 as Lagarde signals dovish stance, German retail sales awaited
+- 09/30 10:00 [financialjuice] Taiwan overnight interbank rate starts at 0.805% vs 0.805% at prior session open
+- 09/30 10:00 [FirstSquawk] Philippines August exports climb 27.8% versus year ago
+- 09/30 10:01 [FirstSquawk] Taiwan overnight interbank rate opens unchanged at 0.805% from previous session
+- 09/30 10:02 [FirstSquawk] WSJ: Market turbulence and AI safety worries cloud prospects for blockbuster fall IPOs
+- 09/30 10:07 [FirstSquawk] South Korea calls for closer coordination between donor and recipient nations on development projects - yonhap

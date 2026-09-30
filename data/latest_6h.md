@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-30 09:52 JST／対象: 09/30 03:52 〜 09/30 09:52 JST（時刻はすべて日本時間）
+生成: 2026-09-30 10:07 JST／対象: 09/30 04:07 〜 09/30 10:07 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 22 | 09/30 04:01 | 09/30 05:46 | 23分（05:12→05:36） |
-| FirstSquawk | 92 | 09/30 03:53 | 09/30 09:51 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 94 | 09/30 03:52 | 09/30 09:39 | ⚠ 67分（06:32→07:40） |
+| DeItaone | 19 | 09/30 04:27 | 09/30 05:46 | 23分（05:12→05:36） |
+| FirstSquawk | 96 | 09/30 04:09 | 09/30 10:07 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 92 | 09/30 04:09 | 09/30 10:00 | ⚠ 67分（06:32→07:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 202 行（統合前 209 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 201 行（統合前 208 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 03:52 [financialjuice] Brent Crude futures settle at $102.59/bbl, down $2.69, 2.56%.
-- 09/30 03:53 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 3.48% LOWER AT $89.38/BBL, DOWN $3.22
-- 09/30 03:54 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 2.56% LOWER AT $102.59/BBL, DOWN $2.69
-- 09/30 03:57 [financialjuice] OpenAI aims to prioritize mission and safety before IPO.
-- 09/30 04:00 [financialjuice] Fed's Waller does not comment on monetary policy, economic outlook in remarks on 'Payments in the Age of AI Agents'
-- 09/30 04:00 [FirstSquawk] FED’S WALLER MAKES NO COMMENTS ON MONETARY POLICY OR ECONOMIC OUTLOOK IN REMARKS ON “PAYMENTS IN THE AGE OF AI AGENTS”
-- 09/30 04:01 [DeItaone] EURO HITS 16-MONTH LOW AGAINST US DOLLAR, LAST DOWN 0.26% AT $1.13415
-- 09/30 04:02 [FirstSquawk] US AGRICULTURE PRICES PAID RISE 5.3% IN AUGUST, EASING FROM 7.7%; PRICES RECEIVED FALL 2.0% VS 2.6% PREVIOUSLY
-- 09/30 04:03 [DeItaone] *SUPREME COURT LETS TRUMP’S THIRD-COUNTRY DEPORTATIONS RESUME
-- 09/30 04:04 [DeItaone] OCTOBER FED HIKE ODDS DROP TO 50% Markets now price a 50% chance of an October Fed hike, down from around 70%, after Fed’s Williams said there is “no rush to act.” Williams still sees one more hike potentially needed by year-end, with infla…
 - 09/30 04:09 [financialjuice] Qatar is going to allow the use of drones in designated areas - Interior Ministry.
 - 09/30 04:09 [FirstSquawk] QATAR TO ALLOW DRONE USE IN DESIGNATED AREAS — INTERIOR MINISTRY
 - 09/30 04:10 [financialjuice] Iran Foreign Ministry warns regional countries of the consequences of Israeli Prime Minister Netanyahu's visit to the UAE - Fars News.
@@ -226,3 +216,12 @@
 - 09/30 09:47 [FirstSquawk] CBS: Hegseth to announce plans to reduce generals and admirals by 20%
 - 09/30 09:51 [FirstSquawk] Japan elderly population rises to record 29.4% of total in 2025 census
 - 09/30 09:51 [FirstSquawk] Russian ballistic missile strikes rock Kyiv, leaving parts of capital without power
+- 09/30 09:55 [FirstSquawk] WSJ: Oil prices mixed, with production recovery potentially weighing on prices
+- 09/30 09:55 [FirstSquawk] WSJ: Nikkei climbs 1.5%, driven by gains in chip and bank stocks
+- 09/30 09:56 [FirstSquawk] WSJ: Short-term JGBs advance alongside gains in similar-maturity U.S. Treasurys
+- 09/30 09:59 [FirstSquawk] FXStreet: Euro weakens below 1.1350 as Lagarde signals dovish stance, German retail sales awaited
+- 09/30 10:00 [financialjuice] Taiwan overnight interbank rate starts at 0.805% vs 0.805% at prior session open
+- 09/30 10:00 [FirstSquawk] Philippines August exports climb 27.8% versus year ago
+- 09/30 10:01 [FirstSquawk] Taiwan overnight interbank rate opens unchanged at 0.805% from previous session
+- 09/30 10:02 [FirstSquawk] WSJ: Market turbulence and AI safety worries cloud prospects for blockbuster fall IPOs
+- 09/30 10:07 [FirstSquawk] South Korea calls for closer coordination between donor and recipient nations on development projects - yonhap
