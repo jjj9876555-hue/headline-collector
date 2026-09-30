@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-30 22:50 JST／対象: 09/29 22:50 〜 09/30 22:50 JST（時刻はすべて日本時間）
+生成: 2026-09-30 23:04 JST／対象: 09/29 23:04 〜 09/30 23:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 97 | 09/29 22:50 | 09/30 22:46 | ⚠ 789分（05:46→18:55） |
-| FirstSquawk | 400 | 09/29 22:51 | 09/30 22:48 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 424 | 09/29 23:36 | 09/30 22:45 | ⚠ 80分（10:57→12:18） |
+| DeItaone | 94 | 09/29 23:09 | 09/30 22:55 | ⚠ 789分（05:46→18:55） |
+| FirstSquawk | 397 | 09/29 23:05 | 09/30 23:03 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 429 | 09/29 23:36 | 09/30 23:02 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 899 行（統合前 927 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 900 行（統合前 926 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 22:50 [DeItaone] U.S. GASOLINE AND DIESEL PRICES FALL U.S. regular gasoline prices fell 1.3 cents over the week to $4.465/gallon, though prices remain $1.347 higher than a year ago. Diesel saw a much larger decline, falling 14.7 cents to $6.382/gallon, but …
-- 09/29 22:50 [DeItaone] U.S. 30-YEAR TREASURY YIELD REACHES 5.587%, HIGHEST SINCE MAY 2004
-- 09/29 22:51 [FirstSquawk] STELLANTIS TO SUSPEND PRODUCTION AT THREE FRENCH PLANTS - LES ECHOS
-- 09/29 22:53 [FirstSquawk] PIPER SANDLER HOLDS TALKS TO BUY PERELLA WEINBERG: WSJ
-- 09/29 22:56 [FirstSquawk] BURNHAM: NATL'L COMMISSION ON ELECTORAL REFORM
-- 09/29 22:57 [FirstSquawk] BURNHAM: PARTY WITH UNDER 30% OF VOTE SHOULDN'T BE IN POWER
-- 09/29 23:00 [FirstSquawk/DeItaone] US SEPT. CONSUMER CONFIDENCE 81.9; EST. 89.0
-- 09/29 23:00 [FirstSquawk/DeItaone] US AUG. JOB OPENINGS 7.079M; EST. 7.228M
-- 09/29 23:00 [DeItaone] U.S. JOB OPENINGS FALL TO 7.08 MILLION U.S. job openings fell to 7.079 million in August, down from a revised 7.335 million in July, according to the Labor Department’s JOLTS report. The job-openings rate slipped to 4.3% from 4.4%, while hi…
-- 09/29 23:02 [FirstSquawk] SAUDI CROWN PRINCE MEETS WITH UAE VICE PRESIDENT IN RIYADH:SPA
 - 09/29 23:05 [FirstSquawk] BURNHAM: BREXIT HASN'T GIVEN US CONTROL
 - 09/29 23:05 [FirstSquawk] L3HARRIS RECEIVES THAAD PROPULSION CONTRACT VALUED AT $6 BLN
 - 09/29 23:08 [FirstSquawk] BURNHAM: UK-EU SUMMIT THIS YEAR
@@ -923,3 +913,14 @@
 - 09/30 22:46 [DeItaone] *US SEPT. MNI CHICAGO REPORT BUSINESS INDEX AT 58.8; EST 51.0
 - 09/30 22:47 [FirstSquawk] PM MODI: HAD A PRODUCTIVE CONVERSATION WITH US PRESIDENT TRUMP
 - 09/30 22:48 [FirstSquawk] PM MODI: ALSO EXCHANGED VIEWS ON REGIONAL AND INTERNATIONAL ISSUES, INCLUDING ONGOING EFFORTS TO ADVANCE GLOBAL PEACE AND SECURITY
+- 09/30 22:50 [FirstSquawk] ISRAEL DEFENCE MINISTER KATZ: INCIDENT ABOARD FLYDUBAI FLIGHT WAS A 'JIHADIST TERROR ATTACK' ATTEMPT
+- 09/30 22:51 [FirstSquawk] TRUMP TO ANNOUNCE 8 NUCLEAR POWER PLANTS FUNDED BY S.KOREA
+- 09/30 22:52 [financialjuice] White House Official: Trump to announce 8 nuclear power plants funded by South Korea. Announcing South Korea’s $200 bln investment in US
+- 09/30 22:53 [financialjuice] EASA issues advisory to airlines over Saudi airspace following recent increase in Houthi attacks
+- 09/30 22:53 [financialjuice] Latest EASA advisory does not mention Wednesday's incident involving diverted FlyDubai airliner.
+- 09/30 22:54 [DeItaone] *TRUMP ANNOUNCING TODAY SOUTH KOREA'S $200B INVESTMENT IN US *TRUMP TO ANNOUNCE 8 NUCLEAR POWER PLANTS FUNDED BY S.KOREA
+- 09/30 22:55 [FirstSquawk] WHITE HOUSE OFFICIAL: TRUMP WILL BE ANNOUNCING SOUTH KOREA'S $200 BLN INVESTMENT IN US TODAY
+- 09/30 22:55 [financialjuice] China's MOFCOM: China and Canada hold meeting on economy and trade
+- 09/30 22:55 [DeItaone] FTC LAUNCHES INDUSTRY-WIDE AI PROBE AFTER HUGGING FACE INCIDENT The U.S. Federal Trade Commission is conducting an industry-wide AI investigation following the Hugging Face incident, according to a source. The FTC reportedly plans to issue …
+- 09/30 23:02 [financialjuice] NATO Sec. Gen. Rutte: US will stay involved in conventional defence of Europe, as well as nuclear.
+- 09/30 23:03 [FirstSquawk] MEXICO GROWS CONFIDENT ON US DEAL TO CUT STEEL, AUTO TARIFFS

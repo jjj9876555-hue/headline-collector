@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-30 22:50 JST／対象: 09/30 10:50 〜 09/30 22:50 JST（時刻はすべて日本時間）
+生成: 2026-09-30 23:04 JST／対象: 09/30 11:04 〜 09/30 23:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 35 | 09/30 18:55 | 09/30 22:46 | 20分（22:25→22:46） |
-| FirstSquawk | 179 | 09/30 10:57 | 09/30 22:48 | 31分（17:30→18:02） |
-| financialjuice | 111 | 09/30 10:57 | 09/30 22:45 | ⚠ 80分（10:57→12:18） |
+| DeItaone | 37 | 09/30 18:55 | 09/30 22:55 | 20分（22:25→22:46） |
+| FirstSquawk | 179 | 09/30 11:07 | 09/30 23:03 | 31分（17:30→18:02） |
+| financialjuice | 115 | 09/30 12:18 | 09/30 23:02 | ⚠ 58分（14:00→14:59） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 318 行（統合前 325 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 324 行（統合前 331 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 10:57 [FirstSquawk] Toys R Us weighs Japan exit through sale of local business to Don Quijote operator
-- 09/30 10:57 [financialjuice] Russian air strike on Ukraine's Kyiv region wounds three, kills one: official
-- 09/30 10:58 [FirstSquawk] Russian strike on Kyiv region kills one, injures three, official says
-- 09/30 11:02 [FirstSquawk] Sri Lanka central bank leaves overnight policy rate unchanged at 8.75%
-- 09/30 11:03 [FirstSquawk] Fitch confirms Bank of Queensland’s mortgage covered bond programmes at AAA with stable outlook
 - 09/30 11:07 [FirstSquawk] Sri Lanka central bank says current account likely recorded a surplus in August 2026
 - 09/30 11:13 [FirstSquawk] China’s military carries out readiness patrols in Scarborough Shoal’s surrounding sea and airspace
 - 09/30 11:18 [FirstSquawk] Porsche introduces Cayenne Electric to South Korean market
@@ -342,3 +337,14 @@
 - 09/30 22:46 [DeItaone] *US SEPT. MNI CHICAGO REPORT BUSINESS INDEX AT 58.8; EST 51.0
 - 09/30 22:47 [FirstSquawk] PM MODI: HAD A PRODUCTIVE CONVERSATION WITH US PRESIDENT TRUMP
 - 09/30 22:48 [FirstSquawk] PM MODI: ALSO EXCHANGED VIEWS ON REGIONAL AND INTERNATIONAL ISSUES, INCLUDING ONGOING EFFORTS TO ADVANCE GLOBAL PEACE AND SECURITY
+- 09/30 22:50 [FirstSquawk] ISRAEL DEFENCE MINISTER KATZ: INCIDENT ABOARD FLYDUBAI FLIGHT WAS A 'JIHADIST TERROR ATTACK' ATTEMPT
+- 09/30 22:51 [FirstSquawk] TRUMP TO ANNOUNCE 8 NUCLEAR POWER PLANTS FUNDED BY S.KOREA
+- 09/30 22:52 [financialjuice] White House Official: Trump to announce 8 nuclear power plants funded by South Korea. Announcing South Korea’s $200 bln investment in US
+- 09/30 22:53 [financialjuice] EASA issues advisory to airlines over Saudi airspace following recent increase in Houthi attacks
+- 09/30 22:53 [financialjuice] Latest EASA advisory does not mention Wednesday's incident involving diverted FlyDubai airliner.
+- 09/30 22:54 [DeItaone] *TRUMP ANNOUNCING TODAY SOUTH KOREA'S $200B INVESTMENT IN US *TRUMP TO ANNOUNCE 8 NUCLEAR POWER PLANTS FUNDED BY S.KOREA
+- 09/30 22:55 [FirstSquawk] WHITE HOUSE OFFICIAL: TRUMP WILL BE ANNOUNCING SOUTH KOREA'S $200 BLN INVESTMENT IN US TODAY
+- 09/30 22:55 [financialjuice] China's MOFCOM: China and Canada hold meeting on economy and trade
+- 09/30 22:55 [DeItaone] FTC LAUNCHES INDUSTRY-WIDE AI PROBE AFTER HUGGING FACE INCIDENT The U.S. Federal Trade Commission is conducting an industry-wide AI investigation following the Hugging Face incident, according to a source. The FTC reportedly plans to issue …
+- 09/30 23:02 [financialjuice] NATO Sec. Gen. Rutte: US will stay involved in conventional defence of Europe, as well as nuclear.
+- 09/30 23:03 [FirstSquawk] MEXICO GROWS CONFIDENT ON US DEAL TO CUT STEEL, AUTO TARIFFS

@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-30 22:50 JST／対象: 09/30 16:50 〜 09/30 22:50 JST（時刻はすべて日本時間）
+生成: 2026-09-30 23:04 JST／対象: 09/30 17:04 〜 09/30 23:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 35 | 09/30 18:55 | 09/30 22:46 | 20分（22:25→22:46） |
-| FirstSquawk | 77 | 09/30 16:55 | 09/30 22:48 | 31分（17:30→18:02） |
-| financialjuice | 86 | 09/30 16:55 | 09/30 22:45 | ⚠ 50分（17:10→18:01） |
+| DeItaone | 37 | 09/30 18:55 | 09/30 22:55 | 20分（22:25→22:46） |
+| FirstSquawk | 78 | 09/30 17:07 | 09/30 23:03 | 31分（17:30→18:02） |
+| financialjuice | 79 | 09/30 17:08 | 09/30 23:02 | ⚠ 50分（17:10→18:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 192 行（統合前 198 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 188 行（統合前 194 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 16:55 [financialjuice] ‼ BREAKING: GERMAN UNEMPLOYMENT CHANGE SA ACTUAL 12K (FORECAST 0.5K, PREVIOUS 4K) $MACRO
-- 09/30 16:55 [financialjuice] ❗ GERMAN UNEMPLOYMENT RATE ACTUAL 6.4% (FORECAST 6.4%, PREVIOUS 6.4%) $MACRO
-- 09/30 16:55 [FirstSquawk] GERMANY'S UNEMPLOYMENT INCREASED BY 12,000 IN SEPTEMBER; ESTIMATES WERE ONLY A RISE OF 500.
-- 09/30 16:55 [FirstSquawk] GERMANY'S UNEMPLOYMENT RATE FOR SEPTEMBER IS 6.4%, MATCHING ESTIMATIONS OF 6.4%.
-- 09/30 16:55 [financialjuice] GERMAN UNEMPLOYMENT TOTAL SA ACTUAL 3.012M (FORECAST -, PREVIOUS 2.996M) $MACRO
-- 09/30 16:55 [financialjuice] GERMAN UNEMPLOYMENT TOTAL NSA ACTUAL 2.994M (FORECAST -, PREVIOUS 3.061M) $MACRO
-- 09/30 17:00 [financialjuice] SWISS ZEW EXPECTATIONS ACTUAL 2.6 (FORECAST -, PREVIOUS 12.1) $MACRO
-- 09/30 17:00 [financialjuice] BAVARIA CPI YOY ACTUAL 3.2% (FORECAST -, PREVIOUS 2.9%) $MACRO
-- 09/30 17:00 [financialjuice] BAVARIA CPI MOM ACTUAL 0.6% (FORECAST -, PREVIOUS 0.2%) $MACRO
-- 09/30 17:01 [financialjuice] ITALIAN CONSUMER CONFIDENCE ACTUAL 91.2 (FORECAST 94.4, PREVIOUS 94.5) $MACRO
-- 09/30 17:01 [financialjuice] ITALIAN MFG BUSINESS CONFIDENCE ACTUAL 91.9 (FORECAST 90.5, PREVIOUS 89.9 ,REVISION 90.2) $MACRO
-- 09/30 17:01 [financialjuice] NORTH RHINE CPI MOM ACTUAL 0.6% (FORECAST -, PREVIOUS 0.2%) $MACRO
-- 09/30 17:01 [financialjuice] NORTH-RHINE CPI YOY ACTUAL 3.3% (FORECAST -, PREVIOUS 2.9%) $MACRO
-- 09/30 17:01 [financialjuice] SPANISH CURRENT ACCOUNT BALANCE ACTUAL 5.909B (FORECAST -, PREVIOUS 2.41B) $MACRO
-- 09/30 17:03 [FirstSquawk] GERMANY TELLS ENERGY FIRM SEFE TO STORE GAS SUPPLY.
 - 09/30 17:07 [FirstSquawk] UAE ENERGY MINISTER MAZROUEI STATES SUPPORT FOR OPEC+ GROUP.
 - 09/30 17:07 [FirstSquawk] UAE PLANS TO CONTINUE COORDINATION WITH PARTNERS AND CONSUMERS, SAYS MINISTER.
 - 09/30 17:07 [FirstSquawk] UAE MINISTER STATES THAT THERE IS A RISE IN DEMAND FOR EXTRA OIL PRODUCTION.
@@ -216,3 +201,14 @@
 - 09/30 22:46 [DeItaone] *US SEPT. MNI CHICAGO REPORT BUSINESS INDEX AT 58.8; EST 51.0
 - 09/30 22:47 [FirstSquawk] PM MODI: HAD A PRODUCTIVE CONVERSATION WITH US PRESIDENT TRUMP
 - 09/30 22:48 [FirstSquawk] PM MODI: ALSO EXCHANGED VIEWS ON REGIONAL AND INTERNATIONAL ISSUES, INCLUDING ONGOING EFFORTS TO ADVANCE GLOBAL PEACE AND SECURITY
+- 09/30 22:50 [FirstSquawk] ISRAEL DEFENCE MINISTER KATZ: INCIDENT ABOARD FLYDUBAI FLIGHT WAS A 'JIHADIST TERROR ATTACK' ATTEMPT
+- 09/30 22:51 [FirstSquawk] TRUMP TO ANNOUNCE 8 NUCLEAR POWER PLANTS FUNDED BY S.KOREA
+- 09/30 22:52 [financialjuice] White House Official: Trump to announce 8 nuclear power plants funded by South Korea. Announcing South Korea’s $200 bln investment in US
+- 09/30 22:53 [financialjuice] EASA issues advisory to airlines over Saudi airspace following recent increase in Houthi attacks
+- 09/30 22:53 [financialjuice] Latest EASA advisory does not mention Wednesday's incident involving diverted FlyDubai airliner.
+- 09/30 22:54 [DeItaone] *TRUMP ANNOUNCING TODAY SOUTH KOREA'S $200B INVESTMENT IN US *TRUMP TO ANNOUNCE 8 NUCLEAR POWER PLANTS FUNDED BY S.KOREA
+- 09/30 22:55 [FirstSquawk] WHITE HOUSE OFFICIAL: TRUMP WILL BE ANNOUNCING SOUTH KOREA'S $200 BLN INVESTMENT IN US TODAY
+- 09/30 22:55 [financialjuice] China's MOFCOM: China and Canada hold meeting on economy and trade
+- 09/30 22:55 [DeItaone] FTC LAUNCHES INDUSTRY-WIDE AI PROBE AFTER HUGGING FACE INCIDENT The U.S. Federal Trade Commission is conducting an industry-wide AI investigation following the Hugging Face incident, according to a source. The FTC reportedly plans to issue …
+- 09/30 23:02 [financialjuice] NATO Sec. Gen. Rutte: US will stay involved in conventional defence of Europe, as well as nuclear.
+- 09/30 23:03 [FirstSquawk] MEXICO GROWS CONFIDENT ON US DEAL TO CUT STEEL, AUTO TARIFFS
