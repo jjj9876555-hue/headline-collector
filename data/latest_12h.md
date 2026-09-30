@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-01 06:54 JST／対象: 09/30 18:54 〜 10/01 06:54 JST（時刻はすべて日本時間）
+生成: 2026-10-01 07:18 JST／対象: 09/30 19:18 〜 10/01 07:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 75 | 09/30 18:55 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
-| FirstSquawk | 156 | 09/30 19:01 | 10/01 06:31 | 28分（03:03→03:31） |
-| financialjuice | 165 | 09/30 18:58 | 10/01 06:45 | 35分（01:01→01:37） |
+| DeItaone | 70 | 09/30 19:18 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
+| FirstSquawk | 153 | 09/30 19:29 | 10/01 06:31 | 28分（03:03→03:31） |
+| financialjuice | 187 | 09/30 19:28 | 10/01 07:15 | 35分（01:01→01:37） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 378 行（統合前 398 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 392 行（統合前 412 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 18:55 [DeItaone] https://t.co/uo7LOnJ1Lp
-- 09/30 18:57 [DeItaone] 🇺🇸 PRESIDENT TRUMP — WEDNESDAY, SEPTEMBER 30, 2026 🔸 8:00 AM — Executive Time — White House 🔸 9:00 AM — In-Town Pool Call Time 🔸 11:00 AM — Policy Meeting — Oval Office 🔸 1:00 PM — Hispanic Heritage Month Celebration — East Room 🔸 3:30 PM —…
-- 09/30 18:58 [financialjuice] Japan's Econ. Min. Kiuchi: No gap in understanding with BoJ on economy, prices.
-- 09/30 19:00 [DeItaone] FRENCH BOND RISK HITS HIGHEST LEVEL SINCE 2012 France’s 10-year yield spread over Germany has surpassed 120 basis points for the first time in 14 years, as political uncertainty and accelerating inflation pressure French debt. The move come…
-- 09/30 19:01 [FirstSquawk] KREMLIN: PUTIN WILL DELIVER A SPEECH IN NEWLY ELECTED PARLIAMENT LATER ON WEDNESDAY
-- 09/30 19:02 [FirstSquawk] JAPAN CURRENCY INTERVENTION AMOUNTED TO 0 YEN FROM AUG 27 TO SEPT 28 - MOF
-- 09/30 19:04 [DeItaone] BANK OF ENGLAND WARNS OF SHARPER AI MARKET CORRECTION The Bank of England warns AI valuations remain vulnerable to a deeper selloff than July’s, potentially spilling into global growth expectations and sovereign bond markets. The BOE says s…
-- 09/30 19:06 [FirstSquawk] VOLKSWAGEN PREPARES TO TERMINATE MULTIPLE COLLECTIVE DEALS - HANDELSBLATT
-- 09/30 19:10 [DeItaone] PORSCHE PIVOTS BACK TO PETROL AS EV DEMAND WEAKENS Porsche is reviving its petrol strategy, with a combustion-engine Macan planned for 2028 after electric Macan sales fell 40% in H1. CEO Michael Leiters says EVs remain part of Porsche’s fut…
 - 09/30 19:18 [DeItaone/FirstSquawk] *LIBYA SHARARA OIL FIELD OUTPUT RISES TO NEAR 340,000 B/D
 - 09/30 19:28 [financialjuice] BoE Gov. Bailey: Regulating AI is not the right place to start.
 - 09/30 19:30 [financialjuice] Apple set to debut Home Hub and updated Apple TV, Homepod Mini.
@@ -402,3 +393,26 @@
 - 10/01 06:31 [FirstSquawk] U.S. CENTRAL COMMAND SAYS THAT AS OF SEPT. 30, CENTCOM FORCES HAVE REDIRECTED 125 COMMERCIAL VESSELS TO ENSURE STRICT COMPLIANCE, WITH THE USS GEORGE H.W. BUSH (CVN 77) SAILING IN THE ARABIAN SEA SUPPORTING ENFORCEMENT OF THE U.S. BLOCKADE …
 - 10/01 06:45 [financialjuice] NEW ZEALAND BUILDING CONSENTS ACTUAL 5.6% (FORECAST -, PREVIOUS -4.3%) $MACRO
 - 10/01 06:45 [financialjuice] New Zealand seasonally adjusted new dwelling consents increase 5.6% in August versus previous month
+- 10/01 07:02 [financialjuice] Fed's Kashkari: Inflation still too high, about 3%, new data doesn't alter outlook
+- 10/01 07:02 [financialjuice] Fed's Kashkari: economy remains robust despite shocks
+- 10/01 07:03 [financialjuice] Fed's Kashkari: consumers continue spending and job seekers have positions
+- 10/01 07:03 [financialjuice] Fed's Kashkari: the longer economy stays strong, the more I question monetary policy tightness
+- 10/01 07:04 [financialjuice] Fed's Kashkari: neutral rate could be higher than expected
+- 10/01 07:04 [financialjuice] Fed's Kashkari: uncertain about current neutral rate
+- 10/01 07:05 [financialjuice] Fed's Kashkari: neutral rate probably higher for the time being
+- 10/01 07:06 [financialjuice] Fed officials unsure where neutral rate stands now
+- 10/01 07:06 [financialjuice] Consumers continue spending, and job seekers find employment
+- 10/01 07:06 [financialjuice] Neutral rate may be higher than expected
+- 10/01 07:06 [financialjuice] Neutral rate probably higher at least for now
+- 10/01 07:06 [financialjuice] The longer the economy remains robust, the more I question the tightness of monetary policy
+- 10/01 07:07 [financialjuice] Fed's Kashkari: should not blindly follow markets but won't ignore its signals
+- 10/01 07:08 [financialjuice] Fed's Kashkari: expects one more rate increase this year and another in 2027
+- 10/01 07:09 [financialjuice] Fed's Kashkari: doubtful economy struggling beyond AI sector
+- 10/01 07:10 [financialjuice] Fed's Kashkari: hopes central bank can reduce inflation with restrained measures
+- 10/01 07:14 [financialjuice] Economy remains durable despite shocks
+- 10/01 07:14 [financialjuice] Fed's Kashkari: central bank must return inflation to 2% considering extended period above target
+- 10/01 07:14 [financialjuice] Skeptical about notion economy struggles beyond AI sector
+- 10/01 07:14 [financialjuice] hopes Fed can reduce inflation with limited measures
+- 10/01 07:15 [financialjuice] Should not blindly follow markets: won't disregard its signals
+- 10/01 07:15 [financialjuice] Fed's Kashkari warns rolling supply shocks may boost inflation expectations
+- 10/01 07:15 [financialjuice] Fed must bring inflation back to 2% after extended period above target

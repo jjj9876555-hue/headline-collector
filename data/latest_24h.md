@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-01 06:54 JST／対象: 09/30 06:54 〜 10/01 06:54 JST（時刻はすべて日本時間）
+生成: 2026-10-01 07:18 JST／対象: 09/30 07:18 〜 10/01 07:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 75 | 09/30 18:55 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
 | FirstSquawk | 367 | 09/30 08:05 | 10/01 06:31 | 31分（17:30→18:02） |
-| financialjuice | 288 | 09/30 07:40 | 10/01 06:45 | ⚠ 80分（10:57→12:18） |
+| financialjuice | 311 | 09/30 07:40 | 10/01 07:15 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 711 行（統合前 732 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 734 行（統合前 755 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -735,3 +735,26 @@
 - 10/01 06:31 [FirstSquawk] U.S. CENTRAL COMMAND SAYS THAT AS OF SEPT. 30, CENTCOM FORCES HAVE REDIRECTED 125 COMMERCIAL VESSELS TO ENSURE STRICT COMPLIANCE, WITH THE USS GEORGE H.W. BUSH (CVN 77) SAILING IN THE ARABIAN SEA SUPPORTING ENFORCEMENT OF THE U.S. BLOCKADE …
 - 10/01 06:45 [financialjuice] NEW ZEALAND BUILDING CONSENTS ACTUAL 5.6% (FORECAST -, PREVIOUS -4.3%) $MACRO
 - 10/01 06:45 [financialjuice] New Zealand seasonally adjusted new dwelling consents increase 5.6% in August versus previous month
+- 10/01 07:02 [financialjuice] Fed's Kashkari: Inflation still too high, about 3%, new data doesn't alter outlook
+- 10/01 07:02 [financialjuice] Fed's Kashkari: economy remains robust despite shocks
+- 10/01 07:03 [financialjuice] Fed's Kashkari: consumers continue spending and job seekers have positions
+- 10/01 07:03 [financialjuice] Fed's Kashkari: the longer economy stays strong, the more I question monetary policy tightness
+- 10/01 07:04 [financialjuice] Fed's Kashkari: neutral rate could be higher than expected
+- 10/01 07:04 [financialjuice] Fed's Kashkari: uncertain about current neutral rate
+- 10/01 07:05 [financialjuice] Fed's Kashkari: neutral rate probably higher for the time being
+- 10/01 07:06 [financialjuice] Fed officials unsure where neutral rate stands now
+- 10/01 07:06 [financialjuice] Consumers continue spending, and job seekers find employment
+- 10/01 07:06 [financialjuice] Neutral rate may be higher than expected
+- 10/01 07:06 [financialjuice] Neutral rate probably higher at least for now
+- 10/01 07:06 [financialjuice] The longer the economy remains robust, the more I question the tightness of monetary policy
+- 10/01 07:07 [financialjuice] Fed's Kashkari: should not blindly follow markets but won't ignore its signals
+- 10/01 07:08 [financialjuice] Fed's Kashkari: expects one more rate increase this year and another in 2027
+- 10/01 07:09 [financialjuice] Fed's Kashkari: doubtful economy struggling beyond AI sector
+- 10/01 07:10 [financialjuice] Fed's Kashkari: hopes central bank can reduce inflation with restrained measures
+- 10/01 07:14 [financialjuice] Economy remains durable despite shocks
+- 10/01 07:14 [financialjuice] Fed's Kashkari: central bank must return inflation to 2% considering extended period above target
+- 10/01 07:14 [financialjuice] Skeptical about notion economy struggles beyond AI sector
+- 10/01 07:14 [financialjuice] hopes Fed can reduce inflation with limited measures
+- 10/01 07:15 [financialjuice] Should not blindly follow markets: won't disregard its signals
+- 10/01 07:15 [financialjuice] Fed's Kashkari warns rolling supply shocks may boost inflation expectations
+- 10/01 07:15 [financialjuice] Fed must bring inflation back to 2% after extended period above target

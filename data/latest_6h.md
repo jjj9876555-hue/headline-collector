@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 06:54 JST／対象: 10/01 00:54 〜 10/01 06:54 JST（時刻はすべて日本時間）
+生成: 2026-10-01 07:18 JST／対象: 10/01 01:18 〜 10/01 07:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 31 | 10/01 02:11 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
-| FirstSquawk | 86 | 10/01 00:58 | 10/01 06:31 | 28分（03:03→03:31） |
-| financialjuice | 79 | 10/01 01:00 | 10/01 06:45 | 35分（01:01→01:37） |
+| FirstSquawk | 81 | 10/01 01:25 | 10/01 06:31 | 28分（03:03→03:31） |
+| financialjuice | 98 | 10/01 01:37 | 10/01 07:15 | 20分（03:02→03:23） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 186 行（統合前 198 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 200 行（統合前 212 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 00:58 [FirstSquawk] ECB'S LAGARDE ON IF SHE WOULD BE A FRENCH PRESIDENTIAL CANDIDATE: 'THAT WOULD NOT BE A GOOD IDEA AT ALL' - LA CROIX
-- 10/01 00:58 [FirstSquawk] ECB'S LAGARDE: IF I LEAVE ECB EARLY, "IT WILL ONLY BE BY A FEW MONTHS" – LA CROIX
-- 10/01 00:58 [FirstSquawk] USTR GREER: TO RELEASE 'MILWAUKEE FRAMEWORK' FOR COORDINATED ACTION TO ADDRESS EXCESS STEEL CAPACITY AT G20 TRADE MINISTERS MEETING
-- 10/01 01:00 [financialjuice] UK's PM Burnham: Looking at all things including fuel duty ahead of budget.
-- 10/01 01:01 [financialjuice] UK's PM Burnham: Hard to return to past growth without closer EU ties
-- 10/01 01:01 [FirstSquawk] Continental Q3 2026 Results: - ContiTech Q3 Sales, EBIT Margin Seen Falling (Q/Q) - Q3 Tires Sales Seen Slightly Below Prior Year - Tires Q3 Margin Seen Hitting Upper End Of FY Guidance
-- 10/01 01:01 [financialjuice] UK's PM Burnham: We can't have unfunded plans in budget.
-- 10/01 01:01 [financialjuice] UK's PM Burnham: Will do what we can alongside challenging finances.
-- 10/01 01:09 [FirstSquawk] UK PM BURNHAM: EU OPTIONS RANGE FROM UK STAYING AS IT IS, TO REJOINING - BBC INTERVIEW
 - 10/01 01:25 [FirstSquawk] ITALY PM MELONI: PLANS TO SPEND EUR14 BLN STEMMING FROM EU ESCAPE CLAUSE TO LOWER FIRMS’ ENERGY COSTS
 - 10/01 01:28 [FirstSquawk] FORD SHARES FALL 2.6% TO REACH LOWEST SINCE MAY 13
 - 10/01 01:32 [FirstSquawk] US 10-YEAR TREASURY YIELD RISES TO 5.29%, RENEWS HIGH SINCE '2007
@@ -210,3 +201,26 @@
 - 10/01 06:31 [FirstSquawk] U.S. CENTRAL COMMAND SAYS THAT AS OF SEPT. 30, CENTCOM FORCES HAVE REDIRECTED 125 COMMERCIAL VESSELS TO ENSURE STRICT COMPLIANCE, WITH THE USS GEORGE H.W. BUSH (CVN 77) SAILING IN THE ARABIAN SEA SUPPORTING ENFORCEMENT OF THE U.S. BLOCKADE …
 - 10/01 06:45 [financialjuice] NEW ZEALAND BUILDING CONSENTS ACTUAL 5.6% (FORECAST -, PREVIOUS -4.3%) $MACRO
 - 10/01 06:45 [financialjuice] New Zealand seasonally adjusted new dwelling consents increase 5.6% in August versus previous month
+- 10/01 07:02 [financialjuice] Fed's Kashkari: Inflation still too high, about 3%, new data doesn't alter outlook
+- 10/01 07:02 [financialjuice] Fed's Kashkari: economy remains robust despite shocks
+- 10/01 07:03 [financialjuice] Fed's Kashkari: consumers continue spending and job seekers have positions
+- 10/01 07:03 [financialjuice] Fed's Kashkari: the longer economy stays strong, the more I question monetary policy tightness
+- 10/01 07:04 [financialjuice] Fed's Kashkari: neutral rate could be higher than expected
+- 10/01 07:04 [financialjuice] Fed's Kashkari: uncertain about current neutral rate
+- 10/01 07:05 [financialjuice] Fed's Kashkari: neutral rate probably higher for the time being
+- 10/01 07:06 [financialjuice] Fed officials unsure where neutral rate stands now
+- 10/01 07:06 [financialjuice] Consumers continue spending, and job seekers find employment
+- 10/01 07:06 [financialjuice] Neutral rate may be higher than expected
+- 10/01 07:06 [financialjuice] Neutral rate probably higher at least for now
+- 10/01 07:06 [financialjuice] The longer the economy remains robust, the more I question the tightness of monetary policy
+- 10/01 07:07 [financialjuice] Fed's Kashkari: should not blindly follow markets but won't ignore its signals
+- 10/01 07:08 [financialjuice] Fed's Kashkari: expects one more rate increase this year and another in 2027
+- 10/01 07:09 [financialjuice] Fed's Kashkari: doubtful economy struggling beyond AI sector
+- 10/01 07:10 [financialjuice] Fed's Kashkari: hopes central bank can reduce inflation with restrained measures
+- 10/01 07:14 [financialjuice] Economy remains durable despite shocks
+- 10/01 07:14 [financialjuice] Fed's Kashkari: central bank must return inflation to 2% considering extended period above target
+- 10/01 07:14 [financialjuice] Skeptical about notion economy struggles beyond AI sector
+- 10/01 07:14 [financialjuice] hopes Fed can reduce inflation with limited measures
+- 10/01 07:15 [financialjuice] Should not blindly follow markets: won't disregard its signals
+- 10/01 07:15 [financialjuice] Fed's Kashkari warns rolling supply shocks may boost inflation expectations
+- 10/01 07:15 [financialjuice] Fed must bring inflation back to 2% after extended period above target
