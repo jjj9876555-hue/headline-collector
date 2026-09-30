@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-30 13:19 JST／対象: 09/30 07:19 〜 09/30 13:19 JST（時刻はすべて日本時間）
+生成: 2026-09-30 13:37 JST／対象: 09/30 07:37 〜 09/30 13:37 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 119 | 09/30 08:05 | 09/30 13:16 | 25分（08:09→08:35） |
+| FirstSquawk | 121 | 09/30 08:05 | 09/30 13:35 | 25分（08:09→08:35） |
 | financialjuice | 69 | 09/30 07:40 | 09/30 13:15 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 187 行（統合前 188 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 189 行（統合前 190 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -211,3 +211,5 @@
 - 09/30 13:05 [FirstSquawk] White House weighs diesel export ban ahead of U.S. midterms — FT
 - 09/30 13:15 [financialjuice] Iran executes two men accused of killing security forces during early 2026 protests: SNN
 - 09/30 13:16 [FirstSquawk] Iran executes two men over alleged killings of security forces during early 2026 protests — SNN
+- 09/30 13:33 [FirstSquawk] OIL REMAINS ELEVATED DESPITE PERSIAN GULF EXPORTS RECOVERY-WSJ
+- 09/30 13:35 [FirstSquawk] China’s PMI data signals broader economic improvement across sectors — WSJ

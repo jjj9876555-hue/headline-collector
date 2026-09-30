@@ -7,46 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-30 13:19 JST／対象: 09/29 13:19 〜 09/30 13:19 JST（時刻はすべて日本時間）
+生成: 2026-09-30 13:37 JST／対象: 09/29 13:37 〜 09/30 13:37 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 88 | 09/29 20:26 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
-| FirstSquawk | 433 | 09/29 13:20 | 09/30 13:16 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 424 | 09/29 13:30 | 09/30 13:15 | ⚠ 80分（10:57→12:18） |
+| FirstSquawk | 427 | 09/29 13:38 | 09/30 13:35 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 409 | 09/29 14:00 | 09/30 13:15 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 919 行（統合前 951 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 898 行（統合前 930 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 13:20 [FirstSquawk] JPMorgan downgrades PepsiCo to Neutral, cuts price target to $138 from $170
-- 09/29 13:30 [financialjuice] ‼ BREAKING: RBA CASH RATE ACTUAL 4.6% (FORECAST 4.6%, PREVIOUS 4.35%) $MACRO
-- 09/29 13:30 [financialjuice] Reserve Bank of Australia at its meeting today raises cash rate target by 25 basis points to 4.60%
-- 09/29 13:31 [financialjuice] Reserve Bank of Australia sets cash rate at 4.60%
-- 09/29 13:31 [financialjuice] RBA: inflation stays high as some upside risks flagged in August emerge
-- 09/29 13:31 [financialjuice] RBA: three cash rate hikes since start of year tighten financial conditions as economy shows signs of slowing
-- 09/29 13:31 [financialjuice] Rba: short-term inflation expectations stay elevated
-- 09/29 13:31 [financialjuice] RBA: inflation remains elevated, board decides further financial tightening needed to ensure inflation returns to target
-- 09/29 13:31 [financialjuice] RBA: recent inflation results in Australia exceeded expectations from previous meeting
-- 09/29 13:31 [financialjuice] RBA: board will continue necessary measures to bring inflation sustainably back to target, including raising cash rate further if needed
-- 09/29 13:31 [financialjuice] RBA: monetary policy is well positioned to address developments, board focused on mandate for price stability and full employment
-- 09/29 13:31 [financialjuice] RBA: labour market conditions have generally eased as expected in recent months, with leading indicators broadly stable
-- 09/29 13:31 [financialjuice] RBA: some of the upside risks to inflation are emerging since the previous meeting
-- 09/29 13:31 [financialjuice] RBA: uncertainties remain elevated about outlook for domestic economic activity and inflation
-- 09/29 13:31 [financialjuice] DUTCH MANUFACTURING CONFIDENCE ACTUAL 4.2 (FORECAST -, PREVIOUS 3.7) $MACRO
-- 09/29 13:31 [financialjuice] RBA: Middle East conflict remains unresolved, with scenarios of higher inflation and lower activity than forecast
-- 09/29 13:33 [FirstSquawk] Australia’s benchmark ASX 200 slips 0.1% after CBA raises rates
-- 09/29 13:33 [FirstSquawk] Australia’s RBA lifts cash rate target to 4.60% with 25bp hike, as expected
-- 09/29 13:34 [FirstSquawk] Australian dollar climbs to $0.7026 after RBA hikes interest rates
-- 09/29 13:35 [FirstSquawk] Toyota’s parent-only Japan production declines 1.7% y/y to 204,487 vehicles in August
-- 09/29 13:35 [FirstSquawk] Toyota’s parent-only global vehicle sales drop 6.4% y/y to 790,743 units in August
-- 09/29 13:35 [FirstSquawk] Toyota’s parent-only overseas production drops 7.6% y/y to 496,373 vehicles in August
-- 09/29 13:36 [FirstSquawk] Toyota’s parent-only global production drops 5.9% y/y to 700,860 vehicles in August
 - 09/29 13:38 [FirstSquawk] RBA: Price pressures stay stubbornly persistent, with previously identified August upside risks increasingly turning into reality.
 - 09/29 13:38 [FirstSquawk] RBA: Expanding Middle East hostilities have driven worldwide fuel and power costs well past earlier August projections.
 - 09/29 13:38 [FirstSquawk] RBA: This year's trio of rate hikes has constrained overall credit conditions, visibly sapping momentum from the broader economy.
@@ -943,3 +920,5 @@
 - 09/30 13:05 [FirstSquawk] White House weighs diesel export ban ahead of U.S. midterms — FT
 - 09/30 13:15 [financialjuice] Iran executes two men accused of killing security forces during early 2026 protests: SNN
 - 09/30 13:16 [FirstSquawk] Iran executes two men over alleged killings of security forces during early 2026 protests — SNN
+- 09/30 13:33 [FirstSquawk] OIL REMAINS ELEVATED DESPITE PERSIAN GULF EXPORTS RECOVERY-WSJ
+- 09/30 13:35 [FirstSquawk] China’s PMI data signals broader economic improvement across sectors — WSJ

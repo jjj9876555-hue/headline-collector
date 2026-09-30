@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-30 13:19 JST／対象: 09/30 01:19 〜 09/30 13:19 JST（時刻はすべて日本時間）
+生成: 2026-09-30 13:37 JST／対象: 09/30 01:37 〜 09/30 13:37 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 34 | 09/30 01:24 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
-| FirstSquawk | 218 | 09/30 01:20 | 09/30 13:16 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 256 | 09/30 01:20 | 09/30 13:15 | ⚠ 80分（10:57→12:18） |
+| DeItaone | 32 | 09/30 01:40 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
+| FirstSquawk | 216 | 09/30 01:38 | 09/30 13:35 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 247 | 09/30 01:40 | 09/30 13:15 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 499 行（統合前 512 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 486 行（統合前 499 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 01:20 [financialjuice] OpenAI CEO Altman wraps up interview on CNBC
-- 09/30 01:20 [FirstSquawk] OPENAI’S ALTMAN: NOT THREATENED BY META, MUSE IS A NICE PRODUCT
-- 09/30 01:20 [FirstSquawk] OPENAI’S ALTMAN: NO IPO TIMELINE IN MIND
-- 09/30 01:21 [financialjuice] BoE's Taylor: It's not clear to me that OIS rates give a clear signal of BoE market rate expectations. I'm not a fan.
-- 09/30 01:21 [financialjuice] META introduces new features for forum app. $META
-- 09/30 01:21 [FirstSquawk] ALTMAN SAYS OPENAI WILL HAVE 'MANY GREAT NEW MODELS'
-- 09/30 01:21 [financialjuice] ❗ White House has urged EU to draw down diesel emergency inventories in bid to lower global prices - sources
-- 09/30 01:24 [DeItaone] WHITE HOUSE HAS URGED EUROPEAN UNION TO DRAW DOWN DIESEL EMERGENCY INVENTORIES IN BID TO LOWER GLOBAL PRICES- SOURCES
-- 09/30 01:24 [DeItaone] *WHITE HOUSE URGED THE EU TO DRAW DOWN DIESEL INVENTORIES
-- 09/30 01:25 [financialjuice] Anthropic: Rogue AI agents pose uncertain legal risk for the company.
-- 09/30 01:28 [financialjuice] BoE's Taylor: I'm not seeing any clear signal of building second round effects, unlike 2022.
-- 09/30 01:29 [financialjuice] BoE's Taylor: If wage growth expectations stay near 3%, that would be reassuring.
-- 09/30 01:31 [financialjuice] WATCH LIVE: Fed's Barr Speaks 12:40 ET
-- 09/30 01:33 [FirstSquawk] BOE'S TAYLOR: WOULD BE REASSURING IF WAGE GROWTH EXPECTATIONS STAY NEAR 3%
-- 09/30 01:36 [financialjuice] Republican Senator Moreno: Talks ongoing to revise Chinese vehicle ban bill to prevent restrictions on Mercedes-Benz.
 - 09/30 01:38 [FirstSquawk] DISNEY MAKES MORE JOB CUTS
 - 09/30 01:38 [FirstSquawk] US SEN. (R) MORENO: TALKS ONGOING TO REVISE CHINESE VEHICLE BAN BILL TO PREVENT RESTRICTIONS ON MERCEDES-BENZ
 - 09/30 01:40 [DeItaone] $DIS - DISNEY CUTS HUNDREDS MORE JOBS Disney is laying off several hundred employees, primarily across HR and IT, marking its third round of job cuts this year under CEO Josh D’Amaro. The latest reductions follow roughly 1,000 layoffs in Ap…
@@ -523,3 +508,5 @@
 - 09/30 13:05 [FirstSquawk] White House weighs diesel export ban ahead of U.S. midterms — FT
 - 09/30 13:15 [financialjuice] Iran executes two men accused of killing security forces during early 2026 protests: SNN
 - 09/30 13:16 [FirstSquawk] Iran executes two men over alleged killings of security forces during early 2026 protests — SNN
+- 09/30 13:33 [FirstSquawk] OIL REMAINS ELEVATED DESPITE PERSIAN GULF EXPORTS RECOVERY-WSJ
+- 09/30 13:35 [FirstSquawk] China’s PMI data signals broader economic improvement across sectors — WSJ
