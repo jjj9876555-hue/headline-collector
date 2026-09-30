@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-30 23:04 JST／対象: 09/29 23:04 〜 09/30 23:04 JST（時刻はすべて日本時間）
+生成: 2026-09-30 23:31 JST／対象: 09/29 23:31 〜 09/30 23:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 94 | 09/29 23:09 | 09/30 22:55 | ⚠ 789分（05:46→18:55） |
-| FirstSquawk | 397 | 09/29 23:05 | 09/30 23:03 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 429 | 09/29 23:36 | 09/30 23:02 | ⚠ 80分（10:57→12:18） |
+| DeItaone | 92 | 09/29 23:37 | 09/30 23:17 | ⚠ 789分（05:46→18:55） |
+| FirstSquawk | 394 | 09/29 23:35 | 09/30 23:30 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 435 | 09/29 23:36 | 09/30 23:30 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 900 行（統合前 926 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,21 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 23:05 [FirstSquawk] BURNHAM: BREXIT HASN'T GIVEN US CONTROL
-- 09/29 23:05 [FirstSquawk] L3HARRIS RECEIVES THAAD PROPULSION CONTRACT VALUED AT $6 BLN
-- 09/29 23:08 [FirstSquawk] BURNHAM: UK-EU SUMMIT THIS YEAR
-- 09/29 23:08 [FirstSquawk] UK PM BURNHAM: UK-EU SUMMIT LATER THIS YEAR WILL DISCUSS WORKING TOGETHER
-- 09/29 23:09 [DeItaone] $SPCX - TD COWEN STARTS SPACEX AT BUY, SEES AI BOOM TD Cowen initiated SpaceX at Buy with a $200 price target, citing major opportunities across AI computing and space. The firm expects AI compute leasing to become SpaceX’s largest business…
-- 09/29 23:12 [FirstSquawk] BURNHAM SAYS UK TO DECIDE ON LONG-TERM RELATIONSHIP WITH EU
-- 09/29 23:17 [DeItaone] OPENAI'S ANNUAL RECURRING REVENUE NEARS $70B - AXIOS
-- 09/29 23:20 [DeItaone] TRUMP LIVE https://t.co/17DdwfEzmz
-- 09/29 23:24 [DeItaone] OPENAI ANNUAL REVENUE RUN RATE NEARS $70 BILLION OpenAI’s annualized revenue run rate is approaching $70 billion, up more than 70% since the start of Q3, according to Axios. Enterprise revenue has more than doubled since July, as OpenAI gai…
-- 09/29 23:25 [FirstSquawk] OPENAI'S ANNUAL RECURRING REVENUE NEARS $70B, AXIOS REPORTS
-- 09/29 23:25 [FirstSquawk] USER REPORTS SHOW PROBLEMS WITH SPOTIFY - DOWNDETECTOR
-- 09/29 23:25 [FirstSquawk] ORACLE LAUNCHES FUSION CLAW AI EXECUTION RUNTIME
-- 09/29 23:28 [FirstSquawk] TRUMP THANKS MUSK
-- 09/29 23:29 [FirstSquawk] MICROSOFT SHARES TURN POSITIVE, HAD BEEN DOWN 1.3%
-- 09/29 23:30 [DeItaone] USER REPORTS SHOW PROBLEMS WITH CLAUDE - DOWNDETECTOR
 - 09/29 23:35 [FirstSquawk] TRUMP ON AI: SPOKE TO XI, HE LOVES IT
 - 09/29 23:35 [FirstSquawk] TRUMP: WILL SIGN POWERFUL ORDER ON AI
 - 09/29 23:36 [financialjuice] Trump: I will sign a powerful order on AI, I spoke to China’s President Xi, he loves it.
@@ -923,4 +908,19 @@
 - 09/30 22:55 [financialjuice] China's MOFCOM: China and Canada hold meeting on economy and trade
 - 09/30 22:55 [DeItaone] FTC LAUNCHES INDUSTRY-WIDE AI PROBE AFTER HUGGING FACE INCIDENT The U.S. Federal Trade Commission is conducting an industry-wide AI investigation following the Hugging Face incident, according to a source. The FTC reportedly plans to issue …
 - 09/30 23:02 [financialjuice] NATO Sec. Gen. Rutte: US will stay involved in conventional defence of Europe, as well as nuclear.
-- 09/30 23:03 [FirstSquawk] MEXICO GROWS CONFIDENT ON US DEAL TO CUT STEEL, AUTO TARIFFS
+- 09/30 23:03 [FirstSquawk/DeItaone] MEXICO GROWS CONFIDENT ON US DEAL TO CUT STEEL, AUTO TARIFFS
+- 09/30 23:05 [FirstSquawk] APPLE’S $2,000 FOLDABLE IPHONE COULD SELL 6 MILLION UNITS Apple’s rumored first foldable iPhone, expected to cost around $2,000, could reportedly sell as many as 6 million units. The device is expected to bring Apple’s design, software, and…
+- 09/30 23:07 [DeItaone] U.S. INFLATION BREADTH SHOWS SIGNS OF COOLING Despite softer core PCE revisions, 51% of the PCE basket is still rising at 3% or more annually, little changed from recent months. However, the share experiencing inflation above 3% on a six-mo…
+- 09/30 23:15 [FirstSquawk] ELI LILLY: PARTICIPANTS TAKING ELORATZP LOWERED THEIR A1C BY UP TO AVERAGE OF 2.9% VS. 2.4% WITH TIRZEPATIDE 15 MG || AT 48 WEEKS, ALL COMBINATIONS OF ELORATZP MET PRIMARY & SECONDARY ENDPOINTS || PARTICIPANTS TAKING ELORATZP LOST UP TO AVE…
+- 09/30 23:15 [FirstSquawk] ELI LILLY: PLANS TO INITIATE PHASE 3 STUDIES OF ELORATZP CO-FORMULATION PRODUCT BY 2026 END USING OPTIMIZED ESCALATION SCHEDULE
+- 09/30 23:17 [DeItaone] $LLY - ELI LILLY’S NEW OBESITY DRUG DELIVERS 23.3% WEIGHT LOSS Eli Lilly’s experimental drug eloralintide, combined with Zepbound, delivered 23.3% average weight loss over roughly 11 months, compared with 14.8% for Zepbound alone in patient…
+- 09/30 23:17 [financialjuice] Crypto Fear & Greed Index: 71/100 - Greed
+- 09/30 23:18 [financialjuice] Fear & Greed Index: 35/100 - Fear
+- 09/30 23:20 [financialjuice] Hezbollah Brigades: US spy and combat aircraft still present in Iraqi skies - IRNA
+- 09/30 23:27 [FirstSquawk] KALSHI, POLYMARKET TRADING VOLUMES ON SOME PRODUCTS RAISES QUESTIONS AMID MASSIVE GROWTH – CNBC
+- 09/30 23:29 [FirstSquawk] US TREASURY 30-YEAR YIELD RISES TO 5.62%, NEW HIGH SINCE 2002
+- 09/30 23:30 [FirstSquawk] US CRUDE OIL INVENTORIES ACTUAL: 922K VS 2969K PREVIOUS; EST -455K
+- 09/30 23:30 [financialjuice] EIA GASOLINE INVENTORIES ACTUAL -1.684M (FORECAST -1M, PREVIOUS -1.686M) $MACRO
+- 09/30 23:30 [financialjuice] EIA DISTILLATE INVENTORIES ACTUAL -2.251M (FORECAST 0.075M, PREVIOUS -0.428M) $MACRO
+- 09/30 23:30 [financialjuice] EIA CRUDE OIL INVENTORIES ACTUAL 0.922M (FORECAST -0.71M, PREVIOUS 2.969M) $MACRO
+- 09/30 23:30 [FirstSquawk] US CUSHING CRUDE OIL INVENTORIES ACTUAL: 553K VS 2266K PREVIOUS
