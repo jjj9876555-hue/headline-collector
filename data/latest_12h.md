@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-30 23:31 JST／対象: 09/30 11:31 〜 09/30 23:31 JST（時刻はすべて日本時間）
+生成: 2026-09-30 23:52 JST／対象: 09/30 11:52 〜 09/30 23:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 40 | 09/30 18:55 | 09/30 23:17 | 20分（22:25→22:46） |
-| FirstSquawk | 175 | 09/30 11:33 | 09/30 23:30 | 31分（17:30→18:02） |
-| financialjuice | 121 | 09/30 12:18 | 09/30 23:30 | ⚠ 58分（14:00→14:59） |
+| DeItaone | 41 | 09/30 18:55 | 09/30 23:35 | 20分（22:25→22:46） |
+| FirstSquawk | 174 | 09/30 11:55 | 09/30 23:50 | 31分（17:30→18:02） |
+| financialjuice | 128 | 09/30 12:18 | 09/30 23:52 | ⚠ 58分（14:00→14:59） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 328 行（統合前 336 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 334 行（統合前 343 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 11:33 [FirstSquawk] South Korean lawmaker says North Korea and Russia worked together on ballistic missile shipments
-- 09/30 11:41 [FirstSquawk] Seoul stocks give up some gains in late Wednesday morning trading
-- 09/30 11:43 [FirstSquawk] Vietnam’s HDBank plans to raise $500 million through USD-denominated bonds overseas
-- 09/30 11:45 [FirstSquawk] Australia’s benchmark ASX 200 gains 1% to 8,794.50, highest since Sept. 11
-- 09/30 11:51 [FirstSquawk] China’s CSI Health Care Industry Index climbs more than 3%
 - 09/30 11:55 [FirstSquawk] Indonesia central bank will use spot instruments to respond to FX volatility when necessary — official
 - 09/30 11:56 [FirstSquawk] Brooklyn Nets name Alibaba Group official technology and cloud partner
 - 09/30 12:03 [FirstSquawk] Air New Zealand refers to TAIC report on engine fire aboard NZ5366 flight from Christchurch to Wellington
@@ -352,3 +347,14 @@
 - 09/30 23:30 [financialjuice] EIA DISTILLATE INVENTORIES ACTUAL -2.251M (FORECAST 0.075M, PREVIOUS -0.428M) $MACRO
 - 09/30 23:30 [financialjuice] EIA CRUDE OIL INVENTORIES ACTUAL 0.922M (FORECAST -0.71M, PREVIOUS 2.969M) $MACRO
 - 09/30 23:30 [FirstSquawk] US CUSHING CRUDE OIL INVENTORIES ACTUAL: 553K VS 2266K PREVIOUS
+- 09/30 23:31 [financialjuice] EIA Weekly Inventories Report
+- 09/30 23:33 [financialjuice] FTC opens probe of Anthropic, OpenAI and others - CNBC cites FTC Spokesperson
+- 09/30 23:35 [DeItaone/FirstSquawk] U.S. DIESEL FUTURES EXTEND GAINS, UP 4.5%, AFTER EIA STORAGE REPORT
+- 09/30 23:39 [FirstSquawk] US GASOLINE FUTURES HOLD GAINS, STILL UP 2.9%, AFTER EIA STORAGE REPORT
+- 09/30 23:43 [FirstSquawk] VOLKSWAGEN: IG METALL 5% PAY RISE DEMAND ’INCOMPATIBLE’
+- 09/30 23:44 [financialjuice] Russian Foreign Ministry Spokeswoman: Weapons factories in Europe that produce arms for Ukraine are legitimate military targets for Russia
+- 09/30 23:45 [financialjuice] Unconfirmed reports of an explosion heard in eastern Saudi Arabia - Tasnim News
+- 09/30 23:46 [financialjuice] Saudi Arabia turned down Israeli request to allow its planes to pick up Israeli passengers from FlyDubai flight that made emergency landing in Saudi - Security sources
+- 09/30 23:50 [financialjuice] Russian Foreign Ministry Spokeswoman: Claims that Russia does not want peace are unfounded.
+- 09/30 23:50 [FirstSquawk] RUSSIAN FOREIGN MINISTRY SPOX CALLS CLAIMS RUSSIA DOESN’T WANT PEACE ‘UNFOUNDED’
+- 09/30 23:52 [financialjuice] EIA: US domestic crude oil production rose in latest week to record highs
