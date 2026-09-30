@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-30 20:33 JST／対象: 09/30 14:33 〜 09/30 20:33 JST（時刻はすべて日本時間）
+生成: 2026-09-30 20:54 JST／対象: 09/30 14:54 〜 09/30 20:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 17 | 09/30 18:55 | 09/30 20:30 | 16分（20:13→20:30） |
-| FirstSquawk | 93 | 09/30 14:38 | 09/30 20:30 | 31分（17:30→18:02） |
-| financialjuice | 59 | 09/30 14:59 | 09/30 20:32 | ⚠ 54分（16:01→16:55） |
+| DeItaone | 19 | 09/30 18:55 | 09/30 20:51 | 18分（20:30→20:48） |
+| FirstSquawk | 93 | 09/30 14:58 | 09/30 20:50 | 31分（17:30→18:02） |
+| financialjuice | 60 | 09/30 14:59 | 09/30 20:52 | ⚠ 54分（16:01→16:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 167 行（統合前 169 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 170 行（統合前 172 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 14:38 [FirstSquawk] Gold slips as Fed hike bets and Middle East tensions underpin the U.S. dollar — FX
-- 09/30 14:39 [FirstSquawk] Kazakhstan restarts enforcement proceedings to recover 2.3 trillion tenge fine from NCOC — IFX
-- 09/30 14:48 [FirstSquawk] HSBC calls its stablecoin RedCoin as it targets 3.3 million PayMe users
 - 09/30 14:58 [FirstSquawk] Seoul and Washington discuss human rights, democracy and governance matters - YONHAP
 - 09/30 14:59 [FirstSquawk] Iran’s Araghchi to discuss U.S. feedback on seven-day proposal in Tehran on Wednesday — Reuters
 - 09/30 14:59 [financialjuice] Iran’s Aragchi and team met Qatari mediators in doha on tuesday night; Araqchi received US feedback to seven-day proposal which he will discuss in Tehran on Wednesday - Official Briefed on Talks.
@@ -191,3 +188,9 @@
 - 09/30 20:30 [DeItaone] *BURNHAM: COULD GO ALL THE WAY AND REJOIN EU
 - 09/30 20:32 [financialjuice] Poll: Brent crude oil projected to average $89.05 a barrel in 2026 versus $85.08 forecast in August
 - 09/30 20:32 [financialjuice] Poll: US crude oil set to average $83.90 per barrel in 2026 versus $80.20 forecast in August
+- 09/30 20:35 [FirstSquawk] IG METALL: VW PLANS TO TERMINATE LABOUR PACTS
+- 09/30 20:38 [FirstSquawk] CONAGRA Q1 2027 EARNINGS - ADJ. EPS 41C (EST 29C) - ADJ. OPER MARGIN 11.5% (EST 9.2%) - SALES $2.6B (EST $2.59B) - STILL SEES FY ADJ OPER MARGIN 10% TO 10.5% (EST 10.2%) - SEES FY ORGANIC NET SALES -1% TO -3% (EST -1.93%)
+- 09/30 20:48 [DeItaone] *EXPLOSION HEARD IN IRAN'S ZAHEDAN: FARS
+- 09/30 20:50 [FirstSquawk] EXPLOSION SOUND HEARD NEAR JAMOOHI BLVD IN ZAHEDAN; CAUSE UNKNOWN - FARS
+- 09/30 20:51 [DeItaone] IRAN: EXPLOSION REPORTED IN ZAHEDAN Iran’s Fars News Agency reports that an explosion was heard near Jomhuri Boulevard in Zahedan. The source of the blast remains unknown, with authorities yet to provide further details. More information is…
+- 09/30 20:52 [financialjuice] Explosion heard in IRAN'S southeastern city of Zahedan, source of detonation unknown - Fars News.

@@ -7,39 +7,24 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-30 20:33 JST／対象: 09/29 20:33 〜 09/30 20:33 JST（時刻はすべて日本時間）
+生成: 2026-09-30 20:54 JST／対象: 09/29 20:54 〜 09/30 20:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 101 | 09/29 20:35 | 09/30 20:30 | ⚠ 789分（05:46→18:55） |
-| FirstSquawk | 403 | 09/29 20:40 | 09/30 20:30 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 420 | 09/29 20:43 | 09/30 20:32 | ⚠ 80分（10:57→12:18） |
+| DeItaone | 96 | 09/29 21:00 | 09/30 20:51 | ⚠ 789分（05:46→18:55） |
+| FirstSquawk | 404 | 09/29 20:55 | 09/30 20:50 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 413 | 09/29 20:57 | 09/30 20:52 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 899 行（統合前 930 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 890 行（統合前 919 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 20:35 [DeItaone] 🇺🇸 PRESIDENT TRUMP — TUESDAY, SEPTEMBER 29, 2026 🔸 8:00 AM — Executive Time 🔸 9:00 AM — In-Town Pool Call Time 🔸 10:00 AM — Announcement on https://t.co/wreay0MAAb — Andrew W. Mellon Auditorium 🔸 12:30 PM — Meeting & Luncheon on Super Intel…
-- 09/29 20:39 [DeItaone] https://t.co/3Cw9HhjwNx
-- 09/29 20:40 [FirstSquawk] US OFFICIALPUTIN'S ENVOY DMITRIEV HAD 'CONSTRUCTIVE' MEETING ON MONDAY WITH US OFFICIALS ON PEACEFULLY RESOLVING WAR IN UKRAINE
-- 09/29 20:43 [financialjuice] Iran: It discussed expanding energy trade with Azerbaijan.
-- 09/29 20:44 [FirstSquawk] GERMAN DEFENCE MINISTER PISTORIUS: GERMANY PLANNING TO BUY 16 A400M TRANSPORTERS FROM AIRBUS, ORDER VOLUME WILL BE IN THE BILLIONS
-- 09/29 20:45 [DeItaone] U.S. CRUDE PRICES FALL AS HORMUZ EXPORTS RISE Regional U.S. crude prices weakened as rising exports through the Strait of Hormuz eased concerns over global supply tightness. WTI remained rangebound in the mid-$90s/bbl. Houston averaged $98.…
-- 09/29 20:46 [DeItaone] FED SPEAKERS IN FOCUS AS BOND YIELDS SURGE Markets are closely watching Fed officials for any shift in tone following the sharp rise in Treasury yields. Deutsche Bank says policymakers remain broadly hawkish and expects two additional 25bp …
-- 09/29 20:47 [financialjuice] ECB’s Escriva: We are still not in a restrictive territory.
-- 09/29 20:49 [financialjuice] ECB's Escriva: What I would start to worry about is the global upward trajectory of long-term rates.
-- 09/29 20:49 [DeItaone] MEDVEDEV WARNS WORLD CLOSER TO GLOBAL CONFLICT Russian Security Council Deputy Chairman Dmitry Medvedev claimed Tuesday that the world is closer to a global conflict than at any point since 1945.
-- 09/29 20:49 [financialjuice] ECB’s Escriva: This can add pressure to interest rates.
-- 09/29 20:50 [financialjuice/DeItaone] ❗ Trump backs Russia sanction relief on prisoner release - Atlantic.
-- 09/29 20:51 [financialjuice] Trump expressed support for the plan a few months ago - Atlantic.
-- 09/29 20:51 [financialjuice] Russia initiative is still in its early stages - Atlantic.
-- 09/29 20:53 [DeItaone/FirstSquawk] IEA'S BIROL: EUROPE IS GOING TO ENTER A VERY DIFFICULT WINTER
-- 09/29 20:54 [financialjuice] ECB's Escriva: High energy prices might anchor in inflation.
+- 09/29 20:55 [FirstSquawk] IEA'S BIROL: EUROPE IS GOING TO ENTER A VERY DIFFICULT WINTER
 - 09/29 20:55 [FirstSquawk] IEA'S BIROL: HOPE EUROPE AND ITS ALLIES WORK TOGETHER TO MINIMISE RISKS FACING EUROPE IN TERMS OF ENERGY SITUATION
 - 09/29 20:57 [financialjuice] ECB's Escriva: Not seeing second-round effects.
 - 09/29 21:00 [financialjuice] Secured Overnight Financing Rate 3.90% September 28th vs 3.90% September 25th.
@@ -923,3 +908,9 @@
 - 09/30 20:30 [DeItaone] *BURNHAM: COULD GO ALL THE WAY AND REJOIN EU
 - 09/30 20:32 [financialjuice] Poll: Brent crude oil projected to average $89.05 a barrel in 2026 versus $85.08 forecast in August
 - 09/30 20:32 [financialjuice] Poll: US crude oil set to average $83.90 per barrel in 2026 versus $80.20 forecast in August
+- 09/30 20:35 [FirstSquawk] IG METALL: VW PLANS TO TERMINATE LABOUR PACTS
+- 09/30 20:38 [FirstSquawk] CONAGRA Q1 2027 EARNINGS - ADJ. EPS 41C (EST 29C) - ADJ. OPER MARGIN 11.5% (EST 9.2%) - SALES $2.6B (EST $2.59B) - STILL SEES FY ADJ OPER MARGIN 10% TO 10.5% (EST 10.2%) - SEES FY ORGANIC NET SALES -1% TO -3% (EST -1.93%)
+- 09/30 20:48 [DeItaone] *EXPLOSION HEARD IN IRAN'S ZAHEDAN: FARS
+- 09/30 20:50 [FirstSquawk] EXPLOSION SOUND HEARD NEAR JAMOOHI BLVD IN ZAHEDAN; CAUSE UNKNOWN - FARS
+- 09/30 20:51 [DeItaone] IRAN: EXPLOSION REPORTED IN ZAHEDAN Iran’s Fars News Agency reports that an explosion was heard near Jomhuri Boulevard in Zahedan. The source of the blast remains unknown, with authorities yet to provide further details. More information is…
+- 09/30 20:52 [financialjuice] Explosion heard in IRAN'S southeastern city of Zahedan, source of detonation unknown - Fars News.
