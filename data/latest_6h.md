@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 01:30 JST／対象: 09/30 19:30 〜 10/01 01:30 JST（時刻はすべて日本時間）
+生成: 2026-10-01 01:48 JST／対象: 09/30 19:48 〜 10/01 01:48 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 38 | 09/30 19:31 | 10/01 00:53 | ⚠ 72分（23:35→00:48） |
-| FirstSquawk | 73 | 09/30 19:30 | 10/01 01:28 | 16分（01:09→01:25） |
-| financialjuice | 88 | 09/30 19:30 | 10/01 01:01 | 31分（20:00→20:32） |
+| DeItaone | 35 | 09/30 19:53 | 10/01 00:53 | ⚠ 72分（23:35→00:48） |
+| FirstSquawk | 72 | 09/30 19:54 | 10/01 01:45 | 16分（01:09→01:25） |
+| financialjuice | 90 | 09/30 20:00 | 10/01 01:45 | 35分（01:01→01:37） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 192 行（統合前 199 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 191 行（統合前 198 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 19:30 [financialjuice] Apple set to debut Home Hub and updated Apple TV, Homepod Mini.
-- 09/30 19:30 [FirstSquawk] APPLE PLANS SIGNIFICANT EXPANSION INTO SMART-HOME SECTOR ON OCTOBER 13.
-- 09/30 19:31 [DeItaone] $AAPL - APPLE TO MAKE MAJOR PUSH INTO SMART-HOME MARKET ON OCTOBER 13TH
-- 09/30 19:34 [DeItaone] IRAN RAISES ALERT LEVEL AT 46 INFRASTRUCTURE FACILITIES Iranian Civil Defense is raising readiness at 46 facilities in anticipation of potential attacks targeting critical infrastructure, according to Al Arabiya. The heightened alert signal…
-- 09/30 19:38 [DeItaone/FirstSquawk] A SECOND FLYDUBAI FLIGHT FROM DUBAI TO TEL AVIV, FZ1081, HAS DIVERTED, NOW HEADING BACK TO DUBAI - FLIGHTRADAR24
-- 09/30 19:43 [FirstSquawk] OPENAI: IMPACTED SERVICES FOR CHATGPT PRO, PLUS USERS RECOVERED
 - 09/30 19:53 [DeItaone] BITCOIN PRICE COULD REACH $1 MILLION PER COIN BY 2030, MAELSTROM CIO SAYS MAELSTROM CIO HAYES EXPECTS EXPLOSIVE BITCOIN RALLY IN LATE 2027, EARLY 2028 HAYES SEES AI-INVESTMENT BUST TRIGGERING TRILLIONS OF DOLLARS IN BAILOUTS
 - 09/30 19:54 [FirstSquawk] PAKISTAN MIGHT LET POWER PLANTS AND PRIVATE FIRMS IMPORT LNG DIRECTLY TO BOOST ENERGY SUPPLIES WITHOUT AFFECTING GOVERNMENT FUNDS.
 - 09/30 19:54 [DeItaone] ARTHUR HAYES SEES BITCOIN AT $1 MILLION BY 2030 Maelstrom CIO Arthur Hayes predicts Bitcoin could reach $1 million by 2030, with its strongest rally in late 2027 or early 2028. His thesis: an AI infrastructure bubble bursts as data-center r…
@@ -216,3 +210,8 @@
 - 10/01 01:09 [FirstSquawk] UK PM BURNHAM: EU OPTIONS RANGE FROM UK STAYING AS IT IS, TO REJOINING - BBC INTERVIEW
 - 10/01 01:25 [FirstSquawk] ITALY PM MELONI: PLANS TO SPEND EUR14 BLN STEMMING FROM EU ESCAPE CLAUSE TO LOWER FIRMS’ ENERGY COSTS
 - 10/01 01:28 [FirstSquawk] FORD SHARES FALL 2.6% TO REACH LOWEST SINCE MAY 13
+- 10/01 01:32 [FirstSquawk] US 10-YEAR TREASURY YIELD RISES TO 5.29%, RENEWS HIGH SINCE '2007
+- 10/01 01:37 [financialjuice] Call is scheduled to take place between Trump and Netanyahu in the coming hours regarding the FlyDubai incident - Israeli Channel 14
+- 10/01 01:43 [financialjuice] US oil industry warns diesel prices will not return to normal for a year - FT
+- 10/01 01:45 [FirstSquawk] GOLDMAN SACHS REVISES FOR FED HIKE TO DECEMBER FROM OCTOBER
+- 10/01 01:45 [financialjuice] Goldman Sachs shifts fed forecast to December hike from October
