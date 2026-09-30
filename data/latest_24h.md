@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-01 07:53 JST／対象: 09/30 07:53 〜 10/01 07:53 JST（時刻はすべて日本時間）
+生成: 2026-10-01 08:16 JST／対象: 09/30 08:16 〜 10/01 08:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 75 | 09/30 18:55 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
-| FirstSquawk | 371 | 09/30 08:05 | 10/01 07:50 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 320 | 09/30 07:59 | 10/01 07:29 | ⚠ 80分（10:57→12:18） |
+| FirstSquawk | 367 | 09/30 08:35 | 10/01 07:50 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 318 | 09/30 08:45 | 10/01 08:11 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 747 行（統合前 768 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 741 行（統合前 762 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 07:59 [financialjuice] EU trade chief Sefcovic: pushing for reforms to tackle excess industrial capacity in G20, WTO frameworks
-- 09/30 08:00 [financialjuice] South Korea August industrial output falls 2.2% year on year, poll predicted 4% increase: stats office
-- 09/30 08:00 [financialjuice] S. Korea Aug service sector output rises 0.5% m/m: stats office
-- 09/30 08:00 [financialjuice] S.Korea Aug Industrial output falls 4.8% month-on-month, stats office
-- 09/30 08:00 [financialjuice] S. Korea August retail sales fall 1.8% month on month: stats office
-- 09/30 08:01 [financialjuice] uk vehicle output increased 5.7% yoy to 40,872 units in august: smmt
-- 09/30 08:02 [financialjuice] Sefcovic: working for greater cooperation with US, other allies to secure supply chains, prevent weaponization of critical minerals
-- 09/30 08:05 [FirstSquawk] EU TRADE CHIEF SEFCOVIC SAYS HE IS WORKING FOR GREATER COOPERATION WITH THE U.S. AND OTHER ALLIES TO SECURE SUPPLY CHAINS AND PREVENT THE WEAPONIZATION OF CRITICAL MINERALS, ADDING THAT HE IS PUSHING FOR REFORMS TO TACKLE EXCESS INDUSTRIAL …
-- 09/30 08:07 [financialjuice] China commerce ministry: if Europe continues imposing biased limits on Chinese firms or products, China will firmly react to protect its industry interests
-- 09/30 08:08 [FirstSquawk] US HOUSE SPEAKER MIKE JOHNSON WARNS DEMOCRATIC HOUSE CONTROL WOULD BRING INTENSIFIED CONGRESSIONAL INVESTIGATIONS OF TRUMP, HIS ADMINISTRATION & BUSINESS FIGURES
-- 09/30 08:09 [FirstSquawk] JD VANCE ON AI: “SKYNET” SCENARIO WON’T HAPPEN; SAYS AI WILL NOT TAKE OVER NUCLEAR WEAPONS OR HAVE ROBOTS KILLING PEOPLE
-- 09/30 08:09 [financialjuice] China commerce ministry: eu states considering tougher trade actions on China use typical protectionist, unilateral measures that will disrupt stability
-- 09/30 08:09 [FirstSquawk] JD VANCE ON FRONTIER AI: “IF YOU’RE BUILDING A TERRIBLE, TERRIBLE THING, THEN STOP AND BUILD SOMETHING GOOD”
 - 09/30 08:35 [FirstSquawk] JAPAN, US AND EUROPE TO AGREE STEEL MONITORING FRAMEWORK - YOMIURI
 - 09/30 08:35 [FirstSquawk] QATARI-MEDIATED TALKS BETWEEN THE U.S. AND IRAN MADE LITTLE PROGRESS, WITH BOTH SIDES REFUSING TO COMPROMISE AND FEARS OF RENEWED FIGHTING RISING, AS QATAR PROPOSED A DEAL LINKING IRAN'S DEMAND TO LIFT THE U.S. NAVAL BLOCKADE WITH U.S. DEMA…
 - 09/30 08:35 [FirstSquawk] U.S. OFFICIALS INITIALLY DESCRIBED THE TALKS AS POSITIVE AND SAID TRUMP WAS OPEN TO SANCTIONS RELIEF AND RELEASING FROZEN FUNDS FOR NUCLEAR CONCESSIONS, BUT HOURS LATER TRUMP SAID HE HAD OFFERED IRAN NOTHING, WITH A SOURCE TELLING AXIOS THE…
@@ -771,3 +758,10 @@
 - 10/01 07:49 [FirstSquawk] FED'S KASHKARI SAYS THE ECONOMY REMAINS ROBUST DESPITE SHOCKS, WITH CONSUMERS CONTINUING TO SPEND AND JOB SEEKERS FINDING EMPLOYMENT, AND EXPECTS ONE MORE RATE INCREASE THIS YEAR AND ANOTHER IN 2027, ADDING THAT 'THE LONGER THE ECONOMY REMA…
 - 10/01 07:49 [FirstSquawk] FED'S KASHKARI SAYS THE CENTRAL BANK MUST RETURN INFLATION TO 2% GIVEN THE EXTENDED PERIOD ABOVE TARGET AND HOPES IT CAN DO SO WITH RESTRAINED MEASURES, WHILE WARNING THAT ROLLING SUPPLY SHOCKS MAY BOOST INFLATION EXPECTATIONS AND DOUBTING …
 - 10/01 07:50 [FirstSquawk] CPP INVESTMENTS TO SELL AUSTRALIAN TOLL ROAD STAKES TO TRANSURBAN FOR A$4.5B; DEAL COVERS WESTCONNEX & NORTHWESTERN ROADS GROUP INTERESTS
+- 10/01 08:05 [financialjuice] Fed's Kashkari: keen to see outcomes from central bank task forces
+- 10/01 08:05 [financialjuice] Doubts an investment poses systemic risk
+- 10/01 08:05 [financialjuice] Fed says swap lines are part of monetary policy execution
+- 10/01 08:05 [financialjuice] Rise in bond yields is a global trend
+- 10/01 08:05 [financialjuice] AUSTRALIAN MANUFACTURING PMI FINAL ACTUAL 49.6 (FORECAST -, PREVIOUS 49.3) $MACRO
+- 10/01 08:11 [financialjuice] Eager to see outcomes from Fed task forces
+- 10/01 08:11 [financialjuice] Skyworks extends expiration date of exchange offers for Gorvo’s senior notes due 2029 and 2031

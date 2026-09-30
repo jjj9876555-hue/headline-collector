@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-01 07:53 JST／対象: 09/30 19:53 〜 10/01 07:53 JST（時刻はすべて日本時間）
+生成: 2026-10-01 08:16 JST／対象: 09/30 20:16 〜 10/01 08:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 65 | 09/30 19:54 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
-| FirstSquawk | 153 | 09/30 19:54 | 10/01 07:50 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 195 | 09/30 20:00 | 10/01 07:29 | 35分（01:01→01:37） |
+| DeItaone | 59 | 09/30 20:30 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
+| FirstSquawk | 146 | 09/30 20:30 | 10/01 07:50 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 200 | 09/30 20:32 | 10/01 08:11 | 36分（07:29→08:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 397 行（統合前 415 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 389 行（統合前 407 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 19:54 [FirstSquawk] PAKISTAN MIGHT LET POWER PLANTS AND PRIVATE FIRMS IMPORT LNG DIRECTLY TO BOOST ENERGY SUPPLIES WITHOUT AFFECTING GOVERNMENT FUNDS.
-- 09/30 19:54 [DeItaone] ARTHUR HAYES SEES BITCOIN AT $1 MILLION BY 2030 Maelstrom CIO Arthur Hayes predicts Bitcoin could reach $1 million by 2030, with its strongest rally in late 2027 or early 2028. His thesis: an AI infrastructure bubble bursts as data-center r…
-- 09/30 19:57 [DeItaone] UBS: HIGHER INTEREST RATES COULD BENEFIT HEDGE FUNDS UBS says the current environment of elevated interest rates could support hedge fund performance, citing historical resilience during monetary tightening. Hedge funds have generated posit…
-- 09/30 19:57 [FirstSquawk] AMAZON: ROSENBLATT SECURITIES RAISES TARGET PRICE TO $360 FROM $335
-- 09/30 19:59 [FirstSquawk] JAPAN STOPS FOREX INTERVENTION AS YEN GETS STRONGER.
-- 09/30 19:59 [FirstSquawk] OMAN SULTAN MEETS UAE NATIONAL SECURITY ADVISOR
-- 09/30 20:00 [financialjuice] US MBA MORTGAGE APPLICATIONS ACTUAL -6% (FORECAST -, PREVIOUS -1.5%) $MACRO
-- 09/30 20:00 [FirstSquawk] US 30-YEAR FIXED MORTGAGE RATE RISES TO 7.3%, THE HIGHEST LEVEL SINCE NOVEMBER 2023.
-- 09/30 20:00 [financialjuice] US MBA 30-YR MORTGAGE RATE ACTUAL 7.30% (FORECAST -, PREVIOUS 7.12%) $MACRO
-- 09/30 20:01 [FirstSquawk] US MBA MORTGAGE APPLICATIONS SEP-25: -6.0% (PREV -1.5%)
-- 09/30 20:01 [DeItaone] *US 30-YR FIXED MORTGAGE SURGES TO 7.3%, HIGHEST SINCE NOV. 2023
-- 09/30 20:01 [DeItaone] U.S. MORTGAGE RATES SURGE TO 7.30% The average 30-year fixed mortgage contract rate climbed to 7.30%, up 18 basis points in one week and 84 basis points year-over-year, according to the MBA. The 15-year fixed rate rose to 6.56%, while the 5…
-- 09/30 20:12 [DeItaone] GOLDMAN: GULF OIL EXPORTS FULLY RECOVER TO 2025 LEVELS Persian Gulf oil exports have doubled in September, reaching 23.3 million barrels per day, according to Goldman Sachs. Crude shipments have recovered to 108% of their 2025 average, but …
-- 09/30 20:13 [DeItaone] GOLDMAN: U.S. PENSION FUNDS SET TO SELL $33 BILLION IN STOCKS Goldman Sachs estimates $33 billion in U.S. pension fund equity selling around September month-end, a flow ranking in the 98th percentile since 2000. Meanwhile, systematic CTAs c…
-- 09/30 20:14 [FirstSquawk] AI BOOM DRIVES ROBOT MAKERS FANUC, YASKAWA TO STEP UP SHIFT FROM CHINA TO US || JAPANESE COMPANIES WEIGH LOCAL PRODUCTION, BUT SUPPLY CHAIN CONCERNS REMAIN
 - 09/30 20:30 [FirstSquawk] PORSCHE SE SAYS GERMAN COURT HAS DISMISSED $6.1 BILLION LAWSUIT BROUGHT BY INVESTORS
 - 09/30 20:30 [DeItaone] *BURNHAM: COULD GO ALL THE WAY AND REJOIN EU
 - 09/30 20:32 [financialjuice] Poll: Brent crude oil projected to average $89.05 a barrel in 2026 versus $85.08 forecast in August
@@ -421,3 +406,10 @@
 - 10/01 07:49 [FirstSquawk] FED'S KASHKARI SAYS THE ECONOMY REMAINS ROBUST DESPITE SHOCKS, WITH CONSUMERS CONTINUING TO SPEND AND JOB SEEKERS FINDING EMPLOYMENT, AND EXPECTS ONE MORE RATE INCREASE THIS YEAR AND ANOTHER IN 2027, ADDING THAT 'THE LONGER THE ECONOMY REMA…
 - 10/01 07:49 [FirstSquawk] FED'S KASHKARI SAYS THE CENTRAL BANK MUST RETURN INFLATION TO 2% GIVEN THE EXTENDED PERIOD ABOVE TARGET AND HOPES IT CAN DO SO WITH RESTRAINED MEASURES, WHILE WARNING THAT ROLLING SUPPLY SHOCKS MAY BOOST INFLATION EXPECTATIONS AND DOUBTING …
 - 10/01 07:50 [FirstSquawk] CPP INVESTMENTS TO SELL AUSTRALIAN TOLL ROAD STAKES TO TRANSURBAN FOR A$4.5B; DEAL COVERS WESTCONNEX & NORTHWESTERN ROADS GROUP INTERESTS
+- 10/01 08:05 [financialjuice] Fed's Kashkari: keen to see outcomes from central bank task forces
+- 10/01 08:05 [financialjuice] Doubts an investment poses systemic risk
+- 10/01 08:05 [financialjuice] Fed says swap lines are part of monetary policy execution
+- 10/01 08:05 [financialjuice] Rise in bond yields is a global trend
+- 10/01 08:05 [financialjuice] AUSTRALIAN MANUFACTURING PMI FINAL ACTUAL 49.6 (FORECAST -, PREVIOUS 49.3) $MACRO
+- 10/01 08:11 [financialjuice] Eager to see outcomes from Fed task forces
+- 10/01 08:11 [financialjuice] Skyworks extends expiration date of exchange offers for Gorvo’s senior notes due 2029 and 2031
