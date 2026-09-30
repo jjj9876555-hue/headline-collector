@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-30 18:56 JST／対象: 09/29 18:56 〜 09/30 18:56 JST（時刻はすべて日本時間）
+生成: 2026-09-30 19:19 JST／対象: 09/29 19:19 〜 09/30 19:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 89 | 09/29 20:26 | 09/30 18:55 | ⚠ 789分（05:46→18:55） |
-| FirstSquawk | 407 | 09/29 18:57 | 09/30 18:52 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 419 | 09/29 19:20 | 09/30 18:33 | ⚠ 80分（10:57→12:18） |
+| DeItaone | 94 | 09/29 20:26 | 09/30 19:18 | ⚠ 789分（05:46→18:55） |
+| FirstSquawk | 403 | 09/29 19:26 | 09/30 19:06 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 420 | 09/29 19:20 | 09/30 18:58 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 889 行（統合前 921 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 891 行（統合前 923 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 18:57 [FirstSquawk] PBOC INCREASES RELENDING QUOTA BY 500 BILLION YUAN FOR AGRICULTURE AND SMALL BUSINESSES.
-- 09/29 18:57 [FirstSquawk] PBOC TO INCREASE RELENDING BY 200 BILLION YUAN FOR TECHNOLOGY TRANSFORMATION.
-- 09/29 19:05 [FirstSquawk] NOVO’S OZEMPIC ® (SEMAGLUTIDE) 2 MG IS LINKED TO A LOWER RISK OF SERIOUS HEART-RELATED ISSUES (DEATH, HEART ATTACK, AND STROKE) IN ADULTS WITH TYPE 2 DIABETES THAN SWITCHING TO MOUNJARO ® (TIRZEPATIDE), AS PER A REAL-WORLD STUDY PRESENTED A…
-- 09/29 19:06 [FirstSquawk] NOVO NORDISK'S SEMAGLUTIDE 2 MG DOSE IS ASSOCIATED WITH A 6% LOWER RISK OF SERIOUS CARDIOVASCULAR EVENTS.
-- 09/29 19:07 [FirstSquawk] CHINA WILL HELP COVER INTEREST PAYMENTS FOR FIRST-TIME HOME MORTGAGES.
-- 09/29 19:18 [FirstSquawk] IRANIAN ARMY SPOKESPERSON ANNOUNCED A 10 BILLION TOMAN REWARD FOR ANY IRANIAN WHO CAPTURES AN AMERICAN SOLDIER, DEAD OR ALIVE.
-- 09/29 19:19 [FirstSquawk] HOUSE DEMOCRATS DEMAND TECH CEOS GIVE INFO ON ROGUE AI:POLITICO
 - 09/29 19:20 [financialjuice] Three House Democrats penned letter to tech CEOs (Altman, Amodei, Musk) - Politico
 - 09/29 19:26 [FirstSquawk] PEPSICO CUT TO NEUTRAL AT JPMORGAN; PT $138
 - 09/29 19:28 [FirstSquawk] VOLKSWAGEN TO SHOW HIT FROM UK MOTOR FINANCE SCHEME: SKY
@@ -913,3 +906,12 @@
 - 09/30 18:52 [FirstSquawk] KREMLIN REJECTS CLAIMS OF TALKING ABOUT LIFTING SANCTIONS ON RUSSIA IN RETURN FOR PRISONERS.
 - 09/30 18:52 [FirstSquawk] KREMLIN CONFIRMS COMMUNICATIONS WITH THE UNITED STATES REGARDING A POSSIBLE PRISONER EXCHANGE.
 - 09/30 18:55 [DeItaone] https://t.co/uo7LOnJ1Lp
+- 09/30 18:57 [DeItaone] 🇺🇸 PRESIDENT TRUMP — WEDNESDAY, SEPTEMBER 30, 2026 🔸 8:00 AM — Executive Time — White House 🔸 9:00 AM — In-Town Pool Call Time 🔸 11:00 AM — Policy Meeting — Oval Office 🔸 1:00 PM — Hispanic Heritage Month Celebration — East Room 🔸 3:30 PM —…
+- 09/30 18:58 [financialjuice] Japan's Econ. Min. Kiuchi: No gap in understanding with BoJ on economy, prices.
+- 09/30 19:00 [DeItaone] FRENCH BOND RISK HITS HIGHEST LEVEL SINCE 2012 France’s 10-year yield spread over Germany has surpassed 120 basis points for the first time in 14 years, as political uncertainty and accelerating inflation pressure French debt. The move come…
+- 09/30 19:01 [FirstSquawk] KREMLIN: PUTIN WILL DELIVER A SPEECH IN NEWLY ELECTED PARLIAMENT LATER ON WEDNESDAY
+- 09/30 19:02 [FirstSquawk] JAPAN CURRENCY INTERVENTION AMOUNTED TO 0 YEN FROM AUG 27 TO SEPT 28 - MOF
+- 09/30 19:04 [DeItaone] BANK OF ENGLAND WARNS OF SHARPER AI MARKET CORRECTION The Bank of England warns AI valuations remain vulnerable to a deeper selloff than July’s, potentially spilling into global growth expectations and sovereign bond markets. The BOE says s…
+- 09/30 19:06 [FirstSquawk] VOLKSWAGEN PREPARES TO TERMINATE MULTIPLE COLLECTIVE DEALS - HANDELSBLATT
+- 09/30 19:10 [DeItaone] PORSCHE PIVOTS BACK TO PETROL AS EV DEMAND WEAKENS Porsche is reviving its petrol strategy, with a combustion-engine Macan planned for 2028 after electric Macan sales fell 40% in H1. CEO Michael Leiters says EVs remain part of Porsche’s fut…
+- 09/30 19:18 [DeItaone] *LIBYA SHARARA OIL FIELD OUTPUT RISES TO NEAR 340,000 B/D

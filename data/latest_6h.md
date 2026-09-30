@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-30 18:56 JST／対象: 09/30 12:56 〜 09/30 18:56 JST（時刻はすべて日本時間）
+生成: 2026-09-30 19:19 JST／対象: 09/30 13:19 〜 09/30 19:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 1 | 09/30 18:55 | 09/30 18:55 | - |
-| FirstSquawk | 96 | 09/30 12:59 | 09/30 18:52 | 31分（17:30→18:02） |
-| financialjuice | 56 | 09/30 13:02 | 09/30 18:33 | ⚠ 58分（14:00→14:59） |
+| DeItaone | 6 | 09/30 18:55 | 09/30 19:18 | 8分（19:10→19:18） |
+| FirstSquawk | 95 | 09/30 13:33 | 09/30 19:06 | 31分（17:30→18:02） |
+| financialjuice | 55 | 09/30 14:00 | 09/30 18:58 | ⚠ 58分（14:00→14:59） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 153 行（統合前 153 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 156 行（統合前 156 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 12:59 [FirstSquawk] South Korea urges North Korea to apologize over DMZ mine blast and stop border fortification work
-- 09/30 13:02 [FirstSquawk] AI industry seeks to ease data centre backlash ahead of U.S. midterm elections — FT
-- 09/30 13:02 [financialjuice] White House holds critical talks on diesel export ban as midterms approach - FT
-- 09/30 13:05 [FirstSquawk] White House weighs diesel export ban ahead of U.S. midterms — FT
-- 09/30 13:15 [financialjuice] Iran executes two men accused of killing security forces during early 2026 protests: SNN
-- 09/30 13:16 [FirstSquawk] Iran executes two men over alleged killings of security forces during early 2026 protests — SNN
 - 09/30 13:33 [FirstSquawk] OIL REMAINS ELEVATED DESPITE PERSIAN GULF EXPORTS RECOVERY-WSJ
 - 09/30 13:35 [FirstSquawk] China’s PMI data signals broader economic improvement across sectors — WSJ
 - 09/30 13:50 [FirstSquawk] Berenberg lifts BHP Group target price to 3,500p from 3,400p
@@ -177,3 +171,12 @@
 - 09/30 18:52 [FirstSquawk] KREMLIN REJECTS CLAIMS OF TALKING ABOUT LIFTING SANCTIONS ON RUSSIA IN RETURN FOR PRISONERS.
 - 09/30 18:52 [FirstSquawk] KREMLIN CONFIRMS COMMUNICATIONS WITH THE UNITED STATES REGARDING A POSSIBLE PRISONER EXCHANGE.
 - 09/30 18:55 [DeItaone] https://t.co/uo7LOnJ1Lp
+- 09/30 18:57 [DeItaone] 🇺🇸 PRESIDENT TRUMP — WEDNESDAY, SEPTEMBER 30, 2026 🔸 8:00 AM — Executive Time — White House 🔸 9:00 AM — In-Town Pool Call Time 🔸 11:00 AM — Policy Meeting — Oval Office 🔸 1:00 PM — Hispanic Heritage Month Celebration — East Room 🔸 3:30 PM —…
+- 09/30 18:58 [financialjuice] Japan's Econ. Min. Kiuchi: No gap in understanding with BoJ on economy, prices.
+- 09/30 19:00 [DeItaone] FRENCH BOND RISK HITS HIGHEST LEVEL SINCE 2012 France’s 10-year yield spread over Germany has surpassed 120 basis points for the first time in 14 years, as political uncertainty and accelerating inflation pressure French debt. The move come…
+- 09/30 19:01 [FirstSquawk] KREMLIN: PUTIN WILL DELIVER A SPEECH IN NEWLY ELECTED PARLIAMENT LATER ON WEDNESDAY
+- 09/30 19:02 [FirstSquawk] JAPAN CURRENCY INTERVENTION AMOUNTED TO 0 YEN FROM AUG 27 TO SEPT 28 - MOF
+- 09/30 19:04 [DeItaone] BANK OF ENGLAND WARNS OF SHARPER AI MARKET CORRECTION The Bank of England warns AI valuations remain vulnerable to a deeper selloff than July’s, potentially spilling into global growth expectations and sovereign bond markets. The BOE says s…
+- 09/30 19:06 [FirstSquawk] VOLKSWAGEN PREPARES TO TERMINATE MULTIPLE COLLECTIVE DEALS - HANDELSBLATT
+- 09/30 19:10 [DeItaone] PORSCHE PIVOTS BACK TO PETROL AS EV DEMAND WEAKENS Porsche is reviving its petrol strategy, with a combustion-engine Macan planned for 2028 after electric Macan sales fell 40% in H1. CEO Michael Leiters says EVs remain part of Porsche’s fut…
+- 09/30 19:18 [DeItaone] *LIBYA SHARARA OIL FIELD OUTPUT RISES TO NEAR 340,000 B/D
