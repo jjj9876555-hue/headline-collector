@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-30 11:01 JST／対象: 09/29 23:01 〜 09/30 11:01 JST（時刻はすべて日本時間）
+生成: 2026-09-30 11:20 JST／対象: 09/29 23:20 〜 09/30 11:20 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 59 | 09/29 23:01 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
-| FirstSquawk | 217 | 09/29 23:02 | 09/30 10:58 | ⚠ 96分（06:29→08:05） |
+| DeItaone | 55 | 09/29 23:20 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
+| FirstSquawk | 217 | 09/29 23:25 | 09/30 11:18 | ⚠ 96分（06:29→08:05） |
 | financialjuice | 314 | 09/29 23:36 | 09/30 10:57 | ⚠ 67分（06:32→07:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 577 行（統合前 596 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 573 行（統合前 592 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 23:01 [DeItaone] *US SEPT. CONSUMER CONFIDENCE 81.9; EST. 89.0
-- 09/29 23:01 [DeItaone] *US AUG. JOB OPENINGS 7.079M; EST. 7.228M
-- 09/29 23:02 [FirstSquawk] SAUDI CROWN PRINCE MEETS WITH UAE VICE PRESIDENT IN RIYADH:SPA
-- 09/29 23:05 [FirstSquawk] BURNHAM: BREXIT HASN'T GIVEN US CONTROL
-- 09/29 23:05 [FirstSquawk] L3HARRIS RECEIVES THAAD PROPULSION CONTRACT VALUED AT $6 BLN
-- 09/29 23:08 [FirstSquawk] BURNHAM: UK-EU SUMMIT THIS YEAR
-- 09/29 23:08 [FirstSquawk] UK PM BURNHAM: UK-EU SUMMIT LATER THIS YEAR WILL DISCUSS WORKING TOGETHER
-- 09/29 23:09 [DeItaone] $SPCX - TD COWEN STARTS SPACEX AT BUY, SEES AI BOOM TD Cowen initiated SpaceX at Buy with a $200 price target, citing major opportunities across AI computing and space. The firm expects AI compute leasing to become SpaceX’s largest business…
-- 09/29 23:12 [FirstSquawk] BURNHAM SAYS UK TO DECIDE ON LONG-TERM RELATIONSHIP WITH EU
-- 09/29 23:17 [DeItaone] OPENAI'S ANNUAL RECURRING REVENUE NEARS $70B - AXIOS
 - 09/29 23:20 [DeItaone] TRUMP LIVE https://t.co/17DdwfEzmz
 - 09/29 23:24 [DeItaone] OPENAI ANNUAL REVENUE RUN RATE NEARS $70 BILLION OpenAI’s annualized revenue run rate is approaching $70 billion, up more than 70% since the start of Q3, according to Axios. Enterprise revenue has more than doubled since July, as OpenAI gai…
 - 09/29 23:25 [FirstSquawk] OPENAI'S ANNUAL RECURRING REVENUE NEARS $70B, AXIOS REPORTS
@@ -601,3 +591,9 @@
 - 09/30 10:57 [FirstSquawk] Toys R Us weighs Japan exit through sale of local business to Don Quijote operator
 - 09/30 10:57 [financialjuice] Russian air strike on Ukraine's Kyiv region wounds three, kills one: official
 - 09/30 10:58 [FirstSquawk] Russian strike on Kyiv region kills one, injures three, official says
+- 09/30 11:02 [FirstSquawk] Sri Lanka central bank leaves overnight policy rate unchanged at 8.75%
+- 09/30 11:03 [FirstSquawk] Fitch confirms Bank of Queensland’s mortgage covered bond programmes at AAA with stable outlook
+- 09/30 11:07 [FirstSquawk] Sri Lanka central bank says current account likely recorded a surplus in August 2026
+- 09/30 11:13 [FirstSquawk] China’s military carries out readiness patrols in Scarborough Shoal’s surrounding sea and airspace
+- 09/30 11:18 [FirstSquawk] Porsche introduces Cayenne Electric to South Korean market
+- 09/30 11:18 [FirstSquawk] DeepSeek releases open-source programming tools powered by Huawei Ascend chips

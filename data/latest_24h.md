@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-30 11:01 JST／対象: 09/29 11:01 〜 09/30 11:01 JST（時刻はすべて日本時間）
+生成: 2026-09-30 11:20 JST／対象: 09/29 11:20 〜 09/30 11:20 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 88 | 09/29 20:26 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
-| FirstSquawk | 434 | 09/29 11:01 | 09/30 10:58 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 432 | 09/29 11:02 | 09/30 10:57 | ⚠ 67分（06:32→07:40） |
+| FirstSquawk | 430 | 09/29 11:20 | 09/30 11:18 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 426 | 09/29 11:21 | 09/30 10:57 | ⚠ 67分（06:32→07:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 929 行（統合前 960 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 919 行（統合前 950 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 11:01 [FirstSquawk] Katayama: Japan will stay in close contact with U.S. Treasury over orderly FX markets
-- 09/29 11:02 [financialjuice] Japan finance minister Katayama: Takaichi's government is not reflationary
-- 09/29 11:02 [financialjuice] S.Korea finance minister: closely watching bond market
-- 09/29 11:02 [financialjuice] S.Korea finmin: will carry out treasury bond repurchase if yields surge excessively
-- 09/29 11:03 [financialjuice] Japan finmin Katayama: interest rates set by markets
-- 09/29 11:03 [FirstSquawk] Japan FinMin Katayama says Takaichi administration is not focused on reflation
-- 09/29 11:03 [FirstSquawk] S.Korea FinMin: Government keeping a close watch on bond market
-- 09/29 11:03 [financialjuice] Japan finmin Katayama: will coordinate closely with bond markets, pursue suitable debt management policy
-- 09/29 11:03 [FirstSquawk] South Korea FinMin says authorities will buy back treasury bonds if yields surge excessively
-- 09/29 11:03 [FirstSquawk] Katayama: Market forces determine interest rates
-- 09/29 11:04 [FirstSquawk] Katayama: Japan will maintain close dialogue with bond markets and implement appropriate debt management
-- 09/29 11:05 [financialjuice] Japan finmin katayama: will engage closely with market participants while maintaining strong urgency
-- 09/29 11:05 [FirstSquawk] Japan FinMin Katayama says Tokyo will closely engage with market participants while remaining highly vigilant
-- 09/29 11:07 [FirstSquawk] 40-year JGB yield edges up 0.5bp to 4.230%
-- 09/29 11:12 [FirstSquawk] Tokyo among the world’s highest-risk housing bubble markets, ranking second - KYODO
-- 09/29 11:17 [FirstSquawk] Experts expect Japan’s fiction surge to endure - KYODO
 - 09/29 11:20 [FirstSquawk] Indonesia benchmark stock index slides as much as 1.2%, hits lowest since July 29
 - 09/29 11:21 [financialjuice] China’s FAW signs strategic framework pact with Guangzhou Automobile Industry Group
 - 09/29 11:21 [FirstSquawk] China’s FAW and Guangzhou Automobile Industry Group sign strategic cooperation framework agreement
@@ -953,3 +937,9 @@
 - 09/30 10:57 [FirstSquawk] Toys R Us weighs Japan exit through sale of local business to Don Quijote operator
 - 09/30 10:57 [financialjuice] Russian air strike on Ukraine's Kyiv region wounds three, kills one: official
 - 09/30 10:58 [FirstSquawk] Russian strike on Kyiv region kills one, injures three, official says
+- 09/30 11:02 [FirstSquawk] Sri Lanka central bank leaves overnight policy rate unchanged at 8.75%
+- 09/30 11:03 [FirstSquawk] Fitch confirms Bank of Queensland’s mortgage covered bond programmes at AAA with stable outlook
+- 09/30 11:07 [FirstSquawk] Sri Lanka central bank says current account likely recorded a surplus in August 2026
+- 09/30 11:13 [FirstSquawk] China’s military carries out readiness patrols in Scarborough Shoal’s surrounding sea and airspace
+- 09/30 11:18 [FirstSquawk] Porsche introduces Cayenne Electric to South Korean market
+- 09/30 11:18 [FirstSquawk] DeepSeek releases open-source programming tools powered by Huawei Ascend chips

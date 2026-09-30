@@ -7,53 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-30 11:01 JST／対象: 09/30 05:01 〜 09/30 11:01 JST（時刻はすべて日本時間）
+生成: 2026-09-30 11:20 JST／対象: 09/30 05:20 〜 09/30 11:20 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 9 | 09/30 05:02 | 09/30 05:46 | 23分（05:12→05:36） |
-| FirstSquawk | 116 | 09/30 05:15 | 09/30 10:58 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 101 | 09/30 05:03 | 09/30 10:57 | ⚠ 67分（06:32→07:40） |
+| DeItaone | 4 | 09/30 05:36 | 09/30 05:46 | 3分（05:36→05:40） |
+| FirstSquawk | 107 | 09/30 05:22 | 09/30 11:18 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 91 | 09/30 05:25 | 09/30 10:57 | ⚠ 67分（06:32→07:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 223 行（統合前 226 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 199 行（統合前 202 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 05:02 [DeItaone] ANTHROPIC'S AMODEI: TECHNOLOGY HAS VERY REAL RISKS, STILL UNDER DISCUSSION HOW TO ADDRESS THE RISKS
-- 09/30 05:03 [financialjuice] Trump on Anthropic's Amodei: He's been great
-- 09/30 05:03 [financialjuice] Trump: Zuckerberg had a view that was right down the middle. $META
-- 09/30 05:04 [DeItaone] WORKDAY CUTS 2.5% OF WORKFORCE Workday is cutting about 2.5% of its workforce, primarily within its product and technology team, while reducing some office space. The restructuring will generate $65–80 million in charges, but Workday reiter…
-- 09/30 05:05 [financialjuice] Fed's williams: Rising bond yields show tighter financial conditions at the margin.
-- 09/30 05:05 [financialjuice] Fed's Williams: I don't believe rising yields signal shifting longer-run inflation views.
-- 09/30 05:05 [financialjuice] Fed's Williams: Strong AI investment is important to bolster future productivity
-- 09/30 05:06 [financialjuice] Fed's Williams: Thus far, AI is not causing big changes in job levels.
-- 09/30 05:07 [financialjuice] Stocks and Bonds Fall as Inflation Concerns Keep Yields Elevated – US Market Wrap
-- 09/30 05:08 [DeItaone] TRUMP: DISCUSSED WITH AI LEADERS WHERE TO PUT DATA CENTERS
-- 09/30 05:08 [financialjuice] Trump: We discussed the locations of data centers.
-- 09/30 05:09 [financialjuice] Trump on Data Centers: I want them built in America
-- 09/30 05:09 [DeItaone] TRUMP: PEOPLE IN AREAS WHERE DATA CENTERS BUILT WILL GREATLY BENEFIT FINANCIALLY
-- 09/30 05:11 [financialjuice] Trump, next to alphabet CEO, critiques Finland data center plan
-- 09/30 05:12 [DeItaone] MUSK: MOST LIKELY OUTCOME OF AI IS INCREDIBLY BENEFICIAL
-- 09/30 05:15 [FirstSquawk] NASDAQ CLOSES 0.07% LOWER AT 26,801.11, DOWN 19.27 POINTS S&P 500 CLOSES 0.17% LOWER AT 7,670.53, DOWN 13.16 POINTS DOW JONES CLOSES 0.21% LOWER AT 51,372.27, DOWN 109.24 POINTS
-- 09/30 05:15 [FirstSquawk] US BANK REGULATORS FIND NO DEFICIENCIES IN 15 “LIVING WILLS” FOR BANKS WITH OVER $250 BILLION IN ASSETS
-- 09/30 05:15 [FirstSquawk] TRUMP SAYS HE WILL BE NAMING THE AI CZAR IN THE NEXT THREE TO FOUR DAYS AND THAT 'WE WILL HAVE AI VERY WELL ASSESSED', PRAISING ANTHROPIC'S AMODEI AS 'GREAT' AND SAYING ZUCKERBERG 'HAD A VIEW THAT WAS RIGHT DOWN THE MIDDLE', ADDING THAT HE …
-- 09/30 05:15 [FirstSquawk] TRUMP SAYS ON IRAN THAT IT IS 'DOING VERY POORLY' AND THAT HE DOESN'T KNOW 'IF THEY ARE GOING TO GIVE UP YET'.
-- 09/30 05:16 [FirstSquawk] TRUMP SAYS ON NORTH KOREA'S KIM JONG UN THAT 'HE'S A FRIEND OF MINE, I LIKE HIM' AND THAT 'KIM WILL BE FINE AS LONG AS I AM AROUND'.
-- 09/30 05:17 [FirstSquawk] TRUMP SAYS ON DATA CENTERS THAT 'I WANT THEM BUILT IN AMERICA', ADDING THAT THE GROUP DISCUSSED THE LOCATIONS OF DATA CENTERS AND, NEXT TO ALPHABET'S CEO, CRITIQUING A FINLAND DATA CENTER PLAN
-- 09/30 05:18 [FirstSquawk] SALESFORCE SIGNS DEFINITIVE AGREEMENT TO ACQUIRE LISTEN LABS; DEAL EXPECTED TO CLOSE IN Q4 FY2027 — COMPANY WEBSITE
-- 09/30 05:19 [FirstSquawk] TRUMP SAYS ON A MEETING WITH AI LEADERS THAT THEY SIGNED AN AI DOCUMENT THAT IS 'A FORM OF PROTECTION' AND WHICH HE THINKS IS 'MORALLY BINDING', ADDING THAT THE U.S. IS THINKING OF CREATING A COMMITTEE TO WATCH OVER AI AND THAT HE IS SEEING…
-- 09/30 05:19 [FirstSquawk] NVIDIA'S HUANG SAYS 'THERE IS NO CONFLICT BETWEEN INNOVATION, TECHNOLOGY AND SAFETY', ADDING 'WE'RE GOING TO ADVANCE THIS RESPONSIBLY AND SAFELY', WHILE ANTHROPIC'S AMODEI SAYS THE TECHNOLOGY HAS 'VERY REAL RISKS' AND THAT IT IS STILL UNDER…
-- 09/30 05:19 [FirstSquawk] META'S ZUCKERBERG SAYS COMMITMENTS WERE MADE AROUND BUILDING CONTROLS AND DETECTING ISSUES WITH THE TECHNOLOGY, WITH TECH COMPANIES AGREEING TO SET UP 'ROBUST' INTERNAL CONTROLS AND MULTIPLE LAYERS OF AI AUDITING, ADDING THAT META WILL HAVE…
-- 09/30 05:19 [FirstSquawk] WORKDAY HAS ANNOUNCED A REDUCTION OF ABOUT 2.5% OF ITS CURRENT WORKFORCE — PRIMARILY WITHIN ITS PRODUCT AND TECHNOLOGY TEAM, ALONGSIDE SELECT LEASED OFFICE SPACE REDUCTIONS — WHILE REITERATING ITS FISCAL 2027 Q3 AND FULL-YEAR FINANCIAL GUID…
-- 09/30 05:19 [FirstSquawk] WORKDAY ESTIMATES CHARGES OF $65 MLN-$80 MLN RELATED TO THE REORGANIZATION, INCLUDING $40 MLN-$55 MLN IN FUTURE CASH EXPENDITURES FOR SEVERANCE AND BENEFITS, WITH THE EMPLOYEE-RELATED ACTIONS EXPECTED TO BE SUBSTANTIALLY COMPLETED BY Q1 OF …
-- 09/30 05:20 [FirstSquawk] AMERICAN AIRLINES & ALASKA AIRLINES PLAN TO EXPAND JOINT BUSINESSES ACROSS ATLANTIC & PACIFIC; TO SEEK REGULATORY APPROVAL
-- 09/30 05:20 [FirstSquawk] FED'S WILLIAMS SAYS RISING BOND YIELDS SHOW TIGHTER FINANCIAL CONDITIONS AT THE MARGIN, BUT THAT HE DOESN'T BELIEVE THEY SIGNAL SHIFTING LONGER-RUN INFLATION VIEWS.
-- 09/30 05:20 [FirstSquawk] FED'S WILLIAMS SAYS STRONG AI INVESTMENT IS IMPORTANT TO BOLSTER FUTURE PRODUCTIVITY, ADDING THAT THUS FAR AI IS NOT CAUSING BIG CHANGES IN JOB LEVELS.
 - 09/30 05:22 [FirstSquawk/DeItaone] MASTERCARD DECLARES QUARTERLY CASH DIVIDEND OF $0.87 PER SHARE
 - 09/30 05:25 [financialjuice] Al Mayadeen: The purpose of Netanyahu's visit to the UAE was to encourage Abu Dhabi to resume its participation in the war against Yemen.
 - 09/30 05:26 [FirstSquawk] AL MAYADEEN: NETANYAHU’S UAE VISIT AIMED TO ENCOURAGE ABU DHABI TO RESUME PARTICIPATION IN WAR AGAINST YEMEN
@@ -247,3 +217,9 @@
 - 09/30 10:57 [FirstSquawk] Toys R Us weighs Japan exit through sale of local business to Don Quijote operator
 - 09/30 10:57 [financialjuice] Russian air strike on Ukraine's Kyiv region wounds three, kills one: official
 - 09/30 10:58 [FirstSquawk] Russian strike on Kyiv region kills one, injures three, official says
+- 09/30 11:02 [FirstSquawk] Sri Lanka central bank leaves overnight policy rate unchanged at 8.75%
+- 09/30 11:03 [FirstSquawk] Fitch confirms Bank of Queensland’s mortgage covered bond programmes at AAA with stable outlook
+- 09/30 11:07 [FirstSquawk] Sri Lanka central bank says current account likely recorded a surplus in August 2026
+- 09/30 11:13 [FirstSquawk] China’s military carries out readiness patrols in Scarborough Shoal’s surrounding sea and airspace
+- 09/30 11:18 [FirstSquawk] Porsche introduces Cayenne Electric to South Korean market
+- 09/30 11:18 [FirstSquawk] DeepSeek releases open-source programming tools powered by Huawei Ascend chips
