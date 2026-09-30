@@ -7,60 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-30 14:53 JST／対象: 09/30 02:53 〜 09/30 14:53 JST（時刻はすべて日本時間）
+生成: 2026-09-30 15:23 JST／対象: 09/30 03:23 〜 09/30 15:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 22 | 09/30 04:01 | 09/30 05:46 | 23分（05:12→05:36） |
-| FirstSquawk | 205 | 09/30 02:56 | 09/30 14:48 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 183 | 09/30 02:54 | 09/30 14:00 | ⚠ 80分（10:57→12:18） |
+| FirstSquawk | 213 | 09/30 03:32 | 09/30 15:08 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 169 | 09/30 03:27 | 09/30 15:08 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 402 行（統合前 413 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 396 行（統合前 406 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 02:54 [financialjuice] BoC's Gravelle: Balance sheet GoC purchases may not start until 2028.
-- 09/30 02:55 [financialjuice] OpenAI: Investigating elevated errors with ChatGPT, Codex
-- 09/30 02:56 [FirstSquawk] BANK OF CANADA PUSHES BACK TIMELINE FOR GOVERNMENT BOND PURCHASES; COULD START IN LATE 2027 OR 2028
-- 09/30 02:56 [FirstSquawk] OPENAI INVESTIGATING ELEVATED ERROR RATES AFFECTING CHATGPT & CODEX
-- 09/30 02:56 [financialjuice] BoC's Gravelle: Hedge fund positions may amplify bond-market stress
-- 09/30 02:56 [financialjuice] Fed's Goolsbee: Massive deficits are a form of stimulus and can overheat the economy
-- 09/30 03:00 [financialjuice] Fed's Goolsbee: In the dot plot, I'm one of the more optimistic folks at the Fed
-- 09/30 03:00 [financialjuice] ❗ Fed's Williams: If the economy meets expectations, one further hike is likely this year.
-- 09/30 03:00 [financialjuice] Fed's Williams: sees no need for urgency after september rate hike.
-- 09/30 03:01 [financialjuice] Fed's Williams: Fed will respond to data when setting monetary policy.
-- 09/30 03:01 [financialjuice] Fed's Williams: More data will help the Fed decide what's next for rate policy.
-- 09/30 03:01 [financialjuice] Fed's Williams: The Fed must make sure high inflation does not become entrenched.
-- 09/30 03:01 [financialjuice] ❗ Fed's Williams: I see inflation at 3.5% this year, hit 2% target in 2028.
-- 09/30 03:01 [financialjuice] Fed's williams: Fed policy can make sure the impact of supply shocks is not long-lasting.
-- 09/30 03:01 [financialjuice] fed's Williams: AI investment issues are an increasingly big issue for inflation.
-- 09/30 03:01 [financialjuice] Fed's Williams: I see US GDP at 2.25% this year, unemployment at 4% over 2027.
-- 09/30 03:01 [financialjuice] Fed's Williams: US economic momentum is strong and may be strengthening.
-- 09/30 03:02 [financialjuice] Fed's Goolsbee: We have to get evidence that inflation is coming back down.
-- 09/30 03:02 [FirstSquawk] FED'S WILLIAMS SAYS THAT IF THE ECONOMY MEETS EXPECTATIONS, ONE FURTHER HIKE IS LIKELY THIS YEAR, THOUGH HE SEES 'NO NEED FOR URGENCY' AFTER THE SEPTEMBER RATE HIKE AND SAYS MORE DATA WILL HELP THE FED DECIDE WHAT'S NEXT, WITH POLICY RESPON…
-- 09/30 03:02 [FirstSquawk] FED'S WILLIAMS SAYS IT IS IMPERATIVE TO GET INFLATION BACK TO 2% AND THAT THE FED MUST MAKE SURE HIGH INFLATION DOES NOT BECOME ENTRENCHED, WHILE FED POLICY CAN ENSURE THE IMPACT OF SUPPLY SHOCKS IS NOT LONG-LASTING, SEEING INFLATION AT 3.5…
-- 09/30 03:02 [FirstSquawk] FED'S WILLIAMS SAYS U.S. ECONOMIC MOMENTUM IS STRONG AND MAY BE STRENGTHENING, SEEING GDP AT 2.25% THIS YEAR AND UNEMPLOYMENT AT 4% OVER 2027, AND ADDS THAT AI INVESTMENT ISSUES ARE AN INCREASINGLY BIG ISSUE FOR INFLATION.
-- 09/30 03:03 [FirstSquawk] COINBASE REPORTS DELAYS IN SUI SENDS & RECEIVES; BUYS, SELLS AND FIAT TRANSFERS UNAFFECTED — WEBSITE
-- 09/30 03:04 [FirstSquawk] FED’S MUSALEM: AI CAPEX BOOM IS CURRENTLY DRIVING DEMAND PRESSURE, WITH PRODUCTIVITY & “SUPPLY RELIEF” NOT YET VISIBLE
-- 09/30 03:04 [financialjuice] Fed's Musalem: Fed can't ease rates based on expected AI productivity
-- 09/30 03:05 [financialjuice] Fed's musalem: Right now the AI CAPEX boom is resulting in demand pressure, with productivity and "supply relief" not yet apparent.
-- 09/30 03:05 [financialjuice] fed's Musalem: The economy is very strong now, but predicated on continued growth.
-- 09/30 03:05 [FirstSquawk] FED'S MUSALEM SAYS THE ECONOMY IS VERY STRONG NOW, BUT THAT THIS IS PREDICATED ON CONTINUED GROWTH, ADDING THAT THE FED CAN'T EASE RATES BASED ON EXPECTED AI PRODUCTIVITY.
-- 09/30 03:05 [FirstSquawk] FED'S MUSALEM SAYS THAT RIGHT NOW THE AI CAPEX BOOM IS RESULTING IN DEMAND PRESSURE, WITH PRODUCTIVITY AND 'SUPPLY RELIEF' NOT YET APPARENT.
-- 09/30 03:05 [financialjuice] Fed's Musalem: US economic growth is strong, labor market in a good place.
-- 09/30 03:09 [financialjuice] Fed's Musalem: Logic of 'looking through' supply shocks weakens when one shock follows another; heightens risk of broader inflation taking root
-- 09/30 03:11 [financialjuice] Fed's Musalem: About half of inflation now is from persistent demand pressure
-- 09/30 03:12 [FirstSquawk] LINEAGE AND BSF HAVE EXTENDED THEIR 25-YEAR RELATIONSHIP, WITH LINEAGE CONTINUING TO MANAGE WAREHOUSING AND DISTRIBUTION OPERATIONS FOR BSF UNDER A RENEWED COMMERCIAL WAREHOUSING AGREEMENT THAT RUNS THROUGH JUNE 30, 2028
-- 09/30 03:13 [financialjuice] Fed's Musalem: Inflation expectations remain consistent with 2% inflation over the long run
-- 09/30 03:14 [FirstSquawk] LOCKHEED MARTIN SAYS AVIO USA HAS BROKEN GROUND ON ITS FIRST U.S. SOLID ROCKET MOTOR FACILITY IN VIRGINIA, WHICH WILL PRODUCE THOUSANDS OF SOLID ROCKET MOTORS ANNUALLY AND CREATE 1,500 JOBS
-- 09/30 03:19 [FirstSquawk] OPENAI: HUGGING FACE INCIDENT WAS THE MOST SEVERE PLATFORM INCIDENT TO DATE
-- 09/30 03:19 [financialjuice] OpenaAI: Hugging Face event most severe platform incident so far.
-- 09/30 03:22 [financialjuice] Fed's Musalem: The Fed's SEP could be improved by anonymously connecting rate "dots" with economic projections
 - 09/30 03:27 [financialjuice] Fed's Musalem: Monetary policy remains somewhat accommodative even after the last rate hike.
 - 09/30 03:29 [financialjuice] Sounds like this White House AI meeting is wrapping up... Pool says press has been called to gather for an event - Fox News reporter
 - 09/30 03:29 [financialjuice] Fed's Williams: Inflation should ease because the biggest shocks have largely played out.
@@ -426,3 +389,34 @@
 - 09/30 14:38 [FirstSquawk] Gold slips as Fed hike bets and Middle East tensions underpin the U.S. dollar — FX
 - 09/30 14:39 [FirstSquawk] Kazakhstan restarts enforcement proceedings to recover 2.3 trillion tenge fine from NCOC — IFX
 - 09/30 14:48 [FirstSquawk] HSBC calls its stablecoin RedCoin as it targets 3.3 million PayMe users
+- 09/30 14:58 [FirstSquawk] Seoul and Washington discuss human rights, democracy and governance matters - YONHAP
+- 09/30 14:59 [FirstSquawk] Iran’s Araghchi to discuss U.S. feedback on seven-day proposal in Tehran on Wednesday — Reuters
+- 09/30 14:59 [financialjuice] Iran’s Aragchi and team met Qatari mediators in doha on tuesday night; Araqchi received US feedback to seven-day proposal which he will discuss in Tehran on Wednesday - Official Briefed on Talks.
+- 09/30 15:00 [financialjuice] Main disagreement between US and Iran is over sequencing, not about elements of seven-day plan - Official
+- 09/30 15:00 [financialjuice] UK CURRENT ACCOUNT ACTUAL -19.932B (FORECAST -25.5B, PREVIOUS -22.134B) $MACRO
+- 09/30 15:00 [financialjuice] UK BUSINESS INVESTMENT QOQ ACTUAL 1.75% (FORECAST 1.7%, PREVIOUS 1.7%) $MACRO
+- 09/30 15:00 [financialjuice] ‼ BREAKING: UK GDP QOQ ACTUAL 0.5% (FORECAST 0.4%, PREVIOUS 0.4%) $MACRO
+- 09/30 15:00 [financialjuice] ❗ UK GDP YOY ACTUAL 1.4% (FORECAST 1.2%, PREVIOUS 1.2%) $MACRO
+- 09/30 15:02 [financialjuice] GERMAN IMPORT PRICES YOY ACTUAL 8.3% (FORECAST 8%, PREVIOUS 6.8%) $MACRO
+- 09/30 15:02 [financialjuice] GERMAN IMPORTS PRICES MOM ACTUAL 1% (FORECAST 0.7%, PREVIOUS 0.2%) $MACRO
+- 09/30 15:05 [financialjuice] GERMAN REAL RETAIL SALES MOM ACTUAL 1.3% (FORECAST 1.5%, PREVIOUS -3.4%) $MACRO
+- 09/30 15:05 [financialjuice] GERMAN REAL RETAIL SALES YOY ACTUAL -0.4% (FORECAST -, PREVIOUS -2.5%) $MACRO
+- 09/30 15:06 [FirstSquawk] UK (Q2) GDP QOQ ACTUAL: 0.5% VS 0.4% PREVIOUS;EST 0.4%
+- 09/30 15:06 [FirstSquawk] UK (Q2) GDP YOY ACTUAL: 1.4% VS 1.2% PREVIOUS;EST 1.2%
+- 09/30 15:07 [FirstSquawk] UK (Q2) PRIVATE CONSUMPTION QOQ ACTUAL: 0.3% VS 0.3% PREVIOUS;EST 0.3%
+- 09/30 15:07 [FirstSquawk] UK (Q2) GOVERNMENT SPENDING QOQ ACTUAL: -0.5% VS -0.3% PREVIOUS;EST -0.3%
+- 09/30 15:07 [FirstSquawk] UK (Q2) GROSS FIXED CAPITAL FORMATION QOQ ACTUAL: 0.9% VS 1.2% PREVIOUS;EST 1.2%
+- 09/30 15:07 [FirstSquawk] UK (Q2) EXPORTS QOQ ACTUAL: 2.8% VS 0.5% PREVIOUS;EST 0.5%
+- 09/30 15:07 [FirstSquawk] UK (Q2) IMPORTS QOQ ACTUAL: 0.0% VS 0.5% PREVIOUS;EST 0.5%
+- 09/30 15:07 [FirstSquawk] UK (Q2) TOTAL BUSINESS INVESTMENT QOQ ACTUAL: 1.8% VS 1.7% PREVIOUS;EST 1.7%
+- 09/30 15:07 [FirstSquawk] UK (Q2) TOTAL BUSINESS INVESTMENT YOY ACTUAL: 5.2% VS 0.8% PREVIOUS;EST 0.8%
+- 09/30 15:07 [FirstSquawk] UK (Q2) CURRENT ACCOUNT BALANCE ACTUAL: -19.9B VS -22.1B PREVIOUS;EST -25.5B
+- 09/30 15:08 [FirstSquawk] GERMANY (AUG) IMPORT PRICE INDEX MOM ACTUAL: 1% VS 0.2% PREVIOUS;EST 0.7%
+- 09/30 15:08 [FirstSquawk] GERMANY (AUG) IMPORT PRICE INDEX YOY ACTUAL: 8.3% VS 6.8% PREVIOUS;EST 8.0%
+- 09/30 15:08 [FirstSquawk] JAPAN (AUG) MACHINE TOOL ORDERS YOY ACTUAL: 64.7% VS 64.7% PREVIOUS
+- 09/30 15:08 [FirstSquawk] SWEDEN (AUG) RETAIL SALES MOM ACTUAL: 0.8% VS -0.2% PREVIOUS
+- 09/30 15:08 [FirstSquawk] SWEDEN (AUG) RETAIL SALES WDA YOY ACTUAL: 6.9% VS 6.2% PREVIOUS
+- 09/30 15:08 [FirstSquawk] SWEDEN (JUL) WAGES NON MANUAL WORKERS YOY ACTUAL: 2.9% VS 3.4% PREVIOUS
+- 09/30 15:08 [financialjuice] UK's PM Burnham: Cutting welfare bill will let uk meet defense goals.
+- 09/30 15:08 [FirstSquawk] GERMANY (AUG) RETAIL SALES MOM ACTUAL: 1.3% VS -3.4% PREVIOUS;EST 1.5%
+- 09/30 15:08 [FirstSquawk] GERMANY (AUG) RETAIL SALES SA YOY ACTUAL: -0.4% VS -2.5% PREVIOUS;EST -0.5%
