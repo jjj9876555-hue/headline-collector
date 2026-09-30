@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-30 15:23 JST／対象: 09/29 15:23 〜 09/30 15:23 JST（時刻はすべて日本時間）
+生成: 2026-09-30 15:51 JST／対象: 09/29 15:51 〜 09/30 15:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 88 | 09/29 20:26 | 09/30 05:46 | ⚠ 80分（02:40→04:01） |
-| FirstSquawk | 420 | 09/29 15:24 | 09/30 15:08 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 404 | 09/29 16:00 | 09/30 15:08 | ⚠ 80分（10:57→12:18） |
+| FirstSquawk | 431 | 09/29 15:58 | 09/30 15:48 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 410 | 09/29 16:00 | 09/30 15:45 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 886 行（統合前 918 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 903 行（統合前 935 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 15:24 [FirstSquawk] South Korea’s Defense Minister: North Korean mine that caused explosion violated armistice agreement
-- 09/29 15:40 [FirstSquawk] South Korea Defence Minister Kang: DMZ mine appears to have been planted during North Korea’s border fortification work
-- 09/29 15:44 [FirstSquawk] South Korea’s Defence Minister Kang says DMZ mine appears linked to North Korea’s border fortification work
-- 09/29 15:48 [FirstSquawk] Shell to expand Canada LNG facility capacity to 28 million tonnes a year
 - 09/29 15:58 [FirstSquawk] South Korea Joint Chiefs of Staff: DMZ mines likely planted just over a year ago
 - 09/29 15:59 [FirstSquawk] South Korea Joint Chiefs of Staff: UN Command says DMZ explosion mines were clearly south of Military Demarcation Line
 - 09/29 16:00 [financialjuice] SPANISH CPI MOM FLASH ACTUAL 0.3% (FORECAST 0.1%, PREVIOUS 0.70%) $MACRO
@@ -910,3 +906,24 @@
 - 09/30 15:08 [financialjuice] UK's PM Burnham: Cutting welfare bill will let uk meet defense goals.
 - 09/30 15:08 [FirstSquawk] GERMANY (AUG) RETAIL SALES MOM ACTUAL: 1.3% VS -3.4% PREVIOUS;EST 1.5%
 - 09/30 15:08 [FirstSquawk] GERMANY (AUG) RETAIL SALES SA YOY ACTUAL: -0.4% VS -2.5% PREVIOUS;EST -0.5%
+- 09/30 15:25 [FirstSquawk] AUD/USD holds modest rebound from 0.6960, price outlook — FX
+- 09/30 15:34 [FirstSquawk] Goldman Sachs lifts Hapag-Lloyd target price to €90 from €81
+- 09/30 15:34 [FirstSquawk] Russian strike damages Kyiv energy infrastructure, DTEK says
+- 09/30 15:37 [FirstSquawk] Israeli PM and security minister hold urgent talks with senior security officials, sources say — Alaraby TV
+- 09/30 15:38 [FirstSquawk] 7-day plan needs significant changes before progress can be discussed, senior source says — Al Arabiya
+- 09/30 15:41 [FirstSquawk] One person killed and another injured in drone attacks in Bryansk region, governor says
+- 09/30 15:42 [FirstSquawk] Israeli source: Plane expected to land in Saudi Arabia shortly, with situation to become clearer afterward
+- 09/30 15:45 [financialjuice] FRENCH HICP MOM PRELIM ACTUAL -0.4% (FORECAST -0.5%, PREVIOUS 0.7%) $MACRO
+- 09/30 15:45 [financialjuice] FRENCH CONSUMER SPENDING MOM ACTUAL -0.5% (FORECAST 0%, PREVIOUS 0.5%) $MACRO
+- 09/30 15:45 [financialjuice] FRENCH PPI YOY ACTUAL 4.8% (FORECAST -, PREVIOUS 3.4%) $MACRO
+- 09/30 15:45 [financialjuice] ❗ FRENCH CPI MOM NSA PRELIM ACTUAL -0.3% (FORECAST -0.5%, PREVIOUS 0.7%) $MACRO
+- 09/30 15:45 [financialjuice] ❗ FRENCH HICP YOY PRELIM ACTUAL 3.4% (FORECAST 3.2%, PREVIOUS 2.6%) $MACRO
+- 09/30 15:45 [financialjuice] ❗ FRENCH CPI YOY NSA PRELIM ACTUAL 3% (FORECAST 2.8%, PREVIOUS 2.4%) $MACRO
+- 09/30 15:48 [FirstSquawk] FRANCE (AUG) CONSUMER SPENDING YOY ACTUAL: 0.8% VS 1.4% PREVIOUS
+- 09/30 15:48 [FirstSquawk] FRANCE (AUG) CONSUMER SPENDING MOM ACTUAL: -0.5% VS 0.5% PREVIOUS;EST 0.0%
+- 09/30 15:48 [FirstSquawk] FRANCE (AUG) PPI YOY ACTUAL: 4.8% VS 3.4% PREVIOUS
+- 09/30 15:48 [FirstSquawk] FRANCE (AUG) PPI MOM ACTUAL: 1.0% VS 1.1% PREVIOUS
+- 09/30 15:48 [FirstSquawk] FRANCE (SEP) CPI YOY ACTUAL: 3.0% VS 2.4% PREVIOUS;EST 2.8%
+- 09/30 15:48 [FirstSquawk] FRANCE (SEP) CPI MOM ACTUAL: -0.3% VS 0.7% PREVIOUS;EST -0.5%
+- 09/30 15:48 [FirstSquawk] FRANCE (SEP) CPI EU HARMONIZED YOY ACTUAL: 3.4% VS 2.6% PREVIOUS;EST 3.2%
+- 09/30 15:48 [FirstSquawk] FRANCE (SEP) CPI EU HARMONIZED MOM ACTUAL: -0.4% VS 0.7% PREVIOUS;EST -0.5%

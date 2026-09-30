@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-30 15:23 JST／対象: 09/30 09:23 〜 09/30 15:23 JST（時刻はすべて日本時間）
+生成: 2026-09-30 15:51 JST／対象: 09/30 09:51 〜 09/30 15:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 127 | 09/30 09:29 | 09/30 15:08 | 17分（13:16→13:33） |
-| financialjuice | 59 | 09/30 09:24 | 09/30 15:08 | ⚠ 80分（10:57→12:18） |
+| FirstSquawk | 130 | 09/30 09:51 | 09/30 15:48 | 17分（13:16→13:33） |
+| financialjuice | 60 | 09/30 10:00 | 09/30 15:45 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 185 行（統合前 186 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 189 行（統合前 190 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 09:24 [financialjuice] Explosions heard in Ukraine's Kyiv: witness source reports
-- 09/30 09:29 [FirstSquawk] TRUMP STANDS BY LIGHT-TOUCH AI POLICY AMID GROWING INDUSTRY WARNINGS - WSJ
-- 09/30 09:30 [FirstSquawk] CHINA SIGNALS RESPONSE IF EU MOVES AGAINST CHINESE TRADE
-- 09/30 09:32 [financialjuice] S.Korea finmin: closely watching bond market
-- 09/30 09:33 [FirstSquawk] S.Korea finmin: Watching bond market developments closely
-- 09/30 09:33 [FirstSquawk] S.Korea finmin: Plans to use excess tax revenue to lower bond issuance if required
-- 09/30 09:33 [financialjuice] S.Korea Finance Ministry: to use surplus tax revenue to cut bond issuance if necessary
-- 09/30 09:33 [FirstSquawk] Reuters: Echoes of explosions heard in Kyiv
-- 09/30 09:35 [financialjuice] S. Korea finmin: to implement other stabilizing steps including treasury bond repurchase if bond yields soar excessively
-- 09/30 09:38 [FirstSquawk] S.Korea finmin: May use treasury bond buybacks and other measures if bond yields rise too sharply
-- 09/30 09:38 [FirstSquawk] Samsung Heavy Industries secures 307.4 billion won order
-- 09/30 09:39 [financialjuice] UN command: DMZ blast violates armistice agreement - Yonhap
-- 09/30 09:39 [FirstSquawk] Samsung Heavy Industries wins contract to build two very large gas carriers for Bermuda shipper
-- 09/30 09:42 [FirstSquawk] Heavy missile attack strikes Kyiv, with residential areas and energy sites hit and power outages reported in parts of the capital
-- 09/30 09:46 [FirstSquawk] 10-year JGB yield advances 1.0 basis point to 3.095%
-- 09/30 09:47 [FirstSquawk] CBS: Hegseth to announce plans to reduce generals and admirals by 20%
-- 09/30 09:51 [FirstSquawk] Japan elderly population rises to record 29.4% of total in 2025 census
 - 09/30 09:51 [FirstSquawk] Russian ballistic missile strikes rock Kyiv, leaving parts of capital without power
 - 09/30 09:55 [FirstSquawk] WSJ: Oil prices mixed, with production recovery potentially weighing on prices
 - 09/30 09:55 [FirstSquawk] WSJ: Nikkei climbs 1.5%, driven by gains in chip and bank stocks
@@ -209,3 +192,24 @@
 - 09/30 15:08 [financialjuice] UK's PM Burnham: Cutting welfare bill will let uk meet defense goals.
 - 09/30 15:08 [FirstSquawk] GERMANY (AUG) RETAIL SALES MOM ACTUAL: 1.3% VS -3.4% PREVIOUS;EST 1.5%
 - 09/30 15:08 [FirstSquawk] GERMANY (AUG) RETAIL SALES SA YOY ACTUAL: -0.4% VS -2.5% PREVIOUS;EST -0.5%
+- 09/30 15:25 [FirstSquawk] AUD/USD holds modest rebound from 0.6960, price outlook — FX
+- 09/30 15:34 [FirstSquawk] Goldman Sachs lifts Hapag-Lloyd target price to €90 from €81
+- 09/30 15:34 [FirstSquawk] Russian strike damages Kyiv energy infrastructure, DTEK says
+- 09/30 15:37 [FirstSquawk] Israeli PM and security minister hold urgent talks with senior security officials, sources say — Alaraby TV
+- 09/30 15:38 [FirstSquawk] 7-day plan needs significant changes before progress can be discussed, senior source says — Al Arabiya
+- 09/30 15:41 [FirstSquawk] One person killed and another injured in drone attacks in Bryansk region, governor says
+- 09/30 15:42 [FirstSquawk] Israeli source: Plane expected to land in Saudi Arabia shortly, with situation to become clearer afterward
+- 09/30 15:45 [financialjuice] FRENCH HICP MOM PRELIM ACTUAL -0.4% (FORECAST -0.5%, PREVIOUS 0.7%) $MACRO
+- 09/30 15:45 [financialjuice] FRENCH CONSUMER SPENDING MOM ACTUAL -0.5% (FORECAST 0%, PREVIOUS 0.5%) $MACRO
+- 09/30 15:45 [financialjuice] FRENCH PPI YOY ACTUAL 4.8% (FORECAST -, PREVIOUS 3.4%) $MACRO
+- 09/30 15:45 [financialjuice] ❗ FRENCH CPI MOM NSA PRELIM ACTUAL -0.3% (FORECAST -0.5%, PREVIOUS 0.7%) $MACRO
+- 09/30 15:45 [financialjuice] ❗ FRENCH HICP YOY PRELIM ACTUAL 3.4% (FORECAST 3.2%, PREVIOUS 2.6%) $MACRO
+- 09/30 15:45 [financialjuice] ❗ FRENCH CPI YOY NSA PRELIM ACTUAL 3% (FORECAST 2.8%, PREVIOUS 2.4%) $MACRO
+- 09/30 15:48 [FirstSquawk] FRANCE (AUG) CONSUMER SPENDING YOY ACTUAL: 0.8% VS 1.4% PREVIOUS
+- 09/30 15:48 [FirstSquawk] FRANCE (AUG) CONSUMER SPENDING MOM ACTUAL: -0.5% VS 0.5% PREVIOUS;EST 0.0%
+- 09/30 15:48 [FirstSquawk] FRANCE (AUG) PPI YOY ACTUAL: 4.8% VS 3.4% PREVIOUS
+- 09/30 15:48 [FirstSquawk] FRANCE (AUG) PPI MOM ACTUAL: 1.0% VS 1.1% PREVIOUS
+- 09/30 15:48 [FirstSquawk] FRANCE (SEP) CPI YOY ACTUAL: 3.0% VS 2.4% PREVIOUS;EST 2.8%
+- 09/30 15:48 [FirstSquawk] FRANCE (SEP) CPI MOM ACTUAL: -0.3% VS 0.7% PREVIOUS;EST -0.5%
+- 09/30 15:48 [FirstSquawk] FRANCE (SEP) CPI EU HARMONIZED YOY ACTUAL: 3.4% VS 2.6% PREVIOUS;EST 3.2%
+- 09/30 15:48 [FirstSquawk] FRANCE (SEP) CPI EU HARMONIZED MOM ACTUAL: -0.4% VS 0.7% PREVIOUS;EST -0.5%

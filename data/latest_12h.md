@@ -7,48 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-30 15:23 JST／対象: 09/30 03:23 〜 09/30 15:23 JST（時刻はすべて日本時間）
+生成: 2026-09-30 15:51 JST／対象: 09/30 03:51 〜 09/30 15:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 22 | 09/30 04:01 | 09/30 05:46 | 23分（05:12→05:36） |
-| FirstSquawk | 213 | 09/30 03:32 | 09/30 15:08 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 169 | 09/30 03:27 | 09/30 15:08 | ⚠ 80分（10:57→12:18） |
+| FirstSquawk | 222 | 09/30 03:51 | 09/30 15:48 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 155 | 09/30 03:51 | 09/30 15:45 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 396 行（統合前 406 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 392 行（統合前 400 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 03:27 [financialjuice] Fed's Musalem: Monetary policy remains somewhat accommodative even after the last rate hike.
-- 09/30 03:29 [financialjuice] Sounds like this White House AI meeting is wrapping up... Pool says press has been called to gather for an event - Fox News reporter
-- 09/30 03:29 [financialjuice] Fed's Williams: Inflation should ease because the biggest shocks have largely played out.
-- 09/30 03:29 [financialjuice] Trump Participates in a Meeting and Luncheon on Super Intelligence - WATCH LIVE
-- 09/30 03:30 [financialjuice] Fed's Williams: Energy prices remain very important in the economy, but the US is less exposed relative to the past.
-- 09/30 03:31 [financialjuice] ❗ Mediators push to break US-Iran deadlock - FT
-- 09/30 03:32 [FirstSquawk] MEDIATORS PUSH TO BREAK US-IRAN DEADLOCK AS TALKS REMAIN STALLED — FT
-- 09/30 03:32 [financialjuice] Fed's Williams: Determining how restrictive monetary policy is is hard.
-- 09/30 03:34 [FirstSquawk/financialjuice] MEDIATORS ARE RENEWING EFFORTS TO NEGOTIATE A SETTLEMENT BETWEEN THE UNITED STATES AND IRAN, DAYS AFTER PRESIDENT DONALD TRUMP REJECTED AN IRANIAN REQUEST TO REOPEN THE STRAIT OF HORMUZ AND RESTART TALKS TO END THE WAR, WITH NEGOTIATORS DUE…
-- 09/30 03:35 [FirstSquawk] UNDER THE TERMS OF THE AGREEMENT, WHICH MEDIATORS HOPE COULD RESTART TALKS ON A FINAL SETTLEMENT, IRAN WOULD ALLOW FREE MOVEMENT OF TRAFFIC THROUGH THE STRAIT OF HORMUZ AND THE U.S. WOULD EASE ITS BLOCKADE OF IRANIAN PORTS IN EXCHANGE, WITH…
-- 09/30 03:35 [financialjuice] Trump on AI meeting: Very good, very productive
-- 09/30 03:36 [financialjuice] Trump: What we spoke about will make the world safer
-- 09/30 03:36 [financialjuice] Trump: US has a big lead in AI, we'll keep our lead
-- 09/30 03:37 [financialjuice] Trump on AI Lunch: There was a lot of 'commonality' in the room.
-- 09/30 03:37 [financialjuice] Trump on AI: Should be tremendous self-regulation.
-- 09/30 03:38 [financialjuice] Trump on AI: Self-regulation is very important.
-- 09/30 03:38 [financialjuice] Trump: AI leaders to work with local communities on data centers.
-- 09/30 03:39 [financialjuice] Trump: AI leaders want to do the right thing
-- 09/30 03:39 [financialjuice] Trump ends remarks to reporters.
-- 09/30 03:41 [FirstSquawk] TRUMP SAYS IN A MEETING WITH AI LEADERS THAT IT WAS A 'VERY GOOD MEETING, EXTREMELY FRIENDLY AND PRODUCTIVE', WITH 'A LOT OF COMMONALITY IN THE ROOM', ADDING THAT THE U.S. HAS A 'BIG LEAD ON AI AND WANT TO KEEP IT'.
-- 09/30 03:41 [FirstSquawk] TRUMP SAYS 'SELF-REGULATION IS VERY IMPORTANT IN AI', ADDING THAT THE GROUP WANTS TO WORK WITH LOCAL COMMUNITIES 'TO MAKE THE PEOPLE HAPPY' AND THAT THE AI LEADERS 'WANT TO DO THE RIGHT THING'.
-- 09/30 03:47 [financialjuice] Fed's Williams: AI is driving up asset market valuations, bolstering the wealth effect.
-- 09/30 03:48 [financialjuice] Fed's Williams: starting to see some data that shows AI bolstering productivity gains.
-- 09/30 03:49 [FirstSquawk] TRADERS CUT BETS ON OCTOBER FED HIKE; NOW SEE JUST ONE RATE HIKE BY YEAR-END AFTER WILLIAMS SAYS THERE IS “NO URGENCY” TO ACT
-- 09/30 03:49 [financialjuice] ❗ Traders trim bets on October Fed rate hike, see just one Fed rate hike by year-end after Fed's Williams says 'no urgency' on Fed action
 - 09/30 03:51 [financialjuice] Traders now see about a 50-50 chance of a Fed rate hike in October, down from about 70% previously.
 - 09/30 03:51 [FirstSquawk] TRADERS SEE 50-50 CHANCE OF OCTOBER FED RATE HIKE, DOWN FROM 70% PREVIOUSLY
 - 09/30 03:52 [financialjuice] Brent Crude futures settle at $102.59/bbl, down $2.69, 2.56%.
@@ -420,3 +395,24 @@
 - 09/30 15:08 [financialjuice] UK's PM Burnham: Cutting welfare bill will let uk meet defense goals.
 - 09/30 15:08 [FirstSquawk] GERMANY (AUG) RETAIL SALES MOM ACTUAL: 1.3% VS -3.4% PREVIOUS;EST 1.5%
 - 09/30 15:08 [FirstSquawk] GERMANY (AUG) RETAIL SALES SA YOY ACTUAL: -0.4% VS -2.5% PREVIOUS;EST -0.5%
+- 09/30 15:25 [FirstSquawk] AUD/USD holds modest rebound from 0.6960, price outlook — FX
+- 09/30 15:34 [FirstSquawk] Goldman Sachs lifts Hapag-Lloyd target price to €90 from €81
+- 09/30 15:34 [FirstSquawk] Russian strike damages Kyiv energy infrastructure, DTEK says
+- 09/30 15:37 [FirstSquawk] Israeli PM and security minister hold urgent talks with senior security officials, sources say — Alaraby TV
+- 09/30 15:38 [FirstSquawk] 7-day plan needs significant changes before progress can be discussed, senior source says — Al Arabiya
+- 09/30 15:41 [FirstSquawk] One person killed and another injured in drone attacks in Bryansk region, governor says
+- 09/30 15:42 [FirstSquawk] Israeli source: Plane expected to land in Saudi Arabia shortly, with situation to become clearer afterward
+- 09/30 15:45 [financialjuice] FRENCH HICP MOM PRELIM ACTUAL -0.4% (FORECAST -0.5%, PREVIOUS 0.7%) $MACRO
+- 09/30 15:45 [financialjuice] FRENCH CONSUMER SPENDING MOM ACTUAL -0.5% (FORECAST 0%, PREVIOUS 0.5%) $MACRO
+- 09/30 15:45 [financialjuice] FRENCH PPI YOY ACTUAL 4.8% (FORECAST -, PREVIOUS 3.4%) $MACRO
+- 09/30 15:45 [financialjuice] ❗ FRENCH CPI MOM NSA PRELIM ACTUAL -0.3% (FORECAST -0.5%, PREVIOUS 0.7%) $MACRO
+- 09/30 15:45 [financialjuice] ❗ FRENCH HICP YOY PRELIM ACTUAL 3.4% (FORECAST 3.2%, PREVIOUS 2.6%) $MACRO
+- 09/30 15:45 [financialjuice] ❗ FRENCH CPI YOY NSA PRELIM ACTUAL 3% (FORECAST 2.8%, PREVIOUS 2.4%) $MACRO
+- 09/30 15:48 [FirstSquawk] FRANCE (AUG) CONSUMER SPENDING YOY ACTUAL: 0.8% VS 1.4% PREVIOUS
+- 09/30 15:48 [FirstSquawk] FRANCE (AUG) CONSUMER SPENDING MOM ACTUAL: -0.5% VS 0.5% PREVIOUS;EST 0.0%
+- 09/30 15:48 [FirstSquawk] FRANCE (AUG) PPI YOY ACTUAL: 4.8% VS 3.4% PREVIOUS
+- 09/30 15:48 [FirstSquawk] FRANCE (AUG) PPI MOM ACTUAL: 1.0% VS 1.1% PREVIOUS
+- 09/30 15:48 [FirstSquawk] FRANCE (SEP) CPI YOY ACTUAL: 3.0% VS 2.4% PREVIOUS;EST 2.8%
+- 09/30 15:48 [FirstSquawk] FRANCE (SEP) CPI MOM ACTUAL: -0.3% VS 0.7% PREVIOUS;EST -0.5%
+- 09/30 15:48 [FirstSquawk] FRANCE (SEP) CPI EU HARMONIZED YOY ACTUAL: 3.4% VS 2.6% PREVIOUS;EST 3.2%
+- 09/30 15:48 [FirstSquawk] FRANCE (SEP) CPI EU HARMONIZED MOM ACTUAL: -0.4% VS 0.7% PREVIOUS;EST -0.5%
