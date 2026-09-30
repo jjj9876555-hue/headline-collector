@@ -7,54 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-01 02:53 JST／対象: 09/30 14:53 〜 10/01 02:53 JST（時刻はすべて日本時間）
+生成: 2026-10-01 03:20 JST／対象: 09/30 15:20 〜 10/01 03:20 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 53 | 09/30 18:55 | 10/01 02:51 | ⚠ 77分（00:53→02:11） |
-| FirstSquawk | 169 | 09/30 14:58 | 10/01 02:40 | 31分（17:30→18:02） |
-| financialjuice | 164 | 09/30 14:59 | 10/01 02:48 | ⚠ 54分（16:01→16:55） |
+| DeItaone | 56 | 09/30 18:55 | 10/01 03:18 | ⚠ 77分（00:53→02:11） |
+| FirstSquawk | 151 | 09/30 15:25 | 10/01 03:03 | 31分（17:30→18:02） |
+| financialjuice | 157 | 09/30 15:45 | 10/01 03:02 | ⚠ 54分（16:01→16:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 375 行（統合前 387 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 351 行（統合前 365 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 14:58 [FirstSquawk] Seoul and Washington discuss human rights, democracy and governance matters - YONHAP
-- 09/30 14:59 [FirstSquawk] Iran’s Araghchi to discuss U.S. feedback on seven-day proposal in Tehran on Wednesday — Reuters
-- 09/30 14:59 [financialjuice] Iran’s Aragchi and team met Qatari mediators in doha on tuesday night; Araqchi received US feedback to seven-day proposal which he will discuss in Tehran on Wednesday - Official Briefed on Talks.
-- 09/30 15:00 [financialjuice] Main disagreement between US and Iran is over sequencing, not about elements of seven-day plan - Official
-- 09/30 15:00 [financialjuice] UK CURRENT ACCOUNT ACTUAL -19.932B (FORECAST -25.5B, PREVIOUS -22.134B) $MACRO
-- 09/30 15:00 [financialjuice] UK BUSINESS INVESTMENT QOQ ACTUAL 1.75% (FORECAST 1.7%, PREVIOUS 1.7%) $MACRO
-- 09/30 15:00 [financialjuice] ‼ BREAKING: UK GDP QOQ ACTUAL 0.5% (FORECAST 0.4%, PREVIOUS 0.4%) $MACRO
-- 09/30 15:00 [financialjuice] ❗ UK GDP YOY ACTUAL 1.4% (FORECAST 1.2%, PREVIOUS 1.2%) $MACRO
-- 09/30 15:02 [financialjuice] GERMAN IMPORT PRICES YOY ACTUAL 8.3% (FORECAST 8%, PREVIOUS 6.8%) $MACRO
-- 09/30 15:02 [financialjuice] GERMAN IMPORTS PRICES MOM ACTUAL 1% (FORECAST 0.7%, PREVIOUS 0.2%) $MACRO
-- 09/30 15:05 [financialjuice] GERMAN REAL RETAIL SALES MOM ACTUAL 1.3% (FORECAST 1.5%, PREVIOUS -3.4%) $MACRO
-- 09/30 15:05 [financialjuice] GERMAN REAL RETAIL SALES YOY ACTUAL -0.4% (FORECAST -, PREVIOUS -2.5%) $MACRO
-- 09/30 15:06 [FirstSquawk] UK (Q2) GDP QOQ ACTUAL: 0.5% VS 0.4% PREVIOUS;EST 0.4%
-- 09/30 15:06 [FirstSquawk] UK (Q2) GDP YOY ACTUAL: 1.4% VS 1.2% PREVIOUS;EST 1.2%
-- 09/30 15:07 [FirstSquawk] UK (Q2) PRIVATE CONSUMPTION QOQ ACTUAL: 0.3% VS 0.3% PREVIOUS;EST 0.3%
-- 09/30 15:07 [FirstSquawk] UK (Q2) GOVERNMENT SPENDING QOQ ACTUAL: -0.5% VS -0.3% PREVIOUS;EST -0.3%
-- 09/30 15:07 [FirstSquawk] UK (Q2) GROSS FIXED CAPITAL FORMATION QOQ ACTUAL: 0.9% VS 1.2% PREVIOUS;EST 1.2%
-- 09/30 15:07 [FirstSquawk] UK (Q2) EXPORTS QOQ ACTUAL: 2.8% VS 0.5% PREVIOUS;EST 0.5%
-- 09/30 15:07 [FirstSquawk] UK (Q2) IMPORTS QOQ ACTUAL: 0.0% VS 0.5% PREVIOUS;EST 0.5%
-- 09/30 15:07 [FirstSquawk] UK (Q2) TOTAL BUSINESS INVESTMENT QOQ ACTUAL: 1.8% VS 1.7% PREVIOUS;EST 1.7%
-- 09/30 15:07 [FirstSquawk] UK (Q2) TOTAL BUSINESS INVESTMENT YOY ACTUAL: 5.2% VS 0.8% PREVIOUS;EST 0.8%
-- 09/30 15:07 [FirstSquawk] UK (Q2) CURRENT ACCOUNT BALANCE ACTUAL: -19.9B VS -22.1B PREVIOUS;EST -25.5B
-- 09/30 15:08 [FirstSquawk] GERMANY (AUG) IMPORT PRICE INDEX MOM ACTUAL: 1% VS 0.2% PREVIOUS;EST 0.7%
-- 09/30 15:08 [FirstSquawk] GERMANY (AUG) IMPORT PRICE INDEX YOY ACTUAL: 8.3% VS 6.8% PREVIOUS;EST 8.0%
-- 09/30 15:08 [FirstSquawk] JAPAN (AUG) MACHINE TOOL ORDERS YOY ACTUAL: 64.7% VS 64.7% PREVIOUS
-- 09/30 15:08 [FirstSquawk] SWEDEN (AUG) RETAIL SALES MOM ACTUAL: 0.8% VS -0.2% PREVIOUS
-- 09/30 15:08 [FirstSquawk] SWEDEN (AUG) RETAIL SALES WDA YOY ACTUAL: 6.9% VS 6.2% PREVIOUS
-- 09/30 15:08 [FirstSquawk] SWEDEN (JUL) WAGES NON MANUAL WORKERS YOY ACTUAL: 2.9% VS 3.4% PREVIOUS
-- 09/30 15:08 [financialjuice] UK's PM Burnham: Cutting welfare bill will let uk meet defense goals.
-- 09/30 15:08 [FirstSquawk] GERMANY (AUG) RETAIL SALES MOM ACTUAL: 1.3% VS -3.4% PREVIOUS;EST 1.5%
-- 09/30 15:08 [FirstSquawk] GERMANY (AUG) RETAIL SALES SA YOY ACTUAL: -0.4% VS -2.5% PREVIOUS;EST -0.5%
 - 09/30 15:25 [FirstSquawk] AUD/USD holds modest rebound from 0.6960, price outlook — FX
 - 09/30 15:34 [FirstSquawk] Goldman Sachs lifts Hapag-Lloyd target price to €90 from €81
 - 09/30 15:34 [FirstSquawk] Russian strike damages Kyiv energy infrastructure, DTEK says
@@ -399,3 +368,10 @@
 - 10/01 02:43 [financialjuice] USTR Greer interview on Fox business ends
 - 10/01 02:48 [financialjuice/DeItaone] Trump on Iran: You will see things happening very soon
 - 10/01 02:51 [DeItaone] *TRUMP: HISTORIC FLOWS OF OIL OUT OF HORMUZ IN LAST 3 DAYS
+- 10/01 02:54 [financialjuice] Intel adds openshell policy layer to AI agent toolkit $INTC
+- 10/01 02:54 [financialjuice] Intel adds nvidia openshell policy layer to AI agent toolkit $INTC $NVDA
+- 10/01 02:55 [DeItaone] SPACEXAI CONSIDERS $100 GROK “ULTRA” SUBSCRIPTION Elon Musk’s SpaceXAI is considering a four-tier subscription model combining Grok and X, Bloomberg reports. Plans reportedly range from a free tier to a $100-per-month “Ultra” package, which…
+- 10/01 03:01 [financialjuice/FirstSquawk] Israel needs to understand that normalization cannot be forced - Jerusalem Post citing a source close to the Saudi royal family:
+- 10/01 03:01 [DeItaone] ITALY PROLONGS UNTIL MID-OCTOBER SUSPENSION OF EU'S SCHENGEN FREE BORDER AGREEMENT WITH SPAIN - STATEMENT
+- 10/01 03:02 [financialjuice/FirstSquawk] Israel's Foreign Minister: I spoke with my UAE counterpart and agreed with him to cooperate against extremist elements threatening regional security and stability - Post on X.
+- 10/01 03:18 [DeItaone] S&P 500 BREADTH FLASHES RARE WARNING The equal-weight S&P 500 is heading for a seventh straight weekly decline — something seen only twice before, during 2002 and 2022 bear markets. Yet the headline S&P 500 remains broadly stable, as tech m…

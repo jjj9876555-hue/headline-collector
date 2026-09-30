@@ -7,59 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-01 02:53 JST／対象: 09/30 02:53 〜 10/01 02:53 JST（時刻はすべて日本時間）
+生成: 2026-10-01 03:20 JST／対象: 09/30 03:20 〜 10/01 03:20 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 75 | 09/30 04:01 | 10/01 02:51 | ⚠ 789分（05:46→18:55） |
-| FirstSquawk | 374 | 09/30 02:56 | 10/01 02:40 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 347 | 09/30 02:54 | 10/01 02:48 | ⚠ 80分（10:57→12:18） |
+| DeItaone | 78 | 09/30 04:01 | 10/01 03:18 | ⚠ 789分（05:46→18:55） |
+| FirstSquawk | 364 | 09/30 03:32 | 10/01 03:03 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 327 | 09/30 03:22 | 10/01 03:02 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 777 行（統合前 800 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 748 行（統合前 772 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 02:54 [financialjuice] BoC's Gravelle: Balance sheet GoC purchases may not start until 2028.
-- 09/30 02:55 [financialjuice] OpenAI: Investigating elevated errors with ChatGPT, Codex
-- 09/30 02:56 [FirstSquawk] BANK OF CANADA PUSHES BACK TIMELINE FOR GOVERNMENT BOND PURCHASES; COULD START IN LATE 2027 OR 2028
-- 09/30 02:56 [FirstSquawk] OPENAI INVESTIGATING ELEVATED ERROR RATES AFFECTING CHATGPT & CODEX
-- 09/30 02:56 [financialjuice] BoC's Gravelle: Hedge fund positions may amplify bond-market stress
-- 09/30 02:56 [financialjuice] Fed's Goolsbee: Massive deficits are a form of stimulus and can overheat the economy
-- 09/30 03:00 [financialjuice] Fed's Goolsbee: In the dot plot, I'm one of the more optimistic folks at the Fed
-- 09/30 03:00 [financialjuice] ❗ Fed's Williams: If the economy meets expectations, one further hike is likely this year.
-- 09/30 03:00 [financialjuice] Fed's Williams: sees no need for urgency after september rate hike.
-- 09/30 03:01 [financialjuice] Fed's Williams: Fed will respond to data when setting monetary policy.
-- 09/30 03:01 [financialjuice] Fed's Williams: More data will help the Fed decide what's next for rate policy.
-- 09/30 03:01 [financialjuice] Fed's Williams: The Fed must make sure high inflation does not become entrenched.
-- 09/30 03:01 [financialjuice] ❗ Fed's Williams: I see inflation at 3.5% this year, hit 2% target in 2028.
-- 09/30 03:01 [financialjuice] Fed's williams: Fed policy can make sure the impact of supply shocks is not long-lasting.
-- 09/30 03:01 [financialjuice] fed's Williams: AI investment issues are an increasingly big issue for inflation.
-- 09/30 03:01 [financialjuice] Fed's Williams: I see US GDP at 2.25% this year, unemployment at 4% over 2027.
-- 09/30 03:01 [financialjuice] Fed's Williams: US economic momentum is strong and may be strengthening.
-- 09/30 03:02 [financialjuice] Fed's Goolsbee: We have to get evidence that inflation is coming back down.
-- 09/30 03:02 [FirstSquawk] FED'S WILLIAMS SAYS THAT IF THE ECONOMY MEETS EXPECTATIONS, ONE FURTHER HIKE IS LIKELY THIS YEAR, THOUGH HE SEES 'NO NEED FOR URGENCY' AFTER THE SEPTEMBER RATE HIKE AND SAYS MORE DATA WILL HELP THE FED DECIDE WHAT'S NEXT, WITH POLICY RESPON…
-- 09/30 03:02 [FirstSquawk] FED'S WILLIAMS SAYS IT IS IMPERATIVE TO GET INFLATION BACK TO 2% AND THAT THE FED MUST MAKE SURE HIGH INFLATION DOES NOT BECOME ENTRENCHED, WHILE FED POLICY CAN ENSURE THE IMPACT OF SUPPLY SHOCKS IS NOT LONG-LASTING, SEEING INFLATION AT 3.5…
-- 09/30 03:02 [FirstSquawk] FED'S WILLIAMS SAYS U.S. ECONOMIC MOMENTUM IS STRONG AND MAY BE STRENGTHENING, SEEING GDP AT 2.25% THIS YEAR AND UNEMPLOYMENT AT 4% OVER 2027, AND ADDS THAT AI INVESTMENT ISSUES ARE AN INCREASINGLY BIG ISSUE FOR INFLATION.
-- 09/30 03:03 [FirstSquawk] COINBASE REPORTS DELAYS IN SUI SENDS & RECEIVES; BUYS, SELLS AND FIAT TRANSFERS UNAFFECTED — WEBSITE
-- 09/30 03:04 [FirstSquawk] FED’S MUSALEM: AI CAPEX BOOM IS CURRENTLY DRIVING DEMAND PRESSURE, WITH PRODUCTIVITY & “SUPPLY RELIEF” NOT YET VISIBLE
-- 09/30 03:04 [financialjuice] Fed's Musalem: Fed can't ease rates based on expected AI productivity
-- 09/30 03:05 [financialjuice] Fed's musalem: Right now the AI CAPEX boom is resulting in demand pressure, with productivity and "supply relief" not yet apparent.
-- 09/30 03:05 [financialjuice] fed's Musalem: The economy is very strong now, but predicated on continued growth.
-- 09/30 03:05 [FirstSquawk] FED'S MUSALEM SAYS THE ECONOMY IS VERY STRONG NOW, BUT THAT THIS IS PREDICATED ON CONTINUED GROWTH, ADDING THAT THE FED CAN'T EASE RATES BASED ON EXPECTED AI PRODUCTIVITY.
-- 09/30 03:05 [FirstSquawk] FED'S MUSALEM SAYS THAT RIGHT NOW THE AI CAPEX BOOM IS RESULTING IN DEMAND PRESSURE, WITH PRODUCTIVITY AND 'SUPPLY RELIEF' NOT YET APPARENT.
-- 09/30 03:05 [financialjuice] Fed's Musalem: US economic growth is strong, labor market in a good place.
-- 09/30 03:09 [financialjuice] Fed's Musalem: Logic of 'looking through' supply shocks weakens when one shock follows another; heightens risk of broader inflation taking root
-- 09/30 03:11 [financialjuice] Fed's Musalem: About half of inflation now is from persistent demand pressure
-- 09/30 03:12 [FirstSquawk] LINEAGE AND BSF HAVE EXTENDED THEIR 25-YEAR RELATIONSHIP, WITH LINEAGE CONTINUING TO MANAGE WAREHOUSING AND DISTRIBUTION OPERATIONS FOR BSF UNDER A RENEWED COMMERCIAL WAREHOUSING AGREEMENT THAT RUNS THROUGH JUNE 30, 2028
-- 09/30 03:13 [financialjuice] Fed's Musalem: Inflation expectations remain consistent with 2% inflation over the long run
-- 09/30 03:14 [FirstSquawk] LOCKHEED MARTIN SAYS AVIO USA HAS BROKEN GROUND ON ITS FIRST U.S. SOLID ROCKET MOTOR FACILITY IN VIRGINIA, WHICH WILL PRODUCE THOUSANDS OF SOLID ROCKET MOTORS ANNUALLY AND CREATE 1,500 JOBS
-- 09/30 03:19 [FirstSquawk] OPENAI: HUGGING FACE INCIDENT WAS THE MOST SEVERE PLATFORM INCIDENT TO DATE
-- 09/30 03:19 [financialjuice] OpenaAI: Hugging Face event most severe platform incident so far.
 - 09/30 03:22 [financialjuice] Fed's Musalem: The Fed's SEP could be improved by anonymously connecting rate "dots" with economic projections
 - 09/30 03:27 [financialjuice] Fed's Musalem: Monetary policy remains somewhat accommodative even after the last rate hike.
 - 09/30 03:29 [financialjuice] Sounds like this White House AI meeting is wrapping up... Pool says press has been called to gather for an event - Fox News reporter
@@ -801,3 +765,10 @@
 - 10/01 02:43 [financialjuice] USTR Greer interview on Fox business ends
 - 10/01 02:48 [financialjuice/DeItaone] Trump on Iran: You will see things happening very soon
 - 10/01 02:51 [DeItaone] *TRUMP: HISTORIC FLOWS OF OIL OUT OF HORMUZ IN LAST 3 DAYS
+- 10/01 02:54 [financialjuice] Intel adds openshell policy layer to AI agent toolkit $INTC
+- 10/01 02:54 [financialjuice] Intel adds nvidia openshell policy layer to AI agent toolkit $INTC $NVDA
+- 10/01 02:55 [DeItaone] SPACEXAI CONSIDERS $100 GROK “ULTRA” SUBSCRIPTION Elon Musk’s SpaceXAI is considering a four-tier subscription model combining Grok and X, Bloomberg reports. Plans reportedly range from a free tier to a $100-per-month “Ultra” package, which…
+- 10/01 03:01 [financialjuice/FirstSquawk] Israel needs to understand that normalization cannot be forced - Jerusalem Post citing a source close to the Saudi royal family:
+- 10/01 03:01 [DeItaone] ITALY PROLONGS UNTIL MID-OCTOBER SUSPENSION OF EU'S SCHENGEN FREE BORDER AGREEMENT WITH SPAIN - STATEMENT
+- 10/01 03:02 [financialjuice/FirstSquawk] Israel's Foreign Minister: I spoke with my UAE counterpart and agreed with him to cooperate against extremist elements threatening regional security and stability - Post on X.
+- 10/01 03:18 [DeItaone] S&P 500 BREADTH FLASHES RARE WARNING The equal-weight S&P 500 is heading for a seventh straight weekly decline — something seen only twice before, during 2002 and 2022 bear markets. Yet the headline S&P 500 remains broadly stable, as tech m…

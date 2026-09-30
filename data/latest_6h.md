@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 02:53 JST／対象: 09/30 20:53 〜 10/01 02:53 JST（時刻はすべて日本時間）
+生成: 2026-10-01 03:20 JST／対象: 09/30 21:20 〜 10/01 03:20 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 34 | 09/30 21:00 | 10/01 02:51 | ⚠ 77分（00:53→02:11） |
-| FirstSquawk | 76 | 09/30 21:00 | 10/01 02:40 | 27分（02:02→02:30） |
-| financialjuice | 104 | 09/30 21:00 | 10/01 02:48 | 35分（01:01→01:37） |
+| DeItaone | 34 | 09/30 21:30 | 10/01 03:18 | ⚠ 77分（00:53→02:11） |
+| FirstSquawk | 73 | 09/30 21:30 | 10/01 03:03 | 27分（02:02→02:30） |
+| financialjuice | 99 | 09/30 21:30 | 10/01 03:02 | 35分（01:01→01:37） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 205 行（統合前 215 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 195 行（統合前 207 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 21:00 [DeItaone] U.S. TREASURIES END A BRUTAL QUARTER The U.S. bond market is closing Q3 after a relentless selloff, with 10- and 30-year Treasury yields reaching multidecade highs. According to WSJ/Dow Jones Market Data: 🔸 10-year: +85 bps, biggest quarter…
-- 09/30 21:00 [financialjuice] ❗ GERMAN HICP YOY PRELIM ACTUAL 3.3% (FORECAST 3.2%, PREVIOUS 2.90%) $MACRO
-- 09/30 21:00 [financialjuice] GERMAN HICP MOM PRELIM ACTUAL 0.6% (FORECAST 0.5%, PREVIOUS 0.20%) $MACRO
-- 09/30 21:00 [financialjuice] ❗ GERMAN CPI YOY PRELIM ACTUAL 3.3% (FORECAST 3.1%, PREVIOUS 2.90%) $MACRO
-- 09/30 21:00 [financialjuice] GERMAN CPI MOM PRELIM ACTUAL 0.6% (FORECAST 0.5%, PREVIOUS 0.20%) $MACRO
-- 09/30 21:00 [FirstSquawk] GERMANY PRELIM SEPT. HARMONIZED CPI RISES 3.3% Y/Y; EST. +3.2%
-- 09/30 21:01 [FirstSquawk] Germany CPI (M/M) Sep P: 0.6% (est 0.5%; prev 0.2%) - CPI (Y/Y): 3.3% (est 3.1%; prev 2.9%) - CPI EU Harmonised (M/M: 0.6% (est 0.5%; prev 0.2%) - CPI EU Harmonised (Y/Y): 3.3% (est 3.2%; prev 2.9%)
-- 09/30 21:01 [financialjuice] Secured Overnight Financing Rate 3.88% September 29 vs 3.90% September 28.
-- 09/30 21:02 [DeItaone] GERMANY SEP FLASH HICP 0.6% M/M (0.2% AUG) GERMANY SEP FLASH HICP 3.3% Y/Y (2.9% AUG) GERMANY SEP FLASH NATIONAL CPI 0.6% M/M (0.2% AUG) GERMANY SEP FLASH NATIONAL CPI 3.3% Y/Y (2.9% AUG)
-- 09/30 21:02 [FirstSquawk] QATAR FLOATS NEW PROPOSAL FOR US-IRAN WAR SEEKING CONCESSIONS FROM BOTH SIDES
-- 09/30 21:05 [financialjuice] German CPI September Prelim Report
-- 09/30 21:07 [FirstSquawk] LILLY'S EBGLYSS MEETS PRIMARY ENDPOINT IN PHASE 3B ADTOUCH
-- 09/30 21:08 [financialjuice] Morning Juice - US Session Prep (30th September)
-- 09/30 21:14 [DeItaone] GERMAN INFLATION HITS HIGHEST LEVEL IN NEARLY 3 YEARS Germany’s September inflation accelerated to 3.3% YoY, above the 3.2% forecast, driven primarily by surging energy costs. With inflation also accelerating across France, Italy and Spain,…
-- 09/30 21:15 [FirstSquawk] US ADP NONFARM EMPLOYMENT CHANGE (SEP) ACTUAL: 90K VS 75K PREVIOUS; EST 38K
-- 09/30 21:15 [financialjuice] ❗ US ADP EMPLOYMENT CHANGE ACTUAL 90K (FORECAST 74.5K, PREVIOUS 38K) $MACRO
-- 09/30 21:16 [financialjuice] France’s President Macron: Trade war with china, cutting ties would make no sense.
 - 09/30 21:30 [DeItaone] US FINAL Q2 GDP +2.2% (CONSENSUS +1.5%) US FINAL Q2 PCE PRICE INDEX +5.0% US FINAL Q2 CORE PCE +3.3% (CONSENSUS +3.6%)
 - 09/30 21:30 [financialjuice] US ADVANCE GOODS TRADE BALANCE ACTUAL -132.6B (FORECAST -115B, PREVIOUS -118.94B) $MACRO
 - 09/30 21:30 [financialjuice] US WHOLESALE INVENTORIES MOM ADVANCE ACTUAL 0.7% (FORECAST 0.5%, PREVIOUS 1.3%) $MACRO
@@ -229,3 +212,10 @@
 - 10/01 02:43 [financialjuice] USTR Greer interview on Fox business ends
 - 10/01 02:48 [financialjuice/DeItaone] Trump on Iran: You will see things happening very soon
 - 10/01 02:51 [DeItaone] *TRUMP: HISTORIC FLOWS OF OIL OUT OF HORMUZ IN LAST 3 DAYS
+- 10/01 02:54 [financialjuice] Intel adds openshell policy layer to AI agent toolkit $INTC
+- 10/01 02:54 [financialjuice] Intel adds nvidia openshell policy layer to AI agent toolkit $INTC $NVDA
+- 10/01 02:55 [DeItaone] SPACEXAI CONSIDERS $100 GROK “ULTRA” SUBSCRIPTION Elon Musk’s SpaceXAI is considering a four-tier subscription model combining Grok and X, Bloomberg reports. Plans reportedly range from a free tier to a $100-per-month “Ultra” package, which…
+- 10/01 03:01 [financialjuice/FirstSquawk] Israel needs to understand that normalization cannot be forced - Jerusalem Post citing a source close to the Saudi royal family:
+- 10/01 03:01 [DeItaone] ITALY PROLONGS UNTIL MID-OCTOBER SUSPENSION OF EU'S SCHENGEN FREE BORDER AGREEMENT WITH SPAIN - STATEMENT
+- 10/01 03:02 [financialjuice/FirstSquawk] Israel's Foreign Minister: I spoke with my UAE counterpart and agreed with him to cooperate against extremist elements threatening regional security and stability - Post on X.
+- 10/01 03:18 [DeItaone] S&P 500 BREADTH FLASHES RARE WARNING The equal-weight S&P 500 is heading for a seventh straight weekly decline — something seen only twice before, during 2002 and 2022 bear markets. Yet the headline S&P 500 remains broadly stable, as tech m…
