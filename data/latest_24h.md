@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-30 21:54 JST／対象: 09/29 21:54 〜 09/30 21:54 JST（時刻はすべて日本時間）
+生成: 2026-09-30 22:10 JST／対象: 09/29 22:10 〜 09/30 22:10 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 101 | 09/29 22:14 | 09/30 21:51 | ⚠ 789分（05:46→18:55） |
-| FirstSquawk | 402 | 09/29 22:00 | 09/30 21:53 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 425 | 09/29 21:55 | 09/30 21:49 | ⚠ 80分（10:57→12:18） |
+| DeItaone | 102 | 09/29 22:14 | 09/30 22:02 | ⚠ 789分（05:46→18:55） |
+| FirstSquawk | 402 | 09/29 22:12 | 09/30 22:06 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 426 | 09/29 22:14 | 09/30 22:03 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 906 行（統合前 934 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 908 行（統合前 936 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 21:55 [financialjuice] US REDBOOK YOY ACTUAL 8.2% (FORECAST -, PREVIOUS 7.6%) $MACRO
-- 09/29 22:00 [financialjuice] US HOUSE PRICE INDEX MOM ACTUAL 0.3% (FORECAST 0.1%, PREVIOUS 0.0%) $MACRO
-- 09/29 22:00 [financialjuice] US CASESHILLER 20 YOY ACTUAL 2.47% (FORECAST 2.2%, PREVIOUS 2.1%) $MACRO
-- 09/29 22:00 [financialjuice] US HOUSE PRICE INDEX YOY ACTUAL 2.6% (FORECAST -, PREVIOUS 2.3%) $MACRO
-- 09/29 22:00 [FirstSquawk] US FHFA HOUSE PRICE INDEX (M/M) JUL: 0.3% (EST 0.1%; PREV 0.0%)
-- 09/29 22:02 [financialjuice] US Case-Shiller July Report
-- 09/29 22:06 [FirstSquawk] EU: NO TALKS PLANNED TO RENEGOTIATE UKRAINE EXPORT QUOTAS
 - 09/29 22:12 [FirstSquawk] LITHUANIA PREMIER 'READY TO PAY' FOR PERMANENT US DEPLOYMENT
 - 09/29 22:13 [FirstSquawk] SEC: WON'T RECOMMEND ACTION ON TESLA RETAIL VOTING PROGRAM
 - 09/29 22:13 [FirstSquawk] JEFFERIES CUTS HERMES TARGET PRICE TO EUR 1,600 FROM EUR 2,000
@@ -930,3 +923,12 @@
 - 09/30 21:49 [financialjuice] EU Commission Spokesperson Ujvari: The EU is open to engaging on relationship options the UK may put forward - Statement
 - 09/30 21:51 [DeItaone] U.S. S&P 500 E-MINI FUTURES UP 0.3%, NASDAQ 100 FUTURES UP 0.29%, DOW FUTURES UP 0.26%
 - 09/30 21:53 [FirstSquawk] EU OPEN TO ENGAGING ON RELATIONSHIP OPTIONS UK MAY PUT FORWARD
+- 09/30 22:00 [financialjuice] Effective fed funds rate 3.88% September 29th vs 3.88% September 28th.
+- 09/30 22:01 [FirstSquawk] BMW AIMS TO CUT 20% OF MANAGEMENT JOBS WITH AI ASSISTANCE.
+- 09/30 22:01 [financialjuice] Fed's Barr opposes final rule, changes will weaken stress test.
+- 09/30 22:01 [financialjuice] Fed: Changes are likely to reduce year-over-year volatility in bank capital requirements by roughly 50% while not materially affecting aggregate capital requirements
+- 09/30 22:02 [financialjuice] Fed: Final rule largely similar to the proposed rule aimed at making tests more transparent and predictable
+- 09/30 22:02 [financialjuice] UK's MI5 Issues Espionage Alert Over Chinese Body Targeting British Academics
+- 09/30 22:02 [DeItaone] FRENCH 10Y YIELD PREMIUM OVER GERMANY CLIMBS 5BPS TO 124BPS
+- 09/30 22:03 [financialjuice] Coreweave to offer NVIDIA vera cpu for agentic AI $NVDA
+- 09/30 22:06 [FirstSquawk] FED SAYS FINAL RULE LARGELY SIMILAR TO PROPOSED RULE AIMED AT MAKING TESTS MORE TRANSPARENT AND PREDICTABLE

@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-30 21:54 JST／対象: 09/30 09:54 〜 09/30 21:54 JST（時刻はすべて日本時間）
+生成: 2026-09-30 22:10 JST／対象: 09/30 10:10 〜 09/30 22:10 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 31 | 09/30 18:55 | 09/30 21:51 | 18分（20:30→20:48） |
-| FirstSquawk | 199 | 09/30 09:55 | 09/30 21:53 | 31分（17:30→18:02） |
-| financialjuice | 134 | 09/30 10:00 | 09/30 21:49 | ⚠ 80分（10:57→12:18） |
+| DeItaone | 32 | 09/30 18:55 | 09/30 22:02 | 18分（20:30→20:48） |
+| FirstSquawk | 193 | 09/30 10:11 | 09/30 22:06 | 31分（17:30→18:02） |
+| financialjuice | 139 | 09/30 10:16 | 09/30 22:03 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 358 行（統合前 364 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,15 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 09:55 [FirstSquawk] WSJ: Oil prices mixed, with production recovery potentially weighing on prices
-- 09/30 09:55 [FirstSquawk] WSJ: Nikkei climbs 1.5%, driven by gains in chip and bank stocks
-- 09/30 09:56 [FirstSquawk] WSJ: Short-term JGBs advance alongside gains in similar-maturity U.S. Treasurys
-- 09/30 09:59 [FirstSquawk] FXStreet: Euro weakens below 1.1350 as Lagarde signals dovish stance, German retail sales awaited
-- 09/30 10:00 [financialjuice] Taiwan overnight interbank rate starts at 0.805% vs 0.805% at prior session open
-- 09/30 10:00 [FirstSquawk] Philippines August exports climb 27.8% versus year ago
-- 09/30 10:01 [FirstSquawk] Taiwan overnight interbank rate opens unchanged at 0.805% from previous session
-- 09/30 10:02 [FirstSquawk] WSJ: Market turbulence and AI safety worries cloud prospects for blockbuster fall IPOs
-- 09/30 10:07 [FirstSquawk] South Korea calls for closer coordination between donor and recipient nations on development projects - yonhap
 - 09/30 10:11 [FirstSquawk] South Korean envoy says Seoul remains committed to facilitating renewed U.S.-North Korea dialogue - yonhap
 - 09/30 10:13 [FirstSquawk] Fitch Ratings says Vietnam banks’ capitalisation will remain steady as lenders pursue $5.7 billion in fresh capital
 - 09/30 10:15 [FirstSquawk] PBOC fixes yuan midpoint at 6.7351 against the dollar
@@ -382,3 +373,12 @@
 - 09/30 21:49 [financialjuice] EU Commission Spokesperson Ujvari: The EU is open to engaging on relationship options the UK may put forward - Statement
 - 09/30 21:51 [DeItaone] U.S. S&P 500 E-MINI FUTURES UP 0.3%, NASDAQ 100 FUTURES UP 0.29%, DOW FUTURES UP 0.26%
 - 09/30 21:53 [FirstSquawk] EU OPEN TO ENGAGING ON RELATIONSHIP OPTIONS UK MAY PUT FORWARD
+- 09/30 22:00 [financialjuice] Effective fed funds rate 3.88% September 29th vs 3.88% September 28th.
+- 09/30 22:01 [FirstSquawk] BMW AIMS TO CUT 20% OF MANAGEMENT JOBS WITH AI ASSISTANCE.
+- 09/30 22:01 [financialjuice] Fed's Barr opposes final rule, changes will weaken stress test.
+- 09/30 22:01 [financialjuice] Fed: Changes are likely to reduce year-over-year volatility in bank capital requirements by roughly 50% while not materially affecting aggregate capital requirements
+- 09/30 22:02 [financialjuice] Fed: Final rule largely similar to the proposed rule aimed at making tests more transparent and predictable
+- 09/30 22:02 [financialjuice] UK's MI5 Issues Espionage Alert Over Chinese Body Targeting British Academics
+- 09/30 22:02 [DeItaone] FRENCH 10Y YIELD PREMIUM OVER GERMANY CLIMBS 5BPS TO 124BPS
+- 09/30 22:03 [financialjuice] Coreweave to offer NVIDIA vera cpu for agentic AI $NVDA
+- 09/30 22:06 [FirstSquawk] FED SAYS FINAL RULE LARGELY SIMILAR TO PROPOSED RULE AIMED AT MAKING TESTS MORE TRANSPARENT AND PREDICTABLE
