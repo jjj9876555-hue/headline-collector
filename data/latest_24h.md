@@ -7,44 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-30 23:52 JST／対象: 09/29 23:52 〜 09/30 23:52 JST（時刻はすべて日本時間）
+生成: 2026-10-01 00:10 JST／対象: 09/30 00:10 〜 10/01 00:10 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 88 | 09/30 00:01 | 09/30 23:35 | ⚠ 789分（05:46→18:55） |
-| FirstSquawk | 387 | 09/30 00:00 | 09/30 23:50 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 430 | 09/29 23:57 | 09/30 23:52 | ⚠ 80分（10:57→12:18） |
+| DeItaone | 86 | 09/30 00:25 | 09/30 23:35 | ⚠ 789分（05:46→18:55） |
+| FirstSquawk | 386 | 09/30 00:15 | 10/01 00:08 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 419 | 09/30 00:12 | 10/01 00:08 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 885 行（統合前 910 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 871 行（統合前 895 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 23:57 [financialjuice] Qatar's UCC oil and gas in talks for possible entrance into oil and gas areas in Venezuela - Upstream Head Erik Keskula.
-- 09/29 23:59 [financialjuice] EU oil coordination group finds supply stable and there are concern on price.
-- 09/30 00:00 [FirstSquawk] US TREASURY 30-YEAR YIELD RISES TO 5.595%, HIGHEST SINCE 2002
-- 09/30 00:00 [financialjuice] EU Oil Coordination group finds supply stable for the time being.
-- 09/30 00:00 [financialjuice] US to sell $100 bln 4-Week bills on Oct 1st, to settle on Oct 6th
-- 09/30 00:00 [financialjuice] Fed's Bowman does not comment on economic or monetary policy outlook in opening remarks to banking workshop.
-- 09/30 00:01 [DeItaone] U.S. 30-YEAR YIELD NEARS HIGHEST SINCE 2002 The U.S. 30-year Treasury yield climbed to 5.58%, within 1 basis point of its highest level since 2002, extending its rise for a sixth straight session. The 10-year yield reached 5.24%, its highes…
-- 09/30 00:01 [financialjuice] EU Oil Coordination Group: EU refineries running near max capacity.
-- 09/30 00:01 [financialjuice] EU Oil coordination group's next meeting scheduled for Oct. 15th
-- 09/30 00:02 [financialjuice] The EU Commission is going to convene an extra oil coordination group meeting, if need.
-- 09/30 00:02 [FirstSquawk] EU OIL COORDINATION GROUP NEXT MEETING IS SCHEDULED FOR 15TH OCTOBER
-- 09/30 00:03 [financialjuice] ❗ UK's PM Burnham Spokesman doesn’t rule out UK rejoining EU
-- 09/30 00:04 [FirstSquawk] UK PM BURNHAM SPOX DOESN’T JOIN OUT UK REJOINING EU
-- 09/30 00:04 [financialjuice] China comments on reports of EU members drafting 301 tools: Moves will disrupt supply chain stability.
-- 09/30 00:05 [financialjuice] The UK pensions change is going to save £15 billion by 2040 - Official.
-- 09/30 00:05 [financialjuice] ❗ UK's PM Burnham official doesn’t rule out tax rises to fund care.
-- 09/30 00:05 [financialjuice] China urges the EU to use dialogs to solve disputes.
-- 09/30 00:06 [financialjuice] China vows response if EU goes ahead with discriminatory moves.
-- 09/30 00:08 [DeItaone] EU OIL COORDINATION GROUP MET ON TUESDAY, CONFIRMED SUPPLY STABLE DESPITE HIGH DIESEL AND JET FUEL PRICES EU SAYS BLOC'S OIL REFINERIES ARE RUNNING AT NEAR-MAXIMUM CAPACITY, RESPONDING WELL TO MARKET SIGNALS
-- 09/30 00:08 [FirstSquawk] CHINA MOFCOM ON REPORTS OF EU MEMBERS DRAFTING 301 TOOLS: MOVES WILL DISRUPT SUPPLY CHAIN STABILITY
-- 09/30 00:09 [FirstSquawk] UK PENSIONS CHANGE TO SAVE £15 BILLION BY 2040: OFFICIAL
 - 09/30 00:12 [financialjuice] Trump will headline a midterm rally in Nebraska on Monday - CNN.
 - 09/30 00:15 [FirstSquawk] APPLE’S NEW CEO MOVES TO OVERHAUL COMPANY TO RUN FASTER, LEANER
 - 09/30 00:15 [FirstSquawk] APPLE’S TERNUS DISCUSSES HOLDING MORE FREQUENT PRODUCT LAUNCHES
@@ -909,3 +888,10 @@
 - 09/30 23:50 [financialjuice] Russian Foreign Ministry Spokeswoman: Claims that Russia does not want peace are unfounded.
 - 09/30 23:50 [FirstSquawk] RUSSIAN FOREIGN MINISTRY SPOX CALLS CLAIMS RUSSIA DOESN’T WANT PEACE ‘UNFOUNDED’
 - 09/30 23:52 [financialjuice] EIA: US domestic crude oil production rose in latest week to record highs
+- 09/30 23:54 [FirstSquawk] US DOMESTIC PRODUCTION OF CRUDE OIL ROSE IN LATEST WEEK TO RECORD HIGHS, EIA SAYS
+- 09/30 23:57 [financialjuice] Senate Republican Leader Thune: I have yet to receive diesel proposal from White House
+- 09/30 23:58 [FirstSquawk] US SENATE MAJORITY LEADER THUNE: YET TO RECEIVE DIESEL PROPOSAL FROM WHITE HOUSE
+- 10/01 00:01 [financialjuice] US Treasury: Will buy up to $6 bln of 10-20 Year debt in October 1st liquidity buyback
+- 10/01 00:02 [FirstSquawk] US TREASURY TO BUY UP TO $6 BLN OF 10-20 YEAR DEBT IN OCTOBER 1 LIQUIDITY BUYBACK
+- 10/01 00:08 [financialjuice] Senate Republican Leader Thune: Congress may raise debt limit after election
+- 10/01 00:08 [FirstSquawk] SIKORSKY, US ARMY REACH NOVEL PRODUCTION AGREEMENT FOR BLACK HAWK HELICOPTER TO ACCELERATE US AND ALLIED FIELDING - LMT

@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-30 23:52 JST／対象: 09/30 11:52 〜 09/30 23:52 JST（時刻はすべて日本時間）
+生成: 2026-10-01 00:10 JST／対象: 09/30 12:10 〜 10/01 00:10 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 41 | 09/30 18:55 | 09/30 23:35 | 20分（22:25→22:46） |
-| FirstSquawk | 174 | 09/30 11:55 | 09/30 23:50 | 31分（17:30→18:02） |
-| financialjuice | 128 | 09/30 12:18 | 09/30 23:52 | ⚠ 58分（14:00→14:59） |
+| FirstSquawk | 171 | 09/30 12:15 | 10/01 00:08 | 31分（17:30→18:02） |
+| financialjuice | 131 | 09/30 12:18 | 10/01 00:08 | ⚠ 58分（14:00→14:59） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 334 行（統合前 343 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,13 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 11:55 [FirstSquawk] Indonesia central bank will use spot instruments to respond to FX volatility when necessary — official
-- 09/30 11:56 [FirstSquawk] Brooklyn Nets name Alibaba Group official technology and cloud partner
-- 09/30 12:03 [FirstSquawk] Air New Zealand refers to TAIC report on engine fire aboard NZ5366 flight from Christchurch to Wellington
-- 09/30 12:03 [FirstSquawk] TAIC found turbine blade fatigue caused Air New Zealand flight fire, with no evidence of maintenance or operating issues contributing to failure
-- 09/30 12:04 [FirstSquawk] Air New Zealand says TAIC found no other similar turbine blade failures in PW100 engine series
-- 09/30 12:04 [FirstSquawk] Air New Zealand accepts TAIC findings, cites changes to training, procedures and passenger safety information
-- 09/30 12:09 [FirstSquawk] JPMorgan lifts Mondi target price to 890p from 800p
 - 09/30 12:15 [FirstSquawk] Singapore dollar steadies ahead of major U.S. economic data — WSJ
 - 09/30 12:18 [financialjuice/FirstSquawk] China Finance Ministry to sell 20 billion yuan of 28-day bills on Oct. 8
 - 09/30 12:19 [financialjuice] China finance ministry: to reopen 80 billion yuan 10-year bonds on Oct. 9
@@ -358,3 +351,10 @@
 - 09/30 23:50 [financialjuice] Russian Foreign Ministry Spokeswoman: Claims that Russia does not want peace are unfounded.
 - 09/30 23:50 [FirstSquawk] RUSSIAN FOREIGN MINISTRY SPOX CALLS CLAIMS RUSSIA DOESN’T WANT PEACE ‘UNFOUNDED’
 - 09/30 23:52 [financialjuice] EIA: US domestic crude oil production rose in latest week to record highs
+- 09/30 23:54 [FirstSquawk] US DOMESTIC PRODUCTION OF CRUDE OIL ROSE IN LATEST WEEK TO RECORD HIGHS, EIA SAYS
+- 09/30 23:57 [financialjuice] Senate Republican Leader Thune: I have yet to receive diesel proposal from White House
+- 09/30 23:58 [FirstSquawk] US SENATE MAJORITY LEADER THUNE: YET TO RECEIVE DIESEL PROPOSAL FROM WHITE HOUSE
+- 10/01 00:01 [financialjuice] US Treasury: Will buy up to $6 bln of 10-20 Year debt in October 1st liquidity buyback
+- 10/01 00:02 [FirstSquawk] US TREASURY TO BUY UP TO $6 BLN OF 10-20 YEAR DEBT IN OCTOBER 1 LIQUIDITY BUYBACK
+- 10/01 00:08 [financialjuice] Senate Republican Leader Thune: Congress may raise debt limit after election
+- 10/01 00:08 [FirstSquawk] SIKORSKY, US ARMY REACH NOVEL PRODUCTION AGREEMENT FOR BLACK HAWK HELICOPTER TO ACCELERATE US AND ALLIED FIELDING - LMT

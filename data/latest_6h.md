@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-30 23:52 JST／対象: 09/30 17:52 〜 09/30 23:52 JST（時刻はすべて日本時間）
+生成: 2026-10-01 00:10 JST／対象: 09/30 18:10 〜 10/01 00:10 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 41 | 09/30 18:55 | 09/30 23:35 | 20分（22:25→22:46） |
-| FirstSquawk | 83 | 09/30 18:02 | 09/30 23:50 | 30分（18:07→18:37） |
-| financialjuice | 90 | 09/30 18:01 | 09/30 23:52 | 31分（20:00→20:32） |
+| FirstSquawk | 84 | 09/30 18:37 | 10/01 00:08 | 23分（19:06→19:29） |
+| financialjuice | 86 | 09/30 18:29 | 10/01 00:08 | 31分（20:00→20:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 206 行（統合前 214 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 203 行（統合前 211 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 18:01 [financialjuice] Top house judiciary committee Democrat Raskin seeks information on data center NDAs - According to Letters Reviewed by WSJ
-- 09/30 18:01 [financialjuice] ITALIAN CPI MOM PRELIM ACTUAL 0.7% (FORECAST 0.3%, PREVIOUS 0.5%) $MACRO
-- 09/30 18:01 [financialjuice] ITALIAN HICP PRELIM MOM ACTUAL 2.0% (FORECAST 1.7%, PREVIOUS 0.1%) $MACRO
-- 09/30 18:01 [financialjuice] ITALIAN CPI YOY PRELIM ACTUAL 4.2% (FORECAST 3.7%, PREVIOUS 3.3%) $MACRO
-- 09/30 18:01 [financialjuice] ITALIAN HICP PRELIM YOY ACTUAL 4.1% (FORECAST 3.7%, PREVIOUS 3.2%) $MACRO
-- 09/30 18:02 [FirstSquawk] ITALY'S PRELIMINARY SEPTEMBER HARMONIZED CPI INCREASES 4.1% YEAR-OVER-YEAR, ABOVE ESTIMATE OF 3.7%.
-- 09/30 18:02 [financialjuice] Rep. Raskin sent letters to Amazon, Google, Meta, Oracle - WSJ.
-- 09/30 18:04 [FirstSquawk] META AVOIDS BILLIONS IN FEDERAL TAXES BY CLASSIFYING ITS DATA CENTRES AS EXPERIMENTAL - NYT
-- 09/30 18:05 [financialjuice] Meta told IRS data centers are experimental, could fail - NYT
-- 09/30 18:07 [FirstSquawk] ISRAELI OFFICIAL TO I24 REPORTER: INCIDENT ABOARD THE FLYDUBAI FLIGHT WAS A TERRORIST ATTACK.
 - 09/30 18:29 [financialjuice] Japan PM Takaichi: Takaichi administration will boost supply side of the economy.
 - 09/30 18:30 [financialjuice] Japan PM Takaichi: Government will set a clearer path of economy and fiscal policy management.
 - 09/30 18:30 [financialjuice] UKMTO gets time-late report of incident in Hormuz.
@@ -230,3 +220,10 @@
 - 09/30 23:50 [financialjuice] Russian Foreign Ministry Spokeswoman: Claims that Russia does not want peace are unfounded.
 - 09/30 23:50 [FirstSquawk] RUSSIAN FOREIGN MINISTRY SPOX CALLS CLAIMS RUSSIA DOESN’T WANT PEACE ‘UNFOUNDED’
 - 09/30 23:52 [financialjuice] EIA: US domestic crude oil production rose in latest week to record highs
+- 09/30 23:54 [FirstSquawk] US DOMESTIC PRODUCTION OF CRUDE OIL ROSE IN LATEST WEEK TO RECORD HIGHS, EIA SAYS
+- 09/30 23:57 [financialjuice] Senate Republican Leader Thune: I have yet to receive diesel proposal from White House
+- 09/30 23:58 [FirstSquawk] US SENATE MAJORITY LEADER THUNE: YET TO RECEIVE DIESEL PROPOSAL FROM WHITE HOUSE
+- 10/01 00:01 [financialjuice] US Treasury: Will buy up to $6 bln of 10-20 Year debt in October 1st liquidity buyback
+- 10/01 00:02 [FirstSquawk] US TREASURY TO BUY UP TO $6 BLN OF 10-20 YEAR DEBT IN OCTOBER 1 LIQUIDITY BUYBACK
+- 10/01 00:08 [financialjuice] Senate Republican Leader Thune: Congress may raise debt limit after election
+- 10/01 00:08 [FirstSquawk] SIKORSKY, US ARMY REACH NOVEL PRODUCTION AGREEMENT FOR BLACK HAWK HELICOPTER TO ACCELERATE US AND ALLIED FIELDING - LMT
