@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-30 19:37 JST／対象: 09/29 19:37 〜 09/30 19:37 JST（時刻はすべて日本時間）
+生成: 2026-09-30 19:54 JST／対象: 09/29 19:54 〜 09/30 19:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 96 | 09/29 20:26 | 09/30 19:34 | ⚠ 789分（05:46→18:55） |
-| FirstSquawk | 401 | 09/29 19:39 | 09/30 19:30 | ⚠ 96分（06:29→08:05） |
-| financialjuice | 420 | 09/29 19:42 | 09/30 19:30 | ⚠ 80分（10:57→12:18） |
+| DeItaone | 98 | 09/29 20:26 | 09/30 19:53 | ⚠ 789分（05:46→18:55） |
+| FirstSquawk | 402 | 09/29 20:12 | 09/30 19:54 | ⚠ 96分（06:29→08:05） |
+| financialjuice | 419 | 09/29 19:54 | 09/30 19:30 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 891 行（統合前 923 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 892 行（統合前 925 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/29 19:39 [FirstSquawk] SAUDI CIVIL DEFENCE SAYS DANGER HAS PASSED
-- 09/29 19:41 [FirstSquawk] IRAN'S FOREIGN MINISTER STATED THAT A SEVEN-POINT PLAN FROM TEHRAN WAS SHARED WITH WASHINGTON VIA QATAR, AND IRAN IS NOW WAITING FOR AN OFFICIAL RESPONSE FROM THE U.S.
-- 09/29 19:42 [financialjuice] Italy's Energy Minister: Will speak with US Energy Secretary Wright later on Tuesday, will ask about potential US diesel export ban.
 - 09/29 19:54 [financialjuice] Qatar Foreign Ministry Spokesman: Exchanging messages, possible solutions with US-Iran.
 - 09/29 20:12 [FirstSquawk] ELI LILLY: ZEPBOUND ACHIEVES 20.2% WEIGHT REDUCTION VS 13.7% FOR WEGOVY AT 72 WEEKS
 - 09/29 20:14 [financialjuice/FirstSquawk] Rosatom, Iran discuss options to build new nuclear plants - Tass
@@ -915,3 +912,7 @@
 - 09/30 19:30 [FirstSquawk] APPLE PLANS SIGNIFICANT EXPANSION INTO SMART-HOME SECTOR ON OCTOBER 13.
 - 09/30 19:31 [DeItaone] $AAPL - APPLE TO MAKE MAJOR PUSH INTO SMART-HOME MARKET ON OCTOBER 13TH
 - 09/30 19:34 [DeItaone] IRAN RAISES ALERT LEVEL AT 46 INFRASTRUCTURE FACILITIES Iranian Civil Defense is raising readiness at 46 facilities in anticipation of potential attacks targeting critical infrastructure, according to Al Arabiya. The heightened alert signal…
+- 09/30 19:38 [DeItaone/FirstSquawk] A SECOND FLYDUBAI FLIGHT FROM DUBAI TO TEL AVIV, FZ1081, HAS DIVERTED, NOW HEADING BACK TO DUBAI - FLIGHTRADAR24
+- 09/30 19:43 [FirstSquawk] OPENAI: IMPACTED SERVICES FOR CHATGPT PRO, PLUS USERS RECOVERED
+- 09/30 19:53 [DeItaone] BITCOIN PRICE COULD REACH $1 MILLION PER COIN BY 2030, MAELSTROM CIO SAYS MAELSTROM CIO HAYES EXPECTS EXPLOSIVE BITCOIN RALLY IN LATE 2027, EARLY 2028 HAYES SEES AI-INVESTMENT BUST TRIGGERING TRILLIONS OF DOLLARS IN BAILOUTS
+- 09/30 19:54 [FirstSquawk] PAKISTAN MIGHT LET POWER PLANTS AND PRIVATE FIRMS IMPORT LNG DIRECTLY TO BOOST ENERGY SUPPLIES WITHOUT AFFECTING GOVERNMENT FUNDS.

@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-30 19:37 JST／対象: 09/30 07:37 〜 09/30 19:37 JST（時刻はすべて日本時間）
+生成: 2026-09-30 19:54 JST／対象: 09/30 07:54 〜 09/30 19:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 8 | 09/30 18:55 | 09/30 19:34 | 12分（19:18→19:31） |
-| FirstSquawk | 216 | 09/30 08:05 | 09/30 19:30 | 31分（17:30→18:02） |
-| financialjuice | 126 | 09/30 07:40 | 09/30 19:30 | ⚠ 80分（10:57→12:18） |
+| DeItaone | 10 | 09/30 18:55 | 09/30 19:53 | 14分（19:38→19:53） |
+| FirstSquawk | 219 | 09/30 08:05 | 09/30 19:54 | 31分（17:30→18:02） |
+| financialjuice | 125 | 09/30 07:59 | 09/30 19:30 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 348 行（統合前 350 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 351 行（統合前 354 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 07:40 [financialjuice] Senior Saudi official denies any meeting with Israeli officials
 - 09/30 07:59 [financialjuice] EU trade chief Sefcovic: pushing for reforms to tackle excess industrial capacity in G20, WTO frameworks
 - 09/30 08:00 [financialjuice] South Korea August industrial output falls 2.2% year on year, poll predicted 4% increase: stats office
 - 09/30 08:00 [financialjuice] S. Korea Aug service sector output rises 0.5% m/m: stats office
@@ -372,3 +371,7 @@
 - 09/30 19:30 [FirstSquawk] APPLE PLANS SIGNIFICANT EXPANSION INTO SMART-HOME SECTOR ON OCTOBER 13.
 - 09/30 19:31 [DeItaone] $AAPL - APPLE TO MAKE MAJOR PUSH INTO SMART-HOME MARKET ON OCTOBER 13TH
 - 09/30 19:34 [DeItaone] IRAN RAISES ALERT LEVEL AT 46 INFRASTRUCTURE FACILITIES Iranian Civil Defense is raising readiness at 46 facilities in anticipation of potential attacks targeting critical infrastructure, according to Al Arabiya. The heightened alert signal…
+- 09/30 19:38 [DeItaone/FirstSquawk] A SECOND FLYDUBAI FLIGHT FROM DUBAI TO TEL AVIV, FZ1081, HAS DIVERTED, NOW HEADING BACK TO DUBAI - FLIGHTRADAR24
+- 09/30 19:43 [FirstSquawk] OPENAI: IMPACTED SERVICES FOR CHATGPT PRO, PLUS USERS RECOVERED
+- 09/30 19:53 [DeItaone] BITCOIN PRICE COULD REACH $1 MILLION PER COIN BY 2030, MAELSTROM CIO SAYS MAELSTROM CIO HAYES EXPECTS EXPLOSIVE BITCOIN RALLY IN LATE 2027, EARLY 2028 HAYES SEES AI-INVESTMENT BUST TRIGGERING TRILLIONS OF DOLLARS IN BAILOUTS
+- 09/30 19:54 [FirstSquawk] PAKISTAN MIGHT LET POWER PLANTS AND PRIVATE FIRMS IMPORT LNG DIRECTLY TO BOOST ENERGY SUPPLIES WITHOUT AFFECTING GOVERNMENT FUNDS.
