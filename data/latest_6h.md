@@ -7,43 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 22:33 JST／対象: 10/01 16:33 〜 10/01 22:33 JST（時刻はすべて日本時間）
+生成: 2026-10-01 22:52 JST／対象: 10/01 16:52 〜 10/01 22:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 39 | 10/01 16:48 | 10/01 22:07 | 37分（17:52→18:30） |
-| FirstSquawk | 72 | 10/01 16:40 | 10/01 22:31 | ⚠ 53分（18:34→19:28） |
-| financialjuice | 111 | 10/01 16:33 | 10/01 22:32 | 44分（18:40→19:25） |
+| DeItaone | 38 | 10/01 17:14 | 10/01 22:47 | 39分（22:07→22:47） |
+| FirstSquawk | 66 | 10/01 16:53 | 10/01 22:45 | ⚠ 53分（18:34→19:28） |
+| financialjuice | 110 | 10/01 16:55 | 10/01 22:46 | 44分（18:40→19:25） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 213 行（統合前 222 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 204 行（統合前 216 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 16:33 [financialjuice] Japan PM Takaichi: Forex market determined by various factors.
-- 10/01 16:35 [financialjuice] Japan PM Takaichi: Japan's economic policy is not aimed at manipulating FX.
-- 10/01 16:35 [financialjuice] Japan PM Takaichi: Told president Trump undervaluation of yen is a problem.
-- 10/01 16:37 [financialjuice] Japan PM Takaichi: No change to administration's stance of pursuing strong economy, fiscal sustainability.
-- 10/01 16:40 [FirstSquawk] JAPAN'S PM TAKAICHI PLANS TO MANAGE GOVERNMENT BOND ISSUANCE ANNUALLY, INCLUDING INITIAL AND ADDITIONAL BUDGETS.
-- 10/01 16:40 [FirstSquawk] JAPAN'S PM TAKAICHI SAYS THE FOREX MARKET IS INFLUENCED BY MANY FACTORS.
-- 10/01 16:40 [FirstSquawk] JAPAN'S PRIME MINISTER TAKAICHI STATES THAT THE COUNTRY'S ECONOMIC POLICY DOES NOT TARGET FOREIGN EXCHANGE MANIPULATION.
-- 10/01 16:40 [FirstSquawk] JAPAN PM TAKAICHI SAYS POLICIES FOCUS ON IMPROVING JAPAN'S ECONOMIC COMPETITIVENESS TO ENHANCE MARKET CONFIDENCE IN THE YEN.
-- 10/01 16:40 [FirstSquawk] JAPAN'S PM TAKAICHI INFORMED PRESIDENT TRUMP THAT THE YEN'S LOW VALUE IS A CONCERN.
-- 10/01 16:40 [FirstSquawk] JAPAN'S PM TAKAICHI EXPECTS FOOD CONSUMPTION TAX CUT TO BE REFLECTED IN SALE PRICES.
-- 10/01 16:40 [FirstSquawk] JAPAN'S PM TAKAICHI SAYS THERE WILL BE NO CHANGE IN THE GOVERNMENT'S COMMITMENT TO A STRONG ECONOMY AND FISCAL RESPONSIBILITY.
-- 10/01 16:44 [financialjuice] ECB asks EU to start finding successor to ECB's Schnabel.
-- 10/01 16:45 [financialjuice] US tells France and Germany to release emergency diesel stocks or face possible US diesel export ban - Three Sources Close to The Discussions.
-- 10/01 16:45 [financialjuice] US wants the EU to release 120 million barrels of diesel in the next 6 months - One of The Sources.
-- 10/01 16:48 [DeItaone] U.S. PRESSURES FRANCE AND GERMANY TO RELEASE DIESEL RESERVES The Trump administration has told France and Germany to draw down emergency diesel stocks to help lower global fuel prices, Reuters reports. If they refuse, Washington is threaten…
-- 10/01 16:49 [FirstSquawk] AIRBUS SE HAS FINISHED BUYING QUARKSLAB, BOOSTING FRANCE'S CYBERSECURITY INDEPENDENCE.
-- 10/01 16:50 [FirstSquawk] AIRBUS SE’S LATEST INVESTMENT BOOSTS ITS ROLE AS A TRUSTED PARTNER FOR FRENCH OFFICIALS AND EXPANDS ITS PRESENCE IN EUROPEAN CYBERSECURITY.
-- 10/01 16:50 [DeItaone] US WANTS THE EU TO RELEASE 120 MILLION BARRELS OF DIESEL IN THE NEXT 6 MONTHS, ONE OF THE SOURCES SAID
-- 10/01 16:50 [financialjuice] ‼ BREAKING: FRENCH MANUFACTURING PMI ACTUAL 50.6 (FORECAST 50.3, PREVIOUS 50.3) $MACRO
-- 10/01 16:52 [FirstSquawk] FRANCE'S SEPTEMBER FINAL MANUFACTURING PMI REACHED 50.6, ABOVE THE FORECAST OF 50.3.
 - 10/01 16:53 [FirstSquawk] CONOCOPHILLIPS IS LOOKING INTO SELLING ITS NORWAY BUSINESS AND TEESSIDE ASSET FOLLOWING AN UNREQUESTED OFFER.
 - 10/01 16:55 [FirstSquawk] GERMANY'S FINAL MANUFACTURING PMI FOR SEPTEMBER REACHED 53.9, SLIGHTLY ABOVE THE FORECAST OF 53.8.
 - 10/01 16:55 [financialjuice] ‼ BREAKING: GERMAN MANUFACTURING PMI FINAL ACTUAL 53.9 (FORECAST 53.8, PREVIOUS 53.8) $MACRO
@@ -237,3 +217,14 @@
 - 10/01 22:31 [financialjuice] ECB's President Lagarde's Speech on AI
 - 10/01 22:31 [FirstSquawk] NASDAQ UP 133.81 POINTS, OR 0.50 PERCENT, AT 26,994.87 AFTER MARKET OPEN S&P 500 UP 21.32 POINTS, OR 0.28 PERCENT, AT 7,672.86 AFTER MARKET OPEN DOW JONES UP 109.78 POINTS, OR 0.22 %, AT 51,015.83 AFTER MARKET OPEN
 - 10/01 22:32 [financialjuice] ECB's President Lagarde: Widespread use of similar AI models could reinforce financial market price moves
+- 10/01 22:33 [financialjuice] ECB President Lagarde: Reliance on a small number of AI models could prove highly disruptive to financial stability if access is lost.
+- 10/01 22:34 [financialjuice/FirstSquawk] US asked Europe to release over 1/3 of diesel reserves - Politico
+- 10/01 22:34 [financialjuice] ECB President Lagarde: Europe needs to develop its own AI capabilities to avoid dependence on access controlled elsewhere
+- 10/01 22:34 [FirstSquawk] ACCENTURE SHARES JUMP 22% IN BIGGEST ONE-DAY GAIN ON RECORD
+- 10/01 22:35 [financialjuice] UK's Healey summons UK bank chiefs to pre-budget summit next week - Sky
+- 10/01 22:35 [financialjuice] The US proposal asks the EU to release diesel over 180 days - Politico
+- 10/01 22:35 [FirstSquawk] US PROPOSAL ASKS EU TO RELEASE DIESEL OVER 180 DAYS: POLITICO
+- 10/01 22:45 [FirstSquawk] US S&P GLOBAL MANUFACTURING PMI (SEP) ACTUAL: 55.9 VS 57.0 PREVIOUS; EST 57.0
+- 10/01 22:45 [financialjuice] ❗ US S&P MANUFACTURING PMI FINAL ACTUAL 55.9 (FORECAST 57, PREVIOUS 57.0) $MACRO
+- 10/01 22:46 [financialjuice] US S&P Manufacturing PMI Final September Report
+- 10/01 22:47 [DeItaone] US SEP FINAL MANUF PMI 55.9 (57.0 FLASH, 53.9 AUG)

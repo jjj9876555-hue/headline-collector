@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-01 22:33 JST／対象: 09/30 22:33 〜 10/01 22:33 JST（時刻はすべて日本時間）
+生成: 2026-10-01 22:52 JST／対象: 09/30 22:52 〜 10/01 22:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 81 | 09/30 22:46 | 10/01 22:07 | ⚠ 610分（06:15→16:25） |
-| FirstSquawk | 338 | 09/30 22:36 | 10/01 22:31 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 378 | 09/30 22:45 | 10/01 22:32 | ⚠ 52分（14:07→15:00） |
+| DeItaone | 81 | 09/30 22:54 | 10/01 22:47 | ⚠ 610分（06:15→16:25） |
+| FirstSquawk | 333 | 09/30 22:55 | 10/01 22:45 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 384 | 09/30 22:52 | 10/01 22:46 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 775 行（統合前 799 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 775 行（統合前 802 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 22:36 [FirstSquawk] NATO CHIEF: IN REACTION TO RUSSIA'S LETTER, I SAID WE ARE A DEFENSIVE ALLIANCE AND TO STOP THE NUCLEAR THREAT
-- 09/30 22:42 [FirstSquawk] NATO'S RUTTE SAYS RUSSIA THREAT ASSESSMENT NOW IS SAME AS THREE WEEKS, THREE MONTHS AGO, A YEAR AGO
-- 09/30 22:42 [FirstSquawk] NATO'S RUTTE: THERE IS NO IMMINENT THREAT TO NATO TERRITORY
-- 09/30 22:45 [FirstSquawk] ISRAEL’S DEFENSE MINISTER KATZ CITING PRELIMINARY INFORMATION: THE ATTACKER INTENDED TO CRASH THE PLANE, KILLING EVERYONE ON BOARD
-- 09/30 22:45 [financialjuice] US CHICAGO PMI ACTUAL 58.8 (FORECAST 51, PREVIOUS 47.1) $MACRO
-- 09/30 22:45 [FirstSquawk] US MNI CHICAGO PMI SEP: 58.8 (EST 51.0; PREV 47.1)
-- 09/30 22:46 [DeItaone] *US SEPT. MNI CHICAGO REPORT BUSINESS INDEX AT 58.8; EST 51.0
-- 09/30 22:47 [FirstSquawk] PM MODI: HAD A PRODUCTIVE CONVERSATION WITH US PRESIDENT TRUMP
-- 09/30 22:48 [FirstSquawk] PM MODI: ALSO EXCHANGED VIEWS ON REGIONAL AND INTERNATIONAL ISSUES, INCLUDING ONGOING EFFORTS TO ADVANCE GLOBAL PEACE AND SECURITY
-- 09/30 22:50 [FirstSquawk] ISRAEL DEFENCE MINISTER KATZ: INCIDENT ABOARD FLYDUBAI FLIGHT WAS A 'JIHADIST TERROR ATTACK' ATTEMPT
-- 09/30 22:51 [FirstSquawk] TRUMP TO ANNOUNCE 8 NUCLEAR POWER PLANTS FUNDED BY S.KOREA
 - 09/30 22:52 [financialjuice] White House Official: Trump to announce 8 nuclear power plants funded by South Korea. Announcing South Korea’s $200 bln investment in US
 - 09/30 22:53 [financialjuice] EASA issues advisory to airlines over Saudi airspace following recent increase in Houthi attacks
 - 09/30 22:53 [financialjuice] Latest EASA advisory does not mention Wednesday's incident involving diverted FlyDubai airliner.
@@ -799,3 +788,14 @@
 - 10/01 22:31 [financialjuice] ECB's President Lagarde's Speech on AI
 - 10/01 22:31 [FirstSquawk] NASDAQ UP 133.81 POINTS, OR 0.50 PERCENT, AT 26,994.87 AFTER MARKET OPEN S&P 500 UP 21.32 POINTS, OR 0.28 PERCENT, AT 7,672.86 AFTER MARKET OPEN DOW JONES UP 109.78 POINTS, OR 0.22 %, AT 51,015.83 AFTER MARKET OPEN
 - 10/01 22:32 [financialjuice] ECB's President Lagarde: Widespread use of similar AI models could reinforce financial market price moves
+- 10/01 22:33 [financialjuice] ECB President Lagarde: Reliance on a small number of AI models could prove highly disruptive to financial stability if access is lost.
+- 10/01 22:34 [financialjuice/FirstSquawk] US asked Europe to release over 1/3 of diesel reserves - Politico
+- 10/01 22:34 [financialjuice] ECB President Lagarde: Europe needs to develop its own AI capabilities to avoid dependence on access controlled elsewhere
+- 10/01 22:34 [FirstSquawk] ACCENTURE SHARES JUMP 22% IN BIGGEST ONE-DAY GAIN ON RECORD
+- 10/01 22:35 [financialjuice] UK's Healey summons UK bank chiefs to pre-budget summit next week - Sky
+- 10/01 22:35 [financialjuice] The US proposal asks the EU to release diesel over 180 days - Politico
+- 10/01 22:35 [FirstSquawk] US PROPOSAL ASKS EU TO RELEASE DIESEL OVER 180 DAYS: POLITICO
+- 10/01 22:45 [FirstSquawk] US S&P GLOBAL MANUFACTURING PMI (SEP) ACTUAL: 55.9 VS 57.0 PREVIOUS; EST 57.0
+- 10/01 22:45 [financialjuice] ❗ US S&P MANUFACTURING PMI FINAL ACTUAL 55.9 (FORECAST 57, PREVIOUS 57.0) $MACRO
+- 10/01 22:46 [financialjuice] US S&P Manufacturing PMI Final September Report
+- 10/01 22:47 [DeItaone] US SEP FINAL MANUF PMI 55.9 (57.0 FLASH, 53.9 AUG)
