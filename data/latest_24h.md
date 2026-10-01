@@ -7,33 +7,25 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-02 04:38 JST／対象: 10/01 04:38 〜 10/02 04:38 JST（時刻はすべて日本時間）
+生成: 2026-10-02 04:52 JST／対象: 10/01 04:52 〜 10/02 04:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 99 | 10/01 05:45 | 10/02 03:42 | ⚠ 610分（06:15→16:25） |
-| FirstSquawk | 372 | 10/01 04:41 | 10/02 04:07 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 466 | 10/01 04:39 | 10/02 04:37 | ⚠ 52分（14:07→15:00） |
+| FirstSquawk | 378 | 10/01 04:54 | 10/02 04:50 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 475 | 10/01 04:53 | 10/02 04:51 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 904 行（統合前 943 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 914 行（統合前 958 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 04:39 [financialjuice] US Sec. of Defense Hegseth: Major US military installations to generate their own power.
-- 10/01 04:41 [FirstSquawk] US DEFENSE SECRETARY HEGSETH: MUSK, GINGRICH & LUCKEY TO LEAD NEW PENTAGON AUTONOMOUS WARFARE PROJECT
-- 10/01 04:42 [FirstSquawk] US DEFENSE SECRETARY HEGSETH: MAJOR US MILITARY INSTALLATIONS TO GENERATE THEIR OWN POWER
-- 10/01 04:48 [FirstSquawk] FLYDUBAI SAYS ITS FLIGHTS TO AND FROM ISRAEL WILL BE SUSPENDED WHILE THE INVESTIGATION CONTINUES, ADDING THAT THE TEMPORARY SUSPENSION WILL ALLOW THE RELEVANT AUTHORITIES TO CONTINUE THEIR WORK AND ESTABLISH ALL THE FACTS SURROUNDING THE IN…
-- 10/01 04:48 [FirstSquawk] FLYDUBAI SAYS IT REMAINS IN CLOSE COORDINATION WITH GOVERNMENT AUTHORITIES, REGULATORS AND AIRPORT STAKEHOLDERS AND WILL REVIEW THE SUSPENSION AS MORE INFORMATION BECOMES AVAILABLE - STATEMENT
-- 10/01 04:49 [FirstSquawk] TRUMP SAYS HE ASKED ATTORNEY GENERAL TO STUDY FEDERAL RESERVE REPORT
-- 10/01 04:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: -6771.9 MLN NASDAQ 100: -2790.7 MLN DOW 30: -2444.3 MLN MAG 7: -1731.5 MLN $MACRO
-- 10/01 04:51 [financialjuice/FirstSquawk] AI can exhibit 'self-preserving behaviors,' 'resist shutdown,’ ’conceal or manipulate information' - Anthropic's IPO Filing.
-- 10/01 04:51 [FirstSquawk] TRUMP SAYS FED CHAIR POWELL SHOULD BE “FORCED TO RESIGN”; ASKS ATTORNEY GENERAL BLANCHE TO REVIEW FED REPORT
 - 10/01 04:53 [financialjuice] Google grapples with employee skepticism about the new Gemini Model $GOOGL
+- 10/01 04:54 [FirstSquawk] AI CAN EXHIBIT 'SELF-PRESERVING BEHAVIORS,' 'RESIST SHUTDOWN,’ ’CONCEAL OR MANIPULATE INFORMATION' - ANTHROPIC'S IPO FILING.
 - 10/01 04:54 [FirstSquawk] GOOGLE GRAPPLES WITH EMPLOYEE SKEPTICISM ABOUT THE NEW GEMINI MODEL
 - 10/01 04:54 [financialjuice] US Sec. of Defense Hegseth finishes remarks
 - 10/01 04:56 [FirstSquawk] META'S OVERSIGHT BOARD HAS CALLED FOR INDEPENDENT OVERSIGHT OF AI COMPANIES, SAYING AI OVERSIGHT BODIES SHOULD BE SEPARATE AND INDEPENDENT FROM THE COMPANIES THEY OVERSEE.
@@ -921,10 +913,28 @@
 - 10/02 04:25 [financialjuice] USTR Greer: G20 talks covered forced labor and excess capacity concerns.
 - 10/02 04:26 [financialjuice] US Treasury Secretary Bessent: Europe should accelerate delivery on commitments.
 - 10/02 04:26 [financialjuice] US Treasury Secretary Bessent: Europe should make additional supplies available.
-- 10/02 04:27 [financialjuice] No talks about Iran's nuclear programme took place during recent meetings with mediators - Iran's Official News Agency citing a source with knowledge.
+- 10/02 04:27 [financialjuice/FirstSquawk] No talks about Iran's nuclear programme took place during recent meetings with mediators - Iran's Official News Agency citing a source with knowledge.
 - 10/02 04:28 [financialjuice] Gulf of Hormuz Waterway Security Authority: Three Emirati Tankers Hit Were on the PGSA Non-Compliance List - Iranian Media
-- 10/02 04:29 [financialjuice] Iran's PGSA: In recent days, several tankers have been struck in the Strait of Hormuz, and the last three of these were either owned or chartered by the United Arab Emirates.
-- 10/02 04:31 [financialjuice] ❗ Local sources: Supertanker with a capacity of 2.5 million barrels, illegally transiting the Strait of Hormuz, struck approximately 8 kilometers off the coast of Oman, currently on fire - Mehr News
+- 10/02 04:29 [financialjuice/FirstSquawk] Iran's PGSA: In recent days, several tankers have been struck in the Strait of Hormuz, and the last three of these were either owned or chartered by the United Arab Emirates.
+- 10/02 04:31 [financialjuice/FirstSquawk] ❗ Local sources: Supertanker with a capacity of 2.5 million barrels, illegally transiting the Strait of Hormuz, struck approximately 8 kilometers off the coast of Oman, currently on fire - Mehr News
 - 10/02 04:33 [financialjuice] USTR Greer: Engagement on excess capacity was quite constructive
 - 10/02 04:36 [financialjuice] Fed's Cook: Supply shocks have had surprisingly persistent effects, becoming more salient for policy
 - 10/02 04:37 [financialjuice] Fed's Cook: Possible that the optimal policy response to a supply shock could be sector-dependent
+- 10/02 04:39 [FirstSquawk] USTR GREER SAYS HE HAD A CONSTRUCTIVE CONVERSATION WITH INDIAN TRADE MINISTER GOYAL AS THEY TRY TO FINISH A TRADE DEAL, ADDING THAT AN INDIA-U.S. TRADE DEAL IS NOT IMMINENT AND THAT STICKING POINTS HAVE BEEN IDENTIFIED
+- 10/02 04:39 [financialjuice] Fed's cook: We have to be attentive to consumer confidence.
+- 10/02 04:39 [financialjuice] Fed's Cook: Need to make sure inflation expectations don't become unanchored.
+- 10/02 04:40 [FirstSquawk] US TREASURY SECRETARY BESSENT: EUROPE SHOULD MAKE ADDITIONAL SUPPLIES AVAILABLE & ACCELERATE DELIVERY ON EXISTING COMMITMENTS
+- 10/02 04:40 [FirstSquawk] USTR GREER SAYS TRUMP'S TRADE PROGRAM IS 'TRENDING IN THE RIGHT DIRECTION' AND THAT THE U.S. IS ON TRACK FOR RECORD GOODS TRADE EXPORTS THIS YEAR, CALLING THE ENGAGEMENT ON EXCESS CAPACITY 'QUITE CONSTRUCTIVE'.
+- 10/02 04:40 [FirstSquawk] USTR GREER SAYS G20 TRADE MINISTERS DISCUSSED THE 'WEAPONIZATION' OF AGRICULTURE AND FARM INPUTS, WITH THE TALKS ALSO COVERING FORCED LABOR AND EXCESS CAPACITY CONCERNS.
+- 10/02 04:40 [FirstSquawk] THE BANK OF CANADA'S SENIOR DEPUTY GOVERNOR ROGERS SAYS RESTORING THE AFFORDABILITY OF HOUSING WILL REQUIRE A BROAD, SUSTAINED EFFORT AND A POLICY MIX — INCLUDING MORE SUPPLY, BETTER PLANNING AND INFRASTRUCTURE AND THE RIGHT INCENTIVES — AN…
+- 10/02 04:41 [FirstSquawk] THE BANK OF CANADA'S SENIOR DEPUTY GOVERNOR ROGERS SAYS TARGETING HOME PRICES DIRECTLY WITH INTEREST RATES 'IS NOT THE ANSWER' AND WOULD RISK IMPOSING COSTS ACROSS THE ECONOMY, WHILE NOTING FALLING HOUSE PRICES CAN CUT HOUSEHOLD WEALTH, WEA…
+- 10/02 04:41 [financialjuice/FirstSquawk] Netanyahu conspiring ridiculous false-flag scenarios such as plane hijack to accuse Iran - Sources to Press TV
+- 10/02 04:42 [financialjuice] USTR Greer: Discussed diesel exports with European partners on Thursday.
+- 10/02 04:43 [financialjuice] USTR greer: France, Germany and Italy are sitting on diesel reserves, getting more to market is part of a cooperative approach.
+- 10/02 04:43 [financialjuice] Fed's Cook: Cautious that AI could be a major reorganization of work.
+- 10/02 04:44 [financialjuice] USTR Greer: We have technical talks with Canadians; there are a handful of outstanding issues that are difficult to resolve.
+- 10/02 04:46 [financialjuice] Fed's Cook: AI is causing pockets of inflation.
+- 10/02 04:49 [financialjuice/FirstSquawk] Iran's Foreign Ministry asks Iraq to take steps to lift flight restrictions due to US sanctions and return flights to normal conditions.
+- 10/02 04:50 [financialjuice] USTR Greer: Will continue to advance discussions on the most-favored-nation tariff structure, but did not submit a draft agreement.
+- 10/02 04:50 [financialjuice/FirstSquawk] ❗ fed's Bowman sees no urgent need for more rate moves this year.
+- 10/02 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 2679.2 MLN NASDAQ 100: 989.1 MLN DOW 30: 468.6 MLN MAG 7: 354.6 MLN $MACRO

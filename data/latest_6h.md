@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-02 04:38 JST／対象: 10/01 22:38 〜 10/02 04:38 JST（時刻はすべて日本時間）
+生成: 2026-10-02 04:52 JST／対象: 10/01 22:52 〜 10/02 04:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 52 | 10/01 22:47 | 10/02 03:42 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 98 | 10/01 22:45 | 10/02 04:07 | 39分（01:52→02:31） |
-| financialjuice | 168 | 10/01 22:41 | 10/02 04:37 | 17分（03:38→03:56） |
+| DeItaone | 51 | 10/01 23:00 | 10/02 03:42 | ⚠ 102分（23:19→01:02） |
+| FirstSquawk | 109 | 10/01 22:55 | 10/02 04:50 | 39分（01:52→02:31） |
+| financialjuice | 177 | 10/01 22:54 | 10/02 04:51 | 17分（03:38→03:56） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 301 行（統合前 321 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 314 行（統合前 340 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 22:41 [financialjuice] UK's Healey summons UK bank chiefs to pre-budget summit next week - Sky
-- 10/01 22:45 [FirstSquawk] US S&P GLOBAL MANUFACTURING PMI (SEP) ACTUAL: 55.9 VS 57.0 PREVIOUS; EST 57.0
-- 10/01 22:45 [financialjuice] ❗ US S&P MANUFACTURING PMI FINAL ACTUAL 55.9 (FORECAST 57, PREVIOUS 57.0) $MACRO
-- 10/01 22:46 [financialjuice] US S&P Manufacturing PMI Final September Report
-- 10/01 22:47 [DeItaone] US SEP FINAL MANUF PMI 55.9 (57.0 FLASH, 53.9 AUG)
 - 10/01 22:54 [financialjuice] Fed's Waller speaks at FRED Con Live
 - 10/01 22:55 [FirstSquawk] FITCH STATES THAT THE UK WATER BILL UPDATE DOES NOT CHANGE SECTOR RISK, BUT THERE ARE STILL RISKS.
 - 10/01 22:56 [FirstSquawk] FITCH: BASE CASE REMAINS THAT UK WATER SECTOR REFORMS WILL DELIVER A CLEARER AND BETTER-COORDINATED FRAMEWORK
@@ -318,10 +313,28 @@
 - 10/02 04:25 [financialjuice] USTR Greer: G20 talks covered forced labor and excess capacity concerns.
 - 10/02 04:26 [financialjuice] US Treasury Secretary Bessent: Europe should accelerate delivery on commitments.
 - 10/02 04:26 [financialjuice] US Treasury Secretary Bessent: Europe should make additional supplies available.
-- 10/02 04:27 [financialjuice] No talks about Iran's nuclear programme took place during recent meetings with mediators - Iran's Official News Agency citing a source with knowledge.
+- 10/02 04:27 [financialjuice/FirstSquawk] No talks about Iran's nuclear programme took place during recent meetings with mediators - Iran's Official News Agency citing a source with knowledge.
 - 10/02 04:28 [financialjuice] Gulf of Hormuz Waterway Security Authority: Three Emirati Tankers Hit Were on the PGSA Non-Compliance List - Iranian Media
-- 10/02 04:29 [financialjuice] Iran's PGSA: In recent days, several tankers have been struck in the Strait of Hormuz, and the last three of these were either owned or chartered by the United Arab Emirates.
-- 10/02 04:31 [financialjuice] ❗ Local sources: Supertanker with a capacity of 2.5 million barrels, illegally transiting the Strait of Hormuz, struck approximately 8 kilometers off the coast of Oman, currently on fire - Mehr News
+- 10/02 04:29 [financialjuice/FirstSquawk] Iran's PGSA: In recent days, several tankers have been struck in the Strait of Hormuz, and the last three of these were either owned or chartered by the United Arab Emirates.
+- 10/02 04:31 [financialjuice/FirstSquawk] ❗ Local sources: Supertanker with a capacity of 2.5 million barrels, illegally transiting the Strait of Hormuz, struck approximately 8 kilometers off the coast of Oman, currently on fire - Mehr News
 - 10/02 04:33 [financialjuice] USTR Greer: Engagement on excess capacity was quite constructive
 - 10/02 04:36 [financialjuice] Fed's Cook: Supply shocks have had surprisingly persistent effects, becoming more salient for policy
 - 10/02 04:37 [financialjuice] Fed's Cook: Possible that the optimal policy response to a supply shock could be sector-dependent
+- 10/02 04:39 [FirstSquawk] USTR GREER SAYS HE HAD A CONSTRUCTIVE CONVERSATION WITH INDIAN TRADE MINISTER GOYAL AS THEY TRY TO FINISH A TRADE DEAL, ADDING THAT AN INDIA-U.S. TRADE DEAL IS NOT IMMINENT AND THAT STICKING POINTS HAVE BEEN IDENTIFIED
+- 10/02 04:39 [financialjuice] Fed's cook: We have to be attentive to consumer confidence.
+- 10/02 04:39 [financialjuice] Fed's Cook: Need to make sure inflation expectations don't become unanchored.
+- 10/02 04:40 [FirstSquawk] US TREASURY SECRETARY BESSENT: EUROPE SHOULD MAKE ADDITIONAL SUPPLIES AVAILABLE & ACCELERATE DELIVERY ON EXISTING COMMITMENTS
+- 10/02 04:40 [FirstSquawk] USTR GREER SAYS TRUMP'S TRADE PROGRAM IS 'TRENDING IN THE RIGHT DIRECTION' AND THAT THE U.S. IS ON TRACK FOR RECORD GOODS TRADE EXPORTS THIS YEAR, CALLING THE ENGAGEMENT ON EXCESS CAPACITY 'QUITE CONSTRUCTIVE'.
+- 10/02 04:40 [FirstSquawk] USTR GREER SAYS G20 TRADE MINISTERS DISCUSSED THE 'WEAPONIZATION' OF AGRICULTURE AND FARM INPUTS, WITH THE TALKS ALSO COVERING FORCED LABOR AND EXCESS CAPACITY CONCERNS.
+- 10/02 04:40 [FirstSquawk] THE BANK OF CANADA'S SENIOR DEPUTY GOVERNOR ROGERS SAYS RESTORING THE AFFORDABILITY OF HOUSING WILL REQUIRE A BROAD, SUSTAINED EFFORT AND A POLICY MIX — INCLUDING MORE SUPPLY, BETTER PLANNING AND INFRASTRUCTURE AND THE RIGHT INCENTIVES — AN…
+- 10/02 04:41 [FirstSquawk] THE BANK OF CANADA'S SENIOR DEPUTY GOVERNOR ROGERS SAYS TARGETING HOME PRICES DIRECTLY WITH INTEREST RATES 'IS NOT THE ANSWER' AND WOULD RISK IMPOSING COSTS ACROSS THE ECONOMY, WHILE NOTING FALLING HOUSE PRICES CAN CUT HOUSEHOLD WEALTH, WEA…
+- 10/02 04:41 [financialjuice/FirstSquawk] Netanyahu conspiring ridiculous false-flag scenarios such as plane hijack to accuse Iran - Sources to Press TV
+- 10/02 04:42 [financialjuice] USTR Greer: Discussed diesel exports with European partners on Thursday.
+- 10/02 04:43 [financialjuice] USTR greer: France, Germany and Italy are sitting on diesel reserves, getting more to market is part of a cooperative approach.
+- 10/02 04:43 [financialjuice] Fed's Cook: Cautious that AI could be a major reorganization of work.
+- 10/02 04:44 [financialjuice] USTR Greer: We have technical talks with Canadians; there are a handful of outstanding issues that are difficult to resolve.
+- 10/02 04:46 [financialjuice] Fed's Cook: AI is causing pockets of inflation.
+- 10/02 04:49 [financialjuice/FirstSquawk] Iran's Foreign Ministry asks Iraq to take steps to lift flight restrictions due to US sanctions and return flights to normal conditions.
+- 10/02 04:50 [financialjuice] USTR Greer: Will continue to advance discussions on the most-favored-nation tariff structure, but did not submit a draft agreement.
+- 10/02 04:50 [financialjuice/FirstSquawk] ❗ fed's Bowman sees no urgent need for more rate moves this year.
+- 10/02 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 2679.2 MLN NASDAQ 100: 989.1 MLN DOW 30: 468.6 MLN MAG 7: 354.6 MLN $MACRO
