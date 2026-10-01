@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-01 11:21 JST／対象: 09/30 11:21 〜 10/01 11:21 JST（時刻はすべて日本時間）
+生成: 2026-10-01 11:38 JST／対象: 09/30 11:38 〜 10/01 11:38 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 75 | 09/30 18:55 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
-| FirstSquawk | 367 | 09/30 11:21 | 10/01 11:14 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 332 | 09/30 12:18 | 10/01 11:14 | ⚠ 58分（14:00→14:59） |
+| FirstSquawk | 361 | 09/30 11:41 | 10/01 11:29 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 335 | 09/30 12:18 | 10/01 11:37 | ⚠ 58分（14:00→14:59） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 754 行（統合前 776 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 751 行（統合前 773 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 11:21 [FirstSquawk] North Korean POWs entered South Korea in September, South Korean lawmaker says — media
-- 09/30 11:22 [FirstSquawk] North Korean leader Kim has no apparent health problems, South Korean lawmaker says, citing spy agency
-- 09/30 11:27 [FirstSquawk] DeepSeek develops 128-chip “super node” based on Ascend 950, with optimized computation and communication
-- 09/30 11:28 [FirstSquawk] South Korean lawmaker says there is a 50% chance of North Korea-U.S. talks at APEC summit
-- 09/30 11:28 [FirstSquawk] No signs of North Korea deploying additional troops to Russia, South Korean lawmaker says
-- 09/30 11:28 [FirstSquawk] South Korean lawmaker says spy agency estimates about 9,000 North Korean soldiers are in Russia
-- 09/30 11:29 [FirstSquawk] Russia shows no active signs of transferring advanced military technologies to North Korea, South Korean lawmaker says
-- 09/30 11:33 [FirstSquawk] South Korean lawmaker says North Korea and Russia worked together on ballistic missile shipments
 - 09/30 11:41 [FirstSquawk] Seoul stocks give up some gains in late Wednesday morning trading
 - 09/30 11:43 [FirstSquawk] Vietnam’s HDBank plans to raise $500 million through USD-denominated bonds overseas
 - 09/30 11:45 [FirstSquawk] Australia’s benchmark ASX 200 gains 1% to 8,794.50, highest since Sept. 11
@@ -778,3 +770,8 @@
 - 10/01 11:09 [FirstSquawk] NZ dollar declines to $0.5618, reaches lowest level since November 2025
 - 10/01 11:14 [financialjuice] Canadian dollar drops to three-month low at C$1.4246
 - 10/01 11:14 [FirstSquawk] Canadian dollar slides to three-month low at C$1.4246
+- 10/01 11:22 [FirstSquawk] Afghan official: Four killed, six injured in Pakistani air strike on Afghanistan
+- 10/01 11:22 [financialjuice] Four killed, six wounded in Pakistani air strike on Afghanistan: Afghan provincial official
+- 10/01 11:29 [FirstSquawk] Toyota Motor to invest roughly $1.34bn in Argentina’s electric vehicle production, minister says
+- 10/01 11:37 [financialjuice] South Korea President Lee: Alaska LNG project to start only if commercially viable and compliant with South Korean law
+- 10/01 11:37 [financialjuice] South Korea President Lee: Investment project gains to be split 50-50 until principal and interest fully repaid

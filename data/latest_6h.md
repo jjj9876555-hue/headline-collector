@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 11:21 JST／対象: 10/01 05:21 〜 10/01 11:21 JST（時刻はすべて日本時間）
+生成: 2026-10-01 11:38 JST／対象: 10/01 05:38 〜 10/01 11:38 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 10/01 05:45 | 10/01 06:15 | 15分（05:52→06:07） |
-| FirstSquawk | 106 | 10/01 05:24 | 10/01 11:14 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 128 | 10/01 05:22 | 10/01 11:14 | 36分（07:29→08:05） |
+| FirstSquawk | 104 | 10/01 05:45 | 10/01 11:29 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 127 | 10/01 05:43 | 10/01 11:37 | 36分（07:29→08:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 237 行（統合前 241 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 235 行（統合前 238 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 05:22 [financialjuice] Trump's Tech Adviser Sacks: AI firms agreed to have external audits.
-- 10/01 05:23 [financialjuice] Trump's Tech Advisor Sacks on AI accord: We don't have to wait for new legislation.
-- 10/01 05:24 [FirstSquawk] TRUMP'S TECH ADVISER SACKS SAYS ON THE AI ACCORD THAT 'WE DON'T HAVE TO WAIT FOR NEW LEGISLATION', ADDING THAT AI FIRMS AGREED TO HAVE EXTERNAL AUDITS
-- 10/01 05:33 [FirstSquawk] MADISON SQUARE GARDEN SPORTS CORP'S BOARD HAS APPROVED THE SPIN-OFF OF THE RANGERS BUSINESS FROM THE KNICKS BUSINESS, EXPECTED TO BE COMPLETED ON OCTOBER 26, 2026, WITH MSG SPORTS TO BE RENAMED MSG KNICKERBOCKERS CORP. INCLUDING THE KNICKS …
-- 10/01 05:33 [FirstSquawk] MADISON SQUARE GARDEN SPORTS CORP SAYS MSG SPORTS STOCKHOLDERS WILL RECEIVE ONE MSG RANGERS SHARE FOR EVERY TWO MSG SPORTS SHARES, WITH THE COMMON STOCK TO TRADE AS MSGS AND MSGK WI ON THE NYSE, AND THE SPIN-OFF INTENDED TO QUALIFY AS A TAX…
-- 10/01 05:34 [financialjuice/FirstSquawk] Trump: South Korea 'paid' to reduce US tariffs on its goods.
-- 10/01 05:36 [financialjuice] Trump touts nuclear energy as safe
 - 10/01 05:43 [financialjuice] US Commerce Secretary Lutnick: Southeast Asia to lean on US for gas due to the pipeline.
 - 10/01 05:45 [DeItaone] CBS NEWS PARTNERS WITH KALSHI CBS News is partnering with Kalshi to integrate prediction-market data into its 2026 midterm coverage. CBS joins CNN, Fox News and NBC News in highlighting prediction markets as part of their coverage
 - 10/01 05:45 [FirstSquawk] THE FEDERAL RESERVE INSPECTOR GENERAL FOUND NO CRIMINAL OR ADMINISTRATIVE MISCONDUCT IN THE CENTRAL BANK’S ROUGHLY $2.4 BILLION HEADQUARTERS RENOVATION, CLEARING FORMER CHAIR JEROME POWELL OF WRONGDOING.
@@ -261,3 +254,8 @@
 - 10/01 11:09 [FirstSquawk] NZ dollar declines to $0.5618, reaches lowest level since November 2025
 - 10/01 11:14 [financialjuice] Canadian dollar drops to three-month low at C$1.4246
 - 10/01 11:14 [FirstSquawk] Canadian dollar slides to three-month low at C$1.4246
+- 10/01 11:22 [FirstSquawk] Afghan official: Four killed, six injured in Pakistani air strike on Afghanistan
+- 10/01 11:22 [financialjuice] Four killed, six wounded in Pakistani air strike on Afghanistan: Afghan provincial official
+- 10/01 11:29 [FirstSquawk] Toyota Motor to invest roughly $1.34bn in Argentina’s electric vehicle production, minister says
+- 10/01 11:37 [financialjuice] South Korea President Lee: Alaska LNG project to start only if commercially viable and compliant with South Korean law
+- 10/01 11:37 [financialjuice] South Korea President Lee: Investment project gains to be split 50-50 until principal and interest fully repaid
