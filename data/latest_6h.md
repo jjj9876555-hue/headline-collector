@@ -7,44 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 09:28 JST／対象: 10/01 03:28 〜 10/01 09:28 JST（時刻はすべて日本時間）
+生成: 2026-10-01 09:52 JST／対象: 10/01 03:52 〜 10/01 09:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 18 | 10/01 03:31 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
-| FirstSquawk | 86 | 10/01 03:31 | 10/01 09:28 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 125 | 10/01 03:31 | 10/01 09:15 | 36分（07:29→08:05） |
+| DeItaone | 10 | 10/01 03:54 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
+| FirstSquawk | 92 | 10/01 03:54 | 10/01 09:51 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 122 | 10/01 03:53 | 10/01 09:30 | 36分（07:29→08:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 223 行（統合前 230 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 218 行（統合前 225 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 03:31 [financialjuice] NYMEX WTI Crude November futures settle at $90.42 a barrel, up $1.04, 1.16%.
-- 10/01 03:31 [DeItaone] $SNPS - OPENAI AND SYNOPSYS ANNOUNCE GPT-SYNOPSYS: FRONTIER INTELLIGENCE TO REVOLUTIONIZE CHIP DESIGN
-- 10/01 03:31 [financialjuice] NYMEX Gasoline October futures settle at $3.4378 a gallon.
-- 10/01 03:31 [financialjuice] NYMEX Diesel October futures settle at $4.9569 a gallon.
-- 10/01 03:31 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 1.16% HIGHER AT $90.42/BBL, UP $1.04
-- 10/01 03:32 [financialjuice] NYMEX Natural Gas November futures settle at $3.0260/MMBtu.
-- 10/01 03:36 [DeItaone] SYCAMORE PARTNERS IN TALKS TO SELL U.K. PHARMACY CHAIN BOOTS, SOURCES SAY SYCAMORE PARTNERS IN TALKS TO SELL U.K. PHARMACY CHAIN BOOTS, SOURCES SAY CANADIAN ARM OF WESTON FAMILY IN TALKS TO BUY BOOTS FOR CLOSE TO $9 BILLION, SOURCES SAY SYC…
-- 10/01 03:36 [financialjuice] White House: South Korea plans to invest billions into major US energy projects, including a crucial Alaska LNG plan. These investments will generate thousands of jobs and help reduce energy costs for Americans - Post on X.
-- 10/01 03:37 [financialjuice] Trump ends remarks.
-- 10/01 03:38 [DeItaone] WALGREENS OWNER NEARS $9 BILLION BOOTS SALE Walgreens owner Sycamore Partners is nearing a deal to sell Boots for close to $9 billion including debt, according to the WSJ. The buyer is reportedly the Canadian arm of the Weston family, which…
-- 10/01 03:40 [FirstSquawk] SYNOPSYS SAYS IT AND OPENAI HAVE SIGNED A MULTI-YEAR AGREEMENT TO DEVELOP GPT-SYNOPSYS FOR CHIP DESIGN, WITH OPENAI TO LICENSE SYNOPSYS' TRUSTED ELECTRONIC DESIGN AUTOMATION (EDA) TOOLS FOR DEVELOPMENT OF THE SPECIALIZED MODEL.
-- 10/01 03:40 [FirstSquawk] SYNOPSYS SAYS THE AGREEMENT INCLUDES REVENUE SHARING AND A GLOBAL GO-TO-MARKET FOR GPT-SYNOPSYS.
-- 10/01 03:41 [DeItaone] *WHITE HOUSE: SOUTH KOREA PLANS TO INVEST BILLIONS
-- 10/01 03:41 [DeItaone] WHITE HOUSE SAYS S. KOREA TO INVEST IN US ENERGY
-- 10/01 03:42 [FirstSquawk] US SENATORS DELAY PUSH FOR PERMANENT CHINESE CAR BAN APPROVAL UNTIL NOVEMBER — AIDES
-- 10/01 03:44 [FirstSquawk] ISRAEL'S NETANYAHU SAYS THE PILOT ATTACKED ON A FLYDUBAI FLIGHT WAS INDIAN, NAMING HIM AS SMIT MACHCHHAR, AND SAYS THE PILOT'S ACTIONS SAVED 174 LIVES, INCLUDING ISRAELIS AND OTHER NATIONALS
-- 10/01 03:45 [DeItaone] *BIGGEST US GRID SUSPENDS PLAN FOR NEW DATA CENTER POWER AUCTION
-- 10/01 03:46 [DeItaone] SYRIA SAYS THREE POWER PLANTS GONE OUT OF SERVICE AFTER GAS PIPELINE EXPLOSION -STATE NEWS AGENCY
-- 10/01 03:46 [financialjuice] Syria: Three power plants gone out of service after gas pipeline explosion - State News Agency.
-- 10/01 03:48 [DeItaone] *OPENAI CEO SAM ALTMAN TO SKIP CONGRESS HEARING ON AI: NBC
-- 10/01 03:51 [financialjuice] OpenAI CEO Altman is going to skip the Congressional hearing on rogue AI agents - NBC News.
 - 10/01 03:53 [financialjuice] Brent Crude futures settle at $103.53/bbl, up 94 cents, 0.92%.
 - 10/01 03:54 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 0.92% HIGHER AT $103.53/BBL, UP 94 CENTS
 - 10/01 03:54 [DeItaone] TRUMP SET TO UNVEIL $200 BILLION SOUTH KOREAN INVESTMENT President Trump is expected to announce $200 billion in South Korean investment in U.S. energy projects, including eight nuclear power plants, a Texas power facility and Alaska LNG. T…
@@ -247,3 +226,19 @@
 - 10/01 09:25 [FirstSquawk] Asia-Pacific equities trade mixed at the open following a similar performance on Wall Street, with markets weighing fresh data and rising yields despite softer PCE inflation.
 - 10/01 09:25 [FirstSquawk] Nidec shares sink 18.5%
 - 10/01 09:28 [FirstSquawk] US State Department: Four Americans were aboard Flydubai flight bound for Israel
+- 10/01 09:28 [FirstSquawk] Axios: Rubio calls for Iranian UN delegation to exit US as negotiations hit deadlock
+- 10/01 09:29 [FirstSquawk] ZAMBIA SIGNED $2.14 BILLION IN MEMORANDA OF UNDERSTANDING WITH UAE PARTNERS TO SUPPORT COPPER EXPANSION, WITH PRESIDENT HAKAINDE HICHILEMA TARGETING 3 MILLION TONNES OF ANNUAL PRODUCTION BY 2031. THE LARGEST AGREEMENT IS A PROPOSED $2 BILLI…
+- 10/01 09:30 [financialjuice] JAPANESE MFG PMI ACTUAL 54.1 (FORECAST -, PREVIOUS 54.1) $MACRO
+- 10/01 09:30 [financialjuice] S. KOREAN MANUFACTURING PMI ACTUAL 53.9 (FORECAST -, PREVIOUS 52.3) $MACRO
+- 10/01 09:30 [financialjuice] Japan S&P Global final manufacturing PMI for September steady at 54.1 versus flash estimate
+- 10/01 09:30 [financialjuice] South Korea S&P Global September manufacturing PMI at 53.9 vs 52.3 in August
+- 10/01 09:30 [financialjuice] Taiwan s&p global September manufacturing PMI climbs to 56.7 from 54.7 in August
+- 10/01 09:31 [FirstSquawk] 2-year JGB yield declines 1.0bp to 1.940%
+- 10/01 09:32 [FirstSquawk] Japan S&P Global Manufacturing PMI confirmed at 54.1 in September, unchanged from initial reading
+- 10/01 09:33 [FirstSquawk] South Korea’s manufacturing PMI strengthens to 53.9 in September from 52.3
+- 10/01 09:34 [FirstSquawk] 20-year JGB yield gains 3.5bp to 3.935%
+- 10/01 09:39 [FirstSquawk] Nikkei advances 1.0% with chip stocks leading the rally
+- 10/01 09:39 [FirstSquawk] Yen trades in a narrow range ahead of BOJ Tankan, BOJ Summary of Opinions - WSJ
+- 10/01 09:44 [FirstSquawk] CME: Gold options volume unchanged in September as prices close 9% below August peak
+- 10/01 09:50 [FirstSquawk] OpenAI president pulls back on pledged $25 million donation to AI super PAC, WSJ says
+- 10/01 09:51 [FirstSquawk] 5-year JGB yield gains 0.5bp to 2.380%

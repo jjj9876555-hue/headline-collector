@@ -7,57 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-01 09:28 JST／対象: 09/30 21:28 〜 10/01 09:28 JST（時刻はすべて日本時間）
+生成: 2026-10-01 09:52 JST／対象: 09/30 21:52 〜 10/01 09:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 53 | 09/30 21:30 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
-| FirstSquawk | 159 | 09/30 21:30 | 10/01 09:28 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 225 | 09/30 21:30 | 10/01 09:15 | 36分（07:29→08:05） |
+| DeItaone | 44 | 09/30 22:02 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
+| FirstSquawk | 164 | 09/30 21:53 | 10/01 09:51 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 208 | 09/30 22:00 | 10/01 09:30 | 36分（07:29→08:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 420 行（統合前 439 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 402 行（統合前 418 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 21:30 [DeItaone] US FINAL Q2 GDP +2.2% (CONSENSUS +1.5%) US FINAL Q2 PCE PRICE INDEX +5.0% US FINAL Q2 CORE PCE +3.3% (CONSENSUS +3.6%)
-- 09/30 21:30 [financialjuice] US ADVANCE GOODS TRADE BALANCE ACTUAL -132.6B (FORECAST -115B, PREVIOUS -118.94B) $MACRO
-- 09/30 21:30 [financialjuice] US WHOLESALE INVENTORIES MOM ADVANCE ACTUAL 0.7% (FORECAST 0.5%, PREVIOUS 1.3%) $MACRO
-- 09/30 21:30 [financialjuice] US RETAIL INVENTORIES EX-AUTO ADV. ACTUAL 0.1% (FORECAST -, PREVIOUS 0.8%) $MACRO
-- 09/30 21:30 [FirstSquawk] US GDP (QOQ) (Q2) ACTUAL: 2.2% VS 1.5% PREVIOUS; EST 1.5%
-- 09/30 21:30 [financialjuice] ❗ US GDP QOQ FINAL ACTUAL 2.2% (FORECAST 1.5%, PREVIOUS 1.5%) $MACRO
-- 09/30 21:30 [FirstSquawk] US PERSONAL INCOME (MOM) (AUG) ACTUAL: 0.2% VS 0.4% PREVIOUS; EST 0.5%
-- 09/30 21:30 [financialjuice] ❗ US CONSUMER SPENDING MOM ACTUAL 0.9% (FORECAST 0.9%, PREVIOUS 0.2%) $MACRO
-- 09/30 21:30 [FirstSquawk] US PERSONAL SPENDING (MOM) (AUG) ACTUAL: 0.9% VS 0.2% PREVIOUS; EST 0.9%
-- 09/30 21:30 [FirstSquawk] US WHOLESALE INVENTORIES (MOM) ACTUAL: 0.7% VS 1.3% PREVIOUS; EST 0.5%
-- 09/30 21:30 [financialjuice] ❗ US PCE PRICE INDEX MOM ACTUAL 0.3% (FORECAST 0.3%, PREVIOUS 0.2%) $MACRO
-- 09/30 21:30 [financialjuice] US PERSONAL INCOME MOM ACTUAL 0.2% (FORECAST 0.5%, PREVIOUS 0.4%) $MACRO
-- 09/30 21:30 [financialjuice] ❗ US CORE PCE PRICE INDEX MOM ACTUAL 0.2% (FORECAST 0.3%, PREVIOUS 0.2%) $MACRO
-- 09/30 21:31 [financialjuice] ‼ BREAKING: US PCE PRICE INDEX YOY ACTUAL 3.4% (FORECAST 3.7%, PREVIOUS 3.7%) $MACRO
-- 09/30 21:31 [financialjuice] ❗ US CORE PCE PRICE INDEX YOY ACTUAL 3.007601% (FORECAST 3.3%, PREVIOUS 3.3%) $MACRO
-- 09/30 21:31 [financialjuice] US CORE PCE PRICES FINAL ACTUAL 3.3% (FORECAST 3.6%, PREVIOUS 3.6%) $MACRO
-- 09/30 21:31 [financialjuice] US PCE PRICES FINAL ACTUAL 5.0% (FORECAST -, PREVIOUS 5.3%) $MACRO
-- 09/30 21:31 [financialjuice] US GDP DEFLATOR SA FINAL ACTUAL 6.1% (FORECAST -, PREVIOUS 6.4%) $MACRO
-- 09/30 21:31 [DeItaone] SPOT GOLD EXTENDS GAINS AFTER US PCE DATA, LAST UP 0.6% AT $4,206.29/OZ
-- 09/30 21:35 [financialjuice] US 2025 GDP growth revised to +2.3% from +2.1%.
-- 09/30 21:36 [financialjuice] US Personal Income and Outlays August 2026 Report
-- 09/30 21:37 [DeItaone] SOFTER U.S. INFLATION CUTS FED HIKE ODDS August core PCE fell to 3.0% YoY vs. 3.3% expected, while headline PCE came in at 3.4% vs. 3.7% forecast. Q2 GDP was revised higher to 2.2% from 1.5%. Kalshi now prices a 65% chance of no October Fed…
-- 09/30 21:37 [FirstSquawk/financialjuice] TRADERS PARE BETS ON OCTOBER FED RATE HIKE AFTER PCE REPORT
-- 09/30 21:38 [financialjuice] US GDP QoQ Q2 Report
-- 09/30 21:38 [DeItaone] U.S. CONSUMER SPENDING SURGES AS CORE INFLATION COOLS Inflation-adjusted U.S. consumer spending jumped 0.6% in August, its strongest monthly increase since March 2025. Meanwhile, the Fed’s preferred inflation gauge rose 0.3% MoM, with core …
-- 09/30 21:39 [financialjuice] Eu and Canada to explore new technology links and LNG sales - Draft Agreement
-- 09/30 21:40 [DeItaone/financialjuice] SHORT-TERM TRADERS TRIM BETS ON RATE HIKES AFTER ECONOMIC DATA
-- 09/30 21:42 [FirstSquawk] EU AND CANADA TO EXPLORE NEW TECHNOLOGY LINKS AND LNG SALES
-- 09/30 21:44 [DeItaone] U.S. CORE PCE FALLS BELOW EVERY ANALYST FORECAST August core PCE came in at 3.0% YoY vs. 3.3% expected, below the entire range of 51 Bloomberg analyst forecasts (3.1%–3.5%). The surprise was driven primarily by larger-than-expected downward…
-- 09/30 21:45 [financialjuice] France’s President Macron: Welcome back if the UK wants to rejoin the EU.
-- 09/30 21:46 [DeItaone/financialjuice] FRANCE’S MACRON: IF THE BRITISH PM WANTS BRITAIN TO RETURN TO THE EU THAT WOULD BE EXCELLENT NEWS AND A GOOD DECISION
-- 09/30 21:48 [DeItaone] *MACRON SAYS `WELCOME BACK' IF UK WANTS TO REJOIN EU
-- 09/30 21:49 [financialjuice] EU Commission Spokesperson Ujvari: The EU is open to engaging on relationship options the UK may put forward - Statement
-- 09/30 21:51 [DeItaone] U.S. S&P 500 E-MINI FUTURES UP 0.3%, NASDAQ 100 FUTURES UP 0.29%, DOW FUTURES UP 0.26%
 - 09/30 21:53 [FirstSquawk] EU OPEN TO ENGAGING ON RELATIONSHIP OPTIONS UK MAY PUT FORWARD
 - 09/30 22:00 [financialjuice] Effective fed funds rate 3.88% September 29th vs 3.88% September 28th.
 - 09/30 22:01 [FirstSquawk] BMW AIMS TO CUT 20% OF MANAGEMENT JOBS WITH AI ASSISTANCE.
@@ -444,3 +410,19 @@
 - 10/01 09:25 [FirstSquawk] Asia-Pacific equities trade mixed at the open following a similar performance on Wall Street, with markets weighing fresh data and rising yields despite softer PCE inflation.
 - 10/01 09:25 [FirstSquawk] Nidec shares sink 18.5%
 - 10/01 09:28 [FirstSquawk] US State Department: Four Americans were aboard Flydubai flight bound for Israel
+- 10/01 09:28 [FirstSquawk] Axios: Rubio calls for Iranian UN delegation to exit US as negotiations hit deadlock
+- 10/01 09:29 [FirstSquawk] ZAMBIA SIGNED $2.14 BILLION IN MEMORANDA OF UNDERSTANDING WITH UAE PARTNERS TO SUPPORT COPPER EXPANSION, WITH PRESIDENT HAKAINDE HICHILEMA TARGETING 3 MILLION TONNES OF ANNUAL PRODUCTION BY 2031. THE LARGEST AGREEMENT IS A PROPOSED $2 BILLI…
+- 10/01 09:30 [financialjuice] JAPANESE MFG PMI ACTUAL 54.1 (FORECAST -, PREVIOUS 54.1) $MACRO
+- 10/01 09:30 [financialjuice] S. KOREAN MANUFACTURING PMI ACTUAL 53.9 (FORECAST -, PREVIOUS 52.3) $MACRO
+- 10/01 09:30 [financialjuice] Japan S&P Global final manufacturing PMI for September steady at 54.1 versus flash estimate
+- 10/01 09:30 [financialjuice] South Korea S&P Global September manufacturing PMI at 53.9 vs 52.3 in August
+- 10/01 09:30 [financialjuice] Taiwan s&p global September manufacturing PMI climbs to 56.7 from 54.7 in August
+- 10/01 09:31 [FirstSquawk] 2-year JGB yield declines 1.0bp to 1.940%
+- 10/01 09:32 [FirstSquawk] Japan S&P Global Manufacturing PMI confirmed at 54.1 in September, unchanged from initial reading
+- 10/01 09:33 [FirstSquawk] South Korea’s manufacturing PMI strengthens to 53.9 in September from 52.3
+- 10/01 09:34 [FirstSquawk] 20-year JGB yield gains 3.5bp to 3.935%
+- 10/01 09:39 [FirstSquawk] Nikkei advances 1.0% with chip stocks leading the rally
+- 10/01 09:39 [FirstSquawk] Yen trades in a narrow range ahead of BOJ Tankan, BOJ Summary of Opinions - WSJ
+- 10/01 09:44 [FirstSquawk] CME: Gold options volume unchanged in September as prices close 9% below August peak
+- 10/01 09:50 [FirstSquawk] OpenAI president pulls back on pledged $25 million donation to AI super PAC, WSJ says
+- 10/01 09:51 [FirstSquawk] 5-year JGB yield gains 0.5bp to 2.380%

@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-01 09:28 JST／対象: 09/30 09:28 〜 10/01 09:28 JST（時刻はすべて日本時間）
+生成: 2026-10-01 09:52 JST／対象: 09/30 09:52 〜 10/01 09:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 75 | 09/30 18:55 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
-| FirstSquawk | 364 | 09/30 09:29 | 10/01 09:28 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 341 | 09/30 09:32 | 10/01 09:15 | ⚠ 80分（10:57→12:18） |
+| FirstSquawk | 362 | 09/30 09:55 | 10/01 09:51 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 342 | 09/30 10:00 | 10/01 09:30 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 760 行（統合前 782 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 759 行（統合前 781 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 09:29 [FirstSquawk] TRUMP STANDS BY LIGHT-TOUCH AI POLICY AMID GROWING INDUSTRY WARNINGS - WSJ
-- 09/30 09:30 [FirstSquawk] CHINA SIGNALS RESPONSE IF EU MOVES AGAINST CHINESE TRADE
-- 09/30 09:32 [financialjuice] S.Korea finmin: closely watching bond market
-- 09/30 09:33 [FirstSquawk] S.Korea finmin: Watching bond market developments closely
-- 09/30 09:33 [FirstSquawk] S.Korea finmin: Plans to use excess tax revenue to lower bond issuance if required
-- 09/30 09:33 [financialjuice] S.Korea Finance Ministry: to use surplus tax revenue to cut bond issuance if necessary
-- 09/30 09:33 [FirstSquawk] Reuters: Echoes of explosions heard in Kyiv
-- 09/30 09:35 [financialjuice] S. Korea finmin: to implement other stabilizing steps including treasury bond repurchase if bond yields soar excessively
-- 09/30 09:38 [FirstSquawk] S.Korea finmin: May use treasury bond buybacks and other measures if bond yields rise too sharply
-- 09/30 09:38 [FirstSquawk] Samsung Heavy Industries secures 307.4 billion won order
-- 09/30 09:39 [financialjuice] UN command: DMZ blast violates armistice agreement - Yonhap
-- 09/30 09:39 [FirstSquawk] Samsung Heavy Industries wins contract to build two very large gas carriers for Bermuda shipper
-- 09/30 09:42 [FirstSquawk] Heavy missile attack strikes Kyiv, with residential areas and energy sites hit and power outages reported in parts of the capital
-- 09/30 09:46 [FirstSquawk] 10-year JGB yield advances 1.0 basis point to 3.095%
-- 09/30 09:47 [FirstSquawk] CBS: Hegseth to announce plans to reduce generals and admirals by 20%
-- 09/30 09:51 [FirstSquawk] Japan elderly population rises to record 29.4% of total in 2025 census
-- 09/30 09:51 [FirstSquawk] Russian ballistic missile strikes rock Kyiv, leaving parts of capital without power
 - 09/30 09:55 [FirstSquawk] WSJ: Oil prices mixed, with production recovery potentially weighing on prices
 - 09/30 09:55 [FirstSquawk] WSJ: Nikkei climbs 1.5%, driven by gains in chip and bank stocks
 - 09/30 09:56 [FirstSquawk] WSJ: Short-term JGBs advance alongside gains in similar-maturity U.S. Treasurys
@@ -784,3 +767,19 @@
 - 10/01 09:25 [FirstSquawk] Asia-Pacific equities trade mixed at the open following a similar performance on Wall Street, with markets weighing fresh data and rising yields despite softer PCE inflation.
 - 10/01 09:25 [FirstSquawk] Nidec shares sink 18.5%
 - 10/01 09:28 [FirstSquawk] US State Department: Four Americans were aboard Flydubai flight bound for Israel
+- 10/01 09:28 [FirstSquawk] Axios: Rubio calls for Iranian UN delegation to exit US as negotiations hit deadlock
+- 10/01 09:29 [FirstSquawk] ZAMBIA SIGNED $2.14 BILLION IN MEMORANDA OF UNDERSTANDING WITH UAE PARTNERS TO SUPPORT COPPER EXPANSION, WITH PRESIDENT HAKAINDE HICHILEMA TARGETING 3 MILLION TONNES OF ANNUAL PRODUCTION BY 2031. THE LARGEST AGREEMENT IS A PROPOSED $2 BILLI…
+- 10/01 09:30 [financialjuice] JAPANESE MFG PMI ACTUAL 54.1 (FORECAST -, PREVIOUS 54.1) $MACRO
+- 10/01 09:30 [financialjuice] S. KOREAN MANUFACTURING PMI ACTUAL 53.9 (FORECAST -, PREVIOUS 52.3) $MACRO
+- 10/01 09:30 [financialjuice] Japan S&P Global final manufacturing PMI for September steady at 54.1 versus flash estimate
+- 10/01 09:30 [financialjuice] South Korea S&P Global September manufacturing PMI at 53.9 vs 52.3 in August
+- 10/01 09:30 [financialjuice] Taiwan s&p global September manufacturing PMI climbs to 56.7 from 54.7 in August
+- 10/01 09:31 [FirstSquawk] 2-year JGB yield declines 1.0bp to 1.940%
+- 10/01 09:32 [FirstSquawk] Japan S&P Global Manufacturing PMI confirmed at 54.1 in September, unchanged from initial reading
+- 10/01 09:33 [FirstSquawk] South Korea’s manufacturing PMI strengthens to 53.9 in September from 52.3
+- 10/01 09:34 [FirstSquawk] 20-year JGB yield gains 3.5bp to 3.935%
+- 10/01 09:39 [FirstSquawk] Nikkei advances 1.0% with chip stocks leading the rally
+- 10/01 09:39 [FirstSquawk] Yen trades in a narrow range ahead of BOJ Tankan, BOJ Summary of Opinions - WSJ
+- 10/01 09:44 [FirstSquawk] CME: Gold options volume unchanged in September as prices close 9% below August peak
+- 10/01 09:50 [FirstSquawk] OpenAI president pulls back on pledged $25 million donation to AI super PAC, WSJ says
+- 10/01 09:51 [FirstSquawk] 5-year JGB yield gains 0.5bp to 2.380%
