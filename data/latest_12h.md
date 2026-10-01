@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-01 11:01 JST／対象: 09/30 23:01 〜 10/01 11:01 JST（時刻はすべて日本時間）
+生成: 2026-10-01 11:21 JST／対象: 09/30 23:21 〜 10/01 11:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 38 | 09/30 23:05 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
-| FirstSquawk | 188 | 09/30 23:03 | 10/01 10:59 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 215 | 09/30 23:02 | 10/01 10:59 | 36分（07:29→08:05） |
+| DeItaone | 35 | 09/30 23:35 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
+| FirstSquawk | 189 | 09/30 23:27 | 10/01 11:14 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 214 | 09/30 23:30 | 10/01 11:14 | 36分（07:29→08:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 428 行（統合前 443 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 426 行（統合前 440 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 23:02 [financialjuice] NATO Sec. Gen. Rutte: US will stay involved in conventional defence of Europe, as well as nuclear.
-- 09/30 23:03 [FirstSquawk/DeItaone] MEXICO GROWS CONFIDENT ON US DEAL TO CUT STEEL, AUTO TARIFFS
-- 09/30 23:05 [FirstSquawk] APPLE’S $2,000 FOLDABLE IPHONE COULD SELL 6 MILLION UNITS Apple’s rumored first foldable iPhone, expected to cost around $2,000, could reportedly sell as many as 6 million units. The device is expected to bring Apple’s design, software, and…
-- 09/30 23:07 [DeItaone] U.S. INFLATION BREADTH SHOWS SIGNS OF COOLING Despite softer core PCE revisions, 51% of the PCE basket is still rising at 3% or more annually, little changed from recent months. However, the share experiencing inflation above 3% on a six-mo…
-- 09/30 23:15 [FirstSquawk] ELI LILLY: PARTICIPANTS TAKING ELORATZP LOWERED THEIR A1C BY UP TO AVERAGE OF 2.9% VS. 2.4% WITH TIRZEPATIDE 15 MG || AT 48 WEEKS, ALL COMBINATIONS OF ELORATZP MET PRIMARY & SECONDARY ENDPOINTS || PARTICIPANTS TAKING ELORATZP LOST UP TO AVE…
-- 09/30 23:15 [FirstSquawk] ELI LILLY: PLANS TO INITIATE PHASE 3 STUDIES OF ELORATZP CO-FORMULATION PRODUCT BY 2026 END USING OPTIMIZED ESCALATION SCHEDULE
-- 09/30 23:17 [DeItaone] $LLY - ELI LILLY’S NEW OBESITY DRUG DELIVERS 23.3% WEIGHT LOSS Eli Lilly’s experimental drug eloralintide, combined with Zepbound, delivered 23.3% average weight loss over roughly 11 months, compared with 14.8% for Zepbound alone in patient…
-- 09/30 23:17 [financialjuice] Crypto Fear & Greed Index: 71/100 - Greed
-- 09/30 23:18 [financialjuice] Fear & Greed Index: 35/100 - Fear
-- 09/30 23:20 [financialjuice] Hezbollah Brigades: US spy and combat aircraft still present in Iraqi skies - IRNA
 - 09/30 23:27 [FirstSquawk] KALSHI, POLYMARKET TRADING VOLUMES ON SOME PRODUCTS RAISES QUESTIONS AMID MASSIVE GROWTH – CNBC
 - 09/30 23:29 [FirstSquawk] US TREASURY 30-YEAR YIELD RISES TO 5.62%, NEW HIGH SINCE 2002
 - 09/30 23:30 [FirstSquawk] US CRUDE OIL INVENTORIES ACTUAL: 922K VS 2969K PREVIOUS; EST -455K
@@ -452,3 +442,11 @@
 - 10/01 10:57 [FirstSquawk] Japan’s 10-year JGB yield gains 5.0bp to 3.110%
 - 10/01 10:59 [FirstSquawk] South Korea ministry says investment in US Alaska LNG project remains undecided — Yonhap
 - 10/01 10:59 [financialjuice] South Korea industry ministry: US Alaska LNG project investment still undecided - Yonhap
+- 10/01 11:01 [FirstSquawk] 30-year JGB yield advances 6.0bp to 4.200%
+- 10/01 11:03 [FirstSquawk] Trump says Seoul plans $200bn investment in US energy projects - FT
+- 10/01 11:08 [financialjuice] Dollar/yen rises 0.5% to 158.19
+- 10/01 11:08 [FirstSquawk] USD/JPY advances 0.5% to 158.19
+- 10/01 11:09 [financialjuice] New Zealand dollar dips to $0.5618, lowest since November 2025
+- 10/01 11:09 [FirstSquawk] NZ dollar declines to $0.5618, reaches lowest level since November 2025
+- 10/01 11:14 [financialjuice] Canadian dollar drops to three-month low at C$1.4246
+- 10/01 11:14 [FirstSquawk] Canadian dollar slides to three-month low at C$1.4246

@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-01 11:01 JST／対象: 09/30 11:01 〜 10/01 11:01 JST（時刻はすべて日本時間）
+生成: 2026-10-01 11:21 JST／対象: 09/30 11:21 〜 10/01 11:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 75 | 09/30 18:55 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
-| FirstSquawk | 368 | 09/30 11:02 | 10/01 10:59 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 329 | 09/30 12:18 | 10/01 10:59 | ⚠ 58分（14:00→14:59） |
+| FirstSquawk | 367 | 09/30 11:21 | 10/01 11:14 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 332 | 09/30 12:18 | 10/01 11:14 | ⚠ 58分（14:00→14:59） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 752 行（統合前 774 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 754 行（統合前 776 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 11:02 [FirstSquawk] Sri Lanka central bank leaves overnight policy rate unchanged at 8.75%
-- 09/30 11:03 [FirstSquawk] Fitch confirms Bank of Queensland’s mortgage covered bond programmes at AAA with stable outlook
-- 09/30 11:07 [FirstSquawk] Sri Lanka central bank says current account likely recorded a surplus in August 2026
-- 09/30 11:13 [FirstSquawk] China’s military carries out readiness patrols in Scarborough Shoal’s surrounding sea and airspace
-- 09/30 11:18 [FirstSquawk] Porsche introduces Cayenne Electric to South Korean market
-- 09/30 11:18 [FirstSquawk] DeepSeek releases open-source programming tools powered by Huawei Ascend chips
 - 09/30 11:21 [FirstSquawk] North Korean POWs entered South Korea in September, South Korean lawmaker says — media
 - 09/30 11:22 [FirstSquawk] North Korean leader Kim has no apparent health problems, South Korean lawmaker says, citing spy agency
 - 09/30 11:27 [FirstSquawk] DeepSeek develops 128-chip “super node” based on Ascend 950, with optimized computation and communication
@@ -776,3 +770,11 @@
 - 10/01 10:57 [FirstSquawk] Japan’s 10-year JGB yield gains 5.0bp to 3.110%
 - 10/01 10:59 [FirstSquawk] South Korea ministry says investment in US Alaska LNG project remains undecided — Yonhap
 - 10/01 10:59 [financialjuice] South Korea industry ministry: US Alaska LNG project investment still undecided - Yonhap
+- 10/01 11:01 [FirstSquawk] 30-year JGB yield advances 6.0bp to 4.200%
+- 10/01 11:03 [FirstSquawk] Trump says Seoul plans $200bn investment in US energy projects - FT
+- 10/01 11:08 [financialjuice] Dollar/yen rises 0.5% to 158.19
+- 10/01 11:08 [FirstSquawk] USD/JPY advances 0.5% to 158.19
+- 10/01 11:09 [financialjuice] New Zealand dollar dips to $0.5618, lowest since November 2025
+- 10/01 11:09 [FirstSquawk] NZ dollar declines to $0.5618, reaches lowest level since November 2025
+- 10/01 11:14 [financialjuice] Canadian dollar drops to three-month low at C$1.4246
+- 10/01 11:14 [FirstSquawk] Canadian dollar slides to three-month low at C$1.4246
