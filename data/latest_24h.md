@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-01 15:52 JST／対象: 09/30 15:52 〜 10/01 15:52 JST（時刻はすべて日本時間）
+生成: 2026-10-01 16:08 JST／対象: 09/30 16:08 〜 10/01 16:08 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 75 | 09/30 18:55 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
-| FirstSquawk | 338 | 09/30 16:01 | 10/01 15:50 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 347 | 09/30 16:01 | 10/01 15:47 | ⚠ 54分（16:01→16:55） |
+| FirstSquawk | 341 | 09/30 16:14 | 10/01 16:08 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 347 | 09/30 16:55 | 10/01 16:07 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 741 行（統合前 762 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 744 行（統合前 765 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 16:01 [financialjuice] Russia extends diesel export ban through October - IFX
-- 09/30 16:01 [FirstSquawk] Israeli prime minister’s spokesperson says Flydubai incident is not a hijacking
 - 09/30 16:14 [FirstSquawk] RUSSIA HAS DECIDED TO CONTINUE ITS BAN ON DIESEL EXPORTS UNTIL OCTOBER.
 - 09/30 16:14 [FirstSquawk] S. KOREA FOREIGN EXCHANGE OFFICIALS SOLD A NET OF $9.61 BILLION IN THE MARKET DURING THE SECOND QUARTER.
 - 09/30 16:14 [FirstSquawk] CHINA'S FOREIGN MINISTRY WILL STOP BRIEFINGS FROM OCTOBER 1 TO 7 AND WILL RESUME ON OCTOBER 8.
@@ -765,3 +763,8 @@
 - 10/01 15:31 [FirstSquawk] SWEDEN (SEP) SWEEDBANK/SILF PMI MANUFACTURING ACTUAL: 58.1 VS 56.1 PREVIOUS
 - 10/01 15:47 [financialjuice] EUR/USD year-end options sentiment at its most bearish since April
 - 10/01 15:50 [FirstSquawk] Israeli security cabinet set to meet Sunday evening amid tensions — N13 reporter via https://t.co/tmVHTGptg3
+- 10/01 16:01 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 1.04% || FRANCE'S CAC 40 DOWN 0.64% || SPAIN'S IBEX DOWN 0.75%
+- 10/01 16:05 [FirstSquawk] GERMANY'S DAX DOWN 0.6%
+- 10/01 16:07 [financialjuice] South Korea Industry Minister: I expressed strong objection to US Commerce Secretary Lutnick over the announcement of the Alaska LNG project - Yonhap
+- 10/01 16:07 [FirstSquawk] TESLA'S NEW CAR REGISTRATIONS IN SWEDEN ROSE BY 38.4% YEAR-OVER-YEAR IN SEPTEMBER, ACCORDING TO MOBILITY SWEDEN.
+- 10/01 16:08 [FirstSquawk] UAE PROSECUTOR GENERAL INITIATES INQUIRY INTO FLYDUBAI FLIGHT INCIDENT, CONSIDERING POSSIBLE CONNECTION TO 'TERRORIST ACTIVITY,' ACCORDING TO STATE NEWS AGENCY.
