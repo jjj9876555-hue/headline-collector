@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-02 00:49 JST／対象: 10/01 18:49 〜 10/02 00:49 JST（時刻はすべて日本時間）
+生成: 2026-10-02 01:01 JST／対象: 10/01 19:01 〜 10/02 01:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 31 | 10/01 18:55 | 10/01 23:19 | 39分（22:07→22:47） |
+| DeItaone | 29 | 10/01 19:02 | 10/01 23:19 | 39分（22:07→22:47） |
 | FirstSquawk | 81 | 10/01 19:28 | 10/02 00:44 | 21分（21:46→22:08） |
-| financialjuice | 127 | 10/01 19:25 | 10/02 00:44 | 28分（19:33→20:02） |
+| financialjuice | 130 | 10/01 19:25 | 10/02 01:00 | 28分（19:33→20:02） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 228 行（統合前 242 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 229 行（統合前 244 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 18:55 [DeItaone] AWS HIKES GPU PRICES AGAIN AS AI DEMAND STAYS STRONG AWS will raise reserved GPU compute prices by 15% on October 7, following a 20% increase in July, according to Wells Fargo. It marks the fourth consecutive quarterly increase, with H100/H…
-- 10/01 19:00 [DeItaone] $AVGO - BROADCOM TO LEND UP TO $42 BILLION TO ANTHROPIC FOR INFRASTRUCTURE LEASE AGREEMENTS, ACCORDING TO IPO PROSPECTUS
 - 10/01 19:02 [DeItaone] EURO SLIDE CONTINUES; LAST DOWN 0.55% AT $1.127
 - 10/01 19:25 [financialjuice] EU: In 'high level contact’ with the US on emergency diesel stocks
 - 10/01 19:25 [financialjuice] The US slowed export licensing for plane parts to China - Sources
@@ -252,3 +250,6 @@
 - 10/02 00:42 [FirstSquawk] US TWO-YEAR YIELD FALLS 10 BASIS POINTS ON DAY TO 4.785%
 - 10/02 00:44 [financialjuice] ❗ traders no longer fully price in 4 BOE rate hikes by the end of 2027.
 - 10/02 00:44 [FirstSquawk] TRADERS NO LONGER FULLY PRICE 4 BOE RATE HIKES BY END OF 2027
+- 10/02 00:57 [financialjuice] Saudi East-West crude pipeline at 5.5mn b/d - Argus Media cites source
+- 10/02 00:57 [financialjuice] ❗ EU energy Union task force to meet friday to discuss potential diesel stock releases - Two EU diplomats
+- 10/02 01:00 [financialjuice] Freddie Mac: 30-year fixed-rate mortgage averaged 7.28% as of Oct. 1; US mortgage rates rise to 7.28%, highest since October 2023

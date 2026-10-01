@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-02 00:49 JST／対象: 10/01 12:49 〜 10/02 00:49 JST（時刻はすべて日本時間）
+生成: 2026-10-02 01:01 JST／対象: 10/01 13:01 〜 10/02 01:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 44 | 10/01 16:25 | 10/01 23:19 | 39分（22:07→22:47） |
-| FirstSquawk | 159 | 10/01 12:50 | 10/02 00:44 | ⚠ 53分（18:34→19:28） |
-| financialjuice | 196 | 10/01 13:02 | 10/02 00:44 | ⚠ 52分（14:07→15:00） |
+| FirstSquawk | 158 | 10/01 13:05 | 10/02 00:44 | ⚠ 53分（18:34→19:28） |
+| financialjuice | 199 | 10/01 13:02 | 10/02 01:00 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 387 行（統合前 402 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 389 行（統合前 405 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 12:50 [FirstSquawk] Goldman Sachs shifts forecast for next Fed rate hike to December
 - 10/01 13:02 [financialjuice] California agriculture files lawsuit challenging Trump administration's unlawful attempt to impound congressionally approved federal funding
 - 10/01 13:03 [financialjuice] EU questions Binance over ongoing operations despite order to wind down - FT
 - 10/01 13:05 [FirstSquawk] IBM unveils self-hosted IBM Bob option aimed at enterprise AI sovereignty and governance
@@ -411,3 +410,6 @@
 - 10/02 00:42 [FirstSquawk] US TWO-YEAR YIELD FALLS 10 BASIS POINTS ON DAY TO 4.785%
 - 10/02 00:44 [financialjuice] ❗ traders no longer fully price in 4 BOE rate hikes by the end of 2027.
 - 10/02 00:44 [FirstSquawk] TRADERS NO LONGER FULLY PRICE 4 BOE RATE HIKES BY END OF 2027
+- 10/02 00:57 [financialjuice] Saudi East-West crude pipeline at 5.5mn b/d - Argus Media cites source
+- 10/02 00:57 [financialjuice] ❗ EU energy Union task force to meet friday to discuss potential diesel stock releases - Two EU diplomats
+- 10/02 01:00 [financialjuice] Freddie Mac: 30-year fixed-rate mortgage averaged 7.28% as of Oct. 1; US mortgage rates rise to 7.28%, highest since October 2023

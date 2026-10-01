@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-02 00:49 JST／対象: 10/01 00:49 〜 10/02 00:49 JST（時刻はすべて日本時間）
+生成: 2026-10-02 01:01 JST／対象: 10/01 01:01 〜 10/02 01:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 77 | 10/01 00:52 | 10/01 23:19 | ⚠ 610分（06:15→16:25） |
-| FirstSquawk | 352 | 10/01 00:58 | 10/02 00:44 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 394 | 10/01 01:00 | 10/02 00:44 | ⚠ 52分（14:07→15:00） |
+| DeItaone | 75 | 10/01 02:11 | 10/01 23:19 | ⚠ 610分（06:15→16:25） |
+| FirstSquawk | 348 | 10/01 01:09 | 10/02 00:44 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 394 | 10/01 01:01 | 10/02 01:00 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 800 行（統合前 828 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 794 行（統合前 823 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 00:52 [DeItaone] ECB'S LAGARDE, ASKED BY LA CROIX NEWSPAPER IF SHE WOULD BE A FRENCH PRESIDENTIAL CANDIDATE, SAYS 'THAT WOULD NOT BE A GOOD IDEA AT ALL'
-- 10/01 00:53 [DeItaone] ECB'S LAGARDE TELLS LA CROIX IF I LEAVE ECB EARLY, "IT WILL ONLY BE BY A FEW MONTHS"
-- 10/01 00:58 [FirstSquawk] ECB'S LAGARDE ON IF SHE WOULD BE A FRENCH PRESIDENTIAL CANDIDATE: 'THAT WOULD NOT BE A GOOD IDEA AT ALL' - LA CROIX
-- 10/01 00:58 [FirstSquawk] ECB'S LAGARDE: IF I LEAVE ECB EARLY, "IT WILL ONLY BE BY A FEW MONTHS" – LA CROIX
-- 10/01 00:58 [FirstSquawk] USTR GREER: TO RELEASE 'MILWAUKEE FRAMEWORK' FOR COORDINATED ACTION TO ADDRESS EXCESS STEEL CAPACITY AT G20 TRADE MINISTERS MEETING
-- 10/01 01:00 [financialjuice] UK's PM Burnham: Looking at all things including fuel duty ahead of budget.
-- 10/01 01:01 [financialjuice] UK's PM Burnham: Hard to return to past growth without closer EU ties
-- 10/01 01:01 [FirstSquawk] Continental Q3 2026 Results: - ContiTech Q3 Sales, EBIT Margin Seen Falling (Q/Q) - Q3 Tires Sales Seen Slightly Below Prior Year - Tires Q3 Margin Seen Hitting Upper End Of FY Guidance
-- 10/01 01:01 [financialjuice] UK's PM Burnham: We can't have unfunded plans in budget.
 - 10/01 01:01 [financialjuice] UK's PM Burnham: Will do what we can alongside challenging finances.
 - 10/01 01:09 [FirstSquawk] UK PM BURNHAM: EU OPTIONS RANGE FROM UK STAYING AS IT IS, TO REJOINING - BBC INTERVIEW
 - 10/01 01:25 [FirstSquawk] ITALY PM MELONI: PLANS TO SPEND EUR14 BLN STEMMING FROM EU ESCAPE CLAUSE TO LOWER FIRMS’ ENERGY COSTS
@@ -824,3 +815,6 @@
 - 10/02 00:42 [FirstSquawk] US TWO-YEAR YIELD FALLS 10 BASIS POINTS ON DAY TO 4.785%
 - 10/02 00:44 [financialjuice] ❗ traders no longer fully price in 4 BOE rate hikes by the end of 2027.
 - 10/02 00:44 [FirstSquawk] TRADERS NO LONGER FULLY PRICE 4 BOE RATE HIKES BY END OF 2027
+- 10/02 00:57 [financialjuice] Saudi East-West crude pipeline at 5.5mn b/d - Argus Media cites source
+- 10/02 00:57 [financialjuice] ❗ EU energy Union task force to meet friday to discuss potential diesel stock releases - Two EU diplomats
+- 10/02 01:00 [financialjuice] Freddie Mac: 30-year fixed-rate mortgage averaged 7.28% as of Oct. 1; US mortgage rates rise to 7.28%, highest since October 2023
