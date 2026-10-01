@@ -7,70 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 16:30 JST／対象: 10/01 10:30 〜 10/01 16:30 JST（時刻はすべて日本時間）
+生成: 2026-10-01 16:48 JST／対象: 10/01 10:48 〜 10/01 16:48 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 1 | 10/01 16:25 | 10/01 16:25 | - |
-| FirstSquawk | 99 | 10/01 10:34 | 10/01 16:24 | 24分（13:35→14:00） |
-| financialjuice | 65 | 10/01 10:30 | 10/01 16:16 | ⚠ 52分（14:07→15:00） |
+| DeItaone | 2 | 10/01 16:25 | 10/01 16:48 | 22分（16:25→16:48） |
+| FirstSquawk | 78 | 10/01 10:50 | 10/01 16:40 | 24分（13:35→14:00） |
+| financialjuice | 55 | 10/01 10:59 | 10/01 16:45 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 165 行（統合前 165 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 135 行（統合前 135 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 10:30 [financialjuice] ❗ AUSTRALIAN TRADE BALANCE ACTUAL 495M (FORECAST 2000M, PREVIOUS 1,923M) $MACRO
-- 10/01 10:30 [financialjuice] ❗ AUSTRALIAN IMPORTS ACTUAL 5.8% (FORECAST -, PREVIOUS -2.5%) $MACRO
-- 10/01 10:30 [financialjuice] ❗ AUSTRALIAN EXPORTS ACTUAL 3.7% (FORECAST -, PREVIOUS -3.3%) $MACRO
-- 10/01 10:30 [financialjuice] RBA: Private credit not currently a risk to Australia's overall financial stability
-- 10/01 10:30 [financialjuice] RBA: lending standards stay firm, riskier types of credit curbed
-- 10/01 10:30 [financialjuice] RBA: proportion of owner-occupier borrowers facing cash flow shortfall remains low at about 2%
-- 10/01 10:30 [financialjuice] RBA: cash flow challenges to rise for smaller companies, energy-intensive sectors
-- 10/01 10:30 [financialjuice] Australia aug goods exports rise 3.7% m/m, seasonally adjusted
-- 10/01 10:30 [financialjuice] RBA: Alternative funding globally becoming more opaque, circular, and at risk of profit disappointment
-- 10/01 10:30 [financialjuice] RBA: Private credit has expanded notably in Australia, but remains modest overall
-- 10/01 10:30 [financialjuice] RBA: key threats to domestic financial stability stem from overseas
-- 10/01 10:31 [financialjuice] RBA: increase in leveraged investors in bonds, Australian equities heightens volatility and raises risks
-- 10/01 10:31 [financialjuice] RBA: elevated asset prices and leverage leave global markets exposed to sharp correction
-- 10/01 10:31 [financialjuice] Australia August trade balance goods A$495 million, seasonally adjusted: poll A$2 billion
-- 10/01 10:34 [FirstSquawk] AUSTRALIA TRADE BALANCE AUG: A$495M (EST A$2000M; PREV A$1923M; PREVR A$1351M)
-- 10/01 10:34 [FirstSquawk] AUSTRALIA EXPORTS (M/M): 3.7% (PREV -3.3%)
-- 10/01 10:34 [FirstSquawk] AUSTRALIA IMPORTS (M/M): 5.8% (PREV -2.5%)
-- 10/01 10:35 [FirstSquawk] AUSTRALIA JOB VACANCIES (Q/Q) AUG: -0.9% (PREV -2.1%)
-- 10/01 10:36 [financialjuice] South Korea President Lee: Seoul to develop nuclear-powered submarines by mid-2030s
-- 10/01 10:36 [FirstSquawk] South Korea targets nuclear-powered submarine construction by mid-2030s, Lee says
-- 10/01 10:38 [financialjuice] South Korea's Lee: will adopt practical steps to reduce military tension with North Korea
-- 10/01 10:38 [financialjuice] South Korea President Lee: urges North Korea to cooperate in rebuilding trust and restarting talks
-- 10/01 10:38 [FirstSquawk] RBA: A further 20% decline in Australian home prices would leave only 5% of mortgages underwater
-- 10/01 10:38 [FirstSquawk] RBA: Australian households and companies remain resilient despite the prospect of slower growth and weaker housing prices
-- 10/01 10:38 [FirstSquawk] RBA: Fewer than 1% of Australian borrowers currently have mortgages exceeding the value of their homes
-- 10/01 10:38 [FirstSquawk] RBA: Australian banks have sufficient resilience to cope with a significant housing-market downturn
-- 10/01 10:38 [financialjuice] South Korea President Lee: to adopt practical steps to reduce military tensions with North Korea
-- 10/01 10:38 [FirstSquawk] RBA: Financial stress is visible in some households and businesses, but arrears remain low and overall resilience is intact
-- 10/01 10:38 [FirstSquawk] RBA: Most Australian businesses can absorb higher costs, although some are passing those increases through to customers
-- 10/01 10:38 [FirstSquawk] RBA: Only around 2% of owner-occupier borrowers are currently experiencing cash-flow shortfalls
-- 10/01 10:39 [FirstSquawk] RBA: Smaller firms and energy-intensive businesses face rising pressure on cash flows
-- 10/01 10:39 [FirstSquawk] RBA: External shocks remain the biggest source of risk to Australia’s domestic financial stability
-- 10/01 10:39 [FirstSquawk] RBA: Australian lending practices remain robust, with tighter controls limiting riskier credit
-- 10/01 10:39 [FirstSquawk] RBA: Global AI financing is becoming increasingly opaque and circular, raising concerns over future profit expectations
-- 10/01 10:39 [FirstSquawk] RBA: Private credit has not yet emerged as a significant financial-stability risk for Australia
-- 10/01 10:39 [FirstSquawk] RBA: Australia’s private-credit market has expanded rapidly but remains modest in size overall
-- 10/01 10:39 [FirstSquawk] RBA: Greater leverage among bond and AI-equity investors could intensify market swings and financial risks
-- 10/01 10:39 [FirstSquawk] RBA: Elevated asset valuations and leverage leave global markets exposed to a sharp and disruptive correction
-- 10/01 10:39 [financialjuice] South Korea president Lee: country to enhance missile defense with AI-based command networks and laser interceptors
-- 10/01 10:41 [FirstSquawk] SOUTH KOREA'S LEE: WILL TAKE PRACTICAL MEASURES TO LOWER MILITARY TENSION WITH NORTH KOREA
-- 10/01 10:41 [FirstSquawk] SOUTH KOREA PRESIDENT LEE: CALLS ON NORTH KOREA TO JOIN EFFORTS TO RESTORE TRUST AND RESUME DIALOGUE
-- 10/01 10:41 [FirstSquawk] SOUTH KOREA PRESIDENT LEE: WILL TAKE PRACTICAL MEASURES TO LOWER MILITARY TENSION WITH NORTH KOREA
-- 10/01 10:41 [FirstSquawk] SOUTH KOREA PRESIDENT LEE: SOUTH KOREA TO UPGRADE MISSILE DEFENSE SYSTEMS INCLUDING AI-BASED COMMAND NETWORKS AND LASER INTERCEPTORS
-- 10/01 10:43 [FirstSquawk] President Lee: South Korea to bolster missile defenses with AI command networks, laser interceptors
-- 10/01 10:43 [FirstSquawk] SK Hynix to assess shareholder protection measures tied to Solidigm
-- 10/01 10:43 [FirstSquawk] 20-year Japanese government bond yield advances 4.5bp to 3.945%
-- 10/01 10:43 [FirstSquawk] 30-year Japanese government bond yield gains 5.0bp to 4.190%
 - 10/01 10:50 [FirstSquawk] CAD vulnerable around two-month low with USD holding bullish momentum - FX
 - 10/01 10:57 [FirstSquawk] Japan’s 10-year JGB yield gains 5.0bp to 3.110%
 - 10/01 10:59 [FirstSquawk] South Korea ministry says investment in US Alaska LNG project remains undecided — Yonhap
@@ -189,3 +142,20 @@
 - 10/01 16:16 [financialjuice] Spanish Manufacturing PMI September 2026 Report
 - 10/01 16:24 [FirstSquawk] US 10-YEAR TREASURY YIELD JUMPS TO 5.33%, THE HIGHEST LEVEL SINCE 2002.
 - 10/01 16:25 [DeItaone] *US 10-YEAR YIELD RISES TO 5.33%, HIGHEST SINCE 2002
+- 10/01 16:30 [financialjuice] Japan PM Takaichi: Will appropriately control the total annual issuance of government bonds, taking into account both initial and supplementary budgets
+- 10/01 16:30 [financialjuice] SWISS MANUFACTURING PMI ACTUAL 55.3 (FORECAST 56.3, PREVIOUS 57.1) $MACRO
+- 10/01 16:33 [financialjuice] Japan PM Takaichi: Forex market determined by various factors.
+- 10/01 16:35 [financialjuice] Japan PM Takaichi: Japan's economic policy is not aimed at manipulating FX.
+- 10/01 16:35 [financialjuice] Japan PM Takaichi: Told president Trump undervaluation of yen is a problem.
+- 10/01 16:37 [financialjuice] Japan PM Takaichi: No change to administration's stance of pursuing strong economy, fiscal sustainability.
+- 10/01 16:40 [FirstSquawk] JAPAN'S PM TAKAICHI PLANS TO MANAGE GOVERNMENT BOND ISSUANCE ANNUALLY, INCLUDING INITIAL AND ADDITIONAL BUDGETS.
+- 10/01 16:40 [FirstSquawk] JAPAN'S PM TAKAICHI SAYS THE FOREX MARKET IS INFLUENCED BY MANY FACTORS.
+- 10/01 16:40 [FirstSquawk] JAPAN'S PRIME MINISTER TAKAICHI STATES THAT THE COUNTRY'S ECONOMIC POLICY DOES NOT TARGET FOREIGN EXCHANGE MANIPULATION.
+- 10/01 16:40 [FirstSquawk] JAPAN PM TAKAICHI SAYS POLICIES FOCUS ON IMPROVING JAPAN'S ECONOMIC COMPETITIVENESS TO ENHANCE MARKET CONFIDENCE IN THE YEN.
+- 10/01 16:40 [FirstSquawk] JAPAN'S PM TAKAICHI INFORMED PRESIDENT TRUMP THAT THE YEN'S LOW VALUE IS A CONCERN.
+- 10/01 16:40 [FirstSquawk] JAPAN'S PM TAKAICHI EXPECTS FOOD CONSUMPTION TAX CUT TO BE REFLECTED IN SALE PRICES.
+- 10/01 16:40 [FirstSquawk] JAPAN'S PM TAKAICHI SAYS THERE WILL BE NO CHANGE IN THE GOVERNMENT'S COMMITMENT TO A STRONG ECONOMY AND FISCAL RESPONSIBILITY.
+- 10/01 16:44 [financialjuice] ECB asks EU to start finding successor to ECB's Schnabel.
+- 10/01 16:45 [financialjuice] US tells France and Germany to release emergency diesel stocks or face possible US diesel export ban - Three Sources Close to The Discussions.
+- 10/01 16:45 [financialjuice] US wants the EU to release 120 million barrels of diesel in the next 6 months - One of The Sources.
+- 10/01 16:48 [DeItaone] U.S. PRESSURES FRANCE AND GERMANY TO RELEASE DIESEL RESERVES The Trump administration has told France and Germany to draw down emergency diesel stocks to help lower global fuel prices, Reuters reports. If they refuse, Washington is threaten…
