@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-01 14:55 JST／対象: 10/01 02:55 〜 10/01 14:55 JST（時刻はすべて日本時間）
+生成: 2026-10-01 15:25 JST／対象: 10/01 03:25 〜 10/01 15:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 22 | 10/01 02:55 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
-| FirstSquawk | 191 | 10/01 03:02 | 10/01 14:44 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 191 | 10/01 03:01 | 10/01 14:07 | 36分（07:29→08:05） |
+| DeItaone | 18 | 10/01 03:31 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
+| FirstSquawk | 194 | 10/01 03:31 | 10/01 15:23 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 190 | 10/01 03:31 | 10/01 15:00 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 396 行（統合前 405 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 396 行（統合前 403 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 02:55 [DeItaone] SPACEXAI CONSIDERS $100 GROK “ULTRA” SUBSCRIPTION Elon Musk’s SpaceXAI is considering a four-tier subscription model combining Grok and X, Bloomberg reports. Plans reportedly range from a free tier to a $100-per-month “Ultra” package, which…
-- 10/01 03:01 [financialjuice/FirstSquawk] Israel needs to understand that normalization cannot be forced - Jerusalem Post citing a source close to the Saudi royal family:
-- 10/01 03:01 [DeItaone] ITALY PROLONGS UNTIL MID-OCTOBER SUSPENSION OF EU'S SCHENGEN FREE BORDER AGREEMENT WITH SPAIN - STATEMENT
-- 10/01 03:02 [financialjuice/FirstSquawk] Israel's Foreign Minister: I spoke with my UAE counterpart and agreed with him to cooperate against extremist elements threatening regional security and stability - Post on X.
-- 10/01 03:18 [DeItaone] S&P 500 BREADTH FLASHES RARE WARNING The equal-weight S&P 500 is heading for a seventh straight weekly decline — something seen only twice before, during 2002 and 2022 bear markets. Yet the headline S&P 500 remains broadly stable, as tech m…
-- 10/01 03:22 [DeItaone] FEDERATED HERMES: DON’T RUSH INTO BONDS YET Treasury yields are at some of their highest levels in a generation, but Federated Hermes CIO R.J. Gallo says elevated rate volatility means it may be too early to buy aggressively. He warns anoth…
-- 10/01 03:23 [financialjuice] Trump: Canada has taken advantage of the US for many years.
 - 10/01 03:31 [financialjuice] NYMEX WTI Crude November futures settle at $90.42 a barrel, up $1.04, 1.16%.
 - 10/01 03:31 [DeItaone] $SNPS - OPENAI AND SYNOPSYS ANNOUNCE GPT-SYNOPSYS: FRONTIER INTELLIGENCE TO REVOLUTIONIZE CHIP DESIGN
 - 10/01 03:31 [financialjuice] NYMEX Gasoline October futures settle at $3.4378 a gallon.
@@ -420,3 +413,10 @@
 - 10/01 14:39 [FirstSquawk] UBS says it has taken note of Artisan Partners’ open letter to its board
 - 10/01 14:39 [FirstSquawk] UBS reiterates goal of continuing to operate successfully as a global bank from Switzerland
 - 10/01 14:44 [FirstSquawk] Chinese refiners halt October fuel exports as PetroChina cancels cargoes, sources say
+- 10/01 15:00 [financialjuice] UK NATIONWIDE HOUSE PRICE YOY ACTUAL 0.8% (FORECAST -, PREVIOUS 1.6%) $MACRO
+- 10/01 15:00 [financialjuice] UK NATIONWIDE HOUSE PRICE MOM ACTUAL -0.2% (FORECAST -, PREVIOUS 0.2%) $MACRO
+- 10/01 15:00 [FirstSquawk] UK (SEP) NATIONWIDE HOUSE PX MOM ACTUAL: -0.2% VS 0.2% PREVIOUS;EST 0.0%
+- 10/01 15:00 [FirstSquawk] UK (SEP) NATIONWIDE HOUSE PX NSA YOY ACTUAL: 0.8% VS 1.6% PREVIOUS;EST 1.3%
+- 10/01 15:15 [FirstSquawk] Chinese automakers eye 12 million global sales in 2026 amid surging EV demand — SCMP
+- 10/01 15:22 [FirstSquawk] Japan’s major manufacturers’ confidence improves for sixth consecutive quarter, BOJ says
+- 10/01 15:23 [FirstSquawk] Australia’s ASX 200 drops 2% to 8,614.40 at close
