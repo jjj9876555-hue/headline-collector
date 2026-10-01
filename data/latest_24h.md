@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-01 14:18 JST／対象: 09/30 14:18 〜 10/01 14:18 JST（時刻はすべて日本時間）
+生成: 2026-10-01 14:36 JST／対象: 09/30 14:36 〜 10/01 14:36 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 75 | 09/30 18:55 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
-| FirstSquawk | 357 | 09/30 14:33 | 10/01 14:13 | ⚠ 78分（06:31→07:49） |
+| FirstSquawk | 358 | 09/30 14:38 | 10/01 14:32 | ⚠ 78分（06:31→07:49） |
 | financialjuice | 357 | 09/30 14:59 | 10/01 14:07 | ⚠ 54分（16:01→16:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 770 行（統合前 791 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 771 行（統合前 792 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 14:33 [FirstSquawk] Nikkei climbs 1.5%, driven by gains in chip and bank stocks — WSJ
 - 09/30 14:38 [FirstSquawk] Gold slips as Fed hike bets and Middle East tensions underpin the U.S. dollar — FX
 - 09/30 14:39 [FirstSquawk] Kazakhstan restarts enforcement proceedings to recover 2.3 trillion tenge fine from NCOC — IFX
 - 09/30 14:48 [FirstSquawk] HSBC calls its stablecoin RedCoin as it targets 3.3 million PayMe users
@@ -794,3 +793,5 @@
 - 10/01 14:08 [FirstSquawk] US equity futures strengthen, with S&P 500 futures up 0.6% and Nasdaq futures 1.0%
 - 10/01 14:11 [FirstSquawk] XPeng reports September vehicle deliveries of 41,256, up 5% m/m
 - 10/01 14:13 [FirstSquawk] Japan business leaders prepare for China visit in March — Kyodo
+- 10/01 14:25 [FirstSquawk] Russian Defence Ministry says forces targeted cargo vessel at Chornomorsk port, logistics centre in Kyiv — Interfax
+- 10/01 14:32 [FirstSquawk] Essar: Trump announces $18 billion Mesabi Metallics investment to build fully integrated American steel company

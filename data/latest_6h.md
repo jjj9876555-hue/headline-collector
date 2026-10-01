@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 14:18 JST／対象: 10/01 08:18 〜 10/01 14:18 JST（時刻はすべて日本時間）
+生成: 2026-10-01 14:36 JST／対象: 10/01 08:36 〜 10/01 14:36 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 118 | 10/01 08:44 | 10/01 14:13 | 24分（13:35→14:00） |
+| FirstSquawk | 120 | 10/01 08:44 | 10/01 14:32 | 24分（13:35→14:00） |
 | financialjuice | 99 | 10/01 08:36 | 10/01 14:07 | 30分（11:57→12:27） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 216 行（統合前 217 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 218 行（統合前 219 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -240,3 +240,5 @@
 - 10/01 14:08 [FirstSquawk] US equity futures strengthen, with S&P 500 futures up 0.6% and Nasdaq futures 1.0%
 - 10/01 14:11 [FirstSquawk] XPeng reports September vehicle deliveries of 41,256, up 5% m/m
 - 10/01 14:13 [FirstSquawk] Japan business leaders prepare for China visit in March — Kyodo
+- 10/01 14:25 [FirstSquawk] Russian Defence Ministry says forces targeted cargo vessel at Chornomorsk port, logistics centre in Kyiv — Interfax
+- 10/01 14:32 [FirstSquawk] Essar: Trump announces $18 billion Mesabi Metallics investment to build fully integrated American steel company
