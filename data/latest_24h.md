@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-01 10:09 JST／対象: 09/30 10:09 〜 10/01 10:09 JST（時刻はすべて日本時間）
+生成: 2026-10-01 10:27 JST／対象: 09/30 10:27 〜 10/01 10:27 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 75 | 09/30 18:55 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
-| FirstSquawk | 361 | 09/30 10:11 | 10/01 10:03 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 342 | 09/30 10:16 | 10/01 10:00 | ⚠ 80分（10:57→12:18） |
+| FirstSquawk | 360 | 09/30 10:28 | 10/01 10:26 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 341 | 09/30 10:30 | 10/01 10:15 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 758 行（統合前 780 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 756 行（統合前 778 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 10:11 [FirstSquawk] South Korean envoy says Seoul remains committed to facilitating renewed U.S.-North Korea dialogue - yonhap
-- 09/30 10:13 [FirstSquawk] Fitch Ratings says Vietnam banks’ capitalisation will remain steady as lenders pursue $5.7 billion in fresh capital
-- 09/30 10:15 [FirstSquawk] PBOC fixes yuan midpoint at 6.7351 against the dollar
-- 09/30 10:16 [FirstSquawk] Shanghai benchmark rubber futures gain more than 3.9%
-- 09/30 10:16 [financialjuice] China sets yuan midpoint at strongest level since Feb. 2, 2023
-- 09/30 10:20 [FirstSquawk] Taiwan stocks climb 1.2%, with benchmark index at 48,211.54 points
-- 09/30 10:20 [FirstSquawk] Gold prices remain subdued as investors await U.S. economic data — WSJ
-- 09/30 10:20 [financialjuice] Shares of Shenzhen Camsense Technologies set to open at HK$168 in Hong Kong debut versus offer price HK$58.85 apiece
-- 09/30 10:23 [financialjuice] China injects 833.5 bln yuan via overnight reverse repos: statement
-- 09/30 10:23 [FirstSquawk] PBOC injects 833.5 billion yuan through overnight reverse repo operations
-- 09/30 10:27 [financialjuice] China pauses 7-day reverse repos: statement
-- 09/30 10:27 [FirstSquawk] PBOC conducts no 7-day reverse repo operations
 - 09/30 10:28 [FirstSquawk] China’s CSI 300 Real Estate Index seen declining 5%
 - 09/30 10:30 [financialjuice] ‼ BREAKING: AUSTRALIAN CPI YOY NSA ACTUAL 4% (FORECAST 4.1%, PREVIOUS 3.5%) $MACRO
 - 09/30 10:30 [financialjuice] ❗ AUSTRALIAN BUILDING APPROVALS ACTUAL -6.1% (FORECAST -1%, PREVIOUS -3.6%) $MACRO
@@ -782,3 +770,13 @@
 - 10/01 10:00 [financialjuice] Taiwan overnight interbank rate starts at 0.805% vs 0.805% at previous session open
 - 10/01 10:01 [FirstSquawk] Taiwan overnight interbank rate opens flat at 0.805% vs 0.805% previously
 - 10/01 10:03 [FirstSquawk] Paramount Skydance announces $41.4B, €885M notes offerings and $8.5B, €850M Term Loan B pricing
+- 10/01 10:09 [FirstSquawk] Xiaomi’s EV deliveries top 40,000 units in September
+- 10/01 10:12 [FirstSquawk] South Korea’s exports surge to record $120.9 billion in September on robust semiconductor sales
+- 10/01 10:13 [financialjuice] Israel's PM Netanyahu: it's too soon to comment on motivation
+- 10/01 10:14 [financialjuice] Israel's PM Netanyahu: Israel to take part in investigation
+- 10/01 10:15 [financialjuice] Israel's PM Netanyahu: 'we don't know yet' on possible Iranian role in incident - Fox interview
+- 10/01 10:15 [FirstSquawk] Netanyahu says motive remains unclear after Dubai-Tel Aviv flight incident
+- 10/01 10:15 [FirstSquawk] Netanyahu says Israel will take part in investigation into Dubai-Tel Aviv flight incident
+- 10/01 10:16 [FirstSquawk] Netanyahu says Israel does not yet know whether Iran was involved in incident - FOX INTERVIEW
+- 10/01 10:20 [FirstSquawk] Axios: US official says order to leave New York included Iraqi national
+- 10/01 10:26 [FirstSquawk] Japan increases residency-related fees for foreign nationals

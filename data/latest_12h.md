@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-01 10:09 JST／対象: 09/30 22:09 〜 10/01 10:09 JST（時刻はすべて日本時間）
+生成: 2026-10-01 10:27 JST／対象: 09/30 22:27 〜 10/01 10:27 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 43 | 09/30 22:23 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
-| FirstSquawk | 168 | 09/30 22:16 | 10/01 10:03 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 203 | 09/30 22:12 | 10/01 10:00 | 36分（07:29→08:05） |
+| DeItaone | 41 | 09/30 22:46 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
+| FirstSquawk | 169 | 09/30 22:28 | 10/01 10:26 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 201 | 09/30 22:30 | 10/01 10:15 | 36分（07:29→08:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 400 行（統合前 416 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 398 行（統合前 413 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 22:12 [financialjuice] SNB: Swiss economy grew robustly in Q3, company survey showed
-- 09/30 22:12 [financialjuice/FirstSquawk] SNB: Companies plan to increase hiring, staff levels too low.
-- 09/30 22:12 [financialjuice] SNB: Companies expect turnover to keep rising in the coming quarters.
-- 09/30 22:16 [FirstSquawk] SNB PUBLISHES COMPANY SURVEY RESULTS IN QUARTERLY BULLETIN
-- 09/30 22:17 [FirstSquawk] NEW WORLD FY26 NET LOSS HK$28.15B VS HK$16.3B Y/Y
-- 09/30 22:20 [FirstSquawk] EU, CANADA TO ANNOUNCE SWEEPING PARTNERSHIP PACT AT OCT. 29 SUMMIT - POLITICO
-- 09/30 22:21 [financialjuice] goldman Sachs estimates crude exports from persian gulf producers at 19 million b/d.
-- 09/30 22:21 [financialjuice] JPMorgan estimates crude exports hit 98% of prewar levels.
-- 09/30 22:22 [FirstSquawk] NETANYAHU: WAS SERIOUS SECURITY INCIDENT ON FLIGHT FROM DUBAI
-- 09/30 22:23 [DeItaone] MIDDLE EAST CRUDE EXPORTS RECOVER TO PREWAR LEVELS Middle East crude exports have rebounded to 98% of prewar levels, reaching roughly 17.5 million barrels per day, according to JPMorgan. Producers are increasingly bypassing Hormuz through a…
-- 09/30 22:25 [DeItaone] MIDDLE EAST CRUDE EXPORTS RECOVER TO PREWAR LEVELS, ANALYSTS SAY GOLDMAN ESTIMATES CRUDE EXPORTS FROM PERSIAN GULF PRODUCERS AT 19 MILLION B/D INCREASED HORMUZ EXPORTS DROVE RECOVERY, GOLDMAN SAYS JPM ESTIMATES CRUDE EXPORTS HIT 98% OF PREW…
-- 09/30 22:25 [FirstSquawk] EASA: CONFLICT ZONE INFORMATION BULLETIN FOR AIRSPACE OF JORDAN WAS EXTENDED UNTIL 16 OCTOBER 2026
 - 09/30 22:28 [FirstSquawk] NETANYAHU: PILOT WHO STABBED APPARENTLY TRIED TO CRASH PLANE
 - 09/30 22:30 [financialjuice] ❗ MOO IMBALANCE S&P 500: -24.1 MLN NASDAQ 100: 7.5 MLN DOW 30: -5.8 MLN MAG 7: 1.9 MLN $MACRO
 - 09/30 22:31 [FirstSquawk] DOW JONES UP 72.70 POINTS, OR 0.14 PERCENT, AT 51,422.62 AFTER MARKET OPEN NASDAQ UP 99.52 POINTS, OR 0.37 PERCENT, AT 26,897.06 AFTER MARKET OPEN S&P 500 UP 21.09 POINTS, OR 0.27 PERCENT, AT 7,691.93 AFTER MARKET OPEN
@@ -424,3 +412,13 @@
 - 10/01 10:00 [financialjuice] Taiwan overnight interbank rate starts at 0.805% vs 0.805% at previous session open
 - 10/01 10:01 [FirstSquawk] Taiwan overnight interbank rate opens flat at 0.805% vs 0.805% previously
 - 10/01 10:03 [FirstSquawk] Paramount Skydance announces $41.4B, €885M notes offerings and $8.5B, €850M Term Loan B pricing
+- 10/01 10:09 [FirstSquawk] Xiaomi’s EV deliveries top 40,000 units in September
+- 10/01 10:12 [FirstSquawk] South Korea’s exports surge to record $120.9 billion in September on robust semiconductor sales
+- 10/01 10:13 [financialjuice] Israel's PM Netanyahu: it's too soon to comment on motivation
+- 10/01 10:14 [financialjuice] Israel's PM Netanyahu: Israel to take part in investigation
+- 10/01 10:15 [financialjuice] Israel's PM Netanyahu: 'we don't know yet' on possible Iranian role in incident - Fox interview
+- 10/01 10:15 [FirstSquawk] Netanyahu says motive remains unclear after Dubai-Tel Aviv flight incident
+- 10/01 10:15 [FirstSquawk] Netanyahu says Israel will take part in investigation into Dubai-Tel Aviv flight incident
+- 10/01 10:16 [FirstSquawk] Netanyahu says Israel does not yet know whether Iran was involved in incident - FOX INTERVIEW
+- 10/01 10:20 [FirstSquawk] Axios: US official says order to leave New York included Iraqi national
+- 10/01 10:26 [FirstSquawk] Japan increases residency-related fees for foreign nationals

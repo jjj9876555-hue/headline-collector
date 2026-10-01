@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 10:09 JST／対象: 10/01 04:09 〜 10/01 10:09 JST（時刻はすべて日本時間）
+生成: 2026-10-01 10:27 JST／対象: 10/01 04:27 〜 10/01 10:27 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 8 | 10/01 04:26 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
-| FirstSquawk | 94 | 10/01 04:28 | 10/01 10:03 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 119 | 10/01 04:23 | 10/01 10:00 | 36分（07:29→08:05） |
+| DeItaone | 7 | 10/01 05:45 | 10/01 06:15 | 15分（05:52→06:07） |
+| FirstSquawk | 101 | 10/01 04:28 | 10/01 10:26 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 118 | 10/01 04:30 | 10/01 10:15 | 36分（07:29→08:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 215 行（統合前 222 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 220 行（統合前 227 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 04:23 [financialjuice] Thursday FX Options Expiries
-- 10/01 04:25 [financialjuice] US Sec. of Defense Hegseth announces creation of new autonomous warfare command
-- 10/01 04:25 [financialjuice] fed’s cook: Committed to returning inflation to the 2% objective while preserving labor market strength.
-- 10/01 04:26 [financialjuice] Fed's Cook: Inflation has been too high for too long.
-- 10/01 04:26 [DeItaone] FED’S COOK: INFLATION HAS BEEN TOO HIGH FOR TOO LONG Fed Governor Lisa Cook says she remains committed to bringing inflation back to target while preserving labor-market strength. Cook did not comment directly on today’s softer inflation da…
 - 10/01 04:28 [FirstSquawk] US DEFENSE SECRETARY HEGSETH ANNOUNCES CREATION OF NEW AUTONOMOUS WARFARE COMMAND
 - 10/01 04:30 [financialjuice] LIVE: Trump announces plans for a $54 billion project in Alaska
 - 10/01 04:35 [financialjuice] US Sec. of Defense Hegseth on new Autonomous Warfare Command: Musk, Gingrich, and Luckey will lead the new Pentagon project
@@ -239,3 +234,13 @@
 - 10/01 10:00 [financialjuice] Taiwan overnight interbank rate starts at 0.805% vs 0.805% at previous session open
 - 10/01 10:01 [FirstSquawk] Taiwan overnight interbank rate opens flat at 0.805% vs 0.805% previously
 - 10/01 10:03 [FirstSquawk] Paramount Skydance announces $41.4B, €885M notes offerings and $8.5B, €850M Term Loan B pricing
+- 10/01 10:09 [FirstSquawk] Xiaomi’s EV deliveries top 40,000 units in September
+- 10/01 10:12 [FirstSquawk] South Korea’s exports surge to record $120.9 billion in September on robust semiconductor sales
+- 10/01 10:13 [financialjuice] Israel's PM Netanyahu: it's too soon to comment on motivation
+- 10/01 10:14 [financialjuice] Israel's PM Netanyahu: Israel to take part in investigation
+- 10/01 10:15 [financialjuice] Israel's PM Netanyahu: 'we don't know yet' on possible Iranian role in incident - Fox interview
+- 10/01 10:15 [FirstSquawk] Netanyahu says motive remains unclear after Dubai-Tel Aviv flight incident
+- 10/01 10:15 [FirstSquawk] Netanyahu says Israel will take part in investigation into Dubai-Tel Aviv flight incident
+- 10/01 10:16 [FirstSquawk] Netanyahu says Israel does not yet know whether Iran was involved in incident - FOX INTERVIEW
+- 10/01 10:20 [FirstSquawk] Axios: US official says order to leave New York included Iraqi national
+- 10/01 10:26 [FirstSquawk] Japan increases residency-related fees for foreign nationals
