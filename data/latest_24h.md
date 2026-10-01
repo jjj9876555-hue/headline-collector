@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-01 20:39 JST／対象: 09/30 20:39 〜 10/01 20:39 JST（時刻はすべて日本時間）
+生成: 2026-10-01 20:56 JST／対象: 09/30 20:56 〜 10/01 20:56 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 85 | 09/30 20:48 | 10/01 20:36 | ⚠ 610分（06:15→16:25） |
-| FirstSquawk | 342 | 09/30 20:50 | 10/01 20:38 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 369 | 09/30 20:52 | 10/01 20:37 | ⚠ 52分（14:07→15:00） |
+| DeItaone | 86 | 09/30 21:00 | 10/01 20:45 | ⚠ 610分（06:15→16:25） |
+| FirstSquawk | 342 | 09/30 21:00 | 10/01 20:48 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 386 | 09/30 21:00 | 10/01 20:55 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 773 行（統合前 798 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 791 行（統合前 816 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 20:48 [DeItaone] *EXPLOSION HEARD IN IRAN'S ZAHEDAN: FARS
-- 09/30 20:50 [FirstSquawk] EXPLOSION SOUND HEARD NEAR JAMOOHI BLVD IN ZAHEDAN; CAUSE UNKNOWN - FARS
-- 09/30 20:51 [DeItaone] IRAN: EXPLOSION REPORTED IN ZAHEDAN Iran’s Fars News Agency reports that an explosion was heard near Jomhuri Boulevard in Zahedan. The source of the blast remains unknown, with authorities yet to provide further details. More information is…
-- 09/30 20:52 [financialjuice] Explosion heard in IRAN'S southeastern city of Zahedan, source of detonation unknown - Fars News.
 - 09/30 21:00 [DeItaone] U.S. TREASURIES END A BRUTAL QUARTER The U.S. bond market is closing Q3 after a relentless selloff, with 10- and 30-year Treasury yields reaching multidecade highs. According to WSJ/Dow Jones Market Data: 🔸 10-year: +85 bps, biggest quarter…
 - 09/30 21:00 [financialjuice] ❗ GERMAN HICP YOY PRELIM ACTUAL 3.3% (FORECAST 3.2%, PREVIOUS 2.90%) $MACRO
 - 09/30 21:00 [financialjuice] GERMAN HICP MOM PRELIM ACTUAL 0.6% (FORECAST 0.5%, PREVIOUS 0.20%) $MACRO
@@ -797,3 +793,25 @@
 - 10/01 20:36 [DeItaone] TRUMP SAYS AI INDUSTRY ‘BIGGER’ THAN INTERNET, INDUSTRIAL REVOLUTION: TIME
 - 10/01 20:36 [financialjuice] Fed's Kashkari: There's a big gap between 2-year yield and short-rates
 - 10/01 20:37 [financialjuice/FirstSquawk] Fed's Kashkari: When markets have a view, they're not shy about expressing them.
+- 10/01 20:39 [DeItaone] $AAPL - MORGAN STANLEY SEES APPLE ENTERING MAJOR PRODUCT CYCLE Morgan Stanley cut its Apple price target to $355 from $360, while maintaining an Overweight rating. The bank says Apple’s next 2+ years of innovation under new CEO John Ternus …
+- 10/01 20:40 [financialjuice] Fed's Kashkari: My implied Fed September 2-yr yield is a bit over 4%
+- 10/01 20:40 [financialjuice] Fed's Kashkari: If there is some tentativeness in markets, it suggests rates are having an impact
+- 10/01 20:40 [financialjuice] Fed's Kashkari: Anything adjacent to housing is under a lot of pressure
+- 10/01 20:41 [financialjuice] Fed's Kashkari: If we keep raising rates, it will put different pressure on different parts of the economy
+- 10/01 20:41 [financialjuice] Fed's Kashkari: Consumer spending is strong across the economy
+- 10/01 20:42 [financialjuice] Fed's Kashkari: 4.1% unemployment rate is good, labor market is healthy
+- 10/01 20:42 [DeItaone] TRUMP SAYS RENEWED IRAN BOMBING ‘POSSIBLE’ AFTER MIDTERMS President Trump says ramping up military strikes against Iran after the November midterms is “possible,” as the war enters its eighth month. Trump also downplayed concerns over deple…
+- 10/01 20:43 [financialjuice] Fed's Kashkari: Diesel and availability of truckers are top of mind in the Minneapolis district
+- 10/01 20:44 [financialjuice] Fed's Kashkari: My view on supply shocks and inflation has evolved
+- 10/01 20:45 [financialjuice] Fed's Kashkari: There is clearly not a wage-price spiral today
+- 10/01 20:45 [DeItaone] FED’S KASHKARI: U.S. ECONOMY KEEPS SURPRISING WITH ITS RESILIENCE Fed’s Neel Kashkari says consumer spending remains strong and the labor market is broadly healthy, with economic resilience continuing to surprise him. He said further rate h…
+- 10/01 20:45 [financialjuice] Fed's Kashkari: I don't think labor market pain is needed to achieve goal
+- 10/01 20:46 [financialjuice] Fed's Kashkari: FOMC atmosphere has been remarkably consistent under Warsh
+- 10/01 20:48 [FirstSquawk] US TREASURY YIELDS EDGE LOWER; 2-YEAR DIPS 3 BASIS POINTS TO 4.86%
+- 10/01 20:50 [financialjuice] Morning Juice – US Session Prep (1st October)
+- 10/01 20:53 [financialjuice] USTR Greer, on the EU: They have executed on the trade terms we agreed to
+- 10/01 20:53 [financialjuice] French Fiscal Watchdog: Government's 2027 deficit reduction plans are a "minimum".
+- 10/01 20:54 [financialjuice] USTR Greer: Europe has to act on the issue of excess capacity
+- 10/01 20:54 [financialjuice] USTR Greer: Europe should release some diesel inventories
+- 10/01 20:55 [financialjuice] USTR Greer: We will meet with EU counterparts to discuss diesel today
+- 10/01 20:55 [financialjuice] USTR Greer: I have been speaking with Canadians on trade

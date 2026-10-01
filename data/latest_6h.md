@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 20:39 JST／対象: 10/01 14:39 〜 10/01 20:39 JST（時刻はすべて日本時間）
+生成: 2026-10-01 20:56 JST／対象: 10/01 14:56 〜 10/01 20:56 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 27 | 10/01 16:25 | 10/01 20:36 | 37分（17:52→18:30） |
-| FirstSquawk | 77 | 10/01 14:39 | 10/01 20:38 | ⚠ 53分（18:34→19:28） |
-| financialjuice | 71 | 10/01 15:00 | 10/01 20:37 | 44分（18:40→19:25） |
+| DeItaone | 30 | 10/01 16:25 | 10/01 20:45 | 37分（17:52→18:30） |
+| FirstSquawk | 75 | 10/01 15:00 | 10/01 20:48 | ⚠ 53分（18:34→19:28） |
+| financialjuice | 89 | 10/01 15:00 | 10/01 20:55 | 44分（18:40→19:25） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 169 行（統合前 175 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 188 行（統合前 194 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 14:39 [FirstSquawk] UBS says it has taken note of Artisan Partners’ open letter to its board
-- 10/01 14:39 [FirstSquawk] UBS reiterates goal of continuing to operate successfully as a global bank from Switzerland
-- 10/01 14:44 [FirstSquawk] Chinese refiners halt October fuel exports as PetroChina cancels cargoes, sources say
 - 10/01 15:00 [financialjuice] UK NATIONWIDE HOUSE PRICE YOY ACTUAL 0.8% (FORECAST -, PREVIOUS 1.6%) $MACRO
 - 10/01 15:00 [financialjuice] UK NATIONWIDE HOUSE PRICE MOM ACTUAL -0.2% (FORECAST -, PREVIOUS 0.2%) $MACRO
 - 10/01 15:00 [FirstSquawk] UK (SEP) NATIONWIDE HOUSE PX MOM ACTUAL: -0.2% VS 0.2% PREVIOUS;EST 0.0%
@@ -193,3 +190,25 @@
 - 10/01 20:36 [DeItaone] TRUMP SAYS AI INDUSTRY ‘BIGGER’ THAN INTERNET, INDUSTRIAL REVOLUTION: TIME
 - 10/01 20:36 [financialjuice] Fed's Kashkari: There's a big gap between 2-year yield and short-rates
 - 10/01 20:37 [financialjuice/FirstSquawk] Fed's Kashkari: When markets have a view, they're not shy about expressing them.
+- 10/01 20:39 [DeItaone] $AAPL - MORGAN STANLEY SEES APPLE ENTERING MAJOR PRODUCT CYCLE Morgan Stanley cut its Apple price target to $355 from $360, while maintaining an Overweight rating. The bank says Apple’s next 2+ years of innovation under new CEO John Ternus …
+- 10/01 20:40 [financialjuice] Fed's Kashkari: My implied Fed September 2-yr yield is a bit over 4%
+- 10/01 20:40 [financialjuice] Fed's Kashkari: If there is some tentativeness in markets, it suggests rates are having an impact
+- 10/01 20:40 [financialjuice] Fed's Kashkari: Anything adjacent to housing is under a lot of pressure
+- 10/01 20:41 [financialjuice] Fed's Kashkari: If we keep raising rates, it will put different pressure on different parts of the economy
+- 10/01 20:41 [financialjuice] Fed's Kashkari: Consumer spending is strong across the economy
+- 10/01 20:42 [financialjuice] Fed's Kashkari: 4.1% unemployment rate is good, labor market is healthy
+- 10/01 20:42 [DeItaone] TRUMP SAYS RENEWED IRAN BOMBING ‘POSSIBLE’ AFTER MIDTERMS President Trump says ramping up military strikes against Iran after the November midterms is “possible,” as the war enters its eighth month. Trump also downplayed concerns over deple…
+- 10/01 20:43 [financialjuice] Fed's Kashkari: Diesel and availability of truckers are top of mind in the Minneapolis district
+- 10/01 20:44 [financialjuice] Fed's Kashkari: My view on supply shocks and inflation has evolved
+- 10/01 20:45 [financialjuice] Fed's Kashkari: There is clearly not a wage-price spiral today
+- 10/01 20:45 [DeItaone] FED’S KASHKARI: U.S. ECONOMY KEEPS SURPRISING WITH ITS RESILIENCE Fed’s Neel Kashkari says consumer spending remains strong and the labor market is broadly healthy, with economic resilience continuing to surprise him. He said further rate h…
+- 10/01 20:45 [financialjuice] Fed's Kashkari: I don't think labor market pain is needed to achieve goal
+- 10/01 20:46 [financialjuice] Fed's Kashkari: FOMC atmosphere has been remarkably consistent under Warsh
+- 10/01 20:48 [FirstSquawk] US TREASURY YIELDS EDGE LOWER; 2-YEAR DIPS 3 BASIS POINTS TO 4.86%
+- 10/01 20:50 [financialjuice] Morning Juice – US Session Prep (1st October)
+- 10/01 20:53 [financialjuice] USTR Greer, on the EU: They have executed on the trade terms we agreed to
+- 10/01 20:53 [financialjuice] French Fiscal Watchdog: Government's 2027 deficit reduction plans are a "minimum".
+- 10/01 20:54 [financialjuice] USTR Greer: Europe has to act on the issue of excess capacity
+- 10/01 20:54 [financialjuice] USTR Greer: Europe should release some diesel inventories
+- 10/01 20:55 [financialjuice] USTR Greer: We will meet with EU counterparts to discuss diesel today
+- 10/01 20:55 [financialjuice] USTR Greer: I have been speaking with Canadians on trade
