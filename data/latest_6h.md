@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-02 03:44 JST／対象: 10/01 21:44 〜 10/02 03:44 JST（時刻はすべて日本時間）
+生成: 2026-10-02 04:01 JST／対象: 10/01 22:01 〜 10/02 04:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 55 | 10/01 21:45 | 10/02 03:42 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 101 | 10/01 21:46 | 10/02 03:24 | 39分（01:52→02:31） |
-| financialjuice | 158 | 10/01 22:00 | 10/02 03:38 | 16分（01:51→02:08） |
+| DeItaone | 53 | 10/01 22:07 | 10/02 03:42 | ⚠ 102分（23:19→01:02） |
+| FirstSquawk | 108 | 10/01 22:08 | 10/02 03:58 | 39分（01:52→02:31） |
+| financialjuice | 159 | 10/01 22:05 | 10/02 04:00 | 17分（03:38→03:56） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 297 行（統合前 319 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 302 行（統合前 325 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 21:45 [DeItaone] TRUMP CONSIDERS PREEMPTIVE PARDONS President Trump says he would consider preemptively pardoning members of his administration before leaving office, potentially protecting them from future federal prosecution. Asked by Time whether he woul…
-- 10/01 21:46 [FirstSquawk] ZELENSKIY SAYS THERE ARE GOOD RESULTS IN DIALOGUE WITH EU TO COVER UKRAINE'S FINANCIAL NEEDS FOR 2026-27
-- 10/01 21:57 [DeItaone] FRENCH 5-YEAR CREDIT DEFAULT SWAPS CLIMB TO MULTI-YEAR HIGH OF 72BPS, S&P GLOBAL MARKET INTELLIGENCE
-- 10/01 22:00 [financialjuice] Effective Fed Funds Rate 3.88% September 30 vs 3.88% September 29.
 - 10/01 22:05 [financialjuice] Fed's Collins: Economic growth is near trend, if not more than that; labor market near full employment, but inflation is too high
 - 10/01 22:07 [financialjuice] Fed's Schmid: Officials have work to do on inflation.
 - 10/01 22:07 [DeItaone/FirstSquawk] FED'S COLLINS: WON'T GET AHEAD OF THE NEXT MEETING
@@ -315,9 +311,18 @@
 - 10/02 03:31 [financialjuice] NYMEX Diesel November futures settle at $4.6420 a gallon.
 - 10/02 03:32 [financialjuice] NYMEX Natural Gas November futures settle at $2.9670/MMBtu.
 - 10/02 03:32 [financialjuice] US Energy Secretary Wright: The US is confident that Europe will release diesel from stockpiles.
-- 10/02 03:34 [DeItaone/financialjuice] IRAN OFFERS TO ALLOW NUCLEAR INSPECTORS IF SANCTIONS ARE EASED
+- 10/02 03:34 [DeItaone/financialjuice/FirstSquawk] IRAN OFFERS TO ALLOW NUCLEAR INSPECTORS IF SANCTIONS ARE EASED
 - 10/02 03:36 [DeItaone] IRAN OFFERS NUCLEAR INSPECTOR ACCESS FOR SANCTIONS RELIEF Iran has privately signaled it could restore nuclear inspectors’ access to bombed facilities in exchange for sanctions relief, Bloomberg reports. Foreign Minister Abbas Araghchi rais…
 - 10/02 03:38 [financialjuice] US Energy Secretary Wright: We'll see lower gasolinea nd diesel prices come the election.
 - 10/02 03:38 [financialjuice] US Energy Secretary Wright ends remarks on Fox News.
 - 10/02 03:41 [DeItaone] *WRIGHT: WE'LL SEE LOWER GASOLINE, DIESEL PRICES COME ELECTION
 - 10/02 03:42 [DeItaone] TRUMP: PRICES ARE “COMING DOWN RAPIDLY” President Trump says prices are “way down” from levels under the Biden administration and claims they are continuing to fall rapidly. Trump blamed Democrats for elevated prices and said Republicans ar…
+- 10/02 03:44 [FirstSquawk] US ENERGY SECRETARY WRIGHT: EXPECT LOWER GASOLINE & DIESEL PRICES BY ELECTION; CONFIDENT EUROPE WILL RELEASE DIESEL FROM STOCKPILES
+- 10/02 03:45 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 2.71% HIGHER AT $92.87/BBL, UP $2.45
+- 10/02 03:54 [FirstSquawk] CHEMUNG CANAL TRUST COMPANY HAS ANNOUNCED A PLAN TO UNIFY UNDER A NEW NAME, PLANNING TO BRING CHEMUNG CANAL AND ITS DIVISIONS CAPITAL BANK AND CANAL BANK UNDER A SINGLE NAME — CANAL BANK & TRUST, N.A. — WITH THE NAME AND LOGO TO BE IMPLEMEN…
+- 10/02 03:54 [FirstSquawk] CHEMUNG FINANCIAL CORP SAYS THE BRAND UNIFICATION WILL NOT AFFECT ITS MISSION, LEADERSHIP OR OWNERSHIP.
+- 10/02 03:55 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 4.37% HIGHER AT $102.31/BBL, UP $4.28
+- 10/02 03:56 [financialjuice] Fed's Bowman Speaks - WATCH LIVE
+- 10/02 03:57 [FirstSquawk] THE TURKISH CENTRAL BANK SAYS IT HAS RAISED THE SME LOAN GROWTH LIMIT TO 5% FROM 4.5% AND LOWERED THE RATIOS FOR MAINTAINING TRY REQUIRED RESERVES IN BLOCKED ACCOUNTS.
+- 10/02 03:58 [FirstSquawk] THE TURKISH CENTRAL BANK SAYS IT HAS CUT THE BLOCKED RESERVE RATIO TO 35% FROM 40% FOR BANKS WITH ASSETS ABOVE 500 BLN LIRA, AND TO 15% FROM 30% FOR BANKS WITH ASSETS OF 100-500 BLN LIRA.
+- 10/02 04:00 [financialjuice] Fed's Bowman touts the benefits of the Fed capital plan tied to Treasuries.

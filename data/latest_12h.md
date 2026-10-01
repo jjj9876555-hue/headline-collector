@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-02 03:44 JST／対象: 10/01 15:44 〜 10/02 03:44 JST（時刻はすべて日本時間）
+生成: 2026-10-02 04:01 JST／対象: 10/01 16:01 〜 10/02 04:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 92 | 10/01 16:25 | 10/02 03:42 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 172 | 10/01 15:50 | 10/02 03:24 | ⚠ 53分（18:34→19:28） |
-| financialjuice | 264 | 10/01 15:47 | 10/02 03:38 | 44分（18:40→19:25） |
+| FirstSquawk | 179 | 10/01 16:01 | 10/02 03:58 | ⚠ 53分（18:34→19:28） |
+| financialjuice | 265 | 10/01 16:07 | 10/02 04:00 | 44分（18:40→19:25） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 504 行（統合前 533 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 511 行（統合前 541 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 15:47 [financialjuice] EUR/USD year-end options sentiment at its most bearish since April
-- 10/01 15:50 [FirstSquawk] Israeli security cabinet set to meet Sunday evening amid tensions — N13 reporter via https://t.co/tmVHTGptg3
 - 10/01 16:01 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 1.04% || FRANCE'S CAC 40 DOWN 0.64% || SPAIN'S IBEX DOWN 0.75%
 - 10/01 16:05 [FirstSquawk] GERMANY'S DAX DOWN 0.6%
 - 10/01 16:07 [financialjuice] South Korea Industry Minister: I expressed strong objection to US Commerce Secretary Lutnick over the announcement of the Alaska LNG project - Yonhap
@@ -522,9 +520,18 @@
 - 10/02 03:31 [financialjuice] NYMEX Diesel November futures settle at $4.6420 a gallon.
 - 10/02 03:32 [financialjuice] NYMEX Natural Gas November futures settle at $2.9670/MMBtu.
 - 10/02 03:32 [financialjuice] US Energy Secretary Wright: The US is confident that Europe will release diesel from stockpiles.
-- 10/02 03:34 [DeItaone/financialjuice] IRAN OFFERS TO ALLOW NUCLEAR INSPECTORS IF SANCTIONS ARE EASED
+- 10/02 03:34 [DeItaone/financialjuice/FirstSquawk] IRAN OFFERS TO ALLOW NUCLEAR INSPECTORS IF SANCTIONS ARE EASED
 - 10/02 03:36 [DeItaone] IRAN OFFERS NUCLEAR INSPECTOR ACCESS FOR SANCTIONS RELIEF Iran has privately signaled it could restore nuclear inspectors’ access to bombed facilities in exchange for sanctions relief, Bloomberg reports. Foreign Minister Abbas Araghchi rais…
 - 10/02 03:38 [financialjuice] US Energy Secretary Wright: We'll see lower gasolinea nd diesel prices come the election.
 - 10/02 03:38 [financialjuice] US Energy Secretary Wright ends remarks on Fox News.
 - 10/02 03:41 [DeItaone] *WRIGHT: WE'LL SEE LOWER GASOLINE, DIESEL PRICES COME ELECTION
 - 10/02 03:42 [DeItaone] TRUMP: PRICES ARE “COMING DOWN RAPIDLY” President Trump says prices are “way down” from levels under the Biden administration and claims they are continuing to fall rapidly. Trump blamed Democrats for elevated prices and said Republicans ar…
+- 10/02 03:44 [FirstSquawk] US ENERGY SECRETARY WRIGHT: EXPECT LOWER GASOLINE & DIESEL PRICES BY ELECTION; CONFIDENT EUROPE WILL RELEASE DIESEL FROM STOCKPILES
+- 10/02 03:45 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 2.71% HIGHER AT $92.87/BBL, UP $2.45
+- 10/02 03:54 [FirstSquawk] CHEMUNG CANAL TRUST COMPANY HAS ANNOUNCED A PLAN TO UNIFY UNDER A NEW NAME, PLANNING TO BRING CHEMUNG CANAL AND ITS DIVISIONS CAPITAL BANK AND CANAL BANK UNDER A SINGLE NAME — CANAL BANK & TRUST, N.A. — WITH THE NAME AND LOGO TO BE IMPLEMEN…
+- 10/02 03:54 [FirstSquawk] CHEMUNG FINANCIAL CORP SAYS THE BRAND UNIFICATION WILL NOT AFFECT ITS MISSION, LEADERSHIP OR OWNERSHIP.
+- 10/02 03:55 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 4.37% HIGHER AT $102.31/BBL, UP $4.28
+- 10/02 03:56 [financialjuice] Fed's Bowman Speaks - WATCH LIVE
+- 10/02 03:57 [FirstSquawk] THE TURKISH CENTRAL BANK SAYS IT HAS RAISED THE SME LOAN GROWTH LIMIT TO 5% FROM 4.5% AND LOWERED THE RATIOS FOR MAINTAINING TRY REQUIRED RESERVES IN BLOCKED ACCOUNTS.
+- 10/02 03:58 [FirstSquawk] THE TURKISH CENTRAL BANK SAYS IT HAS CUT THE BLOCKED RESERVE RATIO TO 35% FROM 40% FOR BANKS WITH ASSETS ABOVE 500 BLN LIRA, AND TO 15% FROM 30% FOR BANKS WITH ASSETS OF 100-500 BLN LIRA.
+- 10/02 04:00 [financialjuice] Fed's Bowman touts the benefits of the Fed capital plan tied to Treasuries.

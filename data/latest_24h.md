@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-02 03:44 JST／対象: 10/01 03:44 〜 10/02 03:44 JST（時刻はすべて日本時間）
+生成: 2026-10-02 04:01 JST／対象: 10/01 04:01 〜 10/02 04:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 105 | 10/01 03:45 | 10/02 03:42 | ⚠ 610分（06:15→16:25） |
-| FirstSquawk | 368 | 10/01 03:54 | 10/02 03:24 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 452 | 10/01 03:46 | 10/02 03:38 | ⚠ 52分（14:07→15:00） |
+| DeItaone | 100 | 10/01 04:26 | 10/02 03:42 | ⚠ 610分（06:15→16:25） |
+| FirstSquawk | 374 | 10/01 04:03 | 10/02 03:58 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 450 | 10/01 04:06 | 10/02 04:00 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 895 行（統合前 931 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 893 行（統合前 930 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 03:45 [DeItaone] *BIGGEST US GRID SUSPENDS PLAN FOR NEW DATA CENTER POWER AUCTION
-- 10/01 03:46 [DeItaone] SYRIA SAYS THREE POWER PLANTS GONE OUT OF SERVICE AFTER GAS PIPELINE EXPLOSION -STATE NEWS AGENCY
-- 10/01 03:46 [financialjuice] Syria: Three power plants gone out of service after gas pipeline explosion - State News Agency.
-- 10/01 03:48 [DeItaone] *OPENAI CEO SAM ALTMAN TO SKIP CONGRESS HEARING ON AI: NBC
-- 10/01 03:51 [financialjuice] OpenAI CEO Altman is going to skip the Congressional hearing on rogue AI agents - NBC News.
-- 10/01 03:53 [financialjuice] Brent Crude futures settle at $103.53/bbl, up 94 cents, 0.92%.
-- 10/01 03:54 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 0.92% HIGHER AT $103.53/BBL, UP 94 CENTS
-- 10/01 03:54 [DeItaone] TRUMP SET TO UNVEIL $200 BILLION SOUTH KOREAN INVESTMENT President Trump is expected to announce $200 billion in South Korean investment in U.S. energy projects, including eight nuclear power plants, a Texas power facility and Alaska LNG. T…
-- 10/01 03:54 [FirstSquawk] OPENAI CEO SAM ALTMAN TO SKIP CONGRESSIONAL HEARING ON ROGUE AI AGENTS — NBC NEWS
-- 10/01 03:56 [DeItaone] PENTAGON TO CREATE NEW DRONE WARFARE GROUP Defense Secretary Pete Hegseth is establishing a permanent Pentagon organization for drones, autonomous systems and defense robotics, according to Sen. Tim Sheehy. The Pentagon is seeking $54.6 bil…
-- 10/01 04:01 [financialjuice] Meta's Oversight Board Calls for Independent Oversight of AI Companies $META
 - 10/01 04:03 [FirstSquawk] NEW ZEALAND HOME PRICES FELL 0.3% IN SEPTEMBER FROM AUGUST, HITTING THEIR LOWEST LEVEL SINCE JANUARY 2021 AND STANDING 19% BELOW THE JANUARY 2022 PEAK. HIGH MORTGAGE RATES, RISING UNEMPLOYMENT AND ECONOMIC UNCERTAINTY CONTINUE TO WEIGH ON H…
 - 10/01 04:06 [financialjuice] US Sec. of Defense Hegseth: Reduction in top officer slots long overdue.
 - 10/01 04:06 [FirstSquawk] INDIAN EMBASSY IN SAUDI ARABIA SAYS IT HAS BEEN FOLLOWING THE HEALTH CONDITION OF SMIT MACHCHHAR, THE INDIAN PILOT OF THE FLYDUBAI FLIGHT THAT WAS DIVERTED TO TABUK TODAY, WHO IS ADMITTED IN A HOSPITAL IN TABUK CITY IN NORTHWEST SAUDI ARABI…
@@ -913,9 +902,18 @@
 - 10/02 03:31 [financialjuice] NYMEX Diesel November futures settle at $4.6420 a gallon.
 - 10/02 03:32 [financialjuice] NYMEX Natural Gas November futures settle at $2.9670/MMBtu.
 - 10/02 03:32 [financialjuice] US Energy Secretary Wright: The US is confident that Europe will release diesel from stockpiles.
-- 10/02 03:34 [DeItaone/financialjuice] IRAN OFFERS TO ALLOW NUCLEAR INSPECTORS IF SANCTIONS ARE EASED
+- 10/02 03:34 [DeItaone/financialjuice/FirstSquawk] IRAN OFFERS TO ALLOW NUCLEAR INSPECTORS IF SANCTIONS ARE EASED
 - 10/02 03:36 [DeItaone] IRAN OFFERS NUCLEAR INSPECTOR ACCESS FOR SANCTIONS RELIEF Iran has privately signaled it could restore nuclear inspectors’ access to bombed facilities in exchange for sanctions relief, Bloomberg reports. Foreign Minister Abbas Araghchi rais…
 - 10/02 03:38 [financialjuice] US Energy Secretary Wright: We'll see lower gasolinea nd diesel prices come the election.
 - 10/02 03:38 [financialjuice] US Energy Secretary Wright ends remarks on Fox News.
 - 10/02 03:41 [DeItaone] *WRIGHT: WE'LL SEE LOWER GASOLINE, DIESEL PRICES COME ELECTION
 - 10/02 03:42 [DeItaone] TRUMP: PRICES ARE “COMING DOWN RAPIDLY” President Trump says prices are “way down” from levels under the Biden administration and claims they are continuing to fall rapidly. Trump blamed Democrats for elevated prices and said Republicans ar…
+- 10/02 03:44 [FirstSquawk] US ENERGY SECRETARY WRIGHT: EXPECT LOWER GASOLINE & DIESEL PRICES BY ELECTION; CONFIDENT EUROPE WILL RELEASE DIESEL FROM STOCKPILES
+- 10/02 03:45 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 2.71% HIGHER AT $92.87/BBL, UP $2.45
+- 10/02 03:54 [FirstSquawk] CHEMUNG CANAL TRUST COMPANY HAS ANNOUNCED A PLAN TO UNIFY UNDER A NEW NAME, PLANNING TO BRING CHEMUNG CANAL AND ITS DIVISIONS CAPITAL BANK AND CANAL BANK UNDER A SINGLE NAME — CANAL BANK & TRUST, N.A. — WITH THE NAME AND LOGO TO BE IMPLEMEN…
+- 10/02 03:54 [FirstSquawk] CHEMUNG FINANCIAL CORP SAYS THE BRAND UNIFICATION WILL NOT AFFECT ITS MISSION, LEADERSHIP OR OWNERSHIP.
+- 10/02 03:55 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 4.37% HIGHER AT $102.31/BBL, UP $4.28
+- 10/02 03:56 [financialjuice] Fed's Bowman Speaks - WATCH LIVE
+- 10/02 03:57 [FirstSquawk] THE TURKISH CENTRAL BANK SAYS IT HAS RAISED THE SME LOAN GROWTH LIMIT TO 5% FROM 4.5% AND LOWERED THE RATIOS FOR MAINTAINING TRY REQUIRED RESERVES IN BLOCKED ACCOUNTS.
+- 10/02 03:58 [FirstSquawk] THE TURKISH CENTRAL BANK SAYS IT HAS CUT THE BLOCKED RESERVE RATIO TO 35% FROM 40% FOR BANKS WITH ASSETS ABOVE 500 BLN LIRA, AND TO 15% FROM 30% FOR BANKS WITH ASSETS OF 100-500 BLN LIRA.
+- 10/02 04:00 [financialjuice] Fed's Bowman touts the benefits of the Fed capital plan tied to Treasuries.
