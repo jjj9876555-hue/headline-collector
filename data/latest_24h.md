@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-01 20:22 JST／対象: 09/30 20:22 〜 10/01 20:22 JST（時刻はすべて日本時間）
+生成: 2026-10-01 20:39 JST／対象: 09/30 20:39 〜 10/01 20:39 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 82 | 09/30 20:30 | 10/01 20:15 | ⚠ 610分（06:15→16:25） |
-| FirstSquawk | 341 | 09/30 20:30 | 10/01 20:07 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 365 | 09/30 20:32 | 10/01 20:19 | ⚠ 52分（14:07→15:00） |
+| DeItaone | 85 | 09/30 20:48 | 10/01 20:36 | ⚠ 610分（06:15→16:25） |
+| FirstSquawk | 342 | 09/30 20:50 | 10/01 20:38 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 369 | 09/30 20:52 | 10/01 20:37 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 768 行（統合前 790 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 773 行（統合前 798 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 20:30 [FirstSquawk] PORSCHE SE SAYS GERMAN COURT HAS DISMISSED $6.1 BILLION LAWSUIT BROUGHT BY INVESTORS
-- 09/30 20:30 [DeItaone] *BURNHAM: COULD GO ALL THE WAY AND REJOIN EU
-- 09/30 20:32 [financialjuice] Poll: Brent crude oil projected to average $89.05 a barrel in 2026 versus $85.08 forecast in August
-- 09/30 20:32 [financialjuice] Poll: US crude oil set to average $83.90 per barrel in 2026 versus $80.20 forecast in August
-- 09/30 20:35 [FirstSquawk] IG METALL: VW PLANS TO TERMINATE LABOUR PACTS
-- 09/30 20:38 [FirstSquawk] CONAGRA Q1 2027 EARNINGS - ADJ. EPS 41C (EST 29C) - ADJ. OPER MARGIN 11.5% (EST 9.2%) - SALES $2.6B (EST $2.59B) - STILL SEES FY ADJ OPER MARGIN 10% TO 10.5% (EST 10.2%) - SEES FY ORGANIC NET SALES -1% TO -3% (EST -1.93%)
 - 09/30 20:48 [DeItaone] *EXPLOSION HEARD IN IRAN'S ZAHEDAN: FARS
 - 09/30 20:50 [FirstSquawk] EXPLOSION SOUND HEARD NEAR JAMOOHI BLVD IN ZAHEDAN; CAUSE UNKNOWN - FARS
 - 09/30 20:51 [DeItaone] IRAN: EXPLOSION REPORTED IN ZAHEDAN Iran’s Fars News Agency reports that an explosion was heard near Jomhuri Boulevard in Zahedan. The source of the blast remains unknown, with authorities yet to provide further details. More information is…
@@ -789,6 +783,17 @@
 - 10/01 20:10 [financialjuice] Trump: High rates hurting economy more than inflation - Time
 - 10/01 20:10 [financialjuice] Trump: Certain levels of inflation help pay off debt - Time
 - 10/01 20:14 [DeItaone] TOTALENERGIES TO INVEST $10 BILLION IN ARGENTINA, CEO POUYANNE SAYS
-- 10/01 20:14 [financialjuice] ECB's Nagel, on rise in bond yields - All ECB instruments are for delivering price stability, not for certain yield levels
-- 10/01 20:15 [DeItaone] *TRUMP TO TIME: WE'LL SOON BE FILLING UP STRATEGIC OIL RESERVE
+- 10/01 20:14 [financialjuice/FirstSquawk] ECB's Nagel, on rise in bond yields - All ECB instruments are for delivering price stability, not for certain yield levels
+- 10/01 20:15 [DeItaone/FirstSquawk] *TRUMP TO TIME: WE'LL SOON BE FILLING UP STRATEGIC OIL RESERVE
 - 10/01 20:19 [financialjuice] Trump: Dinner with Anthropic CEO Amodei lasted more than two hours - Time
+- 10/01 20:28 [FirstSquawk] TRUMP: AMODEI VERY SMART, DIFFERENT THAN TRUMP THOUGHT: TIME
+- 10/01 20:32 [financialjuice] Iran's president Pezeshkian: Tehran won't ever shy away from dialogue, even as the US targeted Iran several times - Tasnim
+- 10/01 20:33 [DeItaone] CITI RAISES BITCOIN TARGET TO $113,000 Citi has raised its 12-month Bitcoin target to $113,000 from $82,000, implying roughly 35% upside from current levels near $83,900. The bank points to renewed currency-debasement fears, greater regulat…
+- 10/01 20:34 [DeItaone] FED'S KASHKARI: ECONOMY KEEPS SURPRISING ME HOW RESILIENT IT IS
+- 10/01 20:34 [financialjuice] Fed's Kashkari: Don't know how high rates need to go.
+- 10/01 20:35 [financialjuice] Fed's Kashkari: We will do what we need to get inflation to the goal
+- 10/01 20:36 [financialjuice] Fed's Kashkari: If AI proves to be as productive as expected, the investment cycle could persist for a long time
+- 10/01 20:36 [DeItaone] TRUMP SAYS HE MAY RAMP UP IRAN BOMBING AFTER MIDTERMS IF NO DEAL: TIME TRUMP SAYS SOME U.S. AMMUNITION STOCKS ‘A LITTLE BIT LOWER’: TIME TRUMP SAYS RAYTHEON, LOCKHEED EXPANDING PATRIOT, THAAD CAPACITY: TIME U.S. MILITARY FIRED MORE THAN 1,2…
+- 10/01 20:36 [DeItaone] TRUMP SAYS AI INDUSTRY ‘BIGGER’ THAN INTERNET, INDUSTRIAL REVOLUTION: TIME
+- 10/01 20:36 [financialjuice] Fed's Kashkari: There's a big gap between 2-year yield and short-rates
+- 10/01 20:37 [financialjuice/FirstSquawk] Fed's Kashkari: When markets have a view, they're not shy about expressing them.

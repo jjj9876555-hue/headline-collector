@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-01 20:22 JST／対象: 10/01 08:22 〜 10/01 20:22 JST（時刻はすべて日本時間）
+生成: 2026-10-01 20:39 JST／対象: 10/01 08:39 〜 10/01 20:39 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 23 | 10/01 16:25 | 10/01 20:15 | 37分（17:52→18:30） |
-| FirstSquawk | 195 | 10/01 08:44 | 10/01 20:07 | ⚠ 53分（18:34→19:28） |
-| financialjuice | 164 | 10/01 08:36 | 10/01 20:19 | ⚠ 52分（14:07→15:00） |
+| DeItaone | 27 | 10/01 16:25 | 10/01 20:36 | 37分（17:52→18:30） |
+| FirstSquawk | 199 | 10/01 08:44 | 10/01 20:38 | ⚠ 53分（18:34→19:28） |
+| financialjuice | 169 | 10/01 08:43 | 10/01 20:37 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 378 行（統合前 382 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 388 行（統合前 395 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 08:36 [financialjuice] S.Korea finance minister: will closely watch financial markets, take pre-emptive steps if necessary
 - 10/01 08:43 [financialjuice] Colombia's autonomous fiscal rule committee sees 7.8% GDP deficit for 2026, 9.5% for 2027: report
 - 10/01 08:43 [financialjuice] Fed's Kashkari: can't second-guess how market investment occurs
 - 10/01 08:43 [financialjuice] Colombia's autonomous fiscal rule committee forecasts GDP growth of 2.5% in 2026 and 1.8% in 2027 - report
@@ -399,6 +398,17 @@
 - 10/01 20:10 [financialjuice] Trump: High rates hurting economy more than inflation - Time
 - 10/01 20:10 [financialjuice] Trump: Certain levels of inflation help pay off debt - Time
 - 10/01 20:14 [DeItaone] TOTALENERGIES TO INVEST $10 BILLION IN ARGENTINA, CEO POUYANNE SAYS
-- 10/01 20:14 [financialjuice] ECB's Nagel, on rise in bond yields - All ECB instruments are for delivering price stability, not for certain yield levels
-- 10/01 20:15 [DeItaone] *TRUMP TO TIME: WE'LL SOON BE FILLING UP STRATEGIC OIL RESERVE
+- 10/01 20:14 [financialjuice/FirstSquawk] ECB's Nagel, on rise in bond yields - All ECB instruments are for delivering price stability, not for certain yield levels
+- 10/01 20:15 [DeItaone/FirstSquawk] *TRUMP TO TIME: WE'LL SOON BE FILLING UP STRATEGIC OIL RESERVE
 - 10/01 20:19 [financialjuice] Trump: Dinner with Anthropic CEO Amodei lasted more than two hours - Time
+- 10/01 20:28 [FirstSquawk] TRUMP: AMODEI VERY SMART, DIFFERENT THAN TRUMP THOUGHT: TIME
+- 10/01 20:32 [financialjuice] Iran's president Pezeshkian: Tehran won't ever shy away from dialogue, even as the US targeted Iran several times - Tasnim
+- 10/01 20:33 [DeItaone] CITI RAISES BITCOIN TARGET TO $113,000 Citi has raised its 12-month Bitcoin target to $113,000 from $82,000, implying roughly 35% upside from current levels near $83,900. The bank points to renewed currency-debasement fears, greater regulat…
+- 10/01 20:34 [DeItaone] FED'S KASHKARI: ECONOMY KEEPS SURPRISING ME HOW RESILIENT IT IS
+- 10/01 20:34 [financialjuice] Fed's Kashkari: Don't know how high rates need to go.
+- 10/01 20:35 [financialjuice] Fed's Kashkari: We will do what we need to get inflation to the goal
+- 10/01 20:36 [financialjuice] Fed's Kashkari: If AI proves to be as productive as expected, the investment cycle could persist for a long time
+- 10/01 20:36 [DeItaone] TRUMP SAYS HE MAY RAMP UP IRAN BOMBING AFTER MIDTERMS IF NO DEAL: TIME TRUMP SAYS SOME U.S. AMMUNITION STOCKS ‘A LITTLE BIT LOWER’: TIME TRUMP SAYS RAYTHEON, LOCKHEED EXPANDING PATRIOT, THAAD CAPACITY: TIME U.S. MILITARY FIRED MORE THAN 1,2…
+- 10/01 20:36 [DeItaone] TRUMP SAYS AI INDUSTRY ‘BIGGER’ THAN INTERNET, INDUSTRIAL REVOLUTION: TIME
+- 10/01 20:36 [financialjuice] Fed's Kashkari: There's a big gap between 2-year yield and short-rates
+- 10/01 20:37 [financialjuice/FirstSquawk] Fed's Kashkari: When markets have a view, they're not shy about expressing them.
