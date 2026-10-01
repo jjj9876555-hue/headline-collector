@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-01 23:50 JST／対象: 09/30 23:50 〜 10/01 23:50 JST（時刻はすべて日本時間）
+生成: 2026-10-02 00:03 JST／対象: 10/01 00:03 〜 10/02 00:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 78 | 10/01 00:48 | 10/01 23:19 | ⚠ 610分（06:15→16:25） |
-| FirstSquawk | 335 | 09/30 23:54 | 10/01 23:35 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 386 | 09/30 23:52 | 10/01 23:44 | ⚠ 52分（14:07→15:00） |
+| FirstSquawk | 333 | 10/01 00:08 | 10/01 23:52 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 390 | 10/01 00:08 | 10/02 00:02 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 777 行（統合前 804 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 779 行（統合前 806 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 23:52 [financialjuice] EIA: US domestic crude oil production rose in latest week to record highs
-- 09/30 23:54 [FirstSquawk] US DOMESTIC PRODUCTION OF CRUDE OIL ROSE IN LATEST WEEK TO RECORD HIGHS, EIA SAYS
-- 09/30 23:57 [financialjuice] Senate Republican Leader Thune: I have yet to receive diesel proposal from White House
-- 09/30 23:58 [FirstSquawk] US SENATE MAJORITY LEADER THUNE: YET TO RECEIVE DIESEL PROPOSAL FROM WHITE HOUSE
-- 10/01 00:01 [financialjuice] US Treasury: Will buy up to $6 bln of 10-20 Year debt in October 1st liquidity buyback
-- 10/01 00:02 [FirstSquawk] US TREASURY TO BUY UP TO $6 BLN OF 10-20 YEAR DEBT IN OCTOBER 1 LIQUIDITY BUYBACK
 - 10/01 00:08 [financialjuice] Senate Republican Leader Thune: Congress may raise debt limit after election
 - 10/01 00:08 [FirstSquawk] SIKORSKY, US ARMY REACH NOVEL PRODUCTION AGREEMENT FOR BLACK HAWK HELICOPTER TO ACCELERATE US AND ALLIED FIELDING - LMT
 - 10/01 00:13 [financialjuice] SNB's Governing Board Member Tschudin: Stablecoins and lower connection to the two-level finance system make the transmission of monetary policy more difficult
@@ -801,3 +795,11 @@
 - 10/01 23:34 [FirstSquawk] DOLLAR TO YEN DROPS SIGNIFICANTLY; CURRENTLY AT 157.52; TRADING VOLUMES INCREASE ON EBS PLATFORM.
 - 10/01 23:35 [FirstSquawk] RUSSIAN https://t.co/qIH60LhYkD : SETS OFFICIAL ROUBLE RATE FOR OCTOBER 2 AT 83.2454 ROUBLES PER U.S. DOLLAR (PVS RATE - 83.5588)
 - 10/01 23:44 [financialjuice] Senior US Official to Channel 12: The US military is sending a third aircraft carrier and a second Marine unit to the Middle East
+- 10/01 23:52 [FirstSquawk] ACCENTURE STOCK SURGES AS RECORD BOOKINGS DISPEL AI FEARS - YF
+- 10/01 23:54 [financialjuice] Senior US Official to Israel's Channel 12: Three Carrier Groups Possible by End-November.
+- 10/01 23:55 [financialjuice] Senior US Official: Deployment of naval vessel, Marine units will give US CENTCOM more firepower if fighting with Iran resumes - Israel's News 12
+- 10/01 23:59 [financialjuice] Trump touts Boeing on Truth Social. $BA
+- 10/02 00:01 [financialjuice] IMF: Recent US-China agreements enhance predictability of the global trading environment, establish a framework for potential future tariff cuts
+- 10/02 00:01 [financialjuice] IMF Spokesperson: We've seen a big decline in inflation over the last few years, strengthening of external position as reserves have accumulated, quite a lot of fiscal discipline, moving from deficit into fiscal surplus.
+- 10/02 00:01 [financialjuice] US Treasury Auctions Summary October 5 auctions (settle October 8): - US to sell $95 bln 3-month bills - US to sell $82 bln 6-month bills October 6 auctions (settle October 15): - US to sell $58 bln 3-year notes October 7 auctions (settle O…
+- 10/02 00:02 [financialjuice] US Treasury: Will buy up to $6 bln of 10-20 Year debt in October 1st liquidity buyback.

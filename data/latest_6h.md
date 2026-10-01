@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 23:50 JST／対象: 10/01 17:50 〜 10/01 23:50 JST（時刻はすべて日本時間）
+生成: 2026-10-02 00:03 JST／対象: 10/01 18:03 〜 10/02 00:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 37 | 10/01 17:52 | 10/01 23:19 | 39分（22:07→22:47） |
-| FirstSquawk | 67 | 10/01 17:58 | 10/01 23:35 | ⚠ 53分（18:34→19:28） |
-| financialjuice | 120 | 10/01 17:57 | 10/01 23:44 | 44分（18:40→19:25） |
+| DeItaone | 36 | 10/01 18:30 | 10/01 23:19 | 39分（22:07→22:47） |
+| FirstSquawk | 65 | 10/01 18:19 | 10/01 23:52 | ⚠ 53分（18:34→19:28） |
+| financialjuice | 120 | 10/01 18:17 | 10/02 00:02 | 44分（18:40→19:25） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 213 行（統合前 227 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 211 行（統合前 224 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 17:52 [DeItaone] U.K. 30-YEAR GILT HIT 6.029%, HIGHEST SINCE 1998: LSEG
-- 10/01 17:57 [financialjuice] FRENCH 10 YR OAT YIELD ACTUAL 4.93% (FORECAST -, PREVIOUS 4.23%) $MACRO
-- 10/01 17:57 [financialjuice] FRENCH 10 YR OAT BID-TO-COVER ACTUAL 2 (FORECAST -, PREVIOUS 2.28) $MACRO
-- 10/01 17:57 [financialjuice] FRENCH 20 YR OAT YIELD ACTUAL 5.4% (FORECAST -, PREVIOUS 4.74%) $MACRO
-- 10/01 17:57 [financialjuice] Japan Economy Minister Kiuchi: Won't comment on BoJ summary of opinions.
-- 10/01 17:57 [financialjuice] FRENCH 20 YR OAT BID-TO-COVER ACTUAL 2.43 (FORECAST -, PREVIOUS 3.07) $MACRO
-- 10/01 17:58 [FirstSquawk] JAPAN'S ECONOMY MINISTER KIUCHI REFUSED TO COMMENT ON THE BANK OF JAPAN'S SUMMARY OF OPINIONS.
-- 10/01 17:58 [FirstSquawk] JAPAN'S ECONOMY MINISTER KIUCHI STATES THAT THE DECISION ON SPECIFIC MONETARY TOOLS RESTS WITH THE BANK OF JAPAN.
-- 10/01 18:00 [financialjuice] ❗ EUROZONE UNEMPLOYMENT RATE ACTUAL 6.4% (FORECAST 6.4%, PREVIOUS 6.4%) $MACRO
-- 10/01 18:01 [financialjuice/FirstSquawk] Hawley, Murphy to introduce AI liability legislation - Axios.
 - 10/01 18:17 [financialjuice] Latest UK sanctions against Russian military & intelligence officers alleged to have mistreated civilians in Ukraine
 - 10/01 18:17 [financialjuice] Latest UK sanctions also target ships believed to be involved in carrying Russian liquefied natural gas
 - 10/01 18:17 [financialjuice] New UK sanctions target Russia LNG shadow fleet vessels
@@ -237,3 +227,11 @@
 - 10/01 23:34 [FirstSquawk] DOLLAR TO YEN DROPS SIGNIFICANTLY; CURRENTLY AT 157.52; TRADING VOLUMES INCREASE ON EBS PLATFORM.
 - 10/01 23:35 [FirstSquawk] RUSSIAN https://t.co/qIH60LhYkD : SETS OFFICIAL ROUBLE RATE FOR OCTOBER 2 AT 83.2454 ROUBLES PER U.S. DOLLAR (PVS RATE - 83.5588)
 - 10/01 23:44 [financialjuice] Senior US Official to Channel 12: The US military is sending a third aircraft carrier and a second Marine unit to the Middle East
+- 10/01 23:52 [FirstSquawk] ACCENTURE STOCK SURGES AS RECORD BOOKINGS DISPEL AI FEARS - YF
+- 10/01 23:54 [financialjuice] Senior US Official to Israel's Channel 12: Three Carrier Groups Possible by End-November.
+- 10/01 23:55 [financialjuice] Senior US Official: Deployment of naval vessel, Marine units will give US CENTCOM more firepower if fighting with Iran resumes - Israel's News 12
+- 10/01 23:59 [financialjuice] Trump touts Boeing on Truth Social. $BA
+- 10/02 00:01 [financialjuice] IMF: Recent US-China agreements enhance predictability of the global trading environment, establish a framework for potential future tariff cuts
+- 10/02 00:01 [financialjuice] IMF Spokesperson: We've seen a big decline in inflation over the last few years, strengthening of external position as reserves have accumulated, quite a lot of fiscal discipline, moving from deficit into fiscal surplus.
+- 10/02 00:01 [financialjuice] US Treasury Auctions Summary October 5 auctions (settle October 8): - US to sell $95 bln 3-month bills - US to sell $82 bln 6-month bills October 6 auctions (settle October 15): - US to sell $58 bln 3-year notes October 7 auctions (settle O…
+- 10/02 00:02 [financialjuice] US Treasury: Will buy up to $6 bln of 10-20 Year debt in October 1st liquidity buyback.

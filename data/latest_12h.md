@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-01 23:50 JST／対象: 10/01 11:50 〜 10/01 23:50 JST（時刻はすべて日本時間）
+生成: 2026-10-02 00:03 JST／対象: 10/01 12:03 〜 10/02 00:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 44 | 10/01 16:25 | 10/01 23:19 | 39分（22:07→22:47） |
-| FirstSquawk | 148 | 10/01 11:55 | 10/01 23:35 | ⚠ 53分（18:34→19:28） |
-| financialjuice | 178 | 10/01 11:57 | 10/01 23:44 | ⚠ 52分（14:07→15:00） |
+| FirstSquawk | 142 | 10/01 12:03 | 10/01 23:52 | ⚠ 53分（18:34→19:28） |
+| financialjuice | 183 | 10/01 12:27 | 10/02 00:02 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 359 行（統合前 373 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 358 行（統合前 372 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 11:55 [FirstSquawk] South Korea President Lee vows efforts to reduce military tensions with North Korea
-- 10/01 11:57 [financialjuice] Nine killed in two Pakistani airstrikes in Afghanistan: Afghan Taliban spokesperson
-- 10/01 11:57 [financialjuice] India trade minister: discussed with USTR Greer on early wrap-up of interim deal under India-US trade agreement
-- 10/01 11:57 [FirstSquawk] India Trade Minister: Held discussions with USTR Greer to advance interim India-US trade agreement
-- 10/01 11:58 [FirstSquawk] Afghan Taliban: Nine killed in two Pakistani airstrikes in Afghanistan
-- 10/01 12:00 [FirstSquawk] Tencent leases 100,000 Oracle chips to boost AI expansion — FT
-- 10/01 12:00 [FirstSquawk] Tencent secures five-year lease across Oracle data centres in Southeast Asia — FT
-- 10/01 12:01 [FirstSquawk] FT: Tencent-Oracle deal worth about $7bn, with around 30% paid upfront
-- 10/01 12:01 [FirstSquawk] Tencent deal provides access to roughly 100,000 advanced AI chips unavailable in China — FT
 - 10/01 12:03 [FirstSquawk] Australia’s ASX 200 slides 1.8% to 8,634.80, weakest since mid-June
 - 10/01 12:06 [FirstSquawk] European futures lower: EURO STOXX 50 and DAX futures down 0.6%, FTSE futures off 0.5%
 - 10/01 12:23 [FirstSquawk] Toyota says both shifts at Thailand vehicle, Toyota Auto Works plants won’t operate on Oct. 1-2
@@ -383,3 +374,11 @@
 - 10/01 23:34 [FirstSquawk] DOLLAR TO YEN DROPS SIGNIFICANTLY; CURRENTLY AT 157.52; TRADING VOLUMES INCREASE ON EBS PLATFORM.
 - 10/01 23:35 [FirstSquawk] RUSSIAN https://t.co/qIH60LhYkD : SETS OFFICIAL ROUBLE RATE FOR OCTOBER 2 AT 83.2454 ROUBLES PER U.S. DOLLAR (PVS RATE - 83.5588)
 - 10/01 23:44 [financialjuice] Senior US Official to Channel 12: The US military is sending a third aircraft carrier and a second Marine unit to the Middle East
+- 10/01 23:52 [FirstSquawk] ACCENTURE STOCK SURGES AS RECORD BOOKINGS DISPEL AI FEARS - YF
+- 10/01 23:54 [financialjuice] Senior US Official to Israel's Channel 12: Three Carrier Groups Possible by End-November.
+- 10/01 23:55 [financialjuice] Senior US Official: Deployment of naval vessel, Marine units will give US CENTCOM more firepower if fighting with Iran resumes - Israel's News 12
+- 10/01 23:59 [financialjuice] Trump touts Boeing on Truth Social. $BA
+- 10/02 00:01 [financialjuice] IMF: Recent US-China agreements enhance predictability of the global trading environment, establish a framework for potential future tariff cuts
+- 10/02 00:01 [financialjuice] IMF Spokesperson: We've seen a big decline in inflation over the last few years, strengthening of external position as reserves have accumulated, quite a lot of fiscal discipline, moving from deficit into fiscal surplus.
+- 10/02 00:01 [financialjuice] US Treasury Auctions Summary October 5 auctions (settle October 8): - US to sell $95 bln 3-month bills - US to sell $82 bln 6-month bills October 6 auctions (settle October 15): - US to sell $58 bln 3-year notes October 7 auctions (settle O…
+- 10/02 00:02 [financialjuice] US Treasury: Will buy up to $6 bln of 10-20 Year debt in October 1st liquidity buyback.
