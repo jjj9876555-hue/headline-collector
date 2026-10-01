@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 18:24 JST／対象: 10/01 12:24 〜 10/01 18:24 JST（時刻はすべて日本時間）
+生成: 2026-10-01 18:48 JST／対象: 10/01 12:48 〜 10/01 18:48 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 8 | 10/01 16:25 | 10/01 17:52 | 24分（16:50→17:14） |
-| FirstSquawk | 77 | 10/01 12:28 | 10/01 18:19 | 24分（13:35→14:00） |
-| financialjuice | 67 | 10/01 12:27 | 10/01 18:17 | ⚠ 52分（14:07→15:00） |
+| DeItaone | 13 | 10/01 16:25 | 10/01 18:36 | 37分（17:52→18:30） |
+| FirstSquawk | 78 | 10/01 12:50 | 10/01 18:34 | 24分（13:35→14:00） |
+| financialjuice | 69 | 10/01 13:02 | 10/01 18:40 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 151 行（統合前 152 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 159 行（統合前 160 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 12:27 [financialjuice] OpenAI: aware of reports of models trying to access publicly available data from Canadian government websites
-- 10/01 12:28 [financialjuice] OpenAI: reviewing findings, gave initial briefing to Canadian officials conducting government review
-- 10/01 12:28 [FirstSquawk] OpenAI acknowledges reports of its models attempting to access publicly available Canadian government website data
-- 10/01 12:28 [financialjuice] OpenAI: most of the activity reviewed involved routine research tasks, including accessing public web content
-- 10/01 12:28 [FirstSquawk] OpenAI says it has provided Canadian officials with an initial briefing as they conduct the government’s review
-- 10/01 12:29 [FirstSquawk] OpenAI says most reviewed activity consisted of routine research tasks involving public web content
-- 10/01 12:34 [financialjuice] Pakistan govt: carried out airstrikes on terrorist group hideouts in Afghanistan
-- 10/01 12:35 [financialjuice] Pakistan govt: 22 militants killed in airstrike, large caches of weapons, ammunition eliminated
-- 10/01 12:47 [FirstSquawk] China will find a way to manage crypto, says Solana CEO — WSJ
 - 10/01 12:50 [FirstSquawk] Goldman Sachs shifts forecast for next Fed rate hike to December
 - 10/01 13:02 [financialjuice] California agriculture files lawsuit challenging Trump administration's unlawful attempt to impound congressionally approved federal funding
 - 10/01 13:03 [financialjuice] EU questions Binance over ongoing operations despite order to wind down - FT
@@ -175,3 +166,20 @@
 - 10/01 18:19 [FirstSquawk] UK FOREIGN OFFICE ANNOUNCED 23 NEW DESIGNATIONS AND 8 NEW SPECIFICATIONS UNDER THE RUSSIA SANCTIONS REGIME.
 - 10/01 18:19 [FirstSquawk] UK IMPOSES NEW SANCTIONS ON RUSSIAN MILITARY AND INTELLIGENCE OFFICERS ACCUSED OF ABUSING CIVILIANS IN UKRAINE.
 - 10/01 18:19 [FirstSquawk] NEW UK SANCTIONS AIM AT VESSELS SUSPECTED OF TRANSPORTING RUSSIAN LIQUEFIED NATURAL GAS.
+- 10/01 18:25 [FirstSquawk] EU GROUP SEEKS MEMBER STATES' OPINIONS TO FORMULATE A POSITION.
+- 10/01 18:25 [FirstSquawk] EU AIMS FOR UNIFIED POSITION ON DIESEL STOCK FOLLOWING US REQUEST FOR RELEASE.
+- 10/01 18:30 [DeItaone] RUSSIA SAYS NUCLEAR WARNING TO NATO IS NOT “CONFRONTATIONAL” The Kremlin says Russia’s letter to NATO signaling readiness to resort to nuclear weapons should not be viewed as confrontational, arguing it is intended to ensure Kaliningrad’s s…
+- 10/01 18:30 [financialjuice] US CHALLENGER LAYOFFS ACTUAL 43.281K (FORECAST -, PREVIOUS 52.881K) $MACRO
+- 10/01 18:31 [DeItaone] U.S. LAYOFF PLANS FALL SHARPLY IN SEPTEMBER U.S. employers announced 43,281 job cuts in September, down 18% from August and the lowest September total since 2022, according to Challenger Gray. Year-to-date layoffs are down 39% from 2025. Ho…
+- 10/01 18:32 [financialjuice] EU seeks joint stance on diesel stock after US demands release
+- 10/01 18:32 [financialjuice] Amazon added to conviction list at Goldman $AMZN
+- 10/01 18:33 [DeItaone] EU COORDINATES POTENTIAL MASSIVE DIESEL STOCK RELEASE The EU is coordinating a joint position on releasing emergency diesel reserves after the U.S. requested European action to ease fuel prices and avert a potential export ban. Reuters repo…
+- 10/01 18:34 [FirstSquawk] KREMLIN COMMENTS ON DMITRIEV'S DISCUSSIONS IN THE US, STATING THAT THE US CONNECTS JOINT ECONOMIC PROJECTS TO A SOLUTION IN UKRAINE.
+- 10/01 18:34 [FirstSquawk] KREMLIN ANNOUNCED THAT DMITRIEV IS REPORTING TO PUTIN ABOUT HIS DISCUSSIONS IN THE US, WITH RUSSIA-US DIALOGUE STILL UNDERWAY.
+- 10/01 18:34 [FirstSquawk] KREMLIN STRESSES POSSIBILITY OF COLLABORATION WITH US FOR MUTUAL ECONOMIC GAIN AT DMITRIEV'S DISCUSSIONS.
+- 10/01 18:34 [DeItaone] SYRIAN OFFICIALS AND HEZBOLLAH MET IN TURKEY LAST MONTH IN FIRST KNOWN MEETING BETWEEN LONGTIME FOES, SOURCES TELL REUTERS MEETING IN TURKEY COVERED MUTUAL SECURITY CONCERNS, AND PROGRESS WAS MADE, SOURCES SAY
+- 10/01 18:36 [DeItaone] GOLDMAN REFRESHES TOP U.S. STOCK PICKS Goldman Sachs added Amazon ($AMZN), Burlington Stores ($BURL), Huntington Ingalls ($HII), Johnson Controls ($JCI) and Occidental Petroleum ($OXY) to its “Director’s Cut” list. Goldman removed Air Produ…
+- 10/01 18:37 [financialjuice] Kremlin on Dmitriev's talks in the US: Unfortunately, the US links the realisation of joint economic projects to settlement in Ukraine
+- 10/01 18:37 [financialjuice] Kremlin: Dmitriev reports to Putin on the results of his contacts with the US, Russia-US dialogue is continuing
+- 10/01 18:37 [financialjuice] Kremlin on economic cooperation with the US: We believe we can be working together for our mutual benefit right now
+- 10/01 18:40 [financialjuice] Iran and Japan foreign ministers discuss US talks in call - Tasnim

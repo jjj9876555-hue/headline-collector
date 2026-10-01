@@ -7,50 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-01 18:24 JST／対象: 09/30 18:24 〜 10/01 18:24 JST（時刻はすべて日本時間）
+生成: 2026-10-01 18:48 JST／対象: 09/30 18:48 〜 10/01 18:48 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 83 | 09/30 18:55 | 10/01 17:52 | ⚠ 610分（06:15→16:25） |
-| FirstSquawk | 354 | 09/30 18:37 | 10/01 18:19 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 359 | 09/30 18:29 | 10/01 18:17 | ⚠ 52分（14:07→15:00） |
+| DeItaone | 88 | 09/30 18:55 | 10/01 18:36 | ⚠ 610分（06:15→16:25） |
+| FirstSquawk | 345 | 09/30 18:52 | 10/01 18:34 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 353 | 09/30 18:58 | 10/01 18:40 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 776 行（統合前 798 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 766 行（統合前 788 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 18:29 [financialjuice] Japan PM Takaichi: Takaichi administration will boost supply side of the economy.
-- 09/30 18:30 [financialjuice] Japan PM Takaichi: Government will set a clearer path of economy and fiscal policy management.
-- 09/30 18:30 [financialjuice] UKMTO gets time-late report of incident in Hormuz.
-- 09/30 18:31 [financialjuice] BoE FPC: Likelihood financial risks crystallise at same time has risen since July.
-- 09/30 18:32 [financialjuice] BoE FPC: Rise in oil and gas prices has led to more protracted supply shock.
-- 09/30 18:32 [financialjuice] GERMAN 10 YR BUND YIELD ACTUAL 3.58% (FORECAST -, PREVIOUS 3.39%) $MACRO
-- 09/30 18:32 [financialjuice] GERMAN 10 YR BUND BID-TO-COVER ACTUAL 1.2 (FORECAST -, PREVIOUS 1.5) $MACRO
-- 09/30 18:32 [financialjuice] BoE FPC: Frontier AI breaches reinforce need for financial firms to prepare for risk, engage wth UK authorities.
-- 09/30 18:32 [financialjuice] BoE FPC: BoE will set out proposed bank leverage ratio reforms and gilt repo reforms in early 2027.
-- 09/30 18:32 [financialjuice] BoE FPC: Planned market-based reforms to gilt repo will mitigate risks from leverage ratio changes.
-- 09/30 18:32 [financialjuice] BoE FPC: Financial markets so far have been resilient to higher energy prices and bond yields.
-- 09/30 18:33 [financialjuice] BoE FPC: Risky credit markets, including parts of private credit, remain vulnerable to tighter financing conditions.
-- 09/30 18:33 [financialjuice] BoE FPC: UK households and corporates remain resilient, banking system remains appropriately capitalised.
-- 09/30 18:37 [FirstSquawk] BANK OF ENGLAND FPC SAYS CHANCES OF FINANCIAL RISKS OCCURRING SIMULTANEOUSLY HAVE INCREASED SINCE JULY.
-- 09/30 18:38 [FirstSquawk] BOE FPC REPORTS THAT INCREASING OIL AND GAS PRICES HAVE CAUSED A LONGER SUPPLY DISRUPTION.
-- 09/30 18:38 [FirstSquawk] BOE FPC SAYS FRONTIER AI BREACHES SHOW FINANCIAL FIRMS MUST PREPARE FOR RISKS AND WORK WITH UK AUTHORITIES.
-- 09/30 18:38 [FirstSquawk] BOE PLANS TO INTRODUCE PROPOSED REFORMS FOR BANK LEVERAGE RATIOS AND GILT REPO IN EARLY 2027.
-- 09/30 18:38 [FirstSquawk] BOE FPC SAYS NEW MARKET PLANS FOR GILT REPO WILL REDUCE RISKS FROM LEVERAGE RATIO CHANGES.
-- 09/30 18:38 [FirstSquawk] BOE FPC STATES THAT FINANCIAL MARKETS HAVE REMAINED STRONG DESPITE RISING ENERGY COSTS AND BOND YIELDS.
-- 09/30 18:38 [FirstSquawk] BANK OF ENGLAND'S BAILEY STRESSES THE NEED FOR INCREASED TESTING OF AI MODELS BEFORE AND AFTER THEY GO LIVE, PRIOR TO REGULATIONS.
-- 09/30 18:38 [FirstSquawk] BOE FPC WARNED THAT RISKY CREDIT MARKETS, ESPECIALLY IN PRIVATE CREDIT, ARE STILL SENSITIVE TO TIGHTER FINANCING.
-- 09/30 18:38 [FirstSquawk] BOE FPC STATES UK HOUSEHOLDS AND BUSINESSES ARE STRONG, BANKING SYSTEM IS WELL-CAPITALIZED.
-- 09/30 18:41 [FirstSquawk] PORSCHE SE: GERMAN FEDERAL COURT CONFIRMS DECISION OF THE HIGHER REGIONAL COURT OF CELLE IN FAVOR OF PORSCHE SE
-- 09/30 18:41 [FirstSquawk] PORSCHE SE: NO CLAIM OF PLAINTIFFS FOR DAMAGES IN THE AMOUNT OF 5.4 BILLION EURO
-- 09/30 18:41 [FirstSquawk] PORSCHE SE: RULING OF GERMAN FEDERAL COURT BINDING UPON COURTS IN INITIAL PROCEEDINGS
-- 09/30 18:47 [FirstSquawk] JAPAN PM: TO STRENGTHEN SUPPLY CAPACITY AMID PRICE RISES, RATES
-- 09/30 18:47 [FirstSquawk] JAPAN PM: TO ASSESS TAX INTAKE TRENDS, REVIEW REVENUE, SPENDING
 - 09/30 18:52 [FirstSquawk] KREMLIN SAYS REPORTS OF SANCTION RELIEF FOR POLITICAL PRISONERS ARE NOT RELEVANT, CLAIMING RUSSIA DOES NOT HAVE POLITICAL PRISONERS.
 - 09/30 18:52 [FirstSquawk] KREMLIN RESPONDS TO RUSSIA'S NUCLEAR THREATS TO NATO OVER KALININGRAD, STATING DIPLOMATS REMIND EUROPEAN LEADERS ABOUT FOUNDING DOCUMENTS.
 - 09/30 18:52 [FirstSquawk] KREMLIN REJECTS CLAIMS OF TALKING ABOUT LIFTING SANCTIONS ON RUSSIA IN RETURN FOR PRISONERS.
@@ -800,3 +773,20 @@
 - 10/01 18:19 [FirstSquawk] UK FOREIGN OFFICE ANNOUNCED 23 NEW DESIGNATIONS AND 8 NEW SPECIFICATIONS UNDER THE RUSSIA SANCTIONS REGIME.
 - 10/01 18:19 [FirstSquawk] UK IMPOSES NEW SANCTIONS ON RUSSIAN MILITARY AND INTELLIGENCE OFFICERS ACCUSED OF ABUSING CIVILIANS IN UKRAINE.
 - 10/01 18:19 [FirstSquawk] NEW UK SANCTIONS AIM AT VESSELS SUSPECTED OF TRANSPORTING RUSSIAN LIQUEFIED NATURAL GAS.
+- 10/01 18:25 [FirstSquawk] EU GROUP SEEKS MEMBER STATES' OPINIONS TO FORMULATE A POSITION.
+- 10/01 18:25 [FirstSquawk] EU AIMS FOR UNIFIED POSITION ON DIESEL STOCK FOLLOWING US REQUEST FOR RELEASE.
+- 10/01 18:30 [DeItaone] RUSSIA SAYS NUCLEAR WARNING TO NATO IS NOT “CONFRONTATIONAL” The Kremlin says Russia’s letter to NATO signaling readiness to resort to nuclear weapons should not be viewed as confrontational, arguing it is intended to ensure Kaliningrad’s s…
+- 10/01 18:30 [financialjuice] US CHALLENGER LAYOFFS ACTUAL 43.281K (FORECAST -, PREVIOUS 52.881K) $MACRO
+- 10/01 18:31 [DeItaone] U.S. LAYOFF PLANS FALL SHARPLY IN SEPTEMBER U.S. employers announced 43,281 job cuts in September, down 18% from August and the lowest September total since 2022, according to Challenger Gray. Year-to-date layoffs are down 39% from 2025. Ho…
+- 10/01 18:32 [financialjuice] EU seeks joint stance on diesel stock after US demands release
+- 10/01 18:32 [financialjuice] Amazon added to conviction list at Goldman $AMZN
+- 10/01 18:33 [DeItaone] EU COORDINATES POTENTIAL MASSIVE DIESEL STOCK RELEASE The EU is coordinating a joint position on releasing emergency diesel reserves after the U.S. requested European action to ease fuel prices and avert a potential export ban. Reuters repo…
+- 10/01 18:34 [FirstSquawk] KREMLIN COMMENTS ON DMITRIEV'S DISCUSSIONS IN THE US, STATING THAT THE US CONNECTS JOINT ECONOMIC PROJECTS TO A SOLUTION IN UKRAINE.
+- 10/01 18:34 [FirstSquawk] KREMLIN ANNOUNCED THAT DMITRIEV IS REPORTING TO PUTIN ABOUT HIS DISCUSSIONS IN THE US, WITH RUSSIA-US DIALOGUE STILL UNDERWAY.
+- 10/01 18:34 [FirstSquawk] KREMLIN STRESSES POSSIBILITY OF COLLABORATION WITH US FOR MUTUAL ECONOMIC GAIN AT DMITRIEV'S DISCUSSIONS.
+- 10/01 18:34 [DeItaone] SYRIAN OFFICIALS AND HEZBOLLAH MET IN TURKEY LAST MONTH IN FIRST KNOWN MEETING BETWEEN LONGTIME FOES, SOURCES TELL REUTERS MEETING IN TURKEY COVERED MUTUAL SECURITY CONCERNS, AND PROGRESS WAS MADE, SOURCES SAY
+- 10/01 18:36 [DeItaone] GOLDMAN REFRESHES TOP U.S. STOCK PICKS Goldman Sachs added Amazon ($AMZN), Burlington Stores ($BURL), Huntington Ingalls ($HII), Johnson Controls ($JCI) and Occidental Petroleum ($OXY) to its “Director’s Cut” list. Goldman removed Air Produ…
+- 10/01 18:37 [financialjuice] Kremlin on Dmitriev's talks in the US: Unfortunately, the US links the realisation of joint economic projects to settlement in Ukraine
+- 10/01 18:37 [financialjuice] Kremlin: Dmitriev reports to Putin on the results of his contacts with the US, Russia-US dialogue is continuing
+- 10/01 18:37 [financialjuice] Kremlin on economic cooperation with the US: We believe we can be working together for our mutual benefit right now
+- 10/01 18:40 [financialjuice] Iran and Japan foreign ministers discuss US talks in call - Tasnim

@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-01 18:24 JST／対象: 10/01 06:24 〜 10/01 18:24 JST（時刻はすべて日本時間）
+生成: 2026-10-01 18:48 JST／対象: 10/01 06:48 〜 10/01 18:48 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 8 | 10/01 16:25 | 10/01 17:52 | 24分（16:50→17:14） |
-| FirstSquawk | 187 | 10/01 06:25 | 10/01 18:19 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 185 | 10/01 06:29 | 10/01 18:17 | ⚠ 52分（14:07→15:00） |
+| DeItaone | 13 | 10/01 16:25 | 10/01 18:36 | 37分（17:52→18:30） |
+| FirstSquawk | 185 | 10/01 07:49 | 10/01 18:34 | ⚠ 54分（07:50→08:44） |
+| financialjuice | 188 | 10/01 07:02 | 10/01 18:40 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 377 行（統合前 380 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 384 行（統合前 386 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 06:25 [FirstSquawk] US ENERGY SECRETARY WRIGHT: DIESEL SUPPLY ANNOUNCEMENTS EXPECTED FROM US & EUROPE
-- 10/01 06:27 [FirstSquawk] CLIMATE CHANGE CAUSES 6C TEMPERATURE RISE PER DECADE, EXPERTS WARN
-- 10/01 06:28 [FirstSquawk] YEMENI FORCES DESTROYED AN IRANIAN-DEVELOPED MOBILE AIR DEFENCE SYSTEM IN AL-MOKHA - AL ARABIYA, WITH THE YEMENI ARMED FORCES SAYING THEY DESTROYED HOUTHI REINFORCEMENTS AND WEAPONS
-- 10/01 06:29 [FirstSquawk] TRUMP SAYS ON LONG-TERM TREASURY AUCTIONS THAT BESSENT 'HAS GOOD INSTINCTS', AND THAT HE IS CONSIDERING A DIESEL EXPORT BAN DAILY, THOUGH IT COULD HAVE A NEGATIVE IMPACT ON GASOLINE, ADDING THAT THE U.S. HAS 'TOTAL CONTROL OF THE STRAIT OF …
-- 10/01 06:29 [FirstSquawk] TRUMP SAYS ON CHINA AND AI THAT 'THEY'RE GOING FULL BLAST'.
-- 10/01 06:29 [FirstSquawk/financialjuice] SOUTH KOREA URGES GOVERNMENT TO BOOST INVESTMENTS IN ELECTRIC VEHICLE SECTOR
-- 10/01 06:29 [financialjuice] Fed's Goolsbee: record gap between consumer sentiment vibes and actual spending data
-- 10/01 06:31 [FirstSquawk] U.S. CENTRAL COMMAND SAYS THAT AS OF SEPT. 30, CENTCOM FORCES HAVE REDIRECTED 125 COMMERCIAL VESSELS TO ENSURE STRICT COMPLIANCE, WITH THE USS GEORGE H.W. BUSH (CVN 77) SAILING IN THE ARABIAN SEA SUPPORTING ENFORCEMENT OF THE U.S. BLOCKADE …
-- 10/01 06:45 [financialjuice] NEW ZEALAND BUILDING CONSENTS ACTUAL 5.6% (FORECAST -, PREVIOUS -4.3%) $MACRO
-- 10/01 06:45 [financialjuice] New Zealand seasonally adjusted new dwelling consents increase 5.6% in August versus previous month
 - 10/01 07:02 [financialjuice] Fed's Kashkari: Inflation still too high, about 3%, new data doesn't alter outlook
 - 10/01 07:02 [financialjuice] Fed's Kashkari: economy remains robust despite shocks
 - 10/01 07:03 [financialjuice] Fed's Kashkari: consumers continue spending and job seekers have positions
@@ -401,3 +391,20 @@
 - 10/01 18:19 [FirstSquawk] UK FOREIGN OFFICE ANNOUNCED 23 NEW DESIGNATIONS AND 8 NEW SPECIFICATIONS UNDER THE RUSSIA SANCTIONS REGIME.
 - 10/01 18:19 [FirstSquawk] UK IMPOSES NEW SANCTIONS ON RUSSIAN MILITARY AND INTELLIGENCE OFFICERS ACCUSED OF ABUSING CIVILIANS IN UKRAINE.
 - 10/01 18:19 [FirstSquawk] NEW UK SANCTIONS AIM AT VESSELS SUSPECTED OF TRANSPORTING RUSSIAN LIQUEFIED NATURAL GAS.
+- 10/01 18:25 [FirstSquawk] EU GROUP SEEKS MEMBER STATES' OPINIONS TO FORMULATE A POSITION.
+- 10/01 18:25 [FirstSquawk] EU AIMS FOR UNIFIED POSITION ON DIESEL STOCK FOLLOWING US REQUEST FOR RELEASE.
+- 10/01 18:30 [DeItaone] RUSSIA SAYS NUCLEAR WARNING TO NATO IS NOT “CONFRONTATIONAL” The Kremlin says Russia’s letter to NATO signaling readiness to resort to nuclear weapons should not be viewed as confrontational, arguing it is intended to ensure Kaliningrad’s s…
+- 10/01 18:30 [financialjuice] US CHALLENGER LAYOFFS ACTUAL 43.281K (FORECAST -, PREVIOUS 52.881K) $MACRO
+- 10/01 18:31 [DeItaone] U.S. LAYOFF PLANS FALL SHARPLY IN SEPTEMBER U.S. employers announced 43,281 job cuts in September, down 18% from August and the lowest September total since 2022, according to Challenger Gray. Year-to-date layoffs are down 39% from 2025. Ho…
+- 10/01 18:32 [financialjuice] EU seeks joint stance on diesel stock after US demands release
+- 10/01 18:32 [financialjuice] Amazon added to conviction list at Goldman $AMZN
+- 10/01 18:33 [DeItaone] EU COORDINATES POTENTIAL MASSIVE DIESEL STOCK RELEASE The EU is coordinating a joint position on releasing emergency diesel reserves after the U.S. requested European action to ease fuel prices and avert a potential export ban. Reuters repo…
+- 10/01 18:34 [FirstSquawk] KREMLIN COMMENTS ON DMITRIEV'S DISCUSSIONS IN THE US, STATING THAT THE US CONNECTS JOINT ECONOMIC PROJECTS TO A SOLUTION IN UKRAINE.
+- 10/01 18:34 [FirstSquawk] KREMLIN ANNOUNCED THAT DMITRIEV IS REPORTING TO PUTIN ABOUT HIS DISCUSSIONS IN THE US, WITH RUSSIA-US DIALOGUE STILL UNDERWAY.
+- 10/01 18:34 [FirstSquawk] KREMLIN STRESSES POSSIBILITY OF COLLABORATION WITH US FOR MUTUAL ECONOMIC GAIN AT DMITRIEV'S DISCUSSIONS.
+- 10/01 18:34 [DeItaone] SYRIAN OFFICIALS AND HEZBOLLAH MET IN TURKEY LAST MONTH IN FIRST KNOWN MEETING BETWEEN LONGTIME FOES, SOURCES TELL REUTERS MEETING IN TURKEY COVERED MUTUAL SECURITY CONCERNS, AND PROGRESS WAS MADE, SOURCES SAY
+- 10/01 18:36 [DeItaone] GOLDMAN REFRESHES TOP U.S. STOCK PICKS Goldman Sachs added Amazon ($AMZN), Burlington Stores ($BURL), Huntington Ingalls ($HII), Johnson Controls ($JCI) and Occidental Petroleum ($OXY) to its “Director’s Cut” list. Goldman removed Air Produ…
+- 10/01 18:37 [financialjuice] Kremlin on Dmitriev's talks in the US: Unfortunately, the US links the realisation of joint economic projects to settlement in Ukraine
+- 10/01 18:37 [financialjuice] Kremlin: Dmitriev reports to Putin on the results of his contacts with the US, Russia-US dialogue is continuing
+- 10/01 18:37 [financialjuice] Kremlin on economic cooperation with the US: We believe we can be working together for our mutual benefit right now
+- 10/01 18:40 [financialjuice] Iran and Japan foreign ministers discuss US talks in call - Tasnim
