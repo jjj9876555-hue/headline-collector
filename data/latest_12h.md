@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-02 06:19 JST／対象: 10/01 18:19 〜 10/02 06:19 JST（時刻はすべて日本時間）
+生成: 2026-10-02 06:36 JST／対象: 10/01 18:36 〜 10/02 06:36 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 85 | 10/01 18:30 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 177 | 10/01 18:19 | 10/02 06:02 | ⚠ 53分（18:34→19:28） |
-| financialjuice | 283 | 10/01 18:30 | 10/02 06:01 | 44分（18:40→19:25） |
+| DeItaone | 81 | 10/01 18:36 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
+| FirstSquawk | 173 | 10/01 19:28 | 10/02 06:24 | 39分（01:52→02:31） |
+| financialjuice | 280 | 10/01 18:37 | 10/02 06:01 | 44分（18:40→19:25） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 509 行（統合前 551 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 498 行（統合前 540 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 18:19 [FirstSquawk] UK IMPOSES NEW SANCTIONS ON RUSSIAN MILITARY AND INTELLIGENCE OFFICERS ACCUSED OF ABUSING CIVILIANS IN UKRAINE.
-- 10/01 18:19 [FirstSquawk] NEW UK SANCTIONS AIM AT VESSELS SUSPECTED OF TRANSPORTING RUSSIAN LIQUEFIED NATURAL GAS.
-- 10/01 18:25 [FirstSquawk] EU GROUP SEEKS MEMBER STATES' OPINIONS TO FORMULATE A POSITION.
-- 10/01 18:25 [FirstSquawk] EU AIMS FOR UNIFIED POSITION ON DIESEL STOCK FOLLOWING US REQUEST FOR RELEASE.
-- 10/01 18:30 [DeItaone] RUSSIA SAYS NUCLEAR WARNING TO NATO IS NOT “CONFRONTATIONAL” The Kremlin says Russia’s letter to NATO signaling readiness to resort to nuclear weapons should not be viewed as confrontational, arguing it is intended to ensure Kaliningrad’s s…
-- 10/01 18:30 [financialjuice] US CHALLENGER LAYOFFS ACTUAL 43.281K (FORECAST -, PREVIOUS 52.881K) $MACRO
-- 10/01 18:31 [DeItaone] U.S. LAYOFF PLANS FALL SHARPLY IN SEPTEMBER U.S. employers announced 43,281 job cuts in September, down 18% from August and the lowest September total since 2022, according to Challenger Gray. Year-to-date layoffs are down 39% from 2025. Ho…
-- 10/01 18:32 [financialjuice] EU seeks joint stance on diesel stock after US demands release
-- 10/01 18:32 [financialjuice] Amazon added to conviction list at Goldman $AMZN
-- 10/01 18:33 [DeItaone] EU COORDINATES POTENTIAL MASSIVE DIESEL STOCK RELEASE The EU is coordinating a joint position on releasing emergency diesel reserves after the U.S. requested European action to ease fuel prices and avert a potential export ban. Reuters repo…
-- 10/01 18:34 [FirstSquawk] KREMLIN COMMENTS ON DMITRIEV'S DISCUSSIONS IN THE US, STATING THAT THE US CONNECTS JOINT ECONOMIC PROJECTS TO A SOLUTION IN UKRAINE.
-- 10/01 18:34 [FirstSquawk] KREMLIN ANNOUNCED THAT DMITRIEV IS REPORTING TO PUTIN ABOUT HIS DISCUSSIONS IN THE US, WITH RUSSIA-US DIALOGUE STILL UNDERWAY.
-- 10/01 18:34 [FirstSquawk] KREMLIN STRESSES POSSIBILITY OF COLLABORATION WITH US FOR MUTUAL ECONOMIC GAIN AT DMITRIEV'S DISCUSSIONS.
-- 10/01 18:34 [DeItaone] SYRIAN OFFICIALS AND HEZBOLLAH MET IN TURKEY LAST MONTH IN FIRST KNOWN MEETING BETWEEN LONGTIME FOES, SOURCES TELL REUTERS MEETING IN TURKEY COVERED MUTUAL SECURITY CONCERNS, AND PROGRESS WAS MADE, SOURCES SAY
 - 10/01 18:36 [DeItaone] GOLDMAN REFRESHES TOP U.S. STOCK PICKS Goldman Sachs added Amazon ($AMZN), Burlington Stores ($BURL), Huntington Ingalls ($HII), Johnson Controls ($JCI) and Occidental Petroleum ($OXY) to its “Director’s Cut” list. Goldman removed Air Produ…
 - 10/01 18:37 [financialjuice] Kremlin on Dmitriev's talks in the US: Unfortunately, the US links the realisation of joint economic projects to settlement in Ukraine
 - 10/01 18:37 [financialjuice] Kremlin: Dmitriev reports to Putin on the results of his contacts with the US, Russia-US dialogue is continuing
@@ -533,3 +519,6 @@
 - 10/02 05:43 [FirstSquawk] ONSEMI IS TO BUY SYNAPTICS FOR $123 PER SHARE IN CASH UNDER A REVISED MERGER AGREEMENT, VALUING THE DEAL AT $5.70 BLN, SOURCES SAY, WITH THE TRANSACTION EXPECTED TO BE IMMEDIATELY ACCRETIVE TO ONSEMI'S NON-GAAP EPS AND FINANCED WITH CASH AN…
 - 10/02 05:43 [FirstSquawk] ONSEMI SAYS THE COMPANIES HAVE IDENTIFIED FURTHER OPPORTUNITIES BEYOND $200 MLN IN ANNUAL RUN-RATE SYNERGIES.
 - 10/02 06:01 [financialjuice/FirstSquawk] Egypt declares Ethiopian embassy counsellor persona non grata, orders departure within 48 hours: official, al Qahera news
+- 10/02 06:23 [FirstSquawk] S&P DOW JONES INDICES SAYS TWILIO, AN S&P MIDCAP 400 CONSTITUENT, WILL REPLACE WARNER BROS. DISCOVERY IN THE S&P 500, WHILE VYLOR HAS BEEN ADDED TO THE S&P 500.
+- 10/02 06:23 [FirstSquawk] DISNEY ENTERTAINMENT CHIEF DANA WALDEN SAID THE COMPANY WOULD BE WILLING TO OFFER “A LOT OF MONEY” TO ACQUIRE THE IP RIGHTS TO BLUEY CREATOR JOE BRUMM’S SHOW, WHICH DISNEY DOES NOT CURRENTLY OWN.
+- 10/02 06:24 [FirstSquawk] DISNEY HAS A BLUEY MOVIE PLANNED FOR NEXT YEAR AND PLANS TO EXPAND DISNEY+ FROM SPRING 2027 INTO A BROADER DIGITAL PLATFORM LINKING STREAMING CONTENT WITH MERCHANDISE, GAMES AND EXPERIENCES.

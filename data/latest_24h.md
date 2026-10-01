@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-02 06:19 JST／対象: 10/01 06:19 〜 10/02 06:19 JST（時刻はすべて日本時間）
+生成: 2026-10-02 06:36 JST／対象: 10/01 06:36 〜 10/02 06:36 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 93 | 10/01 16:25 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 362 | 10/01 06:25 | 10/02 06:02 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 473 | 10/01 06:22 | 10/02 06:01 | ⚠ 52分（14:07→15:00） |
+| FirstSquawk | 358 | 10/01 07:49 | 10/02 06:24 | ⚠ 54分（07:50→08:44） |
+| financialjuice | 466 | 10/01 06:45 | 10/02 06:01 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 888 行（統合前 934 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 879 行（統合前 923 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 06:22 [financialjuice] OpenAI executive withdraws second $25 million contribution to AI super PAC: NYT
-- 10/01 06:22 [financialjuice] OpenAI's Greg Brockman withdraws from second $25 million donation to a super PAC - NYT
-- 10/01 06:22 [financialjuice] US energy secretary Wright: will make some announcements on diesel
-- 10/01 06:23 [financialjuice] US energy secretary Wright: to receive updates from Europe on fresh diesel supplies
-- 10/01 06:23 [financialjuice/FirstSquawk] Climate change causes 6C temperature rise per decade, experts warn
-- 10/01 06:25 [FirstSquawk] US ENERGY SECRETARY WRIGHT: DIESEL SUPPLY ANNOUNCEMENTS EXPECTED FROM US & EUROPE
-- 10/01 06:28 [FirstSquawk] YEMENI FORCES DESTROYED AN IRANIAN-DEVELOPED MOBILE AIR DEFENCE SYSTEM IN AL-MOKHA - AL ARABIYA, WITH THE YEMENI ARMED FORCES SAYING THEY DESTROYED HOUTHI REINFORCEMENTS AND WEAPONS
-- 10/01 06:29 [FirstSquawk] TRUMP SAYS ON LONG-TERM TREASURY AUCTIONS THAT BESSENT 'HAS GOOD INSTINCTS', AND THAT HE IS CONSIDERING A DIESEL EXPORT BAN DAILY, THOUGH IT COULD HAVE A NEGATIVE IMPACT ON GASOLINE, ADDING THAT THE U.S. HAS 'TOTAL CONTROL OF THE STRAIT OF …
-- 10/01 06:29 [FirstSquawk] TRUMP SAYS ON CHINA AND AI THAT 'THEY'RE GOING FULL BLAST'.
-- 10/01 06:29 [FirstSquawk/financialjuice] SOUTH KOREA URGES GOVERNMENT TO BOOST INVESTMENTS IN ELECTRIC VEHICLE SECTOR
-- 10/01 06:29 [financialjuice] Fed's Goolsbee: record gap between consumer sentiment vibes and actual spending data
-- 10/01 06:31 [FirstSquawk] U.S. CENTRAL COMMAND SAYS THAT AS OF SEPT. 30, CENTCOM FORCES HAVE REDIRECTED 125 COMMERCIAL VESSELS TO ENSURE STRICT COMPLIANCE, WITH THE USS GEORGE H.W. BUSH (CVN 77) SAILING IN THE ARABIAN SEA SUPPORTING ENFORCEMENT OF THE U.S. BLOCKADE …
 - 10/01 06:45 [financialjuice] NEW ZEALAND BUILDING CONSENTS ACTUAL 5.6% (FORECAST -, PREVIOUS -4.3%) $MACRO
 - 10/01 06:45 [financialjuice] New Zealand seasonally adjusted new dwelling consents increase 5.6% in August versus previous month
 - 10/01 07:02 [financialjuice] Fed's Kashkari: Inflation still too high, about 3%, new data doesn't alter outlook
@@ -912,3 +900,6 @@
 - 10/02 05:43 [FirstSquawk] ONSEMI IS TO BUY SYNAPTICS FOR $123 PER SHARE IN CASH UNDER A REVISED MERGER AGREEMENT, VALUING THE DEAL AT $5.70 BLN, SOURCES SAY, WITH THE TRANSACTION EXPECTED TO BE IMMEDIATELY ACCRETIVE TO ONSEMI'S NON-GAAP EPS AND FINANCED WITH CASH AN…
 - 10/02 05:43 [FirstSquawk] ONSEMI SAYS THE COMPANIES HAVE IDENTIFIED FURTHER OPPORTUNITIES BEYOND $200 MLN IN ANNUAL RUN-RATE SYNERGIES.
 - 10/02 06:01 [financialjuice/FirstSquawk] Egypt declares Ethiopian embassy counsellor persona non grata, orders departure within 48 hours: official, al Qahera news
+- 10/02 06:23 [FirstSquawk] S&P DOW JONES INDICES SAYS TWILIO, AN S&P MIDCAP 400 CONSTITUENT, WILL REPLACE WARNER BROS. DISCOVERY IN THE S&P 500, WHILE VYLOR HAS BEEN ADDED TO THE S&P 500.
+- 10/02 06:23 [FirstSquawk] DISNEY ENTERTAINMENT CHIEF DANA WALDEN SAID THE COMPANY WOULD BE WILLING TO OFFER “A LOT OF MONEY” TO ACQUIRE THE IP RIGHTS TO BLUEY CREATOR JOE BRUMM’S SHOW, WHICH DISNEY DOES NOT CURRENTLY OWN.
+- 10/02 06:24 [FirstSquawk] DISNEY HAS A BLUEY MOVIE PLANNED FOR NEXT YEAR AND PLANS TO EXPAND DISNEY+ FROM SPRING 2027 INTO A BROADER DIGITAL PLATFORM LINKING STREAMING CONTENT WITH MERCHANDISE, GAMES AND EXPERIENCES.
