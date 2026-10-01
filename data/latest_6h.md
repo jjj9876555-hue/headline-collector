@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 22:10 JST／対象: 10/01 16:10 〜 10/01 22:10 JST（時刻はすべて日本時間）
+生成: 2026-10-01 22:33 JST／対象: 10/01 16:33 〜 10/01 22:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 40 | 10/01 16:25 | 10/01 22:07 | 37分（17:52→18:30） |
-| FirstSquawk | 67 | 10/01 16:24 | 10/01 22:08 | ⚠ 53分（18:34→19:28） |
-| financialjuice | 108 | 10/01 16:15 | 10/01 22:08 | 44分（18:40→19:25） |
+| DeItaone | 39 | 10/01 16:48 | 10/01 22:07 | 37分（17:52→18:30） |
+| FirstSquawk | 72 | 10/01 16:40 | 10/01 22:31 | ⚠ 53分（18:34→19:28） |
+| financialjuice | 111 | 10/01 16:33 | 10/01 22:32 | 44分（18:40→19:25） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 207 行（統合前 215 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 213 行（統合前 222 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 16:15 [financialjuice] SPANISH MANUFACTURING PMI ACTUAL 51 (FORECAST 50.2, PREVIOUS 49.5) $MACRO
-- 10/01 16:16 [financialjuice] Spanish Manufacturing PMI September 2026 Report
-- 10/01 16:24 [FirstSquawk] US 10-YEAR TREASURY YIELD JUMPS TO 5.33%, THE HIGHEST LEVEL SINCE 2002.
-- 10/01 16:25 [DeItaone] *US 10-YEAR YIELD RISES TO 5.33%, HIGHEST SINCE 2002
-- 10/01 16:30 [financialjuice] Japan PM Takaichi: Will appropriately control the total annual issuance of government bonds, taking into account both initial and supplementary budgets
-- 10/01 16:30 [financialjuice] SWISS MANUFACTURING PMI ACTUAL 55.3 (FORECAST 56.3, PREVIOUS 57.1) $MACRO
 - 10/01 16:33 [financialjuice] Japan PM Takaichi: Forex market determined by various factors.
 - 10/01 16:35 [financialjuice] Japan PM Takaichi: Japan's economic policy is not aimed at manipulating FX.
 - 10/01 16:35 [financialjuice] Japan PM Takaichi: Told president Trump undervaluation of yen is a problem.
@@ -231,3 +225,15 @@
 - 10/01 22:08 [FirstSquawk] FED'S SCHMID SAYS OFFICIALS HAVE WORK TO DO ON INFLATION
 - 10/01 22:08 [financialjuice] Fed's Collins: Economic growth near trend or above.
 - 10/01 22:08 [FirstSquawk] SPACEX’S AI UNIT HELD TALKS OVER SUMMER TO LEASE COMPUTE TO MICROSOFT - INFORMATION
+- 10/01 22:13 [financialjuice] Fed's Schmid: Energy prices are one of the biggest challenges for monetary policy today.
+- 10/01 22:13 [financialjuice] Fed's Schmid: I am trying to see in the data how much inflation is due to demand and how much is driven by supply shocks.
+- 10/01 22:15 [FirstSquawk] FED SCHMID: TRYING TO FIGURE OUT WHAT SHARE OF INFL DEMAND DRIVEN
+- 10/01 22:19 [FirstSquawk] SAMSUNG RAISES PRICES OF MOST GALAXY S26 PHONES BY $100
+- 10/01 22:19 [FirstSquawk] AOMORI MICHINOKU BANK, BANK OF IWATE AND AKITA BANK HAVE COMBINED ASSETS OF AROUND 13 TRILLION YEN - NIKKEI
+- 10/01 22:22 [FirstSquawk] BRAZIL'S PETROBRAS INCREASES JET FUEL COSTS BY APPROXIMATELY 11.8% AT KEY REFINERIES EFFECTIVE OCTOBER 1.
+- 10/01 22:22 [financialjuice/FirstSquawk] EU countries in crisis talks over diesel stocks release - FT
+- 10/01 22:30 [financialjuice] CANADIAN MANUFACTURING PMI ACTUAL 51.5 (FORECAST -, PREVIOUS 53.0) $MACRO
+- 10/01 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -65.4 MLN NASDAQ 100: 81.7 MLN DOW 30: 38.9 MLN MAG 7: 65.2 MLN $MACRO
+- 10/01 22:31 [financialjuice] ECB's President Lagarde's Speech on AI
+- 10/01 22:31 [FirstSquawk] NASDAQ UP 133.81 POINTS, OR 0.50 PERCENT, AT 26,994.87 AFTER MARKET OPEN S&P 500 UP 21.32 POINTS, OR 0.28 PERCENT, AT 7,672.86 AFTER MARKET OPEN DOW JONES UP 109.78 POINTS, OR 0.22 %, AT 51,015.83 AFTER MARKET OPEN
+- 10/01 22:32 [financialjuice] ECB's President Lagarde: Widespread use of similar AI models could reinforce financial market price moves

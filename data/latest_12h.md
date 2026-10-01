@@ -7,46 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-01 22:10 JST／対象: 10/01 10:10 〜 10/01 22:10 JST（時刻はすべて日本時間）
+生成: 2026-10-01 22:33 JST／対象: 10/01 10:33 〜 10/01 22:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 40 | 10/01 16:25 | 10/01 22:07 | 37分（17:52→18:30） |
-| FirstSquawk | 171 | 10/01 10:12 | 10/01 22:08 | ⚠ 53分（18:34→19:28） |
-| financialjuice | 174 | 10/01 10:13 | 10/01 22:08 | ⚠ 52分（14:07→15:00） |
+| FirstSquawk | 171 | 10/01 10:34 | 10/01 22:31 | ⚠ 53分（18:34→19:28） |
+| financialjuice | 164 | 10/01 10:36 | 10/01 22:32 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 377 行（統合前 385 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 366 行（統合前 375 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 10:12 [FirstSquawk] South Korea’s exports surge to record $120.9 billion in September on robust semiconductor sales
-- 10/01 10:13 [financialjuice] Israel's PM Netanyahu: it's too soon to comment on motivation
-- 10/01 10:14 [financialjuice] Israel's PM Netanyahu: Israel to take part in investigation
-- 10/01 10:15 [financialjuice] Israel's PM Netanyahu: 'we don't know yet' on possible Iranian role in incident - Fox interview
-- 10/01 10:15 [FirstSquawk] Netanyahu says motive remains unclear after Dubai-Tel Aviv flight incident
-- 10/01 10:15 [FirstSquawk] Netanyahu says Israel will take part in investigation into Dubai-Tel Aviv flight incident
-- 10/01 10:16 [FirstSquawk] Netanyahu says Israel does not yet know whether Iran was involved in incident - FOX INTERVIEW
-- 10/01 10:20 [FirstSquawk] Axios: US official says order to leave New York included Iraqi national
-- 10/01 10:26 [FirstSquawk] Japan increases residency-related fees for foreign nationals
-- 10/01 10:30 [financialjuice] ❗ AUSTRALIAN TRADE BALANCE ACTUAL 495M (FORECAST 2000M, PREVIOUS 1,923M) $MACRO
-- 10/01 10:30 [financialjuice] ❗ AUSTRALIAN IMPORTS ACTUAL 5.8% (FORECAST -, PREVIOUS -2.5%) $MACRO
-- 10/01 10:30 [financialjuice] ❗ AUSTRALIAN EXPORTS ACTUAL 3.7% (FORECAST -, PREVIOUS -3.3%) $MACRO
-- 10/01 10:30 [financialjuice] RBA: Private credit not currently a risk to Australia's overall financial stability
-- 10/01 10:30 [financialjuice] RBA: lending standards stay firm, riskier types of credit curbed
-- 10/01 10:30 [financialjuice] RBA: proportion of owner-occupier borrowers facing cash flow shortfall remains low at about 2%
-- 10/01 10:30 [financialjuice] RBA: cash flow challenges to rise for smaller companies, energy-intensive sectors
-- 10/01 10:30 [financialjuice] Australia aug goods exports rise 3.7% m/m, seasonally adjusted
-- 10/01 10:30 [financialjuice] RBA: Alternative funding globally becoming more opaque, circular, and at risk of profit disappointment
-- 10/01 10:30 [financialjuice] RBA: Private credit has expanded notably in Australia, but remains modest overall
-- 10/01 10:30 [financialjuice] RBA: key threats to domestic financial stability stem from overseas
-- 10/01 10:31 [financialjuice] RBA: increase in leveraged investors in bonds, Australian equities heightens volatility and raises risks
-- 10/01 10:31 [financialjuice] RBA: elevated asset prices and leverage leave global markets exposed to sharp correction
-- 10/01 10:31 [financialjuice] Australia August trade balance goods A$495 million, seasonally adjusted: poll A$2 billion
 - 10/01 10:34 [FirstSquawk] AUSTRALIA TRADE BALANCE AUG: A$495M (EST A$2000M; PREV A$1923M; PREVR A$1351M)
 - 10/01 10:34 [FirstSquawk] AUSTRALIA EXPORTS (M/M): 3.7% (PREV -3.3%)
 - 10/01 10:34 [FirstSquawk] AUSTRALIA IMPORTS (M/M): 5.8% (PREV -2.5%)
@@ -401,3 +378,15 @@
 - 10/01 22:08 [FirstSquawk] FED'S SCHMID SAYS OFFICIALS HAVE WORK TO DO ON INFLATION
 - 10/01 22:08 [financialjuice] Fed's Collins: Economic growth near trend or above.
 - 10/01 22:08 [FirstSquawk] SPACEX’S AI UNIT HELD TALKS OVER SUMMER TO LEASE COMPUTE TO MICROSOFT - INFORMATION
+- 10/01 22:13 [financialjuice] Fed's Schmid: Energy prices are one of the biggest challenges for monetary policy today.
+- 10/01 22:13 [financialjuice] Fed's Schmid: I am trying to see in the data how much inflation is due to demand and how much is driven by supply shocks.
+- 10/01 22:15 [FirstSquawk] FED SCHMID: TRYING TO FIGURE OUT WHAT SHARE OF INFL DEMAND DRIVEN
+- 10/01 22:19 [FirstSquawk] SAMSUNG RAISES PRICES OF MOST GALAXY S26 PHONES BY $100
+- 10/01 22:19 [FirstSquawk] AOMORI MICHINOKU BANK, BANK OF IWATE AND AKITA BANK HAVE COMBINED ASSETS OF AROUND 13 TRILLION YEN - NIKKEI
+- 10/01 22:22 [FirstSquawk] BRAZIL'S PETROBRAS INCREASES JET FUEL COSTS BY APPROXIMATELY 11.8% AT KEY REFINERIES EFFECTIVE OCTOBER 1.
+- 10/01 22:22 [financialjuice/FirstSquawk] EU countries in crisis talks over diesel stocks release - FT
+- 10/01 22:30 [financialjuice] CANADIAN MANUFACTURING PMI ACTUAL 51.5 (FORECAST -, PREVIOUS 53.0) $MACRO
+- 10/01 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -65.4 MLN NASDAQ 100: 81.7 MLN DOW 30: 38.9 MLN MAG 7: 65.2 MLN $MACRO
+- 10/01 22:31 [financialjuice] ECB's President Lagarde's Speech on AI
+- 10/01 22:31 [FirstSquawk] NASDAQ UP 133.81 POINTS, OR 0.50 PERCENT, AT 26,994.87 AFTER MARKET OPEN S&P 500 UP 21.32 POINTS, OR 0.28 PERCENT, AT 7,672.86 AFTER MARKET OPEN DOW JONES UP 109.78 POINTS, OR 0.22 %, AT 51,015.83 AFTER MARKET OPEN
+- 10/01 22:32 [financialjuice] ECB's President Lagarde: Widespread use of similar AI models could reinforce financial market price moves

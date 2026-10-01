@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-01 22:10 JST／対象: 09/30 22:10 〜 10/01 22:10 JST（時刻はすべて日本時間）
+生成: 2026-10-01 22:33 JST／対象: 09/30 22:33 〜 10/01 22:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 83 | 09/30 22:23 | 10/01 22:07 | ⚠ 610分（06:15→16:25） |
-| FirstSquawk | 340 | 09/30 22:16 | 10/01 22:08 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 377 | 09/30 22:12 | 10/01 22:08 | ⚠ 52分（14:07→15:00） |
+| DeItaone | 81 | 09/30 22:46 | 10/01 22:07 | ⚠ 610分（06:15→16:25） |
+| FirstSquawk | 338 | 09/30 22:36 | 10/01 22:31 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 378 | 09/30 22:45 | 10/01 22:32 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 778 行（統合前 802 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 775 行（統合前 799 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 22:12 [financialjuice] SNB: Swiss economy grew robustly in Q3, company survey showed
-- 09/30 22:12 [financialjuice/FirstSquawk] SNB: Companies plan to increase hiring, staff levels too low.
-- 09/30 22:12 [financialjuice] SNB: Companies expect turnover to keep rising in the coming quarters.
-- 09/30 22:16 [FirstSquawk] SNB PUBLISHES COMPANY SURVEY RESULTS IN QUARTERLY BULLETIN
-- 09/30 22:17 [FirstSquawk] NEW WORLD FY26 NET LOSS HK$28.15B VS HK$16.3B Y/Y
-- 09/30 22:20 [FirstSquawk] EU, CANADA TO ANNOUNCE SWEEPING PARTNERSHIP PACT AT OCT. 29 SUMMIT - POLITICO
-- 09/30 22:21 [financialjuice] goldman Sachs estimates crude exports from persian gulf producers at 19 million b/d.
-- 09/30 22:21 [financialjuice] JPMorgan estimates crude exports hit 98% of prewar levels.
-- 09/30 22:22 [FirstSquawk] NETANYAHU: WAS SERIOUS SECURITY INCIDENT ON FLIGHT FROM DUBAI
-- 09/30 22:23 [DeItaone] MIDDLE EAST CRUDE EXPORTS RECOVER TO PREWAR LEVELS Middle East crude exports have rebounded to 98% of prewar levels, reaching roughly 17.5 million barrels per day, according to JPMorgan. Producers are increasingly bypassing Hormuz through a…
-- 09/30 22:25 [DeItaone] MIDDLE EAST CRUDE EXPORTS RECOVER TO PREWAR LEVELS, ANALYSTS SAY GOLDMAN ESTIMATES CRUDE EXPORTS FROM PERSIAN GULF PRODUCERS AT 19 MILLION B/D INCREASED HORMUZ EXPORTS DROVE RECOVERY, GOLDMAN SAYS JPM ESTIMATES CRUDE EXPORTS HIT 98% OF PREW…
-- 09/30 22:25 [FirstSquawk] EASA: CONFLICT ZONE INFORMATION BULLETIN FOR AIRSPACE OF JORDAN WAS EXTENDED UNTIL 16 OCTOBER 2026
-- 09/30 22:28 [FirstSquawk] NETANYAHU: PILOT WHO STABBED APPARENTLY TRIED TO CRASH PLANE
-- 09/30 22:30 [financialjuice] ❗ MOO IMBALANCE S&P 500: -24.1 MLN NASDAQ 100: 7.5 MLN DOW 30: -5.8 MLN MAG 7: 1.9 MLN $MACRO
-- 09/30 22:31 [FirstSquawk] DOW JONES UP 72.70 POINTS, OR 0.14 PERCENT, AT 51,422.62 AFTER MARKET OPEN NASDAQ UP 99.52 POINTS, OR 0.37 PERCENT, AT 26,897.06 AFTER MARKET OPEN S&P 500 UP 21.09 POINTS, OR 0.27 PERCENT, AT 7,691.93 AFTER MARKET OPEN
 - 09/30 22:36 [FirstSquawk] NATO CHIEF: IN REACTION TO RUSSIA'S LETTER, I SAID WE ARE A DEFENSIVE ALLIANCE AND TO STOP THE NUCLEAR THREAT
 - 09/30 22:42 [FirstSquawk] NATO'S RUTTE SAYS RUSSIA THREAT ASSESSMENT NOW IS SAME AS THREE WEEKS, THREE MONTHS AGO, A YEAR AGO
 - 09/30 22:42 [FirstSquawk] NATO'S RUTTE: THERE IS NO IMMINENT THREAT TO NATO TERRITORY
@@ -802,3 +787,15 @@
 - 10/01 22:08 [FirstSquawk] FED'S SCHMID SAYS OFFICIALS HAVE WORK TO DO ON INFLATION
 - 10/01 22:08 [financialjuice] Fed's Collins: Economic growth near trend or above.
 - 10/01 22:08 [FirstSquawk] SPACEX’S AI UNIT HELD TALKS OVER SUMMER TO LEASE COMPUTE TO MICROSOFT - INFORMATION
+- 10/01 22:13 [financialjuice] Fed's Schmid: Energy prices are one of the biggest challenges for monetary policy today.
+- 10/01 22:13 [financialjuice] Fed's Schmid: I am trying to see in the data how much inflation is due to demand and how much is driven by supply shocks.
+- 10/01 22:15 [FirstSquawk] FED SCHMID: TRYING TO FIGURE OUT WHAT SHARE OF INFL DEMAND DRIVEN
+- 10/01 22:19 [FirstSquawk] SAMSUNG RAISES PRICES OF MOST GALAXY S26 PHONES BY $100
+- 10/01 22:19 [FirstSquawk] AOMORI MICHINOKU BANK, BANK OF IWATE AND AKITA BANK HAVE COMBINED ASSETS OF AROUND 13 TRILLION YEN - NIKKEI
+- 10/01 22:22 [FirstSquawk] BRAZIL'S PETROBRAS INCREASES JET FUEL COSTS BY APPROXIMATELY 11.8% AT KEY REFINERIES EFFECTIVE OCTOBER 1.
+- 10/01 22:22 [financialjuice/FirstSquawk] EU countries in crisis talks over diesel stocks release - FT
+- 10/01 22:30 [financialjuice] CANADIAN MANUFACTURING PMI ACTUAL 51.5 (FORECAST -, PREVIOUS 53.0) $MACRO
+- 10/01 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -65.4 MLN NASDAQ 100: 81.7 MLN DOW 30: 38.9 MLN MAG 7: 65.2 MLN $MACRO
+- 10/01 22:31 [financialjuice] ECB's President Lagarde's Speech on AI
+- 10/01 22:31 [FirstSquawk] NASDAQ UP 133.81 POINTS, OR 0.50 PERCENT, AT 26,994.87 AFTER MARKET OPEN S&P 500 UP 21.32 POINTS, OR 0.28 PERCENT, AT 7,672.86 AFTER MARKET OPEN DOW JONES UP 109.78 POINTS, OR 0.22 %, AT 51,015.83 AFTER MARKET OPEN
+- 10/01 22:32 [financialjuice] ECB's President Lagarde: Widespread use of similar AI models could reinforce financial market price moves
