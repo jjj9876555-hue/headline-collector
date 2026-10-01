@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 09:52 JST／対象: 10/01 03:52 〜 10/01 09:52 JST（時刻はすべて日本時間）
+生成: 2026-10-01 10:09 JST／対象: 10/01 04:09 〜 10/01 10:09 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 10 | 10/01 03:54 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
-| FirstSquawk | 92 | 10/01 03:54 | 10/01 09:51 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 122 | 10/01 03:53 | 10/01 09:30 | 36分（07:29→08:05） |
+| DeItaone | 8 | 10/01 04:26 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
+| FirstSquawk | 94 | 10/01 04:28 | 10/01 10:03 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 119 | 10/01 04:23 | 10/01 10:00 | 36分（07:29→08:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 218 行（統合前 225 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 215 行（統合前 222 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 03:53 [financialjuice] Brent Crude futures settle at $103.53/bbl, up 94 cents, 0.92%.
-- 10/01 03:54 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 0.92% HIGHER AT $103.53/BBL, UP 94 CENTS
-- 10/01 03:54 [DeItaone] TRUMP SET TO UNVEIL $200 BILLION SOUTH KOREAN INVESTMENT President Trump is expected to announce $200 billion in South Korean investment in U.S. energy projects, including eight nuclear power plants, a Texas power facility and Alaska LNG. T…
-- 10/01 03:54 [FirstSquawk] OPENAI CEO SAM ALTMAN TO SKIP CONGRESSIONAL HEARING ON ROGUE AI AGENTS — NBC NEWS
-- 10/01 03:56 [DeItaone] PENTAGON TO CREATE NEW DRONE WARFARE GROUP Defense Secretary Pete Hegseth is establishing a permanent Pentagon organization for drones, autonomous systems and defense robotics, according to Sen. Tim Sheehy. The Pentagon is seeking $54.6 bil…
-- 10/01 04:01 [financialjuice] Meta's Oversight Board Calls for Independent Oversight of AI Companies $META
-- 10/01 04:03 [FirstSquawk] NEW ZEALAND HOME PRICES FELL 0.3% IN SEPTEMBER FROM AUGUST, HITTING THEIR LOWEST LEVEL SINCE JANUARY 2021 AND STANDING 19% BELOW THE JANUARY 2022 PEAK. HIGH MORTGAGE RATES, RISING UNEMPLOYMENT AND ECONOMIC UNCERTAINTY CONTINUE TO WEIGH ON H…
-- 10/01 04:06 [financialjuice] US Sec. of Defense Hegseth: Reduction in top officer slots long overdue.
-- 10/01 04:06 [FirstSquawk] INDIAN EMBASSY IN SAUDI ARABIA SAYS IT HAS BEEN FOLLOWING THE HEALTH CONDITION OF SMIT MACHCHHAR, THE INDIAN PILOT OF THE FLYDUBAI FLIGHT THAT WAS DIVERTED TO TABUK TODAY, WHO IS ADMITTED IN A HOSPITAL IN TABUK CITY IN NORTHWEST SAUDI ARABI…
-- 10/01 04:07 [FirstSquawk] INDIAN EMBASSY SAYS A FULL UPDATE ON MACHCHHAR'S HEALTH IS AWAITED BUT HE IS REPORTED TO BE IN STABLE CONDITION, ADDING THAT IT IS IN TOUCH WITH HIS FAMILY AND WILL CONTINUE TO FOLLOW UP ON HIS HEALTH WITH SAUDI AUTHORITIES.
-- 10/01 04:07 [financialjuice] US Sec. of Defense Hegseth State Of The Force Address - WATCH LIVE
 - 10/01 04:23 [financialjuice] Thursday FX Options Expiries
 - 10/01 04:25 [financialjuice] US Sec. of Defense Hegseth announces creation of new autonomous warfare command
 - 10/01 04:25 [financialjuice] fed’s cook: Committed to returning inflation to the 2% objective while preserving labor market strength.
@@ -242,3 +231,11 @@
 - 10/01 09:44 [FirstSquawk] CME: Gold options volume unchanged in September as prices close 9% below August peak
 - 10/01 09:50 [FirstSquawk] OpenAI president pulls back on pledged $25 million donation to AI super PAC, WSJ says
 - 10/01 09:51 [FirstSquawk] 5-year JGB yield gains 0.5bp to 2.380%
+- 10/01 09:53 [FirstSquawk] Australia’s ASX 200 slides 1.3% to 8,679.40 points
+- 10/01 09:55 [FirstSquawk] CK Solution lands KRW 23 billion order
+- 10/01 09:58 [FirstSquawk] Petronas shuts Songkhla export pipeline temporarily over issue detected during routine inspection
+- 10/01 09:58 [FirstSquawk] Petronas: Pipeline restart contingent on confirmation it is safe to operate
+- 10/01 09:59 [FirstSquawk] Petronas: Trans Thai-Malaysia JV initiates temporary shutdown of Songkhla export pipeline
+- 10/01 10:00 [financialjuice] Taiwan overnight interbank rate starts at 0.805% vs 0.805% at previous session open
+- 10/01 10:01 [FirstSquawk] Taiwan overnight interbank rate opens flat at 0.805% vs 0.805% previously
+- 10/01 10:03 [FirstSquawk] Paramount Skydance announces $41.4B, €885M notes offerings and $8.5B, €850M Term Loan B pricing

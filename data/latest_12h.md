@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-01 09:52 JST／対象: 09/30 21:52 〜 10/01 09:52 JST（時刻はすべて日本時間）
+生成: 2026-10-01 10:09 JST／対象: 09/30 22:09 〜 10/01 10:09 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 44 | 09/30 22:02 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
-| FirstSquawk | 164 | 09/30 21:53 | 10/01 09:51 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 208 | 09/30 22:00 | 10/01 09:30 | 36分（07:29→08:05） |
+| DeItaone | 43 | 09/30 22:23 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
+| FirstSquawk | 168 | 09/30 22:16 | 10/01 10:03 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 203 | 09/30 22:12 | 10/01 10:00 | 36分（07:29→08:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 402 行（統合前 418 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 400 行（統合前 416 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 21:53 [FirstSquawk] EU OPEN TO ENGAGING ON RELATIONSHIP OPTIONS UK MAY PUT FORWARD
-- 09/30 22:00 [financialjuice] Effective fed funds rate 3.88% September 29th vs 3.88% September 28th.
-- 09/30 22:01 [FirstSquawk] BMW AIMS TO CUT 20% OF MANAGEMENT JOBS WITH AI ASSISTANCE.
-- 09/30 22:01 [financialjuice] Fed's Barr opposes final rule, changes will weaken stress test.
-- 09/30 22:01 [financialjuice] Fed: Changes are likely to reduce year-over-year volatility in bank capital requirements by roughly 50% while not materially affecting aggregate capital requirements
-- 09/30 22:02 [financialjuice] Fed: Final rule largely similar to the proposed rule aimed at making tests more transparent and predictable
-- 09/30 22:02 [financialjuice] UK's MI5 Issues Espionage Alert Over Chinese Body Targeting British Academics
-- 09/30 22:02 [DeItaone] FRENCH 10Y YIELD PREMIUM OVER GERMANY CLIMBS 5BPS TO 124BPS
-- 09/30 22:03 [financialjuice] Coreweave to offer NVIDIA vera cpu for agentic AI $NVDA
-- 09/30 22:06 [FirstSquawk] FED SAYS FINAL RULE LARGELY SIMILAR TO PROPOSED RULE AIMED AT MAKING TESTS MORE TRANSPARENT AND PREDICTABLE
 - 09/30 22:12 [financialjuice] SNB: Swiss economy grew robustly in Q3, company survey showed
 - 09/30 22:12 [financialjuice/FirstSquawk] SNB: Companies plan to increase hiring, staff levels too low.
 - 09/30 22:12 [financialjuice] SNB: Companies expect turnover to keep rising in the coming quarters.
@@ -426,3 +416,11 @@
 - 10/01 09:44 [FirstSquawk] CME: Gold options volume unchanged in September as prices close 9% below August peak
 - 10/01 09:50 [FirstSquawk] OpenAI president pulls back on pledged $25 million donation to AI super PAC, WSJ says
 - 10/01 09:51 [FirstSquawk] 5-year JGB yield gains 0.5bp to 2.380%
+- 10/01 09:53 [FirstSquawk] Australia’s ASX 200 slides 1.3% to 8,679.40 points
+- 10/01 09:55 [FirstSquawk] CK Solution lands KRW 23 billion order
+- 10/01 09:58 [FirstSquawk] Petronas shuts Songkhla export pipeline temporarily over issue detected during routine inspection
+- 10/01 09:58 [FirstSquawk] Petronas: Pipeline restart contingent on confirmation it is safe to operate
+- 10/01 09:59 [FirstSquawk] Petronas: Trans Thai-Malaysia JV initiates temporary shutdown of Songkhla export pipeline
+- 10/01 10:00 [financialjuice] Taiwan overnight interbank rate starts at 0.805% vs 0.805% at previous session open
+- 10/01 10:01 [FirstSquawk] Taiwan overnight interbank rate opens flat at 0.805% vs 0.805% previously
+- 10/01 10:03 [FirstSquawk] Paramount Skydance announces $41.4B, €885M notes offerings and $8.5B, €850M Term Loan B pricing
