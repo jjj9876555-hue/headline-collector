@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 16:48 JST／対象: 10/01 10:48 〜 10/01 16:48 JST（時刻はすべて日本時間）
+生成: 2026-10-01 17:02 JST／対象: 10/01 11:02 〜 10/01 17:02 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 2 | 10/01 16:25 | 10/01 16:48 | 22分（16:25→16:48） |
-| FirstSquawk | 78 | 10/01 10:50 | 10/01 16:40 | 24分（13:35→14:00） |
-| financialjuice | 55 | 10/01 10:59 | 10/01 16:45 | ⚠ 52分（14:07→15:00） |
+| DeItaone | 3 | 10/01 16:25 | 10/01 16:50 | 22分（16:25→16:48） |
+| FirstSquawk | 81 | 10/01 11:03 | 10/01 16:59 | 24分（13:35→14:00） |
+| financialjuice | 59 | 10/01 11:08 | 10/01 17:01 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 135 行（統合前 135 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 143 行（統合前 143 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 10:50 [FirstSquawk] CAD vulnerable around two-month low with USD holding bullish momentum - FX
-- 10/01 10:57 [FirstSquawk] Japan’s 10-year JGB yield gains 5.0bp to 3.110%
-- 10/01 10:59 [FirstSquawk] South Korea ministry says investment in US Alaska LNG project remains undecided — Yonhap
-- 10/01 10:59 [financialjuice] South Korea industry ministry: US Alaska LNG project investment still undecided - Yonhap
-- 10/01 11:01 [FirstSquawk] 30-year JGB yield advances 6.0bp to 4.200%
 - 10/01 11:03 [FirstSquawk] Trump says Seoul plans $200bn investment in US energy projects - FT
 - 10/01 11:08 [financialjuice] Dollar/yen rises 0.5% to 158.19
 - 10/01 11:08 [FirstSquawk] USD/JPY advances 0.5% to 158.19
@@ -159,3 +154,16 @@
 - 10/01 16:45 [financialjuice] US tells France and Germany to release emergency diesel stocks or face possible US diesel export ban - Three Sources Close to The Discussions.
 - 10/01 16:45 [financialjuice] US wants the EU to release 120 million barrels of diesel in the next 6 months - One of The Sources.
 - 10/01 16:48 [DeItaone] U.S. PRESSURES FRANCE AND GERMANY TO RELEASE DIESEL RESERVES The Trump administration has told France and Germany to draw down emergency diesel stocks to help lower global fuel prices, Reuters reports. If they refuse, Washington is threaten…
+- 10/01 16:49 [FirstSquawk] AIRBUS SE HAS FINISHED BUYING QUARKSLAB, BOOSTING FRANCE'S CYBERSECURITY INDEPENDENCE.
+- 10/01 16:50 [FirstSquawk] AIRBUS SE’S LATEST INVESTMENT BOOSTS ITS ROLE AS A TRUSTED PARTNER FOR FRENCH OFFICIALS AND EXPANDS ITS PRESENCE IN EUROPEAN CYBERSECURITY.
+- 10/01 16:50 [DeItaone] US WANTS THE EU TO RELEASE 120 MILLION BARRELS OF DIESEL IN THE NEXT 6 MONTHS, ONE OF THE SOURCES SAID
+- 10/01 16:50 [financialjuice] ‼ BREAKING: FRENCH MANUFACTURING PMI ACTUAL 50.6 (FORECAST 50.3, PREVIOUS 50.3) $MACRO
+- 10/01 16:52 [FirstSquawk] FRANCE'S SEPTEMBER FINAL MANUFACTURING PMI REACHED 50.6, ABOVE THE FORECAST OF 50.3.
+- 10/01 16:53 [FirstSquawk] CONOCOPHILLIPS IS LOOKING INTO SELLING ITS NORWAY BUSINESS AND TEESSIDE ASSET FOLLOWING AN UNREQUESTED OFFER.
+- 10/01 16:55 [FirstSquawk] GERMANY'S FINAL MANUFACTURING PMI FOR SEPTEMBER REACHED 53.9, SLIGHTLY ABOVE THE FORECAST OF 53.8.
+- 10/01 16:55 [financialjuice] ‼ BREAKING: GERMAN MANUFACTURING PMI FINAL ACTUAL 53.9 (FORECAST 53.8, PREVIOUS 53.8) $MACRO
+- 10/01 16:59 [financialjuice] China cancels some fuel shipments to support domestic supply.
+- 10/01 16:59 [FirstSquawk] CHINA STOPS SOME FUEL SHIPMENTS TO BOOST LOCAL SUPPLY.
+- 10/01 16:59 [FirstSquawk] YIELD ON 30-YEAR US TREASURY BONDS RISES 3.3 BPS TO 5.672%.
+- 10/01 17:00 [financialjuice] ❗ EUROZONE MANUFACTURING PMI FINAL ACTUAL 52.9 (FORECAST 52.7, PREVIOUS 52.7) $MACRO
+- 10/01 17:01 [financialjuice] ITALIAN UNEMPLOYMENT RATE ACTUAL 6.2% (FORECAST 5.75%, PREVIOUS 5.8% ,REVISION 6.0%) $MACRO
