@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-01 11:38 JST／対象: 09/30 11:38 〜 10/01 11:38 JST（時刻はすべて日本時間）
+生成: 2026-10-01 11:54 JST／対象: 09/30 11:54 〜 10/01 11:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 75 | 09/30 18:55 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
-| FirstSquawk | 361 | 09/30 11:41 | 10/01 11:29 | ⚠ 78分（06:31→07:49） |
+| FirstSquawk | 361 | 09/30 11:55 | 10/01 11:49 | ⚠ 78分（06:31→07:49） |
 | financialjuice | 335 | 09/30 12:18 | 10/01 11:37 | ⚠ 58分（14:00→14:59） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,10 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 11:41 [FirstSquawk] Seoul stocks give up some gains in late Wednesday morning trading
-- 09/30 11:43 [FirstSquawk] Vietnam’s HDBank plans to raise $500 million through USD-denominated bonds overseas
-- 09/30 11:45 [FirstSquawk] Australia’s benchmark ASX 200 gains 1% to 8,794.50, highest since Sept. 11
-- 09/30 11:51 [FirstSquawk] China’s CSI Health Care Industry Index climbs more than 3%
 - 09/30 11:55 [FirstSquawk] Indonesia central bank will use spot instruments to respond to FX volatility when necessary — official
 - 09/30 11:56 [FirstSquawk] Brooklyn Nets name Alibaba Group official technology and cloud partner
 - 09/30 12:03 [FirstSquawk] Air New Zealand refers to TAIC report on engine fire aboard NZ5366 flight from Christchurch to Wellington
@@ -775,3 +771,7 @@
 - 10/01 11:29 [FirstSquawk] Toyota Motor to invest roughly $1.34bn in Argentina’s electric vehicle production, minister says
 - 10/01 11:37 [financialjuice] South Korea President Lee: Alaska LNG project to start only if commercially viable and compliant with South Korean law
 - 10/01 11:37 [financialjuice] South Korea President Lee: Investment project gains to be split 50-50 until principal and interest fully repaid
+- 10/01 11:39 [FirstSquawk] South Korea’s Lee: Alaska LNG project to start only once commercial viability and legal requirements are confirmed
+- 10/01 11:39 [FirstSquawk] South Korea President Lee: Profits from investment projects to be shared equally until principal and interest are fully recovered
+- 10/01 11:39 [FirstSquawk] South Korea’s Lee: Commercial viability must be assured on a plant-by-plant basis for nuclear projects
+- 10/01 11:49 [FirstSquawk] Card surcharge ban in Australia forces cafes and shops to lift prices

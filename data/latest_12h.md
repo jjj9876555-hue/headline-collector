@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-01 11:38 JST／対象: 09/30 23:38 〜 10/01 11:38 JST（時刻はすべて日本時間）
+生成: 2026-10-01 11:54 JST／対象: 09/30 23:54 〜 10/01 11:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 34 | 10/01 00:48 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
-| FirstSquawk | 187 | 09/30 23:39 | 10/01 11:29 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 212 | 09/30 23:44 | 10/01 11:37 | 36分（07:29→08:05） |
+| FirstSquawk | 186 | 09/30 23:58 | 10/01 11:49 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 207 | 09/30 23:57 | 10/01 11:37 | 36分（07:29→08:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 422 行（統合前 435 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 416 行（統合前 429 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 23:39 [FirstSquawk] U.S. DIESEL FUTURES EXTEND GAINS, UP 4.5%, AFTER EIA STORAGE REPORT
-- 09/30 23:39 [FirstSquawk] US GASOLINE FUTURES HOLD GAINS, STILL UP 2.9%, AFTER EIA STORAGE REPORT
-- 09/30 23:43 [FirstSquawk] VOLKSWAGEN: IG METALL 5% PAY RISE DEMAND ’INCOMPATIBLE’
-- 09/30 23:44 [financialjuice] Russian Foreign Ministry Spokeswoman: Weapons factories in Europe that produce arms for Ukraine are legitimate military targets for Russia
-- 09/30 23:45 [financialjuice] Unconfirmed reports of an explosion heard in eastern Saudi Arabia - Tasnim News
-- 09/30 23:46 [financialjuice] Saudi Arabia turned down Israeli request to allow its planes to pick up Israeli passengers from FlyDubai flight that made emergency landing in Saudi - Security sources
-- 09/30 23:50 [financialjuice] Russian Foreign Ministry Spokeswoman: Claims that Russia does not want peace are unfounded.
-- 09/30 23:50 [FirstSquawk] RUSSIAN FOREIGN MINISTRY SPOX CALLS CLAIMS RUSSIA DOESN’T WANT PEACE ‘UNFOUNDED’
-- 09/30 23:52 [financialjuice] EIA: US domestic crude oil production rose in latest week to record highs
-- 09/30 23:54 [FirstSquawk] US DOMESTIC PRODUCTION OF CRUDE OIL ROSE IN LATEST WEEK TO RECORD HIGHS, EIA SAYS
 - 09/30 23:57 [financialjuice] Senate Republican Leader Thune: I have yet to receive diesel proposal from White House
 - 09/30 23:58 [FirstSquawk] US SENATE MAJORITY LEADER THUNE: YET TO RECEIVE DIESEL PROPOSAL FROM WHITE HOUSE
 - 10/01 00:01 [financialjuice] US Treasury: Will buy up to $6 bln of 10-20 Year debt in October 1st liquidity buyback
@@ -446,3 +436,7 @@
 - 10/01 11:29 [FirstSquawk] Toyota Motor to invest roughly $1.34bn in Argentina’s electric vehicle production, minister says
 - 10/01 11:37 [financialjuice] South Korea President Lee: Alaska LNG project to start only if commercially viable and compliant with South Korean law
 - 10/01 11:37 [financialjuice] South Korea President Lee: Investment project gains to be split 50-50 until principal and interest fully repaid
+- 10/01 11:39 [FirstSquawk] South Korea’s Lee: Alaska LNG project to start only once commercial viability and legal requirements are confirmed
+- 10/01 11:39 [FirstSquawk] South Korea President Lee: Profits from investment projects to be shared equally until principal and interest are fully recovered
+- 10/01 11:39 [FirstSquawk] South Korea’s Lee: Commercial viability must be assured on a plant-by-plant basis for nuclear projects
+- 10/01 11:49 [FirstSquawk] Card surcharge ban in Australia forces cafes and shops to lift prices
