@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-01 16:08 JST／対象: 10/01 04:08 〜 10/01 16:08 JST（時刻はすべて日本時間）
+生成: 2026-10-01 16:30 JST／対象: 10/01 04:30 〜 10/01 16:30 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 8 | 10/01 04:26 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
-| FirstSquawk | 196 | 10/01 04:28 | 10/01 16:08 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 184 | 10/01 04:23 | 10/01 16:07 | ⚠ 52分（14:07→15:00） |
+| DeItaone | 8 | 10/01 05:45 | 10/01 16:25 | ⚠ 610分（06:15→16:25） |
+| FirstSquawk | 199 | 10/01 04:41 | 10/01 16:24 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 183 | 10/01 04:30 | 10/01 16:16 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 382 行（統合前 389 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 384 行（統合前 391 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 04:23 [financialjuice] Thursday FX Options Expiries
-- 10/01 04:25 [financialjuice] US Sec. of Defense Hegseth announces creation of new autonomous warfare command
-- 10/01 04:25 [financialjuice] fed’s cook: Committed to returning inflation to the 2% objective while preserving labor market strength.
-- 10/01 04:26 [financialjuice] Fed's Cook: Inflation has been too high for too long.
-- 10/01 04:26 [DeItaone] FED’S COOK: INFLATION HAS BEEN TOO HIGH FOR TOO LONG Fed Governor Lisa Cook says she remains committed to bringing inflation back to target while preserving labor-market strength. Cook did not comment directly on today’s softer inflation da…
-- 10/01 04:28 [FirstSquawk] US DEFENSE SECRETARY HEGSETH ANNOUNCES CREATION OF NEW AUTONOMOUS WARFARE COMMAND
 - 10/01 04:30 [financialjuice] LIVE: Trump announces plans for a $54 billion project in Alaska
 - 10/01 04:35 [financialjuice] US Sec. of Defense Hegseth on new Autonomous Warfare Command: Musk, Gingrich, and Luckey will lead the new Pentagon project
 - 10/01 04:39 [financialjuice] US Sec. of Defense Hegseth: Major US military installations to generate their own power.
@@ -406,3 +400,11 @@
 - 10/01 16:07 [financialjuice] South Korea Industry Minister: I expressed strong objection to US Commerce Secretary Lutnick over the announcement of the Alaska LNG project - Yonhap
 - 10/01 16:07 [FirstSquawk] TESLA'S NEW CAR REGISTRATIONS IN SWEDEN ROSE BY 38.4% YEAR-OVER-YEAR IN SEPTEMBER, ACCORDING TO MOBILITY SWEDEN.
 - 10/01 16:08 [FirstSquawk] UAE PROSECUTOR GENERAL INITIATES INQUIRY INTO FLYDUBAI FLIGHT INCIDENT, CONSIDERING POSSIBLE CONNECTION TO 'TERRORIST ACTIVITY,' ACCORDING TO STATE NEWS AGENCY.
+- 10/01 16:09 [FirstSquawk] SOUTH KOREA'S INDUSTRY MINISTER OBJECTED TO U.S. COMMERCE SECRETARY LUTNICK REGARDING THE ALASKA LNG PROJECT ANNOUNCEMENT - YONHAP.
+- 10/01 16:09 [FirstSquawk] SOUTH KOREA'S INDUSTRY MINISTER KIM STATED THAT BOTH THE U.S. AND SOUTH KOREA AGREED THE ALASKA PROJECT WILL NOT MOVE FORWARD UNLESS IT IS ECONOMICALLY VIABLE - YONHAP.
+- 10/01 16:09 [financialjuice] South Korea Industry Minister Kim: The US and South Korea share the understanding that the Alaska project will not be pursued if it is not commercially feasible - Yonhap
+- 10/01 16:09 [FirstSquawk] SOUTH KOREA'S INDUSTRY MINISTER SAYS WHITE HOUSE'S ANNOUNCEMENT WITH SPECIFIC NUMBERS OR CONFIRMING PROJECT PROGRESS EXCEEDS INITIAL AGREEMENTS - MEDIA REPORTS.
+- 10/01 16:15 [financialjuice] SPANISH MANUFACTURING PMI ACTUAL 51 (FORECAST 50.2, PREVIOUS 49.5) $MACRO
+- 10/01 16:16 [financialjuice] Spanish Manufacturing PMI September 2026 Report
+- 10/01 16:24 [FirstSquawk] US 10-YEAR TREASURY YIELD JUMPS TO 5.33%, THE HIGHEST LEVEL SINCE 2002.
+- 10/01 16:25 [DeItaone] *US 10-YEAR YIELD RISES TO 5.33%, HIGHEST SINCE 2002

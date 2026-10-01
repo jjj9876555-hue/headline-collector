@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 16:08 JST／対象: 10/01 10:08 〜 10/01 16:08 JST（時刻はすべて日本時間）
+生成: 2026-10-01 16:30 JST／対象: 10/01 10:30 〜 10/01 16:30 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 0 | - | - | - |
-| FirstSquawk | 102 | 10/01 10:09 | 10/01 16:08 | 24分（13:35→14:00） |
-| financialjuice | 65 | 10/01 10:13 | 10/01 16:07 | ⚠ 52分（14:07→15:00） |
+| DeItaone | 1 | 10/01 16:25 | 10/01 16:25 | - |
+| FirstSquawk | 99 | 10/01 10:34 | 10/01 16:24 | 24分（13:35→14:00） |
+| financialjuice | 65 | 10/01 10:30 | 10/01 16:16 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 167 行（統合前 167 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 165 行（統合前 165 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 10:09 [FirstSquawk] Xiaomi’s EV deliveries top 40,000 units in September
-- 10/01 10:12 [FirstSquawk] South Korea’s exports surge to record $120.9 billion in September on robust semiconductor sales
-- 10/01 10:13 [financialjuice] Israel's PM Netanyahu: it's too soon to comment on motivation
-- 10/01 10:14 [financialjuice] Israel's PM Netanyahu: Israel to take part in investigation
-- 10/01 10:15 [financialjuice] Israel's PM Netanyahu: 'we don't know yet' on possible Iranian role in incident - Fox interview
-- 10/01 10:15 [FirstSquawk] Netanyahu says motive remains unclear after Dubai-Tel Aviv flight incident
-- 10/01 10:15 [FirstSquawk] Netanyahu says Israel will take part in investigation into Dubai-Tel Aviv flight incident
-- 10/01 10:16 [FirstSquawk] Netanyahu says Israel does not yet know whether Iran was involved in incident - FOX INTERVIEW
-- 10/01 10:20 [FirstSquawk] Axios: US official says order to leave New York included Iraqi national
-- 10/01 10:26 [FirstSquawk] Japan increases residency-related fees for foreign nationals
 - 10/01 10:30 [financialjuice] ❗ AUSTRALIAN TRADE BALANCE ACTUAL 495M (FORECAST 2000M, PREVIOUS 1,923M) $MACRO
 - 10/01 10:30 [financialjuice] ❗ AUSTRALIAN IMPORTS ACTUAL 5.8% (FORECAST -, PREVIOUS -2.5%) $MACRO
 - 10/01 10:30 [financialjuice] ❗ AUSTRALIAN EXPORTS ACTUAL 3.7% (FORECAST -, PREVIOUS -3.3%) $MACRO
@@ -191,3 +181,11 @@
 - 10/01 16:07 [financialjuice] South Korea Industry Minister: I expressed strong objection to US Commerce Secretary Lutnick over the announcement of the Alaska LNG project - Yonhap
 - 10/01 16:07 [FirstSquawk] TESLA'S NEW CAR REGISTRATIONS IN SWEDEN ROSE BY 38.4% YEAR-OVER-YEAR IN SEPTEMBER, ACCORDING TO MOBILITY SWEDEN.
 - 10/01 16:08 [FirstSquawk] UAE PROSECUTOR GENERAL INITIATES INQUIRY INTO FLYDUBAI FLIGHT INCIDENT, CONSIDERING POSSIBLE CONNECTION TO 'TERRORIST ACTIVITY,' ACCORDING TO STATE NEWS AGENCY.
+- 10/01 16:09 [FirstSquawk] SOUTH KOREA'S INDUSTRY MINISTER OBJECTED TO U.S. COMMERCE SECRETARY LUTNICK REGARDING THE ALASKA LNG PROJECT ANNOUNCEMENT - YONHAP.
+- 10/01 16:09 [FirstSquawk] SOUTH KOREA'S INDUSTRY MINISTER KIM STATED THAT BOTH THE U.S. AND SOUTH KOREA AGREED THE ALASKA PROJECT WILL NOT MOVE FORWARD UNLESS IT IS ECONOMICALLY VIABLE - YONHAP.
+- 10/01 16:09 [financialjuice] South Korea Industry Minister Kim: The US and South Korea share the understanding that the Alaska project will not be pursued if it is not commercially feasible - Yonhap
+- 10/01 16:09 [FirstSquawk] SOUTH KOREA'S INDUSTRY MINISTER SAYS WHITE HOUSE'S ANNOUNCEMENT WITH SPECIFIC NUMBERS OR CONFIRMING PROJECT PROGRESS EXCEEDS INITIAL AGREEMENTS - MEDIA REPORTS.
+- 10/01 16:15 [financialjuice] SPANISH MANUFACTURING PMI ACTUAL 51 (FORECAST 50.2, PREVIOUS 49.5) $MACRO
+- 10/01 16:16 [financialjuice] Spanish Manufacturing PMI September 2026 Report
+- 10/01 16:24 [FirstSquawk] US 10-YEAR TREASURY YIELD JUMPS TO 5.33%, THE HIGHEST LEVEL SINCE 2002.
+- 10/01 16:25 [DeItaone] *US 10-YEAR YIELD RISES TO 5.33%, HIGHEST SINCE 2002
