@@ -7,41 +7,24 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-02 06:54 JST／対象: 10/02 00:54 〜 10/02 06:54 JST（時刻はすべて日本時間）
+生成: 2026-10-02 07:16 JST／対象: 10/02 01:16 〜 10/02 07:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 49 | 10/02 01:02 | 10/02 05:19 | ⚠ 96分（03:42→05:19） |
-| FirstSquawk | 92 | 10/02 01:03 | 10/02 06:24 | 39分（01:52→02:31） |
-| financialjuice | 151 | 10/02 00:57 | 10/02 06:41 | 42分（05:19→06:01） |
+| DeItaone | 43 | 10/02 01:18 | 10/02 05:19 | ⚠ 96分（03:42→05:19） |
+| FirstSquawk | 87 | 10/02 01:16 | 10/02 06:24 | 39分（01:52→02:31） |
+| financialjuice | 140 | 10/02 01:18 | 10/02 06:41 | 42分（05:19→06:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 267 行（統合前 295 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 250 行（統合前 272 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 00:57 [financialjuice] Saudi East-West crude pipeline at 5.5mn b/d - Argus Media cites source
-- 10/02 00:57 [financialjuice] ❗ EU energy Union task force to meet friday to discuss potential diesel stock releases - Two EU diplomats
-- 10/02 01:00 [financialjuice] Freddie Mac: 30-year fixed-rate mortgage averaged 7.28% as of Oct. 1; US mortgage rates rise to 7.28%, highest since October 2023
-- 10/02 01:02 [DeItaone] EU ENERGY UNION TASKFORCE TO MEET FRIDAY TO DISCUSS POTENTIAL DIESEL STOCK RELEASES, TWO EU DIPLOMATS SAY
-- 10/02 01:03 [FirstSquawk] US 30-YR FIXED RATE MORTGAGE AVERAGES 7.28 PCT IN OCT 1 WEEK, HIGHEST SINCE NOV 22, 2023 WEEK, VS 7.03 PCT PRIOR WEEK-FREDDIE MAC
-- 10/02 01:06 [DeItaone] CITADEL’S RUBNER: Q4 IS THE “RELOAD” Citadel Securities’ Scott Rubner expects retail investors to return to U.S. stocks in October after trading activity cooled sharply in September. He says lower positioning, cheaper valuations, returning …
-- 10/02 01:07 [FirstSquawk] SAUDI EAST-WEST CRUDE PIPELINE RECOVERS TO 5.5 MLN B/D - ARGUS
-- 10/02 01:07 [financialjuice] Syria denies claims of secret meeting between Damascus representatives and Hezbollah in Turkey - ISNA
-- 10/02 01:09 [financialjuice] Putin: Russia not threatening anyone.
-- 10/02 01:11 [FirstSquawk] ITALY-GERMANY TWO-YEAR BOND YIELD SPREAD WIDENS MOST SINCE 2020
-- 10/02 01:11 [financialjuice] WATCH LIVE: Putin Speaks
-- 10/02 01:11 [DeItaone] PUTIN ON THREATS OVER KALININGRAD: WE DO NOT SCARE ANYONE PUTIN: MILITARY DRILLS, ARRESTS OF RUSSIAN VESSELS IS AN ESCALATION PUTIN: EMERGENCE ON THE AGENDA OF USAGE OF ALL AVAILABLE MEANS WILL BE UNAVOIDABLE
-- 10/02 01:12 [financialjuice] Microsoft launches mAI-transcribe-2-streaming. $MSFT
-- 10/02 01:13 [DeItaone/FirstSquawk/financialjuice] PUTIN: IF THREAT EMERGES TO RUSSIAN EXCLAVE OF KALININGRAD WE WILL CONSIDER USING ALL WEAPONS IN OUR ARSENAL
-- 10/02 01:13 [FirstSquawk] MICROSOFT LAUNCHES MAI-TRANSCRIBE-2-STREAMING
-- 10/02 01:14 [financialjuice] Microsoft MAI-Transcribe-2-Streaming priced at $0.54/hr. $MSFT
-- 10/02 01:15 [DeItaone/financialjuice] PUTIN: WE ARE NOT GOING TO ATTACK ANYONE, BUT WILL RESPOND IF WE FACE AGGRESSION
-- 10/02 01:16 [DeItaone/financialjuice/FirstSquawk] PUTIN: WE ARE NOT THREATENING ANYONE AND WE DO NOT PLAN TO ATTACK ANY EUROPEAN COUNTRIES, NOT IN 2030, NOT IN 2050
+- 10/02 01:16 [FirstSquawk] PUTIN: WE ARE NOT THREATENING ANYONE AND WE DO NOT PLAN TO ATTACK ANY EUROPEAN COUNTRIES, NOT IN 2030, NOT IN 2050
 - 10/02 01:18 [DeItaone] PUTIN: WESTERN INTELLIGENCE ASSISTANCE TO UKRAINE TO STRIKE DEEP INTO RUSSIA REPRESENTS A THREAT FOR THE FUTURE
 - 10/02 01:18 [financialjuice] Saudi-led coalition: Yemen's Houthis targeted power distribution station in Medina on September 29th.
 - 10/02 01:18 [DeItaone] EU TRADE CHIEF SEFCOVIC SAYS HE DISCUSSED HIGH DIESEL PRICES WITH USTR GREER, EXPRESSED EUROPE'S DESIRE FOR COORDINATED APPROACH

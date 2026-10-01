@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-02 06:54 JST／対象: 10/01 18:54 〜 10/02 06:54 JST（時刻はすべて日本時間）
+生成: 2026-10-02 07:16 JST／対象: 10/01 19:16 〜 10/02 07:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 80 | 10/01 18:55 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
+| DeItaone | 77 | 10/01 19:27 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
 | FirstSquawk | 173 | 10/01 19:28 | 10/02 06:24 | 39分（01:52→02:31） |
 | financialjuice | 278 | 10/01 19:25 | 10/02 06:41 | 42分（05:19→06:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 495 行（統合前 537 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 492 行（統合前 534 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 18:55 [DeItaone] AWS HIKES GPU PRICES AGAIN AS AI DEMAND STAYS STRONG AWS will raise reserved GPU compute prices by 15% on October 7, following a 20% increase in July, according to Wells Fargo. It marks the fourth consecutive quarterly increase, with H100/H…
-- 10/01 19:00 [DeItaone] $AVGO - BROADCOM TO LEND UP TO $42 BILLION TO ANTHROPIC FOR INFRASTRUCTURE LEASE AGREEMENTS, ACCORDING TO IPO PROSPECTUS
-- 10/01 19:02 [DeItaone] EURO SLIDE CONTINUES; LAST DOWN 0.55% AT $1.127
 - 10/01 19:25 [financialjuice] EU: In 'high level contact’ with the US on emergency diesel stocks
 - 10/01 19:25 [financialjuice] The US slowed export licensing for plane parts to China - Sources
 - 10/01 19:25 [financialjuice] French warship, part of the EU Red Sea mission, escorted about ten ships through the Bab el-Mandeb Strait over last week - French army spokesperson
