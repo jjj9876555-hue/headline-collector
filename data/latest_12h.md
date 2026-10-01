@@ -7,44 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-01 15:25 JST／対象: 10/01 03:25 〜 10/01 15:25 JST（時刻はすべて日本時間）
+生成: 2026-10-01 15:52 JST／対象: 10/01 03:52 〜 10/01 15:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 18 | 10/01 03:31 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
-| FirstSquawk | 194 | 10/01 03:31 | 10/01 15:23 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 190 | 10/01 03:31 | 10/01 15:00 | ⚠ 52分（14:07→15:00） |
+| DeItaone | 10 | 10/01 03:54 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
+| FirstSquawk | 197 | 10/01 03:54 | 10/01 15:50 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 187 | 10/01 03:53 | 10/01 15:47 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 396 行（統合前 403 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 388 行（統合前 395 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 03:31 [financialjuice] NYMEX WTI Crude November futures settle at $90.42 a barrel, up $1.04, 1.16%.
-- 10/01 03:31 [DeItaone] $SNPS - OPENAI AND SYNOPSYS ANNOUNCE GPT-SYNOPSYS: FRONTIER INTELLIGENCE TO REVOLUTIONIZE CHIP DESIGN
-- 10/01 03:31 [financialjuice] NYMEX Gasoline October futures settle at $3.4378 a gallon.
-- 10/01 03:31 [financialjuice] NYMEX Diesel October futures settle at $4.9569 a gallon.
-- 10/01 03:31 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 1.16% HIGHER AT $90.42/BBL, UP $1.04
-- 10/01 03:32 [financialjuice] NYMEX Natural Gas November futures settle at $3.0260/MMBtu.
-- 10/01 03:36 [DeItaone] SYCAMORE PARTNERS IN TALKS TO SELL U.K. PHARMACY CHAIN BOOTS, SOURCES SAY SYCAMORE PARTNERS IN TALKS TO SELL U.K. PHARMACY CHAIN BOOTS, SOURCES SAY CANADIAN ARM OF WESTON FAMILY IN TALKS TO BUY BOOTS FOR CLOSE TO $9 BILLION, SOURCES SAY SYC…
-- 10/01 03:36 [financialjuice] White House: South Korea plans to invest billions into major US energy projects, including a crucial Alaska LNG plan. These investments will generate thousands of jobs and help reduce energy costs for Americans - Post on X.
-- 10/01 03:37 [financialjuice] Trump ends remarks.
-- 10/01 03:38 [DeItaone] WALGREENS OWNER NEARS $9 BILLION BOOTS SALE Walgreens owner Sycamore Partners is nearing a deal to sell Boots for close to $9 billion including debt, according to the WSJ. The buyer is reportedly the Canadian arm of the Weston family, which…
-- 10/01 03:40 [FirstSquawk] SYNOPSYS SAYS IT AND OPENAI HAVE SIGNED A MULTI-YEAR AGREEMENT TO DEVELOP GPT-SYNOPSYS FOR CHIP DESIGN, WITH OPENAI TO LICENSE SYNOPSYS' TRUSTED ELECTRONIC DESIGN AUTOMATION (EDA) TOOLS FOR DEVELOPMENT OF THE SPECIALIZED MODEL.
-- 10/01 03:40 [FirstSquawk] SYNOPSYS SAYS THE AGREEMENT INCLUDES REVENUE SHARING AND A GLOBAL GO-TO-MARKET FOR GPT-SYNOPSYS.
-- 10/01 03:41 [DeItaone] *WHITE HOUSE: SOUTH KOREA PLANS TO INVEST BILLIONS
-- 10/01 03:41 [DeItaone] WHITE HOUSE SAYS S. KOREA TO INVEST IN US ENERGY
-- 10/01 03:42 [FirstSquawk] US SENATORS DELAY PUSH FOR PERMANENT CHINESE CAR BAN APPROVAL UNTIL NOVEMBER — AIDES
-- 10/01 03:44 [FirstSquawk] ISRAEL'S NETANYAHU SAYS THE PILOT ATTACKED ON A FLYDUBAI FLIGHT WAS INDIAN, NAMING HIM AS SMIT MACHCHHAR, AND SAYS THE PILOT'S ACTIONS SAVED 174 LIVES, INCLUDING ISRAELIS AND OTHER NATIONALS
-- 10/01 03:45 [DeItaone] *BIGGEST US GRID SUSPENDS PLAN FOR NEW DATA CENTER POWER AUCTION
-- 10/01 03:46 [DeItaone] SYRIA SAYS THREE POWER PLANTS GONE OUT OF SERVICE AFTER GAS PIPELINE EXPLOSION -STATE NEWS AGENCY
-- 10/01 03:46 [financialjuice] Syria: Three power plants gone out of service after gas pipeline explosion - State News Agency.
-- 10/01 03:48 [DeItaone] *OPENAI CEO SAM ALTMAN TO SKIP CONGRESS HEARING ON AI: NBC
-- 10/01 03:51 [financialjuice] OpenAI CEO Altman is going to skip the Congressional hearing on rogue AI agents - NBC News.
 - 10/01 03:53 [financialjuice] Brent Crude futures settle at $103.53/bbl, up 94 cents, 0.92%.
 - 10/01 03:54 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 0.92% HIGHER AT $103.53/BBL, UP 94 CENTS
 - 10/01 03:54 [DeItaone] TRUMP SET TO UNVEIL $200 BILLION SOUTH KOREAN INVESTMENT President Trump is expected to announce $200 billion in South Korean investment in U.S. energy projects, including eight nuclear power plants, a Texas power facility and Alaska LNG. T…
@@ -420,3 +399,16 @@
 - 10/01 15:15 [FirstSquawk] Chinese automakers eye 12 million global sales in 2026 amid surging EV demand — SCMP
 - 10/01 15:22 [FirstSquawk] Japan’s major manufacturers’ confidence improves for sixth consecutive quarter, BOJ says
 - 10/01 15:23 [FirstSquawk] Australia’s ASX 200 drops 2% to 8,614.40 at close
+- 10/01 15:26 [FirstSquawk] Kia reports September global sales of 281,984, up 5.4% y/y
+- 10/01 15:27 [FirstSquawk] Iraq prime minister says legislation for Popular Mobilization Forces will proceed
+- 10/01 15:29 [FirstSquawk] HSBC lowers Blackstone price target to $122 from $135
+- 10/01 15:30 [financialjuice] ‼ BREAKING: SWISS CPI YOY ACTUAL 1% (FORECAST 1%, PREVIOUS 0.8%) $MACRO
+- 10/01 15:30 [financialjuice] SWISS RETAIL SALES YOY ACTUAL 3.2% (FORECAST -, PREVIOUS 2.3%) $MACRO
+- 10/01 15:30 [financialjuice] ❗ SWISS CPI MOM ACTUAL 0% (FORECAST 0%, PREVIOUS 0.4%) $MACRO
+- 10/01 15:30 [financialjuice] SWISS CORE CPI YOY ACTUAL 0.5% (FORECAST 0.5%, PREVIOUS 0.4%) $MACRO
+- 10/01 15:31 [FirstSquawk] SWITZERLAND (SEP) CPI YOY ACTUAL: 1% VS 0.8% PREVIOUS;EST 1.0% SWITZERLAND (SEP) CPI MOM ACTUAL: 0.0% VS 0.4% PREVIOUS;EST 0.0%
+- 10/01 15:31 [FirstSquawk] SWITZERLAND (SEP) CPI EU HARMONIZED MOM ACTUAL: -0.1% VS 0.1% PREVIOUS SWITZERLAND (SEP) CPI EU HARMONIZED YOY ACTUAL: 1.2% VS 0.9% PREVIOUS
+- 10/01 15:31 [FirstSquawk] SWITZERLAND (SEP) CPI CORE YOY ACTUAL: 0.5% VS 0.4% PREVIOUS;EST 0.5% SWITZERLAND (SEP) RETAIL SALES REAL YOY ACTUAL: 3.2% VS 2.3% PREVIOUS
+- 10/01 15:31 [FirstSquawk] SWEDEN (SEP) SWEEDBANK/SILF PMI MANUFACTURING ACTUAL: 58.1 VS 56.1 PREVIOUS
+- 10/01 15:47 [financialjuice] EUR/USD year-end options sentiment at its most bearish since April
+- 10/01 15:50 [FirstSquawk] Israeli security cabinet set to meet Sunday evening amid tensions — N13 reporter via https://t.co/tmVHTGptg3
