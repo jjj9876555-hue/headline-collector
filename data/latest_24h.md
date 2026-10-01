@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-02 00:29 JST／対象: 10/01 00:29 〜 10/02 00:29 JST（時刻はすべて日本時間）
+生成: 2026-10-02 00:49 JST／対象: 10/01 00:49 〜 10/02 00:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 78 | 10/01 00:48 | 10/01 23:19 | ⚠ 610分（06:15→16:25） |
-| FirstSquawk | 346 | 10/01 00:31 | 10/02 00:27 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 395 | 10/01 00:31 | 10/02 00:22 | ⚠ 52分（14:07→15:00） |
+| DeItaone | 77 | 10/01 00:52 | 10/01 23:19 | ⚠ 610分（06:15→16:25） |
+| FirstSquawk | 352 | 10/01 00:58 | 10/02 00:44 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 394 | 10/01 01:00 | 10/02 00:44 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 797 行（統合前 824 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 800 行（統合前 828 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 00:31 [financialjuice] Smoke plumes in the Qatif region of Saudi Arabia - Iran's Mehr News
-- 10/01 00:31 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 0.24%; GERMANY'S DAX DOWN 0.74%
-- 10/01 00:31 [FirstSquawk] FRANCE'S CAC 40 DOWN 0.93%; SPAIN'S IBEX DOWN 0.36%
-- 10/01 00:45 [financialjuice] ECB's Schnabel: High costs passed through to consumers more quickly when economy resilient.
-- 10/01 00:45 [financialjuice] ECB's Schnabel: Robust credit dynamics suggest that financial conditions are not yet restrictive.
-- 10/01 00:46 [financialjuice] ECB's Schnabel: Possible economy responds more to the recent global yield rise than assumed. Would dampen price pressures.
-- 10/01 00:46 [financialjuice] ECB's Schnabel: can return inflation to target more gradually when expectations anchored.
-- 10/01 00:46 [FirstSquawk] FITCH AFFIRMS VOLKSWAGEN AG AT 'A-'; OUTLOOK NEGATIVE
-- 10/01 00:47 [financialjuice] ECB's Schnabel's Speech
-- 10/01 00:47 [financialjuice] ECB's President Lagarde to La Croix: France's debt situation is serious at 120% of GDP and without a path to lowering
-- 10/01 00:48 [DeItaone] ECB'S LAGARDE TELLS LA CROIX NEWSPAPER FRANCE'S DEBT SITUATION IS SERIOUS AT 120% OF GDP AND WITHOUT A PATH TO LOWERING
-- 10/01 00:48 [financialjuice] ECB's President Lagarde's Interview with La Croix
-- 10/01 00:48 [financialjuice] ECB's President Lagarde to La Croix: European financial system is more solid now than in 2008 and 2011 crises
-- 10/01 00:48 [financialjuice] ECB's President Lagarde to La Croix: France needs a credible budget trajectory and reforms to restore confidence
 - 10/01 00:52 [DeItaone] ECB'S LAGARDE, ASKED BY LA CROIX NEWSPAPER IF SHE WOULD BE A FRENCH PRESIDENTIAL CANDIDATE, SAYS 'THAT WOULD NOT BE A GOOD IDEA AT ALL'
 - 10/01 00:53 [DeItaone] ECB'S LAGARDE TELLS LA CROIX IF I LEAVE ECB EARLY, "IT WILL ONLY BE BY A FEW MONTHS"
 - 10/01 00:58 [FirstSquawk] ECB'S LAGARDE ON IF SHE WOULD BE A FRENCH PRESIDENTIAL CANDIDATE: 'THAT WOULD NOT BE A GOOD IDEA AT ALL' - LA CROIX
@@ -821,3 +807,20 @@
 - 10/02 00:22 [financialjuice] Euro 3-Month implied options volatility hits 6.45%, highest since April 13th
 - 10/02 00:22 [financialjuice] Options show traders at most bearish towards Euro since mid March.
 - 10/02 00:27 [FirstSquawk] PULTE'S BUDGET CUTS TO HIT UP TO 80% OF FHFA WATCHDOG STAFF
+- 10/02 00:30 [FirstSquawk] TOYOTA US NEW CAR SALES RISE 8.4% IN SEPT. TO 201,306 VEHICLES
+- 10/02 00:31 [FirstSquawk] CHILE'S CODELCO SUSPENDS OPERATIONS IN AREA OF RADOMIRO TOMIC MINE WHERE FATAL ACCIDENT HAPPENED - STATEMENT
+- 10/02 00:31 [FirstSquawk] GM 3Q US DELIVERIES 670,974 UNITS, -5.5% Y/Y
+- 10/02 00:31 [financialjuice] GM 3Q US deliveries 670,974 units, -5.5% y/y $GM
+- 10/02 00:32 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 1.64%; GERMANY'S DAX DOWN 0.87%
+- 10/02 00:32 [FirstSquawk] FRANCE'S CAC 40 DOWN 1.47%; SPAIN'S IBEX DOWN 2.02%
+- 10/02 00:32 [financialjuice] US 4-WEEK BILL HIGH YIELD ACTUAL 3.89% (FORECAST -, PREVIOUS 3.850%) $MACRO
+- 10/02 00:32 [financialjuice] US 4-WEEK BILL BID-TO-COVER ACTUAL 2.83 (FORECAST -, PREVIOUS 2.610) $MACRO
+- 10/02 00:32 [FirstSquawk] TOYOTA SEPT US ELECTRIFIED VEHICLE SALES 117,215, UP 37.8% Y/Y
+- 10/02 00:33 [financialjuice] US 4-Week Bill Auction High Yield 3.89% Bid-to-Cover 2.83 Sells $100 bln Awards 23.52% of bids at high
+- 10/02 00:37 [financialjuice/FirstSquawk] ❗ Traders trim ECB rate bets, no longer fully price 3 more hikes.
+- 10/02 00:40 [financialjuice] Money markets no longer fully price in one more ECB interest rate hike by year-end.
+- 10/02 00:41 [financialjuice] ❗ German government raises forecast for economic growth to 1.3% in 2026, up from 0.5% in April, a person familiar with the draft said.
+- 10/02 00:41 [financialjuice] German Government forecasts growth of 0.6% in 2028 - a person familiar with the draft said
+- 10/02 00:42 [FirstSquawk] US TWO-YEAR YIELD FALLS 10 BASIS POINTS ON DAY TO 4.785%
+- 10/02 00:44 [financialjuice] ❗ traders no longer fully price in 4 BOE rate hikes by the end of 2027.
+- 10/02 00:44 [FirstSquawk] TRADERS NO LONGER FULLY PRICE 4 BOE RATE HIKES BY END OF 2027

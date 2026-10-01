@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-02 00:29 JST／対象: 10/01 18:29 〜 10/02 00:29 JST（時刻はすべて日本時間）
+生成: 2026-10-02 00:49 JST／対象: 10/01 18:49 〜 10/02 00:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 36 | 10/01 18:30 | 10/01 23:19 | 39分（22:07→22:47） |
-| FirstSquawk | 75 | 10/01 18:34 | 10/02 00:27 | ⚠ 53分（18:34→19:28） |
-| financialjuice | 125 | 10/01 18:30 | 10/02 00:22 | 44分（18:40→19:25） |
+| DeItaone | 31 | 10/01 18:55 | 10/01 23:19 | 39分（22:07→22:47） |
+| FirstSquawk | 81 | 10/01 19:28 | 10/02 00:44 | 21分（21:46→22:08） |
+| financialjuice | 127 | 10/01 19:25 | 10/02 00:44 | 28分（19:33→20:02） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 226 行（統合前 239 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 228 行（統合前 242 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 18:30 [DeItaone] RUSSIA SAYS NUCLEAR WARNING TO NATO IS NOT “CONFRONTATIONAL” The Kremlin says Russia’s letter to NATO signaling readiness to resort to nuclear weapons should not be viewed as confrontational, arguing it is intended to ensure Kaliningrad’s s…
-- 10/01 18:30 [financialjuice] US CHALLENGER LAYOFFS ACTUAL 43.281K (FORECAST -, PREVIOUS 52.881K) $MACRO
-- 10/01 18:31 [DeItaone] U.S. LAYOFF PLANS FALL SHARPLY IN SEPTEMBER U.S. employers announced 43,281 job cuts in September, down 18% from August and the lowest September total since 2022, according to Challenger Gray. Year-to-date layoffs are down 39% from 2025. Ho…
-- 10/01 18:32 [financialjuice] EU seeks joint stance on diesel stock after US demands release
-- 10/01 18:32 [financialjuice] Amazon added to conviction list at Goldman $AMZN
-- 10/01 18:33 [DeItaone] EU COORDINATES POTENTIAL MASSIVE DIESEL STOCK RELEASE The EU is coordinating a joint position on releasing emergency diesel reserves after the U.S. requested European action to ease fuel prices and avert a potential export ban. Reuters repo…
-- 10/01 18:34 [FirstSquawk] KREMLIN COMMENTS ON DMITRIEV'S DISCUSSIONS IN THE US, STATING THAT THE US CONNECTS JOINT ECONOMIC PROJECTS TO A SOLUTION IN UKRAINE.
-- 10/01 18:34 [FirstSquawk] KREMLIN ANNOUNCED THAT DMITRIEV IS REPORTING TO PUTIN ABOUT HIS DISCUSSIONS IN THE US, WITH RUSSIA-US DIALOGUE STILL UNDERWAY.
-- 10/01 18:34 [FirstSquawk] KREMLIN STRESSES POSSIBILITY OF COLLABORATION WITH US FOR MUTUAL ECONOMIC GAIN AT DMITRIEV'S DISCUSSIONS.
-- 10/01 18:34 [DeItaone] SYRIAN OFFICIALS AND HEZBOLLAH MET IN TURKEY LAST MONTH IN FIRST KNOWN MEETING BETWEEN LONGTIME FOES, SOURCES TELL REUTERS MEETING IN TURKEY COVERED MUTUAL SECURITY CONCERNS, AND PROGRESS WAS MADE, SOURCES SAY
-- 10/01 18:36 [DeItaone] GOLDMAN REFRESHES TOP U.S. STOCK PICKS Goldman Sachs added Amazon ($AMZN), Burlington Stores ($BURL), Huntington Ingalls ($HII), Johnson Controls ($JCI) and Occidental Petroleum ($OXY) to its “Director’s Cut” list. Goldman removed Air Produ…
-- 10/01 18:37 [financialjuice] Kremlin on Dmitriev's talks in the US: Unfortunately, the US links the realisation of joint economic projects to settlement in Ukraine
-- 10/01 18:37 [financialjuice] Kremlin: Dmitriev reports to Putin on the results of his contacts with the US, Russia-US dialogue is continuing
-- 10/01 18:37 [financialjuice] Kremlin on economic cooperation with the US: We believe we can be working together for our mutual benefit right now
-- 10/01 18:40 [financialjuice] Iran and Japan foreign ministers discuss US talks in call - Tasnim
 - 10/01 18:55 [DeItaone] AWS HIKES GPU PRICES AGAIN AS AI DEMAND STAYS STRONG AWS will raise reserved GPU compute prices by 15% on October 7, following a 20% increase in July, according to Wells Fargo. It marks the fourth consecutive quarterly increase, with H100/H…
 - 10/01 19:00 [DeItaone] $AVGO - BROADCOM TO LEND UP TO $42 BILLION TO ANTHROPIC FOR INFRASTRUCTURE LEASE AGREEMENTS, ACCORDING TO IPO PROSPECTUS
 - 10/01 19:02 [DeItaone] EURO SLIDE CONTINUES; LAST DOWN 0.55% AT $1.127
@@ -250,3 +235,20 @@
 - 10/02 00:22 [financialjuice] Euro 3-Month implied options volatility hits 6.45%, highest since April 13th
 - 10/02 00:22 [financialjuice] Options show traders at most bearish towards Euro since mid March.
 - 10/02 00:27 [FirstSquawk] PULTE'S BUDGET CUTS TO HIT UP TO 80% OF FHFA WATCHDOG STAFF
+- 10/02 00:30 [FirstSquawk] TOYOTA US NEW CAR SALES RISE 8.4% IN SEPT. TO 201,306 VEHICLES
+- 10/02 00:31 [FirstSquawk] CHILE'S CODELCO SUSPENDS OPERATIONS IN AREA OF RADOMIRO TOMIC MINE WHERE FATAL ACCIDENT HAPPENED - STATEMENT
+- 10/02 00:31 [FirstSquawk] GM 3Q US DELIVERIES 670,974 UNITS, -5.5% Y/Y
+- 10/02 00:31 [financialjuice] GM 3Q US deliveries 670,974 units, -5.5% y/y $GM
+- 10/02 00:32 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 1.64%; GERMANY'S DAX DOWN 0.87%
+- 10/02 00:32 [FirstSquawk] FRANCE'S CAC 40 DOWN 1.47%; SPAIN'S IBEX DOWN 2.02%
+- 10/02 00:32 [financialjuice] US 4-WEEK BILL HIGH YIELD ACTUAL 3.89% (FORECAST -, PREVIOUS 3.850%) $MACRO
+- 10/02 00:32 [financialjuice] US 4-WEEK BILL BID-TO-COVER ACTUAL 2.83 (FORECAST -, PREVIOUS 2.610) $MACRO
+- 10/02 00:32 [FirstSquawk] TOYOTA SEPT US ELECTRIFIED VEHICLE SALES 117,215, UP 37.8% Y/Y
+- 10/02 00:33 [financialjuice] US 4-Week Bill Auction High Yield 3.89% Bid-to-Cover 2.83 Sells $100 bln Awards 23.52% of bids at high
+- 10/02 00:37 [financialjuice/FirstSquawk] ❗ Traders trim ECB rate bets, no longer fully price 3 more hikes.
+- 10/02 00:40 [financialjuice] Money markets no longer fully price in one more ECB interest rate hike by year-end.
+- 10/02 00:41 [financialjuice] ❗ German government raises forecast for economic growth to 1.3% in 2026, up from 0.5% in April, a person familiar with the draft said.
+- 10/02 00:41 [financialjuice] German Government forecasts growth of 0.6% in 2028 - a person familiar with the draft said
+- 10/02 00:42 [FirstSquawk] US TWO-YEAR YIELD FALLS 10 BASIS POINTS ON DAY TO 4.785%
+- 10/02 00:44 [financialjuice] ❗ traders no longer fully price in 4 BOE rate hikes by the end of 2027.
+- 10/02 00:44 [FirstSquawk] TRADERS NO LONGER FULLY PRICE 4 BOE RATE HIKES BY END OF 2027
