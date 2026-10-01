@@ -7,49 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-02 02:55 JST／対象: 10/01 20:55 〜 10/02 02:55 JST（時刻はすべて日本時間）
+生成: 2026-10-02 03:23 JST／対象: 10/01 21:23 〜 10/02 03:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 51 | 10/01 21:06 | 10/02 02:54 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 92 | 10/01 21:07 | 10/02 02:52 | 39分（01:52→02:31） |
-| financialjuice | 160 | 10/01 20:55 | 10/02 02:55 | 27分（21:32→22:00） |
+| DeItaone | 55 | 10/01 21:24 | 10/02 03:11 | ⚠ 102分（23:19→01:02） |
+| FirstSquawk | 100 | 10/01 21:30 | 10/02 03:22 | 39分（01:52→02:31） |
+| financialjuice | 153 | 10/01 21:26 | 10/02 03:18 | 27分（21:32→22:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 286 行（統合前 308 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 292 行（統合前 313 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 20:55 [financialjuice] USTR Greer: We will meet with EU counterparts to discuss diesel today
-- 10/01 20:55 [financialjuice] USTR Greer: I have been speaking with Canadians on trade
-- 10/01 20:56 [financialjuice] USTR Greer: We're open to deal with Canada, but it's up to Canada
-- 10/01 20:56 [financialjuice] USTR Greer: Gaps remain between US and Canada on trade.
-- 10/01 21:00 [financialjuice] Secured Overnight Financing Rate 3.90% September 30 vs 3.88% September 29.
-- 10/01 21:00 [financialjuice] France HCFP: Deficit target for 2026 plausible, sees risks.
-- 10/01 21:00 [financialjuice] France HCFP: French deficit goal is minimum given ‘alarming’ finances
-- 10/01 21:00 [financialjuice] France hcFp: 2027 budget plan targets are a ‘significant’ adjustment.
-- 10/01 21:01 [financialjuice] France’s budget watchdog calls 2027 growth forecast optimistic.
-- 10/01 21:04 [financialjuice] BoE's Mann: Risk management strategy apt given inflation risks.
-- 10/01 21:05 [financialjuice] BoE's Mann: Raising rate can ensure sustainable return to 2%.
-- 10/01 21:06 [financialjuice] BoE's Mann: Real and nominal conditions need to remain tight.
-- 10/01 21:06 [financialjuice] BoE's Mann: Can't rely on risk premia to do the work of monetary policy, need to raise the bank rate
-- 10/01 21:06 [financialjuice] BoE's Mann: Current stance is not sufficiently tight.
-- 10/01 21:06 [DeItaone] https://t.co/EDVUWjvAPI
-- 10/01 21:07 [FirstSquawk] FRENCH BUDGET WATCHDOG: 2027 GROWTH FORECAST OPTIMISTIC
-- 10/01 21:07 [FirstSquawk] BOE'S MANN: CAN'T RELY ON RISK PREMIA TO DO THE WORK OF POLICY
-- 10/01 21:08 [financialjuice] BoE's Mann: Need clearly communicated reaction function.
-- 10/01 21:11 [financialjuice] BoE's Mann: BoE may not have clearly articulated its reaction function to Middle East shock in March, not publishing baseline forecast in April likely did not help either.
-- 10/01 21:11 [financialjuice/FirstSquawk] BoE's Mann: Policy, CPI expectations will shift without action.
-- 10/01 21:13 [financialjuice] Netanyahu on FlyDubai Attacks: Too early to say if he had connections with Iran.
-- 10/01 21:14 [FirstSquawk] NETANYAHU: TOO EARLY TO SAY IF HE HAD CONNECTIONS WITH IRAN
-- 10/01 21:16 [FirstSquawk] ISRAEL NETANYAHU: INDICATIONS THAT IRAN, PROXIES WANT TO ATTACK ISRAEL
-- 10/01 21:18 [financialjuice] Israel's Prime Minister Netanyahu: There are indications that Iran and proxies want to attack Israel
-- 10/01 21:18 [FirstSquawk] NETANYAHU: PILOT WHO ATTACKED THE OTHER PILOT WAS OMANI
-- 10/01 21:18 [financialjuice] Israel's Prime Minister Netanyahu: The pilot who attacked the other pilot was Omani
 - 10/01 21:24 [DeItaone] EUROPE HOLDS EMERGENCY TALKS ON DIESEL RESERVES European nations are holding emergency talks over releasing strategic fuel reserves after pressure from Washington to boost supply. The U.S. has already approved another 40 million barrels fro…
 - 10/01 21:26 [DeItaone] GERMAN ECONOMY MINISTRY ON DIESEL RESERVES: AT THIS TIME, NO NEW REQUIREMENTS FROM IEA
 - 10/01 21:26 [financialjuice] German economy ministry on diesel reserves: At this time, no new requirements from the IEA
@@ -310,3 +284,35 @@
 - 10/02 02:54 [financialjuice] Fed's jefferson: Fed is firmly committed to returning inflation to 2% in a timely manner.
 - 10/02 02:54 [DeItaone] *US SENDING THIRD AIRCRAFT CARRIER TO MIDDLE EAST: WSJ *US SENDING UP TO 10,000 MORE TROOPS TO MIDDLE EAST : WSJ
 - 10/02 02:55 [financialjuice] ❗ Trump recently told aides he expects to resume iran bombing - WSJ
+- 10/02 02:55 [financialjuice] ❗ Trump expects to resume Iran bombing by the end of november - WSJ
+- 10/02 02:55 [FirstSquawk] FED'S JEFFERSON SAYS INFLATION HAS RESULTED FROM A 'CASCADE OF SHOCKS', ADDING THAT LONGER-TERM INFLATION EXPECTATIONS SHOW THE FED IS CREDIBLE ON GETTING INFLATION DOWN.
+- 10/02 02:55 [financialjuice] Fed's Jefferson: The economy is quite close to maximum employment.
+- 10/02 02:55 [FirstSquawk] FED'S JEFFERSON SAYS THE FED HAS TO BE PREPARED TO DO THE NEEDED WORK TO VALIDATE INFLATION EXPECTATIONS AND IS FIRMLY COMMITTED TO RETURNING INFLATION TO 2% IN A TIMELY MANNER.
+- 10/02 02:56 [financialjuice] Trump: I stated, numerous times, that it would take 4-6 weeks to get rid of the Iran nuclear threat, and I did it in one night - Truth Social
+- 10/02 02:56 [financialjuice] Fed's Jefferson: Economy is quite close to maximum employment.
+- 10/02 02:56 [financialjuice] Fed's Jefferson: Fed has more space to focus on inflation mandate right now.
+- 10/02 02:56 [DeItaone] TRUMP: IRAN NUCLEAR THREAT ELIMINATED “IN ONE NIGHT” President Trump says he had repeatedly estimated it would take 4–6 weeks to eliminate what he calls the “Iran nuclear threat,” but claims it was accomplished “in one night.” Trump says su…
+- 10/02 02:58 [FirstSquawk] TRUMP RECENTLY TOLD AIDES HE EXPECTS TO RESUME BOMBING IRAN BY THE END OF NOVEMBER - WSJ
+- 10/02 02:58 [DeItaone] *TRUMP EXPECTS TO RESUME IRAN BOMBING BY END OF NOVEMBER: WSJ
+- 10/02 02:58 [FirstSquawk] TRUMP SAYS HE STATED 'NUMEROUS TIMES, THAT IT WOULD TAKE 4-6 WEEKS TO GET RID OF THE IRAN NUCLEAR THREAT, AND I DID IT IN ONE NIGHT', ADDING THAT 'THE REST OF THE TIME IS JUST TO MAKE SURE IT STAYS THAT WAY' - TRUTH SOCIAL
+- 10/02 03:01 [FirstSquawk] https://t.me/boost/firstsquaw
+- 10/02 03:02 [financialjuice] US Treasury bought $6 bln in 10-20 year debt in october 1 buyback operation.
+- 10/02 03:03 [financialjuice] US Treasury: $46.39 bln was offered in the 10-20 year buyback operation.
+- 10/02 03:03 [financialjuice] Fed's Jefferson: There is great wisdom in the Fed's dual mandate.
+- 10/02 03:03 [DeItaone] AUGUST JOBS STRENGTH MAY HAVE BEEN OVERSTATED August payroll growth of 162K was boosted by unusually favorable seasonal adjustments. On an unadjusted basis, the economy added just 154K jobs, near 2025 levels. Using last year’s seasonal fact…
+- 10/02 03:06 [DeItaone] OIL FUTURES EXTEND GAINS , BRENT LAST UP 4.6%, WTI UP 2.8% AFTER CHINA SUSPENDS OIL EXPORTS
+- 10/02 03:07 [financialjuice] Fed's Jefferson: It's possible AI will power big productivity gains down the road.
+- 10/02 03:09 [FirstSquawk] ISRAEL'S FINANCE MINISTER SAYS BUDGET HAS BEEN ALLOCATED FOR FLIGHTS TO BRING HOME ISRAELIS IN DUBAI DUE TO FLIGHT CANCELLATIONS - POST ON X.
+- 10/02 03:09 [FirstSquawk] THE SAUDI INTERIOR MINISTRY SAYS AN INITIAL SAUDI INVESTIGATION INDICATES THE FLYDUBAI CO-PILOT ASSAULTED THE CAPTAIN, ADDING THAT THE CAPTAIN AND CO-PILOT LEFT FOR ABU DHABI ON THURSDAY MORNING AFTER MEDICAL CLEARANCE.
+- 10/02 03:09 [financialjuice] Fed's Jefferson: I encourage the responsible development of AI.
+- 10/02 03:11 [DeItaone] GOP WEIGHS DEBT-LIMIT HIKE BEFORE NEW CONGRESS Republican lawmakers are considering raising the U.S. debt ceiling during the post-election lame-duck session, potentially using budget reconciliation to avoid needing Democratic votes. House B…
+- 10/02 03:13 [FirstSquawk] RUSSIA'S PUTIN SAYS UKRAINE'S NEUTRALITY IS ONE OF RUSSIA'S GOALS, ADDING THAT RUSSIA HAS GAINED CONTROL OVER 1,301 SQUARE KILOMETRES IN UKRAINE
+- 10/02 03:14 [financialjuice] Fed's Jefferson: It is hard to say what AI has done to natural rate estimates so far.
+- 10/02 03:14 [FirstSquawk] RUSSIA'S PUTIN SAYS RUSSIA WANTS TO STOP IT ALL VIA PEACE TALKS AS SOON AS POSSIBLE
+- 10/02 03:14 [FirstSquawk] FED'S JEFFERSON SAYS THERE IS 'GREAT WISDOM IN THE FED'S DUAL MANDATE' AND THAT THE FED IS FIRMLY COMMITTED TO RETURNING INFLATION TO 2% IN A TIMELY MANNER, HAVING TO BE PREPARED TO DO THE NEEDED WORK TO VALIDATE INFLATION EXPECTATIONS, WHI…
+- 10/02 03:14 [FirstSquawk] FED'S JEFFERSON SAYS HE ENCOURAGES THE RESPONSIBLE DEVELOPMENT OF AI, ADDING THAT 'IT IS HARD TO SAY WHAT AI HAS DONE TO NATURAL RATE ESTIMATES SO FAR'.
+- 10/02 03:16 [FirstSquawk] BARBIE-MAKER MATTEL HAS DRAWN TAKEOVER INTEREST FROM AUTHENTIC BRANDS GROUP, WHICH HAS BEEN PRIVATELY DISCUSSING AN OFFER THAT COULD VALUE MATTEL AT MORE THAN $20 A SHARE, OR AROUND $6 BLN - WSJ
+- 10/02 03:16 [financialjuice] Fed's Jefferson: The Fed does not have great insight into private credit developments.
+- 10/02 03:18 [financialjuice] NVIDIA and Softbank make a final $20 billion investment in OpenAI’s last round - The Information. $NVDA
+- 10/02 03:21 [FirstSquawk] NVIDIA AND SOFTBANK HAVE MADE A FINAL COMBINED $20 BLN INVESTMENT IN OPENAI'S LAST FUNDING ROUND, EACH PUTTING IN A FINAL $10 BLN TOWARD THEIR RESPECTIVE $30 BLN PLEDGES - THE INFORMATION
+- 10/02 03:22 [FirstSquawk] RUSSIA'S PUTIN SAYS RUSSIA NEEDS SECURITY GUARANTEES OVER UKRAINE, SPEAKING ABOUT TERRITORIAL GAINS IN SEPTEMBER

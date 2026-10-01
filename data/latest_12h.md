@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-02 02:55 JST／対象: 10/01 14:55 〜 10/02 02:55 JST（時刻はすべて日本時間）
+生成: 2026-10-02 03:23 JST／対象: 10/01 15:23 〜 10/02 03:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 81 | 10/01 16:25 | 10/02 02:54 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 167 | 10/01 15:00 | 10/02 02:52 | ⚠ 53分（18:34→19:28） |
-| financialjuice | 247 | 10/01 15:00 | 10/02 02:55 | 44分（18:40→19:25） |
+| DeItaone | 86 | 10/01 16:25 | 10/02 03:11 | ⚠ 102分（23:19→01:02） |
+| FirstSquawk | 177 | 10/01 15:23 | 10/02 03:22 | ⚠ 53分（18:34→19:28） |
+| financialjuice | 258 | 10/01 15:30 | 10/02 03:18 | 44分（18:40→19:25） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 472 行（統合前 500 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 498 行（統合前 526 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 15:00 [financialjuice] UK NATIONWIDE HOUSE PRICE YOY ACTUAL 0.8% (FORECAST -, PREVIOUS 1.6%) $MACRO
-- 10/01 15:00 [financialjuice] UK NATIONWIDE HOUSE PRICE MOM ACTUAL -0.2% (FORECAST -, PREVIOUS 0.2%) $MACRO
-- 10/01 15:00 [FirstSquawk] UK (SEP) NATIONWIDE HOUSE PX MOM ACTUAL: -0.2% VS 0.2% PREVIOUS;EST 0.0%
-- 10/01 15:00 [FirstSquawk] UK (SEP) NATIONWIDE HOUSE PX NSA YOY ACTUAL: 0.8% VS 1.6% PREVIOUS;EST 1.3%
-- 10/01 15:15 [FirstSquawk] Chinese automakers eye 12 million global sales in 2026 amid surging EV demand — SCMP
-- 10/01 15:22 [FirstSquawk] Japan’s major manufacturers’ confidence improves for sixth consecutive quarter, BOJ says
 - 10/01 15:23 [FirstSquawk] Australia’s ASX 200 drops 2% to 8,614.40 at close
 - 10/01 15:26 [FirstSquawk] Kia reports September global sales of 281,984, up 5.4% y/y
 - 10/01 15:27 [FirstSquawk] Iraq prime minister says legislation for Popular Mobilization Forces will proceed
@@ -496,3 +490,35 @@
 - 10/02 02:54 [financialjuice] Fed's jefferson: Fed is firmly committed to returning inflation to 2% in a timely manner.
 - 10/02 02:54 [DeItaone] *US SENDING THIRD AIRCRAFT CARRIER TO MIDDLE EAST: WSJ *US SENDING UP TO 10,000 MORE TROOPS TO MIDDLE EAST : WSJ
 - 10/02 02:55 [financialjuice] ❗ Trump recently told aides he expects to resume iran bombing - WSJ
+- 10/02 02:55 [financialjuice] ❗ Trump expects to resume Iran bombing by the end of november - WSJ
+- 10/02 02:55 [FirstSquawk] FED'S JEFFERSON SAYS INFLATION HAS RESULTED FROM A 'CASCADE OF SHOCKS', ADDING THAT LONGER-TERM INFLATION EXPECTATIONS SHOW THE FED IS CREDIBLE ON GETTING INFLATION DOWN.
+- 10/02 02:55 [financialjuice] Fed's Jefferson: The economy is quite close to maximum employment.
+- 10/02 02:55 [FirstSquawk] FED'S JEFFERSON SAYS THE FED HAS TO BE PREPARED TO DO THE NEEDED WORK TO VALIDATE INFLATION EXPECTATIONS AND IS FIRMLY COMMITTED TO RETURNING INFLATION TO 2% IN A TIMELY MANNER.
+- 10/02 02:56 [financialjuice] Trump: I stated, numerous times, that it would take 4-6 weeks to get rid of the Iran nuclear threat, and I did it in one night - Truth Social
+- 10/02 02:56 [financialjuice] Fed's Jefferson: Economy is quite close to maximum employment.
+- 10/02 02:56 [financialjuice] Fed's Jefferson: Fed has more space to focus on inflation mandate right now.
+- 10/02 02:56 [DeItaone] TRUMP: IRAN NUCLEAR THREAT ELIMINATED “IN ONE NIGHT” President Trump says he had repeatedly estimated it would take 4–6 weeks to eliminate what he calls the “Iran nuclear threat,” but claims it was accomplished “in one night.” Trump says su…
+- 10/02 02:58 [FirstSquawk] TRUMP RECENTLY TOLD AIDES HE EXPECTS TO RESUME BOMBING IRAN BY THE END OF NOVEMBER - WSJ
+- 10/02 02:58 [DeItaone] *TRUMP EXPECTS TO RESUME IRAN BOMBING BY END OF NOVEMBER: WSJ
+- 10/02 02:58 [FirstSquawk] TRUMP SAYS HE STATED 'NUMEROUS TIMES, THAT IT WOULD TAKE 4-6 WEEKS TO GET RID OF THE IRAN NUCLEAR THREAT, AND I DID IT IN ONE NIGHT', ADDING THAT 'THE REST OF THE TIME IS JUST TO MAKE SURE IT STAYS THAT WAY' - TRUTH SOCIAL
+- 10/02 03:01 [FirstSquawk] https://t.me/boost/firstsquaw
+- 10/02 03:02 [financialjuice] US Treasury bought $6 bln in 10-20 year debt in october 1 buyback operation.
+- 10/02 03:03 [financialjuice] US Treasury: $46.39 bln was offered in the 10-20 year buyback operation.
+- 10/02 03:03 [financialjuice] Fed's Jefferson: There is great wisdom in the Fed's dual mandate.
+- 10/02 03:03 [DeItaone] AUGUST JOBS STRENGTH MAY HAVE BEEN OVERSTATED August payroll growth of 162K was boosted by unusually favorable seasonal adjustments. On an unadjusted basis, the economy added just 154K jobs, near 2025 levels. Using last year’s seasonal fact…
+- 10/02 03:06 [DeItaone] OIL FUTURES EXTEND GAINS , BRENT LAST UP 4.6%, WTI UP 2.8% AFTER CHINA SUSPENDS OIL EXPORTS
+- 10/02 03:07 [financialjuice] Fed's Jefferson: It's possible AI will power big productivity gains down the road.
+- 10/02 03:09 [FirstSquawk] ISRAEL'S FINANCE MINISTER SAYS BUDGET HAS BEEN ALLOCATED FOR FLIGHTS TO BRING HOME ISRAELIS IN DUBAI DUE TO FLIGHT CANCELLATIONS - POST ON X.
+- 10/02 03:09 [FirstSquawk] THE SAUDI INTERIOR MINISTRY SAYS AN INITIAL SAUDI INVESTIGATION INDICATES THE FLYDUBAI CO-PILOT ASSAULTED THE CAPTAIN, ADDING THAT THE CAPTAIN AND CO-PILOT LEFT FOR ABU DHABI ON THURSDAY MORNING AFTER MEDICAL CLEARANCE.
+- 10/02 03:09 [financialjuice] Fed's Jefferson: I encourage the responsible development of AI.
+- 10/02 03:11 [DeItaone] GOP WEIGHS DEBT-LIMIT HIKE BEFORE NEW CONGRESS Republican lawmakers are considering raising the U.S. debt ceiling during the post-election lame-duck session, potentially using budget reconciliation to avoid needing Democratic votes. House B…
+- 10/02 03:13 [FirstSquawk] RUSSIA'S PUTIN SAYS UKRAINE'S NEUTRALITY IS ONE OF RUSSIA'S GOALS, ADDING THAT RUSSIA HAS GAINED CONTROL OVER 1,301 SQUARE KILOMETRES IN UKRAINE
+- 10/02 03:14 [financialjuice] Fed's Jefferson: It is hard to say what AI has done to natural rate estimates so far.
+- 10/02 03:14 [FirstSquawk] RUSSIA'S PUTIN SAYS RUSSIA WANTS TO STOP IT ALL VIA PEACE TALKS AS SOON AS POSSIBLE
+- 10/02 03:14 [FirstSquawk] FED'S JEFFERSON SAYS THERE IS 'GREAT WISDOM IN THE FED'S DUAL MANDATE' AND THAT THE FED IS FIRMLY COMMITTED TO RETURNING INFLATION TO 2% IN A TIMELY MANNER, HAVING TO BE PREPARED TO DO THE NEEDED WORK TO VALIDATE INFLATION EXPECTATIONS, WHI…
+- 10/02 03:14 [FirstSquawk] FED'S JEFFERSON SAYS HE ENCOURAGES THE RESPONSIBLE DEVELOPMENT OF AI, ADDING THAT 'IT IS HARD TO SAY WHAT AI HAS DONE TO NATURAL RATE ESTIMATES SO FAR'.
+- 10/02 03:16 [FirstSquawk] BARBIE-MAKER MATTEL HAS DRAWN TAKEOVER INTEREST FROM AUTHENTIC BRANDS GROUP, WHICH HAS BEEN PRIVATELY DISCUSSING AN OFFER THAT COULD VALUE MATTEL AT MORE THAN $20 A SHARE, OR AROUND $6 BLN - WSJ
+- 10/02 03:16 [financialjuice] Fed's Jefferson: The Fed does not have great insight into private credit developments.
+- 10/02 03:18 [financialjuice] NVIDIA and Softbank make a final $20 billion investment in OpenAI’s last round - The Information. $NVDA
+- 10/02 03:21 [FirstSquawk] NVIDIA AND SOFTBANK HAVE MADE A FINAL COMBINED $20 BLN INVESTMENT IN OPENAI'S LAST FUNDING ROUND, EACH PUTTING IN A FINAL $10 BLN TOWARD THEIR RESPECTIVE $30 BLN PLEDGES - THE INFORMATION
+- 10/02 03:22 [FirstSquawk] RUSSIA'S PUTIN SAYS RUSSIA NEEDS SECURITY GUARANTEES OVER UKRAINE, SPEAKING ABOUT TERRITORIAL GAINS IN SEPTEMBER
