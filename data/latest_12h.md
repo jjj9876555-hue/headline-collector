@@ -7,41 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-02 01:22 JST／対象: 10/01 13:22 〜 10/02 01:22 JST（時刻はすべて日本時間）
+生成: 2026-10-02 01:39 JST／対象: 10/01 13:39 〜 10/02 01:39 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 54 | 10/01 16:25 | 10/02 01:21 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 160 | 10/01 13:24 | 10/02 01:16 | ⚠ 53分（18:34→19:28） |
-| financialjuice | 210 | 10/01 13:31 | 10/02 01:20 | ⚠ 52分（14:07→15:00） |
+| DeItaone | 58 | 10/01 16:25 | 10/02 01:36 | ⚠ 102分（23:19→01:02） |
+| FirstSquawk | 161 | 10/01 14:00 | 10/02 01:36 | ⚠ 53分（18:34→19:28） |
+| financialjuice | 203 | 10/01 13:54 | 10/02 01:34 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 407 行（統合前 428 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 401 行（統合前 426 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 13:24 [FirstSquawk] Dollar advances to 101.62, highest level in two months
-- 10/01 13:31 [financialjuice] S. Korea president Lee appoints Ha Joon-Kyung as new policy adviser for economic growth - Blue House
-- 10/01 13:31 [financialjuice] India monthly econ report: India's economic outlook faces upside inflation risks from mounting climate, geopolitical and monetary pressures
-- 10/01 13:32 [financialjuice] India monthly economic report: geopolitical strains, high crude oil costs may increase imported inflation pressures
-- 10/01 13:32 [financialjuice] India monthly economic report: festive demand, rising input costs may increase short-term price pressure
-- 10/01 13:32 [financialjuice] Filed lawsuit challenging Trump administration's unlawful attempt to withhold congressionally appropriated federal funding
-- 10/01 13:33 [financialjuice] India monthly econ report: cenbank's open market operations may support balanced financial conditions, limit excessive demand-side overheating
-- 10/01 13:33 [financialjuice] India monthly econ report: proactive government supply-side and market measures may help contain upside risks, cushion temporary price pressure effects
-- 10/01 13:33 [financialjuice] India monthly econ report: external sector stays resilient on robust services exports, remittances, forex reserves and capital inflows
-- 10/01 13:34 [financialjuice] India monthly economic report: domestic economy maintains strength amid tough global conditions
-- 10/01 13:34 [FirstSquawk] China is Apple’s key battleground in the foldable phone market — WSJ
-- 10/01 13:34 [FirstSquawk] Euro could weaken further against dollar, chart indicates — WSJ
-- 10/01 13:35 [financialjuice] India monthly econ report: for now, investor interest in India is cautious but not low
-- 10/01 13:35 [financialjuice] India monthly econ report: concerns over trade ties with US, tariff challenges, crude oil supply issues weigh on India's appeal as investment destination
-- 10/01 13:35 [FirstSquawk] South Korea exports exceed $120 billion in September, boosted by AI boom — WSJ
-- 10/01 13:36 [financialjuice] India monthly economic report: trade ties with US remain unsettled after passage and presidential assent of Graham bill
-- 10/01 13:37 [financialjuice] India monthly economic report: expansion momentum persists amid increased global uncertainty
-- 10/01 13:37 [financialjuice] India monthly economic report: net foreign direct investment inflows projected to rise this financial year from last year
 - 10/01 13:54 [financialjuice] Bahrain aug m2 money supply rises 7.76% y/y: central bank
 - 10/01 13:55 [financialjuice] Bahrain Aug private sector credit advances 6.31% y/y: central bank
 - 10/01 14:00 [FirstSquawk] INDIA (SEP) HSBC INDIA PMI MFG ACTUAL: 55.1 VS 55.7 PREVIOUS
@@ -431,3 +413,15 @@
 - 10/02 01:20 [DeItaone] VENEZUELA OIL EXPORTS FALL, U.S. SHIPMENTS RISE Venezuela’s oil exports fell to 1.08 million bpd in September, while shipments to the U.S. increased to 629,000 bpd. Exports to India fell to 253,000 bpd and Europe to 86,000 bpd. Chevron’s Ve…
 - 10/02 01:20 [financialjuice] Putin: When someone wants to fight with Russia using Ukraine as a proxy that is a threat.
 - 10/02 01:21 [DeItaone] OPENAI PARTS WAYS WITH THREE SAFETY RESEARCHERS OpenAI has parted ways with three safety researchers for allegedly sharing confidential company information with a third-party AI-safety organization, according to the WSJ. OpenAI said an inte…
+- 10/02 01:24 [FirstSquawk] VENEZUELA'S EXPORTS TO US INCREASED TO 629K BPD IN SEPTEMBER
+- 10/02 01:27 [financialjuice] Putin: Ukraine partially achieved its aims in hitting Russian oil refineries, Russia responded in kind.
+- 10/02 01:29 [FirstSquawk/financialjuice] PUTIN: RUSSIA HAS ENOUGH DIESEL DESPITE STRIKES
+- 10/02 01:29 [DeItaone/FirstSquawk/financialjuice] PUTIN: RUSSIAN DIESEL WILL NOT GET TO GLOBAL MARKETS AS THERE ARE SANCTIONS AGAINST RUSSIAN OIL
+- 10/02 01:32 [DeItaone] PUTIN: SAYS "NO" TO PROPOSALS TO HALT STRIKES IN BLACK SEA
+- 10/02 01:32 [financialjuice] Google launches Guided Vision in Gemini Live for Android. $GOOGL
+- 10/02 01:33 [financialjuice] Putin to proposals to halt strikes in Black Sea: No.
+- 10/02 01:34 [DeItaone/financialjuice] PUTIN: RUSSIA'S PROPOSALS TO DELIVER ENRICHED URANIUM FROM IRAN TO RUSSIA ARE STILL VALID
+- 10/02 01:34 [financialjuice] ❗ UK Counter terrorism policing: Arrested a dual UK-Iranian national today in the investigation into activity that took place close to fairford air base on Sunday.
+- 10/02 01:35 [FirstSquawk] PUTIN: I HOPE THAT STRAIT OF HORMUZ WILL BE OPEN FOR SHIPPING, SANCTIONS FROM IRAN WILL BE LIFTED
+- 10/02 01:36 [DeItaone] US ISSUES NEW IRAN-RELATED SANCTIONS -US TREASURY WEBSITE US TARGETS IRAN'S RAIL AND AUTOMOBILE CONGLOMERATES IN LATEST SANCTIONS THAT AIM TO ISOLATE TEHRAN ECONOMICALLY, TREASURY DEPARTMENT SAYS
+- 10/02 01:36 [FirstSquawk] US TARGETS IRAN'S RAIL AND AUTOMOBILE CONGLOMERATES IN LATEST SANCTIONS THAT AIM TO ISOLATE TEHRAN ECONOMICALLY, TREASURY DEPARTMENT SAYS

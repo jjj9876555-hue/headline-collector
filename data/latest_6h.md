@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-02 01:22 JST／対象: 10/01 19:22 〜 10/02 01:22 JST（時刻はすべて日本時間）
+生成: 2026-10-02 01:39 JST／対象: 10/01 19:39 〜 10/02 01:39 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 38 | 10/01 19:27 | 10/02 01:21 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 87 | 10/01 19:28 | 10/02 01:16 | 21分（21:46→22:08） |
-| financialjuice | 143 | 10/01 19:25 | 10/02 01:20 | 28分（19:33→20:02） |
+| DeItaone | 40 | 10/01 20:06 | 10/02 01:36 | ⚠ 102分（23:19→01:02） |
+| FirstSquawk | 86 | 10/01 19:43 | 10/02 01:36 | 21分（21:46→22:08） |
+| financialjuice | 142 | 10/01 20:02 | 10/02 01:34 | 27分（21:32→22:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 252 行（統合前 272 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 248 行（統合前 272 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 19:25 [financialjuice] EU: In 'high level contact’ with the US on emergency diesel stocks
-- 10/01 19:25 [financialjuice] The US slowed export licensing for plane parts to China - Sources
-- 10/01 19:25 [financialjuice] French warship, part of the EU Red Sea mission, escorted about ten ships through the Bab el-Mandeb Strait over last week - French army spokesperson
-- 10/01 19:25 [financialjuice] Traders pare ECB rate bets, favor three hikes by end of 2027
-- 10/01 19:26 [financialjuice] EU: Next meeting of the oil coordination group on October 15th
-- 10/01 19:27 [financialjuice] French budget minister Amiel: We cannot wait until next year's election to take action on the budget
-- 10/01 19:27 [DeItaone] HSBC: INVESTORS ROTATING OUT OF FRANCE INTO UK HSBC says European equity funds are shifting capital from France toward the UK, as concerns over France’s fiscal outlook intensify. The bank recently cut France to Underweight, citing worsening…
-- 10/01 19:28 [FirstSquawk] FRENCH FINANCE MINISTER LESCURE OUTLINES 2027 BUDGET, CONFIRMING FRANCE'S STRONG CREDITWORTHINESS.
-- 10/01 19:28 [FirstSquawk] FRENCH FINANCE MINISTER LESCURE PREDICTS BUDGET CONSOLIDATION BY 2027.
-- 10/01 19:28 [FirstSquawk] FRENCH FINANCE MINISTER LESCURE STATES THAT THE GOAL OF LOWERING THE BUDGET DEFICIT TO 3% OF GDP BY 2029 IS STILL ACHIEVABLE.
-- 10/01 19:28 [FirstSquawk] FRENCH FINANCE MINISTER LESCURE ANNOUNCED A BUDGET WITH 43 BILLION EUROS IN NEW MEASURES, AMOUNTING TO 54 BILLION EUROS WHEN INCLUDING PREVIOUS MEASURES.
-- 10/01 19:28 [FirstSquawk] FRENCH BUDGET MINISTER AMIEL STATED ACTION ON THE BUDGET IS NECESSARY BEFORE NEXT YEAR'S ELECTION.
-- 10/01 19:29 [financialjuice] Israel requested an urgent increase in Etihad flights to Tel Aviv
-- 10/01 19:33 [DeItaone] EU COORDINATES POSSIBLE ENERGY RESERVE RELEASE WITH U.S. The European Commission says it is in high-level talks with the U.S. administration over the global oil market and potential emergency stock releases. Brussels is coordinating EU memb…
-- 10/01 19:33 [financialjuice] France Fin. Min. Lescure: French 2027 budget sees €54B effort; 5% deficit goal 60% of French 2027 budget effort to be on spending
-- 10/01 19:39 [FirstSquawk] MCCORMICK & CO Q3 2026 EARNINGS: ADJ EPS 86C (EST 76C) || NET SALES 2.02B (EST $1.98B) || ORGANIC VOLUME GROWTH -0.3% (EST -0.14%) || STILL SEES FY ADJ EPS $3.05 TO $3.13(EST $3.08) || REAFFIRMS FY NET SALES GROWTH OUTLOOK
 - 10/01 19:43 [FirstSquawk] ACCENTURE Q4 REVENUE USD 18,700 MILLION VS ESTIMATE USD 18,032 MILLION || OUTLOOK FY REVENUE GROWTH 3-6% || Q4 EPS USD 3.29
 - 10/01 19:43 [FirstSquawk] ACCENTURE Q4 NEW BOOKINGS USD 22,200 MILLION
 - 10/01 19:43 [FirstSquawk] ACCENTURE OUTLOOK FY GAAP DILUTED EPS OF $14.39 TO $14.81 || ACCENTURE OUTLOOK FY 3% TO 6% INCREASE OVER ADJUSTED EPS
@@ -276,3 +260,15 @@
 - 10/02 01:20 [DeItaone] VENEZUELA OIL EXPORTS FALL, U.S. SHIPMENTS RISE Venezuela’s oil exports fell to 1.08 million bpd in September, while shipments to the U.S. increased to 629,000 bpd. Exports to India fell to 253,000 bpd and Europe to 86,000 bpd. Chevron’s Ve…
 - 10/02 01:20 [financialjuice] Putin: When someone wants to fight with Russia using Ukraine as a proxy that is a threat.
 - 10/02 01:21 [DeItaone] OPENAI PARTS WAYS WITH THREE SAFETY RESEARCHERS OpenAI has parted ways with three safety researchers for allegedly sharing confidential company information with a third-party AI-safety organization, according to the WSJ. OpenAI said an inte…
+- 10/02 01:24 [FirstSquawk] VENEZUELA'S EXPORTS TO US INCREASED TO 629K BPD IN SEPTEMBER
+- 10/02 01:27 [financialjuice] Putin: Ukraine partially achieved its aims in hitting Russian oil refineries, Russia responded in kind.
+- 10/02 01:29 [FirstSquawk/financialjuice] PUTIN: RUSSIA HAS ENOUGH DIESEL DESPITE STRIKES
+- 10/02 01:29 [DeItaone/FirstSquawk/financialjuice] PUTIN: RUSSIAN DIESEL WILL NOT GET TO GLOBAL MARKETS AS THERE ARE SANCTIONS AGAINST RUSSIAN OIL
+- 10/02 01:32 [DeItaone] PUTIN: SAYS "NO" TO PROPOSALS TO HALT STRIKES IN BLACK SEA
+- 10/02 01:32 [financialjuice] Google launches Guided Vision in Gemini Live for Android. $GOOGL
+- 10/02 01:33 [financialjuice] Putin to proposals to halt strikes in Black Sea: No.
+- 10/02 01:34 [DeItaone/financialjuice] PUTIN: RUSSIA'S PROPOSALS TO DELIVER ENRICHED URANIUM FROM IRAN TO RUSSIA ARE STILL VALID
+- 10/02 01:34 [financialjuice] ❗ UK Counter terrorism policing: Arrested a dual UK-Iranian national today in the investigation into activity that took place close to fairford air base on Sunday.
+- 10/02 01:35 [FirstSquawk] PUTIN: I HOPE THAT STRAIT OF HORMUZ WILL BE OPEN FOR SHIPPING, SANCTIONS FROM IRAN WILL BE LIFTED
+- 10/02 01:36 [DeItaone] US ISSUES NEW IRAN-RELATED SANCTIONS -US TREASURY WEBSITE US TARGETS IRAN'S RAIL AND AUTOMOBILE CONGLOMERATES IN LATEST SANCTIONS THAT AIM TO ISOLATE TEHRAN ECONOMICALLY, TREASURY DEPARTMENT SAYS
+- 10/02 01:36 [FirstSquawk] US TARGETS IRAN'S RAIL AND AUTOMOBILE CONGLOMERATES IN LATEST SANCTIONS THAT AIM TO ISOLATE TEHRAN ECONOMICALLY, TREASURY DEPARTMENT SAYS

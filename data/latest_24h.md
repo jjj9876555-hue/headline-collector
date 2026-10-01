@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-02 01:22 JST／対象: 10/01 01:22 〜 10/02 01:22 JST（時刻はすべて日本時間）
+生成: 2026-10-02 01:39 JST／対象: 10/01 01:39 〜 10/02 01:39 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 85 | 10/01 02:11 | 10/02 01:21 | ⚠ 610分（06:15→16:25） |
-| FirstSquawk | 353 | 10/01 01:25 | 10/02 01:16 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 406 | 10/01 01:37 | 10/02 01:20 | ⚠ 52分（14:07→15:00） |
+| DeItaone | 89 | 10/01 02:11 | 10/02 01:36 | ⚠ 610分（06:15→16:25） |
+| FirstSquawk | 355 | 10/01 01:45 | 10/02 01:36 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 412 | 10/01 01:43 | 10/02 01:34 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 816 行（統合前 850 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 824 行（統合前 862 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 01:25 [FirstSquawk] ITALY PM MELONI: PLANS TO SPEND EUR14 BLN STEMMING FROM EU ESCAPE CLAUSE TO LOWER FIRMS’ ENERGY COSTS
-- 10/01 01:28 [FirstSquawk] FORD SHARES FALL 2.6% TO REACH LOWEST SINCE MAY 13
-- 10/01 01:32 [FirstSquawk] US 10-YEAR TREASURY YIELD RISES TO 5.29%, RENEWS HIGH SINCE '2007
-- 10/01 01:37 [financialjuice] Call is scheduled to take place between Trump and Netanyahu in the coming hours regarding the FlyDubai incident - Israeli Channel 14
 - 10/01 01:43 [financialjuice] US oil industry warns diesel prices will not return to normal for a year - FT
 - 10/01 01:45 [FirstSquawk] GOLDMAN SACHS REVISES FOR FED HIKE TO DECEMBER FROM OCTOBER
 - 10/01 01:45 [financialjuice] Goldman Sachs shifts fed forecast to December hike from October
@@ -840,3 +836,15 @@
 - 10/02 01:20 [DeItaone] VENEZUELA OIL EXPORTS FALL, U.S. SHIPMENTS RISE Venezuela’s oil exports fell to 1.08 million bpd in September, while shipments to the U.S. increased to 629,000 bpd. Exports to India fell to 253,000 bpd and Europe to 86,000 bpd. Chevron’s Ve…
 - 10/02 01:20 [financialjuice] Putin: When someone wants to fight with Russia using Ukraine as a proxy that is a threat.
 - 10/02 01:21 [DeItaone] OPENAI PARTS WAYS WITH THREE SAFETY RESEARCHERS OpenAI has parted ways with three safety researchers for allegedly sharing confidential company information with a third-party AI-safety organization, according to the WSJ. OpenAI said an inte…
+- 10/02 01:24 [FirstSquawk] VENEZUELA'S EXPORTS TO US INCREASED TO 629K BPD IN SEPTEMBER
+- 10/02 01:27 [financialjuice] Putin: Ukraine partially achieved its aims in hitting Russian oil refineries, Russia responded in kind.
+- 10/02 01:29 [FirstSquawk/financialjuice] PUTIN: RUSSIA HAS ENOUGH DIESEL DESPITE STRIKES
+- 10/02 01:29 [DeItaone/FirstSquawk/financialjuice] PUTIN: RUSSIAN DIESEL WILL NOT GET TO GLOBAL MARKETS AS THERE ARE SANCTIONS AGAINST RUSSIAN OIL
+- 10/02 01:32 [DeItaone] PUTIN: SAYS "NO" TO PROPOSALS TO HALT STRIKES IN BLACK SEA
+- 10/02 01:32 [financialjuice] Google launches Guided Vision in Gemini Live for Android. $GOOGL
+- 10/02 01:33 [financialjuice] Putin to proposals to halt strikes in Black Sea: No.
+- 10/02 01:34 [DeItaone/financialjuice] PUTIN: RUSSIA'S PROPOSALS TO DELIVER ENRICHED URANIUM FROM IRAN TO RUSSIA ARE STILL VALID
+- 10/02 01:34 [financialjuice] ❗ UK Counter terrorism policing: Arrested a dual UK-Iranian national today in the investigation into activity that took place close to fairford air base on Sunday.
+- 10/02 01:35 [FirstSquawk] PUTIN: I HOPE THAT STRAIT OF HORMUZ WILL BE OPEN FOR SHIPPING, SANCTIONS FROM IRAN WILL BE LIFTED
+- 10/02 01:36 [DeItaone] US ISSUES NEW IRAN-RELATED SANCTIONS -US TREASURY WEBSITE US TARGETS IRAN'S RAIL AND AUTOMOBILE CONGLOMERATES IN LATEST SANCTIONS THAT AIM TO ISOLATE TEHRAN ECONOMICALLY, TREASURY DEPARTMENT SAYS
+- 10/02 01:36 [FirstSquawk] US TARGETS IRAN'S RAIL AND AUTOMOBILE CONGLOMERATES IN LATEST SANCTIONS THAT AIM TO ISOLATE TEHRAN ECONOMICALLY, TREASURY DEPARTMENT SAYS
