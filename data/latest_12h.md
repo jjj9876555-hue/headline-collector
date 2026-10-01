@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-01 23:08 JST／対象: 10/01 11:08 〜 10/01 23:08 JST（時刻はすべて日本時間）
+生成: 2026-10-01 23:31 JST／対象: 10/01 11:31 〜 10/01 23:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 43 | 10/01 16:25 | 10/01 23:06 | 39分（22:07→22:47） |
-| FirstSquawk | 147 | 10/01 11:08 | 10/01 23:07 | ⚠ 53分（18:34→19:28） |
-| financialjuice | 175 | 10/01 11:09 | 10/01 23:05 | ⚠ 52分（14:07→15:00） |
+| DeItaone | 44 | 10/01 16:25 | 10/01 23:19 | 39分（22:07→22:47） |
+| FirstSquawk | 149 | 10/01 11:39 | 10/01 23:30 | ⚠ 53分（18:34→19:28） |
+| financialjuice | 178 | 10/01 11:37 | 10/01 23:30 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 355 行（統合前 367 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 360 行（統合前 374 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 11:08 [FirstSquawk] USD/JPY advances 0.5% to 158.19
-- 10/01 11:09 [financialjuice] New Zealand dollar dips to $0.5618, lowest since November 2025
-- 10/01 11:09 [FirstSquawk] NZ dollar declines to $0.5618, reaches lowest level since November 2025
-- 10/01 11:14 [financialjuice] Canadian dollar drops to three-month low at C$1.4246
-- 10/01 11:14 [FirstSquawk] Canadian dollar slides to three-month low at C$1.4246
-- 10/01 11:22 [FirstSquawk] Afghan official: Four killed, six injured in Pakistani air strike on Afghanistan
-- 10/01 11:22 [financialjuice] Four killed, six wounded in Pakistani air strike on Afghanistan: Afghan provincial official
-- 10/01 11:29 [FirstSquawk] Toyota Motor to invest roughly $1.34bn in Argentina’s electric vehicle production, minister says
 - 10/01 11:37 [financialjuice] South Korea President Lee: Alaska LNG project to start only if commercially viable and compliant with South Korean law
 - 10/01 11:37 [financialjuice] South Korea President Lee: Investment project gains to be split 50-50 until principal and interest fully repaid
 - 10/01 11:39 [FirstSquawk] South Korea’s Lee: Alaska LNG project to start only once commercial viability and legal requirements are confirmed
@@ -379,3 +371,16 @@
 - 10/01 23:06 [DeItaone] U.S. TREASURY YIELDS EXTEND GAINS; YIELD ON 10-YEAR TREASURY NOTE LAST UP 4.72 BASIS POINTS AT 5.34% TWO-YEAR U.S. TREASURY YIELDS, LAST FLAT AT 4.883%
 - 10/01 23:07 [FirstSquawk] U.S. TREASURY YIELDS EXTEND GAINS; YIELD ON 10-YEAR TREASURY NOTE LAST UP 4.72 BASIS POINTS AT 5.34%
 - 10/01 23:07 [FirstSquawk] TWO-YEAR U.S. TREASURY YIELDS, LAST FLAT AT 4.883%
+- 10/01 23:09 [financialjuice/FirstSquawk] Turkey and UN steer new talks on Russia-Ukraine Black Sea truce
+- 10/01 23:17 [FirstSquawk] ITALY-GERMANY 10-YEAR YIELD SPREAD WIDENS 10BPS TO 113BPS
+- 10/01 23:17 [financialjuice] Kremlin's Peskov: No signals yet about Russia-USA-China summit - IFX
+- 10/01 23:18 [financialjuice] Fear & Greed Index: 29/100 - Fear
+- 10/01 23:18 [FirstSquawk] PESKOV: THERE HAVE BEEN NO SIGNALS YET ABOUT A TRILATERAL RUSSIA-US-CHINA SUMMIT – IFX
+- 10/01 23:18 [FirstSquawk] PESKOV: A MEETING BETWEEN PUTIN AND TRUMP ON THE SIDELINES OF APEC WOULD BE ESSENTIAL FOR THE ENTIRE WORLD
+- 10/01 23:18 [FirstSquawk] PESKOV: PUTIN WOULD BE HAPPY TO MEET TRUMP
+- 10/01 23:19 [DeItaone] TRUMP: DISCUSSED RELEASE OF POLITICAL PRISONERS WITH CHINA'S XI
+- 10/01 23:19 [financialjuice] Crypto Fear & Greed Index: 74/100 - Greed
+- 10/01 23:23 [financialjuice] Meta: Introduces ray-ban meta audio and announces Muse AI agent for AI glasses. $META
+- 10/01 23:29 [FirstSquawk] SPOT PALLADIUM FALLS OVER 3% TO $1,161.93/OZ
+- 10/01 23:30 [FirstSquawk] US NATURAL GAS STORAGE ACTUAL: 64 VS 53 PREVIOUS; EST 63
+- 10/01 23:30 [financialjuice] EIA NATURAL GAS CHANGE BCF ACTUAL 64B (FORECAST 63B, PREVIOUS 53B) $MACRO

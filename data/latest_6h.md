@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 23:08 JST／対象: 10/01 17:08 〜 10/01 23:08 JST（時刻はすべて日本時間）
+生成: 2026-10-01 23:31 JST／対象: 10/01 17:31 〜 10/01 23:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 40 | 10/01 17:14 | 10/01 23:06 | 39分（22:07→22:47） |
-| FirstSquawk | 67 | 10/01 17:17 | 10/01 23:07 | ⚠ 53分（18:34→19:28） |
-| financialjuice | 116 | 10/01 17:08 | 10/01 23:05 | 44分（18:40→19:25） |
+| DeItaone | 37 | 10/01 17:52 | 10/01 23:19 | 39分（22:07→22:47） |
+| FirstSquawk | 68 | 10/01 17:33 | 10/01 23:30 | ⚠ 53分（18:34→19:28） |
+| financialjuice | 118 | 10/01 17:57 | 10/01 23:30 | 44分（18:40→19:25） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 213 行（統合前 225 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 212 行（統合前 226 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 17:08 [financialjuice] French PM aims for 43 billion euros in fresh budget savings - BFM TV
-- 10/01 17:14 [DeItaone] 🇫🇷 FRENCH 5-YEAR CDS HIT 71.6 BPS, HIGHEST SINCE JULY 2013, AS BONDS SELL OFF
-- 10/01 17:17 [FirstSquawk] FTSE 100 INDEX DROPS 2% TO 10,393.83.
-- 10/01 17:19 [DeItaone] ITALY'S 10-YEAR GOVERNMENT BOND YIELDS REACH HIGHEST SINCE NOVEMBER 2023 AT 4.7232%, UP 10 BPS
-- 10/01 17:22 [FirstSquawk] BIROL STATES THAT THE DIESEL SITUATION IN EUROPE AND OTHER REGIONS IS QUITE TIGHT.
-- 10/01 17:22 [FirstSquawk] COMMERZBANK CEO ORLOPP INDICATES GREATER DEMAND FOR FINANCING IS EMERGING.
-- 10/01 17:24 [DeItaone] *BIROL SAYS DIESEL SITUATION IS VERY TIGHT IN EUROPE AND BEYOND
-- 10/01 17:28 [FirstSquawk] TAKAICHI: SIGNS OF ECONOMIC CHANGE AT CRITICAL JUNCTURE
-- 10/01 17:28 [financialjuice] Japan's PM Takaichi: Signs of economic change at critical juncture.
-- 10/01 17:29 [DeItaone] CBOE VOLATILITY INDEX HITS OVER TWO-WEEK HIGH; LAST UP 0.5 POINTS AT 16.86
-- 10/01 17:30 [financialjuice] ‼ BREAKING: UK MANUFACTURING PMI FINAL ACTUAL 51.9 (FORECAST 52, PREVIOUS 52.0) $MACRO
-- 10/01 17:30 [financialjuice] Japan's PM Takaichi: Domestic investment vital for higher potential growth.
-- 10/01 17:30 [FirstSquawk] UK MANUFACTURING PMI FINAL COMES IN AT 51.9, BELOW ESTIMATE OF 52 AND LAST MONTH'S 52.0.
-- 10/01 17:31 [FirstSquawk] JAPAN'S PRIME MINISTER TAKAICHI SAYS LOCAL INVESTMENT IS CRUCIAL FOR BOOSTING GROWTH POTENTIAL.
 - 10/01 17:33 [FirstSquawk] TAKAICHI ASKED KIUCHI TO SPECIFY THE INVESTMENT TIMEFRAME AND DETAILS.
 - 10/01 17:33 [FirstSquawk] TAKAICHI WILL NEED MORE TIME TO ENSURE LONG-LASTING REAL WAGE INCREASES.
 - 10/01 17:39 [FirstSquawk] ZELENSKYY ANNOUNCES UKRAINE ATTACKED AN OIL FACILITY IN RUSSIA'S SAMARA REGION.
@@ -237,3 +223,16 @@
 - 10/01 23:06 [DeItaone] U.S. TREASURY YIELDS EXTEND GAINS; YIELD ON 10-YEAR TREASURY NOTE LAST UP 4.72 BASIS POINTS AT 5.34% TWO-YEAR U.S. TREASURY YIELDS, LAST FLAT AT 4.883%
 - 10/01 23:07 [FirstSquawk] U.S. TREASURY YIELDS EXTEND GAINS; YIELD ON 10-YEAR TREASURY NOTE LAST UP 4.72 BASIS POINTS AT 5.34%
 - 10/01 23:07 [FirstSquawk] TWO-YEAR U.S. TREASURY YIELDS, LAST FLAT AT 4.883%
+- 10/01 23:09 [financialjuice/FirstSquawk] Turkey and UN steer new talks on Russia-Ukraine Black Sea truce
+- 10/01 23:17 [FirstSquawk] ITALY-GERMANY 10-YEAR YIELD SPREAD WIDENS 10BPS TO 113BPS
+- 10/01 23:17 [financialjuice] Kremlin's Peskov: No signals yet about Russia-USA-China summit - IFX
+- 10/01 23:18 [financialjuice] Fear & Greed Index: 29/100 - Fear
+- 10/01 23:18 [FirstSquawk] PESKOV: THERE HAVE BEEN NO SIGNALS YET ABOUT A TRILATERAL RUSSIA-US-CHINA SUMMIT – IFX
+- 10/01 23:18 [FirstSquawk] PESKOV: A MEETING BETWEEN PUTIN AND TRUMP ON THE SIDELINES OF APEC WOULD BE ESSENTIAL FOR THE ENTIRE WORLD
+- 10/01 23:18 [FirstSquawk] PESKOV: PUTIN WOULD BE HAPPY TO MEET TRUMP
+- 10/01 23:19 [DeItaone] TRUMP: DISCUSSED RELEASE OF POLITICAL PRISONERS WITH CHINA'S XI
+- 10/01 23:19 [financialjuice] Crypto Fear & Greed Index: 74/100 - Greed
+- 10/01 23:23 [financialjuice] Meta: Introduces ray-ban meta audio and announces Muse AI agent for AI glasses. $META
+- 10/01 23:29 [FirstSquawk] SPOT PALLADIUM FALLS OVER 3% TO $1,161.93/OZ
+- 10/01 23:30 [FirstSquawk] US NATURAL GAS STORAGE ACTUAL: 64 VS 53 PREVIOUS; EST 63
+- 10/01 23:30 [financialjuice] EIA NATURAL GAS CHANGE BCF ACTUAL 64B (FORECAST 63B, PREVIOUS 53B) $MACRO
