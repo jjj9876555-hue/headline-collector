@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-02 07:53 JST／対象: 10/02 01:53 〜 10/02 07:53 JST（時刻はすべて日本時間）
+生成: 2026-10-02 08:15 JST／対象: 10/02 02:15 〜 10/02 08:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 31 | 10/02 01:55 | 10/02 05:19 | ⚠ 96分（03:42→05:19） |
+| DeItaone | 27 | 10/02 02:17 | 10/02 05:19 | ⚠ 96分（03:42→05:19） |
 | FirstSquawk | 77 | 10/02 02:31 | 10/02 06:24 | 30分（04:07→04:38） |
-| financialjuice | 124 | 10/02 02:08 | 10/02 06:41 | 39分（06:01→06:41） |
+| financialjuice | 124 | 10/02 02:15 | 10/02 08:00 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 216 行（統合前 233 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 214 行（統合前 229 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 01:55 [DeItaone] *PUTIN SAYS HE OPEN TO TRILATERAL TALKS WITH US, CHINA
-- 10/02 02:08 [financialjuice/FirstSquawk] Trump, asked if the pilot had any connection to Iran: We are looking into that, according to what I'm hearing, yes - Israel's N12 News
-- 10/02 02:09 [financialjuice] Putin: Russia ready to resume dialog with the US on arms control.
-- 10/02 02:11 [DeItaone] *PUTIN: RUSSIA READY TO RESUME DIALOG WITH US ON ARMS CONTROL
-- 10/02 02:11 [financialjuice] Putin: Russia has no preconditions for dialog with the EU.
-- 10/02 02:12 [DeItaone] HOUTHI-RUN SABA NEWS AGENCY, CITING MILITARY SOURCE, DENIES GROUP ATTACKED POWER STATION IN SAUDI ARABIA'S MEDINA
-- 10/02 02:13 [financialjuice/FirstSquawk] Houthi-run Saba News Agency, citing a military source: Denies group attacked a power station in Saudi Arabia's Medina
-- 10/02 02:14 [financialjuice] Putin: Russia doesn't nationalize foreign assets.
-- 10/02 02:14 [DeItaone] PUTIN: SOME EUROPEAN COUNTRIES, INCLUDING GERMANY, SEIZE RUSSIAN ASSETS PUTIN: WE ARE RESPONDING IN KIND
 - 10/02 02:15 [financialjuice] Putin: Some European countries, including Germany, seize Russian assets; we are responding in kind
 - 10/02 02:16 [financialjuice] Putin: Foreign owners will get assets back in a good scenario.
 - 10/02 02:17 [financialjuice] Why US Bonds Are Bouncing Back Today - WSJ
@@ -67,6 +58,8 @@
 - 10/02 02:35 [FirstSquawk] FED'S JEFFERSON SAYS ECONOMIC OUTPUT AND THE JOB MARKET ARE BROADLY SOLID, SEES THE JOBLESS RATE HOLDING STEADY INTO THE END OF THIS YEAR, AND SAYS BOND YIELDS SHOW MARKET PARTICIPANTS RETHINKING THE OUTLOOK.
 - 10/02 02:35 [financialjuice] Saudi Defence Minister: Held call with US Defense Secretary, reviewed Saudi-US strategic defence partnership
 - 10/02 02:36 [DeItaone] ANTHROPIC TARGETS IPO BEFORE THANKSGIVING Anthropic is reportedly seeking to go public as soon as mid-November, with formal IPO marketing potentially starting the week of Nov. 9. Prospective investors see a potential valuation of roughly $1…
+- 10/02 02:37 [FirstSquawk] TRUMP, ASKED IF THE PILOT HAD ANY CONNECTION TO IRAN: WE ARE LOOKING INTO THAT, ACCORDING TO WHAT I'M HEARING, YES - ISRAEL'S N12 NEWS
+- 10/02 02:37 [FirstSquawk] HOUTHI-RUN SABA NEWS AGENCY, CITING A MILITARY SOURCE: DENIES GROUP ATTACKED A POWER STATION IN SAUDI ARABIA'S MEDINA
 - 10/02 02:38 [DeItaone] *JEFFERSON SAYS FED MAY NEED ‘MORE TIME’ TO DECIDE ON NEXT MOVE *JEFFERSON: INFLATION RISKS ARE TILTED TO THE UPSIDE *JEFFERSON: NOT SEEING INFLATION SPILLOVERS FROM TARIFFS, ENERGY *JEFFERSON: EXPECT NEAR-TERM GROWTH TO REMAIN AT FIRST-HAL…
 - 10/02 02:40 [DeItaone] FED LEADERS SIGNAL NO URGENCY FOR OCTOBER RATE HIKE Fed Vice Chair Philip Jefferson says officials “may take more time” before deciding on another rate increase, echoing NY Fed President John Williams. Their aligned message suggests Fed lea…
 - 10/02 02:40 [FirstSquawk] STELLANTIS US SALES RISE 3% Y/Y THROUGH Q3 2026; Q3 VEHICLE SALES HIT 324,277 UNITS
@@ -240,3 +233,8 @@
 - 10/02 06:24 [FirstSquawk] DISNEY HAS A BLUEY MOVIE PLANNED FOR NEXT YEAR AND PLANS TO EXPAND DISNEY+ FROM SPRING 2027 INTO A BROADER DIGITAL PLATFORM LINKING STREAMING CONTENT WITH MERCHANDISE, GAMES AND EXPERIENCES.
 - 10/02 06:41 [financialjuice] Chronoscale Corp extends contract and secures new deal with AI infrastructure clients
 - 10/02 06:41 [financialjuice] Chronoscale Corp agreements indicate $1 billion annual run-rate revenue by Q3 2027
+- 10/02 08:00 [financialjuice] S. KOREAN CPI MOM ACTUAL 0.3% (FORECAST 0.4%, PREVIOUS 0.20%) $MACRO
+- 10/02 08:00 [financialjuice] S. KOREAN CPI YOY ACTUAL 2.9% (FORECAST 2.9%, PREVIOUS 3.10%) $MACRO
+- 10/02 08:00 [financialjuice] S.Korea Sept consumer price index rises 0.3% m/m: stats office
+- 10/02 08:00 [financialjuice] S. Korea September core CPI rises 2.8% y/y, down from 3.4% in August: stats office
+- 10/02 08:00 [financialjuice] S. Korea Sept consumer price index rises 2.9% y/y: stats office

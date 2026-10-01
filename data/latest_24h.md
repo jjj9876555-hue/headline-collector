@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-02 07:53 JST／対象: 10/01 07:53 〜 10/02 07:53 JST（時刻はすべて日本時間）
+生成: 2026-10-02 08:15 JST／対象: 10/01 08:15 〜 10/02 08:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 93 | 10/01 16:25 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
 | FirstSquawk | 354 | 10/01 08:44 | 10/02 06:24 | ⚠ 53分（18:34→19:28） |
-| financialjuice | 433 | 10/01 08:05 | 10/02 06:41 | ⚠ 52分（14:07→15:00） |
+| financialjuice | 431 | 10/01 08:17 | 10/02 08:00 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 842 行（統合前 886 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 840 行（統合前 884 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 08:05 [financialjuice] Fed's Kashkari: keen to see outcomes from central bank task forces
-- 10/01 08:05 [financialjuice] Doubts an investment poses systemic risk
-- 10/01 08:05 [financialjuice] Fed says swap lines are part of monetary policy execution
-- 10/01 08:05 [financialjuice] Rise in bond yields is a global trend
-- 10/01 08:05 [financialjuice] AUSTRALIAN MANUFACTURING PMI FINAL ACTUAL 49.6 (FORECAST -, PREVIOUS 49.3) $MACRO
-- 10/01 08:11 [financialjuice] Eager to see outcomes from Fed task forces
-- 10/01 08:11 [financialjuice] Skyworks extends expiration date of exchange offers for Gorvo’s senior notes due 2029 and 2031
 - 10/01 08:17 [financialjuice] Meta names Dhruv Vohra managing director of global business group in Southeast Asia
 - 10/01 08:36 [financialjuice] S.Korea finance minister: will closely watch financial markets, take pre-emptive steps if necessary
 - 10/01 08:43 [financialjuice] Colombia's autonomous fiscal rule committee sees 7.8% GDP deficit for 2026, 9.5% for 2027: report
@@ -866,3 +859,8 @@
 - 10/02 06:24 [FirstSquawk] DISNEY HAS A BLUEY MOVIE PLANNED FOR NEXT YEAR AND PLANS TO EXPAND DISNEY+ FROM SPRING 2027 INTO A BROADER DIGITAL PLATFORM LINKING STREAMING CONTENT WITH MERCHANDISE, GAMES AND EXPERIENCES.
 - 10/02 06:41 [financialjuice] Chronoscale Corp extends contract and secures new deal with AI infrastructure clients
 - 10/02 06:41 [financialjuice] Chronoscale Corp agreements indicate $1 billion annual run-rate revenue by Q3 2027
+- 10/02 08:00 [financialjuice] S. KOREAN CPI MOM ACTUAL 0.3% (FORECAST 0.4%, PREVIOUS 0.20%) $MACRO
+- 10/02 08:00 [financialjuice] S. KOREAN CPI YOY ACTUAL 2.9% (FORECAST 2.9%, PREVIOUS 3.10%) $MACRO
+- 10/02 08:00 [financialjuice] S.Korea Sept consumer price index rises 0.3% m/m: stats office
+- 10/02 08:00 [financialjuice] S. Korea September core CPI rises 2.8% y/y, down from 3.4% in August: stats office
+- 10/02 08:00 [financialjuice] S. Korea Sept consumer price index rises 2.9% y/y: stats office

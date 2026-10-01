@@ -7,38 +7,26 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-02 07:53 JST／対象: 10/01 19:53 〜 10/02 07:53 JST（時刻はすべて日本時間）
+生成: 2026-10-02 08:15 JST／対象: 10/01 20:15 〜 10/02 08:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 75 | 10/01 20:06 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 162 | 10/01 19:53 | 10/02 06:24 | 39分（01:52→02:31） |
-| financialjuice | 270 | 10/01 20:02 | 10/02 06:41 | 42分（05:19→06:01） |
+| DeItaone | 70 | 10/01 20:33 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
+| FirstSquawk | 159 | 10/01 20:28 | 10/02 06:24 | 39分（01:52→02:31） |
+| financialjuice | 267 | 10/01 20:19 | 10/02 08:00 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 471 行（統合前 513 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 464 行（統合前 502 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 19:53 [FirstSquawk] EU COMMISSION OFFICIAL: EU, UK, FRANCE, ITALY, IRELAND CURRENTLY HOLDING CALL ON DIESEL STOCK RELEASES
-- 10/01 19:59 [FirstSquawk] EU SPOX: UP TO UK TO DECIDE HOW TO MANAGE, DEVELOP EU TIES
-- 10/01 20:02 [financialjuice] The EU is talking to some European states and the UK about the diesel situation
-- 10/01 20:03 [financialjuice] Trump to Time: I liked Anthropic CEO Amodei a lot
-- 10/01 20:06 [financialjuice/DeItaone] Trump sees ramping up bombing Iran after midterms possible - Time
-- 10/01 20:07 [financialjuice/DeItaone] Trump to Time: Some forms of ammunition are a little bit lower
-- 10/01 20:07 [FirstSquawk] TRUMP SAYS 'PRETTY BAD' THEY KEEP RAISING INTEREST RATES
-- 10/01 20:08 [DeItaone] *TRUMP SAYS HE 'DOESN'T BLAME KEVIN' ON INTEREST RATES: TIME
-- 10/01 20:10 [financialjuice] Trump to Time: We'll soon be filling up strategic oil reserves
-- 10/01 20:10 [financialjuice] Trump: High rates hurting economy more than inflation - Time
-- 10/01 20:10 [financialjuice] Trump: Certain levels of inflation help pay off debt - Time
-- 10/01 20:14 [DeItaone] TOTALENERGIES TO INVEST $10 BILLION IN ARGENTINA, CEO POUYANNE SAYS
-- 10/01 20:14 [financialjuice/FirstSquawk] ECB's Nagel, on rise in bond yields - All ECB instruments are for delivering price stability, not for certain yield levels
-- 10/01 20:15 [DeItaone/FirstSquawk] *TRUMP TO TIME: WE'LL SOON BE FILLING UP STRATEGIC OIL RESERVE
 - 10/01 20:19 [financialjuice] Trump: Dinner with Anthropic CEO Amodei lasted more than two hours - Time
+- 10/01 20:28 [FirstSquawk] ECB'S NAGEL: ON RISE IN BOND YIELDS - ALL ECB INSTRUMENTS ARE FOR DELIVERING PRICE STABILITY NOT FOR CERTAIN YIELD LEVELS
+- 10/01 20:28 [FirstSquawk] TRUMP TO TIME: WE'LL SOON BE FILLING UP STRATEGIC OIL RESERVE
 - 10/01 20:28 [FirstSquawk] TRUMP: AMODEI VERY SMART, DIFFERENT THAN TRUMP THOUGHT: TIME
 - 10/01 20:32 [financialjuice] Iran's president Pezeshkian: Tehran won't ever shy away from dialogue, even as the US targeted Iran several times - Tasnim
 - 10/01 20:33 [DeItaone] CITI RAISES BITCOIN TARGET TO $113,000 Citi has raised its 12-month Bitcoin target to $113,000 from $82,000, implying roughly 35% upside from current levels near $83,900. The bank points to renewed currency-debasement fears, greater regulat…
@@ -495,3 +483,8 @@
 - 10/02 06:24 [FirstSquawk] DISNEY HAS A BLUEY MOVIE PLANNED FOR NEXT YEAR AND PLANS TO EXPAND DISNEY+ FROM SPRING 2027 INTO A BROADER DIGITAL PLATFORM LINKING STREAMING CONTENT WITH MERCHANDISE, GAMES AND EXPERIENCES.
 - 10/02 06:41 [financialjuice] Chronoscale Corp extends contract and secures new deal with AI infrastructure clients
 - 10/02 06:41 [financialjuice] Chronoscale Corp agreements indicate $1 billion annual run-rate revenue by Q3 2027
+- 10/02 08:00 [financialjuice] S. KOREAN CPI MOM ACTUAL 0.3% (FORECAST 0.4%, PREVIOUS 0.20%) $MACRO
+- 10/02 08:00 [financialjuice] S. KOREAN CPI YOY ACTUAL 2.9% (FORECAST 2.9%, PREVIOUS 3.10%) $MACRO
+- 10/02 08:00 [financialjuice] S.Korea Sept consumer price index rises 0.3% m/m: stats office
+- 10/02 08:00 [financialjuice] S. Korea September core CPI rises 2.8% y/y, down from 3.4% in August: stats office
+- 10/02 08:00 [financialjuice] S. Korea Sept consumer price index rises 2.9% y/y: stats office
