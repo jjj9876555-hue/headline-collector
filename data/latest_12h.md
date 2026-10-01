@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-02 06:36 JST／対象: 10/01 18:36 〜 10/02 06:36 JST（時刻はすべて日本時間）
+生成: 2026-10-02 06:54 JST／対象: 10/01 18:54 〜 10/02 06:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 81 | 10/01 18:36 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
+| DeItaone | 80 | 10/01 18:55 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
 | FirstSquawk | 173 | 10/01 19:28 | 10/02 06:24 | 39分（01:52→02:31） |
-| financialjuice | 280 | 10/01 18:37 | 10/02 06:01 | 44分（18:40→19:25） |
+| financialjuice | 278 | 10/01 19:25 | 10/02 06:41 | 42分（05:19→06:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 498 行（統合前 540 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 495 行（統合前 537 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 18:36 [DeItaone] GOLDMAN REFRESHES TOP U.S. STOCK PICKS Goldman Sachs added Amazon ($AMZN), Burlington Stores ($BURL), Huntington Ingalls ($HII), Johnson Controls ($JCI) and Occidental Petroleum ($OXY) to its “Director’s Cut” list. Goldman removed Air Produ…
-- 10/01 18:37 [financialjuice] Kremlin on Dmitriev's talks in the US: Unfortunately, the US links the realisation of joint economic projects to settlement in Ukraine
-- 10/01 18:37 [financialjuice] Kremlin: Dmitriev reports to Putin on the results of his contacts with the US, Russia-US dialogue is continuing
-- 10/01 18:37 [financialjuice] Kremlin on economic cooperation with the US: We believe we can be working together for our mutual benefit right now
-- 10/01 18:40 [financialjuice] Iran and Japan foreign ministers discuss US talks in call - Tasnim
 - 10/01 18:55 [DeItaone] AWS HIKES GPU PRICES AGAIN AS AI DEMAND STAYS STRONG AWS will raise reserved GPU compute prices by 15% on October 7, following a 20% increase in July, according to Wells Fargo. It marks the fourth consecutive quarterly increase, with H100/H…
 - 10/01 19:00 [DeItaone] $AVGO - BROADCOM TO LEND UP TO $42 BILLION TO ANTHROPIC FOR INFRASTRUCTURE LEASE AGREEMENTS, ACCORDING TO IPO PROSPECTUS
 - 10/01 19:02 [DeItaone] EURO SLIDE CONTINUES; LAST DOWN 0.55% AT $1.127
@@ -522,3 +517,5 @@
 - 10/02 06:23 [FirstSquawk] S&P DOW JONES INDICES SAYS TWILIO, AN S&P MIDCAP 400 CONSTITUENT, WILL REPLACE WARNER BROS. DISCOVERY IN THE S&P 500, WHILE VYLOR HAS BEEN ADDED TO THE S&P 500.
 - 10/02 06:23 [FirstSquawk] DISNEY ENTERTAINMENT CHIEF DANA WALDEN SAID THE COMPANY WOULD BE WILLING TO OFFER “A LOT OF MONEY” TO ACQUIRE THE IP RIGHTS TO BLUEY CREATOR JOE BRUMM’S SHOW, WHICH DISNEY DOES NOT CURRENTLY OWN.
 - 10/02 06:24 [FirstSquawk] DISNEY HAS A BLUEY MOVIE PLANNED FOR NEXT YEAR AND PLANS TO EXPAND DISNEY+ FROM SPRING 2027 INTO A BROADER DIGITAL PLATFORM LINKING STREAMING CONTENT WITH MERCHANDISE, GAMES AND EXPERIENCES.
+- 10/02 06:41 [financialjuice] Chronoscale Corp extends contract and secures new deal with AI infrastructure clients
+- 10/02 06:41 [financialjuice] Chronoscale Corp agreements indicate $1 billion annual run-rate revenue by Q3 2027

@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-02 06:36 JST／対象: 10/02 00:36 〜 10/02 06:36 JST（時刻はすべて日本時間）
+生成: 2026-10-02 06:54 JST／対象: 10/02 00:54 〜 10/02 06:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 49 | 10/02 01:02 | 10/02 05:19 | ⚠ 96分（03:42→05:19） |
-| FirstSquawk | 95 | 10/02 00:40 | 10/02 06:24 | 39分（01:52→02:31） |
-| financialjuice | 154 | 10/02 00:37 | 10/02 06:01 | 42分（05:19→06:01） |
+| FirstSquawk | 92 | 10/02 01:03 | 10/02 06:24 | 39分（01:52→02:31） |
+| financialjuice | 151 | 10/02 00:57 | 10/02 06:41 | 42分（05:19→06:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 272 行（統合前 301 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 267 行（統合前 295 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 00:37 [financialjuice/FirstSquawk] ❗ Traders trim ECB rate bets, no longer fully price 3 more hikes.
-- 10/02 00:40 [financialjuice] Money markets no longer fully price in one more ECB interest rate hike by year-end.
-- 10/02 00:41 [financialjuice] ❗ German government raises forecast for economic growth to 1.3% in 2026, up from 0.5% in April, a person familiar with the draft said.
-- 10/02 00:41 [financialjuice] German Government forecasts growth of 0.6% in 2028 - a person familiar with the draft said
-- 10/02 00:42 [FirstSquawk] US TWO-YEAR YIELD FALLS 10 BASIS POINTS ON DAY TO 4.785%
-- 10/02 00:44 [financialjuice] ❗ traders no longer fully price in 4 BOE rate hikes by the end of 2027.
-- 10/02 00:44 [FirstSquawk] TRADERS NO LONGER FULLY PRICE 4 BOE RATE HIKES BY END OF 2027
 - 10/02 00:57 [financialjuice] Saudi East-West crude pipeline at 5.5mn b/d - Argus Media cites source
 - 10/02 00:57 [financialjuice] ❗ EU energy Union task force to meet friday to discuss potential diesel stock releases - Two EU diplomats
 - 10/02 01:00 [financialjuice] Freddie Mac: 30-year fixed-rate mortgage averaged 7.28% as of Oct. 1; US mortgage rates rise to 7.28%, highest since October 2023
@@ -296,3 +289,5 @@
 - 10/02 06:23 [FirstSquawk] S&P DOW JONES INDICES SAYS TWILIO, AN S&P MIDCAP 400 CONSTITUENT, WILL REPLACE WARNER BROS. DISCOVERY IN THE S&P 500, WHILE VYLOR HAS BEEN ADDED TO THE S&P 500.
 - 10/02 06:23 [FirstSquawk] DISNEY ENTERTAINMENT CHIEF DANA WALDEN SAID THE COMPANY WOULD BE WILLING TO OFFER “A LOT OF MONEY” TO ACQUIRE THE IP RIGHTS TO BLUEY CREATOR JOE BRUMM’S SHOW, WHICH DISNEY DOES NOT CURRENTLY OWN.
 - 10/02 06:24 [FirstSquawk] DISNEY HAS A BLUEY MOVIE PLANNED FOR NEXT YEAR AND PLANS TO EXPAND DISNEY+ FROM SPRING 2027 INTO A BROADER DIGITAL PLATFORM LINKING STREAMING CONTENT WITH MERCHANDISE, GAMES AND EXPERIENCES.
+- 10/02 06:41 [financialjuice] Chronoscale Corp extends contract and secures new deal with AI infrastructure clients
+- 10/02 06:41 [financialjuice] Chronoscale Corp agreements indicate $1 billion annual run-rate revenue by Q3 2027

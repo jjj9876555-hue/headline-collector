@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-02 06:36 JST／対象: 10/01 06:36 〜 10/02 06:36 JST（時刻はすべて日本時間）
+生成: 2026-10-02 06:54 JST／対象: 10/01 06:54 〜 10/02 06:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 93 | 10/01 16:25 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
 | FirstSquawk | 358 | 10/01 07:49 | 10/02 06:24 | ⚠ 54分（07:50→08:44） |
-| financialjuice | 466 | 10/01 06:45 | 10/02 06:01 | ⚠ 52分（14:07→15:00） |
+| financialjuice | 466 | 10/01 07:02 | 10/02 06:41 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 879 行（統合前 923 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,8 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 06:45 [financialjuice] NEW ZEALAND BUILDING CONSENTS ACTUAL 5.6% (FORECAST -, PREVIOUS -4.3%) $MACRO
-- 10/01 06:45 [financialjuice] New Zealand seasonally adjusted new dwelling consents increase 5.6% in August versus previous month
 - 10/01 07:02 [financialjuice] Fed's Kashkari: Inflation still too high, about 3%, new data doesn't alter outlook
 - 10/01 07:02 [financialjuice] Fed's Kashkari: economy remains robust despite shocks
 - 10/01 07:03 [financialjuice] Fed's Kashkari: consumers continue spending and job seekers have positions
@@ -903,3 +901,5 @@
 - 10/02 06:23 [FirstSquawk] S&P DOW JONES INDICES SAYS TWILIO, AN S&P MIDCAP 400 CONSTITUENT, WILL REPLACE WARNER BROS. DISCOVERY IN THE S&P 500, WHILE VYLOR HAS BEEN ADDED TO THE S&P 500.
 - 10/02 06:23 [FirstSquawk] DISNEY ENTERTAINMENT CHIEF DANA WALDEN SAID THE COMPANY WOULD BE WILLING TO OFFER “A LOT OF MONEY” TO ACQUIRE THE IP RIGHTS TO BLUEY CREATOR JOE BRUMM’S SHOW, WHICH DISNEY DOES NOT CURRENTLY OWN.
 - 10/02 06:24 [FirstSquawk] DISNEY HAS A BLUEY MOVIE PLANNED FOR NEXT YEAR AND PLANS TO EXPAND DISNEY+ FROM SPRING 2027 INTO A BROADER DIGITAL PLATFORM LINKING STREAMING CONTENT WITH MERCHANDISE, GAMES AND EXPERIENCES.
+- 10/02 06:41 [financialjuice] Chronoscale Corp extends contract and secures new deal with AI infrastructure clients
+- 10/02 06:41 [financialjuice] Chronoscale Corp agreements indicate $1 billion annual run-rate revenue by Q3 2027
