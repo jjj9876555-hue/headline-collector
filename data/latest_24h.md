@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-01 14:36 JST／対象: 09/30 14:36 〜 10/01 14:36 JST（時刻はすべて日本時間）
+生成: 2026-10-01 14:55 JST／対象: 09/30 14:55 〜 10/01 14:55 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 75 | 09/30 18:55 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
-| FirstSquawk | 358 | 09/30 14:38 | 10/01 14:32 | ⚠ 78分（06:31→07:49） |
+| FirstSquawk | 360 | 09/30 14:58 | 10/01 14:44 | ⚠ 78分（06:31→07:49） |
 | financialjuice | 357 | 09/30 14:59 | 10/01 14:07 | ⚠ 54分（16:01→16:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 771 行（統合前 792 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 773 行（統合前 794 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 14:38 [FirstSquawk] Gold slips as Fed hike bets and Middle East tensions underpin the U.S. dollar — FX
-- 09/30 14:39 [FirstSquawk] Kazakhstan restarts enforcement proceedings to recover 2.3 trillion tenge fine from NCOC — IFX
-- 09/30 14:48 [FirstSquawk] HSBC calls its stablecoin RedCoin as it targets 3.3 million PayMe users
 - 09/30 14:58 [FirstSquawk] Seoul and Washington discuss human rights, democracy and governance matters - YONHAP
 - 09/30 14:59 [FirstSquawk] Iran’s Araghchi to discuss U.S. feedback on seven-day proposal in Tehran on Wednesday — Reuters
 - 09/30 14:59 [financialjuice] Iran’s Aragchi and team met Qatari mediators in doha on tuesday night; Araqchi received US feedback to seven-day proposal which he will discuss in Tehran on Wednesday - Official Briefed on Talks.
@@ -795,3 +792,8 @@
 - 10/01 14:13 [FirstSquawk] Japan business leaders prepare for China visit in March — Kyodo
 - 10/01 14:25 [FirstSquawk] Russian Defence Ministry says forces targeted cargo vessel at Chornomorsk port, logistics centre in Kyiv — Interfax
 - 10/01 14:32 [FirstSquawk] Essar: Trump announces $18 billion Mesabi Metallics investment to build fully integrated American steel company
+- 10/01 14:37 [FirstSquawk] Hungary’s MOL gets approval to continue NIS talks until Oct. 30
+- 10/01 14:37 [FirstSquawk] Hungary’s MOL secures US approval to continue talks on acquiring majority ownership of Serbia’s NIS
+- 10/01 14:39 [FirstSquawk] UBS says it has taken note of Artisan Partners’ open letter to its board
+- 10/01 14:39 [FirstSquawk] UBS reiterates goal of continuing to operate successfully as a global bank from Switzerland
+- 10/01 14:44 [FirstSquawk] Chinese refiners halt October fuel exports as PetroChina cancels cargoes, sources say

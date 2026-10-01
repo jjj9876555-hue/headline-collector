@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-01 14:36 JST／対象: 10/01 02:36 〜 10/01 14:36 JST（時刻はすべて日本時間）
+生成: 2026-10-01 14:55 JST／対象: 10/01 02:55 〜 10/01 14:55 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 24 | 10/01 02:49 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
-| FirstSquawk | 188 | 10/01 02:39 | 10/01 14:32 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 200 | 10/01 02:39 | 10/01 14:07 | 36分（07:29→08:05） |
+| DeItaone | 22 | 10/01 02:55 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
+| FirstSquawk | 191 | 10/01 03:02 | 10/01 14:44 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 191 | 10/01 03:01 | 10/01 14:07 | 36分（07:29→08:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 402 行（統合前 413 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 396 行（統合前 405 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 02:39 [FirstSquawk] THE ICE OCTOBER RAW SUGAR DELIVERY IS SEEN AT 28,574 LOTS, OR 1.45 MLN METRIC TONS, TRADERS SAY, WITH ASIAN COMMODITIES TRADER WILMAR THE SOLE RECEIVER AND BTG PACTUAL COMMODITIES THE LARGEST DELIVERER ON THE ICE OCTOBER EXPIRATION
-- 10/01 02:39 [financialjuice] US Senate blocks legislation to cap electricity bill increases tied to data centers
-- 10/01 02:40 [financialjuice/FirstSquawk] USTR Greer: 10 more trade deals are on the way.
-- 10/01 02:40 [financialjuice] USTR Greer: In fairly frequent contact with Canadian counterpart.
-- 10/01 02:41 [financialjuice] USTR Greer: If Canadians want a deal, our door is always open.
-- 10/01 02:43 [financialjuice] USTR Greer: Don't like EU rules on imports of US gas and forestry
-- 10/01 02:43 [financialjuice] USTR Greer interview on Fox business ends
-- 10/01 02:48 [financialjuice/DeItaone] Trump on Iran: You will see things happening very soon
-- 10/01 02:51 [DeItaone] *TRUMP: HISTORIC FLOWS OF OIL OUT OF HORMUZ IN LAST 3 DAYS
-- 10/01 02:54 [financialjuice] Intel adds openshell policy layer to AI agent toolkit $INTC
-- 10/01 02:54 [financialjuice] Intel adds nvidia openshell policy layer to AI agent toolkit $INTC $NVDA
 - 10/01 02:55 [DeItaone] SPACEXAI CONSIDERS $100 GROK “ULTRA” SUBSCRIPTION Elon Musk’s SpaceXAI is considering a four-tier subscription model combining Grok and X, Bloomberg reports. Plans reportedly range from a free tier to a $100-per-month “Ultra” package, which…
 - 10/01 03:01 [financialjuice/FirstSquawk] Israel needs to understand that normalization cannot be forced - Jerusalem Post citing a source close to the Saudi royal family:
 - 10/01 03:01 [DeItaone] ITALY PROLONGS UNTIL MID-OCTOBER SUSPENSION OF EU'S SCHENGEN FREE BORDER AGREEMENT WITH SPAIN - STATEMENT
@@ -426,3 +415,8 @@
 - 10/01 14:13 [FirstSquawk] Japan business leaders prepare for China visit in March — Kyodo
 - 10/01 14:25 [FirstSquawk] Russian Defence Ministry says forces targeted cargo vessel at Chornomorsk port, logistics centre in Kyiv — Interfax
 - 10/01 14:32 [FirstSquawk] Essar: Trump announces $18 billion Mesabi Metallics investment to build fully integrated American steel company
+- 10/01 14:37 [FirstSquawk] Hungary’s MOL gets approval to continue NIS talks until Oct. 30
+- 10/01 14:37 [FirstSquawk] Hungary’s MOL secures US approval to continue talks on acquiring majority ownership of Serbia’s NIS
+- 10/01 14:39 [FirstSquawk] UBS says it has taken note of Artisan Partners’ open letter to its board
+- 10/01 14:39 [FirstSquawk] UBS reiterates goal of continuing to operate successfully as a global bank from Switzerland
+- 10/01 14:44 [FirstSquawk] Chinese refiners halt October fuel exports as PetroChina cancels cargoes, sources say
