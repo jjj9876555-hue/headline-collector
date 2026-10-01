@@ -7,47 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-02 08:33 JST／対象: 10/01 20:33 〜 10/02 08:33 JST（時刻はすべて日本時間）
+生成: 2026-10-02 08:52 JST／対象: 10/01 20:52 〜 10/02 08:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 69 | 10/01 20:34 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 157 | 10/01 20:38 | 10/02 08:16 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 285 | 10/01 20:34 | 10/02 08:32 | ⚠ 79分（06:41→08:00） |
+| DeItaone | 63 | 10/01 21:06 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
+| FirstSquawk | 163 | 10/01 21:07 | 10/02 08:51 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 271 | 10/01 20:53 | 10/02 08:50 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 479 行（統合前 517 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 466 行（統合前 503 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 20:34 [DeItaone] FED'S KASHKARI: ECONOMY KEEPS SURPRISING ME HOW RESILIENT IT IS
-- 10/01 20:34 [financialjuice] Fed's Kashkari: Don't know how high rates need to go.
-- 10/01 20:35 [financialjuice] Fed's Kashkari: We will do what we need to get inflation to the goal
-- 10/01 20:36 [financialjuice] Fed's Kashkari: If AI proves to be as productive as expected, the investment cycle could persist for a long time
-- 10/01 20:36 [DeItaone] TRUMP SAYS HE MAY RAMP UP IRAN BOMBING AFTER MIDTERMS IF NO DEAL: TIME TRUMP SAYS SOME U.S. AMMUNITION STOCKS ‘A LITTLE BIT LOWER’: TIME TRUMP SAYS RAYTHEON, LOCKHEED EXPANDING PATRIOT, THAAD CAPACITY: TIME U.S. MILITARY FIRED MORE THAN 1,2…
-- 10/01 20:36 [DeItaone] TRUMP SAYS AI INDUSTRY ‘BIGGER’ THAN INTERNET, INDUSTRIAL REVOLUTION: TIME
-- 10/01 20:36 [financialjuice] Fed's Kashkari: There's a big gap between 2-year yield and short-rates
-- 10/01 20:37 [financialjuice/FirstSquawk] Fed's Kashkari: When markets have a view, they're not shy about expressing them.
-- 10/01 20:39 [DeItaone] $AAPL - MORGAN STANLEY SEES APPLE ENTERING MAJOR PRODUCT CYCLE Morgan Stanley cut its Apple price target to $355 from $360, while maintaining an Overweight rating. The bank says Apple’s next 2+ years of innovation under new CEO John Ternus …
-- 10/01 20:40 [financialjuice] Fed's Kashkari: My implied Fed September 2-yr yield is a bit over 4%
-- 10/01 20:40 [financialjuice] Fed's Kashkari: If there is some tentativeness in markets, it suggests rates are having an impact
-- 10/01 20:40 [financialjuice] Fed's Kashkari: Anything adjacent to housing is under a lot of pressure
-- 10/01 20:41 [financialjuice] Fed's Kashkari: If we keep raising rates, it will put different pressure on different parts of the economy
-- 10/01 20:41 [financialjuice] Fed's Kashkari: Consumer spending is strong across the economy
-- 10/01 20:42 [financialjuice] Fed's Kashkari: 4.1% unemployment rate is good, labor market is healthy
-- 10/01 20:42 [DeItaone] TRUMP SAYS RENEWED IRAN BOMBING ‘POSSIBLE’ AFTER MIDTERMS President Trump says ramping up military strikes against Iran after the November midterms is “possible,” as the war enters its eighth month. Trump also downplayed concerns over deple…
-- 10/01 20:43 [financialjuice] Fed's Kashkari: Diesel and availability of truckers are top of mind in the Minneapolis district
-- 10/01 20:44 [financialjuice] Fed's Kashkari: My view on supply shocks and inflation has evolved
-- 10/01 20:45 [financialjuice] Fed's Kashkari: There is clearly not a wage-price spiral today
-- 10/01 20:45 [DeItaone] FED’S KASHKARI: U.S. ECONOMY KEEPS SURPRISING WITH ITS RESILIENCE Fed’s Neel Kashkari says consumer spending remains strong and the labor market is broadly healthy, with economic resilience continuing to surprise him. He said further rate h…
-- 10/01 20:45 [financialjuice] Fed's Kashkari: I don't think labor market pain is needed to achieve goal
-- 10/01 20:46 [financialjuice] Fed's Kashkari: FOMC atmosphere has been remarkably consistent under Warsh
-- 10/01 20:48 [FirstSquawk] US TREASURY YIELDS EDGE LOWER; 2-YEAR DIPS 3 BASIS POINTS TO 4.86%
-- 10/01 20:50 [financialjuice] Morning Juice – US Session Prep (1st October)
 - 10/01 20:53 [financialjuice] USTR Greer, on the EU: They have executed on the trade terms we agreed to
 - 10/01 20:53 [financialjuice] French Fiscal Watchdog: Government's 2027 deficit reduction plans are a "minimum".
 - 10/01 20:54 [financialjuice] USTR Greer: Europe has to act on the issue of excess capacity
@@ -503,3 +479,14 @@
 - 10/02 08:30 [financialjuice] Tokyo area September CPI excluding fresh food and energy rises 3.0% yr/yr: govt
 - 10/02 08:30 [financialjuice] Tokyo area September overall inflation rises 2.7% yr/yr: govt
 - 10/02 08:32 [financialjuice] Tokyo core CPI rises at fastest rate since November 2025
+- 10/02 08:34 [financialjuice] Tokyo core-core CPI climbs at fastest rate since August 2025
+- 10/02 08:34 [financialjuice] Tokyo overall CPI climbs at fastest rate since November 2025
+- 10/02 08:46 [FirstSquawk] TOKYO'S SEPTEMBER CPI ROSE 2.7% YEAR-ON-YEAR, ABOVE THE 2.5% ESTIMATE AND UP FROM 1.9%, WITH CPI EX-FRESH FOOD UP 2.7% VERSUS 2.3% EXPECTED AND CPI EX-FRESH FOOD AND ENERGY UP 3.0% VERSUS 2.5% EXPECTED
+- 10/02 08:46 [FirstSquawk] JAPAN MARKETS: 10-YEAR JGB FUTURES RISE 0.29 POINT; NIKKEI FUTURES FALL 0.9% IN EARLY TRADE
+- 10/02 08:47 [FirstSquawk] CHEVRON: MECHANICAL ISSUE AT EL SEGUNDO REFINERY DOES NOT AFFECT PETROLEUM PRODUCT SUPPLIES TO REGIONAL CUSTOMERS
+- 10/02 08:48 [FirstSquawk] FED'S LOGAN SAYS THE FOMC SHOULD RAISE RATES AS THE POLICY STANCE HAS BEEN 'OFFSIDE', CALLING FOR THE POLICY RATE TO RISE BY AN ADDITIONAL 50 BASIS POINTS OR MORE TO RETURN INFLATION TO 2%, SAYING CURRENT POLICY IS NOT RESTRICTIVE AND NEEDS…
+- 10/02 08:48 [FirstSquawk] FED'S LOGAN SAYS INFLATION IS FALLING BUT NOT ON TRACK TO REACH 2%, WITH ECONOMIC GROWTH STRENGTHENING AND THE LABOUR MARKET 'WELL BALANCED', ADDING THAT A FEW MORE HIKES WOULD AT MINIMUM REVERSE LAST AUTUMN'S CUTS THOUGH THE ULTIMATE RATE …
+- 10/02 08:50 [financialjuice] JAPANESE MONETARY BASE YOY ACTUAL -15.2% (FORECAST -, PREVIOUS -15.7%) $MACRO
+- 10/02 08:51 [FirstSquawk] FED'S LOGAN SAYS HIGHER LONG-TERM YIELDS SIGNAL EXPECTATIONS OF HIGHER RATES BUT MAY ALSO REFLECT TERM PREMIUMS THAT REDUCE THE NEED FOR FED TIGHTENING, ADDING THAT SHE WILL MONITOR BOND YIELDS AND ASSESS THEIR POLICY IMPLICATIONS.
+- 10/02 08:51 [FirstSquawk] COPPER FELL 1.2% TO $14,243.50 A TON AS A STRONGER US DOLLAR AND OIL PRICES ABOVE $100 WEIGHED ON INDUSTRIAL METALS, WITH WEAKER CHINESE INDUSTRIAL EARNINGS ALSO PRESSURING SENTIMENT.
+- 10/02 08:51 [FirstSquawk] COPPER’S NEAR-TERM SUPPLY REMAINS TIGHT, WITH POTENTIAL CHILEAN STRIKE DISRUPTIONS AND UNCERTAINTY OVER A POSSIBLE PANAMA MINE RESTART, WHILE LME COPPER CONTINUES TO TRADE IN BACKWARDATION.
