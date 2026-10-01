@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 12:38 JST／対象: 10/01 06:38 〜 10/01 12:38 JST（時刻はすべて日本時間）
+生成: 2026-10-01 12:55 JST／対象: 10/01 06:55 〜 10/01 12:55 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 106 | 10/01 07:49 | 10/01 12:29 | ⚠ 54分（07:50→08:44） |
-| financialjuice | 121 | 10/01 06:45 | 10/01 12:35 | 36分（07:29→08:05） |
+| FirstSquawk | 108 | 10/01 07:49 | 10/01 12:50 | ⚠ 54分（07:50→08:44） |
+| financialjuice | 119 | 10/01 07:02 | 10/01 12:35 | 36分（07:29→08:05） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 226 行（統合前 227 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,8 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 06:45 [financialjuice] NEW ZEALAND BUILDING CONSENTS ACTUAL 5.6% (FORECAST -, PREVIOUS -4.3%) $MACRO
-- 10/01 06:45 [financialjuice] New Zealand seasonally adjusted new dwelling consents increase 5.6% in August versus previous month
 - 10/01 07:02 [financialjuice] Fed's Kashkari: Inflation still too high, about 3%, new data doesn't alter outlook
 - 10/01 07:02 [financialjuice] Fed's Kashkari: economy remains robust despite shocks
 - 10/01 07:03 [financialjuice] Fed's Kashkari: consumers continue spending and job seekers have positions
@@ -250,3 +248,5 @@
 - 10/01 12:29 [FirstSquawk] OpenAI says most reviewed activity consisted of routine research tasks involving public web content
 - 10/01 12:34 [financialjuice] Pakistan govt: carried out airstrikes on terrorist group hideouts in Afghanistan
 - 10/01 12:35 [financialjuice] Pakistan govt: 22 militants killed in airstrike, large caches of weapons, ammunition eliminated
+- 10/01 12:47 [FirstSquawk] China will find a way to manage crypto, says Solana CEO — WSJ
+- 10/01 12:50 [FirstSquawk] Goldman Sachs shifts forecast for next Fed rate hike to December
