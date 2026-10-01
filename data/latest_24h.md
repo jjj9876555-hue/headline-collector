@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-01 12:55 JST／対象: 09/30 12:55 〜 10/01 12:55 JST（時刻はすべて日本時間）
+生成: 2026-10-01 13:19 JST／対象: 09/30 13:19 〜 10/01 13:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 75 | 09/30 18:55 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
-| FirstSquawk | 360 | 09/30 12:59 | 10/01 12:50 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 340 | 09/30 13:02 | 10/01 12:35 | ⚠ 58分（14:00→14:59） |
+| FirstSquawk | 360 | 09/30 13:33 | 10/01 13:07 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 340 | 09/30 14:00 | 10/01 13:03 | ⚠ 58分（14:00→14:59） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 756 行（統合前 777 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,12 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 12:59 [FirstSquawk] South Korea urges North Korea to apologize over DMZ mine blast and stop border fortification work
-- 09/30 13:02 [FirstSquawk] AI industry seeks to ease data centre backlash ahead of U.S. midterm elections — FT
-- 09/30 13:02 [financialjuice] White House holds critical talks on diesel export ban as midterms approach - FT
-- 09/30 13:05 [FirstSquawk] White House weighs diesel export ban ahead of U.S. midterms — FT
-- 09/30 13:15 [financialjuice] Iran executes two men accused of killing security forces during early 2026 protests: SNN
-- 09/30 13:16 [FirstSquawk] Iran executes two men over alleged killings of security forces during early 2026 protests — SNN
 - 09/30 13:33 [FirstSquawk] OIL REMAINS ELEVATED DESPITE PERSIAN GULF EXPORTS RECOVERY-WSJ
 - 09/30 13:35 [FirstSquawk] China’s PMI data signals broader economic improvement across sectors — WSJ
 - 09/30 13:50 [FirstSquawk] Berenberg lifts BHP Group target price to 3,500p from 3,400p
@@ -780,3 +774,9 @@
 - 10/01 12:35 [financialjuice] Pakistan govt: 22 militants killed in airstrike, large caches of weapons, ammunition eliminated
 - 10/01 12:47 [FirstSquawk] China will find a way to manage crypto, says Solana CEO — WSJ
 - 10/01 12:50 [FirstSquawk] Goldman Sachs shifts forecast for next Fed rate hike to December
+- 10/01 13:02 [financialjuice] California agriculture files lawsuit challenging Trump administration's unlawful attempt to impound congressionally approved federal funding
+- 10/01 13:03 [financialjuice] EU questions Binance over ongoing operations despite order to wind down - FT
+- 10/01 13:05 [FirstSquawk] IBM unveils self-hosted IBM Bob option aimed at enterprise AI sovereignty and governance
+- 10/01 13:06 [FirstSquawk] Big Tech outspends European companies on lobbying in Brussels — FT
+- 10/01 13:07 [FirstSquawk] PwC withholds sign-off on Nidec accounts despite $4 billion charge — FT
+- 10/01 13:07 [FirstSquawk] EU presses Binance on continued operations despite wind-down directive — FT

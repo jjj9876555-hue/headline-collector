@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-01 12:55 JST／対象: 10/01 00:55 〜 10/01 12:55 JST（時刻はすべて日本時間）
+生成: 2026-10-01 13:19 JST／対象: 10/01 01:19 〜 10/01 13:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 31 | 10/01 02:11 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
-| FirstSquawk | 194 | 10/01 00:58 | 10/01 12:50 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 198 | 10/01 01:00 | 10/01 12:35 | 36分（07:29→08:05） |
+| FirstSquawk | 193 | 10/01 01:25 | 10/01 13:07 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 196 | 10/01 01:37 | 10/01 13:03 | 36分（07:29→08:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 412 行（統合前 425 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 409 行（統合前 422 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 00:58 [FirstSquawk] ECB'S LAGARDE ON IF SHE WOULD BE A FRENCH PRESIDENTIAL CANDIDATE: 'THAT WOULD NOT BE A GOOD IDEA AT ALL' - LA CROIX
-- 10/01 00:58 [FirstSquawk] ECB'S LAGARDE: IF I LEAVE ECB EARLY, "IT WILL ONLY BE BY A FEW MONTHS" – LA CROIX
-- 10/01 00:58 [FirstSquawk] USTR GREER: TO RELEASE 'MILWAUKEE FRAMEWORK' FOR COORDINATED ACTION TO ADDRESS EXCESS STEEL CAPACITY AT G20 TRADE MINISTERS MEETING
-- 10/01 01:00 [financialjuice] UK's PM Burnham: Looking at all things including fuel duty ahead of budget.
-- 10/01 01:01 [financialjuice] UK's PM Burnham: Hard to return to past growth without closer EU ties
-- 10/01 01:01 [FirstSquawk] Continental Q3 2026 Results: - ContiTech Q3 Sales, EBIT Margin Seen Falling (Q/Q) - Q3 Tires Sales Seen Slightly Below Prior Year - Tires Q3 Margin Seen Hitting Upper End Of FY Guidance
-- 10/01 01:01 [financialjuice] UK's PM Burnham: We can't have unfunded plans in budget.
-- 10/01 01:01 [financialjuice] UK's PM Burnham: Will do what we can alongside challenging finances.
-- 10/01 01:09 [FirstSquawk] UK PM BURNHAM: EU OPTIONS RANGE FROM UK STAYING AS IT IS, TO REJOINING - BBC INTERVIEW
 - 10/01 01:25 [FirstSquawk] ITALY PM MELONI: PLANS TO SPEND EUR14 BLN STEMMING FROM EU ESCAPE CLAUSE TO LOWER FIRMS’ ENERGY COSTS
 - 10/01 01:28 [FirstSquawk] FORD SHARES FALL 2.6% TO REACH LOWEST SINCE MAY 13
 - 10/01 01:32 [FirstSquawk] US 10-YEAR TREASURY YIELD RISES TO 5.29%, RENEWS HIGH SINCE '2007
@@ -436,3 +427,9 @@
 - 10/01 12:35 [financialjuice] Pakistan govt: 22 militants killed in airstrike, large caches of weapons, ammunition eliminated
 - 10/01 12:47 [FirstSquawk] China will find a way to manage crypto, says Solana CEO — WSJ
 - 10/01 12:50 [FirstSquawk] Goldman Sachs shifts forecast for next Fed rate hike to December
+- 10/01 13:02 [financialjuice] California agriculture files lawsuit challenging Trump administration's unlawful attempt to impound congressionally approved federal funding
+- 10/01 13:03 [financialjuice] EU questions Binance over ongoing operations despite order to wind down - FT
+- 10/01 13:05 [FirstSquawk] IBM unveils self-hosted IBM Bob option aimed at enterprise AI sovereignty and governance
+- 10/01 13:06 [FirstSquawk] Big Tech outspends European companies on lobbying in Brussels — FT
+- 10/01 13:07 [FirstSquawk] PwC withholds sign-off on Nidec accounts despite $4 billion charge — FT
+- 10/01 13:07 [FirstSquawk] EU presses Binance on continued operations despite wind-down directive — FT
