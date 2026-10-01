@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-01 18:01 JST／対象: 09/30 18:01 〜 10/01 18:01 JST（時刻はすべて日本時間）
+生成: 2026-10-01 18:24 JST／対象: 09/30 18:24 〜 10/01 18:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 83 | 09/30 18:55 | 10/01 17:52 | ⚠ 610分（06:15→16:25） |
-| FirstSquawk | 353 | 09/30 18:02 | 10/01 17:58 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 356 | 09/30 18:02 | 10/01 18:00 | ⚠ 52分（14:07→15:00） |
+| FirstSquawk | 354 | 09/30 18:37 | 10/01 18:19 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 359 | 09/30 18:29 | 10/01 18:17 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 773 行（統合前 794 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 776 行（統合前 798 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 18:02 [FirstSquawk] ITALY'S PRELIMINARY SEPTEMBER HARMONIZED CPI INCREASES 4.1% YEAR-OVER-YEAR, ABOVE ESTIMATE OF 3.7%.
-- 09/30 18:02 [financialjuice] Rep. Raskin sent letters to Amazon, Google, Meta, Oracle - WSJ.
-- 09/30 18:04 [FirstSquawk] META AVOIDS BILLIONS IN FEDERAL TAXES BY CLASSIFYING ITS DATA CENTRES AS EXPERIMENTAL - NYT
-- 09/30 18:05 [financialjuice] Meta told IRS data centers are experimental, could fail - NYT
-- 09/30 18:07 [FirstSquawk] ISRAELI OFFICIAL TO I24 REPORTER: INCIDENT ABOARD THE FLYDUBAI FLIGHT WAS A TERRORIST ATTACK.
 - 09/30 18:29 [financialjuice] Japan PM Takaichi: Takaichi administration will boost supply side of the economy.
 - 09/30 18:30 [financialjuice] Japan PM Takaichi: Government will set a clearer path of economy and fiscal policy management.
 - 09/30 18:30 [financialjuice] UKMTO gets time-late report of incident in Hormuz.
@@ -797,3 +792,11 @@
 - 10/01 17:58 [FirstSquawk] JAPAN'S ECONOMY MINISTER KIUCHI REFUSED TO COMMENT ON THE BANK OF JAPAN'S SUMMARY OF OPINIONS.
 - 10/01 17:58 [FirstSquawk] JAPAN'S ECONOMY MINISTER KIUCHI STATES THAT THE DECISION ON SPECIFIC MONETARY TOOLS RESTS WITH THE BANK OF JAPAN.
 - 10/01 18:00 [financialjuice] ❗ EUROZONE UNEMPLOYMENT RATE ACTUAL 6.4% (FORECAST 6.4%, PREVIOUS 6.4%) $MACRO
+- 10/01 18:01 [financialjuice/FirstSquawk] Hawley, Murphy to introduce AI liability legislation - Axios.
+- 10/01 18:17 [financialjuice] Latest UK sanctions against Russian military & intelligence officers alleged to have mistreated civilians in Ukraine
+- 10/01 18:17 [financialjuice] Latest UK sanctions also target ships believed to be involved in carrying Russian liquefied natural gas
+- 10/01 18:17 [financialjuice] New UK sanctions target Russia LNG shadow fleet vessels
+- 10/01 18:17 [financialjuice] UK sanctions target Russian perpetrators of civilian torture
+- 10/01 18:19 [FirstSquawk] UK FOREIGN OFFICE ANNOUNCED 23 NEW DESIGNATIONS AND 8 NEW SPECIFICATIONS UNDER THE RUSSIA SANCTIONS REGIME.
+- 10/01 18:19 [FirstSquawk] UK IMPOSES NEW SANCTIONS ON RUSSIAN MILITARY AND INTELLIGENCE OFFICERS ACCUSED OF ABUSING CIVILIANS IN UKRAINE.
+- 10/01 18:19 [FirstSquawk] NEW UK SANCTIONS AIM AT VESSELS SUSPECTED OF TRANSPORTING RUSSIAN LIQUEFIED NATURAL GAS.

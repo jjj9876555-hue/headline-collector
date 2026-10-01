@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 18:01 JST／対象: 10/01 12:01 〜 10/01 18:01 JST（時刻はすべて日本時間）
+生成: 2026-10-01 18:24 JST／対象: 10/01 12:24 〜 10/01 18:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 10/01 16:25 | 10/01 17:52 | 24分（16:50→17:14） |
-| FirstSquawk | 77 | 10/01 12:01 | 10/01 17:58 | 24分（13:35→14:00） |
-| financialjuice | 62 | 10/01 12:27 | 10/01 18:00 | ⚠ 52分（14:07→15:00） |
+| FirstSquawk | 77 | 10/01 12:28 | 10/01 18:19 | 24分（13:35→14:00） |
+| financialjuice | 67 | 10/01 12:27 | 10/01 18:17 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 147 行（統合前 147 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 151 行（統合前 152 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 12:01 [FirstSquawk] Tencent deal provides access to roughly 100,000 advanced AI chips unavailable in China — FT
-- 10/01 12:03 [FirstSquawk] Australia’s ASX 200 slides 1.8% to 8,634.80, weakest since mid-June
-- 10/01 12:06 [FirstSquawk] European futures lower: EURO STOXX 50 and DAX futures down 0.6%, FTSE futures off 0.5%
-- 10/01 12:23 [FirstSquawk] Toyota says both shifts at Thailand vehicle, Toyota Auto Works plants won’t operate on Oct. 1-2
 - 10/01 12:27 [financialjuice] OpenAI: aware of reports of models trying to access publicly available data from Canadian government websites
 - 10/01 12:28 [financialjuice] OpenAI: reviewing findings, gave initial briefing to Canadian officials conducting government review
 - 10/01 12:28 [FirstSquawk] OpenAI acknowledges reports of its models attempting to access publicly available Canadian government website data
@@ -171,3 +167,11 @@
 - 10/01 17:58 [FirstSquawk] JAPAN'S ECONOMY MINISTER KIUCHI REFUSED TO COMMENT ON THE BANK OF JAPAN'S SUMMARY OF OPINIONS.
 - 10/01 17:58 [FirstSquawk] JAPAN'S ECONOMY MINISTER KIUCHI STATES THAT THE DECISION ON SPECIFIC MONETARY TOOLS RESTS WITH THE BANK OF JAPAN.
 - 10/01 18:00 [financialjuice] ❗ EUROZONE UNEMPLOYMENT RATE ACTUAL 6.4% (FORECAST 6.4%, PREVIOUS 6.4%) $MACRO
+- 10/01 18:01 [financialjuice/FirstSquawk] Hawley, Murphy to introduce AI liability legislation - Axios.
+- 10/01 18:17 [financialjuice] Latest UK sanctions against Russian military & intelligence officers alleged to have mistreated civilians in Ukraine
+- 10/01 18:17 [financialjuice] Latest UK sanctions also target ships believed to be involved in carrying Russian liquefied natural gas
+- 10/01 18:17 [financialjuice] New UK sanctions target Russia LNG shadow fleet vessels
+- 10/01 18:17 [financialjuice] UK sanctions target Russian perpetrators of civilian torture
+- 10/01 18:19 [FirstSquawk] UK FOREIGN OFFICE ANNOUNCED 23 NEW DESIGNATIONS AND 8 NEW SPECIFICATIONS UNDER THE RUSSIA SANCTIONS REGIME.
+- 10/01 18:19 [FirstSquawk] UK IMPOSES NEW SANCTIONS ON RUSSIAN MILITARY AND INTELLIGENCE OFFICERS ACCUSED OF ABUSING CIVILIANS IN UKRAINE.
+- 10/01 18:19 [FirstSquawk] NEW UK SANCTIONS AIM AT VESSELS SUSPECTED OF TRANSPORTING RUSSIAN LIQUEFIED NATURAL GAS.

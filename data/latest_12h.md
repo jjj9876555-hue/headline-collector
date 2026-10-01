@@ -7,38 +7,25 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-01 18:01 JST／対象: 10/01 06:01 〜 10/01 18:01 JST（時刻はすべて日本時間）
+生成: 2026-10-01 18:24 JST／対象: 10/01 06:24 〜 10/01 18:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 12 | 10/01 06:07 | 10/01 17:52 | ⚠ 610分（06:15→16:25） |
-| FirstSquawk | 186 | 10/01 06:17 | 10/01 17:58 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 187 | 10/01 06:08 | 10/01 18:00 | ⚠ 52分（14:07→15:00） |
+| DeItaone | 8 | 10/01 16:25 | 10/01 17:52 | 24分（16:50→17:14） |
+| FirstSquawk | 187 | 10/01 06:25 | 10/01 18:19 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 185 | 10/01 06:29 | 10/01 18:17 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 382 行（統合前 385 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 377 行（統合前 380 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 06:07 [DeItaone] *TRUMP: INFLATION NUMBERS ARE WAY DOWN OTHER THAN FOR OIL
-- 10/01 06:08 [financialjuice] Trump on UK base incident: will learn this afternoon why UK freed suspects
-- 10/01 06:13 [DeItaone] *TRUMP ASKED ABOUT POWELL, WARSH: WARSH WILL DO HIS OWN THING
-- 10/01 06:14 [financialjuice] South Korea industry minister: US likely to maintain tariff rate on South Korea at 15% - Yonhap
-- 10/01 06:15 [DeItaone] *TRUMP COMMENTS ON HIS CALL FOR POWELL TO BE FORCED TO RESIGN
-- 10/01 06:15 [DeItaone] SOUTH KOREA INDUSTRY MINISTER SAYS US HAS INDICATED TARIFF RATE ON SOUTH KOREA WOULD BE KEPT AT 15% LEVEL - YONHAP
-- 10/01 06:17 [FirstSquawk] U.S. AND SOUTH KOREA HAVE LAUNCHED A $22.3 BLN TEXAS GAS POWER PROJECT FOR AI DATA CENTERS, WHICH SOUTH KOREA SAYS WILL SUPPLY 6.47 GW OF ELECTRICITY WITH COMMERCIAL OPERATIONS EXPECTED BY 2029, WITH ANNUAL U.S. INVESTMENT CAPPED AT $20 BLN…
-- 10/01 06:17 [FirstSquawk] SEOUL AND WASHINGTON WILL REVIEW THE ALASKA LNG PIPELINE AND EXPORT TERMINAL PROJECT — WHICH WILL PROCEED ONLY IF COMMERCIAL AND LEGAL CONDITIONS ARE MET — WHILE SOUTH KOREA IS SEEKING EQUITY INVESTMENTS BY KOREAN COMPANIES IN WESTINGHOUSE.
-- 10/01 06:18 [FirstSquawk] RIO TINTO SAYS A DEAL WITH THE AUSTRALIAN AND TASMANIAN GOVERNMENTS SECURES ITS BELL BAY ALUMINIUM OPERATIONS THROUGH 2031, WITH HYDRO TASMANIA TO SUPPLY ELECTRICITY THROUGH 31 DECEMBER 2031 AND THE AUSTRALIAN AND TASMANIAN GOVERNMENTS TO P…
-- 10/01 06:22 [financialjuice] OpenAI executive withdraws second $25 million contribution to AI super PAC: NYT
-- 10/01 06:22 [financialjuice] OpenAI's Greg Brockman withdraws from second $25 million donation to a super PAC - NYT
-- 10/01 06:22 [financialjuice] US energy secretary Wright: will make some announcements on diesel
-- 10/01 06:23 [financialjuice] US energy secretary Wright: to receive updates from Europe on fresh diesel supplies
-- 10/01 06:23 [financialjuice/FirstSquawk] Climate change causes 6C temperature rise per decade, experts warn
 - 10/01 06:25 [FirstSquawk] US ENERGY SECRETARY WRIGHT: DIESEL SUPPLY ANNOUNCEMENTS EXPECTED FROM US & EUROPE
+- 10/01 06:27 [FirstSquawk] CLIMATE CHANGE CAUSES 6C TEMPERATURE RISE PER DECADE, EXPERTS WARN
 - 10/01 06:28 [FirstSquawk] YEMENI FORCES DESTROYED AN IRANIAN-DEVELOPED MOBILE AIR DEFENCE SYSTEM IN AL-MOKHA - AL ARABIYA, WITH THE YEMENI ARMED FORCES SAYING THEY DESTROYED HOUTHI REINFORCEMENTS AND WEAPONS
 - 10/01 06:29 [FirstSquawk] TRUMP SAYS ON LONG-TERM TREASURY AUCTIONS THAT BESSENT 'HAS GOOD INSTINCTS', AND THAT HE IS CONSIDERING A DIESEL EXPORT BAN DAILY, THOUGH IT COULD HAVE A NEGATIVE IMPACT ON GASOLINE, ADDING THAT THE U.S. HAS 'TOTAL CONTROL OF THE STRAIT OF …
 - 10/01 06:29 [FirstSquawk] TRUMP SAYS ON CHINA AND AI THAT 'THEY'RE GOING FULL BLAST'.
@@ -406,3 +393,11 @@
 - 10/01 17:58 [FirstSquawk] JAPAN'S ECONOMY MINISTER KIUCHI REFUSED TO COMMENT ON THE BANK OF JAPAN'S SUMMARY OF OPINIONS.
 - 10/01 17:58 [FirstSquawk] JAPAN'S ECONOMY MINISTER KIUCHI STATES THAT THE DECISION ON SPECIFIC MONETARY TOOLS RESTS WITH THE BANK OF JAPAN.
 - 10/01 18:00 [financialjuice] ❗ EUROZONE UNEMPLOYMENT RATE ACTUAL 6.4% (FORECAST 6.4%, PREVIOUS 6.4%) $MACRO
+- 10/01 18:01 [financialjuice/FirstSquawk] Hawley, Murphy to introduce AI liability legislation - Axios.
+- 10/01 18:17 [financialjuice] Latest UK sanctions against Russian military & intelligence officers alleged to have mistreated civilians in Ukraine
+- 10/01 18:17 [financialjuice] Latest UK sanctions also target ships believed to be involved in carrying Russian liquefied natural gas
+- 10/01 18:17 [financialjuice] New UK sanctions target Russia LNG shadow fleet vessels
+- 10/01 18:17 [financialjuice] UK sanctions target Russian perpetrators of civilian torture
+- 10/01 18:19 [FirstSquawk] UK FOREIGN OFFICE ANNOUNCED 23 NEW DESIGNATIONS AND 8 NEW SPECIFICATIONS UNDER THE RUSSIA SANCTIONS REGIME.
+- 10/01 18:19 [FirstSquawk] UK IMPOSES NEW SANCTIONS ON RUSSIAN MILITARY AND INTELLIGENCE OFFICERS ACCUSED OF ABUSING CIVILIANS IN UKRAINE.
+- 10/01 18:19 [FirstSquawk] NEW UK SANCTIONS AIM AT VESSELS SUSPECTED OF TRANSPORTING RUSSIAN LIQUEFIED NATURAL GAS.
