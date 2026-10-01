@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 20:01 JST／対象: 10/01 14:01 〜 10/01 20:01 JST（時刻はすべて日本時間）
+生成: 2026-10-01 20:22 JST／対象: 10/01 14:22 〜 10/01 20:22 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 18 | 10/01 16:25 | 10/01 19:33 | 37分（17:52→18:30） |
-| FirstSquawk | 81 | 10/01 14:06 | 10/01 19:59 | ⚠ 53分（18:34→19:28） |
-| financialjuice | 57 | 10/01 14:07 | 10/01 19:33 | ⚠ 52分（14:07→15:00） |
+| DeItaone | 23 | 10/01 16:25 | 10/01 20:15 | 37分（17:52→18:30） |
+| FirstSquawk | 77 | 10/01 14:25 | 10/01 20:07 | ⚠ 53分（18:34→19:28） |
+| financialjuice | 65 | 10/01 15:00 | 10/01 20:19 | 44分（18:40→19:25） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 155 行（統合前 156 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 162 行（統合前 165 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 14:06 [FirstSquawk] BNP Paribas expands Nordic wealth management operations, names Stina Norrhede regional head
-- 10/01 14:06 [FirstSquawk] BNP Paribas targets UHNW clients, entrepreneurs and family offices in Nordic expansion
-- 10/01 14:07 [financialjuice] DUTCH RETAIL SALES YOY ACTUAL 2.5% (FORECAST -, PREVIOUS 3.2%) $MACRO
-- 10/01 14:08 [FirstSquawk] US equity futures strengthen, with S&P 500 futures up 0.6% and Nasdaq futures 1.0%
-- 10/01 14:11 [FirstSquawk] XPeng reports September vehicle deliveries of 41,256, up 5% m/m
-- 10/01 14:13 [FirstSquawk] Japan business leaders prepare for China visit in March — Kyodo
 - 10/01 14:25 [FirstSquawk] Russian Defence Ministry says forces targeted cargo vessel at Chornomorsk port, logistics centre in Kyiv — Interfax
 - 10/01 14:32 [FirstSquawk] Essar: Trump announces $18 billion Mesabi Metallics investment to build fully integrated American steel company
 - 10/01 14:37 [FirstSquawk] Hungary’s MOL gets approval to continue NIS talks until Oct. 30
@@ -179,3 +173,16 @@
 - 10/01 19:52 [FirstSquawk] Accenture Q4 2026 Earnings - EPS $3.29 ($2.25 Y/Y) - Rev 18.7B (est 18.03B) - Sees 2027 Rev +3% To +6% - Sees 2027 EPS $14.39 To $14.81
 - 10/01 19:53 [FirstSquawk] EU COMMISSION OFFICIAL: EU, UK, FRANCE, ITALY, IRELAND CURRENTLY HOLDING CALL ON DIESEL STOCK RELEASES
 - 10/01 19:59 [FirstSquawk] EU SPOX: UP TO UK TO DECIDE HOW TO MANAGE, DEVELOP EU TIES
+- 10/01 20:02 [financialjuice] The EU is talking to some European states and the UK about the diesel situation
+- 10/01 20:03 [financialjuice] Trump to Time: I liked Anthropic CEO Amodei a lot
+- 10/01 20:06 [financialjuice/DeItaone] Trump sees ramping up bombing Iran after midterms possible - Time
+- 10/01 20:07 [financialjuice/DeItaone] Trump to Time: Some forms of ammunition are a little bit lower
+- 10/01 20:07 [FirstSquawk] TRUMP SAYS 'PRETTY BAD' THEY KEEP RAISING INTEREST RATES
+- 10/01 20:08 [DeItaone] *TRUMP SAYS HE 'DOESN'T BLAME KEVIN' ON INTEREST RATES: TIME
+- 10/01 20:10 [financialjuice] Trump to Time: We'll soon be filling up strategic oil reserves
+- 10/01 20:10 [financialjuice] Trump: High rates hurting economy more than inflation - Time
+- 10/01 20:10 [financialjuice] Trump: Certain levels of inflation help pay off debt - Time
+- 10/01 20:14 [DeItaone] TOTALENERGIES TO INVEST $10 BILLION IN ARGENTINA, CEO POUYANNE SAYS
+- 10/01 20:14 [financialjuice] ECB's Nagel, on rise in bond yields - All ECB instruments are for delivering price stability, not for certain yield levels
+- 10/01 20:15 [DeItaone] *TRUMP TO TIME: WE'LL SOON BE FILLING UP STRATEGIC OIL RESERVE
+- 10/01 20:19 [financialjuice] Trump: Dinner with Anthropic CEO Amodei lasted more than two hours - Time

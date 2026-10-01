@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-01 20:01 JST／対象: 10/01 08:01 〜 10/01 20:01 JST（時刻はすべて日本時間）
+生成: 2026-10-01 20:22 JST／対象: 10/01 08:22 〜 10/01 20:22 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 18 | 10/01 16:25 | 10/01 19:33 | 37分（17:52→18:30） |
-| FirstSquawk | 194 | 10/01 08:44 | 10/01 19:59 | ⚠ 53分（18:34→19:28） |
-| financialjuice | 163 | 10/01 08:05 | 10/01 19:33 | ⚠ 52分（14:07→15:00） |
+| DeItaone | 23 | 10/01 16:25 | 10/01 20:15 | 37分（17:52→18:30） |
+| FirstSquawk | 195 | 10/01 08:44 | 10/01 20:07 | ⚠ 53分（18:34→19:28） |
+| financialjuice | 164 | 10/01 08:36 | 10/01 20:19 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 373 行（統合前 375 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 378 行（統合前 382 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 08:05 [financialjuice] Fed's Kashkari: keen to see outcomes from central bank task forces
-- 10/01 08:05 [financialjuice] Doubts an investment poses systemic risk
-- 10/01 08:05 [financialjuice] Fed says swap lines are part of monetary policy execution
-- 10/01 08:05 [financialjuice] Rise in bond yields is a global trend
-- 10/01 08:05 [financialjuice] AUSTRALIAN MANUFACTURING PMI FINAL ACTUAL 49.6 (FORECAST -, PREVIOUS 49.3) $MACRO
-- 10/01 08:11 [financialjuice] Eager to see outcomes from Fed task forces
-- 10/01 08:11 [financialjuice] Skyworks extends expiration date of exchange offers for Gorvo’s senior notes due 2029 and 2031
-- 10/01 08:17 [financialjuice] Meta names Dhruv Vohra managing director of global business group in Southeast Asia
 - 10/01 08:36 [financialjuice] S.Korea finance minister: will closely watch financial markets, take pre-emptive steps if necessary
 - 10/01 08:43 [financialjuice] Colombia's autonomous fiscal rule committee sees 7.8% GDP deficit for 2026, 9.5% for 2027: report
 - 10/01 08:43 [financialjuice] Fed's Kashkari: can't second-guess how market investment occurs
@@ -397,3 +389,16 @@
 - 10/01 19:52 [FirstSquawk] Accenture Q4 2026 Earnings - EPS $3.29 ($2.25 Y/Y) - Rev 18.7B (est 18.03B) - Sees 2027 Rev +3% To +6% - Sees 2027 EPS $14.39 To $14.81
 - 10/01 19:53 [FirstSquawk] EU COMMISSION OFFICIAL: EU, UK, FRANCE, ITALY, IRELAND CURRENTLY HOLDING CALL ON DIESEL STOCK RELEASES
 - 10/01 19:59 [FirstSquawk] EU SPOX: UP TO UK TO DECIDE HOW TO MANAGE, DEVELOP EU TIES
+- 10/01 20:02 [financialjuice] The EU is talking to some European states and the UK about the diesel situation
+- 10/01 20:03 [financialjuice] Trump to Time: I liked Anthropic CEO Amodei a lot
+- 10/01 20:06 [financialjuice/DeItaone] Trump sees ramping up bombing Iran after midterms possible - Time
+- 10/01 20:07 [financialjuice/DeItaone] Trump to Time: Some forms of ammunition are a little bit lower
+- 10/01 20:07 [FirstSquawk] TRUMP SAYS 'PRETTY BAD' THEY KEEP RAISING INTEREST RATES
+- 10/01 20:08 [DeItaone] *TRUMP SAYS HE 'DOESN'T BLAME KEVIN' ON INTEREST RATES: TIME
+- 10/01 20:10 [financialjuice] Trump to Time: We'll soon be filling up strategic oil reserves
+- 10/01 20:10 [financialjuice] Trump: High rates hurting economy more than inflation - Time
+- 10/01 20:10 [financialjuice] Trump: Certain levels of inflation help pay off debt - Time
+- 10/01 20:14 [DeItaone] TOTALENERGIES TO INVEST $10 BILLION IN ARGENTINA, CEO POUYANNE SAYS
+- 10/01 20:14 [financialjuice] ECB's Nagel, on rise in bond yields - All ECB instruments are for delivering price stability, not for certain yield levels
+- 10/01 20:15 [DeItaone] *TRUMP TO TIME: WE'LL SOON BE FILLING UP STRATEGIC OIL RESERVE
+- 10/01 20:19 [financialjuice] Trump: Dinner with Anthropic CEO Amodei lasted more than two hours - Time

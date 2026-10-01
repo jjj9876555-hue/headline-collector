@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-01 20:01 JST／対象: 09/30 20:01 〜 10/01 20:01 JST（時刻はすべて日本時間）
+生成: 2026-10-01 20:22 JST／対象: 09/30 20:22 〜 10/01 20:22 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 80 | 09/30 20:01 | 10/01 19:33 | ⚠ 610分（06:15→16:25） |
-| FirstSquawk | 341 | 09/30 20:14 | 10/01 19:59 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 356 | 09/30 20:32 | 10/01 19:33 | ⚠ 52分（14:07→15:00） |
+| DeItaone | 82 | 09/30 20:30 | 10/01 20:15 | ⚠ 610分（06:15→16:25） |
+| FirstSquawk | 341 | 09/30 20:30 | 10/01 20:07 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 365 | 09/30 20:32 | 10/01 20:19 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 759 行（統合前 779 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 768 行（統合前 790 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 20:01 [DeItaone] U.S. MORTGAGE RATES SURGE TO 7.30% The average 30-year fixed mortgage contract rate climbed to 7.30%, up 18 basis points in one week and 84 basis points year-over-year, according to the MBA. The 15-year fixed rate rose to 6.56%, while the 5…
-- 09/30 20:12 [DeItaone] GOLDMAN: GULF OIL EXPORTS FULLY RECOVER TO 2025 LEVELS Persian Gulf oil exports have doubled in September, reaching 23.3 million barrels per day, according to Goldman Sachs. Crude shipments have recovered to 108% of their 2025 average, but …
-- 09/30 20:13 [DeItaone] GOLDMAN: U.S. PENSION FUNDS SET TO SELL $33 BILLION IN STOCKS Goldman Sachs estimates $33 billion in U.S. pension fund equity selling around September month-end, a flow ranking in the 98th percentile since 2000. Meanwhile, systematic CTAs c…
-- 09/30 20:14 [FirstSquawk] AI BOOM DRIVES ROBOT MAKERS FANUC, YASKAWA TO STEP UP SHIFT FROM CHINA TO US || JAPANESE COMPANIES WEIGH LOCAL PRODUCTION, BUT SUPPLY CHAIN CONCERNS REMAIN
 - 09/30 20:30 [FirstSquawk] PORSCHE SE SAYS GERMAN COURT HAS DISMISSED $6.1 BILLION LAWSUIT BROUGHT BY INVESTORS
 - 09/30 20:30 [DeItaone] *BURNHAM: COULD GO ALL THE WAY AND REJOIN EU
 - 09/30 20:32 [financialjuice] Poll: Brent crude oil projected to average $89.05 a barrel in 2026 versus $85.08 forecast in August
@@ -783,3 +779,16 @@
 - 10/01 19:52 [FirstSquawk] Accenture Q4 2026 Earnings - EPS $3.29 ($2.25 Y/Y) - Rev 18.7B (est 18.03B) - Sees 2027 Rev +3% To +6% - Sees 2027 EPS $14.39 To $14.81
 - 10/01 19:53 [FirstSquawk] EU COMMISSION OFFICIAL: EU, UK, FRANCE, ITALY, IRELAND CURRENTLY HOLDING CALL ON DIESEL STOCK RELEASES
 - 10/01 19:59 [FirstSquawk] EU SPOX: UP TO UK TO DECIDE HOW TO MANAGE, DEVELOP EU TIES
+- 10/01 20:02 [financialjuice] The EU is talking to some European states and the UK about the diesel situation
+- 10/01 20:03 [financialjuice] Trump to Time: I liked Anthropic CEO Amodei a lot
+- 10/01 20:06 [financialjuice/DeItaone] Trump sees ramping up bombing Iran after midterms possible - Time
+- 10/01 20:07 [financialjuice/DeItaone] Trump to Time: Some forms of ammunition are a little bit lower
+- 10/01 20:07 [FirstSquawk] TRUMP SAYS 'PRETTY BAD' THEY KEEP RAISING INTEREST RATES
+- 10/01 20:08 [DeItaone] *TRUMP SAYS HE 'DOESN'T BLAME KEVIN' ON INTEREST RATES: TIME
+- 10/01 20:10 [financialjuice] Trump to Time: We'll soon be filling up strategic oil reserves
+- 10/01 20:10 [financialjuice] Trump: High rates hurting economy more than inflation - Time
+- 10/01 20:10 [financialjuice] Trump: Certain levels of inflation help pay off debt - Time
+- 10/01 20:14 [DeItaone] TOTALENERGIES TO INVEST $10 BILLION IN ARGENTINA, CEO POUYANNE SAYS
+- 10/01 20:14 [financialjuice] ECB's Nagel, on rise in bond yields - All ECB instruments are for delivering price stability, not for certain yield levels
+- 10/01 20:15 [DeItaone] *TRUMP TO TIME: WE'LL SOON BE FILLING UP STRATEGIC OIL RESERVE
+- 10/01 20:19 [financialjuice] Trump: Dinner with Anthropic CEO Amodei lasted more than two hours - Time
