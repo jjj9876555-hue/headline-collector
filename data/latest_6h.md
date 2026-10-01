@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-02 05:05 JST／対象: 10/01 23:05 〜 10/02 05:05 JST（時刻はすべて日本時間）
+生成: 2026-10-02 05:29 JST／対象: 10/01 23:29 〜 10/02 05:29 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 50 | 10/01 23:06 | 10/02 03:42 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 114 | 10/01 23:07 | 10/02 05:04 | 39分（01:52→02:31） |
-| financialjuice | 175 | 10/01 23:09 | 10/02 05:05 | 17分（03:38→03:56） |
+| DeItaone | 49 | 10/02 01:02 | 10/02 05:19 | ⚠ 96分（03:42→05:19） |
+| FirstSquawk | 116 | 10/01 23:29 | 10/02 05:17 | 39分（01:52→02:31） |
+| financialjuice | 176 | 10/01 23:30 | 10/02 05:19 | 17分（03:38→03:56） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 314 行（統合前 342 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 316 行（統合前 344 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 23:06 [DeItaone] U.S. TREASURY YIELDS EXTEND GAINS; YIELD ON 10-YEAR TREASURY NOTE LAST UP 4.72 BASIS POINTS AT 5.34% TWO-YEAR U.S. TREASURY YIELDS, LAST FLAT AT 4.883%
-- 10/01 23:07 [FirstSquawk] U.S. TREASURY YIELDS EXTEND GAINS; YIELD ON 10-YEAR TREASURY NOTE LAST UP 4.72 BASIS POINTS AT 5.34%
-- 10/01 23:07 [FirstSquawk] TWO-YEAR U.S. TREASURY YIELDS, LAST FLAT AT 4.883%
-- 10/01 23:09 [financialjuice/FirstSquawk] Turkey and UN steer new talks on Russia-Ukraine Black Sea truce
-- 10/01 23:17 [FirstSquawk] ITALY-GERMANY 10-YEAR YIELD SPREAD WIDENS 10BPS TO 113BPS
-- 10/01 23:17 [financialjuice] Kremlin's Peskov: No signals yet about Russia-USA-China summit - IFX
-- 10/01 23:18 [financialjuice] Fear & Greed Index: 29/100 - Fear
-- 10/01 23:18 [FirstSquawk] PESKOV: THERE HAVE BEEN NO SIGNALS YET ABOUT A TRILATERAL RUSSIA-US-CHINA SUMMIT – IFX
-- 10/01 23:18 [FirstSquawk] PESKOV: A MEETING BETWEEN PUTIN AND TRUMP ON THE SIDELINES OF APEC WOULD BE ESSENTIAL FOR THE ENTIRE WORLD
-- 10/01 23:18 [FirstSquawk] PESKOV: PUTIN WOULD BE HAPPY TO MEET TRUMP
-- 10/01 23:19 [DeItaone] TRUMP: DISCUSSED RELEASE OF POLITICAL PRISONERS WITH CHINA'S XI
-- 10/01 23:19 [financialjuice] Crypto Fear & Greed Index: 74/100 - Greed
-- 10/01 23:23 [financialjuice] Meta: Introduces ray-ban meta audio and announces Muse AI agent for AI glasses. $META
 - 10/01 23:29 [FirstSquawk] SPOT PALLADIUM FALLS OVER 3% TO $1,161.93/OZ
 - 10/01 23:30 [FirstSquawk] US NATURAL GAS STORAGE ACTUAL: 64 VS 53 PREVIOUS; EST 63
 - 10/01 23:30 [financialjuice] EIA NATURAL GAS CHANGE BCF ACTUAL 64B (FORECAST 63B, PREVIOUS 53B) $MACRO
@@ -337,4 +324,19 @@
 - 10/02 05:04 [FirstSquawk] FED'S COOK SAYS THE TOP RISK FOR 2027 IS AI, WHICH IS 'ALREADY CAUSING INFLATIONARY PRESSURE, NOT SLOWING DOWN', ADDING THAT SHE WORRIES ABOUT WHEN THE PRODUCTIVITY GAINS THAT COULD OFFSET THAT INFLATION WILL COME.
 - 10/02 05:04 [FirstSquawk] FED'S COOK SAYS PRIVATE CREDIT IS NOT HAVING A MAJOR IMPACT ON FINANCIAL STABILITY.
 - 10/02 05:04 [financialjuice] BoC's Senior Dep. Gov. Rogers: Build-up in regulation is holding back Canada's economy. We need to think about streamlining regulation in Canada.
-- 10/02 05:05 [financialjuice] US SEC proposes rules on investment advisor custody of crypto assets.
+- 10/02 05:05 [financialjuice/FirstSquawk] US SEC proposes rules on investment advisor custody of crypto assets.
+- 10/02 05:08 [FirstSquawk] U.S. STOCKS RECOVERED AS 10-YEAR TREASURY YIELDS FELL FIVE BASIS POINTS TO 5.24%, EASING PRESSURE FROM THE RECENT BOND SELLOFF, WITH THE S&P 500 UP 0.2% AND THE NASDAQ 100 GAINING 0.3%, WHILE OIL CLIMBED 2.9% TO $93.08 AMID GEOPOLITICAL RIS…
+- 10/02 05:08 [FirstSquawk] FED VICE CHAIR PHILIP JEFFERSON SAID POLICYMAKERS MAY NEED MORE TIME TO ASSESS WHETHER FURTHER RATE HIKES ARE NECESSARY, WHILE NY FED PRESIDENT JOHN WILLIAMS SAID THERE WAS NO URGENCY FOR ANOTHER INCREASE, AS JOBLESS CLAIMS FELL TO THEIR LO…
+- 10/02 05:09 [FirstSquawk] MARKETS NOW AWAIT FRIDAY'S PAYROLLS REPORT, WITH ECONOMISTS EXPECTING 88,000 NEW JOBS AND A 4.1% UNEMPLOYMENT RATE, AS ANTHROPIC POTENTIALLY TARGETS AN IPO AS EARLY AS NOVEMBER, BROADCOM OFFERS UP TO $42 BLN IN CHIP FINANCING TO ANTHROPIC, …
+- 10/02 05:09 [FirstSquawk] PARAMOUNT SKYDANCE SAYS NEW CO-CEO YNON KREIZ WILL HAVE AN ANNUAL BASE SALARY SET AT $3.50 MLN — INCREASING TO $5 MLN AFTER THE MERGER — AND AN ANNUAL BONUS TARGETED AT $1.50 MLN, RISING TO $4.90 MLN AFTER THE MERGER.
+- 10/02 05:09 [FirstSquawk] PARAMOUNT SKYDANCE SAYS KREIZ WILL RECEIVE 2,625,000 FULLY-VESTED RSUS AS A SIGNING AWARD AND 1,250,000 RSUS AS A PRE-CLOSING AWARD, ALONG WITH ANNUAL EQUITY AWARDS VALUED AT $15 MLN, INCREASING TO $20.10 MLN AFTER THE MERGER - SEC FILING
+- 10/02 05:11 [financialjuice] Fed's Cook: AI could potentially help the Fed make better use of data.
+- 10/02 05:12 [financialjuice] Fed's Williams: AI is affecting supply in ways we don't fully understand.
+- 10/02 05:16 [FirstSquawk] NIKE POSTED Q1 EPS OF $0.48, ABOVE THE $0.44 ESTIMATE BUT DOWN FROM $0.49 A YEAR EARLIER, WITH REVENUE OF $11.21 BLN BELOW THE $11.33 BLN ESTIMATE AND NIKE BRAND REVENUE OF $10.95 BLN VERSUS $11.09 BLN EXPECTED.
+- 10/02 05:16 [FirstSquawk] NIKE POSTED A GROSS MARGIN OF 42.8%, UP FROM 42.2% A YEAR EARLIER, WITH GREATER CHINA EBIT OF $248 MLN MISSING THE $312.2 MLN ESTIMATE AND INVENTORY OF $7.80 BLN.
+- 10/02 05:17 [financialjuice] $NKE Nike Q1 Earnings EPS $0.48, est. $0.44, vs. $0.49 y/y Revenue $11.21B, est. $11.33B Nike Brand revenue $10.95B, est. $11.09B Gross margin 42.8%, vs. 42.2% y/y Greater China EBIT $248M, est. $312.2M Inventory $7.80B, est. $7.96B Expects…
+- 10/02 05:17 [FirstSquawk] NIKE SAYS IT EXPECTS FY27 REVENUE TO DECLINE HIGH-SINGLE DIGITS, WITH ADJUSTED EPS OF $1.15 TO $1.35 FOR FISCAL 2027, AND INVENTORY OF $7.80 BLN VERSUS A $7.96 BLN ESTIMATE
+- 10/02 05:17 [financialjuice] Trump: I may ask Europe to release diesel supplies.
+- 10/02 05:18 [financialjuice] Trump: Iran will be ending soon, one way or the other.
+- 10/02 05:19 [financialjuice] Trump, asked about Iran's involvement in the UK base: Looks like it.
+- 10/02 05:19 [DeItaone] TRUMP: MAY ASK EUROPEAN COUNTRIES TO RELEASE DIESEL STOCKS

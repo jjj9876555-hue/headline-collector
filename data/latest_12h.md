@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-02 05:05 JST／対象: 10/01 17:05 〜 10/02 05:05 JST（時刻はすべて日本時間）
+生成: 2026-10-02 05:29 JST／対象: 10/01 17:29 〜 10/02 05:29 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 89 | 10/01 17:14 | 10/02 03:42 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 179 | 10/01 17:17 | 10/02 05:04 | ⚠ 53分（18:34→19:28） |
-| financialjuice | 291 | 10/01 17:08 | 10/02 05:05 | 44分（18:40→19:25） |
+| DeItaone | 87 | 10/01 17:29 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
+| FirstSquawk | 184 | 10/01 17:30 | 10/02 05:17 | ⚠ 53分（18:34→19:28） |
+| financialjuice | 295 | 10/01 17:30 | 10/02 05:19 | 44分（18:40→19:25） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 524 行（統合前 564 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 530 行（統合前 572 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 17:08 [financialjuice] French PM aims for 43 billion euros in fresh budget savings - BFM TV
-- 10/01 17:14 [DeItaone] 🇫🇷 FRENCH 5-YEAR CDS HIT 71.6 BPS, HIGHEST SINCE JULY 2013, AS BONDS SELL OFF
-- 10/01 17:17 [FirstSquawk] FTSE 100 INDEX DROPS 2% TO 10,393.83.
-- 10/01 17:19 [DeItaone] ITALY'S 10-YEAR GOVERNMENT BOND YIELDS REACH HIGHEST SINCE NOVEMBER 2023 AT 4.7232%, UP 10 BPS
-- 10/01 17:22 [FirstSquawk] BIROL STATES THAT THE DIESEL SITUATION IN EUROPE AND OTHER REGIONS IS QUITE TIGHT.
-- 10/01 17:22 [FirstSquawk] COMMERZBANK CEO ORLOPP INDICATES GREATER DEMAND FOR FINANCING IS EMERGING.
-- 10/01 17:24 [DeItaone] *BIROL SAYS DIESEL SITUATION IS VERY TIGHT IN EUROPE AND BEYOND
-- 10/01 17:28 [FirstSquawk] TAKAICHI: SIGNS OF ECONOMIC CHANGE AT CRITICAL JUNCTURE
-- 10/01 17:28 [financialjuice] Japan's PM Takaichi: Signs of economic change at critical juncture.
 - 10/01 17:29 [DeItaone] CBOE VOLATILITY INDEX HITS OVER TWO-WEEK HIGH; LAST UP 0.5 POINTS AT 16.86
 - 10/01 17:30 [financialjuice] ‼ BREAKING: UK MANUFACTURING PMI FINAL ACTUAL 51.9 (FORECAST 52, PREVIOUS 52.0) $MACRO
 - 10/01 17:30 [financialjuice] Japan's PM Takaichi: Domestic investment vital for higher potential growth.
@@ -547,4 +538,19 @@
 - 10/02 05:04 [FirstSquawk] FED'S COOK SAYS THE TOP RISK FOR 2027 IS AI, WHICH IS 'ALREADY CAUSING INFLATIONARY PRESSURE, NOT SLOWING DOWN', ADDING THAT SHE WORRIES ABOUT WHEN THE PRODUCTIVITY GAINS THAT COULD OFFSET THAT INFLATION WILL COME.
 - 10/02 05:04 [FirstSquawk] FED'S COOK SAYS PRIVATE CREDIT IS NOT HAVING A MAJOR IMPACT ON FINANCIAL STABILITY.
 - 10/02 05:04 [financialjuice] BoC's Senior Dep. Gov. Rogers: Build-up in regulation is holding back Canada's economy. We need to think about streamlining regulation in Canada.
-- 10/02 05:05 [financialjuice] US SEC proposes rules on investment advisor custody of crypto assets.
+- 10/02 05:05 [financialjuice/FirstSquawk] US SEC proposes rules on investment advisor custody of crypto assets.
+- 10/02 05:08 [FirstSquawk] U.S. STOCKS RECOVERED AS 10-YEAR TREASURY YIELDS FELL FIVE BASIS POINTS TO 5.24%, EASING PRESSURE FROM THE RECENT BOND SELLOFF, WITH THE S&P 500 UP 0.2% AND THE NASDAQ 100 GAINING 0.3%, WHILE OIL CLIMBED 2.9% TO $93.08 AMID GEOPOLITICAL RIS…
+- 10/02 05:08 [FirstSquawk] FED VICE CHAIR PHILIP JEFFERSON SAID POLICYMAKERS MAY NEED MORE TIME TO ASSESS WHETHER FURTHER RATE HIKES ARE NECESSARY, WHILE NY FED PRESIDENT JOHN WILLIAMS SAID THERE WAS NO URGENCY FOR ANOTHER INCREASE, AS JOBLESS CLAIMS FELL TO THEIR LO…
+- 10/02 05:09 [FirstSquawk] MARKETS NOW AWAIT FRIDAY'S PAYROLLS REPORT, WITH ECONOMISTS EXPECTING 88,000 NEW JOBS AND A 4.1% UNEMPLOYMENT RATE, AS ANTHROPIC POTENTIALLY TARGETS AN IPO AS EARLY AS NOVEMBER, BROADCOM OFFERS UP TO $42 BLN IN CHIP FINANCING TO ANTHROPIC, …
+- 10/02 05:09 [FirstSquawk] PARAMOUNT SKYDANCE SAYS NEW CO-CEO YNON KREIZ WILL HAVE AN ANNUAL BASE SALARY SET AT $3.50 MLN — INCREASING TO $5 MLN AFTER THE MERGER — AND AN ANNUAL BONUS TARGETED AT $1.50 MLN, RISING TO $4.90 MLN AFTER THE MERGER.
+- 10/02 05:09 [FirstSquawk] PARAMOUNT SKYDANCE SAYS KREIZ WILL RECEIVE 2,625,000 FULLY-VESTED RSUS AS A SIGNING AWARD AND 1,250,000 RSUS AS A PRE-CLOSING AWARD, ALONG WITH ANNUAL EQUITY AWARDS VALUED AT $15 MLN, INCREASING TO $20.10 MLN AFTER THE MERGER - SEC FILING
+- 10/02 05:11 [financialjuice] Fed's Cook: AI could potentially help the Fed make better use of data.
+- 10/02 05:12 [financialjuice] Fed's Williams: AI is affecting supply in ways we don't fully understand.
+- 10/02 05:16 [FirstSquawk] NIKE POSTED Q1 EPS OF $0.48, ABOVE THE $0.44 ESTIMATE BUT DOWN FROM $0.49 A YEAR EARLIER, WITH REVENUE OF $11.21 BLN BELOW THE $11.33 BLN ESTIMATE AND NIKE BRAND REVENUE OF $10.95 BLN VERSUS $11.09 BLN EXPECTED.
+- 10/02 05:16 [FirstSquawk] NIKE POSTED A GROSS MARGIN OF 42.8%, UP FROM 42.2% A YEAR EARLIER, WITH GREATER CHINA EBIT OF $248 MLN MISSING THE $312.2 MLN ESTIMATE AND INVENTORY OF $7.80 BLN.
+- 10/02 05:17 [financialjuice] $NKE Nike Q1 Earnings EPS $0.48, est. $0.44, vs. $0.49 y/y Revenue $11.21B, est. $11.33B Nike Brand revenue $10.95B, est. $11.09B Gross margin 42.8%, vs. 42.2% y/y Greater China EBIT $248M, est. $312.2M Inventory $7.80B, est. $7.96B Expects…
+- 10/02 05:17 [FirstSquawk] NIKE SAYS IT EXPECTS FY27 REVENUE TO DECLINE HIGH-SINGLE DIGITS, WITH ADJUSTED EPS OF $1.15 TO $1.35 FOR FISCAL 2027, AND INVENTORY OF $7.80 BLN VERSUS A $7.96 BLN ESTIMATE
+- 10/02 05:17 [financialjuice] Trump: I may ask Europe to release diesel supplies.
+- 10/02 05:18 [financialjuice] Trump: Iran will be ending soon, one way or the other.
+- 10/02 05:19 [financialjuice] Trump, asked about Iran's involvement in the UK base: Looks like it.
+- 10/02 05:19 [DeItaone] TRUMP: MAY ASK EUROPEAN COUNTRIES TO RELEASE DIESEL STOCKS
