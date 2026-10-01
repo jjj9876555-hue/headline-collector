@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-02 00:03 JST／対象: 10/01 00:03 〜 10/02 00:03 JST（時刻はすべて日本時間）
+生成: 2026-10-02 00:29 JST／対象: 10/01 00:29 〜 10/02 00:29 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 78 | 10/01 00:48 | 10/01 23:19 | ⚠ 610分（06:15→16:25） |
-| FirstSquawk | 333 | 10/01 00:08 | 10/01 23:52 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 390 | 10/01 00:08 | 10/02 00:02 | ⚠ 52分（14:07→15:00） |
+| FirstSquawk | 346 | 10/01 00:31 | 10/02 00:27 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 395 | 10/01 00:31 | 10/02 00:22 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 779 行（統合前 806 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 797 行（統合前 824 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 00:08 [financialjuice] Senate Republican Leader Thune: Congress may raise debt limit after election
-- 10/01 00:08 [FirstSquawk] SIKORSKY, US ARMY REACH NOVEL PRODUCTION AGREEMENT FOR BLACK HAWK HELICOPTER TO ACCELERATE US AND ALLIED FIELDING - LMT
-- 10/01 00:13 [financialjuice] SNB's Governing Board Member Tschudin: Stablecoins and lower connection to the two-level finance system make the transmission of monetary policy more difficult
-- 10/01 00:20 [FirstSquawk] COREWEAVE CEO: NEW CLOUD PRODUCT FORGE SEEN BOOSTING MARGINS
-- 10/01 00:25 [financialjuice] Pakistan Defense Minister Asif: Pakistan will use all possible means to defend Saudi Arabia against what he calls foreign aggression - IRNA
-- 10/01 00:26 [financialjuice] Pakistan Defense Minister Asif declines to comment on potential Pakistani involvement in Saudi-led attacks on Yemen - IRNA
 - 10/01 00:31 [financialjuice] Smoke plumes in the Qatif region of Saudi Arabia - Iran's Mehr News
 - 10/01 00:31 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 0.24%; GERMANY'S DAX DOWN 0.74%
 - 10/01 00:31 [FirstSquawk] FRANCE'S CAC 40 DOWN 0.93%; SPAIN'S IBEX DOWN 0.36%
@@ -803,3 +797,27 @@
 - 10/02 00:01 [financialjuice] IMF Spokesperson: We've seen a big decline in inflation over the last few years, strengthening of external position as reserves have accumulated, quite a lot of fiscal discipline, moving from deficit into fiscal surplus.
 - 10/02 00:01 [financialjuice] US Treasury Auctions Summary October 5 auctions (settle October 8): - US to sell $95 bln 3-month bills - US to sell $82 bln 6-month bills October 6 auctions (settle October 15): - US to sell $58 bln 3-year notes October 7 auctions (settle O…
 - 10/02 00:02 [financialjuice] US Treasury: Will buy up to $6 bln of 10-20 Year debt in October 1st liquidity buyback.
+- 10/02 00:04 [FirstSquawk] IMF STAFF WORKING TO BRING COMBINED SECOND AND THIRD REVIEW FOR UKRAINE PROGRAM TO EXECUTIVE BOARD BY DECEMBER
+- 10/02 00:04 [FirstSquawk] IMF SAYS BOARD REVIEW OF UKRAINE PROGRAM SUBJECT TO "SUFFICIENT AND CREDIBLE FINANCING ASSURANCES" TO CLOSE PROJECTED FINANCING GAP ON TERMS COMPATIBLE WITH DEBT SUSTAINABILITY
+- 10/02 00:04 [FirstSquawk] IMF SAYS SIZE OF UKRAINE'S FINANCING GAP DEPENDS ON WAR, REFORMS, ECONOMIC DEVELOPMENTS AND SUPPORT FROM INTERNATIONAL PARTNERS
+- 10/02 00:10 [financialjuice] Canada's Carney: New pipeline to reduce reliance on oil exports to US; Roberts Bank terminal expansion planned to export more crude
+- 10/02 00:10 [FirstSquawk] CANADA IS DESIGNATING THE PROPOSED WEST COAST OIL PIPELINE AS A PROJECT OF NATIONAL INTEREST - PRIME MINISTER CARNEY
+- 10/02 00:10 [FirstSquawk] CANADA'S MAJOR PROJECTS OFFICE IS AIMING TO COMPLETE ALL NECESSARY REVIEWS AND CONSULTATIONS BY SEPT 1, 2027 - CARNEY
+- 10/02 00:11 [FirstSquawk] FORMAL OPEN SEASON PROCESS TO GAUGE SHIPPER INTEREST IN PIPELINE WILL TAKE PLACE IN SPRING 2027 - SENIOR GOVERNMENT OFFICIAL
+- 10/02 00:11 [FirstSquawk] PIPELINE WILL CREATE 140,000 JOBS, GENERATE OVER C$20 BILLION IN GDP PER YEAR, AND C$100 BILLION IN GOVERNMENT REVENUE BY 2060 - CARNEY
+- 10/02 00:14 [financialjuice] Germany’s Chancellor Merz: Russia is looking to divide and weaken Germany
+- 10/02 00:15 [FirstSquawk] SPACEX LAUNCHES CREW OF FOUR ASTRONAUTS FOR NASA TO INTERNATIONAL SPACE STATION IN COMPANY'S 13TH LONG-DURATION DRAGON MISSION
+- 10/02 00:15 [financialjuice] Fed bids for 4-week bills total $5.1 bln.
+- 10/02 00:15 [FirstSquawk] TWO-YEAR U.S. TREASURY YIELDS BRIEFLY HIT LOWEST LEVELS IN A WEEK LAST DOWN 6.03 BASIS POINTS AT 4.827%
+- 10/02 00:15 [FirstSquawk] RUSSIA'S PUTIN: WE HAVE TO THINK HOW TO PRESERVE GLOBAL SECURITY NOW
+- 10/02 00:15 [FirstSquawk] PUTIN: WE HAVE TO THINK HOW TO AVOID CATASTROPHIC SCENARIOS
+- 10/02 00:16 [FirstSquawk] PUTIN: WORLD IS AT A TURNING POINT OF DEVELOPMENT
+- 10/02 00:17 [FirstSquawk] PUTIN: TECHNOLOGIES CAN LEAD TO GLOBAL DESTRUCTION
+- 10/02 00:18 [FirstSquawk] HONDA SEPT. US SALES 121,796 UNITS, UP 15.9% M/M
+- 10/02 00:19 [financialjuice] Reports say Turkish Foreign Minister Fidan, Israeli Peace Council representative Eisenberg clash during closed meeting in New York last week - Israel's Kan News
+- 10/02 00:19 [financialjuice] Putin: Continuation of international conflicts is quite possible
+- 10/02 00:19 [financialjuice] Reports say Jared Kushner intervenes to end confrontation between Fidan, Eisenberg - Israel's Kan News
+- 10/02 00:20 [financialjuice] German Chancellor Merz: We are preparing for major hybrid attacks by Russia, and we would respond quickly and very clearly
+- 10/02 00:22 [financialjuice] Euro 3-Month implied options volatility hits 6.45%, highest since April 13th
+- 10/02 00:22 [financialjuice] Options show traders at most bearish towards Euro since mid March.
+- 10/02 00:27 [FirstSquawk] PULTE'S BUDGET CUTS TO HIT UP TO 80% OF FHFA WATCHDOG STAFF

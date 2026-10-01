@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-02 00:03 JST／対象: 10/01 18:03 〜 10/02 00:03 JST（時刻はすべて日本時間）
+生成: 2026-10-02 00:29 JST／対象: 10/01 18:29 〜 10/02 00:29 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 36 | 10/01 18:30 | 10/01 23:19 | 39分（22:07→22:47） |
-| FirstSquawk | 65 | 10/01 18:19 | 10/01 23:52 | ⚠ 53分（18:34→19:28） |
-| financialjuice | 120 | 10/01 18:17 | 10/02 00:02 | 44分（18:40→19:25） |
+| FirstSquawk | 75 | 10/01 18:34 | 10/02 00:27 | ⚠ 53分（18:34→19:28） |
+| financialjuice | 125 | 10/01 18:30 | 10/02 00:22 | 44分（18:40→19:25） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 211 行（統合前 224 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 226 行（統合前 239 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 18:17 [financialjuice] Latest UK sanctions against Russian military & intelligence officers alleged to have mistreated civilians in Ukraine
-- 10/01 18:17 [financialjuice] Latest UK sanctions also target ships believed to be involved in carrying Russian liquefied natural gas
-- 10/01 18:17 [financialjuice] New UK sanctions target Russia LNG shadow fleet vessels
-- 10/01 18:17 [financialjuice] UK sanctions target Russian perpetrators of civilian torture
-- 10/01 18:19 [FirstSquawk] UK FOREIGN OFFICE ANNOUNCED 23 NEW DESIGNATIONS AND 8 NEW SPECIFICATIONS UNDER THE RUSSIA SANCTIONS REGIME.
-- 10/01 18:19 [FirstSquawk] UK IMPOSES NEW SANCTIONS ON RUSSIAN MILITARY AND INTELLIGENCE OFFICERS ACCUSED OF ABUSING CIVILIANS IN UKRAINE.
-- 10/01 18:19 [FirstSquawk] NEW UK SANCTIONS AIM AT VESSELS SUSPECTED OF TRANSPORTING RUSSIAN LIQUEFIED NATURAL GAS.
-- 10/01 18:25 [FirstSquawk] EU GROUP SEEKS MEMBER STATES' OPINIONS TO FORMULATE A POSITION.
-- 10/01 18:25 [FirstSquawk] EU AIMS FOR UNIFIED POSITION ON DIESEL STOCK FOLLOWING US REQUEST FOR RELEASE.
 - 10/01 18:30 [DeItaone] RUSSIA SAYS NUCLEAR WARNING TO NATO IS NOT “CONFRONTATIONAL” The Kremlin says Russia’s letter to NATO signaling readiness to resort to nuclear weapons should not be viewed as confrontational, arguing it is intended to ensure Kaliningrad’s s…
 - 10/01 18:30 [financialjuice] US CHALLENGER LAYOFFS ACTUAL 43.281K (FORECAST -, PREVIOUS 52.881K) $MACRO
 - 10/01 18:31 [DeItaone] U.S. LAYOFF PLANS FALL SHARPLY IN SEPTEMBER U.S. employers announced 43,281 job cuts in September, down 18% from August and the lowest September total since 2022, according to Challenger Gray. Year-to-date layoffs are down 39% from 2025. Ho…
@@ -235,3 +226,27 @@
 - 10/02 00:01 [financialjuice] IMF Spokesperson: We've seen a big decline in inflation over the last few years, strengthening of external position as reserves have accumulated, quite a lot of fiscal discipline, moving from deficit into fiscal surplus.
 - 10/02 00:01 [financialjuice] US Treasury Auctions Summary October 5 auctions (settle October 8): - US to sell $95 bln 3-month bills - US to sell $82 bln 6-month bills October 6 auctions (settle October 15): - US to sell $58 bln 3-year notes October 7 auctions (settle O…
 - 10/02 00:02 [financialjuice] US Treasury: Will buy up to $6 bln of 10-20 Year debt in October 1st liquidity buyback.
+- 10/02 00:04 [FirstSquawk] IMF STAFF WORKING TO BRING COMBINED SECOND AND THIRD REVIEW FOR UKRAINE PROGRAM TO EXECUTIVE BOARD BY DECEMBER
+- 10/02 00:04 [FirstSquawk] IMF SAYS BOARD REVIEW OF UKRAINE PROGRAM SUBJECT TO "SUFFICIENT AND CREDIBLE FINANCING ASSURANCES" TO CLOSE PROJECTED FINANCING GAP ON TERMS COMPATIBLE WITH DEBT SUSTAINABILITY
+- 10/02 00:04 [FirstSquawk] IMF SAYS SIZE OF UKRAINE'S FINANCING GAP DEPENDS ON WAR, REFORMS, ECONOMIC DEVELOPMENTS AND SUPPORT FROM INTERNATIONAL PARTNERS
+- 10/02 00:10 [financialjuice] Canada's Carney: New pipeline to reduce reliance on oil exports to US; Roberts Bank terminal expansion planned to export more crude
+- 10/02 00:10 [FirstSquawk] CANADA IS DESIGNATING THE PROPOSED WEST COAST OIL PIPELINE AS A PROJECT OF NATIONAL INTEREST - PRIME MINISTER CARNEY
+- 10/02 00:10 [FirstSquawk] CANADA'S MAJOR PROJECTS OFFICE IS AIMING TO COMPLETE ALL NECESSARY REVIEWS AND CONSULTATIONS BY SEPT 1, 2027 - CARNEY
+- 10/02 00:11 [FirstSquawk] FORMAL OPEN SEASON PROCESS TO GAUGE SHIPPER INTEREST IN PIPELINE WILL TAKE PLACE IN SPRING 2027 - SENIOR GOVERNMENT OFFICIAL
+- 10/02 00:11 [FirstSquawk] PIPELINE WILL CREATE 140,000 JOBS, GENERATE OVER C$20 BILLION IN GDP PER YEAR, AND C$100 BILLION IN GOVERNMENT REVENUE BY 2060 - CARNEY
+- 10/02 00:14 [financialjuice] Germany’s Chancellor Merz: Russia is looking to divide and weaken Germany
+- 10/02 00:15 [FirstSquawk] SPACEX LAUNCHES CREW OF FOUR ASTRONAUTS FOR NASA TO INTERNATIONAL SPACE STATION IN COMPANY'S 13TH LONG-DURATION DRAGON MISSION
+- 10/02 00:15 [financialjuice] Fed bids for 4-week bills total $5.1 bln.
+- 10/02 00:15 [FirstSquawk] TWO-YEAR U.S. TREASURY YIELDS BRIEFLY HIT LOWEST LEVELS IN A WEEK LAST DOWN 6.03 BASIS POINTS AT 4.827%
+- 10/02 00:15 [FirstSquawk] RUSSIA'S PUTIN: WE HAVE TO THINK HOW TO PRESERVE GLOBAL SECURITY NOW
+- 10/02 00:15 [FirstSquawk] PUTIN: WE HAVE TO THINK HOW TO AVOID CATASTROPHIC SCENARIOS
+- 10/02 00:16 [FirstSquawk] PUTIN: WORLD IS AT A TURNING POINT OF DEVELOPMENT
+- 10/02 00:17 [FirstSquawk] PUTIN: TECHNOLOGIES CAN LEAD TO GLOBAL DESTRUCTION
+- 10/02 00:18 [FirstSquawk] HONDA SEPT. US SALES 121,796 UNITS, UP 15.9% M/M
+- 10/02 00:19 [financialjuice] Reports say Turkish Foreign Minister Fidan, Israeli Peace Council representative Eisenberg clash during closed meeting in New York last week - Israel's Kan News
+- 10/02 00:19 [financialjuice] Putin: Continuation of international conflicts is quite possible
+- 10/02 00:19 [financialjuice] Reports say Jared Kushner intervenes to end confrontation between Fidan, Eisenberg - Israel's Kan News
+- 10/02 00:20 [financialjuice] German Chancellor Merz: We are preparing for major hybrid attacks by Russia, and we would respond quickly and very clearly
+- 10/02 00:22 [financialjuice] Euro 3-Month implied options volatility hits 6.45%, highest since April 13th
+- 10/02 00:22 [financialjuice] Options show traders at most bearish towards Euro since mid March.
+- 10/02 00:27 [FirstSquawk] PULTE'S BUDGET CUTS TO HIT UP TO 80% OF FHFA WATCHDOG STAFF
