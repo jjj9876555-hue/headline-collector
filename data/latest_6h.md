@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 22:52 JST／対象: 10/01 16:52 〜 10/01 22:52 JST（時刻はすべて日本時間）
+生成: 2026-10-01 23:08 JST／対象: 10/01 17:08 〜 10/01 23:08 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 38 | 10/01 17:14 | 10/01 22:47 | 39分（22:07→22:47） |
-| FirstSquawk | 66 | 10/01 16:53 | 10/01 22:45 | ⚠ 53分（18:34→19:28） |
-| financialjuice | 110 | 10/01 16:55 | 10/01 22:46 | 44分（18:40→19:25） |
+| DeItaone | 40 | 10/01 17:14 | 10/01 23:06 | 39分（22:07→22:47） |
+| FirstSquawk | 67 | 10/01 17:17 | 10/01 23:07 | ⚠ 53分（18:34→19:28） |
+| financialjuice | 116 | 10/01 17:08 | 10/01 23:05 | 44分（18:40→19:25） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 204 行（統合前 216 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 213 行（統合前 225 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 16:53 [FirstSquawk] CONOCOPHILLIPS IS LOOKING INTO SELLING ITS NORWAY BUSINESS AND TEESSIDE ASSET FOLLOWING AN UNREQUESTED OFFER.
-- 10/01 16:55 [FirstSquawk] GERMANY'S FINAL MANUFACTURING PMI FOR SEPTEMBER REACHED 53.9, SLIGHTLY ABOVE THE FORECAST OF 53.8.
-- 10/01 16:55 [financialjuice] ‼ BREAKING: GERMAN MANUFACTURING PMI FINAL ACTUAL 53.9 (FORECAST 53.8, PREVIOUS 53.8) $MACRO
-- 10/01 16:59 [financialjuice] China cancels some fuel shipments to support domestic supply.
-- 10/01 16:59 [FirstSquawk] CHINA STOPS SOME FUEL SHIPMENTS TO BOOST LOCAL SUPPLY.
-- 10/01 16:59 [FirstSquawk] YIELD ON 30-YEAR US TREASURY BONDS RISES 3.3 BPS TO 5.672%.
-- 10/01 17:00 [financialjuice] ❗ EUROZONE MANUFACTURING PMI FINAL ACTUAL 52.9 (FORECAST 52.7, PREVIOUS 52.7) $MACRO
-- 10/01 17:01 [financialjuice] ITALIAN UNEMPLOYMENT RATE ACTUAL 6.2% (FORECAST 5.75%, PREVIOUS 5.8% ,REVISION 6.0%) $MACRO
-- 10/01 17:03 [financialjuice] Barclays broadens strategic partnership with Anthropic for global AI integration
 - 10/01 17:08 [financialjuice] French PM aims for 43 billion euros in fresh budget savings - BFM TV
 - 10/01 17:14 [DeItaone] 🇫🇷 FRENCH 5-YEAR CDS HIT 71.6 BPS, HIGHEST SINCE JULY 2013, AS BONDS SELL OFF
 - 10/01 17:17 [FirstSquawk] FTSE 100 INDEX DROPS 2% TO 10,393.83.
@@ -228,3 +219,21 @@
 - 10/01 22:45 [financialjuice] ❗ US S&P MANUFACTURING PMI FINAL ACTUAL 55.9 (FORECAST 57, PREVIOUS 57.0) $MACRO
 - 10/01 22:46 [financialjuice] US S&P Manufacturing PMI Final September Report
 - 10/01 22:47 [DeItaone] US SEP FINAL MANUF PMI 55.9 (57.0 FLASH, 53.9 AUG)
+- 10/01 22:54 [financialjuice] Fed's Waller speaks at FRED Con Live
+- 10/01 22:55 [FirstSquawk] FITCH STATES THAT THE UK WATER BILL UPDATE DOES NOT CHANGE SECTOR RISK, BUT THERE ARE STILL RISKS.
+- 10/01 22:56 [FirstSquawk] FITCH: BASE CASE REMAINS THAT UK WATER SECTOR REFORMS WILL DELIVER A CLEARER AND BETTER-COORDINATED FRAMEWORK
+- 10/01 22:58 [financialjuice] Iran summons British ambassador to foreign ministry over accusations related to attack on US base in UK - State Media
+- 10/01 23:00 [FirstSquawk] US ISM MANUFACTURING PMI (SEP) ACTUAL: 54.5 VS 54.6 PREVIOUS; EST 55.0
+- 10/01 23:00 [financialjuice] ‼ BREAKING: US ISM MANUFACTURING PMI ACTUAL 54.5 (FORECAST 55, PREVIOUS 54.6) $MACRO
+- 10/01 23:00 [financialjuice] US ISM MFG. NEW ORDERS INDEX ACTUAL 55.3 (FORECAST 54.7, PREVIOUS 53.7) $MACRO
+- 10/01 23:00 [financialjuice] US ISM MFG. PRICES PAID ACTUAL 77.9 (FORECAST 73, PREVIOUS 71.1) $MACRO
+- 10/01 23:00 [DeItaone] FRENCH 5-YEAR CDS WIDEN FURTHER TO 73.05 BPS, HIGHEST SINCE JULY 2013
+- 10/01 23:00 [financialjuice] US ISM MFG. EMPLOYMENT INDEX ACTUAL 52.7 (FORECAST 52, PREVIOUS 51.2) $MACRO
+- 10/01 23:00 [financialjuice] US CONSTRUCTION SPENDING MOM ACTUAL 0.9% (FORECAST 0%, PREVIOUS -0.5%) $MACRO
+- 10/01 23:00 [financialjuice] Fed’s Waller doesn’t comment on rates, economic outlook in text
+- 10/01 23:01 [financialjuice] Iraqi Government Spokesman: Iraq receives new shipment of cash dollars under US understanding.
+- 10/01 23:03 [financialjuice] US ISM Manufacturing PMI September Report
+- 10/01 23:05 [financialjuice] US Construction Spending MoM August Report
+- 10/01 23:06 [DeItaone] U.S. TREASURY YIELDS EXTEND GAINS; YIELD ON 10-YEAR TREASURY NOTE LAST UP 4.72 BASIS POINTS AT 5.34% TWO-YEAR U.S. TREASURY YIELDS, LAST FLAT AT 4.883%
+- 10/01 23:07 [FirstSquawk] U.S. TREASURY YIELDS EXTEND GAINS; YIELD ON 10-YEAR TREASURY NOTE LAST UP 4.72 BASIS POINTS AT 5.34%
+- 10/01 23:07 [FirstSquawk] TWO-YEAR U.S. TREASURY YIELDS, LAST FLAT AT 4.883%

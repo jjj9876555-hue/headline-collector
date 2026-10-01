@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-01 22:52 JST／対象: 10/01 10:52 〜 10/01 22:52 JST（時刻はすべて日本時間）
+生成: 2026-10-01 23:08 JST／対象: 10/01 11:08 〜 10/01 23:08 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 41 | 10/01 16:25 | 10/01 22:47 | 39分（22:07→22:47） |
-| FirstSquawk | 146 | 10/01 10:57 | 10/01 22:45 | ⚠ 53分（18:34→19:28） |
-| financialjuice | 166 | 10/01 10:59 | 10/01 22:46 | ⚠ 52分（14:07→15:00） |
+| DeItaone | 43 | 10/01 16:25 | 10/01 23:06 | 39分（22:07→22:47） |
+| FirstSquawk | 147 | 10/01 11:08 | 10/01 23:07 | ⚠ 53分（18:34→19:28） |
+| financialjuice | 175 | 10/01 11:09 | 10/01 23:05 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 343 行（統合前 355 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 355 行（統合前 367 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 10:57 [FirstSquawk] Japan’s 10-year JGB yield gains 5.0bp to 3.110%
-- 10/01 10:59 [FirstSquawk] South Korea ministry says investment in US Alaska LNG project remains undecided — Yonhap
-- 10/01 10:59 [financialjuice] South Korea industry ministry: US Alaska LNG project investment still undecided - Yonhap
-- 10/01 11:01 [FirstSquawk] 30-year JGB yield advances 6.0bp to 4.200%
-- 10/01 11:03 [FirstSquawk] Trump says Seoul plans $200bn investment in US energy projects - FT
-- 10/01 11:08 [financialjuice] Dollar/yen rises 0.5% to 158.19
 - 10/01 11:08 [FirstSquawk] USD/JPY advances 0.5% to 158.19
 - 10/01 11:09 [financialjuice] New Zealand dollar dips to $0.5618, lowest since November 2025
 - 10/01 11:09 [FirstSquawk] NZ dollar declines to $0.5618, reaches lowest level since November 2025
@@ -367,3 +361,21 @@
 - 10/01 22:45 [financialjuice] ❗ US S&P MANUFACTURING PMI FINAL ACTUAL 55.9 (FORECAST 57, PREVIOUS 57.0) $MACRO
 - 10/01 22:46 [financialjuice] US S&P Manufacturing PMI Final September Report
 - 10/01 22:47 [DeItaone] US SEP FINAL MANUF PMI 55.9 (57.0 FLASH, 53.9 AUG)
+- 10/01 22:54 [financialjuice] Fed's Waller speaks at FRED Con Live
+- 10/01 22:55 [FirstSquawk] FITCH STATES THAT THE UK WATER BILL UPDATE DOES NOT CHANGE SECTOR RISK, BUT THERE ARE STILL RISKS.
+- 10/01 22:56 [FirstSquawk] FITCH: BASE CASE REMAINS THAT UK WATER SECTOR REFORMS WILL DELIVER A CLEARER AND BETTER-COORDINATED FRAMEWORK
+- 10/01 22:58 [financialjuice] Iran summons British ambassador to foreign ministry over accusations related to attack on US base in UK - State Media
+- 10/01 23:00 [FirstSquawk] US ISM MANUFACTURING PMI (SEP) ACTUAL: 54.5 VS 54.6 PREVIOUS; EST 55.0
+- 10/01 23:00 [financialjuice] ‼ BREAKING: US ISM MANUFACTURING PMI ACTUAL 54.5 (FORECAST 55, PREVIOUS 54.6) $MACRO
+- 10/01 23:00 [financialjuice] US ISM MFG. NEW ORDERS INDEX ACTUAL 55.3 (FORECAST 54.7, PREVIOUS 53.7) $MACRO
+- 10/01 23:00 [financialjuice] US ISM MFG. PRICES PAID ACTUAL 77.9 (FORECAST 73, PREVIOUS 71.1) $MACRO
+- 10/01 23:00 [DeItaone] FRENCH 5-YEAR CDS WIDEN FURTHER TO 73.05 BPS, HIGHEST SINCE JULY 2013
+- 10/01 23:00 [financialjuice] US ISM MFG. EMPLOYMENT INDEX ACTUAL 52.7 (FORECAST 52, PREVIOUS 51.2) $MACRO
+- 10/01 23:00 [financialjuice] US CONSTRUCTION SPENDING MOM ACTUAL 0.9% (FORECAST 0%, PREVIOUS -0.5%) $MACRO
+- 10/01 23:00 [financialjuice] Fed’s Waller doesn’t comment on rates, economic outlook in text
+- 10/01 23:01 [financialjuice] Iraqi Government Spokesman: Iraq receives new shipment of cash dollars under US understanding.
+- 10/01 23:03 [financialjuice] US ISM Manufacturing PMI September Report
+- 10/01 23:05 [financialjuice] US Construction Spending MoM August Report
+- 10/01 23:06 [DeItaone] U.S. TREASURY YIELDS EXTEND GAINS; YIELD ON 10-YEAR TREASURY NOTE LAST UP 4.72 BASIS POINTS AT 5.34% TWO-YEAR U.S. TREASURY YIELDS, LAST FLAT AT 4.883%
+- 10/01 23:07 [FirstSquawk] U.S. TREASURY YIELDS EXTEND GAINS; YIELD ON 10-YEAR TREASURY NOTE LAST UP 4.72 BASIS POINTS AT 5.34%
+- 10/01 23:07 [FirstSquawk] TWO-YEAR U.S. TREASURY YIELDS, LAST FLAT AT 4.883%

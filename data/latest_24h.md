@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-01 22:52 JST／対象: 09/30 22:52 〜 10/01 22:52 JST（時刻はすべて日本時間）
+生成: 2026-10-01 23:08 JST／対象: 09/30 23:08 〜 10/01 23:08 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 81 | 09/30 22:54 | 10/01 22:47 | ⚠ 610分（06:15→16:25） |
-| FirstSquawk | 333 | 09/30 22:55 | 10/01 22:45 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 384 | 09/30 22:52 | 10/01 22:46 | ⚠ 52分（14:07→15:00） |
+| DeItaone | 79 | 09/30 23:17 | 10/01 23:06 | ⚠ 610分（06:15→16:25） |
+| FirstSquawk | 335 | 09/30 23:15 | 10/01 23:07 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 390 | 09/30 23:17 | 10/01 23:05 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 775 行（統合前 802 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 782 行（統合前 808 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 22:52 [financialjuice] White House Official: Trump to announce 8 nuclear power plants funded by South Korea. Announcing South Korea’s $200 bln investment in US
-- 09/30 22:53 [financialjuice] EASA issues advisory to airlines over Saudi airspace following recent increase in Houthi attacks
-- 09/30 22:53 [financialjuice] Latest EASA advisory does not mention Wednesday's incident involving diverted FlyDubai airliner.
-- 09/30 22:54 [DeItaone] *TRUMP ANNOUNCING TODAY SOUTH KOREA'S $200B INVESTMENT IN US *TRUMP TO ANNOUNCE 8 NUCLEAR POWER PLANTS FUNDED BY S.KOREA
-- 09/30 22:55 [FirstSquawk] WHITE HOUSE OFFICIAL: TRUMP WILL BE ANNOUNCING SOUTH KOREA'S $200 BLN INVESTMENT IN US TODAY
-- 09/30 22:55 [financialjuice] China's MOFCOM: China and Canada hold meeting on economy and trade
-- 09/30 22:55 [DeItaone] FTC LAUNCHES INDUSTRY-WIDE AI PROBE AFTER HUGGING FACE INCIDENT The U.S. Federal Trade Commission is conducting an industry-wide AI investigation following the Hugging Face incident, according to a source. The FTC reportedly plans to issue …
-- 09/30 23:02 [financialjuice] NATO Sec. Gen. Rutte: US will stay involved in conventional defence of Europe, as well as nuclear.
-- 09/30 23:03 [FirstSquawk/DeItaone] MEXICO GROWS CONFIDENT ON US DEAL TO CUT STEEL, AUTO TARIFFS
-- 09/30 23:05 [FirstSquawk] APPLE’S $2,000 FOLDABLE IPHONE COULD SELL 6 MILLION UNITS Apple’s rumored first foldable iPhone, expected to cost around $2,000, could reportedly sell as many as 6 million units. The device is expected to bring Apple’s design, software, and…
-- 09/30 23:07 [DeItaone] U.S. INFLATION BREADTH SHOWS SIGNS OF COOLING Despite softer core PCE revisions, 51% of the PCE basket is still rising at 3% or more annually, little changed from recent months. However, the share experiencing inflation above 3% on a six-mo…
 - 09/30 23:15 [FirstSquawk] ELI LILLY: PARTICIPANTS TAKING ELORATZP LOWERED THEIR A1C BY UP TO AVERAGE OF 2.9% VS. 2.4% WITH TIRZEPATIDE 15 MG || AT 48 WEEKS, ALL COMBINATIONS OF ELORATZP MET PRIMARY & SECONDARY ENDPOINTS || PARTICIPANTS TAKING ELORATZP LOST UP TO AVE…
 - 09/30 23:15 [FirstSquawk] ELI LILLY: PLANS TO INITIATE PHASE 3 STUDIES OF ELORATZP CO-FORMULATION PRODUCT BY 2026 END USING OPTIMIZED ESCALATION SCHEDULE
 - 09/30 23:17 [DeItaone] $LLY - ELI LILLY’S NEW OBESITY DRUG DELIVERS 23.3% WEIGHT LOSS Eli Lilly’s experimental drug eloralintide, combined with Zepbound, delivered 23.3% average weight loss over roughly 11 months, compared with 14.8% for Zepbound alone in patient…
@@ -799,3 +788,21 @@
 - 10/01 22:45 [financialjuice] ❗ US S&P MANUFACTURING PMI FINAL ACTUAL 55.9 (FORECAST 57, PREVIOUS 57.0) $MACRO
 - 10/01 22:46 [financialjuice] US S&P Manufacturing PMI Final September Report
 - 10/01 22:47 [DeItaone] US SEP FINAL MANUF PMI 55.9 (57.0 FLASH, 53.9 AUG)
+- 10/01 22:54 [financialjuice] Fed's Waller speaks at FRED Con Live
+- 10/01 22:55 [FirstSquawk] FITCH STATES THAT THE UK WATER BILL UPDATE DOES NOT CHANGE SECTOR RISK, BUT THERE ARE STILL RISKS.
+- 10/01 22:56 [FirstSquawk] FITCH: BASE CASE REMAINS THAT UK WATER SECTOR REFORMS WILL DELIVER A CLEARER AND BETTER-COORDINATED FRAMEWORK
+- 10/01 22:58 [financialjuice] Iran summons British ambassador to foreign ministry over accusations related to attack on US base in UK - State Media
+- 10/01 23:00 [FirstSquawk] US ISM MANUFACTURING PMI (SEP) ACTUAL: 54.5 VS 54.6 PREVIOUS; EST 55.0
+- 10/01 23:00 [financialjuice] ‼ BREAKING: US ISM MANUFACTURING PMI ACTUAL 54.5 (FORECAST 55, PREVIOUS 54.6) $MACRO
+- 10/01 23:00 [financialjuice] US ISM MFG. NEW ORDERS INDEX ACTUAL 55.3 (FORECAST 54.7, PREVIOUS 53.7) $MACRO
+- 10/01 23:00 [financialjuice] US ISM MFG. PRICES PAID ACTUAL 77.9 (FORECAST 73, PREVIOUS 71.1) $MACRO
+- 10/01 23:00 [DeItaone] FRENCH 5-YEAR CDS WIDEN FURTHER TO 73.05 BPS, HIGHEST SINCE JULY 2013
+- 10/01 23:00 [financialjuice] US ISM MFG. EMPLOYMENT INDEX ACTUAL 52.7 (FORECAST 52, PREVIOUS 51.2) $MACRO
+- 10/01 23:00 [financialjuice] US CONSTRUCTION SPENDING MOM ACTUAL 0.9% (FORECAST 0%, PREVIOUS -0.5%) $MACRO
+- 10/01 23:00 [financialjuice] Fed’s Waller doesn’t comment on rates, economic outlook in text
+- 10/01 23:01 [financialjuice] Iraqi Government Spokesman: Iraq receives new shipment of cash dollars under US understanding.
+- 10/01 23:03 [financialjuice] US ISM Manufacturing PMI September Report
+- 10/01 23:05 [financialjuice] US Construction Spending MoM August Report
+- 10/01 23:06 [DeItaone] U.S. TREASURY YIELDS EXTEND GAINS; YIELD ON 10-YEAR TREASURY NOTE LAST UP 4.72 BASIS POINTS AT 5.34% TWO-YEAR U.S. TREASURY YIELDS, LAST FLAT AT 4.883%
+- 10/01 23:07 [FirstSquawk] U.S. TREASURY YIELDS EXTEND GAINS; YIELD ON 10-YEAR TREASURY NOTE LAST UP 4.72 BASIS POINTS AT 5.34%
+- 10/01 23:07 [FirstSquawk] TWO-YEAR U.S. TREASURY YIELDS, LAST FLAT AT 4.883%
