@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-02 05:59 JST／対象: 10/01 17:59 〜 10/02 05:59 JST（時刻はすべて日本時間）
+生成: 2026-10-02 06:19 JST／対象: 10/01 18:19 〜 10/02 06:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 85 | 10/01 18:30 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 178 | 10/01 18:02 | 10/02 05:43 | ⚠ 53分（18:34→19:28） |
-| financialjuice | 288 | 10/01 18:00 | 10/02 05:19 | 44分（18:40→19:25） |
+| FirstSquawk | 177 | 10/01 18:19 | 10/02 06:02 | ⚠ 53分（18:34→19:28） |
+| financialjuice | 283 | 10/01 18:30 | 10/02 06:01 | 44分（18:40→19:25） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 515 行（統合前 557 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 509 行（統合前 551 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 18:00 [financialjuice] ❗ EUROZONE UNEMPLOYMENT RATE ACTUAL 6.4% (FORECAST 6.4%, PREVIOUS 6.4%) $MACRO
-- 10/01 18:01 [financialjuice/FirstSquawk] Hawley, Murphy to introduce AI liability legislation - Axios.
-- 10/01 18:17 [financialjuice] Latest UK sanctions against Russian military & intelligence officers alleged to have mistreated civilians in Ukraine
-- 10/01 18:17 [financialjuice] Latest UK sanctions also target ships believed to be involved in carrying Russian liquefied natural gas
-- 10/01 18:17 [financialjuice] New UK sanctions target Russia LNG shadow fleet vessels
-- 10/01 18:17 [financialjuice] UK sanctions target Russian perpetrators of civilian torture
-- 10/01 18:19 [FirstSquawk] UK FOREIGN OFFICE ANNOUNCED 23 NEW DESIGNATIONS AND 8 NEW SPECIFICATIONS UNDER THE RUSSIA SANCTIONS REGIME.
 - 10/01 18:19 [FirstSquawk] UK IMPOSES NEW SANCTIONS ON RUSSIAN MILITARY AND INTELLIGENCE OFFICERS ACCUSED OF ABUSING CIVILIANS IN UKRAINE.
 - 10/01 18:19 [FirstSquawk] NEW UK SANCTIONS AIM AT VESSELS SUSPECTED OF TRANSPORTING RUSSIAN LIQUEFIED NATURAL GAS.
 - 10/01 18:25 [FirstSquawk] EU GROUP SEEKS MEMBER STATES' OPINIONS TO FORMULATE A POSITION.
@@ -539,3 +532,4 @@
 - 10/02 05:19 [DeItaone] TRUMP: MAY ASK EUROPEAN COUNTRIES TO RELEASE DIESEL STOCKS
 - 10/02 05:43 [FirstSquawk] ONSEMI IS TO BUY SYNAPTICS FOR $123 PER SHARE IN CASH UNDER A REVISED MERGER AGREEMENT, VALUING THE DEAL AT $5.70 BLN, SOURCES SAY, WITH THE TRANSACTION EXPECTED TO BE IMMEDIATELY ACCRETIVE TO ONSEMI'S NON-GAAP EPS AND FINANCED WITH CASH AN…
 - 10/02 05:43 [FirstSquawk] ONSEMI SAYS THE COMPANIES HAVE IDENTIFIED FURTHER OPPORTUNITIES BEYOND $200 MLN IN ANNUAL RUN-RATE SYNERGIES.
+- 10/02 06:01 [financialjuice/FirstSquawk] Egypt declares Ethiopian embassy counsellor persona non grata, orders departure within 48 hours: official, al Qahera news

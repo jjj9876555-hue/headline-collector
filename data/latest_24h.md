@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-02 05:59 JST／対象: 10/01 05:59 〜 10/02 05:59 JST（時刻はすべて日本時間）
+生成: 2026-10-02 06:19 JST／対象: 10/01 06:19 〜 10/02 06:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 97 | 10/01 06:07 | 10/02 05:19 | ⚠ 610分（06:15→16:25） |
-| FirstSquawk | 364 | 10/01 06:17 | 10/02 05:43 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 475 | 10/01 06:00 | 10/02 05:19 | ⚠ 52分（14:07→15:00） |
+| DeItaone | 93 | 10/01 16:25 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
+| FirstSquawk | 362 | 10/01 06:25 | 10/02 06:02 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 473 | 10/01 06:22 | 10/02 06:01 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 897 行（統合前 942 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 888 行（統合前 934 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 06:00 [financialjuice] Trump on FlyDubai incident: I did speak to Netanyahu
-- 10/01 06:07 [DeItaone] *TRUMP: INFLATION NUMBERS ARE WAY DOWN OTHER THAN FOR OIL
-- 10/01 06:08 [financialjuice] Trump on UK base incident: will learn this afternoon why UK freed suspects
-- 10/01 06:13 [DeItaone] *TRUMP ASKED ABOUT POWELL, WARSH: WARSH WILL DO HIS OWN THING
-- 10/01 06:14 [financialjuice] South Korea industry minister: US likely to maintain tariff rate on South Korea at 15% - Yonhap
-- 10/01 06:15 [DeItaone] *TRUMP COMMENTS ON HIS CALL FOR POWELL TO BE FORCED TO RESIGN
-- 10/01 06:15 [DeItaone] SOUTH KOREA INDUSTRY MINISTER SAYS US HAS INDICATED TARIFF RATE ON SOUTH KOREA WOULD BE KEPT AT 15% LEVEL - YONHAP
-- 10/01 06:17 [FirstSquawk] U.S. AND SOUTH KOREA HAVE LAUNCHED A $22.3 BLN TEXAS GAS POWER PROJECT FOR AI DATA CENTERS, WHICH SOUTH KOREA SAYS WILL SUPPLY 6.47 GW OF ELECTRICITY WITH COMMERCIAL OPERATIONS EXPECTED BY 2029, WITH ANNUAL U.S. INVESTMENT CAPPED AT $20 BLN…
-- 10/01 06:17 [FirstSquawk] SEOUL AND WASHINGTON WILL REVIEW THE ALASKA LNG PIPELINE AND EXPORT TERMINAL PROJECT — WHICH WILL PROCEED ONLY IF COMMERCIAL AND LEGAL CONDITIONS ARE MET — WHILE SOUTH KOREA IS SEEKING EQUITY INVESTMENTS BY KOREAN COMPANIES IN WESTINGHOUSE.
-- 10/01 06:18 [FirstSquawk] RIO TINTO SAYS A DEAL WITH THE AUSTRALIAN AND TASMANIAN GOVERNMENTS SECURES ITS BELL BAY ALUMINIUM OPERATIONS THROUGH 2031, WITH HYDRO TASMANIA TO SUPPLY ELECTRICITY THROUGH 31 DECEMBER 2031 AND THE AUSTRALIAN AND TASMANIAN GOVERNMENTS TO P…
 - 10/01 06:22 [financialjuice] OpenAI executive withdraws second $25 million contribution to AI super PAC: NYT
 - 10/01 06:22 [financialjuice] OpenAI's Greg Brockman withdraws from second $25 million donation to a super PAC - NYT
 - 10/01 06:22 [financialjuice] US energy secretary Wright: will make some announcements on diesel
@@ -921,3 +911,4 @@
 - 10/02 05:19 [DeItaone] TRUMP: MAY ASK EUROPEAN COUNTRIES TO RELEASE DIESEL STOCKS
 - 10/02 05:43 [FirstSquawk] ONSEMI IS TO BUY SYNAPTICS FOR $123 PER SHARE IN CASH UNDER A REVISED MERGER AGREEMENT, VALUING THE DEAL AT $5.70 BLN, SOURCES SAY, WITH THE TRANSACTION EXPECTED TO BE IMMEDIATELY ACCRETIVE TO ONSEMI'S NON-GAAP EPS AND FINANCED WITH CASH AN…
 - 10/02 05:43 [FirstSquawk] ONSEMI SAYS THE COMPANIES HAVE IDENTIFIED FURTHER OPPORTUNITIES BEYOND $200 MLN IN ANNUAL RUN-RATE SYNERGIES.
+- 10/02 06:01 [financialjuice/FirstSquawk] Egypt declares Ethiopian embassy counsellor persona non grata, orders departure within 48 hours: official, al Qahera news
