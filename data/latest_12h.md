@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-02 04:52 JST／対象: 10/01 16:52 〜 10/02 04:52 JST（時刻はすべて日本時間）
+生成: 2026-10-02 05:05 JST／対象: 10/01 17:05 〜 10/02 05:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 89 | 10/01 17:14 | 10/02 03:42 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 175 | 10/01 16:53 | 10/02 04:50 | ⚠ 53分（18:34→19:28） |
-| financialjuice | 287 | 10/01 16:55 | 10/02 04:51 | 44分（18:40→19:25） |
+| FirstSquawk | 179 | 10/01 17:17 | 10/02 05:04 | ⚠ 53分（18:34→19:28） |
+| financialjuice | 291 | 10/01 17:08 | 10/02 05:05 | 44分（18:40→19:25） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 518 行（統合前 556 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 524 行（統合前 564 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 16:53 [FirstSquawk] CONOCOPHILLIPS IS LOOKING INTO SELLING ITS NORWAY BUSINESS AND TEESSIDE ASSET FOLLOWING AN UNREQUESTED OFFER.
-- 10/01 16:55 [FirstSquawk] GERMANY'S FINAL MANUFACTURING PMI FOR SEPTEMBER REACHED 53.9, SLIGHTLY ABOVE THE FORECAST OF 53.8.
-- 10/01 16:55 [financialjuice] ‼ BREAKING: GERMAN MANUFACTURING PMI FINAL ACTUAL 53.9 (FORECAST 53.8, PREVIOUS 53.8) $MACRO
-- 10/01 16:59 [financialjuice] China cancels some fuel shipments to support domestic supply.
-- 10/01 16:59 [FirstSquawk] CHINA STOPS SOME FUEL SHIPMENTS TO BOOST LOCAL SUPPLY.
-- 10/01 16:59 [FirstSquawk] YIELD ON 30-YEAR US TREASURY BONDS RISES 3.3 BPS TO 5.672%.
-- 10/01 17:00 [financialjuice] ❗ EUROZONE MANUFACTURING PMI FINAL ACTUAL 52.9 (FORECAST 52.7, PREVIOUS 52.7) $MACRO
-- 10/01 17:01 [financialjuice] ITALIAN UNEMPLOYMENT RATE ACTUAL 6.2% (FORECAST 5.75%, PREVIOUS 5.8% ,REVISION 6.0%) $MACRO
-- 10/01 17:03 [financialjuice] Barclays broadens strategic partnership with Anthropic for global AI integration
 - 10/01 17:08 [financialjuice] French PM aims for 43 billion euros in fresh budget savings - BFM TV
 - 10/01 17:14 [DeItaone] 🇫🇷 FRENCH 5-YEAR CDS HIT 71.6 BPS, HIGHEST SINCE JULY 2013, AS BONDS SELL OFF
 - 10/01 17:17 [FirstSquawk] FTSE 100 INDEX DROPS 2% TO 10,393.83.
@@ -542,3 +533,18 @@
 - 10/02 04:50 [financialjuice] USTR Greer: Will continue to advance discussions on the most-favored-nation tariff structure, but did not submit a draft agreement.
 - 10/02 04:50 [financialjuice/FirstSquawk] ❗ fed's Bowman sees no urgent need for more rate moves this year.
 - 10/02 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 2679.2 MLN NASDAQ 100: 989.1 MLN DOW 30: 468.6 MLN MAG 7: 354.6 MLN $MACRO
+- 10/02 04:52 [FirstSquawk] USTR GREER SAYS THE U.S. HAS TECHNICAL TALKS WITH THE CANADIANS BUT THAT THERE ARE 'A HANDFUL OF OUTSTANDING ISSUES THAT ARE DIFFICULT TO RESOLVE', ADDING THAT IT WILL CONTINUE TO ADVANCE DISCUSSIONS ON A MOST-FAVORED-NATION TARIFF STRUCTUR…
+- 10/02 04:52 [FirstSquawk] USTR GREER SAYS THE MEETING HAS NOT CHANGED HIS VIEWS ON THE WTO'S INABILITY TO ADDRESS EXCESS INDUSTRIAL CAPACITY, ADDING THAT THERE IS NOT YET A TIMELINE FOR U.S.-CHINA TARIFF REDUCTIONS UNDER THE BOARD OF TRADE.
+- 10/02 04:52 [financialjuice] USTR Greer: We do not have a timeline yet for the US-China tariff reductions under the Board of trade
+- 10/02 04:53 [financialjuice] Total money market funds fell $ 45.45 B to $7.89t for the week ended september 30th - ICI
+- 10/02 04:56 [financialjuice] Fed's Cook: Don't think private credit is having a big effect on financial stability
+- 10/02 04:58 [FirstSquawk] MUSK SAYS TESLA HAS CUT THE RAM IN HALF FOR THE TESLA AI5 CHIP — NOW 72GB OF LP5 — AND BY A THIRD FOR AI6, NOW 144GB OF LP6, ADDING THAT HE THINKS THIS WILL HAVE A NEGLIGIBLE EFFECT ON OPTIMUS PERFORMANCE
+- 10/02 05:02 [financialjuice/FirstSquawk] Musk: I am cautiously optimistic that we will be able to run the SpaceX version of the VR72 at close to 250kW average power, meaning peak power would be ~10% higher - Post X. $NVDA $SPCX
+- 10/02 05:02 [financialjuice] Fed's Cook: The top risk for 2027 is AI. It's already causing inflationary pressure, not slowing down.
+- 10/02 05:02 [FirstSquawk] NASDAQ CLOSES 0.06% HIGHER AT 26,875.96, UP 14.90 POINTS S&P 500 CLOSES 0.15% HIGHER AT 7,663.38, UP 11.84 POINTS DOW JONES CLOSES 0.02% HIGHER AT 50,916.33, UP 10.28 POINTS
+- 10/02 05:02 [financialjuice/FirstSquawk] UKMTO has received a report of a tanker being struck by an unknown projectile while transiting the strait of hormuz, resulting in a fire.
+- 10/02 05:02 [financialjuice] Fed's Cook: I worry about when productivity gains, producing inflation, will come.
+- 10/02 05:04 [FirstSquawk] FED'S COOK SAYS THE TOP RISK FOR 2027 IS AI, WHICH IS 'ALREADY CAUSING INFLATIONARY PRESSURE, NOT SLOWING DOWN', ADDING THAT SHE WORRIES ABOUT WHEN THE PRODUCTIVITY GAINS THAT COULD OFFSET THAT INFLATION WILL COME.
+- 10/02 05:04 [FirstSquawk] FED'S COOK SAYS PRIVATE CREDIT IS NOT HAVING A MAJOR IMPACT ON FINANCIAL STABILITY.
+- 10/02 05:04 [financialjuice] BoC's Senior Dep. Gov. Rogers: Build-up in regulation is holding back Canada's economy. We need to think about streamlining regulation in Canada.
+- 10/02 05:05 [financialjuice] US SEC proposes rules on investment advisor custody of crypto assets.

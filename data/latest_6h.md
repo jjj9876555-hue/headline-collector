@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-02 04:52 JST／対象: 10/01 22:52 〜 10/02 04:52 JST（時刻はすべて日本時間）
+生成: 2026-10-02 05:05 JST／対象: 10/01 23:05 〜 10/02 05:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 51 | 10/01 23:00 | 10/02 03:42 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 109 | 10/01 22:55 | 10/02 04:50 | 39分（01:52→02:31） |
-| financialjuice | 177 | 10/01 22:54 | 10/02 04:51 | 17分（03:38→03:56） |
+| DeItaone | 50 | 10/01 23:06 | 10/02 03:42 | ⚠ 102分（23:19→01:02） |
+| FirstSquawk | 114 | 10/01 23:07 | 10/02 05:04 | 39分（01:52→02:31） |
+| financialjuice | 175 | 10/01 23:09 | 10/02 05:05 | 17分（03:38→03:56） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 314 行（統合前 340 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 314 行（統合前 342 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 22:54 [financialjuice] Fed's Waller speaks at FRED Con Live
-- 10/01 22:55 [FirstSquawk] FITCH STATES THAT THE UK WATER BILL UPDATE DOES NOT CHANGE SECTOR RISK, BUT THERE ARE STILL RISKS.
-- 10/01 22:56 [FirstSquawk] FITCH: BASE CASE REMAINS THAT UK WATER SECTOR REFORMS WILL DELIVER A CLEARER AND BETTER-COORDINATED FRAMEWORK
-- 10/01 22:58 [financialjuice] Iran summons British ambassador to foreign ministry over accusations related to attack on US base in UK - State Media
-- 10/01 23:00 [FirstSquawk] US ISM MANUFACTURING PMI (SEP) ACTUAL: 54.5 VS 54.6 PREVIOUS; EST 55.0
-- 10/01 23:00 [financialjuice] ‼ BREAKING: US ISM MANUFACTURING PMI ACTUAL 54.5 (FORECAST 55, PREVIOUS 54.6) $MACRO
-- 10/01 23:00 [financialjuice] US ISM MFG. NEW ORDERS INDEX ACTUAL 55.3 (FORECAST 54.7, PREVIOUS 53.7) $MACRO
-- 10/01 23:00 [financialjuice] US ISM MFG. PRICES PAID ACTUAL 77.9 (FORECAST 73, PREVIOUS 71.1) $MACRO
-- 10/01 23:00 [DeItaone] FRENCH 5-YEAR CDS WIDEN FURTHER TO 73.05 BPS, HIGHEST SINCE JULY 2013
-- 10/01 23:00 [financialjuice] US ISM MFG. EMPLOYMENT INDEX ACTUAL 52.7 (FORECAST 52, PREVIOUS 51.2) $MACRO
-- 10/01 23:00 [financialjuice] US CONSTRUCTION SPENDING MOM ACTUAL 0.9% (FORECAST 0%, PREVIOUS -0.5%) $MACRO
-- 10/01 23:00 [financialjuice] Fed’s Waller doesn’t comment on rates, economic outlook in text
-- 10/01 23:01 [financialjuice] Iraqi Government Spokesman: Iraq receives new shipment of cash dollars under US understanding.
-- 10/01 23:03 [financialjuice] US ISM Manufacturing PMI September Report
-- 10/01 23:05 [financialjuice] US Construction Spending MoM August Report
 - 10/01 23:06 [DeItaone] U.S. TREASURY YIELDS EXTEND GAINS; YIELD ON 10-YEAR TREASURY NOTE LAST UP 4.72 BASIS POINTS AT 5.34% TWO-YEAR U.S. TREASURY YIELDS, LAST FLAT AT 4.883%
 - 10/01 23:07 [FirstSquawk] U.S. TREASURY YIELDS EXTEND GAINS; YIELD ON 10-YEAR TREASURY NOTE LAST UP 4.72 BASIS POINTS AT 5.34%
 - 10/01 23:07 [FirstSquawk] TWO-YEAR U.S. TREASURY YIELDS, LAST FLAT AT 4.883%
@@ -338,3 +323,18 @@
 - 10/02 04:50 [financialjuice] USTR Greer: Will continue to advance discussions on the most-favored-nation tariff structure, but did not submit a draft agreement.
 - 10/02 04:50 [financialjuice/FirstSquawk] ❗ fed's Bowman sees no urgent need for more rate moves this year.
 - 10/02 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 2679.2 MLN NASDAQ 100: 989.1 MLN DOW 30: 468.6 MLN MAG 7: 354.6 MLN $MACRO
+- 10/02 04:52 [FirstSquawk] USTR GREER SAYS THE U.S. HAS TECHNICAL TALKS WITH THE CANADIANS BUT THAT THERE ARE 'A HANDFUL OF OUTSTANDING ISSUES THAT ARE DIFFICULT TO RESOLVE', ADDING THAT IT WILL CONTINUE TO ADVANCE DISCUSSIONS ON A MOST-FAVORED-NATION TARIFF STRUCTUR…
+- 10/02 04:52 [FirstSquawk] USTR GREER SAYS THE MEETING HAS NOT CHANGED HIS VIEWS ON THE WTO'S INABILITY TO ADDRESS EXCESS INDUSTRIAL CAPACITY, ADDING THAT THERE IS NOT YET A TIMELINE FOR U.S.-CHINA TARIFF REDUCTIONS UNDER THE BOARD OF TRADE.
+- 10/02 04:52 [financialjuice] USTR Greer: We do not have a timeline yet for the US-China tariff reductions under the Board of trade
+- 10/02 04:53 [financialjuice] Total money market funds fell $ 45.45 B to $7.89t for the week ended september 30th - ICI
+- 10/02 04:56 [financialjuice] Fed's Cook: Don't think private credit is having a big effect on financial stability
+- 10/02 04:58 [FirstSquawk] MUSK SAYS TESLA HAS CUT THE RAM IN HALF FOR THE TESLA AI5 CHIP — NOW 72GB OF LP5 — AND BY A THIRD FOR AI6, NOW 144GB OF LP6, ADDING THAT HE THINKS THIS WILL HAVE A NEGLIGIBLE EFFECT ON OPTIMUS PERFORMANCE
+- 10/02 05:02 [financialjuice/FirstSquawk] Musk: I am cautiously optimistic that we will be able to run the SpaceX version of the VR72 at close to 250kW average power, meaning peak power would be ~10% higher - Post X. $NVDA $SPCX
+- 10/02 05:02 [financialjuice] Fed's Cook: The top risk for 2027 is AI. It's already causing inflationary pressure, not slowing down.
+- 10/02 05:02 [FirstSquawk] NASDAQ CLOSES 0.06% HIGHER AT 26,875.96, UP 14.90 POINTS S&P 500 CLOSES 0.15% HIGHER AT 7,663.38, UP 11.84 POINTS DOW JONES CLOSES 0.02% HIGHER AT 50,916.33, UP 10.28 POINTS
+- 10/02 05:02 [financialjuice/FirstSquawk] UKMTO has received a report of a tanker being struck by an unknown projectile while transiting the strait of hormuz, resulting in a fire.
+- 10/02 05:02 [financialjuice] Fed's Cook: I worry about when productivity gains, producing inflation, will come.
+- 10/02 05:04 [FirstSquawk] FED'S COOK SAYS THE TOP RISK FOR 2027 IS AI, WHICH IS 'ALREADY CAUSING INFLATIONARY PRESSURE, NOT SLOWING DOWN', ADDING THAT SHE WORRIES ABOUT WHEN THE PRODUCTIVITY GAINS THAT COULD OFFSET THAT INFLATION WILL COME.
+- 10/02 05:04 [FirstSquawk] FED'S COOK SAYS PRIVATE CREDIT IS NOT HAVING A MAJOR IMPACT ON FINANCIAL STABILITY.
+- 10/02 05:04 [financialjuice] BoC's Senior Dep. Gov. Rogers: Build-up in regulation is holding back Canada's economy. We need to think about streamlining regulation in Canada.
+- 10/02 05:05 [financialjuice] US SEC proposes rules on investment advisor custody of crypto assets.

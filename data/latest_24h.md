@@ -7,42 +7,25 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-02 04:52 JST／対象: 10/01 04:52 〜 10/02 04:52 JST（時刻はすべて日本時間）
+生成: 2026-10-02 05:05 JST／対象: 10/01 05:05 〜 10/02 05:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 99 | 10/01 05:45 | 10/02 03:42 | ⚠ 610分（06:15→16:25） |
-| FirstSquawk | 378 | 10/01 04:54 | 10/02 04:50 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 475 | 10/01 04:53 | 10/02 04:51 | ⚠ 52分（14:07→15:00） |
+| FirstSquawk | 373 | 10/01 05:07 | 10/02 05:04 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 479 | 10/01 05:06 | 10/02 05:05 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 914 行（統合前 958 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 912 行（統合前 956 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 04:53 [financialjuice] Google grapples with employee skepticism about the new Gemini Model $GOOGL
-- 10/01 04:54 [FirstSquawk] AI CAN EXHIBIT 'SELF-PRESERVING BEHAVIORS,' 'RESIST SHUTDOWN,’ ’CONCEAL OR MANIPULATE INFORMATION' - ANTHROPIC'S IPO FILING.
-- 10/01 04:54 [FirstSquawk] GOOGLE GRAPPLES WITH EMPLOYEE SKEPTICISM ABOUT THE NEW GEMINI MODEL
-- 10/01 04:54 [financialjuice] US Sec. of Defense Hegseth finishes remarks
-- 10/01 04:56 [FirstSquawk] META'S OVERSIGHT BOARD HAS CALLED FOR INDEPENDENT OVERSIGHT OF AI COMPANIES, SAYING AI OVERSIGHT BODIES SHOULD BE SEPARATE AND INDEPENDENT FROM THE COMPANIES THEY OVERSEE.
-- 10/01 04:56 [FirstSquawk] META'S OVERSIGHT BOARD SAYS ANY AI OVERSIGHT BODY SHOULD HAVE A DIVERSE COMPOSITION AND MUST NOT OPERATE IN ISOLATION.
-- 10/01 04:56 [FirstSquawk] SYRIA'S ELECTRICITY COMPANY SAYS THE DEIR ALI, NASIRIYAH AND TISHREEN POWER PLANTS HAVE GONE OFFLINE AFTER AN EXPLOSION ON A GAS PIPELINE SUPPLYING THE TISHREEN THERMAL POWER PLANT NEAR THE TOWN OF AL-OTAIBA, WITH THE BLAST CUTTING GAS SUPP…
-- 10/01 04:56 [FirstSquawk] THE SHUTDOWN IS EXPECTED TO REDUCE ELECTRICITY GENERATION AND TEMPORARILY INCREASE POWER CUTS ACROSS THE COUNTRY, THE COMPANY SAID - SANA
-- 10/01 04:58 [financialjuice/FirstSquawk] The pilot planned to seize control of the cockpit over Jordan and crash it in Israeli territory - Israel's N12 News
-- 10/01 05:01 [financialjuice] $MU Micron Q4 Earnings Adjusted revenue $54.23B, est. $51.49B Adjusted gross margin 87%, est. 86.2% Cloud Memory revenue $16.28B, est. $15.14B Mobile & Client revenue $13.11B, est. $12.95B Automotive & Embedded revenue $6.82B, est. $4.73B
-- 10/01 05:02 [FirstSquawk] GOOGLE SAYS THAT FOR TRUSTED DEFENDERS AND ITS OWN INTERNAL TEAMS, IT WILL RELEASE ARGON WITHOUT CYBER GUARDRAILS, AND THAT IT IS DEPLOYING MISALIGNMENT MITIGATIONS THAT MONITOR ARGON'S CHAIN-OF-THOUGHT AND ACTIONS AND STOP EXECUTION WHEN N…
-- 10/01 05:02 [FirstSquawk] GOOGLE SAYS THAT TO SUPPORT GEMINI 4 ARGON'S CAPABILITIES, IT IS SIGNIFICANTLY EXPANDING THE MODEL'S OUTPUT TOKEN LIMIT TO 1 MLN TOKENS.
-- 10/01 05:02 [FirstSquawk] GOOGLE IS GRAPPLING WITH INTERNAL SKEPTICISM OVER GEMINI 4 PERFORMANCE, WITH EMPLOYEES RAISING CONCERNS ABOUT THE MODEL'S PERFORMANCE IN CODING AND OTHER KEY TASKS DESPITE STRONG BENCHMARK RESULTS, AND GEMINI 4 REPORTEDLY PERFORMING LESS WE…
-- 10/01 05:02 [FirstSquawk] GOOGLE HAD PLANNED TO RELEASE GEMINI 3.5 PRO IN JUNE BUT ABANDONED THE EFFORT, AND IS NOW PREPARING FOR THE UPCOMING LAUNCH OF GEMINI 4.
-- 10/01 05:03 [FirstSquawk] NASDAQ CLOSES 0.35% HIGHER AT 26,892.17, UP 94.63 POINTS
-- 10/01 05:03 [FirstSquawk] S&P 500 CLOSES 0.08% LOWER AT 7,664.32, DOWN 6.52 POINTS
-- 10/01 05:03 [FirstSquawk] DOW JONES CLOSES 0.70% LOWER AT 50,990.13, DOWN 359.79 POINTS
-- 10/01 05:04 [financialjuice] Alphabet's Pichai: Introducing Gemini 4 Argon. $GOOGL
 - 10/01 05:06 [financialjuice] Google sets Argon pricing at $2/M input, $10/M output tokens. $GOOGL
+- 10/01 05:07 [FirstSquawk] THE PILOT PLANNED TO SEIZE CONTROL OF THE COCKPIT OVER JORDAN AND CRASH IT IN ISRAELI TERRITORY - ISRAEL'S N12 NEWS
 - 10/01 05:07 [financialjuice] Google: We are engaged in the US Government’s voluntary process on models. $GOOGL
 - 10/01 05:07 [FirstSquawk] MICRON POSTED Q4 ADJUSTED REVENUE OF $54.23 BLN, ABOVE THE $51.49 BLN ESTIMATE, WITH ADJUSTED EPS OF $33.42 VERSUS $31.83 EXPECTED, ADJUSTED OPERATING INCOME OF $44.64 BLN AND AN ADJUSTED GROSS MARGIN OF 87%, AS CORE DATA CENTER REVENUE OF …
 - 10/01 05:07 [FirstSquawk] MICRON SEES Q1 ADJUSTED REVENUE OF $60 BLN-$63 BLN VERSUS $56.77 BLN EXPECTED AND Q1 ADJUSTED EPS OF $37.15-$39.15 VERSUS $36.02 EXPECTED, WITH A Q1 ADJUSTED GROSS MARGIN OF ABOUT 86.3%.
@@ -938,3 +921,18 @@
 - 10/02 04:50 [financialjuice] USTR Greer: Will continue to advance discussions on the most-favored-nation tariff structure, but did not submit a draft agreement.
 - 10/02 04:50 [financialjuice/FirstSquawk] ❗ fed's Bowman sees no urgent need for more rate moves this year.
 - 10/02 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 2679.2 MLN NASDAQ 100: 989.1 MLN DOW 30: 468.6 MLN MAG 7: 354.6 MLN $MACRO
+- 10/02 04:52 [FirstSquawk] USTR GREER SAYS THE U.S. HAS TECHNICAL TALKS WITH THE CANADIANS BUT THAT THERE ARE 'A HANDFUL OF OUTSTANDING ISSUES THAT ARE DIFFICULT TO RESOLVE', ADDING THAT IT WILL CONTINUE TO ADVANCE DISCUSSIONS ON A MOST-FAVORED-NATION TARIFF STRUCTUR…
+- 10/02 04:52 [FirstSquawk] USTR GREER SAYS THE MEETING HAS NOT CHANGED HIS VIEWS ON THE WTO'S INABILITY TO ADDRESS EXCESS INDUSTRIAL CAPACITY, ADDING THAT THERE IS NOT YET A TIMELINE FOR U.S.-CHINA TARIFF REDUCTIONS UNDER THE BOARD OF TRADE.
+- 10/02 04:52 [financialjuice] USTR Greer: We do not have a timeline yet for the US-China tariff reductions under the Board of trade
+- 10/02 04:53 [financialjuice] Total money market funds fell $ 45.45 B to $7.89t for the week ended september 30th - ICI
+- 10/02 04:56 [financialjuice] Fed's Cook: Don't think private credit is having a big effect on financial stability
+- 10/02 04:58 [FirstSquawk] MUSK SAYS TESLA HAS CUT THE RAM IN HALF FOR THE TESLA AI5 CHIP — NOW 72GB OF LP5 — AND BY A THIRD FOR AI6, NOW 144GB OF LP6, ADDING THAT HE THINKS THIS WILL HAVE A NEGLIGIBLE EFFECT ON OPTIMUS PERFORMANCE
+- 10/02 05:02 [financialjuice/FirstSquawk] Musk: I am cautiously optimistic that we will be able to run the SpaceX version of the VR72 at close to 250kW average power, meaning peak power would be ~10% higher - Post X. $NVDA $SPCX
+- 10/02 05:02 [financialjuice] Fed's Cook: The top risk for 2027 is AI. It's already causing inflationary pressure, not slowing down.
+- 10/02 05:02 [FirstSquawk] NASDAQ CLOSES 0.06% HIGHER AT 26,875.96, UP 14.90 POINTS S&P 500 CLOSES 0.15% HIGHER AT 7,663.38, UP 11.84 POINTS DOW JONES CLOSES 0.02% HIGHER AT 50,916.33, UP 10.28 POINTS
+- 10/02 05:02 [financialjuice/FirstSquawk] UKMTO has received a report of a tanker being struck by an unknown projectile while transiting the strait of hormuz, resulting in a fire.
+- 10/02 05:02 [financialjuice] Fed's Cook: I worry about when productivity gains, producing inflation, will come.
+- 10/02 05:04 [FirstSquawk] FED'S COOK SAYS THE TOP RISK FOR 2027 IS AI, WHICH IS 'ALREADY CAUSING INFLATIONARY PRESSURE, NOT SLOWING DOWN', ADDING THAT SHE WORRIES ABOUT WHEN THE PRODUCTIVITY GAINS THAT COULD OFFSET THAT INFLATION WILL COME.
+- 10/02 05:04 [FirstSquawk] FED'S COOK SAYS PRIVATE CREDIT IS NOT HAVING A MAJOR IMPACT ON FINANCIAL STABILITY.
+- 10/02 05:04 [financialjuice] BoC's Senior Dep. Gov. Rogers: Build-up in regulation is holding back Canada's economy. We need to think about streamlining regulation in Canada.
+- 10/02 05:05 [financialjuice] US SEC proposes rules on investment advisor custody of crypto assets.
