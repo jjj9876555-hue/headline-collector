@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-01 19:24 JST／対象: 10/01 07:24 〜 10/01 19:24 JST（時刻はすべて日本時間）
+生成: 2026-10-01 19:47 JST／対象: 10/01 07:47 〜 10/01 19:47 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 16 | 10/01 16:25 | 10/01 19:02 | 37分（17:52→18:30） |
-| FirstSquawk | 185 | 10/01 07:49 | 10/01 18:34 | ⚠ 54分（07:50→08:44） |
-| financialjuice | 160 | 10/01 07:28 | 10/01 18:40 | ⚠ 52分（14:07→15:00） |
+| DeItaone | 18 | 10/01 16:25 | 10/01 19:33 | 37分（17:52→18:30） |
+| FirstSquawk | 194 | 10/01 07:49 | 10/01 19:43 | ⚠ 54分（07:50→08:44） |
+| financialjuice | 163 | 10/01 08:05 | 10/01 19:33 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 359 行（統合前 361 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 373 行（統合前 375 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 07:28 [financialjuice] Fed's Kashkari: central bank balance sheet works best in near-zero rate environment
-- 10/01 07:29 [financialjuice] Fed balance sheet is most effective in near-zero rate environment
-- 10/01 07:29 [financialjuice] Not surprised Fed IG didn’t uncover any wrongdoing in Fed renovation project
-- 10/01 07:29 [financialjuice] Fed's Kashkari: size of central bank balance sheet is a complex issue
-- 10/01 07:29 [financialjuice] Rolling supply shocks risk boosting inflation expectations
 - 10/01 07:49 [FirstSquawk] BOEING: JAPAN AIRLINES RENEWS INTEGRATED MATERIALS MANAGEMENT SERVICES AGREEMENT
 - 10/01 07:49 [FirstSquawk] FED'S KASHKARI SAYS THE ECONOMY REMAINS ROBUST DESPITE SHOCKS, WITH CONSUMERS CONTINUING TO SPEND AND JOB SEEKERS FINDING EMPLOYMENT, AND EXPECTS ONE MORE RATE INCREASE THIS YEAR AND ANOTHER IN 2027, ADDING THAT 'THE LONGER THE ECONOMY REMA…
 - 10/01 07:49 [FirstSquawk] FED'S KASHKARI SAYS THE CENTRAL BANK MUST RETURN INFLATION TO 2% GIVEN THE EXTENDED PERIOD ABOVE TARGET AND HOPES IT CAN DO SO WITH RESTRAINED MEASURES, WHILE WARNING THAT ROLLING SUPPLY SHOCKS MAY BOOST INFLATION EXPECTATIONS AND DOUBTING …
@@ -383,3 +378,22 @@
 - 10/01 18:55 [DeItaone] AWS HIKES GPU PRICES AGAIN AS AI DEMAND STAYS STRONG AWS will raise reserved GPU compute prices by 15% on October 7, following a 20% increase in July, according to Wells Fargo. It marks the fourth consecutive quarterly increase, with H100/H…
 - 10/01 19:00 [DeItaone] $AVGO - BROADCOM TO LEND UP TO $42 BILLION TO ANTHROPIC FOR INFRASTRUCTURE LEASE AGREEMENTS, ACCORDING TO IPO PROSPECTUS
 - 10/01 19:02 [DeItaone] EURO SLIDE CONTINUES; LAST DOWN 0.55% AT $1.127
+- 10/01 19:25 [financialjuice] EU: In 'high level contact’ with the US on emergency diesel stocks
+- 10/01 19:25 [financialjuice] The US slowed export licensing for plane parts to China - Sources
+- 10/01 19:25 [financialjuice] French warship, part of the EU Red Sea mission, escorted about ten ships through the Bab el-Mandeb Strait over last week - French army spokesperson
+- 10/01 19:25 [financialjuice] Traders pare ECB rate bets, favor three hikes by end of 2027
+- 10/01 19:26 [financialjuice] EU: Next meeting of the oil coordination group on October 15th
+- 10/01 19:27 [financialjuice] French budget minister Amiel: We cannot wait until next year's election to take action on the budget
+- 10/01 19:27 [DeItaone] HSBC: INVESTORS ROTATING OUT OF FRANCE INTO UK HSBC says European equity funds are shifting capital from France toward the UK, as concerns over France’s fiscal outlook intensify. The bank recently cut France to Underweight, citing worsening…
+- 10/01 19:28 [FirstSquawk] FRENCH FINANCE MINISTER LESCURE OUTLINES 2027 BUDGET, CONFIRMING FRANCE'S STRONG CREDITWORTHINESS.
+- 10/01 19:28 [FirstSquawk] FRENCH FINANCE MINISTER LESCURE PREDICTS BUDGET CONSOLIDATION BY 2027.
+- 10/01 19:28 [FirstSquawk] FRENCH FINANCE MINISTER LESCURE STATES THAT THE GOAL OF LOWERING THE BUDGET DEFICIT TO 3% OF GDP BY 2029 IS STILL ACHIEVABLE.
+- 10/01 19:28 [FirstSquawk] FRENCH FINANCE MINISTER LESCURE ANNOUNCED A BUDGET WITH 43 BILLION EUROS IN NEW MEASURES, AMOUNTING TO 54 BILLION EUROS WHEN INCLUDING PREVIOUS MEASURES.
+- 10/01 19:28 [FirstSquawk] FRENCH BUDGET MINISTER AMIEL STATED ACTION ON THE BUDGET IS NECESSARY BEFORE NEXT YEAR'S ELECTION.
+- 10/01 19:29 [financialjuice] Israel requested an urgent increase in Etihad flights to Tel Aviv
+- 10/01 19:33 [DeItaone] EU COORDINATES POSSIBLE ENERGY RESERVE RELEASE WITH U.S. The European Commission says it is in high-level talks with the U.S. administration over the global oil market and potential emergency stock releases. Brussels is coordinating EU memb…
+- 10/01 19:33 [financialjuice] France Fin. Min. Lescure: French 2027 budget sees €54B effort; 5% deficit goal 60% of French 2027 budget effort to be on spending
+- 10/01 19:39 [FirstSquawk] MCCORMICK & CO Q3 2026 EARNINGS: ADJ EPS 86C (EST 76C) || NET SALES 2.02B (EST $1.98B) || ORGANIC VOLUME GROWTH -0.3% (EST -0.14%) || STILL SEES FY ADJ EPS $3.05 TO $3.13(EST $3.08) || REAFFIRMS FY NET SALES GROWTH OUTLOOK
+- 10/01 19:43 [FirstSquawk] ACCENTURE Q4 REVENUE USD 18,700 MILLION VS ESTIMATE USD 18,032 MILLION || OUTLOOK FY REVENUE GROWTH 3-6% || Q4 EPS USD 3.29
+- 10/01 19:43 [FirstSquawk] ACCENTURE Q4 NEW BOOKINGS USD 22,200 MILLION
+- 10/01 19:43 [FirstSquawk] ACCENTURE OUTLOOK FY GAAP DILUTED EPS OF $14.39 TO $14.81 || ACCENTURE OUTLOOK FY 3% TO 6% INCREASE OVER ADJUSTED EPS

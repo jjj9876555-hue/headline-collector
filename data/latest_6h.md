@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 19:24 JST／対象: 10/01 13:24 〜 10/01 19:24 JST（時刻はすべて日本時間）
+生成: 2026-10-01 19:47 JST／対象: 10/01 13:47 〜 10/01 19:47 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 16 | 10/01 16:25 | 10/01 19:02 | 37分（17:52→18:30） |
-| FirstSquawk | 72 | 10/01 13:34 | 10/01 18:34 | 24分（13:35→14:00） |
-| financialjuice | 67 | 10/01 13:31 | 10/01 18:40 | ⚠ 52分（14:07→15:00） |
+| DeItaone | 18 | 10/01 16:25 | 10/01 19:33 | 37分（17:52→18:30） |
+| FirstSquawk | 78 | 10/01 14:00 | 10/01 19:43 | ⚠ 53分（18:34→19:28） |
+| financialjuice | 61 | 10/01 13:54 | 10/01 19:33 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 154 行（統合前 155 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 156 行（統合前 157 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 13:31 [financialjuice] S. Korea president Lee appoints Ha Joon-Kyung as new policy adviser for economic growth - Blue House
-- 10/01 13:31 [financialjuice] India monthly econ report: India's economic outlook faces upside inflation risks from mounting climate, geopolitical and monetary pressures
-- 10/01 13:32 [financialjuice] India monthly economic report: geopolitical strains, high crude oil costs may increase imported inflation pressures
-- 10/01 13:32 [financialjuice] India monthly economic report: festive demand, rising input costs may increase short-term price pressure
-- 10/01 13:32 [financialjuice] Filed lawsuit challenging Trump administration's unlawful attempt to withhold congressionally appropriated federal funding
-- 10/01 13:33 [financialjuice] India monthly econ report: cenbank's open market operations may support balanced financial conditions, limit excessive demand-side overheating
-- 10/01 13:33 [financialjuice] India monthly econ report: proactive government supply-side and market measures may help contain upside risks, cushion temporary price pressure effects
-- 10/01 13:33 [financialjuice] India monthly econ report: external sector stays resilient on robust services exports, remittances, forex reserves and capital inflows
-- 10/01 13:34 [financialjuice] India monthly economic report: domestic economy maintains strength amid tough global conditions
-- 10/01 13:34 [FirstSquawk] China is Apple’s key battleground in the foldable phone market — WSJ
-- 10/01 13:34 [FirstSquawk] Euro could weaken further against dollar, chart indicates — WSJ
-- 10/01 13:35 [financialjuice] India monthly econ report: for now, investor interest in India is cautious but not low
-- 10/01 13:35 [financialjuice] India monthly econ report: concerns over trade ties with US, tariff challenges, crude oil supply issues weigh on India's appeal as investment destination
-- 10/01 13:35 [FirstSquawk] South Korea exports exceed $120 billion in September, boosted by AI boom — WSJ
-- 10/01 13:36 [financialjuice] India monthly economic report: trade ties with US remain unsettled after passage and presidential assent of Graham bill
-- 10/01 13:37 [financialjuice] India monthly economic report: expansion momentum persists amid increased global uncertainty
-- 10/01 13:37 [financialjuice] India monthly economic report: net foreign direct investment inflows projected to rise this financial year from last year
 - 10/01 13:54 [financialjuice] Bahrain aug m2 money supply rises 7.76% y/y: central bank
 - 10/01 13:55 [financialjuice] Bahrain Aug private sector credit advances 6.31% y/y: central bank
 - 10/01 14:00 [FirstSquawk] INDIA (SEP) HSBC INDIA PMI MFG ACTUAL: 55.1 VS 55.7 PREVIOUS
@@ -178,3 +161,22 @@
 - 10/01 18:55 [DeItaone] AWS HIKES GPU PRICES AGAIN AS AI DEMAND STAYS STRONG AWS will raise reserved GPU compute prices by 15% on October 7, following a 20% increase in July, according to Wells Fargo. It marks the fourth consecutive quarterly increase, with H100/H…
 - 10/01 19:00 [DeItaone] $AVGO - BROADCOM TO LEND UP TO $42 BILLION TO ANTHROPIC FOR INFRASTRUCTURE LEASE AGREEMENTS, ACCORDING TO IPO PROSPECTUS
 - 10/01 19:02 [DeItaone] EURO SLIDE CONTINUES; LAST DOWN 0.55% AT $1.127
+- 10/01 19:25 [financialjuice] EU: In 'high level contact’ with the US on emergency diesel stocks
+- 10/01 19:25 [financialjuice] The US slowed export licensing for plane parts to China - Sources
+- 10/01 19:25 [financialjuice] French warship, part of the EU Red Sea mission, escorted about ten ships through the Bab el-Mandeb Strait over last week - French army spokesperson
+- 10/01 19:25 [financialjuice] Traders pare ECB rate bets, favor three hikes by end of 2027
+- 10/01 19:26 [financialjuice] EU: Next meeting of the oil coordination group on October 15th
+- 10/01 19:27 [financialjuice] French budget minister Amiel: We cannot wait until next year's election to take action on the budget
+- 10/01 19:27 [DeItaone] HSBC: INVESTORS ROTATING OUT OF FRANCE INTO UK HSBC says European equity funds are shifting capital from France toward the UK, as concerns over France’s fiscal outlook intensify. The bank recently cut France to Underweight, citing worsening…
+- 10/01 19:28 [FirstSquawk] FRENCH FINANCE MINISTER LESCURE OUTLINES 2027 BUDGET, CONFIRMING FRANCE'S STRONG CREDITWORTHINESS.
+- 10/01 19:28 [FirstSquawk] FRENCH FINANCE MINISTER LESCURE PREDICTS BUDGET CONSOLIDATION BY 2027.
+- 10/01 19:28 [FirstSquawk] FRENCH FINANCE MINISTER LESCURE STATES THAT THE GOAL OF LOWERING THE BUDGET DEFICIT TO 3% OF GDP BY 2029 IS STILL ACHIEVABLE.
+- 10/01 19:28 [FirstSquawk] FRENCH FINANCE MINISTER LESCURE ANNOUNCED A BUDGET WITH 43 BILLION EUROS IN NEW MEASURES, AMOUNTING TO 54 BILLION EUROS WHEN INCLUDING PREVIOUS MEASURES.
+- 10/01 19:28 [FirstSquawk] FRENCH BUDGET MINISTER AMIEL STATED ACTION ON THE BUDGET IS NECESSARY BEFORE NEXT YEAR'S ELECTION.
+- 10/01 19:29 [financialjuice] Israel requested an urgent increase in Etihad flights to Tel Aviv
+- 10/01 19:33 [DeItaone] EU COORDINATES POSSIBLE ENERGY RESERVE RELEASE WITH U.S. The European Commission says it is in high-level talks with the U.S. administration over the global oil market and potential emergency stock releases. Brussels is coordinating EU memb…
+- 10/01 19:33 [financialjuice] France Fin. Min. Lescure: French 2027 budget sees €54B effort; 5% deficit goal 60% of French 2027 budget effort to be on spending
+- 10/01 19:39 [FirstSquawk] MCCORMICK & CO Q3 2026 EARNINGS: ADJ EPS 86C (EST 76C) || NET SALES 2.02B (EST $1.98B) || ORGANIC VOLUME GROWTH -0.3% (EST -0.14%) || STILL SEES FY ADJ EPS $3.05 TO $3.13(EST $3.08) || REAFFIRMS FY NET SALES GROWTH OUTLOOK
+- 10/01 19:43 [FirstSquawk] ACCENTURE Q4 REVENUE USD 18,700 MILLION VS ESTIMATE USD 18,032 MILLION || OUTLOOK FY REVENUE GROWTH 3-6% || Q4 EPS USD 3.29
+- 10/01 19:43 [FirstSquawk] ACCENTURE Q4 NEW BOOKINGS USD 22,200 MILLION
+- 10/01 19:43 [FirstSquawk] ACCENTURE OUTLOOK FY GAAP DILUTED EPS OF $14.39 TO $14.81 || ACCENTURE OUTLOOK FY 3% TO 6% INCREASE OVER ADJUSTED EPS
