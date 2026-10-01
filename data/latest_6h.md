@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 21:25 JST／対象: 10/01 15:25 〜 10/01 21:25 JST（時刻はすべて日本時間）
+生成: 2026-10-01 21:53 JST／対象: 10/01 15:53 〜 10/01 21:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 32 | 10/01 16:25 | 10/01 21:24 | 37分（17:52→18:30） |
-| FirstSquawk | 76 | 10/01 15:26 | 10/01 21:18 | ⚠ 53分（18:34→19:28） |
-| financialjuice | 105 | 10/01 15:30 | 10/01 21:18 | 44分（18:40→19:25） |
+| DeItaone | 38 | 10/01 16:25 | 10/01 21:45 | 37分（17:52→18:30） |
+| FirstSquawk | 71 | 10/01 16:01 | 10/01 21:46 | ⚠ 53分（18:34→19:28） |
+| financialjuice | 105 | 10/01 16:07 | 10/01 21:32 | 44分（18:40→19:25） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 206 行（統合前 213 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 207 行（統合前 214 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 15:26 [FirstSquawk] Kia reports September global sales of 281,984, up 5.4% y/y
-- 10/01 15:27 [FirstSquawk] Iraq prime minister says legislation for Popular Mobilization Forces will proceed
-- 10/01 15:29 [FirstSquawk] HSBC lowers Blackstone price target to $122 from $135
-- 10/01 15:30 [financialjuice] ‼ BREAKING: SWISS CPI YOY ACTUAL 1% (FORECAST 1%, PREVIOUS 0.8%) $MACRO
-- 10/01 15:30 [financialjuice] SWISS RETAIL SALES YOY ACTUAL 3.2% (FORECAST -, PREVIOUS 2.3%) $MACRO
-- 10/01 15:30 [financialjuice] ❗ SWISS CPI MOM ACTUAL 0% (FORECAST 0%, PREVIOUS 0.4%) $MACRO
-- 10/01 15:30 [financialjuice] SWISS CORE CPI YOY ACTUAL 0.5% (FORECAST 0.5%, PREVIOUS 0.4%) $MACRO
-- 10/01 15:31 [FirstSquawk] SWITZERLAND (SEP) CPI YOY ACTUAL: 1% VS 0.8% PREVIOUS;EST 1.0% SWITZERLAND (SEP) CPI MOM ACTUAL: 0.0% VS 0.4% PREVIOUS;EST 0.0%
-- 10/01 15:31 [FirstSquawk] SWITZERLAND (SEP) CPI EU HARMONIZED MOM ACTUAL: -0.1% VS 0.1% PREVIOUS SWITZERLAND (SEP) CPI EU HARMONIZED YOY ACTUAL: 1.2% VS 0.9% PREVIOUS
-- 10/01 15:31 [FirstSquawk] SWITZERLAND (SEP) CPI CORE YOY ACTUAL: 0.5% VS 0.4% PREVIOUS;EST 0.5% SWITZERLAND (SEP) RETAIL SALES REAL YOY ACTUAL: 3.2% VS 2.3% PREVIOUS
-- 10/01 15:31 [FirstSquawk] SWEDEN (SEP) SWEEDBANK/SILF PMI MANUFACTURING ACTUAL: 58.1 VS 56.1 PREVIOUS
-- 10/01 15:47 [financialjuice] EUR/USD year-end options sentiment at its most bearish since April
-- 10/01 15:50 [FirstSquawk] Israeli security cabinet set to meet Sunday evening amid tensions — N13 reporter via https://t.co/tmVHTGptg3
 - 10/01 16:01 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 1.04% || FRANCE'S CAC 40 DOWN 0.64% || SPAIN'S IBEX DOWN 0.75%
 - 10/01 16:05 [FirstSquawk] GERMANY'S DAX DOWN 0.6%
 - 10/01 16:07 [financialjuice] South Korea Industry Minister: I expressed strong objection to US Commerce Secretary Lutnick over the announcement of the Alaska LNG project - Yonhap
@@ -230,3 +217,17 @@
 - 10/01 21:18 [FirstSquawk] NETANYAHU: PILOT WHO ATTACKED THE OTHER PILOT WAS OMANI
 - 10/01 21:18 [financialjuice] Israel's Prime Minister Netanyahu: The pilot who attacked the other pilot was Omani
 - 10/01 21:24 [DeItaone] EUROPE HOLDS EMERGENCY TALKS ON DIESEL RESERVES European nations are holding emergency talks over releasing strategic fuel reserves after pressure from Washington to boost supply. The U.S. has already approved another 40 million barrels fro…
+- 10/01 21:26 [DeItaone] GERMAN ECONOMY MINISTRY ON DIESEL RESERVES: AT THIS TIME, NO NEW REQUIREMENTS FROM IEA
+- 10/01 21:26 [financialjuice] German economy ministry on diesel reserves: At this time, no new requirements from the IEA
+- 10/01 21:27 [DeItaone] GERMAN ECONOMY MINISTRY ON DIESEL RESERVES: WE DO NOT SPECULATE ABOUT POSSIBLE FUTURE EVENTS
+- 10/01 21:27 [financialjuice] German Economy Ministry on Diesel Reserves: Any measures must be based on careful joint assessment of situation within framework of international procedures established for that purpose.
+- 10/01 21:30 [FirstSquawk] US INITIAL JOBLESS CLAIMS ACTUAL: 197K VS 197K PREVIOUS; EST 200K
+- 10/01 21:30 [FirstSquawk] US CONTINUING JOBLESS CLAIMS ACTUAL: 1701K VS 1719K PREVIOUS; EST 1725K
+- 10/01 21:30 [DeItaone] US JOBLESS CLAIMS -1K TO 197K IN SEP-26 WK; SURVEY 200K US SEP-19 WEEK CONTINUING CLAIMS -11K TO 1,701,000 US SEP-19 WEEK JOBLESS CLAIMS REVISED TO 198K
+- 10/01 21:32 [financialjuice] German economy ministry on diesel reserves: Market must not be destabilized
+- 10/01 21:32 [financialjuice] US CONTINUED JOBLESS CLAIMS ACTUAL 1.701M (FORECAST 1.725M, PREVIOUS 1.719M) $MACRO
+- 10/01 21:32 [financialjuice] ❗ US INITIAL JOBLESS CLAIMS ACTUAL 197K (FORECAST 200K, PREVIOUS 197K) $MACRO
+- 10/01 21:35 [DeItaone] CHICAGO FED SEES SEPTEMBER UNEMPLOYMENT AT 4.1% The Chicago Fed estimates the U.S. unemployment rate at 4.10% in September, slightly below August’s 4.14%. The improvement reflects better hiring prospects for unemployed workers and slightly …
+- 10/01 21:40 [DeItaone] IRAN SAYS IT WILL CONTINUE SEEKING DIALOGUE WITH U.S. Iranian President Masoud Pezeshkian says Tehran will continue pursuing dialogue with Washington despite previous attacks during negotiations, according to Tasnim. His comments come as Qa…
+- 10/01 21:45 [DeItaone] TRUMP CONSIDERS PREEMPTIVE PARDONS President Trump says he would consider preemptively pardoning members of his administration before leaving office, potentially protecting them from future federal prosecution. Asked by Time whether he woul…
+- 10/01 21:46 [FirstSquawk] ZELENSKIY SAYS THERE ARE GOOD RESULTS IN DIALOGUE WITH EU TO COVER UKRAINE'S FINANCIAL NEEDS FOR 2026-27
