@@ -7,49 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-02 08:15 JST／対象: 10/02 02:15 〜 10/02 08:15 JST（時刻はすべて日本時間）
+生成: 2026-10-02 08:33 JST／対象: 10/02 02:33 〜 10/02 08:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 27 | 10/02 02:17 | 10/02 05:19 | ⚠ 96分（03:42→05:19） |
-| FirstSquawk | 77 | 10/02 02:31 | 10/02 06:24 | 30分（04:07→04:38） |
-| financialjuice | 124 | 10/02 02:15 | 10/02 08:00 | ⚠ 79分（06:41→08:00） |
+| DeItaone | 19 | 10/02 02:34 | 10/02 05:19 | ⚠ 96分（03:42→05:19） |
+| FirstSquawk | 76 | 10/02 02:34 | 10/02 08:16 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 128 | 10/02 02:34 | 10/02 08:32 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 214 行（統合前 229 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 209 行（統合前 224 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 02:15 [financialjuice] Putin: Some European countries, including Germany, seize Russian assets; we are responding in kind
-- 10/02 02:16 [financialjuice] Putin: Foreign owners will get assets back in a good scenario.
-- 10/02 02:17 [financialjuice] Why US Bonds Are Bouncing Back Today - WSJ
-- 10/02 02:17 [DeItaone] PUTIN: THEY MAY GET THEM BACK IN FAVOURABLE SCENARIO
-- 10/02 02:19 [DeItaone] CALIFORNIA ATTORNEY GENERAL: SERVES INVESTIGATIVE SUBPOENA ON OPENAI OVER CYBERSECURITY INCIDENTS - WEBSITE CALIFORNIA AG: “MY OFFICE IS ASKING OPENAI ADDITIONAL QUESTIONS REGARDING CYBERSECURITY INCIDENTS AND RISKS INVOLVING THE COMPANY AN…
-- 10/02 02:19 [DeItaone] EURO EXTENDS LOSES AGAINST US DOLLAR, LAST DOWN 1% AT $1.12165
-- 10/02 02:27 [DeItaone] *ANTHROPIC SAID TO TARGET MEGA-IPO BEFORE THANKSGIVING HOLIDAY
-- 10/02 02:28 [financialjuice] Anthropic said to target a mega-IPO before the Thanksgiving Holiday
-- 10/02 02:28 [financialjuice] Anthropic reportedly weighs an IPO marketing as soon as the week of November 9th
-- 10/02 02:30 [DeItaone] ANTHROPIC SAID TO TARGET MEGA-IPO BEFORE THANKSGIVING Kalshi traders now price a 71% chance Anthropic officially announces an IPO before Dec. 1, rising to 76% before Jan. 1. https://t.co/URbZQEmaD9
-- 10/02 02:30 [financialjuice] ❗ Fed's Jefferson: US central bank 'may take more time’ to decide next rate move.
-- 10/02 02:31 [financialjuice] Fed's Jefferson: Future fed rate changes should be driven by the data.
-- 10/02 02:31 [financialjuice] Fed's Jefferson: Fed is fully committed to returning inflation to the 2% target.
-- 10/02 02:31 [DeItaone] FED’S JEFFERSON SIGNALS PATIENCE ON NEXT RATE MOVE Fed Vice Chair Jefferson says the Fed “may take more time” before its next rate decision, with future moves driven by incoming data. He said inflation remains above target with upside risks…
-- 10/02 02:31 [financialjuice] Fed's Jefferson: Weighing more data will allow the Fed to make better calls on rates.
-- 10/02 02:31 [DeItaone] FED'S JEFFERSON HINTS AT HOLDING RATES IN OCTOBER
-- 10/02 02:31 [FirstSquawk] RUSSIA'S PUTIN SAYS RUSSIA IS READY TO RESUME DIALOGUE WITH THE U.S. ON ARMS CONTROL AND IS READY FOR DIALOGUE WITH EUROPE, WITH NO PRECONDITIONS FOR DIALOGUE WITH THE EU.
-- 10/02 02:31 [financialjuice] Fed's Jefferson: Economic output and job market are broadly solid.
-- 10/02 02:31 [financialjuice] Fed's Jefferson: Bond yields show market participants rethinking outlook.
-- 10/02 02:31 [financialjuice] Fed's Jefferson: September rate hike will help anchor inflation expectations.
-- 10/02 02:32 [FirstSquawk] RUSSIA'S PUTIN SAYS RUSSIA DOESN'T NATIONALIZE FOREIGN ASSETS AND THAT FOREIGN OWNERS 'WILL GET ASSETS BACK IN A GOOD SCENARIO', ADDING THAT SOME EUROPEAN COUNTRIES, INCLUDING GERMANY, ARE SEIZING RUSSIAN ASSETS AND 'WE ARE RESPONDING IN KI…
-- 10/02 02:32 [DeItaone] FED'S JEFFERSON SAYS US CENTRAL BANK 'MAY TAKE MORE TIME' TO DECIDE NEXT RATE MOVE
-- 10/02 02:32 [financialjuice] Fed's Jefferson: I still expects inflation pressure to ease over longer term.
-- 10/02 02:32 [financialjuice] Fed's Jefferson: See jobless rate holding steady into the end of this year.
-- 10/02 02:32 [financialjuice] Fed's Jefferson: I'm is worried high inflation could spill into expectations
-- 10/02 02:33 [financialjuice] WATCH LIVE: Fed's Jefferson Speaks
 - 10/02 02:34 [financialjuice] Saudi Defence minister: Held a call with US Defence Secretary - post on x
 - 10/02 02:34 [DeItaone] TWO-YEAR U.S. TREASURY YIELDS BRIEFLY HIT LOWEST LEVEL SINCE SEPTEMBER 22, LAST DOWN 12.68 BASIS POINTS AT 4.76%
 - 10/02 02:34 [FirstSquawk] FED'S JEFFERSON SAYS THE FED IS FULLY COMMITTED TO RETURNING INFLATION TO ITS 2% TARGET, THAT FUTURE RATE CHANGES SHOULD BE DRIVEN BY THE DATA, AND THAT THE CENTRAL BANK 'MAY TAKE MORE TIME' TO DECIDE ITS NEXT RATE MOVE AS WEIGHING MORE DAT…
@@ -238,3 +212,24 @@
 - 10/02 08:00 [financialjuice] S.Korea Sept consumer price index rises 0.3% m/m: stats office
 - 10/02 08:00 [financialjuice] S. Korea September core CPI rises 2.8% y/y, down from 3.4% in August: stats office
 - 10/02 08:00 [financialjuice] S. Korea Sept consumer price index rises 2.9% y/y: stats office
+- 10/02 08:16 [FirstSquawk] SOUTH KOREA'S SEPTEMBER CONSUMER PRICE INDEX ROSE 2.9% YEAR-ON-YEAR, IN LINE WITH THE FORECAST AND EASING FROM 3.10%, AND WAS UP 0.3% MONTH-ON-MONTH, WITH CORE CPI UP 2.8% Y/Y, DOWN FROM 3.4% IN AUGUST - STATS OFFICE
+- 10/02 08:20 [financialjuice] Logan: higher yields may also indicate increased term premiums, lowering need to tighten monetary policy
+- 10/02 08:20 [financialjuice] Logan: Economic expansion strengthening, labor market well balanced
+- 10/02 08:20 [financialjuice] Logan: Fed policy is not restrictive, must be modestly tight
+- 10/02 08:20 [financialjuice] Logan: will monitor bond yield changes and evaluate their impact
+- 10/02 08:20 [financialjuice] Logan: we must revive price stability
+- 10/02 08:20 [financialjuice] Fed's Logan: policy rate must increase by additional 50 bps or more
+- 10/02 08:20 [financialjuice] Logan: increase in long-term yields signals market expects higher interest rates
+- 10/02 08:20 [financialjuice] Logan: at minimum, several more rate hikes would reverse last fall's reductions
+- 10/02 08:20 [financialjuice] Logan: without higher rates, inflation won’t reach Fed’s 2% target
+- 10/02 08:20 [financialjuice] Logan: Uncertainty remains on how high policy rate must rise to bring inflation to 2%
+- 10/02 08:30 [financialjuice] ❗ JAPANESE JOBS/APPLICANTS RATIO ACTUAL 1.18 (FORECAST 1.18, PREVIOUS 1.18) $MACRO
+- 10/02 08:30 [financialjuice] ❗ TOKYO CORE CPI YOY ACTUAL 2.7% (FORECAST 2.3%, PREVIOUS 1.8%) $MACRO
+- 10/02 08:30 [financialjuice] ‼ BREAKING: TOKYO CPI OVERALL ACTUAL 2.7% (FORECAST 2.5%, PREVIOUS 1.9%) $MACRO
+- 10/02 08:30 [financialjuice] Japan aug jobs-applicants ratio steady at 1.18 in july: govt
+- 10/02 08:30 [financialjuice] Tokyo area September core CPI rises 2.7% year/year: government poll 2.4%
+- 10/02 08:30 [financialjuice] Japan Aug seasonally adjusted jobless rate 2.5%: govt (Poll: 2.4%)
+- 10/02 08:30 [financialjuice] ❗ JAPANESE UNEMPLOYMENT RATE ACTUAL 2.5% (FORECAST 2.4%, PREVIOUS 2.4%) $MACRO
+- 10/02 08:30 [financialjuice] Tokyo area September CPI excluding fresh food and energy rises 3.0% yr/yr: govt
+- 10/02 08:30 [financialjuice] Tokyo area September overall inflation rises 2.7% yr/yr: govt
+- 10/02 08:32 [financialjuice] Tokyo core CPI rises at fastest rate since November 2025

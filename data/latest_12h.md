@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-02 08:15 JST／対象: 10/01 20:15 〜 10/02 08:15 JST（時刻はすべて日本時間）
+生成: 2026-10-02 08:33 JST／対象: 10/01 20:33 〜 10/02 08:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 70 | 10/01 20:33 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 159 | 10/01 20:28 | 10/02 06:24 | 39分（01:52→02:31） |
-| financialjuice | 267 | 10/01 20:19 | 10/02 08:00 | ⚠ 79分（06:41→08:00） |
+| DeItaone | 69 | 10/01 20:34 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
+| FirstSquawk | 157 | 10/01 20:38 | 10/02 08:16 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 285 | 10/01 20:34 | 10/02 08:32 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 464 行（統合前 502 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 479 行（統合前 517 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 20:19 [financialjuice] Trump: Dinner with Anthropic CEO Amodei lasted more than two hours - Time
-- 10/01 20:28 [FirstSquawk] ECB'S NAGEL: ON RISE IN BOND YIELDS - ALL ECB INSTRUMENTS ARE FOR DELIVERING PRICE STABILITY NOT FOR CERTAIN YIELD LEVELS
-- 10/01 20:28 [FirstSquawk] TRUMP TO TIME: WE'LL SOON BE FILLING UP STRATEGIC OIL RESERVE
-- 10/01 20:28 [FirstSquawk] TRUMP: AMODEI VERY SMART, DIFFERENT THAN TRUMP THOUGHT: TIME
-- 10/01 20:32 [financialjuice] Iran's president Pezeshkian: Tehran won't ever shy away from dialogue, even as the US targeted Iran several times - Tasnim
-- 10/01 20:33 [DeItaone] CITI RAISES BITCOIN TARGET TO $113,000 Citi has raised its 12-month Bitcoin target to $113,000 from $82,000, implying roughly 35% upside from current levels near $83,900. The bank points to renewed currency-debasement fears, greater regulat…
 - 10/01 20:34 [DeItaone] FED'S KASHKARI: ECONOMY KEEPS SURPRISING ME HOW RESILIENT IT IS
 - 10/01 20:34 [financialjuice] Fed's Kashkari: Don't know how high rates need to go.
 - 10/01 20:35 [financialjuice] Fed's Kashkari: We will do what we need to get inflation to the goal
@@ -488,3 +482,24 @@
 - 10/02 08:00 [financialjuice] S.Korea Sept consumer price index rises 0.3% m/m: stats office
 - 10/02 08:00 [financialjuice] S. Korea September core CPI rises 2.8% y/y, down from 3.4% in August: stats office
 - 10/02 08:00 [financialjuice] S. Korea Sept consumer price index rises 2.9% y/y: stats office
+- 10/02 08:16 [FirstSquawk] SOUTH KOREA'S SEPTEMBER CONSUMER PRICE INDEX ROSE 2.9% YEAR-ON-YEAR, IN LINE WITH THE FORECAST AND EASING FROM 3.10%, AND WAS UP 0.3% MONTH-ON-MONTH, WITH CORE CPI UP 2.8% Y/Y, DOWN FROM 3.4% IN AUGUST - STATS OFFICE
+- 10/02 08:20 [financialjuice] Logan: higher yields may also indicate increased term premiums, lowering need to tighten monetary policy
+- 10/02 08:20 [financialjuice] Logan: Economic expansion strengthening, labor market well balanced
+- 10/02 08:20 [financialjuice] Logan: Fed policy is not restrictive, must be modestly tight
+- 10/02 08:20 [financialjuice] Logan: will monitor bond yield changes and evaluate their impact
+- 10/02 08:20 [financialjuice] Logan: we must revive price stability
+- 10/02 08:20 [financialjuice] Fed's Logan: policy rate must increase by additional 50 bps or more
+- 10/02 08:20 [financialjuice] Logan: increase in long-term yields signals market expects higher interest rates
+- 10/02 08:20 [financialjuice] Logan: at minimum, several more rate hikes would reverse last fall's reductions
+- 10/02 08:20 [financialjuice] Logan: without higher rates, inflation won’t reach Fed’s 2% target
+- 10/02 08:20 [financialjuice] Logan: Uncertainty remains on how high policy rate must rise to bring inflation to 2%
+- 10/02 08:30 [financialjuice] ❗ JAPANESE JOBS/APPLICANTS RATIO ACTUAL 1.18 (FORECAST 1.18, PREVIOUS 1.18) $MACRO
+- 10/02 08:30 [financialjuice] ❗ TOKYO CORE CPI YOY ACTUAL 2.7% (FORECAST 2.3%, PREVIOUS 1.8%) $MACRO
+- 10/02 08:30 [financialjuice] ‼ BREAKING: TOKYO CPI OVERALL ACTUAL 2.7% (FORECAST 2.5%, PREVIOUS 1.9%) $MACRO
+- 10/02 08:30 [financialjuice] Japan aug jobs-applicants ratio steady at 1.18 in july: govt
+- 10/02 08:30 [financialjuice] Tokyo area September core CPI rises 2.7% year/year: government poll 2.4%
+- 10/02 08:30 [financialjuice] Japan Aug seasonally adjusted jobless rate 2.5%: govt (Poll: 2.4%)
+- 10/02 08:30 [financialjuice] ❗ JAPANESE UNEMPLOYMENT RATE ACTUAL 2.5% (FORECAST 2.4%, PREVIOUS 2.4%) $MACRO
+- 10/02 08:30 [financialjuice] Tokyo area September CPI excluding fresh food and energy rises 3.0% yr/yr: govt
+- 10/02 08:30 [financialjuice] Tokyo area September overall inflation rises 2.7% yr/yr: govt
+- 10/02 08:32 [financialjuice] Tokyo core CPI rises at fastest rate since November 2025
