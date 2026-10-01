@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-01 13:56 JST／対象: 09/30 13:56 〜 10/01 13:56 JST（時刻はすべて日本時間）
+生成: 2026-10-01 14:18 JST／対象: 09/30 14:18 〜 10/01 14:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 75 | 09/30 18:55 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
-| FirstSquawk | 360 | 09/30 13:59 | 10/01 13:35 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 356 | 09/30 14:00 | 10/01 13:55 | ⚠ 58分（14:00→14:59） |
+| FirstSquawk | 357 | 09/30 14:33 | 10/01 14:13 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 357 | 09/30 14:59 | 10/01 14:07 | ⚠ 54分（16:01→16:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 772 行（統合前 793 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 770 行（統合前 791 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 13:59 [FirstSquawk] Berenberg lifts Sabre Insurance Group target price to 205p from 200p
-- 09/30 14:00 [financialjuice] JAPANESE HOUSING STARTS YOY ACTUAL 6.137% (FORECAST 7%, PREVIOUS 8.2%) $MACRO
-- 09/30 14:00 [financialjuice] Finnish August GDP rises 2.3% year on year: Statistics Finland
-- 09/30 14:02 [FirstSquawk] FINLAND (AUG) Retail Sales Volume WDA YoY ACTUAL: 3.7% VS 2% PREVIOUS
-- 09/30 14:02 [FirstSquawk] FINLAND (AUG) GDP Indicator WDA YoY ACTUAL: 2.3% VS 1.4% PREVIOUS
-- 09/30 14:02 [FirstSquawk] JAPAN (AUG) HOUSING STARTS YOY ACTUAL: 6.1% VS 8.2% PREVIOUS;EST 7.0%
-- 09/30 14:02 [FirstSquawk] JAPAN (AUG) ANNUALIED HOUSING STARTS ACTUAL: 0.753M VS 0.774M PREVIOUS;EST 0.766M
-- 09/30 14:09 [FirstSquawk] Chinese manufacturing activity grows in September as AI boom fuels demand
-- 09/30 14:10 [FirstSquawk] Berenberg lifts Rio Tinto target price to 8,700p from 8,600p
-- 09/30 14:15 [FirstSquawk] Russian military strikes communications center in Kyiv overnight, IFX reports, citing Defence Ministry
-- 09/30 14:16 [FirstSquawk] Energy system facilities in Kyiv region hit in massive strike, Russian Defence Ministry says — IFX
 - 09/30 14:33 [FirstSquawk] Nikkei climbs 1.5%, driven by gains in chip and bank stocks — WSJ
 - 09/30 14:38 [FirstSquawk] Gold slips as Fed hike bets and Middle East tensions underpin the U.S. dollar — FX
 - 09/30 14:39 [FirstSquawk] Kazakhstan restarts enforcement proceedings to recover 2.3 trillion tenge fine from NCOC — IFX
@@ -796,3 +785,12 @@
 - 10/01 13:37 [financialjuice] India monthly economic report: net foreign direct investment inflows projected to rise this financial year from last year
 - 10/01 13:54 [financialjuice] Bahrain aug m2 money supply rises 7.76% y/y: central bank
 - 10/01 13:55 [financialjuice] Bahrain Aug private sector credit advances 6.31% y/y: central bank
+- 10/01 14:00 [FirstSquawk] INDIA (SEP) HSBC INDIA PMI MFG ACTUAL: 55.1 VS 55.7 PREVIOUS
+- 10/01 14:00 [financialjuice] India HSBC/S&P Global September final manufacturing PMI at 55.1, below forecast 55.6
+- 10/01 14:00 [financialjuice] Netherlands S&P Global September manufacturing PMI rises to 55.6 from 53.8 in August
+- 10/01 14:06 [FirstSquawk] BNP Paribas expands Nordic wealth management operations, names Stina Norrhede regional head
+- 10/01 14:06 [FirstSquawk] BNP Paribas targets UHNW clients, entrepreneurs and family offices in Nordic expansion
+- 10/01 14:07 [financialjuice] DUTCH RETAIL SALES YOY ACTUAL 2.5% (FORECAST -, PREVIOUS 3.2%) $MACRO
+- 10/01 14:08 [FirstSquawk] US equity futures strengthen, with S&P 500 futures up 0.6% and Nasdaq futures 1.0%
+- 10/01 14:11 [FirstSquawk] XPeng reports September vehicle deliveries of 41,256, up 5% m/m
+- 10/01 14:13 [FirstSquawk] Japan business leaders prepare for China visit in March — Kyodo

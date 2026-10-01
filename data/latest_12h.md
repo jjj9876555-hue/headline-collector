@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-01 13:56 JST／対象: 10/01 01:56 〜 10/01 13:56 JST（時刻はすべて日本時間）
+生成: 2026-10-01 14:18 JST／対象: 10/01 02:18 〜 10/01 14:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 31 | 10/01 02:11 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
-| FirstSquawk | 189 | 10/01 02:02 | 10/01 13:35 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 208 | 10/01 01:59 | 10/01 13:55 | 36分（07:29→08:05） |
+| DeItaone | 29 | 10/01 02:19 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
+| FirstSquawk | 194 | 10/01 02:30 | 10/01 14:13 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 207 | 10/01 02:18 | 10/01 14:07 | 36分（07:29→08:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 417 行（統合前 429 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 420 行（統合前 431 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 01:59 [financialjuice] Israel's Prime Minister Netanyahu spoke with UAE President - Israel's Hayom News
-- 10/01 02:02 [FirstSquawk/DeItaone] FED WATCHDOG FINDS NO CRIMINAL VIOLATIONS IN RENOVATION PROJECT
-- 10/01 02:03 [financialjuice] OpenAI: Identified, disrupted coordinated campaign designed to extract protected reasoning from our models; operators did not break our encryption, compromise a database or gain direct access to stored user conversations
-- 10/01 02:04 [financialjuice] OpenAI: Attribute a core activity attributed to individuals tied to Kimi developer Moonshot AI
-- 10/01 02:08 [financialjuice] An Omani pilot who attempted to crash the plane from Dubai to Tel Aviv was neutralized, and the plane landed in Saudi Arabia - Israel's channel 14 news
-- 10/01 02:15 [DeItaone] GOLDMAN PUSHES NEXT FED HIKE TO DECEMBER Goldman Sachs now says an October Fed hike is unlikely, pushing its forecast for the next increase to December after softer inflation data. Core PCE fell to 3.01% YoY, well below expectations, with G…
 - 10/01 02:18 [financialjuice] Trump: Last US forces are leaving iraq - Truth Social
 - 10/01 02:19 [DeItaone] TRUMP: WE LEAVE IRAQ WITH A WONDERFUL NEW PRIME MINISTER
 - 10/01 02:22 [DeItaone] TRUMP ON TRUTH SOCIAL: I AM PLEASED TO ANNOUNCE, THE LAST AMERICAN FORCES ARE LEAVING IRAQ
@@ -441,3 +435,12 @@
 - 10/01 13:37 [financialjuice] India monthly economic report: net foreign direct investment inflows projected to rise this financial year from last year
 - 10/01 13:54 [financialjuice] Bahrain aug m2 money supply rises 7.76% y/y: central bank
 - 10/01 13:55 [financialjuice] Bahrain Aug private sector credit advances 6.31% y/y: central bank
+- 10/01 14:00 [FirstSquawk] INDIA (SEP) HSBC INDIA PMI MFG ACTUAL: 55.1 VS 55.7 PREVIOUS
+- 10/01 14:00 [financialjuice] India HSBC/S&P Global September final manufacturing PMI at 55.1, below forecast 55.6
+- 10/01 14:00 [financialjuice] Netherlands S&P Global September manufacturing PMI rises to 55.6 from 53.8 in August
+- 10/01 14:06 [FirstSquawk] BNP Paribas expands Nordic wealth management operations, names Stina Norrhede regional head
+- 10/01 14:06 [FirstSquawk] BNP Paribas targets UHNW clients, entrepreneurs and family offices in Nordic expansion
+- 10/01 14:07 [financialjuice] DUTCH RETAIL SALES YOY ACTUAL 2.5% (FORECAST -, PREVIOUS 3.2%) $MACRO
+- 10/01 14:08 [FirstSquawk] US equity futures strengthen, with S&P 500 futures up 0.6% and Nasdaq futures 1.0%
+- 10/01 14:11 [FirstSquawk] XPeng reports September vehicle deliveries of 41,256, up 5% m/m
+- 10/01 14:13 [FirstSquawk] Japan business leaders prepare for China visit in March — Kyodo

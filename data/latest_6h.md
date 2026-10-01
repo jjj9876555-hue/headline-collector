@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 13:56 JST／対象: 10/01 07:56 〜 10/01 13:56 JST（時刻はすべて日本時間）
+生成: 2026-10-01 14:18 JST／対象: 10/01 08:18 〜 10/01 14:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 112 | 10/01 08:44 | 10/01 13:35 | 17分（12:29→12:47） |
-| financialjuice | 104 | 10/01 08:05 | 10/01 13:55 | 30分（11:57→12:27） |
+| FirstSquawk | 118 | 10/01 08:44 | 10/01 14:13 | 24分（13:35→14:00） |
+| financialjuice | 99 | 10/01 08:36 | 10/01 14:07 | 30分（11:57→12:27） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 215 行（統合前 216 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 216 行（統合前 217 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 08:05 [financialjuice] Fed's Kashkari: keen to see outcomes from central bank task forces
-- 10/01 08:05 [financialjuice] Doubts an investment poses systemic risk
-- 10/01 08:05 [financialjuice] Fed says swap lines are part of monetary policy execution
-- 10/01 08:05 [financialjuice] Rise in bond yields is a global trend
-- 10/01 08:05 [financialjuice] AUSTRALIAN MANUFACTURING PMI FINAL ACTUAL 49.6 (FORECAST -, PREVIOUS 49.3) $MACRO
-- 10/01 08:11 [financialjuice] Eager to see outcomes from Fed task forces
-- 10/01 08:11 [financialjuice] Skyworks extends expiration date of exchange offers for Gorvo’s senior notes due 2029 and 2031
-- 10/01 08:17 [financialjuice] Meta names Dhruv Vohra managing director of global business group in Southeast Asia
 - 10/01 08:36 [financialjuice] S.Korea finance minister: will closely watch financial markets, take pre-emptive steps if necessary
 - 10/01 08:43 [financialjuice] Colombia's autonomous fiscal rule committee sees 7.8% GDP deficit for 2026, 9.5% for 2027: report
 - 10/01 08:43 [financialjuice] Fed's Kashkari: can't second-guess how market investment occurs
@@ -239,3 +231,12 @@
 - 10/01 13:37 [financialjuice] India monthly economic report: net foreign direct investment inflows projected to rise this financial year from last year
 - 10/01 13:54 [financialjuice] Bahrain aug m2 money supply rises 7.76% y/y: central bank
 - 10/01 13:55 [financialjuice] Bahrain Aug private sector credit advances 6.31% y/y: central bank
+- 10/01 14:00 [FirstSquawk] INDIA (SEP) HSBC INDIA PMI MFG ACTUAL: 55.1 VS 55.7 PREVIOUS
+- 10/01 14:00 [financialjuice] India HSBC/S&P Global September final manufacturing PMI at 55.1, below forecast 55.6
+- 10/01 14:00 [financialjuice] Netherlands S&P Global September manufacturing PMI rises to 55.6 from 53.8 in August
+- 10/01 14:06 [FirstSquawk] BNP Paribas expands Nordic wealth management operations, names Stina Norrhede regional head
+- 10/01 14:06 [FirstSquawk] BNP Paribas targets UHNW clients, entrepreneurs and family offices in Nordic expansion
+- 10/01 14:07 [financialjuice] DUTCH RETAIL SALES YOY ACTUAL 2.5% (FORECAST -, PREVIOUS 3.2%) $MACRO
+- 10/01 14:08 [FirstSquawk] US equity futures strengthen, with S&P 500 futures up 0.6% and Nasdaq futures 1.0%
+- 10/01 14:11 [FirstSquawk] XPeng reports September vehicle deliveries of 41,256, up 5% m/m
+- 10/01 14:13 [FirstSquawk] Japan business leaders prepare for China visit in March — Kyodo
