@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 13:38 JST／対象: 10/01 07:38 〜 10/01 13:38 JST（時刻はすべて日本時間）
+生成: 2026-10-01 13:56 JST／対象: 10/01 07:56 〜 10/01 13:56 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 116 | 10/01 07:49 | 10/01 13:35 | ⚠ 54分（07:50→08:44） |
-| financialjuice | 102 | 10/01 08:05 | 10/01 13:37 | 30分（11:57→12:27） |
+| FirstSquawk | 112 | 10/01 08:44 | 10/01 13:35 | 17分（12:29→12:47） |
+| financialjuice | 104 | 10/01 08:05 | 10/01 13:55 | 30分（11:57→12:27） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 217 行（統合前 218 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 215 行（統合前 216 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 07:49 [FirstSquawk] BOEING: JAPAN AIRLINES RENEWS INTEGRATED MATERIALS MANAGEMENT SERVICES AGREEMENT
-- 10/01 07:49 [FirstSquawk] FED'S KASHKARI SAYS THE ECONOMY REMAINS ROBUST DESPITE SHOCKS, WITH CONSUMERS CONTINUING TO SPEND AND JOB SEEKERS FINDING EMPLOYMENT, AND EXPECTS ONE MORE RATE INCREASE THIS YEAR AND ANOTHER IN 2027, ADDING THAT 'THE LONGER THE ECONOMY REMA…
-- 10/01 07:49 [FirstSquawk] FED'S KASHKARI SAYS THE CENTRAL BANK MUST RETURN INFLATION TO 2% GIVEN THE EXTENDED PERIOD ABOVE TARGET AND HOPES IT CAN DO SO WITH RESTRAINED MEASURES, WHILE WARNING THAT ROLLING SUPPLY SHOCKS MAY BOOST INFLATION EXPECTATIONS AND DOUBTING …
-- 10/01 07:50 [FirstSquawk] CPP INVESTMENTS TO SELL AUSTRALIAN TOLL ROAD STAKES TO TRANSURBAN FOR A$4.5B; DEAL COVERS WESTCONNEX & NORTHWESTERN ROADS GROUP INTERESTS
 - 10/01 08:05 [financialjuice] Fed's Kashkari: keen to see outcomes from central bank task forces
 - 10/01 08:05 [financialjuice] Doubts an investment poses systemic risk
 - 10/01 08:05 [financialjuice] Fed says swap lines are part of monetary policy execution
@@ -241,3 +237,5 @@
 - 10/01 13:36 [financialjuice] India monthly economic report: trade ties with US remain unsettled after passage and presidential assent of Graham bill
 - 10/01 13:37 [financialjuice] India monthly economic report: expansion momentum persists amid increased global uncertainty
 - 10/01 13:37 [financialjuice] India monthly economic report: net foreign direct investment inflows projected to rise this financial year from last year
+- 10/01 13:54 [financialjuice] Bahrain aug m2 money supply rises 7.76% y/y: central bank
+- 10/01 13:55 [financialjuice] Bahrain Aug private sector credit advances 6.31% y/y: central bank

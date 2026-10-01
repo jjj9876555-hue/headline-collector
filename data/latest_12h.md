@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-01 13:38 JST／対象: 10/01 01:38 〜 10/01 13:38 JST（時刻はすべて日本時間）
+生成: 2026-10-01 13:56 JST／対象: 10/01 01:56 〜 10/01 13:56 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 31 | 10/01 02:11 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
-| FirstSquawk | 194 | 10/01 01:45 | 10/01 13:35 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 209 | 10/01 01:43 | 10/01 13:37 | 36分（07:29→08:05） |
+| FirstSquawk | 189 | 10/01 02:02 | 10/01 13:35 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 208 | 10/01 01:59 | 10/01 13:55 | 36分（07:29→08:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 423 行（統合前 436 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 417 行（統合前 429 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 01:43 [financialjuice] US oil industry warns diesel prices will not return to normal for a year - FT
-- 10/01 01:45 [FirstSquawk] GOLDMAN SACHS REVISES FOR FED HIKE TO DECEMBER FROM OCTOBER
-- 10/01 01:45 [financialjuice] Goldman Sachs shifts fed forecast to December hike from October
-- 10/01 01:52 [FirstSquawk] LAGARDE: MÉLENCHON DEBT PLAN RISKY, FINANCIALLY VERY DANGEROUS
-- 10/01 01:54 [FirstSquawk] LAGARDE: RUNNING FOR FRENCH PRESIDENT NOT GOOD IDEA FOR ME
-- 10/01 01:54 [FirstSquawk] LAGARDE: WON'T RULE OUT LEAVING FEW MONTHS BEFORE ECB TERM ENDS
-- 10/01 01:55 [FirstSquawk] SPACEXAI PLANS TO SOON UNVEIL FOUR GROK PRICING TIERS
-- 10/01 01:55 [financialjuice] SpaceXAI plans to soon unveil four Grok pricing tiers. $SPCX
 - 10/01 01:59 [financialjuice] Israel's Prime Minister Netanyahu spoke with UAE President - Israel's Hayom News
 - 10/01 02:02 [FirstSquawk/DeItaone] FED WATCHDOG FINDS NO CRIMINAL VIOLATIONS IN RENOVATION PROJECT
 - 10/01 02:03 [financialjuice] OpenAI: Identified, disrupted coordinated campaign designed to extract protected reasoning from our models; operators did not break our encryption, compromise a database or gain direct access to stored user conversations
@@ -447,3 +439,5 @@
 - 10/01 13:36 [financialjuice] India monthly economic report: trade ties with US remain unsettled after passage and presidential assent of Graham bill
 - 10/01 13:37 [financialjuice] India monthly economic report: expansion momentum persists amid increased global uncertainty
 - 10/01 13:37 [financialjuice] India monthly economic report: net foreign direct investment inflows projected to rise this financial year from last year
+- 10/01 13:54 [financialjuice] Bahrain aug m2 money supply rises 7.76% y/y: central bank
+- 10/01 13:55 [financialjuice] Bahrain Aug private sector credit advances 6.31% y/y: central bank

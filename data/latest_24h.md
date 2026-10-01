@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-01 13:38 JST／対象: 09/30 13:38 〜 10/01 13:38 JST（時刻はすべて日本時間）
+生成: 2026-10-01 13:56 JST／対象: 09/30 13:56 〜 10/01 13:56 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 75 | 09/30 18:55 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
-| FirstSquawk | 362 | 09/30 13:50 | 10/01 13:35 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 354 | 09/30 14:00 | 10/01 13:37 | ⚠ 58分（14:00→14:59） |
+| FirstSquawk | 360 | 09/30 13:59 | 10/01 13:35 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 356 | 09/30 14:00 | 10/01 13:55 | ⚠ 58分（14:00→14:59） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 772 行（統合前 793 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,8 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 13:50 [FirstSquawk] Berenberg lifts BHP Group target price to 3,500p from 3,400p
-- 09/30 13:51 [FirstSquawk] Berenberg lifts Cornish Metals target price to 153p from 151p
 - 09/30 13:59 [FirstSquawk] Berenberg lifts Sabre Insurance Group target price to 205p from 200p
 - 09/30 14:00 [financialjuice] JAPANESE HOUSING STARTS YOY ACTUAL 6.137% (FORECAST 7%, PREVIOUS 8.2%) $MACRO
 - 09/30 14:00 [financialjuice] Finnish August GDP rises 2.3% year on year: Statistics Finland
@@ -796,3 +794,5 @@
 - 10/01 13:36 [financialjuice] India monthly economic report: trade ties with US remain unsettled after passage and presidential assent of Graham bill
 - 10/01 13:37 [financialjuice] India monthly economic report: expansion momentum persists amid increased global uncertainty
 - 10/01 13:37 [financialjuice] India monthly economic report: net foreign direct investment inflows projected to rise this financial year from last year
+- 10/01 13:54 [financialjuice] Bahrain aug m2 money supply rises 7.76% y/y: central bank
+- 10/01 13:55 [financialjuice] Bahrain Aug private sector credit advances 6.31% y/y: central bank
