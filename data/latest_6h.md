@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 19:47 JST／対象: 10/01 13:47 〜 10/01 19:47 JST（時刻はすべて日本時間）
+生成: 2026-10-01 20:01 JST／対象: 10/01 14:01 〜 10/01 20:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 18 | 10/01 16:25 | 10/01 19:33 | 37分（17:52→18:30） |
-| FirstSquawk | 78 | 10/01 14:00 | 10/01 19:43 | ⚠ 53分（18:34→19:28） |
-| financialjuice | 61 | 10/01 13:54 | 10/01 19:33 | ⚠ 52分（14:07→15:00） |
+| FirstSquawk | 81 | 10/01 14:06 | 10/01 19:59 | ⚠ 53分（18:34→19:28） |
+| financialjuice | 57 | 10/01 14:07 | 10/01 19:33 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 156 行（統合前 157 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 155 行（統合前 156 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 13:54 [financialjuice] Bahrain aug m2 money supply rises 7.76% y/y: central bank
-- 10/01 13:55 [financialjuice] Bahrain Aug private sector credit advances 6.31% y/y: central bank
-- 10/01 14:00 [FirstSquawk] INDIA (SEP) HSBC INDIA PMI MFG ACTUAL: 55.1 VS 55.7 PREVIOUS
-- 10/01 14:00 [financialjuice] India HSBC/S&P Global September final manufacturing PMI at 55.1, below forecast 55.6
-- 10/01 14:00 [financialjuice] Netherlands S&P Global September manufacturing PMI rises to 55.6 from 53.8 in August
 - 10/01 14:06 [FirstSquawk] BNP Paribas expands Nordic wealth management operations, names Stina Norrhede regional head
 - 10/01 14:06 [FirstSquawk] BNP Paribas targets UHNW clients, entrepreneurs and family offices in Nordic expansion
 - 10/01 14:07 [financialjuice] DUTCH RETAIL SALES YOY ACTUAL 2.5% (FORECAST -, PREVIOUS 3.2%) $MACRO
@@ -180,3 +175,7 @@
 - 10/01 19:43 [FirstSquawk] ACCENTURE Q4 REVENUE USD 18,700 MILLION VS ESTIMATE USD 18,032 MILLION || OUTLOOK FY REVENUE GROWTH 3-6% || Q4 EPS USD 3.29
 - 10/01 19:43 [FirstSquawk] ACCENTURE Q4 NEW BOOKINGS USD 22,200 MILLION
 - 10/01 19:43 [FirstSquawk] ACCENTURE OUTLOOK FY GAAP DILUTED EPS OF $14.39 TO $14.81 || ACCENTURE OUTLOOK FY 3% TO 6% INCREASE OVER ADJUSTED EPS
+- 10/01 19:51 [FirstSquawk] NOVO’S WEGOVY ® (SEMAGLUTIDE) REDUCED LIVER FAT TO NORMAL LEVELS IN 9 OUT OF 10 ADULTS WITH OBESITY AND EXCESS LIVER FAT – EASD2026
+- 10/01 19:52 [FirstSquawk] Accenture Q4 2026 Earnings - EPS $3.29 ($2.25 Y/Y) - Rev 18.7B (est 18.03B) - Sees 2027 Rev +3% To +6% - Sees 2027 EPS $14.39 To $14.81
+- 10/01 19:53 [FirstSquawk] EU COMMISSION OFFICIAL: EU, UK, FRANCE, ITALY, IRELAND CURRENTLY HOLDING CALL ON DIESEL STOCK RELEASES
+- 10/01 19:59 [FirstSquawk] EU SPOX: UP TO UK TO DECIDE HOW TO MANAGE, DEVELOP EU TIES
