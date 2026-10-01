@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-02 01:39 JST／対象: 10/01 01:39 〜 10/02 01:39 JST（時刻はすべて日本時間）
+生成: 2026-10-02 01:54 JST／対象: 10/01 01:54 〜 10/02 01:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 89 | 10/01 02:11 | 10/02 01:36 | ⚠ 610分（06:15→16:25） |
-| FirstSquawk | 355 | 10/01 01:45 | 10/02 01:36 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 412 | 10/01 01:43 | 10/02 01:34 | ⚠ 52分（14:07→15:00） |
+| DeItaone | 93 | 10/01 02:11 | 10/02 01:51 | ⚠ 610分（06:15→16:25） |
+| FirstSquawk | 356 | 10/01 01:54 | 10/02 01:52 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 415 | 10/01 01:55 | 10/02 01:51 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 824 行（統合前 862 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 832 行（統合前 869 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 01:43 [financialjuice] US oil industry warns diesel prices will not return to normal for a year - FT
-- 10/01 01:45 [FirstSquawk] GOLDMAN SACHS REVISES FOR FED HIKE TO DECEMBER FROM OCTOBER
-- 10/01 01:45 [financialjuice] Goldman Sachs shifts fed forecast to December hike from October
-- 10/01 01:52 [FirstSquawk] LAGARDE: MÉLENCHON DEBT PLAN RISKY, FINANCIALLY VERY DANGEROUS
-- 10/01 01:54 [FirstSquawk] LAGARDE: RUNNING FOR FRENCH PRESIDENT NOT GOOD IDEA FOR ME
 - 10/01 01:54 [FirstSquawk] LAGARDE: WON'T RULE OUT LEAVING FEW MONTHS BEFORE ECB TERM ENDS
 - 10/01 01:55 [FirstSquawk] SPACEXAI PLANS TO SOON UNVEIL FOUR GROK PRICING TIERS
 - 10/01 01:55 [financialjuice] SpaceXAI plans to soon unveil four Grok pricing tiers. $SPCX
@@ -848,3 +843,16 @@
 - 10/02 01:35 [FirstSquawk] PUTIN: I HOPE THAT STRAIT OF HORMUZ WILL BE OPEN FOR SHIPPING, SANCTIONS FROM IRAN WILL BE LIFTED
 - 10/02 01:36 [DeItaone] US ISSUES NEW IRAN-RELATED SANCTIONS -US TREASURY WEBSITE US TARGETS IRAN'S RAIL AND AUTOMOBILE CONGLOMERATES IN LATEST SANCTIONS THAT AIM TO ISOLATE TEHRAN ECONOMICALLY, TREASURY DEPARTMENT SAYS
 - 10/02 01:36 [FirstSquawk] US TARGETS IRAN'S RAIL AND AUTOMOBILE CONGLOMERATES IN LATEST SANCTIONS THAT AIM TO ISOLATE TEHRAN ECONOMICALLY, TREASURY DEPARTMENT SAYS
+- 10/02 01:39 [FirstSquawk] TRUMP, ASKED IF BUILDING BASE IN LATAM, SAYS LOOKING INTO IT
+- 10/02 01:40 [financialjuice] Trump: Interest rates will hurt our growth.
+- 10/02 01:41 [FirstSquawk] TRUMP ON WARSH: I WANT HIM TO VOTE THE WAY HE WANTS
+- 10/02 01:41 [DeItaone] https://t.co/LDy0rtNnVh
+- 10/02 01:44 [financialjuice] Iran's UN Mission: US and Western allies lack credibility to lecture Iran on non-proliferation or international law while shielding Israel from accountability and staying silent on its nuclear arsenal - Post on X
+- 10/02 01:47 [DeItaone] BOFA STOCK SENTIMENT NEARS “SELL” SIGNAL Bank of America’s Sell Side Indicator rose to 57.2% in September, its highest since March 2022 and just 0.3 percentage points below BofA’s “sell” threshold. The contrarian indicator tracks Wall Stree…
+- 10/02 01:51 [DeItaone] TRUMP: INTEREST RATES CAN SLOW DOWN GROWTH. WE WANT GROWTH — AND GROWTH DOES NOT CAUSE INFLATION
+- 10/02 01:51 [financialjuice] Trump on Iran: now I have to make a decision. Either Iran signs deal, or it won't exist any longer.
+- 10/02 01:51 [financialjuice] Trump ends remarks to reporters
+- 10/02 01:51 [DeItaone] *TRUMP ON IRAN: NOW I HAVE TO MAKE A DECISION *TRUMP: EITHER IRAN SIGNS DEAL, OR IT WON'T EXIST ANY LONGER
+- 10/02 01:51 [financialjuice] Putin: we support trilateral meeting with Xi, Trump, but agenda for talks should be worked out.
+- 10/02 01:52 [FirstSquawk] TRUMP ON IRAN: NOW I HAVE TO MAKE A DECISION
+- 10/02 01:52 [FirstSquawk] TRUMP: EITHER IRAN SIGNS DEAL, OR IT WON'T EXIST ANY LONGER

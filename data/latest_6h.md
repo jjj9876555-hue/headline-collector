@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-02 01:39 JST／対象: 10/01 19:39 〜 10/02 01:39 JST（時刻はすべて日本時間）
+生成: 2026-10-02 01:54 JST／対象: 10/01 19:54 〜 10/02 01:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 40 | 10/01 20:06 | 10/02 01:36 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 86 | 10/01 19:43 | 10/02 01:36 | 21分（21:46→22:08） |
-| financialjuice | 142 | 10/01 20:02 | 10/02 01:34 | 27分（21:32→22:00） |
+| DeItaone | 44 | 10/01 20:06 | 10/02 01:51 | ⚠ 102分（23:19→01:02） |
+| FirstSquawk | 84 | 10/01 19:59 | 10/02 01:52 | 21分（21:46→22:08） |
+| financialjuice | 147 | 10/01 20:02 | 10/02 01:51 | 27分（21:32→22:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 248 行（統合前 272 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 255 行（統合前 279 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 19:43 [FirstSquawk] ACCENTURE Q4 REVENUE USD 18,700 MILLION VS ESTIMATE USD 18,032 MILLION || OUTLOOK FY REVENUE GROWTH 3-6% || Q4 EPS USD 3.29
-- 10/01 19:43 [FirstSquawk] ACCENTURE Q4 NEW BOOKINGS USD 22,200 MILLION
-- 10/01 19:43 [FirstSquawk] ACCENTURE OUTLOOK FY GAAP DILUTED EPS OF $14.39 TO $14.81 || ACCENTURE OUTLOOK FY 3% TO 6% INCREASE OVER ADJUSTED EPS
-- 10/01 19:51 [FirstSquawk] NOVO’S WEGOVY ® (SEMAGLUTIDE) REDUCED LIVER FAT TO NORMAL LEVELS IN 9 OUT OF 10 ADULTS WITH OBESITY AND EXCESS LIVER FAT – EASD2026
-- 10/01 19:52 [FirstSquawk] Accenture Q4 2026 Earnings - EPS $3.29 ($2.25 Y/Y) - Rev 18.7B (est 18.03B) - Sees 2027 Rev +3% To +6% - Sees 2027 EPS $14.39 To $14.81
-- 10/01 19:53 [FirstSquawk] EU COMMISSION OFFICIAL: EU, UK, FRANCE, ITALY, IRELAND CURRENTLY HOLDING CALL ON DIESEL STOCK RELEASES
 - 10/01 19:59 [FirstSquawk] EU SPOX: UP TO UK TO DECIDE HOW TO MANAGE, DEVELOP EU TIES
 - 10/01 20:02 [financialjuice] The EU is talking to some European states and the UK about the diesel situation
 - 10/01 20:03 [financialjuice] Trump to Time: I liked Anthropic CEO Amodei a lot
@@ -272,3 +266,16 @@
 - 10/02 01:35 [FirstSquawk] PUTIN: I HOPE THAT STRAIT OF HORMUZ WILL BE OPEN FOR SHIPPING, SANCTIONS FROM IRAN WILL BE LIFTED
 - 10/02 01:36 [DeItaone] US ISSUES NEW IRAN-RELATED SANCTIONS -US TREASURY WEBSITE US TARGETS IRAN'S RAIL AND AUTOMOBILE CONGLOMERATES IN LATEST SANCTIONS THAT AIM TO ISOLATE TEHRAN ECONOMICALLY, TREASURY DEPARTMENT SAYS
 - 10/02 01:36 [FirstSquawk] US TARGETS IRAN'S RAIL AND AUTOMOBILE CONGLOMERATES IN LATEST SANCTIONS THAT AIM TO ISOLATE TEHRAN ECONOMICALLY, TREASURY DEPARTMENT SAYS
+- 10/02 01:39 [FirstSquawk] TRUMP, ASKED IF BUILDING BASE IN LATAM, SAYS LOOKING INTO IT
+- 10/02 01:40 [financialjuice] Trump: Interest rates will hurt our growth.
+- 10/02 01:41 [FirstSquawk] TRUMP ON WARSH: I WANT HIM TO VOTE THE WAY HE WANTS
+- 10/02 01:41 [DeItaone] https://t.co/LDy0rtNnVh
+- 10/02 01:44 [financialjuice] Iran's UN Mission: US and Western allies lack credibility to lecture Iran on non-proliferation or international law while shielding Israel from accountability and staying silent on its nuclear arsenal - Post on X
+- 10/02 01:47 [DeItaone] BOFA STOCK SENTIMENT NEARS “SELL” SIGNAL Bank of America’s Sell Side Indicator rose to 57.2% in September, its highest since March 2022 and just 0.3 percentage points below BofA’s “sell” threshold. The contrarian indicator tracks Wall Stree…
+- 10/02 01:51 [DeItaone] TRUMP: INTEREST RATES CAN SLOW DOWN GROWTH. WE WANT GROWTH — AND GROWTH DOES NOT CAUSE INFLATION
+- 10/02 01:51 [financialjuice] Trump on Iran: now I have to make a decision. Either Iran signs deal, or it won't exist any longer.
+- 10/02 01:51 [financialjuice] Trump ends remarks to reporters
+- 10/02 01:51 [DeItaone] *TRUMP ON IRAN: NOW I HAVE TO MAKE A DECISION *TRUMP: EITHER IRAN SIGNS DEAL, OR IT WON'T EXIST ANY LONGER
+- 10/02 01:51 [financialjuice] Putin: we support trilateral meeting with Xi, Trump, but agenda for talks should be worked out.
+- 10/02 01:52 [FirstSquawk] TRUMP ON IRAN: NOW I HAVE TO MAKE A DECISION
+- 10/02 01:52 [FirstSquawk] TRUMP: EITHER IRAN SIGNS DEAL, OR IT WON'T EXIST ANY LONGER
