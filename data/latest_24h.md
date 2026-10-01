@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-02 03:23 JST／対象: 10/01 03:23 〜 10/02 03:23 JST（時刻はすべて日本時間）
+生成: 2026-10-02 03:44 JST／対象: 10/01 03:44 〜 10/02 03:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 104 | 10/01 03:31 | 10/02 03:11 | ⚠ 610分（06:15→16:25） |
-| FirstSquawk | 370 | 10/01 03:31 | 10/02 03:22 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 449 | 10/01 03:23 | 10/02 03:18 | ⚠ 52分（14:07→15:00） |
+| DeItaone | 105 | 10/01 03:45 | 10/02 03:42 | ⚠ 610分（06:15→16:25） |
+| FirstSquawk | 368 | 10/01 03:54 | 10/02 03:24 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 452 | 10/01 03:46 | 10/02 03:38 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 894 行（統合前 929 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 895 行（統合前 931 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 03:23 [financialjuice] Trump: Canada has taken advantage of the US for many years.
-- 10/01 03:31 [financialjuice] NYMEX WTI Crude November futures settle at $90.42 a barrel, up $1.04, 1.16%.
-- 10/01 03:31 [DeItaone] $SNPS - OPENAI AND SYNOPSYS ANNOUNCE GPT-SYNOPSYS: FRONTIER INTELLIGENCE TO REVOLUTIONIZE CHIP DESIGN
-- 10/01 03:31 [financialjuice] NYMEX Gasoline October futures settle at $3.4378 a gallon.
-- 10/01 03:31 [financialjuice] NYMEX Diesel October futures settle at $4.9569 a gallon.
-- 10/01 03:31 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 1.16% HIGHER AT $90.42/BBL, UP $1.04
-- 10/01 03:32 [financialjuice] NYMEX Natural Gas November futures settle at $3.0260/MMBtu.
-- 10/01 03:36 [DeItaone] SYCAMORE PARTNERS IN TALKS TO SELL U.K. PHARMACY CHAIN BOOTS, SOURCES SAY SYCAMORE PARTNERS IN TALKS TO SELL U.K. PHARMACY CHAIN BOOTS, SOURCES SAY CANADIAN ARM OF WESTON FAMILY IN TALKS TO BUY BOOTS FOR CLOSE TO $9 BILLION, SOURCES SAY SYC…
-- 10/01 03:36 [financialjuice] White House: South Korea plans to invest billions into major US energy projects, including a crucial Alaska LNG plan. These investments will generate thousands of jobs and help reduce energy costs for Americans - Post on X.
-- 10/01 03:37 [financialjuice] Trump ends remarks.
-- 10/01 03:38 [DeItaone] WALGREENS OWNER NEARS $9 BILLION BOOTS SALE Walgreens owner Sycamore Partners is nearing a deal to sell Boots for close to $9 billion including debt, according to the WSJ. The buyer is reportedly the Canadian arm of the Weston family, which…
-- 10/01 03:40 [FirstSquawk] SYNOPSYS SAYS IT AND OPENAI HAVE SIGNED A MULTI-YEAR AGREEMENT TO DEVELOP GPT-SYNOPSYS FOR CHIP DESIGN, WITH OPENAI TO LICENSE SYNOPSYS' TRUSTED ELECTRONIC DESIGN AUTOMATION (EDA) TOOLS FOR DEVELOPMENT OF THE SPECIALIZED MODEL.
-- 10/01 03:40 [FirstSquawk] SYNOPSYS SAYS THE AGREEMENT INCLUDES REVENUE SHARING AND A GLOBAL GO-TO-MARKET FOR GPT-SYNOPSYS.
-- 10/01 03:41 [DeItaone] *WHITE HOUSE: SOUTH KOREA PLANS TO INVEST BILLIONS
-- 10/01 03:41 [DeItaone] WHITE HOUSE SAYS S. KOREA TO INVEST IN US ENERGY
-- 10/01 03:42 [FirstSquawk] US SENATORS DELAY PUSH FOR PERMANENT CHINESE CAR BAN APPROVAL UNTIL NOVEMBER — AIDES
-- 10/01 03:44 [FirstSquawk] ISRAEL'S NETANYAHU SAYS THE PILOT ATTACKED ON A FLYDUBAI FLIGHT WAS INDIAN, NAMING HIM AS SMIT MACHCHHAR, AND SAYS THE PILOT'S ACTIONS SAVED 174 LIVES, INCLUDING ISRAELIS AND OTHER NATIONALS
 - 10/01 03:45 [DeItaone] *BIGGEST US GRID SUSPENDS PLAN FOR NEW DATA CENTER POWER AUCTION
 - 10/01 03:46 [DeItaone] SYRIA SAYS THREE POWER PLANTS GONE OUT OF SERVICE AFTER GAS PIPELINE EXPLOSION -STATE NEWS AGENCY
 - 10/01 03:46 [financialjuice] Syria: Three power plants gone out of service after gas pipeline explosion - State News Agency.
@@ -918,3 +901,21 @@
 - 10/02 03:18 [financialjuice] NVIDIA and Softbank make a final $20 billion investment in OpenAI’s last round - The Information. $NVDA
 - 10/02 03:21 [FirstSquawk] NVIDIA AND SOFTBANK HAVE MADE A FINAL COMBINED $20 BLN INVESTMENT IN OPENAI'S LAST FUNDING ROUND, EACH PUTTING IN A FINAL $10 BLN TOWARD THEIR RESPECTIVE $30 BLN PLEDGES - THE INFORMATION
 - 10/02 03:22 [FirstSquawk] RUSSIA'S PUTIN SAYS RUSSIA NEEDS SECURITY GUARANTEES OVER UKRAINE, SPEAKING ABOUT TERRITORIAL GAINS IN SEPTEMBER
+- 10/02 03:23 [FirstSquawk] SOFTBANK GROUP SAYS IT HAS EXECUTED THE THIRD AND FINAL TRANCHE OF ITS FOLLOW-ON INVESTMENT IN OPENAI GROUP PBC, IN THE AMOUNT OF $10.0 BLN, TAKING ITS CUMULATIVE OPENAI INVESTMENT TO $64.60 BLN WITH ABOUT 13% OWNERSHIP.
+- 10/02 03:23 [FirstSquawk] SOFTBANK GROUP SAYS THAT EFFECTIVE SEP. 30 IT CANCELED THE REMAINING $10.0 BLN OF UNDRAWN CAPACITY UNDER THE BRIDGE FACILITY AGREEMENT ENTERED INTO ON MAR. 27 WITH OPENAI, WITH ALL BORROWINGS REPAID AND NO UNDRAWN COMMITMENTS REMAINING - WE…
+- 10/02 03:24 [FirstSquawk] RUSSIA'S PUTIN SAYS RUSSIA IS READY FOR TALKS AND TO WRAP THEM UP AS SOON AS POSSIBLE, BUT ON CONDITIONS ACCEPTABLE FOR THE RUSSIAN PEOPLE
+- 10/02 03:29 [DeItaone] US ENERGY SECRETARY CHRIS WRIGHT:ABSOLUTELY WE WILL ASK EUROPE TO RELEASE STRATEGIC DIESEL RESERVES - FOX NEWS
+- 10/02 03:29 [financialjuice] US Energy Secretary Wright: Absolutely we will ask Europe to release strategic diesel reserves - Fox News.
+- 10/02 03:30 [DeItaone] US ENERGY SECRETARY CHRIS WRIGHT:EUROPE CAN HELP THE SITUATION AND I'M HIGHLY CONFIDENT THEY WILL
+- 10/02 03:31 [financialjuice] US Energy Secretary Wright: Europe can help the situation and I’m highly confident they will.
+- 10/02 03:31 [financialjuice] NYMEX WTI Crude November futures settle at $92.87 a barrel, up $2.45, 2.71%.
+- 10/02 03:31 [financialjuice] NYMEX Gasoline November futures settle at $3.4026 a gallon.
+- 10/02 03:31 [financialjuice] NYMEX Diesel November futures settle at $4.6420 a gallon.
+- 10/02 03:32 [financialjuice] NYMEX Natural Gas November futures settle at $2.9670/MMBtu.
+- 10/02 03:32 [financialjuice] US Energy Secretary Wright: The US is confident that Europe will release diesel from stockpiles.
+- 10/02 03:34 [DeItaone/financialjuice] IRAN OFFERS TO ALLOW NUCLEAR INSPECTORS IF SANCTIONS ARE EASED
+- 10/02 03:36 [DeItaone] IRAN OFFERS NUCLEAR INSPECTOR ACCESS FOR SANCTIONS RELIEF Iran has privately signaled it could restore nuclear inspectors’ access to bombed facilities in exchange for sanctions relief, Bloomberg reports. Foreign Minister Abbas Araghchi rais…
+- 10/02 03:38 [financialjuice] US Energy Secretary Wright: We'll see lower gasolinea nd diesel prices come the election.
+- 10/02 03:38 [financialjuice] US Energy Secretary Wright ends remarks on Fox News.
+- 10/02 03:41 [DeItaone] *WRIGHT: WE'LL SEE LOWER GASOLINE, DIESEL PRICES COME ELECTION
+- 10/02 03:42 [DeItaone] TRUMP: PRICES ARE “COMING DOWN RAPIDLY” President Trump says prices are “way down” from levels under the Biden administration and claims they are continuing to fall rapidly. Trump blamed Democrats for elevated prices and said Republicans ar…

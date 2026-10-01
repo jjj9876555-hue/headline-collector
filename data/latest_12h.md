@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-02 03:23 JST／対象: 10/01 15:23 〜 10/02 03:23 JST（時刻はすべて日本時間）
+生成: 2026-10-02 03:44 JST／対象: 10/01 15:44 〜 10/02 03:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 86 | 10/01 16:25 | 10/02 03:11 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 177 | 10/01 15:23 | 10/02 03:22 | ⚠ 53分（18:34→19:28） |
-| financialjuice | 258 | 10/01 15:30 | 10/02 03:18 | 44分（18:40→19:25） |
+| DeItaone | 92 | 10/01 16:25 | 10/02 03:42 | ⚠ 102分（23:19→01:02） |
+| FirstSquawk | 172 | 10/01 15:50 | 10/02 03:24 | ⚠ 53分（18:34→19:28） |
+| financialjuice | 264 | 10/01 15:47 | 10/02 03:38 | 44分（18:40→19:25） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 498 行（統合前 526 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 504 行（統合前 533 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 15:23 [FirstSquawk] Australia’s ASX 200 drops 2% to 8,614.40 at close
-- 10/01 15:26 [FirstSquawk] Kia reports September global sales of 281,984, up 5.4% y/y
-- 10/01 15:27 [FirstSquawk] Iraq prime minister says legislation for Popular Mobilization Forces will proceed
-- 10/01 15:29 [FirstSquawk] HSBC lowers Blackstone price target to $122 from $135
-- 10/01 15:30 [financialjuice] ‼ BREAKING: SWISS CPI YOY ACTUAL 1% (FORECAST 1%, PREVIOUS 0.8%) $MACRO
-- 10/01 15:30 [financialjuice] SWISS RETAIL SALES YOY ACTUAL 3.2% (FORECAST -, PREVIOUS 2.3%) $MACRO
-- 10/01 15:30 [financialjuice] ❗ SWISS CPI MOM ACTUAL 0% (FORECAST 0%, PREVIOUS 0.4%) $MACRO
-- 10/01 15:30 [financialjuice] SWISS CORE CPI YOY ACTUAL 0.5% (FORECAST 0.5%, PREVIOUS 0.4%) $MACRO
-- 10/01 15:31 [FirstSquawk] SWITZERLAND (SEP) CPI YOY ACTUAL: 1% VS 0.8% PREVIOUS;EST 1.0% SWITZERLAND (SEP) CPI MOM ACTUAL: 0.0% VS 0.4% PREVIOUS;EST 0.0%
-- 10/01 15:31 [FirstSquawk] SWITZERLAND (SEP) CPI EU HARMONIZED MOM ACTUAL: -0.1% VS 0.1% PREVIOUS SWITZERLAND (SEP) CPI EU HARMONIZED YOY ACTUAL: 1.2% VS 0.9% PREVIOUS
-- 10/01 15:31 [FirstSquawk] SWITZERLAND (SEP) CPI CORE YOY ACTUAL: 0.5% VS 0.4% PREVIOUS;EST 0.5% SWITZERLAND (SEP) RETAIL SALES REAL YOY ACTUAL: 3.2% VS 2.3% PREVIOUS
-- 10/01 15:31 [FirstSquawk] SWEDEN (SEP) SWEEDBANK/SILF PMI MANUFACTURING ACTUAL: 58.1 VS 56.1 PREVIOUS
 - 10/01 15:47 [financialjuice] EUR/USD year-end options sentiment at its most bearish since April
 - 10/01 15:50 [FirstSquawk] Israeli security cabinet set to meet Sunday evening amid tensions — N13 reporter via https://t.co/tmVHTGptg3
 - 10/01 16:01 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 1.04% || FRANCE'S CAC 40 DOWN 0.64% || SPAIN'S IBEX DOWN 0.75%
@@ -522,3 +510,21 @@
 - 10/02 03:18 [financialjuice] NVIDIA and Softbank make a final $20 billion investment in OpenAI’s last round - The Information. $NVDA
 - 10/02 03:21 [FirstSquawk] NVIDIA AND SOFTBANK HAVE MADE A FINAL COMBINED $20 BLN INVESTMENT IN OPENAI'S LAST FUNDING ROUND, EACH PUTTING IN A FINAL $10 BLN TOWARD THEIR RESPECTIVE $30 BLN PLEDGES - THE INFORMATION
 - 10/02 03:22 [FirstSquawk] RUSSIA'S PUTIN SAYS RUSSIA NEEDS SECURITY GUARANTEES OVER UKRAINE, SPEAKING ABOUT TERRITORIAL GAINS IN SEPTEMBER
+- 10/02 03:23 [FirstSquawk] SOFTBANK GROUP SAYS IT HAS EXECUTED THE THIRD AND FINAL TRANCHE OF ITS FOLLOW-ON INVESTMENT IN OPENAI GROUP PBC, IN THE AMOUNT OF $10.0 BLN, TAKING ITS CUMULATIVE OPENAI INVESTMENT TO $64.60 BLN WITH ABOUT 13% OWNERSHIP.
+- 10/02 03:23 [FirstSquawk] SOFTBANK GROUP SAYS THAT EFFECTIVE SEP. 30 IT CANCELED THE REMAINING $10.0 BLN OF UNDRAWN CAPACITY UNDER THE BRIDGE FACILITY AGREEMENT ENTERED INTO ON MAR. 27 WITH OPENAI, WITH ALL BORROWINGS REPAID AND NO UNDRAWN COMMITMENTS REMAINING - WE…
+- 10/02 03:24 [FirstSquawk] RUSSIA'S PUTIN SAYS RUSSIA IS READY FOR TALKS AND TO WRAP THEM UP AS SOON AS POSSIBLE, BUT ON CONDITIONS ACCEPTABLE FOR THE RUSSIAN PEOPLE
+- 10/02 03:29 [DeItaone] US ENERGY SECRETARY CHRIS WRIGHT:ABSOLUTELY WE WILL ASK EUROPE TO RELEASE STRATEGIC DIESEL RESERVES - FOX NEWS
+- 10/02 03:29 [financialjuice] US Energy Secretary Wright: Absolutely we will ask Europe to release strategic diesel reserves - Fox News.
+- 10/02 03:30 [DeItaone] US ENERGY SECRETARY CHRIS WRIGHT:EUROPE CAN HELP THE SITUATION AND I'M HIGHLY CONFIDENT THEY WILL
+- 10/02 03:31 [financialjuice] US Energy Secretary Wright: Europe can help the situation and I’m highly confident they will.
+- 10/02 03:31 [financialjuice] NYMEX WTI Crude November futures settle at $92.87 a barrel, up $2.45, 2.71%.
+- 10/02 03:31 [financialjuice] NYMEX Gasoline November futures settle at $3.4026 a gallon.
+- 10/02 03:31 [financialjuice] NYMEX Diesel November futures settle at $4.6420 a gallon.
+- 10/02 03:32 [financialjuice] NYMEX Natural Gas November futures settle at $2.9670/MMBtu.
+- 10/02 03:32 [financialjuice] US Energy Secretary Wright: The US is confident that Europe will release diesel from stockpiles.
+- 10/02 03:34 [DeItaone/financialjuice] IRAN OFFERS TO ALLOW NUCLEAR INSPECTORS IF SANCTIONS ARE EASED
+- 10/02 03:36 [DeItaone] IRAN OFFERS NUCLEAR INSPECTOR ACCESS FOR SANCTIONS RELIEF Iran has privately signaled it could restore nuclear inspectors’ access to bombed facilities in exchange for sanctions relief, Bloomberg reports. Foreign Minister Abbas Araghchi rais…
+- 10/02 03:38 [financialjuice] US Energy Secretary Wright: We'll see lower gasolinea nd diesel prices come the election.
+- 10/02 03:38 [financialjuice] US Energy Secretary Wright ends remarks on Fox News.
+- 10/02 03:41 [DeItaone] *WRIGHT: WE'LL SEE LOWER GASOLINE, DIESEL PRICES COME ELECTION
+- 10/02 03:42 [DeItaone] TRUMP: PRICES ARE “COMING DOWN RAPIDLY” President Trump says prices are “way down” from levels under the Biden administration and claims they are continuing to fall rapidly. Trump blamed Democrats for elevated prices and said Republicans ar…

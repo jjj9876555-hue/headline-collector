@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-02 03:23 JST／対象: 10/01 21:23 〜 10/02 03:23 JST（時刻はすべて日本時間）
+生成: 2026-10-02 03:44 JST／対象: 10/01 21:44 〜 10/02 03:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 55 | 10/01 21:24 | 10/02 03:11 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 100 | 10/01 21:30 | 10/02 03:22 | 39分（01:52→02:31） |
-| financialjuice | 153 | 10/01 21:26 | 10/02 03:18 | 27分（21:32→22:00） |
+| DeItaone | 55 | 10/01 21:45 | 10/02 03:42 | ⚠ 102分（23:19→01:02） |
+| FirstSquawk | 101 | 10/01 21:46 | 10/02 03:24 | 39分（01:52→02:31） |
+| financialjuice | 158 | 10/01 22:00 | 10/02 03:38 | 16分（01:51→02:08） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 292 行（統合前 313 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 297 行（統合前 319 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 21:24 [DeItaone] EUROPE HOLDS EMERGENCY TALKS ON DIESEL RESERVES European nations are holding emergency talks over releasing strategic fuel reserves after pressure from Washington to boost supply. The U.S. has already approved another 40 million barrels fro…
-- 10/01 21:26 [DeItaone] GERMAN ECONOMY MINISTRY ON DIESEL RESERVES: AT THIS TIME, NO NEW REQUIREMENTS FROM IEA
-- 10/01 21:26 [financialjuice] German economy ministry on diesel reserves: At this time, no new requirements from the IEA
-- 10/01 21:27 [DeItaone] GERMAN ECONOMY MINISTRY ON DIESEL RESERVES: WE DO NOT SPECULATE ABOUT POSSIBLE FUTURE EVENTS
-- 10/01 21:27 [financialjuice] German Economy Ministry on Diesel Reserves: Any measures must be based on careful joint assessment of situation within framework of international procedures established for that purpose.
-- 10/01 21:30 [FirstSquawk] US INITIAL JOBLESS CLAIMS ACTUAL: 197K VS 197K PREVIOUS; EST 200K
-- 10/01 21:30 [FirstSquawk] US CONTINUING JOBLESS CLAIMS ACTUAL: 1701K VS 1719K PREVIOUS; EST 1725K
-- 10/01 21:30 [DeItaone] US JOBLESS CLAIMS -1K TO 197K IN SEP-26 WK; SURVEY 200K US SEP-19 WEEK CONTINUING CLAIMS -11K TO 1,701,000 US SEP-19 WEEK JOBLESS CLAIMS REVISED TO 198K
-- 10/01 21:32 [financialjuice] German economy ministry on diesel reserves: Market must not be destabilized
-- 10/01 21:32 [financialjuice] US CONTINUED JOBLESS CLAIMS ACTUAL 1.701M (FORECAST 1.725M, PREVIOUS 1.719M) $MACRO
-- 10/01 21:32 [financialjuice] ❗ US INITIAL JOBLESS CLAIMS ACTUAL 197K (FORECAST 200K, PREVIOUS 197K) $MACRO
-- 10/01 21:35 [DeItaone] CHICAGO FED SEES SEPTEMBER UNEMPLOYMENT AT 4.1% The Chicago Fed estimates the U.S. unemployment rate at 4.10% in September, slightly below August’s 4.14%. The improvement reflects better hiring prospects for unemployed workers and slightly …
-- 10/01 21:40 [DeItaone] IRAN SAYS IT WILL CONTINUE SEEKING DIALOGUE WITH U.S. Iranian President Masoud Pezeshkian says Tehran will continue pursuing dialogue with Washington despite previous attacks during negotiations, according to Tasnim. His comments come as Qa…
 - 10/01 21:45 [DeItaone] TRUMP CONSIDERS PREEMPTIVE PARDONS President Trump says he would consider preemptively pardoning members of his administration before leaving office, potentially protecting them from future federal prosecution. Asked by Time whether he woul…
 - 10/01 21:46 [FirstSquawk] ZELENSKIY SAYS THERE ARE GOOD RESULTS IN DIALOGUE WITH EU TO COVER UKRAINE'S FINANCIAL NEEDS FOR 2026-27
 - 10/01 21:57 [DeItaone] FRENCH 5-YEAR CREDIT DEFAULT SWAPS CLIMB TO MULTI-YEAR HIGH OF 72BPS, S&P GLOBAL MARKET INTELLIGENCE
@@ -316,3 +303,21 @@
 - 10/02 03:18 [financialjuice] NVIDIA and Softbank make a final $20 billion investment in OpenAI’s last round - The Information. $NVDA
 - 10/02 03:21 [FirstSquawk] NVIDIA AND SOFTBANK HAVE MADE A FINAL COMBINED $20 BLN INVESTMENT IN OPENAI'S LAST FUNDING ROUND, EACH PUTTING IN A FINAL $10 BLN TOWARD THEIR RESPECTIVE $30 BLN PLEDGES - THE INFORMATION
 - 10/02 03:22 [FirstSquawk] RUSSIA'S PUTIN SAYS RUSSIA NEEDS SECURITY GUARANTEES OVER UKRAINE, SPEAKING ABOUT TERRITORIAL GAINS IN SEPTEMBER
+- 10/02 03:23 [FirstSquawk] SOFTBANK GROUP SAYS IT HAS EXECUTED THE THIRD AND FINAL TRANCHE OF ITS FOLLOW-ON INVESTMENT IN OPENAI GROUP PBC, IN THE AMOUNT OF $10.0 BLN, TAKING ITS CUMULATIVE OPENAI INVESTMENT TO $64.60 BLN WITH ABOUT 13% OWNERSHIP.
+- 10/02 03:23 [FirstSquawk] SOFTBANK GROUP SAYS THAT EFFECTIVE SEP. 30 IT CANCELED THE REMAINING $10.0 BLN OF UNDRAWN CAPACITY UNDER THE BRIDGE FACILITY AGREEMENT ENTERED INTO ON MAR. 27 WITH OPENAI, WITH ALL BORROWINGS REPAID AND NO UNDRAWN COMMITMENTS REMAINING - WE…
+- 10/02 03:24 [FirstSquawk] RUSSIA'S PUTIN SAYS RUSSIA IS READY FOR TALKS AND TO WRAP THEM UP AS SOON AS POSSIBLE, BUT ON CONDITIONS ACCEPTABLE FOR THE RUSSIAN PEOPLE
+- 10/02 03:29 [DeItaone] US ENERGY SECRETARY CHRIS WRIGHT:ABSOLUTELY WE WILL ASK EUROPE TO RELEASE STRATEGIC DIESEL RESERVES - FOX NEWS
+- 10/02 03:29 [financialjuice] US Energy Secretary Wright: Absolutely we will ask Europe to release strategic diesel reserves - Fox News.
+- 10/02 03:30 [DeItaone] US ENERGY SECRETARY CHRIS WRIGHT:EUROPE CAN HELP THE SITUATION AND I'M HIGHLY CONFIDENT THEY WILL
+- 10/02 03:31 [financialjuice] US Energy Secretary Wright: Europe can help the situation and I’m highly confident they will.
+- 10/02 03:31 [financialjuice] NYMEX WTI Crude November futures settle at $92.87 a barrel, up $2.45, 2.71%.
+- 10/02 03:31 [financialjuice] NYMEX Gasoline November futures settle at $3.4026 a gallon.
+- 10/02 03:31 [financialjuice] NYMEX Diesel November futures settle at $4.6420 a gallon.
+- 10/02 03:32 [financialjuice] NYMEX Natural Gas November futures settle at $2.9670/MMBtu.
+- 10/02 03:32 [financialjuice] US Energy Secretary Wright: The US is confident that Europe will release diesel from stockpiles.
+- 10/02 03:34 [DeItaone/financialjuice] IRAN OFFERS TO ALLOW NUCLEAR INSPECTORS IF SANCTIONS ARE EASED
+- 10/02 03:36 [DeItaone] IRAN OFFERS NUCLEAR INSPECTOR ACCESS FOR SANCTIONS RELIEF Iran has privately signaled it could restore nuclear inspectors’ access to bombed facilities in exchange for sanctions relief, Bloomberg reports. Foreign Minister Abbas Araghchi rais…
+- 10/02 03:38 [financialjuice] US Energy Secretary Wright: We'll see lower gasolinea nd diesel prices come the election.
+- 10/02 03:38 [financialjuice] US Energy Secretary Wright ends remarks on Fox News.
+- 10/02 03:41 [DeItaone] *WRIGHT: WE'LL SEE LOWER GASOLINE, DIESEL PRICES COME ELECTION
+- 10/02 03:42 [DeItaone] TRUMP: PRICES ARE “COMING DOWN RAPIDLY” President Trump says prices are “way down” from levels under the Biden administration and claims they are continuing to fall rapidly. Trump blamed Democrats for elevated prices and said Republicans ar…
