@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-02 04:21 JST／対象: 10/01 16:21 〜 10/02 04:21 JST（時刻はすべて日本時間）
+生成: 2026-10-02 04:38 JST／対象: 10/01 16:38 〜 10/02 04:38 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 92 | 10/01 16:25 | 10/02 03:42 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 174 | 10/01 16:24 | 10/02 04:07 | ⚠ 53分（18:34→19:28） |
-| financialjuice | 273 | 10/01 16:30 | 10/02 04:19 | 44分（18:40→19:25） |
+| DeItaone | 91 | 10/01 16:48 | 10/02 03:42 | ⚠ 102分（23:19→01:02） |
+| FirstSquawk | 173 | 10/01 16:40 | 10/02 04:07 | ⚠ 53分（18:34→19:28） |
+| financialjuice | 279 | 10/01 16:44 | 10/02 04:37 | 44分（18:40→19:25） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 512 行（統合前 544 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 516 行（統合前 548 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 16:24 [FirstSquawk] US 10-YEAR TREASURY YIELD JUMPS TO 5.33%, THE HIGHEST LEVEL SINCE 2002.
-- 10/01 16:25 [DeItaone] *US 10-YEAR YIELD RISES TO 5.33%, HIGHEST SINCE 2002
-- 10/01 16:30 [financialjuice] Japan PM Takaichi: Will appropriately control the total annual issuance of government bonds, taking into account both initial and supplementary budgets
-- 10/01 16:30 [financialjuice] SWISS MANUFACTURING PMI ACTUAL 55.3 (FORECAST 56.3, PREVIOUS 57.1) $MACRO
-- 10/01 16:33 [financialjuice] Japan PM Takaichi: Forex market determined by various factors.
-- 10/01 16:35 [financialjuice] Japan PM Takaichi: Japan's economic policy is not aimed at manipulating FX.
-- 10/01 16:35 [financialjuice] Japan PM Takaichi: Told president Trump undervaluation of yen is a problem.
-- 10/01 16:37 [financialjuice] Japan PM Takaichi: No change to administration's stance of pursuing strong economy, fiscal sustainability.
 - 10/01 16:40 [FirstSquawk] JAPAN'S PM TAKAICHI PLANS TO MANAGE GOVERNMENT BOND ISSUANCE ANNUALLY, INCLUDING INITIAL AND ADDITIONAL BUDGETS.
 - 10/01 16:40 [FirstSquawk] JAPAN'S PM TAKAICHI SAYS THE FOREX MARKET IS INFLUENCED BY MANY FACTORS.
 - 10/01 16:40 [FirstSquawk] JAPAN'S PRIME MINISTER TAKAICHI STATES THAT THE COUNTRY'S ECONOMIC POLICY DOES NOT TARGET FOREIGN EXCHANGE MANIPULATION.
@@ -536,3 +528,15 @@
 - 10/02 04:18 [financialjuice] USTR Greer: The US is on track for record goods trade exports this year.
 - 10/02 04:18 [financialjuice] LIVE: Trade Representative Jamieson Greer holds a G20 press conference
 - 10/02 04:19 [financialjuice] USTR Greer: Trump's trade program is trending in the right direction.
+- 10/02 04:23 [financialjuice] Friday FX Options Expiries
+- 10/02 04:24 [financialjuice] USTR Greer: G20 trade ministers discussed 'weaponization' of agriculture and farm inputs.
+- 10/02 04:25 [financialjuice] USTR Greer: G20 talks covered forced labor and excess capacity concerns.
+- 10/02 04:26 [financialjuice] US Treasury Secretary Bessent: Europe should accelerate delivery on commitments.
+- 10/02 04:26 [financialjuice] US Treasury Secretary Bessent: Europe should make additional supplies available.
+- 10/02 04:27 [financialjuice] No talks about Iran's nuclear programme took place during recent meetings with mediators - Iran's Official News Agency citing a source with knowledge.
+- 10/02 04:28 [financialjuice] Gulf of Hormuz Waterway Security Authority: Three Emirati Tankers Hit Were on the PGSA Non-Compliance List - Iranian Media
+- 10/02 04:29 [financialjuice] Iran's PGSA: In recent days, several tankers have been struck in the Strait of Hormuz, and the last three of these were either owned or chartered by the United Arab Emirates.
+- 10/02 04:31 [financialjuice] ❗ Local sources: Supertanker with a capacity of 2.5 million barrels, illegally transiting the Strait of Hormuz, struck approximately 8 kilometers off the coast of Oman, currently on fire - Mehr News
+- 10/02 04:33 [financialjuice] USTR Greer: Engagement on excess capacity was quite constructive
+- 10/02 04:36 [financialjuice] Fed's Cook: Supply shocks have had surprisingly persistent effects, becoming more salient for policy
+- 10/02 04:37 [financialjuice] Fed's Cook: Possible that the optimal policy response to a supply shock could be sector-dependent
