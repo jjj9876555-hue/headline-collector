@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-01 10:27 JST／対象: 09/30 22:27 〜 10/01 10:27 JST（時刻はすべて日本時間）
+生成: 2026-10-01 10:46 JST／対象: 09/30 22:46 〜 10/01 10:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 41 | 09/30 22:46 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
-| FirstSquawk | 169 | 09/30 22:28 | 10/01 10:26 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 201 | 09/30 22:30 | 10/01 10:15 | 36分（07:29→08:05） |
+| DeItaone | 40 | 09/30 22:54 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
+| FirstSquawk | 190 | 09/30 22:47 | 10/01 10:43 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 218 | 09/30 22:52 | 10/01 10:39 | 36分（07:29→08:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 398 行（統合前 413 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 435 行（統合前 450 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 22:28 [FirstSquawk] NETANYAHU: PILOT WHO STABBED APPARENTLY TRIED TO CRASH PLANE
-- 09/30 22:30 [financialjuice] ❗ MOO IMBALANCE S&P 500: -24.1 MLN NASDAQ 100: 7.5 MLN DOW 30: -5.8 MLN MAG 7: 1.9 MLN $MACRO
-- 09/30 22:31 [FirstSquawk] DOW JONES UP 72.70 POINTS, OR 0.14 PERCENT, AT 51,422.62 AFTER MARKET OPEN NASDAQ UP 99.52 POINTS, OR 0.37 PERCENT, AT 26,897.06 AFTER MARKET OPEN S&P 500 UP 21.09 POINTS, OR 0.27 PERCENT, AT 7,691.93 AFTER MARKET OPEN
-- 09/30 22:36 [FirstSquawk] NATO CHIEF: IN REACTION TO RUSSIA'S LETTER, I SAID WE ARE A DEFENSIVE ALLIANCE AND TO STOP THE NUCLEAR THREAT
-- 09/30 22:42 [FirstSquawk] NATO'S RUTTE SAYS RUSSIA THREAT ASSESSMENT NOW IS SAME AS THREE WEEKS, THREE MONTHS AGO, A YEAR AGO
-- 09/30 22:42 [FirstSquawk] NATO'S RUTTE: THERE IS NO IMMINENT THREAT TO NATO TERRITORY
-- 09/30 22:45 [FirstSquawk] ISRAEL’S DEFENSE MINISTER KATZ CITING PRELIMINARY INFORMATION: THE ATTACKER INTENDED TO CRASH THE PLANE, KILLING EVERYONE ON BOARD
-- 09/30 22:45 [financialjuice] US CHICAGO PMI ACTUAL 58.8 (FORECAST 51, PREVIOUS 47.1) $MACRO
-- 09/30 22:45 [FirstSquawk] US MNI CHICAGO PMI SEP: 58.8 (EST 51.0; PREV 47.1)
-- 09/30 22:46 [DeItaone] *US SEPT. MNI CHICAGO REPORT BUSINESS INDEX AT 58.8; EST 51.0
 - 09/30 22:47 [FirstSquawk] PM MODI: HAD A PRODUCTIVE CONVERSATION WITH US PRESIDENT TRUMP
 - 09/30 22:48 [FirstSquawk] PM MODI: ALSO EXCHANGED VIEWS ON REGIONAL AND INTERNATIONAL ISSUES, INCLUDING ONGOING EFFORTS TO ADVANCE GLOBAL PEACE AND SECURITY
 - 09/30 22:50 [FirstSquawk] ISRAEL DEFENCE MINISTER KATZ: INCIDENT ABOARD FLYDUBAI FLIGHT WAS A 'JIHADIST TERROR ATTACK' ATTEMPT
@@ -422,3 +412,50 @@
 - 10/01 10:16 [FirstSquawk] Netanyahu says Israel does not yet know whether Iran was involved in incident - FOX INTERVIEW
 - 10/01 10:20 [FirstSquawk] Axios: US official says order to leave New York included Iraqi national
 - 10/01 10:26 [FirstSquawk] Japan increases residency-related fees for foreign nationals
+- 10/01 10:30 [financialjuice] ❗ AUSTRALIAN TRADE BALANCE ACTUAL 495M (FORECAST 2000M, PREVIOUS 1,923M) $MACRO
+- 10/01 10:30 [financialjuice] ❗ AUSTRALIAN IMPORTS ACTUAL 5.8% (FORECAST -, PREVIOUS -2.5%) $MACRO
+- 10/01 10:30 [financialjuice] ❗ AUSTRALIAN EXPORTS ACTUAL 3.7% (FORECAST -, PREVIOUS -3.3%) $MACRO
+- 10/01 10:30 [financialjuice] RBA: Private credit not currently a risk to Australia's overall financial stability
+- 10/01 10:30 [financialjuice] RBA: lending standards stay firm, riskier types of credit curbed
+- 10/01 10:30 [financialjuice] RBA: proportion of owner-occupier borrowers facing cash flow shortfall remains low at about 2%
+- 10/01 10:30 [financialjuice] RBA: cash flow challenges to rise for smaller companies, energy-intensive sectors
+- 10/01 10:30 [financialjuice] Australia aug goods exports rise 3.7% m/m, seasonally adjusted
+- 10/01 10:30 [financialjuice] RBA: Alternative funding globally becoming more opaque, circular, and at risk of profit disappointment
+- 10/01 10:30 [financialjuice] RBA: Private credit has expanded notably in Australia, but remains modest overall
+- 10/01 10:30 [financialjuice] RBA: key threats to domestic financial stability stem from overseas
+- 10/01 10:31 [financialjuice] RBA: increase in leveraged investors in bonds, Australian equities heightens volatility and raises risks
+- 10/01 10:31 [financialjuice] RBA: elevated asset prices and leverage leave global markets exposed to sharp correction
+- 10/01 10:31 [financialjuice] Australia August trade balance goods A$495 million, seasonally adjusted: poll A$2 billion
+- 10/01 10:34 [FirstSquawk] AUSTRALIA TRADE BALANCE AUG: A$495M (EST A$2000M; PREV A$1923M; PREVR A$1351M)
+- 10/01 10:34 [FirstSquawk] AUSTRALIA EXPORTS (M/M): 3.7% (PREV -3.3%)
+- 10/01 10:34 [FirstSquawk] AUSTRALIA IMPORTS (M/M): 5.8% (PREV -2.5%)
+- 10/01 10:35 [FirstSquawk] AUSTRALIA JOB VACANCIES (Q/Q) AUG: -0.9% (PREV -2.1%)
+- 10/01 10:36 [financialjuice] South Korea President Lee: Seoul to develop nuclear-powered submarines by mid-2030s
+- 10/01 10:36 [FirstSquawk] South Korea targets nuclear-powered submarine construction by mid-2030s, Lee says
+- 10/01 10:38 [financialjuice] South Korea's Lee: will adopt practical steps to reduce military tension with North Korea
+- 10/01 10:38 [financialjuice] South Korea President Lee: urges North Korea to cooperate in rebuilding trust and restarting talks
+- 10/01 10:38 [FirstSquawk] RBA: A further 20% decline in Australian home prices would leave only 5% of mortgages underwater
+- 10/01 10:38 [FirstSquawk] RBA: Australian households and companies remain resilient despite the prospect of slower growth and weaker housing prices
+- 10/01 10:38 [FirstSquawk] RBA: Fewer than 1% of Australian borrowers currently have mortgages exceeding the value of their homes
+- 10/01 10:38 [FirstSquawk] RBA: Australian banks have sufficient resilience to cope with a significant housing-market downturn
+- 10/01 10:38 [financialjuice] South Korea President Lee: to adopt practical steps to reduce military tensions with North Korea
+- 10/01 10:38 [FirstSquawk] RBA: Financial stress is visible in some households and businesses, but arrears remain low and overall resilience is intact
+- 10/01 10:38 [FirstSquawk] RBA: Most Australian businesses can absorb higher costs, although some are passing those increases through to customers
+- 10/01 10:38 [FirstSquawk] RBA: Only around 2% of owner-occupier borrowers are currently experiencing cash-flow shortfalls
+- 10/01 10:39 [FirstSquawk] RBA: Smaller firms and energy-intensive businesses face rising pressure on cash flows
+- 10/01 10:39 [FirstSquawk] RBA: External shocks remain the biggest source of risk to Australia’s domestic financial stability
+- 10/01 10:39 [FirstSquawk] RBA: Australian lending practices remain robust, with tighter controls limiting riskier credit
+- 10/01 10:39 [FirstSquawk] RBA: Global AI financing is becoming increasingly opaque and circular, raising concerns over future profit expectations
+- 10/01 10:39 [FirstSquawk] RBA: Private credit has not yet emerged as a significant financial-stability risk for Australia
+- 10/01 10:39 [FirstSquawk] RBA: Australia’s private-credit market has expanded rapidly but remains modest in size overall
+- 10/01 10:39 [FirstSquawk] RBA: Greater leverage among bond and AI-equity investors could intensify market swings and financial risks
+- 10/01 10:39 [FirstSquawk] RBA: Elevated asset valuations and leverage leave global markets exposed to a sharp and disruptive correction
+- 10/01 10:39 [financialjuice] South Korea president Lee: country to enhance missile defense with AI-based command networks and laser interceptors
+- 10/01 10:41 [FirstSquawk] SOUTH KOREA'S LEE: WILL TAKE PRACTICAL MEASURES TO LOWER MILITARY TENSION WITH NORTH KOREA
+- 10/01 10:41 [FirstSquawk] SOUTH KOREA PRESIDENT LEE: CALLS ON NORTH KOREA TO JOIN EFFORTS TO RESTORE TRUST AND RESUME DIALOGUE
+- 10/01 10:41 [FirstSquawk] SOUTH KOREA PRESIDENT LEE: WILL TAKE PRACTICAL MEASURES TO LOWER MILITARY TENSION WITH NORTH KOREA
+- 10/01 10:41 [FirstSquawk] SOUTH KOREA PRESIDENT LEE: SOUTH KOREA TO UPGRADE MISSILE DEFENSE SYSTEMS INCLUDING AI-BASED COMMAND NETWORKS AND LASER INTERCEPTORS
+- 10/01 10:43 [FirstSquawk] President Lee: South Korea to bolster missile defenses with AI command networks, laser interceptors
+- 10/01 10:43 [FirstSquawk] SK Hynix to assess shareholder protection measures tied to Solidigm
+- 10/01 10:43 [FirstSquawk] 20-year Japanese government bond yield advances 4.5bp to 3.945%
+- 10/01 10:43 [FirstSquawk] 30-year Japanese government bond yield gains 5.0bp to 4.190%

@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 10:27 JST／対象: 10/01 04:27 〜 10/01 10:27 JST（時刻はすべて日本時間）
+生成: 2026-10-01 10:46 JST／対象: 10/01 04:46 〜 10/01 10:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 10/01 05:45 | 10/01 06:15 | 15分（05:52→06:07） |
-| FirstSquawk | 101 | 10/01 04:28 | 10/01 10:26 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 118 | 10/01 04:30 | 10/01 10:15 | 36分（07:29→08:05） |
+| FirstSquawk | 126 | 10/01 04:48 | 10/01 10:43 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 134 | 10/01 04:50 | 10/01 10:39 | 36分（07:29→08:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 220 行（統合前 227 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 261 行（統合前 268 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 04:28 [FirstSquawk] US DEFENSE SECRETARY HEGSETH ANNOUNCES CREATION OF NEW AUTONOMOUS WARFARE COMMAND
-- 10/01 04:30 [financialjuice] LIVE: Trump announces plans for a $54 billion project in Alaska
-- 10/01 04:35 [financialjuice] US Sec. of Defense Hegseth on new Autonomous Warfare Command: Musk, Gingrich, and Luckey will lead the new Pentagon project
-- 10/01 04:39 [financialjuice] US Sec. of Defense Hegseth: Major US military installations to generate their own power.
-- 10/01 04:41 [FirstSquawk] US DEFENSE SECRETARY HEGSETH: MUSK, GINGRICH & LUCKEY TO LEAD NEW PENTAGON AUTONOMOUS WARFARE PROJECT
-- 10/01 04:42 [FirstSquawk] US DEFENSE SECRETARY HEGSETH: MAJOR US MILITARY INSTALLATIONS TO GENERATE THEIR OWN POWER
 - 10/01 04:48 [FirstSquawk] FLYDUBAI SAYS ITS FLIGHTS TO AND FROM ISRAEL WILL BE SUSPENDED WHILE THE INVESTIGATION CONTINUES, ADDING THAT THE TEMPORARY SUSPENSION WILL ALLOW THE RELEVANT AUTHORITIES TO CONTINUE THEIR WORK AND ESTABLISH ALL THE FACTS SURROUNDING THE IN…
 - 10/01 04:48 [FirstSquawk] FLYDUBAI SAYS IT REMAINS IN CLOSE COORDINATION WITH GOVERNMENT AUTHORITIES, REGULATORS AND AIRPORT STAKEHOLDERS AND WILL REVIEW THE SUSPENSION AS MORE INFORMATION BECOMES AVAILABLE - STATEMENT
 - 10/01 04:49 [FirstSquawk] TRUMP SAYS HE ASKED ATTORNEY GENERAL TO STUDY FEDERAL RESERVE REPORT
@@ -244,3 +238,50 @@
 - 10/01 10:16 [FirstSquawk] Netanyahu says Israel does not yet know whether Iran was involved in incident - FOX INTERVIEW
 - 10/01 10:20 [FirstSquawk] Axios: US official says order to leave New York included Iraqi national
 - 10/01 10:26 [FirstSquawk] Japan increases residency-related fees for foreign nationals
+- 10/01 10:30 [financialjuice] ❗ AUSTRALIAN TRADE BALANCE ACTUAL 495M (FORECAST 2000M, PREVIOUS 1,923M) $MACRO
+- 10/01 10:30 [financialjuice] ❗ AUSTRALIAN IMPORTS ACTUAL 5.8% (FORECAST -, PREVIOUS -2.5%) $MACRO
+- 10/01 10:30 [financialjuice] ❗ AUSTRALIAN EXPORTS ACTUAL 3.7% (FORECAST -, PREVIOUS -3.3%) $MACRO
+- 10/01 10:30 [financialjuice] RBA: Private credit not currently a risk to Australia's overall financial stability
+- 10/01 10:30 [financialjuice] RBA: lending standards stay firm, riskier types of credit curbed
+- 10/01 10:30 [financialjuice] RBA: proportion of owner-occupier borrowers facing cash flow shortfall remains low at about 2%
+- 10/01 10:30 [financialjuice] RBA: cash flow challenges to rise for smaller companies, energy-intensive sectors
+- 10/01 10:30 [financialjuice] Australia aug goods exports rise 3.7% m/m, seasonally adjusted
+- 10/01 10:30 [financialjuice] RBA: Alternative funding globally becoming more opaque, circular, and at risk of profit disappointment
+- 10/01 10:30 [financialjuice] RBA: Private credit has expanded notably in Australia, but remains modest overall
+- 10/01 10:30 [financialjuice] RBA: key threats to domestic financial stability stem from overseas
+- 10/01 10:31 [financialjuice] RBA: increase in leveraged investors in bonds, Australian equities heightens volatility and raises risks
+- 10/01 10:31 [financialjuice] RBA: elevated asset prices and leverage leave global markets exposed to sharp correction
+- 10/01 10:31 [financialjuice] Australia August trade balance goods A$495 million, seasonally adjusted: poll A$2 billion
+- 10/01 10:34 [FirstSquawk] AUSTRALIA TRADE BALANCE AUG: A$495M (EST A$2000M; PREV A$1923M; PREVR A$1351M)
+- 10/01 10:34 [FirstSquawk] AUSTRALIA EXPORTS (M/M): 3.7% (PREV -3.3%)
+- 10/01 10:34 [FirstSquawk] AUSTRALIA IMPORTS (M/M): 5.8% (PREV -2.5%)
+- 10/01 10:35 [FirstSquawk] AUSTRALIA JOB VACANCIES (Q/Q) AUG: -0.9% (PREV -2.1%)
+- 10/01 10:36 [financialjuice] South Korea President Lee: Seoul to develop nuclear-powered submarines by mid-2030s
+- 10/01 10:36 [FirstSquawk] South Korea targets nuclear-powered submarine construction by mid-2030s, Lee says
+- 10/01 10:38 [financialjuice] South Korea's Lee: will adopt practical steps to reduce military tension with North Korea
+- 10/01 10:38 [financialjuice] South Korea President Lee: urges North Korea to cooperate in rebuilding trust and restarting talks
+- 10/01 10:38 [FirstSquawk] RBA: A further 20% decline in Australian home prices would leave only 5% of mortgages underwater
+- 10/01 10:38 [FirstSquawk] RBA: Australian households and companies remain resilient despite the prospect of slower growth and weaker housing prices
+- 10/01 10:38 [FirstSquawk] RBA: Fewer than 1% of Australian borrowers currently have mortgages exceeding the value of their homes
+- 10/01 10:38 [FirstSquawk] RBA: Australian banks have sufficient resilience to cope with a significant housing-market downturn
+- 10/01 10:38 [financialjuice] South Korea President Lee: to adopt practical steps to reduce military tensions with North Korea
+- 10/01 10:38 [FirstSquawk] RBA: Financial stress is visible in some households and businesses, but arrears remain low and overall resilience is intact
+- 10/01 10:38 [FirstSquawk] RBA: Most Australian businesses can absorb higher costs, although some are passing those increases through to customers
+- 10/01 10:38 [FirstSquawk] RBA: Only around 2% of owner-occupier borrowers are currently experiencing cash-flow shortfalls
+- 10/01 10:39 [FirstSquawk] RBA: Smaller firms and energy-intensive businesses face rising pressure on cash flows
+- 10/01 10:39 [FirstSquawk] RBA: External shocks remain the biggest source of risk to Australia’s domestic financial stability
+- 10/01 10:39 [FirstSquawk] RBA: Australian lending practices remain robust, with tighter controls limiting riskier credit
+- 10/01 10:39 [FirstSquawk] RBA: Global AI financing is becoming increasingly opaque and circular, raising concerns over future profit expectations
+- 10/01 10:39 [FirstSquawk] RBA: Private credit has not yet emerged as a significant financial-stability risk for Australia
+- 10/01 10:39 [FirstSquawk] RBA: Australia’s private-credit market has expanded rapidly but remains modest in size overall
+- 10/01 10:39 [FirstSquawk] RBA: Greater leverage among bond and AI-equity investors could intensify market swings and financial risks
+- 10/01 10:39 [FirstSquawk] RBA: Elevated asset valuations and leverage leave global markets exposed to a sharp and disruptive correction
+- 10/01 10:39 [financialjuice] South Korea president Lee: country to enhance missile defense with AI-based command networks and laser interceptors
+- 10/01 10:41 [FirstSquawk] SOUTH KOREA'S LEE: WILL TAKE PRACTICAL MEASURES TO LOWER MILITARY TENSION WITH NORTH KOREA
+- 10/01 10:41 [FirstSquawk] SOUTH KOREA PRESIDENT LEE: CALLS ON NORTH KOREA TO JOIN EFFORTS TO RESTORE TRUST AND RESUME DIALOGUE
+- 10/01 10:41 [FirstSquawk] SOUTH KOREA PRESIDENT LEE: WILL TAKE PRACTICAL MEASURES TO LOWER MILITARY TENSION WITH NORTH KOREA
+- 10/01 10:41 [FirstSquawk] SOUTH KOREA PRESIDENT LEE: SOUTH KOREA TO UPGRADE MISSILE DEFENSE SYSTEMS INCLUDING AI-BASED COMMAND NETWORKS AND LASER INTERCEPTORS
+- 10/01 10:43 [FirstSquawk] President Lee: South Korea to bolster missile defenses with AI command networks, laser interceptors
+- 10/01 10:43 [FirstSquawk] SK Hynix to assess shareholder protection measures tied to Solidigm
+- 10/01 10:43 [FirstSquawk] 20-year Japanese government bond yield advances 4.5bp to 3.945%
+- 10/01 10:43 [FirstSquawk] 30-year Japanese government bond yield gains 5.0bp to 4.190%

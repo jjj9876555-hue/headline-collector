@@ -7,72 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-01 10:27 JST／対象: 09/30 10:27 〜 10/01 10:27 JST（時刻はすべて日本時間）
+生成: 2026-10-01 10:46 JST／対象: 09/30 10:46 〜 10/01 10:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 75 | 09/30 18:55 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
-| FirstSquawk | 360 | 09/30 10:28 | 10/01 10:26 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 341 | 09/30 10:30 | 10/01 10:15 | ⚠ 80分（10:57→12:18） |
+| FirstSquawk | 370 | 09/30 10:47 | 10/01 10:43 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 329 | 09/30 10:57 | 10/01 10:39 | ⚠ 80分（10:57→12:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 756 行（統合前 778 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 754 行（統合前 776 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 10:28 [FirstSquawk] China’s CSI 300 Real Estate Index seen declining 5%
-- 09/30 10:30 [financialjuice] ‼ BREAKING: AUSTRALIAN CPI YOY NSA ACTUAL 4% (FORECAST 4.1%, PREVIOUS 3.5%) $MACRO
-- 09/30 10:30 [financialjuice] ❗ AUSTRALIAN BUILDING APPROVALS ACTUAL -6.1% (FORECAST -1%, PREVIOUS -3.6%) $MACRO
-- 09/30 10:30 [financialjuice] ❗ AUSTRALIAN CPI TRIMMED MEAN YOY ACTUAL 3.6% (FORECAST 3.6%, PREVIOUS 3.6%) $MACRO
-- 09/30 10:30 [financialjuice] AUSTRALIAN PRIVATE HOUSE APPROVALS ACTUAL 3.7% (FORECAST -, PREVIOUS -4.2%) $MACRO
-- 09/30 10:30 [financialjuice] Australia August RBA trimmed mean inflation rises 0.2% month on month
-- 09/30 10:30 [financialjuice] Australia aug private sector house approvals rise 3.7% m/m, s/adj
-- 09/30 10:30 [financialjuice] Australia aug cpi all groups rises 4% yr/yr
-- 09/30 10:30 [financialjuice] Australia Aug RBA weighted median CPI rises 3.6% year/year
-- 09/30 10:30 [financialjuice] Australia August RBA trimmed mean inflation at 3.6% year on year
-- 09/30 10:30 [financialjuice] Australia Aug RBA weighted median CPI rises 0.3% m/m
-- 09/30 10:31 [financialjuice] Australia Aug CPI (all groups) rises 0.4% m/m
-- 09/30 10:31 [financialjuice] Australia aug building approvals decline 6.1% m/m, adjusted
-- 09/30 10:31 [financialjuice] Australia August private-sector credit rises 0.6% m/m, s/adj: central bank
-- 09/30 10:31 [financialjuice] Australia August housing credit rises 0.4% m/m, seasonally adjusted: central bank
-- 09/30 10:31 [financialjuice] AUSTRALIAN HOUSING CREDIT ACTUAL 0.4% (FORECAST -, PREVIOUS 0.5%) $MACRO
-- 09/30 10:31 [financialjuice] AUSTRALIAN PRIVATE SECTOR CREDIT ACTUAL 0.6% (FORECAST 0.5%, PREVIOUS 0.6%) $MACRO
-- 09/30 10:31 [financialjuice] CHINESE COMPOSITE PMI ACTUAL 50.7 (FORECAST -, PREVIOUS 49.5) $MACRO
-- 09/30 10:31 [financialjuice] ‼ BREAKING: CHINESE NBS MANUFACTURING PMI ACTUAL 50.1 (FORECAST 50.1, PREVIOUS 49.8) $MACRO
-- 09/30 10:31 [financialjuice] CHINESE NBS NON-MANUFACTURING PMI ACTUAL 50.2 (FORECAST 49.2, PREVIOUS 49.0) $MACRO
-- 09/30 10:31 [financialjuice] China september official non-manufacturing pmi climbs to 50.2 from 49.0 in august
-- 09/30 10:31 [financialjuice] China September official manufacturing PMI at 50.1 vs 49.8 in August
-- 09/30 10:31 [financialjuice] China September official composite PMI at 50.7
-- 09/30 10:31 [financialjuice] China Sept official manufacturing PMI at 50.1: poll matched previous 49.8
-- 09/30 10:31 [financialjuice] China Sept official non-manufacturing PMI at 50.2 vs 49.0 in Aug
-- 09/30 10:32 [financialjuice] South Korea military: North Korea must halt fortification efforts immediately
-- 09/30 10:32 [financialjuice] South Korea military: North Korea must apologize for fortification activities
-- 09/30 10:32 [FirstSquawk] Australia CPI (M/M) Aug: 0.4% (est 0.5%; prev 1.0%)
-- 09/30 10:33 [FirstSquawk] Australia CPI (Y/Y): 4.0% (est 4.1%; prev 3.5%)
-- 09/30 10:33 [FirstSquawk] Australia Trimmed Mean CPI (M/M): 0.2% (est 0.3%; prev 0.5%)
-- 09/30 10:33 [FirstSquawk] Australia Trimmed Mean CPI (Y/Y): 3.6% (est 3.6%; prev 3.6%)
-- 09/30 10:33 [financialjuice] South Korea military: personnel seriously injured by North Korean mines
-- 09/30 10:33 [FirstSquawk] Brent futures gain over $1 to $103.73 following Trump’s denial of Iran sanctions relief
-- 09/30 10:34 [FirstSquawk] Australia Private Sector Credit (M/M) Aug: 0.6% (est 0.5%; prev 0.6%)
-- 09/30 10:34 [FirstSquawk] Australia Private Sector Credit (Y/Y): 8.4% (prev 8.4%)
-- 09/30 10:34 [FirstSquawk] Australia Building Approvals (M/M) Aug: -6.1% (est -1.0%; prev -3.6%)
-- 09/30 10:34 [FirstSquawk] Australia Private Sector Houses (M/M): 3.7% (prev -4.2%)
-- 09/30 10:35 [FirstSquawk] China Manufacturing PMI Sep: 50.1 (est 50.1; prev 49.8)
-- 09/30 10:35 [FirstSquawk] China Non-Manufacturing PMI: 50.2 (est 49.2; prev 49.0)
-- 09/30 10:35 [FirstSquawk] China Composite PMI: 50.7 (prev 49.5)
-- 09/30 10:36 [FirstSquawk] Australia’s benchmark S&P/ASX 200 index advances 0.5% to 8,749.50 after inflation data
-- 09/30 10:36 [FirstSquawk] South Korean military demands North Korea cease fortification activities immediately
-- 09/30 10:36 [FirstSquawk] South Korea military warns North Korea’s fortification activities are escalating tensions on Korean Peninsula
-- 09/30 10:40 [FirstSquawk] Australia struggles with illicit cigarette trade after a decade of tax increases — FT
-- 09/30 10:44 [FirstSquawk] Gold prices stabilize with markets awaiting key U.S. economic data — WSJ
-- 09/30 10:45 [financialjuice] ❗ CHINESE SERVICES PMI ACTUAL 51.6 (FORECAST 51.3, PREVIOUS 51.4) $MACRO
-- 09/30 10:45 [financialjuice] ❗ CHINESE MANUFACTURING PMI ACTUAL 52.1 (FORECAST 51.7, PREVIOUS 51.5) $MACRO
-- 09/30 10:45 [financialjuice] RatingDog China general manufacturing PMI at 52.1 in September beats forecast 51.6
-- 09/30 10:45 [financialjuice] Ratingdog China general services PMI at 51.6 in September vs 51.4 in August
 - 09/30 10:47 [FirstSquawk] China RatingDog Manufacturing PMI Sep: 52.1 (est 51.7; prev 51.5)
 - 09/30 10:47 [FirstSquawk] China RatingDog Services PMI: 51.6 (est 51.3; prev 51.4)
 - 09/30 10:47 [FirstSquawk] China RatingDog Composite PMI: 52.4 (prev 52.1)
@@ -780,3 +731,50 @@
 - 10/01 10:16 [FirstSquawk] Netanyahu says Israel does not yet know whether Iran was involved in incident - FOX INTERVIEW
 - 10/01 10:20 [FirstSquawk] Axios: US official says order to leave New York included Iraqi national
 - 10/01 10:26 [FirstSquawk] Japan increases residency-related fees for foreign nationals
+- 10/01 10:30 [financialjuice] ❗ AUSTRALIAN TRADE BALANCE ACTUAL 495M (FORECAST 2000M, PREVIOUS 1,923M) $MACRO
+- 10/01 10:30 [financialjuice] ❗ AUSTRALIAN IMPORTS ACTUAL 5.8% (FORECAST -, PREVIOUS -2.5%) $MACRO
+- 10/01 10:30 [financialjuice] ❗ AUSTRALIAN EXPORTS ACTUAL 3.7% (FORECAST -, PREVIOUS -3.3%) $MACRO
+- 10/01 10:30 [financialjuice] RBA: Private credit not currently a risk to Australia's overall financial stability
+- 10/01 10:30 [financialjuice] RBA: lending standards stay firm, riskier types of credit curbed
+- 10/01 10:30 [financialjuice] RBA: proportion of owner-occupier borrowers facing cash flow shortfall remains low at about 2%
+- 10/01 10:30 [financialjuice] RBA: cash flow challenges to rise for smaller companies, energy-intensive sectors
+- 10/01 10:30 [financialjuice] Australia aug goods exports rise 3.7% m/m, seasonally adjusted
+- 10/01 10:30 [financialjuice] RBA: Alternative funding globally becoming more opaque, circular, and at risk of profit disappointment
+- 10/01 10:30 [financialjuice] RBA: Private credit has expanded notably in Australia, but remains modest overall
+- 10/01 10:30 [financialjuice] RBA: key threats to domestic financial stability stem from overseas
+- 10/01 10:31 [financialjuice] RBA: increase in leveraged investors in bonds, Australian equities heightens volatility and raises risks
+- 10/01 10:31 [financialjuice] RBA: elevated asset prices and leverage leave global markets exposed to sharp correction
+- 10/01 10:31 [financialjuice] Australia August trade balance goods A$495 million, seasonally adjusted: poll A$2 billion
+- 10/01 10:34 [FirstSquawk] AUSTRALIA TRADE BALANCE AUG: A$495M (EST A$2000M; PREV A$1923M; PREVR A$1351M)
+- 10/01 10:34 [FirstSquawk] AUSTRALIA EXPORTS (M/M): 3.7% (PREV -3.3%)
+- 10/01 10:34 [FirstSquawk] AUSTRALIA IMPORTS (M/M): 5.8% (PREV -2.5%)
+- 10/01 10:35 [FirstSquawk] AUSTRALIA JOB VACANCIES (Q/Q) AUG: -0.9% (PREV -2.1%)
+- 10/01 10:36 [financialjuice] South Korea President Lee: Seoul to develop nuclear-powered submarines by mid-2030s
+- 10/01 10:36 [FirstSquawk] South Korea targets nuclear-powered submarine construction by mid-2030s, Lee says
+- 10/01 10:38 [financialjuice] South Korea's Lee: will adopt practical steps to reduce military tension with North Korea
+- 10/01 10:38 [financialjuice] South Korea President Lee: urges North Korea to cooperate in rebuilding trust and restarting talks
+- 10/01 10:38 [FirstSquawk] RBA: A further 20% decline in Australian home prices would leave only 5% of mortgages underwater
+- 10/01 10:38 [FirstSquawk] RBA: Australian households and companies remain resilient despite the prospect of slower growth and weaker housing prices
+- 10/01 10:38 [FirstSquawk] RBA: Fewer than 1% of Australian borrowers currently have mortgages exceeding the value of their homes
+- 10/01 10:38 [FirstSquawk] RBA: Australian banks have sufficient resilience to cope with a significant housing-market downturn
+- 10/01 10:38 [financialjuice] South Korea President Lee: to adopt practical steps to reduce military tensions with North Korea
+- 10/01 10:38 [FirstSquawk] RBA: Financial stress is visible in some households and businesses, but arrears remain low and overall resilience is intact
+- 10/01 10:38 [FirstSquawk] RBA: Most Australian businesses can absorb higher costs, although some are passing those increases through to customers
+- 10/01 10:38 [FirstSquawk] RBA: Only around 2% of owner-occupier borrowers are currently experiencing cash-flow shortfalls
+- 10/01 10:39 [FirstSquawk] RBA: Smaller firms and energy-intensive businesses face rising pressure on cash flows
+- 10/01 10:39 [FirstSquawk] RBA: External shocks remain the biggest source of risk to Australia’s domestic financial stability
+- 10/01 10:39 [FirstSquawk] RBA: Australian lending practices remain robust, with tighter controls limiting riskier credit
+- 10/01 10:39 [FirstSquawk] RBA: Global AI financing is becoming increasingly opaque and circular, raising concerns over future profit expectations
+- 10/01 10:39 [FirstSquawk] RBA: Private credit has not yet emerged as a significant financial-stability risk for Australia
+- 10/01 10:39 [FirstSquawk] RBA: Australia’s private-credit market has expanded rapidly but remains modest in size overall
+- 10/01 10:39 [FirstSquawk] RBA: Greater leverage among bond and AI-equity investors could intensify market swings and financial risks
+- 10/01 10:39 [FirstSquawk] RBA: Elevated asset valuations and leverage leave global markets exposed to a sharp and disruptive correction
+- 10/01 10:39 [financialjuice] South Korea president Lee: country to enhance missile defense with AI-based command networks and laser interceptors
+- 10/01 10:41 [FirstSquawk] SOUTH KOREA'S LEE: WILL TAKE PRACTICAL MEASURES TO LOWER MILITARY TENSION WITH NORTH KOREA
+- 10/01 10:41 [FirstSquawk] SOUTH KOREA PRESIDENT LEE: CALLS ON NORTH KOREA TO JOIN EFFORTS TO RESTORE TRUST AND RESUME DIALOGUE
+- 10/01 10:41 [FirstSquawk] SOUTH KOREA PRESIDENT LEE: WILL TAKE PRACTICAL MEASURES TO LOWER MILITARY TENSION WITH NORTH KOREA
+- 10/01 10:41 [FirstSquawk] SOUTH KOREA PRESIDENT LEE: SOUTH KOREA TO UPGRADE MISSILE DEFENSE SYSTEMS INCLUDING AI-BASED COMMAND NETWORKS AND LASER INTERCEPTORS
+- 10/01 10:43 [FirstSquawk] President Lee: South Korea to bolster missile defenses with AI command networks, laser interceptors
+- 10/01 10:43 [FirstSquawk] SK Hynix to assess shareholder protection measures tied to Solidigm
+- 10/01 10:43 [FirstSquawk] 20-year Japanese government bond yield advances 4.5bp to 3.945%
+- 10/01 10:43 [FirstSquawk] 30-year Japanese government bond yield gains 5.0bp to 4.190%
