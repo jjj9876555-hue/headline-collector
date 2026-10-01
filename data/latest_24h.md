@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-01 23:31 JST／対象: 09/30 23:31 〜 10/01 23:31 JST（時刻はすべて日本時間）
+生成: 2026-10-01 23:50 JST／対象: 09/30 23:50 〜 10/01 23:50 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 79 | 09/30 23:35 | 10/01 23:19 | ⚠ 610分（06:15→16:25） |
-| FirstSquawk | 336 | 09/30 23:39 | 10/01 23:30 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 390 | 09/30 23:31 | 10/01 23:30 | ⚠ 52分（14:07→15:00） |
+| DeItaone | 78 | 10/01 00:48 | 10/01 23:19 | ⚠ 610分（06:15→16:25） |
+| FirstSquawk | 335 | 09/30 23:54 | 10/01 23:35 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 386 | 09/30 23:52 | 10/01 23:44 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 782 行（統合前 810 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 777 行（統合前 804 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 23:31 [financialjuice] EIA Weekly Inventories Report
-- 09/30 23:33 [financialjuice] FTC opens probe of Anthropic, OpenAI and others - CNBC cites FTC Spokesperson
-- 09/30 23:35 [DeItaone/FirstSquawk] U.S. DIESEL FUTURES EXTEND GAINS, UP 4.5%, AFTER EIA STORAGE REPORT
-- 09/30 23:39 [FirstSquawk] US GASOLINE FUTURES HOLD GAINS, STILL UP 2.9%, AFTER EIA STORAGE REPORT
-- 09/30 23:43 [FirstSquawk] VOLKSWAGEN: IG METALL 5% PAY RISE DEMAND ’INCOMPATIBLE’
-- 09/30 23:44 [financialjuice] Russian Foreign Ministry Spokeswoman: Weapons factories in Europe that produce arms for Ukraine are legitimate military targets for Russia
-- 09/30 23:45 [financialjuice] Unconfirmed reports of an explosion heard in eastern Saudi Arabia - Tasnim News
-- 09/30 23:46 [financialjuice] Saudi Arabia turned down Israeli request to allow its planes to pick up Israeli passengers from FlyDubai flight that made emergency landing in Saudi - Security sources
-- 09/30 23:50 [financialjuice] Russian Foreign Ministry Spokeswoman: Claims that Russia does not want peace are unfounded.
-- 09/30 23:50 [FirstSquawk] RUSSIAN FOREIGN MINISTRY SPOX CALLS CLAIMS RUSSIA DOESN’T WANT PEACE ‘UNFOUNDED’
 - 09/30 23:52 [financialjuice] EIA: US domestic crude oil production rose in latest week to record highs
 - 09/30 23:54 [FirstSquawk] US DOMESTIC PRODUCTION OF CRUDE OIL ROSE IN LATEST WEEK TO RECORD HIGHS, EIA SAYS
 - 09/30 23:57 [financialjuice] Senate Republican Leader Thune: I have yet to receive diesel proposal from White House
@@ -806,3 +796,8 @@
 - 10/01 23:29 [FirstSquawk] SPOT PALLADIUM FALLS OVER 3% TO $1,161.93/OZ
 - 10/01 23:30 [FirstSquawk] US NATURAL GAS STORAGE ACTUAL: 64 VS 53 PREVIOUS; EST 63
 - 10/01 23:30 [financialjuice] EIA NATURAL GAS CHANGE BCF ACTUAL 64B (FORECAST 63B, PREVIOUS 53B) $MACRO
+- 10/01 23:31 [financialjuice] Weekly EIA Natural Gas Change Report
+- 10/01 23:33 [FirstSquawk] ACCENTURE SHARES SET FOR BIGGEST ONE-DAY PERCENTAGE GAIN ON RECORD, LAST UP 22.5%
+- 10/01 23:34 [FirstSquawk] DOLLAR TO YEN DROPS SIGNIFICANTLY; CURRENTLY AT 157.52; TRADING VOLUMES INCREASE ON EBS PLATFORM.
+- 10/01 23:35 [FirstSquawk] RUSSIAN https://t.co/qIH60LhYkD : SETS OFFICIAL ROUBLE RATE FOR OCTOBER 2 AT 83.2454 ROUBLES PER U.S. DOLLAR (PVS RATE - 83.5588)
+- 10/01 23:44 [financialjuice] Senior US Official to Channel 12: The US military is sending a third aircraft carrier and a second Marine unit to the Middle East

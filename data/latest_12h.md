@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-01 23:31 JST／対象: 10/01 11:31 〜 10/01 23:31 JST（時刻はすべて日本時間）
+生成: 2026-10-01 23:50 JST／対象: 10/01 11:50 〜 10/01 23:50 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 44 | 10/01 16:25 | 10/01 23:19 | 39分（22:07→22:47） |
-| FirstSquawk | 149 | 10/01 11:39 | 10/01 23:30 | ⚠ 53分（18:34→19:28） |
-| financialjuice | 178 | 10/01 11:37 | 10/01 23:30 | ⚠ 52分（14:07→15:00） |
+| FirstSquawk | 148 | 10/01 11:55 | 10/01 23:35 | ⚠ 53分（18:34→19:28） |
+| financialjuice | 178 | 10/01 11:57 | 10/01 23:44 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 360 行（統合前 374 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 359 行（統合前 373 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 11:37 [financialjuice] South Korea President Lee: Alaska LNG project to start only if commercially viable and compliant with South Korean law
-- 10/01 11:37 [financialjuice] South Korea President Lee: Investment project gains to be split 50-50 until principal and interest fully repaid
-- 10/01 11:39 [FirstSquawk] South Korea’s Lee: Alaska LNG project to start only once commercial viability and legal requirements are confirmed
-- 10/01 11:39 [FirstSquawk] South Korea President Lee: Profits from investment projects to be shared equally until principal and interest are fully recovered
-- 10/01 11:39 [FirstSquawk] South Korea’s Lee: Commercial viability must be assured on a plant-by-plant basis for nuclear projects
-- 10/01 11:49 [FirstSquawk] Card surcharge ban in Australia forces cafes and shops to lift prices
 - 10/01 11:55 [FirstSquawk] South Korea President Lee vows efforts to reduce military tensions with North Korea
 - 10/01 11:57 [financialjuice] Nine killed in two Pakistani airstrikes in Afghanistan: Afghan Taliban spokesperson
 - 10/01 11:57 [financialjuice] India trade minister: discussed with USTR Greer on early wrap-up of interim deal under India-US trade agreement
@@ -384,3 +378,8 @@
 - 10/01 23:29 [FirstSquawk] SPOT PALLADIUM FALLS OVER 3% TO $1,161.93/OZ
 - 10/01 23:30 [FirstSquawk] US NATURAL GAS STORAGE ACTUAL: 64 VS 53 PREVIOUS; EST 63
 - 10/01 23:30 [financialjuice] EIA NATURAL GAS CHANGE BCF ACTUAL 64B (FORECAST 63B, PREVIOUS 53B) $MACRO
+- 10/01 23:31 [financialjuice] Weekly EIA Natural Gas Change Report
+- 10/01 23:33 [FirstSquawk] ACCENTURE SHARES SET FOR BIGGEST ONE-DAY PERCENTAGE GAIN ON RECORD, LAST UP 22.5%
+- 10/01 23:34 [FirstSquawk] DOLLAR TO YEN DROPS SIGNIFICANTLY; CURRENTLY AT 157.52; TRADING VOLUMES INCREASE ON EBS PLATFORM.
+- 10/01 23:35 [FirstSquawk] RUSSIAN https://t.co/qIH60LhYkD : SETS OFFICIAL ROUBLE RATE FOR OCTOBER 2 AT 83.2454 ROUBLES PER U.S. DOLLAR (PVS RATE - 83.5588)
+- 10/01 23:44 [financialjuice] Senior US Official to Channel 12: The US military is sending a third aircraft carrier and a second Marine unit to the Middle East

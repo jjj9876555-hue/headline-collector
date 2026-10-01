@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 23:31 JST／対象: 10/01 17:31 〜 10/01 23:31 JST（時刻はすべて日本時間）
+生成: 2026-10-01 23:50 JST／対象: 10/01 17:50 〜 10/01 23:50 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 37 | 10/01 17:52 | 10/01 23:19 | 39分（22:07→22:47） |
-| FirstSquawk | 68 | 10/01 17:33 | 10/01 23:30 | ⚠ 53分（18:34→19:28） |
-| financialjuice | 118 | 10/01 17:57 | 10/01 23:30 | 44分（18:40→19:25） |
+| FirstSquawk | 67 | 10/01 17:58 | 10/01 23:35 | ⚠ 53分（18:34→19:28） |
+| financialjuice | 120 | 10/01 17:57 | 10/01 23:44 | 44分（18:40→19:25） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 212 行（統合前 226 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 213 行（統合前 227 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 17:33 [FirstSquawk] TAKAICHI ASKED KIUCHI TO SPECIFY THE INVESTMENT TIMEFRAME AND DETAILS.
-- 10/01 17:33 [FirstSquawk] TAKAICHI WILL NEED MORE TIME TO ENSURE LONG-LASTING REAL WAGE INCREASES.
-- 10/01 17:39 [FirstSquawk] ZELENSKYY ANNOUNCES UKRAINE ATTACKED AN OIL FACILITY IN RUSSIA'S SAMARA REGION.
-- 10/01 17:39 [FirstSquawk] UK GOVERNMENT RENEWS £190M CONTRACT WITH AIRBUS TO ASSIST RAF FLEET.
 - 10/01 17:52 [DeItaone] U.K. 30-YEAR GILT HIT 6.029%, HIGHEST SINCE 1998: LSEG
 - 10/01 17:57 [financialjuice] FRENCH 10 YR OAT YIELD ACTUAL 4.93% (FORECAST -, PREVIOUS 4.23%) $MACRO
 - 10/01 17:57 [financialjuice] FRENCH 10 YR OAT BID-TO-COVER ACTUAL 2 (FORECAST -, PREVIOUS 2.28) $MACRO
@@ -236,3 +232,8 @@
 - 10/01 23:29 [FirstSquawk] SPOT PALLADIUM FALLS OVER 3% TO $1,161.93/OZ
 - 10/01 23:30 [FirstSquawk] US NATURAL GAS STORAGE ACTUAL: 64 VS 53 PREVIOUS; EST 63
 - 10/01 23:30 [financialjuice] EIA NATURAL GAS CHANGE BCF ACTUAL 64B (FORECAST 63B, PREVIOUS 53B) $MACRO
+- 10/01 23:31 [financialjuice] Weekly EIA Natural Gas Change Report
+- 10/01 23:33 [FirstSquawk] ACCENTURE SHARES SET FOR BIGGEST ONE-DAY PERCENTAGE GAIN ON RECORD, LAST UP 22.5%
+- 10/01 23:34 [FirstSquawk] DOLLAR TO YEN DROPS SIGNIFICANTLY; CURRENTLY AT 157.52; TRADING VOLUMES INCREASE ON EBS PLATFORM.
+- 10/01 23:35 [FirstSquawk] RUSSIAN https://t.co/qIH60LhYkD : SETS OFFICIAL ROUBLE RATE FOR OCTOBER 2 AT 83.2454 ROUBLES PER U.S. DOLLAR (PVS RATE - 83.5588)
+- 10/01 23:44 [financialjuice] Senior US Official to Channel 12: The US military is sending a third aircraft carrier and a second Marine unit to the Middle East
