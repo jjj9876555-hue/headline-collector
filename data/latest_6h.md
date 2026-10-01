@@ -7,37 +7,26 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-02 01:54 JST／対象: 10/01 19:54 〜 10/02 01:54 JST（時刻はすべて日本時間）
+生成: 2026-10-02 02:18 JST／対象: 10/01 20:18 〜 10/02 02:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 44 | 10/01 20:06 | 10/02 01:51 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 84 | 10/01 19:59 | 10/02 01:52 | 21分（21:46→22:08） |
-| financialjuice | 147 | 10/01 20:02 | 10/02 01:51 | 27分（21:32→22:00） |
+| DeItaone | 44 | 10/01 20:33 | 10/02 02:17 | ⚠ 102分（23:19→01:02） |
+| FirstSquawk | 82 | 10/01 20:28 | 10/02 01:52 | 21分（21:46→22:08） |
+| financialjuice | 147 | 10/01 20:19 | 10/02 02:17 | 27分（21:32→22:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 255 行（統合前 279 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 257 行（統合前 277 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 19:59 [FirstSquawk] EU SPOX: UP TO UK TO DECIDE HOW TO MANAGE, DEVELOP EU TIES
-- 10/01 20:02 [financialjuice] The EU is talking to some European states and the UK about the diesel situation
-- 10/01 20:03 [financialjuice] Trump to Time: I liked Anthropic CEO Amodei a lot
-- 10/01 20:06 [financialjuice/DeItaone] Trump sees ramping up bombing Iran after midterms possible - Time
-- 10/01 20:07 [financialjuice/DeItaone] Trump to Time: Some forms of ammunition are a little bit lower
-- 10/01 20:07 [FirstSquawk] TRUMP SAYS 'PRETTY BAD' THEY KEEP RAISING INTEREST RATES
-- 10/01 20:08 [DeItaone] *TRUMP SAYS HE 'DOESN'T BLAME KEVIN' ON INTEREST RATES: TIME
-- 10/01 20:10 [financialjuice] Trump to Time: We'll soon be filling up strategic oil reserves
-- 10/01 20:10 [financialjuice] Trump: High rates hurting economy more than inflation - Time
-- 10/01 20:10 [financialjuice] Trump: Certain levels of inflation help pay off debt - Time
-- 10/01 20:14 [DeItaone] TOTALENERGIES TO INVEST $10 BILLION IN ARGENTINA, CEO POUYANNE SAYS
-- 10/01 20:14 [financialjuice/FirstSquawk] ECB's Nagel, on rise in bond yields - All ECB instruments are for delivering price stability, not for certain yield levels
-- 10/01 20:15 [DeItaone/FirstSquawk] *TRUMP TO TIME: WE'LL SOON BE FILLING UP STRATEGIC OIL RESERVE
 - 10/01 20:19 [financialjuice] Trump: Dinner with Anthropic CEO Amodei lasted more than two hours - Time
+- 10/01 20:28 [FirstSquawk] ECB'S NAGEL: ON RISE IN BOND YIELDS - ALL ECB INSTRUMENTS ARE FOR DELIVERING PRICE STABILITY NOT FOR CERTAIN YIELD LEVELS
+- 10/01 20:28 [FirstSquawk] TRUMP TO TIME: WE'LL SOON BE FILLING UP STRATEGIC OIL RESERVE
 - 10/01 20:28 [FirstSquawk] TRUMP: AMODEI VERY SMART, DIFFERENT THAN TRUMP THOUGHT: TIME
 - 10/01 20:32 [financialjuice] Iran's president Pezeshkian: Tehran won't ever shy away from dialogue, even as the US targeted Iran several times - Tasnim
 - 10/01 20:33 [DeItaone] CITI RAISES BITCOIN TARGET TO $113,000 Citi has raised its 12-month Bitcoin target to $113,000 from $82,000, implying roughly 35% upside from current levels near $83,900. The bank points to renewed currency-debasement fears, greater regulat…
@@ -279,3 +268,16 @@
 - 10/02 01:51 [financialjuice] Putin: we support trilateral meeting with Xi, Trump, but agenda for talks should be worked out.
 - 10/02 01:52 [FirstSquawk] TRUMP ON IRAN: NOW I HAVE TO MAKE A DECISION
 - 10/02 01:52 [FirstSquawk] TRUMP: EITHER IRAN SIGNS DEAL, OR IT WON'T EXIST ANY LONGER
+- 10/02 01:55 [DeItaone] *PUTIN SAYS HE OPEN TO TRILATERAL TALKS WITH US, CHINA
+- 10/02 02:08 [financialjuice] Trump, asked if the pilot had any connection to Iran: We are looking into that, according to what I'm hearing, yes - Israel's N12 News
+- 10/02 02:09 [financialjuice] Putin: Russia ready to resume dialog with the US on arms control.
+- 10/02 02:11 [DeItaone] *PUTIN: RUSSIA READY TO RESUME DIALOG WITH US ON ARMS CONTROL
+- 10/02 02:11 [financialjuice] Putin: Russia has no preconditions for dialog with the EU.
+- 10/02 02:12 [DeItaone] HOUTHI-RUN SABA NEWS AGENCY, CITING MILITARY SOURCE, DENIES GROUP ATTACKED POWER STATION IN SAUDI ARABIA'S MEDINA
+- 10/02 02:13 [financialjuice] Houthi-run Saba News Agency, citing a military source: Denies group attacked a power station in Saudi Arabia's Medina
+- 10/02 02:14 [financialjuice] Putin: Russia doesn't nationalize foreign assets.
+- 10/02 02:14 [DeItaone] PUTIN: SOME EUROPEAN COUNTRIES, INCLUDING GERMANY, SEIZE RUSSIAN ASSETS PUTIN: WE ARE RESPONDING IN KIND
+- 10/02 02:15 [financialjuice] Putin: Some European countries, including Germany, seize Russian assets; we are responding in kind
+- 10/02 02:16 [financialjuice] Putin: Foreign owners will get assets back in a good scenario.
+- 10/02 02:17 [financialjuice] Why US Bonds Are Bouncing Back Today - WSJ
+- 10/02 02:17 [DeItaone] PUTIN: THEY MAY GET THEM BACK IN FAVOURABLE SCENARIO

@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-02 01:54 JST／対象: 10/01 01:54 〜 10/02 01:54 JST（時刻はすべて日本時間）
+生成: 2026-10-02 02:18 JST／対象: 10/01 02:18 〜 10/02 02:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 93 | 10/01 02:11 | 10/02 01:51 | ⚠ 610分（06:15→16:25） |
-| FirstSquawk | 356 | 10/01 01:54 | 10/02 01:52 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 415 | 10/01 01:55 | 10/02 01:51 | ⚠ 52分（14:07→15:00） |
+| DeItaone | 96 | 10/01 02:19 | 10/02 02:17 | ⚠ 610分（06:15→16:25） |
+| FirstSquawk | 353 | 10/01 02:30 | 10/02 01:52 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 418 | 10/01 02:18 | 10/02 02:17 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 832 行（統合前 869 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 836 行（統合前 872 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 01:54 [FirstSquawk] LAGARDE: WON'T RULE OUT LEAVING FEW MONTHS BEFORE ECB TERM ENDS
-- 10/01 01:55 [FirstSquawk] SPACEXAI PLANS TO SOON UNVEIL FOUR GROK PRICING TIERS
-- 10/01 01:55 [financialjuice] SpaceXAI plans to soon unveil four Grok pricing tiers. $SPCX
-- 10/01 01:59 [financialjuice] Israel's Prime Minister Netanyahu spoke with UAE President - Israel's Hayom News
-- 10/01 02:02 [FirstSquawk/DeItaone] FED WATCHDOG FINDS NO CRIMINAL VIOLATIONS IN RENOVATION PROJECT
-- 10/01 02:03 [financialjuice] OpenAI: Identified, disrupted coordinated campaign designed to extract protected reasoning from our models; operators did not break our encryption, compromise a database or gain direct access to stored user conversations
-- 10/01 02:04 [financialjuice] OpenAI: Attribute a core activity attributed to individuals tied to Kimi developer Moonshot AI
-- 10/01 02:08 [financialjuice] An Omani pilot who attempted to crash the plane from Dubai to Tel Aviv was neutralized, and the plane landed in Saudi Arabia - Israel's channel 14 news
-- 10/01 02:15 [DeItaone] GOLDMAN PUSHES NEXT FED HIKE TO DECEMBER Goldman Sachs now says an October Fed hike is unlikely, pushing its forecast for the next increase to December after softer inflation data. Core PCE fell to 3.01% YoY, well below expectations, with G…
 - 10/01 02:18 [financialjuice] Trump: Last US forces are leaving iraq - Truth Social
 - 10/01 02:19 [DeItaone] TRUMP: WE LEAVE IRAQ WITH A WONDERFUL NEW PRIME MINISTER
 - 10/01 02:22 [DeItaone] TRUMP ON TRUTH SOCIAL: I AM PLEASED TO ANNOUNCE, THE LAST AMERICAN FORCES ARE LEAVING IRAQ
@@ -856,3 +847,16 @@
 - 10/02 01:51 [financialjuice] Putin: we support trilateral meeting with Xi, Trump, but agenda for talks should be worked out.
 - 10/02 01:52 [FirstSquawk] TRUMP ON IRAN: NOW I HAVE TO MAKE A DECISION
 - 10/02 01:52 [FirstSquawk] TRUMP: EITHER IRAN SIGNS DEAL, OR IT WON'T EXIST ANY LONGER
+- 10/02 01:55 [DeItaone] *PUTIN SAYS HE OPEN TO TRILATERAL TALKS WITH US, CHINA
+- 10/02 02:08 [financialjuice] Trump, asked if the pilot had any connection to Iran: We are looking into that, according to what I'm hearing, yes - Israel's N12 News
+- 10/02 02:09 [financialjuice] Putin: Russia ready to resume dialog with the US on arms control.
+- 10/02 02:11 [DeItaone] *PUTIN: RUSSIA READY TO RESUME DIALOG WITH US ON ARMS CONTROL
+- 10/02 02:11 [financialjuice] Putin: Russia has no preconditions for dialog with the EU.
+- 10/02 02:12 [DeItaone] HOUTHI-RUN SABA NEWS AGENCY, CITING MILITARY SOURCE, DENIES GROUP ATTACKED POWER STATION IN SAUDI ARABIA'S MEDINA
+- 10/02 02:13 [financialjuice] Houthi-run Saba News Agency, citing a military source: Denies group attacked a power station in Saudi Arabia's Medina
+- 10/02 02:14 [financialjuice] Putin: Russia doesn't nationalize foreign assets.
+- 10/02 02:14 [DeItaone] PUTIN: SOME EUROPEAN COUNTRIES, INCLUDING GERMANY, SEIZE RUSSIAN ASSETS PUTIN: WE ARE RESPONDING IN KIND
+- 10/02 02:15 [financialjuice] Putin: Some European countries, including Germany, seize Russian assets; we are responding in kind
+- 10/02 02:16 [financialjuice] Putin: Foreign owners will get assets back in a good scenario.
+- 10/02 02:17 [financialjuice] Why US Bonds Are Bouncing Back Today - WSJ
+- 10/02 02:17 [DeItaone] PUTIN: THEY MAY GET THEM BACK IN FAVOURABLE SCENARIO
