@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-02 07:34 JST／対象: 10/01 07:34 〜 10/02 07:34 JST（時刻はすべて日本時間）
+生成: 2026-10-02 07:53 JST／対象: 10/01 07:53 〜 10/02 07:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 93 | 10/01 16:25 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 358 | 10/01 07:49 | 10/02 06:24 | ⚠ 54分（07:50→08:44） |
+| FirstSquawk | 354 | 10/01 08:44 | 10/02 06:24 | ⚠ 53分（18:34→19:28） |
 | financialjuice | 433 | 10/01 08:05 | 10/02 06:41 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 846 行（統合前 890 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 842 行（統合前 886 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 07:49 [FirstSquawk] BOEING: JAPAN AIRLINES RENEWS INTEGRATED MATERIALS MANAGEMENT SERVICES AGREEMENT
-- 10/01 07:49 [FirstSquawk] FED'S KASHKARI SAYS THE ECONOMY REMAINS ROBUST DESPITE SHOCKS, WITH CONSUMERS CONTINUING TO SPEND AND JOB SEEKERS FINDING EMPLOYMENT, AND EXPECTS ONE MORE RATE INCREASE THIS YEAR AND ANOTHER IN 2027, ADDING THAT 'THE LONGER THE ECONOMY REMA…
-- 10/01 07:49 [FirstSquawk] FED'S KASHKARI SAYS THE CENTRAL BANK MUST RETURN INFLATION TO 2% GIVEN THE EXTENDED PERIOD ABOVE TARGET AND HOPES IT CAN DO SO WITH RESTRAINED MEASURES, WHILE WARNING THAT ROLLING SUPPLY SHOCKS MAY BOOST INFLATION EXPECTATIONS AND DOUBTING …
-- 10/01 07:50 [FirstSquawk] CPP INVESTMENTS TO SELL AUSTRALIAN TOLL ROAD STAKES TO TRANSURBAN FOR A$4.5B; DEAL COVERS WESTCONNEX & NORTHWESTERN ROADS GROUP INTERESTS
 - 10/01 08:05 [financialjuice] Fed's Kashkari: keen to see outcomes from central bank task forces
 - 10/01 08:05 [financialjuice] Doubts an investment poses systemic risk
 - 10/01 08:05 [financialjuice] Fed says swap lines are part of monetary policy execution
