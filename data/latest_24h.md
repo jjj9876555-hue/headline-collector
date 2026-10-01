@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-02 05:47 JST／対象: 10/01 05:47 〜 10/02 05:47 JST（時刻はすべて日本時間）
+生成: 2026-10-02 05:59 JST／対象: 10/01 05:59 〜 10/02 05:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 98 | 10/01 05:52 | 10/02 05:19 | ⚠ 610分（06:15→16:25） |
-| FirstSquawk | 367 | 10/01 05:50 | 10/02 05:43 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 477 | 10/01 05:57 | 10/02 05:19 | ⚠ 52分（14:07→15:00） |
+| DeItaone | 97 | 10/01 06:07 | 10/02 05:19 | ⚠ 610分（06:15→16:25） |
+| FirstSquawk | 364 | 10/01 06:17 | 10/02 05:43 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 475 | 10/01 06:00 | 10/02 05:19 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 903 行（統合前 948 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 897 行（統合前 942 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 05:50 [FirstSquawk] CMS SAYS IT HAS FINALIZED THE GLOBE MODEL TO DELIVER LOWER DRUG PRICES FOR BENEFICIARIES IN ORIGINAL MEDICARE PART B, WITH THE MODEL OPERATING FOR FIVE YEARS BEGINNING JANUARY 1, 2027 AND ENDING MARCH 31, 2032, THOUGH IT EXCLUDES BIOSIMILAR…
-- 10/01 05:50 [FirstSquawk] CMS SAYS SELECTED BENEFICIARIES IMPACTED BY THE GLOBE MODEL MAY BEGIN TO SEE REDUCED OUT-OF-POCKET COSTS FROM APRIL 1, 2027.
-- 10/01 05:52 [DeItaone] MUSK RETURNS TO PENTAGON ROLE FOR FUTURE WARFARE STUDY Elon Musk, Palmer Luckey and Newt Gingrich will lead “Project Meridian,” a Pentagon study examining the future of warfare, Defense Secretary Pete Hegseth announced. The group will focus…
-- 10/01 05:55 [FirstSquawk] PENTAGON NAMES MUSK AND LUCKEY TO LEAD WAR STUDY - AXIOS
-- 10/01 05:57 [financialjuice] Trump reiterates gasoline prices will drop after the Iran war ends
-- 10/01 05:59 [financialjuice] US and South Korea Launch $22.3 Billion Texas Gas Power Project for AI Data Centers
 - 10/01 06:00 [financialjuice] Trump on FlyDubai incident: I did speak to Netanyahu
 - 10/01 06:07 [DeItaone] *TRUMP: INFLATION NUMBERS ARE WAY DOWN OTHER THAN FOR OIL
 - 10/01 06:08 [financialjuice] Trump on UK base incident: will learn this afternoon why UK freed suspects

@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-02 05:47 JST／対象: 10/01 17:47 〜 10/02 05:47 JST（時刻はすべて日本時間）
+生成: 2026-10-02 05:59 JST／対象: 10/01 17:59 〜 10/02 05:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 86 | 10/01 17:52 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 180 | 10/01 17:58 | 10/02 05:43 | ⚠ 53分（18:34→19:28） |
-| financialjuice | 293 | 10/01 17:57 | 10/02 05:19 | 44分（18:40→19:25） |
+| DeItaone | 85 | 10/01 18:30 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
+| FirstSquawk | 178 | 10/01 18:02 | 10/02 05:43 | ⚠ 53分（18:34→19:28） |
+| financialjuice | 288 | 10/01 18:00 | 10/02 05:19 | 44分（18:40→19:25） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 523 行（統合前 565 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 515 行（統合前 557 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 17:52 [DeItaone] U.K. 30-YEAR GILT HIT 6.029%, HIGHEST SINCE 1998: LSEG
-- 10/01 17:57 [financialjuice] FRENCH 10 YR OAT YIELD ACTUAL 4.93% (FORECAST -, PREVIOUS 4.23%) $MACRO
-- 10/01 17:57 [financialjuice] FRENCH 10 YR OAT BID-TO-COVER ACTUAL 2 (FORECAST -, PREVIOUS 2.28) $MACRO
-- 10/01 17:57 [financialjuice] FRENCH 20 YR OAT YIELD ACTUAL 5.4% (FORECAST -, PREVIOUS 4.74%) $MACRO
-- 10/01 17:57 [financialjuice] Japan Economy Minister Kiuchi: Won't comment on BoJ summary of opinions.
-- 10/01 17:57 [financialjuice] FRENCH 20 YR OAT BID-TO-COVER ACTUAL 2.43 (FORECAST -, PREVIOUS 3.07) $MACRO
-- 10/01 17:58 [FirstSquawk] JAPAN'S ECONOMY MINISTER KIUCHI REFUSED TO COMMENT ON THE BANK OF JAPAN'S SUMMARY OF OPINIONS.
-- 10/01 17:58 [FirstSquawk] JAPAN'S ECONOMY MINISTER KIUCHI STATES THAT THE DECISION ON SPECIFIC MONETARY TOOLS RESTS WITH THE BANK OF JAPAN.
 - 10/01 18:00 [financialjuice] ❗ EUROZONE UNEMPLOYMENT RATE ACTUAL 6.4% (FORECAST 6.4%, PREVIOUS 6.4%) $MACRO
 - 10/01 18:01 [financialjuice/FirstSquawk] Hawley, Murphy to introduce AI liability legislation - Axios.
 - 10/01 18:17 [financialjuice] Latest UK sanctions against Russian military & intelligence officers alleged to have mistreated civilians in Ukraine
