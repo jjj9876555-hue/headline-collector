@@ -7,41 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-01 20:56 JST／対象: 10/01 08:56 〜 10/01 20:56 JST（時刻はすべて日本時間）
+生成: 2026-10-01 21:25 JST／対象: 10/01 09:25 〜 10/01 21:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 30 | 10/01 16:25 | 10/01 20:45 | 37分（17:52→18:30） |
-| FirstSquawk | 194 | 10/01 08:59 | 10/01 20:48 | ⚠ 53分（18:34→19:28） |
-| financialjuice | 158 | 10/01 08:56 | 10/01 20:55 | ⚠ 52分（14:07→15:00） |
+| DeItaone | 32 | 10/01 16:25 | 10/01 21:24 | 37分（17:52→18:30） |
+| FirstSquawk | 187 | 10/01 09:25 | 10/01 21:18 | ⚠ 53分（18:34→19:28） |
+| financialjuice | 170 | 10/01 09:30 | 10/01 21:18 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 375 行（統合前 382 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 382 行（統合前 389 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 08:56 [financialjuice] BOJ summary: one member says financial conditions continue to be accommodative
-- 10/01 08:57 [financialjuice] BOJ summary: cabinet office rep says govt expects central bank to uphold accountability, carefully assess cumulative impact of previous rate increases
-- 10/01 08:57 [financialjuice] BoJ summary: Cabinet office rep says BoJ may need to consider its neutral rate estimates
-- 10/01 08:58 [financialjuice] BOJ summary: cabinet office rep says central bank must take proactive, appropriate measures during excessive economic or market fluctuations
-- 10/01 08:58 [financialjuice] BOJ summary: Cabinet office rep says govt expects central bank to conduct monetary policy appropriately to stably achieve price target while closely cooperating with govt
-- 10/01 08:59 [FirstSquawk] BANK OF JAPAN'S SEPTEMBER SUMMARY OF OPINIONS SHOWS ONE MEMBER SAID IT IS APPROPRIATE TO CONTINUE RAISING RATES IN ACCORDANCE WITH ECONOMIC, PRICE AND FINANCIAL DEVELOPMENTS, AND ANOTHER SAID THE POLICY PHASE HAS CHANGED AND THE BOJ MUST FO…
-- 10/01 08:59 [FirstSquawk] BANK OF JAPAN'S SEPTEMBER SUMMARY SHOWS ONE MEMBER SAID THE BOJ MUST ACT NIMBLY AND SHOW ITS DETERMINATION TO PREVENT AN INFLATION OVERSHOOT WHILE BEING MINDFUL OF THE FX MARKET, WITH ONE SAYING IT MUST SPEED UP RATE HIKES IF THERE ARE SIGN…
-- 10/01 08:59 [FirstSquawk] BANK OF JAPAN'S SEPTEMBER SUMMARY SHOWS ONE MEMBER SAID THE BOJ SHOULD NOT BE OVERLY CAUTIOUS GIVEN SIGNIFICANT UPSIDE INFLATION RISKS AND THAT THE TERMINAL RATE COULD OVERSHOOT THE BOJ'S ESTIMATED RANGE DEPENDING ON OVERSEAS DEVELOPMENTS, …
-- 10/01 09:02 [FirstSquawk] BANK OF JAPAN'S SEPTEMBER SUMMARY SHOWS ONE MEMBER SAID THE SOMEWHAT WEAK Q2 GDP FIGURES ARE ATTRIBUTED TO TECHNICAL FACTORS.
-- 10/01 09:02 [FirstSquawk] BANK OF JAPAN'S SEPTEMBER SUMMARY OF OPINIONS SHOWS A CABINET OFFICE REPRESENTATIVE SAID THE BOJ MUST TAKE PROACTIVE, APPROPRIATE ACTION IN THE EVENT OF EXCESSIVE FLUCTUATION IN ECONOMIC ACTIVITY AND MARKETS, AND THAT THE GOVERNMENT EXPECTS…
-- 10/01 09:02 [FirstSquawk] BANK OF JAPAN'S SEPTEMBER SUMMARY OF OPINIONS SHOWS ONE MEMBER SAID THERE HAS BEEN A SIGNIFICANT REGIME SHIFT IN JAPAN'S FINANCIAL CONDITIONS WITH HEIGHTENED UPWARD PRICE PRESSURES, WHICH HAS BECOME INCREASINGLY EVIDENT OVER THE PAST FEW MO…
-- 10/01 09:03 [FirstSquawk] BANK OF JAPAN'S SEPTEMBER SUMMARY SHOWS ONE MEMBER SAID UPSIDE RISKS TO PRICES CONTINUE TO BE HIGH AND THAT THE BOJ MUST CONSIDER THE PRICE OUTLOOK KEEPING IN MIND CRUDE OIL PRICES COULD REMAIN HIGH, WHILE ANOTHER NOTED PRIVATE CONSUMPTION …
-- 10/01 09:04 [FirstSquawk] US NATURAL GAS FUTURES ROSE 0.5% TO $3.026/MMBTU AS LOWER-48 OUTPUT REMAINED NEAR ITS LOWEST LEVEL SINCE JANUARY, WITH DRILLERS LIMITING PRODUCTION AHEAD OF WINTER. EIA STORAGE GROWTH IS EXPECTED TO SLOW TO ABOUT 63 BCF, BELOW THE 80 BCF FI…
-- 10/01 09:05 [FirstSquawk] Drugmakers race to develop next-gen drugs aimed at protecting muscle while driving fat loss during rapid weight reduction - WSJ
-- 10/01 09:07 [FirstSquawk] AUSTRALIA’S S&P/ASX 200 FALLS 0.8% TO 8,721.40 POINTS IN EARLY TRADE
-- 10/01 09:10 [FirstSquawk] SAUDI ARABIA RAISED ITS PROJECTED 2026 BUDGET DEFICIT TO 4.9% OF GDP FROM 3.3%, WITH SPENDING EXPECTED AT ABOUT 1.4 TRILLION RIYALS AS DEFENSE, INFRASTRUCTURE AND ECONOMIC-DIVERSIFICATION OUTLAYS INCREASE. RIYADH ALSO CUT ITS 2026 REAL GDP …
-- 10/01 09:15 [financialjuice/FirstSquawk] ❗ U.S. official: Secretary Rubio kicked out the Iranian delegation who had over stayed their welcome. The UN general assembly was over, so it was time for them to go - Axios Reporter on X
-- 10/01 09:24 [FirstSquawk] 3. Asia-Pacific equities trade mixed at the open following a similar performance on Wall Street, with markets weighing fresh data and rising yields despite softer PCE inflation.
 - 10/01 09:25 [FirstSquawk] Asia-Pacific equities trade mixed at the open following a similar performance on Wall Street, with markets weighing fresh data and rising yields despite softer PCE inflation.
 - 10/01 09:25 [FirstSquawk] Nidec shares sink 18.5%
 - 10/01 09:28 [FirstSquawk] US State Department: Four Americans were aboard Flydubai flight bound for Israel
@@ -399,3 +381,28 @@
 - 10/01 20:54 [financialjuice] USTR Greer: Europe should release some diesel inventories
 - 10/01 20:55 [financialjuice] USTR Greer: We will meet with EU counterparts to discuss diesel today
 - 10/01 20:55 [financialjuice] USTR Greer: I have been speaking with Canadians on trade
+- 10/01 20:56 [financialjuice] USTR Greer: We're open to deal with Canada, but it's up to Canada
+- 10/01 20:56 [financialjuice] USTR Greer: Gaps remain between US and Canada on trade.
+- 10/01 21:00 [financialjuice] Secured Overnight Financing Rate 3.90% September 30 vs 3.88% September 29.
+- 10/01 21:00 [financialjuice] France HCFP: Deficit target for 2026 plausible, sees risks.
+- 10/01 21:00 [financialjuice] France HCFP: French deficit goal is minimum given ‘alarming’ finances
+- 10/01 21:00 [financialjuice] France hcFp: 2027 budget plan targets are a ‘significant’ adjustment.
+- 10/01 21:01 [financialjuice] France’s budget watchdog calls 2027 growth forecast optimistic.
+- 10/01 21:04 [financialjuice] BoE's Mann: Risk management strategy apt given inflation risks.
+- 10/01 21:05 [financialjuice] BoE's Mann: Raising rate can ensure sustainable return to 2%.
+- 10/01 21:06 [financialjuice] BoE's Mann: Real and nominal conditions need to remain tight.
+- 10/01 21:06 [financialjuice] BoE's Mann: Can't rely on risk premia to do the work of monetary policy, need to raise the bank rate
+- 10/01 21:06 [financialjuice] BoE's Mann: Current stance is not sufficiently tight.
+- 10/01 21:06 [DeItaone] https://t.co/EDVUWjvAPI
+- 10/01 21:07 [FirstSquawk] FRENCH BUDGET WATCHDOG: 2027 GROWTH FORECAST OPTIMISTIC
+- 10/01 21:07 [FirstSquawk] BOE'S MANN: CAN'T RELY ON RISK PREMIA TO DO THE WORK OF POLICY
+- 10/01 21:08 [financialjuice] BoE's Mann: Need clearly communicated reaction function.
+- 10/01 21:11 [financialjuice] BoE's Mann: BoE may not have clearly articulated its reaction function to Middle East shock in March, not publishing baseline forecast in April likely did not help either.
+- 10/01 21:11 [financialjuice/FirstSquawk] BoE's Mann: Policy, CPI expectations will shift without action.
+- 10/01 21:13 [financialjuice] Netanyahu on FlyDubai Attacks: Too early to say if he had connections with Iran.
+- 10/01 21:14 [FirstSquawk] NETANYAHU: TOO EARLY TO SAY IF HE HAD CONNECTIONS WITH IRAN
+- 10/01 21:16 [FirstSquawk] ISRAEL NETANYAHU: INDICATIONS THAT IRAN, PROXIES WANT TO ATTACK ISRAEL
+- 10/01 21:18 [financialjuice] Israel's Prime Minister Netanyahu: There are indications that Iran and proxies want to attack Israel
+- 10/01 21:18 [FirstSquawk] NETANYAHU: PILOT WHO ATTACKED THE OTHER PILOT WAS OMANI
+- 10/01 21:18 [financialjuice] Israel's Prime Minister Netanyahu: The pilot who attacked the other pilot was Omani
+- 10/01 21:24 [DeItaone] EUROPE HOLDS EMERGENCY TALKS ON DIESEL RESERVES European nations are holding emergency talks over releasing strategic fuel reserves after pressure from Washington to boost supply. The U.S. has already approved another 40 million barrels fro…

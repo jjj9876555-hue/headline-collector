@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-01 20:56 JST／対象: 09/30 20:56 〜 10/01 20:56 JST（時刻はすべて日本時間）
+生成: 2026-10-01 21:25 JST／対象: 09/30 21:25 〜 10/01 21:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 86 | 09/30 21:00 | 10/01 20:45 | ⚠ 610分（06:15→16:25） |
-| FirstSquawk | 342 | 09/30 21:00 | 10/01 20:48 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 386 | 09/30 21:00 | 10/01 20:55 | ⚠ 52分（14:07→15:00） |
+| DeItaone | 85 | 09/30 21:30 | 10/01 21:24 | ⚠ 610分（06:15→16:25） |
+| FirstSquawk | 343 | 09/30 21:30 | 10/01 21:18 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 395 | 09/30 21:30 | 10/01 21:18 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 791 行（統合前 816 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 799 行（統合前 825 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 21:00 [DeItaone] U.S. TREASURIES END A BRUTAL QUARTER The U.S. bond market is closing Q3 after a relentless selloff, with 10- and 30-year Treasury yields reaching multidecade highs. According to WSJ/Dow Jones Market Data: 🔸 10-year: +85 bps, biggest quarter…
-- 09/30 21:00 [financialjuice] ❗ GERMAN HICP YOY PRELIM ACTUAL 3.3% (FORECAST 3.2%, PREVIOUS 2.90%) $MACRO
-- 09/30 21:00 [financialjuice] GERMAN HICP MOM PRELIM ACTUAL 0.6% (FORECAST 0.5%, PREVIOUS 0.20%) $MACRO
-- 09/30 21:00 [financialjuice] ❗ GERMAN CPI YOY PRELIM ACTUAL 3.3% (FORECAST 3.1%, PREVIOUS 2.90%) $MACRO
-- 09/30 21:00 [financialjuice] GERMAN CPI MOM PRELIM ACTUAL 0.6% (FORECAST 0.5%, PREVIOUS 0.20%) $MACRO
-- 09/30 21:00 [FirstSquawk] GERMANY PRELIM SEPT. HARMONIZED CPI RISES 3.3% Y/Y; EST. +3.2%
-- 09/30 21:01 [FirstSquawk] Germany CPI (M/M) Sep P: 0.6% (est 0.5%; prev 0.2%) - CPI (Y/Y): 3.3% (est 3.1%; prev 2.9%) - CPI EU Harmonised (M/M: 0.6% (est 0.5%; prev 0.2%) - CPI EU Harmonised (Y/Y): 3.3% (est 3.2%; prev 2.9%)
-- 09/30 21:01 [financialjuice] Secured Overnight Financing Rate 3.88% September 29 vs 3.90% September 28.
-- 09/30 21:02 [DeItaone] GERMANY SEP FLASH HICP 0.6% M/M (0.2% AUG) GERMANY SEP FLASH HICP 3.3% Y/Y (2.9% AUG) GERMANY SEP FLASH NATIONAL CPI 0.6% M/M (0.2% AUG) GERMANY SEP FLASH NATIONAL CPI 3.3% Y/Y (2.9% AUG)
-- 09/30 21:02 [FirstSquawk] QATAR FLOATS NEW PROPOSAL FOR US-IRAN WAR SEEKING CONCESSIONS FROM BOTH SIDES
-- 09/30 21:05 [financialjuice] German CPI September Prelim Report
-- 09/30 21:07 [FirstSquawk] LILLY'S EBGLYSS MEETS PRIMARY ENDPOINT IN PHASE 3B ADTOUCH
-- 09/30 21:08 [financialjuice] Morning Juice - US Session Prep (30th September)
-- 09/30 21:14 [DeItaone] GERMAN INFLATION HITS HIGHEST LEVEL IN NEARLY 3 YEARS Germany’s September inflation accelerated to 3.3% YoY, above the 3.2% forecast, driven primarily by surging energy costs. With inflation also accelerating across France, Italy and Spain,…
-- 09/30 21:15 [FirstSquawk] US ADP NONFARM EMPLOYMENT CHANGE (SEP) ACTUAL: 90K VS 75K PREVIOUS; EST 38K
-- 09/30 21:15 [financialjuice] ❗ US ADP EMPLOYMENT CHANGE ACTUAL 90K (FORECAST 74.5K, PREVIOUS 38K) $MACRO
-- 09/30 21:16 [financialjuice] France’s President Macron: Trade war with china, cutting ties would make no sense.
 - 09/30 21:30 [DeItaone] US FINAL Q2 GDP +2.2% (CONSENSUS +1.5%) US FINAL Q2 PCE PRICE INDEX +5.0% US FINAL Q2 CORE PCE +3.3% (CONSENSUS +3.6%)
 - 09/30 21:30 [financialjuice] US ADVANCE GOODS TRADE BALANCE ACTUAL -132.6B (FORECAST -115B, PREVIOUS -118.94B) $MACRO
 - 09/30 21:30 [financialjuice] US WHOLESALE INVENTORIES MOM ADVANCE ACTUAL 0.7% (FORECAST 0.5%, PREVIOUS 1.3%) $MACRO
@@ -815,3 +798,28 @@
 - 10/01 20:54 [financialjuice] USTR Greer: Europe should release some diesel inventories
 - 10/01 20:55 [financialjuice] USTR Greer: We will meet with EU counterparts to discuss diesel today
 - 10/01 20:55 [financialjuice] USTR Greer: I have been speaking with Canadians on trade
+- 10/01 20:56 [financialjuice] USTR Greer: We're open to deal with Canada, but it's up to Canada
+- 10/01 20:56 [financialjuice] USTR Greer: Gaps remain between US and Canada on trade.
+- 10/01 21:00 [financialjuice] Secured Overnight Financing Rate 3.90% September 30 vs 3.88% September 29.
+- 10/01 21:00 [financialjuice] France HCFP: Deficit target for 2026 plausible, sees risks.
+- 10/01 21:00 [financialjuice] France HCFP: French deficit goal is minimum given ‘alarming’ finances
+- 10/01 21:00 [financialjuice] France hcFp: 2027 budget plan targets are a ‘significant’ adjustment.
+- 10/01 21:01 [financialjuice] France’s budget watchdog calls 2027 growth forecast optimistic.
+- 10/01 21:04 [financialjuice] BoE's Mann: Risk management strategy apt given inflation risks.
+- 10/01 21:05 [financialjuice] BoE's Mann: Raising rate can ensure sustainable return to 2%.
+- 10/01 21:06 [financialjuice] BoE's Mann: Real and nominal conditions need to remain tight.
+- 10/01 21:06 [financialjuice] BoE's Mann: Can't rely on risk premia to do the work of monetary policy, need to raise the bank rate
+- 10/01 21:06 [financialjuice] BoE's Mann: Current stance is not sufficiently tight.
+- 10/01 21:06 [DeItaone] https://t.co/EDVUWjvAPI
+- 10/01 21:07 [FirstSquawk] FRENCH BUDGET WATCHDOG: 2027 GROWTH FORECAST OPTIMISTIC
+- 10/01 21:07 [FirstSquawk] BOE'S MANN: CAN'T RELY ON RISK PREMIA TO DO THE WORK OF POLICY
+- 10/01 21:08 [financialjuice] BoE's Mann: Need clearly communicated reaction function.
+- 10/01 21:11 [financialjuice] BoE's Mann: BoE may not have clearly articulated its reaction function to Middle East shock in March, not publishing baseline forecast in April likely did not help either.
+- 10/01 21:11 [financialjuice/FirstSquawk] BoE's Mann: Policy, CPI expectations will shift without action.
+- 10/01 21:13 [financialjuice] Netanyahu on FlyDubai Attacks: Too early to say if he had connections with Iran.
+- 10/01 21:14 [FirstSquawk] NETANYAHU: TOO EARLY TO SAY IF HE HAD CONNECTIONS WITH IRAN
+- 10/01 21:16 [FirstSquawk] ISRAEL NETANYAHU: INDICATIONS THAT IRAN, PROXIES WANT TO ATTACK ISRAEL
+- 10/01 21:18 [financialjuice] Israel's Prime Minister Netanyahu: There are indications that Iran and proxies want to attack Israel
+- 10/01 21:18 [FirstSquawk] NETANYAHU: PILOT WHO ATTACKED THE OTHER PILOT WAS OMANI
+- 10/01 21:18 [financialjuice] Israel's Prime Minister Netanyahu: The pilot who attacked the other pilot was Omani
+- 10/01 21:24 [DeItaone] EUROPE HOLDS EMERGENCY TALKS ON DIESEL RESERVES European nations are holding emergency talks over releasing strategic fuel reserves after pressure from Washington to boost supply. The U.S. has already approved another 40 million barrels fro…

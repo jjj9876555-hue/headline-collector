@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 20:56 JST／対象: 10/01 14:56 〜 10/01 20:56 JST（時刻はすべて日本時間）
+生成: 2026-10-01 21:25 JST／対象: 10/01 15:25 〜 10/01 21:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 30 | 10/01 16:25 | 10/01 20:45 | 37分（17:52→18:30） |
-| FirstSquawk | 75 | 10/01 15:00 | 10/01 20:48 | ⚠ 53分（18:34→19:28） |
-| financialjuice | 89 | 10/01 15:00 | 10/01 20:55 | 44分（18:40→19:25） |
+| DeItaone | 32 | 10/01 16:25 | 10/01 21:24 | 37分（17:52→18:30） |
+| FirstSquawk | 76 | 10/01 15:26 | 10/01 21:18 | ⚠ 53分（18:34→19:28） |
+| financialjuice | 105 | 10/01 15:30 | 10/01 21:18 | 44分（18:40→19:25） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 188 行（統合前 194 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 206 行（統合前 213 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 15:00 [financialjuice] UK NATIONWIDE HOUSE PRICE YOY ACTUAL 0.8% (FORECAST -, PREVIOUS 1.6%) $MACRO
-- 10/01 15:00 [financialjuice] UK NATIONWIDE HOUSE PRICE MOM ACTUAL -0.2% (FORECAST -, PREVIOUS 0.2%) $MACRO
-- 10/01 15:00 [FirstSquawk] UK (SEP) NATIONWIDE HOUSE PX MOM ACTUAL: -0.2% VS 0.2% PREVIOUS;EST 0.0%
-- 10/01 15:00 [FirstSquawk] UK (SEP) NATIONWIDE HOUSE PX NSA YOY ACTUAL: 0.8% VS 1.6% PREVIOUS;EST 1.3%
-- 10/01 15:15 [FirstSquawk] Chinese automakers eye 12 million global sales in 2026 amid surging EV demand — SCMP
-- 10/01 15:22 [FirstSquawk] Japan’s major manufacturers’ confidence improves for sixth consecutive quarter, BOJ says
-- 10/01 15:23 [FirstSquawk] Australia’s ASX 200 drops 2% to 8,614.40 at close
 - 10/01 15:26 [FirstSquawk] Kia reports September global sales of 281,984, up 5.4% y/y
 - 10/01 15:27 [FirstSquawk] Iraq prime minister says legislation for Popular Mobilization Forces will proceed
 - 10/01 15:29 [FirstSquawk] HSBC lowers Blackstone price target to $122 from $135
@@ -212,3 +205,28 @@
 - 10/01 20:54 [financialjuice] USTR Greer: Europe should release some diesel inventories
 - 10/01 20:55 [financialjuice] USTR Greer: We will meet with EU counterparts to discuss diesel today
 - 10/01 20:55 [financialjuice] USTR Greer: I have been speaking with Canadians on trade
+- 10/01 20:56 [financialjuice] USTR Greer: We're open to deal with Canada, but it's up to Canada
+- 10/01 20:56 [financialjuice] USTR Greer: Gaps remain between US and Canada on trade.
+- 10/01 21:00 [financialjuice] Secured Overnight Financing Rate 3.90% September 30 vs 3.88% September 29.
+- 10/01 21:00 [financialjuice] France HCFP: Deficit target for 2026 plausible, sees risks.
+- 10/01 21:00 [financialjuice] France HCFP: French deficit goal is minimum given ‘alarming’ finances
+- 10/01 21:00 [financialjuice] France hcFp: 2027 budget plan targets are a ‘significant’ adjustment.
+- 10/01 21:01 [financialjuice] France’s budget watchdog calls 2027 growth forecast optimistic.
+- 10/01 21:04 [financialjuice] BoE's Mann: Risk management strategy apt given inflation risks.
+- 10/01 21:05 [financialjuice] BoE's Mann: Raising rate can ensure sustainable return to 2%.
+- 10/01 21:06 [financialjuice] BoE's Mann: Real and nominal conditions need to remain tight.
+- 10/01 21:06 [financialjuice] BoE's Mann: Can't rely on risk premia to do the work of monetary policy, need to raise the bank rate
+- 10/01 21:06 [financialjuice] BoE's Mann: Current stance is not sufficiently tight.
+- 10/01 21:06 [DeItaone] https://t.co/EDVUWjvAPI
+- 10/01 21:07 [FirstSquawk] FRENCH BUDGET WATCHDOG: 2027 GROWTH FORECAST OPTIMISTIC
+- 10/01 21:07 [FirstSquawk] BOE'S MANN: CAN'T RELY ON RISK PREMIA TO DO THE WORK OF POLICY
+- 10/01 21:08 [financialjuice] BoE's Mann: Need clearly communicated reaction function.
+- 10/01 21:11 [financialjuice] BoE's Mann: BoE may not have clearly articulated its reaction function to Middle East shock in March, not publishing baseline forecast in April likely did not help either.
+- 10/01 21:11 [financialjuice/FirstSquawk] BoE's Mann: Policy, CPI expectations will shift without action.
+- 10/01 21:13 [financialjuice] Netanyahu on FlyDubai Attacks: Too early to say if he had connections with Iran.
+- 10/01 21:14 [FirstSquawk] NETANYAHU: TOO EARLY TO SAY IF HE HAD CONNECTIONS WITH IRAN
+- 10/01 21:16 [FirstSquawk] ISRAEL NETANYAHU: INDICATIONS THAT IRAN, PROXIES WANT TO ATTACK ISRAEL
+- 10/01 21:18 [financialjuice] Israel's Prime Minister Netanyahu: There are indications that Iran and proxies want to attack Israel
+- 10/01 21:18 [FirstSquawk] NETANYAHU: PILOT WHO ATTACKED THE OTHER PILOT WAS OMANI
+- 10/01 21:18 [financialjuice] Israel's Prime Minister Netanyahu: The pilot who attacked the other pilot was Omani
+- 10/01 21:24 [DeItaone] EUROPE HOLDS EMERGENCY TALKS ON DIESEL RESERVES European nations are holding emergency talks over releasing strategic fuel reserves after pressure from Washington to boost supply. The U.S. has already approved another 40 million barrels fro…
