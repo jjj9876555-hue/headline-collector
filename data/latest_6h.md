@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 11:54 JST／対象: 10/01 05:54 〜 10/01 11:54 JST（時刻はすべて日本時間）
+生成: 2026-10-01 12:19 JST／対象: 10/01 06:19 〜 10/01 12:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 4 | 10/01 06:07 | 10/01 06:15 | 5分（06:07→06:13） |
-| FirstSquawk | 104 | 10/01 05:55 | 10/01 11:49 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 126 | 10/01 05:57 | 10/01 11:37 | 36分（07:29→08:05） |
+| DeItaone | 0 | - | - | - |
+| FirstSquawk | 109 | 10/01 06:25 | 10/01 12:06 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 123 | 10/01 06:22 | 10/01 11:57 | 36分（07:29→08:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 231 行（統合前 234 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 229 行（統合前 232 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 05:55 [FirstSquawk] PENTAGON NAMES MUSK AND LUCKEY TO LEAD WAR STUDY - AXIOS
-- 10/01 05:57 [financialjuice] Trump reiterates gasoline prices will drop after the Iran war ends
-- 10/01 05:59 [financialjuice] US and South Korea Launch $22.3 Billion Texas Gas Power Project for AI Data Centers
-- 10/01 06:00 [financialjuice] Trump on FlyDubai incident: I did speak to Netanyahu
-- 10/01 06:07 [DeItaone] *TRUMP: INFLATION NUMBERS ARE WAY DOWN OTHER THAN FOR OIL
-- 10/01 06:08 [financialjuice] Trump on UK base incident: will learn this afternoon why UK freed suspects
-- 10/01 06:13 [DeItaone] *TRUMP ASKED ABOUT POWELL, WARSH: WARSH WILL DO HIS OWN THING
-- 10/01 06:14 [financialjuice] South Korea industry minister: US likely to maintain tariff rate on South Korea at 15% - Yonhap
-- 10/01 06:15 [DeItaone] *TRUMP COMMENTS ON HIS CALL FOR POWELL TO BE FORCED TO RESIGN
-- 10/01 06:15 [DeItaone] SOUTH KOREA INDUSTRY MINISTER SAYS US HAS INDICATED TARIFF RATE ON SOUTH KOREA WOULD BE KEPT AT 15% LEVEL - YONHAP
-- 10/01 06:17 [FirstSquawk] U.S. AND SOUTH KOREA HAVE LAUNCHED A $22.3 BLN TEXAS GAS POWER PROJECT FOR AI DATA CENTERS, WHICH SOUTH KOREA SAYS WILL SUPPLY 6.47 GW OF ELECTRICITY WITH COMMERCIAL OPERATIONS EXPECTED BY 2029, WITH ANNUAL U.S. INVESTMENT CAPPED AT $20 BLN…
-- 10/01 06:17 [FirstSquawk] SEOUL AND WASHINGTON WILL REVIEW THE ALASKA LNG PIPELINE AND EXPORT TERMINAL PROJECT — WHICH WILL PROCEED ONLY IF COMMERCIAL AND LEGAL CONDITIONS ARE MET — WHILE SOUTH KOREA IS SEEKING EQUITY INVESTMENTS BY KOREAN COMPANIES IN WESTINGHOUSE.
-- 10/01 06:18 [FirstSquawk] RIO TINTO SAYS A DEAL WITH THE AUSTRALIAN AND TASMANIAN GOVERNMENTS SECURES ITS BELL BAY ALUMINIUM OPERATIONS THROUGH 2031, WITH HYDRO TASMANIA TO SUPPLY ELECTRICITY THROUGH 31 DECEMBER 2031 AND THE AUSTRALIAN AND TASMANIAN GOVERNMENTS TO P…
 - 10/01 06:22 [financialjuice] OpenAI executive withdraws second $25 million contribution to AI super PAC: NYT
 - 10/01 06:22 [financialjuice] OpenAI's Greg Brockman withdraws from second $25 million donation to a super PAC - NYT
 - 10/01 06:22 [financialjuice] US energy secretary Wright: will make some announcements on diesel
@@ -255,3 +242,14 @@
 - 10/01 11:39 [FirstSquawk] South Korea President Lee: Profits from investment projects to be shared equally until principal and interest are fully recovered
 - 10/01 11:39 [FirstSquawk] South Korea’s Lee: Commercial viability must be assured on a plant-by-plant basis for nuclear projects
 - 10/01 11:49 [FirstSquawk] Card surcharge ban in Australia forces cafes and shops to lift prices
+- 10/01 11:55 [FirstSquawk] South Korea President Lee vows efforts to reduce military tensions with North Korea
+- 10/01 11:57 [financialjuice] Nine killed in two Pakistani airstrikes in Afghanistan: Afghan Taliban spokesperson
+- 10/01 11:57 [financialjuice] India trade minister: discussed with USTR Greer on early wrap-up of interim deal under India-US trade agreement
+- 10/01 11:57 [FirstSquawk] India Trade Minister: Held discussions with USTR Greer to advance interim India-US trade agreement
+- 10/01 11:58 [FirstSquawk] Afghan Taliban: Nine killed in two Pakistani airstrikes in Afghanistan
+- 10/01 12:00 [FirstSquawk] Tencent leases 100,000 Oracle chips to boost AI expansion — FT
+- 10/01 12:00 [FirstSquawk] Tencent secures five-year lease across Oracle data centres in Southeast Asia — FT
+- 10/01 12:01 [FirstSquawk] FT: Tencent-Oracle deal worth about $7bn, with around 30% paid upfront
+- 10/01 12:01 [FirstSquawk] Tencent deal provides access to roughly 100,000 advanced AI chips unavailable in China — FT
+- 10/01 12:03 [FirstSquawk] Australia’s ASX 200 slides 1.8% to 8,634.80, weakest since mid-June
+- 10/01 12:06 [FirstSquawk] European futures lower: EURO STOXX 50 and DAX futures down 0.6%, FTSE futures off 0.5%

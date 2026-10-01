@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-01 11:54 JST／対象: 09/30 23:54 〜 10/01 11:54 JST（時刻はすべて日本時間）
+生成: 2026-10-01 12:19 JST／対象: 10/01 00:19 〜 10/01 12:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 34 | 10/01 00:48 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
-| FirstSquawk | 186 | 09/30 23:58 | 10/01 11:49 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 207 | 09/30 23:57 | 10/01 11:37 | 36分（07:29→08:05） |
+| FirstSquawk | 192 | 10/01 00:20 | 10/01 12:06 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 205 | 10/01 00:25 | 10/01 11:57 | 36分（07:29→08:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 416 行（統合前 429 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 420 行（統合前 433 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 23:57 [financialjuice] Senate Republican Leader Thune: I have yet to receive diesel proposal from White House
-- 09/30 23:58 [FirstSquawk] US SENATE MAJORITY LEADER THUNE: YET TO RECEIVE DIESEL PROPOSAL FROM WHITE HOUSE
-- 10/01 00:01 [financialjuice] US Treasury: Will buy up to $6 bln of 10-20 Year debt in October 1st liquidity buyback
-- 10/01 00:02 [FirstSquawk] US TREASURY TO BUY UP TO $6 BLN OF 10-20 YEAR DEBT IN OCTOBER 1 LIQUIDITY BUYBACK
-- 10/01 00:08 [financialjuice] Senate Republican Leader Thune: Congress may raise debt limit after election
-- 10/01 00:08 [FirstSquawk] SIKORSKY, US ARMY REACH NOVEL PRODUCTION AGREEMENT FOR BLACK HAWK HELICOPTER TO ACCELERATE US AND ALLIED FIELDING - LMT
-- 10/01 00:13 [financialjuice] SNB's Governing Board Member Tschudin: Stablecoins and lower connection to the two-level finance system make the transmission of monetary policy more difficult
 - 10/01 00:20 [FirstSquawk] COREWEAVE CEO: NEW CLOUD PRODUCT FORGE SEEN BOOSTING MARGINS
 - 10/01 00:25 [financialjuice] Pakistan Defense Minister Asif: Pakistan will use all possible means to defend Saudi Arabia against what he calls foreign aggression - IRNA
 - 10/01 00:26 [financialjuice] Pakistan Defense Minister Asif declines to comment on potential Pakistani involvement in Saudi-led attacks on Yemen - IRNA
@@ -440,3 +433,14 @@
 - 10/01 11:39 [FirstSquawk] South Korea President Lee: Profits from investment projects to be shared equally until principal and interest are fully recovered
 - 10/01 11:39 [FirstSquawk] South Korea’s Lee: Commercial viability must be assured on a plant-by-plant basis for nuclear projects
 - 10/01 11:49 [FirstSquawk] Card surcharge ban in Australia forces cafes and shops to lift prices
+- 10/01 11:55 [FirstSquawk] South Korea President Lee vows efforts to reduce military tensions with North Korea
+- 10/01 11:57 [financialjuice] Nine killed in two Pakistani airstrikes in Afghanistan: Afghan Taliban spokesperson
+- 10/01 11:57 [financialjuice] India trade minister: discussed with USTR Greer on early wrap-up of interim deal under India-US trade agreement
+- 10/01 11:57 [FirstSquawk] India Trade Minister: Held discussions with USTR Greer to advance interim India-US trade agreement
+- 10/01 11:58 [FirstSquawk] Afghan Taliban: Nine killed in two Pakistani airstrikes in Afghanistan
+- 10/01 12:00 [FirstSquawk] Tencent leases 100,000 Oracle chips to boost AI expansion — FT
+- 10/01 12:00 [FirstSquawk] Tencent secures five-year lease across Oracle data centres in Southeast Asia — FT
+- 10/01 12:01 [FirstSquawk] FT: Tencent-Oracle deal worth about $7bn, with around 30% paid upfront
+- 10/01 12:01 [FirstSquawk] Tencent deal provides access to roughly 100,000 advanced AI chips unavailable in China — FT
+- 10/01 12:03 [FirstSquawk] Australia’s ASX 200 slides 1.8% to 8,634.80, weakest since mid-June
+- 10/01 12:06 [FirstSquawk] European futures lower: EURO STOXX 50 and DAX futures down 0.6%, FTSE futures off 0.5%
