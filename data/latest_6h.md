@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 17:25 JST／対象: 10/01 11:25 〜 10/01 17:25 JST（時刻はすべて日本時間）
+生成: 2026-10-01 17:49 JST／対象: 10/01 11:49 〜 10/01 17:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 6 | 10/01 16:25 | 10/01 17:24 | 24分（16:50→17:14） |
-| FirstSquawk | 79 | 10/01 11:29 | 10/01 17:22 | 24分（13:35→14:00） |
-| financialjuice | 57 | 10/01 11:37 | 10/01 17:08 | ⚠ 52分（14:07→15:00） |
+| DeItaone | 7 | 10/01 16:25 | 10/01 17:29 | 24分（16:50→17:14） |
+| FirstSquawk | 82 | 10/01 11:49 | 10/01 17:39 | 24分（13:35→14:00） |
+| financialjuice | 58 | 10/01 11:57 | 10/01 17:30 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 142 行（統合前 142 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 147 行（統合前 147 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 11:29 [FirstSquawk] Toyota Motor to invest roughly $1.34bn in Argentina’s electric vehicle production, minister says
-- 10/01 11:37 [financialjuice] South Korea President Lee: Alaska LNG project to start only if commercially viable and compliant with South Korean law
-- 10/01 11:37 [financialjuice] South Korea President Lee: Investment project gains to be split 50-50 until principal and interest fully repaid
-- 10/01 11:39 [FirstSquawk] South Korea’s Lee: Alaska LNG project to start only once commercial viability and legal requirements are confirmed
-- 10/01 11:39 [FirstSquawk] South Korea President Lee: Profits from investment projects to be shared equally until principal and interest are fully recovered
-- 10/01 11:39 [FirstSquawk] South Korea’s Lee: Commercial viability must be assured on a plant-by-plant basis for nuclear projects
 - 10/01 11:49 [FirstSquawk] Card surcharge ban in Australia forces cafes and shops to lift prices
 - 10/01 11:55 [FirstSquawk] South Korea President Lee vows efforts to reduce military tensions with North Korea
 - 10/01 11:57 [financialjuice] Nine killed in two Pakistani airstrikes in Afghanistan: Afghan Taliban spokesperson
@@ -166,3 +160,14 @@
 - 10/01 17:22 [FirstSquawk] BIROL STATES THAT THE DIESEL SITUATION IN EUROPE AND OTHER REGIONS IS QUITE TIGHT.
 - 10/01 17:22 [FirstSquawk] COMMERZBANK CEO ORLOPP INDICATES GREATER DEMAND FOR FINANCING IS EMERGING.
 - 10/01 17:24 [DeItaone] *BIROL SAYS DIESEL SITUATION IS VERY TIGHT IN EUROPE AND BEYOND
+- 10/01 17:28 [FirstSquawk] TAKAICHI: SIGNS OF ECONOMIC CHANGE AT CRITICAL JUNCTURE
+- 10/01 17:28 [financialjuice] Japan's PM Takaichi: Signs of economic change at critical juncture.
+- 10/01 17:29 [DeItaone] CBOE VOLATILITY INDEX HITS OVER TWO-WEEK HIGH; LAST UP 0.5 POINTS AT 16.86
+- 10/01 17:30 [financialjuice] ‼ BREAKING: UK MANUFACTURING PMI FINAL ACTUAL 51.9 (FORECAST 52, PREVIOUS 52.0) $MACRO
+- 10/01 17:30 [financialjuice] Japan's PM Takaichi: Domestic investment vital for higher potential growth.
+- 10/01 17:30 [FirstSquawk] UK MANUFACTURING PMI FINAL COMES IN AT 51.9, BELOW ESTIMATE OF 52 AND LAST MONTH'S 52.0.
+- 10/01 17:31 [FirstSquawk] JAPAN'S PRIME MINISTER TAKAICHI SAYS LOCAL INVESTMENT IS CRUCIAL FOR BOOSTING GROWTH POTENTIAL.
+- 10/01 17:33 [FirstSquawk] TAKAICHI ASKED KIUCHI TO SPECIFY THE INVESTMENT TIMEFRAME AND DETAILS.
+- 10/01 17:33 [FirstSquawk] TAKAICHI WILL NEED MORE TIME TO ENSURE LONG-LASTING REAL WAGE INCREASES.
+- 10/01 17:39 [FirstSquawk] ZELENSKYY ANNOUNCES UKRAINE ATTACKED AN OIL FACILITY IN RUSSIA'S SAMARA REGION.
+- 10/01 17:39 [FirstSquawk] UK GOVERNMENT RENEWS £190M CONTRACT WITH AIRBUS TO ASSIST RAF FLEET.

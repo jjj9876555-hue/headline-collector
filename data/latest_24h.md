@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-01 17:25 JST／対象: 09/30 17:25 〜 10/01 17:25 JST（時刻はすべて日本時間）
+生成: 2026-10-01 17:49 JST／対象: 09/30 17:49 〜 10/01 17:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 81 | 09/30 18:55 | 10/01 17:24 | ⚠ 610分（06:15→16:25） |
-| FirstSquawk | 346 | 09/30 17:30 | 10/01 17:22 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 352 | 09/30 18:01 | 10/01 17:08 | ⚠ 52分（14:07→15:00） |
+| DeItaone | 82 | 09/30 18:55 | 10/01 17:29 | ⚠ 610分（06:15→16:25） |
+| FirstSquawk | 351 | 09/30 18:02 | 10/01 17:39 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 355 | 09/30 18:01 | 10/01 17:30 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 760 行（統合前 781 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 769 行（統合前 790 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 17:30 [FirstSquawk] IRAN'S ARAGHCHI DISCUSSED A U.S. PROPOSAL WITH THE IRANIAN PRESIDENT, ACCORDING TO IRNA.
-- 09/30 17:30 [FirstSquawk] IRAN'S OFFICIAL AGENCY IRNA REPORTS GOVERNMENT SPOKESWOMAN DISCUSSING US PROPOSAL.
 - 09/30 18:01 [financialjuice] Top house judiciary committee Democrat Raskin seeks information on data center NDAs - According to Letters Reviewed by WSJ
 - 09/30 18:01 [financialjuice] ITALIAN CPI MOM PRELIM ACTUAL 0.7% (FORECAST 0.3%, PREVIOUS 0.5%) $MACRO
 - 09/30 18:01 [financialjuice] ITALIAN HICP PRELIM MOM ACTUAL 2.0% (FORECAST 1.7%, PREVIOUS 0.1%) $MACRO
@@ -784,3 +782,14 @@
 - 10/01 17:22 [FirstSquawk] BIROL STATES THAT THE DIESEL SITUATION IN EUROPE AND OTHER REGIONS IS QUITE TIGHT.
 - 10/01 17:22 [FirstSquawk] COMMERZBANK CEO ORLOPP INDICATES GREATER DEMAND FOR FINANCING IS EMERGING.
 - 10/01 17:24 [DeItaone] *BIROL SAYS DIESEL SITUATION IS VERY TIGHT IN EUROPE AND BEYOND
+- 10/01 17:28 [FirstSquawk] TAKAICHI: SIGNS OF ECONOMIC CHANGE AT CRITICAL JUNCTURE
+- 10/01 17:28 [financialjuice] Japan's PM Takaichi: Signs of economic change at critical juncture.
+- 10/01 17:29 [DeItaone] CBOE VOLATILITY INDEX HITS OVER TWO-WEEK HIGH; LAST UP 0.5 POINTS AT 16.86
+- 10/01 17:30 [financialjuice] ‼ BREAKING: UK MANUFACTURING PMI FINAL ACTUAL 51.9 (FORECAST 52, PREVIOUS 52.0) $MACRO
+- 10/01 17:30 [financialjuice] Japan's PM Takaichi: Domestic investment vital for higher potential growth.
+- 10/01 17:30 [FirstSquawk] UK MANUFACTURING PMI FINAL COMES IN AT 51.9, BELOW ESTIMATE OF 52 AND LAST MONTH'S 52.0.
+- 10/01 17:31 [FirstSquawk] JAPAN'S PRIME MINISTER TAKAICHI SAYS LOCAL INVESTMENT IS CRUCIAL FOR BOOSTING GROWTH POTENTIAL.
+- 10/01 17:33 [FirstSquawk] TAKAICHI ASKED KIUCHI TO SPECIFY THE INVESTMENT TIMEFRAME AND DETAILS.
+- 10/01 17:33 [FirstSquawk] TAKAICHI WILL NEED MORE TIME TO ENSURE LONG-LASTING REAL WAGE INCREASES.
+- 10/01 17:39 [FirstSquawk] ZELENSKYY ANNOUNCES UKRAINE ATTACKED AN OIL FACILITY IN RUSSIA'S SAMARA REGION.
+- 10/01 17:39 [FirstSquawk] UK GOVERNMENT RENEWS £190M CONTRACT WITH AIRBUS TO ASSIST RAF FLEET.
