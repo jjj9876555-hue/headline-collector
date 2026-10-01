@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-01 13:19 JST／対象: 10/01 01:19 〜 10/01 13:19 JST（時刻はすべて日本時間）
+生成: 2026-10-01 13:38 JST／対象: 10/01 01:38 〜 10/01 13:38 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 31 | 10/01 02:11 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
-| FirstSquawk | 193 | 10/01 01:25 | 10/01 13:07 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 196 | 10/01 01:37 | 10/01 13:03 | 36分（07:29→08:05） |
+| FirstSquawk | 194 | 10/01 01:45 | 10/01 13:35 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 209 | 10/01 01:43 | 10/01 13:37 | 36分（07:29→08:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 409 行（統合前 422 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 423 行（統合前 436 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 01:25 [FirstSquawk] ITALY PM MELONI: PLANS TO SPEND EUR14 BLN STEMMING FROM EU ESCAPE CLAUSE TO LOWER FIRMS’ ENERGY COSTS
-- 10/01 01:28 [FirstSquawk] FORD SHARES FALL 2.6% TO REACH LOWEST SINCE MAY 13
-- 10/01 01:32 [FirstSquawk] US 10-YEAR TREASURY YIELD RISES TO 5.29%, RENEWS HIGH SINCE '2007
-- 10/01 01:37 [financialjuice] Call is scheduled to take place between Trump and Netanyahu in the coming hours regarding the FlyDubai incident - Israeli Channel 14
 - 10/01 01:43 [financialjuice] US oil industry warns diesel prices will not return to normal for a year - FT
 - 10/01 01:45 [FirstSquawk] GOLDMAN SACHS REVISES FOR FED HIKE TO DECEMBER FROM OCTOBER
 - 10/01 01:45 [financialjuice] Goldman Sachs shifts fed forecast to December hike from October
@@ -433,3 +429,21 @@
 - 10/01 13:06 [FirstSquawk] Big Tech outspends European companies on lobbying in Brussels — FT
 - 10/01 13:07 [FirstSquawk] PwC withholds sign-off on Nidec accounts despite $4 billion charge — FT
 - 10/01 13:07 [FirstSquawk] EU presses Binance on continued operations despite wind-down directive — FT
+- 10/01 13:24 [FirstSquawk] Dollar advances to 101.62, highest level in two months
+- 10/01 13:31 [financialjuice] S. Korea president Lee appoints Ha Joon-Kyung as new policy adviser for economic growth - Blue House
+- 10/01 13:31 [financialjuice] India monthly econ report: India's economic outlook faces upside inflation risks from mounting climate, geopolitical and monetary pressures
+- 10/01 13:32 [financialjuice] India monthly economic report: geopolitical strains, high crude oil costs may increase imported inflation pressures
+- 10/01 13:32 [financialjuice] India monthly economic report: festive demand, rising input costs may increase short-term price pressure
+- 10/01 13:32 [financialjuice] Filed lawsuit challenging Trump administration's unlawful attempt to withhold congressionally appropriated federal funding
+- 10/01 13:33 [financialjuice] India monthly econ report: cenbank's open market operations may support balanced financial conditions, limit excessive demand-side overheating
+- 10/01 13:33 [financialjuice] India monthly econ report: proactive government supply-side and market measures may help contain upside risks, cushion temporary price pressure effects
+- 10/01 13:33 [financialjuice] India monthly econ report: external sector stays resilient on robust services exports, remittances, forex reserves and capital inflows
+- 10/01 13:34 [financialjuice] India monthly economic report: domestic economy maintains strength amid tough global conditions
+- 10/01 13:34 [FirstSquawk] China is Apple’s key battleground in the foldable phone market — WSJ
+- 10/01 13:34 [FirstSquawk] Euro could weaken further against dollar, chart indicates — WSJ
+- 10/01 13:35 [financialjuice] India monthly econ report: for now, investor interest in India is cautious but not low
+- 10/01 13:35 [financialjuice] India monthly econ report: concerns over trade ties with US, tariff challenges, crude oil supply issues weigh on India's appeal as investment destination
+- 10/01 13:35 [FirstSquawk] South Korea exports exceed $120 billion in September, boosted by AI boom — WSJ
+- 10/01 13:36 [financialjuice] India monthly economic report: trade ties with US remain unsettled after passage and presidential assent of Graham bill
+- 10/01 13:37 [financialjuice] India monthly economic report: expansion momentum persists amid increased global uncertainty
+- 10/01 13:37 [financialjuice] India monthly economic report: net foreign direct investment inflows projected to rise this financial year from last year

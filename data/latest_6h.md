@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 13:19 JST／対象: 10/01 07:19 〜 10/01 13:19 JST（時刻はすべて日本時間）
+生成: 2026-10-01 13:38 JST／対象: 10/01 07:38 〜 10/01 13:38 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 112 | 10/01 07:49 | 10/01 13:07 | ⚠ 54分（07:50→08:44） |
-| financialjuice | 93 | 10/01 07:28 | 10/01 13:03 | 36分（07:29→08:05） |
+| FirstSquawk | 116 | 10/01 07:49 | 10/01 13:35 | ⚠ 54分（07:50→08:44） |
+| financialjuice | 102 | 10/01 08:05 | 10/01 13:37 | 30分（11:57→12:27） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 204 行（統合前 205 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 217 行（統合前 218 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 07:28 [financialjuice] Fed's Kashkari: central bank balance sheet works best in near-zero rate environment
-- 10/01 07:29 [financialjuice] Fed balance sheet is most effective in near-zero rate environment
-- 10/01 07:29 [financialjuice] Not surprised Fed IG didn’t uncover any wrongdoing in Fed renovation project
-- 10/01 07:29 [financialjuice] Fed's Kashkari: size of central bank balance sheet is a complex issue
-- 10/01 07:29 [financialjuice] Rolling supply shocks risk boosting inflation expectations
 - 10/01 07:49 [FirstSquawk] BOEING: JAPAN AIRLINES RENEWS INTEGRATED MATERIALS MANAGEMENT SERVICES AGREEMENT
 - 10/01 07:49 [FirstSquawk] FED'S KASHKARI SAYS THE ECONOMY REMAINS ROBUST DESPITE SHOCKS, WITH CONSUMERS CONTINUING TO SPEND AND JOB SEEKERS FINDING EMPLOYMENT, AND EXPECTS ONE MORE RATE INCREASE THIS YEAR AND ANOTHER IN 2027, ADDING THAT 'THE LONGER THE ECONOMY REMA…
 - 10/01 07:49 [FirstSquawk] FED'S KASHKARI SAYS THE CENTRAL BANK MUST RETURN INFLATION TO 2% GIVEN THE EXTENDED PERIOD ABOVE TARGET AND HOPES IT CAN DO SO WITH RESTRAINED MEASURES, WHILE WARNING THAT ROLLING SUPPLY SHOCKS MAY BOOST INFLATION EXPECTATIONS AND DOUBTING …
@@ -228,3 +223,21 @@
 - 10/01 13:06 [FirstSquawk] Big Tech outspends European companies on lobbying in Brussels — FT
 - 10/01 13:07 [FirstSquawk] PwC withholds sign-off on Nidec accounts despite $4 billion charge — FT
 - 10/01 13:07 [FirstSquawk] EU presses Binance on continued operations despite wind-down directive — FT
+- 10/01 13:24 [FirstSquawk] Dollar advances to 101.62, highest level in two months
+- 10/01 13:31 [financialjuice] S. Korea president Lee appoints Ha Joon-Kyung as new policy adviser for economic growth - Blue House
+- 10/01 13:31 [financialjuice] India monthly econ report: India's economic outlook faces upside inflation risks from mounting climate, geopolitical and monetary pressures
+- 10/01 13:32 [financialjuice] India monthly economic report: geopolitical strains, high crude oil costs may increase imported inflation pressures
+- 10/01 13:32 [financialjuice] India monthly economic report: festive demand, rising input costs may increase short-term price pressure
+- 10/01 13:32 [financialjuice] Filed lawsuit challenging Trump administration's unlawful attempt to withhold congressionally appropriated federal funding
+- 10/01 13:33 [financialjuice] India monthly econ report: cenbank's open market operations may support balanced financial conditions, limit excessive demand-side overheating
+- 10/01 13:33 [financialjuice] India monthly econ report: proactive government supply-side and market measures may help contain upside risks, cushion temporary price pressure effects
+- 10/01 13:33 [financialjuice] India monthly econ report: external sector stays resilient on robust services exports, remittances, forex reserves and capital inflows
+- 10/01 13:34 [financialjuice] India monthly economic report: domestic economy maintains strength amid tough global conditions
+- 10/01 13:34 [FirstSquawk] China is Apple’s key battleground in the foldable phone market — WSJ
+- 10/01 13:34 [FirstSquawk] Euro could weaken further against dollar, chart indicates — WSJ
+- 10/01 13:35 [financialjuice] India monthly econ report: for now, investor interest in India is cautious but not low
+- 10/01 13:35 [financialjuice] India monthly econ report: concerns over trade ties with US, tariff challenges, crude oil supply issues weigh on India's appeal as investment destination
+- 10/01 13:35 [FirstSquawk] South Korea exports exceed $120 billion in September, boosted by AI boom — WSJ
+- 10/01 13:36 [financialjuice] India monthly economic report: trade ties with US remain unsettled after passage and presidential assent of Graham bill
+- 10/01 13:37 [financialjuice] India monthly economic report: expansion momentum persists amid increased global uncertainty
+- 10/01 13:37 [financialjuice] India monthly economic report: net foreign direct investment inflows projected to rise this financial year from last year
