@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-02 07:16 JST／対象: 10/02 01:16 〜 10/02 07:16 JST（時刻はすべて日本時間）
+生成: 2026-10-02 07:34 JST／対象: 10/02 01:34 〜 10/02 07:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 43 | 10/02 01:18 | 10/02 05:19 | ⚠ 96分（03:42→05:19） |
-| FirstSquawk | 87 | 10/02 01:16 | 10/02 06:24 | 39分（01:52→02:31） |
-| financialjuice | 140 | 10/02 01:18 | 10/02 06:41 | 42分（05:19→06:01） |
+| DeItaone | 37 | 10/02 01:34 | 10/02 05:19 | ⚠ 96分（03:42→05:19） |
+| FirstSquawk | 83 | 10/02 01:35 | 10/02 06:24 | 39分（01:52→02:31） |
+| financialjuice | 130 | 10/02 01:34 | 10/02 06:41 | 42分（05:19→06:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 250 行（統合前 272 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 233 行（統合前 252 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 01:16 [FirstSquawk] PUTIN: WE ARE NOT THREATENING ANYONE AND WE DO NOT PLAN TO ATTACK ANY EUROPEAN COUNTRIES, NOT IN 2030, NOT IN 2050
-- 10/02 01:18 [DeItaone] PUTIN: WESTERN INTELLIGENCE ASSISTANCE TO UKRAINE TO STRIKE DEEP INTO RUSSIA REPRESENTS A THREAT FOR THE FUTURE
-- 10/02 01:18 [financialjuice] Saudi-led coalition: Yemen's Houthis targeted power distribution station in Medina on September 29th.
-- 10/02 01:18 [DeItaone] EU TRADE CHIEF SEFCOVIC SAYS HE DISCUSSED HIGH DIESEL PRICES WITH USTR GREER, EXPRESSED EUROPE'S DESIRE FOR COORDINATED APPROACH
-- 10/02 01:19 [financialjuice] EU Trade Chief Sefcovic: Discussed high diesel prices with USTR Greer, expressed Europe's desire for a coordinated approach
-- 10/02 01:19 [financialjuice] Saudi-led coalition: Houthi attack put one transformer at power distribution station in Medina out of service but did not affect power network.
-- 10/02 01:19 [financialjuice] Putin: We are not going to attack tomorrow enterprises in countries which supply weapons to Ukraine, but that's a threat.
-- 10/02 01:20 [DeItaone] VENEZUELA OIL EXPORTS FALL, U.S. SHIPMENTS RISE Venezuela’s oil exports fell to 1.08 million bpd in September, while shipments to the U.S. increased to 629,000 bpd. Exports to India fell to 253,000 bpd and Europe to 86,000 bpd. Chevron’s Ve…
-- 10/02 01:20 [financialjuice] Putin: When someone wants to fight with Russia using Ukraine as a proxy that is a threat.
-- 10/02 01:21 [DeItaone] OPENAI PARTS WAYS WITH THREE SAFETY RESEARCHERS OpenAI has parted ways with three safety researchers for allegedly sharing confidential company information with a third-party AI-safety organization, according to the WSJ. OpenAI said an inte…
-- 10/02 01:24 [FirstSquawk] VENEZUELA'S EXPORTS TO US INCREASED TO 629K BPD IN SEPTEMBER
-- 10/02 01:27 [financialjuice] Putin: Ukraine partially achieved its aims in hitting Russian oil refineries, Russia responded in kind.
-- 10/02 01:29 [FirstSquawk/financialjuice] PUTIN: RUSSIA HAS ENOUGH DIESEL DESPITE STRIKES
-- 10/02 01:29 [DeItaone/FirstSquawk/financialjuice] PUTIN: RUSSIAN DIESEL WILL NOT GET TO GLOBAL MARKETS AS THERE ARE SANCTIONS AGAINST RUSSIAN OIL
-- 10/02 01:32 [DeItaone] PUTIN: SAYS "NO" TO PROPOSALS TO HALT STRIKES IN BLACK SEA
-- 10/02 01:32 [financialjuice] Google launches Guided Vision in Gemini Live for Android. $GOOGL
-- 10/02 01:33 [financialjuice] Putin to proposals to halt strikes in Black Sea: No.
 - 10/02 01:34 [DeItaone/financialjuice] PUTIN: RUSSIA'S PROPOSALS TO DELIVER ENRICHED URANIUM FROM IRAN TO RUSSIA ARE STILL VALID
 - 10/02 01:34 [financialjuice] ❗ UK Counter terrorism policing: Arrested a dual UK-Iranian national today in the investigation into activity that took place close to fairford air base on Sunday.
 - 10/02 01:35 [FirstSquawk] PUTIN: I HOPE THAT STRAIT OF HORMUZ WILL BE OPEN FOR SHIPPING, SANCTIONS FROM IRAN WILL BE LIFTED

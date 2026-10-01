@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-02 07:16 JST／対象: 10/01 19:16 〜 10/02 07:16 JST（時刻はすべて日本時間）
+生成: 2026-10-02 07:34 JST／対象: 10/01 19:34 〜 10/02 07:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 77 | 10/01 19:27 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 173 | 10/01 19:28 | 10/02 06:24 | 39分（01:52→02:31） |
-| financialjuice | 278 | 10/01 19:25 | 10/02 06:41 | 42分（05:19→06:01） |
+| DeItaone | 75 | 10/01 20:06 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
+| FirstSquawk | 168 | 10/01 19:39 | 10/02 06:24 | 39分（01:52→02:31） |
+| financialjuice | 270 | 10/01 20:02 | 10/02 06:41 | 42分（05:19→06:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 492 行（統合前 534 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 477 行（統合前 519 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 19:25 [financialjuice] EU: In 'high level contact’ with the US on emergency diesel stocks
-- 10/01 19:25 [financialjuice] The US slowed export licensing for plane parts to China - Sources
-- 10/01 19:25 [financialjuice] French warship, part of the EU Red Sea mission, escorted about ten ships through the Bab el-Mandeb Strait over last week - French army spokesperson
-- 10/01 19:25 [financialjuice] Traders pare ECB rate bets, favor three hikes by end of 2027
-- 10/01 19:26 [financialjuice] EU: Next meeting of the oil coordination group on October 15th
-- 10/01 19:27 [financialjuice] French budget minister Amiel: We cannot wait until next year's election to take action on the budget
-- 10/01 19:27 [DeItaone] HSBC: INVESTORS ROTATING OUT OF FRANCE INTO UK HSBC says European equity funds are shifting capital from France toward the UK, as concerns over France’s fiscal outlook intensify. The bank recently cut France to Underweight, citing worsening…
-- 10/01 19:28 [FirstSquawk] FRENCH FINANCE MINISTER LESCURE OUTLINES 2027 BUDGET, CONFIRMING FRANCE'S STRONG CREDITWORTHINESS.
-- 10/01 19:28 [FirstSquawk] FRENCH FINANCE MINISTER LESCURE PREDICTS BUDGET CONSOLIDATION BY 2027.
-- 10/01 19:28 [FirstSquawk] FRENCH FINANCE MINISTER LESCURE STATES THAT THE GOAL OF LOWERING THE BUDGET DEFICIT TO 3% OF GDP BY 2029 IS STILL ACHIEVABLE.
-- 10/01 19:28 [FirstSquawk] FRENCH FINANCE MINISTER LESCURE ANNOUNCED A BUDGET WITH 43 BILLION EUROS IN NEW MEASURES, AMOUNTING TO 54 BILLION EUROS WHEN INCLUDING PREVIOUS MEASURES.
-- 10/01 19:28 [FirstSquawk] FRENCH BUDGET MINISTER AMIEL STATED ACTION ON THE BUDGET IS NECESSARY BEFORE NEXT YEAR'S ELECTION.
-- 10/01 19:29 [financialjuice] Israel requested an urgent increase in Etihad flights to Tel Aviv
-- 10/01 19:33 [DeItaone] EU COORDINATES POSSIBLE ENERGY RESERVE RELEASE WITH U.S. The European Commission says it is in high-level talks with the U.S. administration over the global oil market and potential emergency stock releases. Brussels is coordinating EU memb…
-- 10/01 19:33 [financialjuice] France Fin. Min. Lescure: French 2027 budget sees €54B effort; 5% deficit goal 60% of French 2027 budget effort to be on spending
 - 10/01 19:39 [FirstSquawk] MCCORMICK & CO Q3 2026 EARNINGS: ADJ EPS 86C (EST 76C) || NET SALES 2.02B (EST $1.98B) || ORGANIC VOLUME GROWTH -0.3% (EST -0.14%) || STILL SEES FY ADJ EPS $3.05 TO $3.13(EST $3.08) || REAFFIRMS FY NET SALES GROWTH OUTLOOK
 - 10/01 19:43 [FirstSquawk] ACCENTURE Q4 REVENUE USD 18,700 MILLION VS ESTIMATE USD 18,032 MILLION || OUTLOOK FY REVENUE GROWTH 3-6% || Q4 EPS USD 3.29
 - 10/01 19:43 [FirstSquawk] ACCENTURE Q4 NEW BOOKINGS USD 22,200 MILLION
