@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-01 17:02 JST／対象: 09/30 17:02 〜 10/01 17:02 JST（時刻はすべて日本時間）
+生成: 2026-10-01 17:25 JST／対象: 09/30 17:25 〜 10/01 17:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 78 | 09/30 18:55 | 10/01 16:50 | ⚠ 610分（06:15→16:25） |
-| FirstSquawk | 348 | 09/30 17:03 | 10/01 16:59 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 352 | 09/30 17:08 | 10/01 17:01 | ⚠ 52分（14:07→15:00） |
+| DeItaone | 81 | 09/30 18:55 | 10/01 17:24 | ⚠ 610分（06:15→16:25） |
+| FirstSquawk | 346 | 09/30 17:30 | 10/01 17:22 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 352 | 09/30 18:01 | 10/01 17:08 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 759 行（統合前 780 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 760 行（統合前 781 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 17:03 [FirstSquawk] GERMANY TELLS ENERGY FIRM SEFE TO STORE GAS SUPPLY.
-- 09/30 17:07 [FirstSquawk] UAE ENERGY MINISTER MAZROUEI STATES SUPPORT FOR OPEC+ GROUP.
-- 09/30 17:07 [FirstSquawk] UAE PLANS TO CONTINUE COORDINATION WITH PARTNERS AND CONSUMERS, SAYS MINISTER.
-- 09/30 17:07 [FirstSquawk] UAE MINISTER STATES THAT THERE IS A RISE IN DEMAND FOR EXTRA OIL PRODUCTION.
-- 09/30 17:08 [financialjuice] German Economy Ministry Spokesperson: Economy minister decided to instruct SEFE to increase natural gas storage due to ongoing geopolitical risks.
-- 09/30 17:10 [financialjuice] German Economy Ministry Spokesperson: Government will establish strategic gas reserve from 2027.
-- 09/30 17:14 [FirstSquawk] IRAN'S FOREIGN MINISTER ARAQCHI INFORMED IRANIAN CABINET OF RECEIVING U.S. PROPOSAL, GOVERNMENT SPOKESPERSON SAYS - X POST
 - 09/30 17:30 [FirstSquawk] IRAN'S ARAGHCHI DISCUSSED A U.S. PROPOSAL WITH THE IRANIAN PRESIDENT, ACCORDING TO IRNA.
 - 09/30 17:30 [FirstSquawk] IRAN'S OFFICIAL AGENCY IRNA REPORTS GOVERNMENT SPOKESWOMAN DISCUSSING US PROPOSAL.
 - 09/30 18:01 [financialjuice] Top house judiciary committee Democrat Raskin seeks information on data center NDAs - According to Letters Reviewed by WSJ
@@ -783,3 +776,11 @@
 - 10/01 16:59 [FirstSquawk] YIELD ON 30-YEAR US TREASURY BONDS RISES 3.3 BPS TO 5.672%.
 - 10/01 17:00 [financialjuice] ❗ EUROZONE MANUFACTURING PMI FINAL ACTUAL 52.9 (FORECAST 52.7, PREVIOUS 52.7) $MACRO
 - 10/01 17:01 [financialjuice] ITALIAN UNEMPLOYMENT RATE ACTUAL 6.2% (FORECAST 5.75%, PREVIOUS 5.8% ,REVISION 6.0%) $MACRO
+- 10/01 17:03 [financialjuice] Barclays broadens strategic partnership with Anthropic for global AI integration
+- 10/01 17:08 [financialjuice] French PM aims for 43 billion euros in fresh budget savings - BFM TV
+- 10/01 17:14 [DeItaone] 🇫🇷 FRENCH 5-YEAR CDS HIT 71.6 BPS, HIGHEST SINCE JULY 2013, AS BONDS SELL OFF
+- 10/01 17:17 [FirstSquawk] FTSE 100 INDEX DROPS 2% TO 10,393.83.
+- 10/01 17:19 [DeItaone] ITALY'S 10-YEAR GOVERNMENT BOND YIELDS REACH HIGHEST SINCE NOVEMBER 2023 AT 4.7232%, UP 10 BPS
+- 10/01 17:22 [FirstSquawk] BIROL STATES THAT THE DIESEL SITUATION IN EUROPE AND OTHER REGIONS IS QUITE TIGHT.
+- 10/01 17:22 [FirstSquawk] COMMERZBANK CEO ORLOPP INDICATES GREATER DEMAND FOR FINANCING IS EMERGING.
+- 10/01 17:24 [DeItaone] *BIROL SAYS DIESEL SITUATION IS VERY TIGHT IN EUROPE AND BEYOND

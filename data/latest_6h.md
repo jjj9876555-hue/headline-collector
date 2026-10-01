@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 17:02 JST／対象: 10/01 11:02 〜 10/01 17:02 JST（時刻はすべて日本時間）
+生成: 2026-10-01 17:25 JST／対象: 10/01 11:25 〜 10/01 17:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 3 | 10/01 16:25 | 10/01 16:50 | 22分（16:25→16:48） |
-| FirstSquawk | 81 | 10/01 11:03 | 10/01 16:59 | 24分（13:35→14:00） |
-| financialjuice | 59 | 10/01 11:08 | 10/01 17:01 | ⚠ 52分（14:07→15:00） |
+| DeItaone | 6 | 10/01 16:25 | 10/01 17:24 | 24分（16:50→17:14） |
+| FirstSquawk | 79 | 10/01 11:29 | 10/01 17:22 | 24分（13:35→14:00） |
+| financialjuice | 57 | 10/01 11:37 | 10/01 17:08 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 143 行（統合前 143 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 142 行（統合前 142 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 11:03 [FirstSquawk] Trump says Seoul plans $200bn investment in US energy projects - FT
-- 10/01 11:08 [financialjuice] Dollar/yen rises 0.5% to 158.19
-- 10/01 11:08 [FirstSquawk] USD/JPY advances 0.5% to 158.19
-- 10/01 11:09 [financialjuice] New Zealand dollar dips to $0.5618, lowest since November 2025
-- 10/01 11:09 [FirstSquawk] NZ dollar declines to $0.5618, reaches lowest level since November 2025
-- 10/01 11:14 [financialjuice] Canadian dollar drops to three-month low at C$1.4246
-- 10/01 11:14 [FirstSquawk] Canadian dollar slides to three-month low at C$1.4246
-- 10/01 11:22 [FirstSquawk] Afghan official: Four killed, six injured in Pakistani air strike on Afghanistan
-- 10/01 11:22 [financialjuice] Four killed, six wounded in Pakistani air strike on Afghanistan: Afghan provincial official
 - 10/01 11:29 [FirstSquawk] Toyota Motor to invest roughly $1.34bn in Argentina’s electric vehicle production, minister says
 - 10/01 11:37 [financialjuice] South Korea President Lee: Alaska LNG project to start only if commercially viable and compliant with South Korean law
 - 10/01 11:37 [financialjuice] South Korea President Lee: Investment project gains to be split 50-50 until principal and interest fully repaid
@@ -167,3 +158,11 @@
 - 10/01 16:59 [FirstSquawk] YIELD ON 30-YEAR US TREASURY BONDS RISES 3.3 BPS TO 5.672%.
 - 10/01 17:00 [financialjuice] ❗ EUROZONE MANUFACTURING PMI FINAL ACTUAL 52.9 (FORECAST 52.7, PREVIOUS 52.7) $MACRO
 - 10/01 17:01 [financialjuice] ITALIAN UNEMPLOYMENT RATE ACTUAL 6.2% (FORECAST 5.75%, PREVIOUS 5.8% ,REVISION 6.0%) $MACRO
+- 10/01 17:03 [financialjuice] Barclays broadens strategic partnership with Anthropic for global AI integration
+- 10/01 17:08 [financialjuice] French PM aims for 43 billion euros in fresh budget savings - BFM TV
+- 10/01 17:14 [DeItaone] 🇫🇷 FRENCH 5-YEAR CDS HIT 71.6 BPS, HIGHEST SINCE JULY 2013, AS BONDS SELL OFF
+- 10/01 17:17 [FirstSquawk] FTSE 100 INDEX DROPS 2% TO 10,393.83.
+- 10/01 17:19 [DeItaone] ITALY'S 10-YEAR GOVERNMENT BOND YIELDS REACH HIGHEST SINCE NOVEMBER 2023 AT 4.7232%, UP 10 BPS
+- 10/01 17:22 [FirstSquawk] BIROL STATES THAT THE DIESEL SITUATION IN EUROPE AND OTHER REGIONS IS QUITE TIGHT.
+- 10/01 17:22 [FirstSquawk] COMMERZBANK CEO ORLOPP INDICATES GREATER DEMAND FOR FINANCING IS EMERGING.
+- 10/01 17:24 [DeItaone] *BIROL SAYS DIESEL SITUATION IS VERY TIGHT IN EUROPE AND BEYOND
