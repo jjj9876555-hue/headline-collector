@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-02 05:29 JST／対象: 10/01 05:29 〜 10/02 05:29 JST（時刻はすべて日本時間）
+生成: 2026-10-02 05:47 JST／対象: 10/01 05:47 〜 10/02 05:47 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 100 | 10/01 05:45 | 10/02 05:19 | ⚠ 610分（06:15→16:25） |
-| FirstSquawk | 370 | 10/01 05:33 | 10/02 05:17 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 480 | 10/01 05:34 | 10/02 05:19 | ⚠ 52分（14:07→15:00） |
+| DeItaone | 98 | 10/01 05:52 | 10/02 05:19 | ⚠ 610分（06:15→16:25） |
+| FirstSquawk | 367 | 10/01 05:50 | 10/02 05:43 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 477 | 10/01 05:57 | 10/02 05:19 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 910 行（統合前 956 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 903 行（統合前 948 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 05:33 [FirstSquawk] MADISON SQUARE GARDEN SPORTS CORP'S BOARD HAS APPROVED THE SPIN-OFF OF THE RANGERS BUSINESS FROM THE KNICKS BUSINESS, EXPECTED TO BE COMPLETED ON OCTOBER 26, 2026, WITH MSG SPORTS TO BE RENAMED MSG KNICKERBOCKERS CORP. INCLUDING THE KNICKS …
-- 10/01 05:33 [FirstSquawk] MADISON SQUARE GARDEN SPORTS CORP SAYS MSG SPORTS STOCKHOLDERS WILL RECEIVE ONE MSG RANGERS SHARE FOR EVERY TWO MSG SPORTS SHARES, WITH THE COMMON STOCK TO TRADE AS MSGS AND MSGK WI ON THE NYSE, AND THE SPIN-OFF INTENDED TO QUALIFY AS A TAX…
-- 10/01 05:34 [financialjuice/FirstSquawk] Trump: South Korea 'paid' to reduce US tariffs on its goods.
-- 10/01 05:36 [financialjuice] Trump touts nuclear energy as safe
-- 10/01 05:43 [financialjuice] US Commerce Secretary Lutnick: Southeast Asia to lean on US for gas due to the pipeline.
-- 10/01 05:45 [DeItaone] CBS NEWS PARTNERS WITH KALSHI CBS News is partnering with Kalshi to integrate prediction-market data into its 2026 midterm coverage. CBS joins CNN, Fox News and NBC News in highlighting prediction markets as part of their coverage
-- 10/01 05:45 [FirstSquawk] THE FEDERAL RESERVE INSPECTOR GENERAL FOUND NO CRIMINAL OR ADMINISTRATIVE MISCONDUCT IN THE CENTRAL BANK’S ROUGHLY $2.4 BILLION HEADQUARTERS RENOVATION, CLEARING FORMER CHAIR JEROME POWELL OF WRONGDOING.
-- 10/01 05:45 [FirstSquawk] THE REPORT FOUND MAJOR PROJECT-MANAGEMENT FAILURES, INCLUDING NO GUARANTEED MAXIMUM PRICE AND LATE COST ESTIMATES, CONTRIBUTING TO ABOUT $1 BILLION IN OVERRUNS; THE FED PLANS TIGHTER BUDGET AND SCHEDULE CONTROLS.
-- 10/01 05:46 [DeItaone] U.S. 10-YEAR SUFFERS WORST QUARTER SINCE 1994 The 10-year Treasury yield ended Q3 at 5.29%, surging 87 basis points — its largest quarterly increase in more than three decades. The move has been driven largely by real yields approaching 3%,…
 - 10/01 05:50 [FirstSquawk] CMS SAYS IT HAS FINALIZED THE GLOBE MODEL TO DELIVER LOWER DRUG PRICES FOR BENEFICIARIES IN ORIGINAL MEDICARE PART B, WITH THE MODEL OPERATING FOR FIVE YEARS BEGINNING JANUARY 1, 2027 AND ENDING MARCH 31, 2032, THOUGH IT EXCLUDES BIOSIMILAR…
 - 10/01 05:50 [FirstSquawk] CMS SAYS SELECTED BENEFICIARIES IMPACTED BY THE GLOBE MODEL MAY BEGIN TO SEE REDUCED OUT-OF-POCKET COSTS FROM APRIL 1, 2027.
 - 10/01 05:52 [DeItaone] MUSK RETURNS TO PENTAGON ROLE FOR FUTURE WARFARE STUDY Elon Musk, Palmer Luckey and Newt Gingrich will lead “Project Meridian,” a Pentagon study examining the future of warfare, Defense Secretary Pete Hegseth announced. The group will focus…
@@ -934,3 +925,5 @@
 - 10/02 05:18 [financialjuice] Trump: Iran will be ending soon, one way or the other.
 - 10/02 05:19 [financialjuice] Trump, asked about Iran's involvement in the UK base: Looks like it.
 - 10/02 05:19 [DeItaone] TRUMP: MAY ASK EUROPEAN COUNTRIES TO RELEASE DIESEL STOCKS
+- 10/02 05:43 [FirstSquawk] ONSEMI IS TO BUY SYNAPTICS FOR $123 PER SHARE IN CASH UNDER A REVISED MERGER AGREEMENT, VALUING THE DEAL AT $5.70 BLN, SOURCES SAY, WITH THE TRANSACTION EXPECTED TO BE IMMEDIATELY ACCRETIVE TO ONSEMI'S NON-GAAP EPS AND FINANCED WITH CASH AN…
+- 10/02 05:43 [FirstSquawk] ONSEMI SAYS THE COMPANIES HAVE IDENTIFIED FURTHER OPPORTUNITIES BEYOND $200 MLN IN ANNUAL RUN-RATE SYNERGIES.

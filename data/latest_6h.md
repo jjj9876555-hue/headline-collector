@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-02 05:29 JST／対象: 10/01 23:29 〜 10/02 05:29 JST（時刻はすべて日本時間）
+生成: 2026-10-02 05:47 JST／対象: 10/01 23:47 〜 10/02 05:47 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 49 | 10/02 01:02 | 10/02 05:19 | ⚠ 96分（03:42→05:19） |
-| FirstSquawk | 116 | 10/01 23:29 | 10/02 05:17 | 39分（01:52→02:31） |
-| financialjuice | 176 | 10/01 23:30 | 10/02 05:19 | 17分（03:38→03:56） |
+| FirstSquawk | 113 | 10/01 23:52 | 10/02 05:43 | 39分（01:52→02:31） |
+| financialjuice | 173 | 10/01 23:54 | 10/02 05:19 | 17分（03:38→03:56） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 316 行（統合前 344 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 310 行（統合前 338 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 23:29 [FirstSquawk] SPOT PALLADIUM FALLS OVER 3% TO $1,161.93/OZ
-- 10/01 23:30 [FirstSquawk] US NATURAL GAS STORAGE ACTUAL: 64 VS 53 PREVIOUS; EST 63
-- 10/01 23:30 [financialjuice] EIA NATURAL GAS CHANGE BCF ACTUAL 64B (FORECAST 63B, PREVIOUS 53B) $MACRO
-- 10/01 23:31 [financialjuice] Weekly EIA Natural Gas Change Report
-- 10/01 23:33 [FirstSquawk] ACCENTURE SHARES SET FOR BIGGEST ONE-DAY PERCENTAGE GAIN ON RECORD, LAST UP 22.5%
-- 10/01 23:34 [FirstSquawk] DOLLAR TO YEN DROPS SIGNIFICANTLY; CURRENTLY AT 157.52; TRADING VOLUMES INCREASE ON EBS PLATFORM.
-- 10/01 23:35 [FirstSquawk] RUSSIAN https://t.co/qIH60LhYkD : SETS OFFICIAL ROUBLE RATE FOR OCTOBER 2 AT 83.2454 ROUBLES PER U.S. DOLLAR (PVS RATE - 83.5588)
-- 10/01 23:44 [financialjuice] Senior US Official to Channel 12: The US military is sending a third aircraft carrier and a second Marine unit to the Middle East
 - 10/01 23:52 [FirstSquawk] ACCENTURE STOCK SURGES AS RECORD BOOKINGS DISPEL AI FEARS - YF
 - 10/01 23:54 [financialjuice] Senior US Official to Israel's Channel 12: Three Carrier Groups Possible by End-November.
 - 10/01 23:55 [financialjuice] Senior US Official: Deployment of naval vessel, Marine units will give US CENTCOM more firepower if fighting with Iran resumes - Israel's News 12
@@ -340,3 +332,5 @@
 - 10/02 05:18 [financialjuice] Trump: Iran will be ending soon, one way or the other.
 - 10/02 05:19 [financialjuice] Trump, asked about Iran's involvement in the UK base: Looks like it.
 - 10/02 05:19 [DeItaone] TRUMP: MAY ASK EUROPEAN COUNTRIES TO RELEASE DIESEL STOCKS
+- 10/02 05:43 [FirstSquawk] ONSEMI IS TO BUY SYNAPTICS FOR $123 PER SHARE IN CASH UNDER A REVISED MERGER AGREEMENT, VALUING THE DEAL AT $5.70 BLN, SOURCES SAY, WITH THE TRANSACTION EXPECTED TO BE IMMEDIATELY ACCRETIVE TO ONSEMI'S NON-GAAP EPS AND FINANCED WITH CASH AN…
+- 10/02 05:43 [FirstSquawk] ONSEMI SAYS THE COMPANIES HAVE IDENTIFIED FURTHER OPPORTUNITIES BEYOND $200 MLN IN ANNUAL RUN-RATE SYNERGIES.

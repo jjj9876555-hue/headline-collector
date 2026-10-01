@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-02 05:29 JST／対象: 10/01 17:29 〜 10/02 05:29 JST（時刻はすべて日本時間）
+生成: 2026-10-02 05:47 JST／対象: 10/01 17:47 〜 10/02 05:47 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 87 | 10/01 17:29 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 184 | 10/01 17:30 | 10/02 05:17 | ⚠ 53分（18:34→19:28） |
-| financialjuice | 295 | 10/01 17:30 | 10/02 05:19 | 44分（18:40→19:25） |
+| DeItaone | 86 | 10/01 17:52 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
+| FirstSquawk | 180 | 10/01 17:58 | 10/02 05:43 | ⚠ 53分（18:34→19:28） |
+| financialjuice | 293 | 10/01 17:57 | 10/02 05:19 | 44分（18:40→19:25） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 530 行（統合前 572 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 523 行（統合前 565 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 17:29 [DeItaone] CBOE VOLATILITY INDEX HITS OVER TWO-WEEK HIGH; LAST UP 0.5 POINTS AT 16.86
-- 10/01 17:30 [financialjuice] ‼ BREAKING: UK MANUFACTURING PMI FINAL ACTUAL 51.9 (FORECAST 52, PREVIOUS 52.0) $MACRO
-- 10/01 17:30 [financialjuice] Japan's PM Takaichi: Domestic investment vital for higher potential growth.
-- 10/01 17:30 [FirstSquawk] UK MANUFACTURING PMI FINAL COMES IN AT 51.9, BELOW ESTIMATE OF 52 AND LAST MONTH'S 52.0.
-- 10/01 17:31 [FirstSquawk] JAPAN'S PRIME MINISTER TAKAICHI SAYS LOCAL INVESTMENT IS CRUCIAL FOR BOOSTING GROWTH POTENTIAL.
-- 10/01 17:33 [FirstSquawk] TAKAICHI ASKED KIUCHI TO SPECIFY THE INVESTMENT TIMEFRAME AND DETAILS.
-- 10/01 17:33 [FirstSquawk] TAKAICHI WILL NEED MORE TIME TO ENSURE LONG-LASTING REAL WAGE INCREASES.
-- 10/01 17:39 [FirstSquawk] ZELENSKYY ANNOUNCES UKRAINE ATTACKED AN OIL FACILITY IN RUSSIA'S SAMARA REGION.
-- 10/01 17:39 [FirstSquawk] UK GOVERNMENT RENEWS £190M CONTRACT WITH AIRBUS TO ASSIST RAF FLEET.
 - 10/01 17:52 [DeItaone] U.K. 30-YEAR GILT HIT 6.029%, HIGHEST SINCE 1998: LSEG
 - 10/01 17:57 [financialjuice] FRENCH 10 YR OAT YIELD ACTUAL 4.93% (FORECAST -, PREVIOUS 4.23%) $MACRO
 - 10/01 17:57 [financialjuice] FRENCH 10 YR OAT BID-TO-COVER ACTUAL 2 (FORECAST -, PREVIOUS 2.28) $MACRO
@@ -554,3 +545,5 @@
 - 10/02 05:18 [financialjuice] Trump: Iran will be ending soon, one way or the other.
 - 10/02 05:19 [financialjuice] Trump, asked about Iran's involvement in the UK base: Looks like it.
 - 10/02 05:19 [DeItaone] TRUMP: MAY ASK EUROPEAN COUNTRIES TO RELEASE DIESEL STOCKS
+- 10/02 05:43 [FirstSquawk] ONSEMI IS TO BUY SYNAPTICS FOR $123 PER SHARE IN CASH UNDER A REVISED MERGER AGREEMENT, VALUING THE DEAL AT $5.70 BLN, SOURCES SAY, WITH THE TRANSACTION EXPECTED TO BE IMMEDIATELY ACCRETIVE TO ONSEMI'S NON-GAAP EPS AND FINANCED WITH CASH AN…
+- 10/02 05:43 [FirstSquawk] ONSEMI SAYS THE COMPANIES HAVE IDENTIFIED FURTHER OPPORTUNITIES BEYOND $200 MLN IN ANNUAL RUN-RATE SYNERGIES.
