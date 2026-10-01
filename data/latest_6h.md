@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 21:53 JST／対象: 10/01 15:53 〜 10/01 21:53 JST（時刻はすべて日本時間）
+生成: 2026-10-01 22:10 JST／対象: 10/01 16:10 〜 10/01 22:10 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 38 | 10/01 16:25 | 10/01 21:45 | 37分（17:52→18:30） |
-| FirstSquawk | 71 | 10/01 16:01 | 10/01 21:46 | ⚠ 53分（18:34→19:28） |
-| financialjuice | 105 | 10/01 16:07 | 10/01 21:32 | 44分（18:40→19:25） |
+| DeItaone | 40 | 10/01 16:25 | 10/01 22:07 | 37分（17:52→18:30） |
+| FirstSquawk | 67 | 10/01 16:24 | 10/01 22:08 | ⚠ 53分（18:34→19:28） |
+| financialjuice | 108 | 10/01 16:15 | 10/01 22:08 | 44分（18:40→19:25） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 207 行（統合前 214 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 207 行（統合前 215 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 16:01 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 1.04% || FRANCE'S CAC 40 DOWN 0.64% || SPAIN'S IBEX DOWN 0.75%
-- 10/01 16:05 [FirstSquawk] GERMANY'S DAX DOWN 0.6%
-- 10/01 16:07 [financialjuice] South Korea Industry Minister: I expressed strong objection to US Commerce Secretary Lutnick over the announcement of the Alaska LNG project - Yonhap
-- 10/01 16:07 [FirstSquawk] TESLA'S NEW CAR REGISTRATIONS IN SWEDEN ROSE BY 38.4% YEAR-OVER-YEAR IN SEPTEMBER, ACCORDING TO MOBILITY SWEDEN.
-- 10/01 16:08 [FirstSquawk] UAE PROSECUTOR GENERAL INITIATES INQUIRY INTO FLYDUBAI FLIGHT INCIDENT, CONSIDERING POSSIBLE CONNECTION TO 'TERRORIST ACTIVITY,' ACCORDING TO STATE NEWS AGENCY.
-- 10/01 16:09 [FirstSquawk] SOUTH KOREA'S INDUSTRY MINISTER OBJECTED TO U.S. COMMERCE SECRETARY LUTNICK REGARDING THE ALASKA LNG PROJECT ANNOUNCEMENT - YONHAP.
-- 10/01 16:09 [FirstSquawk] SOUTH KOREA'S INDUSTRY MINISTER KIM STATED THAT BOTH THE U.S. AND SOUTH KOREA AGREED THE ALASKA PROJECT WILL NOT MOVE FORWARD UNLESS IT IS ECONOMICALLY VIABLE - YONHAP.
-- 10/01 16:09 [financialjuice] South Korea Industry Minister Kim: The US and South Korea share the understanding that the Alaska project will not be pursued if it is not commercially feasible - Yonhap
-- 10/01 16:09 [FirstSquawk] SOUTH KOREA'S INDUSTRY MINISTER SAYS WHITE HOUSE'S ANNOUNCEMENT WITH SPECIFIC NUMBERS OR CONFIRMING PROJECT PROGRESS EXCEEDS INITIAL AGREEMENTS - MEDIA REPORTS.
 - 10/01 16:15 [financialjuice] SPANISH MANUFACTURING PMI ACTUAL 51 (FORECAST 50.2, PREVIOUS 49.5) $MACRO
 - 10/01 16:16 [financialjuice] Spanish Manufacturing PMI September 2026 Report
 - 10/01 16:24 [FirstSquawk] US 10-YEAR TREASURY YIELD JUMPS TO 5.33%, THE HIGHEST LEVEL SINCE 2002.
@@ -231,3 +222,12 @@
 - 10/01 21:40 [DeItaone] IRAN SAYS IT WILL CONTINUE SEEKING DIALOGUE WITH U.S. Iranian President Masoud Pezeshkian says Tehran will continue pursuing dialogue with Washington despite previous attacks during negotiations, according to Tasnim. His comments come as Qa…
 - 10/01 21:45 [DeItaone] TRUMP CONSIDERS PREEMPTIVE PARDONS President Trump says he would consider preemptively pardoning members of his administration before leaving office, potentially protecting them from future federal prosecution. Asked by Time whether he woul…
 - 10/01 21:46 [FirstSquawk] ZELENSKIY SAYS THERE ARE GOOD RESULTS IN DIALOGUE WITH EU TO COVER UKRAINE'S FINANCIAL NEEDS FOR 2026-27
+- 10/01 21:57 [DeItaone] FRENCH 5-YEAR CREDIT DEFAULT SWAPS CLIMB TO MULTI-YEAR HIGH OF 72BPS, S&P GLOBAL MARKET INTELLIGENCE
+- 10/01 22:00 [financialjuice] Effective Fed Funds Rate 3.88% September 30 vs 3.88% September 29.
+- 10/01 22:05 [financialjuice] Fed's Collins: Economic growth is near trend, if not more than that; labor market near full employment, but inflation is too high
+- 10/01 22:07 [financialjuice] Fed's Schmid: Officials have work to do on inflation.
+- 10/01 22:07 [DeItaone/FirstSquawk] FED'S COLLINS: WON'T GET AHEAD OF THE NEXT MEETING
+- 10/01 22:07 [financialjuice] Fed's Collins: We won't get ahead of the next meeting
+- 10/01 22:08 [FirstSquawk] FED'S SCHMID SAYS OFFICIALS HAVE WORK TO DO ON INFLATION
+- 10/01 22:08 [financialjuice] Fed's Collins: Economic growth near trend or above.
+- 10/01 22:08 [FirstSquawk] SPACEX’S AI UNIT HELD TALKS OVER SUMMER TO LEASE COMPUTE TO MICROSOFT - INFORMATION

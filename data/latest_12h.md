@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-01 21:53 JST／対象: 10/01 09:53 〜 10/01 21:53 JST（時刻はすべて日本時間）
+生成: 2026-10-01 22:10 JST／対象: 10/01 10:10 〜 10/01 22:10 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 38 | 10/01 16:25 | 10/01 21:45 | 37分（17:52→18:30） |
-| FirstSquawk | 176 | 10/01 09:53 | 10/01 21:46 | ⚠ 53分（18:34→19:28） |
-| financialjuice | 170 | 10/01 10:00 | 10/01 21:32 | ⚠ 52分（14:07→15:00） |
+| DeItaone | 40 | 10/01 16:25 | 10/01 22:07 | 37分（17:52→18:30） |
+| FirstSquawk | 171 | 10/01 10:12 | 10/01 22:08 | ⚠ 53分（18:34→19:28） |
+| financialjuice | 174 | 10/01 10:13 | 10/01 22:08 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 377 行（統合前 384 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 377 行（統合前 385 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 09:53 [FirstSquawk] Australia’s ASX 200 slides 1.3% to 8,679.40 points
-- 10/01 09:55 [FirstSquawk] CK Solution lands KRW 23 billion order
-- 10/01 09:58 [FirstSquawk] Petronas shuts Songkhla export pipeline temporarily over issue detected during routine inspection
-- 10/01 09:58 [FirstSquawk] Petronas: Pipeline restart contingent on confirmation it is safe to operate
-- 10/01 09:59 [FirstSquawk] Petronas: Trans Thai-Malaysia JV initiates temporary shutdown of Songkhla export pipeline
-- 10/01 10:00 [financialjuice] Taiwan overnight interbank rate starts at 0.805% vs 0.805% at previous session open
-- 10/01 10:01 [FirstSquawk] Taiwan overnight interbank rate opens flat at 0.805% vs 0.805% previously
-- 10/01 10:03 [FirstSquawk] Paramount Skydance announces $41.4B, €885M notes offerings and $8.5B, €850M Term Loan B pricing
-- 10/01 10:09 [FirstSquawk] Xiaomi’s EV deliveries top 40,000 units in September
 - 10/01 10:12 [FirstSquawk] South Korea’s exports surge to record $120.9 billion in September on robust semiconductor sales
 - 10/01 10:13 [financialjuice] Israel's PM Netanyahu: it's too soon to comment on motivation
 - 10/01 10:14 [financialjuice] Israel's PM Netanyahu: Israel to take part in investigation
@@ -401,3 +392,12 @@
 - 10/01 21:40 [DeItaone] IRAN SAYS IT WILL CONTINUE SEEKING DIALOGUE WITH U.S. Iranian President Masoud Pezeshkian says Tehran will continue pursuing dialogue with Washington despite previous attacks during negotiations, according to Tasnim. His comments come as Qa…
 - 10/01 21:45 [DeItaone] TRUMP CONSIDERS PREEMPTIVE PARDONS President Trump says he would consider preemptively pardoning members of his administration before leaving office, potentially protecting them from future federal prosecution. Asked by Time whether he woul…
 - 10/01 21:46 [FirstSquawk] ZELENSKIY SAYS THERE ARE GOOD RESULTS IN DIALOGUE WITH EU TO COVER UKRAINE'S FINANCIAL NEEDS FOR 2026-27
+- 10/01 21:57 [DeItaone] FRENCH 5-YEAR CREDIT DEFAULT SWAPS CLIMB TO MULTI-YEAR HIGH OF 72BPS, S&P GLOBAL MARKET INTELLIGENCE
+- 10/01 22:00 [financialjuice] Effective Fed Funds Rate 3.88% September 30 vs 3.88% September 29.
+- 10/01 22:05 [financialjuice] Fed's Collins: Economic growth is near trend, if not more than that; labor market near full employment, but inflation is too high
+- 10/01 22:07 [financialjuice] Fed's Schmid: Officials have work to do on inflation.
+- 10/01 22:07 [DeItaone/FirstSquawk] FED'S COLLINS: WON'T GET AHEAD OF THE NEXT MEETING
+- 10/01 22:07 [financialjuice] Fed's Collins: We won't get ahead of the next meeting
+- 10/01 22:08 [FirstSquawk] FED'S SCHMID SAYS OFFICIALS HAVE WORK TO DO ON INFLATION
+- 10/01 22:08 [financialjuice] Fed's Collins: Economic growth near trend or above.
+- 10/01 22:08 [FirstSquawk] SPACEX’S AI UNIT HELD TALKS OVER SUMMER TO LEASE COMPUTE TO MICROSOFT - INFORMATION
