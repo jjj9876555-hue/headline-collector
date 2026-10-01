@@ -7,49 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-01 19:02 JST／対象: 10/01 07:02 〜 10/01 19:02 JST（時刻はすべて日本時間）
+生成: 2026-10-01 19:24 JST／対象: 10/01 07:24 〜 10/01 19:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 16 | 10/01 16:25 | 10/01 19:02 | 37分（17:52→18:30） |
 | FirstSquawk | 185 | 10/01 07:49 | 10/01 18:34 | ⚠ 54分（07:50→08:44） |
-| financialjuice | 186 | 10/01 07:03 | 10/01 18:40 | ⚠ 52分（14:07→15:00） |
+| financialjuice | 160 | 10/01 07:28 | 10/01 18:40 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 385 行（統合前 387 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 359 行（統合前 361 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 07:03 [financialjuice] Fed's Kashkari: consumers continue spending and job seekers have positions
-- 10/01 07:03 [financialjuice] Fed's Kashkari: the longer economy stays strong, the more I question monetary policy tightness
-- 10/01 07:04 [financialjuice] Fed's Kashkari: neutral rate could be higher than expected
-- 10/01 07:04 [financialjuice] Fed's Kashkari: uncertain about current neutral rate
-- 10/01 07:05 [financialjuice] Fed's Kashkari: neutral rate probably higher for the time being
-- 10/01 07:06 [financialjuice] Fed officials unsure where neutral rate stands now
-- 10/01 07:06 [financialjuice] Consumers continue spending, and job seekers find employment
-- 10/01 07:06 [financialjuice] Neutral rate may be higher than expected
-- 10/01 07:06 [financialjuice] Neutral rate probably higher at least for now
-- 10/01 07:06 [financialjuice] The longer the economy remains robust, the more I question the tightness of monetary policy
-- 10/01 07:07 [financialjuice] Fed's Kashkari: should not blindly follow markets but won't ignore its signals
-- 10/01 07:08 [financialjuice] Fed's Kashkari: expects one more rate increase this year and another in 2027
-- 10/01 07:09 [financialjuice] Fed's Kashkari: doubtful economy struggling beyond AI sector
-- 10/01 07:10 [financialjuice] Fed's Kashkari: hopes central bank can reduce inflation with restrained measures
-- 10/01 07:14 [financialjuice] Economy remains durable despite shocks
-- 10/01 07:14 [financialjuice] Fed's Kashkari: central bank must return inflation to 2% considering extended period above target
-- 10/01 07:14 [financialjuice] Skeptical about notion economy struggles beyond AI sector
-- 10/01 07:14 [financialjuice] hopes Fed can reduce inflation with limited measures
-- 10/01 07:15 [financialjuice] Should not blindly follow markets: won't disregard its signals
-- 10/01 07:15 [financialjuice] Fed's Kashkari warns rolling supply shocks may boost inflation expectations
-- 10/01 07:15 [financialjuice] Fed must bring inflation back to 2% after extended period above target
-- 10/01 07:19 [financialjuice] Rolling supply disruptions risk pushing up inflation expectations
-- 10/01 07:19 [financialjuice] Fed's Kashkari: not shocked Fed IG found no wrongdoing in renovation project
-- 10/01 07:19 [financialjuice] Not sure where the neutral rate stands currently
-- 10/01 07:19 [financialjuice] Neutral rate likely higher at least for now
-- 10/01 07:19 [financialjuice] The longer the economy remains robust, the more I question monetary policy tightness
 - 10/01 07:28 [financialjuice] Fed's Kashkari: central bank balance sheet works best in near-zero rate environment
 - 10/01 07:29 [financialjuice] Fed balance sheet is most effective in near-zero rate environment
 - 10/01 07:29 [financialjuice] Not surprised Fed IG didn’t uncover any wrongdoing in Fed renovation project

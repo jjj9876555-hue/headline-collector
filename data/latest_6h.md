@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 19:02 JST／対象: 10/01 13:02 〜 10/01 19:02 JST（時刻はすべて日本時間）
+生成: 2026-10-01 19:24 JST／対象: 10/01 13:24 〜 10/01 19:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 16 | 10/01 16:25 | 10/01 19:02 | 37分（17:52→18:30） |
-| FirstSquawk | 77 | 10/01 13:05 | 10/01 18:34 | 24分（13:35→14:00） |
-| financialjuice | 68 | 10/01 13:03 | 10/01 18:40 | ⚠ 52分（14:07→15:00） |
+| FirstSquawk | 72 | 10/01 13:34 | 10/01 18:34 | 24分（13:35→14:00） |
+| financialjuice | 67 | 10/01 13:31 | 10/01 18:40 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 160 行（統合前 161 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 154 行（統合前 155 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 13:03 [financialjuice] EU questions Binance over ongoing operations despite order to wind down - FT
-- 10/01 13:05 [FirstSquawk] IBM unveils self-hosted IBM Bob option aimed at enterprise AI sovereignty and governance
-- 10/01 13:06 [FirstSquawk] Big Tech outspends European companies on lobbying in Brussels — FT
-- 10/01 13:07 [FirstSquawk] PwC withholds sign-off on Nidec accounts despite $4 billion charge — FT
-- 10/01 13:07 [FirstSquawk] EU presses Binance on continued operations despite wind-down directive — FT
-- 10/01 13:24 [FirstSquawk] Dollar advances to 101.62, highest level in two months
 - 10/01 13:31 [financialjuice] S. Korea president Lee appoints Ha Joon-Kyung as new policy adviser for economic growth - Blue House
 - 10/01 13:31 [financialjuice] India monthly econ report: India's economic outlook faces upside inflation risks from mounting climate, geopolitical and monetary pressures
 - 10/01 13:32 [financialjuice] India monthly economic report: geopolitical strains, high crude oil costs may increase imported inflation pressures

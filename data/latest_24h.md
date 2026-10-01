@@ -7,28 +7,25 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-01 19:02 JST／対象: 09/30 19:02 〜 10/01 19:02 JST（時刻はすべて日本時間）
+生成: 2026-10-01 19:24 JST／対象: 09/30 19:24 〜 10/01 19:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 88 | 09/30 19:04 | 10/01 19:02 | ⚠ 610分（06:15→16:25） |
-| FirstSquawk | 339 | 09/30 19:06 | 10/01 18:34 | ⚠ 78分（06:31→07:49） |
+| DeItaone | 85 | 09/30 19:31 | 10/01 19:02 | ⚠ 610分（06:15→16:25） |
+| FirstSquawk | 338 | 09/30 19:29 | 10/01 18:34 | ⚠ 78分（06:31→07:49） |
 | financialjuice | 352 | 09/30 19:28 | 10/01 18:40 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 759 行（統合前 781 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 756 行（統合前 777 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 19:04 [DeItaone] BANK OF ENGLAND WARNS OF SHARPER AI MARKET CORRECTION The Bank of England warns AI valuations remain vulnerable to a deeper selloff than July’s, potentially spilling into global growth expectations and sovereign bond markets. The BOE says s…
-- 09/30 19:06 [FirstSquawk] VOLKSWAGEN PREPARES TO TERMINATE MULTIPLE COLLECTIVE DEALS - HANDELSBLATT
-- 09/30 19:10 [DeItaone] PORSCHE PIVOTS BACK TO PETROL AS EV DEMAND WEAKENS Porsche is reviving its petrol strategy, with a combustion-engine Macan planned for 2028 after electric Macan sales fell 40% in H1. CEO Michael Leiters says EVs remain part of Porsche’s fut…
-- 09/30 19:18 [DeItaone/FirstSquawk] *LIBYA SHARARA OIL FIELD OUTPUT RISES TO NEAR 340,000 B/D
 - 09/30 19:28 [financialjuice] BoE Gov. Bailey: Regulating AI is not the right place to start.
+- 09/30 19:29 [FirstSquawk] LIBYA SHARARA OIL FIELD OUTPUT RISES TO NEAR 340,000 B/D
 - 09/30 19:30 [financialjuice] Apple set to debut Home Hub and updated Apple TV, Homepod Mini.
 - 09/30 19:30 [FirstSquawk] APPLE PLANS SIGNIFICANT EXPANSION INTO SMART-HOME SECTOR ON OCTOBER 13.
 - 09/30 19:31 [DeItaone] $AAPL - APPLE TO MAKE MAJOR PUSH INTO SMART-HOME MARKET ON OCTOBER 13TH
