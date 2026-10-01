@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-01 18:48 JST／対象: 09/30 18:48 〜 10/01 18:48 JST（時刻はすべて日本時間）
+生成: 2026-10-01 19:02 JST／対象: 09/30 19:02 〜 10/01 19:02 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 88 | 09/30 18:55 | 10/01 18:36 | ⚠ 610分（06:15→16:25） |
-| FirstSquawk | 345 | 09/30 18:52 | 10/01 18:34 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 353 | 09/30 18:58 | 10/01 18:40 | ⚠ 52分（14:07→15:00） |
+| DeItaone | 88 | 09/30 19:04 | 10/01 19:02 | ⚠ 610分（06:15→16:25） |
+| FirstSquawk | 339 | 09/30 19:06 | 10/01 18:34 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 352 | 09/30 19:28 | 10/01 18:40 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 766 行（統合前 788 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 759 行（統合前 781 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 18:52 [FirstSquawk] KREMLIN SAYS REPORTS OF SANCTION RELIEF FOR POLITICAL PRISONERS ARE NOT RELEVANT, CLAIMING RUSSIA DOES NOT HAVE POLITICAL PRISONERS.
-- 09/30 18:52 [FirstSquawk] KREMLIN RESPONDS TO RUSSIA'S NUCLEAR THREATS TO NATO OVER KALININGRAD, STATING DIPLOMATS REMIND EUROPEAN LEADERS ABOUT FOUNDING DOCUMENTS.
-- 09/30 18:52 [FirstSquawk] KREMLIN REJECTS CLAIMS OF TALKING ABOUT LIFTING SANCTIONS ON RUSSIA IN RETURN FOR PRISONERS.
-- 09/30 18:52 [FirstSquawk] KREMLIN CONFIRMS COMMUNICATIONS WITH THE UNITED STATES REGARDING A POSSIBLE PRISONER EXCHANGE.
-- 09/30 18:55 [DeItaone] https://t.co/uo7LOnJ1Lp
-- 09/30 18:57 [DeItaone] 🇺🇸 PRESIDENT TRUMP — WEDNESDAY, SEPTEMBER 30, 2026 🔸 8:00 AM — Executive Time — White House 🔸 9:00 AM — In-Town Pool Call Time 🔸 11:00 AM — Policy Meeting — Oval Office 🔸 1:00 PM — Hispanic Heritage Month Celebration — East Room 🔸 3:30 PM —…
-- 09/30 18:58 [financialjuice] Japan's Econ. Min. Kiuchi: No gap in understanding with BoJ on economy, prices.
-- 09/30 19:00 [DeItaone] FRENCH BOND RISK HITS HIGHEST LEVEL SINCE 2012 France’s 10-year yield spread over Germany has surpassed 120 basis points for the first time in 14 years, as political uncertainty and accelerating inflation pressure French debt. The move come…
-- 09/30 19:01 [FirstSquawk] KREMLIN: PUTIN WILL DELIVER A SPEECH IN NEWLY ELECTED PARLIAMENT LATER ON WEDNESDAY
-- 09/30 19:02 [FirstSquawk] JAPAN CURRENCY INTERVENTION AMOUNTED TO 0 YEN FROM AUG 27 TO SEPT 28 - MOF
 - 09/30 19:04 [DeItaone] BANK OF ENGLAND WARNS OF SHARPER AI MARKET CORRECTION The Bank of England warns AI valuations remain vulnerable to a deeper selloff than July’s, potentially spilling into global growth expectations and sovereign bond markets. The BOE says s…
 - 09/30 19:06 [FirstSquawk] VOLKSWAGEN PREPARES TO TERMINATE MULTIPLE COLLECTIVE DEALS - HANDELSBLATT
 - 09/30 19:10 [DeItaone] PORSCHE PIVOTS BACK TO PETROL AS EV DEMAND WEAKENS Porsche is reviving its petrol strategy, with a combustion-engine Macan planned for 2028 after electric Macan sales fell 40% in H1. CEO Michael Leiters says EVs remain part of Porsche’s fut…
@@ -790,3 +780,6 @@
 - 10/01 18:37 [financialjuice] Kremlin: Dmitriev reports to Putin on the results of his contacts with the US, Russia-US dialogue is continuing
 - 10/01 18:37 [financialjuice] Kremlin on economic cooperation with the US: We believe we can be working together for our mutual benefit right now
 - 10/01 18:40 [financialjuice] Iran and Japan foreign ministers discuss US talks in call - Tasnim
+- 10/01 18:55 [DeItaone] AWS HIKES GPU PRICES AGAIN AS AI DEMAND STAYS STRONG AWS will raise reserved GPU compute prices by 15% on October 7, following a 20% increase in July, according to Wells Fargo. It marks the fourth consecutive quarterly increase, with H100/H…
+- 10/01 19:00 [DeItaone] $AVGO - BROADCOM TO LEND UP TO $42 BILLION TO ANTHROPIC FOR INFRASTRUCTURE LEASE AGREEMENTS, ACCORDING TO IPO PROSPECTUS
+- 10/01 19:02 [DeItaone] EURO SLIDE CONTINUES; LAST DOWN 0.55% AT $1.127

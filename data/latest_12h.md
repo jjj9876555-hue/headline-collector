@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-01 18:48 JST／対象: 10/01 06:48 〜 10/01 18:48 JST（時刻はすべて日本時間）
+生成: 2026-10-01 19:02 JST／対象: 10/01 07:02 〜 10/01 19:02 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 13 | 10/01 16:25 | 10/01 18:36 | 37分（17:52→18:30） |
+| DeItaone | 16 | 10/01 16:25 | 10/01 19:02 | 37分（17:52→18:30） |
 | FirstSquawk | 185 | 10/01 07:49 | 10/01 18:34 | ⚠ 54分（07:50→08:44） |
-| financialjuice | 188 | 10/01 07:02 | 10/01 18:40 | ⚠ 52分（14:07→15:00） |
+| financialjuice | 186 | 10/01 07:03 | 10/01 18:40 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 384 行（統合前 386 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 385 行（統合前 387 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 07:02 [financialjuice] Fed's Kashkari: Inflation still too high, about 3%, new data doesn't alter outlook
-- 10/01 07:02 [financialjuice] Fed's Kashkari: economy remains robust despite shocks
 - 10/01 07:03 [financialjuice] Fed's Kashkari: consumers continue spending and job seekers have positions
 - 10/01 07:03 [financialjuice] Fed's Kashkari: the longer economy stays strong, the more I question monetary policy tightness
 - 10/01 07:04 [financialjuice] Fed's Kashkari: neutral rate could be higher than expected
@@ -408,3 +406,6 @@
 - 10/01 18:37 [financialjuice] Kremlin: Dmitriev reports to Putin on the results of his contacts with the US, Russia-US dialogue is continuing
 - 10/01 18:37 [financialjuice] Kremlin on economic cooperation with the US: We believe we can be working together for our mutual benefit right now
 - 10/01 18:40 [financialjuice] Iran and Japan foreign ministers discuss US talks in call - Tasnim
+- 10/01 18:55 [DeItaone] AWS HIKES GPU PRICES AGAIN AS AI DEMAND STAYS STRONG AWS will raise reserved GPU compute prices by 15% on October 7, following a 20% increase in July, according to Wells Fargo. It marks the fourth consecutive quarterly increase, with H100/H…
+- 10/01 19:00 [DeItaone] $AVGO - BROADCOM TO LEND UP TO $42 BILLION TO ANTHROPIC FOR INFRASTRUCTURE LEASE AGREEMENTS, ACCORDING TO IPO PROSPECTUS
+- 10/01 19:02 [DeItaone] EURO SLIDE CONTINUES; LAST DOWN 0.55% AT $1.127
