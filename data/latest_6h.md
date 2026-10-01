@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-02 04:01 JST／対象: 10/01 22:01 〜 10/02 04:01 JST（時刻はすべて日本時間）
+生成: 2026-10-02 04:21 JST／対象: 10/01 22:21 〜 10/02 04:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 53 | 10/01 22:07 | 10/02 03:42 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 108 | 10/01 22:08 | 10/02 03:58 | 39分（01:52→02:31） |
-| financialjuice | 159 | 10/01 22:05 | 10/02 04:00 | 17分（03:38→03:56） |
+| DeItaone | 52 | 10/01 22:47 | 10/02 03:42 | ⚠ 102分（23:19→01:02） |
+| FirstSquawk | 104 | 10/01 22:22 | 10/02 04:07 | 39分（01:52→02:31） |
+| financialjuice | 165 | 10/01 22:22 | 10/02 04:19 | 17分（03:38→03:56） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 302 行（統合前 325 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 302 行（統合前 326 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 22:05 [financialjuice] Fed's Collins: Economic growth is near trend, if not more than that; labor market near full employment, but inflation is too high
-- 10/01 22:07 [financialjuice] Fed's Schmid: Officials have work to do on inflation.
-- 10/01 22:07 [DeItaone/FirstSquawk] FED'S COLLINS: WON'T GET AHEAD OF THE NEXT MEETING
-- 10/01 22:07 [financialjuice] Fed's Collins: We won't get ahead of the next meeting
-- 10/01 22:08 [FirstSquawk] FED'S SCHMID SAYS OFFICIALS HAVE WORK TO DO ON INFLATION
-- 10/01 22:08 [financialjuice] Fed's Collins: Economic growth near trend or above.
-- 10/01 22:08 [FirstSquawk] SPACEX’S AI UNIT HELD TALKS OVER SUMMER TO LEASE COMPUTE TO MICROSOFT - INFORMATION
-- 10/01 22:13 [financialjuice] Fed's Schmid: Energy prices are one of the biggest challenges for monetary policy today.
-- 10/01 22:13 [financialjuice] Fed's Schmid: I am trying to see in the data how much inflation is due to demand and how much is driven by supply shocks.
-- 10/01 22:15 [FirstSquawk] FED SCHMID: TRYING TO FIGURE OUT WHAT SHARE OF INFL DEMAND DRIVEN
-- 10/01 22:19 [FirstSquawk] SAMSUNG RAISES PRICES OF MOST GALAXY S26 PHONES BY $100
-- 10/01 22:19 [FirstSquawk] AOMORI MICHINOKU BANK, BANK OF IWATE AND AKITA BANK HAVE COMBINED ASSETS OF AROUND 13 TRILLION YEN - NIKKEI
 - 10/01 22:22 [FirstSquawk] BRAZIL'S PETROBRAS INCREASES JET FUEL COSTS BY APPROXIMATELY 11.8% AT KEY REFINERIES EFFECTIVE OCTOBER 1.
 - 10/01 22:22 [financialjuice/FirstSquawk] EU countries in crisis talks over diesel stocks release - FT
 - 10/01 22:30 [financialjuice] CANADIAN MANUFACTURING PMI ACTUAL 51.5 (FORECAST -, PREVIOUS 53.0) $MACRO
@@ -325,4 +313,16 @@
 - 10/02 03:56 [financialjuice] Fed's Bowman Speaks - WATCH LIVE
 - 10/02 03:57 [FirstSquawk] THE TURKISH CENTRAL BANK SAYS IT HAS RAISED THE SME LOAN GROWTH LIMIT TO 5% FROM 4.5% AND LOWERED THE RATIOS FOR MAINTAINING TRY REQUIRED RESERVES IN BLOCKED ACCOUNTS.
 - 10/02 03:58 [FirstSquawk] THE TURKISH CENTRAL BANK SAYS IT HAS CUT THE BLOCKED RESERVE RATIO TO 35% FROM 40% FOR BANKS WITH ASSETS ABOVE 500 BLN LIRA, AND TO 15% FROM 30% FOR BANKS WITH ASSETS OF 100-500 BLN LIRA.
-- 10/02 04:00 [financialjuice] Fed's Bowman touts the benefits of the Fed capital plan tied to Treasuries.
+- 10/02 04:00 [financialjuice/FirstSquawk] Fed's Bowman touts the benefits of the Fed capital plan tied to Treasuries.
+- 10/02 04:05 [financialjuice/FirstSquawk] Saudi-led Coalition intercepted and destroyed four drones launched by Yemen's Houthis toward Khamis Mushait - Statement.
+- 10/02 04:05 [financialjuice] BoC's Senior Dep. Gov. Rogers offers no comment on near-term interest rate path.
+- 10/02 04:06 [financialjuice] BoC's Senior Dep. Gov. Rogers: Targeting home prices with rates risks economic costs.
+- 10/02 04:06 [financialjuice] BoC's Senior Dep. Gov. Rogers: Restoring the affordability of housing will require a broad, sustained effort and a policy mix.
+- 10/02 04:06 [financialjuice] BoC's Senior Dep. Gov. Rogers: More supply, better planning and infrastructure and the right incentives are needed.
+- 10/02 04:07 [financialjuice] BoC's Senior Dep. Gov. Rogers: Canada is on the right track to boosting housing affordability, but has a way to go and needs more time.
+- 10/02 04:07 [financialjuice] BoC's Senior Dep. Gov. Rogers: Targeting house prices directly with interest rates is not the answer and would risk imposing costs across the economy.
+- 10/02 04:07 [financialjuice] BoC's Senior Dep. Gov. Rogers: Taking mortgage costs out of CPI would remove a real cost that many households are paying.
+- 10/02 04:07 [financialjuice] BoC's Senior Dep. Gov. Rogers: Falling house prices can cut household wealth, weaken spending, and slow sales and construction.
+- 10/02 04:18 [financialjuice] USTR Greer: The US is on track for record goods trade exports this year.
+- 10/02 04:18 [financialjuice] LIVE: Trade Representative Jamieson Greer holds a G20 press conference
+- 10/02 04:19 [financialjuice] USTR Greer: Trump's trade program is trending in the right direction.
