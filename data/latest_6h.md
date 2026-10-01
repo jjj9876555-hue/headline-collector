@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 08:58 JST／対象: 10/01 02:58 〜 10/01 08:58 JST（時刻はすべて日本時間）
+生成: 2026-10-01 09:28 JST／対象: 10/01 03:28 〜 10/01 09:28 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 21 | 10/01 03:01 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
-| FirstSquawk | 72 | 10/01 03:02 | 10/01 08:54 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 127 | 10/01 03:01 | 10/01 08:58 | 36分（07:29→08:05） |
+| DeItaone | 18 | 10/01 03:31 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
+| FirstSquawk | 86 | 10/01 03:31 | 10/01 09:28 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 125 | 10/01 03:31 | 10/01 09:15 | 36分（07:29→08:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 213 行（統合前 221 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 223 行（統合前 230 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 03:01 [financialjuice/FirstSquawk] Israel needs to understand that normalization cannot be forced - Jerusalem Post citing a source close to the Saudi royal family:
-- 10/01 03:01 [DeItaone] ITALY PROLONGS UNTIL MID-OCTOBER SUSPENSION OF EU'S SCHENGEN FREE BORDER AGREEMENT WITH SPAIN - STATEMENT
-- 10/01 03:02 [financialjuice/FirstSquawk] Israel's Foreign Minister: I spoke with my UAE counterpart and agreed with him to cooperate against extremist elements threatening regional security and stability - Post on X.
-- 10/01 03:18 [DeItaone] S&P 500 BREADTH FLASHES RARE WARNING The equal-weight S&P 500 is heading for a seventh straight weekly decline — something seen only twice before, during 2002 and 2022 bear markets. Yet the headline S&P 500 remains broadly stable, as tech m…
-- 10/01 03:22 [DeItaone] FEDERATED HERMES: DON’T RUSH INTO BONDS YET Treasury yields are at some of their highest levels in a generation, but Federated Hermes CIO R.J. Gallo says elevated rate volatility means it may be too early to buy aggressively. He warns anoth…
-- 10/01 03:23 [financialjuice] Trump: Canada has taken advantage of the US for many years.
 - 10/01 03:31 [financialjuice] NYMEX WTI Crude November futures settle at $90.42 a barrel, up $1.04, 1.16%.
 - 10/01 03:31 [DeItaone] $SNPS - OPENAI AND SYNOPSYS ANNOUNCE GPT-SYNOPSYS: FRONTIER INTELLIGENCE TO REVOLUTIONIZE CHIP DESIGN
 - 10/01 03:31 [financialjuice] NYMEX Gasoline October futures settle at $3.4378 a gallon.
@@ -237,3 +231,19 @@
 - 10/01 08:57 [financialjuice] BoJ summary: Cabinet office rep says BoJ may need to consider its neutral rate estimates
 - 10/01 08:58 [financialjuice] BOJ summary: cabinet office rep says central bank must take proactive, appropriate measures during excessive economic or market fluctuations
 - 10/01 08:58 [financialjuice] BOJ summary: Cabinet office rep says govt expects central bank to conduct monetary policy appropriately to stably achieve price target while closely cooperating with govt
+- 10/01 08:59 [FirstSquawk] BANK OF JAPAN'S SEPTEMBER SUMMARY OF OPINIONS SHOWS ONE MEMBER SAID IT IS APPROPRIATE TO CONTINUE RAISING RATES IN ACCORDANCE WITH ECONOMIC, PRICE AND FINANCIAL DEVELOPMENTS, AND ANOTHER SAID THE POLICY PHASE HAS CHANGED AND THE BOJ MUST FO…
+- 10/01 08:59 [FirstSquawk] BANK OF JAPAN'S SEPTEMBER SUMMARY SHOWS ONE MEMBER SAID THE BOJ MUST ACT NIMBLY AND SHOW ITS DETERMINATION TO PREVENT AN INFLATION OVERSHOOT WHILE BEING MINDFUL OF THE FX MARKET, WITH ONE SAYING IT MUST SPEED UP RATE HIKES IF THERE ARE SIGN…
+- 10/01 08:59 [FirstSquawk] BANK OF JAPAN'S SEPTEMBER SUMMARY SHOWS ONE MEMBER SAID THE BOJ SHOULD NOT BE OVERLY CAUTIOUS GIVEN SIGNIFICANT UPSIDE INFLATION RISKS AND THAT THE TERMINAL RATE COULD OVERSHOOT THE BOJ'S ESTIMATED RANGE DEPENDING ON OVERSEAS DEVELOPMENTS, …
+- 10/01 09:02 [FirstSquawk] BANK OF JAPAN'S SEPTEMBER SUMMARY SHOWS ONE MEMBER SAID THE SOMEWHAT WEAK Q2 GDP FIGURES ARE ATTRIBUTED TO TECHNICAL FACTORS.
+- 10/01 09:02 [FirstSquawk] BANK OF JAPAN'S SEPTEMBER SUMMARY OF OPINIONS SHOWS A CABINET OFFICE REPRESENTATIVE SAID THE BOJ MUST TAKE PROACTIVE, APPROPRIATE ACTION IN THE EVENT OF EXCESSIVE FLUCTUATION IN ECONOMIC ACTIVITY AND MARKETS, AND THAT THE GOVERNMENT EXPECTS…
+- 10/01 09:02 [FirstSquawk] BANK OF JAPAN'S SEPTEMBER SUMMARY OF OPINIONS SHOWS ONE MEMBER SAID THERE HAS BEEN A SIGNIFICANT REGIME SHIFT IN JAPAN'S FINANCIAL CONDITIONS WITH HEIGHTENED UPWARD PRICE PRESSURES, WHICH HAS BECOME INCREASINGLY EVIDENT OVER THE PAST FEW MO…
+- 10/01 09:03 [FirstSquawk] BANK OF JAPAN'S SEPTEMBER SUMMARY SHOWS ONE MEMBER SAID UPSIDE RISKS TO PRICES CONTINUE TO BE HIGH AND THAT THE BOJ MUST CONSIDER THE PRICE OUTLOOK KEEPING IN MIND CRUDE OIL PRICES COULD REMAIN HIGH, WHILE ANOTHER NOTED PRIVATE CONSUMPTION …
+- 10/01 09:04 [FirstSquawk] US NATURAL GAS FUTURES ROSE 0.5% TO $3.026/MMBTU AS LOWER-48 OUTPUT REMAINED NEAR ITS LOWEST LEVEL SINCE JANUARY, WITH DRILLERS LIMITING PRODUCTION AHEAD OF WINTER. EIA STORAGE GROWTH IS EXPECTED TO SLOW TO ABOUT 63 BCF, BELOW THE 80 BCF FI…
+- 10/01 09:05 [FirstSquawk] Drugmakers race to develop next-gen drugs aimed at protecting muscle while driving fat loss during rapid weight reduction - WSJ
+- 10/01 09:07 [FirstSquawk] AUSTRALIA’S S&P/ASX 200 FALLS 0.8% TO 8,721.40 POINTS IN EARLY TRADE
+- 10/01 09:10 [FirstSquawk] SAUDI ARABIA RAISED ITS PROJECTED 2026 BUDGET DEFICIT TO 4.9% OF GDP FROM 3.3%, WITH SPENDING EXPECTED AT ABOUT 1.4 TRILLION RIYALS AS DEFENSE, INFRASTRUCTURE AND ECONOMIC-DIVERSIFICATION OUTLAYS INCREASE. RIYADH ALSO CUT ITS 2026 REAL GDP …
+- 10/01 09:15 [financialjuice/FirstSquawk] ❗ U.S. official: Secretary Rubio kicked out the Iranian delegation who had over stayed their welcome. The UN general assembly was over, so it was time for them to go - Axios Reporter on X
+- 10/01 09:24 [FirstSquawk] 3. Asia-Pacific equities trade mixed at the open following a similar performance on Wall Street, with markets weighing fresh data and rising yields despite softer PCE inflation.
+- 10/01 09:25 [FirstSquawk] Asia-Pacific equities trade mixed at the open following a similar performance on Wall Street, with markets weighing fresh data and rising yields despite softer PCE inflation.
+- 10/01 09:25 [FirstSquawk] Nidec shares sink 18.5%
+- 10/01 09:28 [FirstSquawk] US State Department: Four Americans were aboard Flydubai flight bound for Israel

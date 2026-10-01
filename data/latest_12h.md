@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-01 08:58 JST／対象: 09/30 20:58 〜 10/01 08:58 JST（時刻はすべて日本時間）
+生成: 2026-10-01 09:28 JST／対象: 09/30 21:28 〜 10/01 09:28 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 56 | 09/30 21:00 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
-| FirstSquawk | 148 | 09/30 21:00 | 10/01 08:54 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 233 | 09/30 21:00 | 10/01 08:58 | 36分（07:29→08:05） |
+| DeItaone | 53 | 09/30 21:30 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
+| FirstSquawk | 159 | 09/30 21:30 | 10/01 09:28 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 225 | 09/30 21:30 | 10/01 09:15 | 36分（07:29→08:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 421 行（統合前 439 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 420 行（統合前 439 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 21:00 [DeItaone] U.S. TREASURIES END A BRUTAL QUARTER The U.S. bond market is closing Q3 after a relentless selloff, with 10- and 30-year Treasury yields reaching multidecade highs. According to WSJ/Dow Jones Market Data: 🔸 10-year: +85 bps, biggest quarter…
-- 09/30 21:00 [financialjuice] ❗ GERMAN HICP YOY PRELIM ACTUAL 3.3% (FORECAST 3.2%, PREVIOUS 2.90%) $MACRO
-- 09/30 21:00 [financialjuice] GERMAN HICP MOM PRELIM ACTUAL 0.6% (FORECAST 0.5%, PREVIOUS 0.20%) $MACRO
-- 09/30 21:00 [financialjuice] ❗ GERMAN CPI YOY PRELIM ACTUAL 3.3% (FORECAST 3.1%, PREVIOUS 2.90%) $MACRO
-- 09/30 21:00 [financialjuice] GERMAN CPI MOM PRELIM ACTUAL 0.6% (FORECAST 0.5%, PREVIOUS 0.20%) $MACRO
-- 09/30 21:00 [FirstSquawk] GERMANY PRELIM SEPT. HARMONIZED CPI RISES 3.3% Y/Y; EST. +3.2%
-- 09/30 21:01 [FirstSquawk] Germany CPI (M/M) Sep P: 0.6% (est 0.5%; prev 0.2%) - CPI (Y/Y): 3.3% (est 3.1%; prev 2.9%) - CPI EU Harmonised (M/M: 0.6% (est 0.5%; prev 0.2%) - CPI EU Harmonised (Y/Y): 3.3% (est 3.2%; prev 2.9%)
-- 09/30 21:01 [financialjuice] Secured Overnight Financing Rate 3.88% September 29 vs 3.90% September 28.
-- 09/30 21:02 [DeItaone] GERMANY SEP FLASH HICP 0.6% M/M (0.2% AUG) GERMANY SEP FLASH HICP 3.3% Y/Y (2.9% AUG) GERMANY SEP FLASH NATIONAL CPI 0.6% M/M (0.2% AUG) GERMANY SEP FLASH NATIONAL CPI 3.3% Y/Y (2.9% AUG)
-- 09/30 21:02 [FirstSquawk] QATAR FLOATS NEW PROPOSAL FOR US-IRAN WAR SEEKING CONCESSIONS FROM BOTH SIDES
-- 09/30 21:05 [financialjuice] German CPI September Prelim Report
-- 09/30 21:07 [FirstSquawk] LILLY'S EBGLYSS MEETS PRIMARY ENDPOINT IN PHASE 3B ADTOUCH
-- 09/30 21:08 [financialjuice] Morning Juice - US Session Prep (30th September)
-- 09/30 21:14 [DeItaone] GERMAN INFLATION HITS HIGHEST LEVEL IN NEARLY 3 YEARS Germany’s September inflation accelerated to 3.3% YoY, above the 3.2% forecast, driven primarily by surging energy costs. With inflation also accelerating across France, Italy and Spain,…
-- 09/30 21:15 [FirstSquawk] US ADP NONFARM EMPLOYMENT CHANGE (SEP) ACTUAL: 90K VS 75K PREVIOUS; EST 38K
-- 09/30 21:15 [financialjuice] ❗ US ADP EMPLOYMENT CHANGE ACTUAL 90K (FORECAST 74.5K, PREVIOUS 38K) $MACRO
-- 09/30 21:16 [financialjuice] France’s President Macron: Trade war with china, cutting ties would make no sense.
 - 09/30 21:30 [DeItaone] US FINAL Q2 GDP +2.2% (CONSENSUS +1.5%) US FINAL Q2 PCE PRICE INDEX +5.0% US FINAL Q2 CORE PCE +3.3% (CONSENSUS +3.6%)
 - 09/30 21:30 [financialjuice] US ADVANCE GOODS TRADE BALANCE ACTUAL -132.6B (FORECAST -115B, PREVIOUS -118.94B) $MACRO
 - 09/30 21:30 [financialjuice] US WHOLESALE INVENTORIES MOM ADVANCE ACTUAL 0.7% (FORECAST 0.5%, PREVIOUS 1.3%) $MACRO
@@ -445,3 +428,19 @@
 - 10/01 08:57 [financialjuice] BoJ summary: Cabinet office rep says BoJ may need to consider its neutral rate estimates
 - 10/01 08:58 [financialjuice] BOJ summary: cabinet office rep says central bank must take proactive, appropriate measures during excessive economic or market fluctuations
 - 10/01 08:58 [financialjuice] BOJ summary: Cabinet office rep says govt expects central bank to conduct monetary policy appropriately to stably achieve price target while closely cooperating with govt
+- 10/01 08:59 [FirstSquawk] BANK OF JAPAN'S SEPTEMBER SUMMARY OF OPINIONS SHOWS ONE MEMBER SAID IT IS APPROPRIATE TO CONTINUE RAISING RATES IN ACCORDANCE WITH ECONOMIC, PRICE AND FINANCIAL DEVELOPMENTS, AND ANOTHER SAID THE POLICY PHASE HAS CHANGED AND THE BOJ MUST FO…
+- 10/01 08:59 [FirstSquawk] BANK OF JAPAN'S SEPTEMBER SUMMARY SHOWS ONE MEMBER SAID THE BOJ MUST ACT NIMBLY AND SHOW ITS DETERMINATION TO PREVENT AN INFLATION OVERSHOOT WHILE BEING MINDFUL OF THE FX MARKET, WITH ONE SAYING IT MUST SPEED UP RATE HIKES IF THERE ARE SIGN…
+- 10/01 08:59 [FirstSquawk] BANK OF JAPAN'S SEPTEMBER SUMMARY SHOWS ONE MEMBER SAID THE BOJ SHOULD NOT BE OVERLY CAUTIOUS GIVEN SIGNIFICANT UPSIDE INFLATION RISKS AND THAT THE TERMINAL RATE COULD OVERSHOOT THE BOJ'S ESTIMATED RANGE DEPENDING ON OVERSEAS DEVELOPMENTS, …
+- 10/01 09:02 [FirstSquawk] BANK OF JAPAN'S SEPTEMBER SUMMARY SHOWS ONE MEMBER SAID THE SOMEWHAT WEAK Q2 GDP FIGURES ARE ATTRIBUTED TO TECHNICAL FACTORS.
+- 10/01 09:02 [FirstSquawk] BANK OF JAPAN'S SEPTEMBER SUMMARY OF OPINIONS SHOWS A CABINET OFFICE REPRESENTATIVE SAID THE BOJ MUST TAKE PROACTIVE, APPROPRIATE ACTION IN THE EVENT OF EXCESSIVE FLUCTUATION IN ECONOMIC ACTIVITY AND MARKETS, AND THAT THE GOVERNMENT EXPECTS…
+- 10/01 09:02 [FirstSquawk] BANK OF JAPAN'S SEPTEMBER SUMMARY OF OPINIONS SHOWS ONE MEMBER SAID THERE HAS BEEN A SIGNIFICANT REGIME SHIFT IN JAPAN'S FINANCIAL CONDITIONS WITH HEIGHTENED UPWARD PRICE PRESSURES, WHICH HAS BECOME INCREASINGLY EVIDENT OVER THE PAST FEW MO…
+- 10/01 09:03 [FirstSquawk] BANK OF JAPAN'S SEPTEMBER SUMMARY SHOWS ONE MEMBER SAID UPSIDE RISKS TO PRICES CONTINUE TO BE HIGH AND THAT THE BOJ MUST CONSIDER THE PRICE OUTLOOK KEEPING IN MIND CRUDE OIL PRICES COULD REMAIN HIGH, WHILE ANOTHER NOTED PRIVATE CONSUMPTION …
+- 10/01 09:04 [FirstSquawk] US NATURAL GAS FUTURES ROSE 0.5% TO $3.026/MMBTU AS LOWER-48 OUTPUT REMAINED NEAR ITS LOWEST LEVEL SINCE JANUARY, WITH DRILLERS LIMITING PRODUCTION AHEAD OF WINTER. EIA STORAGE GROWTH IS EXPECTED TO SLOW TO ABOUT 63 BCF, BELOW THE 80 BCF FI…
+- 10/01 09:05 [FirstSquawk] Drugmakers race to develop next-gen drugs aimed at protecting muscle while driving fat loss during rapid weight reduction - WSJ
+- 10/01 09:07 [FirstSquawk] AUSTRALIA’S S&P/ASX 200 FALLS 0.8% TO 8,721.40 POINTS IN EARLY TRADE
+- 10/01 09:10 [FirstSquawk] SAUDI ARABIA RAISED ITS PROJECTED 2026 BUDGET DEFICIT TO 4.9% OF GDP FROM 3.3%, WITH SPENDING EXPECTED AT ABOUT 1.4 TRILLION RIYALS AS DEFENSE, INFRASTRUCTURE AND ECONOMIC-DIVERSIFICATION OUTLAYS INCREASE. RIYADH ALSO CUT ITS 2026 REAL GDP …
+- 10/01 09:15 [financialjuice/FirstSquawk] ❗ U.S. official: Secretary Rubio kicked out the Iranian delegation who had over stayed their welcome. The UN general assembly was over, so it was time for them to go - Axios Reporter on X
+- 10/01 09:24 [FirstSquawk] 3. Asia-Pacific equities trade mixed at the open following a similar performance on Wall Street, with markets weighing fresh data and rising yields despite softer PCE inflation.
+- 10/01 09:25 [FirstSquawk] Asia-Pacific equities trade mixed at the open following a similar performance on Wall Street, with markets weighing fresh data and rising yields despite softer PCE inflation.
+- 10/01 09:25 [FirstSquawk] Nidec shares sink 18.5%
+- 10/01 09:28 [FirstSquawk] US State Department: Four Americans were aboard Flydubai flight bound for Israel
