@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 10:46 JST／対象: 10/01 04:46 〜 10/01 10:46 JST（時刻はすべて日本時間）
+生成: 2026-10-01 11:01 JST／対象: 10/01 05:01 〜 10/01 11:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 10/01 05:45 | 10/01 06:15 | 15分（05:52→06:07） |
-| FirstSquawk | 126 | 10/01 04:48 | 10/01 10:43 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 134 | 10/01 04:50 | 10/01 10:39 | 36分（07:29→08:05） |
+| FirstSquawk | 119 | 10/01 05:02 | 10/01 10:59 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 130 | 10/01 05:01 | 10/01 10:59 | 36分（07:29→08:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 261 行（統合前 268 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 252 行（統合前 256 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 04:48 [FirstSquawk] FLYDUBAI SAYS ITS FLIGHTS TO AND FROM ISRAEL WILL BE SUSPENDED WHILE THE INVESTIGATION CONTINUES, ADDING THAT THE TEMPORARY SUSPENSION WILL ALLOW THE RELEVANT AUTHORITIES TO CONTINUE THEIR WORK AND ESTABLISH ALL THE FACTS SURROUNDING THE IN…
-- 10/01 04:48 [FirstSquawk] FLYDUBAI SAYS IT REMAINS IN CLOSE COORDINATION WITH GOVERNMENT AUTHORITIES, REGULATORS AND AIRPORT STAKEHOLDERS AND WILL REVIEW THE SUSPENSION AS MORE INFORMATION BECOMES AVAILABLE - STATEMENT
-- 10/01 04:49 [FirstSquawk] TRUMP SAYS HE ASKED ATTORNEY GENERAL TO STUDY FEDERAL RESERVE REPORT
-- 10/01 04:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: -6771.9 MLN NASDAQ 100: -2790.7 MLN DOW 30: -2444.3 MLN MAG 7: -1731.5 MLN $MACRO
-- 10/01 04:51 [financialjuice/FirstSquawk] AI can exhibit 'self-preserving behaviors,' 'resist shutdown,’ ’conceal or manipulate information' - Anthropic's IPO Filing.
-- 10/01 04:51 [FirstSquawk] TRUMP SAYS FED CHAIR POWELL SHOULD BE “FORCED TO RESIGN”; ASKS ATTORNEY GENERAL BLANCHE TO REVIEW FED REPORT
-- 10/01 04:53 [financialjuice] Google grapples with employee skepticism about the new Gemini Model $GOOGL
-- 10/01 04:54 [FirstSquawk] GOOGLE GRAPPLES WITH EMPLOYEE SKEPTICISM ABOUT THE NEW GEMINI MODEL
-- 10/01 04:54 [financialjuice] US Sec. of Defense Hegseth finishes remarks
-- 10/01 04:56 [FirstSquawk] META'S OVERSIGHT BOARD HAS CALLED FOR INDEPENDENT OVERSIGHT OF AI COMPANIES, SAYING AI OVERSIGHT BODIES SHOULD BE SEPARATE AND INDEPENDENT FROM THE COMPANIES THEY OVERSEE.
-- 10/01 04:56 [FirstSquawk] META'S OVERSIGHT BOARD SAYS ANY AI OVERSIGHT BODY SHOULD HAVE A DIVERSE COMPOSITION AND MUST NOT OPERATE IN ISOLATION.
-- 10/01 04:56 [FirstSquawk] SYRIA'S ELECTRICITY COMPANY SAYS THE DEIR ALI, NASIRIYAH AND TISHREEN POWER PLANTS HAVE GONE OFFLINE AFTER AN EXPLOSION ON A GAS PIPELINE SUPPLYING THE TISHREEN THERMAL POWER PLANT NEAR THE TOWN OF AL-OTAIBA, WITH THE BLAST CUTTING GAS SUPP…
-- 10/01 04:56 [FirstSquawk] THE SHUTDOWN IS EXPECTED TO REDUCE ELECTRICITY GENERATION AND TEMPORARILY INCREASE POWER CUTS ACROSS THE COUNTRY, THE COMPANY SAID - SANA
-- 10/01 04:58 [financialjuice/FirstSquawk] The pilot planned to seize control of the cockpit over Jordan and crash it in Israeli territory - Israel's N12 News
 - 10/01 05:01 [financialjuice] $MU Micron Q4 Earnings Adjusted revenue $54.23B, est. $51.49B Adjusted gross margin 87%, est. 86.2% Cloud Memory revenue $16.28B, est. $15.14B Mobile & Client revenue $13.11B, est. $12.95B Automotive & Embedded revenue $6.82B, est. $4.73B
 - 10/01 05:02 [FirstSquawk] GOOGLE SAYS THAT FOR TRUSTED DEFENDERS AND ITS OWN INTERNAL TEAMS, IT WILL RELEASE ARGON WITHOUT CYBER GUARDRAILS, AND THAT IT IS DEPLOYING MISALIGNMENT MITIGATIONS THAT MONITOR ARGON'S CHAIN-OF-THOUGHT AND ACTIONS AND STOP EXECUTION WHEN N…
 - 10/01 05:02 [FirstSquawk] GOOGLE SAYS THAT TO SUPPORT GEMINI 4 ARGON'S CAPABILITIES, IT IS SIGNIFICANTLY EXPANDING THE MODEL'S OUTPUT TOKEN LIMIT TO 1 MLN TOKENS.
@@ -48,6 +34,7 @@
 - 10/01 05:03 [FirstSquawk] DOW JONES CLOSES 0.70% LOWER AT 50,990.13, DOWN 359.79 POINTS
 - 10/01 05:04 [financialjuice] Alphabet's Pichai: Introducing Gemini 4 Argon. $GOOGL
 - 10/01 05:06 [financialjuice] Google sets Argon pricing at $2/M input, $10/M output tokens. $GOOGL
+- 10/01 05:07 [FirstSquawk] THE PILOT PLANNED TO SEIZE CONTROL OF THE COCKPIT OVER JORDAN AND CRASH IT IN ISRAELI TERRITORY - ISRAEL'S N12 NEWS
 - 10/01 05:07 [financialjuice] Google: We are engaged in the US Government’s voluntary process on models. $GOOGL
 - 10/01 05:07 [FirstSquawk] MICRON POSTED Q4 ADJUSTED REVENUE OF $54.23 BLN, ABOVE THE $51.49 BLN ESTIMATE, WITH ADJUSTED EPS OF $33.42 VERSUS $31.83 EXPECTED, ADJUSTED OPERATING INCOME OF $44.64 BLN AND AN ADJUSTED GROSS MARGIN OF 87%, AS CORE DATA CENTER REVENUE OF …
 - 10/01 05:07 [FirstSquawk] MICRON SEES Q1 ADJUSTED REVENUE OF $60 BLN-$63 BLN VERSUS $56.77 BLN EXPECTED AND Q1 ADJUSTED EPS OF $37.15-$39.15 VERSUS $36.02 EXPECTED, WITH A Q1 ADJUSTED GROSS MARGIN OF ABOUT 86.3%.
@@ -285,3 +272,7 @@
 - 10/01 10:43 [FirstSquawk] SK Hynix to assess shareholder protection measures tied to Solidigm
 - 10/01 10:43 [FirstSquawk] 20-year Japanese government bond yield advances 4.5bp to 3.945%
 - 10/01 10:43 [FirstSquawk] 30-year Japanese government bond yield gains 5.0bp to 4.190%
+- 10/01 10:50 [FirstSquawk] CAD vulnerable around two-month low with USD holding bullish momentum - FX
+- 10/01 10:57 [FirstSquawk] Japan’s 10-year JGB yield gains 5.0bp to 3.110%
+- 10/01 10:59 [FirstSquawk] South Korea ministry says investment in US Alaska LNG project remains undecided — Yonhap
+- 10/01 10:59 [financialjuice] South Korea industry ministry: US Alaska LNG project investment still undecided - Yonhap

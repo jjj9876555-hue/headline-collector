@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-01 10:46 JST／対象: 09/30 22:46 〜 10/01 10:46 JST（時刻はすべて日本時間）
+生成: 2026-10-01 11:01 JST／対象: 09/30 23:01 〜 10/01 11:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 40 | 09/30 22:54 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
-| FirstSquawk | 190 | 09/30 22:47 | 10/01 10:43 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 218 | 09/30 22:52 | 10/01 10:39 | 36分（07:29→08:05） |
+| DeItaone | 38 | 09/30 23:05 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
+| FirstSquawk | 188 | 09/30 23:03 | 10/01 10:59 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 215 | 09/30 23:02 | 10/01 10:59 | 36分（07:29→08:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 435 行（統合前 450 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 428 行（統合前 443 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 22:47 [FirstSquawk] PM MODI: HAD A PRODUCTIVE CONVERSATION WITH US PRESIDENT TRUMP
-- 09/30 22:48 [FirstSquawk] PM MODI: ALSO EXCHANGED VIEWS ON REGIONAL AND INTERNATIONAL ISSUES, INCLUDING ONGOING EFFORTS TO ADVANCE GLOBAL PEACE AND SECURITY
-- 09/30 22:50 [FirstSquawk] ISRAEL DEFENCE MINISTER KATZ: INCIDENT ABOARD FLYDUBAI FLIGHT WAS A 'JIHADIST TERROR ATTACK' ATTEMPT
-- 09/30 22:51 [FirstSquawk] TRUMP TO ANNOUNCE 8 NUCLEAR POWER PLANTS FUNDED BY S.KOREA
-- 09/30 22:52 [financialjuice] White House Official: Trump to announce 8 nuclear power plants funded by South Korea. Announcing South Korea’s $200 bln investment in US
-- 09/30 22:53 [financialjuice] EASA issues advisory to airlines over Saudi airspace following recent increase in Houthi attacks
-- 09/30 22:53 [financialjuice] Latest EASA advisory does not mention Wednesday's incident involving diverted FlyDubai airliner.
-- 09/30 22:54 [DeItaone] *TRUMP ANNOUNCING TODAY SOUTH KOREA'S $200B INVESTMENT IN US *TRUMP TO ANNOUNCE 8 NUCLEAR POWER PLANTS FUNDED BY S.KOREA
-- 09/30 22:55 [FirstSquawk] WHITE HOUSE OFFICIAL: TRUMP WILL BE ANNOUNCING SOUTH KOREA'S $200 BLN INVESTMENT IN US TODAY
-- 09/30 22:55 [financialjuice] China's MOFCOM: China and Canada hold meeting on economy and trade
-- 09/30 22:55 [DeItaone] FTC LAUNCHES INDUSTRY-WIDE AI PROBE AFTER HUGGING FACE INCIDENT The U.S. Federal Trade Commission is conducting an industry-wide AI investigation following the Hugging Face incident, according to a source. The FTC reportedly plans to issue …
 - 09/30 23:02 [financialjuice] NATO Sec. Gen. Rutte: US will stay involved in conventional defence of Europe, as well as nuclear.
 - 09/30 23:03 [FirstSquawk/DeItaone] MEXICO GROWS CONFIDENT ON US DEAL TO CUT STEEL, AUTO TARIFFS
 - 09/30 23:05 [FirstSquawk] APPLE’S $2,000 FOLDABLE IPHONE COULD SELL 6 MILLION UNITS Apple’s rumored first foldable iPhone, expected to cost around $2,000, could reportedly sell as many as 6 million units. The device is expected to bring Apple’s design, software, and…
@@ -459,3 +448,7 @@
 - 10/01 10:43 [FirstSquawk] SK Hynix to assess shareholder protection measures tied to Solidigm
 - 10/01 10:43 [FirstSquawk] 20-year Japanese government bond yield advances 4.5bp to 3.945%
 - 10/01 10:43 [FirstSquawk] 30-year Japanese government bond yield gains 5.0bp to 4.190%
+- 10/01 10:50 [FirstSquawk] CAD vulnerable around two-month low with USD holding bullish momentum - FX
+- 10/01 10:57 [FirstSquawk] Japan’s 10-year JGB yield gains 5.0bp to 3.110%
+- 10/01 10:59 [FirstSquawk] South Korea ministry says investment in US Alaska LNG project remains undecided — Yonhap
+- 10/01 10:59 [financialjuice] South Korea industry ministry: US Alaska LNG project investment still undecided - Yonhap

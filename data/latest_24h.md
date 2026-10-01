@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-01 10:46 JST／対象: 09/30 10:46 〜 10/01 10:46 JST（時刻はすべて日本時間）
+生成: 2026-10-01 11:01 JST／対象: 09/30 11:01 〜 10/01 11:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 75 | 09/30 18:55 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
-| FirstSquawk | 370 | 09/30 10:47 | 10/01 10:43 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 329 | 09/30 10:57 | 10/01 10:39 | ⚠ 80分（10:57→12:18） |
+| FirstSquawk | 368 | 09/30 11:02 | 10/01 10:59 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 329 | 09/30 12:18 | 10/01 10:59 | ⚠ 58分（14:00→14:59） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 754 行（統合前 776 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 752 行（統合前 774 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 10:47 [FirstSquawk] China RatingDog Manufacturing PMI Sep: 52.1 (est 51.7; prev 51.5)
-- 09/30 10:47 [FirstSquawk] China RatingDog Services PMI: 51.6 (est 51.3; prev 51.4)
-- 09/30 10:47 [FirstSquawk] China RatingDog Composite PMI: 52.4 (prev 52.1)
-- 09/30 10:57 [FirstSquawk] Toys R Us weighs Japan exit through sale of local business to Don Quijote operator
-- 09/30 10:57 [financialjuice] Russian air strike on Ukraine's Kyiv region wounds three, kills one: official
-- 09/30 10:58 [FirstSquawk] Russian strike on Kyiv region kills one, injures three, official says
 - 09/30 11:02 [FirstSquawk] Sri Lanka central bank leaves overnight policy rate unchanged at 8.75%
 - 09/30 11:03 [FirstSquawk] Fitch confirms Bank of Queensland’s mortgage covered bond programmes at AAA with stable outlook
 - 09/30 11:07 [FirstSquawk] Sri Lanka central bank says current account likely recorded a surplus in August 2026
@@ -778,3 +772,7 @@
 - 10/01 10:43 [FirstSquawk] SK Hynix to assess shareholder protection measures tied to Solidigm
 - 10/01 10:43 [FirstSquawk] 20-year Japanese government bond yield advances 4.5bp to 3.945%
 - 10/01 10:43 [FirstSquawk] 30-year Japanese government bond yield gains 5.0bp to 4.190%
+- 10/01 10:50 [FirstSquawk] CAD vulnerable around two-month low with USD holding bullish momentum - FX
+- 10/01 10:57 [FirstSquawk] Japan’s 10-year JGB yield gains 5.0bp to 3.110%
+- 10/01 10:59 [FirstSquawk] South Korea ministry says investment in US Alaska LNG project remains undecided — Yonhap
+- 10/01 10:59 [financialjuice] South Korea industry ministry: US Alaska LNG project investment still undecided - Yonhap
