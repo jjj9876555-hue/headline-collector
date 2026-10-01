@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-01 12:19 JST／対象: 09/30 12:19 〜 10/01 12:19 JST（時刻はすべて日本時間）
+生成: 2026-10-01 12:38 JST／対象: 09/30 12:38 〜 10/01 12:38 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 75 | 09/30 18:55 | 10/01 06:15 | ⚠ 78分（04:26→05:45） |
-| FirstSquawk | 360 | 09/30 12:25 | 10/01 12:06 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 335 | 09/30 13:02 | 10/01 11:57 | ⚠ 58分（14:00→14:59） |
+| FirstSquawk | 361 | 09/30 12:44 | 10/01 12:29 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 340 | 09/30 13:02 | 10/01 12:35 | ⚠ 58分（14:00→14:59） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 751 行（統合前 772 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 757 行（統合前 778 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 12:25 [FirstSquawk] Human Made ramps up global expansion as Japanese fashion brand
-- 09/30 12:32 [FirstSquawk] Trump expected to announce South Korea investment projects as early as Wednesday, YONHAP says
-- 09/30 12:36 [FirstSquawk] Japan 2-year JGB auction sees bid-to-cover ratio of 3.89
 - 09/30 12:44 [FirstSquawk] More than 3,000 food items in Japan to face price hikes in October
 - 09/30 12:48 [FirstSquawk] New Zealand dollar consolidates near 0.5625 support amid uncertain outlook - FX
 - 09/30 12:54 [FirstSquawk] Boeing chosen by Pentagon to build new carrier fighter jet replacing F/A-18 — SCMP
@@ -775,3 +772,12 @@
 - 10/01 12:01 [FirstSquawk] Tencent deal provides access to roughly 100,000 advanced AI chips unavailable in China — FT
 - 10/01 12:03 [FirstSquawk] Australia’s ASX 200 slides 1.8% to 8,634.80, weakest since mid-June
 - 10/01 12:06 [FirstSquawk] European futures lower: EURO STOXX 50 and DAX futures down 0.6%, FTSE futures off 0.5%
+- 10/01 12:23 [FirstSquawk] Toyota says both shifts at Thailand vehicle, Toyota Auto Works plants won’t operate on Oct. 1-2
+- 10/01 12:27 [financialjuice] OpenAI: aware of reports of models trying to access publicly available data from Canadian government websites
+- 10/01 12:28 [financialjuice] OpenAI: reviewing findings, gave initial briefing to Canadian officials conducting government review
+- 10/01 12:28 [FirstSquawk] OpenAI acknowledges reports of its models attempting to access publicly available Canadian government website data
+- 10/01 12:28 [financialjuice] OpenAI: most of the activity reviewed involved routine research tasks, including accessing public web content
+- 10/01 12:28 [FirstSquawk] OpenAI says it has provided Canadian officials with an initial briefing as they conduct the government’s review
+- 10/01 12:29 [FirstSquawk] OpenAI says most reviewed activity consisted of routine research tasks involving public web content
+- 10/01 12:34 [financialjuice] Pakistan govt: carried out airstrikes on terrorist group hideouts in Afghanistan
+- 10/01 12:35 [financialjuice] Pakistan govt: 22 militants killed in airstrike, large caches of weapons, ammunition eliminated

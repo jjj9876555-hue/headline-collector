@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-01 12:19 JST／対象: 10/01 06:19 〜 10/01 12:19 JST（時刻はすべて日本時間）
+生成: 2026-10-01 12:38 JST／対象: 10/01 06:38 〜 10/01 12:38 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 109 | 10/01 06:25 | 10/01 12:06 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 123 | 10/01 06:22 | 10/01 11:57 | 36分（07:29→08:05） |
+| FirstSquawk | 106 | 10/01 07:49 | 10/01 12:29 | ⚠ 54分（07:50→08:44） |
+| financialjuice | 121 | 10/01 06:45 | 10/01 12:35 | 36分（07:29→08:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 229 行（統合前 232 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 226 行（統合前 227 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 06:22 [financialjuice] OpenAI executive withdraws second $25 million contribution to AI super PAC: NYT
-- 10/01 06:22 [financialjuice] OpenAI's Greg Brockman withdraws from second $25 million donation to a super PAC - NYT
-- 10/01 06:22 [financialjuice] US energy secretary Wright: will make some announcements on diesel
-- 10/01 06:23 [financialjuice] US energy secretary Wright: to receive updates from Europe on fresh diesel supplies
-- 10/01 06:23 [financialjuice/FirstSquawk] Climate change causes 6C temperature rise per decade, experts warn
-- 10/01 06:25 [FirstSquawk] US ENERGY SECRETARY WRIGHT: DIESEL SUPPLY ANNOUNCEMENTS EXPECTED FROM US & EUROPE
-- 10/01 06:28 [FirstSquawk] YEMENI FORCES DESTROYED AN IRANIAN-DEVELOPED MOBILE AIR DEFENCE SYSTEM IN AL-MOKHA - AL ARABIYA, WITH THE YEMENI ARMED FORCES SAYING THEY DESTROYED HOUTHI REINFORCEMENTS AND WEAPONS
-- 10/01 06:29 [FirstSquawk] TRUMP SAYS ON LONG-TERM TREASURY AUCTIONS THAT BESSENT 'HAS GOOD INSTINCTS', AND THAT HE IS CONSIDERING A DIESEL EXPORT BAN DAILY, THOUGH IT COULD HAVE A NEGATIVE IMPACT ON GASOLINE, ADDING THAT THE U.S. HAS 'TOTAL CONTROL OF THE STRAIT OF …
-- 10/01 06:29 [FirstSquawk] TRUMP SAYS ON CHINA AND AI THAT 'THEY'RE GOING FULL BLAST'.
-- 10/01 06:29 [FirstSquawk/financialjuice] SOUTH KOREA URGES GOVERNMENT TO BOOST INVESTMENTS IN ELECTRIC VEHICLE SECTOR
-- 10/01 06:29 [financialjuice] Fed's Goolsbee: record gap between consumer sentiment vibes and actual spending data
-- 10/01 06:31 [FirstSquawk] U.S. CENTRAL COMMAND SAYS THAT AS OF SEPT. 30, CENTCOM FORCES HAVE REDIRECTED 125 COMMERCIAL VESSELS TO ENSURE STRICT COMPLIANCE, WITH THE USS GEORGE H.W. BUSH (CVN 77) SAILING IN THE ARABIAN SEA SUPPORTING ENFORCEMENT OF THE U.S. BLOCKADE …
 - 10/01 06:45 [financialjuice] NEW ZEALAND BUILDING CONSENTS ACTUAL 5.6% (FORECAST -, PREVIOUS -4.3%) $MACRO
 - 10/01 06:45 [financialjuice] New Zealand seasonally adjusted new dwelling consents increase 5.6% in August versus previous month
 - 10/01 07:02 [financialjuice] Fed's Kashkari: Inflation still too high, about 3%, new data doesn't alter outlook
@@ -253,3 +241,12 @@
 - 10/01 12:01 [FirstSquawk] Tencent deal provides access to roughly 100,000 advanced AI chips unavailable in China — FT
 - 10/01 12:03 [FirstSquawk] Australia’s ASX 200 slides 1.8% to 8,634.80, weakest since mid-June
 - 10/01 12:06 [FirstSquawk] European futures lower: EURO STOXX 50 and DAX futures down 0.6%, FTSE futures off 0.5%
+- 10/01 12:23 [FirstSquawk] Toyota says both shifts at Thailand vehicle, Toyota Auto Works plants won’t operate on Oct. 1-2
+- 10/01 12:27 [financialjuice] OpenAI: aware of reports of models trying to access publicly available data from Canadian government websites
+- 10/01 12:28 [financialjuice] OpenAI: reviewing findings, gave initial briefing to Canadian officials conducting government review
+- 10/01 12:28 [FirstSquawk] OpenAI acknowledges reports of its models attempting to access publicly available Canadian government website data
+- 10/01 12:28 [financialjuice] OpenAI: most of the activity reviewed involved routine research tasks, including accessing public web content
+- 10/01 12:28 [FirstSquawk] OpenAI says it has provided Canadian officials with an initial briefing as they conduct the government’s review
+- 10/01 12:29 [FirstSquawk] OpenAI says most reviewed activity consisted of routine research tasks involving public web content
+- 10/01 12:34 [financialjuice] Pakistan govt: carried out airstrikes on terrorist group hideouts in Afghanistan
+- 10/01 12:35 [financialjuice] Pakistan govt: 22 militants killed in airstrike, large caches of weapons, ammunition eliminated
