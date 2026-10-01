@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-01 17:49 JST／対象: 10/01 05:49 〜 10/01 17:49 JST（時刻はすべて日本時間）
+生成: 2026-10-01 18:01 JST／対象: 10/01 06:01 〜 10/01 18:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 12 | 10/01 05:52 | 10/01 17:29 | ⚠ 610分（06:15→16:25） |
-| FirstSquawk | 187 | 10/01 05:50 | 10/01 17:39 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 184 | 10/01 05:57 | 10/01 17:30 | ⚠ 52分（14:07→15:00） |
+| DeItaone | 12 | 10/01 06:07 | 10/01 17:52 | ⚠ 610分（06:15→16:25） |
+| FirstSquawk | 186 | 10/01 06:17 | 10/01 17:58 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 187 | 10/01 06:08 | 10/01 18:00 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 380 行（統合前 383 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 382 行（統合前 385 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 05:50 [FirstSquawk] CMS SAYS IT HAS FINALIZED THE GLOBE MODEL TO DELIVER LOWER DRUG PRICES FOR BENEFICIARIES IN ORIGINAL MEDICARE PART B, WITH THE MODEL OPERATING FOR FIVE YEARS BEGINNING JANUARY 1, 2027 AND ENDING MARCH 31, 2032, THOUGH IT EXCLUDES BIOSIMILAR…
-- 10/01 05:50 [FirstSquawk] CMS SAYS SELECTED BENEFICIARIES IMPACTED BY THE GLOBE MODEL MAY BEGIN TO SEE REDUCED OUT-OF-POCKET COSTS FROM APRIL 1, 2027.
-- 10/01 05:52 [DeItaone] MUSK RETURNS TO PENTAGON ROLE FOR FUTURE WARFARE STUDY Elon Musk, Palmer Luckey and Newt Gingrich will lead “Project Meridian,” a Pentagon study examining the future of warfare, Defense Secretary Pete Hegseth announced. The group will focus…
-- 10/01 05:55 [FirstSquawk] PENTAGON NAMES MUSK AND LUCKEY TO LEAD WAR STUDY - AXIOS
-- 10/01 05:57 [financialjuice] Trump reiterates gasoline prices will drop after the Iran war ends
-- 10/01 05:59 [financialjuice] US and South Korea Launch $22.3 Billion Texas Gas Power Project for AI Data Centers
-- 10/01 06:00 [financialjuice] Trump on FlyDubai incident: I did speak to Netanyahu
 - 10/01 06:07 [DeItaone] *TRUMP: INFLATION NUMBERS ARE WAY DOWN OTHER THAN FOR OIL
 - 10/01 06:08 [financialjuice] Trump on UK base incident: will learn this afternoon why UK freed suspects
 - 10/01 06:13 [DeItaone] *TRUMP ASKED ABOUT POWELL, WARSH: WARSH WILL DO HIS OWN THING
@@ -404,3 +397,12 @@
 - 10/01 17:33 [FirstSquawk] TAKAICHI WILL NEED MORE TIME TO ENSURE LONG-LASTING REAL WAGE INCREASES.
 - 10/01 17:39 [FirstSquawk] ZELENSKYY ANNOUNCES UKRAINE ATTACKED AN OIL FACILITY IN RUSSIA'S SAMARA REGION.
 - 10/01 17:39 [FirstSquawk] UK GOVERNMENT RENEWS £190M CONTRACT WITH AIRBUS TO ASSIST RAF FLEET.
+- 10/01 17:52 [DeItaone] U.K. 30-YEAR GILT HIT 6.029%, HIGHEST SINCE 1998: LSEG
+- 10/01 17:57 [financialjuice] FRENCH 10 YR OAT YIELD ACTUAL 4.93% (FORECAST -, PREVIOUS 4.23%) $MACRO
+- 10/01 17:57 [financialjuice] FRENCH 10 YR OAT BID-TO-COVER ACTUAL 2 (FORECAST -, PREVIOUS 2.28) $MACRO
+- 10/01 17:57 [financialjuice] FRENCH 20 YR OAT YIELD ACTUAL 5.4% (FORECAST -, PREVIOUS 4.74%) $MACRO
+- 10/01 17:57 [financialjuice] Japan Economy Minister Kiuchi: Won't comment on BoJ summary of opinions.
+- 10/01 17:57 [financialjuice] FRENCH 20 YR OAT BID-TO-COVER ACTUAL 2.43 (FORECAST -, PREVIOUS 3.07) $MACRO
+- 10/01 17:58 [FirstSquawk] JAPAN'S ECONOMY MINISTER KIUCHI REFUSED TO COMMENT ON THE BANK OF JAPAN'S SUMMARY OF OPINIONS.
+- 10/01 17:58 [FirstSquawk] JAPAN'S ECONOMY MINISTER KIUCHI STATES THAT THE DECISION ON SPECIFIC MONETARY TOOLS RESTS WITH THE BANK OF JAPAN.
+- 10/01 18:00 [financialjuice] ❗ EUROZONE UNEMPLOYMENT RATE ACTUAL 6.4% (FORECAST 6.4%, PREVIOUS 6.4%) $MACRO

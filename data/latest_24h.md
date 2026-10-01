@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-01 17:49 JST／対象: 09/30 17:49 〜 10/01 17:49 JST（時刻はすべて日本時間）
+生成: 2026-10-01 18:01 JST／対象: 09/30 18:01 〜 10/01 18:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 82 | 09/30 18:55 | 10/01 17:29 | ⚠ 610分（06:15→16:25） |
-| FirstSquawk | 351 | 09/30 18:02 | 10/01 17:39 | ⚠ 78分（06:31→07:49） |
-| financialjuice | 355 | 09/30 18:01 | 10/01 17:30 | ⚠ 52分（14:07→15:00） |
+| DeItaone | 83 | 09/30 18:55 | 10/01 17:52 | ⚠ 610分（06:15→16:25） |
+| FirstSquawk | 353 | 09/30 18:02 | 10/01 17:58 | ⚠ 78分（06:31→07:49） |
+| financialjuice | 356 | 09/30 18:02 | 10/01 18:00 | ⚠ 52分（14:07→15:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 769 行（統合前 790 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 773 行（統合前 794 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/30 18:01 [financialjuice] Top house judiciary committee Democrat Raskin seeks information on data center NDAs - According to Letters Reviewed by WSJ
-- 09/30 18:01 [financialjuice] ITALIAN CPI MOM PRELIM ACTUAL 0.7% (FORECAST 0.3%, PREVIOUS 0.5%) $MACRO
-- 09/30 18:01 [financialjuice] ITALIAN HICP PRELIM MOM ACTUAL 2.0% (FORECAST 1.7%, PREVIOUS 0.1%) $MACRO
-- 09/30 18:01 [financialjuice] ITALIAN CPI YOY PRELIM ACTUAL 4.2% (FORECAST 3.7%, PREVIOUS 3.3%) $MACRO
-- 09/30 18:01 [financialjuice] ITALIAN HICP PRELIM YOY ACTUAL 4.1% (FORECAST 3.7%, PREVIOUS 3.2%) $MACRO
 - 09/30 18:02 [FirstSquawk] ITALY'S PRELIMINARY SEPTEMBER HARMONIZED CPI INCREASES 4.1% YEAR-OVER-YEAR, ABOVE ESTIMATE OF 3.7%.
 - 09/30 18:02 [financialjuice] Rep. Raskin sent letters to Amazon, Google, Meta, Oracle - WSJ.
 - 09/30 18:04 [FirstSquawk] META AVOIDS BILLIONS IN FEDERAL TAXES BY CLASSIFYING ITS DATA CENTRES AS EXPERIMENTAL - NYT
@@ -793,3 +788,12 @@
 - 10/01 17:33 [FirstSquawk] TAKAICHI WILL NEED MORE TIME TO ENSURE LONG-LASTING REAL WAGE INCREASES.
 - 10/01 17:39 [FirstSquawk] ZELENSKYY ANNOUNCES UKRAINE ATTACKED AN OIL FACILITY IN RUSSIA'S SAMARA REGION.
 - 10/01 17:39 [FirstSquawk] UK GOVERNMENT RENEWS £190M CONTRACT WITH AIRBUS TO ASSIST RAF FLEET.
+- 10/01 17:52 [DeItaone] U.K. 30-YEAR GILT HIT 6.029%, HIGHEST SINCE 1998: LSEG
+- 10/01 17:57 [financialjuice] FRENCH 10 YR OAT YIELD ACTUAL 4.93% (FORECAST -, PREVIOUS 4.23%) $MACRO
+- 10/01 17:57 [financialjuice] FRENCH 10 YR OAT BID-TO-COVER ACTUAL 2 (FORECAST -, PREVIOUS 2.28) $MACRO
+- 10/01 17:57 [financialjuice] FRENCH 20 YR OAT YIELD ACTUAL 5.4% (FORECAST -, PREVIOUS 4.74%) $MACRO
+- 10/01 17:57 [financialjuice] Japan Economy Minister Kiuchi: Won't comment on BoJ summary of opinions.
+- 10/01 17:57 [financialjuice] FRENCH 20 YR OAT BID-TO-COVER ACTUAL 2.43 (FORECAST -, PREVIOUS 3.07) $MACRO
+- 10/01 17:58 [FirstSquawk] JAPAN'S ECONOMY MINISTER KIUCHI REFUSED TO COMMENT ON THE BANK OF JAPAN'S SUMMARY OF OPINIONS.
+- 10/01 17:58 [FirstSquawk] JAPAN'S ECONOMY MINISTER KIUCHI STATES THAT THE DECISION ON SPECIFIC MONETARY TOOLS RESTS WITH THE BANK OF JAPAN.
+- 10/01 18:00 [financialjuice] ❗ EUROZONE UNEMPLOYMENT RATE ACTUAL 6.4% (FORECAST 6.4%, PREVIOUS 6.4%) $MACRO
