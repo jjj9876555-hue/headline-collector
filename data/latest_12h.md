@@ -7,29 +7,24 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-03 03:52 JST／対象: 10/02 15:52 〜 10/03 03:52 JST（時刻はすべて日本時間）
+生成: 2026-10-03 04:06 JST／対象: 10/02 16:06 〜 10/03 04:06 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 60 | 10/02 17:55 | 10/03 02:33 | ⚠ 124分（00:28→02:33） |
-| FirstSquawk | 126 | 10/02 15:57 | 10/03 03:38 | 44分（20:46→21:31） |
-| financialjuice | 157 | 10/02 16:01 | 10/03 03:32 | ⚠ 49分（18:00→18:49） |
+| FirstSquawk | 128 | 10/02 16:08 | 10/03 04:06 | 44分（20:46→21:31） |
+| financialjuice | 159 | 10/02 16:30 | 10/03 04:04 | ⚠ 49分（18:00→18:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 330 行（統合前 344 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 335 行（統合前 348 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 15:57 [FirstSquawk] GOLD HOLDS BELOW $4,200 AS TRADERS AWAIT U.S. JOBS DATA FOR FED RATE-CUT CLUES - FX
-- 10/02 16:01 [FirstSquawk] SPAIN UNEMPLOYMENT CHANGE SEP: 23.6K (PREV 44.4K)
-- 10/02 16:01 [FirstSquawk] SPAIN EMPLOYMENT NET CHANGE (M/M): 108.8K (PREV 83.8K)
-- 10/02 16:01 [financialjuice] Currency Strength Chart: Strongest: CHF, JPY, NZD, EUR, GBP, AUD, CAD, USD - Weakest
-- 10/02 16:03 [financialjuice/FirstSquawk] EU Commissioner Jorgensen: We are discussing with all members of the IEA, not only with the US, when it is time to release diesel
-- 10/02 16:04 [FirstSquawk] BRITAIN'S FTSE 100 UP 0.18% || FRANCE'S CAC 40 UP 0.13% || SPAIN'S IBEX UP 0.23% || GERMANY'S DAX UP 0.2%
+- 10/02 16:08 [FirstSquawk] EU COMMISSIONER JORGENSEN: WE ARE DISCUSSING WITH ALL MEMBERS OF THE IEA, NOT ONLY WITH THE US, WHEN IT IS TIME TO RELEASE DIESEL
 - 10/02 16:24 [FirstSquawk] RUSSIA'S A7 HAS NEVER CARRIED OUT TRANSACTIONS BENEFITING IRAN, ACCORDING TO TASS.
 - 10/02 16:25 [FirstSquawk] JP MORGAN LOWERS NIKE'S TARGET PRICE FROM $40 TO $33.
 - 10/02 16:25 [FirstSquawk] ENI ANNOUNCED A 20% PRICE CUT ON DIESEL AND GASOLINE FOR AGRICULTURAL AND FISHING SECTORS STARTING TODAY UNTIL THE END OF OCTOBER, WITH POTENTIAL EXTENSION THROUGH YEAR-END.
@@ -354,3 +349,13 @@
 - 10/03 03:32 [financialjuice] NYMEX Natural Gas November futures settle at $3.0350/MMBtu.
 - 10/03 03:36 [FirstSquawk] RODRIGUEZ:VENEZUELA MAKES PROGRESS ON PUBLIC, PRIVATE FINANCING
 - 10/03 03:38 [FirstSquawk] FAA DETERMINES 737 MAX SOFTWARE GLITCH DOESN’T POSE SAFETY ISSUE - WSJ
+- 10/03 03:53 [financialjuice] Brent Crude futures settle at $102.25/bbl, down 6 cents, 0.06%.
+- 10/03 03:54 [FirstSquawk] BRENT CRUDE FUTURES SETTLE AT $102.25/BBL, DOWN 6 CENTS, 0.06 PCT
+- 10/03 03:56 [FirstSquawk] DOJ WILL NOT RESUME CRIMINAL INVESTIGATION INTO POWELL, SAYS BLANCHE.
+- 10/03 03:57 [financialjuice] Attorney General Blanche: The DoJ is satisfied with the Fed IG report, and is not reopening the criminal probe into Powell.
+- 10/03 04:02 [financialjuice] Hackers breached the propulsion system of US-bound oil tanker
+- 10/03 04:04 [FirstSquawk] PETROBRAS CEO: FOZ DO AMAZONAS OIL SOME OF BEST IN BRAZIL
+- 10/03 04:04 [FirstSquawk] OPENAI HIRES TOP TRUMP AI OFFICIAL TO WORK ON NATIONAL SECURITY – THE INFORMATION
+- 10/03 04:04 [FirstSquawk] HACKERS INVADED THE PROPULSION SYSTEM OF AN OIL TANKER HEADING TO THE U.S.
+- 10/03 04:04 [financialjuice] OpenAI hires ex Trump AI official Lind - The Information
+- 10/03 04:06 [FirstSquawk] MORE REGULATORY PROPOSALS FOR CRYPTO ON THE HORIZON: SEC ATKINS

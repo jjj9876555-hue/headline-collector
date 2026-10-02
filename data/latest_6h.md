@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-03 03:52 JST／対象: 10/02 21:52 〜 10/03 03:52 JST（時刻はすべて日本時間）
+生成: 2026-10-03 04:06 JST／対象: 10/02 22:06 〜 10/03 04:06 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 17 | 10/02 21:54 | 10/03 02:33 | ⚠ 124分（00:28→02:33） |
-| FirstSquawk | 68 | 10/02 22:00 | 10/03 03:38 | 34分（02:50→03:25） |
-| financialjuice | 69 | 10/02 21:56 | 10/03 03:32 | 34分（01:07→01:42） |
+| DeItaone | 15 | 10/02 22:06 | 10/03 02:33 | ⚠ 124分（00:28→02:33） |
+| FirstSquawk | 71 | 10/02 22:09 | 10/03 04:06 | 34分（02:50→03:25） |
+| financialjuice | 70 | 10/02 22:18 | 10/03 04:04 | 34分（01:07→01:42） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 147 行（統合前 155 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 149 行（統合前 157 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 21:54 [DeItaone] *TRUMP, MACRON SPOKE LAST NIGHT TO DISCUSS ENERGY SITUATION: NBC
-- 10/02 21:56 [financialjuice] Israel's Prime Minister Netanyahu: We are investigating whether the pilot was sent, and whoever sent him will pay a very heavy price - i24 News Reporter.
-- 10/02 22:00 [FirstSquawk] EU AMBASSADORS WILL GATHER TODAY TO TALK ABOUT THE DIESEL MARKET.
-- 10/02 22:00 [financialjuice] Effective Fed Funds Rate 3.88% October 1 vs 3.88% September 30.
-- 10/02 22:02 [financialjuice] Tesla Q3 Deliveries Beat Estimates, Energy Storage Deployments Reach 13.7 GWh $TSLA Tesla Q3 total deliveries 486,532 units, above estimate of 456,896 units Tesla Q3 Model 3/Y production 457,387 units, deliveries 478,237 units Tesla Q3 othe…
-- 10/02 22:03 [DeItaone] $TSLA - *TESLA 3Q DELIVERIES 486,532, EST. 463,761 *TESLA 3Q OTHER MODELS DELIVERIES 7,004, EST. 9,759 *TESLA 3Q MODEL 3/Y PRODUCTION 457,387, EST. 481,279 *TESLA 3Q OTHER MODELS PRODUCTION 7,004, EST. 5,944 (2 EST.)
-- 10/02 22:03 [FirstSquawk] TESLA REPORTED 486,532 DELIVERIES FOR Q3, EXCEEDING ESTIMATES OF 463,761. MODEL 3/Y DELIVERIES HIT 478,237, BEATING EXPECTED 462,078. OTHER MODELS DELIVERED 7,004, FALLING SHORT OF 9,759 ANTICIPATED. TOTAL PRODUCTION REACHED 464,391 VEHICLE…
-- 10/02 22:03 [FirstSquawk] ORACLE WILL TAKE ON ABOUT $300 MILLION IN POINT BEACH ENERGY EXPENSES TO COMPLETELY FINANCE PROJECT LIGHTHOUSE ENERGY COSTS.
 - 10/02 22:06 [DeItaone] *EU AMBASSADORS TO MEET THIS AFTERNOON TO DISCUSS DIESEL MARKET
 - 10/02 22:09 [FirstSquawk] NVIDIA RELEASES DGX SPARK 64GB CONFIGURATION THIS MONTH WITH THE ABILITY TO HANDLE 100-BILLION-PARAMETER MODELS. IT WILL BE AVAILABLE ON OCTOBER 23 STARTING AT $4,999 THROUGH KEY PARTNERS.
 - 10/02 22:18 [financialjuice] WH Sr. Adviser Hassett: I am not disappointed in jobs report.
@@ -171,3 +163,13 @@
 - 10/03 03:32 [financialjuice] NYMEX Natural Gas November futures settle at $3.0350/MMBtu.
 - 10/03 03:36 [FirstSquawk] RODRIGUEZ:VENEZUELA MAKES PROGRESS ON PUBLIC, PRIVATE FINANCING
 - 10/03 03:38 [FirstSquawk] FAA DETERMINES 737 MAX SOFTWARE GLITCH DOESN’T POSE SAFETY ISSUE - WSJ
+- 10/03 03:53 [financialjuice] Brent Crude futures settle at $102.25/bbl, down 6 cents, 0.06%.
+- 10/03 03:54 [FirstSquawk] BRENT CRUDE FUTURES SETTLE AT $102.25/BBL, DOWN 6 CENTS, 0.06 PCT
+- 10/03 03:56 [FirstSquawk] DOJ WILL NOT RESUME CRIMINAL INVESTIGATION INTO POWELL, SAYS BLANCHE.
+- 10/03 03:57 [financialjuice] Attorney General Blanche: The DoJ is satisfied with the Fed IG report, and is not reopening the criminal probe into Powell.
+- 10/03 04:02 [financialjuice] Hackers breached the propulsion system of US-bound oil tanker
+- 10/03 04:04 [FirstSquawk] PETROBRAS CEO: FOZ DO AMAZONAS OIL SOME OF BEST IN BRAZIL
+- 10/03 04:04 [FirstSquawk] OPENAI HIRES TOP TRUMP AI OFFICIAL TO WORK ON NATIONAL SECURITY – THE INFORMATION
+- 10/03 04:04 [FirstSquawk] HACKERS INVADED THE PROPULSION SYSTEM OF AN OIL TANKER HEADING TO THE U.S.
+- 10/03 04:04 [financialjuice] OpenAI hires ex Trump AI official Lind - The Information
+- 10/03 04:06 [FirstSquawk] MORE REGULATORY PROPOSALS FOR CRYPTO ON THE HORIZON: SEC ATKINS

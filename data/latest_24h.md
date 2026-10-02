@@ -7,39 +7,29 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-03 03:52 JST／対象: 10/02 03:52 〜 10/03 03:52 JST（時刻はすべて日本時間）
+生成: 2026-10-03 04:06 JST／対象: 10/02 04:06 〜 10/03 04:06 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 61 | 10/02 05:19 | 10/03 02:33 | ⚠ 755分（05:19→17:55） |
-| FirstSquawk | 263 | 10/02 03:54 | 10/03 03:38 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 270 | 10/02 03:56 | 10/03 03:32 | ⚠ 79分（06:41→08:00） |
+| FirstSquawk | 264 | 10/02 04:07 | 10/03 04:06 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 267 | 10/02 04:07 | 10/03 04:04 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 568 行（統合前 595 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 568 行（統合前 593 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 03:54 [FirstSquawk] CHEMUNG CANAL TRUST COMPANY HAS ANNOUNCED A PLAN TO UNIFY UNDER A NEW NAME, PLANNING TO BRING CHEMUNG CANAL AND ITS DIVISIONS CAPITAL BANK AND CANAL BANK UNDER A SINGLE NAME — CANAL BANK & TRUST, N.A. — WITH THE NAME AND LOGO TO BE IMPLEMEN…
-- 10/02 03:54 [FirstSquawk] CHEMUNG FINANCIAL CORP SAYS THE BRAND UNIFICATION WILL NOT AFFECT ITS MISSION, LEADERSHIP OR OWNERSHIP.
-- 10/02 03:55 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 4.37% HIGHER AT $102.31/BBL, UP $4.28
-- 10/02 03:56 [financialjuice] Fed's Bowman Speaks - WATCH LIVE
-- 10/02 03:57 [FirstSquawk] THE TURKISH CENTRAL BANK SAYS IT HAS RAISED THE SME LOAN GROWTH LIMIT TO 5% FROM 4.5% AND LOWERED THE RATIOS FOR MAINTAINING TRY REQUIRED RESERVES IN BLOCKED ACCOUNTS.
-- 10/02 03:58 [FirstSquawk] THE TURKISH CENTRAL BANK SAYS IT HAS CUT THE BLOCKED RESERVE RATIO TO 35% FROM 40% FOR BANKS WITH ASSETS ABOVE 500 BLN LIRA, AND TO 15% FROM 30% FOR BANKS WITH ASSETS OF 100-500 BLN LIRA.
-- 10/02 04:00 [financialjuice/FirstSquawk] Fed's Bowman touts the benefits of the Fed capital plan tied to Treasuries.
-- 10/02 04:05 [financialjuice/FirstSquawk] Saudi-led Coalition intercepted and destroyed four drones launched by Yemen's Houthis toward Khamis Mushait - Statement.
-- 10/02 04:05 [financialjuice] BoC's Senior Dep. Gov. Rogers offers no comment on near-term interest rate path.
-- 10/02 04:06 [financialjuice] BoC's Senior Dep. Gov. Rogers: Targeting home prices with rates risks economic costs.
-- 10/02 04:06 [financialjuice] BoC's Senior Dep. Gov. Rogers: Restoring the affordability of housing will require a broad, sustained effort and a policy mix.
-- 10/02 04:06 [financialjuice] BoC's Senior Dep. Gov. Rogers: More supply, better planning and infrastructure and the right incentives are needed.
 - 10/02 04:07 [financialjuice] BoC's Senior Dep. Gov. Rogers: Canada is on the right track to boosting housing affordability, but has a way to go and needs more time.
 - 10/02 04:07 [financialjuice] BoC's Senior Dep. Gov. Rogers: Targeting house prices directly with interest rates is not the answer and would risk imposing costs across the economy.
 - 10/02 04:07 [financialjuice] BoC's Senior Dep. Gov. Rogers: Taking mortgage costs out of CPI would remove a real cost that many households are paying.
 - 10/02 04:07 [financialjuice] BoC's Senior Dep. Gov. Rogers: Falling house prices can cut household wealth, weaken spending, and slow sales and construction.
+- 10/02 04:07 [FirstSquawk] FED'S BOWMAN TOUTS THE BENEFITS OF THE FED CAPITAL PLAN TIED TO TREASURIES.
+- 10/02 04:07 [FirstSquawk] SAUDI-LED COALITION INTERCEPTED AND DESTROYED FOUR DRONES LAUNCHED BY YEMEN'S HOUTHIS TOWARD KHAMIS MUSHAIT - STATEMENT.
 - 10/02 04:18 [financialjuice] USTR Greer: The US is on track for record goods trade exports this year.
 - 10/02 04:18 [financialjuice] LIVE: Trade Representative Jamieson Greer holds a G20 press conference
 - 10/02 04:19 [financialjuice] USTR Greer: Trump's trade program is trending in the right direction.
@@ -592,3 +582,13 @@
 - 10/03 03:32 [financialjuice] NYMEX Natural Gas November futures settle at $3.0350/MMBtu.
 - 10/03 03:36 [FirstSquawk] RODRIGUEZ:VENEZUELA MAKES PROGRESS ON PUBLIC, PRIVATE FINANCING
 - 10/03 03:38 [FirstSquawk] FAA DETERMINES 737 MAX SOFTWARE GLITCH DOESN’T POSE SAFETY ISSUE - WSJ
+- 10/03 03:53 [financialjuice] Brent Crude futures settle at $102.25/bbl, down 6 cents, 0.06%.
+- 10/03 03:54 [FirstSquawk] BRENT CRUDE FUTURES SETTLE AT $102.25/BBL, DOWN 6 CENTS, 0.06 PCT
+- 10/03 03:56 [FirstSquawk] DOJ WILL NOT RESUME CRIMINAL INVESTIGATION INTO POWELL, SAYS BLANCHE.
+- 10/03 03:57 [financialjuice] Attorney General Blanche: The DoJ is satisfied with the Fed IG report, and is not reopening the criminal probe into Powell.
+- 10/03 04:02 [financialjuice] Hackers breached the propulsion system of US-bound oil tanker
+- 10/03 04:04 [FirstSquawk] PETROBRAS CEO: FOZ DO AMAZONAS OIL SOME OF BEST IN BRAZIL
+- 10/03 04:04 [FirstSquawk] OPENAI HIRES TOP TRUMP AI OFFICIAL TO WORK ON NATIONAL SECURITY – THE INFORMATION
+- 10/03 04:04 [FirstSquawk] HACKERS INVADED THE PROPULSION SYSTEM OF AN OIL TANKER HEADING TO THE U.S.
+- 10/03 04:04 [financialjuice] OpenAI hires ex Trump AI official Lind - The Information
+- 10/03 04:06 [FirstSquawk] MORE REGULATORY PROPOSALS FOR CRYPTO ON THE HORIZON: SEC ATKINS
