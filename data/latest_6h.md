@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-02 22:30 JST／対象: 10/02 16:30 〜 10/02 22:30 JST（時刻はすべて日本時間）
+生成: 2026-10-02 22:49 JST／対象: 10/02 16:49 〜 10/02 22:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 47 | 10/02 17:55 | 10/02 22:24 | 23分（19:35→19:59） |
-| FirstSquawk | 61 | 10/02 16:32 | 10/02 22:27 | 44分（20:46→21:31） |
-| financialjuice | 94 | 10/02 16:30 | 10/02 22:27 | ⚠ 49分（18:00→18:49） |
+| DeItaone | 53 | 10/02 17:55 | 10/02 22:48 | 23分（19:35→19:59） |
+| FirstSquawk | 61 | 10/02 16:56 | 10/02 22:39 | 44分（20:46→21:31） |
+| financialjuice | 102 | 10/02 16:52 | 10/02 22:49 | ⚠ 49分（18:00→18:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 196 行（統合前 202 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 210 行（統合前 216 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 16:30 [financialjuice] ECB's Rehn: Higher energy prices bring us closer to the ECB's adverse scenario for inflation
-- 10/02 16:30 [financialjuice] ECB's Rehn: ECB projections subject to very high, pervasive uncertainty
-- 10/02 16:30 [financialjuice] ECB's Rehn: Rise in long-term interest rates will slow growth and reduce the pass-through of energy shock to prices, wages
-- 10/02 16:30 [financialjuice] ECB's Rehn: One uncertainty is possibility of a sudden reversal in market sentiment towards AI.
-- 10/02 16:32 [FirstSquawk] ECB'S REHN STATES THAT RISING ENERGY COSTS PUSH US NEAR THE ECB'S NEGATIVE INFLATION OUTLOOK.
-- 10/02 16:32 [FirstSquawk] ECB'S REHN SAYS ECB PROJECTIONS FACE GREAT UNCERTAINTY.
-- 10/02 16:32 [FirstSquawk] ECB'S REHN SAYS LONG-TERM INTEREST RATES RISE WILL SLOW GROWTH AND WEAKEN ENERGY PRICE AND WAGE IMPACT.
-- 10/02 16:32 [FirstSquawk] ECB'S REHN NOTES UNCERTAINTY ABOUT A POSSIBLE SWIFT CHANGE IN MARKET ATTITUDE TOWARD AI.
-- 10/02 16:38 [FirstSquawk] REHN SAYS ECB FORECASTS SUBJECT TO ‘VERY HIGH' UNCERTAINTY
 - 10/02 16:52 [financialjuice] EU countries addressed us demand to release diesel stocks and threat of US diesel export ban in meeting on Friday - Source Familiar with Details of The Discussion.
 - 10/02 16:54 [financialjuice] US has requested that large European countries release 800,000 kilotons of diesel over 6 months - Source Familiar with Discussion
 - 10/02 16:56 [FirstSquawk] AIRBUS TO RECOMMEND AIRLINES INSPECT A330NEO JETS FOR LOOSE ITEMS BEFORE SCHEDULED MAINTENANCE DUE TO FINDING OF STRAY OBJECT IN ASSEMBLY THIS YEAR.
@@ -220,3 +211,26 @@
 - 10/02 22:24 [DeItaone] *HASSETT ON DIESEL: WE HAVE BEEN TALKING WITH EUROPE *HASSETT ON DIESEL: EUROPE RELEASE WOULD HAVE MASSIVE IMPACT *HASSETT ON DIESEL: HOPEFUL TO HAVE NEWS ON THAT SOMETIME SOON
 - 10/02 22:27 [financialjuice] WH Sr. Adviser Hassett on Diesel: I am hopeful to have news on that sometime soon.
 - 10/02 22:27 [FirstSquawk] HASSETT EXPRESSES OPTIMISM ABOUT POTENTIAL DIESEL NEWS COMING SOON.
+- 10/02 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -68.9 MLN NASDAQ 100: -40.8 MLN DOW 30: -21.0 MLN MAG 7: -53.3 MLN $MACRO
+- 10/02 22:33 [FirstSquawk] DOW JONES UP 334.38 POINTS, OR 0.66 PERCENT, AT 51,260.94 AFTER MARKET OPEN NASDAQ UP 339.34 POINTS, OR 1.26 PERCENT, AT 27,210.93 AFTER MARKET OPEN S&P 500 UP 67.19 POINTS, OR 0.88 PERCENT, AT 7,733.64 AFTER MARKET OPEN
+- 10/02 22:34 [DeItaone] WHITE HOUSE PREPARES ACTION ON RECORD U.S. DIESEL PRICES Washington is pressuring Europe to release emergency fuel reserves as the White House prepares an executive order aimed at tackling record-high U.S. diesel prices. The order could be …
+- 10/02 22:36 [FirstSquawk] PARAMOUNT SKYDANCE CORP WILL CHANGE ITS TICKER TO SKYD AND NAME TO SKYDANCE CORP ON OCTOBER 6, 2026, ACCORDING TO SEC FILING.
+- 10/02 22:37 [financialjuice] UK Defence Secretary Streeting: Iran likely behind fairford, not formally named
+- 10/02 22:38 [financialjuice] WH Sr. Adviser Hassett: The Navy has opened Hormuz and crude is coming through
+- 10/02 22:38 [financialjuice] WH Sr. Adviser Hassett: More announcements next week on energy.
+- 10/02 22:39 [FirstSquawk] HASSETT ANNOUNCED THAT THE NAVY HAS REOPENED THE STRAIT OF HORMUZ, ALLOWING CRUDE OIL TO FLOW FREELY AGAIN.
+- 10/02 22:39 [FirstSquawk] HASSETT SAYS THERE WILL BE ADDITIONAL ANNOUNCEMENTS ABOUT ENERGY NEXT WEEK.
+- 10/02 22:39 [FirstSquawk] HASSETT STATES WE DESIRE LOWER MORTGAGE RATES.
+- 10/02 22:39 [financialjuice] WH Sr. Adviser Hassett: Housing data are up because the economy is so strong.
+- 10/02 22:41 [DeItaone] *HASSETT: NAVY HAS OPENED HORMUZ, CRUDE COMING THROUGH
+- 10/02 22:41 [DeItaone] *HASSETT: WE WANT MORTGAGE RATES TO GO DOWN
+- 10/02 22:41 [DeItaone] *NVIDIA SHARES RISE 2.5% TO HIT FIRST RECORD HIGH SINCE MAY
+- 10/02 22:44 [financialjuice] Trump expected to pick Clayton to be the new AI Czar - CNN
+- 10/02 22:44 [financialjuice] WH Sr. Adviser Hassett ends remarks on Fox news
+- 10/02 22:46 [financialjuice] WH Sr. Adviser Hassett: A lot of news this week has been positive
+- 10/02 22:47 [financialjuice] WH Sr. Adviser Hassett Speaks - WATCH LIVE
+- 10/02 22:47 [financialjuice] WH Sr. Adviser Hassett: This job's report was about expected.
+- 10/02 22:48 [DeItaone] *HASSETT: THIS JOBS REPORT WAS ABOUT EXPECTED
+- 10/02 22:48 [DeItaone] TRUMP EXPECTED TO NAME JAY CLAYTON AS AI CZAR - CNN
+- 10/02 22:49 [financialjuice] WH Sr. Adviser Hassett: We see in the data that the consumer is very strong
+- 10/02 22:49 [financialjuice] WH Sr. Adviser Hassett: It's going to be a strong holiday season.

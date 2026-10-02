@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-02 22:30 JST／対象: 10/01 22:30 〜 10/02 22:30 JST（時刻はすべて日本時間）
+生成: 2026-10-02 22:49 JST／対象: 10/01 22:49 〜 10/02 22:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 100 | 10/01 22:47 | 10/02 22:24 | ⚠ 755分（05:19→17:55） |
-| FirstSquawk | 302 | 10/01 22:31 | 10/02 22:27 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 358 | 10/01 22:30 | 10/02 22:27 | ⚠ 79分（06:41→08:00） |
+| DeItaone | 105 | 10/01 23:00 | 10/02 22:48 | ⚠ 755分（05:19→17:55） |
+| FirstSquawk | 302 | 10/01 22:55 | 10/02 22:39 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 359 | 10/01 22:54 | 10/02 22:49 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 724 行（統合前 766 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 731 行（統合前 770 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 22:30 [financialjuice] CANADIAN MANUFACTURING PMI ACTUAL 51.5 (FORECAST -, PREVIOUS 53.0) $MACRO
-- 10/01 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -65.4 MLN NASDAQ 100: 81.7 MLN DOW 30: 38.9 MLN MAG 7: 65.2 MLN $MACRO
-- 10/01 22:31 [financialjuice] ECB's President Lagarde's Speech on AI
-- 10/01 22:31 [FirstSquawk] NASDAQ UP 133.81 POINTS, OR 0.50 PERCENT, AT 26,994.87 AFTER MARKET OPEN S&P 500 UP 21.32 POINTS, OR 0.28 PERCENT, AT 7,672.86 AFTER MARKET OPEN DOW JONES UP 109.78 POINTS, OR 0.22 %, AT 51,015.83 AFTER MARKET OPEN
-- 10/01 22:32 [financialjuice] ECB's President Lagarde: Widespread use of similar AI models could reinforce financial market price moves
-- 10/01 22:33 [financialjuice] ECB President Lagarde: Reliance on a small number of AI models could prove highly disruptive to financial stability if access is lost.
-- 10/01 22:34 [financialjuice/FirstSquawk] US asked Europe to release over 1/3 of diesel reserves - Politico
-- 10/01 22:34 [financialjuice] ECB President Lagarde: Europe needs to develop its own AI capabilities to avoid dependence on access controlled elsewhere
-- 10/01 22:34 [FirstSquawk] ACCENTURE SHARES JUMP 22% IN BIGGEST ONE-DAY GAIN ON RECORD
-- 10/01 22:35 [financialjuice] UK's Healey summons UK bank chiefs to pre-budget summit next week - Sky
-- 10/01 22:35 [financialjuice] The US proposal asks the EU to release diesel over 180 days - Politico
-- 10/01 22:35 [FirstSquawk] US PROPOSAL ASKS EU TO RELEASE DIESEL OVER 180 DAYS: POLITICO
-- 10/01 22:45 [FirstSquawk] US S&P GLOBAL MANUFACTURING PMI (SEP) ACTUAL: 55.9 VS 57.0 PREVIOUS; EST 57.0
-- 10/01 22:45 [financialjuice] ❗ US S&P MANUFACTURING PMI FINAL ACTUAL 55.9 (FORECAST 57, PREVIOUS 57.0) $MACRO
-- 10/01 22:46 [financialjuice] US S&P Manufacturing PMI Final September Report
-- 10/01 22:47 [DeItaone] US SEP FINAL MANUF PMI 55.9 (57.0 FLASH, 53.9 AUG)
 - 10/01 22:54 [financialjuice] Fed's Waller speaks at FRED Con Live
 - 10/01 22:55 [FirstSquawk] FITCH STATES THAT THE UK WATER BILL UPDATE DOES NOT CHANGE SECTOR RISK, BUT THERE ARE STILL RISKS.
 - 10/01 22:56 [FirstSquawk] FITCH: BASE CASE REMAINS THAT UK WATER SECTOR REFORMS WILL DELIVER A CLEARER AND BETTER-COORDINATED FRAMEWORK
@@ -748,3 +732,26 @@
 - 10/02 22:24 [DeItaone] *HASSETT ON DIESEL: WE HAVE BEEN TALKING WITH EUROPE *HASSETT ON DIESEL: EUROPE RELEASE WOULD HAVE MASSIVE IMPACT *HASSETT ON DIESEL: HOPEFUL TO HAVE NEWS ON THAT SOMETIME SOON
 - 10/02 22:27 [financialjuice] WH Sr. Adviser Hassett on Diesel: I am hopeful to have news on that sometime soon.
 - 10/02 22:27 [FirstSquawk] HASSETT EXPRESSES OPTIMISM ABOUT POTENTIAL DIESEL NEWS COMING SOON.
+- 10/02 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -68.9 MLN NASDAQ 100: -40.8 MLN DOW 30: -21.0 MLN MAG 7: -53.3 MLN $MACRO
+- 10/02 22:33 [FirstSquawk] DOW JONES UP 334.38 POINTS, OR 0.66 PERCENT, AT 51,260.94 AFTER MARKET OPEN NASDAQ UP 339.34 POINTS, OR 1.26 PERCENT, AT 27,210.93 AFTER MARKET OPEN S&P 500 UP 67.19 POINTS, OR 0.88 PERCENT, AT 7,733.64 AFTER MARKET OPEN
+- 10/02 22:34 [DeItaone] WHITE HOUSE PREPARES ACTION ON RECORD U.S. DIESEL PRICES Washington is pressuring Europe to release emergency fuel reserves as the White House prepares an executive order aimed at tackling record-high U.S. diesel prices. The order could be …
+- 10/02 22:36 [FirstSquawk] PARAMOUNT SKYDANCE CORP WILL CHANGE ITS TICKER TO SKYD AND NAME TO SKYDANCE CORP ON OCTOBER 6, 2026, ACCORDING TO SEC FILING.
+- 10/02 22:37 [financialjuice] UK Defence Secretary Streeting: Iran likely behind fairford, not formally named
+- 10/02 22:38 [financialjuice] WH Sr. Adviser Hassett: The Navy has opened Hormuz and crude is coming through
+- 10/02 22:38 [financialjuice] WH Sr. Adviser Hassett: More announcements next week on energy.
+- 10/02 22:39 [FirstSquawk] HASSETT ANNOUNCED THAT THE NAVY HAS REOPENED THE STRAIT OF HORMUZ, ALLOWING CRUDE OIL TO FLOW FREELY AGAIN.
+- 10/02 22:39 [FirstSquawk] HASSETT SAYS THERE WILL BE ADDITIONAL ANNOUNCEMENTS ABOUT ENERGY NEXT WEEK.
+- 10/02 22:39 [FirstSquawk] HASSETT STATES WE DESIRE LOWER MORTGAGE RATES.
+- 10/02 22:39 [financialjuice] WH Sr. Adviser Hassett: Housing data are up because the economy is so strong.
+- 10/02 22:41 [DeItaone] *HASSETT: NAVY HAS OPENED HORMUZ, CRUDE COMING THROUGH
+- 10/02 22:41 [DeItaone] *HASSETT: WE WANT MORTGAGE RATES TO GO DOWN
+- 10/02 22:41 [DeItaone] *NVIDIA SHARES RISE 2.5% TO HIT FIRST RECORD HIGH SINCE MAY
+- 10/02 22:44 [financialjuice] Trump expected to pick Clayton to be the new AI Czar - CNN
+- 10/02 22:44 [financialjuice] WH Sr. Adviser Hassett ends remarks on Fox news
+- 10/02 22:46 [financialjuice] WH Sr. Adviser Hassett: A lot of news this week has been positive
+- 10/02 22:47 [financialjuice] WH Sr. Adviser Hassett Speaks - WATCH LIVE
+- 10/02 22:47 [financialjuice] WH Sr. Adviser Hassett: This job's report was about expected.
+- 10/02 22:48 [DeItaone] *HASSETT: THIS JOBS REPORT WAS ABOUT EXPECTED
+- 10/02 22:48 [DeItaone] TRUMP EXPECTED TO NAME JAY CLAYTON AS AI CZAR - CNN
+- 10/02 22:49 [financialjuice] WH Sr. Adviser Hassett: We see in the data that the consumer is very strong
+- 10/02 22:49 [financialjuice] WH Sr. Adviser Hassett: It's going to be a strong holiday season.
