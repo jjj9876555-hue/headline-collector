@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-02 18:56 JST／対象: 10/02 12:56 〜 10/02 18:56 JST（時刻はすべて日本時間）
+生成: 2026-10-02 19:18 JST／対象: 10/02 13:18 〜 10/02 19:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 10 | 10/02 17:55 | 10/02 18:51 | 23分（18:02→18:25） |
-| FirstSquawk | 52 | 10/02 13:00 | 10/02 18:26 | 38分（17:15→17:53） |
-| financialjuice | 50 | 10/02 13:02 | 10/02 18:51 | ⚠ 49分（18:00→18:49） |
+| DeItaone | 13 | 10/02 17:55 | 10/02 19:02 | 23分（18:02→18:25） |
+| FirstSquawk | 52 | 10/02 13:34 | 10/02 19:12 | 38分（17:15→17:53） |
+| financialjuice | 49 | 10/02 13:45 | 10/02 19:16 | ⚠ 49分（18:00→18:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 111 行（統合前 112 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 113 行（統合前 114 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 13:00 [FirstSquawk] US Regulator Seeks to Ease Crypto Holdings for Funds, Advisers, CNBC Says
-- 10/02 13:02 [financialjuice] Amazon plans to sell $8bn of Nvidia chips to investors: FT
-- 10/02 13:04 [FirstSquawk] 30-Year JGB Yield Rises 2 Basis Points to 4.190%
-- 10/02 13:04 [financialjuice] Yemen's armed forces: air force conducts 20 strikes on Houthi targets across multiple areas of Taiz province in past three hours - spokesperson on X
-- 10/02 13:07 [FirstSquawk] AMAZON SEEKS INVESTORS TO TAKE ON $8B OF NVIDIA CHIPS - FT
-- 10/02 13:07 [FirstSquawk] ZELENSKYY: PUTIN INSTRUCTED MILITARY LEADERS TO ABANDON RULES OF WAR - FT
-- 10/02 13:08 [FirstSquawk] UK MINISTERS REJECT UNION PRESSURE TO RESCUE SCOTTISH STEELMAKER - FT
-- 10/02 13:12 [FirstSquawk] JAPAN 20-YEAR JGB YIELD CLIMBS 1 BP TO 3.950%
 - 10/02 13:34 [FirstSquawk] GOLD SLIPS WITH U.S. DOLLAR, YIELDS SEEN AS KEY HURDLES TO FURTHER GAINS - WSJ
 - 10/02 13:38 [FirstSquawk] DEMOCRATIC SENATORS CHALLENGE TRUMP OFFICIALS OVER PENTAGON VENEZUELA OIL DEAL - WSJ
 - 10/02 13:45 [FirstSquawk] RUSSIAN AIR STRIKE ON KYIV LEAVES ONE DEAD, TWO INJURED, CITY AUTHORITIES SAY
@@ -135,3 +127,13 @@
 - 10/02 18:51 [financialjuice] Russian Deputy PM Novak: Russia repelled attacks on 4 oil refineries overnight
 - 10/02 18:51 [financialjuice] Russian Deputy PM Novak: Russia will be considering partially lifting diesel export restrictions
 - 10/02 18:51 [financialjuice] Russia’s Deputy PM Novak: Russia may allow diesel exports if overproduction - Tass
+- 10/02 18:57 [FirstSquawk] RUSSIA'S DEPUTY PM NOVAK ANNOUNCED THAT THE COUNTRY DEFENDED FOUR OIL REFINERIES FROM ATTACKS LAST NIGHT. HE ALSO STATED THAT RUSSIA MAY PARTIALLY LIFT DIESEL EXPORT RESTRICTIONS IF THERE IS OVERPRODUCTION.
+- 10/02 18:57 [FirstSquawk] TOYOTA MOTOR THAILAND PLANTS AND TOYOTA AUTO WORKS WILL STAY CLOSED UNTIL OCTOBER 10.
+- 10/02 18:57 [FirstSquawk] TOYOTA MOTOR IS FACING CONTINUED DISRUPTIONS IN PARTS DELIVERY DUE TO FLOODS IN THAILAND.
+- 10/02 18:58 [DeItaone] FRENCH 5-YEAR SOVEREIGN CREDIT DEFAULT SWAPS HIT 81BPS, S&P GLOBAL MARKET INTELLIGENCE
+- 10/02 19:00 [DeItaone] ANTHROPIC WARNS THAT GOVERNMENT ATTITUDES TOWARD THE COMPANY, ITS TECHNOLOGY COULD HAVE IMPLICATIONS FOR ITS BUSINESS - IPO PROSPECTUS SEEN BY REUTERS
+- 10/02 19:02 [FirstSquawk] SCOTIABANK INCREASES SHARE BUYBACK TARGET TO 40 MILLION FROM 15 MILLION.
+- 10/02 19:02 [DeItaone] FRENCH DEFAULT PROTECTION COSTS HIT MULTIYEAR HIGH The cost of insuring French government debt against default has climbed to a multiyear high, with 5-year sovereign CDS rising to 81 basis points. Meanwhile, France’s 10-year yield spread ov…
+- 10/02 19:09 [FirstSquawk] UKRAINE'S PM KORETSKYI ANNOUNCED A RECEIPT OF €2.9 BILLION FROM THE EU.
+- 10/02 19:12 [FirstSquawk] FRANCE'S BOND RISK PREMIUM INCREASES TO 150 BPS, A FIRST SINCE 2012.
+- 10/02 19:16 [financialjuice] UK diesel average prices rise above £2/litre for the first time - RAC
