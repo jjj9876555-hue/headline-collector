@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-02 19:35 JST／対象: 10/01 19:35 〜 10/02 19:35 JST（時刻はすべて日本時間）
+生成: 2026-10-02 19:54 JST／対象: 10/01 19:54 〜 10/02 19:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 95 | 10/01 20:06 | 10/02 19:35 | ⚠ 755分（05:19→17:55） |
-| FirstSquawk | 306 | 10/01 19:39 | 10/02 19:32 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 376 | 10/01 20:02 | 10/02 19:29 | ⚠ 79分（06:41→08:00） |
+| FirstSquawk | 299 | 10/01 19:59 | 10/02 19:32 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 378 | 10/01 20:02 | 10/02 19:42 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 737 行（統合前 783 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 732 行（統合前 778 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 19:39 [FirstSquawk] MCCORMICK & CO Q3 2026 EARNINGS: ADJ EPS 86C (EST 76C) || NET SALES 2.02B (EST $1.98B) || ORGANIC VOLUME GROWTH -0.3% (EST -0.14%) || STILL SEES FY ADJ EPS $3.05 TO $3.13(EST $3.08) || REAFFIRMS FY NET SALES GROWTH OUTLOOK
-- 10/01 19:43 [FirstSquawk] ACCENTURE Q4 REVENUE USD 18,700 MILLION VS ESTIMATE USD 18,032 MILLION || OUTLOOK FY REVENUE GROWTH 3-6% || Q4 EPS USD 3.29
-- 10/01 19:43 [FirstSquawk] ACCENTURE Q4 NEW BOOKINGS USD 22,200 MILLION
-- 10/01 19:43 [FirstSquawk] ACCENTURE OUTLOOK FY GAAP DILUTED EPS OF $14.39 TO $14.81 || ACCENTURE OUTLOOK FY 3% TO 6% INCREASE OVER ADJUSTED EPS
-- 10/01 19:51 [FirstSquawk] NOVO’S WEGOVY ® (SEMAGLUTIDE) REDUCED LIVER FAT TO NORMAL LEVELS IN 9 OUT OF 10 ADULTS WITH OBESITY AND EXCESS LIVER FAT – EASD2026
-- 10/01 19:52 [FirstSquawk] Accenture Q4 2026 Earnings - EPS $3.29 ($2.25 Y/Y) - Rev 18.7B (est 18.03B) - Sees 2027 Rev +3% To +6% - Sees 2027 EPS $14.39 To $14.81
-- 10/01 19:53 [FirstSquawk] EU COMMISSION OFFICIAL: EU, UK, FRANCE, ITALY, IRELAND CURRENTLY HOLDING CALL ON DIESEL STOCK RELEASES
 - 10/01 19:59 [FirstSquawk] EU SPOX: UP TO UK TO DECIDE HOW TO MANAGE, DEVELOP EU TIES
 - 10/01 20:02 [financialjuice] The EU is talking to some European states and the UK about the diesel situation
 - 10/01 20:03 [financialjuice] Trump to Time: I liked Anthropic CEO Amodei a lot
@@ -761,3 +754,5 @@
 - 10/02 19:32 [FirstSquawk] EU SPOKESPERSON STATES THAT ANY RELEASE OF ENERGY IS COORDINATED BY THE INTERNATIONAL ENERGY AGENCY.
 - 10/02 19:32 [FirstSquawk] EU SPOKESPERSON ANNOUNCED THAT THE NEXT OIL COORDINATION GROUP MEETING IS SCHEDULED FOR OCTOBER 15TH AND CAN BE HELD EARLIER IF NEEDED.
 - 10/02 19:35 [DeItaone] Mapped: Gas Prices by U.S. State in 2026 ⛽
+- 10/02 19:42 [financialjuice] EU Spokesperson: Supplies are stable for the time being
+- 10/02 19:42 [financialjuice] EU Spokesperson: We reject any ban on diesel.

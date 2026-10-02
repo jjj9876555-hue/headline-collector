@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-02 19:35 JST／対象: 10/02 07:35 〜 10/02 19:35 JST（時刻はすべて日本時間）
+生成: 2026-10-02 19:54 JST／対象: 10/02 07:54 〜 10/02 19:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 20 | 10/02 17:55 | 10/02 19:35 | 23分（18:02→18:25） |
 | FirstSquawk | 138 | 10/02 08:16 | 10/02 19:32 | 38分（17:15→17:53） |
-| financialjuice | 106 | 10/02 08:00 | 10/02 19:29 | ⚠ 49分（18:00→18:49） |
+| financialjuice | 108 | 10/02 08:00 | 10/02 19:42 | ⚠ 49分（18:00→18:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 260 行（統合前 264 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 262 行（統合前 266 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -284,3 +284,5 @@
 - 10/02 19:32 [FirstSquawk] EU SPOKESPERSON STATES THAT ANY RELEASE OF ENERGY IS COORDINATED BY THE INTERNATIONAL ENERGY AGENCY.
 - 10/02 19:32 [FirstSquawk] EU SPOKESPERSON ANNOUNCED THAT THE NEXT OIL COORDINATION GROUP MEETING IS SCHEDULED FOR OCTOBER 15TH AND CAN BE HELD EARLIER IF NEEDED.
 - 10/02 19:35 [DeItaone] Mapped: Gas Prices by U.S. State in 2026 ⛽
+- 10/02 19:42 [financialjuice] EU Spokesperson: Supplies are stable for the time being
+- 10/02 19:42 [financialjuice] EU Spokesperson: We reject any ban on diesel.

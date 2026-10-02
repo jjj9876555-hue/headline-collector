@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-02 19:35 JST／対象: 10/02 13:35 〜 10/02 19:35 JST（時刻はすべて日本時間）
+生成: 2026-10-02 19:54 JST／対象: 10/02 13:54 〜 10/02 19:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 20 | 10/02 17:55 | 10/02 19:35 | 23分（18:02→18:25） |
-| FirstSquawk | 59 | 10/02 13:38 | 10/02 19:32 | 38分（17:15→17:53） |
-| financialjuice | 58 | 10/02 13:45 | 10/02 19:29 | ⚠ 49分（18:00→18:49） |
+| FirstSquawk | 56 | 10/02 14:02 | 10/02 19:32 | 38分（17:15→17:53） |
+| financialjuice | 59 | 10/02 14:05 | 10/02 19:42 | ⚠ 49分（18:00→18:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 134 行（統合前 137 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 132 行（統合前 135 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 13:38 [FirstSquawk] DEMOCRATIC SENATORS CHALLENGE TRUMP OFFICIALS OVER PENTAGON VENEZUELA OIL DEAL - WSJ
-- 10/02 13:45 [FirstSquawk] RUSSIAN AIR STRIKE ON KYIV LEAVES ONE DEAD, TWO INJURED, CITY AUTHORITIES SAY
-- 10/02 13:45 [financialjuice] Russian airstrike kills one, injures two in Kyiv, city authorities say
-- 10/02 13:51 [FirstSquawk] JAPAN YIELD ON 40-YEAR JGB RISES 3BPS TO 4.250%
 - 10/02 14:02 [FirstSquawk] JULIUS BAER LAUNCHES CHF 600M SHARE BUYBACK, TARGETS 15% CET1 RATIO
 - 10/02 14:05 [financialjuice] Russia hits bridge across Dnieper river in Kyiv overnight: IFX cites Russian defense ministry
 - 10/02 14:06 [financialjuice] Russia strikes industrial, production complex at port of Izmail in Ukraine’s Odesa region overnight: IFX cites Russian defence ministry
@@ -158,3 +154,5 @@
 - 10/02 19:32 [FirstSquawk] EU SPOKESPERSON STATES THAT ANY RELEASE OF ENERGY IS COORDINATED BY THE INTERNATIONAL ENERGY AGENCY.
 - 10/02 19:32 [FirstSquawk] EU SPOKESPERSON ANNOUNCED THAT THE NEXT OIL COORDINATION GROUP MEETING IS SCHEDULED FOR OCTOBER 15TH AND CAN BE HELD EARLIER IF NEEDED.
 - 10/02 19:35 [DeItaone] Mapped: Gas Prices by U.S. State in 2026 ⛽
+- 10/02 19:42 [financialjuice] EU Spokesperson: Supplies are stable for the time being
+- 10/02 19:42 [financialjuice] EU Spokesperson: We reject any ban on diesel.
