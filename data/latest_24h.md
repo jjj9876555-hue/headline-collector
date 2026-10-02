@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-02 21:23 JST／対象: 10/01 21:23 〜 10/02 21:23 JST（時刻はすべて日本時間）
+生成: 2026-10-02 21:52 JST／対象: 10/01 21:52 〜 10/02 21:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 97 | 10/01 21:24 | 10/02 21:22 | ⚠ 755分（05:19→17:55） |
-| FirstSquawk | 295 | 10/01 21:30 | 10/02 20:46 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 347 | 10/01 21:26 | 10/02 21:19 | ⚠ 79分（06:41→08:00） |
+| DeItaone | 98 | 10/01 21:57 | 10/02 21:39 | ⚠ 755分（05:19→17:55） |
+| FirstSquawk | 298 | 10/01 22:08 | 10/02 21:45 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 358 | 10/01 22:00 | 10/02 21:39 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 703 行（統合前 745 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 717 行（統合前 760 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 21:24 [DeItaone] EUROPE HOLDS EMERGENCY TALKS ON DIESEL RESERVES European nations are holding emergency talks over releasing strategic fuel reserves after pressure from Washington to boost supply. The U.S. has already approved another 40 million barrels fro…
-- 10/01 21:26 [DeItaone] GERMAN ECONOMY MINISTRY ON DIESEL RESERVES: AT THIS TIME, NO NEW REQUIREMENTS FROM IEA
-- 10/01 21:26 [financialjuice] German economy ministry on diesel reserves: At this time, no new requirements from the IEA
-- 10/01 21:27 [DeItaone] GERMAN ECONOMY MINISTRY ON DIESEL RESERVES: WE DO NOT SPECULATE ABOUT POSSIBLE FUTURE EVENTS
-- 10/01 21:27 [financialjuice] German Economy Ministry on Diesel Reserves: Any measures must be based on careful joint assessment of situation within framework of international procedures established for that purpose.
-- 10/01 21:30 [FirstSquawk] US INITIAL JOBLESS CLAIMS ACTUAL: 197K VS 197K PREVIOUS; EST 200K
-- 10/01 21:30 [FirstSquawk] US CONTINUING JOBLESS CLAIMS ACTUAL: 1701K VS 1719K PREVIOUS; EST 1725K
-- 10/01 21:30 [DeItaone] US JOBLESS CLAIMS -1K TO 197K IN SEP-26 WK; SURVEY 200K US SEP-19 WEEK CONTINUING CLAIMS -11K TO 1,701,000 US SEP-19 WEEK JOBLESS CLAIMS REVISED TO 198K
-- 10/01 21:32 [financialjuice] German economy ministry on diesel reserves: Market must not be destabilized
-- 10/01 21:32 [financialjuice] US CONTINUED JOBLESS CLAIMS ACTUAL 1.701M (FORECAST 1.725M, PREVIOUS 1.719M) $MACRO
-- 10/01 21:32 [financialjuice] ❗ US INITIAL JOBLESS CLAIMS ACTUAL 197K (FORECAST 200K, PREVIOUS 197K) $MACRO
-- 10/01 21:35 [DeItaone] CHICAGO FED SEES SEPTEMBER UNEMPLOYMENT AT 4.1% The Chicago Fed estimates the U.S. unemployment rate at 4.10% in September, slightly below August’s 4.14%. The improvement reflects better hiring prospects for unemployed workers and slightly …
-- 10/01 21:40 [DeItaone] IRAN SAYS IT WILL CONTINUE SEEKING DIALOGUE WITH U.S. Iranian President Masoud Pezeshkian says Tehran will continue pursuing dialogue with Washington despite previous attacks during negotiations, according to Tasnim. His comments come as Qa…
-- 10/01 21:45 [DeItaone] TRUMP CONSIDERS PREEMPTIVE PARDONS President Trump says he would consider preemptively pardoning members of his administration before leaving office, potentially protecting them from future federal prosecution. Asked by Time whether he woul…
-- 10/01 21:46 [FirstSquawk] ZELENSKIY SAYS THERE ARE GOOD RESULTS IN DIALOGUE WITH EU TO COVER UKRAINE'S FINANCIAL NEEDS FOR 2026-27
 - 10/01 21:57 [DeItaone] FRENCH 5-YEAR CREDIT DEFAULT SWAPS CLIMB TO MULTI-YEAR HIGH OF 72BPS, S&P GLOBAL MARKET INTELLIGENCE
 - 10/01 22:00 [financialjuice] Effective Fed Funds Rate 3.88% September 30 vs 3.88% September 29.
 - 10/01 22:05 [financialjuice] Fed's Collins: Economic growth is near trend, if not more than that; labor market near full employment, but inflation is too high
@@ -727,3 +712,32 @@
 - 10/02 21:12 [DeItaone] PAKISTAN FOREIGN MINISTER: THERE SHOULDN’T BE ANY FEE OR CHARGES TO CROSS HORMUZ
 - 10/02 21:19 [financialjuice] Pakistan Foreign Minister: We will discuss political engagement with Houthis instead of kinetic action in the meeting next week
 - 10/02 21:22 [DeItaone] FRENCH 2-YEAR GOVERNMENT BOND YIELD EXTENDS RISE, LAST UP 13.8 BPS AT 3.8337%
+- 10/02 21:25 [financialjuice] Pakistan's foreign minister: More than six countries are keen to join the Makkah defence pact
+- 10/02 21:30 [DeItaone] US LABOR SEP NONFARM PAYROLLS +29K; CONSENSUS +84K
+- 10/02 21:30 [financialjuice] US AVERAGE WORKWEEK HRS ACTUAL 34.4 (FORECAST 34.3, PREVIOUS 34.4) $MACRO
+- 10/02 21:30 [financialjuice] ❗ US AVERAGE EARNINGS YOY ACTUAL 3% (FORECAST 3.1%, PREVIOUS 3.1%) $MACRO
+- 10/02 21:30 [financialjuice] US PRIVATE PAYROLLS ACTUAL 46K (FORECAST 81K, PREVIOUS 127K) $MACRO
+- 10/02 21:30 [financialjuice] ‼ BREAKING: US NONFARM PAYROLLS ACTUAL 29K (FORECAST 90K, PREVIOUS 162K) $MACRO
+- 10/02 21:30 [financialjuice] US LABOR FORCE PARTICIPATION ACTUAL 61.8% (FORECAST 61.6%, PREVIOUS 61.6%) $MACRO
+- 10/02 21:30 [financialjuice] US MANUFACTURING PAYROLLS ACTUAL 9K (FORECAST 10K, PREVIOUS 16K ,REVISION 15K) $MACRO
+- 10/02 21:30 [financialjuice] ❗ US UNEMPLOYMENT RATE ACTUAL 4.2% (FORECAST 4.1%, PREVIOUS 4.1%) $MACRO
+- 10/02 21:30 [financialjuice] US GOVERNMENT PAYROLLS ACTUAL -17K (FORECAST -, PREVIOUS 35K ,REVISION 44K) $MACRO
+- 10/02 21:31 [DeItaone] U.S. PAYROLLS BADLY MISS EXPECTATIONS U.S. nonfarm payrolls rose just 29,000 in September vs. 84,000 expected, while the unemployment rate increased to 4.2% vs. 4.1% forecast. Private payrolls gained only 46,000, while government employment…
+- 10/02 21:31 [FirstSquawk] US NONFARM PAYROLLS (SEP) ACTUAL: 29K VS 162K PREVIOUS; EST 90K
+- 10/02 21:31 [FirstSquawk] US UNEMPLOYMENT RATE (SEP) ACTUAL: 4.2% VS 4.1% PREVIOUS; EST 4.1%
+- 10/02 21:31 [FirstSquawk] U.S AVERAGE HOURLY EARNINGS (MOM) (SEP) ACTUAL: 0.1% VS 0.3% PREVIOUS; EST 0.3%
+- 10/02 21:31 [financialjuice] US Employment Situation September 2026 Report
+- 10/02 21:31 [DeItaone] US SEPT. TWO-MONTH PAYROLL NET REVISION SUBTRACTS 60,000
+- 10/02 21:32 [financialjuice] US short-term interest-rate futures jump after weaker-than-expected jobs data, traders trim Fed rate hike bets.
+- 10/02 21:32 [financialjuice] Traders pare bets on October Fed rate hike
+- 10/02 21:33 [DeItaone] FED PAUSE ODDS SURGE TO 85% AFTER WEAK JOBS REPORT Kalshi now prices an 85% chance the Fed holds rates in October after payrolls rose just 29,000 vs. 84,000 expected. Unemployment climbed to 4.2%, triggering a sharp dovish repricing of the …
+- 10/02 21:35 [financialjuice] Russia's oil refining volumes down 14% year on year in January-September - Two industry sources
+- 10/02 21:36 [DeItaone] U.S. S&P 500 E-MINI FUTURES UP 0.9%, NASDAQ 100 FUTURES UP 1.2%, DOW FUTURES UP 0.9%
+- 10/02 21:37 [financialjuice/DeItaone] ❗ Fed-dated swaps no longer price one full rate hike this year.
+- 10/02 21:37 [DeItaone] CBOE VOLATILITY INDEX HITS ONE-WEEK LOW, LAST DOWN 0.79 POINTS AT 15.60
+- 10/02 21:39 [financialjuice] Trump: Republic of Korea deal keeps getting better.
+- 10/02 21:39 [financialjuice] trump: 8.4b dollars for enhanced oil recovery project.
+- 10/02 21:39 [DeItaone] TRUMP: SOUTH KOREA DEAL EXPANDS WITH $8.4 BILLION ENERGY PROJECT President Trump says the South Korea agreement now includes $8.4 billion for an enhanced oil recovery project. Trump says the investment will increase U.S. oil and gas product…
+- 10/02 21:40 [FirstSquawk] TRUMP ON TRUTH SOCIAL: I AM THRILLED TO ANNOUNCE THE REPUBLIC OF KOREA DEAL KEEPS GETTING BETTER! 8.4 BILLION DOLLARS FOR AN ENHANCED OIL RECOVERY PROJECT. PRODUCING MORE OIL AND GAS MEANS AMERICAN ENERGY DOMINANCE AND ENERGY SECURITY IN TH…
+- 10/02 21:45 [FirstSquawk] G7 WILL HAVE URGENT MEETINGS ON FRIDAY TO DISCUSS POSSIBLE RELEASE OF DIESEL RESERVES.
+- 10/02 21:45 [FirstSquawk] TRUMP ANNOUNCED AN IMPROVED DEAL WITH SOUTH KOREA WORTH $8.4 BILLION FOR AN OIL RECOVERY PROJECT, PROMISING INCREASED OIL AND GAS PRODUCTION, WHICH WILL STRENGTHEN AMERICAN ENERGY DOMINANCE AND SECURITY FOR THE FUTURE! - PRESIDENT DONALD J.…

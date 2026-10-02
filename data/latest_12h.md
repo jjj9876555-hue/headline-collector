@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-02 21:23 JST／対象: 10/02 09:23 〜 10/02 21:23 JST（時刻はすべて日本時間）
+生成: 2026-10-02 21:52 JST／対象: 10/02 09:52 〜 10/02 21:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 35 | 10/02 17:55 | 10/02 21:22 | 23分（19:35→19:59） |
-| FirstSquawk | 133 | 10/02 09:25 | 10/02 20:46 | 38分（17:15→17:53） |
-| financialjuice | 100 | 10/02 09:29 | 10/02 21:19 | ⚠ 49分（18:00→18:49） |
+| DeItaone | 43 | 10/02 17:55 | 10/02 21:39 | 23分（19:35→19:59） |
+| FirstSquawk | 128 | 10/02 10:16 | 10/02 21:45 | 44分（20:46→21:31） |
+| financialjuice | 114 | 10/02 09:55 | 10/02 21:39 | ⚠ 49分（18:00→18:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 262 行（統合前 268 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 279 行（統合前 285 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 09:25 [FirstSquawk] FED OFFICIALS BARKIN, COLLINS AND SCHMID SAID A STABLE LABOR MARKET ALLOWS THE FED TO KEEP ITS FOCUS ON PERSISTENTLY HIGH INFLATION, WITH ALL THREE SUPPORTING THE SEPTEMBER RATE HIKE TO 3.75%-4%. THE OFFICIALS DECLINED TO SIGNAL FUTURE RATE…
-- 10/02 09:29 [FirstSquawk/financialjuice] SAUDI-LED COALITION: INTERCEPTS AND DESTROYS BALLISTIC MISSILE LAUNCHED BY YEMEN'S HOUTHIS TOWARD KHAMIS MUSHAIT
-- 10/02 09:29 [FirstSquawk] US TREASURY IMPOSED SANCTIONS ON RUSSIA’S A7 FINANCIAL NETWORK, ACCUSING IT OF USING SHELL COMPANIES, SUBAGENTS AND FALSIFIED TRADE RECORDS TO MOVE FUNDS FOR SANCTIONED ENTITIES LINKED TO IRAN AND THE IRGC. A7 CLAIMS TO HAVE PROCESSED $91.5…
-- 10/02 09:29 [FirstSquawk] Gold Climbs Back Above $4,150 as US Yields Pull Back Ahead of US Jobs Data - FX
-- 10/02 09:36 [FirstSquawk] DISNEY PLANS TO CUT HUNDREDS OF TELEVISION JOBS AS PART OF A RESTRUCTURING THAT WILL CONSOLIDATE OPERATIONS ACROSS ABC, ESPN AND FX. THE MOVES EXTEND CEO JOSH D’AMARO’S COST-CUTTING EFFORTS, WITH ABOUT 1,000 COMPANYWIDE JOBS ALREADY ELIMINA…
-- 10/02 09:42 [FirstSquawk] Japan 5-Year JGB Yield Slides 3 Bps to 2.350%
-- 10/02 09:44 [FirstSquawk] ANTHROPIC IS SET TO MEET POTENTIAL INSTITUTIONAL INVESTORS ON OCTOBER 14 AHEAD OF A POSSIBLE IPO, WITH FORMAL MARKETING POTENTIALLY STARTING AS EARLY AS THE WEEK OF NOVEMBER 9. INVESTORS ARE ESTIMATING A POTENTIAL $1.8 TRILLION-$2 TRILLION …
-- 10/02 09:47 [FirstSquawk] GOLD ROSE 0.5% TO $4,178.10 AN OUNCE AS US TREASURY YIELDS RETREATED FROM 2002-LEVEL HIGHS, WHILE HAVEN DEMAND INCREASED AMID CONCERNS OVER FRANCE’S FISCAL OUTLOOK. LOWER YIELDS AND COMMENTS FROM FED VICE CHAIR PHILIP JEFFERSON REDUCED EXPE…
-- 10/02 09:48 [financialjuice] South Korea finance minister: will closely watch markets, take pre-emptive measures if needed
-- 10/02 09:49 [FirstSquawk] ASIAN STOCKS FELL AS RENEWED U.S.-IRAN TENSIONS PUSHED OIL HIGHER AND REVIVED INFLATION CONCERNS, WITH MSCI'S ASIA-PACIFIC EQUITY GAUGE SLIPPING 0.4% AND JAPAN'S TOPIX DOWN 0.9%, AS BRENT CRUDE ROSE 0.2% AFTER A 4% JUMP THURSDAY LIFTED PRIC…
-- 10/02 09:49 [FirstSquawk] BOND MARKETS REMAINED IN FOCUS AFTER TREASURIES REBOUNDED FROM A GLOBAL SELLOFF, WITH THE 10-YEAR U.S. YIELD CLOSING AT 5.24% — DOWN FROM A 24-YEAR HIGH — AND TWO-YEAR YIELDS FALLING 10 BASIS POINTS TO 4.79%, SUPPORTED BY DOVISH COMMENTS FR…
-- 10/02 09:49 [FirstSquawk] MARKETS ARE NOW BALANCING HIGHER ENERGY PRICES AGAINST EXPECTATIONS FOR A MORE MEASURED FED TIGHTENING PATH, WITH THE YEN STRENGTHENING TO AROUND 157.90 PER DOLLAR AFTER TOKYO INFLATION ACCELERATED AND JAPAN'S 10-YEAR YIELD FALLING TO 3.05%…
 - 10/02 09:55 [financialjuice] Ukrainian drones hit industrial sites in Russia's Volgograd: governor
 - 10/02 10:00 [financialjuice] Taiwan overnight interbank rate starts at 0.805% (unchanged from previous session)
 - 10/02 10:16 [FirstSquawk] Gold Slips 1% to $4,138.04 per Ounce
@@ -286,3 +274,32 @@
 - 10/02 21:12 [DeItaone] PAKISTAN FOREIGN MINISTER: THERE SHOULDN’T BE ANY FEE OR CHARGES TO CROSS HORMUZ
 - 10/02 21:19 [financialjuice] Pakistan Foreign Minister: We will discuss political engagement with Houthis instead of kinetic action in the meeting next week
 - 10/02 21:22 [DeItaone] FRENCH 2-YEAR GOVERNMENT BOND YIELD EXTENDS RISE, LAST UP 13.8 BPS AT 3.8337%
+- 10/02 21:25 [financialjuice] Pakistan's foreign minister: More than six countries are keen to join the Makkah defence pact
+- 10/02 21:30 [DeItaone] US LABOR SEP NONFARM PAYROLLS +29K; CONSENSUS +84K
+- 10/02 21:30 [financialjuice] US AVERAGE WORKWEEK HRS ACTUAL 34.4 (FORECAST 34.3, PREVIOUS 34.4) $MACRO
+- 10/02 21:30 [financialjuice] ❗ US AVERAGE EARNINGS YOY ACTUAL 3% (FORECAST 3.1%, PREVIOUS 3.1%) $MACRO
+- 10/02 21:30 [financialjuice] US PRIVATE PAYROLLS ACTUAL 46K (FORECAST 81K, PREVIOUS 127K) $MACRO
+- 10/02 21:30 [financialjuice] ‼ BREAKING: US NONFARM PAYROLLS ACTUAL 29K (FORECAST 90K, PREVIOUS 162K) $MACRO
+- 10/02 21:30 [financialjuice] US LABOR FORCE PARTICIPATION ACTUAL 61.8% (FORECAST 61.6%, PREVIOUS 61.6%) $MACRO
+- 10/02 21:30 [financialjuice] US MANUFACTURING PAYROLLS ACTUAL 9K (FORECAST 10K, PREVIOUS 16K ,REVISION 15K) $MACRO
+- 10/02 21:30 [financialjuice] ❗ US UNEMPLOYMENT RATE ACTUAL 4.2% (FORECAST 4.1%, PREVIOUS 4.1%) $MACRO
+- 10/02 21:30 [financialjuice] US GOVERNMENT PAYROLLS ACTUAL -17K (FORECAST -, PREVIOUS 35K ,REVISION 44K) $MACRO
+- 10/02 21:31 [DeItaone] U.S. PAYROLLS BADLY MISS EXPECTATIONS U.S. nonfarm payrolls rose just 29,000 in September vs. 84,000 expected, while the unemployment rate increased to 4.2% vs. 4.1% forecast. Private payrolls gained only 46,000, while government employment…
+- 10/02 21:31 [FirstSquawk] US NONFARM PAYROLLS (SEP) ACTUAL: 29K VS 162K PREVIOUS; EST 90K
+- 10/02 21:31 [FirstSquawk] US UNEMPLOYMENT RATE (SEP) ACTUAL: 4.2% VS 4.1% PREVIOUS; EST 4.1%
+- 10/02 21:31 [FirstSquawk] U.S AVERAGE HOURLY EARNINGS (MOM) (SEP) ACTUAL: 0.1% VS 0.3% PREVIOUS; EST 0.3%
+- 10/02 21:31 [financialjuice] US Employment Situation September 2026 Report
+- 10/02 21:31 [DeItaone] US SEPT. TWO-MONTH PAYROLL NET REVISION SUBTRACTS 60,000
+- 10/02 21:32 [financialjuice] US short-term interest-rate futures jump after weaker-than-expected jobs data, traders trim Fed rate hike bets.
+- 10/02 21:32 [financialjuice] Traders pare bets on October Fed rate hike
+- 10/02 21:33 [DeItaone] FED PAUSE ODDS SURGE TO 85% AFTER WEAK JOBS REPORT Kalshi now prices an 85% chance the Fed holds rates in October after payrolls rose just 29,000 vs. 84,000 expected. Unemployment climbed to 4.2%, triggering a sharp dovish repricing of the …
+- 10/02 21:35 [financialjuice] Russia's oil refining volumes down 14% year on year in January-September - Two industry sources
+- 10/02 21:36 [DeItaone] U.S. S&P 500 E-MINI FUTURES UP 0.9%, NASDAQ 100 FUTURES UP 1.2%, DOW FUTURES UP 0.9%
+- 10/02 21:37 [financialjuice/DeItaone] ❗ Fed-dated swaps no longer price one full rate hike this year.
+- 10/02 21:37 [DeItaone] CBOE VOLATILITY INDEX HITS ONE-WEEK LOW, LAST DOWN 0.79 POINTS AT 15.60
+- 10/02 21:39 [financialjuice] Trump: Republic of Korea deal keeps getting better.
+- 10/02 21:39 [financialjuice] trump: 8.4b dollars for enhanced oil recovery project.
+- 10/02 21:39 [DeItaone] TRUMP: SOUTH KOREA DEAL EXPANDS WITH $8.4 BILLION ENERGY PROJECT President Trump says the South Korea agreement now includes $8.4 billion for an enhanced oil recovery project. Trump says the investment will increase U.S. oil and gas product…
+- 10/02 21:40 [FirstSquawk] TRUMP ON TRUTH SOCIAL: I AM THRILLED TO ANNOUNCE THE REPUBLIC OF KOREA DEAL KEEPS GETTING BETTER! 8.4 BILLION DOLLARS FOR AN ENHANCED OIL RECOVERY PROJECT. PRODUCING MORE OIL AND GAS MEANS AMERICAN ENERGY DOMINANCE AND ENERGY SECURITY IN TH…
+- 10/02 21:45 [FirstSquawk] G7 WILL HAVE URGENT MEETINGS ON FRIDAY TO DISCUSS POSSIBLE RELEASE OF DIESEL RESERVES.
+- 10/02 21:45 [FirstSquawk] TRUMP ANNOUNCED AN IMPROVED DEAL WITH SOUTH KOREA WORTH $8.4 BILLION FOR AN OIL RECOVERY PROJECT, PROMISING INCREASED OIL AND GAS PRODUCTION, WHICH WILL STRENGTHEN AMERICAN ENERGY DOMINANCE AND SECURITY FOR THE FUTURE! - PRESIDENT DONALD J.…
