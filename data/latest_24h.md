@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-02 15:52 JST／対象: 10/01 15:52 〜 10/02 15:52 JST（時刻はすべて日本時間）
+生成: 2026-10-02 16:07 JST／対象: 10/01 16:07 〜 10/02 16:07 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 93 | 10/01 16:25 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 311 | 10/01 16:01 | 10/02 15:40 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 375 | 10/01 16:07 | 10/02 15:31 | ⚠ 79分（06:41→08:00） |
+| FirstSquawk | 312 | 10/01 16:08 | 10/02 16:04 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 376 | 10/01 16:09 | 10/02 16:03 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 741 行（統合前 785 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 743 行（統合前 787 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 16:01 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 1.04% || FRANCE'S CAC 40 DOWN 0.64% || SPAIN'S IBEX DOWN 0.75%
-- 10/01 16:05 [FirstSquawk] GERMANY'S DAX DOWN 0.6%
-- 10/01 16:07 [financialjuice] South Korea Industry Minister: I expressed strong objection to US Commerce Secretary Lutnick over the announcement of the Alaska LNG project - Yonhap
-- 10/01 16:07 [FirstSquawk] TESLA'S NEW CAR REGISTRATIONS IN SWEDEN ROSE BY 38.4% YEAR-OVER-YEAR IN SEPTEMBER, ACCORDING TO MOBILITY SWEDEN.
 - 10/01 16:08 [FirstSquawk] UAE PROSECUTOR GENERAL INITIATES INQUIRY INTO FLYDUBAI FLIGHT INCIDENT, CONSIDERING POSSIBLE CONNECTION TO 'TERRORIST ACTIVITY,' ACCORDING TO STATE NEWS AGENCY.
 - 10/01 16:09 [FirstSquawk] SOUTH KOREA'S INDUSTRY MINISTER OBJECTED TO U.S. COMMERCE SECRETARY LUTNICK REGARDING THE ALASKA LNG PROJECT ANNOUNCEMENT - YONHAP.
 - 10/01 16:09 [FirstSquawk] SOUTH KOREA'S INDUSTRY MINISTER KIM STATED THAT BOTH THE U.S. AND SOUTH KOREA AGREED THE ALASKA PROJECT WILL NOT MOVE FORWARD UNLESS IT IS ECONOMICALLY VIABLE - YONHAP.
@@ -765,3 +761,9 @@
 - 10/02 15:31 [financialjuice] UK Debt Office: Will hold AD HOC gilt tender for up to 1.5 billion of 2028 gilt on October 7th
 - 10/02 15:40 [FirstSquawk] VOLVO CAR Q3 GLOBAL SALES FALL 10.7% Y/Y TO 141,609 VEHICLES
 - 10/02 15:40 [FirstSquawk] VOLVO CAR SAYS EUROPEAN PERFORMANCE REMAINED RESILIENT
+- 10/02 15:57 [FirstSquawk] GOLD HOLDS BELOW $4,200 AS TRADERS AWAIT U.S. JOBS DATA FOR FED RATE-CUT CLUES - FX
+- 10/02 16:01 [FirstSquawk] SPAIN UNEMPLOYMENT CHANGE SEP: 23.6K (PREV 44.4K)
+- 10/02 16:01 [FirstSquawk] SPAIN EMPLOYMENT NET CHANGE (M/M): 108.8K (PREV 83.8K)
+- 10/02 16:01 [financialjuice] Currency Strength Chart: Strongest: CHF, JPY, NZD, EUR, GBP, AUD, CAD, USD - Weakest
+- 10/02 16:03 [financialjuice] EU Commissioner Jorgensen: We are discussing with all members of the IEA, not only with the US, when it is time to release diesel
+- 10/02 16:04 [FirstSquawk] BRITAIN'S FTSE 100 UP 0.18% || FRANCE'S CAC 40 UP 0.13% || SPAIN'S IBEX UP 0.23% || GERMANY'S DAX UP 0.2%

@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-02 15:52 JST／対象: 10/02 09:52 〜 10/02 15:52 JST（時刻はすべて日本時間）
+生成: 2026-10-02 16:07 JST／対象: 10/02 10:07 〜 10/02 16:07 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 70 | 10/02 10:16 | 10/02 15:40 | 30分（14:50→15:21） |
-| financialjuice | 26 | 10/02 09:55 | 10/02 15:31 | ⚠ 49分（11:35→12:24） |
+| FirstSquawk | 74 | 10/02 10:16 | 10/02 16:04 | 30分（14:50→15:21） |
+| financialjuice | 26 | 10/02 10:37 | 10/02 16:03 | ⚠ 49分（11:35→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 96 行（統合前 96 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 100 行（統合前 100 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 09:55 [financialjuice] Ukrainian drones hit industrial sites in Russia's Volgograd: governor
-- 10/02 10:00 [financialjuice] Taiwan overnight interbank rate starts at 0.805% (unchanged from previous session)
 - 10/02 10:16 [FirstSquawk] Gold Slips 1% to $4,138.04 per Ounce
 - 10/02 10:17 [FirstSquawk] Taiwan Overnight Interbank Rate Starts at 0.805%, Flat on Previous Open
 - 10/02 10:18 [FirstSquawk] Ukrainian Drones Target Industrial Facilities in Volgograd, Russian Governor Says
@@ -120,3 +118,9 @@
 - 10/02 15:31 [financialjuice] UK Debt Office: Will hold AD HOC gilt tender for up to 1.5 billion of 2028 gilt on October 7th
 - 10/02 15:40 [FirstSquawk] VOLVO CAR Q3 GLOBAL SALES FALL 10.7% Y/Y TO 141,609 VEHICLES
 - 10/02 15:40 [FirstSquawk] VOLVO CAR SAYS EUROPEAN PERFORMANCE REMAINED RESILIENT
+- 10/02 15:57 [FirstSquawk] GOLD HOLDS BELOW $4,200 AS TRADERS AWAIT U.S. JOBS DATA FOR FED RATE-CUT CLUES - FX
+- 10/02 16:01 [FirstSquawk] SPAIN UNEMPLOYMENT CHANGE SEP: 23.6K (PREV 44.4K)
+- 10/02 16:01 [FirstSquawk] SPAIN EMPLOYMENT NET CHANGE (M/M): 108.8K (PREV 83.8K)
+- 10/02 16:01 [financialjuice] Currency Strength Chart: Strongest: CHF, JPY, NZD, EUR, GBP, AUD, CAD, USD - Weakest
+- 10/02 16:03 [financialjuice] EU Commissioner Jorgensen: We are discussing with all members of the IEA, not only with the US, when it is time to release diesel
+- 10/02 16:04 [FirstSquawk] BRITAIN'S FTSE 100 UP 0.18% || FRANCE'S CAC 40 UP 0.13% || SPAIN'S IBEX UP 0.23% || GERMANY'S DAX UP 0.2%
