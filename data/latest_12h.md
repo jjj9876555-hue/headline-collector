@@ -7,41 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-02 15:23 JST／対象: 10/02 03:23 〜 10/02 15:23 JST（時刻はすべて日本時間）
+生成: 2026-10-02 15:52 JST／対象: 10/02 03:52 〜 10/02 15:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 7 | 10/02 03:29 | 10/02 05:19 | ⚠ 96分（03:42→05:19） |
-| FirstSquawk | 137 | 10/02 03:24 | 10/02 15:21 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 121 | 10/02 03:29 | 10/02 14:43 | ⚠ 79分（06:41→08:00） |
+| DeItaone | 1 | 10/02 05:19 | 10/02 05:19 | - |
+| FirstSquawk | 137 | 10/02 03:54 | 10/02 15:40 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 113 | 10/02 03:56 | 10/02 15:31 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 250 行（統合前 265 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 238 行（統合前 251 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 03:24 [FirstSquawk] RUSSIA'S PUTIN SAYS RUSSIA IS READY FOR TALKS AND TO WRAP THEM UP AS SOON AS POSSIBLE, BUT ON CONDITIONS ACCEPTABLE FOR THE RUSSIAN PEOPLE
-- 10/02 03:29 [DeItaone] US ENERGY SECRETARY CHRIS WRIGHT:ABSOLUTELY WE WILL ASK EUROPE TO RELEASE STRATEGIC DIESEL RESERVES - FOX NEWS
-- 10/02 03:29 [financialjuice] US Energy Secretary Wright: Absolutely we will ask Europe to release strategic diesel reserves - Fox News.
-- 10/02 03:30 [DeItaone] US ENERGY SECRETARY CHRIS WRIGHT:EUROPE CAN HELP THE SITUATION AND I'M HIGHLY CONFIDENT THEY WILL
-- 10/02 03:31 [financialjuice] US Energy Secretary Wright: Europe can help the situation and I’m highly confident they will.
-- 10/02 03:31 [financialjuice] NYMEX WTI Crude November futures settle at $92.87 a barrel, up $2.45, 2.71%.
-- 10/02 03:31 [financialjuice] NYMEX Gasoline November futures settle at $3.4026 a gallon.
-- 10/02 03:31 [financialjuice] NYMEX Diesel November futures settle at $4.6420 a gallon.
-- 10/02 03:32 [financialjuice] NYMEX Natural Gas November futures settle at $2.9670/MMBtu.
-- 10/02 03:32 [financialjuice] US Energy Secretary Wright: The US is confident that Europe will release diesel from stockpiles.
-- 10/02 03:34 [DeItaone/financialjuice/FirstSquawk] IRAN OFFERS TO ALLOW NUCLEAR INSPECTORS IF SANCTIONS ARE EASED
-- 10/02 03:36 [DeItaone] IRAN OFFERS NUCLEAR INSPECTOR ACCESS FOR SANCTIONS RELIEF Iran has privately signaled it could restore nuclear inspectors’ access to bombed facilities in exchange for sanctions relief, Bloomberg reports. Foreign Minister Abbas Araghchi rais…
-- 10/02 03:38 [financialjuice] US Energy Secretary Wright: We'll see lower gasolinea nd diesel prices come the election.
-- 10/02 03:38 [financialjuice] US Energy Secretary Wright ends remarks on Fox News.
-- 10/02 03:41 [DeItaone] *WRIGHT: WE'LL SEE LOWER GASOLINE, DIESEL PRICES COME ELECTION
-- 10/02 03:42 [DeItaone] TRUMP: PRICES ARE “COMING DOWN RAPIDLY” President Trump says prices are “way down” from levels under the Biden administration and claims they are continuing to fall rapidly. Trump blamed Democrats for elevated prices and said Republicans ar…
-- 10/02 03:44 [FirstSquawk] US ENERGY SECRETARY WRIGHT: EXPECT LOWER GASOLINE & DIESEL PRICES BY ELECTION; CONFIDENT EUROPE WILL RELEASE DIESEL FROM STOCKPILES
-- 10/02 03:45 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 2.71% HIGHER AT $92.87/BBL, UP $2.45
 - 10/02 03:54 [FirstSquawk] CHEMUNG CANAL TRUST COMPANY HAS ANNOUNCED A PLAN TO UNIFY UNDER A NEW NAME, PLANNING TO BRING CHEMUNG CANAL AND ITS DIVISIONS CAPITAL BANK AND CANAL BANK UNDER A SINGLE NAME — CANAL BANK & TRUST, N.A. — WITH THE NAME AND LOGO TO BE IMPLEMEN…
 - 10/02 03:54 [FirstSquawk] CHEMUNG FINANCIAL CORP SAYS THE BRAND UNIFICATION WILL NOT AFFECT ITS MISSION, LEADERSHIP OR OWNERSHIP.
 - 10/02 03:55 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 4.37% HIGHER AT $102.31/BBL, UP $4.28
@@ -274,3 +256,9 @@
 - 10/02 14:47 [FirstSquawk] JAPAN 10-YEAR JGB YIELD REBOUNDS TO 3.100%, UP 0.5 BP
 - 10/02 14:50 [FirstSquawk] KREMLIN SAYS RUSSIA WILL CONTINUE EFFORTS TO STOP WEAPONS, FUEL SUPPLIES TO UKRAINE VIA BLACK SEA
 - 10/02 15:21 [FirstSquawk] JP MORGAN CUTS BANK OF AMERICA TARGET PRICE TO $62 FROM $68
+- 10/02 15:27 [financialjuice] NORWEGIAN UNEMPLOYMENT RATE NSA ACTUAL 2.0% (FORECAST -, PREVIOUS 2.1%) $MACRO
+- 10/02 15:31 [FirstSquawk] NORWAY UNEMPLOYMENT RATE NSA SEP: 2.0% (PREV 2.1%)
+- 10/02 15:31 [FirstSquawk] NORWAY UNEMPLOYMENT RATE: 2.0% (PREV 2.1%; PREV R 2.0%)
+- 10/02 15:31 [financialjuice] UK Debt Office: Will hold AD HOC gilt tender for up to 1.5 billion of 2028 gilt on October 7th
+- 10/02 15:40 [FirstSquawk] VOLVO CAR Q3 GLOBAL SALES FALL 10.7% Y/Y TO 141,609 VEHICLES
+- 10/02 15:40 [FirstSquawk] VOLVO CAR SAYS EUROPEAN PERFORMANCE REMAINED RESILIENT
