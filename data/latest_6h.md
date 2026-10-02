@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-03 05:00 JST／対象: 10/02 23:00 〜 10/03 05:00 JST（時刻はすべて日本時間）
+生成: 2026-10-03 05:19 JST／対象: 10/02 23:19 〜 10/03 05:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 5 | 10/02 23:01 | 10/03 02:33 | ⚠ 124分（00:28→02:33） |
-| FirstSquawk | 57 | 10/02 23:02 | 10/03 05:00 | 34分（02:50→03:25） |
-| financialjuice | 69 | 10/02 23:00 | 10/03 05:00 | 34分（01:07→01:42） |
+| DeItaone | 5 | 10/03 00:28 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
+| FirstSquawk | 58 | 10/02 23:26 | 10/03 05:02 | 34分（02:50→03:25） |
+| financialjuice | 69 | 10/02 23:19 | 10/03 05:07 | 34分（01:07→01:42） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 125 行（統合前 133 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 124 行（統合前 134 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 23:00 [financialjuice] US DURABLE GOODS REVISED ACTUAL -0.1% (FORECAST 0%, PREVIOUS 0.0%) $MACRO
-- 10/02 23:00 [financialjuice] US CORE DURABLE GOODS REVISED ACTUAL 0.2% (FORECAST 0.3%, PREVIOUS 0.3%) $MACRO
-- 10/02 23:00 [financialjuice] ❗ US FACTORY ORDERS MOM ACTUAL 0.1% (FORECAST 0.2%, PREVIOUS 0.9%) $MACRO
-- 10/02 23:00 [financialjuice] Fed's Logan does not comment on economic outlook, monetary policy in remarks at Dallas Fed conference on migration.
-- 10/02 23:01 [DeItaone] TRUMP: EUROPE HAS JUST AGREED TO RELEASE A MASSIVE AMOUNT OF THEIR HEAVILY STOCKED DIESEL OIL TRUMP: PROCESS WILL BEGIN IMMEDIATELY.
-- 10/02 23:02 [financialjuice] Trump: Europe agreed to release a massive amount of their heavily stocked Diesel Oil. The process begins immediately - Truth Social
-- 10/02 23:02 [FirstSquawk] TRUMP: EUROPE HAS JUST AGREED TO RELEASE A MASSIVE AMOUNT OF THEIR HEAVILY STOCKED DIESEL OIL. THE PROCESS WILL BEGIN IMMEDIATELY. THANK YOU FOR YOUR ATTENTION TO THIS MATTER! PRESIDENT DJT
-- 10/02 23:02 [DeItaone] NASDAQ COMPOSITE INDEX HITS ALL-TIME HIGH, LAST UP 1.6%
-- 10/02 23:02 [financialjuice] US Factory Orders and Durable Goods August Reports
-- 10/02 23:02 [DeItaone] $NKE - NIKE SHARES FALL TO LOWEST SINCE SEPTEMBER 2013, LAST DOWN NEARLY 6%
-- 10/02 23:19 [financialjuice] Fear & Greed Index: 32/100 - Fear
 - 10/02 23:19 [financialjuice] Crypto Fear & Greed Index: 72/100 - Greed
 - 10/02 23:26 [FirstSquawk] MACRON ANNOUNCED THAT THE G7 WILL UNVEIL PLANS TO RELEASE AS MUCH AS 100 MILLION BARRELS OF DIESEL AND CRUDE OIL.
 - 10/02 23:26 [FirstSquawk] G7 LEADERS DECLARE PLANS TO ALIGN MAINTENANCE SCHEDULES AT MEMBER REFINERIES.
@@ -147,5 +136,15 @@
 - 10/03 04:59 [financialjuice] Trump on South Korea investment in the US: I didn't jump the gun on the Alaska pipeline.
 - 10/03 04:59 [financialjuice] Trump: If South Korea doesn't do the pipeline, will charge them more.
 - 10/03 05:00 [financialjuice] Trump Departs White House - WATCH LIVE
-- 10/03 05:00 [FirstSquawk] TRUMP ON DIESEL: WE'RE NOT GOING TO BE DOING THE EXPORT BAN
+- 10/03 05:00 [FirstSquawk/DeItaone] TRUMP ON DIESEL: WE'RE NOT GOING TO BE DOING THE EXPORT BAN
 - 10/03 05:00 [financialjuice] Trump on Diesel: Won't do export ban.
+- 10/03 05:00 [financialjuice] Hedge funds turn short UK pound for the first time since 2024 - CFTC.
+- 10/03 05:00 [financialjuice] trump on Diesel: Europe is making a major contribution, so are we
+- 10/03 05:00 [DeItaone] TRUMP ON DIESEL: WE HAVE A VERY GOOD RELATIONSHIP WITH EUROPE
+- 10/03 05:01 [financialjuice] CME Group withdraws filing for 10-barrel oil futures.
+- 10/03 05:01 [FirstSquawk] NASDAQ UNOFFICIALLY CLOSES UP 314.26 POINTS, OR 1.17 PERCENT, AT 27,185.85 S&P 500 UNOFFICIALLY CLOSES UP 57.53 POINTS, OR 0.75 PERCENT, AT 7,723.98 DOW JONES UNOFFICIALLY CLOSES UP 270.94 POINTS, OR 0.53%, AT 51,197.50
+- 10/03 05:01 [financialjuice] Trump: We were never going to do a diesel export ban
+- 10/03 05:02 [financialjuice/DeItaone] Trump on Diesel: Export ban was never really on the table
+- 10/03 05:02 [FirstSquawk] US PRES. TRUMP: IRAN IS NOT DOING WELL
+- 10/03 05:03 [financialjuice] Trump ends comments at the White House
+- 10/03 05:07 [financialjuice] Stocks Rise as Weak Jobs Report Eases Fed Rate-Hike Fears – US Market Wrap

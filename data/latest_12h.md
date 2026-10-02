@@ -7,49 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-03 05:00 JST／対象: 10/02 17:00 〜 10/03 05:00 JST（時刻はすべて日本時間）
+生成: 2026-10-03 05:19 JST／対象: 10/02 17:19 〜 10/03 05:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 60 | 10/02 17:55 | 10/03 02:33 | ⚠ 124分（00:28→02:33） |
-| FirstSquawk | 125 | 10/02 17:06 | 10/03 05:00 | 44分（20:46→21:31） |
-| financialjuice | 174 | 10/02 17:01 | 10/03 05:00 | ⚠ 49分（18:00→18:49） |
+| DeItaone | 63 | 10/02 17:55 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
+| FirstSquawk | 119 | 10/02 17:53 | 10/03 05:02 | 44分（20:46→21:31） |
+| financialjuice | 163 | 10/02 17:20 | 10/03 05:07 | ⚠ 49分（18:00→18:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 347 行（統合前 361 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 331 行（統合前 347 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 17:01 [financialjuice] ITALIAN RETAIL SALES MOM ACTUAL 0.30% (FORECAST -, PREVIOUS -0.40%) $MACRO
-- 10/02 17:01 [financialjuice] ITALIAN RETAIL SALES NSA YOY ACTUAL 0.5% (FORECAST -, PREVIOUS 0.80%) $MACRO
-- 10/02 17:05 [financialjuice] North Korea's Kim Yo Jong: South Korea's allegations over border mine clash are baseless - KCNA
-- 10/02 17:06 [financialjuice] Norges Bank investment management commits 1.2 billion euros to Copenhagen Infrastructure Partners' sixth flagship renewable energy fund
-- 10/02 17:06 [financialjuice] French President Macron spoke last night with U.S. President Trump, Canada PM Carney on global energy outlook
-- 10/02 17:06 [financialjuice] UK new car market registrations rise 12.1% to 350,518 units in September: SMMT preliminary data
-- 10/02 17:06 [financialjuice] North Korea’s Kim Yo Jong: country did not intentionally place mines in border zone - KCNA
-- 10/02 17:06 [financialjuice] North Korea's Kim Yo Jong: Border defenses intended to permanently block South Korea - KCNA
-- 10/02 17:06 [FirstSquawk] BRENT AND US CRUDE FUTURES FALL FURTHER DUE TO POSSIBLE EUROPEAN RELEASE OF DIESEL AND CRUDE STOCKS.
-- 10/02 17:07 [financialjuice] French president says need to cooperate to combat fuel price increases, supply of refined products in two separate calls
-- 10/02 17:07 [FirstSquawk] FRENCH PRESIDENT STRESSED COLLABORATION TO COMBAT FUEL PRICE INCREASES AND IMPROVE SUPPLY OF REFINED PRODUCTS IN TWO DIFFERENT CALLS.
-- 10/02 17:07 [financialjuice] North Korea's Kim Yo Jong: South Korea must cease attempts to malign North Korea - KCNA
-- 10/02 17:08 [financialjuice] France's Macron spoke with Trump to discuss worldwide energy situation: Elysee
-- 10/02 17:08 [financialjuice] France plans call with G7 leaders to coordinate on prices, supply: Elysee Palace source
-- 10/02 17:08 [financialjuice] Macron stressed need to collaborate to tackle rising fuel costs, ensure global supply of refined products: Elysee
-- 10/02 17:09 [financialjuice] Macron also discussed these matters with Canada’s Carney: Elysee
-- 10/02 17:09 [financialjuice] French president underlined G7 countries' interest in coordinated action without export restrictions
-- 10/02 17:09 [financialjuice] Macron: G7 nations have shared interest in coordinated action without export limits - Elysee
-- 10/02 17:10 [FirstSquawk] FRENCH PRESIDENT MACRON DISCUSSED GLOBAL ENERGY ISSUES WITH U.S. PRESIDENT TRUMP AND CANADIAN PM CARNEY LAST NIGHT.
-- 10/02 17:10 [FirstSquawk] FRENCH PRESIDENT DISCUSSED COLLABORATION NEEDED TO ADDRESS RISING FUEL PRICES AND INSURE SUPPLY OF REFINED PRODUCTS IN TWO CALLS.
-- 10/02 17:10 [FirstSquawk] FRANCE PLANS A CALL WITH G7 LEADERS TO ALIGN ON PRICES AND SUPPLY, ACCORDING TO A SOURCE AT THE ELYSEE PALACE.
-- 10/02 17:10 [FirstSquawk] FRENCH PRESIDENT STRESSED G7 NATIONS WANT TO WORK TOGETHER WITHOUT EXPORT LIMITS.
-- 10/02 17:15 [financialjuice] Moody's on France: President and PM faces ongoing challenges in multiyear fiscal consolidation effort
-- 10/02 17:15 [FirstSquawk] NASDAQ 100 FUTURES INCREASED BY 0.9%, S&P 500 CONTRACTS ROSE BY 0.5%.
-- 10/02 17:15 [FirstSquawk] US STOCK INDEX FUTURES RISE TO SESSION HIGH.
-- 10/02 17:16 [financialjuice] Moody's on France: ability of France's institutions to address key policy challenges despite political fragmentation is crucial for resolving negative outlook
 - 10/02 17:20 [financialjuice] Moody's on France: It is far from certain a compromise can be reached on the 2027 budget as the proximity of next spring's elections risks hardening political positions.
 - 10/02 17:31 [financialjuice] UK September decision maker year-ahead CPI expectations 3.3%.
 - 10/02 17:32 [financialjuice] Bank of England Decision Maker Panel: Firms year-ahead expected wage growth unchanged at 3.4% in the three months to September.
@@ -369,5 +343,15 @@
 - 10/03 04:59 [financialjuice] Trump on South Korea investment in the US: I didn't jump the gun on the Alaska pipeline.
 - 10/03 04:59 [financialjuice] Trump: If South Korea doesn't do the pipeline, will charge them more.
 - 10/03 05:00 [financialjuice] Trump Departs White House - WATCH LIVE
-- 10/03 05:00 [FirstSquawk] TRUMP ON DIESEL: WE'RE NOT GOING TO BE DOING THE EXPORT BAN
+- 10/03 05:00 [FirstSquawk/DeItaone] TRUMP ON DIESEL: WE'RE NOT GOING TO BE DOING THE EXPORT BAN
 - 10/03 05:00 [financialjuice] Trump on Diesel: Won't do export ban.
+- 10/03 05:00 [financialjuice] Hedge funds turn short UK pound for the first time since 2024 - CFTC.
+- 10/03 05:00 [financialjuice] trump on Diesel: Europe is making a major contribution, so are we
+- 10/03 05:00 [DeItaone] TRUMP ON DIESEL: WE HAVE A VERY GOOD RELATIONSHIP WITH EUROPE
+- 10/03 05:01 [financialjuice] CME Group withdraws filing for 10-barrel oil futures.
+- 10/03 05:01 [FirstSquawk] NASDAQ UNOFFICIALLY CLOSES UP 314.26 POINTS, OR 1.17 PERCENT, AT 27,185.85 S&P 500 UNOFFICIALLY CLOSES UP 57.53 POINTS, OR 0.75 PERCENT, AT 7,723.98 DOW JONES UNOFFICIALLY CLOSES UP 270.94 POINTS, OR 0.53%, AT 51,197.50
+- 10/03 05:01 [financialjuice] Trump: We were never going to do a diesel export ban
+- 10/03 05:02 [financialjuice/DeItaone] Trump on Diesel: Export ban was never really on the table
+- 10/03 05:02 [FirstSquawk] US PRES. TRUMP: IRAN IS NOT DOING WELL
+- 10/03 05:03 [financialjuice] Trump ends comments at the White House
+- 10/03 05:07 [financialjuice] Stocks Rise as Weak Jobs Report Eases Fed Rate-Hike Fears – US Market Wrap
