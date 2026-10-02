@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-02 11:53 JST／対象: 10/02 05:53 〜 10/02 11:53 JST（時刻はすべて日本時間）
+生成: 2026-10-02 12:18 JST／対象: 10/02 06:18 〜 10/02 12:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 67 | 10/02 06:02 | 10/02 11:53 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 48 | 10/02 06:01 | 10/02 11:35 | ⚠ 79分（06:41→08:00） |
+| FirstSquawk | 70 | 10/02 06:23 | 10/02 12:09 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 47 | 10/02 06:41 | 10/02 11:35 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 113 行（統合前 115 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 116 行（統合前 117 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 06:01 [financialjuice/FirstSquawk] Egypt declares Ethiopian embassy counsellor persona non grata, orders departure within 48 hours: official, al Qahera news
 - 10/02 06:23 [FirstSquawk] S&P DOW JONES INDICES SAYS TWILIO, AN S&P MIDCAP 400 CONSTITUENT, WILL REPLACE WARNER BROS. DISCOVERY IN THE S&P 500, WHILE VYLOR HAS BEEN ADDED TO THE S&P 500.
 - 10/02 06:23 [FirstSquawk] DISNEY ENTERTAINMENT CHIEF DANA WALDEN SAID THE COMPANY WOULD BE WILLING TO OFFER “A LOT OF MONEY” TO ACQUIRE THE IP RIGHTS TO BLUEY CREATOR JOE BRUMM’S SHOW, WHICH DISNEY DOES NOT CURRENTLY OWN.
 - 10/02 06:24 [FirstSquawk] DISNEY HAS A BLUEY MOVIE PLANNED FOR NEXT YEAR AND PLANS TO EXPAND DISNEY+ FROM SPRING 2027 INTO A BROADER DIGITAL PLATFORM LINKING STREAMING CONTENT WITH MERCHANDISE, GAMES AND EXPERIENCES.
@@ -137,3 +136,7 @@
 - 10/02 11:36 [FirstSquawk] Japan Economy Minister Kiuchi: Takaichi Administration Balances Economic Growth With Fiscal Discipline
 - 10/02 11:46 [FirstSquawk] Euro weakens below 1.1250 amid fiscal concerns, US NFP data in focus - FX
 - 10/02 11:53 [FirstSquawk] Piper Sandler Lowers Nike Price Target to $28 From $38
+- 10/02 12:00 [FirstSquawk] Samsung Heavy Secures 672.2 Billion-Won Order for Two LNG Carriers
+- 10/02 12:01 [FirstSquawk] US DOJ: Government Employee Arrested for Allegedly Providing Support to Houthis
+- 10/02 12:04 [FirstSquawk] JPMorgan Raises Accenture Price Target to $242 From $200
+- 10/02 12:09 [FirstSquawk] Piper Sandler Raises Cigna Price Target to $370 From $346

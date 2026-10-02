@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-02 11:53 JST／対象: 10/01 11:53 〜 10/02 11:53 JST（時刻はすべて日本時間）
+生成: 2026-10-02 12:18 JST／対象: 10/01 12:18 〜 10/02 12:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 93 | 10/01 16:25 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 328 | 10/01 11:55 | 10/02 11:53 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 399 | 10/01 11:57 | 10/02 11:35 | ⚠ 79分（06:41→08:00） |
+| FirstSquawk | 323 | 10/01 12:23 | 10/02 12:09 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 397 | 10/01 12:27 | 10/02 11:35 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 782 行（統合前 826 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 775 行（統合前 819 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 11:55 [FirstSquawk] South Korea President Lee vows efforts to reduce military tensions with North Korea
-- 10/01 11:57 [financialjuice] Nine killed in two Pakistani airstrikes in Afghanistan: Afghan Taliban spokesperson
-- 10/01 11:57 [financialjuice] India trade minister: discussed with USTR Greer on early wrap-up of interim deal under India-US trade agreement
-- 10/01 11:57 [FirstSquawk] India Trade Minister: Held discussions with USTR Greer to advance interim India-US trade agreement
-- 10/01 11:58 [FirstSquawk] Afghan Taliban: Nine killed in two Pakistani airstrikes in Afghanistan
-- 10/01 12:00 [FirstSquawk] Tencent leases 100,000 Oracle chips to boost AI expansion — FT
-- 10/01 12:00 [FirstSquawk] Tencent secures five-year lease across Oracle data centres in Southeast Asia — FT
-- 10/01 12:01 [FirstSquawk] FT: Tencent-Oracle deal worth about $7bn, with around 30% paid upfront
-- 10/01 12:01 [FirstSquawk] Tencent deal provides access to roughly 100,000 advanced AI chips unavailable in China — FT
-- 10/01 12:03 [FirstSquawk] Australia’s ASX 200 slides 1.8% to 8,634.80, weakest since mid-June
-- 10/01 12:06 [FirstSquawk] European futures lower: EURO STOXX 50 and DAX futures down 0.6%, FTSE futures off 0.5%
 - 10/01 12:23 [FirstSquawk] Toyota says both shifts at Thailand vehicle, Toyota Auto Works plants won’t operate on Oct. 1-2
 - 10/01 12:27 [financialjuice] OpenAI: aware of reports of models trying to access publicly available data from Canadian government websites
 - 10/01 12:28 [financialjuice] OpenAI: reviewing findings, gave initial briefing to Canadian officials conducting government review
@@ -806,3 +795,7 @@
 - 10/02 11:36 [FirstSquawk] Japan Economy Minister Kiuchi: Takaichi Administration Balances Economic Growth With Fiscal Discipline
 - 10/02 11:46 [FirstSquawk] Euro weakens below 1.1250 amid fiscal concerns, US NFP data in focus - FX
 - 10/02 11:53 [FirstSquawk] Piper Sandler Lowers Nike Price Target to $28 From $38
+- 10/02 12:00 [FirstSquawk] Samsung Heavy Secures 672.2 Billion-Won Order for Two LNG Carriers
+- 10/02 12:01 [FirstSquawk] US DOJ: Government Employee Arrested for Allegedly Providing Support to Houthis
+- 10/02 12:04 [FirstSquawk] JPMorgan Raises Accenture Price Target to $242 From $200
+- 10/02 12:09 [FirstSquawk] Piper Sandler Raises Cigna Price Target to $370 From $346
