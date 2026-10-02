@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-03 07:59 JST／対象: 10/02 19:59 〜 10/03 07:59 JST（時刻はすべて日本時間）
+生成: 2026-10-03 08:16 JST／対象: 10/02 20:16 〜 10/03 08:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 42 | 10/02 20:02 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
-| FirstSquawk | 100 | 10/02 20:08 | 10/03 05:02 | 44分（20:46→21:31） |
-| financialjuice | 149 | 10/02 20:12 | 10/03 07:43 | ⚠ 71分（05:20→06:32） |
+| DeItaone | 39 | 10/02 20:33 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
+| FirstSquawk | 97 | 10/02 20:18 | 10/03 05:02 | 44分（20:46→21:31） |
+| financialjuice | 144 | 10/02 20:17 | 10/03 07:43 | ⚠ 71分（05:20→06:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 279 行（統合前 293 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 268 行（統合前 282 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 20:02 [DeItaone] EU “FULLY REJECTS” POTENTIAL U.S. DIESEL EXPORT BAN The European Union says it “fully rejects” any potential U.S. ban on diesel exports, warning such a move would undermine trust in Washington as a reliable partner. At the same time, Brusse…
-- 10/02 20:08 [FirstSquawk] EU PREPARES FOR JOINT OIL MARKET MOVES IF IEA DEEMS IT NEEDED.
-- 10/02 20:08 [FirstSquawk] ALIBABA AND SOLARIA ARE DISCUSSING A POWER SUPPLY FOR A DATA CENTER IN SPAIN.
-- 10/02 20:08 [FirstSquawk] ALIBABA AND SOLARIA ARE IN INITIAL DISCUSSIONS, NO CONCLUSIONS REACHED YET.
-- 10/02 20:09 [DeItaone] FRENCH BOND ROUT APPROACHES EURO DEBT-CRISIS LEVELS France’s 10-year yield spread over Germany widened to 152 basis points, reaching levels not seen since 2011 as fiscal and political concerns intensify. Candriam CIO Nicolas Forest says Fre…
-- 10/02 20:12 [DeItaone] OPEC+ OIL PRODUCTION CAPACITY ASSESSMENT EXERCISE IS DELAYED BECAUSE NOT ALL COUNTRIES HAVE SUBMITTED DATA, SOURCES SAY OPEC+ OIL CAPACITY ASSESSMENT EXERCISE IS EXPECTED TO BE COMPLETED BY MID-NOVEMBER, SOURCE SAYS
-- 10/02 20:12 [financialjuice] Russian Deputy PM Novak: OPEC+ countries will discuss standard issues relating to the oil market and quota compliance at Sunday's meeting
-- 10/02 20:12 [financialjuice] OPEC+ oil production capacity assessment exercise is delayed because not all countries have submitted data - Sources
-- 10/02 20:12 [financialjuice] OPEC+ oil capacity assessment exercise is expected to be completed by mid-November - Source.
-- 10/02 20:13 [financialjuice] Russian Deputy PM Novak: Russia is currently basing its 2027 oil production forecast on a moderately conservative scenario
-- 10/02 20:14 [financialjuice] Russia’s Deputy PM Novak: OPEC+ members continue production capacity review - Tass
 - 10/02 20:17 [financialjuice] Microsoft & Amazon cloud arms set to face deeper EU scrutiny $MSFT $AMZN
 - 10/02 20:18 [FirstSquawk] MICROSOFT AND AMAZON'S CLOUD DIVISIONS WILL UNDERGO MORE EXAMINATION BY THE EU.
 - 10/02 20:23 [FirstSquawk] RUSSIAN DEPUTY PM NOVAK ANNOUNCED THAT OPEC+ MEMBERS WILL TALK ABOUT OIL MARKET MATTERS AND QUOTA FULFILLMENT AT THE SUNDAY MEETING.

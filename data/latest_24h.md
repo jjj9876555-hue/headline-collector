@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-03 07:59 JST／対象: 10/02 07:59 〜 10/03 07:59 JST（時刻はすべて日本時間）
+生成: 2026-10-03 08:16 JST／対象: 10/02 08:16 〜 10/03 08:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 63 | 10/02 17:55 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
 | FirstSquawk | 238 | 10/02 08:16 | 10/03 05:02 | 44分（20:46→21:31） |
-| financialjuice | 257 | 10/02 08:00 | 10/03 07:43 | ⚠ 71分（05:20→06:32） |
+| financialjuice | 252 | 10/02 08:20 | 10/03 07:43 | ⚠ 71分（05:20→06:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 542 行（統合前 560 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 537 行（統合前 555 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 08:00 [financialjuice] S. KOREAN CPI MOM ACTUAL 0.3% (FORECAST 0.4%, PREVIOUS 0.20%) $MACRO
-- 10/02 08:00 [financialjuice] S. KOREAN CPI YOY ACTUAL 2.9% (FORECAST 2.9%, PREVIOUS 3.10%) $MACRO
-- 10/02 08:00 [financialjuice] S.Korea Sept consumer price index rises 0.3% m/m: stats office
-- 10/02 08:00 [financialjuice] S. Korea September core CPI rises 2.8% y/y, down from 3.4% in August: stats office
-- 10/02 08:00 [financialjuice] S. Korea Sept consumer price index rises 2.9% y/y: stats office
 - 10/02 08:16 [FirstSquawk] SOUTH KOREA'S SEPTEMBER CONSUMER PRICE INDEX ROSE 2.9% YEAR-ON-YEAR, IN LINE WITH THE FORECAST AND EASING FROM 3.10%, AND WAS UP 0.3% MONTH-ON-MONTH, WITH CORE CPI UP 2.8% Y/Y, DOWN FROM 3.4% IN AUGUST - STATS OFFICE
 - 10/02 08:20 [financialjuice] Logan: higher yields may also indicate increased term premiums, lowering need to tighten monetary policy
 - 10/02 08:20 [financialjuice] Logan: Economic expansion strengthening, labor market well balanced
