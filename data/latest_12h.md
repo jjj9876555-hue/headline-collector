@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-03 00:25 JST／対象: 10/02 12:25 〜 10/03 00:25 JST（時刻はすべて日本時間）
+生成: 2026-10-03 00:48 JST／対象: 10/02 12:48 〜 10/03 00:48 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 58 | 10/02 17:55 | 10/02 23:02 | 23分（19:35→19:59） |
-| FirstSquawk | 129 | 10/02 12:28 | 10/03 00:22 | 44分（20:46→21:31） |
-| financialjuice | 139 | 10/02 13:02 | 10/03 00:20 | ⚠ 49分（18:00→18:49） |
+| DeItaone | 59 | 10/02 17:55 | 10/03 00:28 | ⚠ 85分（23:02→00:28） |
+| FirstSquawk | 129 | 10/02 13:00 | 10/03 00:44 | 44分（20:46→21:31） |
+| financialjuice | 142 | 10/02 13:02 | 10/03 00:45 | ⚠ 49分（18:00→18:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 318 行（統合前 327 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 320 行（統合前 331 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 12:28 [FirstSquawk] Vietnam’s Biggest Refinery Set for Around 50-Day Shutdown From August Next Year
-- 10/02 12:29 [FirstSquawk] Fitch Maintains Toyota’s ‘A+’ Rating With Stable Outlook
-- 10/02 12:36 [FirstSquawk] Gas Malaysia Sees Kedah Regasification Terminal Starting Commercial Operations by End-2030
-- 10/02 12:47 [FirstSquawk] Japan’s Acting Envoy Holds First Meeting With Myanmar Foreign Chief
 - 10/02 13:00 [FirstSquawk] US Regulator Seeks to Ease Crypto Holdings for Funds, Advisers, CNBC Says
 - 10/02 13:02 [financialjuice] Amazon plans to sell $8bn of Nvidia chips to investors: FT
 - 10/02 13:04 [FirstSquawk] 30-Year JGB Yield Rises 2 Basis Points to 4.190%
@@ -342,3 +338,9 @@
 - 10/03 00:15 [FirstSquawk] PFIZER'S LITFULO MEETS CO-PRIMARY ENDPOINTS IN VITILIGO
 - 10/03 00:20 [financialjuice] News sources reported that several powerful explosions were heard in Riyadh, the capital of Saudi Arabia - Tasnim News
 - 10/03 00:22 [FirstSquawk] SEVERAL LOUD EXPLOSIONS IN RIYADH, THE CAPITAL OF SAUDI ARABIA - TASNIM
+- 10/03 00:26 [FirstSquawk/DeItaone] SPOT GOLD FALLS NEARLY 1% TO $4,137.85/OZ
+- 10/03 00:31 [FirstSquawk] IRAQ SAYS IRANIAN AIRLINES ALLOWED 40 DAILY FLIGHTS TO NAJAF, EXCEPT MAHAN AIR
+- 10/03 00:37 [financialjuice] China trade envoy tells G20 willing to talk on industry policy.
+- 10/03 00:44 [FirstSquawk] CHINA CHIEF TRADE NEGOTIATOR LI CHENGGANG: TELLS G20 CHINA ARE WILLING TO TALK ON INDUSTRY POLICY
+- 10/03 00:44 [financialjuice/FirstSquawk] UKMTO: Tanker has reported being struck by an unknown projectile, whilst conducting an outbound transit within Strait of Hormuz
+- 10/03 00:45 [financialjuice] UKMTO: Incident resulted in a small fire and blackout onboard.

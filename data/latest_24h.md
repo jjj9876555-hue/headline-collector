@@ -7,41 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-03 00:25 JST／対象: 10/02 00:25 〜 10/03 00:25 JST（時刻はすべて日本時間）
+生成: 2026-10-03 00:48 JST／対象: 10/02 00:48 〜 10/03 00:48 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 107 | 10/02 01:02 | 10/02 23:02 | ⚠ 755分（05:19→17:55） |
-| FirstSquawk | 299 | 10/02 00:27 | 10/03 00:22 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 345 | 10/02 00:31 | 10/03 00:20 | ⚠ 79分（06:41→08:00） |
+| DeItaone | 108 | 10/02 01:02 | 10/03 00:28 | ⚠ 755分（05:19→17:55） |
+| FirstSquawk | 293 | 10/02 01:03 | 10/03 00:44 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 339 | 10/02 00:57 | 10/03 00:45 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 716 行（統合前 755 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 704 行（統合前 744 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 00:27 [FirstSquawk] PULTE'S BUDGET CUTS TO HIT UP TO 80% OF FHFA WATCHDOG STAFF
-- 10/02 00:30 [FirstSquawk] TOYOTA US NEW CAR SALES RISE 8.4% IN SEPT. TO 201,306 VEHICLES
-- 10/02 00:31 [FirstSquawk] CHILE'S CODELCO SUSPENDS OPERATIONS IN AREA OF RADOMIRO TOMIC MINE WHERE FATAL ACCIDENT HAPPENED - STATEMENT
-- 10/02 00:31 [FirstSquawk] GM 3Q US DELIVERIES 670,974 UNITS, -5.5% Y/Y
-- 10/02 00:31 [financialjuice] GM 3Q US deliveries 670,974 units, -5.5% y/y $GM
-- 10/02 00:32 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 1.64%; GERMANY'S DAX DOWN 0.87%
-- 10/02 00:32 [FirstSquawk] FRANCE'S CAC 40 DOWN 1.47%; SPAIN'S IBEX DOWN 2.02%
-- 10/02 00:32 [financialjuice] US 4-WEEK BILL HIGH YIELD ACTUAL 3.89% (FORECAST -, PREVIOUS 3.850%) $MACRO
-- 10/02 00:32 [financialjuice] US 4-WEEK BILL BID-TO-COVER ACTUAL 2.83 (FORECAST -, PREVIOUS 2.610) $MACRO
-- 10/02 00:32 [FirstSquawk] TOYOTA SEPT US ELECTRIFIED VEHICLE SALES 117,215, UP 37.8% Y/Y
-- 10/02 00:33 [financialjuice] US 4-Week Bill Auction High Yield 3.89% Bid-to-Cover 2.83 Sells $100 bln Awards 23.52% of bids at high
-- 10/02 00:37 [financialjuice/FirstSquawk] ❗ Traders trim ECB rate bets, no longer fully price 3 more hikes.
-- 10/02 00:40 [financialjuice] Money markets no longer fully price in one more ECB interest rate hike by year-end.
-- 10/02 00:41 [financialjuice] ❗ German government raises forecast for economic growth to 1.3% in 2026, up from 0.5% in April, a person familiar with the draft said.
-- 10/02 00:41 [financialjuice] German Government forecasts growth of 0.6% in 2028 - a person familiar with the draft said
-- 10/02 00:42 [FirstSquawk] US TWO-YEAR YIELD FALLS 10 BASIS POINTS ON DAY TO 4.785%
-- 10/02 00:44 [financialjuice] ❗ traders no longer fully price in 4 BOE rate hikes by the end of 2027.
-- 10/02 00:44 [FirstSquawk] TRADERS NO LONGER FULLY PRICE 4 BOE RATE HIKES BY END OF 2027
 - 10/02 00:57 [financialjuice] Saudi East-West crude pipeline at 5.5mn b/d - Argus Media cites source
 - 10/02 00:57 [financialjuice] ❗ EU energy Union task force to meet friday to discuss potential diesel stock releases - Two EU diplomats
 - 10/02 01:00 [financialjuice] Freddie Mac: 30-year fixed-rate mortgage averaged 7.28% as of Oct. 1; US mortgage rates rise to 7.28%, highest since October 2023
@@ -740,3 +722,9 @@
 - 10/03 00:15 [FirstSquawk] PFIZER'S LITFULO MEETS CO-PRIMARY ENDPOINTS IN VITILIGO
 - 10/03 00:20 [financialjuice] News sources reported that several powerful explosions were heard in Riyadh, the capital of Saudi Arabia - Tasnim News
 - 10/03 00:22 [FirstSquawk] SEVERAL LOUD EXPLOSIONS IN RIYADH, THE CAPITAL OF SAUDI ARABIA - TASNIM
+- 10/03 00:26 [FirstSquawk/DeItaone] SPOT GOLD FALLS NEARLY 1% TO $4,137.85/OZ
+- 10/03 00:31 [FirstSquawk] IRAQ SAYS IRANIAN AIRLINES ALLOWED 40 DAILY FLIGHTS TO NAJAF, EXCEPT MAHAN AIR
+- 10/03 00:37 [financialjuice] China trade envoy tells G20 willing to talk on industry policy.
+- 10/03 00:44 [FirstSquawk] CHINA CHIEF TRADE NEGOTIATOR LI CHENGGANG: TELLS G20 CHINA ARE WILLING TO TALK ON INDUSTRY POLICY
+- 10/03 00:44 [financialjuice/FirstSquawk] UKMTO: Tanker has reported being struck by an unknown projectile, whilst conducting an outbound transit within Strait of Hormuz
+- 10/03 00:45 [financialjuice] UKMTO: Incident resulted in a small fire and blackout onboard.

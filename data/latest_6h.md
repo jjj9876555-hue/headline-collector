@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-03 00:25 JST／対象: 10/02 18:25 〜 10/03 00:25 JST（時刻はすべて日本時間）
+生成: 2026-10-03 00:48 JST／対象: 10/02 18:48 〜 10/03 00:48 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 54 | 10/02 18:25 | 10/02 23:02 | 23分（19:35→19:59） |
-| FirstSquawk | 75 | 10/02 18:26 | 10/03 00:22 | 44分（20:46→21:31） |
-| financialjuice | 96 | 10/02 18:49 | 10/03 00:20 | 29分（19:42→20:12） |
+| DeItaone | 52 | 10/02 18:49 | 10/03 00:28 | ⚠ 85分（23:02→00:28） |
+| FirstSquawk | 77 | 10/02 18:57 | 10/03 00:44 | 44分（20:46→21:31） |
+| financialjuice | 99 | 10/02 18:49 | 10/03 00:45 | 29分（19:42→20:12） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 218 行（統合前 226 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 219 行（統合前 229 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 18:25 [DeItaone] $NVDA - MORGAN STANLEY RENAMES NVIDIA TO TOP PICK
-- 10/02 18:26 [FirstSquawk] SWEDEN'S PARLIAMENT SPEAKER URGES SOCIAL DEMOCRATS TO RESTART GOVERNMENT FORMATION EFFORTS.
-- 10/02 18:26 [FirstSquawk] MORGAN STANLEY HAS NAMED NVIDIA AS A TOP PICK ONCE AGAIN.
-- 10/02 18:29 [DeItaone] 🇺🇸 PRESIDENT TRUMP — FRIDAY, OCTOBER 2, 2026 🔸 8:00 AM — Executive Time — White House 🔸 9:00 AM — In-Town Pool Call Time 🔸 11:00 AM — Intelligence Briefing — Oval Office 🔸 12:30 PM — Policy Meeting — Oval Office 🔸 2:40 PM — Out-of-Town Trav…
-- 10/02 18:31 [DeItaone] AI BOOM MAY REQUIRE U.S. SPENDING EQUAL TO 9% OF GDP America may need to spend roughly $3.5 trillion annually on AI services by 2032 — 8.8% of GDP — to justify today’s massive data-center investment, according to Columbia professor Stijn Va…
 - 10/02 18:49 [DeItaone] RUSSIAN DEPUTY PM NOVAK: RUSSIA WILL BE CONSIDERING PARTIALLY LIFTING DIESEL EXPORTS RESTRICTIONS
 - 10/02 18:49 [financialjuice] Poll: Euro forecast to trade at $1.15 at year-end, $1.15 in six months and $1.16 in a year (vs $1.16, $1.17 and $1.18 in the September poll)
 - 10/02 18:50 [financialjuice] Poll: US Dollar More likely to trade stronger than expectations at year-end, according to 52 of 66 FX strategists
@@ -242,3 +237,9 @@
 - 10/03 00:15 [FirstSquawk] PFIZER'S LITFULO MEETS CO-PRIMARY ENDPOINTS IN VITILIGO
 - 10/03 00:20 [financialjuice] News sources reported that several powerful explosions were heard in Riyadh, the capital of Saudi Arabia - Tasnim News
 - 10/03 00:22 [FirstSquawk] SEVERAL LOUD EXPLOSIONS IN RIYADH, THE CAPITAL OF SAUDI ARABIA - TASNIM
+- 10/03 00:26 [FirstSquawk/DeItaone] SPOT GOLD FALLS NEARLY 1% TO $4,137.85/OZ
+- 10/03 00:31 [FirstSquawk] IRAQ SAYS IRANIAN AIRLINES ALLOWED 40 DAILY FLIGHTS TO NAJAF, EXCEPT MAHAN AIR
+- 10/03 00:37 [financialjuice] China trade envoy tells G20 willing to talk on industry policy.
+- 10/03 00:44 [FirstSquawk] CHINA CHIEF TRADE NEGOTIATOR LI CHENGGANG: TELLS G20 CHINA ARE WILLING TO TALK ON INDUSTRY POLICY
+- 10/03 00:44 [financialjuice/FirstSquawk] UKMTO: Tanker has reported being struck by an unknown projectile, whilst conducting an outbound transit within Strait of Hormuz
+- 10/03 00:45 [financialjuice] UKMTO: Incident resulted in a small fire and blackout onboard.
