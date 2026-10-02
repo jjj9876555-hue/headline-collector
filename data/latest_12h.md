@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-02 13:37 JST／対象: 10/02 01:37 〜 10/02 13:37 JST（時刻はすべて日本時間）
+生成: 2026-10-02 13:54 JST／対象: 10/02 01:54 〜 10/02 13:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 35 | 10/02 01:41 | 10/02 05:19 | ⚠ 96分（03:42→05:19） |
-| FirstSquawk | 160 | 10/02 01:39 | 10/02 13:34 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 176 | 10/02 01:40 | 10/02 13:04 | ⚠ 79分（06:41→08:00） |
+| DeItaone | 31 | 10/02 01:55 | 10/02 05:19 | ⚠ 96分（03:42→05:19） |
+| FirstSquawk | 159 | 10/02 02:31 | 10/02 13:51 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 173 | 10/02 02:08 | 10/02 13:45 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 354 行（統合前 373 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 346 行（統合前 364 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 01:39 [FirstSquawk] TRUMP, ASKED IF BUILDING BASE IN LATAM, SAYS LOOKING INTO IT
-- 10/02 01:40 [financialjuice] Trump: Interest rates will hurt our growth.
-- 10/02 01:41 [FirstSquawk] TRUMP ON WARSH: I WANT HIM TO VOTE THE WAY HE WANTS
-- 10/02 01:41 [DeItaone] https://t.co/LDy0rtNnVh
-- 10/02 01:44 [financialjuice] Iran's UN Mission: US and Western allies lack credibility to lecture Iran on non-proliferation or international law while shielding Israel from accountability and staying silent on its nuclear arsenal - Post on X
-- 10/02 01:47 [DeItaone] BOFA STOCK SENTIMENT NEARS “SELL” SIGNAL Bank of America’s Sell Side Indicator rose to 57.2% in September, its highest since March 2022 and just 0.3 percentage points below BofA’s “sell” threshold. The contrarian indicator tracks Wall Stree…
-- 10/02 01:51 [DeItaone] TRUMP: INTEREST RATES CAN SLOW DOWN GROWTH. WE WANT GROWTH — AND GROWTH DOES NOT CAUSE INFLATION
-- 10/02 01:51 [financialjuice] Trump on Iran: now I have to make a decision. Either Iran signs deal, or it won't exist any longer.
-- 10/02 01:51 [financialjuice] Trump ends remarks to reporters
-- 10/02 01:51 [DeItaone] *TRUMP ON IRAN: NOW I HAVE TO MAKE A DECISION *TRUMP: EITHER IRAN SIGNS DEAL, OR IT WON'T EXIST ANY LONGER
-- 10/02 01:51 [financialjuice] Putin: we support trilateral meeting with Xi, Trump, but agenda for talks should be worked out.
-- 10/02 01:52 [FirstSquawk] TRUMP ON IRAN: NOW I HAVE TO MAKE A DECISION
-- 10/02 01:52 [FirstSquawk] TRUMP: EITHER IRAN SIGNS DEAL, OR IT WON'T EXIST ANY LONGER
 - 10/02 01:55 [DeItaone] *PUTIN SAYS HE OPEN TO TRILATERAL TALKS WITH US, CHINA
 - 10/02 02:08 [financialjuice/FirstSquawk] Trump, asked if the pilot had any connection to Iran: We are looking into that, according to what I'm hearing, yes - Israel's N12 News
 - 10/02 02:09 [financialjuice] Putin: Russia ready to resume dialog with the US on arms control.
@@ -244,6 +231,7 @@
 - 10/02 05:18 [financialjuice] Trump: Iran will be ending soon, one way or the other.
 - 10/02 05:19 [financialjuice] Trump, asked about Iran's involvement in the UK base: Looks like it.
 - 10/02 05:19 [DeItaone] TRUMP: MAY ASK EUROPEAN COUNTRIES TO RELEASE DIESEL STOCKS
+- 10/02 05:24 [financialjuice] Trump ends remarks to reporters.
 - 10/02 05:43 [FirstSquawk] ONSEMI IS TO BUY SYNAPTICS FOR $123 PER SHARE IN CASH UNDER A REVISED MERGER AGREEMENT, VALUING THE DEAL AT $5.70 BLN, SOURCES SAY, WITH THE TRANSACTION EXPECTED TO BE IMMEDIATELY ACCRETIVE TO ONSEMI'S NON-GAAP EPS AND FINANCED WITH CASH AN…
 - 10/02 05:43 [FirstSquawk] ONSEMI SAYS THE COMPANIES HAVE IDENTIFIED FURTHER OPPORTUNITIES BEYOND $200 MLN IN ANNUAL RUN-RATE SYNERGIES.
 - 10/02 06:01 [financialjuice/FirstSquawk] Egypt declares Ethiopian embassy counsellor persona non grata, orders departure within 48 hours: official, al Qahera news
@@ -378,3 +366,7 @@
 - 10/02 13:08 [FirstSquawk] UK MINISTERS REJECT UNION PRESSURE TO RESCUE SCOTTISH STEELMAKER - FT
 - 10/02 13:12 [FirstSquawk] JAPAN 20-YEAR JGB YIELD CLIMBS 1 BP TO 3.950%
 - 10/02 13:34 [FirstSquawk] GOLD SLIPS WITH U.S. DOLLAR, YIELDS SEEN AS KEY HURDLES TO FURTHER GAINS - WSJ
+- 10/02 13:38 [FirstSquawk] DEMOCRATIC SENATORS CHALLENGE TRUMP OFFICIALS OVER PENTAGON VENEZUELA OIL DEAL - WSJ
+- 10/02 13:45 [FirstSquawk] RUSSIAN AIR STRIKE ON KYIV LEAVES ONE DEAD, TWO INJURED, CITY AUTHORITIES SAY
+- 10/02 13:45 [financialjuice] Russian airstrike kills one, injures two in Kyiv, city authorities say
+- 10/02 13:51 [FirstSquawk] JAPAN YIELD ON 40-YEAR JGB RISES 3BPS TO 4.250%

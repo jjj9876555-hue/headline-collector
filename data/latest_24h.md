@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-02 13:37 JST／対象: 10/01 13:37 〜 10/02 13:37 JST（時刻はすべて日本時間）
+生成: 2026-10-02 13:54 JST／対象: 10/01 13:54 〜 10/02 13:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 93 | 10/01 16:25 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 321 | 10/01 14:00 | 10/02 13:34 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 381 | 10/01 13:37 | 10/02 13:04 | ⚠ 79分（06:41→08:00） |
+| FirstSquawk | 324 | 10/01 14:00 | 10/02 13:51 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 380 | 10/01 13:54 | 10/02 13:45 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 757 行（統合前 801 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 759 行（統合前 803 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 13:37 [financialjuice] India monthly economic report: expansion momentum persists amid increased global uncertainty
-- 10/01 13:37 [financialjuice] India monthly economic report: net foreign direct investment inflows projected to rise this financial year from last year
 - 10/01 13:54 [financialjuice] Bahrain aug m2 money supply rises 7.76% y/y: central bank
 - 10/01 13:55 [financialjuice] Bahrain Aug private sector credit advances 6.31% y/y: central bank
 - 10/01 14:00 [FirstSquawk] INDIA (SEP) HSBC INDIA PMI MFG ACTUAL: 55.1 VS 55.7 PREVIOUS
@@ -781,3 +779,7 @@
 - 10/02 13:08 [FirstSquawk] UK MINISTERS REJECT UNION PRESSURE TO RESCUE SCOTTISH STEELMAKER - FT
 - 10/02 13:12 [FirstSquawk] JAPAN 20-YEAR JGB YIELD CLIMBS 1 BP TO 3.950%
 - 10/02 13:34 [FirstSquawk] GOLD SLIPS WITH U.S. DOLLAR, YIELDS SEEN AS KEY HURDLES TO FURTHER GAINS - WSJ
+- 10/02 13:38 [FirstSquawk] DEMOCRATIC SENATORS CHALLENGE TRUMP OFFICIALS OVER PENTAGON VENEZUELA OIL DEAL - WSJ
+- 10/02 13:45 [FirstSquawk] RUSSIAN AIR STRIKE ON KYIV LEAVES ONE DEAD, TWO INJURED, CITY AUTHORITIES SAY
+- 10/02 13:45 [financialjuice] Russian airstrike kills one, injures two in Kyiv, city authorities say
+- 10/02 13:51 [FirstSquawk] JAPAN YIELD ON 40-YEAR JGB RISES 3BPS TO 4.250%
