@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-02 18:41 JST／対象: 10/02 12:41 〜 10/02 18:41 JST（時刻はすべて日本時間）
+生成: 2026-10-02 18:56 JST／対象: 10/02 12:56 〜 10/02 18:56 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 7 | 10/02 17:55 | 10/02 18:31 | 23分（18:02→18:25） |
-| FirstSquawk | 53 | 10/02 12:47 | 10/02 18:26 | 38分（17:15→17:53） |
-| financialjuice | 43 | 10/02 13:02 | 10/02 18:00 | 44分（14:43→15:27） |
+| DeItaone | 10 | 10/02 17:55 | 10/02 18:51 | 23分（18:02→18:25） |
+| FirstSquawk | 52 | 10/02 13:00 | 10/02 18:26 | 38分（17:15→17:53） |
+| financialjuice | 50 | 10/02 13:02 | 10/02 18:51 | ⚠ 49分（18:00→18:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 102 行（統合前 103 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 111 行（統合前 112 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 12:47 [FirstSquawk] Japan’s Acting Envoy Holds First Meeting With Myanmar Foreign Chief
 - 10/02 13:00 [FirstSquawk] US Regulator Seeks to Ease Crypto Holdings for Funds, Advisers, CNBC Says
 - 10/02 13:02 [financialjuice] Amazon plans to sell $8bn of Nvidia chips to investors: FT
 - 10/02 13:04 [FirstSquawk] 30-Year JGB Yield Rises 2 Basis Points to 4.190%
@@ -126,3 +125,13 @@
 - 10/02 18:26 [FirstSquawk] MORGAN STANLEY HAS NAMED NVIDIA AS A TOP PICK ONCE AGAIN.
 - 10/02 18:29 [DeItaone] 🇺🇸 PRESIDENT TRUMP — FRIDAY, OCTOBER 2, 2026 🔸 8:00 AM — Executive Time — White House 🔸 9:00 AM — In-Town Pool Call Time 🔸 11:00 AM — Intelligence Briefing — Oval Office 🔸 12:30 PM — Policy Meeting — Oval Office 🔸 2:40 PM — Out-of-Town Trav…
 - 10/02 18:31 [DeItaone] AI BOOM MAY REQUIRE U.S. SPENDING EQUAL TO 9% OF GDP America may need to spend roughly $3.5 trillion annually on AI services by 2032 — 8.8% of GDP — to justify today’s massive data-center investment, according to Columbia professor Stijn Va…
+- 10/02 18:49 [DeItaone] RUSSIAN DEPUTY PM NOVAK: RUSSIA WILL BE CONSIDERING PARTIALLY LIFTING DIESEL EXPORTS RESTRICTIONS
+- 10/02 18:49 [financialjuice] Poll: Euro forecast to trade at $1.15 at year-end, $1.15 in six months and $1.16 in a year (vs $1.16, $1.17 and $1.18 in the September poll)
+- 10/02 18:50 [financialjuice] Poll: US Dollar More likely to trade stronger than expectations at year-end, according to 52 of 66 FX strategists
+- 10/02 18:50 [DeItaone] *NOVAK: MAY PARTLY REOPEN DIESEL EXPORTS IF OVERSUPPLY: IFX
+- 10/02 18:50 [financialjuice] Russia’s Deputy PM Novak: Russia did a lot of work on protecting refineries - TASS
+- 10/02 18:51 [financialjuice] Russia’s Deputy PM Novak: Damage to refineries much lower now - Tass
+- 10/02 18:51 [DeItaone] RUSSIAN DEPUTY PM NOVAK: RUSSIA WILL CONSIDER IT IN CASE OF OVERPRODUCTION
+- 10/02 18:51 [financialjuice] Russian Deputy PM Novak: Russia repelled attacks on 4 oil refineries overnight
+- 10/02 18:51 [financialjuice] Russian Deputy PM Novak: Russia will be considering partially lifting diesel export restrictions
+- 10/02 18:51 [financialjuice] Russia’s Deputy PM Novak: Russia may allow diesel exports if overproduction - Tass
