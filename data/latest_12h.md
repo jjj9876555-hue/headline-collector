@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-03 01:01 JST／対象: 10/02 13:01 〜 10/03 01:01 JST（時刻はすべて日本時間）
+生成: 2026-10-03 01:22 JST／対象: 10/02 13:22 〜 10/03 01:22 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 59 | 10/02 17:55 | 10/03 00:28 | ⚠ 85分（23:02→00:28） |
-| FirstSquawk | 131 | 10/02 13:04 | 10/03 00:58 | 44分（20:46→21:31） |
-| financialjuice | 144 | 10/02 13:02 | 10/03 00:58 | ⚠ 49分（18:00→18:49） |
+| FirstSquawk | 128 | 10/02 13:34 | 10/03 01:20 | 44分（20:46→21:31） |
+| financialjuice | 144 | 10/02 13:45 | 10/03 01:07 | ⚠ 49分（18:00→18:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 323 行（統合前 335 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 320 行（統合前 332 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 13:02 [financialjuice] Amazon plans to sell $8bn of Nvidia chips to investors: FT
-- 10/02 13:04 [FirstSquawk] 30-Year JGB Yield Rises 2 Basis Points to 4.190%
-- 10/02 13:04 [financialjuice] Yemen's armed forces: air force conducts 20 strikes on Houthi targets across multiple areas of Taiz province in past three hours - spokesperson on X
-- 10/02 13:07 [FirstSquawk] AMAZON SEEKS INVESTORS TO TAKE ON $8B OF NVIDIA CHIPS - FT
-- 10/02 13:07 [FirstSquawk] ZELENSKYY: PUTIN INSTRUCTED MILITARY LEADERS TO ABANDON RULES OF WAR - FT
-- 10/02 13:08 [FirstSquawk] UK MINISTERS REJECT UNION PRESSURE TO RESCUE SCOTTISH STEELMAKER - FT
-- 10/02 13:12 [FirstSquawk] JAPAN 20-YEAR JGB YIELD CLIMBS 1 BP TO 3.950%
 - 10/02 13:34 [FirstSquawk] GOLD SLIPS WITH U.S. DOLLAR, YIELDS SEEN AS KEY HURDLES TO FURTHER GAINS - WSJ
 - 10/02 13:38 [FirstSquawk] DEMOCRATIC SENATORS CHALLENGE TRUMP OFFICIALS OVER PENTAGON VENEZUELA OIL DEAL - WSJ
 - 10/02 13:45 [FirstSquawk] RUSSIAN AIR STRIKE ON KYIV LEAVES ONE DEAD, TWO INJURED, CITY AUTHORITIES SAY
@@ -347,3 +340,7 @@
 - 10/03 00:57 [FirstSquawk] GOOGLE CLOUD: ANNOUNCES GENERAL AVAILABILITY OF SPANNER QUEUES FOR TRANSACTIONAL MESSAGING IN AI AGENT WORKLOADS
 - 10/03 00:57 [financialjuice/FirstSquawk] IEA's Birol: Oil prices are starting to fall.
 - 10/03 00:58 [financialjuice] 2 unarmed Pakistani civilians killed in firing by Indian border security forces - Pakistani security sources
+- 10/03 01:06 [financialjuice] ❗ Saudis plan assault on Houthis to break Red Sea chokehold, according to western and regional officials
+- 10/03 01:07 [financialjuice] Google raises price of budget Pixel 10A phone by $100 to $599. $GOOGL
+- 10/03 01:11 [FirstSquawk] GOOGLE RAISES PRICE OF BUDGET PIXEL BY $100 TO $599
+- 10/03 01:20 [FirstSquawk] CARNEY WILL BE THE FIRST CANADIAN LEADER TO VISIT TURKEY FOR A DEDICATED BILATERAL MEETING.

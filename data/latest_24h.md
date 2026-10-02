@@ -7,47 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-03 01:01 JST／対象: 10/02 01:01 〜 10/03 01:01 JST（時刻はすべて日本時間）
+生成: 2026-10-03 01:22 JST／対象: 10/02 01:22 〜 10/03 01:22 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 108 | 10/02 01:02 | 10/03 00:28 | ⚠ 755分（05:19→17:55） |
-| FirstSquawk | 296 | 10/02 01:03 | 10/03 00:58 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 338 | 10/02 01:07 | 10/03 00:58 | ⚠ 79分（06:41→08:00） |
+| DeItaone | 98 | 10/02 01:29 | 10/03 00:28 | ⚠ 755分（05:19→17:55） |
+| FirstSquawk | 292 | 10/02 01:24 | 10/03 01:20 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 327 | 10/02 01:27 | 10/03 01:07 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 705 行（統合前 745 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 685 行（統合前 720 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 01:02 [DeItaone] EU ENERGY UNION TASKFORCE TO MEET FRIDAY TO DISCUSS POTENTIAL DIESEL STOCK RELEASES, TWO EU DIPLOMATS SAY
-- 10/02 01:03 [FirstSquawk] US 30-YR FIXED RATE MORTGAGE AVERAGES 7.28 PCT IN OCT 1 WEEK, HIGHEST SINCE NOV 22, 2023 WEEK, VS 7.03 PCT PRIOR WEEK-FREDDIE MAC
-- 10/02 01:06 [DeItaone] CITADEL’S RUBNER: Q4 IS THE “RELOAD” Citadel Securities’ Scott Rubner expects retail investors to return to U.S. stocks in October after trading activity cooled sharply in September. He says lower positioning, cheaper valuations, returning …
-- 10/02 01:07 [FirstSquawk] SAUDI EAST-WEST CRUDE PIPELINE RECOVERS TO 5.5 MLN B/D - ARGUS
-- 10/02 01:07 [financialjuice] Syria denies claims of secret meeting between Damascus representatives and Hezbollah in Turkey - ISNA
-- 10/02 01:09 [financialjuice] Putin: Russia not threatening anyone.
-- 10/02 01:11 [FirstSquawk] ITALY-GERMANY TWO-YEAR BOND YIELD SPREAD WIDENS MOST SINCE 2020
-- 10/02 01:11 [financialjuice] WATCH LIVE: Putin Speaks
-- 10/02 01:11 [DeItaone] PUTIN ON THREATS OVER KALININGRAD: WE DO NOT SCARE ANYONE PUTIN: MILITARY DRILLS, ARRESTS OF RUSSIAN VESSELS IS AN ESCALATION PUTIN: EMERGENCE ON THE AGENDA OF USAGE OF ALL AVAILABLE MEANS WILL BE UNAVOIDABLE
-- 10/02 01:12 [financialjuice] Microsoft launches mAI-transcribe-2-streaming. $MSFT
-- 10/02 01:13 [DeItaone/FirstSquawk/financialjuice] PUTIN: IF THREAT EMERGES TO RUSSIAN EXCLAVE OF KALININGRAD WE WILL CONSIDER USING ALL WEAPONS IN OUR ARSENAL
-- 10/02 01:13 [FirstSquawk] MICROSOFT LAUNCHES MAI-TRANSCRIBE-2-STREAMING
-- 10/02 01:14 [financialjuice] Microsoft MAI-Transcribe-2-Streaming priced at $0.54/hr. $MSFT
-- 10/02 01:15 [DeItaone/financialjuice] PUTIN: WE ARE NOT GOING TO ATTACK ANYONE, BUT WILL RESPOND IF WE FACE AGGRESSION
-- 10/02 01:16 [DeItaone/financialjuice/FirstSquawk] PUTIN: WE ARE NOT THREATENING ANYONE AND WE DO NOT PLAN TO ATTACK ANY EUROPEAN COUNTRIES, NOT IN 2030, NOT IN 2050
-- 10/02 01:18 [DeItaone] PUTIN: WESTERN INTELLIGENCE ASSISTANCE TO UKRAINE TO STRIKE DEEP INTO RUSSIA REPRESENTS A THREAT FOR THE FUTURE
-- 10/02 01:18 [financialjuice] Saudi-led coalition: Yemen's Houthis targeted power distribution station in Medina on September 29th.
-- 10/02 01:18 [DeItaone] EU TRADE CHIEF SEFCOVIC SAYS HE DISCUSSED HIGH DIESEL PRICES WITH USTR GREER, EXPRESSED EUROPE'S DESIRE FOR COORDINATED APPROACH
-- 10/02 01:19 [financialjuice] EU Trade Chief Sefcovic: Discussed high diesel prices with USTR Greer, expressed Europe's desire for a coordinated approach
-- 10/02 01:19 [financialjuice] Saudi-led coalition: Houthi attack put one transformer at power distribution station in Medina out of service but did not affect power network.
-- 10/02 01:19 [financialjuice] Putin: We are not going to attack tomorrow enterprises in countries which supply weapons to Ukraine, but that's a threat.
-- 10/02 01:20 [DeItaone] VENEZUELA OIL EXPORTS FALL, U.S. SHIPMENTS RISE Venezuela’s oil exports fell to 1.08 million bpd in September, while shipments to the U.S. increased to 629,000 bpd. Exports to India fell to 253,000 bpd and Europe to 86,000 bpd. Chevron’s Ve…
-- 10/02 01:20 [financialjuice] Putin: When someone wants to fight with Russia using Ukraine as a proxy that is a threat.
-- 10/02 01:21 [DeItaone] OPENAI PARTS WAYS WITH THREE SAFETY RESEARCHERS OpenAI has parted ways with three safety researchers for allegedly sharing confidential company information with a third-party AI-safety organization, according to the WSJ. OpenAI said an inte…
 - 10/02 01:24 [FirstSquawk] VENEZUELA'S EXPORTS TO US INCREASED TO 629K BPD IN SEPTEMBER
 - 10/02 01:27 [financialjuice] Putin: Ukraine partially achieved its aims in hitting Russian oil refineries, Russia responded in kind.
 - 10/02 01:29 [FirstSquawk/financialjuice] PUTIN: RUSSIA HAS ENOUGH DIESEL DESPITE STRIKES
@@ -729,3 +705,7 @@
 - 10/03 00:57 [FirstSquawk] GOOGLE CLOUD: ANNOUNCES GENERAL AVAILABILITY OF SPANNER QUEUES FOR TRANSACTIONAL MESSAGING IN AI AGENT WORKLOADS
 - 10/03 00:57 [financialjuice/FirstSquawk] IEA's Birol: Oil prices are starting to fall.
 - 10/03 00:58 [financialjuice] 2 unarmed Pakistani civilians killed in firing by Indian border security forces - Pakistani security sources
+- 10/03 01:06 [financialjuice] ❗ Saudis plan assault on Houthis to break Red Sea chokehold, according to western and regional officials
+- 10/03 01:07 [financialjuice] Google raises price of budget Pixel 10A phone by $100 to $599. $GOOGL
+- 10/03 01:11 [FirstSquawk] GOOGLE RAISES PRICE OF BUDGET PIXEL BY $100 TO $599
+- 10/03 01:20 [FirstSquawk] CARNEY WILL BE THE FIRST CANADIAN LEADER TO VISIT TURKEY FOR A DEDICATED BILATERAL MEETING.

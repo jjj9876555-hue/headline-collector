@@ -7,33 +7,26 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-03 01:01 JST／対象: 10/02 19:01 〜 10/03 01:01 JST（時刻はすべて日本時間）
+生成: 2026-10-03 01:22 JST／対象: 10/02 19:22 〜 10/03 01:22 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 47 | 10/02 19:02 | 10/03 00:28 | ⚠ 85分（23:02→00:28） |
-| FirstSquawk | 77 | 10/02 19:02 | 10/03 00:58 | 44分（20:46→21:31） |
-| financialjuice | 94 | 10/02 19:16 | 10/03 00:58 | 29分（19:42→20:12） |
+| DeItaone | 43 | 10/02 19:22 | 10/03 00:28 | ⚠ 85分（23:02→00:28） |
+| FirstSquawk | 76 | 10/02 19:31 | 10/03 01:20 | 44分（20:46→21:31） |
+| financialjuice | 95 | 10/02 19:22 | 10/03 01:07 | 29分（19:42→20:12） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 208 行（統合前 219 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 205 行（統合前 215 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 19:02 [FirstSquawk] SCOTIABANK INCREASES SHARE BUYBACK TARGET TO 40 MILLION FROM 15 MILLION.
-- 10/02 19:02 [DeItaone] FRENCH DEFAULT PROTECTION COSTS HIT MULTIYEAR HIGH The cost of insuring French government debt against default has climbed to a multiyear high, with 5-year sovereign CDS rising to 81 basis points. Meanwhile, France’s 10-year yield spread ov…
-- 10/02 19:09 [FirstSquawk] UKRAINE'S PM KORETSKYI ANNOUNCED A RECEIPT OF €2.9 BILLION FROM THE EU.
-- 10/02 19:12 [FirstSquawk] FRANCE'S BOND RISK PREMIUM INCREASES TO 150 BPS, A FIRST SINCE 2012.
-- 10/02 19:16 [financialjuice] UK diesel average prices rise above £2/litre for the first time - RAC
-- 10/02 19:20 [DeItaone] GERMAN GOVERNMENT SPOKESPERSON: WE CONTINUE TO SEE U.S. AS RELIABLE SUPPLIER OF FUEL
-- 10/02 19:21 [DeItaone/financialjuice] EU SPOKESPERSON: WE FULLY REJECT ANY BAN ON DIESEL
-- 10/02 19:22 [DeItaone] FRENCH-GERMAN 10-YEAR GOVERNMENT BOND-YIELD SPREAD HITS 151.95, WIDEST SINCE NOV. 2011: LSEG DATA
 - 10/02 19:22 [financialjuice] German Government Spokesperson: We continue to see the US as a reliable supplier of fuel
 - 10/02 19:22 [DeItaone/financialjuice] EU SPOKESPERSON: A BAN WOULD NOT BE BENEFICIAL TO ANYONE. IT WOULD UNDERMINE OUR TRUST IN THE UNITED STATES AS A RELIABLE PARTNER
+- 10/02 19:22 [financialjuice] EU Spokesperson: We fully reject any ban on diesel
 - 10/02 19:24 [DeItaone] FRANCE FLOATS 100 MILLION-BARREL ENERGY RESERVE RELEASE France has proposed that EU countries release 50 million barrels of crude and 50 million barrels of diesel as Europe responds to U.S. pressure to boost fuel supplies. The proposal rema…
 - 10/02 19:25 [financialjuice] EU Spokesperson: Any release is something that is organized by the International Energy Agency
 - 10/02 19:26 [financialjuice] EU Spokesperson: Next oil coordination group on the 15th of October, if the situation requires, we are ready to convene one earlier
@@ -232,3 +225,7 @@
 - 10/03 00:57 [FirstSquawk] GOOGLE CLOUD: ANNOUNCES GENERAL AVAILABILITY OF SPANNER QUEUES FOR TRANSACTIONAL MESSAGING IN AI AGENT WORKLOADS
 - 10/03 00:57 [financialjuice/FirstSquawk] IEA's Birol: Oil prices are starting to fall.
 - 10/03 00:58 [financialjuice] 2 unarmed Pakistani civilians killed in firing by Indian border security forces - Pakistani security sources
+- 10/03 01:06 [financialjuice] ❗ Saudis plan assault on Houthis to break Red Sea chokehold, according to western and regional officials
+- 10/03 01:07 [financialjuice] Google raises price of budget Pixel 10A phone by $100 to $599. $GOOGL
+- 10/03 01:11 [FirstSquawk] GOOGLE RAISES PRICE OF BUDGET PIXEL BY $100 TO $599
+- 10/03 01:20 [FirstSquawk] CARNEY WILL BE THE FIRST CANADIAN LEADER TO VISIT TURKEY FOR A DEDICATED BILATERAL MEETING.
