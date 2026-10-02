@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-03 02:53 JST／対象: 10/02 20:53 〜 10/03 02:53 JST（時刻はすべて日本時間）
+生成: 2026-10-03 03:09 JST／対象: 10/02 21:09 〜 10/03 03:09 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 32 | 10/02 20:55 | 10/03 02:33 | ⚠ 124分（00:28→02:33） |
+| DeItaone | 27 | 10/02 21:12 | 10/03 02:33 | ⚠ 124分（00:28→02:33） |
 | FirstSquawk | 70 | 10/02 21:31 | 10/03 02:50 | 23分（23:02→23:26） |
-| financialjuice | 86 | 10/02 20:58 | 10/03 02:31 | 34分（01:07→01:42） |
+| financialjuice | 82 | 10/02 21:19 | 10/03 03:00 | 34分（01:07→01:42） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 181 行（統合前 189 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 172 行（統合前 180 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 20:55 [DeItaone] 📉 PRICE TARGET CUTS • $NKE: PT cut to $60 from $75 by Jefferies • $NKE: PT cut to $36 from $40 by Stifel • $NKE: PT cut to $24 from $30 by BofA Securities • $NKE: PT cut to $50 from $55 by BTIG • $NKE: PT cut to $30 from $38 by Goldman Sach…
-- 10/02 20:56 [DeItaone] FRENCH 10-YEAR GOVERNMENT BONDS HIT 4.989%, HIGHEST SINCE 2002: LSEG
-- 10/02 20:58 [financialjuice] Iran's IRGC: Ready for response to any threat or attack. The response would be more lethal than the previous one
-- 10/02 20:58 [financialjuice] Morning Juice – US Session Prep (2nd October)
-- 10/02 21:00 [DeItaone] *IRAN IRGC SAYS RESPONSE WOULD BE MORE LETHAL THAN PREVIOUS ONE *IRAN'S IRGC SAYS READY FOR RESPONSE TO ANY THREAT, ATTACK
-- 10/02 21:00 [financialjuice] Secured overnight financing rate 3.87% October 1st vs 3.90% September 30th.
-- 10/02 21:02 [financialjuice] Price of Russian gas for China may rise 1.4% in 2027 - Tass
-- 10/02 21:03 [financialjuice] Pakistan foreign minister: Meeting in Riyadh next week will focus on Houthi attacks in Saudi Arabia
-- 10/02 21:03 [DeItaone] GOLDMAN: U.S. DIESEL BAN COULD HIT LATIN AMERICA HARDEST Goldman Sachs estimates a sudden cutoff of U.S. diesel exports could reduce Latin American GDP by around 1%, although inventories and alternative suppliers would soften the impact. In…
-- 10/02 21:05 [DeItaone] IRGC REITERATES HARDLINE WARNING TO U.S. AND ISRAEL Iran’s Islamic Revolutionary Guard Corps says it remains prepared to respond “decisively, immediately, painfully and lethally” to any threat, aggression or potential miscalculation by the …
 - 10/02 21:12 [DeItaone] PAKISTAN FOREIGN MINISTER: THERE SHOULDN’T BE ANY FEE OR CHARGES TO CROSS HORMUZ
 - 10/02 21:19 [financialjuice] Pakistan Foreign Minister: We will discuss political engagement with Houthis instead of kinetic action in the meeting next week
 - 10/02 21:22 [DeItaone] FRENCH 2-YEAR GOVERNMENT BOND YIELD EXTENDS RISE, LAST UP 13.8 BPS AT 3.8337%
@@ -205,3 +195,4 @@
 - 10/03 02:33 [DeItaone] META PARTS WAYS WITH VIRTUE AI - SEMAFOR
 - 10/03 02:35 [FirstSquawk] META PARTS WAYS WITH AI SAFETY STARTUP VIRTUE AI HIRES - SEMAFOR
 - 10/03 02:50 [FirstSquawk] SAUDI-LED COALITION SAYS IT INTERCEPTED AND DESTROYED THREE BALLISTIC MISSILES LAUNCHED BY HOUTHIS TOWARD KHAMIS MUSHAIT
+- 10/03 03:00 [financialjuice] Joint US-Ukraine investment fund seals first critical minerals deal - US official
