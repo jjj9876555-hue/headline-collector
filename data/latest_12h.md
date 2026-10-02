@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-03 02:35 JST／対象: 10/02 14:35 〜 10/03 02:35 JST（時刻はすべて日本時間）
+生成: 2026-10-03 02:53 JST／対象: 10/02 14:53 〜 10/03 02:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 60 | 10/02 17:55 | 10/03 02:33 | ⚠ 124分（00:28→02:33） |
-| FirstSquawk | 129 | 10/02 14:42 | 10/03 02:19 | 44分（20:46→21:31） |
-| financialjuice | 155 | 10/02 14:43 | 10/03 02:31 | ⚠ 49分（18:00→18:49） |
+| FirstSquawk | 127 | 10/02 15:21 | 10/03 02:50 | 44分（20:46→21:31） |
+| financialjuice | 154 | 10/02 15:27 | 10/03 02:31 | ⚠ 49分（18:00→18:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 332 行（統合前 345 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 329 行（統合前 342 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 14:42 [FirstSquawk] FRANCE'S LESCURE: EVERY MEASURE IN BUDGET PROPOSAL IS OPEN FOR NEGOTIATION
-- 10/02 14:43 [financialjuice] French finance minister Lescure: Debt sales go well, but interest rates are too high, budget will help bring them down
-- 10/02 14:43 [FirstSquawk] FRENCH FINANCE MINISTER: BUDGET WILL HELP LOWER HIGH INTEREST RATES
-- 10/02 14:47 [FirstSquawk] JAPAN 10-YEAR JGB YIELD REBOUNDS TO 3.100%, UP 0.5 BP
-- 10/02 14:50 [FirstSquawk] KREMLIN SAYS RUSSIA WILL CONTINUE EFFORTS TO STOP WEAPONS, FUEL SUPPLIES TO UKRAINE VIA BLACK SEA
 - 10/02 15:21 [FirstSquawk] JP MORGAN CUTS BANK OF AMERICA TARGET PRICE TO $62 FROM $68
 - 10/02 15:27 [financialjuice] NORWEGIAN UNEMPLOYMENT RATE NSA ACTUAL 2.0% (FORECAST -, PREVIOUS 2.1%) $MACRO
 - 10/02 15:31 [FirstSquawk] NORWAY UNEMPLOYMENT RATE NSA SEP: 2.0% (PREV 2.1%)
@@ -356,3 +351,5 @@
 - 10/03 02:29 [financialjuice] ❗ Trump allegedly involved in a coup plot in iran - Fars News
 - 10/03 02:31 [financialjuice] Meta lets go of virtue ai employees hired in June - Semafor $META
 - 10/03 02:33 [DeItaone] META PARTS WAYS WITH VIRTUE AI - SEMAFOR
+- 10/03 02:35 [FirstSquawk] META PARTS WAYS WITH AI SAFETY STARTUP VIRTUE AI HIRES - SEMAFOR
+- 10/03 02:50 [FirstSquawk] SAUDI-LED COALITION SAYS IT INTERCEPTED AND DESTROYED THREE BALLISTIC MISSILES LAUNCHED BY HOUTHIS TOWARD KHAMIS MUSHAIT
