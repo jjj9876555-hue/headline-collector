@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-03 02:18 JST／対象: 10/02 20:18 〜 10/03 02:18 JST（時刻はすべて日本時間）
+生成: 2026-10-03 02:35 JST／対象: 10/02 20:35 〜 10/03 02:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 35 | 10/02 20:33 | 10/03 00:28 | ⚠ 85分（23:02→00:28） |
-| FirstSquawk | 72 | 10/02 20:23 | 10/03 02:01 | 44分（20:46→21:31） |
-| financialjuice | 92 | 10/02 20:31 | 10/03 02:07 | 34分（01:07→01:42） |
+| DeItaone | 35 | 10/02 20:37 | 10/03 02:33 | ⚠ 124分（00:28→02:33） |
+| FirstSquawk | 71 | 10/02 20:35 | 10/03 02:19 | 44分（20:46→21:31） |
+| financialjuice | 91 | 10/02 20:35 | 10/03 02:31 | 34分（01:07→01:42） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 190 行（統合前 200 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 189 行（統合前 198 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 20:23 [FirstSquawk] RUSSIAN DEPUTY PM NOVAK ANNOUNCED THAT OPEC+ MEMBERS WILL TALK ABOUT OIL MARKET MATTERS AND QUOTA FULFILLMENT AT THE SUNDAY MEETING.
-- 10/02 20:23 [FirstSquawk] RUSSIAN DEPUTY PM NOVAK STATES RUSSIA IS USING A MODERATELY CONSERVATIVE SCENARIO FOR ITS 2027 OIL PRODUCTION FORECAST.
-- 10/02 20:31 [financialjuice] ECB's Vujcic: Bank capital levels are not a competitive disadvantage for Europe, but rules could be simplified
-- 10/02 20:33 [financialjuice/DeItaone] Saudi Arabia pumping close to 6m b/d oil on East-West pipeline.
-- 10/02 20:33 [financialjuice] Saudi Arabia has about 4.5m b/d pipeline flow available for export
 - 10/02 20:35 [financialjuice] Standard Chartered expects the ECB to deliver a 25 bps rate hike in December 2026 vs. the prior forecast of unchanged rates
 - 10/02 20:35 [FirstSquawk] SAUDI ARABIA IS NEARLY PRODUCING 6 MILLION BARRELS PER DAY OF OIL ON THE EAST-WEST PIPELINE.
 - 10/02 20:35 [FirstSquawk] SAUDI ARABIA HAS AROUND 4.5 MILLION BARRELS PER DAY OF PIPELINE CAPACITY READY FOR EXPORT.
@@ -214,3 +209,7 @@
 - 10/03 02:04 [financialjuice] Fed's Goolsbee: Open to seeing if we get evidence we are heading back to 2% inflation
 - 10/03 02:05 [financialjuice] Fed's Goolsbee: Won't react strongly to one month of data.
 - 10/03 02:07 [financialjuice] Fed's Goolsbee: Won't rule out any decision at the next rate meeting
+- 10/03 02:19 [FirstSquawk] US PREPARES FOR POSSIBLE RENEWED FIGHTING - N12 CITING US OFFICIAL
+- 10/03 02:29 [financialjuice] ❗ Trump allegedly involved in a coup plot in iran - Fars News
+- 10/03 02:31 [financialjuice] Meta lets go of virtue ai employees hired in June - Semafor $META
+- 10/03 02:33 [DeItaone] META PARTS WAYS WITH VIRTUE AI - SEMAFOR

@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-03 02:18 JST／対象: 10/02 14:18 〜 10/03 02:18 JST（時刻はすべて日本時間）
+生成: 2026-10-03 02:35 JST／対象: 10/02 14:35 〜 10/03 02:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 59 | 10/02 17:55 | 10/03 00:28 | ⚠ 85分（23:02→00:28） |
-| FirstSquawk | 130 | 10/02 14:20 | 10/03 02:01 | 44分（20:46→21:31） |
-| financialjuice | 153 | 10/02 14:43 | 10/03 02:07 | ⚠ 49分（18:00→18:49） |
+| DeItaone | 60 | 10/02 17:55 | 10/03 02:33 | ⚠ 124分（00:28→02:33） |
+| FirstSquawk | 129 | 10/02 14:42 | 10/03 02:19 | 44分（20:46→21:31） |
+| financialjuice | 155 | 10/02 14:43 | 10/03 02:31 | ⚠ 49分（18:00→18:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 330 行（統合前 343 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 332 行（統合前 345 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 14:20 [FirstSquawk] INDONESIAN RUPIAH GAINS AS DOLLAR SLIPS AMID LOWER FED RATE-HIKE EXPECTATIONS - FX
-- 10/02 14:30 [FirstSquawk] ITALGAS AGREES TO ACQUIRE 22.5% OF FLOENE FROM MARUBENI, TOHO GAS FOR €120M - RTRS
 - 10/02 14:42 [FirstSquawk] FRANCE'S LESCURE: EVERY MEASURE IN BUDGET PROPOSAL IS OPEN FOR NEGOTIATION
 - 10/02 14:43 [financialjuice] French finance minister Lescure: Debt sales go well, but interest rates are too high, budget will help bring them down
 - 10/02 14:43 [FirstSquawk] FRENCH FINANCE MINISTER: BUDGET WILL HELP LOWER HIGH INTEREST RATES
@@ -354,3 +352,7 @@
 - 10/03 02:04 [financialjuice] Fed's Goolsbee: Open to seeing if we get evidence we are heading back to 2% inflation
 - 10/03 02:05 [financialjuice] Fed's Goolsbee: Won't react strongly to one month of data.
 - 10/03 02:07 [financialjuice] Fed's Goolsbee: Won't rule out any decision at the next rate meeting
+- 10/03 02:19 [FirstSquawk] US PREPARES FOR POSSIBLE RENEWED FIGHTING - N12 CITING US OFFICIAL
+- 10/03 02:29 [financialjuice] ❗ Trump allegedly involved in a coup plot in iran - Fars News
+- 10/03 02:31 [financialjuice] Meta lets go of virtue ai employees hired in June - Semafor $META
+- 10/03 02:33 [DeItaone] META PARTS WAYS WITH VIRTUE AI - SEMAFOR
