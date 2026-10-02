@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-03 08:46 JST／対象: 10/02 20:46 〜 10/03 08:46 JST（時刻はすべて日本時間）
+生成: 2026-10-03 08:58 JST／対象: 10/02 20:58 〜 10/03 08:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 36 | 10/02 20:50 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
-| FirstSquawk | 92 | 10/02 20:46 | 10/03 05:02 | 44分（20:46→21:31） |
-| financialjuice | 142 | 10/02 20:50 | 10/03 08:23 | ⚠ 71分（05:20→06:32） |
+| DeItaone | 33 | 10/02 21:00 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
+| FirstSquawk | 91 | 10/02 21:31 | 10/03 05:02 | 34分（02:50→03:25） |
+| financialjuice | 138 | 10/02 21:00 | 10/03 08:23 | ⚠ 71分（05:20→06:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 259 行（統合前 272 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 252 行（統合前 264 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 20:46 [FirstSquawk] PAKISTAN'S FOREIGN MINISTER ANNOUNCED A MEETING OF THE STRATEGIC POLITICAL DEFENCE COMMITTEE UNDER THE MAKKAH ACCORD WILL TAKE PLACE IN RIYADH SOON.
-- 10/02 20:50 [DeItaone/financialjuice] FRANCE'S MACRON TO CHAIR A VIDEOCONFERENCE OF G7 LEADERS TODAY AT 2:30 P.M. FOCUSED ON THE GLOBAL ENERGY SITUATION - ELYSEE
-- 10/02 20:52 [financialjuice] The EU presidency will convene a meeting of coreper i at 15:30 to discuss the global energy situation
-- 10/02 20:55 [DeItaone] 📉 PRICE TARGET CUTS • $NKE: PT cut to $60 from $75 by Jefferies • $NKE: PT cut to $36 from $40 by Stifel • $NKE: PT cut to $24 from $30 by BofA Securities • $NKE: PT cut to $50 from $55 by BTIG • $NKE: PT cut to $30 from $38 by Goldman Sach…
-- 10/02 20:56 [DeItaone] FRENCH 10-YEAR GOVERNMENT BONDS HIT 4.989%, HIGHEST SINCE 2002: LSEG
-- 10/02 20:58 [financialjuice] Iran's IRGC: Ready for response to any threat or attack. The response would be more lethal than the previous one
-- 10/02 20:58 [financialjuice] Morning Juice – US Session Prep (2nd October)
 - 10/02 21:00 [DeItaone] *IRAN IRGC SAYS RESPONSE WOULD BE MORE LETHAL THAN PREVIOUS ONE *IRAN'S IRGC SAYS READY FOR RESPONSE TO ANY THREAT, ATTACK
 - 10/02 21:00 [financialjuice] Secured overnight financing rate 3.87% October 1st vs 3.90% September 30th.
 - 10/02 21:02 [financialjuice] Price of Russian gas for China may rise 1.4% in 2027 - Tass
