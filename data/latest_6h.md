@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-02 18:01 JST／対象: 10/02 12:01 〜 10/02 18:01 JST（時刻はすべて日本時間）
+生成: 2026-10-02 18:23 JST／対象: 10/02 12:23 〜 10/02 18:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 3 | 10/02 17:55 | 10/02 18:00 | 3分（17:55→17:59） |
-| FirstSquawk | 57 | 10/02 12:01 | 10/02 17:53 | 38分（17:15→17:53） |
+| DeItaone | 4 | 10/02 17:55 | 10/02 18:02 | 3分（17:55→17:59） |
+| FirstSquawk | 54 | 10/02 12:28 | 10/02 18:04 | 38分（17:15→17:53） |
 | financialjuice | 44 | 10/02 12:24 | 10/02 18:00 | 44分（14:43→15:27） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 103 行（統合前 104 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 101 行（統合前 102 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 12:01 [FirstSquawk] US DOJ: Government Employee Arrested for Allegedly Providing Support to Houthis
-- 10/02 12:04 [FirstSquawk] JPMorgan Raises Accenture Price Target to $242 From $200
-- 10/02 12:09 [FirstSquawk] Piper Sandler Raises Cigna Price Target to $370 From $346
-- 10/02 12:19 [FirstSquawk] Piper Sandler Raises Pinnacle Financial Partners Price Target to $125 From $123
 - 10/02 12:24 [financialjuice] African Union Commission: urges Ethiopia, Eritrea and Egypt to exercise maximum restraint, avoid actions or statements that may escalate tensions and undermine regional peace
 - 10/02 12:28 [FirstSquawk] Vietnam’s Biggest Refinery Set for Around 50-Day Shutdown From August Next Year
 - 10/02 12:29 [FirstSquawk] Fitch Maintains Toyota’s ‘A+’ Rating With Stable Outlook
@@ -127,3 +123,5 @@
 - 10/02 18:00 [financialjuice] ❗ EUROZONE CPI MOM FLASH ACTUAL 0.6% (FORECAST 0.5%, PREVIOUS 0.4%) $MACRO
 - 10/02 18:00 [financialjuice] ❗ EUROZONE CORE CPI YOY FLASH ACTUAL 2.5% (FORECAST 2.5%, PREVIOUS 2.4%) $MACRO
 - 10/02 18:00 [DeItaone] 🇪🇺 EUROZONE INFLATION JUMPS TO 3.8%, ABOVE FORECASTS Eurozone inflation accelerated to 3.8% YoY in September, above the 3.6% consensus and sharply higher than 3.2% in August, according to Eurostat. Core inflation rose slightly to 2.5% from …
+- 10/02 18:02 [DeItaone] $MSTR - CITI RAISES STRATEGY TARGET TO $240 ON HIGHER BITCOIN FORECAST Citi raised its Strategy price target to $240 from $136, maintaining a Buy rating after lifting its 12-month Bitcoin forecast 39% to $113,400. Citi sees roughly 34% upsi…
+- 10/02 18:04 [FirstSquawk] EUROZONE CPI ESTIMATE (Y/Y) SEP P: 3.8% (EST 3.7%; PREV 3.2%) || CPI CORE (Y/Y): 2.5% (EST 2.5%; PREV 2.4%) || CPI (M/M): 0.6% (EST 0.5%; PREV 0.4%) || CPI (Y/Y): 3.8% (EST 3.7%; PREV 3.2%)

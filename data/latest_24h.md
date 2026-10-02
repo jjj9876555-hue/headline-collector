@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-02 18:01 JST／対象: 10/01 18:01 〜 10/02 18:01 JST（時刻はすべて日本時間）
+生成: 2026-10-02 18:23 JST／対象: 10/01 18:23 〜 10/02 18:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 88 | 10/01 18:30 | 10/02 18:00 | ⚠ 755分（05:19→17:55） |
-| FirstSquawk | 303 | 10/01 18:02 | 10/02 17:53 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 379 | 10/01 18:01 | 10/02 18:00 | ⚠ 79分（06:41→08:00） |
+| DeItaone | 89 | 10/01 18:30 | 10/02 18:02 | ⚠ 755分（05:19→17:55） |
+| FirstSquawk | 300 | 10/01 18:25 | 10/02 18:04 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 374 | 10/01 18:30 | 10/02 18:00 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 731 行（統合前 776 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 725 行（統合前 769 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 18:01 [financialjuice/FirstSquawk] Hawley, Murphy to introduce AI liability legislation - Axios.
-- 10/01 18:17 [financialjuice] Latest UK sanctions against Russian military & intelligence officers alleged to have mistreated civilians in Ukraine
-- 10/01 18:17 [financialjuice] Latest UK sanctions also target ships believed to be involved in carrying Russian liquefied natural gas
-- 10/01 18:17 [financialjuice] New UK sanctions target Russia LNG shadow fleet vessels
-- 10/01 18:17 [financialjuice] UK sanctions target Russian perpetrators of civilian torture
-- 10/01 18:19 [FirstSquawk] UK FOREIGN OFFICE ANNOUNCED 23 NEW DESIGNATIONS AND 8 NEW SPECIFICATIONS UNDER THE RUSSIA SANCTIONS REGIME.
-- 10/01 18:19 [FirstSquawk] UK IMPOSES NEW SANCTIONS ON RUSSIAN MILITARY AND INTELLIGENCE OFFICERS ACCUSED OF ABUSING CIVILIANS IN UKRAINE.
-- 10/01 18:19 [FirstSquawk] NEW UK SANCTIONS AIM AT VESSELS SUSPECTED OF TRANSPORTING RUSSIAN LIQUEFIED NATURAL GAS.
 - 10/01 18:25 [FirstSquawk] EU GROUP SEEKS MEMBER STATES' OPINIONS TO FORMULATE A POSITION.
 - 10/01 18:25 [FirstSquawk] EU AIMS FOR UNIFIED POSITION ON DIESEL STOCK FOLLOWING US REQUEST FOR RELEASE.
 - 10/01 18:30 [DeItaone] RUSSIA SAYS NUCLEAR WARNING TO NATO IS NOT “CONFRONTATIONAL” The Kremlin says Russia’s letter to NATO signaling readiness to resort to nuclear weapons should not be viewed as confrontational, arguing it is intended to ensure Kaliningrad’s s…
@@ -755,3 +747,5 @@
 - 10/02 18:00 [financialjuice] ❗ EUROZONE CPI MOM FLASH ACTUAL 0.6% (FORECAST 0.5%, PREVIOUS 0.4%) $MACRO
 - 10/02 18:00 [financialjuice] ❗ EUROZONE CORE CPI YOY FLASH ACTUAL 2.5% (FORECAST 2.5%, PREVIOUS 2.4%) $MACRO
 - 10/02 18:00 [DeItaone] 🇪🇺 EUROZONE INFLATION JUMPS TO 3.8%, ABOVE FORECASTS Eurozone inflation accelerated to 3.8% YoY in September, above the 3.6% consensus and sharply higher than 3.2% in August, according to Eurostat. Core inflation rose slightly to 2.5% from …
+- 10/02 18:02 [DeItaone] $MSTR - CITI RAISES STRATEGY TARGET TO $240 ON HIGHER BITCOIN FORECAST Citi raised its Strategy price target to $240 from $136, maintaining a Buy rating after lifting its 12-month Bitcoin forecast 39% to $113,400. Citi sees roughly 34% upsi…
+- 10/02 18:04 [FirstSquawk] EUROZONE CPI ESTIMATE (Y/Y) SEP P: 3.8% (EST 3.7%; PREV 3.2%) || CPI CORE (Y/Y): 2.5% (EST 2.5%; PREV 2.4%) || CPI (M/M): 0.6% (EST 0.5%; PREV 0.4%) || CPI (Y/Y): 3.8% (EST 3.7%; PREV 3.2%)
