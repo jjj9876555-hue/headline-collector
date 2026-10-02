@@ -7,46 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-03 00:03 JST／対象: 10/02 00:03 〜 10/03 00:03 JST（時刻はすべて日本時間）
+生成: 2026-10-03 00:25 JST／対象: 10/02 00:25 〜 10/03 00:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 107 | 10/02 01:02 | 10/02 23:02 | ⚠ 755分（05:19→17:55） |
-| FirstSquawk | 309 | 10/02 00:04 | 10/02 23:58 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 353 | 10/02 00:10 | 10/02 23:58 | ⚠ 79分（06:41→08:00） |
+| FirstSquawk | 299 | 10/02 00:27 | 10/03 00:22 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 345 | 10/02 00:31 | 10/03 00:20 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 734 行（統合前 773 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 716 行（統合前 755 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 00:04 [FirstSquawk] IMF STAFF WORKING TO BRING COMBINED SECOND AND THIRD REVIEW FOR UKRAINE PROGRAM TO EXECUTIVE BOARD BY DECEMBER
-- 10/02 00:04 [FirstSquawk] IMF SAYS BOARD REVIEW OF UKRAINE PROGRAM SUBJECT TO "SUFFICIENT AND CREDIBLE FINANCING ASSURANCES" TO CLOSE PROJECTED FINANCING GAP ON TERMS COMPATIBLE WITH DEBT SUSTAINABILITY
-- 10/02 00:04 [FirstSquawk] IMF SAYS SIZE OF UKRAINE'S FINANCING GAP DEPENDS ON WAR, REFORMS, ECONOMIC DEVELOPMENTS AND SUPPORT FROM INTERNATIONAL PARTNERS
-- 10/02 00:10 [financialjuice] Canada's Carney: New pipeline to reduce reliance on oil exports to US; Roberts Bank terminal expansion planned to export more crude
-- 10/02 00:10 [FirstSquawk] CANADA IS DESIGNATING THE PROPOSED WEST COAST OIL PIPELINE AS A PROJECT OF NATIONAL INTEREST - PRIME MINISTER CARNEY
-- 10/02 00:10 [FirstSquawk] CANADA'S MAJOR PROJECTS OFFICE IS AIMING TO COMPLETE ALL NECESSARY REVIEWS AND CONSULTATIONS BY SEPT 1, 2027 - CARNEY
-- 10/02 00:11 [FirstSquawk] FORMAL OPEN SEASON PROCESS TO GAUGE SHIPPER INTEREST IN PIPELINE WILL TAKE PLACE IN SPRING 2027 - SENIOR GOVERNMENT OFFICIAL
-- 10/02 00:11 [FirstSquawk] PIPELINE WILL CREATE 140,000 JOBS, GENERATE OVER C$20 BILLION IN GDP PER YEAR, AND C$100 BILLION IN GOVERNMENT REVENUE BY 2060 - CARNEY
-- 10/02 00:14 [financialjuice] Germany’s Chancellor Merz: Russia is looking to divide and weaken Germany
-- 10/02 00:15 [FirstSquawk] SPACEX LAUNCHES CREW OF FOUR ASTRONAUTS FOR NASA TO INTERNATIONAL SPACE STATION IN COMPANY'S 13TH LONG-DURATION DRAGON MISSION
-- 10/02 00:15 [financialjuice] Fed bids for 4-week bills total $5.1 bln.
-- 10/02 00:15 [FirstSquawk] TWO-YEAR U.S. TREASURY YIELDS BRIEFLY HIT LOWEST LEVELS IN A WEEK LAST DOWN 6.03 BASIS POINTS AT 4.827%
-- 10/02 00:15 [FirstSquawk] RUSSIA'S PUTIN: WE HAVE TO THINK HOW TO PRESERVE GLOBAL SECURITY NOW
-- 10/02 00:15 [FirstSquawk] PUTIN: WE HAVE TO THINK HOW TO AVOID CATASTROPHIC SCENARIOS
-- 10/02 00:16 [FirstSquawk] PUTIN: WORLD IS AT A TURNING POINT OF DEVELOPMENT
-- 10/02 00:17 [FirstSquawk] PUTIN: TECHNOLOGIES CAN LEAD TO GLOBAL DESTRUCTION
-- 10/02 00:18 [FirstSquawk] HONDA SEPT. US SALES 121,796 UNITS, UP 15.9% M/M
-- 10/02 00:19 [financialjuice] Reports say Turkish Foreign Minister Fidan, Israeli Peace Council representative Eisenberg clash during closed meeting in New York last week - Israel's Kan News
-- 10/02 00:19 [financialjuice] Putin: Continuation of international conflicts is quite possible
-- 10/02 00:19 [financialjuice] Reports say Jared Kushner intervenes to end confrontation between Fidan, Eisenberg - Israel's Kan News
-- 10/02 00:20 [financialjuice] German Chancellor Merz: We are preparing for major hybrid attacks by Russia, and we would respond quickly and very clearly
-- 10/02 00:22 [financialjuice] Euro 3-Month implied options volatility hits 6.45%, highest since April 13th
-- 10/02 00:22 [financialjuice] Options show traders at most bearish towards Euro since mid March.
 - 10/02 00:27 [FirstSquawk] PULTE'S BUDGET CUTS TO HIT UP TO 80% OF FHFA WATCHDOG STAFF
 - 10/02 00:30 [FirstSquawk] TOYOTA US NEW CAR SALES RISE 8.4% IN SEPT. TO 201,306 VEHICLES
 - 10/02 00:31 [FirstSquawk] CHILE'S CODELCO SUSPENDS OPERATIONS IN AREA OF RADOMIRO TOMIC MINE WHERE FATAL ACCIDENT HAPPENED - STATEMENT
@@ -758,3 +735,8 @@
 - 10/02 23:55 [financialjuice/FirstSquawk] TD sees Fed hikes in December and March, previously October and January
 - 10/02 23:58 [financialjuice] Fitch affirms Walmart's ratings at 'AA' and 'F1+'. Outlook stable. $WMT
 - 10/02 23:58 [FirstSquawk] S. KOREA SAYS TRUMP'S $8.4 BLN OIL PROJECT CLAIM NOT IN AGREED DEALS - YONHAP
+- 10/03 00:04 [FirstSquawk] DANISH CENTRAL BANK SAYS DID NOT INTERVENE IN FOREX MARKET IN SEPTEMBER
+- 10/03 00:15 [FirstSquawk] PENTAGON ISSUES MEMO TO CUT DELAYS IN COUNTER-DRONE SYSTEM USE
+- 10/03 00:15 [FirstSquawk] PFIZER'S LITFULO MEETS CO-PRIMARY ENDPOINTS IN VITILIGO
+- 10/03 00:20 [financialjuice] News sources reported that several powerful explosions were heard in Riyadh, the capital of Saudi Arabia - Tasnim News
+- 10/03 00:22 [FirstSquawk] SEVERAL LOUD EXPLOSIONS IN RIYADH, THE CAPITAL OF SAUDI ARABIA - TASNIM

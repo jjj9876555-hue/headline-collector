@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-03 00:03 JST／対象: 10/02 18:03 〜 10/03 00:03 JST（時刻はすべて日本時間）
+生成: 2026-10-03 00:25 JST／対象: 10/02 18:25 〜 10/03 00:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 54 | 10/02 18:25 | 10/02 23:02 | 23分（19:35→19:59） |
-| FirstSquawk | 72 | 10/02 18:04 | 10/02 23:58 | 44分（20:46→21:31） |
-| financialjuice | 95 | 10/02 18:49 | 10/02 23:58 | 29分（19:42→20:12） |
+| FirstSquawk | 75 | 10/02 18:26 | 10/03 00:22 | 44分（20:46→21:31） |
+| financialjuice | 96 | 10/02 18:49 | 10/03 00:20 | 29分（19:42→20:12） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 214 行（統合前 222 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 218 行（統合前 226 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 18:04 [FirstSquawk] EUROZONE CPI ESTIMATE (Y/Y) SEP P: 3.8% (EST 3.7%; PREV 3.2%) || CPI CORE (Y/Y): 2.5% (EST 2.5%; PREV 2.4%) || CPI (M/M): 0.6% (EST 0.5%; PREV 0.4%) || CPI (Y/Y): 3.8% (EST 3.7%; PREV 3.2%)
 - 10/02 18:25 [DeItaone] $NVDA - MORGAN STANLEY RENAMES NVIDIA TO TOP PICK
 - 10/02 18:26 [FirstSquawk] SWEDEN'S PARLIAMENT SPEAKER URGES SOCIAL DEMOCRATS TO RESTART GOVERNMENT FORMATION EFFORTS.
 - 10/02 18:26 [FirstSquawk] MORGAN STANLEY HAS NAMED NVIDIA AS A TOP PICK ONCE AGAIN.
@@ -238,3 +237,8 @@
 - 10/02 23:55 [financialjuice/FirstSquawk] TD sees Fed hikes in December and March, previously October and January
 - 10/02 23:58 [financialjuice] Fitch affirms Walmart's ratings at 'AA' and 'F1+'. Outlook stable. $WMT
 - 10/02 23:58 [FirstSquawk] S. KOREA SAYS TRUMP'S $8.4 BLN OIL PROJECT CLAIM NOT IN AGREED DEALS - YONHAP
+- 10/03 00:04 [FirstSquawk] DANISH CENTRAL BANK SAYS DID NOT INTERVENE IN FOREX MARKET IN SEPTEMBER
+- 10/03 00:15 [FirstSquawk] PENTAGON ISSUES MEMO TO CUT DELAYS IN COUNTER-DRONE SYSTEM USE
+- 10/03 00:15 [FirstSquawk] PFIZER'S LITFULO MEETS CO-PRIMARY ENDPOINTS IN VITILIGO
+- 10/03 00:20 [financialjuice] News sources reported that several powerful explosions were heard in Riyadh, the capital of Saudi Arabia - Tasnim News
+- 10/03 00:22 [FirstSquawk] SEVERAL LOUD EXPLOSIONS IN RIYADH, THE CAPITAL OF SAUDI ARABIA - TASNIM
