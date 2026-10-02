@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-02 22:49 JST／対象: 10/01 22:49 〜 10/02 22:49 JST（時刻はすべて日本時間）
+生成: 2026-10-02 23:02 JST／対象: 10/01 23:02 〜 10/02 23:02 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 105 | 10/01 23:00 | 10/02 22:48 | ⚠ 755分（05:19→17:55） |
-| FirstSquawk | 302 | 10/01 22:55 | 10/02 22:39 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 359 | 10/01 22:54 | 10/02 22:49 | ⚠ 79分（06:41→08:00） |
+| DeItaone | 108 | 10/01 23:06 | 10/02 23:02 | ⚠ 755分（05:19→17:55） |
+| FirstSquawk | 309 | 10/01 23:07 | 10/02 23:02 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 361 | 10/01 23:03 | 10/02 23:02 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 731 行（統合前 770 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 743 行（統合前 782 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 22:54 [financialjuice] Fed's Waller speaks at FRED Con Live
-- 10/01 22:55 [FirstSquawk] FITCH STATES THAT THE UK WATER BILL UPDATE DOES NOT CHANGE SECTOR RISK, BUT THERE ARE STILL RISKS.
-- 10/01 22:56 [FirstSquawk] FITCH: BASE CASE REMAINS THAT UK WATER SECTOR REFORMS WILL DELIVER A CLEARER AND BETTER-COORDINATED FRAMEWORK
-- 10/01 22:58 [financialjuice] Iran summons British ambassador to foreign ministry over accusations related to attack on US base in UK - State Media
-- 10/01 23:00 [FirstSquawk] US ISM MANUFACTURING PMI (SEP) ACTUAL: 54.5 VS 54.6 PREVIOUS; EST 55.0
-- 10/01 23:00 [financialjuice] ‼ BREAKING: US ISM MANUFACTURING PMI ACTUAL 54.5 (FORECAST 55, PREVIOUS 54.6) $MACRO
-- 10/01 23:00 [financialjuice] US ISM MFG. NEW ORDERS INDEX ACTUAL 55.3 (FORECAST 54.7, PREVIOUS 53.7) $MACRO
-- 10/01 23:00 [financialjuice] US ISM MFG. PRICES PAID ACTUAL 77.9 (FORECAST 73, PREVIOUS 71.1) $MACRO
-- 10/01 23:00 [DeItaone] FRENCH 5-YEAR CDS WIDEN FURTHER TO 73.05 BPS, HIGHEST SINCE JULY 2013
-- 10/01 23:00 [financialjuice] US ISM MFG. EMPLOYMENT INDEX ACTUAL 52.7 (FORECAST 52, PREVIOUS 51.2) $MACRO
-- 10/01 23:00 [financialjuice] US CONSTRUCTION SPENDING MOM ACTUAL 0.9% (FORECAST 0%, PREVIOUS -0.5%) $MACRO
-- 10/01 23:00 [financialjuice] Fed’s Waller doesn’t comment on rates, economic outlook in text
-- 10/01 23:01 [financialjuice] Iraqi Government Spokesman: Iraq receives new shipment of cash dollars under US understanding.
 - 10/01 23:03 [financialjuice] US ISM Manufacturing PMI September Report
 - 10/01 23:05 [financialjuice] US Construction Spending MoM August Report
 - 10/01 23:06 [DeItaone] U.S. TREASURY YIELDS EXTEND GAINS; YIELD ON 10-YEAR TREASURY NOTE LAST UP 4.72 BASIS POINTS AT 5.34% TWO-YEAR U.S. TREASURY YIELDS, LAST FLAT AT 4.883%
@@ -755,3 +742,28 @@
 - 10/02 22:48 [DeItaone] TRUMP EXPECTED TO NAME JAY CLAYTON AS AI CZAR - CNN
 - 10/02 22:49 [financialjuice] WH Sr. Adviser Hassett: We see in the data that the consumer is very strong
 - 10/02 22:49 [financialjuice] WH Sr. Adviser Hassett: It's going to be a strong holiday season.
+- 10/02 22:51 [financialjuice] WH Sr. Adviser Hassett on yields: They're higher due to strong economy.
+- 10/02 22:51 [FirstSquawk] HASSETT STATES THAT THIS JOBS REPORT MET EXPECTATIONS.
+- 10/02 22:51 [FirstSquawk] HASSETT SAYS DATA SHOWS STRONG CONSUMER CONFIDENCE.
+- 10/02 22:51 [FirstSquawk] HASSETT SAYS YIELDS ARE UP THANKS TO A ROBUST ECONOMY.
+- 10/02 22:52 [FirstSquawk] HASSETT SAYS CURRENT INTEREST PAYMENTS ARE TOO HIGH.
+- 10/02 22:52 [FirstSquawk] HASSETT SAYS THIS PRESIDENT IS COMMITTED TO CUTTING THE DEFICIT.
+- 10/02 22:52 [FirstSquawk] HASSETT STATED THAT THEY DO NOT AIM TO USE INFLATION AS A METHOD TO ESCAPE DEBT.
+- 10/02 22:52 [financialjuice] WH Sr. Adviser Hassett: We do not want to inflate our way out of debt.
+- 10/02 22:55 [financialjuice] WH Sr. Adviser Hassett ends remarks on Bloomberg TV
+- 10/02 22:57 [FirstSquawk] HASSETT SAYS KEVIN WARSH HAS TO DEAL WITH POWELL, IT'S UNUSUAL
+- 10/02 22:57 [FirstSquawk] HASSETT SAYS DECISION IS FOR JEROME POWELL TO STAY OR GO
+- 10/02 22:57 [FirstSquawk] HASSETT SAYS IT'S NOT UP TO THE WHITE HOUSE ON POWELL
+- 10/02 22:58 [financialjuice] WH Sr. Adviser Hassett: Only Iranian oil isn't flowing through Hormuz
+- 10/02 22:58 [financialjuice] ❗ France’s President Macron: Diesel and crude stocks to be released over 4 months.
+- 10/02 22:58 [DeItaone] *MACRON: G7 DECIDED TO RELEASE DIESEL AND CRUDE STOCKS *MACRON: DIESEL, CRUDE STOCKS TO BE RELEASED OVER 4 MONTHS
+- 10/02 22:58 [financialjuice] ❗ France’s President Macron: We will release up to 100 mln barrels.
+- 10/02 23:00 [DeItaone] TIMIRAOS: WEAK JOBS REPORT CLEARS PATH FOR FED PAUSE The September jobs report gives the Fed more room to hold rates steady in October, with hiring slowing and unemployment edging up to 4.2%. With little evidence of labor-market inflation p…
+- 10/02 23:00 [financialjuice] US DURABLE GOODS REVISED ACTUAL -0.1% (FORECAST 0%, PREVIOUS 0.0%) $MACRO
+- 10/02 23:00 [financialjuice] US CORE DURABLE GOODS REVISED ACTUAL 0.2% (FORECAST 0.3%, PREVIOUS 0.3%) $MACRO
+- 10/02 23:00 [financialjuice] ❗ US FACTORY ORDERS MOM ACTUAL 0.1% (FORECAST 0.2%, PREVIOUS 0.9%) $MACRO
+- 10/02 23:00 [financialjuice] Fed's Logan does not comment on economic outlook, monetary policy in remarks at Dallas Fed conference on migration.
+- 10/02 23:01 [DeItaone] TRUMP: EUROPE HAS JUST AGREED TO RELEASE A MASSIVE AMOUNT OF THEIR HEAVILY STOCKED DIESEL OIL TRUMP: PROCESS WILL BEGIN IMMEDIATELY.
+- 10/02 23:02 [financialjuice] Trump: Europe agreed to release a massive amount of their heavily stocked Diesel Oil. The process begins immediately - Truth Social
+- 10/02 23:02 [FirstSquawk] TRUMP: EUROPE HAS JUST AGREED TO RELEASE A MASSIVE AMOUNT OF THEIR HEAVILY STOCKED DIESEL OIL. THE PROCESS WILL BEGIN IMMEDIATELY. THANK YOU FOR YOUR ATTENTION TO THIS MATTER! PRESIDENT DJT
+- 10/02 23:02 [DeItaone] NASDAQ COMPOSITE INDEX HITS ALL-TIME HIGH, LAST UP 1.6%

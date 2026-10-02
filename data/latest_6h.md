@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-02 22:49 JST／対象: 10/02 16:49 〜 10/02 22:49 JST（時刻はすべて日本時間）
+生成: 2026-10-02 23:02 JST／対象: 10/02 17:02 〜 10/02 23:02 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 53 | 10/02 17:55 | 10/02 22:48 | 23分（19:35→19:59） |
-| FirstSquawk | 61 | 10/02 16:56 | 10/02 22:39 | 44分（20:46→21:31） |
-| financialjuice | 102 | 10/02 16:52 | 10/02 22:49 | ⚠ 49分（18:00→18:49） |
+| DeItaone | 57 | 10/02 17:55 | 10/02 23:02 | 23分（19:35→19:59） |
+| FirstSquawk | 69 | 10/02 17:06 | 10/02 23:02 | 44分（20:46→21:31） |
+| financialjuice | 108 | 10/02 17:05 | 10/02 23:02 | ⚠ 49分（18:00→18:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 210 行（統合前 216 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 228 行（統合前 234 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 16:52 [financialjuice] EU countries addressed us demand to release diesel stocks and threat of US diesel export ban in meeting on Friday - Source Familiar with Details of The Discussion.
-- 10/02 16:54 [financialjuice] US has requested that large European countries release 800,000 kilotons of diesel over 6 months - Source Familiar with Discussion
-- 10/02 16:56 [FirstSquawk] AIRBUS TO RECOMMEND AIRLINES INSPECT A330NEO JETS FOR LOOSE ITEMS BEFORE SCHEDULED MAINTENANCE DUE TO FINDING OF STRAY OBJECT IN ASSEMBLY THIS YEAR.
-- 10/02 16:56 [FirstSquawk] UK 2-YEAR GILT YIELDS FALL TO 4.726%, LOWEST LEVEL SINCE SEPTEMBER 22, WITH A DROP OF 9 BASIS POINTS.
-- 10/02 16:56 [financialjuice] G7 leaders may talk Friday afternoon to discuss next steps - source familiar with discussion.
-- 10/02 17:01 [financialjuice] ITALIAN RETAIL SALES MOM ACTUAL 0.30% (FORECAST -, PREVIOUS -0.40%) $MACRO
-- 10/02 17:01 [financialjuice] ITALIAN RETAIL SALES NSA YOY ACTUAL 0.5% (FORECAST -, PREVIOUS 0.80%) $MACRO
 - 10/02 17:05 [financialjuice] North Korea's Kim Yo Jong: South Korea's allegations over border mine clash are baseless - KCNA
 - 10/02 17:06 [financialjuice] Norges Bank investment management commits 1.2 billion euros to Copenhagen Infrastructure Partners' sixth flagship renewable energy fund
 - 10/02 17:06 [financialjuice] French President Macron spoke last night with U.S. President Trump, Canada PM Carney on global energy outlook
@@ -234,3 +227,28 @@
 - 10/02 22:48 [DeItaone] TRUMP EXPECTED TO NAME JAY CLAYTON AS AI CZAR - CNN
 - 10/02 22:49 [financialjuice] WH Sr. Adviser Hassett: We see in the data that the consumer is very strong
 - 10/02 22:49 [financialjuice] WH Sr. Adviser Hassett: It's going to be a strong holiday season.
+- 10/02 22:51 [financialjuice] WH Sr. Adviser Hassett on yields: They're higher due to strong economy.
+- 10/02 22:51 [FirstSquawk] HASSETT STATES THAT THIS JOBS REPORT MET EXPECTATIONS.
+- 10/02 22:51 [FirstSquawk] HASSETT SAYS DATA SHOWS STRONG CONSUMER CONFIDENCE.
+- 10/02 22:51 [FirstSquawk] HASSETT SAYS YIELDS ARE UP THANKS TO A ROBUST ECONOMY.
+- 10/02 22:52 [FirstSquawk] HASSETT SAYS CURRENT INTEREST PAYMENTS ARE TOO HIGH.
+- 10/02 22:52 [FirstSquawk] HASSETT SAYS THIS PRESIDENT IS COMMITTED TO CUTTING THE DEFICIT.
+- 10/02 22:52 [FirstSquawk] HASSETT STATED THAT THEY DO NOT AIM TO USE INFLATION AS A METHOD TO ESCAPE DEBT.
+- 10/02 22:52 [financialjuice] WH Sr. Adviser Hassett: We do not want to inflate our way out of debt.
+- 10/02 22:55 [financialjuice] WH Sr. Adviser Hassett ends remarks on Bloomberg TV
+- 10/02 22:57 [FirstSquawk] HASSETT SAYS KEVIN WARSH HAS TO DEAL WITH POWELL, IT'S UNUSUAL
+- 10/02 22:57 [FirstSquawk] HASSETT SAYS DECISION IS FOR JEROME POWELL TO STAY OR GO
+- 10/02 22:57 [FirstSquawk] HASSETT SAYS IT'S NOT UP TO THE WHITE HOUSE ON POWELL
+- 10/02 22:58 [financialjuice] WH Sr. Adviser Hassett: Only Iranian oil isn't flowing through Hormuz
+- 10/02 22:58 [financialjuice] ❗ France’s President Macron: Diesel and crude stocks to be released over 4 months.
+- 10/02 22:58 [DeItaone] *MACRON: G7 DECIDED TO RELEASE DIESEL AND CRUDE STOCKS *MACRON: DIESEL, CRUDE STOCKS TO BE RELEASED OVER 4 MONTHS
+- 10/02 22:58 [financialjuice] ❗ France’s President Macron: We will release up to 100 mln barrels.
+- 10/02 23:00 [DeItaone] TIMIRAOS: WEAK JOBS REPORT CLEARS PATH FOR FED PAUSE The September jobs report gives the Fed more room to hold rates steady in October, with hiring slowing and unemployment edging up to 4.2%. With little evidence of labor-market inflation p…
+- 10/02 23:00 [financialjuice] US DURABLE GOODS REVISED ACTUAL -0.1% (FORECAST 0%, PREVIOUS 0.0%) $MACRO
+- 10/02 23:00 [financialjuice] US CORE DURABLE GOODS REVISED ACTUAL 0.2% (FORECAST 0.3%, PREVIOUS 0.3%) $MACRO
+- 10/02 23:00 [financialjuice] ❗ US FACTORY ORDERS MOM ACTUAL 0.1% (FORECAST 0.2%, PREVIOUS 0.9%) $MACRO
+- 10/02 23:00 [financialjuice] Fed's Logan does not comment on economic outlook, monetary policy in remarks at Dallas Fed conference on migration.
+- 10/02 23:01 [DeItaone] TRUMP: EUROPE HAS JUST AGREED TO RELEASE A MASSIVE AMOUNT OF THEIR HEAVILY STOCKED DIESEL OIL TRUMP: PROCESS WILL BEGIN IMMEDIATELY.
+- 10/02 23:02 [financialjuice] Trump: Europe agreed to release a massive amount of their heavily stocked Diesel Oil. The process begins immediately - Truth Social
+- 10/02 23:02 [FirstSquawk] TRUMP: EUROPE HAS JUST AGREED TO RELEASE A MASSIVE AMOUNT OF THEIR HEAVILY STOCKED DIESEL OIL. THE PROCESS WILL BEGIN IMMEDIATELY. THANK YOU FOR YOUR ATTENTION TO THIS MATTER! PRESIDENT DJT
+- 10/02 23:02 [DeItaone] NASDAQ COMPOSITE INDEX HITS ALL-TIME HIGH, LAST UP 1.6%

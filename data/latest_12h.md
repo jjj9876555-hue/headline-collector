@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-02 22:49 JST／対象: 10/02 10:49 〜 10/02 22:49 JST（時刻はすべて日本時間）
+生成: 2026-10-02 23:02 JST／対象: 10/02 11:02 〜 10/02 23:02 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 53 | 10/02 17:55 | 10/02 22:48 | 23分（19:35→19:59） |
-| FirstSquawk | 126 | 10/02 10:50 | 10/02 22:39 | 44分（20:46→21:31） |
-| financialjuice | 129 | 10/02 11:05 | 10/02 22:49 | ⚠ 49分（18:00→18:49） |
+| DeItaone | 57 | 10/02 17:55 | 10/02 23:02 | 23分（19:35→19:59） |
+| FirstSquawk | 133 | 10/02 11:04 | 10/02 23:02 | 44分（20:46→21:31） |
+| financialjuice | 140 | 10/02 11:05 | 10/02 23:02 | ⚠ 49分（18:00→18:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 301 行（統合前 308 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 323 行（統合前 330 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 10:50 [FirstSquawk] US Deploys Additional Patriot Air Defense Systems to Saudi, Qatari Energy Sites, Axios Reports
-- 10/02 10:56 [FirstSquawk] JGBs Climb Following Gains in US Treasurys - WSJ
-- 10/02 11:00 [FirstSquawk] Fitch Expands Asia-Pacific Coverage for Equity Release Loan Product Ratings
 - 10/02 11:04 [FirstSquawk] Japan Petroleum Exploration Acquires Entire Fundare Stake to Complete Tight Oil and Gas Asset Deal
 - 10/02 11:04 [FirstSquawk] Japan Petroleum Exploration Puts Total Enterprise Value of Fundare Interests at About $278 Million
 - 10/02 11:05 [financialjuice] Russian air strikes hit bridge in Ukraine's Kyiv: mayor
@@ -325,3 +322,28 @@
 - 10/02 22:48 [DeItaone] TRUMP EXPECTED TO NAME JAY CLAYTON AS AI CZAR - CNN
 - 10/02 22:49 [financialjuice] WH Sr. Adviser Hassett: We see in the data that the consumer is very strong
 - 10/02 22:49 [financialjuice] WH Sr. Adviser Hassett: It's going to be a strong holiday season.
+- 10/02 22:51 [financialjuice] WH Sr. Adviser Hassett on yields: They're higher due to strong economy.
+- 10/02 22:51 [FirstSquawk] HASSETT STATES THAT THIS JOBS REPORT MET EXPECTATIONS.
+- 10/02 22:51 [FirstSquawk] HASSETT SAYS DATA SHOWS STRONG CONSUMER CONFIDENCE.
+- 10/02 22:51 [FirstSquawk] HASSETT SAYS YIELDS ARE UP THANKS TO A ROBUST ECONOMY.
+- 10/02 22:52 [FirstSquawk] HASSETT SAYS CURRENT INTEREST PAYMENTS ARE TOO HIGH.
+- 10/02 22:52 [FirstSquawk] HASSETT SAYS THIS PRESIDENT IS COMMITTED TO CUTTING THE DEFICIT.
+- 10/02 22:52 [FirstSquawk] HASSETT STATED THAT THEY DO NOT AIM TO USE INFLATION AS A METHOD TO ESCAPE DEBT.
+- 10/02 22:52 [financialjuice] WH Sr. Adviser Hassett: We do not want to inflate our way out of debt.
+- 10/02 22:55 [financialjuice] WH Sr. Adviser Hassett ends remarks on Bloomberg TV
+- 10/02 22:57 [FirstSquawk] HASSETT SAYS KEVIN WARSH HAS TO DEAL WITH POWELL, IT'S UNUSUAL
+- 10/02 22:57 [FirstSquawk] HASSETT SAYS DECISION IS FOR JEROME POWELL TO STAY OR GO
+- 10/02 22:57 [FirstSquawk] HASSETT SAYS IT'S NOT UP TO THE WHITE HOUSE ON POWELL
+- 10/02 22:58 [financialjuice] WH Sr. Adviser Hassett: Only Iranian oil isn't flowing through Hormuz
+- 10/02 22:58 [financialjuice] ❗ France’s President Macron: Diesel and crude stocks to be released over 4 months.
+- 10/02 22:58 [DeItaone] *MACRON: G7 DECIDED TO RELEASE DIESEL AND CRUDE STOCKS *MACRON: DIESEL, CRUDE STOCKS TO BE RELEASED OVER 4 MONTHS
+- 10/02 22:58 [financialjuice] ❗ France’s President Macron: We will release up to 100 mln barrels.
+- 10/02 23:00 [DeItaone] TIMIRAOS: WEAK JOBS REPORT CLEARS PATH FOR FED PAUSE The September jobs report gives the Fed more room to hold rates steady in October, with hiring slowing and unemployment edging up to 4.2%. With little evidence of labor-market inflation p…
+- 10/02 23:00 [financialjuice] US DURABLE GOODS REVISED ACTUAL -0.1% (FORECAST 0%, PREVIOUS 0.0%) $MACRO
+- 10/02 23:00 [financialjuice] US CORE DURABLE GOODS REVISED ACTUAL 0.2% (FORECAST 0.3%, PREVIOUS 0.3%) $MACRO
+- 10/02 23:00 [financialjuice] ❗ US FACTORY ORDERS MOM ACTUAL 0.1% (FORECAST 0.2%, PREVIOUS 0.9%) $MACRO
+- 10/02 23:00 [financialjuice] Fed's Logan does not comment on economic outlook, monetary policy in remarks at Dallas Fed conference on migration.
+- 10/02 23:01 [DeItaone] TRUMP: EUROPE HAS JUST AGREED TO RELEASE A MASSIVE AMOUNT OF THEIR HEAVILY STOCKED DIESEL OIL TRUMP: PROCESS WILL BEGIN IMMEDIATELY.
+- 10/02 23:02 [financialjuice] Trump: Europe agreed to release a massive amount of their heavily stocked Diesel Oil. The process begins immediately - Truth Social
+- 10/02 23:02 [FirstSquawk] TRUMP: EUROPE HAS JUST AGREED TO RELEASE A MASSIVE AMOUNT OF THEIR HEAVILY STOCKED DIESEL OIL. THE PROCESS WILL BEGIN IMMEDIATELY. THANK YOU FOR YOUR ATTENTION TO THIS MATTER! PRESIDENT DJT
+- 10/02 23:02 [DeItaone] NASDAQ COMPOSITE INDEX HITS ALL-TIME HIGH, LAST UP 1.6%
