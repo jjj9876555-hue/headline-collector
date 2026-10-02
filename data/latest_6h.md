@@ -7,50 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-02 10:35 JST／対象: 10/02 04:35 〜 10/02 10:35 JST（時刻はすべて日本時間）
+生成: 2026-10-02 10:53 JST／対象: 10/02 04:53 〜 10/02 10:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 10/02 05:19 | 10/02 05:19 | - |
-| FirstSquawk | 73 | 10/02 04:38 | 10/02 10:34 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 65 | 10/02 04:36 | 10/02 10:00 | ⚠ 79分（06:41→08:00） |
+| FirstSquawk | 66 | 10/02 04:58 | 10/02 10:50 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 52 | 10/02 04:56 | 10/02 10:38 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 131 行（統合前 139 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 114 行（統合前 119 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 04:36 [financialjuice] Fed's Cook: Supply shocks have had surprisingly persistent effects, becoming more salient for policy
-- 10/02 04:37 [financialjuice] Fed's Cook: Possible that the optimal policy response to a supply shock could be sector-dependent
-- 10/02 04:38 [FirstSquawk] NO TALKS ABOUT IRAN'S NUCLEAR PROGRAMME TOOK PLACE DURING RECENT MEETINGS WITH MEDIATORS - IRAN'S OFFICIAL NEWS AGENCY CITING A SOURCE WITH KNOWLEDGE.
-- 10/02 04:38 [FirstSquawk] LOCAL SOURCES: SUPERTANKER WITH A CAPACITY OF 2.5 MILLION BARRELS, ILLEGALLY TRANSITING THE STRAIT OF HORMUZ, STRUCK APPROXIMATELY 8 KILOMETERS OFF THE COAST OF OMAN, CURRENTLY ON FIRE - MEHR NEWS
-- 10/02 04:39 [FirstSquawk] USTR GREER SAYS HE HAD A CONSTRUCTIVE CONVERSATION WITH INDIAN TRADE MINISTER GOYAL AS THEY TRY TO FINISH A TRADE DEAL, ADDING THAT AN INDIA-U.S. TRADE DEAL IS NOT IMMINENT AND THAT STICKING POINTS HAVE BEEN IDENTIFIED
-- 10/02 04:39 [financialjuice] Fed's cook: We have to be attentive to consumer confidence.
-- 10/02 04:39 [FirstSquawk] IRAN'S PGSA: IN RECENT DAYS, SEVERAL TANKERS HAVE BEEN STRUCK IN THE STRAIT OF HORMUZ, AND THE LAST THREE OF THESE WERE EITHER OWNED OR CHARTERED BY THE UNITED ARAB EMIRATES.
-- 10/02 04:39 [financialjuice] Fed's Cook: Need to make sure inflation expectations don't become unanchored.
-- 10/02 04:40 [FirstSquawk] US TREASURY SECRETARY BESSENT: EUROPE SHOULD MAKE ADDITIONAL SUPPLIES AVAILABLE & ACCELERATE DELIVERY ON EXISTING COMMITMENTS
-- 10/02 04:40 [FirstSquawk] USTR GREER SAYS TRUMP'S TRADE PROGRAM IS 'TRENDING IN THE RIGHT DIRECTION' AND THAT THE U.S. IS ON TRACK FOR RECORD GOODS TRADE EXPORTS THIS YEAR, CALLING THE ENGAGEMENT ON EXCESS CAPACITY 'QUITE CONSTRUCTIVE'.
-- 10/02 04:40 [FirstSquawk] USTR GREER SAYS G20 TRADE MINISTERS DISCUSSED THE 'WEAPONIZATION' OF AGRICULTURE AND FARM INPUTS, WITH THE TALKS ALSO COVERING FORCED LABOR AND EXCESS CAPACITY CONCERNS.
-- 10/02 04:40 [FirstSquawk] THE BANK OF CANADA'S SENIOR DEPUTY GOVERNOR ROGERS SAYS RESTORING THE AFFORDABILITY OF HOUSING WILL REQUIRE A BROAD, SUSTAINED EFFORT AND A POLICY MIX — INCLUDING MORE SUPPLY, BETTER PLANNING AND INFRASTRUCTURE AND THE RIGHT INCENTIVES — AN…
-- 10/02 04:41 [FirstSquawk] THE BANK OF CANADA'S SENIOR DEPUTY GOVERNOR ROGERS SAYS TARGETING HOME PRICES DIRECTLY WITH INTEREST RATES 'IS NOT THE ANSWER' AND WOULD RISK IMPOSING COSTS ACROSS THE ECONOMY, WHILE NOTING FALLING HOUSE PRICES CAN CUT HOUSEHOLD WEALTH, WEA…
-- 10/02 04:41 [financialjuice/FirstSquawk] Netanyahu conspiring ridiculous false-flag scenarios such as plane hijack to accuse Iran - Sources to Press TV
-- 10/02 04:42 [financialjuice] USTR Greer: Discussed diesel exports with European partners on Thursday.
-- 10/02 04:43 [financialjuice] USTR greer: France, Germany and Italy are sitting on diesel reserves, getting more to market is part of a cooperative approach.
-- 10/02 04:43 [financialjuice] Fed's Cook: Cautious that AI could be a major reorganization of work.
-- 10/02 04:44 [financialjuice] USTR Greer: We have technical talks with Canadians; there are a handful of outstanding issues that are difficult to resolve.
-- 10/02 04:46 [financialjuice] Fed's Cook: AI is causing pockets of inflation.
-- 10/02 04:49 [financialjuice/FirstSquawk] Iran's Foreign Ministry asks Iraq to take steps to lift flight restrictions due to US sanctions and return flights to normal conditions.
-- 10/02 04:50 [financialjuice] USTR Greer: Will continue to advance discussions on the most-favored-nation tariff structure, but did not submit a draft agreement.
-- 10/02 04:50 [financialjuice/FirstSquawk] ❗ fed's Bowman sees no urgent need for more rate moves this year.
-- 10/02 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 2679.2 MLN NASDAQ 100: 989.1 MLN DOW 30: 468.6 MLN MAG 7: 354.6 MLN $MACRO
-- 10/02 04:52 [FirstSquawk] USTR GREER SAYS THE U.S. HAS TECHNICAL TALKS WITH THE CANADIANS BUT THAT THERE ARE 'A HANDFUL OF OUTSTANDING ISSUES THAT ARE DIFFICULT TO RESOLVE', ADDING THAT IT WILL CONTINUE TO ADVANCE DISCUSSIONS ON A MOST-FAVORED-NATION TARIFF STRUCTUR…
-- 10/02 04:52 [FirstSquawk] USTR GREER SAYS THE MEETING HAS NOT CHANGED HIS VIEWS ON THE WTO'S INABILITY TO ADDRESS EXCESS INDUSTRIAL CAPACITY, ADDING THAT THERE IS NOT YET A TIMELINE FOR U.S.-CHINA TARIFF REDUCTIONS UNDER THE BOARD OF TRADE.
-- 10/02 04:52 [financialjuice] USTR Greer: We do not have a timeline yet for the US-China tariff reductions under the Board of trade
-- 10/02 04:53 [financialjuice] Total money market funds fell $ 45.45 B to $7.89t for the week ended september 30th - ICI
 - 10/02 04:56 [financialjuice] Fed's Cook: Don't think private credit is having a big effect on financial stability
 - 10/02 04:58 [FirstSquawk] MUSK SAYS TESLA HAS CUT THE RAM IN HALF FOR THE TESLA AI5 CHIP — NOW 72GB OF LP5 — AND BY A THIRD FOR AI6, NOW 144GB OF LP6, ADDING THAT HE THINKS THIS WILL HAVE A NEGLIGIBLE EFFECT ON OPTIMUS PERFORMANCE
 - 10/02 05:02 [financialjuice/FirstSquawk] Musk: I am cautiously optimistic that we will be able to run the SpaceX version of the VR72 at close to 250kW average power, meaning peak power would be ~10% higher - Post X. $NVDA $SPCX
@@ -155,3 +128,13 @@
 - 10/02 10:26 [FirstSquawk] Trump Asked Grok About Venezuelan Reaction to Maduro Capture Before US Invasion, TechCrunch Reports
 - 10/02 10:34 [FirstSquawk] Xiaomi Stock Drops More Than 5%
 - 10/02 10:34 [FirstSquawk] Taiwan Banks Asked to Reduce Branches Amid Rising Office Rents
+- 10/02 10:36 [FirstSquawk] Vietnam’s Biggest Refinery Has Crude Oil Supplies Secured Through November, Mostly From Kuwait
+- 10/02 10:37 [financialjuice] South Korean President Lee: deeply regrets Ukraine's reaction to North Korean POW repatriation disclosure dispute
+- 10/02 10:38 [financialjuice] South Korean president Lee: will take further actions if Ukraine keeps refusing deal on North Korean POW repatriation
+- 10/02 10:38 [financialjuice] South Korean President Lee urges Ukraine to recognize deal and apologize
+- 10/02 10:39 [FirstSquawk] South Korea’s Lee Voices Grave Regret Over Ukraine’s Reaction to North Korean POW Repatriation Talks Disclosure Dispute
+- 10/02 10:39 [FirstSquawk] South Korean President Lee Says Seoul Will Take Further Measures if Ukraine Continues to Deny POW Repatriation Deal
+- 10/02 10:40 [FirstSquawk] South Korean President Lee Urges Ukraine to Acknowledge Agreement and Apologize
+- 10/02 10:40 [FirstSquawk] South Korea’s Central Bank Sells 91-Day Stabilisation Bonds at 3.170% Yield
+- 10/02 10:48 [FirstSquawk] Oil Gains Ground as Middle East Tensions Mount - WSJ
+- 10/02 10:50 [FirstSquawk] US Deploys Additional Patriot Air Defense Systems to Saudi, Qatari Energy Sites, Axios Reports

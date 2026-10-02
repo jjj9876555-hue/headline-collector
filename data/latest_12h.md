@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-02 10:35 JST／対象: 10/01 22:35 〜 10/02 10:35 JST（時刻はすべて日本時間）
+生成: 2026-10-02 10:53 JST／対象: 10/01 22:53 〜 10/02 10:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 53 | 10/01 22:47 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 172 | 10/01 22:35 | 10/02 10:34 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 232 | 10/01 22:35 | 10/02 10:00 | ⚠ 79分（06:41→08:00） |
+| DeItaone | 52 | 10/01 23:00 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
+| FirstSquawk | 177 | 10/01 22:55 | 10/02 10:50 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 230 | 10/01 22:54 | 10/02 10:38 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 429 行（統合前 462 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 431 行（統合前 463 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 22:35 [financialjuice] UK's Healey summons UK bank chiefs to pre-budget summit next week - Sky
-- 10/01 22:35 [financialjuice] The US proposal asks the EU to release diesel over 180 days - Politico
-- 10/01 22:35 [financialjuice] US asked Europe to release over 1/3 of diesel reserves - Politico
-- 10/01 22:35 [FirstSquawk] US PROPOSAL ASKS EU TO RELEASE DIESEL OVER 180 DAYS: POLITICO
-- 10/01 22:45 [FirstSquawk] US S&P GLOBAL MANUFACTURING PMI (SEP) ACTUAL: 55.9 VS 57.0 PREVIOUS; EST 57.0
-- 10/01 22:45 [financialjuice] ❗ US S&P MANUFACTURING PMI FINAL ACTUAL 55.9 (FORECAST 57, PREVIOUS 57.0) $MACRO
-- 10/01 22:46 [financialjuice] US S&P Manufacturing PMI Final September Report
-- 10/01 22:47 [DeItaone] US SEP FINAL MANUF PMI 55.9 (57.0 FLASH, 53.9 AUG)
 - 10/01 22:54 [financialjuice] Fed's Waller speaks at FRED Con Live
 - 10/01 22:55 [FirstSquawk] FITCH STATES THAT THE UK WATER BILL UPDATE DOES NOT CHANGE SECTOR RISK, BUT THERE ARE STILL RISKS.
 - 10/01 22:56 [FirstSquawk] FITCH: BASE CASE REMAINS THAT UK WATER SECTOR REFORMS WILL DELIVER A CLEARER AND BETTER-COORDINATED FRAMEWORK
@@ -453,3 +445,13 @@
 - 10/02 10:26 [FirstSquawk] Trump Asked Grok About Venezuelan Reaction to Maduro Capture Before US Invasion, TechCrunch Reports
 - 10/02 10:34 [FirstSquawk] Xiaomi Stock Drops More Than 5%
 - 10/02 10:34 [FirstSquawk] Taiwan Banks Asked to Reduce Branches Amid Rising Office Rents
+- 10/02 10:36 [FirstSquawk] Vietnam’s Biggest Refinery Has Crude Oil Supplies Secured Through November, Mostly From Kuwait
+- 10/02 10:37 [financialjuice] South Korean President Lee: deeply regrets Ukraine's reaction to North Korean POW repatriation disclosure dispute
+- 10/02 10:38 [financialjuice] South Korean president Lee: will take further actions if Ukraine keeps refusing deal on North Korean POW repatriation
+- 10/02 10:38 [financialjuice] South Korean President Lee urges Ukraine to recognize deal and apologize
+- 10/02 10:39 [FirstSquawk] South Korea’s Lee Voices Grave Regret Over Ukraine’s Reaction to North Korean POW Repatriation Talks Disclosure Dispute
+- 10/02 10:39 [FirstSquawk] South Korean President Lee Says Seoul Will Take Further Measures if Ukraine Continues to Deny POW Repatriation Deal
+- 10/02 10:40 [FirstSquawk] South Korean President Lee Urges Ukraine to Acknowledge Agreement and Apologize
+- 10/02 10:40 [FirstSquawk] South Korea’s Central Bank Sells 91-Day Stabilisation Bonds at 3.170% Yield
+- 10/02 10:48 [FirstSquawk] Oil Gains Ground as Middle East Tensions Mount - WSJ
+- 10/02 10:50 [FirstSquawk] US Deploys Additional Patriot Air Defense Systems to Saudi, Qatari Energy Sites, Axios Reports

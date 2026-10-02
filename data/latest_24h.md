@@ -7,53 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-02 10:35 JST／対象: 10/01 10:35 〜 10/02 10:35 JST（時刻はすべて日本時間）
+生成: 2026-10-02 10:53 JST／対象: 10/01 10:53 〜 10/02 10:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 93 | 10/01 16:25 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 341 | 10/01 10:36 | 10/02 10:34 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 398 | 10/01 10:36 | 10/02 10:00 | ⚠ 79分（06:41→08:00） |
+| FirstSquawk | 323 | 10/01 10:57 | 10/02 10:50 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 396 | 10/01 10:59 | 10/02 10:38 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 794 行（統合前 838 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 774 行（統合前 818 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 10:36 [financialjuice] South Korea President Lee: Seoul to develop nuclear-powered submarines by mid-2030s
-- 10/01 10:36 [FirstSquawk] South Korea targets nuclear-powered submarine construction by mid-2030s, Lee says
-- 10/01 10:38 [financialjuice] South Korea's Lee: will adopt practical steps to reduce military tension with North Korea
-- 10/01 10:38 [financialjuice] South Korea President Lee: urges North Korea to cooperate in rebuilding trust and restarting talks
-- 10/01 10:38 [FirstSquawk] RBA: A further 20% decline in Australian home prices would leave only 5% of mortgages underwater
-- 10/01 10:38 [FirstSquawk] RBA: Australian households and companies remain resilient despite the prospect of slower growth and weaker housing prices
-- 10/01 10:38 [FirstSquawk] RBA: Fewer than 1% of Australian borrowers currently have mortgages exceeding the value of their homes
-- 10/01 10:38 [FirstSquawk] RBA: Australian banks have sufficient resilience to cope with a significant housing-market downturn
-- 10/01 10:38 [financialjuice] South Korea President Lee: to adopt practical steps to reduce military tensions with North Korea
-- 10/01 10:38 [FirstSquawk] RBA: Financial stress is visible in some households and businesses, but arrears remain low and overall resilience is intact
-- 10/01 10:38 [FirstSquawk] RBA: Most Australian businesses can absorb higher costs, although some are passing those increases through to customers
-- 10/01 10:38 [FirstSquawk] RBA: Only around 2% of owner-occupier borrowers are currently experiencing cash-flow shortfalls
-- 10/01 10:39 [FirstSquawk] RBA: Smaller firms and energy-intensive businesses face rising pressure on cash flows
-- 10/01 10:39 [FirstSquawk] RBA: External shocks remain the biggest source of risk to Australia’s domestic financial stability
-- 10/01 10:39 [FirstSquawk] RBA: Australian lending practices remain robust, with tighter controls limiting riskier credit
-- 10/01 10:39 [FirstSquawk] RBA: Global AI financing is becoming increasingly opaque and circular, raising concerns over future profit expectations
-- 10/01 10:39 [FirstSquawk] RBA: Private credit has not yet emerged as a significant financial-stability risk for Australia
-- 10/01 10:39 [FirstSquawk] RBA: Australia’s private-credit market has expanded rapidly but remains modest in size overall
-- 10/01 10:39 [FirstSquawk] RBA: Greater leverage among bond and AI-equity investors could intensify market swings and financial risks
-- 10/01 10:39 [FirstSquawk] RBA: Elevated asset valuations and leverage leave global markets exposed to a sharp and disruptive correction
-- 10/01 10:39 [financialjuice] South Korea president Lee: country to enhance missile defense with AI-based command networks and laser interceptors
-- 10/01 10:41 [FirstSquawk] SOUTH KOREA'S LEE: WILL TAKE PRACTICAL MEASURES TO LOWER MILITARY TENSION WITH NORTH KOREA
-- 10/01 10:41 [FirstSquawk] SOUTH KOREA PRESIDENT LEE: CALLS ON NORTH KOREA TO JOIN EFFORTS TO RESTORE TRUST AND RESUME DIALOGUE
-- 10/01 10:41 [FirstSquawk] SOUTH KOREA PRESIDENT LEE: WILL TAKE PRACTICAL MEASURES TO LOWER MILITARY TENSION WITH NORTH KOREA
-- 10/01 10:41 [FirstSquawk] SOUTH KOREA PRESIDENT LEE: SOUTH KOREA TO UPGRADE MISSILE DEFENSE SYSTEMS INCLUDING AI-BASED COMMAND NETWORKS AND LASER INTERCEPTORS
-- 10/01 10:43 [FirstSquawk] President Lee: South Korea to bolster missile defenses with AI command networks, laser interceptors
-- 10/01 10:43 [FirstSquawk] SK Hynix to assess shareholder protection measures tied to Solidigm
-- 10/01 10:43 [FirstSquawk] 20-year Japanese government bond yield advances 4.5bp to 3.945%
-- 10/01 10:43 [FirstSquawk] 30-year Japanese government bond yield gains 5.0bp to 4.190%
-- 10/01 10:50 [FirstSquawk] CAD vulnerable around two-month low with USD holding bullish momentum - FX
 - 10/01 10:57 [FirstSquawk] Japan’s 10-year JGB yield gains 5.0bp to 3.110%
 - 10/01 10:59 [FirstSquawk] South Korea ministry says investment in US Alaska LNG project remains undecided — Yonhap
 - 10/01 10:59 [financialjuice] South Korea industry ministry: US Alaska LNG project investment still undecided - Yonhap
@@ -818,3 +788,13 @@
 - 10/02 10:26 [FirstSquawk] Trump Asked Grok About Venezuelan Reaction to Maduro Capture Before US Invasion, TechCrunch Reports
 - 10/02 10:34 [FirstSquawk] Xiaomi Stock Drops More Than 5%
 - 10/02 10:34 [FirstSquawk] Taiwan Banks Asked to Reduce Branches Amid Rising Office Rents
+- 10/02 10:36 [FirstSquawk] Vietnam’s Biggest Refinery Has Crude Oil Supplies Secured Through November, Mostly From Kuwait
+- 10/02 10:37 [financialjuice] South Korean President Lee: deeply regrets Ukraine's reaction to North Korean POW repatriation disclosure dispute
+- 10/02 10:38 [financialjuice] South Korean president Lee: will take further actions if Ukraine keeps refusing deal on North Korean POW repatriation
+- 10/02 10:38 [financialjuice] South Korean President Lee urges Ukraine to recognize deal and apologize
+- 10/02 10:39 [FirstSquawk] South Korea’s Lee Voices Grave Regret Over Ukraine’s Reaction to North Korean POW Repatriation Talks Disclosure Dispute
+- 10/02 10:39 [FirstSquawk] South Korean President Lee Says Seoul Will Take Further Measures if Ukraine Continues to Deny POW Repatriation Deal
+- 10/02 10:40 [FirstSquawk] South Korean President Lee Urges Ukraine to Acknowledge Agreement and Apologize
+- 10/02 10:40 [FirstSquawk] South Korea’s Central Bank Sells 91-Day Stabilisation Bonds at 3.170% Yield
+- 10/02 10:48 [FirstSquawk] Oil Gains Ground as Middle East Tensions Mount - WSJ
+- 10/02 10:50 [FirstSquawk] US Deploys Additional Patriot Air Defense Systems to Saudi, Qatari Energy Sites, Axios Reports
