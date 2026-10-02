@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-03 04:28 JST／対象: 10/02 22:28 〜 10/03 04:28 JST（時刻はすべて日本時間）
+生成: 2026-10-03 04:47 JST／対象: 10/02 22:47 〜 10/03 04:47 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 13 | 10/02 22:34 | 10/03 02:33 | ⚠ 124分（00:28→02:33） |
-| FirstSquawk | 66 | 10/02 22:33 | 10/03 04:24 | 34分（02:50→03:25） |
-| financialjuice | 74 | 10/02 22:31 | 10/03 04:27 | 34分（01:07→01:42） |
+| DeItaone | 9 | 10/02 22:48 | 10/03 02:33 | ⚠ 124分（00:28→02:33） |
+| FirstSquawk | 63 | 10/02 22:51 | 10/03 04:39 | 34分（02:50→03:25） |
+| financialjuice | 70 | 10/02 22:47 | 10/03 04:42 | 34分（01:07→01:42） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 147 行（統合前 154 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 136 行（統合前 143 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -68.9 MLN NASDAQ 100: -40.8 MLN DOW 30: -21.0 MLN MAG 7: -53.3 MLN $MACRO
-- 10/02 22:33 [FirstSquawk] DOW JONES UP 334.38 POINTS, OR 0.66 PERCENT, AT 51,260.94 AFTER MARKET OPEN NASDAQ UP 339.34 POINTS, OR 1.26 PERCENT, AT 27,210.93 AFTER MARKET OPEN S&P 500 UP 67.19 POINTS, OR 0.88 PERCENT, AT 7,733.64 AFTER MARKET OPEN
-- 10/02 22:34 [DeItaone] WHITE HOUSE PREPARES ACTION ON RECORD U.S. DIESEL PRICES Washington is pressuring Europe to release emergency fuel reserves as the White House prepares an executive order aimed at tackling record-high U.S. diesel prices. The order could be …
-- 10/02 22:36 [FirstSquawk] PARAMOUNT SKYDANCE CORP WILL CHANGE ITS TICKER TO SKYD AND NAME TO SKYDANCE CORP ON OCTOBER 6, 2026, ACCORDING TO SEC FILING.
-- 10/02 22:37 [financialjuice] UK Defence Secretary Streeting: Iran likely behind fairford, not formally named
-- 10/02 22:38 [financialjuice] WH Sr. Adviser Hassett: The Navy has opened Hormuz and crude is coming through
-- 10/02 22:38 [financialjuice] WH Sr. Adviser Hassett: More announcements next week on energy.
-- 10/02 22:39 [FirstSquawk] HASSETT ANNOUNCED THAT THE NAVY HAS REOPENED THE STRAIT OF HORMUZ, ALLOWING CRUDE OIL TO FLOW FREELY AGAIN.
-- 10/02 22:39 [FirstSquawk] HASSETT SAYS THERE WILL BE ADDITIONAL ANNOUNCEMENTS ABOUT ENERGY NEXT WEEK.
-- 10/02 22:39 [FirstSquawk] HASSETT STATES WE DESIRE LOWER MORTGAGE RATES.
-- 10/02 22:39 [financialjuice] WH Sr. Adviser Hassett: Housing data are up because the economy is so strong.
-- 10/02 22:41 [DeItaone] *HASSETT: NAVY HAS OPENED HORMUZ, CRUDE COMING THROUGH
-- 10/02 22:41 [DeItaone] *HASSETT: WE WANT MORTGAGE RATES TO GO DOWN
-- 10/02 22:41 [DeItaone] *NVIDIA SHARES RISE 2.5% TO HIT FIRST RECORD HIGH SINCE MAY
-- 10/02 22:44 [financialjuice] Trump expected to pick Clayton to be the new AI Czar - CNN
-- 10/02 22:44 [financialjuice] WH Sr. Adviser Hassett ends remarks on Fox news
-- 10/02 22:46 [financialjuice] WH Sr. Adviser Hassett: A lot of news this week has been positive
 - 10/02 22:47 [financialjuice] WH Sr. Adviser Hassett Speaks - WATCH LIVE
 - 10/02 22:47 [financialjuice] WH Sr. Adviser Hassett: This job's report was about expected.
 - 10/02 22:48 [DeItaone] *HASSETT: THIS JOBS REPORT WAS ABOUT EXPECTED
@@ -171,3 +154,9 @@
 - 10/03 04:22 [financialjuice] Monday FX Options Expiries
 - 10/03 04:24 [FirstSquawk] ELI LILLY'S JAYPIRCA GETS FDA OK FOR PREVIOUSLY UNTREATED CLL/SLL
 - 10/03 04:27 [financialjuice] Week Ahead: Economic Indicators 5th – 9th October (US)
+- 10/03 04:31 [financialjuice] CFTC Positions in the Week Ended September 29th, 2026
+- 10/03 04:35 [financialjuice] ECB's Nagel: Possible that the German economy will grow around 1% this year
+- 10/03 04:36 [financialjuice] US Army to create autonomous systems command - Axios citing memo
+- 10/03 04:36 [FirstSquawk] BBK CHIEF NAGEL: POSSIBLE THAT GERMAN ECONOMY WILL GROW AROUND 1% THIS YEAR
+- 10/03 04:39 [FirstSquawk] US ARMY CREATES AUTONOMY COMMAND AMID PUSH FOR SMART MACHINERY - AXIOS
+- 10/03 04:42 [financialjuice] Hedge funds turned short yen in the week ended September 29th - CFTC
