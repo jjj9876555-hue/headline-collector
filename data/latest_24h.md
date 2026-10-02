@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-02 17:46 JST／対象: 10/01 17:46 〜 10/02 17:46 JST（時刻はすべて日本時間）
+生成: 2026-10-02 18:01 JST／対象: 10/01 18:01 〜 10/02 18:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 86 | 10/01 17:52 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 303 | 10/01 17:58 | 10/02 17:15 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 382 | 10/01 17:57 | 10/02 17:32 | ⚠ 79分（06:41→08:00） |
+| DeItaone | 88 | 10/01 18:30 | 10/02 18:00 | ⚠ 755分（05:19→17:55） |
+| FirstSquawk | 303 | 10/01 18:02 | 10/02 17:53 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 379 | 10/01 18:01 | 10/02 18:00 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 732 行（統合前 777 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 731 行（統合前 776 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 17:52 [DeItaone] U.K. 30-YEAR GILT HIT 6.029%, HIGHEST SINCE 1998: LSEG
-- 10/01 17:57 [financialjuice] FRENCH 10 YR OAT YIELD ACTUAL 4.93% (FORECAST -, PREVIOUS 4.23%) $MACRO
-- 10/01 17:57 [financialjuice] FRENCH 10 YR OAT BID-TO-COVER ACTUAL 2 (FORECAST -, PREVIOUS 2.28) $MACRO
-- 10/01 17:57 [financialjuice] FRENCH 20 YR OAT YIELD ACTUAL 5.4% (FORECAST -, PREVIOUS 4.74%) $MACRO
-- 10/01 17:57 [financialjuice] Japan Economy Minister Kiuchi: Won't comment on BoJ summary of opinions.
-- 10/01 17:57 [financialjuice] FRENCH 20 YR OAT BID-TO-COVER ACTUAL 2.43 (FORECAST -, PREVIOUS 3.07) $MACRO
-- 10/01 17:58 [FirstSquawk] JAPAN'S ECONOMY MINISTER KIUCHI REFUSED TO COMMENT ON THE BANK OF JAPAN'S SUMMARY OF OPINIONS.
-- 10/01 17:58 [FirstSquawk] JAPAN'S ECONOMY MINISTER KIUCHI STATES THAT THE DECISION ON SPECIFIC MONETARY TOOLS RESTS WITH THE BANK OF JAPAN.
-- 10/01 18:00 [financialjuice] ❗ EUROZONE UNEMPLOYMENT RATE ACTUAL 6.4% (FORECAST 6.4%, PREVIOUS 6.4%) $MACRO
 - 10/01 18:01 [financialjuice/FirstSquawk] Hawley, Murphy to introduce AI liability legislation - Axios.
 - 10/01 18:17 [financialjuice] Latest UK sanctions against Russian military & intelligence officers alleged to have mistreated civilians in Ukraine
 - 10/01 18:17 [financialjuice] Latest UK sanctions also target ships believed to be involved in carrying Russian liquefied natural gas
@@ -756,3 +747,11 @@
 - 10/02 17:20 [financialjuice] Moody's on France: It is far from certain a compromise can be reached on the 2027 budget as the proximity of next spring's elections risks hardening political positions.
 - 10/02 17:31 [financialjuice] UK September decision maker year-ahead CPI expectations 3.3%.
 - 10/02 17:32 [financialjuice] Bank of England Decision Maker Panel: Firms year-ahead expected wage growth unchanged at 3.4% in the three months to September.
+- 10/02 17:53 [FirstSquawk] FRANCE SUGGESTS RELEASING 50 MILLION BARRELS OF DIESEL AND 50 MILLION BARRELS OF OIL FROM IEA MEMBERS.
+- 10/02 17:53 [FirstSquawk] UKRAINE PRESIDENT ZELENSKIY HAS ANNOUNCED THAT UKRAINE ATTACKED RUSSIAN REFINERIES LAST NIGHT.
+- 10/02 17:55 [DeItaone] *FRANCE HAS PROPOSED NEW EUROPE, IEA RELEASE OF DIESEL AND CRUDE
+- 10/02 17:59 [DeItaone] BOFA’S HARTNETT SEES RISK-OFF MOOD PERSISTING BofA’s Michael Hartnett says investors are likely to avoid riskier trades until the dollar peaks and bond yields retreat from multidecade highs. The Bloomberg dollar index has risen 3% from its …
+- 10/02 18:00 [financialjuice] ❗ EUROZONE CPI YOY FLASH ACTUAL 3.8% (FORECAST 3.7%, PREVIOUS 3.2%) $MACRO
+- 10/02 18:00 [financialjuice] ❗ EUROZONE CPI MOM FLASH ACTUAL 0.6% (FORECAST 0.5%, PREVIOUS 0.4%) $MACRO
+- 10/02 18:00 [financialjuice] ❗ EUROZONE CORE CPI YOY FLASH ACTUAL 2.5% (FORECAST 2.5%, PREVIOUS 2.4%) $MACRO
+- 10/02 18:00 [DeItaone] 🇪🇺 EUROZONE INFLATION JUMPS TO 3.8%, ABOVE FORECASTS Eurozone inflation accelerated to 3.8% YoY in September, above the 3.6% consensus and sharply higher than 3.2% in August, according to Eurostat. Core inflation rose slightly to 2.5% from …

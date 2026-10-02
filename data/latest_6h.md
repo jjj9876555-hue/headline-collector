@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-02 17:46 JST／対象: 10/02 11:46 〜 10/02 17:46 JST（時刻はすべて日本時間）
+生成: 2026-10-02 18:01 JST／対象: 10/02 12:01 〜 10/02 18:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 0 | - | - | - |
-| FirstSquawk | 57 | 10/02 11:53 | 10/02 17:15 | 30分（14:50→15:21） |
-| financialjuice | 41 | 10/02 12:24 | 10/02 17:32 | 44分（14:43→15:27） |
+| DeItaone | 3 | 10/02 17:55 | 10/02 18:00 | 3分（17:55→17:59） |
+| FirstSquawk | 57 | 10/02 12:01 | 10/02 17:53 | 38分（17:15→17:53） |
+| financialjuice | 44 | 10/02 12:24 | 10/02 18:00 | 44分（14:43→15:27） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 97 行（統合前 98 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 103 行（統合前 104 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 11:53 [FirstSquawk] Piper Sandler Lowers Nike Price Target to $28 From $38
-- 10/02 12:00 [FirstSquawk] Samsung Heavy Secures 672.2 Billion-Won Order for Two LNG Carriers
 - 10/02 12:01 [FirstSquawk] US DOJ: Government Employee Arrested for Allegedly Providing Support to Houthis
 - 10/02 12:04 [FirstSquawk] JPMorgan Raises Accenture Price Target to $242 From $200
 - 10/02 12:09 [FirstSquawk] Piper Sandler Raises Cigna Price Target to $370 From $346
@@ -121,3 +119,11 @@
 - 10/02 17:20 [financialjuice] Moody's on France: It is far from certain a compromise can be reached on the 2027 budget as the proximity of next spring's elections risks hardening political positions.
 - 10/02 17:31 [financialjuice] UK September decision maker year-ahead CPI expectations 3.3%.
 - 10/02 17:32 [financialjuice] Bank of England Decision Maker Panel: Firms year-ahead expected wage growth unchanged at 3.4% in the three months to September.
+- 10/02 17:53 [FirstSquawk] FRANCE SUGGESTS RELEASING 50 MILLION BARRELS OF DIESEL AND 50 MILLION BARRELS OF OIL FROM IEA MEMBERS.
+- 10/02 17:53 [FirstSquawk] UKRAINE PRESIDENT ZELENSKIY HAS ANNOUNCED THAT UKRAINE ATTACKED RUSSIAN REFINERIES LAST NIGHT.
+- 10/02 17:55 [DeItaone] *FRANCE HAS PROPOSED NEW EUROPE, IEA RELEASE OF DIESEL AND CRUDE
+- 10/02 17:59 [DeItaone] BOFA’S HARTNETT SEES RISK-OFF MOOD PERSISTING BofA’s Michael Hartnett says investors are likely to avoid riskier trades until the dollar peaks and bond yields retreat from multidecade highs. The Bloomberg dollar index has risen 3% from its …
+- 10/02 18:00 [financialjuice] ❗ EUROZONE CPI YOY FLASH ACTUAL 3.8% (FORECAST 3.7%, PREVIOUS 3.2%) $MACRO
+- 10/02 18:00 [financialjuice] ❗ EUROZONE CPI MOM FLASH ACTUAL 0.6% (FORECAST 0.5%, PREVIOUS 0.4%) $MACRO
+- 10/02 18:00 [financialjuice] ❗ EUROZONE CORE CPI YOY FLASH ACTUAL 2.5% (FORECAST 2.5%, PREVIOUS 2.4%) $MACRO
+- 10/02 18:00 [DeItaone] 🇪🇺 EUROZONE INFLATION JUMPS TO 3.8%, ABOVE FORECASTS Eurozone inflation accelerated to 3.8% YoY in September, above the 3.6% consensus and sharply higher than 3.2% in August, according to Eurostat. Core inflation rose slightly to 2.5% from …
