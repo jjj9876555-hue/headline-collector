@@ -7,45 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-02 09:07 JST／対象: 10/01 21:07 〜 10/02 09:07 JST（時刻はすべて日本時間）
+生成: 2026-10-02 09:34 JST／対象: 10/01 21:34 〜 10/02 09:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 62 | 10/01 21:24 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 163 | 10/01 21:07 | 10/02 08:51 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 253 | 10/01 21:08 | 10/02 08:50 | ⚠ 79分（06:41→08:00） |
+| DeItaone | 58 | 10/01 21:35 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
+| FirstSquawk | 164 | 10/01 21:46 | 10/02 09:29 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 243 | 10/01 22:00 | 10/02 09:29 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 447 行（統合前 484 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 434 行（統合前 471 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 21:07 [FirstSquawk] FRENCH BUDGET WATCHDOG: 2027 GROWTH FORECAST OPTIMISTIC
-- 10/01 21:07 [FirstSquawk] BOE'S MANN: CAN'T RELY ON RISK PREMIA TO DO THE WORK OF POLICY
-- 10/01 21:08 [financialjuice] BoE's Mann: Need clearly communicated reaction function.
-- 10/01 21:11 [financialjuice] BoE's Mann: BoE may not have clearly articulated its reaction function to Middle East shock in March, not publishing baseline forecast in April likely did not help either.
-- 10/01 21:11 [financialjuice/FirstSquawk] BoE's Mann: Policy, CPI expectations will shift without action.
-- 10/01 21:13 [financialjuice] Netanyahu on FlyDubai Attacks: Too early to say if he had connections with Iran.
-- 10/01 21:14 [FirstSquawk] NETANYAHU: TOO EARLY TO SAY IF HE HAD CONNECTIONS WITH IRAN
-- 10/01 21:16 [FirstSquawk] ISRAEL NETANYAHU: INDICATIONS THAT IRAN, PROXIES WANT TO ATTACK ISRAEL
-- 10/01 21:18 [financialjuice] Israel's Prime Minister Netanyahu: There are indications that Iran and proxies want to attack Israel
-- 10/01 21:18 [FirstSquawk] NETANYAHU: PILOT WHO ATTACKED THE OTHER PILOT WAS OMANI
-- 10/01 21:18 [financialjuice] Israel's Prime Minister Netanyahu: The pilot who attacked the other pilot was Omani
-- 10/01 21:24 [DeItaone] EUROPE HOLDS EMERGENCY TALKS ON DIESEL RESERVES European nations are holding emergency talks over releasing strategic fuel reserves after pressure from Washington to boost supply. The U.S. has already approved another 40 million barrels fro…
-- 10/01 21:26 [DeItaone] GERMAN ECONOMY MINISTRY ON DIESEL RESERVES: AT THIS TIME, NO NEW REQUIREMENTS FROM IEA
-- 10/01 21:26 [financialjuice] German economy ministry on diesel reserves: At this time, no new requirements from the IEA
-- 10/01 21:27 [DeItaone] GERMAN ECONOMY MINISTRY ON DIESEL RESERVES: WE DO NOT SPECULATE ABOUT POSSIBLE FUTURE EVENTS
-- 10/01 21:27 [financialjuice] German Economy Ministry on Diesel Reserves: Any measures must be based on careful joint assessment of situation within framework of international procedures established for that purpose.
-- 10/01 21:30 [FirstSquawk] US INITIAL JOBLESS CLAIMS ACTUAL: 197K VS 197K PREVIOUS; EST 200K
-- 10/01 21:30 [FirstSquawk] US CONTINUING JOBLESS CLAIMS ACTUAL: 1701K VS 1719K PREVIOUS; EST 1725K
-- 10/01 21:30 [DeItaone] US JOBLESS CLAIMS -1K TO 197K IN SEP-26 WK; SURVEY 200K US SEP-19 WEEK CONTINUING CLAIMS -11K TO 1,701,000 US SEP-19 WEEK JOBLESS CLAIMS REVISED TO 198K
-- 10/01 21:32 [financialjuice] German economy ministry on diesel reserves: Market must not be destabilized
-- 10/01 21:32 [financialjuice] US CONTINUED JOBLESS CLAIMS ACTUAL 1.701M (FORECAST 1.725M, PREVIOUS 1.719M) $MACRO
-- 10/01 21:32 [financialjuice] ❗ US INITIAL JOBLESS CLAIMS ACTUAL 197K (FORECAST 200K, PREVIOUS 197K) $MACRO
 - 10/01 21:35 [DeItaone] CHICAGO FED SEES SEPTEMBER UNEMPLOYMENT AT 4.1% The Chicago Fed estimates the U.S. unemployment rate at 4.10% in September, slightly below August’s 4.14%. The improvement reflects better hiring prospects for unemployed workers and slightly …
 - 10/01 21:40 [DeItaone] IRAN SAYS IT WILL CONTINUE SEEKING DIALOGUE WITH U.S. Iranian President Masoud Pezeshkian says Tehran will continue pursuing dialogue with Washington despite previous attacks during negotiations, according to Tasnim. His comments come as Qa…
 - 10/01 21:45 [DeItaone] TRUMP CONSIDERS PREEMPTIVE PARDONS President Trump says he would consider preemptively pardoning members of his administration before leaving office, potentially protecting them from future federal prosecution. Asked by Time whether he woul…
@@ -471,3 +449,12 @@
 - 10/02 08:51 [FirstSquawk] FED'S LOGAN SAYS HIGHER LONG-TERM YIELDS SIGNAL EXPECTATIONS OF HIGHER RATES BUT MAY ALSO REFLECT TERM PREMIUMS THAT REDUCE THE NEED FOR FED TIGHTENING, ADDING THAT SHE WILL MONITOR BOND YIELDS AND ASSESS THEIR POLICY IMPLICATIONS.
 - 10/02 08:51 [FirstSquawk] COPPER FELL 1.2% TO $14,243.50 A TON AS A STRONGER US DOLLAR AND OIL PRICES ABOVE $100 WEIGHED ON INDUSTRIAL METALS, WITH WEAKER CHINESE INDUSTRIAL EARNINGS ALSO PRESSURING SENTIMENT.
 - 10/02 08:51 [FirstSquawk] COPPER’S NEAR-TERM SUPPLY REMAINS TIGHT, WITH POTENTIAL CHILEAN STRIKE DISRUPTIONS AND UNCERTAINTY OVER A POSSIBLE PANAMA MINE RESTART, WHILE LME COPPER CONTINUES TO TRADE IN BACKWARDATION.
+- 10/02 09:07 [FirstSquawk] Asian Currencies Stabilize as Rising Oil Prices Cloud the Outlook - WSJ
+- 10/02 09:08 [FirstSquawk] ASX 200 Advances 0.4% to 8,646.10 in Early Trade
+- 10/02 09:10 [FirstSquawk] AUSTRALIA’S S&P/ASX 200 RISES 0.4% TO 8,646.10 POINTS IN EARLY TRADE
+- 10/02 09:13 [FirstSquawk] US TO DEPLOY A THIRD AIRCRAFT-CARRIER STRIKE GROUP AND UP TO 10,000 ADDITIONAL TROOPS TO THE MIDDLE EAST BY THE END OF NOVEMBER, FURTHER BOOSTING ITS MILITARY PRESENCE AROUND THE REGION.
+- 10/02 09:13 [FirstSquawk] PETROBRAS’ P-80 FPSO HAS LEFT SINGAPORE FOR BRAZIL’S BÚZIOS OILFIELD, WITH PRODUCTION EXPECTED TO START IN 2027. THE UNIT CAN PRODUCE 225,000 BARRELS OF OIL PER DAY AND PROCESS 12 MILLION CUBIC METERS OF GAS DAILY. THE P-80 WILL BECOME PETR…
+- 10/02 09:25 [FirstSquawk] FED OFFICIALS BARKIN, COLLINS AND SCHMID SAID A STABLE LABOR MARKET ALLOWS THE FED TO KEEP ITS FOCUS ON PERSISTENTLY HIGH INFLATION, WITH ALL THREE SUPPORTING THE SEPTEMBER RATE HIKE TO 3.75%-4%. THE OFFICIALS DECLINED TO SIGNAL FUTURE RATE…
+- 10/02 09:29 [FirstSquawk/financialjuice] SAUDI-LED COALITION: INTERCEPTS AND DESTROYS BALLISTIC MISSILE LAUNCHED BY YEMEN'S HOUTHIS TOWARD KHAMIS MUSHAIT
+- 10/02 09:29 [FirstSquawk] US TREASURY IMPOSED SANCTIONS ON RUSSIA’S A7 FINANCIAL NETWORK, ACCUSING IT OF USING SHELL COMPANIES, SUBAGENTS AND FALSIFIED TRADE RECORDS TO MOVE FUNDS FOR SANCTIONED ENTITIES LINKED TO IRAN AND THE IRGC. A7 CLAIMS TO HAVE PROCESSED $91.5…
+- 10/02 09:29 [FirstSquawk] Gold Climbs Back Above $4,150 as US Yields Pull Back Ahead of US Jobs Data - FX

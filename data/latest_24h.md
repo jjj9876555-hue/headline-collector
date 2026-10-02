@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-02 09:07 JST／対象: 10/01 09:07 〜 10/02 09:07 JST（時刻はすべて日本時間）
+生成: 2026-10-02 09:34 JST／対象: 10/01 09:34 〜 10/02 09:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 93 | 10/01 16:25 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 347 | 10/01 09:10 | 10/02 08:51 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 418 | 10/01 09:15 | 10/02 08:50 | ⚠ 79分（06:41→08:00） |
+| FirstSquawk | 344 | 10/01 09:39 | 10/02 09:29 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 413 | 10/01 10:00 | 10/02 09:29 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 820 行（統合前 864 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 812 行（統合前 856 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 09:10 [FirstSquawk] SAUDI ARABIA RAISED ITS PROJECTED 2026 BUDGET DEFICIT TO 4.9% OF GDP FROM 3.3%, WITH SPENDING EXPECTED AT ABOUT 1.4 TRILLION RIYALS AS DEFENSE, INFRASTRUCTURE AND ECONOMIC-DIVERSIFICATION OUTLAYS INCREASE. RIYADH ALSO CUT ITS 2026 REAL GDP …
-- 10/01 09:15 [financialjuice/FirstSquawk] ❗ U.S. official: Secretary Rubio kicked out the Iranian delegation who had over stayed their welcome. The UN general assembly was over, so it was time for them to go - Axios Reporter on X
-- 10/01 09:24 [FirstSquawk] 3. Asia-Pacific equities trade mixed at the open following a similar performance on Wall Street, with markets weighing fresh data and rising yields despite softer PCE inflation.
-- 10/01 09:25 [FirstSquawk] Asia-Pacific equities trade mixed at the open following a similar performance on Wall Street, with markets weighing fresh data and rising yields despite softer PCE inflation.
-- 10/01 09:25 [FirstSquawk] Nidec shares sink 18.5%
-- 10/01 09:28 [FirstSquawk] US State Department: Four Americans were aboard Flydubai flight bound for Israel
-- 10/01 09:28 [FirstSquawk] Axios: Rubio calls for Iranian UN delegation to exit US as negotiations hit deadlock
-- 10/01 09:29 [FirstSquawk] ZAMBIA SIGNED $2.14 BILLION IN MEMORANDA OF UNDERSTANDING WITH UAE PARTNERS TO SUPPORT COPPER EXPANSION, WITH PRESIDENT HAKAINDE HICHILEMA TARGETING 3 MILLION TONNES OF ANNUAL PRODUCTION BY 2031. THE LARGEST AGREEMENT IS A PROPOSED $2 BILLI…
-- 10/01 09:30 [financialjuice] JAPANESE MFG PMI ACTUAL 54.1 (FORECAST -, PREVIOUS 54.1) $MACRO
-- 10/01 09:30 [financialjuice] S. KOREAN MANUFACTURING PMI ACTUAL 53.9 (FORECAST -, PREVIOUS 52.3) $MACRO
-- 10/01 09:30 [financialjuice] Japan S&P Global final manufacturing PMI for September steady at 54.1 versus flash estimate
-- 10/01 09:30 [financialjuice] South Korea S&P Global September manufacturing PMI at 53.9 vs 52.3 in August
-- 10/01 09:30 [financialjuice] Taiwan s&p global September manufacturing PMI climbs to 56.7 from 54.7 in August
-- 10/01 09:31 [FirstSquawk] 2-year JGB yield declines 1.0bp to 1.940%
-- 10/01 09:32 [FirstSquawk] Japan S&P Global Manufacturing PMI confirmed at 54.1 in September, unchanged from initial reading
-- 10/01 09:33 [FirstSquawk] South Korea’s manufacturing PMI strengthens to 53.9 in September from 52.3
-- 10/01 09:34 [FirstSquawk] 20-year JGB yield gains 3.5bp to 3.935%
 - 10/01 09:39 [FirstSquawk] Nikkei advances 1.0% with chip stocks leading the rally
 - 10/01 09:39 [FirstSquawk] Yen trades in a narrow range ahead of BOJ Tankan, BOJ Summary of Opinions - WSJ
 - 10/01 09:44 [FirstSquawk] CME: Gold options volume unchanged in September as prices close 9% below August peak
@@ -844,3 +827,12 @@
 - 10/02 08:51 [FirstSquawk] FED'S LOGAN SAYS HIGHER LONG-TERM YIELDS SIGNAL EXPECTATIONS OF HIGHER RATES BUT MAY ALSO REFLECT TERM PREMIUMS THAT REDUCE THE NEED FOR FED TIGHTENING, ADDING THAT SHE WILL MONITOR BOND YIELDS AND ASSESS THEIR POLICY IMPLICATIONS.
 - 10/02 08:51 [FirstSquawk] COPPER FELL 1.2% TO $14,243.50 A TON AS A STRONGER US DOLLAR AND OIL PRICES ABOVE $100 WEIGHED ON INDUSTRIAL METALS, WITH WEAKER CHINESE INDUSTRIAL EARNINGS ALSO PRESSURING SENTIMENT.
 - 10/02 08:51 [FirstSquawk] COPPER’S NEAR-TERM SUPPLY REMAINS TIGHT, WITH POTENTIAL CHILEAN STRIKE DISRUPTIONS AND UNCERTAINTY OVER A POSSIBLE PANAMA MINE RESTART, WHILE LME COPPER CONTINUES TO TRADE IN BACKWARDATION.
+- 10/02 09:07 [FirstSquawk] Asian Currencies Stabilize as Rising Oil Prices Cloud the Outlook - WSJ
+- 10/02 09:08 [FirstSquawk] ASX 200 Advances 0.4% to 8,646.10 in Early Trade
+- 10/02 09:10 [FirstSquawk] AUSTRALIA’S S&P/ASX 200 RISES 0.4% TO 8,646.10 POINTS IN EARLY TRADE
+- 10/02 09:13 [FirstSquawk] US TO DEPLOY A THIRD AIRCRAFT-CARRIER STRIKE GROUP AND UP TO 10,000 ADDITIONAL TROOPS TO THE MIDDLE EAST BY THE END OF NOVEMBER, FURTHER BOOSTING ITS MILITARY PRESENCE AROUND THE REGION.
+- 10/02 09:13 [FirstSquawk] PETROBRAS’ P-80 FPSO HAS LEFT SINGAPORE FOR BRAZIL’S BÚZIOS OILFIELD, WITH PRODUCTION EXPECTED TO START IN 2027. THE UNIT CAN PRODUCE 225,000 BARRELS OF OIL PER DAY AND PROCESS 12 MILLION CUBIC METERS OF GAS DAILY. THE P-80 WILL BECOME PETR…
+- 10/02 09:25 [FirstSquawk] FED OFFICIALS BARKIN, COLLINS AND SCHMID SAID A STABLE LABOR MARKET ALLOWS THE FED TO KEEP ITS FOCUS ON PERSISTENTLY HIGH INFLATION, WITH ALL THREE SUPPORTING THE SEPTEMBER RATE HIKE TO 3.75%-4%. THE OFFICIALS DECLINED TO SIGNAL FUTURE RATE…
+- 10/02 09:29 [FirstSquawk/financialjuice] SAUDI-LED COALITION: INTERCEPTS AND DESTROYS BALLISTIC MISSILE LAUNCHED BY YEMEN'S HOUTHIS TOWARD KHAMIS MUSHAIT
+- 10/02 09:29 [FirstSquawk] US TREASURY IMPOSED SANCTIONS ON RUSSIA’S A7 FINANCIAL NETWORK, ACCUSING IT OF USING SHELL COMPANIES, SUBAGENTS AND FALSIFIED TRADE RECORDS TO MOVE FUNDS FOR SANCTIONED ENTITIES LINKED TO IRAN AND THE IRGC. A7 CLAIMS TO HAVE PROCESSED $91.5…
+- 10/02 09:29 [FirstSquawk] Gold Climbs Back Above $4,150 as US Yields Pull Back Ahead of US Jobs Data - FX
