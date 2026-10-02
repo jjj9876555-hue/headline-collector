@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-02 21:52 JST／対象: 10/02 09:52 〜 10/02 21:52 JST（時刻はすべて日本時間）
+生成: 2026-10-02 22:07 JST／対象: 10/02 10:07 〜 10/02 22:07 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 43 | 10/02 17:55 | 10/02 21:39 | 23分（19:35→19:59） |
-| FirstSquawk | 128 | 10/02 10:16 | 10/02 21:45 | 44分（20:46→21:31） |
-| financialjuice | 114 | 10/02 09:55 | 10/02 21:39 | ⚠ 49分（18:00→18:49） |
+| DeItaone | 46 | 10/02 17:55 | 10/02 22:06 | 23分（19:35→19:59） |
+| FirstSquawk | 131 | 10/02 10:16 | 10/02 22:03 | 44分（20:46→21:31） |
+| financialjuice | 115 | 10/02 10:37 | 10/02 22:02 | ⚠ 49分（18:00→18:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 279 行（統合前 285 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 286 行（統合前 292 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 09:55 [financialjuice] Ukrainian drones hit industrial sites in Russia's Volgograd: governor
-- 10/02 10:00 [financialjuice] Taiwan overnight interbank rate starts at 0.805% (unchanged from previous session)
 - 10/02 10:16 [FirstSquawk] Gold Slips 1% to $4,138.04 per Ounce
 - 10/02 10:17 [FirstSquawk] Taiwan Overnight Interbank Rate Starts at 0.805%, Flat on Previous Open
 - 10/02 10:18 [FirstSquawk] Ukrainian Drones Target Industrial Facilities in Volgograd, Russian Governor Says
@@ -303,3 +301,12 @@
 - 10/02 21:40 [FirstSquawk] TRUMP ON TRUTH SOCIAL: I AM THRILLED TO ANNOUNCE THE REPUBLIC OF KOREA DEAL KEEPS GETTING BETTER! 8.4 BILLION DOLLARS FOR AN ENHANCED OIL RECOVERY PROJECT. PRODUCING MORE OIL AND GAS MEANS AMERICAN ENERGY DOMINANCE AND ENERGY SECURITY IN TH…
 - 10/02 21:45 [FirstSquawk] G7 WILL HAVE URGENT MEETINGS ON FRIDAY TO DISCUSS POSSIBLE RELEASE OF DIESEL RESERVES.
 - 10/02 21:45 [FirstSquawk] TRUMP ANNOUNCED AN IMPROVED DEAL WITH SOUTH KOREA WORTH $8.4 BILLION FOR AN OIL RECOVERY PROJECT, PROMISING INCREASED OIL AND GAS PRODUCTION, WHICH WILL STRENGTHEN AMERICAN ENERGY DOMINANCE AND SECURITY FOR THE FUTURE! - PRESIDENT DONALD J.…
+- 10/02 21:54 [DeItaone] *TRUMP, MACRON SPOKE LAST NIGHT TO DISCUSS ENERGY SITUATION: NBC
+- 10/02 21:56 [financialjuice] Israel's Prime Minister Netanyahu: We are investigating whether the pilot was sent, and whoever sent him will pay a very heavy price - i24 News Reporter.
+- 10/02 22:00 [FirstSquawk] EU AMBASSADORS WILL GATHER TODAY TO TALK ABOUT THE DIESEL MARKET.
+- 10/02 22:00 [financialjuice] Effective Fed Funds Rate 3.88% October 1 vs 3.88% September 30.
+- 10/02 22:02 [financialjuice] Tesla Q3 Deliveries Beat Estimates, Energy Storage Deployments Reach 13.7 GWh $TSLA Tesla Q3 total deliveries 486,532 units, above estimate of 456,896 units Tesla Q3 Model 3/Y production 457,387 units, deliveries 478,237 units Tesla Q3 othe…
+- 10/02 22:03 [DeItaone] $TSLA - *TESLA 3Q DELIVERIES 486,532, EST. 463,761 *TESLA 3Q OTHER MODELS DELIVERIES 7,004, EST. 9,759 *TESLA 3Q MODEL 3/Y PRODUCTION 457,387, EST. 481,279 *TESLA 3Q OTHER MODELS PRODUCTION 7,004, EST. 5,944 (2 EST.)
+- 10/02 22:03 [FirstSquawk] TESLA REPORTED 486,532 DELIVERIES FOR Q3, EXCEEDING ESTIMATES OF 463,761. MODEL 3/Y DELIVERIES HIT 478,237, BEATING EXPECTED 462,078. OTHER MODELS DELIVERED 7,004, FALLING SHORT OF 9,759 ANTICIPATED. TOTAL PRODUCTION REACHED 464,391 VEHICLE…
+- 10/02 22:03 [FirstSquawk] ORACLE WILL TAKE ON ABOUT $300 MILLION IN POINT BEACH ENERGY EXPENSES TO COMPLETELY FINANCE PROJECT LIGHTHOUSE ENERGY COSTS.
+- 10/02 22:06 [DeItaone] *EU AMBASSADORS TO MEET THIS AFTERNOON TO DISCUSS DIESEL MARKET
