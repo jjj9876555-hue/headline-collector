@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-03 07:45 JST／対象: 10/03 01:45 〜 10/03 07:45 JST（時刻はすべて日本時間）
+生成: 2026-10-03 07:59 JST／対象: 10/03 01:59 〜 10/03 07:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 10/03 02:33 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
-| FirstSquawk | 30 | 10/03 01:48 | 10/03 05:02 | 34分（02:50→03:25） |
-| financialjuice | 63 | 10/03 01:46 | 10/03 07:43 | ⚠ 71分（05:20→06:32） |
+| FirstSquawk | 27 | 10/03 01:59 | 10/03 05:02 | 34分（02:50→03:25） |
+| financialjuice | 58 | 10/03 02:01 | 10/03 07:43 | ⚠ 71分（05:20→06:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 94 行（統合前 98 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 86 行（統合前 90 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/03 01:46 [financialjuice] Italy to ask EU for deficit leeway worth 0.6% of GDP in 2027
-- 10/03 01:47 [financialjuice] Italy raises 2026 GDP growth forecast to 0.8% from 0.6% forecast made in April
-- 10/03 01:48 [financialjuice] Italy sees 2026 deficit below 3% of GDP in 2026
-- 10/03 01:48 [FirstSquawk] BREXIT DEAL INCHES CLOSER AS EU GIVES GROUND TO UK ON FOOD AND DRINK – IPAPER
-- 10/03 01:52 [financialjuice] Italy raises 2026 GDP growth forecast to 1% from 0.6% forecast made in April
-- 10/03 01:55 [financialjuice] US Senators expect a vote before December 13th on Trump Administration's pact to share nuclear power technology with Saudi Arabia
-- 10/03 01:56 [FirstSquawk] US SENATORS EXPECT A VOTE BEFORE DECEMBER 13 ON TRUMP ADMINISTRATION'S PACT TO SHARE NUCLEAR POWER TECHNOLOGY WITH SAUDI ARABIA
-- 10/03 01:56 [FirstSquawk] ITALY ECONOMY MINISTER CALLS CLARITY ON RUMOURS ABOUT EARLY RESIGNATION OF ECB'S LAGARDE
 - 10/03 01:59 [FirstSquawk] RAW SUGAR FUTURES HIT 18-MONTH HIGH
 - 10/03 02:01 [financialjuice] US BAKER HUGHES OIL RIG COUNT ACTUAL 456 (FORECAST -, PREVIOUS 455) $MACRO
 - 10/03 02:01 [financialjuice] US BAKER HUGHES TOTAL RIG COUNT ACTUAL 598 (FORECAST -, PREVIOUS 599) $MACRO
