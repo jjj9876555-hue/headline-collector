@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-03 01:22 JST／対象: 10/02 01:22 〜 10/03 01:22 JST（時刻はすべて日本時間）
+生成: 2026-10-03 01:41 JST／対象: 10/02 01:41 〜 10/03 01:41 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 98 | 10/02 01:29 | 10/03 00:28 | ⚠ 755分（05:19→17:55） |
-| FirstSquawk | 292 | 10/02 01:24 | 10/03 01:20 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 327 | 10/02 01:27 | 10/03 01:07 | ⚠ 79分（06:41→08:00） |
+| DeItaone | 93 | 10/02 01:47 | 10/03 00:28 | ⚠ 755分（05:19→17:55） |
+| FirstSquawk | 285 | 10/02 01:52 | 10/03 01:20 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 319 | 10/02 01:44 | 10/03 01:07 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 685 行（統合前 720 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 669 行（統合前 700 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 01:24 [FirstSquawk] VENEZUELA'S EXPORTS TO US INCREASED TO 629K BPD IN SEPTEMBER
-- 10/02 01:27 [financialjuice] Putin: Ukraine partially achieved its aims in hitting Russian oil refineries, Russia responded in kind.
-- 10/02 01:29 [FirstSquawk/financialjuice] PUTIN: RUSSIA HAS ENOUGH DIESEL DESPITE STRIKES
-- 10/02 01:29 [DeItaone/FirstSquawk/financialjuice] PUTIN: RUSSIAN DIESEL WILL NOT GET TO GLOBAL MARKETS AS THERE ARE SANCTIONS AGAINST RUSSIAN OIL
-- 10/02 01:32 [DeItaone] PUTIN: SAYS "NO" TO PROPOSALS TO HALT STRIKES IN BLACK SEA
-- 10/02 01:32 [financialjuice] Google launches Guided Vision in Gemini Live for Android. $GOOGL
-- 10/02 01:33 [financialjuice] Putin to proposals to halt strikes in Black Sea: No.
-- 10/02 01:34 [DeItaone/financialjuice] PUTIN: RUSSIA'S PROPOSALS TO DELIVER ENRICHED URANIUM FROM IRAN TO RUSSIA ARE STILL VALID
-- 10/02 01:34 [financialjuice] ❗ UK Counter terrorism policing: Arrested a dual UK-Iranian national today in the investigation into activity that took place close to fairford air base on Sunday.
-- 10/02 01:35 [FirstSquawk] PUTIN: I HOPE THAT STRAIT OF HORMUZ WILL BE OPEN FOR SHIPPING, SANCTIONS FROM IRAN WILL BE LIFTED
-- 10/02 01:36 [DeItaone] US ISSUES NEW IRAN-RELATED SANCTIONS -US TREASURY WEBSITE US TARGETS IRAN'S RAIL AND AUTOMOBILE CONGLOMERATES IN LATEST SANCTIONS THAT AIM TO ISOLATE TEHRAN ECONOMICALLY, TREASURY DEPARTMENT SAYS
-- 10/02 01:36 [FirstSquawk] US TARGETS IRAN'S RAIL AND AUTOMOBILE CONGLOMERATES IN LATEST SANCTIONS THAT AIM TO ISOLATE TEHRAN ECONOMICALLY, TREASURY DEPARTMENT SAYS
-- 10/02 01:39 [FirstSquawk] TRUMP, ASKED IF BUILDING BASE IN LATAM, SAYS LOOKING INTO IT
-- 10/02 01:40 [financialjuice] Trump: Interest rates will hurt our growth.
-- 10/02 01:41 [FirstSquawk] TRUMP ON WARSH: I WANT HIM TO VOTE THE WAY HE WANTS
-- 10/02 01:41 [DeItaone] https://t.co/LDy0rtNnVh
 - 10/02 01:44 [financialjuice] Iran's UN Mission: US and Western allies lack credibility to lecture Iran on non-proliferation or international law while shielding Israel from accountability and staying silent on its nuclear arsenal - Post on X
 - 10/02 01:47 [DeItaone] BOFA STOCK SENTIMENT NEARS “SELL” SIGNAL Bank of America’s Sell Side Indicator rose to 57.2% in September, its highest since March 2022 and just 0.3 percentage points below BofA’s “sell” threshold. The contrarian indicator tracks Wall Stree…
 - 10/02 01:51 [DeItaone] TRUMP: INTEREST RATES CAN SLOW DOWN GROWTH. WE WANT GROWTH — AND GROWTH DOES NOT CAUSE INFLATION
