@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-02 09:57 JST／対象: 10/02 03:57 〜 10/02 09:57 JST（時刻はすべて日本時間）
+生成: 2026-10-02 10:18 JST／対象: 10/02 04:18 〜 10/02 10:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 10/02 05:19 | 10/02 05:19 | - |
-| FirstSquawk | 64 | 10/02 03:57 | 10/02 09:49 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 87 | 10/02 04:00 | 10/02 09:55 | ⚠ 79分（06:41→08:00） |
+| FirstSquawk | 62 | 10/02 04:38 | 10/02 10:17 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 78 | 10/02 04:18 | 10/02 10:00 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 139 行（統合前 152 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 130 行（統合前 141 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 03:57 [FirstSquawk] THE TURKISH CENTRAL BANK SAYS IT HAS RAISED THE SME LOAN GROWTH LIMIT TO 5% FROM 4.5% AND LOWERED THE RATIOS FOR MAINTAINING TRY REQUIRED RESERVES IN BLOCKED ACCOUNTS.
-- 10/02 03:58 [FirstSquawk] THE TURKISH CENTRAL BANK SAYS IT HAS CUT THE BLOCKED RESERVE RATIO TO 35% FROM 40% FOR BANKS WITH ASSETS ABOVE 500 BLN LIRA, AND TO 15% FROM 30% FOR BANKS WITH ASSETS OF 100-500 BLN LIRA.
-- 10/02 04:00 [financialjuice/FirstSquawk] Fed's Bowman touts the benefits of the Fed capital plan tied to Treasuries.
-- 10/02 04:05 [financialjuice/FirstSquawk] Saudi-led Coalition intercepted and destroyed four drones launched by Yemen's Houthis toward Khamis Mushait - Statement.
-- 10/02 04:05 [financialjuice] BoC's Senior Dep. Gov. Rogers offers no comment on near-term interest rate path.
-- 10/02 04:06 [financialjuice] BoC's Senior Dep. Gov. Rogers: Targeting home prices with rates risks economic costs.
-- 10/02 04:06 [financialjuice] BoC's Senior Dep. Gov. Rogers: Restoring the affordability of housing will require a broad, sustained effort and a policy mix.
-- 10/02 04:06 [financialjuice] BoC's Senior Dep. Gov. Rogers: More supply, better planning and infrastructure and the right incentives are needed.
-- 10/02 04:07 [financialjuice] BoC's Senior Dep. Gov. Rogers: Canada is on the right track to boosting housing affordability, but has a way to go and needs more time.
-- 10/02 04:07 [financialjuice] BoC's Senior Dep. Gov. Rogers: Targeting house prices directly with interest rates is not the answer and would risk imposing costs across the economy.
-- 10/02 04:07 [financialjuice] BoC's Senior Dep. Gov. Rogers: Taking mortgage costs out of CPI would remove a real cost that many households are paying.
-- 10/02 04:07 [financialjuice] BoC's Senior Dep. Gov. Rogers: Falling house prices can cut household wealth, weaken spending, and slow sales and construction.
 - 10/02 04:18 [financialjuice] USTR Greer: The US is on track for record goods trade exports this year.
 - 10/02 04:18 [financialjuice] LIVE: Trade Representative Jamieson Greer holds a G20 press conference
 - 10/02 04:19 [financialjuice] USTR Greer: Trump's trade program is trending in the right direction.
@@ -163,3 +151,6 @@
 - 10/02 09:49 [FirstSquawk] BOND MARKETS REMAINED IN FOCUS AFTER TREASURIES REBOUNDED FROM A GLOBAL SELLOFF, WITH THE 10-YEAR U.S. YIELD CLOSING AT 5.24% — DOWN FROM A 24-YEAR HIGH — AND TWO-YEAR YIELDS FALLING 10 BASIS POINTS TO 4.79%, SUPPORTED BY DOVISH COMMENTS FR…
 - 10/02 09:49 [FirstSquawk] MARKETS ARE NOW BALANCING HIGHER ENERGY PRICES AGAINST EXPECTATIONS FOR A MORE MEASURED FED TIGHTENING PATH, WITH THE YEN STRENGTHENING TO AROUND 157.90 PER DOLLAR AFTER TOKYO INFLATION ACCELERATED AND JAPAN'S 10-YEAR YIELD FALLING TO 3.05%…
 - 10/02 09:55 [financialjuice] Ukrainian drones hit industrial sites in Russia's Volgograd: governor
+- 10/02 10:00 [financialjuice] Taiwan overnight interbank rate starts at 0.805% (unchanged from previous session)
+- 10/02 10:16 [FirstSquawk] Gold Slips 1% to $4,138.04 per Ounce
+- 10/02 10:17 [FirstSquawk] Taiwan Overnight Interbank Rate Starts at 0.805%, Flat on Previous Open

@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-02 09:57 JST／対象: 10/01 21:57 〜 10/02 09:57 JST（時刻はすべて日本時間）
+生成: 2026-10-02 10:18 JST／対象: 10/01 22:18 〜 10/02 10:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 54 | 10/01 22:07 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 170 | 10/01 22:08 | 10/02 09:49 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 245 | 10/01 22:00 | 10/02 09:55 | ⚠ 79分（06:41→08:00） |
+| DeItaone | 53 | 10/01 22:47 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
+| FirstSquawk | 168 | 10/01 22:19 | 10/02 10:17 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 239 | 10/01 22:22 | 10/02 10:00 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 438 行（統合前 475 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 430 行（統合前 466 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 22:00 [financialjuice] Effective Fed Funds Rate 3.88% September 30 vs 3.88% September 29.
-- 10/01 22:05 [financialjuice] Fed's Collins: Economic growth is near trend, if not more than that; labor market near full employment, but inflation is too high
-- 10/01 22:07 [financialjuice] Fed's Schmid: Officials have work to do on inflation.
-- 10/01 22:07 [DeItaone/FirstSquawk] FED'S COLLINS: WON'T GET AHEAD OF THE NEXT MEETING
-- 10/01 22:07 [financialjuice] Fed's Collins: We won't get ahead of the next meeting
-- 10/01 22:08 [FirstSquawk] FED'S SCHMID SAYS OFFICIALS HAVE WORK TO DO ON INFLATION
-- 10/01 22:08 [financialjuice] Fed's Collins: Economic growth near trend or above.
-- 10/01 22:08 [FirstSquawk] SPACEX’S AI UNIT HELD TALKS OVER SUMMER TO LEASE COMPUTE TO MICROSOFT - INFORMATION
-- 10/01 22:13 [financialjuice] Fed's Schmid: Energy prices are one of the biggest challenges for monetary policy today.
-- 10/01 22:13 [financialjuice] Fed's Schmid: I am trying to see in the data how much inflation is due to demand and how much is driven by supply shocks.
-- 10/01 22:15 [FirstSquawk] FED SCHMID: TRYING TO FIGURE OUT WHAT SHARE OF INFL DEMAND DRIVEN
 - 10/01 22:19 [FirstSquawk] SAMSUNG RAISES PRICES OF MOST GALAXY S26 PHONES BY $100
 - 10/01 22:19 [FirstSquawk] AOMORI MICHINOKU BANK, BANK OF IWATE AND AKITA BANK HAVE COMBINED ASSETS OF AROUND 13 TRILLION YEN - NIKKEI
 - 10/01 22:22 [FirstSquawk] BRAZIL'S PETROBRAS INCREASES JET FUEL COSTS BY APPROXIMATELY 11.8% AT KEY REFINERIES EFFECTIVE OCTOBER 1.
@@ -462,3 +451,6 @@
 - 10/02 09:49 [FirstSquawk] BOND MARKETS REMAINED IN FOCUS AFTER TREASURIES REBOUNDED FROM A GLOBAL SELLOFF, WITH THE 10-YEAR U.S. YIELD CLOSING AT 5.24% — DOWN FROM A 24-YEAR HIGH — AND TWO-YEAR YIELDS FALLING 10 BASIS POINTS TO 4.79%, SUPPORTED BY DOVISH COMMENTS FR…
 - 10/02 09:49 [FirstSquawk] MARKETS ARE NOW BALANCING HIGHER ENERGY PRICES AGAINST EXPECTATIONS FOR A MORE MEASURED FED TIGHTENING PATH, WITH THE YEN STRENGTHENING TO AROUND 157.90 PER DOLLAR AFTER TOKYO INFLATION ACCELERATED AND JAPAN'S 10-YEAR YIELD FALLING TO 3.05%…
 - 10/02 09:55 [financialjuice] Ukrainian drones hit industrial sites in Russia's Volgograd: governor
+- 10/02 10:00 [financialjuice] Taiwan overnight interbank rate starts at 0.805% (unchanged from previous session)
+- 10/02 10:16 [FirstSquawk] Gold Slips 1% to $4,138.04 per Ounce
+- 10/02 10:17 [FirstSquawk] Taiwan Overnight Interbank Rate Starts at 0.805%, Flat on Previous Open

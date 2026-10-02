@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-02 09:57 JST／対象: 10/01 09:57 〜 10/02 09:57 JST（時刻はすべて日本時間）
+生成: 2026-10-02 10:18 JST／対象: 10/01 10:18 〜 10/02 10:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 93 | 10/01 16:25 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 344 | 10/01 09:58 | 10/02 09:49 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 415 | 10/01 10:00 | 10/02 09:55 | ⚠ 79分（06:41→08:00） |
+| FirstSquawk | 336 | 10/01 10:20 | 10/02 10:17 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 412 | 10/01 10:30 | 10/02 10:00 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 814 行（統合前 858 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 803 行（統合前 847 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 09:58 [FirstSquawk] Petronas shuts Songkhla export pipeline temporarily over issue detected during routine inspection
-- 10/01 09:58 [FirstSquawk] Petronas: Pipeline restart contingent on confirmation it is safe to operate
-- 10/01 09:59 [FirstSquawk] Petronas: Trans Thai-Malaysia JV initiates temporary shutdown of Songkhla export pipeline
-- 10/01 10:00 [financialjuice] Taiwan overnight interbank rate starts at 0.805% vs 0.805% at previous session open
-- 10/01 10:01 [FirstSquawk] Taiwan overnight interbank rate opens flat at 0.805% vs 0.805% previously
-- 10/01 10:03 [FirstSquawk] Paramount Skydance announces $41.4B, €885M notes offerings and $8.5B, €850M Term Loan B pricing
-- 10/01 10:09 [FirstSquawk] Xiaomi’s EV deliveries top 40,000 units in September
-- 10/01 10:12 [FirstSquawk] South Korea’s exports surge to record $120.9 billion in September on robust semiconductor sales
-- 10/01 10:13 [financialjuice] Israel's PM Netanyahu: it's too soon to comment on motivation
-- 10/01 10:14 [financialjuice] Israel's PM Netanyahu: Israel to take part in investigation
-- 10/01 10:15 [financialjuice] Israel's PM Netanyahu: 'we don't know yet' on possible Iranian role in incident - Fox interview
-- 10/01 10:15 [FirstSquawk] Netanyahu says motive remains unclear after Dubai-Tel Aviv flight incident
-- 10/01 10:15 [FirstSquawk] Netanyahu says Israel will take part in investigation into Dubai-Tel Aviv flight incident
-- 10/01 10:16 [FirstSquawk] Netanyahu says Israel does not yet know whether Iran was involved in incident - FOX INTERVIEW
 - 10/01 10:20 [FirstSquawk] Axios: US official says order to leave New York included Iraqi national
 - 10/01 10:26 [FirstSquawk] Japan increases residency-related fees for foreign nationals
 - 10/01 10:30 [financialjuice] ❗ AUSTRALIAN TRADE BALANCE ACTUAL 495M (FORECAST 2000M, PREVIOUS 1,923M) $MACRO
@@ -838,3 +824,6 @@
 - 10/02 09:49 [FirstSquawk] BOND MARKETS REMAINED IN FOCUS AFTER TREASURIES REBOUNDED FROM A GLOBAL SELLOFF, WITH THE 10-YEAR U.S. YIELD CLOSING AT 5.24% — DOWN FROM A 24-YEAR HIGH — AND TWO-YEAR YIELDS FALLING 10 BASIS POINTS TO 4.79%, SUPPORTED BY DOVISH COMMENTS FR…
 - 10/02 09:49 [FirstSquawk] MARKETS ARE NOW BALANCING HIGHER ENERGY PRICES AGAINST EXPECTATIONS FOR A MORE MEASURED FED TIGHTENING PATH, WITH THE YEN STRENGTHENING TO AROUND 157.90 PER DOLLAR AFTER TOKYO INFLATION ACCELERATED AND JAPAN'S 10-YEAR YIELD FALLING TO 3.05%…
 - 10/02 09:55 [financialjuice] Ukrainian drones hit industrial sites in Russia's Volgograd: governor
+- 10/02 10:00 [financialjuice] Taiwan overnight interbank rate starts at 0.805% (unchanged from previous session)
+- 10/02 10:16 [FirstSquawk] Gold Slips 1% to $4,138.04 per Ounce
+- 10/02 10:17 [FirstSquawk] Taiwan Overnight Interbank Rate Starts at 0.805%, Flat on Previous Open
