@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-03 07:05 JST／対象: 10/02 19:05 〜 10/03 07:05 JST（時刻はすべて日本時間）
+生成: 2026-10-03 07:25 JST／対象: 10/02 19:25 〜 10/03 07:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 50 | 10/02 19:20 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
-| FirstSquawk | 110 | 10/02 19:09 | 10/03 05:02 | 44分（20:46→21:31） |
-| financialjuice | 156 | 10/02 19:16 | 10/03 07:04 | ⚠ 71分（05:20→06:32） |
+| DeItaone | 45 | 10/02 19:26 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
+| FirstSquawk | 108 | 10/02 19:31 | 10/03 05:02 | 44分（20:46→21:31） |
+| financialjuice | 154 | 10/02 19:25 | 10/03 07:23 | ⚠ 71分（05:20→06:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 302 行（統合前 318 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 295 行（統合前 309 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 19:09 [FirstSquawk] UKRAINE'S PM KORETSKYI ANNOUNCED A RECEIPT OF €2.9 BILLION FROM THE EU.
-- 10/02 19:12 [FirstSquawk] FRANCE'S BOND RISK PREMIUM INCREASES TO 150 BPS, A FIRST SINCE 2012.
-- 10/02 19:16 [financialjuice] UK diesel average prices rise above £2/litre for the first time - RAC
-- 10/02 19:20 [DeItaone] GERMAN GOVERNMENT SPOKESPERSON: WE CONTINUE TO SEE U.S. AS RELIABLE SUPPLIER OF FUEL
-- 10/02 19:21 [DeItaone/financialjuice] EU SPOKESPERSON: WE FULLY REJECT ANY BAN ON DIESEL
-- 10/02 19:22 [DeItaone] FRENCH-GERMAN 10-YEAR GOVERNMENT BOND-YIELD SPREAD HITS 151.95, WIDEST SINCE NOV. 2011: LSEG DATA
-- 10/02 19:22 [financialjuice] German Government Spokesperson: We continue to see the US as a reliable supplier of fuel
-- 10/02 19:22 [DeItaone/financialjuice] EU SPOKESPERSON: A BAN WOULD NOT BE BENEFICIAL TO ANYONE. IT WOULD UNDERMINE OUR TRUST IN THE UNITED STATES AS A RELIABLE PARTNER
-- 10/02 19:24 [DeItaone] FRANCE FLOATS 100 MILLION-BARREL ENERGY RESERVE RELEASE France has proposed that EU countries release 50 million barrels of crude and 50 million barrels of diesel as Europe responds to U.S. pressure to boost fuel supplies. The proposal rema…
 - 10/02 19:25 [financialjuice] EU Spokesperson: Any release is something that is organized by the International Energy Agency
 - 10/02 19:26 [financialjuice] EU Spokesperson: Next oil coordination group on the 15th of October, if the situation requires, we are ready to convene one earlier
 - 10/02 19:26 [DeItaone] *GERMANY SAYS WATCHING DIESEL SUPPLY SITUATION CLOSELY
@@ -326,3 +317,5 @@
 - 10/03 07:01 [financialjuice] North Korean missile seems to have landed beyond Japan's EEZ: NHK
 - 10/03 07:03 [financialjuice] IMF: executive board endorses 36-month extended fund facility for Bolivia
 - 10/03 07:04 [financialjuice] IMF: board greenlit 36-month deal under the EFF for Bolivia, with access to SDR 1.369 billion, or 570% of quota, about $1.9 billion
+- 10/03 07:10 [financialjuice] Saudi civil defense: shrapnel from intercepted ballistic missile in Ahad Rafidah governorate in Asir injures one person - state news agency
+- 10/03 07:23 [financialjuice] OpenAI's Altman: Cerebras is a close partner with deep engagement after partnership speculation
