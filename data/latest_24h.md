@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-02 09:34 JST／対象: 10/01 09:34 〜 10/02 09:34 JST（時刻はすべて日本時間）
+生成: 2026-10-02 09:57 JST／対象: 10/01 09:57 〜 10/02 09:57 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 93 | 10/01 16:25 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 344 | 10/01 09:39 | 10/02 09:29 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 413 | 10/01 10:00 | 10/02 09:29 | ⚠ 79分（06:41→08:00） |
+| FirstSquawk | 344 | 10/01 09:58 | 10/02 09:49 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 415 | 10/01 10:00 | 10/02 09:55 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 812 行（統合前 856 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 814 行（統合前 858 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 09:39 [FirstSquawk] Nikkei advances 1.0% with chip stocks leading the rally
-- 10/01 09:39 [FirstSquawk] Yen trades in a narrow range ahead of BOJ Tankan, BOJ Summary of Opinions - WSJ
-- 10/01 09:44 [FirstSquawk] CME: Gold options volume unchanged in September as prices close 9% below August peak
-- 10/01 09:50 [FirstSquawk] OpenAI president pulls back on pledged $25 million donation to AI super PAC, WSJ says
-- 10/01 09:51 [FirstSquawk] 5-year JGB yield gains 0.5bp to 2.380%
-- 10/01 09:53 [FirstSquawk] Australia’s ASX 200 slides 1.3% to 8,679.40 points
-- 10/01 09:55 [FirstSquawk] CK Solution lands KRW 23 billion order
 - 10/01 09:58 [FirstSquawk] Petronas shuts Songkhla export pipeline temporarily over issue detected during routine inspection
 - 10/01 09:58 [FirstSquawk] Petronas: Pipeline restart contingent on confirmation it is safe to operate
 - 10/01 09:59 [FirstSquawk] Petronas: Trans Thai-Malaysia JV initiates temporary shutdown of Songkhla export pipeline
@@ -836,3 +829,12 @@
 - 10/02 09:29 [FirstSquawk/financialjuice] SAUDI-LED COALITION: INTERCEPTS AND DESTROYS BALLISTIC MISSILE LAUNCHED BY YEMEN'S HOUTHIS TOWARD KHAMIS MUSHAIT
 - 10/02 09:29 [FirstSquawk] US TREASURY IMPOSED SANCTIONS ON RUSSIA’S A7 FINANCIAL NETWORK, ACCUSING IT OF USING SHELL COMPANIES, SUBAGENTS AND FALSIFIED TRADE RECORDS TO MOVE FUNDS FOR SANCTIONED ENTITIES LINKED TO IRAN AND THE IRGC. A7 CLAIMS TO HAVE PROCESSED $91.5…
 - 10/02 09:29 [FirstSquawk] Gold Climbs Back Above $4,150 as US Yields Pull Back Ahead of US Jobs Data - FX
+- 10/02 09:36 [FirstSquawk] DISNEY PLANS TO CUT HUNDREDS OF TELEVISION JOBS AS PART OF A RESTRUCTURING THAT WILL CONSOLIDATE OPERATIONS ACROSS ABC, ESPN AND FX. THE MOVES EXTEND CEO JOSH D’AMARO’S COST-CUTTING EFFORTS, WITH ABOUT 1,000 COMPANYWIDE JOBS ALREADY ELIMINA…
+- 10/02 09:42 [FirstSquawk] Japan 5-Year JGB Yield Slides 3 Bps to 2.350%
+- 10/02 09:44 [FirstSquawk] ANTHROPIC IS SET TO MEET POTENTIAL INSTITUTIONAL INVESTORS ON OCTOBER 14 AHEAD OF A POSSIBLE IPO, WITH FORMAL MARKETING POTENTIALLY STARTING AS EARLY AS THE WEEK OF NOVEMBER 9. INVESTORS ARE ESTIMATING A POTENTIAL $1.8 TRILLION-$2 TRILLION …
+- 10/02 09:47 [FirstSquawk] GOLD ROSE 0.5% TO $4,178.10 AN OUNCE AS US TREASURY YIELDS RETREATED FROM 2002-LEVEL HIGHS, WHILE HAVEN DEMAND INCREASED AMID CONCERNS OVER FRANCE’S FISCAL OUTLOOK. LOWER YIELDS AND COMMENTS FROM FED VICE CHAIR PHILIP JEFFERSON REDUCED EXPE…
+- 10/02 09:48 [financialjuice] South Korea finance minister: will closely watch markets, take pre-emptive measures if needed
+- 10/02 09:49 [FirstSquawk] ASIAN STOCKS FELL AS RENEWED U.S.-IRAN TENSIONS PUSHED OIL HIGHER AND REVIVED INFLATION CONCERNS, WITH MSCI'S ASIA-PACIFIC EQUITY GAUGE SLIPPING 0.4% AND JAPAN'S TOPIX DOWN 0.9%, AS BRENT CRUDE ROSE 0.2% AFTER A 4% JUMP THURSDAY LIFTED PRIC…
+- 10/02 09:49 [FirstSquawk] BOND MARKETS REMAINED IN FOCUS AFTER TREASURIES REBOUNDED FROM A GLOBAL SELLOFF, WITH THE 10-YEAR U.S. YIELD CLOSING AT 5.24% — DOWN FROM A 24-YEAR HIGH — AND TWO-YEAR YIELDS FALLING 10 BASIS POINTS TO 4.79%, SUPPORTED BY DOVISH COMMENTS FR…
+- 10/02 09:49 [FirstSquawk] MARKETS ARE NOW BALANCING HIGHER ENERGY PRICES AGAINST EXPECTATIONS FOR A MORE MEASURED FED TIGHTENING PATH, WITH THE YEN STRENGTHENING TO AROUND 157.90 PER DOLLAR AFTER TOKYO INFLATION ACCELERATED AND JAPAN'S 10-YEAR YIELD FALLING TO 3.05%…
+- 10/02 09:55 [financialjuice] Ukrainian drones hit industrial sites in Russia's Volgograd: governor
