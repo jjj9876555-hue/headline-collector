@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-02 19:18 JST／対象: 10/02 07:18 〜 10/02 19:18 JST（時刻はすべて日本時間）
+生成: 2026-10-02 19:35 JST／対象: 10/02 07:35 〜 10/02 19:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 13 | 10/02 17:55 | 10/02 19:02 | 23分（18:02→18:25） |
-| FirstSquawk | 130 | 10/02 08:16 | 10/02 19:12 | 38分（17:15→17:53） |
-| financialjuice | 97 | 10/02 08:00 | 10/02 19:16 | ⚠ 49分（18:00→18:49） |
+| DeItaone | 20 | 10/02 17:55 | 10/02 19:35 | 23分（18:02→18:25） |
+| FirstSquawk | 138 | 10/02 08:16 | 10/02 19:32 | 38分（17:15→17:53） |
+| financialjuice | 106 | 10/02 08:00 | 10/02 19:29 | ⚠ 49分（18:00→18:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 238 行（統合前 240 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 260 行（統合前 264 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -262,3 +262,25 @@
 - 10/02 19:09 [FirstSquawk] UKRAINE'S PM KORETSKYI ANNOUNCED A RECEIPT OF €2.9 BILLION FROM THE EU.
 - 10/02 19:12 [FirstSquawk] FRANCE'S BOND RISK PREMIUM INCREASES TO 150 BPS, A FIRST SINCE 2012.
 - 10/02 19:16 [financialjuice] UK diesel average prices rise above £2/litre for the first time - RAC
+- 10/02 19:20 [DeItaone] GERMAN GOVERNMENT SPOKESPERSON: WE CONTINUE TO SEE U.S. AS RELIABLE SUPPLIER OF FUEL
+- 10/02 19:21 [DeItaone/financialjuice] EU SPOKESPERSON: WE FULLY REJECT ANY BAN ON DIESEL
+- 10/02 19:22 [DeItaone] FRENCH-GERMAN 10-YEAR GOVERNMENT BOND-YIELD SPREAD HITS 151.95, WIDEST SINCE NOV. 2011: LSEG DATA
+- 10/02 19:22 [financialjuice] German Government Spokesperson: We continue to see the US as a reliable supplier of fuel
+- 10/02 19:22 [DeItaone/financialjuice] EU SPOKESPERSON: A BAN WOULD NOT BE BENEFICIAL TO ANYONE. IT WOULD UNDERMINE OUR TRUST IN THE UNITED STATES AS A RELIABLE PARTNER
+- 10/02 19:24 [DeItaone] FRANCE FLOATS 100 MILLION-BARREL ENERGY RESERVE RELEASE France has proposed that EU countries release 50 million barrels of crude and 50 million barrels of diesel as Europe responds to U.S. pressure to boost fuel supplies. The proposal rema…
+- 10/02 19:25 [financialjuice] EU Spokesperson: Any release is something that is organized by the International Energy Agency
+- 10/02 19:26 [financialjuice] EU Spokesperson: Next oil coordination group on the 15th of October, if the situation requires, we are ready to convene one earlier
+- 10/02 19:26 [DeItaone] *GERMANY SAYS WATCHING DIESEL SUPPLY SITUATION CLOSELY
+- 10/02 19:28 [financialjuice] German Government wants to stabilize diesel supply - Spokesman
+- 10/02 19:29 [financialjuice] EU Spokesperson: The EU is ready for collective action on possible stock release under IEA coordination
+- 10/02 19:29 [financialjuice] EU Spokesperson: A coordination meeting between the Commission and member states was held this morning, and further discussions might happen in the afternoon
+- 10/02 19:29 [financialjuice] The EU is ready for collective oil market action if the IEA sees it as necessary
+- 10/02 19:31 [FirstSquawk] FRANCE'S 10-YEAR YIELD PREMIUM INCREASES TO 152 BASIS POINTS, MARKING THE HIGHEST LEVEL SINCE 2011.
+- 10/02 19:31 [FirstSquawk] GERMAN GOVERNMENT SPOKESPERSON AFFIRMS US AS A TRUSTED FUEL SUPPLIER.
+- 10/02 19:31 [FirstSquawk] GERMAN GOVERNMENT IS MONITORING THE DIESEL SUPPLY SITUATION CAREFULLY.
+- 10/02 19:32 [FirstSquawk] EU SPOKESPERSON STRONGLY OPPOSES ANY BAN ON DIESEL FUEL.
+- 10/02 19:32 [FirstSquawk] EU SPOKESPERSON SAYS A BAN WOULD HURT EVERYONE AND DAMAGE TRUST IN THE U.S. AS A PARTNER.
+- 10/02 19:32 [FirstSquawk] EU SPOKESPERSON DECLINES TO COMMENT ON STOCK DISCUSSION AT THIS TIME.
+- 10/02 19:32 [FirstSquawk] EU SPOKESPERSON STATES THAT ANY RELEASE OF ENERGY IS COORDINATED BY THE INTERNATIONAL ENERGY AGENCY.
+- 10/02 19:32 [FirstSquawk] EU SPOKESPERSON ANNOUNCED THAT THE NEXT OIL COORDINATION GROUP MEETING IS SCHEDULED FOR OCTOBER 15TH AND CAN BE HELD EARLIER IF NEEDED.
+- 10/02 19:35 [DeItaone] Mapped: Gas Prices by U.S. State in 2026 ⛽

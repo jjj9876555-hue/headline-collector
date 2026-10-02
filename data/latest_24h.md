@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-02 19:18 JST／対象: 10/01 19:18 〜 10/02 19:18 JST（時刻はすべて日本時間）
+生成: 2026-10-02 19:35 JST／対象: 10/01 19:35 〜 10/02 19:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 90 | 10/01 19:27 | 10/02 19:02 | ⚠ 755分（05:19→17:55） |
-| FirstSquawk | 303 | 10/01 19:28 | 10/02 19:12 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 375 | 10/01 19:25 | 10/02 19:16 | ⚠ 79分（06:41→08:00） |
+| DeItaone | 95 | 10/01 20:06 | 10/02 19:35 | ⚠ 755分（05:19→17:55） |
+| FirstSquawk | 306 | 10/01 19:39 | 10/02 19:32 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 376 | 10/01 20:02 | 10/02 19:29 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 730 行（統合前 774 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 737 行（統合前 783 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 19:25 [financialjuice] EU: In 'high level contact’ with the US on emergency diesel stocks
-- 10/01 19:25 [financialjuice] The US slowed export licensing for plane parts to China - Sources
-- 10/01 19:25 [financialjuice] French warship, part of the EU Red Sea mission, escorted about ten ships through the Bab el-Mandeb Strait over last week - French army spokesperson
-- 10/01 19:25 [financialjuice] Traders pare ECB rate bets, favor three hikes by end of 2027
-- 10/01 19:26 [financialjuice] EU: Next meeting of the oil coordination group on October 15th
-- 10/01 19:27 [financialjuice] French budget minister Amiel: We cannot wait until next year's election to take action on the budget
-- 10/01 19:27 [DeItaone] HSBC: INVESTORS ROTATING OUT OF FRANCE INTO UK HSBC says European equity funds are shifting capital from France toward the UK, as concerns over France’s fiscal outlook intensify. The bank recently cut France to Underweight, citing worsening…
-- 10/01 19:28 [FirstSquawk] FRENCH FINANCE MINISTER LESCURE OUTLINES 2027 BUDGET, CONFIRMING FRANCE'S STRONG CREDITWORTHINESS.
-- 10/01 19:28 [FirstSquawk] FRENCH FINANCE MINISTER LESCURE PREDICTS BUDGET CONSOLIDATION BY 2027.
-- 10/01 19:28 [FirstSquawk] FRENCH FINANCE MINISTER LESCURE STATES THAT THE GOAL OF LOWERING THE BUDGET DEFICIT TO 3% OF GDP BY 2029 IS STILL ACHIEVABLE.
-- 10/01 19:28 [FirstSquawk] FRENCH FINANCE MINISTER LESCURE ANNOUNCED A BUDGET WITH 43 BILLION EUROS IN NEW MEASURES, AMOUNTING TO 54 BILLION EUROS WHEN INCLUDING PREVIOUS MEASURES.
-- 10/01 19:28 [FirstSquawk] FRENCH BUDGET MINISTER AMIEL STATED ACTION ON THE BUDGET IS NECESSARY BEFORE NEXT YEAR'S ELECTION.
-- 10/01 19:29 [financialjuice] Israel requested an urgent increase in Etihad flights to Tel Aviv
-- 10/01 19:33 [DeItaone] EU COORDINATES POSSIBLE ENERGY RESERVE RELEASE WITH U.S. The European Commission says it is in high-level talks with the U.S. administration over the global oil market and potential emergency stock releases. Brussels is coordinating EU memb…
-- 10/01 19:33 [financialjuice] France Fin. Min. Lescure: French 2027 budget sees €54B effort; 5% deficit goal 60% of French 2027 budget effort to be on spending
 - 10/01 19:39 [FirstSquawk] MCCORMICK & CO Q3 2026 EARNINGS: ADJ EPS 86C (EST 76C) || NET SALES 2.02B (EST $1.98B) || ORGANIC VOLUME GROWTH -0.3% (EST -0.14%) || STILL SEES FY ADJ EPS $3.05 TO $3.13(EST $3.08) || REAFFIRMS FY NET SALES GROWTH OUTLOOK
 - 10/01 19:43 [FirstSquawk] ACCENTURE Q4 REVENUE USD 18,700 MILLION VS ESTIMATE USD 18,032 MILLION || OUTLOOK FY REVENUE GROWTH 3-6% || Q4 EPS USD 3.29
 - 10/01 19:43 [FirstSquawk] ACCENTURE Q4 NEW BOOKINGS USD 22,200 MILLION
@@ -754,3 +739,25 @@
 - 10/02 19:09 [FirstSquawk] UKRAINE'S PM KORETSKYI ANNOUNCED A RECEIPT OF €2.9 BILLION FROM THE EU.
 - 10/02 19:12 [FirstSquawk] FRANCE'S BOND RISK PREMIUM INCREASES TO 150 BPS, A FIRST SINCE 2012.
 - 10/02 19:16 [financialjuice] UK diesel average prices rise above £2/litre for the first time - RAC
+- 10/02 19:20 [DeItaone] GERMAN GOVERNMENT SPOKESPERSON: WE CONTINUE TO SEE U.S. AS RELIABLE SUPPLIER OF FUEL
+- 10/02 19:21 [DeItaone/financialjuice] EU SPOKESPERSON: WE FULLY REJECT ANY BAN ON DIESEL
+- 10/02 19:22 [DeItaone] FRENCH-GERMAN 10-YEAR GOVERNMENT BOND-YIELD SPREAD HITS 151.95, WIDEST SINCE NOV. 2011: LSEG DATA
+- 10/02 19:22 [financialjuice] German Government Spokesperson: We continue to see the US as a reliable supplier of fuel
+- 10/02 19:22 [DeItaone/financialjuice] EU SPOKESPERSON: A BAN WOULD NOT BE BENEFICIAL TO ANYONE. IT WOULD UNDERMINE OUR TRUST IN THE UNITED STATES AS A RELIABLE PARTNER
+- 10/02 19:24 [DeItaone] FRANCE FLOATS 100 MILLION-BARREL ENERGY RESERVE RELEASE France has proposed that EU countries release 50 million barrels of crude and 50 million barrels of diesel as Europe responds to U.S. pressure to boost fuel supplies. The proposal rema…
+- 10/02 19:25 [financialjuice] EU Spokesperson: Any release is something that is organized by the International Energy Agency
+- 10/02 19:26 [financialjuice] EU Spokesperson: Next oil coordination group on the 15th of October, if the situation requires, we are ready to convene one earlier
+- 10/02 19:26 [DeItaone] *GERMANY SAYS WATCHING DIESEL SUPPLY SITUATION CLOSELY
+- 10/02 19:28 [financialjuice] German Government wants to stabilize diesel supply - Spokesman
+- 10/02 19:29 [financialjuice] EU Spokesperson: The EU is ready for collective action on possible stock release under IEA coordination
+- 10/02 19:29 [financialjuice] EU Spokesperson: A coordination meeting between the Commission and member states was held this morning, and further discussions might happen in the afternoon
+- 10/02 19:29 [financialjuice] The EU is ready for collective oil market action if the IEA sees it as necessary
+- 10/02 19:31 [FirstSquawk] FRANCE'S 10-YEAR YIELD PREMIUM INCREASES TO 152 BASIS POINTS, MARKING THE HIGHEST LEVEL SINCE 2011.
+- 10/02 19:31 [FirstSquawk] GERMAN GOVERNMENT SPOKESPERSON AFFIRMS US AS A TRUSTED FUEL SUPPLIER.
+- 10/02 19:31 [FirstSquawk] GERMAN GOVERNMENT IS MONITORING THE DIESEL SUPPLY SITUATION CAREFULLY.
+- 10/02 19:32 [FirstSquawk] EU SPOKESPERSON STRONGLY OPPOSES ANY BAN ON DIESEL FUEL.
+- 10/02 19:32 [FirstSquawk] EU SPOKESPERSON SAYS A BAN WOULD HURT EVERYONE AND DAMAGE TRUST IN THE U.S. AS A PARTNER.
+- 10/02 19:32 [FirstSquawk] EU SPOKESPERSON DECLINES TO COMMENT ON STOCK DISCUSSION AT THIS TIME.
+- 10/02 19:32 [FirstSquawk] EU SPOKESPERSON STATES THAT ANY RELEASE OF ENERGY IS COORDINATED BY THE INTERNATIONAL ENERGY AGENCY.
+- 10/02 19:32 [FirstSquawk] EU SPOKESPERSON ANNOUNCED THAT THE NEXT OIL COORDINATION GROUP MEETING IS SCHEDULED FOR OCTOBER 15TH AND CAN BE HELD EARLIER IF NEEDED.
+- 10/02 19:35 [DeItaone] Mapped: Gas Prices by U.S. State in 2026 ⛽
