@@ -7,47 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-02 08:52 JST／対象: 10/01 08:52 〜 10/02 08:52 JST（時刻はすべて日本時間）
+生成: 2026-10-02 09:07 JST／対象: 10/01 09:07 〜 10/02 09:07 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 93 | 10/01 16:25 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 359 | 10/01 08:54 | 10/02 08:51 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 430 | 10/01 08:52 | 10/02 08:50 | ⚠ 79分（06:41→08:00） |
+| FirstSquawk | 347 | 10/01 09:10 | 10/02 08:51 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 418 | 10/01 09:15 | 10/02 08:50 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 844 行（統合前 888 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 820 行（統合前 864 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 08:52 [financialjuice] BoJ summary: one member said central bank must accelerate rate increases if inflation exceeds target
-- 10/01 08:53 [financialjuice] BOJ: big manufacturers' sentiment index rises for 6 straight quarters, reaches highest level since March 2018
-- 10/01 08:53 [financialjuice] BOJ summary: one member said central bank must raise rates early to terminal to respond swiftly to unexpected economic, price changes
-- 10/01 08:53 [financialjuice] BoJ summary: one member said no need to rush raising rates but must guide policy properly as underlying inflation likely to hit 2% soon
-- 10/01 08:54 [financialjuice] BOJ summary: one member said central bank shouldn't be overly cautious in raising rates given significant upside risks to inflation
-- 10/01 08:54 [FirstSquawk] GEOPARK IS IN TALKS WITH VENEZUELA’S PDVSA TO SECURE DILUENT SUPPLIES NEEDED TO BLEND ORINOCO’S EXTRA-HEAVY CRUDE, AS THE COMPANY PREPARES TO START OPERATIONS IN THE COUNTRY.
-- 10/01 08:54 [FirstSquawk] GEOPARK PLANS TO NEARLY NINEFOLD PRODUCTION AT THE BARE BLOCK TO ABOUT 90,000 BARRELS PER DAY UNDER ITS 25-YEAR CONTRACT, WITH RELIABLE DILUENT SUPPLIES SEEN AS KEY TO EXPANDING OUTPUT.
-- 10/01 08:55 [financialjuice] BOJ summary: one member said chance terminal rate could exceed estimated range, market expectations, depending on overseas developments
-- 10/01 08:55 [financialjuice] BOJ summary: one member said most firms report impact of past and further rate hikes likely limited
-- 10/01 08:56 [financialjuice] BOJ summary: one member says financial conditions continue to be accommodative
-- 10/01 08:57 [financialjuice] BOJ summary: cabinet office rep says govt expects central bank to uphold accountability, carefully assess cumulative impact of previous rate increases
-- 10/01 08:57 [financialjuice] BoJ summary: Cabinet office rep says BoJ may need to consider its neutral rate estimates
-- 10/01 08:58 [financialjuice] BOJ summary: cabinet office rep says central bank must take proactive, appropriate measures during excessive economic or market fluctuations
-- 10/01 08:58 [financialjuice] BOJ summary: Cabinet office rep says govt expects central bank to conduct monetary policy appropriately to stably achieve price target while closely cooperating with govt
-- 10/01 08:59 [FirstSquawk] BANK OF JAPAN'S SEPTEMBER SUMMARY OF OPINIONS SHOWS ONE MEMBER SAID IT IS APPROPRIATE TO CONTINUE RAISING RATES IN ACCORDANCE WITH ECONOMIC, PRICE AND FINANCIAL DEVELOPMENTS, AND ANOTHER SAID THE POLICY PHASE HAS CHANGED AND THE BOJ MUST FO…
-- 10/01 08:59 [FirstSquawk] BANK OF JAPAN'S SEPTEMBER SUMMARY SHOWS ONE MEMBER SAID THE BOJ MUST ACT NIMBLY AND SHOW ITS DETERMINATION TO PREVENT AN INFLATION OVERSHOOT WHILE BEING MINDFUL OF THE FX MARKET, WITH ONE SAYING IT MUST SPEED UP RATE HIKES IF THERE ARE SIGN…
-- 10/01 08:59 [FirstSquawk] BANK OF JAPAN'S SEPTEMBER SUMMARY SHOWS ONE MEMBER SAID THE BOJ SHOULD NOT BE OVERLY CAUTIOUS GIVEN SIGNIFICANT UPSIDE INFLATION RISKS AND THAT THE TERMINAL RATE COULD OVERSHOOT THE BOJ'S ESTIMATED RANGE DEPENDING ON OVERSEAS DEVELOPMENTS, …
-- 10/01 09:02 [FirstSquawk] BANK OF JAPAN'S SEPTEMBER SUMMARY SHOWS ONE MEMBER SAID THE SOMEWHAT WEAK Q2 GDP FIGURES ARE ATTRIBUTED TO TECHNICAL FACTORS.
-- 10/01 09:02 [FirstSquawk] BANK OF JAPAN'S SEPTEMBER SUMMARY OF OPINIONS SHOWS A CABINET OFFICE REPRESENTATIVE SAID THE BOJ MUST TAKE PROACTIVE, APPROPRIATE ACTION IN THE EVENT OF EXCESSIVE FLUCTUATION IN ECONOMIC ACTIVITY AND MARKETS, AND THAT THE GOVERNMENT EXPECTS…
-- 10/01 09:02 [FirstSquawk] BANK OF JAPAN'S SEPTEMBER SUMMARY OF OPINIONS SHOWS ONE MEMBER SAID THERE HAS BEEN A SIGNIFICANT REGIME SHIFT IN JAPAN'S FINANCIAL CONDITIONS WITH HEIGHTENED UPWARD PRICE PRESSURES, WHICH HAS BECOME INCREASINGLY EVIDENT OVER THE PAST FEW MO…
-- 10/01 09:03 [FirstSquawk] BANK OF JAPAN'S SEPTEMBER SUMMARY SHOWS ONE MEMBER SAID UPSIDE RISKS TO PRICES CONTINUE TO BE HIGH AND THAT THE BOJ MUST CONSIDER THE PRICE OUTLOOK KEEPING IN MIND CRUDE OIL PRICES COULD REMAIN HIGH, WHILE ANOTHER NOTED PRIVATE CONSUMPTION …
-- 10/01 09:04 [FirstSquawk] US NATURAL GAS FUTURES ROSE 0.5% TO $3.026/MMBTU AS LOWER-48 OUTPUT REMAINED NEAR ITS LOWEST LEVEL SINCE JANUARY, WITH DRILLERS LIMITING PRODUCTION AHEAD OF WINTER. EIA STORAGE GROWTH IS EXPECTED TO SLOW TO ABOUT 63 BCF, BELOW THE 80 BCF FI…
-- 10/01 09:05 [FirstSquawk] Drugmakers race to develop next-gen drugs aimed at protecting muscle while driving fat loss during rapid weight reduction - WSJ
-- 10/01 09:07 [FirstSquawk] AUSTRALIA’S S&P/ASX 200 FALLS 0.8% TO 8,721.40 POINTS IN EARLY TRADE
 - 10/01 09:10 [FirstSquawk] SAUDI ARABIA RAISED ITS PROJECTED 2026 BUDGET DEFICIT TO 4.9% OF GDP FROM 3.3%, WITH SPENDING EXPECTED AT ABOUT 1.4 TRILLION RIYALS AS DEFENSE, INFRASTRUCTURE AND ECONOMIC-DIVERSIFICATION OUTLAYS INCREASE. RIYADH ALSO CUT ITS 2026 REAL GDP …
 - 10/01 09:15 [financialjuice/FirstSquawk] ❗ U.S. official: Secretary Rubio kicked out the Iranian delegation who had over stayed their welcome. The UN general assembly was over, so it was time for them to go - Axios Reporter on X
 - 10/01 09:24 [FirstSquawk] 3. Asia-Pacific equities trade mixed at the open following a similar performance on Wall Street, with markets weighing fresh data and rising yields despite softer PCE inflation.

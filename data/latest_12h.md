@@ -7,42 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-02 08:52 JST／対象: 10/01 20:52 〜 10/02 08:52 JST（時刻はすべて日本時間）
+生成: 2026-10-02 09:07 JST／対象: 10/01 21:07 〜 10/02 09:07 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 63 | 10/01 21:06 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
+| DeItaone | 62 | 10/01 21:24 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
 | FirstSquawk | 163 | 10/01 21:07 | 10/02 08:51 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 271 | 10/01 20:53 | 10/02 08:50 | ⚠ 79分（06:41→08:00） |
+| financialjuice | 253 | 10/01 21:08 | 10/02 08:50 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 466 行（統合前 503 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 447 行（統合前 484 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 20:53 [financialjuice] USTR Greer, on the EU: They have executed on the trade terms we agreed to
-- 10/01 20:53 [financialjuice] French Fiscal Watchdog: Government's 2027 deficit reduction plans are a "minimum".
-- 10/01 20:54 [financialjuice] USTR Greer: Europe has to act on the issue of excess capacity
-- 10/01 20:54 [financialjuice] USTR Greer: Europe should release some diesel inventories
-- 10/01 20:55 [financialjuice] USTR Greer: We will meet with EU counterparts to discuss diesel today
-- 10/01 20:55 [financialjuice] USTR Greer: I have been speaking with Canadians on trade
-- 10/01 20:56 [financialjuice] USTR Greer: We're open to deal with Canada, but it's up to Canada
-- 10/01 20:56 [financialjuice] USTR Greer: Gaps remain between US and Canada on trade.
-- 10/01 21:00 [financialjuice] Secured Overnight Financing Rate 3.90% September 30 vs 3.88% September 29.
-- 10/01 21:00 [financialjuice] France HCFP: Deficit target for 2026 plausible, sees risks.
-- 10/01 21:00 [financialjuice] France HCFP: French deficit goal is minimum given ‘alarming’ finances
-- 10/01 21:00 [financialjuice] France hcFp: 2027 budget plan targets are a ‘significant’ adjustment.
-- 10/01 21:01 [financialjuice] France’s budget watchdog calls 2027 growth forecast optimistic.
-- 10/01 21:04 [financialjuice] BoE's Mann: Risk management strategy apt given inflation risks.
-- 10/01 21:05 [financialjuice] BoE's Mann: Raising rate can ensure sustainable return to 2%.
-- 10/01 21:06 [financialjuice] BoE's Mann: Real and nominal conditions need to remain tight.
-- 10/01 21:06 [financialjuice] BoE's Mann: Can't rely on risk premia to do the work of monetary policy, need to raise the bank rate
-- 10/01 21:06 [financialjuice] BoE's Mann: Current stance is not sufficiently tight.
-- 10/01 21:06 [DeItaone] https://t.co/EDVUWjvAPI
 - 10/01 21:07 [FirstSquawk] FRENCH BUDGET WATCHDOG: 2027 GROWTH FORECAST OPTIMISTIC
 - 10/01 21:07 [FirstSquawk] BOE'S MANN: CAN'T RELY ON RISK PREMIA TO DO THE WORK OF POLICY
 - 10/01 21:08 [financialjuice] BoE's Mann: Need clearly communicated reaction function.
