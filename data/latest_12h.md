@@ -7,45 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-02 20:17 JST／対象: 10/02 08:17 〜 10/02 20:17 JST（時刻はすべて日本時間）
+生成: 2026-10-02 20:35 JST／対象: 10/02 08:35 〜 10/02 20:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 24 | 10/02 17:55 | 10/02 20:12 | 23分（19:35→19:59） |
-| FirstSquawk | 140 | 10/02 08:46 | 10/02 20:08 | 38分（17:15→17:53） |
-| financialjuice | 109 | 10/02 08:20 | 10/02 20:17 | ⚠ 49分（18:00→18:49） |
+| DeItaone | 25 | 10/02 17:55 | 10/02 20:33 | 23分（19:35→19:59） |
+| FirstSquawk | 143 | 10/02 08:46 | 10/02 20:23 | 38分（17:15→17:53） |
+| financialjuice | 91 | 10/02 08:50 | 10/02 20:35 | ⚠ 49分（18:00→18:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 269 行（統合前 273 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 254 行（統合前 259 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 08:20 [financialjuice] Logan: higher yields may also indicate increased term premiums, lowering need to tighten monetary policy
-- 10/02 08:20 [financialjuice] Logan: Economic expansion strengthening, labor market well balanced
-- 10/02 08:20 [financialjuice] Logan: Fed policy is not restrictive, must be modestly tight
-- 10/02 08:20 [financialjuice] Logan: will monitor bond yield changes and evaluate their impact
-- 10/02 08:20 [financialjuice] Logan: we must revive price stability
-- 10/02 08:20 [financialjuice] Fed's Logan: policy rate must increase by additional 50 bps or more
-- 10/02 08:20 [financialjuice] Logan: increase in long-term yields signals market expects higher interest rates
-- 10/02 08:20 [financialjuice] Logan: at minimum, several more rate hikes would reverse last fall's reductions
-- 10/02 08:20 [financialjuice] Logan: without higher rates, inflation won’t reach Fed’s 2% target
-- 10/02 08:20 [financialjuice] Logan: Uncertainty remains on how high policy rate must rise to bring inflation to 2%
-- 10/02 08:30 [financialjuice] ❗ JAPANESE JOBS/APPLICANTS RATIO ACTUAL 1.18 (FORECAST 1.18, PREVIOUS 1.18) $MACRO
-- 10/02 08:30 [financialjuice] ❗ TOKYO CORE CPI YOY ACTUAL 2.7% (FORECAST 2.3%, PREVIOUS 1.8%) $MACRO
-- 10/02 08:30 [financialjuice] ‼ BREAKING: TOKYO CPI OVERALL ACTUAL 2.7% (FORECAST 2.5%, PREVIOUS 1.9%) $MACRO
-- 10/02 08:30 [financialjuice] Japan aug jobs-applicants ratio steady at 1.18 in july: govt
-- 10/02 08:30 [financialjuice] Tokyo area September core CPI rises 2.7% year/year: government poll 2.4%
-- 10/02 08:30 [financialjuice] Japan Aug seasonally adjusted jobless rate 2.5%: govt (Poll: 2.4%)
-- 10/02 08:30 [financialjuice] ❗ JAPANESE UNEMPLOYMENT RATE ACTUAL 2.5% (FORECAST 2.4%, PREVIOUS 2.4%) $MACRO
-- 10/02 08:30 [financialjuice] Tokyo area September CPI excluding fresh food and energy rises 3.0% yr/yr: govt
-- 10/02 08:30 [financialjuice] Tokyo area September overall inflation rises 2.7% yr/yr: govt
-- 10/02 08:32 [financialjuice] Tokyo core CPI rises at fastest rate since November 2025
-- 10/02 08:34 [financialjuice] Tokyo core-core CPI climbs at fastest rate since August 2025
-- 10/02 08:34 [financialjuice] Tokyo overall CPI climbs at fastest rate since November 2025
 - 10/02 08:46 [FirstSquawk] TOKYO'S SEPTEMBER CPI ROSE 2.7% YEAR-ON-YEAR, ABOVE THE 2.5% ESTIMATE AND UP FROM 1.9%, WITH CPI EX-FRESH FOOD UP 2.7% VERSUS 2.3% EXPECTED AND CPI EX-FRESH FOOD AND ENERGY UP 3.0% VERSUS 2.5% EXPECTED
 - 10/02 08:46 [FirstSquawk] JAPAN MARKETS: 10-YEAR JGB FUTURES RISE 0.29 POINT; NIKKEI FUTURES FALL 0.9% IN EARLY TRADE
 - 10/02 08:47 [FirstSquawk] CHEVRON: MECHANICAL ISSUE AT EL SEGUNDO REFINERY DOES NOT AFFECT PETROLEUM PRODUCT SUPPLIES TO REGIONAL CUSTOMERS
@@ -293,3 +271,10 @@
 - 10/02 20:13 [financialjuice] Russian Deputy PM Novak: Russia is currently basing its 2027 oil production forecast on a moderately conservative scenario
 - 10/02 20:14 [financialjuice] Russia’s Deputy PM Novak: OPEC+ members continue production capacity review - Tass
 - 10/02 20:17 [financialjuice] Microsoft & Amazon cloud arms set to face deeper EU scrutiny $MSFT $AMZN
+- 10/02 20:18 [FirstSquawk] MICROSOFT AND AMAZON'S CLOUD DIVISIONS WILL UNDERGO MORE EXAMINATION BY THE EU.
+- 10/02 20:23 [FirstSquawk] RUSSIAN DEPUTY PM NOVAK ANNOUNCED THAT OPEC+ MEMBERS WILL TALK ABOUT OIL MARKET MATTERS AND QUOTA FULFILLMENT AT THE SUNDAY MEETING.
+- 10/02 20:23 [FirstSquawk] RUSSIAN DEPUTY PM NOVAK STATES RUSSIA IS USING A MODERATELY CONSERVATIVE SCENARIO FOR ITS 2027 OIL PRODUCTION FORECAST.
+- 10/02 20:31 [financialjuice] ECB's Vujcic: Bank capital levels are not a competitive disadvantage for Europe, but rules could be simplified
+- 10/02 20:33 [financialjuice/DeItaone] Saudi Arabia pumping close to 6m b/d oil on East-West pipeline.
+- 10/02 20:33 [financialjuice] Saudi Arabia has about 4.5m b/d pipeline flow available for export
+- 10/02 20:35 [financialjuice] Standard Chartered expects the ECB to deliver a 25 bps rate hike in December 2026 vs. the prior forecast of unchanged rates

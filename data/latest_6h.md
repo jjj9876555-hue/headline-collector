@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-02 20:17 JST／対象: 10/02 14:17 〜 10/02 20:17 JST（時刻はすべて日本時間）
+生成: 2026-10-02 20:35 JST／対象: 10/02 14:35 〜 10/02 20:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 24 | 10/02 17:55 | 10/02 20:12 | 23分（19:35→19:59） |
-| FirstSquawk | 57 | 10/02 14:20 | 10/02 20:08 | 38分（17:15→17:53） |
-| financialjuice | 61 | 10/02 14:43 | 10/02 20:17 | ⚠ 49分（18:00→18:49） |
+| DeItaone | 25 | 10/02 17:55 | 10/02 20:33 | 23分（19:35→19:59） |
+| FirstSquawk | 58 | 10/02 14:42 | 10/02 20:23 | 38分（17:15→17:53） |
+| financialjuice | 65 | 10/02 14:43 | 10/02 20:35 | ⚠ 49分（18:00→18:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 139 行（統合前 142 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 144 行（統合前 148 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 14:20 [FirstSquawk] INDONESIAN RUPIAH GAINS AS DOLLAR SLIPS AMID LOWER FED RATE-HIKE EXPECTATIONS - FX
-- 10/02 14:30 [FirstSquawk] ITALGAS AGREES TO ACQUIRE 22.5% OF FLOENE FROM MARUBENI, TOHO GAS FOR €120M - RTRS
 - 10/02 14:42 [FirstSquawk] FRANCE'S LESCURE: EVERY MEASURE IN BUDGET PROPOSAL IS OPEN FOR NEGOTIATION
 - 10/02 14:43 [financialjuice] French finance minister Lescure: Debt sales go well, but interest rates are too high, budget will help bring them down
 - 10/02 14:43 [FirstSquawk] FRENCH FINANCE MINISTER: BUDGET WILL HELP LOWER HIGH INTEREST RATES
@@ -163,3 +161,10 @@
 - 10/02 20:13 [financialjuice] Russian Deputy PM Novak: Russia is currently basing its 2027 oil production forecast on a moderately conservative scenario
 - 10/02 20:14 [financialjuice] Russia’s Deputy PM Novak: OPEC+ members continue production capacity review - Tass
 - 10/02 20:17 [financialjuice] Microsoft & Amazon cloud arms set to face deeper EU scrutiny $MSFT $AMZN
+- 10/02 20:18 [FirstSquawk] MICROSOFT AND AMAZON'S CLOUD DIVISIONS WILL UNDERGO MORE EXAMINATION BY THE EU.
+- 10/02 20:23 [FirstSquawk] RUSSIAN DEPUTY PM NOVAK ANNOUNCED THAT OPEC+ MEMBERS WILL TALK ABOUT OIL MARKET MATTERS AND QUOTA FULFILLMENT AT THE SUNDAY MEETING.
+- 10/02 20:23 [FirstSquawk] RUSSIAN DEPUTY PM NOVAK STATES RUSSIA IS USING A MODERATELY CONSERVATIVE SCENARIO FOR ITS 2027 OIL PRODUCTION FORECAST.
+- 10/02 20:31 [financialjuice] ECB's Vujcic: Bank capital levels are not a competitive disadvantage for Europe, but rules could be simplified
+- 10/02 20:33 [financialjuice/DeItaone] Saudi Arabia pumping close to 6m b/d oil on East-West pipeline.
+- 10/02 20:33 [financialjuice] Saudi Arabia has about 4.5m b/d pipeline flow available for export
+- 10/02 20:35 [financialjuice] Standard Chartered expects the ECB to deliver a 25 bps rate hike in December 2026 vs. the prior forecast of unchanged rates

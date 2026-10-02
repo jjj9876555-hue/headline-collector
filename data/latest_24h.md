@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-02 20:17 JST／対象: 10/01 20:17 〜 10/02 20:17 JST（時刻はすべて日本時間）
+生成: 2026-10-02 20:35 JST／対象: 10/01 20:35 〜 10/02 20:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 94 | 10/01 20:33 | 10/02 20:12 | ⚠ 755分（05:19→17:55） |
-| FirstSquawk | 300 | 10/01 20:28 | 10/02 20:08 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 376 | 10/01 20:19 | 10/02 20:17 | ⚠ 79分（06:41→08:00） |
+| DeItaone | 93 | 10/01 20:36 | 10/02 20:33 | ⚠ 755分（05:19→17:55） |
+| FirstSquawk | 300 | 10/01 20:38 | 10/02 20:23 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 376 | 10/01 20:36 | 10/02 20:35 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 734 行（統合前 776 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 732 行（統合前 775 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 20:19 [financialjuice] Trump: Dinner with Anthropic CEO Amodei lasted more than two hours - Time
-- 10/01 20:28 [FirstSquawk] ECB'S NAGEL: ON RISE IN BOND YIELDS - ALL ECB INSTRUMENTS ARE FOR DELIVERING PRICE STABILITY NOT FOR CERTAIN YIELD LEVELS
-- 10/01 20:28 [FirstSquawk] TRUMP TO TIME: WE'LL SOON BE FILLING UP STRATEGIC OIL RESERVE
-- 10/01 20:28 [FirstSquawk] TRUMP: AMODEI VERY SMART, DIFFERENT THAN TRUMP THOUGHT: TIME
-- 10/01 20:32 [financialjuice] Iran's president Pezeshkian: Tehran won't ever shy away from dialogue, even as the US targeted Iran several times - Tasnim
-- 10/01 20:33 [DeItaone] CITI RAISES BITCOIN TARGET TO $113,000 Citi has raised its 12-month Bitcoin target to $113,000 from $82,000, implying roughly 35% upside from current levels near $83,900. The bank points to renewed currency-debasement fears, greater regulat…
-- 10/01 20:34 [DeItaone] FED'S KASHKARI: ECONOMY KEEPS SURPRISING ME HOW RESILIENT IT IS
-- 10/01 20:34 [financialjuice] Fed's Kashkari: Don't know how high rates need to go.
-- 10/01 20:35 [financialjuice] Fed's Kashkari: We will do what we need to get inflation to the goal
 - 10/01 20:36 [financialjuice] Fed's Kashkari: If AI proves to be as productive as expected, the investment cycle could persist for a long time
 - 10/01 20:36 [DeItaone] TRUMP SAYS HE MAY RAMP UP IRAN BOMBING AFTER MIDTERMS IF NO DEAL: TIME TRUMP SAYS SOME U.S. AMMUNITION STOCKS ‘A LITTLE BIT LOWER’: TIME TRUMP SAYS RAYTHEON, LOCKHEED EXPANDING PATRIOT, THAAD CAPACITY: TIME U.S. MILITARY FIRED MORE THAN 1,2…
 - 10/01 20:36 [DeItaone] TRUMP SAYS AI INDUSTRY ‘BIGGER’ THAN INTERNET, INDUSTRIAL REVOLUTION: TIME
@@ -758,3 +749,10 @@
 - 10/02 20:13 [financialjuice] Russian Deputy PM Novak: Russia is currently basing its 2027 oil production forecast on a moderately conservative scenario
 - 10/02 20:14 [financialjuice] Russia’s Deputy PM Novak: OPEC+ members continue production capacity review - Tass
 - 10/02 20:17 [financialjuice] Microsoft & Amazon cloud arms set to face deeper EU scrutiny $MSFT $AMZN
+- 10/02 20:18 [FirstSquawk] MICROSOFT AND AMAZON'S CLOUD DIVISIONS WILL UNDERGO MORE EXAMINATION BY THE EU.
+- 10/02 20:23 [FirstSquawk] RUSSIAN DEPUTY PM NOVAK ANNOUNCED THAT OPEC+ MEMBERS WILL TALK ABOUT OIL MARKET MATTERS AND QUOTA FULFILLMENT AT THE SUNDAY MEETING.
+- 10/02 20:23 [FirstSquawk] RUSSIAN DEPUTY PM NOVAK STATES RUSSIA IS USING A MODERATELY CONSERVATIVE SCENARIO FOR ITS 2027 OIL PRODUCTION FORECAST.
+- 10/02 20:31 [financialjuice] ECB's Vujcic: Bank capital levels are not a competitive disadvantage for Europe, but rules could be simplified
+- 10/02 20:33 [financialjuice/DeItaone] Saudi Arabia pumping close to 6m b/d oil on East-West pipeline.
+- 10/02 20:33 [financialjuice] Saudi Arabia has about 4.5m b/d pipeline flow available for export
+- 10/02 20:35 [financialjuice] Standard Chartered expects the ECB to deliver a 25 bps rate hike in December 2026 vs. the prior forecast of unchanged rates
