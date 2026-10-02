@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-03 08:16 JST／対象: 10/02 20:16 〜 10/03 08:16 JST（時刻はすべて日本時間）
+生成: 2026-10-03 08:32 JST／対象: 10/02 20:32 〜 10/03 08:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 39 | 10/02 20:33 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
-| FirstSquawk | 97 | 10/02 20:18 | 10/03 05:02 | 44分（20:46→21:31） |
-| financialjuice | 144 | 10/02 20:17 | 10/03 07:43 | ⚠ 71分（05:20→06:32） |
+| FirstSquawk | 94 | 10/02 20:35 | 10/03 05:02 | 44分（20:46→21:31） |
+| financialjuice | 147 | 10/02 20:33 | 10/03 08:23 | ⚠ 71分（05:20→06:32） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 268 行（統合前 282 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,11 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 20:17 [financialjuice] Microsoft & Amazon cloud arms set to face deeper EU scrutiny $MSFT $AMZN
-- 10/02 20:18 [FirstSquawk] MICROSOFT AND AMAZON'S CLOUD DIVISIONS WILL UNDERGO MORE EXAMINATION BY THE EU.
-- 10/02 20:23 [FirstSquawk] RUSSIAN DEPUTY PM NOVAK ANNOUNCED THAT OPEC+ MEMBERS WILL TALK ABOUT OIL MARKET MATTERS AND QUOTA FULFILLMENT AT THE SUNDAY MEETING.
-- 10/02 20:23 [FirstSquawk] RUSSIAN DEPUTY PM NOVAK STATES RUSSIA IS USING A MODERATELY CONSERVATIVE SCENARIO FOR ITS 2027 OIL PRODUCTION FORECAST.
-- 10/02 20:31 [financialjuice] ECB's Vujcic: Bank capital levels are not a competitive disadvantage for Europe, but rules could be simplified
 - 10/02 20:33 [financialjuice/DeItaone] Saudi Arabia pumping close to 6m b/d oil on East-West pipeline.
 - 10/02 20:33 [financialjuice] Saudi Arabia has about 4.5m b/d pipeline flow available for export
 - 10/02 20:35 [financialjuice] Standard Chartered expects the ECB to deliver a 25 bps rate hike in December 2026 vs. the prior forecast of unchanged rates
@@ -292,3 +287,8 @@
 - 10/03 07:42 [financialjuice] North Korea's projectile was ballistic missile: South Korean military
 - 10/03 07:43 [financialjuice] North Korea launches ballistic missile from Wonsan: South Korean military
 - 10/03 07:43 [financialjuice] South Korean military heightens alert on additional launches: South Korea's defense ministry
+- 10/03 08:16 [financialjuice] Ukmto: incident reported 4 nautical miles east of Oman
+- 10/03 08:17 [financialjuice] UKMTO: master of crude oil tanker reports being hit by unknown projectile on port side
+- 10/03 08:17 [financialjuice] UKMTO: all crew reported safe with no environmental impact so far
+- 10/03 08:20 [financialjuice] David Robinson, leader on OpenAI's safety systems team, resigns from company - Business Insider
+- 10/03 08:23 [financialjuice] South Korea's Blue House: convenes national security council meeting on North Korea missile launch

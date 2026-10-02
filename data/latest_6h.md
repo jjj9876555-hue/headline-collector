@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-03 08:16 JST／対象: 10/03 02:16 〜 10/03 08:16 JST（時刻はすべて日本時間）
+生成: 2026-10-03 08:32 JST／対象: 10/03 02:32 〜 10/03 08:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 10/03 02:33 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
-| FirstSquawk | 24 | 10/03 02:19 | 10/03 05:02 | 34分（02:50→03:25） |
-| financialjuice | 51 | 10/03 02:29 | 10/03 07:43 | ⚠ 71分（05:20→06:32） |
+| FirstSquawk | 23 | 10/03 02:35 | 10/03 05:02 | 34分（02:50→03:25） |
+| financialjuice | 54 | 10/03 03:00 | 10/03 08:23 | ⚠ 71分（05:20→06:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 76 行（統合前 80 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 78 行（統合前 82 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/03 02:19 [FirstSquawk] US PREPARES FOR POSSIBLE RENEWED FIGHTING - N12 CITING US OFFICIAL
-- 10/03 02:29 [financialjuice] ❗ Trump allegedly involved in a coup plot in iran - Fars News
-- 10/03 02:31 [financialjuice] Meta lets go of virtue ai employees hired in June - Semafor $META
 - 10/03 02:33 [DeItaone] META PARTS WAYS WITH VIRTUE AI - SEMAFOR
 - 10/03 02:35 [FirstSquawk] META PARTS WAYS WITH AI SAFETY STARTUP VIRTUE AI HIRES - SEMAFOR
 - 10/03 02:50 [FirstSquawk] SAUDI-LED COALITION SAYS IT INTERCEPTED AND DESTROYED THREE BALLISTIC MISSILES LAUNCHED BY HOUTHIS TOWARD KHAMIS MUSHAIT
@@ -100,3 +97,8 @@
 - 10/03 07:42 [financialjuice] North Korea's projectile was ballistic missile: South Korean military
 - 10/03 07:43 [financialjuice] North Korea launches ballistic missile from Wonsan: South Korean military
 - 10/03 07:43 [financialjuice] South Korean military heightens alert on additional launches: South Korea's defense ministry
+- 10/03 08:16 [financialjuice] Ukmto: incident reported 4 nautical miles east of Oman
+- 10/03 08:17 [financialjuice] UKMTO: master of crude oil tanker reports being hit by unknown projectile on port side
+- 10/03 08:17 [financialjuice] UKMTO: all crew reported safe with no environmental impact so far
+- 10/03 08:20 [financialjuice] David Robinson, leader on OpenAI's safety systems team, resigns from company - Business Insider
+- 10/03 08:23 [financialjuice] South Korea's Blue House: convenes national security council meeting on North Korea missile launch

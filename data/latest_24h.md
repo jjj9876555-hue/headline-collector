@@ -7,44 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-03 08:16 JST／対象: 10/02 08:16 〜 10/03 08:16 JST（時刻はすべて日本時間）
+生成: 2026-10-03 08:32 JST／対象: 10/02 08:32 〜 10/03 08:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 63 | 10/02 17:55 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
-| FirstSquawk | 238 | 10/02 08:16 | 10/03 05:02 | 44分（20:46→21:31） |
-| financialjuice | 252 | 10/02 08:20 | 10/03 07:43 | ⚠ 71分（05:20→06:32） |
+| FirstSquawk | 237 | 10/02 08:46 | 10/03 05:02 | 44分（20:46→21:31） |
+| financialjuice | 237 | 10/02 08:34 | 10/03 08:23 | ⚠ 71分（05:20→06:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 537 行（統合前 555 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 521 行（統合前 539 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 08:16 [FirstSquawk] SOUTH KOREA'S SEPTEMBER CONSUMER PRICE INDEX ROSE 2.9% YEAR-ON-YEAR, IN LINE WITH THE FORECAST AND EASING FROM 3.10%, AND WAS UP 0.3% MONTH-ON-MONTH, WITH CORE CPI UP 2.8% Y/Y, DOWN FROM 3.4% IN AUGUST - STATS OFFICE
-- 10/02 08:20 [financialjuice] Logan: higher yields may also indicate increased term premiums, lowering need to tighten monetary policy
-- 10/02 08:20 [financialjuice] Logan: Economic expansion strengthening, labor market well balanced
-- 10/02 08:20 [financialjuice] Logan: Fed policy is not restrictive, must be modestly tight
-- 10/02 08:20 [financialjuice] Logan: will monitor bond yield changes and evaluate their impact
-- 10/02 08:20 [financialjuice] Logan: we must revive price stability
-- 10/02 08:20 [financialjuice] Fed's Logan: policy rate must increase by additional 50 bps or more
-- 10/02 08:20 [financialjuice] Logan: increase in long-term yields signals market expects higher interest rates
-- 10/02 08:20 [financialjuice] Logan: at minimum, several more rate hikes would reverse last fall's reductions
-- 10/02 08:20 [financialjuice] Logan: without higher rates, inflation won’t reach Fed’s 2% target
-- 10/02 08:20 [financialjuice] Logan: Uncertainty remains on how high policy rate must rise to bring inflation to 2%
-- 10/02 08:30 [financialjuice] ❗ JAPANESE JOBS/APPLICANTS RATIO ACTUAL 1.18 (FORECAST 1.18, PREVIOUS 1.18) $MACRO
-- 10/02 08:30 [financialjuice] ❗ TOKYO CORE CPI YOY ACTUAL 2.7% (FORECAST 2.3%, PREVIOUS 1.8%) $MACRO
-- 10/02 08:30 [financialjuice] ‼ BREAKING: TOKYO CPI OVERALL ACTUAL 2.7% (FORECAST 2.5%, PREVIOUS 1.9%) $MACRO
-- 10/02 08:30 [financialjuice] Japan aug jobs-applicants ratio steady at 1.18 in july: govt
-- 10/02 08:30 [financialjuice] Tokyo area September core CPI rises 2.7% year/year: government poll 2.4%
-- 10/02 08:30 [financialjuice] Japan Aug seasonally adjusted jobless rate 2.5%: govt (Poll: 2.4%)
-- 10/02 08:30 [financialjuice] ❗ JAPANESE UNEMPLOYMENT RATE ACTUAL 2.5% (FORECAST 2.4%, PREVIOUS 2.4%) $MACRO
-- 10/02 08:30 [financialjuice] Tokyo area September CPI excluding fresh food and energy rises 3.0% yr/yr: govt
-- 10/02 08:30 [financialjuice] Tokyo area September overall inflation rises 2.7% yr/yr: govt
-- 10/02 08:32 [financialjuice] Tokyo core CPI rises at fastest rate since November 2025
 - 10/02 08:34 [financialjuice] Tokyo core-core CPI climbs at fastest rate since August 2025
 - 10/02 08:34 [financialjuice] Tokyo overall CPI climbs at fastest rate since November 2025
 - 10/02 08:46 [FirstSquawk] TOKYO'S SEPTEMBER CPI ROSE 2.7% YEAR-ON-YEAR, ABOVE THE 2.5% ESTIMATE AND UP FROM 1.9%, WITH CPI EX-FRESH FOOD UP 2.7% VERSUS 2.3% EXPECTED AND CPI EX-FRESH FOOD AND ENERGY UP 3.0% VERSUS 2.5% EXPECTED
@@ -561,3 +540,8 @@
 - 10/03 07:42 [financialjuice] North Korea's projectile was ballistic missile: South Korean military
 - 10/03 07:43 [financialjuice] North Korea launches ballistic missile from Wonsan: South Korean military
 - 10/03 07:43 [financialjuice] South Korean military heightens alert on additional launches: South Korea's defense ministry
+- 10/03 08:16 [financialjuice] Ukmto: incident reported 4 nautical miles east of Oman
+- 10/03 08:17 [financialjuice] UKMTO: master of crude oil tanker reports being hit by unknown projectile on port side
+- 10/03 08:17 [financialjuice] UKMTO: all crew reported safe with no environmental impact so far
+- 10/03 08:20 [financialjuice] David Robinson, leader on OpenAI's safety systems team, resigns from company - Business Insider
+- 10/03 08:23 [financialjuice] South Korea's Blue House: convenes national security council meeting on North Korea missile launch
