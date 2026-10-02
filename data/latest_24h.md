@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-02 13:19 JST／対象: 10/01 13:19 〜 10/02 13:19 JST（時刻はすべて日本時間）
+生成: 2026-10-02 13:37 JST／対象: 10/01 13:37 〜 10/02 13:37 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 93 | 10/01 16:25 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 324 | 10/01 13:24 | 10/02 13:12 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 393 | 10/01 13:31 | 10/02 13:04 | ⚠ 79分（06:41→08:00） |
+| FirstSquawk | 321 | 10/01 14:00 | 10/02 13:34 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 381 | 10/01 13:37 | 10/02 13:04 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 772 行（統合前 816 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 757 行（統合前 801 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 13:24 [FirstSquawk] Dollar advances to 101.62, highest level in two months
-- 10/01 13:31 [financialjuice] S. Korea president Lee appoints Ha Joon-Kyung as new policy adviser for economic growth - Blue House
-- 10/01 13:31 [financialjuice] India monthly econ report: India's economic outlook faces upside inflation risks from mounting climate, geopolitical and monetary pressures
-- 10/01 13:32 [financialjuice] India monthly economic report: geopolitical strains, high crude oil costs may increase imported inflation pressures
-- 10/01 13:32 [financialjuice] India monthly economic report: festive demand, rising input costs may increase short-term price pressure
-- 10/01 13:32 [financialjuice] Filed lawsuit challenging Trump administration's unlawful attempt to withhold congressionally appropriated federal funding
-- 10/01 13:33 [financialjuice] India monthly econ report: cenbank's open market operations may support balanced financial conditions, limit excessive demand-side overheating
-- 10/01 13:33 [financialjuice] India monthly econ report: proactive government supply-side and market measures may help contain upside risks, cushion temporary price pressure effects
-- 10/01 13:33 [financialjuice] India monthly econ report: external sector stays resilient on robust services exports, remittances, forex reserves and capital inflows
-- 10/01 13:34 [financialjuice] India monthly economic report: domestic economy maintains strength amid tough global conditions
-- 10/01 13:34 [FirstSquawk] China is Apple’s key battleground in the foldable phone market — WSJ
-- 10/01 13:34 [FirstSquawk] Euro could weaken further against dollar, chart indicates — WSJ
-- 10/01 13:35 [financialjuice] India monthly econ report: for now, investor interest in India is cautious but not low
-- 10/01 13:35 [financialjuice] India monthly econ report: concerns over trade ties with US, tariff challenges, crude oil supply issues weigh on India's appeal as investment destination
-- 10/01 13:35 [FirstSquawk] South Korea exports exceed $120 billion in September, boosted by AI boom — WSJ
-- 10/01 13:36 [financialjuice] India monthly economic report: trade ties with US remain unsettled after passage and presidential assent of Graham bill
 - 10/01 13:37 [financialjuice] India monthly economic report: expansion momentum persists amid increased global uncertainty
 - 10/01 13:37 [financialjuice] India monthly economic report: net foreign direct investment inflows projected to rise this financial year from last year
 - 10/01 13:54 [financialjuice] Bahrain aug m2 money supply rises 7.76% y/y: central bank
@@ -796,3 +780,4 @@
 - 10/02 13:07 [FirstSquawk] ZELENSKYY: PUTIN INSTRUCTED MILITARY LEADERS TO ABANDON RULES OF WAR - FT
 - 10/02 13:08 [FirstSquawk] UK MINISTERS REJECT UNION PRESSURE TO RESCUE SCOTTISH STEELMAKER - FT
 - 10/02 13:12 [FirstSquawk] JAPAN 20-YEAR JGB YIELD CLIMBS 1 BP TO 3.950%
+- 10/02 13:34 [FirstSquawk] GOLD SLIPS WITH U.S. DOLLAR, YIELDS SEEN AS KEY HURDLES TO FURTHER GAINS - WSJ
