@@ -7,41 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-03 07:25 JST／対象: 10/02 19:25 〜 10/03 07:25 JST（時刻はすべて日本時間）
+生成: 2026-10-03 07:45 JST／対象: 10/02 19:45 〜 10/03 07:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 45 | 10/02 19:26 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
-| FirstSquawk | 108 | 10/02 19:31 | 10/03 05:02 | 44分（20:46→21:31） |
-| financialjuice | 154 | 10/02 19:25 | 10/03 07:23 | ⚠ 71分（05:20→06:32） |
+| DeItaone | 43 | 10/02 19:59 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
+| FirstSquawk | 100 | 10/02 20:08 | 10/03 05:02 | 44分（20:46→21:31） |
+| financialjuice | 149 | 10/02 20:12 | 10/03 07:43 | ⚠ 71分（05:20→06:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 295 行（統合前 309 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 280 行（統合前 294 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 19:25 [financialjuice] EU Spokesperson: Any release is something that is organized by the International Energy Agency
-- 10/02 19:26 [financialjuice] EU Spokesperson: Next oil coordination group on the 15th of October, if the situation requires, we are ready to convene one earlier
-- 10/02 19:26 [DeItaone] *GERMANY SAYS WATCHING DIESEL SUPPLY SITUATION CLOSELY
-- 10/02 19:28 [financialjuice] German Government wants to stabilize diesel supply - Spokesman
-- 10/02 19:29 [financialjuice] EU Spokesperson: The EU is ready for collective action on possible stock release under IEA coordination
-- 10/02 19:29 [financialjuice] EU Spokesperson: A coordination meeting between the Commission and member states was held this morning, and further discussions might happen in the afternoon
-- 10/02 19:29 [financialjuice] The EU is ready for collective oil market action if the IEA sees it as necessary
-- 10/02 19:31 [FirstSquawk] FRANCE'S 10-YEAR YIELD PREMIUM INCREASES TO 152 BASIS POINTS, MARKING THE HIGHEST LEVEL SINCE 2011.
-- 10/02 19:31 [FirstSquawk] GERMAN GOVERNMENT SPOKESPERSON AFFIRMS US AS A TRUSTED FUEL SUPPLIER.
-- 10/02 19:31 [FirstSquawk] GERMAN GOVERNMENT IS MONITORING THE DIESEL SUPPLY SITUATION CAREFULLY.
-- 10/02 19:32 [FirstSquawk] EU SPOKESPERSON STRONGLY OPPOSES ANY BAN ON DIESEL FUEL.
-- 10/02 19:32 [FirstSquawk] EU SPOKESPERSON SAYS A BAN WOULD HURT EVERYONE AND DAMAGE TRUST IN THE U.S. AS A PARTNER.
-- 10/02 19:32 [FirstSquawk] EU SPOKESPERSON DECLINES TO COMMENT ON STOCK DISCUSSION AT THIS TIME.
-- 10/02 19:32 [FirstSquawk] EU SPOKESPERSON STATES THAT ANY RELEASE OF ENERGY IS COORDINATED BY THE INTERNATIONAL ENERGY AGENCY.
-- 10/02 19:32 [FirstSquawk] EU SPOKESPERSON ANNOUNCED THAT THE NEXT OIL COORDINATION GROUP MEETING IS SCHEDULED FOR OCTOBER 15TH AND CAN BE HELD EARLIER IF NEEDED.
-- 10/02 19:35 [DeItaone] Mapped: Gas Prices by U.S. State in 2026 ⛽
-- 10/02 19:42 [financialjuice] EU Spokesperson: Supplies are stable for the time being
-- 10/02 19:42 [financialjuice] EU Spokesperson: We reject any ban on diesel.
 - 10/02 19:59 [DeItaone] FRENCH-GERMAN BOND SPREAD WIDENS TO 150 BASIS POINTS France’s 10-year yield premium over Germany has widened to 1.5 percentage points, after already reaching its highest level since 2012. RBC BlueBay’s Mike Bell says the spread could reach …
 - 10/02 20:02 [DeItaone] EU “FULLY REJECTS” POTENTIAL U.S. DIESEL EXPORT BAN The European Union says it “fully rejects” any potential U.S. ban on diesel exports, warning such a move would undermine trust in Washington as a reliable partner. At the same time, Brusse…
 - 10/02 20:08 [FirstSquawk] EU PREPARES FOR JOINT OIL MARKET MOVES IF IEA DEEMS IT NEEDED.
@@ -319,3 +301,6 @@
 - 10/03 07:04 [financialjuice] IMF: board greenlit 36-month deal under the EFF for Bolivia, with access to SDR 1.369 billion, or 570% of quota, about $1.9 billion
 - 10/03 07:10 [financialjuice] Saudi civil defense: shrapnel from intercepted ballistic missile in Ahad Rafidah governorate in Asir injures one person - state news agency
 - 10/03 07:23 [financialjuice] OpenAI's Altman: Cerebras is a close partner with deep engagement after partnership speculation
+- 10/03 07:42 [financialjuice] North Korea's projectile was ballistic missile: South Korean military
+- 10/03 07:43 [financialjuice] North Korea launches ballistic missile from Wonsan: South Korean military
+- 10/03 07:43 [financialjuice] South Korean military heightens alert on additional launches: South Korea's defense ministry

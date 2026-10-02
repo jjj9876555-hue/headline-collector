@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-03 07:25 JST／対象: 10/03 01:25 〜 10/03 07:25 JST（時刻はすべて日本時間）
+生成: 2026-10-03 07:45 JST／対象: 10/03 01:45 〜 10/03 07:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 10/03 02:33 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
-| FirstSquawk | 32 | 10/03 01:41 | 10/03 05:02 | 34分（02:50→03:25） |
-| financialjuice | 62 | 10/03 01:42 | 10/03 07:23 | ⚠ 71分（05:20→06:32） |
+| FirstSquawk | 30 | 10/03 01:48 | 10/03 05:02 | 34分（02:50→03:25） |
+| financialjuice | 63 | 10/03 01:46 | 10/03 07:43 | ⚠ 71分（05:20→06:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 94 行（統合前 99 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 94 行（統合前 98 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/03 01:41 [FirstSquawk] IEA'S BIROL: OIL PRICES DROPPED AT LEAST $5 AFTER OUR ANNOUNCEMENT OF RELEASING OIL AND DIESEL FROM OUR RESERVES INTO MARKET IN COMING DAYS, WEEKS
-- 10/03 01:42 [FirstSquawk/financialjuice] IEA'S BIROL: WE WILL FINALISE DISTRIBUTION ONCE WE HAVE CONSULTED WITH MEMBER STATES, WE HAVE ENOUGH RESERVES AND CAN RELEASE MORE IF NECESSARY
-- 10/03 01:42 [financialjuice] IEA's Birol: Oil prices dropped at least $5 after our announcement of releasing oil and diesel from our reserves into the market in the coming days and weeks
 - 10/03 01:46 [financialjuice] Italy to ask EU for deficit leeway worth 0.6% of GDP in 2027
 - 10/03 01:47 [financialjuice] Italy raises 2026 GDP growth forecast to 0.8% from 0.6% forecast made in April
 - 10/03 01:48 [financialjuice] Italy sees 2026 deficit below 3% of GDP in 2026
@@ -118,3 +115,6 @@
 - 10/03 07:04 [financialjuice] IMF: board greenlit 36-month deal under the EFF for Bolivia, with access to SDR 1.369 billion, or 570% of quota, about $1.9 billion
 - 10/03 07:10 [financialjuice] Saudi civil defense: shrapnel from intercepted ballistic missile in Ahad Rafidah governorate in Asir injures one person - state news agency
 - 10/03 07:23 [financialjuice] OpenAI's Altman: Cerebras is a close partner with deep engagement after partnership speculation
+- 10/03 07:42 [financialjuice] North Korea's projectile was ballistic missile: South Korean military
+- 10/03 07:43 [financialjuice] North Korea launches ballistic missile from Wonsan: South Korean military
+- 10/03 07:43 [financialjuice] South Korean military heightens alert on additional launches: South Korea's defense ministry
