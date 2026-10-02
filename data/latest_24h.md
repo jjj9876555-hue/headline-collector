@@ -7,44 +7,30 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-03 04:06 JST／対象: 10/02 04:06 〜 10/03 04:06 JST（時刻はすべて日本時間）
+生成: 2026-10-03 04:28 JST／対象: 10/02 04:28 〜 10/03 04:28 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 61 | 10/02 05:19 | 10/03 02:33 | ⚠ 755分（05:19→17:55） |
-| FirstSquawk | 264 | 10/02 04:07 | 10/03 04:06 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 267 | 10/02 04:07 | 10/03 04:04 | ⚠ 79分（06:41→08:00） |
+| FirstSquawk | 266 | 10/02 04:38 | 10/03 04:24 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 263 | 10/02 04:28 | 10/03 04:27 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 568 行（統合前 593 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 567 行（統合前 591 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 04:07 [financialjuice] BoC's Senior Dep. Gov. Rogers: Canada is on the right track to boosting housing affordability, but has a way to go and needs more time.
-- 10/02 04:07 [financialjuice] BoC's Senior Dep. Gov. Rogers: Targeting house prices directly with interest rates is not the answer and would risk imposing costs across the economy.
-- 10/02 04:07 [financialjuice] BoC's Senior Dep. Gov. Rogers: Taking mortgage costs out of CPI would remove a real cost that many households are paying.
-- 10/02 04:07 [financialjuice] BoC's Senior Dep. Gov. Rogers: Falling house prices can cut household wealth, weaken spending, and slow sales and construction.
-- 10/02 04:07 [FirstSquawk] FED'S BOWMAN TOUTS THE BENEFITS OF THE FED CAPITAL PLAN TIED TO TREASURIES.
-- 10/02 04:07 [FirstSquawk] SAUDI-LED COALITION INTERCEPTED AND DESTROYED FOUR DRONES LAUNCHED BY YEMEN'S HOUTHIS TOWARD KHAMIS MUSHAIT - STATEMENT.
-- 10/02 04:18 [financialjuice] USTR Greer: The US is on track for record goods trade exports this year.
-- 10/02 04:18 [financialjuice] LIVE: Trade Representative Jamieson Greer holds a G20 press conference
-- 10/02 04:19 [financialjuice] USTR Greer: Trump's trade program is trending in the right direction.
-- 10/02 04:23 [financialjuice] Friday FX Options Expiries
-- 10/02 04:24 [financialjuice] USTR Greer: G20 trade ministers discussed 'weaponization' of agriculture and farm inputs.
-- 10/02 04:25 [financialjuice] USTR Greer: G20 talks covered forced labor and excess capacity concerns.
-- 10/02 04:26 [financialjuice] US Treasury Secretary Bessent: Europe should accelerate delivery on commitments.
-- 10/02 04:26 [financialjuice] US Treasury Secretary Bessent: Europe should make additional supplies available.
-- 10/02 04:27 [financialjuice/FirstSquawk] No talks about Iran's nuclear programme took place during recent meetings with mediators - Iran's Official News Agency citing a source with knowledge.
 - 10/02 04:28 [financialjuice] Gulf of Hormuz Waterway Security Authority: Three Emirati Tankers Hit Were on the PGSA Non-Compliance List - Iranian Media
 - 10/02 04:29 [financialjuice/FirstSquawk] Iran's PGSA: In recent days, several tankers have been struck in the Strait of Hormuz, and the last three of these were either owned or chartered by the United Arab Emirates.
 - 10/02 04:31 [financialjuice/FirstSquawk] ❗ Local sources: Supertanker with a capacity of 2.5 million barrels, illegally transiting the Strait of Hormuz, struck approximately 8 kilometers off the coast of Oman, currently on fire - Mehr News
 - 10/02 04:33 [financialjuice] USTR Greer: Engagement on excess capacity was quite constructive
 - 10/02 04:36 [financialjuice] Fed's Cook: Supply shocks have had surprisingly persistent effects, becoming more salient for policy
 - 10/02 04:37 [financialjuice] Fed's Cook: Possible that the optimal policy response to a supply shock could be sector-dependent
+- 10/02 04:38 [FirstSquawk] NO TALKS ABOUT IRAN'S NUCLEAR PROGRAMME TOOK PLACE DURING RECENT MEETINGS WITH MEDIATORS - IRAN'S OFFICIAL NEWS AGENCY CITING A SOURCE WITH KNOWLEDGE.
 - 10/02 04:39 [FirstSquawk] USTR GREER SAYS HE HAD A CONSTRUCTIVE CONVERSATION WITH INDIAN TRADE MINISTER GOYAL AS THEY TRY TO FINISH A TRADE DEAL, ADDING THAT AN INDIA-U.S. TRADE DEAL IS NOT IMMINENT AND THAT STICKING POINTS HAVE BEEN IDENTIFIED
 - 10/02 04:39 [financialjuice] Fed's cook: We have to be attentive to consumer confidence.
 - 10/02 04:39 [financialjuice] Fed's Cook: Need to make sure inflation expectations don't become unanchored.
@@ -592,3 +578,16 @@
 - 10/03 04:04 [FirstSquawk] HACKERS INVADED THE PROPULSION SYSTEM OF AN OIL TANKER HEADING TO THE U.S.
 - 10/03 04:04 [financialjuice] OpenAI hires ex Trump AI official Lind - The Information
 - 10/03 04:06 [FirstSquawk] MORE REGULATORY PROPOSALS FOR CRYPTO ON THE HORIZON: SEC ATKINS
+- 10/03 04:06 [FirstSquawk] FED'S GOOLSBEE SAYS INFLATION GOING WRONG WAY AND STALLED THERE
+- 10/03 04:07 [financialjuice] Fed's Goolsbee: Inflation going the wrong way and stalled there - Fox Business
+- 10/03 04:07 [financialjuice] Council of Economic Advisers Chair Phelan: Inflation is coming down sufficiently fast
+- 10/03 04:08 [financialjuice] Council of Economic Advisers Chair Phelan ends remarks on Bloomberg TV
+- 10/03 04:08 [financialjuice] Fed's Goolsbee: Low progress on services inflation could be a sign of spread
+- 10/03 04:11 [FirstSquawk] GOOLSBEE: LOW PROGRESS ON SERVICES INFL COULD BE SIGN OF SPREAD
+- 10/03 04:14 [financialjuice] US community Bank Organization sues the Office of the Comptroller of the currency over granting trust charters to Crypto firms - Statement
+- 10/03 04:14 [FirstSquawk] BAYER TO INVEST $2.2 BILLION IN NEW US DRUG PLANT IN OHIO
+- 10/03 04:14 [financialjuice] Independent community Bankers of America: Granting charters to such firms exceeds regulatory authority
+- 10/03 04:15 [financialjuice] US to offer $4 billion loan for vistra to boost nuclear output
+- 10/03 04:22 [financialjuice] Monday FX Options Expiries
+- 10/03 04:24 [FirstSquawk] ELI LILLY'S JAYPIRCA GETS FDA OK FOR PREVIOUSLY UNTREATED CLL/SLL
+- 10/03 04:27 [financialjuice] Week Ahead: Economic Indicators 5th – 9th October (US)

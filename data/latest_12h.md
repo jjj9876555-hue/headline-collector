@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-03 04:06 JST／対象: 10/02 16:06 〜 10/03 04:06 JST（時刻はすべて日本時間）
+生成: 2026-10-03 04:28 JST／対象: 10/02 16:28 〜 10/03 04:28 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 60 | 10/02 17:55 | 10/03 02:33 | ⚠ 124分（00:28→02:33） |
-| FirstSquawk | 128 | 10/02 16:08 | 10/03 04:06 | 44分（20:46→21:31） |
-| financialjuice | 159 | 10/02 16:30 | 10/03 04:04 | ⚠ 49分（18:00→18:49） |
+| FirstSquawk | 127 | 10/02 16:32 | 10/03 04:24 | 44分（20:46→21:31） |
+| financialjuice | 168 | 10/02 16:30 | 10/03 04:27 | ⚠ 49分（18:00→18:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 335 行（統合前 348 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 343 行（統合前 356 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 16:08 [FirstSquawk] EU COMMISSIONER JORGENSEN: WE ARE DISCUSSING WITH ALL MEMBERS OF THE IEA, NOT ONLY WITH THE US, WHEN IT IS TIME TO RELEASE DIESEL
-- 10/02 16:24 [FirstSquawk] RUSSIA'S A7 HAS NEVER CARRIED OUT TRANSACTIONS BENEFITING IRAN, ACCORDING TO TASS.
-- 10/02 16:25 [FirstSquawk] JP MORGAN LOWERS NIKE'S TARGET PRICE FROM $40 TO $33.
-- 10/02 16:25 [FirstSquawk] ENI ANNOUNCED A 20% PRICE CUT ON DIESEL AND GASOLINE FOR AGRICULTURAL AND FISHING SECTORS STARTING TODAY UNTIL THE END OF OCTOBER, WITH POTENTIAL EXTENSION THROUGH YEAR-END.
-- 10/02 16:25 [FirstSquawk] UKRAINE'S FARM MINISTER SAYS WINTER WHEAT SOWING FOR 2027 HARVEST MAY DROP BY 17%.
 - 10/02 16:30 [financialjuice] ECB's Rehn: Higher energy prices bring us closer to the ECB's adverse scenario for inflation
 - 10/02 16:30 [financialjuice] ECB's Rehn: ECB projections subject to very high, pervasive uncertainty
 - 10/02 16:30 [financialjuice] ECB's Rehn: Rise in long-term interest rates will slow growth and reduce the pass-through of energy shock to prices, wages
@@ -359,3 +354,16 @@
 - 10/03 04:04 [FirstSquawk] HACKERS INVADED THE PROPULSION SYSTEM OF AN OIL TANKER HEADING TO THE U.S.
 - 10/03 04:04 [financialjuice] OpenAI hires ex Trump AI official Lind - The Information
 - 10/03 04:06 [FirstSquawk] MORE REGULATORY PROPOSALS FOR CRYPTO ON THE HORIZON: SEC ATKINS
+- 10/03 04:06 [FirstSquawk] FED'S GOOLSBEE SAYS INFLATION GOING WRONG WAY AND STALLED THERE
+- 10/03 04:07 [financialjuice] Fed's Goolsbee: Inflation going the wrong way and stalled there - Fox Business
+- 10/03 04:07 [financialjuice] Council of Economic Advisers Chair Phelan: Inflation is coming down sufficiently fast
+- 10/03 04:08 [financialjuice] Council of Economic Advisers Chair Phelan ends remarks on Bloomberg TV
+- 10/03 04:08 [financialjuice] Fed's Goolsbee: Low progress on services inflation could be a sign of spread
+- 10/03 04:11 [FirstSquawk] GOOLSBEE: LOW PROGRESS ON SERVICES INFL COULD BE SIGN OF SPREAD
+- 10/03 04:14 [financialjuice] US community Bank Organization sues the Office of the Comptroller of the currency over granting trust charters to Crypto firms - Statement
+- 10/03 04:14 [FirstSquawk] BAYER TO INVEST $2.2 BILLION IN NEW US DRUG PLANT IN OHIO
+- 10/03 04:14 [financialjuice] Independent community Bankers of America: Granting charters to such firms exceeds regulatory authority
+- 10/03 04:15 [financialjuice] US to offer $4 billion loan for vistra to boost nuclear output
+- 10/03 04:22 [financialjuice] Monday FX Options Expiries
+- 10/03 04:24 [FirstSquawk] ELI LILLY'S JAYPIRCA GETS FDA OK FOR PREVIOUSLY UNTREATED CLL/SLL
+- 10/03 04:27 [financialjuice] Week Ahead: Economic Indicators 5th – 9th October (US)
