@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-02 14:53 JST／対象: 10/01 14:53 〜 10/02 14:53 JST（時刻はすべて日本時間）
+生成: 2026-10-02 15:23 JST／対象: 10/01 15:23 〜 10/02 15:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 93 | 10/01 16:25 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 319 | 10/01 15:00 | 10/02 14:50 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 380 | 10/01 15:00 | 10/02 14:43 | ⚠ 79分（06:41→08:00） |
+| FirstSquawk | 316 | 10/01 15:23 | 10/02 15:21 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 378 | 10/01 15:30 | 10/02 14:43 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 754 行（統合前 798 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 749 行（統合前 793 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 15:00 [financialjuice] UK NATIONWIDE HOUSE PRICE YOY ACTUAL 0.8% (FORECAST -, PREVIOUS 1.6%) $MACRO
-- 10/01 15:00 [financialjuice] UK NATIONWIDE HOUSE PRICE MOM ACTUAL -0.2% (FORECAST -, PREVIOUS 0.2%) $MACRO
-- 10/01 15:00 [FirstSquawk] UK (SEP) NATIONWIDE HOUSE PX MOM ACTUAL: -0.2% VS 0.2% PREVIOUS;EST 0.0%
-- 10/01 15:00 [FirstSquawk] UK (SEP) NATIONWIDE HOUSE PX NSA YOY ACTUAL: 0.8% VS 1.6% PREVIOUS;EST 1.3%
-- 10/01 15:15 [FirstSquawk] Chinese automakers eye 12 million global sales in 2026 amid surging EV demand — SCMP
-- 10/01 15:22 [FirstSquawk] Japan’s major manufacturers’ confidence improves for sixth consecutive quarter, BOJ says
 - 10/01 15:23 [FirstSquawk] Australia’s ASX 200 drops 2% to 8,614.40 at close
 - 10/01 15:26 [FirstSquawk] Kia reports September global sales of 281,984, up 5.4% y/y
 - 10/01 15:27 [FirstSquawk] Iraq prime minister says legislation for Popular Mobilization Forces will proceed
@@ -778,3 +772,4 @@
 - 10/02 14:43 [FirstSquawk] FRENCH FINANCE MINISTER: BUDGET WILL HELP LOWER HIGH INTEREST RATES
 - 10/02 14:47 [FirstSquawk] JAPAN 10-YEAR JGB YIELD REBOUNDS TO 3.100%, UP 0.5 BP
 - 10/02 14:50 [FirstSquawk] KREMLIN SAYS RUSSIA WILL CONTINUE EFFORTS TO STOP WEAPONS, FUEL SUPPLIES TO UKRAINE VIA BLACK SEA
+- 10/02 15:21 [FirstSquawk] JP MORGAN CUTS BANK OF AMERICA TARGET PRICE TO $62 FROM $68
