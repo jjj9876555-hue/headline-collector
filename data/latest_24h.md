@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-02 16:07 JST／対象: 10/01 16:07 〜 10/02 16:07 JST（時刻はすべて日本時間）
+生成: 2026-10-02 16:29 JST／対象: 10/01 16:29 〜 10/02 16:29 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 93 | 10/01 16:25 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 312 | 10/01 16:08 | 10/02 16:04 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 376 | 10/01 16:09 | 10/02 16:03 | ⚠ 79分（06:41→08:00） |
+| DeItaone | 92 | 10/01 16:48 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
+| FirstSquawk | 312 | 10/01 16:40 | 10/02 16:25 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 373 | 10/01 16:30 | 10/02 16:03 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 743 行（統合前 787 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 738 行（統合前 783 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 16:08 [FirstSquawk] UAE PROSECUTOR GENERAL INITIATES INQUIRY INTO FLYDUBAI FLIGHT INCIDENT, CONSIDERING POSSIBLE CONNECTION TO 'TERRORIST ACTIVITY,' ACCORDING TO STATE NEWS AGENCY.
-- 10/01 16:09 [FirstSquawk] SOUTH KOREA'S INDUSTRY MINISTER OBJECTED TO U.S. COMMERCE SECRETARY LUTNICK REGARDING THE ALASKA LNG PROJECT ANNOUNCEMENT - YONHAP.
-- 10/01 16:09 [FirstSquawk] SOUTH KOREA'S INDUSTRY MINISTER KIM STATED THAT BOTH THE U.S. AND SOUTH KOREA AGREED THE ALASKA PROJECT WILL NOT MOVE FORWARD UNLESS IT IS ECONOMICALLY VIABLE - YONHAP.
-- 10/01 16:09 [financialjuice] South Korea Industry Minister Kim: The US and South Korea share the understanding that the Alaska project will not be pursued if it is not commercially feasible - Yonhap
-- 10/01 16:09 [FirstSquawk] SOUTH KOREA'S INDUSTRY MINISTER SAYS WHITE HOUSE'S ANNOUNCEMENT WITH SPECIFIC NUMBERS OR CONFIRMING PROJECT PROGRESS EXCEEDS INITIAL AGREEMENTS - MEDIA REPORTS.
-- 10/01 16:15 [financialjuice] SPANISH MANUFACTURING PMI ACTUAL 51 (FORECAST 50.2, PREVIOUS 49.5) $MACRO
-- 10/01 16:16 [financialjuice] Spanish Manufacturing PMI September 2026 Report
-- 10/01 16:24 [FirstSquawk] US 10-YEAR TREASURY YIELD JUMPS TO 5.33%, THE HIGHEST LEVEL SINCE 2002.
-- 10/01 16:25 [DeItaone] *US 10-YEAR YIELD RISES TO 5.33%, HIGHEST SINCE 2002
 - 10/01 16:30 [financialjuice] Japan PM Takaichi: Will appropriately control the total annual issuance of government bonds, taking into account both initial and supplementary budgets
 - 10/01 16:30 [financialjuice] SWISS MANUFACTURING PMI ACTUAL 55.3 (FORECAST 56.3, PREVIOUS 57.1) $MACRO
 - 10/01 16:33 [financialjuice] Japan PM Takaichi: Forex market determined by various factors.
@@ -765,5 +756,9 @@
 - 10/02 16:01 [FirstSquawk] SPAIN UNEMPLOYMENT CHANGE SEP: 23.6K (PREV 44.4K)
 - 10/02 16:01 [FirstSquawk] SPAIN EMPLOYMENT NET CHANGE (M/M): 108.8K (PREV 83.8K)
 - 10/02 16:01 [financialjuice] Currency Strength Chart: Strongest: CHF, JPY, NZD, EUR, GBP, AUD, CAD, USD - Weakest
-- 10/02 16:03 [financialjuice] EU Commissioner Jorgensen: We are discussing with all members of the IEA, not only with the US, when it is time to release diesel
+- 10/02 16:03 [financialjuice/FirstSquawk] EU Commissioner Jorgensen: We are discussing with all members of the IEA, not only with the US, when it is time to release diesel
 - 10/02 16:04 [FirstSquawk] BRITAIN'S FTSE 100 UP 0.18% || FRANCE'S CAC 40 UP 0.13% || SPAIN'S IBEX UP 0.23% || GERMANY'S DAX UP 0.2%
+- 10/02 16:24 [FirstSquawk] RUSSIA'S A7 HAS NEVER CARRIED OUT TRANSACTIONS BENEFITING IRAN, ACCORDING TO TASS.
+- 10/02 16:25 [FirstSquawk] JP MORGAN LOWERS NIKE'S TARGET PRICE FROM $40 TO $33.
+- 10/02 16:25 [FirstSquawk] ENI ANNOUNCED A 20% PRICE CUT ON DIESEL AND GASOLINE FOR AGRICULTURAL AND FISHING SECTORS STARTING TODAY UNTIL THE END OF OCTOBER, WITH POTENTIAL EXTENSION THROUGH YEAR-END.
+- 10/02 16:25 [FirstSquawk] UKRAINE'S FARM MINISTER SAYS WINTER WHEAT SOWING FOR 2027 HARVEST MAY DROP BY 17%.

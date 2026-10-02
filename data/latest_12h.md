@@ -7,41 +7,31 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-02 16:07 JST／対象: 10/02 04:07 〜 10/02 16:07 JST（時刻はすべて日本時間）
+生成: 2026-10-02 16:29 JST／対象: 10/02 04:29 〜 10/02 16:29 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 10/02 05:19 | 10/02 05:19 | - |
-| FirstSquawk | 135 | 10/02 04:07 | 10/02 16:04 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 104 | 10/02 04:18 | 10/02 16:03 | ⚠ 79分（06:41→08:00） |
+| FirstSquawk | 139 | 10/02 04:38 | 10/02 16:25 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 93 | 10/02 04:31 | 10/02 16:03 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 229 行（統合前 240 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 223 行（統合前 233 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 04:07 [FirstSquawk] SAUDI-LED COALITION INTERCEPTED AND DESTROYED FOUR DRONES LAUNCHED BY YEMEN'S HOUTHIS TOWARD KHAMIS MUSHAIT - STATEMENT.
-- 10/02 04:18 [financialjuice] USTR Greer: The US is on track for record goods trade exports this year.
-- 10/02 04:18 [financialjuice] LIVE: Trade Representative Jamieson Greer holds a G20 press conference
-- 10/02 04:19 [financialjuice] USTR Greer: Trump's trade program is trending in the right direction.
-- 10/02 04:23 [financialjuice] Friday FX Options Expiries
-- 10/02 04:24 [financialjuice] USTR Greer: G20 trade ministers discussed 'weaponization' of agriculture and farm inputs.
-- 10/02 04:25 [financialjuice] USTR Greer: G20 talks covered forced labor and excess capacity concerns.
-- 10/02 04:26 [financialjuice] US Treasury Secretary Bessent: Europe should accelerate delivery on commitments.
-- 10/02 04:26 [financialjuice] US Treasury Secretary Bessent: Europe should make additional supplies available.
-- 10/02 04:27 [financialjuice/FirstSquawk] No talks about Iran's nuclear programme took place during recent meetings with mediators - Iran's Official News Agency citing a source with knowledge.
-- 10/02 04:28 [financialjuice] Gulf of Hormuz Waterway Security Authority: Three Emirati Tankers Hit Were on the PGSA Non-Compliance List - Iranian Media
-- 10/02 04:29 [financialjuice/FirstSquawk] Iran's PGSA: In recent days, several tankers have been struck in the Strait of Hormuz, and the last three of these were either owned or chartered by the United Arab Emirates.
 - 10/02 04:31 [financialjuice/FirstSquawk] ❗ Local sources: Supertanker with a capacity of 2.5 million barrels, illegally transiting the Strait of Hormuz, struck approximately 8 kilometers off the coast of Oman, currently on fire - Mehr News
 - 10/02 04:33 [financialjuice] USTR Greer: Engagement on excess capacity was quite constructive
 - 10/02 04:36 [financialjuice] Fed's Cook: Supply shocks have had surprisingly persistent effects, becoming more salient for policy
 - 10/02 04:37 [financialjuice] Fed's Cook: Possible that the optimal policy response to a supply shock could be sector-dependent
+- 10/02 04:38 [FirstSquawk] NO TALKS ABOUT IRAN'S NUCLEAR PROGRAMME TOOK PLACE DURING RECENT MEETINGS WITH MEDIATORS - IRAN'S OFFICIAL NEWS AGENCY CITING A SOURCE WITH KNOWLEDGE.
 - 10/02 04:39 [FirstSquawk] USTR GREER SAYS HE HAD A CONSTRUCTIVE CONVERSATION WITH INDIAN TRADE MINISTER GOYAL AS THEY TRY TO FINISH A TRADE DEAL, ADDING THAT AN INDIA-U.S. TRADE DEAL IS NOT IMMINENT AND THAT STICKING POINTS HAVE BEEN IDENTIFIED
 - 10/02 04:39 [financialjuice] Fed's cook: We have to be attentive to consumer confidence.
+- 10/02 04:39 [FirstSquawk] IRAN'S PGSA: IN RECENT DAYS, SEVERAL TANKERS HAVE BEEN STRUCK IN THE STRAIT OF HORMUZ, AND THE LAST THREE OF THESE WERE EITHER OWNED OR CHARTERED BY THE UNITED ARAB EMIRATES.
 - 10/02 04:39 [financialjuice] Fed's Cook: Need to make sure inflation expectations don't become unanchored.
 - 10/02 04:40 [FirstSquawk] US TREASURY SECRETARY BESSENT: EUROPE SHOULD MAKE ADDITIONAL SUPPLIES AVAILABLE & ACCELERATE DELIVERY ON EXISTING COMMITMENTS
 - 10/02 04:40 [FirstSquawk] USTR GREER SAYS TRUMP'S TRADE PROGRAM IS 'TRENDING IN THE RIGHT DIRECTION' AND THAT THE U.S. IS ON TRACK FOR RECORD GOODS TRADE EXPORTS THIS YEAR, CALLING THE ENGAGEMENT ON EXCESS CAPACITY 'QUITE CONSTRUCTIVE'.
@@ -251,5 +241,9 @@
 - 10/02 16:01 [FirstSquawk] SPAIN UNEMPLOYMENT CHANGE SEP: 23.6K (PREV 44.4K)
 - 10/02 16:01 [FirstSquawk] SPAIN EMPLOYMENT NET CHANGE (M/M): 108.8K (PREV 83.8K)
 - 10/02 16:01 [financialjuice] Currency Strength Chart: Strongest: CHF, JPY, NZD, EUR, GBP, AUD, CAD, USD - Weakest
-- 10/02 16:03 [financialjuice] EU Commissioner Jorgensen: We are discussing with all members of the IEA, not only with the US, when it is time to release diesel
+- 10/02 16:03 [financialjuice/FirstSquawk] EU Commissioner Jorgensen: We are discussing with all members of the IEA, not only with the US, when it is time to release diesel
 - 10/02 16:04 [FirstSquawk] BRITAIN'S FTSE 100 UP 0.18% || FRANCE'S CAC 40 UP 0.13% || SPAIN'S IBEX UP 0.23% || GERMANY'S DAX UP 0.2%
+- 10/02 16:24 [FirstSquawk] RUSSIA'S A7 HAS NEVER CARRIED OUT TRANSACTIONS BENEFITING IRAN, ACCORDING TO TASS.
+- 10/02 16:25 [FirstSquawk] JP MORGAN LOWERS NIKE'S TARGET PRICE FROM $40 TO $33.
+- 10/02 16:25 [FirstSquawk] ENI ANNOUNCED A 20% PRICE CUT ON DIESEL AND GASOLINE FOR AGRICULTURAL AND FISHING SECTORS STARTING TODAY UNTIL THE END OF OCTOBER, WITH POTENTIAL EXTENSION THROUGH YEAR-END.
+- 10/02 16:25 [FirstSquawk] UKRAINE'S FARM MINISTER SAYS WINTER WHEAT SOWING FOR 2027 HARVEST MAY DROP BY 17%.
