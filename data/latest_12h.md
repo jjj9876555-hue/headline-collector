@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-03 08:32 JST／対象: 10/02 20:32 〜 10/03 08:32 JST（時刻はすべて日本時間）
+生成: 2026-10-03 08:46 JST／対象: 10/02 20:46 〜 10/03 08:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 39 | 10/02 20:33 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
-| FirstSquawk | 94 | 10/02 20:35 | 10/03 05:02 | 44分（20:46→21:31） |
-| financialjuice | 147 | 10/02 20:33 | 10/03 08:23 | ⚠ 71分（05:20→06:32） |
+| DeItaone | 36 | 10/02 20:50 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
+| FirstSquawk | 92 | 10/02 20:46 | 10/03 05:02 | 44分（20:46→21:31） |
+| financialjuice | 142 | 10/02 20:50 | 10/03 08:23 | ⚠ 71分（05:20→06:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 268 行（統合前 282 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 259 行（統合前 272 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 20:33 [financialjuice/DeItaone] Saudi Arabia pumping close to 6m b/d oil on East-West pipeline.
-- 10/02 20:33 [financialjuice] Saudi Arabia has about 4.5m b/d pipeline flow available for export
-- 10/02 20:35 [financialjuice] Standard Chartered expects the ECB to deliver a 25 bps rate hike in December 2026 vs. the prior forecast of unchanged rates
-- 10/02 20:35 [FirstSquawk] SAUDI ARABIA IS NEARLY PRODUCING 6 MILLION BARRELS PER DAY OF OIL ON THE EAST-WEST PIPELINE.
-- 10/02 20:35 [FirstSquawk] SAUDI ARABIA HAS AROUND 4.5 MILLION BARRELS PER DAY OF PIPELINE CAPACITY READY FOR EXPORT.
-- 10/02 20:37 [DeItaone] *SAUDI HAS ABOUT 4.5M B/D PIPELINE FLOW AVAILABLE FOR EXPORT
-- 10/02 20:38 [financialjuice] Standard Chartered expects the ECB to deliver a 25 bp rate cut in Q4 2027 vs. the prior forecast of Q3
-- 10/02 20:46 [financialjuice] Pakistan Foreign Minister: A meeting of the strategic political defence committee under the Makkah Accord to meet in Riyadh soon
-- 10/02 20:46 [DeItaone] $NVDA - MORGAN STANLEY MAKES NVIDIA ITS TOP SEMICONDUCTOR PICK Morgan Stanley reinstated Nvidia as its top semiconductor pick, citing strong positioning and an attractive valuation. Nvidia trades at roughly 15x Morgan Stanley’s FY2028 earni…
 - 10/02 20:46 [FirstSquawk] PAKISTAN'S FOREIGN MINISTER ANNOUNCED A MEETING OF THE STRATEGIC POLITICAL DEFENCE COMMITTEE UNDER THE MAKKAH ACCORD WILL TAKE PLACE IN RIYADH SOON.
 - 10/02 20:50 [DeItaone/financialjuice] FRANCE'S MACRON TO CHAIR A VIDEOCONFERENCE OF G7 LEADERS TODAY AT 2:30 P.M. FOCUSED ON THE GLOBAL ENERGY SITUATION - ELYSEE
 - 10/02 20:52 [financialjuice] The EU presidency will convene a meeting of coreper i at 15:30 to discuss the global energy situation

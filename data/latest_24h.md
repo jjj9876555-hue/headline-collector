@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-03 08:32 JST／対象: 10/02 08:32 〜 10/03 08:32 JST（時刻はすべて日本時間）
+生成: 2026-10-03 08:46 JST／対象: 10/02 08:46 〜 10/03 08:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 63 | 10/02 17:55 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
-| FirstSquawk | 237 | 10/02 08:46 | 10/03 05:02 | 44分（20:46→21:31） |
-| financialjuice | 237 | 10/02 08:34 | 10/03 08:23 | ⚠ 71分（05:20→06:32） |
+| FirstSquawk | 235 | 10/02 08:47 | 10/03 05:02 | 44分（20:46→21:31） |
+| financialjuice | 235 | 10/02 08:50 | 10/03 08:23 | ⚠ 71分（05:20→06:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 521 行（統合前 539 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 517 行（統合前 535 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 08:34 [financialjuice] Tokyo core-core CPI climbs at fastest rate since August 2025
-- 10/02 08:34 [financialjuice] Tokyo overall CPI climbs at fastest rate since November 2025
-- 10/02 08:46 [FirstSquawk] TOKYO'S SEPTEMBER CPI ROSE 2.7% YEAR-ON-YEAR, ABOVE THE 2.5% ESTIMATE AND UP FROM 1.9%, WITH CPI EX-FRESH FOOD UP 2.7% VERSUS 2.3% EXPECTED AND CPI EX-FRESH FOOD AND ENERGY UP 3.0% VERSUS 2.5% EXPECTED
-- 10/02 08:46 [FirstSquawk] JAPAN MARKETS: 10-YEAR JGB FUTURES RISE 0.29 POINT; NIKKEI FUTURES FALL 0.9% IN EARLY TRADE
 - 10/02 08:47 [FirstSquawk] CHEVRON: MECHANICAL ISSUE AT EL SEGUNDO REFINERY DOES NOT AFFECT PETROLEUM PRODUCT SUPPLIES TO REGIONAL CUSTOMERS
 - 10/02 08:48 [FirstSquawk] FED'S LOGAN SAYS THE FOMC SHOULD RAISE RATES AS THE POLICY STANCE HAS BEEN 'OFFSIDE', CALLING FOR THE POLICY RATE TO RISE BY AN ADDITIONAL 50 BASIS POINTS OR MORE TO RETURN INFLATION TO 2%, SAYING CURRENT POLICY IS NOT RESTRICTIVE AND NEEDS…
 - 10/02 08:48 [FirstSquawk] FED'S LOGAN SAYS INFLATION IS FALLING BUT NOT ON TRACK TO REACH 2%, WITH ECONOMIC GROWTH STRENGTHENING AND THE LABOUR MARKET 'WELL BALANCED', ADDING THAT A FEW MORE HIKES WOULD AT MINIMUM REVERSE LAST AUTUMN'S CUTS THOUGH THE ULTIMATE RATE …
