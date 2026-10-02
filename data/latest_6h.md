@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-02 12:37 JST／対象: 10/02 06:37 〜 10/02 12:37 JST（時刻はすべて日本時間）
+生成: 2026-10-02 12:54 JST／対象: 10/02 06:54 〜 10/02 12:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 71 | 10/02 08:16 | 10/02 12:36 | 29分（08:16→08:46） |
-| financialjuice | 48 | 10/02 06:41 | 10/02 12:24 | ⚠ 79分（06:41→08:00） |
+| FirstSquawk | 72 | 10/02 08:16 | 10/02 12:47 | 29分（08:16→08:46） |
+| financialjuice | 46 | 10/02 08:00 | 10/02 12:24 | ⚠ 49分（11:35→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 118 行（統合前 119 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 117 行（統合前 118 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 06:41 [financialjuice] Chronoscale Corp extends contract and secures new deal with AI infrastructure clients
-- 10/02 06:41 [financialjuice] Chronoscale Corp agreements indicate $1 billion annual run-rate revenue by Q3 2027
 - 10/02 08:00 [financialjuice] S. KOREAN CPI MOM ACTUAL 0.3% (FORECAST 0.4%, PREVIOUS 0.20%) $MACRO
 - 10/02 08:00 [financialjuice] S. KOREAN CPI YOY ACTUAL 2.9% (FORECAST 2.9%, PREVIOUS 3.10%) $MACRO
 - 10/02 08:00 [financialjuice] S.Korea Sept consumer price index rises 0.3% m/m: stats office
@@ -142,3 +140,4 @@
 - 10/02 12:28 [FirstSquawk] Vietnam’s Biggest Refinery Set for Around 50-Day Shutdown From August Next Year
 - 10/02 12:29 [FirstSquawk] Fitch Maintains Toyota’s ‘A+’ Rating With Stable Outlook
 - 10/02 12:36 [FirstSquawk] Gas Malaysia Sees Kedah Regasification Terminal Starting Commercial Operations by End-2030
+- 10/02 12:47 [FirstSquawk] Japan’s Acting Envoy Holds First Meeting With Myanmar Foreign Chief
