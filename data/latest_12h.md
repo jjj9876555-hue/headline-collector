@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-02 20:35 JST／対象: 10/02 08:35 〜 10/02 20:35 JST（時刻はすべて日本時間）
+生成: 2026-10-02 20:54 JST／対象: 10/02 08:54 〜 10/02 20:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 25 | 10/02 17:55 | 10/02 20:33 | 23分（19:35→19:59） |
-| FirstSquawk | 143 | 10/02 08:46 | 10/02 20:23 | 38分（17:15→17:53） |
-| financialjuice | 91 | 10/02 08:50 | 10/02 20:35 | ⚠ 49分（18:00→18:49） |
+| DeItaone | 28 | 10/02 17:55 | 10/02 20:50 | 23分（19:35→19:59） |
+| FirstSquawk | 138 | 10/02 09:07 | 10/02 20:46 | 38分（17:15→17:53） |
+| financialjuice | 94 | 10/02 09:29 | 10/02 20:52 | ⚠ 49分（18:00→18:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 254 行（統合前 259 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 254 行（統合前 260 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 08:46 [FirstSquawk] TOKYO'S SEPTEMBER CPI ROSE 2.7% YEAR-ON-YEAR, ABOVE THE 2.5% ESTIMATE AND UP FROM 1.9%, WITH CPI EX-FRESH FOOD UP 2.7% VERSUS 2.3% EXPECTED AND CPI EX-FRESH FOOD AND ENERGY UP 3.0% VERSUS 2.5% EXPECTED
-- 10/02 08:46 [FirstSquawk] JAPAN MARKETS: 10-YEAR JGB FUTURES RISE 0.29 POINT; NIKKEI FUTURES FALL 0.9% IN EARLY TRADE
-- 10/02 08:47 [FirstSquawk] CHEVRON: MECHANICAL ISSUE AT EL SEGUNDO REFINERY DOES NOT AFFECT PETROLEUM PRODUCT SUPPLIES TO REGIONAL CUSTOMERS
-- 10/02 08:48 [FirstSquawk] FED'S LOGAN SAYS THE FOMC SHOULD RAISE RATES AS THE POLICY STANCE HAS BEEN 'OFFSIDE', CALLING FOR THE POLICY RATE TO RISE BY AN ADDITIONAL 50 BASIS POINTS OR MORE TO RETURN INFLATION TO 2%, SAYING CURRENT POLICY IS NOT RESTRICTIVE AND NEEDS…
-- 10/02 08:48 [FirstSquawk] FED'S LOGAN SAYS INFLATION IS FALLING BUT NOT ON TRACK TO REACH 2%, WITH ECONOMIC GROWTH STRENGTHENING AND THE LABOUR MARKET 'WELL BALANCED', ADDING THAT A FEW MORE HIKES WOULD AT MINIMUM REVERSE LAST AUTUMN'S CUTS THOUGH THE ULTIMATE RATE …
-- 10/02 08:50 [financialjuice] JAPANESE MONETARY BASE YOY ACTUAL -15.2% (FORECAST -, PREVIOUS -15.7%) $MACRO
-- 10/02 08:51 [FirstSquawk] FED'S LOGAN SAYS HIGHER LONG-TERM YIELDS SIGNAL EXPECTATIONS OF HIGHER RATES BUT MAY ALSO REFLECT TERM PREMIUMS THAT REDUCE THE NEED FOR FED TIGHTENING, ADDING THAT SHE WILL MONITOR BOND YIELDS AND ASSESS THEIR POLICY IMPLICATIONS.
-- 10/02 08:51 [FirstSquawk] COPPER FELL 1.2% TO $14,243.50 A TON AS A STRONGER US DOLLAR AND OIL PRICES ABOVE $100 WEIGHED ON INDUSTRIAL METALS, WITH WEAKER CHINESE INDUSTRIAL EARNINGS ALSO PRESSURING SENTIMENT.
-- 10/02 08:51 [FirstSquawk] COPPER’S NEAR-TERM SUPPLY REMAINS TIGHT, WITH POTENTIAL CHILEAN STRIKE DISRUPTIONS AND UNCERTAINTY OVER A POSSIBLE PANAMA MINE RESTART, WHILE LME COPPER CONTINUES TO TRADE IN BACKWARDATION.
 - 10/02 09:07 [FirstSquawk] Asian Currencies Stabilize as Rising Oil Prices Cloud the Outlook - WSJ
 - 10/02 09:08 [FirstSquawk] ASX 200 Advances 0.4% to 8,646.10 in Early Trade
 - 10/02 09:10 [FirstSquawk] AUSTRALIA’S S&P/ASX 200 RISES 0.4% TO 8,646.10 POINTS IN EARLY TRADE
@@ -278,3 +269,12 @@
 - 10/02 20:33 [financialjuice/DeItaone] Saudi Arabia pumping close to 6m b/d oil on East-West pipeline.
 - 10/02 20:33 [financialjuice] Saudi Arabia has about 4.5m b/d pipeline flow available for export
 - 10/02 20:35 [financialjuice] Standard Chartered expects the ECB to deliver a 25 bps rate hike in December 2026 vs. the prior forecast of unchanged rates
+- 10/02 20:35 [FirstSquawk] SAUDI ARABIA IS NEARLY PRODUCING 6 MILLION BARRELS PER DAY OF OIL ON THE EAST-WEST PIPELINE.
+- 10/02 20:35 [FirstSquawk] SAUDI ARABIA HAS AROUND 4.5 MILLION BARRELS PER DAY OF PIPELINE CAPACITY READY FOR EXPORT.
+- 10/02 20:37 [DeItaone] *SAUDI HAS ABOUT 4.5M B/D PIPELINE FLOW AVAILABLE FOR EXPORT
+- 10/02 20:38 [financialjuice] Standard Chartered expects the ECB to deliver a 25 bp rate cut in Q4 2027 vs. the prior forecast of Q3
+- 10/02 20:46 [financialjuice] Pakistan Foreign Minister: A meeting of the strategic political defence committee under the Makkah Accord to meet in Riyadh soon
+- 10/02 20:46 [DeItaone] $NVDA - MORGAN STANLEY MAKES NVIDIA ITS TOP SEMICONDUCTOR PICK Morgan Stanley reinstated Nvidia as its top semiconductor pick, citing strong positioning and an attractive valuation. Nvidia trades at roughly 15x Morgan Stanley’s FY2028 earni…
+- 10/02 20:46 [FirstSquawk] PAKISTAN'S FOREIGN MINISTER ANNOUNCED A MEETING OF THE STRATEGIC POLITICAL DEFENCE COMMITTEE UNDER THE MAKKAH ACCORD WILL TAKE PLACE IN RIYADH SOON.
+- 10/02 20:50 [DeItaone/financialjuice] FRANCE'S MACRON TO CHAIR A VIDEOCONFERENCE OF G7 LEADERS TODAY AT 2:30 P.M. FOCUSED ON THE GLOBAL ENERGY SITUATION - ELYSEE
+- 10/02 20:52 [financialjuice] The EU presidency will convene a meeting of coreper i at 15:30 to discuss the global energy situation

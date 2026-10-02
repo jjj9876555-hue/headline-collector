@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-02 20:35 JST／対象: 10/02 14:35 〜 10/02 20:35 JST（時刻はすべて日本時間）
+生成: 2026-10-02 20:54 JST／対象: 10/02 14:54 〜 10/02 20:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 25 | 10/02 17:55 | 10/02 20:33 | 23分（19:35→19:59） |
-| FirstSquawk | 58 | 10/02 14:42 | 10/02 20:23 | 38分（17:15→17:53） |
-| financialjuice | 65 | 10/02 14:43 | 10/02 20:35 | ⚠ 49分（18:00→18:49） |
+| DeItaone | 28 | 10/02 17:55 | 10/02 20:50 | 23分（19:35→19:59） |
+| FirstSquawk | 57 | 10/02 15:21 | 10/02 20:46 | 38分（17:15→17:53） |
+| financialjuice | 68 | 10/02 15:27 | 10/02 20:52 | ⚠ 49分（18:00→18:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 144 行（統合前 148 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 148 行（統合前 153 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 14:42 [FirstSquawk] FRANCE'S LESCURE: EVERY MEASURE IN BUDGET PROPOSAL IS OPEN FOR NEGOTIATION
-- 10/02 14:43 [financialjuice] French finance minister Lescure: Debt sales go well, but interest rates are too high, budget will help bring them down
-- 10/02 14:43 [FirstSquawk] FRENCH FINANCE MINISTER: BUDGET WILL HELP LOWER HIGH INTEREST RATES
-- 10/02 14:47 [FirstSquawk] JAPAN 10-YEAR JGB YIELD REBOUNDS TO 3.100%, UP 0.5 BP
-- 10/02 14:50 [FirstSquawk] KREMLIN SAYS RUSSIA WILL CONTINUE EFFORTS TO STOP WEAPONS, FUEL SUPPLIES TO UKRAINE VIA BLACK SEA
 - 10/02 15:21 [FirstSquawk] JP MORGAN CUTS BANK OF AMERICA TARGET PRICE TO $62 FROM $68
 - 10/02 15:27 [financialjuice] NORWEGIAN UNEMPLOYMENT RATE NSA ACTUAL 2.0% (FORECAST -, PREVIOUS 2.1%) $MACRO
 - 10/02 15:31 [FirstSquawk] NORWAY UNEMPLOYMENT RATE NSA SEP: 2.0% (PREV 2.1%)
@@ -168,3 +163,12 @@
 - 10/02 20:33 [financialjuice/DeItaone] Saudi Arabia pumping close to 6m b/d oil on East-West pipeline.
 - 10/02 20:33 [financialjuice] Saudi Arabia has about 4.5m b/d pipeline flow available for export
 - 10/02 20:35 [financialjuice] Standard Chartered expects the ECB to deliver a 25 bps rate hike in December 2026 vs. the prior forecast of unchanged rates
+- 10/02 20:35 [FirstSquawk] SAUDI ARABIA IS NEARLY PRODUCING 6 MILLION BARRELS PER DAY OF OIL ON THE EAST-WEST PIPELINE.
+- 10/02 20:35 [FirstSquawk] SAUDI ARABIA HAS AROUND 4.5 MILLION BARRELS PER DAY OF PIPELINE CAPACITY READY FOR EXPORT.
+- 10/02 20:37 [DeItaone] *SAUDI HAS ABOUT 4.5M B/D PIPELINE FLOW AVAILABLE FOR EXPORT
+- 10/02 20:38 [financialjuice] Standard Chartered expects the ECB to deliver a 25 bp rate cut in Q4 2027 vs. the prior forecast of Q3
+- 10/02 20:46 [financialjuice] Pakistan Foreign Minister: A meeting of the strategic political defence committee under the Makkah Accord to meet in Riyadh soon
+- 10/02 20:46 [DeItaone] $NVDA - MORGAN STANLEY MAKES NVIDIA ITS TOP SEMICONDUCTOR PICK Morgan Stanley reinstated Nvidia as its top semiconductor pick, citing strong positioning and an attractive valuation. Nvidia trades at roughly 15x Morgan Stanley’s FY2028 earni…
+- 10/02 20:46 [FirstSquawk] PAKISTAN'S FOREIGN MINISTER ANNOUNCED A MEETING OF THE STRATEGIC POLITICAL DEFENCE COMMITTEE UNDER THE MAKKAH ACCORD WILL TAKE PLACE IN RIYADH SOON.
+- 10/02 20:50 [DeItaone/financialjuice] FRANCE'S MACRON TO CHAIR A VIDEOCONFERENCE OF G7 LEADERS TODAY AT 2:30 P.M. FOCUSED ON THE GLOBAL ENERGY SITUATION - ELYSEE
+- 10/02 20:52 [financialjuice] The EU presidency will convene a meeting of coreper i at 15:30 to discuss the global energy situation

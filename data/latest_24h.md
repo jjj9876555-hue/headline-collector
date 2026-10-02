@@ -7,48 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-02 20:35 JST／対象: 10/01 20:35 〜 10/02 20:35 JST（時刻はすべて日本時間）
+生成: 2026-10-02 20:54 JST／対象: 10/01 20:54 〜 10/02 20:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 93 | 10/01 20:36 | 10/02 20:33 | ⚠ 755分（05:19→17:55） |
-| FirstSquawk | 300 | 10/01 20:38 | 10/02 20:23 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 376 | 10/01 20:36 | 10/02 20:35 | ⚠ 79分（06:41→08:00） |
+| DeItaone | 91 | 10/01 21:06 | 10/02 20:50 | ⚠ 755分（05:19→17:55） |
+| FirstSquawk | 301 | 10/01 21:07 | 10/02 20:46 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 361 | 10/01 20:55 | 10/02 20:52 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 732 行（統合前 775 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 716 行（統合前 759 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 20:36 [financialjuice] Fed's Kashkari: If AI proves to be as productive as expected, the investment cycle could persist for a long time
-- 10/01 20:36 [DeItaone] TRUMP SAYS HE MAY RAMP UP IRAN BOMBING AFTER MIDTERMS IF NO DEAL: TIME TRUMP SAYS SOME U.S. AMMUNITION STOCKS ‘A LITTLE BIT LOWER’: TIME TRUMP SAYS RAYTHEON, LOCKHEED EXPANDING PATRIOT, THAAD CAPACITY: TIME U.S. MILITARY FIRED MORE THAN 1,2…
-- 10/01 20:36 [DeItaone] TRUMP SAYS AI INDUSTRY ‘BIGGER’ THAN INTERNET, INDUSTRIAL REVOLUTION: TIME
-- 10/01 20:36 [financialjuice] Fed's Kashkari: There's a big gap between 2-year yield and short-rates
-- 10/01 20:37 [financialjuice/FirstSquawk] Fed's Kashkari: When markets have a view, they're not shy about expressing them.
-- 10/01 20:39 [DeItaone] $AAPL - MORGAN STANLEY SEES APPLE ENTERING MAJOR PRODUCT CYCLE Morgan Stanley cut its Apple price target to $355 from $360, while maintaining an Overweight rating. The bank says Apple’s next 2+ years of innovation under new CEO John Ternus …
-- 10/01 20:40 [financialjuice] Fed's Kashkari: My implied Fed September 2-yr yield is a bit over 4%
-- 10/01 20:40 [financialjuice] Fed's Kashkari: If there is some tentativeness in markets, it suggests rates are having an impact
-- 10/01 20:40 [financialjuice] Fed's Kashkari: Anything adjacent to housing is under a lot of pressure
-- 10/01 20:41 [financialjuice] Fed's Kashkari: If we keep raising rates, it will put different pressure on different parts of the economy
-- 10/01 20:41 [financialjuice] Fed's Kashkari: Consumer spending is strong across the economy
-- 10/01 20:42 [financialjuice] Fed's Kashkari: 4.1% unemployment rate is good, labor market is healthy
-- 10/01 20:42 [DeItaone] TRUMP SAYS RENEWED IRAN BOMBING ‘POSSIBLE’ AFTER MIDTERMS President Trump says ramping up military strikes against Iran after the November midterms is “possible,” as the war enters its eighth month. Trump also downplayed concerns over deple…
-- 10/01 20:43 [financialjuice] Fed's Kashkari: Diesel and availability of truckers are top of mind in the Minneapolis district
-- 10/01 20:44 [financialjuice] Fed's Kashkari: My view on supply shocks and inflation has evolved
-- 10/01 20:45 [financialjuice] Fed's Kashkari: There is clearly not a wage-price spiral today
-- 10/01 20:45 [DeItaone] FED’S KASHKARI: U.S. ECONOMY KEEPS SURPRISING WITH ITS RESILIENCE Fed’s Neel Kashkari says consumer spending remains strong and the labor market is broadly healthy, with economic resilience continuing to surprise him. He said further rate h…
-- 10/01 20:45 [financialjuice] Fed's Kashkari: I don't think labor market pain is needed to achieve goal
-- 10/01 20:46 [financialjuice] Fed's Kashkari: FOMC atmosphere has been remarkably consistent under Warsh
-- 10/01 20:48 [FirstSquawk] US TREASURY YIELDS EDGE LOWER; 2-YEAR DIPS 3 BASIS POINTS TO 4.86%
-- 10/01 20:50 [financialjuice] Morning Juice – US Session Prep (1st October)
-- 10/01 20:53 [financialjuice] USTR Greer, on the EU: They have executed on the trade terms we agreed to
-- 10/01 20:53 [financialjuice] French Fiscal Watchdog: Government's 2027 deficit reduction plans are a "minimum".
-- 10/01 20:54 [financialjuice] USTR Greer: Europe has to act on the issue of excess capacity
-- 10/01 20:54 [financialjuice] USTR Greer: Europe should release some diesel inventories
 - 10/01 20:55 [financialjuice] USTR Greer: We will meet with EU counterparts to discuss diesel today
 - 10/01 20:55 [financialjuice] USTR Greer: I have been speaking with Canadians on trade
 - 10/01 20:56 [financialjuice] USTR Greer: We're open to deal with Canada, but it's up to Canada
@@ -756,3 +731,12 @@
 - 10/02 20:33 [financialjuice/DeItaone] Saudi Arabia pumping close to 6m b/d oil on East-West pipeline.
 - 10/02 20:33 [financialjuice] Saudi Arabia has about 4.5m b/d pipeline flow available for export
 - 10/02 20:35 [financialjuice] Standard Chartered expects the ECB to deliver a 25 bps rate hike in December 2026 vs. the prior forecast of unchanged rates
+- 10/02 20:35 [FirstSquawk] SAUDI ARABIA IS NEARLY PRODUCING 6 MILLION BARRELS PER DAY OF OIL ON THE EAST-WEST PIPELINE.
+- 10/02 20:35 [FirstSquawk] SAUDI ARABIA HAS AROUND 4.5 MILLION BARRELS PER DAY OF PIPELINE CAPACITY READY FOR EXPORT.
+- 10/02 20:37 [DeItaone] *SAUDI HAS ABOUT 4.5M B/D PIPELINE FLOW AVAILABLE FOR EXPORT
+- 10/02 20:38 [financialjuice] Standard Chartered expects the ECB to deliver a 25 bp rate cut in Q4 2027 vs. the prior forecast of Q3
+- 10/02 20:46 [financialjuice] Pakistan Foreign Minister: A meeting of the strategic political defence committee under the Makkah Accord to meet in Riyadh soon
+- 10/02 20:46 [DeItaone] $NVDA - MORGAN STANLEY MAKES NVIDIA ITS TOP SEMICONDUCTOR PICK Morgan Stanley reinstated Nvidia as its top semiconductor pick, citing strong positioning and an attractive valuation. Nvidia trades at roughly 15x Morgan Stanley’s FY2028 earni…
+- 10/02 20:46 [FirstSquawk] PAKISTAN'S FOREIGN MINISTER ANNOUNCED A MEETING OF THE STRATEGIC POLITICAL DEFENCE COMMITTEE UNDER THE MAKKAH ACCORD WILL TAKE PLACE IN RIYADH SOON.
+- 10/02 20:50 [DeItaone/financialjuice] FRANCE'S MACRON TO CHAIR A VIDEOCONFERENCE OF G7 LEADERS TODAY AT 2:30 P.M. FOCUSED ON THE GLOBAL ENERGY SITUATION - ELYSEE
+- 10/02 20:52 [financialjuice] The EU presidency will convene a meeting of coreper i at 15:30 to discuss the global energy situation
