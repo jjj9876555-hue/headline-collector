@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-02 17:01 JST／対象: 10/02 11:01 〜 10/02 17:01 JST（時刻はすべて日本時間）
+生成: 2026-10-02 17:24 JST／対象: 10/02 11:24 〜 10/02 17:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 64 | 10/02 11:04 | 10/02 16:56 | 30分（14:50→15:21） |
-| financialjuice | 30 | 10/02 11:05 | 10/02 16:56 | ⚠ 49分（11:35→12:24） |
+| FirstSquawk | 62 | 10/02 11:30 | 10/02 17:15 | 30分（14:50→15:21） |
+| financialjuice | 42 | 10/02 11:33 | 10/02 17:20 | ⚠ 49分（11:35→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 93 行（統合前 94 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 103 行（統合前 104 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 11:04 [FirstSquawk] Japan Petroleum Exploration Acquires Entire Fundare Stake to Complete Tight Oil and Gas Asset Deal
-- 10/02 11:04 [FirstSquawk] Japan Petroleum Exploration Puts Total Enterprise Value of Fundare Interests at About $278 Million
-- 10/02 11:05 [financialjuice] Russian air strikes hit bridge in Ukraine's Kyiv: mayor
-- 10/02 11:05 [FirstSquawk] Kyiv Mayor Says Russian Airstrikes Hit Bridge in Ukraine
-- 10/02 11:10 [FirstSquawk] Hong Kong Stocks Slide 3% as Hang Seng Index Falls
-- 10/02 11:14 [financialjuice] Japan finance minister Katayama: will intensify efforts to promote domestic version of doge, review subsidies and funding
-- 10/02 11:15 [financialjuice] Japan finance minister Katayama: will significantly simplify idled funds in budget procedure
-- 10/02 11:16 [FirstSquawk] Japan’s Katayama to Boost Efforts for Japanese Version of DOGE Review of Subsidies, Funds
-- 10/02 11:16 [FirstSquawk] Japan FinMin Katayama: Government to Sharply Streamline Unused Funds in Budget Process
-- 10/02 11:17 [financialjuice] Japan finmin Katayama: there are about 200 current funds, valued at about 7 trillion yen
-- 10/02 11:17 [FirstSquawk] Japan FinMin Katayama Says Existing Funds Number About 200, Total ¥7 Trillion
-- 10/02 11:20 [financialjuice] Japan economy minister Kiuchi: won’t discuss monetary policy under BoJ jurisdiction
-- 10/02 11:21 [FirstSquawk] Kiuchi Says He Won’t Comment on Monetary Policy, Which Falls Under BOJ’s Mandate
-- 10/02 11:21 [financialjuice] Japan economy minister Kiuchi: hopes BoJ maintains close communication with government in steering policy
-- 10/02 11:22 [FirstSquawk] Japan’s Kiuchi: Hopes BOJ Maintains Close Communication With Government on Policy Decisions
-- 10/02 11:24 [financialjuice] Japan economy minister Kiuchi: Japan no longer requires exceptional monetary stimulus following BoJ's move to end yield curve control
-- 10/02 11:24 [FirstSquawk] Japan Economy Minister Kiuchi: Extraordinary Monetary Stimulus Is No Longer Needed
 - 10/02 11:30 [FirstSquawk] Seoul Stocks Open Lower Despite Gains on Wall Street
 - 10/02 11:33 [financialjuice] Japan economy minister Kiuchi: Japan is no longer in deflation, no need for overly loose monetary policy favoring higher inflation
 - 10/02 11:33 [FirstSquawk] Japan Economy Minister Kiuchi: Japan No Longer in Deflation, Excessively Loose Policy No Longer Needed
@@ -117,3 +100,30 @@
 - 10/02 16:56 [FirstSquawk] AIRBUS TO RECOMMEND AIRLINES INSPECT A330NEO JETS FOR LOOSE ITEMS BEFORE SCHEDULED MAINTENANCE DUE TO FINDING OF STRAY OBJECT IN ASSEMBLY THIS YEAR.
 - 10/02 16:56 [FirstSquawk] UK 2-YEAR GILT YIELDS FALL TO 4.726%, LOWEST LEVEL SINCE SEPTEMBER 22, WITH A DROP OF 9 BASIS POINTS.
 - 10/02 16:56 [financialjuice] G7 leaders may talk Friday afternoon to discuss next steps - source familiar with discussion.
+- 10/02 17:01 [financialjuice] ITALIAN RETAIL SALES MOM ACTUAL 0.30% (FORECAST -, PREVIOUS -0.40%) $MACRO
+- 10/02 17:01 [financialjuice] ITALIAN RETAIL SALES NSA YOY ACTUAL 0.5% (FORECAST -, PREVIOUS 0.80%) $MACRO
+- 10/02 17:05 [financialjuice] North Korea's Kim Yo Jong: South Korea's allegations over border mine clash are baseless - KCNA
+- 10/02 17:06 [financialjuice] Norges Bank investment management commits 1.2 billion euros to Copenhagen Infrastructure Partners' sixth flagship renewable energy fund
+- 10/02 17:06 [financialjuice] French President Macron spoke last night with U.S. President Trump, Canada PM Carney on global energy outlook
+- 10/02 17:06 [financialjuice] UK new car market registrations rise 12.1% to 350,518 units in September: SMMT preliminary data
+- 10/02 17:06 [financialjuice] North Korea’s Kim Yo Jong: country did not intentionally place mines in border zone - KCNA
+- 10/02 17:06 [financialjuice] North Korea's Kim Yo Jong: Border defenses intended to permanently block South Korea - KCNA
+- 10/02 17:06 [FirstSquawk] BRENT AND US CRUDE FUTURES FALL FURTHER DUE TO POSSIBLE EUROPEAN RELEASE OF DIESEL AND CRUDE STOCKS.
+- 10/02 17:07 [financialjuice] French president says need to cooperate to combat fuel price increases, supply of refined products in two separate calls
+- 10/02 17:07 [FirstSquawk] FRENCH PRESIDENT STRESSED COLLABORATION TO COMBAT FUEL PRICE INCREASES AND IMPROVE SUPPLY OF REFINED PRODUCTS IN TWO DIFFERENT CALLS.
+- 10/02 17:07 [financialjuice] North Korea's Kim Yo Jong: South Korea must cease attempts to malign North Korea - KCNA
+- 10/02 17:08 [financialjuice] France's Macron spoke with Trump to discuss worldwide energy situation: Elysee
+- 10/02 17:08 [financialjuice] France plans call with G7 leaders to coordinate on prices, supply: Elysee Palace source
+- 10/02 17:08 [financialjuice] Macron stressed need to collaborate to tackle rising fuel costs, ensure global supply of refined products: Elysee
+- 10/02 17:09 [financialjuice] Macron also discussed these matters with Canada’s Carney: Elysee
+- 10/02 17:09 [financialjuice] French president underlined G7 countries' interest in coordinated action without export restrictions
+- 10/02 17:09 [financialjuice] Macron: G7 nations have shared interest in coordinated action without export limits - Elysee
+- 10/02 17:10 [FirstSquawk] FRENCH PRESIDENT MACRON DISCUSSED GLOBAL ENERGY ISSUES WITH U.S. PRESIDENT TRUMP AND CANADIAN PM CARNEY LAST NIGHT.
+- 10/02 17:10 [FirstSquawk] FRENCH PRESIDENT DISCUSSED COLLABORATION NEEDED TO ADDRESS RISING FUEL PRICES AND INSURE SUPPLY OF REFINED PRODUCTS IN TWO CALLS.
+- 10/02 17:10 [FirstSquawk] FRANCE PLANS A CALL WITH G7 LEADERS TO ALIGN ON PRICES AND SUPPLY, ACCORDING TO A SOURCE AT THE ELYSEE PALACE.
+- 10/02 17:10 [FirstSquawk] FRENCH PRESIDENT STRESSED G7 NATIONS WANT TO WORK TOGETHER WITHOUT EXPORT LIMITS.
+- 10/02 17:15 [financialjuice] Moody's on France: President and PM faces ongoing challenges in multiyear fiscal consolidation effort
+- 10/02 17:15 [FirstSquawk] NASDAQ 100 FUTURES INCREASED BY 0.9%, S&P 500 CONTRACTS ROSE BY 0.5%.
+- 10/02 17:15 [FirstSquawk] US STOCK INDEX FUTURES RISE TO SESSION HIGH.
+- 10/02 17:16 [financialjuice] Moody's on France: ability of France's institutions to address key policy challenges despite political fragmentation is crucial for resolving negative outlook
+- 10/02 17:20 [financialjuice] Moody's on France: It is far from certain a compromise can be reached on the 2027 budget as the proximity of next spring's elections risks hardening political positions.

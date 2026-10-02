@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-02 17:01 JST／対象: 10/01 17:01 〜 10/02 17:01 JST（時刻はすべて日本時間）
+生成: 2026-10-02 17:24 JST／対象: 10/01 17:24 〜 10/02 17:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 90 | 10/01 17:14 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 305 | 10/01 17:17 | 10/02 16:56 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 367 | 10/01 17:01 | 10/02 16:56 | ⚠ 79分（06:41→08:00） |
+| DeItaone | 88 | 10/01 17:24 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
+| FirstSquawk | 310 | 10/01 17:28 | 10/02 17:15 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 383 | 10/01 17:28 | 10/02 17:20 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 723 行（統合前 768 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 742 行（統合前 787 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 17:01 [financialjuice] ITALIAN UNEMPLOYMENT RATE ACTUAL 6.2% (FORECAST 5.75%, PREVIOUS 5.8% ,REVISION 6.0%) $MACRO
-- 10/01 17:03 [financialjuice] Barclays broadens strategic partnership with Anthropic for global AI integration
-- 10/01 17:08 [financialjuice] French PM aims for 43 billion euros in fresh budget savings - BFM TV
-- 10/01 17:14 [DeItaone] 🇫🇷 FRENCH 5-YEAR CDS HIT 71.6 BPS, HIGHEST SINCE JULY 2013, AS BONDS SELL OFF
-- 10/01 17:17 [FirstSquawk] FTSE 100 INDEX DROPS 2% TO 10,393.83.
-- 10/01 17:19 [DeItaone] ITALY'S 10-YEAR GOVERNMENT BOND YIELDS REACH HIGHEST SINCE NOVEMBER 2023 AT 4.7232%, UP 10 BPS
-- 10/01 17:22 [FirstSquawk] BIROL STATES THAT THE DIESEL SITUATION IN EUROPE AND OTHER REGIONS IS QUITE TIGHT.
-- 10/01 17:22 [FirstSquawk] COMMERZBANK CEO ORLOPP INDICATES GREATER DEMAND FOR FINANCING IS EMERGING.
 - 10/01 17:24 [DeItaone] *BIROL SAYS DIESEL SITUATION IS VERY TIGHT IN EUROPE AND BEYOND
 - 10/01 17:28 [FirstSquawk] TAKAICHI: SIGNS OF ECONOMIC CHANGE AT CRITICAL JUNCTURE
 - 10/01 17:28 [financialjuice] Japan's PM Takaichi: Signs of economic change at critical juncture.
@@ -747,3 +739,30 @@
 - 10/02 16:56 [FirstSquawk] AIRBUS TO RECOMMEND AIRLINES INSPECT A330NEO JETS FOR LOOSE ITEMS BEFORE SCHEDULED MAINTENANCE DUE TO FINDING OF STRAY OBJECT IN ASSEMBLY THIS YEAR.
 - 10/02 16:56 [FirstSquawk] UK 2-YEAR GILT YIELDS FALL TO 4.726%, LOWEST LEVEL SINCE SEPTEMBER 22, WITH A DROP OF 9 BASIS POINTS.
 - 10/02 16:56 [financialjuice] G7 leaders may talk Friday afternoon to discuss next steps - source familiar with discussion.
+- 10/02 17:01 [financialjuice] ITALIAN RETAIL SALES MOM ACTUAL 0.30% (FORECAST -, PREVIOUS -0.40%) $MACRO
+- 10/02 17:01 [financialjuice] ITALIAN RETAIL SALES NSA YOY ACTUAL 0.5% (FORECAST -, PREVIOUS 0.80%) $MACRO
+- 10/02 17:05 [financialjuice] North Korea's Kim Yo Jong: South Korea's allegations over border mine clash are baseless - KCNA
+- 10/02 17:06 [financialjuice] Norges Bank investment management commits 1.2 billion euros to Copenhagen Infrastructure Partners' sixth flagship renewable energy fund
+- 10/02 17:06 [financialjuice] French President Macron spoke last night with U.S. President Trump, Canada PM Carney on global energy outlook
+- 10/02 17:06 [financialjuice] UK new car market registrations rise 12.1% to 350,518 units in September: SMMT preliminary data
+- 10/02 17:06 [financialjuice] North Korea’s Kim Yo Jong: country did not intentionally place mines in border zone - KCNA
+- 10/02 17:06 [financialjuice] North Korea's Kim Yo Jong: Border defenses intended to permanently block South Korea - KCNA
+- 10/02 17:06 [FirstSquawk] BRENT AND US CRUDE FUTURES FALL FURTHER DUE TO POSSIBLE EUROPEAN RELEASE OF DIESEL AND CRUDE STOCKS.
+- 10/02 17:07 [financialjuice] French president says need to cooperate to combat fuel price increases, supply of refined products in two separate calls
+- 10/02 17:07 [FirstSquawk] FRENCH PRESIDENT STRESSED COLLABORATION TO COMBAT FUEL PRICE INCREASES AND IMPROVE SUPPLY OF REFINED PRODUCTS IN TWO DIFFERENT CALLS.
+- 10/02 17:07 [financialjuice] North Korea's Kim Yo Jong: South Korea must cease attempts to malign North Korea - KCNA
+- 10/02 17:08 [financialjuice] France's Macron spoke with Trump to discuss worldwide energy situation: Elysee
+- 10/02 17:08 [financialjuice] France plans call with G7 leaders to coordinate on prices, supply: Elysee Palace source
+- 10/02 17:08 [financialjuice] Macron stressed need to collaborate to tackle rising fuel costs, ensure global supply of refined products: Elysee
+- 10/02 17:09 [financialjuice] Macron also discussed these matters with Canada’s Carney: Elysee
+- 10/02 17:09 [financialjuice] French president underlined G7 countries' interest in coordinated action without export restrictions
+- 10/02 17:09 [financialjuice] Macron: G7 nations have shared interest in coordinated action without export limits - Elysee
+- 10/02 17:10 [FirstSquawk] FRENCH PRESIDENT MACRON DISCUSSED GLOBAL ENERGY ISSUES WITH U.S. PRESIDENT TRUMP AND CANADIAN PM CARNEY LAST NIGHT.
+- 10/02 17:10 [FirstSquawk] FRENCH PRESIDENT DISCUSSED COLLABORATION NEEDED TO ADDRESS RISING FUEL PRICES AND INSURE SUPPLY OF REFINED PRODUCTS IN TWO CALLS.
+- 10/02 17:10 [FirstSquawk] FRANCE PLANS A CALL WITH G7 LEADERS TO ALIGN ON PRICES AND SUPPLY, ACCORDING TO A SOURCE AT THE ELYSEE PALACE.
+- 10/02 17:10 [FirstSquawk] FRENCH PRESIDENT STRESSED G7 NATIONS WANT TO WORK TOGETHER WITHOUT EXPORT LIMITS.
+- 10/02 17:15 [financialjuice] Moody's on France: President and PM faces ongoing challenges in multiyear fiscal consolidation effort
+- 10/02 17:15 [FirstSquawk] NASDAQ 100 FUTURES INCREASED BY 0.9%, S&P 500 CONTRACTS ROSE BY 0.5%.
+- 10/02 17:15 [FirstSquawk] US STOCK INDEX FUTURES RISE TO SESSION HIGH.
+- 10/02 17:16 [financialjuice] Moody's on France: ability of France's institutions to address key policy challenges despite political fragmentation is crucial for resolving negative outlook
+- 10/02 17:20 [financialjuice] Moody's on France: It is far from certain a compromise can be reached on the 2027 budget as the proximity of next spring's elections risks hardening political positions.
