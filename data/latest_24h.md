@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-03 00:48 JST／対象: 10/02 00:48 〜 10/03 00:48 JST（時刻はすべて日本時間）
+生成: 2026-10-03 01:01 JST／対象: 10/02 01:01 〜 10/03 01:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 108 | 10/02 01:02 | 10/03 00:28 | ⚠ 755分（05:19→17:55） |
-| FirstSquawk | 293 | 10/02 01:03 | 10/03 00:44 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 339 | 10/02 00:57 | 10/03 00:45 | ⚠ 79分（06:41→08:00） |
+| FirstSquawk | 296 | 10/02 01:03 | 10/03 00:58 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 338 | 10/02 01:07 | 10/03 00:58 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 704 行（統合前 744 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 705 行（統合前 745 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 00:57 [financialjuice] Saudi East-West crude pipeline at 5.5mn b/d - Argus Media cites source
-- 10/02 00:57 [financialjuice] ❗ EU energy Union task force to meet friday to discuss potential diesel stock releases - Two EU diplomats
-- 10/02 01:00 [financialjuice] Freddie Mac: 30-year fixed-rate mortgage averaged 7.28% as of Oct. 1; US mortgage rates rise to 7.28%, highest since October 2023
 - 10/02 01:02 [DeItaone] EU ENERGY UNION TASKFORCE TO MEET FRIDAY TO DISCUSS POTENTIAL DIESEL STOCK RELEASES, TWO EU DIPLOMATS SAY
 - 10/02 01:03 [FirstSquawk] US 30-YR FIXED RATE MORTGAGE AVERAGES 7.28 PCT IN OCT 1 WEEK, HIGHEST SINCE NOV 22, 2023 WEEK, VS 7.03 PCT PRIOR WEEK-FREDDIE MAC
 - 10/02 01:06 [DeItaone] CITADEL’S RUBNER: Q4 IS THE “RELOAD” Citadel Securities’ Scott Rubner expects retail investors to return to U.S. stocks in October after trading activity cooled sharply in September. He says lower positioning, cheaper valuations, returning …
@@ -728,3 +725,7 @@
 - 10/03 00:44 [FirstSquawk] CHINA CHIEF TRADE NEGOTIATOR LI CHENGGANG: TELLS G20 CHINA ARE WILLING TO TALK ON INDUSTRY POLICY
 - 10/03 00:44 [financialjuice/FirstSquawk] UKMTO: Tanker has reported being struck by an unknown projectile, whilst conducting an outbound transit within Strait of Hormuz
 - 10/03 00:45 [financialjuice] UKMTO: Incident resulted in a small fire and blackout onboard.
+- 10/03 00:56 [FirstSquawk] TANKER STRUCK BY UNKNOWN PROJECTILE IN STRAIT OF HORMUZ AT 11:22 UTC - UKMTO
+- 10/03 00:57 [FirstSquawk] GOOGLE CLOUD: ANNOUNCES GENERAL AVAILABILITY OF SPANNER QUEUES FOR TRANSACTIONAL MESSAGING IN AI AGENT WORKLOADS
+- 10/03 00:57 [financialjuice/FirstSquawk] IEA's Birol: Oil prices are starting to fall.
+- 10/03 00:58 [financialjuice] 2 unarmed Pakistani civilians killed in firing by Indian border security forces - Pakistani security sources

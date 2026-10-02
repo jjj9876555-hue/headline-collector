@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-03 00:48 JST／対象: 10/02 18:48 〜 10/03 00:48 JST（時刻はすべて日本時間）
+生成: 2026-10-03 01:01 JST／対象: 10/02 19:01 〜 10/03 01:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 52 | 10/02 18:49 | 10/03 00:28 | ⚠ 85分（23:02→00:28） |
-| FirstSquawk | 77 | 10/02 18:57 | 10/03 00:44 | 44分（20:46→21:31） |
-| financialjuice | 99 | 10/02 18:49 | 10/03 00:45 | 29分（19:42→20:12） |
+| DeItaone | 47 | 10/02 19:02 | 10/03 00:28 | ⚠ 85分（23:02→00:28） |
+| FirstSquawk | 77 | 10/02 19:02 | 10/03 00:58 | 44分（20:46→21:31） |
+| financialjuice | 94 | 10/02 19:16 | 10/03 00:58 | 29分（19:42→20:12） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 219 行（統合前 229 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 208 行（統合前 219 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 18:49 [DeItaone] RUSSIAN DEPUTY PM NOVAK: RUSSIA WILL BE CONSIDERING PARTIALLY LIFTING DIESEL EXPORTS RESTRICTIONS
-- 10/02 18:49 [financialjuice] Poll: Euro forecast to trade at $1.15 at year-end, $1.15 in six months and $1.16 in a year (vs $1.16, $1.17 and $1.18 in the September poll)
-- 10/02 18:50 [financialjuice] Poll: US Dollar More likely to trade stronger than expectations at year-end, according to 52 of 66 FX strategists
-- 10/02 18:50 [DeItaone] *NOVAK: MAY PARTLY REOPEN DIESEL EXPORTS IF OVERSUPPLY: IFX
-- 10/02 18:50 [financialjuice] Russia’s Deputy PM Novak: Russia did a lot of work on protecting refineries - TASS
-- 10/02 18:51 [financialjuice] Russia’s Deputy PM Novak: Damage to refineries much lower now - Tass
-- 10/02 18:51 [DeItaone] RUSSIAN DEPUTY PM NOVAK: RUSSIA WILL CONSIDER IT IN CASE OF OVERPRODUCTION
-- 10/02 18:51 [financialjuice] Russian Deputy PM Novak: Russia repelled attacks on 4 oil refineries overnight
-- 10/02 18:51 [financialjuice] Russian Deputy PM Novak: Russia will be considering partially lifting diesel export restrictions
-- 10/02 18:51 [financialjuice] Russia’s Deputy PM Novak: Russia may allow diesel exports if overproduction - Tass
-- 10/02 18:57 [FirstSquawk] RUSSIA'S DEPUTY PM NOVAK ANNOUNCED THAT THE COUNTRY DEFENDED FOUR OIL REFINERIES FROM ATTACKS LAST NIGHT. HE ALSO STATED THAT RUSSIA MAY PARTIALLY LIFT DIESEL EXPORT RESTRICTIONS IF THERE IS OVERPRODUCTION.
-- 10/02 18:57 [FirstSquawk] TOYOTA MOTOR THAILAND PLANTS AND TOYOTA AUTO WORKS WILL STAY CLOSED UNTIL OCTOBER 10.
-- 10/02 18:57 [FirstSquawk] TOYOTA MOTOR IS FACING CONTINUED DISRUPTIONS IN PARTS DELIVERY DUE TO FLOODS IN THAILAND.
-- 10/02 18:58 [DeItaone] FRENCH 5-YEAR SOVEREIGN CREDIT DEFAULT SWAPS HIT 81BPS, S&P GLOBAL MARKET INTELLIGENCE
-- 10/02 19:00 [DeItaone] ANTHROPIC WARNS THAT GOVERNMENT ATTITUDES TOWARD THE COMPANY, ITS TECHNOLOGY COULD HAVE IMPLICATIONS FOR ITS BUSINESS - IPO PROSPECTUS SEEN BY REUTERS
 - 10/02 19:02 [FirstSquawk] SCOTIABANK INCREASES SHARE BUYBACK TARGET TO 40 MILLION FROM 15 MILLION.
 - 10/02 19:02 [DeItaone] FRENCH DEFAULT PROTECTION COSTS HIT MULTIYEAR HIGH The cost of insuring French government debt against default has climbed to a multiyear high, with 5-year sovereign CDS rising to 81 basis points. Meanwhile, France’s 10-year yield spread ov…
 - 10/02 19:09 [FirstSquawk] UKRAINE'S PM KORETSKYI ANNOUNCED A RECEIPT OF €2.9 BILLION FROM THE EU.
@@ -243,3 +228,7 @@
 - 10/03 00:44 [FirstSquawk] CHINA CHIEF TRADE NEGOTIATOR LI CHENGGANG: TELLS G20 CHINA ARE WILLING TO TALK ON INDUSTRY POLICY
 - 10/03 00:44 [financialjuice/FirstSquawk] UKMTO: Tanker has reported being struck by an unknown projectile, whilst conducting an outbound transit within Strait of Hormuz
 - 10/03 00:45 [financialjuice] UKMTO: Incident resulted in a small fire and blackout onboard.
+- 10/03 00:56 [FirstSquawk] TANKER STRUCK BY UNKNOWN PROJECTILE IN STRAIT OF HORMUZ AT 11:22 UTC - UKMTO
+- 10/03 00:57 [FirstSquawk] GOOGLE CLOUD: ANNOUNCES GENERAL AVAILABILITY OF SPANNER QUEUES FOR TRANSACTIONAL MESSAGING IN AI AGENT WORKLOADS
+- 10/03 00:57 [financialjuice/FirstSquawk] IEA's Birol: Oil prices are starting to fall.
+- 10/03 00:58 [financialjuice] 2 unarmed Pakistani civilians killed in firing by Indian border security forces - Pakistani security sources
