@@ -7,37 +7,26 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-02 19:54 JST／対象: 10/01 19:54 〜 10/02 19:54 JST（時刻はすべて日本時間）
+生成: 2026-10-02 20:17 JST／対象: 10/01 20:17 〜 10/02 20:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 95 | 10/01 20:06 | 10/02 19:35 | ⚠ 755分（05:19→17:55） |
-| FirstSquawk | 299 | 10/01 19:59 | 10/02 19:32 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 378 | 10/01 20:02 | 10/02 19:42 | ⚠ 79分（06:41→08:00） |
+| DeItaone | 94 | 10/01 20:33 | 10/02 20:12 | ⚠ 755分（05:19→17:55） |
+| FirstSquawk | 300 | 10/01 20:28 | 10/02 20:08 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 376 | 10/01 20:19 | 10/02 20:17 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 732 行（統合前 778 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 734 行（統合前 776 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 19:59 [FirstSquawk] EU SPOX: UP TO UK TO DECIDE HOW TO MANAGE, DEVELOP EU TIES
-- 10/01 20:02 [financialjuice] The EU is talking to some European states and the UK about the diesel situation
-- 10/01 20:03 [financialjuice] Trump to Time: I liked Anthropic CEO Amodei a lot
-- 10/01 20:06 [financialjuice/DeItaone] Trump sees ramping up bombing Iran after midterms possible - Time
-- 10/01 20:07 [financialjuice/DeItaone] Trump to Time: Some forms of ammunition are a little bit lower
-- 10/01 20:07 [FirstSquawk] TRUMP SAYS 'PRETTY BAD' THEY KEEP RAISING INTEREST RATES
-- 10/01 20:08 [DeItaone] *TRUMP SAYS HE 'DOESN'T BLAME KEVIN' ON INTEREST RATES: TIME
-- 10/01 20:10 [financialjuice] Trump to Time: We'll soon be filling up strategic oil reserves
-- 10/01 20:10 [financialjuice] Trump: High rates hurting economy more than inflation - Time
-- 10/01 20:10 [financialjuice] Trump: Certain levels of inflation help pay off debt - Time
-- 10/01 20:14 [DeItaone] TOTALENERGIES TO INVEST $10 BILLION IN ARGENTINA, CEO POUYANNE SAYS
-- 10/01 20:14 [financialjuice/FirstSquawk] ECB's Nagel, on rise in bond yields - All ECB instruments are for delivering price stability, not for certain yield levels
-- 10/01 20:15 [DeItaone/FirstSquawk] *TRUMP TO TIME: WE'LL SOON BE FILLING UP STRATEGIC OIL RESERVE
 - 10/01 20:19 [financialjuice] Trump: Dinner with Anthropic CEO Amodei lasted more than two hours - Time
+- 10/01 20:28 [FirstSquawk] ECB'S NAGEL: ON RISE IN BOND YIELDS - ALL ECB INSTRUMENTS ARE FOR DELIVERING PRICE STABILITY NOT FOR CERTAIN YIELD LEVELS
+- 10/01 20:28 [FirstSquawk] TRUMP TO TIME: WE'LL SOON BE FILLING UP STRATEGIC OIL RESERVE
 - 10/01 20:28 [FirstSquawk] TRUMP: AMODEI VERY SMART, DIFFERENT THAN TRUMP THOUGHT: TIME
 - 10/01 20:32 [financialjuice] Iran's president Pezeshkian: Tehran won't ever shy away from dialogue, even as the US targeted Iran several times - Tasnim
 - 10/01 20:33 [DeItaone] CITI RAISES BITCOIN TARGET TO $113,000 Citi has raised its 12-month Bitcoin target to $113,000 from $82,000, implying roughly 35% upside from current levels near $83,900. The bank points to renewed currency-debasement fears, greater regulat…
@@ -756,3 +745,16 @@
 - 10/02 19:35 [DeItaone] Mapped: Gas Prices by U.S. State in 2026 ⛽
 - 10/02 19:42 [financialjuice] EU Spokesperson: Supplies are stable for the time being
 - 10/02 19:42 [financialjuice] EU Spokesperson: We reject any ban on diesel.
+- 10/02 19:59 [DeItaone] FRENCH-GERMAN BOND SPREAD WIDENS TO 150 BASIS POINTS France’s 10-year yield premium over Germany has widened to 1.5 percentage points, after already reaching its highest level since 2012. RBC BlueBay’s Mike Bell says the spread could reach …
+- 10/02 20:02 [DeItaone] EU “FULLY REJECTS” POTENTIAL U.S. DIESEL EXPORT BAN The European Union says it “fully rejects” any potential U.S. ban on diesel exports, warning such a move would undermine trust in Washington as a reliable partner. At the same time, Brusse…
+- 10/02 20:08 [FirstSquawk] EU PREPARES FOR JOINT OIL MARKET MOVES IF IEA DEEMS IT NEEDED.
+- 10/02 20:08 [FirstSquawk] ALIBABA AND SOLARIA ARE DISCUSSING A POWER SUPPLY FOR A DATA CENTER IN SPAIN.
+- 10/02 20:08 [FirstSquawk] ALIBABA AND SOLARIA ARE IN INITIAL DISCUSSIONS, NO CONCLUSIONS REACHED YET.
+- 10/02 20:09 [DeItaone] FRENCH BOND ROUT APPROACHES EURO DEBT-CRISIS LEVELS France’s 10-year yield spread over Germany widened to 152 basis points, reaching levels not seen since 2011 as fiscal and political concerns intensify. Candriam CIO Nicolas Forest says Fre…
+- 10/02 20:12 [DeItaone] OPEC+ OIL PRODUCTION CAPACITY ASSESSMENT EXERCISE IS DELAYED BECAUSE NOT ALL COUNTRIES HAVE SUBMITTED DATA, SOURCES SAY OPEC+ OIL CAPACITY ASSESSMENT EXERCISE IS EXPECTED TO BE COMPLETED BY MID-NOVEMBER, SOURCE SAYS
+- 10/02 20:12 [financialjuice] Russian Deputy PM Novak: OPEC+ countries will discuss standard issues relating to the oil market and quota compliance at Sunday's meeting
+- 10/02 20:12 [financialjuice] OPEC+ oil production capacity assessment exercise is delayed because not all countries have submitted data - Sources
+- 10/02 20:12 [financialjuice] OPEC+ oil capacity assessment exercise is expected to be completed by mid-November - Source.
+- 10/02 20:13 [financialjuice] Russian Deputy PM Novak: Russia is currently basing its 2027 oil production forecast on a moderately conservative scenario
+- 10/02 20:14 [financialjuice] Russia’s Deputy PM Novak: OPEC+ members continue production capacity review - Tass
+- 10/02 20:17 [financialjuice] Microsoft & Amazon cloud arms set to face deeper EU scrutiny $MSFT $AMZN

@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-02 19:54 JST／対象: 10/02 07:54 〜 10/02 19:54 JST（時刻はすべて日本時間）
+生成: 2026-10-02 20:17 JST／対象: 10/02 08:17 〜 10/02 20:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 20 | 10/02 17:55 | 10/02 19:35 | 23分（18:02→18:25） |
-| FirstSquawk | 138 | 10/02 08:16 | 10/02 19:32 | 38分（17:15→17:53） |
-| financialjuice | 108 | 10/02 08:00 | 10/02 19:42 | ⚠ 49分（18:00→18:49） |
+| DeItaone | 24 | 10/02 17:55 | 10/02 20:12 | 23分（19:35→19:59） |
+| FirstSquawk | 140 | 10/02 08:46 | 10/02 20:08 | 38分（17:15→17:53） |
+| financialjuice | 109 | 10/02 08:20 | 10/02 20:17 | ⚠ 49分（18:00→18:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 262 行（統合前 266 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 269 行（統合前 273 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 08:00 [financialjuice] S. KOREAN CPI MOM ACTUAL 0.3% (FORECAST 0.4%, PREVIOUS 0.20%) $MACRO
-- 10/02 08:00 [financialjuice] S. KOREAN CPI YOY ACTUAL 2.9% (FORECAST 2.9%, PREVIOUS 3.10%) $MACRO
-- 10/02 08:00 [financialjuice] S.Korea Sept consumer price index rises 0.3% m/m: stats office
-- 10/02 08:00 [financialjuice] S. Korea September core CPI rises 2.8% y/y, down from 3.4% in August: stats office
-- 10/02 08:00 [financialjuice] S. Korea Sept consumer price index rises 2.9% y/y: stats office
-- 10/02 08:16 [FirstSquawk] SOUTH KOREA'S SEPTEMBER CONSUMER PRICE INDEX ROSE 2.9% YEAR-ON-YEAR, IN LINE WITH THE FORECAST AND EASING FROM 3.10%, AND WAS UP 0.3% MONTH-ON-MONTH, WITH CORE CPI UP 2.8% Y/Y, DOWN FROM 3.4% IN AUGUST - STATS OFFICE
 - 10/02 08:20 [financialjuice] Logan: higher yields may also indicate increased term premiums, lowering need to tighten monetary policy
 - 10/02 08:20 [financialjuice] Logan: Economic expansion strengthening, labor market well balanced
 - 10/02 08:20 [financialjuice] Logan: Fed policy is not restrictive, must be modestly tight
@@ -286,3 +280,16 @@
 - 10/02 19:35 [DeItaone] Mapped: Gas Prices by U.S. State in 2026 ⛽
 - 10/02 19:42 [financialjuice] EU Spokesperson: Supplies are stable for the time being
 - 10/02 19:42 [financialjuice] EU Spokesperson: We reject any ban on diesel.
+- 10/02 19:59 [DeItaone] FRENCH-GERMAN BOND SPREAD WIDENS TO 150 BASIS POINTS France’s 10-year yield premium over Germany has widened to 1.5 percentage points, after already reaching its highest level since 2012. RBC BlueBay’s Mike Bell says the spread could reach …
+- 10/02 20:02 [DeItaone] EU “FULLY REJECTS” POTENTIAL U.S. DIESEL EXPORT BAN The European Union says it “fully rejects” any potential U.S. ban on diesel exports, warning such a move would undermine trust in Washington as a reliable partner. At the same time, Brusse…
+- 10/02 20:08 [FirstSquawk] EU PREPARES FOR JOINT OIL MARKET MOVES IF IEA DEEMS IT NEEDED.
+- 10/02 20:08 [FirstSquawk] ALIBABA AND SOLARIA ARE DISCUSSING A POWER SUPPLY FOR A DATA CENTER IN SPAIN.
+- 10/02 20:08 [FirstSquawk] ALIBABA AND SOLARIA ARE IN INITIAL DISCUSSIONS, NO CONCLUSIONS REACHED YET.
+- 10/02 20:09 [DeItaone] FRENCH BOND ROUT APPROACHES EURO DEBT-CRISIS LEVELS France’s 10-year yield spread over Germany widened to 152 basis points, reaching levels not seen since 2011 as fiscal and political concerns intensify. Candriam CIO Nicolas Forest says Fre…
+- 10/02 20:12 [DeItaone] OPEC+ OIL PRODUCTION CAPACITY ASSESSMENT EXERCISE IS DELAYED BECAUSE NOT ALL COUNTRIES HAVE SUBMITTED DATA, SOURCES SAY OPEC+ OIL CAPACITY ASSESSMENT EXERCISE IS EXPECTED TO BE COMPLETED BY MID-NOVEMBER, SOURCE SAYS
+- 10/02 20:12 [financialjuice] Russian Deputy PM Novak: OPEC+ countries will discuss standard issues relating to the oil market and quota compliance at Sunday's meeting
+- 10/02 20:12 [financialjuice] OPEC+ oil production capacity assessment exercise is delayed because not all countries have submitted data - Sources
+- 10/02 20:12 [financialjuice] OPEC+ oil capacity assessment exercise is expected to be completed by mid-November - Source.
+- 10/02 20:13 [financialjuice] Russian Deputy PM Novak: Russia is currently basing its 2027 oil production forecast on a moderately conservative scenario
+- 10/02 20:14 [financialjuice] Russia’s Deputy PM Novak: OPEC+ members continue production capacity review - Tass
+- 10/02 20:17 [financialjuice] Microsoft & Amazon cloud arms set to face deeper EU scrutiny $MSFT $AMZN
