@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-03 06:35 JST／対象: 10/02 18:35 〜 10/03 06:35 JST（時刻はすべて日本時間）
+生成: 2026-10-03 06:52 JST／対象: 10/02 18:52 〜 10/03 06:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 56 | 10/02 18:49 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
+| DeItaone | 53 | 10/02 18:58 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
 | FirstSquawk | 114 | 10/02 18:57 | 10/03 05:02 | 44分（20:46→21:31） |
-| financialjuice | 159 | 10/02 18:49 | 10/03 06:32 | ⚠ 71分（05:20→06:32） |
+| financialjuice | 153 | 10/02 19:16 | 10/03 06:41 | ⚠ 71分（05:20→06:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 315 行（統合前 331 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 306 行（統合前 322 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 18:49 [DeItaone] RUSSIAN DEPUTY PM NOVAK: RUSSIA WILL BE CONSIDERING PARTIALLY LIFTING DIESEL EXPORTS RESTRICTIONS
-- 10/02 18:49 [financialjuice] Poll: Euro forecast to trade at $1.15 at year-end, $1.15 in six months and $1.16 in a year (vs $1.16, $1.17 and $1.18 in the September poll)
-- 10/02 18:50 [financialjuice] Poll: US Dollar More likely to trade stronger than expectations at year-end, according to 52 of 66 FX strategists
-- 10/02 18:50 [DeItaone] *NOVAK: MAY PARTLY REOPEN DIESEL EXPORTS IF OVERSUPPLY: IFX
-- 10/02 18:50 [financialjuice] Russia’s Deputy PM Novak: Russia did a lot of work on protecting refineries - TASS
-- 10/02 18:51 [financialjuice] Russia’s Deputy PM Novak: Damage to refineries much lower now - Tass
-- 10/02 18:51 [DeItaone] RUSSIAN DEPUTY PM NOVAK: RUSSIA WILL CONSIDER IT IN CASE OF OVERPRODUCTION
-- 10/02 18:51 [financialjuice] Russian Deputy PM Novak: Russia repelled attacks on 4 oil refineries overnight
-- 10/02 18:51 [financialjuice] Russian Deputy PM Novak: Russia will be considering partially lifting diesel export restrictions
-- 10/02 18:51 [financialjuice] Russia’s Deputy PM Novak: Russia may allow diesel exports if overproduction - Tass
 - 10/02 18:57 [FirstSquawk] RUSSIA'S DEPUTY PM NOVAK ANNOUNCED THAT THE COUNTRY DEFENDED FOUR OIL REFINERIES FROM ATTACKS LAST NIGHT. HE ALSO STATED THAT RUSSIA MAY PARTIALLY LIFT DIESEL EXPORT RESTRICTIONS IF THERE IS OVERPRODUCTION.
 - 10/02 18:57 [FirstSquawk] TOYOTA MOTOR THAILAND PLANTS AND TOYOTA AUTO WORKS WILL STAY CLOSED UNTIL OCTOBER 10.
 - 10/02 18:57 [FirstSquawk] TOYOTA MOTOR IS FACING CONTINUED DISRUPTIONS IN PARTS DELIVERY DUE TO FLOODS IN THAILAND.
@@ -339,3 +329,4 @@
 - 10/03 05:07 [financialjuice] Stocks Rise as Weak Jobs Report Eases Fed Rate-Hike Fears – US Market Wrap
 - 10/03 05:20 [financialjuice] scope affirms US long-term ratings at aa- with stable outlook
 - 10/03 06:32 [financialjuice] Columbia University journalism program pauses admissions after applications fall over US visa rules: sources
+- 10/03 06:41 [financialjuice] North Korea launches unidentified projectile into sea off east coast: South Korea military
