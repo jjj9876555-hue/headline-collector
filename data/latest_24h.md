@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-03 05:19 JST／対象: 10/02 05:19 〜 10/03 05:19 JST（時刻はすべて日本時間）
+生成: 2026-10-03 05:35 JST／対象: 10/02 05:35 〜 10/03 05:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 64 | 10/02 05:19 | 10/03 05:04 | ⚠ 755分（05:19→17:55） |
+| DeItaone | 63 | 10/02 17:55 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
 | FirstSquawk | 244 | 10/02 05:43 | 10/03 05:02 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 250 | 10/02 05:24 | 10/03 05:07 | ⚠ 79分（06:41→08:00） |
+| financialjuice | 250 | 10/02 06:01 | 10/03 05:20 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 541 行（統合前 560 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 540 行（統合前 559 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 05:19 [DeItaone] TRUMP: MAY ASK EUROPEAN COUNTRIES TO RELEASE DIESEL STOCKS
-- 10/02 05:24 [financialjuice] Trump ends remarks to reporters.
 - 10/02 05:43 [FirstSquawk] ONSEMI IS TO BUY SYNAPTICS FOR $123 PER SHARE IN CASH UNDER A REVISED MERGER AGREEMENT, VALUING THE DEAL AT $5.70 BLN, SOURCES SAY, WITH THE TRANSACTION EXPECTED TO BE IMMEDIATELY ACCRETIVE TO ONSEMI'S NON-GAAP EPS AND FINANCED WITH CASH AN…
 - 10/02 05:43 [FirstSquawk] ONSEMI SAYS THE COMPANIES HAVE IDENTIFIED FURTHER OPPORTUNITIES BEYOND $200 MLN IN ANNUAL RUN-RATE SYNERGIES.
 - 10/02 06:01 [financialjuice/FirstSquawk] Egypt declares Ethiopian embassy counsellor persona non grata, orders departure within 48 hours: official, al Qahera news
@@ -565,3 +563,4 @@
 - 10/03 05:02 [FirstSquawk] US PRES. TRUMP: IRAN IS NOT DOING WELL
 - 10/03 05:03 [financialjuice] Trump ends comments at the White House
 - 10/03 05:07 [financialjuice] Stocks Rise as Weak Jobs Report Eases Fed Rate-Hike Fears – US Market Wrap
+- 10/03 05:20 [financialjuice] scope affirms US long-term ratings at aa- with stable outlook

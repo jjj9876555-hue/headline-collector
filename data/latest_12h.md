@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-03 05:19 JST／対象: 10/02 17:19 〜 10/03 05:19 JST（時刻はすべて日本時間）
+生成: 2026-10-03 05:35 JST／対象: 10/02 17:35 〜 10/03 05:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 63 | 10/02 17:55 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
 | FirstSquawk | 119 | 10/02 17:53 | 10/03 05:02 | 44分（20:46→21:31） |
-| financialjuice | 163 | 10/02 17:20 | 10/03 05:07 | ⚠ 49分（18:00→18:49） |
+| financialjuice | 161 | 10/02 18:00 | 10/03 05:20 | ⚠ 49分（18:00→18:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 331 行（統合前 347 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 329 行（統合前 345 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 17:20 [financialjuice] Moody's on France: It is far from certain a compromise can be reached on the 2027 budget as the proximity of next spring's elections risks hardening political positions.
-- 10/02 17:31 [financialjuice] UK September decision maker year-ahead CPI expectations 3.3%.
-- 10/02 17:32 [financialjuice] Bank of England Decision Maker Panel: Firms year-ahead expected wage growth unchanged at 3.4% in the three months to September.
 - 10/02 17:53 [FirstSquawk] FRANCE SUGGESTS RELEASING 50 MILLION BARRELS OF DIESEL AND 50 MILLION BARRELS OF OIL FROM IEA MEMBERS.
 - 10/02 17:53 [FirstSquawk] UKRAINE PRESIDENT ZELENSKIY HAS ANNOUNCED THAT UKRAINE ATTACKED RUSSIAN REFINERIES LAST NIGHT.
 - 10/02 17:55 [DeItaone] *FRANCE HAS PROPOSED NEW EUROPE, IEA RELEASE OF DIESEL AND CRUDE
@@ -355,3 +352,4 @@
 - 10/03 05:02 [FirstSquawk] US PRES. TRUMP: IRAN IS NOT DOING WELL
 - 10/03 05:03 [financialjuice] Trump ends comments at the White House
 - 10/03 05:07 [financialjuice] Stocks Rise as Weak Jobs Report Eases Fed Rate-Hike Fears – US Market Wrap
+- 10/03 05:20 [financialjuice] scope affirms US long-term ratings at aa- with stable outlook
