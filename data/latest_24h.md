@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-02 14:35 JST／対象: 10/01 14:35 〜 10/02 14:35 JST（時刻はすべて日本時間）
+生成: 2026-10-02 14:53 JST／対象: 10/01 14:53 〜 10/02 14:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 93 | 10/01 16:25 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 320 | 10/01 14:37 | 10/02 14:30 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 379 | 10/01 15:00 | 10/02 14:07 | ⚠ 79分（06:41→08:00） |
+| FirstSquawk | 319 | 10/01 15:00 | 10/02 14:50 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 380 | 10/01 15:00 | 10/02 14:43 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 754 行（統合前 798 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,11 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 14:37 [FirstSquawk] Hungary’s MOL gets approval to continue NIS talks until Oct. 30
-- 10/01 14:37 [FirstSquawk] Hungary’s MOL secures US approval to continue talks on acquiring majority ownership of Serbia’s NIS
-- 10/01 14:39 [FirstSquawk] UBS says it has taken note of Artisan Partners’ open letter to its board
-- 10/01 14:39 [FirstSquawk] UBS reiterates goal of continuing to operate successfully as a global bank from Switzerland
-- 10/01 14:44 [FirstSquawk] Chinese refiners halt October fuel exports as PetroChina cancels cargoes, sources say
 - 10/01 15:00 [financialjuice] UK NATIONWIDE HOUSE PRICE YOY ACTUAL 0.8% (FORECAST -, PREVIOUS 1.6%) $MACRO
 - 10/01 15:00 [financialjuice] UK NATIONWIDE HOUSE PRICE MOM ACTUAL -0.2% (FORECAST -, PREVIOUS 0.2%) $MACRO
 - 10/01 15:00 [FirstSquawk] UK (SEP) NATIONWIDE HOUSE PX MOM ACTUAL: -0.2% VS 0.2% PREVIOUS;EST 0.0%
@@ -778,3 +773,8 @@
 - 10/02 14:15 [FirstSquawk] JAPAN 40-YEAR JGB YIELD CLIMBS 5 BPS TO 4.270%
 - 10/02 14:20 [FirstSquawk] INDONESIAN RUPIAH GAINS AS DOLLAR SLIPS AMID LOWER FED RATE-HIKE EXPECTATIONS - FX
 - 10/02 14:30 [FirstSquawk] ITALGAS AGREES TO ACQUIRE 22.5% OF FLOENE FROM MARUBENI, TOHO GAS FOR €120M - RTRS
+- 10/02 14:42 [FirstSquawk] FRANCE'S LESCURE: EVERY MEASURE IN BUDGET PROPOSAL IS OPEN FOR NEGOTIATION
+- 10/02 14:43 [financialjuice] French finance minister Lescure: Debt sales go well, but interest rates are too high, budget will help bring them down
+- 10/02 14:43 [FirstSquawk] FRENCH FINANCE MINISTER: BUDGET WILL HELP LOWER HIGH INTEREST RATES
+- 10/02 14:47 [FirstSquawk] JAPAN 10-YEAR JGB YIELD REBOUNDS TO 3.100%, UP 0.5 BP
+- 10/02 14:50 [FirstSquawk] KREMLIN SAYS RUSSIA WILL CONTINUE EFFORTS TO STOP WEAPONS, FUEL SUPPLIES TO UKRAINE VIA BLACK SEA

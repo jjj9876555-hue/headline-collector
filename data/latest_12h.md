@@ -7,56 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-02 14:35 JST／対象: 10/02 02:35 〜 10/02 14:35 JST（時刻はすべて日本時間）
+生成: 2026-10-02 14:53 JST／対象: 10/02 02:53 〜 10/02 14:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 18 | 10/02 02:36 | 10/02 05:19 | ⚠ 96分（03:42→05:19） |
-| FirstSquawk | 158 | 10/02 02:37 | 10/02 14:30 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 154 | 10/02 02:35 | 10/02 14:07 | ⚠ 79分（06:41→08:00） |
+| DeItaone | 13 | 10/02 02:54 | 10/02 05:19 | ⚠ 96分（03:42→05:19） |
+| FirstSquawk | 152 | 10/02 02:55 | 10/02 14:50 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 137 | 10/02 02:53 | 10/02 14:43 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 315 行（統合前 331 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 287 行（統合前 302 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 02:35 [financialjuice] Saudi Defence Minister: Held call with US Defense Secretary, reviewed Saudi-US strategic defence partnership
-- 10/02 02:36 [DeItaone] ANTHROPIC TARGETS IPO BEFORE THANKSGIVING Anthropic is reportedly seeking to go public as soon as mid-November, with formal IPO marketing potentially starting the week of Nov. 9. Prospective investors see a potential valuation of roughly $1…
-- 10/02 02:37 [FirstSquawk] TRUMP, ASKED IF THE PILOT HAD ANY CONNECTION TO IRAN: WE ARE LOOKING INTO THAT, ACCORDING TO WHAT I'M HEARING, YES - ISRAEL'S N12 NEWS
-- 10/02 02:37 [FirstSquawk] HOUTHI-RUN SABA NEWS AGENCY, CITING A MILITARY SOURCE: DENIES GROUP ATTACKED A POWER STATION IN SAUDI ARABIA'S MEDINA
-- 10/02 02:38 [DeItaone] *JEFFERSON SAYS FED MAY NEED ‘MORE TIME’ TO DECIDE ON NEXT MOVE *JEFFERSON: INFLATION RISKS ARE TILTED TO THE UPSIDE *JEFFERSON: NOT SEEING INFLATION SPILLOVERS FROM TARIFFS, ENERGY *JEFFERSON: EXPECT NEAR-TERM GROWTH TO REMAIN AT FIRST-HAL…
-- 10/02 02:40 [DeItaone] FED LEADERS SIGNAL NO URGENCY FOR OCTOBER RATE HIKE Fed Vice Chair Philip Jefferson says officials “may take more time” before deciding on another rate increase, echoing NY Fed President John Williams. Their aligned message suggests Fed lea…
-- 10/02 02:40 [FirstSquawk] STELLANTIS US SALES RISE 3% Y/Y THROUGH Q3 2026; Q3 VEHICLE SALES HIT 324,277 UNITS
-- 10/02 02:42 [FirstSquawk] US STOCKS TURN POSITIVE: S&P 500 & NASDAQ +0.3% EACH; DOW JONES +0.1%
-- 10/02 02:42 [FirstSquawk] TOYOTA MOTOR NORTH AMERICA: OPENS TOYOTA BATTERY CENTRE OF NORTH AMERICA IN SALINE, MICHIGAN
-- 10/02 02:44 [financialjuice] Fed's Kashkari: Open-minded about how fast the Fed should raise interest rates.
-- 10/02 02:44 [financialjuice] Fed's Kashkari: September rate projections were for one more hike this year, another in 2027.
-- 10/02 02:44 [financialjuice] Fed's Kashkari: No sense in monetary policy providing much restraint at the current moment.
-- 10/02 02:45 [FirstSquawk] FIFTEEN U.S. STATES HAVE FILED A FRAUD LAWSUIT OVER CORTEVA'S VYLOR SEED BUSINESS SPINOFF, ALLEGING THAT THE VYLOR SPINOFF FRAUDULENTLY ATTEMPTS TO CUT OFF THE SEED COMPANY'S PFAS LIABILITIES, AND SAYING THAT DUPONT SUCCESSORS CORTEVA AND V…
-- 10/02 02:45 [financialjuice] Fed's Kashkari: Economy has outperformed expectations since Fed's September policy meeting.
-- 10/02 02:45 [FirstSquawk] FED'S KASHKARI SAYS 'I DON'T HAVE A STRONG VIEW' ABOUT AN OCTOBER RATE HIKE AND IS OPEN-MINDED ABOUT HOW FAST THE FED SHOULD RAISE RATES, WITH HIS SEPTEMBER PROJECTIONS FOR ONE MORE HIKE THIS YEAR AND ANOTHER IN 2027, THOUGH DEPENDING ON TH…
-- 10/02 02:45 [financialjuice] Frd's Kashkari: Don't see meaningful tightening in financial conditions given the data.
-- 10/02 02:45 [FirstSquawk] FED'S KASHKARI SAYS THERE IS 'NO SENSE MONETARY POLICY IS PROVIDING MUCH RESTRAINT AT THE CURRENT MOMENT', HE DOESN'T SEE MEANINGFUL TIGHTENING IN FINANCIAL CONDITIONS, AND THE ECONOMY HAS OUTPERFORMED EXPECTATIONS SINCE THE SEPTEMBER MEETI…
-- 10/02 02:45 [financialjuice] Fed's Kashkari: I have some confidence inflation will fade, but shocks keep happening.
-- 10/02 02:45 [FirstSquawk] FED'S KASHKARI SAYS THE FED'S SEPTEMBER RATE HIKE SHOWED THE CENTRAL BANK WILL ACT TO LOWER INFLATION AND THAT MARKETS NOW SEE CHAIRMAN WARSH WILL ACT TO COOL IT, WITH MARKET INFLATION EXPECTATIONS STILL CENTERED ON 2%, AND ADDS THAT HE DOE…
-- 10/02 02:45 [financialjuice] Fed's Kashkari: Fed's September rate hike showed the central bank will act to lower inflation.
-- 10/02 02:45 [financialjuice] Fed's Kashkari: Markets now see that Fed Chairman Warsh will act to cool inflation.
-- 10/02 02:45 [financialjuice] Fed's Kashkari: Depending on the economy's performance, the Fed may have to hike more than expected.
-- 10/02 02:46 [financialjuice] Fed's Kashkari: Supply shocks should fade, rate hikes are aimed at tempering price expectations.
-- 10/02 02:46 [financialjuice] Fed's Kashkari: Even with yield rise, Treasury market has been functioning.
-- 10/02 02:46 [financialjuice] Fed's Kashkari: Do not see signs of systemic risk in the financial system.
-- 10/02 02:46 [DeItaone] FED’S KASHKARI OPEN-MINDED ON OCTOBER RATE HIKE Fed’s Neel Kashkari says he has “no strong view” on an October hike and remains open-minded on the pace of tightening. His September projections called for one more hike in 2026 and another in…
-- 10/02 02:51 [financialjuice] The US is sending a third aircraft carrier to the Middle East - WSJ
-- 10/02 02:51 [financialjuice] The US is sending up to 10,000 more troops to the Middle East - WSJ
-- 10/02 02:52 [FirstSquawk] THE U.S. IS SENDING UP TO 10,000 MORE TROOPS TO THE MIDDLE EAST, ALONG WITH A THIRD AIRCRAFT CARRIER - WSJ
-- 10/02 02:52 [financialjuice] Fed's Jefferson: inflation has resulted from a cascade of shocks.
-- 10/02 02:52 [DeItaone] U.S. SENDS THIRD AIRCRAFT CARRIER TOWARD MIDDLE EAST The Pentagon is deploying another aircraft-carrier strike group and additional Marine ships to the Middle East, adding roughly 9,000–10,000 troops, according to the WSJ. The forces are ex…
-- 10/02 02:53 [financialjuice] Putin: Chinese investors may take part in a big Copper deposit development in Siberia.
-- 10/02 02:53 [financialjuice] Fed's Jefferson: Longer-term inflation expectations show the Fed is credible on getting inflation down.
 - 10/02 02:53 [financialjuice] Fed's Jefferson: The Fed has to be prepared to do the needed work to validate inflation expectations.
 - 10/02 02:54 [financialjuice] Fed's jefferson: Fed is firmly committed to returning inflation to 2% in a timely manner.
 - 10/02 02:54 [DeItaone] *US SENDING THIRD AIRCRAFT CARRIER TO MIDDLE EAST: WSJ *US SENDING UP TO 10,000 MORE TROOPS TO MIDDLE EAST : WSJ
@@ -339,3 +306,8 @@
 - 10/02 14:15 [FirstSquawk] JAPAN 40-YEAR JGB YIELD CLIMBS 5 BPS TO 4.270%
 - 10/02 14:20 [FirstSquawk] INDONESIAN RUPIAH GAINS AS DOLLAR SLIPS AMID LOWER FED RATE-HIKE EXPECTATIONS - FX
 - 10/02 14:30 [FirstSquawk] ITALGAS AGREES TO ACQUIRE 22.5% OF FLOENE FROM MARUBENI, TOHO GAS FOR €120M - RTRS
+- 10/02 14:42 [FirstSquawk] FRANCE'S LESCURE: EVERY MEASURE IN BUDGET PROPOSAL IS OPEN FOR NEGOTIATION
+- 10/02 14:43 [financialjuice] French finance minister Lescure: Debt sales go well, but interest rates are too high, budget will help bring them down
+- 10/02 14:43 [FirstSquawk] FRENCH FINANCE MINISTER: BUDGET WILL HELP LOWER HIGH INTEREST RATES
+- 10/02 14:47 [FirstSquawk] JAPAN 10-YEAR JGB YIELD REBOUNDS TO 3.100%, UP 0.5 BP
+- 10/02 14:50 [FirstSquawk] KREMLIN SAYS RUSSIA WILL CONTINUE EFFORTS TO STOP WEAPONS, FUEL SUPPLIES TO UKRAINE VIA BLACK SEA
