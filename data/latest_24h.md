@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-02 12:54 JST／対象: 10/01 12:54 〜 10/02 12:54 JST（時刻はすべて日本時間）
+生成: 2026-10-02 13:19 JST／対象: 10/01 13:19 〜 10/02 13:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 93 | 10/01 16:25 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 322 | 10/01 13:05 | 10/02 12:47 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 393 | 10/01 13:02 | 10/02 12:24 | ⚠ 79分（06:41→08:00） |
+| FirstSquawk | 324 | 10/01 13:24 | 10/02 13:12 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 393 | 10/01 13:31 | 10/02 13:04 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 770 行（統合前 814 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 772 行（統合前 816 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 13:02 [financialjuice] California agriculture files lawsuit challenging Trump administration's unlawful attempt to impound congressionally approved federal funding
-- 10/01 13:03 [financialjuice] EU questions Binance over ongoing operations despite order to wind down - FT
-- 10/01 13:05 [FirstSquawk] IBM unveils self-hosted IBM Bob option aimed at enterprise AI sovereignty and governance
-- 10/01 13:06 [FirstSquawk] Big Tech outspends European companies on lobbying in Brussels — FT
-- 10/01 13:07 [FirstSquawk] PwC withholds sign-off on Nidec accounts despite $4 billion charge — FT
-- 10/01 13:07 [FirstSquawk] EU presses Binance on continued operations despite wind-down directive — FT
 - 10/01 13:24 [FirstSquawk] Dollar advances to 101.62, highest level in two months
 - 10/01 13:31 [financialjuice] S. Korea president Lee appoints Ha Joon-Kyung as new policy adviser for economic growth - Blue House
 - 10/01 13:31 [financialjuice] India monthly econ report: India's economic outlook faces upside inflation risks from mounting climate, geopolitical and monetary pressures
@@ -794,3 +788,11 @@
 - 10/02 12:29 [FirstSquawk] Fitch Maintains Toyota’s ‘A+’ Rating With Stable Outlook
 - 10/02 12:36 [FirstSquawk] Gas Malaysia Sees Kedah Regasification Terminal Starting Commercial Operations by End-2030
 - 10/02 12:47 [FirstSquawk] Japan’s Acting Envoy Holds First Meeting With Myanmar Foreign Chief
+- 10/02 13:00 [FirstSquawk] US Regulator Seeks to Ease Crypto Holdings for Funds, Advisers, CNBC Says
+- 10/02 13:02 [financialjuice] Amazon plans to sell $8bn of Nvidia chips to investors: FT
+- 10/02 13:04 [FirstSquawk] 30-Year JGB Yield Rises 2 Basis Points to 4.190%
+- 10/02 13:04 [financialjuice] Yemen's armed forces: air force conducts 20 strikes on Houthi targets across multiple areas of Taiz province in past three hours - spokesperson on X
+- 10/02 13:07 [FirstSquawk] AMAZON SEEKS INVESTORS TO TAKE ON $8B OF NVIDIA CHIPS - FT
+- 10/02 13:07 [FirstSquawk] ZELENSKYY: PUTIN INSTRUCTED MILITARY LEADERS TO ABANDON RULES OF WAR - FT
+- 10/02 13:08 [FirstSquawk] UK MINISTERS REJECT UNION PRESSURE TO RESCUE SCOTTISH STEELMAKER - FT
+- 10/02 13:12 [FirstSquawk] JAPAN 20-YEAR JGB YIELD CLIMBS 1 BP TO 3.950%

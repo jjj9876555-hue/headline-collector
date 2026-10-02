@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-02 12:54 JST／対象: 10/02 06:54 〜 10/02 12:54 JST（時刻はすべて日本時間）
+生成: 2026-10-02 13:19 JST／対象: 10/02 07:19 〜 10/02 13:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 72 | 10/02 08:16 | 10/02 12:47 | 29分（08:16→08:46） |
-| financialjuice | 46 | 10/02 08:00 | 10/02 12:24 | ⚠ 49分（11:35→12:24） |
+| FirstSquawk | 78 | 10/02 08:16 | 10/02 13:12 | 29分（08:16→08:46） |
+| financialjuice | 48 | 10/02 08:00 | 10/02 13:04 | ⚠ 49分（11:35→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 117 行（統合前 118 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 125 行（統合前 126 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -141,3 +141,11 @@
 - 10/02 12:29 [FirstSquawk] Fitch Maintains Toyota’s ‘A+’ Rating With Stable Outlook
 - 10/02 12:36 [FirstSquawk] Gas Malaysia Sees Kedah Regasification Terminal Starting Commercial Operations by End-2030
 - 10/02 12:47 [FirstSquawk] Japan’s Acting Envoy Holds First Meeting With Myanmar Foreign Chief
+- 10/02 13:00 [FirstSquawk] US Regulator Seeks to Ease Crypto Holdings for Funds, Advisers, CNBC Says
+- 10/02 13:02 [financialjuice] Amazon plans to sell $8bn of Nvidia chips to investors: FT
+- 10/02 13:04 [FirstSquawk] 30-Year JGB Yield Rises 2 Basis Points to 4.190%
+- 10/02 13:04 [financialjuice] Yemen's armed forces: air force conducts 20 strikes on Houthi targets across multiple areas of Taiz province in past three hours - spokesperson on X
+- 10/02 13:07 [FirstSquawk] AMAZON SEEKS INVESTORS TO TAKE ON $8B OF NVIDIA CHIPS - FT
+- 10/02 13:07 [FirstSquawk] ZELENSKYY: PUTIN INSTRUCTED MILITARY LEADERS TO ABANDON RULES OF WAR - FT
+- 10/02 13:08 [FirstSquawk] UK MINISTERS REJECT UNION PRESSURE TO RESCUE SCOTTISH STEELMAKER - FT
+- 10/02 13:12 [FirstSquawk] JAPAN 20-YEAR JGB YIELD CLIMBS 1 BP TO 3.950%
