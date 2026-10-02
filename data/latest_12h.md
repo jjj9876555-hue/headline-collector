@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-03 04:47 JST／対象: 10/02 16:47 〜 10/03 04:47 JST（時刻はすべて日本時間）
+生成: 2026-10-03 05:00 JST／対象: 10/02 17:00 〜 10/03 05:00 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 60 | 10/02 17:55 | 10/03 02:33 | ⚠ 124分（00:28→02:33） |
-| FirstSquawk | 124 | 10/02 16:56 | 10/03 04:39 | 44分（20:46→21:31） |
-| financialjuice | 168 | 10/02 16:52 | 10/03 04:42 | ⚠ 49分（18:00→18:49） |
+| FirstSquawk | 125 | 10/02 17:06 | 10/03 05:00 | 44分（20:46→21:31） |
+| financialjuice | 174 | 10/02 17:01 | 10/03 05:00 | ⚠ 49分（18:00→18:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 340 行（統合前 353 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 347 行（統合前 361 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 16:52 [financialjuice] EU countries addressed us demand to release diesel stocks and threat of US diesel export ban in meeting on Friday - Source Familiar with Details of The Discussion.
-- 10/02 16:54 [financialjuice] US has requested that large European countries release 800,000 kilotons of diesel over 6 months - Source Familiar with Discussion
-- 10/02 16:56 [FirstSquawk] AIRBUS TO RECOMMEND AIRLINES INSPECT A330NEO JETS FOR LOOSE ITEMS BEFORE SCHEDULED MAINTENANCE DUE TO FINDING OF STRAY OBJECT IN ASSEMBLY THIS YEAR.
-- 10/02 16:56 [FirstSquawk] UK 2-YEAR GILT YIELDS FALL TO 4.726%, LOWEST LEVEL SINCE SEPTEMBER 22, WITH A DROP OF 9 BASIS POINTS.
-- 10/02 16:56 [financialjuice] G7 leaders may talk Friday afternoon to discuss next steps - source familiar with discussion.
 - 10/02 17:01 [financialjuice] ITALIAN RETAIL SALES MOM ACTUAL 0.30% (FORECAST -, PREVIOUS -0.40%) $MACRO
 - 10/02 17:01 [financialjuice] ITALIAN RETAIL SALES NSA YOY ACTUAL 0.5% (FORECAST -, PREVIOUS 0.80%) $MACRO
 - 10/02 17:05 [financialjuice] North Korea's Kim Yo Jong: South Korea's allegations over border mine clash are baseless - KCNA
@@ -364,3 +359,15 @@
 - 10/03 04:36 [FirstSquawk] BBK CHIEF NAGEL: POSSIBLE THAT GERMAN ECONOMY WILL GROW AROUND 1% THIS YEAR
 - 10/03 04:39 [FirstSquawk] US ARMY CREATES AUTONOMY COMMAND AMID PUSH FOR SMART MACHINERY - AXIOS
 - 10/03 04:42 [financialjuice] Hedge funds turned short yen in the week ended September 29th - CFTC
+- 10/03 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 1156.7 MLN NASDAQ 100: 394.0 MLN DOW 30: 510.1 MLN MAG 7: 356.0 MLN $MACRO
+- 10/03 04:54 [financialjuice] Oman banned Flydubai attacker from flying for radical views, sources say - WSJ
+- 10/03 04:54 [financialjuice] attacker subsequently allowed to fly a sensitive route to Tel Aviv from Dubai - WSJ
+- 10/03 04:54 [FirstSquawk] US WILL PROVIDE A $4 BILLION LOAN TO VISTRA TO INCREASE NUCLEAR PRODUCTION.
+- 10/03 04:55 [financialjuice] Nature of radicalization couldn't be determined - WSJ
+- 10/03 04:58 [financialjuice] Trump: Iran is not doing well.
+- 10/03 04:59 [FirstSquawk] TRUMP ON SOUTH KOREA INVESTMENT IN US: I DIDN'T JUMP THE GUN ON ALASKA PIPELINE
+- 10/03 04:59 [financialjuice] Trump on South Korea investment in the US: I didn't jump the gun on the Alaska pipeline.
+- 10/03 04:59 [financialjuice] Trump: If South Korea doesn't do the pipeline, will charge them more.
+- 10/03 05:00 [financialjuice] Trump Departs White House - WATCH LIVE
+- 10/03 05:00 [FirstSquawk] TRUMP ON DIESEL: WE'RE NOT GOING TO BE DOING THE EXPORT BAN
+- 10/03 05:00 [financialjuice] Trump on Diesel: Won't do export ban.

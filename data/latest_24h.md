@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-03 04:47 JST／対象: 10/02 04:47 〜 10/03 04:47 JST（時刻はすべて日本時間）
+生成: 2026-10-03 05:00 JST／対象: 10/02 05:00 〜 10/03 05:00 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 61 | 10/02 05:19 | 10/03 02:33 | ⚠ 755分（05:19→17:55） |
-| FirstSquawk | 258 | 10/02 04:49 | 10/03 04:39 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 253 | 10/02 04:49 | 10/03 04:42 | ⚠ 79分（06:41→08:00） |
+| FirstSquawk | 256 | 10/02 05:02 | 10/03 05:00 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 255 | 10/02 05:02 | 10/03 05:00 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 552 行（統合前 573 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 554 行（統合前 574 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 04:49 [financialjuice/FirstSquawk] Iran's Foreign Ministry asks Iraq to take steps to lift flight restrictions due to US sanctions and return flights to normal conditions.
-- 10/02 04:50 [financialjuice] USTR Greer: Will continue to advance discussions on the most-favored-nation tariff structure, but did not submit a draft agreement.
-- 10/02 04:50 [financialjuice/FirstSquawk] ❗ fed's Bowman sees no urgent need for more rate moves this year.
-- 10/02 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 2679.2 MLN NASDAQ 100: 989.1 MLN DOW 30: 468.6 MLN MAG 7: 354.6 MLN $MACRO
-- 10/02 04:52 [FirstSquawk] USTR GREER SAYS THE U.S. HAS TECHNICAL TALKS WITH THE CANADIANS BUT THAT THERE ARE 'A HANDFUL OF OUTSTANDING ISSUES THAT ARE DIFFICULT TO RESOLVE', ADDING THAT IT WILL CONTINUE TO ADVANCE DISCUSSIONS ON A MOST-FAVORED-NATION TARIFF STRUCTUR…
-- 10/02 04:52 [FirstSquawk] USTR GREER SAYS THE MEETING HAS NOT CHANGED HIS VIEWS ON THE WTO'S INABILITY TO ADDRESS EXCESS INDUSTRIAL CAPACITY, ADDING THAT THERE IS NOT YET A TIMELINE FOR U.S.-CHINA TARIFF REDUCTIONS UNDER THE BOARD OF TRADE.
-- 10/02 04:52 [financialjuice] USTR Greer: We do not have a timeline yet for the US-China tariff reductions under the Board of trade
-- 10/02 04:53 [financialjuice] Total money market funds fell $ 45.45 B to $7.89t for the week ended september 30th - ICI
-- 10/02 04:56 [financialjuice] Fed's Cook: Don't think private credit is having a big effect on financial stability
-- 10/02 04:58 [FirstSquawk] MUSK SAYS TESLA HAS CUT THE RAM IN HALF FOR THE TESLA AI5 CHIP — NOW 72GB OF LP5 — AND BY A THIRD FOR AI6, NOW 144GB OF LP6, ADDING THAT HE THINKS THIS WILL HAVE A NEGLIGIBLE EFFECT ON OPTIMUS PERFORMANCE
 - 10/02 05:02 [financialjuice/FirstSquawk] Musk: I am cautiously optimistic that we will be able to run the SpaceX version of the VR72 at close to 250kW average power, meaning peak power would be ~10% higher - Post X. $NVDA $SPCX
 - 10/02 05:02 [financialjuice] Fed's Cook: The top risk for 2027 is AI. It's already causing inflationary pressure, not slowing down.
 - 10/02 05:02 [FirstSquawk] NASDAQ CLOSES 0.06% HIGHER AT 26,875.96, UP 14.90 POINTS S&P 500 CLOSES 0.15% HIGHER AT 7,663.38, UP 11.84 POINTS DOW JONES CLOSES 0.02% HIGHER AT 50,916.33, UP 10.28 POINTS
@@ -576,3 +566,15 @@
 - 10/03 04:36 [FirstSquawk] BBK CHIEF NAGEL: POSSIBLE THAT GERMAN ECONOMY WILL GROW AROUND 1% THIS YEAR
 - 10/03 04:39 [FirstSquawk] US ARMY CREATES AUTONOMY COMMAND AMID PUSH FOR SMART MACHINERY - AXIOS
 - 10/03 04:42 [financialjuice] Hedge funds turned short yen in the week ended September 29th - CFTC
+- 10/03 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 1156.7 MLN NASDAQ 100: 394.0 MLN DOW 30: 510.1 MLN MAG 7: 356.0 MLN $MACRO
+- 10/03 04:54 [financialjuice] Oman banned Flydubai attacker from flying for radical views, sources say - WSJ
+- 10/03 04:54 [financialjuice] attacker subsequently allowed to fly a sensitive route to Tel Aviv from Dubai - WSJ
+- 10/03 04:54 [FirstSquawk] US WILL PROVIDE A $4 BILLION LOAN TO VISTRA TO INCREASE NUCLEAR PRODUCTION.
+- 10/03 04:55 [financialjuice] Nature of radicalization couldn't be determined - WSJ
+- 10/03 04:58 [financialjuice] Trump: Iran is not doing well.
+- 10/03 04:59 [FirstSquawk] TRUMP ON SOUTH KOREA INVESTMENT IN US: I DIDN'T JUMP THE GUN ON ALASKA PIPELINE
+- 10/03 04:59 [financialjuice] Trump on South Korea investment in the US: I didn't jump the gun on the Alaska pipeline.
+- 10/03 04:59 [financialjuice] Trump: If South Korea doesn't do the pipeline, will charge them more.
+- 10/03 05:00 [financialjuice] Trump Departs White House - WATCH LIVE
+- 10/03 05:00 [FirstSquawk] TRUMP ON DIESEL: WE'RE NOT GOING TO BE DOING THE EXPORT BAN
+- 10/03 05:00 [financialjuice] Trump on Diesel: Won't do export ban.
