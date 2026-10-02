@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-02 23:25 JST／対象: 10/02 17:25 〜 10/02 23:25 JST（時刻はすべて日本時間）
+生成: 2026-10-02 23:50 JST／対象: 10/02 17:50 〜 10/02 23:50 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 58 | 10/02 17:55 | 10/02 23:02 | 23分（19:35→19:59） |
-| FirstSquawk | 61 | 10/02 17:53 | 10/02 23:02 | 44分（20:46→21:31） |
-| financialjuice | 94 | 10/02 17:31 | 10/02 23:19 | ⚠ 49分（18:00→18:49） |
+| FirstSquawk | 72 | 10/02 17:53 | 10/02 23:41 | 44分（20:46→21:31） |
+| financialjuice | 94 | 10/02 18:00 | 10/02 23:38 | ⚠ 49分（18:00→18:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 207 行（統合前 213 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 218 行（統合前 224 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 17:31 [financialjuice] UK September decision maker year-ahead CPI expectations 3.3%.
-- 10/02 17:32 [financialjuice] Bank of England Decision Maker Panel: Firms year-ahead expected wage growth unchanged at 3.4% in the three months to September.
 - 10/02 17:53 [FirstSquawk] FRANCE SUGGESTS RELEASING 50 MILLION BARRELS OF DIESEL AND 50 MILLION BARRELS OF OIL FROM IEA MEMBERS.
 - 10/02 17:53 [FirstSquawk] UKRAINE PRESIDENT ZELENSKIY HAS ANNOUNCED THAT UKRAINE ATTACKED RUSSIAN REFINERIES LAST NIGHT.
 - 10/02 17:55 [DeItaone] *FRANCE HAS PROPOSED NEW EUROPE, IEA RELEASE OF DIESEL AND CRUDE
@@ -231,3 +229,16 @@
 - 10/02 23:02 [DeItaone] $NKE - NIKE SHARES FALL TO LOWEST SINCE SEPTEMBER 2013, LAST DOWN NEARLY 6%
 - 10/02 23:19 [financialjuice] Fear & Greed Index: 32/100 - Fear
 - 10/02 23:19 [financialjuice] Crypto Fear & Greed Index: 72/100 - Greed
+- 10/02 23:26 [FirstSquawk] MACRON ANNOUNCED THAT THE G7 WILL UNVEIL PLANS TO RELEASE AS MUCH AS 100 MILLION BARRELS OF DIESEL AND CRUDE OIL.
+- 10/02 23:26 [FirstSquawk] G7 LEADERS DECLARE PLANS TO ALIGN MAINTENANCE SCHEDULES AT MEMBER REFINERIES.
+- 10/02 23:26 [FirstSquawk] G7 ASKS IEA TO OVERSEE THE COMPLETE FULFILLMENT OF MARCH 2026 PLEDGES.
+- 10/02 23:26 [FirstSquawk] G7 WILL COORDINATE A RELEASE OF 100 MILLION BARRELS OF OIL THROUGH THE IEA STARTING IMMEDIATELY OVER 4 MONTHS.
+- 10/02 23:26 [FirstSquawk] G7 MEMBERS WILL RELEASE A SIGNIFICANT AMOUNT OF DIESEL IN THE FIRST 20 DAYS WITH THEIR PARTNERS.
+- 10/02 23:26 [FirstSquawk] G7 LEADERS CONFIRM THEIR PLEDGE TO AVOID EXPORT LIMITS ON ENERGY AND RELATED PRODUCTS AMONG G7 NATIONS.
+- 10/02 23:26 [FirstSquawk] G7 URGES ALL PRODUCERS TO AVOID BANS THAT MIGHT WORSEN MARKET STRAIN.
+- 10/02 23:26 [FirstSquawk] G7 REITERATES CONDEMNATION OF IRAN'S AGGRESSION TOWARDS NEIGHBORING COUNTRIES.
+- 10/02 23:26 [FirstSquawk] G7 LEADERS CONFIRM THEY WILL KEEP SANCTIONS ON RUSSIA.
+- 10/02 23:37 [financialjuice] Iran's General Naghdi: The enemy's economic siege will have no effect, and if it does not back down, it will receive a severe blow from the armed forces of the Islamic Republic of Iran - IRNA
+- 10/02 23:38 [financialjuice] Iran's General Naghdi: The enemy's economic siege will have no effect, and if it does not back down, it will receive a severe blow from IRGC - IRNA
+- 10/02 23:41 [FirstSquawk] GOLDMAN SACHS BENEFITS SIGNIFICANTLY FROM CLIENTS CANCELING EARLY SPACE X INVESTMENTS.
+- 10/02 23:41 [FirstSquawk] FRENCH-GERMAN 10-YEAR SPREAD FALLS TO 140 BASIS POINTS FROM 159 BASIS POINTS.
