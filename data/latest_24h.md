@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-02 22:07 JST／対象: 10/01 22:07 〜 10/02 22:07 JST（時刻はすべて日本時間）
+生成: 2026-10-02 22:30 JST／対象: 10/01 22:30 〜 10/02 22:30 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 100 | 10/01 22:07 | 10/02 22:06 | ⚠ 755分（05:19→17:55） |
-| FirstSquawk | 301 | 10/01 22:08 | 10/02 22:03 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 359 | 10/01 22:07 | 10/02 22:02 | ⚠ 79分（06:41→08:00） |
+| DeItaone | 100 | 10/01 22:47 | 10/02 22:24 | ⚠ 755分（05:19→17:55） |
+| FirstSquawk | 302 | 10/01 22:31 | 10/02 22:27 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 358 | 10/01 22:30 | 10/02 22:27 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 723 行（統合前 766 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 724 行（統合前 766 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 22:07 [financialjuice] Fed's Schmid: Officials have work to do on inflation.
-- 10/01 22:07 [DeItaone/FirstSquawk] FED'S COLLINS: WON'T GET AHEAD OF THE NEXT MEETING
-- 10/01 22:07 [financialjuice] Fed's Collins: We won't get ahead of the next meeting
-- 10/01 22:08 [FirstSquawk] FED'S SCHMID SAYS OFFICIALS HAVE WORK TO DO ON INFLATION
-- 10/01 22:08 [financialjuice] Fed's Collins: Economic growth near trend or above.
-- 10/01 22:08 [FirstSquawk] SPACEX’S AI UNIT HELD TALKS OVER SUMMER TO LEASE COMPUTE TO MICROSOFT - INFORMATION
-- 10/01 22:13 [financialjuice] Fed's Schmid: Energy prices are one of the biggest challenges for monetary policy today.
-- 10/01 22:13 [financialjuice] Fed's Schmid: I am trying to see in the data how much inflation is due to demand and how much is driven by supply shocks.
-- 10/01 22:15 [FirstSquawk] FED SCHMID: TRYING TO FIGURE OUT WHAT SHARE OF INFL DEMAND DRIVEN
-- 10/01 22:19 [FirstSquawk] SAMSUNG RAISES PRICES OF MOST GALAXY S26 PHONES BY $100
-- 10/01 22:19 [FirstSquawk] AOMORI MICHINOKU BANK, BANK OF IWATE AND AKITA BANK HAVE COMBINED ASSETS OF AROUND 13 TRILLION YEN - NIKKEI
-- 10/01 22:22 [FirstSquawk] BRAZIL'S PETROBRAS INCREASES JET FUEL COSTS BY APPROXIMATELY 11.8% AT KEY REFINERIES EFFECTIVE OCTOBER 1.
-- 10/01 22:22 [financialjuice/FirstSquawk] EU countries in crisis talks over diesel stocks release - FT
 - 10/01 22:30 [financialjuice] CANADIAN MANUFACTURING PMI ACTUAL 51.5 (FORECAST -, PREVIOUS 53.0) $MACRO
 - 10/01 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -65.4 MLN NASDAQ 100: 81.7 MLN DOW 30: 38.9 MLN MAG 7: 65.2 MLN $MACRO
 - 10/01 22:31 [financialjuice] ECB's President Lagarde's Speech on AI
@@ -747,3 +734,17 @@
 - 10/02 22:03 [FirstSquawk] TESLA REPORTED 486,532 DELIVERIES FOR Q3, EXCEEDING ESTIMATES OF 463,761. MODEL 3/Y DELIVERIES HIT 478,237, BEATING EXPECTED 462,078. OTHER MODELS DELIVERED 7,004, FALLING SHORT OF 9,759 ANTICIPATED. TOTAL PRODUCTION REACHED 464,391 VEHICLE…
 - 10/02 22:03 [FirstSquawk] ORACLE WILL TAKE ON ABOUT $300 MILLION IN POINT BEACH ENERGY EXPENSES TO COMPLETELY FINANCE PROJECT LIGHTHOUSE ENERGY COSTS.
 - 10/02 22:06 [DeItaone] *EU AMBASSADORS TO MEET THIS AFTERNOON TO DISCUSS DIESEL MARKET
+- 10/02 22:09 [FirstSquawk] NVIDIA RELEASES DGX SPARK 64GB CONFIGURATION THIS MONTH WITH THE ABILITY TO HANDLE 100-BILLION-PARAMETER MODELS. IT WILL BE AVAILABLE ON OCTOBER 23 STARTING AT $4,999 THROUGH KEY PARTNERS.
+- 10/02 22:18 [financialjuice] WH Sr. Adviser Hassett: I am not disappointed in jobs report.
+- 10/02 22:19 [financialjuice/FirstSquawk] WH Sr. Adviser Hassett: Government employment down, everything else is up
+- 10/02 22:20 [FirstSquawk] FORD'S Q3 US VEHICLE SALES REACHED 509,764, DECREASING BY 6.6% YEAR-OVER-YEAR.
+- 10/02 22:20 [FirstSquawk] FORD'S ELECTRIC VEHICLE SALES DROPPED BY 80.2% IN Q3, REACHING ONLY 6,047 UNITS SOLD.
+- 10/02 22:20 [FirstSquawk] FORD'S US HYBRID VEHICLE SALES DROPPED BY 19.7% IN Q3 TO 44,308 UNITS.
+- 10/02 22:20 [FirstSquawk] FORD BELIEVES THE FINANCIAL EFFECT OF A SUPPLIER ISSUE IMPACTING F-150 TRUCK PRODUCTION IS MANAGEABLE WITHIN THIS YEAR'S ADJUSTED EBIT GUIDANCE.
+- 10/02 22:20 [FirstSquawk] WH SR. ADVISER HASSETT: I AM SATISFIED WITH THE JOBS REPORT.
+- 10/02 22:21 [financialjuice] WH Sr. Adviser Hassett: GDP still hovering around 4%.
+- 10/02 22:21 [FirstSquawk] HASSETT STATES THAT GDP REMAINS AROUND 4%.
+- 10/02 22:23 [financialjuice] WH Sr. Adviser Hassett, on diesel: We have been talking with Europe
+- 10/02 22:24 [DeItaone] *HASSETT ON DIESEL: WE HAVE BEEN TALKING WITH EUROPE *HASSETT ON DIESEL: EUROPE RELEASE WOULD HAVE MASSIVE IMPACT *HASSETT ON DIESEL: HOPEFUL TO HAVE NEWS ON THAT SOMETIME SOON
+- 10/02 22:27 [financialjuice] WH Sr. Adviser Hassett on Diesel: I am hopeful to have news on that sometime soon.
+- 10/02 22:27 [FirstSquawk] HASSETT EXPRESSES OPTIMISM ABOUT POTENTIAL DIESEL NEWS COMING SOON.

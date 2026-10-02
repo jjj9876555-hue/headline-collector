@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-02 22:07 JST／対象: 10/02 10:07 〜 10/02 22:07 JST（時刻はすべて日本時間）
+生成: 2026-10-02 22:30 JST／対象: 10/02 10:30 〜 10/02 22:30 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 46 | 10/02 17:55 | 10/02 22:06 | 23分（19:35→19:59） |
-| FirstSquawk | 131 | 10/02 10:16 | 10/02 22:03 | 44分（20:46→21:31） |
-| financialjuice | 115 | 10/02 10:37 | 10/02 22:02 | ⚠ 49分（18:00→18:49） |
+| DeItaone | 47 | 10/02 17:55 | 10/02 22:24 | 23分（19:35→19:59） |
+| FirstSquawk | 129 | 10/02 10:34 | 10/02 22:27 | 44分（20:46→21:31） |
+| financialjuice | 120 | 10/02 10:37 | 10/02 22:27 | ⚠ 49分（18:00→18:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 286 行（統合前 292 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 289 行（統合前 296 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 10:16 [FirstSquawk] Gold Slips 1% to $4,138.04 per Ounce
-- 10/02 10:17 [FirstSquawk] Taiwan Overnight Interbank Rate Starts at 0.805%, Flat on Previous Open
-- 10/02 10:18 [FirstSquawk] Ukrainian Drones Target Industrial Facilities in Volgograd, Russian Governor Says
-- 10/02 10:19 [FirstSquawk] South Korea Finance Minister: Markets to Be Closely Monitored, Pre-Emptive Action if Needed
-- 10/02 10:19 [FirstSquawk] 5-Year JGB Yield Slides to 2.350%, Down 3 Bps
-- 10/02 10:20 [FirstSquawk] Saudi Coalition Intercepts and Destroys Houthi-Launched Ballistic Missile, Says Coalition
-- 10/02 10:20 [FirstSquawk] Japan Plans ¥3.5 Trillion Treasury Discount Bill Offering
-- 10/02 10:21 [FirstSquawk] Japan’s 20-Year JGB Yield Edges Up 0.5 Bps to 3.945%
-- 10/02 10:22 [FirstSquawk] 30-Year JGB Yield Advances to 4.185%, Up 1.5 Bps
-- 10/02 10:23 [FirstSquawk] Tencent Stock Set for 2.1% Lower Open
-- 10/02 10:26 [FirstSquawk] Trump Asked Grok About Venezuelan Reaction to Maduro Capture Before US Invasion, TechCrunch Reports
 - 10/02 10:34 [FirstSquawk] Xiaomi Stock Drops More Than 5%
 - 10/02 10:34 [FirstSquawk] Taiwan Banks Asked to Reduce Branches Amid Rising Office Rents
 - 10/02 10:36 [FirstSquawk] Vietnam’s Biggest Refinery Has Crude Oil Supplies Secured Through November, Mostly From Kuwait
@@ -310,3 +299,17 @@
 - 10/02 22:03 [FirstSquawk] TESLA REPORTED 486,532 DELIVERIES FOR Q3, EXCEEDING ESTIMATES OF 463,761. MODEL 3/Y DELIVERIES HIT 478,237, BEATING EXPECTED 462,078. OTHER MODELS DELIVERED 7,004, FALLING SHORT OF 9,759 ANTICIPATED. TOTAL PRODUCTION REACHED 464,391 VEHICLE…
 - 10/02 22:03 [FirstSquawk] ORACLE WILL TAKE ON ABOUT $300 MILLION IN POINT BEACH ENERGY EXPENSES TO COMPLETELY FINANCE PROJECT LIGHTHOUSE ENERGY COSTS.
 - 10/02 22:06 [DeItaone] *EU AMBASSADORS TO MEET THIS AFTERNOON TO DISCUSS DIESEL MARKET
+- 10/02 22:09 [FirstSquawk] NVIDIA RELEASES DGX SPARK 64GB CONFIGURATION THIS MONTH WITH THE ABILITY TO HANDLE 100-BILLION-PARAMETER MODELS. IT WILL BE AVAILABLE ON OCTOBER 23 STARTING AT $4,999 THROUGH KEY PARTNERS.
+- 10/02 22:18 [financialjuice] WH Sr. Adviser Hassett: I am not disappointed in jobs report.
+- 10/02 22:19 [financialjuice/FirstSquawk] WH Sr. Adviser Hassett: Government employment down, everything else is up
+- 10/02 22:20 [FirstSquawk] FORD'S Q3 US VEHICLE SALES REACHED 509,764, DECREASING BY 6.6% YEAR-OVER-YEAR.
+- 10/02 22:20 [FirstSquawk] FORD'S ELECTRIC VEHICLE SALES DROPPED BY 80.2% IN Q3, REACHING ONLY 6,047 UNITS SOLD.
+- 10/02 22:20 [FirstSquawk] FORD'S US HYBRID VEHICLE SALES DROPPED BY 19.7% IN Q3 TO 44,308 UNITS.
+- 10/02 22:20 [FirstSquawk] FORD BELIEVES THE FINANCIAL EFFECT OF A SUPPLIER ISSUE IMPACTING F-150 TRUCK PRODUCTION IS MANAGEABLE WITHIN THIS YEAR'S ADJUSTED EBIT GUIDANCE.
+- 10/02 22:20 [FirstSquawk] WH SR. ADVISER HASSETT: I AM SATISFIED WITH THE JOBS REPORT.
+- 10/02 22:21 [financialjuice] WH Sr. Adviser Hassett: GDP still hovering around 4%.
+- 10/02 22:21 [FirstSquawk] HASSETT STATES THAT GDP REMAINS AROUND 4%.
+- 10/02 22:23 [financialjuice] WH Sr. Adviser Hassett, on diesel: We have been talking with Europe
+- 10/02 22:24 [DeItaone] *HASSETT ON DIESEL: WE HAVE BEEN TALKING WITH EUROPE *HASSETT ON DIESEL: EUROPE RELEASE WOULD HAVE MASSIVE IMPACT *HASSETT ON DIESEL: HOPEFUL TO HAVE NEWS ON THAT SOMETIME SOON
+- 10/02 22:27 [financialjuice] WH Sr. Adviser Hassett on Diesel: I am hopeful to have news on that sometime soon.
+- 10/02 22:27 [FirstSquawk] HASSETT EXPRESSES OPTIMISM ABOUT POTENTIAL DIESEL NEWS COMING SOON.

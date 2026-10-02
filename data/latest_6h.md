@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-02 22:07 JST／対象: 10/02 16:07 〜 10/02 22:07 JST（時刻はすべて日本時間）
+生成: 2026-10-02 22:30 JST／対象: 10/02 16:30 〜 10/02 22:30 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 46 | 10/02 17:55 | 10/02 22:06 | 23分（19:35→19:59） |
-| FirstSquawk | 57 | 10/02 16:08 | 10/02 22:03 | 44分（20:46→21:31） |
-| financialjuice | 89 | 10/02 16:30 | 10/02 22:02 | ⚠ 49分（18:00→18:49） |
+| DeItaone | 47 | 10/02 17:55 | 10/02 22:24 | 23分（19:35→19:59） |
+| FirstSquawk | 61 | 10/02 16:32 | 10/02 22:27 | 44分（20:46→21:31） |
+| financialjuice | 94 | 10/02 16:30 | 10/02 22:27 | ⚠ 49分（18:00→18:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 187 行（統合前 192 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 196 行（統合前 202 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 16:08 [FirstSquawk] EU COMMISSIONER JORGENSEN: WE ARE DISCUSSING WITH ALL MEMBERS OF THE IEA, NOT ONLY WITH THE US, WHEN IT IS TIME TO RELEASE DIESEL
-- 10/02 16:24 [FirstSquawk] RUSSIA'S A7 HAS NEVER CARRIED OUT TRANSACTIONS BENEFITING IRAN, ACCORDING TO TASS.
-- 10/02 16:25 [FirstSquawk] JP MORGAN LOWERS NIKE'S TARGET PRICE FROM $40 TO $33.
-- 10/02 16:25 [FirstSquawk] ENI ANNOUNCED A 20% PRICE CUT ON DIESEL AND GASOLINE FOR AGRICULTURAL AND FISHING SECTORS STARTING TODAY UNTIL THE END OF OCTOBER, WITH POTENTIAL EXTENSION THROUGH YEAR-END.
-- 10/02 16:25 [FirstSquawk] UKRAINE'S FARM MINISTER SAYS WINTER WHEAT SOWING FOR 2027 HARVEST MAY DROP BY 17%.
 - 10/02 16:30 [financialjuice] ECB's Rehn: Higher energy prices bring us closer to the ECB's adverse scenario for inflation
 - 10/02 16:30 [financialjuice] ECB's Rehn: ECB projections subject to very high, pervasive uncertainty
 - 10/02 16:30 [financialjuice] ECB's Rehn: Rise in long-term interest rates will slow growth and reduce the pass-through of energy shock to prices, wages
@@ -211,3 +206,17 @@
 - 10/02 22:03 [FirstSquawk] TESLA REPORTED 486,532 DELIVERIES FOR Q3, EXCEEDING ESTIMATES OF 463,761. MODEL 3/Y DELIVERIES HIT 478,237, BEATING EXPECTED 462,078. OTHER MODELS DELIVERED 7,004, FALLING SHORT OF 9,759 ANTICIPATED. TOTAL PRODUCTION REACHED 464,391 VEHICLE…
 - 10/02 22:03 [FirstSquawk] ORACLE WILL TAKE ON ABOUT $300 MILLION IN POINT BEACH ENERGY EXPENSES TO COMPLETELY FINANCE PROJECT LIGHTHOUSE ENERGY COSTS.
 - 10/02 22:06 [DeItaone] *EU AMBASSADORS TO MEET THIS AFTERNOON TO DISCUSS DIESEL MARKET
+- 10/02 22:09 [FirstSquawk] NVIDIA RELEASES DGX SPARK 64GB CONFIGURATION THIS MONTH WITH THE ABILITY TO HANDLE 100-BILLION-PARAMETER MODELS. IT WILL BE AVAILABLE ON OCTOBER 23 STARTING AT $4,999 THROUGH KEY PARTNERS.
+- 10/02 22:18 [financialjuice] WH Sr. Adviser Hassett: I am not disappointed in jobs report.
+- 10/02 22:19 [financialjuice/FirstSquawk] WH Sr. Adviser Hassett: Government employment down, everything else is up
+- 10/02 22:20 [FirstSquawk] FORD'S Q3 US VEHICLE SALES REACHED 509,764, DECREASING BY 6.6% YEAR-OVER-YEAR.
+- 10/02 22:20 [FirstSquawk] FORD'S ELECTRIC VEHICLE SALES DROPPED BY 80.2% IN Q3, REACHING ONLY 6,047 UNITS SOLD.
+- 10/02 22:20 [FirstSquawk] FORD'S US HYBRID VEHICLE SALES DROPPED BY 19.7% IN Q3 TO 44,308 UNITS.
+- 10/02 22:20 [FirstSquawk] FORD BELIEVES THE FINANCIAL EFFECT OF A SUPPLIER ISSUE IMPACTING F-150 TRUCK PRODUCTION IS MANAGEABLE WITHIN THIS YEAR'S ADJUSTED EBIT GUIDANCE.
+- 10/02 22:20 [FirstSquawk] WH SR. ADVISER HASSETT: I AM SATISFIED WITH THE JOBS REPORT.
+- 10/02 22:21 [financialjuice] WH Sr. Adviser Hassett: GDP still hovering around 4%.
+- 10/02 22:21 [FirstSquawk] HASSETT STATES THAT GDP REMAINS AROUND 4%.
+- 10/02 22:23 [financialjuice] WH Sr. Adviser Hassett, on diesel: We have been talking with Europe
+- 10/02 22:24 [DeItaone] *HASSETT ON DIESEL: WE HAVE BEEN TALKING WITH EUROPE *HASSETT ON DIESEL: EUROPE RELEASE WOULD HAVE MASSIVE IMPACT *HASSETT ON DIESEL: HOPEFUL TO HAVE NEWS ON THAT SOMETIME SOON
+- 10/02 22:27 [financialjuice] WH Sr. Adviser Hassett on Diesel: I am hopeful to have news on that sometime soon.
+- 10/02 22:27 [FirstSquawk] HASSETT EXPRESSES OPTIMISM ABOUT POTENTIAL DIESEL NEWS COMING SOON.
