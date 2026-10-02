@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-02 10:53 JST／対象: 10/01 10:53 〜 10/02 10:53 JST（時刻はすべて日本時間）
+生成: 2026-10-02 11:17 JST／対象: 10/01 11:17 〜 10/02 11:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 93 | 10/01 16:25 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 323 | 10/01 10:57 | 10/02 10:50 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 396 | 10/01 10:59 | 10/02 10:38 | ⚠ 79分（06:41→08:00） |
+| FirstSquawk | 325 | 10/01 11:22 | 10/02 11:17 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 396 | 10/01 11:22 | 10/02 11:17 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 774 行（統合前 818 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 776 行（統合前 820 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 10:57 [FirstSquawk] Japan’s 10-year JGB yield gains 5.0bp to 3.110%
-- 10/01 10:59 [FirstSquawk] South Korea ministry says investment in US Alaska LNG project remains undecided — Yonhap
-- 10/01 10:59 [financialjuice] South Korea industry ministry: US Alaska LNG project investment still undecided - Yonhap
-- 10/01 11:01 [FirstSquawk] 30-year JGB yield advances 6.0bp to 4.200%
-- 10/01 11:03 [FirstSquawk] Trump says Seoul plans $200bn investment in US energy projects - FT
-- 10/01 11:08 [financialjuice] Dollar/yen rises 0.5% to 158.19
-- 10/01 11:08 [FirstSquawk] USD/JPY advances 0.5% to 158.19
-- 10/01 11:09 [financialjuice] New Zealand dollar dips to $0.5618, lowest since November 2025
-- 10/01 11:09 [FirstSquawk] NZ dollar declines to $0.5618, reaches lowest level since November 2025
-- 10/01 11:14 [financialjuice] Canadian dollar drops to three-month low at C$1.4246
-- 10/01 11:14 [FirstSquawk] Canadian dollar slides to three-month low at C$1.4246
 - 10/01 11:22 [FirstSquawk] Afghan official: Four killed, six injured in Pakistani air strike on Afghanistan
 - 10/01 11:22 [financialjuice] Four killed, six wounded in Pakistani air strike on Afghanistan: Afghan provincial official
 - 10/01 11:29 [FirstSquawk] Toyota Motor to invest roughly $1.34bn in Argentina’s electric vehicle production, minister says
@@ -798,3 +787,16 @@
 - 10/02 10:40 [FirstSquawk] South Korea’s Central Bank Sells 91-Day Stabilisation Bonds at 3.170% Yield
 - 10/02 10:48 [FirstSquawk] Oil Gains Ground as Middle East Tensions Mount - WSJ
 - 10/02 10:50 [FirstSquawk] US Deploys Additional Patriot Air Defense Systems to Saudi, Qatari Energy Sites, Axios Reports
+- 10/02 10:56 [FirstSquawk] JGBs Climb Following Gains in US Treasurys - WSJ
+- 10/02 11:00 [FirstSquawk] Fitch Expands Asia-Pacific Coverage for Equity Release Loan Product Ratings
+- 10/02 11:04 [FirstSquawk] Japan Petroleum Exploration Acquires Entire Fundare Stake to Complete Tight Oil and Gas Asset Deal
+- 10/02 11:04 [FirstSquawk] Japan Petroleum Exploration Puts Total Enterprise Value of Fundare Interests at About $278 Million
+- 10/02 11:05 [financialjuice] Russian air strikes hit bridge in Ukraine's Kyiv: mayor
+- 10/02 11:05 [FirstSquawk] Kyiv Mayor Says Russian Airstrikes Hit Bridge in Ukraine
+- 10/02 11:10 [FirstSquawk] Hong Kong Stocks Slide 3% as Hang Seng Index Falls
+- 10/02 11:14 [financialjuice] Japan finance minister Katayama: will intensify efforts to promote domestic version of doge, review subsidies and funding
+- 10/02 11:15 [financialjuice] Japan finance minister Katayama: will significantly simplify idled funds in budget procedure
+- 10/02 11:16 [FirstSquawk] Japan’s Katayama to Boost Efforts for Japanese Version of DOGE Review of Subsidies, Funds
+- 10/02 11:16 [FirstSquawk] Japan FinMin Katayama: Government to Sharply Streamline Unused Funds in Budget Process
+- 10/02 11:17 [financialjuice] Japan finmin Katayama: there are about 200 current funds, valued at about 7 trillion yen
+- 10/02 11:17 [FirstSquawk] Japan FinMin Katayama Says Existing Funds Number About 200, Total ¥7 Trillion

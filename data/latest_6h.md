@@ -7,45 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-02 10:53 JST／対象: 10/02 04:53 〜 10/02 10:53 JST（時刻はすべて日本時間）
+生成: 2026-10-02 11:17 JST／対象: 10/02 05:17 〜 10/02 11:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 10/02 05:19 | 10/02 05:19 | - |
-| FirstSquawk | 66 | 10/02 04:58 | 10/02 10:50 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 52 | 10/02 04:56 | 10/02 10:38 | ⚠ 79分（06:41→08:00） |
+| FirstSquawk | 60 | 10/02 05:43 | 10/02 11:17 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 46 | 10/02 05:17 | 10/02 11:17 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 114 行（統合前 119 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 105 行（統合前 107 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 04:56 [financialjuice] Fed's Cook: Don't think private credit is having a big effect on financial stability
-- 10/02 04:58 [FirstSquawk] MUSK SAYS TESLA HAS CUT THE RAM IN HALF FOR THE TESLA AI5 CHIP — NOW 72GB OF LP5 — AND BY A THIRD FOR AI6, NOW 144GB OF LP6, ADDING THAT HE THINKS THIS WILL HAVE A NEGLIGIBLE EFFECT ON OPTIMUS PERFORMANCE
-- 10/02 05:02 [financialjuice/FirstSquawk] Musk: I am cautiously optimistic that we will be able to run the SpaceX version of the VR72 at close to 250kW average power, meaning peak power would be ~10% higher - Post X. $NVDA $SPCX
-- 10/02 05:02 [financialjuice] Fed's Cook: The top risk for 2027 is AI. It's already causing inflationary pressure, not slowing down.
-- 10/02 05:02 [FirstSquawk] NASDAQ CLOSES 0.06% HIGHER AT 26,875.96, UP 14.90 POINTS S&P 500 CLOSES 0.15% HIGHER AT 7,663.38, UP 11.84 POINTS DOW JONES CLOSES 0.02% HIGHER AT 50,916.33, UP 10.28 POINTS
-- 10/02 05:02 [financialjuice/FirstSquawk] UKMTO has received a report of a tanker being struck by an unknown projectile while transiting the strait of hormuz, resulting in a fire.
-- 10/02 05:02 [financialjuice] Fed's Cook: I worry about when productivity gains, producing inflation, will come.
-- 10/02 05:04 [FirstSquawk] FED'S COOK SAYS THE TOP RISK FOR 2027 IS AI, WHICH IS 'ALREADY CAUSING INFLATIONARY PRESSURE, NOT SLOWING DOWN', ADDING THAT SHE WORRIES ABOUT WHEN THE PRODUCTIVITY GAINS THAT COULD OFFSET THAT INFLATION WILL COME.
-- 10/02 05:04 [FirstSquawk] FED'S COOK SAYS PRIVATE CREDIT IS NOT HAVING A MAJOR IMPACT ON FINANCIAL STABILITY.
-- 10/02 05:04 [financialjuice] BoC's Senior Dep. Gov. Rogers: Build-up in regulation is holding back Canada's economy. We need to think about streamlining regulation in Canada.
-- 10/02 05:05 [financialjuice/FirstSquawk] US SEC proposes rules on investment advisor custody of crypto assets.
-- 10/02 05:08 [FirstSquawk] U.S. STOCKS RECOVERED AS 10-YEAR TREASURY YIELDS FELL FIVE BASIS POINTS TO 5.24%, EASING PRESSURE FROM THE RECENT BOND SELLOFF, WITH THE S&P 500 UP 0.2% AND THE NASDAQ 100 GAINING 0.3%, WHILE OIL CLIMBED 2.9% TO $93.08 AMID GEOPOLITICAL RIS…
-- 10/02 05:08 [FirstSquawk] FED VICE CHAIR PHILIP JEFFERSON SAID POLICYMAKERS MAY NEED MORE TIME TO ASSESS WHETHER FURTHER RATE HIKES ARE NECESSARY, WHILE NY FED PRESIDENT JOHN WILLIAMS SAID THERE WAS NO URGENCY FOR ANOTHER INCREASE, AS JOBLESS CLAIMS FELL TO THEIR LO…
-- 10/02 05:09 [FirstSquawk] MARKETS NOW AWAIT FRIDAY'S PAYROLLS REPORT, WITH ECONOMISTS EXPECTING 88,000 NEW JOBS AND A 4.1% UNEMPLOYMENT RATE, AS ANTHROPIC POTENTIALLY TARGETS AN IPO AS EARLY AS NOVEMBER, BROADCOM OFFERS UP TO $42 BLN IN CHIP FINANCING TO ANTHROPIC, …
-- 10/02 05:09 [FirstSquawk] PARAMOUNT SKYDANCE SAYS NEW CO-CEO YNON KREIZ WILL HAVE AN ANNUAL BASE SALARY SET AT $3.50 MLN — INCREASING TO $5 MLN AFTER THE MERGER — AND AN ANNUAL BONUS TARGETED AT $1.50 MLN, RISING TO $4.90 MLN AFTER THE MERGER.
-- 10/02 05:09 [FirstSquawk] PARAMOUNT SKYDANCE SAYS KREIZ WILL RECEIVE 2,625,000 FULLY-VESTED RSUS AS A SIGNING AWARD AND 1,250,000 RSUS AS A PRE-CLOSING AWARD, ALONG WITH ANNUAL EQUITY AWARDS VALUED AT $15 MLN, INCREASING TO $20.10 MLN AFTER THE MERGER - SEC FILING
-- 10/02 05:11 [financialjuice] Fed's Cook: AI could potentially help the Fed make better use of data.
-- 10/02 05:12 [financialjuice] Fed's Williams: AI is affecting supply in ways we don't fully understand.
-- 10/02 05:16 [FirstSquawk] NIKE POSTED Q1 EPS OF $0.48, ABOVE THE $0.44 ESTIMATE BUT DOWN FROM $0.49 A YEAR EARLIER, WITH REVENUE OF $11.21 BLN BELOW THE $11.33 BLN ESTIMATE AND NIKE BRAND REVENUE OF $10.95 BLN VERSUS $11.09 BLN EXPECTED.
-- 10/02 05:16 [FirstSquawk] NIKE POSTED A GROSS MARGIN OF 42.8%, UP FROM 42.2% A YEAR EARLIER, WITH GREATER CHINA EBIT OF $248 MLN MISSING THE $312.2 MLN ESTIMATE AND INVENTORY OF $7.80 BLN.
-- 10/02 05:17 [financialjuice] $NKE Nike Q1 Earnings EPS $0.48, est. $0.44, vs. $0.49 y/y Revenue $11.21B, est. $11.33B Nike Brand revenue $10.95B, est. $11.09B Gross margin 42.8%, vs. 42.2% y/y Greater China EBIT $248M, est. $312.2M Inventory $7.80B, est. $7.96B Expects…
-- 10/02 05:17 [FirstSquawk] NIKE SAYS IT EXPECTS FY27 REVENUE TO DECLINE HIGH-SINGLE DIGITS, WITH ADJUSTED EPS OF $1.15 TO $1.35 FOR FISCAL 2027, AND INVENTORY OF $7.80 BLN VERSUS A $7.96 BLN ESTIMATE
 - 10/02 05:17 [financialjuice] Trump: I may ask Europe to release diesel supplies.
 - 10/02 05:18 [financialjuice] Trump: Iran will be ending soon, one way or the other.
 - 10/02 05:19 [financialjuice] Trump, asked about Iran's involvement in the UK base: Looks like it.
@@ -138,3 +116,16 @@
 - 10/02 10:40 [FirstSquawk] South Korea’s Central Bank Sells 91-Day Stabilisation Bonds at 3.170% Yield
 - 10/02 10:48 [FirstSquawk] Oil Gains Ground as Middle East Tensions Mount - WSJ
 - 10/02 10:50 [FirstSquawk] US Deploys Additional Patriot Air Defense Systems to Saudi, Qatari Energy Sites, Axios Reports
+- 10/02 10:56 [FirstSquawk] JGBs Climb Following Gains in US Treasurys - WSJ
+- 10/02 11:00 [FirstSquawk] Fitch Expands Asia-Pacific Coverage for Equity Release Loan Product Ratings
+- 10/02 11:04 [FirstSquawk] Japan Petroleum Exploration Acquires Entire Fundare Stake to Complete Tight Oil and Gas Asset Deal
+- 10/02 11:04 [FirstSquawk] Japan Petroleum Exploration Puts Total Enterprise Value of Fundare Interests at About $278 Million
+- 10/02 11:05 [financialjuice] Russian air strikes hit bridge in Ukraine's Kyiv: mayor
+- 10/02 11:05 [FirstSquawk] Kyiv Mayor Says Russian Airstrikes Hit Bridge in Ukraine
+- 10/02 11:10 [FirstSquawk] Hong Kong Stocks Slide 3% as Hang Seng Index Falls
+- 10/02 11:14 [financialjuice] Japan finance minister Katayama: will intensify efforts to promote domestic version of doge, review subsidies and funding
+- 10/02 11:15 [financialjuice] Japan finance minister Katayama: will significantly simplify idled funds in budget procedure
+- 10/02 11:16 [FirstSquawk] Japan’s Katayama to Boost Efforts for Japanese Version of DOGE Review of Subsidies, Funds
+- 10/02 11:16 [FirstSquawk] Japan FinMin Katayama: Government to Sharply Streamline Unused Funds in Budget Process
+- 10/02 11:17 [financialjuice] Japan finmin Katayama: there are about 200 current funds, valued at about 7 trillion yen
+- 10/02 11:17 [FirstSquawk] Japan FinMin Katayama Says Existing Funds Number About 200, Total ¥7 Trillion

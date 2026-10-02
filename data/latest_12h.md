@@ -7,44 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-02 10:53 JST／対象: 10/01 22:53 〜 10/02 10:53 JST（時刻はすべて日本時間）
+生成: 2026-10-02 11:17 JST／対象: 10/01 23:17 〜 10/02 11:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 52 | 10/01 23:00 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 177 | 10/01 22:55 | 10/02 10:50 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 230 | 10/01 22:54 | 10/02 10:38 | ⚠ 79分（06:41→08:00） |
+| DeItaone | 50 | 10/01 23:19 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
+| FirstSquawk | 179 | 10/01 23:18 | 10/02 11:17 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 221 | 10/01 23:18 | 10/02 11:17 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 431 行（統合前 463 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 423 行（統合前 454 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 22:54 [financialjuice] Fed's Waller speaks at FRED Con Live
-- 10/01 22:55 [FirstSquawk] FITCH STATES THAT THE UK WATER BILL UPDATE DOES NOT CHANGE SECTOR RISK, BUT THERE ARE STILL RISKS.
-- 10/01 22:56 [FirstSquawk] FITCH: BASE CASE REMAINS THAT UK WATER SECTOR REFORMS WILL DELIVER A CLEARER AND BETTER-COORDINATED FRAMEWORK
-- 10/01 22:58 [financialjuice] Iran summons British ambassador to foreign ministry over accusations related to attack on US base in UK - State Media
-- 10/01 23:00 [FirstSquawk] US ISM MANUFACTURING PMI (SEP) ACTUAL: 54.5 VS 54.6 PREVIOUS; EST 55.0
-- 10/01 23:00 [financialjuice] ‼ BREAKING: US ISM MANUFACTURING PMI ACTUAL 54.5 (FORECAST 55, PREVIOUS 54.6) $MACRO
-- 10/01 23:00 [financialjuice] US ISM MFG. NEW ORDERS INDEX ACTUAL 55.3 (FORECAST 54.7, PREVIOUS 53.7) $MACRO
-- 10/01 23:00 [financialjuice] US ISM MFG. PRICES PAID ACTUAL 77.9 (FORECAST 73, PREVIOUS 71.1) $MACRO
-- 10/01 23:00 [DeItaone] FRENCH 5-YEAR CDS WIDEN FURTHER TO 73.05 BPS, HIGHEST SINCE JULY 2013
-- 10/01 23:00 [financialjuice] US ISM MFG. EMPLOYMENT INDEX ACTUAL 52.7 (FORECAST 52, PREVIOUS 51.2) $MACRO
-- 10/01 23:00 [financialjuice] US CONSTRUCTION SPENDING MOM ACTUAL 0.9% (FORECAST 0%, PREVIOUS -0.5%) $MACRO
-- 10/01 23:00 [financialjuice] Fed’s Waller doesn’t comment on rates, economic outlook in text
-- 10/01 23:01 [financialjuice] Iraqi Government Spokesman: Iraq receives new shipment of cash dollars under US understanding.
-- 10/01 23:03 [financialjuice] US ISM Manufacturing PMI September Report
-- 10/01 23:05 [financialjuice] US Construction Spending MoM August Report
-- 10/01 23:06 [DeItaone] U.S. TREASURY YIELDS EXTEND GAINS; YIELD ON 10-YEAR TREASURY NOTE LAST UP 4.72 BASIS POINTS AT 5.34% TWO-YEAR U.S. TREASURY YIELDS, LAST FLAT AT 4.883%
-- 10/01 23:07 [FirstSquawk] U.S. TREASURY YIELDS EXTEND GAINS; YIELD ON 10-YEAR TREASURY NOTE LAST UP 4.72 BASIS POINTS AT 5.34%
-- 10/01 23:07 [FirstSquawk] TWO-YEAR U.S. TREASURY YIELDS, LAST FLAT AT 4.883%
-- 10/01 23:09 [financialjuice/FirstSquawk] Turkey and UN steer new talks on Russia-Ukraine Black Sea truce
-- 10/01 23:17 [FirstSquawk] ITALY-GERMANY 10-YEAR YIELD SPREAD WIDENS 10BPS TO 113BPS
-- 10/01 23:17 [financialjuice] Kremlin's Peskov: No signals yet about Russia-USA-China summit - IFX
 - 10/01 23:18 [financialjuice] Fear & Greed Index: 29/100 - Fear
 - 10/01 23:18 [FirstSquawk] PESKOV: THERE HAVE BEEN NO SIGNALS YET ABOUT A TRILATERAL RUSSIA-US-CHINA SUMMIT – IFX
 - 10/01 23:18 [FirstSquawk] PESKOV: A MEETING BETWEEN PUTIN AND TRUMP ON THE SIDELINES OF APEC WOULD BE ESSENTIAL FOR THE ENTIRE WORLD
@@ -455,3 +434,16 @@
 - 10/02 10:40 [FirstSquawk] South Korea’s Central Bank Sells 91-Day Stabilisation Bonds at 3.170% Yield
 - 10/02 10:48 [FirstSquawk] Oil Gains Ground as Middle East Tensions Mount - WSJ
 - 10/02 10:50 [FirstSquawk] US Deploys Additional Patriot Air Defense Systems to Saudi, Qatari Energy Sites, Axios Reports
+- 10/02 10:56 [FirstSquawk] JGBs Climb Following Gains in US Treasurys - WSJ
+- 10/02 11:00 [FirstSquawk] Fitch Expands Asia-Pacific Coverage for Equity Release Loan Product Ratings
+- 10/02 11:04 [FirstSquawk] Japan Petroleum Exploration Acquires Entire Fundare Stake to Complete Tight Oil and Gas Asset Deal
+- 10/02 11:04 [FirstSquawk] Japan Petroleum Exploration Puts Total Enterprise Value of Fundare Interests at About $278 Million
+- 10/02 11:05 [financialjuice] Russian air strikes hit bridge in Ukraine's Kyiv: mayor
+- 10/02 11:05 [FirstSquawk] Kyiv Mayor Says Russian Airstrikes Hit Bridge in Ukraine
+- 10/02 11:10 [FirstSquawk] Hong Kong Stocks Slide 3% as Hang Seng Index Falls
+- 10/02 11:14 [financialjuice] Japan finance minister Katayama: will intensify efforts to promote domestic version of doge, review subsidies and funding
+- 10/02 11:15 [financialjuice] Japan finance minister Katayama: will significantly simplify idled funds in budget procedure
+- 10/02 11:16 [FirstSquawk] Japan’s Katayama to Boost Efforts for Japanese Version of DOGE Review of Subsidies, Funds
+- 10/02 11:16 [FirstSquawk] Japan FinMin Katayama: Government to Sharply Streamline Unused Funds in Budget Process
+- 10/02 11:17 [financialjuice] Japan finmin Katayama: there are about 200 current funds, valued at about 7 trillion yen
+- 10/02 11:17 [FirstSquawk] Japan FinMin Katayama Says Existing Funds Number About 200, Total ¥7 Trillion
