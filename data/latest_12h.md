@@ -7,51 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-02 14:18 JST／対象: 10/02 02:18 〜 10/02 14:18 JST（時刻はすべて日本時間）
+生成: 2026-10-02 14:35 JST／対象: 10/02 02:35 〜 10/02 14:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 26 | 10/02 02:19 | 10/02 05:19 | ⚠ 96分（03:42→05:19） |
-| FirstSquawk | 161 | 10/02 02:31 | 10/02 14:15 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 169 | 10/02 02:28 | 10/02 14:07 | ⚠ 79分（06:41→08:00） |
+| DeItaone | 18 | 10/02 02:36 | 10/02 05:19 | ⚠ 96分（03:42→05:19） |
+| FirstSquawk | 158 | 10/02 02:37 | 10/02 14:30 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 154 | 10/02 02:35 | 10/02 14:07 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 341 行（統合前 357 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 315 行（統合前 331 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 02:19 [DeItaone] CALIFORNIA ATTORNEY GENERAL: SERVES INVESTIGATIVE SUBPOENA ON OPENAI OVER CYBERSECURITY INCIDENTS - WEBSITE CALIFORNIA AG: “MY OFFICE IS ASKING OPENAI ADDITIONAL QUESTIONS REGARDING CYBERSECURITY INCIDENTS AND RISKS INVOLVING THE COMPANY AN…
-- 10/02 02:19 [DeItaone] EURO EXTENDS LOSES AGAINST US DOLLAR, LAST DOWN 1% AT $1.12165
-- 10/02 02:27 [DeItaone] *ANTHROPIC SAID TO TARGET MEGA-IPO BEFORE THANKSGIVING HOLIDAY
-- 10/02 02:28 [financialjuice] Anthropic said to target a mega-IPO before the Thanksgiving Holiday
-- 10/02 02:28 [financialjuice] Anthropic reportedly weighs an IPO marketing as soon as the week of November 9th
-- 10/02 02:30 [DeItaone] ANTHROPIC SAID TO TARGET MEGA-IPO BEFORE THANKSGIVING Kalshi traders now price a 71% chance Anthropic officially announces an IPO before Dec. 1, rising to 76% before Jan. 1. https://t.co/URbZQEmaD9
-- 10/02 02:30 [financialjuice] ❗ Fed's Jefferson: US central bank 'may take more time’ to decide next rate move.
-- 10/02 02:31 [financialjuice] Fed's Jefferson: Future fed rate changes should be driven by the data.
-- 10/02 02:31 [financialjuice] Fed's Jefferson: Fed is fully committed to returning inflation to the 2% target.
-- 10/02 02:31 [DeItaone] FED’S JEFFERSON SIGNALS PATIENCE ON NEXT RATE MOVE Fed Vice Chair Jefferson says the Fed “may take more time” before its next rate decision, with future moves driven by incoming data. He said inflation remains above target with upside risks…
-- 10/02 02:31 [financialjuice] Fed's Jefferson: Weighing more data will allow the Fed to make better calls on rates.
-- 10/02 02:31 [DeItaone] FED'S JEFFERSON HINTS AT HOLDING RATES IN OCTOBER
-- 10/02 02:31 [FirstSquawk] RUSSIA'S PUTIN SAYS RUSSIA IS READY TO RESUME DIALOGUE WITH THE U.S. ON ARMS CONTROL AND IS READY FOR DIALOGUE WITH EUROPE, WITH NO PRECONDITIONS FOR DIALOGUE WITH THE EU.
-- 10/02 02:31 [financialjuice] Fed's Jefferson: Economic output and job market are broadly solid.
-- 10/02 02:31 [financialjuice] Fed's Jefferson: Bond yields show market participants rethinking outlook.
-- 10/02 02:31 [financialjuice] Fed's Jefferson: September rate hike will help anchor inflation expectations.
-- 10/02 02:32 [FirstSquawk] RUSSIA'S PUTIN SAYS RUSSIA DOESN'T NATIONALIZE FOREIGN ASSETS AND THAT FOREIGN OWNERS 'WILL GET ASSETS BACK IN A GOOD SCENARIO', ADDING THAT SOME EUROPEAN COUNTRIES, INCLUDING GERMANY, ARE SEIZING RUSSIAN ASSETS AND 'WE ARE RESPONDING IN KI…
-- 10/02 02:32 [DeItaone] FED'S JEFFERSON SAYS US CENTRAL BANK 'MAY TAKE MORE TIME' TO DECIDE NEXT RATE MOVE
-- 10/02 02:32 [financialjuice] Fed's Jefferson: I still expects inflation pressure to ease over longer term.
-- 10/02 02:32 [financialjuice] Fed's Jefferson: See jobless rate holding steady into the end of this year.
-- 10/02 02:32 [financialjuice] Fed's Jefferson: I'm is worried high inflation could spill into expectations
-- 10/02 02:33 [financialjuice] WATCH LIVE: Fed's Jefferson Speaks
-- 10/02 02:34 [financialjuice] Saudi Defence minister: Held a call with US Defence Secretary - post on x
-- 10/02 02:34 [DeItaone] TWO-YEAR U.S. TREASURY YIELDS BRIEFLY HIT LOWEST LEVEL SINCE SEPTEMBER 22, LAST DOWN 12.68 BASIS POINTS AT 4.76%
-- 10/02 02:34 [FirstSquawk] FED'S JEFFERSON SAYS THE FED IS FULLY COMMITTED TO RETURNING INFLATION TO ITS 2% TARGET, THAT FUTURE RATE CHANGES SHOULD BE DRIVEN BY THE DATA, AND THAT THE CENTRAL BANK 'MAY TAKE MORE TIME' TO DECIDE ITS NEXT RATE MOVE AS WEIGHING MORE DAT…
-- 10/02 02:35 [FirstSquawk] FED'S JEFFERSON SAYS INFLATION REMAINS ABOVE TARGET WITH UPSIDE RISKS AND THAT HE IS WORRIED HIGH INFLATION COULD SPILL INTO EXPECTATIONS, THOUGH HE STILL EXPECTS INFLATION PRESSURE TO EASE OVER THE LONGER TERM AND SAYS THE SEPTEMBER RATE H…
-- 10/02 02:35 [financialjuice] Fed's Jefferson's Speech
-- 10/02 02:35 [FirstSquawk] FED'S JEFFERSON SAYS ECONOMIC OUTPUT AND THE JOB MARKET ARE BROADLY SOLID, SEES THE JOBLESS RATE HOLDING STEADY INTO THE END OF THIS YEAR, AND SAYS BOND YIELDS SHOW MARKET PARTICIPANTS RETHINKING THE OUTLOOK.
 - 10/02 02:35 [financialjuice] Saudi Defence Minister: Held call with US Defense Secretary, reviewed Saudi-US strategic defence partnership
 - 10/02 02:36 [DeItaone] ANTHROPIC TARGETS IPO BEFORE THANKSGIVING Anthropic is reportedly seeking to go public as soon as mid-November, with formal IPO marketing potentially starting the week of Nov. 9. Prospective investors see a potential valuation of roughly $1…
 - 10/02 02:37 [FirstSquawk] TRUMP, ASKED IF THE PILOT HAD ANY CONNECTION TO IRAN: WE ARE LOOKING INTO THAT, ACCORDING TO WHAT I'M HEARING, YES - ISRAEL'S N12 NEWS
@@ -365,3 +337,5 @@
 - 10/02 14:07 [financialjuice] Russia strikes vessel in Black Sea: IFX cites Russian Defence Ministry
 - 10/02 14:07 [financialjuice] Russia hits electrical substation in Kyiv region: IFX cites Russian defence ministry
 - 10/02 14:15 [FirstSquawk] JAPAN 40-YEAR JGB YIELD CLIMBS 5 BPS TO 4.270%
+- 10/02 14:20 [FirstSquawk] INDONESIAN RUPIAH GAINS AS DOLLAR SLIPS AMID LOWER FED RATE-HIKE EXPECTATIONS - FX
+- 10/02 14:30 [FirstSquawk] ITALGAS AGREES TO ACQUIRE 22.5% OF FLOENE FROM MARUBENI, TOHO GAS FOR €120M - RTRS

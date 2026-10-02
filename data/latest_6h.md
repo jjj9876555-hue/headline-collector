@@ -7,45 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-02 14:18 JST／対象: 10/02 08:18 〜 10/02 14:18 JST（時刻はすべて日本時間）
+生成: 2026-10-02 14:35 JST／対象: 10/02 08:35 〜 10/02 14:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 83 | 10/02 08:46 | 10/02 14:15 | 27分（09:49→10:16） |
-| financialjuice | 48 | 10/02 08:20 | 10/02 14:07 | ⚠ 49分（11:35→12:24） |
+| FirstSquawk | 85 | 10/02 08:46 | 10/02 14:30 | 27分（09:49→10:16） |
+| financialjuice | 26 | 10/02 08:50 | 10/02 14:07 | ⚠ 49分（11:35→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 130 行（統合前 131 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 110 行（統合前 111 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 08:20 [financialjuice] Logan: higher yields may also indicate increased term premiums, lowering need to tighten monetary policy
-- 10/02 08:20 [financialjuice] Logan: Economic expansion strengthening, labor market well balanced
-- 10/02 08:20 [financialjuice] Logan: Fed policy is not restrictive, must be modestly tight
-- 10/02 08:20 [financialjuice] Logan: will monitor bond yield changes and evaluate their impact
-- 10/02 08:20 [financialjuice] Logan: we must revive price stability
-- 10/02 08:20 [financialjuice] Fed's Logan: policy rate must increase by additional 50 bps or more
-- 10/02 08:20 [financialjuice] Logan: increase in long-term yields signals market expects higher interest rates
-- 10/02 08:20 [financialjuice] Logan: at minimum, several more rate hikes would reverse last fall's reductions
-- 10/02 08:20 [financialjuice] Logan: without higher rates, inflation won’t reach Fed’s 2% target
-- 10/02 08:20 [financialjuice] Logan: Uncertainty remains on how high policy rate must rise to bring inflation to 2%
-- 10/02 08:30 [financialjuice] ❗ JAPANESE JOBS/APPLICANTS RATIO ACTUAL 1.18 (FORECAST 1.18, PREVIOUS 1.18) $MACRO
-- 10/02 08:30 [financialjuice] ❗ TOKYO CORE CPI YOY ACTUAL 2.7% (FORECAST 2.3%, PREVIOUS 1.8%) $MACRO
-- 10/02 08:30 [financialjuice] ‼ BREAKING: TOKYO CPI OVERALL ACTUAL 2.7% (FORECAST 2.5%, PREVIOUS 1.9%) $MACRO
-- 10/02 08:30 [financialjuice] Japan aug jobs-applicants ratio steady at 1.18 in july: govt
-- 10/02 08:30 [financialjuice] Tokyo area September core CPI rises 2.7% year/year: government poll 2.4%
-- 10/02 08:30 [financialjuice] Japan Aug seasonally adjusted jobless rate 2.5%: govt (Poll: 2.4%)
-- 10/02 08:30 [financialjuice] ❗ JAPANESE UNEMPLOYMENT RATE ACTUAL 2.5% (FORECAST 2.4%, PREVIOUS 2.4%) $MACRO
-- 10/02 08:30 [financialjuice] Tokyo area September CPI excluding fresh food and energy rises 3.0% yr/yr: govt
-- 10/02 08:30 [financialjuice] Tokyo area September overall inflation rises 2.7% yr/yr: govt
-- 10/02 08:32 [financialjuice] Tokyo core CPI rises at fastest rate since November 2025
-- 10/02 08:34 [financialjuice] Tokyo core-core CPI climbs at fastest rate since August 2025
-- 10/02 08:34 [financialjuice] Tokyo overall CPI climbs at fastest rate since November 2025
 - 10/02 08:46 [FirstSquawk] TOKYO'S SEPTEMBER CPI ROSE 2.7% YEAR-ON-YEAR, ABOVE THE 2.5% ESTIMATE AND UP FROM 1.9%, WITH CPI EX-FRESH FOOD UP 2.7% VERSUS 2.3% EXPECTED AND CPI EX-FRESH FOOD AND ENERGY UP 3.0% VERSUS 2.5% EXPECTED
 - 10/02 08:46 [FirstSquawk] JAPAN MARKETS: 10-YEAR JGB FUTURES RISE 0.29 POINT; NIKKEI FUTURES FALL 0.9% IN EARLY TRADE
 - 10/02 08:47 [FirstSquawk] CHEVRON: MECHANICAL ISSUE AT EL SEGUNDO REFINERY DOES NOT AFFECT PETROLEUM PRODUCT SUPPLIES TO REGIONAL CUSTOMERS
@@ -154,3 +132,5 @@
 - 10/02 14:07 [financialjuice] Russia strikes vessel in Black Sea: IFX cites Russian Defence Ministry
 - 10/02 14:07 [financialjuice] Russia hits electrical substation in Kyiv region: IFX cites Russian defence ministry
 - 10/02 14:15 [FirstSquawk] JAPAN 40-YEAR JGB YIELD CLIMBS 5 BPS TO 4.270%
+- 10/02 14:20 [FirstSquawk] INDONESIAN RUPIAH GAINS AS DOLLAR SLIPS AMID LOWER FED RATE-HIKE EXPECTATIONS - FX
+- 10/02 14:30 [FirstSquawk] ITALGAS AGREES TO ACQUIRE 22.5% OF FLOENE FROM MARUBENI, TOHO GAS FOR €120M - RTRS

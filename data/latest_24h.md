@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-02 14:18 JST／対象: 10/01 14:18 〜 10/02 14:18 JST（時刻はすべて日本時間）
+生成: 2026-10-02 14:35 JST／対象: 10/01 14:35 〜 10/02 14:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 93 | 10/01 16:25 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 320 | 10/01 14:25 | 10/02 14:15 | ⚠ 112分（06:24→08:16） |
+| FirstSquawk | 320 | 10/01 14:37 | 10/02 14:30 | ⚠ 112分（06:24→08:16） |
 | financialjuice | 379 | 10/01 15:00 | 10/02 14:07 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,8 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 14:25 [FirstSquawk] Russian Defence Ministry says forces targeted cargo vessel at Chornomorsk port, logistics centre in Kyiv — Interfax
-- 10/01 14:32 [FirstSquawk] Essar: Trump announces $18 billion Mesabi Metallics investment to build fully integrated American steel company
 - 10/01 14:37 [FirstSquawk] Hungary’s MOL gets approval to continue NIS talks until Oct. 30
 - 10/01 14:37 [FirstSquawk] Hungary’s MOL secures US approval to continue talks on acquiring majority ownership of Serbia’s NIS
 - 10/01 14:39 [FirstSquawk] UBS says it has taken note of Artisan Partners’ open letter to its board
@@ -778,3 +776,5 @@
 - 10/02 14:07 [financialjuice] Russia strikes vessel in Black Sea: IFX cites Russian Defence Ministry
 - 10/02 14:07 [financialjuice] Russia hits electrical substation in Kyiv region: IFX cites Russian defence ministry
 - 10/02 14:15 [FirstSquawk] JAPAN 40-YEAR JGB YIELD CLIMBS 5 BPS TO 4.270%
+- 10/02 14:20 [FirstSquawk] INDONESIAN RUPIAH GAINS AS DOLLAR SLIPS AMID LOWER FED RATE-HIKE EXPECTATIONS - FX
+- 10/02 14:30 [FirstSquawk] ITALGAS AGREES TO ACQUIRE 22.5% OF FLOENE FROM MARUBENI, TOHO GAS FOR €120M - RTRS
