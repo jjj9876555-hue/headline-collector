@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-03 01:41 JST／対象: 10/02 01:41 〜 10/03 01:41 JST（時刻はすべて日本時間）
+生成: 2026-10-03 01:57 JST／対象: 10/02 01:57 〜 10/03 01:57 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 93 | 10/02 01:47 | 10/03 00:28 | ⚠ 755分（05:19→17:55） |
-| FirstSquawk | 285 | 10/02 01:52 | 10/03 01:20 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 319 | 10/02 01:44 | 10/03 01:07 | ⚠ 79分（06:41→08:00） |
+| DeItaone | 89 | 10/02 02:11 | 10/03 00:28 | ⚠ 755分（05:19→17:55） |
+| FirstSquawk | 288 | 10/02 02:31 | 10/03 01:56 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 323 | 10/02 02:08 | 10/03 01:55 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 669 行（統合前 700 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 671 行（統合前 702 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 01:44 [financialjuice] Iran's UN Mission: US and Western allies lack credibility to lecture Iran on non-proliferation or international law while shielding Israel from accountability and staying silent on its nuclear arsenal - Post on X
-- 10/02 01:47 [DeItaone] BOFA STOCK SENTIMENT NEARS “SELL” SIGNAL Bank of America’s Sell Side Indicator rose to 57.2% in September, its highest since March 2022 and just 0.3 percentage points below BofA’s “sell” threshold. The contrarian indicator tracks Wall Stree…
-- 10/02 01:51 [DeItaone] TRUMP: INTEREST RATES CAN SLOW DOWN GROWTH. WE WANT GROWTH — AND GROWTH DOES NOT CAUSE INFLATION
-- 10/02 01:51 [financialjuice] Trump on Iran: now I have to make a decision. Either Iran signs deal, or it won't exist any longer.
-- 10/02 01:51 [financialjuice] Trump ends remarks to reporters
-- 10/02 01:51 [DeItaone] *TRUMP ON IRAN: NOW I HAVE TO MAKE A DECISION *TRUMP: EITHER IRAN SIGNS DEAL, OR IT WON'T EXIST ANY LONGER
-- 10/02 01:51 [financialjuice] Putin: we support trilateral meeting with Xi, Trump, but agenda for talks should be worked out.
-- 10/02 01:52 [FirstSquawk] TRUMP ON IRAN: NOW I HAVE TO MAKE A DECISION
-- 10/02 01:52 [FirstSquawk] TRUMP: EITHER IRAN SIGNS DEAL, OR IT WON'T EXIST ANY LONGER
-- 10/02 01:55 [DeItaone] *PUTIN SAYS HE OPEN TO TRILATERAL TALKS WITH US, CHINA
 - 10/02 02:08 [financialjuice/FirstSquawk] Trump, asked if the pilot had any connection to Iran: We are looking into that, according to what I'm hearing, yes - Israel's N12 News
 - 10/02 02:09 [financialjuice] Putin: Russia ready to resume dialog with the US on arms control.
 - 10/02 02:11 [DeItaone] *PUTIN: RUSSIA READY TO RESUME DIALOG WITH US ON ARMS CONTROL
@@ -240,6 +230,7 @@
 - 10/02 05:18 [financialjuice] Trump: Iran will be ending soon, one way or the other.
 - 10/02 05:19 [financialjuice] Trump, asked about Iran's involvement in the UK base: Looks like it.
 - 10/02 05:19 [DeItaone] TRUMP: MAY ASK EUROPEAN COUNTRIES TO RELEASE DIESEL STOCKS
+- 10/02 05:24 [financialjuice] Trump ends remarks to reporters.
 - 10/02 05:43 [FirstSquawk] ONSEMI IS TO BUY SYNAPTICS FOR $123 PER SHARE IN CASH UNDER A REVISED MERGER AGREEMENT, VALUING THE DEAL AT $5.70 BLN, SOURCES SAY, WITH THE TRANSACTION EXPECTED TO BE IMMEDIATELY ACCRETIVE TO ONSEMI'S NON-GAAP EPS AND FINANCED WITH CASH AN…
 - 10/02 05:43 [FirstSquawk] ONSEMI SAYS THE COMPANIES HAVE IDENTIFIED FURTHER OPPORTUNITIES BEYOND $200 MLN IN ANNUAL RUN-RATE SYNERGIES.
 - 10/02 06:01 [financialjuice/FirstSquawk] Egypt declares Ethiopian embassy counsellor persona non grata, orders departure within 48 hours: official, al Qahera news
@@ -693,3 +684,14 @@
 - 10/03 01:07 [financialjuice] Google raises price of budget Pixel 10A phone by $100 to $599. $GOOGL
 - 10/03 01:11 [FirstSquawk] GOOGLE RAISES PRICE OF BUDGET PIXEL BY $100 TO $599
 - 10/03 01:20 [FirstSquawk] CARNEY WILL BE THE FIRST CANADIAN LEADER TO VISIT TURKEY FOR A DEDICATED BILATERAL MEETING.
+- 10/03 01:41 [FirstSquawk] IEA'S BIROL: OIL PRICES DROPPED AT LEAST $5 AFTER OUR ANNOUNCEMENT OF RELEASING OIL AND DIESEL FROM OUR RESERVES INTO MARKET IN COMING DAYS, WEEKS
+- 10/03 01:42 [FirstSquawk/financialjuice] IEA'S BIROL: WE WILL FINALISE DISTRIBUTION ONCE WE HAVE CONSULTED WITH MEMBER STATES, WE HAVE ENOUGH RESERVES AND CAN RELEASE MORE IF NECESSARY
+- 10/03 01:42 [financialjuice] IEA's Birol: Oil prices dropped at least $5 after our announcement of releasing oil and diesel from our reserves into the market in the coming days and weeks
+- 10/03 01:46 [financialjuice] Italy to ask EU for deficit leeway worth 0.6% of GDP in 2027
+- 10/03 01:47 [financialjuice] Italy raises 2026 GDP growth forecast to 0.8% from 0.6% forecast made in April
+- 10/03 01:48 [financialjuice] Italy sees 2026 deficit below 3% of GDP in 2026
+- 10/03 01:48 [FirstSquawk] BREXIT DEAL INCHES CLOSER AS EU GIVES GROUND TO UK ON FOOD AND DRINK – IPAPER
+- 10/03 01:52 [financialjuice] Italy raises 2026 GDP growth forecast to 1% from 0.6% forecast made in April
+- 10/03 01:55 [financialjuice] US Senators expect a vote before December 13th on Trump Administration's pact to share nuclear power technology with Saudi Arabia
+- 10/03 01:56 [FirstSquawk] US SENATORS EXPECT A VOTE BEFORE DECEMBER 13 ON TRUMP ADMINISTRATION'S PACT TO SHARE NUCLEAR POWER TECHNOLOGY WITH SAUDI ARABIA
+- 10/03 01:56 [FirstSquawk] ITALY ECONOMY MINISTER CALLS CLARITY ON RUMOURS ABOUT EARLY RESIGNATION OF ECB'S LAGARDE
