@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-02 13:54 JST／対象: 10/01 13:54 〜 10/02 13:54 JST（時刻はすべて日本時間）
+生成: 2026-10-02 14:18 JST／対象: 10/01 14:18 〜 10/02 14:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 93 | 10/01 16:25 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 324 | 10/01 14:00 | 10/02 13:51 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 380 | 10/01 13:54 | 10/02 13:45 | ⚠ 79分（06:41→08:00） |
+| FirstSquawk | 320 | 10/01 14:25 | 10/02 14:15 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 379 | 10/01 15:00 | 10/02 14:07 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 759 行（統合前 803 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 754 行（統合前 798 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 13:54 [financialjuice] Bahrain aug m2 money supply rises 7.76% y/y: central bank
-- 10/01 13:55 [financialjuice] Bahrain Aug private sector credit advances 6.31% y/y: central bank
-- 10/01 14:00 [FirstSquawk] INDIA (SEP) HSBC INDIA PMI MFG ACTUAL: 55.1 VS 55.7 PREVIOUS
-- 10/01 14:00 [financialjuice] India HSBC/S&P Global September final manufacturing PMI at 55.1, below forecast 55.6
-- 10/01 14:00 [financialjuice] Netherlands S&P Global September manufacturing PMI rises to 55.6 from 53.8 in August
-- 10/01 14:06 [FirstSquawk] BNP Paribas expands Nordic wealth management operations, names Stina Norrhede regional head
-- 10/01 14:06 [FirstSquawk] BNP Paribas targets UHNW clients, entrepreneurs and family offices in Nordic expansion
-- 10/01 14:07 [financialjuice] DUTCH RETAIL SALES YOY ACTUAL 2.5% (FORECAST -, PREVIOUS 3.2%) $MACRO
-- 10/01 14:08 [FirstSquawk] US equity futures strengthen, with S&P 500 futures up 0.6% and Nasdaq futures 1.0%
-- 10/01 14:11 [FirstSquawk] XPeng reports September vehicle deliveries of 41,256, up 5% m/m
-- 10/01 14:13 [FirstSquawk] Japan business leaders prepare for China visit in March — Kyodo
 - 10/01 14:25 [FirstSquawk] Russian Defence Ministry says forces targeted cargo vessel at Chornomorsk port, logistics centre in Kyiv — Interfax
 - 10/01 14:32 [FirstSquawk] Essar: Trump announces $18 billion Mesabi Metallics investment to build fully integrated American steel company
 - 10/01 14:37 [FirstSquawk] Hungary’s MOL gets approval to continue NIS talks until Oct. 30
@@ -783,3 +772,9 @@
 - 10/02 13:45 [FirstSquawk] RUSSIAN AIR STRIKE ON KYIV LEAVES ONE DEAD, TWO INJURED, CITY AUTHORITIES SAY
 - 10/02 13:45 [financialjuice] Russian airstrike kills one, injures two in Kyiv, city authorities say
 - 10/02 13:51 [FirstSquawk] JAPAN YIELD ON 40-YEAR JGB RISES 3BPS TO 4.250%
+- 10/02 14:02 [FirstSquawk] JULIUS BAER LAUNCHES CHF 600M SHARE BUYBACK, TARGETS 15% CET1 RATIO
+- 10/02 14:05 [financialjuice] Russia hits bridge across Dnieper river in Kyiv overnight: IFX cites Russian defense ministry
+- 10/02 14:06 [financialjuice] Russia strikes industrial, production complex at port of Izmail in Ukraine’s Odesa region overnight: IFX cites Russian defence ministry
+- 10/02 14:07 [financialjuice] Russia strikes vessel in Black Sea: IFX cites Russian Defence Ministry
+- 10/02 14:07 [financialjuice] Russia hits electrical substation in Kyiv region: IFX cites Russian defence ministry
+- 10/02 14:15 [FirstSquawk] JAPAN 40-YEAR JGB YIELD CLIMBS 5 BPS TO 4.270%

@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-02 13:54 JST／対象: 10/02 07:54 〜 10/02 13:54 JST（時刻はすべて日本時間）
+生成: 2026-10-02 14:18 JST／対象: 10/02 08:18 〜 10/02 14:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 82 | 10/02 08:16 | 10/02 13:51 | 29分（08:16→08:46） |
-| financialjuice | 49 | 10/02 08:00 | 10/02 13:45 | ⚠ 49分（11:35→12:24） |
+| FirstSquawk | 83 | 10/02 08:46 | 10/02 14:15 | 27分（09:49→10:16） |
+| financialjuice | 48 | 10/02 08:20 | 10/02 14:07 | ⚠ 49分（11:35→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 130 行（統合前 131 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,12 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 08:00 [financialjuice] S. KOREAN CPI MOM ACTUAL 0.3% (FORECAST 0.4%, PREVIOUS 0.20%) $MACRO
-- 10/02 08:00 [financialjuice] S. KOREAN CPI YOY ACTUAL 2.9% (FORECAST 2.9%, PREVIOUS 3.10%) $MACRO
-- 10/02 08:00 [financialjuice] S.Korea Sept consumer price index rises 0.3% m/m: stats office
-- 10/02 08:00 [financialjuice] S. Korea September core CPI rises 2.8% y/y, down from 3.4% in August: stats office
-- 10/02 08:00 [financialjuice] S. Korea Sept consumer price index rises 2.9% y/y: stats office
-- 10/02 08:16 [FirstSquawk] SOUTH KOREA'S SEPTEMBER CONSUMER PRICE INDEX ROSE 2.9% YEAR-ON-YEAR, IN LINE WITH THE FORECAST AND EASING FROM 3.10%, AND WAS UP 0.3% MONTH-ON-MONTH, WITH CORE CPI UP 2.8% Y/Y, DOWN FROM 3.4% IN AUGUST - STATS OFFICE
 - 10/02 08:20 [financialjuice] Logan: higher yields may also indicate increased term premiums, lowering need to tighten monetary policy
 - 10/02 08:20 [financialjuice] Logan: Economic expansion strengthening, labor market well balanced
 - 10/02 08:20 [financialjuice] Logan: Fed policy is not restrictive, must be modestly tight
@@ -154,3 +148,9 @@
 - 10/02 13:45 [FirstSquawk] RUSSIAN AIR STRIKE ON KYIV LEAVES ONE DEAD, TWO INJURED, CITY AUTHORITIES SAY
 - 10/02 13:45 [financialjuice] Russian airstrike kills one, injures two in Kyiv, city authorities say
 - 10/02 13:51 [FirstSquawk] JAPAN YIELD ON 40-YEAR JGB RISES 3BPS TO 4.250%
+- 10/02 14:02 [FirstSquawk] JULIUS BAER LAUNCHES CHF 600M SHARE BUYBACK, TARGETS 15% CET1 RATIO
+- 10/02 14:05 [financialjuice] Russia hits bridge across Dnieper river in Kyiv overnight: IFX cites Russian defense ministry
+- 10/02 14:06 [financialjuice] Russia strikes industrial, production complex at port of Izmail in Ukraine’s Odesa region overnight: IFX cites Russian defence ministry
+- 10/02 14:07 [financialjuice] Russia strikes vessel in Black Sea: IFX cites Russian Defence Ministry
+- 10/02 14:07 [financialjuice] Russia hits electrical substation in Kyiv region: IFX cites Russian defence ministry
+- 10/02 14:15 [FirstSquawk] JAPAN 40-YEAR JGB YIELD CLIMBS 5 BPS TO 4.270%

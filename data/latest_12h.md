@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-02 13:54 JST／対象: 10/02 01:54 〜 10/02 13:54 JST（時刻はすべて日本時間）
+生成: 2026-10-02 14:18 JST／対象: 10/02 02:18 〜 10/02 14:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 31 | 10/02 01:55 | 10/02 05:19 | ⚠ 96分（03:42→05:19） |
-| FirstSquawk | 159 | 10/02 02:31 | 10/02 13:51 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 173 | 10/02 02:08 | 10/02 13:45 | ⚠ 79分（06:41→08:00） |
+| DeItaone | 26 | 10/02 02:19 | 10/02 05:19 | ⚠ 96分（03:42→05:19） |
+| FirstSquawk | 161 | 10/02 02:31 | 10/02 14:15 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 169 | 10/02 02:28 | 10/02 14:07 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 346 行（統合前 364 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 341 行（統合前 357 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 01:55 [DeItaone] *PUTIN SAYS HE OPEN TO TRILATERAL TALKS WITH US, CHINA
-- 10/02 02:08 [financialjuice/FirstSquawk] Trump, asked if the pilot had any connection to Iran: We are looking into that, according to what I'm hearing, yes - Israel's N12 News
-- 10/02 02:09 [financialjuice] Putin: Russia ready to resume dialog with the US on arms control.
-- 10/02 02:11 [DeItaone] *PUTIN: RUSSIA READY TO RESUME DIALOG WITH US ON ARMS CONTROL
-- 10/02 02:11 [financialjuice] Putin: Russia has no preconditions for dialog with the EU.
-- 10/02 02:12 [DeItaone] HOUTHI-RUN SABA NEWS AGENCY, CITING MILITARY SOURCE, DENIES GROUP ATTACKED POWER STATION IN SAUDI ARABIA'S MEDINA
-- 10/02 02:13 [financialjuice/FirstSquawk] Houthi-run Saba News Agency, citing a military source: Denies group attacked a power station in Saudi Arabia's Medina
-- 10/02 02:14 [financialjuice] Putin: Russia doesn't nationalize foreign assets.
-- 10/02 02:14 [DeItaone] PUTIN: SOME EUROPEAN COUNTRIES, INCLUDING GERMANY, SEIZE RUSSIAN ASSETS PUTIN: WE ARE RESPONDING IN KIND
-- 10/02 02:15 [financialjuice] Putin: Some European countries, including Germany, seize Russian assets; we are responding in kind
-- 10/02 02:16 [financialjuice] Putin: Foreign owners will get assets back in a good scenario.
-- 10/02 02:17 [financialjuice] Why US Bonds Are Bouncing Back Today - WSJ
-- 10/02 02:17 [DeItaone] PUTIN: THEY MAY GET THEM BACK IN FAVOURABLE SCENARIO
 - 10/02 02:19 [DeItaone] CALIFORNIA ATTORNEY GENERAL: SERVES INVESTIGATIVE SUBPOENA ON OPENAI OVER CYBERSECURITY INCIDENTS - WEBSITE CALIFORNIA AG: “MY OFFICE IS ASKING OPENAI ADDITIONAL QUESTIONS REGARDING CYBERSECURITY INCIDENTS AND RISKS INVOLVING THE COMPANY AN…
 - 10/02 02:19 [DeItaone] EURO EXTENDS LOSES AGAINST US DOLLAR, LAST DOWN 1% AT $1.12165
 - 10/02 02:27 [DeItaone] *ANTHROPIC SAID TO TARGET MEGA-IPO BEFORE THANKSGIVING HOLIDAY
@@ -67,6 +54,8 @@
 - 10/02 02:35 [FirstSquawk] FED'S JEFFERSON SAYS ECONOMIC OUTPUT AND THE JOB MARKET ARE BROADLY SOLID, SEES THE JOBLESS RATE HOLDING STEADY INTO THE END OF THIS YEAR, AND SAYS BOND YIELDS SHOW MARKET PARTICIPANTS RETHINKING THE OUTLOOK.
 - 10/02 02:35 [financialjuice] Saudi Defence Minister: Held call with US Defense Secretary, reviewed Saudi-US strategic defence partnership
 - 10/02 02:36 [DeItaone] ANTHROPIC TARGETS IPO BEFORE THANKSGIVING Anthropic is reportedly seeking to go public as soon as mid-November, with formal IPO marketing potentially starting the week of Nov. 9. Prospective investors see a potential valuation of roughly $1…
+- 10/02 02:37 [FirstSquawk] TRUMP, ASKED IF THE PILOT HAD ANY CONNECTION TO IRAN: WE ARE LOOKING INTO THAT, ACCORDING TO WHAT I'M HEARING, YES - ISRAEL'S N12 NEWS
+- 10/02 02:37 [FirstSquawk] HOUTHI-RUN SABA NEWS AGENCY, CITING A MILITARY SOURCE: DENIES GROUP ATTACKED A POWER STATION IN SAUDI ARABIA'S MEDINA
 - 10/02 02:38 [DeItaone] *JEFFERSON SAYS FED MAY NEED ‘MORE TIME’ TO DECIDE ON NEXT MOVE *JEFFERSON: INFLATION RISKS ARE TILTED TO THE UPSIDE *JEFFERSON: NOT SEEING INFLATION SPILLOVERS FROM TARIFFS, ENERGY *JEFFERSON: EXPECT NEAR-TERM GROWTH TO REMAIN AT FIRST-HAL…
 - 10/02 02:40 [DeItaone] FED LEADERS SIGNAL NO URGENCY FOR OCTOBER RATE HIKE Fed Vice Chair Philip Jefferson says officials “may take more time” before deciding on another rate increase, echoing NY Fed President John Williams. Their aligned message suggests Fed lea…
 - 10/02 02:40 [FirstSquawk] STELLANTIS US SALES RISE 3% Y/Y THROUGH Q3 2026; Q3 VEHICLE SALES HIT 324,277 UNITS
@@ -370,3 +359,9 @@
 - 10/02 13:45 [FirstSquawk] RUSSIAN AIR STRIKE ON KYIV LEAVES ONE DEAD, TWO INJURED, CITY AUTHORITIES SAY
 - 10/02 13:45 [financialjuice] Russian airstrike kills one, injures two in Kyiv, city authorities say
 - 10/02 13:51 [FirstSquawk] JAPAN YIELD ON 40-YEAR JGB RISES 3BPS TO 4.250%
+- 10/02 14:02 [FirstSquawk] JULIUS BAER LAUNCHES CHF 600M SHARE BUYBACK, TARGETS 15% CET1 RATIO
+- 10/02 14:05 [financialjuice] Russia hits bridge across Dnieper river in Kyiv overnight: IFX cites Russian defense ministry
+- 10/02 14:06 [financialjuice] Russia strikes industrial, production complex at port of Izmail in Ukraine’s Odesa region overnight: IFX cites Russian defence ministry
+- 10/02 14:07 [financialjuice] Russia strikes vessel in Black Sea: IFX cites Russian Defence Ministry
+- 10/02 14:07 [financialjuice] Russia hits electrical substation in Kyiv region: IFX cites Russian defence ministry
+- 10/02 14:15 [FirstSquawk] JAPAN 40-YEAR JGB YIELD CLIMBS 5 BPS TO 4.270%
