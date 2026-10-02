@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-02 23:02 JST／対象: 10/02 11:02 〜 10/02 23:02 JST（時刻はすべて日本時間）
+生成: 2026-10-02 23:25 JST／対象: 10/02 11:25 〜 10/02 23:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 57 | 10/02 17:55 | 10/02 23:02 | 23分（19:35→19:59） |
-| FirstSquawk | 133 | 10/02 11:04 | 10/02 23:02 | 44分（20:46→21:31） |
-| financialjuice | 140 | 10/02 11:05 | 10/02 23:02 | ⚠ 49分（18:00→18:49） |
+| DeItaone | 58 | 10/02 17:55 | 10/02 23:02 | 23分（19:35→19:59） |
+| FirstSquawk | 123 | 10/02 11:30 | 10/02 23:02 | 44分（20:46→21:31） |
+| financialjuice | 136 | 10/02 11:33 | 10/02 23:19 | ⚠ 49分（18:00→18:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 323 行（統合前 330 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 310 行（統合前 317 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 11:04 [FirstSquawk] Japan Petroleum Exploration Acquires Entire Fundare Stake to Complete Tight Oil and Gas Asset Deal
-- 10/02 11:04 [FirstSquawk] Japan Petroleum Exploration Puts Total Enterprise Value of Fundare Interests at About $278 Million
-- 10/02 11:05 [financialjuice] Russian air strikes hit bridge in Ukraine's Kyiv: mayor
-- 10/02 11:05 [FirstSquawk] Kyiv Mayor Says Russian Airstrikes Hit Bridge in Ukraine
-- 10/02 11:10 [FirstSquawk] Hong Kong Stocks Slide 3% as Hang Seng Index Falls
-- 10/02 11:14 [financialjuice] Japan finance minister Katayama: will intensify efforts to promote domestic version of doge, review subsidies and funding
-- 10/02 11:15 [financialjuice] Japan finance minister Katayama: will significantly simplify idled funds in budget procedure
-- 10/02 11:16 [FirstSquawk] Japan’s Katayama to Boost Efforts for Japanese Version of DOGE Review of Subsidies, Funds
-- 10/02 11:16 [FirstSquawk] Japan FinMin Katayama: Government to Sharply Streamline Unused Funds in Budget Process
-- 10/02 11:17 [financialjuice] Japan finmin Katayama: there are about 200 current funds, valued at about 7 trillion yen
-- 10/02 11:17 [FirstSquawk] Japan FinMin Katayama Says Existing Funds Number About 200, Total ¥7 Trillion
-- 10/02 11:20 [financialjuice] Japan economy minister Kiuchi: won’t discuss monetary policy under BoJ jurisdiction
-- 10/02 11:21 [FirstSquawk] Kiuchi Says He Won’t Comment on Monetary Policy, Which Falls Under BOJ’s Mandate
-- 10/02 11:21 [financialjuice] Japan economy minister Kiuchi: hopes BoJ maintains close communication with government in steering policy
-- 10/02 11:22 [FirstSquawk] Japan’s Kiuchi: Hopes BOJ Maintains Close Communication With Government on Policy Decisions
-- 10/02 11:24 [financialjuice] Japan economy minister Kiuchi: Japan no longer requires exceptional monetary stimulus following BoJ's move to end yield curve control
-- 10/02 11:24 [FirstSquawk] Japan Economy Minister Kiuchi: Extraordinary Monetary Stimulus Is No Longer Needed
 - 10/02 11:30 [FirstSquawk] Seoul Stocks Open Lower Despite Gains on Wall Street
 - 10/02 11:33 [financialjuice] Japan economy minister Kiuchi: Japan is no longer in deflation, no need for overly loose monetary policy favoring higher inflation
 - 10/02 11:33 [FirstSquawk] Japan Economy Minister Kiuchi: Japan No Longer in Deflation, Excessively Loose Policy No Longer Needed
@@ -347,3 +330,7 @@
 - 10/02 23:02 [financialjuice] Trump: Europe agreed to release a massive amount of their heavily stocked Diesel Oil. The process begins immediately - Truth Social
 - 10/02 23:02 [FirstSquawk] TRUMP: EUROPE HAS JUST AGREED TO RELEASE A MASSIVE AMOUNT OF THEIR HEAVILY STOCKED DIESEL OIL. THE PROCESS WILL BEGIN IMMEDIATELY. THANK YOU FOR YOUR ATTENTION TO THIS MATTER! PRESIDENT DJT
 - 10/02 23:02 [DeItaone] NASDAQ COMPOSITE INDEX HITS ALL-TIME HIGH, LAST UP 1.6%
+- 10/02 23:02 [financialjuice] US Factory Orders and Durable Goods August Reports
+- 10/02 23:02 [DeItaone] $NKE - NIKE SHARES FALL TO LOWEST SINCE SEPTEMBER 2013, LAST DOWN NEARLY 6%
+- 10/02 23:19 [financialjuice] Fear & Greed Index: 32/100 - Fear
+- 10/02 23:19 [financialjuice] Crypto Fear & Greed Index: 72/100 - Greed

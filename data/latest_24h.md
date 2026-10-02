@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-02 23:02 JST／対象: 10/01 23:02 〜 10/02 23:02 JST（時刻はすべて日本時間）
+生成: 2026-10-02 23:25 JST／対象: 10/01 23:25 〜 10/02 23:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 108 | 10/01 23:06 | 10/02 23:02 | ⚠ 755分（05:19→17:55） |
-| FirstSquawk | 309 | 10/01 23:07 | 10/02 23:02 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 361 | 10/01 23:03 | 10/02 23:02 | ⚠ 79分（06:41→08:00） |
+| DeItaone | 107 | 10/02 01:02 | 10/02 23:02 | ⚠ 755分（05:19→17:55） |
+| FirstSquawk | 302 | 10/01 23:29 | 10/02 23:02 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 357 | 10/01 23:30 | 10/02 23:19 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 743 行（統合前 782 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 732 行（統合前 769 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 23:03 [financialjuice] US ISM Manufacturing PMI September Report
-- 10/01 23:05 [financialjuice] US Construction Spending MoM August Report
-- 10/01 23:06 [DeItaone] U.S. TREASURY YIELDS EXTEND GAINS; YIELD ON 10-YEAR TREASURY NOTE LAST UP 4.72 BASIS POINTS AT 5.34% TWO-YEAR U.S. TREASURY YIELDS, LAST FLAT AT 4.883%
-- 10/01 23:07 [FirstSquawk] U.S. TREASURY YIELDS EXTEND GAINS; YIELD ON 10-YEAR TREASURY NOTE LAST UP 4.72 BASIS POINTS AT 5.34%
-- 10/01 23:07 [FirstSquawk] TWO-YEAR U.S. TREASURY YIELDS, LAST FLAT AT 4.883%
-- 10/01 23:09 [financialjuice/FirstSquawk] Turkey and UN steer new talks on Russia-Ukraine Black Sea truce
-- 10/01 23:17 [FirstSquawk] ITALY-GERMANY 10-YEAR YIELD SPREAD WIDENS 10BPS TO 113BPS
-- 10/01 23:17 [financialjuice] Kremlin's Peskov: No signals yet about Russia-USA-China summit - IFX
-- 10/01 23:18 [financialjuice] Fear & Greed Index: 29/100 - Fear
-- 10/01 23:18 [FirstSquawk] PESKOV: THERE HAVE BEEN NO SIGNALS YET ABOUT A TRILATERAL RUSSIA-US-CHINA SUMMIT – IFX
-- 10/01 23:18 [FirstSquawk] PESKOV: A MEETING BETWEEN PUTIN AND TRUMP ON THE SIDELINES OF APEC WOULD BE ESSENTIAL FOR THE ENTIRE WORLD
-- 10/01 23:18 [FirstSquawk] PESKOV: PUTIN WOULD BE HAPPY TO MEET TRUMP
-- 10/01 23:19 [DeItaone] TRUMP: DISCUSSED RELEASE OF POLITICAL PRISONERS WITH CHINA'S XI
-- 10/01 23:19 [financialjuice] Crypto Fear & Greed Index: 74/100 - Greed
-- 10/01 23:23 [financialjuice] Meta: Introduces ray-ban meta audio and announces Muse AI agent for AI glasses. $META
 - 10/01 23:29 [FirstSquawk] SPOT PALLADIUM FALLS OVER 3% TO $1,161.93/OZ
 - 10/01 23:30 [FirstSquawk] US NATURAL GAS STORAGE ACTUAL: 64 VS 53 PREVIOUS; EST 63
 - 10/01 23:30 [financialjuice] EIA NATURAL GAS CHANGE BCF ACTUAL 64B (FORECAST 63B, PREVIOUS 53B) $MACRO
@@ -767,3 +752,7 @@
 - 10/02 23:02 [financialjuice] Trump: Europe agreed to release a massive amount of their heavily stocked Diesel Oil. The process begins immediately - Truth Social
 - 10/02 23:02 [FirstSquawk] TRUMP: EUROPE HAS JUST AGREED TO RELEASE A MASSIVE AMOUNT OF THEIR HEAVILY STOCKED DIESEL OIL. THE PROCESS WILL BEGIN IMMEDIATELY. THANK YOU FOR YOUR ATTENTION TO THIS MATTER! PRESIDENT DJT
 - 10/02 23:02 [DeItaone] NASDAQ COMPOSITE INDEX HITS ALL-TIME HIGH, LAST UP 1.6%
+- 10/02 23:02 [financialjuice] US Factory Orders and Durable Goods August Reports
+- 10/02 23:02 [DeItaone] $NKE - NIKE SHARES FALL TO LOWEST SINCE SEPTEMBER 2013, LAST DOWN NEARLY 6%
+- 10/02 23:19 [financialjuice] Fear & Greed Index: 32/100 - Fear
+- 10/02 23:19 [financialjuice] Crypto Fear & Greed Index: 72/100 - Greed
