@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-02 16:48 JST／対象: 10/02 04:48 〜 10/02 16:48 JST（時刻はすべて日本時間）
+生成: 2026-10-02 17:01 JST／対象: 10/02 05:01 〜 10/02 17:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 10/02 05:19 | 10/02 05:19 | - |
-| FirstSquawk | 134 | 10/02 04:49 | 10/02 16:38 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 85 | 10/02 04:49 | 10/02 16:30 | ⚠ 79分（06:41→08:00） |
+| FirstSquawk | 131 | 10/02 05:02 | 10/02 16:56 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 81 | 10/02 05:02 | 10/02 16:56 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 212 行（統合前 220 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 207 行（統合前 213 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 04:49 [financialjuice/FirstSquawk] Iran's Foreign Ministry asks Iraq to take steps to lift flight restrictions due to US sanctions and return flights to normal conditions.
-- 10/02 04:50 [financialjuice] USTR Greer: Will continue to advance discussions on the most-favored-nation tariff structure, but did not submit a draft agreement.
-- 10/02 04:50 [financialjuice/FirstSquawk] ❗ fed's Bowman sees no urgent need for more rate moves this year.
-- 10/02 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 2679.2 MLN NASDAQ 100: 989.1 MLN DOW 30: 468.6 MLN MAG 7: 354.6 MLN $MACRO
-- 10/02 04:52 [FirstSquawk] USTR GREER SAYS THE U.S. HAS TECHNICAL TALKS WITH THE CANADIANS BUT THAT THERE ARE 'A HANDFUL OF OUTSTANDING ISSUES THAT ARE DIFFICULT TO RESOLVE', ADDING THAT IT WILL CONTINUE TO ADVANCE DISCUSSIONS ON A MOST-FAVORED-NATION TARIFF STRUCTUR…
-- 10/02 04:52 [FirstSquawk] USTR GREER SAYS THE MEETING HAS NOT CHANGED HIS VIEWS ON THE WTO'S INABILITY TO ADDRESS EXCESS INDUSTRIAL CAPACITY, ADDING THAT THERE IS NOT YET A TIMELINE FOR U.S.-CHINA TARIFF REDUCTIONS UNDER THE BOARD OF TRADE.
-- 10/02 04:52 [financialjuice] USTR Greer: We do not have a timeline yet for the US-China tariff reductions under the Board of trade
-- 10/02 04:53 [financialjuice] Total money market funds fell $ 45.45 B to $7.89t for the week ended september 30th - ICI
-- 10/02 04:56 [financialjuice] Fed's Cook: Don't think private credit is having a big effect on financial stability
-- 10/02 04:58 [FirstSquawk] MUSK SAYS TESLA HAS CUT THE RAM IN HALF FOR THE TESLA AI5 CHIP — NOW 72GB OF LP5 — AND BY A THIRD FOR AI6, NOW 144GB OF LP6, ADDING THAT HE THINKS THIS WILL HAVE A NEGLIGIBLE EFFECT ON OPTIMUS PERFORMANCE
 - 10/02 05:02 [financialjuice/FirstSquawk] Musk: I am cautiously optimistic that we will be able to run the SpaceX version of the VR72 at close to 250kW average power, meaning peak power would be ~10% higher - Post X. $NVDA $SPCX
 - 10/02 05:02 [financialjuice] Fed's Cook: The top risk for 2027 is AI. It's already causing inflationary pressure, not slowing down.
 - 10/02 05:02 [FirstSquawk] NASDAQ CLOSES 0.06% HIGHER AT 26,875.96, UP 14.90 POINTS S&P 500 CLOSES 0.15% HIGHER AT 7,663.38, UP 11.84 POINTS DOW JONES CLOSES 0.02% HIGHER AT 50,916.33, UP 10.28 POINTS
@@ -236,3 +226,8 @@
 - 10/02 16:32 [FirstSquawk] ECB'S REHN SAYS LONG-TERM INTEREST RATES RISE WILL SLOW GROWTH AND WEAKEN ENERGY PRICE AND WAGE IMPACT.
 - 10/02 16:32 [FirstSquawk] ECB'S REHN NOTES UNCERTAINTY ABOUT A POSSIBLE SWIFT CHANGE IN MARKET ATTITUDE TOWARD AI.
 - 10/02 16:38 [FirstSquawk] REHN SAYS ECB FORECASTS SUBJECT TO ‘VERY HIGH' UNCERTAINTY
+- 10/02 16:52 [financialjuice] EU countries addressed us demand to release diesel stocks and threat of US diesel export ban in meeting on Friday - Source Familiar with Details of The Discussion.
+- 10/02 16:54 [financialjuice] US has requested that large European countries release 800,000 kilotons of diesel over 6 months - Source Familiar with Discussion
+- 10/02 16:56 [FirstSquawk] AIRBUS TO RECOMMEND AIRLINES INSPECT A330NEO JETS FOR LOOSE ITEMS BEFORE SCHEDULED MAINTENANCE DUE TO FINDING OF STRAY OBJECT IN ASSEMBLY THIS YEAR.
+- 10/02 16:56 [FirstSquawk] UK 2-YEAR GILT YIELDS FALL TO 4.726%, LOWEST LEVEL SINCE SEPTEMBER 22, WITH A DROP OF 9 BASIS POINTS.
+- 10/02 16:56 [financialjuice] G7 leaders may talk Friday afternoon to discuss next steps - source familiar with discussion.

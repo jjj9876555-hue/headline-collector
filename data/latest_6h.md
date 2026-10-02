@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-02 16:48 JST／対象: 10/02 10:48 〜 10/02 16:48 JST（時刻はすべて日本時間）
+生成: 2026-10-02 17:01 JST／対象: 10/02 11:01 〜 10/02 17:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 66 | 10/02 10:48 | 10/02 16:38 | 30分（14:50→15:21） |
-| financialjuice | 27 | 10/02 11:05 | 10/02 16:30 | ⚠ 49分（11:35→12:24） |
+| FirstSquawk | 64 | 10/02 11:04 | 10/02 16:56 | 30分（14:50→15:21） |
+| financialjuice | 30 | 10/02 11:05 | 10/02 16:56 | ⚠ 49分（11:35→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 92 行（統合前 93 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 93 行（統合前 94 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 10:48 [FirstSquawk] Oil Gains Ground as Middle East Tensions Mount - WSJ
-- 10/02 10:50 [FirstSquawk] US Deploys Additional Patriot Air Defense Systems to Saudi, Qatari Energy Sites, Axios Reports
-- 10/02 10:56 [FirstSquawk] JGBs Climb Following Gains in US Treasurys - WSJ
-- 10/02 11:00 [FirstSquawk] Fitch Expands Asia-Pacific Coverage for Equity Release Loan Product Ratings
 - 10/02 11:04 [FirstSquawk] Japan Petroleum Exploration Acquires Entire Fundare Stake to Complete Tight Oil and Gas Asset Deal
 - 10/02 11:04 [FirstSquawk] Japan Petroleum Exploration Puts Total Enterprise Value of Fundare Interests at About $278 Million
 - 10/02 11:05 [financialjuice] Russian air strikes hit bridge in Ukraine's Kyiv: mayor
@@ -116,3 +112,8 @@
 - 10/02 16:32 [FirstSquawk] ECB'S REHN SAYS LONG-TERM INTEREST RATES RISE WILL SLOW GROWTH AND WEAKEN ENERGY PRICE AND WAGE IMPACT.
 - 10/02 16:32 [FirstSquawk] ECB'S REHN NOTES UNCERTAINTY ABOUT A POSSIBLE SWIFT CHANGE IN MARKET ATTITUDE TOWARD AI.
 - 10/02 16:38 [FirstSquawk] REHN SAYS ECB FORECASTS SUBJECT TO ‘VERY HIGH' UNCERTAINTY
+- 10/02 16:52 [financialjuice] EU countries addressed us demand to release diesel stocks and threat of US diesel export ban in meeting on Friday - Source Familiar with Details of The Discussion.
+- 10/02 16:54 [financialjuice] US has requested that large European countries release 800,000 kilotons of diesel over 6 months - Source Familiar with Discussion
+- 10/02 16:56 [FirstSquawk] AIRBUS TO RECOMMEND AIRLINES INSPECT A330NEO JETS FOR LOOSE ITEMS BEFORE SCHEDULED MAINTENANCE DUE TO FINDING OF STRAY OBJECT IN ASSEMBLY THIS YEAR.
+- 10/02 16:56 [FirstSquawk] UK 2-YEAR GILT YIELDS FALL TO 4.726%, LOWEST LEVEL SINCE SEPTEMBER 22, WITH A DROP OF 9 BASIS POINTS.
+- 10/02 16:56 [financialjuice] G7 leaders may talk Friday afternoon to discuss next steps - source familiar with discussion.

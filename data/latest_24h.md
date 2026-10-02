@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-02 16:48 JST／対象: 10/01 16:48 〜 10/02 16:48 JST（時刻はすべて日本時間）
+生成: 2026-10-02 17:01 JST／対象: 10/01 17:01 〜 10/02 17:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 91 | 10/01 16:50 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 310 | 10/01 16:49 | 10/02 16:38 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 368 | 10/01 16:50 | 10/02 16:30 | ⚠ 79分（06:41→08:00） |
+| DeItaone | 90 | 10/01 17:14 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
+| FirstSquawk | 305 | 10/01 17:17 | 10/02 16:56 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 367 | 10/01 17:01 | 10/02 16:56 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 730 行（統合前 775 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 723 行（統合前 768 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 16:49 [FirstSquawk] AIRBUS SE HAS FINISHED BUYING QUARKSLAB, BOOSTING FRANCE'S CYBERSECURITY INDEPENDENCE.
-- 10/01 16:50 [FirstSquawk] AIRBUS SE’S LATEST INVESTMENT BOOSTS ITS ROLE AS A TRUSTED PARTNER FOR FRENCH OFFICIALS AND EXPANDS ITS PRESENCE IN EUROPEAN CYBERSECURITY.
-- 10/01 16:50 [DeItaone] US WANTS THE EU TO RELEASE 120 MILLION BARRELS OF DIESEL IN THE NEXT 6 MONTHS, ONE OF THE SOURCES SAID
-- 10/01 16:50 [financialjuice] ‼ BREAKING: FRENCH MANUFACTURING PMI ACTUAL 50.6 (FORECAST 50.3, PREVIOUS 50.3) $MACRO
-- 10/01 16:52 [FirstSquawk] FRANCE'S SEPTEMBER FINAL MANUFACTURING PMI REACHED 50.6, ABOVE THE FORECAST OF 50.3.
-- 10/01 16:53 [FirstSquawk] CONOCOPHILLIPS IS LOOKING INTO SELLING ITS NORWAY BUSINESS AND TEESSIDE ASSET FOLLOWING AN UNREQUESTED OFFER.
-- 10/01 16:55 [FirstSquawk] GERMANY'S FINAL MANUFACTURING PMI FOR SEPTEMBER REACHED 53.9, SLIGHTLY ABOVE THE FORECAST OF 53.8.
-- 10/01 16:55 [financialjuice] ‼ BREAKING: GERMAN MANUFACTURING PMI FINAL ACTUAL 53.9 (FORECAST 53.8, PREVIOUS 53.8) $MACRO
-- 10/01 16:59 [financialjuice] China cancels some fuel shipments to support domestic supply.
-- 10/01 16:59 [FirstSquawk] CHINA STOPS SOME FUEL SHIPMENTS TO BOOST LOCAL SUPPLY.
-- 10/01 16:59 [FirstSquawk] YIELD ON 30-YEAR US TREASURY BONDS RISES 3.3 BPS TO 5.672%.
-- 10/01 17:00 [financialjuice] ❗ EUROZONE MANUFACTURING PMI FINAL ACTUAL 52.9 (FORECAST 52.7, PREVIOUS 52.7) $MACRO
 - 10/01 17:01 [financialjuice] ITALIAN UNEMPLOYMENT RATE ACTUAL 6.2% (FORECAST 5.75%, PREVIOUS 5.8% ,REVISION 6.0%) $MACRO
 - 10/01 17:03 [financialjuice] Barclays broadens strategic partnership with Anthropic for global AI integration
 - 10/01 17:08 [financialjuice] French PM aims for 43 billion euros in fresh budget savings - BFM TV
@@ -754,3 +742,8 @@
 - 10/02 16:32 [FirstSquawk] ECB'S REHN SAYS LONG-TERM INTEREST RATES RISE WILL SLOW GROWTH AND WEAKEN ENERGY PRICE AND WAGE IMPACT.
 - 10/02 16:32 [FirstSquawk] ECB'S REHN NOTES UNCERTAINTY ABOUT A POSSIBLE SWIFT CHANGE IN MARKET ATTITUDE TOWARD AI.
 - 10/02 16:38 [FirstSquawk] REHN SAYS ECB FORECASTS SUBJECT TO ‘VERY HIGH' UNCERTAINTY
+- 10/02 16:52 [financialjuice] EU countries addressed us demand to release diesel stocks and threat of US diesel export ban in meeting on Friday - Source Familiar with Details of The Discussion.
+- 10/02 16:54 [financialjuice] US has requested that large European countries release 800,000 kilotons of diesel over 6 months - Source Familiar with Discussion
+- 10/02 16:56 [FirstSquawk] AIRBUS TO RECOMMEND AIRLINES INSPECT A330NEO JETS FOR LOOSE ITEMS BEFORE SCHEDULED MAINTENANCE DUE TO FINDING OF STRAY OBJECT IN ASSEMBLY THIS YEAR.
+- 10/02 16:56 [FirstSquawk] UK 2-YEAR GILT YIELDS FALL TO 4.726%, LOWEST LEVEL SINCE SEPTEMBER 22, WITH A DROP OF 9 BASIS POINTS.
+- 10/02 16:56 [financialjuice] G7 leaders may talk Friday afternoon to discuss next steps - source familiar with discussion.
