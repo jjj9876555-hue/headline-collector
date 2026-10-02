@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-03 01:57 JST／対象: 10/02 13:57 〜 10/03 01:57 JST（時刻はすべて日本時間）
+生成: 2026-10-03 02:18 JST／対象: 10/02 14:18 〜 10/03 02:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 59 | 10/02 17:55 | 10/03 00:28 | ⚠ 85分（23:02→00:28） |
-| FirstSquawk | 129 | 10/02 14:02 | 10/03 01:56 | 44分（20:46→21:31） |
-| financialjuice | 150 | 10/02 14:05 | 10/03 01:55 | ⚠ 49分（18:00→18:49） |
+| FirstSquawk | 130 | 10/02 14:20 | 10/03 02:01 | 44分（20:46→21:31） |
+| financialjuice | 153 | 10/02 14:43 | 10/03 02:07 | ⚠ 49分（18:00→18:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 326 行（統合前 339 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 330 行（統合前 343 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 14:02 [FirstSquawk] JULIUS BAER LAUNCHES CHF 600M SHARE BUYBACK, TARGETS 15% CET1 RATIO
-- 10/02 14:05 [financialjuice] Russia hits bridge across Dnieper river in Kyiv overnight: IFX cites Russian defense ministry
-- 10/02 14:06 [financialjuice] Russia strikes industrial, production complex at port of Izmail in Ukraine’s Odesa region overnight: IFX cites Russian defence ministry
-- 10/02 14:07 [financialjuice] Russia strikes vessel in Black Sea: IFX cites Russian Defence Ministry
-- 10/02 14:07 [financialjuice] Russia hits electrical substation in Kyiv region: IFX cites Russian defence ministry
-- 10/02 14:15 [FirstSquawk] JAPAN 40-YEAR JGB YIELD CLIMBS 5 BPS TO 4.270%
 - 10/02 14:20 [FirstSquawk] INDONESIAN RUPIAH GAINS AS DOLLAR SLIPS AMID LOWER FED RATE-HIKE EXPECTATIONS - FX
 - 10/02 14:30 [FirstSquawk] ITALGAS AGREES TO ACQUIRE 22.5% OF FLOENE FROM MARUBENI, TOHO GAS FOR €120M - RTRS
 - 10/02 14:42 [FirstSquawk] FRANCE'S LESCURE: EVERY MEASURE IN BUDGET PROPOSAL IS OPEN FOR NEGOTIATION
@@ -350,3 +344,13 @@
 - 10/03 01:55 [financialjuice] US Senators expect a vote before December 13th on Trump Administration's pact to share nuclear power technology with Saudi Arabia
 - 10/03 01:56 [FirstSquawk] US SENATORS EXPECT A VOTE BEFORE DECEMBER 13 ON TRUMP ADMINISTRATION'S PACT TO SHARE NUCLEAR POWER TECHNOLOGY WITH SAUDI ARABIA
 - 10/03 01:56 [FirstSquawk] ITALY ECONOMY MINISTER CALLS CLARITY ON RUMOURS ABOUT EARLY RESIGNATION OF ECB'S LAGARDE
+- 10/03 01:59 [FirstSquawk] RAW SUGAR FUTURES HIT 18-MONTH HIGH
+- 10/03 02:01 [financialjuice] US BAKER HUGHES OIL RIG COUNT ACTUAL 456 (FORECAST -, PREVIOUS 455) $MACRO
+- 10/03 02:01 [financialjuice] US BAKER HUGHES TOTAL RIG COUNT ACTUAL 598 (FORECAST -, PREVIOUS 599) $MACRO
+- 10/03 02:01 [FirstSquawk] US OIL RIG COUNT UP 1 TO 456 , BAKER HUGHES SAYS
+- 10/03 02:01 [FirstSquawk] US TOTAL RIG COUNT 598 , BAKER HUGHES SAYS
+- 10/03 02:03 [financialjuice] Fed's Goolsbee: labor market is steady, the inflation side of the fed's job is more important - Fox Business
+- 10/03 02:03 [financialjuice] Fed's Goolsbee: Plenty of room for anything on the table as far as rate hike or pause
+- 10/03 02:04 [financialjuice] Fed's Goolsbee: Open to seeing if we get evidence we are heading back to 2% inflation
+- 10/03 02:05 [financialjuice] Fed's Goolsbee: Won't react strongly to one month of data.
+- 10/03 02:07 [financialjuice] Fed's Goolsbee: Won't rule out any decision at the next rate meeting
