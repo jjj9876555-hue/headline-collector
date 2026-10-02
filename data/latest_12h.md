@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-02 12:18 JST／対象: 10/02 00:18 〜 10/02 12:18 JST（時刻はすべて日本時間）
+生成: 2026-10-02 12:37 JST／対象: 10/02 00:37 〜 10/02 12:37 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 49 | 10/02 01:02 | 10/02 05:19 | ⚠ 96分（03:42→05:19） |
-| FirstSquawk | 169 | 10/02 00:27 | 10/02 12:09 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 211 | 10/02 00:19 | 10/02 11:35 | ⚠ 79分（06:41→08:00） |
+| FirstSquawk | 166 | 10/02 00:40 | 10/02 12:36 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 202 | 10/02 00:37 | 10/02 12:24 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 402 行（統合前 432 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 390 行（統合前 420 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 00:19 [financialjuice] Reports say Turkish Foreign Minister Fidan, Israeli Peace Council representative Eisenberg clash during closed meeting in New York last week - Israel's Kan News
-- 10/02 00:19 [financialjuice] Putin: Continuation of international conflicts is quite possible
-- 10/02 00:19 [financialjuice] Reports say Jared Kushner intervenes to end confrontation between Fidan, Eisenberg - Israel's Kan News
-- 10/02 00:20 [financialjuice] German Chancellor Merz: We are preparing for major hybrid attacks by Russia, and we would respond quickly and very clearly
-- 10/02 00:22 [financialjuice] Euro 3-Month implied options volatility hits 6.45%, highest since April 13th
-- 10/02 00:22 [financialjuice] Options show traders at most bearish towards Euro since mid March.
-- 10/02 00:27 [FirstSquawk] PULTE'S BUDGET CUTS TO HIT UP TO 80% OF FHFA WATCHDOG STAFF
-- 10/02 00:30 [FirstSquawk] TOYOTA US NEW CAR SALES RISE 8.4% IN SEPT. TO 201,306 VEHICLES
-- 10/02 00:31 [FirstSquawk] CHILE'S CODELCO SUSPENDS OPERATIONS IN AREA OF RADOMIRO TOMIC MINE WHERE FATAL ACCIDENT HAPPENED - STATEMENT
-- 10/02 00:31 [FirstSquawk] GM 3Q US DELIVERIES 670,974 UNITS, -5.5% Y/Y
-- 10/02 00:31 [financialjuice] GM 3Q US deliveries 670,974 units, -5.5% y/y $GM
-- 10/02 00:32 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 1.64%; GERMANY'S DAX DOWN 0.87%
-- 10/02 00:32 [FirstSquawk] FRANCE'S CAC 40 DOWN 1.47%; SPAIN'S IBEX DOWN 2.02%
-- 10/02 00:32 [financialjuice] US 4-WEEK BILL HIGH YIELD ACTUAL 3.89% (FORECAST -, PREVIOUS 3.850%) $MACRO
-- 10/02 00:32 [financialjuice] US 4-WEEK BILL BID-TO-COVER ACTUAL 2.83 (FORECAST -, PREVIOUS 2.610) $MACRO
-- 10/02 00:32 [FirstSquawk] TOYOTA SEPT US ELECTRIFIED VEHICLE SALES 117,215, UP 37.8% Y/Y
-- 10/02 00:33 [financialjuice] US 4-Week Bill Auction High Yield 3.89% Bid-to-Cover 2.83 Sells $100 bln Awards 23.52% of bids at high
 - 10/02 00:37 [financialjuice/FirstSquawk] ❗ Traders trim ECB rate bets, no longer fully price 3 more hikes.
 - 10/02 00:40 [financialjuice] Money markets no longer fully price in one more ECB interest rate hike by year-end.
 - 10/02 00:41 [financialjuice] ❗ German government raises forecast for economic growth to 1.3% in 2026, up from 0.5% in April, a person familiar with the draft said.
@@ -426,3 +409,8 @@
 - 10/02 12:01 [FirstSquawk] US DOJ: Government Employee Arrested for Allegedly Providing Support to Houthis
 - 10/02 12:04 [FirstSquawk] JPMorgan Raises Accenture Price Target to $242 From $200
 - 10/02 12:09 [FirstSquawk] Piper Sandler Raises Cigna Price Target to $370 From $346
+- 10/02 12:19 [FirstSquawk] Piper Sandler Raises Pinnacle Financial Partners Price Target to $125 From $123
+- 10/02 12:24 [financialjuice] African Union Commission: urges Ethiopia, Eritrea and Egypt to exercise maximum restraint, avoid actions or statements that may escalate tensions and undermine regional peace
+- 10/02 12:28 [FirstSquawk] Vietnam’s Biggest Refinery Set for Around 50-Day Shutdown From August Next Year
+- 10/02 12:29 [FirstSquawk] Fitch Maintains Toyota’s ‘A+’ Rating With Stable Outlook
+- 10/02 12:36 [FirstSquawk] Gas Malaysia Sees Kedah Regasification Terminal Starting Commercial Operations by End-2030

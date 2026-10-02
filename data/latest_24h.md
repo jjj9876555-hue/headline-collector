@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-02 12:18 JST／対象: 10/01 12:18 〜 10/02 12:18 JST（時刻はすべて日本時間）
+生成: 2026-10-02 12:37 JST／対象: 10/01 12:37 〜 10/02 12:37 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 93 | 10/01 16:25 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 323 | 10/01 12:23 | 10/02 12:09 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 397 | 10/01 12:27 | 10/02 11:35 | ⚠ 79分（06:41→08:00） |
+| FirstSquawk | 323 | 10/01 12:47 | 10/02 12:36 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 393 | 10/01 13:02 | 10/02 12:24 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 775 行（統合前 819 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 771 行（統合前 815 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 12:23 [FirstSquawk] Toyota says both shifts at Thailand vehicle, Toyota Auto Works plants won’t operate on Oct. 1-2
-- 10/01 12:27 [financialjuice] OpenAI: aware of reports of models trying to access publicly available data from Canadian government websites
-- 10/01 12:28 [financialjuice] OpenAI: reviewing findings, gave initial briefing to Canadian officials conducting government review
-- 10/01 12:28 [FirstSquawk] OpenAI acknowledges reports of its models attempting to access publicly available Canadian government website data
-- 10/01 12:28 [financialjuice] OpenAI: most of the activity reviewed involved routine research tasks, including accessing public web content
-- 10/01 12:28 [FirstSquawk] OpenAI says it has provided Canadian officials with an initial briefing as they conduct the government’s review
-- 10/01 12:29 [FirstSquawk] OpenAI says most reviewed activity consisted of routine research tasks involving public web content
-- 10/01 12:34 [financialjuice] Pakistan govt: carried out airstrikes on terrorist group hideouts in Afghanistan
-- 10/01 12:35 [financialjuice] Pakistan govt: 22 militants killed in airstrike, large caches of weapons, ammunition eliminated
 - 10/01 12:47 [FirstSquawk] China will find a way to manage crypto, says Solana CEO — WSJ
 - 10/01 12:50 [FirstSquawk] Goldman Sachs shifts forecast for next Fed rate hike to December
 - 10/01 13:02 [financialjuice] California agriculture files lawsuit challenging Trump administration's unlawful attempt to impound congressionally approved federal funding
@@ -799,3 +790,8 @@
 - 10/02 12:01 [FirstSquawk] US DOJ: Government Employee Arrested for Allegedly Providing Support to Houthis
 - 10/02 12:04 [FirstSquawk] JPMorgan Raises Accenture Price Target to $242 From $200
 - 10/02 12:09 [FirstSquawk] Piper Sandler Raises Cigna Price Target to $370 From $346
+- 10/02 12:19 [FirstSquawk] Piper Sandler Raises Pinnacle Financial Partners Price Target to $125 From $123
+- 10/02 12:24 [financialjuice] African Union Commission: urges Ethiopia, Eritrea and Egypt to exercise maximum restraint, avoid actions or statements that may escalate tensions and undermine regional peace
+- 10/02 12:28 [FirstSquawk] Vietnam’s Biggest Refinery Set for Around 50-Day Shutdown From August Next Year
+- 10/02 12:29 [FirstSquawk] Fitch Maintains Toyota’s ‘A+’ Rating With Stable Outlook
+- 10/02 12:36 [FirstSquawk] Gas Malaysia Sees Kedah Regasification Terminal Starting Commercial Operations by End-2030

@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-02 12:18 JST／対象: 10/02 06:18 〜 10/02 12:18 JST（時刻はすべて日本時間）
+生成: 2026-10-02 12:37 JST／対象: 10/02 06:37 〜 10/02 12:37 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 70 | 10/02 06:23 | 10/02 12:09 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 47 | 10/02 06:41 | 10/02 11:35 | ⚠ 79分（06:41→08:00） |
+| FirstSquawk | 71 | 10/02 08:16 | 10/02 12:36 | 29分（08:16→08:46） |
+| financialjuice | 48 | 10/02 06:41 | 10/02 12:24 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 116 行（統合前 117 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 118 行（統合前 119 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 06:23 [FirstSquawk] S&P DOW JONES INDICES SAYS TWILIO, AN S&P MIDCAP 400 CONSTITUENT, WILL REPLACE WARNER BROS. DISCOVERY IN THE S&P 500, WHILE VYLOR HAS BEEN ADDED TO THE S&P 500.
-- 10/02 06:23 [FirstSquawk] DISNEY ENTERTAINMENT CHIEF DANA WALDEN SAID THE COMPANY WOULD BE WILLING TO OFFER “A LOT OF MONEY” TO ACQUIRE THE IP RIGHTS TO BLUEY CREATOR JOE BRUMM’S SHOW, WHICH DISNEY DOES NOT CURRENTLY OWN.
-- 10/02 06:24 [FirstSquawk] DISNEY HAS A BLUEY MOVIE PLANNED FOR NEXT YEAR AND PLANS TO EXPAND DISNEY+ FROM SPRING 2027 INTO A BROADER DIGITAL PLATFORM LINKING STREAMING CONTENT WITH MERCHANDISE, GAMES AND EXPERIENCES.
 - 10/02 06:41 [financialjuice] Chronoscale Corp extends contract and secures new deal with AI infrastructure clients
 - 10/02 06:41 [financialjuice] Chronoscale Corp agreements indicate $1 billion annual run-rate revenue by Q3 2027
 - 10/02 08:00 [financialjuice] S. KOREAN CPI MOM ACTUAL 0.3% (FORECAST 0.4%, PREVIOUS 0.20%) $MACRO
@@ -140,3 +137,8 @@
 - 10/02 12:01 [FirstSquawk] US DOJ: Government Employee Arrested for Allegedly Providing Support to Houthis
 - 10/02 12:04 [FirstSquawk] JPMorgan Raises Accenture Price Target to $242 From $200
 - 10/02 12:09 [FirstSquawk] Piper Sandler Raises Cigna Price Target to $370 From $346
+- 10/02 12:19 [FirstSquawk] Piper Sandler Raises Pinnacle Financial Partners Price Target to $125 From $123
+- 10/02 12:24 [financialjuice] African Union Commission: urges Ethiopia, Eritrea and Egypt to exercise maximum restraint, avoid actions or statements that may escalate tensions and undermine regional peace
+- 10/02 12:28 [FirstSquawk] Vietnam’s Biggest Refinery Set for Around 50-Day Shutdown From August Next Year
+- 10/02 12:29 [FirstSquawk] Fitch Maintains Toyota’s ‘A+’ Rating With Stable Outlook
+- 10/02 12:36 [FirstSquawk] Gas Malaysia Sees Kedah Regasification Terminal Starting Commercial Operations by End-2030
