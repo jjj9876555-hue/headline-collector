@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-02 11:34 JST／対象: 10/01 23:34 〜 10/02 11:34 JST（時刻はすべて日本時間）
+生成: 2026-10-02 11:53 JST／対象: 10/01 23:53 〜 10/02 11:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 49 | 10/02 01:02 | 10/02 05:19 | ⚠ 96分（03:42→05:19） |
-| FirstSquawk | 178 | 10/01 23:34 | 10/02 11:33 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 220 | 10/01 23:44 | 10/02 11:33 | ⚠ 79分（06:41→08:00） |
+| FirstSquawk | 179 | 10/02 00:04 | 10/02 11:53 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 221 | 10/01 23:54 | 10/02 11:35 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 420 行（統合前 450 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 422 行（統合前 452 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 23:34 [FirstSquawk] DOLLAR TO YEN DROPS SIGNIFICANTLY; CURRENTLY AT 157.52; TRADING VOLUMES INCREASE ON EBS PLATFORM.
-- 10/01 23:35 [FirstSquawk] RUSSIAN https://t.co/qIH60LhYkD : SETS OFFICIAL ROUBLE RATE FOR OCTOBER 2 AT 83.2454 ROUBLES PER U.S. DOLLAR (PVS RATE - 83.5588)
-- 10/01 23:44 [financialjuice] Senior US Official to Channel 12: The US military is sending a third aircraft carrier and a second Marine unit to the Middle East
-- 10/01 23:52 [FirstSquawk] ACCENTURE STOCK SURGES AS RECORD BOOKINGS DISPEL AI FEARS - YF
 - 10/01 23:54 [financialjuice] Senior US Official to Israel's Channel 12: Three Carrier Groups Possible by End-November.
 - 10/01 23:55 [financialjuice] Senior US Official: Deployment of naval vessel, Marine units will give US CENTCOM more firepower if fighting with Iran resumes - Israel's News 12
 - 10/01 23:59 [financialjuice] Trump touts Boeing on Truth Social. $BA
@@ -444,3 +440,9 @@
 - 10/02 11:30 [FirstSquawk] Seoul Stocks Open Lower Despite Gains on Wall Street
 - 10/02 11:33 [financialjuice] Japan economy minister Kiuchi: Japan is no longer in deflation, no need for overly loose monetary policy favoring higher inflation
 - 10/02 11:33 [FirstSquawk] Japan Economy Minister Kiuchi: Japan No Longer in Deflation, Excessively Loose Policy No Longer Needed
+- 10/02 11:34 [financialjuice] Japan economy minister Kiuchi: Takaichi administration’s approach differs from reflation policy aimed at ending Japan’s deflation
+- 10/02 11:35 [FirstSquawk] Kiuchi: Takaichi Administration Policy Differs From Policy Aimed at Ending Deflation
+- 10/02 11:35 [financialjuice] Japan economy minister Kiuchi: Takaichi administration's strategy differs from Abenomics by targeting both robust economy and fiscal discipline, emphasizing supply capacity enhancement
+- 10/02 11:36 [FirstSquawk] Japan Economy Minister Kiuchi: Takaichi Administration Balances Economic Growth With Fiscal Discipline
+- 10/02 11:46 [FirstSquawk] Euro weakens below 1.1250 amid fiscal concerns, US NFP data in focus - FX
+- 10/02 11:53 [FirstSquawk] Piper Sandler Lowers Nike Price Target to $28 From $38

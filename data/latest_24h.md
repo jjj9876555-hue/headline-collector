@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-02 11:34 JST／対象: 10/01 11:34 〜 10/02 11:34 JST（時刻はすべて日本時間）
+生成: 2026-10-02 11:53 JST／対象: 10/01 11:53 〜 10/02 11:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 93 | 10/01 16:25 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 328 | 10/01 11:39 | 10/02 11:33 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 399 | 10/01 11:37 | 10/02 11:33 | ⚠ 79分（06:41→08:00） |
+| FirstSquawk | 328 | 10/01 11:55 | 10/02 11:53 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 399 | 10/01 11:57 | 10/02 11:35 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 782 行（統合前 826 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,12 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 11:37 [financialjuice] South Korea President Lee: Alaska LNG project to start only if commercially viable and compliant with South Korean law
-- 10/01 11:37 [financialjuice] South Korea President Lee: Investment project gains to be split 50-50 until principal and interest fully repaid
-- 10/01 11:39 [FirstSquawk] South Korea’s Lee: Alaska LNG project to start only once commercial viability and legal requirements are confirmed
-- 10/01 11:39 [FirstSquawk] South Korea President Lee: Profits from investment projects to be shared equally until principal and interest are fully recovered
-- 10/01 11:39 [FirstSquawk] South Korea’s Lee: Commercial viability must be assured on a plant-by-plant basis for nuclear projects
-- 10/01 11:49 [FirstSquawk] Card surcharge ban in Australia forces cafes and shops to lift prices
 - 10/01 11:55 [FirstSquawk] South Korea President Lee vows efforts to reduce military tensions with North Korea
 - 10/01 11:57 [financialjuice] Nine killed in two Pakistani airstrikes in Afghanistan: Afghan Taliban spokesperson
 - 10/01 11:57 [financialjuice] India trade minister: discussed with USTR Greer on early wrap-up of interim deal under India-US trade agreement
@@ -806,3 +800,9 @@
 - 10/02 11:30 [FirstSquawk] Seoul Stocks Open Lower Despite Gains on Wall Street
 - 10/02 11:33 [financialjuice] Japan economy minister Kiuchi: Japan is no longer in deflation, no need for overly loose monetary policy favoring higher inflation
 - 10/02 11:33 [FirstSquawk] Japan Economy Minister Kiuchi: Japan No Longer in Deflation, Excessively Loose Policy No Longer Needed
+- 10/02 11:34 [financialjuice] Japan economy minister Kiuchi: Takaichi administration’s approach differs from reflation policy aimed at ending Japan’s deflation
+- 10/02 11:35 [FirstSquawk] Kiuchi: Takaichi Administration Policy Differs From Policy Aimed at Ending Deflation
+- 10/02 11:35 [financialjuice] Japan economy minister Kiuchi: Takaichi administration's strategy differs from Abenomics by targeting both robust economy and fiscal discipline, emphasizing supply capacity enhancement
+- 10/02 11:36 [FirstSquawk] Japan Economy Minister Kiuchi: Takaichi Administration Balances Economic Growth With Fiscal Discipline
+- 10/02 11:46 [FirstSquawk] Euro weakens below 1.1250 amid fiscal concerns, US NFP data in focus - FX
+- 10/02 11:53 [FirstSquawk] Piper Sandler Lowers Nike Price Target to $28 From $38
