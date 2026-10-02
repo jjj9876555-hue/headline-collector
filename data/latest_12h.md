@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-03 05:35 JST／対象: 10/02 17:35 〜 10/03 05:35 JST（時刻はすべて日本時間）
+生成: 2026-10-03 05:54 JST／対象: 10/02 17:54 〜 10/03 05:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 63 | 10/02 17:55 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
-| FirstSquawk | 119 | 10/02 17:53 | 10/03 05:02 | 44分（20:46→21:31） |
+| FirstSquawk | 117 | 10/02 18:04 | 10/03 05:02 | 44分（20:46→21:31） |
 | financialjuice | 161 | 10/02 18:00 | 10/03 05:20 | ⚠ 49分（18:00→18:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 329 行（統合前 345 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 327 行（統合前 343 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 17:53 [FirstSquawk] FRANCE SUGGESTS RELEASING 50 MILLION BARRELS OF DIESEL AND 50 MILLION BARRELS OF OIL FROM IEA MEMBERS.
-- 10/02 17:53 [FirstSquawk] UKRAINE PRESIDENT ZELENSKIY HAS ANNOUNCED THAT UKRAINE ATTACKED RUSSIAN REFINERIES LAST NIGHT.
 - 10/02 17:55 [DeItaone] *FRANCE HAS PROPOSED NEW EUROPE, IEA RELEASE OF DIESEL AND CRUDE
 - 10/02 17:59 [DeItaone] BOFA’S HARTNETT SEES RISK-OFF MOOD PERSISTING BofA’s Michael Hartnett says investors are likely to avoid riskier trades until the dollar peaks and bond yields retreat from multidecade highs. The Bloomberg dollar index has risen 3% from its …
 - 10/02 18:00 [financialjuice] ❗ EUROZONE CPI YOY FLASH ACTUAL 3.8% (FORECAST 3.7%, PREVIOUS 3.2%) $MACRO
