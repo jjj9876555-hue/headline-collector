@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-03 06:17 JST／対象: 10/03 00:17 〜 10/03 06:17 JST（時刻はすべて日本時間）
+生成: 2026-10-03 06:35 JST／対象: 10/03 00:35 〜 10/03 06:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 5 | 10/03 00:28 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
-| FirstSquawk | 42 | 10/03 00:22 | 10/03 05:02 | 34分（02:50→03:25） |
-| financialjuice | 63 | 10/03 00:20 | 10/03 05:20 | 34分（01:07→01:42） |
+| DeItaone | 4 | 10/03 02:33 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
+| FirstSquawk | 39 | 10/03 00:44 | 10/03 05:02 | 34分（02:50→03:25） |
+| financialjuice | 63 | 10/03 00:37 | 10/03 06:32 | ⚠ 71分（05:20→06:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 103 行（統合前 111 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 100 行（統合前 107 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/03 00:20 [financialjuice] News sources reported that several powerful explosions were heard in Riyadh, the capital of Saudi Arabia - Tasnim News
-- 10/03 00:22 [FirstSquawk] SEVERAL LOUD EXPLOSIONS IN RIYADH, THE CAPITAL OF SAUDI ARABIA - TASNIM
-- 10/03 00:26 [FirstSquawk/DeItaone] SPOT GOLD FALLS NEARLY 1% TO $4,137.85/OZ
-- 10/03 00:31 [FirstSquawk] IRAQ SAYS IRANIAN AIRLINES ALLOWED 40 DAILY FLIGHTS TO NAJAF, EXCEPT MAHAN AIR
 - 10/03 00:37 [financialjuice] China trade envoy tells G20 willing to talk on industry policy.
 - 10/03 00:44 [FirstSquawk] CHINA CHIEF TRADE NEGOTIATOR LI CHENGGANG: TELLS G20 CHINA ARE WILLING TO TALK ON INDUSTRY POLICY
 - 10/03 00:44 [financialjuice/FirstSquawk] UKMTO: Tanker has reported being struck by an unknown projectile, whilst conducting an outbound transit within Strait of Hormuz
@@ -127,3 +123,4 @@
 - 10/03 05:03 [financialjuice] Trump ends comments at the White House
 - 10/03 05:07 [financialjuice] Stocks Rise as Weak Jobs Report Eases Fed Rate-Hike Fears – US Market Wrap
 - 10/03 05:20 [financialjuice] scope affirms US long-term ratings at aa- with stable outlook
+- 10/03 06:32 [financialjuice] Columbia University journalism program pauses admissions after applications fall over US visa rules: sources
