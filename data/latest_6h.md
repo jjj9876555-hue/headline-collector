@@ -7,43 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-03 03:09 JST／対象: 10/02 21:09 〜 10/03 03:09 JST（時刻はすべて日本時間）
+生成: 2026-10-03 03:32 JST／対象: 10/02 21:32 〜 10/03 03:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 27 | 10/02 21:12 | 10/03 02:33 | ⚠ 124分（00:28→02:33） |
-| FirstSquawk | 70 | 10/02 21:31 | 10/03 02:50 | 23分（23:02→23:26） |
-| financialjuice | 82 | 10/02 21:19 | 10/03 03:00 | 34分（01:07→01:42） |
+| DeItaone | 22 | 10/02 21:33 | 10/03 02:33 | ⚠ 124分（00:28→02:33） |
+| FirstSquawk | 69 | 10/02 21:40 | 10/03 03:31 | 34分（02:50→03:25） |
+| financialjuice | 74 | 10/02 21:32 | 10/03 03:32 | 34分（01:07→01:42） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 172 行（統合前 180 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 157 行（統合前 166 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 21:12 [DeItaone] PAKISTAN FOREIGN MINISTER: THERE SHOULDN’T BE ANY FEE OR CHARGES TO CROSS HORMUZ
-- 10/02 21:19 [financialjuice] Pakistan Foreign Minister: We will discuss political engagement with Houthis instead of kinetic action in the meeting next week
-- 10/02 21:22 [DeItaone] FRENCH 2-YEAR GOVERNMENT BOND YIELD EXTENDS RISE, LAST UP 13.8 BPS AT 3.8337%
-- 10/02 21:25 [financialjuice] Pakistan's foreign minister: More than six countries are keen to join the Makkah defence pact
-- 10/02 21:30 [DeItaone] US LABOR SEP NONFARM PAYROLLS +29K; CONSENSUS +84K
-- 10/02 21:30 [financialjuice] US AVERAGE WORKWEEK HRS ACTUAL 34.4 (FORECAST 34.3, PREVIOUS 34.4) $MACRO
-- 10/02 21:30 [financialjuice] ❗ US AVERAGE EARNINGS YOY ACTUAL 3% (FORECAST 3.1%, PREVIOUS 3.1%) $MACRO
-- 10/02 21:30 [financialjuice] US PRIVATE PAYROLLS ACTUAL 46K (FORECAST 81K, PREVIOUS 127K) $MACRO
-- 10/02 21:30 [financialjuice] ‼ BREAKING: US NONFARM PAYROLLS ACTUAL 29K (FORECAST 90K, PREVIOUS 162K) $MACRO
-- 10/02 21:30 [financialjuice] US LABOR FORCE PARTICIPATION ACTUAL 61.8% (FORECAST 61.6%, PREVIOUS 61.6%) $MACRO
-- 10/02 21:30 [financialjuice] US MANUFACTURING PAYROLLS ACTUAL 9K (FORECAST 10K, PREVIOUS 16K ,REVISION 15K) $MACRO
-- 10/02 21:30 [financialjuice] ❗ US UNEMPLOYMENT RATE ACTUAL 4.2% (FORECAST 4.1%, PREVIOUS 4.1%) $MACRO
-- 10/02 21:30 [financialjuice] US GOVERNMENT PAYROLLS ACTUAL -17K (FORECAST -, PREVIOUS 35K ,REVISION 44K) $MACRO
-- 10/02 21:31 [DeItaone] U.S. PAYROLLS BADLY MISS EXPECTATIONS U.S. nonfarm payrolls rose just 29,000 in September vs. 84,000 expected, while the unemployment rate increased to 4.2% vs. 4.1% forecast. Private payrolls gained only 46,000, while government employment…
-- 10/02 21:31 [FirstSquawk] US NONFARM PAYROLLS (SEP) ACTUAL: 29K VS 162K PREVIOUS; EST 90K
-- 10/02 21:31 [FirstSquawk] US UNEMPLOYMENT RATE (SEP) ACTUAL: 4.2% VS 4.1% PREVIOUS; EST 4.1%
-- 10/02 21:31 [FirstSquawk] U.S AVERAGE HOURLY EARNINGS (MOM) (SEP) ACTUAL: 0.1% VS 0.3% PREVIOUS; EST 0.3%
-- 10/02 21:31 [financialjuice] US Employment Situation September 2026 Report
-- 10/02 21:31 [DeItaone] US SEPT. TWO-MONTH PAYROLL NET REVISION SUBTRACTS 60,000
-- 10/02 21:32 [financialjuice] US short-term interest-rate futures jump after weaker-than-expected jobs data, traders trim Fed rate hike bets.
 - 10/02 21:32 [financialjuice] Traders pare bets on October Fed rate hike
 - 10/02 21:33 [DeItaone] FED PAUSE ODDS SURGE TO 85% AFTER WEAK JOBS REPORT Kalshi now prices an 85% chance the Fed holds rates in October after payrolls rose just 29,000 vs. 84,000 expected. Unemployment climbed to 4.2%, triggering a sharp dovish repricing of the …
 - 10/02 21:35 [financialjuice] Russia's oil refining volumes down 14% year on year in January-September - Two industry sources
@@ -195,4 +175,9 @@
 - 10/03 02:33 [DeItaone] META PARTS WAYS WITH VIRTUE AI - SEMAFOR
 - 10/03 02:35 [FirstSquawk] META PARTS WAYS WITH AI SAFETY STARTUP VIRTUE AI HIRES - SEMAFOR
 - 10/03 02:50 [FirstSquawk] SAUDI-LED COALITION SAYS IT INTERCEPTED AND DESTROYED THREE BALLISTIC MISSILES LAUNCHED BY HOUTHIS TOWARD KHAMIS MUSHAIT
-- 10/03 03:00 [financialjuice] Joint US-Ukraine investment fund seals first critical minerals deal - US official
+- 10/03 03:00 [financialjuice/FirstSquawk] Joint US-Ukraine investment fund seals first critical minerals deal - US official
+- 10/03 03:31 [financialjuice] NYMEX WTI Crude November futures settle at $91.11 a barrel, down $1.76, 1.9%.
+- 10/03 03:31 [FirstSquawk] U.S. CRUDE OIL FUTURES SETTLE AT $91.11/BBL, DOWN $1.76, 1.90 PCT
+- 10/03 03:31 [financialjuice] NYMEX Gasoline November futures settle at $3.3124 a gallon.
+- 10/03 03:31 [financialjuice] NYMEX Diesel November futures settle at $4.5011 a gallon.
+- 10/03 03:32 [financialjuice] NYMEX Natural Gas November futures settle at $3.0350/MMBtu.

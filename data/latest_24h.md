@@ -7,45 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-03 03:09 JST／対象: 10/02 03:09 〜 10/03 03:09 JST（時刻はすべて日本時間）
+生成: 2026-10-03 03:32 JST／対象: 10/02 03:32 〜 10/03 03:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 68 | 10/02 03:11 | 10/03 02:33 | ⚠ 755分（05:19→17:55） |
-| FirstSquawk | 272 | 10/02 03:13 | 10/03 02:50 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 279 | 10/02 03:14 | 10/03 03:00 | ⚠ 79分（06:41→08:00） |
+| DeItaone | 65 | 10/02 03:34 | 10/03 02:33 | ⚠ 755分（05:19→17:55） |
+| FirstSquawk | 264 | 10/02 03:44 | 10/03 03:31 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 274 | 10/02 03:32 | 10/03 03:32 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 592 行（統合前 620 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 575 行（統合前 604 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 03:11 [DeItaone] GOP WEIGHS DEBT-LIMIT HIKE BEFORE NEW CONGRESS Republican lawmakers are considering raising the U.S. debt ceiling during the post-election lame-duck session, potentially using budget reconciliation to avoid needing Democratic votes. House B…
-- 10/02 03:13 [FirstSquawk] RUSSIA'S PUTIN SAYS UKRAINE'S NEUTRALITY IS ONE OF RUSSIA'S GOALS, ADDING THAT RUSSIA HAS GAINED CONTROL OVER 1,301 SQUARE KILOMETRES IN UKRAINE
-- 10/02 03:14 [financialjuice] Fed's Jefferson: It is hard to say what AI has done to natural rate estimates so far.
-- 10/02 03:14 [FirstSquawk] RUSSIA'S PUTIN SAYS RUSSIA WANTS TO STOP IT ALL VIA PEACE TALKS AS SOON AS POSSIBLE
-- 10/02 03:14 [FirstSquawk] FED'S JEFFERSON SAYS THERE IS 'GREAT WISDOM IN THE FED'S DUAL MANDATE' AND THAT THE FED IS FIRMLY COMMITTED TO RETURNING INFLATION TO 2% IN A TIMELY MANNER, HAVING TO BE PREPARED TO DO THE NEEDED WORK TO VALIDATE INFLATION EXPECTATIONS, WHI…
-- 10/02 03:14 [FirstSquawk] FED'S JEFFERSON SAYS HE ENCOURAGES THE RESPONSIBLE DEVELOPMENT OF AI, ADDING THAT 'IT IS HARD TO SAY WHAT AI HAS DONE TO NATURAL RATE ESTIMATES SO FAR'.
-- 10/02 03:16 [FirstSquawk] BARBIE-MAKER MATTEL HAS DRAWN TAKEOVER INTEREST FROM AUTHENTIC BRANDS GROUP, WHICH HAS BEEN PRIVATELY DISCUSSING AN OFFER THAT COULD VALUE MATTEL AT MORE THAN $20 A SHARE, OR AROUND $6 BLN - WSJ
-- 10/02 03:16 [financialjuice] Fed's Jefferson: The Fed does not have great insight into private credit developments.
-- 10/02 03:18 [financialjuice] NVIDIA and Softbank make a final $20 billion investment in OpenAI’s last round - The Information. $NVDA
-- 10/02 03:21 [FirstSquawk] NVIDIA AND SOFTBANK HAVE MADE A FINAL COMBINED $20 BLN INVESTMENT IN OPENAI'S LAST FUNDING ROUND, EACH PUTTING IN A FINAL $10 BLN TOWARD THEIR RESPECTIVE $30 BLN PLEDGES - THE INFORMATION
-- 10/02 03:22 [FirstSquawk] RUSSIA'S PUTIN SAYS RUSSIA NEEDS SECURITY GUARANTEES OVER UKRAINE, SPEAKING ABOUT TERRITORIAL GAINS IN SEPTEMBER
-- 10/02 03:23 [FirstSquawk] SOFTBANK GROUP SAYS IT HAS EXECUTED THE THIRD AND FINAL TRANCHE OF ITS FOLLOW-ON INVESTMENT IN OPENAI GROUP PBC, IN THE AMOUNT OF $10.0 BLN, TAKING ITS CUMULATIVE OPENAI INVESTMENT TO $64.60 BLN WITH ABOUT 13% OWNERSHIP.
-- 10/02 03:23 [FirstSquawk] SOFTBANK GROUP SAYS THAT EFFECTIVE SEP. 30 IT CANCELED THE REMAINING $10.0 BLN OF UNDRAWN CAPACITY UNDER THE BRIDGE FACILITY AGREEMENT ENTERED INTO ON MAR. 27 WITH OPENAI, WITH ALL BORROWINGS REPAID AND NO UNDRAWN COMMITMENTS REMAINING - WE…
-- 10/02 03:24 [FirstSquawk] RUSSIA'S PUTIN SAYS RUSSIA IS READY FOR TALKS AND TO WRAP THEM UP AS SOON AS POSSIBLE, BUT ON CONDITIONS ACCEPTABLE FOR THE RUSSIAN PEOPLE
-- 10/02 03:29 [DeItaone] US ENERGY SECRETARY CHRIS WRIGHT:ABSOLUTELY WE WILL ASK EUROPE TO RELEASE STRATEGIC DIESEL RESERVES - FOX NEWS
-- 10/02 03:29 [financialjuice] US Energy Secretary Wright: Absolutely we will ask Europe to release strategic diesel reserves - Fox News.
-- 10/02 03:30 [DeItaone] US ENERGY SECRETARY CHRIS WRIGHT:EUROPE CAN HELP THE SITUATION AND I'M HIGHLY CONFIDENT THEY WILL
-- 10/02 03:31 [financialjuice] US Energy Secretary Wright: Europe can help the situation and I’m highly confident they will.
-- 10/02 03:31 [financialjuice] NYMEX WTI Crude November futures settle at $92.87 a barrel, up $2.45, 2.71%.
-- 10/02 03:31 [financialjuice] NYMEX Gasoline November futures settle at $3.4026 a gallon.
-- 10/02 03:31 [financialjuice] NYMEX Diesel November futures settle at $4.6420 a gallon.
-- 10/02 03:32 [financialjuice] NYMEX Natural Gas November futures settle at $2.9670/MMBtu.
 - 10/02 03:32 [financialjuice] US Energy Secretary Wright: The US is confident that Europe will release diesel from stockpiles.
 - 10/02 03:34 [DeItaone/financialjuice/FirstSquawk] IRAN OFFERS TO ALLOW NUCLEAR INSPECTORS IF SANCTIONS ARE EASED
 - 10/02 03:36 [DeItaone] IRAN OFFERS NUCLEAR INSPECTOR ACCESS FOR SANCTIONS RELIEF Iran has privately signaled it could restore nuclear inspectors’ access to bombed facilities in exchange for sanctions relief, Bloomberg reports. Foreign Minister Abbas Araghchi rais…
@@ -615,4 +593,9 @@
 - 10/03 02:33 [DeItaone] META PARTS WAYS WITH VIRTUE AI - SEMAFOR
 - 10/03 02:35 [FirstSquawk] META PARTS WAYS WITH AI SAFETY STARTUP VIRTUE AI HIRES - SEMAFOR
 - 10/03 02:50 [FirstSquawk] SAUDI-LED COALITION SAYS IT INTERCEPTED AND DESTROYED THREE BALLISTIC MISSILES LAUNCHED BY HOUTHIS TOWARD KHAMIS MUSHAIT
-- 10/03 03:00 [financialjuice] Joint US-Ukraine investment fund seals first critical minerals deal - US official
+- 10/03 03:00 [financialjuice/FirstSquawk] Joint US-Ukraine investment fund seals first critical minerals deal - US official
+- 10/03 03:31 [financialjuice] NYMEX WTI Crude November futures settle at $91.11 a barrel, down $1.76, 1.9%.
+- 10/03 03:31 [FirstSquawk] U.S. CRUDE OIL FUTURES SETTLE AT $91.11/BBL, DOWN $1.76, 1.90 PCT
+- 10/03 03:31 [financialjuice] NYMEX Gasoline November futures settle at $3.3124 a gallon.
+- 10/03 03:31 [financialjuice] NYMEX Diesel November futures settle at $4.5011 a gallon.
+- 10/03 03:32 [financialjuice] NYMEX Natural Gas November futures settle at $3.0350/MMBtu.

@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-03 03:09 JST／対象: 10/02 15:09 〜 10/03 03:09 JST（時刻はすべて日本時間）
+生成: 2026-10-03 03:32 JST／対象: 10/02 15:32 〜 10/03 03:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 60 | 10/02 17:55 | 10/03 02:33 | ⚠ 124分（00:28→02:33） |
-| FirstSquawk | 127 | 10/02 15:21 | 10/03 02:50 | 44分（20:46→21:31） |
-| financialjuice | 155 | 10/02 15:27 | 10/03 03:00 | ⚠ 49分（18:00→18:49） |
+| FirstSquawk | 126 | 10/02 15:40 | 10/03 03:31 | 44分（20:46→21:31） |
+| financialjuice | 157 | 10/02 16:01 | 10/03 03:32 | ⚠ 49分（18:00→18:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 330 行（統合前 343 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 330 行（統合前 344 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 15:21 [FirstSquawk] JP MORGAN CUTS BANK OF AMERICA TARGET PRICE TO $62 FROM $68
-- 10/02 15:27 [financialjuice] NORWEGIAN UNEMPLOYMENT RATE NSA ACTUAL 2.0% (FORECAST -, PREVIOUS 2.1%) $MACRO
-- 10/02 15:31 [FirstSquawk] NORWAY UNEMPLOYMENT RATE NSA SEP: 2.0% (PREV 2.1%)
-- 10/02 15:31 [FirstSquawk] NORWAY UNEMPLOYMENT RATE: 2.0% (PREV 2.1%; PREV R 2.0%)
-- 10/02 15:31 [financialjuice] UK Debt Office: Will hold AD HOC gilt tender for up to 1.5 billion of 2028 gilt on October 7th
 - 10/02 15:40 [FirstSquawk] VOLVO CAR Q3 GLOBAL SALES FALL 10.7% Y/Y TO 141,609 VEHICLES
 - 10/02 15:40 [FirstSquawk] VOLVO CAR SAYS EUROPEAN PERFORMANCE REMAINED RESILIENT
 - 10/02 15:57 [FirstSquawk] GOLD HOLDS BELOW $4,200 AS TRADERS AWAIT U.S. JOBS DATA FOR FED RATE-CUT CLUES - FX
@@ -353,4 +348,9 @@
 - 10/03 02:33 [DeItaone] META PARTS WAYS WITH VIRTUE AI - SEMAFOR
 - 10/03 02:35 [FirstSquawk] META PARTS WAYS WITH AI SAFETY STARTUP VIRTUE AI HIRES - SEMAFOR
 - 10/03 02:50 [FirstSquawk] SAUDI-LED COALITION SAYS IT INTERCEPTED AND DESTROYED THREE BALLISTIC MISSILES LAUNCHED BY HOUTHIS TOWARD KHAMIS MUSHAIT
-- 10/03 03:00 [financialjuice] Joint US-Ukraine investment fund seals first critical minerals deal - US official
+- 10/03 03:00 [financialjuice/FirstSquawk] Joint US-Ukraine investment fund seals first critical minerals deal - US official
+- 10/03 03:31 [financialjuice] NYMEX WTI Crude November futures settle at $91.11 a barrel, down $1.76, 1.9%.
+- 10/03 03:31 [FirstSquawk] U.S. CRUDE OIL FUTURES SETTLE AT $91.11/BBL, DOWN $1.76, 1.90 PCT
+- 10/03 03:31 [financialjuice] NYMEX Gasoline November futures settle at $3.3124 a gallon.
+- 10/03 03:31 [financialjuice] NYMEX Diesel November futures settle at $4.5011 a gallon.
+- 10/03 03:32 [financialjuice] NYMEX Natural Gas November futures settle at $3.0350/MMBtu.
