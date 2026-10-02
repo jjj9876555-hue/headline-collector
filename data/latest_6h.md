@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-03 03:32 JST／対象: 10/02 21:32 〜 10/03 03:32 JST（時刻はすべて日本時間）
+生成: 2026-10-03 03:52 JST／対象: 10/02 21:52 〜 10/03 03:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 22 | 10/02 21:33 | 10/03 02:33 | ⚠ 124分（00:28→02:33） |
-| FirstSquawk | 69 | 10/02 21:40 | 10/03 03:31 | 34分（02:50→03:25） |
-| financialjuice | 74 | 10/02 21:32 | 10/03 03:32 | 34分（01:07→01:42） |
+| DeItaone | 17 | 10/02 21:54 | 10/03 02:33 | ⚠ 124分（00:28→02:33） |
+| FirstSquawk | 68 | 10/02 22:00 | 10/03 03:38 | 34分（02:50→03:25） |
+| financialjuice | 69 | 10/02 21:56 | 10/03 03:32 | 34分（01:07→01:42） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 157 行（統合前 166 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 147 行（統合前 155 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 21:32 [financialjuice] Traders pare bets on October Fed rate hike
-- 10/02 21:33 [DeItaone] FED PAUSE ODDS SURGE TO 85% AFTER WEAK JOBS REPORT Kalshi now prices an 85% chance the Fed holds rates in October after payrolls rose just 29,000 vs. 84,000 expected. Unemployment climbed to 4.2%, triggering a sharp dovish repricing of the …
-- 10/02 21:35 [financialjuice] Russia's oil refining volumes down 14% year on year in January-September - Two industry sources
-- 10/02 21:36 [DeItaone] U.S. S&P 500 E-MINI FUTURES UP 0.9%, NASDAQ 100 FUTURES UP 1.2%, DOW FUTURES UP 0.9%
-- 10/02 21:37 [financialjuice/DeItaone] ❗ Fed-dated swaps no longer price one full rate hike this year.
-- 10/02 21:37 [DeItaone] CBOE VOLATILITY INDEX HITS ONE-WEEK LOW, LAST DOWN 0.79 POINTS AT 15.60
-- 10/02 21:39 [financialjuice] Trump: Republic of Korea deal keeps getting better.
-- 10/02 21:39 [financialjuice] trump: 8.4b dollars for enhanced oil recovery project.
-- 10/02 21:39 [DeItaone] TRUMP: SOUTH KOREA DEAL EXPANDS WITH $8.4 BILLION ENERGY PROJECT President Trump says the South Korea agreement now includes $8.4 billion for an enhanced oil recovery project. Trump says the investment will increase U.S. oil and gas product…
-- 10/02 21:40 [FirstSquawk] TRUMP ON TRUTH SOCIAL: I AM THRILLED TO ANNOUNCE THE REPUBLIC OF KOREA DEAL KEEPS GETTING BETTER! 8.4 BILLION DOLLARS FOR AN ENHANCED OIL RECOVERY PROJECT. PRODUCING MORE OIL AND GAS MEANS AMERICAN ENERGY DOMINANCE AND ENERGY SECURITY IN TH…
-- 10/02 21:45 [FirstSquawk] G7 WILL HAVE URGENT MEETINGS ON FRIDAY TO DISCUSS POSSIBLE RELEASE OF DIESEL RESERVES.
-- 10/02 21:45 [FirstSquawk] TRUMP ANNOUNCED AN IMPROVED DEAL WITH SOUTH KOREA WORTH $8.4 BILLION FOR AN OIL RECOVERY PROJECT, PROMISING INCREASED OIL AND GAS PRODUCTION, WHICH WILL STRENGTHEN AMERICAN ENERGY DOMINANCE AND SECURITY FOR THE FUTURE! - PRESIDENT DONALD J.…
 - 10/02 21:54 [DeItaone] *TRUMP, MACRON SPOKE LAST NIGHT TO DISCUSS ENERGY SITUATION: NBC
 - 10/02 21:56 [financialjuice] Israel's Prime Minister Netanyahu: We are investigating whether the pilot was sent, and whoever sent him will pay a very heavy price - i24 News Reporter.
 - 10/02 22:00 [FirstSquawk] EU AMBASSADORS WILL GATHER TODAY TO TALK ABOUT THE DIESEL MARKET.
@@ -181,3 +169,5 @@
 - 10/03 03:31 [financialjuice] NYMEX Gasoline November futures settle at $3.3124 a gallon.
 - 10/03 03:31 [financialjuice] NYMEX Diesel November futures settle at $4.5011 a gallon.
 - 10/03 03:32 [financialjuice] NYMEX Natural Gas November futures settle at $3.0350/MMBtu.
+- 10/03 03:36 [FirstSquawk] RODRIGUEZ:VENEZUELA MAKES PROGRESS ON PUBLIC, PRIVATE FINANCING
+- 10/03 03:38 [FirstSquawk] FAA DETERMINES 737 MAX SOFTWARE GLITCH DOESN’T POSE SAFETY ISSUE - WSJ

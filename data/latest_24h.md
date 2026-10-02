@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-03 03:32 JST／対象: 10/02 03:32 〜 10/03 03:32 JST（時刻はすべて日本時間）
+生成: 2026-10-03 03:52 JST／対象: 10/02 03:52 〜 10/03 03:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 65 | 10/02 03:34 | 10/03 02:33 | ⚠ 755分（05:19→17:55） |
-| FirstSquawk | 264 | 10/02 03:44 | 10/03 03:31 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 274 | 10/02 03:32 | 10/03 03:32 | ⚠ 79分（06:41→08:00） |
+| DeItaone | 61 | 10/02 05:19 | 10/03 02:33 | ⚠ 755分（05:19→17:55） |
+| FirstSquawk | 263 | 10/02 03:54 | 10/03 03:38 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 270 | 10/02 03:56 | 10/03 03:32 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 575 行（統合前 604 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 568 行（統合前 595 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 03:32 [financialjuice] US Energy Secretary Wright: The US is confident that Europe will release diesel from stockpiles.
-- 10/02 03:34 [DeItaone/financialjuice/FirstSquawk] IRAN OFFERS TO ALLOW NUCLEAR INSPECTORS IF SANCTIONS ARE EASED
-- 10/02 03:36 [DeItaone] IRAN OFFERS NUCLEAR INSPECTOR ACCESS FOR SANCTIONS RELIEF Iran has privately signaled it could restore nuclear inspectors’ access to bombed facilities in exchange for sanctions relief, Bloomberg reports. Foreign Minister Abbas Araghchi rais…
-- 10/02 03:38 [financialjuice] US Energy Secretary Wright: We'll see lower gasolinea nd diesel prices come the election.
-- 10/02 03:38 [financialjuice] US Energy Secretary Wright ends remarks on Fox News.
-- 10/02 03:41 [DeItaone] *WRIGHT: WE'LL SEE LOWER GASOLINE, DIESEL PRICES COME ELECTION
-- 10/02 03:42 [DeItaone] TRUMP: PRICES ARE “COMING DOWN RAPIDLY” President Trump says prices are “way down” from levels under the Biden administration and claims they are continuing to fall rapidly. Trump blamed Democrats for elevated prices and said Republicans ar…
-- 10/02 03:44 [FirstSquawk] US ENERGY SECRETARY WRIGHT: EXPECT LOWER GASOLINE & DIESEL PRICES BY ELECTION; CONFIDENT EUROPE WILL RELEASE DIESEL FROM STOCKPILES
-- 10/02 03:45 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 2.71% HIGHER AT $92.87/BBL, UP $2.45
 - 10/02 03:54 [FirstSquawk] CHEMUNG CANAL TRUST COMPANY HAS ANNOUNCED A PLAN TO UNIFY UNDER A NEW NAME, PLANNING TO BRING CHEMUNG CANAL AND ITS DIVISIONS CAPITAL BANK AND CANAL BANK UNDER A SINGLE NAME — CANAL BANK & TRUST, N.A. — WITH THE NAME AND LOGO TO BE IMPLEMEN…
 - 10/02 03:54 [FirstSquawk] CHEMUNG FINANCIAL CORP SAYS THE BRAND UNIFICATION WILL NOT AFFECT ITS MISSION, LEADERSHIP OR OWNERSHIP.
 - 10/02 03:55 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 4.37% HIGHER AT $102.31/BBL, UP $4.28
@@ -599,3 +590,5 @@
 - 10/03 03:31 [financialjuice] NYMEX Gasoline November futures settle at $3.3124 a gallon.
 - 10/03 03:31 [financialjuice] NYMEX Diesel November futures settle at $4.5011 a gallon.
 - 10/03 03:32 [financialjuice] NYMEX Natural Gas November futures settle at $3.0350/MMBtu.
+- 10/03 03:36 [FirstSquawk] RODRIGUEZ:VENEZUELA MAKES PROGRESS ON PUBLIC, PRIVATE FINANCING
+- 10/03 03:38 [FirstSquawk] FAA DETERMINES 737 MAX SOFTWARE GLITCH DOESN’T POSE SAFETY ISSUE - WSJ
