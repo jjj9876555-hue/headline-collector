@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-02 11:17 JST／対象: 10/02 05:17 〜 10/02 11:17 JST（時刻はすべて日本時間）
+生成: 2026-10-02 11:34 JST／対象: 10/02 05:34 〜 10/02 11:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 1 | 10/02 05:19 | 10/02 05:19 | - |
-| FirstSquawk | 60 | 10/02 05:43 | 10/02 11:17 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 46 | 10/02 05:17 | 10/02 11:17 | ⚠ 79分（06:41→08:00） |
+| DeItaone | 0 | - | - | - |
+| FirstSquawk | 65 | 10/02 05:43 | 10/02 11:33 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 46 | 10/02 06:01 | 10/02 11:33 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 105 行（統合前 107 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 109 行（統合前 111 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 05:17 [financialjuice] Trump: I may ask Europe to release diesel supplies.
-- 10/02 05:18 [financialjuice] Trump: Iran will be ending soon, one way or the other.
-- 10/02 05:19 [financialjuice] Trump, asked about Iran's involvement in the UK base: Looks like it.
-- 10/02 05:19 [DeItaone] TRUMP: MAY ASK EUROPEAN COUNTRIES TO RELEASE DIESEL STOCKS
-- 10/02 05:24 [financialjuice] Trump ends remarks to reporters.
 - 10/02 05:43 [FirstSquawk] ONSEMI IS TO BUY SYNAPTICS FOR $123 PER SHARE IN CASH UNDER A REVISED MERGER AGREEMENT, VALUING THE DEAL AT $5.70 BLN, SOURCES SAY, WITH THE TRANSACTION EXPECTED TO BE IMMEDIATELY ACCRETIVE TO ONSEMI'S NON-GAAP EPS AND FINANCED WITH CASH AN…
 - 10/02 05:43 [FirstSquawk] ONSEMI SAYS THE COMPANIES HAVE IDENTIFIED FURTHER OPPORTUNITIES BEYOND $200 MLN IN ANNUAL RUN-RATE SYNERGIES.
 - 10/02 06:01 [financialjuice/FirstSquawk] Egypt declares Ethiopian embassy counsellor persona non grata, orders departure within 48 hours: official, al Qahera news
@@ -129,3 +124,12 @@
 - 10/02 11:16 [FirstSquawk] Japan FinMin Katayama: Government to Sharply Streamline Unused Funds in Budget Process
 - 10/02 11:17 [financialjuice] Japan finmin Katayama: there are about 200 current funds, valued at about 7 trillion yen
 - 10/02 11:17 [FirstSquawk] Japan FinMin Katayama Says Existing Funds Number About 200, Total ¥7 Trillion
+- 10/02 11:20 [financialjuice] Japan economy minister Kiuchi: won’t discuss monetary policy under BoJ jurisdiction
+- 10/02 11:21 [FirstSquawk] Kiuchi Says He Won’t Comment on Monetary Policy, Which Falls Under BOJ’s Mandate
+- 10/02 11:21 [financialjuice] Japan economy minister Kiuchi: hopes BoJ maintains close communication with government in steering policy
+- 10/02 11:22 [FirstSquawk] Japan’s Kiuchi: Hopes BOJ Maintains Close Communication With Government on Policy Decisions
+- 10/02 11:24 [financialjuice] Japan economy minister Kiuchi: Japan no longer requires exceptional monetary stimulus following BoJ's move to end yield curve control
+- 10/02 11:24 [FirstSquawk] Japan Economy Minister Kiuchi: Extraordinary Monetary Stimulus Is No Longer Needed
+- 10/02 11:30 [FirstSquawk] Seoul Stocks Open Lower Despite Gains on Wall Street
+- 10/02 11:33 [financialjuice] Japan economy minister Kiuchi: Japan is no longer in deflation, no need for overly loose monetary policy favoring higher inflation
+- 10/02 11:33 [FirstSquawk] Japan Economy Minister Kiuchi: Japan No Longer in Deflation, Excessively Loose Policy No Longer Needed

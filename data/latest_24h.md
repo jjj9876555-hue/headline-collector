@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-02 11:17 JST／対象: 10/01 11:17 〜 10/02 11:17 JST（時刻はすべて日本時間）
+生成: 2026-10-02 11:34 JST／対象: 10/01 11:34 〜 10/02 11:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 93 | 10/01 16:25 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 325 | 10/01 11:22 | 10/02 11:17 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 396 | 10/01 11:22 | 10/02 11:17 | ⚠ 79分（06:41→08:00） |
+| FirstSquawk | 328 | 10/01 11:39 | 10/02 11:33 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 399 | 10/01 11:37 | 10/02 11:33 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 776 行（統合前 820 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 782 行（統合前 826 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 11:22 [FirstSquawk] Afghan official: Four killed, six injured in Pakistani air strike on Afghanistan
-- 10/01 11:22 [financialjuice] Four killed, six wounded in Pakistani air strike on Afghanistan: Afghan provincial official
-- 10/01 11:29 [FirstSquawk] Toyota Motor to invest roughly $1.34bn in Argentina’s electric vehicle production, minister says
 - 10/01 11:37 [financialjuice] South Korea President Lee: Alaska LNG project to start only if commercially viable and compliant with South Korean law
 - 10/01 11:37 [financialjuice] South Korea President Lee: Investment project gains to be split 50-50 until principal and interest fully repaid
 - 10/01 11:39 [FirstSquawk] South Korea’s Lee: Alaska LNG project to start only once commercial viability and legal requirements are confirmed
@@ -800,3 +797,12 @@
 - 10/02 11:16 [FirstSquawk] Japan FinMin Katayama: Government to Sharply Streamline Unused Funds in Budget Process
 - 10/02 11:17 [financialjuice] Japan finmin Katayama: there are about 200 current funds, valued at about 7 trillion yen
 - 10/02 11:17 [FirstSquawk] Japan FinMin Katayama Says Existing Funds Number About 200, Total ¥7 Trillion
+- 10/02 11:20 [financialjuice] Japan economy minister Kiuchi: won’t discuss monetary policy under BoJ jurisdiction
+- 10/02 11:21 [FirstSquawk] Kiuchi Says He Won’t Comment on Monetary Policy, Which Falls Under BOJ’s Mandate
+- 10/02 11:21 [financialjuice] Japan economy minister Kiuchi: hopes BoJ maintains close communication with government in steering policy
+- 10/02 11:22 [FirstSquawk] Japan’s Kiuchi: Hopes BOJ Maintains Close Communication With Government on Policy Decisions
+- 10/02 11:24 [financialjuice] Japan economy minister Kiuchi: Japan no longer requires exceptional monetary stimulus following BoJ's move to end yield curve control
+- 10/02 11:24 [FirstSquawk] Japan Economy Minister Kiuchi: Extraordinary Monetary Stimulus Is No Longer Needed
+- 10/02 11:30 [FirstSquawk] Seoul Stocks Open Lower Despite Gains on Wall Street
+- 10/02 11:33 [financialjuice] Japan economy minister Kiuchi: Japan is no longer in deflation, no need for overly loose monetary policy favoring higher inflation
+- 10/02 11:33 [FirstSquawk] Japan Economy Minister Kiuchi: Japan No Longer in Deflation, Excessively Loose Policy No Longer Needed

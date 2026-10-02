@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-02 11:17 JST／対象: 10/01 23:17 〜 10/02 11:17 JST（時刻はすべて日本時間）
+生成: 2026-10-02 11:34 JST／対象: 10/01 23:34 〜 10/02 11:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 50 | 10/01 23:19 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 179 | 10/01 23:18 | 10/02 11:17 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 221 | 10/01 23:18 | 10/02 11:17 | ⚠ 79分（06:41→08:00） |
+| DeItaone | 49 | 10/02 01:02 | 10/02 05:19 | ⚠ 96分（03:42→05:19） |
+| FirstSquawk | 178 | 10/01 23:34 | 10/02 11:33 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 220 | 10/01 23:44 | 10/02 11:33 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 423 行（統合前 454 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 420 行（統合前 450 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 23:18 [financialjuice] Fear & Greed Index: 29/100 - Fear
-- 10/01 23:18 [FirstSquawk] PESKOV: THERE HAVE BEEN NO SIGNALS YET ABOUT A TRILATERAL RUSSIA-US-CHINA SUMMIT – IFX
-- 10/01 23:18 [FirstSquawk] PESKOV: A MEETING BETWEEN PUTIN AND TRUMP ON THE SIDELINES OF APEC WOULD BE ESSENTIAL FOR THE ENTIRE WORLD
-- 10/01 23:18 [FirstSquawk] PESKOV: PUTIN WOULD BE HAPPY TO MEET TRUMP
-- 10/01 23:19 [DeItaone] TRUMP: DISCUSSED RELEASE OF POLITICAL PRISONERS WITH CHINA'S XI
-- 10/01 23:19 [financialjuice] Crypto Fear & Greed Index: 74/100 - Greed
-- 10/01 23:23 [financialjuice] Meta: Introduces ray-ban meta audio and announces Muse AI agent for AI glasses. $META
-- 10/01 23:29 [FirstSquawk] SPOT PALLADIUM FALLS OVER 3% TO $1,161.93/OZ
-- 10/01 23:30 [FirstSquawk] US NATURAL GAS STORAGE ACTUAL: 64 VS 53 PREVIOUS; EST 63
-- 10/01 23:30 [financialjuice] EIA NATURAL GAS CHANGE BCF ACTUAL 64B (FORECAST 63B, PREVIOUS 53B) $MACRO
-- 10/01 23:31 [financialjuice] Weekly EIA Natural Gas Change Report
-- 10/01 23:33 [FirstSquawk] ACCENTURE SHARES SET FOR BIGGEST ONE-DAY PERCENTAGE GAIN ON RECORD, LAST UP 22.5%
 - 10/01 23:34 [FirstSquawk] DOLLAR TO YEN DROPS SIGNIFICANTLY; CURRENTLY AT 157.52; TRADING VOLUMES INCREASE ON EBS PLATFORM.
 - 10/01 23:35 [FirstSquawk] RUSSIAN https://t.co/qIH60LhYkD : SETS OFFICIAL ROUBLE RATE FOR OCTOBER 2 AT 83.2454 ROUBLES PER U.S. DOLLAR (PVS RATE - 83.5588)
 - 10/01 23:44 [financialjuice] Senior US Official to Channel 12: The US military is sending a third aircraft carrier and a second Marine unit to the Middle East
@@ -447,3 +435,12 @@
 - 10/02 11:16 [FirstSquawk] Japan FinMin Katayama: Government to Sharply Streamline Unused Funds in Budget Process
 - 10/02 11:17 [financialjuice] Japan finmin Katayama: there are about 200 current funds, valued at about 7 trillion yen
 - 10/02 11:17 [FirstSquawk] Japan FinMin Katayama Says Existing Funds Number About 200, Total ¥7 Trillion
+- 10/02 11:20 [financialjuice] Japan economy minister Kiuchi: won’t discuss monetary policy under BoJ jurisdiction
+- 10/02 11:21 [FirstSquawk] Kiuchi Says He Won’t Comment on Monetary Policy, Which Falls Under BOJ’s Mandate
+- 10/02 11:21 [financialjuice] Japan economy minister Kiuchi: hopes BoJ maintains close communication with government in steering policy
+- 10/02 11:22 [FirstSquawk] Japan’s Kiuchi: Hopes BOJ Maintains Close Communication With Government on Policy Decisions
+- 10/02 11:24 [financialjuice] Japan economy minister Kiuchi: Japan no longer requires exceptional monetary stimulus following BoJ's move to end yield curve control
+- 10/02 11:24 [FirstSquawk] Japan Economy Minister Kiuchi: Extraordinary Monetary Stimulus Is No Longer Needed
+- 10/02 11:30 [FirstSquawk] Seoul Stocks Open Lower Despite Gains on Wall Street
+- 10/02 11:33 [financialjuice] Japan economy minister Kiuchi: Japan is no longer in deflation, no need for overly loose monetary policy favoring higher inflation
+- 10/02 11:33 [FirstSquawk] Japan Economy Minister Kiuchi: Japan No Longer in Deflation, Excessively Loose Policy No Longer Needed
