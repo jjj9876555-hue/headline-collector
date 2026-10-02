@@ -7,38 +7,26 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-02 10:18 JST／対象: 10/01 22:18 〜 10/02 10:18 JST（時刻はすべて日本時間）
+生成: 2026-10-02 10:35 JST／対象: 10/01 22:35 〜 10/02 10:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 53 | 10/01 22:47 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 168 | 10/01 22:19 | 10/02 10:17 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 239 | 10/01 22:22 | 10/02 10:00 | ⚠ 79分（06:41→08:00） |
+| FirstSquawk | 172 | 10/01 22:35 | 10/02 10:34 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 232 | 10/01 22:35 | 10/02 10:00 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 430 行（統合前 466 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 429 行（統合前 462 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 22:19 [FirstSquawk] SAMSUNG RAISES PRICES OF MOST GALAXY S26 PHONES BY $100
-- 10/01 22:19 [FirstSquawk] AOMORI MICHINOKU BANK, BANK OF IWATE AND AKITA BANK HAVE COMBINED ASSETS OF AROUND 13 TRILLION YEN - NIKKEI
-- 10/01 22:22 [FirstSquawk] BRAZIL'S PETROBRAS INCREASES JET FUEL COSTS BY APPROXIMATELY 11.8% AT KEY REFINERIES EFFECTIVE OCTOBER 1.
-- 10/01 22:22 [financialjuice/FirstSquawk] EU countries in crisis talks over diesel stocks release - FT
-- 10/01 22:30 [financialjuice] CANADIAN MANUFACTURING PMI ACTUAL 51.5 (FORECAST -, PREVIOUS 53.0) $MACRO
-- 10/01 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -65.4 MLN NASDAQ 100: 81.7 MLN DOW 30: 38.9 MLN MAG 7: 65.2 MLN $MACRO
-- 10/01 22:31 [financialjuice] ECB's President Lagarde's Speech on AI
-- 10/01 22:31 [FirstSquawk] NASDAQ UP 133.81 POINTS, OR 0.50 PERCENT, AT 26,994.87 AFTER MARKET OPEN S&P 500 UP 21.32 POINTS, OR 0.28 PERCENT, AT 7,672.86 AFTER MARKET OPEN DOW JONES UP 109.78 POINTS, OR 0.22 %, AT 51,015.83 AFTER MARKET OPEN
-- 10/01 22:32 [financialjuice] ECB's President Lagarde: Widespread use of similar AI models could reinforce financial market price moves
-- 10/01 22:33 [financialjuice] ECB President Lagarde: Reliance on a small number of AI models could prove highly disruptive to financial stability if access is lost.
-- 10/01 22:34 [financialjuice/FirstSquawk] US asked Europe to release over 1/3 of diesel reserves - Politico
-- 10/01 22:34 [financialjuice] ECB President Lagarde: Europe needs to develop its own AI capabilities to avoid dependence on access controlled elsewhere
-- 10/01 22:34 [FirstSquawk] ACCENTURE SHARES JUMP 22% IN BIGGEST ONE-DAY GAIN ON RECORD
 - 10/01 22:35 [financialjuice] UK's Healey summons UK bank chiefs to pre-budget summit next week - Sky
 - 10/01 22:35 [financialjuice] The US proposal asks the EU to release diesel over 180 days - Politico
+- 10/01 22:35 [financialjuice] US asked Europe to release over 1/3 of diesel reserves - Politico
 - 10/01 22:35 [FirstSquawk] US PROPOSAL ASKS EU TO RELEASE DIESEL OVER 180 DAYS: POLITICO
 - 10/01 22:45 [FirstSquawk] US S&P GLOBAL MANUFACTURING PMI (SEP) ACTUAL: 55.9 VS 57.0 PREVIOUS; EST 57.0
 - 10/01 22:45 [financialjuice] ❗ US S&P MANUFACTURING PMI FINAL ACTUAL 55.9 (FORECAST 57, PREVIOUS 57.0) $MACRO
@@ -454,3 +442,14 @@
 - 10/02 10:00 [financialjuice] Taiwan overnight interbank rate starts at 0.805% (unchanged from previous session)
 - 10/02 10:16 [FirstSquawk] Gold Slips 1% to $4,138.04 per Ounce
 - 10/02 10:17 [FirstSquawk] Taiwan Overnight Interbank Rate Starts at 0.805%, Flat on Previous Open
+- 10/02 10:18 [FirstSquawk] Ukrainian Drones Target Industrial Facilities in Volgograd, Russian Governor Says
+- 10/02 10:19 [FirstSquawk] South Korea Finance Minister: Markets to Be Closely Monitored, Pre-Emptive Action if Needed
+- 10/02 10:19 [FirstSquawk] 5-Year JGB Yield Slides to 2.350%, Down 3 Bps
+- 10/02 10:20 [FirstSquawk] Saudi Coalition Intercepts and Destroys Houthi-Launched Ballistic Missile, Says Coalition
+- 10/02 10:20 [FirstSquawk] Japan Plans ¥3.5 Trillion Treasury Discount Bill Offering
+- 10/02 10:21 [FirstSquawk] Japan’s 20-Year JGB Yield Edges Up 0.5 Bps to 3.945%
+- 10/02 10:22 [FirstSquawk] 30-Year JGB Yield Advances to 4.185%, Up 1.5 Bps
+- 10/02 10:23 [FirstSquawk] Tencent Stock Set for 2.1% Lower Open
+- 10/02 10:26 [FirstSquawk] Trump Asked Grok About Venezuelan Reaction to Maduro Capture Before US Invasion, TechCrunch Reports
+- 10/02 10:34 [FirstSquawk] Xiaomi Stock Drops More Than 5%
+- 10/02 10:34 [FirstSquawk] Taiwan Banks Asked to Reduce Branches Amid Rising Office Rents

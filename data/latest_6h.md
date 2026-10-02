@@ -7,40 +7,30 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-02 10:18 JST／対象: 10/02 04:18 〜 10/02 10:18 JST（時刻はすべて日本時間）
+生成: 2026-10-02 10:35 JST／対象: 10/02 04:35 〜 10/02 10:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 10/02 05:19 | 10/02 05:19 | - |
-| FirstSquawk | 62 | 10/02 04:38 | 10/02 10:17 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 78 | 10/02 04:18 | 10/02 10:00 | ⚠ 79分（06:41→08:00） |
+| FirstSquawk | 73 | 10/02 04:38 | 10/02 10:34 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 65 | 10/02 04:36 | 10/02 10:00 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 130 行（統合前 141 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 131 行（統合前 139 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 04:18 [financialjuice] USTR Greer: The US is on track for record goods trade exports this year.
-- 10/02 04:18 [financialjuice] LIVE: Trade Representative Jamieson Greer holds a G20 press conference
-- 10/02 04:19 [financialjuice] USTR Greer: Trump's trade program is trending in the right direction.
-- 10/02 04:23 [financialjuice] Friday FX Options Expiries
-- 10/02 04:24 [financialjuice] USTR Greer: G20 trade ministers discussed 'weaponization' of agriculture and farm inputs.
-- 10/02 04:25 [financialjuice] USTR Greer: G20 talks covered forced labor and excess capacity concerns.
-- 10/02 04:26 [financialjuice] US Treasury Secretary Bessent: Europe should accelerate delivery on commitments.
-- 10/02 04:26 [financialjuice] US Treasury Secretary Bessent: Europe should make additional supplies available.
-- 10/02 04:27 [financialjuice/FirstSquawk] No talks about Iran's nuclear programme took place during recent meetings with mediators - Iran's Official News Agency citing a source with knowledge.
-- 10/02 04:28 [financialjuice] Gulf of Hormuz Waterway Security Authority: Three Emirati Tankers Hit Were on the PGSA Non-Compliance List - Iranian Media
-- 10/02 04:29 [financialjuice/FirstSquawk] Iran's PGSA: In recent days, several tankers have been struck in the Strait of Hormuz, and the last three of these were either owned or chartered by the United Arab Emirates.
-- 10/02 04:31 [financialjuice/FirstSquawk] ❗ Local sources: Supertanker with a capacity of 2.5 million barrels, illegally transiting the Strait of Hormuz, struck approximately 8 kilometers off the coast of Oman, currently on fire - Mehr News
-- 10/02 04:33 [financialjuice] USTR Greer: Engagement on excess capacity was quite constructive
 - 10/02 04:36 [financialjuice] Fed's Cook: Supply shocks have had surprisingly persistent effects, becoming more salient for policy
 - 10/02 04:37 [financialjuice] Fed's Cook: Possible that the optimal policy response to a supply shock could be sector-dependent
+- 10/02 04:38 [FirstSquawk] NO TALKS ABOUT IRAN'S NUCLEAR PROGRAMME TOOK PLACE DURING RECENT MEETINGS WITH MEDIATORS - IRAN'S OFFICIAL NEWS AGENCY CITING A SOURCE WITH KNOWLEDGE.
+- 10/02 04:38 [FirstSquawk] LOCAL SOURCES: SUPERTANKER WITH A CAPACITY OF 2.5 MILLION BARRELS, ILLEGALLY TRANSITING THE STRAIT OF HORMUZ, STRUCK APPROXIMATELY 8 KILOMETERS OFF THE COAST OF OMAN, CURRENTLY ON FIRE - MEHR NEWS
 - 10/02 04:39 [FirstSquawk] USTR GREER SAYS HE HAD A CONSTRUCTIVE CONVERSATION WITH INDIAN TRADE MINISTER GOYAL AS THEY TRY TO FINISH A TRADE DEAL, ADDING THAT AN INDIA-U.S. TRADE DEAL IS NOT IMMINENT AND THAT STICKING POINTS HAVE BEEN IDENTIFIED
 - 10/02 04:39 [financialjuice] Fed's cook: We have to be attentive to consumer confidence.
+- 10/02 04:39 [FirstSquawk] IRAN'S PGSA: IN RECENT DAYS, SEVERAL TANKERS HAVE BEEN STRUCK IN THE STRAIT OF HORMUZ, AND THE LAST THREE OF THESE WERE EITHER OWNED OR CHARTERED BY THE UNITED ARAB EMIRATES.
 - 10/02 04:39 [financialjuice] Fed's Cook: Need to make sure inflation expectations don't become unanchored.
 - 10/02 04:40 [FirstSquawk] US TREASURY SECRETARY BESSENT: EUROPE SHOULD MAKE ADDITIONAL SUPPLIES AVAILABLE & ACCELERATE DELIVERY ON EXISTING COMMITMENTS
 - 10/02 04:40 [FirstSquawk] USTR GREER SAYS TRUMP'S TRADE PROGRAM IS 'TRENDING IN THE RIGHT DIRECTION' AND THAT THE U.S. IS ON TRACK FOR RECORD GOODS TRADE EXPORTS THIS YEAR, CALLING THE ENGAGEMENT ON EXCESS CAPACITY 'QUITE CONSTRUCTIVE'.
@@ -154,3 +144,14 @@
 - 10/02 10:00 [financialjuice] Taiwan overnight interbank rate starts at 0.805% (unchanged from previous session)
 - 10/02 10:16 [FirstSquawk] Gold Slips 1% to $4,138.04 per Ounce
 - 10/02 10:17 [FirstSquawk] Taiwan Overnight Interbank Rate Starts at 0.805%, Flat on Previous Open
+- 10/02 10:18 [FirstSquawk] Ukrainian Drones Target Industrial Facilities in Volgograd, Russian Governor Says
+- 10/02 10:19 [FirstSquawk] South Korea Finance Minister: Markets to Be Closely Monitored, Pre-Emptive Action if Needed
+- 10/02 10:19 [FirstSquawk] 5-Year JGB Yield Slides to 2.350%, Down 3 Bps
+- 10/02 10:20 [FirstSquawk] Saudi Coalition Intercepts and Destroys Houthi-Launched Ballistic Missile, Says Coalition
+- 10/02 10:20 [FirstSquawk] Japan Plans ¥3.5 Trillion Treasury Discount Bill Offering
+- 10/02 10:21 [FirstSquawk] Japan’s 20-Year JGB Yield Edges Up 0.5 Bps to 3.945%
+- 10/02 10:22 [FirstSquawk] 30-Year JGB Yield Advances to 4.185%, Up 1.5 Bps
+- 10/02 10:23 [FirstSquawk] Tencent Stock Set for 2.1% Lower Open
+- 10/02 10:26 [FirstSquawk] Trump Asked Grok About Venezuelan Reaction to Maduro Capture Before US Invasion, TechCrunch Reports
+- 10/02 10:34 [FirstSquawk] Xiaomi Stock Drops More Than 5%
+- 10/02 10:34 [FirstSquawk] Taiwan Banks Asked to Reduce Branches Amid Rising Office Rents

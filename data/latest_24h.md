@@ -7,43 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-02 10:18 JST／対象: 10/01 10:18 〜 10/02 10:18 JST（時刻はすべて日本時間）
+生成: 2026-10-02 10:35 JST／対象: 10/01 10:35 〜 10/02 10:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 93 | 10/01 16:25 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 336 | 10/01 10:20 | 10/02 10:17 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 412 | 10/01 10:30 | 10/02 10:00 | ⚠ 79分（06:41→08:00） |
+| FirstSquawk | 341 | 10/01 10:36 | 10/02 10:34 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 398 | 10/01 10:36 | 10/02 10:00 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 803 行（統合前 847 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 794 行（統合前 838 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 10:20 [FirstSquawk] Axios: US official says order to leave New York included Iraqi national
-- 10/01 10:26 [FirstSquawk] Japan increases residency-related fees for foreign nationals
-- 10/01 10:30 [financialjuice] ❗ AUSTRALIAN TRADE BALANCE ACTUAL 495M (FORECAST 2000M, PREVIOUS 1,923M) $MACRO
-- 10/01 10:30 [financialjuice] ❗ AUSTRALIAN IMPORTS ACTUAL 5.8% (FORECAST -, PREVIOUS -2.5%) $MACRO
-- 10/01 10:30 [financialjuice] ❗ AUSTRALIAN EXPORTS ACTUAL 3.7% (FORECAST -, PREVIOUS -3.3%) $MACRO
-- 10/01 10:30 [financialjuice] RBA: Private credit not currently a risk to Australia's overall financial stability
-- 10/01 10:30 [financialjuice] RBA: lending standards stay firm, riskier types of credit curbed
-- 10/01 10:30 [financialjuice] RBA: proportion of owner-occupier borrowers facing cash flow shortfall remains low at about 2%
-- 10/01 10:30 [financialjuice] RBA: cash flow challenges to rise for smaller companies, energy-intensive sectors
-- 10/01 10:30 [financialjuice] Australia aug goods exports rise 3.7% m/m, seasonally adjusted
-- 10/01 10:30 [financialjuice] RBA: Alternative funding globally becoming more opaque, circular, and at risk of profit disappointment
-- 10/01 10:30 [financialjuice] RBA: Private credit has expanded notably in Australia, but remains modest overall
-- 10/01 10:30 [financialjuice] RBA: key threats to domestic financial stability stem from overseas
-- 10/01 10:31 [financialjuice] RBA: increase in leveraged investors in bonds, Australian equities heightens volatility and raises risks
-- 10/01 10:31 [financialjuice] RBA: elevated asset prices and leverage leave global markets exposed to sharp correction
-- 10/01 10:31 [financialjuice] Australia August trade balance goods A$495 million, seasonally adjusted: poll A$2 billion
-- 10/01 10:34 [FirstSquawk] AUSTRALIA TRADE BALANCE AUG: A$495M (EST A$2000M; PREV A$1923M; PREVR A$1351M)
-- 10/01 10:34 [FirstSquawk] AUSTRALIA EXPORTS (M/M): 3.7% (PREV -3.3%)
-- 10/01 10:34 [FirstSquawk] AUSTRALIA IMPORTS (M/M): 5.8% (PREV -2.5%)
-- 10/01 10:35 [FirstSquawk] AUSTRALIA JOB VACANCIES (Q/Q) AUG: -0.9% (PREV -2.1%)
 - 10/01 10:36 [financialjuice] South Korea President Lee: Seoul to develop nuclear-powered submarines by mid-2030s
 - 10/01 10:36 [FirstSquawk] South Korea targets nuclear-powered submarine construction by mid-2030s, Lee says
 - 10/01 10:38 [financialjuice] South Korea's Lee: will adopt practical steps to reduce military tension with North Korea
@@ -827,3 +807,14 @@
 - 10/02 10:00 [financialjuice] Taiwan overnight interbank rate starts at 0.805% (unchanged from previous session)
 - 10/02 10:16 [FirstSquawk] Gold Slips 1% to $4,138.04 per Ounce
 - 10/02 10:17 [FirstSquawk] Taiwan Overnight Interbank Rate Starts at 0.805%, Flat on Previous Open
+- 10/02 10:18 [FirstSquawk] Ukrainian Drones Target Industrial Facilities in Volgograd, Russian Governor Says
+- 10/02 10:19 [FirstSquawk] South Korea Finance Minister: Markets to Be Closely Monitored, Pre-Emptive Action if Needed
+- 10/02 10:19 [FirstSquawk] 5-Year JGB Yield Slides to 2.350%, Down 3 Bps
+- 10/02 10:20 [FirstSquawk] Saudi Coalition Intercepts and Destroys Houthi-Launched Ballistic Missile, Says Coalition
+- 10/02 10:20 [FirstSquawk] Japan Plans ¥3.5 Trillion Treasury Discount Bill Offering
+- 10/02 10:21 [FirstSquawk] Japan’s 20-Year JGB Yield Edges Up 0.5 Bps to 3.945%
+- 10/02 10:22 [FirstSquawk] 30-Year JGB Yield Advances to 4.185%, Up 1.5 Bps
+- 10/02 10:23 [FirstSquawk] Tencent Stock Set for 2.1% Lower Open
+- 10/02 10:26 [FirstSquawk] Trump Asked Grok About Venezuelan Reaction to Maduro Capture Before US Invasion, TechCrunch Reports
+- 10/02 10:34 [FirstSquawk] Xiaomi Stock Drops More Than 5%
+- 10/02 10:34 [FirstSquawk] Taiwan Banks Asked to Reduce Branches Amid Rising Office Rents
