@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-02 23:50 JST／対象: 10/01 23:50 〜 10/02 23:50 JST（時刻はすべて日本時間）
+生成: 2026-10-03 00:03 JST／対象: 10/02 00:03 〜 10/03 00:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 107 | 10/02 01:02 | 10/02 23:02 | ⚠ 755分（05:19→17:55） |
-| FirstSquawk | 308 | 10/01 23:52 | 10/02 23:41 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 356 | 10/01 23:54 | 10/02 23:38 | ⚠ 79分（06:41→08:00） |
+| FirstSquawk | 309 | 10/02 00:04 | 10/02 23:58 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 353 | 10/02 00:10 | 10/02 23:58 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 737 行（統合前 774 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 734 行（統合前 773 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 23:52 [FirstSquawk] ACCENTURE STOCK SURGES AS RECORD BOOKINGS DISPEL AI FEARS - YF
-- 10/01 23:54 [financialjuice] Senior US Official to Israel's Channel 12: Three Carrier Groups Possible by End-November.
-- 10/01 23:55 [financialjuice] Senior US Official: Deployment of naval vessel, Marine units will give US CENTCOM more firepower if fighting with Iran resumes - Israel's News 12
-- 10/01 23:59 [financialjuice] Trump touts Boeing on Truth Social. $BA
-- 10/02 00:01 [financialjuice] IMF: Recent US-China agreements enhance predictability of the global trading environment, establish a framework for potential future tariff cuts
-- 10/02 00:01 [financialjuice] IMF Spokesperson: We've seen a big decline in inflation over the last few years, strengthening of external position as reserves have accumulated, quite a lot of fiscal discipline, moving from deficit into fiscal surplus.
-- 10/02 00:01 [financialjuice] US Treasury Auctions Summary October 5 auctions (settle October 8): - US to sell $95 bln 3-month bills - US to sell $82 bln 6-month bills October 6 auctions (settle October 15): - US to sell $58 bln 3-year notes October 7 auctions (settle O…
-- 10/02 00:02 [financialjuice] US Treasury: Will buy up to $6 bln of 10-20 Year debt in October 1st liquidity buyback.
 - 10/02 00:04 [FirstSquawk] IMF STAFF WORKING TO BRING COMBINED SECOND AND THIRD REVIEW FOR UKRAINE PROGRAM TO EXECUTIVE BOARD BY DECEMBER
 - 10/02 00:04 [FirstSquawk] IMF SAYS BOARD REVIEW OF UKRAINE PROGRAM SUBJECT TO "SUFFICIENT AND CREDIBLE FINANCING ASSURANCES" TO CLOSE PROJECTED FINANCING GAP ON TERMS COMPATIBLE WITH DEBT SUSTAINABILITY
 - 10/02 00:04 [FirstSquawk] IMF SAYS SIZE OF UKRAINE'S FINANCING GAP DEPENDS ON WAR, REFORMS, ECONOMIC DEVELOPMENTS AND SUPPORT FROM INTERNATIONAL PARTNERS
@@ -761,3 +753,8 @@
 - 10/02 23:38 [financialjuice] Iran's General Naghdi: The enemy's economic siege will have no effect, and if it does not back down, it will receive a severe blow from IRGC - IRNA
 - 10/02 23:41 [FirstSquawk] GOLDMAN SACHS BENEFITS SIGNIFICANTLY FROM CLIENTS CANCELING EARLY SPACE X INVESTMENTS.
 - 10/02 23:41 [FirstSquawk] FRENCH-GERMAN 10-YEAR SPREAD FALLS TO 140 BASIS POINTS FROM 159 BASIS POINTS.
+- 10/02 23:51 [financialjuice] South Korea's Industry Ministry Official: $8.4 bln oil project mentioned by Trump not part of agreement with the US - Yonhap
+- 10/02 23:51 [financialjuice] South Korea's Industry Ministry Official: $8.4 bln oil project mentioned by Trump not part of agreement with US - Yonhap
+- 10/02 23:55 [financialjuice/FirstSquawk] TD sees Fed hikes in December and March, previously October and January
+- 10/02 23:58 [financialjuice] Fitch affirms Walmart's ratings at 'AA' and 'F1+'. Outlook stable. $WMT
+- 10/02 23:58 [FirstSquawk] S. KOREA SAYS TRUMP'S $8.4 BLN OIL PROJECT CLAIM NOT IN AGREED DEALS - YONHAP

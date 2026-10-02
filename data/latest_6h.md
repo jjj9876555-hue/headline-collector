@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-02 23:50 JST／対象: 10/02 17:50 〜 10/02 23:50 JST（時刻はすべて日本時間）
+生成: 2026-10-03 00:03 JST／対象: 10/02 18:03 〜 10/03 00:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 58 | 10/02 17:55 | 10/02 23:02 | 23分（19:35→19:59） |
-| FirstSquawk | 72 | 10/02 17:53 | 10/02 23:41 | 44分（20:46→21:31） |
-| financialjuice | 94 | 10/02 18:00 | 10/02 23:38 | ⚠ 49分（18:00→18:49） |
+| DeItaone | 54 | 10/02 18:25 | 10/02 23:02 | 23分（19:35→19:59） |
+| FirstSquawk | 72 | 10/02 18:04 | 10/02 23:58 | 44分（20:46→21:31） |
+| financialjuice | 95 | 10/02 18:49 | 10/02 23:58 | 29分（19:42→20:12） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 218 行（統合前 224 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 214 行（統合前 222 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 17:53 [FirstSquawk] FRANCE SUGGESTS RELEASING 50 MILLION BARRELS OF DIESEL AND 50 MILLION BARRELS OF OIL FROM IEA MEMBERS.
-- 10/02 17:53 [FirstSquawk] UKRAINE PRESIDENT ZELENSKIY HAS ANNOUNCED THAT UKRAINE ATTACKED RUSSIAN REFINERIES LAST NIGHT.
-- 10/02 17:55 [DeItaone] *FRANCE HAS PROPOSED NEW EUROPE, IEA RELEASE OF DIESEL AND CRUDE
-- 10/02 17:59 [DeItaone] BOFA’S HARTNETT SEES RISK-OFF MOOD PERSISTING BofA’s Michael Hartnett says investors are likely to avoid riskier trades until the dollar peaks and bond yields retreat from multidecade highs. The Bloomberg dollar index has risen 3% from its …
-- 10/02 18:00 [financialjuice] ❗ EUROZONE CPI YOY FLASH ACTUAL 3.8% (FORECAST 3.7%, PREVIOUS 3.2%) $MACRO
-- 10/02 18:00 [financialjuice] ❗ EUROZONE CPI MOM FLASH ACTUAL 0.6% (FORECAST 0.5%, PREVIOUS 0.4%) $MACRO
-- 10/02 18:00 [financialjuice] ❗ EUROZONE CORE CPI YOY FLASH ACTUAL 2.5% (FORECAST 2.5%, PREVIOUS 2.4%) $MACRO
-- 10/02 18:00 [DeItaone] 🇪🇺 EUROZONE INFLATION JUMPS TO 3.8%, ABOVE FORECASTS Eurozone inflation accelerated to 3.8% YoY in September, above the 3.6% consensus and sharply higher than 3.2% in August, according to Eurostat. Core inflation rose slightly to 2.5% from …
-- 10/02 18:02 [DeItaone] $MSTR - CITI RAISES STRATEGY TARGET TO $240 ON HIGHER BITCOIN FORECAST Citi raised its Strategy price target to $240 from $136, maintaining a Buy rating after lifting its 12-month Bitcoin forecast 39% to $113,400. Citi sees roughly 34% upsi…
 - 10/02 18:04 [FirstSquawk] EUROZONE CPI ESTIMATE (Y/Y) SEP P: 3.8% (EST 3.7%; PREV 3.2%) || CPI CORE (Y/Y): 2.5% (EST 2.5%; PREV 2.4%) || CPI (M/M): 0.6% (EST 0.5%; PREV 0.4%) || CPI (Y/Y): 3.8% (EST 3.7%; PREV 3.2%)
 - 10/02 18:25 [DeItaone] $NVDA - MORGAN STANLEY RENAMES NVIDIA TO TOP PICK
 - 10/02 18:26 [FirstSquawk] SWEDEN'S PARLIAMENT SPEAKER URGES SOCIAL DEMOCRATS TO RESTART GOVERNMENT FORMATION EFFORTS.
@@ -242,3 +233,8 @@
 - 10/02 23:38 [financialjuice] Iran's General Naghdi: The enemy's economic siege will have no effect, and if it does not back down, it will receive a severe blow from IRGC - IRNA
 - 10/02 23:41 [FirstSquawk] GOLDMAN SACHS BENEFITS SIGNIFICANTLY FROM CLIENTS CANCELING EARLY SPACE X INVESTMENTS.
 - 10/02 23:41 [FirstSquawk] FRENCH-GERMAN 10-YEAR SPREAD FALLS TO 140 BASIS POINTS FROM 159 BASIS POINTS.
+- 10/02 23:51 [financialjuice] South Korea's Industry Ministry Official: $8.4 bln oil project mentioned by Trump not part of agreement with the US - Yonhap
+- 10/02 23:51 [financialjuice] South Korea's Industry Ministry Official: $8.4 bln oil project mentioned by Trump not part of agreement with US - Yonhap
+- 10/02 23:55 [financialjuice/FirstSquawk] TD sees Fed hikes in December and March, previously October and January
+- 10/02 23:58 [financialjuice] Fitch affirms Walmart's ratings at 'AA' and 'F1+'. Outlook stable. $WMT
+- 10/02 23:58 [FirstSquawk] S. KOREA SAYS TRUMP'S $8.4 BLN OIL PROJECT CLAIM NOT IN AGREED DEALS - YONHAP
