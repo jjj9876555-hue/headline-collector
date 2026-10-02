@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-02 20:54 JST／対象: 10/02 08:54 〜 10/02 20:54 JST（時刻はすべて日本時間）
+生成: 2026-10-02 21:23 JST／対象: 10/02 09:23 〜 10/02 21:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 28 | 10/02 17:55 | 10/02 20:50 | 23分（19:35→19:59） |
-| FirstSquawk | 138 | 10/02 09:07 | 10/02 20:46 | 38分（17:15→17:53） |
-| financialjuice | 94 | 10/02 09:29 | 10/02 20:52 | ⚠ 49分（18:00→18:49） |
+| DeItaone | 35 | 10/02 17:55 | 10/02 21:22 | 23分（19:35→19:59） |
+| FirstSquawk | 133 | 10/02 09:25 | 10/02 20:46 | 38分（17:15→17:53） |
+| financialjuice | 100 | 10/02 09:29 | 10/02 21:19 | ⚠ 49分（18:00→18:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 254 行（統合前 260 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 262 行（統合前 268 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 09:07 [FirstSquawk] Asian Currencies Stabilize as Rising Oil Prices Cloud the Outlook - WSJ
-- 10/02 09:08 [FirstSquawk] ASX 200 Advances 0.4% to 8,646.10 in Early Trade
-- 10/02 09:10 [FirstSquawk] AUSTRALIA’S S&P/ASX 200 RISES 0.4% TO 8,646.10 POINTS IN EARLY TRADE
-- 10/02 09:13 [FirstSquawk] US TO DEPLOY A THIRD AIRCRAFT-CARRIER STRIKE GROUP AND UP TO 10,000 ADDITIONAL TROOPS TO THE MIDDLE EAST BY THE END OF NOVEMBER, FURTHER BOOSTING ITS MILITARY PRESENCE AROUND THE REGION.
-- 10/02 09:13 [FirstSquawk] PETROBRAS’ P-80 FPSO HAS LEFT SINGAPORE FOR BRAZIL’S BÚZIOS OILFIELD, WITH PRODUCTION EXPECTED TO START IN 2027. THE UNIT CAN PRODUCE 225,000 BARRELS OF OIL PER DAY AND PROCESS 12 MILLION CUBIC METERS OF GAS DAILY. THE P-80 WILL BECOME PETR…
 - 10/02 09:25 [FirstSquawk] FED OFFICIALS BARKIN, COLLINS AND SCHMID SAID A STABLE LABOR MARKET ALLOWS THE FED TO KEEP ITS FOCUS ON PERSISTENTLY HIGH INFLATION, WITH ALL THREE SUPPORTING THE SEPTEMBER RATE HIKE TO 3.75%-4%. THE OFFICIALS DECLINED TO SIGNAL FUTURE RATE…
 - 10/02 09:29 [FirstSquawk/financialjuice] SAUDI-LED COALITION: INTERCEPTS AND DESTROYS BALLISTIC MISSILE LAUNCHED BY YEMEN'S HOUTHIS TOWARD KHAMIS MUSHAIT
 - 10/02 09:29 [FirstSquawk] US TREASURY IMPOSED SANCTIONS ON RUSSIA’S A7 FINANCIAL NETWORK, ACCUSING IT OF USING SHELL COMPANIES, SUBAGENTS AND FALSIFIED TRADE RECORDS TO MOVE FUNDS FOR SANCTIONED ENTITIES LINKED TO IRAN AND THE IRGC. A7 CLAIMS TO HAVE PROCESSED $91.5…
@@ -278,3 +273,16 @@
 - 10/02 20:46 [FirstSquawk] PAKISTAN'S FOREIGN MINISTER ANNOUNCED A MEETING OF THE STRATEGIC POLITICAL DEFENCE COMMITTEE UNDER THE MAKKAH ACCORD WILL TAKE PLACE IN RIYADH SOON.
 - 10/02 20:50 [DeItaone/financialjuice] FRANCE'S MACRON TO CHAIR A VIDEOCONFERENCE OF G7 LEADERS TODAY AT 2:30 P.M. FOCUSED ON THE GLOBAL ENERGY SITUATION - ELYSEE
 - 10/02 20:52 [financialjuice] The EU presidency will convene a meeting of coreper i at 15:30 to discuss the global energy situation
+- 10/02 20:55 [DeItaone] 📉 PRICE TARGET CUTS • $NKE: PT cut to $60 from $75 by Jefferies • $NKE: PT cut to $36 from $40 by Stifel • $NKE: PT cut to $24 from $30 by BofA Securities • $NKE: PT cut to $50 from $55 by BTIG • $NKE: PT cut to $30 from $38 by Goldman Sach…
+- 10/02 20:56 [DeItaone] FRENCH 10-YEAR GOVERNMENT BONDS HIT 4.989%, HIGHEST SINCE 2002: LSEG
+- 10/02 20:58 [financialjuice] Iran's IRGC: Ready for response to any threat or attack. The response would be more lethal than the previous one
+- 10/02 20:58 [financialjuice] Morning Juice – US Session Prep (2nd October)
+- 10/02 21:00 [DeItaone] *IRAN IRGC SAYS RESPONSE WOULD BE MORE LETHAL THAN PREVIOUS ONE *IRAN'S IRGC SAYS READY FOR RESPONSE TO ANY THREAT, ATTACK
+- 10/02 21:00 [financialjuice] Secured overnight financing rate 3.87% October 1st vs 3.90% September 30th.
+- 10/02 21:02 [financialjuice] Price of Russian gas for China may rise 1.4% in 2027 - Tass
+- 10/02 21:03 [financialjuice] Pakistan foreign minister: Meeting in Riyadh next week will focus on Houthi attacks in Saudi Arabia
+- 10/02 21:03 [DeItaone] GOLDMAN: U.S. DIESEL BAN COULD HIT LATIN AMERICA HARDEST Goldman Sachs estimates a sudden cutoff of U.S. diesel exports could reduce Latin American GDP by around 1%, although inventories and alternative suppliers would soften the impact. In…
+- 10/02 21:05 [DeItaone] IRGC REITERATES HARDLINE WARNING TO U.S. AND ISRAEL Iran’s Islamic Revolutionary Guard Corps says it remains prepared to respond “decisively, immediately, painfully and lethally” to any threat, aggression or potential miscalculation by the …
+- 10/02 21:12 [DeItaone] PAKISTAN FOREIGN MINISTER: THERE SHOULDN’T BE ANY FEE OR CHARGES TO CROSS HORMUZ
+- 10/02 21:19 [financialjuice] Pakistan Foreign Minister: We will discuss political engagement with Houthis instead of kinetic action in the meeting next week
+- 10/02 21:22 [DeItaone] FRENCH 2-YEAR GOVERNMENT BOND YIELD EXTENDS RISE, LAST UP 13.8 BPS AT 3.8337%

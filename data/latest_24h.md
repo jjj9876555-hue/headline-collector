@@ -7,49 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-02 20:54 JST／対象: 10/01 20:54 〜 10/02 20:54 JST（時刻はすべて日本時間）
+生成: 2026-10-02 21:23 JST／対象: 10/01 21:23 〜 10/02 21:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 91 | 10/01 21:06 | 10/02 20:50 | ⚠ 755分（05:19→17:55） |
-| FirstSquawk | 301 | 10/01 21:07 | 10/02 20:46 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 361 | 10/01 20:55 | 10/02 20:52 | ⚠ 79分（06:41→08:00） |
+| DeItaone | 97 | 10/01 21:24 | 10/02 21:22 | ⚠ 755分（05:19→17:55） |
+| FirstSquawk | 295 | 10/01 21:30 | 10/02 20:46 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 347 | 10/01 21:26 | 10/02 21:19 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 716 行（統合前 759 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 703 行（統合前 745 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 20:55 [financialjuice] USTR Greer: We will meet with EU counterparts to discuss diesel today
-- 10/01 20:55 [financialjuice] USTR Greer: I have been speaking with Canadians on trade
-- 10/01 20:56 [financialjuice] USTR Greer: We're open to deal with Canada, but it's up to Canada
-- 10/01 20:56 [financialjuice] USTR Greer: Gaps remain between US and Canada on trade.
-- 10/01 21:00 [financialjuice] Secured Overnight Financing Rate 3.90% September 30 vs 3.88% September 29.
-- 10/01 21:00 [financialjuice] France HCFP: Deficit target for 2026 plausible, sees risks.
-- 10/01 21:00 [financialjuice] France HCFP: French deficit goal is minimum given ‘alarming’ finances
-- 10/01 21:00 [financialjuice] France hcFp: 2027 budget plan targets are a ‘significant’ adjustment.
-- 10/01 21:01 [financialjuice] France’s budget watchdog calls 2027 growth forecast optimistic.
-- 10/01 21:04 [financialjuice] BoE's Mann: Risk management strategy apt given inflation risks.
-- 10/01 21:05 [financialjuice] BoE's Mann: Raising rate can ensure sustainable return to 2%.
-- 10/01 21:06 [financialjuice] BoE's Mann: Real and nominal conditions need to remain tight.
-- 10/01 21:06 [financialjuice] BoE's Mann: Can't rely on risk premia to do the work of monetary policy, need to raise the bank rate
-- 10/01 21:06 [financialjuice] BoE's Mann: Current stance is not sufficiently tight.
-- 10/01 21:06 [DeItaone] https://t.co/EDVUWjvAPI
-- 10/01 21:07 [FirstSquawk] FRENCH BUDGET WATCHDOG: 2027 GROWTH FORECAST OPTIMISTIC
-- 10/01 21:07 [FirstSquawk] BOE'S MANN: CAN'T RELY ON RISK PREMIA TO DO THE WORK OF POLICY
-- 10/01 21:08 [financialjuice] BoE's Mann: Need clearly communicated reaction function.
-- 10/01 21:11 [financialjuice] BoE's Mann: BoE may not have clearly articulated its reaction function to Middle East shock in March, not publishing baseline forecast in April likely did not help either.
-- 10/01 21:11 [financialjuice/FirstSquawk] BoE's Mann: Policy, CPI expectations will shift without action.
-- 10/01 21:13 [financialjuice] Netanyahu on FlyDubai Attacks: Too early to say if he had connections with Iran.
-- 10/01 21:14 [FirstSquawk] NETANYAHU: TOO EARLY TO SAY IF HE HAD CONNECTIONS WITH IRAN
-- 10/01 21:16 [FirstSquawk] ISRAEL NETANYAHU: INDICATIONS THAT IRAN, PROXIES WANT TO ATTACK ISRAEL
-- 10/01 21:18 [financialjuice] Israel's Prime Minister Netanyahu: There are indications that Iran and proxies want to attack Israel
-- 10/01 21:18 [FirstSquawk] NETANYAHU: PILOT WHO ATTACKED THE OTHER PILOT WAS OMANI
-- 10/01 21:18 [financialjuice] Israel's Prime Minister Netanyahu: The pilot who attacked the other pilot was Omani
 - 10/01 21:24 [DeItaone] EUROPE HOLDS EMERGENCY TALKS ON DIESEL RESERVES European nations are holding emergency talks over releasing strategic fuel reserves after pressure from Washington to boost supply. The U.S. has already approved another 40 million barrels fro…
 - 10/01 21:26 [DeItaone] GERMAN ECONOMY MINISTRY ON DIESEL RESERVES: AT THIS TIME, NO NEW REQUIREMENTS FROM IEA
 - 10/01 21:26 [financialjuice] German economy ministry on diesel reserves: At this time, no new requirements from the IEA
@@ -740,3 +714,16 @@
 - 10/02 20:46 [FirstSquawk] PAKISTAN'S FOREIGN MINISTER ANNOUNCED A MEETING OF THE STRATEGIC POLITICAL DEFENCE COMMITTEE UNDER THE MAKKAH ACCORD WILL TAKE PLACE IN RIYADH SOON.
 - 10/02 20:50 [DeItaone/financialjuice] FRANCE'S MACRON TO CHAIR A VIDEOCONFERENCE OF G7 LEADERS TODAY AT 2:30 P.M. FOCUSED ON THE GLOBAL ENERGY SITUATION - ELYSEE
 - 10/02 20:52 [financialjuice] The EU presidency will convene a meeting of coreper i at 15:30 to discuss the global energy situation
+- 10/02 20:55 [DeItaone] 📉 PRICE TARGET CUTS • $NKE: PT cut to $60 from $75 by Jefferies • $NKE: PT cut to $36 from $40 by Stifel • $NKE: PT cut to $24 from $30 by BofA Securities • $NKE: PT cut to $50 from $55 by BTIG • $NKE: PT cut to $30 from $38 by Goldman Sach…
+- 10/02 20:56 [DeItaone] FRENCH 10-YEAR GOVERNMENT BONDS HIT 4.989%, HIGHEST SINCE 2002: LSEG
+- 10/02 20:58 [financialjuice] Iran's IRGC: Ready for response to any threat or attack. The response would be more lethal than the previous one
+- 10/02 20:58 [financialjuice] Morning Juice – US Session Prep (2nd October)
+- 10/02 21:00 [DeItaone] *IRAN IRGC SAYS RESPONSE WOULD BE MORE LETHAL THAN PREVIOUS ONE *IRAN'S IRGC SAYS READY FOR RESPONSE TO ANY THREAT, ATTACK
+- 10/02 21:00 [financialjuice] Secured overnight financing rate 3.87% October 1st vs 3.90% September 30th.
+- 10/02 21:02 [financialjuice] Price of Russian gas for China may rise 1.4% in 2027 - Tass
+- 10/02 21:03 [financialjuice] Pakistan foreign minister: Meeting in Riyadh next week will focus on Houthi attacks in Saudi Arabia
+- 10/02 21:03 [DeItaone] GOLDMAN: U.S. DIESEL BAN COULD HIT LATIN AMERICA HARDEST Goldman Sachs estimates a sudden cutoff of U.S. diesel exports could reduce Latin American GDP by around 1%, although inventories and alternative suppliers would soften the impact. In…
+- 10/02 21:05 [DeItaone] IRGC REITERATES HARDLINE WARNING TO U.S. AND ISRAEL Iran’s Islamic Revolutionary Guard Corps says it remains prepared to respond “decisively, immediately, painfully and lethally” to any threat, aggression or potential miscalculation by the …
+- 10/02 21:12 [DeItaone] PAKISTAN FOREIGN MINISTER: THERE SHOULDN’T BE ANY FEE OR CHARGES TO CROSS HORMUZ
+- 10/02 21:19 [financialjuice] Pakistan Foreign Minister: We will discuss political engagement with Houthis instead of kinetic action in the meeting next week
+- 10/02 21:22 [DeItaone] FRENCH 2-YEAR GOVERNMENT BOND YIELD EXTENDS RISE, LAST UP 13.8 BPS AT 3.8337%
