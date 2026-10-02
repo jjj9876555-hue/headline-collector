@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-02 16:29 JST／対象: 10/02 10:29 〜 10/02 16:29 JST（時刻はすべて日本時間）
+生成: 2026-10-02 16:48 JST／対象: 10/02 10:48 〜 10/02 16:48 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 68 | 10/02 10:34 | 10/02 16:25 | 30分（14:50→15:21） |
-| financialjuice | 26 | 10/02 10:37 | 10/02 16:03 | ⚠ 49分（11:35→12:24） |
+| FirstSquawk | 66 | 10/02 10:48 | 10/02 16:38 | 30分（14:50→15:21） |
+| financialjuice | 27 | 10/02 11:05 | 10/02 16:30 | ⚠ 49分（11:35→12:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 93 行（統合前 94 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 92 行（統合前 93 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 10:34 [FirstSquawk] Xiaomi Stock Drops More Than 5%
-- 10/02 10:34 [FirstSquawk] Taiwan Banks Asked to Reduce Branches Amid Rising Office Rents
-- 10/02 10:36 [FirstSquawk] Vietnam’s Biggest Refinery Has Crude Oil Supplies Secured Through November, Mostly From Kuwait
-- 10/02 10:37 [financialjuice] South Korean President Lee: deeply regrets Ukraine's reaction to North Korean POW repatriation disclosure dispute
-- 10/02 10:38 [financialjuice] South Korean president Lee: will take further actions if Ukraine keeps refusing deal on North Korean POW repatriation
-- 10/02 10:38 [financialjuice] South Korean President Lee urges Ukraine to recognize deal and apologize
-- 10/02 10:39 [FirstSquawk] South Korea’s Lee Voices Grave Regret Over Ukraine’s Reaction to North Korean POW Repatriation Talks Disclosure Dispute
-- 10/02 10:39 [FirstSquawk] South Korean President Lee Says Seoul Will Take Further Measures if Ukraine Continues to Deny POW Repatriation Deal
-- 10/02 10:40 [FirstSquawk] South Korean President Lee Urges Ukraine to Acknowledge Agreement and Apologize
-- 10/02 10:40 [FirstSquawk] South Korea’s Central Bank Sells 91-Day Stabilisation Bonds at 3.170% Yield
 - 10/02 10:48 [FirstSquawk] Oil Gains Ground as Middle East Tensions Mount - WSJ
 - 10/02 10:50 [FirstSquawk] US Deploys Additional Patriot Air Defense Systems to Saudi, Qatari Energy Sites, Axios Reports
 - 10/02 10:56 [FirstSquawk] JGBs Climb Following Gains in US Treasurys - WSJ
@@ -117,3 +107,12 @@
 - 10/02 16:25 [FirstSquawk] JP MORGAN LOWERS NIKE'S TARGET PRICE FROM $40 TO $33.
 - 10/02 16:25 [FirstSquawk] ENI ANNOUNCED A 20% PRICE CUT ON DIESEL AND GASOLINE FOR AGRICULTURAL AND FISHING SECTORS STARTING TODAY UNTIL THE END OF OCTOBER, WITH POTENTIAL EXTENSION THROUGH YEAR-END.
 - 10/02 16:25 [FirstSquawk] UKRAINE'S FARM MINISTER SAYS WINTER WHEAT SOWING FOR 2027 HARVEST MAY DROP BY 17%.
+- 10/02 16:30 [financialjuice] ECB's Rehn: Higher energy prices bring us closer to the ECB's adverse scenario for inflation
+- 10/02 16:30 [financialjuice] ECB's Rehn: ECB projections subject to very high, pervasive uncertainty
+- 10/02 16:30 [financialjuice] ECB's Rehn: Rise in long-term interest rates will slow growth and reduce the pass-through of energy shock to prices, wages
+- 10/02 16:30 [financialjuice] ECB's Rehn: One uncertainty is possibility of a sudden reversal in market sentiment towards AI.
+- 10/02 16:32 [FirstSquawk] ECB'S REHN STATES THAT RISING ENERGY COSTS PUSH US NEAR THE ECB'S NEGATIVE INFLATION OUTLOOK.
+- 10/02 16:32 [FirstSquawk] ECB'S REHN SAYS ECB PROJECTIONS FACE GREAT UNCERTAINTY.
+- 10/02 16:32 [FirstSquawk] ECB'S REHN SAYS LONG-TERM INTEREST RATES RISE WILL SLOW GROWTH AND WEAKEN ENERGY PRICE AND WAGE IMPACT.
+- 10/02 16:32 [FirstSquawk] ECB'S REHN NOTES UNCERTAINTY ABOUT A POSSIBLE SWIFT CHANGE IN MARKET ATTITUDE TOWARD AI.
+- 10/02 16:38 [FirstSquawk] REHN SAYS ECB FORECASTS SUBJECT TO ‘VERY HIGH' UNCERTAINTY

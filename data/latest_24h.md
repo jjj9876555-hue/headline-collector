@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-02 16:29 JST／対象: 10/01 16:29 〜 10/02 16:29 JST（時刻はすべて日本時間）
+生成: 2026-10-02 16:48 JST／対象: 10/01 16:48 〜 10/02 16:48 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 92 | 10/01 16:48 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 312 | 10/01 16:40 | 10/02 16:25 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 373 | 10/01 16:30 | 10/02 16:03 | ⚠ 79分（06:41→08:00） |
+| DeItaone | 91 | 10/01 16:50 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
+| FirstSquawk | 310 | 10/01 16:49 | 10/02 16:38 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 368 | 10/01 16:50 | 10/02 16:30 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 738 行（統合前 783 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 730 行（統合前 775 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 16:30 [financialjuice] Japan PM Takaichi: Will appropriately control the total annual issuance of government bonds, taking into account both initial and supplementary budgets
-- 10/01 16:30 [financialjuice] SWISS MANUFACTURING PMI ACTUAL 55.3 (FORECAST 56.3, PREVIOUS 57.1) $MACRO
-- 10/01 16:33 [financialjuice] Japan PM Takaichi: Forex market determined by various factors.
-- 10/01 16:35 [financialjuice] Japan PM Takaichi: Japan's economic policy is not aimed at manipulating FX.
-- 10/01 16:35 [financialjuice] Japan PM Takaichi: Told president Trump undervaluation of yen is a problem.
-- 10/01 16:37 [financialjuice] Japan PM Takaichi: No change to administration's stance of pursuing strong economy, fiscal sustainability.
-- 10/01 16:40 [FirstSquawk] JAPAN'S PM TAKAICHI PLANS TO MANAGE GOVERNMENT BOND ISSUANCE ANNUALLY, INCLUDING INITIAL AND ADDITIONAL BUDGETS.
-- 10/01 16:40 [FirstSquawk] JAPAN'S PM TAKAICHI SAYS THE FOREX MARKET IS INFLUENCED BY MANY FACTORS.
-- 10/01 16:40 [FirstSquawk] JAPAN'S PRIME MINISTER TAKAICHI STATES THAT THE COUNTRY'S ECONOMIC POLICY DOES NOT TARGET FOREIGN EXCHANGE MANIPULATION.
-- 10/01 16:40 [FirstSquawk] JAPAN PM TAKAICHI SAYS POLICIES FOCUS ON IMPROVING JAPAN'S ECONOMIC COMPETITIVENESS TO ENHANCE MARKET CONFIDENCE IN THE YEN.
-- 10/01 16:40 [FirstSquawk] JAPAN'S PM TAKAICHI INFORMED PRESIDENT TRUMP THAT THE YEN'S LOW VALUE IS A CONCERN.
-- 10/01 16:40 [FirstSquawk] JAPAN'S PM TAKAICHI EXPECTS FOOD CONSUMPTION TAX CUT TO BE REFLECTED IN SALE PRICES.
-- 10/01 16:40 [FirstSquawk] JAPAN'S PM TAKAICHI SAYS THERE WILL BE NO CHANGE IN THE GOVERNMENT'S COMMITMENT TO A STRONG ECONOMY AND FISCAL RESPONSIBILITY.
-- 10/01 16:44 [financialjuice] ECB asks EU to start finding successor to ECB's Schnabel.
-- 10/01 16:45 [financialjuice] US tells France and Germany to release emergency diesel stocks or face possible US diesel export ban - Three Sources Close to The Discussions.
-- 10/01 16:45 [financialjuice] US wants the EU to release 120 million barrels of diesel in the next 6 months - One of The Sources.
-- 10/01 16:48 [DeItaone] U.S. PRESSURES FRANCE AND GERMANY TO RELEASE DIESEL RESERVES The Trump administration has told France and Germany to draw down emergency diesel stocks to help lower global fuel prices, Reuters reports. If they refuse, Washington is threaten…
 - 10/01 16:49 [FirstSquawk] AIRBUS SE HAS FINISHED BUYING QUARKSLAB, BOOSTING FRANCE'S CYBERSECURITY INDEPENDENCE.
 - 10/01 16:50 [FirstSquawk] AIRBUS SE’S LATEST INVESTMENT BOOSTS ITS ROLE AS A TRUSTED PARTNER FOR FRENCH OFFICIALS AND EXPANDS ITS PRESENCE IN EUROPEAN CYBERSECURITY.
 - 10/01 16:50 [DeItaone] US WANTS THE EU TO RELEASE 120 MILLION BARRELS OF DIESEL IN THE NEXT 6 MONTHS, ONE OF THE SOURCES SAID
@@ -762,3 +745,12 @@
 - 10/02 16:25 [FirstSquawk] JP MORGAN LOWERS NIKE'S TARGET PRICE FROM $40 TO $33.
 - 10/02 16:25 [FirstSquawk] ENI ANNOUNCED A 20% PRICE CUT ON DIESEL AND GASOLINE FOR AGRICULTURAL AND FISHING SECTORS STARTING TODAY UNTIL THE END OF OCTOBER, WITH POTENTIAL EXTENSION THROUGH YEAR-END.
 - 10/02 16:25 [FirstSquawk] UKRAINE'S FARM MINISTER SAYS WINTER WHEAT SOWING FOR 2027 HARVEST MAY DROP BY 17%.
+- 10/02 16:30 [financialjuice] ECB's Rehn: Higher energy prices bring us closer to the ECB's adverse scenario for inflation
+- 10/02 16:30 [financialjuice] ECB's Rehn: ECB projections subject to very high, pervasive uncertainty
+- 10/02 16:30 [financialjuice] ECB's Rehn: Rise in long-term interest rates will slow growth and reduce the pass-through of energy shock to prices, wages
+- 10/02 16:30 [financialjuice] ECB's Rehn: One uncertainty is possibility of a sudden reversal in market sentiment towards AI.
+- 10/02 16:32 [FirstSquawk] ECB'S REHN STATES THAT RISING ENERGY COSTS PUSH US NEAR THE ECB'S NEGATIVE INFLATION OUTLOOK.
+- 10/02 16:32 [FirstSquawk] ECB'S REHN SAYS ECB PROJECTIONS FACE GREAT UNCERTAINTY.
+- 10/02 16:32 [FirstSquawk] ECB'S REHN SAYS LONG-TERM INTEREST RATES RISE WILL SLOW GROWTH AND WEAKEN ENERGY PRICE AND WAGE IMPACT.
+- 10/02 16:32 [FirstSquawk] ECB'S REHN NOTES UNCERTAINTY ABOUT A POSSIBLE SWIFT CHANGE IN MARKET ATTITUDE TOWARD AI.
+- 10/02 16:38 [FirstSquawk] REHN SAYS ECB FORECASTS SUBJECT TO ‘VERY HIGH' UNCERTAINTY

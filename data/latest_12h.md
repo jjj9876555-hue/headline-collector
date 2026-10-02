@@ -7,43 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-02 16:29 JST／対象: 10/02 04:29 〜 10/02 16:29 JST（時刻はすべて日本時間）
+生成: 2026-10-02 16:48 JST／対象: 10/02 04:48 〜 10/02 16:48 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 10/02 05:19 | 10/02 05:19 | - |
-| FirstSquawk | 139 | 10/02 04:38 | 10/02 16:25 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 93 | 10/02 04:31 | 10/02 16:03 | ⚠ 79分（06:41→08:00） |
+| FirstSquawk | 134 | 10/02 04:49 | 10/02 16:38 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 85 | 10/02 04:49 | 10/02 16:30 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 223 行（統合前 233 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 212 行（統合前 220 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 04:31 [financialjuice/FirstSquawk] ❗ Local sources: Supertanker with a capacity of 2.5 million barrels, illegally transiting the Strait of Hormuz, struck approximately 8 kilometers off the coast of Oman, currently on fire - Mehr News
-- 10/02 04:33 [financialjuice] USTR Greer: Engagement on excess capacity was quite constructive
-- 10/02 04:36 [financialjuice] Fed's Cook: Supply shocks have had surprisingly persistent effects, becoming more salient for policy
-- 10/02 04:37 [financialjuice] Fed's Cook: Possible that the optimal policy response to a supply shock could be sector-dependent
-- 10/02 04:38 [FirstSquawk] NO TALKS ABOUT IRAN'S NUCLEAR PROGRAMME TOOK PLACE DURING RECENT MEETINGS WITH MEDIATORS - IRAN'S OFFICIAL NEWS AGENCY CITING A SOURCE WITH KNOWLEDGE.
-- 10/02 04:39 [FirstSquawk] USTR GREER SAYS HE HAD A CONSTRUCTIVE CONVERSATION WITH INDIAN TRADE MINISTER GOYAL AS THEY TRY TO FINISH A TRADE DEAL, ADDING THAT AN INDIA-U.S. TRADE DEAL IS NOT IMMINENT AND THAT STICKING POINTS HAVE BEEN IDENTIFIED
-- 10/02 04:39 [financialjuice] Fed's cook: We have to be attentive to consumer confidence.
-- 10/02 04:39 [FirstSquawk] IRAN'S PGSA: IN RECENT DAYS, SEVERAL TANKERS HAVE BEEN STRUCK IN THE STRAIT OF HORMUZ, AND THE LAST THREE OF THESE WERE EITHER OWNED OR CHARTERED BY THE UNITED ARAB EMIRATES.
-- 10/02 04:39 [financialjuice] Fed's Cook: Need to make sure inflation expectations don't become unanchored.
-- 10/02 04:40 [FirstSquawk] US TREASURY SECRETARY BESSENT: EUROPE SHOULD MAKE ADDITIONAL SUPPLIES AVAILABLE & ACCELERATE DELIVERY ON EXISTING COMMITMENTS
-- 10/02 04:40 [FirstSquawk] USTR GREER SAYS TRUMP'S TRADE PROGRAM IS 'TRENDING IN THE RIGHT DIRECTION' AND THAT THE U.S. IS ON TRACK FOR RECORD GOODS TRADE EXPORTS THIS YEAR, CALLING THE ENGAGEMENT ON EXCESS CAPACITY 'QUITE CONSTRUCTIVE'.
-- 10/02 04:40 [FirstSquawk] USTR GREER SAYS G20 TRADE MINISTERS DISCUSSED THE 'WEAPONIZATION' OF AGRICULTURE AND FARM INPUTS, WITH THE TALKS ALSO COVERING FORCED LABOR AND EXCESS CAPACITY CONCERNS.
-- 10/02 04:40 [FirstSquawk] THE BANK OF CANADA'S SENIOR DEPUTY GOVERNOR ROGERS SAYS RESTORING THE AFFORDABILITY OF HOUSING WILL REQUIRE A BROAD, SUSTAINED EFFORT AND A POLICY MIX — INCLUDING MORE SUPPLY, BETTER PLANNING AND INFRASTRUCTURE AND THE RIGHT INCENTIVES — AN…
-- 10/02 04:41 [FirstSquawk] THE BANK OF CANADA'S SENIOR DEPUTY GOVERNOR ROGERS SAYS TARGETING HOME PRICES DIRECTLY WITH INTEREST RATES 'IS NOT THE ANSWER' AND WOULD RISK IMPOSING COSTS ACROSS THE ECONOMY, WHILE NOTING FALLING HOUSE PRICES CAN CUT HOUSEHOLD WEALTH, WEA…
-- 10/02 04:41 [financialjuice/FirstSquawk] Netanyahu conspiring ridiculous false-flag scenarios such as plane hijack to accuse Iran - Sources to Press TV
-- 10/02 04:42 [financialjuice] USTR Greer: Discussed diesel exports with European partners on Thursday.
-- 10/02 04:43 [financialjuice] USTR greer: France, Germany and Italy are sitting on diesel reserves, getting more to market is part of a cooperative approach.
-- 10/02 04:43 [financialjuice] Fed's Cook: Cautious that AI could be a major reorganization of work.
-- 10/02 04:44 [financialjuice] USTR Greer: We have technical talks with Canadians; there are a handful of outstanding issues that are difficult to resolve.
-- 10/02 04:46 [financialjuice] Fed's Cook: AI is causing pockets of inflation.
 - 10/02 04:49 [financialjuice/FirstSquawk] Iran's Foreign Ministry asks Iraq to take steps to lift flight restrictions due to US sanctions and return flights to normal conditions.
 - 10/02 04:50 [financialjuice] USTR Greer: Will continue to advance discussions on the most-favored-nation tariff structure, but did not submit a draft agreement.
 - 10/02 04:50 [financialjuice/FirstSquawk] ❗ fed's Bowman sees no urgent need for more rate moves this year.
@@ -247,3 +227,12 @@
 - 10/02 16:25 [FirstSquawk] JP MORGAN LOWERS NIKE'S TARGET PRICE FROM $40 TO $33.
 - 10/02 16:25 [FirstSquawk] ENI ANNOUNCED A 20% PRICE CUT ON DIESEL AND GASOLINE FOR AGRICULTURAL AND FISHING SECTORS STARTING TODAY UNTIL THE END OF OCTOBER, WITH POTENTIAL EXTENSION THROUGH YEAR-END.
 - 10/02 16:25 [FirstSquawk] UKRAINE'S FARM MINISTER SAYS WINTER WHEAT SOWING FOR 2027 HARVEST MAY DROP BY 17%.
+- 10/02 16:30 [financialjuice] ECB's Rehn: Higher energy prices bring us closer to the ECB's adverse scenario for inflation
+- 10/02 16:30 [financialjuice] ECB's Rehn: ECB projections subject to very high, pervasive uncertainty
+- 10/02 16:30 [financialjuice] ECB's Rehn: Rise in long-term interest rates will slow growth and reduce the pass-through of energy shock to prices, wages
+- 10/02 16:30 [financialjuice] ECB's Rehn: One uncertainty is possibility of a sudden reversal in market sentiment towards AI.
+- 10/02 16:32 [FirstSquawk] ECB'S REHN STATES THAT RISING ENERGY COSTS PUSH US NEAR THE ECB'S NEGATIVE INFLATION OUTLOOK.
+- 10/02 16:32 [FirstSquawk] ECB'S REHN SAYS ECB PROJECTIONS FACE GREAT UNCERTAINTY.
+- 10/02 16:32 [FirstSquawk] ECB'S REHN SAYS LONG-TERM INTEREST RATES RISE WILL SLOW GROWTH AND WEAKEN ENERGY PRICE AND WAGE IMPACT.
+- 10/02 16:32 [FirstSquawk] ECB'S REHN NOTES UNCERTAINTY ABOUT A POSSIBLE SWIFT CHANGE IN MARKET ATTITUDE TOWARD AI.
+- 10/02 16:38 [FirstSquawk] REHN SAYS ECB FORECASTS SUBJECT TO ‘VERY HIGH' UNCERTAINTY
