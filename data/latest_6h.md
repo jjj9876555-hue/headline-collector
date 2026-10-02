@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-02 17:24 JST／対象: 10/02 11:24 〜 10/02 17:24 JST（時刻はすべて日本時間）
+生成: 2026-10-02 17:46 JST／対象: 10/02 11:46 〜 10/02 17:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 62 | 10/02 11:30 | 10/02 17:15 | 30分（14:50→15:21） |
-| financialjuice | 42 | 10/02 11:33 | 10/02 17:20 | ⚠ 49分（11:35→12:24） |
+| FirstSquawk | 57 | 10/02 11:53 | 10/02 17:15 | 30分（14:50→15:21） |
+| financialjuice | 41 | 10/02 12:24 | 10/02 17:32 | 44分（14:43→15:27） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 103 行（統合前 104 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 97 行（統合前 98 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 11:30 [FirstSquawk] Seoul Stocks Open Lower Despite Gains on Wall Street
-- 10/02 11:33 [financialjuice] Japan economy minister Kiuchi: Japan is no longer in deflation, no need for overly loose monetary policy favoring higher inflation
-- 10/02 11:33 [FirstSquawk] Japan Economy Minister Kiuchi: Japan No Longer in Deflation, Excessively Loose Policy No Longer Needed
-- 10/02 11:34 [financialjuice] Japan economy minister Kiuchi: Takaichi administration’s approach differs from reflation policy aimed at ending Japan’s deflation
-- 10/02 11:35 [FirstSquawk] Kiuchi: Takaichi Administration Policy Differs From Policy Aimed at Ending Deflation
-- 10/02 11:35 [financialjuice] Japan economy minister Kiuchi: Takaichi administration's strategy differs from Abenomics by targeting both robust economy and fiscal discipline, emphasizing supply capacity enhancement
-- 10/02 11:36 [FirstSquawk] Japan Economy Minister Kiuchi: Takaichi Administration Balances Economic Growth With Fiscal Discipline
-- 10/02 11:46 [FirstSquawk] Euro weakens below 1.1250 amid fiscal concerns, US NFP data in focus - FX
 - 10/02 11:53 [FirstSquawk] Piper Sandler Lowers Nike Price Target to $28 From $38
 - 10/02 12:00 [FirstSquawk] Samsung Heavy Secures 672.2 Billion-Won Order for Two LNG Carriers
 - 10/02 12:01 [FirstSquawk] US DOJ: Government Employee Arrested for Allegedly Providing Support to Houthis
@@ -127,3 +119,5 @@
 - 10/02 17:15 [FirstSquawk] US STOCK INDEX FUTURES RISE TO SESSION HIGH.
 - 10/02 17:16 [financialjuice] Moody's on France: ability of France's institutions to address key policy challenges despite political fragmentation is crucial for resolving negative outlook
 - 10/02 17:20 [financialjuice] Moody's on France: It is far from certain a compromise can be reached on the 2027 budget as the proximity of next spring's elections risks hardening political positions.
+- 10/02 17:31 [financialjuice] UK September decision maker year-ahead CPI expectations 3.3%.
+- 10/02 17:32 [financialjuice] Bank of England Decision Maker Panel: Firms year-ahead expected wage growth unchanged at 3.4% in the three months to September.

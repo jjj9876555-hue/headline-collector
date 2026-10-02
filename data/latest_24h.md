@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-02 17:24 JST／対象: 10/01 17:24 〜 10/02 17:24 JST（時刻はすべて日本時間）
+生成: 2026-10-02 17:46 JST／対象: 10/01 17:46 〜 10/02 17:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 88 | 10/01 17:24 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
-| FirstSquawk | 310 | 10/01 17:28 | 10/02 17:15 | ⚠ 112分（06:24→08:16） |
-| financialjuice | 383 | 10/01 17:28 | 10/02 17:20 | ⚠ 79分（06:41→08:00） |
+| DeItaone | 86 | 10/01 17:52 | 10/02 05:19 | ⚠ 102分（23:19→01:02） |
+| FirstSquawk | 303 | 10/01 17:58 | 10/02 17:15 | ⚠ 112分（06:24→08:16） |
+| financialjuice | 382 | 10/01 17:57 | 10/02 17:32 | ⚠ 79分（06:41→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 742 行（統合前 787 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 732 行（統合前 777 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/01 17:24 [DeItaone] *BIROL SAYS DIESEL SITUATION IS VERY TIGHT IN EUROPE AND BEYOND
-- 10/01 17:28 [FirstSquawk] TAKAICHI: SIGNS OF ECONOMIC CHANGE AT CRITICAL JUNCTURE
-- 10/01 17:28 [financialjuice] Japan's PM Takaichi: Signs of economic change at critical juncture.
-- 10/01 17:29 [DeItaone] CBOE VOLATILITY INDEX HITS OVER TWO-WEEK HIGH; LAST UP 0.5 POINTS AT 16.86
-- 10/01 17:30 [financialjuice] ‼ BREAKING: UK MANUFACTURING PMI FINAL ACTUAL 51.9 (FORECAST 52, PREVIOUS 52.0) $MACRO
-- 10/01 17:30 [financialjuice] Japan's PM Takaichi: Domestic investment vital for higher potential growth.
-- 10/01 17:30 [FirstSquawk] UK MANUFACTURING PMI FINAL COMES IN AT 51.9, BELOW ESTIMATE OF 52 AND LAST MONTH'S 52.0.
-- 10/01 17:31 [FirstSquawk] JAPAN'S PRIME MINISTER TAKAICHI SAYS LOCAL INVESTMENT IS CRUCIAL FOR BOOSTING GROWTH POTENTIAL.
-- 10/01 17:33 [FirstSquawk] TAKAICHI ASKED KIUCHI TO SPECIFY THE INVESTMENT TIMEFRAME AND DETAILS.
-- 10/01 17:33 [FirstSquawk] TAKAICHI WILL NEED MORE TIME TO ENSURE LONG-LASTING REAL WAGE INCREASES.
-- 10/01 17:39 [FirstSquawk] ZELENSKYY ANNOUNCES UKRAINE ATTACKED AN OIL FACILITY IN RUSSIA'S SAMARA REGION.
-- 10/01 17:39 [FirstSquawk] UK GOVERNMENT RENEWS £190M CONTRACT WITH AIRBUS TO ASSIST RAF FLEET.
 - 10/01 17:52 [DeItaone] U.K. 30-YEAR GILT HIT 6.029%, HIGHEST SINCE 1998: LSEG
 - 10/01 17:57 [financialjuice] FRENCH 10 YR OAT YIELD ACTUAL 4.93% (FORECAST -, PREVIOUS 4.23%) $MACRO
 - 10/01 17:57 [financialjuice] FRENCH 10 YR OAT BID-TO-COVER ACTUAL 2 (FORECAST -, PREVIOUS 2.28) $MACRO
@@ -766,3 +754,5 @@
 - 10/02 17:15 [FirstSquawk] US STOCK INDEX FUTURES RISE TO SESSION HIGH.
 - 10/02 17:16 [financialjuice] Moody's on France: ability of France's institutions to address key policy challenges despite political fragmentation is crucial for resolving negative outlook
 - 10/02 17:20 [financialjuice] Moody's on France: It is far from certain a compromise can be reached on the 2027 budget as the proximity of next spring's elections risks hardening political positions.
+- 10/02 17:31 [financialjuice] UK September decision maker year-ahead CPI expectations 3.3%.
+- 10/02 17:32 [financialjuice] Bank of England Decision Maker Panel: Firms year-ahead expected wage growth unchanged at 3.4% in the three months to September.
