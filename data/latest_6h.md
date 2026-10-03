@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-03 10:04 JST／対象: 10/03 04:04 〜 10/03 10:04 JST（時刻はすべて日本時間）
+生成: 2026-10-03 10:25 JST／対象: 10/03 04:25 〜 10/03 10:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 10/03 05:00 | 10/03 05:04 | 4分（05:00→05:04） |
-| FirstSquawk | 47 | 10/03 04:04 | 10/03 10:03 | ⚠ 240分（05:02→09:03） |
-| financialjuice | 48 | 10/03 04:04 | 10/03 09:17 | ⚠ 71分（05:20→06:32） |
+| FirstSquawk | 43 | 10/03 04:36 | 10/03 10:22 | ⚠ 240分（05:02→09:03） |
+| financialjuice | 42 | 10/03 04:27 | 10/03 10:11 | ⚠ 71分（05:20→06:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 96 行（統合前 99 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 86 行（統合前 89 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/03 04:04 [FirstSquawk] PETROBRAS CEO: FOZ DO AMAZONAS OIL SOME OF BEST IN BRAZIL
-- 10/03 04:04 [FirstSquawk] OPENAI HIRES TOP TRUMP AI OFFICIAL TO WORK ON NATIONAL SECURITY – THE INFORMATION
-- 10/03 04:04 [FirstSquawk] HACKERS INVADED THE PROPULSION SYSTEM OF AN OIL TANKER HEADING TO THE U.S.
-- 10/03 04:04 [financialjuice] OpenAI hires ex Trump AI official Lind - The Information
-- 10/03 04:06 [FirstSquawk] MORE REGULATORY PROPOSALS FOR CRYPTO ON THE HORIZON: SEC ATKINS
-- 10/03 04:06 [FirstSquawk] FED'S GOOLSBEE SAYS INFLATION GOING WRONG WAY AND STALLED THERE
-- 10/03 04:07 [financialjuice] Fed's Goolsbee: Inflation going the wrong way and stalled there - Fox Business
-- 10/03 04:07 [financialjuice] Council of Economic Advisers Chair Phelan: Inflation is coming down sufficiently fast
-- 10/03 04:08 [financialjuice] Council of Economic Advisers Chair Phelan ends remarks on Bloomberg TV
-- 10/03 04:08 [financialjuice] Fed's Goolsbee: Low progress on services inflation could be a sign of spread
-- 10/03 04:11 [FirstSquawk] GOOLSBEE: LOW PROGRESS ON SERVICES INFL COULD BE SIGN OF SPREAD
-- 10/03 04:14 [financialjuice] US community Bank Organization sues the Office of the Comptroller of the currency over granting trust charters to Crypto firms - Statement
-- 10/03 04:14 [FirstSquawk] BAYER TO INVEST $2.2 BILLION IN NEW US DRUG PLANT IN OHIO
-- 10/03 04:14 [financialjuice] Independent community Bankers of America: Granting charters to such firms exceeds regulatory authority
-- 10/03 04:15 [financialjuice] US to offer $4 billion loan for vistra to boost nuclear output
-- 10/03 04:22 [financialjuice] Monday FX Options Expiries
-- 10/03 04:24 [FirstSquawk] ELI LILLY'S JAYPIRCA GETS FDA OK FOR PREVIOUSLY UNTREATED CLL/SLL
 - 10/03 04:27 [financialjuice] Week Ahead: Economic Indicators 5th – 9th October (US)
 - 10/03 04:31 [financialjuice] CFTC Positions in the Week Ended September 29th, 2026
 - 10/03 04:35 [financialjuice] ECB's Nagel: Possible that the German economy will grow around 1% this year
@@ -120,3 +103,10 @@
 - 10/03 09:53 [FirstSquawk] South Korea says North Korea fired ballistic missile from Wonsan
 - 10/03 09:54 [FirstSquawk] South Korean military says North Korea’s projectile was a ballistic missile
 - 10/03 10:03 [FirstSquawk] OPenAI’s Altman says company has deep engagement with Cerebras after partnership speculation
+- 10/03 10:04 [FirstSquawk] Vietnam September coffee exports increase 16.2% from a year earlier
+- 10/03 10:06 [financialjuice] Japan finance minister Katayama: US and Japan agree to remain ready for decisive measures against forex volatility
+- 10/03 10:06 [financialjuice] Japan finance minister Katayama: forex trend shifted somewhat since joint currency intervention
+- 10/03 10:11 [financialjuice] Japan finance minister Katayama: Bessent questions if Japan government has been sending consistent messages to markets
+- 10/03 10:13 [FirstSquawk] One injured by shrapnel from intercepted ballistic missile in Asir, Saudi civil defense says
+- 10/03 10:13 [FirstSquawk] Unplanned flare event reported at Marathon’s Wilmington refinery in California
+- 10/03 10:22 [FirstSquawk] Five killed in Gaza City apartment strike as death toll rises

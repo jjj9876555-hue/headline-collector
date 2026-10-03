@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-03 10:04 JST／対象: 10/02 10:04 〜 10/03 10:04 JST（時刻はすべて日本時間）
+生成: 2026-10-03 10:25 JST／対象: 10/02 10:25 〜 10/03 10:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 63 | 10/02 17:55 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
-| FirstSquawk | 245 | 10/02 10:16 | 10/03 10:03 | ⚠ 240分（05:02→09:03） |
-| financialjuice | 232 | 10/02 10:37 | 10/03 09:17 | ⚠ 71分（05:20→06:32） |
+| FirstSquawk | 239 | 10/02 10:26 | 10/03 10:22 | ⚠ 240分（05:02→09:03） |
+| financialjuice | 235 | 10/02 10:37 | 10/03 10:11 | ⚠ 71分（05:20→06:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 525 行（統合前 542 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 522 行（統合前 539 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 10:16 [FirstSquawk] Gold Slips 1% to $4,138.04 per Ounce
-- 10/02 10:17 [FirstSquawk] Taiwan Overnight Interbank Rate Starts at 0.805%, Flat on Previous Open
-- 10/02 10:18 [FirstSquawk] Ukrainian Drones Target Industrial Facilities in Volgograd, Russian Governor Says
-- 10/02 10:19 [FirstSquawk] South Korea Finance Minister: Markets to Be Closely Monitored, Pre-Emptive Action if Needed
-- 10/02 10:19 [FirstSquawk] 5-Year JGB Yield Slides to 2.350%, Down 3 Bps
-- 10/02 10:20 [FirstSquawk] Saudi Coalition Intercepts and Destroys Houthi-Launched Ballistic Missile, Says Coalition
-- 10/02 10:20 [FirstSquawk] Japan Plans ¥3.5 Trillion Treasury Discount Bill Offering
-- 10/02 10:21 [FirstSquawk] Japan’s 20-Year JGB Yield Edges Up 0.5 Bps to 3.945%
-- 10/02 10:22 [FirstSquawk] 30-Year JGB Yield Advances to 4.185%, Up 1.5 Bps
-- 10/02 10:23 [FirstSquawk] Tencent Stock Set for 2.1% Lower Open
 - 10/02 10:26 [FirstSquawk] Trump Asked Grok About Venezuelan Reaction to Maduro Capture Before US Invasion, TechCrunch Reports
 - 10/02 10:34 [FirstSquawk] Xiaomi Stock Drops More Than 5%
 - 10/02 10:34 [FirstSquawk] Taiwan Banks Asked to Reduce Branches Amid Rising Office Rents
@@ -549,3 +539,10 @@
 - 10/03 09:53 [FirstSquawk] South Korea says North Korea fired ballistic missile from Wonsan
 - 10/03 09:54 [FirstSquawk] South Korean military says North Korea’s projectile was a ballistic missile
 - 10/03 10:03 [FirstSquawk] OPenAI’s Altman says company has deep engagement with Cerebras after partnership speculation
+- 10/03 10:04 [FirstSquawk] Vietnam September coffee exports increase 16.2% from a year earlier
+- 10/03 10:06 [financialjuice] Japan finance minister Katayama: US and Japan agree to remain ready for decisive measures against forex volatility
+- 10/03 10:06 [financialjuice] Japan finance minister Katayama: forex trend shifted somewhat since joint currency intervention
+- 10/03 10:11 [financialjuice] Japan finance minister Katayama: Bessent questions if Japan government has been sending consistent messages to markets
+- 10/03 10:13 [FirstSquawk] One injured by shrapnel from intercepted ballistic missile in Asir, Saudi civil defense says
+- 10/03 10:13 [FirstSquawk] Unplanned flare event reported at Marathon’s Wilmington refinery in California
+- 10/03 10:22 [FirstSquawk] Five killed in Gaza City apartment strike as death toll rises

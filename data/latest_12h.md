@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-03 10:04 JST／対象: 10/02 22:04 〜 10/03 10:04 JST（時刻はすべて日本時間）
+生成: 2026-10-03 10:25 JST／対象: 10/02 22:25 〜 10/03 10:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 18 | 10/02 22:06 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
-| FirstSquawk | 114 | 10/02 22:09 | 10/03 10:03 | ⚠ 240分（05:02→09:03） |
-| financialjuice | 117 | 10/02 22:18 | 10/03 09:17 | ⚠ 71分（05:20→06:32） |
+| DeItaone | 16 | 10/02 22:34 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
+| FirstSquawk | 110 | 10/02 22:27 | 10/03 10:22 | ⚠ 240分（05:02→09:03） |
+| financialjuice | 116 | 10/02 22:27 | 10/03 10:11 | ⚠ 71分（05:20→06:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 240 行（統合前 251 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 234 行（統合前 244 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 22:06 [DeItaone] *EU AMBASSADORS TO MEET THIS AFTERNOON TO DISCUSS DIESEL MARKET
-- 10/02 22:09 [FirstSquawk] NVIDIA RELEASES DGX SPARK 64GB CONFIGURATION THIS MONTH WITH THE ABILITY TO HANDLE 100-BILLION-PARAMETER MODELS. IT WILL BE AVAILABLE ON OCTOBER 23 STARTING AT $4,999 THROUGH KEY PARTNERS.
-- 10/02 22:18 [financialjuice] WH Sr. Adviser Hassett: I am not disappointed in jobs report.
-- 10/02 22:19 [financialjuice/FirstSquawk] WH Sr. Adviser Hassett: Government employment down, everything else is up
-- 10/02 22:20 [FirstSquawk] FORD'S Q3 US VEHICLE SALES REACHED 509,764, DECREASING BY 6.6% YEAR-OVER-YEAR.
-- 10/02 22:20 [FirstSquawk] FORD'S ELECTRIC VEHICLE SALES DROPPED BY 80.2% IN Q3, REACHING ONLY 6,047 UNITS SOLD.
-- 10/02 22:20 [FirstSquawk] FORD'S US HYBRID VEHICLE SALES DROPPED BY 19.7% IN Q3 TO 44,308 UNITS.
-- 10/02 22:20 [FirstSquawk] FORD BELIEVES THE FINANCIAL EFFECT OF A SUPPLIER ISSUE IMPACTING F-150 TRUCK PRODUCTION IS MANAGEABLE WITHIN THIS YEAR'S ADJUSTED EBIT GUIDANCE.
-- 10/02 22:20 [FirstSquawk] WH SR. ADVISER HASSETT: I AM SATISFIED WITH THE JOBS REPORT.
-- 10/02 22:21 [financialjuice] WH Sr. Adviser Hassett: GDP still hovering around 4%.
-- 10/02 22:21 [FirstSquawk] HASSETT STATES THAT GDP REMAINS AROUND 4%.
-- 10/02 22:23 [financialjuice] WH Sr. Adviser Hassett, on diesel: We have been talking with Europe
-- 10/02 22:24 [DeItaone] *HASSETT ON DIESEL: WE HAVE BEEN TALKING WITH EUROPE *HASSETT ON DIESEL: EUROPE RELEASE WOULD HAVE MASSIVE IMPACT *HASSETT ON DIESEL: HOPEFUL TO HAVE NEWS ON THAT SOMETIME SOON
 - 10/02 22:27 [financialjuice] WH Sr. Adviser Hassett on Diesel: I am hopeful to have news on that sometime soon.
 - 10/02 22:27 [FirstSquawk] HASSETT EXPRESSES OPTIMISM ABOUT POTENTIAL DIESEL NEWS COMING SOON.
 - 10/02 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -68.9 MLN NASDAQ 100: -40.8 MLN DOW 30: -21.0 MLN MAG 7: -53.3 MLN $MACRO
@@ -264,3 +251,10 @@
 - 10/03 09:53 [FirstSquawk] South Korea says North Korea fired ballistic missile from Wonsan
 - 10/03 09:54 [FirstSquawk] South Korean military says North Korea’s projectile was a ballistic missile
 - 10/03 10:03 [FirstSquawk] OPenAI’s Altman says company has deep engagement with Cerebras after partnership speculation
+- 10/03 10:04 [FirstSquawk] Vietnam September coffee exports increase 16.2% from a year earlier
+- 10/03 10:06 [financialjuice] Japan finance minister Katayama: US and Japan agree to remain ready for decisive measures against forex volatility
+- 10/03 10:06 [financialjuice] Japan finance minister Katayama: forex trend shifted somewhat since joint currency intervention
+- 10/03 10:11 [financialjuice] Japan finance minister Katayama: Bessent questions if Japan government has been sending consistent messages to markets
+- 10/03 10:13 [FirstSquawk] One injured by shrapnel from intercepted ballistic missile in Asir, Saudi civil defense says
+- 10/03 10:13 [FirstSquawk] Unplanned flare event reported at Marathon’s Wilmington refinery in California
+- 10/03 10:22 [FirstSquawk] Five killed in Gaza City apartment strike as death toll rises
