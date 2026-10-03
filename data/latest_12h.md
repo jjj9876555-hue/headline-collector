@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-03 15:03 JST／対象: 10/03 03:03 〜 10/03 15:03 JST（時刻はすべて日本時間）
+生成: 2026-10-03 15:33 JST／対象: 10/03 03:33 〜 10/03 15:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 10/03 05:00 | 10/03 05:04 | 4分（05:00→05:04） |
-| FirstSquawk | 120 | 10/03 03:25 | 10/03 14:58 | ⚠ 240分（05:02→09:03） |
-| financialjuice | 67 | 10/03 03:31 | 10/03 13:18 | ⚠ 71分（05:20→06:32） |
+| FirstSquawk | 126 | 10/03 03:36 | 10/03 15:28 | ⚠ 240分（05:02→09:03） |
+| financialjuice | 65 | 10/03 03:53 | 10/03 15:28 | ⚠ 119分（13:18→15:17） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 187 行（統合前 191 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 191 行（統合前 195 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/03 03:25 [FirstSquawk] JOINT US-UKRAINE INVESTMENT FUND SEALS FIRST CRITICAL MINERALS DEAL - US OFFICIAL
-- 10/03 03:31 [financialjuice] NYMEX WTI Crude November futures settle at $91.11 a barrel, down $1.76, 1.9%.
-- 10/03 03:31 [FirstSquawk] U.S. CRUDE OIL FUTURES SETTLE AT $91.11/BBL, DOWN $1.76, 1.90 PCT
-- 10/03 03:31 [financialjuice] NYMEX Gasoline November futures settle at $3.3124 a gallon.
-- 10/03 03:31 [financialjuice] NYMEX Diesel November futures settle at $4.5011 a gallon.
-- 10/03 03:32 [financialjuice] NYMEX Natural Gas November futures settle at $3.0350/MMBtu.
 - 10/03 03:36 [FirstSquawk] RODRIGUEZ:VENEZUELA MAKES PROGRESS ON PUBLIC, PRIVATE FINANCING
 - 10/03 03:38 [FirstSquawk] FAA DETERMINES 737 MAX SOFTWARE GLITCH DOESN’T POSE SAFETY ISSUE - WSJ
 - 10/03 03:53 [financialjuice] Brent Crude futures settle at $102.25/bbl, down 6 cents, 0.06%.
@@ -211,3 +205,13 @@
 - 10/03 14:45 [FirstSquawk] China investigates p-nitrotoluene imports from EU in anti-dumping case
 - 10/03 14:51 [FirstSquawk] Russia’s Defense Ministry: Main bridge in Kyiv targeted in strike
 - 10/03 14:58 [FirstSquawk] Malaysia seeks to build new research corridor across Asia as China rises - SCMP
+- 10/03 15:17 [financialjuice] flydubai: circumstances around incident still under investigation, not able to comment further - spokesperson
+- 10/03 15:25 [FirstSquawk] Flydubai spokesperson: The circumstances surrounding the incident are still under investigation
+- 10/03 15:26 [FirstSquawk] Attorney General of the UAE: The final results of the investigations will be announced immediately upon completion of the necessary procedures.
+- 10/03 15:26 [FirstSquawk] China's exoskeleton robots muscle into the consumer mainstream Appliance makers and startups race into a nascent market as devices move beyond medical usage
+- 10/03 15:27 [FirstSquawk] Iran’s Council for Coordinating Nurses’ Protests blamed health authorities, describing them as a “mafia,” for a recent wave of protests and resignations, saying workplace pressure, financial hardship and unequal treatment had driven nurses …
+- 10/03 15:27 [FirstSquawk] Latvian PM Andris Kulbergs' party is expected to win parliamentary elections in a Baltic country with the biggest Russian minority
+- 10/03 15:27 [FirstSquawk] Russian forces launched a combined ballistic missile and drone attack on Kyiv early on Saturday, killing one person and injuring two others. Falling debris ignited fires across several districts as air defenses engaged targets.
+- 10/03 15:28 [FirstSquawk] Open-weight AI models are more vulnerable to manipulation and can lack oversight.
+- 10/03 15:28 [FirstSquawk] Boeing Dodges Strike That Could Have Hit 737 MAX 10, 777X Certification — Engineers' Union Approves New Deal.
+- 10/03 15:28 [financialjuice] Co-pilot in Flydubai incident is Hammam al-Hammami, Omani national: source with direct knowledge

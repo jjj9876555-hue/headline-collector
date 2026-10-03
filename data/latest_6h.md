@@ -7,41 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-03 15:03 JST／対象: 10/03 09:03 〜 10/03 15:03 JST（時刻はすべて日本時間）
+生成: 2026-10-03 15:33 JST／対象: 10/03 09:33 〜 10/03 15:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 98 | 10/03 09:04 | 10/03 14:58 | ⚠ 75分（10:22→11:37） |
-| financialjuice | 14 | 10/03 09:03 | 10/03 13:18 | ⚠ 56分（10:26→11:22） |
+| FirstSquawk | 90 | 10/03 09:38 | 10/03 15:28 | ⚠ 75分（10:22→11:37） |
+| financialjuice | 14 | 10/03 10:06 | 10/03 15:28 | ⚠ 119分（13:18→15:17） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 111 行（統合前 112 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 103 行（統合前 104 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/03 09:03 [financialjuice] North Korean missile flew over 700 kilometers: South Korean military
-- 10/03 09:04 [FirstSquawk] Trump: Iran war will end soon, either through deal or military action
-- 10/03 09:04 [FirstSquawk] Trump: Iran’s military capabilities have been eliminated
-- 10/03 09:05 [FirstSquawk] Trump: Current action costs much less than allowing Iran to obtain a nuclear weapon
-- 10/03 09:07 [FirstSquawk] Trump says Iran will never be allowed to obtain a nuclear weapon
-- 10/03 09:07 [FirstSquawk] Trump policy changes expected to increase U.S. household energy bills: Think tank
-- 10/03 09:08 [FirstSquawk] Trump says U.S. exports have hit record levels
-- 10/03 09:09 [FirstSquawk] UKMTO: Crude oil tanker hit by unknown projectile off Oman
-- 10/03 09:13 [FirstSquawk] Trump explains Alabama, Oklahoma and Texas stops ahead of midterms
-- 10/03 09:14 [FirstSquawk] Japan’s TEPCO takes aim at ‘capacity squatters’ in AI data center expansion - NA
-- 10/03 09:15 [FirstSquawk] Iraq: 40 Iranian flights per day cleared to fly to and from Najaf
-- 10/03 09:17 [FirstSquawk] Oil tanker attack off Oman leaves no injuries or environmental damage: UK Maritime Authority
-- 10/03 09:17 [financialjuice] Trump: we're going to soon replenish our strategic oil reserves
-- 10/03 09:19 [FirstSquawk] TSMC affiliate VIS eyes new Singapore plant after first facility fills up instantly
-- 10/03 09:20 [FirstSquawk] 3.North Korea fires ballistic missile, South Korea says
-- 10/03 09:23 [FirstSquawk] Warplanes target Houthi gatherings east of Taiz, Yemeni Armed Forces say
-- 10/03 09:25 [FirstSquawk] Israeli airstrike on residential apartment in Gaza City kills at least 3: Al Arabiya
-- 10/03 09:26 [FirstSquawk] Ukraine to accelerate identification of fallen Ukrainians, Budanov says
 - 10/03 09:38 [FirstSquawk] 3.Palestinian media reports injuries after Israeli airstrike hits Gaza City apartment
 - 10/03 09:39 [FirstSquawk] 4.Saudi Civil Defense reports injury, mosque damage from Houthi missile fragments in Ahad Rafidah
 - 10/03 09:47 [FirstSquawk] Japan sharply raises residency fees, with stricter income and language rules looming
@@ -135,3 +117,13 @@
 - 10/03 14:45 [FirstSquawk] China investigates p-nitrotoluene imports from EU in anti-dumping case
 - 10/03 14:51 [FirstSquawk] Russia’s Defense Ministry: Main bridge in Kyiv targeted in strike
 - 10/03 14:58 [FirstSquawk] Malaysia seeks to build new research corridor across Asia as China rises - SCMP
+- 10/03 15:17 [financialjuice] flydubai: circumstances around incident still under investigation, not able to comment further - spokesperson
+- 10/03 15:25 [FirstSquawk] Flydubai spokesperson: The circumstances surrounding the incident are still under investigation
+- 10/03 15:26 [FirstSquawk] Attorney General of the UAE: The final results of the investigations will be announced immediately upon completion of the necessary procedures.
+- 10/03 15:26 [FirstSquawk] China's exoskeleton robots muscle into the consumer mainstream Appliance makers and startups race into a nascent market as devices move beyond medical usage
+- 10/03 15:27 [FirstSquawk] Iran’s Council for Coordinating Nurses’ Protests blamed health authorities, describing them as a “mafia,” for a recent wave of protests and resignations, saying workplace pressure, financial hardship and unequal treatment had driven nurses …
+- 10/03 15:27 [FirstSquawk] Latvian PM Andris Kulbergs' party is expected to win parliamentary elections in a Baltic country with the biggest Russian minority
+- 10/03 15:27 [FirstSquawk] Russian forces launched a combined ballistic missile and drone attack on Kyiv early on Saturday, killing one person and injuring two others. Falling debris ignited fires across several districts as air defenses engaged targets.
+- 10/03 15:28 [FirstSquawk] Open-weight AI models are more vulnerable to manipulation and can lack oversight.
+- 10/03 15:28 [FirstSquawk] Boeing Dodges Strike That Could Have Hit 737 MAX 10, 777X Certification — Engineers' Union Approves New Deal.
+- 10/03 15:28 [financialjuice] Co-pilot in Flydubai incident is Hammam al-Hammami, Omani national: source with direct knowledge
