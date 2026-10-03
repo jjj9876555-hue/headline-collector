@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-03 12:11 JST／対象: 10/03 06:11 〜 10/03 12:11 JST（時刻はすべて日本時間）
+生成: 2026-10-03 12:37 JST／対象: 10/03 06:37 〜 10/03 12:37 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 60 | 10/03 09:03 | 10/03 12:11 | ⚠ 75分（10:22→11:37） |
-| financialjuice | 25 | 10/03 06:32 | 10/03 12:05 | ⚠ 56分（10:26→11:22） |
+| FirstSquawk | 65 | 10/03 09:03 | 10/03 12:33 | ⚠ 75分（10:22→11:37） |
+| financialjuice | 25 | 10/03 06:41 | 10/03 12:12 | ⚠ 56分（10:26→11:22） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 84 行（統合前 85 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 89 行（統合前 90 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/03 06:32 [financialjuice] Columbia University journalism program pauses admissions after applications fall over US visa rules: sources
 - 10/03 06:41 [financialjuice] North Korea launches unidentified projectile into sea off east coast: South Korea military
 - 10/03 07:01 [financialjuice] North Korean missile seems to have landed beyond Japan's EEZ: NHK
 - 10/03 07:03 [financialjuice] IMF: executive board endorses 36-month extended fund facility for Bolivia
@@ -108,3 +107,9 @@
 - 10/03 12:09 [FirstSquawk] Trump: Using fund and most-favored-nations deals to substantially cut costs for seniors
 - 10/03 12:10 [FirstSquawk] Trump says every U.S. citizen would receive $5,000 dividend if Republicans win midterms
 - 10/03 12:11 [FirstSquawk] Japan finance minister says forex trend has changed somewhat since intervention
+- 10/03 12:12 [financialjuice] North Korea slams UN secretary general human rights report - KCNA
+- 10/03 12:21 [FirstSquawk] AI demand lifts Japan’s hard-drive suppliers after years of decline
+- 10/03 12:22 [FirstSquawk] Roadblocks deployed in Islamabad to restrict movement of Imran Khan supporters
+- 10/03 12:31 [FirstSquawk] China investigates EU p-nitrotoluene imports in new anti-dumping case - RTRS
+- 10/03 12:33 [FirstSquawk] Trump says diesel export ban was not under serious consideration
+- 10/03 12:33 [FirstSquawk] CME Group drops filing for 10-barrel oil futures

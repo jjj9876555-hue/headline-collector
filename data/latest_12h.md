@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-03 12:11 JST／対象: 10/03 00:11 〜 10/03 12:11 JST（時刻はすべて日本時間）
+生成: 2026-10-03 12:37 JST／対象: 10/03 00:37 〜 10/03 12:37 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 5 | 10/03 00:28 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
-| FirstSquawk | 104 | 10/03 00:15 | 10/03 12:11 | ⚠ 240分（05:02→09:03） |
-| financialjuice | 88 | 10/03 00:20 | 10/03 12:05 | ⚠ 71分（05:20→06:32） |
+| DeItaone | 4 | 10/03 02:33 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
+| FirstSquawk | 104 | 10/03 00:44 | 10/03 12:33 | ⚠ 240分（05:02→09:03） |
+| financialjuice | 88 | 10/03 00:37 | 10/03 12:12 | ⚠ 71分（05:20→06:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 189 行（統合前 198 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 189 行（統合前 197 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/03 00:15 [FirstSquawk] PENTAGON ISSUES MEMO TO CUT DELAYS IN COUNTER-DRONE SYSTEM USE
-- 10/03 00:15 [FirstSquawk] PFIZER'S LITFULO MEETS CO-PRIMARY ENDPOINTS IN VITILIGO
-- 10/03 00:20 [financialjuice] News sources reported that several powerful explosions were heard in Riyadh, the capital of Saudi Arabia - Tasnim News
-- 10/03 00:22 [FirstSquawk] SEVERAL LOUD EXPLOSIONS IN RIYADH, THE CAPITAL OF SAUDI ARABIA - TASNIM
-- 10/03 00:26 [FirstSquawk/DeItaone] SPOT GOLD FALLS NEARLY 1% TO $4,137.85/OZ
-- 10/03 00:31 [FirstSquawk] IRAQ SAYS IRANIAN AIRLINES ALLOWED 40 DAILY FLIGHTS TO NAJAF, EXCEPT MAHAN AIR
 - 10/03 00:37 [financialjuice] China trade envoy tells G20 willing to talk on industry policy.
 - 10/03 00:44 [FirstSquawk] CHINA CHIEF TRADE NEGOTIATOR LI CHENGGANG: TELLS G20 CHINA ARE WILLING TO TALK ON INDUSTRY POLICY
 - 10/03 00:44 [financialjuice/FirstSquawk] UKMTO: Tanker has reported being struck by an unknown projectile, whilst conducting an outbound transit within Strait of Hormuz
@@ -213,3 +207,9 @@
 - 10/03 12:09 [FirstSquawk] Trump: Using fund and most-favored-nations deals to substantially cut costs for seniors
 - 10/03 12:10 [FirstSquawk] Trump says every U.S. citizen would receive $5,000 dividend if Republicans win midterms
 - 10/03 12:11 [FirstSquawk] Japan finance minister says forex trend has changed somewhat since intervention
+- 10/03 12:12 [financialjuice] North Korea slams UN secretary general human rights report - KCNA
+- 10/03 12:21 [FirstSquawk] AI demand lifts Japan’s hard-drive suppliers after years of decline
+- 10/03 12:22 [FirstSquawk] Roadblocks deployed in Islamabad to restrict movement of Imran Khan supporters
+- 10/03 12:31 [FirstSquawk] China investigates EU p-nitrotoluene imports in new anti-dumping case - RTRS
+- 10/03 12:33 [FirstSquawk] Trump says diesel export ban was not under serious consideration
+- 10/03 12:33 [FirstSquawk] CME Group drops filing for 10-barrel oil futures
