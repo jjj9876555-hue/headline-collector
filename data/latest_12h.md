@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-03 19:25 JST／対象: 10/03 07:25 〜 10/03 19:25 JST（時刻はすべて日本時間）
+生成: 2026-10-03 20:04 JST／対象: 10/03 08:04 〜 10/03 20:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 137 | 10/03 09:03 | 10/03 19:13 | ⚠ 75分（10:22→11:37） |
-| financialjuice | 32 | 10/03 07:42 | 10/03 19:07 | ⚠ 119分（13:18→15:17） |
+| FirstSquawk | 147 | 10/03 09:03 | 10/03 19:53 | ⚠ 75分（10:22→11:37） |
+| financialjuice | 30 | 10/03 08:16 | 10/03 19:30 | ⚠ 119分（13:18→15:17） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 168 行（統合前 169 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 174 行（統合前 177 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/03 07:42 [financialjuice] North Korea's projectile was ballistic missile: South Korean military
-- 10/03 07:43 [financialjuice] North Korea launches ballistic missile from Wonsan: South Korean military
-- 10/03 07:43 [financialjuice] South Korean military heightens alert on additional launches: South Korea's defense ministry
 - 10/03 08:16 [financialjuice] Ukmto: incident reported 4 nautical miles east of Oman
 - 10/03 08:17 [financialjuice] UKMTO: master of crude oil tanker reports being hit by unknown projectile on port side
 - 10/03 08:17 [financialjuice] UKMTO: all crew reported safe with no environmental impact so far
@@ -187,8 +184,17 @@
 - 10/03 18:48 [FirstSquawk] Yemeni government forces: We repelled Houthi militia attacks on Jabal Han, Hadhran, and the western fronts of the city of Taiz
 - 10/03 18:48 [FirstSquawk] Israeli Broadcasting Authority, quoting a security official: The Israeli army targeted Hamas leader Ali al-Amoudi in Gaza with an airstrike last night.
 - 10/03 19:07 [financialjuice] North Korea reports completion of strategic weapons launch exercise - KCNA
-- 10/03 19:07 [financialjuice] North Korea's Kim Yo Jong: Intermediate-range strategic missile employed in drill - KCNA
+- 10/03 19:07 [financialjuice/FirstSquawk] North Korea's Kim Yo Jong: Intermediate-range strategic missile employed in drill - KCNA
 - 10/03 19:12 [FirstSquawk] Pakistan's Foreign Ministry: Indian chargé d'affaires summoned following the killing of two Pakistani civilians by Indian security forces at the border
 - 10/03 19:13 [FirstSquawk] Yemeni sources in Sana'a: Airstrikes target Al-Nahdain and Jabal Attan
 - 10/03 19:13 [FirstSquawk] Yemeni sources in Sana'a: 6 airstrikes so far and heavy aerial activity.
 - 10/03 19:13 [FirstSquawk] Yemeni sources: Warplanes target militia gatherings at the eastern entrance to Taiz city
+- 10/03 19:30 [financialjuice/FirstSquawk] Russia strikes foreign-flagged vessel in Ukraine's Odesa port: one sailor killed, three injured - Ukrainian port authorities
+- 10/03 19:50 [FirstSquawk] NVIDIA CEO JENSEN HUANG SAYS 'KOREA'S ASPIRATIONS ARE GREATER THAN YOUR HUMAN CAPITAL', NOTING IT IS 'STILL A SMALL COUNTRY IN TERMS OF OVERALL NUMBER OF CITIZENS', BUT THAT WITH AI AND AUTOMATION 'YOU COULD PUNCH WELL ABOVE YOUR WEIGHT' AN…
+- 10/03 19:50 [FirstSquawk] NVIDIA CEO JENSEN HUANG SAYS 'IF YOU LOVE EATING, GOING TO KOREA IS THE PERFECT PLACE, NOT TO MENTION DRINKING', JOKING THAT HE'S 'ONLY BEEN KISSED IN THE MOUTH BY A MAN IN KOREA', A SAMSUNG EMPLOYEE NAMED JAY.
+- 10/03 19:50 [FirstSquawk] NVIDIA CEO JENSEN HUANG SAYS THAT 'IF THE INSTRUCTION YOU GIVE TO THE AI IS AMBIGUOUS', IT IS HARD TO KNOW AT ANY GIVEN POINT 'THAT YOU'RE GOING TO LIKE THE JOURNEY THAT IT'S TAKING'.
+- 10/03 19:50 [FirstSquawk] NVIDIA CEO JENSEN HUANG SAYS THE ANSWER IS 'VERY SIMPLE' — 'YOU HAVE TO CONTAIN AND YOU HAVE TO MONITOR IT' — ADDING THAT THIS IS HOW 'WE DEAL WITH EMPLOYEES, CHILDREN, STUDENTS — ALMOST ANYTHING WITH AUTONOMOUS CAPABILITIES: HUMANS'.
+- 10/03 19:52 [FirstSquawk] GERMANY INSA POLL: CDU/CSU HITS RECORD-LOW 18%, AFD REACHES RECORD-HIGH 30%; DISSATISFACTION WITH MERZ & GOVERNING COALITION ALSO AT RECORD LEVELs
+- 10/03 19:52 [FirstSquawk] THE TRUMP ADMINISTRATION'S UKRAINE TALKS WITH RUSSIA HAVE EXPANDED TO INCLUDE A MULTIBILLION-DOLLAR DEAL FOR LUKOIL'S INTERNATIONAL ASSETS, WITH PUTIN HAVING RAISED THE DEAL WITH STEVE WITKOFF AND JARED KUSHNER DURING A SEPT. 5 KREMLIN MEET…
+- 10/03 19:52 [FirstSquawk] THE LEADING BIDDER IS A GROUP INVOLVING TRUMP DONOR TODD BOEHLY, QATAR-BASED INVESTORS WITH BUSINESS TIES TO KUSHNER, AN ABU DHABI FUND LINKED TO SHEIKH TAHNOON, AND THE U.S. GOVERNMENT, WITH NO INDICATION KUSHNER OR WITKOFF WOULD PERSONALL…
+- 10/03 19:53 [FirstSquawk] ZELENSKY URGES TRUMP TO SANCTION RUSSIAN & CHINESE COMPANIES DEVELOPING ‘RASSVET’ SATELLITE NETWORK TO RIVAL STARLINK — FT

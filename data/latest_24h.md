@@ -7,43 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-03 19:25 JST／対象: 10/02 19:25 〜 10/03 19:25 JST（時刻はすべて日本時間）
+生成: 2026-10-03 20:04 JST／対象: 10/02 20:04 〜 10/03 20:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 45 | 10/02 19:26 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
-| FirstSquawk | 245 | 10/02 19:31 | 10/03 19:13 | ⚠ 240分（05:02→09:03） |
-| financialjuice | 186 | 10/02 19:25 | 10/03 19:07 | ⚠ 119分（13:18→15:17） |
+| DeItaone | 41 | 10/02 20:09 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
+| FirstSquawk | 247 | 10/02 20:08 | 10/03 19:53 | ⚠ 240分（05:02→09:03） |
+| financialjuice | 179 | 10/02 20:12 | 10/03 19:30 | ⚠ 119分（13:18→15:17） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 463 行（統合前 478 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 452 行（統合前 469 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 19:25 [financialjuice] EU Spokesperson: Any release is something that is organized by the International Energy Agency
-- 10/02 19:26 [financialjuice] EU Spokesperson: Next oil coordination group on the 15th of October, if the situation requires, we are ready to convene one earlier
-- 10/02 19:26 [DeItaone] *GERMANY SAYS WATCHING DIESEL SUPPLY SITUATION CLOSELY
-- 10/02 19:28 [financialjuice] German Government wants to stabilize diesel supply - Spokesman
-- 10/02 19:29 [financialjuice] EU Spokesperson: The EU is ready for collective action on possible stock release under IEA coordination
-- 10/02 19:29 [financialjuice] EU Spokesperson: A coordination meeting between the Commission and member states was held this morning, and further discussions might happen in the afternoon
-- 10/02 19:29 [financialjuice] The EU is ready for collective oil market action if the IEA sees it as necessary
-- 10/02 19:31 [FirstSquawk] FRANCE'S 10-YEAR YIELD PREMIUM INCREASES TO 152 BASIS POINTS, MARKING THE HIGHEST LEVEL SINCE 2011.
-- 10/02 19:31 [FirstSquawk] GERMAN GOVERNMENT SPOKESPERSON AFFIRMS US AS A TRUSTED FUEL SUPPLIER.
-- 10/02 19:31 [FirstSquawk] GERMAN GOVERNMENT IS MONITORING THE DIESEL SUPPLY SITUATION CAREFULLY.
-- 10/02 19:32 [FirstSquawk] EU SPOKESPERSON STRONGLY OPPOSES ANY BAN ON DIESEL FUEL.
-- 10/02 19:32 [FirstSquawk] EU SPOKESPERSON SAYS A BAN WOULD HURT EVERYONE AND DAMAGE TRUST IN THE U.S. AS A PARTNER.
-- 10/02 19:32 [FirstSquawk] EU SPOKESPERSON DECLINES TO COMMENT ON STOCK DISCUSSION AT THIS TIME.
-- 10/02 19:32 [FirstSquawk] EU SPOKESPERSON STATES THAT ANY RELEASE OF ENERGY IS COORDINATED BY THE INTERNATIONAL ENERGY AGENCY.
-- 10/02 19:32 [FirstSquawk] EU SPOKESPERSON ANNOUNCED THAT THE NEXT OIL COORDINATION GROUP MEETING IS SCHEDULED FOR OCTOBER 15TH AND CAN BE HELD EARLIER IF NEEDED.
-- 10/02 19:35 [DeItaone] Mapped: Gas Prices by U.S. State in 2026 ⛽
-- 10/02 19:42 [financialjuice] EU Spokesperson: Supplies are stable for the time being
-- 10/02 19:42 [financialjuice] EU Spokesperson: We reject any ban on diesel.
-- 10/02 19:59 [DeItaone] FRENCH-GERMAN BOND SPREAD WIDENS TO 150 BASIS POINTS France’s 10-year yield premium over Germany has widened to 1.5 percentage points, after already reaching its highest level since 2012. RBC BlueBay’s Mike Bell says the spread could reach …
-- 10/02 20:02 [DeItaone] EU “FULLY REJECTS” POTENTIAL U.S. DIESEL EXPORT BAN The European Union says it “fully rejects” any potential U.S. ban on diesel exports, warning such a move would undermine trust in Washington as a reliable partner. At the same time, Brusse…
 - 10/02 20:08 [FirstSquawk] EU PREPARES FOR JOINT OIL MARKET MOVES IF IEA DEEMS IT NEEDED.
 - 10/02 20:08 [FirstSquawk] ALIBABA AND SOLARIA ARE DISCUSSING A POWER SUPPLY FOR A DATA CENTER IN SPAIN.
 - 10/02 20:08 [FirstSquawk] ALIBABA AND SOLARIA ARE IN INITIAL DISCUSSIONS, NO CONCLUSIONS REACHED YET.
@@ -482,8 +462,17 @@
 - 10/03 18:48 [FirstSquawk] Yemeni government forces: We repelled Houthi militia attacks on Jabal Han, Hadhran, and the western fronts of the city of Taiz
 - 10/03 18:48 [FirstSquawk] Israeli Broadcasting Authority, quoting a security official: The Israeli army targeted Hamas leader Ali al-Amoudi in Gaza with an airstrike last night.
 - 10/03 19:07 [financialjuice] North Korea reports completion of strategic weapons launch exercise - KCNA
-- 10/03 19:07 [financialjuice] North Korea's Kim Yo Jong: Intermediate-range strategic missile employed in drill - KCNA
+- 10/03 19:07 [financialjuice/FirstSquawk] North Korea's Kim Yo Jong: Intermediate-range strategic missile employed in drill - KCNA
 - 10/03 19:12 [FirstSquawk] Pakistan's Foreign Ministry: Indian chargé d'affaires summoned following the killing of two Pakistani civilians by Indian security forces at the border
 - 10/03 19:13 [FirstSquawk] Yemeni sources in Sana'a: Airstrikes target Al-Nahdain and Jabal Attan
 - 10/03 19:13 [FirstSquawk] Yemeni sources in Sana'a: 6 airstrikes so far and heavy aerial activity.
 - 10/03 19:13 [FirstSquawk] Yemeni sources: Warplanes target militia gatherings at the eastern entrance to Taiz city
+- 10/03 19:30 [financialjuice/FirstSquawk] Russia strikes foreign-flagged vessel in Ukraine's Odesa port: one sailor killed, three injured - Ukrainian port authorities
+- 10/03 19:50 [FirstSquawk] NVIDIA CEO JENSEN HUANG SAYS 'KOREA'S ASPIRATIONS ARE GREATER THAN YOUR HUMAN CAPITAL', NOTING IT IS 'STILL A SMALL COUNTRY IN TERMS OF OVERALL NUMBER OF CITIZENS', BUT THAT WITH AI AND AUTOMATION 'YOU COULD PUNCH WELL ABOVE YOUR WEIGHT' AN…
+- 10/03 19:50 [FirstSquawk] NVIDIA CEO JENSEN HUANG SAYS 'IF YOU LOVE EATING, GOING TO KOREA IS THE PERFECT PLACE, NOT TO MENTION DRINKING', JOKING THAT HE'S 'ONLY BEEN KISSED IN THE MOUTH BY A MAN IN KOREA', A SAMSUNG EMPLOYEE NAMED JAY.
+- 10/03 19:50 [FirstSquawk] NVIDIA CEO JENSEN HUANG SAYS THAT 'IF THE INSTRUCTION YOU GIVE TO THE AI IS AMBIGUOUS', IT IS HARD TO KNOW AT ANY GIVEN POINT 'THAT YOU'RE GOING TO LIKE THE JOURNEY THAT IT'S TAKING'.
+- 10/03 19:50 [FirstSquawk] NVIDIA CEO JENSEN HUANG SAYS THE ANSWER IS 'VERY SIMPLE' — 'YOU HAVE TO CONTAIN AND YOU HAVE TO MONITOR IT' — ADDING THAT THIS IS HOW 'WE DEAL WITH EMPLOYEES, CHILDREN, STUDENTS — ALMOST ANYTHING WITH AUTONOMOUS CAPABILITIES: HUMANS'.
+- 10/03 19:52 [FirstSquawk] GERMANY INSA POLL: CDU/CSU HITS RECORD-LOW 18%, AFD REACHES RECORD-HIGH 30%; DISSATISFACTION WITH MERZ & GOVERNING COALITION ALSO AT RECORD LEVELs
+- 10/03 19:52 [FirstSquawk] THE TRUMP ADMINISTRATION'S UKRAINE TALKS WITH RUSSIA HAVE EXPANDED TO INCLUDE A MULTIBILLION-DOLLAR DEAL FOR LUKOIL'S INTERNATIONAL ASSETS, WITH PUTIN HAVING RAISED THE DEAL WITH STEVE WITKOFF AND JARED KUSHNER DURING A SEPT. 5 KREMLIN MEET…
+- 10/03 19:52 [FirstSquawk] THE LEADING BIDDER IS A GROUP INVOLVING TRUMP DONOR TODD BOEHLY, QATAR-BASED INVESTORS WITH BUSINESS TIES TO KUSHNER, AN ABU DHABI FUND LINKED TO SHEIKH TAHNOON, AND THE U.S. GOVERNMENT, WITH NO INDICATION KUSHNER OR WITKOFF WOULD PERSONALL…
+- 10/03 19:53 [FirstSquawk] ZELENSKY URGES TRUMP TO SANCTION RUSSIAN & CHINESE COMPANIES DEVELOPING ‘RASSVET’ SATELLITE NETWORK TO RIVAL STARLINK — FT
