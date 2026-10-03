@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-03 11:44 JST／対象: 10/02 23:44 〜 10/03 11:44 JST（時刻はすべて日本時間）
+生成: 2026-10-03 12:11 JST／対象: 10/03 00:11 〜 10/03 12:11 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 10/03 00:28 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
-| FirstSquawk | 93 | 10/02 23:58 | 10/03 11:42 | ⚠ 240分（05:02→09:03） |
-| financialjuice | 89 | 10/02 23:51 | 10/03 11:22 | ⚠ 71分（05:20→06:32） |
+| FirstSquawk | 104 | 10/03 00:15 | 10/03 12:11 | ⚠ 240分（05:02→09:03） |
+| financialjuice | 88 | 10/03 00:20 | 10/03 12:05 | ⚠ 71分（05:20→06:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 179 行（統合前 189 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 189 行（統合前 198 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 23:51 [financialjuice] South Korea's Industry Ministry Official: $8.4 bln oil project mentioned by Trump not part of agreement with the US - Yonhap
-- 10/02 23:51 [financialjuice] South Korea's Industry Ministry Official: $8.4 bln oil project mentioned by Trump not part of agreement with US - Yonhap
-- 10/02 23:55 [financialjuice/FirstSquawk] TD sees Fed hikes in December and March, previously October and January
-- 10/02 23:58 [financialjuice] Fitch affirms Walmart's ratings at 'AA' and 'F1+'. Outlook stable. $WMT
-- 10/02 23:58 [FirstSquawk] S. KOREA SAYS TRUMP'S $8.4 BLN OIL PROJECT CLAIM NOT IN AGREED DEALS - YONHAP
-- 10/03 00:04 [FirstSquawk] DANISH CENTRAL BANK SAYS DID NOT INTERVENE IN FOREX MARKET IN SEPTEMBER
 - 10/03 00:15 [FirstSquawk] PENTAGON ISSUES MEMO TO CUT DELAYS IN COUNTER-DRONE SYSTEM USE
 - 10/03 00:15 [FirstSquawk] PFIZER'S LITFULO MEETS CO-PRIMARY ENDPOINTS IN VITILIGO
 - 10/03 00:20 [financialjuice] News sources reported that several powerful explosions were heard in Riyadh, the capital of Saudi Arabia - Tasnim News
@@ -203,3 +197,19 @@
 - 10/03 11:41 [FirstSquawk] GameStop CEO Ryan Cohen reports open-market purchase of 700,000 shares at $24.4061 each
 - 10/03 11:42 [FirstSquawk] Gaza death toll from Israeli airstrikes rises to 8, including 4 women, Al Arabiya reports
 - 10/03 11:42 [FirstSquawk] Minnesota’s AI “nudification” law temporarily blocked by US appeals court in xAI lawsuit
+- 10/03 11:52 [FirstSquawk] Fed’s Hammack says policymakers still have time before next rate decision
+- 10/03 11:52 [FirstSquawk] DRC Ebola outbreak slows in some health zones as death toll surpasses 4,000
+- 10/03 11:53 [FirstSquawk] Novo reports update on denecimig BLA in the US
+- 10/03 11:54 [FirstSquawk] FDA review of Novo Nordisk’s denecimig BLA for haemophilia A continues
+- 10/03 11:54 [FirstSquawk] FDA extends review of Novo Nordisk’s denecimig application due to facility remediation
+- 10/03 11:55 [FirstSquawk] Qualcomm submits prospectus for resale of up to 25 million common shares
+- 10/03 11:56 [FirstSquawk] S&P: Romania’s negative outlook reflects risks to public finance consolidation and external deficit reduction
+- 10/03 11:58 [FirstSquawk] S&P says Romania’s 2026 fiscal consolidation remains on track despite government formation impasse
+- 10/03 11:58 [FirstSquawk] Trump says over 20 million seniors will receive nearly $100 checks to help cover Medicare Part B premiums
+- 10/03 11:58 [financialjuice] Trump: Sending nearly $100 payments to over 20 million seniors to help cover their Medicare Part B premiums
+- 10/03 11:59 [financialjuice] Trump finally taps fund, along with favored nations deals, to significantly cut costs for seniors
+- 10/03 12:05 [financialjuice/FirstSquawk] Trump’s top national security aides meet secretly at Camp David on Iran, Yemen: Axios
+- 10/03 12:09 [FirstSquawk] Trump moves to cut seniors’ costs with fund and favored nations deals
+- 10/03 12:09 [FirstSquawk] Trump: Using fund and most-favored-nations deals to substantially cut costs for seniors
+- 10/03 12:10 [FirstSquawk] Trump says every U.S. citizen would receive $5,000 dividend if Republicans win midterms
+- 10/03 12:11 [FirstSquawk] Japan finance minister says forex trend has changed somewhat since intervention

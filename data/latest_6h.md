@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-03 11:44 JST／対象: 10/03 05:44 〜 10/03 11:44 JST（時刻はすべて日本時間）
+生成: 2026-10-03 12:11 JST／対象: 10/03 06:11 〜 10/03 12:11 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 46 | 10/03 09:03 | 10/03 11:42 | ⚠ 75分（10:22→11:37） |
-| financialjuice | 22 | 10/03 06:32 | 10/03 11:22 | ⚠ 56分（10:26→11:22） |
+| FirstSquawk | 60 | 10/03 09:03 | 10/03 12:11 | ⚠ 75分（10:22→11:37） |
+| financialjuice | 25 | 10/03 06:32 | 10/03 12:05 | ⚠ 56分（10:26→11:22） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 68 行（統合前 68 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 84 行（統合前 85 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -92,3 +92,19 @@
 - 10/03 11:41 [FirstSquawk] GameStop CEO Ryan Cohen reports open-market purchase of 700,000 shares at $24.4061 each
 - 10/03 11:42 [FirstSquawk] Gaza death toll from Israeli airstrikes rises to 8, including 4 women, Al Arabiya reports
 - 10/03 11:42 [FirstSquawk] Minnesota’s AI “nudification” law temporarily blocked by US appeals court in xAI lawsuit
+- 10/03 11:52 [FirstSquawk] Fed’s Hammack says policymakers still have time before next rate decision
+- 10/03 11:52 [FirstSquawk] DRC Ebola outbreak slows in some health zones as death toll surpasses 4,000
+- 10/03 11:53 [FirstSquawk] Novo reports update on denecimig BLA in the US
+- 10/03 11:54 [FirstSquawk] FDA review of Novo Nordisk’s denecimig BLA for haemophilia A continues
+- 10/03 11:54 [FirstSquawk] FDA extends review of Novo Nordisk’s denecimig application due to facility remediation
+- 10/03 11:55 [FirstSquawk] Qualcomm submits prospectus for resale of up to 25 million common shares
+- 10/03 11:56 [FirstSquawk] S&P: Romania’s negative outlook reflects risks to public finance consolidation and external deficit reduction
+- 10/03 11:58 [FirstSquawk] S&P says Romania’s 2026 fiscal consolidation remains on track despite government formation impasse
+- 10/03 11:58 [FirstSquawk] Trump says over 20 million seniors will receive nearly $100 checks to help cover Medicare Part B premiums
+- 10/03 11:58 [financialjuice] Trump: Sending nearly $100 payments to over 20 million seniors to help cover their Medicare Part B premiums
+- 10/03 11:59 [financialjuice] Trump finally taps fund, along with favored nations deals, to significantly cut costs for seniors
+- 10/03 12:05 [financialjuice/FirstSquawk] Trump’s top national security aides meet secretly at Camp David on Iran, Yemen: Axios
+- 10/03 12:09 [FirstSquawk] Trump moves to cut seniors’ costs with fund and favored nations deals
+- 10/03 12:09 [FirstSquawk] Trump: Using fund and most-favored-nations deals to substantially cut costs for seniors
+- 10/03 12:10 [FirstSquawk] Trump says every U.S. citizen would receive $5,000 dividend if Republicans win midterms
+- 10/03 12:11 [FirstSquawk] Japan finance minister says forex trend has changed somewhat since intervention
