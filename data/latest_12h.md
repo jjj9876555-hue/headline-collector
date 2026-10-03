@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-03 08:58 JST／対象: 10/02 20:58 〜 10/03 08:58 JST（時刻はすべて日本時間）
+生成: 2026-10-03 09:24 JST／対象: 10/02 21:24 〜 10/03 09:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 33 | 10/02 21:00 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
-| FirstSquawk | 91 | 10/02 21:31 | 10/03 05:02 | 34分（02:50→03:25） |
-| financialjuice | 138 | 10/02 21:00 | 10/03 08:23 | ⚠ 71分（05:20→06:32） |
+| DeItaone | 28 | 10/02 21:30 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
+| FirstSquawk | 106 | 10/02 21:31 | 10/03 09:23 | ⚠ 240分（05:02→09:03） |
+| financialjuice | 136 | 10/02 21:25 | 10/03 09:17 | ⚠ 71分（05:20→06:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 252 行（統合前 264 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 260 行（統合前 272 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 21:00 [DeItaone] *IRAN IRGC SAYS RESPONSE WOULD BE MORE LETHAL THAN PREVIOUS ONE *IRAN'S IRGC SAYS READY FOR RESPONSE TO ANY THREAT, ATTACK
-- 10/02 21:00 [financialjuice] Secured overnight financing rate 3.87% October 1st vs 3.90% September 30th.
-- 10/02 21:02 [financialjuice] Price of Russian gas for China may rise 1.4% in 2027 - Tass
-- 10/02 21:03 [financialjuice] Pakistan foreign minister: Meeting in Riyadh next week will focus on Houthi attacks in Saudi Arabia
-- 10/02 21:03 [DeItaone] GOLDMAN: U.S. DIESEL BAN COULD HIT LATIN AMERICA HARDEST Goldman Sachs estimates a sudden cutoff of U.S. diesel exports could reduce Latin American GDP by around 1%, although inventories and alternative suppliers would soften the impact. In…
-- 10/02 21:05 [DeItaone] IRGC REITERATES HARDLINE WARNING TO U.S. AND ISRAEL Iran’s Islamic Revolutionary Guard Corps says it remains prepared to respond “decisively, immediately, painfully and lethally” to any threat, aggression or potential miscalculation by the …
-- 10/02 21:12 [DeItaone] PAKISTAN FOREIGN MINISTER: THERE SHOULDN’T BE ANY FEE OR CHARGES TO CROSS HORMUZ
-- 10/02 21:19 [financialjuice] Pakistan Foreign Minister: We will discuss political engagement with Houthis instead of kinetic action in the meeting next week
-- 10/02 21:22 [DeItaone] FRENCH 2-YEAR GOVERNMENT BOND YIELD EXTENDS RISE, LAST UP 13.8 BPS AT 3.8337%
 - 10/02 21:25 [financialjuice] Pakistan's foreign minister: More than six countries are keen to join the Makkah defence pact
 - 10/02 21:30 [DeItaone] US LABOR SEP NONFARM PAYROLLS +29K; CONSENSUS +84K
 - 10/02 21:30 [financialjuice] US AVERAGE WORKWEEK HRS ACTUAL 34.4 (FORECAST 34.3, PREVIOUS 34.4) $MACRO
@@ -276,3 +267,20 @@
 - 10/03 08:17 [financialjuice] UKMTO: all crew reported safe with no environmental impact so far
 - 10/03 08:20 [financialjuice] David Robinson, leader on OpenAI's safety systems team, resigns from company - Business Insider
 - 10/03 08:23 [financialjuice] South Korea's Blue House: convenes national security council meeting on North Korea missile launch
+- 10/03 09:03 [FirstSquawk] Bayer announces $2.2 billion U.S. pharma manufacturing expansion -WSJ
+- 10/03 09:03 [financialjuice] North Korean missile flew over 700 kilometers: South Korean military
+- 10/03 09:04 [FirstSquawk] Trump: Iran war will end soon, either through deal or military action
+- 10/03 09:04 [FirstSquawk] Trump: Iran’s military capabilities have been eliminated
+- 10/03 09:05 [FirstSquawk] Trump: Current action costs much less than allowing Iran to obtain a nuclear weapon
+- 10/03 09:07 [FirstSquawk] Trump says Iran will never be allowed to obtain a nuclear weapon
+- 10/03 09:07 [FirstSquawk] Trump policy changes expected to increase U.S. household energy bills: Think tank
+- 10/03 09:08 [FirstSquawk] Trump says U.S. exports have hit record levels
+- 10/03 09:09 [FirstSquawk] UKMTO: Crude oil tanker hit by unknown projectile off Oman
+- 10/03 09:13 [FirstSquawk] Trump explains Alabama, Oklahoma and Texas stops ahead of midterms
+- 10/03 09:14 [FirstSquawk] Japan’s TEPCO takes aim at ‘capacity squatters’ in AI data center expansion - NA
+- 10/03 09:15 [FirstSquawk] Iraq: 40 Iranian flights per day cleared to fly to and from Najaf
+- 10/03 09:17 [FirstSquawk] Oil tanker attack off Oman leaves no injuries or environmental damage: UK Maritime Authority
+- 10/03 09:17 [financialjuice] Trump: we're going to soon replenish our strategic oil reserves
+- 10/03 09:19 [FirstSquawk] TSMC affiliate VIS eyes new Singapore plant after first facility fills up instantly
+- 10/03 09:20 [FirstSquawk] 3.North Korea fires ballistic missile, South Korea says
+- 10/03 09:23 [FirstSquawk] Warplanes target Houthi gatherings east of Taiz, Yemeni Armed Forces say

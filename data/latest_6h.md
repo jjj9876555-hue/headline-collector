@@ -7,24 +7,24 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-03 08:58 JST／対象: 10/03 02:58 〜 10/03 08:58 JST（時刻はすべて日本時間）
+生成: 2026-10-03 09:24 JST／対象: 10/03 03:24 〜 10/03 09:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 10/03 05:00 | 10/03 05:04 | 4分（05:00→05:04） |
-| FirstSquawk | 21 | 10/03 03:25 | 10/03 05:02 | 15分（03:38→03:54） |
-| financialjuice | 54 | 10/03 03:00 | 10/03 08:23 | ⚠ 71分（05:20→06:32） |
+| FirstSquawk | 36 | 10/03 03:25 | 10/03 09:23 | ⚠ 240分（05:02→09:03） |
+| financialjuice | 55 | 10/03 03:31 | 10/03 09:17 | ⚠ 71分（05:20→06:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 75 行（統合前 79 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 92 行（統合前 95 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/03 03:00 [financialjuice/FirstSquawk] Joint US-Ukraine investment fund seals first critical minerals deal - US official
+- 10/03 03:25 [FirstSquawk] JOINT US-UKRAINE INVESTMENT FUND SEALS FIRST CRITICAL MINERALS DEAL - US OFFICIAL
 - 10/03 03:31 [financialjuice] NYMEX WTI Crude November futures settle at $91.11 a barrel, down $1.76, 1.9%.
 - 10/03 03:31 [FirstSquawk] U.S. CRUDE OIL FUTURES SETTLE AT $91.11/BBL, DOWN $1.76, 1.90 PCT
 - 10/03 03:31 [financialjuice] NYMEX Gasoline November futures settle at $3.3124 a gallon.
@@ -99,3 +99,20 @@
 - 10/03 08:17 [financialjuice] UKMTO: all crew reported safe with no environmental impact so far
 - 10/03 08:20 [financialjuice] David Robinson, leader on OpenAI's safety systems team, resigns from company - Business Insider
 - 10/03 08:23 [financialjuice] South Korea's Blue House: convenes national security council meeting on North Korea missile launch
+- 10/03 09:03 [FirstSquawk] Bayer announces $2.2 billion U.S. pharma manufacturing expansion -WSJ
+- 10/03 09:03 [financialjuice] North Korean missile flew over 700 kilometers: South Korean military
+- 10/03 09:04 [FirstSquawk] Trump: Iran war will end soon, either through deal or military action
+- 10/03 09:04 [FirstSquawk] Trump: Iran’s military capabilities have been eliminated
+- 10/03 09:05 [FirstSquawk] Trump: Current action costs much less than allowing Iran to obtain a nuclear weapon
+- 10/03 09:07 [FirstSquawk] Trump says Iran will never be allowed to obtain a nuclear weapon
+- 10/03 09:07 [FirstSquawk] Trump policy changes expected to increase U.S. household energy bills: Think tank
+- 10/03 09:08 [FirstSquawk] Trump says U.S. exports have hit record levels
+- 10/03 09:09 [FirstSquawk] UKMTO: Crude oil tanker hit by unknown projectile off Oman
+- 10/03 09:13 [FirstSquawk] Trump explains Alabama, Oklahoma and Texas stops ahead of midterms
+- 10/03 09:14 [FirstSquawk] Japan’s TEPCO takes aim at ‘capacity squatters’ in AI data center expansion - NA
+- 10/03 09:15 [FirstSquawk] Iraq: 40 Iranian flights per day cleared to fly to and from Najaf
+- 10/03 09:17 [FirstSquawk] Oil tanker attack off Oman leaves no injuries or environmental damage: UK Maritime Authority
+- 10/03 09:17 [financialjuice] Trump: we're going to soon replenish our strategic oil reserves
+- 10/03 09:19 [FirstSquawk] TSMC affiliate VIS eyes new Singapore plant after first facility fills up instantly
+- 10/03 09:20 [FirstSquawk] 3.North Korea fires ballistic missile, South Korea says
+- 10/03 09:23 [FirstSquawk] Warplanes target Houthi gatherings east of Taiz, Yemeni Armed Forces say

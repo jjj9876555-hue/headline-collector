@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-03 08:58 JST／対象: 10/02 08:58 〜 10/03 08:58 JST（時刻はすべて日本時間）
+生成: 2026-10-03 09:24 JST／対象: 10/02 09:24 〜 10/03 09:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 63 | 10/02 17:55 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
-| FirstSquawk | 229 | 10/02 09:07 | 10/03 05:02 | 44分（20:46→21:31） |
-| financialjuice | 234 | 10/02 09:29 | 10/03 08:23 | ⚠ 71分（05:20→06:32） |
+| FirstSquawk | 239 | 10/02 09:25 | 10/03 09:23 | ⚠ 240分（05:02→09:03） |
+| financialjuice | 236 | 10/02 09:29 | 10/03 09:17 | ⚠ 71分（05:20→06:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 510 行（統合前 528 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 522 行（統合前 540 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 09:07 [FirstSquawk] Asian Currencies Stabilize as Rising Oil Prices Cloud the Outlook - WSJ
-- 10/02 09:08 [FirstSquawk] ASX 200 Advances 0.4% to 8,646.10 in Early Trade
-- 10/02 09:10 [FirstSquawk] AUSTRALIA’S S&P/ASX 200 RISES 0.4% TO 8,646.10 POINTS IN EARLY TRADE
-- 10/02 09:13 [FirstSquawk] US TO DEPLOY A THIRD AIRCRAFT-CARRIER STRIKE GROUP AND UP TO 10,000 ADDITIONAL TROOPS TO THE MIDDLE EAST BY THE END OF NOVEMBER, FURTHER BOOSTING ITS MILITARY PRESENCE AROUND THE REGION.
-- 10/02 09:13 [FirstSquawk] PETROBRAS’ P-80 FPSO HAS LEFT SINGAPORE FOR BRAZIL’S BÚZIOS OILFIELD, WITH PRODUCTION EXPECTED TO START IN 2027. THE UNIT CAN PRODUCE 225,000 BARRELS OF OIL PER DAY AND PROCESS 12 MILLION CUBIC METERS OF GAS DAILY. THE P-80 WILL BECOME PETR…
 - 10/02 09:25 [FirstSquawk] FED OFFICIALS BARKIN, COLLINS AND SCHMID SAID A STABLE LABOR MARKET ALLOWS THE FED TO KEEP ITS FOCUS ON PERSISTENTLY HIGH INFLATION, WITH ALL THREE SUPPORTING THE SEPTEMBER RATE HIKE TO 3.75%-4%. THE OFFICIALS DECLINED TO SIGNAL FUTURE RATE…
 - 10/02 09:29 [FirstSquawk/financialjuice] SAUDI-LED COALITION: INTERCEPTS AND DESTROYS BALLISTIC MISSILE LAUNCHED BY YEMEN'S HOUTHIS TOWARD KHAMIS MUSHAIT
 - 10/02 09:29 [FirstSquawk] US TREASURY IMPOSED SANCTIONS ON RUSSIA’S A7 FINANCIAL NETWORK, ACCUSING IT OF USING SHELL COMPANIES, SUBAGENTS AND FALSIFIED TRADE RECORDS TO MOVE FUNDS FOR SANCTIONED ENTITIES LINKED TO IRAN AND THE IRGC. A7 CLAIMS TO HAVE PROCESSED $91.5…
@@ -534,3 +529,20 @@
 - 10/03 08:17 [financialjuice] UKMTO: all crew reported safe with no environmental impact so far
 - 10/03 08:20 [financialjuice] David Robinson, leader on OpenAI's safety systems team, resigns from company - Business Insider
 - 10/03 08:23 [financialjuice] South Korea's Blue House: convenes national security council meeting on North Korea missile launch
+- 10/03 09:03 [FirstSquawk] Bayer announces $2.2 billion U.S. pharma manufacturing expansion -WSJ
+- 10/03 09:03 [financialjuice] North Korean missile flew over 700 kilometers: South Korean military
+- 10/03 09:04 [FirstSquawk] Trump: Iran war will end soon, either through deal or military action
+- 10/03 09:04 [FirstSquawk] Trump: Iran’s military capabilities have been eliminated
+- 10/03 09:05 [FirstSquawk] Trump: Current action costs much less than allowing Iran to obtain a nuclear weapon
+- 10/03 09:07 [FirstSquawk] Trump says Iran will never be allowed to obtain a nuclear weapon
+- 10/03 09:07 [FirstSquawk] Trump policy changes expected to increase U.S. household energy bills: Think tank
+- 10/03 09:08 [FirstSquawk] Trump says U.S. exports have hit record levels
+- 10/03 09:09 [FirstSquawk] UKMTO: Crude oil tanker hit by unknown projectile off Oman
+- 10/03 09:13 [FirstSquawk] Trump explains Alabama, Oklahoma and Texas stops ahead of midterms
+- 10/03 09:14 [FirstSquawk] Japan’s TEPCO takes aim at ‘capacity squatters’ in AI data center expansion - NA
+- 10/03 09:15 [FirstSquawk] Iraq: 40 Iranian flights per day cleared to fly to and from Najaf
+- 10/03 09:17 [FirstSquawk] Oil tanker attack off Oman leaves no injuries or environmental damage: UK Maritime Authority
+- 10/03 09:17 [financialjuice] Trump: we're going to soon replenish our strategic oil reserves
+- 10/03 09:19 [FirstSquawk] TSMC affiliate VIS eyes new Singapore plant after first facility fills up instantly
+- 10/03 09:20 [FirstSquawk] 3.North Korea fires ballistic missile, South Korea says
+- 10/03 09:23 [FirstSquawk] Warplanes target Houthi gatherings east of Taiz, Yemeni Armed Forces say
