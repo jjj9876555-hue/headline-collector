@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-03 11:19 JST／対象: 10/02 23:19 〜 10/03 11:19 JST（時刻はすべて日本時間）
+生成: 2026-10-03 11:44 JST／対象: 10/02 23:44 〜 10/03 11:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 10/03 00:28 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
-| FirstSquawk | 94 | 10/02 23:26 | 10/03 10:22 | ⚠ 240分（05:02→09:03） |
-| financialjuice | 91 | 10/02 23:19 | 10/03 10:26 | ⚠ 71分（05:20→06:32） |
+| FirstSquawk | 93 | 10/02 23:58 | 10/03 11:42 | ⚠ 240分（05:02→09:03） |
+| financialjuice | 89 | 10/02 23:51 | 10/03 11:22 | ⚠ 71分（05:20→06:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 182 行（統合前 192 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 179 行（統合前 189 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 23:19 [financialjuice] Crypto Fear & Greed Index: 72/100 - Greed
-- 10/02 23:26 [FirstSquawk] MACRON ANNOUNCED THAT THE G7 WILL UNVEIL PLANS TO RELEASE AS MUCH AS 100 MILLION BARRELS OF DIESEL AND CRUDE OIL.
-- 10/02 23:26 [FirstSquawk] G7 LEADERS DECLARE PLANS TO ALIGN MAINTENANCE SCHEDULES AT MEMBER REFINERIES.
-- 10/02 23:26 [FirstSquawk] G7 ASKS IEA TO OVERSEE THE COMPLETE FULFILLMENT OF MARCH 2026 PLEDGES.
-- 10/02 23:26 [FirstSquawk] G7 WILL COORDINATE A RELEASE OF 100 MILLION BARRELS OF OIL THROUGH THE IEA STARTING IMMEDIATELY OVER 4 MONTHS.
-- 10/02 23:26 [FirstSquawk] G7 MEMBERS WILL RELEASE A SIGNIFICANT AMOUNT OF DIESEL IN THE FIRST 20 DAYS WITH THEIR PARTNERS.
-- 10/02 23:26 [FirstSquawk] G7 LEADERS CONFIRM THEIR PLEDGE TO AVOID EXPORT LIMITS ON ENERGY AND RELATED PRODUCTS AMONG G7 NATIONS.
-- 10/02 23:26 [FirstSquawk] G7 URGES ALL PRODUCERS TO AVOID BANS THAT MIGHT WORSEN MARKET STRAIN.
-- 10/02 23:26 [FirstSquawk] G7 REITERATES CONDEMNATION OF IRAN'S AGGRESSION TOWARDS NEIGHBORING COUNTRIES.
-- 10/02 23:26 [FirstSquawk] G7 LEADERS CONFIRM THEY WILL KEEP SANCTIONS ON RUSSIA.
-- 10/02 23:37 [financialjuice] Iran's General Naghdi: The enemy's economic siege will have no effect, and if it does not back down, it will receive a severe blow from the armed forces of the Islamic Republic of Iran - IRNA
-- 10/02 23:38 [financialjuice] Iran's General Naghdi: The enemy's economic siege will have no effect, and if it does not back down, it will receive a severe blow from IRGC - IRNA
-- 10/02 23:41 [FirstSquawk] GOLDMAN SACHS BENEFITS SIGNIFICANTLY FROM CLIENTS CANCELING EARLY SPACE X INVESTMENTS.
-- 10/02 23:41 [FirstSquawk] FRENCH-GERMAN 10-YEAR SPREAD FALLS TO 140 BASIS POINTS FROM 159 BASIS POINTS.
 - 10/02 23:51 [financialjuice] South Korea's Industry Ministry Official: $8.4 bln oil project mentioned by Trump not part of agreement with the US - Yonhap
 - 10/02 23:51 [financialjuice] South Korea's Industry Ministry Official: $8.4 bln oil project mentioned by Trump not part of agreement with US - Yonhap
 - 10/02 23:55 [financialjuice/FirstSquawk] TD sees Fed hikes in December and March, previously October and January
@@ -206,3 +192,14 @@
 - 10/03 10:13 [FirstSquawk] Unplanned flare event reported at Marathon’s Wilmington refinery in California
 - 10/03 10:22 [FirstSquawk] Five killed in Gaza City apartment strike as death toll rises
 - 10/03 10:26 [financialjuice] Japan finance minister katayama: government transparency on forex reserve makeup has limits
+- 10/03 11:22 [financialjuice] China commerce ministry launches anti-dumping probe into p-nitrotoluene from EU
+- 10/03 11:37 [FirstSquawk] Bolivia secures $1.9 billion IMF financing package under 36-month EFF
+- 10/03 11:38 [FirstSquawk] Bolivia receives IMF executive board approval for 36-month Extended Fund Facility arrangement
+- 10/03 11:38 [FirstSquawk] NHK says North Korean missile appears to have fallen outside Japan’s EEZ
+- 10/03 11:39 [FirstSquawk] France’s EDF lowers Civaux 1 reactor output to 1,150 MW amid environmental issues
+- 10/03 11:39 [FirstSquawk] Brazil’s Porto Serviço seeks to cancel public company registration with CVM, filing says
+- 10/03 11:39 [FirstSquawk] North Korea launches unidentified projectile toward waters off east coast, South Korea says
+- 10/03 11:40 [FirstSquawk] Brazil’s TOTVS divests 80% stake in RJ Participações for 39 million reais
+- 10/03 11:41 [FirstSquawk] GameStop CEO Ryan Cohen reports open-market purchase of 700,000 shares at $24.4061 each
+- 10/03 11:42 [FirstSquawk] Gaza death toll from Israeli airstrikes rises to 8, including 4 women, Al Arabiya reports
+- 10/03 11:42 [FirstSquawk] Minnesota’s AI “nudification” law temporarily blocked by US appeals court in xAI lawsuit

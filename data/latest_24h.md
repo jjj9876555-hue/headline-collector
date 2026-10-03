@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-03 11:19 JST／対象: 10/02 11:19 〜 10/03 11:19 JST（時刻はすべて日本時間）
+生成: 2026-10-03 11:44 JST／対象: 10/02 11:44 〜 10/03 11:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 63 | 10/02 17:55 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
-| FirstSquawk | 220 | 10/02 11:21 | 10/03 10:22 | ⚠ 240分（05:02→09:03） |
-| financialjuice | 229 | 10/02 11:20 | 10/03 10:26 | ⚠ 71分（05:20→06:32） |
+| FirstSquawk | 223 | 10/02 11:46 | 10/03 11:42 | ⚠ 240分（05:02→09:03） |
+| financialjuice | 224 | 10/02 12:24 | 10/03 11:22 | ⚠ 71分（05:20→06:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 497 行（統合前 514 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 495 行（統合前 512 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 11:20 [financialjuice] Japan economy minister Kiuchi: won’t discuss monetary policy under BoJ jurisdiction
-- 10/02 11:21 [FirstSquawk] Kiuchi Says He Won’t Comment on Monetary Policy, Which Falls Under BOJ’s Mandate
-- 10/02 11:21 [financialjuice] Japan economy minister Kiuchi: hopes BoJ maintains close communication with government in steering policy
-- 10/02 11:22 [FirstSquawk] Japan’s Kiuchi: Hopes BOJ Maintains Close Communication With Government on Policy Decisions
-- 10/02 11:24 [financialjuice] Japan economy minister Kiuchi: Japan no longer requires exceptional monetary stimulus following BoJ's move to end yield curve control
-- 10/02 11:24 [FirstSquawk] Japan Economy Minister Kiuchi: Extraordinary Monetary Stimulus Is No Longer Needed
-- 10/02 11:30 [FirstSquawk] Seoul Stocks Open Lower Despite Gains on Wall Street
-- 10/02 11:33 [financialjuice] Japan economy minister Kiuchi: Japan is no longer in deflation, no need for overly loose monetary policy favoring higher inflation
-- 10/02 11:33 [FirstSquawk] Japan Economy Minister Kiuchi: Japan No Longer in Deflation, Excessively Loose Policy No Longer Needed
-- 10/02 11:34 [financialjuice] Japan economy minister Kiuchi: Takaichi administration’s approach differs from reflation policy aimed at ending Japan’s deflation
-- 10/02 11:35 [FirstSquawk] Kiuchi: Takaichi Administration Policy Differs From Policy Aimed at Ending Deflation
-- 10/02 11:35 [financialjuice] Japan economy minister Kiuchi: Takaichi administration's strategy differs from Abenomics by targeting both robust economy and fiscal discipline, emphasizing supply capacity enhancement
-- 10/02 11:36 [FirstSquawk] Japan Economy Minister Kiuchi: Takaichi Administration Balances Economic Growth With Fiscal Discipline
 - 10/02 11:46 [FirstSquawk] Euro weakens below 1.1250 amid fiscal concerns, US NFP data in focus - FX
 - 10/02 11:53 [FirstSquawk] Piper Sandler Lowers Nike Price Target to $28 From $38
 - 10/02 12:00 [FirstSquawk] Samsung Heavy Secures 672.2 Billion-Won Order for Two LNG Carriers
@@ -521,3 +508,14 @@
 - 10/03 10:13 [FirstSquawk] Unplanned flare event reported at Marathon’s Wilmington refinery in California
 - 10/03 10:22 [FirstSquawk] Five killed in Gaza City apartment strike as death toll rises
 - 10/03 10:26 [financialjuice] Japan finance minister katayama: government transparency on forex reserve makeup has limits
+- 10/03 11:22 [financialjuice] China commerce ministry launches anti-dumping probe into p-nitrotoluene from EU
+- 10/03 11:37 [FirstSquawk] Bolivia secures $1.9 billion IMF financing package under 36-month EFF
+- 10/03 11:38 [FirstSquawk] Bolivia receives IMF executive board approval for 36-month Extended Fund Facility arrangement
+- 10/03 11:38 [FirstSquawk] NHK says North Korean missile appears to have fallen outside Japan’s EEZ
+- 10/03 11:39 [FirstSquawk] France’s EDF lowers Civaux 1 reactor output to 1,150 MW amid environmental issues
+- 10/03 11:39 [FirstSquawk] Brazil’s Porto Serviço seeks to cancel public company registration with CVM, filing says
+- 10/03 11:39 [FirstSquawk] North Korea launches unidentified projectile toward waters off east coast, South Korea says
+- 10/03 11:40 [FirstSquawk] Brazil’s TOTVS divests 80% stake in RJ Participações for 39 million reais
+- 10/03 11:41 [FirstSquawk] GameStop CEO Ryan Cohen reports open-market purchase of 700,000 shares at $24.4061 each
+- 10/03 11:42 [FirstSquawk] Gaza death toll from Israeli airstrikes rises to 8, including 4 women, Al Arabiya reports
+- 10/03 11:42 [FirstSquawk] Minnesota’s AI “nudification” law temporarily blocked by US appeals court in xAI lawsuit

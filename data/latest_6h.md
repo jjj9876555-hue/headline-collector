@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-03 11:19 JST／対象: 10/03 05:19 〜 10/03 11:19 JST（時刻はすべて日本時間）
+生成: 2026-10-03 11:44 JST／対象: 10/03 05:44 〜 10/03 11:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 36 | 10/03 09:03 | 10/03 10:22 | 12分（09:26→09:38） |
-| financialjuice | 22 | 10/03 05:20 | 10/03 10:26 | ⚠ 71分（05:20→06:32） |
+| FirstSquawk | 46 | 10/03 09:03 | 10/03 11:42 | ⚠ 75分（10:22→11:37） |
+| financialjuice | 22 | 10/03 06:32 | 10/03 11:22 | ⚠ 56分（10:26→11:22） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 58 行（統合前 58 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 68 行（統合前 68 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/03 05:20 [financialjuice] scope affirms US long-term ratings at aa- with stable outlook
 - 10/03 06:32 [financialjuice] Columbia University journalism program pauses admissions after applications fall over US visa rules: sources
 - 10/03 06:41 [financialjuice] North Korea launches unidentified projectile into sea off east coast: South Korea military
 - 10/03 07:01 [financialjuice] North Korean missile seems to have landed beyond Japan's EEZ: NHK
@@ -82,3 +81,14 @@
 - 10/03 10:13 [FirstSquawk] Unplanned flare event reported at Marathon’s Wilmington refinery in California
 - 10/03 10:22 [FirstSquawk] Five killed in Gaza City apartment strike as death toll rises
 - 10/03 10:26 [financialjuice] Japan finance minister katayama: government transparency on forex reserve makeup has limits
+- 10/03 11:22 [financialjuice] China commerce ministry launches anti-dumping probe into p-nitrotoluene from EU
+- 10/03 11:37 [FirstSquawk] Bolivia secures $1.9 billion IMF financing package under 36-month EFF
+- 10/03 11:38 [FirstSquawk] Bolivia receives IMF executive board approval for 36-month Extended Fund Facility arrangement
+- 10/03 11:38 [FirstSquawk] NHK says North Korean missile appears to have fallen outside Japan’s EEZ
+- 10/03 11:39 [FirstSquawk] France’s EDF lowers Civaux 1 reactor output to 1,150 MW amid environmental issues
+- 10/03 11:39 [FirstSquawk] Brazil’s Porto Serviço seeks to cancel public company registration with CVM, filing says
+- 10/03 11:39 [FirstSquawk] North Korea launches unidentified projectile toward waters off east coast, South Korea says
+- 10/03 11:40 [FirstSquawk] Brazil’s TOTVS divests 80% stake in RJ Participações for 39 million reais
+- 10/03 11:41 [FirstSquawk] GameStop CEO Ryan Cohen reports open-market purchase of 700,000 shares at $24.4061 each
+- 10/03 11:42 [FirstSquawk] Gaza death toll from Israeli airstrikes rises to 8, including 4 women, Al Arabiya reports
+- 10/03 11:42 [FirstSquawk] Minnesota’s AI “nudification” law temporarily blocked by US appeals court in xAI lawsuit
