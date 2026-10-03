@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-03 16:48 JST／対象: 10/03 04:48 〜 10/03 16:48 JST（時刻はすべて日本時間）
+生成: 2026-10-03 17:01 JST／対象: 10/03 05:01 〜 10/03 17:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 3 | 10/03 05:00 | 10/03 05:04 | 4分（05:00→05:04） |
-| FirstSquawk | 123 | 10/03 04:54 | 10/03 16:14 | ⚠ 240分（05:02→09:03） |
-| financialjuice | 50 | 10/03 04:51 | 10/03 16:46 | ⚠ 119分（13:18→15:17） |
+| DeItaone | 1 | 10/03 05:04 | 10/03 05:04 | - |
+| FirstSquawk | 125 | 10/03 05:01 | 10/03 16:57 | ⚠ 240分（05:02→09:03） |
+| financialjuice | 39 | 10/03 05:01 | 10/03 16:46 | ⚠ 119分（13:18→15:17） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 173 行（統合前 177 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 163 行（統合前 165 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/03 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 1156.7 MLN NASDAQ 100: 394.0 MLN DOW 30: 510.1 MLN MAG 7: 356.0 MLN $MACRO
-- 10/03 04:54 [financialjuice] Oman banned Flydubai attacker from flying for radical views, sources say - WSJ
-- 10/03 04:54 [financialjuice] attacker subsequently allowed to fly a sensitive route to Tel Aviv from Dubai - WSJ
-- 10/03 04:54 [FirstSquawk] US WILL PROVIDE A $4 BILLION LOAN TO VISTRA TO INCREASE NUCLEAR PRODUCTION.
-- 10/03 04:55 [financialjuice] Nature of radicalization couldn't be determined - WSJ
-- 10/03 04:58 [financialjuice] Trump: Iran is not doing well.
-- 10/03 04:59 [FirstSquawk] TRUMP ON SOUTH KOREA INVESTMENT IN US: I DIDN'T JUMP THE GUN ON ALASKA PIPELINE
-- 10/03 04:59 [financialjuice] Trump on South Korea investment in the US: I didn't jump the gun on the Alaska pipeline.
-- 10/03 04:59 [financialjuice] Trump: If South Korea doesn't do the pipeline, will charge them more.
-- 10/03 05:00 [financialjuice] Trump Departs White House - WATCH LIVE
-- 10/03 05:00 [FirstSquawk/DeItaone] TRUMP ON DIESEL: WE'RE NOT GOING TO BE DOING THE EXPORT BAN
-- 10/03 05:00 [financialjuice] Trump on Diesel: Won't do export ban.
-- 10/03 05:00 [financialjuice] Hedge funds turn short UK pound for the first time since 2024 - CFTC.
-- 10/03 05:00 [financialjuice] trump on Diesel: Europe is making a major contribution, so are we
-- 10/03 05:00 [DeItaone] TRUMP ON DIESEL: WE HAVE A VERY GOOD RELATIONSHIP WITH EUROPE
 - 10/03 05:01 [financialjuice] CME Group withdraws filing for 10-barrel oil futures.
 - 10/03 05:01 [FirstSquawk] NASDAQ UNOFFICIALLY CLOSES UP 314.26 POINTS, OR 1.17 PERCENT, AT 27,185.85 S&P 500 UNOFFICIALLY CLOSES UP 57.53 POINTS, OR 0.75 PERCENT, AT 7,723.98 DOW JONES UNOFFICIALLY CLOSES UP 270.94 POINTS, OR 0.53%, AT 51,197.50
 - 10/03 05:01 [financialjuice] Trump: We were never going to do a diesel export ban
@@ -197,3 +182,8 @@
 - 10/03 16:13 [FirstSquawk] 7 month into war with the US, Iran’s leaders are feeling the strain. Inflation in the Islamic Republic is almost 90%, and a US blockade is choking off Iran’s crude exports, while diplomacy remains deadlocked.
 - 10/03 16:14 [FirstSquawk] Trump: I am pleased to announce that my Administration will, immediately, begin sending “Checks” of nearly $100 to over 20 MILLION wonderful Seniors to help pay for their Medicare Part B premiums, which we have already reduced by significan…
 - 10/03 16:46 [financialjuice] Vilnius airport reopens after drone warning lifted: Lithuania's national crisis control centre
+- 10/03 16:55 [FirstSquawk] China has connected its first 100-megawatt-class compressed carbon dioxide energy storage facility to the grid, marking a major advance in large-scale, zero-carbon energy storage.
+- 10/03 16:55 [FirstSquawk] U.S. Navy MQ-4C Triton surveillance drone ended up on the riverbank at the end of a runway at Naval Station Mayport, Florida, after what appears to be a landing overrun.
+- 10/03 16:56 [FirstSquawk] SpaceX launched three missions in less than 13 hours. • Crew-13: 4 astronauts to the ISS • Transporter-18: payloads to orbit • NROL-97: Classified NRO mission
+- 10/03 16:56 [FirstSquawk] Researchers drove a Chinese NIO electric SUV into a Norwegian mine to cut its connections. It kept trying to reach servers in China. About 90% of its traffic went there.
+- 10/03 16:57 [FirstSquawk] Ethiopian federal forces and allied pro-government Tigray militias are closing in on Mekelle, Tigray's capital, after reversing a TPLF-led offensive that began in late September.
