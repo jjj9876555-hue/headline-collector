@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-03 13:22 JST／対象: 10/03 07:22 〜 10/03 13:22 JST（時刻はすべて日本時間）
+生成: 2026-10-03 13:39 JST／対象: 10/03 07:39 〜 10/03 13:39 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 79 | 10/03 09:03 | 10/03 13:18 | ⚠ 75分（10:22→11:37） |
-| financialjuice | 23 | 10/03 07:23 | 10/03 13:18 | ⚠ 56分（10:26→11:22） |
+| FirstSquawk | 84 | 10/03 09:03 | 10/03 13:38 | ⚠ 75分（10:22→11:37） |
+| financialjuice | 22 | 10/03 07:42 | 10/03 13:18 | ⚠ 56分（10:26→11:22） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 101 行（統合前 102 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 105 行（統合前 106 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/03 07:23 [financialjuice] OpenAI's Altman: Cerebras is a close partner with deep engagement after partnership speculation
 - 10/03 07:42 [financialjuice] North Korea's projectile was ballistic missile: South Korean military
 - 10/03 07:43 [financialjuice] North Korea launches ballistic missile from Wonsan: South Korean military
 - 10/03 07:43 [financialjuice] South Korean military heightens alert on additional launches: South Korea's defense ministry
@@ -125,3 +124,8 @@
 - 10/03 13:17 [FirstSquawk] SJP restructures loan scheme amid efforts to reduce customer disruption - FT
 - 10/03 13:18 [financialjuice] Taiwan foreign minister to visit Arizona to strengthen economic relations
 - 10/03 13:18 [FirstSquawk] Taiwan minister to visit Arizona as Taipei seeks stronger economic ties
+- 10/03 13:24 [FirstSquawk] AI misconduct accusations prompt students to seek legal advice - FT
+- 10/03 13:27 [FirstSquawk] Europe’s booming hostel market draws growing private capital - FT
+- 10/03 13:28 [FirstSquawk] Chinese-origin autos surpass Western competitors in quality, tech, Argentina importer says
+- 10/03 13:36 [FirstSquawk] Komeito elects new leader after merger talks with LDP collapse - Kyodo
+- 10/03 13:38 [FirstSquawk] Kazakhstan weighs subsea pipeline, tanker fleet expansion for Trans-Caspian oil route
