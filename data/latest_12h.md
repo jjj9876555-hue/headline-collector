@@ -7,71 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-03 20:04 JST／対象: 10/03 08:04 〜 10/03 20:04 JST（時刻はすべて日本時間）
+生成: 2026-10-03 23:35 JST／対象: 10/03 11:35 〜 10/03 23:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 147 | 10/03 09:03 | 10/03 19:53 | ⚠ 75分（10:22→11:37） |
-| financialjuice | 30 | 10/03 08:16 | 10/03 19:30 | ⚠ 119分（13:18→15:17） |
+| FirstSquawk | 148 | 10/03 11:37 | 10/03 23:24 | ⚠ 66分（17:40→18:47） |
+| financialjuice | 22 | 10/03 11:58 | 10/03 23:31 | ⚠ 165分（20:32→23:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 174 行（統合前 177 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 167 行（統合前 170 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/03 08:16 [financialjuice] Ukmto: incident reported 4 nautical miles east of Oman
-- 10/03 08:17 [financialjuice] UKMTO: master of crude oil tanker reports being hit by unknown projectile on port side
-- 10/03 08:17 [financialjuice] UKMTO: all crew reported safe with no environmental impact so far
-- 10/03 08:20 [financialjuice] David Robinson, leader on OpenAI's safety systems team, resigns from company - Business Insider
-- 10/03 08:23 [financialjuice] South Korea's Blue House: convenes national security council meeting on North Korea missile launch
-- 10/03 09:03 [FirstSquawk] Bayer announces $2.2 billion U.S. pharma manufacturing expansion -WSJ
-- 10/03 09:03 [financialjuice] North Korean missile flew over 700 kilometers: South Korean military
-- 10/03 09:04 [FirstSquawk] Trump: Iran war will end soon, either through deal or military action
-- 10/03 09:04 [FirstSquawk] Trump: Iran’s military capabilities have been eliminated
-- 10/03 09:05 [FirstSquawk] Trump: Current action costs much less than allowing Iran to obtain a nuclear weapon
-- 10/03 09:07 [FirstSquawk] Trump says Iran will never be allowed to obtain a nuclear weapon
-- 10/03 09:07 [FirstSquawk] Trump policy changes expected to increase U.S. household energy bills: Think tank
-- 10/03 09:08 [FirstSquawk] Trump says U.S. exports have hit record levels
-- 10/03 09:09 [FirstSquawk] UKMTO: Crude oil tanker hit by unknown projectile off Oman
-- 10/03 09:13 [FirstSquawk] Trump explains Alabama, Oklahoma and Texas stops ahead of midterms
-- 10/03 09:14 [FirstSquawk] Japan’s TEPCO takes aim at ‘capacity squatters’ in AI data center expansion - NA
-- 10/03 09:15 [FirstSquawk] Iraq: 40 Iranian flights per day cleared to fly to and from Najaf
-- 10/03 09:17 [FirstSquawk] Oil tanker attack off Oman leaves no injuries or environmental damage: UK Maritime Authority
-- 10/03 09:17 [financialjuice] Trump: we're going to soon replenish our strategic oil reserves
-- 10/03 09:19 [FirstSquawk] TSMC affiliate VIS eyes new Singapore plant after first facility fills up instantly
-- 10/03 09:20 [FirstSquawk] 3.North Korea fires ballistic missile, South Korea says
-- 10/03 09:23 [FirstSquawk] Warplanes target Houthi gatherings east of Taiz, Yemeni Armed Forces say
-- 10/03 09:25 [FirstSquawk] Israeli airstrike on residential apartment in Gaza City kills at least 3: Al Arabiya
-- 10/03 09:26 [FirstSquawk] Ukraine to accelerate identification of fallen Ukrainians, Budanov says
-- 10/03 09:38 [FirstSquawk] 3.Palestinian media reports injuries after Israeli airstrike hits Gaza City apartment
-- 10/03 09:39 [FirstSquawk] 4.Saudi Civil Defense reports injury, mosque damage from Houthi missile fragments in Ahad Rafidah
-- 10/03 09:47 [FirstSquawk] Japan sharply raises residency fees, with stricter income and language rules looming
-- 10/03 09:48 [FirstSquawk] Light AI reassessing schedule for U.S. clinical and FDA regulatory activities
-- 10/03 09:48 [FirstSquawk] Trump signals imminent replenishment of U.S. strategic oil reserves
-- 10/03 09:49 [FirstSquawk] South Korean military says North Korean missile traveled over 700 kilometers
-- 10/03 09:50 [FirstSquawk] South Korea convenes National Security Council meeting following North Korean missile launch
-- 10/03 09:51 [FirstSquawk] OpenAI’s David Robinson, a safety systems team leader, has resigned: Business Insider
-- 10/03 09:51 [FirstSquawk] UKMTO says all crew are safe, no environmental impact reported at this time
-- 10/03 09:52 [FirstSquawk] UKMTO: Crude oil tanker hit by unknown projectile on port side, master reports
-- 10/03 09:52 [FirstSquawk] UKMTO: Incident reported off Oman, 4 nautical miles east of the country
-- 10/03 09:53 [FirstSquawk] South Korean military on alert for further launches, defence ministry says
-- 10/03 09:53 [FirstSquawk] South Korea says North Korea fired ballistic missile from Wonsan
-- 10/03 09:54 [FirstSquawk] South Korean military says North Korea’s projectile was a ballistic missile
-- 10/03 10:03 [FirstSquawk] OPenAI’s Altman says company has deep engagement with Cerebras after partnership speculation
-- 10/03 10:04 [FirstSquawk] Vietnam September coffee exports increase 16.2% from a year earlier
-- 10/03 10:06 [financialjuice] Japan finance minister Katayama: US and Japan agree to remain ready for decisive measures against forex volatility
-- 10/03 10:06 [financialjuice] Japan finance minister Katayama: forex trend shifted somewhat since joint currency intervention
-- 10/03 10:11 [financialjuice] Japan finance minister Katayama: Bessent questions if Japan government has been sending consistent messages to markets
-- 10/03 10:13 [FirstSquawk] One injured by shrapnel from intercepted ballistic missile in Asir, Saudi civil defense says
-- 10/03 10:13 [FirstSquawk] Unplanned flare event reported at Marathon’s Wilmington refinery in California
-- 10/03 10:22 [FirstSquawk] Five killed in Gaza City apartment strike as death toll rises
-- 10/03 10:26 [financialjuice] Japan finance minister katayama: government transparency on forex reserve makeup has limits
-- 10/03 11:22 [financialjuice] China commerce ministry launches anti-dumping probe into p-nitrotoluene from EU
 - 10/03 11:37 [FirstSquawk] Bolivia secures $1.9 billion IMF financing package under 36-month EFF
 - 10/03 11:38 [FirstSquawk] Bolivia receives IMF executive board approval for 36-month Extended Fund Facility arrangement
 - 10/03 11:38 [FirstSquawk] NHK says North Korean missile appears to have fallen outside Japan’s EEZ
@@ -198,3 +150,44 @@
 - 10/03 19:52 [FirstSquawk] THE TRUMP ADMINISTRATION'S UKRAINE TALKS WITH RUSSIA HAVE EXPANDED TO INCLUDE A MULTIBILLION-DOLLAR DEAL FOR LUKOIL'S INTERNATIONAL ASSETS, WITH PUTIN HAVING RAISED THE DEAL WITH STEVE WITKOFF AND JARED KUSHNER DURING A SEPT. 5 KREMLIN MEET…
 - 10/03 19:52 [FirstSquawk] THE LEADING BIDDER IS A GROUP INVOLVING TRUMP DONOR TODD BOEHLY, QATAR-BASED INVESTORS WITH BUSINESS TIES TO KUSHNER, AN ABU DHABI FUND LINKED TO SHEIKH TAHNOON, AND THE U.S. GOVERNMENT, WITH NO INDICATION KUSHNER OR WITKOFF WOULD PERSONALL…
 - 10/03 19:53 [FirstSquawk] ZELENSKY URGES TRUMP TO SANCTION RUSSIAN & CHINESE COMPANIES DEVELOPING ‘RASSVET’ SATELLITE NETWORK TO RIVAL STARLINK — FT
+- 10/03 20:08 [FirstSquawk] AFP: Explosions heard in the Yemeni capital Sanaa
+- 10/03 20:08 [FirstSquawk] Russian Foreign Ministry: Our forces will continue to launch large-scale retaliatory strikes against military targets in Kyiv and other Ukrainian cities.
+- 10/03 20:09 [FirstSquawk] Russian Foreign Ministry: We reiterate our warning to foreign nationals and diplomatic mission staff against remaining in or traveling to Ukraine.
+- 10/03 20:09 [FirstSquawk] Russian Foreign Ministry: Foreigners and diplomats who have not left Kyiv are deliberately putting their lives at mortal risk.
+- 10/03 20:10 [FirstSquawk] RENAULT GROUP TO INVEST MORE THAN €10 BILLION IN FRANCE OVER COMING YEARS IN EVS & MORE AFFORDABLE CARS — CEO
+- 10/03 20:11 [FirstSquawk] RENAULT GROUP EXPECTS FRANCE PRODUCTION TO RISE MORE THAN 25% IN 2026, DRIVEN BY GROWING EV OUTPUT — CEO
+- 10/03 20:20 [FirstSquawk] OPENAI SAFETY SYSTEMS LEADER DAVID ROBINSON RESIGNS FROM COMPANY — BUSINESS INSIDER
+- 10/03 20:22 [FirstSquawk] Lebanese News Agency: Massive and powerful explosions in Mansouri and tremors felt in Tyre, southern Lebanon
+- 10/03 20:31 [financialjuice] Large plume of smoke and flames seen near Aramco facility in Riyadh: witness
+- 10/03 20:32 [financialjuice] No immediate confirmation from Saudi authorities or Aramco on fire near Riyadh site
+- 10/03 20:42 [FirstSquawk] AFP: Tens of thousands demonstrate in Madrid and other Spanish cities over the housing crisis
+- 10/03 20:55 [FirstSquawk] FIRE & LARGE PLUME OF SMOKE REPORTED NEAR ARAMCO FACILITY IN RIYADH; NO IMMEDIATE CONFIRMATION FROM SAUDI AUTHORITIES OR ARAMCO
+- 10/03 21:30 [FirstSquawk] Hamas: The massacre at the Al-Asala building is a brutal crime that confirms the occupation's determination to continue its war of extermination in Gaza.
+- 10/03 21:30 [FirstSquawk] Hamas: The martyrdom of a mother and her daughter, both Christians from our community, in the Al-Asala massacre confirms that the occupation targets our people in all their diversity.
+- 10/03 21:31 [FirstSquawk] Hamas: We demand that mediators and the US administration prevent Netanyahu from using the ceasefire agreement as a cover to continue his massacres in Gaza.
+- 10/03 21:38 [FirstSquawk] IRAN’S EXCHANGE SUSPENDED TRADING IN SIX LISTED OIL REFINERS — ISFAHAN, BANDAR ABBAS, TEHRAN, TABRIZ, SHIRAZ AND LAVAN — THROUGH OCT. 14 FOR LATE DISCLOSURE OF MATERIAL INFORMATION.
+- 10/03 21:38 [FirstSquawk] THE HALTS COVER ALMOST THE ENTIRE LISTED REFINING SECTOR, AS DOMESTIC REFINERS FACE GREATER PRESSURE AFTER IRANIAN OIL EXPORTS FELL TO ABOUT 0.5 MILLION B/D IN JULY-AUGUST FROM 2.6 MILLION B/D IN JANUARY.
+- 10/03 21:51 [FirstSquawk] ISRAELI AIRSTRIKE HITS GAZA CITY APARTMENT, KILLING AT LEAST 5 & WOUNDING 6 — AL JAZEERA
+- 10/03 21:52 [FirstSquawk] ISRAELI PRIME MINISTER NETANYAHU HAS ATTACKED BRITAIN AGAIN, SAYING 'THE BRITISH GOVERNMENT, IN ORDER TO INGRATIATE ITSELF WITH ITS POLITICAL BASE, HAS GONE ROGUE. LIKE A ROGUE STATE'. - DAILY MAIL
+- 10/03 21:52 [FirstSquawk] NETANYAHU SAYS 'ISLAMISTS AND LEFTISTS OUGHT TO BE NATURAL ADVERSARIES', ARGUING THAT 'ISLAMISTS HANG GAYS AND DEPRIVE WOMEN OF ANY RIGHTS'. - DAILY MAIL
+- 10/03 21:52 [FirstSquawk] NETANYAHU SAYS ON BRITAIN THAT 'IF BRITAIN DOESN'T REGAIN CONTROL OVER ITS BORDERS, YOU WILL LOSE BRITAIN' - DAILY MAIL
+- 10/03 21:53 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT SAYS 'WE WILL GET TO THE OTHER SIDE OF THIS IRAN CONFLICT' AND THAT 'WAGE GAINS WILL KEEP COMING BECAUSE WE ARE HAVING A MANUFACTURING RENAISSANCE'. - AXIOS
+- 10/03 21:53 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT SAYS ON CHINA THAT OVER THE PAST 60 DAYS IT HAS 'WOKEN UP TO... HOW POWERFUL THEIR OPEN SOURCE MODELS ARE', ACCUSING CHINESE FIRMS OF 'INDUSTRIAL DISTILLATION, WHICH IS A NICE WORD FOR STEALING FROM THE U.S. …
+- 10/03 21:53 [FirstSquawk] ASKED ABOUT CEOS 'SCREAMING FOR REGULATION' AND WARNING OF LOSING CONTROL OF AI, BESSENT SAYS 'WELL, THEN THEY SHOULD SLOW DOWN', LIKENING IT TO 'HANNIBAL LECTER: STOP ME BEFORE I KILL AGAIN' - AXIOS
+- 10/03 21:53 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT SAYS ON ELON MUSK THAT 'I AM A HUGE ELON FAN' AND WAS 'VERY SUPPORTIVE' OF WHAT HE WAS TRYING TO DO WITH GOVERNMENT, LIKENING THEM TO 'A SPORTS TEAM' THAT 'CAN HAVE AN ARGUMENT IN THE LOCKER ROOM, BUT YOU GO …
+- 10/03 21:53 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT SAYS ON IRAN THAT 'FOR THE FIRST TIME IN HISTORY, SINCE THEY STARTED PUMPING OIL, THEY WILL HAVE NO OIL ON THE WATER THIS WEEK', ADDING 'THEY WILL HAVE NO REVENUES' - AXIOS
+- 10/03 21:56 [FirstSquawk] SOUTH KOREA’S FINANCIAL SERVICES COMMISSION WILL HOLD AN EMERGENCY MEETING ON SUNDAY AFTER A SPATE OF CYBERSECURITY INCIDENTS AND DATA LEAKS, WITH FSC CHAIR LEE EOG-EWON TO REVIEW THE BREACHES AND DISCUSS RESPONSE MEASURES.
+- 10/03 21:56 [FirstSquawk] DATA LEAKS HAVE BEEN CONFIRMED AT SHINHAN, KB KOOKMIN, HANA AND BNK BUSAN BANKS, AS WELL AS YEGARAM SAVINGS BANK, WHERE ABOUT 40,000 CUSTOMERS WERE AFFECTED; HYUNDAI CAPITAL ALSO REPORTED A LEAK INVOLVING 146 MORTGAGE AGENTS.
+- 10/03 22:15 [FirstSquawk] OPENAI AI-SAFETY EMPLOYEE DAVID ROBINSON QUIT THE COMPANY, WARNING THAT LEADING AI FIRMS ARE NOT DOING ENOUGH TO MANAGE RISKS AS THE TECHNOLOGY’S CAPABILITIES GROW. ROBINSON SAID AI COMPANIES SHOULD OPERATE MORE LIKE NUCLEAR POWER PLANTS, W…
+- 10/03 22:23 [FirstSquawk] IRAN HALTS TRADING IN SIX OIL REFINERS IRAN SUSPENDED TRADING IN ISFAHAN, BANDAR ABBAS, TEHRAN, TABRIZ, SHIRAZ AND LAVAN REFINERS THROUGH OCT. 14 OVER LATE DISCLOSURE OF MATERIAL INFORMATION. THE SIX HALTS WERE ANNOUNCED WITHIN 16 MINUTES, …
+- 10/03 22:46 [FirstSquawk] Israeli army: We killed two commanders in the Islamic Jihad's missile system in two separate airstrikes on Gaza yesterday
+- 10/03 22:46 [FirstSquawk] Israeli army radio: Assassination attempt on Ali al-Omari, a prominent Hamas leader, in Gaza last night appears to have failed.
+- 10/03 22:46 [FirstSquawk] EXPLOSIONS WERE HEARD OFF IRAN'S QESHM ISLAND - MEHR
+- 10/03 23:06 [FirstSquawk] NORTH KOREA TEST-FIRED AN INTERMEDIATE-RANGE BALLISTIC MISSILE CAPABLE OF LOW-ALTITUDE MANEUVERING, WITH KIM YO JONG CLAIMING IT HAS AI CAPABILITIES THAT COULD COMPLICATE MISSILE INTERCEPTION. THE LAUNCH COMES AMID RISING BORDER TENSIONS AF…
+- 10/03 23:18 [financialjuice] Venezuela September inflation rises 8.4%: central bank
+- 10/03 23:23 [FirstSquawk] Israeli army: 8 soldiers from the 7th Armored Brigade were injured in a traffic accident during military operations in southern Lebanon yesterday.
+- 10/03 23:24 [FirstSquawk] Israeli Army Radio: The assassination attempt against senior Hamas leader Ali al-Amoudi in Gaza last night apparently failed.
+- 10/03 23:24 [FirstSquawk] Yemen News Agency: Government forces have seized control of Sam'a Fort southeast of Taiz following fierce clashes
+- 10/03 23:24 [FirstSquawk] Israeli occupation army patrol has entered the Quneitra countryside towards the town of Kodna and set up a checkpoint.
+- 10/03 23:24 [FirstSquawk] Clashes between Palestinians and settlers in the village of Al-Mughayyir in Ramallah, West Bank
+- 10/03 23:31 [financialjuice] Russia hits cargo vessel in Ukraine's Odesa port: Ifax

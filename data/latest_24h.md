@@ -7,176 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-03 20:04 JST／対象: 10/02 20:04 〜 10/03 20:04 JST（時刻はすべて日本時間）
+生成: 2026-10-03 23:35 JST／対象: 10/02 23:35 〜 10/03 23:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 41 | 10/02 20:09 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
-| FirstSquawk | 247 | 10/02 20:08 | 10/03 19:53 | ⚠ 240分（05:02→09:03） |
-| financialjuice | 179 | 10/02 20:12 | 10/03 19:30 | ⚠ 119分（13:18→15:17） |
+| DeItaone | 5 | 10/03 00:28 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
+| FirstSquawk | 233 | 10/02 23:41 | 10/03 23:24 | ⚠ 240分（05:02→09:03） |
+| financialjuice | 113 | 10/02 23:37 | 10/03 23:31 | ⚠ 165分（20:32→23:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 452 行（統合前 469 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 340 行（統合前 353 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 20:08 [FirstSquawk] EU PREPARES FOR JOINT OIL MARKET MOVES IF IEA DEEMS IT NEEDED.
-- 10/02 20:08 [FirstSquawk] ALIBABA AND SOLARIA ARE DISCUSSING A POWER SUPPLY FOR A DATA CENTER IN SPAIN.
-- 10/02 20:08 [FirstSquawk] ALIBABA AND SOLARIA ARE IN INITIAL DISCUSSIONS, NO CONCLUSIONS REACHED YET.
-- 10/02 20:09 [DeItaone] FRENCH BOND ROUT APPROACHES EURO DEBT-CRISIS LEVELS France’s 10-year yield spread over Germany widened to 152 basis points, reaching levels not seen since 2011 as fiscal and political concerns intensify. Candriam CIO Nicolas Forest says Fre…
-- 10/02 20:12 [DeItaone] OPEC+ OIL PRODUCTION CAPACITY ASSESSMENT EXERCISE IS DELAYED BECAUSE NOT ALL COUNTRIES HAVE SUBMITTED DATA, SOURCES SAY OPEC+ OIL CAPACITY ASSESSMENT EXERCISE IS EXPECTED TO BE COMPLETED BY MID-NOVEMBER, SOURCE SAYS
-- 10/02 20:12 [financialjuice] Russian Deputy PM Novak: OPEC+ countries will discuss standard issues relating to the oil market and quota compliance at Sunday's meeting
-- 10/02 20:12 [financialjuice] OPEC+ oil production capacity assessment exercise is delayed because not all countries have submitted data - Sources
-- 10/02 20:12 [financialjuice] OPEC+ oil capacity assessment exercise is expected to be completed by mid-November - Source.
-- 10/02 20:13 [financialjuice] Russian Deputy PM Novak: Russia is currently basing its 2027 oil production forecast on a moderately conservative scenario
-- 10/02 20:14 [financialjuice] Russia’s Deputy PM Novak: OPEC+ members continue production capacity review - Tass
-- 10/02 20:17 [financialjuice] Microsoft & Amazon cloud arms set to face deeper EU scrutiny $MSFT $AMZN
-- 10/02 20:18 [FirstSquawk] MICROSOFT AND AMAZON'S CLOUD DIVISIONS WILL UNDERGO MORE EXAMINATION BY THE EU.
-- 10/02 20:23 [FirstSquawk] RUSSIAN DEPUTY PM NOVAK ANNOUNCED THAT OPEC+ MEMBERS WILL TALK ABOUT OIL MARKET MATTERS AND QUOTA FULFILLMENT AT THE SUNDAY MEETING.
-- 10/02 20:23 [FirstSquawk] RUSSIAN DEPUTY PM NOVAK STATES RUSSIA IS USING A MODERATELY CONSERVATIVE SCENARIO FOR ITS 2027 OIL PRODUCTION FORECAST.
-- 10/02 20:31 [financialjuice] ECB's Vujcic: Bank capital levels are not a competitive disadvantage for Europe, but rules could be simplified
-- 10/02 20:33 [financialjuice/DeItaone] Saudi Arabia pumping close to 6m b/d oil on East-West pipeline.
-- 10/02 20:33 [financialjuice] Saudi Arabia has about 4.5m b/d pipeline flow available for export
-- 10/02 20:35 [financialjuice] Standard Chartered expects the ECB to deliver a 25 bps rate hike in December 2026 vs. the prior forecast of unchanged rates
-- 10/02 20:35 [FirstSquawk] SAUDI ARABIA IS NEARLY PRODUCING 6 MILLION BARRELS PER DAY OF OIL ON THE EAST-WEST PIPELINE.
-- 10/02 20:35 [FirstSquawk] SAUDI ARABIA HAS AROUND 4.5 MILLION BARRELS PER DAY OF PIPELINE CAPACITY READY FOR EXPORT.
-- 10/02 20:37 [DeItaone] *SAUDI HAS ABOUT 4.5M B/D PIPELINE FLOW AVAILABLE FOR EXPORT
-- 10/02 20:38 [financialjuice] Standard Chartered expects the ECB to deliver a 25 bp rate cut in Q4 2027 vs. the prior forecast of Q3
-- 10/02 20:46 [financialjuice] Pakistan Foreign Minister: A meeting of the strategic political defence committee under the Makkah Accord to meet in Riyadh soon
-- 10/02 20:46 [DeItaone] $NVDA - MORGAN STANLEY MAKES NVIDIA ITS TOP SEMICONDUCTOR PICK Morgan Stanley reinstated Nvidia as its top semiconductor pick, citing strong positioning and an attractive valuation. Nvidia trades at roughly 15x Morgan Stanley’s FY2028 earni…
-- 10/02 20:46 [FirstSquawk] PAKISTAN'S FOREIGN MINISTER ANNOUNCED A MEETING OF THE STRATEGIC POLITICAL DEFENCE COMMITTEE UNDER THE MAKKAH ACCORD WILL TAKE PLACE IN RIYADH SOON.
-- 10/02 20:50 [DeItaone/financialjuice] FRANCE'S MACRON TO CHAIR A VIDEOCONFERENCE OF G7 LEADERS TODAY AT 2:30 P.M. FOCUSED ON THE GLOBAL ENERGY SITUATION - ELYSEE
-- 10/02 20:52 [financialjuice] The EU presidency will convene a meeting of coreper i at 15:30 to discuss the global energy situation
-- 10/02 20:55 [DeItaone] 📉 PRICE TARGET CUTS • $NKE: PT cut to $60 from $75 by Jefferies • $NKE: PT cut to $36 from $40 by Stifel • $NKE: PT cut to $24 from $30 by BofA Securities • $NKE: PT cut to $50 from $55 by BTIG • $NKE: PT cut to $30 from $38 by Goldman Sach…
-- 10/02 20:56 [DeItaone] FRENCH 10-YEAR GOVERNMENT BONDS HIT 4.989%, HIGHEST SINCE 2002: LSEG
-- 10/02 20:58 [financialjuice] Iran's IRGC: Ready for response to any threat or attack. The response would be more lethal than the previous one
-- 10/02 20:58 [financialjuice] Morning Juice – US Session Prep (2nd October)
-- 10/02 21:00 [DeItaone] *IRAN IRGC SAYS RESPONSE WOULD BE MORE LETHAL THAN PREVIOUS ONE *IRAN'S IRGC SAYS READY FOR RESPONSE TO ANY THREAT, ATTACK
-- 10/02 21:00 [financialjuice] Secured overnight financing rate 3.87% October 1st vs 3.90% September 30th.
-- 10/02 21:02 [financialjuice] Price of Russian gas for China may rise 1.4% in 2027 - Tass
-- 10/02 21:03 [financialjuice] Pakistan foreign minister: Meeting in Riyadh next week will focus on Houthi attacks in Saudi Arabia
-- 10/02 21:03 [DeItaone] GOLDMAN: U.S. DIESEL BAN COULD HIT LATIN AMERICA HARDEST Goldman Sachs estimates a sudden cutoff of U.S. diesel exports could reduce Latin American GDP by around 1%, although inventories and alternative suppliers would soften the impact. In…
-- 10/02 21:05 [DeItaone] IRGC REITERATES HARDLINE WARNING TO U.S. AND ISRAEL Iran’s Islamic Revolutionary Guard Corps says it remains prepared to respond “decisively, immediately, painfully and lethally” to any threat, aggression or potential miscalculation by the …
-- 10/02 21:12 [DeItaone] PAKISTAN FOREIGN MINISTER: THERE SHOULDN’T BE ANY FEE OR CHARGES TO CROSS HORMUZ
-- 10/02 21:19 [financialjuice] Pakistan Foreign Minister: We will discuss political engagement with Houthis instead of kinetic action in the meeting next week
-- 10/02 21:22 [DeItaone] FRENCH 2-YEAR GOVERNMENT BOND YIELD EXTENDS RISE, LAST UP 13.8 BPS AT 3.8337%
-- 10/02 21:25 [financialjuice] Pakistan's foreign minister: More than six countries are keen to join the Makkah defence pact
-- 10/02 21:30 [DeItaone] US LABOR SEP NONFARM PAYROLLS +29K; CONSENSUS +84K
-- 10/02 21:30 [financialjuice] US AVERAGE WORKWEEK HRS ACTUAL 34.4 (FORECAST 34.3, PREVIOUS 34.4) $MACRO
-- 10/02 21:30 [financialjuice] ❗ US AVERAGE EARNINGS YOY ACTUAL 3% (FORECAST 3.1%, PREVIOUS 3.1%) $MACRO
-- 10/02 21:30 [financialjuice] US PRIVATE PAYROLLS ACTUAL 46K (FORECAST 81K, PREVIOUS 127K) $MACRO
-- 10/02 21:30 [financialjuice] ‼ BREAKING: US NONFARM PAYROLLS ACTUAL 29K (FORECAST 90K, PREVIOUS 162K) $MACRO
-- 10/02 21:30 [financialjuice] US LABOR FORCE PARTICIPATION ACTUAL 61.8% (FORECAST 61.6%, PREVIOUS 61.6%) $MACRO
-- 10/02 21:30 [financialjuice] US MANUFACTURING PAYROLLS ACTUAL 9K (FORECAST 10K, PREVIOUS 16K ,REVISION 15K) $MACRO
-- 10/02 21:30 [financialjuice] ❗ US UNEMPLOYMENT RATE ACTUAL 4.2% (FORECAST 4.1%, PREVIOUS 4.1%) $MACRO
-- 10/02 21:30 [financialjuice] US GOVERNMENT PAYROLLS ACTUAL -17K (FORECAST -, PREVIOUS 35K ,REVISION 44K) $MACRO
-- 10/02 21:31 [DeItaone] U.S. PAYROLLS BADLY MISS EXPECTATIONS U.S. nonfarm payrolls rose just 29,000 in September vs. 84,000 expected, while the unemployment rate increased to 4.2% vs. 4.1% forecast. Private payrolls gained only 46,000, while government employment…
-- 10/02 21:31 [FirstSquawk] US NONFARM PAYROLLS (SEP) ACTUAL: 29K VS 162K PREVIOUS; EST 90K
-- 10/02 21:31 [FirstSquawk] US UNEMPLOYMENT RATE (SEP) ACTUAL: 4.2% VS 4.1% PREVIOUS; EST 4.1%
-- 10/02 21:31 [FirstSquawk] U.S AVERAGE HOURLY EARNINGS (MOM) (SEP) ACTUAL: 0.1% VS 0.3% PREVIOUS; EST 0.3%
-- 10/02 21:31 [financialjuice] US Employment Situation September 2026 Report
-- 10/02 21:31 [DeItaone] US SEPT. TWO-MONTH PAYROLL NET REVISION SUBTRACTS 60,000
-- 10/02 21:32 [financialjuice] US short-term interest-rate futures jump after weaker-than-expected jobs data, traders trim Fed rate hike bets.
-- 10/02 21:32 [financialjuice] Traders pare bets on October Fed rate hike
-- 10/02 21:33 [DeItaone] FED PAUSE ODDS SURGE TO 85% AFTER WEAK JOBS REPORT Kalshi now prices an 85% chance the Fed holds rates in October after payrolls rose just 29,000 vs. 84,000 expected. Unemployment climbed to 4.2%, triggering a sharp dovish repricing of the …
-- 10/02 21:35 [financialjuice] Russia's oil refining volumes down 14% year on year in January-September - Two industry sources
-- 10/02 21:36 [DeItaone] U.S. S&P 500 E-MINI FUTURES UP 0.9%, NASDAQ 100 FUTURES UP 1.2%, DOW FUTURES UP 0.9%
-- 10/02 21:37 [financialjuice/DeItaone] ❗ Fed-dated swaps no longer price one full rate hike this year.
-- 10/02 21:37 [DeItaone] CBOE VOLATILITY INDEX HITS ONE-WEEK LOW, LAST DOWN 0.79 POINTS AT 15.60
-- 10/02 21:39 [financialjuice] Trump: Republic of Korea deal keeps getting better.
-- 10/02 21:39 [financialjuice] trump: 8.4b dollars for enhanced oil recovery project.
-- 10/02 21:39 [DeItaone] TRUMP: SOUTH KOREA DEAL EXPANDS WITH $8.4 BILLION ENERGY PROJECT President Trump says the South Korea agreement now includes $8.4 billion for an enhanced oil recovery project. Trump says the investment will increase U.S. oil and gas product…
-- 10/02 21:40 [FirstSquawk] TRUMP ON TRUTH SOCIAL: I AM THRILLED TO ANNOUNCE THE REPUBLIC OF KOREA DEAL KEEPS GETTING BETTER! 8.4 BILLION DOLLARS FOR AN ENHANCED OIL RECOVERY PROJECT. PRODUCING MORE OIL AND GAS MEANS AMERICAN ENERGY DOMINANCE AND ENERGY SECURITY IN TH…
-- 10/02 21:45 [FirstSquawk] G7 WILL HAVE URGENT MEETINGS ON FRIDAY TO DISCUSS POSSIBLE RELEASE OF DIESEL RESERVES.
-- 10/02 21:45 [FirstSquawk] TRUMP ANNOUNCED AN IMPROVED DEAL WITH SOUTH KOREA WORTH $8.4 BILLION FOR AN OIL RECOVERY PROJECT, PROMISING INCREASED OIL AND GAS PRODUCTION, WHICH WILL STRENGTHEN AMERICAN ENERGY DOMINANCE AND SECURITY FOR THE FUTURE! - PRESIDENT DONALD J.…
-- 10/02 21:54 [DeItaone] *TRUMP, MACRON SPOKE LAST NIGHT TO DISCUSS ENERGY SITUATION: NBC
-- 10/02 21:56 [financialjuice] Israel's Prime Minister Netanyahu: We are investigating whether the pilot was sent, and whoever sent him will pay a very heavy price - i24 News Reporter.
-- 10/02 22:00 [FirstSquawk] EU AMBASSADORS WILL GATHER TODAY TO TALK ABOUT THE DIESEL MARKET.
-- 10/02 22:00 [financialjuice] Effective Fed Funds Rate 3.88% October 1 vs 3.88% September 30.
-- 10/02 22:02 [financialjuice] Tesla Q3 Deliveries Beat Estimates, Energy Storage Deployments Reach 13.7 GWh $TSLA Tesla Q3 total deliveries 486,532 units, above estimate of 456,896 units Tesla Q3 Model 3/Y production 457,387 units, deliveries 478,237 units Tesla Q3 othe…
-- 10/02 22:03 [DeItaone] $TSLA - *TESLA 3Q DELIVERIES 486,532, EST. 463,761 *TESLA 3Q OTHER MODELS DELIVERIES 7,004, EST. 9,759 *TESLA 3Q MODEL 3/Y PRODUCTION 457,387, EST. 481,279 *TESLA 3Q OTHER MODELS PRODUCTION 7,004, EST. 5,944 (2 EST.)
-- 10/02 22:03 [FirstSquawk] TESLA REPORTED 486,532 DELIVERIES FOR Q3, EXCEEDING ESTIMATES OF 463,761. MODEL 3/Y DELIVERIES HIT 478,237, BEATING EXPECTED 462,078. OTHER MODELS DELIVERED 7,004, FALLING SHORT OF 9,759 ANTICIPATED. TOTAL PRODUCTION REACHED 464,391 VEHICLE…
-- 10/02 22:03 [FirstSquawk] ORACLE WILL TAKE ON ABOUT $300 MILLION IN POINT BEACH ENERGY EXPENSES TO COMPLETELY FINANCE PROJECT LIGHTHOUSE ENERGY COSTS.
-- 10/02 22:06 [DeItaone] *EU AMBASSADORS TO MEET THIS AFTERNOON TO DISCUSS DIESEL MARKET
-- 10/02 22:09 [FirstSquawk] NVIDIA RELEASES DGX SPARK 64GB CONFIGURATION THIS MONTH WITH THE ABILITY TO HANDLE 100-BILLION-PARAMETER MODELS. IT WILL BE AVAILABLE ON OCTOBER 23 STARTING AT $4,999 THROUGH KEY PARTNERS.
-- 10/02 22:18 [financialjuice] WH Sr. Adviser Hassett: I am not disappointed in jobs report.
-- 10/02 22:19 [financialjuice/FirstSquawk] WH Sr. Adviser Hassett: Government employment down, everything else is up
-- 10/02 22:20 [FirstSquawk] FORD'S Q3 US VEHICLE SALES REACHED 509,764, DECREASING BY 6.6% YEAR-OVER-YEAR.
-- 10/02 22:20 [FirstSquawk] FORD'S ELECTRIC VEHICLE SALES DROPPED BY 80.2% IN Q3, REACHING ONLY 6,047 UNITS SOLD.
-- 10/02 22:20 [FirstSquawk] FORD'S US HYBRID VEHICLE SALES DROPPED BY 19.7% IN Q3 TO 44,308 UNITS.
-- 10/02 22:20 [FirstSquawk] FORD BELIEVES THE FINANCIAL EFFECT OF A SUPPLIER ISSUE IMPACTING F-150 TRUCK PRODUCTION IS MANAGEABLE WITHIN THIS YEAR'S ADJUSTED EBIT GUIDANCE.
-- 10/02 22:20 [FirstSquawk] WH SR. ADVISER HASSETT: I AM SATISFIED WITH THE JOBS REPORT.
-- 10/02 22:21 [financialjuice] WH Sr. Adviser Hassett: GDP still hovering around 4%.
-- 10/02 22:21 [FirstSquawk] HASSETT STATES THAT GDP REMAINS AROUND 4%.
-- 10/02 22:23 [financialjuice] WH Sr. Adviser Hassett, on diesel: We have been talking with Europe
-- 10/02 22:24 [DeItaone] *HASSETT ON DIESEL: WE HAVE BEEN TALKING WITH EUROPE *HASSETT ON DIESEL: EUROPE RELEASE WOULD HAVE MASSIVE IMPACT *HASSETT ON DIESEL: HOPEFUL TO HAVE NEWS ON THAT SOMETIME SOON
-- 10/02 22:27 [financialjuice] WH Sr. Adviser Hassett on Diesel: I am hopeful to have news on that sometime soon.
-- 10/02 22:27 [FirstSquawk] HASSETT EXPRESSES OPTIMISM ABOUT POTENTIAL DIESEL NEWS COMING SOON.
-- 10/02 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -68.9 MLN NASDAQ 100: -40.8 MLN DOW 30: -21.0 MLN MAG 7: -53.3 MLN $MACRO
-- 10/02 22:33 [FirstSquawk] DOW JONES UP 334.38 POINTS, OR 0.66 PERCENT, AT 51,260.94 AFTER MARKET OPEN NASDAQ UP 339.34 POINTS, OR 1.26 PERCENT, AT 27,210.93 AFTER MARKET OPEN S&P 500 UP 67.19 POINTS, OR 0.88 PERCENT, AT 7,733.64 AFTER MARKET OPEN
-- 10/02 22:34 [DeItaone] WHITE HOUSE PREPARES ACTION ON RECORD U.S. DIESEL PRICES Washington is pressuring Europe to release emergency fuel reserves as the White House prepares an executive order aimed at tackling record-high U.S. diesel prices. The order could be …
-- 10/02 22:36 [FirstSquawk] PARAMOUNT SKYDANCE CORP WILL CHANGE ITS TICKER TO SKYD AND NAME TO SKYDANCE CORP ON OCTOBER 6, 2026, ACCORDING TO SEC FILING.
-- 10/02 22:37 [financialjuice] UK Defence Secretary Streeting: Iran likely behind fairford, not formally named
-- 10/02 22:38 [financialjuice] WH Sr. Adviser Hassett: The Navy has opened Hormuz and crude is coming through
-- 10/02 22:38 [financialjuice] WH Sr. Adviser Hassett: More announcements next week on energy.
-- 10/02 22:39 [FirstSquawk] HASSETT ANNOUNCED THAT THE NAVY HAS REOPENED THE STRAIT OF HORMUZ, ALLOWING CRUDE OIL TO FLOW FREELY AGAIN.
-- 10/02 22:39 [FirstSquawk] HASSETT SAYS THERE WILL BE ADDITIONAL ANNOUNCEMENTS ABOUT ENERGY NEXT WEEK.
-- 10/02 22:39 [FirstSquawk] HASSETT STATES WE DESIRE LOWER MORTGAGE RATES.
-- 10/02 22:39 [financialjuice] WH Sr. Adviser Hassett: Housing data are up because the economy is so strong.
-- 10/02 22:41 [DeItaone] *HASSETT: NAVY HAS OPENED HORMUZ, CRUDE COMING THROUGH
-- 10/02 22:41 [DeItaone] *HASSETT: WE WANT MORTGAGE RATES TO GO DOWN
-- 10/02 22:41 [DeItaone] *NVIDIA SHARES RISE 2.5% TO HIT FIRST RECORD HIGH SINCE MAY
-- 10/02 22:44 [financialjuice] Trump expected to pick Clayton to be the new AI Czar - CNN
-- 10/02 22:44 [financialjuice] WH Sr. Adviser Hassett ends remarks on Fox news
-- 10/02 22:46 [financialjuice] WH Sr. Adviser Hassett: A lot of news this week has been positive
-- 10/02 22:47 [financialjuice] WH Sr. Adviser Hassett Speaks - WATCH LIVE
-- 10/02 22:47 [financialjuice] WH Sr. Adviser Hassett: This job's report was about expected.
-- 10/02 22:48 [DeItaone] *HASSETT: THIS JOBS REPORT WAS ABOUT EXPECTED
-- 10/02 22:48 [DeItaone] TRUMP EXPECTED TO NAME JAY CLAYTON AS AI CZAR - CNN
-- 10/02 22:49 [financialjuice] WH Sr. Adviser Hassett: We see in the data that the consumer is very strong
-- 10/02 22:49 [financialjuice] WH Sr. Adviser Hassett: It's going to be a strong holiday season.
-- 10/02 22:51 [financialjuice] WH Sr. Adviser Hassett on yields: They're higher due to strong economy.
-- 10/02 22:51 [FirstSquawk] HASSETT STATES THAT THIS JOBS REPORT MET EXPECTATIONS.
-- 10/02 22:51 [FirstSquawk] HASSETT SAYS DATA SHOWS STRONG CONSUMER CONFIDENCE.
-- 10/02 22:51 [FirstSquawk] HASSETT SAYS YIELDS ARE UP THANKS TO A ROBUST ECONOMY.
-- 10/02 22:52 [FirstSquawk] HASSETT SAYS CURRENT INTEREST PAYMENTS ARE TOO HIGH.
-- 10/02 22:52 [FirstSquawk] HASSETT SAYS THIS PRESIDENT IS COMMITTED TO CUTTING THE DEFICIT.
-- 10/02 22:52 [FirstSquawk] HASSETT STATED THAT THEY DO NOT AIM TO USE INFLATION AS A METHOD TO ESCAPE DEBT.
-- 10/02 22:52 [financialjuice] WH Sr. Adviser Hassett: We do not want to inflate our way out of debt.
-- 10/02 22:55 [financialjuice] WH Sr. Adviser Hassett ends remarks on Bloomberg TV
-- 10/02 22:57 [FirstSquawk] HASSETT SAYS KEVIN WARSH HAS TO DEAL WITH POWELL, IT'S UNUSUAL
-- 10/02 22:57 [FirstSquawk] HASSETT SAYS DECISION IS FOR JEROME POWELL TO STAY OR GO
-- 10/02 22:57 [FirstSquawk] HASSETT SAYS IT'S NOT UP TO THE WHITE HOUSE ON POWELL
-- 10/02 22:58 [financialjuice] WH Sr. Adviser Hassett: Only Iranian oil isn't flowing through Hormuz
-- 10/02 22:58 [financialjuice] ❗ France’s President Macron: Diesel and crude stocks to be released over 4 months.
-- 10/02 22:58 [DeItaone] *MACRON: G7 DECIDED TO RELEASE DIESEL AND CRUDE STOCKS *MACRON: DIESEL, CRUDE STOCKS TO BE RELEASED OVER 4 MONTHS
-- 10/02 22:58 [financialjuice] ❗ France’s President Macron: We will release up to 100 mln barrels.
-- 10/02 23:00 [DeItaone] TIMIRAOS: WEAK JOBS REPORT CLEARS PATH FOR FED PAUSE The September jobs report gives the Fed more room to hold rates steady in October, with hiring slowing and unemployment edging up to 4.2%. With little evidence of labor-market inflation p…
-- 10/02 23:00 [financialjuice] US DURABLE GOODS REVISED ACTUAL -0.1% (FORECAST 0%, PREVIOUS 0.0%) $MACRO
-- 10/02 23:00 [financialjuice] US CORE DURABLE GOODS REVISED ACTUAL 0.2% (FORECAST 0.3%, PREVIOUS 0.3%) $MACRO
-- 10/02 23:00 [financialjuice] ❗ US FACTORY ORDERS MOM ACTUAL 0.1% (FORECAST 0.2%, PREVIOUS 0.9%) $MACRO
-- 10/02 23:00 [financialjuice] Fed's Logan does not comment on economic outlook, monetary policy in remarks at Dallas Fed conference on migration.
-- 10/02 23:01 [DeItaone] TRUMP: EUROPE HAS JUST AGREED TO RELEASE A MASSIVE AMOUNT OF THEIR HEAVILY STOCKED DIESEL OIL TRUMP: PROCESS WILL BEGIN IMMEDIATELY.
-- 10/02 23:02 [financialjuice] Trump: Europe agreed to release a massive amount of their heavily stocked Diesel Oil. The process begins immediately - Truth Social
-- 10/02 23:02 [FirstSquawk] TRUMP: EUROPE HAS JUST AGREED TO RELEASE A MASSIVE AMOUNT OF THEIR HEAVILY STOCKED DIESEL OIL. THE PROCESS WILL BEGIN IMMEDIATELY. THANK YOU FOR YOUR ATTENTION TO THIS MATTER! PRESIDENT DJT
-- 10/02 23:02 [DeItaone] NASDAQ COMPOSITE INDEX HITS ALL-TIME HIGH, LAST UP 1.6%
-- 10/02 23:02 [financialjuice] US Factory Orders and Durable Goods August Reports
-- 10/02 23:02 [DeItaone] $NKE - NIKE SHARES FALL TO LOWEST SINCE SEPTEMBER 2013, LAST DOWN NEARLY 6%
-- 10/02 23:19 [financialjuice] Fear & Greed Index: 32/100 - Fear
-- 10/02 23:19 [financialjuice] Crypto Fear & Greed Index: 72/100 - Greed
-- 10/02 23:26 [FirstSquawk] MACRON ANNOUNCED THAT THE G7 WILL UNVEIL PLANS TO RELEASE AS MUCH AS 100 MILLION BARRELS OF DIESEL AND CRUDE OIL.
-- 10/02 23:26 [FirstSquawk] G7 LEADERS DECLARE PLANS TO ALIGN MAINTENANCE SCHEDULES AT MEMBER REFINERIES.
-- 10/02 23:26 [FirstSquawk] G7 ASKS IEA TO OVERSEE THE COMPLETE FULFILLMENT OF MARCH 2026 PLEDGES.
-- 10/02 23:26 [FirstSquawk] G7 WILL COORDINATE A RELEASE OF 100 MILLION BARRELS OF OIL THROUGH THE IEA STARTING IMMEDIATELY OVER 4 MONTHS.
-- 10/02 23:26 [FirstSquawk] G7 MEMBERS WILL RELEASE A SIGNIFICANT AMOUNT OF DIESEL IN THE FIRST 20 DAYS WITH THEIR PARTNERS.
-- 10/02 23:26 [FirstSquawk] G7 LEADERS CONFIRM THEIR PLEDGE TO AVOID EXPORT LIMITS ON ENERGY AND RELATED PRODUCTS AMONG G7 NATIONS.
-- 10/02 23:26 [FirstSquawk] G7 URGES ALL PRODUCERS TO AVOID BANS THAT MIGHT WORSEN MARKET STRAIN.
-- 10/02 23:26 [FirstSquawk] G7 REITERATES CONDEMNATION OF IRAN'S AGGRESSION TOWARDS NEIGHBORING COUNTRIES.
-- 10/02 23:26 [FirstSquawk] G7 LEADERS CONFIRM THEY WILL KEEP SANCTIONS ON RUSSIA.
 - 10/02 23:37 [financialjuice] Iran's General Naghdi: The enemy's economic siege will have no effect, and if it does not back down, it will receive a severe blow from the armed forces of the Islamic Republic of Iran - IRNA
 - 10/02 23:38 [financialjuice] Iran's General Naghdi: The enemy's economic siege will have no effect, and if it does not back down, it will receive a severe blow from IRGC - IRNA
 - 10/02 23:41 [FirstSquawk] GOLDMAN SACHS BENEFITS SIGNIFICANTLY FROM CLIENTS CANCELING EARLY SPACE X INVESTMENTS.
@@ -476,3 +323,44 @@
 - 10/03 19:52 [FirstSquawk] THE TRUMP ADMINISTRATION'S UKRAINE TALKS WITH RUSSIA HAVE EXPANDED TO INCLUDE A MULTIBILLION-DOLLAR DEAL FOR LUKOIL'S INTERNATIONAL ASSETS, WITH PUTIN HAVING RAISED THE DEAL WITH STEVE WITKOFF AND JARED KUSHNER DURING A SEPT. 5 KREMLIN MEET…
 - 10/03 19:52 [FirstSquawk] THE LEADING BIDDER IS A GROUP INVOLVING TRUMP DONOR TODD BOEHLY, QATAR-BASED INVESTORS WITH BUSINESS TIES TO KUSHNER, AN ABU DHABI FUND LINKED TO SHEIKH TAHNOON, AND THE U.S. GOVERNMENT, WITH NO INDICATION KUSHNER OR WITKOFF WOULD PERSONALL…
 - 10/03 19:53 [FirstSquawk] ZELENSKY URGES TRUMP TO SANCTION RUSSIAN & CHINESE COMPANIES DEVELOPING ‘RASSVET’ SATELLITE NETWORK TO RIVAL STARLINK — FT
+- 10/03 20:08 [FirstSquawk] AFP: Explosions heard in the Yemeni capital Sanaa
+- 10/03 20:08 [FirstSquawk] Russian Foreign Ministry: Our forces will continue to launch large-scale retaliatory strikes against military targets in Kyiv and other Ukrainian cities.
+- 10/03 20:09 [FirstSquawk] Russian Foreign Ministry: We reiterate our warning to foreign nationals and diplomatic mission staff against remaining in or traveling to Ukraine.
+- 10/03 20:09 [FirstSquawk] Russian Foreign Ministry: Foreigners and diplomats who have not left Kyiv are deliberately putting their lives at mortal risk.
+- 10/03 20:10 [FirstSquawk] RENAULT GROUP TO INVEST MORE THAN €10 BILLION IN FRANCE OVER COMING YEARS IN EVS & MORE AFFORDABLE CARS — CEO
+- 10/03 20:11 [FirstSquawk] RENAULT GROUP EXPECTS FRANCE PRODUCTION TO RISE MORE THAN 25% IN 2026, DRIVEN BY GROWING EV OUTPUT — CEO
+- 10/03 20:20 [FirstSquawk] OPENAI SAFETY SYSTEMS LEADER DAVID ROBINSON RESIGNS FROM COMPANY — BUSINESS INSIDER
+- 10/03 20:22 [FirstSquawk] Lebanese News Agency: Massive and powerful explosions in Mansouri and tremors felt in Tyre, southern Lebanon
+- 10/03 20:31 [financialjuice] Large plume of smoke and flames seen near Aramco facility in Riyadh: witness
+- 10/03 20:32 [financialjuice] No immediate confirmation from Saudi authorities or Aramco on fire near Riyadh site
+- 10/03 20:42 [FirstSquawk] AFP: Tens of thousands demonstrate in Madrid and other Spanish cities over the housing crisis
+- 10/03 20:55 [FirstSquawk] FIRE & LARGE PLUME OF SMOKE REPORTED NEAR ARAMCO FACILITY IN RIYADH; NO IMMEDIATE CONFIRMATION FROM SAUDI AUTHORITIES OR ARAMCO
+- 10/03 21:30 [FirstSquawk] Hamas: The massacre at the Al-Asala building is a brutal crime that confirms the occupation's determination to continue its war of extermination in Gaza.
+- 10/03 21:30 [FirstSquawk] Hamas: The martyrdom of a mother and her daughter, both Christians from our community, in the Al-Asala massacre confirms that the occupation targets our people in all their diversity.
+- 10/03 21:31 [FirstSquawk] Hamas: We demand that mediators and the US administration prevent Netanyahu from using the ceasefire agreement as a cover to continue his massacres in Gaza.
+- 10/03 21:38 [FirstSquawk] IRAN’S EXCHANGE SUSPENDED TRADING IN SIX LISTED OIL REFINERS — ISFAHAN, BANDAR ABBAS, TEHRAN, TABRIZ, SHIRAZ AND LAVAN — THROUGH OCT. 14 FOR LATE DISCLOSURE OF MATERIAL INFORMATION.
+- 10/03 21:38 [FirstSquawk] THE HALTS COVER ALMOST THE ENTIRE LISTED REFINING SECTOR, AS DOMESTIC REFINERS FACE GREATER PRESSURE AFTER IRANIAN OIL EXPORTS FELL TO ABOUT 0.5 MILLION B/D IN JULY-AUGUST FROM 2.6 MILLION B/D IN JANUARY.
+- 10/03 21:51 [FirstSquawk] ISRAELI AIRSTRIKE HITS GAZA CITY APARTMENT, KILLING AT LEAST 5 & WOUNDING 6 — AL JAZEERA
+- 10/03 21:52 [FirstSquawk] ISRAELI PRIME MINISTER NETANYAHU HAS ATTACKED BRITAIN AGAIN, SAYING 'THE BRITISH GOVERNMENT, IN ORDER TO INGRATIATE ITSELF WITH ITS POLITICAL BASE, HAS GONE ROGUE. LIKE A ROGUE STATE'. - DAILY MAIL
+- 10/03 21:52 [FirstSquawk] NETANYAHU SAYS 'ISLAMISTS AND LEFTISTS OUGHT TO BE NATURAL ADVERSARIES', ARGUING THAT 'ISLAMISTS HANG GAYS AND DEPRIVE WOMEN OF ANY RIGHTS'. - DAILY MAIL
+- 10/03 21:52 [FirstSquawk] NETANYAHU SAYS ON BRITAIN THAT 'IF BRITAIN DOESN'T REGAIN CONTROL OVER ITS BORDERS, YOU WILL LOSE BRITAIN' - DAILY MAIL
+- 10/03 21:53 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT SAYS 'WE WILL GET TO THE OTHER SIDE OF THIS IRAN CONFLICT' AND THAT 'WAGE GAINS WILL KEEP COMING BECAUSE WE ARE HAVING A MANUFACTURING RENAISSANCE'. - AXIOS
+- 10/03 21:53 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT SAYS ON CHINA THAT OVER THE PAST 60 DAYS IT HAS 'WOKEN UP TO... HOW POWERFUL THEIR OPEN SOURCE MODELS ARE', ACCUSING CHINESE FIRMS OF 'INDUSTRIAL DISTILLATION, WHICH IS A NICE WORD FOR STEALING FROM THE U.S. …
+- 10/03 21:53 [FirstSquawk] ASKED ABOUT CEOS 'SCREAMING FOR REGULATION' AND WARNING OF LOSING CONTROL OF AI, BESSENT SAYS 'WELL, THEN THEY SHOULD SLOW DOWN', LIKENING IT TO 'HANNIBAL LECTER: STOP ME BEFORE I KILL AGAIN' - AXIOS
+- 10/03 21:53 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT SAYS ON ELON MUSK THAT 'I AM A HUGE ELON FAN' AND WAS 'VERY SUPPORTIVE' OF WHAT HE WAS TRYING TO DO WITH GOVERNMENT, LIKENING THEM TO 'A SPORTS TEAM' THAT 'CAN HAVE AN ARGUMENT IN THE LOCKER ROOM, BUT YOU GO …
+- 10/03 21:53 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT SAYS ON IRAN THAT 'FOR THE FIRST TIME IN HISTORY, SINCE THEY STARTED PUMPING OIL, THEY WILL HAVE NO OIL ON THE WATER THIS WEEK', ADDING 'THEY WILL HAVE NO REVENUES' - AXIOS
+- 10/03 21:56 [FirstSquawk] SOUTH KOREA’S FINANCIAL SERVICES COMMISSION WILL HOLD AN EMERGENCY MEETING ON SUNDAY AFTER A SPATE OF CYBERSECURITY INCIDENTS AND DATA LEAKS, WITH FSC CHAIR LEE EOG-EWON TO REVIEW THE BREACHES AND DISCUSS RESPONSE MEASURES.
+- 10/03 21:56 [FirstSquawk] DATA LEAKS HAVE BEEN CONFIRMED AT SHINHAN, KB KOOKMIN, HANA AND BNK BUSAN BANKS, AS WELL AS YEGARAM SAVINGS BANK, WHERE ABOUT 40,000 CUSTOMERS WERE AFFECTED; HYUNDAI CAPITAL ALSO REPORTED A LEAK INVOLVING 146 MORTGAGE AGENTS.
+- 10/03 22:15 [FirstSquawk] OPENAI AI-SAFETY EMPLOYEE DAVID ROBINSON QUIT THE COMPANY, WARNING THAT LEADING AI FIRMS ARE NOT DOING ENOUGH TO MANAGE RISKS AS THE TECHNOLOGY’S CAPABILITIES GROW. ROBINSON SAID AI COMPANIES SHOULD OPERATE MORE LIKE NUCLEAR POWER PLANTS, W…
+- 10/03 22:23 [FirstSquawk] IRAN HALTS TRADING IN SIX OIL REFINERS IRAN SUSPENDED TRADING IN ISFAHAN, BANDAR ABBAS, TEHRAN, TABRIZ, SHIRAZ AND LAVAN REFINERS THROUGH OCT. 14 OVER LATE DISCLOSURE OF MATERIAL INFORMATION. THE SIX HALTS WERE ANNOUNCED WITHIN 16 MINUTES, …
+- 10/03 22:46 [FirstSquawk] Israeli army: We killed two commanders in the Islamic Jihad's missile system in two separate airstrikes on Gaza yesterday
+- 10/03 22:46 [FirstSquawk] Israeli army radio: Assassination attempt on Ali al-Omari, a prominent Hamas leader, in Gaza last night appears to have failed.
+- 10/03 22:46 [FirstSquawk] EXPLOSIONS WERE HEARD OFF IRAN'S QESHM ISLAND - MEHR
+- 10/03 23:06 [FirstSquawk] NORTH KOREA TEST-FIRED AN INTERMEDIATE-RANGE BALLISTIC MISSILE CAPABLE OF LOW-ALTITUDE MANEUVERING, WITH KIM YO JONG CLAIMING IT HAS AI CAPABILITIES THAT COULD COMPLICATE MISSILE INTERCEPTION. THE LAUNCH COMES AMID RISING BORDER TENSIONS AF…
+- 10/03 23:18 [financialjuice] Venezuela September inflation rises 8.4%: central bank
+- 10/03 23:23 [FirstSquawk] Israeli army: 8 soldiers from the 7th Armored Brigade were injured in a traffic accident during military operations in southern Lebanon yesterday.
+- 10/03 23:24 [FirstSquawk] Israeli Army Radio: The assassination attempt against senior Hamas leader Ali al-Amoudi in Gaza last night apparently failed.
+- 10/03 23:24 [FirstSquawk] Yemen News Agency: Government forces have seized control of Sam'a Fort southeast of Taiz following fierce clashes
+- 10/03 23:24 [FirstSquawk] Israeli occupation army patrol has entered the Quneitra countryside towards the town of Kodna and set up a checkpoint.
+- 10/03 23:24 [FirstSquawk] Clashes between Palestinians and settlers in the village of Al-Mughayyir in Ramallah, West Bank
+- 10/03 23:31 [financialjuice] Russia hits cargo vessel in Ukraine's Odesa port: Ifax
