@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-03 09:50 JST／対象: 10/02 21:50 〜 10/03 09:50 JST（時刻はすべて日本時間）
+生成: 2026-10-03 10:04 JST／対象: 10/02 22:04 〜 10/03 10:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 20 | 10/02 21:54 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
-| FirstSquawk | 109 | 10/02 22:00 | 10/03 09:50 | ⚠ 240分（05:02→09:03） |
-| financialjuice | 120 | 10/02 21:56 | 10/03 09:17 | ⚠ 71分（05:20→06:32） |
+| DeItaone | 18 | 10/02 22:06 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
+| FirstSquawk | 114 | 10/02 22:09 | 10/03 10:03 | ⚠ 240分（05:02→09:03） |
+| financialjuice | 117 | 10/02 22:18 | 10/03 09:17 | ⚠ 71分（05:20→06:32） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 240 行（統合前 251 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,14 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 21:54 [DeItaone] *TRUMP, MACRON SPOKE LAST NIGHT TO DISCUSS ENERGY SITUATION: NBC
-- 10/02 21:56 [financialjuice] Israel's Prime Minister Netanyahu: We are investigating whether the pilot was sent, and whoever sent him will pay a very heavy price - i24 News Reporter.
-- 10/02 22:00 [FirstSquawk] EU AMBASSADORS WILL GATHER TODAY TO TALK ABOUT THE DIESEL MARKET.
-- 10/02 22:00 [financialjuice] Effective Fed Funds Rate 3.88% October 1 vs 3.88% September 30.
-- 10/02 22:02 [financialjuice] Tesla Q3 Deliveries Beat Estimates, Energy Storage Deployments Reach 13.7 GWh $TSLA Tesla Q3 total deliveries 486,532 units, above estimate of 456,896 units Tesla Q3 Model 3/Y production 457,387 units, deliveries 478,237 units Tesla Q3 othe…
-- 10/02 22:03 [DeItaone] $TSLA - *TESLA 3Q DELIVERIES 486,532, EST. 463,761 *TESLA 3Q OTHER MODELS DELIVERIES 7,004, EST. 9,759 *TESLA 3Q MODEL 3/Y PRODUCTION 457,387, EST. 481,279 *TESLA 3Q OTHER MODELS PRODUCTION 7,004, EST. 5,944 (2 EST.)
-- 10/02 22:03 [FirstSquawk] TESLA REPORTED 486,532 DELIVERIES FOR Q3, EXCEEDING ESTIMATES OF 463,761. MODEL 3/Y DELIVERIES HIT 478,237, BEATING EXPECTED 462,078. OTHER MODELS DELIVERED 7,004, FALLING SHORT OF 9,759 ANTICIPATED. TOTAL PRODUCTION REACHED 464,391 VEHICLE…
-- 10/02 22:03 [FirstSquawk] ORACLE WILL TAKE ON ABOUT $300 MILLION IN POINT BEACH ENERGY EXPENSES TO COMPLETELY FINANCE PROJECT LIGHTHOUSE ENERGY COSTS.
 - 10/02 22:06 [DeItaone] *EU AMBASSADORS TO MEET THIS AFTERNOON TO DISCUSS DIESEL MARKET
 - 10/02 22:09 [FirstSquawk] NVIDIA RELEASES DGX SPARK 64GB CONFIGURATION THIS MONTH WITH THE ABILITY TO HANDLE 100-BILLION-PARAMETER MODELS. IT WILL BE AVAILABLE ON OCTOBER 23 STARTING AT $4,999 THROUGH KEY PARTNERS.
 - 10/02 22:18 [financialjuice] WH Sr. Adviser Hassett: I am not disappointed in jobs report.
@@ -264,3 +256,11 @@
 - 10/03 09:48 [FirstSquawk] Trump signals imminent replenishment of U.S. strategic oil reserves
 - 10/03 09:49 [FirstSquawk] South Korean military says North Korean missile traveled over 700 kilometers
 - 10/03 09:50 [FirstSquawk] South Korea convenes National Security Council meeting following North Korean missile launch
+- 10/03 09:51 [FirstSquawk] OpenAI’s David Robinson, a safety systems team leader, has resigned: Business Insider
+- 10/03 09:51 [FirstSquawk] UKMTO says all crew are safe, no environmental impact reported at this time
+- 10/03 09:52 [FirstSquawk] UKMTO: Crude oil tanker hit by unknown projectile on port side, master reports
+- 10/03 09:52 [FirstSquawk] UKMTO: Incident reported off Oman, 4 nautical miles east of the country
+- 10/03 09:53 [FirstSquawk] South Korean military on alert for further launches, defence ministry says
+- 10/03 09:53 [FirstSquawk] South Korea says North Korea fired ballistic missile from Wonsan
+- 10/03 09:54 [FirstSquawk] South Korean military says North Korea’s projectile was a ballistic missile
+- 10/03 10:03 [FirstSquawk] OPenAI’s Altman says company has deep engagement with Cerebras after partnership speculation

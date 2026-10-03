@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-03 09:50 JST／対象: 10/03 03:50 〜 10/03 09:50 JST（時刻はすべて日本時間）
+生成: 2026-10-03 10:04 JST／対象: 10/03 04:04 〜 10/03 10:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 10/03 05:00 | 10/03 05:04 | 4分（05:00→05:04） |
-| FirstSquawk | 41 | 10/03 03:54 | 10/03 09:50 | ⚠ 240分（05:02→09:03） |
-| financialjuice | 51 | 10/03 03:53 | 10/03 09:17 | ⚠ 71分（05:20→06:32） |
+| FirstSquawk | 47 | 10/03 04:04 | 10/03 10:03 | ⚠ 240分（05:02→09:03） |
+| financialjuice | 48 | 10/03 04:04 | 10/03 09:17 | ⚠ 71分（05:20→06:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 93 行（統合前 96 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 96 行（統合前 99 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/03 03:53 [financialjuice] Brent Crude futures settle at $102.25/bbl, down 6 cents, 0.06%.
-- 10/03 03:54 [FirstSquawk] BRENT CRUDE FUTURES SETTLE AT $102.25/BBL, DOWN 6 CENTS, 0.06 PCT
-- 10/03 03:56 [FirstSquawk] DOJ WILL NOT RESUME CRIMINAL INVESTIGATION INTO POWELL, SAYS BLANCHE.
-- 10/03 03:57 [financialjuice] Attorney General Blanche: The DoJ is satisfied with the Fed IG report, and is not reopening the criminal probe into Powell.
-- 10/03 04:02 [financialjuice] Hackers breached the propulsion system of US-bound oil tanker
 - 10/03 04:04 [FirstSquawk] PETROBRAS CEO: FOZ DO AMAZONAS OIL SOME OF BEST IN BRAZIL
 - 10/03 04:04 [FirstSquawk] OPENAI HIRES TOP TRUMP AI OFFICIAL TO WORK ON NATIONAL SECURITY – THE INFORMATION
 - 10/03 04:04 [FirstSquawk] HACKERS INVADED THE PROPULSION SYSTEM OF AN OIL TANKER HEADING TO THE U.S.
@@ -117,3 +112,11 @@
 - 10/03 09:48 [FirstSquawk] Trump signals imminent replenishment of U.S. strategic oil reserves
 - 10/03 09:49 [FirstSquawk] South Korean military says North Korean missile traveled over 700 kilometers
 - 10/03 09:50 [FirstSquawk] South Korea convenes National Security Council meeting following North Korean missile launch
+- 10/03 09:51 [FirstSquawk] OpenAI’s David Robinson, a safety systems team leader, has resigned: Business Insider
+- 10/03 09:51 [FirstSquawk] UKMTO says all crew are safe, no environmental impact reported at this time
+- 10/03 09:52 [FirstSquawk] UKMTO: Crude oil tanker hit by unknown projectile on port side, master reports
+- 10/03 09:52 [FirstSquawk] UKMTO: Incident reported off Oman, 4 nautical miles east of the country
+- 10/03 09:53 [FirstSquawk] South Korean military on alert for further launches, defence ministry says
+- 10/03 09:53 [FirstSquawk] South Korea says North Korea fired ballistic missile from Wonsan
+- 10/03 09:54 [FirstSquawk] South Korean military says North Korea’s projectile was a ballistic missile
+- 10/03 10:03 [FirstSquawk] OPenAI’s Altman says company has deep engagement with Cerebras after partnership speculation

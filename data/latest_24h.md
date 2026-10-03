@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-03 09:50 JST／対象: 10/02 09:50 〜 10/03 09:50 JST（時刻はすべて日本時間）
+生成: 2026-10-03 10:04 JST／対象: 10/02 10:04 〜 10/03 10:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 63 | 10/02 17:55 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
-| FirstSquawk | 237 | 10/02 10:16 | 10/03 09:50 | ⚠ 240分（05:02→09:03） |
-| financialjuice | 234 | 10/02 09:55 | 10/03 09:17 | ⚠ 71分（05:20→06:32） |
+| FirstSquawk | 245 | 10/02 10:16 | 10/03 10:03 | ⚠ 240分（05:02→09:03） |
+| financialjuice | 232 | 10/02 10:37 | 10/03 09:17 | ⚠ 71分（05:20→06:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 519 行（統合前 536 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 525 行（統合前 542 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 09:55 [financialjuice] Ukrainian drones hit industrial sites in Russia's Volgograd: governor
-- 10/02 10:00 [financialjuice] Taiwan overnight interbank rate starts at 0.805% (unchanged from previous session)
 - 10/02 10:16 [FirstSquawk] Gold Slips 1% to $4,138.04 per Ounce
 - 10/02 10:17 [FirstSquawk] Taiwan Overnight Interbank Rate Starts at 0.805%, Flat on Previous Open
 - 10/02 10:18 [FirstSquawk] Ukrainian Drones Target Industrial Facilities in Volgograd, Russian Governor Says
@@ -543,3 +541,11 @@
 - 10/03 09:48 [FirstSquawk] Trump signals imminent replenishment of U.S. strategic oil reserves
 - 10/03 09:49 [FirstSquawk] South Korean military says North Korean missile traveled over 700 kilometers
 - 10/03 09:50 [FirstSquawk] South Korea convenes National Security Council meeting following North Korean missile launch
+- 10/03 09:51 [FirstSquawk] OpenAI’s David Robinson, a safety systems team leader, has resigned: Business Insider
+- 10/03 09:51 [FirstSquawk] UKMTO says all crew are safe, no environmental impact reported at this time
+- 10/03 09:52 [FirstSquawk] UKMTO: Crude oil tanker hit by unknown projectile on port side, master reports
+- 10/03 09:52 [FirstSquawk] UKMTO: Incident reported off Oman, 4 nautical miles east of the country
+- 10/03 09:53 [FirstSquawk] South Korean military on alert for further launches, defence ministry says
+- 10/03 09:53 [FirstSquawk] South Korea says North Korea fired ballistic missile from Wonsan
+- 10/03 09:54 [FirstSquawk] South Korean military says North Korea’s projectile was a ballistic missile
+- 10/03 10:03 [FirstSquawk] OPenAI’s Altman says company has deep engagement with Cerebras after partnership speculation
