@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-03 12:37 JST／対象: 10/03 00:37 〜 10/03 12:37 JST（時刻はすべて日本時間）
+生成: 2026-10-03 13:01 JST／対象: 10/03 01:01 〜 10/03 13:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 10/03 02:33 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
-| FirstSquawk | 104 | 10/03 00:44 | 10/03 12:33 | ⚠ 240分（05:02→09:03） |
-| financialjuice | 88 | 10/03 00:37 | 10/03 12:12 | ⚠ 71分（05:20→06:32） |
+| FirstSquawk | 106 | 10/03 01:11 | 10/03 12:54 | ⚠ 240分（05:02→09:03） |
+| financialjuice | 84 | 10/03 01:06 | 10/03 13:00 | ⚠ 71分（05:20→06:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 189 行（統合前 197 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 189 行（統合前 195 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/03 00:37 [financialjuice] China trade envoy tells G20 willing to talk on industry policy.
-- 10/03 00:44 [FirstSquawk] CHINA CHIEF TRADE NEGOTIATOR LI CHENGGANG: TELLS G20 CHINA ARE WILLING TO TALK ON INDUSTRY POLICY
-- 10/03 00:44 [financialjuice/FirstSquawk] UKMTO: Tanker has reported being struck by an unknown projectile, whilst conducting an outbound transit within Strait of Hormuz
-- 10/03 00:45 [financialjuice] UKMTO: Incident resulted in a small fire and blackout onboard.
-- 10/03 00:56 [FirstSquawk] TANKER STRUCK BY UNKNOWN PROJECTILE IN STRAIT OF HORMUZ AT 11:22 UTC - UKMTO
-- 10/03 00:57 [FirstSquawk] GOOGLE CLOUD: ANNOUNCES GENERAL AVAILABILITY OF SPANNER QUEUES FOR TRANSACTIONAL MESSAGING IN AI AGENT WORKLOADS
-- 10/03 00:57 [financialjuice/FirstSquawk] IEA's Birol: Oil prices are starting to fall.
-- 10/03 00:58 [financialjuice] 2 unarmed Pakistani civilians killed in firing by Indian border security forces - Pakistani security sources
 - 10/03 01:06 [financialjuice] ❗ Saudis plan assault on Houthis to break Red Sea chokehold, according to western and regional officials
 - 10/03 01:07 [financialjuice] Google raises price of budget Pixel 10A phone by $100 to $599. $GOOGL
 - 10/03 01:11 [FirstSquawk] GOOGLE RAISES PRICE OF BUDGET PIXEL BY $100 TO $599
@@ -213,3 +205,11 @@
 - 10/03 12:31 [FirstSquawk] China investigates EU p-nitrotoluene imports in new anti-dumping case - RTRS
 - 10/03 12:33 [FirstSquawk] Trump says diesel export ban was not under serious consideration
 - 10/03 12:33 [FirstSquawk] CME Group drops filing for 10-barrel oil futures
+- 10/03 12:37 [FirstSquawk] WSJ: Nature of radicalization remains unclear
+- 10/03 12:40 [FirstSquawk] Oman had barred Flydubai attacker from flying over radical views, sources tell WSJ
+- 10/03 12:41 [FirstSquawk] Anthropic’s concerns extend beyond Pentagon dispute amid fears of government pressure - Benzinga
+- 10/03 12:48 [FirstSquawk] Hong Kong residents lose HK$220 million to customer service scams in August - SCMP
+- 10/03 12:49 [FirstSquawk] US blast simulation focuses on China’s alleged covert nuclear testing - SCMP
+- 10/03 12:51 [FirstSquawk] Japan seeks to counter reflationary policy view with messaging shift, Katayama says - Reuters
+- 10/03 12:54 [FirstSquawk] Man arrested in US over alleged scheme to smuggle $300 million of Nvidia AI servers to China
+- 10/03 13:00 [financialjuice] Kyiv Mayor: north bridge over Dnipro River struck in Russian air raid, emergency teams en route

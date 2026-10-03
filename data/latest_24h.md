@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-03 12:37 JST／対象: 10/02 12:37 〜 10/03 12:37 JST（時刻はすべて日本時間）
+生成: 2026-10-03 13:01 JST／対象: 10/02 13:01 〜 10/03 13:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 63 | 10/02 17:55 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
-| FirstSquawk | 232 | 10/02 12:47 | 10/03 12:33 | ⚠ 240分（05:02→09:03） |
-| financialjuice | 227 | 10/02 13:02 | 10/03 12:12 | ⚠ 71分（05:20→06:32） |
+| FirstSquawk | 237 | 10/02 13:04 | 10/03 12:54 | ⚠ 240分（05:02→09:03） |
+| financialjuice | 228 | 10/02 13:02 | 10/03 13:00 | ⚠ 71分（05:20→06:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 506 行（統合前 524 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 512 行（統合前 530 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 12:47 [FirstSquawk] Japan’s Acting Envoy Holds First Meeting With Myanmar Foreign Chief
-- 10/02 13:00 [FirstSquawk] US Regulator Seeks to Ease Crypto Holdings for Funds, Advisers, CNBC Says
 - 10/02 13:02 [financialjuice] Amazon plans to sell $8bn of Nvidia chips to investors: FT
 - 10/02 13:04 [FirstSquawk] 30-Year JGB Yield Rises 2 Basis Points to 4.190%
 - 10/02 13:04 [financialjuice] Yemen's armed forces: air force conducts 20 strikes on Houthi targets across multiple areas of Taiz province in past three hours - spokesperson on X
@@ -530,3 +528,11 @@
 - 10/03 12:31 [FirstSquawk] China investigates EU p-nitrotoluene imports in new anti-dumping case - RTRS
 - 10/03 12:33 [FirstSquawk] Trump says diesel export ban was not under serious consideration
 - 10/03 12:33 [FirstSquawk] CME Group drops filing for 10-barrel oil futures
+- 10/03 12:37 [FirstSquawk] WSJ: Nature of radicalization remains unclear
+- 10/03 12:40 [FirstSquawk] Oman had barred Flydubai attacker from flying over radical views, sources tell WSJ
+- 10/03 12:41 [FirstSquawk] Anthropic’s concerns extend beyond Pentagon dispute amid fears of government pressure - Benzinga
+- 10/03 12:48 [FirstSquawk] Hong Kong residents lose HK$220 million to customer service scams in August - SCMP
+- 10/03 12:49 [FirstSquawk] US blast simulation focuses on China’s alleged covert nuclear testing - SCMP
+- 10/03 12:51 [FirstSquawk] Japan seeks to counter reflationary policy view with messaging shift, Katayama says - Reuters
+- 10/03 12:54 [FirstSquawk] Man arrested in US over alleged scheme to smuggle $300 million of Nvidia AI servers to China
+- 10/03 13:00 [financialjuice] Kyiv Mayor: north bridge over Dnipro River struck in Russian air raid, emergency teams en route
