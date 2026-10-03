@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-03 10:45 JST／対象: 10/03 04:45 〜 10/03 10:45 JST（時刻はすべて日本時間）
+生成: 2026-10-03 10:58 JST／対象: 10/03 04:58 〜 10/03 10:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 10/03 05:00 | 10/03 05:04 | 4分（05:00→05:04） |
-| FirstSquawk | 41 | 10/03 04:54 | 10/03 10:22 | ⚠ 240分（05:02→09:03） |
-| financialjuice | 38 | 10/03 04:51 | 10/03 10:26 | ⚠ 71分（05:20→06:32） |
+| FirstSquawk | 40 | 10/03 04:59 | 10/03 10:22 | ⚠ 240分（05:02→09:03） |
+| financialjuice | 34 | 10/03 04:58 | 10/03 10:26 | ⚠ 71分（05:20→06:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 80 行（統合前 83 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 75 行（統合前 77 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/03 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 1156.7 MLN NASDAQ 100: 394.0 MLN DOW 30: 510.1 MLN MAG 7: 356.0 MLN $MACRO
-- 10/03 04:54 [financialjuice] Oman banned Flydubai attacker from flying for radical views, sources say - WSJ
-- 10/03 04:54 [financialjuice] attacker subsequently allowed to fly a sensitive route to Tel Aviv from Dubai - WSJ
-- 10/03 04:54 [FirstSquawk] US WILL PROVIDE A $4 BILLION LOAN TO VISTRA TO INCREASE NUCLEAR PRODUCTION.
-- 10/03 04:55 [financialjuice] Nature of radicalization couldn't be determined - WSJ
 - 10/03 04:58 [financialjuice] Trump: Iran is not doing well.
 - 10/03 04:59 [FirstSquawk] TRUMP ON SOUTH KOREA INVESTMENT IN US: I DIDN'T JUMP THE GUN ON ALASKA PIPELINE
 - 10/03 04:59 [financialjuice] Trump on South Korea investment in the US: I didn't jump the gun on the Alaska pipeline.

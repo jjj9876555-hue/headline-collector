@@ -7,44 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-03 10:45 JST／対象: 10/02 22:45 〜 10/03 10:45 JST（時刻はすべて日本時間）
+生成: 2026-10-03 10:58 JST／対象: 10/02 22:58 〜 10/03 10:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 12 | 10/02 22:48 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
-| FirstSquawk | 104 | 10/02 22:51 | 10/03 10:22 | ⚠ 240分（05:02→09:03） |
-| financialjuice | 109 | 10/02 22:46 | 10/03 10:26 | ⚠ 71分（05:20→06:32） |
+| DeItaone | 10 | 10/02 22:58 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
+| FirstSquawk | 95 | 10/02 23:02 | 10/03 10:22 | ⚠ 240分（05:02→09:03） |
+| financialjuice | 99 | 10/02 22:58 | 10/03 10:26 | ⚠ 71分（05:20→06:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 217 行（統合前 227 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 196 行（統合前 206 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 22:46 [financialjuice] WH Sr. Adviser Hassett: A lot of news this week has been positive
-- 10/02 22:47 [financialjuice] WH Sr. Adviser Hassett Speaks - WATCH LIVE
-- 10/02 22:47 [financialjuice] WH Sr. Adviser Hassett: This job's report was about expected.
-- 10/02 22:48 [DeItaone] *HASSETT: THIS JOBS REPORT WAS ABOUT EXPECTED
-- 10/02 22:48 [DeItaone] TRUMP EXPECTED TO NAME JAY CLAYTON AS AI CZAR - CNN
-- 10/02 22:49 [financialjuice] WH Sr. Adviser Hassett: We see in the data that the consumer is very strong
-- 10/02 22:49 [financialjuice] WH Sr. Adviser Hassett: It's going to be a strong holiday season.
-- 10/02 22:51 [financialjuice] WH Sr. Adviser Hassett on yields: They're higher due to strong economy.
-- 10/02 22:51 [FirstSquawk] HASSETT STATES THAT THIS JOBS REPORT MET EXPECTATIONS.
-- 10/02 22:51 [FirstSquawk] HASSETT SAYS DATA SHOWS STRONG CONSUMER CONFIDENCE.
-- 10/02 22:51 [FirstSquawk] HASSETT SAYS YIELDS ARE UP THANKS TO A ROBUST ECONOMY.
-- 10/02 22:52 [FirstSquawk] HASSETT SAYS CURRENT INTEREST PAYMENTS ARE TOO HIGH.
-- 10/02 22:52 [FirstSquawk] HASSETT SAYS THIS PRESIDENT IS COMMITTED TO CUTTING THE DEFICIT.
-- 10/02 22:52 [FirstSquawk] HASSETT STATED THAT THEY DO NOT AIM TO USE INFLATION AS A METHOD TO ESCAPE DEBT.
-- 10/02 22:52 [financialjuice] WH Sr. Adviser Hassett: We do not want to inflate our way out of debt.
-- 10/02 22:55 [financialjuice] WH Sr. Adviser Hassett ends remarks on Bloomberg TV
-- 10/02 22:57 [FirstSquawk] HASSETT SAYS KEVIN WARSH HAS TO DEAL WITH POWELL, IT'S UNUSUAL
-- 10/02 22:57 [FirstSquawk] HASSETT SAYS DECISION IS FOR JEROME POWELL TO STAY OR GO
-- 10/02 22:57 [FirstSquawk] HASSETT SAYS IT'S NOT UP TO THE WHITE HOUSE ON POWELL
-- 10/02 22:58 [financialjuice] WH Sr. Adviser Hassett: Only Iranian oil isn't flowing through Hormuz
-- 10/02 22:58 [financialjuice] ❗ France’s President Macron: Diesel and crude stocks to be released over 4 months.
 - 10/02 22:58 [DeItaone] *MACRON: G7 DECIDED TO RELEASE DIESEL AND CRUDE STOCKS *MACRON: DIESEL, CRUDE STOCKS TO BE RELEASED OVER 4 MONTHS
 - 10/02 22:58 [financialjuice] ❗ France’s President Macron: We will release up to 100 mln barrels.
 - 10/02 23:00 [DeItaone] TIMIRAOS: WEAK JOBS REPORT CLEARS PATH FOR FED PAUSE The September jobs report gives the Fed more room to hold rates steady in October, with hiring slowing and unemployment edging up to 4.2%. With little evidence of labor-market inflation p…

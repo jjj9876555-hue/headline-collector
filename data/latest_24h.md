@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-03 10:45 JST／対象: 10/02 10:45 〜 10/03 10:45 JST（時刻はすべて日本時間）
+生成: 2026-10-03 10:58 JST／対象: 10/02 10:58 〜 10/03 10:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 63 | 10/02 17:55 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
-| FirstSquawk | 231 | 10/02 10:48 | 10/03 10:22 | ⚠ 240分（05:02→09:03） |
+| FirstSquawk | 228 | 10/02 11:00 | 10/03 10:22 | ⚠ 240分（05:02→09:03） |
 | financialjuice | 233 | 10/02 11:05 | 10/03 10:26 | ⚠ 71分（05:20→06:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 512 行（統合前 529 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 509 行（統合前 526 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 10:48 [FirstSquawk] Oil Gains Ground as Middle East Tensions Mount - WSJ
-- 10/02 10:50 [FirstSquawk] US Deploys Additional Patriot Air Defense Systems to Saudi, Qatari Energy Sites, Axios Reports
-- 10/02 10:56 [FirstSquawk] JGBs Climb Following Gains in US Treasurys - WSJ
 - 10/02 11:00 [FirstSquawk] Fitch Expands Asia-Pacific Coverage for Equity Release Loan Product Ratings
 - 10/02 11:04 [FirstSquawk] Japan Petroleum Exploration Acquires Entire Fundare Stake to Complete Tight Oil and Gas Asset Deal
 - 10/02 11:04 [FirstSquawk] Japan Petroleum Exploration Puts Total Enterprise Value of Fundare Interests at About $278 Million
