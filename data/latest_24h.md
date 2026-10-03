@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-03 14:43 JST／対象: 10/02 14:43 〜 10/03 14:43 JST（時刻はすべて日本時間）
+生成: 2026-10-03 15:03 JST／対象: 10/02 15:03 〜 10/03 15:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 63 | 10/02 17:55 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
-| FirstSquawk | 247 | 10/02 14:43 | 10/03 14:36 | ⚠ 240分（05:02→09:03） |
-| financialjuice | 223 | 10/02 14:43 | 10/03 13:18 | ⚠ 71分（05:20→06:32） |
+| FirstSquawk | 247 | 10/02 15:21 | 10/03 14:58 | ⚠ 240分（05:02→09:03） |
+| financialjuice | 222 | 10/02 15:27 | 10/03 13:18 | ⚠ 71分（05:20→06:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 517 行（統合前 535 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 516 行（統合前 534 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 14:43 [financialjuice] French finance minister Lescure: Debt sales go well, but interest rates are too high, budget will help bring them down
-- 10/02 14:43 [FirstSquawk] FRENCH FINANCE MINISTER: BUDGET WILL HELP LOWER HIGH INTEREST RATES
-- 10/02 14:47 [FirstSquawk] JAPAN 10-YEAR JGB YIELD REBOUNDS TO 3.100%, UP 0.5 BP
-- 10/02 14:50 [FirstSquawk] KREMLIN SAYS RUSSIA WILL CONTINUE EFFORTS TO STOP WEAPONS, FUEL SUPPLIES TO UKRAINE VIA BLACK SEA
 - 10/02 15:21 [FirstSquawk] JP MORGAN CUTS BANK OF AMERICA TARGET PRICE TO $62 FROM $68
 - 10/02 15:27 [financialjuice] NORWEGIAN UNEMPLOYMENT RATE NSA ACTUAL 2.0% (FORECAST -, PREVIOUS 2.1%) $MACRO
 - 10/02 15:31 [FirstSquawk] NORWAY UNEMPLOYMENT RATE NSA SEP: 2.0% (PREV 2.1%)
@@ -541,3 +537,6 @@
 - 10/03 14:30 [FirstSquawk] Chinese banks may follow Ping An with tighter AI rules - SCMP
 - 10/03 14:32 [FirstSquawk] US simulation targets China’s alleged secret nuclear testing activity - SCMP
 - 10/03 14:36 [FirstSquawk] US adds just 29,000 jobs in September, well below expectations - TND
+- 10/03 14:45 [FirstSquawk] China investigates p-nitrotoluene imports from EU in anti-dumping case
+- 10/03 14:51 [FirstSquawk] Russia’s Defense Ministry: Main bridge in Kyiv targeted in strike
+- 10/03 14:58 [FirstSquawk] Malaysia seeks to build new research corridor across Asia as China rises - SCMP

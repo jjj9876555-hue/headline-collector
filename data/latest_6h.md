@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-03 14:43 JST／対象: 10/03 08:43 〜 10/03 14:43 JST（時刻はすべて日本時間）
+生成: 2026-10-03 15:03 JST／対象: 10/03 09:03 〜 10/03 15:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 96 | 10/03 09:03 | 10/03 14:36 | ⚠ 75分（10:22→11:37） |
+| FirstSquawk | 98 | 10/03 09:04 | 10/03 14:58 | ⚠ 75分（10:22→11:37） |
 | financialjuice | 14 | 10/03 09:03 | 10/03 13:18 | ⚠ 56分（10:26→11:22） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 109 行（統合前 110 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 111 行（統合前 112 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/03 09:03 [FirstSquawk] Bayer announces $2.2 billion U.S. pharma manufacturing expansion -WSJ
 - 10/03 09:03 [financialjuice] North Korean missile flew over 700 kilometers: South Korean military
 - 10/03 09:04 [FirstSquawk] Trump: Iran war will end soon, either through deal or military action
 - 10/03 09:04 [FirstSquawk] Trump: Iran’s military capabilities have been eliminated
@@ -133,3 +132,6 @@
 - 10/03 14:30 [FirstSquawk] Chinese banks may follow Ping An with tighter AI rules - SCMP
 - 10/03 14:32 [FirstSquawk] US simulation targets China’s alleged secret nuclear testing activity - SCMP
 - 10/03 14:36 [FirstSquawk] US adds just 29,000 jobs in September, well below expectations - TND
+- 10/03 14:45 [FirstSquawk] China investigates p-nitrotoluene imports from EU in anti-dumping case
+- 10/03 14:51 [FirstSquawk] Russia’s Defense Ministry: Main bridge in Kyiv targeted in strike
+- 10/03 14:58 [FirstSquawk] Malaysia seeks to build new research corridor across Asia as China rises - SCMP
