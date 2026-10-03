@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-03 16:30 JST／対象: 10/03 10:30 〜 10/03 16:30 JST（時刻はすべて日本時間）
+生成: 2026-10-03 16:48 JST／対象: 10/03 10:48 〜 10/03 16:48 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
 | FirstSquawk | 82 | 10/03 11:37 | 10/03 16:14 | 29分（15:28→15:57） |
-| financialjuice | 11 | 10/03 11:22 | 10/03 16:00 | ⚠ 119分（13:18→15:17） |
+| financialjuice | 12 | 10/03 11:22 | 10/03 16:46 | ⚠ 119分（13:18→15:17） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 92 行（統合前 93 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 93 行（統合前 94 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -116,3 +116,4 @@
 - 10/03 16:11 [FirstSquawk] AbbVie joins United States government pilot to test drug discount rebates
 - 10/03 16:13 [FirstSquawk] 7 month into war with the US, Iran’s leaders are feeling the strain. Inflation in the Islamic Republic is almost 90%, and a US blockade is choking off Iran’s crude exports, while diplomacy remains deadlocked.
 - 10/03 16:14 [FirstSquawk] Trump: I am pleased to announce that my Administration will, immediately, begin sending “Checks” of nearly $100 to over 20 MILLION wonderful Seniors to help pay for their Medicare Part B premiums, which we have already reduced by significan…
+- 10/03 16:46 [financialjuice] Vilnius airport reopens after drone warning lifted: Lithuania's national crisis control centre
