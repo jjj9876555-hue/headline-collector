@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-03 18:18 JST／対象: 10/02 18:18 〜 10/03 18:18 JST（時刻はすべて日本時間）
+生成: 2026-10-03 18:35 JST／対象: 10/02 18:35 〜 10/03 18:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 59 | 10/02 18:25 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
-| FirstSquawk | 244 | 10/02 18:26 | 10/03 17:40 | ⚠ 240分（05:02→09:03） |
-| financialjuice | 193 | 10/02 18:49 | 10/03 18:14 | ⚠ 119分（13:18→15:17） |
+| DeItaone | 56 | 10/02 18:49 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
+| FirstSquawk | 242 | 10/02 18:57 | 10/03 17:40 | ⚠ 240分（05:02→09:03） |
+| financialjuice | 194 | 10/02 18:49 | 10/03 18:32 | ⚠ 119分（13:18→15:17） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 481 行（統合前 498 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 477 行（統合前 494 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 18:25 [DeItaone] $NVDA - MORGAN STANLEY RENAMES NVIDIA TO TOP PICK
-- 10/02 18:26 [FirstSquawk] SWEDEN'S PARLIAMENT SPEAKER URGES SOCIAL DEMOCRATS TO RESTART GOVERNMENT FORMATION EFFORTS.
-- 10/02 18:26 [FirstSquawk] MORGAN STANLEY HAS NAMED NVIDIA AS A TOP PICK ONCE AGAIN.
-- 10/02 18:29 [DeItaone] 🇺🇸 PRESIDENT TRUMP — FRIDAY, OCTOBER 2, 2026 🔸 8:00 AM — Executive Time — White House 🔸 9:00 AM — In-Town Pool Call Time 🔸 11:00 AM — Intelligence Briefing — Oval Office 🔸 12:30 PM — Policy Meeting — Oval Office 🔸 2:40 PM — Out-of-Town Trav…
-- 10/02 18:31 [DeItaone] AI BOOM MAY REQUIRE U.S. SPENDING EQUAL TO 9% OF GDP America may need to spend roughly $3.5 trillion annually on AI services by 2032 — 8.8% of GDP — to justify today’s massive data-center investment, according to Columbia professor Stijn Va…
 - 10/02 18:49 [DeItaone] RUSSIAN DEPUTY PM NOVAK: RUSSIA WILL BE CONSIDERING PARTIALLY LIFTING DIESEL EXPORTS RESTRICTIONS
 - 10/02 18:49 [financialjuice] Poll: Euro forecast to trade at $1.15 at year-end, $1.15 in six months and $1.16 in a year (vs $1.16, $1.17 and $1.18 in the September poll)
 - 10/02 18:50 [financialjuice] Poll: US Dollar More likely to trade stronger than expectations at year-end, according to 52 of 66 FX strategists
@@ -505,3 +500,4 @@
 - 10/03 17:40 [FirstSquawk] Malaysia is considering spending more than $245 million on a new naval strike missile system after a deal with Norway collapsed earlier this year, the Star reported.
 - 10/03 17:41 [financialjuice] One killed, ten wounded in drone strike on Ukraine's Zaporizhzhia region: Russian-installed governor, Tass reports
 - 10/03 18:14 [financialjuice] US-Russia talks on Ukraine now include a multi-billion dollar oil pact linked to Trump allies: NYT
+- 10/03 18:32 [financialjuice] Pakistan foreign ministry summons Indian charge d'affaires over killing of two Pakistani civilians

@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-03 18:18 JST／対象: 10/03 12:18 〜 10/03 18:18 JST（時刻はすべて日本時間）
+生成: 2026-10-03 18:35 JST／対象: 10/03 12:35 〜 10/03 18:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 68 | 10/03 12:21 | 10/03 17:40 | 41分（16:14→16:55） |
-| financialjuice | 9 | 10/03 13:00 | 10/03 18:14 | ⚠ 119分（13:18→15:17） |
+| FirstSquawk | 63 | 10/03 12:37 | 10/03 17:40 | 41分（16:14→16:55） |
+| financialjuice | 10 | 10/03 13:00 | 10/03 18:32 | ⚠ 119分（13:18→15:17） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 77 行（統合前 77 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 73 行（統合前 73 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/03 12:21 [FirstSquawk] AI demand lifts Japan’s hard-drive suppliers after years of decline
-- 10/03 12:22 [FirstSquawk] Roadblocks deployed in Islamabad to restrict movement of Imran Khan supporters
-- 10/03 12:31 [FirstSquawk] China investigates EU p-nitrotoluene imports in new anti-dumping case - RTRS
-- 10/03 12:33 [FirstSquawk] Trump says diesel export ban was not under serious consideration
-- 10/03 12:33 [FirstSquawk] CME Group drops filing for 10-barrel oil futures
 - 10/03 12:37 [FirstSquawk] WSJ: Nature of radicalization remains unclear
 - 10/03 12:40 [FirstSquawk] Oman had barred Flydubai attacker from flying over radical views, sources tell WSJ
 - 10/03 12:41 [FirstSquawk] Anthropic’s concerns extend beyond Pentagon dispute amid fears of government pressure - Benzinga
@@ -101,3 +96,4 @@
 - 10/03 17:40 [FirstSquawk] Malaysia is considering spending more than $245 million on a new naval strike missile system after a deal with Norway collapsed earlier this year, the Star reported.
 - 10/03 17:41 [financialjuice] One killed, ten wounded in drone strike on Ukraine's Zaporizhzhia region: Russian-installed governor, Tass reports
 - 10/03 18:14 [financialjuice] US-Russia talks on Ukraine now include a multi-billion dollar oil pact linked to Trump allies: NYT
+- 10/03 18:32 [financialjuice] Pakistan foreign ministry summons Indian charge d'affaires over killing of two Pakistani civilians
