@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-03 17:22 JST／対象: 10/03 05:22 〜 10/03 17:22 JST（時刻はすべて日本時間）
+生成: 2026-10-03 17:39 JST／対象: 10/03 05:39 〜 10/03 17:39 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 123 | 10/03 09:03 | 10/03 16:57 | ⚠ 75分（10:22→11:37） |
+| FirstSquawk | 127 | 10/03 09:03 | 10/03 17:37 | ⚠ 75分（10:22→11:37） |
 | financialjuice | 33 | 10/03 06:32 | 10/03 16:46 | ⚠ 119分（13:18→15:17） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 155 行（統合前 156 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 159 行（統合前 160 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -179,3 +179,7 @@
 - 10/03 16:56 [FirstSquawk] SpaceX launched three missions in less than 13 hours. • Crew-13: 4 astronauts to the ISS • Transporter-18: payloads to orbit • NROL-97: Classified NRO mission
 - 10/03 16:56 [FirstSquawk] Researchers drove a Chinese NIO electric SUV into a Norwegian mine to cut its connections. It kept trying to reach servers in China. About 90% of its traffic went there.
 - 10/03 16:57 [FirstSquawk] Ethiopian federal forces and allied pro-government Tigray militias are closing in on Mekelle, Tigray's capital, after reversing a TPLF-led offensive that began in late September.
+- 10/03 17:36 [FirstSquawk] Benjamin Netanyahu accused Andy Burnham's Government of “mind-blowing hypocrisy” for imposing sanctions on Israeli settlements.
+- 10/03 17:36 [FirstSquawk] Iran has restored key satellite-development infrastructure damaged during the war, although the facilities are not yet back to full capacity, the acting head of the Iranian Space Research Center said on Saturday
+- 10/03 17:37 [FirstSquawk] Global hotel operators hurt by the US-Iran conflict should see early signs of a demand recovery in the Middle East as the region enters its peak travel season, though business will remain well below pre-war levels, analysts say.
+- 10/03 17:37 [FirstSquawk] UK new car sales rise 12% in September as EVs and Chinese brands gain ground

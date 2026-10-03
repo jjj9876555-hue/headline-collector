@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-03 17:22 JST／対象: 10/02 17:22 〜 10/03 17:22 JST（時刻はすべて日本時間）
+生成: 2026-10-03 17:39 JST／対象: 10/02 17:39 〜 10/03 17:39 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 63 | 10/02 17:55 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
-| FirstSquawk | 242 | 10/02 17:53 | 10/03 16:57 | ⚠ 240分（05:02→09:03） |
-| financialjuice | 196 | 10/02 17:31 | 10/03 16:46 | ⚠ 119分（13:18→15:17） |
+| FirstSquawk | 246 | 10/02 17:53 | 10/03 17:37 | ⚠ 240分（05:02→09:03） |
+| financialjuice | 194 | 10/02 18:00 | 10/03 16:46 | ⚠ 119分（13:18→15:17） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 486 行（統合前 503 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 488 行（統合前 505 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 17:31 [financialjuice] UK September decision maker year-ahead CPI expectations 3.3%.
-- 10/02 17:32 [financialjuice] Bank of England Decision Maker Panel: Firms year-ahead expected wage growth unchanged at 3.4% in the three months to September.
 - 10/02 17:53 [FirstSquawk] FRANCE SUGGESTS RELEASING 50 MILLION BARRELS OF DIESEL AND 50 MILLION BARRELS OF OIL FROM IEA MEMBERS.
 - 10/02 17:53 [FirstSquawk] UKRAINE PRESIDENT ZELENSKIY HAS ANNOUNCED THAT UKRAINE ATTACKED RUSSIAN REFINERIES LAST NIGHT.
 - 10/02 17:55 [DeItaone] *FRANCE HAS PROPOSED NEW EUROPE, IEA RELEASE OF DIESEL AND CRUDE
@@ -510,3 +508,7 @@
 - 10/03 16:56 [FirstSquawk] SpaceX launched three missions in less than 13 hours. • Crew-13: 4 astronauts to the ISS • Transporter-18: payloads to orbit • NROL-97: Classified NRO mission
 - 10/03 16:56 [FirstSquawk] Researchers drove a Chinese NIO electric SUV into a Norwegian mine to cut its connections. It kept trying to reach servers in China. About 90% of its traffic went there.
 - 10/03 16:57 [FirstSquawk] Ethiopian federal forces and allied pro-government Tigray militias are closing in on Mekelle, Tigray's capital, after reversing a TPLF-led offensive that began in late September.
+- 10/03 17:36 [FirstSquawk] Benjamin Netanyahu accused Andy Burnham's Government of “mind-blowing hypocrisy” for imposing sanctions on Israeli settlements.
+- 10/03 17:36 [FirstSquawk] Iran has restored key satellite-development infrastructure damaged during the war, although the facilities are not yet back to full capacity, the acting head of the Iranian Space Research Center said on Saturday
+- 10/03 17:37 [FirstSquawk] Global hotel operators hurt by the US-Iran conflict should see early signs of a demand recovery in the Middle East as the region enters its peak travel season, though business will remain well below pre-war levels, analysts say.
+- 10/03 17:37 [FirstSquawk] UK new car sales rise 12% in September as EVs and Chinese brands gain ground
