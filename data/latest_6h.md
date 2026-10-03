@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-03 16:04 JST／対象: 10/03 10:04 〜 10/03 16:04 JST（時刻はすべて日本時間）
+生成: 2026-10-03 16:30 JST／対象: 10/03 10:30 〜 10/03 16:30 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 79 | 10/03 10:13 | 10/03 16:00 | ⚠ 75分（10:22→11:37） |
-| financialjuice | 15 | 10/03 10:06 | 10/03 16:00 | ⚠ 119分（13:18→15:17） |
+| FirstSquawk | 82 | 10/03 11:37 | 10/03 16:14 | 29分（15:28→15:57） |
+| financialjuice | 11 | 10/03 11:22 | 10/03 16:00 | ⚠ 119分（13:18→15:17） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 93 行（統合前 94 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 92 行（統合前 93 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/03 10:06 [financialjuice] Japan finance minister Katayama: US and Japan agree to remain ready for decisive measures against forex volatility
-- 10/03 10:06 [financialjuice] Japan finance minister Katayama: forex trend shifted somewhat since joint currency intervention
-- 10/03 10:11 [financialjuice] Japan finance minister Katayama: Bessent questions if Japan government has been sending consistent messages to markets
-- 10/03 10:13 [FirstSquawk] One injured by shrapnel from intercepted ballistic missile in Asir, Saudi civil defense says
-- 10/03 10:13 [FirstSquawk] Unplanned flare event reported at Marathon’s Wilmington refinery in California
-- 10/03 10:22 [FirstSquawk] Five killed in Gaza City apartment strike as death toll rises
-- 10/03 10:26 [financialjuice] Japan finance minister katayama: government transparency on forex reserve makeup has limits
 - 10/03 11:22 [financialjuice] China commerce ministry launches anti-dumping probe into p-nitrotoluene from EU
 - 10/03 11:37 [FirstSquawk] Bolivia secures $1.9 billion IMF financing package under 36-month EFF
 - 10/03 11:38 [FirstSquawk] Bolivia receives IMF executive board approval for 36-month Extended Fund Facility arrangement
@@ -117,3 +110,9 @@
 - 10/03 16:00 [FirstSquawk] UAE says the co-pilot on a FlyDubai flight that nearly crashed with 182 people on board attacked the captain with the cockpit’s crash axe in a “terrorist attack.”
 - 10/03 16:00 [financialjuice] Vilnius airport shut, NATO air police jets deployed over possible drone from Belarus: Lithuania's national crisis control centre
 - 10/03 16:00 [FirstSquawk] China’s securities regulator is raising the bar for public listings of humanoid robot startups, according to three sources familiar with the CSRC’s thinking. It’s a sign of how one of the hottest sectors of the market is cooling, as investo…
+- 10/03 16:08 [FirstSquawk] Chinese officials made unusual requests to accommodate Xi Jinping’s need for rest during his September summit with Trump, significantly cutting into the time available for meetings.
+- 10/03 16:09 [FirstSquawk] Russian jet-powered strike drone struck Kyiv’s Northern Bridge on Saturday, damaging the roadway and severing trolleybus power lines. Traffic from the left to right bank has been halted while municipal crews assess the span.
+- 10/03 16:09 [FirstSquawk] US Trump announces $90 checks for more than 20M seniors to help combat Medicare costs
+- 10/03 16:11 [FirstSquawk] AbbVie joins United States government pilot to test drug discount rebates
+- 10/03 16:13 [FirstSquawk] 7 month into war with the US, Iran’s leaders are feeling the strain. Inflation in the Islamic Republic is almost 90%, and a US blockade is choking off Iran’s crude exports, while diplomacy remains deadlocked.
+- 10/03 16:14 [FirstSquawk] Trump: I am pleased to announce that my Administration will, immediately, begin sending “Checks” of nearly $100 to over 20 MILLION wonderful Seniors to help pay for their Medicare Part B premiums, which we have already reduced by significan…

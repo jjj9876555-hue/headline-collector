@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-03 16:04 JST／対象: 10/03 04:04 〜 10/03 16:04 JST（時刻はすべて日本時間）
+生成: 2026-10-03 16:30 JST／対象: 10/03 04:30 〜 10/03 16:30 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 10/03 05:00 | 10/03 05:04 | 4分（05:00→05:04） |
-| FirstSquawk | 124 | 10/03 04:06 | 10/03 16:00 | ⚠ 240分（05:02→09:03） |
-| financialjuice | 62 | 10/03 04:07 | 10/03 16:00 | ⚠ 119分（13:18→15:17） |
+| FirstSquawk | 125 | 10/03 04:36 | 10/03 16:14 | ⚠ 240分（05:02→09:03） |
+| financialjuice | 53 | 10/03 04:31 | 10/03 16:00 | ⚠ 119分（13:18→15:17） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 186 行（統合前 190 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 178 行（統合前 182 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/03 04:06 [FirstSquawk] MORE REGULATORY PROPOSALS FOR CRYPTO ON THE HORIZON: SEC ATKINS
-- 10/03 04:06 [FirstSquawk] FED'S GOOLSBEE SAYS INFLATION GOING WRONG WAY AND STALLED THERE
-- 10/03 04:07 [financialjuice] Fed's Goolsbee: Inflation going the wrong way and stalled there - Fox Business
-- 10/03 04:07 [financialjuice] Council of Economic Advisers Chair Phelan: Inflation is coming down sufficiently fast
-- 10/03 04:08 [financialjuice] Council of Economic Advisers Chair Phelan ends remarks on Bloomberg TV
-- 10/03 04:08 [financialjuice] Fed's Goolsbee: Low progress on services inflation could be a sign of spread
-- 10/03 04:11 [FirstSquawk] GOOLSBEE: LOW PROGRESS ON SERVICES INFL COULD BE SIGN OF SPREAD
-- 10/03 04:14 [financialjuice] US community Bank Organization sues the Office of the Comptroller of the currency over granting trust charters to Crypto firms - Statement
-- 10/03 04:14 [FirstSquawk] BAYER TO INVEST $2.2 BILLION IN NEW US DRUG PLANT IN OHIO
-- 10/03 04:14 [financialjuice] Independent community Bankers of America: Granting charters to such firms exceeds regulatory authority
-- 10/03 04:15 [financialjuice] US to offer $4 billion loan for vistra to boost nuclear output
-- 10/03 04:22 [financialjuice] Monday FX Options Expiries
-- 10/03 04:24 [FirstSquawk] ELI LILLY'S JAYPIRCA GETS FDA OK FOR PREVIOUSLY UNTREATED CLL/SLL
-- 10/03 04:27 [financialjuice] Week Ahead: Economic Indicators 5th – 9th October (US)
 - 10/03 04:31 [financialjuice] CFTC Positions in the Week Ended September 29th, 2026
 - 10/03 04:35 [financialjuice] ECB's Nagel: Possible that the German economy will grow around 1% this year
 - 10/03 04:36 [financialjuice] US Army to create autonomous systems command - Axios citing memo
@@ -210,3 +196,9 @@
 - 10/03 16:00 [FirstSquawk] UAE says the co-pilot on a FlyDubai flight that nearly crashed with 182 people on board attacked the captain with the cockpit’s crash axe in a “terrorist attack.”
 - 10/03 16:00 [financialjuice] Vilnius airport shut, NATO air police jets deployed over possible drone from Belarus: Lithuania's national crisis control centre
 - 10/03 16:00 [FirstSquawk] China’s securities regulator is raising the bar for public listings of humanoid robot startups, according to three sources familiar with the CSRC’s thinking. It’s a sign of how one of the hottest sectors of the market is cooling, as investo…
+- 10/03 16:08 [FirstSquawk] Chinese officials made unusual requests to accommodate Xi Jinping’s need for rest during his September summit with Trump, significantly cutting into the time available for meetings.
+- 10/03 16:09 [FirstSquawk] Russian jet-powered strike drone struck Kyiv’s Northern Bridge on Saturday, damaging the roadway and severing trolleybus power lines. Traffic from the left to right bank has been halted while municipal crews assess the span.
+- 10/03 16:09 [FirstSquawk] US Trump announces $90 checks for more than 20M seniors to help combat Medicare costs
+- 10/03 16:11 [FirstSquawk] AbbVie joins United States government pilot to test drug discount rebates
+- 10/03 16:13 [FirstSquawk] 7 month into war with the US, Iran’s leaders are feeling the strain. Inflation in the Islamic Republic is almost 90%, and a US blockade is choking off Iran’s crude exports, while diplomacy remains deadlocked.
+- 10/03 16:14 [FirstSquawk] Trump: I am pleased to announce that my Administration will, immediately, begin sending “Checks” of nearly $100 to over 20 MILLION wonderful Seniors to help pay for their Medicare Part B premiums, which we have already reduced by significan…

@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-03 16:04 JST／対象: 10/02 16:04 〜 10/03 16:04 JST（時刻はすべて日本時間）
+生成: 2026-10-03 16:30 JST／対象: 10/02 16:30 〜 10/03 16:30 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 63 | 10/02 17:55 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
-| FirstSquawk | 251 | 10/02 16:08 | 10/03 16:00 | ⚠ 240分（05:02→09:03） |
+| FirstSquawk | 252 | 10/02 16:32 | 10/03 16:14 | ⚠ 240分（05:02→09:03） |
 | financialjuice | 221 | 10/02 16:30 | 10/03 16:00 | ⚠ 119分（13:18→15:17） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 520 行（統合前 537 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 521 行（統合前 538 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 16:08 [FirstSquawk] EU COMMISSIONER JORGENSEN: WE ARE DISCUSSING WITH ALL MEMBERS OF THE IEA, NOT ONLY WITH THE US, WHEN IT IS TIME TO RELEASE DIESEL
-- 10/02 16:24 [FirstSquawk] RUSSIA'S A7 HAS NEVER CARRIED OUT TRANSACTIONS BENEFITING IRAN, ACCORDING TO TASS.
-- 10/02 16:25 [FirstSquawk] JP MORGAN LOWERS NIKE'S TARGET PRICE FROM $40 TO $33.
-- 10/02 16:25 [FirstSquawk] ENI ANNOUNCED A 20% PRICE CUT ON DIESEL AND GASOLINE FOR AGRICULTURAL AND FISHING SECTORS STARTING TODAY UNTIL THE END OF OCTOBER, WITH POTENTIAL EXTENSION THROUGH YEAR-END.
-- 10/02 16:25 [FirstSquawk] UKRAINE'S FARM MINISTER SAYS WINTER WHEAT SOWING FOR 2027 HARVEST MAY DROP BY 17%.
 - 10/02 16:30 [financialjuice] ECB's Rehn: Higher energy prices bring us closer to the ECB's adverse scenario for inflation
 - 10/02 16:30 [financialjuice] ECB's Rehn: ECB projections subject to very high, pervasive uncertainty
 - 10/02 16:30 [financialjuice] ECB's Rehn: Rise in long-term interest rates will slow growth and reduce the pass-through of energy shock to prices, wages
@@ -544,3 +539,9 @@
 - 10/03 16:00 [FirstSquawk] UAE says the co-pilot on a FlyDubai flight that nearly crashed with 182 people on board attacked the captain with the cockpit’s crash axe in a “terrorist attack.”
 - 10/03 16:00 [financialjuice] Vilnius airport shut, NATO air police jets deployed over possible drone from Belarus: Lithuania's national crisis control centre
 - 10/03 16:00 [FirstSquawk] China’s securities regulator is raising the bar for public listings of humanoid robot startups, according to three sources familiar with the CSRC’s thinking. It’s a sign of how one of the hottest sectors of the market is cooling, as investo…
+- 10/03 16:08 [FirstSquawk] Chinese officials made unusual requests to accommodate Xi Jinping’s need for rest during his September summit with Trump, significantly cutting into the time available for meetings.
+- 10/03 16:09 [FirstSquawk] Russian jet-powered strike drone struck Kyiv’s Northern Bridge on Saturday, damaging the roadway and severing trolleybus power lines. Traffic from the left to right bank has been halted while municipal crews assess the span.
+- 10/03 16:09 [FirstSquawk] US Trump announces $90 checks for more than 20M seniors to help combat Medicare costs
+- 10/03 16:11 [FirstSquawk] AbbVie joins United States government pilot to test drug discount rebates
+- 10/03 16:13 [FirstSquawk] 7 month into war with the US, Iran’s leaders are feeling the strain. Inflation in the Islamic Republic is almost 90%, and a US blockade is choking off Iran’s crude exports, while diplomacy remains deadlocked.
+- 10/03 16:14 [FirstSquawk] Trump: I am pleased to announce that my Administration will, immediately, begin sending “Checks” of nearly $100 to over 20 MILLION wonderful Seniors to help pay for their Medicare Part B premiums, which we have already reduced by significan…
