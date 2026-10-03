@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-03 17:39 JST／対象: 10/03 11:39 〜 10/03 17:39 JST（時刻はすべて日本時間）
+生成: 2026-10-03 17:57 JST／対象: 10/03 11:57 〜 10/03 17:57 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 85 | 10/03 11:40 | 10/03 17:37 | 41分（16:14→16:55） |
-| financialjuice | 11 | 10/03 11:58 | 10/03 16:46 | ⚠ 119分（13:18→15:17） |
+| FirstSquawk | 75 | 10/03 11:58 | 10/03 17:40 | 41分（16:14→16:55） |
+| financialjuice | 12 | 10/03 11:58 | 10/03 17:41 | ⚠ 119分（13:18→15:17） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 95 行（統合前 96 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 86 行（統合前 87 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/03 11:40 [FirstSquawk] Brazil’s TOTVS divests 80% stake in RJ Participações for 39 million reais
-- 10/03 11:41 [FirstSquawk] GameStop CEO Ryan Cohen reports open-market purchase of 700,000 shares at $24.4061 each
-- 10/03 11:42 [FirstSquawk] Gaza death toll from Israeli airstrikes rises to 8, including 4 women, Al Arabiya reports
-- 10/03 11:42 [FirstSquawk] Minnesota’s AI “nudification” law temporarily blocked by US appeals court in xAI lawsuit
-- 10/03 11:52 [FirstSquawk] Fed’s Hammack says policymakers still have time before next rate decision
-- 10/03 11:52 [FirstSquawk] DRC Ebola outbreak slows in some health zones as death toll surpasses 4,000
-- 10/03 11:53 [FirstSquawk] Novo reports update on denecimig BLA in the US
-- 10/03 11:54 [FirstSquawk] FDA review of Novo Nordisk’s denecimig BLA for haemophilia A continues
-- 10/03 11:54 [FirstSquawk] FDA extends review of Novo Nordisk’s denecimig application due to facility remediation
-- 10/03 11:55 [FirstSquawk] Qualcomm submits prospectus for resale of up to 25 million common shares
-- 10/03 11:56 [FirstSquawk] S&P: Romania’s negative outlook reflects risks to public finance consolidation and external deficit reduction
 - 10/03 11:58 [FirstSquawk] S&P says Romania’s 2026 fiscal consolidation remains on track despite government formation impasse
 - 10/03 11:58 [FirstSquawk] Trump says over 20 million seniors will receive nearly $100 checks to help cover Medicare Part B premiums
 - 10/03 11:58 [financialjuice] Trump: Sending nearly $100 payments to over 20 million seniors to help cover their Medicare Part B premiums
@@ -119,3 +108,5 @@
 - 10/03 17:36 [FirstSquawk] Iran has restored key satellite-development infrastructure damaged during the war, although the facilities are not yet back to full capacity, the acting head of the Iranian Space Research Center said on Saturday
 - 10/03 17:37 [FirstSquawk] Global hotel operators hurt by the US-Iran conflict should see early signs of a demand recovery in the Middle East as the region enters its peak travel season, though business will remain well below pre-war levels, analysts say.
 - 10/03 17:37 [FirstSquawk] UK new car sales rise 12% in September as EVs and Chinese brands gain ground
+- 10/03 17:40 [FirstSquawk] Malaysia is considering spending more than $245 million on a new naval strike missile system after a deal with Norway collapsed earlier this year, the Star reported.
+- 10/03 17:41 [financialjuice] One killed, ten wounded in drone strike on Ukraine's Zaporizhzhia region: Russian-installed governor, Tass reports
