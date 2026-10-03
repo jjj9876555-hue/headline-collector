@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-03 13:54 JST／対象: 10/03 07:54 〜 10/03 13:54 JST（時刻はすべて日本時間）
+生成: 2026-10-03 14:16 JST／対象: 10/03 08:16 〜 10/03 14:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 86 | 10/03 09:03 | 10/03 13:50 | ⚠ 75分（10:22→11:37） |
+| FirstSquawk | 90 | 10/03 09:03 | 10/03 14:12 | ⚠ 75分（10:22→11:37） |
 | financialjuice | 19 | 10/03 08:16 | 10/03 13:18 | ⚠ 56分（10:26→11:22） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 104 行（統合前 105 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 108 行（統合前 109 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -128,3 +128,7 @@
 - 10/03 13:38 [FirstSquawk] Kazakhstan weighs subsea pipeline, tanker fleet expansion for Trans-Caspian oil route
 - 10/03 13:43 [FirstSquawk] US community bank organization takes OCC to court over crypto trust charters
 - 10/03 13:50 [FirstSquawk] Japan’s entertainment robots evolve with AI, bringing new forms of comfort - Kyodo
+- 10/03 13:55 [FirstSquawk] Eight in 10 Japanese back efforts to preserve handwriting, survey shows
+- 10/03 13:58 [FirstSquawk] Mitsubishi Heavy plans ¥100 billion investment to expand shipbuilding capacity - kyodo
+- 10/03 14:06 [FirstSquawk] Fukushima company leverages nuclear decommissioning know-how to develop AI robots
+- 10/03 14:12 [FirstSquawk] China re-enters top 100 in global gender parity ranking after decade - SCMP

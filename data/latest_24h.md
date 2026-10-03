@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-03 13:54 JST／対象: 10/02 13:54 〜 10/03 13:54 JST（時刻はすべて日本時間）
+生成: 2026-10-03 14:16 JST／対象: 10/02 14:16 〜 10/03 14:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 63 | 10/02 17:55 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
-| FirstSquawk | 242 | 10/02 14:02 | 10/03 13:50 | ⚠ 240分（05:02→09:03） |
-| financialjuice | 227 | 10/02 14:05 | 10/03 13:18 | ⚠ 71分（05:20→06:32） |
+| FirstSquawk | 244 | 10/02 14:20 | 10/03 14:12 | ⚠ 240分（05:02→09:03） |
+| financialjuice | 223 | 10/02 14:43 | 10/03 13:18 | ⚠ 71分（05:20→06:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 516 行（統合前 534 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 514 行（統合前 532 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 14:02 [FirstSquawk] JULIUS BAER LAUNCHES CHF 600M SHARE BUYBACK, TARGETS 15% CET1 RATIO
-- 10/02 14:05 [financialjuice] Russia hits bridge across Dnieper river in Kyiv overnight: IFX cites Russian defense ministry
-- 10/02 14:06 [financialjuice] Russia strikes industrial, production complex at port of Izmail in Ukraine’s Odesa region overnight: IFX cites Russian defence ministry
-- 10/02 14:07 [financialjuice] Russia strikes vessel in Black Sea: IFX cites Russian Defence Ministry
-- 10/02 14:07 [financialjuice] Russia hits electrical substation in Kyiv region: IFX cites Russian defence ministry
-- 10/02 14:15 [FirstSquawk] JAPAN 40-YEAR JGB YIELD CLIMBS 5 BPS TO 4.270%
 - 10/02 14:20 [FirstSquawk] INDONESIAN RUPIAH GAINS AS DOLLAR SLIPS AMID LOWER FED RATE-HIKE EXPECTATIONS - FX
 - 10/02 14:30 [FirstSquawk] ITALGAS AGREES TO ACQUIRE 22.5% OF FLOENE FROM MARUBENI, TOHO GAS FOR €120M - RTRS
 - 10/02 14:42 [FirstSquawk] FRANCE'S LESCURE: EVERY MEASURE IN BUDGET PROPOSAL IS OPEN FOR NEGOTIATION
@@ -540,3 +534,7 @@
 - 10/03 13:38 [FirstSquawk] Kazakhstan weighs subsea pipeline, tanker fleet expansion for Trans-Caspian oil route
 - 10/03 13:43 [FirstSquawk] US community bank organization takes OCC to court over crypto trust charters
 - 10/03 13:50 [FirstSquawk] Japan’s entertainment robots evolve with AI, bringing new forms of comfort - Kyodo
+- 10/03 13:55 [FirstSquawk] Eight in 10 Japanese back efforts to preserve handwriting, survey shows
+- 10/03 13:58 [FirstSquawk] Mitsubishi Heavy plans ¥100 billion investment to expand shipbuilding capacity - kyodo
+- 10/03 14:06 [FirstSquawk] Fukushima company leverages nuclear decommissioning know-how to develop AI robots
+- 10/03 14:12 [FirstSquawk] China re-enters top 100 in global gender parity ranking after decade - SCMP
