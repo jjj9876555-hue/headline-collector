@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-03 18:52 JST／対象: 10/03 06:52 〜 10/03 18:52 JST（時刻はすべて日本時間）
+生成: 2026-10-03 19:05 JST／対象: 10/03 07:05 〜 10/03 19:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
 | FirstSquawk | 133 | 10/03 09:03 | 10/03 18:48 | ⚠ 75分（10:22→11:37） |
-| financialjuice | 35 | 10/03 07:01 | 10/03 18:37 | ⚠ 119分（13:18→15:17） |
+| financialjuice | 32 | 10/03 07:10 | 10/03 18:37 | ⚠ 119分（13:18→15:17） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 167 行（統合前 168 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 164 行（統合前 165 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/03 07:01 [financialjuice] North Korean missile seems to have landed beyond Japan's EEZ: NHK
-- 10/03 07:03 [financialjuice] IMF: executive board endorses 36-month extended fund facility for Bolivia
-- 10/03 07:04 [financialjuice] IMF: board greenlit 36-month deal under the EFF for Bolivia, with access to SDR 1.369 billion, or 570% of quota, about $1.9 billion
 - 10/03 07:10 [financialjuice] Saudi civil defense: shrapnel from intercepted ballistic missile in Ahad Rafidah governorate in Asir injures one person - state news agency
 - 10/03 07:23 [financialjuice] OpenAI's Altman: Cerebras is a close partner with deep engagement after partnership speculation
 - 10/03 07:42 [financialjuice] North Korea's projectile was ballistic missile: South Korean military

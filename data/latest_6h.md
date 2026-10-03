@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-03 18:52 JST／対象: 10/03 12:52 〜 10/03 18:52 JST（時刻はすべて日本時間）
+生成: 2026-10-03 19:05 JST／対象: 10/03 13:05 〜 10/03 19:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 62 | 10/03 12:54 | 10/03 18:48 | ⚠ 66分（17:40→18:47） |
-| financialjuice | 11 | 10/03 13:00 | 10/03 18:37 | ⚠ 119分（13:18→15:17） |
+| FirstSquawk | 59 | 10/03 13:06 | 10/03 18:48 | ⚠ 66分（17:40→18:47） |
+| financialjuice | 10 | 10/03 13:06 | 10/03 18:37 | ⚠ 119分（13:18→15:17） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 73 行（統合前 73 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 69 行（統合前 69 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/03 12:54 [FirstSquawk] Man arrested in US over alleged scheme to smuggle $300 million of Nvidia AI servers to China
-- 10/03 13:00 [financialjuice] Kyiv Mayor: north bridge over Dnipro River struck in Russian air raid, emergency teams en route
-- 10/03 13:02 [FirstSquawk] Russian air raid strikes Kyiv’s North Bridge over Dnipro River, mayor says
-- 10/03 13:03 [FirstSquawk] China tightens developer presale, funding rules as property market struggles - NA
 - 10/03 13:06 [FirstSquawk] China imposes stricter presale, funding rules as property market remains weak
 - 10/03 13:06 [financialjuice] Volodymyr Zelenskyy asked Donald Trump to block Russia and China's Starlink competitor: FT
 - 10/03 13:07 [FirstSquawk] Zelenskyy asks Trump to block Russia, China satellite internet rival - FT

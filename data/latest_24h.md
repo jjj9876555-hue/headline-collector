@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-03 18:52 JST／対象: 10/02 18:52 〜 10/03 18:52 JST（時刻はすべて日本時間）
+生成: 2026-10-03 19:05 JST／対象: 10/02 19:05 〜 10/03 19:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 53 | 10/02 18:58 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
-| FirstSquawk | 247 | 10/02 18:57 | 10/03 18:48 | ⚠ 240分（05:02→09:03） |
+| DeItaone | 50 | 10/02 19:20 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
+| FirstSquawk | 243 | 10/02 19:09 | 10/03 18:48 | ⚠ 240分（05:02→09:03） |
 | financialjuice | 188 | 10/02 19:16 | 10/03 18:37 | ⚠ 119分（13:18→15:17） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 473 行（統合前 490 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 466 行（統合前 483 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 18:57 [FirstSquawk] RUSSIA'S DEPUTY PM NOVAK ANNOUNCED THAT THE COUNTRY DEFENDED FOUR OIL REFINERIES FROM ATTACKS LAST NIGHT. HE ALSO STATED THAT RUSSIA MAY PARTIALLY LIFT DIESEL EXPORT RESTRICTIONS IF THERE IS OVERPRODUCTION.
-- 10/02 18:57 [FirstSquawk] TOYOTA MOTOR THAILAND PLANTS AND TOYOTA AUTO WORKS WILL STAY CLOSED UNTIL OCTOBER 10.
-- 10/02 18:57 [FirstSquawk] TOYOTA MOTOR IS FACING CONTINUED DISRUPTIONS IN PARTS DELIVERY DUE TO FLOODS IN THAILAND.
-- 10/02 18:58 [DeItaone] FRENCH 5-YEAR SOVEREIGN CREDIT DEFAULT SWAPS HIT 81BPS, S&P GLOBAL MARKET INTELLIGENCE
-- 10/02 19:00 [DeItaone] ANTHROPIC WARNS THAT GOVERNMENT ATTITUDES TOWARD THE COMPANY, ITS TECHNOLOGY COULD HAVE IMPLICATIONS FOR ITS BUSINESS - IPO PROSPECTUS SEEN BY REUTERS
-- 10/02 19:02 [FirstSquawk] SCOTIABANK INCREASES SHARE BUYBACK TARGET TO 40 MILLION FROM 15 MILLION.
-- 10/02 19:02 [DeItaone] FRENCH DEFAULT PROTECTION COSTS HIT MULTIYEAR HIGH The cost of insuring French government debt against default has climbed to a multiyear high, with 5-year sovereign CDS rising to 81 basis points. Meanwhile, France’s 10-year yield spread ov…
 - 10/02 19:09 [FirstSquawk] UKRAINE'S PM KORETSKYI ANNOUNCED A RECEIPT OF €2.9 BILLION FROM THE EU.
 - 10/02 19:12 [FirstSquawk] FRANCE'S BOND RISK PREMIUM INCREASES TO 150 BPS, A FIRST SINCE 2012.
 - 10/02 19:16 [financialjuice] UK diesel average prices rise above £2/litre for the first time - RAC
