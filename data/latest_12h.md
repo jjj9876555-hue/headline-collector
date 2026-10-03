@@ -7,52 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-03 09:24 JST／対象: 10/02 21:24 〜 10/03 09:24 JST（時刻はすべて日本時間）
+生成: 2026-10-03 09:50 JST／対象: 10/02 21:50 〜 10/03 09:50 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 28 | 10/02 21:30 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
-| FirstSquawk | 106 | 10/02 21:31 | 10/03 09:23 | ⚠ 240分（05:02→09:03） |
-| financialjuice | 136 | 10/02 21:25 | 10/03 09:17 | ⚠ 71分（05:20→06:32） |
+| DeItaone | 20 | 10/02 21:54 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
+| FirstSquawk | 109 | 10/02 22:00 | 10/03 09:50 | ⚠ 240分（05:02→09:03） |
+| financialjuice | 120 | 10/02 21:56 | 10/03 09:17 | ⚠ 71分（05:20→06:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 260 行（統合前 272 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 240 行（統合前 251 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 21:25 [financialjuice] Pakistan's foreign minister: More than six countries are keen to join the Makkah defence pact
-- 10/02 21:30 [DeItaone] US LABOR SEP NONFARM PAYROLLS +29K; CONSENSUS +84K
-- 10/02 21:30 [financialjuice] US AVERAGE WORKWEEK HRS ACTUAL 34.4 (FORECAST 34.3, PREVIOUS 34.4) $MACRO
-- 10/02 21:30 [financialjuice] ❗ US AVERAGE EARNINGS YOY ACTUAL 3% (FORECAST 3.1%, PREVIOUS 3.1%) $MACRO
-- 10/02 21:30 [financialjuice] US PRIVATE PAYROLLS ACTUAL 46K (FORECAST 81K, PREVIOUS 127K) $MACRO
-- 10/02 21:30 [financialjuice] ‼ BREAKING: US NONFARM PAYROLLS ACTUAL 29K (FORECAST 90K, PREVIOUS 162K) $MACRO
-- 10/02 21:30 [financialjuice] US LABOR FORCE PARTICIPATION ACTUAL 61.8% (FORECAST 61.6%, PREVIOUS 61.6%) $MACRO
-- 10/02 21:30 [financialjuice] US MANUFACTURING PAYROLLS ACTUAL 9K (FORECAST 10K, PREVIOUS 16K ,REVISION 15K) $MACRO
-- 10/02 21:30 [financialjuice] ❗ US UNEMPLOYMENT RATE ACTUAL 4.2% (FORECAST 4.1%, PREVIOUS 4.1%) $MACRO
-- 10/02 21:30 [financialjuice] US GOVERNMENT PAYROLLS ACTUAL -17K (FORECAST -, PREVIOUS 35K ,REVISION 44K) $MACRO
-- 10/02 21:31 [DeItaone] U.S. PAYROLLS BADLY MISS EXPECTATIONS U.S. nonfarm payrolls rose just 29,000 in September vs. 84,000 expected, while the unemployment rate increased to 4.2% vs. 4.1% forecast. Private payrolls gained only 46,000, while government employment…
-- 10/02 21:31 [FirstSquawk] US NONFARM PAYROLLS (SEP) ACTUAL: 29K VS 162K PREVIOUS; EST 90K
-- 10/02 21:31 [FirstSquawk] US UNEMPLOYMENT RATE (SEP) ACTUAL: 4.2% VS 4.1% PREVIOUS; EST 4.1%
-- 10/02 21:31 [FirstSquawk] U.S AVERAGE HOURLY EARNINGS (MOM) (SEP) ACTUAL: 0.1% VS 0.3% PREVIOUS; EST 0.3%
-- 10/02 21:31 [financialjuice] US Employment Situation September 2026 Report
-- 10/02 21:31 [DeItaone] US SEPT. TWO-MONTH PAYROLL NET REVISION SUBTRACTS 60,000
-- 10/02 21:32 [financialjuice] US short-term interest-rate futures jump after weaker-than-expected jobs data, traders trim Fed rate hike bets.
-- 10/02 21:32 [financialjuice] Traders pare bets on October Fed rate hike
-- 10/02 21:33 [DeItaone] FED PAUSE ODDS SURGE TO 85% AFTER WEAK JOBS REPORT Kalshi now prices an 85% chance the Fed holds rates in October after payrolls rose just 29,000 vs. 84,000 expected. Unemployment climbed to 4.2%, triggering a sharp dovish repricing of the …
-- 10/02 21:35 [financialjuice] Russia's oil refining volumes down 14% year on year in January-September - Two industry sources
-- 10/02 21:36 [DeItaone] U.S. S&P 500 E-MINI FUTURES UP 0.9%, NASDAQ 100 FUTURES UP 1.2%, DOW FUTURES UP 0.9%
-- 10/02 21:37 [financialjuice/DeItaone] ❗ Fed-dated swaps no longer price one full rate hike this year.
-- 10/02 21:37 [DeItaone] CBOE VOLATILITY INDEX HITS ONE-WEEK LOW, LAST DOWN 0.79 POINTS AT 15.60
-- 10/02 21:39 [financialjuice] Trump: Republic of Korea deal keeps getting better.
-- 10/02 21:39 [financialjuice] trump: 8.4b dollars for enhanced oil recovery project.
-- 10/02 21:39 [DeItaone] TRUMP: SOUTH KOREA DEAL EXPANDS WITH $8.4 BILLION ENERGY PROJECT President Trump says the South Korea agreement now includes $8.4 billion for an enhanced oil recovery project. Trump says the investment will increase U.S. oil and gas product…
-- 10/02 21:40 [FirstSquawk] TRUMP ON TRUTH SOCIAL: I AM THRILLED TO ANNOUNCE THE REPUBLIC OF KOREA DEAL KEEPS GETTING BETTER! 8.4 BILLION DOLLARS FOR AN ENHANCED OIL RECOVERY PROJECT. PRODUCING MORE OIL AND GAS MEANS AMERICAN ENERGY DOMINANCE AND ENERGY SECURITY IN TH…
-- 10/02 21:45 [FirstSquawk] G7 WILL HAVE URGENT MEETINGS ON FRIDAY TO DISCUSS POSSIBLE RELEASE OF DIESEL RESERVES.
-- 10/02 21:45 [FirstSquawk] TRUMP ANNOUNCED AN IMPROVED DEAL WITH SOUTH KOREA WORTH $8.4 BILLION FOR AN OIL RECOVERY PROJECT, PROMISING INCREASED OIL AND GAS PRODUCTION, WHICH WILL STRENGTHEN AMERICAN ENERGY DOMINANCE AND SECURITY FOR THE FUTURE! - PRESIDENT DONALD J.…
 - 10/02 21:54 [DeItaone] *TRUMP, MACRON SPOKE LAST NIGHT TO DISCUSS ENERGY SITUATION: NBC
 - 10/02 21:56 [financialjuice] Israel's Prime Minister Netanyahu: We are investigating whether the pilot was sent, and whoever sent him will pay a very heavy price - i24 News Reporter.
 - 10/02 22:00 [FirstSquawk] EU AMBASSADORS WILL GATHER TODAY TO TALK ABOUT THE DIESEL MARKET.
@@ -284,3 +255,12 @@
 - 10/03 09:19 [FirstSquawk] TSMC affiliate VIS eyes new Singapore plant after first facility fills up instantly
 - 10/03 09:20 [FirstSquawk] 3.North Korea fires ballistic missile, South Korea says
 - 10/03 09:23 [FirstSquawk] Warplanes target Houthi gatherings east of Taiz, Yemeni Armed Forces say
+- 10/03 09:25 [FirstSquawk] Israeli airstrike on residential apartment in Gaza City kills at least 3: Al Arabiya
+- 10/03 09:26 [FirstSquawk] Ukraine to accelerate identification of fallen Ukrainians, Budanov says
+- 10/03 09:38 [FirstSquawk] 3.Palestinian media reports injuries after Israeli airstrike hits Gaza City apartment
+- 10/03 09:39 [FirstSquawk] 4.Saudi Civil Defense reports injury, mosque damage from Houthi missile fragments in Ahad Rafidah
+- 10/03 09:47 [FirstSquawk] Japan sharply raises residency fees, with stricter income and language rules looming
+- 10/03 09:48 [FirstSquawk] Light AI reassessing schedule for U.S. clinical and FDA regulatory activities
+- 10/03 09:48 [FirstSquawk] Trump signals imminent replenishment of U.S. strategic oil reserves
+- 10/03 09:49 [FirstSquawk] South Korean military says North Korean missile traveled over 700 kilometers
+- 10/03 09:50 [FirstSquawk] South Korea convenes National Security Council meeting following North Korean missile launch

@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-03 09:24 JST／対象: 10/03 03:24 〜 10/03 09:24 JST（時刻はすべて日本時間）
+生成: 2026-10-03 09:50 JST／対象: 10/03 03:50 〜 10/03 09:50 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 10/03 05:00 | 10/03 05:04 | 4分（05:00→05:04） |
-| FirstSquawk | 36 | 10/03 03:25 | 10/03 09:23 | ⚠ 240分（05:02→09:03） |
-| financialjuice | 55 | 10/03 03:31 | 10/03 09:17 | ⚠ 71分（05:20→06:32） |
+| FirstSquawk | 41 | 10/03 03:54 | 10/03 09:50 | ⚠ 240分（05:02→09:03） |
+| financialjuice | 51 | 10/03 03:53 | 10/03 09:17 | ⚠ 71分（05:20→06:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 92 行（統合前 95 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 93 行（統合前 96 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/03 03:25 [FirstSquawk] JOINT US-UKRAINE INVESTMENT FUND SEALS FIRST CRITICAL MINERALS DEAL - US OFFICIAL
-- 10/03 03:31 [financialjuice] NYMEX WTI Crude November futures settle at $91.11 a barrel, down $1.76, 1.9%.
-- 10/03 03:31 [FirstSquawk] U.S. CRUDE OIL FUTURES SETTLE AT $91.11/BBL, DOWN $1.76, 1.90 PCT
-- 10/03 03:31 [financialjuice] NYMEX Gasoline November futures settle at $3.3124 a gallon.
-- 10/03 03:31 [financialjuice] NYMEX Diesel November futures settle at $4.5011 a gallon.
-- 10/03 03:32 [financialjuice] NYMEX Natural Gas November futures settle at $3.0350/MMBtu.
-- 10/03 03:36 [FirstSquawk] RODRIGUEZ:VENEZUELA MAKES PROGRESS ON PUBLIC, PRIVATE FINANCING
-- 10/03 03:38 [FirstSquawk] FAA DETERMINES 737 MAX SOFTWARE GLITCH DOESN’T POSE SAFETY ISSUE - WSJ
 - 10/03 03:53 [financialjuice] Brent Crude futures settle at $102.25/bbl, down 6 cents, 0.06%.
 - 10/03 03:54 [FirstSquawk] BRENT CRUDE FUTURES SETTLE AT $102.25/BBL, DOWN 6 CENTS, 0.06 PCT
 - 10/03 03:56 [FirstSquawk] DOJ WILL NOT RESUME CRIMINAL INVESTIGATION INTO POWELL, SAYS BLANCHE.
@@ -116,3 +108,12 @@
 - 10/03 09:19 [FirstSquawk] TSMC affiliate VIS eyes new Singapore plant after first facility fills up instantly
 - 10/03 09:20 [FirstSquawk] 3.North Korea fires ballistic missile, South Korea says
 - 10/03 09:23 [FirstSquawk] Warplanes target Houthi gatherings east of Taiz, Yemeni Armed Forces say
+- 10/03 09:25 [FirstSquawk] Israeli airstrike on residential apartment in Gaza City kills at least 3: Al Arabiya
+- 10/03 09:26 [FirstSquawk] Ukraine to accelerate identification of fallen Ukrainians, Budanov says
+- 10/03 09:38 [FirstSquawk] 3.Palestinian media reports injuries after Israeli airstrike hits Gaza City apartment
+- 10/03 09:39 [FirstSquawk] 4.Saudi Civil Defense reports injury, mosque damage from Houthi missile fragments in Ahad Rafidah
+- 10/03 09:47 [FirstSquawk] Japan sharply raises residency fees, with stricter income and language rules looming
+- 10/03 09:48 [FirstSquawk] Light AI reassessing schedule for U.S. clinical and FDA regulatory activities
+- 10/03 09:48 [FirstSquawk] Trump signals imminent replenishment of U.S. strategic oil reserves
+- 10/03 09:49 [FirstSquawk] South Korean military says North Korean missile traveled over 700 kilometers
+- 10/03 09:50 [FirstSquawk] South Korea convenes National Security Council meeting following North Korean missile launch

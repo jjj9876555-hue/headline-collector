@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-03 09:24 JST／対象: 10/02 09:24 〜 10/03 09:24 JST（時刻はすべて日本時間）
+生成: 2026-10-03 09:50 JST／対象: 10/02 09:50 〜 10/03 09:50 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 63 | 10/02 17:55 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
-| FirstSquawk | 239 | 10/02 09:25 | 10/03 09:23 | ⚠ 240分（05:02→09:03） |
-| financialjuice | 236 | 10/02 09:29 | 10/03 09:17 | ⚠ 71分（05:20→06:32） |
+| FirstSquawk | 237 | 10/02 10:16 | 10/03 09:50 | ⚠ 240分（05:02→09:03） |
+| financialjuice | 234 | 10/02 09:55 | 10/03 09:17 | ⚠ 71分（05:20→06:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 522 行（統合前 540 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 519 行（統合前 536 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 09:25 [FirstSquawk] FED OFFICIALS BARKIN, COLLINS AND SCHMID SAID A STABLE LABOR MARKET ALLOWS THE FED TO KEEP ITS FOCUS ON PERSISTENTLY HIGH INFLATION, WITH ALL THREE SUPPORTING THE SEPTEMBER RATE HIKE TO 3.75%-4%. THE OFFICIALS DECLINED TO SIGNAL FUTURE RATE…
-- 10/02 09:29 [FirstSquawk/financialjuice] SAUDI-LED COALITION: INTERCEPTS AND DESTROYS BALLISTIC MISSILE LAUNCHED BY YEMEN'S HOUTHIS TOWARD KHAMIS MUSHAIT
-- 10/02 09:29 [FirstSquawk] US TREASURY IMPOSED SANCTIONS ON RUSSIA’S A7 FINANCIAL NETWORK, ACCUSING IT OF USING SHELL COMPANIES, SUBAGENTS AND FALSIFIED TRADE RECORDS TO MOVE FUNDS FOR SANCTIONED ENTITIES LINKED TO IRAN AND THE IRGC. A7 CLAIMS TO HAVE PROCESSED $91.5…
-- 10/02 09:29 [FirstSquawk] Gold Climbs Back Above $4,150 as US Yields Pull Back Ahead of US Jobs Data - FX
-- 10/02 09:36 [FirstSquawk] DISNEY PLANS TO CUT HUNDREDS OF TELEVISION JOBS AS PART OF A RESTRUCTURING THAT WILL CONSOLIDATE OPERATIONS ACROSS ABC, ESPN AND FX. THE MOVES EXTEND CEO JOSH D’AMARO’S COST-CUTTING EFFORTS, WITH ABOUT 1,000 COMPANYWIDE JOBS ALREADY ELIMINA…
-- 10/02 09:42 [FirstSquawk] Japan 5-Year JGB Yield Slides 3 Bps to 2.350%
-- 10/02 09:44 [FirstSquawk] ANTHROPIC IS SET TO MEET POTENTIAL INSTITUTIONAL INVESTORS ON OCTOBER 14 AHEAD OF A POSSIBLE IPO, WITH FORMAL MARKETING POTENTIALLY STARTING AS EARLY AS THE WEEK OF NOVEMBER 9. INVESTORS ARE ESTIMATING A POTENTIAL $1.8 TRILLION-$2 TRILLION …
-- 10/02 09:47 [FirstSquawk] GOLD ROSE 0.5% TO $4,178.10 AN OUNCE AS US TREASURY YIELDS RETREATED FROM 2002-LEVEL HIGHS, WHILE HAVEN DEMAND INCREASED AMID CONCERNS OVER FRANCE’S FISCAL OUTLOOK. LOWER YIELDS AND COMMENTS FROM FED VICE CHAIR PHILIP JEFFERSON REDUCED EXPE…
-- 10/02 09:48 [financialjuice] South Korea finance minister: will closely watch markets, take pre-emptive measures if needed
-- 10/02 09:49 [FirstSquawk] ASIAN STOCKS FELL AS RENEWED U.S.-IRAN TENSIONS PUSHED OIL HIGHER AND REVIVED INFLATION CONCERNS, WITH MSCI'S ASIA-PACIFIC EQUITY GAUGE SLIPPING 0.4% AND JAPAN'S TOPIX DOWN 0.9%, AS BRENT CRUDE ROSE 0.2% AFTER A 4% JUMP THURSDAY LIFTED PRIC…
-- 10/02 09:49 [FirstSquawk] BOND MARKETS REMAINED IN FOCUS AFTER TREASURIES REBOUNDED FROM A GLOBAL SELLOFF, WITH THE 10-YEAR U.S. YIELD CLOSING AT 5.24% — DOWN FROM A 24-YEAR HIGH — AND TWO-YEAR YIELDS FALLING 10 BASIS POINTS TO 4.79%, SUPPORTED BY DOVISH COMMENTS FR…
-- 10/02 09:49 [FirstSquawk] MARKETS ARE NOW BALANCING HIGHER ENERGY PRICES AGAINST EXPECTATIONS FOR A MORE MEASURED FED TIGHTENING PATH, WITH THE YEN STRENGTHENING TO AROUND 157.90 PER DOLLAR AFTER TOKYO INFLATION ACCELERATED AND JAPAN'S 10-YEAR YIELD FALLING TO 3.05%…
 - 10/02 09:55 [financialjuice] Ukrainian drones hit industrial sites in Russia's Volgograd: governor
 - 10/02 10:00 [financialjuice] Taiwan overnight interbank rate starts at 0.805% (unchanged from previous session)
 - 10/02 10:16 [FirstSquawk] Gold Slips 1% to $4,138.04 per Ounce
@@ -546,3 +534,12 @@
 - 10/03 09:19 [FirstSquawk] TSMC affiliate VIS eyes new Singapore plant after first facility fills up instantly
 - 10/03 09:20 [FirstSquawk] 3.North Korea fires ballistic missile, South Korea says
 - 10/03 09:23 [FirstSquawk] Warplanes target Houthi gatherings east of Taiz, Yemeni Armed Forces say
+- 10/03 09:25 [FirstSquawk] Israeli airstrike on residential apartment in Gaza City kills at least 3: Al Arabiya
+- 10/03 09:26 [FirstSquawk] Ukraine to accelerate identification of fallen Ukrainians, Budanov says
+- 10/03 09:38 [FirstSquawk] 3.Palestinian media reports injuries after Israeli airstrike hits Gaza City apartment
+- 10/03 09:39 [FirstSquawk] 4.Saudi Civil Defense reports injury, mosque damage from Houthi missile fragments in Ahad Rafidah
+- 10/03 09:47 [FirstSquawk] Japan sharply raises residency fees, with stricter income and language rules looming
+- 10/03 09:48 [FirstSquawk] Light AI reassessing schedule for U.S. clinical and FDA regulatory activities
+- 10/03 09:48 [FirstSquawk] Trump signals imminent replenishment of U.S. strategic oil reserves
+- 10/03 09:49 [FirstSquawk] South Korean military says North Korean missile traveled over 700 kilometers
+- 10/03 09:50 [FirstSquawk] South Korea convenes National Security Council meeting following North Korean missile launch
