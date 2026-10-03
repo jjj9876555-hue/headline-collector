@@ -7,86 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-03 23:35 JST／対象: 10/02 23:35 〜 10/03 23:35 JST（時刻はすべて日本時間）
+生成: 2026-10-04 03:38 JST／対象: 10/03 03:38 〜 10/04 03:38 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 5 | 10/03 00:28 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
-| FirstSquawk | 233 | 10/02 23:41 | 10/03 23:24 | ⚠ 240分（05:02→09:03） |
-| financialjuice | 113 | 10/02 23:37 | 10/03 23:31 | ⚠ 165分（20:32→23:18） |
+| DeItaone | 6 | 10/03 05:00 | 10/04 00:14 | ⚠ 1126分（05:04→23:51） |
+| FirstSquawk | 259 | 10/03 03:54 | 10/04 03:36 | ⚠ 240分（05:02→09:03） |
+| financialjuice | 89 | 10/03 03:53 | 10/04 02:24 | ⚠ 165分（20:32→23:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 340 行（統合前 353 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 347 行（統合前 355 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 23:37 [financialjuice] Iran's General Naghdi: The enemy's economic siege will have no effect, and if it does not back down, it will receive a severe blow from the armed forces of the Islamic Republic of Iran - IRNA
-- 10/02 23:38 [financialjuice] Iran's General Naghdi: The enemy's economic siege will have no effect, and if it does not back down, it will receive a severe blow from IRGC - IRNA
-- 10/02 23:41 [FirstSquawk] GOLDMAN SACHS BENEFITS SIGNIFICANTLY FROM CLIENTS CANCELING EARLY SPACE X INVESTMENTS.
-- 10/02 23:41 [FirstSquawk] FRENCH-GERMAN 10-YEAR SPREAD FALLS TO 140 BASIS POINTS FROM 159 BASIS POINTS.
-- 10/02 23:51 [financialjuice] South Korea's Industry Ministry Official: $8.4 bln oil project mentioned by Trump not part of agreement with the US - Yonhap
-- 10/02 23:51 [financialjuice] South Korea's Industry Ministry Official: $8.4 bln oil project mentioned by Trump not part of agreement with US - Yonhap
-- 10/02 23:55 [financialjuice/FirstSquawk] TD sees Fed hikes in December and March, previously October and January
-- 10/02 23:58 [financialjuice] Fitch affirms Walmart's ratings at 'AA' and 'F1+'. Outlook stable. $WMT
-- 10/02 23:58 [FirstSquawk] S. KOREA SAYS TRUMP'S $8.4 BLN OIL PROJECT CLAIM NOT IN AGREED DEALS - YONHAP
-- 10/03 00:04 [FirstSquawk] DANISH CENTRAL BANK SAYS DID NOT INTERVENE IN FOREX MARKET IN SEPTEMBER
-- 10/03 00:15 [FirstSquawk] PENTAGON ISSUES MEMO TO CUT DELAYS IN COUNTER-DRONE SYSTEM USE
-- 10/03 00:15 [FirstSquawk] PFIZER'S LITFULO MEETS CO-PRIMARY ENDPOINTS IN VITILIGO
-- 10/03 00:20 [financialjuice] News sources reported that several powerful explosions were heard in Riyadh, the capital of Saudi Arabia - Tasnim News
-- 10/03 00:22 [FirstSquawk] SEVERAL LOUD EXPLOSIONS IN RIYADH, THE CAPITAL OF SAUDI ARABIA - TASNIM
-- 10/03 00:26 [FirstSquawk/DeItaone] SPOT GOLD FALLS NEARLY 1% TO $4,137.85/OZ
-- 10/03 00:31 [FirstSquawk] IRAQ SAYS IRANIAN AIRLINES ALLOWED 40 DAILY FLIGHTS TO NAJAF, EXCEPT MAHAN AIR
-- 10/03 00:37 [financialjuice] China trade envoy tells G20 willing to talk on industry policy.
-- 10/03 00:44 [FirstSquawk] CHINA CHIEF TRADE NEGOTIATOR LI CHENGGANG: TELLS G20 CHINA ARE WILLING TO TALK ON INDUSTRY POLICY
-- 10/03 00:44 [financialjuice/FirstSquawk] UKMTO: Tanker has reported being struck by an unknown projectile, whilst conducting an outbound transit within Strait of Hormuz
-- 10/03 00:45 [financialjuice] UKMTO: Incident resulted in a small fire and blackout onboard.
-- 10/03 00:56 [FirstSquawk] TANKER STRUCK BY UNKNOWN PROJECTILE IN STRAIT OF HORMUZ AT 11:22 UTC - UKMTO
-- 10/03 00:57 [FirstSquawk] GOOGLE CLOUD: ANNOUNCES GENERAL AVAILABILITY OF SPANNER QUEUES FOR TRANSACTIONAL MESSAGING IN AI AGENT WORKLOADS
-- 10/03 00:57 [financialjuice/FirstSquawk] IEA's Birol: Oil prices are starting to fall.
-- 10/03 00:58 [financialjuice] 2 unarmed Pakistani civilians killed in firing by Indian border security forces - Pakistani security sources
-- 10/03 01:06 [financialjuice] ❗ Saudis plan assault on Houthis to break Red Sea chokehold, according to western and regional officials
-- 10/03 01:07 [financialjuice] Google raises price of budget Pixel 10A phone by $100 to $599. $GOOGL
-- 10/03 01:11 [FirstSquawk] GOOGLE RAISES PRICE OF BUDGET PIXEL BY $100 TO $599
-- 10/03 01:20 [FirstSquawk] CARNEY WILL BE THE FIRST CANADIAN LEADER TO VISIT TURKEY FOR A DEDICATED BILATERAL MEETING.
-- 10/03 01:41 [FirstSquawk] IEA'S BIROL: OIL PRICES DROPPED AT LEAST $5 AFTER OUR ANNOUNCEMENT OF RELEASING OIL AND DIESEL FROM OUR RESERVES INTO MARKET IN COMING DAYS, WEEKS
-- 10/03 01:42 [FirstSquawk/financialjuice] IEA'S BIROL: WE WILL FINALISE DISTRIBUTION ONCE WE HAVE CONSULTED WITH MEMBER STATES, WE HAVE ENOUGH RESERVES AND CAN RELEASE MORE IF NECESSARY
-- 10/03 01:42 [financialjuice] IEA's Birol: Oil prices dropped at least $5 after our announcement of releasing oil and diesel from our reserves into the market in the coming days and weeks
-- 10/03 01:46 [financialjuice] Italy to ask EU for deficit leeway worth 0.6% of GDP in 2027
-- 10/03 01:47 [financialjuice] Italy raises 2026 GDP growth forecast to 0.8% from 0.6% forecast made in April
-- 10/03 01:48 [financialjuice] Italy sees 2026 deficit below 3% of GDP in 2026
-- 10/03 01:48 [FirstSquawk] BREXIT DEAL INCHES CLOSER AS EU GIVES GROUND TO UK ON FOOD AND DRINK – IPAPER
-- 10/03 01:52 [financialjuice] Italy raises 2026 GDP growth forecast to 1% from 0.6% forecast made in April
-- 10/03 01:55 [financialjuice] US Senators expect a vote before December 13th on Trump Administration's pact to share nuclear power technology with Saudi Arabia
-- 10/03 01:56 [FirstSquawk] US SENATORS EXPECT A VOTE BEFORE DECEMBER 13 ON TRUMP ADMINISTRATION'S PACT TO SHARE NUCLEAR POWER TECHNOLOGY WITH SAUDI ARABIA
-- 10/03 01:56 [FirstSquawk] ITALY ECONOMY MINISTER CALLS CLARITY ON RUMOURS ABOUT EARLY RESIGNATION OF ECB'S LAGARDE
-- 10/03 01:59 [FirstSquawk] RAW SUGAR FUTURES HIT 18-MONTH HIGH
-- 10/03 02:01 [financialjuice] US BAKER HUGHES OIL RIG COUNT ACTUAL 456 (FORECAST -, PREVIOUS 455) $MACRO
-- 10/03 02:01 [financialjuice] US BAKER HUGHES TOTAL RIG COUNT ACTUAL 598 (FORECAST -, PREVIOUS 599) $MACRO
-- 10/03 02:01 [FirstSquawk] US OIL RIG COUNT UP 1 TO 456 , BAKER HUGHES SAYS
-- 10/03 02:01 [FirstSquawk] US TOTAL RIG COUNT 598 , BAKER HUGHES SAYS
-- 10/03 02:03 [financialjuice] Fed's Goolsbee: labor market is steady, the inflation side of the fed's job is more important - Fox Business
-- 10/03 02:03 [financialjuice] Fed's Goolsbee: Plenty of room for anything on the table as far as rate hike or pause
-- 10/03 02:04 [financialjuice] Fed's Goolsbee: Open to seeing if we get evidence we are heading back to 2% inflation
-- 10/03 02:05 [financialjuice] Fed's Goolsbee: Won't react strongly to one month of data.
-- 10/03 02:07 [financialjuice] Fed's Goolsbee: Won't rule out any decision at the next rate meeting
-- 10/03 02:19 [FirstSquawk] US PREPARES FOR POSSIBLE RENEWED FIGHTING - N12 CITING US OFFICIAL
-- 10/03 02:29 [financialjuice] ❗ Trump allegedly involved in a coup plot in iran - Fars News
-- 10/03 02:31 [financialjuice] Meta lets go of virtue ai employees hired in June - Semafor $META
-- 10/03 02:33 [DeItaone] META PARTS WAYS WITH VIRTUE AI - SEMAFOR
-- 10/03 02:35 [FirstSquawk] META PARTS WAYS WITH AI SAFETY STARTUP VIRTUE AI HIRES - SEMAFOR
-- 10/03 02:50 [FirstSquawk] SAUDI-LED COALITION SAYS IT INTERCEPTED AND DESTROYED THREE BALLISTIC MISSILES LAUNCHED BY HOUTHIS TOWARD KHAMIS MUSHAIT
-- 10/03 03:00 [financialjuice/FirstSquawk] Joint US-Ukraine investment fund seals first critical minerals deal - US official
-- 10/03 03:31 [financialjuice] NYMEX WTI Crude November futures settle at $91.11 a barrel, down $1.76, 1.9%.
-- 10/03 03:31 [FirstSquawk] U.S. CRUDE OIL FUTURES SETTLE AT $91.11/BBL, DOWN $1.76, 1.90 PCT
-- 10/03 03:31 [financialjuice] NYMEX Gasoline November futures settle at $3.3124 a gallon.
-- 10/03 03:31 [financialjuice] NYMEX Diesel November futures settle at $4.5011 a gallon.
-- 10/03 03:32 [financialjuice] NYMEX Natural Gas November futures settle at $3.0350/MMBtu.
-- 10/03 03:36 [FirstSquawk] RODRIGUEZ:VENEZUELA MAKES PROGRESS ON PUBLIC, PRIVATE FINANCING
-- 10/03 03:38 [FirstSquawk] FAA DETERMINES 737 MAX SOFTWARE GLITCH DOESN’T POSE SAFETY ISSUE - WSJ
 - 10/03 03:53 [financialjuice] Brent Crude futures settle at $102.25/bbl, down 6 cents, 0.06%.
 - 10/03 03:54 [FirstSquawk] BRENT CRUDE FUTURES SETTLE AT $102.25/BBL, DOWN 6 CENTS, 0.06 PCT
 - 10/03 03:56 [FirstSquawk] DOJ WILL NOT RESUME CRIMINAL INVESTIGATION INTO POWELL, SAYS BLANCHE.
@@ -364,3 +301,73 @@
 - 10/03 23:24 [FirstSquawk] Israeli occupation army patrol has entered the Quneitra countryside towards the town of Kodna and set up a checkpoint.
 - 10/03 23:24 [FirstSquawk] Clashes between Palestinians and settlers in the village of Al-Mughayyir in Ramallah, West Bank
 - 10/03 23:31 [financialjuice] Russia hits cargo vessel in Ukraine's Odesa port: Ifax
+- 10/03 23:39 [FirstSquawk] Interfax: Russian forces targeted a cargo ship in the port of Odessa, Ukraine
+- 10/03 23:40 [FirstSquawk] Lebanese News Agency: The Israeli army carried out a large bombing in the town of Aitaroun and a similar bombing in the town of Tallousa in southern Lebanon.
+- 10/03 23:41 [FirstSquawk] Lebanese Foreign Minister discusses developments in Lebanon and the region with the US Deputy National Security Advisor at the White House.
+- 10/03 23:41 [FirstSquawk] Lebanese Foreign Minister and the US Deputy National Security Advisor discussed the framework agreement and matters related to its implementation, including Israel's withdrawal from the south and the state's monopoly on weapons.
+- 10/03 23:51 [FirstSquawk] UKRAINE’S STEEL OUTPUT COULD FALL TO ZERO IN 2027 IF DAMAGED MILLS REMAIN OFFLINE, WITH PRODUCTION FORECAST TO DROP 39% IN 2026 TO ABOUT 4.3 MILLION TONS AFTER RUSSIAN STRIKES IDLED AROUND 90% OF STEELMAKING CAPACITY.
+- 10/03 23:51 [FirstSquawk] METALLURGICAL EXPORT REVENUES COULD FALL BY $2.5 BILLION IN BOTH 2026 AND 2027, WHILE REPLACING LOST DOMESTIC STEEL WITH IMPORTS MAY COST ANOTHER $1.5 BILLION IN 2027, BRINGING THE POTENTIAL TRADE-BALANCE HIT TO $6.5 BILLION VERSUS 2025.
+- 10/03 23:51 [DeItaone] TRUMP PROMISES $5,000 PAYMENTS IF GOP WINS MIDTERMS President Trump says he would give every adult U.S. citizen $5,000 if Republicans win both the House and Senate in the 2026 midterm elections. Trump said he looks forward to “signing those…
+- 10/03 23:53 [DeItaone] U.S.-RUSSIA UKRAINE TALKS EXPAND TO MULTIBILLION-DOLLAR OIL DEAL Trump administration talks with Russia over ending the Ukraine war have expanded to include a potential multibillion-dollar deal involving Lukoil’s global oil assets, Reuters …
+- 10/03 23:53 [FirstSquawk] Israeli drone strike on the Al-Safatawi area, north of Gaza City
+- 10/04 00:13 [FirstSquawk] KEY SHINYHUNTERS MEMBER DETAINED IN JORDAN, COOPERATING WITH LAW ENFORCEMENT — SOURCES
+- 10/04 00:14 [DeItaone] KEY MEMBER OF SHINYHUNTERS HACKING SQUAD THAT BROKE INTO THE FBI HAS BEEN DETAINED IN JORDAN, SOURCES SAY
+- 10/04 00:36 [financialjuice] Ukrainian shelling damages external power supply equipment at Zaporizhzhia nuclear power plant: station management says situation under control
+- 10/04 00:38 [FirstSquawk] FLYDUBAI CO-PILOT USED THE AIRCRAFT’S EMERGENCY CRASH AX TO ATTACK THE CAPTAIN AND ATTEMPT TO TAKE CONTROL OF THE BOEING 737 MAX 8, UAE AUTHORITIES SAID. THE AX IS A REQUIRED EMERGENCY TOOL ON MANY AIRCRAFT AND IS STORED IN THE COCKPIT.
+- 10/04 00:38 [FirstSquawk] THE INCIDENT IS EXPECTED TO RAISE FURTHER SECURITY QUESTIONS OVER INTERNAL THREATS, AS COCKPIT AXES ARE READILY ACCESSIBLE TO PILOTS DESPITE STRICT SCREENING MEASURES FOR OTHER WEAPONS.
+- 10/04 00:48 [FirstSquawk] US Secretary of Defense: The amount of oil passing through the Strait of Hormuz today exceeds what it was before the outbreak of the conflict.
+- 10/04 00:48 [FirstSquawk] New York Times, citing officials: Military leaders had received warnings of an Iranian- backed attack on RAF Fairford in Britain
+- 10/04 00:49 [FirstSquawk] New York Times, citing officials: The plot to attack Camp Fairford was uncovered after intercepted communications and other intelligence
+- 10/04 00:49 [FirstSquawk] New York Times, citing a US official: Israel warned Germany of risks to US bases, specifically Spangdalm and Ramstein bases.
+- 10/04 00:49 [FirstSquawk] New York Times, citing officials: US military leaders received a warning of an Iranian attack on RAF Fairford in Britain
+- 10/04 00:49 [FirstSquawk] TRUMP SAYS ARKANSAS SENATOR TOM COTTON, 'A FRIEND OF MINE', IS 'HOLDING UP A VERY IMPORTANT BILL' CALLED THE 'SUNSHINE PROTECTION ACT', WHICH WOULD END CHANGING CLOCKS TWICE A YEAR, SAYING IT 'SHOULD PASS OVERWHELMINGLY, IN A BIPARTISAN FAS…
+- 10/04 00:49 [FirstSquawk] TRUMP SAYS 'HAVING SUNSHINE IN THE AFTERNOON IS BETTER THAN EARLY IN THE MORNING', CITING THE PGA TOUR, GOLFERS, TENNIS PLAYERS, HUNTERS AND FARMERS WHO WANT MORE DAYLIGHT, AND POINTING TO A LETTER FROM PGA TOUR CEO BRIAN ROLAPP, SAYING '65…
+- 10/04 00:49 [FirstSquawk] TRUMP SAYS ALMOST EVERYBODY WANTS THE ACT TO PASS 'EXCEPT FOR TOM COTTON', CALLING IT A POTENTIAL 'GREAT BIPARTISAN WIN', NOTING IT PASSED THE HOUSE BY A VOTE OF 308 TO 117 AND DEMANDING THE SENATE 'VOTE, NOW'. - TRUTH SOCIAL
+- 10/04 00:50 [FirstSquawk] New York Times, citing US officials: The plot to attack Camp Fairford was uncovered after intercepted communications and other information
+- 10/04 00:50 [FirstSquawk] U.S. DEFENSE SECRETARY PETE HEGSETH, USING HIS REPETITIVE 'SEND ME' REFRAIN, SAYS 'SEND ME TO FIGHT THE REDCOATS. SEND ME TO FIGHT THE COMMUNISTS. SEND ME TO FIGHT THE NAZIS. SEND ME TO FIGHT THE ISLAMISTS'.
+- 10/04 00:50 [FirstSquawk] U.S. DEFENSE SECRETARY PETE HEGSETH SAYS ON IRAN THAT 'MORE OIL IS GOING THROUGH THE STRAIT OF HORMUZ TODAY THAN BEFORE THE CONFLICT EVEN STARTED, BECAUSE INCREDIBLE PILOTS CONTROL THE AIRSPACE', AND THAT WHILE THERE WAS 'A LOT OF INTENTION…
+- 10/04 00:50 [FirstSquawk] U.S. DEFENSE SECRETARY PETE HEGSETH SAYS 'WE JUST LAUNCHED THE OFFICE OF RELIGIOUS AFFAIRS' AND WILL 'ELEVATE THE CHAPLAIN CORPS', ADDING THAT HE BELIEVES 'SPIRITUAL FITNESS IS JUST AS IMPORTANT AS PHYSICAL FITNESS'.
+- 10/04 00:50 [FirstSquawk] Zaporizhzhia Nuclear Power Plant Management: Ukrainian Shelling Damages External Power Supply Equipment and the Situation Is Under Control
+- 10/04 00:51 [FirstSquawk] UKRAINE'S ZELENSKY SAYS THAT 'OVER THE PAST 24 HOURS, OUR LONG-RANGE CAPABILITIES EFFECTIVELY STRUCK TARGETS SERVING THE AGGRESSOR'S WAR MACHINE'.
+- 10/04 00:51 [FirstSquawk] UKRAINE'S ZELENSKY SAYS 'OUR SANCTIONS REACHED THE SAMARA REGION, AS WELL AS THE POSITIONS OF OCCUPIERS OPERATING ISKANDER MISSILE SYSTEMS IN THE BRYANSK REGION', ADDING THAT THERE ARE 'NEW RESULTS IN THE BLACK SEA'.
+- 10/04 00:55 [FirstSquawk] RUSSIAN ATTACKS ACROSS UKRAINE KILLED AT LEAST SIX PEOPLE AND DAMAGED KYIV’S NORTHERN BRIDGE, FORCING A TRAFFIC SUSPENSION; MOSCOW SAID IT WOULD CONTINUE “MASS RETALIATORY STRIKES” ON KYIV AND OTHER UKRAINIAN CITIES.
+- 10/04 00:55 [FirstSquawk] MOLDOVAN PRESIDENT MAIA SANDU SAID THE WAR IS “DANGEROUSLY REACHING” MOLDOVA AFTER FIVE RUSSIAN AIR ATTACK WEAPONS REPORTEDLY VIOLATED ITS AIRSPACE, WHILE FRESH STRIKES IN KHARKIV AND ODESA ALSO CAUSED DEATHS AND INJURIES.
+- 10/04 01:00 [financialjuice] President Zelenskiy: Ukraine will respond to intensified Russian strikes, targeting oil refineries
+- 10/04 01:00 [financialjuice] Zelenskiy: Russia's strikes on Ukrainian cities occur as Moscow fails to meet battlefield objectives
+- 10/04 01:00 [financialjuice] Zelenskiy: Russia's hybrid attacks on Europe aim to split, cut backing for Ukraine
+- 10/04 01:00 [financialjuice] Zelenskiy: Ukraine heavily depends on aviation to shoot down jet-powered Russian drones, requires 20 mm ammunition
+- 10/04 01:00 [financialjuice] Zelenskiy: Ukraine will not strike civilian Russian targets, source says in interview
+- 10/04 01:00 [financialjuice] Zelenskiy: Ukraine stabilised situation on eastern Donetsk front, operation Vivaldi successful and ongoing
+- 10/04 01:00 [financialjuice] Zelenskiy says Ukraine’s domestically made FP-9 ballistic missile expected by autumn
+- 10/04 01:01 [FirstSquawk] UKRAINE'S ZELENSKIY SAYS THAT UKRAINE WILL NOT ATTACK CIVILIAN RUSSIAN TARGETS, BUT WILL RESPOND TO INTENSIFIED RUSSIAN STRIKES BY TARGETING OIL REFINERIES, SAYING RUSSIA'S STRIKES ON UKRAINIAN CITIES COME AT A TIME WHEN MOSCOW CANNOT ACHIE…
+- 10/04 01:02 [FirstSquawk] UKRAINE'S ZELENSKIY SAYS UKRAINE HEAVILY RELIES ON ITS AVIATION TO DOWN JET-POWERED RUSSIAN DRONES AND NEEDS 20MM AMMUNITION, ADDING THAT HE EXPECTS UKRAINE'S DOMESTICALLY PRODUCED FP-9 BALLISTIC MISSILE TO BE READY IN AUTUMN.
+- 10/04 01:02 [FirstSquawk] UKRAINE'S ZELENSKIY SAYS UKRAINE HAS STABILISED THE SITUATION ON THE EASTERN DONETSK FRONT, WITH OPERATION 'VIVALDI' SUCCESSFUL AND STILL UNDERWAY, AND THAT RUSSIA'S HYBRID ATTACKS ON EUROPE AIM TO DIVIDE AND REDUCE SUPPORT FOR UKRAINE.
+- 10/04 01:04 [FirstSquawk] IRAN FACES SEVERE ECONOMIC PRESSURE, WITH INFLATION NEARING 90% AND THE RIAL DOWN ABOUT 25% AGAINST THE DOLLAR IN TWO MONTHS, WHILE BLOOMBERG ESTIMATES NO CRUDE WAS SHIPPED BY TANKER IN SEPTEMBER.
+- 10/04 01:04 [FirstSquawk] US MILITARY PRESENCE IS EXPANDING WITH THE USS THEODORE ROOSEVELT AND ABOUT 10,000 ADDITIONAL SAILORS AND MARINES HEADING TO THE REGION, AS DIPLOMATIC EFFORTS REMAIN STALLED AND OIL FLOWS THROUGH THE STRAIT OF HORMUZ RECOVER TOWARD PREWAR L…
+- 10/04 01:32 [financialjuice/FirstSquawk] India govt: ministry of external affairs summons charge d'affaires of Pakistan high commission
+- 10/04 01:33 [financialjuice/FirstSquawk] India government: India denies accusations about incident in Ferozepur sector, Punjab, along international border on 2 October 2026
+- 10/04 01:41 [FirstSquawk] AFP: Ethiopian federal forces enter the capital of the Tigray region
+- 10/04 02:01 [FirstSquawk] Lebanese News Agency: Israeli airstrikes in two waves targeted the town of Kfar Tebnit in southern Lebanon
+- 10/04 02:02 [FirstSquawk] Lebanese News Agency: Israeli shelling targets the towns of Mansouri and Majdal Zoun in southern Lebanon
+- 10/04 02:02 [FirstSquawk] Lebanese News Agency: Heavy and concentrated Israeli shelling on the outskirts of the towns of Mayfadoun and Zawtar al-Sharqiyah in southern Lebanon
+- 10/04 02:02 [FirstSquawk] Lebanese News Agency: Israeli bombing in the town of Houla, southern Lebanon
+- 10/04 02:02 [FirstSquawk] Lebanese News Agency: Israeli shelling of the town of Khiam in southern Lebanon
+- 10/04 02:03 [FirstSquawk] The Telegraph quotes the British Defense Secretary: The Iranian regime has hostile intentions and poses a threat to our country and our allies.
+- 10/04 02:03 [FirstSquawk] The Telegraph, quoting the UK Defence Secretary: We will consider the appropriate response after reaching definitive conclusions regarding RAF Fairford.
+- 10/04 02:03 [FirstSquawk] The Telegraph, quoting the UK Defence Secretary: The investigation into RAF Fairford is continuing, pursuing several leads, and this is a very serious matter.
+- 10/04 02:04 [FirstSquawk] Jerusalem Governorate: Occupation forces storm the town of Anata, northeast of Jerusalem, and close its entrances in both directions.
+- 10/04 02:04 [FirstSquawk] Iranian Presidency: The Secretary of the National Security Council confirmed at a meeting of the Economic Coordination Committee that the current situation is the most difficult.
+- 10/04 02:04 [FirstSquawk] Iranian Presidency: The Secretary of Iran's Supreme National Security Council stressed that the course of negotiations is serious.
+- 10/04 02:04 [FirstSquawk] Israeli airstrike on the town of Mansouri in southern Lebanon
+- 10/04 02:24 [financialjuice] Flights between Iran and Iraq's Najaf to restart on Sunday: Iraqi state news agency
+- 10/04 02:33 [FirstSquawk] Head of Iran's Civil Aviation Authority: Flights to Iraq will resume starting tomorrow via Iranian and Iraqi airlines.
+- 10/04 02:33 [FirstSquawk] German Army Ground Forces Commander to Al Jazeera: Russia is launching hybrid attacks on Europe and the threats must be countered with armed forces
+- 10/04 02:33 [FirstSquawk] German Army Ground Forces Commander: Russia is launching hybrid attacks on Europe and the threats must be countered with armed forces
+- 10/04 02:34 [FirstSquawk] German Army Ground Forces Commander: Europe must confront the Russian threat with forces capable of successfully fighting battles
+- 10/04 02:34 [FirstSquawk] Commander of the German Army Ground Forces: Moscow is working to expand its military capabilities, and we are witnessing this in a tangible way.
+- 10/04 02:34 [FirstSquawk] Tasnim News Agency: Iranian air defenses shot down an enemy drone over Qeshm Island in southern Iran.
+- 10/04 03:21 [FirstSquawk] Temu’s UK sales more than double to $171mn - ft
+- 10/04 03:22 [FirstSquawk] China launches anti-dumping probe into European chemical exports - ft
+- 10/04 03:23 [FirstSquawk] Airbnb unlikely to let AI agents like Muse make bookings, CEO says - Nikkei
+- 10/04 03:23 [FirstSquawk] Iraqi Prime Minister: Today we are a state that makes its own decisions, protects its land and airspace, and where weapons are under the command of the Commander of the Armed Forces.
+- 10/04 03:36 [FirstSquawk] Sirens sound in the Ukrainian capital, warning of a drone attack
