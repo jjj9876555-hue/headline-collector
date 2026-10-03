@@ -7,31 +7,24 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-03 15:33 JST／対象: 10/02 15:33 〜 10/03 15:33 JST（時刻はすべて日本時間）
+生成: 2026-10-03 16:04 JST／対象: 10/02 16:04 〜 10/03 16:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 63 | 10/02 17:55 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
-| FirstSquawk | 252 | 10/02 15:40 | 10/03 15:28 | ⚠ 240分（05:02→09:03） |
-| financialjuice | 222 | 10/02 16:01 | 10/03 15:28 | ⚠ 119分（13:18→15:17） |
+| FirstSquawk | 251 | 10/02 16:08 | 10/03 16:00 | ⚠ 240分（05:02→09:03） |
+| financialjuice | 221 | 10/02 16:30 | 10/03 16:00 | ⚠ 119分（13:18→15:17） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 521 行（統合前 539 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 520 行（統合前 537 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 15:40 [FirstSquawk] VOLVO CAR Q3 GLOBAL SALES FALL 10.7% Y/Y TO 141,609 VEHICLES
-- 10/02 15:40 [FirstSquawk] VOLVO CAR SAYS EUROPEAN PERFORMANCE REMAINED RESILIENT
-- 10/02 15:57 [FirstSquawk] GOLD HOLDS BELOW $4,200 AS TRADERS AWAIT U.S. JOBS DATA FOR FED RATE-CUT CLUES - FX
-- 10/02 16:01 [FirstSquawk] SPAIN UNEMPLOYMENT CHANGE SEP: 23.6K (PREV 44.4K)
-- 10/02 16:01 [FirstSquawk] SPAIN EMPLOYMENT NET CHANGE (M/M): 108.8K (PREV 83.8K)
-- 10/02 16:01 [financialjuice] Currency Strength Chart: Strongest: CHF, JPY, NZD, EUR, GBP, AUD, CAD, USD - Weakest
-- 10/02 16:03 [financialjuice/FirstSquawk] EU Commissioner Jorgensen: We are discussing with all members of the IEA, not only with the US, when it is time to release diesel
-- 10/02 16:04 [FirstSquawk] BRITAIN'S FTSE 100 UP 0.18% || FRANCE'S CAC 40 UP 0.13% || SPAIN'S IBEX UP 0.23% || GERMANY'S DAX UP 0.2%
+- 10/02 16:08 [FirstSquawk] EU COMMISSIONER JORGENSEN: WE ARE DISCUSSING WITH ALL MEMBERS OF THE IEA, NOT ONLY WITH THE US, WHEN IT IS TIME TO RELEASE DIESEL
 - 10/02 16:24 [FirstSquawk] RUSSIA'S A7 HAS NEVER CARRIED OUT TRANSACTIONS BENEFITING IRAN, ACCORDING TO TASS.
 - 10/02 16:25 [FirstSquawk] JP MORGAN LOWERS NIKE'S TARGET PRICE FROM $40 TO $33.
 - 10/02 16:25 [FirstSquawk] ENI ANNOUNCED A 20% PRICE CUT ON DIESEL AND GASOLINE FOR AGRICULTURAL AND FISHING SECTORS STARTING TODAY UNTIL THE END OF OCTOBER, WITH POTENTIAL EXTENSION THROUGH YEAR-END.
@@ -545,3 +538,9 @@
 - 10/03 15:28 [FirstSquawk] Open-weight AI models are more vulnerable to manipulation and can lack oversight.
 - 10/03 15:28 [FirstSquawk] Boeing Dodges Strike That Could Have Hit 737 MAX 10, 777X Certification — Engineers' Union Approves New Deal.
 - 10/03 15:28 [financialjuice] Co-pilot in Flydubai incident is Hammam al-Hammami, Omani national: source with direct knowledge
+- 10/03 15:57 [FirstSquawk] German Economy Might Grow 1% This Year, Bundesbank Chief Says
+- 10/03 15:58 [FirstSquawk] EU Officials Spooked by Euro-Area Borrowing Plans as Yields Jump
+- 10/03 15:58 [FirstSquawk] Japanese listed fashion brand Human Made steps up global expansion
+- 10/03 16:00 [FirstSquawk] UAE says the co-pilot on a FlyDubai flight that nearly crashed with 182 people on board attacked the captain with the cockpit’s crash axe in a “terrorist attack.”
+- 10/03 16:00 [financialjuice] Vilnius airport shut, NATO air police jets deployed over possible drone from Belarus: Lithuania's national crisis control centre
+- 10/03 16:00 [FirstSquawk] China’s securities regulator is raising the bar for public listings of humanoid robot startups, according to three sources familiar with the CSRC’s thinking. It’s a sign of how one of the hottest sectors of the market is cooling, as investo…

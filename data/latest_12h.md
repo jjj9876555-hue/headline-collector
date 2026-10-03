@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-03 15:33 JST／対象: 10/03 03:33 〜 10/03 15:33 JST（時刻はすべて日本時間）
+生成: 2026-10-03 16:04 JST／対象: 10/03 04:04 〜 10/03 16:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 10/03 05:00 | 10/03 05:04 | 4分（05:00→05:04） |
-| FirstSquawk | 126 | 10/03 03:36 | 10/03 15:28 | ⚠ 240分（05:02→09:03） |
-| financialjuice | 65 | 10/03 03:53 | 10/03 15:28 | ⚠ 119分（13:18→15:17） |
+| FirstSquawk | 124 | 10/03 04:06 | 10/03 16:00 | ⚠ 240分（05:02→09:03） |
+| financialjuice | 62 | 10/03 04:07 | 10/03 16:00 | ⚠ 119分（13:18→15:17） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 191 行（統合前 195 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 186 行（統合前 190 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/03 03:36 [FirstSquawk] RODRIGUEZ:VENEZUELA MAKES PROGRESS ON PUBLIC, PRIVATE FINANCING
-- 10/03 03:38 [FirstSquawk] FAA DETERMINES 737 MAX SOFTWARE GLITCH DOESN’T POSE SAFETY ISSUE - WSJ
-- 10/03 03:53 [financialjuice] Brent Crude futures settle at $102.25/bbl, down 6 cents, 0.06%.
-- 10/03 03:54 [FirstSquawk] BRENT CRUDE FUTURES SETTLE AT $102.25/BBL, DOWN 6 CENTS, 0.06 PCT
-- 10/03 03:56 [FirstSquawk] DOJ WILL NOT RESUME CRIMINAL INVESTIGATION INTO POWELL, SAYS BLANCHE.
-- 10/03 03:57 [financialjuice] Attorney General Blanche: The DoJ is satisfied with the Fed IG report, and is not reopening the criminal probe into Powell.
-- 10/03 04:02 [financialjuice] Hackers breached the propulsion system of US-bound oil tanker
-- 10/03 04:04 [FirstSquawk] PETROBRAS CEO: FOZ DO AMAZONAS OIL SOME OF BEST IN BRAZIL
-- 10/03 04:04 [FirstSquawk] OPENAI HIRES TOP TRUMP AI OFFICIAL TO WORK ON NATIONAL SECURITY – THE INFORMATION
-- 10/03 04:04 [FirstSquawk] HACKERS INVADED THE PROPULSION SYSTEM OF AN OIL TANKER HEADING TO THE U.S.
-- 10/03 04:04 [financialjuice] OpenAI hires ex Trump AI official Lind - The Information
 - 10/03 04:06 [FirstSquawk] MORE REGULATORY PROPOSALS FOR CRYPTO ON THE HORIZON: SEC ATKINS
 - 10/03 04:06 [FirstSquawk] FED'S GOOLSBEE SAYS INFLATION GOING WRONG WAY AND STALLED THERE
 - 10/03 04:07 [financialjuice] Fed's Goolsbee: Inflation going the wrong way and stalled there - Fox Business
@@ -215,3 +204,9 @@
 - 10/03 15:28 [FirstSquawk] Open-weight AI models are more vulnerable to manipulation and can lack oversight.
 - 10/03 15:28 [FirstSquawk] Boeing Dodges Strike That Could Have Hit 737 MAX 10, 777X Certification — Engineers' Union Approves New Deal.
 - 10/03 15:28 [financialjuice] Co-pilot in Flydubai incident is Hammam al-Hammami, Omani national: source with direct knowledge
+- 10/03 15:57 [FirstSquawk] German Economy Might Grow 1% This Year, Bundesbank Chief Says
+- 10/03 15:58 [FirstSquawk] EU Officials Spooked by Euro-Area Borrowing Plans as Yields Jump
+- 10/03 15:58 [FirstSquawk] Japanese listed fashion brand Human Made steps up global expansion
+- 10/03 16:00 [FirstSquawk] UAE says the co-pilot on a FlyDubai flight that nearly crashed with 182 people on board attacked the captain with the cockpit’s crash axe in a “terrorist attack.”
+- 10/03 16:00 [financialjuice] Vilnius airport shut, NATO air police jets deployed over possible drone from Belarus: Lithuania's national crisis control centre
+- 10/03 16:00 [FirstSquawk] China’s securities regulator is raising the bar for public listings of humanoid robot startups, according to three sources familiar with the CSRC’s thinking. It’s a sign of how one of the hottest sectors of the market is cooling, as investo…
