@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-03 19:05 JST／対象: 10/03 13:05 〜 10/03 19:05 JST（時刻はすべて日本時間）
+生成: 2026-10-03 19:25 JST／対象: 10/03 13:25 〜 10/03 19:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 59 | 10/03 13:06 | 10/03 18:48 | ⚠ 66分（17:40→18:47） |
-| financialjuice | 10 | 10/03 13:06 | 10/03 18:37 | ⚠ 119分（13:18→15:17） |
+| FirstSquawk | 57 | 10/03 13:27 | 10/03 19:13 | ⚠ 66分（17:40→18:47） |
+| financialjuice | 10 | 10/03 15:17 | 10/03 19:07 | ⚠ 54分（16:46→17:41） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 69 行（統合前 69 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 67 行（統合前 67 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/03 13:06 [FirstSquawk] China imposes stricter presale, funding rules as property market remains weak
-- 10/03 13:06 [financialjuice] Volodymyr Zelenskyy asked Donald Trump to block Russia and China's Starlink competitor: FT
-- 10/03 13:07 [FirstSquawk] Zelenskyy asks Trump to block Russia, China satellite internet rival - FT
-- 10/03 13:14 [FirstSquawk] Wealth bosses caution CGT increase could hit equity investment - FT
-- 10/03 13:17 [FirstSquawk] SJP restructures loan scheme amid efforts to reduce customer disruption - FT
-- 10/03 13:18 [financialjuice] Taiwan foreign minister to visit Arizona to strengthen economic relations
-- 10/03 13:18 [FirstSquawk] Taiwan minister to visit Arizona as Taipei seeks stronger economic ties
-- 10/03 13:24 [FirstSquawk] AI misconduct accusations prompt students to seek legal advice - FT
 - 10/03 13:27 [FirstSquawk] Europe’s booming hostel market draws growing private capital - FT
 - 10/03 13:28 [FirstSquawk] Chinese-origin autos surpass Western competitors in quality, tech, Argentina importer says
 - 10/03 13:36 [FirstSquawk] Komeito elects new leader after merger talks with LDP collapse - Kyodo
@@ -93,3 +85,9 @@
 - 10/03 18:48 [FirstSquawk] Sudanese government source told Al Jazeera: Rapid Support Forces marches targeted the home of the governor of Blue Nile State in Damazin, but the governor was unharmed.
 - 10/03 18:48 [FirstSquawk] Yemeni government forces: We repelled Houthi militia attacks on Jabal Han, Hadhran, and the western fronts of the city of Taiz
 - 10/03 18:48 [FirstSquawk] Israeli Broadcasting Authority, quoting a security official: The Israeli army targeted Hamas leader Ali al-Amoudi in Gaza with an airstrike last night.
+- 10/03 19:07 [financialjuice] North Korea reports completion of strategic weapons launch exercise - KCNA
+- 10/03 19:07 [financialjuice] North Korea's Kim Yo Jong: Intermediate-range strategic missile employed in drill - KCNA
+- 10/03 19:12 [FirstSquawk] Pakistan's Foreign Ministry: Indian chargé d'affaires summoned following the killing of two Pakistani civilians by Indian security forces at the border
+- 10/03 19:13 [FirstSquawk] Yemeni sources in Sana'a: Airstrikes target Al-Nahdain and Jabal Attan
+- 10/03 19:13 [FirstSquawk] Yemeni sources in Sana'a: 6 airstrikes so far and heavy aerial activity.
+- 10/03 19:13 [FirstSquawk] Yemeni sources: Warplanes target militia gatherings at the eastern entrance to Taiz city

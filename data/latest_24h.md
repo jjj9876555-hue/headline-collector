@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-03 19:05 JST／対象: 10/02 19:05 〜 10/03 19:05 JST（時刻はすべて日本時間）
+生成: 2026-10-03 19:25 JST／対象: 10/02 19:25 〜 10/03 19:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 50 | 10/02 19:20 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
-| FirstSquawk | 243 | 10/02 19:09 | 10/03 18:48 | ⚠ 240分（05:02→09:03） |
-| financialjuice | 188 | 10/02 19:16 | 10/03 18:37 | ⚠ 119分（13:18→15:17） |
+| DeItaone | 45 | 10/02 19:26 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
+| FirstSquawk | 245 | 10/02 19:31 | 10/03 19:13 | ⚠ 240分（05:02→09:03） |
+| financialjuice | 186 | 10/02 19:25 | 10/03 19:07 | ⚠ 119分（13:18→15:17） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 466 行（統合前 483 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 463 行（統合前 478 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 19:09 [FirstSquawk] UKRAINE'S PM KORETSKYI ANNOUNCED A RECEIPT OF €2.9 BILLION FROM THE EU.
-- 10/02 19:12 [FirstSquawk] FRANCE'S BOND RISK PREMIUM INCREASES TO 150 BPS, A FIRST SINCE 2012.
-- 10/02 19:16 [financialjuice] UK diesel average prices rise above £2/litre for the first time - RAC
-- 10/02 19:20 [DeItaone] GERMAN GOVERNMENT SPOKESPERSON: WE CONTINUE TO SEE U.S. AS RELIABLE SUPPLIER OF FUEL
-- 10/02 19:21 [DeItaone/financialjuice] EU SPOKESPERSON: WE FULLY REJECT ANY BAN ON DIESEL
-- 10/02 19:22 [DeItaone] FRENCH-GERMAN 10-YEAR GOVERNMENT BOND-YIELD SPREAD HITS 151.95, WIDEST SINCE NOV. 2011: LSEG DATA
-- 10/02 19:22 [financialjuice] German Government Spokesperson: We continue to see the US as a reliable supplier of fuel
-- 10/02 19:22 [DeItaone/financialjuice] EU SPOKESPERSON: A BAN WOULD NOT BE BENEFICIAL TO ANYONE. IT WOULD UNDERMINE OUR TRUST IN THE UNITED STATES AS A RELIABLE PARTNER
-- 10/02 19:24 [DeItaone] FRANCE FLOATS 100 MILLION-BARREL ENERGY RESERVE RELEASE France has proposed that EU countries release 50 million barrels of crude and 50 million barrels of diesel as Europe responds to U.S. pressure to boost fuel supplies. The proposal rema…
 - 10/02 19:25 [financialjuice] EU Spokesperson: Any release is something that is organized by the International Energy Agency
 - 10/02 19:26 [financialjuice] EU Spokesperson: Next oil coordination group on the 15th of October, if the situation requires, we are ready to convene one earlier
 - 10/02 19:26 [DeItaone] *GERMANY SAYS WATCHING DIESEL SUPPLY SITUATION CLOSELY
@@ -490,3 +481,9 @@
 - 10/03 18:48 [FirstSquawk] Sudanese government source told Al Jazeera: Rapid Support Forces marches targeted the home of the governor of Blue Nile State in Damazin, but the governor was unharmed.
 - 10/03 18:48 [FirstSquawk] Yemeni government forces: We repelled Houthi militia attacks on Jabal Han, Hadhran, and the western fronts of the city of Taiz
 - 10/03 18:48 [FirstSquawk] Israeli Broadcasting Authority, quoting a security official: The Israeli army targeted Hamas leader Ali al-Amoudi in Gaza with an airstrike last night.
+- 10/03 19:07 [financialjuice] North Korea reports completion of strategic weapons launch exercise - KCNA
+- 10/03 19:07 [financialjuice] North Korea's Kim Yo Jong: Intermediate-range strategic missile employed in drill - KCNA
+- 10/03 19:12 [FirstSquawk] Pakistan's Foreign Ministry: Indian chargé d'affaires summoned following the killing of two Pakistani civilians by Indian security forces at the border
+- 10/03 19:13 [FirstSquawk] Yemeni sources in Sana'a: Airstrikes target Al-Nahdain and Jabal Attan
+- 10/03 19:13 [FirstSquawk] Yemeni sources in Sana'a: 6 airstrikes so far and heavy aerial activity.
+- 10/03 19:13 [FirstSquawk] Yemeni sources: Warplanes target militia gatherings at the eastern entrance to Taiz city

@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-03 19:05 JST／対象: 10/03 07:05 〜 10/03 19:05 JST（時刻はすべて日本時間）
+生成: 2026-10-03 19:25 JST／対象: 10/03 07:25 〜 10/03 19:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 133 | 10/03 09:03 | 10/03 18:48 | ⚠ 75分（10:22→11:37） |
-| financialjuice | 32 | 10/03 07:10 | 10/03 18:37 | ⚠ 119分（13:18→15:17） |
+| FirstSquawk | 137 | 10/03 09:03 | 10/03 19:13 | ⚠ 75分（10:22→11:37） |
+| financialjuice | 32 | 10/03 07:42 | 10/03 19:07 | ⚠ 119分（13:18→15:17） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 164 行（統合前 165 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 168 行（統合前 169 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/03 07:10 [financialjuice] Saudi civil defense: shrapnel from intercepted ballistic missile in Ahad Rafidah governorate in Asir injures one person - state news agency
-- 10/03 07:23 [financialjuice] OpenAI's Altman: Cerebras is a close partner with deep engagement after partnership speculation
 - 10/03 07:42 [financialjuice] North Korea's projectile was ballistic missile: South Korean military
 - 10/03 07:43 [financialjuice] North Korea launches ballistic missile from Wonsan: South Korean military
 - 10/03 07:43 [financialjuice] South Korean military heightens alert on additional launches: South Korea's defense ministry
@@ -188,3 +186,9 @@
 - 10/03 18:48 [FirstSquawk] Sudanese government source told Al Jazeera: Rapid Support Forces marches targeted the home of the governor of Blue Nile State in Damazin, but the governor was unharmed.
 - 10/03 18:48 [FirstSquawk] Yemeni government forces: We repelled Houthi militia attacks on Jabal Han, Hadhran, and the western fronts of the city of Taiz
 - 10/03 18:48 [FirstSquawk] Israeli Broadcasting Authority, quoting a security official: The Israeli army targeted Hamas leader Ali al-Amoudi in Gaza with an airstrike last night.
+- 10/03 19:07 [financialjuice] North Korea reports completion of strategic weapons launch exercise - KCNA
+- 10/03 19:07 [financialjuice] North Korea's Kim Yo Jong: Intermediate-range strategic missile employed in drill - KCNA
+- 10/03 19:12 [FirstSquawk] Pakistan's Foreign Ministry: Indian chargé d'affaires summoned following the killing of two Pakistani civilians by Indian security forces at the border
+- 10/03 19:13 [FirstSquawk] Yemeni sources in Sana'a: Airstrikes target Al-Nahdain and Jabal Attan
+- 10/03 19:13 [FirstSquawk] Yemeni sources in Sana'a: 6 airstrikes so far and heavy aerial activity.
+- 10/03 19:13 [FirstSquawk] Yemeni sources: Warplanes target militia gatherings at the eastern entrance to Taiz city
