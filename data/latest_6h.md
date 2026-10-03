@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-03 10:58 JST／対象: 10/03 04:58 〜 10/03 10:58 JST（時刻はすべて日本時間）
+生成: 2026-10-03 11:19 JST／対象: 10/03 05:19 〜 10/03 11:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 3 | 10/03 05:00 | 10/03 05:04 | 4分（05:00→05:04） |
-| FirstSquawk | 40 | 10/03 04:59 | 10/03 10:22 | ⚠ 240分（05:02→09:03） |
-| financialjuice | 34 | 10/03 04:58 | 10/03 10:26 | ⚠ 71分（05:20→06:32） |
+| DeItaone | 0 | - | - | - |
+| FirstSquawk | 36 | 10/03 09:03 | 10/03 10:22 | 12分（09:26→09:38） |
+| financialjuice | 22 | 10/03 05:20 | 10/03 10:26 | ⚠ 71分（05:20→06:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 75 行（統合前 77 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 58 行（統合前 58 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/03 04:58 [financialjuice] Trump: Iran is not doing well.
-- 10/03 04:59 [FirstSquawk] TRUMP ON SOUTH KOREA INVESTMENT IN US: I DIDN'T JUMP THE GUN ON ALASKA PIPELINE
-- 10/03 04:59 [financialjuice] Trump on South Korea investment in the US: I didn't jump the gun on the Alaska pipeline.
-- 10/03 04:59 [financialjuice] Trump: If South Korea doesn't do the pipeline, will charge them more.
-- 10/03 05:00 [financialjuice] Trump Departs White House - WATCH LIVE
-- 10/03 05:00 [FirstSquawk/DeItaone] TRUMP ON DIESEL: WE'RE NOT GOING TO BE DOING THE EXPORT BAN
-- 10/03 05:00 [financialjuice] Trump on Diesel: Won't do export ban.
-- 10/03 05:00 [financialjuice] Hedge funds turn short UK pound for the first time since 2024 - CFTC.
-- 10/03 05:00 [financialjuice] trump on Diesel: Europe is making a major contribution, so are we
-- 10/03 05:00 [DeItaone] TRUMP ON DIESEL: WE HAVE A VERY GOOD RELATIONSHIP WITH EUROPE
-- 10/03 05:01 [financialjuice] CME Group withdraws filing for 10-barrel oil futures.
-- 10/03 05:01 [FirstSquawk] NASDAQ UNOFFICIALLY CLOSES UP 314.26 POINTS, OR 1.17 PERCENT, AT 27,185.85 S&P 500 UNOFFICIALLY CLOSES UP 57.53 POINTS, OR 0.75 PERCENT, AT 7,723.98 DOW JONES UNOFFICIALLY CLOSES UP 270.94 POINTS, OR 0.53%, AT 51,197.50
-- 10/03 05:01 [financialjuice] Trump: We were never going to do a diesel export ban
-- 10/03 05:02 [financialjuice/DeItaone] Trump on Diesel: Export ban was never really on the table
-- 10/03 05:02 [FirstSquawk] US PRES. TRUMP: IRAN IS NOT DOING WELL
-- 10/03 05:03 [financialjuice] Trump ends comments at the White House
-- 10/03 05:07 [financialjuice] Stocks Rise as Weak Jobs Report Eases Fed Rate-Hike Fears – US Market Wrap
 - 10/03 05:20 [financialjuice] scope affirms US long-term ratings at aa- with stable outlook
 - 10/03 06:32 [financialjuice] Columbia University journalism program pauses admissions after applications fall over US visa rules: sources
 - 10/03 06:41 [financialjuice] North Korea launches unidentified projectile into sea off east coast: South Korea military

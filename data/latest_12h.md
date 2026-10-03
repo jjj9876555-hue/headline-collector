@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-03 10:58 JST／対象: 10/02 22:58 〜 10/03 10:58 JST（時刻はすべて日本時間）
+生成: 2026-10-03 11:19 JST／対象: 10/02 23:19 〜 10/03 11:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 10 | 10/02 22:58 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
-| FirstSquawk | 95 | 10/02 23:02 | 10/03 10:22 | ⚠ 240分（05:02→09:03） |
-| financialjuice | 99 | 10/02 22:58 | 10/03 10:26 | ⚠ 71分（05:20→06:32） |
+| DeItaone | 5 | 10/03 00:28 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
+| FirstSquawk | 94 | 10/02 23:26 | 10/03 10:22 | ⚠ 240分（05:02→09:03） |
+| financialjuice | 91 | 10/02 23:19 | 10/03 10:26 | ⚠ 71分（05:20→06:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 196 行（統合前 206 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 182 行（統合前 192 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 22:58 [DeItaone] *MACRON: G7 DECIDED TO RELEASE DIESEL AND CRUDE STOCKS *MACRON: DIESEL, CRUDE STOCKS TO BE RELEASED OVER 4 MONTHS
-- 10/02 22:58 [financialjuice] ❗ France’s President Macron: We will release up to 100 mln barrels.
-- 10/02 23:00 [DeItaone] TIMIRAOS: WEAK JOBS REPORT CLEARS PATH FOR FED PAUSE The September jobs report gives the Fed more room to hold rates steady in October, with hiring slowing and unemployment edging up to 4.2%. With little evidence of labor-market inflation p…
-- 10/02 23:00 [financialjuice] US DURABLE GOODS REVISED ACTUAL -0.1% (FORECAST 0%, PREVIOUS 0.0%) $MACRO
-- 10/02 23:00 [financialjuice] US CORE DURABLE GOODS REVISED ACTUAL 0.2% (FORECAST 0.3%, PREVIOUS 0.3%) $MACRO
-- 10/02 23:00 [financialjuice] ❗ US FACTORY ORDERS MOM ACTUAL 0.1% (FORECAST 0.2%, PREVIOUS 0.9%) $MACRO
-- 10/02 23:00 [financialjuice] Fed's Logan does not comment on economic outlook, monetary policy in remarks at Dallas Fed conference on migration.
-- 10/02 23:01 [DeItaone] TRUMP: EUROPE HAS JUST AGREED TO RELEASE A MASSIVE AMOUNT OF THEIR HEAVILY STOCKED DIESEL OIL TRUMP: PROCESS WILL BEGIN IMMEDIATELY.
-- 10/02 23:02 [financialjuice] Trump: Europe agreed to release a massive amount of their heavily stocked Diesel Oil. The process begins immediately - Truth Social
-- 10/02 23:02 [FirstSquawk] TRUMP: EUROPE HAS JUST AGREED TO RELEASE A MASSIVE AMOUNT OF THEIR HEAVILY STOCKED DIESEL OIL. THE PROCESS WILL BEGIN IMMEDIATELY. THANK YOU FOR YOUR ATTENTION TO THIS MATTER! PRESIDENT DJT
-- 10/02 23:02 [DeItaone] NASDAQ COMPOSITE INDEX HITS ALL-TIME HIGH, LAST UP 1.6%
-- 10/02 23:02 [financialjuice] US Factory Orders and Durable Goods August Reports
-- 10/02 23:02 [DeItaone] $NKE - NIKE SHARES FALL TO LOWEST SINCE SEPTEMBER 2013, LAST DOWN NEARLY 6%
-- 10/02 23:19 [financialjuice] Fear & Greed Index: 32/100 - Fear
 - 10/02 23:19 [financialjuice] Crypto Fear & Greed Index: 72/100 - Greed
 - 10/02 23:26 [FirstSquawk] MACRON ANNOUNCED THAT THE G7 WILL UNVEIL PLANS TO RELEASE AS MUCH AS 100 MILLION BARRELS OF DIESEL AND CRUDE OIL.
 - 10/02 23:26 [FirstSquawk] G7 LEADERS DECLARE PLANS TO ALIGN MAINTENANCE SCHEDULES AT MEMBER REFINERIES.
