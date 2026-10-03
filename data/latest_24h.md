@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-03 17:57 JST／対象: 10/02 17:57 〜 10/03 17:57 JST（時刻はすべて日本時間）
+生成: 2026-10-03 18:18 JST／対象: 10/02 18:18 〜 10/03 18:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 62 | 10/02 17:59 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
-| FirstSquawk | 245 | 10/02 18:04 | 10/03 17:40 | ⚠ 240分（05:02→09:03） |
-| financialjuice | 195 | 10/02 18:00 | 10/03 17:41 | ⚠ 119分（13:18→15:17） |
+| DeItaone | 59 | 10/02 18:25 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
+| FirstSquawk | 244 | 10/02 18:26 | 10/03 17:40 | ⚠ 240分（05:02→09:03） |
+| financialjuice | 193 | 10/02 18:49 | 10/03 18:14 | ⚠ 119分（13:18→15:17） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 487 行（統合前 504 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 481 行（統合前 498 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 17:59 [DeItaone] BOFA’S HARTNETT SEES RISK-OFF MOOD PERSISTING BofA’s Michael Hartnett says investors are likely to avoid riskier trades until the dollar peaks and bond yields retreat from multidecade highs. The Bloomberg dollar index has risen 3% from its …
-- 10/02 18:00 [financialjuice] ❗ EUROZONE CPI YOY FLASH ACTUAL 3.8% (FORECAST 3.7%, PREVIOUS 3.2%) $MACRO
-- 10/02 18:00 [financialjuice] ❗ EUROZONE CPI MOM FLASH ACTUAL 0.6% (FORECAST 0.5%, PREVIOUS 0.4%) $MACRO
-- 10/02 18:00 [financialjuice] ❗ EUROZONE CORE CPI YOY FLASH ACTUAL 2.5% (FORECAST 2.5%, PREVIOUS 2.4%) $MACRO
-- 10/02 18:00 [DeItaone] 🇪🇺 EUROZONE INFLATION JUMPS TO 3.8%, ABOVE FORECASTS Eurozone inflation accelerated to 3.8% YoY in September, above the 3.6% consensus and sharply higher than 3.2% in August, according to Eurostat. Core inflation rose slightly to 2.5% from …
-- 10/02 18:02 [DeItaone] $MSTR - CITI RAISES STRATEGY TARGET TO $240 ON HIGHER BITCOIN FORECAST Citi raised its Strategy price target to $240 from $136, maintaining a Buy rating after lifting its 12-month Bitcoin forecast 39% to $113,400. Citi sees roughly 34% upsi…
-- 10/02 18:04 [FirstSquawk] EUROZONE CPI ESTIMATE (Y/Y) SEP P: 3.8% (EST 3.7%; PREV 3.2%) || CPI CORE (Y/Y): 2.5% (EST 2.5%; PREV 2.4%) || CPI (M/M): 0.6% (EST 0.5%; PREV 0.4%) || CPI (Y/Y): 3.8% (EST 3.7%; PREV 3.2%)
 - 10/02 18:25 [DeItaone] $NVDA - MORGAN STANLEY RENAMES NVIDIA TO TOP PICK
 - 10/02 18:26 [FirstSquawk] SWEDEN'S PARLIAMENT SPEAKER URGES SOCIAL DEMOCRATS TO RESTART GOVERNMENT FORMATION EFFORTS.
 - 10/02 18:26 [FirstSquawk] MORGAN STANLEY HAS NAMED NVIDIA AS A TOP PICK ONCE AGAIN.
@@ -511,3 +504,4 @@
 - 10/03 17:37 [FirstSquawk] UK new car sales rise 12% in September as EVs and Chinese brands gain ground
 - 10/03 17:40 [FirstSquawk] Malaysia is considering spending more than $245 million on a new naval strike missile system after a deal with Norway collapsed earlier this year, the Star reported.
 - 10/03 17:41 [financialjuice] One killed, ten wounded in drone strike on Ukraine's Zaporizhzhia region: Russian-installed governor, Tass reports
+- 10/03 18:14 [financialjuice] US-Russia talks on Ukraine now include a multi-billion dollar oil pact linked to Trump allies: NYT

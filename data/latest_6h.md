@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-03 17:57 JST／対象: 10/03 11:57 〜 10/03 17:57 JST（時刻はすべて日本時間）
+生成: 2026-10-03 18:18 JST／対象: 10/03 12:18 〜 10/03 18:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 75 | 10/03 11:58 | 10/03 17:40 | 41分（16:14→16:55） |
-| financialjuice | 12 | 10/03 11:58 | 10/03 17:41 | ⚠ 119分（13:18→15:17） |
+| FirstSquawk | 68 | 10/03 12:21 | 10/03 17:40 | 41分（16:14→16:55） |
+| financialjuice | 9 | 10/03 13:00 | 10/03 18:14 | ⚠ 119分（13:18→15:17） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 86 行（統合前 87 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 77 行（統合前 77 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/03 11:58 [FirstSquawk] S&P says Romania’s 2026 fiscal consolidation remains on track despite government formation impasse
-- 10/03 11:58 [FirstSquawk] Trump says over 20 million seniors will receive nearly $100 checks to help cover Medicare Part B premiums
-- 10/03 11:58 [financialjuice] Trump: Sending nearly $100 payments to over 20 million seniors to help cover their Medicare Part B premiums
-- 10/03 11:59 [financialjuice] Trump finally taps fund, along with favored nations deals, to significantly cut costs for seniors
-- 10/03 12:05 [financialjuice/FirstSquawk] Trump’s top national security aides meet secretly at Camp David on Iran, Yemen: Axios
-- 10/03 12:09 [FirstSquawk] Trump moves to cut seniors’ costs with fund and favored nations deals
-- 10/03 12:09 [FirstSquawk] Trump: Using fund and most-favored-nations deals to substantially cut costs for seniors
-- 10/03 12:10 [FirstSquawk] Trump says every U.S. citizen would receive $5,000 dividend if Republicans win midterms
-- 10/03 12:11 [FirstSquawk] Japan finance minister says forex trend has changed somewhat since intervention
-- 10/03 12:12 [financialjuice] North Korea slams UN secretary general human rights report - KCNA
 - 10/03 12:21 [FirstSquawk] AI demand lifts Japan’s hard-drive suppliers after years of decline
 - 10/03 12:22 [FirstSquawk] Roadblocks deployed in Islamabad to restrict movement of Imran Khan supporters
 - 10/03 12:31 [FirstSquawk] China investigates EU p-nitrotoluene imports in new anti-dumping case - RTRS
@@ -110,3 +100,4 @@
 - 10/03 17:37 [FirstSquawk] UK new car sales rise 12% in September as EVs and Chinese brands gain ground
 - 10/03 17:40 [FirstSquawk] Malaysia is considering spending more than $245 million on a new naval strike missile system after a deal with Norway collapsed earlier this year, the Star reported.
 - 10/03 17:41 [financialjuice] One killed, ten wounded in drone strike on Ukraine's Zaporizhzhia region: Russian-installed governor, Tass reports
+- 10/03 18:14 [financialjuice] US-Russia talks on Ukraine now include a multi-billion dollar oil pact linked to Trump allies: NYT

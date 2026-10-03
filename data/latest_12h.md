@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-03 17:57 JST／対象: 10/03 05:57 〜 10/03 17:57 JST（時刻はすべて日本時間）
+生成: 2026-10-03 18:18 JST／対象: 10/03 06:18 〜 10/03 18:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
 | FirstSquawk | 128 | 10/03 09:03 | 10/03 17:40 | ⚠ 75分（10:22→11:37） |
-| financialjuice | 34 | 10/03 06:32 | 10/03 17:41 | ⚠ 119分（13:18→15:17） |
+| financialjuice | 35 | 10/03 06:32 | 10/03 18:14 | ⚠ 119分（13:18→15:17） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 161 行（統合前 162 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 162 行（統合前 163 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -185,3 +185,4 @@
 - 10/03 17:37 [FirstSquawk] UK new car sales rise 12% in September as EVs and Chinese brands gain ground
 - 10/03 17:40 [FirstSquawk] Malaysia is considering spending more than $245 million on a new naval strike missile system after a deal with Norway collapsed earlier this year, the Star reported.
 - 10/03 17:41 [financialjuice] One killed, ten wounded in drone strike on Ukraine's Zaporizhzhia region: Russian-installed governor, Tass reports
+- 10/03 18:14 [financialjuice] US-Russia talks on Ukraine now include a multi-billion dollar oil pact linked to Trump allies: NYT
