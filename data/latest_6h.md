@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-03 13:39 JST／対象: 10/03 07:39 〜 10/03 13:39 JST（時刻はすべて日本時間）
+生成: 2026-10-03 13:54 JST／対象: 10/03 07:54 〜 10/03 13:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 84 | 10/03 09:03 | 10/03 13:38 | ⚠ 75分（10:22→11:37） |
-| financialjuice | 22 | 10/03 07:42 | 10/03 13:18 | ⚠ 56分（10:26→11:22） |
+| FirstSquawk | 86 | 10/03 09:03 | 10/03 13:50 | ⚠ 75分（10:22→11:37） |
+| financialjuice | 19 | 10/03 08:16 | 10/03 13:18 | ⚠ 56分（10:26→11:22） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 105 行（統合前 106 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 104 行（統合前 105 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/03 07:42 [financialjuice] North Korea's projectile was ballistic missile: South Korean military
-- 10/03 07:43 [financialjuice] North Korea launches ballistic missile from Wonsan: South Korean military
-- 10/03 07:43 [financialjuice] South Korean military heightens alert on additional launches: South Korea's defense ministry
 - 10/03 08:16 [financialjuice] Ukmto: incident reported 4 nautical miles east of Oman
 - 10/03 08:17 [financialjuice] UKMTO: master of crude oil tanker reports being hit by unknown projectile on port side
 - 10/03 08:17 [financialjuice] UKMTO: all crew reported safe with no environmental impact so far
@@ -129,3 +126,5 @@
 - 10/03 13:28 [FirstSquawk] Chinese-origin autos surpass Western competitors in quality, tech, Argentina importer says
 - 10/03 13:36 [FirstSquawk] Komeito elects new leader after merger talks with LDP collapse - Kyodo
 - 10/03 13:38 [FirstSquawk] Kazakhstan weighs subsea pipeline, tanker fleet expansion for Trans-Caspian oil route
+- 10/03 13:43 [FirstSquawk] US community bank organization takes OCC to court over crypto trust charters
+- 10/03 13:50 [FirstSquawk] Japan’s entertainment robots evolve with AI, bringing new forms of comfort - Kyodo

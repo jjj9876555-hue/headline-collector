@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-03 13:39 JST／対象: 10/03 01:39 〜 10/03 13:39 JST（時刻はすべて日本時間）
+生成: 2026-10-03 13:54 JST／対象: 10/03 01:54 〜 10/03 13:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 10/03 02:33 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
-| FirstSquawk | 116 | 10/03 01:41 | 10/03 13:38 | ⚠ 240分（05:02→09:03） |
-| financialjuice | 84 | 10/03 01:42 | 10/03 13:18 | ⚠ 71分（05:20→06:32） |
+| FirstSquawk | 115 | 10/03 01:56 | 10/03 13:50 | ⚠ 240分（05:02→09:03） |
+| financialjuice | 78 | 10/03 01:55 | 10/03 13:18 | ⚠ 71分（05:20→06:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 199 行（統合前 205 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 193 行（統合前 198 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/03 01:41 [FirstSquawk] IEA'S BIROL: OIL PRICES DROPPED AT LEAST $5 AFTER OUR ANNOUNCEMENT OF RELEASING OIL AND DIESEL FROM OUR RESERVES INTO MARKET IN COMING DAYS, WEEKS
-- 10/03 01:42 [FirstSquawk/financialjuice] IEA'S BIROL: WE WILL FINALISE DISTRIBUTION ONCE WE HAVE CONSULTED WITH MEMBER STATES, WE HAVE ENOUGH RESERVES AND CAN RELEASE MORE IF NECESSARY
-- 10/03 01:42 [financialjuice] IEA's Birol: Oil prices dropped at least $5 after our announcement of releasing oil and diesel from our reserves into the market in the coming days and weeks
-- 10/03 01:46 [financialjuice] Italy to ask EU for deficit leeway worth 0.6% of GDP in 2027
-- 10/03 01:47 [financialjuice] Italy raises 2026 GDP growth forecast to 0.8% from 0.6% forecast made in April
-- 10/03 01:48 [financialjuice] Italy sees 2026 deficit below 3% of GDP in 2026
-- 10/03 01:48 [FirstSquawk] BREXIT DEAL INCHES CLOSER AS EU GIVES GROUND TO UK ON FOOD AND DRINK – IPAPER
-- 10/03 01:52 [financialjuice] Italy raises 2026 GDP growth forecast to 1% from 0.6% forecast made in April
 - 10/03 01:55 [financialjuice] US Senators expect a vote before December 13th on Trump Administration's pact to share nuclear power technology with Saudi Arabia
 - 10/03 01:56 [FirstSquawk] US SENATORS EXPECT A VOTE BEFORE DECEMBER 13 ON TRUMP ADMINISTRATION'S PACT TO SHARE NUCLEAR POWER TECHNOLOGY WITH SAUDI ARABIA
 - 10/03 01:56 [FirstSquawk] ITALY ECONOMY MINISTER CALLS CLARITY ON RUMOURS ABOUT EARLY RESIGNATION OF ECB'S LAGARDE
@@ -223,3 +215,5 @@
 - 10/03 13:28 [FirstSquawk] Chinese-origin autos surpass Western competitors in quality, tech, Argentina importer says
 - 10/03 13:36 [FirstSquawk] Komeito elects new leader after merger talks with LDP collapse - Kyodo
 - 10/03 13:38 [FirstSquawk] Kazakhstan weighs subsea pipeline, tanker fleet expansion for Trans-Caspian oil route
+- 10/03 13:43 [FirstSquawk] US community bank organization takes OCC to court over crypto trust charters
+- 10/03 13:50 [FirstSquawk] Japan’s entertainment robots evolve with AI, bringing new forms of comfort - Kyodo
