@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-03 13:01 JST／対象: 10/03 07:01 〜 10/03 13:01 JST（時刻はすべて日本時間）
+生成: 2026-10-03 13:22 JST／対象: 10/03 07:22 〜 10/03 13:22 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 72 | 10/03 09:03 | 10/03 12:54 | ⚠ 75分（10:22→11:37） |
-| financialjuice | 24 | 10/03 07:03 | 10/03 13:00 | ⚠ 56分（10:26→11:22） |
+| FirstSquawk | 79 | 10/03 09:03 | 10/03 13:18 | ⚠ 75分（10:22→11:37） |
+| financialjuice | 23 | 10/03 07:23 | 10/03 13:18 | ⚠ 56分（10:26→11:22） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 95 行（統合前 96 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 101 行（統合前 102 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/03 07:03 [financialjuice] IMF: executive board endorses 36-month extended fund facility for Bolivia
-- 10/03 07:04 [financialjuice] IMF: board greenlit 36-month deal under the EFF for Bolivia, with access to SDR 1.369 billion, or 570% of quota, about $1.9 billion
-- 10/03 07:10 [financialjuice] Saudi civil defense: shrapnel from intercepted ballistic missile in Ahad Rafidah governorate in Asir injures one person - state news agency
 - 10/03 07:23 [financialjuice] OpenAI's Altman: Cerebras is a close partner with deep engagement after partnership speculation
 - 10/03 07:42 [financialjuice] North Korea's projectile was ballistic missile: South Korean military
 - 10/03 07:43 [financialjuice] North Korea launches ballistic missile from Wonsan: South Korean military
@@ -119,3 +116,12 @@
 - 10/03 12:51 [FirstSquawk] Japan seeks to counter reflationary policy view with messaging shift, Katayama says - Reuters
 - 10/03 12:54 [FirstSquawk] Man arrested in US over alleged scheme to smuggle $300 million of Nvidia AI servers to China
 - 10/03 13:00 [financialjuice] Kyiv Mayor: north bridge over Dnipro River struck in Russian air raid, emergency teams en route
+- 10/03 13:02 [FirstSquawk] Russian air raid strikes Kyiv’s North Bridge over Dnipro River, mayor says
+- 10/03 13:03 [FirstSquawk] China tightens developer presale, funding rules as property market struggles - NA
+- 10/03 13:06 [FirstSquawk] China imposes stricter presale, funding rules as property market remains weak
+- 10/03 13:06 [financialjuice] Volodymyr Zelenskyy asked Donald Trump to block Russia and China's Starlink competitor: FT
+- 10/03 13:07 [FirstSquawk] Zelenskyy asks Trump to block Russia, China satellite internet rival - FT
+- 10/03 13:14 [FirstSquawk] Wealth bosses caution CGT increase could hit equity investment - FT
+- 10/03 13:17 [FirstSquawk] SJP restructures loan scheme amid efforts to reduce customer disruption - FT
+- 10/03 13:18 [financialjuice] Taiwan foreign minister to visit Arizona to strengthen economic relations
+- 10/03 13:18 [FirstSquawk] Taiwan minister to visit Arizona as Taipei seeks stronger economic ties
