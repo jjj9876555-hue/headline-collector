@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-03 18:35 JST／対象: 10/03 12:35 〜 10/03 18:35 JST（時刻はすべて日本時間）
+生成: 2026-10-03 18:52 JST／対象: 10/03 12:52 〜 10/03 18:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 63 | 10/03 12:37 | 10/03 17:40 | 41分（16:14→16:55） |
-| financialjuice | 10 | 10/03 13:00 | 10/03 18:32 | ⚠ 119分（13:18→15:17） |
+| FirstSquawk | 62 | 10/03 12:54 | 10/03 18:48 | ⚠ 66分（17:40→18:47） |
+| financialjuice | 11 | 10/03 13:00 | 10/03 18:37 | ⚠ 119分（13:18→15:17） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 73 行（統合前 73 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,12 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/03 12:37 [FirstSquawk] WSJ: Nature of radicalization remains unclear
-- 10/03 12:40 [FirstSquawk] Oman had barred Flydubai attacker from flying over radical views, sources tell WSJ
-- 10/03 12:41 [FirstSquawk] Anthropic’s concerns extend beyond Pentagon dispute amid fears of government pressure - Benzinga
-- 10/03 12:48 [FirstSquawk] Hong Kong residents lose HK$220 million to customer service scams in August - SCMP
-- 10/03 12:49 [FirstSquawk] US blast simulation focuses on China’s alleged covert nuclear testing - SCMP
-- 10/03 12:51 [FirstSquawk] Japan seeks to counter reflationary policy view with messaging shift, Katayama says - Reuters
 - 10/03 12:54 [FirstSquawk] Man arrested in US over alleged scheme to smuggle $300 million of Nvidia AI servers to China
 - 10/03 13:00 [financialjuice] Kyiv Mayor: north bridge over Dnipro River struck in Russian air raid, emergency teams en route
 - 10/03 13:02 [FirstSquawk] Russian air raid strikes Kyiv’s North Bridge over Dnipro River, mayor says
@@ -97,3 +91,9 @@
 - 10/03 17:41 [financialjuice] One killed, ten wounded in drone strike on Ukraine's Zaporizhzhia region: Russian-installed governor, Tass reports
 - 10/03 18:14 [financialjuice] US-Russia talks on Ukraine now include a multi-billion dollar oil pact linked to Trump allies: NYT
 - 10/03 18:32 [financialjuice] Pakistan foreign ministry summons Indian charge d'affaires over killing of two Pakistani civilians
+- 10/03 18:37 [financialjuice] Two killed, three wounded in assault on Ukraine's Luhansk region: Russian-installed governor
+- 10/03 18:47 [FirstSquawk] Israeli occupation forces fire tear gas canisters at citizens and journalists in the town of Osarin in Nablus, West Bank
+- 10/03 18:47 [FirstSquawk] Settlers burn olive trees on Palestinian land in the town of Abu Dis in the occupied Jerusalem district
+- 10/03 18:48 [FirstSquawk] Sudanese government source told Al Jazeera: Rapid Support Forces marches targeted the home of the governor of Blue Nile State in Damazin, but the governor was unharmed.
+- 10/03 18:48 [FirstSquawk] Yemeni government forces: We repelled Houthi militia attacks on Jabal Han, Hadhran, and the western fronts of the city of Taiz
+- 10/03 18:48 [FirstSquawk] Israeli Broadcasting Authority, quoting a security official: The Israeli army targeted Hamas leader Ali al-Amoudi in Gaza with an airstrike last night.

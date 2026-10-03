@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-03 18:35 JST／対象: 10/03 06:35 〜 10/03 18:35 JST（時刻はすべて日本時間）
+生成: 2026-10-03 18:52 JST／対象: 10/03 06:52 〜 10/03 18:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 128 | 10/03 09:03 | 10/03 17:40 | ⚠ 75分（10:22→11:37） |
-| financialjuice | 35 | 10/03 06:41 | 10/03 18:32 | ⚠ 119分（13:18→15:17） |
+| FirstSquawk | 133 | 10/03 09:03 | 10/03 18:48 | ⚠ 75分（10:22→11:37） |
+| financialjuice | 35 | 10/03 07:01 | 10/03 18:37 | ⚠ 119分（13:18→15:17） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 162 行（統合前 163 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 167 行（統合前 168 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/03 06:41 [financialjuice] North Korea launches unidentified projectile into sea off east coast: South Korea military
 - 10/03 07:01 [financialjuice] North Korean missile seems to have landed beyond Japan's EEZ: NHK
 - 10/03 07:03 [financialjuice] IMF: executive board endorses 36-month extended fund facility for Bolivia
 - 10/03 07:04 [financialjuice] IMF: board greenlit 36-month deal under the EFF for Bolivia, with access to SDR 1.369 billion, or 570% of quota, about $1.9 billion
@@ -186,3 +185,9 @@
 - 10/03 17:41 [financialjuice] One killed, ten wounded in drone strike on Ukraine's Zaporizhzhia region: Russian-installed governor, Tass reports
 - 10/03 18:14 [financialjuice] US-Russia talks on Ukraine now include a multi-billion dollar oil pact linked to Trump allies: NYT
 - 10/03 18:32 [financialjuice] Pakistan foreign ministry summons Indian charge d'affaires over killing of two Pakistani civilians
+- 10/03 18:37 [financialjuice] Two killed, three wounded in assault on Ukraine's Luhansk region: Russian-installed governor
+- 10/03 18:47 [FirstSquawk] Israeli occupation forces fire tear gas canisters at citizens and journalists in the town of Osarin in Nablus, West Bank
+- 10/03 18:47 [FirstSquawk] Settlers burn olive trees on Palestinian land in the town of Abu Dis in the occupied Jerusalem district
+- 10/03 18:48 [FirstSquawk] Sudanese government source told Al Jazeera: Rapid Support Forces marches targeted the home of the governor of Blue Nile State in Damazin, but the governor was unharmed.
+- 10/03 18:48 [FirstSquawk] Yemeni government forces: We repelled Houthi militia attacks on Jabal Han, Hadhran, and the western fronts of the city of Taiz
+- 10/03 18:48 [FirstSquawk] Israeli Broadcasting Authority, quoting a security official: The Israeli army targeted Hamas leader Ali al-Amoudi in Gaza with an airstrike last night.
