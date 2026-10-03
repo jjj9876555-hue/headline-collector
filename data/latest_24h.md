@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-03 14:16 JST／対象: 10/02 14:16 〜 10/03 14:16 JST（時刻はすべて日本時間）
+生成: 2026-10-03 14:43 JST／対象: 10/02 14:43 〜 10/03 14:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 63 | 10/02 17:55 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
-| FirstSquawk | 244 | 10/02 14:20 | 10/03 14:12 | ⚠ 240分（05:02→09:03） |
+| FirstSquawk | 247 | 10/02 14:43 | 10/03 14:36 | ⚠ 240分（05:02→09:03） |
 | financialjuice | 223 | 10/02 14:43 | 10/03 13:18 | ⚠ 71分（05:20→06:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 514 行（統合前 532 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 517 行（統合前 535 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 14:20 [FirstSquawk] INDONESIAN RUPIAH GAINS AS DOLLAR SLIPS AMID LOWER FED RATE-HIKE EXPECTATIONS - FX
-- 10/02 14:30 [FirstSquawk] ITALGAS AGREES TO ACQUIRE 22.5% OF FLOENE FROM MARUBENI, TOHO GAS FOR €120M - RTRS
-- 10/02 14:42 [FirstSquawk] FRANCE'S LESCURE: EVERY MEASURE IN BUDGET PROPOSAL IS OPEN FOR NEGOTIATION
 - 10/02 14:43 [financialjuice] French finance minister Lescure: Debt sales go well, but interest rates are too high, budget will help bring them down
 - 10/02 14:43 [FirstSquawk] FRENCH FINANCE MINISTER: BUDGET WILL HELP LOWER HIGH INTEREST RATES
 - 10/02 14:47 [FirstSquawk] JAPAN 10-YEAR JGB YIELD REBOUNDS TO 3.100%, UP 0.5 BP
@@ -538,3 +535,9 @@
 - 10/03 13:58 [FirstSquawk] Mitsubishi Heavy plans ¥100 billion investment to expand shipbuilding capacity - kyodo
 - 10/03 14:06 [FirstSquawk] Fukushima company leverages nuclear decommissioning know-how to develop AI robots
 - 10/03 14:12 [FirstSquawk] China re-enters top 100 in global gender parity ranking after decade - SCMP
+- 10/03 14:17 [FirstSquawk] Stocks close higher as cooling jobs data dampens rate-hike expectations -RTRS
+- 10/03 14:18 [FirstSquawk] US data center battle provides glimpse of what’s ahead globally - CNBC
+- 10/03 14:24 [FirstSquawk] Tokyo-Beijing tensions push Chinese tourists toward Southeast Asia
+- 10/03 14:30 [FirstSquawk] Chinese banks may follow Ping An with tighter AI rules - SCMP
+- 10/03 14:32 [FirstSquawk] US simulation targets China’s alleged secret nuclear testing activity - SCMP
+- 10/03 14:36 [FirstSquawk] US adds just 29,000 jobs in September, well below expectations - TND

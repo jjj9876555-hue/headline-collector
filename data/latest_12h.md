@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-03 14:16 JST／対象: 10/03 02:16 〜 10/03 14:16 JST（時刻はすべて日本時間）
+生成: 2026-10-03 14:43 JST／対象: 10/03 02:43 〜 10/03 14:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 4 | 10/03 02:33 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
-| FirstSquawk | 114 | 10/03 02:19 | 10/03 14:12 | ⚠ 240分（05:02→09:03） |
-| financialjuice | 70 | 10/03 02:29 | 10/03 13:18 | ⚠ 71分（05:20→06:32） |
+| DeItaone | 3 | 10/03 05:00 | 10/03 05:04 | 4分（05:00→05:04） |
+| FirstSquawk | 118 | 10/03 02:50 | 10/03 14:36 | ⚠ 240分（05:02→09:03） |
+| financialjuice | 68 | 10/03 03:00 | 10/03 13:18 | ⚠ 71分（05:20→06:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 184 行（統合前 189 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 185 行（統合前 190 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/03 02:19 [FirstSquawk] US PREPARES FOR POSSIBLE RENEWED FIGHTING - N12 CITING US OFFICIAL
-- 10/03 02:29 [financialjuice] ❗ Trump allegedly involved in a coup plot in iran - Fars News
-- 10/03 02:31 [financialjuice] Meta lets go of virtue ai employees hired in June - Semafor $META
-- 10/03 02:33 [DeItaone] META PARTS WAYS WITH VIRTUE AI - SEMAFOR
-- 10/03 02:35 [FirstSquawk] META PARTS WAYS WITH AI SAFETY STARTUP VIRTUE AI HIRES - SEMAFOR
 - 10/03 02:50 [FirstSquawk] SAUDI-LED COALITION SAYS IT INTERCEPTED AND DESTROYED THREE BALLISTIC MISSILES LAUNCHED BY HOUTHIS TOWARD KHAMIS MUSHAIT
 - 10/03 03:00 [financialjuice/FirstSquawk] Joint US-Ukraine investment fund seals first critical minerals deal - US official
 - 10/03 03:31 [financialjuice] NYMEX WTI Crude November futures settle at $91.11 a barrel, down $1.76, 1.9%.
@@ -208,3 +203,9 @@
 - 10/03 13:58 [FirstSquawk] Mitsubishi Heavy plans ¥100 billion investment to expand shipbuilding capacity - kyodo
 - 10/03 14:06 [FirstSquawk] Fukushima company leverages nuclear decommissioning know-how to develop AI robots
 - 10/03 14:12 [FirstSquawk] China re-enters top 100 in global gender parity ranking after decade - SCMP
+- 10/03 14:17 [FirstSquawk] Stocks close higher as cooling jobs data dampens rate-hike expectations -RTRS
+- 10/03 14:18 [FirstSquawk] US data center battle provides glimpse of what’s ahead globally - CNBC
+- 10/03 14:24 [FirstSquawk] Tokyo-Beijing tensions push Chinese tourists toward Southeast Asia
+- 10/03 14:30 [FirstSquawk] Chinese banks may follow Ping An with tighter AI rules - SCMP
+- 10/03 14:32 [FirstSquawk] US simulation targets China’s alleged secret nuclear testing activity - SCMP
+- 10/03 14:36 [FirstSquawk] US adds just 29,000 jobs in September, well below expectations - TND
