@@ -7,41 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-03 10:25 JST／対象: 10/02 22:25 〜 10/03 10:25 JST（時刻はすべて日本時間）
+生成: 2026-10-03 10:45 JST／対象: 10/02 22:45 〜 10/03 10:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 16 | 10/02 22:34 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
-| FirstSquawk | 110 | 10/02 22:27 | 10/03 10:22 | ⚠ 240分（05:02→09:03） |
-| financialjuice | 116 | 10/02 22:27 | 10/03 10:11 | ⚠ 71分（05:20→06:32） |
+| DeItaone | 12 | 10/02 22:48 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
+| FirstSquawk | 104 | 10/02 22:51 | 10/03 10:22 | ⚠ 240分（05:02→09:03） |
+| financialjuice | 109 | 10/02 22:46 | 10/03 10:26 | ⚠ 71分（05:20→06:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 234 行（統合前 244 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 217 行（統合前 227 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 22:27 [financialjuice] WH Sr. Adviser Hassett on Diesel: I am hopeful to have news on that sometime soon.
-- 10/02 22:27 [FirstSquawk] HASSETT EXPRESSES OPTIMISM ABOUT POTENTIAL DIESEL NEWS COMING SOON.
-- 10/02 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -68.9 MLN NASDAQ 100: -40.8 MLN DOW 30: -21.0 MLN MAG 7: -53.3 MLN $MACRO
-- 10/02 22:33 [FirstSquawk] DOW JONES UP 334.38 POINTS, OR 0.66 PERCENT, AT 51,260.94 AFTER MARKET OPEN NASDAQ UP 339.34 POINTS, OR 1.26 PERCENT, AT 27,210.93 AFTER MARKET OPEN S&P 500 UP 67.19 POINTS, OR 0.88 PERCENT, AT 7,733.64 AFTER MARKET OPEN
-- 10/02 22:34 [DeItaone] WHITE HOUSE PREPARES ACTION ON RECORD U.S. DIESEL PRICES Washington is pressuring Europe to release emergency fuel reserves as the White House prepares an executive order aimed at tackling record-high U.S. diesel prices. The order could be …
-- 10/02 22:36 [FirstSquawk] PARAMOUNT SKYDANCE CORP WILL CHANGE ITS TICKER TO SKYD AND NAME TO SKYDANCE CORP ON OCTOBER 6, 2026, ACCORDING TO SEC FILING.
-- 10/02 22:37 [financialjuice] UK Defence Secretary Streeting: Iran likely behind fairford, not formally named
-- 10/02 22:38 [financialjuice] WH Sr. Adviser Hassett: The Navy has opened Hormuz and crude is coming through
-- 10/02 22:38 [financialjuice] WH Sr. Adviser Hassett: More announcements next week on energy.
-- 10/02 22:39 [FirstSquawk] HASSETT ANNOUNCED THAT THE NAVY HAS REOPENED THE STRAIT OF HORMUZ, ALLOWING CRUDE OIL TO FLOW FREELY AGAIN.
-- 10/02 22:39 [FirstSquawk] HASSETT SAYS THERE WILL BE ADDITIONAL ANNOUNCEMENTS ABOUT ENERGY NEXT WEEK.
-- 10/02 22:39 [FirstSquawk] HASSETT STATES WE DESIRE LOWER MORTGAGE RATES.
-- 10/02 22:39 [financialjuice] WH Sr. Adviser Hassett: Housing data are up because the economy is so strong.
-- 10/02 22:41 [DeItaone] *HASSETT: NAVY HAS OPENED HORMUZ, CRUDE COMING THROUGH
-- 10/02 22:41 [DeItaone] *HASSETT: WE WANT MORTGAGE RATES TO GO DOWN
-- 10/02 22:41 [DeItaone] *NVIDIA SHARES RISE 2.5% TO HIT FIRST RECORD HIGH SINCE MAY
-- 10/02 22:44 [financialjuice] Trump expected to pick Clayton to be the new AI Czar - CNN
-- 10/02 22:44 [financialjuice] WH Sr. Adviser Hassett ends remarks on Fox news
 - 10/02 22:46 [financialjuice] WH Sr. Adviser Hassett: A lot of news this week has been positive
 - 10/02 22:47 [financialjuice] WH Sr. Adviser Hassett Speaks - WATCH LIVE
 - 10/02 22:47 [financialjuice] WH Sr. Adviser Hassett: This job's report was about expected.
@@ -258,3 +240,4 @@
 - 10/03 10:13 [FirstSquawk] One injured by shrapnel from intercepted ballistic missile in Asir, Saudi civil defense says
 - 10/03 10:13 [FirstSquawk] Unplanned flare event reported at Marathon’s Wilmington refinery in California
 - 10/03 10:22 [FirstSquawk] Five killed in Gaza City apartment strike as death toll rises
+- 10/03 10:26 [financialjuice] Japan finance minister katayama: government transparency on forex reserve makeup has limits

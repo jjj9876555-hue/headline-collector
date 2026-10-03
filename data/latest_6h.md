@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-03 10:25 JST／対象: 10/03 04:25 〜 10/03 10:25 JST（時刻はすべて日本時間）
+生成: 2026-10-03 10:45 JST／対象: 10/03 04:45 〜 10/03 10:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 10/03 05:00 | 10/03 05:04 | 4分（05:00→05:04） |
-| FirstSquawk | 43 | 10/03 04:36 | 10/03 10:22 | ⚠ 240分（05:02→09:03） |
-| financialjuice | 42 | 10/03 04:27 | 10/03 10:11 | ⚠ 71分（05:20→06:32） |
+| FirstSquawk | 41 | 10/03 04:54 | 10/03 10:22 | ⚠ 240分（05:02→09:03） |
+| financialjuice | 38 | 10/03 04:51 | 10/03 10:26 | ⚠ 71分（05:20→06:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 86 行（統合前 89 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 80 行（統合前 83 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/03 04:27 [financialjuice] Week Ahead: Economic Indicators 5th – 9th October (US)
-- 10/03 04:31 [financialjuice] CFTC Positions in the Week Ended September 29th, 2026
-- 10/03 04:35 [financialjuice] ECB's Nagel: Possible that the German economy will grow around 1% this year
-- 10/03 04:36 [financialjuice] US Army to create autonomous systems command - Axios citing memo
-- 10/03 04:36 [FirstSquawk] BBK CHIEF NAGEL: POSSIBLE THAT GERMAN ECONOMY WILL GROW AROUND 1% THIS YEAR
-- 10/03 04:39 [FirstSquawk] US ARMY CREATES AUTONOMY COMMAND AMID PUSH FOR SMART MACHINERY - AXIOS
-- 10/03 04:42 [financialjuice] Hedge funds turned short yen in the week ended September 29th - CFTC
 - 10/03 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 1156.7 MLN NASDAQ 100: 394.0 MLN DOW 30: 510.1 MLN MAG 7: 356.0 MLN $MACRO
 - 10/03 04:54 [financialjuice] Oman banned Flydubai attacker from flying for radical views, sources say - WSJ
 - 10/03 04:54 [financialjuice] attacker subsequently allowed to fly a sensitive route to Tel Aviv from Dubai - WSJ
@@ -110,3 +103,4 @@
 - 10/03 10:13 [FirstSquawk] One injured by shrapnel from intercepted ballistic missile in Asir, Saudi civil defense says
 - 10/03 10:13 [FirstSquawk] Unplanned flare event reported at Marathon’s Wilmington refinery in California
 - 10/03 10:22 [FirstSquawk] Five killed in Gaza City apartment strike as death toll rises
+- 10/03 10:26 [financialjuice] Japan finance minister katayama: government transparency on forex reserve makeup has limits

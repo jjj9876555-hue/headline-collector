@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-03 10:25 JST／対象: 10/02 10:25 〜 10/03 10:25 JST（時刻はすべて日本時間）
+生成: 2026-10-03 10:45 JST／対象: 10/02 10:45 〜 10/03 10:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 63 | 10/02 17:55 | 10/03 05:04 | ⚠ 146分（02:33→05:00） |
-| FirstSquawk | 239 | 10/02 10:26 | 10/03 10:22 | ⚠ 240分（05:02→09:03） |
-| financialjuice | 235 | 10/02 10:37 | 10/03 10:11 | ⚠ 71分（05:20→06:32） |
+| FirstSquawk | 231 | 10/02 10:48 | 10/03 10:22 | ⚠ 240分（05:02→09:03） |
+| financialjuice | 233 | 10/02 11:05 | 10/03 10:26 | ⚠ 71分（05:20→06:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 522 行（統合前 539 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 512 行（統合前 529 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/02 10:26 [FirstSquawk] Trump Asked Grok About Venezuelan Reaction to Maduro Capture Before US Invasion, TechCrunch Reports
-- 10/02 10:34 [FirstSquawk] Xiaomi Stock Drops More Than 5%
-- 10/02 10:34 [FirstSquawk] Taiwan Banks Asked to Reduce Branches Amid Rising Office Rents
-- 10/02 10:36 [FirstSquawk] Vietnam’s Biggest Refinery Has Crude Oil Supplies Secured Through November, Mostly From Kuwait
-- 10/02 10:37 [financialjuice] South Korean President Lee: deeply regrets Ukraine's reaction to North Korean POW repatriation disclosure dispute
-- 10/02 10:38 [financialjuice] South Korean president Lee: will take further actions if Ukraine keeps refusing deal on North Korean POW repatriation
-- 10/02 10:38 [financialjuice] South Korean President Lee urges Ukraine to recognize deal and apologize
-- 10/02 10:39 [FirstSquawk] South Korea’s Lee Voices Grave Regret Over Ukraine’s Reaction to North Korean POW Repatriation Talks Disclosure Dispute
-- 10/02 10:39 [FirstSquawk] South Korean President Lee Says Seoul Will Take Further Measures if Ukraine Continues to Deny POW Repatriation Deal
-- 10/02 10:40 [FirstSquawk] South Korean President Lee Urges Ukraine to Acknowledge Agreement and Apologize
-- 10/02 10:40 [FirstSquawk] South Korea’s Central Bank Sells 91-Day Stabilisation Bonds at 3.170% Yield
 - 10/02 10:48 [FirstSquawk] Oil Gains Ground as Middle East Tensions Mount - WSJ
 - 10/02 10:50 [FirstSquawk] US Deploys Additional Patriot Air Defense Systems to Saudi, Qatari Energy Sites, Axios Reports
 - 10/02 10:56 [FirstSquawk] JGBs Climb Following Gains in US Treasurys - WSJ
@@ -546,3 +535,4 @@
 - 10/03 10:13 [FirstSquawk] One injured by shrapnel from intercepted ballistic missile in Asir, Saudi civil defense says
 - 10/03 10:13 [FirstSquawk] Unplanned flare event reported at Marathon’s Wilmington refinery in California
 - 10/03 10:22 [FirstSquawk] Five killed in Gaza City apartment strike as death toll rises
+- 10/03 10:26 [financialjuice] Japan finance minister katayama: government transparency on forex reserve makeup has limits
