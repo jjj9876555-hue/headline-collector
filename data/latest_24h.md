@@ -7,132 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-04 03:38 JST／対象: 10/03 03:38 〜 10/04 03:38 JST（時刻はすべて日本時間）
+生成: 2026-10-04 11:16 JST／対象: 10/03 11:16 〜 10/04 11:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 6 | 10/03 05:00 | 10/04 00:14 | ⚠ 1126分（05:04→23:51） |
-| FirstSquawk | 259 | 10/03 03:54 | 10/04 03:36 | ⚠ 240分（05:02→09:03） |
-| financialjuice | 89 | 10/03 03:53 | 10/04 02:24 | ⚠ 165分（20:32→23:18） |
+| DeItaone | 3 | 10/03 23:51 | 10/04 00:14 | 21分（23:53→00:14） |
+| FirstSquawk | 223 | 10/03 11:37 | 10/04 11:12 | ⚠ 332分（03:46→09:18） |
+| financialjuice | 54 | 10/03 11:22 | 10/04 10:54 | ⚠ 199分（07:35→10:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 347 行（統合前 355 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 274 行（統合前 280 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/03 03:53 [financialjuice] Brent Crude futures settle at $102.25/bbl, down 6 cents, 0.06%.
-- 10/03 03:54 [FirstSquawk] BRENT CRUDE FUTURES SETTLE AT $102.25/BBL, DOWN 6 CENTS, 0.06 PCT
-- 10/03 03:56 [FirstSquawk] DOJ WILL NOT RESUME CRIMINAL INVESTIGATION INTO POWELL, SAYS BLANCHE.
-- 10/03 03:57 [financialjuice] Attorney General Blanche: The DoJ is satisfied with the Fed IG report, and is not reopening the criminal probe into Powell.
-- 10/03 04:02 [financialjuice] Hackers breached the propulsion system of US-bound oil tanker
-- 10/03 04:04 [FirstSquawk] PETROBRAS CEO: FOZ DO AMAZONAS OIL SOME OF BEST IN BRAZIL
-- 10/03 04:04 [FirstSquawk] OPENAI HIRES TOP TRUMP AI OFFICIAL TO WORK ON NATIONAL SECURITY – THE INFORMATION
-- 10/03 04:04 [FirstSquawk] HACKERS INVADED THE PROPULSION SYSTEM OF AN OIL TANKER HEADING TO THE U.S.
-- 10/03 04:04 [financialjuice] OpenAI hires ex Trump AI official Lind - The Information
-- 10/03 04:06 [FirstSquawk] MORE REGULATORY PROPOSALS FOR CRYPTO ON THE HORIZON: SEC ATKINS
-- 10/03 04:06 [FirstSquawk] FED'S GOOLSBEE SAYS INFLATION GOING WRONG WAY AND STALLED THERE
-- 10/03 04:07 [financialjuice] Fed's Goolsbee: Inflation going the wrong way and stalled there - Fox Business
-- 10/03 04:07 [financialjuice] Council of Economic Advisers Chair Phelan: Inflation is coming down sufficiently fast
-- 10/03 04:08 [financialjuice] Council of Economic Advisers Chair Phelan ends remarks on Bloomberg TV
-- 10/03 04:08 [financialjuice] Fed's Goolsbee: Low progress on services inflation could be a sign of spread
-- 10/03 04:11 [FirstSquawk] GOOLSBEE: LOW PROGRESS ON SERVICES INFL COULD BE SIGN OF SPREAD
-- 10/03 04:14 [financialjuice] US community Bank Organization sues the Office of the Comptroller of the currency over granting trust charters to Crypto firms - Statement
-- 10/03 04:14 [FirstSquawk] BAYER TO INVEST $2.2 BILLION IN NEW US DRUG PLANT IN OHIO
-- 10/03 04:14 [financialjuice] Independent community Bankers of America: Granting charters to such firms exceeds regulatory authority
-- 10/03 04:15 [financialjuice] US to offer $4 billion loan for vistra to boost nuclear output
-- 10/03 04:22 [financialjuice] Monday FX Options Expiries
-- 10/03 04:24 [FirstSquawk] ELI LILLY'S JAYPIRCA GETS FDA OK FOR PREVIOUSLY UNTREATED CLL/SLL
-- 10/03 04:27 [financialjuice] Week Ahead: Economic Indicators 5th – 9th October (US)
-- 10/03 04:31 [financialjuice] CFTC Positions in the Week Ended September 29th, 2026
-- 10/03 04:35 [financialjuice] ECB's Nagel: Possible that the German economy will grow around 1% this year
-- 10/03 04:36 [financialjuice] US Army to create autonomous systems command - Axios citing memo
-- 10/03 04:36 [FirstSquawk] BBK CHIEF NAGEL: POSSIBLE THAT GERMAN ECONOMY WILL GROW AROUND 1% THIS YEAR
-- 10/03 04:39 [FirstSquawk] US ARMY CREATES AUTONOMY COMMAND AMID PUSH FOR SMART MACHINERY - AXIOS
-- 10/03 04:42 [financialjuice] Hedge funds turned short yen in the week ended September 29th - CFTC
-- 10/03 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 1156.7 MLN NASDAQ 100: 394.0 MLN DOW 30: 510.1 MLN MAG 7: 356.0 MLN $MACRO
-- 10/03 04:54 [financialjuice] Oman banned Flydubai attacker from flying for radical views, sources say - WSJ
-- 10/03 04:54 [financialjuice] attacker subsequently allowed to fly a sensitive route to Tel Aviv from Dubai - WSJ
-- 10/03 04:54 [FirstSquawk] US WILL PROVIDE A $4 BILLION LOAN TO VISTRA TO INCREASE NUCLEAR PRODUCTION.
-- 10/03 04:55 [financialjuice] Nature of radicalization couldn't be determined - WSJ
-- 10/03 04:58 [financialjuice] Trump: Iran is not doing well.
-- 10/03 04:59 [FirstSquawk] TRUMP ON SOUTH KOREA INVESTMENT IN US: I DIDN'T JUMP THE GUN ON ALASKA PIPELINE
-- 10/03 04:59 [financialjuice] Trump on South Korea investment in the US: I didn't jump the gun on the Alaska pipeline.
-- 10/03 04:59 [financialjuice] Trump: If South Korea doesn't do the pipeline, will charge them more.
-- 10/03 05:00 [financialjuice] Trump Departs White House - WATCH LIVE
-- 10/03 05:00 [FirstSquawk/DeItaone] TRUMP ON DIESEL: WE'RE NOT GOING TO BE DOING THE EXPORT BAN
-- 10/03 05:00 [financialjuice] Trump on Diesel: Won't do export ban.
-- 10/03 05:00 [financialjuice] Hedge funds turn short UK pound for the first time since 2024 - CFTC.
-- 10/03 05:00 [financialjuice] trump on Diesel: Europe is making a major contribution, so are we
-- 10/03 05:00 [DeItaone] TRUMP ON DIESEL: WE HAVE A VERY GOOD RELATIONSHIP WITH EUROPE
-- 10/03 05:01 [financialjuice] CME Group withdraws filing for 10-barrel oil futures.
-- 10/03 05:01 [FirstSquawk] NASDAQ UNOFFICIALLY CLOSES UP 314.26 POINTS, OR 1.17 PERCENT, AT 27,185.85 S&P 500 UNOFFICIALLY CLOSES UP 57.53 POINTS, OR 0.75 PERCENT, AT 7,723.98 DOW JONES UNOFFICIALLY CLOSES UP 270.94 POINTS, OR 0.53%, AT 51,197.50
-- 10/03 05:01 [financialjuice] Trump: We were never going to do a diesel export ban
-- 10/03 05:02 [financialjuice/DeItaone] Trump on Diesel: Export ban was never really on the table
-- 10/03 05:02 [FirstSquawk] US PRES. TRUMP: IRAN IS NOT DOING WELL
-- 10/03 05:03 [financialjuice] Trump ends comments at the White House
-- 10/03 05:07 [financialjuice] Stocks Rise as Weak Jobs Report Eases Fed Rate-Hike Fears – US Market Wrap
-- 10/03 05:20 [financialjuice] scope affirms US long-term ratings at aa- with stable outlook
-- 10/03 06:32 [financialjuice] Columbia University journalism program pauses admissions after applications fall over US visa rules: sources
-- 10/03 06:41 [financialjuice] North Korea launches unidentified projectile into sea off east coast: South Korea military
-- 10/03 07:01 [financialjuice] North Korean missile seems to have landed beyond Japan's EEZ: NHK
-- 10/03 07:03 [financialjuice] IMF: executive board endorses 36-month extended fund facility for Bolivia
-- 10/03 07:04 [financialjuice] IMF: board greenlit 36-month deal under the EFF for Bolivia, with access to SDR 1.369 billion, or 570% of quota, about $1.9 billion
-- 10/03 07:10 [financialjuice] Saudi civil defense: shrapnel from intercepted ballistic missile in Ahad Rafidah governorate in Asir injures one person - state news agency
-- 10/03 07:23 [financialjuice] OpenAI's Altman: Cerebras is a close partner with deep engagement after partnership speculation
-- 10/03 07:42 [financialjuice] North Korea's projectile was ballistic missile: South Korean military
-- 10/03 07:43 [financialjuice] North Korea launches ballistic missile from Wonsan: South Korean military
-- 10/03 07:43 [financialjuice] South Korean military heightens alert on additional launches: South Korea's defense ministry
-- 10/03 08:16 [financialjuice] Ukmto: incident reported 4 nautical miles east of Oman
-- 10/03 08:17 [financialjuice] UKMTO: master of crude oil tanker reports being hit by unknown projectile on port side
-- 10/03 08:17 [financialjuice] UKMTO: all crew reported safe with no environmental impact so far
-- 10/03 08:20 [financialjuice] David Robinson, leader on OpenAI's safety systems team, resigns from company - Business Insider
-- 10/03 08:23 [financialjuice] South Korea's Blue House: convenes national security council meeting on North Korea missile launch
-- 10/03 09:03 [FirstSquawk] Bayer announces $2.2 billion U.S. pharma manufacturing expansion -WSJ
-- 10/03 09:03 [financialjuice] North Korean missile flew over 700 kilometers: South Korean military
-- 10/03 09:04 [FirstSquawk] Trump: Iran war will end soon, either through deal or military action
-- 10/03 09:04 [FirstSquawk] Trump: Iran’s military capabilities have been eliminated
-- 10/03 09:05 [FirstSquawk] Trump: Current action costs much less than allowing Iran to obtain a nuclear weapon
-- 10/03 09:07 [FirstSquawk] Trump says Iran will never be allowed to obtain a nuclear weapon
-- 10/03 09:07 [FirstSquawk] Trump policy changes expected to increase U.S. household energy bills: Think tank
-- 10/03 09:08 [FirstSquawk] Trump says U.S. exports have hit record levels
-- 10/03 09:09 [FirstSquawk] UKMTO: Crude oil tanker hit by unknown projectile off Oman
-- 10/03 09:13 [FirstSquawk] Trump explains Alabama, Oklahoma and Texas stops ahead of midterms
-- 10/03 09:14 [FirstSquawk] Japan’s TEPCO takes aim at ‘capacity squatters’ in AI data center expansion - NA
-- 10/03 09:15 [FirstSquawk] Iraq: 40 Iranian flights per day cleared to fly to and from Najaf
-- 10/03 09:17 [FirstSquawk] Oil tanker attack off Oman leaves no injuries or environmental damage: UK Maritime Authority
-- 10/03 09:17 [financialjuice] Trump: we're going to soon replenish our strategic oil reserves
-- 10/03 09:19 [FirstSquawk] TSMC affiliate VIS eyes new Singapore plant after first facility fills up instantly
-- 10/03 09:20 [FirstSquawk] 3.North Korea fires ballistic missile, South Korea says
-- 10/03 09:23 [FirstSquawk] Warplanes target Houthi gatherings east of Taiz, Yemeni Armed Forces say
-- 10/03 09:25 [FirstSquawk] Israeli airstrike on residential apartment in Gaza City kills at least 3: Al Arabiya
-- 10/03 09:26 [FirstSquawk] Ukraine to accelerate identification of fallen Ukrainians, Budanov says
-- 10/03 09:38 [FirstSquawk] 3.Palestinian media reports injuries after Israeli airstrike hits Gaza City apartment
-- 10/03 09:39 [FirstSquawk] 4.Saudi Civil Defense reports injury, mosque damage from Houthi missile fragments in Ahad Rafidah
-- 10/03 09:47 [FirstSquawk] Japan sharply raises residency fees, with stricter income and language rules looming
-- 10/03 09:48 [FirstSquawk] Light AI reassessing schedule for U.S. clinical and FDA regulatory activities
-- 10/03 09:48 [FirstSquawk] Trump signals imminent replenishment of U.S. strategic oil reserves
-- 10/03 09:49 [FirstSquawk] South Korean military says North Korean missile traveled over 700 kilometers
-- 10/03 09:50 [FirstSquawk] South Korea convenes National Security Council meeting following North Korean missile launch
-- 10/03 09:51 [FirstSquawk] OpenAI’s David Robinson, a safety systems team leader, has resigned: Business Insider
-- 10/03 09:51 [FirstSquawk] UKMTO says all crew are safe, no environmental impact reported at this time
-- 10/03 09:52 [FirstSquawk] UKMTO: Crude oil tanker hit by unknown projectile on port side, master reports
-- 10/03 09:52 [FirstSquawk] UKMTO: Incident reported off Oman, 4 nautical miles east of the country
-- 10/03 09:53 [FirstSquawk] South Korean military on alert for further launches, defence ministry says
-- 10/03 09:53 [FirstSquawk] South Korea says North Korea fired ballistic missile from Wonsan
-- 10/03 09:54 [FirstSquawk] South Korean military says North Korea’s projectile was a ballistic missile
-- 10/03 10:03 [FirstSquawk] OPenAI’s Altman says company has deep engagement with Cerebras after partnership speculation
-- 10/03 10:04 [FirstSquawk] Vietnam September coffee exports increase 16.2% from a year earlier
-- 10/03 10:06 [financialjuice] Japan finance minister Katayama: US and Japan agree to remain ready for decisive measures against forex volatility
-- 10/03 10:06 [financialjuice] Japan finance minister Katayama: forex trend shifted somewhat since joint currency intervention
-- 10/03 10:11 [financialjuice] Japan finance minister Katayama: Bessent questions if Japan government has been sending consistent messages to markets
-- 10/03 10:13 [FirstSquawk] One injured by shrapnel from intercepted ballistic missile in Asir, Saudi civil defense says
-- 10/03 10:13 [FirstSquawk] Unplanned flare event reported at Marathon’s Wilmington refinery in California
-- 10/03 10:22 [FirstSquawk] Five killed in Gaza City apartment strike as death toll rises
-- 10/03 10:26 [financialjuice] Japan finance minister katayama: government transparency on forex reserve makeup has limits
 - 10/03 11:22 [financialjuice] China commerce ministry launches anti-dumping probe into p-nitrotoluene from EU
 - 10/03 11:37 [FirstSquawk] Bolivia secures $1.9 billion IMF financing package under 36-month EFF
 - 10/03 11:38 [FirstSquawk] Bolivia receives IMF executive board approval for 36-month Extended Fund Facility arrangement
@@ -359,7 +250,7 @@
 - 10/04 02:04 [FirstSquawk] Iranian Presidency: The Secretary of the National Security Council confirmed at a meeting of the Economic Coordination Committee that the current situation is the most difficult.
 - 10/04 02:04 [FirstSquawk] Iranian Presidency: The Secretary of Iran's Supreme National Security Council stressed that the course of negotiations is serious.
 - 10/04 02:04 [FirstSquawk] Israeli airstrike on the town of Mansouri in southern Lebanon
-- 10/04 02:24 [financialjuice] Flights between Iran and Iraq's Najaf to restart on Sunday: Iraqi state news agency
+- 10/04 02:24 [financialjuice/FirstSquawk] Flights between Iran and Iraq's Najaf to restart on Sunday: Iraqi state news agency
 - 10/04 02:33 [FirstSquawk] Head of Iran's Civil Aviation Authority: Flights to Iraq will resume starting tomorrow via Iranian and Iraqi airlines.
 - 10/04 02:33 [FirstSquawk] German Army Ground Forces Commander to Al Jazeera: Russia is launching hybrid attacks on Europe and the threats must be countered with armed forces
 - 10/04 02:33 [FirstSquawk] German Army Ground Forces Commander: Russia is launching hybrid attacks on Europe and the threats must be countered with armed forces
@@ -371,3 +262,39 @@
 - 10/04 03:23 [FirstSquawk] Airbnb unlikely to let AI agents like Muse make bookings, CEO says - Nikkei
 - 10/04 03:23 [FirstSquawk] Iraqi Prime Minister: Today we are a state that makes its own decisions, protects its land and airspace, and where weapons are under the command of the Commander of the Armed Forces.
 - 10/04 03:36 [FirstSquawk] Sirens sound in the Ukrainian capital, warning of a drone attack
+- 10/04 03:53 [financialjuice] No immediate Saudi confirmation of Houthis' claim on attacking Aramco facility in Riyadh
+- 10/04 03:56 [financialjuice] Iraq: shipped 2 million barrels of crude on VLCC past Strait of Hormuz - statement
+- 10/04 03:57 [financialjuice] Iraqi oil tankers company: shipment is first of its kind in decades - statement
+- 10/04 03:59 [financialjuice] Iraq: move aims to give state oil marketer Somo greater sales flexibility
+- 10/04 03:59 [financialjuice] Iraqi oil tankers company: seeking to acquire specialised crude tankers to grow fleet
+- 10/04 06:09 [financialjuice] North Korea conducts intermediate-range strategic missile launch drill on Oct. 3: KCNA
+- 10/04 06:09 [financialjuice] North Korea says missile struck target 1,000 km away in sea off eastern coast
+- 10/04 06:10 [financialjuice] North Korea: Kim Jong Un supervised missile test - KCNA
+- 10/04 06:15 [financialjuice] Yemen's Houthi-run Al Masirah TV reports Saudi strike on Sanaa; no confirmation from Riyadh
+- 10/04 06:16 [financialjuice] US State Dept: rising cross-border tensions between Ethiopia and Eritrea risk impacting entire region
+- 10/04 06:17 [financialjuice] US State Dept: Urges Ethiopia and Eritrea to respect neighbors' sovereignty and territorial integrity
+- 10/04 06:18 [financialjuice] US State Dept: strongly urge Ethiopia and Eritrea to show maximum restraint, resume dialogue and cooperation
+- 10/04 06:34 [financialjuice] Petroecuador declares force majeure at pumping station in Sote pipeline after fire on Oct. 1
+- 10/04 07:28 [financialjuice] New AI group to outline technology risks following public and industry worries: WSJ
+- 10/04 07:28 [financialjuice] White House task force has 120 days to prepare report on AI risks, opportunities and US government's responsibility - WSJ
+- 10/04 07:29 [financialjuice] White House task force has 120 days to prepare report on AI risks, opportunities and US federal responsibility - WSJ
+- 10/04 07:29 [financialjuice] Jay Clayton, head of Office of the Director of National Intelligence, will lead group: making him President Trump’s al czar - WSJ
+- 10/04 07:29 [financialjuice] Jay Clayton, head of Office of the Director of National Intelligence, to chair group, effectively making him President Trump's al czar - WSJ
+- 10/04 07:35 [financialjuice] Petroecuador: working to restart operations at SOTE pipeline within six days - statement
+- 10/04 09:18 [FirstSquawk] AI demand drives TSMC affiliate VIS to plan second Singapore plant
+- 10/04 09:21 [FirstSquawk] Texas woman allegedly kills two sons, then attempts suicide, police say
+- 10/04 09:22 [FirstSquawk] 5.9 magnitude quake hits Sumbawa region in Indonesia
+- 10/04 09:33 [FirstSquawk] Trump: ‘We’re winning too much’
+- 10/04 09:34 [FirstSquawk] Trump: ‘If the Republicans win,’ each of you will have $5,000
+- 10/04 10:43 [FirstSquawk] Japan’s declining child population hits Toys R Us as retailer exits after 35 years
+- 10/04 10:44 [FirstSquawk] Brazil authorities seek vehicle carrying radioactive isotope after theft in São Paulo
+- 10/04 10:47 [FirstSquawk] Trump: Democrats supported policies leading to record-high energy costs
+- 10/04 10:49 [FirstSquawk] China’s Seven Star Crags draws visitors with limestone peaks and ancient cliff inscriptions
+- 10/04 10:50 [FirstSquawk] Indonesia’s wildfire season reaches its most severe level in over a decad
+- 10/04 10:51 [FirstSquawk] Russian drone attack damages Kyiv’s North Bridge and disrupts traffic
+- 10/04 10:54 [financialjuice] Grenada’s government schedules general election for November 5: official gazette
+- 10/04 11:01 [FirstSquawk] Grenada’s general election set for November 5, according to Official Gazette
+- 10/04 11:02 [FirstSquawk] Trump gives ODNI chief Jay Clayton broader role as intelligence czar: WSJ
+- 10/04 11:11 [FirstSquawk] New AI panel to examine technology risks following industry and public worries: WSJ
+- 10/04 11:11 [FirstSquawk] Houthi-run Al Masirah TV reports Saudi strike on Sanaa; Riyadh gives no confirmation
+- 10/04 11:12 [FirstSquawk] Kim Jong Un directs missile test as North Korea showcases military capability: KCNA
