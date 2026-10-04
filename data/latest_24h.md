@@ -7,47 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-04 13:12 JST／対象: 10/03 13:12 〜 10/04 13:12 JST（時刻はすべて日本時間）
+生成: 2026-10-04 15:08 JST／対象: 10/03 15:08 〜 10/04 15:08 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 10/03 23:51 | 10/04 00:14 | 21分（23:53→00:14） |
-| FirstSquawk | 230 | 10/03 13:14 | 10/04 13:12 | ⚠ 332分（03:46→09:18） |
-| financialjuice | 47 | 10/03 13:18 | 10/04 10:54 | ⚠ 199分（07:35→10:54） |
+| FirstSquawk | 235 | 10/03 15:25 | 10/04 14:57 | ⚠ 332分（03:46→09:18） |
+| financialjuice | 47 | 10/03 15:17 | 10/04 13:16 | ⚠ 199分（07:35→10:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 275 行（統合前 280 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 280 行（統合前 285 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/03 13:14 [FirstSquawk] Wealth bosses caution CGT increase could hit equity investment - FT
-- 10/03 13:17 [FirstSquawk] SJP restructures loan scheme amid efforts to reduce customer disruption - FT
-- 10/03 13:18 [financialjuice] Taiwan foreign minister to visit Arizona to strengthen economic relations
-- 10/03 13:18 [FirstSquawk] Taiwan minister to visit Arizona as Taipei seeks stronger economic ties
-- 10/03 13:24 [FirstSquawk] AI misconduct accusations prompt students to seek legal advice - FT
-- 10/03 13:27 [FirstSquawk] Europe’s booming hostel market draws growing private capital - FT
-- 10/03 13:28 [FirstSquawk] Chinese-origin autos surpass Western competitors in quality, tech, Argentina importer says
-- 10/03 13:36 [FirstSquawk] Komeito elects new leader after merger talks with LDP collapse - Kyodo
-- 10/03 13:38 [FirstSquawk] Kazakhstan weighs subsea pipeline, tanker fleet expansion for Trans-Caspian oil route
-- 10/03 13:43 [FirstSquawk] US community bank organization takes OCC to court over crypto trust charters
-- 10/03 13:50 [FirstSquawk] Japan’s entertainment robots evolve with AI, bringing new forms of comfort - Kyodo
-- 10/03 13:55 [FirstSquawk] Eight in 10 Japanese back efforts to preserve handwriting, survey shows
-- 10/03 13:58 [FirstSquawk] Mitsubishi Heavy plans ¥100 billion investment to expand shipbuilding capacity - kyodo
-- 10/03 14:06 [FirstSquawk] Fukushima company leverages nuclear decommissioning know-how to develop AI robots
-- 10/03 14:12 [FirstSquawk] China re-enters top 100 in global gender parity ranking after decade - SCMP
-- 10/03 14:17 [FirstSquawk] Stocks close higher as cooling jobs data dampens rate-hike expectations -RTRS
-- 10/03 14:18 [FirstSquawk] US data center battle provides glimpse of what’s ahead globally - CNBC
-- 10/03 14:24 [FirstSquawk] Tokyo-Beijing tensions push Chinese tourists toward Southeast Asia
-- 10/03 14:30 [FirstSquawk] Chinese banks may follow Ping An with tighter AI rules - SCMP
-- 10/03 14:32 [FirstSquawk] US simulation targets China’s alleged secret nuclear testing activity - SCMP
-- 10/03 14:36 [FirstSquawk] US adds just 29,000 jobs in September, well below expectations - TND
-- 10/03 14:45 [FirstSquawk] China investigates p-nitrotoluene imports from EU in anti-dumping case
-- 10/03 14:51 [FirstSquawk] Russia’s Defense Ministry: Main bridge in Kyiv targeted in strike
-- 10/03 14:58 [FirstSquawk] Malaysia seeks to build new research corridor across Asia as China rises - SCMP
 - 10/03 15:17 [financialjuice] flydubai: circumstances around incident still under investigation, not able to comment further - spokesperson
 - 10/03 15:25 [FirstSquawk] Flydubai spokesperson: The circumstances surrounding the incident are still under investigation
 - 10/03 15:26 [FirstSquawk] Attorney General of the UAE: The final results of the investigations will be announced immediately upon completion of the necessary procedures.
@@ -299,3 +275,32 @@
 - 10/04 13:08 [FirstSquawk] U.S., China announce tariff reductions covering $30 billion of goods from each side, led by consumer imports in the U.S. and agricultural products in China - CNBC
 - 10/04 13:11 [FirstSquawk] Bangkok floods deepen public anger as residents demand stronger government response.
 - 10/04 13:12 [FirstSquawk] Ukraine plans to hit Russian refineries in response to Moscow’s “new doctrine” on airstrikes, CNBC reports.
+- 10/04 13:15 [FirstSquawk] Foreign Businesses in Ukraine Confront Growing Risks Amid Ongoing Russian Strikes – Kyodo
+- 10/04 13:16 [financialjuice] German Chancellor Merz arrives in Kyiv: Ukraine needs all support in coming weeks
+- 10/04 13:17 [FirstSquawk] Japan Could Move Up Decision on Resuming Fresh Potato Imports From US – Kyodo
+- 10/04 13:18 [FirstSquawk] German Chancellor Merz Visits Kyiv, Pledges Strong Support for Ukraine in Coming Weeks
+- 10/04 13:18 [FirstSquawk] Japan Raises Foreign Residency Costs Sharply as Stricter Income and Language Requirements Loom - NA
+- 10/04 13:19 [FirstSquawk] South Korea’s Lee Orders Investigation, Countermeasures Following Data Leaks at Financial, Public Institutions – Blue House
+- 10/04 13:24 [FirstSquawk] Trump Says Ties With North Korea’s Kim Are “Great,” Contrasts Pyongyang With Iran
+- 10/04 13:26 [FirstSquawk] Trump Emphasizes Importance of Good Relations With Nuclear-Armed Nations, Says He Gets Along Great With Kim - YONHAP
+- 10/04 13:27 [FirstSquawk] South Korea Reports 240,000 Hacking Attempts Against Court Network Through August, Nearly 2.4 Times Last Year – Yonhap
+- 10/04 13:37 [FirstSquawk] Kim Jong-un Oversees Hypersonic Missile Launch as North Korea Seeks to Bolster War Deterrence – Yonhap
+- 10/04 13:42 [FirstSquawk] Over 30% of Arrest Warrant Requests Rejected by South Korean Prosecutors This Year - YONHAP
+- 10/04 13:46 [FirstSquawk] US Jobs Growth Slows Sharply in September, Falling Below Expectations – ABC News
+- 10/04 13:50 [FirstSquawk] German Adviser Says Ukraine Can Rely on Germany for Ongoing Assistance
+- 10/04 13:52 [FirstSquawk] Airbnb Not Expected to Allow AI Agents Such as Muse to Make Reservations, CEO Says
+- 10/04 14:02 [FirstSquawk] Stronger Data Governance, Safety Rules Needed in New AI Laws to Build Confidence – SCMP
+- 10/04 14:04 [FirstSquawk] Chinese Travelers Shun Japan for Southeast Asia as Tokyo-Beijing Dispute Continues - NA
+- 10/04 14:06 [FirstSquawk] Hiroshima and Nagasaki Experiences Provide Lessons for Responsible AI Governance - NA
+- 10/04 14:10 [FirstSquawk] Japan’s Ground Self-Defense Force Showcases Long-Range Type-25 Missile System – Kyodo
+- 10/04 14:11 [FirstSquawk] Bosnia Vote Highlights Tension Between EU Integration Hopes and Russian Influence – FT
+- 10/04 14:15 [FirstSquawk] SoftBank’s Balance Sheet Struggles to Keep Pace With Masayoshi Son’s AI Ambitions – FT
+- 10/04 14:16 [FirstSquawk] Ukraine’s Unconventional Robot Offensive Puts a Weak Point in Russia’s War Machine on Display - CNBC
+- 10/04 14:18 [FirstSquawk] Israelis Move Quickly to Get New Settlements Underway Ahead of Election - FT
+- 10/04 14:20 [FirstSquawk] US-Russia Negotiations May Include Potential Multi-Billion-Dollar Lukoil Deal, NYT Reports
+- 10/04 14:22 [FirstSquawk] Google Faces £1.2 Billion UK Legal Challenge Over ‘Excessive’ App Download Charges – FT
+- 10/04 14:24 [FirstSquawk] Nine Ukrainian Drones Targeting Moscow Destroyed, Russia Says
+- 10/04 14:41 [FirstSquawk] Trump’s cost-of-living performance gets approval from just 17% of U.S. adults: AP
+- 10/04 14:42 [FirstSquawk] US Marine detained in Okinawa on suspicion of robbing and murdering Japanese woman - RTRS
+- 10/04 14:47 [FirstSquawk] Vietjet Thailand plans major fleet expansion to 50 aircraft by 2028 as international network grows -NA
+- 10/04 14:57 [FirstSquawk] China steps up bank closures as it seeks to strengthen financial system: FT

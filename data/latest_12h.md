@@ -7,50 +7,29 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-04 13:12 JST／対象: 10/04 01:12 〜 10/04 13:12 JST（時刻はすべて日本時間）
+生成: 2026-10-04 15:08 JST／対象: 10/04 03:08 〜 10/04 15:08 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 90 | 10/04 01:41 | 10/04 13:12 | ⚠ 332分（03:46→09:18） |
-| financialjuice | 23 | 10/04 01:32 | 10/04 10:54 | ⚠ 199分（07:35→10:54） |
+| FirstSquawk | 97 | 10/04 03:21 | 10/04 14:57 | ⚠ 332分（03:46→09:18） |
+| financialjuice | 21 | 10/04 03:53 | 10/04 13:16 | ⚠ 199分（07:35→10:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 110 行（統合前 113 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 118 行（統合前 118 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/04 01:32 [financialjuice/FirstSquawk] India govt: ministry of external affairs summons charge d'affaires of Pakistan high commission
-- 10/04 01:33 [financialjuice/FirstSquawk] India government: India denies accusations about incident in Ferozepur sector, Punjab, along international border on 2 October 2026
-- 10/04 01:41 [FirstSquawk] AFP: Ethiopian federal forces enter the capital of the Tigray region
-- 10/04 02:01 [FirstSquawk] Lebanese News Agency: Israeli airstrikes in two waves targeted the town of Kfar Tebnit in southern Lebanon
-- 10/04 02:02 [FirstSquawk] Lebanese News Agency: Israeli shelling targets the towns of Mansouri and Majdal Zoun in southern Lebanon
-- 10/04 02:02 [FirstSquawk] Lebanese News Agency: Heavy and concentrated Israeli shelling on the outskirts of the towns of Mayfadoun and Zawtar al-Sharqiyah in southern Lebanon
-- 10/04 02:02 [FirstSquawk] Lebanese News Agency: Israeli bombing in the town of Houla, southern Lebanon
-- 10/04 02:02 [FirstSquawk] Lebanese News Agency: Israeli shelling of the town of Khiam in southern Lebanon
-- 10/04 02:03 [FirstSquawk] The Telegraph quotes the British Defense Secretary: The Iranian regime has hostile intentions and poses a threat to our country and our allies.
-- 10/04 02:03 [FirstSquawk] The Telegraph, quoting the UK Defence Secretary: We will consider the appropriate response after reaching definitive conclusions regarding RAF Fairford.
-- 10/04 02:03 [FirstSquawk] The Telegraph, quoting the UK Defence Secretary: The investigation into RAF Fairford is continuing, pursuing several leads, and this is a very serious matter.
-- 10/04 02:04 [FirstSquawk] Jerusalem Governorate: Occupation forces storm the town of Anata, northeast of Jerusalem, and close its entrances in both directions.
-- 10/04 02:04 [FirstSquawk] Iranian Presidency: The Secretary of the National Security Council confirmed at a meeting of the Economic Coordination Committee that the current situation is the most difficult.
-- 10/04 02:04 [FirstSquawk] Iranian Presidency: The Secretary of Iran's Supreme National Security Council stressed that the course of negotiations is serious.
-- 10/04 02:04 [FirstSquawk] Israeli airstrike on the town of Mansouri in southern Lebanon
-- 10/04 02:24 [financialjuice/FirstSquawk] Flights between Iran and Iraq's Najaf to restart on Sunday: Iraqi state news agency
-- 10/04 02:33 [FirstSquawk] Head of Iran's Civil Aviation Authority: Flights to Iraq will resume starting tomorrow via Iranian and Iraqi airlines.
-- 10/04 02:33 [FirstSquawk] German Army Ground Forces Commander to Al Jazeera: Russia is launching hybrid attacks on Europe and the threats must be countered with armed forces
-- 10/04 02:33 [FirstSquawk] German Army Ground Forces Commander: Russia is launching hybrid attacks on Europe and the threats must be countered with armed forces
-- 10/04 02:34 [FirstSquawk] German Army Ground Forces Commander: Europe must confront the Russian threat with forces capable of successfully fighting battles
-- 10/04 02:34 [FirstSquawk] Commander of the German Army Ground Forces: Moscow is working to expand its military capabilities, and we are witnessing this in a tangible way.
-- 10/04 02:34 [FirstSquawk] Tasnim News Agency: Iranian air defenses shot down an enemy drone over Qeshm Island in southern Iran.
 - 10/04 03:21 [FirstSquawk] Temu’s UK sales more than double to $171mn - ft
 - 10/04 03:22 [FirstSquawk] China launches anti-dumping probe into European chemical exports - ft
 - 10/04 03:23 [FirstSquawk] Airbnb unlikely to let AI agents like Muse make bookings, CEO says - Nikkei
 - 10/04 03:23 [FirstSquawk] Iraqi Prime Minister: Today we are a state that makes its own decisions, protects its land and airspace, and where weapons are under the command of the Commander of the Armed Forces.
 - 10/04 03:36 [FirstSquawk] Sirens sound in the Ukrainian capital, warning of a drone attack
+- 10/04 03:46 [FirstSquawk] Flights between Iran and Iraq's Najaf to restart on Sunday - Iraqi state news agency
 - 10/04 03:53 [financialjuice] No immediate Saudi confirmation of Houthis' claim on attacking Aramco facility in Riyadh
 - 10/04 03:56 [financialjuice] Iraq: shipped 2 million barrels of crude on VLCC past Strait of Hormuz - statement
 - 10/04 03:57 [financialjuice] Iraqi oil tankers company: shipment is first of its kind in decades - statement
@@ -134,3 +113,32 @@
 - 10/04 13:08 [FirstSquawk] U.S., China announce tariff reductions covering $30 billion of goods from each side, led by consumer imports in the U.S. and agricultural products in China - CNBC
 - 10/04 13:11 [FirstSquawk] Bangkok floods deepen public anger as residents demand stronger government response.
 - 10/04 13:12 [FirstSquawk] Ukraine plans to hit Russian refineries in response to Moscow’s “new doctrine” on airstrikes, CNBC reports.
+- 10/04 13:15 [FirstSquawk] Foreign Businesses in Ukraine Confront Growing Risks Amid Ongoing Russian Strikes – Kyodo
+- 10/04 13:16 [financialjuice] German Chancellor Merz arrives in Kyiv: Ukraine needs all support in coming weeks
+- 10/04 13:17 [FirstSquawk] Japan Could Move Up Decision on Resuming Fresh Potato Imports From US – Kyodo
+- 10/04 13:18 [FirstSquawk] German Chancellor Merz Visits Kyiv, Pledges Strong Support for Ukraine in Coming Weeks
+- 10/04 13:18 [FirstSquawk] Japan Raises Foreign Residency Costs Sharply as Stricter Income and Language Requirements Loom - NA
+- 10/04 13:19 [FirstSquawk] South Korea’s Lee Orders Investigation, Countermeasures Following Data Leaks at Financial, Public Institutions – Blue House
+- 10/04 13:24 [FirstSquawk] Trump Says Ties With North Korea’s Kim Are “Great,” Contrasts Pyongyang With Iran
+- 10/04 13:26 [FirstSquawk] Trump Emphasizes Importance of Good Relations With Nuclear-Armed Nations, Says He Gets Along Great With Kim - YONHAP
+- 10/04 13:27 [FirstSquawk] South Korea Reports 240,000 Hacking Attempts Against Court Network Through August, Nearly 2.4 Times Last Year – Yonhap
+- 10/04 13:37 [FirstSquawk] Kim Jong-un Oversees Hypersonic Missile Launch as North Korea Seeks to Bolster War Deterrence – Yonhap
+- 10/04 13:42 [FirstSquawk] Over 30% of Arrest Warrant Requests Rejected by South Korean Prosecutors This Year - YONHAP
+- 10/04 13:46 [FirstSquawk] US Jobs Growth Slows Sharply in September, Falling Below Expectations – ABC News
+- 10/04 13:50 [FirstSquawk] German Adviser Says Ukraine Can Rely on Germany for Ongoing Assistance
+- 10/04 13:52 [FirstSquawk] Airbnb Not Expected to Allow AI Agents Such as Muse to Make Reservations, CEO Says
+- 10/04 14:02 [FirstSquawk] Stronger Data Governance, Safety Rules Needed in New AI Laws to Build Confidence – SCMP
+- 10/04 14:04 [FirstSquawk] Chinese Travelers Shun Japan for Southeast Asia as Tokyo-Beijing Dispute Continues - NA
+- 10/04 14:06 [FirstSquawk] Hiroshima and Nagasaki Experiences Provide Lessons for Responsible AI Governance - NA
+- 10/04 14:10 [FirstSquawk] Japan’s Ground Self-Defense Force Showcases Long-Range Type-25 Missile System – Kyodo
+- 10/04 14:11 [FirstSquawk] Bosnia Vote Highlights Tension Between EU Integration Hopes and Russian Influence – FT
+- 10/04 14:15 [FirstSquawk] SoftBank’s Balance Sheet Struggles to Keep Pace With Masayoshi Son’s AI Ambitions – FT
+- 10/04 14:16 [FirstSquawk] Ukraine’s Unconventional Robot Offensive Puts a Weak Point in Russia’s War Machine on Display - CNBC
+- 10/04 14:18 [FirstSquawk] Israelis Move Quickly to Get New Settlements Underway Ahead of Election - FT
+- 10/04 14:20 [FirstSquawk] US-Russia Negotiations May Include Potential Multi-Billion-Dollar Lukoil Deal, NYT Reports
+- 10/04 14:22 [FirstSquawk] Google Faces £1.2 Billion UK Legal Challenge Over ‘Excessive’ App Download Charges – FT
+- 10/04 14:24 [FirstSquawk] Nine Ukrainian Drones Targeting Moscow Destroyed, Russia Says
+- 10/04 14:41 [FirstSquawk] Trump’s cost-of-living performance gets approval from just 17% of U.S. adults: AP
+- 10/04 14:42 [FirstSquawk] US Marine detained in Okinawa on suspicion of robbing and murdering Japanese woman - RTRS
+- 10/04 14:47 [FirstSquawk] Vietjet Thailand plans major fleet expansion to 50 aircraft by 2028 as international network grows -NA
+- 10/04 14:57 [FirstSquawk] China steps up bank closures as it seeks to strengthen financial system: FT
