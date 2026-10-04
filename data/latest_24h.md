@@ -7,106 +7,28 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-04 22:01 JST／対象: 10/03 22:01 〜 10/04 22:01 JST（時刻はすべて日本時間）
+生成: 2026-10-05 03:21 JST／対象: 10/04 03:21 〜 10/05 03:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 6 | 10/03 23:51 | 10/04 20:20 | ⚠ 1120分（00:14→18:55） |
-| FirstSquawk | 221 | 10/03 22:15 | 10/04 21:46 | ⚠ 332分（03:46→09:18） |
-| financialjuice | 57 | 10/03 23:18 | 10/04 21:40 | ⚠ 199分（07:35→10:54） |
+| DeItaone | 6 | 10/04 18:55 | 10/05 02:14 | ⚠ 216分（22:36→02:13） |
+| FirstSquawk | 203 | 10/04 03:22 | 10/05 02:53 | ⚠ 332分（03:46→09:18） |
+| financialjuice | 49 | 10/04 03:53 | 10/05 03:18 | ⚠ 199分（07:35→10:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 281 行（統合前 284 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 254 行（統合前 259 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/03 22:15 [FirstSquawk] OPENAI AI-SAFETY EMPLOYEE DAVID ROBINSON QUIT THE COMPANY, WARNING THAT LEADING AI FIRMS ARE NOT DOING ENOUGH TO MANAGE RISKS AS THE TECHNOLOGY’S CAPABILITIES GROW. ROBINSON SAID AI COMPANIES SHOULD OPERATE MORE LIKE NUCLEAR POWER PLANTS, W…
-- 10/03 22:23 [FirstSquawk] IRAN HALTS TRADING IN SIX OIL REFINERS IRAN SUSPENDED TRADING IN ISFAHAN, BANDAR ABBAS, TEHRAN, TABRIZ, SHIRAZ AND LAVAN REFINERS THROUGH OCT. 14 OVER LATE DISCLOSURE OF MATERIAL INFORMATION. THE SIX HALTS WERE ANNOUNCED WITHIN 16 MINUTES, …
-- 10/03 22:46 [FirstSquawk] Israeli army: We killed two commanders in the Islamic Jihad's missile system in two separate airstrikes on Gaza yesterday
-- 10/03 22:46 [FirstSquawk] Israeli army radio: Assassination attempt on Ali al-Omari, a prominent Hamas leader, in Gaza last night appears to have failed.
-- 10/03 22:46 [FirstSquawk] EXPLOSIONS WERE HEARD OFF IRAN'S QESHM ISLAND - MEHR
-- 10/03 23:06 [FirstSquawk] NORTH KOREA TEST-FIRED AN INTERMEDIATE-RANGE BALLISTIC MISSILE CAPABLE OF LOW-ALTITUDE MANEUVERING, WITH KIM YO JONG CLAIMING IT HAS AI CAPABILITIES THAT COULD COMPLICATE MISSILE INTERCEPTION. THE LAUNCH COMES AMID RISING BORDER TENSIONS AF…
-- 10/03 23:18 [financialjuice] Venezuela September inflation rises 8.4%: central bank
-- 10/03 23:23 [FirstSquawk] Israeli army: 8 soldiers from the 7th Armored Brigade were injured in a traffic accident during military operations in southern Lebanon yesterday.
-- 10/03 23:24 [FirstSquawk] Israeli Army Radio: The assassination attempt against senior Hamas leader Ali al-Amoudi in Gaza last night apparently failed.
-- 10/03 23:24 [FirstSquawk] Yemen News Agency: Government forces have seized control of Sam'a Fort southeast of Taiz following fierce clashes
-- 10/03 23:24 [FirstSquawk] Israeli occupation army patrol has entered the Quneitra countryside towards the town of Kodna and set up a checkpoint.
-- 10/03 23:24 [FirstSquawk] Clashes between Palestinians and settlers in the village of Al-Mughayyir in Ramallah, West Bank
-- 10/03 23:31 [financialjuice] Russia hits cargo vessel in Ukraine's Odesa port: Ifax
-- 10/03 23:39 [FirstSquawk] Interfax: Russian forces targeted a cargo ship in the port of Odessa, Ukraine
-- 10/03 23:40 [FirstSquawk] Lebanese News Agency: The Israeli army carried out a large bombing in the town of Aitaroun and a similar bombing in the town of Tallousa in southern Lebanon.
-- 10/03 23:41 [FirstSquawk] Lebanese Foreign Minister discusses developments in Lebanon and the region with the US Deputy National Security Advisor at the White House.
-- 10/03 23:41 [FirstSquawk] Lebanese Foreign Minister and the US Deputy National Security Advisor discussed the framework agreement and matters related to its implementation, including Israel's withdrawal from the south and the state's monopoly on weapons.
-- 10/03 23:51 [FirstSquawk] UKRAINE’S STEEL OUTPUT COULD FALL TO ZERO IN 2027 IF DAMAGED MILLS REMAIN OFFLINE, WITH PRODUCTION FORECAST TO DROP 39% IN 2026 TO ABOUT 4.3 MILLION TONS AFTER RUSSIAN STRIKES IDLED AROUND 90% OF STEELMAKING CAPACITY.
-- 10/03 23:51 [FirstSquawk] METALLURGICAL EXPORT REVENUES COULD FALL BY $2.5 BILLION IN BOTH 2026 AND 2027, WHILE REPLACING LOST DOMESTIC STEEL WITH IMPORTS MAY COST ANOTHER $1.5 BILLION IN 2027, BRINGING THE POTENTIAL TRADE-BALANCE HIT TO $6.5 BILLION VERSUS 2025.
-- 10/03 23:51 [DeItaone] TRUMP PROMISES $5,000 PAYMENTS IF GOP WINS MIDTERMS President Trump says he would give every adult U.S. citizen $5,000 if Republicans win both the House and Senate in the 2026 midterm elections. Trump said he looks forward to “signing those…
-- 10/03 23:53 [DeItaone] U.S.-RUSSIA UKRAINE TALKS EXPAND TO MULTIBILLION-DOLLAR OIL DEAL Trump administration talks with Russia over ending the Ukraine war have expanded to include a potential multibillion-dollar deal involving Lukoil’s global oil assets, Reuters …
-- 10/03 23:53 [FirstSquawk] Israeli drone strike on the Al-Safatawi area, north of Gaza City
-- 10/04 00:13 [FirstSquawk] KEY SHINYHUNTERS MEMBER DETAINED IN JORDAN, COOPERATING WITH LAW ENFORCEMENT — SOURCES
-- 10/04 00:14 [DeItaone] KEY MEMBER OF SHINYHUNTERS HACKING SQUAD THAT BROKE INTO THE FBI HAS BEEN DETAINED IN JORDAN, SOURCES SAY
-- 10/04 00:36 [financialjuice] Ukrainian shelling damages external power supply equipment at Zaporizhzhia nuclear power plant: station management says situation under control
-- 10/04 00:38 [FirstSquawk] FLYDUBAI CO-PILOT USED THE AIRCRAFT’S EMERGENCY CRASH AX TO ATTACK THE CAPTAIN AND ATTEMPT TO TAKE CONTROL OF THE BOEING 737 MAX 8, UAE AUTHORITIES SAID. THE AX IS A REQUIRED EMERGENCY TOOL ON MANY AIRCRAFT AND IS STORED IN THE COCKPIT.
-- 10/04 00:38 [FirstSquawk] THE INCIDENT IS EXPECTED TO RAISE FURTHER SECURITY QUESTIONS OVER INTERNAL THREATS, AS COCKPIT AXES ARE READILY ACCESSIBLE TO PILOTS DESPITE STRICT SCREENING MEASURES FOR OTHER WEAPONS.
-- 10/04 00:48 [FirstSquawk] US Secretary of Defense: The amount of oil passing through the Strait of Hormuz today exceeds what it was before the outbreak of the conflict.
-- 10/04 00:48 [FirstSquawk] New York Times, citing officials: Military leaders had received warnings of an Iranian- backed attack on RAF Fairford in Britain
-- 10/04 00:49 [FirstSquawk] New York Times, citing officials: The plot to attack Camp Fairford was uncovered after intercepted communications and other intelligence
-- 10/04 00:49 [FirstSquawk] New York Times, citing a US official: Israel warned Germany of risks to US bases, specifically Spangdalm and Ramstein bases.
-- 10/04 00:49 [FirstSquawk] New York Times, citing officials: US military leaders received a warning of an Iranian attack on RAF Fairford in Britain
-- 10/04 00:49 [FirstSquawk] TRUMP SAYS ARKANSAS SENATOR TOM COTTON, 'A FRIEND OF MINE', IS 'HOLDING UP A VERY IMPORTANT BILL' CALLED THE 'SUNSHINE PROTECTION ACT', WHICH WOULD END CHANGING CLOCKS TWICE A YEAR, SAYING IT 'SHOULD PASS OVERWHELMINGLY, IN A BIPARTISAN FAS…
-- 10/04 00:49 [FirstSquawk] TRUMP SAYS 'HAVING SUNSHINE IN THE AFTERNOON IS BETTER THAN EARLY IN THE MORNING', CITING THE PGA TOUR, GOLFERS, TENNIS PLAYERS, HUNTERS AND FARMERS WHO WANT MORE DAYLIGHT, AND POINTING TO A LETTER FROM PGA TOUR CEO BRIAN ROLAPP, SAYING '65…
-- 10/04 00:49 [FirstSquawk] TRUMP SAYS ALMOST EVERYBODY WANTS THE ACT TO PASS 'EXCEPT FOR TOM COTTON', CALLING IT A POTENTIAL 'GREAT BIPARTISAN WIN', NOTING IT PASSED THE HOUSE BY A VOTE OF 308 TO 117 AND DEMANDING THE SENATE 'VOTE, NOW'. - TRUTH SOCIAL
-- 10/04 00:50 [FirstSquawk] New York Times, citing US officials: The plot to attack Camp Fairford was uncovered after intercepted communications and other information
-- 10/04 00:50 [FirstSquawk] U.S. DEFENSE SECRETARY PETE HEGSETH, USING HIS REPETITIVE 'SEND ME' REFRAIN, SAYS 'SEND ME TO FIGHT THE REDCOATS. SEND ME TO FIGHT THE COMMUNISTS. SEND ME TO FIGHT THE NAZIS. SEND ME TO FIGHT THE ISLAMISTS'.
-- 10/04 00:50 [FirstSquawk] U.S. DEFENSE SECRETARY PETE HEGSETH SAYS ON IRAN THAT 'MORE OIL IS GOING THROUGH THE STRAIT OF HORMUZ TODAY THAN BEFORE THE CONFLICT EVEN STARTED, BECAUSE INCREDIBLE PILOTS CONTROL THE AIRSPACE', AND THAT WHILE THERE WAS 'A LOT OF INTENTION…
-- 10/04 00:50 [FirstSquawk] U.S. DEFENSE SECRETARY PETE HEGSETH SAYS 'WE JUST LAUNCHED THE OFFICE OF RELIGIOUS AFFAIRS' AND WILL 'ELEVATE THE CHAPLAIN CORPS', ADDING THAT HE BELIEVES 'SPIRITUAL FITNESS IS JUST AS IMPORTANT AS PHYSICAL FITNESS'.
-- 10/04 00:50 [FirstSquawk] Zaporizhzhia Nuclear Power Plant Management: Ukrainian Shelling Damages External Power Supply Equipment and the Situation Is Under Control
-- 10/04 00:51 [FirstSquawk] UKRAINE'S ZELENSKY SAYS THAT 'OVER THE PAST 24 HOURS, OUR LONG-RANGE CAPABILITIES EFFECTIVELY STRUCK TARGETS SERVING THE AGGRESSOR'S WAR MACHINE'.
-- 10/04 00:51 [FirstSquawk] UKRAINE'S ZELENSKY SAYS 'OUR SANCTIONS REACHED THE SAMARA REGION, AS WELL AS THE POSITIONS OF OCCUPIERS OPERATING ISKANDER MISSILE SYSTEMS IN THE BRYANSK REGION', ADDING THAT THERE ARE 'NEW RESULTS IN THE BLACK SEA'.
-- 10/04 00:55 [FirstSquawk] RUSSIAN ATTACKS ACROSS UKRAINE KILLED AT LEAST SIX PEOPLE AND DAMAGED KYIV’S NORTHERN BRIDGE, FORCING A TRAFFIC SUSPENSION; MOSCOW SAID IT WOULD CONTINUE “MASS RETALIATORY STRIKES” ON KYIV AND OTHER UKRAINIAN CITIES.
-- 10/04 00:55 [FirstSquawk] MOLDOVAN PRESIDENT MAIA SANDU SAID THE WAR IS “DANGEROUSLY REACHING” MOLDOVA AFTER FIVE RUSSIAN AIR ATTACK WEAPONS REPORTEDLY VIOLATED ITS AIRSPACE, WHILE FRESH STRIKES IN KHARKIV AND ODESA ALSO CAUSED DEATHS AND INJURIES.
-- 10/04 01:00 [financialjuice] President Zelenskiy: Ukraine will respond to intensified Russian strikes, targeting oil refineries
-- 10/04 01:00 [financialjuice] Zelenskiy: Russia's strikes on Ukrainian cities occur as Moscow fails to meet battlefield objectives
-- 10/04 01:00 [financialjuice] Zelenskiy: Russia's hybrid attacks on Europe aim to split, cut backing for Ukraine
-- 10/04 01:00 [financialjuice] Zelenskiy: Ukraine heavily depends on aviation to shoot down jet-powered Russian drones, requires 20 mm ammunition
-- 10/04 01:00 [financialjuice] Zelenskiy: Ukraine will not strike civilian Russian targets, source says in interview
-- 10/04 01:00 [financialjuice] Zelenskiy: Ukraine stabilised situation on eastern Donetsk front, operation Vivaldi successful and ongoing
-- 10/04 01:00 [financialjuice] Zelenskiy says Ukraine’s domestically made FP-9 ballistic missile expected by autumn
-- 10/04 01:01 [FirstSquawk] UKRAINE'S ZELENSKIY SAYS THAT UKRAINE WILL NOT ATTACK CIVILIAN RUSSIAN TARGETS, BUT WILL RESPOND TO INTENSIFIED RUSSIAN STRIKES BY TARGETING OIL REFINERIES, SAYING RUSSIA'S STRIKES ON UKRAINIAN CITIES COME AT A TIME WHEN MOSCOW CANNOT ACHIE…
-- 10/04 01:02 [FirstSquawk] UKRAINE'S ZELENSKIY SAYS UKRAINE HEAVILY RELIES ON ITS AVIATION TO DOWN JET-POWERED RUSSIAN DRONES AND NEEDS 20MM AMMUNITION, ADDING THAT HE EXPECTS UKRAINE'S DOMESTICALLY PRODUCED FP-9 BALLISTIC MISSILE TO BE READY IN AUTUMN.
-- 10/04 01:02 [FirstSquawk] UKRAINE'S ZELENSKIY SAYS UKRAINE HAS STABILISED THE SITUATION ON THE EASTERN DONETSK FRONT, WITH OPERATION 'VIVALDI' SUCCESSFUL AND STILL UNDERWAY, AND THAT RUSSIA'S HYBRID ATTACKS ON EUROPE AIM TO DIVIDE AND REDUCE SUPPORT FOR UKRAINE.
-- 10/04 01:04 [FirstSquawk] IRAN FACES SEVERE ECONOMIC PRESSURE, WITH INFLATION NEARING 90% AND THE RIAL DOWN ABOUT 25% AGAINST THE DOLLAR IN TWO MONTHS, WHILE BLOOMBERG ESTIMATES NO CRUDE WAS SHIPPED BY TANKER IN SEPTEMBER.
-- 10/04 01:04 [FirstSquawk] US MILITARY PRESENCE IS EXPANDING WITH THE USS THEODORE ROOSEVELT AND ABOUT 10,000 ADDITIONAL SAILORS AND MARINES HEADING TO THE REGION, AS DIPLOMATIC EFFORTS REMAIN STALLED AND OIL FLOWS THROUGH THE STRAIT OF HORMUZ RECOVER TOWARD PREWAR L…
-- 10/04 01:32 [financialjuice/FirstSquawk] India govt: ministry of external affairs summons charge d'affaires of Pakistan high commission
-- 10/04 01:33 [financialjuice/FirstSquawk] India government: India denies accusations about incident in Ferozepur sector, Punjab, along international border on 2 October 2026
-- 10/04 01:41 [FirstSquawk] AFP: Ethiopian federal forces enter the capital of the Tigray region
-- 10/04 02:01 [FirstSquawk] Lebanese News Agency: Israeli airstrikes in two waves targeted the town of Kfar Tebnit in southern Lebanon
-- 10/04 02:02 [FirstSquawk] Lebanese News Agency: Israeli shelling targets the towns of Mansouri and Majdal Zoun in southern Lebanon
-- 10/04 02:02 [FirstSquawk] Lebanese News Agency: Heavy and concentrated Israeli shelling on the outskirts of the towns of Mayfadoun and Zawtar al-Sharqiyah in southern Lebanon
-- 10/04 02:02 [FirstSquawk] Lebanese News Agency: Israeli bombing in the town of Houla, southern Lebanon
-- 10/04 02:02 [FirstSquawk] Lebanese News Agency: Israeli shelling of the town of Khiam in southern Lebanon
-- 10/04 02:03 [FirstSquawk] The Telegraph quotes the British Defense Secretary: The Iranian regime has hostile intentions and poses a threat to our country and our allies.
-- 10/04 02:03 [FirstSquawk] The Telegraph, quoting the UK Defence Secretary: We will consider the appropriate response after reaching definitive conclusions regarding RAF Fairford.
-- 10/04 02:03 [FirstSquawk] The Telegraph, quoting the UK Defence Secretary: The investigation into RAF Fairford is continuing, pursuing several leads, and this is a very serious matter.
-- 10/04 02:04 [FirstSquawk] Jerusalem Governorate: Occupation forces storm the town of Anata, northeast of Jerusalem, and close its entrances in both directions.
-- 10/04 02:04 [FirstSquawk] Iranian Presidency: The Secretary of the National Security Council confirmed at a meeting of the Economic Coordination Committee that the current situation is the most difficult.
-- 10/04 02:04 [FirstSquawk] Iranian Presidency: The Secretary of Iran's Supreme National Security Council stressed that the course of negotiations is serious.
-- 10/04 02:04 [FirstSquawk] Israeli airstrike on the town of Mansouri in southern Lebanon
-- 10/04 02:24 [financialjuice/FirstSquawk] Flights between Iran and Iraq's Najaf to restart on Sunday: Iraqi state news agency
-- 10/04 02:33 [FirstSquawk] Head of Iran's Civil Aviation Authority: Flights to Iraq will resume starting tomorrow via Iranian and Iraqi airlines.
-- 10/04 02:33 [FirstSquawk] German Army Ground Forces Commander to Al Jazeera: Russia is launching hybrid attacks on Europe and the threats must be countered with armed forces
-- 10/04 02:33 [FirstSquawk] German Army Ground Forces Commander: Russia is launching hybrid attacks on Europe and the threats must be countered with armed forces
-- 10/04 02:34 [FirstSquawk] German Army Ground Forces Commander: Europe must confront the Russian threat with forces capable of successfully fighting battles
-- 10/04 02:34 [FirstSquawk] Commander of the German Army Ground Forces: Moscow is working to expand its military capabilities, and we are witnessing this in a tangible way.
-- 10/04 02:34 [FirstSquawk] Tasnim News Agency: Iranian air defenses shot down an enemy drone over Qeshm Island in southern Iran.
-- 10/04 03:21 [FirstSquawk] Temu’s UK sales more than double to $171mn - ft
 - 10/04 03:22 [FirstSquawk] China launches anti-dumping probe into European chemical exports - ft
 - 10/04 03:23 [FirstSquawk] Airbnb unlikely to let AI agents like Muse make bookings, CEO says - Nikkei
 - 10/04 03:23 [FirstSquawk] Iraqi Prime Minister: Today we are a state that makes its own decisions, protects its land and airspace, and where weapons are under the command of the Commander of the Armed Forces.
 - 10/04 03:36 [FirstSquawk] Sirens sound in the Ukrainian capital, warning of a drone attack
+- 10/04 03:46 [FirstSquawk] Flights between Iran and Iraq's Najaf to restart on Sunday - Iraqi state news agency
 - 10/04 03:53 [financialjuice] No immediate Saudi confirmation of Houthis' claim on attacking Aramco facility in Riyadh
 - 10/04 03:56 [financialjuice] Iraq: shipped 2 million barrels of crude on VLCC past Strait of Hormuz - statement
 - 10/04 03:57 [financialjuice] Iraqi oil tankers company: shipment is first of its kind in decades - statement
@@ -294,8 +216,8 @@
 - 10/04 21:00 [financialjuice] Germany's Chancellor Merz: preparing winter energy support package of about 350 million euros for Ukraine
 - 10/04 21:05 [financialjuice] Head of Yemen's presidential leadership council al-Alimi: military operations have started to reclaim remaining Houthi-held territory
 - 10/04 21:24 [financialjuice] Trump: John Coale named as new special presidential envoy for hostage affairs
-- 10/04 21:37 [financialjuice] Russia's deputy PM Novak: JMMC observed significant fluctuations in global oil markets, citing a supply shortfall
-- 10/04 21:40 [financialjuice] Russia's Deputy PM Novak: russia and Saudi Arabia to discuss oil market and 2026-2027 outlook on October 12 in Riyadh
+- 10/04 21:37 [financialjuice/FirstSquawk] Russia's deputy PM Novak: JMMC observed significant fluctuations in global oil markets, citing a supply shortfall
+- 10/04 21:40 [financialjuice/FirstSquawk] Russia's Deputy PM Novak: russia and Saudi Arabia to discuss oil market and 2026-2027 outlook on October 12 in Riyadh
 - 10/04 21:44 [FirstSquawk] Zelensky: Putin wants to weaken Ukraine's ability to resist as much as possible.
 - 10/04 21:45 [FirstSquawk] Zelensky: I am shocked by Russia's "brutal" desire to escalate the situation day after day
 - 10/04 21:45 [FirstSquawk] Zelensky: Ukraine and Germany are doing everything they can to ensure Europe's participation in the diplomatic process to end the war.
@@ -305,3 +227,54 @@
 - 10/04 21:45 [FirstSquawk] Mertz: We are preparing an energy aid package for Ukraine for the winter worth approximately 350 million euros.
 - 10/04 21:46 [FirstSquawk] Mertz: Russia aims to break the morale of the Ukrainians
 - 10/04 21:46 [FirstSquawk] Trump announces the formation of a "super-intelligence force" to coordinate US government efforts and ensure Washington's leadership in this field.
+- 10/04 22:03 [financialjuice/FirstSquawk] Yemen's Houthis: Attack on Saudi Aramco sites in Riyadh and Khurais with ballistic missiles and drones causes major fires
+- 10/04 22:14 [financialjuice/FirstSquawk] no immediate Saudi confirmation of Houthi claim
+- 10/04 22:36 [DeItaone] TRUMP CREATES “SUPER INTELLIGENCE FORCE” President Trump announced the formation of a new Super Intelligence Force, led by Jay Clayton, Andrew Ferguson, Emil Michael and Scott Kupor. The group will coordinate federal engagement with AI comp…
+- 10/04 22:46 [financialjuice] Ukraine, Germany discuss LNG supply through German infrastructure, involving EU firms in cooperation with Kyiv's gas storage facilities
+- 10/04 22:47 [FirstSquawk] Iranian Deputy Foreign Minister: We are studying the American response to our proposal and remain prepared for all scenarios.
+- 10/04 22:47 [FirstSquawk] Explosions heard in the Ukrainian capital, Kyiv, after a drone attack warning was issued.
+- 10/04 23:09 [FirstSquawk] Russian Ministry of Defense: We targeted the northern bridge in Kyiv, which is used to transport Ukrainian troops and military supplies.
+- 10/04 23:10 [FirstSquawk] | Russian Ministry of Defense: We bombed two cargo ships carrying Ukrainian military equipment off the port of Odessa in the Black Sea
+- 10/04 23:58 [FirstSquawk] Syrian Foreign Ministry: We condemn the ongoing violations by the Israeli occupation in Syrian territory.
+- 10/04 23:59 [FirstSquawk] Syrian Foreign Ministry: The continued aggressive approach of the Israeli occupation poses a direct threat to regional security and stability.
+- 10/04 23:59 [FirstSquawk] Syrian Foreign Ministry: We affirm our commitment to our legitimate right to exercise full sovereignty over all our territories.
+- 10/04 23:59 [FirstSquawk] Axios, citing a US official: Central Command seriously objected to launching strikes in Yemen because it could divert attention from Iran
+- 10/05 00:00 [FirstSquawk] Axios, citing a US official: We will not take any military action in Yemen at this time, but that could change.
+- 10/05 00:38 [FirstSquawk] Statement from the military spokesperson for the Yemeni government forces: We announce the start of the battle to liberate and restore institutions and end the coup.
+- 10/05 00:39 [FirstSquawk] Statement from the military spokesperson for the Yemeni government forces: The battle is a bridge to restoring our country to its Arab fold and strategic depth.
+- 10/05 00:39 [FirstSquawk] Statement from the military spokesperson for the Yemeni government forces: We call on the fighters in the terrorist Houthi militia to lay down their weapons.
+- 10/05 00:39 [FirstSquawk] Statement from the military spokesperson for the Yemeni government forces: We appreciate the position of our brothers in the Coalition to Support Legitimacy, which serves the interests of our country.
+- 10/05 00:39 [FirstSquawk] Statement from the military spokesperson for the Yemeni government forces: We are steadily advancing towards the strongholds of the Houthi terrorist rebels.
+- 10/05 00:40 [FirstSquawk] US Energy Secretary to CBS: Increased supplies through the Strait of Hormuz have continued to rise in recent weeks
+- 10/05 00:40 [FirstSquawk] Russian authorities in Donetsk: More than 170,000 subscribers have a complete power outage due to Ukrainian attacks
+- 10/05 00:40 [FirstSquawk] US Energy Secretary to CBS: China's decision to halt diesel and gasoline exports is impacting markets
+- 10/05 00:40 [FirstSquawk] US Energy Secretary to CBS: President Trump is continuing diplomatic and military pressure on Iran simultaneously
+- 10/05 00:46 [FirstSquawk] US Energy Secretary to CBS: Europe has large diesel stockpiles, some of which could be released to lower global prices
+- 10/05 00:46 [FirstSquawk] Yemeni Prime Minister: Our goal remains steadfast in extending state authority over all of Yemen and ending the Iranian-backed Houthi coup.
+- 10/05 00:46 [FirstSquawk] Yemeni Prime Minister: We are dealing with the latest developments with a high degree of responsibility to pave the way for the recapture of Sanaa and end the suffering of the Yemeni people.
+- 10/05 01:14 [FirstSquawk] Netanyahu: Our enemies want to threaten our ports and our maritime domain in the Mediterranean Sea, and we will not allow that to happen.
+- 10/05 01:14 [FirstSquawk] President of the UAE and the Prime Minister of Italy discuss cooperation relations and regional developments in a phone call.
+- 10/05 01:15 [FirstSquawk] President of the UAE and the Prime Minister of Italy discuss regional developments and efforts to consolidate security and stability in the region.
+- 10/05 01:15 [FirstSquawk] Israeli news site Walla, citing security sources: The US military is currently deploying about 3,000 soldiers in Israel
+- 10/05 01:15 [FirstSquawk] Walla News: The tasks of American soldiers in Israel include air defense systems, pilots, support teams, and logistics
+- 10/05 01:15 [FirstSquawk] Walla News: US forces and aircraft will be reinforced in Israel in the coming weeks in preparation for a possible escalation in the region.
+- 10/05 01:15 [FirstSquawk] Jordanian Foreign Ministry condemns Israel's resumption of violations in Quneitra, southwestern Syria.
+- 10/05 01:28 [FirstSquawk] AFP: More than 70 killed in clashes between Yemeni government forces and Houthi rebels in Taiz province in 24 hours
+- 10/05 02:06 [financialjuice] Iran oil minister steps down: state media
+- 10/05 02:11 [FirstSquawk] Israeli army: Today in an airstrike on Khan Younis, we killed a member of Hamas' elite unit.
+- 10/05 02:11 [FirstSquawk] Israeli airstrike on the town of Haddatha in the Bint Jbeil district of southern Lebanon
+- 10/05 02:12 [FirstSquawk] Iranian official media: Resignation of the Iranian Oil Minister
+- 10/05 02:13 [DeItaone] IRAN'S OIL MINISTER RESIGNS - STATE MEDIA
+- 10/05 02:14 [DeItaone] MUSK TO RENAME SPACEXAI AS “SPACEXSI” Elon Musk says he will rename SpaceXAI to SpaceXSI, adopting President Trump’s push to replace “artificial intelligence” with “super intelligence.” Musk confirmed the change on X, saying “Yes, we will m…
+- 10/05 02:33 [FirstSquawk] GERMAN PRESIDENT FRANK-WALTER STEINMEIER SAYS 'WE TOOK IN IMMIGRANTS WHO HELPED BUILD OUR COUNTRY AND TIED THEIR FATE TO OURS', ADDING THAT 'GERMANY IS THEIR HOMELAND'.
+- 10/05 02:34 [FirstSquawk] GERMAN PRESIDENT FRANK-WALTER STEINMEIER SAYS THAT 'EVEN MORE THAN 80 YEARS AFTER LIBERATION FROM THE NATIONAL SOCIALIST REGIME, HISTORICAL IGNORANCE WILL NOT BE FORGIVEN', WARNING THAT 'A NEW GERMAN NATIONALISM AWAKENS THE GHOSTS OF THE PA…
+- 10/05 02:34 [FirstSquawk] GERMAN PRESIDENT FRANK-WALTER STEINMEIER SAYS 'WE MUST ASK OURSELVES, WITHOUT SPARING OURSELVES, WHAT GOVERNMENTS AT THE FEDERAL AND STATE LEVELS HAVE FAILED TO DO OVER THE PAST THREE AND A HALF DECADES IF SO MANY PEOPLE ARE TURNING AWAY AN…
+- 10/05 02:34 [FirstSquawk] GERMAN PRESIDENT FRANK-WALTER STEINMEIER SAYS 'THERE MUST BE SELF-CRITICISM AND REFLECTION', BUT THAT 'THE MINDLESS DENIGRATION OF THE FEDERAL REPUBLIC, OF THE REUNIFIED DEMOCRATIC STATE, IS A PROPAGANDA LIE OF EXTREMISM'.
+- 10/05 02:34 [FirstSquawk] GERMAN PRESIDENT FRANK-WALTER STEINMEIER SAYS GERMANY 'DESERVES THE PRIDE OF REFUSING TO ACCEPT THAT — NEITHER FROM FOREIGN POWERS THAT WANT TO DIVIDE AND WEAKEN US NOR FROM EXTREMISTS AT HOME WHO RIDICULE OUR DEMOCRACY'.
+- 10/05 02:34 [FirstSquawk] GERMAN PRESIDENT FRANK-WALTER STEINMEIER SAYS 'THE DISCREDITING OF DEMOCRATIC PROCEDURES, THE RADICALIZATION OF THE PUBLIC SPHERE AND THE DENIGRATION OF COMPROMISE' MUST ALL BE 'A WARNING', ADDING THAT WHETHER 'THE BERLIN REPUBLIC BECOMES M…
+- 10/05 02:53 [FirstSquawk] UKRAINE'S ZELENSKY SAYS 'GERMANY IS NOT ONLY HELPING UKRAINE — WE ARE HELPING EACH OTHER', NOTING THE TWO 'ARE ALREADY JOINTLY PRODUCING DRONES' AND THAT UKRAINE 'WILL PURCHASE MORE WEAPONS AND EQUIPMENT IN GERMANY', WITH WORK BEGUN ON CREA…
+- 10/05 02:53 [FirstSquawk] UKRAINE'S ZELENSKY SAYS ON RUSSIA THAT 'THEIR MASS ATTACKS WILL INCREASINGLY SHIFT FROM QUANTITY TO QUALITY — REDUCING THE PROPORTION OF CONVENTIONAL SHAHEDS AND INCREASING THE PERCENTAGE OF JET-POWERED ONES AS MUCH AS POSSIBLE'.
+- 10/05 02:53 [FirstSquawk] UKRAINE'S ZELENSKY SAYS CUTTING OFF BRIDGES IS 'TERRORISM' AND 'AN ATTEMPT TO CUT THE LEFT BANK OFF FROM THE RIGHT BANK', ARGUING RUSSIA WANTS 'OUR PEOPLE TO LEAVE THE BIG CITIES, FIRST AND FOREMOST THE CAPITAL, AND TO CREATE CHAOS IN THE O…
+- 10/05 02:53 [FirstSquawk] GERMANY'S CHANCELLOR MERZ SAYS IN KYIV THAT 'DESPITE THE THREATS FROM MOSCOW IN RECENT DAYS, I CAME ANYWAY' — TOGETHER WITH A COLLEAGUE FROM THE GERMAN GOVERNMENT AND A LARGE BUSINESS DELEGATION — SAYING THIS 'DEMONSTRATES THAT WE WILL NOT …
+- 10/05 02:53 [FirstSquawk] GERMANY'S CHANCELLOR MERZ SAYS 'THE RUSSIAN ECONOMY CANNOT WAGE THIS WAR INDEFINITELY', ARGUING IT 'HAS ALREADY REACHED ITS PAIN THRESHOLD', CITING '7% INFLATION, A 14% CENTRAL-BANK RATE, FALLING OIL AND GAS REVENUES AND AN INCREASINGLY LAR…
+- 10/05 03:18 [financialjuice] One leftist, two nationalist contenders lead election for Bosnia's inter-ethnic tripartite presidency, partial preliminary results show
