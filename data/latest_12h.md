@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-05 06:17 JST／対象: 10/04 18:17 〜 10/05 06:17 JST（時刻はすべて日本時間）
+生成: 2026-10-05 06:45 JST／対象: 10/04 18:45 〜 10/05 06:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 6 | 10/04 18:55 | 10/05 02:14 | ⚠ 216分（22:36→02:13） |
-| FirstSquawk | 92 | 10/04 18:40 | 10/05 05:36 | ⚠ 96分（03:59→05:36） |
-| financialjuice | 25 | 10/04 18:38 | 10/05 05:17 | ⚠ 199分（22:46→02:06） |
+| FirstSquawk | 85 | 10/04 19:12 | 10/05 05:36 | ⚠ 96分（03:59→05:36） |
+| financialjuice | 24 | 10/04 18:54 | 10/05 05:17 | ⚠ 199分（22:46→02:06） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 117 行（統合前 124 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 109 行（統合前 116 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/04 18:38 [financialjuice] Fire erupts at enterprise in Russia's Krasnodar region after drone debris falls; three hurt, authorities say
-- 10/04 18:40 [FirstSquawk] Iranian Foreign Ministry Spokesperson: Tehran has already responded to the American proposal.
-- 10/04 18:41 [FirstSquawk] Iranian Foreign Ministry Spokesperson: The issue of the return of IAEA inspectors was not discussed.
-- 10/04 18:41 [FirstSquawk] Iran: The American proposal is similar to previous proposals and focuses on the nuclear issue, while we want to focus on "Hormuz".
-- 10/04 18:41 [FirstSquawk] Fighting intensifies southwest of Taiz, and the road linking Taiz to Lahj and Aden is cut off.
-- 10/04 18:42 [FirstSquawk] Houthi media: Airstrikes target areas in Al-Jawf Governorate, northeastern Yemen
-- 10/04 18:42 [FirstSquawk] Kremlin: Expert-level contacts with US representatives are ongoing.
-- 10/04 18:42 [FirstSquawk] Kremlin: Ukraine is no closer to negotiations with Russia, while Europe continues to obstruct the resumption of the negotiation process.
 - 10/04 18:54 [financialjuice] Russia to ramp up strikes on Kyiv and other Ukraine regions following Zelenskiy remarks: Tass cites Russia defence ministry
 - 10/04 18:55 [DeItaone] RUSSIA WILL INTENSIFY STRIKES ON KYIV AND OTHER REGIONS OF UKRAINE FOLLOWING LATEST ZELENSKIY REMARKS - TASS CITES RUSSIA DEFENCE MINISTRY
 - 10/04 19:07 [financialjuice] Iran’s army spokesperson: After war with US, Tehran plans to enhance missile range - Fars News

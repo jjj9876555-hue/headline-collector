@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-05 06:17 JST／対象: 10/05 00:17 〜 10/05 06:17 JST（時刻はすべて日本時間）
+生成: 2026-10-05 06:45 JST／対象: 10/05 00:45 〜 10/05 06:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 10/05 02:13 | 10/05 02:14 | 1分（02:13→02:14） |
-| FirstSquawk | 43 | 10/05 00:38 | 10/05 05:36 | ⚠ 96分（03:59→05:36） |
+| FirstSquawk | 34 | 10/05 00:46 | 10/05 05:36 | ⚠ 96分（03:59→05:36） |
 | financialjuice | 7 | 10/05 02:06 | 10/05 05:17 | ⚠ 72分（02:06→03:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 50 行（統合前 52 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 41 行（統合前 43 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 00:38 [FirstSquawk] Statement from the military spokesperson for the Yemeni government forces: We announce the start of the battle to liberate and restore institutions and end the coup.
-- 10/05 00:39 [FirstSquawk] Statement from the military spokesperson for the Yemeni government forces: The battle is a bridge to restoring our country to its Arab fold and strategic depth.
-- 10/05 00:39 [FirstSquawk] Statement from the military spokesperson for the Yemeni government forces: We call on the fighters in the terrorist Houthi militia to lay down their weapons.
-- 10/05 00:39 [FirstSquawk] Statement from the military spokesperson for the Yemeni government forces: We appreciate the position of our brothers in the Coalition to Support Legitimacy, which serves the interests of our country.
-- 10/05 00:39 [FirstSquawk] Statement from the military spokesperson for the Yemeni government forces: We are steadily advancing towards the strongholds of the Houthi terrorist rebels.
-- 10/05 00:40 [FirstSquawk] US Energy Secretary to CBS: Increased supplies through the Strait of Hormuz have continued to rise in recent weeks
-- 10/05 00:40 [FirstSquawk] Russian authorities in Donetsk: More than 170,000 subscribers have a complete power outage due to Ukrainian attacks
-- 10/05 00:40 [FirstSquawk] US Energy Secretary to CBS: China's decision to halt diesel and gasoline exports is impacting markets
-- 10/05 00:40 [FirstSquawk] US Energy Secretary to CBS: President Trump is continuing diplomatic and military pressure on Iran simultaneously
 - 10/05 00:46 [FirstSquawk] US Energy Secretary to CBS: Europe has large diesel stockpiles, some of which could be released to lower global prices
 - 10/05 00:46 [FirstSquawk] Yemeni Prime Minister: Our goal remains steadfast in extending state authority over all of Yemen and ending the Iranian-backed Houthi coup.
 - 10/05 00:46 [FirstSquawk] Yemeni Prime Minister: We are dealing with the latest developments with a high degree of responsibility to pave the way for the recapture of Sanaa and end the suffering of the Yemeni people.
