@@ -7,69 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-04 11:16 JST／対象: 10/03 11:16 〜 10/04 11:16 JST（時刻はすべて日本時間）
+生成: 2026-10-04 13:12 JST／対象: 10/03 13:12 〜 10/04 13:12 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 10/03 23:51 | 10/04 00:14 | 21分（23:53→00:14） |
-| FirstSquawk | 223 | 10/03 11:37 | 10/04 11:12 | ⚠ 332分（03:46→09:18） |
-| financialjuice | 54 | 10/03 11:22 | 10/04 10:54 | ⚠ 199分（07:35→10:54） |
+| FirstSquawk | 230 | 10/03 13:14 | 10/04 13:12 | ⚠ 332分（03:46→09:18） |
+| financialjuice | 47 | 10/03 13:18 | 10/04 10:54 | ⚠ 199分（07:35→10:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 274 行（統合前 280 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 275 行（統合前 280 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/03 11:22 [financialjuice] China commerce ministry launches anti-dumping probe into p-nitrotoluene from EU
-- 10/03 11:37 [FirstSquawk] Bolivia secures $1.9 billion IMF financing package under 36-month EFF
-- 10/03 11:38 [FirstSquawk] Bolivia receives IMF executive board approval for 36-month Extended Fund Facility arrangement
-- 10/03 11:38 [FirstSquawk] NHK says North Korean missile appears to have fallen outside Japan’s EEZ
-- 10/03 11:39 [FirstSquawk] France’s EDF lowers Civaux 1 reactor output to 1,150 MW amid environmental issues
-- 10/03 11:39 [FirstSquawk] Brazil’s Porto Serviço seeks to cancel public company registration with CVM, filing says
-- 10/03 11:39 [FirstSquawk] North Korea launches unidentified projectile toward waters off east coast, South Korea says
-- 10/03 11:40 [FirstSquawk] Brazil’s TOTVS divests 80% stake in RJ Participações for 39 million reais
-- 10/03 11:41 [FirstSquawk] GameStop CEO Ryan Cohen reports open-market purchase of 700,000 shares at $24.4061 each
-- 10/03 11:42 [FirstSquawk] Gaza death toll from Israeli airstrikes rises to 8, including 4 women, Al Arabiya reports
-- 10/03 11:42 [FirstSquawk] Minnesota’s AI “nudification” law temporarily blocked by US appeals court in xAI lawsuit
-- 10/03 11:52 [FirstSquawk] Fed’s Hammack says policymakers still have time before next rate decision
-- 10/03 11:52 [FirstSquawk] DRC Ebola outbreak slows in some health zones as death toll surpasses 4,000
-- 10/03 11:53 [FirstSquawk] Novo reports update on denecimig BLA in the US
-- 10/03 11:54 [FirstSquawk] FDA review of Novo Nordisk’s denecimig BLA for haemophilia A continues
-- 10/03 11:54 [FirstSquawk] FDA extends review of Novo Nordisk’s denecimig application due to facility remediation
-- 10/03 11:55 [FirstSquawk] Qualcomm submits prospectus for resale of up to 25 million common shares
-- 10/03 11:56 [FirstSquawk] S&P: Romania’s negative outlook reflects risks to public finance consolidation and external deficit reduction
-- 10/03 11:58 [FirstSquawk] S&P says Romania’s 2026 fiscal consolidation remains on track despite government formation impasse
-- 10/03 11:58 [FirstSquawk] Trump says over 20 million seniors will receive nearly $100 checks to help cover Medicare Part B premiums
-- 10/03 11:58 [financialjuice] Trump: Sending nearly $100 payments to over 20 million seniors to help cover their Medicare Part B premiums
-- 10/03 11:59 [financialjuice] Trump finally taps fund, along with favored nations deals, to significantly cut costs for seniors
-- 10/03 12:05 [financialjuice/FirstSquawk] Trump’s top national security aides meet secretly at Camp David on Iran, Yemen: Axios
-- 10/03 12:09 [FirstSquawk] Trump moves to cut seniors’ costs with fund and favored nations deals
-- 10/03 12:09 [FirstSquawk] Trump: Using fund and most-favored-nations deals to substantially cut costs for seniors
-- 10/03 12:10 [FirstSquawk] Trump says every U.S. citizen would receive $5,000 dividend if Republicans win midterms
-- 10/03 12:11 [FirstSquawk] Japan finance minister says forex trend has changed somewhat since intervention
-- 10/03 12:12 [financialjuice] North Korea slams UN secretary general human rights report - KCNA
-- 10/03 12:21 [FirstSquawk] AI demand lifts Japan’s hard-drive suppliers after years of decline
-- 10/03 12:22 [FirstSquawk] Roadblocks deployed in Islamabad to restrict movement of Imran Khan supporters
-- 10/03 12:31 [FirstSquawk] China investigates EU p-nitrotoluene imports in new anti-dumping case - RTRS
-- 10/03 12:33 [FirstSquawk] Trump says diesel export ban was not under serious consideration
-- 10/03 12:33 [FirstSquawk] CME Group drops filing for 10-barrel oil futures
-- 10/03 12:37 [FirstSquawk] WSJ: Nature of radicalization remains unclear
-- 10/03 12:40 [FirstSquawk] Oman had barred Flydubai attacker from flying over radical views, sources tell WSJ
-- 10/03 12:41 [FirstSquawk] Anthropic’s concerns extend beyond Pentagon dispute amid fears of government pressure - Benzinga
-- 10/03 12:48 [FirstSquawk] Hong Kong residents lose HK$220 million to customer service scams in August - SCMP
-- 10/03 12:49 [FirstSquawk] US blast simulation focuses on China’s alleged covert nuclear testing - SCMP
-- 10/03 12:51 [FirstSquawk] Japan seeks to counter reflationary policy view with messaging shift, Katayama says - Reuters
-- 10/03 12:54 [FirstSquawk] Man arrested in US over alleged scheme to smuggle $300 million of Nvidia AI servers to China
-- 10/03 13:00 [financialjuice] Kyiv Mayor: north bridge over Dnipro River struck in Russian air raid, emergency teams en route
-- 10/03 13:02 [FirstSquawk] Russian air raid strikes Kyiv’s North Bridge over Dnipro River, mayor says
-- 10/03 13:03 [FirstSquawk] China tightens developer presale, funding rules as property market struggles - NA
-- 10/03 13:06 [FirstSquawk] China imposes stricter presale, funding rules as property market remains weak
-- 10/03 13:06 [financialjuice] Volodymyr Zelenskyy asked Donald Trump to block Russia and China's Starlink competitor: FT
-- 10/03 13:07 [FirstSquawk] Zelenskyy asks Trump to block Russia, China satellite internet rival - FT
 - 10/03 13:14 [FirstSquawk] Wealth bosses caution CGT increase could hit equity investment - FT
 - 10/03 13:17 [FirstSquawk] SJP restructures loan scheme amid efforts to reduce customer disruption - FT
 - 10/03 13:18 [financialjuice] Taiwan foreign minister to visit Arizona to strengthen economic relations
@@ -298,3 +252,50 @@
 - 10/04 11:11 [FirstSquawk] New AI panel to examine technology risks following industry and public worries: WSJ
 - 10/04 11:11 [FirstSquawk] Houthi-run Al Masirah TV reports Saudi strike on Sanaa; Riyadh gives no confirmation
 - 10/04 11:12 [FirstSquawk] Kim Jong Un directs missile test as North Korea showcases military capability: KCNA
+- 10/04 11:27 [FirstSquawk] Kawasaki Heavy targets fully autonomous humanoid AI robot by 2030
+- 10/04 11:36 [FirstSquawk] Trump vows to pass ‘No Invasion of Our Country Act’ to restrict illegal immigration
+- 10/04 11:37 [FirstSquawk] Trump: New healthcare plan would end payments to big insurers and give money to Americans
+- 10/04 11:55 [FirstSquawk] Trump pledges death penalty for large-scale drug trafficking and killing law enforcement officials
+- 10/04 12:00 [FirstSquawk] Turkish Arms Maker Seeks Closer Japan Ties In Air Defense, Underwater Drone Systems - NA
+- 10/04 12:01 [FirstSquawk] Latvia’s Ruling United List Ahead With 36.6% As Vote Count Passes 66%
+- 10/04 12:01 [FirstSquawk] Petroecuador Says SOTE Pipeline Operations Could Resume Within Six Days
+- 10/04 12:02 [FirstSquawk] White House Forms AI Task Force To Examine Risks, Opportunities And Federal Government’s Role - WSJ
+- 10/04 12:03 [FirstSquawk] Fire At SOTE Pipeline Pumping Station Prompts Petroecuador To Declare Force Majeure
+- 10/04 12:03 [FirstSquawk] US State Department Says Ethiopia-Eritrea Cross-Border Tensions Could Have Regional Impact
+- 10/04 12:03 [FirstSquawk] US Calls On Ethiopia And Eritrea To Respect Sovereignty And Territorial Integrity Of Neighbors
+- 10/04 12:04 [FirstSquawk] US Strongly Urges Ethiopia, Eritrea To Return To Dialogue And Cooperation
+- 10/04 12:11 [FirstSquawk] Al Masirah TV Reports Saudi Strike On Sanaa, No Confirmation From Riyadh
+- 10/04 12:11 [FirstSquawk] KCNA Says North Korea Conducted Intermediate-Range Strategic Missile Launch Exercise
+- 10/04 12:12 [FirstSquawk] KCNA Says North Korean Missile Struck Target 1,000 Km From Launch Site
+- 10/04 12:12 [FirstSquawk] KCNA Says Kim Jong Un Oversaw North Korea’s Missile Tes
+- 10/04 12:13 [FirstSquawk] Genmab Says Rina-S Demonstrated Durable Responses In Phase 2 Ovarian Cancer Trial
+- 10/04 12:13 [FirstSquawk] Iraq’s Oil Tanker Company Looks To Acquire Specialized Crude Tankers For Fleet Expansion
+- 10/04 12:14 [FirstSquawk] Iraq Seeks More Flexibility For SOMO In Oil Sales Through Latest Move
+- 10/04 12:14 [FirstSquawk] Iraq Says 2 Million Barrels Of Crude Have Been Moved Beyond Strait Of Hormuz
+- 10/04 12:14 [FirstSquawk] Iraqi Oil Tankers Co. Says Latest Shipment Is First Of Its Kind In Decades
+- 10/04 12:15 [FirstSquawk] Yemen’s Houthis Claim Attack On Riyadh Aramco Facility Using Missiles And Drones
+- 10/04 12:15 [FirstSquawk] Saudi Arabia Yet To Confirm Houthi Claim Of Attack On Riyadh Aramco Facility
+- 10/04 12:16 [FirstSquawk] Air Services Between Iran And Iraq’s Najaf To Resume On Sunday
+- 10/04 12:17 [FirstSquawk] Latvia PM Kulbergs: Economic Ties With Russia Would Make Us Vulnerable
+- 10/04 12:18 [FirstSquawk] Latvia PM Kulbergs Calls Stronger-Than-Expected Exit Poll Support A Major Response From Voters
+- 10/04 12:19 [FirstSquawk] Latvia PM Kulbergs: We Will Not Cooperate With Pro-Russian Parties
+- 10/04 12:19 [FirstSquawk] Latvia PM Kulbergs Rules Out Government Coalition With Latvia First Party
+- 10/04 12:20 [FirstSquawk] Latvia PM Kulbergs Says He Wants To Stay On As Prime Minister After Election
+- 10/04 12:21 [FirstSquawk] Latvia’s United List Seen As Largest Parliamentary Group In Exit Poll
+- 10/04 12:22 [FirstSquawk] 20-Year-Old US Marine Denies Charges In Suspected Okinawa Robbery-Murder Case - NA
+- 10/04 12:23 [FirstSquawk] Ukrainian Shelling Damages External Power Equipment At Zaporizhzhia Nuclear Plant, Situation Under Control
+- 10/04 12:24 [FirstSquawk] Malaysia Offers Singapore-Level Comfort To Chinese Tourists At Prices Below Thailand, SCMP Reports
+- 10/04 12:26 [FirstSquawk] Cargo Ship Struck In Odesa Port In Russian Attack, Ifax Says
+- 10/04 12:28 [FirstSquawk] Trump Shares Tom Cotton’s Phone Number As Dispute Over Daylight Saving Time Escalates - SCMP
+- 10/04 12:29 [FirstSquawk] China, Africa Step Up Law Enforcement Cooperation Against Cross-Border Cybercrime - SCMP
+- 10/04 12:33 [FirstSquawk] US Set to Deploy NMESIS Anti-Ship Missiles on Japanese Island Closest to Taiwan - SCMP
+- 10/04 12:34 [FirstSquawk] Non-Local Fees at Hong Kong Public Universities Rise as Much as 26% as Quotas Increase
+- 10/04 12:35 [FirstSquawk] Nepal’s Hydropower Boom Faces Insurance Challenges as Claims Consistently Surpass Premiums - NA
+- 10/04 12:39 [FirstSquawk] China-Russia Military Ties Strengthen as Chinese Troops Join Tsentr-2026 Exercise
+- 10/04 12:41 [FirstSquawk] American, Chinese Botanists Sign Landmark Proposal to Expand Cooperation and Projects
+- 10/04 12:42 [FirstSquawk] UK Drops Plans to Curb Jury Trials Following Strong Opposition - RTRS
+- 10/04 12:49 [FirstSquawk] White House AI Czar Outlines Task Force Goals and Members – WSJ
+- 10/04 12:56 [FirstSquawk] Hokkaido faces growing raccoon threat as farm losses top ¥220 million in fiscal 2024 - Kyodo
+- 10/04 13:08 [FirstSquawk] U.S., China announce tariff reductions covering $30 billion of goods from each side, led by consumer imports in the U.S. and agricultural products in China - CNBC
+- 10/04 13:11 [FirstSquawk] Bangkok floods deepen public anger as residents demand stronger government response.
+- 10/04 13:12 [FirstSquawk] Ukraine plans to hit Russian refineries in response to Moscow’s “new doctrine” on airstrikes, CNBC reports.
