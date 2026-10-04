@@ -7,54 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-05 03:21 JST／対象: 10/04 15:21 〜 10/05 03:21 JST（時刻はすべて日本時間）
+生成: 2026-10-05 06:17 JST／対象: 10/04 18:17 〜 10/05 06:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 6 | 10/04 18:55 | 10/05 02:14 | ⚠ 216分（22:36→02:13） |
-| FirstSquawk | 107 | 10/04 16:00 | 10/05 02:53 | ⚠ 52分（20:52→21:44） |
-| financialjuice | 27 | 10/04 16:56 | 10/05 03:18 | ⚠ 199分（22:46→02:06） |
+| FirstSquawk | 92 | 10/04 18:40 | 10/05 05:36 | ⚠ 96分（03:59→05:36） |
+| financialjuice | 25 | 10/04 18:38 | 10/05 05:17 | ⚠ 199分（22:46→02:06） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 136 行（統合前 141 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 117 行（統合前 124 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/04 16:00 [FirstSquawk] Takaichi policy speech, Malaysia budget, Pacific islands climate summit
-- 10/04 16:31 [FirstSquawk] Chancellor Friedrich Merz reiterated Germany’s backing for Ukraine as he arrived in Kyiv on Sunday and warned that Russia could attack the Western alliance
-- 10/04 16:31 [FirstSquawk] Japan already dominates the U.S. industrial robot market. Now its biggest players are doubling down.
-- 10/04 16:31 [FirstSquawk] Iran tells the United States there is no "military solution" to their conflict
-- 10/04 16:32 [FirstSquawk] Japan's PM Takaichi protests to US over Marine's Okinawa murder arrest
-- 10/04 16:34 [FirstSquawk] Araghchi also said that the Strait of Hormuz would fully reopen within seven days if Iran’s conditions were accepted and the US blockade was lifted
-- 10/04 16:38 [FirstSquawk] German Chancellor Merz arrives in Kyiv, pledges further support for Ukraine. Merz was accompanied by Economy Minister Katherina Reiche and 10 executives from Germany's defense and energy sectors.
-- 10/04 16:56 [financialjuice] OPEC+ reaches agreement in principle to maintain oil output targets in November, delegate says
-- 10/04 16:56 [financialjuice] UKMTO reports incident in Strait of Hormuz
-- 10/04 16:56 [financialjuice] UKMTO: tanker hit by unidentified projectile, engine room damaged
-- 10/04 16:56 [financialjuice] UKMTO: crew safe, no environmental impact reported at time of statement
-- 10/04 16:57 [FirstSquawk] OPEC+ reaches agreement in principle to maintain oil output targets in Nov
-- 10/04 16:57 [FirstSquawk] UKMTO says incident in Strait of Hormuz
-- 10/04 16:58 [FirstSquawk] tanker reported being struck by an unknown projectile in the Strait of Hormuz, causing damage to its engine room, the United Kingdom Maritime Trade Operations said on Sunday.
-- 10/04 16:58 [FirstSquawk] Russia's Medvedev: In regional matters, the emphasis should primarily be placed on regional powers. As soon as extra-regional powers become involved in managing processes in one region or another, expect trouble.
-- 10/04 16:59 [financialjuice] Iran foreign minister spokesman: return of IAEA inspectors not discussed
-- 10/04 17:08 [financialjuice] Iran foreign ministry spokesperson: some further details still to be shared with U.S.
-- 10/04 17:31 [FirstSquawk] UK government said it will scrap earlier plans for some criminal trials to be heard by a judge alone, watering down proposed legislation that had sparked strong opposition from legal professionals and some Labour backbenchers.
-- 10/04 17:32 [FirstSquawk] North Korea test-fired a hypersonic missile, claiming it hit a sea target 1,000 km away using a "wave-like trajectory" designed to evade radar.
-- 10/04 17:32 [FirstSquawk] Russian drones struck Kyiv's Northern Bridge on two consecutive mornings while civilian traffic was crossing.
-- 10/04 17:32 [FirstSquawk] Iran's FM Spox. Esmail Baghaei: The claim that the Iranian delegation was expelled from the U.S. is absurd and completely false. The U.S. failed to block Iran’s UN participation or portray it as isolated, so it resorted to fabricating absur…
-- 10/04 17:48 [financialjuice] Iran's foreign ministry spokesperson: Tehran has clarified its positions via mediators to US response to 7 day plan
-- 10/04 17:55 [FirstSquawk] Iran accused Britain of complicity in military attacks against the country by allowing its bases to be used by US and Israeli forces, the foreign ministry spokesman said on Sunday.
-- 10/04 17:55 [FirstSquawk] Iranian foreign ministry spokesperson: Tehran has clarified its positions via mediators to US response to 7 day plan
-- 10/04 17:56 [FirstSquawk] United, American Airlines up Japan routes to tap demand fueled by weak yen Alaska Airlines upgrades cabins as stock market gains increase customer buying power
-- 10/04 17:56 [FirstSquawk] Iranian Foreign Minister Abbas Araghchi rejected a report that Iranian diplomats were “kicked out” of the United States, saying the delegation left after attending the UN General Assembly as scheduled.
-- 10/04 18:14 [FirstSquawk] Republican Ohio Senate candidate Vivek Ramaswamy invokes Kamala Harris while targeting his potential Democratic rival in the 2026 Ohio Senate race.
-- 10/04 18:14 [FirstSquawk] Iran remains a member of the Treaty on the Non-Proliferation of Nuclear Weapons (NPT) and is aware of its obligations as long as it remains in the treaty, Foreign Ministry spokesman Esmaeil Baghaei said on Sunday.
-- 10/04 18:15 [FirstSquawk] Bosnia elections pit EU hopes against Russian influence
-- 10/04 18:16 [FirstSquawk] mood in publishing is gloomy ahead of the major Frankfurt Book Fair
-- 10/04 18:16 [FirstSquawk] Iran rejected US President Donald Trump’s assertion that Washington does not know who its Iranian negotiating counterpart is, saying a six-member committee under the Supreme National Security Council is overseeing negotiations.
 - 10/04 18:38 [financialjuice] Fire erupts at enterprise in Russia's Krasnodar region after drone debris falls; three hurt, authorities say
 - 10/04 18:40 [FirstSquawk] Iranian Foreign Ministry Spokesperson: Tehran has already responded to the American proposal.
 - 10/04 18:41 [FirstSquawk] Iranian Foreign Ministry Spokesperson: The issue of the return of IAEA inspectors was not discussed.
@@ -142,7 +111,7 @@
 - 10/05 01:15 [FirstSquawk] Walla News: US forces and aircraft will be reinforced in Israel in the coming weeks in preparation for a possible escalation in the region.
 - 10/05 01:15 [FirstSquawk] Jordanian Foreign Ministry condemns Israel's resumption of violations in Quneitra, southwestern Syria.
 - 10/05 01:28 [FirstSquawk] AFP: More than 70 killed in clashes between Yemeni government forces and Houthi rebels in Taiz province in 24 hours
-- 10/05 02:06 [financialjuice] Iran oil minister steps down: state media
+- 10/05 02:06 [financialjuice/FirstSquawk] Iran oil minister steps down: state media
 - 10/05 02:11 [FirstSquawk] Israeli army: Today in an airstrike on Khan Younis, we killed a member of Hamas' elite unit.
 - 10/05 02:11 [FirstSquawk] Israeli airstrike on the town of Haddatha in the Bint Jbeil district of southern Lebanon
 - 10/05 02:12 [FirstSquawk] Iranian official media: Resignation of the Iranian Oil Minister
@@ -160,3 +129,15 @@
 - 10/05 02:53 [FirstSquawk] GERMANY'S CHANCELLOR MERZ SAYS IN KYIV THAT 'DESPITE THE THREATS FROM MOSCOW IN RECENT DAYS, I CAME ANYWAY' — TOGETHER WITH A COLLEAGUE FROM THE GERMAN GOVERNMENT AND A LARGE BUSINESS DELEGATION — SAYING THIS 'DEMONSTRATES THAT WE WILL NOT …
 - 10/05 02:53 [FirstSquawk] GERMANY'S CHANCELLOR MERZ SAYS 'THE RUSSIAN ECONOMY CANNOT WAGE THIS WAR INDEFINITELY', ARGUING IT 'HAS ALREADY REACHED ITS PAIN THRESHOLD', CITING '7% INFLATION, A 14% CENTRAL-BANK RATE, FALLING OIL AND GAS REVENUES AND AN INCREASINGLY LAR…
 - 10/05 03:18 [financialjuice] One leftist, two nationalist contenders lead election for Bosnia's inter-ethnic tripartite presidency, partial preliminary results show
+- 10/05 03:27 [FirstSquawk] TRUMP SAYS 'THE POLLS HAVE ALWAYS UNDERESTIMATED MAGA', CLAIMING 'THEY TRY TO SUPPRESS THE VOTE' BUT THAT HE 'WON ALL 7 SWING STATES, THE POPULAR VOTE, 86% OF COUNTIES, AND 99% OF PRIMARIES THIS YEAR', ADDING 'I AM ON THE BALLOT' - TRUTH SO…
+- 10/05 03:28 [FirstSquawk] TRUMP SAYS 'THE KENNEDY CENTER IS CRUMBLING, AND A GREAT DANGER TO ANYONE WHO WALKS INSIDE', CLAIMING IT 'HAS BEEN THIS WAY FOR YEARS, AND WILL ONLY GET WORSE UNLESS THE RADICAL LEFT JUDGE, WITH HIS TRUMP HATING LAWYER WIFE, ALLOWS ME TO DO…
+- 10/05 03:28 [FirstSquawk] US ENERGY SECRETARY WRIGHT: DIESEL PRICES HIT BY RUSSIA-UKRAINE WAR, CHINA’S EXPORT CURBS & RECENT CLOSURE OF TWO LARGE CALIFORNIA REFINERIES
+- 10/05 03:32 [FirstSquawk] NEW ATTACKS ON VESSELS AROUND THE STRAIT OF HORMUZ ARE THREATENING THE RECOVERY IN MIDDLE EASTERN OIL FLOWS, WITH UKMTO REPORTING SEVEN VESSEL STRIKES SINCE SEPT. 28 AND IRAN’S IRGC WARNING SHIPS AGAINST USING THE US-BACKED ROUTE.
+- 10/05 03:32 [FirstSquawk] OIL FLOWS ARE SHOWING SIGNS OF SLOWING, WITH ANALYSTS ESTIMATING A POSSIBLE 2–3 MILLION B/D DROP; BRENT REMAINS AROUND $100 A BARREL AS HIGH SHIPPING, SECURITY AND INSURANCE COSTS KEEP THE RECOVERY FRAGILE.
+- 10/05 03:55 [financialjuice] UKMTO: reports incident 60 nm south of Al Mukha, Yemen
+- 10/05 03:55 [financialjuice] UKMTO: tanker reports several explosions near vessel
+- 10/05 03:56 [financialjuice] UkMto: crew safe, no environmental impact reported
+- 10/05 03:59 [FirstSquawk] UKMTO SAYS IT HAS RECEIVED A REPORT OF AN INCIDENT 60 NAUTICAL MILES SOUTH OF AL MUKHA, YEMEN, WHERE A TANKER SIGHTED MULTIPLE EXPLOSIONS IN CLOSE PROXIMITY TO THE VESSEL.
+- 10/05 03:59 [FirstSquawk] UKMTO SAYS THE CREW ARE REPORTED AS SAFE AND NO ENVIRONMENTAL IMPACT HAS BEEN REPORTED.
+- 10/05 04:28 [financialjuice] Austrian Vice Chancellor Andreas Babler: Finance Minister Markus Marterbauer to succeed him as vice chancellor at start of next year
+- 10/05 05:17 [financialjuice/FirstSquawk] Ex-Anthropic researcher Jacob Coxon to testify at NYC hearing on AI

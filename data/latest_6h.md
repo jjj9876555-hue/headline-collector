@@ -7,48 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-05 03:21 JST／対象: 10/04 21:21 〜 10/05 03:21 JST（時刻はすべて日本時間）
+生成: 2026-10-05 06:17 JST／対象: 10/05 00:17 〜 10/05 06:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 3 | 10/04 22:36 | 10/05 02:14 | ⚠ 216分（22:36→02:13） |
-| FirstSquawk | 56 | 10/04 21:44 | 10/05 02:53 | ⚠ 48分（21:46→22:34） |
-| financialjuice | 8 | 10/04 21:24 | 10/05 03:18 | ⚠ 199分（22:46→02:06） |
+| DeItaone | 2 | 10/05 02:13 | 10/05 02:14 | 1分（02:13→02:14） |
+| FirstSquawk | 43 | 10/05 00:38 | 10/05 05:36 | ⚠ 96分（03:59→05:36） |
+| financialjuice | 7 | 10/05 02:06 | 10/05 05:17 | ⚠ 72分（02:06→03:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 63 行（統合前 68 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 50 行（統合前 52 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/04 21:24 [financialjuice] Trump: John Coale named as new special presidential envoy for hostage affairs
-- 10/04 21:37 [financialjuice/FirstSquawk] Russia's deputy PM Novak: JMMC observed significant fluctuations in global oil markets, citing a supply shortfall
-- 10/04 21:40 [financialjuice/FirstSquawk] Russia's Deputy PM Novak: russia and Saudi Arabia to discuss oil market and 2026-2027 outlook on October 12 in Riyadh
-- 10/04 21:44 [FirstSquawk] Zelensky: Putin wants to weaken Ukraine's ability to resist as much as possible.
-- 10/04 21:45 [FirstSquawk] Zelensky: I am shocked by Russia's "brutal" desire to escalate the situation day after day
-- 10/04 21:45 [FirstSquawk] Zelensky: Ukraine and Germany are doing everything they can to ensure Europe's participation in the diplomatic process to end the war.
-- 10/04 21:45 [FirstSquawk] German Chancellor, speaking from Kyiv, announced that Germany will provide Ukraine with a military aid package worth approximately one billion euros.
-- 10/04 21:45 [FirstSquawk] Mertz: Russian attacks on Germany will not stop even if Berlin halts its aid to Ukraine.
-- 10/04 21:45 [FirstSquawk] Mertz: I call on Russia to enter into peace talks
-- 10/04 21:45 [FirstSquawk] Mertz: We are preparing an energy aid package for Ukraine for the winter worth approximately 350 million euros.
-- 10/04 21:46 [FirstSquawk] Mertz: Russia aims to break the morale of the Ukrainians
-- 10/04 21:46 [FirstSquawk] Trump announces the formation of a "super-intelligence force" to coordinate US government efforts and ensure Washington's leadership in this field.
-- 10/04 22:03 [financialjuice/FirstSquawk] Yemen's Houthis: Attack on Saudi Aramco sites in Riyadh and Khurais with ballistic missiles and drones causes major fires
-- 10/04 22:14 [financialjuice/FirstSquawk] no immediate Saudi confirmation of Houthi claim
-- 10/04 22:36 [DeItaone] TRUMP CREATES “SUPER INTELLIGENCE FORCE” President Trump announced the formation of a new Super Intelligence Force, led by Jay Clayton, Andrew Ferguson, Emil Michael and Scott Kupor. The group will coordinate federal engagement with AI comp…
-- 10/04 22:46 [financialjuice] Ukraine, Germany discuss LNG supply through German infrastructure, involving EU firms in cooperation with Kyiv's gas storage facilities
-- 10/04 22:47 [FirstSquawk] Iranian Deputy Foreign Minister: We are studying the American response to our proposal and remain prepared for all scenarios.
-- 10/04 22:47 [FirstSquawk] Explosions heard in the Ukrainian capital, Kyiv, after a drone attack warning was issued.
-- 10/04 23:09 [FirstSquawk] Russian Ministry of Defense: We targeted the northern bridge in Kyiv, which is used to transport Ukrainian troops and military supplies.
-- 10/04 23:10 [FirstSquawk] | Russian Ministry of Defense: We bombed two cargo ships carrying Ukrainian military equipment off the port of Odessa in the Black Sea
-- 10/04 23:58 [FirstSquawk] Syrian Foreign Ministry: We condemn the ongoing violations by the Israeli occupation in Syrian territory.
-- 10/04 23:59 [FirstSquawk] Syrian Foreign Ministry: The continued aggressive approach of the Israeli occupation poses a direct threat to regional security and stability.
-- 10/04 23:59 [FirstSquawk] Syrian Foreign Ministry: We affirm our commitment to our legitimate right to exercise full sovereignty over all our territories.
-- 10/04 23:59 [FirstSquawk] Axios, citing a US official: Central Command seriously objected to launching strikes in Yemen because it could divert attention from Iran
-- 10/05 00:00 [FirstSquawk] Axios, citing a US official: We will not take any military action in Yemen at this time, but that could change.
 - 10/05 00:38 [FirstSquawk] Statement from the military spokesperson for the Yemeni government forces: We announce the start of the battle to liberate and restore institutions and end the coup.
 - 10/05 00:39 [FirstSquawk] Statement from the military spokesperson for the Yemeni government forces: The battle is a bridge to restoring our country to its Arab fold and strategic depth.
 - 10/05 00:39 [FirstSquawk] Statement from the military spokesperson for the Yemeni government forces: We call on the fighters in the terrorist Houthi militia to lay down their weapons.
@@ -69,7 +44,7 @@
 - 10/05 01:15 [FirstSquawk] Walla News: US forces and aircraft will be reinforced in Israel in the coming weeks in preparation for a possible escalation in the region.
 - 10/05 01:15 [FirstSquawk] Jordanian Foreign Ministry condemns Israel's resumption of violations in Quneitra, southwestern Syria.
 - 10/05 01:28 [FirstSquawk] AFP: More than 70 killed in clashes between Yemeni government forces and Houthi rebels in Taiz province in 24 hours
-- 10/05 02:06 [financialjuice] Iran oil minister steps down: state media
+- 10/05 02:06 [financialjuice/FirstSquawk] Iran oil minister steps down: state media
 - 10/05 02:11 [FirstSquawk] Israeli army: Today in an airstrike on Khan Younis, we killed a member of Hamas' elite unit.
 - 10/05 02:11 [FirstSquawk] Israeli airstrike on the town of Haddatha in the Bint Jbeil district of southern Lebanon
 - 10/05 02:12 [FirstSquawk] Iranian official media: Resignation of the Iranian Oil Minister
@@ -87,3 +62,15 @@
 - 10/05 02:53 [FirstSquawk] GERMANY'S CHANCELLOR MERZ SAYS IN KYIV THAT 'DESPITE THE THREATS FROM MOSCOW IN RECENT DAYS, I CAME ANYWAY' — TOGETHER WITH A COLLEAGUE FROM THE GERMAN GOVERNMENT AND A LARGE BUSINESS DELEGATION — SAYING THIS 'DEMONSTRATES THAT WE WILL NOT …
 - 10/05 02:53 [FirstSquawk] GERMANY'S CHANCELLOR MERZ SAYS 'THE RUSSIAN ECONOMY CANNOT WAGE THIS WAR INDEFINITELY', ARGUING IT 'HAS ALREADY REACHED ITS PAIN THRESHOLD', CITING '7% INFLATION, A 14% CENTRAL-BANK RATE, FALLING OIL AND GAS REVENUES AND AN INCREASINGLY LAR…
 - 10/05 03:18 [financialjuice] One leftist, two nationalist contenders lead election for Bosnia's inter-ethnic tripartite presidency, partial preliminary results show
+- 10/05 03:27 [FirstSquawk] TRUMP SAYS 'THE POLLS HAVE ALWAYS UNDERESTIMATED MAGA', CLAIMING 'THEY TRY TO SUPPRESS THE VOTE' BUT THAT HE 'WON ALL 7 SWING STATES, THE POPULAR VOTE, 86% OF COUNTIES, AND 99% OF PRIMARIES THIS YEAR', ADDING 'I AM ON THE BALLOT' - TRUTH SO…
+- 10/05 03:28 [FirstSquawk] TRUMP SAYS 'THE KENNEDY CENTER IS CRUMBLING, AND A GREAT DANGER TO ANYONE WHO WALKS INSIDE', CLAIMING IT 'HAS BEEN THIS WAY FOR YEARS, AND WILL ONLY GET WORSE UNLESS THE RADICAL LEFT JUDGE, WITH HIS TRUMP HATING LAWYER WIFE, ALLOWS ME TO DO…
+- 10/05 03:28 [FirstSquawk] US ENERGY SECRETARY WRIGHT: DIESEL PRICES HIT BY RUSSIA-UKRAINE WAR, CHINA’S EXPORT CURBS & RECENT CLOSURE OF TWO LARGE CALIFORNIA REFINERIES
+- 10/05 03:32 [FirstSquawk] NEW ATTACKS ON VESSELS AROUND THE STRAIT OF HORMUZ ARE THREATENING THE RECOVERY IN MIDDLE EASTERN OIL FLOWS, WITH UKMTO REPORTING SEVEN VESSEL STRIKES SINCE SEPT. 28 AND IRAN’S IRGC WARNING SHIPS AGAINST USING THE US-BACKED ROUTE.
+- 10/05 03:32 [FirstSquawk] OIL FLOWS ARE SHOWING SIGNS OF SLOWING, WITH ANALYSTS ESTIMATING A POSSIBLE 2–3 MILLION B/D DROP; BRENT REMAINS AROUND $100 A BARREL AS HIGH SHIPPING, SECURITY AND INSURANCE COSTS KEEP THE RECOVERY FRAGILE.
+- 10/05 03:55 [financialjuice] UKMTO: reports incident 60 nm south of Al Mukha, Yemen
+- 10/05 03:55 [financialjuice] UKMTO: tanker reports several explosions near vessel
+- 10/05 03:56 [financialjuice] UkMto: crew safe, no environmental impact reported
+- 10/05 03:59 [FirstSquawk] UKMTO SAYS IT HAS RECEIVED A REPORT OF AN INCIDENT 60 NAUTICAL MILES SOUTH OF AL MUKHA, YEMEN, WHERE A TANKER SIGHTED MULTIPLE EXPLOSIONS IN CLOSE PROXIMITY TO THE VESSEL.
+- 10/05 03:59 [FirstSquawk] UKMTO SAYS THE CREW ARE REPORTED AS SAFE AND NO ENVIRONMENTAL IMPACT HAS BEEN REPORTED.
+- 10/05 04:28 [financialjuice] Austrian Vice Chancellor Andreas Babler: Finance Minister Markus Marterbauer to succeed him as vice chancellor at start of next year
+- 10/05 05:17 [financialjuice/FirstSquawk] Ex-Anthropic researcher Jacob Coxon to testify at NYC hearing on AI

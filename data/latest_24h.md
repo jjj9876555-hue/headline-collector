@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-05 03:21 JST／対象: 10/04 03:21 〜 10/05 03:21 JST（時刻はすべて日本時間）
+生成: 2026-10-05 06:17 JST／対象: 10/04 06:17 〜 10/05 06:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 6 | 10/04 18:55 | 10/05 02:14 | ⚠ 216分（22:36→02:13） |
-| FirstSquawk | 203 | 10/04 03:22 | 10/05 02:53 | ⚠ 332分（03:46→09:18） |
-| financialjuice | 49 | 10/04 03:53 | 10/05 03:18 | ⚠ 199分（07:35→10:54） |
+| FirstSquawk | 207 | 10/04 09:18 | 10/05 05:36 | ⚠ 96分（03:59→05:36） |
+| financialjuice | 43 | 10/04 06:18 | 10/05 05:17 | ⚠ 199分（07:35→10:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 254 行（統合前 259 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 250 行（統合前 257 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/04 03:22 [FirstSquawk] China launches anti-dumping probe into European chemical exports - ft
-- 10/04 03:23 [FirstSquawk] Airbnb unlikely to let AI agents like Muse make bookings, CEO says - Nikkei
-- 10/04 03:23 [FirstSquawk] Iraqi Prime Minister: Today we are a state that makes its own decisions, protects its land and airspace, and where weapons are under the command of the Commander of the Armed Forces.
-- 10/04 03:36 [FirstSquawk] Sirens sound in the Ukrainian capital, warning of a drone attack
-- 10/04 03:46 [FirstSquawk] Flights between Iran and Iraq's Najaf to restart on Sunday - Iraqi state news agency
-- 10/04 03:53 [financialjuice] No immediate Saudi confirmation of Houthis' claim on attacking Aramco facility in Riyadh
-- 10/04 03:56 [financialjuice] Iraq: shipped 2 million barrels of crude on VLCC past Strait of Hormuz - statement
-- 10/04 03:57 [financialjuice] Iraqi oil tankers company: shipment is first of its kind in decades - statement
-- 10/04 03:59 [financialjuice] Iraq: move aims to give state oil marketer Somo greater sales flexibility
-- 10/04 03:59 [financialjuice] Iraqi oil tankers company: seeking to acquire specialised crude tankers to grow fleet
-- 10/04 06:09 [financialjuice] North Korea conducts intermediate-range strategic missile launch drill on Oct. 3: KCNA
-- 10/04 06:09 [financialjuice] North Korea says missile struck target 1,000 km away in sea off eastern coast
-- 10/04 06:10 [financialjuice] North Korea: Kim Jong Un supervised missile test - KCNA
-- 10/04 06:15 [financialjuice] Yemen's Houthi-run Al Masirah TV reports Saudi strike on Sanaa; no confirmation from Riyadh
-- 10/04 06:16 [financialjuice] US State Dept: rising cross-border tensions between Ethiopia and Eritrea risk impacting entire region
-- 10/04 06:17 [financialjuice] US State Dept: Urges Ethiopia and Eritrea to respect neighbors' sovereignty and territorial integrity
 - 10/04 06:18 [financialjuice] US State Dept: strongly urge Ethiopia and Eritrea to show maximum restraint, resume dialogue and cooperation
 - 10/04 06:34 [financialjuice] Petroecuador declares force majeure at pumping station in Sote pipeline after fire on Oct. 1
 - 10/04 07:28 [financialjuice] New AI group to outline technology risks following public and industry worries: WSJ
@@ -260,7 +244,7 @@
 - 10/05 01:15 [FirstSquawk] Walla News: US forces and aircraft will be reinforced in Israel in the coming weeks in preparation for a possible escalation in the region.
 - 10/05 01:15 [FirstSquawk] Jordanian Foreign Ministry condemns Israel's resumption of violations in Quneitra, southwestern Syria.
 - 10/05 01:28 [FirstSquawk] AFP: More than 70 killed in clashes between Yemeni government forces and Houthi rebels in Taiz province in 24 hours
-- 10/05 02:06 [financialjuice] Iran oil minister steps down: state media
+- 10/05 02:06 [financialjuice/FirstSquawk] Iran oil minister steps down: state media
 - 10/05 02:11 [FirstSquawk] Israeli army: Today in an airstrike on Khan Younis, we killed a member of Hamas' elite unit.
 - 10/05 02:11 [FirstSquawk] Israeli airstrike on the town of Haddatha in the Bint Jbeil district of southern Lebanon
 - 10/05 02:12 [FirstSquawk] Iranian official media: Resignation of the Iranian Oil Minister
@@ -278,3 +262,15 @@
 - 10/05 02:53 [FirstSquawk] GERMANY'S CHANCELLOR MERZ SAYS IN KYIV THAT 'DESPITE THE THREATS FROM MOSCOW IN RECENT DAYS, I CAME ANYWAY' — TOGETHER WITH A COLLEAGUE FROM THE GERMAN GOVERNMENT AND A LARGE BUSINESS DELEGATION — SAYING THIS 'DEMONSTRATES THAT WE WILL NOT …
 - 10/05 02:53 [FirstSquawk] GERMANY'S CHANCELLOR MERZ SAYS 'THE RUSSIAN ECONOMY CANNOT WAGE THIS WAR INDEFINITELY', ARGUING IT 'HAS ALREADY REACHED ITS PAIN THRESHOLD', CITING '7% INFLATION, A 14% CENTRAL-BANK RATE, FALLING OIL AND GAS REVENUES AND AN INCREASINGLY LAR…
 - 10/05 03:18 [financialjuice] One leftist, two nationalist contenders lead election for Bosnia's inter-ethnic tripartite presidency, partial preliminary results show
+- 10/05 03:27 [FirstSquawk] TRUMP SAYS 'THE POLLS HAVE ALWAYS UNDERESTIMATED MAGA', CLAIMING 'THEY TRY TO SUPPRESS THE VOTE' BUT THAT HE 'WON ALL 7 SWING STATES, THE POPULAR VOTE, 86% OF COUNTIES, AND 99% OF PRIMARIES THIS YEAR', ADDING 'I AM ON THE BALLOT' - TRUTH SO…
+- 10/05 03:28 [FirstSquawk] TRUMP SAYS 'THE KENNEDY CENTER IS CRUMBLING, AND A GREAT DANGER TO ANYONE WHO WALKS INSIDE', CLAIMING IT 'HAS BEEN THIS WAY FOR YEARS, AND WILL ONLY GET WORSE UNLESS THE RADICAL LEFT JUDGE, WITH HIS TRUMP HATING LAWYER WIFE, ALLOWS ME TO DO…
+- 10/05 03:28 [FirstSquawk] US ENERGY SECRETARY WRIGHT: DIESEL PRICES HIT BY RUSSIA-UKRAINE WAR, CHINA’S EXPORT CURBS & RECENT CLOSURE OF TWO LARGE CALIFORNIA REFINERIES
+- 10/05 03:32 [FirstSquawk] NEW ATTACKS ON VESSELS AROUND THE STRAIT OF HORMUZ ARE THREATENING THE RECOVERY IN MIDDLE EASTERN OIL FLOWS, WITH UKMTO REPORTING SEVEN VESSEL STRIKES SINCE SEPT. 28 AND IRAN’S IRGC WARNING SHIPS AGAINST USING THE US-BACKED ROUTE.
+- 10/05 03:32 [FirstSquawk] OIL FLOWS ARE SHOWING SIGNS OF SLOWING, WITH ANALYSTS ESTIMATING A POSSIBLE 2–3 MILLION B/D DROP; BRENT REMAINS AROUND $100 A BARREL AS HIGH SHIPPING, SECURITY AND INSURANCE COSTS KEEP THE RECOVERY FRAGILE.
+- 10/05 03:55 [financialjuice] UKMTO: reports incident 60 nm south of Al Mukha, Yemen
+- 10/05 03:55 [financialjuice] UKMTO: tanker reports several explosions near vessel
+- 10/05 03:56 [financialjuice] UkMto: crew safe, no environmental impact reported
+- 10/05 03:59 [FirstSquawk] UKMTO SAYS IT HAS RECEIVED A REPORT OF AN INCIDENT 60 NAUTICAL MILES SOUTH OF AL MUKHA, YEMEN, WHERE A TANKER SIGHTED MULTIPLE EXPLOSIONS IN CLOSE PROXIMITY TO THE VESSEL.
+- 10/05 03:59 [FirstSquawk] UKMTO SAYS THE CREW ARE REPORTED AS SAFE AND NO ENVIRONMENTAL IMPACT HAS BEEN REPORTED.
+- 10/05 04:28 [financialjuice] Austrian Vice Chancellor Andreas Babler: Finance Minister Markus Marterbauer to succeed him as vice chancellor at start of next year
+- 10/05 05:17 [financialjuice/FirstSquawk] Ex-Anthropic researcher Jacob Coxon to testify at NYC hearing on AI
