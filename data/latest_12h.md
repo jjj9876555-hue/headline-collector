@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-05 08:44 JST／対象: 10/04 20:44 〜 10/05 08:44 JST（時刻はすべて日本時間）
+生成: 2026-10-05 08:58 JST／対象: 10/04 20:58 〜 10/05 08:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 10/04 22:36 | 10/05 02:14 | ⚠ 216分（22:36→02:13） |
-| FirstSquawk | 78 | 10/04 20:47 | 10/05 05:36 | ⚠ 96分（03:59→05:36） |
+| FirstSquawk | 65 | 10/04 21:44 | 10/05 05:36 | ⚠ 96分（03:59→05:36） |
 | financialjuice | 24 | 10/04 21:00 | 10/05 07:40 | ⚠ 199分（22:46→02:06） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 99 行（統合前 107 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 86 行（統合前 94 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/04 20:47 [FirstSquawk] Sirens activated in Kharkiv amid warnings of a missile attack
-- 10/04 20:49 [FirstSquawk] Sisi calls for dialogue on cross-border issues during African summit
-- 10/04 20:49 [FirstSquawk] Australian authorities probe Flydubai attacker’s links to the country - FT
-- 10/04 20:49 [FirstSquawk] Britain’s Budget needs to tame spending and boost growth - FT
-- 10/04 20:50 [FirstSquawk] Bosnia elections pit EU hopes against Russian influence - FT
-- 10/04 20:50 [FirstSquawk] Germany’s Merz arrives in Kyiv to show support for Ukraine - FT
-- 10/04 20:50 [FirstSquawk] Wall Street’s IPO fervour cools on tepid demand and valuation worries - FT
-- 10/04 20:51 [FirstSquawk] Turkey's largest state-linked defense company, Aselsan, seeks partnerships with Japanese companies on underwater drones and air defense systems. - Nikkei
-- 10/04 20:51 [FirstSquawk] Thai protestors slam Chinese, other foreign companies as economy slows -Nikkei
-- 10/04 20:51 [FirstSquawk] EVs and hybrids drive Thailand auto sales recovery, Gasoline-powered passenger cars shrink to less than a fifth of market in August - Nikkei
-- 10/04 20:52 [FirstSquawk] Chinese name-brand goods like Songmont bags and Pane shoes are gaining a following among shoppers looking for quality items at reasonable prices, along with foreign travelers looking for local souvenirs. - Nikkei
-- 10/04 20:52 [FirstSquawk] Myanmar-born Japanese designer looks to Paris for a new fashion training model. - Nikkei
-- 10/04 20:52 [FirstSquawk] Japan's PM Takaichi protests to US over Marine's Okinawa murder arrest - Nikkei
 - 10/04 21:00 [financialjuice] Germany's Chancellor Merz: undeterred by assault during our visit
 - 10/04 21:00 [financialjuice] Germany's Chancellor Merz urges Russia to join peace talks
 - 10/04 21:00 [financialjuice] Germany’s Chancellor Merz: immeasurable consequences for Europe if government fails to meet challenges, will do everything to keep government stable
