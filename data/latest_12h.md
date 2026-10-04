@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-05 06:45 JST／対象: 10/04 18:45 〜 10/05 06:45 JST（時刻はすべて日本時間）
+生成: 2026-10-05 07:01 JST／対象: 10/04 19:01 〜 10/05 07:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 6 | 10/04 18:55 | 10/05 02:14 | ⚠ 216分（22:36→02:13） |
+| DeItaone | 5 | 10/04 20:19 | 10/05 02:14 | ⚠ 216分（22:36→02:13） |
 | FirstSquawk | 85 | 10/04 19:12 | 10/05 05:36 | ⚠ 96分（03:59→05:36） |
-| financialjuice | 24 | 10/04 18:54 | 10/05 05:17 | ⚠ 199分（22:46→02:06） |
+| financialjuice | 25 | 10/04 19:07 | 10/05 07:00 | ⚠ 199分（22:46→02:06） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 109 行（統合前 116 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,8 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/04 18:54 [financialjuice] Russia to ramp up strikes on Kyiv and other Ukraine regions following Zelenskiy remarks: Tass cites Russia defence ministry
-- 10/04 18:55 [DeItaone] RUSSIA WILL INTENSIFY STRIKES ON KYIV AND OTHER REGIONS OF UKRAINE FOLLOWING LATEST ZELENSKIY REMARKS - TASS CITES RUSSIA DEFENCE MINISTRY
 - 10/04 19:07 [financialjuice] Iran’s army spokesperson: After war with US, Tehran plans to enhance missile range - Fars News
 - 10/04 19:12 [FirstSquawk] Russian Defense Ministry: We will intensify strikes on Kyiv and other areas in Ukraine following Zelensky's recent statements.
 - 10/04 19:12 [FirstSquawk] Russian Defense Ministry: Casualties and damage to homes in a Ukrainian strike last night targeting areas in Belgorod
@@ -133,3 +131,5 @@
 - 10/05 03:59 [FirstSquawk] UKMTO SAYS THE CREW ARE REPORTED AS SAFE AND NO ENVIRONMENTAL IMPACT HAS BEEN REPORTED.
 - 10/05 04:28 [financialjuice] Austrian Vice Chancellor Andreas Babler: Finance Minister Markus Marterbauer to succeed him as vice chancellor at start of next year
 - 10/05 05:17 [financialjuice/FirstSquawk] Ex-Anthropic researcher Jacob Coxon to testify at NYC hearing on AI
+- 10/05 07:00 [financialjuice] AUSTRALIAN COMPOSITE PMI FINAL ACTUAL 51.3 (FORECAST -, PREVIOUS 50.8) $MACRO
+- 10/05 07:00 [financialjuice] AUSTRALIAN SERVICES PMI FINAL ACTUAL 51.9 (FORECAST -, PREVIOUS 51.4) $MACRO

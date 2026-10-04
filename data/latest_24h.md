@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-05 06:45 JST／対象: 10/04 06:45 〜 10/05 06:45 JST（時刻はすべて日本時間）
+生成: 2026-10-05 07:01 JST／対象: 10/04 07:01 〜 10/05 07:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 6 | 10/04 18:55 | 10/05 02:14 | ⚠ 216分（22:36→02:13） |
 | FirstSquawk | 207 | 10/04 09:18 | 10/05 05:36 | ⚠ 96分（03:59→05:36） |
-| financialjuice | 41 | 10/04 07:28 | 10/05 05:17 | ⚠ 199分（07:35→10:54） |
+| financialjuice | 43 | 10/04 07:28 | 10/05 07:00 | ⚠ 199分（07:35→10:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 248 行（統合前 255 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 250 行（統合前 257 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -272,3 +272,5 @@
 - 10/05 03:59 [FirstSquawk] UKMTO SAYS THE CREW ARE REPORTED AS SAFE AND NO ENVIRONMENTAL IMPACT HAS BEEN REPORTED.
 - 10/05 04:28 [financialjuice] Austrian Vice Chancellor Andreas Babler: Finance Minister Markus Marterbauer to succeed him as vice chancellor at start of next year
 - 10/05 05:17 [financialjuice/FirstSquawk] Ex-Anthropic researcher Jacob Coxon to testify at NYC hearing on AI
+- 10/05 07:00 [financialjuice] AUSTRALIAN COMPOSITE PMI FINAL ACTUAL 51.3 (FORECAST -, PREVIOUS 50.8) $MACRO
+- 10/05 07:00 [financialjuice] AUSTRALIAN SERVICES PMI FINAL ACTUAL 51.9 (FORECAST -, PREVIOUS 51.4) $MACRO

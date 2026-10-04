@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-05 06:45 JST／対象: 10/05 00:45 〜 10/05 06:45 JST（時刻はすべて日本時間）
+生成: 2026-10-05 07:01 JST／対象: 10/05 01:01 〜 10/05 07:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 10/05 02:13 | 10/05 02:14 | 1分（02:13→02:14） |
-| FirstSquawk | 34 | 10/05 00:46 | 10/05 05:36 | ⚠ 96分（03:59→05:36） |
-| financialjuice | 7 | 10/05 02:06 | 10/05 05:17 | ⚠ 72分（02:06→03:18） |
+| FirstSquawk | 31 | 10/05 01:14 | 10/05 05:36 | ⚠ 96分（03:59→05:36） |
+| financialjuice | 9 | 10/05 02:06 | 10/05 07:00 | ⚠ 102分（05:17→07:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 41 行（統合前 43 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 40 行（統合前 42 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 00:46 [FirstSquawk] US Energy Secretary to CBS: Europe has large diesel stockpiles, some of which could be released to lower global prices
-- 10/05 00:46 [FirstSquawk] Yemeni Prime Minister: Our goal remains steadfast in extending state authority over all of Yemen and ending the Iranian-backed Houthi coup.
-- 10/05 00:46 [FirstSquawk] Yemeni Prime Minister: We are dealing with the latest developments with a high degree of responsibility to pave the way for the recapture of Sanaa and end the suffering of the Yemeni people.
 - 10/05 01:14 [FirstSquawk] Netanyahu: Our enemies want to threaten our ports and our maritime domain in the Mediterranean Sea, and we will not allow that to happen.
 - 10/05 01:14 [FirstSquawk] President of the UAE and the Prime Minister of Italy discuss cooperation relations and regional developments in a phone call.
 - 10/05 01:15 [FirstSquawk] President of the UAE and the Prime Minister of Italy discuss regional developments and efforts to consolidate security and stability in the region.
@@ -65,3 +62,5 @@
 - 10/05 03:59 [FirstSquawk] UKMTO SAYS THE CREW ARE REPORTED AS SAFE AND NO ENVIRONMENTAL IMPACT HAS BEEN REPORTED.
 - 10/05 04:28 [financialjuice] Austrian Vice Chancellor Andreas Babler: Finance Minister Markus Marterbauer to succeed him as vice chancellor at start of next year
 - 10/05 05:17 [financialjuice/FirstSquawk] Ex-Anthropic researcher Jacob Coxon to testify at NYC hearing on AI
+- 10/05 07:00 [financialjuice] AUSTRALIAN COMPOSITE PMI FINAL ACTUAL 51.3 (FORECAST -, PREVIOUS 50.8) $MACRO
+- 10/05 07:00 [financialjuice] AUSTRALIAN SERVICES PMI FINAL ACTUAL 51.9 (FORECAST -, PREVIOUS 51.4) $MACRO
