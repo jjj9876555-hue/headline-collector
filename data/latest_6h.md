@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-05 08:05 JST／対象: 10/05 02:05 〜 10/05 08:05 JST（時刻はすべて日本時間）
+生成: 2026-10-05 08:24 JST／対象: 10/05 02:24 〜 10/05 08:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 2 | 10/05 02:13 | 10/05 02:14 | 1分（02:13→02:14） |
-| FirstSquawk | 23 | 10/05 02:11 | 10/05 05:36 | ⚠ 96分（03:59→05:36） |
-| financialjuice | 10 | 10/05 02:06 | 10/05 07:40 | ⚠ 102分（05:17→07:00） |
+| DeItaone | 0 | - | - | - |
+| FirstSquawk | 20 | 10/05 02:33 | 10/05 05:36 | ⚠ 96分（03:59→05:36） |
+| financialjuice | 9 | 10/05 03:18 | 10/05 07:40 | ⚠ 102分（05:17→07:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 33 行（統合前 36 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 28 行（統合前 30 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 02:06 [financialjuice/FirstSquawk] Iran oil minister steps down: state media
-- 10/05 02:11 [FirstSquawk] Israeli army: Today in an airstrike on Khan Younis, we killed a member of Hamas' elite unit.
-- 10/05 02:11 [FirstSquawk] Israeli airstrike on the town of Haddatha in the Bint Jbeil district of southern Lebanon
-- 10/05 02:12 [FirstSquawk] Iranian official media: Resignation of the Iranian Oil Minister
-- 10/05 02:13 [DeItaone] IRAN'S OIL MINISTER RESIGNS - STATE MEDIA
-- 10/05 02:14 [DeItaone] MUSK TO RENAME SPACEXAI AS “SPACEXSI” Elon Musk says he will rename SpaceXAI to SpaceXSI, adopting President Trump’s push to replace “artificial intelligence” with “super intelligence.” Musk confirmed the change on X, saying “Yes, we will m…
 - 10/05 02:33 [FirstSquawk] GERMAN PRESIDENT FRANK-WALTER STEINMEIER SAYS 'WE TOOK IN IMMIGRANTS WHO HELPED BUILD OUR COUNTRY AND TIED THEIR FATE TO OURS', ADDING THAT 'GERMANY IS THEIR HOMELAND'.
 - 10/05 02:34 [FirstSquawk] GERMAN PRESIDENT FRANK-WALTER STEINMEIER SAYS THAT 'EVEN MORE THAN 80 YEARS AFTER LIBERATION FROM THE NATIONAL SOCIALIST REGIME, HISTORICAL IGNORANCE WILL NOT BE FORGIVEN', WARNING THAT 'A NEW GERMAN NATIONALISM AWAKENS THE GHOSTS OF THE PA…
 - 10/05 02:34 [FirstSquawk] GERMAN PRESIDENT FRANK-WALTER STEINMEIER SAYS 'WE MUST ASK OURSELVES, WITHOUT SPARING OURSELVES, WHAT GOVERNMENTS AT THE FEDERAL AND STATE LEVELS HAVE FAILED TO DO OVER THE PAST THREE AND A HALF DECADES IF SO MANY PEOPLE ARE TURNING AWAY AN…
@@ -42,6 +36,7 @@
 - 10/05 02:53 [FirstSquawk] GERMANY'S CHANCELLOR MERZ SAYS IN KYIV THAT 'DESPITE THE THREATS FROM MOSCOW IN RECENT DAYS, I CAME ANYWAY' — TOGETHER WITH A COLLEAGUE FROM THE GERMAN GOVERNMENT AND A LARGE BUSINESS DELEGATION — SAYING THIS 'DEMONSTRATES THAT WE WILL NOT …
 - 10/05 02:53 [FirstSquawk] GERMANY'S CHANCELLOR MERZ SAYS 'THE RUSSIAN ECONOMY CANNOT WAGE THIS WAR INDEFINITELY', ARGUING IT 'HAS ALREADY REACHED ITS PAIN THRESHOLD', CITING '7% INFLATION, A 14% CENTRAL-BANK RATE, FALLING OIL AND GAS REVENUES AND AN INCREASINGLY LAR…
 - 10/05 03:18 [financialjuice] One leftist, two nationalist contenders lead election for Bosnia's inter-ethnic tripartite presidency, partial preliminary results show
+- 10/05 03:25 [FirstSquawk] IRAN OIL MINISTER STEPS DOWN: STATE MEDIA
 - 10/05 03:27 [FirstSquawk] TRUMP SAYS 'THE POLLS HAVE ALWAYS UNDERESTIMATED MAGA', CLAIMING 'THEY TRY TO SUPPRESS THE VOTE' BUT THAT HE 'WON ALL 7 SWING STATES, THE POPULAR VOTE, 86% OF COUNTIES, AND 99% OF PRIMARIES THIS YEAR', ADDING 'I AM ON THE BALLOT' - TRUTH SO…
 - 10/05 03:28 [FirstSquawk] TRUMP SAYS 'THE KENNEDY CENTER IS CRUMBLING, AND A GREAT DANGER TO ANYONE WHO WALKS INSIDE', CLAIMING IT 'HAS BEEN THIS WAY FOR YEARS, AND WILL ONLY GET WORSE UNLESS THE RADICAL LEFT JUDGE, WITH HIS TRUMP HATING LAWYER WIFE, ALLOWS ME TO DO…
 - 10/05 03:28 [FirstSquawk] US ENERGY SECRETARY WRIGHT: DIESEL PRICES HIT BY RUSSIA-UKRAINE WAR, CHINA’S EXPORT CURBS & RECENT CLOSURE OF TWO LARGE CALIFORNIA REFINERIES
