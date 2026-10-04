@@ -7,108 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-04 15:08 JST／対象: 10/03 15:08 〜 10/04 15:08 JST（時刻はすべて日本時間）
+生成: 2026-10-04 22:01 JST／対象: 10/03 22:01 〜 10/04 22:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 3 | 10/03 23:51 | 10/04 00:14 | 21分（23:53→00:14） |
-| FirstSquawk | 235 | 10/03 15:25 | 10/04 14:57 | ⚠ 332分（03:46→09:18） |
-| financialjuice | 47 | 10/03 15:17 | 10/04 13:16 | ⚠ 199分（07:35→10:54） |
+| DeItaone | 6 | 10/03 23:51 | 10/04 20:20 | ⚠ 1120分（00:14→18:55） |
+| FirstSquawk | 221 | 10/03 22:15 | 10/04 21:46 | ⚠ 332分（03:46→09:18） |
+| financialjuice | 57 | 10/03 23:18 | 10/04 21:40 | ⚠ 199分（07:35→10:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 280 行（統合前 285 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 281 行（統合前 284 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/03 15:17 [financialjuice] flydubai: circumstances around incident still under investigation, not able to comment further - spokesperson
-- 10/03 15:25 [FirstSquawk] Flydubai spokesperson: The circumstances surrounding the incident are still under investigation
-- 10/03 15:26 [FirstSquawk] Attorney General of the UAE: The final results of the investigations will be announced immediately upon completion of the necessary procedures.
-- 10/03 15:26 [FirstSquawk] China's exoskeleton robots muscle into the consumer mainstream Appliance makers and startups race into a nascent market as devices move beyond medical usage
-- 10/03 15:27 [FirstSquawk] Iran’s Council for Coordinating Nurses’ Protests blamed health authorities, describing them as a “mafia,” for a recent wave of protests and resignations, saying workplace pressure, financial hardship and unequal treatment had driven nurses …
-- 10/03 15:27 [FirstSquawk] Latvian PM Andris Kulbergs' party is expected to win parliamentary elections in a Baltic country with the biggest Russian minority
-- 10/03 15:27 [FirstSquawk] Russian forces launched a combined ballistic missile and drone attack on Kyiv early on Saturday, killing one person and injuring two others. Falling debris ignited fires across several districts as air defenses engaged targets.
-- 10/03 15:28 [FirstSquawk] Open-weight AI models are more vulnerable to manipulation and can lack oversight.
-- 10/03 15:28 [FirstSquawk] Boeing Dodges Strike That Could Have Hit 737 MAX 10, 777X Certification — Engineers' Union Approves New Deal.
-- 10/03 15:28 [financialjuice] Co-pilot in Flydubai incident is Hammam al-Hammami, Omani national: source with direct knowledge
-- 10/03 15:57 [FirstSquawk] German Economy Might Grow 1% This Year, Bundesbank Chief Says
-- 10/03 15:58 [FirstSquawk] EU Officials Spooked by Euro-Area Borrowing Plans as Yields Jump
-- 10/03 15:58 [FirstSquawk] Japanese listed fashion brand Human Made steps up global expansion
-- 10/03 16:00 [FirstSquawk] UAE says the co-pilot on a FlyDubai flight that nearly crashed with 182 people on board attacked the captain with the cockpit’s crash axe in a “terrorist attack.”
-- 10/03 16:00 [financialjuice] Vilnius airport shut, NATO air police jets deployed over possible drone from Belarus: Lithuania's national crisis control centre
-- 10/03 16:00 [FirstSquawk] China’s securities regulator is raising the bar for public listings of humanoid robot startups, according to three sources familiar with the CSRC’s thinking. It’s a sign of how one of the hottest sectors of the market is cooling, as investo…
-- 10/03 16:08 [FirstSquawk] Chinese officials made unusual requests to accommodate Xi Jinping’s need for rest during his September summit with Trump, significantly cutting into the time available for meetings.
-- 10/03 16:09 [FirstSquawk] Russian jet-powered strike drone struck Kyiv’s Northern Bridge on Saturday, damaging the roadway and severing trolleybus power lines. Traffic from the left to right bank has been halted while municipal crews assess the span.
-- 10/03 16:09 [FirstSquawk] US Trump announces $90 checks for more than 20M seniors to help combat Medicare costs
-- 10/03 16:11 [FirstSquawk] AbbVie joins United States government pilot to test drug discount rebates
-- 10/03 16:13 [FirstSquawk] 7 month into war with the US, Iran’s leaders are feeling the strain. Inflation in the Islamic Republic is almost 90%, and a US blockade is choking off Iran’s crude exports, while diplomacy remains deadlocked.
-- 10/03 16:14 [FirstSquawk] Trump: I am pleased to announce that my Administration will, immediately, begin sending “Checks” of nearly $100 to over 20 MILLION wonderful Seniors to help pay for their Medicare Part B premiums, which we have already reduced by significan…
-- 10/03 16:46 [financialjuice] Vilnius airport reopens after drone warning lifted: Lithuania's national crisis control centre
-- 10/03 16:55 [FirstSquawk] China has connected its first 100-megawatt-class compressed carbon dioxide energy storage facility to the grid, marking a major advance in large-scale, zero-carbon energy storage.
-- 10/03 16:55 [FirstSquawk] U.S. Navy MQ-4C Triton surveillance drone ended up on the riverbank at the end of a runway at Naval Station Mayport, Florida, after what appears to be a landing overrun.
-- 10/03 16:56 [FirstSquawk] SpaceX launched three missions in less than 13 hours. • Crew-13: 4 astronauts to the ISS • Transporter-18: payloads to orbit • NROL-97: Classified NRO mission
-- 10/03 16:56 [FirstSquawk] Researchers drove a Chinese NIO electric SUV into a Norwegian mine to cut its connections. It kept trying to reach servers in China. About 90% of its traffic went there.
-- 10/03 16:57 [FirstSquawk] Ethiopian federal forces and allied pro-government Tigray militias are closing in on Mekelle, Tigray's capital, after reversing a TPLF-led offensive that began in late September.
-- 10/03 17:36 [FirstSquawk] Benjamin Netanyahu accused Andy Burnham's Government of “mind-blowing hypocrisy” for imposing sanctions on Israeli settlements.
-- 10/03 17:36 [FirstSquawk] Iran has restored key satellite-development infrastructure damaged during the war, although the facilities are not yet back to full capacity, the acting head of the Iranian Space Research Center said on Saturday
-- 10/03 17:37 [FirstSquawk] Global hotel operators hurt by the US-Iran conflict should see early signs of a demand recovery in the Middle East as the region enters its peak travel season, though business will remain well below pre-war levels, analysts say.
-- 10/03 17:37 [FirstSquawk] UK new car sales rise 12% in September as EVs and Chinese brands gain ground
-- 10/03 17:40 [FirstSquawk] Malaysia is considering spending more than $245 million on a new naval strike missile system after a deal with Norway collapsed earlier this year, the Star reported.
-- 10/03 17:41 [financialjuice] One killed, ten wounded in drone strike on Ukraine's Zaporizhzhia region: Russian-installed governor, Tass reports
-- 10/03 18:14 [financialjuice] US-Russia talks on Ukraine now include a multi-billion dollar oil pact linked to Trump allies: NYT
-- 10/03 18:32 [financialjuice] Pakistan foreign ministry summons Indian charge d'affaires over killing of two Pakistani civilians
-- 10/03 18:37 [financialjuice] Two killed, three wounded in assault on Ukraine's Luhansk region: Russian-installed governor
-- 10/03 18:47 [FirstSquawk] Israeli occupation forces fire tear gas canisters at citizens and journalists in the town of Osarin in Nablus, West Bank
-- 10/03 18:47 [FirstSquawk] Settlers burn olive trees on Palestinian land in the town of Abu Dis in the occupied Jerusalem district
-- 10/03 18:48 [FirstSquawk] Sudanese government source told Al Jazeera: Rapid Support Forces marches targeted the home of the governor of Blue Nile State in Damazin, but the governor was unharmed.
-- 10/03 18:48 [FirstSquawk] Yemeni government forces: We repelled Houthi militia attacks on Jabal Han, Hadhran, and the western fronts of the city of Taiz
-- 10/03 18:48 [FirstSquawk] Israeli Broadcasting Authority, quoting a security official: The Israeli army targeted Hamas leader Ali al-Amoudi in Gaza with an airstrike last night.
-- 10/03 19:07 [financialjuice] North Korea reports completion of strategic weapons launch exercise - KCNA
-- 10/03 19:07 [financialjuice/FirstSquawk] North Korea's Kim Yo Jong: Intermediate-range strategic missile employed in drill - KCNA
-- 10/03 19:12 [FirstSquawk] Pakistan's Foreign Ministry: Indian chargé d'affaires summoned following the killing of two Pakistani civilians by Indian security forces at the border
-- 10/03 19:13 [FirstSquawk] Yemeni sources in Sana'a: Airstrikes target Al-Nahdain and Jabal Attan
-- 10/03 19:13 [FirstSquawk] Yemeni sources in Sana'a: 6 airstrikes so far and heavy aerial activity.
-- 10/03 19:13 [FirstSquawk] Yemeni sources: Warplanes target militia gatherings at the eastern entrance to Taiz city
-- 10/03 19:30 [financialjuice/FirstSquawk] Russia strikes foreign-flagged vessel in Ukraine's Odesa port: one sailor killed, three injured - Ukrainian port authorities
-- 10/03 19:50 [FirstSquawk] NVIDIA CEO JENSEN HUANG SAYS 'KOREA'S ASPIRATIONS ARE GREATER THAN YOUR HUMAN CAPITAL', NOTING IT IS 'STILL A SMALL COUNTRY IN TERMS OF OVERALL NUMBER OF CITIZENS', BUT THAT WITH AI AND AUTOMATION 'YOU COULD PUNCH WELL ABOVE YOUR WEIGHT' AN…
-- 10/03 19:50 [FirstSquawk] NVIDIA CEO JENSEN HUANG SAYS 'IF YOU LOVE EATING, GOING TO KOREA IS THE PERFECT PLACE, NOT TO MENTION DRINKING', JOKING THAT HE'S 'ONLY BEEN KISSED IN THE MOUTH BY A MAN IN KOREA', A SAMSUNG EMPLOYEE NAMED JAY.
-- 10/03 19:50 [FirstSquawk] NVIDIA CEO JENSEN HUANG SAYS THAT 'IF THE INSTRUCTION YOU GIVE TO THE AI IS AMBIGUOUS', IT IS HARD TO KNOW AT ANY GIVEN POINT 'THAT YOU'RE GOING TO LIKE THE JOURNEY THAT IT'S TAKING'.
-- 10/03 19:50 [FirstSquawk] NVIDIA CEO JENSEN HUANG SAYS THE ANSWER IS 'VERY SIMPLE' — 'YOU HAVE TO CONTAIN AND YOU HAVE TO MONITOR IT' — ADDING THAT THIS IS HOW 'WE DEAL WITH EMPLOYEES, CHILDREN, STUDENTS — ALMOST ANYTHING WITH AUTONOMOUS CAPABILITIES: HUMANS'.
-- 10/03 19:52 [FirstSquawk] GERMANY INSA POLL: CDU/CSU HITS RECORD-LOW 18%, AFD REACHES RECORD-HIGH 30%; DISSATISFACTION WITH MERZ & GOVERNING COALITION ALSO AT RECORD LEVELs
-- 10/03 19:52 [FirstSquawk] THE TRUMP ADMINISTRATION'S UKRAINE TALKS WITH RUSSIA HAVE EXPANDED TO INCLUDE A MULTIBILLION-DOLLAR DEAL FOR LUKOIL'S INTERNATIONAL ASSETS, WITH PUTIN HAVING RAISED THE DEAL WITH STEVE WITKOFF AND JARED KUSHNER DURING A SEPT. 5 KREMLIN MEET…
-- 10/03 19:52 [FirstSquawk] THE LEADING BIDDER IS A GROUP INVOLVING TRUMP DONOR TODD BOEHLY, QATAR-BASED INVESTORS WITH BUSINESS TIES TO KUSHNER, AN ABU DHABI FUND LINKED TO SHEIKH TAHNOON, AND THE U.S. GOVERNMENT, WITH NO INDICATION KUSHNER OR WITKOFF WOULD PERSONALL…
-- 10/03 19:53 [FirstSquawk] ZELENSKY URGES TRUMP TO SANCTION RUSSIAN & CHINESE COMPANIES DEVELOPING ‘RASSVET’ SATELLITE NETWORK TO RIVAL STARLINK — FT
-- 10/03 20:08 [FirstSquawk] AFP: Explosions heard in the Yemeni capital Sanaa
-- 10/03 20:08 [FirstSquawk] Russian Foreign Ministry: Our forces will continue to launch large-scale retaliatory strikes against military targets in Kyiv and other Ukrainian cities.
-- 10/03 20:09 [FirstSquawk] Russian Foreign Ministry: We reiterate our warning to foreign nationals and diplomatic mission staff against remaining in or traveling to Ukraine.
-- 10/03 20:09 [FirstSquawk] Russian Foreign Ministry: Foreigners and diplomats who have not left Kyiv are deliberately putting their lives at mortal risk.
-- 10/03 20:10 [FirstSquawk] RENAULT GROUP TO INVEST MORE THAN €10 BILLION IN FRANCE OVER COMING YEARS IN EVS & MORE AFFORDABLE CARS — CEO
-- 10/03 20:11 [FirstSquawk] RENAULT GROUP EXPECTS FRANCE PRODUCTION TO RISE MORE THAN 25% IN 2026, DRIVEN BY GROWING EV OUTPUT — CEO
-- 10/03 20:20 [FirstSquawk] OPENAI SAFETY SYSTEMS LEADER DAVID ROBINSON RESIGNS FROM COMPANY — BUSINESS INSIDER
-- 10/03 20:22 [FirstSquawk] Lebanese News Agency: Massive and powerful explosions in Mansouri and tremors felt in Tyre, southern Lebanon
-- 10/03 20:31 [financialjuice] Large plume of smoke and flames seen near Aramco facility in Riyadh: witness
-- 10/03 20:32 [financialjuice] No immediate confirmation from Saudi authorities or Aramco on fire near Riyadh site
-- 10/03 20:42 [FirstSquawk] AFP: Tens of thousands demonstrate in Madrid and other Spanish cities over the housing crisis
-- 10/03 20:55 [FirstSquawk] FIRE & LARGE PLUME OF SMOKE REPORTED NEAR ARAMCO FACILITY IN RIYADH; NO IMMEDIATE CONFIRMATION FROM SAUDI AUTHORITIES OR ARAMCO
-- 10/03 21:30 [FirstSquawk] Hamas: The massacre at the Al-Asala building is a brutal crime that confirms the occupation's determination to continue its war of extermination in Gaza.
-- 10/03 21:30 [FirstSquawk] Hamas: The martyrdom of a mother and her daughter, both Christians from our community, in the Al-Asala massacre confirms that the occupation targets our people in all their diversity.
-- 10/03 21:31 [FirstSquawk] Hamas: We demand that mediators and the US administration prevent Netanyahu from using the ceasefire agreement as a cover to continue his massacres in Gaza.
-- 10/03 21:38 [FirstSquawk] IRAN’S EXCHANGE SUSPENDED TRADING IN SIX LISTED OIL REFINERS — ISFAHAN, BANDAR ABBAS, TEHRAN, TABRIZ, SHIRAZ AND LAVAN — THROUGH OCT. 14 FOR LATE DISCLOSURE OF MATERIAL INFORMATION.
-- 10/03 21:38 [FirstSquawk] THE HALTS COVER ALMOST THE ENTIRE LISTED REFINING SECTOR, AS DOMESTIC REFINERS FACE GREATER PRESSURE AFTER IRANIAN OIL EXPORTS FELL TO ABOUT 0.5 MILLION B/D IN JULY-AUGUST FROM 2.6 MILLION B/D IN JANUARY.
-- 10/03 21:51 [FirstSquawk] ISRAELI AIRSTRIKE HITS GAZA CITY APARTMENT, KILLING AT LEAST 5 & WOUNDING 6 — AL JAZEERA
-- 10/03 21:52 [FirstSquawk] ISRAELI PRIME MINISTER NETANYAHU HAS ATTACKED BRITAIN AGAIN, SAYING 'THE BRITISH GOVERNMENT, IN ORDER TO INGRATIATE ITSELF WITH ITS POLITICAL BASE, HAS GONE ROGUE. LIKE A ROGUE STATE'. - DAILY MAIL
-- 10/03 21:52 [FirstSquawk] NETANYAHU SAYS 'ISLAMISTS AND LEFTISTS OUGHT TO BE NATURAL ADVERSARIES', ARGUING THAT 'ISLAMISTS HANG GAYS AND DEPRIVE WOMEN OF ANY RIGHTS'. - DAILY MAIL
-- 10/03 21:52 [FirstSquawk] NETANYAHU SAYS ON BRITAIN THAT 'IF BRITAIN DOESN'T REGAIN CONTROL OVER ITS BORDERS, YOU WILL LOSE BRITAIN' - DAILY MAIL
-- 10/03 21:53 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT SAYS 'WE WILL GET TO THE OTHER SIDE OF THIS IRAN CONFLICT' AND THAT 'WAGE GAINS WILL KEEP COMING BECAUSE WE ARE HAVING A MANUFACTURING RENAISSANCE'. - AXIOS
-- 10/03 21:53 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT SAYS ON CHINA THAT OVER THE PAST 60 DAYS IT HAS 'WOKEN UP TO... HOW POWERFUL THEIR OPEN SOURCE MODELS ARE', ACCUSING CHINESE FIRMS OF 'INDUSTRIAL DISTILLATION, WHICH IS A NICE WORD FOR STEALING FROM THE U.S. …
-- 10/03 21:53 [FirstSquawk] ASKED ABOUT CEOS 'SCREAMING FOR REGULATION' AND WARNING OF LOSING CONTROL OF AI, BESSENT SAYS 'WELL, THEN THEY SHOULD SLOW DOWN', LIKENING IT TO 'HANNIBAL LECTER: STOP ME BEFORE I KILL AGAIN' - AXIOS
-- 10/03 21:53 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT SAYS ON ELON MUSK THAT 'I AM A HUGE ELON FAN' AND WAS 'VERY SUPPORTIVE' OF WHAT HE WAS TRYING TO DO WITH GOVERNMENT, LIKENING THEM TO 'A SPORTS TEAM' THAT 'CAN HAVE AN ARGUMENT IN THE LOCKER ROOM, BUT YOU GO …
-- 10/03 21:53 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT SAYS ON IRAN THAT 'FOR THE FIRST TIME IN HISTORY, SINCE THEY STARTED PUMPING OIL, THEY WILL HAVE NO OIL ON THE WATER THIS WEEK', ADDING 'THEY WILL HAVE NO REVENUES' - AXIOS
-- 10/03 21:56 [FirstSquawk] SOUTH KOREA’S FINANCIAL SERVICES COMMISSION WILL HOLD AN EMERGENCY MEETING ON SUNDAY AFTER A SPATE OF CYBERSECURITY INCIDENTS AND DATA LEAKS, WITH FSC CHAIR LEE EOG-EWON TO REVIEW THE BREACHES AND DISCUSS RESPONSE MEASURES.
-- 10/03 21:56 [FirstSquawk] DATA LEAKS HAVE BEEN CONFIRMED AT SHINHAN, KB KOOKMIN, HANA AND BNK BUSAN BANKS, AS WELL AS YEGARAM SAVINGS BANK, WHERE ABOUT 40,000 CUSTOMERS WERE AFFECTED; HYUNDAI CAPITAL ALSO REPORTED A LEAK INVOLVING 146 MORTGAGE AGENTS.
 - 10/03 22:15 [FirstSquawk] OPENAI AI-SAFETY EMPLOYEE DAVID ROBINSON QUIT THE COMPANY, WARNING THAT LEADING AI FIRMS ARE NOT DOING ENOUGH TO MANAGE RISKS AS THE TECHNOLOGY’S CAPABILITIES GROW. ROBINSON SAID AI COMPANIES SHOULD OPERATE MORE LIKE NUCLEAR POWER PLANTS, W…
 - 10/03 22:23 [FirstSquawk] IRAN HALTS TRADING IN SIX OIL REFINERS IRAN SUSPENDED TRADING IN ISFAHAN, BANDAR ABBAS, TEHRAN, TABRIZ, SHIRAZ AND LAVAN REFINERS THROUGH OCT. 14 OVER LATE DISCLOSURE OF MATERIAL INFORMATION. THE SIX HALTS WERE ANNOUNCED WITHIN 16 MINUTES, …
 - 10/03 22:46 [FirstSquawk] Israeli army: We killed two commanders in the Islamic Jihad's missile system in two separate airstrikes on Gaza yesterday
@@ -304,3 +219,89 @@
 - 10/04 14:42 [FirstSquawk] US Marine detained in Okinawa on suspicion of robbing and murdering Japanese woman - RTRS
 - 10/04 14:47 [FirstSquawk] Vietjet Thailand plans major fleet expansion to 50 aircraft by 2028 as international network grows -NA
 - 10/04 14:57 [FirstSquawk] China steps up bank closures as it seeks to strengthen financial system: FT
+- 10/04 15:21 [financialjuice] Iran's parliament speaker Qalibaf: Strait of Hormuz won't reopen until Tehran's conditions met, US can no longer delay – Nournews
+- 10/04 16:00 [FirstSquawk] Takaichi policy speech, Malaysia budget, Pacific islands climate summit
+- 10/04 16:31 [FirstSquawk] Chancellor Friedrich Merz reiterated Germany’s backing for Ukraine as he arrived in Kyiv on Sunday and warned that Russia could attack the Western alliance
+- 10/04 16:31 [FirstSquawk] Japan already dominates the U.S. industrial robot market. Now its biggest players are doubling down.
+- 10/04 16:31 [FirstSquawk] Iran tells the United States there is no "military solution" to their conflict
+- 10/04 16:32 [FirstSquawk] Japan's PM Takaichi protests to US over Marine's Okinawa murder arrest
+- 10/04 16:34 [FirstSquawk] Araghchi also said that the Strait of Hormuz would fully reopen within seven days if Iran’s conditions were accepted and the US blockade was lifted
+- 10/04 16:38 [FirstSquawk] German Chancellor Merz arrives in Kyiv, pledges further support for Ukraine. Merz was accompanied by Economy Minister Katherina Reiche and 10 executives from Germany's defense and energy sectors.
+- 10/04 16:56 [financialjuice] OPEC+ reaches agreement in principle to maintain oil output targets in November, delegate says
+- 10/04 16:56 [financialjuice] UKMTO reports incident in Strait of Hormuz
+- 10/04 16:56 [financialjuice] UKMTO: tanker hit by unidentified projectile, engine room damaged
+- 10/04 16:56 [financialjuice] UKMTO: crew safe, no environmental impact reported at time of statement
+- 10/04 16:57 [FirstSquawk] OPEC+ reaches agreement in principle to maintain oil output targets in Nov
+- 10/04 16:57 [FirstSquawk] UKMTO says incident in Strait of Hormuz
+- 10/04 16:58 [FirstSquawk] tanker reported being struck by an unknown projectile in the Strait of Hormuz, causing damage to its engine room, the United Kingdom Maritime Trade Operations said on Sunday.
+- 10/04 16:58 [FirstSquawk] Russia's Medvedev: In regional matters, the emphasis should primarily be placed on regional powers. As soon as extra-regional powers become involved in managing processes in one region or another, expect trouble.
+- 10/04 16:59 [financialjuice] Iran foreign minister spokesman: return of IAEA inspectors not discussed
+- 10/04 17:08 [financialjuice] Iran foreign ministry spokesperson: some further details still to be shared with U.S.
+- 10/04 17:31 [FirstSquawk] UK government said it will scrap earlier plans for some criminal trials to be heard by a judge alone, watering down proposed legislation that had sparked strong opposition from legal professionals and some Labour backbenchers.
+- 10/04 17:32 [FirstSquawk] North Korea test-fired a hypersonic missile, claiming it hit a sea target 1,000 km away using a "wave-like trajectory" designed to evade radar.
+- 10/04 17:32 [FirstSquawk] Russian drones struck Kyiv's Northern Bridge on two consecutive mornings while civilian traffic was crossing.
+- 10/04 17:32 [FirstSquawk] Iran's FM Spox. Esmail Baghaei: The claim that the Iranian delegation was expelled from the U.S. is absurd and completely false. The U.S. failed to block Iran’s UN participation or portray it as isolated, so it resorted to fabricating absur…
+- 10/04 17:48 [financialjuice] Iran's foreign ministry spokesperson: Tehran has clarified its positions via mediators to US response to 7 day plan
+- 10/04 17:55 [FirstSquawk] Iran accused Britain of complicity in military attacks against the country by allowing its bases to be used by US and Israeli forces, the foreign ministry spokesman said on Sunday.
+- 10/04 17:55 [FirstSquawk] Iranian foreign ministry spokesperson: Tehran has clarified its positions via mediators to US response to 7 day plan
+- 10/04 17:56 [FirstSquawk] United, American Airlines up Japan routes to tap demand fueled by weak yen Alaska Airlines upgrades cabins as stock market gains increase customer buying power
+- 10/04 17:56 [FirstSquawk] Iranian Foreign Minister Abbas Araghchi rejected a report that Iranian diplomats were “kicked out” of the United States, saying the delegation left after attending the UN General Assembly as scheduled.
+- 10/04 18:14 [FirstSquawk] Republican Ohio Senate candidate Vivek Ramaswamy invokes Kamala Harris while targeting his potential Democratic rival in the 2026 Ohio Senate race.
+- 10/04 18:14 [FirstSquawk] Iran remains a member of the Treaty on the Non-Proliferation of Nuclear Weapons (NPT) and is aware of its obligations as long as it remains in the treaty, Foreign Ministry spokesman Esmaeil Baghaei said on Sunday.
+- 10/04 18:15 [FirstSquawk] Bosnia elections pit EU hopes against Russian influence
+- 10/04 18:16 [FirstSquawk] mood in publishing is gloomy ahead of the major Frankfurt Book Fair
+- 10/04 18:16 [FirstSquawk] Iran rejected US President Donald Trump’s assertion that Washington does not know who its Iranian negotiating counterpart is, saying a six-member committee under the Supreme National Security Council is overseeing negotiations.
+- 10/04 18:38 [financialjuice] Fire erupts at enterprise in Russia's Krasnodar region after drone debris falls; three hurt, authorities say
+- 10/04 18:40 [FirstSquawk] Iranian Foreign Ministry Spokesperson: Tehran has already responded to the American proposal.
+- 10/04 18:41 [FirstSquawk] Iranian Foreign Ministry Spokesperson: The issue of the return of IAEA inspectors was not discussed.
+- 10/04 18:41 [FirstSquawk] Iran: The American proposal is similar to previous proposals and focuses on the nuclear issue, while we want to focus on "Hormuz".
+- 10/04 18:41 [FirstSquawk] Fighting intensifies southwest of Taiz, and the road linking Taiz to Lahj and Aden is cut off.
+- 10/04 18:42 [FirstSquawk] Houthi media: Airstrikes target areas in Al-Jawf Governorate, northeastern Yemen
+- 10/04 18:42 [FirstSquawk] Kremlin: Expert-level contacts with US representatives are ongoing.
+- 10/04 18:42 [FirstSquawk] Kremlin: Ukraine is no closer to negotiations with Russia, while Europe continues to obstruct the resumption of the negotiation process.
+- 10/04 18:54 [financialjuice] Russia to ramp up strikes on Kyiv and other Ukraine regions following Zelenskiy remarks: Tass cites Russia defence ministry
+- 10/04 18:55 [DeItaone] RUSSIA WILL INTENSIFY STRIKES ON KYIV AND OTHER REGIONS OF UKRAINE FOLLOWING LATEST ZELENSKIY REMARKS - TASS CITES RUSSIA DEFENCE MINISTRY
+- 10/04 19:07 [financialjuice] Iran’s army spokesperson: After war with US, Tehran plans to enhance missile range - Fars News
+- 10/04 19:12 [FirstSquawk] Russian Defense Ministry: We will intensify strikes on Kyiv and other areas in Ukraine following Zelensky's recent statements.
+- 10/04 19:12 [FirstSquawk] Russian Defense Ministry: Casualties and damage to homes in a Ukrainian strike last night targeting areas in Belgorod
+- 10/04 19:21 [FirstSquawk] Fars News Agency, quoting the Iranian military spokesman: Tehran has decided to work on increasing the range of its missiles following the war with America
+- 10/04 19:53 [FirstSquawk] Israeli airstrike on the town of Mansouri in the Tyre district of southern Lebanon
+- 10/04 20:05 [FirstSquawk] Yemeni sources: The Houthis seized the home of Yemeni Parliament Speaker Sultan al-Barakani south of Taiz after clashes with government forces.
+- 10/04 20:05 [FirstSquawk] Lebanese media: A violent Israeli bombing in the town of Mansouri, Tyre district, southern Lebanon
+- 10/04 20:14 [FirstSquawk] Lebanese News Agency: Israeli bombing on the outskirts of the town of Barashit in the Bint Jbeil district of southern Lebanon
+- 10/04 20:14 [financialjuice] OPEC+ keeps oil output quotas unchanged for November at Sunday meeting: statement
+- 10/04 20:19 [DeItaone] OPEC+ MAKES NO CHANGE TO OIL OUTPUT QUOTAS FOR NOVEMBER AT SUNDAY MEETING, STATEMENT SAYS
+- 10/04 20:20 [DeItaone] IRAN REFUSES TO REOPEN STRAIT OF HORMUZ Iran says the Strait of Hormuz will remain closed until the U.S. meets seven conditions established under the June Islamabad agreement. Tehran says its immediate focus is restoring security in the str…
+- 10/04 20:47 [FirstSquawk] Sirens activated in Kharkiv amid warnings of a missile attack
+- 10/04 20:49 [FirstSquawk] Sisi calls for dialogue on cross-border issues during African summit
+- 10/04 20:49 [FirstSquawk] Australian authorities probe Flydubai attacker’s links to the country - FT
+- 10/04 20:49 [FirstSquawk] Britain’s Budget needs to tame spending and boost growth - FT
+- 10/04 20:50 [FirstSquawk] Bosnia elections pit EU hopes against Russian influence - FT
+- 10/04 20:50 [FirstSquawk] Germany’s Merz arrives in Kyiv to show support for Ukraine - FT
+- 10/04 20:50 [FirstSquawk] Wall Street’s IPO fervour cools on tepid demand and valuation worries - FT
+- 10/04 20:51 [FirstSquawk] Turkey's largest state-linked defense company, Aselsan, seeks partnerships with Japanese companies on underwater drones and air defense systems. - Nikkei
+- 10/04 20:51 [FirstSquawk] Thai protestors slam Chinese, other foreign companies as economy slows -Nikkei
+- 10/04 20:51 [FirstSquawk] EVs and hybrids drive Thailand auto sales recovery, Gasoline-powered passenger cars shrink to less than a fifth of market in August - Nikkei
+- 10/04 20:52 [FirstSquawk] Chinese name-brand goods like Songmont bags and Pane shoes are gaining a following among shoppers looking for quality items at reasonable prices, along with foreign travelers looking for local souvenirs. - Nikkei
+- 10/04 20:52 [FirstSquawk] Myanmar-born Japanese designer looks to Paris for a new fashion training model. - Nikkei
+- 10/04 20:52 [FirstSquawk] Japan's PM Takaichi protests to US over Marine's Okinawa murder arrest - Nikkei
+- 10/04 21:00 [financialjuice] Germany's Chancellor Merz: undeterred by assault during our visit
+- 10/04 21:00 [financialjuice] Germany's Chancellor Merz urges Russia to join peace talks
+- 10/04 21:00 [financialjuice] Germany’s Chancellor Merz: immeasurable consequences for Europe if government fails to meet challenges, will do everything to keep government stable
+- 10/04 21:00 [financialjuice] Germany's Chancellor Merz: Russian strikes on Germany won't cease if Berlin halts support for Ukraine
+- 10/04 21:00 [financialjuice] Germany's Chancellor Merz: Russia intends to shatter morale of Ukrainians
+- 10/04 21:00 [financialjuice] Germany’s Chancellor Merz: unveiling military aid package of about 1 billion euros for Ukraine
+- 10/04 21:00 [financialjuice] Germany's Chancellor Merz: preparing winter energy support package of about 350 million euros for Ukraine
+- 10/04 21:05 [financialjuice] Head of Yemen's presidential leadership council al-Alimi: military operations have started to reclaim remaining Houthi-held territory
+- 10/04 21:24 [financialjuice] Trump: John Coale named as new special presidential envoy for hostage affairs
+- 10/04 21:37 [financialjuice] Russia's deputy PM Novak: JMMC observed significant fluctuations in global oil markets, citing a supply shortfall
+- 10/04 21:40 [financialjuice] Russia's Deputy PM Novak: russia and Saudi Arabia to discuss oil market and 2026-2027 outlook on October 12 in Riyadh
+- 10/04 21:44 [FirstSquawk] Zelensky: Putin wants to weaken Ukraine's ability to resist as much as possible.
+- 10/04 21:45 [FirstSquawk] Zelensky: I am shocked by Russia's "brutal" desire to escalate the situation day after day
+- 10/04 21:45 [FirstSquawk] Zelensky: Ukraine and Germany are doing everything they can to ensure Europe's participation in the diplomatic process to end the war.
+- 10/04 21:45 [FirstSquawk] German Chancellor, speaking from Kyiv, announced that Germany will provide Ukraine with a military aid package worth approximately one billion euros.
+- 10/04 21:45 [FirstSquawk] Mertz: Russian attacks on Germany will not stop even if Berlin halts its aid to Ukraine.
+- 10/04 21:45 [FirstSquawk] Mertz: I call on Russia to enter into peace talks
+- 10/04 21:45 [FirstSquawk] Mertz: We are preparing an energy aid package for Ukraine for the winter worth approximately 350 million euros.
+- 10/04 21:46 [FirstSquawk] Mertz: Russia aims to break the morale of the Ukrainians
+- 10/04 21:46 [FirstSquawk] Trump announces the formation of a "super-intelligence force" to coordinate US government efforts and ensure Washington's leadership in this field.
