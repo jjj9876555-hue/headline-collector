@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-05 07:35 JST／対象: 10/04 19:35 〜 10/05 07:35 JST（時刻はすべて日本時間）
+生成: 2026-10-05 07:53 JST／対象: 10/04 19:53 〜 10/05 07:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 10/04 20:19 | 10/05 02:14 | ⚠ 216分（22:36→02:13） |
 | FirstSquawk | 82 | 10/04 19:53 | 10/05 05:36 | ⚠ 96分（03:59→05:36） |
-| financialjuice | 24 | 10/04 20:14 | 10/05 07:00 | ⚠ 199分（22:46→02:06） |
+| financialjuice | 25 | 10/04 20:14 | 10/05 07:40 | ⚠ 199分（22:46→02:06） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 105 行（統合前 112 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 106 行（統合前 114 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -129,3 +129,4 @@
 - 10/05 05:17 [financialjuice/FirstSquawk] Ex-Anthropic researcher Jacob Coxon to testify at NYC hearing on AI
 - 10/05 07:00 [financialjuice] AUSTRALIAN COMPOSITE PMI FINAL ACTUAL 51.3 (FORECAST -, PREVIOUS 50.8) $MACRO
 - 10/05 07:00 [financialjuice] AUSTRALIAN SERVICES PMI FINAL ACTUAL 51.9 (FORECAST -, PREVIOUS 51.4) $MACRO
+- 10/05 07:40 [financialjuice] US B-1 bombers evacuated from UK base after attack threats from Iran - Axios
