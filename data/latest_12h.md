@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-05 07:01 JST／対象: 10/04 19:01 〜 10/05 07:01 JST（時刻はすべて日本時間）
+生成: 2026-10-05 07:20 JST／対象: 10/04 19:20 〜 10/05 07:20 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 10/04 20:19 | 10/05 02:14 | ⚠ 216分（22:36→02:13） |
-| FirstSquawk | 85 | 10/04 19:12 | 10/05 05:36 | ⚠ 96分（03:59→05:36） |
-| financialjuice | 25 | 10/04 19:07 | 10/05 07:00 | ⚠ 199分（22:46→02:06） |
+| FirstSquawk | 83 | 10/04 19:21 | 10/05 05:36 | ⚠ 96分（03:59→05:36） |
+| financialjuice | 24 | 10/04 20:14 | 10/05 07:00 | ⚠ 199分（22:46→02:06） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 109 行（統合前 116 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 106 行（統合前 113 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/04 19:07 [financialjuice] Iran’s army spokesperson: After war with US, Tehran plans to enhance missile range - Fars News
-- 10/04 19:12 [FirstSquawk] Russian Defense Ministry: We will intensify strikes on Kyiv and other areas in Ukraine following Zelensky's recent statements.
-- 10/04 19:12 [FirstSquawk] Russian Defense Ministry: Casualties and damage to homes in a Ukrainian strike last night targeting areas in Belgorod
 - 10/04 19:21 [FirstSquawk] Fars News Agency, quoting the Iranian military spokesman: Tehran has decided to work on increasing the range of its missiles following the war with America
 - 10/04 19:53 [FirstSquawk] Israeli airstrike on the town of Mansouri in the Tyre district of southern Lebanon
 - 10/04 20:05 [FirstSquawk] Yemeni sources: The Houthis seized the home of Yemeni Parliament Speaker Sultan al-Barakani south of Taiz after clashes with government forces.
