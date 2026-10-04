@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-05 07:20 JST／対象: 10/04 19:20 〜 10/05 07:20 JST（時刻はすべて日本時間）
+生成: 2026-10-05 07:35 JST／対象: 10/04 19:35 〜 10/05 07:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 10/04 20:19 | 10/05 02:14 | ⚠ 216分（22:36→02:13） |
-| FirstSquawk | 83 | 10/04 19:21 | 10/05 05:36 | ⚠ 96分（03:59→05:36） |
+| FirstSquawk | 82 | 10/04 19:53 | 10/05 05:36 | ⚠ 96分（03:59→05:36） |
 | financialjuice | 24 | 10/04 20:14 | 10/05 07:00 | ⚠ 199分（22:46→02:06） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 106 行（統合前 113 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 105 行（統合前 112 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/04 19:21 [FirstSquawk] Fars News Agency, quoting the Iranian military spokesman: Tehran has decided to work on increasing the range of its missiles following the war with America
 - 10/04 19:53 [FirstSquawk] Israeli airstrike on the town of Mansouri in the Tyre district of southern Lebanon
 - 10/04 20:05 [FirstSquawk] Yemeni sources: The Houthis seized the home of Yemeni Parliament Speaker Sultan al-Barakani south of Taiz after clashes with government forces.
 - 10/04 20:05 [FirstSquawk] Lebanese media: A violent Israeli bombing in the town of Mansouri, Tyre district, southern Lebanon
