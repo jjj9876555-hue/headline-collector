@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-05 07:53 JST／対象: 10/04 19:53 〜 10/05 07:53 JST（時刻はすべて日本時間）
+生成: 2026-10-05 08:05 JST／対象: 10/04 20:05 〜 10/05 08:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 10/04 20:19 | 10/05 02:14 | ⚠ 216分（22:36→02:13） |
-| FirstSquawk | 82 | 10/04 19:53 | 10/05 05:36 | ⚠ 96分（03:59→05:36） |
+| FirstSquawk | 79 | 10/04 20:14 | 10/05 05:36 | ⚠ 96分（03:59→05:36） |
 | financialjuice | 25 | 10/04 20:14 | 10/05 07:40 | ⚠ 199分（22:46→02:06） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 106 行（統合前 114 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 103 行（統合前 111 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/04 19:53 [FirstSquawk] Israeli airstrike on the town of Mansouri in the Tyre district of southern Lebanon
-- 10/04 20:05 [FirstSquawk] Yemeni sources: The Houthis seized the home of Yemeni Parliament Speaker Sultan al-Barakani south of Taiz after clashes with government forces.
-- 10/04 20:05 [FirstSquawk] Lebanese media: A violent Israeli bombing in the town of Mansouri, Tyre district, southern Lebanon
 - 10/04 20:14 [FirstSquawk] Lebanese News Agency: Israeli bombing on the outskirts of the town of Barashit in the Bint Jbeil district of southern Lebanon
 - 10/04 20:14 [financialjuice] OPEC+ keeps oil output quotas unchanged for November at Sunday meeting: statement
 - 10/04 20:19 [DeItaone] OPEC+ MAKES NO CHANGE TO OIL OUTPUT QUOTAS FOR NOVEMBER AT SUNDAY MEETING, STATEMENT SAYS
