@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-05 13:01 JST／対象: 10/05 01:01 〜 10/05 13:01 JST（時刻はすべて日本時間）
+生成: 2026-10-05 13:24 JST／対象: 10/05 01:24 〜 10/05 13:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 10/05 02:13 | 10/05 09:05 | ⚠ 411分（02:14→09:05） |
-| FirstSquawk | 79 | 10/05 01:14 | 10/05 13:00 | ⚠ 221分（05:36→09:18） |
-| financialjuice | 27 | 10/05 02:06 | 10/05 12:06 | ⚠ 102分（05:17→07:00） |
+| FirstSquawk | 72 | 10/05 01:28 | 10/05 13:00 | ⚠ 221分（05:36→09:18） |
+| financialjuice | 30 | 10/05 02:06 | 10/05 13:15 | ⚠ 102分（05:17→07:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 107 行（統合前 112 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 103 行（統合前 108 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 01:14 [FirstSquawk] Netanyahu: Our enemies want to threaten our ports and our maritime domain in the Mediterranean Sea, and we will not allow that to happen.
-- 10/05 01:14 [FirstSquawk] President of the UAE and the Prime Minister of Italy discuss cooperation relations and regional developments in a phone call.
-- 10/05 01:15 [FirstSquawk] President of the UAE and the Prime Minister of Italy discuss regional developments and efforts to consolidate security and stability in the region.
-- 10/05 01:15 [FirstSquawk] Israeli news site Walla, citing security sources: The US military is currently deploying about 3,000 soldiers in Israel
-- 10/05 01:15 [FirstSquawk] Walla News: The tasks of American soldiers in Israel include air defense systems, pilots, support teams, and logistics
-- 10/05 01:15 [FirstSquawk] Walla News: US forces and aircraft will be reinforced in Israel in the coming weeks in preparation for a possible escalation in the region.
-- 10/05 01:15 [FirstSquawk] Jordanian Foreign Ministry condemns Israel's resumption of violations in Quneitra, southwestern Syria.
 - 10/05 01:28 [FirstSquawk] AFP: More than 70 killed in clashes between Yemeni government forces and Houthi rebels in Taiz province in 24 hours
 - 10/05 02:06 [financialjuice/FirstSquawk] Iran oil minister steps down: state media
 - 10/05 02:11 [FirstSquawk] Israeli army: Today in an airstrike on Khan Younis, we killed a member of Hamas' elite unit.
@@ -131,3 +124,6 @@
 - 10/05 12:51 [FirstSquawk] 20-year JGB yield gains 1.0 basis point to 3.970%
 - 10/05 12:59 [FirstSquawk] Saudi crude accounts for less than 30% of South Korea’s imports for first time in five years - YONHAP
 - 10/05 13:00 [FirstSquawk] Yemen’s military says it launched 1,122 precise operations targeting Houthi militias
+- 10/05 13:03 [financialjuice] EU to restrict Ukraine’s access to agricultural subsidies if it joins bloc - FT
+- 10/05 13:15 [financialjuice] United Arab Emirates S&P Global September Composite PMI steady at 55.3 versus August
+- 10/05 13:15 [financialjuice] Saudi Arabia S&P Global composite PMI at 55.3 in September versus 53.8 in August

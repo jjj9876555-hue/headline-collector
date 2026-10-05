@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-05 13:01 JST／対象: 10/04 13:01 〜 10/05 13:01 JST（時刻はすべて日本時間）
+生成: 2026-10-05 13:24 JST／対象: 10/04 13:24 〜 10/05 13:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 10/04 18:55 | 10/05 09:05 | ⚠ 411分（02:14→09:05） |
-| FirstSquawk | 195 | 10/04 13:08 | 10/05 13:00 | ⚠ 221分（05:36→09:18） |
-| financialjuice | 54 | 10/04 13:16 | 10/05 12:06 | ⚠ 199分（22:46→02:06） |
+| FirstSquawk | 186 | 10/04 13:26 | 10/05 13:00 | ⚠ 221分（05:36→09:18） |
+| financialjuice | 56 | 10/04 15:21 | 10/05 13:15 | ⚠ 199分（22:46→02:06） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 250 行（統合前 260 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 243 行（統合前 253 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/04 13:08 [FirstSquawk] U.S., China announce tariff reductions covering $30 billion of goods from each side, led by consumer imports in the U.S. and agricultural products in China - CNBC
-- 10/04 13:11 [FirstSquawk] Bangkok floods deepen public anger as residents demand stronger government response.
-- 10/04 13:12 [FirstSquawk] Ukraine plans to hit Russian refineries in response to Moscow’s “new doctrine” on airstrikes, CNBC reports.
-- 10/04 13:15 [FirstSquawk] Foreign Businesses in Ukraine Confront Growing Risks Amid Ongoing Russian Strikes – Kyodo
-- 10/04 13:16 [financialjuice] German Chancellor Merz arrives in Kyiv: Ukraine needs all support in coming weeks
-- 10/04 13:17 [FirstSquawk] Japan Could Move Up Decision on Resuming Fresh Potato Imports From US – Kyodo
-- 10/04 13:18 [FirstSquawk] German Chancellor Merz Visits Kyiv, Pledges Strong Support for Ukraine in Coming Weeks
-- 10/04 13:18 [FirstSquawk] Japan Raises Foreign Residency Costs Sharply as Stricter Income and Language Requirements Loom - NA
-- 10/04 13:19 [FirstSquawk] South Korea’s Lee Orders Investigation, Countermeasures Following Data Leaks at Financial, Public Institutions – Blue House
-- 10/04 13:24 [FirstSquawk] Trump Says Ties With North Korea’s Kim Are “Great,” Contrasts Pyongyang With Iran
 - 10/04 13:26 [FirstSquawk] Trump Emphasizes Importance of Good Relations With Nuclear-Armed Nations, Says He Gets Along Great With Kim - YONHAP
 - 10/04 13:27 [FirstSquawk] South Korea Reports 240,000 Hacking Attempts Against Court Network Through August, Nearly 2.4 Times Last Year – Yonhap
 - 10/04 13:37 [FirstSquawk] Kim Jong-un Oversees Hypersonic Missile Launch as North Korea Seeks to Bolster War Deterrence – Yonhap
@@ -274,3 +264,6 @@
 - 10/05 12:51 [FirstSquawk] 20-year JGB yield gains 1.0 basis point to 3.970%
 - 10/05 12:59 [FirstSquawk] Saudi crude accounts for less than 30% of South Korea’s imports for first time in five years - YONHAP
 - 10/05 13:00 [FirstSquawk] Yemen’s military says it launched 1,122 precise operations targeting Houthi militias
+- 10/05 13:03 [financialjuice] EU to restrict Ukraine’s access to agricultural subsidies if it joins bloc - FT
+- 10/05 13:15 [financialjuice] United Arab Emirates S&P Global September Composite PMI steady at 55.3 versus August
+- 10/05 13:15 [financialjuice] Saudi Arabia S&P Global composite PMI at 55.3 in September versus 53.8 in August

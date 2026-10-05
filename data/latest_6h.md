@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-05 13:01 JST／対象: 10/05 07:01 〜 10/05 13:01 JST（時刻はすべて日本時間）
+生成: 2026-10-05 13:24 JST／対象: 10/05 07:24 〜 10/05 13:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 10/05 09:05 | 10/05 09:05 | - |
 | FirstSquawk | 48 | 10/05 09:18 | 10/05 13:00 | ⚠ 55分（11:42→12:37） |
-| financialjuice | 18 | 10/05 07:40 | 10/05 12:06 | ⚠ 83分（10:01→11:25） |
+| financialjuice | 21 | 10/05 07:40 | 10/05 13:15 | ⚠ 83分（10:01→11:25） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 67 行（統合前 70 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 70 行（統合前 73 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -91,3 +91,6 @@
 - 10/05 12:51 [FirstSquawk] 20-year JGB yield gains 1.0 basis point to 3.970%
 - 10/05 12:59 [FirstSquawk] Saudi crude accounts for less than 30% of South Korea’s imports for first time in five years - YONHAP
 - 10/05 13:00 [FirstSquawk] Yemen’s military says it launched 1,122 precise operations targeting Houthi militias
+- 10/05 13:03 [financialjuice] EU to restrict Ukraine’s access to agricultural subsidies if it joins bloc - FT
+- 10/05 13:15 [financialjuice] United Arab Emirates S&P Global September Composite PMI steady at 55.3 versus August
+- 10/05 13:15 [financialjuice] Saudi Arabia S&P Global composite PMI at 55.3 in September versus 53.8 in August
