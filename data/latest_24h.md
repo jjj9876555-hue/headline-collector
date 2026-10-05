@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-05 12:20 JST／対象: 10/04 12:20 〜 10/05 12:20 JST（時刻はすべて日本時間）
+生成: 2026-10-05 12:41 JST／対象: 10/04 12:41 〜 10/05 12:41 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 10/04 18:55 | 10/05 09:05 | ⚠ 411分（02:14→09:05） |
-| FirstSquawk | 196 | 10/04 12:21 | 10/05 11:42 | ⚠ 221分（05:36→09:18） |
+| FirstSquawk | 187 | 10/04 12:41 | 10/05 12:40 | ⚠ 221分（05:36→09:18） |
 | financialjuice | 54 | 10/04 13:16 | 10/05 12:06 | ⚠ 199分（22:46→02:06） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 251 行（統合前 261 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 242 行（統合前 252 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/04 12:21 [FirstSquawk] Latvia’s United List Seen As Largest Parliamentary Group In Exit Poll
-- 10/04 12:22 [FirstSquawk] 20-Year-Old US Marine Denies Charges In Suspected Okinawa Robbery-Murder Case - NA
-- 10/04 12:23 [FirstSquawk] Ukrainian Shelling Damages External Power Equipment At Zaporizhzhia Nuclear Plant, Situation Under Control
-- 10/04 12:24 [FirstSquawk] Malaysia Offers Singapore-Level Comfort To Chinese Tourists At Prices Below Thailand, SCMP Reports
-- 10/04 12:26 [FirstSquawk] Cargo Ship Struck In Odesa Port In Russian Attack, Ifax Says
-- 10/04 12:28 [FirstSquawk] Trump Shares Tom Cotton’s Phone Number As Dispute Over Daylight Saving Time Escalates - SCMP
-- 10/04 12:29 [FirstSquawk] China, Africa Step Up Law Enforcement Cooperation Against Cross-Border Cybercrime - SCMP
-- 10/04 12:33 [FirstSquawk] US Set to Deploy NMESIS Anti-Ship Missiles on Japanese Island Closest to Taiwan - SCMP
-- 10/04 12:34 [FirstSquawk] Non-Local Fees at Hong Kong Public Universities Rise as Much as 26% as Quotas Increase
-- 10/04 12:35 [FirstSquawk] Nepal’s Hydropower Boom Faces Insurance Challenges as Claims Consistently Surpass Premiums - NA
-- 10/04 12:39 [FirstSquawk] China-Russia Military Ties Strengthen as Chinese Troops Join Tsentr-2026 Exercise
 - 10/04 12:41 [FirstSquawk] American, Chinese Botanists Sign Landmark Proposal to Expand Cooperation and Projects
 - 10/04 12:42 [FirstSquawk] UK Drops Plans to Curb Jury Trials Following Strong Opposition - RTRS
 - 10/04 12:49 [FirstSquawk] White House AI Czar Outlines Task Force Goals and Members – WSJ
@@ -275,3 +264,5 @@
 - 10/05 11:42 [FirstSquawk] UK to impose tariffs on Chinese electric cars, The Times reports
 - 10/05 12:05 [financialjuice] Euro declines further, down 0.7% at $1.11735
 - 10/05 12:06 [financialjuice] Sterling falls 0.27% to $1.32019
+- 10/05 12:37 [FirstSquawk] Schroders set to expand Hong Kong operations following Nuveen merger, CEO says - scmp
+- 10/05 12:40 [FirstSquawk] Yen remains under pressure as USD reverses post-NFP losses amid geopolitical tensions

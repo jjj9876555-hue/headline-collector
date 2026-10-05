@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-05 12:20 JST／対象: 10/05 06:20 〜 10/05 12:20 JST（時刻はすべて日本時間）
+生成: 2026-10-05 12:41 JST／対象: 10/05 06:41 〜 10/05 12:41 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 10/05 09:05 | 10/05 09:05 | - |
-| FirstSquawk | 34 | 10/05 09:18 | 10/05 11:42 | 19分（10:22→10:41） |
+| FirstSquawk | 36 | 10/05 09:18 | 10/05 12:40 | ⚠ 55分（11:42→12:37） |
 | financialjuice | 20 | 10/05 07:00 | 10/05 12:06 | ⚠ 83分（10:01→11:25） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 55 行（統合前 58 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 57 行（統合前 60 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -79,3 +79,5 @@
 - 10/05 11:42 [FirstSquawk] UK to impose tariffs on Chinese electric cars, The Times reports
 - 10/05 12:05 [financialjuice] Euro declines further, down 0.7% at $1.11735
 - 10/05 12:06 [financialjuice] Sterling falls 0.27% to $1.32019
+- 10/05 12:37 [FirstSquawk] Schroders set to expand Hong Kong operations following Nuveen merger, CEO says - scmp
+- 10/05 12:40 [FirstSquawk] Yen remains under pressure as USD reverses post-NFP losses amid geopolitical tensions
