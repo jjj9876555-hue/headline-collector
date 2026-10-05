@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-05 18:52 JST／対象: 10/05 12:52 〜 10/05 18:52 JST（時刻はすべて日本時間）
+生成: 2026-10-05 19:09 JST／対象: 10/05 13:09 〜 10/05 19:09 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 90 | 10/05 12:59 | 10/05 18:49 | 43分（13:00→13:44） |
-| financialjuice | 63 | 10/05 13:03 | 10/05 18:47 | ⚠ 103分（14:12→15:55） |
+| FirstSquawk | 91 | 10/05 13:44 | 10/05 19:03 | 31分（15:24→15:55） |
+| financialjuice | 64 | 10/05 13:15 | 10/05 19:03 | ⚠ 103分（14:12→15:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 153 行（統合前 153 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 155 行（統合前 155 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 12:59 [FirstSquawk] Saudi crude accounts for less than 30% of South Korea’s imports for first time in five years - YONHAP
-- 10/05 13:00 [FirstSquawk] Yemen’s military says it launched 1,122 precise operations targeting Houthi militias
-- 10/05 13:03 [financialjuice] EU to restrict Ukraine’s access to agricultural subsidies if it joins bloc - FT
 - 10/05 13:15 [financialjuice] United Arab Emirates S&P Global September Composite PMI steady at 55.3 versus August
 - 10/05 13:15 [financialjuice] Saudi Arabia S&P Global composite PMI at 55.3 in September versus 53.8 in August
 - 10/05 13:26 [financialjuice] India finance minister: US trade deal is a tough and thoroughly negotiated agreement
@@ -177,3 +174,8 @@
 - 10/05 18:46 [financialjuice] Afghan taliban foreign minister: Afghanistan considers self-defense against any aggression to be its legitimate and undeniable right
 - 10/05 18:47 [financialjuice] Afghan taliban foreign minister: Believe existing problems between Afghanistan and Pakistan can be resolved through dialogue and diplomacy
 - 10/05 18:49 [FirstSquawk] YEMENI GOVERNMENT FORCES LAUNCH ATTACKS ON HOUTHIS FROM THREE FRONTS IN NORTH, WEST AND SOUTH OF YEMEN - MILITARY SOURCES
+- 10/05 18:56 [FirstSquawk] GERMAN DEFENSE MINISTRY SPOX ON CANCELLED F126 FRIGATE ORDER: CLAIMS FOR DAMAGES AGAINST GERMANY ARE UNFOUNDED
+- 10/05 18:56 [FirstSquawk] CONOCOPHILLIPS CHAIR WE ARE LOOKING AT AN UNSOLICITED OFFER FOR UK NORTH SEA BUSINESS, NO DECISION YET
+- 10/05 18:57 [financialjuice] Yemeni government forces launch attacks on Houthis from three fronts in the north, west, and south of Yemen - Military sources
+- 10/05 19:03 [FirstSquawk] CENOVUS TO BUY ATHABASCA OIL FOR C$12.00/SHR CASH, STOCK
+- 10/05 19:03 [financialjuice] Yemen's armed forces: Began 'strategic offensive’ in Sanaa

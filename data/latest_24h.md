@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-05 18:52 JST／対象: 10/04 18:52 〜 10/05 18:52 JST（時刻はすべて日本時間）
+生成: 2026-10-05 19:09 JST／対象: 10/04 19:09 〜 10/05 19:09 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 7 | 10/04 18:55 | 10/05 09:05 | ⚠ 411分（02:14→09:05） |
-| FirstSquawk | 221 | 10/04 19:12 | 10/05 18:49 | ⚠ 221分（05:36→09:18） |
-| financialjuice | 107 | 10/04 18:54 | 10/05 18:47 | ⚠ 199分（22:46→02:06） |
+| DeItaone | 6 | 10/04 20:19 | 10/05 09:05 | ⚠ 411分（02:14→09:05） |
+| FirstSquawk | 224 | 10/04 19:12 | 10/05 19:03 | ⚠ 221分（05:36→09:18） |
+| financialjuice | 107 | 10/04 20:14 | 10/05 19:03 | ⚠ 199分（22:46→02:06） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 329 行（統合前 339 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 331 行（統合前 341 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/04 18:54 [financialjuice] Russia to ramp up strikes on Kyiv and other Ukraine regions following Zelenskiy remarks: Tass cites Russia defence ministry
-- 10/04 18:55 [DeItaone] RUSSIA WILL INTENSIFY STRIKES ON KYIV AND OTHER REGIONS OF UKRAINE FOLLOWING LATEST ZELENSKIY REMARKS - TASS CITES RUSSIA DEFENCE MINISTRY
-- 10/04 19:07 [financialjuice] Iran’s army spokesperson: After war with US, Tehran plans to enhance missile range - Fars News
 - 10/04 19:12 [FirstSquawk] Russian Defense Ministry: We will intensify strikes on Kyiv and other areas in Ukraine following Zelensky's recent statements.
 - 10/04 19:12 [FirstSquawk] Russian Defense Ministry: Casualties and damage to homes in a Ukrainian strike last night targeting areas in Belgorod
 - 10/04 19:21 [FirstSquawk] Fars News Agency, quoting the Iranian military spokesman: Tehran has decided to work on increasing the range of its missiles following the war with America
@@ -353,3 +350,8 @@
 - 10/05 18:46 [financialjuice] Afghan taliban foreign minister: Afghanistan considers self-defense against any aggression to be its legitimate and undeniable right
 - 10/05 18:47 [financialjuice] Afghan taliban foreign minister: Believe existing problems between Afghanistan and Pakistan can be resolved through dialogue and diplomacy
 - 10/05 18:49 [FirstSquawk] YEMENI GOVERNMENT FORCES LAUNCH ATTACKS ON HOUTHIS FROM THREE FRONTS IN NORTH, WEST AND SOUTH OF YEMEN - MILITARY SOURCES
+- 10/05 18:56 [FirstSquawk] GERMAN DEFENSE MINISTRY SPOX ON CANCELLED F126 FRIGATE ORDER: CLAIMS FOR DAMAGES AGAINST GERMANY ARE UNFOUNDED
+- 10/05 18:56 [FirstSquawk] CONOCOPHILLIPS CHAIR WE ARE LOOKING AT AN UNSOLICITED OFFER FOR UK NORTH SEA BUSINESS, NO DECISION YET
+- 10/05 18:57 [financialjuice] Yemeni government forces launch attacks on Houthis from three fronts in the north, west, and south of Yemen - Military sources
+- 10/05 19:03 [FirstSquawk] CENOVUS TO BUY ATHABASCA OIL FOR C$12.00/SHR CASH, STOCK
+- 10/05 19:03 [financialjuice] Yemen's armed forces: Began 'strategic offensive’ in Sanaa
