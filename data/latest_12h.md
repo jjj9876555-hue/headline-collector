@@ -7,43 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-06 01:58 JST／対象: 10/05 13:58 〜 10/06 01:58 JST（時刻はすべて日本時間）
+生成: 2026-10-06 02:17 JST／対象: 10/05 14:17 〜 10/06 02:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 50 | 10/05 19:25 | 10/06 01:33 | 33分（21:14→21:48） |
-| FirstSquawk | 147 | 10/05 14:00 | 10/06 01:57 | 31分（15:24→15:55） |
-| financialjuice | 124 | 10/05 14:04 | 10/06 01:58 | ⚠ 103分（14:12→15:55） |
+| DeItaone | 52 | 10/05 19:25 | 10/06 02:00 | 33分（21:14→21:48） |
+| FirstSquawk | 135 | 10/05 14:21 | 10/06 02:02 | 31分（15:24→15:55） |
+| financialjuice | 121 | 10/05 15:55 | 10/06 02:01 | ⚠ 57分（20:15→21:13） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 312 行（統合前 322 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 298 行（統合前 309 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 14:00 [FirstSquawk] JAPAN'S CONSUMER CONFIDENCE FOR SEPTEMBER IS AT 35.4, SLIGHTLY ABOVE THE ESTIMATED 35.3.
-- 10/05 14:03 [FirstSquawk] SCHNEIDER ELECTRIC WILL PURCHASE PTC FOR $205 PER SHARE IN AN ALL-CASH TRANSACTION.
-- 10/05 14:04 [financialjuice] India finance minister: fertiliser costs have surged, unsustainable for any nation to continue purchasing at this rate
-- 10/05 14:05 [FirstSquawk] TAKAICHI CALLS US MARINE INCIDENT IN OKINAWA REGRETTABLE.
-- 10/05 14:05 [FirstSquawk] JAPAN'S PM TAKAICHI KICKS OFF DIET SESSION WITH SPEECH.
-- 10/05 14:05 [FirstSquawk] TAKAICHI SAYS THAT ACHIEVING ROBUST AND SUSTAINABLE GROWTH IS HIS BEGINNING FOCUS.
-- 10/05 14:07 [FirstSquawk] TAKAIHI URGES STRONG ACTION TO AVOID FUTURE INCIDENTS IN OKINAWA.
-- 10/05 14:09 [financialjuice] JAPANESE CONSUMER CONFIDENCE ACTUAL 35.4 (FORECAST 35.3, PREVIOUS 35.5) $MACRO
-- 10/05 14:12 [financialjuice] Japan's PM Takaichi: We will control the annual debt issuance amount appropriately while scrutinising the economy, prices, tax revenues, interest rates, debt-servicing costs, and market developments
-- 10/05 14:12 [financialjuice] Japan's PM Takaichi: We will seek to enhance market trust in our policies by communicating closely with the public, domestic and overseas market players
-- 10/05 14:12 [financialjuice] Japan PM Takaichi: If economy, markets make unexpected movements, we will analyse their impact, respond nimbly as needed.
-- 10/05 14:12 [financialjuice] Japan's PM Takaichi: We will draw up a 5-year investment plan by year-end
-- 10/05 14:13 [FirstSquawk] TAKAICHI SAYS JAPAN WILL CREATE A POSITIVE CYCLE THROUGH GDP GROWTH.
-- 10/05 14:13 [FirstSquawk] TAKAICHI PLANS TO MANAGE YEARLY DEBT ISSUANCE EFFECTIVELY.
-- 10/05 14:13 [FirstSquawk] TAKAICHI SAID THEY WILL ACT QUICKLY IF THERE ARE UNEXPECTED CHANGES IN THE ECONOMY OR MARKETS.
-- 10/05 14:13 [FirstSquawk] TAKAICHI PROMISES TO INCREASE MARKET CONFIDENCE IN THE GOVERNMENT THROUGH A DIRECT METHOD.
-- 10/05 14:13 [FirstSquawk] TAKAICHI PLANS TO CREATE A 5-YEAR INVESTMENT STRATEGY BY THE END OF THIS YEAR.
-- 10/05 14:13 [FirstSquawk] AUSTRALIA'S S&P/ASX 200 ENDS ALMOST UNCHANGED AT 8,685.60.
-- 10/05 14:13 [FirstSquawk] BT MAY ANNOUNCE DEAL WITH TALKTALK ON MONDAY, ACCORDING TO FT.
-- 10/05 14:16 [FirstSquawk] RUSSIAN DEFENCE MINISTRY CONFIRMED ATTACK ON CARGO SHIP IN BLACK SEA.
 - 10/05 14:21 [FirstSquawk] NASDAQ 100 FUTURES LOST ALL OF THEIR EARLY GAIN OF 0.5%.
 - 10/05 14:26 [FirstSquawk] TAKAICHI SAYS NO TO USING DEFICIT-FINANCE BONDS FOR SALES TAX FUNDING.
 - 10/05 14:27 [FirstSquawk] TAKAICHI URGES CHINA TO TAKE RESPONSIBLE STEPS REGARDING CURRENT PROBLEMS.
@@ -336,3 +316,9 @@
 - 10/06 01:56 [financialjuice] Iran's President Pezeshkian: Negotiating with an enemy that constantly threatens and terrorizes us, and breaks its promises, is meaningless - Tasnim News.
 - 10/06 01:57 [FirstSquawk] EXPLOSIONS HEARD IN RIYADH; FLIGHTS SUSPENDED AT AIRPORT - FARS
 - 10/06 01:58 [financialjuice] Iran's President Pezeshkian: Every time inspectors come to Iran, our nuclear facilities and scientists are identified, and then these facilities are bombed, and our scientists are assassinated - Tasnim News.
+- 10/06 01:59 [FirstSquawk/DeItaone] IRAN'S PRESIDENT ON THE US: NEGOTIATION HAS NO MEANING WITH ' AN ENEMY THAT TERRORIZES, SANCTIONS, PRESSURES AND THREATENS ON A DAILY BASIS ' - STATE MEDIA
+- 10/06 02:00 [financialjuice] Explosion heard in Riyadh - ISNA.
+- 10/06 02:00 [DeItaone] FRENCH CENTRAL BANK HEAD EMMANUEL MOULIN WARNS STATE AT RISK OF BEING ‘STRANGLED BY INTEREST RATES’ - FT
+- 10/06 02:00 [financialjuice] French Central Bank Head Moulin warns that the state is at risk of being ‘strangled by interest rates’ - FT.
+- 10/06 02:01 [financialjuice] French central bank head warns country at risk of being ‘strangled by interest rates’ - FT
+- 10/06 02:02 [FirstSquawk] US 10-YEAR TREASURY YIELD RISES TO 5.34%, FRESH HIGH SINCE 2002

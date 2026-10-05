@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-06 01:58 JST／対象: 10/05 01:58 〜 10/06 01:58 JST（時刻はすべて日本時間）
+生成: 2026-10-06 02:17 JST／対象: 10/05 02:17 〜 10/06 02:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 53 | 10/05 02:13 | 10/06 01:33 | ⚠ 620分（09:05→19:25） |
-| FirstSquawk | 231 | 10/05 02:11 | 10/06 01:57 | ⚠ 221分（05:36→09:18） |
-| financialjuice | 166 | 10/05 02:06 | 10/06 01:58 | ⚠ 103分（14:12→15:55） |
+| DeItaone | 53 | 10/05 09:05 | 10/06 02:00 | ⚠ 620分（09:05→19:25） |
+| FirstSquawk | 230 | 10/05 02:33 | 10/06 02:02 | ⚠ 221分（05:36→09:18） |
+| financialjuice | 168 | 10/05 03:18 | 10/06 02:01 | ⚠ 103分（14:12→15:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 439 行（統合前 454 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 440 行（統合前 455 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 02:06 [financialjuice/FirstSquawk] Iran oil minister steps down: state media
-- 10/05 02:11 [FirstSquawk] Israeli army: Today in an airstrike on Khan Younis, we killed a member of Hamas' elite unit.
-- 10/05 02:11 [FirstSquawk] Israeli airstrike on the town of Haddatha in the Bint Jbeil district of southern Lebanon
-- 10/05 02:12 [FirstSquawk] Iranian official media: Resignation of the Iranian Oil Minister
-- 10/05 02:13 [DeItaone] IRAN'S OIL MINISTER RESIGNS - STATE MEDIA
-- 10/05 02:14 [DeItaone] MUSK TO RENAME SPACEXAI AS “SPACEXSI” Elon Musk says he will rename SpaceXAI to SpaceXSI, adopting President Trump’s push to replace “artificial intelligence” with “super intelligence.” Musk confirmed the change on X, saying “Yes, we will m…
 - 10/05 02:33 [FirstSquawk] GERMAN PRESIDENT FRANK-WALTER STEINMEIER SAYS 'WE TOOK IN IMMIGRANTS WHO HELPED BUILD OUR COUNTRY AND TIED THEIR FATE TO OURS', ADDING THAT 'GERMANY IS THEIR HOMELAND'.
 - 10/05 02:34 [FirstSquawk] GERMAN PRESIDENT FRANK-WALTER STEINMEIER SAYS THAT 'EVEN MORE THAN 80 YEARS AFTER LIBERATION FROM THE NATIONAL SOCIALIST REGIME, HISTORICAL IGNORANCE WILL NOT BE FORGIVEN', WARNING THAT 'A NEW GERMAN NATIONALISM AWAKENS THE GHOSTS OF THE PA…
 - 10/05 02:34 [FirstSquawk] GERMAN PRESIDENT FRANK-WALTER STEINMEIER SAYS 'WE MUST ASK OURSELVES, WITHOUT SPARING OURSELVES, WHAT GOVERNMENTS AT THE FEDERAL AND STATE LEVELS HAVE FAILED TO DO OVER THE PAST THREE AND A HALF DECADES IF SO MANY PEOPLE ARE TURNING AWAY AN…
@@ -42,6 +36,7 @@
 - 10/05 02:53 [FirstSquawk] GERMANY'S CHANCELLOR MERZ SAYS IN KYIV THAT 'DESPITE THE THREATS FROM MOSCOW IN RECENT DAYS, I CAME ANYWAY' — TOGETHER WITH A COLLEAGUE FROM THE GERMAN GOVERNMENT AND A LARGE BUSINESS DELEGATION — SAYING THIS 'DEMONSTRATES THAT WE WILL NOT …
 - 10/05 02:53 [FirstSquawk] GERMANY'S CHANCELLOR MERZ SAYS 'THE RUSSIAN ECONOMY CANNOT WAGE THIS WAR INDEFINITELY', ARGUING IT 'HAS ALREADY REACHED ITS PAIN THRESHOLD', CITING '7% INFLATION, A 14% CENTRAL-BANK RATE, FALLING OIL AND GAS REVENUES AND AN INCREASINGLY LAR…
 - 10/05 03:18 [financialjuice] One leftist, two nationalist contenders lead election for Bosnia's inter-ethnic tripartite presidency, partial preliminary results show
+- 10/05 03:25 [FirstSquawk] IRAN OIL MINISTER STEPS DOWN: STATE MEDIA
 - 10/05 03:27 [FirstSquawk] TRUMP SAYS 'THE POLLS HAVE ALWAYS UNDERESTIMATED MAGA', CLAIMING 'THEY TRY TO SUPPRESS THE VOTE' BUT THAT HE 'WON ALL 7 SWING STATES, THE POPULAR VOTE, 86% OF COUNTIES, AND 99% OF PRIMARIES THIS YEAR', ADDING 'I AM ON THE BALLOT' - TRUTH SO…
 - 10/05 03:28 [FirstSquawk] TRUMP SAYS 'THE KENNEDY CENTER IS CRUMBLING, AND A GREAT DANGER TO ANYONE WHO WALKS INSIDE', CLAIMING IT 'HAS BEEN THIS WAY FOR YEARS, AND WILL ONLY GET WORSE UNLESS THE RADICAL LEFT JUDGE, WITH HIS TRUMP HATING LAWYER WIFE, ALLOWS ME TO DO…
 - 10/05 03:28 [FirstSquawk] US ENERGY SECRETARY WRIGHT: DIESEL PRICES HIT BY RUSSIA-UKRAINE WAR, CHINA’S EXPORT CURBS & RECENT CLOSURE OF TWO LARGE CALIFORNIA REFINERIES
@@ -463,3 +458,9 @@
 - 10/06 01:56 [financialjuice] Iran's President Pezeshkian: Negotiating with an enemy that constantly threatens and terrorizes us, and breaks its promises, is meaningless - Tasnim News.
 - 10/06 01:57 [FirstSquawk] EXPLOSIONS HEARD IN RIYADH; FLIGHTS SUSPENDED AT AIRPORT - FARS
 - 10/06 01:58 [financialjuice] Iran's President Pezeshkian: Every time inspectors come to Iran, our nuclear facilities and scientists are identified, and then these facilities are bombed, and our scientists are assassinated - Tasnim News.
+- 10/06 01:59 [FirstSquawk/DeItaone] IRAN'S PRESIDENT ON THE US: NEGOTIATION HAS NO MEANING WITH ' AN ENEMY THAT TERRORIZES, SANCTIONS, PRESSURES AND THREATENS ON A DAILY BASIS ' - STATE MEDIA
+- 10/06 02:00 [financialjuice] Explosion heard in Riyadh - ISNA.
+- 10/06 02:00 [DeItaone] FRENCH CENTRAL BANK HEAD EMMANUEL MOULIN WARNS STATE AT RISK OF BEING ‘STRANGLED BY INTEREST RATES’ - FT
+- 10/06 02:00 [financialjuice] French Central Bank Head Moulin warns that the state is at risk of being ‘strangled by interest rates’ - FT.
+- 10/06 02:01 [financialjuice] French central bank head warns country at risk of being ‘strangled by interest rates’ - FT
+- 10/06 02:02 [FirstSquawk] US 10-YEAR TREASURY YIELD RISES TO 5.34%, FRESH HIGH SINCE 2002
