@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-05 18:08 JST／対象: 10/04 18:08 〜 10/05 18:08 JST（時刻はすべて日本時間）
+生成: 2026-10-05 18:32 JST／対象: 10/04 18:32 〜 10/05 18:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 10/04 18:55 | 10/05 09:05 | ⚠ 411分（02:14→09:05） |
-| FirstSquawk | 221 | 10/04 18:14 | 10/05 18:01 | ⚠ 221分（05:36→09:18） |
-| financialjuice | 99 | 10/04 18:38 | 10/05 18:01 | ⚠ 199分（22:46→02:06） |
+| FirstSquawk | 221 | 10/04 18:40 | 10/05 18:10 | ⚠ 221分（05:36→09:18） |
+| financialjuice | 105 | 10/04 18:38 | 10/05 18:31 | ⚠ 199分（22:46→02:06） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 321 行（統合前 331 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 327 行（統合前 337 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/04 18:14 [FirstSquawk] Republican Ohio Senate candidate Vivek Ramaswamy invokes Kamala Harris while targeting his potential Democratic rival in the 2026 Ohio Senate race.
-- 10/04 18:14 [FirstSquawk] Iran remains a member of the Treaty on the Non-Proliferation of Nuclear Weapons (NPT) and is aware of its obligations as long as it remains in the treaty, Foreign Ministry spokesman Esmaeil Baghaei said on Sunday.
-- 10/04 18:15 [FirstSquawk] Bosnia elections pit EU hopes against Russian influence
-- 10/04 18:16 [FirstSquawk] mood in publishing is gloomy ahead of the major Frankfurt Book Fair
-- 10/04 18:16 [FirstSquawk] Iran rejected US President Donald Trump’s assertion that Washington does not know who its Iranian negotiating counterpart is, saying a six-member committee under the Supreme National Security Council is overseeing negotiations.
 - 10/04 18:38 [financialjuice] Fire erupts at enterprise in Russia's Krasnodar region after drone debris falls; three hurt, authorities say
 - 10/04 18:40 [FirstSquawk] Iranian Foreign Ministry Spokesperson: Tehran has already responded to the American proposal.
 - 10/04 18:41 [FirstSquawk] Iranian Foreign Ministry Spokesperson: The issue of the return of IAEA inspectors was not discussed.
@@ -345,3 +340,14 @@
 - 10/05 18:01 [FirstSquawk] SAUDI ARAMCO CEO SAYS THERE IS A STRONG DEMAND FOR INCREASING GLOBAL STOCKS.
 - 10/05 18:01 [financialjuice] Eurozone PPI August 2026 Report
 - 10/05 18:01 [FirstSquawk] SAUDI ARAMCO'S CEO PREDICTS STABLE CRUDE OIL DEMAND FOR THE NEXT TWO YEARS IF CONDITIONS RETURN TO NORMAL.
+- 10/05 18:08 [financialjuice] Aramco CEO: Less than 10% of the world's oil inventory is actually available
+- 10/05 18:09 [financialjuice] Saudi-led coalition: 100 fighter jets took part in an operation in Yemen - Statement
+- 10/05 18:09 [financialjuice] Saudi-led coalition: Attacked 324 'high-value targets' as part of the operation in Yemen
+- 10/05 18:10 [FirstSquawk] CONOCOPHILLIPS CEO STATES SYSTEM STRAINED BUT INTACT, COMPANY FOCUSES ON BOOSTING US OUTPUT, ANTICIPATES OIL PRODUCTION TO REACH 14-14.5 MILLION BPD IF PRICES REMAIN STEADY.
+- 10/05 18:10 [FirstSquawk] ARAMCO REPORTS THAT ONLY UNDER 10% OF GLOBAL OIL SUPPLY IS TRULY ACCESSIBLE.
+- 10/05 18:10 [FirstSquawk] CONOCOPHILLIPS CEO PREDICTS OIL PRICE FLOOR MAY RISE TO ABOUT $70 PER BARREL, EXPECTS MID-CYCLE PRICES FOR WTI TO RANGE BETWEEN $65 AND $70 PER BARREL.
+- 10/05 18:10 [FirstSquawk] SAUDI-LED COALITION CLAIMS 100 FIGHTER JETS PARTICIPATED IN AN OPERATION IN YEMEN, ATTACKING 324 'HIGH-VALUE TARGETS'.
+- 10/05 18:10 [FirstSquawk] SAUDI-LED COALITION ANNOUNCES AIR SUPPORT FOR YEMENI FORCES.
+- 10/05 18:29 [financialjuice] Venezuela is far from setting durable investment terms - Conoco
+- 10/05 18:30 [financialjuice] Kremlin on Zelenskiy saying that Ukraine will hit Russian oil refineries: Ukraine will pay the price
+- 10/05 18:31 [financialjuice] Conoco sees US oil output above 14M b/d in 2027 if prices hold

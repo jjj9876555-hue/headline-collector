@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-05 18:08 JST／対象: 10/05 12:08 〜 10/05 18:08 JST（時刻はすべて日本時間）
+生成: 2026-10-05 18:32 JST／対象: 10/05 12:32 〜 10/05 18:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 90 | 10/05 12:37 | 10/05 18:01 | 43分（13:00→13:44） |
-| financialjuice | 54 | 10/05 13:03 | 10/05 18:01 | ⚠ 103分（14:12→15:55） |
+| FirstSquawk | 95 | 10/05 12:37 | 10/05 18:10 | 43分（13:00→13:44） |
+| financialjuice | 60 | 10/05 13:03 | 10/05 18:31 | ⚠ 103分（14:12→15:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 144 行（統合前 144 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 155 行（統合前 155 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -168,3 +168,14 @@
 - 10/05 18:01 [FirstSquawk] SAUDI ARAMCO CEO SAYS THERE IS A STRONG DEMAND FOR INCREASING GLOBAL STOCKS.
 - 10/05 18:01 [financialjuice] Eurozone PPI August 2026 Report
 - 10/05 18:01 [FirstSquawk] SAUDI ARAMCO'S CEO PREDICTS STABLE CRUDE OIL DEMAND FOR THE NEXT TWO YEARS IF CONDITIONS RETURN TO NORMAL.
+- 10/05 18:08 [financialjuice] Aramco CEO: Less than 10% of the world's oil inventory is actually available
+- 10/05 18:09 [financialjuice] Saudi-led coalition: 100 fighter jets took part in an operation in Yemen - Statement
+- 10/05 18:09 [financialjuice] Saudi-led coalition: Attacked 324 'high-value targets' as part of the operation in Yemen
+- 10/05 18:10 [FirstSquawk] CONOCOPHILLIPS CEO STATES SYSTEM STRAINED BUT INTACT, COMPANY FOCUSES ON BOOSTING US OUTPUT, ANTICIPATES OIL PRODUCTION TO REACH 14-14.5 MILLION BPD IF PRICES REMAIN STEADY.
+- 10/05 18:10 [FirstSquawk] ARAMCO REPORTS THAT ONLY UNDER 10% OF GLOBAL OIL SUPPLY IS TRULY ACCESSIBLE.
+- 10/05 18:10 [FirstSquawk] CONOCOPHILLIPS CEO PREDICTS OIL PRICE FLOOR MAY RISE TO ABOUT $70 PER BARREL, EXPECTS MID-CYCLE PRICES FOR WTI TO RANGE BETWEEN $65 AND $70 PER BARREL.
+- 10/05 18:10 [FirstSquawk] SAUDI-LED COALITION CLAIMS 100 FIGHTER JETS PARTICIPATED IN AN OPERATION IN YEMEN, ATTACKING 324 'HIGH-VALUE TARGETS'.
+- 10/05 18:10 [FirstSquawk] SAUDI-LED COALITION ANNOUNCES AIR SUPPORT FOR YEMENI FORCES.
+- 10/05 18:29 [financialjuice] Venezuela is far from setting durable investment terms - Conoco
+- 10/05 18:30 [financialjuice] Kremlin on Zelenskiy saying that Ukraine will hit Russian oil refineries: Ukraine will pay the price
+- 10/05 18:31 [financialjuice] Conoco sees US oil output above 14M b/d in 2027 if prices hold
