@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-05 21:02 JST／対象: 10/05 15:02 〜 10/05 21:02 JST（時刻はすべて日本時間）
+生成: 2026-10-05 21:30 JST／対象: 10/05 15:30 〜 10/05 21:30 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 15 | 10/05 19:25 | 10/05 21:01 | 24分（19:58→20:23） |
-| FirstSquawk | 73 | 10/05 15:04 | 10/05 20:54 | 31分（15:24→15:55） |
-| financialjuice | 51 | 10/05 15:55 | 10/05 20:15 | 35分（16:09→16:45） |
+| DeItaone | 17 | 10/05 19:25 | 10/05 21:14 | 24分（19:58→20:23） |
+| FirstSquawk | 69 | 10/05 15:55 | 10/05 21:27 | 25分（17:18→17:43） |
+| financialjuice | 53 | 10/05 15:55 | 10/05 21:20 | ⚠ 57分（20:15→21:13） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 139 行（統合前 139 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,14 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 15:04 [FirstSquawk] HUAWEI AND QUALCOMM HAVE ENTERED INTO A LONG-TERM AGREEMENT TO SHARE PATENTS.
-- 10/05 15:04 [FirstSquawk] AIR LIQUIDE EXPECTS RECURRING ROCE TO EXCEED 11% BY 2030.
-- 10/05 15:05 [FirstSquawk] ACG HAS SUCCESSFULLY DELIVERED SIX BOEING 737-8 AIRCRAFT TO ROYAL AIR MAROC.
-- 10/05 15:05 [FirstSquawk] AIR LIQUIDE WILL INVEST MORE THAN €40 BILLION IN CAPITAL ALLOCATIONS OVER THE NEXT FEW YEARS.
-- 10/05 15:07 [FirstSquawk] SPAI'S SANCHEZ WILL GIVE A SPEECH AT 9AM IN MADRID.
-- 10/05 15:10 [FirstSquawk] SPAIN'S SANCHEZ WILL SPEAK AT 9AM IN MADRID.
-- 10/05 15:12 [FirstSquawk] AIR LIQUIDE ANNOUNCES A €4 BILLION SHARE BUYBACK PROGRAM FOR 2027-2028.
-- 10/05 15:24 [FirstSquawk] IRANIAN POLICE WERE ATTACKED IN A TERRORIST INCIDENT IN SOUTHEAST IRAN, REPORTS STATE TELEVISION.
 - 10/05 15:55 [FirstSquawk] YEMENI FORCES ATTACK HOUTHI POSITIONS IN DHUBAB DISTRICT NEAR BAB EL-MANDEB, SAY TWO MILITARY SOURCES.
 - 10/05 15:55 [financialjuice] Yemeni Government forces launch attack Houthi positions in Dhubab district overlooking Bab El-Mandeb - Two Military Sources.
 - 10/05 16:00 [financialjuice] TURKISH CPI YOY ACTUAL 29.73% (FORECAST 30.26%, PREVIOUS 31.51%) $MACRO
@@ -163,3 +155,11 @@
 - 10/05 20:51 [DeItaone] YEMEN GOVERNMENT FORCES CLAIM CONTROL OF BAB EL-MANDEB Yemeni government forces say they have seized the Bab el-Mandeb area and Dhubab airport as part of the newly launched “Yemen Dawn” offensive. Reuters reports government forces have capt…
 - 10/05 20:54 [FirstSquawk] LOCKHEED’S DEVELOPMENT UNIT IS INCORPORATING AI TO ADVANCE THE DEFENSE CONTRACTOR.
 - 10/05 21:01 [DeItaone] $MSTR - STRATEGY BUYS MORE BITCOIN, HOLDINGS REACH 848,000 BTC Strategy acquired 334 BTC for $28.7 million at an average price of $85,839, bringing total holdings to 848,000 BTC worth $63.97 billion at cost. The company also sold 92,894 MST…
+- 10/05 21:06 [FirstSquawk] GE HEALTHCARE SEES DEAL ADDING TO REVENUE, ADJ EPS IN FIRST YEAR
+- 10/05 21:08 [DeItaone] BRAZILIAN REAL STRENGTHENS OVER 4% VS US DOLLAR AFTER BOLSONARO BEATS EXPECTATIONS IN PRESIDENTIAL VOTE
+- 10/05 21:13 [financialjuice] Morning Juice - US Session Prep (5th October)
+- 10/05 21:14 [DeItaone] 📊 TRUMP PROMISES $5,000 PAYMENTS IF GOP WINS MIDTERMS Trump says every adult U.S. citizen would receive $5,000 if Republicans win both chambers, saying he looks forward to “signing those checks.” Meanwhile, Kalshi prices Democrats at 64% to…
+- 10/05 21:17 [FirstSquawk] BRAZIL'S REAL SOARS 3% ON BOLSONARO FIRST-ROUND ELECTION LEAD
+- 10/05 21:20 [financialjuice] Kuwait is pumping oil at about 75% of prewar rate - KPC CEO.
+- 10/05 21:21 [FirstSquawk] KUWAIT IS PUMPING OIL AT ABOUT 75% OF PREWAR RATE, KPC CEO SAYS
+- 10/05 21:27 [FirstSquawk] SANLAM TO OFFER TO BUY ALL SANTAM SHARES AT 505 RAND/SHR CASH

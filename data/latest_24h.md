@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-05 21:02 JST／対象: 10/04 21:02 〜 10/05 21:02 JST（時刻はすべて日本時間）
+生成: 2026-10-05 21:30 JST／対象: 10/04 21:30 〜 10/05 21:30 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 19 | 10/04 22:36 | 10/05 21:01 | ⚠ 620分（09:05→19:25） |
-| FirstSquawk | 221 | 10/04 21:44 | 10/05 20:54 | ⚠ 221分（05:36→09:18） |
-| financialjuice | 106 | 10/04 21:05 | 10/05 20:15 | ⚠ 199分（22:46→02:06） |
+| DeItaone | 21 | 10/04 22:36 | 10/05 21:14 | ⚠ 620分（09:05→19:25） |
+| FirstSquawk | 225 | 10/04 21:44 | 10/05 21:27 | ⚠ 221分（05:36→09:18） |
+| financialjuice | 106 | 10/04 21:37 | 10/05 21:20 | ⚠ 199分（22:46→02:06） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 340 行（統合前 350 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 346 行（統合前 356 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/04 21:05 [financialjuice] Head of Yemen's presidential leadership council al-Alimi: military operations have started to reclaim remaining Houthi-held territory
-- 10/04 21:24 [financialjuice] Trump: John Coale named as new special presidential envoy for hostage affairs
 - 10/04 21:37 [financialjuice/FirstSquawk] Russia's deputy PM Novak: JMMC observed significant fluctuations in global oil markets, citing a supply shortfall
 - 10/04 21:40 [financialjuice/FirstSquawk] Russia's Deputy PM Novak: russia and Saudi Arabia to discuss oil market and 2026-2027 outlook on October 12 in Riyadh
 - 10/04 21:44 [FirstSquawk] Zelensky: Putin wants to weaken Ukraine's ability to resist as much as possible.
@@ -364,3 +362,11 @@
 - 10/05 20:51 [DeItaone] YEMEN GOVERNMENT FORCES CLAIM CONTROL OF BAB EL-MANDEB Yemeni government forces say they have seized the Bab el-Mandeb area and Dhubab airport as part of the newly launched “Yemen Dawn” offensive. Reuters reports government forces have capt…
 - 10/05 20:54 [FirstSquawk] LOCKHEED’S DEVELOPMENT UNIT IS INCORPORATING AI TO ADVANCE THE DEFENSE CONTRACTOR.
 - 10/05 21:01 [DeItaone] $MSTR - STRATEGY BUYS MORE BITCOIN, HOLDINGS REACH 848,000 BTC Strategy acquired 334 BTC for $28.7 million at an average price of $85,839, bringing total holdings to 848,000 BTC worth $63.97 billion at cost. The company also sold 92,894 MST…
+- 10/05 21:06 [FirstSquawk] GE HEALTHCARE SEES DEAL ADDING TO REVENUE, ADJ EPS IN FIRST YEAR
+- 10/05 21:08 [DeItaone] BRAZILIAN REAL STRENGTHENS OVER 4% VS US DOLLAR AFTER BOLSONARO BEATS EXPECTATIONS IN PRESIDENTIAL VOTE
+- 10/05 21:13 [financialjuice] Morning Juice - US Session Prep (5th October)
+- 10/05 21:14 [DeItaone] 📊 TRUMP PROMISES $5,000 PAYMENTS IF GOP WINS MIDTERMS Trump says every adult U.S. citizen would receive $5,000 if Republicans win both chambers, saying he looks forward to “signing those checks.” Meanwhile, Kalshi prices Democrats at 64% to…
+- 10/05 21:17 [FirstSquawk] BRAZIL'S REAL SOARS 3% ON BOLSONARO FIRST-ROUND ELECTION LEAD
+- 10/05 21:20 [financialjuice] Kuwait is pumping oil at about 75% of prewar rate - KPC CEO.
+- 10/05 21:21 [FirstSquawk] KUWAIT IS PUMPING OIL AT ABOUT 75% OF PREWAR RATE, KPC CEO SAYS
+- 10/05 21:27 [FirstSquawk] SANLAM TO OFFER TO BUY ALL SANTAM SHARES AT 505 RAND/SHR CASH

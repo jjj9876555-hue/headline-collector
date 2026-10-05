@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-05 21:02 JST／対象: 10/05 09:02 〜 10/05 21:02 JST（時刻はすべて日本時間）
+生成: 2026-10-05 21:30 JST／対象: 10/05 09:30 〜 10/05 21:30 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 16 | 10/05 09:05 | 10/05 21:01 | ⚠ 620分（09:05→19:25） |
-| FirstSquawk | 156 | 10/05 09:18 | 10/05 20:54 | ⚠ 55分（11:42→12:37） |
-| financialjuice | 88 | 10/05 09:26 | 10/05 20:15 | ⚠ 103分（14:12→15:55） |
+| DeItaone | 17 | 10/05 19:25 | 10/05 21:14 | 24分（19:58→20:23） |
+| FirstSquawk | 154 | 10/05 09:31 | 10/05 21:27 | ⚠ 55分（11:42→12:37） |
+| financialjuice | 82 | 10/05 09:30 | 10/05 21:20 | ⚠ 103分（14:12→15:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 260 行（統合前 262 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 253 行（統合前 255 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 09:05 [DeItaone] ALTMAN: WORLD SHOULD ACCEPT SOME AI RISKS OpenAI CEO Sam Altman says “the world should accept some bad things happening” to keep AI broadly accessible, arguing that people will ultimately use the technology for far more good than harm. Altm…
-- 10/05 09:18 [FirstSquawk] UK EXPECTED TO IMPOSE TARIFFS ON CHINESE ELECTRIC CARS - THE TIMES
-- 10/05 09:20 [FirstSquawk] AUSTRALIA MELBOURNE INSTITUTE INFLATION EASES TO 0.3% M/M IN SEPTEMBER FROM 0.5%; ANNUAL RATE HOLDS AT 4.8%
-- 10/05 09:21 [FirstSquawk] JAPAN 10-YEAR JGB YIELD RISES 1.0 BP TO 3.110%
-- 10/05 09:22 [FirstSquawk] OPENAI CEO ALTMAN SAYS THERE IS 'A LOT OF DAYLIGHT' BETWEEN HIM AND ANTHROPIC'S AMODEI ON AI RISKS, DISMISSING THE RISK OF A SERIOUS LOSS OF CONTROL OVER AI. ALTMAN DOES NOT ACCEPT 'REALLY CATASTROPHIC RISKS', SAYING THE TECHNOLOGY'S BENEFI…
-- 10/05 09:25 [FirstSquawk] U.S. HAS WITHDRAWN ALL 12 B-1 BOMBERS FROM RAF FAIRFORD IN THE UK FOLLOWING SECURITY CONCERNS OVER A SUSPECTED IRAN-LINKED TERROR PLOT TARGETING THE BASE, WITH U.S. OFFICIALS BELIEVING A BRANCH OF THE ISLAMIC REVOLUTIONARY GUARD CORPS RECRU…
-- 10/05 09:26 [FirstSquawk] RAF FAIRFORD HAD BEEN USED AS A HUB FOR LAUNCHING U.S. BOMBER STRIKES IN IRAN, WITH THE B-1S NOW RETURNED TO THEIR HOME STATIONS IN THE U.S. AND REMAINING AVAILABLE FOR GLOBAL MISSIONS - WSJ
-- 10/05 09:26 [financialjuice] BOJ deputy governor Uchida: adoption of AI could have both positive and negative effects on productivity and labor markets
-- 10/05 09:28 [financialjuice] BOJ deputy governor uchida: AI has become a major focus among central banks, including at BOJ monetary policy meetings
-- 10/05 09:28 [financialjuice] BoJ deputy governor Uchida: AI impacts key monetary policy parameters including output gap, financial conditions, and star variables
-- 10/05 09:28 [financialjuice] BoJ Deputy Governor Uchida: AI a major positive demand shock putting upward pressure on economy and prices
-- 10/05 09:28 [financialjuice] BoJ deputy governor Uchida: AI may influence supply side, potentially boosting productivity and increasing capital stock accumulation
-- 10/05 09:28 [financialjuice] BOJ deputy governor Uchida: AI has driven up stock prices, easing financial conditions, while significant bond sales by AI-related firms have pushed long-term rates higher
-- 10/05 09:29 [financialjuice] BoJ deputy governor Uchida: We will keep closely monitoring economic and financial indicators to understand the consistent effects of AI adoption
-- 10/05 09:29 [financialjuice] BoJ deputy governor Uchida: Tentatively, demand-side impact of al appears first, making financial conditions more accommodative on balance, while correction risk remains if profits do not
 - 10/05 09:30 [financialjuice] JAPANESE COMPOSITE PMI FINAL ACTUAL 52.3 (FORECAST -, PREVIOUS 52.5) $MACRO
 - 10/05 09:30 [financialjuice] JAPANESE SERVICES PMI ACTUAL 51.3 (FORECAST -, PREVIOUS 51.6) $MACRO
 - 10/05 09:30 [financialjuice] Japan s&p global september services pmi at 51.3 vs flash 51.6
@@ -284,3 +269,11 @@
 - 10/05 20:51 [DeItaone] YEMEN GOVERNMENT FORCES CLAIM CONTROL OF BAB EL-MANDEB Yemeni government forces say they have seized the Bab el-Mandeb area and Dhubab airport as part of the newly launched “Yemen Dawn” offensive. Reuters reports government forces have capt…
 - 10/05 20:54 [FirstSquawk] LOCKHEED’S DEVELOPMENT UNIT IS INCORPORATING AI TO ADVANCE THE DEFENSE CONTRACTOR.
 - 10/05 21:01 [DeItaone] $MSTR - STRATEGY BUYS MORE BITCOIN, HOLDINGS REACH 848,000 BTC Strategy acquired 334 BTC for $28.7 million at an average price of $85,839, bringing total holdings to 848,000 BTC worth $63.97 billion at cost. The company also sold 92,894 MST…
+- 10/05 21:06 [FirstSquawk] GE HEALTHCARE SEES DEAL ADDING TO REVENUE, ADJ EPS IN FIRST YEAR
+- 10/05 21:08 [DeItaone] BRAZILIAN REAL STRENGTHENS OVER 4% VS US DOLLAR AFTER BOLSONARO BEATS EXPECTATIONS IN PRESIDENTIAL VOTE
+- 10/05 21:13 [financialjuice] Morning Juice - US Session Prep (5th October)
+- 10/05 21:14 [DeItaone] 📊 TRUMP PROMISES $5,000 PAYMENTS IF GOP WINS MIDTERMS Trump says every adult U.S. citizen would receive $5,000 if Republicans win both chambers, saying he looks forward to “signing those checks.” Meanwhile, Kalshi prices Democrats at 64% to…
+- 10/05 21:17 [FirstSquawk] BRAZIL'S REAL SOARS 3% ON BOLSONARO FIRST-ROUND ELECTION LEAD
+- 10/05 21:20 [financialjuice] Kuwait is pumping oil at about 75% of prewar rate - KPC CEO.
+- 10/05 21:21 [FirstSquawk] KUWAIT IS PUMPING OIL AT ABOUT 75% OF PREWAR RATE, KPC CEO SAYS
+- 10/05 21:27 [FirstSquawk] SANLAM TO OFFER TO BUY ALL SANTAM SHARES AT 505 RAND/SHR CASH
