@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-05 15:09 JST／対象: 10/04 15:09 〜 10/05 15:09 JST（時刻はすべて日本時間）
+生成: 2026-10-05 15:39 JST／対象: 10/04 15:39 〜 10/05 15:39 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 10/04 18:55 | 10/05 09:05 | ⚠ 411分（02:14→09:05） |
-| FirstSquawk | 204 | 10/04 16:00 | 10/05 15:07 | ⚠ 221分（05:36→09:18） |
-| financialjuice | 74 | 10/04 15:21 | 10/05 14:12 | ⚠ 199分（22:46→02:06） |
+| FirstSquawk | 207 | 10/04 16:00 | 10/05 15:24 | ⚠ 221分（05:36→09:18） |
+| financialjuice | 73 | 10/04 16:56 | 10/05 14:12 | ⚠ 199分（22:46→02:06） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 279 行（統合前 289 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 281 行（統合前 291 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/04 15:21 [financialjuice] Iran's parliament speaker Qalibaf: Strait of Hormuz won't reopen until Tehran's conditions met, US can no longer delay – Nournews
 - 10/04 16:00 [FirstSquawk] Takaichi policy speech, Malaysia budget, Pacific islands climate summit
 - 10/04 16:31 [FirstSquawk] Chancellor Friedrich Merz reiterated Germany’s backing for Ukraine as he arrived in Kyiv on Sunday and warned that Russia could attack the Western alliance
 - 10/04 16:31 [FirstSquawk] Japan already dominates the U.S. industrial robot market. Now its biggest players are doubling down.
@@ -303,3 +302,6 @@
 - 10/05 15:05 [FirstSquawk] ACG HAS SUCCESSFULLY DELIVERED SIX BOEING 737-8 AIRCRAFT TO ROYAL AIR MAROC.
 - 10/05 15:05 [FirstSquawk] AIR LIQUIDE WILL INVEST MORE THAN €40 BILLION IN CAPITAL ALLOCATIONS OVER THE NEXT FEW YEARS.
 - 10/05 15:07 [FirstSquawk] SPAI'S SANCHEZ WILL GIVE A SPEECH AT 9AM IN MADRID.
+- 10/05 15:10 [FirstSquawk] SPAIN'S SANCHEZ WILL SPEAK AT 9AM IN MADRID.
+- 10/05 15:12 [FirstSquawk] AIR LIQUIDE ANNOUNCES A €4 BILLION SHARE BUYBACK PROGRAM FOR 2027-2028.
+- 10/05 15:24 [FirstSquawk] IRANIAN POLICE WERE ATTACKED IN A TERRORIST INCIDENT IN SOUTHEAST IRAN, REPORTS STATE TELEVISION.
