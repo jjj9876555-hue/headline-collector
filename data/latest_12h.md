@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-06 08:24 JST／対象: 10/05 20:24 〜 10/06 08:24 JST（時刻はすべて日本時間）
+生成: 2026-10-06 08:43 JST／対象: 10/05 20:43 〜 10/06 08:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 56 | 10/05 20:38 | 10/06 07:39 | ⚠ 206分（03:52→07:19） |
-| FirstSquawk | 127 | 10/05 20:27 | 10/06 08:06 | ⚠ 59分（07:02→08:01） |
-| financialjuice | 120 | 10/05 21:13 | 10/06 07:45 | ⚠ 87分（06:00→07:27） |
+| DeItaone | 54 | 10/05 20:51 | 10/06 07:39 | ⚠ 206分（03:52→07:19） |
+| FirstSquawk | 132 | 10/05 20:49 | 10/06 08:39 | ⚠ 59分（07:02→08:01） |
+| financialjuice | 121 | 10/05 21:13 | 10/06 08:30 | ⚠ 87分（06:00→07:27） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 288 行（統合前 306 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 292 行（統合前 310 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 20:27 [FirstSquawk] UK PM SPOX: UK HAS DIVERSE, RESILIENT DIESEL SUPPLIES
-- 10/05 20:37 [FirstSquawk] GE HEALTHCARE TO BUY SOFIE FOR NEARLY $1 BILLION TO GROW MEDICAL-IMAGING BUSINESS – WSJ
-- 10/05 20:38 [DeItaone] BUNDESBANK CHIEF WARNS GERMANY OVER LOW GAS STORAGE Bundesbank President Joachim Nagel criticized Germany’s slow pace of rebuilding natural gas inventories, warning it could add to inflation risks this winter. German storage sites are only …
-- 10/05 20:40 [DeItaone] TECH BILLIONAIRES ADD RECORD $845 BILLION IN 2026 The world’s roughly 100 tech billionaires added a record $845 billion through September, driven by the AI boom and surging U.S. technology stocks. Their combined wealth reached $4.6 trillion…
 - 10/05 20:49 [FirstSquawk] TENNESSEE GAS DECLARES FORCE MAJEURE ON LINE 1 STA 409A-101
 - 10/05 20:51 [DeItaone] YEMEN GOVERNMENT FORCES CLAIM CONTROL OF BAB EL-MANDEB Yemeni government forces say they have seized the Bab el-Mandeb area and Dhubab airport as part of the newly launched “Yemen Dawn” offensive. Reuters reports government forces have capt…
 - 10/05 20:54 [FirstSquawk] LOCKHEED’S DEVELOPMENT UNIT IS INCORPORATING AI TO ADVANCE THE DEFENSE CONTRACTOR.
@@ -312,3 +308,11 @@
 - 10/06 07:44 [financialjuice] Skyworks announces expiration and final outcomes of exchange offers for Qorvo senior notes due 2029 and 2031
 - 10/06 07:45 [financialjuice/FirstSquawk] Australian army soldier dies, five others hurt in training exercise in northern Australia: ABC News
 - 10/06 08:06 [FirstSquawk] SOUTH KOREA POLICE INVESTIGATE CYBERATTACKS TARGETING COMMERCIAL BANKS — YONHAP
+- 10/06 08:29 [FirstSquawk] AUSTRALIA TREASURER CHALMERS: PUSHING FOR GREATER MARKET ACCESS IN JAPAN AMID STRONG JAPANESE INVESTMENT INTEREST; HIGHER BORROWING COSTS TO HIT BUDGET
+- 10/06 08:29 [FirstSquawk] AUSTRALIA TREASURER CHALMERS: PRIVATE SECTOR LEADING ECONOMIC GROWTH, OUTLOOK POSITIVE; PRODUCTIVITY REMAINS A LONG-STANDING CHALLENGE
+- 10/06 08:30 [financialjuice] Australia Oct Westpac-MI consumer confidence index falls 4.7% to 80.4
+- 10/06 08:33 [FirstSquawk] AUSTRALIA'S OCTOBER WESTPAC-MI CONSUMER CONFIDENCE INDEX FELL 4.7% TO 80.4, AFTER A 5.2% DECLINE PREVIOUSLY
+- 10/06 08:34 [FirstSquawk] KKR IS TO ACQUIRE GEN II FUND SERVICES FROM HG, GENERAL ATLANTIC AND OTHER MINORITY INVESTORS FOR AN ENTERPRISE VALUE OF $5.10 BLN, WITH THE GEN II LEADERSHIP TEAM LED BY CEO STEVEN MILLNER TO CONTINUE.
+- 10/06 08:34 [FirstSquawk] KKR SAYS THE DEAL IS EXPECTED TO CLOSE IN 2027, SUBJECT TO REGULATORY APPROVALS.
+- 10/06 08:39 [FirstSquawk] BC PARTNERS CREDIT HAS ANNOUNCED AN INITIAL INVESTMENT IN LIV GOLF, MARKING WHAT IT CALLS THE NEXT STEP TOWARD A FINANCIALLY STRONG, TEAM-FOCUSED GOLF LEAGUE, WITH THE INVESTMENT THE FIRST PART OF A TARGETED $300 MLN IN CUMULATIVE FINANCING…
+- 10/06 08:39 [FirstSquawk] BC PARTNERS SAYS THE NEXT PHASE OF LIV GOLF, OR LIV GOLF 2.0, WILL FEATURE PLAYERS PARTICIPATING AS EQUITY OWNERS OF BOTH THE LEAGUE AND THE TEAMS.

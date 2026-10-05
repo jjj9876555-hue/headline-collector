@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-06 08:24 JST／対象: 10/06 02:24 〜 10/06 08:24 JST（時刻はすべて日本時間）
+生成: 2026-10-06 08:43 JST／対象: 10/06 02:43 〜 10/06 08:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 15 | 10/06 02:27 | 10/06 07:39 | ⚠ 206分（03:52→07:19） |
-| FirstSquawk | 69 | 10/06 02:46 | 10/06 08:06 | ⚠ 59分（07:02→08:01） |
-| financialjuice | 50 | 10/06 02:53 | 10/06 07:45 | ⚠ 87分（06:00→07:27） |
+| DeItaone | 14 | 10/06 02:44 | 10/06 07:39 | ⚠ 206分（03:52→07:19） |
+| FirstSquawk | 76 | 10/06 02:46 | 10/06 08:39 | ⚠ 59分（07:02→08:01） |
+| financialjuice | 51 | 10/06 02:53 | 10/06 08:30 | ⚠ 87分（06:00→07:27） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 129 行（統合前 136 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 136 行（統合前 143 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/06 02:27 [DeItaone] RUSSIA PROBES DEATH OF WORKER AT ANTI-PLAGUE INSTITUTE Russian authorities are investigating the death of a woman employed at an infectious-disease research institute in Siberia after she developed pneumonia of unknown origin. Contacts are …
 - 10/06 02:44 [DeItaone] U.S. STOCKS EXTEND GAINS, NASDAQ UP 1.00%
 - 10/06 02:46 [FirstSquawk] OPENAI EXPANDS CONTENT PROVENANCE TO INCLUDE TEXT IN RESPONSES TO EU REGULATORY REQUIREMENTS
 - 10/06 02:46 [FirstSquawk] OPENAI TO START WATERMARKING ELIGIBLE CHATGPT & CODEX TEXT IN EU OVER COMING WEEKS TO COMPLY WITH EU AI ACT
@@ -153,3 +152,11 @@
 - 10/06 07:44 [financialjuice] Skyworks announces expiration and final outcomes of exchange offers for Qorvo senior notes due 2029 and 2031
 - 10/06 07:45 [financialjuice/FirstSquawk] Australian army soldier dies, five others hurt in training exercise in northern Australia: ABC News
 - 10/06 08:06 [FirstSquawk] SOUTH KOREA POLICE INVESTIGATE CYBERATTACKS TARGETING COMMERCIAL BANKS — YONHAP
+- 10/06 08:29 [FirstSquawk] AUSTRALIA TREASURER CHALMERS: PUSHING FOR GREATER MARKET ACCESS IN JAPAN AMID STRONG JAPANESE INVESTMENT INTEREST; HIGHER BORROWING COSTS TO HIT BUDGET
+- 10/06 08:29 [FirstSquawk] AUSTRALIA TREASURER CHALMERS: PRIVATE SECTOR LEADING ECONOMIC GROWTH, OUTLOOK POSITIVE; PRODUCTIVITY REMAINS A LONG-STANDING CHALLENGE
+- 10/06 08:30 [financialjuice] Australia Oct Westpac-MI consumer confidence index falls 4.7% to 80.4
+- 10/06 08:33 [FirstSquawk] AUSTRALIA'S OCTOBER WESTPAC-MI CONSUMER CONFIDENCE INDEX FELL 4.7% TO 80.4, AFTER A 5.2% DECLINE PREVIOUSLY
+- 10/06 08:34 [FirstSquawk] KKR IS TO ACQUIRE GEN II FUND SERVICES FROM HG, GENERAL ATLANTIC AND OTHER MINORITY INVESTORS FOR AN ENTERPRISE VALUE OF $5.10 BLN, WITH THE GEN II LEADERSHIP TEAM LED BY CEO STEVEN MILLNER TO CONTINUE.
+- 10/06 08:34 [FirstSquawk] KKR SAYS THE DEAL IS EXPECTED TO CLOSE IN 2027, SUBJECT TO REGULATORY APPROVALS.
+- 10/06 08:39 [FirstSquawk] BC PARTNERS CREDIT HAS ANNOUNCED AN INITIAL INVESTMENT IN LIV GOLF, MARKING WHAT IT CALLS THE NEXT STEP TOWARD A FINANCIALLY STRONG, TEAM-FOCUSED GOLF LEAGUE, WITH THE INVESTMENT THE FIRST PART OF A TARGETED $300 MLN IN CUMULATIVE FINANCING…
+- 10/06 08:39 [FirstSquawk] BC PARTNERS SAYS THE NEXT PHASE OF LIV GOLF, OR LIV GOLF 2.0, WILL FEATURE PLAYERS PARTICIPATING AS EQUITY OWNERS OF BOTH THE LEAGUE AND THE TEAMS.
