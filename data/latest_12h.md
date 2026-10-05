@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-05 20:49 JST／対象: 10/05 08:49 〜 10/05 20:49 JST（時刻はすべて日本時間）
+生成: 2026-10-05 21:02 JST／対象: 10/05 09:02 〜 10/05 21:02 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 14 | 10/05 09:05 | 10/05 20:40 | ⚠ 620分（09:05→19:25） |
-| FirstSquawk | 155 | 10/05 09:18 | 10/05 20:49 | ⚠ 55分（11:42→12:37） |
-| financialjuice | 89 | 10/05 09:01 | 10/05 20:15 | ⚠ 103分（14:12→15:55） |
+| DeItaone | 16 | 10/05 09:05 | 10/05 21:01 | ⚠ 620分（09:05→19:25） |
+| FirstSquawk | 156 | 10/05 09:18 | 10/05 20:54 | ⚠ 55分（11:42→12:37） |
+| financialjuice | 88 | 10/05 09:26 | 10/05 20:15 | ⚠ 103分（14:12→15:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 258 行（統合前 260 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 260 行（統合前 262 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 09:01 [financialjuice] Ireland S&P Global September services PMI at 54.1 versus 55.4 in August
 - 10/05 09:05 [DeItaone] ALTMAN: WORLD SHOULD ACCEPT SOME AI RISKS OpenAI CEO Sam Altman says “the world should accept some bad things happening” to keep AI broadly accessible, arguing that people will ultimately use the technology for far more good than harm. Altm…
 - 10/05 09:18 [FirstSquawk] UK EXPECTED TO IMPOSE TARIFFS ON CHINESE ELECTRIC CARS - THE TIMES
 - 10/05 09:20 [FirstSquawk] AUSTRALIA MELBOURNE INSTITUTE INFLATION EASES TO 0.3% M/M IN SEPTEMBER FROM 0.5%; ANNUAL RATE HOLDS AT 4.8%
@@ -282,3 +281,6 @@
 - 10/05 20:38 [DeItaone] BUNDESBANK CHIEF WARNS GERMANY OVER LOW GAS STORAGE Bundesbank President Joachim Nagel criticized Germany’s slow pace of rebuilding natural gas inventories, warning it could add to inflation risks this winter. German storage sites are only …
 - 10/05 20:40 [DeItaone] TECH BILLIONAIRES ADD RECORD $845 BILLION IN 2026 The world’s roughly 100 tech billionaires added a record $845 billion through September, driven by the AI boom and surging U.S. technology stocks. Their combined wealth reached $4.6 trillion…
 - 10/05 20:49 [FirstSquawk] TENNESSEE GAS DECLARES FORCE MAJEURE ON LINE 1 STA 409A-101
+- 10/05 20:51 [DeItaone] YEMEN GOVERNMENT FORCES CLAIM CONTROL OF BAB EL-MANDEB Yemeni government forces say they have seized the Bab el-Mandeb area and Dhubab airport as part of the newly launched “Yemen Dawn” offensive. Reuters reports government forces have capt…
+- 10/05 20:54 [FirstSquawk] LOCKHEED’S DEVELOPMENT UNIT IS INCORPORATING AI TO ADVANCE THE DEFENSE CONTRACTOR.
+- 10/05 21:01 [DeItaone] $MSTR - STRATEGY BUYS MORE BITCOIN, HOLDINGS REACH 848,000 BTC Strategy acquired 334 BTC for $28.7 million at an average price of $85,839, bringing total holdings to 848,000 BTC worth $63.97 billion at cost. The company also sold 92,894 MST…

@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-05 20:49 JST／対象: 10/05 14:49 〜 10/05 20:49 JST（時刻はすべて日本時間）
+生成: 2026-10-05 21:02 JST／対象: 10/05 15:02 〜 10/05 21:02 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 13 | 10/05 19:25 | 10/05 20:40 | 24分（19:58→20:23） |
-| FirstSquawk | 76 | 10/05 14:54 | 10/05 20:49 | 31分（15:24→15:55） |
+| DeItaone | 15 | 10/05 19:25 | 10/05 21:01 | 24分（19:58→20:23） |
+| FirstSquawk | 73 | 10/05 15:04 | 10/05 20:54 | 31分（15:24→15:55） |
 | financialjuice | 51 | 10/05 15:55 | 10/05 20:15 | 35分（16:09→16:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 140 行（統合前 140 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 139 行（統合前 139 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 14:54 [FirstSquawk] SCHNEIDER ELECTRIC DROPS 5.3% ON TRADEGATE COMPARED TO PARIS CLOSING.
-- 10/05 14:57 [FirstSquawk] NETANYAHU: CONGRATULATES BOLSONARO ON ELECTION VOTES IN X POST
-- 10/05 14:58 [FirstSquawk] NETANYAHU EXCITED TO REBUILD FRIENDLY TIES BETWEEN ISRAEL AND BRAZIL.
-- 10/05 14:58 [FirstSquawk] NETANYAHU COMMENTED ON THE PRESIDENTIAL ELECTION IN BRAZIL VIA X.
 - 10/05 15:04 [FirstSquawk] HUAWEI AND QUALCOMM HAVE ENTERED INTO A LONG-TERM AGREEMENT TO SHARE PATENTS.
 - 10/05 15:04 [FirstSquawk] AIR LIQUIDE EXPECTS RECURRING ROCE TO EXCEED 11% BY 2030.
 - 10/05 15:05 [FirstSquawk] ACG HAS SUCCESSFULLY DELIVERED SIX BOEING 737-8 AIRCRAFT TO ROYAL AIR MAROC.
@@ -164,3 +160,6 @@
 - 10/05 20:38 [DeItaone] BUNDESBANK CHIEF WARNS GERMANY OVER LOW GAS STORAGE Bundesbank President Joachim Nagel criticized Germany’s slow pace of rebuilding natural gas inventories, warning it could add to inflation risks this winter. German storage sites are only …
 - 10/05 20:40 [DeItaone] TECH BILLIONAIRES ADD RECORD $845 BILLION IN 2026 The world’s roughly 100 tech billionaires added a record $845 billion through September, driven by the AI boom and surging U.S. technology stocks. Their combined wealth reached $4.6 trillion…
 - 10/05 20:49 [FirstSquawk] TENNESSEE GAS DECLARES FORCE MAJEURE ON LINE 1 STA 409A-101
+- 10/05 20:51 [DeItaone] YEMEN GOVERNMENT FORCES CLAIM CONTROL OF BAB EL-MANDEB Yemeni government forces say they have seized the Bab el-Mandeb area and Dhubab airport as part of the newly launched “Yemen Dawn” offensive. Reuters reports government forces have capt…
+- 10/05 20:54 [FirstSquawk] LOCKHEED’S DEVELOPMENT UNIT IS INCORPORATING AI TO ADVANCE THE DEFENSE CONTRACTOR.
+- 10/05 21:01 [DeItaone] $MSTR - STRATEGY BUYS MORE BITCOIN, HOLDINGS REACH 848,000 BTC Strategy acquired 334 BTC for $28.7 million at an average price of $85,839, bringing total holdings to 848,000 BTC worth $63.97 billion at cost. The company also sold 92,894 MST…
