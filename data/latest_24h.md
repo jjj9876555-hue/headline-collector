@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-05 19:09 JST／対象: 10/04 19:09 〜 10/05 19:09 JST（時刻はすべて日本時間）
+生成: 2026-10-05 19:31 JST／対象: 10/04 19:31 〜 10/05 19:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 6 | 10/04 20:19 | 10/05 09:05 | ⚠ 411分（02:14→09:05） |
-| FirstSquawk | 224 | 10/04 19:12 | 10/05 19:03 | ⚠ 221分（05:36→09:18） |
-| financialjuice | 107 | 10/04 20:14 | 10/05 19:03 | ⚠ 199分（22:46→02:06） |
+| DeItaone | 10 | 10/04 20:19 | 10/05 19:29 | ⚠ 620分（09:05→19:25） |
+| FirstSquawk | 225 | 10/04 19:53 | 10/05 19:21 | ⚠ 221分（05:36→09:18） |
+| financialjuice | 111 | 10/04 20:14 | 10/05 19:28 | ⚠ 199分（22:46→02:06） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 331 行（統合前 341 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 340 行（統合前 350 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/04 19:12 [FirstSquawk] Russian Defense Ministry: We will intensify strikes on Kyiv and other areas in Ukraine following Zelensky's recent statements.
-- 10/04 19:12 [FirstSquawk] Russian Defense Ministry: Casualties and damage to homes in a Ukrainian strike last night targeting areas in Belgorod
-- 10/04 19:21 [FirstSquawk] Fars News Agency, quoting the Iranian military spokesman: Tehran has decided to work on increasing the range of its missiles following the war with America
 - 10/04 19:53 [FirstSquawk] Israeli airstrike on the town of Mansouri in the Tyre district of southern Lebanon
 - 10/04 20:05 [FirstSquawk] Yemeni sources: The Houthis seized the home of Yemeni Parliament Speaker Sultan al-Barakani south of Taiz after clashes with government forces.
 - 10/04 20:05 [FirstSquawk] Lebanese media: A violent Israeli bombing in the town of Mansouri, Tyre district, southern Lebanon
@@ -355,3 +352,15 @@
 - 10/05 18:57 [financialjuice] Yemeni government forces launch attacks on Houthis from three fronts in the north, west, and south of Yemen - Military sources
 - 10/05 19:03 [FirstSquawk] CENOVUS TO BUY ATHABASCA OIL FOR C$12.00/SHR CASH, STOCK
 - 10/05 19:03 [financialjuice] Yemen's armed forces: Began 'strategic offensive’ in Sanaa
+- 10/05 19:11 [FirstSquawk] BP CEO: WE HAVE ADJUSTED OUR REFINERIES TO MOVE FOCUS FROM JET TO DIESEL PRODUCTION
+- 10/05 19:14 [FirstSquawk] BP CEO'S VIEW OF ENERGY MACRO TRENDS NOT HUGELY AFFECTED BY WAR
+- 10/05 19:17 [FirstSquawk] BP CEO SAYS NOT SURE IT IS IN BEST INTEREST OF BP SHAREHOLDERS TO INVEST DIRECTLY IN ALTERNATIVE EXPORT ROUTES
+- 10/05 19:21 [FirstSquawk] UKMTO GETS REPORT OF INCIDENT 11NM NORTH OF KHASAB, OMAN
+- 10/05 19:25 [DeItaone] OPENAI INTRODUCES NEW VISUAL ADS IN CHATGPT OpenAI is introducing a new visual advertising format in ChatGPT, with U.S. testing beginning later this month among an initial group of advertisers. The format will initially appear during image …
+- 10/05 19:26 [financialjuice] EU Commission spokesperson: decision to release stocks will impact oil prices for member states positively
+- 10/05 19:27 [financialjuice] EU Commission spokesperson: We are heading towards a very difficult winter in terms of energy prices
+- 10/05 19:27 [financialjuice] UKMTO: Received report of incident 11nm north of Oman's Khasab
+- 10/05 19:27 [DeItaone] $COIN - BOFA RAISES COINBASE TARGET TO $203 BofA raised its Coinbase price target to $203 from $174, reiterating a Buy rating. The bank lifted its 2027–2028 EPS forecasts on expectations for stronger stablecoin revenue following September’s…
+- 10/05 19:28 [financialjuice] UKMTO: Tanker transiting through the strait was hailed by IRGC and instructed to turn back, or it would be targeted
+- 10/05 19:28 [DeItaone] BITCOIN RALLY REVIVES “DEBASEMENT TRADE” Bitcoin’s rally toward $86,000 reflects renewed demand for an anti-fiat hedge, according to Capital. com’s Kyle Rodda. Rodda links the move to Scott Bessent’s intervention in Treasury markets, arguin…
+- 10/05 19:29 [DeItaone] JPMORGAN: BOND YIELD SPIKE WON’T DERAIL STOCKS JPMorgan says the recent surge in bond yields should not cause lasting damage to equities, expecting yields to retreat from current highs. Strategist Mislav Matejka sees resilient economic grow…
