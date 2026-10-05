@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-05 19:51 JST／対象: 10/05 13:51 〜 10/05 19:51 JST（時刻はすべて日本時間）
+生成: 2026-10-05 20:05 JST／対象: 10/05 14:05 〜 10/05 20:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 8 | 10/05 19:25 | 10/05 19:39 | 4分（19:32→19:36） |
-| FirstSquawk | 91 | 10/05 13:53 | 10/05 19:46 | 31分（15:24→15:55） |
-| financialjuice | 60 | 10/05 13:52 | 10/05 19:28 | ⚠ 103分（14:12→15:55） |
+| DeItaone | 10 | 10/05 19:25 | 10/05 19:58 | 15分（19:39→19:54） |
+| FirstSquawk | 85 | 10/05 14:05 | 10/05 20:03 | 31分（15:24→15:55） |
+| financialjuice | 55 | 10/05 14:09 | 10/05 20:03 | ⚠ 103分（14:12→15:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 159 行（統合前 159 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 150 行（統合前 150 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 13:52 [financialjuice] India finance minister: new model for bilateral investment treaties to be approved soon
-- 10/05 13:53 [financialjuice] India finance minister: to finalize bilateral investment pact with Canada by December or early next year
-- 10/05 13:53 [FirstSquawk] INDIA'S FINANCE MINISTER ANNOUNCED A NEW TEMPLATE FOR BILATERAL INVESTMENT TREATIES THAT WILL BE APPROVED SOON.
-- 10/05 13:53 [FirstSquawk] INDIA'S FINANCE MINISTER ANNOUNCED THAT A BILATERAL INVESTMENT DEAL WITH CANADA WILL BE FINALIZED BY DECEMBER OR EARLY NEXT YEAR.
-- 10/05 13:55 [financialjuice] India finance minister: talks with Canada on bilateral investment protection under way, cabinet expected to approve elements
-- 10/05 13:55 [financialjuice] India finance minister: to finalize investment pacts with three additional countries by year-end
-- 10/05 13:56 [financialjuice] India finance minister: discussions on investment pacts with multiple countries including Russia, focusing on safeguarding investments
-- 10/05 13:56 [financialjuice] Russian air strikes hit port infrastructure in Ukraine's Odesa region, authorities say
-- 10/05 13:56 [FirstSquawk] INDIA'S FINANCE MINISTER ANNOUNCED THAT DISCUSSIONS WITH CANADA REGARDING BILATERAL INVESTMENT PROTECTION HAVE BEGUN, FOCUSING ON ELEMENTS THAT THE CABINET IS EXPECTED TO APPROVE.
-- 10/05 13:56 [FirstSquawk] INDIA'S FINANCE MINISTER SAYS NEW INVESTMENT TREATIES WITH THREE COUNTRIES ARE EXPECTED TO BE FINISHED BY YEAR-END.
-- 10/05 13:56 [FirstSquawk] INDIA'S FINANCE MINISTER CONFIRMED TALKS FOR INVESTMENT TREATIES WITH MULTIPLE COUNTRIES, INCLUDING RUSSIA, FOCUSING ON PROTECTING INVESTMENTS.
-- 10/05 13:56 [FirstSquawk] GOLDMAN SACHS INCREASES 2026 US DATA CENTER CAPACITY ESTIMATE BY 5 GW TO 64 GW BUT CUTS 2027 FORECAST BY 5 GW TO 90 GW.
-- 10/05 13:57 [FirstSquawk] GOLDMAN SACHS PREDICTS US DATA CENTER POWER DEMAND WILL INCREASE BY 38% (12 GW) IN 2026 AND 38% (17 GW) IN 2027.
-- 10/05 14:00 [FirstSquawk] JAPAN'S CONSUMER CONFIDENCE FOR SEPTEMBER IS AT 35.4, SLIGHTLY ABOVE THE ESTIMATED 35.3.
-- 10/05 14:03 [FirstSquawk] SCHNEIDER ELECTRIC WILL PURCHASE PTC FOR $205 PER SHARE IN AN ALL-CASH TRANSACTION.
-- 10/05 14:04 [financialjuice] India finance minister: fertiliser costs have surged, unsustainable for any nation to continue purchasing at this rate
 - 10/05 14:05 [FirstSquawk] TAKAICHI CALLS US MARINE INCIDENT IN OKINAWA REGRETTABLE.
 - 10/05 14:05 [FirstSquawk] JAPAN'S PM TAKAICHI KICKS OFF DIET SESSION WITH SPEECH.
 - 10/05 14:05 [FirstSquawk] TAKAICHI SAYS THAT ACHIEVING ROBUST AND SUSTAINABLE GROWTH IS HIS BEGINNING FOCUS.
@@ -183,3 +167,10 @@
 - 10/05 19:39 [DeItaone] IRGC THREATENS TANKER IN STRAIT OF HORMUZ UKMTO says a tanker transiting the Strait of Hormuz was hailed by Iran’s IRGC and instructed to turn back or risk being targeted. The tanker complied with the order. The incident was reported 11 nau…
 - 10/05 19:44 [FirstSquawk] ROMANIA: CARGO VESSEL SINKS IN BLACK SEA, TWO DEAD
 - 10/05 19:46 [FirstSquawk] IRAN ISSUES STRONGER WARNINGS ABOUT STARLINK AMID ESCALATING COST-OF-LIVING ISSUES AND GROWING FEARS OF PUBLIC PROTESTS, SHOWING INCREASING ANXIETY OVER ACCESS TO SATELLITE INTERNET.
+- 10/05 19:54 [DeItaone] FIFTEEN-YEAR-OLD STUDENT HAS HAND BLOWN OFF DURING FRENCH SCHOOL PROTESTS, LOCAL OFFICIAL SAYS
+- 10/05 19:58 [DeItaone] CITI ADDS FOUR STOCKS TO 90-DAY UPSIDE CATALYST WATCH Citi has added four healthcare stocks to its 90-Day Upside Catalyst Watch List: • Sight Sciences ( $SGHT) • Zimmer Biomet ( $ZBH) • Edwards Lifesciences ( $EW) • Boston Scientific ( $BSX…
+- 10/05 19:58 [FirstSquawk] BOSTON SCIENTIFIC GETS DOWNSIDE 90 DAY CATALYST AT CITI
+- 10/05 19:59 [financialjuice] Altman expects calls for guardrails will continue -Politico
+- 10/05 20:01 [FirstSquawk] ISRAEL TO CONTINUE STRIKING HEZBOLLAH, SEEK LEBANON PEACE: PM
+- 10/05 20:03 [financialjuice] US ambassador to China: Trump is as strong on Taiwan as ever seen
+- 10/05 20:03 [FirstSquawk] C.H. ROBINSON TO BUY RXO FOR IMPLIED DEAL VALUE OF $30.25/SHR

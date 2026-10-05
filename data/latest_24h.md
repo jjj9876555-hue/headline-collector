@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-05 19:51 JST／対象: 10/04 19:51 〜 10/05 19:51 JST（時刻はすべて日本時間）
+生成: 2026-10-05 20:05 JST／対象: 10/04 20:05 〜 10/05 20:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 14 | 10/04 20:19 | 10/05 19:39 | ⚠ 620分（09:05→19:25） |
-| FirstSquawk | 227 | 10/04 19:53 | 10/05 19:46 | ⚠ 221分（05:36→09:18） |
-| financialjuice | 111 | 10/04 20:14 | 10/05 19:28 | ⚠ 199分（22:46→02:06） |
+| DeItaone | 16 | 10/04 20:19 | 10/05 19:58 | ⚠ 620分（09:05→19:25） |
+| FirstSquawk | 228 | 10/04 20:05 | 10/05 20:03 | ⚠ 221分（05:36→09:18） |
+| financialjuice | 113 | 10/04 20:14 | 10/05 20:03 | ⚠ 199分（22:46→02:06） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 346 行（統合前 356 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 351 行（統合前 361 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/04 19:53 [FirstSquawk] Israeli airstrike on the town of Mansouri in the Tyre district of southern Lebanon
-- 10/04 20:05 [FirstSquawk] Yemeni sources: The Houthis seized the home of Yemeni Parliament Speaker Sultan al-Barakani south of Taiz after clashes with government forces.
 - 10/04 20:05 [FirstSquawk] Lebanese media: A violent Israeli bombing in the town of Mansouri, Tyre district, southern Lebanon
 - 10/04 20:14 [FirstSquawk] Lebanese News Agency: Israeli bombing on the outskirts of the town of Barashit in the Bint Jbeil district of southern Lebanon
 - 10/04 20:14 [financialjuice] OPEC+ keeps oil output quotas unchanged for November at Sunday meeting: statement
@@ -370,3 +368,10 @@
 - 10/05 19:39 [DeItaone] IRGC THREATENS TANKER IN STRAIT OF HORMUZ UKMTO says a tanker transiting the Strait of Hormuz was hailed by Iran’s IRGC and instructed to turn back or risk being targeted. The tanker complied with the order. The incident was reported 11 nau…
 - 10/05 19:44 [FirstSquawk] ROMANIA: CARGO VESSEL SINKS IN BLACK SEA, TWO DEAD
 - 10/05 19:46 [FirstSquawk] IRAN ISSUES STRONGER WARNINGS ABOUT STARLINK AMID ESCALATING COST-OF-LIVING ISSUES AND GROWING FEARS OF PUBLIC PROTESTS, SHOWING INCREASING ANXIETY OVER ACCESS TO SATELLITE INTERNET.
+- 10/05 19:54 [DeItaone] FIFTEEN-YEAR-OLD STUDENT HAS HAND BLOWN OFF DURING FRENCH SCHOOL PROTESTS, LOCAL OFFICIAL SAYS
+- 10/05 19:58 [DeItaone] CITI ADDS FOUR STOCKS TO 90-DAY UPSIDE CATALYST WATCH Citi has added four healthcare stocks to its 90-Day Upside Catalyst Watch List: • Sight Sciences ( $SGHT) • Zimmer Biomet ( $ZBH) • Edwards Lifesciences ( $EW) • Boston Scientific ( $BSX…
+- 10/05 19:58 [FirstSquawk] BOSTON SCIENTIFIC GETS DOWNSIDE 90 DAY CATALYST AT CITI
+- 10/05 19:59 [financialjuice] Altman expects calls for guardrails will continue -Politico
+- 10/05 20:01 [FirstSquawk] ISRAEL TO CONTINUE STRIKING HEZBOLLAH, SEEK LEBANON PEACE: PM
+- 10/05 20:03 [financialjuice] US ambassador to China: Trump is as strong on Taiwan as ever seen
+- 10/05 20:03 [FirstSquawk] C.H. ROBINSON TO BUY RXO FOR IMPLIED DEAL VALUE OF $30.25/SHR

@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-05 19:51 JST／対象: 10/05 07:51 〜 10/05 19:51 JST（時刻はすべて日本時間）
+生成: 2026-10-05 20:05 JST／対象: 10/05 08:05 〜 10/05 20:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 9 | 10/05 09:05 | 10/05 19:39 | ⚠ 620分（09:05→19:25） |
-| FirstSquawk | 145 | 10/05 09:18 | 10/05 19:46 | ⚠ 55分（11:42→12:37） |
-| financialjuice | 86 | 10/05 09:01 | 10/05 19:28 | ⚠ 103分（14:12→15:55） |
+| DeItaone | 11 | 10/05 09:05 | 10/05 19:58 | ⚠ 620分（09:05→19:25） |
+| FirstSquawk | 148 | 10/05 09:18 | 10/05 20:03 | ⚠ 55分（11:42→12:37） |
+| financialjuice | 88 | 10/05 09:01 | 10/05 20:03 | ⚠ 103分（14:12→15:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 240 行（統合前 242 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 247 行（統合前 249 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -264,3 +264,10 @@
 - 10/05 19:39 [DeItaone] IRGC THREATENS TANKER IN STRAIT OF HORMUZ UKMTO says a tanker transiting the Strait of Hormuz was hailed by Iran’s IRGC and instructed to turn back or risk being targeted. The tanker complied with the order. The incident was reported 11 nau…
 - 10/05 19:44 [FirstSquawk] ROMANIA: CARGO VESSEL SINKS IN BLACK SEA, TWO DEAD
 - 10/05 19:46 [FirstSquawk] IRAN ISSUES STRONGER WARNINGS ABOUT STARLINK AMID ESCALATING COST-OF-LIVING ISSUES AND GROWING FEARS OF PUBLIC PROTESTS, SHOWING INCREASING ANXIETY OVER ACCESS TO SATELLITE INTERNET.
+- 10/05 19:54 [DeItaone] FIFTEEN-YEAR-OLD STUDENT HAS HAND BLOWN OFF DURING FRENCH SCHOOL PROTESTS, LOCAL OFFICIAL SAYS
+- 10/05 19:58 [DeItaone] CITI ADDS FOUR STOCKS TO 90-DAY UPSIDE CATALYST WATCH Citi has added four healthcare stocks to its 90-Day Upside Catalyst Watch List: • Sight Sciences ( $SGHT) • Zimmer Biomet ( $ZBH) • Edwards Lifesciences ( $EW) • Boston Scientific ( $BSX…
+- 10/05 19:58 [FirstSquawk] BOSTON SCIENTIFIC GETS DOWNSIDE 90 DAY CATALYST AT CITI
+- 10/05 19:59 [financialjuice] Altman expects calls for guardrails will continue -Politico
+- 10/05 20:01 [FirstSquawk] ISRAEL TO CONTINUE STRIKING HEZBOLLAH, SEEK LEBANON PEACE: PM
+- 10/05 20:03 [financialjuice] US ambassador to China: Trump is as strong on Taiwan as ever seen
+- 10/05 20:03 [FirstSquawk] C.H. ROBINSON TO BUY RXO FOR IMPLIED DEAL VALUE OF $30.25/SHR
