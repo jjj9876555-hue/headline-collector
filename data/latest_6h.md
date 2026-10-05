@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-06 01:21 JST／対象: 10/05 19:21 〜 10/06 01:21 JST（時刻はすべて日本時間）
+生成: 2026-10-06 01:42 JST／対象: 10/05 19:42 〜 10/06 01:42 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 48 | 10/05 19:25 | 10/06 01:19 | 33分（21:14→21:48） |
-| FirstSquawk | 60 | 10/05 19:44 | 10/06 01:10 | 16分（22:15→22:31） |
-| financialjuice | 69 | 10/05 19:26 | 10/06 01:21 | ⚠ 57分（20:15→21:13） |
+| DeItaone | 42 | 10/05 19:54 | 10/06 01:33 | 33分（21:14→21:48） |
+| FirstSquawk | 64 | 10/05 19:44 | 10/06 01:40 | 16分（01:10→01:27） |
+| financialjuice | 67 | 10/05 19:59 | 10/06 01:33 | ⚠ 57分（20:15→21:13） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 168 行（統合前 178 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 164 行（統合前 174 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 19:25 [DeItaone] OPENAI INTRODUCES NEW VISUAL ADS IN CHATGPT OpenAI is introducing a new visual advertising format in ChatGPT, with U.S. testing beginning later this month among an initial group of advertisers. The format will initially appear during image …
-- 10/05 19:26 [financialjuice] EU Commission spokesperson: decision to release stocks will impact oil prices for member states positively
-- 10/05 19:27 [financialjuice] EU Commission spokesperson: We are heading towards a very difficult winter in terms of energy prices
-- 10/05 19:27 [financialjuice] UKMTO: Received report of incident 11nm north of Oman's Khasab
-- 10/05 19:27 [DeItaone] $COIN - BOFA RAISES COINBASE TARGET TO $203 BofA raised its Coinbase price target to $203 from $174, reiterating a Buy rating. The bank lifted its 2027–2028 EPS forecasts on expectations for stronger stablecoin revenue following September’s…
-- 10/05 19:28 [financialjuice] UKMTO: Tanker transiting through the strait was hailed by IRGC and instructed to turn back, or it would be targeted
-- 10/05 19:28 [DeItaone] BITCOIN RALLY REVIVES “DEBASEMENT TRADE” Bitcoin’s rally toward $86,000 reflects renewed demand for an anti-fiat hedge, according to Capital. com’s Kyle Rodda. Rodda links the move to Scott Bessent’s intervention in Treasury markets, arguin…
-- 10/05 19:29 [DeItaone] JPMORGAN: BOND YIELD SPIKE WON’T DERAIL STOCKS JPMorgan says the recent surge in bond yields should not cause lasting damage to equities, expecting yields to retreat from current highs. Strategist Mislav Matejka sees resilient economic grow…
-- 10/05 19:32 [DeItaone] BOFA: ACTIVE FUNDS STRUGGLE AS MEGACAPS DOMINATE Just 44% of large-cap active funds beat their benchmarks in September, as market leadership narrowed sharply toward megacaps, according to BofA. The cap-weighted S&P 500 outperformed its equa…
-- 10/05 19:36 [DeItaone] 🇺🇸 WHAT TO WATCH TODAY — U.S. MARKETS 🔸 9:20 AM ET — 🇺🇸 NY Fed Bill Purchases, 4–12 months 🔸 9:45 AM ET — 🇺🇸 S&P Global Services PMI — Final 🔸 9:45 AM ET — 🇺🇸 S&P Global Composite PMI — Final 🔥 10:00 AM ET — ISM SERVICES PMI Consensus: 55.7…
-- 10/05 19:37 [DeItaone] 🇺🇸 PRESIDENT’S CALENDAR — MONDAY, OCTOBER 5, 2026 🔸 8:00 AM ET — Executive Time — White House 🔸 9:00 AM ET — In-Town Pool Call Time 🔸 10:00 AM ET — Policy Meeting — Oval Office 🔸 12:30 PM ET — Policy Meeting — Oval Office 🔸 1:30 PM ET — Pol…
-- 10/05 19:39 [DeItaone] IRGC THREATENS TANKER IN STRAIT OF HORMUZ UKMTO says a tanker transiting the Strait of Hormuz was hailed by Iran’s IRGC and instructed to turn back or risk being targeted. The tanker complied with the order. The incident was reported 11 nau…
 - 10/05 19:44 [FirstSquawk] ROMANIA: CARGO VESSEL SINKS IN BLACK SEA, TWO DEAD
 - 10/05 19:46 [FirstSquawk] IRAN ISSUES STRONGER WARNINGS ABOUT STARLINK AMID ESCALATING COST-OF-LIVING ISSUES AND GROWING FEARS OF PUBLIC PROTESTS, SHOWING INCREASING ANXIETY OVER ACCESS TO SATELLITE INTERNET.
 - 10/05 19:54 [DeItaone] FIFTEEN-YEAR-OLD STUDENT HAS HAND BLOWN OFF DURING FRENCH SCHOOL PROTESTS, LOCAL OFFICIAL SAYS
@@ -192,3 +180,11 @@
 - 10/06 01:18 [DeItaone] TRUMP PLANS EXECUTIVE ACTION TO LOWER DIESEL COSTS President Trump plans executive actions Monday aimed at reducing diesel prices, including a Treasury review of certain diesel taxes and measures to expand access to tax-exempt dyed diesel, …
 - 10/06 01:19 [DeItaone] *TRUMP TO ASK TREASURY FOR WAYS TO CUT DIESEL PRICES: POLITICO
 - 10/06 01:21 [financialjuice] US Department of Energy: Announces $4.2 billion investment to boost nuclear power and help lower energy costs in Pennsylvania and Ohio.
+- 10/06 01:23 [financialjuice] Iran's Minister of Interior arrives in Doha - IRIB News.
+- 10/06 01:27 [FirstSquawk] FTC CHAIR URGED HEALTHCARE SERVICES FIRMS TO CONDUCT A COMPREHENSIVE REVIEW OF PRICE DISCLOSURE PRACTICES, TAKE SWIFT CORRECTIVE ACTION AS NEEDED
+- 10/06 01:33 [DeItaone] TRUMP: REFINERY DISRUPTIONS NOW DRIVING GASOLINE PRICES Trump says the Strait of Hormuz is no longer the main factor pushing gasoline prices higher, citing increased oil flows through the waterway. He instead points to refinery disruptions,…
+- 10/06 01:33 [financialjuice] Trump: Refinery Disruptions, Not Strait of Hormuz, Are Driving Gasoline Prices Higher - Truth Social
+- 10/06 01:33 [DeItaone] TRUMP: WHAT'S DRIVING UP GASOLINE IS NO LONGER STRAIT OF HORMUZ
+- 10/06 01:33 [FirstSquawk] Trump on truth social What's driving up Gasoline is no longer the Strait of Hormuz, because Record Numbers of Barrels are coming out now on an almost daily basis, but the word, "Refineries," where Russia's are being blown up by Ukraine, and…
+- 10/06 01:37 [FirstSquawk] EMIRATES: CODESHARE OPERATIONS WITH FLYDUBAI TO/FROM TEL AVIV ARE SUSPENDED WITH IMMEDIATE EFFECT, UNTIL FURTHER NOTICE
+- 10/06 01:40 [FirstSquawk] YEMEN OFFICIAL SAYS HANDS ARE EXTENDED FOR PEACE

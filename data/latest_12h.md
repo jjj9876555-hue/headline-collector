@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-06 01:21 JST／対象: 10/05 13:21 〜 10/06 01:21 JST（時刻はすべて日本時間）
+生成: 2026-10-06 01:42 JST／対象: 10/05 13:42 〜 10/06 01:42 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 48 | 10/05 19:25 | 10/06 01:19 | 33分（21:14→21:48） |
-| FirstSquawk | 155 | 10/05 13:44 | 10/06 01:10 | 31分（15:24→15:55） |
-| financialjuice | 131 | 10/05 13:26 | 10/06 01:21 | ⚠ 103分（14:12→15:55） |
+| DeItaone | 50 | 10/05 19:25 | 10/06 01:33 | 33分（21:14→21:48） |
+| FirstSquawk | 159 | 10/05 13:44 | 10/06 01:40 | 31分（15:24→15:55） |
+| financialjuice | 128 | 10/05 13:50 | 10/06 01:33 | ⚠ 103分（14:12→15:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 325 行（統合前 335 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 328 行（統合前 338 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 13:26 [financialjuice] India finance minister: US trade deal is a tough and thoroughly negotiated agreement
-- 10/05 13:26 [financialjuice] India finance minister: like to believe India and US have reached plateau in trade deal discussions
-- 10/05 13:26 [financialjuice] India finance minister: beyond this plateau, offering more in trade deal will be very difficult for India and US
-- 10/05 13:29 [financialjuice] India finance minister: US aiming to cut trade imbalance using methods beyond talks
-- 10/05 13:32 [financialjuice] India finance minister: tariffs are being used as weapons despite framework
 - 10/05 13:44 [FirstSquawk] UK IS ENCOURAGED TO ADOPT AFFORDABLE AI MODELS – FT
 - 10/05 13:44 [FirstSquawk] UK AUDIT WATCHDOG IS THINKING ABOUT CHANGING GOVERNANCE RULES.
 - 10/05 13:44 [FirstSquawk] GLOBAL PENSION FUNDS REDUCE US STOCKS DUE TO AI RISK CONCERNS, SAYS FT.
@@ -349,3 +344,11 @@
 - 10/06 01:18 [DeItaone] TRUMP PLANS EXECUTIVE ACTION TO LOWER DIESEL COSTS President Trump plans executive actions Monday aimed at reducing diesel prices, including a Treasury review of certain diesel taxes and measures to expand access to tax-exempt dyed diesel, …
 - 10/06 01:19 [DeItaone] *TRUMP TO ASK TREASURY FOR WAYS TO CUT DIESEL PRICES: POLITICO
 - 10/06 01:21 [financialjuice] US Department of Energy: Announces $4.2 billion investment to boost nuclear power and help lower energy costs in Pennsylvania and Ohio.
+- 10/06 01:23 [financialjuice] Iran's Minister of Interior arrives in Doha - IRIB News.
+- 10/06 01:27 [FirstSquawk] FTC CHAIR URGED HEALTHCARE SERVICES FIRMS TO CONDUCT A COMPREHENSIVE REVIEW OF PRICE DISCLOSURE PRACTICES, TAKE SWIFT CORRECTIVE ACTION AS NEEDED
+- 10/06 01:33 [DeItaone] TRUMP: REFINERY DISRUPTIONS NOW DRIVING GASOLINE PRICES Trump says the Strait of Hormuz is no longer the main factor pushing gasoline prices higher, citing increased oil flows through the waterway. He instead points to refinery disruptions,…
+- 10/06 01:33 [financialjuice] Trump: Refinery Disruptions, Not Strait of Hormuz, Are Driving Gasoline Prices Higher - Truth Social
+- 10/06 01:33 [DeItaone] TRUMP: WHAT'S DRIVING UP GASOLINE IS NO LONGER STRAIT OF HORMUZ
+- 10/06 01:33 [FirstSquawk] Trump on truth social What's driving up Gasoline is no longer the Strait of Hormuz, because Record Numbers of Barrels are coming out now on an almost daily basis, but the word, "Refineries," where Russia's are being blown up by Ukraine, and…
+- 10/06 01:37 [FirstSquawk] EMIRATES: CODESHARE OPERATIONS WITH FLYDUBAI TO/FROM TEL AVIV ARE SUSPENDED WITH IMMEDIATE EFFECT, UNTIL FURTHER NOTICE
+- 10/06 01:40 [FirstSquawk] YEMEN OFFICIAL SAYS HANDS ARE EXTENDED FOR PEACE

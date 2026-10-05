@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-06 01:21 JST／対象: 10/05 01:21 〜 10/06 01:21 JST（時刻はすべて日本時間）
+生成: 2026-10-06 01:42 JST／対象: 10/05 01:42 〜 10/06 01:42 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 51 | 10/05 02:13 | 10/06 01:19 | ⚠ 620分（09:05→19:25） |
-| FirstSquawk | 227 | 10/05 01:28 | 10/06 01:10 | ⚠ 221分（05:36→09:18） |
-| financialjuice | 161 | 10/05 02:06 | 10/06 01:21 | ⚠ 103分（14:12→15:55） |
+| DeItaone | 53 | 10/05 02:13 | 10/06 01:33 | ⚠ 620分（09:05→19:25） |
+| FirstSquawk | 230 | 10/05 02:11 | 10/06 01:40 | ⚠ 221分（05:36→09:18） |
+| financialjuice | 163 | 10/05 02:06 | 10/06 01:33 | ⚠ 103分（14:12→15:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 428 行（統合前 443 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 435 行（統合前 450 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 01:28 [FirstSquawk] AFP: More than 70 killed in clashes between Yemeni government forces and Houthi rebels in Taiz province in 24 hours
 - 10/05 02:06 [financialjuice/FirstSquawk] Iran oil minister steps down: state media
 - 10/05 02:11 [FirstSquawk] Israeli army: Today in an airstrike on Khan Younis, we killed a member of Hamas' elite unit.
 - 10/05 02:11 [FirstSquawk] Israeli airstrike on the town of Haddatha in the Bint Jbeil district of southern Lebanon
@@ -452,3 +451,11 @@
 - 10/06 01:18 [DeItaone] TRUMP PLANS EXECUTIVE ACTION TO LOWER DIESEL COSTS President Trump plans executive actions Monday aimed at reducing diesel prices, including a Treasury review of certain diesel taxes and measures to expand access to tax-exempt dyed diesel, …
 - 10/06 01:19 [DeItaone] *TRUMP TO ASK TREASURY FOR WAYS TO CUT DIESEL PRICES: POLITICO
 - 10/06 01:21 [financialjuice] US Department of Energy: Announces $4.2 billion investment to boost nuclear power and help lower energy costs in Pennsylvania and Ohio.
+- 10/06 01:23 [financialjuice] Iran's Minister of Interior arrives in Doha - IRIB News.
+- 10/06 01:27 [FirstSquawk] FTC CHAIR URGED HEALTHCARE SERVICES FIRMS TO CONDUCT A COMPREHENSIVE REVIEW OF PRICE DISCLOSURE PRACTICES, TAKE SWIFT CORRECTIVE ACTION AS NEEDED
+- 10/06 01:33 [DeItaone] TRUMP: REFINERY DISRUPTIONS NOW DRIVING GASOLINE PRICES Trump says the Strait of Hormuz is no longer the main factor pushing gasoline prices higher, citing increased oil flows through the waterway. He instead points to refinery disruptions,…
+- 10/06 01:33 [financialjuice] Trump: Refinery Disruptions, Not Strait of Hormuz, Are Driving Gasoline Prices Higher - Truth Social
+- 10/06 01:33 [DeItaone] TRUMP: WHAT'S DRIVING UP GASOLINE IS NO LONGER STRAIT OF HORMUZ
+- 10/06 01:33 [FirstSquawk] Trump on truth social What's driving up Gasoline is no longer the Strait of Hormuz, because Record Numbers of Barrels are coming out now on an almost daily basis, but the word, "Refineries," where Russia's are being blown up by Ukraine, and…
+- 10/06 01:37 [FirstSquawk] EMIRATES: CODESHARE OPERATIONS WITH FLYDUBAI TO/FROM TEL AVIV ARE SUSPENDED WITH IMMEDIATE EFFECT, UNTIL FURTHER NOTICE
+- 10/06 01:40 [FirstSquawk] YEMEN OFFICIAL SAYS HANDS ARE EXTENDED FOR PEACE
