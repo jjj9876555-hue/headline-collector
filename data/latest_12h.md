@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-05 13:24 JST／対象: 10/05 01:24 〜 10/05 13:24 JST（時刻はすべて日本時間）
+生成: 2026-10-05 14:08 JST／対象: 10/05 02:08 〜 10/05 14:08 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 10/05 02:13 | 10/05 09:05 | ⚠ 411分（02:14→09:05） |
-| FirstSquawk | 72 | 10/05 01:28 | 10/05 13:00 | ⚠ 221分（05:36→09:18） |
-| financialjuice | 30 | 10/05 02:06 | 10/05 13:15 | ⚠ 102分（05:17→07:00） |
+| FirstSquawk | 90 | 10/05 02:11 | 10/05 14:07 | ⚠ 221分（05:36→09:18） |
+| financialjuice | 42 | 10/05 03:18 | 10/05 14:04 | ⚠ 102分（05:17→07:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 103 行（統合前 108 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 134 行（統合前 138 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 01:28 [FirstSquawk] AFP: More than 70 killed in clashes between Yemeni government forces and Houthi rebels in Taiz province in 24 hours
-- 10/05 02:06 [financialjuice/FirstSquawk] Iran oil minister steps down: state media
 - 10/05 02:11 [FirstSquawk] Israeli army: Today in an airstrike on Khan Younis, we killed a member of Hamas' elite unit.
 - 10/05 02:11 [FirstSquawk] Israeli airstrike on the town of Haddatha in the Bint Jbeil district of southern Lebanon
 - 10/05 02:12 [FirstSquawk] Iranian official media: Resignation of the Iranian Oil Minister
@@ -43,6 +41,7 @@
 - 10/05 02:53 [FirstSquawk] GERMANY'S CHANCELLOR MERZ SAYS IN KYIV THAT 'DESPITE THE THREATS FROM MOSCOW IN RECENT DAYS, I CAME ANYWAY' — TOGETHER WITH A COLLEAGUE FROM THE GERMAN GOVERNMENT AND A LARGE BUSINESS DELEGATION — SAYING THIS 'DEMONSTRATES THAT WE WILL NOT …
 - 10/05 02:53 [FirstSquawk] GERMANY'S CHANCELLOR MERZ SAYS 'THE RUSSIAN ECONOMY CANNOT WAGE THIS WAR INDEFINITELY', ARGUING IT 'HAS ALREADY REACHED ITS PAIN THRESHOLD', CITING '7% INFLATION, A 14% CENTRAL-BANK RATE, FALLING OIL AND GAS REVENUES AND AN INCREASINGLY LAR…
 - 10/05 03:18 [financialjuice] One leftist, two nationalist contenders lead election for Bosnia's inter-ethnic tripartite presidency, partial preliminary results show
+- 10/05 03:25 [FirstSquawk] IRAN OIL MINISTER STEPS DOWN: STATE MEDIA
 - 10/05 03:27 [FirstSquawk] TRUMP SAYS 'THE POLLS HAVE ALWAYS UNDERESTIMATED MAGA', CLAIMING 'THEY TRY TO SUPPRESS THE VOTE' BUT THAT HE 'WON ALL 7 SWING STATES, THE POPULAR VOTE, 86% OF COUNTIES, AND 99% OF PRIMARIES THIS YEAR', ADDING 'I AM ON THE BALLOT' - TRUTH SO…
 - 10/05 03:28 [FirstSquawk] TRUMP SAYS 'THE KENNEDY CENTER IS CRUMBLING, AND A GREAT DANGER TO ANYONE WHO WALKS INSIDE', CLAIMING IT 'HAS BEEN THIS WAY FOR YEARS, AND WILL ONLY GET WORSE UNLESS THE RADICAL LEFT JUDGE, WITH HIS TRUMP HATING LAWYER WIFE, ALLOWS ME TO DO…
 - 10/05 03:28 [FirstSquawk] US ENERGY SECRETARY WRIGHT: DIESEL PRICES HIT BY RUSSIA-UKRAINE WAR, CHINA’S EXPORT CURBS & RECENT CLOSURE OF TWO LARGE CALIFORNIA REFINERIES
@@ -127,3 +126,35 @@
 - 10/05 13:03 [financialjuice] EU to restrict Ukraine’s access to agricultural subsidies if it joins bloc - FT
 - 10/05 13:15 [financialjuice] United Arab Emirates S&P Global September Composite PMI steady at 55.3 versus August
 - 10/05 13:15 [financialjuice] Saudi Arabia S&P Global composite PMI at 55.3 in September versus 53.8 in August
+- 10/05 13:26 [financialjuice] India finance minister: US trade deal is a tough and thoroughly negotiated agreement
+- 10/05 13:26 [financialjuice] India finance minister: like to believe India and US have reached plateau in trade deal discussions
+- 10/05 13:26 [financialjuice] India finance minister: beyond this plateau, offering more in trade deal will be very difficult for India and US
+- 10/05 13:29 [financialjuice] India finance minister: US aiming to cut trade imbalance using methods beyond talks
+- 10/05 13:32 [financialjuice] India finance minister: tariffs are being used as weapons despite framework
+- 10/05 13:44 [FirstSquawk] UK IS ENCOURAGED TO ADOPT AFFORDABLE AI MODELS – FT
+- 10/05 13:44 [FirstSquawk] UK AUDIT WATCHDOG IS THINKING ABOUT CHANGING GOVERNANCE RULES.
+- 10/05 13:44 [FirstSquawk] GLOBAL PENSION FUNDS REDUCE US STOCKS DUE TO AI RISK CONCERNS, SAYS FT.
+- 10/05 13:44 [FirstSquawk] EU WILL RESTRICT UKRAINE'S FARMING SUBSIDIES IF IT BECOMES A MEMBER OF THE BLOCK, ACCORDING TO FT.
+- 10/05 13:44 [FirstSquawk] TRUMP ANGRY WITH SUPREME COURT JUSTICES FOR NOT FOLLOWING HIS WISHES – FT.
+- 10/05 13:44 [FirstSquawk] INDIA'S FINANCE MINISTER STATES THAT THE US TRADE DEAL HAS BEEN TOUGHLY NEGOTIATED AND BELIEVES DISCUSSIONS HAVE REACHED A STANDSTILL.
+- 10/05 13:50 [financialjuice] German Bund futures rise 0.1%; French OAT futures fall 0.22%
+- 10/05 13:52 [financialjuice] India finance minister: new model for bilateral investment treaties to be approved soon
+- 10/05 13:53 [financialjuice] India finance minister: to finalize bilateral investment pact with Canada by December or early next year
+- 10/05 13:53 [FirstSquawk] INDIA'S FINANCE MINISTER ANNOUNCED A NEW TEMPLATE FOR BILATERAL INVESTMENT TREATIES THAT WILL BE APPROVED SOON.
+- 10/05 13:53 [FirstSquawk] INDIA'S FINANCE MINISTER ANNOUNCED THAT A BILATERAL INVESTMENT DEAL WITH CANADA WILL BE FINALIZED BY DECEMBER OR EARLY NEXT YEAR.
+- 10/05 13:55 [financialjuice] India finance minister: talks with Canada on bilateral investment protection under way, cabinet expected to approve elements
+- 10/05 13:55 [financialjuice] India finance minister: to finalize investment pacts with three additional countries by year-end
+- 10/05 13:56 [financialjuice] India finance minister: discussions on investment pacts with multiple countries including Russia, focusing on safeguarding investments
+- 10/05 13:56 [financialjuice] Russian air strikes hit port infrastructure in Ukraine's Odesa region, authorities say
+- 10/05 13:56 [FirstSquawk] INDIA'S FINANCE MINISTER ANNOUNCED THAT DISCUSSIONS WITH CANADA REGARDING BILATERAL INVESTMENT PROTECTION HAVE BEGUN, FOCUSING ON ELEMENTS THAT THE CABINET IS EXPECTED TO APPROVE.
+- 10/05 13:56 [FirstSquawk] INDIA'S FINANCE MINISTER SAYS NEW INVESTMENT TREATIES WITH THREE COUNTRIES ARE EXPECTED TO BE FINISHED BY YEAR-END.
+- 10/05 13:56 [FirstSquawk] INDIA'S FINANCE MINISTER CONFIRMED TALKS FOR INVESTMENT TREATIES WITH MULTIPLE COUNTRIES, INCLUDING RUSSIA, FOCUSING ON PROTECTING INVESTMENTS.
+- 10/05 13:56 [FirstSquawk] GOLDMAN SACHS INCREASES 2026 US DATA CENTER CAPACITY ESTIMATE BY 5 GW TO 64 GW BUT CUTS 2027 FORECAST BY 5 GW TO 90 GW.
+- 10/05 13:57 [FirstSquawk] GOLDMAN SACHS PREDICTS US DATA CENTER POWER DEMAND WILL INCREASE BY 38% (12 GW) IN 2026 AND 38% (17 GW) IN 2027.
+- 10/05 14:00 [FirstSquawk] JAPAN'S CONSUMER CONFIDENCE FOR SEPTEMBER IS AT 35.4, SLIGHTLY ABOVE THE ESTIMATED 35.3.
+- 10/05 14:03 [FirstSquawk] SCHNEIDER ELECTRIC WILL PURCHASE PTC FOR $205 PER SHARE IN AN ALL-CASH TRANSACTION.
+- 10/05 14:04 [financialjuice] India finance minister: fertiliser costs have surged, unsustainable for any nation to continue purchasing at this rate
+- 10/05 14:05 [FirstSquawk] TAKAICHI CALLS US MARINE INCIDENT IN OKINAWA REGRETTABLE.
+- 10/05 14:05 [FirstSquawk] JAPAN'S PM TAKAICHI KICKS OFF DIET SESSION WITH SPEECH.
+- 10/05 14:05 [FirstSquawk] TAKAICHI SAYS THAT ACHIEVING ROBUST AND SUSTAINABLE GROWTH IS HIS BEGINNING FOCUS.
+- 10/05 14:07 [FirstSquawk] TAKAIHI URGES STRONG ACTION TO AVOID FUTURE INCIDENTS IN OKINAWA.

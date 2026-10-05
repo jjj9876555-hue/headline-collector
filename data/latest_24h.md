@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-05 13:24 JST／対象: 10/04 13:24 〜 10/05 13:24 JST（時刻はすべて日本時間）
+生成: 2026-10-05 14:08 JST／対象: 10/04 14:08 〜 10/05 14:08 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 10/04 18:55 | 10/05 09:05 | ⚠ 411分（02:14→09:05） |
-| FirstSquawk | 186 | 10/04 13:26 | 10/05 13:00 | ⚠ 221分（05:36→09:18） |
-| financialjuice | 56 | 10/04 15:21 | 10/05 13:15 | ⚠ 199分（22:46→02:06） |
+| FirstSquawk | 195 | 10/04 14:10 | 10/05 14:07 | ⚠ 221分（05:36→09:18） |
+| financialjuice | 69 | 10/04 15:21 | 10/05 14:04 | ⚠ 199分（22:46→02:06） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 243 行（統合前 253 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 265 行（統合前 275 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/04 13:26 [FirstSquawk] Trump Emphasizes Importance of Good Relations With Nuclear-Armed Nations, Says He Gets Along Great With Kim - YONHAP
-- 10/04 13:27 [FirstSquawk] South Korea Reports 240,000 Hacking Attempts Against Court Network Through August, Nearly 2.4 Times Last Year – Yonhap
-- 10/04 13:37 [FirstSquawk] Kim Jong-un Oversees Hypersonic Missile Launch as North Korea Seeks to Bolster War Deterrence – Yonhap
-- 10/04 13:42 [FirstSquawk] Over 30% of Arrest Warrant Requests Rejected by South Korean Prosecutors This Year - YONHAP
-- 10/04 13:46 [FirstSquawk] US Jobs Growth Slows Sharply in September, Falling Below Expectations – ABC News
-- 10/04 13:50 [FirstSquawk] German Adviser Says Ukraine Can Rely on Germany for Ongoing Assistance
-- 10/04 13:52 [FirstSquawk] Airbnb Not Expected to Allow AI Agents Such as Muse to Make Reservations, CEO Says
-- 10/04 14:02 [FirstSquawk] Stronger Data Governance, Safety Rules Needed in New AI Laws to Build Confidence – SCMP
-- 10/04 14:04 [FirstSquawk] Chinese Travelers Shun Japan for Southeast Asia as Tokyo-Beijing Dispute Continues - NA
-- 10/04 14:06 [FirstSquawk] Hiroshima and Nagasaki Experiences Provide Lessons for Responsible AI Governance - NA
 - 10/04 14:10 [FirstSquawk] Japan’s Ground Self-Defense Force Showcases Long-Range Type-25 Missile System – Kyodo
 - 10/04 14:11 [FirstSquawk] Bosnia Vote Highlights Tension Between EU Integration Hopes and Russian Influence – FT
 - 10/04 14:15 [FirstSquawk] SoftBank’s Balance Sheet Struggles to Keep Pace With Masayoshi Son’s AI Ambitions – FT
@@ -267,3 +257,35 @@
 - 10/05 13:03 [financialjuice] EU to restrict Ukraine’s access to agricultural subsidies if it joins bloc - FT
 - 10/05 13:15 [financialjuice] United Arab Emirates S&P Global September Composite PMI steady at 55.3 versus August
 - 10/05 13:15 [financialjuice] Saudi Arabia S&P Global composite PMI at 55.3 in September versus 53.8 in August
+- 10/05 13:26 [financialjuice] India finance minister: US trade deal is a tough and thoroughly negotiated agreement
+- 10/05 13:26 [financialjuice] India finance minister: like to believe India and US have reached plateau in trade deal discussions
+- 10/05 13:26 [financialjuice] India finance minister: beyond this plateau, offering more in trade deal will be very difficult for India and US
+- 10/05 13:29 [financialjuice] India finance minister: US aiming to cut trade imbalance using methods beyond talks
+- 10/05 13:32 [financialjuice] India finance minister: tariffs are being used as weapons despite framework
+- 10/05 13:44 [FirstSquawk] UK IS ENCOURAGED TO ADOPT AFFORDABLE AI MODELS – FT
+- 10/05 13:44 [FirstSquawk] UK AUDIT WATCHDOG IS THINKING ABOUT CHANGING GOVERNANCE RULES.
+- 10/05 13:44 [FirstSquawk] GLOBAL PENSION FUNDS REDUCE US STOCKS DUE TO AI RISK CONCERNS, SAYS FT.
+- 10/05 13:44 [FirstSquawk] EU WILL RESTRICT UKRAINE'S FARMING SUBSIDIES IF IT BECOMES A MEMBER OF THE BLOCK, ACCORDING TO FT.
+- 10/05 13:44 [FirstSquawk] TRUMP ANGRY WITH SUPREME COURT JUSTICES FOR NOT FOLLOWING HIS WISHES – FT.
+- 10/05 13:44 [FirstSquawk] INDIA'S FINANCE MINISTER STATES THAT THE US TRADE DEAL HAS BEEN TOUGHLY NEGOTIATED AND BELIEVES DISCUSSIONS HAVE REACHED A STANDSTILL.
+- 10/05 13:50 [financialjuice] German Bund futures rise 0.1%; French OAT futures fall 0.22%
+- 10/05 13:52 [financialjuice] India finance minister: new model for bilateral investment treaties to be approved soon
+- 10/05 13:53 [financialjuice] India finance minister: to finalize bilateral investment pact with Canada by December or early next year
+- 10/05 13:53 [FirstSquawk] INDIA'S FINANCE MINISTER ANNOUNCED A NEW TEMPLATE FOR BILATERAL INVESTMENT TREATIES THAT WILL BE APPROVED SOON.
+- 10/05 13:53 [FirstSquawk] INDIA'S FINANCE MINISTER ANNOUNCED THAT A BILATERAL INVESTMENT DEAL WITH CANADA WILL BE FINALIZED BY DECEMBER OR EARLY NEXT YEAR.
+- 10/05 13:55 [financialjuice] India finance minister: talks with Canada on bilateral investment protection under way, cabinet expected to approve elements
+- 10/05 13:55 [financialjuice] India finance minister: to finalize investment pacts with three additional countries by year-end
+- 10/05 13:56 [financialjuice] India finance minister: discussions on investment pacts with multiple countries including Russia, focusing on safeguarding investments
+- 10/05 13:56 [financialjuice] Russian air strikes hit port infrastructure in Ukraine's Odesa region, authorities say
+- 10/05 13:56 [FirstSquawk] INDIA'S FINANCE MINISTER ANNOUNCED THAT DISCUSSIONS WITH CANADA REGARDING BILATERAL INVESTMENT PROTECTION HAVE BEGUN, FOCUSING ON ELEMENTS THAT THE CABINET IS EXPECTED TO APPROVE.
+- 10/05 13:56 [FirstSquawk] INDIA'S FINANCE MINISTER SAYS NEW INVESTMENT TREATIES WITH THREE COUNTRIES ARE EXPECTED TO BE FINISHED BY YEAR-END.
+- 10/05 13:56 [FirstSquawk] INDIA'S FINANCE MINISTER CONFIRMED TALKS FOR INVESTMENT TREATIES WITH MULTIPLE COUNTRIES, INCLUDING RUSSIA, FOCUSING ON PROTECTING INVESTMENTS.
+- 10/05 13:56 [FirstSquawk] GOLDMAN SACHS INCREASES 2026 US DATA CENTER CAPACITY ESTIMATE BY 5 GW TO 64 GW BUT CUTS 2027 FORECAST BY 5 GW TO 90 GW.
+- 10/05 13:57 [FirstSquawk] GOLDMAN SACHS PREDICTS US DATA CENTER POWER DEMAND WILL INCREASE BY 38% (12 GW) IN 2026 AND 38% (17 GW) IN 2027.
+- 10/05 14:00 [FirstSquawk] JAPAN'S CONSUMER CONFIDENCE FOR SEPTEMBER IS AT 35.4, SLIGHTLY ABOVE THE ESTIMATED 35.3.
+- 10/05 14:03 [FirstSquawk] SCHNEIDER ELECTRIC WILL PURCHASE PTC FOR $205 PER SHARE IN AN ALL-CASH TRANSACTION.
+- 10/05 14:04 [financialjuice] India finance minister: fertiliser costs have surged, unsustainable for any nation to continue purchasing at this rate
+- 10/05 14:05 [FirstSquawk] TAKAICHI CALLS US MARINE INCIDENT IN OKINAWA REGRETTABLE.
+- 10/05 14:05 [FirstSquawk] JAPAN'S PM TAKAICHI KICKS OFF DIET SESSION WITH SPEECH.
+- 10/05 14:05 [FirstSquawk] TAKAICHI SAYS THAT ACHIEVING ROBUST AND SUSTAINABLE GROWTH IS HIS BEGINNING FOCUS.
+- 10/05 14:07 [FirstSquawk] TAKAIHI URGES STRONG ACTION TO AVOID FUTURE INCIDENTS IN OKINAWA.
