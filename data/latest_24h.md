@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-06 03:23 JST／対象: 10/05 03:23 〜 10/06 03:23 JST（時刻はすべて日本時間）
+生成: 2026-10-06 03:46 JST／対象: 10/05 03:46 〜 10/06 03:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 60 | 10/05 09:05 | 10/06 03:22 | ⚠ 620分（09:05→19:25） |
-| FirstSquawk | 234 | 10/05 03:25 | 10/06 03:20 | ⚠ 221分（05:36→09:18） |
-| financialjuice | 180 | 10/05 03:55 | 10/06 03:21 | ⚠ 103分（14:12→15:55） |
+| DeItaone | 65 | 10/05 09:05 | 10/06 03:44 | ⚠ 620分（09:05→19:25） |
+| FirstSquawk | 228 | 10/05 03:59 | 10/06 03:20 | ⚠ 221分（05:36→09:18） |
+| financialjuice | 185 | 10/05 03:55 | 10/06 03:44 | ⚠ 103分（14:12→15:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 462 行（統合前 479 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 466 行（統合前 484 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 03:25 [FirstSquawk] IRAN OIL MINISTER STEPS DOWN: STATE MEDIA
-- 10/05 03:27 [FirstSquawk] TRUMP SAYS 'THE POLLS HAVE ALWAYS UNDERESTIMATED MAGA', CLAIMING 'THEY TRY TO SUPPRESS THE VOTE' BUT THAT HE 'WON ALL 7 SWING STATES, THE POPULAR VOTE, 86% OF COUNTIES, AND 99% OF PRIMARIES THIS YEAR', ADDING 'I AM ON THE BALLOT' - TRUTH SO…
-- 10/05 03:28 [FirstSquawk] TRUMP SAYS 'THE KENNEDY CENTER IS CRUMBLING, AND A GREAT DANGER TO ANYONE WHO WALKS INSIDE', CLAIMING IT 'HAS BEEN THIS WAY FOR YEARS, AND WILL ONLY GET WORSE UNLESS THE RADICAL LEFT JUDGE, WITH HIS TRUMP HATING LAWYER WIFE, ALLOWS ME TO DO…
-- 10/05 03:28 [FirstSquawk] US ENERGY SECRETARY WRIGHT: DIESEL PRICES HIT BY RUSSIA-UKRAINE WAR, CHINA’S EXPORT CURBS & RECENT CLOSURE OF TWO LARGE CALIFORNIA REFINERIES
-- 10/05 03:32 [FirstSquawk] NEW ATTACKS ON VESSELS AROUND THE STRAIT OF HORMUZ ARE THREATENING THE RECOVERY IN MIDDLE EASTERN OIL FLOWS, WITH UKMTO REPORTING SEVEN VESSEL STRIKES SINCE SEPT. 28 AND IRAN’S IRGC WARNING SHIPS AGAINST USING THE US-BACKED ROUTE.
-- 10/05 03:32 [FirstSquawk] OIL FLOWS ARE SHOWING SIGNS OF SLOWING, WITH ANALYSTS ESTIMATING A POSSIBLE 2–3 MILLION B/D DROP; BRENT REMAINS AROUND $100 A BARREL AS HIGH SHIPPING, SECURITY AND INSURANCE COSTS KEEP THE RECOVERY FRAGILE.
 - 10/05 03:55 [financialjuice] UKMTO: reports incident 60 nm south of Al Mukha, Yemen
 - 10/05 03:55 [financialjuice] UKMTO: tanker reports several explosions near vessel
 - 10/05 03:56 [financialjuice] UkMto: crew safe, no environmental impact reported
@@ -486,3 +480,13 @@
 - 10/06 03:21 [financialjuice] Meta staff using Claude lower to 30,000 from 60,000 - The Information. $META
 - 10/06 03:21 [financialjuice] regional sources claim Saudi Royal Security team plans to launch US-made Lucas drones toward Mecca targeting Kaaba, nearby residential areas - Fars News
 - 10/06 03:22 [DeItaone] *META STAFF USING CLAUDE LOWER TO 30,000 FROM 60,000:INFORMATION
+- 10/06 03:27 [financialjuice] US Treasury Secretary Bessent: Iran loaded zero crude oil onto tankers last month - Post on X
+- 10/06 03:28 [DeItaone] WIKIPEDIA OPERATOR SAYS OPENAI'S ROGUE AGENTS POSSIBLY TIED TO DATA SERVICE DISRUPTION IN MAY
+- 10/06 03:29 [DeItaone] BESSENT: U.S. PRESSURE CAMPAIGN IS HITTING IRAN’S ECONOMY Treasury Secretary Scott Bessent says “Operation Economic Outcast” is delivering results, pointing to a record-low Iranian rial and claiming Iran loaded zero crude onto tankers last …
+- 10/06 03:31 [financialjuice] NYMEX Nat Gas Nov. futures settle at $3.0660/MMBTU
+- 10/06 03:31 [DeItaone] AI OPTIMISM OVERRIDES RISING BOND YIELDS Tech stocks are rallying even as bond yields climb, with investors continuing to bet heavily on the long-term benefits of AI. Interactive Brokers strategist Steve Sosnick summed up the mood: “If you …
+- 10/06 03:40 [DeItaone] $SPCX - SPACEX PROPOSES 32-MILE GAS PIPELINE FOR STARSHIP SpaceX is seeking approval to build a 32.4-mile natural gas pipeline in Florida to supply methane for Starship launches from Cape Canaveral. The pipeline would connect with Florida G…
+- 10/06 03:43 [financialjuice] NYMEX WTI Crude Nov. futures settle at $89.43 a barrel down $1.68, 1.84%
+- 10/06 03:43 [financialjuice] NYMEX Diesel Nov. futures settle at $4.5452 a gallon
+- 10/06 03:44 [financialjuice] NYMEX Gasoline Nov. futures settle at $3.2462 a gallon
+- 10/06 03:44 [DeItaone] HIGH YIELDS FORCE MUNI BORROWERS TO DELAY REFINANCINGS Roughly $6 billion of municipal bond refinancing deals are on hold or delayed as elevated yields erase potential savings for borrowers. Benchmark 30-year muni yields recently hit 5.26%,…

@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-06 03:23 JST／対象: 10/05 15:23 〜 10/06 03:23 JST（時刻はすべて日本時間）
+生成: 2026-10-06 03:46 JST／対象: 10/05 15:46 〜 10/06 03:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 59 | 10/05 19:25 | 10/06 03:22 | 33分（21:14→21:48） |
-| FirstSquawk | 135 | 10/05 15:24 | 10/06 03:20 | 43分（02:02→02:46） |
-| financialjuice | 134 | 10/05 15:55 | 10/06 03:21 | ⚠ 57分（20:15→21:13） |
+| DeItaone | 64 | 10/05 19:25 | 10/06 03:44 | 33分（21:14→21:48） |
+| FirstSquawk | 134 | 10/05 15:55 | 10/06 03:20 | 43分（02:02→02:46） |
+| financialjuice | 139 | 10/05 15:55 | 10/06 03:44 | ⚠ 57分（20:15→21:13） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 317 行（統合前 330 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 326 行（統合前 340 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 15:24 [FirstSquawk] IRANIAN POLICE WERE ATTACKED IN A TERRORIST INCIDENT IN SOUTHEAST IRAN, REPORTS STATE TELEVISION.
 - 10/05 15:55 [FirstSquawk] YEMENI FORCES ATTACK HOUTHI POSITIONS IN DHUBAB DISTRICT NEAR BAB EL-MANDEB, SAY TWO MILITARY SOURCES.
 - 10/05 15:55 [financialjuice] Yemeni Government forces launch attack Houthi positions in Dhubab district overlooking Bab El-Mandeb - Two Military Sources.
 - 10/05 16:00 [financialjuice] TURKISH CPI YOY ACTUAL 29.73% (FORECAST 30.26%, PREVIOUS 31.51%) $MACRO
@@ -341,3 +340,13 @@
 - 10/06 03:21 [financialjuice] Meta staff using Claude lower to 30,000 from 60,000 - The Information. $META
 - 10/06 03:21 [financialjuice] regional sources claim Saudi Royal Security team plans to launch US-made Lucas drones toward Mecca targeting Kaaba, nearby residential areas - Fars News
 - 10/06 03:22 [DeItaone] *META STAFF USING CLAUDE LOWER TO 30,000 FROM 60,000:INFORMATION
+- 10/06 03:27 [financialjuice] US Treasury Secretary Bessent: Iran loaded zero crude oil onto tankers last month - Post on X
+- 10/06 03:28 [DeItaone] WIKIPEDIA OPERATOR SAYS OPENAI'S ROGUE AGENTS POSSIBLY TIED TO DATA SERVICE DISRUPTION IN MAY
+- 10/06 03:29 [DeItaone] BESSENT: U.S. PRESSURE CAMPAIGN IS HITTING IRAN’S ECONOMY Treasury Secretary Scott Bessent says “Operation Economic Outcast” is delivering results, pointing to a record-low Iranian rial and claiming Iran loaded zero crude onto tankers last …
+- 10/06 03:31 [financialjuice] NYMEX Nat Gas Nov. futures settle at $3.0660/MMBTU
+- 10/06 03:31 [DeItaone] AI OPTIMISM OVERRIDES RISING BOND YIELDS Tech stocks are rallying even as bond yields climb, with investors continuing to bet heavily on the long-term benefits of AI. Interactive Brokers strategist Steve Sosnick summed up the mood: “If you …
+- 10/06 03:40 [DeItaone] $SPCX - SPACEX PROPOSES 32-MILE GAS PIPELINE FOR STARSHIP SpaceX is seeking approval to build a 32.4-mile natural gas pipeline in Florida to supply methane for Starship launches from Cape Canaveral. The pipeline would connect with Florida G…
+- 10/06 03:43 [financialjuice] NYMEX WTI Crude Nov. futures settle at $89.43 a barrel down $1.68, 1.84%
+- 10/06 03:43 [financialjuice] NYMEX Diesel Nov. futures settle at $4.5452 a gallon
+- 10/06 03:44 [financialjuice] NYMEX Gasoline Nov. futures settle at $3.2462 a gallon
+- 10/06 03:44 [DeItaone] HIGH YIELDS FORCE MUNI BORROWERS TO DELAY REFINANCINGS Roughly $6 billion of municipal bond refinancing deals are on hold or delayed as elevated yields erase potential savings for borrowers. Benchmark 30-year muni yields recently hit 5.26%,…

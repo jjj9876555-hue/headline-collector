@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-06 03:23 JST／対象: 10/05 21:23 〜 10/06 03:23 JST（時刻はすべて日本時間）
+生成: 2026-10-06 03:46 JST／対象: 10/05 21:46 〜 10/06 03:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 42 | 10/05 21:48 | 10/06 03:22 | 29分（00:09→00:39） |
-| FirstSquawk | 66 | 10/05 21:27 | 10/06 03:20 | 43分（02:02→02:46） |
-| financialjuice | 81 | 10/05 21:38 | 10/06 03:21 | ⚠ 52分（02:01→02:53） |
+| DeItaone | 47 | 10/05 21:48 | 10/06 03:44 | 29分（00:09→00:39） |
+| FirstSquawk | 62 | 10/05 21:48 | 10/06 03:20 | 43分（02:02→02:46） |
+| financialjuice | 77 | 10/05 21:47 | 10/06 03:44 | ⚠ 52分（02:01→02:53） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 178 行（統合前 191 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 175 行（統合前 189 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 21:27 [FirstSquawk] SANLAM TO OFFER TO BUY ALL SANTAM SHARES AT 505 RAND/SHR CASH
-- 10/05 21:30 [FirstSquawk] LONDON BULLION MARKET ASSOCIATION INCREASES MEMBERSHIP FEES AND ALLOWS PAYMENT OF DUES TWO YEARS AHEAD TO IMPROVE ITS FINANCES DURING EXPENSIVE LEGAL ISSUES.
-- 10/05 21:38 [financialjuice] EU needs new trade tools to allow decisive reaction to unfair practices from third countries - Franco-German Joint Document
-- 10/05 21:38 [financialjuice] EU needs new trade instrument to react to severe and systemic distortions created by third countries - Franco-German Joint Document
-- 10/05 21:39 [financialjuice] EU Commission should propose new diversification tool to prevent eu over-reliance on single countries for critical supplies - Joint Franco-German Paper
-- 10/05 21:39 [financialjuice] New EU instrument should be activated by a commission proposal that adopted unless qualified majority of EU members opposes - Franco-German Joint Document
-- 10/05 21:39 [financialjuice] New EU instrument would not single out any specific country - Joint Franco-German paper
-- 10/05 21:39 [financialjuice] EU commission should open more trade investigations and adopt a broader sector wide approach - Franco-German Joint Document
-- 10/05 21:43 [financialjuice] US Secretary of State Rubio, on bombers' reallocation: It's not unusual
-- 10/05 21:43 [financialjuice] US Secretary of State Rubio on UK base incident: still have confidence in security of all of our bases.
-- 10/05 21:43 [financialjuice] US Secretary of State Rubio on UK base incident: British couldn't be more cooperative.
-- 10/05 21:44 [FirstSquawk] RUBIO ON BOMBERS RE-ALLOCATION: NOT UNUSUAL
-- 10/05 21:44 [FirstSquawk] RUBIO: WE HAVE CONFIDENCE IN SECURITY OF OUR BASES
 - 10/05 21:47 [financialjuice/DeItaone] Houthi-run body issues warning for airlines flying in Saudi airspace - Houthi-affiliated media.
 - 10/05 21:47 [financialjuice] Ukraine’s President Zelenskiy: Russian drones attack Turkish-owned civilian vessel in neutral waters of black sea.
 - 10/05 21:48 [FirstSquawk] US SEC STATE RUBIO ON YEMEN: US INTENDS TO STAND BY SECURITY AGREEMENT WITH SAUDI ARABIA
@@ -202,3 +189,13 @@
 - 10/06 03:21 [financialjuice] Meta staff using Claude lower to 30,000 from 60,000 - The Information. $META
 - 10/06 03:21 [financialjuice] regional sources claim Saudi Royal Security team plans to launch US-made Lucas drones toward Mecca targeting Kaaba, nearby residential areas - Fars News
 - 10/06 03:22 [DeItaone] *META STAFF USING CLAUDE LOWER TO 30,000 FROM 60,000:INFORMATION
+- 10/06 03:27 [financialjuice] US Treasury Secretary Bessent: Iran loaded zero crude oil onto tankers last month - Post on X
+- 10/06 03:28 [DeItaone] WIKIPEDIA OPERATOR SAYS OPENAI'S ROGUE AGENTS POSSIBLY TIED TO DATA SERVICE DISRUPTION IN MAY
+- 10/06 03:29 [DeItaone] BESSENT: U.S. PRESSURE CAMPAIGN IS HITTING IRAN’S ECONOMY Treasury Secretary Scott Bessent says “Operation Economic Outcast” is delivering results, pointing to a record-low Iranian rial and claiming Iran loaded zero crude onto tankers last …
+- 10/06 03:31 [financialjuice] NYMEX Nat Gas Nov. futures settle at $3.0660/MMBTU
+- 10/06 03:31 [DeItaone] AI OPTIMISM OVERRIDES RISING BOND YIELDS Tech stocks are rallying even as bond yields climb, with investors continuing to bet heavily on the long-term benefits of AI. Interactive Brokers strategist Steve Sosnick summed up the mood: “If you …
+- 10/06 03:40 [DeItaone] $SPCX - SPACEX PROPOSES 32-MILE GAS PIPELINE FOR STARSHIP SpaceX is seeking approval to build a 32.4-mile natural gas pipeline in Florida to supply methane for Starship launches from Cape Canaveral. The pipeline would connect with Florida G…
+- 10/06 03:43 [financialjuice] NYMEX WTI Crude Nov. futures settle at $89.43 a barrel down $1.68, 1.84%
+- 10/06 03:43 [financialjuice] NYMEX Diesel Nov. futures settle at $4.5452 a gallon
+- 10/06 03:44 [financialjuice] NYMEX Gasoline Nov. futures settle at $3.2462 a gallon
+- 10/06 03:44 [DeItaone] HIGH YIELDS FORCE MUNI BORROWERS TO DELAY REFINANCINGS Roughly $6 billion of municipal bond refinancing deals are on hold or delayed as elevated yields erase potential savings for borrowers. Benchmark 30-year muni yields recently hit 5.26%,…
