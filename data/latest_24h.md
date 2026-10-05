@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-06 07:17 JST／対象: 10/05 07:17 〜 10/06 07:17 JST（時刻はすべて日本時間）
+生成: 2026-10-06 07:34 JST／対象: 10/05 07:34 〜 10/06 07:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 66 | 10/05 09:05 | 10/06 03:52 | ⚠ 620分（09:05→19:25） |
+| DeItaone | 67 | 10/05 09:05 | 10/06 07:19 | ⚠ 620分（09:05→19:25） |
 | FirstSquawk | 277 | 10/05 09:18 | 10/06 07:02 | ⚠ 55分（11:42→12:37） |
-| financialjuice | 207 | 10/05 07:40 | 10/06 06:00 | ⚠ 103分（14:12→15:55） |
+| financialjuice | 208 | 10/05 07:40 | 10/06 07:27 | ⚠ 103分（14:12→15:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 536 行（統合前 556 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 538 行（統合前 558 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -560,3 +560,5 @@
 - 10/06 07:01 [FirstSquawk] G7 EMERGENCY STOCKPILE RELEASES AND STRONGER MIDDLE EAST FLOWS ARE ALSO PRESSURING PRICES, BUT SUPPLY RISKS REMAIN HIGH AMID ATTACKS AND SHIPPING DISRUPTIONS, WITH ARAMCO WARNING OF “SCARILY THIN” GLOBAL STOCKPILES AND POTENTIAL UPSIDE TOWA…
 - 10/06 07:02 [FirstSquawk] U.S. CENTRAL COMMAND SAYS THAT AS OF OCT. 5, CENTCOM FORCES HAVE REDIRECTED 130 COMMERCIAL VESSELS DURING STRICT ENFORCEMENT OF THE ONGOING U.S. NAVAL BLOCKADE AGAINST IRAN.
 - 10/06 07:02 [FirstSquawk] U.S. CENTRAL COMMAND COMMANDER ADM. BRAD COOPER SAYS 'THE U.S. MILITARY REMAINS INTENSELY FOCUSED ON THIS MISSION', ADDING 'WE WILL SWIFTLY ACT AGAINST ANY VESSELS TRYING TO RUN THE BLOCKADE. OUR FORCES ARE HIGHLY TRAINED, PROFESSIONAL, AND…
+- 10/06 07:19 [DeItaone] *SAUDI-LED COALITION SAYS DESTROYED SANAA MISSILE LAUNCHER: SPA
+- 10/06 07:27 [financialjuice] Trump: I have chosen to run ads and finance them myself, using funds raised for Maga Inc.

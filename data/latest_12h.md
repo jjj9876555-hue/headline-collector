@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-06 07:17 JST／対象: 10/05 19:17 〜 10/06 07:17 JST（時刻はすべて日本時間）
+生成: 2026-10-06 07:34 JST／対象: 10/05 19:34 〜 10/06 07:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 65 | 10/05 19:25 | 10/06 03:52 | 33分（21:14→21:48） |
-| FirstSquawk | 135 | 10/05 19:21 | 10/06 07:02 | 43分（02:02→02:46） |
-| financialjuice | 124 | 10/05 19:26 | 10/06 06:00 | ⚠ 57分（20:15→21:13） |
+| DeItaone | 61 | 10/05 19:36 | 10/06 07:19 | ⚠ 206分（03:52→07:19） |
+| FirstSquawk | 134 | 10/05 19:44 | 10/06 07:02 | 43分（02:02→02:46） |
+| financialjuice | 121 | 10/05 19:59 | 10/06 07:27 | ⚠ 87分（06:00→07:27） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 310 行（統合前 327 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 302 行（統合前 319 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 19:21 [FirstSquawk] UKMTO GETS REPORT OF INCIDENT 11NM NORTH OF KHASAB, OMAN
-- 10/05 19:25 [DeItaone] OPENAI INTRODUCES NEW VISUAL ADS IN CHATGPT OpenAI is introducing a new visual advertising format in ChatGPT, with U.S. testing beginning later this month among an initial group of advertisers. The format will initially appear during image …
-- 10/05 19:26 [financialjuice] EU Commission spokesperson: decision to release stocks will impact oil prices for member states positively
-- 10/05 19:27 [financialjuice] EU Commission spokesperson: We are heading towards a very difficult winter in terms of energy prices
-- 10/05 19:27 [financialjuice] UKMTO: Received report of incident 11nm north of Oman's Khasab
-- 10/05 19:27 [DeItaone] $COIN - BOFA RAISES COINBASE TARGET TO $203 BofA raised its Coinbase price target to $203 from $174, reiterating a Buy rating. The bank lifted its 2027–2028 EPS forecasts on expectations for stronger stablecoin revenue following September’s…
-- 10/05 19:28 [financialjuice] UKMTO: Tanker transiting through the strait was hailed by IRGC and instructed to turn back, or it would be targeted
-- 10/05 19:28 [DeItaone] BITCOIN RALLY REVIVES “DEBASEMENT TRADE” Bitcoin’s rally toward $86,000 reflects renewed demand for an anti-fiat hedge, according to Capital. com’s Kyle Rodda. Rodda links the move to Scott Bessent’s intervention in Treasury markets, arguin…
-- 10/05 19:29 [DeItaone] JPMORGAN: BOND YIELD SPIKE WON’T DERAIL STOCKS JPMorgan says the recent surge in bond yields should not cause lasting damage to equities, expecting yields to retreat from current highs. Strategist Mislav Matejka sees resilient economic grow…
-- 10/05 19:32 [DeItaone] BOFA: ACTIVE FUNDS STRUGGLE AS MEGACAPS DOMINATE Just 44% of large-cap active funds beat their benchmarks in September, as market leadership narrowed sharply toward megacaps, according to BofA. The cap-weighted S&P 500 outperformed its equa…
 - 10/05 19:36 [DeItaone] 🇺🇸 WHAT TO WATCH TODAY — U.S. MARKETS 🔸 9:20 AM ET — 🇺🇸 NY Fed Bill Purchases, 4–12 months 🔸 9:45 AM ET — 🇺🇸 S&P Global Services PMI — Final 🔸 9:45 AM ET — 🇺🇸 S&P Global Composite PMI — Final 🔥 10:00 AM ET — ISM SERVICES PMI Consensus: 55.7…
 - 10/05 19:37 [DeItaone] 🇺🇸 PRESIDENT’S CALENDAR — MONDAY, OCTOBER 5, 2026 🔸 8:00 AM ET — Executive Time — White House 🔸 9:00 AM ET — In-Town Pool Call Time 🔸 10:00 AM ET — Policy Meeting — Oval Office 🔸 12:30 PM ET — Policy Meeting — Oval Office 🔸 1:30 PM ET — Pol…
 - 10/05 19:39 [DeItaone] IRGC THREATENS TANKER IN STRAIT OF HORMUZ UKMTO says a tanker transiting the Strait of Hormuz was hailed by Iran’s IRGC and instructed to turn back or risk being targeted. The tanker complied with the order. The incident was reported 11 nau…
@@ -334,3 +324,5 @@
 - 10/06 07:01 [FirstSquawk] G7 EMERGENCY STOCKPILE RELEASES AND STRONGER MIDDLE EAST FLOWS ARE ALSO PRESSURING PRICES, BUT SUPPLY RISKS REMAIN HIGH AMID ATTACKS AND SHIPPING DISRUPTIONS, WITH ARAMCO WARNING OF “SCARILY THIN” GLOBAL STOCKPILES AND POTENTIAL UPSIDE TOWA…
 - 10/06 07:02 [FirstSquawk] U.S. CENTRAL COMMAND SAYS THAT AS OF OCT. 5, CENTCOM FORCES HAVE REDIRECTED 130 COMMERCIAL VESSELS DURING STRICT ENFORCEMENT OF THE ONGOING U.S. NAVAL BLOCKADE AGAINST IRAN.
 - 10/06 07:02 [FirstSquawk] U.S. CENTRAL COMMAND COMMANDER ADM. BRAD COOPER SAYS 'THE U.S. MILITARY REMAINS INTENSELY FOCUSED ON THIS MISSION', ADDING 'WE WILL SWIFTLY ACT AGAINST ANY VESSELS TRYING TO RUN THE BLOCKADE. OUR FORCES ARE HIGHLY TRAINED, PROFESSIONAL, AND…
+- 10/06 07:19 [DeItaone] *SAUDI-LED COALITION SAYS DESTROYED SANAA MISSILE LAUNCHER: SPA
+- 10/06 07:27 [financialjuice] Trump: I have chosen to run ads and finance them myself, using funds raised for Maga Inc.

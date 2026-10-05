@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-06 07:17 JST／対象: 10/06 01:17 〜 10/06 07:17 JST（時刻はすべて日本時間）
+生成: 2026-10-06 07:34 JST／対象: 10/06 01:34 〜 10/06 07:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 20 | 10/06 01:17 | 10/06 03:52 | 28分（02:44→03:13） |
-| FirstSquawk | 74 | 10/06 01:27 | 10/06 07:02 | 43分（02:02→02:46） |
-| financialjuice | 56 | 10/06 01:21 | 10/06 06:00 | ⚠ 52分（02:01→02:53） |
+| DeItaone | 16 | 10/06 02:00 | 10/06 07:19 | ⚠ 206分（03:52→07:19） |
+| FirstSquawk | 72 | 10/06 01:37 | 10/06 07:02 | 43分（02:02→02:46） |
+| financialjuice | 54 | 10/06 01:50 | 10/06 07:27 | ⚠ 87分（06:00→07:27） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 145 行（統合前 152 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 137 行（統合前 144 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/06 01:17 [DeItaone] *TRUMP TO URGE STATES TO ADDRESS FUEL COSTS: POLITICO
-- 10/06 01:18 [DeItaone] TRUMP PLANS EXECUTIVE ACTION TO LOWER DIESEL COSTS President Trump plans executive actions Monday aimed at reducing diesel prices, including a Treasury review of certain diesel taxes and measures to expand access to tax-exempt dyed diesel, …
-- 10/06 01:19 [DeItaone] *TRUMP TO ASK TREASURY FOR WAYS TO CUT DIESEL PRICES: POLITICO
-- 10/06 01:21 [financialjuice] US Department of Energy: Announces $4.2 billion investment to boost nuclear power and help lower energy costs in Pennsylvania and Ohio.
-- 10/06 01:23 [financialjuice] Iran's Minister of Interior arrives in Doha - IRIB News.
-- 10/06 01:27 [FirstSquawk] FTC CHAIR URGED HEALTHCARE SERVICES FIRMS TO CONDUCT A COMPREHENSIVE REVIEW OF PRICE DISCLOSURE PRACTICES, TAKE SWIFT CORRECTIVE ACTION AS NEEDED
-- 10/06 01:33 [DeItaone] TRUMP: REFINERY DISRUPTIONS NOW DRIVING GASOLINE PRICES Trump says the Strait of Hormuz is no longer the main factor pushing gasoline prices higher, citing increased oil flows through the waterway. He instead points to refinery disruptions,…
-- 10/06 01:33 [financialjuice] Trump: Refinery Disruptions, Not Strait of Hormuz, Are Driving Gasoline Prices Higher - Truth Social
-- 10/06 01:33 [DeItaone] TRUMP: WHAT'S DRIVING UP GASOLINE IS NO LONGER STRAIT OF HORMUZ
-- 10/06 01:33 [FirstSquawk] Trump on truth social What's driving up Gasoline is no longer the Strait of Hormuz, because Record Numbers of Barrels are coming out now on an almost daily basis, but the word, "Refineries," where Russia's are being blown up by Ukraine, and…
 - 10/06 01:37 [FirstSquawk] EMIRATES: CODESHARE OPERATIONS WITH FLYDUBAI TO/FROM TEL AVIV ARE SUSPENDED WITH IMMEDIATE EFFECT, UNTIL FURTHER NOTICE
 - 10/06 01:40 [FirstSquawk] YEMEN OFFICIAL SAYS HANDS ARE EXTENDED FOR PEACE
 - 10/06 01:50 [financialjuice] Yemeni sources: Houthi drones killed a foreign military advisor on the Marib front. Advisor identified as Pakistani - Tasnim News
@@ -169,3 +159,5 @@
 - 10/06 07:01 [FirstSquawk] G7 EMERGENCY STOCKPILE RELEASES AND STRONGER MIDDLE EAST FLOWS ARE ALSO PRESSURING PRICES, BUT SUPPLY RISKS REMAIN HIGH AMID ATTACKS AND SHIPPING DISRUPTIONS, WITH ARAMCO WARNING OF “SCARILY THIN” GLOBAL STOCKPILES AND POTENTIAL UPSIDE TOWA…
 - 10/06 07:02 [FirstSquawk] U.S. CENTRAL COMMAND SAYS THAT AS OF OCT. 5, CENTCOM FORCES HAVE REDIRECTED 130 COMMERCIAL VESSELS DURING STRICT ENFORCEMENT OF THE ONGOING U.S. NAVAL BLOCKADE AGAINST IRAN.
 - 10/06 07:02 [FirstSquawk] U.S. CENTRAL COMMAND COMMANDER ADM. BRAD COOPER SAYS 'THE U.S. MILITARY REMAINS INTENSELY FOCUSED ON THIS MISSION', ADDING 'WE WILL SWIFTLY ACT AGAINST ANY VESSELS TRYING TO RUN THE BLOCKADE. OUR FORCES ARE HIGHLY TRAINED, PROFESSIONAL, AND…
+- 10/06 07:19 [DeItaone] *SAUDI-LED COALITION SAYS DESTROYED SANAA MISSILE LAUNCHER: SPA
+- 10/06 07:27 [financialjuice] Trump: I have chosen to run ads and finance them myself, using funds raised for Maga Inc.
