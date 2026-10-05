@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-05 16:51 JST／対象: 10/05 10:51 〜 10/05 16:51 JST（時刻はすべて日本時間）
+生成: 2026-10-05 17:06 JST／対象: 10/05 11:06 〜 10/05 17:06 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 78 | 10/05 10:53 | 10/05 16:50 | ⚠ 55分（11:42→12:37） |
-| financialjuice | 35 | 10/05 11:25 | 10/05 16:50 | ⚠ 103分（14:12→15:55） |
+| FirstSquawk | 75 | 10/05 11:07 | 10/05 17:06 | ⚠ 55分（11:42→12:37） |
+| financialjuice | 39 | 10/05 11:25 | 10/05 17:00 | ⚠ 103分（14:12→15:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 113 行（統合前 113 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 114 行（統合前 114 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 10:53 [FirstSquawk] Gold climbs as softer inflation data reduces bets on further rate hikes — WSJ
-- 10/05 10:55 [FirstSquawk] Alito invokes Reagan, says Americans have a responsibility to protect the nation’s founding document - FOX NEWS
-- 10/05 10:59 [FirstSquawk] Asian currencies could gain relief as weak US jobs data reduces Fed rate-hike bets — WSJ
-- 10/05 11:06 [FirstSquawk] Japan’s Nikkei retakes 70,000 mark amid renewed AI optimism
 - 10/05 11:07 [FirstSquawk] Canadian dollar remains under pressure near April 2025 lows despite weak US payrolls
 - 10/05 11:17 [FirstSquawk] Malaysians prioritise family over shopping and holidays, domestic travel data shows
 - 10/05 11:25 [financialjuice] euro slides 0.38% to $1.1211
@@ -137,3 +133,8 @@
 - 10/05 16:50 [FirstSquawk] ECB’S NAGEL: ECB DECIDES BASED ON DATA, MEETING BY MEETING || STRONG CASE FOR CENTRAL-BANK DIVERSIFICATION INTO GOLD || UNCERTAINTY CALLS FOR FLEXIBILITY NOT INACTION || EURO-AREA GROWTH HAS BEEN MORE RESILIENT THAN EXPECTED || GERMANY MAY …
 - 10/05 16:50 [financialjuice] FRENCH SERVICES PMI ACTUAL 51.2 (FORECAST 51.4, PREVIOUS 51.4) $MACRO
 - 10/05 16:50 [financialjuice] FRENCH COMPOSITE PMI ACTUAL 51.1 (FORECAST 51.2, PREVIOUS 51.2) $MACRO
+- 10/05 16:55 [financialjuice] ❗ GERMAN COMPOSITE PMI FINAL ACTUAL 53.8 (FORECAST 53.8, PREVIOUS 53.8) $MACRO
+- 10/05 16:55 [financialjuice] ‼ BREAKING: GERMAN SERVICES PMI FINAL ACTUAL 52.9 (FORECAST 52.9, PREVIOUS 52.9) $MACRO
+- 10/05 17:00 [financialjuice] EUROZONE SERVICES PMI FINAL ACTUAL 53 (FORECAST 53, PREVIOUS 53.0) $MACRO
+- 10/05 17:00 [financialjuice] EUROZONE COMPOSITE FINAL PMI ACTUAL 53.1 (FORECAST 53.1, PREVIOUS 53.1) $MACRO
+- 10/05 17:06 [FirstSquawk] IDF ANNOUNCES THE DEATH OF A HAMAS COMMANDER INVOLVED IN THE OCTOBER 7 ATTACK.

@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-05 16:51 JST／対象: 10/04 16:51 〜 10/05 16:51 JST（時刻はすべて日本時間）
+生成: 2026-10-05 17:06 JST／対象: 10/04 17:06 〜 10/05 17:06 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 10/04 18:55 | 10/05 09:05 | ⚠ 411分（02:14→09:05） |
-| FirstSquawk | 212 | 10/04 16:57 | 10/05 16:50 | ⚠ 221分（05:36→09:18） |
-| financialjuice | 83 | 10/04 16:56 | 10/05 16:50 | ⚠ 199分（22:46→02:06） |
+| FirstSquawk | 209 | 10/04 17:31 | 10/05 17:06 | ⚠ 221分（05:36→09:18） |
+| financialjuice | 82 | 10/04 17:08 | 10/05 17:00 | ⚠ 199分（22:46→02:06） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 296 行（統合前 306 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 292 行（統合前 302 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/04 16:56 [financialjuice] OPEC+ reaches agreement in principle to maintain oil output targets in November, delegate says
-- 10/04 16:56 [financialjuice] UKMTO reports incident in Strait of Hormuz
-- 10/04 16:56 [financialjuice] UKMTO: tanker hit by unidentified projectile, engine room damaged
-- 10/04 16:56 [financialjuice] UKMTO: crew safe, no environmental impact reported at time of statement
-- 10/04 16:57 [FirstSquawk] OPEC+ reaches agreement in principle to maintain oil output targets in Nov
-- 10/04 16:57 [FirstSquawk] UKMTO says incident in Strait of Hormuz
-- 10/04 16:58 [FirstSquawk] tanker reported being struck by an unknown projectile in the Strait of Hormuz, causing damage to its engine room, the United Kingdom Maritime Trade Operations said on Sunday.
-- 10/04 16:58 [FirstSquawk] Russia's Medvedev: In regional matters, the emphasis should primarily be placed on regional powers. As soon as extra-regional powers become involved in managing processes in one region or another, expect trouble.
-- 10/04 16:59 [financialjuice] Iran foreign minister spokesman: return of IAEA inspectors not discussed
 - 10/04 17:08 [financialjuice] Iran foreign ministry spokesperson: some further details still to be shared with U.S.
 - 10/04 17:31 [FirstSquawk] UK government said it will scrap earlier plans for some criminal trials to be heard by a judge alone, watering down proposed legislation that had sparked strong opposition from legal professionals and some Labour backbenchers.
 - 10/04 17:32 [FirstSquawk] North Korea test-fired a hypersonic missile, claiming it hit a sea target 1,000 km away using a "wave-like trajectory" designed to evade radar.
@@ -320,3 +311,8 @@
 - 10/05 16:50 [FirstSquawk] ECB’S NAGEL: ECB DECIDES BASED ON DATA, MEETING BY MEETING || STRONG CASE FOR CENTRAL-BANK DIVERSIFICATION INTO GOLD || UNCERTAINTY CALLS FOR FLEXIBILITY NOT INACTION || EURO-AREA GROWTH HAS BEEN MORE RESILIENT THAN EXPECTED || GERMANY MAY …
 - 10/05 16:50 [financialjuice] FRENCH SERVICES PMI ACTUAL 51.2 (FORECAST 51.4, PREVIOUS 51.4) $MACRO
 - 10/05 16:50 [financialjuice] FRENCH COMPOSITE PMI ACTUAL 51.1 (FORECAST 51.2, PREVIOUS 51.2) $MACRO
+- 10/05 16:55 [financialjuice] ❗ GERMAN COMPOSITE PMI FINAL ACTUAL 53.8 (FORECAST 53.8, PREVIOUS 53.8) $MACRO
+- 10/05 16:55 [financialjuice] ‼ BREAKING: GERMAN SERVICES PMI FINAL ACTUAL 52.9 (FORECAST 52.9, PREVIOUS 52.9) $MACRO
+- 10/05 17:00 [financialjuice] EUROZONE SERVICES PMI FINAL ACTUAL 53 (FORECAST 53, PREVIOUS 53.0) $MACRO
+- 10/05 17:00 [financialjuice] EUROZONE COMPOSITE FINAL PMI ACTUAL 53.1 (FORECAST 53.1, PREVIOUS 53.1) $MACRO
+- 10/05 17:06 [FirstSquawk] IDF ANNOUNCES THE DEATH OF A HAMAS COMMANDER INVOLVED IN THE OCTOBER 7 ATTACK.

@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-05 16:51 JST／対象: 10/05 04:51 〜 10/05 16:51 JST（時刻はすべて日本時間）
+生成: 2026-10-05 17:06 JST／対象: 10/05 05:06 〜 10/05 17:06 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 10/05 09:05 | 10/05 09:05 | - |
-| FirstSquawk | 104 | 10/05 05:36 | 10/05 16:50 | ⚠ 221分（05:36→09:18） |
-| financialjuice | 52 | 10/05 05:17 | 10/05 16:50 | ⚠ 103分（14:12→15:55） |
+| FirstSquawk | 105 | 10/05 05:36 | 10/05 17:06 | ⚠ 221分（05:36→09:18） |
+| financialjuice | 56 | 10/05 05:17 | 10/05 17:00 | ⚠ 103分（14:12→15:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 156 行（統合前 160 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 161 行（統合前 165 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -180,3 +180,8 @@
 - 10/05 16:50 [FirstSquawk] ECB’S NAGEL: ECB DECIDES BASED ON DATA, MEETING BY MEETING || STRONG CASE FOR CENTRAL-BANK DIVERSIFICATION INTO GOLD || UNCERTAINTY CALLS FOR FLEXIBILITY NOT INACTION || EURO-AREA GROWTH HAS BEEN MORE RESILIENT THAN EXPECTED || GERMANY MAY …
 - 10/05 16:50 [financialjuice] FRENCH SERVICES PMI ACTUAL 51.2 (FORECAST 51.4, PREVIOUS 51.4) $MACRO
 - 10/05 16:50 [financialjuice] FRENCH COMPOSITE PMI ACTUAL 51.1 (FORECAST 51.2, PREVIOUS 51.2) $MACRO
+- 10/05 16:55 [financialjuice] ❗ GERMAN COMPOSITE PMI FINAL ACTUAL 53.8 (FORECAST 53.8, PREVIOUS 53.8) $MACRO
+- 10/05 16:55 [financialjuice] ‼ BREAKING: GERMAN SERVICES PMI FINAL ACTUAL 52.9 (FORECAST 52.9, PREVIOUS 52.9) $MACRO
+- 10/05 17:00 [financialjuice] EUROZONE SERVICES PMI FINAL ACTUAL 53 (FORECAST 53, PREVIOUS 53.0) $MACRO
+- 10/05 17:00 [financialjuice] EUROZONE COMPOSITE FINAL PMI ACTUAL 53.1 (FORECAST 53.1, PREVIOUS 53.1) $MACRO
+- 10/05 17:06 [FirstSquawk] IDF ANNOUNCES THE DEATH OF A HAMAS COMMANDER INVOLVED IN THE OCTOBER 7 ATTACK.
