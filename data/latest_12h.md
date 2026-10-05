@@ -7,36 +7,27 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-05 09:28 JST／対象: 10/04 21:28 〜 10/05 09:28 JST（時刻はすべて日本時間）
+生成: 2026-10-05 09:53 JST／対象: 10/04 21:53 〜 10/05 09:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 10/04 22:36 | 10/05 09:05 | ⚠ 411分（02:14→09:05） |
-| FirstSquawk | 71 | 10/04 21:44 | 10/05 09:26 | ⚠ 221分（05:36→09:18） |
-| financialjuice | 19 | 10/04 21:37 | 10/05 09:28 | ⚠ 199分（22:46→02:06） |
+| FirstSquawk | 71 | 10/04 22:34 | 10/05 09:53 | ⚠ 221分（05:36→09:18） |
+| financialjuice | 25 | 10/04 22:03 | 10/05 09:30 | ⚠ 199分（22:46→02:06） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 88 行（統合前 96 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 96 行（統合前 102 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/04 21:37 [financialjuice/FirstSquawk] Russia's deputy PM Novak: JMMC observed significant fluctuations in global oil markets, citing a supply shortfall
-- 10/04 21:40 [financialjuice/FirstSquawk] Russia's Deputy PM Novak: russia and Saudi Arabia to discuss oil market and 2026-2027 outlook on October 12 in Riyadh
-- 10/04 21:44 [FirstSquawk] Zelensky: Putin wants to weaken Ukraine's ability to resist as much as possible.
-- 10/04 21:45 [FirstSquawk] Zelensky: I am shocked by Russia's "brutal" desire to escalate the situation day after day
-- 10/04 21:45 [FirstSquawk] Zelensky: Ukraine and Germany are doing everything they can to ensure Europe's participation in the diplomatic process to end the war.
-- 10/04 21:45 [FirstSquawk] German Chancellor, speaking from Kyiv, announced that Germany will provide Ukraine with a military aid package worth approximately one billion euros.
-- 10/04 21:45 [FirstSquawk] Mertz: Russian attacks on Germany will not stop even if Berlin halts its aid to Ukraine.
-- 10/04 21:45 [FirstSquawk] Mertz: I call on Russia to enter into peace talks
-- 10/04 21:45 [FirstSquawk] Mertz: We are preparing an energy aid package for Ukraine for the winter worth approximately 350 million euros.
-- 10/04 21:46 [FirstSquawk] Mertz: Russia aims to break the morale of the Ukrainians
-- 10/04 21:46 [FirstSquawk] Trump announces the formation of a "super-intelligence force" to coordinate US government efforts and ensure Washington's leadership in this field.
 - 10/04 22:03 [financialjuice/FirstSquawk] Yemen's Houthis: Attack on Saudi Aramco sites in Riyadh and Khurais with ballistic missiles and drones causes major fires
 - 10/04 22:14 [financialjuice/FirstSquawk] no immediate Saudi confirmation of Houthi claim
+- 10/04 22:34 [FirstSquawk] Russia's deputy PM Novak: JMMC observed significant fluctuations in global oil markets, citing a supply shortfall
+- 10/04 22:34 [FirstSquawk] Russia's Deputy PM Novak: russia and Saudi Arabia to discuss oil market and 2026-2027 outlook on October 12 in Riyadh
 - 10/04 22:36 [DeItaone] TRUMP CREATES “SUPER INTELLIGENCE FORCE” President Trump announced the formation of a new Super Intelligence Force, led by Jay Clayton, Andrew Ferguson, Emil Michael and Scott Kupor. The group will coordinate federal engagement with AI comp…
 - 10/04 22:46 [financialjuice] Ukraine, Germany discuss LNG supply through German infrastructure, involving EU firms in cooperation with Kyiv's gas storage facilities
 - 10/04 22:47 [FirstSquawk] Iranian Deputy Foreign Minister: We are studying the American response to our proposal and remain prepared for all scenarios.
@@ -112,3 +103,20 @@
 - 10/05 09:26 [financialjuice] BOJ deputy governor Uchida: adoption of AI could have both positive and negative effects on productivity and labor markets
 - 10/05 09:28 [financialjuice] BOJ deputy governor uchida: AI has become a major focus among central banks, including at BOJ monetary policy meetings
 - 10/05 09:28 [financialjuice] BoJ deputy governor Uchida: AI impacts key monetary policy parameters including output gap, financial conditions, and star variables
+- 10/05 09:28 [financialjuice] BoJ Deputy Governor Uchida: AI a major positive demand shock putting upward pressure on economy and prices
+- 10/05 09:28 [financialjuice] BoJ deputy governor Uchida: AI may influence supply side, potentially boosting productivity and increasing capital stock accumulation
+- 10/05 09:28 [financialjuice] BOJ deputy governor Uchida: AI has driven up stock prices, easing financial conditions, while significant bond sales by AI-related firms have pushed long-term rates higher
+- 10/05 09:29 [financialjuice] BoJ deputy governor Uchida: We will keep closely monitoring economic and financial indicators to understand the consistent effects of AI adoption
+- 10/05 09:29 [financialjuice] BoJ deputy governor Uchida: Tentatively, demand-side impact of al appears first, making financial conditions more accommodative on balance, while correction risk remains if profits do not
+- 10/05 09:30 [financialjuice] JAPANESE COMPOSITE PMI FINAL ACTUAL 52.3 (FORECAST -, PREVIOUS 52.5) $MACRO
+- 10/05 09:30 [financialjuice] JAPANESE SERVICES PMI ACTUAL 51.3 (FORECAST -, PREVIOUS 51.6) $MACRO
+- 10/05 09:30 [financialjuice] Japan s&p global september services pmi at 51.3 vs flash 51.6
+- 10/05 09:31 [FirstSquawk] BOJ DEPUTY GOVERNOR UCHIDA SAYS AI HAS BECOME A KEY TOPIC OF DISCUSSION AMONG CENTRAL BANKS, INCLUDING AT THE BOJ'S MONETARY POLICY MEETINGS, WITH IMPLICATIONS FOR SOME CORE PARAMETERS OF POLICYMAKING INCLUDING THE OUTPUT GAP, FINANCIAL CON…
+- 10/05 09:31 [FirstSquawk] BOJ DEPUTY GOVERNOR UCHIDA SAYS AI IS 'A BIG POSITIVE DEMAND SHOCK' THAT HAS PUT UPWARD PRESSURE ON THE ECONOMY AND PRICES, AND COULD AFFECT THE SUPPLY SIDE 'PERHAPS POSITIVELY BY RAISING PRODUCTIVITY AND ENHANCING CAPITAL STOCK ACCUMULATIO…
+- 10/05 09:31 [FirstSquawk] BOJ DEPUTY GOVERNOR UCHIDA SAYS AI HAS BOOSTED STOCK PRICES AND MADE FINANCIAL CONDITIONS EASIER, WHILE LARGE-VOLUME BOND ISSUANCES BY AI-RELATED COMPANIES HAVE BEEN PUTTING UPWARD PRESSURE ON LONG-TERM INTEREST RATES.
+- 10/05 09:32 [FirstSquawk] BOJ DEPUTY GOVERNOR UCHIDA SAYS THAT TENTATIVELY, THE DEMAND-SIDE IMPACT OF AI SEEMS TO HAVE COME FIRST, MAKING FINANCIAL CONDITIONS MORE ACCOMMODATIVE ON BALANCE, THOUGH THERE IS A RISK OF CORRECTION IF PROFITS DO NOT FOLLOW, ADDING THAT T…
+- 10/05 09:40 [FirstSquawk] JAPAN'S S&P GLOBAL SEPTEMBER SERVICES PMI CAME IN AT 51.3, BELOW THE FLASH READING OF 51.6, WITH THE COMPOSITE PMI AT 52.3 VERSUS A FLASH 52.5
+- 10/05 09:40 [FirstSquawk] SAUDI ARAMCO SETS NOVEMBER ARAB LIGHT OSP AT $5 BELOW OMAN/DUBAI FOR ASIA; $0.85 ABOVE ICE BRENT FOR NW EUROPE & $4.60 ABOVE ASCI FOR US
+- 10/05 09:46 [FirstSquawk] FORMER OPENAI SAFETY AND TRANSPARENCY LEADER DAVID ROBINSON RESIGNED, WARNING THAT THE COMPANY IS MOVING TOO QUICKLY WITH AI LAUNCHES WITHOUT SUFFICIENT SAFEGUARDS FOR INCREASINGLY CAPABLE SYSTEMS.
+- 10/05 09:46 [FirstSquawk] FORMER OPENAI SAFETY AND TRANSPARENCY LEADER DAVID ROBINSON SAID AI FIRMS SHOULD OPERATE MORE LIKE NUCLEAR POWER PLANTS WITH MULTIPLE SAFETY LAYERS, WHILE OPENAI SAID IT IS EXPANDING THIRD-PARTY EVALUATIONS, SECURITY TESTING AND REAL-TIME M…
+- 10/05 09:53 [FirstSquawk] JAPAN 30-YEAR JGB YIELD RISES 2.5 BPS TO 4.230%
