@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-05 21:30 JST／対象: 10/05 15:30 〜 10/05 21:30 JST（時刻はすべて日本時間）
+生成: 2026-10-05 21:56 JST／対象: 10/05 15:56 〜 10/05 21:56 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 17 | 10/05 19:25 | 10/05 21:14 | 24分（19:58→20:23） |
-| FirstSquawk | 69 | 10/05 15:55 | 10/05 21:27 | 25分（17:18→17:43） |
-| financialjuice | 53 | 10/05 15:55 | 10/05 21:20 | ⚠ 57分（20:15→21:13） |
+| DeItaone | 20 | 10/05 19:25 | 10/05 21:50 | 33分（21:14→21:48） |
+| FirstSquawk | 76 | 10/05 16:15 | 10/05 21:54 | 25分（17:18→17:43） |
+| financialjuice | 66 | 10/05 16:00 | 10/05 21:53 | ⚠ 57分（20:15→21:13） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 139 行（統合前 139 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 161 行（統合前 162 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 15:55 [FirstSquawk] YEMENI FORCES ATTACK HOUTHI POSITIONS IN DHUBAB DISTRICT NEAR BAB EL-MANDEB, SAY TWO MILITARY SOURCES.
-- 10/05 15:55 [financialjuice] Yemeni Government forces launch attack Houthi positions in Dhubab district overlooking Bab El-Mandeb - Two Military Sources.
 - 10/05 16:00 [financialjuice] TURKISH CPI YOY ACTUAL 29.73% (FORECAST 30.26%, PREVIOUS 31.51%) $MACRO
 - 10/05 16:00 [financialjuice] TURKISH CPI MOM ACTUAL 1.84% (FORECAST 2.28%, PREVIOUS 1.84%) $MACRO
 - 10/05 16:09 [financialjuice] Spain's PM Sanchez: I am calling an early election
@@ -163,3 +161,27 @@
 - 10/05 21:20 [financialjuice] Kuwait is pumping oil at about 75% of prewar rate - KPC CEO.
 - 10/05 21:21 [FirstSquawk] KUWAIT IS PUMPING OIL AT ABOUT 75% OF PREWAR RATE, KPC CEO SAYS
 - 10/05 21:27 [FirstSquawk] SANLAM TO OFFER TO BUY ALL SANTAM SHARES AT 505 RAND/SHR CASH
+- 10/05 21:30 [FirstSquawk] LONDON BULLION MARKET ASSOCIATION INCREASES MEMBERSHIP FEES AND ALLOWS PAYMENT OF DUES TWO YEARS AHEAD TO IMPROVE ITS FINANCES DURING EXPENSIVE LEGAL ISSUES.
+- 10/05 21:38 [financialjuice] EU needs new trade tools to allow decisive reaction to unfair practices from third countries - Franco-German Joint Document
+- 10/05 21:38 [financialjuice] EU needs new trade instrument to react to severe and systemic distortions created by third countries - Franco-German Joint Document
+- 10/05 21:39 [financialjuice] EU Commission should propose new diversification tool to prevent eu over-reliance on single countries for critical supplies - Joint Franco-German Paper
+- 10/05 21:39 [financialjuice] New EU instrument should be activated by a commission proposal that adopted unless qualified majority of EU members opposes - Franco-German Joint Document
+- 10/05 21:39 [financialjuice] New EU instrument would not single out any specific country - Joint Franco-German paper
+- 10/05 21:39 [financialjuice] EU commission should open more trade investigations and adopt a broader sector wide approach - Franco-German Joint Document
+- 10/05 21:43 [financialjuice] US Secretary of State Rubio, on bombers' reallocation: It's not unusual
+- 10/05 21:43 [financialjuice] US Secretary of State Rubio on UK base incident: still have confidence in security of all of our bases.
+- 10/05 21:43 [financialjuice] US Secretary of State Rubio on UK base incident: British couldn't be more cooperative.
+- 10/05 21:44 [FirstSquawk] RUBIO ON BOMBERS RE-ALLOCATION: NOT UNUSUAL
+- 10/05 21:44 [FirstSquawk] RUBIO: WE HAVE CONFIDENCE IN SECURITY OF OUR BASES
+- 10/05 21:47 [financialjuice/DeItaone] Houthi-run body issues warning for airlines flying in Saudi airspace - Houthi-affiliated media.
+- 10/05 21:47 [financialjuice] Ukraine’s President Zelenskiy: Russian drones attack Turkish-owned civilian vessel in neutral waters of black sea.
+- 10/05 21:48 [FirstSquawk] US SEC STATE RUBIO ON YEMEN: US INTENDS TO STAND BY SECURITY AGREEMENT WITH SAUDI ARABIA
+- 10/05 21:48 [financialjuice] Houthi-Run Body: Saudi airspace will not be safe as long as Saudi ‘aggression continues - Houthi-Affiliated Media.
+- 10/05 21:49 [DeItaone] HOUTHI-RUN BODY SAYS SAUDI AIRSPACE WILL NOT BE SAFE AS LONG AS SAUDI 'AGGRESSION' CONTINUES - HOUTHI-AFFILIATED MEDIA
+- 10/05 21:50 [financialjuice] CEO of Kuwait's KPC: We now produce around 2 mln bpd, down from 2.6 mln bpd before war started.
+- 10/05 21:50 [FirstSquawk] CEO OF KUWAIT'S KPC WE HAVE BEEN ABLE TO DO THIS USING OUR STRATEGIC TANKER FLEET
+- 10/05 21:50 [DeItaone] YIELD ON 30-YEAR U.S. TREASURY BONDS UP 2.64 BASIS POINTS AT 5.656% U.S. TREASURY YIELDS RISE; YIELD ON 10-YEAR TREASURY NOTE LAST UP 2.34 BASIS POINTS AT 5.3%
+- 10/05 21:52 [FirstSquawk] US ROLLINS: MORE TO DO ON COST OF DIESEL, URGES STATES TO ACT
+- 10/05 21:53 [financialjuice] US Agriculture Sec. Rollins: We're looking at how to bring the cost of diesel down.
+- 10/05 21:54 [FirstSquawk] KPC CEO SAYS WE ARE NOT OFFERING DISCOUNTS OR INSURANCE TO CUSTOMERS BRINGING THEIR OWN TANKERS INTO MIDEAST GULF
+- 10/05 21:54 [FirstSquawk] KPC CEO SAYS WE HAVE HAD A FEW OF OUR CUSTOMERS USING THEIR OWN TANKERS TO COME INTO MIDEAST GULF, MORE WILL BE COMING

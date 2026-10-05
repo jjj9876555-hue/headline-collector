@@ -7,36 +7,27 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-05 21:30 JST／対象: 10/04 21:30 〜 10/05 21:30 JST（時刻はすべて日本時間）
+生成: 2026-10-05 21:56 JST／対象: 10/04 21:56 〜 10/05 21:56 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 21 | 10/04 22:36 | 10/05 21:14 | ⚠ 620分（09:05→19:25） |
-| FirstSquawk | 225 | 10/04 21:44 | 10/05 21:27 | ⚠ 221分（05:36→09:18） |
-| financialjuice | 106 | 10/04 21:37 | 10/05 21:20 | ⚠ 199分（22:46→02:06） |
+| DeItaone | 24 | 10/04 22:36 | 10/05 21:50 | ⚠ 620分（09:05→19:25） |
+| FirstSquawk | 224 | 10/04 22:34 | 10/05 21:54 | ⚠ 221分（05:36→09:18） |
+| financialjuice | 118 | 10/04 22:03 | 10/05 21:53 | ⚠ 199分（22:46→02:06） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 346 行（統合前 356 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 361 行（統合前 370 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/04 21:37 [financialjuice/FirstSquawk] Russia's deputy PM Novak: JMMC observed significant fluctuations in global oil markets, citing a supply shortfall
-- 10/04 21:40 [financialjuice/FirstSquawk] Russia's Deputy PM Novak: russia and Saudi Arabia to discuss oil market and 2026-2027 outlook on October 12 in Riyadh
-- 10/04 21:44 [FirstSquawk] Zelensky: Putin wants to weaken Ukraine's ability to resist as much as possible.
-- 10/04 21:45 [FirstSquawk] Zelensky: I am shocked by Russia's "brutal" desire to escalate the situation day after day
-- 10/04 21:45 [FirstSquawk] Zelensky: Ukraine and Germany are doing everything they can to ensure Europe's participation in the diplomatic process to end the war.
-- 10/04 21:45 [FirstSquawk] German Chancellor, speaking from Kyiv, announced that Germany will provide Ukraine with a military aid package worth approximately one billion euros.
-- 10/04 21:45 [FirstSquawk] Mertz: Russian attacks on Germany will not stop even if Berlin halts its aid to Ukraine.
-- 10/04 21:45 [FirstSquawk] Mertz: I call on Russia to enter into peace talks
-- 10/04 21:45 [FirstSquawk] Mertz: We are preparing an energy aid package for Ukraine for the winter worth approximately 350 million euros.
-- 10/04 21:46 [FirstSquawk] Mertz: Russia aims to break the morale of the Ukrainians
-- 10/04 21:46 [FirstSquawk] Trump announces the formation of a "super-intelligence force" to coordinate US government efforts and ensure Washington's leadership in this field.
 - 10/04 22:03 [financialjuice/FirstSquawk] Yemen's Houthis: Attack on Saudi Aramco sites in Riyadh and Khurais with ballistic missiles and drones causes major fires
 - 10/04 22:14 [financialjuice/FirstSquawk] no immediate Saudi confirmation of Houthi claim
+- 10/04 22:34 [FirstSquawk] Russia's deputy PM Novak: JMMC observed significant fluctuations in global oil markets, citing a supply shortfall
+- 10/04 22:34 [FirstSquawk] Russia's Deputy PM Novak: russia and Saudi Arabia to discuss oil market and 2026-2027 outlook on October 12 in Riyadh
 - 10/04 22:36 [DeItaone] TRUMP CREATES “SUPER INTELLIGENCE FORCE” President Trump announced the formation of a new Super Intelligence Force, led by Jay Clayton, Andrew Ferguson, Emil Michael and Scott Kupor. The group will coordinate federal engagement with AI comp…
 - 10/04 22:46 [financialjuice] Ukraine, Germany discuss LNG supply through German infrastructure, involving EU firms in cooperation with Kyiv's gas storage facilities
 - 10/04 22:47 [FirstSquawk] Iranian Deputy Foreign Minister: We are studying the American response to our proposal and remain prepared for all scenarios.
@@ -370,3 +361,27 @@
 - 10/05 21:20 [financialjuice] Kuwait is pumping oil at about 75% of prewar rate - KPC CEO.
 - 10/05 21:21 [FirstSquawk] KUWAIT IS PUMPING OIL AT ABOUT 75% OF PREWAR RATE, KPC CEO SAYS
 - 10/05 21:27 [FirstSquawk] SANLAM TO OFFER TO BUY ALL SANTAM SHARES AT 505 RAND/SHR CASH
+- 10/05 21:30 [FirstSquawk] LONDON BULLION MARKET ASSOCIATION INCREASES MEMBERSHIP FEES AND ALLOWS PAYMENT OF DUES TWO YEARS AHEAD TO IMPROVE ITS FINANCES DURING EXPENSIVE LEGAL ISSUES.
+- 10/05 21:38 [financialjuice] EU needs new trade tools to allow decisive reaction to unfair practices from third countries - Franco-German Joint Document
+- 10/05 21:38 [financialjuice] EU needs new trade instrument to react to severe and systemic distortions created by third countries - Franco-German Joint Document
+- 10/05 21:39 [financialjuice] EU Commission should propose new diversification tool to prevent eu over-reliance on single countries for critical supplies - Joint Franco-German Paper
+- 10/05 21:39 [financialjuice] New EU instrument should be activated by a commission proposal that adopted unless qualified majority of EU members opposes - Franco-German Joint Document
+- 10/05 21:39 [financialjuice] New EU instrument would not single out any specific country - Joint Franco-German paper
+- 10/05 21:39 [financialjuice] EU commission should open more trade investigations and adopt a broader sector wide approach - Franco-German Joint Document
+- 10/05 21:43 [financialjuice] US Secretary of State Rubio, on bombers' reallocation: It's not unusual
+- 10/05 21:43 [financialjuice] US Secretary of State Rubio on UK base incident: still have confidence in security of all of our bases.
+- 10/05 21:43 [financialjuice] US Secretary of State Rubio on UK base incident: British couldn't be more cooperative.
+- 10/05 21:44 [FirstSquawk] RUBIO ON BOMBERS RE-ALLOCATION: NOT UNUSUAL
+- 10/05 21:44 [FirstSquawk] RUBIO: WE HAVE CONFIDENCE IN SECURITY OF OUR BASES
+- 10/05 21:47 [financialjuice/DeItaone] Houthi-run body issues warning for airlines flying in Saudi airspace - Houthi-affiliated media.
+- 10/05 21:47 [financialjuice] Ukraine’s President Zelenskiy: Russian drones attack Turkish-owned civilian vessel in neutral waters of black sea.
+- 10/05 21:48 [FirstSquawk] US SEC STATE RUBIO ON YEMEN: US INTENDS TO STAND BY SECURITY AGREEMENT WITH SAUDI ARABIA
+- 10/05 21:48 [financialjuice] Houthi-Run Body: Saudi airspace will not be safe as long as Saudi ‘aggression continues - Houthi-Affiliated Media.
+- 10/05 21:49 [DeItaone] HOUTHI-RUN BODY SAYS SAUDI AIRSPACE WILL NOT BE SAFE AS LONG AS SAUDI 'AGGRESSION' CONTINUES - HOUTHI-AFFILIATED MEDIA
+- 10/05 21:50 [financialjuice] CEO of Kuwait's KPC: We now produce around 2 mln bpd, down from 2.6 mln bpd before war started.
+- 10/05 21:50 [FirstSquawk] CEO OF KUWAIT'S KPC WE HAVE BEEN ABLE TO DO THIS USING OUR STRATEGIC TANKER FLEET
+- 10/05 21:50 [DeItaone] YIELD ON 30-YEAR U.S. TREASURY BONDS UP 2.64 BASIS POINTS AT 5.656% U.S. TREASURY YIELDS RISE; YIELD ON 10-YEAR TREASURY NOTE LAST UP 2.34 BASIS POINTS AT 5.3%
+- 10/05 21:52 [FirstSquawk] US ROLLINS: MORE TO DO ON COST OF DIESEL, URGES STATES TO ACT
+- 10/05 21:53 [financialjuice] US Agriculture Sec. Rollins: We're looking at how to bring the cost of diesel down.
+- 10/05 21:54 [FirstSquawk] KPC CEO SAYS WE ARE NOT OFFERING DISCOUNTS OR INSURANCE TO CUSTOMERS BRINGING THEIR OWN TANKERS INTO MIDEAST GULF
+- 10/05 21:54 [FirstSquawk] KPC CEO SAYS WE HAVE HAD A FEW OF OUR CUSTOMERS USING THEIR OWN TANKERS TO COME INTO MIDEAST GULF, MORE WILL BE COMING

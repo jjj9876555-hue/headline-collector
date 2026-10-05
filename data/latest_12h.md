@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-05 21:30 JST／対象: 10/05 09:30 〜 10/05 21:30 JST（時刻はすべて日本時間）
+生成: 2026-10-05 21:56 JST／対象: 10/05 09:56 〜 10/05 21:56 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 17 | 10/05 19:25 | 10/05 21:14 | 24分（19:58→20:23） |
-| FirstSquawk | 154 | 10/05 09:31 | 10/05 21:27 | ⚠ 55分（11:42→12:37） |
-| financialjuice | 82 | 10/05 09:30 | 10/05 21:20 | ⚠ 103分（14:12→15:55） |
+| DeItaone | 20 | 10/05 19:25 | 10/05 21:50 | 33分（21:14→21:48） |
+| FirstSquawk | 152 | 10/05 10:01 | 10/05 21:54 | ⚠ 55分（11:42→12:37） |
+| financialjuice | 93 | 10/05 10:01 | 10/05 21:53 | ⚠ 103分（14:12→15:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 253 行（統合前 255 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 264 行（統合前 267 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 09:30 [financialjuice] JAPANESE COMPOSITE PMI FINAL ACTUAL 52.3 (FORECAST -, PREVIOUS 52.5) $MACRO
-- 10/05 09:30 [financialjuice] JAPANESE SERVICES PMI ACTUAL 51.3 (FORECAST -, PREVIOUS 51.6) $MACRO
-- 10/05 09:30 [financialjuice] Japan s&p global september services pmi at 51.3 vs flash 51.6
-- 10/05 09:31 [FirstSquawk] BOJ DEPUTY GOVERNOR UCHIDA SAYS AI HAS BECOME A KEY TOPIC OF DISCUSSION AMONG CENTRAL BANKS, INCLUDING AT THE BOJ'S MONETARY POLICY MEETINGS, WITH IMPLICATIONS FOR SOME CORE PARAMETERS OF POLICYMAKING INCLUDING THE OUTPUT GAP, FINANCIAL CON…
-- 10/05 09:31 [FirstSquawk] BOJ DEPUTY GOVERNOR UCHIDA SAYS AI IS 'A BIG POSITIVE DEMAND SHOCK' THAT HAS PUT UPWARD PRESSURE ON THE ECONOMY AND PRICES, AND COULD AFFECT THE SUPPLY SIDE 'PERHAPS POSITIVELY BY RAISING PRODUCTIVITY AND ENHANCING CAPITAL STOCK ACCUMULATIO…
-- 10/05 09:31 [FirstSquawk] BOJ DEPUTY GOVERNOR UCHIDA SAYS AI HAS BOOSTED STOCK PRICES AND MADE FINANCIAL CONDITIONS EASIER, WHILE LARGE-VOLUME BOND ISSUANCES BY AI-RELATED COMPANIES HAVE BEEN PUTTING UPWARD PRESSURE ON LONG-TERM INTEREST RATES.
-- 10/05 09:32 [FirstSquawk] BOJ DEPUTY GOVERNOR UCHIDA SAYS THAT TENTATIVELY, THE DEMAND-SIDE IMPACT OF AI SEEMS TO HAVE COME FIRST, MAKING FINANCIAL CONDITIONS MORE ACCOMMODATIVE ON BALANCE, THOUGH THERE IS A RISK OF CORRECTION IF PROFITS DO NOT FOLLOW, ADDING THAT T…
-- 10/05 09:40 [FirstSquawk] JAPAN'S S&P GLOBAL SEPTEMBER SERVICES PMI CAME IN AT 51.3, BELOW THE FLASH READING OF 51.6, WITH THE COMPOSITE PMI AT 52.3 VERSUS A FLASH 52.5
-- 10/05 09:40 [FirstSquawk] SAUDI ARAMCO SETS NOVEMBER ARAB LIGHT OSP AT $5 BELOW OMAN/DUBAI FOR ASIA; $0.85 ABOVE ICE BRENT FOR NW EUROPE & $4.60 ABOVE ASCI FOR US
-- 10/05 09:46 [FirstSquawk] FORMER OPENAI SAFETY AND TRANSPARENCY LEADER DAVID ROBINSON RESIGNED, WARNING THAT THE COMPANY IS MOVING TOO QUICKLY WITH AI LAUNCHES WITHOUT SUFFICIENT SAFEGUARDS FOR INCREASINGLY CAPABLE SYSTEMS.
-- 10/05 09:46 [FirstSquawk] FORMER OPENAI SAFETY AND TRANSPARENCY LEADER DAVID ROBINSON SAID AI FIRMS SHOULD OPERATE MORE LIKE NUCLEAR POWER PLANTS WITH MULTIPLE SAFETY LAYERS, WHILE OPENAI SAID IT IS EXPANDING THIRD-PARTY EVALUATIONS, SECURITY TESTING AND REAL-TIME M…
-- 10/05 09:53 [FirstSquawk] JAPAN 30-YEAR JGB YIELD RISES 2.5 BPS TO 4.230%
-- 10/05 09:55 [FirstSquawk] JAPAN 30-YEAR JGB YIELD SURGES 2.5 BPS TO RECORD HIGH OF 4.23%
 - 10/05 10:01 [FirstSquawk] TAIWAN OVERNIGHT INTERBANK RATE OPENS UNCHANGED AT 0.805%
 - 10/05 10:01 [financialjuice] Taiwan stocks gain over 2%
 - 10/05 10:17 [FirstSquawk] JAPAN'S CHIEF CABINET SECRETARY KIHARA SAYS THE ARREST OF A U.S. SERVICEMAN IN THE OKINAWA CASE IS 'REGRETTABLE', ADDING THAT JAPAN IS SEEKING DISCIPLINE AND PREVENTIVE MEASURES FROM U.S. FORCES.
@@ -277,3 +264,27 @@
 - 10/05 21:20 [financialjuice] Kuwait is pumping oil at about 75% of prewar rate - KPC CEO.
 - 10/05 21:21 [FirstSquawk] KUWAIT IS PUMPING OIL AT ABOUT 75% OF PREWAR RATE, KPC CEO SAYS
 - 10/05 21:27 [FirstSquawk] SANLAM TO OFFER TO BUY ALL SANTAM SHARES AT 505 RAND/SHR CASH
+- 10/05 21:30 [FirstSquawk] LONDON BULLION MARKET ASSOCIATION INCREASES MEMBERSHIP FEES AND ALLOWS PAYMENT OF DUES TWO YEARS AHEAD TO IMPROVE ITS FINANCES DURING EXPENSIVE LEGAL ISSUES.
+- 10/05 21:38 [financialjuice] EU needs new trade tools to allow decisive reaction to unfair practices from third countries - Franco-German Joint Document
+- 10/05 21:38 [financialjuice] EU needs new trade instrument to react to severe and systemic distortions created by third countries - Franco-German Joint Document
+- 10/05 21:39 [financialjuice] EU Commission should propose new diversification tool to prevent eu over-reliance on single countries for critical supplies - Joint Franco-German Paper
+- 10/05 21:39 [financialjuice] New EU instrument should be activated by a commission proposal that adopted unless qualified majority of EU members opposes - Franco-German Joint Document
+- 10/05 21:39 [financialjuice] New EU instrument would not single out any specific country - Joint Franco-German paper
+- 10/05 21:39 [financialjuice] EU commission should open more trade investigations and adopt a broader sector wide approach - Franco-German Joint Document
+- 10/05 21:43 [financialjuice] US Secretary of State Rubio, on bombers' reallocation: It's not unusual
+- 10/05 21:43 [financialjuice] US Secretary of State Rubio on UK base incident: still have confidence in security of all of our bases.
+- 10/05 21:43 [financialjuice] US Secretary of State Rubio on UK base incident: British couldn't be more cooperative.
+- 10/05 21:44 [FirstSquawk] RUBIO ON BOMBERS RE-ALLOCATION: NOT UNUSUAL
+- 10/05 21:44 [FirstSquawk] RUBIO: WE HAVE CONFIDENCE IN SECURITY OF OUR BASES
+- 10/05 21:47 [financialjuice/DeItaone] Houthi-run body issues warning for airlines flying in Saudi airspace - Houthi-affiliated media.
+- 10/05 21:47 [financialjuice] Ukraine’s President Zelenskiy: Russian drones attack Turkish-owned civilian vessel in neutral waters of black sea.
+- 10/05 21:48 [FirstSquawk] US SEC STATE RUBIO ON YEMEN: US INTENDS TO STAND BY SECURITY AGREEMENT WITH SAUDI ARABIA
+- 10/05 21:48 [financialjuice] Houthi-Run Body: Saudi airspace will not be safe as long as Saudi ‘aggression continues - Houthi-Affiliated Media.
+- 10/05 21:49 [DeItaone] HOUTHI-RUN BODY SAYS SAUDI AIRSPACE WILL NOT BE SAFE AS LONG AS SAUDI 'AGGRESSION' CONTINUES - HOUTHI-AFFILIATED MEDIA
+- 10/05 21:50 [financialjuice] CEO of Kuwait's KPC: We now produce around 2 mln bpd, down from 2.6 mln bpd before war started.
+- 10/05 21:50 [FirstSquawk] CEO OF KUWAIT'S KPC WE HAVE BEEN ABLE TO DO THIS USING OUR STRATEGIC TANKER FLEET
+- 10/05 21:50 [DeItaone] YIELD ON 30-YEAR U.S. TREASURY BONDS UP 2.64 BASIS POINTS AT 5.656% U.S. TREASURY YIELDS RISE; YIELD ON 10-YEAR TREASURY NOTE LAST UP 2.34 BASIS POINTS AT 5.3%
+- 10/05 21:52 [FirstSquawk] US ROLLINS: MORE TO DO ON COST OF DIESEL, URGES STATES TO ACT
+- 10/05 21:53 [financialjuice] US Agriculture Sec. Rollins: We're looking at how to bring the cost of diesel down.
+- 10/05 21:54 [FirstSquawk] KPC CEO SAYS WE ARE NOT OFFERING DISCOUNTS OR INSURANCE TO CUSTOMERS BRINGING THEIR OWN TANKERS INTO MIDEAST GULF
+- 10/05 21:54 [FirstSquawk] KPC CEO SAYS WE HAVE HAD A FEW OF OUR CUSTOMERS USING THEIR OWN TANKERS TO COME INTO MIDEAST GULF, MORE WILL BE COMING
