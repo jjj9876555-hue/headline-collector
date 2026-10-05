@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-05 23:07 JST／対象: 10/04 23:07 〜 10/05 23:07 JST（時刻はすべて日本時間）
+生成: 2026-10-05 23:33 JST／対象: 10/04 23:33 〜 10/05 23:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 36 | 10/05 02:13 | 10/05 23:06 | ⚠ 620分（09:05→19:25） |
-| FirstSquawk | 229 | 10/04 23:09 | 10/05 23:05 | ⚠ 221分（05:36→09:18） |
-| financialjuice | 133 | 10/05 02:06 | 10/05 23:05 | ⚠ 103分（14:12→15:55） |
+| DeItaone | 40 | 10/05 02:13 | 10/05 23:26 | ⚠ 620分（09:05→19:25） |
+| FirstSquawk | 233 | 10/04 23:58 | 10/05 23:29 | ⚠ 221分（05:36→09:18） |
+| financialjuice | 139 | 10/05 02:06 | 10/05 23:28 | ⚠ 103分（14:12→15:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 392 行（統合前 403 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 403 行（統合前 416 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/04 23:09 [FirstSquawk] Russian Ministry of Defense: We targeted the northern bridge in Kyiv, which is used to transport Ukrainian troops and military supplies.
-- 10/04 23:10 [FirstSquawk] | Russian Ministry of Defense: We bombed two cargo ships carrying Ukrainian military equipment off the port of Odessa in the Black Sea
 - 10/04 23:58 [FirstSquawk] Syrian Foreign Ministry: We condemn the ongoing violations by the Israeli occupation in Syrian territory.
 - 10/04 23:59 [FirstSquawk] Syrian Foreign Ministry: The continued aggressive approach of the Israeli occupation poses a direct threat to regional security and stability.
 - 10/04 23:59 [FirstSquawk] Syrian Foreign Ministry: We affirm our commitment to our legitimate right to exercise full sovereignty over all our territories.
@@ -416,3 +414,16 @@
 - 10/05 23:04 [financialjuice] Trump's top national security aides meet secretly at Camp David on Iran, Yemen - Axios
 - 10/05 23:05 [DeItaone] YIELD ON 10-YEAR TREASURY NOTE HOLDS GAINS AFTER DATA; LAST UP 1.92 BASIS POINTS AT 5.296%
 - 10/05 23:06 [DeItaone] TRUMP TEAM HELD SECRET CAMP DAVID TALKS ON IRAN, YEMEN Trump’s top national security officials met for hours at Camp David on Friday to discuss next steps in the Iran war and Saudi-Houthi conflict in Yemen, Axios reports, citing three U.S. …
+- 10/05 23:09 [financialjuice/FirstSquawk/DeItaone] ❗ Iran Interior Minister heads to doha for talks - ISNA.
+- 10/05 23:11 [financialjuice] US Fincen announces withdrawals of proposed digital asset-related rules - Statement.
+- 10/05 23:17 [financialjuice] Fear and Greed Index: 43/100 = Fear
+- 10/05 23:18 [financialjuice] Crypto Fear and Greed Index: 70/100 = Greed
+- 10/05 23:20 [FirstSquawk] IRAN FOREIGN MINISTRY: HELD MEETING WITH ENVOYS IN TEHRAN YESTERDAY ON REGIONAL ISSUES
+- 10/05 23:20 [FirstSquawk] IRAN PRESIDENT NOMINATES MEHRDAD AKHLAGHI AS DEFENSE MINISTER - MEHR
+- 10/05 23:21 [financialjuice] Iraq seeks more oil tankers in an effort to control Hormuz transit.
+- 10/05 23:24 [FirstSquawk] UKMTO WARNS INBOUND LPG TANKER STRUCK BY PROJECTILE IN STRAIT OF HORMUZ
+- 10/05 23:26 [DeItaone] ISM SERVICES COOLS, BUT INFLATION PRESSURES INTENSIFY September ISM Services eased to 54.9 from 55.4, while Business Activity fell to 56.5 and New Orders to 59.8. Employment strengthened to 50.1, returning to expansion. The key concern rema…
+- 10/05 23:26 [DeItaone/FirstSquawk] *IRAQ SEEKS MORE OIL TANKERS IN EFFORT TO CONTROL HORMUZ TRANSIT
+- 10/05 23:26 [DeItaone] $SPCX - SPACEX SHARES HIT HIGHEST SINCE EARLY JULY, LAST UP 5.1%
+- 10/05 23:27 [FirstSquawk] SPACEX SHARES HIT HIGHEST SINCE EARLY JULY, LAST UP 5.1%
+- 10/05 23:28 [financialjuice] UKMTO has received a time-late report of an incident within the Strait of Hormuz. A verified source has reported that an LPG tanker transiting inbound has been struck by an unknown projectile.

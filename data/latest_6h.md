@@ -7,44 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-05 23:07 JST／対象: 10/05 17:07 〜 10/05 23:07 JST（時刻はすべて日本時間）
+生成: 2026-10-05 23:33 JST／対象: 10/05 17:33 〜 10/05 23:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 33 | 10/05 19:25 | 10/05 23:06 | 33分（21:14→21:48） |
-| FirstSquawk | 75 | 10/05 17:15 | 10/05 23:05 | 25分（17:18→17:43） |
-| financialjuice | 71 | 10/05 17:10 | 10/05 23:05 | ⚠ 57分（20:15→21:13） |
+| DeItaone | 37 | 10/05 19:25 | 10/05 23:26 | 33分（21:14→21:48） |
+| FirstSquawk | 73 | 10/05 17:43 | 10/05 23:29 | 24分（18:10→18:35） |
+| financialjuice | 64 | 10/05 17:40 | 10/05 23:28 | ⚠ 57分（20:15→21:13） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 175 行（統合前 180 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 167 行（統合前 175 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 17:10 [financialjuice] Aramco CEO: Global oil releases only temporary help for markets
-- 10/05 17:11 [financialjuice] Aramco CEO: Refilling global stockpiles may take 2 years after Hormuz opens
-- 10/05 17:11 [financialjuice] Aramco CEO: Oil market pressure to worsen until Hormuz opens
-- 10/05 17:12 [financialjuice] Aramco CEO: Global oil supply cushions 'scarily thin’
-- 10/05 17:14 [financialjuice] Germany's Foreign Intelligence Chief: There could be low-level military activities by Russia against the Baltics, but we don't expect a large-scale attack on NATO territory
-- 10/05 17:15 [financialjuice] Aramco CEO sees central role for mideast oil & gas for decades
-- 10/05 17:15 [FirstSquawk] YEMENI FORCES GAIN CONTROL OF SIGNIFICANT AREAS IN DHUBAB DISTRICT FOLLOWING FIGHTS WITH HOUTHIS, ACCORDING TO MILITARY SOURCES AND STATE MEDIA.
-- 10/05 17:15 [FirstSquawk] ARAMCO CEO SAYS GLOBAL OIL SUPPLY IS DANGEROUSLY LOW.
-- 10/05 17:15 [FirstSquawk] ARAMCO CLAIMS STRATEGIC STORAGE IS ESSENTIAL FOR MITIGATING OIL CRISIS.
-- 10/05 17:15 [FirstSquawk] ARAMCO IS EXPLORING OTHER OIL EXPORT PATHS AND SEEKING ADDITIONAL GLOBAL STORAGE OPTIONS.
-- 10/05 17:15 [FirstSquawk] ARAMCO CEO BELIEVES MIDDLE EAST OIL AND GAS WILL PLAY A KEY ROLE FOR MANY YEARS TO COME.
-- 10/05 17:15 [FirstSquawk] GERMANY'S FOREIGN INTELLIGENCE HEAD SAYS RUSSIA MAY CONDUCT SMALL MILITARY ACTIONS IN THE BALTICS, BUT A MAJOR ATTACK ON NATO IS NOT ANTICIPATED.
-- 10/05 17:15 [FirstSquawk] GERMANY'S FOREIGN INTELLIGENCE LEADER SAYS THE THREAT OF ATTACKS ON GERMAN TARGETS IS STILL A SIGNIFICANT CONCERN.
-- 10/05 17:18 [FirstSquawk] ARAMCO CEO STRESSES THE NEED FOR THE GLOBAL COMMUNITY TO SUPPORT UNRESTRICTED TRADE.
-- 10/05 17:18 [financialjuice] Aramco CEO: Global community must help free flow of goods
-- 10/05 17:28 [financialjuice] Aramco CEO: Upstream facilities are currently "intact"
-- 10/05 17:29 [financialjuice] Aramco CEO: max oil-output capacity of 12M b/d is available in days
-- 10/05 17:30 [financialjuice] EUROZONE SENTIX INVESTOR CONFIDENCE INDEX ACTUAL 2.7 (FORECAST 4.5, PREVIOUS 5.1) $MACRO
-- 10/05 17:30 [financialjuice] ❗ UK COMPOSITE PMI FINAL ACTUAL 52 (FORECAST 51.7, PREVIOUS 51.7) $MACRO
-- 10/05 17:30 [financialjuice] ‼ BREAKING: UK SERVICES PMI FINAL ACTUAL 52.1 (FORECAST 51.7, PREVIOUS 51.7) $MACRO
-- 10/05 17:31 [financialjuice] UK Services PMI September 2026 Report
 - 10/05 17:40 [financialjuice] Aramco CEO: Oil demand is picking up, inventories need refilling
 - 10/05 17:40 [financialjuice] Aramco CEO: Oil demand picking up, inventories need refilling
 - 10/05 17:43 [FirstSquawk] SAUDI EAST-WEST PIPELINE STOPPED DUE TO NEW ATTACK.
@@ -199,3 +178,16 @@
 - 10/05 23:04 [financialjuice] Trump's top national security aides meet secretly at Camp David on Iran, Yemen - Axios
 - 10/05 23:05 [DeItaone] YIELD ON 10-YEAR TREASURY NOTE HOLDS GAINS AFTER DATA; LAST UP 1.92 BASIS POINTS AT 5.296%
 - 10/05 23:06 [DeItaone] TRUMP TEAM HELD SECRET CAMP DAVID TALKS ON IRAN, YEMEN Trump’s top national security officials met for hours at Camp David on Friday to discuss next steps in the Iran war and Saudi-Houthi conflict in Yemen, Axios reports, citing three U.S. …
+- 10/05 23:09 [financialjuice/FirstSquawk/DeItaone] ❗ Iran Interior Minister heads to doha for talks - ISNA.
+- 10/05 23:11 [financialjuice] US Fincen announces withdrawals of proposed digital asset-related rules - Statement.
+- 10/05 23:17 [financialjuice] Fear and Greed Index: 43/100 = Fear
+- 10/05 23:18 [financialjuice] Crypto Fear and Greed Index: 70/100 = Greed
+- 10/05 23:20 [FirstSquawk] IRAN FOREIGN MINISTRY: HELD MEETING WITH ENVOYS IN TEHRAN YESTERDAY ON REGIONAL ISSUES
+- 10/05 23:20 [FirstSquawk] IRAN PRESIDENT NOMINATES MEHRDAD AKHLAGHI AS DEFENSE MINISTER - MEHR
+- 10/05 23:21 [financialjuice] Iraq seeks more oil tankers in an effort to control Hormuz transit.
+- 10/05 23:24 [FirstSquawk] UKMTO WARNS INBOUND LPG TANKER STRUCK BY PROJECTILE IN STRAIT OF HORMUZ
+- 10/05 23:26 [DeItaone] ISM SERVICES COOLS, BUT INFLATION PRESSURES INTENSIFY September ISM Services eased to 54.9 from 55.4, while Business Activity fell to 56.5 and New Orders to 59.8. Employment strengthened to 50.1, returning to expansion. The key concern rema…
+- 10/05 23:26 [DeItaone/FirstSquawk] *IRAQ SEEKS MORE OIL TANKERS IN EFFORT TO CONTROL HORMUZ TRANSIT
+- 10/05 23:26 [DeItaone] $SPCX - SPACEX SHARES HIT HIGHEST SINCE EARLY JULY, LAST UP 5.1%
+- 10/05 23:27 [FirstSquawk] SPACEX SHARES HIT HIGHEST SINCE EARLY JULY, LAST UP 5.1%
+- 10/05 23:28 [financialjuice] UKMTO has received a time-late report of an incident within the Strait of Hormuz. A verified source has reported that an LPG tanker transiting inbound has been struck by an unknown projectile.
