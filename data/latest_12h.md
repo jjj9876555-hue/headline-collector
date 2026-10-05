@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-06 00:21 JST／対象: 10/05 12:21 〜 10/06 00:21 JST（時刻はすべて日本時間）
+生成: 2026-10-06 00:42 JST／対象: 10/05 12:42 〜 10/06 00:42 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 42 | 10/05 19:25 | 10/06 00:09 | 33分（21:14→21:48） |
-| FirstSquawk | 160 | 10/05 12:37 | 10/06 00:18 | 43分（13:00→13:44） |
-| financialjuice | 121 | 10/05 13:03 | 10/06 00:15 | ⚠ 103分（14:12→15:55） |
+| DeItaone | 43 | 10/05 19:25 | 10/06 00:39 | 33分（21:14→21:48） |
+| FirstSquawk | 160 | 10/05 12:42 | 10/06 00:38 | 43分（13:00→13:44） |
+| financialjuice | 132 | 10/05 13:03 | 10/06 00:39 | ⚠ 103分（14:12→15:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 314 行（統合前 324 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 326 行（統合前 336 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 12:37 [FirstSquawk] Schroders set to expand Hong Kong operations following Nuveen merger, CEO says - scmp
-- 10/05 12:40 [FirstSquawk] Yen remains under pressure as USD reverses post-NFP losses amid geopolitical tensions
-- 10/05 12:41 [FirstSquawk] Rupee opens at 96.2150 against dollar, up from previous close of 96.3150
-- 10/05 12:41 [FirstSquawk] India 10-year benchmark government bond yield eases to 7.2101% from 7.2133%
 - 10/05 12:42 [FirstSquawk] Japan to open extra Diet session as lawmakers focus on consumption tax cut bills
 - 10/05 12:43 [FirstSquawk] Japan holds 12th place in global innovation ranking, behind South Korea and China
 - 10/05 12:44 [FirstSquawk] South Korea enhances security camera network with AI
@@ -338,3 +334,19 @@
 - 10/06 00:15 [financialjuice] Fed bids for 3-month bills total $7.2 bln.
 - 10/06 00:15 [financialjuice] Fed bids for 6-month bills total $6.2 bln.
 - 10/06 00:18 [FirstSquawk] OPENAI TO ADD TEXT WATERMARKS TO EU CHATGPT USERS
+- 10/06 00:27 [FirstSquawk] GERMAN CHANCELLOR MERZ: EU COMMISSION SHOULD BE ABLE TO ACT RAPIDLY ON TRADE
+- 10/06 00:31 [FirstSquawk] BRITAIN'S FTSE 100 UP 0.26%; GERMANY'S DAX UP 0.06%
+- 10/06 00:31 [financialjuice] The United States has given Israel the green light, removing operational restrictions on the Israeli Air Force over Iraqi airspace. According to sources, this authorization allows Israel to strike Iranian-backed militias in the region - Isr…
+- 10/06 00:31 [FirstSquawk] FRANCE'S CAC 40 DOWN 0.91%; SPAIN'S IBEX UP 1.05%
+- 10/06 00:32 [financialjuice] US 6-MONTH BILL BID-TO-COVER ACTUAL 2.79 (FORECAST -, PREVIOUS 2.640) $MACRO
+- 10/06 00:32 [financialjuice] US 3-MONTH BILL HIGH YIELD ACTUAL 4.05% (FORECAST -, PREVIOUS 4.110%) $MACRO
+- 10/06 00:32 [financialjuice] US 3-MONTH BILL BID-TO-COVER ACTUAL 2.51 (FORECAST -, PREVIOUS 2.990) $MACRO
+- 10/06 00:32 [financialjuice] US 6-MONTH BILL HIGH YIELD ACTUAL 4.165% (FORECAST -, PREVIOUS 4.285%) $MACRO
+- 10/06 00:32 [financialjuice] US 3-MONTH AWARDED HIGH ACTUAL 21.300% (FORECAST -, PREVIOUS 61.140%) $MACRO
+- 10/06 00:32 [financialjuice] US 6-MONTH AWARDED HIGH ACTUAL 40.620% (FORECAST -, PREVIOUS 37.890%) $MACRO
+- 10/06 00:33 [financialjuice] US 3-Month Bill Auction High Yield 4.050% Bid-to-cover 2.51 US sells $95 bln Awards 21.30% of bids at high
+- 10/06 00:33 [financialjuice] US 6-Month Bill Auction High Yield 4.165% Bid-to-cover 2.79 US sells $82 bln Awards 40.62% of bids at high
+- 10/06 00:38 [FirstSquawk] RUSSIA HIT CARGO VESSEL IN UKRAINE'S PIVDENNYI PORT - RIA CITES RUSSIAN DEFENCE MINISTRY
+- 10/06 00:39 [financialjuice] US CFTC Chairman Selig in WSJ: Today, the CFTC is proposing its first round of regulations for the crypto markets.
+- 10/06 00:39 [DeItaone] US CFTC CHAIRMAN SELIG IN WSJ: TODAY THE CFTC IS PROPOSING ITS FIRST ROUND OF REGULATIONS FOR CRYPTO MARKETS US CFTC CHAIRMAN SELIG IN WSJ: CFTC IS MOVING TO INSTITUTE RULES AND REGULATIONS THAT ACCOUNT FOR DISTINCTIONS BETWEEN CRYPTO ASSET…
+- 10/06 00:39 [financialjuice] US CFTC CHairman Selig in WSJ: The CFTC is moving to institute rules and regulations that account for distinctions between crypto assets and other types of commodities.
