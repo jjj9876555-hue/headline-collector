@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-06 06:56 JST／対象: 10/05 06:56 〜 10/06 06:56 JST（時刻はすべて日本時間）
+生成: 2026-10-06 07:17 JST／対象: 10/05 07:17 〜 10/06 07:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 66 | 10/05 09:05 | 10/06 03:52 | ⚠ 620分（09:05→19:25） |
-| FirstSquawk | 273 | 10/05 09:18 | 10/06 06:19 | ⚠ 55分（11:42→12:37） |
-| financialjuice | 209 | 10/05 07:00 | 10/06 06:00 | ⚠ 103分（14:12→15:55） |
+| FirstSquawk | 277 | 10/05 09:18 | 10/06 07:02 | ⚠ 55分（11:42→12:37） |
+| financialjuice | 207 | 10/05 07:40 | 10/06 06:00 | ⚠ 103分（14:12→15:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 534 行（統合前 554 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 536 行（統合前 556 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 07:00 [financialjuice] AUSTRALIAN COMPOSITE PMI FINAL ACTUAL 51.3 (FORECAST -, PREVIOUS 50.8) $MACRO
-- 10/05 07:00 [financialjuice] AUSTRALIAN SERVICES PMI FINAL ACTUAL 51.9 (FORECAST -, PREVIOUS 51.4) $MACRO
 - 10/05 07:40 [financialjuice] US B-1 bombers evacuated from UK base after attack threats from Iran - Axios
 - 10/05 09:01 [financialjuice] Ireland S&P Global September services PMI at 54.1 versus 55.4 in August
 - 10/05 09:05 [DeItaone] ALTMAN: WORLD SHOULD ACCEPT SOME AI RISKS OpenAI CEO Sam Altman says “the world should accept some bad things happening” to keep AI broadly accessible, arguing that people will ultimately use the technology for far more good than harm. Altm…
@@ -558,3 +556,7 @@
 - 10/06 06:00 [financialjuice] Wall Street banks launch record $60 bln chip deal for Broadcom and Anthropic - FT. $AVGO
 - 10/06 06:07 [FirstSquawk] WALL STREET BANKS LAUNCH RECORD $60 BLN CHIP DEAL FOR BROADCOM AND ANTHROPIC - FT.
 - 10/06 06:19 [FirstSquawk] MACQUARIE INFRASTRUCTURE INCOME OPPORTUNITIES FUND SAYS IT SOLD CLASS J SHARES FOR $7.39 MLN AS OF SEPTEMBER 1, 2026, WITH THE PURCHASE PRICE PER SHARE EQUAL TO THE NAV PER SHARE AS OF AUGUST 31, 2026, WHEN THE NAV PER CLASS J SHARE WAS $25…
+- 10/06 07:01 [FirstSquawk] OIL FELL NEARLY 2% AFTER SAUDI ARAMCO CUT ARAB LIGHT PRICES FOR ASIAN BUYERS TO $5 A BARREL BELOW THE REGIONAL BENCHMARK, THE LOWEST LEVEL IN SIX YEARS, AS CRUDE FLOWS THROUGH THE STRAIT OF HORMUZ RECOVERED; WTI DROPPED 1.8% TO $89.43 AND B…
+- 10/06 07:01 [FirstSquawk] G7 EMERGENCY STOCKPILE RELEASES AND STRONGER MIDDLE EAST FLOWS ARE ALSO PRESSURING PRICES, BUT SUPPLY RISKS REMAIN HIGH AMID ATTACKS AND SHIPPING DISRUPTIONS, WITH ARAMCO WARNING OF “SCARILY THIN” GLOBAL STOCKPILES AND POTENTIAL UPSIDE TOWA…
+- 10/06 07:02 [FirstSquawk] U.S. CENTRAL COMMAND SAYS THAT AS OF OCT. 5, CENTCOM FORCES HAVE REDIRECTED 130 COMMERCIAL VESSELS DURING STRICT ENFORCEMENT OF THE ONGOING U.S. NAVAL BLOCKADE AGAINST IRAN.
+- 10/06 07:02 [FirstSquawk] U.S. CENTRAL COMMAND COMMANDER ADM. BRAD COOPER SAYS 'THE U.S. MILITARY REMAINS INTENSELY FOCUSED ON THIS MISSION', ADDING 'WE WILL SWIFTLY ACT AGAINST ANY VESSELS TRYING TO RUN THE BLOCKADE. OUR FORCES ARE HIGHLY TRAINED, PROFESSIONAL, AND…
