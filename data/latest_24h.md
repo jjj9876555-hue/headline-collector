@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-05 22:24 JST／対象: 10/04 22:24 〜 10/05 22:24 JST（時刻はすべて日本時間）
+生成: 2026-10-05 22:51 JST／対象: 10/04 22:51 〜 10/05 22:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 27 | 10/04 22:36 | 10/05 22:05 | ⚠ 620分（09:05→19:25） |
-| FirstSquawk | 226 | 10/04 22:34 | 10/05 22:15 | ⚠ 221分（05:36→09:18） |
-| financialjuice | 118 | 10/04 22:46 | 10/05 22:00 | ⚠ 199分（22:46→02:06） |
+| DeItaone | 30 | 10/05 02:13 | 10/05 22:45 | ⚠ 620分（09:05→19:25） |
+| FirstSquawk | 225 | 10/04 23:09 | 10/05 22:46 | ⚠ 221分（05:36→09:18） |
+| financialjuice | 125 | 10/05 02:06 | 10/05 22:47 | ⚠ 103分（14:12→15:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 368 行（統合前 375 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 377 行（統合前 385 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/04 22:34 [FirstSquawk] Russia's deputy PM Novak: JMMC observed significant fluctuations in global oil markets, citing a supply shortfall
-- 10/04 22:34 [FirstSquawk] Russia's Deputy PM Novak: russia and Saudi Arabia to discuss oil market and 2026-2027 outlook on October 12 in Riyadh
-- 10/04 22:35 [FirstSquawk] Yemen's Houthis: Attack on Saudi Aramco sites in Riyadh and Khurais with ballistic missiles and drones causes major fires
-- 10/04 22:35 [FirstSquawk] no immediate Saudi confirmation of Houthi claim
-- 10/04 22:36 [DeItaone] TRUMP CREATES “SUPER INTELLIGENCE FORCE” President Trump announced the formation of a new Super Intelligence Force, led by Jay Clayton, Andrew Ferguson, Emil Michael and Scott Kupor. The group will coordinate federal engagement with AI comp…
-- 10/04 22:46 [financialjuice] Ukraine, Germany discuss LNG supply through German infrastructure, involving EU firms in cooperation with Kyiv's gas storage facilities
-- 10/04 22:47 [FirstSquawk] Iranian Deputy Foreign Minister: We are studying the American response to our proposal and remain prepared for all scenarios.
-- 10/04 22:47 [FirstSquawk] Explosions heard in the Ukrainian capital, Kyiv, after a drone attack warning was issued.
 - 10/04 23:09 [FirstSquawk] Russian Ministry of Defense: We targeted the northern bridge in Kyiv, which is used to transport Ukrainian troops and military supplies.
 - 10/04 23:10 [FirstSquawk] | Russian Ministry of Defense: We bombed two cargo ships carrying Ukrainian military equipment off the port of Odessa in the Black Sea
 - 10/04 23:58 [FirstSquawk] Syrian Foreign Ministry: We condemn the ongoing violations by the Israeli occupation in Syrian territory.
@@ -392,3 +384,20 @@
 - 10/05 22:05 [DeItaone] ISM SERVICES SEEN EASING SLIGHTLY AS PRICE PRESSURES RISE September ISM Services PMI is expected at 55.0, down slightly from 55.4 in August. Employment is seen improving to 48.8 from 47.8, while New Orders are expected to ease to 60.3 from …
 - 10/05 22:05 [FirstSquawk] SKYDANCE NAMES DAVID ELLISON CHAIRMAN AND CEO UPON WBD CLOSE
 - 10/05 22:15 [FirstSquawk] FORMER U.S. SPEAKER OF THE HOUSE DENNIS HASTERT HAS DIED AT AGE 84
+- 10/05 22:26 [DeItaone] TREASURY WITHDRAWS TWO CONTROVERSIAL CRYPTO SURVEILLANCE PROPOSALS The U.S. Treasury has withdrawn two long-pending FinCEN proposals targeting unhosted crypto wallets and cryptocurrency mixing. The wallet proposal would have imposed reporti…
+- 10/05 22:26 [DeItaone] $TSLA - UBS STAYS NEUTRAL ON TESLA DESPITE DELIVERY BEAT UBS reiterates Neutral on Tesla with a $385 price target after deliveries beat consensus by roughly 5%, continuing the rebound in vehicle volumes. However, energy deployments missed e…
+- 10/05 22:27 [financialjuice] KPC CEO: On expanding Kuwait tanker fleet, we will work with partners around world to do that. whether on ownership or leasing options on crude, product tankers.
+- 10/05 22:27 [financialjuice] KPC CEO: There is not enough refining capacity in the world to make up for shuttered capacity in the Middle East Gulf; will work with partners around the world to expand Kuwait's tanker fleet, whether on ownership or leasing options on crud…
+- 10/05 22:29 [financialjuice] Yemeni sources report an attack on an oil refinery in Jeddah - Tasnim News.
+- 10/05 22:30 [DeItaone] Tasnim now reporting "Yemeni sources report an attack on an oil refinery in Jeddah.
+- 10/05 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -40.4 MLN NASDAQ 100: 16.0 MLN DOW 30: -14.0 MLN MAG 7: -1.7 MLN $MACRO
+- 10/05 22:31 [FirstSquawk] DOW JONES DOWN 78.27 POINTS, OR 0.15 PERCENT, AT 51,098.69 AFTER MARKET OPEN NASDAQ UP 43.06 POINTS, OR 0.16 PERCENT, AT 27,233.93 AFTER MARKET OPEN S&P 500 UP 6.06 POINTS, OR 0.08 PERCENT, AT 7,728.78 AFTER MARKET OPEN
+- 10/05 22:42 [FirstSquawk] SOURCE SAYS LARGE EXPLOSIONS HIT JEDDAH OIL REFINERY - NAYA
+- 10/05 22:44 [FirstSquawk] UBS CUTS FERRARI PRICE TARGET TO $450 FROM $490
+- 10/05 22:45 [financialjuice] US S&P COMPOSITE PMI FINAL ACTUAL 58.4 (FORECAST 58.3, PREVIOUS 58.4) $MACRO
+- 10/05 22:45 [financialjuice] ❗ US S&P SERVICES PMI FINAL ACTUAL 58.8 (FORECAST 58.7, PREVIOUS 58.7) $MACRO
+- 10/05 22:45 [DeItaone] US SEP FINAL COMPOSITE PMI 58.4 (58.4 FLASH, 56.0 AUG) US SEP FINAL SERVICES PMI 58.8 (58.7 FLASH, 56.5 AUG)
+- 10/05 22:46 [FirstSquawk] U.S S&P GLOBAL SERVICES PMI (SEP) ACTUAL: 58.8 VS 58.7 PREVIOUS; EST 58.7
+- 10/05 22:46 [FirstSquawk] U.S S&P GLOBAL COMPOSITE PMI (SEP) ACTUAL: 58.4 VS 58.4 PREVIOUS; EST 58.4
+- 10/05 22:46 [financialjuice] US S&P Service PMI Final September Report
+- 10/05 22:47 [financialjuice] Activity surges higher as new order growth hits four-and-a-half-year high Rate of job creation strongest since June 2022 Input cost inflation reaccelerates
