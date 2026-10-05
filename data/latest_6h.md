@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-06 06:40 JST／対象: 10/06 00:40 〜 10/06 06:40 JST（時刻はすべて日本時間）
+生成: 2026-10-06 06:56 JST／対象: 10/06 00:56 〜 10/06 06:56 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 22 | 10/06 00:50 | 10/06 03:52 | 28分（02:44→03:13） |
-| FirstSquawk | 75 | 10/06 00:42 | 10/06 06:19 | 43分（02:02→02:46） |
-| financialjuice | 57 | 10/06 00:42 | 10/06 06:00 | ⚠ 52分（02:01→02:53） |
+| DeItaone | 21 | 10/06 01:10 | 10/06 03:52 | 28分（02:44→03:13） |
+| FirstSquawk | 74 | 10/06 00:57 | 10/06 06:19 | 43分（02:02→02:46） |
+| financialjuice | 56 | 10/06 01:21 | 10/06 06:00 | ⚠ 52分（02:01→02:53） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 149 行（統合前 156 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 146 行（統合前 153 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/06 00:42 [FirstSquawk] YEMEN'S ARMED FORCES SAY THEY HAVE TAKEN CONTROL OF MOCHA
-- 10/06 00:42 [financialjuice] Yemen's Armed Forces: We have taken control of Mocha.
-- 10/06 00:50 [DeItaone] TOTALENERGIES CEO SAYS I PREFER A WORLD OF DISRUPTION RATHER THAN A PEACEFUL WORLD BECAUSE IT CREATES MORE OPPORTUNITIES
 - 10/06 00:57 [FirstSquawk] CFTC: PLANS TO ESTABLISH A PURPOSE-FIT OPTION FOR CRYPTO-ASSET EXCHANGES THAT WISH TO OPERATE UNDER A SINGLE FEDERAL REGULATORY SCHEME
 - 10/06 01:02 [FirstSquawk] ASTRAZENECA OPENS NEW GLOBAL STRATEGIC R&D CENTER IN KENDALL SQUARE, CAMBRIDGE, MASSACHUSETTS
 - 10/06 01:03 [FirstSquawk] US 30-YEAR TREASURY YIELD RISES TO 5.69%, NEW HIGH SINCE 2002

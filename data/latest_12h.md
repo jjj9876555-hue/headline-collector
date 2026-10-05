@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-06 06:40 JST／対象: 10/05 18:40 〜 10/06 06:40 JST（時刻はすべて日本時間）
+生成: 2026-10-06 06:56 JST／対象: 10/05 18:56 〜 10/06 06:56 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 65 | 10/05 19:25 | 10/06 03:52 | 33分（21:14→21:48） |
-| FirstSquawk | 138 | 10/05 18:49 | 10/06 06:19 | 43分（02:02→02:46） |
-| financialjuice | 128 | 10/05 18:46 | 10/06 06:00 | ⚠ 57分（20:15→21:13） |
+| FirstSquawk | 137 | 10/05 18:56 | 10/06 06:19 | 43分（02:02→02:46） |
+| financialjuice | 126 | 10/05 18:57 | 10/06 06:00 | ⚠ 57分（20:15→21:13） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 317 行（統合前 334 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 314 行（統合前 331 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 18:46 [financialjuice] Afghan taliban foreign minister: Afghanistan considers self-defense against any aggression to be its legitimate and undeniable right
-- 10/05 18:47 [financialjuice] Afghan taliban foreign minister: Believe existing problems between Afghanistan and Pakistan can be resolved through dialogue and diplomacy
-- 10/05 18:49 [FirstSquawk] YEMENI GOVERNMENT FORCES LAUNCH ATTACKS ON HOUTHIS FROM THREE FRONTS IN NORTH, WEST AND SOUTH OF YEMEN - MILITARY SOURCES
 - 10/05 18:56 [FirstSquawk] GERMAN DEFENSE MINISTRY SPOX ON CANCELLED F126 FRIGATE ORDER: CLAIMS FOR DAMAGES AGAINST GERMANY ARE UNFOUNDED
 - 10/05 18:56 [FirstSquawk] CONOCOPHILLIPS CHAIR WE ARE LOOKING AT AN UNSOLICITED OFFER FOR UK NORTH SEA BUSINESS, NO DECISION YET
 - 10/05 18:57 [financialjuice] Yemeni government forces launch attacks on Houthis from three fronts in the north, west, and south of Yemen - Military sources
