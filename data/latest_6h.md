@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-06 00:42 JST／対象: 10/05 18:42 〜 10/06 00:42 JST（時刻はすべて日本時間）
+生成: 2026-10-06 00:59 JST／対象: 10/05 18:59 〜 10/06 00:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 43 | 10/05 19:25 | 10/06 00:39 | 33分（21:14→21:48） |
-| FirstSquawk | 63 | 10/05 18:49 | 10/06 00:38 | 23分（19:21→19:44） |
-| financialjuice | 71 | 10/05 18:46 | 10/06 00:39 | ⚠ 57分（20:15→21:13） |
+| DeItaone | 44 | 10/05 19:25 | 10/06 00:50 | 33分（21:14→21:48） |
+| FirstSquawk | 62 | 10/05 19:03 | 10/06 00:57 | 23分（19:21→19:44） |
+| financialjuice | 69 | 10/05 19:03 | 10/06 00:42 | ⚠ 57分（20:15→21:13） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 168 行（統合前 178 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 166 行（統合前 176 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 18:46 [financialjuice] Afghan taliban foreign minister: Afghanistan considers self-defense against any aggression to be its legitimate and undeniable right
-- 10/05 18:47 [financialjuice] Afghan taliban foreign minister: Believe existing problems between Afghanistan and Pakistan can be resolved through dialogue and diplomacy
-- 10/05 18:49 [FirstSquawk] YEMENI GOVERNMENT FORCES LAUNCH ATTACKS ON HOUTHIS FROM THREE FRONTS IN NORTH, WEST AND SOUTH OF YEMEN - MILITARY SOURCES
-- 10/05 18:56 [FirstSquawk] GERMAN DEFENSE MINISTRY SPOX ON CANCELLED F126 FRIGATE ORDER: CLAIMS FOR DAMAGES AGAINST GERMANY ARE UNFOUNDED
-- 10/05 18:56 [FirstSquawk] CONOCOPHILLIPS CHAIR WE ARE LOOKING AT AN UNSOLICITED OFFER FOR UK NORTH SEA BUSINESS, NO DECISION YET
-- 10/05 18:57 [financialjuice] Yemeni government forces launch attacks on Houthis from three fronts in the north, west, and south of Yemen - Military sources
 - 10/05 19:03 [FirstSquawk] CENOVUS TO BUY ATHABASCA OIL FOR C$12.00/SHR CASH, STOCK
 - 10/05 19:03 [financialjuice] Yemen's armed forces: Began 'strategic offensive’ in Sanaa
 - 10/05 19:11 [FirstSquawk] BP CEO: WE HAVE ADJUSTED OUR REFINERIES TO MOVE FOCUS FROM JET TO DIESEL PRODUCTION
@@ -192,3 +186,7 @@
 - 10/06 00:39 [financialjuice] US CFTC Chairman Selig in WSJ: Today, the CFTC is proposing its first round of regulations for the crypto markets.
 - 10/06 00:39 [DeItaone] US CFTC CHAIRMAN SELIG IN WSJ: TODAY THE CFTC IS PROPOSING ITS FIRST ROUND OF REGULATIONS FOR CRYPTO MARKETS US CFTC CHAIRMAN SELIG IN WSJ: CFTC IS MOVING TO INSTITUTE RULES AND REGULATIONS THAT ACCOUNT FOR DISTINCTIONS BETWEEN CRYPTO ASSET…
 - 10/06 00:39 [financialjuice] US CFTC CHairman Selig in WSJ: The CFTC is moving to institute rules and regulations that account for distinctions between crypto assets and other types of commodities.
+- 10/06 00:42 [FirstSquawk] YEMEN'S ARMED FORCES SAY THEY HAVE TAKEN CONTROL OF MOCHA
+- 10/06 00:42 [financialjuice] Yemen's Armed Forces: We have taken control of Mocha.
+- 10/06 00:50 [DeItaone] TOTALENERGIES CEO SAYS I PREFER A WORLD OF DISRUPTION RATHER THAN A PEACEFUL WORLD BECAUSE IT CREATES MORE OPPORTUNITIES
+- 10/06 00:57 [FirstSquawk] CFTC: PLANS TO ESTABLISH A PURPOSE-FIT OPTION FOR CRYPTO-ASSET EXCHANGES THAT WISH TO OPERATE UNDER A SINGLE FEDERAL REGULATORY SCHEME

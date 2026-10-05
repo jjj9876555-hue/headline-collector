@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-06 00:42 JST／対象: 10/05 00:42 〜 10/06 00:42 JST（時刻はすべて日本時間）
+生成: 2026-10-06 00:59 JST／対象: 10/05 00:59 〜 10/06 00:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 46 | 10/05 02:13 | 10/06 00:39 | ⚠ 620分（09:05→19:25） |
-| FirstSquawk | 232 | 10/05 00:46 | 10/06 00:38 | ⚠ 221分（05:36→09:18） |
-| financialjuice | 159 | 10/05 02:06 | 10/06 00:39 | ⚠ 103分（14:12→15:55） |
+| DeItaone | 47 | 10/05 02:13 | 10/06 00:50 | ⚠ 620分（09:05→19:25） |
+| FirstSquawk | 231 | 10/05 01:14 | 10/06 00:57 | ⚠ 221分（05:36→09:18） |
+| financialjuice | 160 | 10/05 02:06 | 10/06 00:42 | ⚠ 103分（14:12→15:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 426 行（統合前 441 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 427 行（統合前 442 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 00:46 [FirstSquawk] US Energy Secretary to CBS: Europe has large diesel stockpiles, some of which could be released to lower global prices
-- 10/05 00:46 [FirstSquawk] Yemeni Prime Minister: Our goal remains steadfast in extending state authority over all of Yemen and ending the Iranian-backed Houthi coup.
-- 10/05 00:46 [FirstSquawk] Yemeni Prime Minister: We are dealing with the latest developments with a high degree of responsibility to pave the way for the recapture of Sanaa and end the suffering of the Yemeni people.
 - 10/05 01:14 [FirstSquawk] Netanyahu: Our enemies want to threaten our ports and our maritime domain in the Mediterranean Sea, and we will not allow that to happen.
 - 10/05 01:14 [FirstSquawk] President of the UAE and the Prime Minister of Italy discuss cooperation relations and regional developments in a phone call.
 - 10/05 01:15 [FirstSquawk] President of the UAE and the Prime Minister of Italy discuss regional developments and efforts to consolidate security and stability in the region.
@@ -450,3 +447,7 @@
 - 10/06 00:39 [financialjuice] US CFTC Chairman Selig in WSJ: Today, the CFTC is proposing its first round of regulations for the crypto markets.
 - 10/06 00:39 [DeItaone] US CFTC CHAIRMAN SELIG IN WSJ: TODAY THE CFTC IS PROPOSING ITS FIRST ROUND OF REGULATIONS FOR CRYPTO MARKETS US CFTC CHAIRMAN SELIG IN WSJ: CFTC IS MOVING TO INSTITUTE RULES AND REGULATIONS THAT ACCOUNT FOR DISTINCTIONS BETWEEN CRYPTO ASSET…
 - 10/06 00:39 [financialjuice] US CFTC CHairman Selig in WSJ: The CFTC is moving to institute rules and regulations that account for distinctions between crypto assets and other types of commodities.
+- 10/06 00:42 [FirstSquawk] YEMEN'S ARMED FORCES SAY THEY HAVE TAKEN CONTROL OF MOCHA
+- 10/06 00:42 [financialjuice] Yemen's Armed Forces: We have taken control of Mocha.
+- 10/06 00:50 [DeItaone] TOTALENERGIES CEO SAYS I PREFER A WORLD OF DISRUPTION RATHER THAN A PEACEFUL WORLD BECAUSE IT CREATES MORE OPPORTUNITIES
+- 10/06 00:57 [FirstSquawk] CFTC: PLANS TO ESTABLISH A PURPOSE-FIT OPTION FOR CRYPTO-ASSET EXCHANGES THAT WISH TO OPERATE UNDER A SINGLE FEDERAL REGULATORY SCHEME
