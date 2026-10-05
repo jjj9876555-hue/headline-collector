@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-05 23:53 JST／対象: 10/04 23:53 〜 10/05 23:53 JST（時刻はすべて日本時間）
+生成: 2026-10-06 00:21 JST／対象: 10/05 00:21 〜 10/06 00:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 42 | 10/05 02:13 | 10/05 23:46 | ⚠ 620分（09:05→19:25） |
-| FirstSquawk | 237 | 10/04 23:58 | 10/05 23:53 | ⚠ 221分（05:36→09:18） |
-| financialjuice | 139 | 10/05 02:06 | 10/05 23:28 | ⚠ 103分（14:12→15:55） |
+| DeItaone | 45 | 10/05 02:13 | 10/06 00:09 | ⚠ 620分（09:05→19:25） |
+| FirstSquawk | 237 | 10/05 00:38 | 10/06 00:18 | ⚠ 221分（05:36→09:18） |
+| financialjuice | 148 | 10/05 02:06 | 10/06 00:15 | ⚠ 103分（14:12→15:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 409 行（統合前 422 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 419 行（統合前 434 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/04 23:58 [FirstSquawk] Syrian Foreign Ministry: We condemn the ongoing violations by the Israeli occupation in Syrian territory.
-- 10/04 23:59 [FirstSquawk] Syrian Foreign Ministry: The continued aggressive approach of the Israeli occupation poses a direct threat to regional security and stability.
-- 10/04 23:59 [FirstSquawk] Syrian Foreign Ministry: We affirm our commitment to our legitimate right to exercise full sovereignty over all our territories.
-- 10/04 23:59 [FirstSquawk] Axios, citing a US official: Central Command seriously objected to launching strikes in Yemen because it could divert attention from Iran
-- 10/05 00:00 [FirstSquawk] Axios, citing a US official: We will not take any military action in Yemen at this time, but that could change.
 - 10/05 00:38 [FirstSquawk] Statement from the military spokesperson for the Yemeni government forces: We announce the start of the battle to liberate and restore institutions and end the coup.
 - 10/05 00:39 [FirstSquawk] Statement from the military spokesperson for the Yemeni government forces: The battle is a bridge to restoring our country to its Arab fold and strategic depth.
 - 10/05 00:39 [FirstSquawk] Statement from the military spokesperson for the Yemeni government forces: We call on the fighters in the terrorist Houthi militia to lay down their weapons.
@@ -433,3 +428,18 @@
 - 10/05 23:46 [DeItaone] HOUTHI MILITARY LEADERS VOW TO INTENSIFY STRIKES Houthi Defense Minister Mohammed Nasser al-Atifi and Chief of Staff Yusuf Hassan al-Madani issued a statement commemorating slain military commander Muhammad Abdulkarim al-Ghamari. They pledg…
 - 10/05 23:50 [FirstSquawk] PETRONAS CEO SAYS LNG MARKET THIS WINTER IS GOING TO BE VERY, VERY TIGHT ESPECIALLY IF EUROPE'S GAS STORAGE GETS LOWER
 - 10/05 23:53 [FirstSquawk] PETRONAS CEO SAYS IF LNG PRICE HITS $40-$50 MMBTU PEOPLE MAY START SWITCHING TO OTHER FORMS OF ENERGY
+- 10/05 23:55 [DeItaone/FirstSquawk] *IRAN SAYS ENEMY’S NEXT MISTAKE WILL BRING NEW FRONTS, SURPRISES
+- 10/05 23:55 [financialjuice] Iran: The enemy’s next mistake will bring new fronts and surprises.
+- 10/05 23:56 [financialjuice] French Unions call for a nationwide day of strikes on November 5th.
+- 10/06 00:00 [FirstSquawk] NASDAQ 100 RISES MORE THAN 0.6% TO SESSION HIGH
+- 10/06 00:02 [financialjuice] US VP Vance: We're looking at procedures in the US after the FlyDubai incident.
+- 10/06 00:02 [financialjuice] US VP Vance on the FlyDubai incident: We haven't seen anything conclusive yet on ties to Iran.
+- 10/06 00:04 [financialjuice] US VP Vance: The US pulled bombers from UK base out of caution.
+- 10/06 00:06 [FirstSquawk/DeItaone] TRUMP TO EASE USE OF TAX-EXEMPT VARIETY OF DIESEL
+- 10/06 00:07 [FirstSquawk] TRUMP TO UNVEIL PLAN ON RED-DYED DIESEL ON MONDAY
+- 10/06 00:07 [financialjuice] Trump is going to unveil a plan on red-dyed diesel on Monday - Officials
+- 10/06 00:08 [DeItaone] TRUMP TO UNVEIL PLAN ON RED-DYED DIESEL ON MONDAY: OFFICIALS
+- 10/06 00:13 [financialjuice] OpenAI is going to add a text watermark to EU ChatGPT users, as an approach to eu text provenance rules.
+- 10/06 00:15 [financialjuice] Fed bids for 3-month bills total $7.2 bln.
+- 10/06 00:15 [financialjuice] Fed bids for 6-month bills total $6.2 bln.
+- 10/06 00:18 [FirstSquawk] OPENAI TO ADD TEXT WATERMARKS TO EU CHATGPT USERS

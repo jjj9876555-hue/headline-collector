@@ -7,42 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-05 23:53 JST／対象: 10/05 17:53 〜 10/05 23:53 JST（時刻はすべて日本時間）
+生成: 2026-10-06 00:21 JST／対象: 10/05 18:21 〜 10/06 00:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 39 | 10/05 19:25 | 10/05 23:46 | 33分（21:14→21:48） |
-| FirstSquawk | 73 | 10/05 18:00 | 10/05 23:53 | 24分（18:10→18:35） |
-| financialjuice | 61 | 10/05 18:00 | 10/05 23:28 | ⚠ 57分（20:15→21:13） |
+| DeItaone | 42 | 10/05 19:25 | 10/06 00:09 | 33分（21:14→21:48） |
+| FirstSquawk | 65 | 10/05 18:35 | 10/06 00:18 | 23分（19:21→19:44） |
+| financialjuice | 64 | 10/05 18:29 | 10/06 00:15 | ⚠ 57分（20:15→21:13） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 166 行（統合前 174 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 162 行（統合前 172 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 18:00 [financialjuice] EUROZONE PPI YOY ACTUAL 8.2% (FORECAST 7.9%, PREVIOUS 5.8%) $MACRO
-- 10/05 18:00 [financialjuice] EUROZONE PPI MOM ACTUAL 1.9% (FORECAST 1.9%, PREVIOUS 1.6%) $MACRO
-- 10/05 18:00 [FirstSquawk] SAUDI ARAMCO'S CEO STATES THAT BY 2040, THE COMPANY WILL PRODUCE ABOUT 9 MILLION BARRELS OF OIL EQUIVALENT DAILY FROM NATURAL GAS.
-- 10/05 18:00 [FirstSquawk] SPAIN'S CRUDE OIL IMPORTS IN AUGUST INCREASED BY 11% YEAR-OVER-YEAR TO 5.7 MILLION TONNES – CORES.
-- 10/05 18:00 [FirstSquawk] SAUDI EAST-WEST OIL PIPELINE IS OPERATING NORMALLY, SOURCES REPORT.
-- 10/05 18:00 [FirstSquawk] SAUDI ARAMCO'S CEO STATES THAT THEY HAVE PLENTY OF INVENTORIES TO MEET CUSTOMER DEMANDS AND INDICATES THAT PHYSICAL OIL BARRELS SOMETIMES TRADE $20-$50/BBL HIGHER THAN THE BRENT BENCHMARK.
-- 10/05 18:00 [FirstSquawk] SAUDI ARAMCO'S CEO STATES THAT WITHOUT THE EAST-WEST PIPELINE, BRENT CRUDE PRICES WOULD HAVE REACHED $200 PER BARREL.
-- 10/05 18:01 [FirstSquawk] SAUDI ARAMCO'S CEO DECLARES THAT CHINESE DEMAND FOR LIQUIDS IN THE CHEMICAL INDUSTRY WILL BOOST OIL DEMAND GROWTH AND COUNTER ANY REDUCTION DUE TO ELECTRIFICATION.
-- 10/05 18:01 [FirstSquawk] SAUDI ARAMCO CEO SAYS THERE IS A STRONG DEMAND FOR INCREASING GLOBAL STOCKS.
-- 10/05 18:01 [financialjuice] Eurozone PPI August 2026 Report
-- 10/05 18:01 [FirstSquawk] SAUDI ARAMCO'S CEO PREDICTS STABLE CRUDE OIL DEMAND FOR THE NEXT TWO YEARS IF CONDITIONS RETURN TO NORMAL.
-- 10/05 18:08 [financialjuice] Aramco CEO: Less than 10% of the world's oil inventory is actually available
-- 10/05 18:09 [financialjuice] Saudi-led coalition: 100 fighter jets took part in an operation in Yemen - Statement
-- 10/05 18:09 [financialjuice] Saudi-led coalition: Attacked 324 'high-value targets' as part of the operation in Yemen
-- 10/05 18:10 [FirstSquawk] CONOCOPHILLIPS CEO STATES SYSTEM STRAINED BUT INTACT, COMPANY FOCUSES ON BOOSTING US OUTPUT, ANTICIPATES OIL PRODUCTION TO REACH 14-14.5 MILLION BPD IF PRICES REMAIN STEADY.
-- 10/05 18:10 [FirstSquawk] ARAMCO REPORTS THAT ONLY UNDER 10% OF GLOBAL OIL SUPPLY IS TRULY ACCESSIBLE.
-- 10/05 18:10 [FirstSquawk] CONOCOPHILLIPS CEO PREDICTS OIL PRICE FLOOR MAY RISE TO ABOUT $70 PER BARREL, EXPECTS MID-CYCLE PRICES FOR WTI TO RANGE BETWEEN $65 AND $70 PER BARREL.
-- 10/05 18:10 [FirstSquawk] SAUDI-LED COALITION CLAIMS 100 FIGHTER JETS PARTICIPATED IN AN OPERATION IN YEMEN, ATTACKING 324 'HIGH-VALUE TARGETS'.
-- 10/05 18:10 [FirstSquawk] SAUDI-LED COALITION ANNOUNCES AIR SUPPORT FOR YEMENI FORCES.
 - 10/05 18:29 [financialjuice] Venezuela is far from setting durable investment terms - Conoco
 - 10/05 18:30 [financialjuice] Kremlin on Zelenskiy saying that Ukraine will hit Russian oil refineries: Ukraine will pay the price
 - 10/05 18:31 [financialjuice] Conoco sees US oil output above 14M b/d in 2027 if prices hold
@@ -190,3 +171,18 @@
 - 10/05 23:46 [DeItaone] HOUTHI MILITARY LEADERS VOW TO INTENSIFY STRIKES Houthi Defense Minister Mohammed Nasser al-Atifi and Chief of Staff Yusuf Hassan al-Madani issued a statement commemorating slain military commander Muhammad Abdulkarim al-Ghamari. They pledg…
 - 10/05 23:50 [FirstSquawk] PETRONAS CEO SAYS LNG MARKET THIS WINTER IS GOING TO BE VERY, VERY TIGHT ESPECIALLY IF EUROPE'S GAS STORAGE GETS LOWER
 - 10/05 23:53 [FirstSquawk] PETRONAS CEO SAYS IF LNG PRICE HITS $40-$50 MMBTU PEOPLE MAY START SWITCHING TO OTHER FORMS OF ENERGY
+- 10/05 23:55 [DeItaone/FirstSquawk] *IRAN SAYS ENEMY’S NEXT MISTAKE WILL BRING NEW FRONTS, SURPRISES
+- 10/05 23:55 [financialjuice] Iran: The enemy’s next mistake will bring new fronts and surprises.
+- 10/05 23:56 [financialjuice] French Unions call for a nationwide day of strikes on November 5th.
+- 10/06 00:00 [FirstSquawk] NASDAQ 100 RISES MORE THAN 0.6% TO SESSION HIGH
+- 10/06 00:02 [financialjuice] US VP Vance: We're looking at procedures in the US after the FlyDubai incident.
+- 10/06 00:02 [financialjuice] US VP Vance on the FlyDubai incident: We haven't seen anything conclusive yet on ties to Iran.
+- 10/06 00:04 [financialjuice] US VP Vance: The US pulled bombers from UK base out of caution.
+- 10/06 00:06 [FirstSquawk/DeItaone] TRUMP TO EASE USE OF TAX-EXEMPT VARIETY OF DIESEL
+- 10/06 00:07 [FirstSquawk] TRUMP TO UNVEIL PLAN ON RED-DYED DIESEL ON MONDAY
+- 10/06 00:07 [financialjuice] Trump is going to unveil a plan on red-dyed diesel on Monday - Officials
+- 10/06 00:08 [DeItaone] TRUMP TO UNVEIL PLAN ON RED-DYED DIESEL ON MONDAY: OFFICIALS
+- 10/06 00:13 [financialjuice] OpenAI is going to add a text watermark to EU ChatGPT users, as an approach to eu text provenance rules.
+- 10/06 00:15 [financialjuice] Fed bids for 3-month bills total $7.2 bln.
+- 10/06 00:15 [financialjuice] Fed bids for 6-month bills total $6.2 bln.
+- 10/06 00:18 [FirstSquawk] OPENAI TO ADD TEXT WATERMARKS TO EU CHATGPT USERS
