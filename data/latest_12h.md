@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-05 14:08 JST／対象: 10/05 02:08 〜 10/05 14:08 JST（時刻はすべて日本時間）
+生成: 2026-10-05 14:31 JST／対象: 10/05 02:31 〜 10/05 14:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 3 | 10/05 02:13 | 10/05 09:05 | ⚠ 411分（02:14→09:05） |
-| FirstSquawk | 90 | 10/05 02:11 | 10/05 14:07 | ⚠ 221分（05:36→09:18） |
-| financialjuice | 42 | 10/05 03:18 | 10/05 14:04 | ⚠ 102分（05:17→07:00） |
+| DeItaone | 1 | 10/05 09:05 | 10/05 09:05 | - |
+| FirstSquawk | 98 | 10/05 02:33 | 10/05 14:27 | ⚠ 221分（05:36→09:18） |
+| financialjuice | 47 | 10/05 03:18 | 10/05 14:12 | ⚠ 102分（05:17→07:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 134 行（統合前 138 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 145 行（統合前 149 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 02:11 [FirstSquawk] Israeli army: Today in an airstrike on Khan Younis, we killed a member of Hamas' elite unit.
-- 10/05 02:11 [FirstSquawk] Israeli airstrike on the town of Haddatha in the Bint Jbeil district of southern Lebanon
-- 10/05 02:12 [FirstSquawk] Iranian official media: Resignation of the Iranian Oil Minister
-- 10/05 02:13 [DeItaone] IRAN'S OIL MINISTER RESIGNS - STATE MEDIA
-- 10/05 02:14 [DeItaone] MUSK TO RENAME SPACEXAI AS “SPACEXSI” Elon Musk says he will rename SpaceXAI to SpaceXSI, adopting President Trump’s push to replace “artificial intelligence” with “super intelligence.” Musk confirmed the change on X, saying “Yes, we will m…
 - 10/05 02:33 [FirstSquawk] GERMAN PRESIDENT FRANK-WALTER STEINMEIER SAYS 'WE TOOK IN IMMIGRANTS WHO HELPED BUILD OUR COUNTRY AND TIED THEIR FATE TO OURS', ADDING THAT 'GERMANY IS THEIR HOMELAND'.
 - 10/05 02:34 [FirstSquawk] GERMAN PRESIDENT FRANK-WALTER STEINMEIER SAYS THAT 'EVEN MORE THAN 80 YEARS AFTER LIBERATION FROM THE NATIONAL SOCIALIST REGIME, HISTORICAL IGNORANCE WILL NOT BE FORGIVEN', WARNING THAT 'A NEW GERMAN NATIONALISM AWAKENS THE GHOSTS OF THE PA…
 - 10/05 02:34 [FirstSquawk] GERMAN PRESIDENT FRANK-WALTER STEINMEIER SAYS 'WE MUST ASK OURSELVES, WITHOUT SPARING OURSELVES, WHAT GOVERNMENTS AT THE FEDERAL AND STATE LEVELS HAVE FAILED TO DO OVER THE PAST THREE AND A HALF DECADES IF SO MANY PEOPLE ARE TURNING AWAY AN…
@@ -158,3 +153,19 @@
 - 10/05 14:05 [FirstSquawk] JAPAN'S PM TAKAICHI KICKS OFF DIET SESSION WITH SPEECH.
 - 10/05 14:05 [FirstSquawk] TAKAICHI SAYS THAT ACHIEVING ROBUST AND SUSTAINABLE GROWTH IS HIS BEGINNING FOCUS.
 - 10/05 14:07 [FirstSquawk] TAKAIHI URGES STRONG ACTION TO AVOID FUTURE INCIDENTS IN OKINAWA.
+- 10/05 14:09 [financialjuice] JAPANESE CONSUMER CONFIDENCE ACTUAL 35.4 (FORECAST 35.3, PREVIOUS 35.5) $MACRO
+- 10/05 14:12 [financialjuice] Japan's PM Takaichi: We will control the annual debt issuance amount appropriately while scrutinising the economy, prices, tax revenues, interest rates, debt-servicing costs, and market developments
+- 10/05 14:12 [financialjuice] Japan's PM Takaichi: We will seek to enhance market trust in our policies by communicating closely with the public, domestic and overseas market players
+- 10/05 14:12 [financialjuice] Japan PM Takaichi: If economy, markets make unexpected movements, we will analyse their impact, respond nimbly as needed.
+- 10/05 14:12 [financialjuice] Japan's PM Takaichi: We will draw up a 5-year investment plan by year-end
+- 10/05 14:13 [FirstSquawk] TAKAICHI SAYS JAPAN WILL CREATE A POSITIVE CYCLE THROUGH GDP GROWTH.
+- 10/05 14:13 [FirstSquawk] TAKAICHI PLANS TO MANAGE YEARLY DEBT ISSUANCE EFFECTIVELY.
+- 10/05 14:13 [FirstSquawk] TAKAICHI SAID THEY WILL ACT QUICKLY IF THERE ARE UNEXPECTED CHANGES IN THE ECONOMY OR MARKETS.
+- 10/05 14:13 [FirstSquawk] TAKAICHI PROMISES TO INCREASE MARKET CONFIDENCE IN THE GOVERNMENT THROUGH A DIRECT METHOD.
+- 10/05 14:13 [FirstSquawk] TAKAICHI PLANS TO CREATE A 5-YEAR INVESTMENT STRATEGY BY THE END OF THIS YEAR.
+- 10/05 14:13 [FirstSquawk] AUSTRALIA'S S&P/ASX 200 ENDS ALMOST UNCHANGED AT 8,685.60.
+- 10/05 14:13 [FirstSquawk] BT MAY ANNOUNCE DEAL WITH TALKTALK ON MONDAY, ACCORDING TO FT.
+- 10/05 14:16 [FirstSquawk] RUSSIAN DEFENCE MINISTRY CONFIRMED ATTACK ON CARGO SHIP IN BLACK SEA.
+- 10/05 14:21 [FirstSquawk] NASDAQ 100 FUTURES LOST ALL OF THEIR EARLY GAIN OF 0.5%.
+- 10/05 14:26 [FirstSquawk] TAKAICHI SAYS NO TO USING DEFICIT-FINANCE BONDS FOR SALES TAX FUNDING.
+- 10/05 14:27 [FirstSquawk] TAKAICHI URGES CHINA TO TAKE RESPONSIBLE STEPS REGARDING CURRENT PROBLEMS.

@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-05 14:08 JST／対象: 10/04 14:08 〜 10/05 14:08 JST（時刻はすべて日本時間）
+生成: 2026-10-05 14:31 JST／対象: 10/04 14:31 〜 10/05 14:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 10/04 18:55 | 10/05 09:05 | ⚠ 411分（02:14→09:05） |
-| FirstSquawk | 195 | 10/04 14:10 | 10/05 14:07 | ⚠ 221分（05:36→09:18） |
-| financialjuice | 69 | 10/04 15:21 | 10/05 14:04 | ⚠ 199分（22:46→02:06） |
+| FirstSquawk | 198 | 10/04 14:41 | 10/05 14:27 | ⚠ 221分（05:36→09:18） |
+| financialjuice | 74 | 10/04 15:21 | 10/05 14:12 | ⚠ 199分（22:46→02:06） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 265 行（統合前 275 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 273 行（統合前 283 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/04 14:10 [FirstSquawk] Japan’s Ground Self-Defense Force Showcases Long-Range Type-25 Missile System – Kyodo
-- 10/04 14:11 [FirstSquawk] Bosnia Vote Highlights Tension Between EU Integration Hopes and Russian Influence – FT
-- 10/04 14:15 [FirstSquawk] SoftBank’s Balance Sheet Struggles to Keep Pace With Masayoshi Son’s AI Ambitions – FT
-- 10/04 14:16 [FirstSquawk] Ukraine’s Unconventional Robot Offensive Puts a Weak Point in Russia’s War Machine on Display - CNBC
-- 10/04 14:18 [FirstSquawk] Israelis Move Quickly to Get New Settlements Underway Ahead of Election - FT
-- 10/04 14:20 [FirstSquawk] US-Russia Negotiations May Include Potential Multi-Billion-Dollar Lukoil Deal, NYT Reports
-- 10/04 14:22 [FirstSquawk] Google Faces £1.2 Billion UK Legal Challenge Over ‘Excessive’ App Download Charges – FT
-- 10/04 14:24 [FirstSquawk] Nine Ukrainian Drones Targeting Moscow Destroyed, Russia Says
 - 10/04 14:41 [FirstSquawk] Trump’s cost-of-living performance gets approval from just 17% of U.S. adults: AP
 - 10/04 14:42 [FirstSquawk] US Marine detained in Okinawa on suspicion of robbing and murdering Japanese woman - RTRS
 - 10/04 14:47 [FirstSquawk] Vietjet Thailand plans major fleet expansion to 50 aircraft by 2028 as international network grows -NA
@@ -289,3 +281,19 @@
 - 10/05 14:05 [FirstSquawk] JAPAN'S PM TAKAICHI KICKS OFF DIET SESSION WITH SPEECH.
 - 10/05 14:05 [FirstSquawk] TAKAICHI SAYS THAT ACHIEVING ROBUST AND SUSTAINABLE GROWTH IS HIS BEGINNING FOCUS.
 - 10/05 14:07 [FirstSquawk] TAKAIHI URGES STRONG ACTION TO AVOID FUTURE INCIDENTS IN OKINAWA.
+- 10/05 14:09 [financialjuice] JAPANESE CONSUMER CONFIDENCE ACTUAL 35.4 (FORECAST 35.3, PREVIOUS 35.5) $MACRO
+- 10/05 14:12 [financialjuice] Japan's PM Takaichi: We will control the annual debt issuance amount appropriately while scrutinising the economy, prices, tax revenues, interest rates, debt-servicing costs, and market developments
+- 10/05 14:12 [financialjuice] Japan's PM Takaichi: We will seek to enhance market trust in our policies by communicating closely with the public, domestic and overseas market players
+- 10/05 14:12 [financialjuice] Japan PM Takaichi: If economy, markets make unexpected movements, we will analyse their impact, respond nimbly as needed.
+- 10/05 14:12 [financialjuice] Japan's PM Takaichi: We will draw up a 5-year investment plan by year-end
+- 10/05 14:13 [FirstSquawk] TAKAICHI SAYS JAPAN WILL CREATE A POSITIVE CYCLE THROUGH GDP GROWTH.
+- 10/05 14:13 [FirstSquawk] TAKAICHI PLANS TO MANAGE YEARLY DEBT ISSUANCE EFFECTIVELY.
+- 10/05 14:13 [FirstSquawk] TAKAICHI SAID THEY WILL ACT QUICKLY IF THERE ARE UNEXPECTED CHANGES IN THE ECONOMY OR MARKETS.
+- 10/05 14:13 [FirstSquawk] TAKAICHI PROMISES TO INCREASE MARKET CONFIDENCE IN THE GOVERNMENT THROUGH A DIRECT METHOD.
+- 10/05 14:13 [FirstSquawk] TAKAICHI PLANS TO CREATE A 5-YEAR INVESTMENT STRATEGY BY THE END OF THIS YEAR.
+- 10/05 14:13 [FirstSquawk] AUSTRALIA'S S&P/ASX 200 ENDS ALMOST UNCHANGED AT 8,685.60.
+- 10/05 14:13 [FirstSquawk] BT MAY ANNOUNCE DEAL WITH TALKTALK ON MONDAY, ACCORDING TO FT.
+- 10/05 14:16 [FirstSquawk] RUSSIAN DEFENCE MINISTRY CONFIRMED ATTACK ON CARGO SHIP IN BLACK SEA.
+- 10/05 14:21 [FirstSquawk] NASDAQ 100 FUTURES LOST ALL OF THEIR EARLY GAIN OF 0.5%.
+- 10/05 14:26 [FirstSquawk] TAKAICHI SAYS NO TO USING DEFICIT-FINANCE BONDS FOR SALES TAX FUNDING.
+- 10/05 14:27 [FirstSquawk] TAKAICHI URGES CHINA TO TAKE RESPONSIBLE STEPS REGARDING CURRENT PROBLEMS.
