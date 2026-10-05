@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-05 11:56 JST／対象: 10/04 23:56 〜 10/05 11:56 JST（時刻はすべて日本時間）
+生成: 2026-10-05 12:20 JST／対象: 10/05 00:20 〜 10/05 12:20 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 10/05 02:13 | 10/05 09:05 | ⚠ 411分（02:14→09:05） |
-| FirstSquawk | 82 | 10/04 23:58 | 10/05 11:42 | ⚠ 221分（05:36→09:18） |
-| financialjuice | 25 | 10/05 02:06 | 10/05 11:27 | ⚠ 102分（05:17→07:00） |
+| FirstSquawk | 77 | 10/05 00:38 | 10/05 11:42 | ⚠ 221分（05:36→09:18） |
+| financialjuice | 27 | 10/05 02:06 | 10/05 12:06 | ⚠ 102分（05:17→07:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 108 行（統合前 113 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 105 行（統合前 110 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/04 23:58 [FirstSquawk] Syrian Foreign Ministry: We condemn the ongoing violations by the Israeli occupation in Syrian territory.
-- 10/04 23:59 [FirstSquawk] Syrian Foreign Ministry: The continued aggressive approach of the Israeli occupation poses a direct threat to regional security and stability.
-- 10/04 23:59 [FirstSquawk] Syrian Foreign Ministry: We affirm our commitment to our legitimate right to exercise full sovereignty over all our territories.
-- 10/04 23:59 [FirstSquawk] Axios, citing a US official: Central Command seriously objected to launching strikes in Yemen because it could divert attention from Iran
-- 10/05 00:00 [FirstSquawk] Axios, citing a US official: We will not take any military action in Yemen at this time, but that could change.
 - 10/05 00:38 [FirstSquawk] Statement from the military spokesperson for the Yemeni government forces: We announce the start of the battle to liberate and restore institutions and end the coup.
 - 10/05 00:39 [FirstSquawk] Statement from the military spokesperson for the Yemeni government forces: The battle is a bridge to restoring our country to its Arab fold and strategic depth.
 - 10/05 00:39 [FirstSquawk] Statement from the military spokesperson for the Yemeni government forces: We call on the fighters in the terrorist Houthi militia to lay down their weapons.
@@ -132,3 +127,5 @@
 - 10/05 11:31 [FirstSquawk] Euro drops to $1.1213, weakest since May 2025, down 0.35%
 - 10/05 11:33 [FirstSquawk] IMF reaches staff-level deal on seventh review of Sri Lanka’s Extended Fund Facility
 - 10/05 11:42 [FirstSquawk] UK to impose tariffs on Chinese electric cars, The Times reports
+- 10/05 12:05 [financialjuice] Euro declines further, down 0.7% at $1.11735
+- 10/05 12:06 [financialjuice] Sterling falls 0.27% to $1.32019

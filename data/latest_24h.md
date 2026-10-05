@@ -7,48 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-05 11:56 JST／対象: 10/04 11:56 〜 10/05 11:56 JST（時刻はすべて日本時間）
+生成: 2026-10-05 12:20 JST／対象: 10/04 12:20 〜 10/05 12:20 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 10/04 18:55 | 10/05 09:05 | ⚠ 411分（02:14→09:05） |
-| FirstSquawk | 221 | 10/04 12:00 | 10/05 11:42 | ⚠ 221分（05:36→09:18） |
-| financialjuice | 52 | 10/04 13:16 | 10/05 11:27 | ⚠ 199分（22:46→02:06） |
+| FirstSquawk | 196 | 10/04 12:21 | 10/05 11:42 | ⚠ 221分（05:36→09:18） |
+| financialjuice | 54 | 10/04 13:16 | 10/05 12:06 | ⚠ 199分（22:46→02:06） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 274 行（統合前 284 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 251 行（統合前 261 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/04 12:00 [FirstSquawk] Turkish Arms Maker Seeks Closer Japan Ties In Air Defense, Underwater Drone Systems - NA
-- 10/04 12:01 [FirstSquawk] Latvia’s Ruling United List Ahead With 36.6% As Vote Count Passes 66%
-- 10/04 12:01 [FirstSquawk] Petroecuador Says SOTE Pipeline Operations Could Resume Within Six Days
-- 10/04 12:02 [FirstSquawk] White House Forms AI Task Force To Examine Risks, Opportunities And Federal Government’s Role - WSJ
-- 10/04 12:03 [FirstSquawk] Fire At SOTE Pipeline Pumping Station Prompts Petroecuador To Declare Force Majeure
-- 10/04 12:03 [FirstSquawk] US State Department Says Ethiopia-Eritrea Cross-Border Tensions Could Have Regional Impact
-- 10/04 12:03 [FirstSquawk] US Calls On Ethiopia And Eritrea To Respect Sovereignty And Territorial Integrity Of Neighbors
-- 10/04 12:04 [FirstSquawk] US Strongly Urges Ethiopia, Eritrea To Return To Dialogue And Cooperation
-- 10/04 12:11 [FirstSquawk] Al Masirah TV Reports Saudi Strike On Sanaa, No Confirmation From Riyadh
-- 10/04 12:11 [FirstSquawk] KCNA Says North Korea Conducted Intermediate-Range Strategic Missile Launch Exercise
-- 10/04 12:12 [FirstSquawk] KCNA Says North Korean Missile Struck Target 1,000 Km From Launch Site
-- 10/04 12:12 [FirstSquawk] KCNA Says Kim Jong Un Oversaw North Korea’s Missile Tes
-- 10/04 12:13 [FirstSquawk] Genmab Says Rina-S Demonstrated Durable Responses In Phase 2 Ovarian Cancer Trial
-- 10/04 12:13 [FirstSquawk] Iraq’s Oil Tanker Company Looks To Acquire Specialized Crude Tankers For Fleet Expansion
-- 10/04 12:14 [FirstSquawk] Iraq Seeks More Flexibility For SOMO In Oil Sales Through Latest Move
-- 10/04 12:14 [FirstSquawk] Iraq Says 2 Million Barrels Of Crude Have Been Moved Beyond Strait Of Hormuz
-- 10/04 12:14 [FirstSquawk] Iraqi Oil Tankers Co. Says Latest Shipment Is First Of Its Kind In Decades
-- 10/04 12:15 [FirstSquawk] Yemen’s Houthis Claim Attack On Riyadh Aramco Facility Using Missiles And Drones
-- 10/04 12:15 [FirstSquawk] Saudi Arabia Yet To Confirm Houthi Claim Of Attack On Riyadh Aramco Facility
-- 10/04 12:16 [FirstSquawk] Air Services Between Iran And Iraq’s Najaf To Resume On Sunday
-- 10/04 12:17 [FirstSquawk] Latvia PM Kulbergs: Economic Ties With Russia Would Make Us Vulnerable
-- 10/04 12:18 [FirstSquawk] Latvia PM Kulbergs Calls Stronger-Than-Expected Exit Poll Support A Major Response From Voters
-- 10/04 12:19 [FirstSquawk] Latvia PM Kulbergs: We Will Not Cooperate With Pro-Russian Parties
-- 10/04 12:19 [FirstSquawk] Latvia PM Kulbergs Rules Out Government Coalition With Latvia First Party
-- 10/04 12:20 [FirstSquawk] Latvia PM Kulbergs Says He Wants To Stay On As Prime Minister After Election
 - 10/04 12:21 [FirstSquawk] Latvia’s United List Seen As Largest Parliamentary Group In Exit Poll
 - 10/04 12:22 [FirstSquawk] 20-Year-Old US Marine Denies Charges In Suspected Okinawa Robbery-Murder Case - NA
 - 10/04 12:23 [FirstSquawk] Ukrainian Shelling Damages External Power Equipment At Zaporizhzhia Nuclear Plant, Situation Under Control
@@ -298,3 +273,5 @@
 - 10/05 11:31 [FirstSquawk] Euro drops to $1.1213, weakest since May 2025, down 0.35%
 - 10/05 11:33 [FirstSquawk] IMF reaches staff-level deal on seventh review of Sri Lanka’s Extended Fund Facility
 - 10/05 11:42 [FirstSquawk] UK to impose tariffs on Chinese electric cars, The Times reports
+- 10/05 12:05 [financialjuice] Euro declines further, down 0.7% at $1.11735
+- 10/05 12:06 [financialjuice] Sterling falls 0.27% to $1.32019
