@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-06 07:52 JST／対象: 10/06 01:52 〜 10/06 07:52 JST（時刻はすべて日本時間）
+生成: 2026-10-06 08:05 JST／対象: 10/06 02:05 〜 10/06 08:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 17 | 10/06 02:00 | 10/06 07:39 | ⚠ 206分（03:52→07:19） |
-| FirstSquawk | 70 | 10/06 01:57 | 10/06 07:02 | 43分（02:02→02:46） |
-| financialjuice | 55 | 10/06 01:56 | 10/06 07:45 | ⚠ 87分（06:00→07:27） |
+| DeItaone | 15 | 10/06 02:27 | 10/06 07:39 | ⚠ 206分（03:52→07:19） |
+| FirstSquawk | 68 | 10/06 02:46 | 10/06 08:01 | ⚠ 59分（07:02→08:01） |
+| financialjuice | 50 | 10/06 02:53 | 10/06 07:45 | ⚠ 87分（06:00→07:27） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 137 行（統合前 144 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 128 行（統合前 135 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/06 01:56 [financialjuice] Iran's President Pezeshkian: Negotiating with an enemy that constantly threatens and terrorizes us, and breaks its promises, is meaningless - Tasnim News.
-- 10/06 01:57 [FirstSquawk] EXPLOSIONS HEARD IN RIYADH; FLIGHTS SUSPENDED AT AIRPORT - FARS
-- 10/06 01:58 [financialjuice] Iran's President Pezeshkian: Every time inspectors come to Iran, our nuclear facilities and scientists are identified, and then these facilities are bombed, and our scientists are assassinated - Tasnim News.
-- 10/06 01:59 [FirstSquawk/DeItaone] IRAN'S PRESIDENT ON THE US: NEGOTIATION HAS NO MEANING WITH ' AN ENEMY THAT TERRORIZES, SANCTIONS, PRESSURES AND THREATENS ON A DAILY BASIS ' - STATE MEDIA
-- 10/06 02:00 [financialjuice] Explosion heard in Riyadh - ISNA.
-- 10/06 02:00 [DeItaone] FRENCH CENTRAL BANK HEAD EMMANUEL MOULIN WARNS STATE AT RISK OF BEING ‘STRANGLED BY INTEREST RATES’ - FT
-- 10/06 02:00 [financialjuice] French Central Bank Head Moulin warns that the state is at risk of being ‘strangled by interest rates’ - FT.
-- 10/06 02:01 [financialjuice] French central bank head warns country at risk of being ‘strangled by interest rates’ - FT
-- 10/06 02:02 [FirstSquawk] US 10-YEAR TREASURY YIELD RISES TO 5.34%, FRESH HIGH SINCE 2002
 - 10/06 02:27 [DeItaone] RUSSIA PROBES DEATH OF WORKER AT ANTI-PLAGUE INSTITUTE Russian authorities are investigating the death of a woman employed at an infectious-disease research institute in Siberia after she developed pneumonia of unknown origin. Contacts are …
 - 10/06 02:44 [DeItaone] U.S. STOCKS EXTEND GAINS, NASDAQ UP 1.00%
 - 10/06 02:46 [FirstSquawk] OPENAI EXPANDS CONTENT PROVENANCE TO INCLUDE TEXT IN RESPONSES TO EU REGULATORY REQUIREMENTS
@@ -160,4 +151,4 @@
 - 10/06 07:27 [financialjuice] Trump: I have chosen to run ads and finance them myself, using funds raised for Maga Inc.
 - 10/06 07:39 [DeItaone] TRUMP: HAVE DECIDED TO DO ADS AND PAY FOR THEM MYSELF, AND WITH MONEY I RAISED FOR MAGA, INC.
 - 10/06 07:44 [financialjuice] Skyworks announces expiration and final outcomes of exchange offers for Qorvo senior notes due 2029 and 2031
-- 10/06 07:45 [financialjuice] Australian army soldier dies, five others hurt in training exercise in northern Australia: ABC News
+- 10/06 07:45 [financialjuice/FirstSquawk] Australian army soldier dies, five others hurt in training exercise in northern Australia: ABC News

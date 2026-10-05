@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-06 07:52 JST／対象: 10/05 19:52 〜 10/06 07:52 JST（時刻はすべて日本時間）
+生成: 2026-10-06 08:05 JST／対象: 10/05 20:05 〜 10/06 08:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 59 | 10/05 19:54 | 10/06 07:39 | ⚠ 206分（03:52→07:19） |
-| FirstSquawk | 132 | 10/05 19:58 | 10/06 07:02 | 43分（02:02→02:46） |
-| financialjuice | 123 | 10/05 19:59 | 10/06 07:45 | ⚠ 87分（06:00→07:27） |
+| DeItaone | 57 | 10/05 20:23 | 10/06 07:39 | ⚠ 206分（03:52→07:19） |
+| FirstSquawk | 130 | 10/05 20:08 | 10/06 08:01 | ⚠ 59分（07:02→08:01） |
+| financialjuice | 121 | 10/05 20:15 | 10/06 07:45 | ⚠ 87分（06:00→07:27） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 300 行（統合前 317 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 293 行（統合前 311 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 19:54 [DeItaone] FIFTEEN-YEAR-OLD STUDENT HAS HAND BLOWN OFF DURING FRENCH SCHOOL PROTESTS, LOCAL OFFICIAL SAYS
-- 10/05 19:58 [DeItaone] CITI ADDS FOUR STOCKS TO 90-DAY UPSIDE CATALYST WATCH Citi has added four healthcare stocks to its 90-Day Upside Catalyst Watch List: • Sight Sciences ( $SGHT) • Zimmer Biomet ( $ZBH) • Edwards Lifesciences ( $EW) • Boston Scientific ( $BSX…
-- 10/05 19:58 [FirstSquawk] BOSTON SCIENTIFIC GETS DOWNSIDE 90 DAY CATALYST AT CITI
-- 10/05 19:59 [financialjuice] Altman expects calls for guardrails will continue -Politico
-- 10/05 20:01 [FirstSquawk] ISRAEL TO CONTINUE STRIKING HEZBOLLAH, SEEK LEBANON PEACE: PM
-- 10/05 20:03 [financialjuice] US ambassador to China: Trump is as strong on Taiwan as ever seen
-- 10/05 20:03 [FirstSquawk] C.H. ROBINSON TO BUY RXO FOR IMPLIED DEAL VALUE OF $30.25/SHR
 - 10/05 20:08 [FirstSquawk] BOND TURBULENCE MEANS IT’S TIME FOR THE ECB TO PUT QT ON HOLD – FT
 - 10/05 20:15 [financialjuice] US Commerce Secretary Lutnick to meet UK government business advisor and CEOs
 - 10/05 20:15 [FirstSquawk] WELLS: UK HAS TRIED & TESTED APPROACHES TO DEFENDING OUR BASES
@@ -323,4 +316,4 @@
 - 10/06 07:27 [financialjuice] Trump: I have chosen to run ads and finance them myself, using funds raised for Maga Inc.
 - 10/06 07:39 [DeItaone] TRUMP: HAVE DECIDED TO DO ADS AND PAY FOR THEM MYSELF, AND WITH MONEY I RAISED FOR MAGA, INC.
 - 10/06 07:44 [financialjuice] Skyworks announces expiration and final outcomes of exchange offers for Qorvo senior notes due 2029 and 2031
-- 10/06 07:45 [financialjuice] Australian army soldier dies, five others hurt in training exercise in northern Australia: ABC News
+- 10/06 07:45 [financialjuice/FirstSquawk] Australian army soldier dies, five others hurt in training exercise in northern Australia: ABC News
