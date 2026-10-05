@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-06 02:55 JST／対象: 10/05 02:55 〜 10/06 02:55 JST（時刻はすべて日本時間）
+生成: 2026-10-06 03:23 JST／対象: 10/05 03:23 〜 10/06 03:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 55 | 10/05 09:05 | 10/06 02:44 | ⚠ 620分（09:05→19:25） |
-| FirstSquawk | 225 | 10/05 03:25 | 10/06 02:52 | ⚠ 221分（05:36→09:18） |
-| financialjuice | 170 | 10/05 03:18 | 10/06 02:53 | ⚠ 103分（14:12→15:55） |
+| DeItaone | 60 | 10/05 09:05 | 10/06 03:22 | ⚠ 620分（09:05→19:25） |
+| FirstSquawk | 234 | 10/05 03:25 | 10/06 03:20 | ⚠ 221分（05:36→09:18） |
+| financialjuice | 180 | 10/05 03:55 | 10/06 03:21 | ⚠ 103分（14:12→15:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 439 行（統合前 454 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 462 行（統合前 479 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 03:18 [financialjuice] One leftist, two nationalist contenders lead election for Bosnia's inter-ethnic tripartite presidency, partial preliminary results show
 - 10/05 03:25 [FirstSquawk] IRAN OIL MINISTER STEPS DOWN: STATE MEDIA
 - 10/05 03:27 [FirstSquawk] TRUMP SAYS 'THE POLLS HAVE ALWAYS UNDERESTIMATED MAGA', CLAIMING 'THEY TRY TO SUPPRESS THE VOTE' BUT THAT HE 'WON ALL 7 SWING STATES, THE POPULAR VOTE, 86% OF COUNTIES, AND 99% OF PRIMARIES THIS YEAR', ADDING 'I AM ON THE BALLOT' - TRUTH SO…
 - 10/05 03:28 [FirstSquawk] TRUMP SAYS 'THE KENNEDY CENTER IS CRUMBLING, AND A GREAT DANGER TO ANYONE WHO WALKS INSIDE', CLAIMING IT 'HAS BEEN THIS WAY FOR YEARS, AND WILL ONLY GET WORSE UNLESS THE RADICAL LEFT JUDGE, WITH HIS TRUMP HATING LAWYER WIFE, ALLOWS ME TO DO…
@@ -463,3 +462,27 @@
 - 10/06 02:52 [FirstSquawk] ISRAELI SHIN BET PERSONNEL IN UAE TO JOIN INVESTIGATION INTO FLYDUBAI INCIDENT — N12
 - 10/06 02:53 [financialjuice] UKMTO: Received a report of an incident within the Strait of Hormuz.
 - 10/06 02:53 [financialjuice] UKMTO: Captain of the tanker reports being struck by an unknown projectile, causing a fire in the engine room.
+- 10/06 02:56 [FirstSquawk] TRUMP SAYS WHAT'S DRIVING UP GASOLINE IS 'NO LONGER THE STRAIT OF HORMUZ, BECAUSE RECORD NUMBERS OF BARRELS ARE COMING OUT NOW ON AN ALMOST DAILY BASIS', BUT RATHER 'REFINERIES'. - TRUTH SOCIAL
+- 10/06 02:56 [FirstSquawk] TRUMP SAYS THIS IS 'WHERE RUSSIA'S ARE BEING BLOWN UP BY UKRAINE, AND WHERE OURS ARE BEING CLOSED UP, IN BLUE STATES, LIKE CALIFORNIA, BY THE DUMOCRATS'. - TRUTH SOCIAL
+- 10/06 02:58 [FirstSquawk] UKMTO: TANKER STRUCK BY UNKNOWN PROJECTILE IN STRAIT OF HORMUZ, SPARKING ENGINE-ROOM FIRE; NO CASUALTIES OR ENVIRONMENTAL IMPACT REPORTED
+- 10/06 03:01 [financialjuice] Israeli security officials, including Shin Bet representatives, travel to UAE to participate in interrogation of Omani pilot - Kann News
+- 10/06 03:01 [FirstSquawk] BOEING HAS RECEIVED A SEVEN-YEAR CONTRACT TO ACCELERATE PAC-3 MSE SEEKER OUTPUT, AWARDED A $14.70 BLN CONTRACT BY LOCKHEED MARTIN FOR PAC-3 MSE SEEKERS, WITH THE CONTRACT FORMALIZING A SEVEN-YEAR FRAMEWORK TO TRIPLE PAC-3 MSE SEEKER PRODUCT…
+- 10/06 03:02 [financialjuice] Saudi Defence Minister: Mecca Defence Alliance committee says collective deterrence measures will confront attacks and those responsible
+- 10/06 03:03 [financialjuice] Shuja'ab News Agency Reports indicate that a missile may have struck Riyadh airport - IRIB News
+- 10/06 03:06 [financialjuice] Pakistan Foreign Ministry: Pakistan, Saudi Arabia and Turkey agree to provide agreed military forces and capabilities.
+- 10/06 03:08 [FirstSquawk] US EMBASSY IN RIYADH URGES AMERICANS TO REMAIN VIGILANT AND FOLLOW SAUDI CIVIL DEFENSE ALERTS
+- 10/06 03:09 [financialjuice] Pakistan Foreign Ministry: Agreed military forces and capabilities to be rapidly deployed in Saudi Arabia.
+- 10/06 03:12 [FirstSquawk] PAKISTAN'S FOREIGN MINISTRY SAYS SAUDI ARABIA, PAKISTAN AND TURKEY CONVENED AN EMERGENCY MEETING OF THE STRATEGIC-POLITICAL AND DEFENSE COMMITTEE OF THE MECCA ALLIANCE, APPOINTING PAKISTAN'S NAUMAN MAHMOOD AS THE FIRST SECRETARY-GENERAL OF …
+- 10/06 03:12 [FirstSquawk] PAKISTAN'S FOREIGN MINISTRY SAYS PAKISTAN, SAUDI ARABIA AND TURKEY AGREED TO PROVIDE AGREED MILITARY FORCES AND CAPABILITIES — TO BE RAPIDLY DEPLOYED IN SAUDI ARABIA — AND CONDEMNED THE ATTEMPTED TARGETING OF MECCA AND MADINAH.
+- 10/06 03:13 [DeItaone] SAUDI ARABIA, PAKISTAN, TURKEY AGREE RAPID MILITARY DEPLOYMENT Saudi Arabia, Pakistan and Turkey convened an emergency meeting of the Mecca Alliance’s defense committee, Pakistan’s Foreign Ministry says. The three countries agreed to provid…
+- 10/06 03:16 [financialjuice] Meta and Microsoft Work to Wean Staff Off Anthropic’s Claude - The Information. $MSFT
+- 10/06 03:17 [DeItaone] META AND MICROSOFT WORK TO WEAN STAFF OFF ANTHROPIC’S CLAUDE - THE INFORMATION MICROSOFT CUT INTERNAL CLAUDE SPENDING LEVEL BY OVER A THIRD - THE INFORMATION
+- 10/06 03:17 [financialjuice] Turkish Foreign Minister: Turkey, Saudi Arabia, Pakistan discussed ways to provide support for Saudi Arabia's defence over Yemen issue at an emergency meeting of mecca alliance on Monday.
+- 10/06 03:17 [financialjuice/FirstSquawk] Yemen Houthis: Bab al-Mandab, Dhubab, and Al-Mukha are under our control - ISNA
+- 10/06 03:18 [DeItaone] YIELD ON 10-YEAR TREASURY NOTE LAST UP 6.59 BASIS POINTS AT 5.343% AFTER HITTING FRESH 24-YEAR HIGH AT 5.3493%
+- 10/06 03:18 [financialjuice] Microsoft lowers Claude spending by over a third - The Information. $MSFT
+- 10/06 03:20 [FirstSquawk] META AND MICROSOFT ARE WORKING TO WEAN STAFF OFF ANTHROPIC'S CLAUDE, WITH MICROSOFT CUTTING ITS INTERNAL CLAUDE SPENDING LEVEL BY OVER A THIRD AND META'S CLAUDE CODE USERS HALVED AS THE COMPANY PUSHED ITS INTERNAL AI TOOLS - THE INFORMATION
+- 10/06 03:20 [DeItaone] $SPCX - SPACEX SAID TO BE LOOKING TO BUILD GAS PIPELINE IN FLORIDA
+- 10/06 03:21 [financialjuice] Meta staff using Claude lower to 30,000 from 60,000 - The Information. $META
+- 10/06 03:21 [financialjuice] regional sources claim Saudi Royal Security team plans to launch US-made Lucas drones toward Mecca targeting Kaaba, nearby residential areas - Fars News
+- 10/06 03:22 [DeItaone] *META STAFF USING CLAUDE LOWER TO 30,000 FROM 60,000:INFORMATION
