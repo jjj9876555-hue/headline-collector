@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-06 02:36 JST／対象: 10/05 14:36 〜 10/06 02:36 JST（時刻はすべて日本時間）
+生成: 2026-10-06 02:55 JST／対象: 10/05 14:55 〜 10/06 02:55 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 53 | 10/05 19:25 | 10/06 02:27 | 33分（21:14→21:48） |
-| FirstSquawk | 132 | 10/05 14:39 | 10/06 02:02 | 31分（15:24→15:55） |
-| financialjuice | 121 | 10/05 15:55 | 10/06 02:01 | ⚠ 57分（20:15→21:13） |
+| DeItaone | 54 | 10/05 19:25 | 10/06 02:44 | 33分（21:14→21:48） |
+| FirstSquawk | 136 | 10/05 14:57 | 10/06 02:52 | 43分（02:02→02:46） |
+| financialjuice | 123 | 10/05 15:55 | 10/06 02:53 | ⚠ 57分（20:15→21:13） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 296 行（統合前 307 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 303 行（統合前 314 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 14:39 [FirstSquawk] US FUTURES DROP AFTER INITIAL GAINS; NASDAQ FUTURES FALL BY 0.1% AND S&P 500 FUTURES DECLINE BY 0.15%.
-- 10/05 14:54 [FirstSquawk] SCHNEIDER ELECTRIC DROPS 5.3% ON TRADEGATE COMPARED TO PARIS CLOSING.
 - 10/05 14:57 [FirstSquawk] NETANYAHU: CONGRATULATES BOLSONARO ON ELECTION VOTES IN X POST
 - 10/05 14:58 [FirstSquawk] NETANYAHU EXCITED TO REBUILD FRIENDLY TIES BETWEEN ISRAEL AND BRAZIL.
 - 10/05 14:58 [FirstSquawk] NETANYAHU COMMENTED ON THE PRESIDENTIAL ELECTION IN BRAZIL VIA X.
@@ -320,3 +318,12 @@
 - 10/06 02:01 [financialjuice] French central bank head warns country at risk of being ‘strangled by interest rates’ - FT
 - 10/06 02:02 [FirstSquawk] US 10-YEAR TREASURY YIELD RISES TO 5.34%, FRESH HIGH SINCE 2002
 - 10/06 02:27 [DeItaone] RUSSIA PROBES DEATH OF WORKER AT ANTI-PLAGUE INSTITUTE Russian authorities are investigating the death of a woman employed at an infectious-disease research institute in Siberia after she developed pneumonia of unknown origin. Contacts are …
+- 10/06 02:44 [DeItaone] U.S. STOCKS EXTEND GAINS, NASDAQ UP 1.00%
+- 10/06 02:46 [FirstSquawk] OPENAI EXPANDS CONTENT PROVENANCE TO INCLUDE TEXT IN RESPONSES TO EU REGULATORY REQUIREMENTS
+- 10/06 02:46 [FirstSquawk] OPENAI TO START WATERMARKING ELIGIBLE CHATGPT & CODEX TEXT IN EU OVER COMING WEEKS TO COMPLY WITH EU AI ACT
+- 10/06 02:47 [FirstSquawk] SAUDI-BACKED YEMENI FORCES RETAKE AREAS NEAR STRATEGIC BAB EL-MANDEB STRAIT — AP
+- 10/06 02:47 [FirstSquawk] LOUD EXPLOSIONS HEARD IN NORTHERN RIYADH — NOURNEWS, CITING AFP
+- 10/06 02:49 [FirstSquawk] US STOCKS EXTEND GAINS; NASDAQ SURGES 1.00%
+- 10/06 02:52 [FirstSquawk] ISRAELI SHIN BET PERSONNEL IN UAE TO JOIN INVESTIGATION INTO FLYDUBAI INCIDENT — N12
+- 10/06 02:53 [financialjuice] UKMTO: Received a report of an incident within the Strait of Hormuz.
+- 10/06 02:53 [financialjuice] UKMTO: Captain of the tanker reports being struck by an unknown projectile, causing a fire in the engine room.

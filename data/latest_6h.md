@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-06 02:36 JST／対象: 10/05 20:36 〜 10/06 02:36 JST（時刻はすべて日本時間）
+生成: 2026-10-06 02:55 JST／対象: 10/05 20:55 〜 10/06 02:55 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 42 | 10/05 20:38 | 10/06 02:27 | 33分（21:14→21:48） |
-| FirstSquawk | 57 | 10/05 20:37 | 10/06 02:02 | 16分（01:40→01:57） |
-| financialjuice | 70 | 10/05 21:13 | 10/06 02:01 | 38分（00:42→01:21） |
+| DeItaone | 40 | 10/05 21:01 | 10/06 02:44 | 33分（21:14→21:48） |
+| FirstSquawk | 60 | 10/05 21:06 | 10/06 02:52 | 43分（02:02→02:46） |
+| financialjuice | 72 | 10/05 21:13 | 10/06 02:53 | ⚠ 52分（02:01→02:53） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 159 行（統合前 170 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 162 行（統合前 173 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 20:37 [FirstSquawk] GE HEALTHCARE TO BUY SOFIE FOR NEARLY $1 BILLION TO GROW MEDICAL-IMAGING BUSINESS – WSJ
-- 10/05 20:38 [DeItaone] BUNDESBANK CHIEF WARNS GERMANY OVER LOW GAS STORAGE Bundesbank President Joachim Nagel criticized Germany’s slow pace of rebuilding natural gas inventories, warning it could add to inflation risks this winter. German storage sites are only …
-- 10/05 20:40 [DeItaone] TECH BILLIONAIRES ADD RECORD $845 BILLION IN 2026 The world’s roughly 100 tech billionaires added a record $845 billion through September, driven by the AI boom and surging U.S. technology stocks. Their combined wealth reached $4.6 trillion…
-- 10/05 20:49 [FirstSquawk] TENNESSEE GAS DECLARES FORCE MAJEURE ON LINE 1 STA 409A-101
-- 10/05 20:51 [DeItaone] YEMEN GOVERNMENT FORCES CLAIM CONTROL OF BAB EL-MANDEB Yemeni government forces say they have seized the Bab el-Mandeb area and Dhubab airport as part of the newly launched “Yemen Dawn” offensive. Reuters reports government forces have capt…
-- 10/05 20:54 [FirstSquawk] LOCKHEED’S DEVELOPMENT UNIT IS INCORPORATING AI TO ADVANCE THE DEFENSE CONTRACTOR.
 - 10/05 21:01 [DeItaone] $MSTR - STRATEGY BUYS MORE BITCOIN, HOLDINGS REACH 848,000 BTC Strategy acquired 334 BTC for $28.7 million at an average price of $85,839, bringing total holdings to 848,000 BTC worth $63.97 billion at cost. The company also sold 92,894 MST…
 - 10/05 21:06 [FirstSquawk] GE HEALTHCARE SEES DEAL ADDING TO REVENUE, ADJ EPS IN FIRST YEAR
 - 10/05 21:08 [DeItaone] BRAZILIAN REAL STRENGTHENS OVER 4% VS US DOLLAR AFTER BOLSONARO BEATS EXPECTATIONS IN PRESIDENTIAL VOTE
@@ -183,3 +177,12 @@
 - 10/06 02:01 [financialjuice] French central bank head warns country at risk of being ‘strangled by interest rates’ - FT
 - 10/06 02:02 [FirstSquawk] US 10-YEAR TREASURY YIELD RISES TO 5.34%, FRESH HIGH SINCE 2002
 - 10/06 02:27 [DeItaone] RUSSIA PROBES DEATH OF WORKER AT ANTI-PLAGUE INSTITUTE Russian authorities are investigating the death of a woman employed at an infectious-disease research institute in Siberia after she developed pneumonia of unknown origin. Contacts are …
+- 10/06 02:44 [DeItaone] U.S. STOCKS EXTEND GAINS, NASDAQ UP 1.00%
+- 10/06 02:46 [FirstSquawk] OPENAI EXPANDS CONTENT PROVENANCE TO INCLUDE TEXT IN RESPONSES TO EU REGULATORY REQUIREMENTS
+- 10/06 02:46 [FirstSquawk] OPENAI TO START WATERMARKING ELIGIBLE CHATGPT & CODEX TEXT IN EU OVER COMING WEEKS TO COMPLY WITH EU AI ACT
+- 10/06 02:47 [FirstSquawk] SAUDI-BACKED YEMENI FORCES RETAKE AREAS NEAR STRATEGIC BAB EL-MANDEB STRAIT — AP
+- 10/06 02:47 [FirstSquawk] LOUD EXPLOSIONS HEARD IN NORTHERN RIYADH — NOURNEWS, CITING AFP
+- 10/06 02:49 [FirstSquawk] US STOCKS EXTEND GAINS; NASDAQ SURGES 1.00%
+- 10/06 02:52 [FirstSquawk] ISRAELI SHIN BET PERSONNEL IN UAE TO JOIN INVESTIGATION INTO FLYDUBAI INCIDENT — N12
+- 10/06 02:53 [financialjuice] UKMTO: Received a report of an incident within the Strait of Hormuz.
+- 10/06 02:53 [financialjuice] UKMTO: Captain of the tanker reports being struck by an unknown projectile, causing a fire in the engine room.
