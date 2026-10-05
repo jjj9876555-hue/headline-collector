@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-05 12:41 JST／対象: 10/05 06:41 〜 10/05 12:41 JST（時刻はすべて日本時間）
+生成: 2026-10-05 13:01 JST／対象: 10/05 07:01 〜 10/05 13:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 10/05 09:05 | 10/05 09:05 | - |
-| FirstSquawk | 36 | 10/05 09:18 | 10/05 12:40 | ⚠ 55分（11:42→12:37） |
-| financialjuice | 20 | 10/05 07:00 | 10/05 12:06 | ⚠ 83分（10:01→11:25） |
+| FirstSquawk | 48 | 10/05 09:18 | 10/05 13:00 | ⚠ 55分（11:42→12:37） |
+| financialjuice | 18 | 10/05 07:40 | 10/05 12:06 | ⚠ 83分（10:01→11:25） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 57 行（統合前 60 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 67 行（統合前 70 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 07:00 [financialjuice] AUSTRALIAN COMPOSITE PMI FINAL ACTUAL 51.3 (FORECAST -, PREVIOUS 50.8) $MACRO
-- 10/05 07:00 [financialjuice] AUSTRALIAN SERVICES PMI FINAL ACTUAL 51.9 (FORECAST -, PREVIOUS 51.4) $MACRO
 - 10/05 07:40 [financialjuice] US B-1 bombers evacuated from UK base after attack threats from Iran - Axios
 - 10/05 09:01 [financialjuice] Ireland S&P Global September services PMI at 54.1 versus 55.4 in August
 - 10/05 09:05 [DeItaone] ALTMAN: WORLD SHOULD ACCEPT SOME AI RISKS OpenAI CEO Sam Altman says “the world should accept some bad things happening” to keep AI broadly accessible, arguing that people will ultimately use the technology for far more good than harm. Altm…
@@ -81,3 +79,15 @@
 - 10/05 12:06 [financialjuice] Sterling falls 0.27% to $1.32019
 - 10/05 12:37 [FirstSquawk] Schroders set to expand Hong Kong operations following Nuveen merger, CEO says - scmp
 - 10/05 12:40 [FirstSquawk] Yen remains under pressure as USD reverses post-NFP losses amid geopolitical tensions
+- 10/05 12:41 [FirstSquawk] Rupee opens at 96.2150 against dollar, up from previous close of 96.3150
+- 10/05 12:41 [FirstSquawk] India 10-year benchmark government bond yield eases to 7.2101% from 7.2133%
+- 10/05 12:42 [FirstSquawk] Japan to open extra Diet session as lawmakers focus on consumption tax cut bills
+- 10/05 12:43 [FirstSquawk] Japan holds 12th place in global innovation ranking, behind South Korea and China
+- 10/05 12:44 [FirstSquawk] South Korea enhances security camera network with AI
+- 10/05 12:46 [FirstSquawk] India’s equity selloff reflects growing concerns over economic growth — WSJ
+- 10/05 12:47 [FirstSquawk] Sharp rise in Treasury yields puts further pressure on equities - WSJ
+- 10/05 12:47 [FirstSquawk] Singapore dollar dips as investors weigh potential position adjustments
+- 10/05 12:48 [FirstSquawk] Singapore dollar weakens slightly amid possible position adjustments - WSJ
+- 10/05 12:51 [FirstSquawk] 20-year JGB yield gains 1.0 basis point to 3.970%
+- 10/05 12:59 [FirstSquawk] Saudi crude accounts for less than 30% of South Korea’s imports for first time in five years - YONHAP
+- 10/05 13:00 [FirstSquawk] Yemen’s military says it launched 1,122 precise operations targeting Houthi militias

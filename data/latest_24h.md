@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-05 12:41 JST／対象: 10/04 12:41 〜 10/05 12:41 JST（時刻はすべて日本時間）
+生成: 2026-10-05 13:01 JST／対象: 10/04 13:01 〜 10/05 13:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 10/04 18:55 | 10/05 09:05 | ⚠ 411分（02:14→09:05） |
-| FirstSquawk | 187 | 10/04 12:41 | 10/05 12:40 | ⚠ 221分（05:36→09:18） |
+| FirstSquawk | 195 | 10/04 13:08 | 10/05 13:00 | ⚠ 221分（05:36→09:18） |
 | financialjuice | 54 | 10/04 13:16 | 10/05 12:06 | ⚠ 199分（22:46→02:06） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 242 行（統合前 252 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 250 行（統合前 260 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/04 12:41 [FirstSquawk] American, Chinese Botanists Sign Landmark Proposal to Expand Cooperation and Projects
-- 10/04 12:42 [FirstSquawk] UK Drops Plans to Curb Jury Trials Following Strong Opposition - RTRS
-- 10/04 12:49 [FirstSquawk] White House AI Czar Outlines Task Force Goals and Members – WSJ
-- 10/04 12:56 [FirstSquawk] Hokkaido faces growing raccoon threat as farm losses top ¥220 million in fiscal 2024 - Kyodo
 - 10/04 13:08 [FirstSquawk] U.S., China announce tariff reductions covering $30 billion of goods from each side, led by consumer imports in the U.S. and agricultural products in China - CNBC
 - 10/04 13:11 [FirstSquawk] Bangkok floods deepen public anger as residents demand stronger government response.
 - 10/04 13:12 [FirstSquawk] Ukraine plans to hit Russian refineries in response to Moscow’s “new doctrine” on airstrikes, CNBC reports.
@@ -266,3 +262,15 @@
 - 10/05 12:06 [financialjuice] Sterling falls 0.27% to $1.32019
 - 10/05 12:37 [FirstSquawk] Schroders set to expand Hong Kong operations following Nuveen merger, CEO says - scmp
 - 10/05 12:40 [FirstSquawk] Yen remains under pressure as USD reverses post-NFP losses amid geopolitical tensions
+- 10/05 12:41 [FirstSquawk] Rupee opens at 96.2150 against dollar, up from previous close of 96.3150
+- 10/05 12:41 [FirstSquawk] India 10-year benchmark government bond yield eases to 7.2101% from 7.2133%
+- 10/05 12:42 [FirstSquawk] Japan to open extra Diet session as lawmakers focus on consumption tax cut bills
+- 10/05 12:43 [FirstSquawk] Japan holds 12th place in global innovation ranking, behind South Korea and China
+- 10/05 12:44 [FirstSquawk] South Korea enhances security camera network with AI
+- 10/05 12:46 [FirstSquawk] India’s equity selloff reflects growing concerns over economic growth — WSJ
+- 10/05 12:47 [FirstSquawk] Sharp rise in Treasury yields puts further pressure on equities - WSJ
+- 10/05 12:47 [FirstSquawk] Singapore dollar dips as investors weigh potential position adjustments
+- 10/05 12:48 [FirstSquawk] Singapore dollar weakens slightly amid possible position adjustments - WSJ
+- 10/05 12:51 [FirstSquawk] 20-year JGB yield gains 1.0 basis point to 3.970%
+- 10/05 12:59 [FirstSquawk] Saudi crude accounts for less than 30% of South Korea’s imports for first time in five years - YONHAP
+- 10/05 13:00 [FirstSquawk] Yemen’s military says it launched 1,122 precise operations targeting Houthi militias
