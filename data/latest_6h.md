@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-05 18:32 JST／対象: 10/05 12:32 〜 10/05 18:32 JST（時刻はすべて日本時間）
+生成: 2026-10-05 18:52 JST／対象: 10/05 12:52 〜 10/05 18:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 95 | 10/05 12:37 | 10/05 18:10 | 43分（13:00→13:44） |
-| financialjuice | 60 | 10/05 13:03 | 10/05 18:31 | ⚠ 103分（14:12→15:55） |
+| FirstSquawk | 90 | 10/05 12:59 | 10/05 18:49 | 43分（13:00→13:44） |
+| financialjuice | 63 | 10/05 13:03 | 10/05 18:47 | ⚠ 103分（14:12→15:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 155 行（統合前 155 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 153 行（統合前 153 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 12:37 [FirstSquawk] Schroders set to expand Hong Kong operations following Nuveen merger, CEO says - scmp
-- 10/05 12:40 [FirstSquawk] Yen remains under pressure as USD reverses post-NFP losses amid geopolitical tensions
-- 10/05 12:41 [FirstSquawk] Rupee opens at 96.2150 against dollar, up from previous close of 96.3150
-- 10/05 12:41 [FirstSquawk] India 10-year benchmark government bond yield eases to 7.2101% from 7.2133%
-- 10/05 12:42 [FirstSquawk] Japan to open extra Diet session as lawmakers focus on consumption tax cut bills
-- 10/05 12:43 [FirstSquawk] Japan holds 12th place in global innovation ranking, behind South Korea and China
-- 10/05 12:44 [FirstSquawk] South Korea enhances security camera network with AI
-- 10/05 12:46 [FirstSquawk] India’s equity selloff reflects growing concerns over economic growth — WSJ
-- 10/05 12:47 [FirstSquawk] Sharp rise in Treasury yields puts further pressure on equities - WSJ
-- 10/05 12:47 [FirstSquawk] Singapore dollar dips as investors weigh potential position adjustments
-- 10/05 12:48 [FirstSquawk] Singapore dollar weakens slightly amid possible position adjustments - WSJ
-- 10/05 12:51 [FirstSquawk] 20-year JGB yield gains 1.0 basis point to 3.970%
 - 10/05 12:59 [FirstSquawk] Saudi crude accounts for less than 30% of South Korea’s imports for first time in five years - YONHAP
 - 10/05 13:00 [FirstSquawk] Yemen’s military says it launched 1,122 precise operations targeting Houthi militias
 - 10/05 13:03 [financialjuice] EU to restrict Ukraine’s access to agricultural subsidies if it joins bloc - FT
@@ -179,3 +167,13 @@
 - 10/05 18:29 [financialjuice] Venezuela is far from setting durable investment terms - Conoco
 - 10/05 18:30 [financialjuice] Kremlin on Zelenskiy saying that Ukraine will hit Russian oil refineries: Ukraine will pay the price
 - 10/05 18:31 [financialjuice] Conoco sees US oil output above 14M b/d in 2027 if prices hold
+- 10/05 18:32 [financialjuice] Qatar LNG is still an attractive investment - ConocoPhillips
+- 10/05 18:35 [FirstSquawk] CONOCOPHILLIPS BELIEVES THE MIDDLE EAST IS A GOOD PLACE TO INVEST, BUT RISK MANAGEMENT IS NECESSARY.
+- 10/05 18:35 [FirstSquawk] CONOCOPHILLIPS CEO STRESSES IMPORTANCE OF A FISCAL CONTRACT TO ADDRESS RISKS IN THE MIDDLE EAST AND RECOGNIZES CONTINUED GEOPOLITICAL RISKS IN THE REGION.
+- 10/05 18:35 [FirstSquawk] CONOCO STATES VENEZUELA IS NOT NEAR ESTABLISHING STABLE INVESTMENT CONDITIONS.
+- 10/05 18:35 [FirstSquawk] CONOCOPHILLIPS SAYS QATAR LNG REMAINS A GOOD INVESTMENT OPTION.
+- 10/05 18:36 [FirstSquawk] KREMLIN REFUSES TO COMMENT ON NEW YORK TIMES STORY ABOUT MULTI-BILLION DOLLAR OIL DEAL IN UKRAINIAN PEACE TALKS. KREMLIN STATES ENERGY COOPERATION IS DISCUSSED WITH US OFFICIALS.
+- 10/05 18:36 [FirstSquawk] AIR LIQUIDE AIMS FOR DIVIDEND PAYOUT RATIO IN MIDTERM PLAN.
+- 10/05 18:46 [financialjuice] Afghan taliban foreign minister: Afghanistan considers self-defense against any aggression to be its legitimate and undeniable right
+- 10/05 18:47 [financialjuice] Afghan taliban foreign minister: Believe existing problems between Afghanistan and Pakistan can be resolved through dialogue and diplomacy
+- 10/05 18:49 [FirstSquawk] YEMENI GOVERNMENT FORCES LAUNCH ATTACKS ON HOUTHIS FROM THREE FRONTS IN NORTH, WEST AND SOUTH OF YEMEN - MILITARY SOURCES

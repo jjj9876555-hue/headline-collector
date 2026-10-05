@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-05 18:32 JST／対象: 10/04 18:32 〜 10/05 18:32 JST（時刻はすべて日本時間）
+生成: 2026-10-05 18:52 JST／対象: 10/04 18:52 〜 10/05 18:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 10/04 18:55 | 10/05 09:05 | ⚠ 411分（02:14→09:05） |
-| FirstSquawk | 221 | 10/04 18:40 | 10/05 18:10 | ⚠ 221分（05:36→09:18） |
-| financialjuice | 105 | 10/04 18:38 | 10/05 18:31 | ⚠ 199分（22:46→02:06） |
+| FirstSquawk | 221 | 10/04 19:12 | 10/05 18:49 | ⚠ 221分（05:36→09:18） |
+| financialjuice | 107 | 10/04 18:54 | 10/05 18:47 | ⚠ 199分（22:46→02:06） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 327 行（統合前 337 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 329 行（統合前 339 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/04 18:38 [financialjuice] Fire erupts at enterprise in Russia's Krasnodar region after drone debris falls; three hurt, authorities say
-- 10/04 18:40 [FirstSquawk] Iranian Foreign Ministry Spokesperson: Tehran has already responded to the American proposal.
-- 10/04 18:41 [FirstSquawk] Iranian Foreign Ministry Spokesperson: The issue of the return of IAEA inspectors was not discussed.
-- 10/04 18:41 [FirstSquawk] Iran: The American proposal is similar to previous proposals and focuses on the nuclear issue, while we want to focus on "Hormuz".
-- 10/04 18:41 [FirstSquawk] Fighting intensifies southwest of Taiz, and the road linking Taiz to Lahj and Aden is cut off.
-- 10/04 18:42 [FirstSquawk] Houthi media: Airstrikes target areas in Al-Jawf Governorate, northeastern Yemen
-- 10/04 18:42 [FirstSquawk] Kremlin: Expert-level contacts with US representatives are ongoing.
-- 10/04 18:42 [FirstSquawk] Kremlin: Ukraine is no closer to negotiations with Russia, while Europe continues to obstruct the resumption of the negotiation process.
 - 10/04 18:54 [financialjuice] Russia to ramp up strikes on Kyiv and other Ukraine regions following Zelenskiy remarks: Tass cites Russia defence ministry
 - 10/04 18:55 [DeItaone] RUSSIA WILL INTENSIFY STRIKES ON KYIV AND OTHER REGIONS OF UKRAINE FOLLOWING LATEST ZELENSKIY REMARKS - TASS CITES RUSSIA DEFENCE MINISTRY
 - 10/04 19:07 [financialjuice] Iran’s army spokesperson: After war with US, Tehran plans to enhance missile range - Fars News
@@ -351,3 +343,13 @@
 - 10/05 18:29 [financialjuice] Venezuela is far from setting durable investment terms - Conoco
 - 10/05 18:30 [financialjuice] Kremlin on Zelenskiy saying that Ukraine will hit Russian oil refineries: Ukraine will pay the price
 - 10/05 18:31 [financialjuice] Conoco sees US oil output above 14M b/d in 2027 if prices hold
+- 10/05 18:32 [financialjuice] Qatar LNG is still an attractive investment - ConocoPhillips
+- 10/05 18:35 [FirstSquawk] CONOCOPHILLIPS BELIEVES THE MIDDLE EAST IS A GOOD PLACE TO INVEST, BUT RISK MANAGEMENT IS NECESSARY.
+- 10/05 18:35 [FirstSquawk] CONOCOPHILLIPS CEO STRESSES IMPORTANCE OF A FISCAL CONTRACT TO ADDRESS RISKS IN THE MIDDLE EAST AND RECOGNIZES CONTINUED GEOPOLITICAL RISKS IN THE REGION.
+- 10/05 18:35 [FirstSquawk] CONOCO STATES VENEZUELA IS NOT NEAR ESTABLISHING STABLE INVESTMENT CONDITIONS.
+- 10/05 18:35 [FirstSquawk] CONOCOPHILLIPS SAYS QATAR LNG REMAINS A GOOD INVESTMENT OPTION.
+- 10/05 18:36 [FirstSquawk] KREMLIN REFUSES TO COMMENT ON NEW YORK TIMES STORY ABOUT MULTI-BILLION DOLLAR OIL DEAL IN UKRAINIAN PEACE TALKS. KREMLIN STATES ENERGY COOPERATION IS DISCUSSED WITH US OFFICIALS.
+- 10/05 18:36 [FirstSquawk] AIR LIQUIDE AIMS FOR DIVIDEND PAYOUT RATIO IN MIDTERM PLAN.
+- 10/05 18:46 [financialjuice] Afghan taliban foreign minister: Afghanistan considers self-defense against any aggression to be its legitimate and undeniable right
+- 10/05 18:47 [financialjuice] Afghan taliban foreign minister: Believe existing problems between Afghanistan and Pakistan can be resolved through dialogue and diplomacy
+- 10/05 18:49 [FirstSquawk] YEMENI GOVERNMENT FORCES LAUNCH ATTACKS ON HOUTHIS FROM THREE FRONTS IN NORTH, WEST AND SOUTH OF YEMEN - MILITARY SOURCES
