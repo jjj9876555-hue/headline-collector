@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-05 10:36 JST／対象: 10/04 10:36 〜 10/05 10:36 JST（時刻はすべて日本時間）
+生成: 2026-10-05 10:54 JST／対象: 10/04 10:54 〜 10/05 10:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 10/04 18:55 | 10/05 09:05 | ⚠ 411分（02:14→09:05） |
-| FirstSquawk | 221 | 10/04 10:43 | 10/05 10:22 | ⚠ 221分（05:36→09:18） |
+| FirstSquawk | 222 | 10/04 11:01 | 10/05 10:53 | ⚠ 221分（05:36→09:18） |
 | financialjuice | 51 | 10/04 10:54 | 10/05 10:01 | ⚠ 199分（22:46→02:06） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 273 行（統合前 283 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 274 行（統合前 284 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/04 10:43 [FirstSquawk] Japan’s declining child population hits Toys R Us as retailer exits after 35 years
-- 10/04 10:44 [FirstSquawk] Brazil authorities seek vehicle carrying radioactive isotope after theft in São Paulo
-- 10/04 10:47 [FirstSquawk] Trump: Democrats supported policies leading to record-high energy costs
-- 10/04 10:49 [FirstSquawk] China’s Seven Star Crags draws visitors with limestone peaks and ancient cliff inscriptions
-- 10/04 10:50 [FirstSquawk] Indonesia’s wildfire season reaches its most severe level in over a decad
-- 10/04 10:51 [FirstSquawk] Russian drone attack damages Kyiv’s North Bridge and disrupts traffic
 - 10/04 10:54 [financialjuice] Grenada’s government schedules general election for November 5: official gazette
 - 10/04 11:01 [FirstSquawk] Grenada’s general election set for November 5, according to Official Gazette
 - 10/04 11:02 [FirstSquawk] Trump gives ODNI chief Jay Clayton broader role as intelligence czar: WSJ
@@ -297,3 +291,10 @@
 - 10/05 10:01 [financialjuice] Taiwan stocks gain over 2%
 - 10/05 10:17 [FirstSquawk] JAPAN'S CHIEF CABINET SECRETARY KIHARA SAYS THE ARREST OF A U.S. SERVICEMAN IN THE OKINAWA CASE IS 'REGRETTABLE', ADDING THAT JAPAN IS SEEKING DISCIPLINE AND PREVENTIVE MEASURES FROM U.S. FORCES.
 - 10/05 10:22 [FirstSquawk] EURO FALLS 0.15% TO $1.12365
+- 10/05 10:41 [FirstSquawk] ASIA-PAC EQUITIES BEGIN THE WEEK HIGHER AMID THIN HOLIDAY TRADE, AFTER WALL ST ADVANCED FRIDAY AS SOFTER JOBS DATA TRIGGERED A DOVISH SHIFT IN FED RATE EXPECTATIONS
+- 10/05 10:44 [FirstSquawk] HKU targets Northern Metropolis expansion to enhance research capacity and talent recruitment - SCMP
+- 10/05 10:47 [FirstSquawk] Middle East oil flows recover above pre-war levels amid rising tanker attacks — RTRS
+- 10/05 10:47 [FirstSquawk] US crude futures decline 1% to $90.17/bbl
+- 10/05 10:50 [FirstSquawk] Fitch rates Mizuho Markets Cayman’s $20M guaranteed senior notes ‘A’
+- 10/05 10:51 [FirstSquawk] Apache workers support strike action that may disrupt North Sea Forties oil pipeline, union says - rtrs
+- 10/05 10:53 [FirstSquawk] Gold climbs as softer inflation data reduces bets on further rate hikes — WSJ
