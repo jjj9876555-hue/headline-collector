@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-06 01:42 JST／対象: 10/05 01:42 〜 10/06 01:42 JST（時刻はすべて日本時間）
+生成: 2026-10-06 01:58 JST／対象: 10/05 01:58 〜 10/06 01:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 53 | 10/05 02:13 | 10/06 01:33 | ⚠ 620分（09:05→19:25） |
-| FirstSquawk | 230 | 10/05 02:11 | 10/06 01:40 | ⚠ 221分（05:36→09:18） |
-| financialjuice | 163 | 10/05 02:06 | 10/06 01:33 | ⚠ 103分（14:12→15:55） |
+| FirstSquawk | 231 | 10/05 02:11 | 10/06 01:57 | ⚠ 221分（05:36→09:18） |
+| financialjuice | 166 | 10/05 02:06 | 10/06 01:58 | ⚠ 103分（14:12→15:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 435 行（統合前 450 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 439 行（統合前 454 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -459,3 +459,7 @@
 - 10/06 01:33 [FirstSquawk] Trump on truth social What's driving up Gasoline is no longer the Strait of Hormuz, because Record Numbers of Barrels are coming out now on an almost daily basis, but the word, "Refineries," where Russia's are being blown up by Ukraine, and…
 - 10/06 01:37 [FirstSquawk] EMIRATES: CODESHARE OPERATIONS WITH FLYDUBAI TO/FROM TEL AVIV ARE SUSPENDED WITH IMMEDIATE EFFECT, UNTIL FURTHER NOTICE
 - 10/06 01:40 [FirstSquawk] YEMEN OFFICIAL SAYS HANDS ARE EXTENDED FOR PEACE
+- 10/06 01:50 [financialjuice] Yemeni sources: Houthi drones killed a foreign military advisor on the Marib front. Advisor identified as Pakistani - Tasnim News
+- 10/06 01:56 [financialjuice] Iran's President Pezeshkian: Negotiating with an enemy that constantly threatens and terrorizes us, and breaks its promises, is meaningless - Tasnim News.
+- 10/06 01:57 [FirstSquawk] EXPLOSIONS HEARD IN RIYADH; FLIGHTS SUSPENDED AT AIRPORT - FARS
+- 10/06 01:58 [financialjuice] Iran's President Pezeshkian: Every time inspectors come to Iran, our nuclear facilities and scientists are identified, and then these facilities are bombed, and our scientists are assassinated - Tasnim News.

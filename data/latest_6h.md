@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-06 01:42 JST／対象: 10/05 19:42 〜 10/06 01:42 JST（時刻はすべて日本時間）
+生成: 2026-10-06 01:58 JST／対象: 10/05 19:58 〜 10/06 01:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 42 | 10/05 19:54 | 10/06 01:33 | 33分（21:14→21:48） |
-| FirstSquawk | 64 | 10/05 19:44 | 10/06 01:40 | 16分（01:10→01:27） |
-| financialjuice | 67 | 10/05 19:59 | 10/06 01:33 | ⚠ 57分（20:15→21:13） |
+| DeItaone | 40 | 10/05 20:23 | 10/06 01:33 | 33分（21:14→21:48） |
+| FirstSquawk | 63 | 10/05 19:58 | 10/06 01:57 | 16分（01:40→01:57） |
+| financialjuice | 70 | 10/05 19:59 | 10/06 01:58 | ⚠ 57分（20:15→21:13） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 164 行（統合前 174 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,10 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 19:44 [FirstSquawk] ROMANIA: CARGO VESSEL SINKS IN BLACK SEA, TWO DEAD
-- 10/05 19:46 [FirstSquawk] IRAN ISSUES STRONGER WARNINGS ABOUT STARLINK AMID ESCALATING COST-OF-LIVING ISSUES AND GROWING FEARS OF PUBLIC PROTESTS, SHOWING INCREASING ANXIETY OVER ACCESS TO SATELLITE INTERNET.
-- 10/05 19:54 [DeItaone] FIFTEEN-YEAR-OLD STUDENT HAS HAND BLOWN OFF DURING FRENCH SCHOOL PROTESTS, LOCAL OFFICIAL SAYS
-- 10/05 19:58 [DeItaone] CITI ADDS FOUR STOCKS TO 90-DAY UPSIDE CATALYST WATCH Citi has added four healthcare stocks to its 90-Day Upside Catalyst Watch List: • Sight Sciences ( $SGHT) • Zimmer Biomet ( $ZBH) • Edwards Lifesciences ( $EW) • Boston Scientific ( $BSX…
 - 10/05 19:58 [FirstSquawk] BOSTON SCIENTIFIC GETS DOWNSIDE 90 DAY CATALYST AT CITI
 - 10/05 19:59 [financialjuice] Altman expects calls for guardrails will continue -Politico
 - 10/05 20:01 [FirstSquawk] ISRAEL TO CONTINUE STRIKING HEZBOLLAH, SEEK LEBANON PEACE: PM
@@ -188,3 +184,7 @@
 - 10/06 01:33 [FirstSquawk] Trump on truth social What's driving up Gasoline is no longer the Strait of Hormuz, because Record Numbers of Barrels are coming out now on an almost daily basis, but the word, "Refineries," where Russia's are being blown up by Ukraine, and…
 - 10/06 01:37 [FirstSquawk] EMIRATES: CODESHARE OPERATIONS WITH FLYDUBAI TO/FROM TEL AVIV ARE SUSPENDED WITH IMMEDIATE EFFECT, UNTIL FURTHER NOTICE
 - 10/06 01:40 [FirstSquawk] YEMEN OFFICIAL SAYS HANDS ARE EXTENDED FOR PEACE
+- 10/06 01:50 [financialjuice] Yemeni sources: Houthi drones killed a foreign military advisor on the Marib front. Advisor identified as Pakistani - Tasnim News
+- 10/06 01:56 [financialjuice] Iran's President Pezeshkian: Negotiating with an enemy that constantly threatens and terrorizes us, and breaks its promises, is meaningless - Tasnim News.
+- 10/06 01:57 [FirstSquawk] EXPLOSIONS HEARD IN RIYADH; FLIGHTS SUSPENDED AT AIRPORT - FARS
+- 10/06 01:58 [financialjuice] Iran's President Pezeshkian: Every time inspectors come to Iran, our nuclear facilities and scientists are identified, and then these facilities are bombed, and our scientists are assassinated - Tasnim News.
