@@ -7,27 +7,27 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-05 21:56 JST／対象: 10/04 21:56 〜 10/05 21:56 JST（時刻はすべて日本時間）
+生成: 2026-10-05 22:24 JST／対象: 10/04 22:24 〜 10/05 22:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 24 | 10/04 22:36 | 10/05 21:50 | ⚠ 620分（09:05→19:25） |
-| FirstSquawk | 224 | 10/04 22:34 | 10/05 21:54 | ⚠ 221分（05:36→09:18） |
-| financialjuice | 118 | 10/04 22:03 | 10/05 21:53 | ⚠ 199分（22:46→02:06） |
+| DeItaone | 27 | 10/04 22:36 | 10/05 22:05 | ⚠ 620分（09:05→19:25） |
+| FirstSquawk | 226 | 10/04 22:34 | 10/05 22:15 | ⚠ 221分（05:36→09:18） |
+| financialjuice | 118 | 10/04 22:46 | 10/05 22:00 | ⚠ 199分（22:46→02:06） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 361 行（統合前 370 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 368 行（統合前 375 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/04 22:03 [financialjuice/FirstSquawk] Yemen's Houthis: Attack on Saudi Aramco sites in Riyadh and Khurais with ballistic missiles and drones causes major fires
-- 10/04 22:14 [financialjuice/FirstSquawk] no immediate Saudi confirmation of Houthi claim
 - 10/04 22:34 [FirstSquawk] Russia's deputy PM Novak: JMMC observed significant fluctuations in global oil markets, citing a supply shortfall
 - 10/04 22:34 [FirstSquawk] Russia's Deputy PM Novak: russia and Saudi Arabia to discuss oil market and 2026-2027 outlook on October 12 in Riyadh
+- 10/04 22:35 [FirstSquawk] Yemen's Houthis: Attack on Saudi Aramco sites in Riyadh and Khurais with ballistic missiles and drones causes major fires
+- 10/04 22:35 [FirstSquawk] no immediate Saudi confirmation of Houthi claim
 - 10/04 22:36 [DeItaone] TRUMP CREATES “SUPER INTELLIGENCE FORCE” President Trump announced the formation of a new Super Intelligence Force, led by Jay Clayton, Andrew Ferguson, Emil Michael and Scott Kupor. The group will coordinate federal engagement with AI comp…
 - 10/04 22:46 [financialjuice] Ukraine, Germany discuss LNG supply through German infrastructure, involving EU firms in cooperation with Kyiv's gas storage facilities
 - 10/04 22:47 [FirstSquawk] Iranian Deputy Foreign Minister: We are studying the American response to our proposal and remain prepared for all scenarios.
@@ -385,3 +385,10 @@
 - 10/05 21:53 [financialjuice] US Agriculture Sec. Rollins: We're looking at how to bring the cost of diesel down.
 - 10/05 21:54 [FirstSquawk] KPC CEO SAYS WE ARE NOT OFFERING DISCOUNTS OR INSURANCE TO CUSTOMERS BRINGING THEIR OWN TANKERS INTO MIDEAST GULF
 - 10/05 21:54 [FirstSquawk] KPC CEO SAYS WE HAVE HAD A FEW OF OUR CUSTOMERS USING THEIR OWN TANKERS TO COME INTO MIDEAST GULF, MORE WILL BE COMING
+- 10/05 21:57 [financialjuice] KPC CEO: We need to focus on getting refined products out of MidEast Gulf to de-bottleneck refineries in the region.
+- 10/05 21:58 [DeItaone] *ROLLINS: TRUMP LIKELY TO TAKE ACTION ON FARMERS LATER TODAY *ROLLINS: MORE TO DO ON COST OF DIESEL, URGES STATES TO ACT
+- 10/05 21:59 [DeItaone] BERLIN, PARIS FLOAT TRADE TOOL TO CUT CHINA ACCESS TO EU MARKET
+- 10/05 22:00 [financialjuice] Effective Fed Funds Rate 3.88% October 2 vs 3.88% October 1.
+- 10/05 22:05 [DeItaone] ISM SERVICES SEEN EASING SLIGHTLY AS PRICE PRESSURES RISE September ISM Services PMI is expected at 55.0, down slightly from 55.4 in August. Employment is seen improving to 48.8 from 47.8, while New Orders are expected to ease to 60.3 from …
+- 10/05 22:05 [FirstSquawk] SKYDANCE NAMES DAVID ELLISON CHAIRMAN AND CEO UPON WBD CLOSE
+- 10/05 22:15 [FirstSquawk] FORMER U.S. SPEAKER OF THE HOUSE DENNIS HASTERT HAS DIED AT AGE 84

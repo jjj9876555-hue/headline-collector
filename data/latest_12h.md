@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-05 21:56 JST／対象: 10/05 09:56 〜 10/05 21:56 JST（時刻はすべて日本時間）
+生成: 2026-10-05 22:24 JST／対象: 10/05 10:24 〜 10/05 22:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 20 | 10/05 19:25 | 10/05 21:50 | 33分（21:14→21:48） |
-| FirstSquawk | 152 | 10/05 10:01 | 10/05 21:54 | ⚠ 55分（11:42→12:37） |
-| financialjuice | 93 | 10/05 10:01 | 10/05 21:53 | ⚠ 103分（14:12→15:55） |
+| DeItaone | 23 | 10/05 19:25 | 10/05 22:05 | 33分（21:14→21:48） |
+| FirstSquawk | 151 | 10/05 10:41 | 10/05 22:15 | ⚠ 55分（11:42→12:37） |
+| financialjuice | 94 | 10/05 11:25 | 10/05 22:00 | ⚠ 103分（14:12→15:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 264 行（統合前 267 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 267 行（統合前 268 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 10:01 [FirstSquawk] TAIWAN OVERNIGHT INTERBANK RATE OPENS UNCHANGED AT 0.805%
-- 10/05 10:01 [financialjuice] Taiwan stocks gain over 2%
-- 10/05 10:17 [FirstSquawk] JAPAN'S CHIEF CABINET SECRETARY KIHARA SAYS THE ARREST OF A U.S. SERVICEMAN IN THE OKINAWA CASE IS 'REGRETTABLE', ADDING THAT JAPAN IS SEEKING DISCIPLINE AND PREVENTIVE MEASURES FROM U.S. FORCES.
-- 10/05 10:22 [FirstSquawk] EURO FALLS 0.15% TO $1.12365
 - 10/05 10:41 [FirstSquawk] ASIA-PAC EQUITIES BEGIN THE WEEK HIGHER AMID THIN HOLIDAY TRADE, AFTER WALL ST ADVANCED FRIDAY AS SOFTER JOBS DATA TRIGGERED A DOVISH SHIFT IN FED RATE EXPECTATIONS
 - 10/05 10:44 [FirstSquawk] HKU targets Northern Metropolis expansion to enhance research capacity and talent recruitment - SCMP
 - 10/05 10:47 [FirstSquawk] Middle East oil flows recover above pre-war levels amid rising tanker attacks — RTRS
@@ -288,3 +284,10 @@
 - 10/05 21:53 [financialjuice] US Agriculture Sec. Rollins: We're looking at how to bring the cost of diesel down.
 - 10/05 21:54 [FirstSquawk] KPC CEO SAYS WE ARE NOT OFFERING DISCOUNTS OR INSURANCE TO CUSTOMERS BRINGING THEIR OWN TANKERS INTO MIDEAST GULF
 - 10/05 21:54 [FirstSquawk] KPC CEO SAYS WE HAVE HAD A FEW OF OUR CUSTOMERS USING THEIR OWN TANKERS TO COME INTO MIDEAST GULF, MORE WILL BE COMING
+- 10/05 21:57 [financialjuice] KPC CEO: We need to focus on getting refined products out of MidEast Gulf to de-bottleneck refineries in the region.
+- 10/05 21:58 [DeItaone] *ROLLINS: TRUMP LIKELY TO TAKE ACTION ON FARMERS LATER TODAY *ROLLINS: MORE TO DO ON COST OF DIESEL, URGES STATES TO ACT
+- 10/05 21:59 [DeItaone] BERLIN, PARIS FLOAT TRADE TOOL TO CUT CHINA ACCESS TO EU MARKET
+- 10/05 22:00 [financialjuice] Effective Fed Funds Rate 3.88% October 2 vs 3.88% October 1.
+- 10/05 22:05 [DeItaone] ISM SERVICES SEEN EASING SLIGHTLY AS PRICE PRESSURES RISE September ISM Services PMI is expected at 55.0, down slightly from 55.4 in August. Employment is seen improving to 48.8 from 47.8, while New Orders are expected to ease to 60.3 from …
+- 10/05 22:05 [FirstSquawk] SKYDANCE NAMES DAVID ELLISON CHAIRMAN AND CEO UPON WBD CLOSE
+- 10/05 22:15 [FirstSquawk] FORMER U.S. SPEAKER OF THE HOUSE DENNIS HASTERT HAS DIED AT AGE 84

@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-05 21:56 JST／対象: 10/05 15:56 〜 10/05 21:56 JST（時刻はすべて日本時間）
+生成: 2026-10-05 22:24 JST／対象: 10/05 16:24 〜 10/05 22:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 20 | 10/05 19:25 | 10/05 21:50 | 33分（21:14→21:48） |
-| FirstSquawk | 76 | 10/05 16:15 | 10/05 21:54 | 25分（17:18→17:43） |
-| financialjuice | 66 | 10/05 16:00 | 10/05 21:53 | ⚠ 57分（20:15→21:13） |
+| DeItaone | 23 | 10/05 19:25 | 10/05 22:05 | 33分（21:14→21:48） |
+| FirstSquawk | 74 | 10/05 16:33 | 10/05 22:15 | 25分（17:18→17:43） |
+| financialjuice | 63 | 10/05 16:45 | 10/05 22:00 | ⚠ 57分（20:15→21:13） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 161 行（統合前 162 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 159 行（統合前 160 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 16:00 [financialjuice] TURKISH CPI YOY ACTUAL 29.73% (FORECAST 30.26%, PREVIOUS 31.51%) $MACRO
-- 10/05 16:00 [financialjuice] TURKISH CPI MOM ACTUAL 1.84% (FORECAST 2.28%, PREVIOUS 1.84%) $MACRO
-- 10/05 16:09 [financialjuice] Spain's PM Sanchez: I am calling an early election
-- 10/05 16:09 [financialjuice] Spain’s PM Sanchez: election set for November 29, 2026
-- 10/05 16:09 [financialjuice] South Korea military strongly urges North Korea to apologize for injury of South Korean soldiers and clear mines
-- 10/05 16:15 [FirstSquawk] SPANISH PM REQUESTS EARLY ELECTIONS DUE TO FAILED HOUSING VOTES.
-- 10/05 16:15 [FirstSquawk] SPAIN'S PRIME MINISTER SANCHEZ ANNOUNCES EARLY ELECTIONS ON NOVEMBER 29TH.
-- 10/05 16:15 [FirstSquawk] SPAIN'S SEPTEMBER COMPOSITE PMI INCREASES TO 56.8 FROM 55.8 IN AUGUST.
-- 10/05 16:15 [FirstSquawk] SPAIN'S SERVICES PMI INCREASES TO 58.3 IN SEPTEMBER FROM 57.8 IN AUGUST.
 - 10/05 16:33 [FirstSquawk] HON HAI SEPT SALES +38.4% AT NT$ 1.16T || CALCULATIONS FOR Q3 SALES NT$ 3.027T
 - 10/05 16:35 [FirstSquawk] IRAN'S FOREIGN MINISTER MET WITH ARMENIA'S FOREIGN MINISTER IN TEHRAN.
 - 10/05 16:37 [FirstSquawk] RUSSIA'S ROSATOM CHIEF REPORTS UKRAINE ATTACKED TWO SITES AT THE ZAPORIZHZHIA NUCLEAR POWER PLANT LAST NIGHT.
@@ -185,3 +176,10 @@
 - 10/05 21:53 [financialjuice] US Agriculture Sec. Rollins: We're looking at how to bring the cost of diesel down.
 - 10/05 21:54 [FirstSquawk] KPC CEO SAYS WE ARE NOT OFFERING DISCOUNTS OR INSURANCE TO CUSTOMERS BRINGING THEIR OWN TANKERS INTO MIDEAST GULF
 - 10/05 21:54 [FirstSquawk] KPC CEO SAYS WE HAVE HAD A FEW OF OUR CUSTOMERS USING THEIR OWN TANKERS TO COME INTO MIDEAST GULF, MORE WILL BE COMING
+- 10/05 21:57 [financialjuice] KPC CEO: We need to focus on getting refined products out of MidEast Gulf to de-bottleneck refineries in the region.
+- 10/05 21:58 [DeItaone] *ROLLINS: TRUMP LIKELY TO TAKE ACTION ON FARMERS LATER TODAY *ROLLINS: MORE TO DO ON COST OF DIESEL, URGES STATES TO ACT
+- 10/05 21:59 [DeItaone] BERLIN, PARIS FLOAT TRADE TOOL TO CUT CHINA ACCESS TO EU MARKET
+- 10/05 22:00 [financialjuice] Effective Fed Funds Rate 3.88% October 2 vs 3.88% October 1.
+- 10/05 22:05 [DeItaone] ISM SERVICES SEEN EASING SLIGHTLY AS PRICE PRESSURES RISE September ISM Services PMI is expected at 55.0, down slightly from 55.4 in August. Employment is seen improving to 48.8 from 47.8, while New Orders are expected to ease to 60.3 from …
+- 10/05 22:05 [FirstSquawk] SKYDANCE NAMES DAVID ELLISON CHAIRMAN AND CEO UPON WBD CLOSE
+- 10/05 22:15 [FirstSquawk] FORMER U.S. SPEAKER OF THE HOUSE DENNIS HASTERT HAS DIED AT AGE 84
