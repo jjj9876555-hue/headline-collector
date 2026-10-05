@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-05 10:54 JST／対象: 10/04 10:54 〜 10/05 10:54 JST（時刻はすべて日本時間）
+生成: 2026-10-05 11:19 JST／対象: 10/04 11:19 〜 10/05 11:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 10/04 18:55 | 10/05 09:05 | ⚠ 411分（02:14→09:05） |
-| FirstSquawk | 222 | 10/04 11:01 | 10/05 10:53 | ⚠ 221分（05:36→09:18） |
-| financialjuice | 51 | 10/04 10:54 | 10/05 10:01 | ⚠ 199分（22:46→02:06） |
+| FirstSquawk | 222 | 10/04 11:27 | 10/05 11:17 | ⚠ 221分（05:36→09:18） |
+| financialjuice | 50 | 10/04 13:16 | 10/05 10:01 | ⚠ 199分（22:46→02:06） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 274 行（統合前 284 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 273 行（統合前 283 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/04 10:54 [financialjuice] Grenada’s government schedules general election for November 5: official gazette
-- 10/04 11:01 [FirstSquawk] Grenada’s general election set for November 5, according to Official Gazette
-- 10/04 11:02 [FirstSquawk] Trump gives ODNI chief Jay Clayton broader role as intelligence czar: WSJ
-- 10/04 11:11 [FirstSquawk] New AI panel to examine technology risks following industry and public worries: WSJ
-- 10/04 11:11 [FirstSquawk] Houthi-run Al Masirah TV reports Saudi strike on Sanaa; Riyadh gives no confirmation
-- 10/04 11:12 [FirstSquawk] Kim Jong Un directs missile test as North Korea showcases military capability: KCNA
 - 10/04 11:27 [FirstSquawk] Kawasaki Heavy targets fully autonomous humanoid AI robot by 2030
 - 10/04 11:36 [FirstSquawk] Trump vows to pass ‘No Invasion of Our Country Act’ to restrict illegal immigration
 - 10/04 11:37 [FirstSquawk] Trump: New healthcare plan would end payments to big insurers and give money to Americans
@@ -298,3 +292,8 @@
 - 10/05 10:50 [FirstSquawk] Fitch rates Mizuho Markets Cayman’s $20M guaranteed senior notes ‘A’
 - 10/05 10:51 [FirstSquawk] Apache workers support strike action that may disrupt North Sea Forties oil pipeline, union says - rtrs
 - 10/05 10:53 [FirstSquawk] Gold climbs as softer inflation data reduces bets on further rate hikes — WSJ
+- 10/05 10:55 [FirstSquawk] Alito invokes Reagan, says Americans have a responsibility to protect the nation’s founding document - FOX NEWS
+- 10/05 10:59 [FirstSquawk] Asian currencies could gain relief as weak US jobs data reduces Fed rate-hike bets — WSJ
+- 10/05 11:06 [FirstSquawk] Japan’s Nikkei retakes 70,000 mark amid renewed AI optimism
+- 10/05 11:07 [FirstSquawk] Canadian dollar remains under pressure near April 2025 lows despite weak US payrolls
+- 10/05 11:17 [FirstSquawk] Malaysians prioritise family over shopping and holidays, domestic travel data shows

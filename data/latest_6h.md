@@ -7,24 +7,24 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-05 10:54 JST／対象: 10/05 04:54 〜 10/05 10:54 JST（時刻はすべて日本時間）
+生成: 2026-10-05 11:19 JST／対象: 10/05 05:19 〜 10/05 11:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 10/05 09:05 | 10/05 09:05 | - |
-| FirstSquawk | 27 | 10/05 05:36 | 10/05 10:53 | ⚠ 221分（05:36→09:18） |
-| financialjuice | 17 | 10/05 05:17 | 10/05 10:01 | ⚠ 102分（05:17→07:00） |
+| FirstSquawk | 32 | 10/05 05:36 | 10/05 11:17 | ⚠ 221分（05:36→09:18） |
+| financialjuice | 16 | 10/05 07:00 | 10/05 10:01 | ⚠ 81分（07:40→09:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 44 行（統合前 48 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 49 行（統合前 52 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 05:17 [financialjuice/FirstSquawk] Ex-Anthropic researcher Jacob Coxon to testify at NYC hearing on AI
+- 10/05 05:36 [FirstSquawk] EX-ANTHROPIC RESEARCHER JACOB COXON TO TESTIFY AT NYC HEARING ON AI
 - 10/05 07:00 [financialjuice] AUSTRALIAN COMPOSITE PMI FINAL ACTUAL 51.3 (FORECAST -, PREVIOUS 50.8) $MACRO
 - 10/05 07:00 [financialjuice] AUSTRALIAN SERVICES PMI FINAL ACTUAL 51.9 (FORECAST -, PREVIOUS 51.4) $MACRO
 - 10/05 07:40 [financialjuice] US B-1 bombers evacuated from UK base after attack threats from Iran - Axios
@@ -68,3 +68,8 @@
 - 10/05 10:50 [FirstSquawk] Fitch rates Mizuho Markets Cayman’s $20M guaranteed senior notes ‘A’
 - 10/05 10:51 [FirstSquawk] Apache workers support strike action that may disrupt North Sea Forties oil pipeline, union says - rtrs
 - 10/05 10:53 [FirstSquawk] Gold climbs as softer inflation data reduces bets on further rate hikes — WSJ
+- 10/05 10:55 [FirstSquawk] Alito invokes Reagan, says Americans have a responsibility to protect the nation’s founding document - FOX NEWS
+- 10/05 10:59 [FirstSquawk] Asian currencies could gain relief as weak US jobs data reduces Fed rate-hike bets — WSJ
+- 10/05 11:06 [FirstSquawk] Japan’s Nikkei retakes 70,000 mark amid renewed AI optimism
+- 10/05 11:07 [FirstSquawk] Canadian dollar remains under pressure near April 2025 lows despite weak US payrolls
+- 10/05 11:17 [FirstSquawk] Malaysians prioritise family over shopping and holidays, domestic travel data shows
