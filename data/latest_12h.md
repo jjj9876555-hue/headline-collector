@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-05 16:04 JST／対象: 10/05 04:04 〜 10/05 16:04 JST（時刻はすべて日本時間）
+生成: 2026-10-05 16:31 JST／対象: 10/05 04:31 〜 10/05 16:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 10/05 09:05 | 10/05 09:05 | - |
-| FirstSquawk | 93 | 10/05 05:36 | 10/05 15:55 | ⚠ 221分（05:36→09:18） |
-| financialjuice | 46 | 10/05 04:28 | 10/05 16:00 | ⚠ 103分（14:12→15:55） |
+| FirstSquawk | 97 | 10/05 05:36 | 10/05 16:15 | ⚠ 221分（05:36→09:18） |
+| financialjuice | 48 | 10/05 05:17 | 10/05 16:09 | ⚠ 103分（14:12→15:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 139 行（統合前 143 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 145 行（統合前 149 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 04:28 [financialjuice] Austrian Vice Chancellor Andreas Babler: Finance Minister Markus Marterbauer to succeed him as vice chancellor at start of next year
 - 10/05 05:17 [financialjuice/FirstSquawk] Ex-Anthropic researcher Jacob Coxon to testify at NYC hearing on AI
 - 10/05 07:00 [financialjuice] AUSTRALIAN COMPOSITE PMI FINAL ACTUAL 51.3 (FORECAST -, PREVIOUS 50.8) $MACRO
 - 10/05 07:00 [financialjuice] AUSTRALIAN SERVICES PMI FINAL ACTUAL 51.9 (FORECAST -, PREVIOUS 51.4) $MACRO
@@ -163,3 +162,10 @@
 - 10/05 15:55 [financialjuice] Yemeni Government forces launch attack Houthi positions in Dhubab district overlooking Bab El-Mandeb - Two Military Sources.
 - 10/05 16:00 [financialjuice] TURKISH CPI YOY ACTUAL 29.73% (FORECAST 30.26%, PREVIOUS 31.51%) $MACRO
 - 10/05 16:00 [financialjuice] TURKISH CPI MOM ACTUAL 1.84% (FORECAST 2.28%, PREVIOUS 1.84%) $MACRO
+- 10/05 16:09 [financialjuice] Spain's PM Sanchez: I am calling an early election
+- 10/05 16:09 [financialjuice] Spain’s PM Sanchez: election set for November 29, 2026
+- 10/05 16:09 [financialjuice] South Korea military strongly urges North Korea to apologize for injury of South Korean soldiers and clear mines
+- 10/05 16:15 [FirstSquawk] SPANISH PM REQUESTS EARLY ELECTIONS DUE TO FAILED HOUSING VOTES.
+- 10/05 16:15 [FirstSquawk] SPAIN'S PRIME MINISTER SANCHEZ ANNOUNCES EARLY ELECTIONS ON NOVEMBER 29TH.
+- 10/05 16:15 [FirstSquawk] SPAIN'S SEPTEMBER COMPOSITE PMI INCREASES TO 56.8 FROM 55.8 IN AUGUST.
+- 10/05 16:15 [FirstSquawk] SPAIN'S SERVICES PMI INCREASES TO 58.3 IN SEPTEMBER FROM 57.8 IN AUGUST.
