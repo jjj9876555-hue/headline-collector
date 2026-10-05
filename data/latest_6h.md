@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-05 17:06 JST／対象: 10/05 11:06 〜 10/05 17:06 JST（時刻はすべて日本時間）
+生成: 2026-10-05 17:32 JST／対象: 10/05 11:32 〜 10/05 17:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 75 | 10/05 11:07 | 10/05 17:06 | ⚠ 55分（11:42→12:37） |
-| financialjuice | 39 | 10/05 11:25 | 10/05 17:00 | ⚠ 103分（14:12→15:55） |
+| FirstSquawk | 80 | 10/05 11:33 | 10/05 17:18 | ⚠ 55分（11:42→12:37） |
+| financialjuice | 50 | 10/05 12:05 | 10/05 17:31 | ⚠ 103分（14:12→15:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 114 行（統合前 114 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 130 行（統合前 130 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 11:07 [FirstSquawk] Canadian dollar remains under pressure near April 2025 lows despite weak US payrolls
-- 10/05 11:17 [FirstSquawk] Malaysians prioritise family over shopping and holidays, domestic travel data shows
-- 10/05 11:25 [financialjuice] euro slides 0.38% to $1.1211
-- 10/05 11:27 [financialjuice] euro falls to lowest since May 2025, down 0.35% at $1.1213
-- 10/05 11:31 [FirstSquawk] Euro drops to $1.1213, weakest since May 2025, down 0.35%
 - 10/05 11:33 [FirstSquawk] IMF reaches staff-level deal on seventh review of Sri Lanka’s Extended Fund Facility
 - 10/05 11:42 [FirstSquawk] UK to impose tariffs on Chinese electric cars, The Times reports
 - 10/05 12:05 [financialjuice] Euro declines further, down 0.7% at $1.11735
@@ -138,3 +133,24 @@
 - 10/05 17:00 [financialjuice] EUROZONE SERVICES PMI FINAL ACTUAL 53 (FORECAST 53, PREVIOUS 53.0) $MACRO
 - 10/05 17:00 [financialjuice] EUROZONE COMPOSITE FINAL PMI ACTUAL 53.1 (FORECAST 53.1, PREVIOUS 53.1) $MACRO
 - 10/05 17:06 [FirstSquawk] IDF ANNOUNCES THE DEATH OF A HAMAS COMMANDER INVOLVED IN THE OCTOBER 7 ATTACK.
+- 10/05 17:10 [financialjuice] Aramco CEO: Global oil releases only temporary help for markets
+- 10/05 17:11 [financialjuice] Aramco CEO: Refilling global stockpiles may take 2 years after Hormuz opens
+- 10/05 17:11 [financialjuice] Aramco CEO: Oil market pressure to worsen until Hormuz opens
+- 10/05 17:12 [financialjuice] Aramco CEO: Global oil supply cushions 'scarily thin’
+- 10/05 17:14 [financialjuice] Germany's Foreign Intelligence Chief: There could be low-level military activities by Russia against the Baltics, but we don't expect a large-scale attack on NATO territory
+- 10/05 17:15 [financialjuice] Aramco CEO sees central role for mideast oil & gas for decades
+- 10/05 17:15 [FirstSquawk] YEMENI FORCES GAIN CONTROL OF SIGNIFICANT AREAS IN DHUBAB DISTRICT FOLLOWING FIGHTS WITH HOUTHIS, ACCORDING TO MILITARY SOURCES AND STATE MEDIA.
+- 10/05 17:15 [FirstSquawk] ARAMCO CEO SAYS GLOBAL OIL SUPPLY IS DANGEROUSLY LOW.
+- 10/05 17:15 [FirstSquawk] ARAMCO CLAIMS STRATEGIC STORAGE IS ESSENTIAL FOR MITIGATING OIL CRISIS.
+- 10/05 17:15 [FirstSquawk] ARAMCO IS EXPLORING OTHER OIL EXPORT PATHS AND SEEKING ADDITIONAL GLOBAL STORAGE OPTIONS.
+- 10/05 17:15 [FirstSquawk] ARAMCO CEO BELIEVES MIDDLE EAST OIL AND GAS WILL PLAY A KEY ROLE FOR MANY YEARS TO COME.
+- 10/05 17:15 [FirstSquawk] GERMANY'S FOREIGN INTELLIGENCE HEAD SAYS RUSSIA MAY CONDUCT SMALL MILITARY ACTIONS IN THE BALTICS, BUT A MAJOR ATTACK ON NATO IS NOT ANTICIPATED.
+- 10/05 17:15 [FirstSquawk] GERMANY'S FOREIGN INTELLIGENCE LEADER SAYS THE THREAT OF ATTACKS ON GERMAN TARGETS IS STILL A SIGNIFICANT CONCERN.
+- 10/05 17:18 [FirstSquawk] ARAMCO CEO STRESSES THE NEED FOR THE GLOBAL COMMUNITY TO SUPPORT UNRESTRICTED TRADE.
+- 10/05 17:18 [financialjuice] Aramco CEO: Global community must help free flow of goods
+- 10/05 17:28 [financialjuice] Aramco CEO: Upstream facilities are currently "intact"
+- 10/05 17:29 [financialjuice] Aramco CEO: max oil-output capacity of 12M b/d is available in days
+- 10/05 17:30 [financialjuice] EUROZONE SENTIX INVESTOR CONFIDENCE INDEX ACTUAL 2.7 (FORECAST 4.5, PREVIOUS 5.1) $MACRO
+- 10/05 17:30 [financialjuice] ❗ UK COMPOSITE PMI FINAL ACTUAL 52 (FORECAST 51.7, PREVIOUS 51.7) $MACRO
+- 10/05 17:30 [financialjuice] ‼ BREAKING: UK SERVICES PMI FINAL ACTUAL 52.1 (FORECAST 51.7, PREVIOUS 51.7) $MACRO
+- 10/05 17:31 [financialjuice] UK Services PMI September 2026 Report

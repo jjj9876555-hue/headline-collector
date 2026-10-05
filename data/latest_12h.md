@@ -7,24 +7,24 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-05 17:06 JST／対象: 10/05 05:06 〜 10/05 17:06 JST（時刻はすべて日本時間）
+生成: 2026-10-05 17:32 JST／対象: 10/05 05:32 〜 10/05 17:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 10/05 09:05 | 10/05 09:05 | - |
-| FirstSquawk | 105 | 10/05 05:36 | 10/05 17:06 | ⚠ 221分（05:36→09:18） |
-| financialjuice | 56 | 10/05 05:17 | 10/05 17:00 | ⚠ 103分（14:12→15:55） |
+| FirstSquawk | 113 | 10/05 05:36 | 10/05 17:18 | ⚠ 221分（05:36→09:18） |
+| financialjuice | 68 | 10/05 07:00 | 10/05 17:31 | ⚠ 103分（14:12→15:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 161 行（統合前 165 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 182 行（統合前 185 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 05:17 [financialjuice/FirstSquawk] Ex-Anthropic researcher Jacob Coxon to testify at NYC hearing on AI
+- 10/05 05:36 [FirstSquawk] EX-ANTHROPIC RESEARCHER JACOB COXON TO TESTIFY AT NYC HEARING ON AI
 - 10/05 07:00 [financialjuice] AUSTRALIAN COMPOSITE PMI FINAL ACTUAL 51.3 (FORECAST -, PREVIOUS 50.8) $MACRO
 - 10/05 07:00 [financialjuice] AUSTRALIAN SERVICES PMI FINAL ACTUAL 51.9 (FORECAST -, PREVIOUS 51.4) $MACRO
 - 10/05 07:40 [financialjuice] US B-1 bombers evacuated from UK base after attack threats from Iran - Axios
@@ -185,3 +185,24 @@
 - 10/05 17:00 [financialjuice] EUROZONE SERVICES PMI FINAL ACTUAL 53 (FORECAST 53, PREVIOUS 53.0) $MACRO
 - 10/05 17:00 [financialjuice] EUROZONE COMPOSITE FINAL PMI ACTUAL 53.1 (FORECAST 53.1, PREVIOUS 53.1) $MACRO
 - 10/05 17:06 [FirstSquawk] IDF ANNOUNCES THE DEATH OF A HAMAS COMMANDER INVOLVED IN THE OCTOBER 7 ATTACK.
+- 10/05 17:10 [financialjuice] Aramco CEO: Global oil releases only temporary help for markets
+- 10/05 17:11 [financialjuice] Aramco CEO: Refilling global stockpiles may take 2 years after Hormuz opens
+- 10/05 17:11 [financialjuice] Aramco CEO: Oil market pressure to worsen until Hormuz opens
+- 10/05 17:12 [financialjuice] Aramco CEO: Global oil supply cushions 'scarily thin’
+- 10/05 17:14 [financialjuice] Germany's Foreign Intelligence Chief: There could be low-level military activities by Russia against the Baltics, but we don't expect a large-scale attack on NATO territory
+- 10/05 17:15 [financialjuice] Aramco CEO sees central role for mideast oil & gas for decades
+- 10/05 17:15 [FirstSquawk] YEMENI FORCES GAIN CONTROL OF SIGNIFICANT AREAS IN DHUBAB DISTRICT FOLLOWING FIGHTS WITH HOUTHIS, ACCORDING TO MILITARY SOURCES AND STATE MEDIA.
+- 10/05 17:15 [FirstSquawk] ARAMCO CEO SAYS GLOBAL OIL SUPPLY IS DANGEROUSLY LOW.
+- 10/05 17:15 [FirstSquawk] ARAMCO CLAIMS STRATEGIC STORAGE IS ESSENTIAL FOR MITIGATING OIL CRISIS.
+- 10/05 17:15 [FirstSquawk] ARAMCO IS EXPLORING OTHER OIL EXPORT PATHS AND SEEKING ADDITIONAL GLOBAL STORAGE OPTIONS.
+- 10/05 17:15 [FirstSquawk] ARAMCO CEO BELIEVES MIDDLE EAST OIL AND GAS WILL PLAY A KEY ROLE FOR MANY YEARS TO COME.
+- 10/05 17:15 [FirstSquawk] GERMANY'S FOREIGN INTELLIGENCE HEAD SAYS RUSSIA MAY CONDUCT SMALL MILITARY ACTIONS IN THE BALTICS, BUT A MAJOR ATTACK ON NATO IS NOT ANTICIPATED.
+- 10/05 17:15 [FirstSquawk] GERMANY'S FOREIGN INTELLIGENCE LEADER SAYS THE THREAT OF ATTACKS ON GERMAN TARGETS IS STILL A SIGNIFICANT CONCERN.
+- 10/05 17:18 [FirstSquawk] ARAMCO CEO STRESSES THE NEED FOR THE GLOBAL COMMUNITY TO SUPPORT UNRESTRICTED TRADE.
+- 10/05 17:18 [financialjuice] Aramco CEO: Global community must help free flow of goods
+- 10/05 17:28 [financialjuice] Aramco CEO: Upstream facilities are currently "intact"
+- 10/05 17:29 [financialjuice] Aramco CEO: max oil-output capacity of 12M b/d is available in days
+- 10/05 17:30 [financialjuice] EUROZONE SENTIX INVESTOR CONFIDENCE INDEX ACTUAL 2.7 (FORECAST 4.5, PREVIOUS 5.1) $MACRO
+- 10/05 17:30 [financialjuice] ❗ UK COMPOSITE PMI FINAL ACTUAL 52 (FORECAST 51.7, PREVIOUS 51.7) $MACRO
+- 10/05 17:30 [financialjuice] ‼ BREAKING: UK SERVICES PMI FINAL ACTUAL 52.1 (FORECAST 51.7, PREVIOUS 51.7) $MACRO
+- 10/05 17:31 [financialjuice] UK Services PMI September 2026 Report
