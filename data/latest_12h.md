@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-05 23:33 JST／対象: 10/05 11:33 〜 10/05 23:33 JST（時刻はすべて日本時間）
+生成: 2026-10-05 23:53 JST／対象: 10/05 11:53 〜 10/05 23:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 37 | 10/05 19:25 | 10/05 23:26 | 33分（21:14→21:48） |
-| FirstSquawk | 152 | 10/05 11:42 | 10/05 23:29 | ⚠ 55分（11:42→12:37） |
+| DeItaone | 39 | 10/05 19:25 | 10/05 23:46 | 33分（21:14→21:48） |
+| FirstSquawk | 155 | 10/05 12:37 | 10/05 23:53 | 43分（13:00→13:44） |
 | financialjuice | 114 | 10/05 12:05 | 10/05 23:28 | ⚠ 103分（14:12→15:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 296 行（統合前 304 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 301 行（統合前 309 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 11:42 [FirstSquawk] UK to impose tariffs on Chinese electric cars, The Times reports
 - 10/05 12:05 [financialjuice] Euro declines further, down 0.7% at $1.11735
 - 10/05 12:06 [financialjuice] Sterling falls 0.27% to $1.32019
 - 10/05 12:37 [FirstSquawk] Schroders set to expand Hong Kong operations following Nuveen merger, CEO says - scmp
@@ -320,3 +319,9 @@
 - 10/05 23:26 [DeItaone] $SPCX - SPACEX SHARES HIT HIGHEST SINCE EARLY JULY, LAST UP 5.1%
 - 10/05 23:27 [FirstSquawk] SPACEX SHARES HIT HIGHEST SINCE EARLY JULY, LAST UP 5.1%
 - 10/05 23:28 [financialjuice] UKMTO has received a time-late report of an incident within the Strait of Hormuz. A verified source has reported that an LPG tanker transiting inbound has been struck by an unknown projectile.
+- 10/05 23:39 [FirstSquawk] EXANE BNP PARIBAS CUTS GLOBALFOUNDRIES PRICE TARGET TO $51 FROM $80
+- 10/05 23:39 [FirstSquawk] UKRAINE’S ZELENSKIY ON CALL WITH FRANCE’S MACRON
+- 10/05 23:40 [DeItaone] NATURAL GAS FUNDS FLIP SHARPLY NET SHORT Managed money more than doubled its net short position in Henry Hub, with a 67,217-contract bearish swing driven by the steepest long liquidation since 2008. Funds cut longs by 46,038 contracts while…
+- 10/05 23:46 [DeItaone] HOUTHI MILITARY LEADERS VOW TO INTENSIFY STRIKES Houthi Defense Minister Mohammed Nasser al-Atifi and Chief of Staff Yusuf Hassan al-Madani issued a statement commemorating slain military commander Muhammad Abdulkarim al-Ghamari. They pledg…
+- 10/05 23:50 [FirstSquawk] PETRONAS CEO SAYS LNG MARKET THIS WINTER IS GOING TO BE VERY, VERY TIGHT ESPECIALLY IF EUROPE'S GAS STORAGE GETS LOWER
+- 10/05 23:53 [FirstSquawk] PETRONAS CEO SAYS IF LNG PRICE HITS $40-$50 MMBTU PEOPLE MAY START SWITCHING TO OTHER FORMS OF ENERGY

@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-05 23:33 JST／対象: 10/05 17:33 〜 10/05 23:33 JST（時刻はすべて日本時間）
+生成: 2026-10-05 23:53 JST／対象: 10/05 17:53 〜 10/05 23:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 37 | 10/05 19:25 | 10/05 23:26 | 33分（21:14→21:48） |
-| FirstSquawk | 73 | 10/05 17:43 | 10/05 23:29 | 24分（18:10→18:35） |
-| financialjuice | 64 | 10/05 17:40 | 10/05 23:28 | ⚠ 57分（20:15→21:13） |
+| DeItaone | 39 | 10/05 19:25 | 10/05 23:46 | 33分（21:14→21:48） |
+| FirstSquawk | 73 | 10/05 18:00 | 10/05 23:53 | 24分（18:10→18:35） |
+| financialjuice | 61 | 10/05 18:00 | 10/05 23:28 | ⚠ 57分（20:15→21:13） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 167 行（統合前 175 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 166 行（統合前 174 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 17:40 [financialjuice] Aramco CEO: Oil demand is picking up, inventories need refilling
-- 10/05 17:40 [financialjuice] Aramco CEO: Oil demand picking up, inventories need refilling
-- 10/05 17:43 [FirstSquawk] SAUDI EAST-WEST PIPELINE STOPPED DUE TO NEW ATTACK.
-- 10/05 17:43 [FirstSquawk] ARAMCO IS CONSIDERING INCREASING ITS OIL STOCKPILES TWO TO THREE TIMES OUTSIDE OF SAUDI ARABIA.
-- 10/05 17:43 [FirstSquawk] ARAMCO'S CEO SAYS OIL DEMAND IS INCREASING AND INVENTORIES REQUIRE REPLENISHMENT.
-- 10/05 17:43 [FirstSquawk] BRENT OIL RECOVERS FROM EARLIER LOSSES FOLLOWING NEWS OF AN ATTACK ON SAUDI ARABIA'S E-W PIPELINE.
-- 10/05 17:50 [financialjuice] Saudi east-west oil pipeline is flowing as normal - People say
 - 10/05 18:00 [financialjuice] EUROZONE PPI YOY ACTUAL 8.2% (FORECAST 7.9%, PREVIOUS 5.8%) $MACRO
 - 10/05 18:00 [financialjuice] EUROZONE PPI MOM ACTUAL 1.9% (FORECAST 1.9%, PREVIOUS 1.6%) $MACRO
 - 10/05 18:00 [FirstSquawk] SAUDI ARAMCO'S CEO STATES THAT BY 2040, THE COMPANY WILL PRODUCE ABOUT 9 MILLION BARRELS OF OIL EQUIVALENT DAILY FROM NATURAL GAS.
@@ -191,3 +184,9 @@
 - 10/05 23:26 [DeItaone] $SPCX - SPACEX SHARES HIT HIGHEST SINCE EARLY JULY, LAST UP 5.1%
 - 10/05 23:27 [FirstSquawk] SPACEX SHARES HIT HIGHEST SINCE EARLY JULY, LAST UP 5.1%
 - 10/05 23:28 [financialjuice] UKMTO has received a time-late report of an incident within the Strait of Hormuz. A verified source has reported that an LPG tanker transiting inbound has been struck by an unknown projectile.
+- 10/05 23:39 [FirstSquawk] EXANE BNP PARIBAS CUTS GLOBALFOUNDRIES PRICE TARGET TO $51 FROM $80
+- 10/05 23:39 [FirstSquawk] UKRAINE’S ZELENSKIY ON CALL WITH FRANCE’S MACRON
+- 10/05 23:40 [DeItaone] NATURAL GAS FUNDS FLIP SHARPLY NET SHORT Managed money more than doubled its net short position in Henry Hub, with a 67,217-contract bearish swing driven by the steepest long liquidation since 2008. Funds cut longs by 46,038 contracts while…
+- 10/05 23:46 [DeItaone] HOUTHI MILITARY LEADERS VOW TO INTENSIFY STRIKES Houthi Defense Minister Mohammed Nasser al-Atifi and Chief of Staff Yusuf Hassan al-Madani issued a statement commemorating slain military commander Muhammad Abdulkarim al-Ghamari. They pledg…
+- 10/05 23:50 [FirstSquawk] PETRONAS CEO SAYS LNG MARKET THIS WINTER IS GOING TO BE VERY, VERY TIGHT ESPECIALLY IF EUROPE'S GAS STORAGE GETS LOWER
+- 10/05 23:53 [FirstSquawk] PETRONAS CEO SAYS IF LNG PRICE HITS $40-$50 MMBTU PEOPLE MAY START SWITCHING TO OTHER FORMS OF ENERGY
