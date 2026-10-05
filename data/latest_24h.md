@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-05 17:52 JST／対象: 10/04 17:52 〜 10/05 17:52 JST（時刻はすべて日本時間）
+生成: 2026-10-05 18:08 JST／対象: 10/04 18:08 〜 10/05 18:08 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 10/04 18:55 | 10/05 09:05 | ⚠ 411分（02:14→09:05） |
-| FirstSquawk | 217 | 10/04 17:55 | 10/05 17:43 | ⚠ 221分（05:36→09:18） |
-| financialjuice | 96 | 10/04 18:38 | 10/05 17:50 | ⚠ 199分（22:46→02:06） |
+| FirstSquawk | 221 | 10/04 18:14 | 10/05 18:01 | ⚠ 221分（05:36→09:18） |
+| financialjuice | 99 | 10/04 18:38 | 10/05 18:01 | ⚠ 199分（22:46→02:06） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 314 行（統合前 324 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 321 行（統合前 331 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/04 17:55 [FirstSquawk] Iran accused Britain of complicity in military attacks against the country by allowing its bases to be used by US and Israeli forces, the foreign ministry spokesman said on Sunday.
-- 10/04 17:55 [FirstSquawk] Iranian foreign ministry spokesperson: Tehran has clarified its positions via mediators to US response to 7 day plan
-- 10/04 17:56 [FirstSquawk] United, American Airlines up Japan routes to tap demand fueled by weak yen Alaska Airlines upgrades cabins as stock market gains increase customer buying power
-- 10/04 17:56 [FirstSquawk] Iranian Foreign Minister Abbas Araghchi rejected a report that Iranian diplomats were “kicked out” of the United States, saying the delegation left after attending the UN General Assembly as scheduled.
 - 10/04 18:14 [FirstSquawk] Republican Ohio Senate candidate Vivek Ramaswamy invokes Kamala Harris while targeting his potential Democratic rival in the 2026 Ohio Senate race.
 - 10/04 18:14 [FirstSquawk] Iran remains a member of the Treaty on the Non-Proliferation of Nuclear Weapons (NPT) and is aware of its obligations as long as it remains in the treaty, Foreign Ministry spokesman Esmaeil Baghaei said on Sunday.
 - 10/04 18:15 [FirstSquawk] Bosnia elections pit EU hopes against Russian influence
@@ -338,3 +334,14 @@
 - 10/05 17:43 [FirstSquawk] ARAMCO'S CEO SAYS OIL DEMAND IS INCREASING AND INVENTORIES REQUIRE REPLENISHMENT.
 - 10/05 17:43 [FirstSquawk] BRENT OIL RECOVERS FROM EARLIER LOSSES FOLLOWING NEWS OF AN ATTACK ON SAUDI ARABIA'S E-W PIPELINE.
 - 10/05 17:50 [financialjuice] Saudi east-west oil pipeline is flowing as normal - People say
+- 10/05 18:00 [financialjuice] EUROZONE PPI YOY ACTUAL 8.2% (FORECAST 7.9%, PREVIOUS 5.8%) $MACRO
+- 10/05 18:00 [financialjuice] EUROZONE PPI MOM ACTUAL 1.9% (FORECAST 1.9%, PREVIOUS 1.6%) $MACRO
+- 10/05 18:00 [FirstSquawk] SAUDI ARAMCO'S CEO STATES THAT BY 2040, THE COMPANY WILL PRODUCE ABOUT 9 MILLION BARRELS OF OIL EQUIVALENT DAILY FROM NATURAL GAS.
+- 10/05 18:00 [FirstSquawk] SPAIN'S CRUDE OIL IMPORTS IN AUGUST INCREASED BY 11% YEAR-OVER-YEAR TO 5.7 MILLION TONNES – CORES.
+- 10/05 18:00 [FirstSquawk] SAUDI EAST-WEST OIL PIPELINE IS OPERATING NORMALLY, SOURCES REPORT.
+- 10/05 18:00 [FirstSquawk] SAUDI ARAMCO'S CEO STATES THAT THEY HAVE PLENTY OF INVENTORIES TO MEET CUSTOMER DEMANDS AND INDICATES THAT PHYSICAL OIL BARRELS SOMETIMES TRADE $20-$50/BBL HIGHER THAN THE BRENT BENCHMARK.
+- 10/05 18:00 [FirstSquawk] SAUDI ARAMCO'S CEO STATES THAT WITHOUT THE EAST-WEST PIPELINE, BRENT CRUDE PRICES WOULD HAVE REACHED $200 PER BARREL.
+- 10/05 18:01 [FirstSquawk] SAUDI ARAMCO'S CEO DECLARES THAT CHINESE DEMAND FOR LIQUIDS IN THE CHEMICAL INDUSTRY WILL BOOST OIL DEMAND GROWTH AND COUNTER ANY REDUCTION DUE TO ELECTRIFICATION.
+- 10/05 18:01 [FirstSquawk] SAUDI ARAMCO CEO SAYS THERE IS A STRONG DEMAND FOR INCREASING GLOBAL STOCKS.
+- 10/05 18:01 [financialjuice] Eurozone PPI August 2026 Report
+- 10/05 18:01 [FirstSquawk] SAUDI ARAMCO'S CEO PREDICTS STABLE CRUDE OIL DEMAND FOR THE NEXT TWO YEARS IF CONDITIONS RETURN TO NORMAL.
