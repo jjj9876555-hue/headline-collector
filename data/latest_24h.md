@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-05 10:18 JST／対象: 10/04 10:18 〜 10/05 10:18 JST（時刻はすべて日本時間）
+生成: 2026-10-05 10:36 JST／対象: 10/04 10:36 〜 10/05 10:36 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 10/04 18:55 | 10/05 09:05 | ⚠ 411分（02:14→09:05） |
-| FirstSquawk | 220 | 10/04 10:43 | 10/05 10:17 | ⚠ 221分（05:36→09:18） |
+| FirstSquawk | 221 | 10/04 10:43 | 10/05 10:22 | ⚠ 221分（05:36→09:18） |
 | financialjuice | 51 | 10/04 10:54 | 10/05 10:01 | ⚠ 199分（22:46→02:06） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 272 行（統合前 282 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 273 行（統合前 283 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -296,3 +296,4 @@
 - 10/05 10:01 [FirstSquawk] TAIWAN OVERNIGHT INTERBANK RATE OPENS UNCHANGED AT 0.805%
 - 10/05 10:01 [financialjuice] Taiwan stocks gain over 2%
 - 10/05 10:17 [FirstSquawk] JAPAN'S CHIEF CABINET SECRETARY KIHARA SAYS THE ARREST OF A U.S. SERVICEMAN IN THE OKINAWA CASE IS 'REGRETTABLE', ADDING THAT JAPAN IS SEEKING DISCIPLINE AND PREVENTIVE MEASURES FROM U.S. FORCES.
+- 10/05 10:22 [FirstSquawk] EURO FALLS 0.15% TO $1.12365

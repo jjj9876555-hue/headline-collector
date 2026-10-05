@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-05 10:18 JST／対象: 10/05 04:18 〜 10/05 10:18 JST（時刻はすべて日本時間）
+生成: 2026-10-05 10:36 JST／対象: 10/05 04:36 〜 10/05 10:36 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 10/05 09:05 | 10/05 09:05 | - |
-| FirstSquawk | 19 | 10/05 05:36 | 10/05 10:17 | ⚠ 221分（05:36→09:18） |
-| financialjuice | 18 | 10/05 04:28 | 10/05 10:01 | ⚠ 102分（05:17→07:00） |
+| FirstSquawk | 20 | 10/05 05:36 | 10/05 10:22 | ⚠ 221分（05:36→09:18） |
+| financialjuice | 17 | 10/05 05:17 | 10/05 10:01 | ⚠ 102分（05:17→07:00） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 37 行（統合前 41 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,7 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 04:28 [financialjuice] Austrian Vice Chancellor Andreas Babler: Finance Minister Markus Marterbauer to succeed him as vice chancellor at start of next year
 - 10/05 05:17 [financialjuice/FirstSquawk] Ex-Anthropic researcher Jacob Coxon to testify at NYC hearing on AI
 - 10/05 07:00 [financialjuice] AUSTRALIAN COMPOSITE PMI FINAL ACTUAL 51.3 (FORECAST -, PREVIOUS 50.8) $MACRO
 - 10/05 07:00 [financialjuice] AUSTRALIAN SERVICES PMI FINAL ACTUAL 51.9 (FORECAST -, PREVIOUS 51.4) $MACRO
@@ -61,3 +60,4 @@
 - 10/05 10:01 [FirstSquawk] TAIWAN OVERNIGHT INTERBANK RATE OPENS UNCHANGED AT 0.805%
 - 10/05 10:01 [financialjuice] Taiwan stocks gain over 2%
 - 10/05 10:17 [FirstSquawk] JAPAN'S CHIEF CABINET SECRETARY KIHARA SAYS THE ARREST OF A U.S. SERVICEMAN IN THE OKINAWA CASE IS 'REGRETTABLE', ADDING THAT JAPAN IS SEEKING DISCIPLINE AND PREVENTIVE MEASURES FROM U.S. FORCES.
+- 10/05 10:22 [FirstSquawk] EURO FALLS 0.15% TO $1.12365
