@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-05 09:53 JST／対象: 10/05 03:53 〜 10/05 09:53 JST（時刻はすべて日本時間）
+生成: 2026-10-05 10:18 JST／対象: 10/05 04:18 〜 10/05 10:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 10/05 09:05 | 10/05 09:05 | - |
-| FirstSquawk | 18 | 10/05 03:59 | 10/05 09:53 | ⚠ 221分（05:36→09:18） |
-| financialjuice | 20 | 10/05 03:55 | 10/05 09:30 | ⚠ 102分（05:17→07:00） |
+| FirstSquawk | 19 | 10/05 05:36 | 10/05 10:17 | ⚠ 221分（05:36→09:18） |
+| financialjuice | 18 | 10/05 04:28 | 10/05 10:01 | ⚠ 102分（05:17→07:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 38 行（統合前 40 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 37 行（統合前 41 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 03:55 [financialjuice] UKMTO: reports incident 60 nm south of Al Mukha, Yemen
-- 10/05 03:55 [financialjuice] UKMTO: tanker reports several explosions near vessel
-- 10/05 03:56 [financialjuice] UkMto: crew safe, no environmental impact reported
-- 10/05 03:59 [FirstSquawk] UKMTO SAYS IT HAS RECEIVED A REPORT OF AN INCIDENT 60 NAUTICAL MILES SOUTH OF AL MUKHA, YEMEN, WHERE A TANKER SIGHTED MULTIPLE EXPLOSIONS IN CLOSE PROXIMITY TO THE VESSEL.
-- 10/05 03:59 [FirstSquawk] UKMTO SAYS THE CREW ARE REPORTED AS SAFE AND NO ENVIRONMENTAL IMPACT HAS BEEN REPORTED.
 - 10/05 04:28 [financialjuice] Austrian Vice Chancellor Andreas Babler: Finance Minister Markus Marterbauer to succeed him as vice chancellor at start of next year
 - 10/05 05:17 [financialjuice/FirstSquawk] Ex-Anthropic researcher Jacob Coxon to testify at NYC hearing on AI
 - 10/05 07:00 [financialjuice] AUSTRALIAN COMPOSITE PMI FINAL ACTUAL 51.3 (FORECAST -, PREVIOUS 50.8) $MACRO
@@ -62,3 +57,7 @@
 - 10/05 09:46 [FirstSquawk] FORMER OPENAI SAFETY AND TRANSPARENCY LEADER DAVID ROBINSON RESIGNED, WARNING THAT THE COMPANY IS MOVING TOO QUICKLY WITH AI LAUNCHES WITHOUT SUFFICIENT SAFEGUARDS FOR INCREASINGLY CAPABLE SYSTEMS.
 - 10/05 09:46 [FirstSquawk] FORMER OPENAI SAFETY AND TRANSPARENCY LEADER DAVID ROBINSON SAID AI FIRMS SHOULD OPERATE MORE LIKE NUCLEAR POWER PLANTS WITH MULTIPLE SAFETY LAYERS, WHILE OPENAI SAID IT IS EXPANDING THIRD-PARTY EVALUATIONS, SECURITY TESTING AND REAL-TIME M…
 - 10/05 09:53 [FirstSquawk] JAPAN 30-YEAR JGB YIELD RISES 2.5 BPS TO 4.230%
+- 10/05 09:55 [FirstSquawk] JAPAN 30-YEAR JGB YIELD SURGES 2.5 BPS TO RECORD HIGH OF 4.23%
+- 10/05 10:01 [FirstSquawk] TAIWAN OVERNIGHT INTERBANK RATE OPENS UNCHANGED AT 0.805%
+- 10/05 10:01 [financialjuice] Taiwan stocks gain over 2%
+- 10/05 10:17 [FirstSquawk] JAPAN'S CHIEF CABINET SECRETARY KIHARA SAYS THE ARREST OF A U.S. SERVICEMAN IN THE OKINAWA CASE IS 'REGRETTABLE', ADDING THAT JAPAN IS SEEKING DISCIPLINE AND PREVENTIVE MEASURES FROM U.S. FORCES.
