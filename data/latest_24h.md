@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-06 00:59 JST／対象: 10/05 00:59 〜 10/06 00:59 JST（時刻はすべて日本時間）
+生成: 2026-10-06 01:21 JST／対象: 10/05 01:21 〜 10/06 01:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 47 | 10/05 02:13 | 10/06 00:50 | ⚠ 620分（09:05→19:25） |
-| FirstSquawk | 231 | 10/05 01:14 | 10/06 00:57 | ⚠ 221分（05:36→09:18） |
-| financialjuice | 160 | 10/05 02:06 | 10/06 00:42 | ⚠ 103分（14:12→15:55） |
+| DeItaone | 51 | 10/05 02:13 | 10/06 01:19 | ⚠ 620分（09:05→19:25） |
+| FirstSquawk | 227 | 10/05 01:28 | 10/06 01:10 | ⚠ 221分（05:36→09:18） |
+| financialjuice | 161 | 10/05 02:06 | 10/06 01:21 | ⚠ 103分（14:12→15:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 427 行（統合前 442 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 428 行（統合前 443 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 01:14 [FirstSquawk] Netanyahu: Our enemies want to threaten our ports and our maritime domain in the Mediterranean Sea, and we will not allow that to happen.
-- 10/05 01:14 [FirstSquawk] President of the UAE and the Prime Minister of Italy discuss cooperation relations and regional developments in a phone call.
-- 10/05 01:15 [FirstSquawk] President of the UAE and the Prime Minister of Italy discuss regional developments and efforts to consolidate security and stability in the region.
-- 10/05 01:15 [FirstSquawk] Israeli news site Walla, citing security sources: The US military is currently deploying about 3,000 soldiers in Israel
-- 10/05 01:15 [FirstSquawk] Walla News: The tasks of American soldiers in Israel include air defense systems, pilots, support teams, and logistics
-- 10/05 01:15 [FirstSquawk] Walla News: US forces and aircraft will be reinforced in Israel in the coming weeks in preparation for a possible escalation in the region.
-- 10/05 01:15 [FirstSquawk] Jordanian Foreign Ministry condemns Israel's resumption of violations in Quneitra, southwestern Syria.
 - 10/05 01:28 [FirstSquawk] AFP: More than 70 killed in clashes between Yemeni government forces and Houthi rebels in Taiz province in 24 hours
 - 10/05 02:06 [financialjuice/FirstSquawk] Iran oil minister steps down: state media
 - 10/05 02:11 [FirstSquawk] Israeli army: Today in an airstrike on Khan Younis, we killed a member of Hamas' elite unit.
@@ -451,3 +444,11 @@
 - 10/06 00:42 [financialjuice] Yemen's Armed Forces: We have taken control of Mocha.
 - 10/06 00:50 [DeItaone] TOTALENERGIES CEO SAYS I PREFER A WORLD OF DISRUPTION RATHER THAN A PEACEFUL WORLD BECAUSE IT CREATES MORE OPPORTUNITIES
 - 10/06 00:57 [FirstSquawk] CFTC: PLANS TO ESTABLISH A PURPOSE-FIT OPTION FOR CRYPTO-ASSET EXCHANGES THAT WISH TO OPERATE UNDER A SINGLE FEDERAL REGULATORY SCHEME
+- 10/06 01:02 [FirstSquawk] ASTRAZENECA OPENS NEW GLOBAL STRATEGIC R&D CENTER IN KENDALL SQUARE, CAMBRIDGE, MASSACHUSETTS
+- 10/06 01:03 [FirstSquawk] US 30-YEAR TREASURY YIELD RISES TO 5.69%, NEW HIGH SINCE 2002
+- 10/06 01:10 [DeItaone] YIELD ON 30-YEAR U.S. TREASURY BONDS RISES TO FRESH 24-YEAR HIGH OF 5.6959; LAST UP 5.89 BASIS POINTS AT 5.689%
+- 10/06 01:10 [FirstSquawk] TOTALENERGIES CEO SAYS WE ARE NOT FAR FROM INFLECTION POINT FOR OIL DEMAND GROWTH FROM CHINA
+- 10/06 01:17 [DeItaone] *TRUMP TO URGE STATES TO ADDRESS FUEL COSTS: POLITICO
+- 10/06 01:18 [DeItaone] TRUMP PLANS EXECUTIVE ACTION TO LOWER DIESEL COSTS President Trump plans executive actions Monday aimed at reducing diesel prices, including a Treasury review of certain diesel taxes and measures to expand access to tax-exempt dyed diesel, …
+- 10/06 01:19 [DeItaone] *TRUMP TO ASK TREASURY FOR WAYS TO CUT DIESEL PRICES: POLITICO
+- 10/06 01:21 [financialjuice] US Department of Energy: Announces $4.2 billion investment to boost nuclear power and help lower energy costs in Pennsylvania and Ohio.

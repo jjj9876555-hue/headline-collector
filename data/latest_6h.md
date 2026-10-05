@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-06 00:59 JST／対象: 10/05 18:59 〜 10/06 00:59 JST（時刻はすべて日本時間）
+生成: 2026-10-06 01:21 JST／対象: 10/05 19:21 〜 10/06 01:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 44 | 10/05 19:25 | 10/06 00:50 | 33分（21:14→21:48） |
-| FirstSquawk | 62 | 10/05 19:03 | 10/06 00:57 | 23分（19:21→19:44） |
-| financialjuice | 69 | 10/05 19:03 | 10/06 00:42 | ⚠ 57分（20:15→21:13） |
+| DeItaone | 48 | 10/05 19:25 | 10/06 01:19 | 33分（21:14→21:48） |
+| FirstSquawk | 60 | 10/05 19:44 | 10/06 01:10 | 16分（22:15→22:31） |
+| financialjuice | 69 | 10/05 19:26 | 10/06 01:21 | ⚠ 57分（20:15→21:13） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 166 行（統合前 176 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 168 行（統合前 178 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 19:03 [FirstSquawk] CENOVUS TO BUY ATHABASCA OIL FOR C$12.00/SHR CASH, STOCK
-- 10/05 19:03 [financialjuice] Yemen's armed forces: Began 'strategic offensive’ in Sanaa
-- 10/05 19:11 [FirstSquawk] BP CEO: WE HAVE ADJUSTED OUR REFINERIES TO MOVE FOCUS FROM JET TO DIESEL PRODUCTION
-- 10/05 19:14 [FirstSquawk] BP CEO'S VIEW OF ENERGY MACRO TRENDS NOT HUGELY AFFECTED BY WAR
-- 10/05 19:17 [FirstSquawk] BP CEO SAYS NOT SURE IT IS IN BEST INTEREST OF BP SHAREHOLDERS TO INVEST DIRECTLY IN ALTERNATIVE EXPORT ROUTES
-- 10/05 19:21 [FirstSquawk] UKMTO GETS REPORT OF INCIDENT 11NM NORTH OF KHASAB, OMAN
 - 10/05 19:25 [DeItaone] OPENAI INTRODUCES NEW VISUAL ADS IN CHATGPT OpenAI is introducing a new visual advertising format in ChatGPT, with U.S. testing beginning later this month among an initial group of advertisers. The format will initially appear during image …
 - 10/05 19:26 [financialjuice] EU Commission spokesperson: decision to release stocks will impact oil prices for member states positively
 - 10/05 19:27 [financialjuice] EU Commission spokesperson: We are heading towards a very difficult winter in terms of energy prices
@@ -190,3 +184,11 @@
 - 10/06 00:42 [financialjuice] Yemen's Armed Forces: We have taken control of Mocha.
 - 10/06 00:50 [DeItaone] TOTALENERGIES CEO SAYS I PREFER A WORLD OF DISRUPTION RATHER THAN A PEACEFUL WORLD BECAUSE IT CREATES MORE OPPORTUNITIES
 - 10/06 00:57 [FirstSquawk] CFTC: PLANS TO ESTABLISH A PURPOSE-FIT OPTION FOR CRYPTO-ASSET EXCHANGES THAT WISH TO OPERATE UNDER A SINGLE FEDERAL REGULATORY SCHEME
+- 10/06 01:02 [FirstSquawk] ASTRAZENECA OPENS NEW GLOBAL STRATEGIC R&D CENTER IN KENDALL SQUARE, CAMBRIDGE, MASSACHUSETTS
+- 10/06 01:03 [FirstSquawk] US 30-YEAR TREASURY YIELD RISES TO 5.69%, NEW HIGH SINCE 2002
+- 10/06 01:10 [DeItaone] YIELD ON 30-YEAR U.S. TREASURY BONDS RISES TO FRESH 24-YEAR HIGH OF 5.6959; LAST UP 5.89 BASIS POINTS AT 5.689%
+- 10/06 01:10 [FirstSquawk] TOTALENERGIES CEO SAYS WE ARE NOT FAR FROM INFLECTION POINT FOR OIL DEMAND GROWTH FROM CHINA
+- 10/06 01:17 [DeItaone] *TRUMP TO URGE STATES TO ADDRESS FUEL COSTS: POLITICO
+- 10/06 01:18 [DeItaone] TRUMP PLANS EXECUTIVE ACTION TO LOWER DIESEL COSTS President Trump plans executive actions Monday aimed at reducing diesel prices, including a Treasury review of certain diesel taxes and measures to expand access to tax-exempt dyed diesel, …
+- 10/06 01:19 [DeItaone] *TRUMP TO ASK TREASURY FOR WAYS TO CUT DIESEL PRICES: POLITICO
+- 10/06 01:21 [financialjuice] US Department of Energy: Announces $4.2 billion investment to boost nuclear power and help lower energy costs in Pennsylvania and Ohio.
