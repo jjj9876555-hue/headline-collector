@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-06 08:05 JST／対象: 10/06 02:05 〜 10/06 08:05 JST（時刻はすべて日本時間）
+生成: 2026-10-06 08:24 JST／対象: 10/06 02:24 〜 10/06 08:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 15 | 10/06 02:27 | 10/06 07:39 | ⚠ 206分（03:52→07:19） |
-| FirstSquawk | 68 | 10/06 02:46 | 10/06 08:01 | ⚠ 59分（07:02→08:01） |
+| FirstSquawk | 69 | 10/06 02:46 | 10/06 08:06 | ⚠ 59分（07:02→08:01） |
 | financialjuice | 50 | 10/06 02:53 | 10/06 07:45 | ⚠ 87分（06:00→07:27） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 128 行（統合前 135 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 129 行（統合前 136 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -152,3 +152,4 @@
 - 10/06 07:39 [DeItaone] TRUMP: HAVE DECIDED TO DO ADS AND PAY FOR THEM MYSELF, AND WITH MONEY I RAISED FOR MAGA, INC.
 - 10/06 07:44 [financialjuice] Skyworks announces expiration and final outcomes of exchange offers for Qorvo senior notes due 2029 and 2031
 - 10/06 07:45 [financialjuice/FirstSquawk] Australian army soldier dies, five others hurt in training exercise in northern Australia: ABC News
+- 10/06 08:06 [FirstSquawk] SOUTH KOREA POLICE INVESTIGATE CYBERATTACKS TARGETING COMMERCIAL BANKS — YONHAP

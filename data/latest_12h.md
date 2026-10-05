@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-06 08:05 JST／対象: 10/05 20:05 〜 10/06 08:05 JST（時刻はすべて日本時間）
+生成: 2026-10-06 08:24 JST／対象: 10/05 20:24 〜 10/06 08:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 57 | 10/05 20:23 | 10/06 07:39 | ⚠ 206分（03:52→07:19） |
-| FirstSquawk | 130 | 10/05 20:08 | 10/06 08:01 | ⚠ 59分（07:02→08:01） |
-| financialjuice | 121 | 10/05 20:15 | 10/06 07:45 | ⚠ 87分（06:00→07:27） |
+| DeItaone | 56 | 10/05 20:38 | 10/06 07:39 | ⚠ 206分（03:52→07:19） |
+| FirstSquawk | 127 | 10/05 20:27 | 10/06 08:06 | ⚠ 59分（07:02→08:01） |
+| financialjuice | 120 | 10/05 21:13 | 10/06 07:45 | ⚠ 87分（06:00→07:27） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 293 行（統合前 311 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 288 行（統合前 306 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 20:08 [FirstSquawk] BOND TURBULENCE MEANS IT’S TIME FOR THE ECB TO PUT QT ON HOLD – FT
-- 10/05 20:15 [financialjuice] US Commerce Secretary Lutnick to meet UK government business advisor and CEOs
-- 10/05 20:15 [FirstSquawk] WELLS: UK HAS TRIED & TESTED APPROACHES TO DEFENDING OUR BASES
-- 10/05 20:17 [FirstSquawk] ADNOC- : ADNOC SIGNS AGREEMENT WITH GULF GROUP TO SUPPLY UP TO 2 MLN TONNES OF LNG TO THAILAND
-- 10/05 20:22 [FirstSquawk] USD/JPY RISES 0.2% TO 158.21, NEARS 55-DMA RESISTANCE AT 158.45
-- 10/05 20:23 [DeItaone] $SPCX - MORGAN STANLEY: SPACEX “CHEAP AND GETTING CHEAPER” Morgan Stanley reiterates Overweight on SpaceX with a $300 price target, arguing the stock looks cheap once its growth profile is considered. Analyst Adam Jonas says SpaceX trades r…
 - 10/05 20:27 [FirstSquawk] UK PM SPOX: UK HAS DIVERSE, RESILIENT DIESEL SUPPLIES
 - 10/05 20:37 [FirstSquawk] GE HEALTHCARE TO BUY SOFIE FOR NEARLY $1 BILLION TO GROW MEDICAL-IMAGING BUSINESS – WSJ
 - 10/05 20:38 [DeItaone] BUNDESBANK CHIEF WARNS GERMANY OVER LOW GAS STORAGE Bundesbank President Joachim Nagel criticized Germany’s slow pace of rebuilding natural gas inventories, warning it could add to inflation risks this winter. German storage sites are only …
@@ -317,3 +311,4 @@
 - 10/06 07:39 [DeItaone] TRUMP: HAVE DECIDED TO DO ADS AND PAY FOR THEM MYSELF, AND WITH MONEY I RAISED FOR MAGA, INC.
 - 10/06 07:44 [financialjuice] Skyworks announces expiration and final outcomes of exchange offers for Qorvo senior notes due 2029 and 2031
 - 10/06 07:45 [financialjuice/FirstSquawk] Australian army soldier dies, five others hurt in training exercise in northern Australia: ABC News
+- 10/06 08:06 [FirstSquawk] SOUTH KOREA POLICE INVESTIGATE CYBERATTACKS TARGETING COMMERCIAL BANKS — YONHAP
