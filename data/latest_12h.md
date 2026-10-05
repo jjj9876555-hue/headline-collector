@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-05 11:37 JST／対象: 10/04 23:37 〜 10/05 11:37 JST（時刻はすべて日本時間）
+生成: 2026-10-05 11:56 JST／対象: 10/04 23:56 〜 10/05 11:56 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 10/05 02:13 | 10/05 09:05 | ⚠ 411分（02:14→09:05） |
-| FirstSquawk | 81 | 10/04 23:58 | 10/05 11:33 | ⚠ 221分（05:36→09:18） |
+| FirstSquawk | 82 | 10/04 23:58 | 10/05 11:42 | ⚠ 221分（05:36→09:18） |
 | financialjuice | 25 | 10/05 02:06 | 10/05 11:27 | ⚠ 102分（05:17→07:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 107 行（統合前 112 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 108 行（統合前 113 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -131,3 +131,4 @@
 - 10/05 11:27 [financialjuice] euro falls to lowest since May 2025, down 0.35% at $1.1213
 - 10/05 11:31 [FirstSquawk] Euro drops to $1.1213, weakest since May 2025, down 0.35%
 - 10/05 11:33 [FirstSquawk] IMF reaches staff-level deal on seventh review of Sri Lanka’s Extended Fund Facility
+- 10/05 11:42 [FirstSquawk] UK to impose tariffs on Chinese electric cars, The Times reports

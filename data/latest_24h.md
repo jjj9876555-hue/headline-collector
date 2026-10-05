@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-05 11:37 JST／対象: 10/04 11:37 〜 10/05 11:37 JST（時刻はすべて日本時間）
+生成: 2026-10-05 11:56 JST／対象: 10/04 11:56 〜 10/05 11:56 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 10/04 18:55 | 10/05 09:05 | ⚠ 411分（02:14→09:05） |
-| FirstSquawk | 221 | 10/04 11:55 | 10/05 11:33 | ⚠ 221分（05:36→09:18） |
+| FirstSquawk | 221 | 10/04 12:00 | 10/05 11:42 | ⚠ 221分（05:36→09:18） |
 | financialjuice | 52 | 10/04 13:16 | 10/05 11:27 | ⚠ 199分（22:46→02:06） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,7 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/04 11:55 [FirstSquawk] Trump pledges death penalty for large-scale drug trafficking and killing law enforcement officials
 - 10/04 12:00 [FirstSquawk] Turkish Arms Maker Seeks Closer Japan Ties In Air Defense, Underwater Drone Systems - NA
 - 10/04 12:01 [FirstSquawk] Latvia’s Ruling United List Ahead With 36.6% As Vote Count Passes 66%
 - 10/04 12:01 [FirstSquawk] Petroecuador Says SOTE Pipeline Operations Could Resume Within Six Days
@@ -298,3 +297,4 @@
 - 10/05 11:27 [financialjuice] euro falls to lowest since May 2025, down 0.35% at $1.1213
 - 10/05 11:31 [FirstSquawk] Euro drops to $1.1213, weakest since May 2025, down 0.35%
 - 10/05 11:33 [FirstSquawk] IMF reaches staff-level deal on seventh review of Sri Lanka’s Extended Fund Facility
+- 10/05 11:42 [FirstSquawk] UK to impose tariffs on Chinese electric cars, The Times reports
