@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-05 22:51 JST／対象: 10/04 22:51 〜 10/05 22:51 JST（時刻はすべて日本時間）
+生成: 2026-10-05 23:07 JST／対象: 10/04 23:07 〜 10/05 23:07 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 30 | 10/05 02:13 | 10/05 22:45 | ⚠ 620分（09:05→19:25） |
-| FirstSquawk | 225 | 10/04 23:09 | 10/05 22:46 | ⚠ 221分（05:36→09:18） |
-| financialjuice | 125 | 10/05 02:06 | 10/05 22:47 | ⚠ 103分（14:12→15:55） |
+| DeItaone | 36 | 10/05 02:13 | 10/05 23:06 | ⚠ 620分（09:05→19:25） |
+| FirstSquawk | 229 | 10/04 23:09 | 10/05 23:05 | ⚠ 221分（05:36→09:18） |
+| financialjuice | 133 | 10/05 02:06 | 10/05 23:05 | ⚠ 103分（14:12→15:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 377 行（統合前 385 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 392 行（統合前 403 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -401,3 +401,18 @@
 - 10/05 22:46 [FirstSquawk] U.S S&P GLOBAL COMPOSITE PMI (SEP) ACTUAL: 58.4 VS 58.4 PREVIOUS; EST 58.4
 - 10/05 22:46 [financialjuice] US S&P Service PMI Final September Report
 - 10/05 22:47 [financialjuice] Activity surges higher as new order growth hits four-and-a-half-year high Rate of job creation strongest since June 2022 Input cost inflation reaccelerates
+- 10/05 22:58 [FirstSquawk] HOUTHIS FIRED TWO MISSILES TOWARD BAB EL-MANDE
+- 10/05 23:00 [FirstSquawk] US ISM NON-MANUFACTURING PMI (SEP) ACTUAL: 54.9 VS 55.4 PREVIOUS; EST 55.0
+- 10/05 23:00 [financialjuice] US ISM SERVICES NEW ORDERS ACTUAL 59.8 (FORECAST 60.3, PREVIOUS 60.9) $MACRO
+- 10/05 23:00 [financialjuice] US ISM SERVICES PRICES PAID ACTUAL 74 (FORECAST 73.3, PREVIOUS 72.6) $MACRO
+- 10/05 23:00 [financialjuice] US ISM SERVICES EMPLOYMENT ACTUAL 50.1 (FORECAST 48.8, PREVIOUS 47.8) $MACRO
+- 10/05 23:00 [DeItaone] US SEP ISM SERVICES PMI 54.9 (55.4 AUG)
+- 10/05 23:00 [financialjuice] ‼ BREAKING: US ISM SERVICES PMI ACTUAL 54.9 (FORECAST 55, PREVIOUS 55.4) $MACRO
+- 10/05 23:01 [DeItaone] US SEP ISM SERVICES PMI 54.9 (55.4 AUG) US SEP ISM SERVICES EMPLOYMENT 50.1 (47.8 AUG) US SEP ISM SERVICES PRODUCTION 56.5 (61.7 AUG) US SEP ISM SERVICES NEW ORDERS 59.8 (60.9 AUG) US SEP ISM SERVICES PRICES PAID 74.0 (72.6 AUG)
+- 10/05 23:02 [financialjuice] US ISM Services PMI September Report
+- 10/05 23:02 [FirstSquawk/DeItaone] JD VANCE, SOME CABINET MEMBERS MET FRIDAY ABOUT IRAN: AXIOS
+- 10/05 23:03 [financialjuice] Trump's Top National Security Officials Hold Secret Camp David Meeting on Iran and Yemen – Axios
+- 10/05 23:04 [DeItaone/financialjuice/FirstSquawk] STOCKS OF CRUDE OIL IN THE US STRATEGIC PETROLEUM RESERVE FELL BY ABOUT 767,000 BARRELS TO 283 MLN BARRELS LAST WEEK, LOWEST SINCE 1982
+- 10/05 23:04 [financialjuice] Trump's top national security aides meet secretly at Camp David on Iran, Yemen - Axios
+- 10/05 23:05 [DeItaone] YIELD ON 10-YEAR TREASURY NOTE HOLDS GAINS AFTER DATA; LAST UP 1.92 BASIS POINTS AT 5.296%
+- 10/05 23:06 [DeItaone] TRUMP TEAM HELD SECRET CAMP DAVID TALKS ON IRAN, YEMEN Trump’s top national security officials met for hours at Camp David on Friday to discuss next steps in the Iran war and Saudi-Houthi conflict in Yemen, Axios reports, citing three U.S. …
