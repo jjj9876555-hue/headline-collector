@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-05 11:19 JST／対象: 10/04 11:19 〜 10/05 11:19 JST（時刻はすべて日本時間）
+生成: 2026-10-05 11:37 JST／対象: 10/04 11:37 〜 10/05 11:37 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 10/04 18:55 | 10/05 09:05 | ⚠ 411分（02:14→09:05） |
-| FirstSquawk | 222 | 10/04 11:27 | 10/05 11:17 | ⚠ 221分（05:36→09:18） |
-| financialjuice | 50 | 10/04 13:16 | 10/05 10:01 | ⚠ 199分（22:46→02:06） |
+| FirstSquawk | 221 | 10/04 11:55 | 10/05 11:33 | ⚠ 221分（05:36→09:18） |
+| financialjuice | 52 | 10/04 13:16 | 10/05 11:27 | ⚠ 199分（22:46→02:06） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 273 行（統合前 283 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 274 行（統合前 284 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/04 11:27 [FirstSquawk] Kawasaki Heavy targets fully autonomous humanoid AI robot by 2030
-- 10/04 11:36 [FirstSquawk] Trump vows to pass ‘No Invasion of Our Country Act’ to restrict illegal immigration
-- 10/04 11:37 [FirstSquawk] Trump: New healthcare plan would end payments to big insurers and give money to Americans
 - 10/04 11:55 [FirstSquawk] Trump pledges death penalty for large-scale drug trafficking and killing law enforcement officials
 - 10/04 12:00 [FirstSquawk] Turkish Arms Maker Seeks Closer Japan Ties In Air Defense, Underwater Drone Systems - NA
 - 10/04 12:01 [FirstSquawk] Latvia’s Ruling United List Ahead With 36.6% As Vote Count Passes 66%
@@ -297,3 +294,7 @@
 - 10/05 11:06 [FirstSquawk] Japan’s Nikkei retakes 70,000 mark amid renewed AI optimism
 - 10/05 11:07 [FirstSquawk] Canadian dollar remains under pressure near April 2025 lows despite weak US payrolls
 - 10/05 11:17 [FirstSquawk] Malaysians prioritise family over shopping and holidays, domestic travel data shows
+- 10/05 11:25 [financialjuice] euro slides 0.38% to $1.1211
+- 10/05 11:27 [financialjuice] euro falls to lowest since May 2025, down 0.35% at $1.1213
+- 10/05 11:31 [FirstSquawk] Euro drops to $1.1213, weakest since May 2025, down 0.35%
+- 10/05 11:33 [FirstSquawk] IMF reaches staff-level deal on seventh review of Sri Lanka’s Extended Fund Facility

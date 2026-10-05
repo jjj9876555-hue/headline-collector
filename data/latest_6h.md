@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-05 11:19 JST／対象: 10/05 05:19 〜 10/05 11:19 JST（時刻はすべて日本時間）
+生成: 2026-10-05 11:37 JST／対象: 10/05 05:37 〜 10/05 11:37 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 10/05 09:05 | 10/05 09:05 | - |
-| FirstSquawk | 32 | 10/05 05:36 | 10/05 11:17 | ⚠ 221分（05:36→09:18） |
-| financialjuice | 16 | 10/05 07:00 | 10/05 10:01 | ⚠ 81分（07:40→09:01） |
+| FirstSquawk | 33 | 10/05 09:18 | 10/05 11:33 | 19分（10:22→10:41） |
+| financialjuice | 18 | 10/05 07:00 | 10/05 11:27 | ⚠ 83分（10:01→11:25） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 49 行（統合前 52 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 52 行（統合前 55 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 05:36 [FirstSquawk] EX-ANTHROPIC RESEARCHER JACOB COXON TO TESTIFY AT NYC HEARING ON AI
 - 10/05 07:00 [financialjuice] AUSTRALIAN COMPOSITE PMI FINAL ACTUAL 51.3 (FORECAST -, PREVIOUS 50.8) $MACRO
 - 10/05 07:00 [financialjuice] AUSTRALIAN SERVICES PMI FINAL ACTUAL 51.9 (FORECAST -, PREVIOUS 51.4) $MACRO
 - 10/05 07:40 [financialjuice] US B-1 bombers evacuated from UK base after attack threats from Iran - Axios
@@ -73,3 +72,7 @@
 - 10/05 11:06 [FirstSquawk] Japan’s Nikkei retakes 70,000 mark amid renewed AI optimism
 - 10/05 11:07 [FirstSquawk] Canadian dollar remains under pressure near April 2025 lows despite weak US payrolls
 - 10/05 11:17 [FirstSquawk] Malaysians prioritise family over shopping and holidays, domestic travel data shows
+- 10/05 11:25 [financialjuice] euro slides 0.38% to $1.1211
+- 10/05 11:27 [financialjuice] euro falls to lowest since May 2025, down 0.35% at $1.1213
+- 10/05 11:31 [FirstSquawk] Euro drops to $1.1213, weakest since May 2025, down 0.35%
+- 10/05 11:33 [FirstSquawk] IMF reaches staff-level deal on seventh review of Sri Lanka’s Extended Fund Facility
