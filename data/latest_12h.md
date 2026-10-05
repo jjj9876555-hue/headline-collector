@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-05 08:58 JST／対象: 10/04 20:58 〜 10/05 08:58 JST（時刻はすべて日本時間）
+生成: 2026-10-05 09:28 JST／対象: 10/04 21:28 〜 10/05 09:28 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 3 | 10/04 22:36 | 10/05 02:14 | ⚠ 216分（22:36→02:13） |
-| FirstSquawk | 65 | 10/04 21:44 | 10/05 05:36 | ⚠ 96分（03:59→05:36） |
-| financialjuice | 24 | 10/04 21:00 | 10/05 07:40 | ⚠ 199分（22:46→02:06） |
+| DeItaone | 4 | 10/04 22:36 | 10/05 09:05 | ⚠ 411分（02:14→09:05） |
+| FirstSquawk | 71 | 10/04 21:44 | 10/05 09:26 | ⚠ 221分（05:36→09:18） |
+| financialjuice | 19 | 10/04 21:37 | 10/05 09:28 | ⚠ 199分（22:46→02:06） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 86 行（統合前 94 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 88 行（統合前 96 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/04 21:00 [financialjuice] Germany's Chancellor Merz: undeterred by assault during our visit
-- 10/04 21:00 [financialjuice] Germany's Chancellor Merz urges Russia to join peace talks
-- 10/04 21:00 [financialjuice] Germany’s Chancellor Merz: immeasurable consequences for Europe if government fails to meet challenges, will do everything to keep government stable
-- 10/04 21:00 [financialjuice] Germany's Chancellor Merz: Russian strikes on Germany won't cease if Berlin halts support for Ukraine
-- 10/04 21:00 [financialjuice] Germany's Chancellor Merz: Russia intends to shatter morale of Ukrainians
-- 10/04 21:00 [financialjuice] Germany’s Chancellor Merz: unveiling military aid package of about 1 billion euros for Ukraine
-- 10/04 21:00 [financialjuice] Germany's Chancellor Merz: preparing winter energy support package of about 350 million euros for Ukraine
-- 10/04 21:05 [financialjuice] Head of Yemen's presidential leadership council al-Alimi: military operations have started to reclaim remaining Houthi-held territory
-- 10/04 21:24 [financialjuice] Trump: John Coale named as new special presidential envoy for hostage affairs
 - 10/04 21:37 [financialjuice/FirstSquawk] Russia's deputy PM Novak: JMMC observed significant fluctuations in global oil markets, citing a supply shortfall
 - 10/04 21:40 [financialjuice/FirstSquawk] Russia's Deputy PM Novak: russia and Saudi Arabia to discuss oil market and 2026-2027 outlook on October 12 in Riyadh
 - 10/04 21:44 [FirstSquawk] Zelensky: Putin wants to weaken Ukraine's ability to resist as much as possible.
@@ -110,3 +101,14 @@
 - 10/05 07:00 [financialjuice] AUSTRALIAN COMPOSITE PMI FINAL ACTUAL 51.3 (FORECAST -, PREVIOUS 50.8) $MACRO
 - 10/05 07:00 [financialjuice] AUSTRALIAN SERVICES PMI FINAL ACTUAL 51.9 (FORECAST -, PREVIOUS 51.4) $MACRO
 - 10/05 07:40 [financialjuice] US B-1 bombers evacuated from UK base after attack threats from Iran - Axios
+- 10/05 09:01 [financialjuice] Ireland S&P Global September services PMI at 54.1 versus 55.4 in August
+- 10/05 09:05 [DeItaone] ALTMAN: WORLD SHOULD ACCEPT SOME AI RISKS OpenAI CEO Sam Altman says “the world should accept some bad things happening” to keep AI broadly accessible, arguing that people will ultimately use the technology for far more good than harm. Altm…
+- 10/05 09:18 [FirstSquawk] UK EXPECTED TO IMPOSE TARIFFS ON CHINESE ELECTRIC CARS - THE TIMES
+- 10/05 09:20 [FirstSquawk] AUSTRALIA MELBOURNE INSTITUTE INFLATION EASES TO 0.3% M/M IN SEPTEMBER FROM 0.5%; ANNUAL RATE HOLDS AT 4.8%
+- 10/05 09:21 [FirstSquawk] JAPAN 10-YEAR JGB YIELD RISES 1.0 BP TO 3.110%
+- 10/05 09:22 [FirstSquawk] OPENAI CEO ALTMAN SAYS THERE IS 'A LOT OF DAYLIGHT' BETWEEN HIM AND ANTHROPIC'S AMODEI ON AI RISKS, DISMISSING THE RISK OF A SERIOUS LOSS OF CONTROL OVER AI. ALTMAN DOES NOT ACCEPT 'REALLY CATASTROPHIC RISKS', SAYING THE TECHNOLOGY'S BENEFI…
+- 10/05 09:25 [FirstSquawk] U.S. HAS WITHDRAWN ALL 12 B-1 BOMBERS FROM RAF FAIRFORD IN THE UK FOLLOWING SECURITY CONCERNS OVER A SUSPECTED IRAN-LINKED TERROR PLOT TARGETING THE BASE, WITH U.S. OFFICIALS BELIEVING A BRANCH OF THE ISLAMIC REVOLUTIONARY GUARD CORPS RECRU…
+- 10/05 09:26 [FirstSquawk] RAF FAIRFORD HAD BEEN USED AS A HUB FOR LAUNCHING U.S. BOMBER STRIKES IN IRAN, WITH THE B-1S NOW RETURNED TO THEIR HOME STATIONS IN THE U.S. AND REMAINING AVAILABLE FOR GLOBAL MISSIONS - WSJ
+- 10/05 09:26 [financialjuice] BOJ deputy governor Uchida: adoption of AI could have both positive and negative effects on productivity and labor markets
+- 10/05 09:28 [financialjuice] BOJ deputy governor uchida: AI has become a major focus among central banks, including at BOJ monetary policy meetings
+- 10/05 09:28 [financialjuice] BoJ deputy governor Uchida: AI impacts key monetary policy parameters including output gap, financial conditions, and star variables
