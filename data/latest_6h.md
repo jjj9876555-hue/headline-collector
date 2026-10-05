@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-05 19:31 JST／対象: 10/05 13:31 〜 10/05 19:31 JST（時刻はすべて日本時間）
+生成: 2026-10-05 19:51 JST／対象: 10/05 13:51 〜 10/05 19:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 4 | 10/05 19:25 | 10/05 19:29 | 1分（19:25→19:27） |
-| FirstSquawk | 95 | 10/05 13:44 | 10/05 19:21 | 31分（15:24→15:55） |
-| financialjuice | 62 | 10/05 13:32 | 10/05 19:28 | ⚠ 103分（14:12→15:55） |
+| DeItaone | 8 | 10/05 19:25 | 10/05 19:39 | 4分（19:32→19:36） |
+| FirstSquawk | 91 | 10/05 13:53 | 10/05 19:46 | 31分（15:24→15:55） |
+| financialjuice | 60 | 10/05 13:52 | 10/05 19:28 | ⚠ 103分（14:12→15:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 161 行（統合前 161 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 159 行（統合前 159 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 13:32 [financialjuice] India finance minister: tariffs are being used as weapons despite framework
-- 10/05 13:44 [FirstSquawk] UK IS ENCOURAGED TO ADOPT AFFORDABLE AI MODELS – FT
-- 10/05 13:44 [FirstSquawk] UK AUDIT WATCHDOG IS THINKING ABOUT CHANGING GOVERNANCE RULES.
-- 10/05 13:44 [FirstSquawk] GLOBAL PENSION FUNDS REDUCE US STOCKS DUE TO AI RISK CONCERNS, SAYS FT.
-- 10/05 13:44 [FirstSquawk] EU WILL RESTRICT UKRAINE'S FARMING SUBSIDIES IF IT BECOMES A MEMBER OF THE BLOCK, ACCORDING TO FT.
-- 10/05 13:44 [FirstSquawk] TRUMP ANGRY WITH SUPREME COURT JUSTICES FOR NOT FOLLOWING HIS WISHES – FT.
-- 10/05 13:44 [FirstSquawk] INDIA'S FINANCE MINISTER STATES THAT THE US TRADE DEAL HAS BEEN TOUGHLY NEGOTIATED AND BELIEVES DISCUSSIONS HAVE REACHED A STANDSTILL.
-- 10/05 13:50 [financialjuice] German Bund futures rise 0.1%; French OAT futures fall 0.22%
 - 10/05 13:52 [financialjuice] India finance minister: new model for bilateral investment treaties to be approved soon
 - 10/05 13:53 [financialjuice] India finance minister: to finalize bilateral investment pact with Canada by December or early next year
 - 10/05 13:53 [FirstSquawk] INDIA'S FINANCE MINISTER ANNOUNCED A NEW TEMPLATE FOR BILATERAL INVESTMENT TREATIES THAT WILL BE APPROVED SOON.
@@ -185,3 +177,9 @@
 - 10/05 19:28 [financialjuice] UKMTO: Tanker transiting through the strait was hailed by IRGC and instructed to turn back, or it would be targeted
 - 10/05 19:28 [DeItaone] BITCOIN RALLY REVIVES “DEBASEMENT TRADE” Bitcoin’s rally toward $86,000 reflects renewed demand for an anti-fiat hedge, according to Capital. com’s Kyle Rodda. Rodda links the move to Scott Bessent’s intervention in Treasury markets, arguin…
 - 10/05 19:29 [DeItaone] JPMORGAN: BOND YIELD SPIKE WON’T DERAIL STOCKS JPMorgan says the recent surge in bond yields should not cause lasting damage to equities, expecting yields to retreat from current highs. Strategist Mislav Matejka sees resilient economic grow…
+- 10/05 19:32 [DeItaone] BOFA: ACTIVE FUNDS STRUGGLE AS MEGACAPS DOMINATE Just 44% of large-cap active funds beat their benchmarks in September, as market leadership narrowed sharply toward megacaps, according to BofA. The cap-weighted S&P 500 outperformed its equa…
+- 10/05 19:36 [DeItaone] 🇺🇸 WHAT TO WATCH TODAY — U.S. MARKETS 🔸 9:20 AM ET — 🇺🇸 NY Fed Bill Purchases, 4–12 months 🔸 9:45 AM ET — 🇺🇸 S&P Global Services PMI — Final 🔸 9:45 AM ET — 🇺🇸 S&P Global Composite PMI — Final 🔥 10:00 AM ET — ISM SERVICES PMI Consensus: 55.7…
+- 10/05 19:37 [DeItaone] 🇺🇸 PRESIDENT’S CALENDAR — MONDAY, OCTOBER 5, 2026 🔸 8:00 AM ET — Executive Time — White House 🔸 9:00 AM ET — In-Town Pool Call Time 🔸 10:00 AM ET — Policy Meeting — Oval Office 🔸 12:30 PM ET — Policy Meeting — Oval Office 🔸 1:30 PM ET — Pol…
+- 10/05 19:39 [DeItaone] IRGC THREATENS TANKER IN STRAIT OF HORMUZ UKMTO says a tanker transiting the Strait of Hormuz was hailed by Iran’s IRGC and instructed to turn back or risk being targeted. The tanker complied with the order. The incident was reported 11 nau…
+- 10/05 19:44 [FirstSquawk] ROMANIA: CARGO VESSEL SINKS IN BLACK SEA, TWO DEAD
+- 10/05 19:46 [FirstSquawk] IRAN ISSUES STRONGER WARNINGS ABOUT STARLINK AMID ESCALATING COST-OF-LIVING ISSUES AND GROWING FEARS OF PUBLIC PROTESTS, SHOWING INCREASING ANXIETY OVER ACCESS TO SATELLITE INTERNET.

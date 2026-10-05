@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-05 19:31 JST／対象: 10/05 07:31 〜 10/05 19:31 JST（時刻はすべて日本時間）
+生成: 2026-10-05 19:51 JST／対象: 10/05 07:51 〜 10/05 19:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 5 | 10/05 09:05 | 10/05 19:29 | ⚠ 620分（09:05→19:25） |
-| FirstSquawk | 143 | 10/05 09:18 | 10/05 19:21 | ⚠ 55分（11:42→12:37） |
-| financialjuice | 87 | 10/05 07:40 | 10/05 19:28 | ⚠ 103分（14:12→15:55） |
+| DeItaone | 9 | 10/05 09:05 | 10/05 19:39 | ⚠ 620分（09:05→19:25） |
+| FirstSquawk | 145 | 10/05 09:18 | 10/05 19:46 | ⚠ 55分（11:42→12:37） |
+| financialjuice | 86 | 10/05 09:01 | 10/05 19:28 | ⚠ 103分（14:12→15:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 235 行（統合前 238 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 240 行（統合前 242 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 07:40 [financialjuice] US B-1 bombers evacuated from UK base after attack threats from Iran - Axios
 - 10/05 09:01 [financialjuice] Ireland S&P Global September services PMI at 54.1 versus 55.4 in August
 - 10/05 09:05 [DeItaone] ALTMAN: WORLD SHOULD ACCEPT SOME AI RISKS OpenAI CEO Sam Altman says “the world should accept some bad things happening” to keep AI broadly accessible, arguing that people will ultimately use the technology for far more good than harm. Altm…
 - 10/05 09:18 [FirstSquawk] UK EXPECTED TO IMPOSE TARIFFS ON CHINESE ELECTRIC CARS - THE TIMES
@@ -259,3 +258,9 @@
 - 10/05 19:28 [financialjuice] UKMTO: Tanker transiting through the strait was hailed by IRGC and instructed to turn back, or it would be targeted
 - 10/05 19:28 [DeItaone] BITCOIN RALLY REVIVES “DEBASEMENT TRADE” Bitcoin’s rally toward $86,000 reflects renewed demand for an anti-fiat hedge, according to Capital. com’s Kyle Rodda. Rodda links the move to Scott Bessent’s intervention in Treasury markets, arguin…
 - 10/05 19:29 [DeItaone] JPMORGAN: BOND YIELD SPIKE WON’T DERAIL STOCKS JPMorgan says the recent surge in bond yields should not cause lasting damage to equities, expecting yields to retreat from current highs. Strategist Mislav Matejka sees resilient economic grow…
+- 10/05 19:32 [DeItaone] BOFA: ACTIVE FUNDS STRUGGLE AS MEGACAPS DOMINATE Just 44% of large-cap active funds beat their benchmarks in September, as market leadership narrowed sharply toward megacaps, according to BofA. The cap-weighted S&P 500 outperformed its equa…
+- 10/05 19:36 [DeItaone] 🇺🇸 WHAT TO WATCH TODAY — U.S. MARKETS 🔸 9:20 AM ET — 🇺🇸 NY Fed Bill Purchases, 4–12 months 🔸 9:45 AM ET — 🇺🇸 S&P Global Services PMI — Final 🔸 9:45 AM ET — 🇺🇸 S&P Global Composite PMI — Final 🔥 10:00 AM ET — ISM SERVICES PMI Consensus: 55.7…
+- 10/05 19:37 [DeItaone] 🇺🇸 PRESIDENT’S CALENDAR — MONDAY, OCTOBER 5, 2026 🔸 8:00 AM ET — Executive Time — White House 🔸 9:00 AM ET — In-Town Pool Call Time 🔸 10:00 AM ET — Policy Meeting — Oval Office 🔸 12:30 PM ET — Policy Meeting — Oval Office 🔸 1:30 PM ET — Pol…
+- 10/05 19:39 [DeItaone] IRGC THREATENS TANKER IN STRAIT OF HORMUZ UKMTO says a tanker transiting the Strait of Hormuz was hailed by Iran’s IRGC and instructed to turn back or risk being targeted. The tanker complied with the order. The incident was reported 11 nau…
+- 10/05 19:44 [FirstSquawk] ROMANIA: CARGO VESSEL SINKS IN BLACK SEA, TWO DEAD
+- 10/05 19:46 [FirstSquawk] IRAN ISSUES STRONGER WARNINGS ABOUT STARLINK AMID ESCALATING COST-OF-LIVING ISSUES AND GROWING FEARS OF PUBLIC PROTESTS, SHOWING INCREASING ANXIETY OVER ACCESS TO SATELLITE INTERNET.

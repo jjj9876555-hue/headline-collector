@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-05 19:31 JST／対象: 10/04 19:31 〜 10/05 19:31 JST（時刻はすべて日本時間）
+生成: 2026-10-05 19:51 JST／対象: 10/04 19:51 〜 10/05 19:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 10 | 10/04 20:19 | 10/05 19:29 | ⚠ 620分（09:05→19:25） |
-| FirstSquawk | 225 | 10/04 19:53 | 10/05 19:21 | ⚠ 221分（05:36→09:18） |
+| DeItaone | 14 | 10/04 20:19 | 10/05 19:39 | ⚠ 620分（09:05→19:25） |
+| FirstSquawk | 227 | 10/04 19:53 | 10/05 19:46 | ⚠ 221分（05:36→09:18） |
 | financialjuice | 111 | 10/04 20:14 | 10/05 19:28 | ⚠ 199分（22:46→02:06） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 340 行（統合前 350 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 346 行（統合前 356 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -364,3 +364,9 @@
 - 10/05 19:28 [financialjuice] UKMTO: Tanker transiting through the strait was hailed by IRGC and instructed to turn back, or it would be targeted
 - 10/05 19:28 [DeItaone] BITCOIN RALLY REVIVES “DEBASEMENT TRADE” Bitcoin’s rally toward $86,000 reflects renewed demand for an anti-fiat hedge, according to Capital. com’s Kyle Rodda. Rodda links the move to Scott Bessent’s intervention in Treasury markets, arguin…
 - 10/05 19:29 [DeItaone] JPMORGAN: BOND YIELD SPIKE WON’T DERAIL STOCKS JPMorgan says the recent surge in bond yields should not cause lasting damage to equities, expecting yields to retreat from current highs. Strategist Mislav Matejka sees resilient economic grow…
+- 10/05 19:32 [DeItaone] BOFA: ACTIVE FUNDS STRUGGLE AS MEGACAPS DOMINATE Just 44% of large-cap active funds beat their benchmarks in September, as market leadership narrowed sharply toward megacaps, according to BofA. The cap-weighted S&P 500 outperformed its equa…
+- 10/05 19:36 [DeItaone] 🇺🇸 WHAT TO WATCH TODAY — U.S. MARKETS 🔸 9:20 AM ET — 🇺🇸 NY Fed Bill Purchases, 4–12 months 🔸 9:45 AM ET — 🇺🇸 S&P Global Services PMI — Final 🔸 9:45 AM ET — 🇺🇸 S&P Global Composite PMI — Final 🔥 10:00 AM ET — ISM SERVICES PMI Consensus: 55.7…
+- 10/05 19:37 [DeItaone] 🇺🇸 PRESIDENT’S CALENDAR — MONDAY, OCTOBER 5, 2026 🔸 8:00 AM ET — Executive Time — White House 🔸 9:00 AM ET — In-Town Pool Call Time 🔸 10:00 AM ET — Policy Meeting — Oval Office 🔸 12:30 PM ET — Policy Meeting — Oval Office 🔸 1:30 PM ET — Pol…
+- 10/05 19:39 [DeItaone] IRGC THREATENS TANKER IN STRAIT OF HORMUZ UKMTO says a tanker transiting the Strait of Hormuz was hailed by Iran’s IRGC and instructed to turn back or risk being targeted. The tanker complied with the order. The incident was reported 11 nau…
+- 10/05 19:44 [FirstSquawk] ROMANIA: CARGO VESSEL SINKS IN BLACK SEA, TWO DEAD
+- 10/05 19:46 [FirstSquawk] IRAN ISSUES STRONGER WARNINGS ABOUT STARLINK AMID ESCALATING COST-OF-LIVING ISSUES AND GROWING FEARS OF PUBLIC PROTESTS, SHOWING INCREASING ANXIETY OVER ACCESS TO SATELLITE INTERNET.
