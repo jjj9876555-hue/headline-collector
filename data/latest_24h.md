@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-05 17:32 JST／対象: 10/04 17:32 〜 10/05 17:32 JST（時刻はすべて日本時間）
+生成: 2026-10-05 17:52 JST／対象: 10/04 17:52 〜 10/05 17:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 10/04 18:55 | 10/05 09:05 | ⚠ 411分（02:14→09:05） |
-| FirstSquawk | 216 | 10/04 17:32 | 10/05 17:18 | ⚠ 221分（05:36→09:18） |
-| financialjuice | 94 | 10/04 17:48 | 10/05 17:31 | ⚠ 199分（22:46→02:06） |
+| FirstSquawk | 217 | 10/04 17:55 | 10/05 17:43 | ⚠ 221分（05:36→09:18） |
+| financialjuice | 96 | 10/04 18:38 | 10/05 17:50 | ⚠ 199分（22:46→02:06） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 311 行（統合前 321 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 314 行（統合前 324 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/04 17:32 [FirstSquawk] North Korea test-fired a hypersonic missile, claiming it hit a sea target 1,000 km away using a "wave-like trajectory" designed to evade radar.
-- 10/04 17:32 [FirstSquawk] Russian drones struck Kyiv's Northern Bridge on two consecutive mornings while civilian traffic was crossing.
-- 10/04 17:32 [FirstSquawk] Iran's FM Spox. Esmail Baghaei: The claim that the Iranian delegation was expelled from the U.S. is absurd and completely false. The U.S. failed to block Iran’s UN participation or portray it as isolated, so it resorted to fabricating absur…
-- 10/04 17:48 [financialjuice] Iran's foreign ministry spokesperson: Tehran has clarified its positions via mediators to US response to 7 day plan
 - 10/04 17:55 [FirstSquawk] Iran accused Britain of complicity in military attacks against the country by allowing its bases to be used by US and Israeli forces, the foreign ministry spokesman said on Sunday.
 - 10/04 17:55 [FirstSquawk] Iranian foreign ministry spokesperson: Tehran has clarified its positions via mediators to US response to 7 day plan
 - 10/04 17:56 [FirstSquawk] United, American Airlines up Japan routes to tap demand fueled by weak yen Alaska Airlines upgrades cabins as stock market gains increase customer buying power
@@ -335,3 +331,10 @@
 - 10/05 17:30 [financialjuice] ❗ UK COMPOSITE PMI FINAL ACTUAL 52 (FORECAST 51.7, PREVIOUS 51.7) $MACRO
 - 10/05 17:30 [financialjuice] ‼ BREAKING: UK SERVICES PMI FINAL ACTUAL 52.1 (FORECAST 51.7, PREVIOUS 51.7) $MACRO
 - 10/05 17:31 [financialjuice] UK Services PMI September 2026 Report
+- 10/05 17:40 [financialjuice] Aramco CEO: Oil demand is picking up, inventories need refilling
+- 10/05 17:40 [financialjuice] Aramco CEO: Oil demand picking up, inventories need refilling
+- 10/05 17:43 [FirstSquawk] SAUDI EAST-WEST PIPELINE STOPPED DUE TO NEW ATTACK.
+- 10/05 17:43 [FirstSquawk] ARAMCO IS CONSIDERING INCREASING ITS OIL STOCKPILES TWO TO THREE TIMES OUTSIDE OF SAUDI ARABIA.
+- 10/05 17:43 [FirstSquawk] ARAMCO'S CEO SAYS OIL DEMAND IS INCREASING AND INVENTORIES REQUIRE REPLENISHMENT.
+- 10/05 17:43 [FirstSquawk] BRENT OIL RECOVERS FROM EARLIER LOSSES FOLLOWING NEWS OF AN ATTACK ON SAUDI ARABIA'S E-W PIPELINE.
+- 10/05 17:50 [financialjuice] Saudi east-west oil pipeline is flowing as normal - People say

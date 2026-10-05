@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-05 17:32 JST／対象: 10/05 05:32 〜 10/05 17:32 JST（時刻はすべて日本時間）
+生成: 2026-10-05 17:52 JST／対象: 10/05 05:52 〜 10/05 17:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 10/05 09:05 | 10/05 09:05 | - |
-| FirstSquawk | 113 | 10/05 05:36 | 10/05 17:18 | ⚠ 221分（05:36→09:18） |
-| financialjuice | 68 | 10/05 07:00 | 10/05 17:31 | ⚠ 103分（14:12→15:55） |
+| FirstSquawk | 116 | 10/05 09:18 | 10/05 17:43 | ⚠ 55分（11:42→12:37） |
+| financialjuice | 71 | 10/05 07:00 | 10/05 17:50 | ⚠ 103分（14:12→15:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 182 行（統合前 185 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 188 行（統合前 191 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 05:36 [FirstSquawk] EX-ANTHROPIC RESEARCHER JACOB COXON TO TESTIFY AT NYC HEARING ON AI
 - 10/05 07:00 [financialjuice] AUSTRALIAN COMPOSITE PMI FINAL ACTUAL 51.3 (FORECAST -, PREVIOUS 50.8) $MACRO
 - 10/05 07:00 [financialjuice] AUSTRALIAN SERVICES PMI FINAL ACTUAL 51.9 (FORECAST -, PREVIOUS 51.4) $MACRO
 - 10/05 07:40 [financialjuice] US B-1 bombers evacuated from UK base after attack threats from Iran - Axios
@@ -206,3 +205,10 @@
 - 10/05 17:30 [financialjuice] ❗ UK COMPOSITE PMI FINAL ACTUAL 52 (FORECAST 51.7, PREVIOUS 51.7) $MACRO
 - 10/05 17:30 [financialjuice] ‼ BREAKING: UK SERVICES PMI FINAL ACTUAL 52.1 (FORECAST 51.7, PREVIOUS 51.7) $MACRO
 - 10/05 17:31 [financialjuice] UK Services PMI September 2026 Report
+- 10/05 17:40 [financialjuice] Aramco CEO: Oil demand is picking up, inventories need refilling
+- 10/05 17:40 [financialjuice] Aramco CEO: Oil demand picking up, inventories need refilling
+- 10/05 17:43 [FirstSquawk] SAUDI EAST-WEST PIPELINE STOPPED DUE TO NEW ATTACK.
+- 10/05 17:43 [FirstSquawk] ARAMCO IS CONSIDERING INCREASING ITS OIL STOCKPILES TWO TO THREE TIMES OUTSIDE OF SAUDI ARABIA.
+- 10/05 17:43 [FirstSquawk] ARAMCO'S CEO SAYS OIL DEMAND IS INCREASING AND INVENTORIES REQUIRE REPLENISHMENT.
+- 10/05 17:43 [FirstSquawk] BRENT OIL RECOVERS FROM EARLIER LOSSES FOLLOWING NEWS OF AN ATTACK ON SAUDI ARABIA'S E-W PIPELINE.
+- 10/05 17:50 [financialjuice] Saudi east-west oil pipeline is flowing as normal - People say
