@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-05 16:31 JST／対象: 10/05 10:31 〜 10/05 16:31 JST（時刻はすべて日本時間）
+生成: 2026-10-05 16:51 JST／対象: 10/05 10:51 〜 10/05 16:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 77 | 10/05 10:41 | 10/05 16:15 | ⚠ 55分（11:42→12:37） |
-| financialjuice | 31 | 10/05 11:25 | 10/05 16:09 | ⚠ 103分（14:12→15:55） |
+| FirstSquawk | 78 | 10/05 10:53 | 10/05 16:50 | ⚠ 55分（11:42→12:37） |
+| financialjuice | 35 | 10/05 11:25 | 10/05 16:50 | ⚠ 103分（14:12→15:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 108 行（統合前 108 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 113 行（統合前 113 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 10:41 [FirstSquawk] ASIA-PAC EQUITIES BEGIN THE WEEK HIGHER AMID THIN HOLIDAY TRADE, AFTER WALL ST ADVANCED FRIDAY AS SOFTER JOBS DATA TRIGGERED A DOVISH SHIFT IN FED RATE EXPECTATIONS
-- 10/05 10:44 [FirstSquawk] HKU targets Northern Metropolis expansion to enhance research capacity and talent recruitment - SCMP
-- 10/05 10:47 [FirstSquawk] Middle East oil flows recover above pre-war levels amid rising tanker attacks — RTRS
-- 10/05 10:47 [FirstSquawk] US crude futures decline 1% to $90.17/bbl
-- 10/05 10:50 [FirstSquawk] Fitch rates Mizuho Markets Cayman’s $20M guaranteed senior notes ‘A’
-- 10/05 10:51 [FirstSquawk] Apache workers support strike action that may disrupt North Sea Forties oil pipeline, union says - rtrs
 - 10/05 10:53 [FirstSquawk] Gold climbs as softer inflation data reduces bets on further rate hikes — WSJ
 - 10/05 10:55 [FirstSquawk] Alito invokes Reagan, says Americans have a responsibility to protect the nation’s founding document - FOX NEWS
 - 10/05 10:59 [FirstSquawk] Asian currencies could gain relief as weak US jobs data reduces Fed rate-hike bets — WSJ
@@ -132,3 +126,14 @@
 - 10/05 16:15 [FirstSquawk] SPAIN'S PRIME MINISTER SANCHEZ ANNOUNCES EARLY ELECTIONS ON NOVEMBER 29TH.
 - 10/05 16:15 [FirstSquawk] SPAIN'S SEPTEMBER COMPOSITE PMI INCREASES TO 56.8 FROM 55.8 IN AUGUST.
 - 10/05 16:15 [FirstSquawk] SPAIN'S SERVICES PMI INCREASES TO 58.3 IN SEPTEMBER FROM 57.8 IN AUGUST.
+- 10/05 16:33 [FirstSquawk] HON HAI SEPT SALES +38.4% AT NT$ 1.16T || CALCULATIONS FOR Q3 SALES NT$ 3.027T
+- 10/05 16:35 [FirstSquawk] IRAN'S FOREIGN MINISTER MET WITH ARMENIA'S FOREIGN MINISTER IN TEHRAN.
+- 10/05 16:37 [FirstSquawk] RUSSIA'S ROSATOM CHIEF REPORTS UKRAINE ATTACKED TWO SITES AT THE ZAPORIZHZHIA NUCLEAR POWER PLANT LAST NIGHT.
+- 10/05 16:43 [FirstSquawk] FOXCONN: SEPTEMBER REVENUE +38.4% Y/Y || Q3 REVENUE +47.1% Y/Y || AI-RELATED OPERATIONS ARE EXPECTED TO CONTINUE GROWING IN THE FOURTH QUARTER || IT REMAINS NECESSARY TO MONITOR THE IMPACT OF A VOLATILE GLOBAL POLITICAL AND ECONOMIC ENVIRON…
+- 10/05 16:43 [FirstSquawk] HON HAI EXPECTS AI OPERATIONS TO KEEP GROWING IN THE FOURTH QUARTER.
+- 10/05 16:45 [financialjuice] ITALIAN COMPOSITE PMI ACTUAL 51 (FORECAST 53.2, PREVIOUS 53.6) $MACRO
+- 10/05 16:45 [financialjuice] ITALIAN SERVICES PMI ACTUAL 51.7 (FORECAST 54.5, PREVIOUS 55.2) $MACRO
+- 10/05 16:49 [FirstSquawk] ECB’S NAGEL: UPWARD RISKS DOMINATE THE INFLATION OUTLOOK; UNCERTAINTY CALLS FOR FLEXIBILITY, NOT INACTION || THERE ARE SO FAR NO CLEAR SIGNS THAT INFLATION HAS FED THROUGH TO PRICE AND WAGE SETTING || GERMANY HAS ENTERED GRADUAL RECOVERY
+- 10/05 16:50 [FirstSquawk] ECB’S NAGEL: ECB DECIDES BASED ON DATA, MEETING BY MEETING || STRONG CASE FOR CENTRAL-BANK DIVERSIFICATION INTO GOLD || UNCERTAINTY CALLS FOR FLEXIBILITY NOT INACTION || EURO-AREA GROWTH HAS BEEN MORE RESILIENT THAN EXPECTED || GERMANY MAY …
+- 10/05 16:50 [financialjuice] FRENCH SERVICES PMI ACTUAL 51.2 (FORECAST 51.4, PREVIOUS 51.4) $MACRO
+- 10/05 16:50 [financialjuice] FRENCH COMPOSITE PMI ACTUAL 51.1 (FORECAST 51.2, PREVIOUS 51.2) $MACRO

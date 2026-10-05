@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-05 16:31 JST／対象: 10/04 16:31 〜 10/05 16:31 JST（時刻はすべて日本時間）
+生成: 2026-10-05 16:51 JST／対象: 10/04 16:51 〜 10/05 16:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 10/04 18:55 | 10/05 09:05 | ⚠ 411分（02:14→09:05） |
-| FirstSquawk | 209 | 10/04 16:31 | 10/05 16:15 | ⚠ 221分（05:36→09:18） |
-| financialjuice | 79 | 10/04 16:56 | 10/05 16:09 | ⚠ 199分（22:46→02:06） |
+| FirstSquawk | 212 | 10/04 16:57 | 10/05 16:50 | ⚠ 221分（05:36→09:18） |
+| financialjuice | 83 | 10/04 16:56 | 10/05 16:50 | ⚠ 199分（22:46→02:06） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 289 行（統合前 299 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 296 行（統合前 306 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/04 16:31 [FirstSquawk] Iran tells the United States there is no "military solution" to their conflict
-- 10/04 16:32 [FirstSquawk] Japan's PM Takaichi protests to US over Marine's Okinawa murder arrest
-- 10/04 16:34 [FirstSquawk] Araghchi also said that the Strait of Hormuz would fully reopen within seven days if Iran’s conditions were accepted and the US blockade was lifted
-- 10/04 16:38 [FirstSquawk] German Chancellor Merz arrives in Kyiv, pledges further support for Ukraine. Merz was accompanied by Economy Minister Katherina Reiche and 10 executives from Germany's defense and energy sectors.
 - 10/04 16:56 [financialjuice] OPEC+ reaches agreement in principle to maintain oil output targets in November, delegate says
 - 10/04 16:56 [financialjuice] UKMTO reports incident in Strait of Hormuz
 - 10/04 16:56 [financialjuice] UKMTO: tanker hit by unidentified projectile, engine room damaged
@@ -313,3 +309,14 @@
 - 10/05 16:15 [FirstSquawk] SPAIN'S PRIME MINISTER SANCHEZ ANNOUNCES EARLY ELECTIONS ON NOVEMBER 29TH.
 - 10/05 16:15 [FirstSquawk] SPAIN'S SEPTEMBER COMPOSITE PMI INCREASES TO 56.8 FROM 55.8 IN AUGUST.
 - 10/05 16:15 [FirstSquawk] SPAIN'S SERVICES PMI INCREASES TO 58.3 IN SEPTEMBER FROM 57.8 IN AUGUST.
+- 10/05 16:33 [FirstSquawk] HON HAI SEPT SALES +38.4% AT NT$ 1.16T || CALCULATIONS FOR Q3 SALES NT$ 3.027T
+- 10/05 16:35 [FirstSquawk] IRAN'S FOREIGN MINISTER MET WITH ARMENIA'S FOREIGN MINISTER IN TEHRAN.
+- 10/05 16:37 [FirstSquawk] RUSSIA'S ROSATOM CHIEF REPORTS UKRAINE ATTACKED TWO SITES AT THE ZAPORIZHZHIA NUCLEAR POWER PLANT LAST NIGHT.
+- 10/05 16:43 [FirstSquawk] FOXCONN: SEPTEMBER REVENUE +38.4% Y/Y || Q3 REVENUE +47.1% Y/Y || AI-RELATED OPERATIONS ARE EXPECTED TO CONTINUE GROWING IN THE FOURTH QUARTER || IT REMAINS NECESSARY TO MONITOR THE IMPACT OF A VOLATILE GLOBAL POLITICAL AND ECONOMIC ENVIRON…
+- 10/05 16:43 [FirstSquawk] HON HAI EXPECTS AI OPERATIONS TO KEEP GROWING IN THE FOURTH QUARTER.
+- 10/05 16:45 [financialjuice] ITALIAN COMPOSITE PMI ACTUAL 51 (FORECAST 53.2, PREVIOUS 53.6) $MACRO
+- 10/05 16:45 [financialjuice] ITALIAN SERVICES PMI ACTUAL 51.7 (FORECAST 54.5, PREVIOUS 55.2) $MACRO
+- 10/05 16:49 [FirstSquawk] ECB’S NAGEL: UPWARD RISKS DOMINATE THE INFLATION OUTLOOK; UNCERTAINTY CALLS FOR FLEXIBILITY, NOT INACTION || THERE ARE SO FAR NO CLEAR SIGNS THAT INFLATION HAS FED THROUGH TO PRICE AND WAGE SETTING || GERMANY HAS ENTERED GRADUAL RECOVERY
+- 10/05 16:50 [FirstSquawk] ECB’S NAGEL: ECB DECIDES BASED ON DATA, MEETING BY MEETING || STRONG CASE FOR CENTRAL-BANK DIVERSIFICATION INTO GOLD || UNCERTAINTY CALLS FOR FLEXIBILITY NOT INACTION || EURO-AREA GROWTH HAS BEEN MORE RESILIENT THAN EXPECTED || GERMANY MAY …
+- 10/05 16:50 [financialjuice] FRENCH SERVICES PMI ACTUAL 51.2 (FORECAST 51.4, PREVIOUS 51.4) $MACRO
+- 10/05 16:50 [financialjuice] FRENCH COMPOSITE PMI ACTUAL 51.1 (FORECAST 51.2, PREVIOUS 51.2) $MACRO
