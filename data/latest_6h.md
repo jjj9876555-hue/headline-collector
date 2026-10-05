@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-06 07:34 JST／対象: 10/06 01:34 〜 10/06 07:34 JST（時刻はすべて日本時間）
+生成: 2026-10-06 07:52 JST／対象: 10/06 01:52 〜 10/06 07:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 16 | 10/06 02:00 | 10/06 07:19 | ⚠ 206分（03:52→07:19） |
-| FirstSquawk | 72 | 10/06 01:37 | 10/06 07:02 | 43分（02:02→02:46） |
-| financialjuice | 54 | 10/06 01:50 | 10/06 07:27 | ⚠ 87分（06:00→07:27） |
+| DeItaone | 17 | 10/06 02:00 | 10/06 07:39 | ⚠ 206分（03:52→07:19） |
+| FirstSquawk | 70 | 10/06 01:57 | 10/06 07:02 | 43分（02:02→02:46） |
+| financialjuice | 55 | 10/06 01:56 | 10/06 07:45 | ⚠ 87分（06:00→07:27） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 137 行（統合前 144 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,9 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/06 01:37 [FirstSquawk] EMIRATES: CODESHARE OPERATIONS WITH FLYDUBAI TO/FROM TEL AVIV ARE SUSPENDED WITH IMMEDIATE EFFECT, UNTIL FURTHER NOTICE
-- 10/06 01:40 [FirstSquawk] YEMEN OFFICIAL SAYS HANDS ARE EXTENDED FOR PEACE
-- 10/06 01:50 [financialjuice] Yemeni sources: Houthi drones killed a foreign military advisor on the Marib front. Advisor identified as Pakistani - Tasnim News
 - 10/06 01:56 [financialjuice] Iran's President Pezeshkian: Negotiating with an enemy that constantly threatens and terrorizes us, and breaks its promises, is meaningless - Tasnim News.
 - 10/06 01:57 [FirstSquawk] EXPLOSIONS HEARD IN RIYADH; FLIGHTS SUSPENDED AT AIRPORT - FARS
 - 10/06 01:58 [financialjuice] Iran's President Pezeshkian: Every time inspectors come to Iran, our nuclear facilities and scientists are identified, and then these facilities are bombed, and our scientists are assassinated - Tasnim News.
@@ -161,3 +158,6 @@
 - 10/06 07:02 [FirstSquawk] U.S. CENTRAL COMMAND COMMANDER ADM. BRAD COOPER SAYS 'THE U.S. MILITARY REMAINS INTENSELY FOCUSED ON THIS MISSION', ADDING 'WE WILL SWIFTLY ACT AGAINST ANY VESSELS TRYING TO RUN THE BLOCKADE. OUR FORCES ARE HIGHLY TRAINED, PROFESSIONAL, AND…
 - 10/06 07:19 [DeItaone] *SAUDI-LED COALITION SAYS DESTROYED SANAA MISSILE LAUNCHER: SPA
 - 10/06 07:27 [financialjuice] Trump: I have chosen to run ads and finance them myself, using funds raised for Maga Inc.
+- 10/06 07:39 [DeItaone] TRUMP: HAVE DECIDED TO DO ADS AND PAY FOR THEM MYSELF, AND WITH MONEY I RAISED FOR MAGA, INC.
+- 10/06 07:44 [financialjuice] Skyworks announces expiration and final outcomes of exchange offers for Qorvo senior notes due 2029 and 2031
+- 10/06 07:45 [financialjuice] Australian army soldier dies, five others hurt in training exercise in northern Australia: ABC News
