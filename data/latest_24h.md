@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-05 14:51 JST／対象: 10/04 14:51 〜 10/05 14:51 JST（時刻はすべて日本時間）
+生成: 2026-10-05 15:09 JST／対象: 10/04 15:09 〜 10/05 15:09 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 10/04 18:55 | 10/05 09:05 | ⚠ 411分（02:14→09:05） |
-| FirstSquawk | 196 | 10/04 14:57 | 10/05 14:39 | ⚠ 221分（05:36→09:18） |
+| FirstSquawk | 204 | 10/04 16:00 | 10/05 15:07 | ⚠ 221分（05:36→09:18） |
 | financialjuice | 74 | 10/04 15:21 | 10/05 14:12 | ⚠ 199分（22:46→02:06） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 271 行（統合前 281 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 279 行（統合前 289 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/04 14:57 [FirstSquawk] China steps up bank closures as it seeks to strengthen financial system: FT
 - 10/04 15:21 [financialjuice] Iran's parliament speaker Qalibaf: Strait of Hormuz won't reopen until Tehran's conditions met, US can no longer delay – Nournews
 - 10/04 16:00 [FirstSquawk] Takaichi policy speech, Malaysia budget, Pacific islands climate summit
 - 10/04 16:31 [FirstSquawk] Chancellor Friedrich Merz reiterated Germany’s backing for Ukraine as he arrived in Kyiv on Sunday and warned that Russia could attack the Western alliance
@@ -295,3 +294,12 @@
 - 10/05 14:26 [FirstSquawk] TAKAICHI SAYS NO TO USING DEFICIT-FINANCE BONDS FOR SALES TAX FUNDING.
 - 10/05 14:27 [FirstSquawk] TAKAICHI URGES CHINA TO TAKE RESPONSIBLE STEPS REGARDING CURRENT PROBLEMS.
 - 10/05 14:39 [FirstSquawk] US FUTURES DROP AFTER INITIAL GAINS; NASDAQ FUTURES FALL BY 0.1% AND S&P 500 FUTURES DECLINE BY 0.15%.
+- 10/05 14:54 [FirstSquawk] SCHNEIDER ELECTRIC DROPS 5.3% ON TRADEGATE COMPARED TO PARIS CLOSING.
+- 10/05 14:57 [FirstSquawk] NETANYAHU: CONGRATULATES BOLSONARO ON ELECTION VOTES IN X POST
+- 10/05 14:58 [FirstSquawk] NETANYAHU EXCITED TO REBUILD FRIENDLY TIES BETWEEN ISRAEL AND BRAZIL.
+- 10/05 14:58 [FirstSquawk] NETANYAHU COMMENTED ON THE PRESIDENTIAL ELECTION IN BRAZIL VIA X.
+- 10/05 15:04 [FirstSquawk] HUAWEI AND QUALCOMM HAVE ENTERED INTO A LONG-TERM AGREEMENT TO SHARE PATENTS.
+- 10/05 15:04 [FirstSquawk] AIR LIQUIDE EXPECTS RECURRING ROCE TO EXCEED 11% BY 2030.
+- 10/05 15:05 [FirstSquawk] ACG HAS SUCCESSFULLY DELIVERED SIX BOEING 737-8 AIRCRAFT TO ROYAL AIR MAROC.
+- 10/05 15:05 [FirstSquawk] AIR LIQUIDE WILL INVEST MORE THAN €40 BILLION IN CAPITAL ALLOCATIONS OVER THE NEXT FEW YEARS.
+- 10/05 15:07 [FirstSquawk] SPAI'S SANCHEZ WILL GIVE A SPEECH AT 9AM IN MADRID.

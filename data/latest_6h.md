@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-05 14:51 JST／対象: 10/05 08:51 〜 10/05 14:51 JST（時刻はすべて日本時間）
+生成: 2026-10-05 15:09 JST／対象: 10/05 09:09 〜 10/05 15:09 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 1 | 10/05 09:05 | 10/05 09:05 | - |
-| FirstSquawk | 79 | 10/05 09:18 | 10/05 14:39 | ⚠ 55分（11:42→12:37） |
-| financialjuice | 38 | 10/05 09:01 | 10/05 14:12 | ⚠ 83分（10:01→11:25） |
+| DeItaone | 0 | - | - | - |
+| FirstSquawk | 88 | 10/05 09:18 | 10/05 15:07 | ⚠ 55分（11:42→12:37） |
+| financialjuice | 37 | 10/05 09:26 | 10/05 14:12 | ⚠ 83分（10:01→11:25） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 118 行（統合前 120 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 125 行（統合前 127 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 09:01 [financialjuice] Ireland S&P Global September services PMI at 54.1 versus 55.4 in August
-- 10/05 09:05 [DeItaone] ALTMAN: WORLD SHOULD ACCEPT SOME AI RISKS OpenAI CEO Sam Altman says “the world should accept some bad things happening” to keep AI broadly accessible, arguing that people will ultimately use the technology for far more good than harm. Altm…
 - 10/05 09:18 [FirstSquawk] UK EXPECTED TO IMPOSE TARIFFS ON CHINESE ELECTRIC CARS - THE TIMES
 - 10/05 09:20 [FirstSquawk] AUSTRALIA MELBOURNE INSTITUTE INFLATION EASES TO 0.3% M/M IN SEPTEMBER FROM 0.5%; ANNUAL RATE HOLDS AT 4.8%
 - 10/05 09:21 [FirstSquawk] JAPAN 10-YEAR JGB YIELD RISES 1.0 BP TO 3.110%
@@ -142,3 +140,12 @@
 - 10/05 14:26 [FirstSquawk] TAKAICHI SAYS NO TO USING DEFICIT-FINANCE BONDS FOR SALES TAX FUNDING.
 - 10/05 14:27 [FirstSquawk] TAKAICHI URGES CHINA TO TAKE RESPONSIBLE STEPS REGARDING CURRENT PROBLEMS.
 - 10/05 14:39 [FirstSquawk] US FUTURES DROP AFTER INITIAL GAINS; NASDAQ FUTURES FALL BY 0.1% AND S&P 500 FUTURES DECLINE BY 0.15%.
+- 10/05 14:54 [FirstSquawk] SCHNEIDER ELECTRIC DROPS 5.3% ON TRADEGATE COMPARED TO PARIS CLOSING.
+- 10/05 14:57 [FirstSquawk] NETANYAHU: CONGRATULATES BOLSONARO ON ELECTION VOTES IN X POST
+- 10/05 14:58 [FirstSquawk] NETANYAHU EXCITED TO REBUILD FRIENDLY TIES BETWEEN ISRAEL AND BRAZIL.
+- 10/05 14:58 [FirstSquawk] NETANYAHU COMMENTED ON THE PRESIDENTIAL ELECTION IN BRAZIL VIA X.
+- 10/05 15:04 [FirstSquawk] HUAWEI AND QUALCOMM HAVE ENTERED INTO A LONG-TERM AGREEMENT TO SHARE PATENTS.
+- 10/05 15:04 [FirstSquawk] AIR LIQUIDE EXPECTS RECURRING ROCE TO EXCEED 11% BY 2030.
+- 10/05 15:05 [FirstSquawk] ACG HAS SUCCESSFULLY DELIVERED SIX BOEING 737-8 AIRCRAFT TO ROYAL AIR MAROC.
+- 10/05 15:05 [FirstSquawk] AIR LIQUIDE WILL INVEST MORE THAN €40 BILLION IN CAPITAL ALLOCATIONS OVER THE NEXT FEW YEARS.
+- 10/05 15:07 [FirstSquawk] SPAI'S SANCHEZ WILL GIVE A SPEECH AT 9AM IN MADRID.
