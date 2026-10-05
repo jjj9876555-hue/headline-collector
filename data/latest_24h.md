@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-05 20:05 JST／対象: 10/04 20:05 〜 10/05 20:05 JST（時刻はすべて日本時間）
+生成: 2026-10-05 20:28 JST／対象: 10/04 20:28 〜 10/05 20:28 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 16 | 10/04 20:19 | 10/05 19:58 | ⚠ 620分（09:05→19:25） |
-| FirstSquawk | 228 | 10/04 20:05 | 10/05 20:03 | ⚠ 221分（05:36→09:18） |
-| financialjuice | 113 | 10/04 20:14 | 10/05 20:03 | ⚠ 199分（22:46→02:06） |
+| DeItaone | 15 | 10/04 22:36 | 10/05 20:23 | ⚠ 620分（09:05→19:25） |
+| FirstSquawk | 231 | 10/04 20:47 | 10/05 20:27 | ⚠ 221分（05:36→09:18） |
+| financialjuice | 113 | 10/04 21:00 | 10/05 20:15 | ⚠ 199分（22:46→02:06） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 351 行（統合前 361 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 353 行（統合前 363 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/04 20:05 [FirstSquawk] Lebanese media: A violent Israeli bombing in the town of Mansouri, Tyre district, southern Lebanon
-- 10/04 20:14 [FirstSquawk] Lebanese News Agency: Israeli bombing on the outskirts of the town of Barashit in the Bint Jbeil district of southern Lebanon
-- 10/04 20:14 [financialjuice] OPEC+ keeps oil output quotas unchanged for November at Sunday meeting: statement
-- 10/04 20:19 [DeItaone] OPEC+ MAKES NO CHANGE TO OIL OUTPUT QUOTAS FOR NOVEMBER AT SUNDAY MEETING, STATEMENT SAYS
-- 10/04 20:20 [DeItaone] IRAN REFUSES TO REOPEN STRAIT OF HORMUZ Iran says the Strait of Hormuz will remain closed until the U.S. meets seven conditions established under the June Islamabad agreement. Tehran says its immediate focus is restoring security in the str…
 - 10/04 20:47 [FirstSquawk] Sirens activated in Kharkiv amid warnings of a missile attack
 - 10/04 20:49 [FirstSquawk] Sisi calls for dialogue on cross-border issues during African summit
 - 10/04 20:49 [FirstSquawk] Australian authorities probe Flydubai attacker’s links to the country - FT
@@ -375,3 +370,10 @@
 - 10/05 20:01 [FirstSquawk] ISRAEL TO CONTINUE STRIKING HEZBOLLAH, SEEK LEBANON PEACE: PM
 - 10/05 20:03 [financialjuice] US ambassador to China: Trump is as strong on Taiwan as ever seen
 - 10/05 20:03 [FirstSquawk] C.H. ROBINSON TO BUY RXO FOR IMPLIED DEAL VALUE OF $30.25/SHR
+- 10/05 20:08 [FirstSquawk] BOND TURBULENCE MEANS IT’S TIME FOR THE ECB TO PUT QT ON HOLD – FT
+- 10/05 20:15 [financialjuice] US Commerce Secretary Lutnick to meet UK government business advisor and CEOs
+- 10/05 20:15 [FirstSquawk] WELLS: UK HAS TRIED & TESTED APPROACHES TO DEFENDING OUR BASES
+- 10/05 20:17 [FirstSquawk] ADNOC- : ADNOC SIGNS AGREEMENT WITH GULF GROUP TO SUPPLY UP TO 2 MLN TONNES OF LNG TO THAILAND
+- 10/05 20:22 [FirstSquawk] USD/JPY RISES 0.2% TO 158.21, NEARS 55-DMA RESISTANCE AT 158.45
+- 10/05 20:23 [DeItaone] $SPCX - MORGAN STANLEY: SPACEX “CHEAP AND GETTING CHEAPER” Morgan Stanley reiterates Overweight on SpaceX with a $300 price target, arguing the stock looks cheap once its growth profile is considered. Analyst Adam Jonas says SpaceX trades r…
+- 10/05 20:27 [FirstSquawk] UK PM SPOX: UK HAS DIVERSE, RESILIENT DIESEL SUPPLIES

@@ -7,43 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-05 20:05 JST／対象: 10/05 14:05 〜 10/05 20:05 JST（時刻はすべて日本時間）
+生成: 2026-10-05 20:28 JST／対象: 10/05 14:28 〜 10/05 20:28 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 10 | 10/05 19:25 | 10/05 19:58 | 15分（19:39→19:54） |
-| FirstSquawk | 85 | 10/05 14:05 | 10/05 20:03 | 31分（15:24→15:55） |
-| financialjuice | 55 | 10/05 14:09 | 10/05 20:03 | ⚠ 103分（14:12→15:55） |
+| DeItaone | 11 | 10/05 19:25 | 10/05 20:23 | 24分（19:58→20:23） |
+| FirstSquawk | 75 | 10/05 14:39 | 10/05 20:27 | 31分（15:24→15:55） |
+| financialjuice | 51 | 10/05 15:55 | 10/05 20:15 | 35分（16:09→16:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 150 行（統合前 150 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 137 行（統合前 137 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 14:05 [FirstSquawk] TAKAICHI CALLS US MARINE INCIDENT IN OKINAWA REGRETTABLE.
-- 10/05 14:05 [FirstSquawk] JAPAN'S PM TAKAICHI KICKS OFF DIET SESSION WITH SPEECH.
-- 10/05 14:05 [FirstSquawk] TAKAICHI SAYS THAT ACHIEVING ROBUST AND SUSTAINABLE GROWTH IS HIS BEGINNING FOCUS.
-- 10/05 14:07 [FirstSquawk] TAKAIHI URGES STRONG ACTION TO AVOID FUTURE INCIDENTS IN OKINAWA.
-- 10/05 14:09 [financialjuice] JAPANESE CONSUMER CONFIDENCE ACTUAL 35.4 (FORECAST 35.3, PREVIOUS 35.5) $MACRO
-- 10/05 14:12 [financialjuice] Japan's PM Takaichi: We will control the annual debt issuance amount appropriately while scrutinising the economy, prices, tax revenues, interest rates, debt-servicing costs, and market developments
-- 10/05 14:12 [financialjuice] Japan's PM Takaichi: We will seek to enhance market trust in our policies by communicating closely with the public, domestic and overseas market players
-- 10/05 14:12 [financialjuice] Japan PM Takaichi: If economy, markets make unexpected movements, we will analyse their impact, respond nimbly as needed.
-- 10/05 14:12 [financialjuice] Japan's PM Takaichi: We will draw up a 5-year investment plan by year-end
-- 10/05 14:13 [FirstSquawk] TAKAICHI SAYS JAPAN WILL CREATE A POSITIVE CYCLE THROUGH GDP GROWTH.
-- 10/05 14:13 [FirstSquawk] TAKAICHI PLANS TO MANAGE YEARLY DEBT ISSUANCE EFFECTIVELY.
-- 10/05 14:13 [FirstSquawk] TAKAICHI SAID THEY WILL ACT QUICKLY IF THERE ARE UNEXPECTED CHANGES IN THE ECONOMY OR MARKETS.
-- 10/05 14:13 [FirstSquawk] TAKAICHI PROMISES TO INCREASE MARKET CONFIDENCE IN THE GOVERNMENT THROUGH A DIRECT METHOD.
-- 10/05 14:13 [FirstSquawk] TAKAICHI PLANS TO CREATE A 5-YEAR INVESTMENT STRATEGY BY THE END OF THIS YEAR.
-- 10/05 14:13 [FirstSquawk] AUSTRALIA'S S&P/ASX 200 ENDS ALMOST UNCHANGED AT 8,685.60.
-- 10/05 14:13 [FirstSquawk] BT MAY ANNOUNCE DEAL WITH TALKTALK ON MONDAY, ACCORDING TO FT.
-- 10/05 14:16 [FirstSquawk] RUSSIAN DEFENCE MINISTRY CONFIRMED ATTACK ON CARGO SHIP IN BLACK SEA.
-- 10/05 14:21 [FirstSquawk] NASDAQ 100 FUTURES LOST ALL OF THEIR EARLY GAIN OF 0.5%.
-- 10/05 14:26 [FirstSquawk] TAKAICHI SAYS NO TO USING DEFICIT-FINANCE BONDS FOR SALES TAX FUNDING.
-- 10/05 14:27 [FirstSquawk] TAKAICHI URGES CHINA TO TAKE RESPONSIBLE STEPS REGARDING CURRENT PROBLEMS.
 - 10/05 14:39 [FirstSquawk] US FUTURES DROP AFTER INITIAL GAINS; NASDAQ FUTURES FALL BY 0.1% AND S&P 500 FUTURES DECLINE BY 0.15%.
 - 10/05 14:54 [FirstSquawk] SCHNEIDER ELECTRIC DROPS 5.3% ON TRADEGATE COMPARED TO PARIS CLOSING.
 - 10/05 14:57 [FirstSquawk] NETANYAHU: CONGRATULATES BOLSONARO ON ELECTION VOTES IN X POST
@@ -174,3 +154,10 @@
 - 10/05 20:01 [FirstSquawk] ISRAEL TO CONTINUE STRIKING HEZBOLLAH, SEEK LEBANON PEACE: PM
 - 10/05 20:03 [financialjuice] US ambassador to China: Trump is as strong on Taiwan as ever seen
 - 10/05 20:03 [FirstSquawk] C.H. ROBINSON TO BUY RXO FOR IMPLIED DEAL VALUE OF $30.25/SHR
+- 10/05 20:08 [FirstSquawk] BOND TURBULENCE MEANS IT’S TIME FOR THE ECB TO PUT QT ON HOLD – FT
+- 10/05 20:15 [financialjuice] US Commerce Secretary Lutnick to meet UK government business advisor and CEOs
+- 10/05 20:15 [FirstSquawk] WELLS: UK HAS TRIED & TESTED APPROACHES TO DEFENDING OUR BASES
+- 10/05 20:17 [FirstSquawk] ADNOC- : ADNOC SIGNS AGREEMENT WITH GULF GROUP TO SUPPLY UP TO 2 MLN TONNES OF LNG TO THAILAND
+- 10/05 20:22 [FirstSquawk] USD/JPY RISES 0.2% TO 158.21, NEARS 55-DMA RESISTANCE AT 158.45
+- 10/05 20:23 [DeItaone] $SPCX - MORGAN STANLEY: SPACEX “CHEAP AND GETTING CHEAPER” Morgan Stanley reiterates Overweight on SpaceX with a $300 price target, arguing the stock looks cheap once its growth profile is considered. Analyst Adam Jonas says SpaceX trades r…
+- 10/05 20:27 [FirstSquawk] UK PM SPOX: UK HAS DIVERSE, RESILIENT DIESEL SUPPLIES

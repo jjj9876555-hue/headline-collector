@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-05 20:05 JST／対象: 10/05 08:05 〜 10/05 20:05 JST（時刻はすべて日本時間）
+生成: 2026-10-05 20:28 JST／対象: 10/05 08:28 〜 10/05 20:28 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 11 | 10/05 09:05 | 10/05 19:58 | ⚠ 620分（09:05→19:25） |
-| FirstSquawk | 148 | 10/05 09:18 | 10/05 20:03 | ⚠ 55分（11:42→12:37） |
-| financialjuice | 88 | 10/05 09:01 | 10/05 20:03 | ⚠ 103分（14:12→15:55） |
+| DeItaone | 12 | 10/05 09:05 | 10/05 20:23 | ⚠ 620分（09:05→19:25） |
+| FirstSquawk | 153 | 10/05 09:18 | 10/05 20:27 | ⚠ 55分（11:42→12:37） |
+| financialjuice | 89 | 10/05 09:01 | 10/05 20:15 | ⚠ 103分（14:12→15:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 247 行（統合前 249 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 254 行（統合前 256 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -271,3 +271,10 @@
 - 10/05 20:01 [FirstSquawk] ISRAEL TO CONTINUE STRIKING HEZBOLLAH, SEEK LEBANON PEACE: PM
 - 10/05 20:03 [financialjuice] US ambassador to China: Trump is as strong on Taiwan as ever seen
 - 10/05 20:03 [FirstSquawk] C.H. ROBINSON TO BUY RXO FOR IMPLIED DEAL VALUE OF $30.25/SHR
+- 10/05 20:08 [FirstSquawk] BOND TURBULENCE MEANS IT’S TIME FOR THE ECB TO PUT QT ON HOLD – FT
+- 10/05 20:15 [financialjuice] US Commerce Secretary Lutnick to meet UK government business advisor and CEOs
+- 10/05 20:15 [FirstSquawk] WELLS: UK HAS TRIED & TESTED APPROACHES TO DEFENDING OUR BASES
+- 10/05 20:17 [FirstSquawk] ADNOC- : ADNOC SIGNS AGREEMENT WITH GULF GROUP TO SUPPLY UP TO 2 MLN TONNES OF LNG TO THAILAND
+- 10/05 20:22 [FirstSquawk] USD/JPY RISES 0.2% TO 158.21, NEARS 55-DMA RESISTANCE AT 158.45
+- 10/05 20:23 [DeItaone] $SPCX - MORGAN STANLEY: SPACEX “CHEAP AND GETTING CHEAPER” Morgan Stanley reiterates Overweight on SpaceX with a $300 price target, arguing the stock looks cheap once its growth profile is considered. Analyst Adam Jonas says SpaceX trades r…
+- 10/05 20:27 [FirstSquawk] UK PM SPOX: UK HAS DIVERSE, RESILIENT DIESEL SUPPLIES
