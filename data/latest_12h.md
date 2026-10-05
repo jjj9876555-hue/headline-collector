@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-05 20:28 JST／対象: 10/05 08:28 〜 10/05 20:28 JST（時刻はすべて日本時間）
+生成: 2026-10-05 20:49 JST／対象: 10/05 08:49 〜 10/05 20:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 12 | 10/05 09:05 | 10/05 20:23 | ⚠ 620分（09:05→19:25） |
-| FirstSquawk | 153 | 10/05 09:18 | 10/05 20:27 | ⚠ 55分（11:42→12:37） |
+| DeItaone | 14 | 10/05 09:05 | 10/05 20:40 | ⚠ 620分（09:05→19:25） |
+| FirstSquawk | 155 | 10/05 09:18 | 10/05 20:49 | ⚠ 55分（11:42→12:37） |
 | financialjuice | 89 | 10/05 09:01 | 10/05 20:15 | ⚠ 103分（14:12→15:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 254 行（統合前 256 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 258 行（統合前 260 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -278,3 +278,7 @@
 - 10/05 20:22 [FirstSquawk] USD/JPY RISES 0.2% TO 158.21, NEARS 55-DMA RESISTANCE AT 158.45
 - 10/05 20:23 [DeItaone] $SPCX - MORGAN STANLEY: SPACEX “CHEAP AND GETTING CHEAPER” Morgan Stanley reiterates Overweight on SpaceX with a $300 price target, arguing the stock looks cheap once its growth profile is considered. Analyst Adam Jonas says SpaceX trades r…
 - 10/05 20:27 [FirstSquawk] UK PM SPOX: UK HAS DIVERSE, RESILIENT DIESEL SUPPLIES
+- 10/05 20:37 [FirstSquawk] GE HEALTHCARE TO BUY SOFIE FOR NEARLY $1 BILLION TO GROW MEDICAL-IMAGING BUSINESS – WSJ
+- 10/05 20:38 [DeItaone] BUNDESBANK CHIEF WARNS GERMANY OVER LOW GAS STORAGE Bundesbank President Joachim Nagel criticized Germany’s slow pace of rebuilding natural gas inventories, warning it could add to inflation risks this winter. German storage sites are only …
+- 10/05 20:40 [DeItaone] TECH BILLIONAIRES ADD RECORD $845 BILLION IN 2026 The world’s roughly 100 tech billionaires added a record $845 billion through September, driven by the AI boom and surging U.S. technology stocks. Their combined wealth reached $4.6 trillion…
+- 10/05 20:49 [FirstSquawk] TENNESSEE GAS DECLARES FORCE MAJEURE ON LINE 1 STA 409A-101

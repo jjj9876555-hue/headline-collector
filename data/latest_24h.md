@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-05 20:28 JST／対象: 10/04 20:28 〜 10/05 20:28 JST（時刻はすべて日本時間）
+生成: 2026-10-05 20:49 JST／対象: 10/04 20:49 〜 10/05 20:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 15 | 10/04 22:36 | 10/05 20:23 | ⚠ 620分（09:05→19:25） |
-| FirstSquawk | 231 | 10/04 20:47 | 10/05 20:27 | ⚠ 221分（05:36→09:18） |
+| DeItaone | 17 | 10/04 22:36 | 10/05 20:40 | ⚠ 620分（09:05→19:25） |
+| FirstSquawk | 229 | 10/04 20:50 | 10/05 20:49 | ⚠ 221分（05:36→09:18） |
 | financialjuice | 113 | 10/04 21:00 | 10/05 20:15 | ⚠ 199分（22:46→02:06） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,10 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/04 20:47 [FirstSquawk] Sirens activated in Kharkiv amid warnings of a missile attack
-- 10/04 20:49 [FirstSquawk] Sisi calls for dialogue on cross-border issues during African summit
-- 10/04 20:49 [FirstSquawk] Australian authorities probe Flydubai attacker’s links to the country - FT
-- 10/04 20:49 [FirstSquawk] Britain’s Budget needs to tame spending and boost growth - FT
 - 10/04 20:50 [FirstSquawk] Bosnia elections pit EU hopes against Russian influence - FT
 - 10/04 20:50 [FirstSquawk] Germany’s Merz arrives in Kyiv to show support for Ukraine - FT
 - 10/04 20:50 [FirstSquawk] Wall Street’s IPO fervour cools on tepid demand and valuation worries - FT
@@ -377,3 +373,7 @@
 - 10/05 20:22 [FirstSquawk] USD/JPY RISES 0.2% TO 158.21, NEARS 55-DMA RESISTANCE AT 158.45
 - 10/05 20:23 [DeItaone] $SPCX - MORGAN STANLEY: SPACEX “CHEAP AND GETTING CHEAPER” Morgan Stanley reiterates Overweight on SpaceX with a $300 price target, arguing the stock looks cheap once its growth profile is considered. Analyst Adam Jonas says SpaceX trades r…
 - 10/05 20:27 [FirstSquawk] UK PM SPOX: UK HAS DIVERSE, RESILIENT DIESEL SUPPLIES
+- 10/05 20:37 [FirstSquawk] GE HEALTHCARE TO BUY SOFIE FOR NEARLY $1 BILLION TO GROW MEDICAL-IMAGING BUSINESS – WSJ
+- 10/05 20:38 [DeItaone] BUNDESBANK CHIEF WARNS GERMANY OVER LOW GAS STORAGE Bundesbank President Joachim Nagel criticized Germany’s slow pace of rebuilding natural gas inventories, warning it could add to inflation risks this winter. German storage sites are only …
+- 10/05 20:40 [DeItaone] TECH BILLIONAIRES ADD RECORD $845 BILLION IN 2026 The world’s roughly 100 tech billionaires added a record $845 billion through September, driven by the AI boom and surging U.S. technology stocks. Their combined wealth reached $4.6 trillion…
+- 10/05 20:49 [FirstSquawk] TENNESSEE GAS DECLARES FORCE MAJEURE ON LINE 1 STA 409A-101
