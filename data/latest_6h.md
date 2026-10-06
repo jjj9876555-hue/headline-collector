@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-06 12:40 JST／対象: 10/06 06:40 〜 10/06 12:40 JST（時刻はすべて日本時間）
+生成: 2026-10-06 12:57 JST／対象: 10/06 06:57 〜 10/06 12:57 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 10/06 07:19 | 10/06 09:22 | ⚠ 103分（07:39→09:22） |
-| FirstSquawk | 83 | 10/06 07:01 | 10/06 12:39 | ⚠ 59分（07:02→08:01） |
+| FirstSquawk | 88 | 10/06 07:01 | 10/06 12:55 | ⚠ 59分（07:02→08:01） |
 | financialjuice | 23 | 10/06 07:27 | 10/06 12:21 | 45分（07:45→08:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 108 行（統合前 109 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 113 行（統合前 114 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -132,3 +132,8 @@
 - 10/06 12:35 [FirstSquawk] TRUMP APPROVES FIRING SQUAD AS EXECUTION METHOD FOR MILITARY BASE SHOOTER - SCMP
 - 10/06 12:36 [FirstSquawk] JAPAN 10-YEAR BOND AUCTION TAIL AT 0.02, VS 0.12 IN PREVIOUS SALE
 - 10/06 12:39 [FirstSquawk] 10-YEAR JGB FUTURES TRIM LOSSES FOLLOWING 10-YEAR AUCTION, DOWN 0.18 YEN AT 124.32
+- 10/06 12:41 [FirstSquawk] 20-YEAR JGB YIELD TRIMS GAINS FOLLOWING 10-YEAR AUCTION, LAST UP 1 BP AT 3.98%
+- 10/06 12:46 [FirstSquawk] 10-YEAR JGB YIELD PARES ADVANCE POST-AUCTION, RISES 1.5 BPS TO 3.1%
+- 10/06 12:49 [FirstSquawk] INDONESIA'S BENCHMARK INDEX HITS 6,193.54, UP 1.2% AND HIGHEST SINCE SEPT. 28
+- 10/06 12:54 [FirstSquawk] FLYDUBAI CO-PILOT WAS IN NEW ZEALAND NOV. 2018-MAY 2019 ON STUDENT VISA, POLICE SAYS
+- 10/06 12:55 [FirstSquawk] NZ POLICE SAY CO-PILOT CAME TO NEW ZEALAND FOR PART OF HIS FLIGHT TRAINING WITH UK-BASED COMPANY

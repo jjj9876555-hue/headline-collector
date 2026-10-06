@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-06 12:40 JST／対象: 10/05 12:40 〜 10/06 12:40 JST（時刻はすべて日本時間）
+生成: 2026-10-06 12:57 JST／対象: 10/05 12:57 〜 10/06 12:57 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 68 | 10/05 19:25 | 10/06 09:22 | ⚠ 206分（03:52→07:19） |
-| FirstSquawk | 321 | 10/05 12:40 | 10/06 12:39 | ⚠ 59分（07:02→08:01） |
+| FirstSquawk | 315 | 10/05 12:59 | 10/06 12:55 | ⚠ 59分（07:02→08:01） |
 | financialjuice | 212 | 10/05 13:03 | 10/06 12:21 | ⚠ 103分（14:12→15:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 586 行（統合前 604 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 580 行（統合前 598 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 12:40 [FirstSquawk] Yen remains under pressure as USD reverses post-NFP losses amid geopolitical tensions
-- 10/05 12:41 [FirstSquawk] Rupee opens at 96.2150 against dollar, up from previous close of 96.3150
-- 10/05 12:41 [FirstSquawk] India 10-year benchmark government bond yield eases to 7.2101% from 7.2133%
-- 10/05 12:42 [FirstSquawk] Japan to open extra Diet session as lawmakers focus on consumption tax cut bills
-- 10/05 12:43 [FirstSquawk] Japan holds 12th place in global innovation ranking, behind South Korea and China
-- 10/05 12:44 [FirstSquawk] South Korea enhances security camera network with AI
-- 10/05 12:46 [FirstSquawk] India’s equity selloff reflects growing concerns over economic growth — WSJ
-- 10/05 12:47 [FirstSquawk] Sharp rise in Treasury yields puts further pressure on equities - WSJ
-- 10/05 12:47 [FirstSquawk] Singapore dollar dips as investors weigh potential position adjustments
-- 10/05 12:48 [FirstSquawk] Singapore dollar weakens slightly amid possible position adjustments - WSJ
-- 10/05 12:51 [FirstSquawk] 20-year JGB yield gains 1.0 basis point to 3.970%
 - 10/05 12:59 [FirstSquawk] Saudi crude accounts for less than 30% of South Korea’s imports for first time in five years - YONHAP
 - 10/05 13:00 [FirstSquawk] Yemen’s military says it launched 1,122 precise operations targeting Houthi militias
 - 10/05 13:03 [financialjuice] EU to restrict Ukraine’s access to agricultural subsidies if it joins bloc - FT
@@ -610,3 +599,8 @@
 - 10/06 12:35 [FirstSquawk] TRUMP APPROVES FIRING SQUAD AS EXECUTION METHOD FOR MILITARY BASE SHOOTER - SCMP
 - 10/06 12:36 [FirstSquawk] JAPAN 10-YEAR BOND AUCTION TAIL AT 0.02, VS 0.12 IN PREVIOUS SALE
 - 10/06 12:39 [FirstSquawk] 10-YEAR JGB FUTURES TRIM LOSSES FOLLOWING 10-YEAR AUCTION, DOWN 0.18 YEN AT 124.32
+- 10/06 12:41 [FirstSquawk] 20-YEAR JGB YIELD TRIMS GAINS FOLLOWING 10-YEAR AUCTION, LAST UP 1 BP AT 3.98%
+- 10/06 12:46 [FirstSquawk] 10-YEAR JGB YIELD PARES ADVANCE POST-AUCTION, RISES 1.5 BPS TO 3.1%
+- 10/06 12:49 [FirstSquawk] INDONESIA'S BENCHMARK INDEX HITS 6,193.54, UP 1.2% AND HIGHEST SINCE SEPT. 28
+- 10/06 12:54 [FirstSquawk] FLYDUBAI CO-PILOT WAS IN NEW ZEALAND NOV. 2018-MAY 2019 ON STUDENT VISA, POLICE SAYS
+- 10/06 12:55 [FirstSquawk] NZ POLICE SAY CO-PILOT CAME TO NEW ZEALAND FOR PART OF HIS FLIGHT TRAINING WITH UK-BASED COMPANY
