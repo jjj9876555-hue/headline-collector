@@ -7,64 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-06 20:51 JST／対象: 10/05 20:51 〜 10/06 20:51 JST（時刻はすべて日本時間）
+生成: 2026-10-06 22:10 JST／対象: 10/05 22:10 〜 10/06 22:10 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 70 | 10/05 20:51 | 10/06 20:43 | ⚠ 583分（09:22→19:05） |
-| FirstSquawk | 311 | 10/05 20:54 | 10/06 20:45 | ⚠ 61分（14:16→15:18） |
-| financialjuice | 244 | 10/05 21:13 | 10/06 20:41 | ⚠ 126分（14:05→16:12） |
+| DeItaone | 71 | 10/05 22:26 | 10/06 22:07 | ⚠ 583分（09:22→19:05） |
+| FirstSquawk | 312 | 10/05 22:15 | 10/06 22:07 | ⚠ 61分（14:16→15:18） |
+| financialjuice | 247 | 10/05 22:27 | 10/06 22:03 | ⚠ 126分（14:05→16:12） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 609 行（統合前 628 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 611 行（統合前 633 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 20:51 [DeItaone] YEMEN GOVERNMENT FORCES CLAIM CONTROL OF BAB EL-MANDEB Yemeni government forces say they have seized the Bab el-Mandeb area and Dhubab airport as part of the newly launched “Yemen Dawn” offensive. Reuters reports government forces have capt…
-- 10/05 20:54 [FirstSquawk] LOCKHEED’S DEVELOPMENT UNIT IS INCORPORATING AI TO ADVANCE THE DEFENSE CONTRACTOR.
-- 10/05 21:01 [DeItaone] $MSTR - STRATEGY BUYS MORE BITCOIN, HOLDINGS REACH 848,000 BTC Strategy acquired 334 BTC for $28.7 million at an average price of $85,839, bringing total holdings to 848,000 BTC worth $63.97 billion at cost. The company also sold 92,894 MST…
-- 10/05 21:06 [FirstSquawk] GE HEALTHCARE SEES DEAL ADDING TO REVENUE, ADJ EPS IN FIRST YEAR
-- 10/05 21:08 [DeItaone] BRAZILIAN REAL STRENGTHENS OVER 4% VS US DOLLAR AFTER BOLSONARO BEATS EXPECTATIONS IN PRESIDENTIAL VOTE
-- 10/05 21:13 [financialjuice] Morning Juice - US Session Prep (5th October)
-- 10/05 21:14 [DeItaone] 📊 TRUMP PROMISES $5,000 PAYMENTS IF GOP WINS MIDTERMS Trump says every adult U.S. citizen would receive $5,000 if Republicans win both chambers, saying he looks forward to “signing those checks.” Meanwhile, Kalshi prices Democrats at 64% to…
-- 10/05 21:17 [FirstSquawk] BRAZIL'S REAL SOARS 3% ON BOLSONARO FIRST-ROUND ELECTION LEAD
-- 10/05 21:20 [financialjuice] Kuwait is pumping oil at about 75% of prewar rate - KPC CEO.
-- 10/05 21:21 [FirstSquawk] KUWAIT IS PUMPING OIL AT ABOUT 75% OF PREWAR RATE, KPC CEO SAYS
-- 10/05 21:27 [FirstSquawk] SANLAM TO OFFER TO BUY ALL SANTAM SHARES AT 505 RAND/SHR CASH
-- 10/05 21:30 [FirstSquawk] LONDON BULLION MARKET ASSOCIATION INCREASES MEMBERSHIP FEES AND ALLOWS PAYMENT OF DUES TWO YEARS AHEAD TO IMPROVE ITS FINANCES DURING EXPENSIVE LEGAL ISSUES.
-- 10/05 21:38 [financialjuice] EU needs new trade tools to allow decisive reaction to unfair practices from third countries - Franco-German Joint Document
-- 10/05 21:38 [financialjuice] EU needs new trade instrument to react to severe and systemic distortions created by third countries - Franco-German Joint Document
-- 10/05 21:39 [financialjuice] EU Commission should propose new diversification tool to prevent eu over-reliance on single countries for critical supplies - Joint Franco-German Paper
-- 10/05 21:39 [financialjuice] New EU instrument should be activated by a commission proposal that adopted unless qualified majority of EU members opposes - Franco-German Joint Document
-- 10/05 21:39 [financialjuice] New EU instrument would not single out any specific country - Joint Franco-German paper
-- 10/05 21:39 [financialjuice] EU commission should open more trade investigations and adopt a broader sector wide approach - Franco-German Joint Document
-- 10/05 21:43 [financialjuice] US Secretary of State Rubio, on bombers' reallocation: It's not unusual
-- 10/05 21:43 [financialjuice] US Secretary of State Rubio on UK base incident: still have confidence in security of all of our bases.
-- 10/05 21:43 [financialjuice] US Secretary of State Rubio on UK base incident: British couldn't be more cooperative.
-- 10/05 21:44 [FirstSquawk] RUBIO ON BOMBERS RE-ALLOCATION: NOT UNUSUAL
-- 10/05 21:44 [FirstSquawk] RUBIO: WE HAVE CONFIDENCE IN SECURITY OF OUR BASES
-- 10/05 21:47 [financialjuice/DeItaone] Houthi-run body issues warning for airlines flying in Saudi airspace - Houthi-affiliated media.
-- 10/05 21:47 [financialjuice] Ukraine’s President Zelenskiy: Russian drones attack Turkish-owned civilian vessel in neutral waters of black sea.
-- 10/05 21:48 [FirstSquawk] US SEC STATE RUBIO ON YEMEN: US INTENDS TO STAND BY SECURITY AGREEMENT WITH SAUDI ARABIA
-- 10/05 21:48 [financialjuice] Houthi-Run Body: Saudi airspace will not be safe as long as Saudi ‘aggression continues - Houthi-Affiliated Media.
-- 10/05 21:49 [DeItaone] HOUTHI-RUN BODY SAYS SAUDI AIRSPACE WILL NOT BE SAFE AS LONG AS SAUDI 'AGGRESSION' CONTINUES - HOUTHI-AFFILIATED MEDIA
-- 10/05 21:50 [financialjuice] CEO of Kuwait's KPC: We now produce around 2 mln bpd, down from 2.6 mln bpd before war started.
-- 10/05 21:50 [FirstSquawk] CEO OF KUWAIT'S KPC WE HAVE BEEN ABLE TO DO THIS USING OUR STRATEGIC TANKER FLEET
-- 10/05 21:50 [DeItaone] YIELD ON 30-YEAR U.S. TREASURY BONDS UP 2.64 BASIS POINTS AT 5.656% U.S. TREASURY YIELDS RISE; YIELD ON 10-YEAR TREASURY NOTE LAST UP 2.34 BASIS POINTS AT 5.3%
-- 10/05 21:52 [FirstSquawk] US ROLLINS: MORE TO DO ON COST OF DIESEL, URGES STATES TO ACT
-- 10/05 21:53 [financialjuice] US Agriculture Sec. Rollins: We're looking at how to bring the cost of diesel down.
-- 10/05 21:54 [FirstSquawk] KPC CEO SAYS WE ARE NOT OFFERING DISCOUNTS OR INSURANCE TO CUSTOMERS BRINGING THEIR OWN TANKERS INTO MIDEAST GULF
-- 10/05 21:54 [FirstSquawk] KPC CEO SAYS WE HAVE HAD A FEW OF OUR CUSTOMERS USING THEIR OWN TANKERS TO COME INTO MIDEAST GULF, MORE WILL BE COMING
-- 10/05 21:57 [financialjuice] KPC CEO: We need to focus on getting refined products out of MidEast Gulf to de-bottleneck refineries in the region.
-- 10/05 21:58 [DeItaone] *ROLLINS: TRUMP LIKELY TO TAKE ACTION ON FARMERS LATER TODAY *ROLLINS: MORE TO DO ON COST OF DIESEL, URGES STATES TO ACT
-- 10/05 21:59 [DeItaone] BERLIN, PARIS FLOAT TRADE TOOL TO CUT CHINA ACCESS TO EU MARKET
-- 10/05 22:00 [financialjuice] Effective Fed Funds Rate 3.88% October 2 vs 3.88% October 1.
-- 10/05 22:05 [DeItaone] ISM SERVICES SEEN EASING SLIGHTLY AS PRICE PRESSURES RISE September ISM Services PMI is expected at 55.0, down slightly from 55.4 in August. Employment is seen improving to 48.8 from 47.8, while New Orders are expected to ease to 60.3 from …
-- 10/05 22:05 [FirstSquawk] SKYDANCE NAMES DAVID ELLISON CHAIRMAN AND CEO UPON WBD CLOSE
 - 10/05 22:15 [FirstSquawk] FORMER U.S. SPEAKER OF THE HOUSE DENNIS HASTERT HAS DIED AT AGE 84
 - 10/05 22:26 [DeItaone] TREASURY WITHDRAWS TWO CONTROVERSIAL CRYPTO SURVEILLANCE PROPOSALS The U.S. Treasury has withdrawn two long-pending FinCEN proposals targeting unhosted crypto wallets and cryptocurrency mixing. The wallet proposal would have imposed reporti…
 - 10/05 22:26 [DeItaone] $TSLA - UBS STAYS NEUTRAL ON TESLA DESPITE DELIVERY BEAT UBS reiterates Neutral on Tesla with a $385 price target after deliveries beat consensus by roughly 5%, continuing the rebound in vehicle volumes. However, energy deployments missed e…
@@ -633,3 +592,46 @@
 - 10/06 20:41 [financialjuice/DeItaone] China seeks talks with EU to address concerns
 - 10/06 20:43 [DeItaone] FRANCE DROUGHT PUTS DRINKING WATER UNDER STRAIN FOR 1 MILLION PEOPLE France’s historic drought has left drinking-water supplies under strain for roughly 1 million people, with more than 83,000 relying on emergency measures including bottled…
 - 10/06 20:45 [FirstSquawk] MARCO RUBIO ON UKRAINE: NATO MEMBERSHIP IS NOT ON THE TABLE AS WE SPEAK. RIGHT NOW, WE'RE SIMPLY FOCUSED ON THE ENDING OF THIS CONFLICT.
+- 10/06 20:52 [FirstSquawk] SANOFI TO PAY REGENERON $1B UPFRONT UNDER SIXTH AMENDMENT
+- 10/06 20:52 [FirstSquawk] SPACEX STOCK IS TAKING OFF AGAIN, BUT WITH ONE KEY DIFFERENCE THIS TIME
+- 10/06 20:54 [FirstSquawk/DeItaone] FRANCE 10Y YIELD FALLS 16BPS, SPREAD OVER GERMANY NARROWS 12BPS
+- 10/06 21:00 [financialjuice] Secured overnight financing rate 3.89% October 5th vs 3.88% October 2nd
+- 10/06 21:02 [DeItaone] UBS: TODAY’S TREASURY SELLOFF IS NOT 1999 ALL OVER AGAIN The 10-year Treasury yield recently hit 5.34%, reviving comparisons with 1999, when yields approached 5.8% during the dotcom boom. UBS sees similarities between dotcom-era telecom spe…
+- 10/06 21:04 [financialjuice] Morning Juice - US Session Prep (6th October)
+- 10/06 21:09 [FirstSquawk] UBER TO BUY EZCATER FOR $2.3B IN CASH
+- 10/06 21:13 [FirstSquawk] SPOT GOLD RISES NEARLY 1% TO $4,179.23/OZ
+- 10/06 21:15 [financialjuice] UKMTO has received a time-late report of an incident within the Strait of Hormuz. A verified source has reported that an Oil Tanker transiting outbound has been struck by an unknown projectile.
+- 10/06 21:15 [FirstSquawk] US ADP EMPLOYMENT CHANGE WEEKLY ACTUAL: 23.750K VS 20K PREVIOUS
+- 10/06 21:15 [financialjuice] US ADP WKLY EMPLOYMENT CHANGE ACTUAL 23.75K (FORECAST -, PREVIOUS 20K) $MACRO
+- 10/06 21:15 [DeItaone] *ADP: US PRIVATE JOBS ROSE AVG 23,750/WK IN 4 WKS TO SEPT. 19
+- 10/06 21:17 [FirstSquawk] CROWDSTRIKE, AWS, NVIDIA EXPAND CYBERSECURITY STARTUP ACCELERATOR
+- 10/06 21:17 [financialjuice] Sweden's prime minister: Sweden to send patriot air defence systems to Poland's eastern border as part of nato mission
+- 10/06 21:18 [financialjuice] China urges the EU not to politicize trade issues - MOFCOM
+- 10/06 21:21 [financialjuice] China urges France, Germany not to back EU trade protectionism.
+- 10/06 21:23 [FirstSquawk] CHINA MOFCOM: URGES FRANCE, GERMANY NOT TO BACK EU TRADE PROTECTIONISM
+- 10/06 21:27 [financialjuice] Iran Hormuz will not be opened by threats or pressure.
+- 10/06 21:27 [FirstSquawk/DeItaone] IRAN SAYS HORMUZ WILL NOT BE OPENED BY THREATS OR PRESSURE
+- 10/06 21:30 [financialjuice] ❗ US TRADE BALANCE ACTUAL -105.6B (FORECAST -102.05B, PREVIOUS -88.6B) $MACRO
+- 10/06 21:30 [financialjuice] CANADIAN TRADE BALANCE ACTUAL 4.2B (FORECAST 1.5B, PREVIOUS 0.77B) $MACRO
+- 10/06 21:30 [FirstSquawk] US AUG. TRADE DEFICIT $105.6B; EST. -$102.1B
+- 10/06 21:30 [DeItaone] U.S. TRADE DEFICIT SURGES TO $105.6 BILLION The U.S. trade deficit widened to $105.6 billion in August vs. $102 billion expected, up sharply from July’s revised $92.8 billion. Imports jumped 4.3% to $420.75 billion, outpacing a 1.4% rise in…
+- 10/06 21:32 [financialjuice] US Trade Balance August Report
+- 10/06 21:32 [financialjuice] Canadian Trade Balance August 2026 Report
+- 10/06 21:40 [FirstSquawk] PARAMOUNT HAS FINISHED BUYING WARNER BROS. DISCOVERY.
+- 10/06 21:43 [DeItaone] 📊 TRUMP TEASES “MIDTERM SURPRISE” AS DEMOCRATS LEAD POWER INDEX President Trump says Republicans are “flipping races all over the place,” pointing to surging rally enthusiasm and teasing a “Midterm Surprise.” But Kalshi’s American Power Ind…
+- 10/06 21:46 [DeItaone] TREASURY YIELDS ARE "SCREAMING GOOD VALUE" AFTER RECENT RUN UP, SAYS PIMCO SENIOR ADVISOR RUPERT HARRISON
+- 10/06 21:47 [financialjuice] PIMCO senior advisor Rupert Harrison: Treasury yields are "screaming good value" after recent run-up
+- 10/06 21:50 [financialjuice] Iran Minister: Talks with Qatar emir were ‘constructive’
+- 10/06 21:51 [FirstSquawk/DeItaone] IRAN MINISTER SAYS TALKS WITH QATAR EMIR WERE ‘CONSTRUCTIVE’
+- 10/06 21:51 [financialjuice] Iran Minister to relay Qatar Emir’s regional views to Iran President.
+- 10/06 21:55 [financialjuice] IEA expected to decide details of G7 diesel and oil stock release at board meeting on October 14-15 - Sources
+- 10/06 21:55 [FirstSquawk] IEA EXPECTED TO DECIDE DETAILS OF G7 DIESEL AND OIL STOCK RELEASE AT BOARD MEETING ON OCTOBER 14-15
+- 10/06 21:59 [DeItaone] IEA TO SET DETAILS OF G7’S 100 MILLION-BARREL RELEASE The IEA governing board is expected to decide October 14–15 how the G7’s 100 million-barrel emergency crude and diesel release will be divided, according to people close to the matter. T…
+- 10/06 22:00 [financialjuice] The US: Reports of a downed navy helicopter in the Red Sea are not true
+- 10/06 22:00 [financialjuice] Effective fed funds rate 3.88% October 5th vs 3.88% October 2nd
+- 10/06 22:00 [FirstSquawk] APPLIED MATERIALS, INTEL TO CO-DEVELOP AI CHIP TECH
+- 10/06 22:00 [financialjuice] Applied Materials and Intel to co-develop AI chip tech
+- 10/06 22:01 [DeItaone] ANDURIL UNVEILS $6.6 BILLION SUBMARINE INDUSTRIAL EXPANSION Anduril says Arsenal-2 will be built at Tradepoint Atlantic in Baltimore County, creating 3,100 direct jobs and more than 11,000 indirect jobs. Anduril and the U.S. Navy will inves…
+- 10/06 22:02 [financialjuice] The US: All military aircraft and personnel in mideast are safe
+- 10/06 22:03 [financialjuice/FirstSquawk] Iran president names ex-oil minister Paknejad as adviser - ISNA
+- 10/06 22:07 [DeItaone] $AAPL - UBS: APPLE APP STORE GROWTH REMAINS WEAK UBS reiterated its Neutral rating and $296 price target on Apple, despite App Store revenue growth improving to 5% YoY in September. For the September quarter, App Store revenue grew just 2% …

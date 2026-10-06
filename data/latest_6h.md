@@ -7,43 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-06 20:51 JST／対象: 10/06 14:51 〜 10/06 20:51 JST（時刻はすべて日本時間）
+生成: 2026-10-06 22:10 JST／対象: 10/06 16:10 〜 10/06 22:10 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 15 | 10/06 19:05 | 10/06 20:43 | ⚠ 49分（19:34→20:24） |
-| FirstSquawk | 80 | 10/06 15:18 | 10/06 20:45 | 29分（19:05→19:35） |
-| financialjuice | 80 | 10/06 16:12 | 10/06 20:41 | 30分（18:35→19:06） |
+| DeItaone | 26 | 10/06 19:05 | 10/06 22:07 | ⚠ 49分（19:34→20:24） |
+| FirstSquawk | 75 | 10/06 16:14 | 10/06 22:07 | 29分（19:05→19:35） |
+| financialjuice | 101 | 10/06 16:12 | 10/06 22:03 | 30分（18:35→19:06） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 174 行（統合前 175 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 197 行（統合前 202 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/06 15:18 [FirstSquawk] GOLDMAN SACHS TARGET PRICE CUT TO $1,124 FROM $1,299 BY JEFFERIES
-- 10/06 15:28 [FirstSquawk] SOUTH KOREA FINANCE MINISTER: ADDITIONAL BOND ISSUANCE CUT UNDER CONSIDERATION
-- 10/06 15:30 [FirstSquawk] BOJ GOV UEDA: JAPAN'S ECONOMY SHOWING MODERATE RECOVERY WITH SOME WEAKNESSES
-- 10/06 15:31 [FirstSquawk] BOJ GOV UEDA: SEPTEMBER TANKAN INDICATED HEALTHY BUSINESS SENTIMENT
-- 10/06 15:31 [FirstSquawk] BOJ GOV UEDA: UNDERLYING INFLATION MOVING CLOSER TO 2%
-- 10/06 15:31 [FirstSquawk] BOJ GOV UEDA: FINANCIAL CONDITIONS CONTINUE TO BE ACCOMMODATIVE
-- 10/06 15:35 [FirstSquawk] BOJ GOV UEDA: FINANCIAL CONDITIONS REMAIN ACCOMMODATIVE AND SUPPORTIVE OF ECONOMIC ACTIVITY DESPITE SEPTEMBER RATE HIKE
-- 10/06 15:36 [FirstSquawk] BOJ GOV UEDA: PACE AND TIMING OF FUTURE POLICY MOVES WILL BE BASED ON OUTLOOK AND RISKS
-- 10/06 15:36 [FirstSquawk] BOJ GOV UEDA: UNDERLYING INFLATION NEEDS TO BE ANCHORED AROUND 2%
-- 10/06 15:37 [FirstSquawk] RUSSIA HITS PORT INFRASTRUCTURE FACILITIES AT IZMAIL PORT, RIA SAYS
-- 10/06 15:46 [FirstSquawk] FRANCE (AUG) Industrial Production MoM ACTUAL: -0.3% VS -0.4% PREVIOUS;EST 0.2%
-- 10/06 15:46 [FirstSquawk] FRANCE (AUG) Industrial Production YOY ACTUAL: 0.3% VS -0.5% PREVIOUS;EST 1.2%
-- 10/06 15:46 [FirstSquawk] FRANCE (AUG) Manufacturing Production MoM ACTUAL: 0.3% VS -0.8% PREVIOUS;EST 0.3%
-- 10/06 15:46 [FirstSquawk] FRANCE (AUG) Budget Balance YTD ACTUAL: -159.6B VS -145.9B PREVIOUS
-- 10/06 15:46 [FirstSquawk] FRANCE (AUG) Manufacturing Production YOY ACTUAL: -0.1% VS -2% PREVIOUS
-- 10/06 15:48 [FirstSquawk] US CRUDE FUTURES SLIDE $1 TO $88.43/BBL
-- 10/06 15:51 [FirstSquawk] SOUTH KOREA'S FM CHO: GOVERNMENT HAS TRANSFERRED $2.4 BILLION TO US FOR TEXAS POWER PROJECT
-- 10/06 16:02 [FirstSquawk] SPAIN (AUG) INDUSTRIAL PRODUCTION MOM ACTUAL: -0.7% VS 0.6% PREVIOUS;EST -0.5%
-- 10/06 16:02 [FirstSquawk] SPAIN (AUG) INDUSTRIAL OUTPUT SA YOY ACTUAL: 1.5% VS 2.3% PREVIOUS;EST 2.4%
-- 10/06 16:02 [FirstSquawk] SPAIN (AUG) INDUSTRIAL OUTPUT NSA YOY ACTUAL: 1.6% VS 2.6% PREVIOUS
 - 10/06 16:12 [financialjuice] ECB’s Lane: We have identified broader financial conditions, including long-term interest rates, as an important factor that enters the monetary policy decisions
 - 10/06 16:12 [financialjuice] ECB’s Lane: Downside risks to growth haven't materialized - ANSA
 - 10/06 16:12 [financialjuice] ECB’s Lane: Inflation is very damaging; people suffer if inflation gets too high - ANSA
@@ -198,3 +178,46 @@
 - 10/06 20:41 [financialjuice/DeItaone] China seeks talks with EU to address concerns
 - 10/06 20:43 [DeItaone] FRANCE DROUGHT PUTS DRINKING WATER UNDER STRAIN FOR 1 MILLION PEOPLE France’s historic drought has left drinking-water supplies under strain for roughly 1 million people, with more than 83,000 relying on emergency measures including bottled…
 - 10/06 20:45 [FirstSquawk] MARCO RUBIO ON UKRAINE: NATO MEMBERSHIP IS NOT ON THE TABLE AS WE SPEAK. RIGHT NOW, WE'RE SIMPLY FOCUSED ON THE ENDING OF THIS CONFLICT.
+- 10/06 20:52 [FirstSquawk] SANOFI TO PAY REGENERON $1B UPFRONT UNDER SIXTH AMENDMENT
+- 10/06 20:52 [FirstSquawk] SPACEX STOCK IS TAKING OFF AGAIN, BUT WITH ONE KEY DIFFERENCE THIS TIME
+- 10/06 20:54 [FirstSquawk/DeItaone] FRANCE 10Y YIELD FALLS 16BPS, SPREAD OVER GERMANY NARROWS 12BPS
+- 10/06 21:00 [financialjuice] Secured overnight financing rate 3.89% October 5th vs 3.88% October 2nd
+- 10/06 21:02 [DeItaone] UBS: TODAY’S TREASURY SELLOFF IS NOT 1999 ALL OVER AGAIN The 10-year Treasury yield recently hit 5.34%, reviving comparisons with 1999, when yields approached 5.8% during the dotcom boom. UBS sees similarities between dotcom-era telecom spe…
+- 10/06 21:04 [financialjuice] Morning Juice - US Session Prep (6th October)
+- 10/06 21:09 [FirstSquawk] UBER TO BUY EZCATER FOR $2.3B IN CASH
+- 10/06 21:13 [FirstSquawk] SPOT GOLD RISES NEARLY 1% TO $4,179.23/OZ
+- 10/06 21:15 [financialjuice] UKMTO has received a time-late report of an incident within the Strait of Hormuz. A verified source has reported that an Oil Tanker transiting outbound has been struck by an unknown projectile.
+- 10/06 21:15 [FirstSquawk] US ADP EMPLOYMENT CHANGE WEEKLY ACTUAL: 23.750K VS 20K PREVIOUS
+- 10/06 21:15 [financialjuice] US ADP WKLY EMPLOYMENT CHANGE ACTUAL 23.75K (FORECAST -, PREVIOUS 20K) $MACRO
+- 10/06 21:15 [DeItaone] *ADP: US PRIVATE JOBS ROSE AVG 23,750/WK IN 4 WKS TO SEPT. 19
+- 10/06 21:17 [FirstSquawk] CROWDSTRIKE, AWS, NVIDIA EXPAND CYBERSECURITY STARTUP ACCELERATOR
+- 10/06 21:17 [financialjuice] Sweden's prime minister: Sweden to send patriot air defence systems to Poland's eastern border as part of nato mission
+- 10/06 21:18 [financialjuice] China urges the EU not to politicize trade issues - MOFCOM
+- 10/06 21:21 [financialjuice] China urges France, Germany not to back EU trade protectionism.
+- 10/06 21:23 [FirstSquawk] CHINA MOFCOM: URGES FRANCE, GERMANY NOT TO BACK EU TRADE PROTECTIONISM
+- 10/06 21:27 [financialjuice] Iran Hormuz will not be opened by threats or pressure.
+- 10/06 21:27 [FirstSquawk/DeItaone] IRAN SAYS HORMUZ WILL NOT BE OPENED BY THREATS OR PRESSURE
+- 10/06 21:30 [financialjuice] ❗ US TRADE BALANCE ACTUAL -105.6B (FORECAST -102.05B, PREVIOUS -88.6B) $MACRO
+- 10/06 21:30 [financialjuice] CANADIAN TRADE BALANCE ACTUAL 4.2B (FORECAST 1.5B, PREVIOUS 0.77B) $MACRO
+- 10/06 21:30 [FirstSquawk] US AUG. TRADE DEFICIT $105.6B; EST. -$102.1B
+- 10/06 21:30 [DeItaone] U.S. TRADE DEFICIT SURGES TO $105.6 BILLION The U.S. trade deficit widened to $105.6 billion in August vs. $102 billion expected, up sharply from July’s revised $92.8 billion. Imports jumped 4.3% to $420.75 billion, outpacing a 1.4% rise in…
+- 10/06 21:32 [financialjuice] US Trade Balance August Report
+- 10/06 21:32 [financialjuice] Canadian Trade Balance August 2026 Report
+- 10/06 21:40 [FirstSquawk] PARAMOUNT HAS FINISHED BUYING WARNER BROS. DISCOVERY.
+- 10/06 21:43 [DeItaone] 📊 TRUMP TEASES “MIDTERM SURPRISE” AS DEMOCRATS LEAD POWER INDEX President Trump says Republicans are “flipping races all over the place,” pointing to surging rally enthusiasm and teasing a “Midterm Surprise.” But Kalshi’s American Power Ind…
+- 10/06 21:46 [DeItaone] TREASURY YIELDS ARE "SCREAMING GOOD VALUE" AFTER RECENT RUN UP, SAYS PIMCO SENIOR ADVISOR RUPERT HARRISON
+- 10/06 21:47 [financialjuice] PIMCO senior advisor Rupert Harrison: Treasury yields are "screaming good value" after recent run-up
+- 10/06 21:50 [financialjuice] Iran Minister: Talks with Qatar emir were ‘constructive’
+- 10/06 21:51 [FirstSquawk/DeItaone] IRAN MINISTER SAYS TALKS WITH QATAR EMIR WERE ‘CONSTRUCTIVE’
+- 10/06 21:51 [financialjuice] Iran Minister to relay Qatar Emir’s regional views to Iran President.
+- 10/06 21:55 [financialjuice] IEA expected to decide details of G7 diesel and oil stock release at board meeting on October 14-15 - Sources
+- 10/06 21:55 [FirstSquawk] IEA EXPECTED TO DECIDE DETAILS OF G7 DIESEL AND OIL STOCK RELEASE AT BOARD MEETING ON OCTOBER 14-15
+- 10/06 21:59 [DeItaone] IEA TO SET DETAILS OF G7’S 100 MILLION-BARREL RELEASE The IEA governing board is expected to decide October 14–15 how the G7’s 100 million-barrel emergency crude and diesel release will be divided, according to people close to the matter. T…
+- 10/06 22:00 [financialjuice] The US: Reports of a downed navy helicopter in the Red Sea are not true
+- 10/06 22:00 [financialjuice] Effective fed funds rate 3.88% October 5th vs 3.88% October 2nd
+- 10/06 22:00 [FirstSquawk] APPLIED MATERIALS, INTEL TO CO-DEVELOP AI CHIP TECH
+- 10/06 22:00 [financialjuice] Applied Materials and Intel to co-develop AI chip tech
+- 10/06 22:01 [DeItaone] ANDURIL UNVEILS $6.6 BILLION SUBMARINE INDUSTRIAL EXPANSION Anduril says Arsenal-2 will be built at Tradepoint Atlantic in Baltimore County, creating 3,100 direct jobs and more than 11,000 indirect jobs. Anduril and the U.S. Navy will inves…
+- 10/06 22:02 [financialjuice] The US: All military aircraft and personnel in mideast are safe
+- 10/06 22:03 [financialjuice/FirstSquawk] Iran president names ex-oil minister Paknejad as adviser - ISNA
+- 10/06 22:07 [DeItaone] $AAPL - UBS: APPLE APP STORE GROWTH REMAINS WEAK UBS reiterated its Neutral rating and $296 price target on Apple, despite App Store revenue growth improving to 5% YoY in September. For the September quarter, App Store revenue grew just 2% …
