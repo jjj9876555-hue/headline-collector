@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-06 13:38 JST／対象: 10/05 13:38 〜 10/06 13:38 JST（時刻はすべて日本時間）
+生成: 2026-10-06 13:55 JST／対象: 10/05 13:55 〜 10/06 13:55 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 68 | 10/05 19:25 | 10/06 09:22 | ⚠ 206分（03:52→07:19） |
-| FirstSquawk | 319 | 10/05 13:44 | 10/06 13:32 | ⚠ 59分（07:02→08:01） |
-| financialjuice | 207 | 10/05 13:50 | 10/06 13:25 | ⚠ 103分（14:12→15:55） |
+| FirstSquawk | 318 | 10/05 13:56 | 10/06 13:53 | ⚠ 59分（07:02→08:01） |
+| financialjuice | 212 | 10/05 13:55 | 10/06 13:53 | ⚠ 103分（14:12→15:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 579 行（統合前 597 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 583 行（統合前 601 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 13:44 [FirstSquawk] UK IS ENCOURAGED TO ADOPT AFFORDABLE AI MODELS – FT
-- 10/05 13:44 [FirstSquawk] UK AUDIT WATCHDOG IS THINKING ABOUT CHANGING GOVERNANCE RULES.
-- 10/05 13:44 [FirstSquawk] GLOBAL PENSION FUNDS REDUCE US STOCKS DUE TO AI RISK CONCERNS, SAYS FT.
-- 10/05 13:44 [FirstSquawk] EU WILL RESTRICT UKRAINE'S FARMING SUBSIDIES IF IT BECOMES A MEMBER OF THE BLOCK, ACCORDING TO FT.
-- 10/05 13:44 [FirstSquawk] TRUMP ANGRY WITH SUPREME COURT JUSTICES FOR NOT FOLLOWING HIS WISHES – FT.
-- 10/05 13:44 [FirstSquawk] INDIA'S FINANCE MINISTER STATES THAT THE US TRADE DEAL HAS BEEN TOUGHLY NEGOTIATED AND BELIEVES DISCUSSIONS HAVE REACHED A STANDSTILL.
-- 10/05 13:50 [financialjuice] German Bund futures rise 0.1%; French OAT futures fall 0.22%
-- 10/05 13:52 [financialjuice] India finance minister: new model for bilateral investment treaties to be approved soon
-- 10/05 13:53 [financialjuice] India finance minister: to finalize bilateral investment pact with Canada by December or early next year
-- 10/05 13:53 [FirstSquawk] INDIA'S FINANCE MINISTER ANNOUNCED A NEW TEMPLATE FOR BILATERAL INVESTMENT TREATIES THAT WILL BE APPROVED SOON.
-- 10/05 13:53 [FirstSquawk] INDIA'S FINANCE MINISTER ANNOUNCED THAT A BILATERAL INVESTMENT DEAL WITH CANADA WILL BE FINALIZED BY DECEMBER OR EARLY NEXT YEAR.
 - 10/05 13:55 [financialjuice] India finance minister: talks with Canada on bilateral investment protection under way, cabinet expected to approve elements
 - 10/05 13:55 [financialjuice] India finance minister: to finalize investment pacts with three additional countries by year-end
 - 10/05 13:56 [financialjuice] India finance minister: discussions on investment pacts with multiple countries including Russia, focusing on safeguarding investments
@@ -603,3 +592,18 @@
 - 10/06 13:25 [financialjuice] Many in BoJ wary of raising interest rates in October: sources
 - 10/06 13:31 [FirstSquawk] GERMAN FAR-RIGHT POISED TO SECURE FIRST REGIONAL PARLIAMENT PRESIDENT ROLE - FT
 - 10/06 13:32 [FirstSquawk] NEXTERA'S $67 BILLION BID FOR DOMINION DRAWS POLITICAL OPPOSITION IN VIRGINIA - FT
+- 10/06 13:48 [financialjuice] Taipeiland's Lisa Su: had a positive discussion with Foxconn
+- 10/06 13:49 [financialjuice] Taipelamd's Lisa Su: to meet TSMC later today
+- 10/06 13:49 [financialjuice] TaipeiAMD's Lisa Su: demand outstrips supply
+- 10/06 13:49 [FirstSquawk] LISA SU SAYS SHE WILL MEET TSMC LATER TODAY
+- 10/06 13:50 [FirstSquawk] LISA SU SAYS DEMAND REMAINS ABOVE AVAILABLE SUPPLY
+- 10/06 13:50 [financialjuice] Taipeilamd's Lisa Su: increased supply this year, could certainly use more
+- 10/06 13:51 [financialjuice] TaipeiAMD’s Lisa Su: memory is generally supply constrained
+- 10/06 13:51 [FirstSquawk] LISA SU: AMD HAS BOOSTED SUPPLY THIS YEAR, THOUGH MORE WOULD BE WELCOME
+- 10/06 13:51 [FirstSquawk] LISA SU: WE ALL KNOW MEMORY SUPPLY IS TIGHT OVERALL
+- 10/06 13:52 [FirstSquawk] AMD'S LISA SU: COORDINATING WITH MEMORY SUPPLIERS TO PLAN WITH CUSTOMERS
+- 10/06 13:52 [FirstSquawk] AMD CEO LISA SU: EXPECTS STRONG DEMAND FOR SEVERAL YEARS, THANKS TSMC FOR EXPANDING CAPACITY
+- 10/06 13:53 [financialjuice] Taipeilamd's Lisa Su: we will maintain business model as is
+- 10/06 13:53 [financialjuice] TaipeiAMD's Lisa Su: we must guarantee all capacity is activated simultaneously
+- 10/06 13:53 [FirstSquawk] AMD CEO LISA SU: MUST ENSURE ALL CAPACITY IS BROUGHT ONLINE SIMULTANEOUSLY
+- 10/06 13:53 [financialjuice] TaipeiAMD's Lisa Su: to significantly boost supply in 2027

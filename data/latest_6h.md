@@ -7,26 +7,24 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-06 13:38 JST／対象: 10/06 07:38 〜 10/06 13:38 JST（時刻はすべて日本時間）
+生成: 2026-10-06 13:55 JST／対象: 10/06 07:55 〜 10/06 13:55 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 2 | 10/06 07:39 | 10/06 09:22 | ⚠ 103分（07:39→09:22） |
-| FirstSquawk | 90 | 10/06 08:01 | 10/06 13:32 | 22分（08:06→08:29） |
-| financialjuice | 25 | 10/06 07:44 | 10/06 13:25 | ⚠ 55分（12:21→13:17） |
+| DeItaone | 1 | 10/06 09:22 | 10/06 09:22 | - |
+| FirstSquawk | 97 | 10/06 08:01 | 10/06 13:53 | 22分（08:06→08:29） |
+| financialjuice | 31 | 10/06 08:30 | 10/06 13:53 | ⚠ 55分（12:21→13:17） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 116 行（統合前 117 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 129 行（統合前 129 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/06 07:39 [DeItaone] TRUMP: HAVE DECIDED TO DO ADS AND PAY FOR THEM MYSELF, AND WITH MONEY I RAISED FOR MAGA, INC.
-- 10/06 07:44 [financialjuice] Skyworks announces expiration and final outcomes of exchange offers for Qorvo senior notes due 2029 and 2031
-- 10/06 07:45 [financialjuice/FirstSquawk] Australian army soldier dies, five others hurt in training exercise in northern Australia: ABC News
+- 10/06 08:01 [FirstSquawk] AUSTRALIAN ARMY SOLDIER DIES, FIVE OTHERS HURT IN TRAINING EXERCISE IN NORTHERN AUSTRALIA: ABC NEWS
 - 10/06 08:06 [FirstSquawk] SOUTH KOREA POLICE INVESTIGATE CYBERATTACKS TARGETING COMMERCIAL BANKS — YONHAP
 - 10/06 08:29 [FirstSquawk] AUSTRALIA TREASURER CHALMERS: PUSHING FOR GREATER MARKET ACCESS IN JAPAN AMID STRONG JAPANESE INVESTMENT INTEREST; HIGHER BORROWING COSTS TO HIT BUDGET
 - 10/06 08:29 [FirstSquawk] AUSTRALIA TREASURER CHALMERS: PRIVATE SECTOR LEADING ECONOMIC GROWTH, OUTLOOK POSITIVE; PRODUCTIVITY REMAINS A LONG-STANDING CHALLENGE
@@ -140,3 +138,18 @@
 - 10/06 13:25 [financialjuice] Many in BoJ wary of raising interest rates in October: sources
 - 10/06 13:31 [FirstSquawk] GERMAN FAR-RIGHT POISED TO SECURE FIRST REGIONAL PARLIAMENT PRESIDENT ROLE - FT
 - 10/06 13:32 [FirstSquawk] NEXTERA'S $67 BILLION BID FOR DOMINION DRAWS POLITICAL OPPOSITION IN VIRGINIA - FT
+- 10/06 13:48 [financialjuice] Taipeiland's Lisa Su: had a positive discussion with Foxconn
+- 10/06 13:49 [financialjuice] Taipelamd's Lisa Su: to meet TSMC later today
+- 10/06 13:49 [financialjuice] TaipeiAMD's Lisa Su: demand outstrips supply
+- 10/06 13:49 [FirstSquawk] LISA SU SAYS SHE WILL MEET TSMC LATER TODAY
+- 10/06 13:50 [FirstSquawk] LISA SU SAYS DEMAND REMAINS ABOVE AVAILABLE SUPPLY
+- 10/06 13:50 [financialjuice] Taipeilamd's Lisa Su: increased supply this year, could certainly use more
+- 10/06 13:51 [financialjuice] TaipeiAMD’s Lisa Su: memory is generally supply constrained
+- 10/06 13:51 [FirstSquawk] LISA SU: AMD HAS BOOSTED SUPPLY THIS YEAR, THOUGH MORE WOULD BE WELCOME
+- 10/06 13:51 [FirstSquawk] LISA SU: WE ALL KNOW MEMORY SUPPLY IS TIGHT OVERALL
+- 10/06 13:52 [FirstSquawk] AMD'S LISA SU: COORDINATING WITH MEMORY SUPPLIERS TO PLAN WITH CUSTOMERS
+- 10/06 13:52 [FirstSquawk] AMD CEO LISA SU: EXPECTS STRONG DEMAND FOR SEVERAL YEARS, THANKS TSMC FOR EXPANDING CAPACITY
+- 10/06 13:53 [financialjuice] Taipeilamd's Lisa Su: we will maintain business model as is
+- 10/06 13:53 [financialjuice] TaipeiAMD's Lisa Su: we must guarantee all capacity is activated simultaneously
+- 10/06 13:53 [FirstSquawk] AMD CEO LISA SU: MUST ENSURE ALL CAPACITY IS BROUGHT ONLINE SIMULTANEOUSLY
+- 10/06 13:53 [financialjuice] TaipeiAMD's Lisa Su: to significantly boost supply in 2027

@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-06 13:38 JST／対象: 10/06 01:38 〜 10/06 13:38 JST（時刻はすべて日本時間）
+生成: 2026-10-06 13:55 JST／対象: 10/06 01:55 〜 10/06 13:55 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 18 | 10/06 02:00 | 10/06 09:22 | ⚠ 206分（03:52→07:19） |
-| FirstSquawk | 161 | 10/06 01:40 | 10/06 13:32 | ⚠ 59分（07:02→08:01） |
-| financialjuice | 79 | 10/06 01:50 | 10/06 13:25 | ⚠ 87分（06:00→07:27） |
+| FirstSquawk | 167 | 10/06 01:57 | 10/06 13:53 | ⚠ 59分（07:02→08:01） |
+| financialjuice | 86 | 10/06 01:56 | 10/06 13:53 | ⚠ 87分（06:00→07:27） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 252 行（統合前 260 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 265 行（統合前 273 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/06 01:40 [FirstSquawk] YEMEN OFFICIAL SAYS HANDS ARE EXTENDED FOR PEACE
-- 10/06 01:50 [financialjuice] Yemeni sources: Houthi drones killed a foreign military advisor on the Marib front. Advisor identified as Pakistani - Tasnim News
 - 10/06 01:56 [financialjuice] Iran's President Pezeshkian: Negotiating with an enemy that constantly threatens and terrorizes us, and breaks its promises, is meaningless - Tasnim News.
 - 10/06 01:57 [FirstSquawk] EXPLOSIONS HEARD IN RIYADH; FLIGHTS SUSPENDED AT AIRPORT - FARS
 - 10/06 01:58 [financialjuice] Iran's President Pezeshkian: Every time inspectors come to Iran, our nuclear facilities and scientists are identified, and then these facilities are bombed, and our scientists are assassinated - Tasnim News.
@@ -276,3 +274,18 @@
 - 10/06 13:25 [financialjuice] Many in BoJ wary of raising interest rates in October: sources
 - 10/06 13:31 [FirstSquawk] GERMAN FAR-RIGHT POISED TO SECURE FIRST REGIONAL PARLIAMENT PRESIDENT ROLE - FT
 - 10/06 13:32 [FirstSquawk] NEXTERA'S $67 BILLION BID FOR DOMINION DRAWS POLITICAL OPPOSITION IN VIRGINIA - FT
+- 10/06 13:48 [financialjuice] Taipeiland's Lisa Su: had a positive discussion with Foxconn
+- 10/06 13:49 [financialjuice] Taipelamd's Lisa Su: to meet TSMC later today
+- 10/06 13:49 [financialjuice] TaipeiAMD's Lisa Su: demand outstrips supply
+- 10/06 13:49 [FirstSquawk] LISA SU SAYS SHE WILL MEET TSMC LATER TODAY
+- 10/06 13:50 [FirstSquawk] LISA SU SAYS DEMAND REMAINS ABOVE AVAILABLE SUPPLY
+- 10/06 13:50 [financialjuice] Taipeilamd's Lisa Su: increased supply this year, could certainly use more
+- 10/06 13:51 [financialjuice] TaipeiAMD’s Lisa Su: memory is generally supply constrained
+- 10/06 13:51 [FirstSquawk] LISA SU: AMD HAS BOOSTED SUPPLY THIS YEAR, THOUGH MORE WOULD BE WELCOME
+- 10/06 13:51 [FirstSquawk] LISA SU: WE ALL KNOW MEMORY SUPPLY IS TIGHT OVERALL
+- 10/06 13:52 [FirstSquawk] AMD'S LISA SU: COORDINATING WITH MEMORY SUPPLIERS TO PLAN WITH CUSTOMERS
+- 10/06 13:52 [FirstSquawk] AMD CEO LISA SU: EXPECTS STRONG DEMAND FOR SEVERAL YEARS, THANKS TSMC FOR EXPANDING CAPACITY
+- 10/06 13:53 [financialjuice] Taipeilamd's Lisa Su: we will maintain business model as is
+- 10/06 13:53 [financialjuice] TaipeiAMD's Lisa Su: we must guarantee all capacity is activated simultaneously
+- 10/06 13:53 [FirstSquawk] AMD CEO LISA SU: MUST ENSURE ALL CAPACITY IS BROUGHT ONLINE SIMULTANEOUSLY
+- 10/06 13:53 [financialjuice] TaipeiAMD's Lisa Su: to significantly boost supply in 2027
