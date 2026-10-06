@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-06 12:00 JST／対象: 10/06 00:00 〜 10/06 12:00 JST（時刻はすべて日本時間）
+生成: 2026-10-06 12:21 JST／対象: 10/06 00:21 〜 10/06 12:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 28 | 10/06 00:08 | 10/06 09:22 | ⚠ 206分（03:52→07:19） |
-| FirstSquawk | 156 | 10/06 00:06 | 10/06 12:00 | ⚠ 59分（07:02→08:01） |
-| financialjuice | 96 | 10/06 00:02 | 10/06 11:42 | ⚠ 87分（06:00→07:27） |
+| DeItaone | 26 | 10/06 00:39 | 10/06 09:22 | ⚠ 206分（03:52→07:19） |
+| FirstSquawk | 156 | 10/06 00:27 | 10/06 12:16 | ⚠ 59分（07:02→08:01） |
+| financialjuice | 90 | 10/06 00:31 | 10/06 12:09 | ⚠ 87分（06:00→07:27） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 273 行（統合前 282 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 266 行（統合前 274 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/06 00:02 [financialjuice] US VP Vance: We're looking at procedures in the US after the FlyDubai incident.
-- 10/06 00:02 [financialjuice] US VP Vance on the FlyDubai incident: We haven't seen anything conclusive yet on ties to Iran.
-- 10/06 00:04 [financialjuice] US VP Vance: The US pulled bombers from UK base out of caution.
-- 10/06 00:06 [FirstSquawk/DeItaone] TRUMP TO EASE USE OF TAX-EXEMPT VARIETY OF DIESEL
-- 10/06 00:07 [FirstSquawk] TRUMP TO UNVEIL PLAN ON RED-DYED DIESEL ON MONDAY
-- 10/06 00:07 [financialjuice] Trump is going to unveil a plan on red-dyed diesel on Monday - Officials
-- 10/06 00:08 [DeItaone] TRUMP TO UNVEIL PLAN ON RED-DYED DIESEL ON MONDAY: OFFICIALS
-- 10/06 00:13 [financialjuice] OpenAI is going to add a text watermark to EU ChatGPT users, as an approach to eu text provenance rules.
-- 10/06 00:15 [financialjuice] Fed bids for 3-month bills total $7.2 bln.
-- 10/06 00:15 [financialjuice] Fed bids for 6-month bills total $6.2 bln.
-- 10/06 00:18 [FirstSquawk] OPENAI TO ADD TEXT WATERMARKS TO EU CHATGPT USERS
 - 10/06 00:27 [FirstSquawk] GERMAN CHANCELLOR MERZ: EU COMMISSION SHOULD BE ABLE TO ACT RAPIDLY ON TRADE
 - 10/06 00:31 [FirstSquawk] BRITAIN'S FTSE 100 UP 0.26%; GERMANY'S DAX UP 0.06%
 - 10/06 00:31 [financialjuice] The United States has given Israel the green light, removing operational restrictions on the Israeli Air Force over Iraqi airspace. According to sources, this authorization allows Israel to strike Iranian-backed militias in the region - Isr…
@@ -297,3 +286,7 @@
 - 10/06 11:56 [FirstSquawk] JPMORGAN RAISES BLACKROCK PRICE TARGET TO $1,435 VS $1,364 PREVIOUSLY
 - 10/06 11:56 [FirstSquawk] ADNOC L&S PLACES $324 MILLION ORDER FOR THREE ADDITIONAL GAS CARRIERS
 - 10/06 12:00 [FirstSquawk] ADNOC L&S: EACH VESSEL WILL HAVE 90,000-CUBIC-METRE CAPACITY, DELIVERIES SET FOR 2H 2029
+- 10/06 12:02 [FirstSquawk] ADNOC L&S SAYS NEW GAS CARRIERS SECURED SEVEN-YEAR CONTRACT WITH ADNOC GLOBAL TRADING
+- 10/06 12:09 [financialjuice] Russia strikes bridge over Dnipro River in Ukraine's Zaporizhzhia region: authorities
+- 10/06 12:10 [FirstSquawk] RUSSIA CARRIES OUT STRIKE ON DNIPRO RIVER BRIDGE IN ZAPORIZHZHIA, AUTHORITIES SAY
+- 10/06 12:16 [FirstSquawk] ASIAN CURRENCIES TRADE IN TIGHT RANGES AHEAD OF U.S. DATA - WSJ
