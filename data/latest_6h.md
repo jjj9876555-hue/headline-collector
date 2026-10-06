@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-06 13:19 JST／対象: 10/06 07:19 〜 10/06 13:19 JST（時刻はすべて日本時間）
+生成: 2026-10-06 13:38 JST／対象: 10/06 07:38 〜 10/06 13:38 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 10/06 07:39 | 10/06 09:22 | ⚠ 103分（07:39→09:22） |
-| FirstSquawk | 86 | 10/06 08:01 | 10/06 13:17 | 22分（08:06→08:29） |
-| financialjuice | 24 | 10/06 07:27 | 10/06 13:17 | ⚠ 55分（12:21→13:17） |
+| FirstSquawk | 90 | 10/06 08:01 | 10/06 13:32 | 22分（08:06→08:29） |
+| financialjuice | 25 | 10/06 07:44 | 10/06 13:25 | ⚠ 55分（12:21→13:17） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 111 行（統合前 112 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 116 行（統合前 117 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/06 07:27 [financialjuice] Trump: I have chosen to run ads and finance them myself, using funds raised for Maga Inc.
 - 10/06 07:39 [DeItaone] TRUMP: HAVE DECIDED TO DO ADS AND PAY FOR THEM MYSELF, AND WITH MONEY I RAISED FOR MAGA, INC.
 - 10/06 07:44 [financialjuice] Skyworks announces expiration and final outcomes of exchange offers for Qorvo senior notes due 2029 and 2031
 - 10/06 07:45 [financialjuice/FirstSquawk] Australian army soldier dies, five others hurt in training exercise in northern Australia: ABC News
@@ -135,3 +134,9 @@
 - 10/06 13:01 [FirstSquawk] GMO RESEARCH & AI SAYS DATA BREACH MAY HAVE AFFECTED UP TO 948,500 MEMBER RECORDS - KYODO
 - 10/06 13:17 [financialjuice] Ukraine strike kills one, injures six in Moscow region: governor
 - 10/06 13:17 [FirstSquawk] UKRAINIAN STRIKES LEAVE ONE DEAD, SIX INJURED IN MOSCOW REGION, GOVERNOR SAYS
+- 10/06 13:19 [FirstSquawk] HIGHER BORROWING COSTS WEIGH ON CORPORATE AMERICA - FT
+- 10/06 13:21 [FirstSquawk] 40-YEAR JGB YIELD CLIMBS 1 BP TO 4.330%
+- 10/06 13:25 [financialjuice] BOJ may indicate underlying inflation has roughly reached 2% target at October meeting, sources say
+- 10/06 13:25 [financialjuice] Many in BoJ wary of raising interest rates in October: sources
+- 10/06 13:31 [FirstSquawk] GERMAN FAR-RIGHT POISED TO SECURE FIRST REGIONAL PARLIAMENT PRESIDENT ROLE - FT
+- 10/06 13:32 [FirstSquawk] NEXTERA'S $67 BILLION BID FOR DOMINION DRAWS POLITICAL OPPOSITION IN VIRGINIA - FT
