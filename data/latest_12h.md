@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-06 11:27 JST／対象: 10/05 23:27 〜 10/06 11:27 JST（時刻はすべて日本時間）
+生成: 2026-10-06 11:47 JST／対象: 10/05 23:47 〜 10/06 11:47 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 31 | 10/05 23:40 | 10/06 09:22 | ⚠ 206分（03:52→07:19） |
-| FirstSquawk | 157 | 10/05 23:29 | 10/06 11:26 | ⚠ 59分（07:02→08:01） |
-| financialjuice | 97 | 10/05 23:28 | 10/06 11:16 | ⚠ 87分（06:00→07:27） |
+| DeItaone | 29 | 10/05 23:55 | 10/06 09:22 | ⚠ 206分（03:52→07:19） |
+| FirstSquawk | 156 | 10/05 23:50 | 10/06 11:40 | ⚠ 59分（07:02→08:01） |
+| financialjuice | 98 | 10/05 23:55 | 10/06 11:42 | ⚠ 87分（06:00→07:27） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 277 行（統合前 287 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 275 行（統合前 285 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 23:28 [financialjuice] UKMTO has received a time-late report of an incident within the Strait of Hormuz. A verified source has reported that an LPG tanker transiting inbound has been struck by an unknown projectile.
-- 10/05 23:29 [FirstSquawk] IRAQ SEEKS MORE OIL TANKERS IN EFFORT TO CONTROL HORMUZ TRANSIT
-- 10/05 23:39 [FirstSquawk] EXANE BNP PARIBAS CUTS GLOBALFOUNDRIES PRICE TARGET TO $51 FROM $80
-- 10/05 23:39 [FirstSquawk] UKRAINE’S ZELENSKIY ON CALL WITH FRANCE’S MACRON
-- 10/05 23:40 [DeItaone] NATURAL GAS FUNDS FLIP SHARPLY NET SHORT Managed money more than doubled its net short position in Henry Hub, with a 67,217-contract bearish swing driven by the steepest long liquidation since 2008. Funds cut longs by 46,038 contracts while…
-- 10/05 23:46 [DeItaone] HOUTHI MILITARY LEADERS VOW TO INTENSIFY STRIKES Houthi Defense Minister Mohammed Nasser al-Atifi and Chief of Staff Yusuf Hassan al-Madani issued a statement commemorating slain military commander Muhammad Abdulkarim al-Ghamari. They pledg…
 - 10/05 23:50 [FirstSquawk] PETRONAS CEO SAYS LNG MARKET THIS WINTER IS GOING TO BE VERY, VERY TIGHT ESPECIALLY IF EUROPE'S GAS STORAGE GETS LOWER
 - 10/05 23:53 [FirstSquawk] PETRONAS CEO SAYS IF LNG PRICE HITS $40-$50 MMBTU PEOPLE MAY START SWITCHING TO OTHER FORMS OF ENERGY
 - 10/05 23:55 [DeItaone/FirstSquawk] *IRAN SAYS ENEMY’S NEXT MISTAKE WILL BRING NEW FRONTS, SURPRISES
@@ -301,3 +295,7 @@
 - 10/06 11:16 [financialjuice] Ukraine dispatched 650 drones to Russia's Moscow region overnight, Moscow mayor says
 - 10/06 11:16 [FirstSquawk] MOSCOW MAYOR SAYS 650 UKRAINIAN DRONES WERE SENT TOWARD MOSCOW REGION OVERNIGHT
 - 10/06 11:26 [FirstSquawk] SEOUL FOREIGN VISITOR NUMBERS CLIMB 22% IN FIRST EIGHT MONTHS; CARD SPENDING SURGES 60% - YONHAP
+- 10/06 11:32 [FirstSquawk] S.KOREA'S 2-YEAR TREASURY BONDS SOLD AT 3.895% YIELD — FINANCE MINISTRY
+- 10/06 11:40 [FirstSquawk] KIWI DOLLAR CONSOLIDATES NEAR 0.5600, CLOSE TO YTD LOW AMID STRONG USD - FX
+- 10/06 11:41 [financialjuice] Moonshot Eyes early 2027 IPO after valuation reaches $50 billion
+- 10/06 11:42 [financialjuice] Moonshot targets early 2027 IPO after valuation reaches $50 billion
