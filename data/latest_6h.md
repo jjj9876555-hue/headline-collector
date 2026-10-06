@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-06 12:21 JST／対象: 10/06 06:21 〜 10/06 12:21 JST（時刻はすべて日本時間）
+生成: 2026-10-06 12:40 JST／対象: 10/06 06:40 〜 10/06 12:40 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 10/06 07:19 | 10/06 09:22 | ⚠ 103分（07:39→09:22） |
-| FirstSquawk | 77 | 10/06 07:01 | 10/06 12:16 | ⚠ 59分（07:02→08:01） |
-| financialjuice | 22 | 10/06 07:27 | 10/06 12:09 | 45分（07:45→08:30） |
+| FirstSquawk | 83 | 10/06 07:01 | 10/06 12:39 | ⚠ 59分（07:02→08:01） |
+| financialjuice | 23 | 10/06 07:27 | 10/06 12:21 | 45分（07:45→08:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 101 行（統合前 102 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 108 行（統合前 109 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -125,3 +125,10 @@
 - 10/06 12:09 [financialjuice] Russia strikes bridge over Dnipro River in Ukraine's Zaporizhzhia region: authorities
 - 10/06 12:10 [FirstSquawk] RUSSIA CARRIES OUT STRIKE ON DNIPRO RIVER BRIDGE IN ZAPORIZHZHIA, AUTHORITIES SAY
 - 10/06 12:16 [FirstSquawk] ASIAN CURRENCIES TRADE IN TIGHT RANGES AHEAD OF U.S. DATA - WSJ
+- 10/06 12:21 [FirstSquawk] TRUMP: BECTON DICKINSON TO INVEST $3 BILLION TO BRING ESSENTIAL MEDICAL PRODUCT MANUFACTURING ONSHORE
+- 10/06 12:21 [financialjuice] Trump: BD to invest more than $1 billion to boost production of various products, including needles made from American steel
+- 10/06 12:21 [FirstSquawk] TRUMP: BD WILL INVEST MORE THAN $1 BILLION TO RAMP UP PRODUCTION, INCLUDING U.S.-STEEL NEEDLES
+- 10/06 12:28 [FirstSquawk] FITCH RATINGS: CHINA'S NEW LAND RULES LIKELY TO PRESSURE LAND-RELATED REVENUE AT LRGs
+- 10/06 12:35 [FirstSquawk] TRUMP APPROVES FIRING SQUAD AS EXECUTION METHOD FOR MILITARY BASE SHOOTER - SCMP
+- 10/06 12:36 [FirstSquawk] JAPAN 10-YEAR BOND AUCTION TAIL AT 0.02, VS 0.12 IN PREVIOUS SALE
+- 10/06 12:39 [FirstSquawk] 10-YEAR JGB FUTURES TRIM LOSSES FOLLOWING 10-YEAR AUCTION, DOWN 0.18 YEN AT 124.32
