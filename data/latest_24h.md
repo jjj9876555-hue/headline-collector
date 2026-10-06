@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-06 09:28 JST／対象: 10/05 09:28 〜 10/06 09:28 JST（時刻はすべて日本時間）
+生成: 2026-10-06 09:53 JST／対象: 10/05 09:53 〜 10/06 09:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 68 | 10/05 19:25 | 10/06 09:22 | ⚠ 206分（03:52→07:19） |
-| FirstSquawk | 300 | 10/05 09:31 | 10/06 09:23 | ⚠ 59分（07:02→08:01） |
-| financialjuice | 206 | 10/05 09:28 | 10/06 08:57 | ⚠ 103分（14:12→15:55） |
+| FirstSquawk | 302 | 10/05 09:55 | 10/06 09:48 | ⚠ 59分（07:02→08:01） |
+| financialjuice | 203 | 10/05 10:01 | 10/06 09:38 | ⚠ 103分（14:12→15:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 559 行（統合前 579 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 558 行（統合前 578 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 09:28 [financialjuice] BOJ deputy governor Uchida: AI has driven up stock prices, easing financial conditions, while significant bond sales by AI-related firms have pushed long-term rates higher
-- 10/05 09:29 [financialjuice] BoJ deputy governor Uchida: We will keep closely monitoring economic and financial indicators to understand the consistent effects of AI adoption
-- 10/05 09:29 [financialjuice] BoJ deputy governor Uchida: Tentatively, demand-side impact of al appears first, making financial conditions more accommodative on balance, while correction risk remains if profits do not
-- 10/05 09:30 [financialjuice] JAPANESE COMPOSITE PMI FINAL ACTUAL 52.3 (FORECAST -, PREVIOUS 52.5) $MACRO
-- 10/05 09:30 [financialjuice] JAPANESE SERVICES PMI ACTUAL 51.3 (FORECAST -, PREVIOUS 51.6) $MACRO
-- 10/05 09:30 [financialjuice] Japan s&p global september services pmi at 51.3 vs flash 51.6
-- 10/05 09:31 [FirstSquawk] BOJ DEPUTY GOVERNOR UCHIDA SAYS AI HAS BECOME A KEY TOPIC OF DISCUSSION AMONG CENTRAL BANKS, INCLUDING AT THE BOJ'S MONETARY POLICY MEETINGS, WITH IMPLICATIONS FOR SOME CORE PARAMETERS OF POLICYMAKING INCLUDING THE OUTPUT GAP, FINANCIAL CON…
-- 10/05 09:31 [FirstSquawk] BOJ DEPUTY GOVERNOR UCHIDA SAYS AI IS 'A BIG POSITIVE DEMAND SHOCK' THAT HAS PUT UPWARD PRESSURE ON THE ECONOMY AND PRICES, AND COULD AFFECT THE SUPPLY SIDE 'PERHAPS POSITIVELY BY RAISING PRODUCTIVITY AND ENHANCING CAPITAL STOCK ACCUMULATIO…
-- 10/05 09:31 [FirstSquawk] BOJ DEPUTY GOVERNOR UCHIDA SAYS AI HAS BOOSTED STOCK PRICES AND MADE FINANCIAL CONDITIONS EASIER, WHILE LARGE-VOLUME BOND ISSUANCES BY AI-RELATED COMPANIES HAVE BEEN PUTTING UPWARD PRESSURE ON LONG-TERM INTEREST RATES.
-- 10/05 09:32 [FirstSquawk] BOJ DEPUTY GOVERNOR UCHIDA SAYS THAT TENTATIVELY, THE DEMAND-SIDE IMPACT OF AI SEEMS TO HAVE COME FIRST, MAKING FINANCIAL CONDITIONS MORE ACCOMMODATIVE ON BALANCE, THOUGH THERE IS A RISK OF CORRECTION IF PROFITS DO NOT FOLLOW, ADDING THAT T…
-- 10/05 09:40 [FirstSquawk] JAPAN'S S&P GLOBAL SEPTEMBER SERVICES PMI CAME IN AT 51.3, BELOW THE FLASH READING OF 51.6, WITH THE COMPOSITE PMI AT 52.3 VERSUS A FLASH 52.5
-- 10/05 09:40 [FirstSquawk] SAUDI ARAMCO SETS NOVEMBER ARAB LIGHT OSP AT $5 BELOW OMAN/DUBAI FOR ASIA; $0.85 ABOVE ICE BRENT FOR NW EUROPE & $4.60 ABOVE ASCI FOR US
-- 10/05 09:46 [FirstSquawk] FORMER OPENAI SAFETY AND TRANSPARENCY LEADER DAVID ROBINSON RESIGNED, WARNING THAT THE COMPANY IS MOVING TOO QUICKLY WITH AI LAUNCHES WITHOUT SUFFICIENT SAFEGUARDS FOR INCREASINGLY CAPABLE SYSTEMS.
-- 10/05 09:46 [FirstSquawk] FORMER OPENAI SAFETY AND TRANSPARENCY LEADER DAVID ROBINSON SAID AI FIRMS SHOULD OPERATE MORE LIKE NUCLEAR POWER PLANTS WITH MULTIPLE SAFETY LAYERS, WHILE OPENAI SAID IT IS EXPANDING THIRD-PARTY EVALUATIONS, SECURITY TESTING AND REAL-TIME M…
-- 10/05 09:53 [FirstSquawk] JAPAN 30-YEAR JGB YIELD RISES 2.5 BPS TO 4.230%
 - 10/05 09:55 [FirstSquawk] JAPAN 30-YEAR JGB YIELD SURGES 2.5 BPS TO RECORD HIGH OF 4.23%
 - 10/05 10:01 [FirstSquawk] TAIWAN OVERNIGHT INTERBANK RATE OPENS UNCHANGED AT 0.805%
 - 10/05 10:01 [financialjuice] Taiwan stocks gain over 2%
@@ -583,3 +568,17 @@
 - 10/06 09:23 [FirstSquawk] North Korea reviews third-quarter economic performance at expanded Cabinet meeting - YONHAP
 - 10/06 09:23 [FirstSquawk] THE U.S. EVACUATED 12 B-1 BOMBERS FROM RAF FAIRFORD IN THE UK AFTER INTELLIGENCE INDICATED A POSSIBLE IRANIAN DRONE ATTACK ON THE BASE, WITH BRITISH AUTHORITIES HAVING ALSO ARRESTED SEVERAL DUAL BRITISH-IRANIAN CITIZENS SUSPECTED OF PLANNIN…
 - 10/06 09:23 [FirstSquawk] TRUMP CONFIRMED THE BOMBERS WERE MOVED BECAUSE OF AN IRANIAN SECURITY THREAT, CONTRADICTING RUBIO, WHO HAD INITIALLY DESCRIBED THE MOVE AS A ROUTINE ROTATION - AXIOS
+- 10/06 09:29 [FirstSquawk] ASIAN STOCKS GAINED MODESTLY AFTER NVIDIA AND MICROSOFT LED A TECH RALLY THAT PUSHED THE S&P 500 CLOSE TO A RECORD, WITH MSCI ASIA PACIFIC UP 0.1% AND JAPAN'S TOPIX AND AUSTRALIA'S ASX 200 GAINING 0.3%.
+- 10/06 09:29 [FirstSquawk] BOND YIELDS REMAINED A MAJOR CONCERN, WITH U.S. 10-YEAR AND 30-YEAR YIELDS REACHING 5.34% AND 5.70%, THEIR HIGHEST SINCE 2002, AS INVESTORS STAYED FOCUSED ON STRONG EARNINGS, RESILIENT CONSUMER SPENDING AND BOOMING AI INVESTMENT DESPITE HIG…
+- 10/06 09:29 [FirstSquawk] BRENT HELD AROUND $100.30 WHILE WTI FELL 0.2% TO $89.25, WITH GOLD SLIPPING 0.1% TO $4,134, BITCOIN NEAR $85,807 AND THE EURO REMAINING WEAK AMID EUROPEAN POLITICAL AND FISCAL CONCERNS.
+- 10/06 09:30 [financialjuice] Hong Kong s&p global september pmi at 49.2 vs 49.5 in august
+- 10/06 09:32 [FirstSquawk] Hong Kong September PMI drops to 49.2 from August's 49.5
+- 10/06 09:33 [FirstSquawk] OpenAI's spending retreat faces pushback from AI safety groups - POLITICO
+- 10/06 09:37 [FirstSquawk] Australia ANZ-Indeed job advertisements increase 2.2% M/M in September
+- 10/06 09:38 [financialjuice] Separatist party wins Quebec election, predicts public broadcaster Radio-Canada
+- 10/06 09:38 [financialjuice] Too early to say if Quebec separatist party has won majority or minority : Radio-Canada
+- 10/06 09:38 [FirstSquawk] Quebec separatists' majority or minority status remains unclear — Radio-Canada
+- 10/06 09:43 [FirstSquawk] Beijing sought greater results from Xi's Washington state visit - SCMP
+- 10/06 09:47 [FirstSquawk] 30-year Japanese government bond yield hits record 4.24%, up 1 bp
+- 10/06 09:47 [FirstSquawk] 5-year Japanese government bond yield gains 3 bps to 2.39%
+- 10/06 09:48 [FirstSquawk] FBI removes Accenture contractor following damaging data breach, Reuters says

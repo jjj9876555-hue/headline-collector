@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-06 09:28 JST／対象: 10/06 03:28 〜 10/06 09:28 JST（時刻はすべて日本時間）
+生成: 2026-10-06 09:53 JST／対象: 10/06 03:53 〜 10/06 09:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 8 | 10/06 03:29 | 10/06 09:22 | ⚠ 206分（03:52→07:19） |
-| FirstSquawk | 81 | 10/06 03:48 | 10/06 09:23 | ⚠ 59分（07:02→08:01） |
-| financialjuice | 39 | 10/06 03:31 | 10/06 08:57 | ⚠ 87分（06:00→07:27） |
+| DeItaone | 3 | 10/06 07:19 | 10/06 09:22 | ⚠ 103分（07:39→09:22） |
+| FirstSquawk | 88 | 10/06 03:55 | 10/06 09:48 | ⚠ 59分（07:02→08:01） |
+| financialjuice | 37 | 10/06 04:18 | 10/06 09:38 | ⚠ 87分（06:00→07:27） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 126 行（統合前 128 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,20 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/06 03:29 [DeItaone] BESSENT: U.S. PRESSURE CAMPAIGN IS HITTING IRAN’S ECONOMY Treasury Secretary Scott Bessent says “Operation Economic Outcast” is delivering results, pointing to a record-low Iranian rial and claiming Iran loaded zero crude onto tankers last …
-- 10/06 03:31 [financialjuice] NYMEX Nat Gas Nov. futures settle at $3.0660/MMBTU
-- 10/06 03:31 [DeItaone] AI OPTIMISM OVERRIDES RISING BOND YIELDS Tech stocks are rallying even as bond yields climb, with investors continuing to bet heavily on the long-term benefits of AI. Interactive Brokers strategist Steve Sosnick summed up the mood: “If you …
-- 10/06 03:40 [DeItaone] $SPCX - SPACEX PROPOSES 32-MILE GAS PIPELINE FOR STARSHIP SpaceX is seeking approval to build a 32.4-mile natural gas pipeline in Florida to supply methane for Starship launches from Cape Canaveral. The pipeline would connect with Florida G…
-- 10/06 03:43 [financialjuice] NYMEX WTI Crude Nov. futures settle at $89.43 a barrel down $1.68, 1.84%
-- 10/06 03:43 [financialjuice] NYMEX Diesel Nov. futures settle at $4.5452 a gallon
-- 10/06 03:44 [financialjuice] NYMEX Gasoline Nov. futures settle at $3.2462 a gallon
-- 10/06 03:44 [DeItaone] HIGH YIELDS FORCE MUNI BORROWERS TO DELAY REFINANCINGS Roughly $6 billion of municipal bond refinancing deals are on hold or delayed as elevated yields erase potential savings for borrowers. Benchmark 30-year muni yields recently hit 5.26%,…
-- 10/06 03:46 [financialjuice] Brent Crude futures settle at $100.32/bbl, down $1.93, 1.89%
-- 10/06 03:48 [FirstSquawk] REGIONAL SOURCES CLAIM SAUDI ROYAL SECURITY TEAM PLANS TO LAUNCH US-MADE LUCAS DRONES TOWARD MECCA TARGETING KAABA, NEARBY RESIDENTIAL AREAS - FARS NEWS
-- 10/06 03:48 [FirstSquawk] US TREASURY SECRETARY BESSENT: IRAN LOADED ZERO CRUDE OIL ONTO TANKERS LAST MONTH - POST ON X
-- 10/06 03:49 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 1.84% LOWER AT $89.43/BBL, DOWN $1.68
-- 10/06 03:49 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 1.89% LOWER AT $100.32/BBL, DOWN $1.93
-- 10/06 03:52 [DeItaone] TREASURY YIELDS SURGE TO FRESH 24-YEAR HIGHS Treasuries sold off sharply, pushing the 10-year yield to 5.34% and the 30-year to 5.70%, their highest levels since 2002. Pressure comes from resilient growth, AI-driven investment and persisten…
 - 10/06 03:55 [FirstSquawk] GENMAB AND ABBVIE SAY EPCORITAMAB IN COMBINATION WITH R-CHOP DEMONSTRATED A STATISTICALLY SIGNIFICANT IMPROVEMENT IN PROGRESSION-FREE SURVIVAL IN PATIENTS WITH NEWLY DIAGNOSED DIFFUSE LARGE B-CELL LYMPHOMA (DLBCL), WITH THE PHASE 3 TRIAL SH…
 - 10/06 03:59 [FirstSquawk] LG&E & KENTUCKY UTILITIES SEEK PROPOSALS FOR THERMAL POWER GENERATION RESOURCES OF AT LEAST 50 MW CAPACITY
 - 10/06 04:00 [FirstSquawk] NATO'S TOP MILITARY COMMANDER IS DRAFTING A STRATEGY TO STOP A POTENTIAL RUSSIAN INCURSION ON THE EASTERN FLANK, COMBINING CONVENTIONAL MILITARY POWER WITH DRONES AND AI
@@ -150,3 +136,17 @@
 - 10/06 09:23 [FirstSquawk] North Korea reviews third-quarter economic performance at expanded Cabinet meeting - YONHAP
 - 10/06 09:23 [FirstSquawk] THE U.S. EVACUATED 12 B-1 BOMBERS FROM RAF FAIRFORD IN THE UK AFTER INTELLIGENCE INDICATED A POSSIBLE IRANIAN DRONE ATTACK ON THE BASE, WITH BRITISH AUTHORITIES HAVING ALSO ARRESTED SEVERAL DUAL BRITISH-IRANIAN CITIZENS SUSPECTED OF PLANNIN…
 - 10/06 09:23 [FirstSquawk] TRUMP CONFIRMED THE BOMBERS WERE MOVED BECAUSE OF AN IRANIAN SECURITY THREAT, CONTRADICTING RUBIO, WHO HAD INITIALLY DESCRIBED THE MOVE AS A ROUTINE ROTATION - AXIOS
+- 10/06 09:29 [FirstSquawk] ASIAN STOCKS GAINED MODESTLY AFTER NVIDIA AND MICROSOFT LED A TECH RALLY THAT PUSHED THE S&P 500 CLOSE TO A RECORD, WITH MSCI ASIA PACIFIC UP 0.1% AND JAPAN'S TOPIX AND AUSTRALIA'S ASX 200 GAINING 0.3%.
+- 10/06 09:29 [FirstSquawk] BOND YIELDS REMAINED A MAJOR CONCERN, WITH U.S. 10-YEAR AND 30-YEAR YIELDS REACHING 5.34% AND 5.70%, THEIR HIGHEST SINCE 2002, AS INVESTORS STAYED FOCUSED ON STRONG EARNINGS, RESILIENT CONSUMER SPENDING AND BOOMING AI INVESTMENT DESPITE HIG…
+- 10/06 09:29 [FirstSquawk] BRENT HELD AROUND $100.30 WHILE WTI FELL 0.2% TO $89.25, WITH GOLD SLIPPING 0.1% TO $4,134, BITCOIN NEAR $85,807 AND THE EURO REMAINING WEAK AMID EUROPEAN POLITICAL AND FISCAL CONCERNS.
+- 10/06 09:30 [financialjuice] Hong Kong s&p global september pmi at 49.2 vs 49.5 in august
+- 10/06 09:32 [FirstSquawk] Hong Kong September PMI drops to 49.2 from August's 49.5
+- 10/06 09:33 [FirstSquawk] OpenAI's spending retreat faces pushback from AI safety groups - POLITICO
+- 10/06 09:37 [FirstSquawk] Australia ANZ-Indeed job advertisements increase 2.2% M/M in September
+- 10/06 09:38 [financialjuice] Separatist party wins Quebec election, predicts public broadcaster Radio-Canada
+- 10/06 09:38 [financialjuice] Too early to say if Quebec separatist party has won majority or minority : Radio-Canada
+- 10/06 09:38 [FirstSquawk] Quebec separatists' majority or minority status remains unclear — Radio-Canada
+- 10/06 09:43 [FirstSquawk] Beijing sought greater results from Xi's Washington state visit - SCMP
+- 10/06 09:47 [FirstSquawk] 30-year Japanese government bond yield hits record 4.24%, up 1 bp
+- 10/06 09:47 [FirstSquawk] 5-year Japanese government bond yield gains 3 bps to 2.39%
+- 10/06 09:48 [FirstSquawk] FBI removes Accenture contractor following damaging data breach, Reuters says

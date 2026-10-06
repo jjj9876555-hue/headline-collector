@@ -7,45 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-06 09:28 JST／対象: 10/05 21:28 〜 10/06 09:28 JST（時刻はすべて日本時間）
+生成: 2026-10-06 09:53 JST／対象: 10/05 21:53 〜 10/06 09:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 51 | 10/05 21:48 | 10/06 09:22 | ⚠ 206分（03:52→07:19） |
-| FirstSquawk | 146 | 10/05 21:30 | 10/06 09:23 | ⚠ 59分（07:02→08:01） |
-| financialjuice | 121 | 10/05 21:38 | 10/06 08:57 | ⚠ 87分（06:00→07:27） |
+| DeItaone | 48 | 10/05 21:58 | 10/06 09:22 | ⚠ 206分（03:52→07:19） |
+| FirstSquawk | 151 | 10/05 21:54 | 10/06 09:48 | ⚠ 59分（07:02→08:01） |
+| financialjuice | 110 | 10/05 21:57 | 10/06 09:38 | ⚠ 87分（06:00→07:27） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 303 行（統合前 321 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 295 行（統合前 312 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 21:30 [FirstSquawk] LONDON BULLION MARKET ASSOCIATION INCREASES MEMBERSHIP FEES AND ALLOWS PAYMENT OF DUES TWO YEARS AHEAD TO IMPROVE ITS FINANCES DURING EXPENSIVE LEGAL ISSUES.
-- 10/05 21:38 [financialjuice] EU needs new trade tools to allow decisive reaction to unfair practices from third countries - Franco-German Joint Document
-- 10/05 21:38 [financialjuice] EU needs new trade instrument to react to severe and systemic distortions created by third countries - Franco-German Joint Document
-- 10/05 21:39 [financialjuice] EU Commission should propose new diversification tool to prevent eu over-reliance on single countries for critical supplies - Joint Franco-German Paper
-- 10/05 21:39 [financialjuice] New EU instrument should be activated by a commission proposal that adopted unless qualified majority of EU members opposes - Franco-German Joint Document
-- 10/05 21:39 [financialjuice] New EU instrument would not single out any specific country - Joint Franco-German paper
-- 10/05 21:39 [financialjuice] EU commission should open more trade investigations and adopt a broader sector wide approach - Franco-German Joint Document
-- 10/05 21:43 [financialjuice] US Secretary of State Rubio, on bombers' reallocation: It's not unusual
-- 10/05 21:43 [financialjuice] US Secretary of State Rubio on UK base incident: still have confidence in security of all of our bases.
-- 10/05 21:43 [financialjuice] US Secretary of State Rubio on UK base incident: British couldn't be more cooperative.
-- 10/05 21:44 [FirstSquawk] RUBIO ON BOMBERS RE-ALLOCATION: NOT UNUSUAL
-- 10/05 21:44 [FirstSquawk] RUBIO: WE HAVE CONFIDENCE IN SECURITY OF OUR BASES
-- 10/05 21:47 [financialjuice/DeItaone] Houthi-run body issues warning for airlines flying in Saudi airspace - Houthi-affiliated media.
-- 10/05 21:47 [financialjuice] Ukraine’s President Zelenskiy: Russian drones attack Turkish-owned civilian vessel in neutral waters of black sea.
-- 10/05 21:48 [FirstSquawk] US SEC STATE RUBIO ON YEMEN: US INTENDS TO STAND BY SECURITY AGREEMENT WITH SAUDI ARABIA
-- 10/05 21:48 [financialjuice] Houthi-Run Body: Saudi airspace will not be safe as long as Saudi ‘aggression continues - Houthi-Affiliated Media.
-- 10/05 21:49 [DeItaone] HOUTHI-RUN BODY SAYS SAUDI AIRSPACE WILL NOT BE SAFE AS LONG AS SAUDI 'AGGRESSION' CONTINUES - HOUTHI-AFFILIATED MEDIA
-- 10/05 21:50 [financialjuice] CEO of Kuwait's KPC: We now produce around 2 mln bpd, down from 2.6 mln bpd before war started.
-- 10/05 21:50 [FirstSquawk] CEO OF KUWAIT'S KPC WE HAVE BEEN ABLE TO DO THIS USING OUR STRATEGIC TANKER FLEET
-- 10/05 21:50 [DeItaone] YIELD ON 30-YEAR U.S. TREASURY BONDS UP 2.64 BASIS POINTS AT 5.656% U.S. TREASURY YIELDS RISE; YIELD ON 10-YEAR TREASURY NOTE LAST UP 2.34 BASIS POINTS AT 5.3%
-- 10/05 21:52 [FirstSquawk] US ROLLINS: MORE TO DO ON COST OF DIESEL, URGES STATES TO ACT
-- 10/05 21:53 [financialjuice] US Agriculture Sec. Rollins: We're looking at how to bring the cost of diesel down.
 - 10/05 21:54 [FirstSquawk] KPC CEO SAYS WE ARE NOT OFFERING DISCOUNTS OR INSURANCE TO CUSTOMERS BRINGING THEIR OWN TANKERS INTO MIDEAST GULF
 - 10/05 21:54 [FirstSquawk] KPC CEO SAYS WE HAVE HAD A FEW OF OUR CUSTOMERS USING THEIR OWN TANKERS TO COME INTO MIDEAST GULF, MORE WILL BE COMING
 - 10/05 21:57 [financialjuice] KPC CEO: We need to focus on getting refined products out of MidEast Gulf to de-bottleneck refineries in the region.
@@ -327,3 +305,17 @@
 - 10/06 09:23 [FirstSquawk] North Korea reviews third-quarter economic performance at expanded Cabinet meeting - YONHAP
 - 10/06 09:23 [FirstSquawk] THE U.S. EVACUATED 12 B-1 BOMBERS FROM RAF FAIRFORD IN THE UK AFTER INTELLIGENCE INDICATED A POSSIBLE IRANIAN DRONE ATTACK ON THE BASE, WITH BRITISH AUTHORITIES HAVING ALSO ARRESTED SEVERAL DUAL BRITISH-IRANIAN CITIZENS SUSPECTED OF PLANNIN…
 - 10/06 09:23 [FirstSquawk] TRUMP CONFIRMED THE BOMBERS WERE MOVED BECAUSE OF AN IRANIAN SECURITY THREAT, CONTRADICTING RUBIO, WHO HAD INITIALLY DESCRIBED THE MOVE AS A ROUTINE ROTATION - AXIOS
+- 10/06 09:29 [FirstSquawk] ASIAN STOCKS GAINED MODESTLY AFTER NVIDIA AND MICROSOFT LED A TECH RALLY THAT PUSHED THE S&P 500 CLOSE TO A RECORD, WITH MSCI ASIA PACIFIC UP 0.1% AND JAPAN'S TOPIX AND AUSTRALIA'S ASX 200 GAINING 0.3%.
+- 10/06 09:29 [FirstSquawk] BOND YIELDS REMAINED A MAJOR CONCERN, WITH U.S. 10-YEAR AND 30-YEAR YIELDS REACHING 5.34% AND 5.70%, THEIR HIGHEST SINCE 2002, AS INVESTORS STAYED FOCUSED ON STRONG EARNINGS, RESILIENT CONSUMER SPENDING AND BOOMING AI INVESTMENT DESPITE HIG…
+- 10/06 09:29 [FirstSquawk] BRENT HELD AROUND $100.30 WHILE WTI FELL 0.2% TO $89.25, WITH GOLD SLIPPING 0.1% TO $4,134, BITCOIN NEAR $85,807 AND THE EURO REMAINING WEAK AMID EUROPEAN POLITICAL AND FISCAL CONCERNS.
+- 10/06 09:30 [financialjuice] Hong Kong s&p global september pmi at 49.2 vs 49.5 in august
+- 10/06 09:32 [FirstSquawk] Hong Kong September PMI drops to 49.2 from August's 49.5
+- 10/06 09:33 [FirstSquawk] OpenAI's spending retreat faces pushback from AI safety groups - POLITICO
+- 10/06 09:37 [FirstSquawk] Australia ANZ-Indeed job advertisements increase 2.2% M/M in September
+- 10/06 09:38 [financialjuice] Separatist party wins Quebec election, predicts public broadcaster Radio-Canada
+- 10/06 09:38 [financialjuice] Too early to say if Quebec separatist party has won majority or minority : Radio-Canada
+- 10/06 09:38 [FirstSquawk] Quebec separatists' majority or minority status remains unclear — Radio-Canada
+- 10/06 09:43 [FirstSquawk] Beijing sought greater results from Xi's Washington state visit - SCMP
+- 10/06 09:47 [FirstSquawk] 30-year Japanese government bond yield hits record 4.24%, up 1 bp
+- 10/06 09:47 [FirstSquawk] 5-year Japanese government bond yield gains 3 bps to 2.39%
+- 10/06 09:48 [FirstSquawk] FBI removes Accenture contractor following damaging data breach, Reuters says
