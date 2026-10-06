@@ -7,37 +7,25 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-06 11:06 JST／対象: 10/05 23:06 〜 10/06 11:06 JST（時刻はすべて日本時間）
+生成: 2026-10-06 11:27 JST／対象: 10/05 23:27 〜 10/06 11:27 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 36 | 10/05 23:06 | 10/06 09:22 | ⚠ 206分（03:52→07:19） |
-| FirstSquawk | 158 | 10/05 23:10 | 10/06 10:56 | ⚠ 59分（07:02→08:01） |
-| financialjuice | 101 | 10/05 23:09 | 10/06 11:02 | ⚠ 87分（06:00→07:27） |
+| DeItaone | 31 | 10/05 23:40 | 10/06 09:22 | ⚠ 206分（03:52→07:19） |
+| FirstSquawk | 157 | 10/05 23:29 | 10/06 11:26 | ⚠ 59分（07:02→08:01） |
+| financialjuice | 97 | 10/05 23:28 | 10/06 11:16 | ⚠ 87分（06:00→07:27） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 284 行（統合前 297 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 277 行（統合前 287 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 23:06 [DeItaone] TRUMP TEAM HELD SECRET CAMP DAVID TALKS ON IRAN, YEMEN Trump’s top national security officials met for hours at Camp David on Friday to discuss next steps in the Iran war and Saudi-Houthi conflict in Yemen, Axios reports, citing three U.S. …
-- 10/05 23:09 [financialjuice/FirstSquawk/DeItaone] ❗ Iran Interior Minister heads to doha for talks - ISNA.
-- 10/05 23:11 [financialjuice] US Fincen announces withdrawals of proposed digital asset-related rules - Statement.
-- 10/05 23:17 [financialjuice] Fear and Greed Index: 43/100 = Fear
-- 10/05 23:18 [financialjuice] Crypto Fear and Greed Index: 70/100 = Greed
-- 10/05 23:20 [FirstSquawk] IRAN FOREIGN MINISTRY: HELD MEETING WITH ENVOYS IN TEHRAN YESTERDAY ON REGIONAL ISSUES
-- 10/05 23:20 [FirstSquawk] IRAN PRESIDENT NOMINATES MEHRDAD AKHLAGHI AS DEFENSE MINISTER - MEHR
-- 10/05 23:21 [financialjuice] Iraq seeks more oil tankers in an effort to control Hormuz transit.
-- 10/05 23:24 [FirstSquawk] UKMTO WARNS INBOUND LPG TANKER STRUCK BY PROJECTILE IN STRAIT OF HORMUZ
-- 10/05 23:26 [DeItaone] ISM SERVICES COOLS, BUT INFLATION PRESSURES INTENSIFY September ISM Services eased to 54.9 from 55.4, while Business Activity fell to 56.5 and New Orders to 59.8. Employment strengthened to 50.1, returning to expansion. The key concern rema…
-- 10/05 23:26 [DeItaone/FirstSquawk] *IRAQ SEEKS MORE OIL TANKERS IN EFFORT TO CONTROL HORMUZ TRANSIT
-- 10/05 23:26 [DeItaone] $SPCX - SPACEX SHARES HIT HIGHEST SINCE EARLY JULY, LAST UP 5.1%
-- 10/05 23:27 [FirstSquawk] SPACEX SHARES HIT HIGHEST SINCE EARLY JULY, LAST UP 5.1%
 - 10/05 23:28 [financialjuice] UKMTO has received a time-late report of an incident within the Strait of Hormuz. A verified source has reported that an LPG tanker transiting inbound has been struck by an unknown projectile.
+- 10/05 23:29 [FirstSquawk] IRAQ SEEKS MORE OIL TANKERS IN EFFORT TO CONTROL HORMUZ TRANSIT
 - 10/05 23:39 [FirstSquawk] EXANE BNP PARIBAS CUTS GLOBALFOUNDRIES PRICE TARGET TO $51 FROM $80
 - 10/05 23:39 [FirstSquawk] UKRAINE’S ZELENSKIY ON CALL WITH FRANCE’S MACRON
 - 10/05 23:40 [DeItaone] NATURAL GAS FUNDS FLIP SHARPLY NET SHORT Managed money more than doubled its net short position in Henry Hub, with a 67,217-contract bearish swing driven by the steepest long liquidation since 2008. Funds cut longs by 46,038 contracts while…
@@ -308,3 +296,8 @@
 - 10/06 10:56 [financialjuice] South Korea defence ministry: North Korea must clear mines planted in DMZ border
 - 10/06 10:56 [FirstSquawk] SOUTH KOREA DEFENCE MINISTRY: NORTH KOREA MUST REMOVE MINES PLANTED IN DMZ
 - 10/06 11:02 [financialjuice] Separatist party wins minority of seats in Quebec election, Radio-Canada predicts
+- 10/06 11:07 [FirstSquawk] FRANCE'S ‘MAGIC MONEY’ BET HAS BECOME A GROWING DEBT CRISIS - WSJ
+- 10/06 11:09 [FirstSquawk] TAIWAN DOLLAR RISES TO 31.699 PER U.S. DOLLAR, STRONGEST SINCE SEPT. 23
+- 10/06 11:16 [financialjuice] Ukraine dispatched 650 drones to Russia's Moscow region overnight, Moscow mayor says
+- 10/06 11:16 [FirstSquawk] MOSCOW MAYOR SAYS 650 UKRAINIAN DRONES WERE SENT TOWARD MOSCOW REGION OVERNIGHT
+- 10/06 11:26 [FirstSquawk] SEOUL FOREIGN VISITOR NUMBERS CLIMB 22% IN FIRST EIGHT MONTHS; CARD SPENDING SURGES 60% - YONHAP

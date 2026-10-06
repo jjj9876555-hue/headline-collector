@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-06 11:06 JST／対象: 10/05 11:06 〜 10/06 11:06 JST（時刻はすべて日本時間）
+生成: 2026-10-06 11:27 JST／対象: 10/05 11:27 〜 10/06 11:27 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 68 | 10/05 19:25 | 10/06 09:22 | ⚠ 206分（03:52→07:19） |
-| FirstSquawk | 309 | 10/05 11:06 | 10/06 10:56 | ⚠ 59分（07:02→08:01） |
-| financialjuice | 211 | 10/05 11:25 | 10/06 11:02 | ⚠ 103分（14:12→15:55） |
+| FirstSquawk | 310 | 10/05 11:31 | 10/06 11:26 | ⚠ 59分（07:02→08:01） |
+| financialjuice | 210 | 10/05 12:05 | 10/06 11:16 | ⚠ 103分（14:12→15:55） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 573 行（統合前 591 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,11 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 11:06 [FirstSquawk] Japan’s Nikkei retakes 70,000 mark amid renewed AI optimism
-- 10/05 11:07 [FirstSquawk] Canadian dollar remains under pressure near April 2025 lows despite weak US payrolls
-- 10/05 11:17 [FirstSquawk] Malaysians prioritise family over shopping and holidays, domestic travel data shows
-- 10/05 11:25 [financialjuice] euro slides 0.38% to $1.1211
-- 10/05 11:27 [financialjuice] euro falls to lowest since May 2025, down 0.35% at $1.1213
 - 10/05 11:31 [FirstSquawk] Euro drops to $1.1213, weakest since May 2025, down 0.35%
 - 10/05 11:33 [FirstSquawk] IMF reaches staff-level deal on seventh review of Sri Lanka’s Extended Fund Facility
 - 10/05 11:42 [FirstSquawk] UK to impose tariffs on Chinese electric cars, The Times reports
@@ -597,3 +592,8 @@
 - 10/06 10:56 [financialjuice] South Korea defence ministry: North Korea must clear mines planted in DMZ border
 - 10/06 10:56 [FirstSquawk] SOUTH KOREA DEFENCE MINISTRY: NORTH KOREA MUST REMOVE MINES PLANTED IN DMZ
 - 10/06 11:02 [financialjuice] Separatist party wins minority of seats in Quebec election, Radio-Canada predicts
+- 10/06 11:07 [FirstSquawk] FRANCE'S ‘MAGIC MONEY’ BET HAS BECOME A GROWING DEBT CRISIS - WSJ
+- 10/06 11:09 [FirstSquawk] TAIWAN DOLLAR RISES TO 31.699 PER U.S. DOLLAR, STRONGEST SINCE SEPT. 23
+- 10/06 11:16 [financialjuice] Ukraine dispatched 650 drones to Russia's Moscow region overnight, Moscow mayor says
+- 10/06 11:16 [FirstSquawk] MOSCOW MAYOR SAYS 650 UKRAINIAN DRONES WERE SENT TOWARD MOSCOW REGION OVERNIGHT
+- 10/06 11:26 [FirstSquawk] SEOUL FOREIGN VISITOR NUMBERS CLIMB 22% IN FIRST EIGHT MONTHS; CARD SPENDING SURGES 60% - YONHAP
