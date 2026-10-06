@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-06 09:53 JST／対象: 10/06 03:53 〜 10/06 09:53 JST（時刻はすべて日本時間）
+生成: 2026-10-06 10:18 JST／対象: 10/06 04:18 〜 10/06 10:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 10/06 07:19 | 10/06 09:22 | ⚠ 103分（07:39→09:22） |
-| FirstSquawk | 88 | 10/06 03:55 | 10/06 09:48 | ⚠ 59分（07:02→08:01） |
-| financialjuice | 37 | 10/06 04:18 | 10/06 09:38 | ⚠ 87分（06:00→07:27） |
+| FirstSquawk | 84 | 10/06 04:19 | 10/06 10:14 | ⚠ 59分（07:02→08:01） |
+| financialjuice | 41 | 10/06 04:18 | 10/06 10:16 | ⚠ 87分（06:00→07:27） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 126 行（統合前 128 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,20 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/06 03:55 [FirstSquawk] GENMAB AND ABBVIE SAY EPCORITAMAB IN COMBINATION WITH R-CHOP DEMONSTRATED A STATISTICALLY SIGNIFICANT IMPROVEMENT IN PROGRESSION-FREE SURVIVAL IN PATIENTS WITH NEWLY DIAGNOSED DIFFUSE LARGE B-CELL LYMPHOMA (DLBCL), WITH THE PHASE 3 TRIAL SH…
-- 10/06 03:59 [FirstSquawk] LG&E & KENTUCKY UTILITIES SEEK PROPOSALS FOR THERMAL POWER GENERATION RESOURCES OF AT LEAST 50 MW CAPACITY
-- 10/06 04:00 [FirstSquawk] NATO'S TOP MILITARY COMMANDER IS DRAFTING A STRATEGY TO STOP A POTENTIAL RUSSIAN INCURSION ON THE EASTERN FLANK, COMBINING CONVENTIONAL MILITARY POWER WITH DRONES AND AI
-- 10/06 04:00 [FirstSquawk] TRUMP IS SPENDING THE FINAL STRETCH OF THE MIDTERM CAMPAIGN ALMOST ENTIRELY IN HEAVILY REPUBLICAN STATES, UNDERSCORING GROWING GOP CONCERN ABOUT LOSING CONTROL OF CONGRESS, WITH ONE GOP LAWMAKER CALLING THE SITUATION A 'FIVE-ALARM FIRE' AND…
-- 10/06 04:00 [FirstSquawk] REPUBLICANS INCREASINGLY FEAR HIGH FUEL PRICES, LIVING COSTS, THE IRAN WAR AND TRUMP'S BEEF-IMPORT POLICY COULD HURT THEM EVEN IN RED STATES - CNN
-- 10/06 04:00 [FirstSquawk] ISRAEL WAS PREPARED TO SHOOT DOWN THE FLYDUBAI PASSENGER JET CARRYING MORE THAN 150 ISRAELIS IF IT HAD BEEN CONFIRMED HIJACKED AND CONTINUED TOWARD ISRAEL, TWO ISRAELI SOURCES SAY, WITH FIGHTER JETS FIRST TO INSPECT THE COCKPIT AND CABIN AN…
-- 10/06 04:01 [FirstSquawk] IF THE AIRCRAFT WAS DEEMED HIJACKED, REMAINED SILENT AND KEPT APPROACHING ISRAEL, NETANYAHU COULD AUTHORIZE IT TO BE SHOT DOWN TO PREVENT AN ATTACK ON A MAJOR TARGET - CBS NEWS
-- 10/06 04:04 [FirstSquawk] TÜRKIYE'S FOREIGN MINISTER HAKAN FIDAN, DEFENSE MINISTER YAŞAR GÜLER AND CHIEF OF GENERAL STAFF GEN. SELÇUK BAYRAKTAROĞLU MET THEIR PAKISTANI AND SAUDI COUNTERPARTS IN RIYADH FOR A MEETING OF THE STRATEGIC POLITICAL AND DEFENSE COMMITTEE, E…
-- 10/06 04:04 [FirstSquawk] TRUMP PLANS EXECUTIVE ACTION TO LOWER DIESEL PRICES AS HIGH FUEL COSTS HIT FARMERS AND THREATEN REPUBLICANS AHEAD OF THE NOVEMBER MIDTERMS, WITH THE MEASURES SET TO EXPAND ACCESS TO TAX-EXEMPT DYED DIESEL, ENCOURAGE STATES TO WAIVE SOME FUE…
-- 10/06 04:04 [FirstSquawk] TRUMP HAS RULED OUT A DIESEL EXPORT BAN AFTER PREVIOUSLY CONSIDERING ONE - POLITICO
-- 10/06 04:05 [FirstSquawk] RUBIO HELD CALLS WITH MONGOLIA, AZERBAIJAN & ISRAELI LEADERS EN ROUTE TO ICELAND — RALEXDC
-- 10/06 04:06 [FirstSquawk] IRANIAN PRESIDENT MASOUD PEZESHKIAN SAYS 'OUR PROBLEM WITH THE UNITED STATES IS THAT EVERY TIME WE COME TO THE NEGOTIATING TABLE, WAR IS IMMEDIATELY IMPOSED ON US', SAYING 'SO FAR, THEY HAVE ATTACKED US THREE TIMES AFTER TALKS' AND THAT NEG…
-- 10/06 04:06 [FirstSquawk] IRANIAN PRESIDENT MASOUD PEZESHKIAN SAYS THAT 'EVERY TIME INSPECTORS HAVE COME TO IRAN, OUR NUCLEAR FACILITIES AND SCIENTISTS HAVE BEEN IDENTIFIED, AFTER WHICH THOSE FACILITIES WERE BOMBED AND OUR SCIENTISTS WERE ASSASSINATED'.
-- 10/06 04:14 [FirstSquawk] RUSSIAN PRESIDENT VLADIMIR PUTIN APPROVED A PLAN ALLOWING UNICREDIT TO SPIN OFF PART OF ITS RUSSIAN BUSINESS AND POTENTIALLY SELL ALL SHARES IN THE LOCAL BANK TO AN UNDISCLOSED BUYER. UNICREDIT AGREED IN MAY TO SELL PART OF THE UNIT TO A PR…
 - 10/06 04:18 [financialjuice] WATCH LIVE: Trump Speaks
 - 10/06 04:19 [financialjuice/FirstSquawk] Trump: A lack of refineries is the problem.
 - 10/06 04:19 [FirstSquawk] TRUMP SAYS HE PLANS TO VISIT MICHIGAN IN ABOUT A WEEK AND A HALF
@@ -150,3 +136,17 @@
 - 10/06 09:47 [FirstSquawk] 30-year Japanese government bond yield hits record 4.24%, up 1 bp
 - 10/06 09:47 [FirstSquawk] 5-year Japanese government bond yield gains 3 bps to 2.39%
 - 10/06 09:48 [FirstSquawk] FBI removes Accenture contractor following damaging data breach, Reuters says
+- 10/06 09:54 [FirstSquawk] Yemeni News Agency says 250 Houthi fighters were killed or wounded in Taiz fighting
+- 10/06 10:00 [financialjuice] Taiwan overnight interbank rate opens at 0.805% vs previous session at 0.805%
+- 10/06 10:01 [FirstSquawk] Taiwan overnight rate opens flat at 0.805%
+- 10/06 10:02 [FirstSquawk] Fitch moves Sekisui House U.S. outlook to negative; 'BBB-' IDR affirmed
+- 10/06 10:05 [FirstSquawk] Australian equities set to extend gains for third day as oil prices fall and risk appetite improves
+- 10/06 10:08 [FirstSquawk] 20-year Japanese government bond yield gains 1 bp to 3.98%
+- 10/06 10:09 [financialjuice] S.Korea finmin: economic expansion projected at 3% level this year
+- 10/06 10:09 [FirstSquawk] S.Korea finance minister says economy likely to grow around 3% this year
+- 10/06 10:12 [FirstSquawk] S.Korea President Lee: AI suspected in some hacking attacks
+- 10/06 10:13 [FirstSquawk] S.Korea President Lee says some recent cyberattacks on banks involved AI models
+- 10/06 10:13 [financialjuice] S. Korea finance minister: to strive for foreign exchange market stability
+- 10/06 10:13 [FirstSquawk] S.Korea finance minister pledges measures to stabilise foreign exchange market
+- 10/06 10:14 [FirstSquawk] S.Korea President Lee urges development of cybersecurity tools fit for AI era
+- 10/06 10:16 [financialjuice] Google, Constellation close to billion-dollar agreement for nuclear energy

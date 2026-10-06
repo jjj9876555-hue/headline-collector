@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-06 09:53 JST／対象: 10/05 21:53 〜 10/06 09:53 JST（時刻はすべて日本時間）
+生成: 2026-10-06 10:18 JST／対象: 10/05 22:18 〜 10/06 10:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 48 | 10/05 21:58 | 10/06 09:22 | ⚠ 206分（03:52→07:19） |
-| FirstSquawk | 151 | 10/05 21:54 | 10/06 09:48 | ⚠ 59分（07:02→08:01） |
-| financialjuice | 110 | 10/05 21:57 | 10/06 09:38 | ⚠ 87分（06:00→07:27） |
+| DeItaone | 45 | 10/05 22:26 | 10/06 09:22 | ⚠ 206分（03:52→07:19） |
+| FirstSquawk | 157 | 10/05 22:31 | 10/06 10:14 | ⚠ 59分（07:02→08:01） |
+| financialjuice | 112 | 10/05 22:27 | 10/06 10:16 | ⚠ 87分（06:00→07:27） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 295 行（統合前 312 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 300 行（統合前 317 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 21:54 [FirstSquawk] KPC CEO SAYS WE ARE NOT OFFERING DISCOUNTS OR INSURANCE TO CUSTOMERS BRINGING THEIR OWN TANKERS INTO MIDEAST GULF
-- 10/05 21:54 [FirstSquawk] KPC CEO SAYS WE HAVE HAD A FEW OF OUR CUSTOMERS USING THEIR OWN TANKERS TO COME INTO MIDEAST GULF, MORE WILL BE COMING
-- 10/05 21:57 [financialjuice] KPC CEO: We need to focus on getting refined products out of MidEast Gulf to de-bottleneck refineries in the region.
-- 10/05 21:58 [DeItaone] *ROLLINS: TRUMP LIKELY TO TAKE ACTION ON FARMERS LATER TODAY *ROLLINS: MORE TO DO ON COST OF DIESEL, URGES STATES TO ACT
-- 10/05 21:59 [DeItaone] BERLIN, PARIS FLOAT TRADE TOOL TO CUT CHINA ACCESS TO EU MARKET
-- 10/05 22:00 [financialjuice] Effective Fed Funds Rate 3.88% October 2 vs 3.88% October 1.
-- 10/05 22:05 [DeItaone] ISM SERVICES SEEN EASING SLIGHTLY AS PRICE PRESSURES RISE September ISM Services PMI is expected at 55.0, down slightly from 55.4 in August. Employment is seen improving to 48.8 from 47.8, while New Orders are expected to ease to 60.3 from …
-- 10/05 22:05 [FirstSquawk] SKYDANCE NAMES DAVID ELLISON CHAIRMAN AND CEO UPON WBD CLOSE
-- 10/05 22:15 [FirstSquawk] FORMER U.S. SPEAKER OF THE HOUSE DENNIS HASTERT HAS DIED AT AGE 84
 - 10/05 22:26 [DeItaone] TREASURY WITHDRAWS TWO CONTROVERSIAL CRYPTO SURVEILLANCE PROPOSALS The U.S. Treasury has withdrawn two long-pending FinCEN proposals targeting unhosted crypto wallets and cryptocurrency mixing. The wallet proposal would have imposed reporti…
 - 10/05 22:26 [DeItaone] $TSLA - UBS STAYS NEUTRAL ON TESLA DESPITE DELIVERY BEAT UBS reiterates Neutral on Tesla with a $385 price target after deliveries beat consensus by roughly 5%, continuing the rebound in vehicle volumes. However, energy deployments missed e…
 - 10/05 22:27 [financialjuice] KPC CEO: On expanding Kuwait tanker fleet, we will work with partners around world to do that. whether on ownership or leasing options on crude, product tankers.
@@ -319,3 +310,17 @@
 - 10/06 09:47 [FirstSquawk] 30-year Japanese government bond yield hits record 4.24%, up 1 bp
 - 10/06 09:47 [FirstSquawk] 5-year Japanese government bond yield gains 3 bps to 2.39%
 - 10/06 09:48 [FirstSquawk] FBI removes Accenture contractor following damaging data breach, Reuters says
+- 10/06 09:54 [FirstSquawk] Yemeni News Agency says 250 Houthi fighters were killed or wounded in Taiz fighting
+- 10/06 10:00 [financialjuice] Taiwan overnight interbank rate opens at 0.805% vs previous session at 0.805%
+- 10/06 10:01 [FirstSquawk] Taiwan overnight rate opens flat at 0.805%
+- 10/06 10:02 [FirstSquawk] Fitch moves Sekisui House U.S. outlook to negative; 'BBB-' IDR affirmed
+- 10/06 10:05 [FirstSquawk] Australian equities set to extend gains for third day as oil prices fall and risk appetite improves
+- 10/06 10:08 [FirstSquawk] 20-year Japanese government bond yield gains 1 bp to 3.98%
+- 10/06 10:09 [financialjuice] S.Korea finmin: economic expansion projected at 3% level this year
+- 10/06 10:09 [FirstSquawk] S.Korea finance minister says economy likely to grow around 3% this year
+- 10/06 10:12 [FirstSquawk] S.Korea President Lee: AI suspected in some hacking attacks
+- 10/06 10:13 [FirstSquawk] S.Korea President Lee says some recent cyberattacks on banks involved AI models
+- 10/06 10:13 [financialjuice] S. Korea finance minister: to strive for foreign exchange market stability
+- 10/06 10:13 [FirstSquawk] S.Korea finance minister pledges measures to stabilise foreign exchange market
+- 10/06 10:14 [FirstSquawk] S.Korea President Lee urges development of cybersecurity tools fit for AI era
+- 10/06 10:16 [financialjuice] Google, Constellation close to billion-dollar agreement for nuclear energy

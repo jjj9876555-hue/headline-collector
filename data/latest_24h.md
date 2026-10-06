@@ -7,27 +7,24 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-06 09:53 JST／対象: 10/05 09:53 〜 10/06 09:53 JST（時刻はすべて日本時間）
+生成: 2026-10-06 10:18 JST／対象: 10/05 10:18 〜 10/06 10:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 68 | 10/05 19:25 | 10/06 09:22 | ⚠ 206分（03:52→07:19） |
-| FirstSquawk | 302 | 10/05 09:55 | 10/06 09:48 | ⚠ 59分（07:02→08:01） |
-| financialjuice | 203 | 10/05 10:01 | 10/06 09:38 | ⚠ 103分（14:12→15:55） |
+| FirstSquawk | 310 | 10/05 10:18 | 10/06 10:14 | ⚠ 59分（07:02→08:01） |
+| financialjuice | 206 | 10/05 11:25 | 10/06 10:16 | ⚠ 103分（14:12→15:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 558 行（統合前 578 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 569 行（統合前 588 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 09:55 [FirstSquawk] JAPAN 30-YEAR JGB YIELD SURGES 2.5 BPS TO RECORD HIGH OF 4.23%
-- 10/05 10:01 [FirstSquawk] TAIWAN OVERNIGHT INTERBANK RATE OPENS UNCHANGED AT 0.805%
-- 10/05 10:01 [financialjuice] Taiwan stocks gain over 2%
-- 10/05 10:17 [FirstSquawk] JAPAN'S CHIEF CABINET SECRETARY KIHARA SAYS THE ARREST OF A U.S. SERVICEMAN IN THE OKINAWA CASE IS 'REGRETTABLE', ADDING THAT JAPAN IS SEEKING DISCIPLINE AND PREVENTIVE MEASURES FROM U.S. FORCES.
+- 10/05 10:18 [FirstSquawk] JAPAN'S CHIEF CABINET SECRETARY KIHARA SAYS THE ARREST OF A U.S. SERVICEMAN IN THE OKINAWA CASE IS 'REGRETTABLE', ADDING THAT JAPAN IS SEEKING DISCIPLINE AND PREVENTIVE MEASURES FROM U.S. FORCES. KIHARA SAYS JAPAN IS ALREADY RELEASING OIL R…
 - 10/05 10:22 [FirstSquawk] EURO FALLS 0.15% TO $1.12365
 - 10/05 10:41 [FirstSquawk] ASIA-PAC EQUITIES BEGIN THE WEEK HIGHER AMID THIN HOLIDAY TRADE, AFTER WALL ST ADVANCED FRIDAY AS SOFTER JOBS DATA TRIGGERED A DOVISH SHIFT IN FED RATE EXPECTATIONS
 - 10/05 10:44 [FirstSquawk] HKU targets Northern Metropolis expansion to enhance research capacity and talent recruitment - SCMP
@@ -582,3 +579,17 @@
 - 10/06 09:47 [FirstSquawk] 30-year Japanese government bond yield hits record 4.24%, up 1 bp
 - 10/06 09:47 [FirstSquawk] 5-year Japanese government bond yield gains 3 bps to 2.39%
 - 10/06 09:48 [FirstSquawk] FBI removes Accenture contractor following damaging data breach, Reuters says
+- 10/06 09:54 [FirstSquawk] Yemeni News Agency says 250 Houthi fighters were killed or wounded in Taiz fighting
+- 10/06 10:00 [financialjuice] Taiwan overnight interbank rate opens at 0.805% vs previous session at 0.805%
+- 10/06 10:01 [FirstSquawk] Taiwan overnight rate opens flat at 0.805%
+- 10/06 10:02 [FirstSquawk] Fitch moves Sekisui House U.S. outlook to negative; 'BBB-' IDR affirmed
+- 10/06 10:05 [FirstSquawk] Australian equities set to extend gains for third day as oil prices fall and risk appetite improves
+- 10/06 10:08 [FirstSquawk] 20-year Japanese government bond yield gains 1 bp to 3.98%
+- 10/06 10:09 [financialjuice] S.Korea finmin: economic expansion projected at 3% level this year
+- 10/06 10:09 [FirstSquawk] S.Korea finance minister says economy likely to grow around 3% this year
+- 10/06 10:12 [FirstSquawk] S.Korea President Lee: AI suspected in some hacking attacks
+- 10/06 10:13 [FirstSquawk] S.Korea President Lee says some recent cyberattacks on banks involved AI models
+- 10/06 10:13 [financialjuice] S. Korea finance minister: to strive for foreign exchange market stability
+- 10/06 10:13 [FirstSquawk] S.Korea finance minister pledges measures to stabilise foreign exchange market
+- 10/06 10:14 [FirstSquawk] S.Korea President Lee urges development of cybersecurity tools fit for AI era
+- 10/06 10:16 [financialjuice] Google, Constellation close to billion-dollar agreement for nuclear energy
