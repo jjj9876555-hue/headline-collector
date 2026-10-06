@@ -7,55 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-06 10:18 JST／対象: 10/06 04:18 〜 10/06 10:18 JST（時刻はすべて日本時間）
+生成: 2026-10-06 10:35 JST／対象: 10/06 04:35 〜 10/06 10:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 10/06 07:19 | 10/06 09:22 | ⚠ 103分（07:39→09:22） |
-| FirstSquawk | 84 | 10/06 04:19 | 10/06 10:14 | ⚠ 59分（07:02→08:01） |
-| financialjuice | 41 | 10/06 04:18 | 10/06 10:16 | ⚠ 87分（06:00→07:27） |
+| FirstSquawk | 74 | 10/06 04:46 | 10/06 10:33 | ⚠ 59分（07:02→08:01） |
+| financialjuice | 22 | 10/06 04:38 | 10/06 10:16 | ⚠ 87分（06:00→07:27） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 126 行（統合前 128 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 98 行（統合前 99 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/06 04:18 [financialjuice] WATCH LIVE: Trump Speaks
-- 10/06 04:19 [financialjuice/FirstSquawk] Trump: A lack of refineries is the problem.
-- 10/06 04:19 [FirstSquawk] TRUMP SAYS HE PLANS TO VISIT MICHIGAN IN ABOUT A WEEK AND A HALF
-- 10/06 04:20 [FirstSquawk] TRUMP: NO RUSH TO REACH A TRADE DEAL WITH CANADA
-- 10/06 04:20 [financialjuice] Trump: No rush for Canada trade talks
-- 10/06 04:21 [FirstSquawk] TRUMP: “WE HAVE A VERY GOOD RELATIONSHIP WITH SERBIA”
-- 10/06 04:21 [financialjuice] Trump on Canada talks before midterms: I don't know.
-- 10/06 04:21 [FirstSquawk] TRUMP: SPECIFIC THREAT PROMPTED US TO PULL BOMBERS FROM UK BASE
-- 10/06 04:21 [financialjuice] Trump: I think there was a specific threat that prompted us to pull bombers from the UK base.
-- 10/06 04:22 [financialjuice] Trump on Iran: Always open to direct talks.
-- 10/06 04:22 [FirstSquawk] TRUMP: WILL BE GOING TO IOWA “VERY SOON”
-- 10/06 04:22 [financialjuice] Tuesday FX Option Expiries
-- 10/06 04:22 [financialjuice] Trump: Will be helping farmers with diesel.
-- 10/06 04:23 [financialjuice] Trump on Saudis and Houthis: It will all work out
-- 10/06 04:23 [FirstSquawk] TRUMP: US WILL PROVIDE DIESEL SUPPORT TO AMERICAN FARMERS
-- 10/06 04:24 [FirstSquawk] TRUMP ON SAUDI-HOUTHI TENSIONS: “IT WILL ALL WORK OUT”
-- 10/06 04:25 [financialjuice] Trump asked about US base in Poland: It could happen. I think so.
-- 10/06 04:25 [FirstSquawk] TRUMP ON BRAZIL: EXPECTS A VERY CLOSE ELECTION
-- 10/06 04:25 [FirstSquawk] TRUMP ON US BASE IN POLAND: “IT COULD HAPPEN”; SAYS “I THINK SO” WHEN ASKED ABOUT THE DESIRE FOR A US BASE
-- 10/06 04:25 [financialjuice] Trump, asked if Iran has drones in the UK: I can't tell you that.
-- 10/06 04:26 [financialjuice] Trump: If Iran has combat drones in UK, they'll suffer greatly.
-- 10/06 04:26 [financialjuice] Trump: I had an idea there might be threat in UK.
-- 10/06 04:26 [financialjuice] Trump: I know the people who made the threat in the UK.
-- 10/06 04:26 [FirstSquawk] TRUMP ON MOVING US PLANES FROM UK: “WE HAD A THREAT”; SAYS US KNOWS WHO MADE THE THREAT
-- 10/06 04:28 [financialjuice] Trump, asked if the UK is still safe for US forces: I think it is.
-- 10/06 04:29 [FirstSquawk] TRUMP ON UK SAFETY FOR US FORCES: “I THINK IT IS”
-- 10/06 04:29 [financialjuice] Trump: The problem with diesel is that Russian refineries are getting hit.
-- 10/06 04:29 [FirstSquawk] TRUMP ON DEATH OF RUSSIAN PLAGUE INSTITUTE WORKER: “WE’RE LOOKING AT IT VERY STRONGLY”; SAYS “WE’LL HELP THEM”
-- 10/06 04:30 [financialjuice] Trump on US base in Lithuania: We'll look at it.
-- 10/06 04:30 [FirstSquawk] TRUMP: DIESEL SUPPLY PRESSURE STEMS FROM ATTACKS ON RUSSIAN REFINERIES
-- 10/06 04:31 [financialjuice] Trump on FlyDubai plane incident: I think Iran is responsible.
-- 10/06 04:32 [financialjuice] Trump ends remarks to reporters outside the White House
 - 10/06 04:38 [financialjuice] Treasury issues notice to foreign banks doing business with Iran
 - 10/06 04:39 [financialjuice] Treasury: Banks may be sanctioned for doing business with Iran.
 - 10/06 04:46 [FirstSquawk] US ISSUES ALERT TO FOREIGN FINANCIAL INSTITUTIONS DOING BUSINESS WITH IRAN
@@ -150,3 +118,7 @@
 - 10/06 10:13 [FirstSquawk] S.Korea finance minister pledges measures to stabilise foreign exchange market
 - 10/06 10:14 [FirstSquawk] S.Korea President Lee urges development of cybersecurity tools fit for AI era
 - 10/06 10:16 [financialjuice] Google, Constellation close to billion-dollar agreement for nuclear energy
+- 10/06 10:22 [FirstSquawk] Asia-Pac stocks start mostly higher following broad Wall St gains, Nasdaq at record
+- 10/06 10:28 [FirstSquawk] Taiwan benchmark index climbs 0.5% to fresh record high of 49,968.92
+- 10/06 10:30 [FirstSquawk] Japan launches ¥2.6 trillion 10-year JGB offering with 3.100% coupon
+- 10/06 10:33 [FirstSquawk] Hong Kong challenged HSBC on its decision to establish AI hub in Singapore: FT

@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-06 10:18 JST／対象: 10/05 10:18 〜 10/06 10:18 JST（時刻はすべて日本時間）
+生成: 2026-10-06 10:35 JST／対象: 10/05 10:35 〜 10/06 10:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 68 | 10/05 19:25 | 10/06 09:22 | ⚠ 206分（03:52→07:19） |
-| FirstSquawk | 310 | 10/05 10:18 | 10/06 10:14 | ⚠ 59分（07:02→08:01） |
+| FirstSquawk | 312 | 10/05 10:41 | 10/06 10:33 | ⚠ 59分（07:02→08:01） |
 | financialjuice | 206 | 10/05 11:25 | 10/06 10:16 | ⚠ 103分（14:12→15:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 569 行（統合前 588 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 571 行（統合前 589 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 10:18 [FirstSquawk] JAPAN'S CHIEF CABINET SECRETARY KIHARA SAYS THE ARREST OF A U.S. SERVICEMAN IN THE OKINAWA CASE IS 'REGRETTABLE', ADDING THAT JAPAN IS SEEKING DISCIPLINE AND PREVENTIVE MEASURES FROM U.S. FORCES. KIHARA SAYS JAPAN IS ALREADY RELEASING OIL R…
-- 10/05 10:22 [FirstSquawk] EURO FALLS 0.15% TO $1.12365
 - 10/05 10:41 [FirstSquawk] ASIA-PAC EQUITIES BEGIN THE WEEK HIGHER AMID THIN HOLIDAY TRADE, AFTER WALL ST ADVANCED FRIDAY AS SOFTER JOBS DATA TRIGGERED A DOVISH SHIFT IN FED RATE EXPECTATIONS
 - 10/05 10:44 [FirstSquawk] HKU targets Northern Metropolis expansion to enhance research capacity and talent recruitment - SCMP
 - 10/05 10:47 [FirstSquawk] Middle East oil flows recover above pre-war levels amid rising tanker attacks — RTRS
@@ -593,3 +591,7 @@
 - 10/06 10:13 [FirstSquawk] S.Korea finance minister pledges measures to stabilise foreign exchange market
 - 10/06 10:14 [FirstSquawk] S.Korea President Lee urges development of cybersecurity tools fit for AI era
 - 10/06 10:16 [financialjuice] Google, Constellation close to billion-dollar agreement for nuclear energy
+- 10/06 10:22 [FirstSquawk] Asia-Pac stocks start mostly higher following broad Wall St gains, Nasdaq at record
+- 10/06 10:28 [FirstSquawk] Taiwan benchmark index climbs 0.5% to fresh record high of 49,968.92
+- 10/06 10:30 [FirstSquawk] Japan launches ¥2.6 trillion 10-year JGB offering with 3.100% coupon
+- 10/06 10:33 [FirstSquawk] Hong Kong challenged HSBC on its decision to establish AI hub in Singapore: FT

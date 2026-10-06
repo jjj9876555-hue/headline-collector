@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-06 10:18 JST／対象: 10/05 22:18 〜 10/06 10:18 JST（時刻はすべて日本時間）
+生成: 2026-10-06 10:35 JST／対象: 10/05 22:35 〜 10/06 10:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 45 | 10/05 22:26 | 10/06 09:22 | ⚠ 206分（03:52→07:19） |
-| FirstSquawk | 157 | 10/05 22:31 | 10/06 10:14 | ⚠ 59分（07:02→08:01） |
-| financialjuice | 112 | 10/05 22:27 | 10/06 10:16 | ⚠ 87分（06:00→07:27） |
+| DeItaone | 42 | 10/05 22:45 | 10/06 09:22 | ⚠ 206分（03:52→07:19） |
+| FirstSquawk | 160 | 10/05 22:42 | 10/06 10:33 | ⚠ 59分（07:02→08:01） |
+| financialjuice | 108 | 10/05 22:45 | 10/06 10:16 | ⚠ 87分（06:00→07:27） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 300 行（統合前 317 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 296 行（統合前 313 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 22:26 [DeItaone] TREASURY WITHDRAWS TWO CONTROVERSIAL CRYPTO SURVEILLANCE PROPOSALS The U.S. Treasury has withdrawn two long-pending FinCEN proposals targeting unhosted crypto wallets and cryptocurrency mixing. The wallet proposal would have imposed reporti…
-- 10/05 22:26 [DeItaone] $TSLA - UBS STAYS NEUTRAL ON TESLA DESPITE DELIVERY BEAT UBS reiterates Neutral on Tesla with a $385 price target after deliveries beat consensus by roughly 5%, continuing the rebound in vehicle volumes. However, energy deployments missed e…
-- 10/05 22:27 [financialjuice] KPC CEO: On expanding Kuwait tanker fleet, we will work with partners around world to do that. whether on ownership or leasing options on crude, product tankers.
-- 10/05 22:27 [financialjuice] KPC CEO: There is not enough refining capacity in the world to make up for shuttered capacity in the Middle East Gulf; will work with partners around the world to expand Kuwait's tanker fleet, whether on ownership or leasing options on crud…
-- 10/05 22:29 [financialjuice] Yemeni sources report an attack on an oil refinery in Jeddah - Tasnim News.
-- 10/05 22:30 [DeItaone] Tasnim now reporting "Yemeni sources report an attack on an oil refinery in Jeddah.
-- 10/05 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -40.4 MLN NASDAQ 100: 16.0 MLN DOW 30: -14.0 MLN MAG 7: -1.7 MLN $MACRO
-- 10/05 22:31 [FirstSquawk] DOW JONES DOWN 78.27 POINTS, OR 0.15 PERCENT, AT 51,098.69 AFTER MARKET OPEN NASDAQ UP 43.06 POINTS, OR 0.16 PERCENT, AT 27,233.93 AFTER MARKET OPEN S&P 500 UP 6.06 POINTS, OR 0.08 PERCENT, AT 7,728.78 AFTER MARKET OPEN
 - 10/05 22:42 [FirstSquawk] SOURCE SAYS LARGE EXPLOSIONS HIT JEDDAH OIL REFINERY - NAYA
 - 10/05 22:44 [FirstSquawk] UBS CUTS FERRARI PRICE TARGET TO $450 FROM $490
 - 10/05 22:45 [financialjuice] US S&P COMPOSITE PMI FINAL ACTUAL 58.4 (FORECAST 58.3, PREVIOUS 58.4) $MACRO
@@ -324,3 +316,7 @@
 - 10/06 10:13 [FirstSquawk] S.Korea finance minister pledges measures to stabilise foreign exchange market
 - 10/06 10:14 [FirstSquawk] S.Korea President Lee urges development of cybersecurity tools fit for AI era
 - 10/06 10:16 [financialjuice] Google, Constellation close to billion-dollar agreement for nuclear energy
+- 10/06 10:22 [FirstSquawk] Asia-Pac stocks start mostly higher following broad Wall St gains, Nasdaq at record
+- 10/06 10:28 [FirstSquawk] Taiwan benchmark index climbs 0.5% to fresh record high of 49,968.92
+- 10/06 10:30 [FirstSquawk] Japan launches ¥2.6 trillion 10-year JGB offering with 3.100% coupon
+- 10/06 10:33 [FirstSquawk] Hong Kong challenged HSBC on its decision to establish AI hub in Singapore: FT
