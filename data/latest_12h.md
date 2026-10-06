@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-06 13:55 JST／対象: 10/06 01:55 〜 10/06 13:55 JST（時刻はすべて日本時間）
+生成: 2026-10-06 14:19 JST／対象: 10/06 02:19 〜 10/06 14:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 18 | 10/06 02:00 | 10/06 09:22 | ⚠ 206分（03:52→07:19） |
-| FirstSquawk | 167 | 10/06 01:57 | 10/06 13:53 | ⚠ 59分（07:02→08:01） |
-| financialjuice | 86 | 10/06 01:56 | 10/06 13:53 | ⚠ 87分（06:00→07:27） |
+| DeItaone | 16 | 10/06 02:27 | 10/06 09:22 | ⚠ 206分（03:52→07:19） |
+| FirstSquawk | 176 | 10/06 02:46 | 10/06 14:16 | ⚠ 59分（07:02→08:01） |
+| financialjuice | 94 | 10/06 02:53 | 10/06 14:05 | ⚠ 87分（06:00→07:27） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 265 行（統合前 273 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 281 行（統合前 288 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/06 01:56 [financialjuice] Iran's President Pezeshkian: Negotiating with an enemy that constantly threatens and terrorizes us, and breaks its promises, is meaningless - Tasnim News.
-- 10/06 01:57 [FirstSquawk] EXPLOSIONS HEARD IN RIYADH; FLIGHTS SUSPENDED AT AIRPORT - FARS
-- 10/06 01:58 [financialjuice] Iran's President Pezeshkian: Every time inspectors come to Iran, our nuclear facilities and scientists are identified, and then these facilities are bombed, and our scientists are assassinated - Tasnim News.
-- 10/06 01:59 [FirstSquawk/DeItaone] IRAN'S PRESIDENT ON THE US: NEGOTIATION HAS NO MEANING WITH ' AN ENEMY THAT TERRORIZES, SANCTIONS, PRESSURES AND THREATENS ON A DAILY BASIS ' - STATE MEDIA
-- 10/06 02:00 [financialjuice] Explosion heard in Riyadh - ISNA.
-- 10/06 02:00 [DeItaone] FRENCH CENTRAL BANK HEAD EMMANUEL MOULIN WARNS STATE AT RISK OF BEING ‘STRANGLED BY INTEREST RATES’ - FT
-- 10/06 02:00 [financialjuice] French Central Bank Head Moulin warns that the state is at risk of being ‘strangled by interest rates’ - FT.
-- 10/06 02:01 [financialjuice] French central bank head warns country at risk of being ‘strangled by interest rates’ - FT
-- 10/06 02:02 [FirstSquawk] US 10-YEAR TREASURY YIELD RISES TO 5.34%, FRESH HIGH SINCE 2002
 - 10/06 02:27 [DeItaone] RUSSIA PROBES DEATH OF WORKER AT ANTI-PLAGUE INSTITUTE Russian authorities are investigating the death of a woman employed at an infectious-disease research institute in Siberia after she developed pneumonia of unknown origin. Contacts are …
 - 10/06 02:44 [DeItaone] U.S. STOCKS EXTEND GAINS, NASDAQ UP 1.00%
 - 10/06 02:46 [FirstSquawk] OPENAI EXPANDS CONTENT PROVENANCE TO INCLUDE TEXT IN RESPONSES TO EU REGULATORY REQUIREMENTS
@@ -289,3 +280,28 @@
 - 10/06 13:53 [financialjuice] TaipeiAMD's Lisa Su: we must guarantee all capacity is activated simultaneously
 - 10/06 13:53 [FirstSquawk] AMD CEO LISA SU: MUST ENSURE ALL CAPACITY IS BROUGHT ONLINE SIMULTANEOUSLY
 - 10/06 13:53 [financialjuice] TaipeiAMD's Lisa Su: to significantly boost supply in 2027
+- 10/06 13:55 [financialjuice] Taipei-AMD’s Lisa Su: AI is extremely beneficial for the world
+- 10/06 13:55 [FirstSquawk] AMD'S LISA SU: AI WILL BE INCREDIBLY GOOD FOR THE WORLD
+- 10/06 13:55 [financialjuice] TaipeiAMD's Lisa Su: some work needed on AI safety
+- 10/06 13:56 [FirstSquawk] AMD'S LISA SU: AI SAFETY WILL REQUIRE FURTHER WORK
+- 10/06 13:57 [financialjuice] TaipeiAMD’s Lisa Su: Taiwan supply chain critical to entire semiconductor industry
+- 10/06 13:57 [FirstSquawk] AMD CEO LISA SU: TAIWAN'S SUPPLY CHAIN IS IMPORTANT TO THE GLOBAL SEMICONDUCTOR INDUSTRY
+- 10/06 13:57 [financialjuice] Taipei AMD’s Lisa Su: Taiwan crucial for chipmaker
+- 10/06 13:57 [FirstSquawk] AMD'S LISA SU: TAIWAN REMAINS ESSENTIAL TO AMD
+- 10/06 13:58 [financialjuice] TaipeiMD's Lisa Su: always focused on packaging innovation
+- 10/06 13:59 [financialjuice] TaipeiAMD's Lisa Su: Strong demand seen for increased compute
+- 10/06 13:59 [FirstSquawk] LISA SU: AMD IS CONSTANTLY LOOKING AT PACKAGING INNOVATION
+- 10/06 14:00 [financialjuice] TaipeiAMD’s Lisa Su: superintelligence task force will aid coordination moving forward
+- 10/06 14:00 [FirstSquawk] INDIA (SEP) HSBC INDIA PMI SERVICES ACTUAL: 55.2 VS 55.8 PREVIOUS
+- 10/06 14:00 [FirstSquawk] INDIA (SEP) HSBC INDIA PMI COMPOSITE ACTUAL: 55.9 VS 56.5 PREVIOUS
+- 10/06 14:00 [financialjuice] India HSBC and S&P Global September final services PMI at 55.2 vs flash 55.8
+- 10/06 14:00 [financialjuice] Taipei-AMD’s Lisa Su: Our investment in Taiwan is progressing, will boost that figure going forward
+- 10/06 14:02 [financialjuice] Oman August m2 money supply rises 14.24% y/y: central bank
+- 10/06 14:04 [financialjuice] Swedish government: Prime minister and other ministers to provide security briefing on Tuesday
+- 10/06 14:04 [FirstSquawk] SWEDISH GOVERNMENT SAYS PM, OTHER MINISTERS TO RECEIVE SECURITY BRIEFING TUESDAY
+- 10/06 14:04 [financialjuice] Oman August conventional bank lending rises 14.10% y/y: central bank
+- 10/06 14:05 [financialjuice] Oman’s central bank foreign assets reach 7.68 billion rials in August:
+- 10/06 14:05 [FirstSquawk] SARCO AWARDS RAYA AL-TAJDEED RIYADH BURJEEL ONE DAY SURGICAL CENTRE PROJECT
+- 10/06 14:09 [FirstSquawk] JEFFERIES HIKES LPL FINANCIAL HOLDINGS TARGET PRICE TO $410 FROM $402
+- 10/06 14:11 [FirstSquawk] CITIGROUP HIKES ASTRAZENECA PRICE TARGET TO 18,600P FROM 17,800P
+- 10/06 14:16 [FirstSquawk] SK HYNIX STOCK DECLINES 3.2%

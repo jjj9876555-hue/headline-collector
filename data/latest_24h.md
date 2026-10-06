@@ -7,52 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-06 13:55 JST／対象: 10/05 13:55 〜 10/06 13:55 JST（時刻はすべて日本時間）
+生成: 2026-10-06 14:19 JST／対象: 10/05 14:19 〜 10/06 14:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 68 | 10/05 19:25 | 10/06 09:22 | ⚠ 206分（03:52→07:19） |
-| FirstSquawk | 318 | 10/05 13:56 | 10/06 13:53 | ⚠ 59分（07:02→08:01） |
-| financialjuice | 212 | 10/05 13:55 | 10/06 13:53 | ⚠ 103分（14:12→15:55） |
+| FirstSquawk | 311 | 10/05 14:21 | 10/06 14:16 | ⚠ 59分（07:02→08:01） |
+| financialjuice | 215 | 10/05 15:55 | 10/06 14:05 | ⚠ 87分（06:00→07:27） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 583 行（統合前 601 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 579 行（統合前 597 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 13:55 [financialjuice] India finance minister: talks with Canada on bilateral investment protection under way, cabinet expected to approve elements
-- 10/05 13:55 [financialjuice] India finance minister: to finalize investment pacts with three additional countries by year-end
-- 10/05 13:56 [financialjuice] India finance minister: discussions on investment pacts with multiple countries including Russia, focusing on safeguarding investments
-- 10/05 13:56 [financialjuice] Russian air strikes hit port infrastructure in Ukraine's Odesa region, authorities say
-- 10/05 13:56 [FirstSquawk] INDIA'S FINANCE MINISTER ANNOUNCED THAT DISCUSSIONS WITH CANADA REGARDING BILATERAL INVESTMENT PROTECTION HAVE BEGUN, FOCUSING ON ELEMENTS THAT THE CABINET IS EXPECTED TO APPROVE.
-- 10/05 13:56 [FirstSquawk] INDIA'S FINANCE MINISTER SAYS NEW INVESTMENT TREATIES WITH THREE COUNTRIES ARE EXPECTED TO BE FINISHED BY YEAR-END.
-- 10/05 13:56 [FirstSquawk] INDIA'S FINANCE MINISTER CONFIRMED TALKS FOR INVESTMENT TREATIES WITH MULTIPLE COUNTRIES, INCLUDING RUSSIA, FOCUSING ON PROTECTING INVESTMENTS.
-- 10/05 13:56 [FirstSquawk] GOLDMAN SACHS INCREASES 2026 US DATA CENTER CAPACITY ESTIMATE BY 5 GW TO 64 GW BUT CUTS 2027 FORECAST BY 5 GW TO 90 GW.
-- 10/05 13:57 [FirstSquawk] GOLDMAN SACHS PREDICTS US DATA CENTER POWER DEMAND WILL INCREASE BY 38% (12 GW) IN 2026 AND 38% (17 GW) IN 2027.
-- 10/05 14:00 [FirstSquawk] JAPAN'S CONSUMER CONFIDENCE FOR SEPTEMBER IS AT 35.4, SLIGHTLY ABOVE THE ESTIMATED 35.3.
-- 10/05 14:03 [FirstSquawk] SCHNEIDER ELECTRIC WILL PURCHASE PTC FOR $205 PER SHARE IN AN ALL-CASH TRANSACTION.
-- 10/05 14:04 [financialjuice] India finance minister: fertiliser costs have surged, unsustainable for any nation to continue purchasing at this rate
-- 10/05 14:05 [FirstSquawk] TAKAICHI CALLS US MARINE INCIDENT IN OKINAWA REGRETTABLE.
-- 10/05 14:05 [FirstSquawk] JAPAN'S PM TAKAICHI KICKS OFF DIET SESSION WITH SPEECH.
-- 10/05 14:05 [FirstSquawk] TAKAICHI SAYS THAT ACHIEVING ROBUST AND SUSTAINABLE GROWTH IS HIS BEGINNING FOCUS.
-- 10/05 14:07 [FirstSquawk] TAKAIHI URGES STRONG ACTION TO AVOID FUTURE INCIDENTS IN OKINAWA.
-- 10/05 14:09 [financialjuice] JAPANESE CONSUMER CONFIDENCE ACTUAL 35.4 (FORECAST 35.3, PREVIOUS 35.5) $MACRO
-- 10/05 14:12 [financialjuice] Japan's PM Takaichi: We will control the annual debt issuance amount appropriately while scrutinising the economy, prices, tax revenues, interest rates, debt-servicing costs, and market developments
-- 10/05 14:12 [financialjuice] Japan's PM Takaichi: We will seek to enhance market trust in our policies by communicating closely with the public, domestic and overseas market players
-- 10/05 14:12 [financialjuice] Japan PM Takaichi: If economy, markets make unexpected movements, we will analyse their impact, respond nimbly as needed.
-- 10/05 14:12 [financialjuice] Japan's PM Takaichi: We will draw up a 5-year investment plan by year-end
-- 10/05 14:13 [FirstSquawk] TAKAICHI SAYS JAPAN WILL CREATE A POSITIVE CYCLE THROUGH GDP GROWTH.
-- 10/05 14:13 [FirstSquawk] TAKAICHI PLANS TO MANAGE YEARLY DEBT ISSUANCE EFFECTIVELY.
-- 10/05 14:13 [FirstSquawk] TAKAICHI SAID THEY WILL ACT QUICKLY IF THERE ARE UNEXPECTED CHANGES IN THE ECONOMY OR MARKETS.
-- 10/05 14:13 [FirstSquawk] TAKAICHI PROMISES TO INCREASE MARKET CONFIDENCE IN THE GOVERNMENT THROUGH A DIRECT METHOD.
-- 10/05 14:13 [FirstSquawk] TAKAICHI PLANS TO CREATE A 5-YEAR INVESTMENT STRATEGY BY THE END OF THIS YEAR.
-- 10/05 14:13 [FirstSquawk] AUSTRALIA'S S&P/ASX 200 ENDS ALMOST UNCHANGED AT 8,685.60.
-- 10/05 14:13 [FirstSquawk] BT MAY ANNOUNCE DEAL WITH TALKTALK ON MONDAY, ACCORDING TO FT.
-- 10/05 14:16 [FirstSquawk] RUSSIAN DEFENCE MINISTRY CONFIRMED ATTACK ON CARGO SHIP IN BLACK SEA.
 - 10/05 14:21 [FirstSquawk] NASDAQ 100 FUTURES LOST ALL OF THEIR EARLY GAIN OF 0.5%.
 - 10/05 14:26 [FirstSquawk] TAKAICHI SAYS NO TO USING DEFICIT-FINANCE BONDS FOR SALES TAX FUNDING.
 - 10/05 14:27 [FirstSquawk] TAKAICHI URGES CHINA TO TAKE RESPONSIBLE STEPS REGARDING CURRENT PROBLEMS.
@@ -607,3 +578,28 @@
 - 10/06 13:53 [financialjuice] TaipeiAMD's Lisa Su: we must guarantee all capacity is activated simultaneously
 - 10/06 13:53 [FirstSquawk] AMD CEO LISA SU: MUST ENSURE ALL CAPACITY IS BROUGHT ONLINE SIMULTANEOUSLY
 - 10/06 13:53 [financialjuice] TaipeiAMD's Lisa Su: to significantly boost supply in 2027
+- 10/06 13:55 [financialjuice] Taipei-AMD’s Lisa Su: AI is extremely beneficial for the world
+- 10/06 13:55 [FirstSquawk] AMD'S LISA SU: AI WILL BE INCREDIBLY GOOD FOR THE WORLD
+- 10/06 13:55 [financialjuice] TaipeiAMD's Lisa Su: some work needed on AI safety
+- 10/06 13:56 [FirstSquawk] AMD'S LISA SU: AI SAFETY WILL REQUIRE FURTHER WORK
+- 10/06 13:57 [financialjuice] TaipeiAMD’s Lisa Su: Taiwan supply chain critical to entire semiconductor industry
+- 10/06 13:57 [FirstSquawk] AMD CEO LISA SU: TAIWAN'S SUPPLY CHAIN IS IMPORTANT TO THE GLOBAL SEMICONDUCTOR INDUSTRY
+- 10/06 13:57 [financialjuice] Taipei AMD’s Lisa Su: Taiwan crucial for chipmaker
+- 10/06 13:57 [FirstSquawk] AMD'S LISA SU: TAIWAN REMAINS ESSENTIAL TO AMD
+- 10/06 13:58 [financialjuice] TaipeiMD's Lisa Su: always focused on packaging innovation
+- 10/06 13:59 [financialjuice] TaipeiAMD's Lisa Su: Strong demand seen for increased compute
+- 10/06 13:59 [FirstSquawk] LISA SU: AMD IS CONSTANTLY LOOKING AT PACKAGING INNOVATION
+- 10/06 14:00 [financialjuice] TaipeiAMD’s Lisa Su: superintelligence task force will aid coordination moving forward
+- 10/06 14:00 [FirstSquawk] INDIA (SEP) HSBC INDIA PMI SERVICES ACTUAL: 55.2 VS 55.8 PREVIOUS
+- 10/06 14:00 [FirstSquawk] INDIA (SEP) HSBC INDIA PMI COMPOSITE ACTUAL: 55.9 VS 56.5 PREVIOUS
+- 10/06 14:00 [financialjuice] India HSBC and S&P Global September final services PMI at 55.2 vs flash 55.8
+- 10/06 14:00 [financialjuice] Taipei-AMD’s Lisa Su: Our investment in Taiwan is progressing, will boost that figure going forward
+- 10/06 14:02 [financialjuice] Oman August m2 money supply rises 14.24% y/y: central bank
+- 10/06 14:04 [financialjuice] Swedish government: Prime minister and other ministers to provide security briefing on Tuesday
+- 10/06 14:04 [FirstSquawk] SWEDISH GOVERNMENT SAYS PM, OTHER MINISTERS TO RECEIVE SECURITY BRIEFING TUESDAY
+- 10/06 14:04 [financialjuice] Oman August conventional bank lending rises 14.10% y/y: central bank
+- 10/06 14:05 [financialjuice] Oman’s central bank foreign assets reach 7.68 billion rials in August:
+- 10/06 14:05 [FirstSquawk] SARCO AWARDS RAYA AL-TAJDEED RIYADH BURJEEL ONE DAY SURGICAL CENTRE PROJECT
+- 10/06 14:09 [FirstSquawk] JEFFERIES HIKES LPL FINANCIAL HOLDINGS TARGET PRICE TO $410 FROM $402
+- 10/06 14:11 [FirstSquawk] CITIGROUP HIKES ASTRAZENECA PRICE TARGET TO 18,600P FROM 17,800P
+- 10/06 14:16 [FirstSquawk] SK HYNIX STOCK DECLINES 3.2%

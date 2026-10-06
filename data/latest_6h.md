@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-06 13:55 JST／対象: 10/06 07:55 〜 10/06 13:55 JST（時刻はすべて日本時間）
+生成: 2026-10-06 14:19 JST／対象: 10/06 08:19 〜 10/06 14:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 10/06 09:22 | 10/06 09:22 | - |
-| FirstSquawk | 97 | 10/06 08:01 | 10/06 13:53 | 22分（08:06→08:29） |
-| financialjuice | 31 | 10/06 08:30 | 10/06 13:53 | ⚠ 55分（12:21→13:17） |
+| FirstSquawk | 107 | 10/06 08:29 | 10/06 14:16 | 17分（08:39→08:57） |
+| financialjuice | 44 | 10/06 08:30 | 10/06 14:05 | ⚠ 55分（12:21→13:17） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 129 行（統合前 129 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 152 行（統合前 152 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/06 08:01 [FirstSquawk] AUSTRALIAN ARMY SOLDIER DIES, FIVE OTHERS HURT IN TRAINING EXERCISE IN NORTHERN AUSTRALIA: ABC NEWS
-- 10/06 08:06 [FirstSquawk] SOUTH KOREA POLICE INVESTIGATE CYBERATTACKS TARGETING COMMERCIAL BANKS — YONHAP
 - 10/06 08:29 [FirstSquawk] AUSTRALIA TREASURER CHALMERS: PUSHING FOR GREATER MARKET ACCESS IN JAPAN AMID STRONG JAPANESE INVESTMENT INTEREST; HIGHER BORROWING COSTS TO HIT BUDGET
 - 10/06 08:29 [FirstSquawk] AUSTRALIA TREASURER CHALMERS: PRIVATE SECTOR LEADING ECONOMIC GROWTH, OUTLOOK POSITIVE; PRODUCTIVITY REMAINS A LONG-STANDING CHALLENGE
 - 10/06 08:30 [financialjuice] Australia Oct Westpac-MI consumer confidence index falls 4.7% to 80.4
@@ -153,3 +151,28 @@
 - 10/06 13:53 [financialjuice] TaipeiAMD's Lisa Su: we must guarantee all capacity is activated simultaneously
 - 10/06 13:53 [FirstSquawk] AMD CEO LISA SU: MUST ENSURE ALL CAPACITY IS BROUGHT ONLINE SIMULTANEOUSLY
 - 10/06 13:53 [financialjuice] TaipeiAMD's Lisa Su: to significantly boost supply in 2027
+- 10/06 13:55 [financialjuice] Taipei-AMD’s Lisa Su: AI is extremely beneficial for the world
+- 10/06 13:55 [FirstSquawk] AMD'S LISA SU: AI WILL BE INCREDIBLY GOOD FOR THE WORLD
+- 10/06 13:55 [financialjuice] TaipeiAMD's Lisa Su: some work needed on AI safety
+- 10/06 13:56 [FirstSquawk] AMD'S LISA SU: AI SAFETY WILL REQUIRE FURTHER WORK
+- 10/06 13:57 [financialjuice] TaipeiAMD’s Lisa Su: Taiwan supply chain critical to entire semiconductor industry
+- 10/06 13:57 [FirstSquawk] AMD CEO LISA SU: TAIWAN'S SUPPLY CHAIN IS IMPORTANT TO THE GLOBAL SEMICONDUCTOR INDUSTRY
+- 10/06 13:57 [financialjuice] Taipei AMD’s Lisa Su: Taiwan crucial for chipmaker
+- 10/06 13:57 [FirstSquawk] AMD'S LISA SU: TAIWAN REMAINS ESSENTIAL TO AMD
+- 10/06 13:58 [financialjuice] TaipeiMD's Lisa Su: always focused on packaging innovation
+- 10/06 13:59 [financialjuice] TaipeiAMD's Lisa Su: Strong demand seen for increased compute
+- 10/06 13:59 [FirstSquawk] LISA SU: AMD IS CONSTANTLY LOOKING AT PACKAGING INNOVATION
+- 10/06 14:00 [financialjuice] TaipeiAMD’s Lisa Su: superintelligence task force will aid coordination moving forward
+- 10/06 14:00 [FirstSquawk] INDIA (SEP) HSBC INDIA PMI SERVICES ACTUAL: 55.2 VS 55.8 PREVIOUS
+- 10/06 14:00 [FirstSquawk] INDIA (SEP) HSBC INDIA PMI COMPOSITE ACTUAL: 55.9 VS 56.5 PREVIOUS
+- 10/06 14:00 [financialjuice] India HSBC and S&P Global September final services PMI at 55.2 vs flash 55.8
+- 10/06 14:00 [financialjuice] Taipei-AMD’s Lisa Su: Our investment in Taiwan is progressing, will boost that figure going forward
+- 10/06 14:02 [financialjuice] Oman August m2 money supply rises 14.24% y/y: central bank
+- 10/06 14:04 [financialjuice] Swedish government: Prime minister and other ministers to provide security briefing on Tuesday
+- 10/06 14:04 [FirstSquawk] SWEDISH GOVERNMENT SAYS PM, OTHER MINISTERS TO RECEIVE SECURITY BRIEFING TUESDAY
+- 10/06 14:04 [financialjuice] Oman August conventional bank lending rises 14.10% y/y: central bank
+- 10/06 14:05 [financialjuice] Oman’s central bank foreign assets reach 7.68 billion rials in August:
+- 10/06 14:05 [FirstSquawk] SARCO AWARDS RAYA AL-TAJDEED RIYADH BURJEEL ONE DAY SURGICAL CENTRE PROJECT
+- 10/06 14:09 [FirstSquawk] JEFFERIES HIKES LPL FINANCIAL HOLDINGS TARGET PRICE TO $410 FROM $402
+- 10/06 14:11 [FirstSquawk] CITIGROUP HIKES ASTRAZENECA PRICE TARGET TO 18,600P FROM 17,800P
+- 10/06 14:16 [FirstSquawk] SK HYNIX STOCK DECLINES 3.2%
