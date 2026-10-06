@@ -7,58 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-06 08:43 JST／対象: 10/06 02:43 〜 10/06 08:43 JST（時刻はすべて日本時間）
+生成: 2026-10-06 09:28 JST／対象: 10/06 03:28 〜 10/06 09:28 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 14 | 10/06 02:44 | 10/06 07:39 | ⚠ 206分（03:52→07:19） |
-| FirstSquawk | 76 | 10/06 02:46 | 10/06 08:39 | ⚠ 59分（07:02→08:01） |
-| financialjuice | 51 | 10/06 02:53 | 10/06 08:30 | ⚠ 87分（06:00→07:27） |
+| DeItaone | 8 | 10/06 03:29 | 10/06 09:22 | ⚠ 206分（03:52→07:19） |
+| FirstSquawk | 81 | 10/06 03:48 | 10/06 09:23 | ⚠ 59分（07:02→08:01） |
+| financialjuice | 39 | 10/06 03:31 | 10/06 08:57 | ⚠ 87分（06:00→07:27） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 136 行（統合前 143 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 126 行（統合前 128 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/06 02:44 [DeItaone] U.S. STOCKS EXTEND GAINS, NASDAQ UP 1.00%
-- 10/06 02:46 [FirstSquawk] OPENAI EXPANDS CONTENT PROVENANCE TO INCLUDE TEXT IN RESPONSES TO EU REGULATORY REQUIREMENTS
-- 10/06 02:46 [FirstSquawk] OPENAI TO START WATERMARKING ELIGIBLE CHATGPT & CODEX TEXT IN EU OVER COMING WEEKS TO COMPLY WITH EU AI ACT
-- 10/06 02:47 [FirstSquawk] SAUDI-BACKED YEMENI FORCES RETAKE AREAS NEAR STRATEGIC BAB EL-MANDEB STRAIT — AP
-- 10/06 02:47 [FirstSquawk] LOUD EXPLOSIONS HEARD IN NORTHERN RIYADH — NOURNEWS, CITING AFP
-- 10/06 02:49 [FirstSquawk] US STOCKS EXTEND GAINS; NASDAQ SURGES 1.00%
-- 10/06 02:52 [FirstSquawk] ISRAELI SHIN BET PERSONNEL IN UAE TO JOIN INVESTIGATION INTO FLYDUBAI INCIDENT — N12
-- 10/06 02:53 [financialjuice] UKMTO: Received a report of an incident within the Strait of Hormuz.
-- 10/06 02:53 [financialjuice] UKMTO: Captain of the tanker reports being struck by an unknown projectile, causing a fire in the engine room.
-- 10/06 02:56 [FirstSquawk] TRUMP SAYS WHAT'S DRIVING UP GASOLINE IS 'NO LONGER THE STRAIT OF HORMUZ, BECAUSE RECORD NUMBERS OF BARRELS ARE COMING OUT NOW ON AN ALMOST DAILY BASIS', BUT RATHER 'REFINERIES'. - TRUTH SOCIAL
-- 10/06 02:56 [FirstSquawk] TRUMP SAYS THIS IS 'WHERE RUSSIA'S ARE BEING BLOWN UP BY UKRAINE, AND WHERE OURS ARE BEING CLOSED UP, IN BLUE STATES, LIKE CALIFORNIA, BY THE DUMOCRATS'. - TRUTH SOCIAL
-- 10/06 02:58 [FirstSquawk] UKMTO: TANKER STRUCK BY UNKNOWN PROJECTILE IN STRAIT OF HORMUZ, SPARKING ENGINE-ROOM FIRE; NO CASUALTIES OR ENVIRONMENTAL IMPACT REPORTED
-- 10/06 03:01 [financialjuice] Israeli security officials, including Shin Bet representatives, travel to UAE to participate in interrogation of Omani pilot - Kann News
-- 10/06 03:01 [FirstSquawk] BOEING HAS RECEIVED A SEVEN-YEAR CONTRACT TO ACCELERATE PAC-3 MSE SEEKER OUTPUT, AWARDED A $14.70 BLN CONTRACT BY LOCKHEED MARTIN FOR PAC-3 MSE SEEKERS, WITH THE CONTRACT FORMALIZING A SEVEN-YEAR FRAMEWORK TO TRIPLE PAC-3 MSE SEEKER PRODUCT…
-- 10/06 03:02 [financialjuice] Saudi Defence Minister: Mecca Defence Alliance committee says collective deterrence measures will confront attacks and those responsible
-- 10/06 03:03 [financialjuice] Shuja'ab News Agency Reports indicate that a missile may have struck Riyadh airport - IRIB News
-- 10/06 03:06 [financialjuice] Pakistan Foreign Ministry: Pakistan, Saudi Arabia and Turkey agree to provide agreed military forces and capabilities.
-- 10/06 03:08 [FirstSquawk] US EMBASSY IN RIYADH URGES AMERICANS TO REMAIN VIGILANT AND FOLLOW SAUDI CIVIL DEFENSE ALERTS
-- 10/06 03:09 [financialjuice] Pakistan Foreign Ministry: Agreed military forces and capabilities to be rapidly deployed in Saudi Arabia.
-- 10/06 03:12 [FirstSquawk] PAKISTAN'S FOREIGN MINISTRY SAYS SAUDI ARABIA, PAKISTAN AND TURKEY CONVENED AN EMERGENCY MEETING OF THE STRATEGIC-POLITICAL AND DEFENSE COMMITTEE OF THE MECCA ALLIANCE, APPOINTING PAKISTAN'S NAUMAN MAHMOOD AS THE FIRST SECRETARY-GENERAL OF …
-- 10/06 03:12 [FirstSquawk] PAKISTAN'S FOREIGN MINISTRY SAYS PAKISTAN, SAUDI ARABIA AND TURKEY AGREED TO PROVIDE AGREED MILITARY FORCES AND CAPABILITIES — TO BE RAPIDLY DEPLOYED IN SAUDI ARABIA — AND CONDEMNED THE ATTEMPTED TARGETING OF MECCA AND MADINAH.
-- 10/06 03:13 [DeItaone] SAUDI ARABIA, PAKISTAN, TURKEY AGREE RAPID MILITARY DEPLOYMENT Saudi Arabia, Pakistan and Turkey convened an emergency meeting of the Mecca Alliance’s defense committee, Pakistan’s Foreign Ministry says. The three countries agreed to provid…
-- 10/06 03:16 [financialjuice] Meta and Microsoft Work to Wean Staff Off Anthropic’s Claude - The Information. $MSFT
-- 10/06 03:17 [DeItaone] META AND MICROSOFT WORK TO WEAN STAFF OFF ANTHROPIC’S CLAUDE - THE INFORMATION MICROSOFT CUT INTERNAL CLAUDE SPENDING LEVEL BY OVER A THIRD - THE INFORMATION
-- 10/06 03:17 [financialjuice] Turkish Foreign Minister: Turkey, Saudi Arabia, Pakistan discussed ways to provide support for Saudi Arabia's defence over Yemen issue at an emergency meeting of mecca alliance on Monday.
-- 10/06 03:17 [financialjuice/FirstSquawk] Yemen Houthis: Bab al-Mandab, Dhubab, and Al-Mukha are under our control - ISNA
-- 10/06 03:18 [DeItaone] YIELD ON 10-YEAR TREASURY NOTE LAST UP 6.59 BASIS POINTS AT 5.343% AFTER HITTING FRESH 24-YEAR HIGH AT 5.3493%
-- 10/06 03:18 [financialjuice] Microsoft lowers Claude spending by over a third - The Information. $MSFT
-- 10/06 03:20 [FirstSquawk] META AND MICROSOFT ARE WORKING TO WEAN STAFF OFF ANTHROPIC'S CLAUDE, WITH MICROSOFT CUTTING ITS INTERNAL CLAUDE SPENDING LEVEL BY OVER A THIRD AND META'S CLAUDE CODE USERS HALVED AS THE COMPANY PUSHED ITS INTERNAL AI TOOLS - THE INFORMATION
-- 10/06 03:20 [DeItaone] $SPCX - SPACEX SAID TO BE LOOKING TO BUILD GAS PIPELINE IN FLORIDA
-- 10/06 03:21 [financialjuice] Meta staff using Claude lower to 30,000 from 60,000 - The Information. $META
-- 10/06 03:21 [financialjuice/FirstSquawk] regional sources claim Saudi Royal Security team plans to launch US-made Lucas drones toward Mecca targeting Kaaba, nearby residential areas - Fars News
-- 10/06 03:22 [DeItaone] *META STAFF USING CLAUDE LOWER TO 30,000 FROM 60,000:INFORMATION
-- 10/06 03:27 [financialjuice/FirstSquawk] US Treasury Secretary Bessent: Iran loaded zero crude oil onto tankers last month - Post on X
-- 10/06 03:28 [DeItaone] WIKIPEDIA OPERATOR SAYS OPENAI'S ROGUE AGENTS POSSIBLY TIED TO DATA SERVICE DISRUPTION IN MAY
 - 10/06 03:29 [DeItaone] BESSENT: U.S. PRESSURE CAMPAIGN IS HITTING IRAN’S ECONOMY Treasury Secretary Scott Bessent says “Operation Economic Outcast” is delivering results, pointing to a record-low Iranian rial and claiming Iran loaded zero crude onto tankers last …
 - 10/06 03:31 [financialjuice] NYMEX Nat Gas Nov. futures settle at $3.0660/MMBTU
 - 10/06 03:31 [DeItaone] AI OPTIMISM OVERRIDES RISING BOND YIELDS Tech stocks are rallying even as bond yields climb, with investors continuing to bet heavily on the long-term benefits of AI. Interactive Brokers strategist Steve Sosnick summed up the mood: “If you …
@@ -68,6 +33,8 @@
 - 10/06 03:44 [financialjuice] NYMEX Gasoline Nov. futures settle at $3.2462 a gallon
 - 10/06 03:44 [DeItaone] HIGH YIELDS FORCE MUNI BORROWERS TO DELAY REFINANCINGS Roughly $6 billion of municipal bond refinancing deals are on hold or delayed as elevated yields erase potential savings for borrowers. Benchmark 30-year muni yields recently hit 5.26%,…
 - 10/06 03:46 [financialjuice] Brent Crude futures settle at $100.32/bbl, down $1.93, 1.89%
+- 10/06 03:48 [FirstSquawk] REGIONAL SOURCES CLAIM SAUDI ROYAL SECURITY TEAM PLANS TO LAUNCH US-MADE LUCAS DRONES TOWARD MECCA TARGETING KAABA, NEARBY RESIDENTIAL AREAS - FARS NEWS
+- 10/06 03:48 [FirstSquawk] US TREASURY SECRETARY BESSENT: IRAN LOADED ZERO CRUDE OIL ONTO TANKERS LAST MONTH - POST ON X
 - 10/06 03:49 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 1.84% LOWER AT $89.43/BBL, DOWN $1.68
 - 10/06 03:49 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 1.89% LOWER AT $100.32/BBL, DOWN $1.93
 - 10/06 03:52 [DeItaone] TREASURY YIELDS SURGE TO FRESH 24-YEAR HIGHS Treasuries sold off sharply, pushing the 10-year yield to 5.34% and the 30-year to 5.70%, their highest levels since 2002. Pressure comes from resilient growth, AI-driven investment and persisten…
@@ -160,3 +127,26 @@
 - 10/06 08:34 [FirstSquawk] KKR SAYS THE DEAL IS EXPECTED TO CLOSE IN 2027, SUBJECT TO REGULATORY APPROVALS.
 - 10/06 08:39 [FirstSquawk] BC PARTNERS CREDIT HAS ANNOUNCED AN INITIAL INVESTMENT IN LIV GOLF, MARKING WHAT IT CALLS THE NEXT STEP TOWARD A FINANCIALLY STRONG, TEAM-FOCUSED GOLF LEAGUE, WITH THE INVESTMENT THE FIRST PART OF A TARGETED $300 MLN IN CUMULATIVE FINANCING…
 - 10/06 08:39 [FirstSquawk] BC PARTNERS SAYS THE NEXT PHASE OF LIV GOLF, OR LIV GOLF 2.0, WILL FEATURE PLAYERS PARTICIPATING AS EQUITY OWNERS OF BOTH THE LEAGUE AND THE TEAMS.
+- 10/06 08:56 [financialjuice] Trump tonight: will sign order to waive off-road rule allowing anyone to buy tax-free red-dyed diesel
+- 10/06 08:57 [financialjuice] Trump signs directive on red-dyed diesel
+- 10/06 08:57 [FirstSquawk] TRUMP SAYS HE WILL SIGN AN ORDER TONIGHT TO WAIVE THE OFF-ROAD REQUIREMENT TO ALLOW ANYONE TO PURCHASE TAX-FREE RED-DYED DIESEL, AND HAS SIGNED THE ORDER ON RED-DYED DIESEL
+- 10/06 08:57 [FirstSquawk] U.S. PRESIDENT TRUMP SAYS ON IRAN THAT 'WE ARE KICKING IRAN'S ASS', CALLING HIS WAR WITH IRAN SOMETHING THAT IS 'SAVING THE WORLD', AND SAYS THAT BEFORE THE WAR HE PASSED A GAS STATION AT '$1.85 A GALLON' AND 'WE WILL HAVE IT LOWER THAN THA…
+- 10/06 08:57 [FirstSquawk] U.S. PRESIDENT TRUMP SAYS OF THE IRAN WAR THAT 'IT'S JUST ARTIFICIAL' AND PRICES ARE 'A LITTLE BIT HIGH', CALLING IT 'A SMALL PRICE TO PAY FOR KEEPING THE WORLD SAFE' AND SAYING IT IS 'ESSENTIALLY ALMOST OVER WITH', WHILE ON VENEZUELA HE SA…
+- 10/06 08:57 [FirstSquawk] Trump signs executive order targeting red-dyed diesel
+- 10/06 08:57 [FirstSquawk] U.S. PRESIDENT TRUMP SAYS 'THE WAR WILL END VERY QUICKLY, AND PRICES ARE GOING TO COME DOWN VERY SHARPLY', ADDING THAT CRITICS 'ATTACKED ME, IMPEACHED ME, ARRESTED ME, AND THEY'VE EVEN TRIED TO KILL ME', AND THAT IN THE ELECTION HE'LL ASK V…
+- 10/06 08:58 [FirstSquawk] TRUMP: RUSSIA IS LOSING MANY REFINERIES DUE TO UKRAINE, CONTRIBUTING TO DIESEL SUPPLY PRESSURE
+- 10/06 09:07 [FirstSquawk] TRUMP SAYS 'THE RADICAL LEFT IS UPSET WITH THE FACT THAT I AM TAKING ADS', WHICH HE CONSIDERS 'A POSITIVE PROMOTION FOR OUR GREAT U.S.A.', AND PAYING FOR THEM WITH 'U.S.A. MONEY', CALLING IT 'A RATHER STANDARD THING TO DO'. - TRUTH SOCIAL
+- 10/06 09:07 [FirstSquawk] TRUMP SAYS THAT RATHER THAN DOING THAT, 'ALTHOUGH NOTHING WILL MAKE THEM HAPPY', HE HAS 'DECIDED TO DO THE PATRIOTIC ADS, AMONG OTHERS, AND PAY FOR THEM MYSELF, AND WITH MONEY I RAISED FOR MAGA, INC.' - TRUTH SOCIAL
+- 10/06 09:07 [FirstSquawk] RUSSIA'S FOREIGN MINISTER LAVROV SAYS ON AFGHANISTAN THAT 'THE POWERFUL MILITARY MACHINE OF THE UNITED STATES AND ITS NATO ALLIES BROKE AGAINST THE FIGHTING SPIRIT AND RESILIENCE OF THE AFGHAN PEOPLE', SAYING 'THE OCCUPIERS WERE FORCED TO F…
+- 10/06 09:07 [FirstSquawk] RUSSIA'S FOREIGN MINISTER LAVROV SAYS 'AFGHAN SECURITY FORCES ARE WAGING AN UNCOMPROMISING FIGHT AGAINST ISLAMIC STATE AND OTHER TERRORIST GROUPS', ADDING THAT 'IT IS IN OUR COMMON INTEREST TO HELP STRENGTHEN KABUL'S COUNTERTERRORISM CAPABI…
+- 10/06 09:12 [FirstSquawk] 10-year Japanese government bond yield gains 3 bps to 3.115%
+- 10/06 09:12 [FirstSquawk] 2-year Japanese government bond yield gains 2 bps to 1.925%
+- 10/06 09:14 [FirstSquawk] Moscow Oblast reportedly comes under mass Ukrainian drone attack
+- 10/06 09:17 [FirstSquawk] Saudi-supported forces launch offensive to regain control of Bab al-Mandeb - WSJ
+- 10/06 09:17 [FirstSquawk] Trump says MAGA Inc. will fund promotional TV ad campaign instead of taxpayers - CNN
+- 10/06 09:18 [FirstSquawk] Oil companies face Supreme Court scrutiny over bid to stop climate lawsuits - WSJ
+- 10/06 09:22 [FirstSquawk] South Korean stocks open higher following U.S. tech rally
+- 10/06 09:22 [DeItaone] *TRUMP: CHINA WILL BE DOUBLING UP WHAT THEY’RE BUYING
+- 10/06 09:23 [FirstSquawk] North Korea reviews third-quarter economic performance at expanded Cabinet meeting - YONHAP
+- 10/06 09:23 [FirstSquawk] THE U.S. EVACUATED 12 B-1 BOMBERS FROM RAF FAIRFORD IN THE UK AFTER INTELLIGENCE INDICATED A POSSIBLE IRANIAN DRONE ATTACK ON THE BASE, WITH BRITISH AUTHORITIES HAVING ALSO ARRESTED SEVERAL DUAL BRITISH-IRANIAN CITIZENS SUSPECTED OF PLANNIN…
+- 10/06 09:23 [FirstSquawk] TRUMP CONFIRMED THE BOMBERS WERE MOVED BECAUSE OF AN IRANIAN SECURITY THREAT, CONTRADICTING RUBIO, WHO HAD INITIALLY DESCRIBED THE MOVE AS A ROUTINE ROTATION - AXIOS
