@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-06 10:35 JST／対象: 10/06 04:35 〜 10/06 10:35 JST（時刻はすべて日本時間）
+生成: 2026-10-06 10:52 JST／対象: 10/06 04:52 〜 10/06 10:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 10/06 07:19 | 10/06 09:22 | ⚠ 103分（07:39→09:22） |
-| FirstSquawk | 74 | 10/06 04:46 | 10/06 10:33 | ⚠ 59分（07:02→08:01） |
-| financialjuice | 22 | 10/06 04:38 | 10/06 10:16 | ⚠ 87分（06:00→07:27） |
+| FirstSquawk | 76 | 10/06 05:02 | 10/06 10:51 | ⚠ 59分（07:02→08:01） |
+| financialjuice | 21 | 10/06 05:12 | 10/06 10:52 | ⚠ 87分（06:00→07:27） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 98 行（統合前 99 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 99 行（統合前 100 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/06 04:38 [financialjuice] Treasury issues notice to foreign banks doing business with Iran
-- 10/06 04:39 [financialjuice] Treasury: Banks may be sanctioned for doing business with Iran.
-- 10/06 04:46 [FirstSquawk] US ISSUES ALERT TO FOREIGN FINANCIAL INSTITUTIONS DOING BUSINESS WITH IRAN
-- 10/06 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: -2950.1 MLN NASDAQ 100: -1484.6 MLN DOW 30: -585.0 MLN MAG 7: -503.8 MLN $MACRO
 - 10/06 05:02 [FirstSquawk] NASDAQ CLOSES 0.99% HIGHER AT 27,460.49, UP 269.62 POINTS S&P 500 CLOSES 0.66% HIGHER AT 7,773.48, UP 50.76 POINTS DOW JONES CLOSES 0.17% HIGHER AT 51,266.15, UP 89.19 POINTS
 - 10/06 05:07 [FirstSquawk] MCKESSON AND CD&R NEAR DEAL WORTH MORE THAN $5B TO BUY INFUSION SERVICES PROVIDER OPTION CARE HEALTH - FT
 - 10/06 05:12 [financialjuice] Yemen's Houthis: They carried out three military operations in Saudi Arabia.
@@ -122,3 +118,8 @@
 - 10/06 10:28 [FirstSquawk] Taiwan benchmark index climbs 0.5% to fresh record high of 49,968.92
 - 10/06 10:30 [FirstSquawk] Japan launches ¥2.6 trillion 10-year JGB offering with 3.100% coupon
 - 10/06 10:33 [FirstSquawk] Hong Kong challenged HSBC on its decision to establish AI hub in Singapore: FT
+- 10/06 10:43 [FirstSquawk] Japan raises 10-year JGB coupon to 3.1%, highest in about 30 years - kyodo
+- 10/06 10:48 [FirstSquawk] Trump offers U.S. support following plague death in Russia; WHO says risk is low - CNBC
+- 10/06 10:50 [financialjuice] Anthropic tells Australian parliament it found no unauthorized interactions with government data
+- 10/06 10:51 [FirstSquawk] ANTHROPIC TELLS AUSTRALIA'S PARLIAMENT NO UNAUTHORISED INTERACTIONS WITH GOVERNMENT DATA FOUND
+- 10/06 10:52 [financialjuice] Japan finmin katayama: enough steps in place to cover next year's spending, will engage closely with markets

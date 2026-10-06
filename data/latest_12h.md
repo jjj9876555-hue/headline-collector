@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-06 10:35 JST／対象: 10/05 22:35 〜 10/06 10:35 JST（時刻はすべて日本時間）
+生成: 2026-10-06 10:52 JST／対象: 10/05 22:52 〜 10/06 10:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 42 | 10/05 22:45 | 10/06 09:22 | ⚠ 206分（03:52→07:19） |
-| FirstSquawk | 160 | 10/05 22:42 | 10/06 10:33 | ⚠ 59分（07:02→08:01） |
-| financialjuice | 108 | 10/05 22:45 | 10/06 10:16 | ⚠ 87分（06:00→07:27） |
+| DeItaone | 41 | 10/05 23:00 | 10/06 09:22 | ⚠ 206分（03:52→07:19） |
+| FirstSquawk | 159 | 10/05 22:58 | 10/06 10:51 | ⚠ 59分（07:02→08:01） |
+| financialjuice | 106 | 10/05 23:00 | 10/06 10:52 | ⚠ 87分（06:00→07:27） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 296 行（統合前 313 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 292 行（統合前 308 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 22:42 [FirstSquawk] SOURCE SAYS LARGE EXPLOSIONS HIT JEDDAH OIL REFINERY - NAYA
-- 10/05 22:44 [FirstSquawk] UBS CUTS FERRARI PRICE TARGET TO $450 FROM $490
-- 10/05 22:45 [financialjuice] US S&P COMPOSITE PMI FINAL ACTUAL 58.4 (FORECAST 58.3, PREVIOUS 58.4) $MACRO
-- 10/05 22:45 [financialjuice] ❗ US S&P SERVICES PMI FINAL ACTUAL 58.8 (FORECAST 58.7, PREVIOUS 58.7) $MACRO
-- 10/05 22:45 [DeItaone] US SEP FINAL COMPOSITE PMI 58.4 (58.4 FLASH, 56.0 AUG) US SEP FINAL SERVICES PMI 58.8 (58.7 FLASH, 56.5 AUG)
-- 10/05 22:46 [FirstSquawk] U.S S&P GLOBAL SERVICES PMI (SEP) ACTUAL: 58.8 VS 58.7 PREVIOUS; EST 58.7
-- 10/05 22:46 [FirstSquawk] U.S S&P GLOBAL COMPOSITE PMI (SEP) ACTUAL: 58.4 VS 58.4 PREVIOUS; EST 58.4
-- 10/05 22:46 [financialjuice] US S&P Service PMI Final September Report
-- 10/05 22:47 [financialjuice] Activity surges higher as new order growth hits four-and-a-half-year high Rate of job creation strongest since June 2022 Input cost inflation reaccelerates
 - 10/05 22:58 [FirstSquawk] HOUTHIS FIRED TWO MISSILES TOWARD BAB EL-MANDE
 - 10/05 23:00 [FirstSquawk] US ISM NON-MANUFACTURING PMI (SEP) ACTUAL: 54.9 VS 55.4 PREVIOUS; EST 55.0
 - 10/05 23:00 [financialjuice] US ISM SERVICES NEW ORDERS ACTUAL 59.8 (FORECAST 60.3, PREVIOUS 60.9) $MACRO
@@ -320,3 +311,8 @@
 - 10/06 10:28 [FirstSquawk] Taiwan benchmark index climbs 0.5% to fresh record high of 49,968.92
 - 10/06 10:30 [FirstSquawk] Japan launches ¥2.6 trillion 10-year JGB offering with 3.100% coupon
 - 10/06 10:33 [FirstSquawk] Hong Kong challenged HSBC on its decision to establish AI hub in Singapore: FT
+- 10/06 10:43 [FirstSquawk] Japan raises 10-year JGB coupon to 3.1%, highest in about 30 years - kyodo
+- 10/06 10:48 [FirstSquawk] Trump offers U.S. support following plague death in Russia; WHO says risk is low - CNBC
+- 10/06 10:50 [financialjuice] Anthropic tells Australian parliament it found no unauthorized interactions with government data
+- 10/06 10:51 [FirstSquawk] ANTHROPIC TELLS AUSTRALIA'S PARLIAMENT NO UNAUTHORISED INTERACTIONS WITH GOVERNMENT DATA FOUND
+- 10/06 10:52 [financialjuice] Japan finmin katayama: enough steps in place to cover next year's spending, will engage closely with markets
