@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-06 12:57 JST／対象: 10/05 12:57 〜 10/06 12:57 JST（時刻はすべて日本時間）
+生成: 2026-10-06 13:19 JST／対象: 10/05 13:19 〜 10/06 13:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 68 | 10/05 19:25 | 10/06 09:22 | ⚠ 206分（03:52→07:19） |
-| FirstSquawk | 315 | 10/05 12:59 | 10/06 12:55 | ⚠ 59分（07:02→08:01） |
-| financialjuice | 212 | 10/05 13:03 | 10/06 12:21 | ⚠ 103分（14:12→15:55） |
+| FirstSquawk | 315 | 10/05 13:44 | 10/06 13:17 | ⚠ 59分（07:02→08:01） |
+| financialjuice | 210 | 10/05 13:26 | 10/06 13:17 | ⚠ 103分（14:12→15:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 580 行（統合前 598 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 578 行（統合前 596 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 12:59 [FirstSquawk] Saudi crude accounts for less than 30% of South Korea’s imports for first time in five years - YONHAP
-- 10/05 13:00 [FirstSquawk] Yemen’s military says it launched 1,122 precise operations targeting Houthi militias
-- 10/05 13:03 [financialjuice] EU to restrict Ukraine’s access to agricultural subsidies if it joins bloc - FT
-- 10/05 13:15 [financialjuice] United Arab Emirates S&P Global September Composite PMI steady at 55.3 versus August
-- 10/05 13:15 [financialjuice] Saudi Arabia S&P Global composite PMI at 55.3 in September versus 53.8 in August
 - 10/05 13:26 [financialjuice] India finance minister: US trade deal is a tough and thoroughly negotiated agreement
 - 10/05 13:26 [financialjuice] India finance minister: like to believe India and US have reached plateau in trade deal discussions
 - 10/05 13:26 [financialjuice] India finance minister: beyond this plateau, offering more in trade deal will be very difficult for India and US
@@ -604,3 +599,6 @@
 - 10/06 12:49 [FirstSquawk] INDONESIA'S BENCHMARK INDEX HITS 6,193.54, UP 1.2% AND HIGHEST SINCE SEPT. 28
 - 10/06 12:54 [FirstSquawk] FLYDUBAI CO-PILOT WAS IN NEW ZEALAND NOV. 2018-MAY 2019 ON STUDENT VISA, POLICE SAYS
 - 10/06 12:55 [FirstSquawk] NZ POLICE SAY CO-PILOT CAME TO NEW ZEALAND FOR PART OF HIS FLIGHT TRAINING WITH UK-BASED COMPANY
+- 10/06 13:01 [FirstSquawk] GMO RESEARCH & AI SAYS DATA BREACH MAY HAVE AFFECTED UP TO 948,500 MEMBER RECORDS - KYODO
+- 10/06 13:17 [financialjuice] Ukraine strike kills one, injures six in Moscow region: governor
+- 10/06 13:17 [FirstSquawk] UKRAINIAN STRIKES LEAVE ONE DEAD, SIX INJURED IN MOSCOW REGION, GOVERNOR SAYS

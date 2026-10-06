@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-06 12:57 JST／対象: 10/06 00:57 〜 10/06 12:57 JST（時刻はすべて日本時間）
+生成: 2026-10-06 13:19 JST／対象: 10/06 01:19 〜 10/06 13:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 24 | 10/06 01:10 | 10/06 09:22 | ⚠ 206分（03:52→07:19） |
-| FirstSquawk | 162 | 10/06 00:57 | 10/06 12:55 | ⚠ 59分（07:02→08:01） |
-| financialjuice | 79 | 10/06 01:21 | 10/06 12:21 | ⚠ 87分（06:00→07:27） |
+| DeItaone | 20 | 10/06 01:33 | 10/06 09:22 | ⚠ 206分（03:52→07:19） |
+| FirstSquawk | 160 | 10/06 01:27 | 10/06 13:17 | ⚠ 59分（07:02→08:01） |
+| financialjuice | 80 | 10/06 01:21 | 10/06 13:17 | ⚠ 87分（06:00→07:27） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 259 行（統合前 267 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 254 行（統合前 262 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/06 00:57 [FirstSquawk] CFTC: PLANS TO ESTABLISH A PURPOSE-FIT OPTION FOR CRYPTO-ASSET EXCHANGES THAT WISH TO OPERATE UNDER A SINGLE FEDERAL REGULATORY SCHEME
-- 10/06 01:02 [FirstSquawk] ASTRAZENECA OPENS NEW GLOBAL STRATEGIC R&D CENTER IN KENDALL SQUARE, CAMBRIDGE, MASSACHUSETTS
-- 10/06 01:03 [FirstSquawk] US 30-YEAR TREASURY YIELD RISES TO 5.69%, NEW HIGH SINCE 2002
-- 10/06 01:10 [DeItaone] YIELD ON 30-YEAR U.S. TREASURY BONDS RISES TO FRESH 24-YEAR HIGH OF 5.6959; LAST UP 5.89 BASIS POINTS AT 5.689%
-- 10/06 01:10 [FirstSquawk] TOTALENERGIES CEO SAYS WE ARE NOT FAR FROM INFLECTION POINT FOR OIL DEMAND GROWTH FROM CHINA
-- 10/06 01:17 [DeItaone] *TRUMP TO URGE STATES TO ADDRESS FUEL COSTS: POLITICO
-- 10/06 01:18 [DeItaone] TRUMP PLANS EXECUTIVE ACTION TO LOWER DIESEL COSTS President Trump plans executive actions Monday aimed at reducing diesel prices, including a Treasury review of certain diesel taxes and measures to expand access to tax-exempt dyed diesel, …
-- 10/06 01:19 [DeItaone] *TRUMP TO ASK TREASURY FOR WAYS TO CUT DIESEL PRICES: POLITICO
 - 10/06 01:21 [financialjuice] US Department of Energy: Announces $4.2 billion investment to boost nuclear power and help lower energy costs in Pennsylvania and Ohio.
 - 10/06 01:23 [financialjuice] Iran's Minister of Interior arrives in Doha - IRIB News.
 - 10/06 01:27 [FirstSquawk] FTC CHAIR URGED HEALTHCARE SERVICES FIRMS TO CONDUCT A COMPREHENSIVE REVIEW OF PRICE DISCLOSURE PRACTICES, TAKE SWIFT CORRECTIVE ACTION AS NEEDED
@@ -283,3 +275,6 @@
 - 10/06 12:49 [FirstSquawk] INDONESIA'S BENCHMARK INDEX HITS 6,193.54, UP 1.2% AND HIGHEST SINCE SEPT. 28
 - 10/06 12:54 [FirstSquawk] FLYDUBAI CO-PILOT WAS IN NEW ZEALAND NOV. 2018-MAY 2019 ON STUDENT VISA, POLICE SAYS
 - 10/06 12:55 [FirstSquawk] NZ POLICE SAY CO-PILOT CAME TO NEW ZEALAND FOR PART OF HIS FLIGHT TRAINING WITH UK-BASED COMPANY
+- 10/06 13:01 [FirstSquawk] GMO RESEARCH & AI SAYS DATA BREACH MAY HAVE AFFECTED UP TO 948,500 MEMBER RECORDS - KYODO
+- 10/06 13:17 [financialjuice] Ukraine strike kills one, injures six in Moscow region: governor
+- 10/06 13:17 [FirstSquawk] UKRAINIAN STRIKES LEAVE ONE DEAD, SIX INJURED IN MOSCOW REGION, GOVERNOR SAYS
