@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-06 10:52 JST／対象: 10/06 04:52 〜 10/06 10:52 JST（時刻はすべて日本時間）
+生成: 2026-10-06 11:06 JST／対象: 10/06 05:06 〜 10/06 11:06 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 10/06 07:19 | 10/06 09:22 | ⚠ 103分（07:39→09:22） |
-| FirstSquawk | 76 | 10/06 05:02 | 10/06 10:51 | ⚠ 59分（07:02→08:01） |
-| financialjuice | 21 | 10/06 05:12 | 10/06 10:52 | ⚠ 87分（06:00→07:27） |
+| FirstSquawk | 78 | 10/06 05:07 | 10/06 10:56 | ⚠ 59分（07:02→08:01） |
+| financialjuice | 24 | 10/06 05:12 | 10/06 11:02 | ⚠ 87分（06:00→07:27） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 99 行（統合前 100 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 104 行（統合前 105 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/06 05:02 [FirstSquawk] NASDAQ CLOSES 0.99% HIGHER AT 27,460.49, UP 269.62 POINTS S&P 500 CLOSES 0.66% HIGHER AT 7,773.48, UP 50.76 POINTS DOW JONES CLOSES 0.17% HIGHER AT 51,266.15, UP 89.19 POINTS
 - 10/06 05:07 [FirstSquawk] MCKESSON AND CD&R NEAR DEAL WORTH MORE THAN $5B TO BUY INFUSION SERVICES PROVIDER OPTION CARE HEALTH - FT
 - 10/06 05:12 [financialjuice] Yemen's Houthis: They carried out three military operations in Saudi Arabia.
 - 10/06 05:12 [FirstSquawk] ABBVIE SAYS ITS FULL-YEAR 2026 ADJUSTED DILUTED EPS GUIDANCE RANGE INCLUDING BOUGHT IPR&D IS $13.76-$13.96 — BELOW THE $14.02 IBES VIEW — WITH Q3 2026 ADJUSTED DILUTED EPS GUIDANCE OF $3.73-$3.77 VERSUS A $3.84 VIEW.
@@ -123,3 +122,9 @@
 - 10/06 10:50 [financialjuice] Anthropic tells Australian parliament it found no unauthorized interactions with government data
 - 10/06 10:51 [FirstSquawk] ANTHROPIC TELLS AUSTRALIA'S PARLIAMENT NO UNAUTHORISED INTERACTIONS WITH GOVERNMENT DATA FOUND
 - 10/06 10:52 [financialjuice] Japan finmin katayama: enough steps in place to cover next year's spending, will engage closely with markets
+- 10/06 10:53 [FirstSquawk] JAPAN FINMIN KATAYAMA: GOVERNMENT HAS SUFFICIENT MEASURES FOR NEXT YEAR'S BUDGET SPENDING NEEDS
+- 10/06 10:54 [FirstSquawk] SOUTH KOREA DEFENCE MINISTRY: PREPARING MEASURES TO SEEK NORTH KOREAN APOLOGY OVER MINE BLAST
+- 10/06 10:54 [financialjuice] South Korea defence ministry: preparing measures to compel North Korea to apologise for mine blast that injured South Korean soldiers
+- 10/06 10:56 [financialjuice] South Korea defence ministry: North Korea must clear mines planted in DMZ border
+- 10/06 10:56 [FirstSquawk] SOUTH KOREA DEFENCE MINISTRY: NORTH KOREA MUST REMOVE MINES PLANTED IN DMZ
+- 10/06 11:02 [financialjuice] Separatist party wins minority of seats in Quebec election, Radio-Canada predicts
