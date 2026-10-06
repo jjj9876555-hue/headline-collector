@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-06 11:47 JST／対象: 10/05 23:47 〜 10/06 11:47 JST（時刻はすべて日本時間）
+生成: 2026-10-06 12:00 JST／対象: 10/06 00:00 〜 10/06 12:00 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 29 | 10/05 23:55 | 10/06 09:22 | ⚠ 206分（03:52→07:19） |
-| FirstSquawk | 156 | 10/05 23:50 | 10/06 11:40 | ⚠ 59分（07:02→08:01） |
-| financialjuice | 98 | 10/05 23:55 | 10/06 11:42 | ⚠ 87分（06:00→07:27） |
+| DeItaone | 28 | 10/06 00:08 | 10/06 09:22 | ⚠ 206分（03:52→07:19） |
+| FirstSquawk | 156 | 10/06 00:06 | 10/06 12:00 | ⚠ 59分（07:02→08:01） |
+| financialjuice | 96 | 10/06 00:02 | 10/06 11:42 | ⚠ 87分（06:00→07:27） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 275 行（統合前 285 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 273 行（統合前 282 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/05 23:50 [FirstSquawk] PETRONAS CEO SAYS LNG MARKET THIS WINTER IS GOING TO BE VERY, VERY TIGHT ESPECIALLY IF EUROPE'S GAS STORAGE GETS LOWER
-- 10/05 23:53 [FirstSquawk] PETRONAS CEO SAYS IF LNG PRICE HITS $40-$50 MMBTU PEOPLE MAY START SWITCHING TO OTHER FORMS OF ENERGY
-- 10/05 23:55 [DeItaone/FirstSquawk] *IRAN SAYS ENEMY’S NEXT MISTAKE WILL BRING NEW FRONTS, SURPRISES
-- 10/05 23:55 [financialjuice] Iran: The enemy’s next mistake will bring new fronts and surprises.
-- 10/05 23:56 [financialjuice] French Unions call for a nationwide day of strikes on November 5th.
-- 10/06 00:00 [FirstSquawk] NASDAQ 100 RISES MORE THAN 0.6% TO SESSION HIGH
 - 10/06 00:02 [financialjuice] US VP Vance: We're looking at procedures in the US after the FlyDubai incident.
 - 10/06 00:02 [financialjuice] US VP Vance on the FlyDubai incident: We haven't seen anything conclusive yet on ties to Iran.
 - 10/06 00:04 [financialjuice] US VP Vance: The US pulled bombers from UK base out of caution.
@@ -299,3 +293,7 @@
 - 10/06 11:40 [FirstSquawk] KIWI DOLLAR CONSOLIDATES NEAR 0.5600, CLOSE TO YTD LOW AMID STRONG USD - FX
 - 10/06 11:41 [financialjuice] Moonshot Eyes early 2027 IPO after valuation reaches $50 billion
 - 10/06 11:42 [financialjuice] Moonshot targets early 2027 IPO after valuation reaches $50 billion
+- 10/06 11:49 [FirstSquawk] YEN STABILISES AS JAPAN'S FISCAL EXPANSION FUELS UNCERTAINTY OVER RATE HIKES - FX
+- 10/06 11:56 [FirstSquawk] JPMORGAN RAISES BLACKROCK PRICE TARGET TO $1,435 VS $1,364 PREVIOUSLY
+- 10/06 11:56 [FirstSquawk] ADNOC L&S PLACES $324 MILLION ORDER FOR THREE ADDITIONAL GAS CARRIERS
+- 10/06 12:00 [FirstSquawk] ADNOC L&S: EACH VESSEL WILL HAVE 90,000-CUBIC-METRE CAPACITY, DELIVERIES SET FOR 2H 2029

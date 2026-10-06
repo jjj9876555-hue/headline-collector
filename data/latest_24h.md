@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-06 11:47 JST／対象: 10/05 11:47 〜 10/06 11:47 JST（時刻はすべて日本時間）
+生成: 2026-10-06 12:00 JST／対象: 10/05 12:00 〜 10/06 12:00 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 68 | 10/05 19:25 | 10/06 09:22 | ⚠ 206分（03:52→07:19） |
-| FirstSquawk | 309 | 10/05 12:37 | 10/06 11:40 | ⚠ 59分（07:02→08:01） |
+| FirstSquawk | 313 | 10/05 12:37 | 10/06 12:00 | ⚠ 59分（07:02→08:01） |
 | financialjuice | 212 | 10/05 12:05 | 10/06 11:42 | ⚠ 103分（14:12→15:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 574 行（統合前 592 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 578 行（統合前 596 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -598,3 +598,7 @@
 - 10/06 11:40 [FirstSquawk] KIWI DOLLAR CONSOLIDATES NEAR 0.5600, CLOSE TO YTD LOW AMID STRONG USD - FX
 - 10/06 11:41 [financialjuice] Moonshot Eyes early 2027 IPO after valuation reaches $50 billion
 - 10/06 11:42 [financialjuice] Moonshot targets early 2027 IPO after valuation reaches $50 billion
+- 10/06 11:49 [FirstSquawk] YEN STABILISES AS JAPAN'S FISCAL EXPANSION FUELS UNCERTAINTY OVER RATE HIKES - FX
+- 10/06 11:56 [FirstSquawk] JPMORGAN RAISES BLACKROCK PRICE TARGET TO $1,435 VS $1,364 PREVIOUSLY
+- 10/06 11:56 [FirstSquawk] ADNOC L&S PLACES $324 MILLION ORDER FOR THREE ADDITIONAL GAS CARRIERS
+- 10/06 12:00 [FirstSquawk] ADNOC L&S: EACH VESSEL WILL HAVE 90,000-CUBIC-METRE CAPACITY, DELIVERIES SET FOR 2H 2029
