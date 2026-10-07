@@ -7,92 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-07 07:46 JST／対象: 10/06 07:46 〜 10/07 07:46 JST（時刻はすべて日本時間）
+生成: 2026-10-07 10:51 JST／対象: 10/06 10:51 〜 10/07 10:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 69 | 10/06 09:22 | 10/07 07:34 | ⚠ 583分（09:22→19:05） |
-| FirstSquawk | 302 | 10/06 08:01 | 10/07 07:13 | ⚠ 61分（14:16→15:18） |
-| financialjuice | 274 | 10/06 08:30 | 10/07 07:36 | ⚠ 126分（14:05→16:12） |
+| DeItaone | 68 | 10/06 19:05 | 10/07 07:34 | ⚠ 81分（00:48→02:10） |
+| FirstSquawk | 283 | 10/06 10:53 | 10/07 10:47 | ⚠ 62分（07:13→08:15） |
+| financialjuice | 278 | 10/06 10:52 | 10/07 10:40 | ⚠ 126分（14:05→16:12） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 631 行（統合前 648 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 615 行（統合前 632 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/06 08:01 [FirstSquawk] AUSTRALIAN ARMY SOLDIER DIES, FIVE OTHERS HURT IN TRAINING EXERCISE IN NORTHERN AUSTRALIA: ABC NEWS
-- 10/06 08:06 [FirstSquawk] SOUTH KOREA POLICE INVESTIGATE CYBERATTACKS TARGETING COMMERCIAL BANKS — YONHAP
-- 10/06 08:29 [FirstSquawk] AUSTRALIA TREASURER CHALMERS: PUSHING FOR GREATER MARKET ACCESS IN JAPAN AMID STRONG JAPANESE INVESTMENT INTEREST; HIGHER BORROWING COSTS TO HIT BUDGET
-- 10/06 08:29 [FirstSquawk] AUSTRALIA TREASURER CHALMERS: PRIVATE SECTOR LEADING ECONOMIC GROWTH, OUTLOOK POSITIVE; PRODUCTIVITY REMAINS A LONG-STANDING CHALLENGE
-- 10/06 08:30 [financialjuice] Australia Oct Westpac-MI consumer confidence index falls 4.7% to 80.4
-- 10/06 08:33 [FirstSquawk] AUSTRALIA'S OCTOBER WESTPAC-MI CONSUMER CONFIDENCE INDEX FELL 4.7% TO 80.4, AFTER A 5.2% DECLINE PREVIOUSLY
-- 10/06 08:34 [FirstSquawk] KKR IS TO ACQUIRE GEN II FUND SERVICES FROM HG, GENERAL ATLANTIC AND OTHER MINORITY INVESTORS FOR AN ENTERPRISE VALUE OF $5.10 BLN, WITH THE GEN II LEADERSHIP TEAM LED BY CEO STEVEN MILLNER TO CONTINUE.
-- 10/06 08:34 [FirstSquawk] KKR SAYS THE DEAL IS EXPECTED TO CLOSE IN 2027, SUBJECT TO REGULATORY APPROVALS.
-- 10/06 08:39 [FirstSquawk] BC PARTNERS CREDIT HAS ANNOUNCED AN INITIAL INVESTMENT IN LIV GOLF, MARKING WHAT IT CALLS THE NEXT STEP TOWARD A FINANCIALLY STRONG, TEAM-FOCUSED GOLF LEAGUE, WITH THE INVESTMENT THE FIRST PART OF A TARGETED $300 MLN IN CUMULATIVE FINANCING…
-- 10/06 08:39 [FirstSquawk] BC PARTNERS SAYS THE NEXT PHASE OF LIV GOLF, OR LIV GOLF 2.0, WILL FEATURE PLAYERS PARTICIPATING AS EQUITY OWNERS OF BOTH THE LEAGUE AND THE TEAMS.
-- 10/06 08:56 [financialjuice] Trump tonight: will sign order to waive off-road rule allowing anyone to buy tax-free red-dyed diesel
-- 10/06 08:57 [financialjuice] Trump signs directive on red-dyed diesel
-- 10/06 08:57 [FirstSquawk] TRUMP SAYS HE WILL SIGN AN ORDER TONIGHT TO WAIVE THE OFF-ROAD REQUIREMENT TO ALLOW ANYONE TO PURCHASE TAX-FREE RED-DYED DIESEL, AND HAS SIGNED THE ORDER ON RED-DYED DIESEL
-- 10/06 08:57 [FirstSquawk] U.S. PRESIDENT TRUMP SAYS ON IRAN THAT 'WE ARE KICKING IRAN'S ASS', CALLING HIS WAR WITH IRAN SOMETHING THAT IS 'SAVING THE WORLD', AND SAYS THAT BEFORE THE WAR HE PASSED A GAS STATION AT '$1.85 A GALLON' AND 'WE WILL HAVE IT LOWER THAN THA…
-- 10/06 08:57 [FirstSquawk] U.S. PRESIDENT TRUMP SAYS OF THE IRAN WAR THAT 'IT'S JUST ARTIFICIAL' AND PRICES ARE 'A LITTLE BIT HIGH', CALLING IT 'A SMALL PRICE TO PAY FOR KEEPING THE WORLD SAFE' AND SAYING IT IS 'ESSENTIALLY ALMOST OVER WITH', WHILE ON VENEZUELA HE SA…
-- 10/06 08:57 [FirstSquawk] Trump signs executive order targeting red-dyed diesel
-- 10/06 08:57 [FirstSquawk] U.S. PRESIDENT TRUMP SAYS 'THE WAR WILL END VERY QUICKLY, AND PRICES ARE GOING TO COME DOWN VERY SHARPLY', ADDING THAT CRITICS 'ATTACKED ME, IMPEACHED ME, ARRESTED ME, AND THEY'VE EVEN TRIED TO KILL ME', AND THAT IN THE ELECTION HE'LL ASK V…
-- 10/06 08:58 [FirstSquawk] TRUMP: RUSSIA IS LOSING MANY REFINERIES DUE TO UKRAINE, CONTRIBUTING TO DIESEL SUPPLY PRESSURE
-- 10/06 09:07 [FirstSquawk] TRUMP SAYS 'THE RADICAL LEFT IS UPSET WITH THE FACT THAT I AM TAKING ADS', WHICH HE CONSIDERS 'A POSITIVE PROMOTION FOR OUR GREAT U.S.A.', AND PAYING FOR THEM WITH 'U.S.A. MONEY', CALLING IT 'A RATHER STANDARD THING TO DO'. - TRUTH SOCIAL
-- 10/06 09:07 [FirstSquawk] TRUMP SAYS THAT RATHER THAN DOING THAT, 'ALTHOUGH NOTHING WILL MAKE THEM HAPPY', HE HAS 'DECIDED TO DO THE PATRIOTIC ADS, AMONG OTHERS, AND PAY FOR THEM MYSELF, AND WITH MONEY I RAISED FOR MAGA, INC.' - TRUTH SOCIAL
-- 10/06 09:07 [FirstSquawk] RUSSIA'S FOREIGN MINISTER LAVROV SAYS ON AFGHANISTAN THAT 'THE POWERFUL MILITARY MACHINE OF THE UNITED STATES AND ITS NATO ALLIES BROKE AGAINST THE FIGHTING SPIRIT AND RESILIENCE OF THE AFGHAN PEOPLE', SAYING 'THE OCCUPIERS WERE FORCED TO F…
-- 10/06 09:07 [FirstSquawk] RUSSIA'S FOREIGN MINISTER LAVROV SAYS 'AFGHAN SECURITY FORCES ARE WAGING AN UNCOMPROMISING FIGHT AGAINST ISLAMIC STATE AND OTHER TERRORIST GROUPS', ADDING THAT 'IT IS IN OUR COMMON INTEREST TO HELP STRENGTHEN KABUL'S COUNTERTERRORISM CAPABI…
-- 10/06 09:12 [FirstSquawk] 10-year Japanese government bond yield gains 3 bps to 3.115%
-- 10/06 09:12 [FirstSquawk] 2-year Japanese government bond yield gains 2 bps to 1.925%
-- 10/06 09:14 [FirstSquawk] Moscow Oblast reportedly comes under mass Ukrainian drone attack
-- 10/06 09:17 [FirstSquawk] Saudi-supported forces launch offensive to regain control of Bab al-Mandeb - WSJ
-- 10/06 09:17 [FirstSquawk] Trump says MAGA Inc. will fund promotional TV ad campaign instead of taxpayers - CNN
-- 10/06 09:18 [FirstSquawk] Oil companies face Supreme Court scrutiny over bid to stop climate lawsuits - WSJ
-- 10/06 09:22 [FirstSquawk] South Korean stocks open higher following U.S. tech rally
-- 10/06 09:22 [DeItaone] *TRUMP: CHINA WILL BE DOUBLING UP WHAT THEY’RE BUYING
-- 10/06 09:23 [FirstSquawk] North Korea reviews third-quarter economic performance at expanded Cabinet meeting - YONHAP
-- 10/06 09:23 [FirstSquawk] THE U.S. EVACUATED 12 B-1 BOMBERS FROM RAF FAIRFORD IN THE UK AFTER INTELLIGENCE INDICATED A POSSIBLE IRANIAN DRONE ATTACK ON THE BASE, WITH BRITISH AUTHORITIES HAVING ALSO ARRESTED SEVERAL DUAL BRITISH-IRANIAN CITIZENS SUSPECTED OF PLANNIN…
-- 10/06 09:23 [FirstSquawk] TRUMP CONFIRMED THE BOMBERS WERE MOVED BECAUSE OF AN IRANIAN SECURITY THREAT, CONTRADICTING RUBIO, WHO HAD INITIALLY DESCRIBED THE MOVE AS A ROUTINE ROTATION - AXIOS
-- 10/06 09:29 [FirstSquawk] ASIAN STOCKS GAINED MODESTLY AFTER NVIDIA AND MICROSOFT LED A TECH RALLY THAT PUSHED THE S&P 500 CLOSE TO A RECORD, WITH MSCI ASIA PACIFIC UP 0.1% AND JAPAN'S TOPIX AND AUSTRALIA'S ASX 200 GAINING 0.3%.
-- 10/06 09:29 [FirstSquawk] BOND YIELDS REMAINED A MAJOR CONCERN, WITH U.S. 10-YEAR AND 30-YEAR YIELDS REACHING 5.34% AND 5.70%, THEIR HIGHEST SINCE 2002, AS INVESTORS STAYED FOCUSED ON STRONG EARNINGS, RESILIENT CONSUMER SPENDING AND BOOMING AI INVESTMENT DESPITE HIG…
-- 10/06 09:29 [FirstSquawk] BRENT HELD AROUND $100.30 WHILE WTI FELL 0.2% TO $89.25, WITH GOLD SLIPPING 0.1% TO $4,134, BITCOIN NEAR $85,807 AND THE EURO REMAINING WEAK AMID EUROPEAN POLITICAL AND FISCAL CONCERNS.
-- 10/06 09:30 [financialjuice] Hong Kong s&p global september pmi at 49.2 vs 49.5 in august
-- 10/06 09:32 [FirstSquawk] Hong Kong September PMI drops to 49.2 from August's 49.5
-- 10/06 09:33 [FirstSquawk] OpenAI's spending retreat faces pushback from AI safety groups - POLITICO
-- 10/06 09:37 [FirstSquawk] Australia ANZ-Indeed job advertisements increase 2.2% M/M in September
-- 10/06 09:38 [financialjuice] Separatist party wins Quebec election, predicts public broadcaster Radio-Canada
-- 10/06 09:38 [financialjuice] Too early to say if Quebec separatist party has won majority or minority : Radio-Canada
-- 10/06 09:38 [FirstSquawk] Quebec separatists' majority or minority status remains unclear — Radio-Canada
-- 10/06 09:43 [FirstSquawk] Beijing sought greater results from Xi's Washington state visit - SCMP
-- 10/06 09:47 [FirstSquawk] 30-year Japanese government bond yield hits record 4.24%, up 1 bp
-- 10/06 09:47 [FirstSquawk] 5-year Japanese government bond yield gains 3 bps to 2.39%
-- 10/06 09:48 [FirstSquawk] FBI removes Accenture contractor following damaging data breach, Reuters says
-- 10/06 09:54 [FirstSquawk] Yemeni News Agency says 250 Houthi fighters were killed or wounded in Taiz fighting
-- 10/06 10:00 [financialjuice] Taiwan overnight interbank rate opens at 0.805% vs previous session at 0.805%
-- 10/06 10:01 [FirstSquawk] Taiwan overnight rate opens flat at 0.805%
-- 10/06 10:02 [FirstSquawk] Fitch moves Sekisui House U.S. outlook to negative; 'BBB-' IDR affirmed
-- 10/06 10:05 [FirstSquawk] Australian equities set to extend gains for third day as oil prices fall and risk appetite improves
-- 10/06 10:08 [FirstSquawk] 20-year Japanese government bond yield gains 1 bp to 3.98%
-- 10/06 10:09 [financialjuice] S.Korea finmin: economic expansion projected at 3% level this year
-- 10/06 10:09 [FirstSquawk] S.Korea finance minister says economy likely to grow around 3% this year
-- 10/06 10:12 [FirstSquawk] S.Korea President Lee: AI suspected in some hacking attacks
-- 10/06 10:13 [FirstSquawk] S.Korea President Lee says some recent cyberattacks on banks involved AI models
-- 10/06 10:13 [financialjuice] S. Korea finance minister: to strive for foreign exchange market stability
-- 10/06 10:13 [FirstSquawk] S.Korea finance minister pledges measures to stabilise foreign exchange market
-- 10/06 10:14 [FirstSquawk] S.Korea President Lee urges development of cybersecurity tools fit for AI era
-- 10/06 10:16 [financialjuice] Google, Constellation close to billion-dollar agreement for nuclear energy
-- 10/06 10:22 [FirstSquawk] Asia-Pac stocks start mostly higher following broad Wall St gains, Nasdaq at record
-- 10/06 10:28 [FirstSquawk] Taiwan benchmark index climbs 0.5% to fresh record high of 49,968.92
-- 10/06 10:30 [FirstSquawk] Japan launches ¥2.6 trillion 10-year JGB offering with 3.100% coupon
-- 10/06 10:33 [FirstSquawk] Hong Kong challenged HSBC on its decision to establish AI hub in Singapore: FT
-- 10/06 10:43 [FirstSquawk] Japan raises 10-year JGB coupon to 3.1%, highest in about 30 years - kyodo
-- 10/06 10:48 [FirstSquawk] Trump offers U.S. support following plague death in Russia; WHO says risk is low - CNBC
-- 10/06 10:50 [financialjuice] Anthropic tells Australian parliament it found no unauthorized interactions with government data
-- 10/06 10:51 [FirstSquawk] ANTHROPIC TELLS AUSTRALIA'S PARLIAMENT NO UNAUTHORISED INTERACTIONS WITH GOVERNMENT DATA FOUND
 - 10/06 10:52 [financialjuice] Japan finmin katayama: enough steps in place to cover next year's spending, will engage closely with markets
 - 10/06 10:53 [FirstSquawk] JAPAN FINMIN KATAYAMA: GOVERNMENT HAS SUFFICIENT MEASURES FOR NEXT YEAR'S BUDGET SPENDING NEEDS
 - 10/06 10:54 [FirstSquawk] SOUTH KOREA DEFENCE MINISTRY: PREPARING MEASURES TO SEEK NORTH KOREAN APOLOGY OVER MINE BLAST
@@ -655,3 +586,56 @@
 - 10/07 07:36 [financialjuice] US vice president Vance: Iran must reduce nuclear enrichment capacity to end war - source interview
 - 10/07 07:36 [financialjuice] US Vice President Vance: undecided about presidential run - source interview
 - 10/07 07:36 [financialjuice] US vice president vance: unclear how Iran makes decisions - source interview
+- 10/07 08:00 [financialjuice] Tankan: Japan manufacturers January index expected at 23, non-manufacturers at 21
+- 10/07 08:00 [financialjuice] Tankan: Japan manufacturers gauge rises to 22 in October vs 21 in September
+- 10/07 08:15 [FirstSquawk] SATO SAYS THE BANK MUST SET MONETARY POLICY INDEPENDENTLY WHILE ALIGNING WITH THE ADMINISTRATION'S PROACTIVE FISCAL POLICY, ADDING THAT PRICE RISKS TILT SLIGHTLY HIGHER ON RISING OIL COSTS FROM THE MIDDLE EAST CONFLICT - KYODO
+- 10/07 08:16 [FirstSquawk] U.S. VICE PRESIDENT VANCE SAYS IRAN MUST REDUCE ITS NUCLEAR ENRICHMENT CAPACITY TO END THE WAR, ADDING THAT IT IS UNCLEAR HOW IRAN MAKES DECISIONS.
+- 10/07 08:16 [FirstSquawk] U.S. VICE PRESIDENT VANCE SAYS HE IS UNDECIDED ABOUT A PRESIDENTIAL RUN - SOURCE INTERVIEW
+- 10/07 08:25 [financialjuice] AIG CONSTRUCTION INDEX ACTUAL -34.5 (FORECAST -, PREVIOUS -6.9) $MACRO
+- 10/07 08:26 [financialjuice] AIG MANUFACTURING INDEX ACTUAL 28.0 (FORECAST -, PREVIOUS -16.6) $MACRO
+- 10/07 08:26 [FirstSquawk] AUSTRALIA'S AIG MANUFACTURING INDEX ROSE TO 28.0 FROM -16.6, WHILE THE CONSTRUCTION INDEX FELL TO -34.5 FROM -6.9
+- 10/07 08:27 [FirstSquawk] BHP IS ASSESSING OPTIONS FOR ITS WESTERN AUSTRALIA NICKEL ASSETS, INCLUDING DIVESTMENT, WITH OPERATIONS REMAINING TEMPORARILY SUSPENDED AND A DECISION TO BE REVIEWED BY FEBRUARY 2027, SOURCES SAY.
+- 10/07 08:27 [FirstSquawk] BHP HAS AGREED TO SELL THE KAMBALDA NICKEL CONCENTRATOR TO GOLD FIELDS, WITH THE DEAL EXPECTED TO CLOSE IN 2027.
+- 10/07 08:28 [FirstSquawk] OPENAI SAYS IT WILL RELEASE THE INTERNAL FRONTIER MODEL BEHIND NEW MATHEMATICAL RESULTS RESPONSIBLY, HAVING PUBLISHED A BROAD RANGE OF RESULTS PRODUCED BY THE MODEL
+- 10/07 08:30 [financialjuice] JAPANESE AVERAGE CASH EARNINGS YOY ACTUAL 3.8% (FORECAST 3.7%, PREVIOUS 4.7%) $MACRO
+- 10/07 08:30 [financialjuice] JAPANESE OVERTIME PAY ACTUAL 5.2% (FORECAST -, PREVIOUS 3.1% ,REVISION 4.5%) $MACRO
+- 10/07 08:30 [financialjuice] Japan August total cash earnings rose 3.8% yr/yr: govt
+- 10/07 08:30 [financialjuice] Japan August inflation-adjusted real wages rise 1.5% yr/yr: govt
+- 10/07 08:30 [financialjuice] Japan August overtime pay rises 5.2% year on year: govt
+- 10/07 08:43 [FirstSquawk] PARAMOUNT CEO ELLISON SAYS THE LONG-TERM PLAN IS TO COMBINE PARAMOUNT+ AND HBO MAX, ADDING THAT HE DOES NOT WANT TO POLITICISE THE COMPANY
+- 10/07 08:48 [FirstSquawk] U.S. VICE PRESIDENT JD VANCE SAYS IRAN MUST MAKE A 'MEANINGFUL' REDUCTION IN ITS NUCLEAR ENRICHMENT CAPACITY TO END THE SEVEN-MONTH WAR, ARGUING THAT TEHRAN CANNOT CLAIM IT DOES NOT WANT A NUCLEAR WEAPON WHILE ENRICHING URANIUM TO 60%.
+- 10/07 08:48 [FirstSquawk] U.S. VICE PRESIDENT JD VANCE SAYS THE U.S. IS NEGOTIATING WITH IRANIAN PRESIDENT MASOUD PEZESHKIAN AND FOREIGN MINISTER ABBAS ARAGHCHI, BUT THAT WASHINGTON IS UNSURE HOW MUCH AUTHORITY THEY HOLD OR WHO ULTIMATELY MAKES DECISIONS IN TEHRAN.
+- 10/07 08:49 [FirstSquawk] U.S. VICE PRESIDENT JD VANCE SAYS THE U.S. REMAINS OPEN TO A DEAL BUT WANTS CONCRETE NUCLEAR CONCESSIONS, DECLARING 'WE'RE NOT GOING TO TRADE WORDS FOR ACTIONS'.
+- 10/07 08:50 [financialjuice] Japan foreign reserves $1.18 trillion at end-September, down from $1.21 trillion at end-August: MOF
+- 10/07 09:17 [FirstSquawk] Ballistic missiles launched by Russia target Kyiv, Ukraine
+- 10/07 09:18 [FirstSquawk] EUROPEAN STOCK FUTURES SLIP: EUROSTOXX 50 -0.4%, DAX -0.4%, FTSE FLAT
+- 10/07 09:19 [FirstSquawk] TWO TOP TRUMP ADVISERS, JAMES BLAIR AND CHRIS LACIVITA, TRAVELED TO BOSNIA'S REPUBLIKA SRPSKA TO PROVIDE ELECTION ADVICE TO ITS RUSSIA-ALIGNED GOVERNMENT WHILE SIMULTANEOUSLY LEADING REPUBLICAN EFFORTS FOR THE U.S. MIDTERMS, AND WERE REPORT…
+- 10/07 09:19 [FirstSquawk] REPUBLIKA SRPSKA, LED POLITICALLY BY MILORAD DODIK'S NATIONALIST PARTY, HAS CULTIVATED CLOSE TIES WITH PUTIN WHILE ALSO COURTING TRUMP AND HIS ALLIES, WITH TRUMP-LINKED LOBBYISTS AND OPERATIVES HAVING RECEIVED MORE THAN $4 MLN FROM THE REPU…
+- 10/07 09:20 [FirstSquawk] SAMSUNG SAYS SAMSUNG WALLET NOW SUPPORTS DIGITAL KEYS FOR SELECT GM VEHICLES, STARTING WITH SELECT 2026 AND 2027 CADILLAC EVS
+- 10/07 09:20 [financialjuice] Explosions heard in Ukraine's Kyiv: source witness
+- 10/07 09:21 [FirstSquawk] Asia-Pac equities are mostly subdued at the open, despite Wall St extending gains with the S&P 500 and Nasdaq reaching new all-time highs as yields eased
+- 10/07 09:24 [FirstSquawk] Russian Kalibr Missiles Launched From Sea, Ukraine Says
+- 10/07 09:27 [FirstSquawk] US PREPARING FORMAL REQUEST TO RUSSIA FOR DETAILS ON PLAGUE RESEARCH CENTRE DEATH - WP
+- 10/07 09:28 [financialjuice] US vice president Vance: Iran must reduce nuclear enrichment capacity to end war
+- 10/07 09:28 [financialjuice] Two missiles fired by Houthis strike Yemen's Aden International Airport: Aden security authority media office
+- 10/07 09:28 [financialjuice] No casualties reported in missile strike on Yemen's Aden international airport: Aden security authority media office
+- 10/07 09:28 [FirstSquawk] Brent oil futures gain $1 to $101.60/bbl on concerns over supply constraints
+- 10/07 09:29 [FirstSquawk] Yemen’s Aden International Airport Attacked by Two Houthi-Launched Missiles
+- 10/07 09:29 [FirstSquawk] Yemen’s Aden International Airport Missile Attack Reportedly Causes No Casualties
+- 10/07 09:40 [FirstSquawk] Asian Currencies Consolidate, With Risk-On Sentiment Offering Potential Support - WSJ
+- 10/07 09:41 [FirstSquawk] 5-Year JGB Yield Eases 0.5 Basis Points to 2.385%
+- 10/07 09:45 [FirstSquawk] Gold Slips as Markets Await Minutes From the Fed’s Latest Meeting - WSJ
+- 10/07 09:49 [FirstSquawk] China’s Economic Growth Expected to Ease as Global Economy Holds Up, US Think Tank Says
+- 10/07 09:52 [FirstSquawk] Ukrainian Channels Say At Least Six Tu-95MS Bombers From Olenya Airfield Are Airborne, Moving to Launch Positions
+- 10/07 10:02 [FirstSquawk] 30-Year JGB Yield Eases 3.0 Basis Points to 4.205%
+- 10/07 10:12 [FirstSquawk] EU wants to track potential rogue efforts to block out the sun - SCMP
+- 10/07 10:19 [FirstSquawk] Trump Says Becton Dickinson Will Invest $3 Billion in US Manufacturing Before Medical Device Tariffs Take Effect- Benzinga
+- 10/07 10:22 [FirstSquawk] South Korean Shares Start Lower Despite Easing Oil Prices and Bond Yields
+- 10/07 10:23 [FirstSquawk] Thai Graduates Face Tougher Job Market as AI Boom Accelerates
+- 10/07 10:31 [FirstSquawk] North Korea Accuses US of Escalating Regional Tensions While Defending Beijing’s ‘One China’ Policy - YONHAP
+- 10/07 10:35 [FirstSquawk] Four Major Japanese Beer Makers Raided Over Suspected Anti-Monopoly Law Breaches, Nikkei Reports
+- 10/07 10:36 [FirstSquawk] Hong Kong Biotech Stocks Slide Further, Hang Seng Biotech Index Down Over 3%
+- 10/07 10:38 [FirstSquawk] Alibaba’s Hong Kong-Listed Shares Down 2%
+- 10/07 10:40 [financialjuice] S. Korea central bank: sells 1-year monetary stabilisation bonds at 3.55% yield
+- 10/07 10:40 [FirstSquawk] South Korea Central Bank Sells 1-Year Monetary Stabilisation Bonds at 3.550%
+- 10/07 10:47 [FirstSquawk] More Japanese Companies Report Customer Data Breaches as Unauthorized Access Spreads
