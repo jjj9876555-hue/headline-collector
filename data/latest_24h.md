@@ -7,152 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-07 10:51 JST／対象: 10/06 10:51 〜 10/07 10:51 JST（時刻はすべて日本時間）
+生成: 2026-10-07 16:45 JST／対象: 10/06 16:45 〜 10/07 16:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 68 | 10/06 19:05 | 10/07 07:34 | ⚠ 81分（00:48→02:10） |
-| FirstSquawk | 283 | 10/06 10:53 | 10/07 10:47 | ⚠ 62分（07:13→08:15） |
-| financialjuice | 278 | 10/06 10:52 | 10/07 10:40 | ⚠ 126分（14:05→16:12） |
+| FirstSquawk | 278 | 10/06 17:01 | 10/07 16:44 | ⚠ 134分（10:47→13:01） |
+| financialjuice | 278 | 10/06 16:48 | 10/07 16:43 | ⚠ 87分（12:16→13:44） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 615 行（統合前 632 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 610 行（統合前 627 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/06 10:52 [financialjuice] Japan finmin katayama: enough steps in place to cover next year's spending, will engage closely with markets
-- 10/06 10:53 [FirstSquawk] JAPAN FINMIN KATAYAMA: GOVERNMENT HAS SUFFICIENT MEASURES FOR NEXT YEAR'S BUDGET SPENDING NEEDS
-- 10/06 10:54 [FirstSquawk] SOUTH KOREA DEFENCE MINISTRY: PREPARING MEASURES TO SEEK NORTH KOREAN APOLOGY OVER MINE BLAST
-- 10/06 10:54 [financialjuice] South Korea defence ministry: preparing measures to compel North Korea to apologise for mine blast that injured South Korean soldiers
-- 10/06 10:56 [financialjuice] South Korea defence ministry: North Korea must clear mines planted in DMZ border
-- 10/06 10:56 [FirstSquawk] SOUTH KOREA DEFENCE MINISTRY: NORTH KOREA MUST REMOVE MINES PLANTED IN DMZ
-- 10/06 11:02 [financialjuice] Separatist party wins minority of seats in Quebec election, Radio-Canada predicts
-- 10/06 11:07 [FirstSquawk] FRANCE'S ‘MAGIC MONEY’ BET HAS BECOME A GROWING DEBT CRISIS - WSJ
-- 10/06 11:09 [FirstSquawk] TAIWAN DOLLAR RISES TO 31.699 PER U.S. DOLLAR, STRONGEST SINCE SEPT. 23
-- 10/06 11:16 [financialjuice] Ukraine dispatched 650 drones to Russia's Moscow region overnight, Moscow mayor says
-- 10/06 11:16 [FirstSquawk] MOSCOW MAYOR SAYS 650 UKRAINIAN DRONES WERE SENT TOWARD MOSCOW REGION OVERNIGHT
-- 10/06 11:26 [FirstSquawk] SEOUL FOREIGN VISITOR NUMBERS CLIMB 22% IN FIRST EIGHT MONTHS; CARD SPENDING SURGES 60% - YONHAP
-- 10/06 11:32 [FirstSquawk] S.KOREA'S 2-YEAR TREASURY BONDS SOLD AT 3.895% YIELD — FINANCE MINISTRY
-- 10/06 11:40 [FirstSquawk] KIWI DOLLAR CONSOLIDATES NEAR 0.5600, CLOSE TO YTD LOW AMID STRONG USD - FX
-- 10/06 11:41 [financialjuice] Moonshot Eyes early 2027 IPO after valuation reaches $50 billion
-- 10/06 11:42 [financialjuice] Moonshot targets early 2027 IPO after valuation reaches $50 billion
-- 10/06 11:49 [FirstSquawk] YEN STABILISES AS JAPAN'S FISCAL EXPANSION FUELS UNCERTAINTY OVER RATE HIKES - FX
-- 10/06 11:56 [FirstSquawk] JPMORGAN RAISES BLACKROCK PRICE TARGET TO $1,435 VS $1,364 PREVIOUSLY
-- 10/06 11:56 [FirstSquawk] ADNOC L&S PLACES $324 MILLION ORDER FOR THREE ADDITIONAL GAS CARRIERS
-- 10/06 12:00 [FirstSquawk] ADNOC L&S: EACH VESSEL WILL HAVE 90,000-CUBIC-METRE CAPACITY, DELIVERIES SET FOR 2H 2029
-- 10/06 12:02 [FirstSquawk] ADNOC L&S SAYS NEW GAS CARRIERS SECURED SEVEN-YEAR CONTRACT WITH ADNOC GLOBAL TRADING
-- 10/06 12:09 [financialjuice] Russia strikes bridge over Dnipro River in Ukraine's Zaporizhzhia region: authorities
-- 10/06 12:10 [FirstSquawk] RUSSIA CARRIES OUT STRIKE ON DNIPRO RIVER BRIDGE IN ZAPORIZHZHIA, AUTHORITIES SAY
-- 10/06 12:16 [FirstSquawk] ASIAN CURRENCIES TRADE IN TIGHT RANGES AHEAD OF U.S. DATA - WSJ
-- 10/06 12:21 [FirstSquawk] TRUMP: BECTON DICKINSON TO INVEST $3 BILLION TO BRING ESSENTIAL MEDICAL PRODUCT MANUFACTURING ONSHORE
-- 10/06 12:21 [financialjuice] Trump: BD to invest more than $1 billion to boost production of various products, including needles made from American steel
-- 10/06 12:21 [FirstSquawk] TRUMP: BD WILL INVEST MORE THAN $1 BILLION TO RAMP UP PRODUCTION, INCLUDING U.S.-STEEL NEEDLES
-- 10/06 12:28 [FirstSquawk] FITCH RATINGS: CHINA'S NEW LAND RULES LIKELY TO PRESSURE LAND-RELATED REVENUE AT LRGs
-- 10/06 12:35 [FirstSquawk] TRUMP APPROVES FIRING SQUAD AS EXECUTION METHOD FOR MILITARY BASE SHOOTER - SCMP
-- 10/06 12:36 [FirstSquawk] JAPAN 10-YEAR BOND AUCTION TAIL AT 0.02, VS 0.12 IN PREVIOUS SALE
-- 10/06 12:39 [FirstSquawk] 10-YEAR JGB FUTURES TRIM LOSSES FOLLOWING 10-YEAR AUCTION, DOWN 0.18 YEN AT 124.32
-- 10/06 12:41 [FirstSquawk] 20-YEAR JGB YIELD TRIMS GAINS FOLLOWING 10-YEAR AUCTION, LAST UP 1 BP AT 3.98%
-- 10/06 12:46 [FirstSquawk] 10-YEAR JGB YIELD PARES ADVANCE POST-AUCTION, RISES 1.5 BPS TO 3.1%
-- 10/06 12:49 [FirstSquawk] INDONESIA'S BENCHMARK INDEX HITS 6,193.54, UP 1.2% AND HIGHEST SINCE SEPT. 28
-- 10/06 12:54 [FirstSquawk] FLYDUBAI CO-PILOT WAS IN NEW ZEALAND NOV. 2018-MAY 2019 ON STUDENT VISA, POLICE SAYS
-- 10/06 12:55 [FirstSquawk] NZ POLICE SAY CO-PILOT CAME TO NEW ZEALAND FOR PART OF HIS FLIGHT TRAINING WITH UK-BASED COMPANY
-- 10/06 13:01 [FirstSquawk] GMO RESEARCH & AI SAYS DATA BREACH MAY HAVE AFFECTED UP TO 948,500 MEMBER RECORDS - KYODO
-- 10/06 13:17 [financialjuice] Ukraine strike kills one, injures six in Moscow region: governor
-- 10/06 13:17 [FirstSquawk] UKRAINIAN STRIKES LEAVE ONE DEAD, SIX INJURED IN MOSCOW REGION, GOVERNOR SAYS
-- 10/06 13:19 [FirstSquawk] HIGHER BORROWING COSTS WEIGH ON CORPORATE AMERICA - FT
-- 10/06 13:21 [FirstSquawk] 40-YEAR JGB YIELD CLIMBS 1 BP TO 4.330%
-- 10/06 13:25 [financialjuice] BOJ may indicate underlying inflation has roughly reached 2% target at October meeting, sources say
-- 10/06 13:25 [financialjuice] Many in BoJ wary of raising interest rates in October: sources
-- 10/06 13:31 [FirstSquawk] GERMAN FAR-RIGHT POISED TO SECURE FIRST REGIONAL PARLIAMENT PRESIDENT ROLE - FT
-- 10/06 13:32 [FirstSquawk] NEXTERA'S $67 BILLION BID FOR DOMINION DRAWS POLITICAL OPPOSITION IN VIRGINIA - FT
-- 10/06 13:48 [financialjuice] Taipeiland's Lisa Su: had a positive discussion with Foxconn
-- 10/06 13:49 [financialjuice] Taipelamd's Lisa Su: to meet TSMC later today
-- 10/06 13:49 [financialjuice] TaipeiAMD's Lisa Su: demand outstrips supply
-- 10/06 13:49 [FirstSquawk] LISA SU SAYS SHE WILL MEET TSMC LATER TODAY
-- 10/06 13:50 [FirstSquawk] LISA SU SAYS DEMAND REMAINS ABOVE AVAILABLE SUPPLY
-- 10/06 13:50 [financialjuice] Taipeilamd's Lisa Su: increased supply this year, could certainly use more
-- 10/06 13:51 [financialjuice] TaipeiAMD’s Lisa Su: memory is generally supply constrained
-- 10/06 13:51 [FirstSquawk] LISA SU: AMD HAS BOOSTED SUPPLY THIS YEAR, THOUGH MORE WOULD BE WELCOME
-- 10/06 13:51 [FirstSquawk] LISA SU: WE ALL KNOW MEMORY SUPPLY IS TIGHT OVERALL
-- 10/06 13:52 [FirstSquawk] AMD'S LISA SU: COORDINATING WITH MEMORY SUPPLIERS TO PLAN WITH CUSTOMERS
-- 10/06 13:52 [FirstSquawk] AMD CEO LISA SU: EXPECTS STRONG DEMAND FOR SEVERAL YEARS, THANKS TSMC FOR EXPANDING CAPACITY
-- 10/06 13:53 [financialjuice] Taipeilamd's Lisa Su: we will maintain business model as is
-- 10/06 13:53 [financialjuice] TaipeiAMD's Lisa Su: we must guarantee all capacity is activated simultaneously
-- 10/06 13:53 [FirstSquawk] AMD CEO LISA SU: MUST ENSURE ALL CAPACITY IS BROUGHT ONLINE SIMULTANEOUSLY
-- 10/06 13:53 [financialjuice] TaipeiAMD's Lisa Su: to significantly boost supply in 2027
-- 10/06 13:55 [financialjuice] Taipei-AMD’s Lisa Su: AI is extremely beneficial for the world
-- 10/06 13:55 [FirstSquawk] AMD'S LISA SU: AI WILL BE INCREDIBLY GOOD FOR THE WORLD
-- 10/06 13:55 [financialjuice] TaipeiAMD's Lisa Su: some work needed on AI safety
-- 10/06 13:56 [FirstSquawk] AMD'S LISA SU: AI SAFETY WILL REQUIRE FURTHER WORK
-- 10/06 13:57 [financialjuice] TaipeiAMD’s Lisa Su: Taiwan supply chain critical to entire semiconductor industry
-- 10/06 13:57 [FirstSquawk] AMD CEO LISA SU: TAIWAN'S SUPPLY CHAIN IS IMPORTANT TO THE GLOBAL SEMICONDUCTOR INDUSTRY
-- 10/06 13:57 [financialjuice] Taipei AMD’s Lisa Su: Taiwan crucial for chipmaker
-- 10/06 13:57 [FirstSquawk] AMD'S LISA SU: TAIWAN REMAINS ESSENTIAL TO AMD
-- 10/06 13:58 [financialjuice] TaipeiMD's Lisa Su: always focused on packaging innovation
-- 10/06 13:59 [financialjuice] TaipeiAMD's Lisa Su: Strong demand seen for increased compute
-- 10/06 13:59 [FirstSquawk] LISA SU: AMD IS CONSTANTLY LOOKING AT PACKAGING INNOVATION
-- 10/06 14:00 [financialjuice] TaipeiAMD’s Lisa Su: superintelligence task force will aid coordination moving forward
-- 10/06 14:00 [FirstSquawk] INDIA (SEP) HSBC INDIA PMI SERVICES ACTUAL: 55.2 VS 55.8 PREVIOUS
-- 10/06 14:00 [FirstSquawk] INDIA (SEP) HSBC INDIA PMI COMPOSITE ACTUAL: 55.9 VS 56.5 PREVIOUS
-- 10/06 14:00 [financialjuice] India HSBC and S&P Global September final services PMI at 55.2 vs flash 55.8
-- 10/06 14:00 [financialjuice] Taipei-AMD’s Lisa Su: Our investment in Taiwan is progressing, will boost that figure going forward
-- 10/06 14:02 [financialjuice] Oman August m2 money supply rises 14.24% y/y: central bank
-- 10/06 14:04 [financialjuice] Swedish government: Prime minister and other ministers to provide security briefing on Tuesday
-- 10/06 14:04 [FirstSquawk] SWEDISH GOVERNMENT SAYS PM, OTHER MINISTERS TO RECEIVE SECURITY BRIEFING TUESDAY
-- 10/06 14:04 [financialjuice] Oman August conventional bank lending rises 14.10% y/y: central bank
-- 10/06 14:05 [financialjuice] Oman’s central bank foreign assets reach 7.68 billion rials in August:
-- 10/06 14:05 [FirstSquawk] SARCO AWARDS RAYA AL-TAJDEED RIYADH BURJEEL ONE DAY SURGICAL CENTRE PROJECT
-- 10/06 14:09 [FirstSquawk] JEFFERIES HIKES LPL FINANCIAL HOLDINGS TARGET PRICE TO $410 FROM $402
-- 10/06 14:11 [FirstSquawk] CITIGROUP HIKES ASTRAZENECA PRICE TARGET TO 18,600P FROM 17,800P
-- 10/06 14:16 [FirstSquawk] SK HYNIX STOCK DECLINES 3.2%
-- 10/06 15:18 [FirstSquawk] GOLDMAN SACHS TARGET PRICE CUT TO $1,124 FROM $1,299 BY JEFFERIES
-- 10/06 15:28 [FirstSquawk] SOUTH KOREA FINANCE MINISTER: ADDITIONAL BOND ISSUANCE CUT UNDER CONSIDERATION
-- 10/06 15:30 [FirstSquawk] BOJ GOV UEDA: JAPAN'S ECONOMY SHOWING MODERATE RECOVERY WITH SOME WEAKNESSES
-- 10/06 15:31 [FirstSquawk] BOJ GOV UEDA: SEPTEMBER TANKAN INDICATED HEALTHY BUSINESS SENTIMENT
-- 10/06 15:31 [FirstSquawk] BOJ GOV UEDA: UNDERLYING INFLATION MOVING CLOSER TO 2%
-- 10/06 15:31 [FirstSquawk] BOJ GOV UEDA: FINANCIAL CONDITIONS CONTINUE TO BE ACCOMMODATIVE
-- 10/06 15:35 [FirstSquawk] BOJ GOV UEDA: FINANCIAL CONDITIONS REMAIN ACCOMMODATIVE AND SUPPORTIVE OF ECONOMIC ACTIVITY DESPITE SEPTEMBER RATE HIKE
-- 10/06 15:36 [FirstSquawk] BOJ GOV UEDA: PACE AND TIMING OF FUTURE POLICY MOVES WILL BE BASED ON OUTLOOK AND RISKS
-- 10/06 15:36 [FirstSquawk] BOJ GOV UEDA: UNDERLYING INFLATION NEEDS TO BE ANCHORED AROUND 2%
-- 10/06 15:37 [FirstSquawk] RUSSIA HITS PORT INFRASTRUCTURE FACILITIES AT IZMAIL PORT, RIA SAYS
-- 10/06 15:46 [FirstSquawk] FRANCE (AUG) Industrial Production MoM ACTUAL: -0.3% VS -0.4% PREVIOUS;EST 0.2%
-- 10/06 15:46 [FirstSquawk] FRANCE (AUG) Industrial Production YOY ACTUAL: 0.3% VS -0.5% PREVIOUS;EST 1.2%
-- 10/06 15:46 [FirstSquawk] FRANCE (AUG) Manufacturing Production MoM ACTUAL: 0.3% VS -0.8% PREVIOUS;EST 0.3%
-- 10/06 15:46 [FirstSquawk] FRANCE (AUG) Budget Balance YTD ACTUAL: -159.6B VS -145.9B PREVIOUS
-- 10/06 15:46 [FirstSquawk] FRANCE (AUG) Manufacturing Production YOY ACTUAL: -0.1% VS -2% PREVIOUS
-- 10/06 15:48 [FirstSquawk] US CRUDE FUTURES SLIDE $1 TO $88.43/BBL
-- 10/06 15:51 [FirstSquawk] SOUTH KOREA'S FM CHO: GOVERNMENT HAS TRANSFERRED $2.4 BILLION TO US FOR TEXAS POWER PROJECT
-- 10/06 16:02 [FirstSquawk] SPAIN (AUG) INDUSTRIAL PRODUCTION MOM ACTUAL: -0.7% VS 0.6% PREVIOUS;EST -0.5%
-- 10/06 16:02 [FirstSquawk] SPAIN (AUG) INDUSTRIAL OUTPUT SA YOY ACTUAL: 1.5% VS 2.3% PREVIOUS;EST 2.4%
-- 10/06 16:02 [FirstSquawk] SPAIN (AUG) INDUSTRIAL OUTPUT NSA YOY ACTUAL: 1.6% VS 2.6% PREVIOUS
-- 10/06 16:12 [financialjuice] ECB’s Lane: We have identified broader financial conditions, including long-term interest rates, as an important factor that enters the monetary policy decisions
-- 10/06 16:12 [financialjuice] ECB’s Lane: Downside risks to growth haven't materialized - ANSA
-- 10/06 16:12 [financialjuice] ECB’s Lane: Inflation is very damaging; people suffer if inflation gets too high - ANSA
-- 10/06 16:12 [financialjuice] EC Pres. von der Leyen: We must address the structural issues that leave us exposed to volatile foreign fossil fuel markets
-- 10/06 16:12 [financialjuice] ECB’s Lane: There are problems if inflation runs too low compared to our 2% target
-- 10/06 16:12 [financialjuice] ECB’s Lane: Widespread fiscal expansion not helping with inflation
-- 10/06 16:13 [financialjuice] EC Pres. von der Leyen: State aid to help households with energy bills must be targeted to those most in need
-- 10/06 16:14 [financialjuice] EC Pres. von der Leyen: We will give exporters an extra year under the methane regulation
-- 10/06 16:14 [financialjuice] EC Pres. von der Leyen: We will launch a strategic dialogue on European refineries to bring down costs and ensure we have supplies
-- 10/06 16:14 [FirstSquawk] ECB'S LANE SAID IN AN INTERVIEW THAT LONG-TERM INTEREST RATES AND GENERAL FINANCIAL CONDITIONS ARE KEY FACTORS IN MONETARY POLICY DECISIONS.
-- 10/06 16:14 [FirstSquawk] FLIGHTS TO AND FROM RIYADH HAVE BEEN SUSPENDED ONCE MORE.
-- 10/06 16:15 [FirstSquawk] SPANISH PM TO ADDRESS AUDIENCE AT 11:30AM BST IN MADRID.
-- 10/06 16:15 [FirstSquawk] EU'S VON DER LEYEN SAYS WE NEED TO SOLVE STRUCTURAL PROBLEMS THAT MAKE US VULNERABLE TO UNSTABLE FOREIGN FOSSIL FUEL MARKETS.
-- 10/06 16:15 [FirstSquawk] EU'S VON DER LEYEN SAYS STATE AID FOR ENERGY BILLS SHOULD FOCUS ON PEOPLE WHO NEED IT MOST.
-- 10/06 16:15 [FirstSquawk] EU'S VON DER LEYEN ANNOUNCES ONE-YEAR EXTENSION FOR EXPORTERS ON METHANE REGULATION.
-- 10/06 16:15 [FirstSquawk] EU'S VON DER LEYEN ANNOUNCES STRATEGIC TALKS FOR EUROPEAN REFINERIES TO LOWER COSTS AND SECURE SUPPLIES.
-- 10/06 16:16 [financialjuice] EC Pres. von der Leyen: We will launch a task force to aggregate energy demand and task a market operator with joint purchasing
-- 10/06 16:23 [financialjuice] EC Pres. von der Leyen: In the coming months, we will propose measures to increase electricity's share of overall energy demand
-- 10/06 16:24 [FirstSquawk] EU'S VON DER LEYEN ANNOUNCES TASKFORCE TO COLLECT ENERGY DEMAND AND APPOINT A MARKET OPERATOR FOR COLLECTIVE PURCHASING.
-- 10/06 16:24 [FirstSquawk] LITHUANIA'S PARLIAMENT APPROVES FIRST BALLOT TO LIFT BAN ON NUCLEAR WEAPONS.
-- 10/06 16:34 [FirstSquawk] SAUDI ARABIA REPORTS ATTACKS ON JAZAN AND NAJRAN AIRPORTS.
-- 10/06 16:34 [FirstSquawk] BRITAIN MAY REMOVE ISRAELI DIPLOMATS IF ISRAEL CLOSES UK CONSULATE, ACCORDING TO FOUR SOURCES.
-- 10/06 16:34 [FirstSquawk] SAUDI CIVIL AVIATION AUTHORITY REPORTS NAJRAN AND JAZAN AIRPORTS WERE HIT ON MONDAY NIGHT.
-- 10/06 16:34 [FirstSquawk] SAUDI CIVIL AVIATION AUTHORITY REPORTS THREE PEOPLE INJURED IN AN ATTACK AND DAMAGES REPORTED.
 - 10/06 16:48 [financialjuice] Ofcom investigates $Meta’s compliance with UK online safety laws.
 - 10/06 17:00 [financialjuice] ECB's Rehn: High long-term rates contributing to a slowdown in growth and reduces pass-through of energy prices to other prices and to wages.
 - 10/06 17:00 [financialjuice] ECB's Rehn: We have not seen inflation spread to non-energy prices or wages.
@@ -639,3 +510,127 @@
 - 10/07 10:40 [financialjuice] S. Korea central bank: sells 1-year monetary stabilisation bonds at 3.55% yield
 - 10/07 10:40 [FirstSquawk] South Korea Central Bank Sells 1-Year Monetary Stabilisation Bonds at 3.550%
 - 10/07 10:47 [FirstSquawk] More Japanese Companies Report Customer Data Breaches as Unauthorized Access Spreads
+- 10/07 10:59 [financialjuice] Saudi-led coalition: intercepted and destroyed ballistic missile launched by Houthis north of Riyadh
+- 10/07 11:02 [financialjuice] China gold holdings $323.52 billion at end-Sept vs $350.08 billion at end-Aug: central bank
+- 10/07 11:02 [financialjuice] China’s fx reserves $3.400 trln at end-Sept vs $3.438 trln at end-Aug: central bank
+- 10/07 11:02 [financialjuice] China's gold reserves 77.47 mln fine troy oz at end-Sept vs 76.73 mln troy oz at end-Aug: central bank
+- 10/07 11:21 [financialjuice] Hong Kong's Hang Seng AI theme index falls more than 3%
+- 10/07 11:34 [financialjuice] Dollar/yen rises 0.20% to 158.4400
+- 10/07 11:52 [financialjuice] Yemen's Houthis: drone strike on King Khalid International Airport in Riyadh, no immediate Saudi confirmation
+- 10/07 11:56 [financialjuice] Yemen's Houthis say they struck Saudi Arabia's Abha airport with ballistic missiles and drones; no immediate Saudi confirmation
+- 10/07 11:56 [financialjuice] Yemen's Houthis: ballistic missiles and drones strike airbase in Saudi Arabia's Khamis Mushait
+- 10/07 12:16 [financialjuice] Russian air strikes kill two in Ukraine's Kyiv: authorities
+- 10/07 13:01 [FirstSquawk] HSBC to Cut Jobs Across UK Wealth Business in Push to Expand AI Use - FT
+- 10/07 13:02 [FirstSquawk] Aramco Considers How to Manage Saudi Arabia’s Growing Gas Surplus - FT
+- 10/07 13:02 [FirstSquawk] Brussels Eyes Tax on Large Corporations in Bid to Capture Big Tech - FT
+- 10/07 13:05 [FirstSquawk] HSBC Expected to Cut About Half of Management and Specialist Roles, Nearly 70% of Financial Adviser Positions - FT
+- 10/07 13:11 [FirstSquawk] Middle East Diversions Drive Higher Cruise Capacity, Prompting Caribbean Fare Cuts - FT
+- 10/07 13:12 [FirstSquawk] UK Companies Face Risk of Fraudulent Directors Across Tens of Thousands of Active Firms - FT
+- 10/07 13:13 [FirstSquawk] Russian Hostile Activity May Cost UK as Much as £2.5 Billion a Year, Report Warns - FT
+- 10/07 13:20 [FirstSquawk] JPMorgan Lifts Gilead Target Price to $170 From $160
+- 10/07 13:32 [FirstSquawk] RBI Increases Repo Rate by 25 Bps to 5.50%
+- 10/07 13:33 [FirstSquawk] RBI Governor Says Global Financial Market Sentiment Remains Fragile and Uneasy
+- 10/07 13:34 [FirstSquawk] RBI Governor Puts FY27 Core Inflation View at 4.4%, Up From 4.3%
+- 10/07 13:36 [FirstSquawk] RBI Chief Says There Are Limited Signs of Supply-Side Pressures Becoming Embedded
+- 10/07 13:39 [FirstSquawk] US Investors Brace for Another Strong Earnings Season as AI Spending Remains Robust - FT
+- 10/07 13:41 [FirstSquawk] RBI Governor Says Trade Deals Should Support Growth in Merchandise Exports
+- 10/07 13:42 [FirstSquawk] RBI Governor Puts FY27 Real GDP Growth Forecast at 7.1%, Versus 6.7% Previously
+- 10/07 13:44 [financialjuice] Japan PM Takaichi: will consider reviewing policies, government revenue and spending if interest rate shifts differ from expectations
+- 10/07 13:44 [FirstSquawk] Japan PM Takaichi Says Government May Review Policies, Revenue and Spending if Interest Rate Shifts Diverge From Expectations
+- 10/07 13:45 [FirstSquawk] RBI Governor Says Q4 FY27 Real GDP Growth Seen at 6.8%, Unchanged From Earlier View
+- 10/07 13:45 [FirstSquawk] RBI Governor Puts Q3 FY27 Real GDP Growth Forecast at 6.9%, Versus 6.5% Previously
+- 10/07 13:49 [FirstSquawk] RBI Governor Flags Slower Global Trade Growth, Elevated Energy Prices and Trade Uncertainty as Upside Risks to CAD
+- 10/07 13:54 [FirstSquawk] RBI Governor Says India’s Economic Resilience Is Supporting Its Ability to Navigate Challenging Times
+- 10/07 14:00 [financialjuice] French bond market pressure can be "helpful" to focus minds in France on reining in public finances: Citadel's Ubide says - source
+- 10/07 14:00 [financialjuice] The bond market's message to French government: 'There is no longer any margin for error,' Citadel's Ubide says - source
+- 10/07 14:00 [financialjuice] Market still trying to understand Le Pen's budget plans: Citadel's Ubide says - source
+- 10/07 14:01 [FirstSquawk] Japan Leading Index CI Aug P: 118.0 (prev 117.7)
+- 10/07 14:01 [FirstSquawk] Japan Coincident Index: 118.7 (prev 120.6)
+- 10/07 14:02 [FirstSquawk] Saudi Arabia Refineries - SARCO Awards Lawazim Industrial National Guard Housing Project
+- 10/07 14:07 [financialjuice] Russian defence ministry: Russian forces launched massive strike on targets in Kyiv, other Ukrainian regions
+- 10/07 14:07 [FirstSquawk] Russian Defence Ministry Says Forces Conducted Massive Strike on Kyiv, Other Ukrainian Regions - IFX
+- 10/07 14:14 [financialjuice] JAPANESE LEADING INDICATOR CHANGE ACTUAL 0.4 (FORECAST -, PREVIOUS 1.5) $MACRO
+- 10/07 14:14 [FirstSquawk] RBI Assumes Crude Oil at $95/Barrel for Second Half of FY27, Up From $85 in First Half
+- 10/07 14:15 [FirstSquawk] South Korean Government Says Private Sector Investment in Energy Transition Projects to Reach 220 Trillion Won
+- 10/07 14:17 [FirstSquawk] South Korea Targets Global First With Mass Production of Hydrogen-Reduced Steel
+- 10/07 14:22 [FirstSquawk] RBI Says 10% Drop in Crude Prices Below Baseline Could Lower Inflation by Around 50 Bps
+- 10/07 14:32 [financialjuice] Japan's PM Takaichi: We will lead international debate on AI governance.
+- 10/07 14:36 [financialjuice] Japan's Fin. Min. Katayama: Will thoroughly explain budget compilation to the market
+- 10/07 14:41 [FirstSquawk] Iraq Central Bank Fixes Dinar Exchange Rate at 1,520 per USD - State News
+- 10/07 14:51 [financialjuice] ECB's Moulin: Situation on bond markets is "complicated"
+- 10/07 14:53 [financialjuice] Bank of France chief Moulin: The French economic situation is serious, but we can act
+- 10/07 14:53 [financialjuice] ECB's Moulin: France is not in economic crisis yet
+- 10/07 14:56 [FirstSquawk] Moulin Says France Is Not at a Point Where It Needs to Seek a Solution From ECB
+- 10/07 14:59 [financialjuice] ECB's Moulin: 2027 France budget is very important to reassure the market
+- 10/07 15:00 [financialjuice] ❗ GERMAN INDUSTRIAL PRODUCTION YOY SA ACTUAL 2.3% (FORECAST 0.7%, PREVIOUS -1.63%) $MACRO
+- 10/07 15:00 [financialjuice] ❗ GERMAN INDUSTRIAL PRODUCTION MOM ACTUAL 2% (FORECAST 0.5%, PREVIOUS -1.1%) $MACRO
+- 10/07 15:01 [financialjuice] IMF's Georgieva: The impact of AI and energy shock is uneven across the world
+- 10/07 15:01 [financialjuice] IMF's Managing Director Georgieva: AI boom bypassing most countries, boosting inequality.
+- 10/07 15:04 [FirstSquawk] European Stock Futures Lower: Euro Stoxx 50 Down 0.73%, DAX 0.62%, FTSE 0.26%
+- 10/07 15:04 [FirstSquawk] SWEDEN (SEP) CPI MOM ACTUAL: 0.9% VS -0.3% PREVIOUS;EST 1.0%
+- 10/07 15:05 [FirstSquawk] SWEDEN (SEP) CPI YOY ACTUAL: 1.1% VS 0.3% PREVIOUS;EST 1.2%
+- 10/07 15:05 [FirstSquawk] SWEDEN (SEP) CPIF MOM ACTUAL: 0.9% VS -0.2% PREVIOUS;EST 0.9%
+- 10/07 15:05 [FirstSquawk] SWEDEN (SEP) CPIF YOY ACTUAL: 1.5% VS 0.7% PREVIOUS;EST 1.5%
+- 10/07 15:05 [financialjuice] UK House prices 0.0% MoM in Sept (Poll 0.1%) - Lloyds
+- 10/07 15:05 [FirstSquawk] SWEDEN (SEP) CPIF EXCL. ENERGY MOM ACTUAL: 0.1% VS -0.5% PREVIOUS;EST 0.3%
+- 10/07 15:05 [FirstSquawk] SWEDEN (SEP) CPIF EXCL. ENERGY YOY ACTUAL: 0.5% VS 0.5% PREVIOUS;EST 0.7%
+- 10/07 15:05 [FirstSquawk] SWEDEN (SEP) BUDGET BALANCE ACTUAL: 23B VS 61.9B PREVIOUS
+- 10/07 15:05 [FirstSquawk] GERMANY (AUG) INDUSTRIAL PRODUCTION SA MOM ACTUAL: 2% VS -1.1% PREVIOUS;EST 0.5%
+- 10/07 15:05 [FirstSquawk] GERMANY (AUG) INDUSTRIAL PRODUCTION WDA YOY ACTUAL: 2.3% VS -1.6% PREVIOUS;EST 0.7%
+- 10/07 15:05 [FirstSquawk] NORWAY (AUG) INDUSTRIAL PRODUCTION WDA YOY ACTUAL: -0.6% VS -1.8% PREVIOUS
+- 10/07 15:06 [FirstSquawk] NORWAY (AUG) IND PROD MANUFACTURING MOM ACTUAL: -0.4% VS 0.7% PREVIOUS
+- 10/07 15:06 [FirstSquawk] NORWAY (AUG) IND PROD MANUFACTURING WDA YOY ACTUAL: 0.4% VS 1.5% PREVIOUS
+- 10/07 15:08 [FirstSquawk] JPMORGAN US SMALLER COMPANIES INVESTMENT TRUST: CASH OPTION FOR BASC SHAREHOLDERS SET AT 0.75% DISCOUNT TO RESIDUAL NAV
+- 10/07 15:08 [FirstSquawk] JPMORGAN US SMALLER COMPANIES INVESTMENT TRUST: BASC HOLDERS TO CHOOSE BETWEEN NEW JUSC SHARES AND CASH
+- 10/07 15:08 [FirstSquawk] JPMORGAN US SMALLER COMPANIES INVESTMENT TRUST: BASC TO WIND UP VOLUNTARILY UNDER PROPOSED RECONSTRUCTION SCHEME
+- 10/07 15:08 [FirstSquawk] JPMORGAN US SMALLER COMPANIES INVESTMENT TRUST: BASC TO SECURE BOARD REPRESENTATION IN COMBINED ENTITY
+- 10/07 15:08 [FirstSquawk] IMF'S GEORGIEVA: HIGH ENERGY COSTS, ELEVATED PUBLIC DEBT AND AI INVESTMENT RISKS COULD WEIGH ON GLOBAL GROWTH
+- 10/07 15:08 [FirstSquawk] IMF'S GEORGIEVA: ENERGY AND AI-DRIVEN SHOCKS ARE AFFECTING ECONOMIES UNEVENLY ACROSS THE WORLD
+- 10/07 15:08 [FirstSquawk] IMF'S GEORGIEVA: NEW IMF FORECASTS POINT TO WEAKER GROWTH IN UKRAINE, GULF STATES AND SOME ENERGY-IMPORTING ECONOMIES
+- 10/07 15:08 [FirstSquawk] IMF'S GEORGIEVA: AI INVESTMENT IS SUPPORTING GROWTH IN THE US, CHINA, INDIA, TAIWAN AND SOUTH KOREA
+- 10/07 15:08 [FirstSquawk] IMF'S GEORGIEVA: GLOBAL ECONOMY HAS NAVIGATED RECENT SHOCKS WITH REMARKABLE AGILITY
+- 10/07 15:08 [FirstSquawk] IMF'S GEORGIEVA: ENERGY SHOCK HAS BEEN CONTAINED, BUT ELEVATED OIL, DIESEL PRICES AND GAS SHORTAGES MAY PERSIST
+- 10/07 15:09 [FirstSquawk] IMF'S GEORGIEVA: AI INVESTMENT COULD BECOME LARGER THAN SPENDING ON RAILWAYS, POWER GRIDS AND TELECOM NETWORKS, BUT ITS BENEFITS REMAIN UNEVEN
+- 10/07 15:09 [FirstSquawk] IMF'S GEORGIEVA: GLOBAL PUBLIC DEBT IS SET TO SURPASS 100% OF GDP, WITH ADVANCED ECONOMIES CARRYING THE HEAVIEST BURDENS
+- 10/07 15:09 [FirstSquawk] IMF'S GEORGIEVA: AI CONSTRUCTION BOOM, ENERGY AND FOOD SHOCKS COULD DRIVE INFLATION, WHILE TARIFFS, DEFENSE SPENDING AND HIGH DEBT ADD FURTHER PRESSURE
+- 10/07 15:09 [FirstSquawk] IMF'S GEORGIEVA: CENTRAL BANKS NEED A PRUDENTLY HAWKISH STANCE, WITH RATE HIKES STILL APPROPRIATE FOR THE FED, ECB AND BOJ
+- 10/07 15:09 [FirstSquawk] IMF'S GEORGIEVA: REDUCING DEBT THROUGH GROWTH ALONE IS UNLIKELY IN THE NEAR TERM, REQUIRING CREDIBLE MEDIUM-TERM FISCAL CONSOLIDATION
+- 10/07 15:09 [FirstSquawk] IMF'S GEORGIEVA: AI COULD LIFT GLOBAL GROWTH BY AROUND 0.5 PERCENTAGE POINT, BUT HYPERSCALER LEVERAGE MAY CREATE BROADER FINANCIAL RISKS
+- 10/07 15:17 [FirstSquawk] Porsche Plans Price Hikes of Up to 20% for Top Models – FT
+- 10/07 15:22 [financialjuice] Any movement in UK house prices likely to remain modest - Lloyds
+- 10/07 15:22 [financialjuice] Housing market balancing buyer caution with continued underlying demand - Lloyds
+- 10/07 15:30 [financialjuice] AMD CEO: Samsung and SK Hynix are important for long-term supply chain
+- 10/07 15:37 [FirstSquawk] Musk Says TSMC Could Sublease Part of the Terafab, But No More Than That
+- 10/07 15:37 [FirstSquawk] AMD CEO Says Company Continues to Explore Collaboration With Samsung Electronics in Memory and Foundry
+- 10/07 15:38 [FirstSquawk] Musk: We Plan to Build and Operate the Fab
+- 10/07 15:39 [financialjuice] The US sent a formal diplomatic request to Russia for information - WAPO
+- 10/07 15:43 [financialjuice] AMD CEO: We're to invest 'tens of billions’ across the global supply chain
+- 10/07 15:44 [FirstSquawk] AMD CEO Says Samsung Electronics and SK Hynix Have Been Providing Great Support on HBM
+- 10/07 15:45 [financialjuice] FRENCH TRADE BALANCE SA ACTUAL -6.121891B (FORECAST -, PREVIOUS -6.67B) $MACRO
+- 10/07 15:45 [financialjuice] FRENCH CURRENT ACCOUNT ACTUAL -1.5B (FORECAST -, PREVIOUS -4.7B) $MACRO
+- 10/07 15:45 [FirstSquawk] FRANCE (AUG) CURRENT ACCOUNT BALANCE ACTUAL: -1.5B VS -4.7B PREVIOUS
+- 10/07 15:45 [FirstSquawk] FRANCE (AUG) TRADE BALANCE ACTUAL: -6122M VS -6669M PREVIOUS
+- 10/07 15:51 [FirstSquawk] AMD CEO Says Company Will Invest Tens of Billions Across Global Supply Chain
+- 10/07 15:52 [financialjuice] AMD CEO: Ramping up HBM4-based systems.
+- 10/07 15:55 [FirstSquawk] AMD CEO Says She Plans to Meet Samsung Electronics and SK Hynix in Seoul
+- 10/07 15:55 [FirstSquawk] Japan PM Takaichi Rejects Nuclear Sharing, Says It Is Not Acceptable – Kyodo, via https://t.co/tmVHTGptg3
+- 10/07 15:56 [FirstSquawk] Japan PM Takaichi Rejects Nuclear Sharing, Says It Is Not Acceptable – Kyodo
+- 10/07 16:01 [FirstSquawk] Blue Owl Set to Expand Aggressively Into Insurance – FT
+- 10/07 16:01 [FirstSquawk] SWITZERLAND FOREIGN CURRENCY RESERVES (CHF) SEP: 770.5B (PREV 770.1B)
+- 10/07 16:02 [financialjuice] Currency Strength Chart: Strongest: USD, CAD, CHF, JPY, GBP, AUD, NZD, EUR - Weakest
+- 10/07 16:17 [FirstSquawk] US SECRETARY OF STATE RUBIO STATES THAT THE HISTORIC ALLIANCE WITH GREECE IS VERY IMPORTANT.
+- 10/07 16:18 [financialjuice] US Secretary of State Rubio: Strong partnership with Greece is important now, with the situation in the Strait of Hormuz and the Red Sea
+- 10/07 16:19 [financialjuice] US Secretary of State Rubio: Energy relations with Greece have reached new heights
+- 10/07 16:20 [FirstSquawk] US SECRETARY OF STATE RUBIO STRESSES THE IMPORTANCE OF A STRONG GREECE PARTNERSHIP DUE TO CURRENT ISSUES IN THE STRAIT OF HORMUZ AND RED SEA.
+- 10/07 16:20 [FirstSquawk] US SECRETARY OF STATE RUBIO STATES THAT ENERGY TIES WITH GREECE HAVE REACHED NEW LEVELS.
+- 10/07 16:22 [financialjuice] Ukraine’s President Zelenskiy: Russia launched one of its biggest strikes on Ukraine, targeting its energy sector
+- 10/07 16:23 [FirstSquawk] ZELENSKIY SAYS RUSSIA LAUNCHED ONE OF ITS BIGGEST STRIKES ON UKRAINE, TARGETING ITS ENERGY SECTOR; SAYS NINE PEOPLE WERE KILLED IN RUSSIAN ATTACKS ON UKRAINE
+- 10/07 16:28 [FirstSquawk] ZELENSKIY SAYS 11 PEOPLE (NOT 9) WERE KILLED IN RUSSIAN ATTACKS ON UKRAINE (CORRECTION)
+- 10/07 16:32 [financialjuice] Sharima Chemicals to exit Lawter business in New Zealand
+- 10/07 16:34 [financialjuice] Sanan Optoelectronics General Manager freed from detention
+- 10/07 16:35 [financialjuice] Sanan Optoelectronics: company operations are normal
+- 10/07 16:36 [FirstSquawk] IRAQ DEVALUES CURRENCY AS HORMUZ DISRUPTION HITS OIL EXPORTS Iraq has devalued its currency by around 13%, raising the public dollar-selling rate to 1,520 dinars from roughly 1,320. The move comes as disruptions in the Strait of Hormuz shar…
+- 10/07 16:43 [financialjuice] German Economy Ministry on energy reserves: Germany will participate in further release of volume already set by IEA in March.
+- 10/07 16:43 [financialjuice] German Economy Ministry: Currently working on approval of release of energy reserves.
+- 10/07 16:44 [FirstSquawk] GERMANY WILL JOIN IN RELEASING MORE ENERGY SUPPLIES AS DECIDED BY THE IEA IN MARCH.
+- 10/07 16:44 [FirstSquawk] GERMANY'S ECONOMY MINISTRY IS IN THE PROCESS OF APPROVING THE RELEASE OF ENERGY RESERVES.
