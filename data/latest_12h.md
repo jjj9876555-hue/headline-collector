@@ -7,110 +7,24 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-09 04:23 JST／対象: 10/08 16:23 〜 10/09 04:23 JST（時刻はすべて日本時間）
+生成: 2026-10-09 08:49 JST／対象: 10/08 20:49 〜 10/09 08:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 69 | 10/08 19:55 | 10/09 03:47 | ⚠ 55分（02:52→03:47） |
-| FirstSquawk | 160 | 10/08 17:59 | 10/09 04:17 | 44分（01:57→02:42） |
-| financialjuice | 160 | 10/08 17:58 | 10/09 04:23 | ⚠ 143分（22:24→00:48） |
+| DeItaone | 60 | 10/08 20:58 | 10/09 04:28 | ⚠ 55分（02:52→03:47） |
+| FirstSquawk | 137 | 10/08 20:50 | 10/09 07:42 | ⚠ 49分（06:41→07:30） |
+| financialjuice | 162 | 10/08 21:00 | 10/09 08:41 | ⚠ 143分（22:24→00:48） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 377 行（統合前 389 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 347 行（統合前 361 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/08 17:58 [financialjuice] Fed's Waller: AI productivity seen anecdotally, not yet in data.
-- 10/08 17:59 [FirstSquawk] FED'S WALLER STATES INFLATION EXPECTATIONS REMAIN STABLE.
-- 10/08 17:59 [FirstSquawk] FED'S WALLER STATES AI PRODUCTIVITY IS NOT YET REFLECTED IN DATA, BUT IS VISIBLE ANECDOTALLY.
-- 10/08 18:06 [financialjuice] The US is to announce AI firms to commit $1B+ compute credits - WaPo
-- 10/08 18:13 [FirstSquawk] SAUDI ARABIA IS IN DISCUSSIONS TO OFFICIALLY ESTABLISH SHUTTLE SERVICES IN THE HORMUZ STRAIT TO COMPETE FOR MARKET SHARE.
-- 10/08 18:13 [FirstSquawk] IRAQ ANNOUNCES BASRAH MEDIUM OIL AT A DISCOUNT OF $2.80 PER BARREL FOR NOVEMBER SHIPMENTS TO ASIA.
-- 10/08 18:13 [FirstSquawk] IRAQ PRICES BASRAH HEAVY OIL AT $5.80 DISCOUNT FOR NOVEMBER SALE TO ASIA.
-- 10/08 18:13 [FirstSquawk] UAE PRESIDENT RECEIVES INVITATION TO GULF-EUROPE SUMMIT IN SAUDI ARABIA.
-- 10/08 18:13 [FirstSquawk] UKRAINE ANNOUNCES ATTACK ON RUSSIA'S GAZPROM NEFTEKHIM SALAVAT.
-- 10/08 18:33 [FirstSquawk] UAE'S ADNOC ESTABLISHES NOVEMBER MURBAN CRUDE OSP AT $11 ABOVE DUBAI QUOTES.
-- 10/08 18:37 [FirstSquawk] ADNOC HAS ANNOUNCED THE NOVEMBER UPPER ZAKUM CRUDE PRICE AT $0.50 ABOVE DUBAI, UMM LULU AT $2 ABOVE DUBAI, AND DAS AT $1 ABOVE DUBAI.
-- 10/08 18:38 [FirstSquawk] BOE'S PILL SAYS CURRENT PRICE PRESSURES ARE CONCERNING AND NEED TO BE ADDRESSED.
-- 10/08 18:38 [FirstSquawk] UK'S HEALEY WILL MEET WITH RETAIL AND HOSPITALITY LEADERS NEXT WEEK, ACCORDING TO SKY.
-- 10/08 18:40 [FirstSquawk] BOE'S PILL SAYS MONETARY POLICY MUST FOCUS STRONGLY ON INFLATION.
-- 10/08 18:43 [FirstSquawk] GREENE WARNED OF A "MATERIAL RISK" THAT SOME SECOND ROUND EFFECTS MAY DEVELOP.
-- 10/08 18:50 [FirstSquawk] PBOC STATES CHINA DOES NOT PLAN TO DEVALUE YUAN FOR TRADE PURPOSES.
-- 10/08 18:52 [FirstSquawk] PBOC STATES NO PLAN TO WEAKEN YUAN FOR TRADE BENEFITS.
-- 10/08 18:52 [FirstSquawk] PBOC SAYS IMF'S REPORT ON UNDERVALUATION MISUSES DATA.
-- 10/08 18:52 [FirstSquawk] PBOC RELEASES STATEMENT ON YUAN POLICY.
-- 10/08 18:52 [FirstSquawk] PBOC KEEPS MARKET AS MAIN INFLUENCER IN YUAN EXCHANGE RATE.
-- 10/08 18:55 [FirstSquawk] PBOC URGES ALL COUNTRIES TO ADDRESS GLOBAL IMBALANCES.
-- 10/08 18:55 [FirstSquawk] PBOC COMMITS TO HELP OTHER COUNTRIES DEVELOP MID- AND LONG-TERM POLICY PLANS.
-- 10/08 18:55 [FirstSquawk] PBOC STATES THERE IS NO DIRECT CONNECTION BETWEEN FOREIGN EXCHANGE RATE AND THE CURRENT ACCOUNT.
-- 10/08 19:02 [FirstSquawk] PEPSICO Q3 CORE EPS $2.34 VS IBES ESTIMATE $2.29 || Q3 NET REV $25.27 BLN VS IBES ESTIMATE $24.96 BLN || Q3 ORGANIC REV GROWTH 3.1% VS IBES ESTIMATE GROWTH OF 3.8% || OUTLOOK FY CORE EPS GROWTH 2.5% TO 3.5% || OUTLOOK FY CORE ORGANIC REVENU…
-- 10/08 19:02 [FirstSquawk] PEPSICO CUTS FY CORE CONSTANT CURRENCY EPS GROWTH OUTLOOK
-- 10/08 19:05 [FirstSquawk] ECB'S LANE: YOU SHOULD BELIEVE CENTRAL BANKS WHEN THEY SAYS INFLATION WILL RETURN TO TARGET
-- 10/08 19:07 [FirstSquawk] ECB'S LANE: WE EXPECT UPWARD PRESSURE ON FOOD PRICES IN THE NEXT YEAR
-- 10/08 19:16 [FirstSquawk] ECB'S LANE: CORE INFLATION WILL RISE, ESPECIALLY NEXT YEAR
-- 10/08 19:22 [FirstSquawk] GERMANY DOUBLES 2026 GROWTH OUTLOOK: 2026 GDP EXPECTED TO GROW 1.3%. UP FROM 0.5%; 2027 GDP EXPECTED TO GROW 1.1%, UP FROM 0.9%; ECONOMY MINISTRY SEES 2028 GDP GROWTH AT 0.6%
-- 10/08 19:25 [FirstSquawk] BLASTS RATTLE RIYADH, SAUDIS HIT BY DEADLIEST HOUTHI ATTACKS SO FAR - NYT
-- 10/08 19:32 [FirstSquawk] UK 10-YEAR GILT YIELDS RISE TO HIGHEST LEVEL SINCE JULY 2007 AT 5.515%, UP MORE THAN 6 BPS ON DAY
-- 10/08 19:34 [FirstSquawk] S&P 500, NASDAQ 100 FUTURES HIT SESSION LOW
-- 10/08 19:36 [FirstSquawk] BRENT CRUDE EXTENDS GAINS TO 5% TO TRADE ABOVE $105 A BARREL
-- 10/08 19:37 [financialjuice] China's He: To enhance economic and financial cooperation with the UK
-- 10/08 19:38 [FirstSquawk] JAPAN METI VICE MINISTER VIA TRANSLATOR:DISCUSSED DEVELOPING INFRASTRUCTURE FOR OIL STOCKPILING IN ASIA ALONG WITH OIL PRODUCING COUNTRIES
-- 10/08 19:40 [FirstSquawk] GOLDMAN SACHS' SPECIAL BONUS FOR EXECUTIVES WILL SURPASS $500 MILLION.
-- 10/08 19:43 [FirstSquawk] ITALY'S PARLIAMENT GIVES FINAL APPROVAL TO PM MELONI'S CONTESTED ELECTORAL REFORM
-- 10/08 19:51 [FirstSquawk] UK 20-YEAR GILT YIELDS REACH 6% FOR FIRST TIME SINCE MARCH 1998, UP 7 BPS ON DAY
-- 10/08 19:55 [DeItaone] U.K. 10-YEAR GILT YIELDS HIT 5.527%, HIGHEST SINCE 2007: LSEG U.K. 30-YEAR GILT YIELDS HIT 6.047%, HIGHEST SINCE 1998: LSEG
-- 10/08 19:57 [DeItaone] 🇫🇷 FRENCH DEFAULT RISK REMAINS NEAR MULTI-YEAR HIGHS The cost of insuring French government debt against default remains elevated as political instability and fiscal concerns weigh on investor confidence. France’s 5-year sovereign CDS stand…
-- 10/08 19:58 [DeItaone] TURKEY WEIGHS AIR DEFENSE SUPPORT FOR SAUDI ARABIA Turkey is assessing air defense assistance to Saudi Arabia against Houthi attacks. Ankara stressed the Mecca Pact is defensive, ruling out deploying troops for offensive operations.
-- 10/08 19:58 [FirstSquawk] TURKEY'S FORMIN: ANKARA ASSESSING HOW IT CAN HELP RIYADH WITH HOUTHI ATTACKS PARTICULARLY ON AIR DEFENCES
-- 10/08 20:04 [DeItaone] https://t.co/z2hOjtESbY
-- 10/08 20:07 [financialjuice] Trump to participate in a tele-rally at 6PM - White House
-- 10/08 20:08 [FirstSquawk] TRUMP TO PARTICIPATE IN TELE-RALLY AT 6PM: WHITE HOUSE
-- 10/08 20:13 [DeItaone] RUSSIA WARNS EUROPE OF RETALIATION IF ATTACKED Russia says it would respond to any aggression from Western Europe, while denying plans to attack the region. Moscow previously warned NATO it could use its entire arsenal, including nuclear we…
-- 10/08 20:14 [FirstSquawk] CRESCENT TO BUY DEVON'S EAGLE FORD ASSETS FOR $4.22B IN CASH
-- 10/08 20:14 [DeItaone] 🇨🇳 CHINA STEPS UP ECONOMIC TALKS WITH UK AND EU Chinese Vice Premier He Lifeng called for stronger economic and financial cooperation with the UK during talks with Britain's finance minister. Separately, China's commerce minister met EU tra…
-- 10/08 20:15 [FirstSquawk] UKRAINIAN NEGOTIATORS TO VISIT US FOR TALKS ON FRIDAY-SATURDAY, ZELENSKIY SAYS
-- 10/08 20:15 [FirstSquawk] ZELENSKIY: ONE CAN'T BE IN PEACE TALKS WITH RUSSIA AND DISCUSS FUTURE BUSINESS OPPORTUNITIES AT SAME TIME
-- 10/08 20:16 [financialjuice] ECB's Stournaras: I don't see important second-round effects
-- 10/08 20:16 [financialjuice] ECB's Stournaras: Inflation expectations well anchored around 2%.
-- 10/08 20:23 [financialjuice] UK imposes sanctions targeting Russian oil companies and tankers
-- 10/08 20:27 [DeItaone] U.S. PROPOSES $70,000 WORK TRAINING FEE FOR FOREIGN STUDENTS The Trump administration is proposing a $70,000 fee for international students seeking work authorization through OPT, up from roughly $500 currently. Additional work training wou…
-- 10/08 20:29 [FirstSquawk] BURNHAM: NEW UK-GERMANY PARTNERSHIP ON HYBRID ATTACKS
-- 10/08 20:30 [FirstSquawk] BURNHAM: OPEN TO GERMANY JOINING GCAP
-- 10/08 20:30 [financialjuice] UK's PM Burnham: Very committed to securing deeper cooperation with the EU at the summit
-- 10/08 20:31 [financialjuice] ECB Accounts: It was also pointed out that a deposit facility rate of 2.50% remained in the range of neutral interest rates estimated by staff
-- 10/08 20:31 [FirstSquawk] UK PM BURNHAM: OPEN TO GERMANY JOINING GCAP PROGRAMME
-- 10/08 20:31 [FirstSquawk] UK PM BURNHAM: VERY COMMITTED TO DEEPER EU TIES
-- 10/08 20:31 [financialjuice] ECB Accounts: It was particularly important to refrain from giving any guidance regarding the future interest rate path
-- 10/08 20:31 [financialjuice] ECB Accounts: It was sensible to simply acknowledge the high uncertaint
-- 10/08 20:32 [financialjuice] ECB Accounts: At the same time, continued vigilance was vital.
-- 10/08 20:32 [financialjuice] ECB Meeting Minutes - Read Here
-- 10/08 20:32 [financialjuice] ECB Account: Risks did not all point in the same direction
-- 10/08 20:32 [financialjuice] ECB Accounts: The transmission of monetary policy has been smooth.
-- 10/08 20:34 [FirstSquawk] ECB OFFICIALS: POLICY RESPONSE SHOULD REMAIN `PROPORTIONATE'
-- 10/08 20:38 [FirstSquawk] IRAN ATOMIC ENERGY CHIEF SAYS WON'T BACK DOWN ON ENRICHMENT
-- 10/08 20:38 [financialjuice] Iran atomic energy chief: We won't back down on enrichment
-- 10/08 20:39 [FirstSquawk] IRAN FM: WILL RESPOND TO US PROPOSALS WITHIN A FEW DAYS - TASNIM
-- 10/08 20:40 [financialjuice] Iran’s Foreign Minister Araghchi: We will respond to US proposal in a few days
-- 10/08 20:40 [financialjuice] Iran foreign minister: Negotiations are ongoing - Tasnim
-- 10/08 20:40 [financialjuice] ECB Officials: Higher yields could materially impact economy.
-- 10/08 20:41 [DeItaone] IRAN: Reiterates Will Not Back Down On Nuclear Enrichment Head of the Atomic Energy Organization: We will not give up our right to enrichment, and we will not hand over the uranium.
-- 10/08 20:41 [financialjuice] Iran’s Foreign Minister Araghchi: Messages are being exchanged via mediators
-- 10/08 20:42 [FirstSquawk] IRAN'S ARAGHCHI SAYS MESSAGES ARE BEING EXCHANGED VIA MEDIATORS
-- 10/08 20:42 [FirstSquawk] IRAN'S ARAGHCHI SAYS CURRENTLY REVIEWING US PROPOSAL: TASNIM
-- 10/08 20:42 [DeItaone] IRAN TO RESPOND TO U.S. NUCLEAR PROPOSALS WITHIN DAYS Iran’s foreign minister says negotiations with Washington remain ongoing through mediators, with messages still being exchanged. Tehran has submitted a “seven-day plan” and is reviewing …
-- 10/08 20:42 [FirstSquawk] USTR GREER SAYS VIETNAM, CHINA, OTHER ASIAN COUNTRIES DO NOT AGREE ON EXCESS CAPACITY -CNBC INTERVIEW
-- 10/08 20:42 [financialjuice] USTR Greer: The US has a “stable situation’ with China
-- 10/08 20:44 [FirstSquawk] US TRADE REPRESENTATIVE JAMIESON GREER: US HAS A `STABLE SITUATION' WITH CHINA
-- 10/08 20:44 [FirstSquawk] IRAN FOREIGN MINISTER SAYS NEGOTIATIONS ARE ONGOING: TASNIM
-- 10/08 20:44 [financialjuice] China's commerce minister meets EU trade chief Šefčovič in Beijing - China's commerce ministry
-- 10/08 20:44 [financialjuice/FirstSquawk] Iran's Foreign Minister Aragchi: Tehran is still reviewing us views on Iran's 7 days proposal, should respond in a few days - Tasnim
-- 10/08 20:44 [DeItaone] GREER: WHEN CANADIANS GET TO "YES," WE'LL BE READY TO TALK-CNBC INTERVIEW
-- 10/08 20:45 [FirstSquawk] GREER: `HOLDING FAST' WITH CANADA
-- 10/08 20:45 [financialjuice] USTR Greer: When Canadians get to "yes," we'll be ready to talk - CNBC interview
+- 10/08 20:50 [FirstSquawk] IRAN'S FOREIGN MINISTER ARAGCHI: TEHRAN IS STILL REVIEWING US VIEWS ON IRAN'S 7 DAYS PROPOSAL, SHOULD RESPOND IN A FEW DAYS - TASNIM
 - 10/08 20:56 [FirstSquawk] USTR GREER: HOLDING FAST ON TRADE STANCE WITH CANADA
 - 10/08 20:58 [DeItaone] JPMORGAN WARNS SURGING BOND YIELDS THREATEN SMALL-CAP STOCKS JPMorgan warns rising 30-year yields pose a growing risk to small- and mid-cap equities, driven by deteriorating government finances. Around 60% of global GDP now comes from count…
 - 10/08 21:00 [DeItaone] SPOTIFY RENEWS JOE ROGAN PODCAST FOR MULTIYEAR DEAL
@@ -401,3 +315,59 @@
 - 10/09 04:16 [FirstSquawk] U.S. ENVOYS WITKOFF AND KUSHNER WILL MEET UKRAINIAN REPRESENTATIVES IN MIAMI FOR A WORKING SESSION ON FRIDAY TO DISCUSS NEW IDEAS AND PROPOSALS THAT U.S. NEGOTIATORS BEGAN DEVELOPING WITH RUSSIA AND UKRAINE DURING THEIR RECENT VISIT TO THE …
 - 10/09 04:17 [FirstSquawk] U.S. ENVOYS WITKOFF AND KUSHNER WILL MEET UKRAINIAN REPRESENTATIVES IN MIAMI FOR A WORKING SESSION ON FRIDAY, A SOURCE SAYS, TO DISCUSS NEW IDEAS AND PROPOSALS THAT U.S. NEGOTIATORS BEGAN DEVELOPING WITH THE RUSSIANS AND UKRAINIANS DURING T…
 - 10/09 04:23 [financialjuice] Friday FX Options Expiries
+- 10/09 04:28 [DeItaone] CITRINI SEES NEW ERA FOR CRYPTO AS AI AGENTS DRIVE BLOCKCHAIN ADOPTION Citrini Research says AI-powered financial agents could transform crypto investing, creating a new era of blockchain-based financial infrastructure. The firm highlights …
+- 10/09 04:31 [financialjuice] US money-market fund assets rise to $7.96 trillion at ICI.
+- 10/09 04:32 [financialjuice/FirstSquawk] Kremlin Spokesman Peskov: Russia agrees with US Secretary of State Rubio that the Ukraine conflict is in a stalemate.
+- 10/09 04:48 [FirstSquawk] VENEZUELA’S OIL PRODUCTION HAS RISEN 8% YEAR-TO-DATE, WITH THE GOVERNMENT EXPECTING A STRONGER ECONOMIC IMPACT FROM HIGHER OUTPUT STARTING IN 2027.
+- 10/09 04:48 [FirstSquawk] PDVSA HAS SIGNED 61 AGREEMENTS AND IS NEGOTIATING 44 MORE, WHILE ACTING PRESIDENT DELCY RODRÍGUEZ REJECTED DOLLARIZATION AND STRESSED THE IMPORTANCE OF MONETARY SOVEREIGNTY.
+- 10/09 04:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: 1904.3 MLN NASDAQ 100: 1592.9 MLN DOW 30: 221.1 MLN MAG 7: 528.0 MLN $MACRO
+- 10/09 05:00 [FirstSquawk] COCA-COLA IS SEEKING TO UNWIND ITS $5 BLN ACQUISITION OF A BRITISH COFFEEHOUSE, LOOKING TO SELL COSTA COFFEE - SEMAFOR
+- 10/09 05:00 [financialjuice] Apple product launch scheduled on or around Tuesday, Oct. 27; set to debut touch-screen Mac, iPad mini in late October $AAPL
+- 10/09 05:00 [FirstSquawk] STARBUCKS SAYS IT IS 'LASER-FOCUSED' ON ITS EXISTING STRATEGY FOLLOWING CHIPOTLE DEAL CHATTER, SAYING 'WE HAVE STRONG MOMENTUM AND CONFIDENCE IN OUR LONG-TERM GROWTH POTENTIAL' AND THAT 'OUR TEAM IS LASER-FOCUSED ON EXECUTING OUR BACK TO ST…
+- 10/09 05:03 [FirstSquawk] NASDAQ COMPOSITE UNOFFICIALLY ENDS SESSION LOWER BY 337.38 POINTS, OR 1.23 PERCENT, FINISHING AT 27,201.31
+- 10/09 05:03 [FirstSquawk] S&P 500 INDEX UNOFFICIALLY ENDS SESSION LOWER BY 35.06 POINTS, OR 0.45 PERCENT, FINISHING AT 7,766.71
+- 10/09 05:03 [FirstSquawk] DOW JONES INDUSTRIAL AVERAGE UNOFFICIALLY ENDS SESSION HIGHER BY 47.28 POINTS, OR 0.09 PERCENT, FINISHING AT 51,227.15
+- 10/09 05:07 [FirstSquawk] APPLE PRODUCT LAUNCH SCHEDULED ON OR AROUND TUESDAY, OCT. 27; SET TO DEBUT TOUCH-SCREEN MAC, IPAD MINI IN LATE OCTOBER
+- 10/09 05:16 [financialjuice] Iran's President Pezeshkian: We will not withdraw from the negotiation table - ISNA
+- 10/09 05:16 [financialjuice] Iran's President Pezeshkian: Proposals exchanged through intermediaries will be finalized and presented to US side - ISNA
+- 10/09 05:18 [financialjuice] Several powerful explosions occurred minutes ago in the southern part of the Strait of Hormuz, apparently caused by oil tankers violating regulations striking mines - IRIB News citing sources
+- 10/09 05:19 [FirstSquawk] SPACEX HAS AGREED TO ACQUIRE A NATIONWIDE 800 MHZ LOW-BAND SPECTRUM LICENSE PORTFOLIO, WITH THE FCC APPROVING SPACEX TO LAUNCH 15,000 STARLINK GEN2 SATELLITES FOR GLOBAL 2 GHZ SPECTRUM AND AUTHORIZING STARLINK V3 BROADBAND SATELLITES TO OPE…
+- 10/09 05:19 [financialjuice] Total money market funds rose $72.27 bln to $7.96 trln for week ended Oct. 7th - ICI
+- 10/09 05:20 [financialjuice] Chipmakers Slide as OpenAI Revenue Reports Renew AI Spending Concerns – US Market Wrap
+- 10/09 05:25 [financialjuice] SpaceX to acquire low-band spectrum licenses for mobile use. $SPCX
+- 10/09 05:25 [FirstSquawk] U.S. STOCKS DECLINED AS A SELLOFF IN SEMICONDUCTOR SHARES INTENSIFIED FOLLOWING REPORTS ABOUT OPENAI'S REVENUE OUTLOOK, REVIVING CONCERNS OVER WHETHER THE AI INVESTMENT BOOM CAN SUSTAIN ITS CURRENT PACE, WITH TECHNOLOGY STOCKS LEADING LOSSE…
+- 10/09 05:25 [FirstSquawk] OIL PRICES CLIMBED BUT FINISHED BELOW SESSION HIGHS AFTER PRESIDENT TRUMP INDICATED THE U.S. WOULD NOT LAUNCH ATTACKS AGAINST IRAN BEFORE THE MIDTERM ELECTIONS, WHILE TREASURIES ADVANCED FOLLOWING A SOLID $30 BLN AUCTION OF LONG-TERM GOVERN…
+- 10/09 05:25 [FirstSquawk] OPENAI IS REPORTEDLY ON TRACK TO GENERATE APPROXIMATELY $50 BLN IN ANNUALIZED REVENUE BASED ON ITS CURRENT PERFORMANCE — BELOW EARLIER REPORTS SUGGESTING IT WAS APPROACHING A $70 BLN ANNUALIZED RUN RATE — ADDING TO INVESTOR CONCERNS ABOUT T…
+- 10/09 05:29 [FirstSquawk] HEAVY EXPLOSIONS REPORTED IN SOUTHERN STRAIT OF HORMUZ - FARS CITING MILITARY SOURCES
+- 10/09 05:30 [FirstSquawk] HEAVY EXPLOSIONS HAVE BEEN REPORTED IN THE SOUTHERN STRAIT OF HORMUZ, FARS CITES MILITARY SOURCES AS SAYING, WITH TANKERS STRIKING MINES HAVING CAUSED THE BLASTS
+- 10/09 05:32 [FirstSquawk] US TELECOM STOCKS SLIDE AFTER SPACEX SPECTRUM PURCHASE: VERIZON -5.1%, AT&T -5.8%, T-MOBILE US -5.8%
+- 10/09 05:38 [financialjuice] Fed issues enforcement action against American Express on money laundering - $AXP
+- 10/09 05:41 [financialjuice] Musk: This last puzzle piece needed for SpaceX phone coverage. $SPCX
+- 10/09 05:42 [financialjuice] Musk: Spectrum is going to provide complete phone coverage in America. $SPCX
+- 10/09 05:42 [FirstSquawk] THE FED HAS ISSUED A MONEY-LAUNDERING ENFORCEMENT ACTION AGAINST AMERICAN EXPRESS, WHILE THE OCC HAS ASSESSED A $350 MLN CIVIL PENALTY AGAINST ITS BANK, SAYING AMERICAN EXPRESS NATIONAL BANK FAILED TO MAINTAIN A BANK SECRECY ACT AND ANTI-MO…
+- 10/09 05:42 [FirstSquawk] AMERICAN EXPRESS SAYS THE $350 MLN OCC PENALTY DOES NOT AFFECT ITS FY2026 GUIDANCE AND THAT THE CONSENT ORDERS IMPOSE NO ASSET CAP, ADDING THAT COSTS FROM THE ORDERS ARE NOT EXPECTED TO AFFECT ITS 2027 GUIDANCE - SEC FILING
+- 10/09 05:42 [financialjuice] Pentagon draws up new Iran strike plans as Trump hesitates - NYT.
+- 10/09 05:43 [financialjuice] Pentagon draws up new plan for 3 days of Iran strikes - NYT
+- 10/09 05:43 [financialjuice] Three aircraft carriers will soon be in the Middle East - NYT.
+- 10/09 05:43 [FirstSquawk] MUSK SAYS SPECTRUM IS GOING TO PROVIDE COMPLETE PHONE COVERAGE IN AMERICA, CALLING IT 'THIS LAST PUZZLE PIECE NEEDED FOR SPACEX PHONE COVERAGE'
+- 10/09 05:43 [FirstSquawk] THE PENTAGON HAS DRAWN UP A NEW PLAN FOR THREE DAYS OF IRAN STRIKES AS TRUMP HESITATES - NYT
+- 10/09 05:45 [financialjuice] The Pentagon drew plans to strike Iran's drone and missile arsenal - NYT.
+- 10/09 05:52 [FirstSquawk] FRENCH ARMED FORCES CHIEF SAYS FRANCE IS STUDYING SEVERAL OPTIONS WITH SAUDI AUTHORITIES TO PROVIDE PROTECTION FOR THE YANBU OIL TERMINAL, ADDING THAT IT HAS DEPLOYED ABOUT 2,000 SOLDIERS TO HELP PROTECT GULF ARAB ALLIES DURING THE CONFLICT
+- 10/09 05:53 [FirstSquawk] TRUMP SAYS 'THE FAKE AND ARTIFICIAL NEWS IS OUT THERE TRYING TO SAY THAT I'M INVITING THE ENEMY TO BOMB SAN DIEGO AND LOS ANGELES', ARGUING THAT WHAT HE WAS ACTUALLY SAYING WAS THAT 'A TEMPORARY INCREASE IN THE PRICE OF GASOLINE IS A SMALL …
+- 10/09 05:53 [FirstSquawk] TRUMP SAYS HE WAS 'MAKING A COMPARISON BETWEEN PAYING A LITTLE MORE, FOR A SHORT TIME, FOR GASOLINE, VERSUS THE BOMBING OF OUR MAJOR CITIES', ASKING PEOPLE TO IMAGINE 'WHAT IT WOULD BE LIKE IF THEY BOMBED SAN DIEGO AND/OR LOS ANGELES'. - TR…
+- 10/09 05:54 [FirstSquawk] TRUMP SAYS 'EVERYBODY KNEW THAT, THE FAKE NEWS KNEW IT AS WELL', BUT THEY CONTINUE TO SAY HE IS 'ASKING THE ENEMY TO BOMB TWO CITIES THAT I LOVE', CALLING THE REPORTING 'FAKE NEWS' AND THOSE BEHIND IT 'DEGENERATES'. - TRUTH SOCIAL
+- 10/09 06:04 [FirstSquawk] US TELECOM STOCKS EXTEND LOSSES: VERIZON -6.6%, AT&T -7.2%, T-MOBILE US -6.6%
+- 10/09 06:41 [FirstSquawk] US ARMY FIRING SQUAD EXECUTION OF FORT HOOD SHOOTER TO BE LIVESTREAMED DECEMBER 3 — PENTAGON OFFICIAL
+- 10/09 07:28 [financialjuice] Bitdeer Technologies Group plans a901 capacity delivery to start in January 2027, full 67MW by Q2 2027
+- 10/09 07:30 [FirstSquawk] THE PENTAGON HAS DRAFTED PLANS FOR A THREE-DAY CAMPAIGN OF INTENSE STRIKES AGAINST IRAN, TARGETING ITS MISSILE AND DRONE ARSENAL, ENERGY FACILITIES AND REVOLUTIONARY GUARD HEADQUARTERS, THOUGH TRUMP HAS REJECTED FIVE PROPOSALS FOR MAJOR OPE…
+- 10/09 07:31 [FirstSquawk] SOME TRUMP ADVISERS DOUBT FURTHER STRIKES WOULD CHANGE TEHRAN'S POSITION, WHILE OTHERS BELIEVE A SHORT CAMPAIGN COULD INCREASE PRESSURE ON IRAN'S WEAKENING ECONOMY - NYT
+- 10/09 07:41 [FirstSquawk] H.B. FULLER HAS ANNOUNCED THE PRICING OF AN $850 MLN DEBT OFFERING, PRICING $850 MLN OF 7.625% SENIOR UNSECURED NOTES DUE 2034
+- 10/09 07:42 [FirstSquawk] HONDA TO SELL MITSUBISHI MOTORS’ TRITON PICKUP UNDER ITS OWN BRAND - YOMIURI
+- 10/09 08:12 [financialjuice] advertising in the US from Bytedance, the previous owner of TikTok - ..
+- 10/09 08:13 [financialjuice] Meta platforms bar advertisements from ByteDance, former TikTok owner, in the US
+- 10/09 08:26 [financialjuice] Nvidia to invest in chip competitor D-Matrix: The Information
+- 10/09 08:30 [financialjuice] JAPANESE ALL HOUSEHOLD SPENDING YOY ACTUAL -3.1% (FORECAST -3.6%, PREVIOUS -3.6%) $MACRO
+- 10/09 08:30 [financialjuice] Japan August household spending falls 3.1% year/year: government (Poll: -3.6%)
+- 10/09 08:30 [financialjuice] JAPANESE ALL HOUSEHOLD SPENDING MOM ACTUAL 0.1% (FORECAST -, PREVIOUS 0.5%) $MACRO
+- 10/09 08:30 [financialjuice] Japan August household spending rises 0.1% month/month: govt (poll 0.5%)
+- 10/09 08:41 [financialjuice] Meta confirms it blocked ads from Bytedance: spokesperson
