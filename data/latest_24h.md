@@ -7,125 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-08 09:13 JST／対象: 10/07 09:13 〜 10/08 09:13 JST（時刻はすべて日本時間）
+生成: 2026-10-08 15:06 JST／対象: 10/07 15:06 〜 10/08 15:06 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 94 | 10/07 19:17 | 10/08 06:15 | ⚠ 131分（04:02→06:14） |
-| FirstSquawk | 297 | 10/07 09:17 | 10/08 09:12 | ⚠ 134分（10:47→13:01） |
-| financialjuice | 215 | 10/07 09:20 | 10/08 07:10 | ⚠ 140分（23:42→02:02） |
+| FirstSquawk | 307 | 10/07 15:08 | 10/08 15:05 | ⚠ 68分（16:44→17:52） |
+| financialjuice | 193 | 10/07 15:22 | 10/08 15:00 | ⚠ 423分（07:10→14:13） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 577 行（統合前 610 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 565 行（統合前 598 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/07 09:17 [FirstSquawk] Ballistic missiles launched by Russia target Kyiv, Ukraine
-- 10/07 09:18 [FirstSquawk] EUROPEAN STOCK FUTURES SLIP: EUROSTOXX 50 -0.4%, DAX -0.4%, FTSE FLAT
-- 10/07 09:19 [FirstSquawk] TWO TOP TRUMP ADVISERS, JAMES BLAIR AND CHRIS LACIVITA, TRAVELED TO BOSNIA'S REPUBLIKA SRPSKA TO PROVIDE ELECTION ADVICE TO ITS RUSSIA-ALIGNED GOVERNMENT WHILE SIMULTANEOUSLY LEADING REPUBLICAN EFFORTS FOR THE U.S. MIDTERMS, AND WERE REPORT…
-- 10/07 09:19 [FirstSquawk] REPUBLIKA SRPSKA, LED POLITICALLY BY MILORAD DODIK'S NATIONALIST PARTY, HAS CULTIVATED CLOSE TIES WITH PUTIN WHILE ALSO COURTING TRUMP AND HIS ALLIES, WITH TRUMP-LINKED LOBBYISTS AND OPERATIVES HAVING RECEIVED MORE THAN $4 MLN FROM THE REPU…
-- 10/07 09:20 [FirstSquawk] SAMSUNG SAYS SAMSUNG WALLET NOW SUPPORTS DIGITAL KEYS FOR SELECT GM VEHICLES, STARTING WITH SELECT 2026 AND 2027 CADILLAC EVS
-- 10/07 09:20 [financialjuice] Explosions heard in Ukraine's Kyiv: source witness
-- 10/07 09:21 [FirstSquawk] Asia-Pac equities are mostly subdued at the open, despite Wall St extending gains with the S&P 500 and Nasdaq reaching new all-time highs as yields eased
-- 10/07 09:24 [FirstSquawk] Russian Kalibr Missiles Launched From Sea, Ukraine Says
-- 10/07 09:27 [FirstSquawk] US PREPARING FORMAL REQUEST TO RUSSIA FOR DETAILS ON PLAGUE RESEARCH CENTRE DEATH - WP
-- 10/07 09:28 [financialjuice] US vice president Vance: Iran must reduce nuclear enrichment capacity to end war
-- 10/07 09:28 [financialjuice] Two missiles fired by Houthis strike Yemen's Aden International Airport: Aden security authority media office
-- 10/07 09:28 [financialjuice] No casualties reported in missile strike on Yemen's Aden international airport: Aden security authority media office
-- 10/07 09:28 [FirstSquawk] Brent oil futures gain $1 to $101.60/bbl on concerns over supply constraints
-- 10/07 09:29 [FirstSquawk] Yemen’s Aden International Airport Attacked by Two Houthi-Launched Missiles
-- 10/07 09:29 [FirstSquawk] Yemen’s Aden International Airport Missile Attack Reportedly Causes No Casualties
-- 10/07 09:40 [FirstSquawk] Asian Currencies Consolidate, With Risk-On Sentiment Offering Potential Support - WSJ
-- 10/07 09:41 [FirstSquawk] 5-Year JGB Yield Eases 0.5 Basis Points to 2.385%
-- 10/07 09:45 [FirstSquawk] Gold Slips as Markets Await Minutes From the Fed’s Latest Meeting - WSJ
-- 10/07 09:49 [FirstSquawk] China’s Economic Growth Expected to Ease as Global Economy Holds Up, US Think Tank Says
-- 10/07 09:52 [FirstSquawk] Ukrainian Channels Say At Least Six Tu-95MS Bombers From Olenya Airfield Are Airborne, Moving to Launch Positions
-- 10/07 10:02 [FirstSquawk] 30-Year JGB Yield Eases 3.0 Basis Points to 4.205%
-- 10/07 10:12 [FirstSquawk] EU wants to track potential rogue efforts to block out the sun - SCMP
-- 10/07 10:19 [FirstSquawk] Trump Says Becton Dickinson Will Invest $3 Billion in US Manufacturing Before Medical Device Tariffs Take Effect- Benzinga
-- 10/07 10:22 [FirstSquawk] South Korean Shares Start Lower Despite Easing Oil Prices and Bond Yields
-- 10/07 10:23 [FirstSquawk] Thai Graduates Face Tougher Job Market as AI Boom Accelerates
-- 10/07 10:31 [FirstSquawk] North Korea Accuses US of Escalating Regional Tensions While Defending Beijing’s ‘One China’ Policy - YONHAP
-- 10/07 10:35 [FirstSquawk] Four Major Japanese Beer Makers Raided Over Suspected Anti-Monopoly Law Breaches, Nikkei Reports
-- 10/07 10:36 [FirstSquawk] Hong Kong Biotech Stocks Slide Further, Hang Seng Biotech Index Down Over 3%
-- 10/07 10:38 [FirstSquawk] Alibaba’s Hong Kong-Listed Shares Down 2%
-- 10/07 10:40 [financialjuice] S. Korea central bank: sells 1-year monetary stabilisation bonds at 3.55% yield
-- 10/07 10:40 [FirstSquawk] South Korea Central Bank Sells 1-Year Monetary Stabilisation Bonds at 3.550%
-- 10/07 10:47 [FirstSquawk] More Japanese Companies Report Customer Data Breaches as Unauthorized Access Spreads
-- 10/07 10:59 [financialjuice] Saudi-led coalition: intercepted and destroyed ballistic missile launched by Houthis north of Riyadh
-- 10/07 11:02 [financialjuice] China gold holdings $323.52 billion at end-Sept vs $350.08 billion at end-Aug: central bank
-- 10/07 11:02 [financialjuice] China’s fx reserves $3.400 trln at end-Sept vs $3.438 trln at end-Aug: central bank
-- 10/07 11:02 [financialjuice] China's gold reserves 77.47 mln fine troy oz at end-Sept vs 76.73 mln troy oz at end-Aug: central bank
-- 10/07 11:21 [financialjuice] Hong Kong's Hang Seng AI theme index falls more than 3%
-- 10/07 11:34 [financialjuice] Dollar/yen rises 0.20% to 158.4400
-- 10/07 11:52 [financialjuice] Yemen's Houthis: drone strike on King Khalid International Airport in Riyadh, no immediate Saudi confirmation
-- 10/07 11:56 [financialjuice] Yemen's Houthis say they struck Saudi Arabia's Abha airport with ballistic missiles and drones; no immediate Saudi confirmation
-- 10/07 11:56 [financialjuice] Yemen's Houthis: ballistic missiles and drones strike airbase in Saudi Arabia's Khamis Mushait
-- 10/07 12:16 [financialjuice] Russian air strikes kill two in Ukraine's Kyiv: authorities
-- 10/07 13:01 [FirstSquawk] HSBC to Cut Jobs Across UK Wealth Business in Push to Expand AI Use - FT
-- 10/07 13:02 [FirstSquawk] Aramco Considers How to Manage Saudi Arabia’s Growing Gas Surplus - FT
-- 10/07 13:02 [FirstSquawk] Brussels Eyes Tax on Large Corporations in Bid to Capture Big Tech - FT
-- 10/07 13:05 [FirstSquawk] HSBC Expected to Cut About Half of Management and Specialist Roles, Nearly 70% of Financial Adviser Positions - FT
-- 10/07 13:11 [FirstSquawk] Middle East Diversions Drive Higher Cruise Capacity, Prompting Caribbean Fare Cuts - FT
-- 10/07 13:12 [FirstSquawk] UK Companies Face Risk of Fraudulent Directors Across Tens of Thousands of Active Firms - FT
-- 10/07 13:13 [FirstSquawk] Russian Hostile Activity May Cost UK as Much as £2.5 Billion a Year, Report Warns - FT
-- 10/07 13:20 [FirstSquawk] JPMorgan Lifts Gilead Target Price to $170 From $160
-- 10/07 13:32 [FirstSquawk] RBI Increases Repo Rate by 25 Bps to 5.50%
-- 10/07 13:33 [FirstSquawk] RBI Governor Says Global Financial Market Sentiment Remains Fragile and Uneasy
-- 10/07 13:34 [FirstSquawk] RBI Governor Puts FY27 Core Inflation View at 4.4%, Up From 4.3%
-- 10/07 13:36 [FirstSquawk] RBI Chief Says There Are Limited Signs of Supply-Side Pressures Becoming Embedded
-- 10/07 13:39 [FirstSquawk] US Investors Brace for Another Strong Earnings Season as AI Spending Remains Robust - FT
-- 10/07 13:41 [FirstSquawk] RBI Governor Says Trade Deals Should Support Growth in Merchandise Exports
-- 10/07 13:42 [FirstSquawk] RBI Governor Puts FY27 Real GDP Growth Forecast at 7.1%, Versus 6.7% Previously
-- 10/07 13:44 [financialjuice] Japan PM Takaichi: will consider reviewing policies, government revenue and spending if interest rate shifts differ from expectations
-- 10/07 13:44 [FirstSquawk] Japan PM Takaichi Says Government May Review Policies, Revenue and Spending if Interest Rate Shifts Diverge From Expectations
-- 10/07 13:45 [FirstSquawk] RBI Governor Says Q4 FY27 Real GDP Growth Seen at 6.8%, Unchanged From Earlier View
-- 10/07 13:45 [FirstSquawk] RBI Governor Puts Q3 FY27 Real GDP Growth Forecast at 6.9%, Versus 6.5% Previously
-- 10/07 13:49 [FirstSquawk] RBI Governor Flags Slower Global Trade Growth, Elevated Energy Prices and Trade Uncertainty as Upside Risks to CAD
-- 10/07 13:54 [FirstSquawk] RBI Governor Says India’s Economic Resilience Is Supporting Its Ability to Navigate Challenging Times
-- 10/07 14:00 [financialjuice] French bond market pressure can be "helpful" to focus minds in France on reining in public finances: Citadel's Ubide says - source
-- 10/07 14:00 [financialjuice] The bond market's message to French government: 'There is no longer any margin for error,' Citadel's Ubide says - source
-- 10/07 14:00 [financialjuice] Market still trying to understand Le Pen's budget plans: Citadel's Ubide says - source
-- 10/07 14:01 [FirstSquawk] Japan Leading Index CI Aug P: 118.0 (prev 117.7)
-- 10/07 14:01 [FirstSquawk] Japan Coincident Index: 118.7 (prev 120.6)
-- 10/07 14:02 [FirstSquawk] Saudi Arabia Refineries - SARCO Awards Lawazim Industrial National Guard Housing Project
-- 10/07 14:07 [financialjuice] Russian defence ministry: Russian forces launched massive strike on targets in Kyiv, other Ukrainian regions
-- 10/07 14:07 [FirstSquawk] Russian Defence Ministry Says Forces Conducted Massive Strike on Kyiv, Other Ukrainian Regions - IFX
-- 10/07 14:14 [financialjuice] JAPANESE LEADING INDICATOR CHANGE ACTUAL 0.4 (FORECAST -, PREVIOUS 1.5) $MACRO
-- 10/07 14:14 [FirstSquawk] RBI Assumes Crude Oil at $95/Barrel for Second Half of FY27, Up From $85 in First Half
-- 10/07 14:15 [FirstSquawk] South Korean Government Says Private Sector Investment in Energy Transition Projects to Reach 220 Trillion Won
-- 10/07 14:17 [FirstSquawk] South Korea Targets Global First With Mass Production of Hydrogen-Reduced Steel
-- 10/07 14:22 [FirstSquawk] RBI Says 10% Drop in Crude Prices Below Baseline Could Lower Inflation by Around 50 Bps
-- 10/07 14:32 [financialjuice] Japan's PM Takaichi: We will lead international debate on AI governance.
-- 10/07 14:36 [financialjuice] Japan's Fin. Min. Katayama: Will thoroughly explain budget compilation to the market
-- 10/07 14:41 [FirstSquawk] Iraq Central Bank Fixes Dinar Exchange Rate at 1,520 per USD - State News
-- 10/07 14:51 [financialjuice] ECB's Moulin: Situation on bond markets is "complicated"
-- 10/07 14:53 [financialjuice] Bank of France chief Moulin: The French economic situation is serious, but we can act
-- 10/07 14:53 [financialjuice] ECB's Moulin: France is not in economic crisis yet
-- 10/07 14:56 [FirstSquawk] Moulin Says France Is Not at a Point Where It Needs to Seek a Solution From ECB
-- 10/07 14:59 [financialjuice] ECB's Moulin: 2027 France budget is very important to reassure the market
-- 10/07 15:00 [financialjuice] ❗ GERMAN INDUSTRIAL PRODUCTION YOY SA ACTUAL 2.3% (FORECAST 0.7%, PREVIOUS -1.63%) $MACRO
-- 10/07 15:00 [financialjuice] ❗ GERMAN INDUSTRIAL PRODUCTION MOM ACTUAL 2% (FORECAST 0.5%, PREVIOUS -1.1%) $MACRO
-- 10/07 15:01 [financialjuice] IMF's Georgieva: The impact of AI and energy shock is uneven across the world
-- 10/07 15:01 [financialjuice] IMF's Managing Director Georgieva: AI boom bypassing most countries, boosting inequality.
-- 10/07 15:04 [FirstSquawk] European Stock Futures Lower: Euro Stoxx 50 Down 0.73%, DAX 0.62%, FTSE 0.26%
-- 10/07 15:04 [FirstSquawk] SWEDEN (SEP) CPI MOM ACTUAL: 0.9% VS -0.3% PREVIOUS;EST 1.0%
-- 10/07 15:05 [FirstSquawk] SWEDEN (SEP) CPI YOY ACTUAL: 1.1% VS 0.3% PREVIOUS;EST 1.2%
-- 10/07 15:05 [FirstSquawk] SWEDEN (SEP) CPIF MOM ACTUAL: 0.9% VS -0.2% PREVIOUS;EST 0.9%
-- 10/07 15:05 [FirstSquawk] SWEDEN (SEP) CPIF YOY ACTUAL: 1.5% VS 0.7% PREVIOUS;EST 1.5%
-- 10/07 15:05 [financialjuice] UK House prices 0.0% MoM in Sept (Poll 0.1%) - Lloyds
-- 10/07 15:05 [FirstSquawk] SWEDEN (SEP) CPIF EXCL. ENERGY MOM ACTUAL: 0.1% VS -0.5% PREVIOUS;EST 0.3%
-- 10/07 15:05 [FirstSquawk] SWEDEN (SEP) CPIF EXCL. ENERGY YOY ACTUAL: 0.5% VS 0.5% PREVIOUS;EST 0.7%
-- 10/07 15:05 [FirstSquawk] SWEDEN (SEP) BUDGET BALANCE ACTUAL: 23B VS 61.9B PREVIOUS
-- 10/07 15:05 [FirstSquawk] GERMANY (AUG) INDUSTRIAL PRODUCTION SA MOM ACTUAL: 2% VS -1.1% PREVIOUS;EST 0.5%
-- 10/07 15:05 [FirstSquawk] GERMANY (AUG) INDUSTRIAL PRODUCTION WDA YOY ACTUAL: 2.3% VS -1.6% PREVIOUS;EST 0.7%
-- 10/07 15:05 [FirstSquawk] NORWAY (AUG) INDUSTRIAL PRODUCTION WDA YOY ACTUAL: -0.6% VS -1.8% PREVIOUS
-- 10/07 15:06 [FirstSquawk] NORWAY (AUG) IND PROD MANUFACTURING MOM ACTUAL: -0.4% VS 0.7% PREVIOUS
-- 10/07 15:06 [FirstSquawk] NORWAY (AUG) IND PROD MANUFACTURING WDA YOY ACTUAL: 0.4% VS 1.5% PREVIOUS
 - 10/07 15:08 [FirstSquawk] JPMORGAN US SMALLER COMPANIES INVESTMENT TRUST: CASH OPTION FOR BASC SHAREHOLDERS SET AT 0.75% DISCOUNT TO RESIDUAL NAV
 - 10/07 15:08 [FirstSquawk] JPMORGAN US SMALLER COMPANIES INVESTMENT TRUST: BASC HOLDERS TO CHOOSE BETWEEN NEW JUSC SHARES AND CASH
 - 10/07 15:08 [FirstSquawk] JPMORGAN US SMALLER COMPANIES INVESTMENT TRUST: BASC TO WIND UP VOLUNTARILY UNDER PROPOSED RECONSTRUCTION SCHEME
@@ -601,3 +499,93 @@
 - 10/08 09:12 [FirstSquawk] THE TRUMP ADMINISTRATION PRESSURED SEVERAL COUNTRIES TO WITHDRAW THEIR SPONSORSHIP OF A MAJOR EUROPEAN DISINFORMATION CONFERENCE IN LITHUANIA, WITH THE EU, LITHUANIA AND CANADA SUBSEQUENTLY WITHDRAWING THEIR OFFICIAL SUPPORT AFTER U.S. OFFI…
 - 10/08 09:12 [FirstSquawk] THEIR LOGOS WERE REMOVED FROM CONFERENCE MATERIALS JUST DAYS BEFORE THE EVENT, WITH ALL THREE SAYING PARTS OF THE PROGRAM DID NOT REFLECT THEIR OFFICIAL POSITIONS, THOUGH THE EU CONTINUES TO FUND THE CONFERENCE DESPITE WITHDRAWING ITS OFFIC…
 - 10/08 09:12 [FirstSquawk] 30-Year Japanese Government Bond Yield Slips 2.5 Bps to 4.185%
+- 10/08 09:17 [FirstSquawk] EUROPEAN STOCK FUTURES RISE: EUROSTOXX 50 +0.2%, DAX +0.1%, FTSE +0.1%
+- 10/08 09:29 [FirstSquawk] Asia-Pac Begins Lower After Wall Street Pullback From Recent Records, With Yields Fluctuating
+- 10/08 09:33 [FirstSquawk] Ripple is emerging as a major competitor to Wall Street banks, WSJ reports.
+- 10/08 09:36 [FirstSquawk] South Korea Shares Start Higher on Tech Strength Despite High Oil Prices
+- 10/08 09:40 [FirstSquawk] China Researchers Develop First 3D Cell Atlas Mapping Rice’s Entire Growth Lifecycle
+- 10/08 09:41 [FirstSquawk] Samsung Signals $80B Profit Fueled by AI Demand, Highest Quarterly Profit in Tech
+- 10/08 09:42 [FirstSquawk] 2-Year Japanese Government Bond Yield Slips 1.5 Bps to 1.930%
+- 10/08 09:50 [FirstSquawk] South Korea Maintains Current Account Surplus in August as Exports Remain Strong
+- 10/08 09:56 [FirstSquawk] Gold Drops Under Pressure From Higher Yields and Firmer Dollar - WSJ
+- 10/08 10:00 [FirstSquawk] China Pushes Rapid AI Data Centre Expansion Across Energy-Rich Areas - FT
+- 10/08 10:01 [FirstSquawk] Taiwan’s Overnight Interbank Rate Unchanged at 0.805% at Session Open
+- 10/08 10:02 [FirstSquawk] 5-Year Japanese Government Bond Yield Slips 2.0 Bps to 2.390%
+- 10/08 10:02 [FirstSquawk] 30-Year Japanese Government Bond Yield Slips 4.0 Bps to 4.170%
+- 10/08 10:02 [FirstSquawk] 10-Year Japanese Government Bond Yield Slips 2.5 Bps to 3.080%
+- 10/08 10:03 [FirstSquawk] 20-Year Japanese Government Bond Yield Slips 3.5 Bps to 3.945%
+- 10/08 10:03 [FirstSquawk] Asian Currencies Consolidate, With Safe-Haven Demand for Dollar Seen as a Drag - WSJ
+- 10/08 10:09 [FirstSquawk] Fitch Ratings Says China’s AI Stack Could Drive Expansion Into Cost-Sensitive Markets
+- 10/08 10:16 [FirstSquawk] China’s Central Bank Sets Yuan Mid-Point at 6.7367 per Dollar
+- 10/08 10:17 [FirstSquawk] Trump Administration Waives Reflective Triangle Rule for Aurora, Other Self-Driving Trucks
+- 10/08 10:19 [FirstSquawk] Seoul Has Yet to Confirm Whether South Korean Fuel Was Exported to Russia
+- 10/08 10:19 [FirstSquawk] Seoul to Pursue Legal Action Against Illegal Shipments if Confirmed
+- 10/08 10:21 [FirstSquawk] Japan Plans ¥3 Trillion Treasury Discount Bill Offering
+- 10/08 10:30 [FirstSquawk] Japan Plans ¥600 Billion 30-Year JGB Sale With 4.200% Coupon
+- 10/08 10:34 [FirstSquawk] US Military Put on Alert for Possible Iran Strikes as Trump Weighs When to Act, Axios Reports
+- 10/08 10:44 [FirstSquawk] Oil Advances on Heightened Middle East Tensions - WSJ
+- 10/08 10:47 [FirstSquawk] Singapore Benchmark Index Drops 2.5% to 5,467.15, Lowest Since Mid-July
+- 10/08 10:52 [FirstSquawk] Crude Gains as Shipping Attacks Keep Middle East Supply Risks Elevated
+- 10/08 11:00 [FirstSquawk] China’s Most-Active Coking Coal Contract Gains 3%
+- 10/08 11:06 [FirstSquawk] Nissan to Sell China-Built Frontier Pro Pickup in Mexico Starting in October
+- 10/08 11:09 [FirstSquawk] Nissan Plans 2027 Launches in Australia and New Zealand Following 2026 Expansion
+- 10/08 11:17 [FirstSquawk] Sydney Setback Puts Goodman’s Japanese Data Center Under Fire
+- 10/08 11:18 [FirstSquawk] Indonesia’s 2026 and 2027 Budgets Do Not Include Danantara SOE Dividends
+- 10/08 11:25 [FirstSquawk] Standard Chartered Steps Up Digital Asset Custody Offering in Singapore
+- 10/08 11:32 [FirstSquawk] Standard Chartered to Provide Custody for Selected Cryptoassets to Institutional Clients
+- 10/08 11:44 [FirstSquawk] Sterling Weakens on Stable Dollar, Rising Oil Prices - FX
+- 10/08 11:49 [FirstSquawk] Brent Crude Climbs to $102.20/Barrel as Shipping Attacks Raise Supply Concerns
+- 10/08 11:53 [FirstSquawk] China’s STAR 100 Index Plunges Over 3% Amid Tech Selloff
+- 10/08 11:57 [FirstSquawk] Yemen’s Houthis Say King Khalid International Airport Was Targeted With a Ballistic Missile
+- 10/08 11:58 [FirstSquawk] Saudi Arabia Does Not Immediately Confirm Houthi Statement on Riyadh Airport Attack
+- 10/08 12:04 [FirstSquawk] Houthis Declare Saudi Airspace a Target for Military Operations, Except Over Mecca and Medina
+- 10/08 12:08 [FirstSquawk] North Korea’s Kim Yo Jong Says South Korean Medical Aid Plans Amount to Political Provocation, KCNA Says
+- 10/08 12:09 [FirstSquawk] Tanker Struck by Multiple Projectiles in Gulf Waters North of Qatar, UKMTO Reports - YF
+- 10/08 12:10 [FirstSquawk] North Korea’s Kim Yo Jong Says South Korea’s Identity and Hostile Inter-Korean Relations Cannot Change, KCNA Says
+- 10/08 12:17 [FirstSquawk] Trump Throws Full Support Behind Mike Rogers, Urges Voters to Vote for Him
+- 10/08 12:18 [FirstSquawk] Fitch Ratings Sees Power Availability as Key Driver of Taiwan’s AI Data Centre Growth
+- 10/08 12:20 [FirstSquawk] Malaysia PM Says Malaysia Will Support Efforts to Integrate Myanmar Into ASEAN Community Without Prejudice
+- 10/08 12:27 [FirstSquawk] Seoul and Cairo Upgrade Relations to Strategic Partnership, South Korean Presidential Office Says
+- 10/08 12:33 [FirstSquawk] Seoul, Cairo Sign MOUs on Shipbuilding, Clean Energy, Power Infrastructure and Information Technology
+- 10/08 12:38 [FirstSquawk] China’s 30-Year Ultra-Long Special Treasury Bond Auction Clears at 2.1078% Yield
+- 10/08 12:45 [FirstSquawk] Singapore’s Benchmark Index Drops 3.2% to 5,428.65
+- 10/08 13:00 [FirstSquawk] Chinese Company Gifts New BMWs to Top Workers Amid Harsh Weather Commute Concerns, SCMP Reports
+- 10/08 13:01 [FirstSquawk] Elon Musk Criticizes ‘Certain Oligarchs’ for Blocking Starlink in India, SCMP Reports
+- 10/08 13:12 [FirstSquawk] UK Consulate in Jerusalem Takes Down Signs as Israel’s Closure Deadline Expires, Reuters Reports
+- 10/08 13:17 [FirstSquawk] NZ Dollar Holds Steady as Firmer Bond Yields Support a Stable US Dollar - FX
+- 10/08 13:27 [FirstSquawk] USD/INR 1-Year Implied Rate Climbs 64 Basis Points This Week
+- 10/08 13:35 [FirstSquawk] Oil Majors Pursue Middle East’s Huge Reserves Beyond the Ongoing War
+- 10/08 13:35 [FirstSquawk] Wise Holds Talks With HMRC on Settlement Linked to Tax Error, FT Reports
+- 10/08 13:35 [FirstSquawk] Big Investors Seek Opportunities in Eurozone Bond Markets After French Debt Rout, FT Says
+- 10/08 13:40 [FirstSquawk] Japan’s Takaichi Rules Out Need for Reflationary Measures, Affirms BOJ Independence
+- 10/08 13:41 [FirstSquawk] Japan’s Takaichi Seeks Market Trust Through Open and Transparent Communication
+- 10/08 14:04 [FirstSquawk] BOJ: Robust Global AI-Related Demand Driving Higher Output at Firms in Many Regions
+- 10/08 14:04 [FirstSquawk] BOJ: Some Firms Are Raising Prices More Frequently Than Previously, Regions Report
+- 10/08 14:05 [FirstSquawk] BOJ: Firms in Many Regions Passing on Higher Costs From Middle East Conflict, Weak Yen and Labor Expenses
+- 10/08 14:05 [FirstSquawk] BOJ Reports Some Regions See Cost-Pass-Through Challenges Weighing on Wage Increases
+- 10/08 14:05 [FirstSquawk] BOJ Reports Many Regions Seeing Firms Sustain High Wage Offers
+- 10/08 14:06 [FirstSquawk] US Oil Futures Gain More Than 2% to $90.07/Barrel on Storm, Shipping Supply Risks
+- 10/08 14:07 [FirstSquawk] UK Foreign Secretary Miliband Travels to Kyiv, Reiterates UK Support for Ukraine
+- 10/08 14:09 [FirstSquawk] Germany’s Steinmeier Eyes China Trip Amid Berlin’s Sharpening Trade Stance, SCMP Reports
+- 10/08 14:13 [FirstSquawk] Yandex: Incident at Ryazan Data Centre Disrupted Part of Infrastructure, IFX Says
+- 10/08 14:13 [financialjuice] BOJ: many regions report firms boosting output on strong global AI-related demand
+- 10/08 14:13 [financialjuice] UK FCDO: Foreign Secretary Ed Miliband in Kyiv today to affirm UK’s steadfast backing for Ukraine
+- 10/08 14:13 [financialjuice] BoJ: Many regions report corporate investment appetite remains strong
+- 10/08 14:13 [financialjuice] BOJ: many regions reported consumption stayed resilient despite poor weather
+- 10/08 14:13 [financialjuice] World Bank appoints David Vaillant as managing director and CFO
+- 10/08 14:21 [FirstSquawk] US, Russia Hold Talks on Nord Stream Investor Plan
+- 10/08 14:29 [FirstSquawk] Australia Benchmark S&P/ASX 200 Falls 0.8% to Close at 8,660.90
+- 10/08 14:36 [FirstSquawk] TSMC Q3 Revenue Hits NT$1.49 Trillion vs NT$1.46 Trillion Estimate; September Sales Jump 54.6%
+- 10/08 14:41 [FirstSquawk] Drone Attack Forces Yandex to Halt Data Centre Operations in Ryazan Region
+- 10/08 14:43 [financialjuice] US Secretary of State Rubio on NATO: Germans have stepped up to do their part
+- 10/08 14:44 [financialjuice] US Secretary of State Rubio: Greece is a model ally
+- 10/08 15:00 [financialjuice] GERMAN TRADE BALANCE SA ACTUAL 19.5B (FORECAST 19B, PREVIOUS 21.3B) $MACRO
+- 10/08 15:00 [financialjuice] GERMAN EXPORTS MOM SA ACTUAL -0.8% (FORECAST 0.9%, PREVIOUS -0.8%) $MACRO
+- 10/08 15:00 [financialjuice] GERMAN IMPORTS MOM SA ACTUAL 0.9% (FORECAST 2.8%, PREVIOUS -5.7%) $MACRO
+- 10/08 15:00 [FirstSquawk] GERMANY (AUG) German Trade Balance ACTUAL: 19.5B VS 21.3B PREVIOUS;EST 19B
+- 10/08 15:00 [FirstSquawk] GERMANY (AUG) German Exports (MoM) ACTUAL: -0.8% VS -0.8% PREVIOUS;EST 0.8%
+- 10/08 15:00 [FirstSquawk] GERMANY (AUG) German Imports (MoM) ACTUAL: 0.9% VS -5.7% PREVIOUS;EST 2.8%
+- 10/08 15:02 [FirstSquawk] European Futures Slide: Euro Stoxx 50 Down 0.31%, DAX 0.34%, FTSE 0.26%
+- 10/08 15:03 [FirstSquawk] Israel Says British Consulate in Jerusalem Will End Operations Today
+- 10/08 15:04 [FirstSquawk] Israel Says Consul General and 20 Diplomats Are Ending Assignments and Leaving the Country
+- 10/08 15:05 [FirstSquawk] BYD’s Stella Li Says Investors Underestimate the Company’s Broader Engineering and Manufacturing Capabilities
