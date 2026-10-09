@@ -7,75 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-10 02:09 JST／対象: 10/09 14:09 〜 10/10 02:09 JST（時刻はすべて日本時間）
+生成: 2026-10-10 06:40 JST／対象: 10/09 18:40 〜 10/10 06:40 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 27 | 10/09 20:31 | 10/10 01:49 | ⚠ 95分（23:00→00:36） |
-| FirstSquawk | 110 | 10/09 14:18 | 10/10 02:01 | ⚠ 71分（23:14→00:25） |
-| financialjuice | 93 | 10/09 14:17 | 10/10 02:01 | ⚠ 157分（17:34→20:12） |
+| DeItaone | 36 | 10/09 20:31 | 10/10 04:04 | ⚠ 95分（23:00→00:36） |
+| FirstSquawk | 97 | 10/09 18:53 | 10/10 05:03 | ⚠ 71分（23:14→00:25） |
+| financialjuice | 131 | 10/09 20:12 | 10/10 05:57 | 45分（20:15→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 218 行（統合前 231 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 247 行（統合前 267 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/09 14:17 [financialjuice] Morning Juice - Europe Session Prep
-- 10/09 14:18 [FirstSquawk] SPOT PLATINUM GAINS 3%, CLIMBING TO $1,678.15 PER OUNCE
-- 10/09 14:29 [FirstSquawk] AUSTRALIAN STOCKS GAIN 0.6% AS THE S&P/ASX 200 CLOSES AT 8,716.60
-- 10/09 14:32 [FirstSquawk] SPOT PALLADIUM RALLIES TO $1,157.16/OZ, UP 3%
-- 10/09 14:45 [FirstSquawk] JAPAN'S NIKKEI STOCK INDEX GIVES UP EARLY LOSSES, RETURNING TO FLAT
-- 10/09 14:46 [FirstSquawk] JAPAN'S 10-YEAR JGB YIELD SLIDES 7.5 BPS TO 3.005%
-- 10/09 14:46 [FirstSquawk] SK GROUP'S CHEY EXPECTS ROBUST MOMENTUM IN GLOBAL CHIP DEMAND TO PERSIST
-- 10/09 14:49 [FirstSquawk] SK CHAIRMAN CHEY SAYS CHIP FAB WILL BE BUILT AS FAST AS POSSIBLE, WITH POWER AND WATER SUPPLIES IN PLACE
-- 10/09 14:51 [FirstSquawk] JAPAN'S 20-YEAR JGB YIELD SLIDES 8.5 BPS TO 3.865%
-- 10/09 15:00 [financialjuice] NORWEGIAN CPI MOM ACTUAL 0.5% (FORECAST -, PREVIOUS -0.3%) $MACRO
-- 10/09 15:00 [financialjuice] NORWEGIAN CPI YOY ACTUAL 3.4% (FORECAST 3.6%, PREVIOUS 3.3%) $MACRO
-- 10/09 15:03 [FirstSquawk] NORWAY (SEP) CPI UNDERLYING MOM ACTUAL: 0.2% VS -0.5% PREVIOUS;EST 0.3%
-- 10/09 15:03 [FirstSquawk] NORWAY (SEP) CPI UNDERLYING YOY ACTUAL: 3.0% VS 3.0% PREVIOUS;EST 3.1%
-- 10/09 15:03 [FirstSquawk] JAPAN (SEP) MACHINE TOOL OREDERS YOY ACTUAL: 60.4% VS 64.7% PREVIOUS
-- 10/09 15:03 [FirstSquawk] SWEDEN (AUG) GDP INDICATOR SA MOM ACTUAL: 1.1% VS -0.8% PREVIOUS;EST 0.5%
-- 10/09 15:03 [FirstSquawk] SWEDEN (AUG) GDP INDICATOR WDA YOY ACTUAL: 3.5% VS 2.5% PREVIOUS
-- 10/09 15:03 [FirstSquawk] SWEDEN (AUG) PRIVATE SECTOR PRODUCTION YOY ACTUAL: 3.8% VS 3.6% PREVIOUS
-- 10/09 15:03 [FirstSquawk] SWEDEN (AUG) INDUSTRY PRODUCTION VALUE YOY ACTUAL: 5.8% VS 0.2% PREVIOUS
-- 10/09 15:03 [FirstSquawk] SWEDEN (AUG) SERVICE PRODUCTION VALUE YOY ACTUAL: 3.4% VS 5.0% PREVIOUS
-- 10/09 15:03 [FirstSquawk] SWEDEN (AUG) INDUSTRIAL ORDERS MOM ACTUAL: 2.0% VS -24.1% PREVIOUS
-- 10/09 15:03 [FirstSquawk] SWEDEN (AUG) INDUSTRIAL ORDERS NSA YOY ACTUAL: 5.1% VS -0.5% PREVIOUS
-- 10/09 15:03 [FirstSquawk] NORWAY (SEP) CPI MOM ACTUAL: 0.5% VS -0.3% PREVIOUS
-- 10/09 15:03 [FirstSquawk] NORWAY (SEP) CPI YOY ACTUAL: 3.4% VS 3.3% PREVIOUS;EST 3.6%
-- 10/09 15:06 [FirstSquawk] NORWAY PPI INCLUDING OIL (Y/Y) SEP: 48.8% (PREV 30.1%)
-- 10/09 15:06 [FirstSquawk] NORWAY PPI INCLUDING OIL (M/M): 12.4% (PREV 4.7%)
-- 10/09 15:08 [FirstSquawk] APPLE SCALES BACK IPHONE 18 PRO ORDERS FOLLOWING WEAKER-THAN-EXPECTED DEMAND, NIKKEI SAYS
-- 10/09 15:10 [financialjuice] Apple asks for parts output cuts for iPhone 18 Pro and Max - Nikkei $AAPL
-- 10/09 15:27 [FirstSquawk] RUSSIAN DEFENCE MINISTRY CLAIMS STRIKE ON CARGO SHIP AT MYKOLAIV PORT IN UKRAINE
-- 10/09 15:36 [FirstSquawk] BARCLAYS LOWERS RYANAIR RATING TO EQUAL-WEIGHT AND REDUCES TARGET PRICE TO EUR 24 FROM EUR 28.50
-- 10/09 15:53 [FirstSquawk] EUROPEAN Q3 REVENUE GROWTH FORECAST HOLDS AT 10.6%, ACCORDING TO LSEG IBES DATA
-- 10/09 16:02 [financialjuice] Currency Strength Chart: Strongest: AUD, NZD, EUR, CHF, CAD, GBP, USD, GBP - Weakest
-- 10/09 16:02 [financialjuice] US Treasury Secretary Bessent may focus on Trump’s Shenzhen visit - SCMP.
-- 10/09 16:02 [financialjuice] US Treasury Secretary Bessent may skip APEC in Hong Kong - SCMP
-- 10/09 16:06 [FirstSquawk] PORSCHE AG 9M TRADING UPDATE: DELIVERIES DOWN 16% Y/Y AT 178,532 VEHICLE; EUROPE EXCL GERMANY DOWN 11% Y/Y, IN GERMANY DOWN 7% Y/Y; CHINA DOWN 33% Y/Y, IN NORTH AMERICA DOWN 13% Y/Y
-- 10/09 16:38 [financialjuice] Operations resume at Riyadh's King Khalid International Airport, air traffic returns to normal - Saudi Civil Aviation Authority
-- 10/09 16:41 [FirstSquawk] SAUDI ARABIA REPORTED ON THURSDAY THAT RIYADH AIRPORT WAS TARGETED IN ATTACKS.
-- 10/09 16:41 [FirstSquawk] THREE SAUDI NATIONALS DIED IN TWO ATTACKS AT KING KHALID INTERNATIONAL AIRPORT IN RIYADH, AS CONFIRMED BY SAUDI CIVIL AVIATION AUTHORITY.
-- 10/09 16:42 [FirstSquawk] FIRST ATTACK HIT AIRPORT FACILITIES, WHILE THE SECOND TARGETED SAUDI AIRCRAFT - SAUDI CIVIL AVIATION AUTHORITY.
-- 10/09 16:42 [FirstSquawk] OPERATIONS HAVE RESTARTED AT KING KHALID INTERNATIONAL AIRPORT IN RIYADH, AIR TRAFFIC IS BACK TO NORMAL, REPORTS SAUDI CIVIL AVIATION AUTHORITY.
-- 10/09 16:42 [FirstSquawk] SAUDIA AIRLINER CONFIRMED DAMAGE TO AN AIRCRAFT AT KING KHALID AIRPORT IN RIYADH WHILE IT WAS PARKED, AND THERE WERE NO PASSENGERS ABOARD.
-- 10/09 16:48 [FirstSquawk] SAUDIA AIRLINES EMPLOYEE KILLED IN HOUTHI ATTACK- STATE TV
-- 10/09 17:00 [financialjuice] ITALIAN INDUSTRIAL PRODUCTION MOM ACTUAL -1.3% (FORECAST 0%, PREVIOUS 0.7%) $MACRO
-- 10/09 17:04 [FirstSquawk] GOOGLE CLOUD AND CAIXABANK HAVE EXTENDED THEIR PARTNERSHIP UNTIL 2033.
-- 10/09 17:13 [financialjuice] Saudi-led coalition: three missile launchers used by Houthis destroyed, post on X
-- 10/09 17:13 [financialjuice] Saudi-led coalition: will respond firmly to Houthi strikes on civilians and civilian facilities
-- 10/09 17:14 [FirstSquawk] SAUDI-LED COALITION TOOK OUT 3 HOUTHI MISSILE LAUNCHERS.
-- 10/09 17:14 [FirstSquawk] SAUDI-LED COALITION PROMISES STRONG RESPONSE TO HOUTHI ATTACKS ON CIVILIANS AND CIVILIAN TARGETS.
-- 10/09 17:34 [financialjuice] UK Treasury Minister Rigby: Keenly aware of UK global competitiveness.
-- 10/09 17:34 [financialjuice] UK Treasury Minister Rigby: Financial services matter to Andy Burnham.
-- 10/09 17:56 [FirstSquawk] Global Markets Rebound as Oil Prices Fall and AI Fears Ease US stock futures climbed as easing concerns over AI investments and falling oil prices lifted investor sentiment. S&P 500 futures gained 0.5%, while Nasdaq 100 futures advanced 0.9…
-- 10/09 17:58 [FirstSquawk] Deadly Attacks Hit Riyadh Airport, Three Killed Three Saudi Arabians were killed and others injured in two attacks targeting facilities at Riyadh’s King Khalid International Airport and a Saudia Airlines aircraft, according to Saudi authori…
-- 10/09 17:59 [FirstSquawk] Australian Wheat Exports Set to Surge 47% Amid Black Sea Disruptions Australia is on track to export around 2.6 million tonnes of grain in October, 47% above the five-year average, as escalating attacks on Black Sea ships and grain terminal…
 - 10/09 18:53 [FirstSquawk] CHINA’S CPCA REPORTS TESLA SOLD 95,366 VEHICLES MADE IN CHINA IN SEPTEMBER.
 - 10/09 19:10 [FirstSquawk] THERE IS EXTENSIVE DAMAGE TO POWER GRIDS AND ELECTRICITY TRANSMISSION FACILITIES AFTER RUSSIAN STRIKES SAYS ZELENSKIY
 - 10/09 19:35 [FirstSquawk] DELTA AIR LINES Q3 ADJ OPER REV $17.59 BLN VS IBES ESTIMATE $17.66 BLN || Q3 ADJ EPS $1.72 VS IBES ESTIMATE $1.75 || EXPECT TO GENERATE PRE-TAX PROFIT OF ABOUT $4.5 BLN FOR FY, ABSORBING $6 BLN INCREASE IN FUEL COSTS || OUTLOOK FY 2026 FREE…
@@ -242,3 +190,84 @@
 - 10/10 02:01 [financialjuice] US BAKER HUGHES OIL RIG COUNT ACTUAL 462 (FORECAST -, PREVIOUS 456) $MACRO
 - 10/10 02:01 [FirstSquawk] US OIL RIG COUNT UP 6 TO 462 , BAKER HUGHES SAYS
 - 10/10 02:01 [FirstSquawk] US TOTAL RIG COUNT 603 , BAKER HUGHES SAYS
+- 10/10 02:15 [FirstSquawk] FITCH RATINGS: U.K. GAS NETWORKS RETAIN HEADROOM DESPITE TIGHTER DEBT CAPACITY
+- 10/10 02:20 [DeItaone] JD VANCE ON PLANNED EXECUTION: I DON'T KNOW IF LIVESTREAM WILL HAPPEN VANCE: IF LIVESTREAMED, I WILL NOT BE WATCHING IT
+- 10/10 02:21 [FirstSquawk] TRUMP BEEF IMPORT STRATEGY FAILS TO LOWER PRICES OR APPEASE RANCHERS - POLITICO
+- 10/10 02:21 [FirstSquawk] 1 COUNTERPARTY TAKES $300 MLN AT FED REVERSE REPO (PREV $335 MLN, 2 BIDS)
+- 10/10 02:29 [FirstSquawk] US ENVOYS KUSHNER, WITKOFF TO DISCUSS NEW PEACE PLAN WITH UKRAINIAN DELEGATION - NBC
+- 10/10 02:30 [FirstSquawk] EXPLOSIONS, AIR DEFENSE ACTIVITY HEARD IN TEHRANPARS, EAST TEHRAN
+- 10/10 02:31 [financialjuice] Trump pressures Mexico for energy deals in crunch trade talks - FT
+- 10/10 02:32 [DeItaone] TRUMP TO ISSUE DIRECTIVE TO US OFFICIALS THAT SEEKS TO CONTROL COST OF DIESEL -THREE INDUSTRY SOURCES SAY
+- 10/10 02:32 [financialjuice] ❗ Trump to issue directive to US officials that seeks to control the cost of diesel - Three industry sources
+- 10/10 02:33 [financialjuice/DeItaone] Trump Directive on diesel will push US department heads to find ways to bypass local, state regulations blocking energy production - three sources
+- 10/10 02:33 [financialjuice] Trump directive will push US officials to use the Defense Production Act to find ways to increase production of oil and fuel - Sources
+- 10/10 02:35 [financialjuice] Trump insisted to Sheinbaum more US-Mexico energy tie-ups - FT
+- 10/10 02:36 [DeItaone] U.S. JET FUEL PRICES NEAR $5 A GALLON AMID WAR DISRUPTIONS Jet fuel prices have surged to $4.95 per gallon in New York and $4.91 in Los Angeles, reaching their highest levels since March and April, respectively. Ukrainian strikes on Russian…
+- 10/10 02:40 [FirstSquawk] DONALD TRUMP PRESSURES MEXICO FOR ENERGY DEALS IN CRUNCH TRADE TALKS – FT
+- 10/10 02:46 [FirstSquawk] VENEZUELA GRANTS SPACEX CONCESSIONS FOR SATELLITE INTERNET
+- 10/10 02:58 [FirstSquawk] NHC: TROPICAL STORM CONDITIONS BEGINNING ALONG THE NORTHERN GULF COAST
+- 10/10 03:02 [financialjuice] Trump to seek ways to overcome state hurdles on energy projects.
+- 10/10 03:02 [financialjuice] Trump to issue memo as soon as today on state energy hurdles
+- 10/10 03:03 [FirstSquawk] KATIE ZACHARIA TO BE NEW WHITE HOUSE PRESS SECRETARY: NYT
+- 10/10 03:04 [financialjuice] local sources report sounds heard in Yazd, eastern Iran were caused by military air defense exercise - Sepah Media
+- 10/10 03:06 [FirstSquawk] PANAMA STRUCK BY 8.0 MAG. EARTHQUAKE NEAR PITALOZA ARRIBA: USGS
+- 10/10 03:10 [financialjuice] IDF: We attacked a Syrian terrorist operative from the air who was operating under the direction of the Iranian regime - Israel's N12 News
+- 10/10 03:14 [FirstSquawk] PTWC: HAZARDOUS TSUNAMI WAVES POSSIBLE FROM PANAMA QUAKE
+- 10/10 03:21 [financialjuice] ECB's Kazaks: European economy is relatively resilient to shocks.
+- 10/10 03:21 [financialjuice] ECB's Kazaks: 2.5% is the upper limit of the ECB's neutral limit
+- 10/10 03:21 [FirstSquawk] ECB KAZAKS: 2.5% IS THE UPPER LIMIT OF THE ECB'S NEUTRAL LIMIT
+- 10/10 03:21 [FirstSquawk] KAZAKS: ECB IS IN A FAIRLY COMFORTABLE SITUATION ON RATES
+- 10/10 03:21 [FirstSquawk] KAZAKS: EUROPEAN ECONOMY IS RELATIVELY RESILIENT TO SHOCKS
+- 10/10 03:21 [financialjuice] ECB's Kazaks: ECB is in a fairly comfortable situation on rates.
+- 10/10 03:31 [financialjuice] NYMEX WTI crude Nov. futures settle at $91.85 a barrel up 36 cents, 0.39%
+- 10/10 03:31 [financialjuice] NYMEX gasoline Nov. futures settle at $3.2952 a gallon
+- 10/10 03:31 [FirstSquawk] US CRUDE OIL FUTURES SETTLE AT $91.85/BBL, UP 36 CENTS, 0.39%
+- 10/10 03:31 [financialjuice] NYMEX diesel Nov. futures settle at $4.7384 a gallon
+- 10/10 03:32 [financialjuice] NYMEX Nat Gas Nov. futures settle at $3.2200/MMBTU
+- 10/10 03:40 [financialjuice] Microsoft Nadella: Introduces Microsoft-decision-1, new model. $MSFT
+- 10/10 03:40 [FirstSquawk] PTWC: 1 TO 3 METER TSUNAMI WAVES POSSIBLE ALONG PANAMA COASTS
+- 10/10 03:40 [FirstSquawk] NADELLA: INTRODUCES MICROSOFT-DECISION-1, NEW MODEL
+- 10/10 03:41 [financialjuice] Nadella: We're already testing new model across Microsoft. $MSFT
+- 10/10 03:47 [financialjuice] Trump: Just concluded successful talk with Putin.
+- 10/10 03:47 [financialjuice] ❗ Trump: Russia to supply 300k+ metric tons of diesel - Truth Social
+- 10/10 03:47 [FirstSquawk] Trump on truth social I have just concluded a highly successful discussion with President Vladimir Putin, of Russia, wherein it was agreed that Russia will immediately supply over 300,000 Tons of Diesel Fuel to the American and Global Marke…
+- 10/10 03:47 [financialjuice] ‼ BREAKING: Trump: Russia to supply 300k+ metric tons of diesel - Truth Social
+- 10/10 03:47 [DeItaone] TRUMP ANNOUNCES DEAL WITH PUTIN FOR RUSSIAN DIESEL SUPPLIES President Trump says he held a “highly successful” discussion with Vladimir Putin, securing an agreement for Russia to supply diesel to U.S. and global markets. According to Trump,…
+- 10/10 03:47 [DeItaone] *TRUMP SAYS RUSSIA TO DELIVER 3M METRIC TONS DIESEL SOON
+- 10/10 03:48 [financialjuice] ❗ Trump: Russia will immediately supply another 500k tons during month of November, and 1 mln tons immediately thereafter.
+- 10/10 03:48 [financialjuice] ❗ Trump: Russia to deliver 3 mln metric tons diesel soon.
+- 10/10 03:50 [financialjuice] US Treasury: Office of Foreign Assets Control (OFAC) is immediately issuing a temporary general license to allow the supply of Russian diesel to the global market.
+- 10/10 03:50 [financialjuice/FirstSquawk] Brent Crude futures settle at $104.72/bbl, up 44 cents, 0.42%
+- 10/10 03:52 [DeItaone] Trump on Truth Social: 'Diesel Prices for Americans and, Indeed, the World, Will Be COMING DOWN, IN RECORD NUMBERS, AND FAST!'
+- 10/10 03:53 [financialjuice] Trump: Putin Agreed to Release Diesel Into Global Oil Market - Truth Social
+- 10/10 04:00 [financialjuice/DeItaone] US issues general license authorizing transactions related to sale, delivery, offloading, and importation of diesel fuel of Russian origin through April 7th, 2027
+- 10/10 04:01 [financialjuice] Week Ahead: Economic Indicators 12th – 16th October (US)
+- 10/10 04:04 [DeItaone/financialjuice/FirstSquawk] PUTIN'S ENVOY DMITRIEV ON X: RUSSIA-US COOPERATION ON DIESEL AND ENERGY WILL BENEFIT THE WORLD
+- 10/10 04:19 [FirstSquawk] NASA SEEKS US INDUSTRY PLANS FOR COMMERCIAL SPACE STATIONS
+- 10/10 04:22 [financialjuice] Monday FX Option Expiries
+- 10/10 04:30 [financialjuice] CFTC Positions in the Week of October 6th 2026
+- 10/10 04:35 [FirstSquawk] LOCKHEED MARTIN DEBUTS PAC-3 EDGE FOR US ARMY PROGRAM
+- 10/10 04:37 [financialjuice] The Ukrainian Government was surprised by Trump's announcement on Russian Diesel - Axios.
+- 10/10 04:41 [FirstSquawk] GOOGLE IS ABOUT TO ROLL OUT A NEW AI MODEL. EMPLOYEES SAY THEY'RE TESTING ANOTHER THAT'S WAY BETTER – BUSINESS INSIDER READ HERE
+- 10/10 04:43 [financialjuice] Google staff are testing a new version of Gemini 4, 'Carbon' - Insider. $GOOGL
+- 10/10 04:46 [financialjuice] Ukraine’s President Zelenskiy: Gifts to Putin on easing sanctions will not end the war.
+- 10/10 04:46 [financialjuice] Ukraine’s President Zelenskiy on Trump-Putin Diesel deal: Russia will repay concessions on diesel with more terrorism.
+- 10/10 04:46 [financialjuice] Ukraine’s President Zelenskiy: Allowing Russia to sell petroleum products is an investment in war that needs to end, not continue.
+- 10/10 04:49 [FirstSquawk] UKRAINIAN OFFICIAL: UKRAINIAN GOVERNMENT WAS SURPRISED BY TRUMP'S ANNOUNCEMENT – AXIOS
+- 10/10 04:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: -771.2 MLN NASDAQ 100: -309.7 MLN DOW 30: -229.4 MLN MAG 7: -214.5 MLN $MACRO
+- 10/10 04:56 [financialjuice] Putin: Russia confirms readiness to supply oil and petroleum products to the US and global markets - Tass.
+- 10/10 04:59 [FirstSquawk] RUSSIA READY TO SEND CRUDE, OIL PRODS TO US, GLOBAL MKT:KREMLIN
+- 10/10 05:00 [financialjuice] Iran's President Pezeshkian: Regional diplomacy shouldn't just be about holding meetings. It must be a real tool: for crisis management, maintaining dialogue, preventing escalation, and driving practical cooperation - Post on X
+- 10/10 05:03 [FirstSquawk] DOW JONES UNOFFICIALLY CLOSES UP 425.06 POINTS, OR 0.83%, AT 51,656.70 NASDAQ UNOFFICIALLY CLOSES UP 178.54 POINTS, OR 0.66 PERCENT, AT 27,371.88 S&P 500 UNOFFICIALLY CLOSES UP 45.07 POINTS, OR 0.58 PERCENT, AT 7,810.43
+- 10/10 05:05 [financialjuice] S&P on the UK: High hydrocarbon prices have been affecting inflation, and the BoE is expected to tighten its policy rate by 0.25% in late 2026.
+- 10/10 05:05 [financialjuice] S&P: United Kingdom 'AA/A-1+' ratings affirmed; outlook stable
+- 10/10 05:06 [financialjuice] S&P on the UK: Based on better-than-expected performance in the first half of the year, we revised up our real GDP growth estimate for 2026 to 1.3%.
+- 10/10 05:07 [financialjuice] S&P on the UK: The Labour Party holds a majority that, barring unforeseen events, should keep it in power until the next general election due in 2029.
+- 10/10 05:07 [financialjuice] S&P on the UK: Oil & gas prices & those for other inputs tied to conflict in the Middle East, like fertilizer, affecting inflation & interest rates.
+- 10/10 05:12 [financialjuice] Russia’s Deputy PM Novak: Russia views the US steps aimed at stabilizing the global energy market positively.
+- 10/10 05:12 [financialjuice] Russia’s Deputy PM Novak: Russia starts lifting diesel export restrictions immediately.
+- 10/10 05:12 [financialjuice] Russia’s Deputy PM Novak: Russia is ready to supply additional volumes of diesel fuel to the US market, as well as to all its partners, as early as October.
+- 10/10 05:12 [financialjuice] Russia’s Deputy PM Novak: Exports set to increase further in November and December as refineries return to operation following maintenance.
+- 10/10 05:16 [financialjuice] US bank deposits rose to $19.693 tln from $19.638 tln in the prior week.
+- 10/10 05:17 [financialjuice] Stocks Approach Record Highs as Earnings Optimism Supports Wall Street – US Market Wrap
+- 10/10 05:57 [financialjuice] Saudi-led Coalition: We're carrying out a wide-ranging operation targeting Yemen's Houthi elements and capabilities.
