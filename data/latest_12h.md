@@ -7,121 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-09 19:29 JST／対象: 10/09 07:29 〜 10/09 19:29 JST（時刻はすべて日本時間）
+生成: 2026-10-10 02:09 JST／対象: 10/09 14:09 〜 10/10 02:09 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 0 | - | - | - |
-| FirstSquawk | 110 | 10/09 07:30 | 10/09 19:10 | ⚠ 85分（07:42→09:08） |
-| financialjuice | 42 | 10/09 08:12 | 10/09 17:34 | ⚠ 52分（15:10→16:02） |
+| DeItaone | 27 | 10/09 20:31 | 10/10 01:49 | ⚠ 95分（23:00→00:36） |
+| FirstSquawk | 110 | 10/09 14:18 | 10/10 02:01 | ⚠ 71分（23:14→00:25） |
+| financialjuice | 93 | 10/09 14:17 | 10/10 02:01 | ⚠ 157分（17:34→20:12） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 152 行（統合前 152 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 218 行（統合前 231 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/09 07:30 [FirstSquawk] THE PENTAGON HAS DRAFTED PLANS FOR A THREE-DAY CAMPAIGN OF INTENSE STRIKES AGAINST IRAN, TARGETING ITS MISSILE AND DRONE ARSENAL, ENERGY FACILITIES AND REVOLUTIONARY GUARD HEADQUARTERS, THOUGH TRUMP HAS REJECTED FIVE PROPOSALS FOR MAJOR OPE…
-- 10/09 07:31 [FirstSquawk] SOME TRUMP ADVISERS DOUBT FURTHER STRIKES WOULD CHANGE TEHRAN'S POSITION, WHILE OTHERS BELIEVE A SHORT CAMPAIGN COULD INCREASE PRESSURE ON IRAN'S WEAKENING ECONOMY - NYT
-- 10/09 07:41 [FirstSquawk] H.B. FULLER HAS ANNOUNCED THE PRICING OF AN $850 MLN DEBT OFFERING, PRICING $850 MLN OF 7.625% SENIOR UNSECURED NOTES DUE 2034
-- 10/09 07:42 [FirstSquawk] HONDA TO SELL MITSUBISHI MOTORS’ TRITON PICKUP UNDER ITS OWN BRAND - YOMIURI
-- 10/09 08:12 [financialjuice] advertising in the US from Bytedance, the previous owner of TikTok - ..
-- 10/09 08:13 [financialjuice] Meta platforms bar advertisements from ByteDance, former TikTok owner, in the US
-- 10/09 08:26 [financialjuice] Nvidia to invest in chip competitor D-Matrix: The Information
-- 10/09 08:30 [financialjuice] JAPANESE ALL HOUSEHOLD SPENDING YOY ACTUAL -3.1% (FORECAST -3.6%, PREVIOUS -3.6%) $MACRO
-- 10/09 08:30 [financialjuice] Japan August household spending falls 3.1% year/year: government (Poll: -3.6%)
-- 10/09 08:30 [financialjuice] JAPANESE ALL HOUSEHOLD SPENDING MOM ACTUAL 0.1% (FORECAST -, PREVIOUS 0.5%) $MACRO
-- 10/09 08:30 [financialjuice] Japan August household spending rises 0.1% month/month: govt (poll 0.5%)
-- 10/09 08:41 [financialjuice] Meta confirms it blocked ads from Bytedance: spokesperson
-- 10/09 08:58 [financialjuice] Flock Safety to slash hundreds of jobs as backlash grows against its AI-powered surveillance cameras, sources say
-- 10/09 09:08 [FirstSquawk] WEAK DEMAND FORCES NVIDIA-BACKED FIRMUS TO DROP $5 BILLION AUSTRALIAN LISTING
-- 10/09 09:10 [financialjuice] Arlington County, Virginia, files lawsuit to block proposed Washington triumphal arch: court filing
-- 10/09 09:11 [FirstSquawk] SPACEX STEPS UP US WIRELESS AMBITIONS WITH STRATEGIC SPECTRUM ACQUISITION - RTRS
-- 10/09 09:16 [FirstSquawk] NVIDIA-BACKED AUSTRALIAN DATA-CENTER COMPANY FIRMUS GRID IS SET TO POSTPONE ITS IPO TARGETING UP TO $5.5 BILLION, AS WEAKENING INVESTOR DEMAND AND VALUATION CONCERNS COMPLICATE FUNDRAISING. THE COMPANY IS CONSIDERING A PRIVATE FUNDING ROUND…
-- 10/09 09:17 [FirstSquawk] META CONFIRMS IT BANNED BYTEDANCE ADS ON ITS PLATFORMS - SPOKESPERSON
-- 10/09 09:18 [FirstSquawk] BANK OF JAPAN GOVERNOR UEDA HAS BEEN INVITED TO SPEAK AT THE IMF CENTRAL BANKING LECTURE ON 6 NOVEMBER, AND IS SCHEDULED TO HOLD A DISCUSSION WITH IMF MANAGING DIRECTOR GEORGIEVA AFTER THE SPEECH, THOUGH THE BOJ HAS YET TO CONFIRM HIS APPEA…
-- 10/09 09:18 [FirstSquawk] ANTHROPIC HAS UPDATED ITS USAGE POLICY TO BAN 'SUSTAINED AND NEEDLESS ABUSIVE OR CRUEL BEHAVIOR' TOWARD CLAUDE, ALLOWING THE CHATBOT TO END CONVERSATIONS WITH REPEATEDLY ABUSIVE USERS, WITH THE RULE APPLYING ONLY TO EXTREME CASES, NOT ORDIN…
-- 10/09 09:18 [FirstSquawk] US-IRAN TALKS ARE PRODUCTIVE, TRUMP SAYS, VOWING NO ATTACK BEFORE NOVEMBER 3 ELECTIONS
-- 10/09 09:19 [FirstSquawk] GOLD RESERVE BELIEVES U.S.-BACKED PURCHASE LED BY VENEZUELA COULD PROVIDE A COMPREHENSIVE SETTLEMENT OF CREDITORS’ CLAIMS
-- 10/09 09:19 [FirstSquawk] GOLD RESERVE LTD. ENDORSES VENEZUELA’S PROPOSED SIX-MONTH ABEYANCE, PROVIDED THE U.S. OFFERS CONCURRENT SUPPORT
-- 10/09 09:20 [FirstSquawk] GOLD RESERVE SUPPORTS VENEZUELA’S REQUEST FOR ABEYANCE IN CITGO APPEAL, CONTINGENT ON UNITED STATES BACKING
-- 10/09 09:21 [FirstSquawk] EUROPEAN STOCK FUTURES RISE: EUROSTOXX 50 +0.4%, DAX +0.7%, FTSE +0.8%
-- 10/09 09:21 [financialjuice] China PBOC likely to fix yuan midpoint at 6.6973 per dollar: estimate
-- 10/09 09:31 [financialjuice] Japan's government: to restart spending review, expand examination of public funds and subsidies
-- 10/09 09:32 [FirstSquawk] 30-YEAR JAPANESE BOND YIELD DECLINES TO 4.065%, DOWN 5.5 BASIS POINTS
-- 10/09 09:33 [FirstSquawk] JAPANESE GOVERNMENT TO RESUME EXPENDITURE REVIEWS AND BROADEN EXAMINATIONS OF PUBLIC FUNDING
-- 10/09 09:33 [FirstSquawk] ANTHROPIC ADDS HITACHI AS A FOUNDING PARTNER TO ITS CRITICAL INFRASTRUCTURE DEFENSE PROGRAM
-- 10/09 09:37 [FirstSquawk] Asia-Pacific stocks opened mixed, mirroring Wall Street’s performance, where most major indices declined and the Nasdaq underperformed amid AI-related concerns
-- 10/09 09:42 [financialjuice] Japan finmin katayama: Japan's doge initiative key for Takaichi administration to pursue budget promoting growth while maintaining fiscal sustainability
-- 10/09 09:43 [FirstSquawk] FIRMUS SCRAPS PLANNED AUSTRALIAN IPO, CITING PREVAILING MARKET CONDITIONS - WSJ
-- 10/09 09:44 [FirstSquawk] KATAYAMA: TAKAICHI ADMINISTRATION NEEDS JAPAN’S DOGE INITIATIVE TO BALANCE ECONOMIC GROWTH WITH FISCAL SUSTAINABILITY
-- 10/09 09:49 [FirstSquawk] MICROSOFT SAYS 137B-PARAMETER MAI-CODE-1.1 FLASH MODEL CAN NOW RUN ON-DEVICE AS AI AGENTS GAIN PROMINENCE - Benzinga
-- 10/09 09:54 [FirstSquawk] MOST AMERICANS SUPPORT SOUTH KOREA DEVELOPING NUCLEAR-POWERED SUBMARINES, WHILE OPPOSING ITS ACQUISITION OF NUCLEAR WEAPONS, POLL SHOWS - YONHAP
-- 10/09 09:55 [FirstSquawk] CHINESE TOURIST DECLINE THREATENS JAPAN’S TOURISM SPENDING BOOM
-- 10/09 10:04 [FirstSquawk] JAPAN FACES RANSOMWARE WAVE AS QILIN GROUP TARGETS 53 COMPANIES
-- 10/09 10:11 [FirstSquawk] PRUDENTIAL’S JAPANESE SUBSIDIARY CAUGHT UP IN 5.2 BILLION YEN FRAUD SCANDAL
-- 10/09 10:14 [FirstSquawk] SPOT GOLD GAINS 0.3% TO $4,147.77 AS INFLATION RISKS AND FED RATE OUTLOOK REMAIN IN FOCUS - RTRS
-- 10/09 10:17 [financialjuice] China sets yuan midpoint at strongest level since Feb. 2, 2023
-- 10/09 10:17 [FirstSquawk] CHINA SETS YUAN REFERENCE RATE AT 6.7330 PER US DOLLAR, PBOC SAYS
-- 10/09 10:19 [FirstSquawk] YUAN FIXING HITS STRONGEST LEVEL IN MORE THAN THREE YEARS AS CHINA SETS DAILY MIDPOINT
-- 10/09 10:21 [financialjuice] China central bank injects 2 billion yuan through 7-day reverse repos at 1.40%: statement
-- 10/09 10:22 [FirstSquawk] PBOC CONDUCTS 2 BILLION YUAN REVERSE REPO OPERATIONS AT 1.40%, UNCHANGED FROM PREVIOUS RATE
-- 10/09 10:30 [FirstSquawk] CRUDE OIL WEAKENS BELOW $90.50 AS TRUMP RULES OUT PRE-ELECTION MILITARY ACTION AGAINST IRAN - FX
-- 10/09 10:34 [FirstSquawk] US SOYBEAN AND CORN FUTURES RISE AS MARKETS AWAIT REPORTS; WHEAT RECOVERS
-- 10/09 10:40 [FirstSquawk] HONG KONG BIOTECH STOCKS DECLINE AS HANG SENG BIOTECH INDEX DROPS 2%
-- 10/09 10:42 [FirstSquawk] SPOT GOLD ADVANCES TO $4,173.05 PER OUNCE, UP AROUND 1%
-- 10/09 10:45 [financialjuice] India's 'cockroach' movement member Deepak Baliyan freed after detention Thursday: CJP spokesperson
-- 10/09 10:50 [FirstSquawk] HONG KONG TECHNOLOGY STOCKS ADVANCE AS HANG SENG TECH INDEX GAINS 2%
-- 10/09 10:56 [FirstSquawk] MUFG’S AUD500 MILLION ADDITIONAL TIER 1 SECURITIES RECEIVE 'BB+' RATING FROM FITCH
-- 10/09 10:57 [FirstSquawk] CHINA’S MOST-TRADED COKING COAL CONTRACT GAINS OVER 3%
-- 10/09 11:03 [financialjuice] UK's governing Labour party secures win in parliamentary seat vacated by former PM Starmer
-- 10/09 11:03 [FirstSquawk] BRITAIN’S RULING LABOUR PARTY SECURES WIN IN SEAT LEFT VACANT BY EX-PM STARMER
-- 10/09 11:06 [financialjuice] Shell: continuing to monitor hurricane Isaias for possible impacts to assets and operations in the Gulf of America
-- 10/09 11:06 [FirstSquawk] SHELL ASSESSES POTENTIAL OPERATIONAL AND ASSET RISKS FROM HURRICANE ISAIAS IN THE GULF OF AMERICA
-- 10/09 11:06 [financialjuice] Shell: evacuations finished for Appomattox, Mars, Ursa Olympus and Vito
-- 10/09 11:07 [financialjuice] Shell: production halted at Mars, Ursa, Olympus and Vito fields
-- 10/09 11:07 [FirstSquawk] SHELL SAYS EVACUATIONS ARE COMPLETE ACROSS APPOMATTOX, MARS, URSA OLYMPUS AND VITO FACILITIES
-- 10/09 11:07 [FirstSquawk] SHELL CONFIRMS PRODUCTION SHUT-IN ACROSS MARS, URSA, OLYMPUS AND VITO ASSETS
-- 10/09 11:10 [FirstSquawk] CHINESE TECHNOLOGY STOCKS DECLINE AS STAR 50 INDEX DROPS ROUGHLY 3%
-- 10/09 11:13 [FirstSquawk] CHINA’S COKE FUTURES RALLY AS THE MOST-ACTIVE CONTRACT RISES MORE THAN 3%
-- 10/09 11:15 [financialjuice] China authorizes non-state crude oil import quota for 2027 at 257 million metric tons: commerce ministry
-- 10/09 11:15 [FirstSquawk] CHINA AUTHORISES 257 MILLION METRIC TONNES OF CRUDE OIL IMPORTS FOR NON-STATE FIRMS IN 2027
-- 10/09 11:27 [FirstSquawk] AMERICAN REFINERS SEE PROFITS SURGE AS WARS SQUEEZE GLOBAL OIL SUPPLIES - WSJ
-- 10/09 11:40 [FirstSquawk] CRUDE OIL SLIPS AS PRICES ARE LIKELY TO REMAIN HIGH IN THE SHORT TERM - WSJ
-- 10/09 11:50 [FirstSquawk] ISAIAS FORECAST TO APPROACH THE NORTHERN GULF COAST AS A DANGEROUS HURRICANE FRIDAY, NHC SAYS
-- 10/09 11:53 [financialjuice] German Bund futures rise 0.45%; French OAT futures increase 0.78%
-- 10/09 11:53 [FirstSquawk] GERMAN AND FRENCH GOVERNMENT BOND FUTURES ADVANCE 0.45% AND 0.78%, RESPECTIVELY
-- 10/09 12:01 [FirstSquawk] GOLD ADVANCES AS PROSPECTS OF STRONGER CHINESE DEMAND SUPPORT PRICES- WSJ
-- 10/09 12:06 [FirstSquawk] SOUTH KOREAN MINISTRY DENIES CLAIM THAT US COMMERCE CHIEF LUTNICK VOICED DISPLEASURE WITH INTELLIGENCE AGENCY DURING BILATERAL TALKS - YONHAP
-- 10/09 12:41 [financialjuice] China finance ministry offers 10-year bonds at 1.6673% yield: traders
-- 10/09 12:42 [FirstSquawk] CHINA FINANCE MINISTRY SETS 2-YEAR BOND AUCTION YIELD AT 1.2517%, TRADERS SAY
-- 10/09 12:43 [FirstSquawk] CHINA FINANCE MINISTRY SETS 10-YEAR BOND AUCTION YIELD AT 1.6673%, TRADERS SAY
-- 10/09 12:46 [FirstSquawk] 10-YEAR JAPANESE GOVERNMENT BOND YIELD SLIDES 5.5 BASIS POINTS TO 3.025%
-- 10/09 12:51 [FirstSquawk] 5-YEAR JAPANESE GOVERNMENT BOND YIELD SLIDES 4 BASIS POINTS TO 2.345%
-- 10/09 12:51 [FirstSquawk] 30-YEAR JAPANESE GOVERNMENT BOND YIELD SLIDES 6 BASIS POINTS TO 4.060%
-- 10/09 12:59 [FirstSquawk] RBC REVISES ARITZIA'S PRICE TARGET HIGHER TO C$195, UP FROM C$191
-- 10/09 13:00 [FirstSquawk] INDONESIA'S SUGARY DRINKS EXCISE TAX SET TO TAKE EFFECT IN THE SECOND HALF OF 2027, CUSTOMS CHIEF SAYS
-- 10/09 13:06 [FirstSquawk] UK TO REQUIRE UNIVERSITY STUDENTS TO MEET MINIMUM ADMISSION STANDARDS TO ACCESS LOANS - FT
-- 10/09 13:07 [FirstSquawk] US 10-YEAR TREASURY YIELDS FACE RISK OF RISING TO 6%, A LEVEL NOT SEEN SINCE 2000, PIMCO SAYS - FT
-- 10/09 13:09 [financialjuice] Ukraine strike kills two, injures four in Russia's Belgorod region: TASS quotes local officials
-- 10/09 13:09 [FirstSquawk] TWO KILLED AND FOUR WOUNDED IN UKRAINE STRIKE ON RUSSIA'S BELGOROD REGION, LOCAL OFFICIALS SAY
-- 10/09 13:21 [financialjuice] United Overseas Bank and Amazon Web Services ink MOU to explore AI-driven banking innovation across ASEAN
-- 10/09 13:23 [FirstSquawk] UK SHOULD ACCEPT LESS FISCAL HEADROOM RATHER THAN RAISE TAXES IN THE BUDGET, JIM O’NEILL SAYS - FT
-- 10/09 13:23 [FirstSquawk] TRUMP-BACKED FIRM'S CRYPTO TIES DRAW COMPANIES INTO $141 MILLION LEGAL DISPUTE, FT SAYS
-- 10/09 13:25 [financialjuice] Venezuela opposition leader Maria Corina Machado calls for polls in 2025: FT
-- 10/09 13:26 [FirstSquawk] VENEZUELA'S MACHADO PUSHES FOR 2027 ELECTIONS AMID POLITICAL UNCERTAINTY, FT REPORTS
-- 10/09 13:26 [financialjuice] Machado calls for transparency in handling proceeds from Venezuela's oil sales overseen by Washington - FT
-- 10/09 13:30 [financialjuice] Dutch August manufacturing output rises 3.3% month on month: CBS
-- 10/09 13:32 [FirstSquawk] SOFTBANK TARGETS $100 BILLION FROM MIDDLE EASTERN INVESTORS TO SCALE UP AI INVESTMENTS, FT REPORTS
-- 10/09 13:33 [FirstSquawk] SOFTBANK'S MASAYOSHI SON HOLDS TALKS WITH SENIOR FIGURES IN THE UAE AND ELSEWHERE ON POSSIBLE FUNDRAISING, FT SAYS
-- 10/09 13:43 [FirstSquawk] ASSETS LINKED TO ASSAD ALLIES ARE BEING REDIRECTED INTO A $50 BILLION SECRETIVE FUND IN SYRIA - FT
-- 10/09 13:50 [financialjuice] Ukraine drone attack ignites fire at industrial site in Russia's Tver region: TASS quotes governor
-- 10/09 13:50 [FirstSquawk] DRONE STRIKE FROM UKRAINE SETS INDUSTRIAL SITE ABLAZE IN RUSSIA'S TVER REGION, TASS REPORTS
-- 10/09 13:58 [FirstSquawk] BERLIN SET TO INTRODUCE ADDITIONAL SANCTIONS TARGETING THE RUSSIAN ECONOMY
-- 10/09 14:00 [FirstSquawk] ROCHE'S TECENTRIQ COMBINATION APPROVED BY FDA FOR ADJUVANT TREATMENT OF A SPECIFIC TYPE OF STAGE III COLON CANCER
 - 10/09 14:17 [financialjuice] Morning Juice - Europe Session Prep
 - 10/09 14:18 [FirstSquawk] SPOT PLATINUM GAINS 3%, CLIMBING TO $1,678.15 PER OUNCE
 - 10/09 14:29 [FirstSquawk] AUSTRALIAN STOCKS GAIN 0.6% AS THE S&P/ASX 200 CLOSES AT 8,716.60
@@ -176,3 +78,167 @@
 - 10/09 17:59 [FirstSquawk] Australian Wheat Exports Set to Surge 47% Amid Black Sea Disruptions Australia is on track to export around 2.6 million tonnes of grain in October, 47% above the five-year average, as escalating attacks on Black Sea ships and grain terminal…
 - 10/09 18:53 [FirstSquawk] CHINA’S CPCA REPORTS TESLA SOLD 95,366 VEHICLES MADE IN CHINA IN SEPTEMBER.
 - 10/09 19:10 [FirstSquawk] THERE IS EXTENSIVE DAMAGE TO POWER GRIDS AND ELECTRICITY TRANSMISSION FACILITIES AFTER RUSSIAN STRIKES SAYS ZELENSKIY
+- 10/09 19:35 [FirstSquawk] DELTA AIR LINES Q3 ADJ OPER REV $17.59 BLN VS IBES ESTIMATE $17.66 BLN || Q3 ADJ EPS $1.72 VS IBES ESTIMATE $1.75 || EXPECT TO GENERATE PRE-TAX PROFIT OF ABOUT $4.5 BLN FOR FY, ABSORBING $6 BLN INCREASE IN FUEL COSTS || OUTLOOK FY 2026 FREE…
+- 10/09 19:35 [FirstSquawk] DELTA AIR LINES OUTLOOK Q4 2026 REVENUE GROWTH ABOUT 20% YOY || Q4 ADJ EPS OUTLOOK BASED ON FUEL PRICE OF ABOUT $4.25/GALLON || BEYOND 2026, CONFIDENT IN LONG-TERM FRAMEWORK & PATH TO MID-TEENS MARGINS & RETURN ON INVESTED CAPITAL
+- 10/09 19:50 [FirstSquawk] ITALY'S ENERGY MINISTER WILL NOT BE PRESENT AT NEXT WEEK'S ENERGY MEETING IN RIYADH BUT WILL JOIN VIRTUALLY.
+- 10/09 19:50 [FirstSquawk] ELI LILLY'S TALTZ AND ZEPBOUND COMBINED SHOW GREATER BIOMARKER CHANGES THAN TALTZ ALONE. NEW PHASE 3B DATA ADVANCES KNOWLEDGE OF IMMUNE AND METABOLIC CONNECTIONS IN ADULTS WITH PSORIASIS AND OBESITY.
+- 10/09 19:50 [FirstSquawk] PBOC'S PAN MET WITH GOLDMAN SACHS' JOHN WALDRON TO TALK ABOUT THE GLOBAL ECONOMY AND CHINA'S MACRO POLICIES.
+- 10/09 19:50 [FirstSquawk] UKRAINE'S PRESIDENT ZELENSKIY REPORTED THAT UKRAINE ATTACKED THE OMSK AND UKHTA OIL REFINERIES IN RUSSIA.
+- 10/09 20:11 [FirstSquawk] CHINA'S COMMERCE MINISTER ENGAGED IN FRUITFUL TALKS WITH EU TRADE LEADER.
+- 10/09 20:12 [FirstSquawk] CHINA AND THE EU HAVE COME TO AN AGREEMENT TO BETTER HANDLE TRADE DISPUTES.
+- 10/09 20:12 [financialjuice] China's Commerce Ministry: Two sides agreed to hold the third regular meeting of the mechanism in March 2027
+- 10/09 20:13 [FirstSquawk] CHINA AND ANOTHER PARTY HAVE AGREED TO HAVE THEIR THIRD REGULAR MEETING IN MARCH 2027.
+- 10/09 20:13 [financialjuice] China's commerce ministry: To continue exploring the possibility of lowering tariffs on some goods under WTO rules
+- 10/09 20:13 [FirstSquawk] CHINA'S COMMERCE MINISTRY WILL CONTINUE TO LOOK INTO LOWERING TARIFFS ON CERTAIN GOODS FOLLOWING WTO REGULATIONS.
+- 10/09 20:13 [financialjuice] China's commerce ministry: China and the EU reach an understanding on hybrid vehicle trade in a WTO-compliant manner after intensive negotiations. Will continue discussions on price undertakings and review procedures in the EU's anti-subsid…
+- 10/09 20:14 [FirstSquawk] CHINA AND THE EU HAVE AGREED ON HYBRID VEHICLE TRADE FOLLOWING EXTENSIVE TALKS, IN LINE WITH WTO RULES. DISCUSSIONS WILL CONTINUE ON PRICE TERMS AND THE EU'S ANTI-SUBSIDY INQUIRY INTO CHINESE ELECTRIC CARS.
+- 10/09 20:15 [financialjuice] China Commerce Ministry: To continue facilitating rare earth and permanent magnet export licenses to the EU via 'green channel’
+- 10/09 20:15 [FirstSquawk] CHINA'S COMMERCE MINISTRY WILL KEEP OFFERING EXPORT LICENSES FOR RARE EARTH AND PERMANENT MAGNETS TO THE EU THROUGH A 'GREEN CHANNEL.'
+- 10/09 20:20 [FirstSquawk] BANK OF SPAIN UPS 2026 INFLATION FORECAST TO 3.9%, SEES 3.7% INFLATION IN 2027 FROM 2.7% || UPS 2026 ECONOMIC GROWTH FORECAST TO 2.6% FROM 2.3%, SEES 2.2% GROWTH IN 2027 FROM 1.7%
+- 10/09 20:20 [FirstSquawk] BANK OF SPAIN BUDGET DEFICIT OF 2.6% IN 2026 FROM 2.4% AND 2.2% IN 2027 FROM 2.3% || SEES THIRD-QUARTER GDP GROWTH OF AROUND 0.6% Q/Q FROM 0.7% IN Q2
+- 10/09 20:20 [FirstSquawk] BANK OF SPAIN SEES PUBLIC DEBT-TO-GDP RATIO AT 98.5% AT END-2026, 96.2% AT END-2027 || WARNS OF RISKS TO OUTLOOK FROM GEOPOLITICS, OIL PRICES AND RISING BOND YIELDS
+- 10/09 20:31 [DeItaone] 🇫🇷 FRENCH DEBT CRISIS COULD POSE GREATER RISKS THAN GREECE, COMMERZBANK WARNS Commerzbank warns that France's debt problems could pose greater systemic risks to the eurozone than Greece's sovereign debt crisis. Eurozone public debt now aver…
+- 10/09 20:37 [DeItaone] IMF WARNS GLOBAL DEBT COULD HIT 100% OF GDP BY 2028 The IMF says global government debt could reach levels unseen since World War II. IMF chief Kristalina Georgieva warns advanced economies are the biggest contributors, adding that relying …
+- 10/09 20:46 [DeItaone] BESSENT HIRES TRUMP'S FORMER FED BOARD PICK, JUDY SHELTON, AS ADVISER - CNBC
+- 10/09 20:46 [FirstSquawk] TREASURY APPOINTS TRUMP'S FORMER FED PICK JUDY SHELTON AS ADVISER.
+- 10/09 20:54 [DeItaone] https://t.co/8paOdqLtBI
+- 10/09 20:57 [DeItaone] BOFA'S HARTNETT: $8 TRILLION IN CASH WON'T MOVE WITHOUT FED CUTS Money market funds attracted $166.4B last week, the biggest inflow since April 2020. Hartnett says sustained Fed cuts are needed to unlock sidelined cash: “No rate cuts, no ca…
+- 10/09 21:00 [financialjuice] Morning Juice – US Session Prep (9th October)
+- 10/09 21:00 [financialjuice] Secured overnight financing rate 3.87% October 8th vs 3.88% October 7th
+- 10/09 21:04 [DeItaone] 🇺🇸 PRESIDENTIAL SCHEDULE — FRIDAY, OCT. 9 🔸 8:00 AM ET — Executive Time — Closed Press 🔸 11:00 AM ET — Columbus Day Celebration — East Room — Pre-Credentialed Media 🔸 2:00 PM ET — Secretary of Labor Swearing-In — Oval Office — Closed Press …
+- 10/09 21:10 [financialjuice] German Economy Ministry: Germany to release up to 15 mln barrels of oil and petroleum products.
+- 10/09 21:10 [financialjuice] German economy minister: Diesel and heating oil to be released first, followed by crude oil
+- 10/09 21:10 [financialjuice] German Economy Minister: Germany to fully implement G7 agreement on release of energy stocks.
+- 10/09 21:10 [financialjuice] German Economy Minister: German refineries are most important asset for security of energy supply.
+- 10/09 21:12 [DeItaone] GERMANY TO RELEASE UP TO 15 MILLION BARRELS OF EMERGENCY OIL RESERVES Germany will release up to 15 million barrels of oil and petroleum products, implementing the G7 agreement on energy reserves. Diesel and heating oil will be released fir…
+- 10/09 21:13 [FirstSquawk] GERMANY PLANS TO RELEASE AS MUCH AS 15 MILLION BARRELS OF OIL AND PETROLEUM PRODUCTS.
+- 10/09 21:13 [FirstSquawk] GERMAN ECONOMY MINISTER ANNOUNCES THAT DIESEL AND HEATING OIL WILL BE RELEASED FIRST, THEN CRUDE OIL.
+- 10/09 21:13 [FirstSquawk] GERMANY WILL FULLY IMPLEMENT THE G7 DEAL ON ENERGY STOCK RELEASE, SAYS THE ECONOMY MINISTER.
+- 10/09 21:13 [FirstSquawk] GERMAN ECONOMY MINISTER STATES THAT REFINERIES ARE VITAL FOR ENERGY SECURITY.
+- 10/09 21:13 [FirstSquawk] GERMAN ECONOMY MINISTER STRESSES IMPORTANCE OF CONSIDERING THE WHOLE SUPPLY CHAIN, NOT JUST CRUDE OIL.
+- 10/09 21:30 [financialjuice] ❗ CANADIAN UNEMPLOYMENT RATE ACTUAL 6.5% (FORECAST 6.5%, PREVIOUS 6.4%) $MACRO
+- 10/09 21:30 [financialjuice] CANADIAN AVERAGE HOURLY EARNINGS YOY ACTUAL 2.3% (FORECAST 2.3%, PREVIOUS 2.00%) $MACRO
+- 10/09 21:30 [financialjuice] ‼ BREAKING: CANADIAN EMPLOYMENT CHANGE ACTUAL -68.3K (FORECAST 10K, PREVIOUS -41.7K) $MACRO
+- 10/09 21:30 [financialjuice] CANADIAN PARTICIPATION RATE ACTUAL 64.8% (FORECAST 65%, PREVIOUS 65.0%) $MACRO
+- 10/09 21:31 [financialjuice] Canadian Employment Change September 2026 Report
+- 10/09 21:31 [FirstSquawk] CANADIAN UNEMPLOYMENT RATE IS 6.5%, SAME AS FORECAST AND UP FROM 6.4% PREVIOUSLY.
+- 10/09 21:31 [DeItaone] CANADA LOSES 68,300 JOBS IN SEPTEMBER, FAR WORSE THAN EXPECTED Canada's economy shed 68,300 jobs in September, sharply missing forecasts for a 9,200 gain. The unemployment rate rose to 6.5%, while both full-time and part-time employment dec…
+- 10/09 21:31 [FirstSquawk] CANADA'S EMPLOYMENT DROPPED BY 68.3K, LOWER THAN THE FORECAST OF 10K AND PREVIOUSLY AT -41.7K.
+- 10/09 21:33 [financialjuice] IRGC: Large LPG Tanker Hit and Catches Fire - Tasnim News
+- 10/09 21:34 [financialjuice] IRGC on tanker attack: Responsibility for escalating tensions in the region's maritime transport lies with the US.
+- 10/09 21:36 [DeItaone] UKRAINIAN DELEGATION ARRIVES IN MIAMI FOR TALKS WITH US TEAM, SOURCE FAMILIAR SAYS
+- 10/09 21:36 [DeItaone] IRAN CLAIMS LPG TANKER STRUCK NEAR STRAIT OF HORMUZ Iran's Revolutionary Guard Navy says a large LPG carrier named NV Sunshine was struck while attempting to transit south of the Strait of Hormuz, with reports indicating the vessel caught f…
+- 10/09 21:37 [financialjuice] IRGC: From now on, the handling of offending vessels will not be limited to the Strait of Hormuz, and any vessel that passes through unauthorized routes will be pursued throughout the region, and its punishment will be certain.
+- 10/09 21:38 [financialjuice] Kremlin: Putin-Trump call will be soon - IFX
+- 10/09 21:38 [financialjuice] ❗ Traders pull back on bets for a BOC rate hike by year's end
+- 10/09 21:38 [financialjuice] ❗ Bank of Canada October rate hike chances fall to 27% from 40% on jobs report - Swap Market Data Shows
+- 10/09 21:39 [DeItaone] *KREMLIN SAYS PUTIN-TRUMP CALL WILL BE SOON: IFX
+- 10/09 21:39 [DeItaone] IRAN'S IRGC NAVY SAYS TARGETED LPG TANKER TRYING TO 'ILLEGALLY' PASS THROUGH STRAIT OF HORMUZ, AND IT SUFFERED A MASSIVE FIRE -STATE MEDIA
+- 10/09 21:40 [FirstSquawk] IRAN'S IRGC NAVY CLAIMS THEY ATTACKED AN LPG TANKER THAT WAS TRYING TO 'ILLEGALLY' PASS THROUGH THE STRAIT OF HORMUZ, CAUSING A SIGNIFICANT FIRE - STATE MEDIA REPORTS.
+- 10/09 21:40 [FirstSquawk] TRADERS REDUCE EXPECTATIONS FOR A BANK OF CANADA RATE INCREASE BY THE END OF THE YEAR.
+- 10/09 21:41 [FirstSquawk] CHANCES OF A BANK OF CANADA RATE HIKE IN OCTOBER DROP TO 27% FROM 40% DUE TO JOBS REPORT, SWAP MARKET DATA REVEALS.
+- 10/09 21:43 [DeItaone] IRGC SAYS FROM NOW ON, ANY VESSELS COMMITTING VIOLATIONS OUTSIDE STRAIT OF HORMUZ WILL ALSO BE 'PUNISHED' - STATEMENT
+- 10/09 21:46 [DeItaone] S&P 500 BULL MARKET GAINS 117% AS AI RALLY RAISES CONCENTRATION RISKS The S&P 500 has surged 117% since October 2022, adding nearly $40 trillion in market value, largely driven by AI-related stocks. However, the equal-weight S&P 500 has und…
+- 10/09 21:49 [FirstSquawk] IRGC: FROM NOW ON, ANY VESSELS COMMITTING VIOLATIONS OUTSIDE STRAIT OF HORMUZ WILL ALSO BE 'PUNISHED' - STATEMENT
+- 10/09 21:51 [financialjuice] UKMTO gets a report of an incident 13NM west of Al Jazeera, UAE.
+- 10/09 21:52 [financialjuice] Several explosions reported in Erbil, Iraq - Fars News.
+- 10/09 21:52 [financialjuice] UKMTO: Vessel reported to be struck by an unknown projectile
+- 10/09 22:00 [financialjuice] Effective fed funds rate: 3.88% October 8th vs 3.88% October 7th.
+- 10/09 22:04 [financialjuice] Gazprom, Lukoil start production at Layavozhskoye field.
+- 10/09 22:06 [FirstSquawk] MULTIPLE EXPLOSIONS HAVE BEEN REPORTED IN ERBIL, IRAQ.
+- 10/09 22:06 [FirstSquawk] GAZPROM AND LUKOIL BEGIN PRODUCTION AT LAYAVOZHSKOYE FIELD.
+- 10/09 22:16 [FirstSquawk] UN CHIEF ANTONIO GUTERRES SAYS NAVI PILLAY HAS SHOWN THE FORCE OF LAW MUST PREVAIL OVER THE LAW OF FORCE
+- 10/09 22:16 [FirstSquawk] UN CHIEF GUTERRES SAYS PRIZE IS A TRIBUTE TO ALL THOSE WORKING TO UPHOLD AND DEFEND INTERNATIONAL LAW AND HUMAN RIGHTS
+- 10/09 22:17 [financialjuice] Iran's President Pezeshkian: Negotiations only have meaning when based on mutual respect and commitment, and when pressure and threats are set aside - Iranian Media.
+- 10/09 22:18 [FirstSquawk] VENEZUELA US BACKED POLITICAL TALKS TO RESUME OCT. 14 SAYS RUBIO
+- 10/09 22:19 [financialjuice] China's He Lifeng meets the EU trade chief - Xinhua.
+- 10/09 22:24 [financialjuice] EU's Trade Chief Sefcovic Speaks In Beijing On EU-China Trade Deficit - WATCH LIVE
+- 10/09 22:25 [financialjuice/FirstSquawk] EU's Trade Chief Sefcovic: The China trade deficit is a mountain of challenges.
+- 10/09 22:25 [financialjuice/FirstSquawk] EU's Trade Chief Sefcovic: EU and China reaffirmed to properly handling differences under the framework of WTO rules.
+- 10/09 22:26 [DeItaone] $NVDA - UBS REAFFIRMS NVIDIA BUY RATING WITH $300 PRICE TARGET UBS reiterated its Buy rating on Nvidia, maintaining a $300 price target following strong Taiwanese export data. Taiwan's computing equipment exports surged 25.9% month-over-mon…
+- 10/09 22:26 [financialjuice/FirstSquawk] EU's Trade Chief Sefcovic: Reached understanding to moderate china hybrid export.
+- 10/09 22:27 [financialjuice/FirstSquawk] EU's Trade Chief Sefcovic: There is an understanding to improve access to china market.
+- 10/09 22:27 [financialjuice/FirstSquawk] EU's Trade Chief Sefcovic: More access to the China market for car parts and olive oil
+- 10/09 22:27 [DeItaone] EU AND CHINA REACH RARE EARTHS DEAL AS TRADE PRESSURE MOUNTS EU Trade Commissioner Maroš Šefčovič says Brussels and Beijing have reached an agreement on rare earths and magnets. A separate understanding on hybrid vehicles could halve Chines…
+- 10/09 22:27 [financialjuice] China's Wang expresses concerns to EU's recent restrictive move.
+- 10/09 22:27 [financialjuice/FirstSquawk] EU's Trade Chief Sefcovic: More China access for goods is worth almost €4b.
+- 10/09 22:28 [financialjuice/FirstSquawk] EU's Trade Chief Sefcovic: There is an understanding for China rare earth, magnet exports.
+- 10/09 22:28 [financialjuice/FirstSquawk] EU's Trade Chief Sefcovic: Where dialogue fails, the EU will use tools to rebalance
+- 10/09 22:29 [financialjuice] China: We are studying policies facilitating trade with EU.
+- 10/09 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -63.5 MLN NASDAQ 100: -17.1 MLN DOW 30: -9.2 MLN MAG 7: -9.0 MLN $MACRO
+- 10/09 22:31 [FirstSquawk] EU: ACCORD WITH CHINA COULD CUT HYBRID CAR EXPORTS BY HALF
+- 10/09 22:32 [DeItaone] $SPCX - SPACEX SHARES UP 3.3% AFTER CO STRIKES DEAL TO ACQUIRE NATIONWIDE LOW-BAND SPECTRUM PORTFOLIO
+- 10/09 22:33 [FirstSquawk] S&P 500 UP 22.35 POINTS, OR 0.29 PERCENT, AT 7,787.71 AFTER MARKET OPEN DOW JONES UP 67.32 POINTS, OR 0.13 PERCENT, AT 51,298.96 AFTER MARKET OPEN NASDAQ UP 149.59 POINTS, OR 0.55 PERCENT, AT 27,342.93 AFTER MARKET OPEN
+- 10/09 22:35 [financialjuice] EU's Trade Chief Sefcovic: We achieved very good results in China trade talks.
+- 10/09 22:40 [financialjuice] Houthi militias have manufactured concrete blocks on the roads in Bab al-Mandeb - Al Arabiya citing military source.
+- 10/09 22:51 [financialjuice] The EU and China are going to continue to engage in dialogue on medical devices.
+- 10/09 22:56 [financialjuice] Pakistan's Foreign Ministry: The forces stationed in Saudi Arabia have a defensive role - ISNA
+- 10/09 22:58 [DeItaone] SPOT SILVER RISES NEARLY 3% TO $61.10/OZ
+- 10/09 23:00 [financialjuice] UNIVERSITY MICHIGAN CONDITION PRELIM ACTUAL 44.7 (FORECAST 50.1, PREVIOUS 50.9) $MACRO
+- 10/09 23:00 [DeItaone] U.S. CONSUMER SENTIMENT FALLS AS INFLATION EXPECTATIONS RISE University of Michigan consumer sentiment fell to 46.3 in October, missing expectations of 47.8 and declining from 48.1 in September. The current conditions index plunged to 44.7,…
+- 10/09 23:00 [financialjuice] ‼ BREAKING: UNIVERSITY MICHIGAN SENTIMENT PRELIM ACTUAL 46.3 (FORECAST 47.6, PREVIOUS 48.1) $MACRO
+- 10/09 23:00 [financialjuice] UNIVERSITY MICHIGAN 1 YR INFLATION PRELIM ACTUAL 4.7% (FORECAST 4.8%, PREVIOUS 4.6%) $MACRO
+- 10/09 23:00 [financialjuice] UNIVERSITY MICHIGAN 5 YR INFLATION PRELIM ACTUAL 3.5% (FORECAST 3.5%, PREVIOUS 3.4%) $MACRO
+- 10/09 23:00 [financialjuice] UNIVERSITY MICHIGAN EXPECTATIONS PRELIM ACTUAL 47.3 (FORECAST 45.7, PREVIOUS 46.3) $MACRO
+- 10/09 23:01 [financialjuice] University Michigan Survey October Prelim Report
+- 10/09 23:02 [FirstSquawk] US UNIVERSITY OF MICHIGAN SENTIMENT AT 46.3, LOWER THAN FORECAST OF 47.6 AND LAST MONTH'S 48.1.
+- 10/09 23:03 [financialjuice] China: Don't politicize economic matters.
+- 10/09 23:03 [financialjuice] China vows a necessary response if any actions harm its interests.
+- 10/09 23:04 [FirstSquawk] CHINA URGES NOT TO POLITICIZE ECONOMIC ISSUES.
+- 10/09 23:04 [FirstSquawk] CHINA PROMISES TO TAKE ACTION IF ITS INTERESTS ARE THREATENED.
+- 10/09 23:07 [financialjuice] Fed: Participation in the stock market fell between 2022 and 2025.
+- 10/09 23:10 [FirstSquawk] WHITE HOUSE: FORMS COMMITTEE TO PROBE FED'S LISA COOK
+- 10/09 23:12 [financialjuice] German auto association VDA President: EU-China trade deal on hybrid vehicles an initial positive sign and expression of both sides' willingness to address existing challenges through dialogue.
+- 10/09 23:13 [financialjuice] Loud boom heard near Aden Airport, Yemen - Residents.
+- 10/09 23:14 [FirstSquawk] LOUD EXPLOSION REPORTED NEAR ADEN AIRPORT, SAY LOCALS.
+- 10/09 23:17 [financialjuice] Iran's Foreign Ministry spokesperson: France seeks to remain a nuclear power while restricting countries pursuing peaceful nuclear energy under what it calls a false nuclear threat narrative.
+- 10/09 23:24 [financialjuice] Fear and Greed Index: 43/100 = Fear
+- 10/09 23:25 [financialjuice] Crypto Fear and Greed Index: 59/100 = Greed
+- 10/09 23:52 [financialjuice] Trump hosts Columbus Day celebration at the White House - WATCH LIVE
+- 10/09 23:56 [financialjuice] Italy and the EU edge closer to an agreement on a deal to cap energy bills.
+- 10/09 23:58 [financialjuice] BNP Paribas cuts Tesla's target price to $266 from $268. $TSLA
+- 10/10 00:03 [financialjuice] Saudi Aramco is going to supply full oil volumes to European customers in November.
+- 10/10 00:08 [financialjuice] Banks head for $5 bln gold trading windfall in record year
+- 10/10 00:09 [financialjuice] US Official: US Treasury Secretary Bessent to skip IMF-World Bank and G20 meetings in Bangkok due to domestic engagements.
+- 10/10 00:24 [financialjuice] Venezuela Expects Oil Production to Reach 1.5 Million BPD by End of 2027
+- 10/10 00:25 [FirstSquawk] PDVSA CHIEF: VENEZUELA REFINERIES ARE PROCESSING 350K BPD
+- 10/10 00:28 [FirstSquawk] FCC'S CARR: SEEN OVER $100 BLN IN SPECTRUM DEAL FLOW, EXPECTS OVER $100 BLN FOR SALE IN 2-YEARS - CNBC
+- 10/10 00:29 [FirstSquawk] Saudi Aramco Will Be Supplying Full Oil Volumes To European Customers In November
+- 10/10 00:29 [FirstSquawk] PDVSA CHIEF: VENEZUELA OIL PRODUCTION WILL REACH 1.5M BPD AT CLOSE OF 2027
+- 10/10 00:34 [FirstSquawk] BRITAIN'S FTSE 100 UP 1.13%; GERMANY'S DAX UP 1.19%
+- 10/10 00:34 [FirstSquawk] FRANCE'S CAC 40 UP 0.96%; SPAIN'S IBEX UP 0.82%
+- 10/10 00:36 [FirstSquawk/DeItaone] TRUMP: BIG ANNOUNCEMENT COMING UP ON DIESEL
+- 10/10 00:36 [financialjuice] Trump: We have a big announcement coming up on diesel.
+- 10/10 00:36 [DeItaone] TRUMP ON IRAN: GOING TO BE OVER SOON ONE WAY OR THE OTHER
+- 10/10 00:36 [FirstSquawk] TRUMP REITERATES PRICES WILL COME DOWN AFTER IRAN WAR IS OVER
+- 10/10 00:37 [financialjuice] Trump on Iran: It is going to be over soon, one way or the other.
+- 10/10 00:37 [financialjuice] Trump: The OMB is going to make a big announcement soon.
+- 10/10 00:38 [financialjuice] Trump: We took out 28 million bbls of oil from Hormuz yesterday.
+- 10/10 00:39 [FirstSquawk] TRUMP: TOOK OUT 28 MILLION BBLS OF OIL FROM HORMUZ YESTERDAY
+- 10/10 00:45 [FirstSquawk] TRUMP REITERATES IRAN WAR WILL BE OVER SOON
+- 10/10 01:00 [financialjuice] WASDE COTTON END STOCKS ACTUAL 3.8M (FORECAST 3.5M, PREVIOUS 3.6M) $MACRO
+- 10/10 01:00 [financialjuice] WASDE WHEAT END STOCKS ACTUAL 740M (FORECAST 720M, PREVIOUS 717M) $MACRO
+- 10/10 01:00 [financialjuice] WASDE SOYBEAN END STOCKS ACTUAL 315M (FORECAST 305.5M, PREVIOUS 310M) $MACRO
+- 10/10 01:00 [financialjuice] WASDE CORN END STOCKS ACTUAL 1849M (FORECAST 1695.34M, PREVIOUS 1567M) $MACRO
+- 10/10 01:04 [FirstSquawk] CORN FALLS OVER 3% AFTER USDA RAISES US YIELD, SUPPLY OUTLOOK
+- 10/10 01:04 [FirstSquawk] US WASDE Corn End Stocks Oct: 1.849B (est 1.695B; prev 1.567B) - Soybean End Stocks: 315M (est 306M; prev 310M) - Total Wheat End Stocks: 740M (est 720M; prev 717M) - Cotton End Stocks: 3.80M (est 3.50M; prev 3.60M)
+- 10/10 01:08 [FirstSquawk] DEERE SHARES QUICKLY FALL AS MUCH AS 2.4%
+- 10/10 01:11 [FirstSquawk] UAE ATTORNEY GENERAL SAYS FLYDUBAI CO-PILOT PLANNED TO SEIZE DUBAI-TEL AVIV FLIGHT FOR SUICIDE ATTACK ON BEN GURION AIRPORT TERMINAL -UAE STATE NEWS AGENCY
+- 10/10 01:14 [FirstSquawk/DeItaone] TRUMP: GASOLINE PRICE WILL BE DOWN SOON
+- 10/10 01:14 [FirstSquawk/DeItaone] TRUMP REITERATES IRAN CAN'T HAVE NUCLEAR WEAPON
+- 10/10 01:15 [financialjuice/DeItaone] Trump on Iran: It's a very small price to pay.
+- 10/10 01:17 [FirstSquawk] CORN FUTURES DROP 4.8% AFTER USDA RAISES CROP YIELD FORECAST
+- 10/10 01:18 [DeItaone] PORT OF LOS ANGELES HITS RECORD CONTAINER VOLUME IN SEPTEMBER The busiest U.S. container port handled a record 1.04 million TEUs in September, with imports reaching an all-time high of 546,696 TEUs. Port Executive Director Gene Seroka says …
+- 10/10 01:18 [DeItaone] *CHEVRON: EVACUATED MOST PERSONNEL IN GULF DUE TO ISAIAS *CHEVRON: SAFELY CONTINUING PRODUCTION AT 4 PLATFORMS *CHEVRON: SHUT-IN PRODUCTION AT REMAINING 5 FACILITIES
+- 10/10 01:22 [FirstSquawk] CHEVRON EVACUATES PERSONNEL, SHUTS-IN FIVE FACILITIES AT GULF OF AMERICA, PRODUCTION CONTINUED AT FOUR PLATFORMS - DEPLOYS TECHNOLOGY TO PROTECT GULF COAST OPS DURING HURRICANE ISAIAS
+- 10/10 01:27 [financialjuice] Trump ends remarks at the White House.
+- 10/10 01:29 [financialjuice] EU Tech Chief: Landmark rules mean the Bloc is well equipped to deal with rogue AI agents and other risks.
+- 10/10 01:34 [financialjuice] US Gulf shuts in 1.5 million b/d or 72% of oil production - MMA.
+- 10/10 01:35 [FirstSquawk] US GULF SHUTS IN 1.5 BILLION B/D OR 72% OIL PRODUCTION: MMA
+- 10/10 01:35 [financialjuice] US Gulf shuts in 1.3 bcf/d or 59% gas production - MMA.
+- 10/10 01:47 [FirstSquawk] EIGHT COUNTRIES EXPRESS SUPPORT FOR ICC, CRITICIZE US SANCTIONS
+- 10/10 01:49 [DeItaone] U.S. GULF SHUTS DOWN 72% OF OIL PRODUCTION The U.S. Gulf of Mexico has shut in 71.5% of daily oil production and 58.8% of natural gas output, according to the Marine Minerals Administration. Personnel have been evacuated from 129 offshore p…
+- 10/10 02:01 [financialjuice] US BAKER HUGHES TOTAL RIG COUNT ACTUAL 603 (FORECAST -, PREVIOUS 598) $MACRO
+- 10/10 02:01 [financialjuice] US BAKER HUGHES OIL RIG COUNT ACTUAL 462 (FORECAST -, PREVIOUS 456) $MACRO
+- 10/10 02:01 [FirstSquawk] US OIL RIG COUNT UP 6 TO 462 , BAKER HUGHES SAYS
+- 10/10 02:01 [FirstSquawk] US TOTAL RIG COUNT 603 , BAKER HUGHES SAYS
