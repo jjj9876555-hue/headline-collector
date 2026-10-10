@@ -7,171 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-10 10:15 JST／対象: 10/09 22:15 〜 10/10 10:15 JST（時刻はすべて日本時間）
+生成: 2026-10-10 16:17 JST／対象: 10/10 04:17 〜 10/10 16:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 22 | 10/09 22:26 | 10/10 04:04 | ⚠ 95分（23:00→00:36） |
-| FirstSquawk | 66 | 10/09 22:16 | 10/10 05:03 | ⚠ 71分（23:14→00:25） |
-| financialjuice | 122 | 10/09 22:17 | 10/10 10:13 | ⚠ 105分（08:28→10:13） |
+| DeItaone | 0 | - | - | - |
+| FirstSquawk | 20 | 10/10 04:19 | 10/10 16:17 | ⚠ 599分（05:03→15:03） |
+| financialjuice | 54 | 10/10 04:22 | 10/10 15:27 | ⚠ 105分（08:28→10:13） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 193 行（統合前 213 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 74 行（統合前 75 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/09 22:16 [FirstSquawk] UN CHIEF ANTONIO GUTERRES SAYS NAVI PILLAY HAS SHOWN THE FORCE OF LAW MUST PREVAIL OVER THE LAW OF FORCE
-- 10/09 22:16 [FirstSquawk] UN CHIEF GUTERRES SAYS PRIZE IS A TRIBUTE TO ALL THOSE WORKING TO UPHOLD AND DEFEND INTERNATIONAL LAW AND HUMAN RIGHTS
-- 10/09 22:17 [financialjuice] Iran's President Pezeshkian: Negotiations only have meaning when based on mutual respect and commitment, and when pressure and threats are set aside - Iranian Media.
-- 10/09 22:18 [FirstSquawk] VENEZUELA US BACKED POLITICAL TALKS TO RESUME OCT. 14 SAYS RUBIO
-- 10/09 22:19 [financialjuice] China's He Lifeng meets the EU trade chief - Xinhua.
-- 10/09 22:24 [financialjuice] EU's Trade Chief Sefcovic Speaks In Beijing On EU-China Trade Deficit - WATCH LIVE
-- 10/09 22:25 [financialjuice/FirstSquawk] EU's Trade Chief Sefcovic: The China trade deficit is a mountain of challenges.
-- 10/09 22:25 [financialjuice/FirstSquawk] EU's Trade Chief Sefcovic: EU and China reaffirmed to properly handling differences under the framework of WTO rules.
-- 10/09 22:26 [DeItaone] $NVDA - UBS REAFFIRMS NVIDIA BUY RATING WITH $300 PRICE TARGET UBS reiterated its Buy rating on Nvidia, maintaining a $300 price target following strong Taiwanese export data. Taiwan's computing equipment exports surged 25.9% month-over-mon…
-- 10/09 22:26 [financialjuice/FirstSquawk] EU's Trade Chief Sefcovic: Reached understanding to moderate china hybrid export.
-- 10/09 22:27 [financialjuice/FirstSquawk] EU's Trade Chief Sefcovic: There is an understanding to improve access to china market.
-- 10/09 22:27 [financialjuice/FirstSquawk] EU's Trade Chief Sefcovic: More access to the China market for car parts and olive oil
-- 10/09 22:27 [DeItaone] EU AND CHINA REACH RARE EARTHS DEAL AS TRADE PRESSURE MOUNTS EU Trade Commissioner Maroš Šefčovič says Brussels and Beijing have reached an agreement on rare earths and magnets. A separate understanding on hybrid vehicles could halve Chines…
-- 10/09 22:27 [financialjuice] China's Wang expresses concerns to EU's recent restrictive move.
-- 10/09 22:27 [financialjuice/FirstSquawk] EU's Trade Chief Sefcovic: More China access for goods is worth almost €4b.
-- 10/09 22:28 [financialjuice/FirstSquawk] EU's Trade Chief Sefcovic: There is an understanding for China rare earth, magnet exports.
-- 10/09 22:28 [financialjuice/FirstSquawk] EU's Trade Chief Sefcovic: Where dialogue fails, the EU will use tools to rebalance
-- 10/09 22:29 [financialjuice] China: We are studying policies facilitating trade with EU.
-- 10/09 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -63.5 MLN NASDAQ 100: -17.1 MLN DOW 30: -9.2 MLN MAG 7: -9.0 MLN $MACRO
-- 10/09 22:31 [FirstSquawk] EU: ACCORD WITH CHINA COULD CUT HYBRID CAR EXPORTS BY HALF
-- 10/09 22:32 [DeItaone] $SPCX - SPACEX SHARES UP 3.3% AFTER CO STRIKES DEAL TO ACQUIRE NATIONWIDE LOW-BAND SPECTRUM PORTFOLIO
-- 10/09 22:33 [FirstSquawk] S&P 500 UP 22.35 POINTS, OR 0.29 PERCENT, AT 7,787.71 AFTER MARKET OPEN DOW JONES UP 67.32 POINTS, OR 0.13 PERCENT, AT 51,298.96 AFTER MARKET OPEN NASDAQ UP 149.59 POINTS, OR 0.55 PERCENT, AT 27,342.93 AFTER MARKET OPEN
-- 10/09 22:35 [financialjuice] EU's Trade Chief Sefcovic: We achieved very good results in China trade talks.
-- 10/09 22:40 [financialjuice] Houthi militias have manufactured concrete blocks on the roads in Bab al-Mandeb - Al Arabiya citing military source.
-- 10/09 22:51 [financialjuice] The EU and China are going to continue to engage in dialogue on medical devices.
-- 10/09 22:56 [financialjuice] Pakistan's Foreign Ministry: The forces stationed in Saudi Arabia have a defensive role - ISNA
-- 10/09 22:58 [DeItaone] SPOT SILVER RISES NEARLY 3% TO $61.10/OZ
-- 10/09 23:00 [financialjuice] UNIVERSITY MICHIGAN CONDITION PRELIM ACTUAL 44.7 (FORECAST 50.1, PREVIOUS 50.9) $MACRO
-- 10/09 23:00 [DeItaone] U.S. CONSUMER SENTIMENT FALLS AS INFLATION EXPECTATIONS RISE University of Michigan consumer sentiment fell to 46.3 in October, missing expectations of 47.8 and declining from 48.1 in September. The current conditions index plunged to 44.7,…
-- 10/09 23:00 [financialjuice] ‼ BREAKING: UNIVERSITY MICHIGAN SENTIMENT PRELIM ACTUAL 46.3 (FORECAST 47.6, PREVIOUS 48.1) $MACRO
-- 10/09 23:00 [financialjuice] UNIVERSITY MICHIGAN 1 YR INFLATION PRELIM ACTUAL 4.7% (FORECAST 4.8%, PREVIOUS 4.6%) $MACRO
-- 10/09 23:00 [financialjuice] UNIVERSITY MICHIGAN 5 YR INFLATION PRELIM ACTUAL 3.5% (FORECAST 3.5%, PREVIOUS 3.4%) $MACRO
-- 10/09 23:00 [financialjuice] UNIVERSITY MICHIGAN EXPECTATIONS PRELIM ACTUAL 47.3 (FORECAST 45.7, PREVIOUS 46.3) $MACRO
-- 10/09 23:01 [financialjuice] University Michigan Survey October Prelim Report
-- 10/09 23:02 [FirstSquawk] US UNIVERSITY OF MICHIGAN SENTIMENT AT 46.3, LOWER THAN FORECAST OF 47.6 AND LAST MONTH'S 48.1.
-- 10/09 23:03 [financialjuice] China: Don't politicize economic matters.
-- 10/09 23:03 [financialjuice] China vows a necessary response if any actions harm its interests.
-- 10/09 23:04 [FirstSquawk] CHINA URGES NOT TO POLITICIZE ECONOMIC ISSUES.
-- 10/09 23:04 [FirstSquawk] CHINA PROMISES TO TAKE ACTION IF ITS INTERESTS ARE THREATENED.
-- 10/09 23:07 [financialjuice] Fed: Participation in the stock market fell between 2022 and 2025.
-- 10/09 23:10 [FirstSquawk] WHITE HOUSE: FORMS COMMITTEE TO PROBE FED'S LISA COOK
-- 10/09 23:12 [financialjuice] German auto association VDA President: EU-China trade deal on hybrid vehicles an initial positive sign and expression of both sides' willingness to address existing challenges through dialogue.
-- 10/09 23:13 [financialjuice] Loud boom heard near Aden Airport, Yemen - Residents.
-- 10/09 23:14 [FirstSquawk] LOUD EXPLOSION REPORTED NEAR ADEN AIRPORT, SAY LOCALS.
-- 10/09 23:17 [financialjuice] Iran's Foreign Ministry spokesperson: France seeks to remain a nuclear power while restricting countries pursuing peaceful nuclear energy under what it calls a false nuclear threat narrative.
-- 10/09 23:24 [financialjuice] Fear and Greed Index: 43/100 = Fear
-- 10/09 23:25 [financialjuice] Crypto Fear and Greed Index: 59/100 = Greed
-- 10/09 23:52 [financialjuice] Trump hosts Columbus Day celebration at the White House - WATCH LIVE
-- 10/09 23:56 [financialjuice] Italy and the EU edge closer to an agreement on a deal to cap energy bills.
-- 10/09 23:58 [financialjuice] BNP Paribas cuts Tesla's target price to $266 from $268. $TSLA
-- 10/10 00:03 [financialjuice] Saudi Aramco is going to supply full oil volumes to European customers in November.
-- 10/10 00:08 [financialjuice] Banks head for $5 bln gold trading windfall in record year
-- 10/10 00:09 [financialjuice] US Official: US Treasury Secretary Bessent to skip IMF-World Bank and G20 meetings in Bangkok due to domestic engagements.
-- 10/10 00:24 [financialjuice] Venezuela Expects Oil Production to Reach 1.5 Million BPD by End of 2027
-- 10/10 00:25 [FirstSquawk] PDVSA CHIEF: VENEZUELA REFINERIES ARE PROCESSING 350K BPD
-- 10/10 00:28 [FirstSquawk] FCC'S CARR: SEEN OVER $100 BLN IN SPECTRUM DEAL FLOW, EXPECTS OVER $100 BLN FOR SALE IN 2-YEARS - CNBC
-- 10/10 00:29 [FirstSquawk] Saudi Aramco Will Be Supplying Full Oil Volumes To European Customers In November
-- 10/10 00:29 [FirstSquawk] PDVSA CHIEF: VENEZUELA OIL PRODUCTION WILL REACH 1.5M BPD AT CLOSE OF 2027
-- 10/10 00:34 [FirstSquawk] BRITAIN'S FTSE 100 UP 1.13%; GERMANY'S DAX UP 1.19%
-- 10/10 00:34 [FirstSquawk] FRANCE'S CAC 40 UP 0.96%; SPAIN'S IBEX UP 0.82%
-- 10/10 00:36 [FirstSquawk/DeItaone] TRUMP: BIG ANNOUNCEMENT COMING UP ON DIESEL
-- 10/10 00:36 [financialjuice] Trump: We have a big announcement coming up on diesel.
-- 10/10 00:36 [DeItaone] TRUMP ON IRAN: GOING TO BE OVER SOON ONE WAY OR THE OTHER
-- 10/10 00:36 [FirstSquawk] TRUMP REITERATES PRICES WILL COME DOWN AFTER IRAN WAR IS OVER
-- 10/10 00:37 [financialjuice] Trump on Iran: It is going to be over soon, one way or the other.
-- 10/10 00:37 [financialjuice] Trump: The OMB is going to make a big announcement soon.
-- 10/10 00:38 [financialjuice] Trump: We took out 28 million bbls of oil from Hormuz yesterday.
-- 10/10 00:39 [FirstSquawk] TRUMP: TOOK OUT 28 MILLION BBLS OF OIL FROM HORMUZ YESTERDAY
-- 10/10 00:45 [FirstSquawk] TRUMP REITERATES IRAN WAR WILL BE OVER SOON
-- 10/10 01:00 [financialjuice] WASDE COTTON END STOCKS ACTUAL 3.8M (FORECAST 3.5M, PREVIOUS 3.6M) $MACRO
-- 10/10 01:00 [financialjuice] WASDE WHEAT END STOCKS ACTUAL 740M (FORECAST 720M, PREVIOUS 717M) $MACRO
-- 10/10 01:00 [financialjuice] WASDE SOYBEAN END STOCKS ACTUAL 315M (FORECAST 305.5M, PREVIOUS 310M) $MACRO
-- 10/10 01:00 [financialjuice] WASDE CORN END STOCKS ACTUAL 1849M (FORECAST 1695.34M, PREVIOUS 1567M) $MACRO
-- 10/10 01:04 [FirstSquawk] CORN FALLS OVER 3% AFTER USDA RAISES US YIELD, SUPPLY OUTLOOK
-- 10/10 01:04 [FirstSquawk] US WASDE Corn End Stocks Oct: 1.849B (est 1.695B; prev 1.567B) - Soybean End Stocks: 315M (est 306M; prev 310M) - Total Wheat End Stocks: 740M (est 720M; prev 717M) - Cotton End Stocks: 3.80M (est 3.50M; prev 3.60M)
-- 10/10 01:08 [FirstSquawk] DEERE SHARES QUICKLY FALL AS MUCH AS 2.4%
-- 10/10 01:11 [FirstSquawk] UAE ATTORNEY GENERAL SAYS FLYDUBAI CO-PILOT PLANNED TO SEIZE DUBAI-TEL AVIV FLIGHT FOR SUICIDE ATTACK ON BEN GURION AIRPORT TERMINAL -UAE STATE NEWS AGENCY
-- 10/10 01:14 [FirstSquawk/DeItaone] TRUMP: GASOLINE PRICE WILL BE DOWN SOON
-- 10/10 01:14 [FirstSquawk/DeItaone] TRUMP REITERATES IRAN CAN'T HAVE NUCLEAR WEAPON
-- 10/10 01:15 [financialjuice/DeItaone] Trump on Iran: It's a very small price to pay.
-- 10/10 01:17 [FirstSquawk] CORN FUTURES DROP 4.8% AFTER USDA RAISES CROP YIELD FORECAST
-- 10/10 01:18 [DeItaone] PORT OF LOS ANGELES HITS RECORD CONTAINER VOLUME IN SEPTEMBER The busiest U.S. container port handled a record 1.04 million TEUs in September, with imports reaching an all-time high of 546,696 TEUs. Port Executive Director Gene Seroka says …
-- 10/10 01:18 [DeItaone] *CHEVRON: EVACUATED MOST PERSONNEL IN GULF DUE TO ISAIAS *CHEVRON: SAFELY CONTINUING PRODUCTION AT 4 PLATFORMS *CHEVRON: SHUT-IN PRODUCTION AT REMAINING 5 FACILITIES
-- 10/10 01:22 [FirstSquawk] CHEVRON EVACUATES PERSONNEL, SHUTS-IN FIVE FACILITIES AT GULF OF AMERICA, PRODUCTION CONTINUED AT FOUR PLATFORMS - DEPLOYS TECHNOLOGY TO PROTECT GULF COAST OPS DURING HURRICANE ISAIAS
-- 10/10 01:27 [financialjuice] Trump ends remarks at the White House.
-- 10/10 01:29 [financialjuice] EU Tech Chief: Landmark rules mean the Bloc is well equipped to deal with rogue AI agents and other risks.
-- 10/10 01:34 [financialjuice] US Gulf shuts in 1.5 million b/d or 72% of oil production - MMA.
-- 10/10 01:35 [FirstSquawk] US GULF SHUTS IN 1.5 BILLION B/D OR 72% OIL PRODUCTION: MMA
-- 10/10 01:35 [financialjuice] US Gulf shuts in 1.3 bcf/d or 59% gas production - MMA.
-- 10/10 01:47 [FirstSquawk] EIGHT COUNTRIES EXPRESS SUPPORT FOR ICC, CRITICIZE US SANCTIONS
-- 10/10 01:49 [DeItaone] U.S. GULF SHUTS DOWN 72% OF OIL PRODUCTION The U.S. Gulf of Mexico has shut in 71.5% of daily oil production and 58.8% of natural gas output, according to the Marine Minerals Administration. Personnel have been evacuated from 129 offshore p…
-- 10/10 02:01 [financialjuice] US BAKER HUGHES TOTAL RIG COUNT ACTUAL 603 (FORECAST -, PREVIOUS 598) $MACRO
-- 10/10 02:01 [financialjuice] US BAKER HUGHES OIL RIG COUNT ACTUAL 462 (FORECAST -, PREVIOUS 456) $MACRO
-- 10/10 02:01 [FirstSquawk] US OIL RIG COUNT UP 6 TO 462 , BAKER HUGHES SAYS
-- 10/10 02:01 [FirstSquawk] US TOTAL RIG COUNT 603 , BAKER HUGHES SAYS
-- 10/10 02:15 [FirstSquawk] FITCH RATINGS: U.K. GAS NETWORKS RETAIN HEADROOM DESPITE TIGHTER DEBT CAPACITY
-- 10/10 02:20 [DeItaone] JD VANCE ON PLANNED EXECUTION: I DON'T KNOW IF LIVESTREAM WILL HAPPEN VANCE: IF LIVESTREAMED, I WILL NOT BE WATCHING IT
-- 10/10 02:21 [FirstSquawk] TRUMP BEEF IMPORT STRATEGY FAILS TO LOWER PRICES OR APPEASE RANCHERS - POLITICO
-- 10/10 02:21 [FirstSquawk] 1 COUNTERPARTY TAKES $300 MLN AT FED REVERSE REPO (PREV $335 MLN, 2 BIDS)
-- 10/10 02:29 [FirstSquawk] US ENVOYS KUSHNER, WITKOFF TO DISCUSS NEW PEACE PLAN WITH UKRAINIAN DELEGATION - NBC
-- 10/10 02:30 [FirstSquawk] EXPLOSIONS, AIR DEFENSE ACTIVITY HEARD IN TEHRANPARS, EAST TEHRAN
-- 10/10 02:31 [financialjuice] Trump pressures Mexico for energy deals in crunch trade talks - FT
-- 10/10 02:32 [DeItaone] TRUMP TO ISSUE DIRECTIVE TO US OFFICIALS THAT SEEKS TO CONTROL COST OF DIESEL -THREE INDUSTRY SOURCES SAY
-- 10/10 02:32 [financialjuice] ❗ Trump to issue directive to US officials that seeks to control the cost of diesel - Three industry sources
-- 10/10 02:33 [financialjuice/DeItaone] Trump Directive on diesel will push US department heads to find ways to bypass local, state regulations blocking energy production - three sources
-- 10/10 02:33 [financialjuice] Trump directive will push US officials to use the Defense Production Act to find ways to increase production of oil and fuel - Sources
-- 10/10 02:35 [financialjuice] Trump insisted to Sheinbaum more US-Mexico energy tie-ups - FT
-- 10/10 02:36 [DeItaone] U.S. JET FUEL PRICES NEAR $5 A GALLON AMID WAR DISRUPTIONS Jet fuel prices have surged to $4.95 per gallon in New York and $4.91 in Los Angeles, reaching their highest levels since March and April, respectively. Ukrainian strikes on Russian…
-- 10/10 02:40 [FirstSquawk] DONALD TRUMP PRESSURES MEXICO FOR ENERGY DEALS IN CRUNCH TRADE TALKS – FT
-- 10/10 02:46 [FirstSquawk] VENEZUELA GRANTS SPACEX CONCESSIONS FOR SATELLITE INTERNET
-- 10/10 02:58 [FirstSquawk] NHC: TROPICAL STORM CONDITIONS BEGINNING ALONG THE NORTHERN GULF COAST
-- 10/10 03:02 [financialjuice] Trump to seek ways to overcome state hurdles on energy projects.
-- 10/10 03:02 [financialjuice] Trump to issue memo as soon as today on state energy hurdles
-- 10/10 03:03 [FirstSquawk] KATIE ZACHARIA TO BE NEW WHITE HOUSE PRESS SECRETARY: NYT
-- 10/10 03:04 [financialjuice] local sources report sounds heard in Yazd, eastern Iran were caused by military air defense exercise - Sepah Media
-- 10/10 03:06 [FirstSquawk] PANAMA STRUCK BY 8.0 MAG. EARTHQUAKE NEAR PITALOZA ARRIBA: USGS
-- 10/10 03:10 [financialjuice] IDF: We attacked a Syrian terrorist operative from the air who was operating under the direction of the Iranian regime - Israel's N12 News
-- 10/10 03:14 [FirstSquawk] PTWC: HAZARDOUS TSUNAMI WAVES POSSIBLE FROM PANAMA QUAKE
-- 10/10 03:21 [financialjuice] ECB's Kazaks: European economy is relatively resilient to shocks.
-- 10/10 03:21 [financialjuice] ECB's Kazaks: 2.5% is the upper limit of the ECB's neutral limit
-- 10/10 03:21 [FirstSquawk] ECB KAZAKS: 2.5% IS THE UPPER LIMIT OF THE ECB'S NEUTRAL LIMIT
-- 10/10 03:21 [FirstSquawk] KAZAKS: ECB IS IN A FAIRLY COMFORTABLE SITUATION ON RATES
-- 10/10 03:21 [FirstSquawk] KAZAKS: EUROPEAN ECONOMY IS RELATIVELY RESILIENT TO SHOCKS
-- 10/10 03:21 [financialjuice] ECB's Kazaks: ECB is in a fairly comfortable situation on rates.
-- 10/10 03:31 [financialjuice] NYMEX WTI crude Nov. futures settle at $91.85 a barrel up 36 cents, 0.39%
-- 10/10 03:31 [financialjuice] NYMEX gasoline Nov. futures settle at $3.2952 a gallon
-- 10/10 03:31 [FirstSquawk] US CRUDE OIL FUTURES SETTLE AT $91.85/BBL, UP 36 CENTS, 0.39%
-- 10/10 03:31 [financialjuice] NYMEX diesel Nov. futures settle at $4.7384 a gallon
-- 10/10 03:32 [financialjuice] NYMEX Nat Gas Nov. futures settle at $3.2200/MMBTU
-- 10/10 03:40 [financialjuice] Microsoft Nadella: Introduces Microsoft-decision-1, new model. $MSFT
-- 10/10 03:40 [FirstSquawk] PTWC: 1 TO 3 METER TSUNAMI WAVES POSSIBLE ALONG PANAMA COASTS
-- 10/10 03:40 [FirstSquawk] NADELLA: INTRODUCES MICROSOFT-DECISION-1, NEW MODEL
-- 10/10 03:41 [financialjuice] Nadella: We're already testing new model across Microsoft. $MSFT
-- 10/10 03:47 [financialjuice] Trump: Just concluded successful talk with Putin.
-- 10/10 03:47 [financialjuice] ❗ Trump: Russia to supply 300k+ metric tons of diesel - Truth Social
-- 10/10 03:47 [FirstSquawk] Trump on truth social I have just concluded a highly successful discussion with President Vladimir Putin, of Russia, wherein it was agreed that Russia will immediately supply over 300,000 Tons of Diesel Fuel to the American and Global Marke…
-- 10/10 03:47 [financialjuice] ‼ BREAKING: Trump: Russia to supply 300k+ metric tons of diesel - Truth Social
-- 10/10 03:47 [DeItaone] TRUMP ANNOUNCES DEAL WITH PUTIN FOR RUSSIAN DIESEL SUPPLIES President Trump says he held a “highly successful” discussion with Vladimir Putin, securing an agreement for Russia to supply diesel to U.S. and global markets. According to Trump,…
-- 10/10 03:47 [DeItaone] *TRUMP SAYS RUSSIA TO DELIVER 3M METRIC TONS DIESEL SOON
-- 10/10 03:48 [financialjuice] ❗ Trump: Russia will immediately supply another 500k tons during month of November, and 1 mln tons immediately thereafter.
-- 10/10 03:48 [financialjuice] ❗ Trump: Russia to deliver 3 mln metric tons diesel soon.
-- 10/10 03:50 [financialjuice] US Treasury: Office of Foreign Assets Control (OFAC) is immediately issuing a temporary general license to allow the supply of Russian diesel to the global market.
-- 10/10 03:50 [financialjuice/FirstSquawk] Brent Crude futures settle at $104.72/bbl, up 44 cents, 0.42%
-- 10/10 03:52 [DeItaone] Trump on Truth Social: 'Diesel Prices for Americans and, Indeed, the World, Will Be COMING DOWN, IN RECORD NUMBERS, AND FAST!'
-- 10/10 03:53 [financialjuice] Trump: Putin Agreed to Release Diesel Into Global Oil Market - Truth Social
-- 10/10 04:00 [financialjuice/DeItaone] US issues general license authorizing transactions related to sale, delivery, offloading, and importation of diesel fuel of Russian origin through April 7th, 2027
-- 10/10 04:01 [financialjuice] Week Ahead: Economic Indicators 12th – 16th October (US)
-- 10/10 04:04 [DeItaone/financialjuice/FirstSquawk] PUTIN'S ENVOY DMITRIEV ON X: RUSSIA-US COOPERATION ON DIESEL AND ENERGY WILL BENEFIT THE WORLD
 - 10/10 04:19 [FirstSquawk] NASA SEEKS US INDUSTRY PLANS FOR COMMERCIAL SPACE STATIONS
 - 10/10 04:22 [financialjuice] Monday FX Option Expiries
 - 10/10 04:30 [financialjuice] CFTC Positions in the Week of October 6th 2026
@@ -217,3 +69,32 @@
 - 10/10 07:50 [financialjuice] Trump administration: now requiring AI companies to report and fix security breaches after Anthropic’s 'fraudulent' use of government systems - Axios
 - 10/10 08:28 [financialjuice] Trump asks US Supreme Court to review dismissed lawsuit accusing Hillary Clinton of conspiracy in 2016 election
 - 10/10 10:13 [financialjuice] Trump: we won’t forget Norway’s refusal to award Nobel Peace Prize to the US
+- 10/10 10:23 [financialjuice] China conducts no 7-day reverse repos: statement
+- 10/10 11:54 [financialjuice] Taiwan president: Taiwan may be small, but we protect freedom, democracy, human rights, and the rule of law
+- 10/10 11:55 [financialjuice] Taiwan president: we understand cost of conflict, committed to peace and being a stabilizing force trusted by international community
+- 10/10 11:55 [financialjuice] Taiwan president: China persists in military and grey-zone pressure to shift status quo across Taiwan Strait
+- 10/10 11:55 [financialjuice] Taiwan president: the mighty cannot deny people their right to decide their own future
+- 10/10 11:57 [financialjuice] Taiwan president: increasing investment in national defence aims to deter war, not provoke
+- 10/10 11:57 [financialjuice] Taiwan president: we are boosting self-defence to ensure dialogue occurs on basis of parity and dignity, not to abandon talks
+- 10/10 11:57 [financialjuice] Taiwan president: we welcome US and China handling their rivalry through talks, lowering conflict and war risks
+- 10/10 11:57 [financialjuice] Taiwan president: there must be respect for the right of Taiwanese people to exist
+- 10/10 11:58 [financialjuice] Taiwan president: Taiwan values peace but will not surrender freedom; open to dialogue, rejects subordination
+- 10/10 11:58 [financialjuice] Taiwan president: resolute and responsible actions safeguard peace and stability in Taiwan Strait and Indo-Pacific
+- 10/10 12:50 [financialjuice] Trump on Hurricane Isaias: we're monitoring it very closely, the hurricane
+- 10/10 14:20 [financialjuice] Indian police detain founder of Cockroach youth movement Abhijeet Dipke: Cockroach Janta Party
+- 10/10 14:56 [financialjuice] Egypt's yearly urban consumer price inflation slows to 13.9% in September from 14.5% in August: Capmas
+- 10/10 15:03 [FirstSquawk] Putin claimed 90% of Russia's trade settlements with CIS nations now use national currencies to bypass Western sanctions.
+- 10/10 15:03 [FirstSquawk] Moscow relies on regional post-Soviet trade networks exceeding $110B to soften the impact of international export curbs.
+- 10/10 15:03 [FirstSquawk] Russia is providing missiles to Iran after Moscow reportedly helped Tehran target US bases across the region
+- 10/10 15:04 [FirstSquawk] Bitwise CEO Calls Dogecoin ETF Failure 'Tragic' as BWOW Set to Shut Down After Less Than a Year.
+- 10/10 15:04 [FirstSquawk] Egypt's yearly urban consumer price inflation slows to 13.9% in September
+- 10/10 15:05 [FirstSquawk] Egypt strongly condemned attacks on Riyadh’s King Khalid International Airport and a Saudi Airlines aircraft that killed three Saudi citizens and injured several civilians, the Egyptian foreign ministry said on Saturday.
+- 10/10 15:05 [FirstSquawk] AI is changing how lawyers work — and putting the billable hour under pressure
+- 10/10 15:27 [financialjuice] Seven killed in Russian strike on Ukraine's Zaporizhzhia, governor says
+- 10/10 15:28 [FirstSquawk] An Iranian lawmaker referred to what he called “contradictory statements” by US officials about Iran, saying they could reflect internal disagreements or be part of an effort to disrupt Tehran’s calculations.
+- 10/10 15:28 [FirstSquawk] Apple is scaling back iPhone 18 Pro production orders after rising memory chip costs triggered price hikes that cooled buyer demand.
+- 10/10 15:28 [FirstSquawk] Ukrainian attack drones struck the NZNP Rostovsky oil export terminal in Rostov-on-Don, Russia, setting the facility ablaze just hours after the U.S. eased sanctions on Russian fuel exports.
+- 10/10 15:29 [FirstSquawk] Russia's NZNP Rostovsky oil products export terminal, ablaze tonight in the city of Rostov-on-Don after a Ukrainian drone attack.
+- 10/10 16:15 [FirstSquawk] Vice President JD Vance questioned whether the Pentagon will livestream the December execution of Fort Hood shooter Nidal Malik Hasan, while saying he would not watch it if the broadcast proceeds.
+- 10/10 16:16 [FirstSquawk] Hurricane Isaias makes landfall on US Gulf Coast as category 2 storm
+- 10/10 16:17 [FirstSquawk] Russia and US will inevitably unite — geologists

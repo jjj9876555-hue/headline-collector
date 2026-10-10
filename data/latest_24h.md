@@ -7,115 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-10 10:15 JST／対象: 10/09 10:15 〜 10/10 10:15 JST（時刻はすべて日本時間）
+生成: 2026-10-10 16:17 JST／対象: 10/09 16:17 〜 10/10 16:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 36 | 10/09 20:31 | 10/10 04:04 | ⚠ 95分（23:00→00:36） |
-| FirstSquawk | 178 | 10/09 10:17 | 10/10 05:03 | ⚠ 71分（23:14→00:25） |
-| financialjuice | 177 | 10/09 10:17 | 10/10 10:13 | ⚠ 157分（17:34→20:12） |
+| FirstSquawk | 123 | 10/09 16:41 | 10/10 16:17 | ⚠ 599分（05:03→15:03） |
+| financialjuice | 169 | 10/09 16:38 | 10/10 15:27 | ⚠ 157分（17:34→20:12） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 374 行（統合前 394 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 311 行（統合前 331 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/09 10:17 [financialjuice] China sets yuan midpoint at strongest level since Feb. 2, 2023
-- 10/09 10:17 [FirstSquawk] CHINA SETS YUAN REFERENCE RATE AT 6.7330 PER US DOLLAR, PBOC SAYS
-- 10/09 10:19 [FirstSquawk] YUAN FIXING HITS STRONGEST LEVEL IN MORE THAN THREE YEARS AS CHINA SETS DAILY MIDPOINT
-- 10/09 10:21 [financialjuice] China central bank injects 2 billion yuan through 7-day reverse repos at 1.40%: statement
-- 10/09 10:22 [FirstSquawk] PBOC CONDUCTS 2 BILLION YUAN REVERSE REPO OPERATIONS AT 1.40%, UNCHANGED FROM PREVIOUS RATE
-- 10/09 10:30 [FirstSquawk] CRUDE OIL WEAKENS BELOW $90.50 AS TRUMP RULES OUT PRE-ELECTION MILITARY ACTION AGAINST IRAN - FX
-- 10/09 10:34 [FirstSquawk] US SOYBEAN AND CORN FUTURES RISE AS MARKETS AWAIT REPORTS; WHEAT RECOVERS
-- 10/09 10:40 [FirstSquawk] HONG KONG BIOTECH STOCKS DECLINE AS HANG SENG BIOTECH INDEX DROPS 2%
-- 10/09 10:42 [FirstSquawk] SPOT GOLD ADVANCES TO $4,173.05 PER OUNCE, UP AROUND 1%
-- 10/09 10:45 [financialjuice] India's 'cockroach' movement member Deepak Baliyan freed after detention Thursday: CJP spokesperson
-- 10/09 10:50 [FirstSquawk] HONG KONG TECHNOLOGY STOCKS ADVANCE AS HANG SENG TECH INDEX GAINS 2%
-- 10/09 10:56 [FirstSquawk] MUFG’S AUD500 MILLION ADDITIONAL TIER 1 SECURITIES RECEIVE 'BB+' RATING FROM FITCH
-- 10/09 10:57 [FirstSquawk] CHINA’S MOST-TRADED COKING COAL CONTRACT GAINS OVER 3%
-- 10/09 11:03 [financialjuice] UK's governing Labour party secures win in parliamentary seat vacated by former PM Starmer
-- 10/09 11:03 [FirstSquawk] BRITAIN’S RULING LABOUR PARTY SECURES WIN IN SEAT LEFT VACANT BY EX-PM STARMER
-- 10/09 11:06 [financialjuice] Shell: continuing to monitor hurricane Isaias for possible impacts to assets and operations in the Gulf of America
-- 10/09 11:06 [FirstSquawk] SHELL ASSESSES POTENTIAL OPERATIONAL AND ASSET RISKS FROM HURRICANE ISAIAS IN THE GULF OF AMERICA
-- 10/09 11:06 [financialjuice] Shell: evacuations finished for Appomattox, Mars, Ursa Olympus and Vito
-- 10/09 11:07 [financialjuice] Shell: production halted at Mars, Ursa, Olympus and Vito fields
-- 10/09 11:07 [FirstSquawk] SHELL SAYS EVACUATIONS ARE COMPLETE ACROSS APPOMATTOX, MARS, URSA OLYMPUS AND VITO FACILITIES
-- 10/09 11:07 [FirstSquawk] SHELL CONFIRMS PRODUCTION SHUT-IN ACROSS MARS, URSA, OLYMPUS AND VITO ASSETS
-- 10/09 11:10 [FirstSquawk] CHINESE TECHNOLOGY STOCKS DECLINE AS STAR 50 INDEX DROPS ROUGHLY 3%
-- 10/09 11:13 [FirstSquawk] CHINA’S COKE FUTURES RALLY AS THE MOST-ACTIVE CONTRACT RISES MORE THAN 3%
-- 10/09 11:15 [financialjuice] China authorizes non-state crude oil import quota for 2027 at 257 million metric tons: commerce ministry
-- 10/09 11:15 [FirstSquawk] CHINA AUTHORISES 257 MILLION METRIC TONNES OF CRUDE OIL IMPORTS FOR NON-STATE FIRMS IN 2027
-- 10/09 11:27 [FirstSquawk] AMERICAN REFINERS SEE PROFITS SURGE AS WARS SQUEEZE GLOBAL OIL SUPPLIES - WSJ
-- 10/09 11:40 [FirstSquawk] CRUDE OIL SLIPS AS PRICES ARE LIKELY TO REMAIN HIGH IN THE SHORT TERM - WSJ
-- 10/09 11:50 [FirstSquawk] ISAIAS FORECAST TO APPROACH THE NORTHERN GULF COAST AS A DANGEROUS HURRICANE FRIDAY, NHC SAYS
-- 10/09 11:53 [financialjuice] German Bund futures rise 0.45%; French OAT futures increase 0.78%
-- 10/09 11:53 [FirstSquawk] GERMAN AND FRENCH GOVERNMENT BOND FUTURES ADVANCE 0.45% AND 0.78%, RESPECTIVELY
-- 10/09 12:01 [FirstSquawk] GOLD ADVANCES AS PROSPECTS OF STRONGER CHINESE DEMAND SUPPORT PRICES- WSJ
-- 10/09 12:06 [FirstSquawk] SOUTH KOREAN MINISTRY DENIES CLAIM THAT US COMMERCE CHIEF LUTNICK VOICED DISPLEASURE WITH INTELLIGENCE AGENCY DURING BILATERAL TALKS - YONHAP
-- 10/09 12:41 [financialjuice] China finance ministry offers 10-year bonds at 1.6673% yield: traders
-- 10/09 12:42 [FirstSquawk] CHINA FINANCE MINISTRY SETS 2-YEAR BOND AUCTION YIELD AT 1.2517%, TRADERS SAY
-- 10/09 12:43 [FirstSquawk] CHINA FINANCE MINISTRY SETS 10-YEAR BOND AUCTION YIELD AT 1.6673%, TRADERS SAY
-- 10/09 12:46 [FirstSquawk] 10-YEAR JAPANESE GOVERNMENT BOND YIELD SLIDES 5.5 BASIS POINTS TO 3.025%
-- 10/09 12:51 [FirstSquawk] 5-YEAR JAPANESE GOVERNMENT BOND YIELD SLIDES 4 BASIS POINTS TO 2.345%
-- 10/09 12:51 [FirstSquawk] 30-YEAR JAPANESE GOVERNMENT BOND YIELD SLIDES 6 BASIS POINTS TO 4.060%
-- 10/09 12:59 [FirstSquawk] RBC REVISES ARITZIA'S PRICE TARGET HIGHER TO C$195, UP FROM C$191
-- 10/09 13:00 [FirstSquawk] INDONESIA'S SUGARY DRINKS EXCISE TAX SET TO TAKE EFFECT IN THE SECOND HALF OF 2027, CUSTOMS CHIEF SAYS
-- 10/09 13:06 [FirstSquawk] UK TO REQUIRE UNIVERSITY STUDENTS TO MEET MINIMUM ADMISSION STANDARDS TO ACCESS LOANS - FT
-- 10/09 13:07 [FirstSquawk] US 10-YEAR TREASURY YIELDS FACE RISK OF RISING TO 6%, A LEVEL NOT SEEN SINCE 2000, PIMCO SAYS - FT
-- 10/09 13:09 [financialjuice] Ukraine strike kills two, injures four in Russia's Belgorod region: TASS quotes local officials
-- 10/09 13:09 [FirstSquawk] TWO KILLED AND FOUR WOUNDED IN UKRAINE STRIKE ON RUSSIA'S BELGOROD REGION, LOCAL OFFICIALS SAY
-- 10/09 13:21 [financialjuice] United Overseas Bank and Amazon Web Services ink MOU to explore AI-driven banking innovation across ASEAN
-- 10/09 13:23 [FirstSquawk] UK SHOULD ACCEPT LESS FISCAL HEADROOM RATHER THAN RAISE TAXES IN THE BUDGET, JIM O’NEILL SAYS - FT
-- 10/09 13:23 [FirstSquawk] TRUMP-BACKED FIRM'S CRYPTO TIES DRAW COMPANIES INTO $141 MILLION LEGAL DISPUTE, FT SAYS
-- 10/09 13:25 [financialjuice] Venezuela opposition leader Maria Corina Machado calls for polls in 2025: FT
-- 10/09 13:26 [FirstSquawk] VENEZUELA'S MACHADO PUSHES FOR 2027 ELECTIONS AMID POLITICAL UNCERTAINTY, FT REPORTS
-- 10/09 13:26 [financialjuice] Machado calls for transparency in handling proceeds from Venezuela's oil sales overseen by Washington - FT
-- 10/09 13:30 [financialjuice] Dutch August manufacturing output rises 3.3% month on month: CBS
-- 10/09 13:32 [FirstSquawk] SOFTBANK TARGETS $100 BILLION FROM MIDDLE EASTERN INVESTORS TO SCALE UP AI INVESTMENTS, FT REPORTS
-- 10/09 13:33 [FirstSquawk] SOFTBANK'S MASAYOSHI SON HOLDS TALKS WITH SENIOR FIGURES IN THE UAE AND ELSEWHERE ON POSSIBLE FUNDRAISING, FT SAYS
-- 10/09 13:43 [FirstSquawk] ASSETS LINKED TO ASSAD ALLIES ARE BEING REDIRECTED INTO A $50 BILLION SECRETIVE FUND IN SYRIA - FT
-- 10/09 13:50 [financialjuice] Ukraine drone attack ignites fire at industrial site in Russia's Tver region: TASS quotes governor
-- 10/09 13:50 [FirstSquawk] DRONE STRIKE FROM UKRAINE SETS INDUSTRIAL SITE ABLAZE IN RUSSIA'S TVER REGION, TASS REPORTS
-- 10/09 13:58 [FirstSquawk] BERLIN SET TO INTRODUCE ADDITIONAL SANCTIONS TARGETING THE RUSSIAN ECONOMY
-- 10/09 14:00 [FirstSquawk] ROCHE'S TECENTRIQ COMBINATION APPROVED BY FDA FOR ADJUVANT TREATMENT OF A SPECIFIC TYPE OF STAGE III COLON CANCER
-- 10/09 14:17 [financialjuice] Morning Juice - Europe Session Prep
-- 10/09 14:18 [FirstSquawk] SPOT PLATINUM GAINS 3%, CLIMBING TO $1,678.15 PER OUNCE
-- 10/09 14:29 [FirstSquawk] AUSTRALIAN STOCKS GAIN 0.6% AS THE S&P/ASX 200 CLOSES AT 8,716.60
-- 10/09 14:32 [FirstSquawk] SPOT PALLADIUM RALLIES TO $1,157.16/OZ, UP 3%
-- 10/09 14:45 [FirstSquawk] JAPAN'S NIKKEI STOCK INDEX GIVES UP EARLY LOSSES, RETURNING TO FLAT
-- 10/09 14:46 [FirstSquawk] JAPAN'S 10-YEAR JGB YIELD SLIDES 7.5 BPS TO 3.005%
-- 10/09 14:46 [FirstSquawk] SK GROUP'S CHEY EXPECTS ROBUST MOMENTUM IN GLOBAL CHIP DEMAND TO PERSIST
-- 10/09 14:49 [FirstSquawk] SK CHAIRMAN CHEY SAYS CHIP FAB WILL BE BUILT AS FAST AS POSSIBLE, WITH POWER AND WATER SUPPLIES IN PLACE
-- 10/09 14:51 [FirstSquawk] JAPAN'S 20-YEAR JGB YIELD SLIDES 8.5 BPS TO 3.865%
-- 10/09 15:00 [financialjuice] NORWEGIAN CPI MOM ACTUAL 0.5% (FORECAST -, PREVIOUS -0.3%) $MACRO
-- 10/09 15:00 [financialjuice] NORWEGIAN CPI YOY ACTUAL 3.4% (FORECAST 3.6%, PREVIOUS 3.3%) $MACRO
-- 10/09 15:03 [FirstSquawk] NORWAY (SEP) CPI UNDERLYING MOM ACTUAL: 0.2% VS -0.5% PREVIOUS;EST 0.3%
-- 10/09 15:03 [FirstSquawk] NORWAY (SEP) CPI UNDERLYING YOY ACTUAL: 3.0% VS 3.0% PREVIOUS;EST 3.1%
-- 10/09 15:03 [FirstSquawk] JAPAN (SEP) MACHINE TOOL OREDERS YOY ACTUAL: 60.4% VS 64.7% PREVIOUS
-- 10/09 15:03 [FirstSquawk] SWEDEN (AUG) GDP INDICATOR SA MOM ACTUAL: 1.1% VS -0.8% PREVIOUS;EST 0.5%
-- 10/09 15:03 [FirstSquawk] SWEDEN (AUG) GDP INDICATOR WDA YOY ACTUAL: 3.5% VS 2.5% PREVIOUS
-- 10/09 15:03 [FirstSquawk] SWEDEN (AUG) PRIVATE SECTOR PRODUCTION YOY ACTUAL: 3.8% VS 3.6% PREVIOUS
-- 10/09 15:03 [FirstSquawk] SWEDEN (AUG) INDUSTRY PRODUCTION VALUE YOY ACTUAL: 5.8% VS 0.2% PREVIOUS
-- 10/09 15:03 [FirstSquawk] SWEDEN (AUG) SERVICE PRODUCTION VALUE YOY ACTUAL: 3.4% VS 5.0% PREVIOUS
-- 10/09 15:03 [FirstSquawk] SWEDEN (AUG) INDUSTRIAL ORDERS MOM ACTUAL: 2.0% VS -24.1% PREVIOUS
-- 10/09 15:03 [FirstSquawk] SWEDEN (AUG) INDUSTRIAL ORDERS NSA YOY ACTUAL: 5.1% VS -0.5% PREVIOUS
-- 10/09 15:03 [FirstSquawk] NORWAY (SEP) CPI MOM ACTUAL: 0.5% VS -0.3% PREVIOUS
-- 10/09 15:03 [FirstSquawk] NORWAY (SEP) CPI YOY ACTUAL: 3.4% VS 3.3% PREVIOUS;EST 3.6%
-- 10/09 15:06 [FirstSquawk] NORWAY PPI INCLUDING OIL (Y/Y) SEP: 48.8% (PREV 30.1%)
-- 10/09 15:06 [FirstSquawk] NORWAY PPI INCLUDING OIL (M/M): 12.4% (PREV 4.7%)
-- 10/09 15:08 [FirstSquawk] APPLE SCALES BACK IPHONE 18 PRO ORDERS FOLLOWING WEAKER-THAN-EXPECTED DEMAND, NIKKEI SAYS
-- 10/09 15:10 [financialjuice] Apple asks for parts output cuts for iPhone 18 Pro and Max - Nikkei $AAPL
-- 10/09 15:27 [FirstSquawk] RUSSIAN DEFENCE MINISTRY CLAIMS STRIKE ON CARGO SHIP AT MYKOLAIV PORT IN UKRAINE
-- 10/09 15:36 [FirstSquawk] BARCLAYS LOWERS RYANAIR RATING TO EQUAL-WEIGHT AND REDUCES TARGET PRICE TO EUR 24 FROM EUR 28.50
-- 10/09 15:53 [FirstSquawk] EUROPEAN Q3 REVENUE GROWTH FORECAST HOLDS AT 10.6%, ACCORDING TO LSEG IBES DATA
-- 10/09 16:02 [financialjuice] Currency Strength Chart: Strongest: AUD, NZD, EUR, CHF, CAD, GBP, USD, GBP - Weakest
-- 10/09 16:02 [financialjuice] US Treasury Secretary Bessent may focus on Trump’s Shenzhen visit - SCMP.
-- 10/09 16:02 [financialjuice] US Treasury Secretary Bessent may skip APEC in Hong Kong - SCMP
-- 10/09 16:06 [FirstSquawk] PORSCHE AG 9M TRADING UPDATE: DELIVERIES DOWN 16% Y/Y AT 178,532 VEHICLE; EUROPE EXCL GERMANY DOWN 11% Y/Y, IN GERMANY DOWN 7% Y/Y; CHINA DOWN 33% Y/Y, IN NORTH AMERICA DOWN 13% Y/Y
 - 10/09 16:38 [financialjuice] Operations resume at Riyadh's King Khalid International Airport, air traffic returns to normal - Saudi Civil Aviation Authority
 - 10/09 16:41 [FirstSquawk] SAUDI ARABIA REPORTED ON THURSDAY THAT RIYADH AIRPORT WAS TARGETED IN ATTACKS.
 - 10/09 16:41 [FirstSquawk] THREE SAUDI NATIONALS DIED IN TWO ATTACKS AT KING KHALID INTERNATIONAL AIRPORT IN RIYADH, AS CONFIRMED BY SAUDI CIVIL AVIATION AUTHORITY.
@@ -398,3 +306,32 @@
 - 10/10 07:50 [financialjuice] Trump administration: now requiring AI companies to report and fix security breaches after Anthropic’s 'fraudulent' use of government systems - Axios
 - 10/10 08:28 [financialjuice] Trump asks US Supreme Court to review dismissed lawsuit accusing Hillary Clinton of conspiracy in 2016 election
 - 10/10 10:13 [financialjuice] Trump: we won’t forget Norway’s refusal to award Nobel Peace Prize to the US
+- 10/10 10:23 [financialjuice] China conducts no 7-day reverse repos: statement
+- 10/10 11:54 [financialjuice] Taiwan president: Taiwan may be small, but we protect freedom, democracy, human rights, and the rule of law
+- 10/10 11:55 [financialjuice] Taiwan president: we understand cost of conflict, committed to peace and being a stabilizing force trusted by international community
+- 10/10 11:55 [financialjuice] Taiwan president: China persists in military and grey-zone pressure to shift status quo across Taiwan Strait
+- 10/10 11:55 [financialjuice] Taiwan president: the mighty cannot deny people their right to decide their own future
+- 10/10 11:57 [financialjuice] Taiwan president: increasing investment in national defence aims to deter war, not provoke
+- 10/10 11:57 [financialjuice] Taiwan president: we are boosting self-defence to ensure dialogue occurs on basis of parity and dignity, not to abandon talks
+- 10/10 11:57 [financialjuice] Taiwan president: we welcome US and China handling their rivalry through talks, lowering conflict and war risks
+- 10/10 11:57 [financialjuice] Taiwan president: there must be respect for the right of Taiwanese people to exist
+- 10/10 11:58 [financialjuice] Taiwan president: Taiwan values peace but will not surrender freedom; open to dialogue, rejects subordination
+- 10/10 11:58 [financialjuice] Taiwan president: resolute and responsible actions safeguard peace and stability in Taiwan Strait and Indo-Pacific
+- 10/10 12:50 [financialjuice] Trump on Hurricane Isaias: we're monitoring it very closely, the hurricane
+- 10/10 14:20 [financialjuice] Indian police detain founder of Cockroach youth movement Abhijeet Dipke: Cockroach Janta Party
+- 10/10 14:56 [financialjuice] Egypt's yearly urban consumer price inflation slows to 13.9% in September from 14.5% in August: Capmas
+- 10/10 15:03 [FirstSquawk] Putin claimed 90% of Russia's trade settlements with CIS nations now use national currencies to bypass Western sanctions.
+- 10/10 15:03 [FirstSquawk] Moscow relies on regional post-Soviet trade networks exceeding $110B to soften the impact of international export curbs.
+- 10/10 15:03 [FirstSquawk] Russia is providing missiles to Iran after Moscow reportedly helped Tehran target US bases across the region
+- 10/10 15:04 [FirstSquawk] Bitwise CEO Calls Dogecoin ETF Failure 'Tragic' as BWOW Set to Shut Down After Less Than a Year.
+- 10/10 15:04 [FirstSquawk] Egypt's yearly urban consumer price inflation slows to 13.9% in September
+- 10/10 15:05 [FirstSquawk] Egypt strongly condemned attacks on Riyadh’s King Khalid International Airport and a Saudi Airlines aircraft that killed three Saudi citizens and injured several civilians, the Egyptian foreign ministry said on Saturday.
+- 10/10 15:05 [FirstSquawk] AI is changing how lawyers work — and putting the billable hour under pressure
+- 10/10 15:27 [financialjuice] Seven killed in Russian strike on Ukraine's Zaporizhzhia, governor says
+- 10/10 15:28 [FirstSquawk] An Iranian lawmaker referred to what he called “contradictory statements” by US officials about Iran, saying they could reflect internal disagreements or be part of an effort to disrupt Tehran’s calculations.
+- 10/10 15:28 [FirstSquawk] Apple is scaling back iPhone 18 Pro production orders after rising memory chip costs triggered price hikes that cooled buyer demand.
+- 10/10 15:28 [FirstSquawk] Ukrainian attack drones struck the NZNP Rostovsky oil export terminal in Rostov-on-Don, Russia, setting the facility ablaze just hours after the U.S. eased sanctions on Russian fuel exports.
+- 10/10 15:29 [FirstSquawk] Russia's NZNP Rostovsky oil products export terminal, ablaze tonight in the city of Rostov-on-Don after a Ukrainian drone attack.
+- 10/10 16:15 [FirstSquawk] Vice President JD Vance questioned whether the Pentagon will livestream the December execution of Fort Hood shooter Nidal Malik Hasan, while saying he would not watch it if the broadcast proceeds.
+- 10/10 16:16 [FirstSquawk] Hurricane Isaias makes landfall on US Gulf Coast as category 2 storm
+- 10/10 16:17 [FirstSquawk] Russia and US will inevitably unite — geologists
