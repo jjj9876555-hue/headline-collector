@@ -7,137 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-10 16:17 JST／対象: 10/09 16:17 〜 10/10 16:17 JST（時刻はすべて日本時間）
+生成: 2026-10-10 22:52 JST／対象: 10/09 22:52 〜 10/10 22:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 36 | 10/09 20:31 | 10/10 04:04 | ⚠ 95分（23:00→00:36） |
-| FirstSquawk | 123 | 10/09 16:41 | 10/10 16:17 | ⚠ 599分（05:03→15:03） |
-| financialjuice | 169 | 10/09 16:38 | 10/10 15:27 | ⚠ 157分（17:34→20:12） |
+| DeItaone | 20 | 10/09 22:58 | 10/10 21:17 | ⚠ 1032分（04:04→21:17） |
+| FirstSquawk | 103 | 10/09 23:02 | 10/10 22:36 | ⚠ 599分（05:03→15:03） |
+| financialjuice | 136 | 10/09 22:56 | 10/10 22:32 | ⚠ 136分（15:27→17:44） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 311 行（統合前 331 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 250 行（統合前 261 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/09 16:38 [financialjuice] Operations resume at Riyadh's King Khalid International Airport, air traffic returns to normal - Saudi Civil Aviation Authority
-- 10/09 16:41 [FirstSquawk] SAUDI ARABIA REPORTED ON THURSDAY THAT RIYADH AIRPORT WAS TARGETED IN ATTACKS.
-- 10/09 16:41 [FirstSquawk] THREE SAUDI NATIONALS DIED IN TWO ATTACKS AT KING KHALID INTERNATIONAL AIRPORT IN RIYADH, AS CONFIRMED BY SAUDI CIVIL AVIATION AUTHORITY.
-- 10/09 16:42 [FirstSquawk] FIRST ATTACK HIT AIRPORT FACILITIES, WHILE THE SECOND TARGETED SAUDI AIRCRAFT - SAUDI CIVIL AVIATION AUTHORITY.
-- 10/09 16:42 [FirstSquawk] OPERATIONS HAVE RESTARTED AT KING KHALID INTERNATIONAL AIRPORT IN RIYADH, AIR TRAFFIC IS BACK TO NORMAL, REPORTS SAUDI CIVIL AVIATION AUTHORITY.
-- 10/09 16:42 [FirstSquawk] SAUDIA AIRLINER CONFIRMED DAMAGE TO AN AIRCRAFT AT KING KHALID AIRPORT IN RIYADH WHILE IT WAS PARKED, AND THERE WERE NO PASSENGERS ABOARD.
-- 10/09 16:48 [FirstSquawk] SAUDIA AIRLINES EMPLOYEE KILLED IN HOUTHI ATTACK- STATE TV
-- 10/09 17:00 [financialjuice] ITALIAN INDUSTRIAL PRODUCTION MOM ACTUAL -1.3% (FORECAST 0%, PREVIOUS 0.7%) $MACRO
-- 10/09 17:04 [FirstSquawk] GOOGLE CLOUD AND CAIXABANK HAVE EXTENDED THEIR PARTNERSHIP UNTIL 2033.
-- 10/09 17:13 [financialjuice] Saudi-led coalition: three missile launchers used by Houthis destroyed, post on X
-- 10/09 17:13 [financialjuice] Saudi-led coalition: will respond firmly to Houthi strikes on civilians and civilian facilities
-- 10/09 17:14 [FirstSquawk] SAUDI-LED COALITION TOOK OUT 3 HOUTHI MISSILE LAUNCHERS.
-- 10/09 17:14 [FirstSquawk] SAUDI-LED COALITION PROMISES STRONG RESPONSE TO HOUTHI ATTACKS ON CIVILIANS AND CIVILIAN TARGETS.
-- 10/09 17:34 [financialjuice] UK Treasury Minister Rigby: Keenly aware of UK global competitiveness.
-- 10/09 17:34 [financialjuice] UK Treasury Minister Rigby: Financial services matter to Andy Burnham.
-- 10/09 17:56 [FirstSquawk] Global Markets Rebound as Oil Prices Fall and AI Fears Ease US stock futures climbed as easing concerns over AI investments and falling oil prices lifted investor sentiment. S&P 500 futures gained 0.5%, while Nasdaq 100 futures advanced 0.9…
-- 10/09 17:58 [FirstSquawk] Deadly Attacks Hit Riyadh Airport, Three Killed Three Saudi Arabians were killed and others injured in two attacks targeting facilities at Riyadh’s King Khalid International Airport and a Saudia Airlines aircraft, according to Saudi authori…
-- 10/09 17:59 [FirstSquawk] Australian Wheat Exports Set to Surge 47% Amid Black Sea Disruptions Australia is on track to export around 2.6 million tonnes of grain in October, 47% above the five-year average, as escalating attacks on Black Sea ships and grain terminal…
-- 10/09 18:53 [FirstSquawk] CHINA’S CPCA REPORTS TESLA SOLD 95,366 VEHICLES MADE IN CHINA IN SEPTEMBER.
-- 10/09 19:10 [FirstSquawk] THERE IS EXTENSIVE DAMAGE TO POWER GRIDS AND ELECTRICITY TRANSMISSION FACILITIES AFTER RUSSIAN STRIKES SAYS ZELENSKIY
-- 10/09 19:35 [FirstSquawk] DELTA AIR LINES Q3 ADJ OPER REV $17.59 BLN VS IBES ESTIMATE $17.66 BLN || Q3 ADJ EPS $1.72 VS IBES ESTIMATE $1.75 || EXPECT TO GENERATE PRE-TAX PROFIT OF ABOUT $4.5 BLN FOR FY, ABSORBING $6 BLN INCREASE IN FUEL COSTS || OUTLOOK FY 2026 FREE…
-- 10/09 19:35 [FirstSquawk] DELTA AIR LINES OUTLOOK Q4 2026 REVENUE GROWTH ABOUT 20% YOY || Q4 ADJ EPS OUTLOOK BASED ON FUEL PRICE OF ABOUT $4.25/GALLON || BEYOND 2026, CONFIDENT IN LONG-TERM FRAMEWORK & PATH TO MID-TEENS MARGINS & RETURN ON INVESTED CAPITAL
-- 10/09 19:50 [FirstSquawk] ITALY'S ENERGY MINISTER WILL NOT BE PRESENT AT NEXT WEEK'S ENERGY MEETING IN RIYADH BUT WILL JOIN VIRTUALLY.
-- 10/09 19:50 [FirstSquawk] ELI LILLY'S TALTZ AND ZEPBOUND COMBINED SHOW GREATER BIOMARKER CHANGES THAN TALTZ ALONE. NEW PHASE 3B DATA ADVANCES KNOWLEDGE OF IMMUNE AND METABOLIC CONNECTIONS IN ADULTS WITH PSORIASIS AND OBESITY.
-- 10/09 19:50 [FirstSquawk] PBOC'S PAN MET WITH GOLDMAN SACHS' JOHN WALDRON TO TALK ABOUT THE GLOBAL ECONOMY AND CHINA'S MACRO POLICIES.
-- 10/09 19:50 [FirstSquawk] UKRAINE'S PRESIDENT ZELENSKIY REPORTED THAT UKRAINE ATTACKED THE OMSK AND UKHTA OIL REFINERIES IN RUSSIA.
-- 10/09 20:11 [FirstSquawk] CHINA'S COMMERCE MINISTER ENGAGED IN FRUITFUL TALKS WITH EU TRADE LEADER.
-- 10/09 20:12 [FirstSquawk] CHINA AND THE EU HAVE COME TO AN AGREEMENT TO BETTER HANDLE TRADE DISPUTES.
-- 10/09 20:12 [financialjuice] China's Commerce Ministry: Two sides agreed to hold the third regular meeting of the mechanism in March 2027
-- 10/09 20:13 [FirstSquawk] CHINA AND ANOTHER PARTY HAVE AGREED TO HAVE THEIR THIRD REGULAR MEETING IN MARCH 2027.
-- 10/09 20:13 [financialjuice] China's commerce ministry: To continue exploring the possibility of lowering tariffs on some goods under WTO rules
-- 10/09 20:13 [FirstSquawk] CHINA'S COMMERCE MINISTRY WILL CONTINUE TO LOOK INTO LOWERING TARIFFS ON CERTAIN GOODS FOLLOWING WTO REGULATIONS.
-- 10/09 20:13 [financialjuice] China's commerce ministry: China and the EU reach an understanding on hybrid vehicle trade in a WTO-compliant manner after intensive negotiations. Will continue discussions on price undertakings and review procedures in the EU's anti-subsid…
-- 10/09 20:14 [FirstSquawk] CHINA AND THE EU HAVE AGREED ON HYBRID VEHICLE TRADE FOLLOWING EXTENSIVE TALKS, IN LINE WITH WTO RULES. DISCUSSIONS WILL CONTINUE ON PRICE TERMS AND THE EU'S ANTI-SUBSIDY INQUIRY INTO CHINESE ELECTRIC CARS.
-- 10/09 20:15 [financialjuice] China Commerce Ministry: To continue facilitating rare earth and permanent magnet export licenses to the EU via 'green channel’
-- 10/09 20:15 [FirstSquawk] CHINA'S COMMERCE MINISTRY WILL KEEP OFFERING EXPORT LICENSES FOR RARE EARTH AND PERMANENT MAGNETS TO THE EU THROUGH A 'GREEN CHANNEL.'
-- 10/09 20:20 [FirstSquawk] BANK OF SPAIN UPS 2026 INFLATION FORECAST TO 3.9%, SEES 3.7% INFLATION IN 2027 FROM 2.7% || UPS 2026 ECONOMIC GROWTH FORECAST TO 2.6% FROM 2.3%, SEES 2.2% GROWTH IN 2027 FROM 1.7%
-- 10/09 20:20 [FirstSquawk] BANK OF SPAIN BUDGET DEFICIT OF 2.6% IN 2026 FROM 2.4% AND 2.2% IN 2027 FROM 2.3% || SEES THIRD-QUARTER GDP GROWTH OF AROUND 0.6% Q/Q FROM 0.7% IN Q2
-- 10/09 20:20 [FirstSquawk] BANK OF SPAIN SEES PUBLIC DEBT-TO-GDP RATIO AT 98.5% AT END-2026, 96.2% AT END-2027 || WARNS OF RISKS TO OUTLOOK FROM GEOPOLITICS, OIL PRICES AND RISING BOND YIELDS
-- 10/09 20:31 [DeItaone] 🇫🇷 FRENCH DEBT CRISIS COULD POSE GREATER RISKS THAN GREECE, COMMERZBANK WARNS Commerzbank warns that France's debt problems could pose greater systemic risks to the eurozone than Greece's sovereign debt crisis. Eurozone public debt now aver…
-- 10/09 20:37 [DeItaone] IMF WARNS GLOBAL DEBT COULD HIT 100% OF GDP BY 2028 The IMF says global government debt could reach levels unseen since World War II. IMF chief Kristalina Georgieva warns advanced economies are the biggest contributors, adding that relying …
-- 10/09 20:46 [DeItaone] BESSENT HIRES TRUMP'S FORMER FED BOARD PICK, JUDY SHELTON, AS ADVISER - CNBC
-- 10/09 20:46 [FirstSquawk] TREASURY APPOINTS TRUMP'S FORMER FED PICK JUDY SHELTON AS ADVISER.
-- 10/09 20:54 [DeItaone] https://t.co/8paOdqLtBI
-- 10/09 20:57 [DeItaone] BOFA'S HARTNETT: $8 TRILLION IN CASH WON'T MOVE WITHOUT FED CUTS Money market funds attracted $166.4B last week, the biggest inflow since April 2020. Hartnett says sustained Fed cuts are needed to unlock sidelined cash: “No rate cuts, no ca…
-- 10/09 21:00 [financialjuice] Morning Juice – US Session Prep (9th October)
-- 10/09 21:00 [financialjuice] Secured overnight financing rate 3.87% October 8th vs 3.88% October 7th
-- 10/09 21:04 [DeItaone] 🇺🇸 PRESIDENTIAL SCHEDULE — FRIDAY, OCT. 9 🔸 8:00 AM ET — Executive Time — Closed Press 🔸 11:00 AM ET — Columbus Day Celebration — East Room — Pre-Credentialed Media 🔸 2:00 PM ET — Secretary of Labor Swearing-In — Oval Office — Closed Press …
-- 10/09 21:10 [financialjuice] German Economy Ministry: Germany to release up to 15 mln barrels of oil and petroleum products.
-- 10/09 21:10 [financialjuice] German economy minister: Diesel and heating oil to be released first, followed by crude oil
-- 10/09 21:10 [financialjuice] German Economy Minister: Germany to fully implement G7 agreement on release of energy stocks.
-- 10/09 21:10 [financialjuice] German Economy Minister: German refineries are most important asset for security of energy supply.
-- 10/09 21:12 [DeItaone] GERMANY TO RELEASE UP TO 15 MILLION BARRELS OF EMERGENCY OIL RESERVES Germany will release up to 15 million barrels of oil and petroleum products, implementing the G7 agreement on energy reserves. Diesel and heating oil will be released fir…
-- 10/09 21:13 [FirstSquawk] GERMANY PLANS TO RELEASE AS MUCH AS 15 MILLION BARRELS OF OIL AND PETROLEUM PRODUCTS.
-- 10/09 21:13 [FirstSquawk] GERMAN ECONOMY MINISTER ANNOUNCES THAT DIESEL AND HEATING OIL WILL BE RELEASED FIRST, THEN CRUDE OIL.
-- 10/09 21:13 [FirstSquawk] GERMANY WILL FULLY IMPLEMENT THE G7 DEAL ON ENERGY STOCK RELEASE, SAYS THE ECONOMY MINISTER.
-- 10/09 21:13 [FirstSquawk] GERMAN ECONOMY MINISTER STATES THAT REFINERIES ARE VITAL FOR ENERGY SECURITY.
-- 10/09 21:13 [FirstSquawk] GERMAN ECONOMY MINISTER STRESSES IMPORTANCE OF CONSIDERING THE WHOLE SUPPLY CHAIN, NOT JUST CRUDE OIL.
-- 10/09 21:30 [financialjuice] ❗ CANADIAN UNEMPLOYMENT RATE ACTUAL 6.5% (FORECAST 6.5%, PREVIOUS 6.4%) $MACRO
-- 10/09 21:30 [financialjuice] CANADIAN AVERAGE HOURLY EARNINGS YOY ACTUAL 2.3% (FORECAST 2.3%, PREVIOUS 2.00%) $MACRO
-- 10/09 21:30 [financialjuice] ‼ BREAKING: CANADIAN EMPLOYMENT CHANGE ACTUAL -68.3K (FORECAST 10K, PREVIOUS -41.7K) $MACRO
-- 10/09 21:30 [financialjuice] CANADIAN PARTICIPATION RATE ACTUAL 64.8% (FORECAST 65%, PREVIOUS 65.0%) $MACRO
-- 10/09 21:31 [financialjuice] Canadian Employment Change September 2026 Report
-- 10/09 21:31 [FirstSquawk] CANADIAN UNEMPLOYMENT RATE IS 6.5%, SAME AS FORECAST AND UP FROM 6.4% PREVIOUSLY.
-- 10/09 21:31 [DeItaone] CANADA LOSES 68,300 JOBS IN SEPTEMBER, FAR WORSE THAN EXPECTED Canada's economy shed 68,300 jobs in September, sharply missing forecasts for a 9,200 gain. The unemployment rate rose to 6.5%, while both full-time and part-time employment dec…
-- 10/09 21:31 [FirstSquawk] CANADA'S EMPLOYMENT DROPPED BY 68.3K, LOWER THAN THE FORECAST OF 10K AND PREVIOUSLY AT -41.7K.
-- 10/09 21:33 [financialjuice] IRGC: Large LPG Tanker Hit and Catches Fire - Tasnim News
-- 10/09 21:34 [financialjuice] IRGC on tanker attack: Responsibility for escalating tensions in the region's maritime transport lies with the US.
-- 10/09 21:36 [DeItaone] UKRAINIAN DELEGATION ARRIVES IN MIAMI FOR TALKS WITH US TEAM, SOURCE FAMILIAR SAYS
-- 10/09 21:36 [DeItaone] IRAN CLAIMS LPG TANKER STRUCK NEAR STRAIT OF HORMUZ Iran's Revolutionary Guard Navy says a large LPG carrier named NV Sunshine was struck while attempting to transit south of the Strait of Hormuz, with reports indicating the vessel caught f…
-- 10/09 21:37 [financialjuice] IRGC: From now on, the handling of offending vessels will not be limited to the Strait of Hormuz, and any vessel that passes through unauthorized routes will be pursued throughout the region, and its punishment will be certain.
-- 10/09 21:38 [financialjuice] Kremlin: Putin-Trump call will be soon - IFX
-- 10/09 21:38 [financialjuice] ❗ Traders pull back on bets for a BOC rate hike by year's end
-- 10/09 21:38 [financialjuice] ❗ Bank of Canada October rate hike chances fall to 27% from 40% on jobs report - Swap Market Data Shows
-- 10/09 21:39 [DeItaone] *KREMLIN SAYS PUTIN-TRUMP CALL WILL BE SOON: IFX
-- 10/09 21:39 [DeItaone] IRAN'S IRGC NAVY SAYS TARGETED LPG TANKER TRYING TO 'ILLEGALLY' PASS THROUGH STRAIT OF HORMUZ, AND IT SUFFERED A MASSIVE FIRE -STATE MEDIA
-- 10/09 21:40 [FirstSquawk] IRAN'S IRGC NAVY CLAIMS THEY ATTACKED AN LPG TANKER THAT WAS TRYING TO 'ILLEGALLY' PASS THROUGH THE STRAIT OF HORMUZ, CAUSING A SIGNIFICANT FIRE - STATE MEDIA REPORTS.
-- 10/09 21:40 [FirstSquawk] TRADERS REDUCE EXPECTATIONS FOR A BANK OF CANADA RATE INCREASE BY THE END OF THE YEAR.
-- 10/09 21:41 [FirstSquawk] CHANCES OF A BANK OF CANADA RATE HIKE IN OCTOBER DROP TO 27% FROM 40% DUE TO JOBS REPORT, SWAP MARKET DATA REVEALS.
-- 10/09 21:43 [DeItaone] IRGC SAYS FROM NOW ON, ANY VESSELS COMMITTING VIOLATIONS OUTSIDE STRAIT OF HORMUZ WILL ALSO BE 'PUNISHED' - STATEMENT
-- 10/09 21:46 [DeItaone] S&P 500 BULL MARKET GAINS 117% AS AI RALLY RAISES CONCENTRATION RISKS The S&P 500 has surged 117% since October 2022, adding nearly $40 trillion in market value, largely driven by AI-related stocks. However, the equal-weight S&P 500 has und…
-- 10/09 21:49 [FirstSquawk] IRGC: FROM NOW ON, ANY VESSELS COMMITTING VIOLATIONS OUTSIDE STRAIT OF HORMUZ WILL ALSO BE 'PUNISHED' - STATEMENT
-- 10/09 21:51 [financialjuice] UKMTO gets a report of an incident 13NM west of Al Jazeera, UAE.
-- 10/09 21:52 [financialjuice] Several explosions reported in Erbil, Iraq - Fars News.
-- 10/09 21:52 [financialjuice] UKMTO: Vessel reported to be struck by an unknown projectile
-- 10/09 22:00 [financialjuice] Effective fed funds rate: 3.88% October 8th vs 3.88% October 7th.
-- 10/09 22:04 [financialjuice] Gazprom, Lukoil start production at Layavozhskoye field.
-- 10/09 22:06 [FirstSquawk] MULTIPLE EXPLOSIONS HAVE BEEN REPORTED IN ERBIL, IRAQ.
-- 10/09 22:06 [FirstSquawk] GAZPROM AND LUKOIL BEGIN PRODUCTION AT LAYAVOZHSKOYE FIELD.
-- 10/09 22:16 [FirstSquawk] UN CHIEF ANTONIO GUTERRES SAYS NAVI PILLAY HAS SHOWN THE FORCE OF LAW MUST PREVAIL OVER THE LAW OF FORCE
-- 10/09 22:16 [FirstSquawk] UN CHIEF GUTERRES SAYS PRIZE IS A TRIBUTE TO ALL THOSE WORKING TO UPHOLD AND DEFEND INTERNATIONAL LAW AND HUMAN RIGHTS
-- 10/09 22:17 [financialjuice] Iran's President Pezeshkian: Negotiations only have meaning when based on mutual respect and commitment, and when pressure and threats are set aside - Iranian Media.
-- 10/09 22:18 [FirstSquawk] VENEZUELA US BACKED POLITICAL TALKS TO RESUME OCT. 14 SAYS RUBIO
-- 10/09 22:19 [financialjuice] China's He Lifeng meets the EU trade chief - Xinhua.
-- 10/09 22:24 [financialjuice] EU's Trade Chief Sefcovic Speaks In Beijing On EU-China Trade Deficit - WATCH LIVE
-- 10/09 22:25 [financialjuice/FirstSquawk] EU's Trade Chief Sefcovic: The China trade deficit is a mountain of challenges.
-- 10/09 22:25 [financialjuice/FirstSquawk] EU's Trade Chief Sefcovic: EU and China reaffirmed to properly handling differences under the framework of WTO rules.
-- 10/09 22:26 [DeItaone] $NVDA - UBS REAFFIRMS NVIDIA BUY RATING WITH $300 PRICE TARGET UBS reiterated its Buy rating on Nvidia, maintaining a $300 price target following strong Taiwanese export data. Taiwan's computing equipment exports surged 25.9% month-over-mon…
-- 10/09 22:26 [financialjuice/FirstSquawk] EU's Trade Chief Sefcovic: Reached understanding to moderate china hybrid export.
-- 10/09 22:27 [financialjuice/FirstSquawk] EU's Trade Chief Sefcovic: There is an understanding to improve access to china market.
-- 10/09 22:27 [financialjuice/FirstSquawk] EU's Trade Chief Sefcovic: More access to the China market for car parts and olive oil
-- 10/09 22:27 [DeItaone] EU AND CHINA REACH RARE EARTHS DEAL AS TRADE PRESSURE MOUNTS EU Trade Commissioner Maroš Šefčovič says Brussels and Beijing have reached an agreement on rare earths and magnets. A separate understanding on hybrid vehicles could halve Chines…
-- 10/09 22:27 [financialjuice] China's Wang expresses concerns to EU's recent restrictive move.
-- 10/09 22:27 [financialjuice/FirstSquawk] EU's Trade Chief Sefcovic: More China access for goods is worth almost €4b.
-- 10/09 22:28 [financialjuice/FirstSquawk] EU's Trade Chief Sefcovic: There is an understanding for China rare earth, magnet exports.
-- 10/09 22:28 [financialjuice/FirstSquawk] EU's Trade Chief Sefcovic: Where dialogue fails, the EU will use tools to rebalance
-- 10/09 22:29 [financialjuice] China: We are studying policies facilitating trade with EU.
-- 10/09 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -63.5 MLN NASDAQ 100: -17.1 MLN DOW 30: -9.2 MLN MAG 7: -9.0 MLN $MACRO
-- 10/09 22:31 [FirstSquawk] EU: ACCORD WITH CHINA COULD CUT HYBRID CAR EXPORTS BY HALF
-- 10/09 22:32 [DeItaone] $SPCX - SPACEX SHARES UP 3.3% AFTER CO STRIKES DEAL TO ACQUIRE NATIONWIDE LOW-BAND SPECTRUM PORTFOLIO
-- 10/09 22:33 [FirstSquawk] S&P 500 UP 22.35 POINTS, OR 0.29 PERCENT, AT 7,787.71 AFTER MARKET OPEN DOW JONES UP 67.32 POINTS, OR 0.13 PERCENT, AT 51,298.96 AFTER MARKET OPEN NASDAQ UP 149.59 POINTS, OR 0.55 PERCENT, AT 27,342.93 AFTER MARKET OPEN
-- 10/09 22:35 [financialjuice] EU's Trade Chief Sefcovic: We achieved very good results in China trade talks.
-- 10/09 22:40 [financialjuice] Houthi militias have manufactured concrete blocks on the roads in Bab al-Mandeb - Al Arabiya citing military source.
-- 10/09 22:51 [financialjuice] The EU and China are going to continue to engage in dialogue on medical devices.
 - 10/09 22:56 [financialjuice] Pakistan's Foreign Ministry: The forces stationed in Saudi Arabia have a defensive role - ISNA
 - 10/09 22:58 [DeItaone] SPOT SILVER RISES NEARLY 3% TO $61.10/OZ
 - 10/09 23:00 [financialjuice] UNIVERSITY MICHIGAN CONDITION PRELIM ACTUAL 44.7 (FORECAST 50.1, PREVIOUS 50.9) $MACRO
@@ -335,3 +221,56 @@
 - 10/10 16:15 [FirstSquawk] Vice President JD Vance questioned whether the Pentagon will livestream the December execution of Fort Hood shooter Nidal Malik Hasan, while saying he would not watch it if the broadcast proceeds.
 - 10/10 16:16 [FirstSquawk] Hurricane Isaias makes landfall on US Gulf Coast as category 2 storm
 - 10/10 16:17 [FirstSquawk] Russia and US will inevitably unite — geologists
+- 10/10 16:50 [FirstSquawk] Taiwan cherishes peace but will not give up freedom
+- 10/10 16:51 [FirstSquawk] David McWilliams: The Irish State has become a monstrously bloated organisation that has lost all sense of value for money
+- 10/10 16:51 [FirstSquawk] President Zelensky urged visiting US lawmakers to ensure the Lindsey Graham sanctions law is enforced to cut Russian war funds.
+- 10/10 16:52 [FirstSquawk] Iran is seeking more electricity from Turkey and Turkmenistan as war damage and other outages leave thousands of megawatts of industrial and petrochemical power capacity offline.
+- 10/10 17:44 [financialjuice] Russian Defence Ministry: forces seize control of two settlements in Ukraine's Kharkiv region
+- 10/10 17:52 [FirstSquawk] Ukrainian drones struck the Yug Rusi oil terminal in Rostov-on-Don, sparking a large blaze at the key fuel hub.
+- 10/10 17:52 [FirstSquawk] The facility handles 2.5 million tons annually from the Novoshakhtinsk refinery, supplying Russian military forces and maritime exports.
+- 10/10 17:54 [FirstSquawk] China adds 10.52 million urban jobs in Jan-Sept,
+- 10/10 17:54 [financialjuice] Rwanda inflation rises to 17.2% year-on-year in September: stats office
+- 10/10 17:54 [FirstSquawk] Europe carmaking leaders are heading to next week’s Paris Motor Show with some breathing room from Chinese competitors
+- 10/10 17:55 [FirstSquawk] Ryanair has accused rivals Lufthansa and Air France-KLM of trying to ground the low-cost carrier by alleging that its ownership structure violates EU rules.
+- 10/10 18:02 [financialjuice] Kremlin: Putin reacted with understanding to some Trump proposals on de-escalating Ukraine conflict during call
+- 10/10 18:12 [financialjuice] Kremlin: In Coordination With Iran, Putin Communicated Iran's Perspective on Potential Conflict Resolution to Trump
+- 10/10 18:18 [financialjuice] China's Taiwan Affairs Office: Lai Ching-Te’s speech distorts facts, misleads public, reveals hidden agenda
+- 10/10 18:21 [financialjuice] China's Taiwan Affairs Office: in his speech, he persistently upheld "Taiwan independence" separatist views, overstated the "mainland threat"
+- 10/10 18:21 [financialjuice] China's Taiwan Affairs Office: Future of Taiwan must be jointly decided by all Chinese people, including Taiwan compatriots
+- 10/10 18:21 [financialjuice] China's Taiwan Affairs Office: There Is Only One China, Taiwan Is Part of China—This Is the True Status Quo in the Taiwan Strait
+- 10/10 18:49 [FirstSquawk] TASS about the Kremlin: Putin conveyed to Trump in agreement with Bezshkian the Iranian side's vision for a possible solution to the conflict
+- 10/10 18:51 [FirstSquawk] Japan Pushes Back Against US Sanctions on ICC Japanese Prime Minister Sanae Takaichi has expressed “deep concern” over US sanctions against the International Criminal Court (ICC), saying the move is incompatible with Japan’s position. She p…
+- 10/10 19:20 [FirstSquawk] Kremlin: The bulk of the contact between Putin and Trump was devoted to settling the conflict in Ukraine at the request of the US side
+- 10/10 19:20 [FirstSquawk] Kremlin: Putin expressed his understanding of some of Trump's proposals on de-escalation steps in Ukraine during their call
+- 10/10 19:21 [FirstSquawk] Lebanese News Agency: Israeli artillery shelling targets the town of Al-Mansouri and the Wadi Zabqin area in southern Lebanon
+- 10/10 19:21 [FirstSquawk] Syrian media: Israeli patrol infiltrates Arna Darbel road in western Damascus countryside
+- 10/10 19:21 [FirstSquawk] Kremlin: Putin conveyed to Trump, in coordination with Iran, Tehran's view on the possibility of reaching a settlement to the conflict
+- 10/10 19:21 [FirstSquawk] 4 Palestinians were killed in an Israeli raid on the western neighborhood of Rimal in Gaza City
+- 10/10 19:21 [FirstSquawk] Germany announces its intention to continue pushing for new sanctions on Russia despite the US deal on diesel
+- 10/10 19:25 [FirstSquawk] UKRAINE: IT HIT RUSSIA'S SAMARA OIL PUMPING STATION
+- 10/10 19:54 [financialjuice] Four civilians killed in Russia-controlled Luhansk region of Ukraine in past 24 hours: Russia-installed governor
+- 10/10 20:11 [FirstSquawk] Yemeni Government Forces: We Continue Our Field Advance on the West Coast Fronts and Strengthen Our Positions
+- 10/10 20:14 [FirstSquawk] Ukrainian media quoting the Ministry of Energy: Widespread power outages in Kyiv following Russian attacks
+- 10/10 20:15 [FirstSquawk] Ukrainian General Staff: We targeted an oil pumping and storage plant in Russia's Samara province
+- 10/10 20:21 [FirstSquawk] Ukraine Strikes Russia’s Samara Oil Pumping Station Again Ukrainian forces have struck a linear oil dispatching station in Prosvet, in Russia’s Samara region, according to Ukraine’s General Staff. The attack marks another strike on Russian …
+- 10/10 20:23 [FirstSquawk] Europe’s Carmakers Get Temporary Relief From China Ahead of Paris Motor Show European automakers, including Volkswagen, Stellantis and Renault, have received a boost after China and the European Union reached an agreement in principle to re…
+- 10/10 20:25 [FirstSquawk] Russia to Ease Diesel Export Restrictions, Deputy PM Says Russia plans to gradually lift restrictions on diesel fuel exports, Deputy Prime Minister Alexander Novak said on October 9, following US President Donald Trump’s announcement of a d…
+- 10/10 20:39 [financialjuice] Palestinian President Abbas issues decree cancelling legislative elections set for Nov. 28, 2026 - state news agency
+- 10/10 20:39 [financialjuice] Palestinian President Abbas schedules presidential and legislative elections for September 11, 2027: state news agency
+- 10/10 20:39 [FirstSquawk] PALESTINIAN PRESIDENT ABBAS: ISSUES DECREE CANCELLING LEGISLATIVE ELECTIONS SCHEDULED FOR NOVEMBER 28, 2026 - STATE NEWS AGENCY
+- 10/10 20:40 [FirstSquawk] PALESTINIAN PRESIDENT ABBAS: SETS PRESIDENTIAL AND LEGISLATIVE ELECTIONS FOR SEPTEMBER 11, 2027 - STATE NEWS AGENCY
+- 10/10 20:41 [FirstSquawk] UKRAINIAN NEGOTIATING TEAM CUT US TRIP SHORT - FT
+- 10/10 20:43 [FirstSquawk] UKRAINE TEAM CUT TRIP SHORT INSTEAD OF SECOND ROUND OF TALKS - FT
+- 10/10 21:07 [financialjuice] Trump: despite everything, I or United States did not receive Nobel peace prize
+- 10/10 21:15 [FirstSquawk] TRUMP SAYS WITH ALL OF THAT I, OR UNITED STATES OF AMERICA, DID NOT GET NOBLE PEACE PRIZE
+- 10/10 21:17 [DeItaone] TRUMP SLAMS NOBEL PEACE PRIZE SNUB Trump says he settled eight wars, secured hostage releases and prevented Iran from obtaining nuclear weapons. Yet, despite those claimed achievements, he did not receive the Nobel Peace Prize. “WOW!” Trump…
+- 10/10 21:22 [financialjuice] Trump: with all of that I, or United States of America, did not receive Nobel peace prize (refiles to fix typo in 'Nobel')
+- 10/10 21:54 [FirstSquawk] EU: PLANS MEASURES TO CUT IMPORTS OF CHINESE HYBRID CARS BY HALF
+- 10/10 22:07 [financialjuice] Loud explosion heard at Riyadh airport: eyewitness, sources
+- 10/10 22:07 [financialjuice] No immediate reaction from Saudi authorities on airport incident
+- 10/10 22:12 [FirstSquawk] LOUD BLAST HEARD AT RIYADH AIRPORT - EYEWITNESS, PEOPLE FAMILIAR WITH THE MATTER
+- 10/10 22:12 [FirstSquawk] NO IMMEDIATE COMMENT FROM SAUDI AUTHROITIES ON ANY INCIDENT AT AIRPORT
+- 10/10 22:20 [FirstSquawk] kallas: EU foreign ministers plan to approve the largest sanctions package targeting Russia's war machine on Monday
+- 10/10 22:20 [FirstSquawk] Kallas: Suspension of sanctions on Russian diesel gives Moscow more resources to finance war
+- 10/10 22:32 [financialjuice] Eritrea: Ethiopia has declared war, requests UN intervention
+- 10/10 22:36 [FirstSquawk] Eritrean Foreign Minister: We call on the Security Council to condemn Ethiopia's declaration of war on our country
