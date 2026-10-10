@@ -7,50 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-11 03:05 JST／対象: 10/10 15:05 〜 10/11 03:05 JST（時刻はすべて日本時間）
+生成: 2026-10-11 06:35 JST／対象: 10/10 18:35 〜 10/11 06:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 10/10 21:17 | 10/11 02:19 | ⚠ 299分（21:17→02:16） |
-| FirstSquawk | 81 | 10/10 15:05 | 10/11 02:32 | ⚠ 60分（16:52→17:52） |
-| financialjuice | 42 | 10/10 15:27 | 10/11 02:08 | ⚠ 136分（15:27→17:44） |
+| FirstSquawk | 70 | 10/10 18:49 | 10/11 03:26 | ⚠ 49分（02:32→03:22） |
+| financialjuice | 43 | 10/10 19:54 | 10/11 05:56 | ⚠ 83分（04:33→05:56） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 109 行（統合前 127 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 99 行（統合前 117 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/10 15:05 [FirstSquawk] Egypt strongly condemned attacks on Riyadh’s King Khalid International Airport and a Saudi Airlines aircraft that killed three Saudi citizens and injured several civilians, the Egyptian foreign ministry said on Saturday.
-- 10/10 15:05 [FirstSquawk] AI is changing how lawyers work — and putting the billable hour under pressure
-- 10/10 15:27 [financialjuice] Seven killed in Russian strike on Ukraine's Zaporizhzhia, governor says
-- 10/10 15:28 [FirstSquawk] An Iranian lawmaker referred to what he called “contradictory statements” by US officials about Iran, saying they could reflect internal disagreements or be part of an effort to disrupt Tehran’s calculations.
-- 10/10 15:28 [FirstSquawk] Apple is scaling back iPhone 18 Pro production orders after rising memory chip costs triggered price hikes that cooled buyer demand.
-- 10/10 15:28 [FirstSquawk] Ukrainian attack drones struck the NZNP Rostovsky oil export terminal in Rostov-on-Don, Russia, setting the facility ablaze just hours after the U.S. eased sanctions on Russian fuel exports.
-- 10/10 15:29 [FirstSquawk] Russia's NZNP Rostovsky oil products export terminal, ablaze tonight in the city of Rostov-on-Don after a Ukrainian drone attack.
-- 10/10 16:15 [FirstSquawk] Vice President JD Vance questioned whether the Pentagon will livestream the December execution of Fort Hood shooter Nidal Malik Hasan, while saying he would not watch it if the broadcast proceeds.
-- 10/10 16:16 [FirstSquawk] Hurricane Isaias makes landfall on US Gulf Coast as category 2 storm
-- 10/10 16:17 [FirstSquawk] Russia and US will inevitably unite — geologists
-- 10/10 16:50 [FirstSquawk] Taiwan cherishes peace but will not give up freedom
-- 10/10 16:51 [FirstSquawk] David McWilliams: The Irish State has become a monstrously bloated organisation that has lost all sense of value for money
-- 10/10 16:51 [FirstSquawk] President Zelensky urged visiting US lawmakers to ensure the Lindsey Graham sanctions law is enforced to cut Russian war funds.
-- 10/10 16:52 [FirstSquawk] Iran is seeking more electricity from Turkey and Turkmenistan as war damage and other outages leave thousands of megawatts of industrial and petrochemical power capacity offline.
-- 10/10 17:44 [financialjuice] Russian Defence Ministry: forces seize control of two settlements in Ukraine's Kharkiv region
-- 10/10 17:52 [FirstSquawk] Ukrainian drones struck the Yug Rusi oil terminal in Rostov-on-Don, sparking a large blaze at the key fuel hub.
-- 10/10 17:52 [FirstSquawk] The facility handles 2.5 million tons annually from the Novoshakhtinsk refinery, supplying Russian military forces and maritime exports.
-- 10/10 17:54 [FirstSquawk] China adds 10.52 million urban jobs in Jan-Sept,
-- 10/10 17:54 [financialjuice] Rwanda inflation rises to 17.2% year-on-year in September: stats office
-- 10/10 17:54 [FirstSquawk] Europe carmaking leaders are heading to next week’s Paris Motor Show with some breathing room from Chinese competitors
-- 10/10 17:55 [FirstSquawk] Ryanair has accused rivals Lufthansa and Air France-KLM of trying to ground the low-cost carrier by alleging that its ownership structure violates EU rules.
-- 10/10 18:02 [financialjuice] Kremlin: Putin reacted with understanding to some Trump proposals on de-escalating Ukraine conflict during call
-- 10/10 18:12 [financialjuice] Kremlin: In Coordination With Iran, Putin Communicated Iran's Perspective on Potential Conflict Resolution to Trump
-- 10/10 18:18 [financialjuice] China's Taiwan Affairs Office: Lai Ching-Te’s speech distorts facts, misleads public, reveals hidden agenda
-- 10/10 18:21 [financialjuice] China's Taiwan Affairs Office: in his speech, he persistently upheld "Taiwan independence" separatist views, overstated the "mainland threat"
-- 10/10 18:21 [financialjuice] China's Taiwan Affairs Office: Future of Taiwan must be jointly decided by all Chinese people, including Taiwan compatriots
-- 10/10 18:21 [financialjuice] China's Taiwan Affairs Office: There Is Only One China, Taiwan Is Part of China—This Is the True Status Quo in the Taiwan Strait
 - 10/10 18:49 [FirstSquawk] TASS about the Kremlin: Putin conveyed to Trump in agreement with Bezshkian the Iranian side's vision for a possible solution to the conflict
 - 10/10 18:51 [FirstSquawk] Japan Pushes Back Against US Sanctions on ICC Japanese Prime Minister Sanae Takaichi has expressed “deep concern” over US sanctions against the International Criminal Court (ICC), saying the move is incompatible with Japan’s position. She p…
 - 10/10 19:20 [FirstSquawk] Kremlin: The bulk of the contact between Putin and Trump was devoted to settling the conflict in Ukraine at the request of the US side
@@ -133,3 +106,20 @@
 - 10/11 02:19 [DeItaone] OIL TANKER EXPLODES AFTER REPORTED MINE STRIKE IN STRAIT OF HORMUZ Iran’s Revolutionary Guards say an oil tanker exploded and caught fire after striking a naval mine while crossing the Strait of Hormuz, according to Iranian state media. The…
 - 10/11 02:32 [FirstSquawk] Yemeni Armed Forces: We struck several high-value military targets deep within militia-controlled areas
 - 10/11 02:32 [FirstSquawk] Yemeni Armed Forces: We have successfully advanced on the ground and recaptured additional positions.
+- 10/11 03:06 [financialjuice] India's mission to Geneva on Delhi protests: acknowledges UN comments on today's events in New Delhi
+- 10/11 03:06 [financialjuice] India’s mission to Geneva on Delhi protests: Indians exercise right to demonstrate subject to reasonable public order restrictions
+- 10/11 03:11 [financialjuice] India's mission to Geneva on Delhi protests: OHCHR's concerns misplaced, amount to undue intervention in India's internal matters
+- 10/11 03:17 [financialjuice] Nvidia in talks to buy or increase stake in US start-up Reflection AI: FT
+- 10/11 03:22 [FirstSquawk] Saudi Civil Aviation Authority : An attack targeted King Khalid International Airport in Riyadh, resulting in a number of injuries.
+- 10/11 03:22 [FirstSquawk] Saudi Civil Aviation Authority : Operations at King Khalid International Airport in Riyadh are temporarily suspended pending damage assessment.
+- 10/11 03:22 [FirstSquawk] Saudi Foreign Ministry : We urge our citizens affected by the suspension of flights to Riyadh to contact our embassies abroad for assistance.
+- 10/11 03:22 [financialjuice] India’s mission to Geneva on Delhi protests: Indians exercise right to peaceful assembly subject to reasonable restrictions in interest of public order
+- 10/11 03:22 [FirstSquawk] Yemeni government forces: We carried out more than 1,900 targeting operations in the past 24 hours as part of Operation Dawn of Yemen
+- 10/11 03:23 [FirstSquawk] Israeli Channel 13, citing a security official: Talks recently took place between Netanyahu and Trump regarding striking Iran, but no final decision has been made.
+- 10/11 03:23 [FirstSquawk] Israeli Channel 12, quoting a senior official: There will be no Israeli-initiated attack on Iran before the elections.
+- 10/11 03:26 [FirstSquawk] Lebanese News Agency: Israeli army carries out two bombings in the city of Khiam in southern Lebanon
+- 10/11 03:40 [financialjuice] Russian government: partially lifts diesel export ban after Trump-Putin agreement
+- 10/11 04:03 [financialjuice] US energy department approves emergency swap of up to 4 million barrels of crude oil from strategic petroleum reserve
+- 10/11 04:05 [financialjuice] Latest SPR release to ease disruptions from US storm: Energy Dept
+- 10/11 04:33 [financialjuice] Ukmto says several vessels near UAE's Ras al Khaimah ordered to leave anchorages via VHF broadcast
+- 10/11 05:56 [financialjuice] Saudi-led coalition: projectile landed near King Fahd International Airport in Dammam

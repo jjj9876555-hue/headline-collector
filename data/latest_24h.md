@@ -7,84 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-11 03:05 JST／対象: 10/10 03:05 〜 10/11 03:05 JST（時刻はすべて日本時間）
+生成: 2026-10-11 06:35 JST／対象: 10/10 06:35 〜 10/11 06:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 9 | 10/10 03:47 | 10/11 02:19 | ⚠ 1032分（04:04→21:17） |
-| FirstSquawk | 103 | 10/10 03:06 | 10/11 02:32 | ⚠ 599分（05:03→15:03） |
-| financialjuice | 116 | 10/10 03:10 | 10/11 02:08 | ⚠ 136分（15:27→17:44） |
+| DeItaone | 4 | 10/10 21:17 | 10/11 02:19 | ⚠ 299分（21:17→02:16） |
+| FirstSquawk | 93 | 10/10 15:03 | 10/11 03:26 | ⚠ 60分（16:52→17:52） |
+| financialjuice | 83 | 10/10 06:41 | 10/11 05:56 | ⚠ 136分（15:27→17:44） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 206 行（統合前 229 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 162 行（統合前 180 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/10 03:06 [FirstSquawk] PANAMA STRUCK BY 8.0 MAG. EARTHQUAKE NEAR PITALOZA ARRIBA: USGS
-- 10/10 03:10 [financialjuice] IDF: We attacked a Syrian terrorist operative from the air who was operating under the direction of the Iranian regime - Israel's N12 News
-- 10/10 03:14 [FirstSquawk] PTWC: HAZARDOUS TSUNAMI WAVES POSSIBLE FROM PANAMA QUAKE
-- 10/10 03:21 [financialjuice] ECB's Kazaks: European economy is relatively resilient to shocks.
-- 10/10 03:21 [financialjuice] ECB's Kazaks: 2.5% is the upper limit of the ECB's neutral limit
-- 10/10 03:21 [FirstSquawk] ECB KAZAKS: 2.5% IS THE UPPER LIMIT OF THE ECB'S NEUTRAL LIMIT
-- 10/10 03:21 [FirstSquawk] KAZAKS: ECB IS IN A FAIRLY COMFORTABLE SITUATION ON RATES
-- 10/10 03:21 [FirstSquawk] KAZAKS: EUROPEAN ECONOMY IS RELATIVELY RESILIENT TO SHOCKS
-- 10/10 03:21 [financialjuice] ECB's Kazaks: ECB is in a fairly comfortable situation on rates.
-- 10/10 03:31 [financialjuice] NYMEX WTI crude Nov. futures settle at $91.85 a barrel up 36 cents, 0.39%
-- 10/10 03:31 [financialjuice] NYMEX gasoline Nov. futures settle at $3.2952 a gallon
-- 10/10 03:31 [FirstSquawk] US CRUDE OIL FUTURES SETTLE AT $91.85/BBL, UP 36 CENTS, 0.39%
-- 10/10 03:31 [financialjuice] NYMEX diesel Nov. futures settle at $4.7384 a gallon
-- 10/10 03:32 [financialjuice] NYMEX Nat Gas Nov. futures settle at $3.2200/MMBTU
-- 10/10 03:40 [financialjuice] Microsoft Nadella: Introduces Microsoft-decision-1, new model. $MSFT
-- 10/10 03:40 [FirstSquawk] PTWC: 1 TO 3 METER TSUNAMI WAVES POSSIBLE ALONG PANAMA COASTS
-- 10/10 03:40 [FirstSquawk] NADELLA: INTRODUCES MICROSOFT-DECISION-1, NEW MODEL
-- 10/10 03:41 [financialjuice] Nadella: We're already testing new model across Microsoft. $MSFT
-- 10/10 03:47 [financialjuice] Trump: Just concluded successful talk with Putin.
-- 10/10 03:47 [financialjuice] ❗ Trump: Russia to supply 300k+ metric tons of diesel - Truth Social
-- 10/10 03:47 [FirstSquawk] Trump on truth social I have just concluded a highly successful discussion with President Vladimir Putin, of Russia, wherein it was agreed that Russia will immediately supply over 300,000 Tons of Diesel Fuel to the American and Global Marke…
-- 10/10 03:47 [financialjuice] ‼ BREAKING: Trump: Russia to supply 300k+ metric tons of diesel - Truth Social
-- 10/10 03:47 [DeItaone] TRUMP ANNOUNCES DEAL WITH PUTIN FOR RUSSIAN DIESEL SUPPLIES President Trump says he held a “highly successful” discussion with Vladimir Putin, securing an agreement for Russia to supply diesel to U.S. and global markets. According to Trump,…
-- 10/10 03:47 [DeItaone] *TRUMP SAYS RUSSIA TO DELIVER 3M METRIC TONS DIESEL SOON
-- 10/10 03:48 [financialjuice] ❗ Trump: Russia will immediately supply another 500k tons during month of November, and 1 mln tons immediately thereafter.
-- 10/10 03:48 [financialjuice] ❗ Trump: Russia to deliver 3 mln metric tons diesel soon.
-- 10/10 03:50 [financialjuice] US Treasury: Office of Foreign Assets Control (OFAC) is immediately issuing a temporary general license to allow the supply of Russian diesel to the global market.
-- 10/10 03:50 [financialjuice/FirstSquawk] Brent Crude futures settle at $104.72/bbl, up 44 cents, 0.42%
-- 10/10 03:52 [DeItaone] Trump on Truth Social: 'Diesel Prices for Americans and, Indeed, the World, Will Be COMING DOWN, IN RECORD NUMBERS, AND FAST!'
-- 10/10 03:53 [financialjuice] Trump: Putin Agreed to Release Diesel Into Global Oil Market - Truth Social
-- 10/10 04:00 [financialjuice/DeItaone] US issues general license authorizing transactions related to sale, delivery, offloading, and importation of diesel fuel of Russian origin through April 7th, 2027
-- 10/10 04:01 [financialjuice] Week Ahead: Economic Indicators 12th – 16th October (US)
-- 10/10 04:04 [DeItaone/financialjuice/FirstSquawk] PUTIN'S ENVOY DMITRIEV ON X: RUSSIA-US COOPERATION ON DIESEL AND ENERGY WILL BENEFIT THE WORLD
-- 10/10 04:19 [FirstSquawk] NASA SEEKS US INDUSTRY PLANS FOR COMMERCIAL SPACE STATIONS
-- 10/10 04:22 [financialjuice] Monday FX Option Expiries
-- 10/10 04:30 [financialjuice] CFTC Positions in the Week of October 6th 2026
-- 10/10 04:35 [FirstSquawk] LOCKHEED MARTIN DEBUTS PAC-3 EDGE FOR US ARMY PROGRAM
-- 10/10 04:37 [financialjuice] The Ukrainian Government was surprised by Trump's announcement on Russian Diesel - Axios.
-- 10/10 04:41 [FirstSquawk] GOOGLE IS ABOUT TO ROLL OUT A NEW AI MODEL. EMPLOYEES SAY THEY'RE TESTING ANOTHER THAT'S WAY BETTER – BUSINESS INSIDER READ HERE
-- 10/10 04:43 [financialjuice] Google staff are testing a new version of Gemini 4, 'Carbon' - Insider. $GOOGL
-- 10/10 04:46 [financialjuice] Ukraine’s President Zelenskiy: Gifts to Putin on easing sanctions will not end the war.
-- 10/10 04:46 [financialjuice] Ukraine’s President Zelenskiy on Trump-Putin Diesel deal: Russia will repay concessions on diesel with more terrorism.
-- 10/10 04:46 [financialjuice] Ukraine’s President Zelenskiy: Allowing Russia to sell petroleum products is an investment in war that needs to end, not continue.
-- 10/10 04:49 [FirstSquawk] UKRAINIAN OFFICIAL: UKRAINIAN GOVERNMENT WAS SURPRISED BY TRUMP'S ANNOUNCEMENT – AXIOS
-- 10/10 04:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: -771.2 MLN NASDAQ 100: -309.7 MLN DOW 30: -229.4 MLN MAG 7: -214.5 MLN $MACRO
-- 10/10 04:56 [financialjuice] Putin: Russia confirms readiness to supply oil and petroleum products to the US and global markets - Tass.
-- 10/10 04:59 [FirstSquawk] RUSSIA READY TO SEND CRUDE, OIL PRODS TO US, GLOBAL MKT:KREMLIN
-- 10/10 05:00 [financialjuice] Iran's President Pezeshkian: Regional diplomacy shouldn't just be about holding meetings. It must be a real tool: for crisis management, maintaining dialogue, preventing escalation, and driving practical cooperation - Post on X
-- 10/10 05:03 [FirstSquawk] DOW JONES UNOFFICIALLY CLOSES UP 425.06 POINTS, OR 0.83%, AT 51,656.70 NASDAQ UNOFFICIALLY CLOSES UP 178.54 POINTS, OR 0.66 PERCENT, AT 27,371.88 S&P 500 UNOFFICIALLY CLOSES UP 45.07 POINTS, OR 0.58 PERCENT, AT 7,810.43
-- 10/10 05:05 [financialjuice] S&P on the UK: High hydrocarbon prices have been affecting inflation, and the BoE is expected to tighten its policy rate by 0.25% in late 2026.
-- 10/10 05:05 [financialjuice] S&P: United Kingdom 'AA/A-1+' ratings affirmed; outlook stable
-- 10/10 05:06 [financialjuice] S&P on the UK: Based on better-than-expected performance in the first half of the year, we revised up our real GDP growth estimate for 2026 to 1.3%.
-- 10/10 05:07 [financialjuice] S&P on the UK: The Labour Party holds a majority that, barring unforeseen events, should keep it in power until the next general election due in 2029.
-- 10/10 05:07 [financialjuice] S&P on the UK: Oil & gas prices & those for other inputs tied to conflict in the Middle East, like fertilizer, affecting inflation & interest rates.
-- 10/10 05:12 [financialjuice] Russia’s Deputy PM Novak: Russia views the US steps aimed at stabilizing the global energy market positively.
-- 10/10 05:12 [financialjuice] Russia’s Deputy PM Novak: Russia starts lifting diesel export restrictions immediately.
-- 10/10 05:12 [financialjuice] Russia’s Deputy PM Novak: Russia is ready to supply additional volumes of diesel fuel to the US market, as well as to all its partners, as early as October.
-- 10/10 05:12 [financialjuice] Russia’s Deputy PM Novak: Exports set to increase further in November and December as refineries return to operation following maintenance.
-- 10/10 05:16 [financialjuice] US bank deposits rose to $19.693 tln from $19.638 tln in the prior week.
-- 10/10 05:17 [financialjuice] Stocks Approach Record Highs as Earnings Optimism Supports Wall Street – US Market Wrap
-- 10/10 05:57 [financialjuice] Saudi-led Coalition: We're carrying out a wide-ranging operation targeting Yemen's Houthi elements and capabilities.
 - 10/10 06:41 [financialjuice] Trump on offensive in Saudi Arabia: not pleased with situation
 - 10/10 06:41 [financialjuice] Kremlin: Putin and Trump discussed major economic projects, including Russian fuel deliveries
 - 10/10 06:41 [financialjuice] Kremlin: significant focus given to Ukrainian settlement during call
@@ -230,3 +169,20 @@
 - 10/11 02:19 [DeItaone] OIL TANKER EXPLODES AFTER REPORTED MINE STRIKE IN STRAIT OF HORMUZ Iran’s Revolutionary Guards say an oil tanker exploded and caught fire after striking a naval mine while crossing the Strait of Hormuz, according to Iranian state media. The…
 - 10/11 02:32 [FirstSquawk] Yemeni Armed Forces: We struck several high-value military targets deep within militia-controlled areas
 - 10/11 02:32 [FirstSquawk] Yemeni Armed Forces: We have successfully advanced on the ground and recaptured additional positions.
+- 10/11 03:06 [financialjuice] India's mission to Geneva on Delhi protests: acknowledges UN comments on today's events in New Delhi
+- 10/11 03:06 [financialjuice] India’s mission to Geneva on Delhi protests: Indians exercise right to demonstrate subject to reasonable public order restrictions
+- 10/11 03:11 [financialjuice] India's mission to Geneva on Delhi protests: OHCHR's concerns misplaced, amount to undue intervention in India's internal matters
+- 10/11 03:17 [financialjuice] Nvidia in talks to buy or increase stake in US start-up Reflection AI: FT
+- 10/11 03:22 [FirstSquawk] Saudi Civil Aviation Authority : An attack targeted King Khalid International Airport in Riyadh, resulting in a number of injuries.
+- 10/11 03:22 [FirstSquawk] Saudi Civil Aviation Authority : Operations at King Khalid International Airport in Riyadh are temporarily suspended pending damage assessment.
+- 10/11 03:22 [FirstSquawk] Saudi Foreign Ministry : We urge our citizens affected by the suspension of flights to Riyadh to contact our embassies abroad for assistance.
+- 10/11 03:22 [financialjuice] India’s mission to Geneva on Delhi protests: Indians exercise right to peaceful assembly subject to reasonable restrictions in interest of public order
+- 10/11 03:22 [FirstSquawk] Yemeni government forces: We carried out more than 1,900 targeting operations in the past 24 hours as part of Operation Dawn of Yemen
+- 10/11 03:23 [FirstSquawk] Israeli Channel 13, citing a security official: Talks recently took place between Netanyahu and Trump regarding striking Iran, but no final decision has been made.
+- 10/11 03:23 [FirstSquawk] Israeli Channel 12, quoting a senior official: There will be no Israeli-initiated attack on Iran before the elections.
+- 10/11 03:26 [FirstSquawk] Lebanese News Agency: Israeli army carries out two bombings in the city of Khiam in southern Lebanon
+- 10/11 03:40 [financialjuice] Russian government: partially lifts diesel export ban after Trump-Putin agreement
+- 10/11 04:03 [financialjuice] US energy department approves emergency swap of up to 4 million barrels of crude oil from strategic petroleum reserve
+- 10/11 04:05 [financialjuice] Latest SPR release to ease disruptions from US storm: Energy Dept
+- 10/11 04:33 [financialjuice] Ukmto says several vessels near UAE's Ras al Khaimah ordered to leave anchorages via VHF broadcast
+- 10/11 05:56 [financialjuice] Saudi-led coalition: projectile landed near King Fahd International Airport in Dammam
