@@ -7,113 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-10 22:52 JST／対象: 10/09 22:52 〜 10/10 22:52 JST（時刻はすべて日本時間）
+生成: 2026-10-11 03:05 JST／対象: 10/10 03:05 〜 10/11 03:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 20 | 10/09 22:58 | 10/10 21:17 | ⚠ 1032分（04:04→21:17） |
-| FirstSquawk | 103 | 10/09 23:02 | 10/10 22:36 | ⚠ 599分（05:03→15:03） |
-| financialjuice | 136 | 10/09 22:56 | 10/10 22:32 | ⚠ 136分（15:27→17:44） |
+| DeItaone | 9 | 10/10 03:47 | 10/11 02:19 | ⚠ 1032分（04:04→21:17） |
+| FirstSquawk | 103 | 10/10 03:06 | 10/11 02:32 | ⚠ 599分（05:03→15:03） |
+| financialjuice | 116 | 10/10 03:10 | 10/11 02:08 | ⚠ 136分（15:27→17:44） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 250 行（統合前 261 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 206 行（統合前 229 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/09 22:56 [financialjuice] Pakistan's Foreign Ministry: The forces stationed in Saudi Arabia have a defensive role - ISNA
-- 10/09 22:58 [DeItaone] SPOT SILVER RISES NEARLY 3% TO $61.10/OZ
-- 10/09 23:00 [financialjuice] UNIVERSITY MICHIGAN CONDITION PRELIM ACTUAL 44.7 (FORECAST 50.1, PREVIOUS 50.9) $MACRO
-- 10/09 23:00 [DeItaone] U.S. CONSUMER SENTIMENT FALLS AS INFLATION EXPECTATIONS RISE University of Michigan consumer sentiment fell to 46.3 in October, missing expectations of 47.8 and declining from 48.1 in September. The current conditions index plunged to 44.7,…
-- 10/09 23:00 [financialjuice] ‼ BREAKING: UNIVERSITY MICHIGAN SENTIMENT PRELIM ACTUAL 46.3 (FORECAST 47.6, PREVIOUS 48.1) $MACRO
-- 10/09 23:00 [financialjuice] UNIVERSITY MICHIGAN 1 YR INFLATION PRELIM ACTUAL 4.7% (FORECAST 4.8%, PREVIOUS 4.6%) $MACRO
-- 10/09 23:00 [financialjuice] UNIVERSITY MICHIGAN 5 YR INFLATION PRELIM ACTUAL 3.5% (FORECAST 3.5%, PREVIOUS 3.4%) $MACRO
-- 10/09 23:00 [financialjuice] UNIVERSITY MICHIGAN EXPECTATIONS PRELIM ACTUAL 47.3 (FORECAST 45.7, PREVIOUS 46.3) $MACRO
-- 10/09 23:01 [financialjuice] University Michigan Survey October Prelim Report
-- 10/09 23:02 [FirstSquawk] US UNIVERSITY OF MICHIGAN SENTIMENT AT 46.3, LOWER THAN FORECAST OF 47.6 AND LAST MONTH'S 48.1.
-- 10/09 23:03 [financialjuice] China: Don't politicize economic matters.
-- 10/09 23:03 [financialjuice] China vows a necessary response if any actions harm its interests.
-- 10/09 23:04 [FirstSquawk] CHINA URGES NOT TO POLITICIZE ECONOMIC ISSUES.
-- 10/09 23:04 [FirstSquawk] CHINA PROMISES TO TAKE ACTION IF ITS INTERESTS ARE THREATENED.
-- 10/09 23:07 [financialjuice] Fed: Participation in the stock market fell between 2022 and 2025.
-- 10/09 23:10 [FirstSquawk] WHITE HOUSE: FORMS COMMITTEE TO PROBE FED'S LISA COOK
-- 10/09 23:12 [financialjuice] German auto association VDA President: EU-China trade deal on hybrid vehicles an initial positive sign and expression of both sides' willingness to address existing challenges through dialogue.
-- 10/09 23:13 [financialjuice] Loud boom heard near Aden Airport, Yemen - Residents.
-- 10/09 23:14 [FirstSquawk] LOUD EXPLOSION REPORTED NEAR ADEN AIRPORT, SAY LOCALS.
-- 10/09 23:17 [financialjuice] Iran's Foreign Ministry spokesperson: France seeks to remain a nuclear power while restricting countries pursuing peaceful nuclear energy under what it calls a false nuclear threat narrative.
-- 10/09 23:24 [financialjuice] Fear and Greed Index: 43/100 = Fear
-- 10/09 23:25 [financialjuice] Crypto Fear and Greed Index: 59/100 = Greed
-- 10/09 23:52 [financialjuice] Trump hosts Columbus Day celebration at the White House - WATCH LIVE
-- 10/09 23:56 [financialjuice] Italy and the EU edge closer to an agreement on a deal to cap energy bills.
-- 10/09 23:58 [financialjuice] BNP Paribas cuts Tesla's target price to $266 from $268. $TSLA
-- 10/10 00:03 [financialjuice] Saudi Aramco is going to supply full oil volumes to European customers in November.
-- 10/10 00:08 [financialjuice] Banks head for $5 bln gold trading windfall in record year
-- 10/10 00:09 [financialjuice] US Official: US Treasury Secretary Bessent to skip IMF-World Bank and G20 meetings in Bangkok due to domestic engagements.
-- 10/10 00:24 [financialjuice] Venezuela Expects Oil Production to Reach 1.5 Million BPD by End of 2027
-- 10/10 00:25 [FirstSquawk] PDVSA CHIEF: VENEZUELA REFINERIES ARE PROCESSING 350K BPD
-- 10/10 00:28 [FirstSquawk] FCC'S CARR: SEEN OVER $100 BLN IN SPECTRUM DEAL FLOW, EXPECTS OVER $100 BLN FOR SALE IN 2-YEARS - CNBC
-- 10/10 00:29 [FirstSquawk] Saudi Aramco Will Be Supplying Full Oil Volumes To European Customers In November
-- 10/10 00:29 [FirstSquawk] PDVSA CHIEF: VENEZUELA OIL PRODUCTION WILL REACH 1.5M BPD AT CLOSE OF 2027
-- 10/10 00:34 [FirstSquawk] BRITAIN'S FTSE 100 UP 1.13%; GERMANY'S DAX UP 1.19%
-- 10/10 00:34 [FirstSquawk] FRANCE'S CAC 40 UP 0.96%; SPAIN'S IBEX UP 0.82%
-- 10/10 00:36 [FirstSquawk/DeItaone] TRUMP: BIG ANNOUNCEMENT COMING UP ON DIESEL
-- 10/10 00:36 [financialjuice] Trump: We have a big announcement coming up on diesel.
-- 10/10 00:36 [DeItaone] TRUMP ON IRAN: GOING TO BE OVER SOON ONE WAY OR THE OTHER
-- 10/10 00:36 [FirstSquawk] TRUMP REITERATES PRICES WILL COME DOWN AFTER IRAN WAR IS OVER
-- 10/10 00:37 [financialjuice] Trump on Iran: It is going to be over soon, one way or the other.
-- 10/10 00:37 [financialjuice] Trump: The OMB is going to make a big announcement soon.
-- 10/10 00:38 [financialjuice] Trump: We took out 28 million bbls of oil from Hormuz yesterday.
-- 10/10 00:39 [FirstSquawk] TRUMP: TOOK OUT 28 MILLION BBLS OF OIL FROM HORMUZ YESTERDAY
-- 10/10 00:45 [FirstSquawk] TRUMP REITERATES IRAN WAR WILL BE OVER SOON
-- 10/10 01:00 [financialjuice] WASDE COTTON END STOCKS ACTUAL 3.8M (FORECAST 3.5M, PREVIOUS 3.6M) $MACRO
-- 10/10 01:00 [financialjuice] WASDE WHEAT END STOCKS ACTUAL 740M (FORECAST 720M, PREVIOUS 717M) $MACRO
-- 10/10 01:00 [financialjuice] WASDE SOYBEAN END STOCKS ACTUAL 315M (FORECAST 305.5M, PREVIOUS 310M) $MACRO
-- 10/10 01:00 [financialjuice] WASDE CORN END STOCKS ACTUAL 1849M (FORECAST 1695.34M, PREVIOUS 1567M) $MACRO
-- 10/10 01:04 [FirstSquawk] CORN FALLS OVER 3% AFTER USDA RAISES US YIELD, SUPPLY OUTLOOK
-- 10/10 01:04 [FirstSquawk] US WASDE Corn End Stocks Oct: 1.849B (est 1.695B; prev 1.567B) - Soybean End Stocks: 315M (est 306M; prev 310M) - Total Wheat End Stocks: 740M (est 720M; prev 717M) - Cotton End Stocks: 3.80M (est 3.50M; prev 3.60M)
-- 10/10 01:08 [FirstSquawk] DEERE SHARES QUICKLY FALL AS MUCH AS 2.4%
-- 10/10 01:11 [FirstSquawk] UAE ATTORNEY GENERAL SAYS FLYDUBAI CO-PILOT PLANNED TO SEIZE DUBAI-TEL AVIV FLIGHT FOR SUICIDE ATTACK ON BEN GURION AIRPORT TERMINAL -UAE STATE NEWS AGENCY
-- 10/10 01:14 [FirstSquawk/DeItaone] TRUMP: GASOLINE PRICE WILL BE DOWN SOON
-- 10/10 01:14 [FirstSquawk/DeItaone] TRUMP REITERATES IRAN CAN'T HAVE NUCLEAR WEAPON
-- 10/10 01:15 [financialjuice/DeItaone] Trump on Iran: It's a very small price to pay.
-- 10/10 01:17 [FirstSquawk] CORN FUTURES DROP 4.8% AFTER USDA RAISES CROP YIELD FORECAST
-- 10/10 01:18 [DeItaone] PORT OF LOS ANGELES HITS RECORD CONTAINER VOLUME IN SEPTEMBER The busiest U.S. container port handled a record 1.04 million TEUs in September, with imports reaching an all-time high of 546,696 TEUs. Port Executive Director Gene Seroka says …
-- 10/10 01:18 [DeItaone] *CHEVRON: EVACUATED MOST PERSONNEL IN GULF DUE TO ISAIAS *CHEVRON: SAFELY CONTINUING PRODUCTION AT 4 PLATFORMS *CHEVRON: SHUT-IN PRODUCTION AT REMAINING 5 FACILITIES
-- 10/10 01:22 [FirstSquawk] CHEVRON EVACUATES PERSONNEL, SHUTS-IN FIVE FACILITIES AT GULF OF AMERICA, PRODUCTION CONTINUED AT FOUR PLATFORMS - DEPLOYS TECHNOLOGY TO PROTECT GULF COAST OPS DURING HURRICANE ISAIAS
-- 10/10 01:27 [financialjuice] Trump ends remarks at the White House.
-- 10/10 01:29 [financialjuice] EU Tech Chief: Landmark rules mean the Bloc is well equipped to deal with rogue AI agents and other risks.
-- 10/10 01:34 [financialjuice] US Gulf shuts in 1.5 million b/d or 72% of oil production - MMA.
-- 10/10 01:35 [FirstSquawk] US GULF SHUTS IN 1.5 BILLION B/D OR 72% OIL PRODUCTION: MMA
-- 10/10 01:35 [financialjuice] US Gulf shuts in 1.3 bcf/d or 59% gas production - MMA.
-- 10/10 01:47 [FirstSquawk] EIGHT COUNTRIES EXPRESS SUPPORT FOR ICC, CRITICIZE US SANCTIONS
-- 10/10 01:49 [DeItaone] U.S. GULF SHUTS DOWN 72% OF OIL PRODUCTION The U.S. Gulf of Mexico has shut in 71.5% of daily oil production and 58.8% of natural gas output, according to the Marine Minerals Administration. Personnel have been evacuated from 129 offshore p…
-- 10/10 02:01 [financialjuice] US BAKER HUGHES TOTAL RIG COUNT ACTUAL 603 (FORECAST -, PREVIOUS 598) $MACRO
-- 10/10 02:01 [financialjuice] US BAKER HUGHES OIL RIG COUNT ACTUAL 462 (FORECAST -, PREVIOUS 456) $MACRO
-- 10/10 02:01 [FirstSquawk] US OIL RIG COUNT UP 6 TO 462 , BAKER HUGHES SAYS
-- 10/10 02:01 [FirstSquawk] US TOTAL RIG COUNT 603 , BAKER HUGHES SAYS
-- 10/10 02:15 [FirstSquawk] FITCH RATINGS: U.K. GAS NETWORKS RETAIN HEADROOM DESPITE TIGHTER DEBT CAPACITY
-- 10/10 02:20 [DeItaone] JD VANCE ON PLANNED EXECUTION: I DON'T KNOW IF LIVESTREAM WILL HAPPEN VANCE: IF LIVESTREAMED, I WILL NOT BE WATCHING IT
-- 10/10 02:21 [FirstSquawk] TRUMP BEEF IMPORT STRATEGY FAILS TO LOWER PRICES OR APPEASE RANCHERS - POLITICO
-- 10/10 02:21 [FirstSquawk] 1 COUNTERPARTY TAKES $300 MLN AT FED REVERSE REPO (PREV $335 MLN, 2 BIDS)
-- 10/10 02:29 [FirstSquawk] US ENVOYS KUSHNER, WITKOFF TO DISCUSS NEW PEACE PLAN WITH UKRAINIAN DELEGATION - NBC
-- 10/10 02:30 [FirstSquawk] EXPLOSIONS, AIR DEFENSE ACTIVITY HEARD IN TEHRANPARS, EAST TEHRAN
-- 10/10 02:31 [financialjuice] Trump pressures Mexico for energy deals in crunch trade talks - FT
-- 10/10 02:32 [DeItaone] TRUMP TO ISSUE DIRECTIVE TO US OFFICIALS THAT SEEKS TO CONTROL COST OF DIESEL -THREE INDUSTRY SOURCES SAY
-- 10/10 02:32 [financialjuice] ❗ Trump to issue directive to US officials that seeks to control the cost of diesel - Three industry sources
-- 10/10 02:33 [financialjuice/DeItaone] Trump Directive on diesel will push US department heads to find ways to bypass local, state regulations blocking energy production - three sources
-- 10/10 02:33 [financialjuice] Trump directive will push US officials to use the Defense Production Act to find ways to increase production of oil and fuel - Sources
-- 10/10 02:35 [financialjuice] Trump insisted to Sheinbaum more US-Mexico energy tie-ups - FT
-- 10/10 02:36 [DeItaone] U.S. JET FUEL PRICES NEAR $5 A GALLON AMID WAR DISRUPTIONS Jet fuel prices have surged to $4.95 per gallon in New York and $4.91 in Los Angeles, reaching their highest levels since March and April, respectively. Ukrainian strikes on Russian…
-- 10/10 02:40 [FirstSquawk] DONALD TRUMP PRESSURES MEXICO FOR ENERGY DEALS IN CRUNCH TRADE TALKS – FT
-- 10/10 02:46 [FirstSquawk] VENEZUELA GRANTS SPACEX CONCESSIONS FOR SATELLITE INTERNET
-- 10/10 02:58 [FirstSquawk] NHC: TROPICAL STORM CONDITIONS BEGINNING ALONG THE NORTHERN GULF COAST
-- 10/10 03:02 [financialjuice] Trump to seek ways to overcome state hurdles on energy projects.
-- 10/10 03:02 [financialjuice] Trump to issue memo as soon as today on state energy hurdles
-- 10/10 03:03 [FirstSquawk] KATIE ZACHARIA TO BE NEW WHITE HOUSE PRESS SECRETARY: NYT
-- 10/10 03:04 [financialjuice] local sources report sounds heard in Yazd, eastern Iran were caused by military air defense exercise - Sepah Media
 - 10/10 03:06 [FirstSquawk] PANAMA STRUCK BY 8.0 MAG. EARTHQUAKE NEAR PITALOZA ARRIBA: USGS
 - 10/10 03:10 [financialjuice] IDF: We attacked a Syrian terrorist operative from the air who was operating under the direction of the Iranian regime - Israel's N12 News
 - 10/10 03:14 [FirstSquawk] PTWC: HAZARDOUS TSUNAMI WAVES POSSIBLE FROM PANAMA QUAKE
@@ -274,3 +184,49 @@
 - 10/10 22:20 [FirstSquawk] Kallas: Suspension of sanctions on Russian diesel gives Moscow more resources to finance war
 - 10/10 22:32 [financialjuice] Eritrea: Ethiopia has declared war, requests UN intervention
 - 10/10 22:36 [FirstSquawk] Eritrean Foreign Minister: We call on the Security Council to condemn Ethiopia's declaration of war on our country
+- 10/10 23:04 [FirstSquawk] EU Plans Measures to Halve Chinese Hybrid Car Imports The European Union is considering safeguard measures to reduce hybrid car imports from China by half, targeting approximately 400,000 vehicles annually compared with an estimated 800,000…
+- 10/10 23:16 [FirstSquawk] Trump Calls Nobel Peace Prize Decision an “Indelible Stain” on Norway US President Donald Trump has criticized Norway after missing out on the Nobel Peace Prize, calling the decision an “indelible stain” on the country. Trump described this…
+- 10/10 23:24 [financialjuice] More than a dozen ambulances swarm Riyadh airport as travelers evacuated: eyewitnesses
+- 10/10 23:31 [FirstSquawk] SHELL - ACTIVELY MONITORING IMPROVING OFFSHORE CONDITIONS IN THE WAKE OF HURRICANE ISAIAS
+- 10/10 23:31 [FirstSquawk] SHELL - BEGINNING THE PROCESS OF REDEPLOYING PERSONNEL TO OUR MARS, OLYMPUS, URSA, VITO, AND APPOMATTOX ASSETS
+- 10/10 23:47 [financialjuice/FirstSquawk] Kuwait Airways: flights to and from Riyadh canceled Saturday due to Riyadh airport closure
+- 10/11 00:10 [FirstSquawk] Yemeni government forces: We thwarted a Houthi attack near Dhubab Airport in Taiz and inflicted losses on them with air support from the coalition.
+- 10/11 00:10 [FirstSquawk] Israeli army: We launched an interceptor missile towards a suspicious target in our forces' area of ​​operations in southern Lebanon
+- 10/11 00:10 [FirstSquawk] TASS agency citing Russian sources: Witekoff and Kushner may visit Moscow within the next two weeks
+- 10/11 00:10 [FirstSquawk] Palestinian Red Crescent: A Palestinian was injured by Israeli occupation forces' gunfire in the town of Sa'ir, north of Hebron in the West Bank.
+- 10/11 00:12 [financialjuice] U.S. envoys Witkoff, Kushner likely to visit Moscow within two weeks: Russian state news agency TASS cites source
+- 10/11 00:21 [financialjuice] Eyewitnesses at Riyadh airport: several injured following blast earlier today
+- 10/11 00:34 [FirstSquawk] AFP: Germany, Canada, and Spain advise their citizens against traveling through Riyadh airport
+- 10/11 00:34 [FirstSquawk] AFP: Ukrainian delegation leaves Miami after peace talks
+- 10/11 00:34 [FirstSquawk] TASS news agency: US envoys Wittkopf and Kushner may visit Moscow within the next two weeks.
+- 10/11 00:51 [financialjuice] Russian defence ministry: strikes data-processing centre in Kyiv and cargo ship transporting military supplies to Odesa
+- 10/11 00:58 [FirstSquawk] Ukrainian Emergency Service: Death toll from Russian targeting in Zaporizhzhia rises to 20
+- 10/11 00:58 [FirstSquawk] Israeli army: We killed a company commander in Islamic Jihad in the Khan Younis area on Wednesday
+- 10/11 00:58 [FirstSquawk] Israeli airstrike destroys a house after its residents were evacuated in the Shuja'iyya neighborhood, east of Gaza City
+- 10/11 00:59 [FirstSquawk] French army: Our forces are contributing to the protection of commercial ships in the Red Sea.
+- 10/11 00:59 [FirstSquawk] French military: We are maintaining two frigates for reconnaissance and ship protection near Bab al-Mandab.
+- 10/11 01:05 [financialjuice] UK embassy in Riyadh advises British nationals to avoid King Khalid International Airport after 'serious incident' - advisory note
+- 10/11 01:07 [financialjuice] US embassy in Riyadh: urges all US citizens to avoid King Khalid International Airport and nearby areas
+- 10/11 01:08 [financialjuice] US embassy in Riyadh: aware of assault on King Khalid International Airport in Riyadh on October 10
+- 10/11 01:10 [financialjuice/FirstSquawk] Uae National Guard: coast guard rescues 22 after fire erupts on oil tanker in Gulf
+- 10/11 01:34 [financialjuice/FirstSquawk] King Khalid International Airport in Riyadh attacked on Saturday: Saudi civil aviation authority
+- 10/11 01:35 [financialjuice/FirstSquawk] Saturday attack on Riyadh airport causes several injuries: Saudi civil aviation authority
+- 10/11 01:36 [financialjuice/FirstSquawk] Operations at King Khalid International Airport in Riyadh temporarily paused: Saudi Civil Aviation Authority
+- 10/11 01:43 [financialjuice/FirstSquawk] Trump: Zelenskiy might have resolved war multiple times
+- 10/11 01:44 [financialjuice/FirstSquawk] Trump: Zelenskiy can do whatever he wants but must avoid hitting refineries
+- 10/11 01:44 [financialjuice/FirstSquawk] Trump: Zelenskiy had better stop immediately
+- 10/11 01:45 [financialjuice/FirstSquawk] Trump: suggests they appoint a new leader to facilitate a deal
+- 10/11 01:45 [financialjuice/FirstSquawk] Trump: time for Ukraine to appoint a new leader
+- 10/11 01:46 [financialjuice/FirstSquawk] Trump at Riyadh airport: just learned about attack, will take action
+- 10/11 01:46 [financialjuice/FirstSquawk] Trump on Iran, attacks: will review situation
+- 10/11 02:06 [financialjuice/FirstSquawk] UK govt: UK Prime Minister talked with Ukrainian President Volodymyr Zelenskiy today
+- 10/11 02:07 [financialjuice/FirstSquawk] UK govt: Burnham and Zelenskiy discussed importance of sustaining pressure on Russia
+- 10/11 02:07 [financialjuice/FirstSquawk] Iran's Revolutionary Guards: oil tanker explodes after striking naval mine in Strait of Hormuz - state media
+- 10/11 02:07 [financialjuice/FirstSquawk] UK govt: Prime Minister Burnham affirms UK to intensify sanctions on Russia
+- 10/11 02:08 [financialjuice/FirstSquawk] UK government: emphasized Russia must agree to energy ceasefire, halt strikes on Ukrainian infrastructure and Black Sea shipping attacks
+- 10/11 02:08 [financialjuice/FirstSquawk] UK govt: Burnham and Zelenskiy set to meet in person in coming days to continue talks
+- 10/11 02:16 [DeItaone] TRUMP: TIME FOR UKRAINE TO GET A NEW PRESIDENT
+- 10/11 02:18 [DeItaone] TRUMP DEMANDS UKRAINE STOP STRIKING RUSSIAN OIL REFINERIES President Trump warned Zelensky to immediately stop attacks on Russian refineries, declaring: “He better damn well stop.” Trump also called for new leadership in Ukraine, saying: “I…
+- 10/11 02:19 [DeItaone] OIL TANKER EXPLODES AFTER REPORTED MINE STRIKE IN STRAIT OF HORMUZ Iran’s Revolutionary Guards say an oil tanker exploded and caught fire after striking a naval mine while crossing the Strait of Hormuz, according to Iranian state media. The…
+- 10/11 02:32 [FirstSquawk] Yemeni Armed Forces: We struck several high-value military targets deep within militia-controlled areas
+- 10/11 02:32 [FirstSquawk] Yemeni Armed Forces: We have successfully advanced on the ground and recaptured additional positions.
