@@ -7,65 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-10 06:40 JST／対象: 10/09 06:40 〜 10/10 06:40 JST（時刻はすべて日本時間）
+生成: 2026-10-10 10:15 JST／対象: 10/09 10:15 〜 10/10 10:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 36 | 10/09 20:31 | 10/10 04:04 | ⚠ 95分（23:00→00:36） |
-| FirstSquawk | 206 | 10/09 06:41 | 10/10 05:03 | ⚠ 85分（07:42→09:08） |
-| financialjuice | 174 | 10/09 07:28 | 10/10 05:57 | ⚠ 157分（17:34→20:12） |
+| FirstSquawk | 178 | 10/09 10:17 | 10/10 05:03 | ⚠ 71分（23:14→00:25） |
+| financialjuice | 177 | 10/09 10:17 | 10/10 10:13 | ⚠ 157分（17:34→20:12） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 399 行（統合前 419 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 374 行（統合前 394 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/09 06:41 [FirstSquawk] US ARMY FIRING SQUAD EXECUTION OF FORT HOOD SHOOTER TO BE LIVESTREAMED DECEMBER 3 — PENTAGON OFFICIAL
-- 10/09 07:28 [financialjuice] Bitdeer Technologies Group plans a901 capacity delivery to start in January 2027, full 67MW by Q2 2027
-- 10/09 07:30 [FirstSquawk] THE PENTAGON HAS DRAFTED PLANS FOR A THREE-DAY CAMPAIGN OF INTENSE STRIKES AGAINST IRAN, TARGETING ITS MISSILE AND DRONE ARSENAL, ENERGY FACILITIES AND REVOLUTIONARY GUARD HEADQUARTERS, THOUGH TRUMP HAS REJECTED FIVE PROPOSALS FOR MAJOR OPE…
-- 10/09 07:31 [FirstSquawk] SOME TRUMP ADVISERS DOUBT FURTHER STRIKES WOULD CHANGE TEHRAN'S POSITION, WHILE OTHERS BELIEVE A SHORT CAMPAIGN COULD INCREASE PRESSURE ON IRAN'S WEAKENING ECONOMY - NYT
-- 10/09 07:41 [FirstSquawk] H.B. FULLER HAS ANNOUNCED THE PRICING OF AN $850 MLN DEBT OFFERING, PRICING $850 MLN OF 7.625% SENIOR UNSECURED NOTES DUE 2034
-- 10/09 07:42 [FirstSquawk] HONDA TO SELL MITSUBISHI MOTORS’ TRITON PICKUP UNDER ITS OWN BRAND - YOMIURI
-- 10/09 08:12 [financialjuice] advertising in the US from Bytedance, the previous owner of TikTok - ..
-- 10/09 08:13 [financialjuice] Meta platforms bar advertisements from ByteDance, former TikTok owner, in the US
-- 10/09 08:26 [financialjuice] Nvidia to invest in chip competitor D-Matrix: The Information
-- 10/09 08:30 [financialjuice] JAPANESE ALL HOUSEHOLD SPENDING YOY ACTUAL -3.1% (FORECAST -3.6%, PREVIOUS -3.6%) $MACRO
-- 10/09 08:30 [financialjuice] Japan August household spending falls 3.1% year/year: government (Poll: -3.6%)
-- 10/09 08:30 [financialjuice] JAPANESE ALL HOUSEHOLD SPENDING MOM ACTUAL 0.1% (FORECAST -, PREVIOUS 0.5%) $MACRO
-- 10/09 08:30 [financialjuice] Japan August household spending rises 0.1% month/month: govt (poll 0.5%)
-- 10/09 08:41 [financialjuice] Meta confirms it blocked ads from Bytedance: spokesperson
-- 10/09 08:58 [financialjuice] Flock Safety to slash hundreds of jobs as backlash grows against its AI-powered surveillance cameras, sources say
-- 10/09 09:08 [FirstSquawk] WEAK DEMAND FORCES NVIDIA-BACKED FIRMUS TO DROP $5 BILLION AUSTRALIAN LISTING
-- 10/09 09:10 [financialjuice] Arlington County, Virginia, files lawsuit to block proposed Washington triumphal arch: court filing
-- 10/09 09:11 [FirstSquawk] SPACEX STEPS UP US WIRELESS AMBITIONS WITH STRATEGIC SPECTRUM ACQUISITION - RTRS
-- 10/09 09:16 [FirstSquawk] NVIDIA-BACKED AUSTRALIAN DATA-CENTER COMPANY FIRMUS GRID IS SET TO POSTPONE ITS IPO TARGETING UP TO $5.5 BILLION, AS WEAKENING INVESTOR DEMAND AND VALUATION CONCERNS COMPLICATE FUNDRAISING. THE COMPANY IS CONSIDERING A PRIVATE FUNDING ROUND…
-- 10/09 09:17 [FirstSquawk] META CONFIRMS IT BANNED BYTEDANCE ADS ON ITS PLATFORMS - SPOKESPERSON
-- 10/09 09:18 [FirstSquawk] BANK OF JAPAN GOVERNOR UEDA HAS BEEN INVITED TO SPEAK AT THE IMF CENTRAL BANKING LECTURE ON 6 NOVEMBER, AND IS SCHEDULED TO HOLD A DISCUSSION WITH IMF MANAGING DIRECTOR GEORGIEVA AFTER THE SPEECH, THOUGH THE BOJ HAS YET TO CONFIRM HIS APPEA…
-- 10/09 09:18 [FirstSquawk] ANTHROPIC HAS UPDATED ITS USAGE POLICY TO BAN 'SUSTAINED AND NEEDLESS ABUSIVE OR CRUEL BEHAVIOR' TOWARD CLAUDE, ALLOWING THE CHATBOT TO END CONVERSATIONS WITH REPEATEDLY ABUSIVE USERS, WITH THE RULE APPLYING ONLY TO EXTREME CASES, NOT ORDIN…
-- 10/09 09:18 [FirstSquawk] US-IRAN TALKS ARE PRODUCTIVE, TRUMP SAYS, VOWING NO ATTACK BEFORE NOVEMBER 3 ELECTIONS
-- 10/09 09:19 [FirstSquawk] GOLD RESERVE BELIEVES U.S.-BACKED PURCHASE LED BY VENEZUELA COULD PROVIDE A COMPREHENSIVE SETTLEMENT OF CREDITORS’ CLAIMS
-- 10/09 09:19 [FirstSquawk] GOLD RESERVE LTD. ENDORSES VENEZUELA’S PROPOSED SIX-MONTH ABEYANCE, PROVIDED THE U.S. OFFERS CONCURRENT SUPPORT
-- 10/09 09:20 [FirstSquawk] GOLD RESERVE SUPPORTS VENEZUELA’S REQUEST FOR ABEYANCE IN CITGO APPEAL, CONTINGENT ON UNITED STATES BACKING
-- 10/09 09:21 [FirstSquawk] EUROPEAN STOCK FUTURES RISE: EUROSTOXX 50 +0.4%, DAX +0.7%, FTSE +0.8%
-- 10/09 09:21 [financialjuice] China PBOC likely to fix yuan midpoint at 6.6973 per dollar: estimate
-- 10/09 09:31 [financialjuice] Japan's government: to restart spending review, expand examination of public funds and subsidies
-- 10/09 09:32 [FirstSquawk] 30-YEAR JAPANESE BOND YIELD DECLINES TO 4.065%, DOWN 5.5 BASIS POINTS
-- 10/09 09:33 [FirstSquawk] JAPANESE GOVERNMENT TO RESUME EXPENDITURE REVIEWS AND BROADEN EXAMINATIONS OF PUBLIC FUNDING
-- 10/09 09:33 [FirstSquawk] ANTHROPIC ADDS HITACHI AS A FOUNDING PARTNER TO ITS CRITICAL INFRASTRUCTURE DEFENSE PROGRAM
-- 10/09 09:37 [FirstSquawk] Asia-Pacific stocks opened mixed, mirroring Wall Street’s performance, where most major indices declined and the Nasdaq underperformed amid AI-related concerns
-- 10/09 09:42 [financialjuice] Japan finmin katayama: Japan's doge initiative key for Takaichi administration to pursue budget promoting growth while maintaining fiscal sustainability
-- 10/09 09:43 [FirstSquawk] FIRMUS SCRAPS PLANNED AUSTRALIAN IPO, CITING PREVAILING MARKET CONDITIONS - WSJ
-- 10/09 09:44 [FirstSquawk] KATAYAMA: TAKAICHI ADMINISTRATION NEEDS JAPAN’S DOGE INITIATIVE TO BALANCE ECONOMIC GROWTH WITH FISCAL SUSTAINABILITY
-- 10/09 09:49 [FirstSquawk] MICROSOFT SAYS 137B-PARAMETER MAI-CODE-1.1 FLASH MODEL CAN NOW RUN ON-DEVICE AS AI AGENTS GAIN PROMINENCE - Benzinga
-- 10/09 09:54 [FirstSquawk] MOST AMERICANS SUPPORT SOUTH KOREA DEVELOPING NUCLEAR-POWERED SUBMARINES, WHILE OPPOSING ITS ACQUISITION OF NUCLEAR WEAPONS, POLL SHOWS - YONHAP
-- 10/09 09:55 [FirstSquawk] CHINESE TOURIST DECLINE THREATENS JAPAN’S TOURISM SPENDING BOOM
-- 10/09 10:04 [FirstSquawk] JAPAN FACES RANSOMWARE WAVE AS QILIN GROUP TARGETS 53 COMPANIES
-- 10/09 10:11 [FirstSquawk] PRUDENTIAL’S JAPANESE SUBSIDIARY CAUGHT UP IN 5.2 BILLION YEN FRAUD SCANDAL
-- 10/09 10:14 [FirstSquawk] SPOT GOLD GAINS 0.3% TO $4,147.77 AS INFLATION RISKS AND FED RATE OUTLOOK REMAIN IN FOCUS - RTRS
 - 10/09 10:17 [financialjuice] China sets yuan midpoint at strongest level since Feb. 2, 2023
 - 10/09 10:17 [FirstSquawk] CHINA SETS YUAN REFERENCE RATE AT 6.7330 PER US DOLLAR, PBOC SAYS
 - 10/09 10:19 [FirstSquawk] YUAN FIXING HITS STRONGEST LEVEL IN MORE THAN THREE YEARS AS CHINA SETS DAILY MIDPOINT
@@ -423,3 +381,20 @@
 - 10/10 05:16 [financialjuice] US bank deposits rose to $19.693 tln from $19.638 tln in the prior week.
 - 10/10 05:17 [financialjuice] Stocks Approach Record Highs as Earnings Optimism Supports Wall Street – US Market Wrap
 - 10/10 05:57 [financialjuice] Saudi-led Coalition: We're carrying out a wide-ranging operation targeting Yemen's Houthi elements and capabilities.
+- 10/10 06:41 [financialjuice] Trump on offensive in Saudi Arabia: not pleased with situation
+- 10/10 06:41 [financialjuice] Kremlin: Putin and Trump discussed major economic projects, including Russian fuel deliveries
+- 10/10 06:41 [financialjuice] Kremlin: significant focus given to Ukrainian settlement during call
+- 10/10 06:41 [financialjuice] Kremlin: Putin told Trump Russia will consider when to restart peace talks
+- 10/10 06:41 [financialjuice] Kremlin: Trump embraced Russia’s role in Iran settlement
+- 10/10 06:41 [financialjuice] Kremlin: phone call duration 1.5 hours
+- 10/10 06:41 [financialjuice] Kremlin: Putin and Trump interested in attending Apec summit in China in November
+- 10/10 06:41 [financialjuice] Witkoff on Ukraine talks: conversation was constructive and highlighted areas for additional exploration
+- 10/10 06:41 [financialjuice] Witkoff on Ukraine talks: Participants reaffirm shared commitment to ongoing diplomacy
+- 10/10 07:07 [financialjuice] Super Micro contractor admits guilt in plot to reroute computer servers with Nvidia AI chips to China, court docket says
+- 10/10 07:31 [financialjuice] Sequoia-backed startup Nuvacore raising hundreds of millions at about $2.5 billion valuation, sources say
+- 10/10 07:44 [financialjuice] Negotiators for US, Ukraine and Russia hold six-hour talks in Miami for joint proposal to end war in Ukraine, source says
+- 10/10 07:45 [financialjuice] Negotiators hope to finalize deal on unified Ukraine plan in coming weeks, source says
+- 10/10 07:46 [financialjuice] Negotiations in Miami covered post-war economic aid for Ukraine and possible new Europe-Russia security framework, source says
+- 10/10 07:50 [financialjuice] Trump administration: now requiring AI companies to report and fix security breaches after Anthropic’s 'fraudulent' use of government systems - Axios
+- 10/10 08:28 [financialjuice] Trump asks US Supreme Court to review dismissed lawsuit accusing Hillary Clinton of conspiracy in 2016 election
+- 10/10 10:13 [financialjuice] Trump: we won’t forget Norway’s refusal to award Nobel Peace Prize to the US

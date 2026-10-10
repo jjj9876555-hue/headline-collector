@@ -7,94 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-10 06:40 JST／対象: 10/09 18:40 〜 10/10 06:40 JST（時刻はすべて日本時間）
+生成: 2026-10-10 10:15 JST／対象: 10/09 22:15 〜 10/10 10:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 36 | 10/09 20:31 | 10/10 04:04 | ⚠ 95分（23:00→00:36） |
-| FirstSquawk | 97 | 10/09 18:53 | 10/10 05:03 | ⚠ 71分（23:14→00:25） |
-| financialjuice | 131 | 10/09 20:12 | 10/10 05:57 | 45分（20:15→21:00） |
+| DeItaone | 22 | 10/09 22:26 | 10/10 04:04 | ⚠ 95分（23:00→00:36） |
+| FirstSquawk | 66 | 10/09 22:16 | 10/10 05:03 | ⚠ 71分（23:14→00:25） |
+| financialjuice | 122 | 10/09 22:17 | 10/10 10:13 | ⚠ 105分（08:28→10:13） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 247 行（統合前 267 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 193 行（統合前 213 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/09 18:53 [FirstSquawk] CHINA’S CPCA REPORTS TESLA SOLD 95,366 VEHICLES MADE IN CHINA IN SEPTEMBER.
-- 10/09 19:10 [FirstSquawk] THERE IS EXTENSIVE DAMAGE TO POWER GRIDS AND ELECTRICITY TRANSMISSION FACILITIES AFTER RUSSIAN STRIKES SAYS ZELENSKIY
-- 10/09 19:35 [FirstSquawk] DELTA AIR LINES Q3 ADJ OPER REV $17.59 BLN VS IBES ESTIMATE $17.66 BLN || Q3 ADJ EPS $1.72 VS IBES ESTIMATE $1.75 || EXPECT TO GENERATE PRE-TAX PROFIT OF ABOUT $4.5 BLN FOR FY, ABSORBING $6 BLN INCREASE IN FUEL COSTS || OUTLOOK FY 2026 FREE…
-- 10/09 19:35 [FirstSquawk] DELTA AIR LINES OUTLOOK Q4 2026 REVENUE GROWTH ABOUT 20% YOY || Q4 ADJ EPS OUTLOOK BASED ON FUEL PRICE OF ABOUT $4.25/GALLON || BEYOND 2026, CONFIDENT IN LONG-TERM FRAMEWORK & PATH TO MID-TEENS MARGINS & RETURN ON INVESTED CAPITAL
-- 10/09 19:50 [FirstSquawk] ITALY'S ENERGY MINISTER WILL NOT BE PRESENT AT NEXT WEEK'S ENERGY MEETING IN RIYADH BUT WILL JOIN VIRTUALLY.
-- 10/09 19:50 [FirstSquawk] ELI LILLY'S TALTZ AND ZEPBOUND COMBINED SHOW GREATER BIOMARKER CHANGES THAN TALTZ ALONE. NEW PHASE 3B DATA ADVANCES KNOWLEDGE OF IMMUNE AND METABOLIC CONNECTIONS IN ADULTS WITH PSORIASIS AND OBESITY.
-- 10/09 19:50 [FirstSquawk] PBOC'S PAN MET WITH GOLDMAN SACHS' JOHN WALDRON TO TALK ABOUT THE GLOBAL ECONOMY AND CHINA'S MACRO POLICIES.
-- 10/09 19:50 [FirstSquawk] UKRAINE'S PRESIDENT ZELENSKIY REPORTED THAT UKRAINE ATTACKED THE OMSK AND UKHTA OIL REFINERIES IN RUSSIA.
-- 10/09 20:11 [FirstSquawk] CHINA'S COMMERCE MINISTER ENGAGED IN FRUITFUL TALKS WITH EU TRADE LEADER.
-- 10/09 20:12 [FirstSquawk] CHINA AND THE EU HAVE COME TO AN AGREEMENT TO BETTER HANDLE TRADE DISPUTES.
-- 10/09 20:12 [financialjuice] China's Commerce Ministry: Two sides agreed to hold the third regular meeting of the mechanism in March 2027
-- 10/09 20:13 [FirstSquawk] CHINA AND ANOTHER PARTY HAVE AGREED TO HAVE THEIR THIRD REGULAR MEETING IN MARCH 2027.
-- 10/09 20:13 [financialjuice] China's commerce ministry: To continue exploring the possibility of lowering tariffs on some goods under WTO rules
-- 10/09 20:13 [FirstSquawk] CHINA'S COMMERCE MINISTRY WILL CONTINUE TO LOOK INTO LOWERING TARIFFS ON CERTAIN GOODS FOLLOWING WTO REGULATIONS.
-- 10/09 20:13 [financialjuice] China's commerce ministry: China and the EU reach an understanding on hybrid vehicle trade in a WTO-compliant manner after intensive negotiations. Will continue discussions on price undertakings and review procedures in the EU's anti-subsid…
-- 10/09 20:14 [FirstSquawk] CHINA AND THE EU HAVE AGREED ON HYBRID VEHICLE TRADE FOLLOWING EXTENSIVE TALKS, IN LINE WITH WTO RULES. DISCUSSIONS WILL CONTINUE ON PRICE TERMS AND THE EU'S ANTI-SUBSIDY INQUIRY INTO CHINESE ELECTRIC CARS.
-- 10/09 20:15 [financialjuice] China Commerce Ministry: To continue facilitating rare earth and permanent magnet export licenses to the EU via 'green channel’
-- 10/09 20:15 [FirstSquawk] CHINA'S COMMERCE MINISTRY WILL KEEP OFFERING EXPORT LICENSES FOR RARE EARTH AND PERMANENT MAGNETS TO THE EU THROUGH A 'GREEN CHANNEL.'
-- 10/09 20:20 [FirstSquawk] BANK OF SPAIN UPS 2026 INFLATION FORECAST TO 3.9%, SEES 3.7% INFLATION IN 2027 FROM 2.7% || UPS 2026 ECONOMIC GROWTH FORECAST TO 2.6% FROM 2.3%, SEES 2.2% GROWTH IN 2027 FROM 1.7%
-- 10/09 20:20 [FirstSquawk] BANK OF SPAIN BUDGET DEFICIT OF 2.6% IN 2026 FROM 2.4% AND 2.2% IN 2027 FROM 2.3% || SEES THIRD-QUARTER GDP GROWTH OF AROUND 0.6% Q/Q FROM 0.7% IN Q2
-- 10/09 20:20 [FirstSquawk] BANK OF SPAIN SEES PUBLIC DEBT-TO-GDP RATIO AT 98.5% AT END-2026, 96.2% AT END-2027 || WARNS OF RISKS TO OUTLOOK FROM GEOPOLITICS, OIL PRICES AND RISING BOND YIELDS
-- 10/09 20:31 [DeItaone] 🇫🇷 FRENCH DEBT CRISIS COULD POSE GREATER RISKS THAN GREECE, COMMERZBANK WARNS Commerzbank warns that France's debt problems could pose greater systemic risks to the eurozone than Greece's sovereign debt crisis. Eurozone public debt now aver…
-- 10/09 20:37 [DeItaone] IMF WARNS GLOBAL DEBT COULD HIT 100% OF GDP BY 2028 The IMF says global government debt could reach levels unseen since World War II. IMF chief Kristalina Georgieva warns advanced economies are the biggest contributors, adding that relying …
-- 10/09 20:46 [DeItaone] BESSENT HIRES TRUMP'S FORMER FED BOARD PICK, JUDY SHELTON, AS ADVISER - CNBC
-- 10/09 20:46 [FirstSquawk] TREASURY APPOINTS TRUMP'S FORMER FED PICK JUDY SHELTON AS ADVISER.
-- 10/09 20:54 [DeItaone] https://t.co/8paOdqLtBI
-- 10/09 20:57 [DeItaone] BOFA'S HARTNETT: $8 TRILLION IN CASH WON'T MOVE WITHOUT FED CUTS Money market funds attracted $166.4B last week, the biggest inflow since April 2020. Hartnett says sustained Fed cuts are needed to unlock sidelined cash: “No rate cuts, no ca…
-- 10/09 21:00 [financialjuice] Morning Juice – US Session Prep (9th October)
-- 10/09 21:00 [financialjuice] Secured overnight financing rate 3.87% October 8th vs 3.88% October 7th
-- 10/09 21:04 [DeItaone] 🇺🇸 PRESIDENTIAL SCHEDULE — FRIDAY, OCT. 9 🔸 8:00 AM ET — Executive Time — Closed Press 🔸 11:00 AM ET — Columbus Day Celebration — East Room — Pre-Credentialed Media 🔸 2:00 PM ET — Secretary of Labor Swearing-In — Oval Office — Closed Press …
-- 10/09 21:10 [financialjuice] German Economy Ministry: Germany to release up to 15 mln barrels of oil and petroleum products.
-- 10/09 21:10 [financialjuice] German economy minister: Diesel and heating oil to be released first, followed by crude oil
-- 10/09 21:10 [financialjuice] German Economy Minister: Germany to fully implement G7 agreement on release of energy stocks.
-- 10/09 21:10 [financialjuice] German Economy Minister: German refineries are most important asset for security of energy supply.
-- 10/09 21:12 [DeItaone] GERMANY TO RELEASE UP TO 15 MILLION BARRELS OF EMERGENCY OIL RESERVES Germany will release up to 15 million barrels of oil and petroleum products, implementing the G7 agreement on energy reserves. Diesel and heating oil will be released fir…
-- 10/09 21:13 [FirstSquawk] GERMANY PLANS TO RELEASE AS MUCH AS 15 MILLION BARRELS OF OIL AND PETROLEUM PRODUCTS.
-- 10/09 21:13 [FirstSquawk] GERMAN ECONOMY MINISTER ANNOUNCES THAT DIESEL AND HEATING OIL WILL BE RELEASED FIRST, THEN CRUDE OIL.
-- 10/09 21:13 [FirstSquawk] GERMANY WILL FULLY IMPLEMENT THE G7 DEAL ON ENERGY STOCK RELEASE, SAYS THE ECONOMY MINISTER.
-- 10/09 21:13 [FirstSquawk] GERMAN ECONOMY MINISTER STATES THAT REFINERIES ARE VITAL FOR ENERGY SECURITY.
-- 10/09 21:13 [FirstSquawk] GERMAN ECONOMY MINISTER STRESSES IMPORTANCE OF CONSIDERING THE WHOLE SUPPLY CHAIN, NOT JUST CRUDE OIL.
-- 10/09 21:30 [financialjuice] ❗ CANADIAN UNEMPLOYMENT RATE ACTUAL 6.5% (FORECAST 6.5%, PREVIOUS 6.4%) $MACRO
-- 10/09 21:30 [financialjuice] CANADIAN AVERAGE HOURLY EARNINGS YOY ACTUAL 2.3% (FORECAST 2.3%, PREVIOUS 2.00%) $MACRO
-- 10/09 21:30 [financialjuice] ‼ BREAKING: CANADIAN EMPLOYMENT CHANGE ACTUAL -68.3K (FORECAST 10K, PREVIOUS -41.7K) $MACRO
-- 10/09 21:30 [financialjuice] CANADIAN PARTICIPATION RATE ACTUAL 64.8% (FORECAST 65%, PREVIOUS 65.0%) $MACRO
-- 10/09 21:31 [financialjuice] Canadian Employment Change September 2026 Report
-- 10/09 21:31 [FirstSquawk] CANADIAN UNEMPLOYMENT RATE IS 6.5%, SAME AS FORECAST AND UP FROM 6.4% PREVIOUSLY.
-- 10/09 21:31 [DeItaone] CANADA LOSES 68,300 JOBS IN SEPTEMBER, FAR WORSE THAN EXPECTED Canada's economy shed 68,300 jobs in September, sharply missing forecasts for a 9,200 gain. The unemployment rate rose to 6.5%, while both full-time and part-time employment dec…
-- 10/09 21:31 [FirstSquawk] CANADA'S EMPLOYMENT DROPPED BY 68.3K, LOWER THAN THE FORECAST OF 10K AND PREVIOUSLY AT -41.7K.
-- 10/09 21:33 [financialjuice] IRGC: Large LPG Tanker Hit and Catches Fire - Tasnim News
-- 10/09 21:34 [financialjuice] IRGC on tanker attack: Responsibility for escalating tensions in the region's maritime transport lies with the US.
-- 10/09 21:36 [DeItaone] UKRAINIAN DELEGATION ARRIVES IN MIAMI FOR TALKS WITH US TEAM, SOURCE FAMILIAR SAYS
-- 10/09 21:36 [DeItaone] IRAN CLAIMS LPG TANKER STRUCK NEAR STRAIT OF HORMUZ Iran's Revolutionary Guard Navy says a large LPG carrier named NV Sunshine was struck while attempting to transit south of the Strait of Hormuz, with reports indicating the vessel caught f…
-- 10/09 21:37 [financialjuice] IRGC: From now on, the handling of offending vessels will not be limited to the Strait of Hormuz, and any vessel that passes through unauthorized routes will be pursued throughout the region, and its punishment will be certain.
-- 10/09 21:38 [financialjuice] Kremlin: Putin-Trump call will be soon - IFX
-- 10/09 21:38 [financialjuice] ❗ Traders pull back on bets for a BOC rate hike by year's end
-- 10/09 21:38 [financialjuice] ❗ Bank of Canada October rate hike chances fall to 27% from 40% on jobs report - Swap Market Data Shows
-- 10/09 21:39 [DeItaone] *KREMLIN SAYS PUTIN-TRUMP CALL WILL BE SOON: IFX
-- 10/09 21:39 [DeItaone] IRAN'S IRGC NAVY SAYS TARGETED LPG TANKER TRYING TO 'ILLEGALLY' PASS THROUGH STRAIT OF HORMUZ, AND IT SUFFERED A MASSIVE FIRE -STATE MEDIA
-- 10/09 21:40 [FirstSquawk] IRAN'S IRGC NAVY CLAIMS THEY ATTACKED AN LPG TANKER THAT WAS TRYING TO 'ILLEGALLY' PASS THROUGH THE STRAIT OF HORMUZ, CAUSING A SIGNIFICANT FIRE - STATE MEDIA REPORTS.
-- 10/09 21:40 [FirstSquawk] TRADERS REDUCE EXPECTATIONS FOR A BANK OF CANADA RATE INCREASE BY THE END OF THE YEAR.
-- 10/09 21:41 [FirstSquawk] CHANCES OF A BANK OF CANADA RATE HIKE IN OCTOBER DROP TO 27% FROM 40% DUE TO JOBS REPORT, SWAP MARKET DATA REVEALS.
-- 10/09 21:43 [DeItaone] IRGC SAYS FROM NOW ON, ANY VESSELS COMMITTING VIOLATIONS OUTSIDE STRAIT OF HORMUZ WILL ALSO BE 'PUNISHED' - STATEMENT
-- 10/09 21:46 [DeItaone] S&P 500 BULL MARKET GAINS 117% AS AI RALLY RAISES CONCENTRATION RISKS The S&P 500 has surged 117% since October 2022, adding nearly $40 trillion in market value, largely driven by AI-related stocks. However, the equal-weight S&P 500 has und…
-- 10/09 21:49 [FirstSquawk] IRGC: FROM NOW ON, ANY VESSELS COMMITTING VIOLATIONS OUTSIDE STRAIT OF HORMUZ WILL ALSO BE 'PUNISHED' - STATEMENT
-- 10/09 21:51 [financialjuice] UKMTO gets a report of an incident 13NM west of Al Jazeera, UAE.
-- 10/09 21:52 [financialjuice] Several explosions reported in Erbil, Iraq - Fars News.
-- 10/09 21:52 [financialjuice] UKMTO: Vessel reported to be struck by an unknown projectile
-- 10/09 22:00 [financialjuice] Effective fed funds rate: 3.88% October 8th vs 3.88% October 7th.
-- 10/09 22:04 [financialjuice] Gazprom, Lukoil start production at Layavozhskoye field.
-- 10/09 22:06 [FirstSquawk] MULTIPLE EXPLOSIONS HAVE BEEN REPORTED IN ERBIL, IRAQ.
-- 10/09 22:06 [FirstSquawk] GAZPROM AND LUKOIL BEGIN PRODUCTION AT LAYAVOZHSKOYE FIELD.
 - 10/09 22:16 [FirstSquawk] UN CHIEF ANTONIO GUTERRES SAYS NAVI PILLAY HAS SHOWN THE FORCE OF LAW MUST PREVAIL OVER THE LAW OF FORCE
 - 10/09 22:16 [FirstSquawk] UN CHIEF GUTERRES SAYS PRIZE IS A TRIBUTE TO ALL THOSE WORKING TO UPHOLD AND DEFEND INTERNATIONAL LAW AND HUMAN RIGHTS
 - 10/09 22:17 [financialjuice] Iran's President Pezeshkian: Negotiations only have meaning when based on mutual respect and commitment, and when pressure and threats are set aside - Iranian Media.
@@ -271,3 +200,20 @@
 - 10/10 05:16 [financialjuice] US bank deposits rose to $19.693 tln from $19.638 tln in the prior week.
 - 10/10 05:17 [financialjuice] Stocks Approach Record Highs as Earnings Optimism Supports Wall Street – US Market Wrap
 - 10/10 05:57 [financialjuice] Saudi-led Coalition: We're carrying out a wide-ranging operation targeting Yemen's Houthi elements and capabilities.
+- 10/10 06:41 [financialjuice] Trump on offensive in Saudi Arabia: not pleased with situation
+- 10/10 06:41 [financialjuice] Kremlin: Putin and Trump discussed major economic projects, including Russian fuel deliveries
+- 10/10 06:41 [financialjuice] Kremlin: significant focus given to Ukrainian settlement during call
+- 10/10 06:41 [financialjuice] Kremlin: Putin told Trump Russia will consider when to restart peace talks
+- 10/10 06:41 [financialjuice] Kremlin: Trump embraced Russia’s role in Iran settlement
+- 10/10 06:41 [financialjuice] Kremlin: phone call duration 1.5 hours
+- 10/10 06:41 [financialjuice] Kremlin: Putin and Trump interested in attending Apec summit in China in November
+- 10/10 06:41 [financialjuice] Witkoff on Ukraine talks: conversation was constructive and highlighted areas for additional exploration
+- 10/10 06:41 [financialjuice] Witkoff on Ukraine talks: Participants reaffirm shared commitment to ongoing diplomacy
+- 10/10 07:07 [financialjuice] Super Micro contractor admits guilt in plot to reroute computer servers with Nvidia AI chips to China, court docket says
+- 10/10 07:31 [financialjuice] Sequoia-backed startup Nuvacore raising hundreds of millions at about $2.5 billion valuation, sources say
+- 10/10 07:44 [financialjuice] Negotiators for US, Ukraine and Russia hold six-hour talks in Miami for joint proposal to end war in Ukraine, source says
+- 10/10 07:45 [financialjuice] Negotiators hope to finalize deal on unified Ukraine plan in coming weeks, source says
+- 10/10 07:46 [financialjuice] Negotiations in Miami covered post-war economic aid for Ukraine and possible new Europe-Russia security framework, source says
+- 10/10 07:50 [financialjuice] Trump administration: now requiring AI companies to report and fix security breaches after Anthropic’s 'fraudulent' use of government systems - Axios
+- 10/10 08:28 [financialjuice] Trump asks US Supreme Court to review dismissed lawsuit accusing Hillary Clinton of conspiracy in 2016 election
+- 10/10 10:13 [financialjuice] Trump: we won’t forget Norway’s refusal to award Nobel Peace Prize to the US
