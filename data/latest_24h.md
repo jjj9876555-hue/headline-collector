@@ -7,77 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-11 22:06 JST／対象: 10/10 22:06 〜 10/11 22:06 JST（時刻はすべて日本時間）
+生成: 2026-10-12 03:03 JST／対象: 10/11 03:03 〜 10/12 03:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 4 | 10/11 02:16 | 10/11 19:54 | ⚠ 1055分（02:19→19:54） |
-| FirstSquawk | 157 | 10/10 22:12 | 10/11 22:00 | ⚠ 335分（03:26→09:02） |
-| financialjuice | 77 | 10/10 22:07 | 10/11 22:06 | ⚠ 148分（13:39→16:07） |
+| DeItaone | 6 | 10/11 19:54 | 10/12 00:00 | ⚠ 178分（19:54→22:52） |
+| FirstSquawk | 156 | 10/11 03:22 | 10/12 02:57 | ⚠ 335分（03:26→09:02） |
+| financialjuice | 77 | 10/11 03:06 | 10/12 02:23 | ⚠ 148分（13:39→16:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 217 行（統合前 238 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 223 行（統合前 239 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/10 22:07 [financialjuice] Loud explosion heard at Riyadh airport: eyewitness, sources
-- 10/10 22:07 [financialjuice] No immediate reaction from Saudi authorities on airport incident
-- 10/10 22:12 [FirstSquawk] LOUD BLAST HEARD AT RIYADH AIRPORT - EYEWITNESS, PEOPLE FAMILIAR WITH THE MATTER
-- 10/10 22:12 [FirstSquawk] NO IMMEDIATE COMMENT FROM SAUDI AUTHROITIES ON ANY INCIDENT AT AIRPORT
-- 10/10 22:20 [FirstSquawk] kallas: EU foreign ministers plan to approve the largest sanctions package targeting Russia's war machine on Monday
-- 10/10 22:20 [FirstSquawk] Kallas: Suspension of sanctions on Russian diesel gives Moscow more resources to finance war
-- 10/10 22:32 [financialjuice] Eritrea: Ethiopia has declared war, requests UN intervention
-- 10/10 22:36 [FirstSquawk] Eritrean Foreign Minister: We call on the Security Council to condemn Ethiopia's declaration of war on our country
-- 10/10 23:04 [FirstSquawk] EU Plans Measures to Halve Chinese Hybrid Car Imports The European Union is considering safeguard measures to reduce hybrid car imports from China by half, targeting approximately 400,000 vehicles annually compared with an estimated 800,000…
-- 10/10 23:16 [FirstSquawk] Trump Calls Nobel Peace Prize Decision an “Indelible Stain” on Norway US President Donald Trump has criticized Norway after missing out on the Nobel Peace Prize, calling the decision an “indelible stain” on the country. Trump described this…
-- 10/10 23:24 [financialjuice] More than a dozen ambulances swarm Riyadh airport as travelers evacuated: eyewitnesses
-- 10/10 23:31 [FirstSquawk] SHELL - ACTIVELY MONITORING IMPROVING OFFSHORE CONDITIONS IN THE WAKE OF HURRICANE ISAIAS
-- 10/10 23:31 [FirstSquawk] SHELL - BEGINNING THE PROCESS OF REDEPLOYING PERSONNEL TO OUR MARS, OLYMPUS, URSA, VITO, AND APPOMATTOX ASSETS
-- 10/10 23:47 [financialjuice/FirstSquawk] Kuwait Airways: flights to and from Riyadh canceled Saturday due to Riyadh airport closure
-- 10/11 00:10 [FirstSquawk] Yemeni government forces: We thwarted a Houthi attack near Dhubab Airport in Taiz and inflicted losses on them with air support from the coalition.
-- 10/11 00:10 [FirstSquawk] Israeli army: We launched an interceptor missile towards a suspicious target in our forces' area of ​​operations in southern Lebanon
-- 10/11 00:10 [FirstSquawk] TASS agency citing Russian sources: Witekoff and Kushner may visit Moscow within the next two weeks
-- 10/11 00:10 [FirstSquawk] Palestinian Red Crescent: A Palestinian was injured by Israeli occupation forces' gunfire in the town of Sa'ir, north of Hebron in the West Bank.
-- 10/11 00:12 [financialjuice] U.S. envoys Witkoff, Kushner likely to visit Moscow within two weeks: Russian state news agency TASS cites source
-- 10/11 00:21 [financialjuice] Eyewitnesses at Riyadh airport: several injured following blast earlier today
-- 10/11 00:34 [FirstSquawk] AFP: Germany, Canada, and Spain advise their citizens against traveling through Riyadh airport
-- 10/11 00:34 [FirstSquawk] AFP: Ukrainian delegation leaves Miami after peace talks
-- 10/11 00:34 [FirstSquawk] TASS news agency: US envoys Wittkopf and Kushner may visit Moscow within the next two weeks.
-- 10/11 00:51 [financialjuice] Russian defence ministry: strikes data-processing centre in Kyiv and cargo ship transporting military supplies to Odesa
-- 10/11 00:58 [FirstSquawk] Ukrainian Emergency Service: Death toll from Russian targeting in Zaporizhzhia rises to 20
-- 10/11 00:58 [FirstSquawk] Israeli army: We killed a company commander in Islamic Jihad in the Khan Younis area on Wednesday
-- 10/11 00:58 [FirstSquawk] Israeli airstrike destroys a house after its residents were evacuated in the Shuja'iyya neighborhood, east of Gaza City
-- 10/11 00:59 [FirstSquawk] French army: Our forces are contributing to the protection of commercial ships in the Red Sea.
-- 10/11 00:59 [FirstSquawk] French military: We are maintaining two frigates for reconnaissance and ship protection near Bab al-Mandab.
-- 10/11 01:05 [financialjuice] UK embassy in Riyadh advises British nationals to avoid King Khalid International Airport after 'serious incident' - advisory note
-- 10/11 01:07 [financialjuice] US embassy in Riyadh: urges all US citizens to avoid King Khalid International Airport and nearby areas
-- 10/11 01:08 [financialjuice] US embassy in Riyadh: aware of assault on King Khalid International Airport in Riyadh on October 10
-- 10/11 01:10 [financialjuice/FirstSquawk] Uae National Guard: coast guard rescues 22 after fire erupts on oil tanker in Gulf
-- 10/11 01:34 [financialjuice/FirstSquawk] King Khalid International Airport in Riyadh attacked on Saturday: Saudi civil aviation authority
-- 10/11 01:35 [financialjuice/FirstSquawk] Saturday attack on Riyadh airport causes several injuries: Saudi civil aviation authority
-- 10/11 01:36 [financialjuice/FirstSquawk] Operations at King Khalid International Airport in Riyadh temporarily paused: Saudi Civil Aviation Authority
-- 10/11 01:43 [financialjuice/FirstSquawk] Trump: Zelenskiy might have resolved war multiple times
-- 10/11 01:44 [financialjuice/FirstSquawk] Trump: Zelenskiy can do whatever he wants but must avoid hitting refineries
-- 10/11 01:44 [financialjuice/FirstSquawk] Trump: Zelenskiy had better stop immediately
-- 10/11 01:45 [financialjuice/FirstSquawk] Trump: suggests they appoint a new leader to facilitate a deal
-- 10/11 01:45 [financialjuice/FirstSquawk] Trump: time for Ukraine to appoint a new leader
-- 10/11 01:46 [financialjuice/FirstSquawk] Trump at Riyadh airport: just learned about attack, will take action
-- 10/11 01:46 [financialjuice/FirstSquawk] Trump on Iran, attacks: will review situation
-- 10/11 02:06 [financialjuice/FirstSquawk] UK govt: UK Prime Minister talked with Ukrainian President Volodymyr Zelenskiy today
-- 10/11 02:07 [financialjuice/FirstSquawk] UK govt: Burnham and Zelenskiy discussed importance of sustaining pressure on Russia
-- 10/11 02:07 [financialjuice/FirstSquawk] Iran's Revolutionary Guards: oil tanker explodes after striking naval mine in Strait of Hormuz - state media
-- 10/11 02:07 [financialjuice/FirstSquawk] UK govt: Prime Minister Burnham affirms UK to intensify sanctions on Russia
-- 10/11 02:08 [financialjuice/FirstSquawk] UK government: emphasized Russia must agree to energy ceasefire, halt strikes on Ukrainian infrastructure and Black Sea shipping attacks
-- 10/11 02:08 [financialjuice/FirstSquawk] UK govt: Burnham and Zelenskiy set to meet in person in coming days to continue talks
-- 10/11 02:16 [DeItaone] TRUMP: TIME FOR UKRAINE TO GET A NEW PRESIDENT
-- 10/11 02:18 [DeItaone] TRUMP DEMANDS UKRAINE STOP STRIKING RUSSIAN OIL REFINERIES President Trump warned Zelensky to immediately stop attacks on Russian refineries, declaring: “He better damn well stop.” Trump also called for new leadership in Ukraine, saying: “I…
-- 10/11 02:19 [DeItaone] OIL TANKER EXPLODES AFTER REPORTED MINE STRIKE IN STRAIT OF HORMUZ Iran’s Revolutionary Guards say an oil tanker exploded and caught fire after striking a naval mine while crossing the Strait of Hormuz, according to Iranian state media. The…
-- 10/11 02:32 [FirstSquawk] Yemeni Armed Forces: We struck several high-value military targets deep within militia-controlled areas
-- 10/11 02:32 [FirstSquawk] Yemeni Armed Forces: We have successfully advanced on the ground and recaptured additional positions.
 - 10/11 03:06 [financialjuice] India's mission to Geneva on Delhi protests: acknowledges UN comments on today's events in New Delhi
 - 10/11 03:06 [financialjuice] India’s mission to Geneva on Delhi protests: Indians exercise right to demonstrate subject to reasonable public order restrictions
 - 10/11 03:11 [financialjuice] India's mission to Geneva on Delhi protests: OHCHR's concerns misplaced, amount to undue intervention in India's internal matters
@@ -241,3 +187,63 @@
 - 10/11 22:06 [financialjuice] UKMTO: received report of incident in Strait of Hormuz
 - 10/11 22:06 [financialjuice] UKMTO: tanker hit on port side by unidentified projectile
 - 10/11 22:06 [financialjuice] Ukmto: all crew members reported safe
+- 10/11 22:07 [financialjuice] UKMTO: ship sustained damage in incident
+- 10/11 22:10 [financialjuice] US Treasury Secretary Bessent: Russia diesel pact benefits Americans - Fox News
+- 10/11 22:11 [financialjuice] US Treasury Secretary Bessent: we will proceed using all legal powers available - fox news
+- 10/11 22:21 [FirstSquawk] French Foreign Ministry: Paris regrets the Palestinian president's decision to postpone the elections and calls for it to be reversed.
+- 10/11 22:22 [FirstSquawk] British maritime authority: Report of a tanker being hit by an unknown projectile in the Strait of Hormuz, sustaining damage, but the crew is safe.
+- 10/11 22:30 [financialjuice] Ukraine President Zelenskiy tells ABC: If Putin agrees to 60-day truce, Ukraine will hold elections
+- 10/11 22:42 [FirstSquawk] Fox News on the US Treasury Secretary: Iran no longer has any oil on board its ships and its cash flow has become negative.
+- 10/11 22:42 [FirstSquawk] Fox News on the US Treasury Secretary: After the maximum pressure campaign on Iran , we have now moved to a campaign of complete isolation
+- 10/11 22:43 [FirstSquawk] Fox News on the US Treasury Secretary: The complete isolation campaign aims to cut off Iran's ties with the outside world
+- 10/11 22:43 [FirstSquawk] Fox News, quoting the US Treasury Secretary: We will continue to pressure Iran by seizing cryptocurrencies and tightening the naval blockade.
+- 10/11 22:43 [FirstSquawk] Fox News, quoting the US Treasury Secretary: Iran launches drones every night, but has lost its surveillance capabilities, and its drones are hitting some ships.
+- 10/11 22:51 [FirstSquawk] Yemeni government forces: We carried out 8 airstrikes on Houthi positions around the city of Taiz
+- 10/11 22:51 [FirstSquawk] Zelensky: President Trump should demand that Putin not attack us until we stop targeting Russian energy facilities
+- 10/11 22:51 [FirstSquawk] Zelensky: Everyone understands very well that prices are rising because of the war in the Middle East and the closure of the Strait of Hormuz
+- 10/11 22:52 [financialjuice/FirstSquawk] Pakistan foreign minister Ishaq Dar: Pakistan condemns Houthi strike on King Khalid international airport in Riyadh
+- 10/11 22:52 [DeItaone] BESSENT SAYS RUSSIAN DIESEL DEAL WILL PROCEED DESPITE LEGAL QUESTIONS Treasury Secretary Scott Bessent says the Trump administration has existing legal authority to implement its Russian diesel supply deal, rejecting claims that congression…
+- 10/11 22:53 [financialjuice] Pakistan foreign minister Ishaq Dar: in contact with Saudi authorities, closely monitoring situation
+- 10/11 22:54 [financialjuice/FirstSquawk] Pakistan foreign minister Dar: instructed embassy in Riyadh to work with authorities to aid injured Pakistani nationals
+- 10/11 22:59 [financialjuice/FirstSquawk] Pakistan foreign minister: Pakistan remains committed to kingdom’s sovereignty, territorial integrity, security under Makkah joint defense pact
+- 10/11 23:00 [FirstSquawk] United Nations: Death toll from migrant boat sinking off Djibouti coast days ago rises to 139
+- 10/11 23:00 [FirstSquawk] AFP: Explosion heard in Riyadh
+- 10/11 23:13 [FirstSquawk] Secretary of Iran's Supreme National Security Council: Trump is smuggling oil with the help of bandits in the rocky coastal waters of the Sultanate of Oman
+- 10/11 23:14 [FirstSquawk] Secretary of Iran's Supreme National Security Council: The Strait of Hormuz is under our control and we are the ones who manage it.
+- 10/11 23:17 [financialjuice/FirstSquawk] Trump: effective immediately, there is an energy truce in conflict between Russia and Ukraine
+- 10/11 23:25 [DeItaone] TRUMP ANNOUNCES IMMEDIATE RUSSIA-UKRAINE ENERGY CEASEFIRE Trump says Russia and Ukraine have agreed to halt attacks on energy infrastructure, effective immediately. “Both parties have agreed. Do not break it!” Moscow and Kyiv have yet to co…
+- 10/11 23:27 [DeItaone] TRUMP: EFFECTIVE IMMEDIATELY, THERE IS AN ENERGY CEASEFIRE IN WAR BETWEEN RUSSIA AND UKRAINE
+- 10/11 23:31 [financialjuice] Saudi-led coalition: unidentified projectile targets terminal 4 at King Khalid airport in Riyadh
+- 10/11 23:35 [financialjuice] Saudi-led coalition: fire from attack is being directly managed by site authorities
+- 10/11 23:37 [financialjuice] Saudi-led coalition: air defense intercepts missile near Riyadh airport
+- 10/11 23:47 [financialjuice] Zelenskiy: Trump’s ceasefire declaration was news to me - Axios
+- 10/11 23:47 [financialjuice] Zelenskiy: Ukraine will agree if Russians accept energy ceasefire - Axios
+- 10/11 23:53 [DeItaone] ZELENSKIY SAYS TRUMP'S CEASEFIRE ANNOUNCEMENT WAS NEWS FOR HIM -AXIOS ZELENSKIY SAYS IF RUSSIANS AGREE TO AN ENERGY CEASEFIRE UKRAINE WILL AGREE -AXIOS
+- 10/12 00:00 [DeItaone] ZELENSKY BLINDSIDED BY TRUMP’S ENERGY CEASEFIRE ANNOUNCEMENT Zelensky says he knew nothing about the Russia-Ukraine energy ceasefire announced by Trump. “The ceasefire announcement was news for me.” However, Zelensky confirmed Ukraine is re…
+- 10/12 00:16 [FirstSquawk] Axios on Zelensky: Trump's ceasefire announcement was news to me
+- 10/12 00:16 [FirstSquawk] Axios on Zelensky: If Russia agrees to a ceasefire in the energy sector, Ukraine will agree too.
+- 10/12 00:17 [FirstSquawk] Axios on Zelensky: If Trump negotiated with Putin, please tell us when the energy truce will begin and we will accept it.
+- 10/12 00:40 [financialjuice] Zelenskiy: Ukraine backs ceasefire, stresses importance of Russia's support
+- 10/12 00:40 [financialjuice] Ukraine awaits details of ceasefire plans from U.S.: Zelenskiy
+- 10/12 00:42 [financialjuice] India shipping minister: on Oct 11, Marshall Islands-flagged tanker M/T Valthera with 11 Indian seafarers hit by projectile in Strait of Hormuz
+- 10/12 00:43 [financialjuice] India shipping minister: All 11 Indian crew members reported safe after unknown projectile hits M/T Valthera
+- 10/12 00:45 [FirstSquawk] ABC on Zelensky: It's easier to link oil prices to Ukraine, but everyone understands that it's a consequence of the war in the Middle East.
+- 10/12 00:45 [FirstSquawk] Zelensky: Ukraine supports the energy sector ceasefire announced by Trump
+- 10/12 00:46 [FirstSquawk] Zelensky: We are awaiting details of the US proposal for a ceasefire in the energy sector.
+- 10/12 00:51 [financialjuice/FirstSquawk] Iran security chief: US response to latest proposal ‘insufficient’ - Fars News Agency
+- 10/12 00:51 [financialjuice/FirstSquawk] Secretary of Iran's supreme national security council: US must clarify outstanding issues for Iran - Fars
+- 10/12 00:52 [financialjuice] Secretary of Iran's supreme national security council: US accepted some conditions, others remain unclear
+- 10/12 01:01 [financialjuice/FirstSquawk] Yemen's Houthis claim responsibility for deadly assault on Riyadh airport
+- 10/12 01:04 [financialjuice/FirstSquawk] Yemen's Houthis say they struck Dammam airport and Aramco facilities in Saudi eastern province; no immediate Saudi confirmation
+- 10/12 01:16 [financialjuice/FirstSquawk] European Commission: President von der Leyen backs Ukraine president Zelenskiy’s call for ceasefire with Russia
+- 10/12 01:16 [financialjuice/FirstSquawk] Saudi civil aviation: injuries reported in assault on King Khaled airport in Riyadh on Sunday
+- 10/12 01:17 [financialjuice/FirstSquawk] European Commission: EU to increase funding for drones and missiles to boost Ukraine's defenses and secure its skies
+- 10/12 01:59 [FirstSquawk] THE EUROPEAN COMMISSION SAYS THE EU WILL INCREASE FUNDING FOR DRONES AND MISSILES TO BOOST UKRAINE’S DEFENSES AND SECURE ITS SKIES, WITH PRESIDENT VON DER LEYEN BACKING UKRAINE PRESIDENT ZELENSKIY’S CALL FOR A CEASEFIRE WITH RUSSIA
+- 10/12 02:03 [FirstSquawk] RUSSIA HIT KHARKIV’S MAIN POWER PLANT HOURS AFTER TRUMP ANNOUNCED AN ‘ENERGY CEASEFIRE’, WITH ZELENSKY CONFIRMING THE HIT ON CHP-5 — A MAJOR HEAT-AND-POWER FACILITY — AND SAYING RUSSIA CARRIED OUT MORE THAN 200 ATTACKS ON UKRAINIAN ENERGY I…
+- 10/12 02:04 [FirstSquawk] RUSSIA’S ROSATOM SAYS 135 RUSSIAN STAFF ARE NOW BACK AT IRAN’S BUSHEHR NUCLEAR PLANT, UP FROM AROUND 20 WHO STAYED AFTER THE FEBRUARY EVACUATION, HAVING EVACUATED MORE THAN 600 STAFF WHEN U.S.-ISRAELI STRIKES ON IRAN BEGAN IN LATE FEBRUARY …
+- 10/12 02:22 [financialjuice/FirstSquawk] US threatens to block weapons for Ukraine over assaults on Russian refineries - FT
+- 10/12 02:22 [FirstSquawk] NATO OFFICIAL SAYS RUSSIA SUFFERED OVER 50,000 CASUALTIES IN UKRAINE LAST MONTH, INCLUDING UP TO 28,000 KILLED, COMPARED WITH ABOUT 5,000 UKRAINIAN CASUALTIES. UKRAINIAN FORCES HAVE ALSO RECAPTURED OVER 125 SQ. KM OF TERRITORY.
+- 10/12 02:22 [FirstSquawk] RUSSIA’S DEFENSE SPENDING IS EXPECTED TO APPROACH 17 TRILLION RUBLES ($199 BILLION) THIS YEAR, ABOUT 40% ABOVE THE ORIGINAL BUDGET PLAN. THE CASUALTY FIGURES COULD NOT BE INDEPENDENTLY VERIFIED, AND MOSCOW DOES NOT PUBLISH OFFICIAL BATTLEFI…
+- 10/12 02:23 [financialjuice/FirstSquawk] US lobbied European capitals and Kyiv to halt attacks on Russian oil refineries: FT
+- 10/12 02:23 [FirstSquawk] U.S. HAS THREATENED TO BLOCK ARMS FOR UKRAINE OVER ITS ATTACKS ON RUSSIAN REFINERIES, LOBBYING EUROPEAN CAPITALS AND KYIV IN AN ATTEMPT TO END THE ATTACKS ON RUSSIAN OIL REFINERIES - FT
+- 10/12 02:57 [FirstSquawk] A RUSSIAN STRIKE NEAR A GROCERY STORE IN KHARKIV, UKRAINE’S SECOND-LARGEST CITY, HAS KILLED THREE AND INJURED NINE, OFFICIALS SAY, WHILE AN ATTACK ON IVANO-FRANKIVSK IN WESTERN UKRAINE KILLED TWO, THE MAYOR SAYS
