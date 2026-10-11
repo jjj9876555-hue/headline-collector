@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-11 06:35 JST／対象: 10/10 06:35 〜 10/11 06:35 JST（時刻はすべて日本時間）
+生成: 2026-10-11 09:25 JST／対象: 10/10 09:25 〜 10/11 09:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 10/10 21:17 | 10/11 02:19 | ⚠ 299分（21:17→02:16） |
-| FirstSquawk | 93 | 10/10 15:03 | 10/11 03:26 | ⚠ 60分（16:52→17:52） |
-| financialjuice | 83 | 10/10 06:41 | 10/11 05:56 | ⚠ 136分（15:27→17:44） |
+| FirstSquawk | 108 | 10/10 15:03 | 10/11 09:22 | ⚠ 335分（03:26→09:02） |
+| financialjuice | 86 | 10/10 10:13 | 10/11 09:11 | ⚠ 136分（15:27→17:44） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 162 行（統合前 180 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 180 行（統合前 198 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/10 06:41 [financialjuice] Trump on offensive in Saudi Arabia: not pleased with situation
-- 10/10 06:41 [financialjuice] Kremlin: Putin and Trump discussed major economic projects, including Russian fuel deliveries
-- 10/10 06:41 [financialjuice] Kremlin: significant focus given to Ukrainian settlement during call
-- 10/10 06:41 [financialjuice] Kremlin: Putin told Trump Russia will consider when to restart peace talks
-- 10/10 06:41 [financialjuice] Kremlin: Trump embraced Russia’s role in Iran settlement
-- 10/10 06:41 [financialjuice] Kremlin: phone call duration 1.5 hours
-- 10/10 06:41 [financialjuice] Kremlin: Putin and Trump interested in attending Apec summit in China in November
-- 10/10 06:41 [financialjuice] Witkoff on Ukraine talks: conversation was constructive and highlighted areas for additional exploration
-- 10/10 06:41 [financialjuice] Witkoff on Ukraine talks: Participants reaffirm shared commitment to ongoing diplomacy
-- 10/10 07:07 [financialjuice] Super Micro contractor admits guilt in plot to reroute computer servers with Nvidia AI chips to China, court docket says
-- 10/10 07:31 [financialjuice] Sequoia-backed startup Nuvacore raising hundreds of millions at about $2.5 billion valuation, sources say
-- 10/10 07:44 [financialjuice] Negotiators for US, Ukraine and Russia hold six-hour talks in Miami for joint proposal to end war in Ukraine, source says
-- 10/10 07:45 [financialjuice] Negotiators hope to finalize deal on unified Ukraine plan in coming weeks, source says
-- 10/10 07:46 [financialjuice] Negotiations in Miami covered post-war economic aid for Ukraine and possible new Europe-Russia security framework, source says
-- 10/10 07:50 [financialjuice] Trump administration: now requiring AI companies to report and fix security breaches after Anthropic’s 'fraudulent' use of government systems - Axios
-- 10/10 08:28 [financialjuice] Trump asks US Supreme Court to review dismissed lawsuit accusing Hillary Clinton of conspiracy in 2016 election
 - 10/10 10:13 [financialjuice] Trump: we won’t forget Norway’s refusal to award Nobel Peace Prize to the US
 - 10/10 10:23 [financialjuice] China conducts no 7-day reverse repos: statement
 - 10/10 11:54 [financialjuice] Taiwan president: Taiwan may be small, but we protect freedom, democracy, human rights, and the rule of law
@@ -186,3 +170,37 @@
 - 10/11 04:05 [financialjuice] Latest SPR release to ease disruptions from US storm: Energy Dept
 - 10/11 04:33 [financialjuice] Ukmto says several vessels near UAE's Ras al Khaimah ordered to leave anchorages via VHF broadcast
 - 10/11 05:56 [financialjuice] Saudi-led coalition: projectile landed near King Fahd International Airport in Dammam
+- 10/11 06:50 [financialjuice] At least 12 killed and 309 injured in Saturday strike on King Khalid International Airport in Riyadh, Saudi civil aviation authority
+- 10/11 07:09 [financialjuice] UKMTO reports incident in Strait of Hormuz
+- 10/11 07:09 [financialjuice] Ukmto: master of outbound tanker reports port side hit by unidentified projectile, causing fire on board
+- 10/11 07:10 [financialjuice] UKMTO: crew reported safe, damage assessment and environmental impact unknown at time of report
+- 10/11 07:22 [financialjuice] Saudi-led coalition: intercepted and destroyed ballistic missile in al-Kharj launched by Yemen's Houthis - post on X
+- 10/11 07:59 [financialjuice] Saudi-led coalition: Yemen's Houthis responsible for Saturday attack on King Khalid Airport in Riyadh
+- 10/11 08:00 [financialjuice] Saudi-led coalition: Houthi assault on Riyadh airport a war crime
+- 10/11 08:00 [financialjuice] Justice Dept. investigating TV networks over Trump pool coverage: New York Times
+- 10/11 08:01 [financialjuice] Saudi-led coalition: will respond firmly to attack
+- 10/11 08:47 [financialjuice] US Justice Department spokesperson: antitrust division is merely probing whether news organizations breached competition laws
+- 10/11 08:55 [financialjuice] US Secretary of State Rubio: United States strongly denounces recent assaults on Saudi Arabia
+- 10/11 08:59 [financialjuice] Rubio: American killed in assaults
+- 10/11 09:02 [FirstSquawk] Riyadh airport attack leaves 12 dead and more than 300 wounded, according to Saudi officials - Politico
+- 10/11 09:03 [FirstSquawk] Rubio says an American citizen was killed in the attacks.
+- 10/11 09:03 [FirstSquawk] Yemen's air force to target Houthi military installations and cut off supply lines, Al Arabiya reports, citing a military source.
+- 10/11 09:04 [financialjuice] Saudi-led coalition: drone destroyed in Saudi Arabia's eastern region
+- 10/11 09:04 [FirstSquawk] Yemeni military source: Eastern and western Taiz supply routes identified as “kill boxes” against Houthi forces, Al Arabiya reports.
+- 10/11 09:05 [FirstSquawk] US Secretary of State Rubio: Washington strongly condemns recent assaults on Saudi Arabia.
+- 10/11 09:06 [FirstSquawk] DOJ opens official probes into five major US news networks: ABC, CBS, CNN, NBC and Fox News.
+- 10/11 09:06 [FirstSquawk] Yemen's armed forces identify several Houthi targets in Taiz, military source says.
+- 10/11 09:07 [financialjuice] Trump: Ukraine needs to hold an election
+- 10/11 09:08 [FirstSquawk] DOJ spokesperson says antitrust division is investigating potential competition law violations by news organizations.
+- 10/11 09:09 [financialjuice] US Centcom: commercial cargo vessel disabled in Gulf of Oman after crew ignored warnings, tried to breach naval blockade on Iran
+- 10/11 09:10 [financialjuice] Trump: would like to see Fetterman switch to Republican
+- 10/11 09:10 [financialjuice] US Centcom: Military fighter jet hit stern of Panama-flagged M/V Ocean Molica with precision munition, completely disabling ship's propulsion
+- 10/11 09:11 [financialjuice] US Centcom: large cargo ship tried to pass regional waters after leaving Iranian port
+- 10/11 09:11 [financialjuice] Trump: calls Saudi attack 'a terrible thing'
+- 10/11 09:14 [FirstSquawk] Nvidia discusses additional funding for Reflection AI or a possible takeover, according to the Financial Times.
+- 10/11 09:16 [FirstSquawk] UN envoy to Yemen: Houthi strikes on Saudi Arabia mark a dangerous escalation, undermining regional security and peace initiatives.
+- 10/11 09:18 [FirstSquawk] NYT reports DOJ investigation into TV networks’ coverage of Trump’s press pool.
+- 10/11 09:20 [FirstSquawk] Toshiba to Double HDD Supply Amid AI Memory Shortage Toshiba plans to double hard-disk drive supply to address a memory gap driven by AI demand. The Japanese technology group will expand its Philippine plant and increase storage capacity pe…
+- 10/11 09:21 [FirstSquawk] Riyadh airport attack leaves at least 12 dead and over 300 injured; officials attribute strike to Houthis.
+- 10/11 09:22 [FirstSquawk] Yemen’s Al-Alimi renews pledge to press ahead with Operation Dawn of Yemen.
+- 10/11 09:22 [FirstSquawk] Al-Alimi stresses the shared security interests of Saudi Arabia and Yemen and their peoples.

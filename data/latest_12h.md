@@ -7,50 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-11 06:35 JST／対象: 10/10 18:35 〜 10/11 06:35 JST（時刻はすべて日本時間）
+生成: 2026-10-11 09:25 JST／対象: 10/10 21:25 〜 10/11 09:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 4 | 10/10 21:17 | 10/11 02:19 | ⚠ 299分（21:17→02:16） |
-| FirstSquawk | 70 | 10/10 18:49 | 10/11 03:26 | ⚠ 49分（02:32→03:22） |
-| financialjuice | 43 | 10/10 19:54 | 10/11 05:56 | ⚠ 83分（04:33→05:56） |
+| DeItaone | 3 | 10/11 02:16 | 10/11 02:19 | 1分（02:16→02:18） |
+| FirstSquawk | 64 | 10/10 21:54 | 10/11 09:22 | ⚠ 335分（03:26→09:02） |
+| financialjuice | 57 | 10/10 22:07 | 10/11 09:11 | ⚠ 83分（04:33→05:56） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 99 行（統合前 117 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 106 行（統合前 124 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/10 18:49 [FirstSquawk] TASS about the Kremlin: Putin conveyed to Trump in agreement with Bezshkian the Iranian side's vision for a possible solution to the conflict
-- 10/10 18:51 [FirstSquawk] Japan Pushes Back Against US Sanctions on ICC Japanese Prime Minister Sanae Takaichi has expressed “deep concern” over US sanctions against the International Criminal Court (ICC), saying the move is incompatible with Japan’s position. She p…
-- 10/10 19:20 [FirstSquawk] Kremlin: The bulk of the contact between Putin and Trump was devoted to settling the conflict in Ukraine at the request of the US side
-- 10/10 19:20 [FirstSquawk] Kremlin: Putin expressed his understanding of some of Trump's proposals on de-escalation steps in Ukraine during their call
-- 10/10 19:21 [FirstSquawk] Lebanese News Agency: Israeli artillery shelling targets the town of Al-Mansouri and the Wadi Zabqin area in southern Lebanon
-- 10/10 19:21 [FirstSquawk] Syrian media: Israeli patrol infiltrates Arna Darbel road in western Damascus countryside
-- 10/10 19:21 [FirstSquawk] Kremlin: Putin conveyed to Trump, in coordination with Iran, Tehran's view on the possibility of reaching a settlement to the conflict
-- 10/10 19:21 [FirstSquawk] 4 Palestinians were killed in an Israeli raid on the western neighborhood of Rimal in Gaza City
-- 10/10 19:21 [FirstSquawk] Germany announces its intention to continue pushing for new sanctions on Russia despite the US deal on diesel
-- 10/10 19:25 [FirstSquawk] UKRAINE: IT HIT RUSSIA'S SAMARA OIL PUMPING STATION
-- 10/10 19:54 [financialjuice] Four civilians killed in Russia-controlled Luhansk region of Ukraine in past 24 hours: Russia-installed governor
-- 10/10 20:11 [FirstSquawk] Yemeni Government Forces: We Continue Our Field Advance on the West Coast Fronts and Strengthen Our Positions
-- 10/10 20:14 [FirstSquawk] Ukrainian media quoting the Ministry of Energy: Widespread power outages in Kyiv following Russian attacks
-- 10/10 20:15 [FirstSquawk] Ukrainian General Staff: We targeted an oil pumping and storage plant in Russia's Samara province
-- 10/10 20:21 [FirstSquawk] Ukraine Strikes Russia’s Samara Oil Pumping Station Again Ukrainian forces have struck a linear oil dispatching station in Prosvet, in Russia’s Samara region, according to Ukraine’s General Staff. The attack marks another strike on Russian …
-- 10/10 20:23 [FirstSquawk] Europe’s Carmakers Get Temporary Relief From China Ahead of Paris Motor Show European automakers, including Volkswagen, Stellantis and Renault, have received a boost after China and the European Union reached an agreement in principle to re…
-- 10/10 20:25 [FirstSquawk] Russia to Ease Diesel Export Restrictions, Deputy PM Says Russia plans to gradually lift restrictions on diesel fuel exports, Deputy Prime Minister Alexander Novak said on October 9, following US President Donald Trump’s announcement of a d…
-- 10/10 20:39 [financialjuice] Palestinian President Abbas issues decree cancelling legislative elections set for Nov. 28, 2026 - state news agency
-- 10/10 20:39 [financialjuice] Palestinian President Abbas schedules presidential and legislative elections for September 11, 2027: state news agency
-- 10/10 20:39 [FirstSquawk] PALESTINIAN PRESIDENT ABBAS: ISSUES DECREE CANCELLING LEGISLATIVE ELECTIONS SCHEDULED FOR NOVEMBER 28, 2026 - STATE NEWS AGENCY
-- 10/10 20:40 [FirstSquawk] PALESTINIAN PRESIDENT ABBAS: SETS PRESIDENTIAL AND LEGISLATIVE ELECTIONS FOR SEPTEMBER 11, 2027 - STATE NEWS AGENCY
-- 10/10 20:41 [FirstSquawk] UKRAINIAN NEGOTIATING TEAM CUT US TRIP SHORT - FT
-- 10/10 20:43 [FirstSquawk] UKRAINE TEAM CUT TRIP SHORT INSTEAD OF SECOND ROUND OF TALKS - FT
-- 10/10 21:07 [financialjuice] Trump: despite everything, I or United States did not receive Nobel peace prize
-- 10/10 21:15 [FirstSquawk] TRUMP SAYS WITH ALL OF THAT I, OR UNITED STATES OF AMERICA, DID NOT GET NOBLE PEACE PRIZE
-- 10/10 21:17 [DeItaone] TRUMP SLAMS NOBEL PEACE PRIZE SNUB Trump says he settled eight wars, secured hostage releases and prevented Iran from obtaining nuclear weapons. Yet, despite those claimed achievements, he did not receive the Nobel Peace Prize. “WOW!” Trump…
-- 10/10 21:22 [financialjuice] Trump: with all of that I, or United States of America, did not receive Nobel peace prize (refiles to fix typo in 'Nobel')
 - 10/10 21:54 [FirstSquawk] EU: PLANS MEASURES TO CUT IMPORTS OF CHINESE HYBRID CARS BY HALF
 - 10/10 22:07 [financialjuice] Loud explosion heard at Riyadh airport: eyewitness, sources
 - 10/10 22:07 [financialjuice] No immediate reaction from Saudi authorities on airport incident
@@ -123,3 +96,37 @@
 - 10/11 04:05 [financialjuice] Latest SPR release to ease disruptions from US storm: Energy Dept
 - 10/11 04:33 [financialjuice] Ukmto says several vessels near UAE's Ras al Khaimah ordered to leave anchorages via VHF broadcast
 - 10/11 05:56 [financialjuice] Saudi-led coalition: projectile landed near King Fahd International Airport in Dammam
+- 10/11 06:50 [financialjuice] At least 12 killed and 309 injured in Saturday strike on King Khalid International Airport in Riyadh, Saudi civil aviation authority
+- 10/11 07:09 [financialjuice] UKMTO reports incident in Strait of Hormuz
+- 10/11 07:09 [financialjuice] Ukmto: master of outbound tanker reports port side hit by unidentified projectile, causing fire on board
+- 10/11 07:10 [financialjuice] UKMTO: crew reported safe, damage assessment and environmental impact unknown at time of report
+- 10/11 07:22 [financialjuice] Saudi-led coalition: intercepted and destroyed ballistic missile in al-Kharj launched by Yemen's Houthis - post on X
+- 10/11 07:59 [financialjuice] Saudi-led coalition: Yemen's Houthis responsible for Saturday attack on King Khalid Airport in Riyadh
+- 10/11 08:00 [financialjuice] Saudi-led coalition: Houthi assault on Riyadh airport a war crime
+- 10/11 08:00 [financialjuice] Justice Dept. investigating TV networks over Trump pool coverage: New York Times
+- 10/11 08:01 [financialjuice] Saudi-led coalition: will respond firmly to attack
+- 10/11 08:47 [financialjuice] US Justice Department spokesperson: antitrust division is merely probing whether news organizations breached competition laws
+- 10/11 08:55 [financialjuice] US Secretary of State Rubio: United States strongly denounces recent assaults on Saudi Arabia
+- 10/11 08:59 [financialjuice] Rubio: American killed in assaults
+- 10/11 09:02 [FirstSquawk] Riyadh airport attack leaves 12 dead and more than 300 wounded, according to Saudi officials - Politico
+- 10/11 09:03 [FirstSquawk] Rubio says an American citizen was killed in the attacks.
+- 10/11 09:03 [FirstSquawk] Yemen's air force to target Houthi military installations and cut off supply lines, Al Arabiya reports, citing a military source.
+- 10/11 09:04 [financialjuice] Saudi-led coalition: drone destroyed in Saudi Arabia's eastern region
+- 10/11 09:04 [FirstSquawk] Yemeni military source: Eastern and western Taiz supply routes identified as “kill boxes” against Houthi forces, Al Arabiya reports.
+- 10/11 09:05 [FirstSquawk] US Secretary of State Rubio: Washington strongly condemns recent assaults on Saudi Arabia.
+- 10/11 09:06 [FirstSquawk] DOJ opens official probes into five major US news networks: ABC, CBS, CNN, NBC and Fox News.
+- 10/11 09:06 [FirstSquawk] Yemen's armed forces identify several Houthi targets in Taiz, military source says.
+- 10/11 09:07 [financialjuice] Trump: Ukraine needs to hold an election
+- 10/11 09:08 [FirstSquawk] DOJ spokesperson says antitrust division is investigating potential competition law violations by news organizations.
+- 10/11 09:09 [financialjuice] US Centcom: commercial cargo vessel disabled in Gulf of Oman after crew ignored warnings, tried to breach naval blockade on Iran
+- 10/11 09:10 [financialjuice] Trump: would like to see Fetterman switch to Republican
+- 10/11 09:10 [financialjuice] US Centcom: Military fighter jet hit stern of Panama-flagged M/V Ocean Molica with precision munition, completely disabling ship's propulsion
+- 10/11 09:11 [financialjuice] US Centcom: large cargo ship tried to pass regional waters after leaving Iranian port
+- 10/11 09:11 [financialjuice] Trump: calls Saudi attack 'a terrible thing'
+- 10/11 09:14 [FirstSquawk] Nvidia discusses additional funding for Reflection AI or a possible takeover, according to the Financial Times.
+- 10/11 09:16 [FirstSquawk] UN envoy to Yemen: Houthi strikes on Saudi Arabia mark a dangerous escalation, undermining regional security and peace initiatives.
+- 10/11 09:18 [FirstSquawk] NYT reports DOJ investigation into TV networks’ coverage of Trump’s press pool.
+- 10/11 09:20 [FirstSquawk] Toshiba to Double HDD Supply Amid AI Memory Shortage Toshiba plans to double hard-disk drive supply to address a memory gap driven by AI demand. The Japanese technology group will expand its Philippine plant and increase storage capacity pe…
+- 10/11 09:21 [FirstSquawk] Riyadh airport attack leaves at least 12 dead and over 300 injured; officials attribute strike to Houthis.
+- 10/11 09:22 [FirstSquawk] Yemen’s Al-Alimi renews pledge to press ahead with Operation Dawn of Yemen.
+- 10/11 09:22 [FirstSquawk] Al-Alimi stresses the shared security interests of Saudi Arabia and Yemen and their peoples.
