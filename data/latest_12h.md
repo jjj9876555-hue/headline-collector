@@ -7,55 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-12 03:03 JST／対象: 10/11 15:03 〜 10/12 03:03 JST（時刻はすべて日本時間）
+生成: 2026-10-12 06:50 JST／対象: 10/11 18:50 〜 10/12 06:50 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 6 | 10/11 19:54 | 10/12 00:00 | ⚠ 178分（19:54→22:52） |
-| FirstSquawk | 80 | 10/11 15:42 | 10/12 02:57 | ⚠ 60分（19:53→20:54） |
-| financialjuice | 45 | 10/11 16:07 | 10/12 02:23 | ⚠ 116分（18:23→20:20） |
+| DeItaone | 9 | 10/11 19:54 | 10/12 06:41 | ⚠ 268分（00:00→04:28） |
+| FirstSquawk | 58 | 10/11 18:53 | 10/12 04:58 | ⚠ 86分（03:31→04:58） |
+| financialjuice | 57 | 10/11 20:20 | 10/12 06:39 | ⚠ 64分（01:17→02:22） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 115 行（統合前 131 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 107 行（統合前 124 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/11 15:42 [FirstSquawk] India-US trade deal: Goyal says pact negotiations to be finalised in line with changed circumstances
-- 10/11 16:07 [financialjuice] Saudi energy ministry: 25th WPC energy congress begins in Riyadh on Sunday - post on X
-- 10/11 16:16 [FirstSquawk] Sweden's election has unleashed anarchy in its parliament, yet the country is undaunted in fixing its problems. The UK should take note
-- 10/11 16:17 [FirstSquawk] Iranian Foreign Minister Abbas Araghchi said US-Israeli strikes on oil, refinery and energy facilities in Iran created serious environmental risks.
-- 10/11 16:17 [FirstSquawk] The environment can no longer be considered a silent victim of war,” he said at a conference on Sunday. Araghchi said oil fires near Tehran released hazardous substances that could contaminate air, soil and water and affect the food chain.
-- 10/11 16:17 [FirstSquawk] He called for independent documentation of war-related environmental damage, accountability and compensation.
-- 10/11 16:18 [FirstSquawk] Uber exited Nigeria and Uganda, adding to earlier departures from Tanzania and Ivory Coast as the ride-hailing giant finds that Africans are prioritizing cost over comfort and safety
-- 10/11 16:19 [FirstSquawk] US special envoys Steve Witkoff and Jared Kushner may visit Russia in the coming weeks following a phone call between Donald Trump and Vladimir Putin.
-- 10/11 16:19 [FirstSquawk] Saudi energy ministry: 25th WPC energy congress begins in Riyadh on Sunday
-- 10/11 16:19 [financialjuice] Yemen's Houthis renew warning to airlines, workers and travelers against using airports in Saudi Arabia
-- 10/11 16:20 [financialjuice] Yemen's Houthis say warning should be taken seriously: Saudi Arabia bears responsibility for failed interceptions
-- 10/11 16:52 [FirstSquawk] Europe is still not moving toward becoming independent from the United States. If anything, it's just adding more dependency
-- 10/11 16:52 [FirstSquawk] Former US envoy Keith Kellogg backed Kyiv’s strikes on Russian refineries, warning Putin has ulterior motives in his diesel deal to ease pressure on Moscow.
-- 10/11 16:53 [FirstSquawk] Yemen’s Iran-backed Houthis on Sunday renewed their warning to airlines, airport workers and travelers against using Saudi airports after an attack on Riyadh’s King Khalid International Airport.
-- 10/11 16:54 [FirstSquawk] Yemen Houthis say warning should be taken seriously: Saudi Arabia bears responsibility for failed interceptions
-- 10/11 16:54 [FirstSquawk] Iran’s response to any new military action would differ from its past responses, the deputy foreign minister said during a visit to southern Hormozgan province on Sunday.
-- 10/11 17:45 [FirstSquawk] AI companies are embracing cute mascots like Jolly for Meta's Muse, and Dots for OpenAI. Experts say it's making people feel more comfortable with AI.
-- 10/11 17:46 [FirstSquawk] Japan protested Russia’s extradition requests for ICC President Tomoko Akane and eight other officials, calling the measures “unjust and unacceptable.”
-- 10/11 17:46 [FirstSquawk] Moscow issued warrants for the nine officials following the ICC’s 2023 arrest warrant for Putin over alleged war crimes in Ukraine. A Russian court sentenced them in absentia last year.
-- 10/11 17:46 [FirstSquawk] Japanese Prime Minister Sanae Takaichi criticized the sanctions, reaffirming Japan’s support for the ICC and pledging to continue engaging with Washington
-- 10/11 17:47 [FirstSquawk] Atomic Energy Organization of Iran chief Mohammad Eslami accused international bodies and the International Atomic Energy Agency of remaining silent about attacks on Iranian nuclear and non-nuclear facilities
-- 10/11 17:47 [FirstSquawk] US lawmakers are preparing bipartisan legislation to ban Russian oil imports and block Donald Trump’s diesel deal.
-- 10/11 17:47 [FirstSquawk] The bill, backed by Brian Fitzpatrick and Don Bacon, aims to cut funds to the Kremlin after Bacon condemned the administration's policy.
-- 10/11 18:10 [financialjuice] Russia says it captured four settlements in Ukraine - Ifax
-- 10/11 18:19 [financialjuice] Ukraine ready to halt strikes on Russian refineries if Russia ceases attacks on energy infrastructure: Zelenskiy
-- 10/11 18:20 [financialjuice] Any de-escalation steps must be mutual and backed by real guarantees: Zelenskiy
-- 10/11 18:23 [financialjuice] Zelenskiy: We will continue coordinating with European partners today, discussing air defense packages
-- 10/11 18:41 [FirstSquawk] Pakistani president declares state of emergency in Khyber province, which is witnessing protests
-- 10/11 18:41 [FirstSquawk] Polish Interior Ministry: Police received information about a possible attack on the Prime Minister and the Minister of Defense
-- 10/11 18:41 [FirstSquawk] UAE Ministry of Foreign Affairs: The UAE strongly condemns the Houthi group's attacks on King Khalid International Airport.
-- 10/11 18:41 [FirstSquawk] United Nations: 109 migrants dead and 116 missing after boat capsized off the coast of Djibouti
-- 10/11 18:42 [FirstSquawk] Interfax: Russian forces say they have captured four new villages in Ukraine
 - 10/11 18:53 [FirstSquawk] Zelensky: Ukraine will halt attacks on refineries if Russia stops its attacks on the energy sector.
 - 10/11 19:34 [FirstSquawk] Asian gold producers begin hoarding domestic supplies after price rises - Nikkei
 - 10/11 19:36 [FirstSquawk] Porsche shifts back to gas engines after EV, China struggles; German automaker regroups but faces rising competition from Chinese sports cars - Nikkei
@@ -139,3 +107,27 @@
 - 10/12 02:23 [financialjuice/FirstSquawk] US lobbied European capitals and Kyiv to halt attacks on Russian oil refineries: FT
 - 10/12 02:23 [FirstSquawk] U.S. HAS THREATENED TO BLOCK ARMS FOR UKRAINE OVER ITS ATTACKS ON RUSSIAN REFINERIES, LOBBYING EUROPEAN CAPITALS AND KYIV IN AN ATTEMPT TO END THE ATTACKS ON RUSSIAN OIL REFINERIES - FT
 - 10/12 02:57 [FirstSquawk] A RUSSIAN STRIKE NEAR A GROCERY STORE IN KHARKIV, UKRAINE’S SECOND-LARGEST CITY, HAS KILLED THREE AND INJURED NINE, OFFICIALS SAY, WHILE AN ATTACK ON IVANO-FRANKIVSK IN WESTERN UKRAINE KILLED TWO, THE MAYOR SAYS
+- 10/12 03:17 [financialjuice] UKMTO reports incident involving tanker near Sohar anchorage, Oman
+- 10/12 03:17 [financialjuice] UKMTO: status of crew, damage evaluation, and environmental impact unknown at time of report
+- 10/12 03:24 [FirstSquawk] UKMTO SAYS IT HAS RECEIVED A REPORT OF AN INCIDENT INVOLVING A TANKER NEAR THE SOHAR ANCHORAGE, OMAN, WITH THE STATUS OF THE CREW, DAMAGE EVALUATION AND ENVIRONMENTAL IMPACT UNKNOWN AT THE TIME OF THE REPORT
+- 10/12 03:28 [financialjuice] Saudi civil aviation: Dammam airport targeted on Sunday evening
+- 10/12 03:29 [financialjuice] Saudi civil aviation: efforts underway to evaluate airport damage
+- 10/12 03:31 [FirstSquawk] SAUDI CIVIL AVIATION SAYS DAMMAM AIRPORT WAS TARGETED ON SUNDAY EVENING, WITH EFFORTS UNDERWAY TO EVALUATE THE AIRPORT DAMAGE
+- 10/12 04:05 [financialjuice] At least 72 Sudanese artisanal miners killed in Saturday airstrike: rights monitor
+- 10/12 04:28 [DeItaone] TRUMP’S RUSSIAN DIESEL DEAL SPARKS REPUBLICAN REVOLT Republican Senator Thom Tillis warns Trump’s Russian diesel deal may be illegal and put American lives at risk. Treasury Secretary Bessent defends the deal, while Canada condemns it. Mean…
+- 10/12 04:45 [financialjuice] Syria central bank issues first letter of credit to facilitate petroleum supply deal between Syrian Petroleum Company and Saudi Aramco: statement
+- 10/12 04:46 [financialjuice] Saudi-led coalition: drone intercepted and destroyed in eastern province
+- 10/12 04:52 [DeItaone] *WITKOFF, KUSHNER TRIP TO MOSCOW PUT ON HOLD: AXIOS
+- 10/12 04:53 [financialjuice/FirstSquawk] UK PM Andy Burnham discussed Trump's call today for a sustained energy ceasefire between Russia and Ukraine to start now
+- 10/12 05:00 [financialjuice] Saudi energy minister signs three energy collaboration agreements with Kuwait, Qatar and Egypt: state news agency
+- 10/12 05:03 [financialjuice] MOU between Saudi Arabia and Qatar aims to establish framework for collaboration in petroleum, gas, petrochemicals and explore joint pipeline opportunities for transport and export: S
+- 10/12 05:15 [financialjuice] Foreign ministers of Saudi Arabia and Iran discuss recent regional escalation: Saudi state news agency
+- 10/12 05:20 [financialjuice] Carney's office: Carney spoke to Trump
+- 10/12 05:20 [financialjuice] Canada's PM Carney: supports energy truce between Ukraine and Russia
+- 10/12 05:31 [financialjuice] Iran's foreign minister tells Saudi counterpart Tehran prepared to aid dialogue between Saudi and Yemen - post on Telegram
+- 10/12 06:05 [financialjuice] UKMTO: reclassified event at Anchorage in Oman’s Sohar as an attack
+- 10/12 06:05 [financialjuice] UKMTO: Tanker hit by drone, local authorities help evacuate crew
+- 10/12 06:10 [financialjuice] Amazon in talks to acquire AI startup Decart for about $7 billion - WSJ
+- 10/12 06:20 [financialjuice] UK embassy in Saudi Arabia cautions British citizens against all but essential travel to Jeddah, Dammam and all Saudi airports except Medina airport - post on X
+- 10/12 06:39 [financialjuice] Trump: new press secretary Zacharia to hold news conference on Tuesday
+- 10/12 06:41 [DeItaone] TRUMP: NEW PRESS SECRETARY ZACHARIA WILL HOLD A NEWS CONFERENCE ON TUESDAY

@@ -7,41 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-12 03:03 JST／対象: 10/11 03:03 〜 10/12 03:03 JST（時刻はすべて日本時間）
+生成: 2026-10-12 06:50 JST／対象: 10/11 06:50 〜 10/12 06:50 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 6 | 10/11 19:54 | 10/12 00:00 | ⚠ 178分（19:54→22:52） |
-| FirstSquawk | 156 | 10/11 03:22 | 10/12 02:57 | ⚠ 335分（03:26→09:02） |
-| financialjuice | 77 | 10/11 03:06 | 10/12 02:23 | ⚠ 148分（13:39→16:07） |
+| DeItaone | 9 | 10/11 19:54 | 10/12 06:41 | ⚠ 268分（00:00→04:28） |
+| FirstSquawk | 152 | 10/11 09:02 | 10/12 04:58 | ⚠ 86分（03:31→04:58） |
+| financialjuice | 85 | 10/11 07:09 | 10/12 06:39 | ⚠ 148分（13:39→16:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 223 行（統合前 239 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 229 行（統合前 246 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/11 03:06 [financialjuice] India's mission to Geneva on Delhi protests: acknowledges UN comments on today's events in New Delhi
-- 10/11 03:06 [financialjuice] India’s mission to Geneva on Delhi protests: Indians exercise right to demonstrate subject to reasonable public order restrictions
-- 10/11 03:11 [financialjuice] India's mission to Geneva on Delhi protests: OHCHR's concerns misplaced, amount to undue intervention in India's internal matters
-- 10/11 03:17 [financialjuice] Nvidia in talks to buy or increase stake in US start-up Reflection AI: FT
-- 10/11 03:22 [FirstSquawk] Saudi Civil Aviation Authority : An attack targeted King Khalid International Airport in Riyadh, resulting in a number of injuries.
-- 10/11 03:22 [FirstSquawk] Saudi Civil Aviation Authority : Operations at King Khalid International Airport in Riyadh are temporarily suspended pending damage assessment.
-- 10/11 03:22 [FirstSquawk] Saudi Foreign Ministry : We urge our citizens affected by the suspension of flights to Riyadh to contact our embassies abroad for assistance.
-- 10/11 03:22 [financialjuice] India’s mission to Geneva on Delhi protests: Indians exercise right to peaceful assembly subject to reasonable restrictions in interest of public order
-- 10/11 03:22 [FirstSquawk] Yemeni government forces: We carried out more than 1,900 targeting operations in the past 24 hours as part of Operation Dawn of Yemen
-- 10/11 03:23 [FirstSquawk] Israeli Channel 13, citing a security official: Talks recently took place between Netanyahu and Trump regarding striking Iran, but no final decision has been made.
-- 10/11 03:23 [FirstSquawk] Israeli Channel 12, quoting a senior official: There will be no Israeli-initiated attack on Iran before the elections.
-- 10/11 03:26 [FirstSquawk] Lebanese News Agency: Israeli army carries out two bombings in the city of Khiam in southern Lebanon
-- 10/11 03:40 [financialjuice] Russian government: partially lifts diesel export ban after Trump-Putin agreement
-- 10/11 04:03 [financialjuice] US energy department approves emergency swap of up to 4 million barrels of crude oil from strategic petroleum reserve
-- 10/11 04:05 [financialjuice] Latest SPR release to ease disruptions from US storm: Energy Dept
-- 10/11 04:33 [financialjuice] Ukmto says several vessels near UAE's Ras al Khaimah ordered to leave anchorages via VHF broadcast
-- 10/11 05:56 [financialjuice] Saudi-led coalition: projectile landed near King Fahd International Airport in Dammam
-- 10/11 06:50 [financialjuice] At least 12 killed and 309 injured in Saturday strike on King Khalid International Airport in Riyadh, Saudi civil aviation authority
 - 10/11 07:09 [financialjuice] UKMTO reports incident in Strait of Hormuz
 - 10/11 07:09 [financialjuice] Ukmto: master of outbound tanker reports port side hit by unidentified projectile, causing fire on board
 - 10/11 07:10 [financialjuice] UKMTO: crew reported safe, damage assessment and environmental impact unknown at time of report
@@ -247,3 +229,27 @@
 - 10/12 02:23 [financialjuice/FirstSquawk] US lobbied European capitals and Kyiv to halt attacks on Russian oil refineries: FT
 - 10/12 02:23 [FirstSquawk] U.S. HAS THREATENED TO BLOCK ARMS FOR UKRAINE OVER ITS ATTACKS ON RUSSIAN REFINERIES, LOBBYING EUROPEAN CAPITALS AND KYIV IN AN ATTEMPT TO END THE ATTACKS ON RUSSIAN OIL REFINERIES - FT
 - 10/12 02:57 [FirstSquawk] A RUSSIAN STRIKE NEAR A GROCERY STORE IN KHARKIV, UKRAINE’S SECOND-LARGEST CITY, HAS KILLED THREE AND INJURED NINE, OFFICIALS SAY, WHILE AN ATTACK ON IVANO-FRANKIVSK IN WESTERN UKRAINE KILLED TWO, THE MAYOR SAYS
+- 10/12 03:17 [financialjuice] UKMTO reports incident involving tanker near Sohar anchorage, Oman
+- 10/12 03:17 [financialjuice] UKMTO: status of crew, damage evaluation, and environmental impact unknown at time of report
+- 10/12 03:24 [FirstSquawk] UKMTO SAYS IT HAS RECEIVED A REPORT OF AN INCIDENT INVOLVING A TANKER NEAR THE SOHAR ANCHORAGE, OMAN, WITH THE STATUS OF THE CREW, DAMAGE EVALUATION AND ENVIRONMENTAL IMPACT UNKNOWN AT THE TIME OF THE REPORT
+- 10/12 03:28 [financialjuice] Saudi civil aviation: Dammam airport targeted on Sunday evening
+- 10/12 03:29 [financialjuice] Saudi civil aviation: efforts underway to evaluate airport damage
+- 10/12 03:31 [FirstSquawk] SAUDI CIVIL AVIATION SAYS DAMMAM AIRPORT WAS TARGETED ON SUNDAY EVENING, WITH EFFORTS UNDERWAY TO EVALUATE THE AIRPORT DAMAGE
+- 10/12 04:05 [financialjuice] At least 72 Sudanese artisanal miners killed in Saturday airstrike: rights monitor
+- 10/12 04:28 [DeItaone] TRUMP’S RUSSIAN DIESEL DEAL SPARKS REPUBLICAN REVOLT Republican Senator Thom Tillis warns Trump’s Russian diesel deal may be illegal and put American lives at risk. Treasury Secretary Bessent defends the deal, while Canada condemns it. Mean…
+- 10/12 04:45 [financialjuice] Syria central bank issues first letter of credit to facilitate petroleum supply deal between Syrian Petroleum Company and Saudi Aramco: statement
+- 10/12 04:46 [financialjuice] Saudi-led coalition: drone intercepted and destroyed in eastern province
+- 10/12 04:52 [DeItaone] *WITKOFF, KUSHNER TRIP TO MOSCOW PUT ON HOLD: AXIOS
+- 10/12 04:53 [financialjuice/FirstSquawk] UK PM Andy Burnham discussed Trump's call today for a sustained energy ceasefire between Russia and Ukraine to start now
+- 10/12 05:00 [financialjuice] Saudi energy minister signs three energy collaboration agreements with Kuwait, Qatar and Egypt: state news agency
+- 10/12 05:03 [financialjuice] MOU between Saudi Arabia and Qatar aims to establish framework for collaboration in petroleum, gas, petrochemicals and explore joint pipeline opportunities for transport and export: S
+- 10/12 05:15 [financialjuice] Foreign ministers of Saudi Arabia and Iran discuss recent regional escalation: Saudi state news agency
+- 10/12 05:20 [financialjuice] Carney's office: Carney spoke to Trump
+- 10/12 05:20 [financialjuice] Canada's PM Carney: supports energy truce between Ukraine and Russia
+- 10/12 05:31 [financialjuice] Iran's foreign minister tells Saudi counterpart Tehran prepared to aid dialogue between Saudi and Yemen - post on Telegram
+- 10/12 06:05 [financialjuice] UKMTO: reclassified event at Anchorage in Oman’s Sohar as an attack
+- 10/12 06:05 [financialjuice] UKMTO: Tanker hit by drone, local authorities help evacuate crew
+- 10/12 06:10 [financialjuice] Amazon in talks to acquire AI startup Decart for about $7 billion - WSJ
+- 10/12 06:20 [financialjuice] UK embassy in Saudi Arabia cautions British citizens against all but essential travel to Jeddah, Dammam and all Saudi airports except Medina airport - post on X
+- 10/12 06:39 [financialjuice] Trump: new press secretary Zacharia to hold news conference on Tuesday
+- 10/12 06:41 [DeItaone] TRUMP: NEW PRESS SECRETARY ZACHARIA WILL HOLD A NEWS CONFERENCE ON TUESDAY
