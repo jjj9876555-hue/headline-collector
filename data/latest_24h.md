@@ -7,45 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-11 09:25 JST／対象: 10/10 09:25 〜 10/11 09:25 JST（時刻はすべて日本時間）
+生成: 2026-10-11 15:18 JST／対象: 10/10 15:18 〜 10/11 15:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 10/10 21:17 | 10/11 02:19 | ⚠ 299分（21:17→02:16） |
-| FirstSquawk | 108 | 10/10 15:03 | 10/11 09:22 | ⚠ 335分（03:26→09:02） |
-| financialjuice | 86 | 10/10 10:13 | 10/11 09:11 | ⚠ 136分（15:27→17:44） |
+| FirstSquawk | 155 | 10/10 15:28 | 10/11 14:47 | ⚠ 335分（03:26→09:02） |
+| financialjuice | 74 | 10/10 15:27 | 10/11 13:39 | ⚠ 139分（11:12→13:31） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 180 行（統合前 198 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 215 行（統合前 233 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/10 10:13 [financialjuice] Trump: we won’t forget Norway’s refusal to award Nobel Peace Prize to the US
-- 10/10 10:23 [financialjuice] China conducts no 7-day reverse repos: statement
-- 10/10 11:54 [financialjuice] Taiwan president: Taiwan may be small, but we protect freedom, democracy, human rights, and the rule of law
-- 10/10 11:55 [financialjuice] Taiwan president: we understand cost of conflict, committed to peace and being a stabilizing force trusted by international community
-- 10/10 11:55 [financialjuice] Taiwan president: China persists in military and grey-zone pressure to shift status quo across Taiwan Strait
-- 10/10 11:55 [financialjuice] Taiwan president: the mighty cannot deny people their right to decide their own future
-- 10/10 11:57 [financialjuice] Taiwan president: increasing investment in national defence aims to deter war, not provoke
-- 10/10 11:57 [financialjuice] Taiwan president: we are boosting self-defence to ensure dialogue occurs on basis of parity and dignity, not to abandon talks
-- 10/10 11:57 [financialjuice] Taiwan president: we welcome US and China handling their rivalry through talks, lowering conflict and war risks
-- 10/10 11:57 [financialjuice] Taiwan president: there must be respect for the right of Taiwanese people to exist
-- 10/10 11:58 [financialjuice] Taiwan president: Taiwan values peace but will not surrender freedom; open to dialogue, rejects subordination
-- 10/10 11:58 [financialjuice] Taiwan president: resolute and responsible actions safeguard peace and stability in Taiwan Strait and Indo-Pacific
-- 10/10 12:50 [financialjuice] Trump on Hurricane Isaias: we're monitoring it very closely, the hurricane
-- 10/10 14:20 [financialjuice] Indian police detain founder of Cockroach youth movement Abhijeet Dipke: Cockroach Janta Party
-- 10/10 14:56 [financialjuice] Egypt's yearly urban consumer price inflation slows to 13.9% in September from 14.5% in August: Capmas
-- 10/10 15:03 [FirstSquawk] Putin claimed 90% of Russia's trade settlements with CIS nations now use national currencies to bypass Western sanctions.
-- 10/10 15:03 [FirstSquawk] Moscow relies on regional post-Soviet trade networks exceeding $110B to soften the impact of international export curbs.
-- 10/10 15:03 [FirstSquawk] Russia is providing missiles to Iran after Moscow reportedly helped Tehran target US bases across the region
-- 10/10 15:04 [FirstSquawk] Bitwise CEO Calls Dogecoin ETF Failure 'Tragic' as BWOW Set to Shut Down After Less Than a Year.
-- 10/10 15:04 [FirstSquawk] Egypt's yearly urban consumer price inflation slows to 13.9% in September
-- 10/10 15:05 [FirstSquawk] Egypt strongly condemned attacks on Riyadh’s King Khalid International Airport and a Saudi Airlines aircraft that killed three Saudi citizens and injured several civilians, the Egyptian foreign ministry said on Saturday.
-- 10/10 15:05 [FirstSquawk] AI is changing how lawyers work — and putting the billable hour under pressure
 - 10/10 15:27 [financialjuice] Seven killed in Russian strike on Ukraine's Zaporizhzhia, governor says
 - 10/10 15:28 [FirstSquawk] An Iranian lawmaker referred to what he called “contradictory statements” by US officials about Iran, saying they could reflect internal disagreements or be part of an effort to disrupt Tehran’s calculations.
 - 10/10 15:28 [FirstSquawk] Apple is scaling back iPhone 18 Pro production orders after rising memory chip costs triggered price hikes that cooled buyer demand.
@@ -204,3 +182,60 @@
 - 10/11 09:21 [FirstSquawk] Riyadh airport attack leaves at least 12 dead and over 300 injured; officials attribute strike to Houthis.
 - 10/11 09:22 [FirstSquawk] Yemen’s Al-Alimi renews pledge to press ahead with Operation Dawn of Yemen.
 - 10/11 09:22 [FirstSquawk] Al-Alimi stresses the shared security interests of Saudi Arabia and Yemen and their peoples.
+- 10/11 09:27 [FirstSquawk] Yemeni Leadership Council president strongly condemns Houthi assault on Saudi Arabia’s King Khalid International Airport.
+- 10/11 09:32 [FirstSquawk] Saudi-led coalition pledges a firm response to the assault.
+- 10/11 09:33 [FirstSquawk] Sanders claims taxpayers who paid just $1 in federal income taxes contributed more than Citigroup, which made $4 billion in profits, charged 32.74% on credit cards and slashed 20,000 jobs.
+- 10/11 09:34 [FirstSquawk] US Justice Department investigates TV networks over reporting on Trump’s press pool, according to the New York Times.
+- 10/11 09:40 [FirstSquawk] Trump condemns Houthi attack on Riyadh airport, says Saudi forces are capable of defending the kingdom - WSN
+- 10/11 09:42 [FirstSquawk] Trump denounces assault on Saudi Arabia as “terrible.”
+- 10/11 09:42 [FirstSquawk] Large cargo vessel attempted to cross regional waters after leaving Iran, US CENTCOM says.
+- 10/11 09:44 [FirstSquawk] US CENTCOM says a military fighter jet struck the stern of Panama-flagged M/V Ocean Molica with precision munition, completely disabling its propulsion.
+- 10/11 09:47 [FirstSquawk] Trump says he hopes Fetterman switches party affiliation to Republican.
+- 10/11 09:51 [FirstSquawk] Honda Eyes Cheaper EVs With Wireless Expressway Charging Honda plans to test technology that charges electric vehicles wirelessly while they are moving on expressways. The system could reduce range anxiety, ease dependence on charging infra…
+- 10/11 09:57 [FirstSquawk] Saudi-led coalition reports interception and destruction of a Houthi ballistic missile in Al-Kharj.
+- 10/11 09:58 [FirstSquawk] Saudi-led coalition reports interception of ballistic missile fired by Yemen’s Houthis toward Al-Kharj.
+- 10/11 10:03 [FirstSquawk] Microsoft’s Nadella calls for safeguards to act as an “emergency brake” on advanced AI.
+- 10/11 10:06 [FirstSquawk] UKMTO says all crew members are safe, while vessel damage and environmental impact remain unassessed.
+- 10/11 10:08 [FirstSquawk] Multiple fighter jets reportedly active over Iraq.
+- 10/11 10:10 [FirstSquawk] Maritime security incident reported in the Strait of Hormuz, UKMTO says.
+- 10/11 10:15 [FirstSquawk] Young Americans show greater openness to socialism, NBC poll finds 47% of voters aged 18–29 view capitalism negatively, while 42% have a positive view of socialism, NBC reports. Across all voters, 48% view capitalism positively, compared wi…
+- 10/11 10:19 [FirstSquawk] Saudi Civil Aviation confirms 321 casualties in attack on Riyadh’s King Khalid International Airport.
+- 10/11 10:21 [FirstSquawk] Eight residents killed following attack on Riyadh’s King Khalid International Airport, Saudi Civil Aviation says.
+- 10/11 10:31 [FirstSquawk] Saudi Civil Aviation reports 12 deaths following attack on King Khalid International Airport.
+- 10/11 10:37 [FirstSquawk] Federal court temporarily bars deportation of undocumented immigrant facing allegations of ramming ICE vehicles in New York City.
+- 10/11 10:38 [FirstSquawk] Japan aims to develop a cost-effective cruise missile capable of overwhelming air defenses. The system will incorporate civilian-grade components to reduce production costs - NA
+- 10/11 10:45 [FirstSquawk] Projectile Falls in the Vicinity of King Fahd International Airport in Dammam, Saudi Arabia
+- 10/11 10:46 [FirstSquawk] Trump-Russia Diesel Deal Draws Bipartisan Criticism in U.S. Lawmakers from both major parties opposed the move, arguing it could harm both Ukraine and U.S. interests - KyivIndependent
+- 10/11 10:55 [FirstSquawk] U.S. Military Reports Disabling Cargo Vessel Attempting to Run Iran Blockade - RTRS
+- 10/11 11:01 [FirstSquawk] Four Dead, 670,000 Without Electricity in U.S. After Isaias - SCMP
+- 10/11 11:10 [FirstSquawk] U.S. Justice Department Investigates Five Major News Networks for Possible Antitrust Violations - CNN
+- 10/11 11:12 [financialjuice] UN's Guterres: strongly condemn Saturday’s deadly assault by Houthis on King Khalid International Airport in Riyadh, Saudi Arabia
+- 10/11 11:17 [FirstSquawk] UN Secretary-General Condemns Deadly Houthi Assault in Riyadh António Guterres condemned the deadly attack on King Khalid International Airport in the Saudi capital on Saturday.
+- 10/11 11:18 [FirstSquawk] Trump Calls on Democratic Senator John Fetterman to Join the Republican Party
+- 10/11 11:22 [FirstSquawk] FBI Hacker Crackdown Leads to Arrest of Canadian Ransomware Negotiator - RTRS
+- 10/11 11:28 [FirstSquawk] Trump Demands New Ukrainian President, Blames Kyiv for Fuel Shortages - SCMP The U.S. president lashed out at Zelensky, claiming Ukraine’s strikes on Russian refineries were contributing to global fuel shortages following his announcement o…
+- 10/11 11:38 [FirstSquawk] Trump Claims Zelensky Is Blocking Ukraine-Russia Peace Deal The U.S. president said Russia wants an agreement, while Zelensky does not, pointing to the disparity in the number of soldiers on both sides - WSN
+- 10/11 11:45 [FirstSquawk] UK Universities Review China Ties Following MI5 Espionage Alert British universities are reassessing their links with China after an MI5 warning about potential espionage risks. Beijing’s embassy has rejected claims that academic collaborat…
+- 10/11 11:51 [FirstSquawk] Ukraine Launches Strikes on Data Centres Owned by Russian Technology Giant - FT
+- 10/11 11:56 [FirstSquawk] Four Dead as Isaias Strikes Gulf Coast, Knocks Out Power to 600,000 - WSJ
+- 10/11 12:02 [FirstSquawk] Pakistan Joins Condemnation of Houthi Attack on Saudi Airport, PM Says - AlArabiya_Brk
+- 10/11 12:14 [FirstSquawk] Pakistan Vows to Protect Saudi Arabia’s Security and Sovereignty Under Mecca Defense Pact - AlArabiya_Brk
+- 10/11 12:22 [FirstSquawk] Suzuki Undercuts BYD in Japan With Lower-Cost Mini EV Suzuki’s new e-Sky will offer a longer driving range than BYD’s entry-level Racco, while targeting the cheapest end of Japan’s mini-EV market - NA
+- 10/11 12:31 [FirstSquawk] Seoul and Mexico City Expand Cooperation in Defense, Energy and Artificial Intelligence - Yonhap
+- 10/11 12:38 [FirstSquawk] EU Attracts Young Indian Workers as U.S., UK Tighten Immigration Rules - NA
+- 10/11 12:43 [FirstSquawk] JFK Airport Reports Delays to International Flights Following Technical Glitch
+- 10/11 12:51 [FirstSquawk] South Korea Considers Hormuz Support While Avoiding Direct Involvement in Conflict - Yonhap
+- 10/11 12:59 [FirstSquawk] Canadian PM Strongly Condemns Houthi Attacks on Saudi Arabia
+- 10/11 13:00 [FirstSquawk] Beijing Ramps Up Fiscal Measures to Keep Economic Growth on Track
+- 10/11 13:08 [FirstSquawk] Data Centre in Eastern Moscow Hit by Disruption Following Drone Attack, Russia Says
+- 10/11 13:22 [FirstSquawk] Middle East Conflict, Mounting Debt Set to Take Centre Stage at IMF-World Bank Meetings - RTRS
+- 10/11 13:31 [financialjuice] India's 'cockroach' movement leader Dipke freed from custody: lawyer
+- 10/11 13:36 [FirstSquawk] UK’s Return to EU Could Be Accelerated, Pro-EU Group Says - FT
+- 10/11 13:39 [financialjuice] All 22 Indian crew members rescued, safe after vessel incident off UAE’s Ras Al Khaimah coast: Indian consulate in Dubai
+- 10/11 13:49 [FirstSquawk] UAE Vessel Incident: All 22 Indian Crew Members Rescued, Says Dubai Consulate
+- 10/11 14:08 [FirstSquawk] Six Palestinians injured in Israeli army shooting outside its control zones in Khan Yunis, Palestinian media says
+- 10/11 14:10 [FirstSquawk] JPMorgan steps up European expansion push, targeting asset management growth – FT
+- 10/11 14:11 [FirstSquawk] European spy agencies warn of stepped-up Russian plot to kill defence officials – FT
+- 10/11 14:39 [FirstSquawk] Japan and South Korea face a wave of cyberattacks amid growing concerns over AI-powered hacking
+- 10/11 14:41 [FirstSquawk] Russian Defense Ministry claims strikes on cargo ship and data center in Ukraine’s Black Sea region
+- 10/11 14:47 [FirstSquawk] Russian Defense Ministry says its forces hit a cargo ship in Chornomorsk and a data center in Odesa
