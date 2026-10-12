@@ -7,72 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-12 09:46 JST／対象: 10/11 09:46 〜 10/12 09:46 JST（時刻はすべて日本時間）
+生成: 2026-10-12 15:38 JST／対象: 10/11 15:38 〜 10/12 15:38 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 10/11 19:54 | 10/12 06:41 | ⚠ 268分（00:00→04:28） |
-| FirstSquawk | 149 | 10/11 09:47 | 10/12 09:43 | ⚠ 113分（04:58→06:51） |
-| financialjuice | 82 | 10/11 11:12 | 10/12 09:42 | ⚠ 148分（13:39→16:07） |
+| FirstSquawk | 183 | 10/11 15:42 | 10/12 15:36 | ⚠ 113分（04:58→06:51） |
+| financialjuice | 111 | 10/11 16:07 | 10/12 15:11 | ⚠ 116分（18:23→20:20） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 222 行（統合前 240 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 285 行（統合前 303 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/11 09:47 [FirstSquawk] Trump says he hopes Fetterman switches party affiliation to Republican.
-- 10/11 09:51 [FirstSquawk] Honda Eyes Cheaper EVs With Wireless Expressway Charging Honda plans to test technology that charges electric vehicles wirelessly while they are moving on expressways. The system could reduce range anxiety, ease dependence on charging infra…
-- 10/11 09:57 [FirstSquawk] Saudi-led coalition reports interception and destruction of a Houthi ballistic missile in Al-Kharj.
-- 10/11 09:58 [FirstSquawk] Saudi-led coalition reports interception of ballistic missile fired by Yemen’s Houthis toward Al-Kharj.
-- 10/11 10:03 [FirstSquawk] Microsoft’s Nadella calls for safeguards to act as an “emergency brake” on advanced AI.
-- 10/11 10:06 [FirstSquawk] UKMTO says all crew members are safe, while vessel damage and environmental impact remain unassessed.
-- 10/11 10:08 [FirstSquawk] Multiple fighter jets reportedly active over Iraq.
-- 10/11 10:10 [FirstSquawk] Maritime security incident reported in the Strait of Hormuz, UKMTO says.
-- 10/11 10:15 [FirstSquawk] Young Americans show greater openness to socialism, NBC poll finds 47% of voters aged 18–29 view capitalism negatively, while 42% have a positive view of socialism, NBC reports. Across all voters, 48% view capitalism positively, compared wi…
-- 10/11 10:19 [FirstSquawk] Saudi Civil Aviation confirms 321 casualties in attack on Riyadh’s King Khalid International Airport.
-- 10/11 10:21 [FirstSquawk] Eight residents killed following attack on Riyadh’s King Khalid International Airport, Saudi Civil Aviation says.
-- 10/11 10:31 [FirstSquawk] Saudi Civil Aviation reports 12 deaths following attack on King Khalid International Airport.
-- 10/11 10:37 [FirstSquawk] Federal court temporarily bars deportation of undocumented immigrant facing allegations of ramming ICE vehicles in New York City.
-- 10/11 10:38 [FirstSquawk] Japan aims to develop a cost-effective cruise missile capable of overwhelming air defenses. The system will incorporate civilian-grade components to reduce production costs - NA
-- 10/11 10:45 [FirstSquawk] Projectile Falls in the Vicinity of King Fahd International Airport in Dammam, Saudi Arabia
-- 10/11 10:46 [FirstSquawk] Trump-Russia Diesel Deal Draws Bipartisan Criticism in U.S. Lawmakers from both major parties opposed the move, arguing it could harm both Ukraine and U.S. interests - KyivIndependent
-- 10/11 10:55 [FirstSquawk] U.S. Military Reports Disabling Cargo Vessel Attempting to Run Iran Blockade - RTRS
-- 10/11 11:01 [FirstSquawk] Four Dead, 670,000 Without Electricity in U.S. After Isaias - SCMP
-- 10/11 11:10 [FirstSquawk] U.S. Justice Department Investigates Five Major News Networks for Possible Antitrust Violations - CNN
-- 10/11 11:12 [financialjuice] UN's Guterres: strongly condemn Saturday’s deadly assault by Houthis on King Khalid International Airport in Riyadh, Saudi Arabia
-- 10/11 11:17 [FirstSquawk] UN Secretary-General Condemns Deadly Houthi Assault in Riyadh António Guterres condemned the deadly attack on King Khalid International Airport in the Saudi capital on Saturday.
-- 10/11 11:18 [FirstSquawk] Trump Calls on Democratic Senator John Fetterman to Join the Republican Party
-- 10/11 11:22 [FirstSquawk] FBI Hacker Crackdown Leads to Arrest of Canadian Ransomware Negotiator - RTRS
-- 10/11 11:28 [FirstSquawk] Trump Demands New Ukrainian President, Blames Kyiv for Fuel Shortages - SCMP The U.S. president lashed out at Zelensky, claiming Ukraine’s strikes on Russian refineries were contributing to global fuel shortages following his announcement o…
-- 10/11 11:38 [FirstSquawk] Trump Claims Zelensky Is Blocking Ukraine-Russia Peace Deal The U.S. president said Russia wants an agreement, while Zelensky does not, pointing to the disparity in the number of soldiers on both sides - WSN
-- 10/11 11:45 [FirstSquawk] UK Universities Review China Ties Following MI5 Espionage Alert British universities are reassessing their links with China after an MI5 warning about potential espionage risks. Beijing’s embassy has rejected claims that academic collaborat…
-- 10/11 11:51 [FirstSquawk] Ukraine Launches Strikes on Data Centres Owned by Russian Technology Giant - FT
-- 10/11 11:56 [FirstSquawk] Four Dead as Isaias Strikes Gulf Coast, Knocks Out Power to 600,000 - WSJ
-- 10/11 12:02 [FirstSquawk] Pakistan Joins Condemnation of Houthi Attack on Saudi Airport, PM Says - AlArabiya_Brk
-- 10/11 12:14 [FirstSquawk] Pakistan Vows to Protect Saudi Arabia’s Security and Sovereignty Under Mecca Defense Pact - AlArabiya_Brk
-- 10/11 12:22 [FirstSquawk] Suzuki Undercuts BYD in Japan With Lower-Cost Mini EV Suzuki’s new e-Sky will offer a longer driving range than BYD’s entry-level Racco, while targeting the cheapest end of Japan’s mini-EV market - NA
-- 10/11 12:31 [FirstSquawk] Seoul and Mexico City Expand Cooperation in Defense, Energy and Artificial Intelligence - Yonhap
-- 10/11 12:38 [FirstSquawk] EU Attracts Young Indian Workers as U.S., UK Tighten Immigration Rules - NA
-- 10/11 12:43 [FirstSquawk] JFK Airport Reports Delays to International Flights Following Technical Glitch
-- 10/11 12:51 [FirstSquawk] South Korea Considers Hormuz Support While Avoiding Direct Involvement in Conflict - Yonhap
-- 10/11 12:59 [FirstSquawk] Canadian PM Strongly Condemns Houthi Attacks on Saudi Arabia
-- 10/11 13:00 [FirstSquawk] Beijing Ramps Up Fiscal Measures to Keep Economic Growth on Track
-- 10/11 13:08 [FirstSquawk] Data Centre in Eastern Moscow Hit by Disruption Following Drone Attack, Russia Says
-- 10/11 13:22 [FirstSquawk] Middle East Conflict, Mounting Debt Set to Take Centre Stage at IMF-World Bank Meetings - RTRS
-- 10/11 13:31 [financialjuice] India's 'cockroach' movement leader Dipke freed from custody: lawyer
-- 10/11 13:36 [FirstSquawk] UK’s Return to EU Could Be Accelerated, Pro-EU Group Says - FT
-- 10/11 13:39 [financialjuice] All 22 Indian crew members rescued, safe after vessel incident off UAE’s Ras Al Khaimah coast: Indian consulate in Dubai
-- 10/11 13:49 [FirstSquawk] UAE Vessel Incident: All 22 Indian Crew Members Rescued, Says Dubai Consulate
-- 10/11 14:08 [FirstSquawk] Six Palestinians injured in Israeli army shooting outside its control zones in Khan Yunis, Palestinian media says
-- 10/11 14:10 [FirstSquawk] JPMorgan steps up European expansion push, targeting asset management growth – FT
-- 10/11 14:11 [FirstSquawk] European spy agencies warn of stepped-up Russian plot to kill defence officials – FT
-- 10/11 14:39 [FirstSquawk] Japan and South Korea face a wave of cyberattacks amid growing concerns over AI-powered hacking
-- 10/11 14:41 [FirstSquawk] Russian Defense Ministry claims strikes on cargo ship and data center in Ukraine’s Black Sea region
-- 10/11 14:47 [FirstSquawk] Russian Defense Ministry says its forces hit a cargo ship in Chornomorsk and a data center in Odesa
 - 10/11 15:42 [FirstSquawk] India-US trade deal: Goyal says pact negotiations to be finalised in line with changed circumstances
 - 10/11 16:07 [financialjuice] Saudi energy ministry: 25th WPC energy congress begins in Riyadh on Sunday - post on X
 - 10/11 16:16 [FirstSquawk] Sweden's election has unleashed anarchy in its parliament, yet the country is undaunted in fixing its problems. The UK should take note
@@ -246,3 +197,115 @@
 - 10/12 09:42 [financialjuice] Japan coast guard issues second alert on possible North Korea ballistic missile
 - 10/12 09:43 [FirstSquawk] TENCENT PROPOSES DOLLAR BONDS WITH 10- AND 20-YEAR MATURITIES AND YUAN BONDS WITH 10- AND 30-YEAR TENORS, SHEET SHOWS
 - 10/12 09:43 [FirstSquawk] JAPAN COAST GUARD ISSUES FRESH WARNING FOLLOWING POSSIBLE NORTH KOREAN BALLISTIC MISSILE LAUNCH
+- 10/12 09:49 [financialjuice] Japan Coast Guard issues second alert on possible North Korean ballistic missile impact
+- 10/12 09:52 [financialjuice] North Korean missile appears to have landed beyond Japan's exclusive economic zone: NHK
+- 10/12 10:01 [financialjuice] Taiwan overnight interbank rate starts at 0.805% vs 0.805% in previous session opening
+- 10/12 10:04 [financialjuice] South Korean won reaches strongest level vs dollar since Oct. 4, 2024
+- 10/12 10:17 [financialjuice] PBOC sets yuan midpoint at strongest level since Feb. 2, 2023
+- 10/12 10:20 [financialjuice] China injects 50 bln yuan via 7-day reverse repos at 1.40% vs prior 1.40%: statement
+- 10/12 10:22 [financialjuice] North Korean projectile identified as ballistic missile: South Korean defense ministry
+- 10/12 10:22 [financialjuice] North Korea launches missiles: South Korea military
+- 10/12 10:22 [financialjuice] North Korea launches missiles from Pyongyang region: South Korean military
+- 10/12 10:26 [financialjuice] Shares of Chinese Apple supplier Luxshare set to open 2% lower after US patent infringement probe
+- 10/12 10:35 [financialjuice] North Korean missiles traveled over 900 kilometers: South Korean military
+- 10/12 10:37 [financialjuice] South Korea military spokesperson: N.Korea missiles seem to demonstrate missile capabilities, show force after S.Korea hypersonic missile test-fire
+- 10/12 10:40 [financialjuice] S.Korea central bank: sells 91-day monetary stabilisation bonds at 3.180% yield
+- 10/12 10:42 [financialjuice] South Korea's National Security Council holds emergency meeting on North Korea's missile launch
+- 10/12 10:42 [financialjuice] South Korea presidential office: North Korea’s repeated ballistic missile launches breach UN Security Council resolutions, urges immediate halt
+- 10/12 10:43 [FirstSquawk] SEOUL SAYS NORTH KOREA’S REPEATED BALLISTIC MISSILE TESTS BREACH UN RESOLUTIONS, DEMANDS AN IMMEDIATE END
+- 10/12 10:48 [FirstSquawk] TAIWAN DOLLAR EXTENDS LOSSES TO 31.955 PER DOLLAR, TOUCHING A LEVEL LAST SEEN ON SEPTEMBER 17
+- 10/12 10:58 [FirstSquawk] JAPAN’S CRUISE SECTOR TURNS TO SHORTER, BUDGET-FRIENDLY TRIPS TO DRAW YOUNGER TRAVELERS
+- 10/12 11:02 [financialjuice] China commerce ministry: Premier Li Qiang to join opening ceremony of Canton Fair Oct. 15 - Nov. 4
+- 10/12 11:04 [FirstSquawk] PREMIER LI QIANG WILL ATTEND OPENING OF CANTON FAIR, SCHEDULED FOR OCTOBER 15 TO NOVEMBER 4, CHINA SAYS
+- 10/12 11:14 [FirstSquawk] RBI’S LATEST FOREIGN EXCHANGE MEASURES COULD OFFER THE RUPEE SHORT-TERM RELIEF, WSJ SAYS
+- 10/12 11:20 [financialjuice] China imposes counteractions on Paraguay’s minister of communications and technology over Taiwan issue: Chinese foreign ministry
+- 10/12 11:20 [financialjuice] China imposes countermeasures on Belize foreign minister over Taiwan issue: Chinese foreign ministry
+- 10/12 11:22 [financialjuice] China’s countermeasures against Paraguay and Belize ministers include visa bans and restrictions on cooperation with Chinese organizations and individuals
+- 10/12 11:22 [financialjuice] China announces countermeasures against Paraguay and Belize ministers effective Oct. 12
+- 10/12 11:26 [FirstSquawk] CHINA’S MEASURES TARGETING MINISTERS FROM PARAGUAY AND BELIZE BECOME EFFECTIVE OCTOBER 12
+- 10/12 11:26 [FirstSquawk] CHINA’S COUNTERMEASURES AGAINST PARAGUAY AND BELIZE MINISTERS INCLUDE VISA BANS AND PROHIBITIONS ON COOPERATION BY CHINESE ORGANISATIONS AND INDIVIDUALS
+- 10/12 11:27 [FirstSquawk] CHINA TARGETS BELIZE FOREIGN MINISTER WITH COUNTERMEASURES IN RESPONSE TO TAIWAN ISSUE, BEIJING SAYS
+- 10/12 11:28 [FirstSquawk] BEIJING TAKES ACTION AGAINST PARAGUAY’S COMMUNICATIONS AND TECHNOLOGY MINISTER IN RESPONSE TO TAIWAN ISSUE, CHINA’S FOREIGN MINISTRY SAYS
+- 10/12 11:31 [FirstSquawk] SOUTH KOREA AUCTIONS 3-YEAR GOVERNMENT BONDS AT 3.940% YIELD, FINANCE MINISTRY REPORTS
+- 10/12 11:43 [FirstSquawk] AI THREATENS INDIA’S MULTINATIONAL TECH JOB ENGINE AS GCCs REASSESS WORKFORCE NEEDS The evolving role of global capability centres (GCCs) is putting pressure on headcount at a key employer in India’s technology sector. While the number of G…
+- 10/12 11:49 [FirstSquawk] TROPICAL STORM SIMON CRAWLS OFF MEXICO’S WEST-CENTRAL COAST, NHC WARNS OF DESTRUCTIVE WINDS AND HEAVY RAINFALL
+- 10/12 11:58 [FirstSquawk] GOLD TRADES ABOVE $4,200 AMID STRONG ETF INFLOWS AHEAD OF KEY US INFLATION FIGURES
+- 10/12 12:06 [FirstSquawk] PETROVIETNAM GAS SEEKS SPOT LNG SHIPMENT OF 1.5 MILLION MMBTU WITH DELIVERY WINDOW OF OCTOBER 15 TO NOVEMBER 10
+- 10/12 12:09 [FirstSquawk] INDONESIA RECORDS 28.1% ANNUAL GROWTH IN SEPTEMBER AUTO SALES, ASSOCIATION REPORTS
+- 10/12 12:18 [FirstSquawk] KDI SAYS SOUTH KOREA’S ECONOMIC IMPROVEMENT HAS NOT YET REACHED HOUSEHOLDS ACROSS THE BOARD
+- 10/12 12:18 [FirstSquawk] SOUTH KOREA’S KOSDAQ FALLS 4% AMID SELLING PRESSURE
+- 10/12 12:21 [FirstSquawk] IMF’S GEORGIEVA SAYS THE WORLD IS ALREADY FEELING AI’S FIRST-WAVE EFFECTS AS BOTH A DEMAND AND INVESTMENT SHOCK
+- 10/12 12:23 [FirstSquawk] IMF CHIEF GEORGIEVA IDENTIFIES THE US, CHINA AND INDIA AS KEY AI PRODUCERS, SAYS INVESTMENT IS SUPPORTING GLOBAL GROWTH OF ABOUT 3%
+- 10/12 12:25 [FirstSquawk] IMF CHIEF GEORGIEVA SEES AI ADDING 0.5 TO 1 PERCENTAGE POINT TO ASIA’S GROWTH
+- 10/12 12:26 [FirstSquawk] IMF CHIEF GEORGIEVA SEES AI ADDING 0.2 TO 0.8 PERCENTAGE POINT TO GROWTH IN EMERGING ASIA
+- 10/12 12:31 [FirstSquawk] WORLD BANK CHIEF BANGA SEES SIGNIFICANT POTENTIAL FOR SMALL AI APPLICATIONS IN MIDDLE- AND LOWER-MIDDLE-INCOME COUNTRIES
+- 10/12 12:35 [FirstSquawk] AI COULD ALTER 40% OF JOBS GLOBALLY OVER TIME, INCLUDING THROUGH AUGMENTATION, ROLE DOWNGRADES OR ELIMINATION, GEORGIEVA SAYS
+- 10/12 12:36 [FirstSquawk] IMF CHIEF GEORGIEVA SAYS THE IMPACT OF AI IS ALREADY EMERGING IN DEVELOPED ECONOMIES
+- 10/12 12:37 [FirstSquawk] IMF CHIEF GEORGIEVA FLAGS JOB PROSPECTS FOR YOUNG PEOPLE IN ROUTINE AND REPETITIVE ROLES AS A KEY CONCERN
+- 10/12 12:37 [FirstSquawk] IMF CHIEF GEORGIEVA WARNS AI COULD ALTER EMPLOYMENT STRUCTURES AND PROMPT QUESTIONS ABOUT TAX COLLECTION
+- 10/12 12:40 [FirstSquawk] JPMORGAN INCREASES ITS MAERSK PRICE TARGET BY DKK 2,000 TO DKK 12,000
+- 10/12 12:50 [FirstSquawk] UAE PRESIDENTIAL ADVISER SAYS ATTACKS ON SAUDI ARABIA UNDERMINE SECURITY ACROSS THE GULF
+- 10/12 12:50 [financialjuice] UAE presidential adviser: targeting Saudi Arabia jeopardizes security of UAE and all Gulf states
+- 10/12 12:51 [financialjuice] UAE's Gargash: pressing need to revive joint Gulf action, especially on security and defense
+- 10/12 12:51 [FirstSquawk] UAE'S GARGASH CALLS FOR RENEWED JOINT GULF EFFORTS, WITH SECURITY AND DEFENCE AS PRIORITIES
+- 10/12 12:52 [FirstSquawk] JEFFERIES LIFTS TESLA PRICE TARGET TO $400, UP FROM $350
+- 10/12 12:53 [FirstSquawk] KOSPI SLIDES 3% IN SEOUL TRADING
+- 10/12 12:59 [FirstSquawk] CHINA'S LI QIANG TO ATTEND OPENING CEREMONY OF CANTON FAIR, RUNNING OCT 15-NOV 4
+- 10/12 13:02 [FirstSquawk] HEATHROW BOSS WARNS RUNWAY PLANS REQUIRE BURNHAM'S GREEN LIGHT BEFORE YEAR-END — FT
+- 10/12 13:03 [FirstSquawk] BRITISH MINISTERS EXAMINE PLANS TO MAKE AI SAFETY REPORTING MANDATORY — FT
+- 10/12 13:21 [FirstSquawk] POLAND WARNS NATO TO BRACE FOR A POTENTIALLY DEADLY RUSSIAN HYBRID ATTACK — FT
+- 10/12 13:28 [FirstSquawk] JPMORGAN INCREASES GENUINE PARTS CO'S TARGET PRICE TO $137, UP FROM $125
+- 10/12 13:29 [FirstSquawk] CHINA DESALINATION FACILITY REDUCES ENERGY CONSUMPTION BY 60% THROUGH BRINE-TO-SALT PROCESS — SCMP
+- 10/12 13:30 [financialjuice] Dutch August trade surplus expands to 8.3 billion euros: CBS
+- 10/12 13:32 [FirstSquawk] MALAYSIA SHIPS 1.12 MLN TONNES OF PALM OIL IN SEPTEMBER, DOWN 12.13% FROM AUGUST — MPOB
+- 10/12 13:33 [FirstSquawk] MALAYSIA'S CRUDE PALM OIL PRODUCTION INCREASES TO 2.12 MLN TONNES IN SEPTEMBER, UP 16.48% MONTH-ON-MONTH — MPOB
+- 10/12 13:41 [FirstSquawk] HONG KONG WORKERS FEAR AI-DRIVEN JOB DISRUPTION, YET MOST ARE UNPREPARED FOR RETIREMENT — SCMP
+- 10/12 13:48 [FirstSquawk] JPMORGAN REDUCES AMERICAN EXPRESS TARGET PRICE TO $360, DOWN FROM $400
+- 10/12 13:56 [FirstSquawk] CHINA'S ENERGY POLICYMAKERS GAIN PROMINENCE AMID AI-DRIVEN DEMAND AND IRAN WAR RISKS - SCMP
+- 10/12 13:58 [FirstSquawk] INDONESIAN STOCKS SLIDE 2%, WITH BENCHMARK INDEX HITTING ITS LOWEST LEVEL SINCE MID-JULY AT 5,971.778
+- 10/12 13:59 [FirstSquawk] FUTU: ALIBABA'S LATEST LINGGUANG APP VERSION COMPETES WITH META MUSE
+- 10/12 14:01 [financialjuice] China auto industry body CPCA: September passenger car sales decline 28.1% to 1.63 million units year-on-year
+- 10/12 14:01 [FirstSquawk] CHINA'S SEPTEMBER PASSENGER CAR SALES FALL 28.1% YEAR-ON-YEAR TO 1.63 MLN — CPCA
+- 10/12 14:09 [FirstSquawk] JAPAN SURVEY FINDS VEHICLES SUBMERGED AT 80 UNDERPASSES OVER 10 YEARS — KYODO
+- 10/12 14:10 [financialjuice] DUTCH TRADE BALANCE ACTUAL 8.300B (FORECAST -, PREVIOUS 11.014B) $MACRO
+- 10/12 14:10 [FirstSquawk] CHINA'S AI ECOSYSTEM AND SUPPLY CHAIN POSITION UNDERPIN ITS ROLE IN THE GLOBAL AI INDUSTRY — WSJ
+- 10/12 14:11 [FirstSquawk] DUTCH TRADE SURPLUS EXPANDS TO €8.3 BILLION IN AUGUST, CBS SAYS
+- 10/12 14:16 [FirstSquawk] CHINA SAYS IT HELD INTENSIVE CONSULTATIONS WITH EU ON HYBRID AND ELECTRIC VEHICLE TRADE AND ECONOMIC DISPUTES
+- 10/12 14:17 [financialjuice] China commerce ministry, on talks with the EU: Two sides conducted intensive consultations on the trade of hybrid vehicles and electric vehicles, and balancedly handled economic and trade differences and mutual concerns
+- 10/12 14:17 [FirstSquawk] CHINA COMMERCE MINISTRY: CHINA AND EU AGREE TO RAISE HYBRID VEHICLE EXPORT LEVELS BASED ON 2025 FIGURES
+- 10/12 14:17 [financialjuice] China commerce ministry, on hybrid vehicles: both sides have agreed on an upward adjustment based on the 2025 figure to ensure export opportunities and stable growth for Chinese enterprises, whilst addressing concerns
+- 10/12 14:18 [financialjuice] China's commerce ministry, on hybrid vehicles: No measures shall be specifically targeted at Chinese products, nor shall Chinese enterprises be treated in a 'discriminatory manner’
+- 10/12 14:18 [FirstSquawk] CHINA COMMERCE MINISTRY: CHINESE PRODUCTS MUST NOT FACE TARGETED MEASURES OR DISCRIMINATORY TREATMENT
+- 10/12 14:18 [financialjuice] China's commerce ministry, on hybrid vehicles: Both sides confirmed that trade arrangements must comply with World Trade Organization rules
+- 10/12 14:18 [FirstSquawk] CHINA, EU CONFIRM HYBRID VEHICLE TRADE ARRANGEMENTS WILL FOLLOW WTO RULES — CHINA COMMERCE MINISTRY
+- 10/12 14:18 [financialjuice] China commerce ministry, on electric vehicles: EU will continue to advance the relevant procedures concerning corporate price undertakings in the electric vehicle case, as well as other review procedures
+- 10/12 14:18 [FirstSquawk] EU TO PROCEED WITH REVIEWS OF CORPORATE PRICE UNDERTAKINGS AND OTHER PROCEDURES IN EV CASE, CHINA SAYS
+- 10/12 14:19 [FirstSquawk] CHINA SAYS EARLIER EV UNDERSTANDING WITH EU DELIVERED MUTUAL BENEFITS, PROTECTED CHINESE FIRMS AND PREVENTED FURTHER TRADE FRICTION
+- 10/12 14:21 [FirstSquawk] TESLA SHIPPED 30,529 VEHICLES MADE IN CHINA TO OVERSEAS MARKETS IN SEPTEMBER, CPCA SAYS
+- 10/12 14:26 [FirstSquawk] AUSTRALIAN STOCKS GAIN 0.8% AS S&P/ASX 200 SETTLES AT 8,783.20
+- 10/12 14:26 [FirstSquawk] JAPAN AND AUSTRALIA'S RENTAL HOUSING SECTORS ATTRACT INVESTORS AMID HIGHER RATES AND PROPERTY PRICES - NA
+- 10/12 14:33 [FirstSquawk] FTX’S OLD BITCOIN-MINING INFRASTRUCTURE FINDS A NEW ROLE AMID SURGING AI DEMAND — WSJ
+- 10/12 14:41 [FirstSquawk] JAPAN NEEDS TARGETED INVESTMENT TO IMPROVE PRODUCTIVITY AS ECONOMIC GROWTH LOSES STEAM
+- 10/12 14:48 [FirstSquawk] JEFFERIES REVISES WELLTOWER'S PRICE TARGET DOWNWARD TO $260 FROM $275
+- 10/12 15:00 [FirstSquawk] CRUDE PRICES FALL AS TRUMP CLAIMS ENERGY CEASEFIRE IN UKRAINE CONFLICT — FT
+- 10/12 15:01 [financialjuice] EU's Foreign Minister Kallas: I welcome the Ukraine energy ceasefire in Ukraine, but it is not yet seen if Russia is going to stick to it
+- 10/12 15:02 [FirstSquawk] CHINESE NEW ENERGY VEHICLE SALES INCREASE 11.1% Y/Y DURING THE FIRST NINE MONTHS, STATE MEDIA SAYS
+- 10/12 15:07 [FirstSquawk] EU'S KALLAS: PRESSURING RUSSIA TO END THE WAR WOULD PAVE THE WAY FOR UKRAINE TO HOLD ELECTIONS
+- 10/12 15:07 [FirstSquawk] EU'S KALLAS: EUROPE WOULD BENEFIT IF THE UK AND US COORDINATED MORE CLOSELY ON PRESSURE AGAINST RUSSIA
+- 10/12 15:08 [FirstSquawk] EU'S KALLAS: ENERGY CEASEFIRE IN UKRAINE IS WELCOME, BUT RUSSIA'S COMPLIANCE IS YET TO BE SEEN
+- 10/12 15:09 [FirstSquawk] IMF'S GEORGIEVA: REDUCING NON-TARIFF BARRIERS AND DEEPENING REGIONAL TRADE TIES COULD RAISE ASIA'S GDP BY AROUND 1.8% OVER TIME
+- 10/12 15:11 [financialjuice] EU's Kallas: We would call our United States' partners to get the Russian sanctions in place so that we could actually finish the war
+- 10/12 15:11 [FirstSquawk] EU'S KALLAS: WE URGE OUR US PARTNERS TO PUT SANCTIONS ON RUSSIA SO THE WAR CAN END
+- 10/12 15:15 [FirstSquawk] CHINA'S SEPTEMBER NEW ENERGY VEHICLE SALES GAIN 13.6% Y/Y, ACCORDING TO INDUSTRY ASSOCIATION
+- 10/12 15:17 [FirstSquawk] IMF'S SRINIVASAN WARNS CHINA, SOUTH KOREA AND JAPAN COULD SEE WORKFORCES FALL BY A QUARTER BY 2050 AMID DEMOGRAPHIC AGEING
+- 10/12 15:20 [FirstSquawk] GERMANY SAYS US HAS BEEN RELIABLE IN SUPPLYING WEAPONS TO UKRAINE THROUGH PURL, EXPECTS CONTINUED COMMITMENT
+- 10/12 15:21 [FirstSquawk] GERMAN EUROPE MINISTER: UKRAINE WILL HOLD ELECTIONS ONCE POLLS CAN BE CONDUCTED ACROSS THE WHOLE COUNTRY
+- 10/12 15:24 [FirstSquawk] ESTONIAN FOREIGN MINISTER QUESTIONS EFFECTIVENESS OF RUSSIA-UKRAINE ENERGY CEASEFIRE, CALLS IT 'NOT WORKING'
+- 10/12 15:29 [FirstSquawk] WTI CRUDE FALLS NEAR $90 ON EXPECTATIONS THAT RUSSIA-UKRAINE ENERGY TRUCE COULD EASE SUPPLY CONCERNS - FX
+- 10/12 15:33 [FirstSquawk] VOLKSWAGEN'S NORTH AMERICAN VEHICLE DELIVERIES DECLINE 5.8% TO 232,000 UNITS IN Q3
+- 10/12 15:34 [FirstSquawk] VOLKSWAGEN'S VEHICLE DELIVERIES FALL 38.5% Y/Y IN Q3
+- 10/12 15:34 [FirstSquawk] VOLKSWAGEN'S WESTERN EUROPE DELIVERIES DECLINE 2.8% TO 780,000 UNITS IN THE THIRD QUARTER
+- 10/12 15:34 [FirstSquawk] VOLKSWAGEN REPORTS A 14.3% Y/Y DECLINE IN THIRD-QUARTER DELIVERIES
+- 10/12 15:35 [FirstSquawk] EU SANCTIONS ARE MAKING IT MORE DIFFICULT FOR RUSSIA'S PUTIN TO PROLONG THE WAR IN UKRAINE, GERMAN FOREIGN MINISTER SAYS
+- 10/12 15:35 [FirstSquawk] GERMANY SAYS LISTING DRONE PRODUCERS ADDRESSES INCREASING RUSSIAN HYBRID ATTACKS AGAINST EU COUNTRIES
+- 10/12 15:36 [FirstSquawk] GERMAN FOREIGN MINISTER: RUSSIA CANNOT WIN THE UKRAINE WAR, AND OUR MESSAGE IS UNAMBIGUOUS
