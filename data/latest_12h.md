@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-12 06:50 JST／対象: 10/11 18:50 〜 10/12 06:50 JST（時刻はすべて日本時間）
+生成: 2026-10-12 09:46 JST／対象: 10/11 21:46 〜 10/12 09:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 9 | 10/11 19:54 | 10/12 06:41 | ⚠ 268分（00:00→04:28） |
-| FirstSquawk | 58 | 10/11 18:53 | 10/12 04:58 | ⚠ 86分（03:31→04:58） |
-| financialjuice | 57 | 10/11 20:20 | 10/12 06:39 | ⚠ 64分（01:17→02:22） |
+| DeItaone | 8 | 10/11 22:52 | 10/12 06:41 | ⚠ 268分（00:00→04:28） |
+| FirstSquawk | 65 | 10/11 22:00 | 10/12 09:43 | ⚠ 113分（04:58→06:51） |
+| financialjuice | 66 | 10/11 21:58 | 10/12 09:42 | ⚠ 83分（07:17→08:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 107 行（統合前 124 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 124 行（統合前 139 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/11 18:53 [FirstSquawk] Zelensky: Ukraine will halt attacks on refineries if Russia stops its attacks on the energy sector.
-- 10/11 19:34 [FirstSquawk] Asian gold producers begin hoarding domestic supplies after price rises - Nikkei
-- 10/11 19:36 [FirstSquawk] Porsche shifts back to gas engines after EV, China struggles; German automaker regroups but faces rising competition from Chinese sports cars - Nikkei
-- 10/11 19:53 [FirstSquawk] Israeli airstrike on Wadi al-Hujair in southern Lebanon
-- 10/11 19:54 [DeItaone] POPE LEO TO UNDERGO LUNG SURGERY THIS WEEK Pope Leo, 71, says doctors discovered a small growth on his lung during a routine health check. The pontiff said the growth was detected early and is well-contained, with surgery scheduled in the c…
-- 10/11 20:20 [financialjuice/FirstSquawk] Ex-Pakistan PM Imran Khan's provincial government ends after emergency declared: law minister
-- 10/11 20:20 [financialjuice/FirstSquawk] Governor to lead administration in Pakistan province once governed by Imran Khan's party: law minister
-- 10/11 20:40 [financialjuice/FirstSquawk] Two killed in Ukrainian drone strike in Russian-controlled Lysychansk: RIA
-- 10/11 20:55 [FirstSquawk] Afghanistan opens potential China trade route to Persian Gulf; Experts say new road via Wakhan Corridor remains a long way off becoming operational - NikkeiAsia
-- 10/11 20:55 [FirstSquawk] India's opposition parties have taken to the streets over voter roll revisions, mounting a fresh challenge to Prime Minister Narendra Modi. - Nikkei
-- 10/11 21:06 [financialjuice] Egypt's core inflation slows to 14.1% year-on-year in September from 14.9% in August: central bank
-- 10/11 21:35 [FirstSquawk] International Organization for Migration: 197,755 people have been displaced from approximately 10 Yemeni governorates since the beginning of September
-- 10/11 21:35 [FirstSquawk] International Organization for Migration: We call on all parties to protect civilians and humanitarian workers in Yemen
-- 10/11 21:35 [FirstSquawk] Israeli Defense Minister: We have eliminated Hamas leaders in Gaza, and Khalil al-Hayya's turn will come too.
-- 10/11 21:36 [FirstSquawk] Pakistani Justice Minister: Imran Khan's Khyber provincial government dismissed after state of emergency declared
-- 10/11 21:40 [financialjuice] Russia: it condemns attack on Riyadh airport - IFax
-- 10/11 21:43 [financialjuice] Pakistan to deploy military forces in province once governed by ex-PM Imran Khan’s party after emergency declared: interior ministry order
 - 10/11 21:58 [financialjuice] France deplores Palestinian president's move to delay elections: foreign ministry spokesperson calls for reversal
 - 10/11 22:00 [FirstSquawk] Pakistan's Interior Ministry orders deployment of military forces in Khyber province following declaration of a state of emergency there.
 - 10/11 22:00 [FirstSquawk] Israeli army: "Three weapons depots in the Gaza Strip were targeted in the past 24 hours."
@@ -128,6 +111,40 @@
 - 10/12 06:05 [financialjuice] UKMTO: reclassified event at Anchorage in Oman’s Sohar as an attack
 - 10/12 06:05 [financialjuice] UKMTO: Tanker hit by drone, local authorities help evacuate crew
 - 10/12 06:10 [financialjuice] Amazon in talks to acquire AI startup Decart for about $7 billion - WSJ
-- 10/12 06:20 [financialjuice] UK embassy in Saudi Arabia cautions British citizens against all but essential travel to Jeddah, Dammam and all Saudi airports except Medina airport - post on X
+- 10/12 06:20 [financialjuice/FirstSquawk] UK embassy in Saudi Arabia cautions British citizens against all but essential travel to Jeddah, Dammam and all Saudi airports except Medina airport - post on X
 - 10/12 06:39 [financialjuice] Trump: new press secretary Zacharia to hold news conference on Tuesday
 - 10/12 06:41 [DeItaone] TRUMP: NEW PRESS SECRETARY ZACHARIA WILL HOLD A NEWS CONFERENCE ON TUESDAY
+- 10/12 07:17 [financialjuice] Saudi civil aviation: one dead, 11 wounded in Sunday assault on King Khalid International Airport in Riyadh
+- 10/12 08:39 [FirstSquawk] AMAZON IN TALKS TO BUY AI STARTUP DECART FOR AROUND $7 BILLION - WSJ
+- 10/12 08:40 [financialjuice] Judge orders immediate stop to taxpayer-funded pro-Trump ads, including those planned for tonight - Politico
+- 10/12 08:40 [FirstSquawk] JUDGE ORDERS IMMEDIATE HALT TO TAXPAYER-FUNDED PRO-TRUMP ADS, INCLUDING ADS SCHEDULED TO RUN TONIGHT — POLITICO
+- 10/12 08:42 [financialjuice] Saudi civil defense issues warning over potential hazard in Abha - post on X
+- 10/12 08:42 [FirstSquawk] TRUMP SAYS HE WANTS TO ‘PAY MY RESPECT AND THANKS TO KAROLINE LEAVITT FOR THE FANTASTIC JOB SHE HAS DONE AS WHITE HOUSE PRESS SECRETARY’, ADDING IT ‘COULD NOT HAVE BEEN BETTER’ - TRUTH SOCIAL
+- 10/12 08:43 [financialjuice] South Korea finance minister: will implement market stabilizing steps if necessary amid high global yields
+- 10/12 08:43 [FirstSquawk] SAUDI ARABIA’S ENERGY MINISTER HAS SIGNED THREE ENERGY COOPERATION MOUS WITH KUWAIT, QATAR AND EGYPT, WITH THE MOU BETWEEN SAUDI ARABIA AND QATAR AIMING TO SET A FRAMEWORK FOR COOPERATION IN PETROLEUM, GAS, PETROCHEMICALS AND OTHERS, AND TO…
+- 10/12 08:43 [financialjuice] Saudi civil defence: danger has passed in Abha
+- 10/12 08:45 [FirstSquawk] CANADA PM CARNEY’S OFFICE SAYS CARNEY SPOKE TO TRUMP AND THAT CANADA WILL MAXIMISE EXPORTS OF OIL AND DIESEL TO THE U.S., WITH OIL EXPORTS TO THE U.S. YIELDING OVER 1 MLN BARRELS OF DIESEL DAILY.
+- 10/12 08:45 [FirstSquawk] CANADA PM CARNEY’S OFFICE SAYS HE SUPPORTS AN ENERGY CEASEFIRE BETWEEN UKRAINE AND RUSSIA.
+- 10/12 08:59 [financialjuice] Saudi-led coalition: intercepted ballistic missile launched by Yemen's Houthis toward Saudi Arabia's Khamis Mushait
+- 10/12 09:00 [financialjuice] S. Korea Oct 1-10 trade surplus provisional $3.8 billion: customs agency
+- 10/12 09:00 [financialjuice] S. Korea Oct 1-10 imports jump 65.5% y/y: customs agency
+- 10/12 09:00 [financialjuice] S.Korea Oct 1-10 chip exports rise 170.9% y/y: customs agency
+- 10/12 09:00 [financialjuice] S.Korea oct 1-10 exports rise 102% y/y: customs agency
+- 10/12 09:15 [FirstSquawk] India Strongly Objects to JD Vance’s Remarks on H-1B Visa Workers, Calling Them “Deeply Offensive” - LeadingReport
+- 10/12 09:16 [FirstSquawk] EUROPEAN EQUITY FUTURES TRADE HIGHER; EURO STOXX 50 AND DAX GAIN 0.4%, FTSE RISES 0.3%
+- 10/12 09:17 [FirstSquawk] GOLDMAN SACHS REPORTS THAT 36% OF WORKERS WITH ANNUAL INCOMES ABOVE $300,000 LIVE PAYCHECK TO PAYCHECK
+- 10/12 09:23 [financialjuice] North Korea launches unidentified projectile toward sea off east coast: South Korea military
+- 10/12 09:23 [FirstSquawk] Asia-Pacific equities open mixed amid lingering geopolitical concerns after the weekend, with market activity muted by Japan’s Sports Day holiday and the Columbus Day holiday in the US
+- 10/12 09:24 [FirstSquawk] NORTH KOREA LAUNCHES UNIDENTIFIED PROJECTILE INTO WATERS OFF ITS EAST COAST, SOUTH KOREAN MILITARY SAYS
+- 10/12 09:25 [financialjuice] China PBOC likely to set yuan midpoint at 6.6977 per dollar: estimate
+- 10/12 09:30 [FirstSquawk] Hong Kong Should Ease Listing Requirements to Draw More Start-Ups and Angel Funding, HKEIA Says
+- 10/12 09:31 [FirstSquawk] Trump, Rubio Consider Firing US Ambassador to Greece Amid Mounting Allegations of Improper Conduct - SCMP
+- 10/12 09:34 [FirstSquawk] Washington Reverses Stance on UK’s Testing of Artificial Intelligence Models, According to The Telegraph
+- 10/12 09:38 [financialjuice] Projectile believed to be a ballistic missile from North Korea seems to have already landed: Japan Coast Guard
+- 10/12 09:39 [FirstSquawk] JAPAN COAST GUARD REPORTS THAT PROJECTILE BELIEVED TO BE A NORTH KOREAN BALLISTIC MISSILE APPEARS TO HAVE FALLEN
+- 10/12 09:39 [financialjuice] North Korea fired potential ballistic missile, seems to have already landed: Japan coast guard
+- 10/12 09:41 [FirstSquawk] SUSPECTED NORTH KOREAN BALLISTIC MISSILE APPEARS TO HAVE ALREADY LANDED, JAPAN COAST GUARD SAYS
+- 10/12 09:42 [FirstSquawk] TENCENT PREPARES PROPOSED US DOLLAR AND OFFSHORE YUAN BOND OFFERING, WITH BANKS MANDATED, TERM SHEET SHOWS
+- 10/12 09:42 [financialjuice] Japan coast guard issues second alert on possible North Korea ballistic missile
+- 10/12 09:43 [FirstSquawk] TENCENT PROPOSES DOLLAR BONDS WITH 10- AND 20-YEAR MATURITIES AND YUAN BONDS WITH 10- AND 30-YEAR TENORS, SHEET SHOWS
+- 10/12 09:43 [FirstSquawk] JAPAN COAST GUARD ISSUES FRESH WARNING FOLLOWING POSSIBLE NORTH KOREAN BALLISTIC MISSILE LAUNCH

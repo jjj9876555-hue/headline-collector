@@ -7,46 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-12 06:50 JST／対象: 10/12 00:50 〜 10/12 06:50 JST（時刻はすべて日本時間）
+生成: 2026-10-12 09:46 JST／対象: 10/12 03:46 〜 10/12 09:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 10/12 04:28 | 10/12 06:41 | ⚠ 109分（04:52→06:41） |
-| FirstSquawk | 19 | 10/12 01:01 | 10/12 04:58 | ⚠ 86分（03:31→04:58） |
-| financialjuice | 29 | 10/12 00:51 | 10/12 06:39 | ⚠ 64分（01:17→02:22） |
+| FirstSquawk | 21 | 10/12 04:58 | 10/12 09:43 | ⚠ 113分（04:58→06:51） |
+| financialjuice | 30 | 10/12 04:05 | 10/12 09:42 | ⚠ 83分（07:17→08:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 41 行（統合前 51 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 52 行（統合前 54 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/12 00:51 [financialjuice/FirstSquawk] Iran security chief: US response to latest proposal ‘insufficient’ - Fars News Agency
-- 10/12 00:51 [financialjuice/FirstSquawk] Secretary of Iran's supreme national security council: US must clarify outstanding issues for Iran - Fars
-- 10/12 00:52 [financialjuice] Secretary of Iran's supreme national security council: US accepted some conditions, others remain unclear
-- 10/12 01:01 [financialjuice/FirstSquawk] Yemen's Houthis claim responsibility for deadly assault on Riyadh airport
-- 10/12 01:04 [financialjuice/FirstSquawk] Yemen's Houthis say they struck Dammam airport and Aramco facilities in Saudi eastern province; no immediate Saudi confirmation
-- 10/12 01:16 [financialjuice/FirstSquawk] European Commission: President von der Leyen backs Ukraine president Zelenskiy’s call for ceasefire with Russia
-- 10/12 01:16 [financialjuice/FirstSquawk] Saudi civil aviation: injuries reported in assault on King Khaled airport in Riyadh on Sunday
-- 10/12 01:17 [financialjuice/FirstSquawk] European Commission: EU to increase funding for drones and missiles to boost Ukraine's defenses and secure its skies
-- 10/12 01:59 [FirstSquawk] THE EUROPEAN COMMISSION SAYS THE EU WILL INCREASE FUNDING FOR DRONES AND MISSILES TO BOOST UKRAINE’S DEFENSES AND SECURE ITS SKIES, WITH PRESIDENT VON DER LEYEN BACKING UKRAINE PRESIDENT ZELENSKIY’S CALL FOR A CEASEFIRE WITH RUSSIA
-- 10/12 02:03 [FirstSquawk] RUSSIA HIT KHARKIV’S MAIN POWER PLANT HOURS AFTER TRUMP ANNOUNCED AN ‘ENERGY CEASEFIRE’, WITH ZELENSKY CONFIRMING THE HIT ON CHP-5 — A MAJOR HEAT-AND-POWER FACILITY — AND SAYING RUSSIA CARRIED OUT MORE THAN 200 ATTACKS ON UKRAINIAN ENERGY I…
-- 10/12 02:04 [FirstSquawk] RUSSIA’S ROSATOM SAYS 135 RUSSIAN STAFF ARE NOW BACK AT IRAN’S BUSHEHR NUCLEAR PLANT, UP FROM AROUND 20 WHO STAYED AFTER THE FEBRUARY EVACUATION, HAVING EVACUATED MORE THAN 600 STAFF WHEN U.S.-ISRAELI STRIKES ON IRAN BEGAN IN LATE FEBRUARY …
-- 10/12 02:22 [financialjuice/FirstSquawk] US threatens to block weapons for Ukraine over assaults on Russian refineries - FT
-- 10/12 02:22 [FirstSquawk] NATO OFFICIAL SAYS RUSSIA SUFFERED OVER 50,000 CASUALTIES IN UKRAINE LAST MONTH, INCLUDING UP TO 28,000 KILLED, COMPARED WITH ABOUT 5,000 UKRAINIAN CASUALTIES. UKRAINIAN FORCES HAVE ALSO RECAPTURED OVER 125 SQ. KM OF TERRITORY.
-- 10/12 02:22 [FirstSquawk] RUSSIA’S DEFENSE SPENDING IS EXPECTED TO APPROACH 17 TRILLION RUBLES ($199 BILLION) THIS YEAR, ABOUT 40% ABOVE THE ORIGINAL BUDGET PLAN. THE CASUALTY FIGURES COULD NOT BE INDEPENDENTLY VERIFIED, AND MOSCOW DOES NOT PUBLISH OFFICIAL BATTLEFI…
-- 10/12 02:23 [financialjuice/FirstSquawk] US lobbied European capitals and Kyiv to halt attacks on Russian oil refineries: FT
-- 10/12 02:23 [FirstSquawk] U.S. HAS THREATENED TO BLOCK ARMS FOR UKRAINE OVER ITS ATTACKS ON RUSSIAN REFINERIES, LOBBYING EUROPEAN CAPITALS AND KYIV IN AN ATTEMPT TO END THE ATTACKS ON RUSSIAN OIL REFINERIES - FT
-- 10/12 02:57 [FirstSquawk] A RUSSIAN STRIKE NEAR A GROCERY STORE IN KHARKIV, UKRAINE’S SECOND-LARGEST CITY, HAS KILLED THREE AND INJURED NINE, OFFICIALS SAY, WHILE AN ATTACK ON IVANO-FRANKIVSK IN WESTERN UKRAINE KILLED TWO, THE MAYOR SAYS
-- 10/12 03:17 [financialjuice] UKMTO reports incident involving tanker near Sohar anchorage, Oman
-- 10/12 03:17 [financialjuice] UKMTO: status of crew, damage evaluation, and environmental impact unknown at time of report
-- 10/12 03:24 [FirstSquawk] UKMTO SAYS IT HAS RECEIVED A REPORT OF AN INCIDENT INVOLVING A TANKER NEAR THE SOHAR ANCHORAGE, OMAN, WITH THE STATUS OF THE CREW, DAMAGE EVALUATION AND ENVIRONMENTAL IMPACT UNKNOWN AT THE TIME OF THE REPORT
-- 10/12 03:28 [financialjuice] Saudi civil aviation: Dammam airport targeted on Sunday evening
-- 10/12 03:29 [financialjuice] Saudi civil aviation: efforts underway to evaluate airport damage
-- 10/12 03:31 [FirstSquawk] SAUDI CIVIL AVIATION SAYS DAMMAM AIRPORT WAS TARGETED ON SUNDAY EVENING, WITH EFFORTS UNDERWAY TO EVALUATE THE AIRPORT DAMAGE
 - 10/12 04:05 [financialjuice] At least 72 Sudanese artisanal miners killed in Saturday airstrike: rights monitor
 - 10/12 04:28 [DeItaone] TRUMP’S RUSSIAN DIESEL DEAL SPARKS REPUBLICAN REVOLT Republican Senator Thom Tillis warns Trump’s Russian diesel deal may be illegal and put American lives at risk. Treasury Secretary Bessent defends the deal, while Canada condemns it. Mean…
 - 10/12 04:45 [financialjuice] Syria central bank issues first letter of credit to facilitate petroleum supply deal between Syrian Petroleum Company and Saudi Aramco: statement
@@ -62,6 +39,40 @@
 - 10/12 06:05 [financialjuice] UKMTO: reclassified event at Anchorage in Oman’s Sohar as an attack
 - 10/12 06:05 [financialjuice] UKMTO: Tanker hit by drone, local authorities help evacuate crew
 - 10/12 06:10 [financialjuice] Amazon in talks to acquire AI startup Decart for about $7 billion - WSJ
-- 10/12 06:20 [financialjuice] UK embassy in Saudi Arabia cautions British citizens against all but essential travel to Jeddah, Dammam and all Saudi airports except Medina airport - post on X
+- 10/12 06:20 [financialjuice/FirstSquawk] UK embassy in Saudi Arabia cautions British citizens against all but essential travel to Jeddah, Dammam and all Saudi airports except Medina airport - post on X
 - 10/12 06:39 [financialjuice] Trump: new press secretary Zacharia to hold news conference on Tuesday
 - 10/12 06:41 [DeItaone] TRUMP: NEW PRESS SECRETARY ZACHARIA WILL HOLD A NEWS CONFERENCE ON TUESDAY
+- 10/12 07:17 [financialjuice] Saudi civil aviation: one dead, 11 wounded in Sunday assault on King Khalid International Airport in Riyadh
+- 10/12 08:39 [FirstSquawk] AMAZON IN TALKS TO BUY AI STARTUP DECART FOR AROUND $7 BILLION - WSJ
+- 10/12 08:40 [financialjuice] Judge orders immediate stop to taxpayer-funded pro-Trump ads, including those planned for tonight - Politico
+- 10/12 08:40 [FirstSquawk] JUDGE ORDERS IMMEDIATE HALT TO TAXPAYER-FUNDED PRO-TRUMP ADS, INCLUDING ADS SCHEDULED TO RUN TONIGHT — POLITICO
+- 10/12 08:42 [financialjuice] Saudi civil defense issues warning over potential hazard in Abha - post on X
+- 10/12 08:42 [FirstSquawk] TRUMP SAYS HE WANTS TO ‘PAY MY RESPECT AND THANKS TO KAROLINE LEAVITT FOR THE FANTASTIC JOB SHE HAS DONE AS WHITE HOUSE PRESS SECRETARY’, ADDING IT ‘COULD NOT HAVE BEEN BETTER’ - TRUTH SOCIAL
+- 10/12 08:43 [financialjuice] South Korea finance minister: will implement market stabilizing steps if necessary amid high global yields
+- 10/12 08:43 [FirstSquawk] SAUDI ARABIA’S ENERGY MINISTER HAS SIGNED THREE ENERGY COOPERATION MOUS WITH KUWAIT, QATAR AND EGYPT, WITH THE MOU BETWEEN SAUDI ARABIA AND QATAR AIMING TO SET A FRAMEWORK FOR COOPERATION IN PETROLEUM, GAS, PETROCHEMICALS AND OTHERS, AND TO…
+- 10/12 08:43 [financialjuice] Saudi civil defence: danger has passed in Abha
+- 10/12 08:45 [FirstSquawk] CANADA PM CARNEY’S OFFICE SAYS CARNEY SPOKE TO TRUMP AND THAT CANADA WILL MAXIMISE EXPORTS OF OIL AND DIESEL TO THE U.S., WITH OIL EXPORTS TO THE U.S. YIELDING OVER 1 MLN BARRELS OF DIESEL DAILY.
+- 10/12 08:45 [FirstSquawk] CANADA PM CARNEY’S OFFICE SAYS HE SUPPORTS AN ENERGY CEASEFIRE BETWEEN UKRAINE AND RUSSIA.
+- 10/12 08:59 [financialjuice] Saudi-led coalition: intercepted ballistic missile launched by Yemen's Houthis toward Saudi Arabia's Khamis Mushait
+- 10/12 09:00 [financialjuice] S. Korea Oct 1-10 trade surplus provisional $3.8 billion: customs agency
+- 10/12 09:00 [financialjuice] S. Korea Oct 1-10 imports jump 65.5% y/y: customs agency
+- 10/12 09:00 [financialjuice] S.Korea Oct 1-10 chip exports rise 170.9% y/y: customs agency
+- 10/12 09:00 [financialjuice] S.Korea oct 1-10 exports rise 102% y/y: customs agency
+- 10/12 09:15 [FirstSquawk] India Strongly Objects to JD Vance’s Remarks on H-1B Visa Workers, Calling Them “Deeply Offensive” - LeadingReport
+- 10/12 09:16 [FirstSquawk] EUROPEAN EQUITY FUTURES TRADE HIGHER; EURO STOXX 50 AND DAX GAIN 0.4%, FTSE RISES 0.3%
+- 10/12 09:17 [FirstSquawk] GOLDMAN SACHS REPORTS THAT 36% OF WORKERS WITH ANNUAL INCOMES ABOVE $300,000 LIVE PAYCHECK TO PAYCHECK
+- 10/12 09:23 [financialjuice] North Korea launches unidentified projectile toward sea off east coast: South Korea military
+- 10/12 09:23 [FirstSquawk] Asia-Pacific equities open mixed amid lingering geopolitical concerns after the weekend, with market activity muted by Japan’s Sports Day holiday and the Columbus Day holiday in the US
+- 10/12 09:24 [FirstSquawk] NORTH KOREA LAUNCHES UNIDENTIFIED PROJECTILE INTO WATERS OFF ITS EAST COAST, SOUTH KOREAN MILITARY SAYS
+- 10/12 09:25 [financialjuice] China PBOC likely to set yuan midpoint at 6.6977 per dollar: estimate
+- 10/12 09:30 [FirstSquawk] Hong Kong Should Ease Listing Requirements to Draw More Start-Ups and Angel Funding, HKEIA Says
+- 10/12 09:31 [FirstSquawk] Trump, Rubio Consider Firing US Ambassador to Greece Amid Mounting Allegations of Improper Conduct - SCMP
+- 10/12 09:34 [FirstSquawk] Washington Reverses Stance on UK’s Testing of Artificial Intelligence Models, According to The Telegraph
+- 10/12 09:38 [financialjuice] Projectile believed to be a ballistic missile from North Korea seems to have already landed: Japan Coast Guard
+- 10/12 09:39 [FirstSquawk] JAPAN COAST GUARD REPORTS THAT PROJECTILE BELIEVED TO BE A NORTH KOREAN BALLISTIC MISSILE APPEARS TO HAVE FALLEN
+- 10/12 09:39 [financialjuice] North Korea fired potential ballistic missile, seems to have already landed: Japan coast guard
+- 10/12 09:41 [FirstSquawk] SUSPECTED NORTH KOREAN BALLISTIC MISSILE APPEARS TO HAVE ALREADY LANDED, JAPAN COAST GUARD SAYS
+- 10/12 09:42 [FirstSquawk] TENCENT PREPARES PROPOSED US DOLLAR AND OFFSHORE YUAN BOND OFFERING, WITH BANKS MANDATED, TERM SHEET SHOWS
+- 10/12 09:42 [financialjuice] Japan coast guard issues second alert on possible North Korea ballistic missile
+- 10/12 09:43 [FirstSquawk] TENCENT PROPOSES DOLLAR BONDS WITH 10- AND 20-YEAR MATURITIES AND YUAN BONDS WITH 10- AND 30-YEAR TENORS, SHEET SHOWS
+- 10/12 09:43 [FirstSquawk] JAPAN COAST GUARD ISSUES FRESH WARNING FOLLOWING POSSIBLE NORTH KOREAN BALLISTIC MISSILE LAUNCH

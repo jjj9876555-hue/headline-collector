@@ -7,64 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-12 06:50 JST／対象: 10/11 06:50 〜 10/12 06:50 JST（時刻はすべて日本時間）
+生成: 2026-10-12 09:46 JST／対象: 10/11 09:46 〜 10/12 09:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 10/11 19:54 | 10/12 06:41 | ⚠ 268分（00:00→04:28） |
-| FirstSquawk | 152 | 10/11 09:02 | 10/12 04:58 | ⚠ 86分（03:31→04:58） |
-| financialjuice | 85 | 10/11 07:09 | 10/12 06:39 | ⚠ 148分（13:39→16:07） |
+| FirstSquawk | 149 | 10/11 09:47 | 10/12 09:43 | ⚠ 113分（04:58→06:51） |
+| financialjuice | 82 | 10/11 11:12 | 10/12 09:42 | ⚠ 148分（13:39→16:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 229 行（統合前 246 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 222 行（統合前 240 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/11 07:09 [financialjuice] UKMTO reports incident in Strait of Hormuz
-- 10/11 07:09 [financialjuice] Ukmto: master of outbound tanker reports port side hit by unidentified projectile, causing fire on board
-- 10/11 07:10 [financialjuice] UKMTO: crew reported safe, damage assessment and environmental impact unknown at time of report
-- 10/11 07:22 [financialjuice] Saudi-led coalition: intercepted and destroyed ballistic missile in al-Kharj launched by Yemen's Houthis - post on X
-- 10/11 07:59 [financialjuice] Saudi-led coalition: Yemen's Houthis responsible for Saturday attack on King Khalid Airport in Riyadh
-- 10/11 08:00 [financialjuice] Saudi-led coalition: Houthi assault on Riyadh airport a war crime
-- 10/11 08:00 [financialjuice] Justice Dept. investigating TV networks over Trump pool coverage: New York Times
-- 10/11 08:01 [financialjuice] Saudi-led coalition: will respond firmly to attack
-- 10/11 08:47 [financialjuice] US Justice Department spokesperson: antitrust division is merely probing whether news organizations breached competition laws
-- 10/11 08:55 [financialjuice] US Secretary of State Rubio: United States strongly denounces recent assaults on Saudi Arabia
-- 10/11 08:59 [financialjuice] Rubio: American killed in assaults
-- 10/11 09:02 [FirstSquawk] Riyadh airport attack leaves 12 dead and more than 300 wounded, according to Saudi officials - Politico
-- 10/11 09:03 [FirstSquawk] Rubio says an American citizen was killed in the attacks.
-- 10/11 09:03 [FirstSquawk] Yemen's air force to target Houthi military installations and cut off supply lines, Al Arabiya reports, citing a military source.
-- 10/11 09:04 [financialjuice] Saudi-led coalition: drone destroyed in Saudi Arabia's eastern region
-- 10/11 09:04 [FirstSquawk] Yemeni military source: Eastern and western Taiz supply routes identified as “kill boxes” against Houthi forces, Al Arabiya reports.
-- 10/11 09:05 [FirstSquawk] US Secretary of State Rubio: Washington strongly condemns recent assaults on Saudi Arabia.
-- 10/11 09:06 [FirstSquawk] DOJ opens official probes into five major US news networks: ABC, CBS, CNN, NBC and Fox News.
-- 10/11 09:06 [FirstSquawk] Yemen's armed forces identify several Houthi targets in Taiz, military source says.
-- 10/11 09:07 [financialjuice] Trump: Ukraine needs to hold an election
-- 10/11 09:08 [FirstSquawk] DOJ spokesperson says antitrust division is investigating potential competition law violations by news organizations.
-- 10/11 09:09 [financialjuice] US Centcom: commercial cargo vessel disabled in Gulf of Oman after crew ignored warnings, tried to breach naval blockade on Iran
-- 10/11 09:10 [financialjuice] Trump: would like to see Fetterman switch to Republican
-- 10/11 09:10 [financialjuice] US Centcom: Military fighter jet hit stern of Panama-flagged M/V Ocean Molica with precision munition, completely disabling ship's propulsion
-- 10/11 09:11 [financialjuice] US Centcom: large cargo ship tried to pass regional waters after leaving Iranian port
-- 10/11 09:11 [financialjuice] Trump: calls Saudi attack 'a terrible thing'
-- 10/11 09:14 [FirstSquawk] Nvidia discusses additional funding for Reflection AI or a possible takeover, according to the Financial Times.
-- 10/11 09:16 [FirstSquawk] UN envoy to Yemen: Houthi strikes on Saudi Arabia mark a dangerous escalation, undermining regional security and peace initiatives.
-- 10/11 09:18 [FirstSquawk] NYT reports DOJ investigation into TV networks’ coverage of Trump’s press pool.
-- 10/11 09:20 [FirstSquawk] Toshiba to Double HDD Supply Amid AI Memory Shortage Toshiba plans to double hard-disk drive supply to address a memory gap driven by AI demand. The Japanese technology group will expand its Philippine plant and increase storage capacity pe…
-- 10/11 09:21 [FirstSquawk] Riyadh airport attack leaves at least 12 dead and over 300 injured; officials attribute strike to Houthis.
-- 10/11 09:22 [FirstSquawk] Yemen’s Al-Alimi renews pledge to press ahead with Operation Dawn of Yemen.
-- 10/11 09:22 [FirstSquawk] Al-Alimi stresses the shared security interests of Saudi Arabia and Yemen and their peoples.
-- 10/11 09:27 [FirstSquawk] Yemeni Leadership Council president strongly condemns Houthi assault on Saudi Arabia’s King Khalid International Airport.
-- 10/11 09:32 [FirstSquawk] Saudi-led coalition pledges a firm response to the assault.
-- 10/11 09:33 [FirstSquawk] Sanders claims taxpayers who paid just $1 in federal income taxes contributed more than Citigroup, which made $4 billion in profits, charged 32.74% on credit cards and slashed 20,000 jobs.
-- 10/11 09:34 [FirstSquawk] US Justice Department investigates TV networks over reporting on Trump’s press pool, according to the New York Times.
-- 10/11 09:40 [FirstSquawk] Trump condemns Houthi attack on Riyadh airport, says Saudi forces are capable of defending the kingdom - WSN
-- 10/11 09:42 [FirstSquawk] Trump denounces assault on Saudi Arabia as “terrible.”
-- 10/11 09:42 [FirstSquawk] Large cargo vessel attempted to cross regional waters after leaving Iran, US CENTCOM says.
-- 10/11 09:44 [FirstSquawk] US CENTCOM says a military fighter jet struck the stern of Panama-flagged M/V Ocean Molica with precision munition, completely disabling its propulsion.
 - 10/11 09:47 [FirstSquawk] Trump says he hopes Fetterman switches party affiliation to Republican.
 - 10/11 09:51 [FirstSquawk] Honda Eyes Cheaper EVs With Wireless Expressway Charging Honda plans to test technology that charges electric vehicles wirelessly while they are moving on expressways. The system could reduce range anxiety, ease dependence on charging infra…
 - 10/11 09:57 [FirstSquawk] Saudi-led coalition reports interception and destruction of a Houthi ballistic missile in Al-Kharj.
@@ -250,6 +209,40 @@
 - 10/12 06:05 [financialjuice] UKMTO: reclassified event at Anchorage in Oman’s Sohar as an attack
 - 10/12 06:05 [financialjuice] UKMTO: Tanker hit by drone, local authorities help evacuate crew
 - 10/12 06:10 [financialjuice] Amazon in talks to acquire AI startup Decart for about $7 billion - WSJ
-- 10/12 06:20 [financialjuice] UK embassy in Saudi Arabia cautions British citizens against all but essential travel to Jeddah, Dammam and all Saudi airports except Medina airport - post on X
+- 10/12 06:20 [financialjuice/FirstSquawk] UK embassy in Saudi Arabia cautions British citizens against all but essential travel to Jeddah, Dammam and all Saudi airports except Medina airport - post on X
 - 10/12 06:39 [financialjuice] Trump: new press secretary Zacharia to hold news conference on Tuesday
 - 10/12 06:41 [DeItaone] TRUMP: NEW PRESS SECRETARY ZACHARIA WILL HOLD A NEWS CONFERENCE ON TUESDAY
+- 10/12 07:17 [financialjuice] Saudi civil aviation: one dead, 11 wounded in Sunday assault on King Khalid International Airport in Riyadh
+- 10/12 08:39 [FirstSquawk] AMAZON IN TALKS TO BUY AI STARTUP DECART FOR AROUND $7 BILLION - WSJ
+- 10/12 08:40 [financialjuice] Judge orders immediate stop to taxpayer-funded pro-Trump ads, including those planned for tonight - Politico
+- 10/12 08:40 [FirstSquawk] JUDGE ORDERS IMMEDIATE HALT TO TAXPAYER-FUNDED PRO-TRUMP ADS, INCLUDING ADS SCHEDULED TO RUN TONIGHT — POLITICO
+- 10/12 08:42 [financialjuice] Saudi civil defense issues warning over potential hazard in Abha - post on X
+- 10/12 08:42 [FirstSquawk] TRUMP SAYS HE WANTS TO ‘PAY MY RESPECT AND THANKS TO KAROLINE LEAVITT FOR THE FANTASTIC JOB SHE HAS DONE AS WHITE HOUSE PRESS SECRETARY’, ADDING IT ‘COULD NOT HAVE BEEN BETTER’ - TRUTH SOCIAL
+- 10/12 08:43 [financialjuice] South Korea finance minister: will implement market stabilizing steps if necessary amid high global yields
+- 10/12 08:43 [FirstSquawk] SAUDI ARABIA’S ENERGY MINISTER HAS SIGNED THREE ENERGY COOPERATION MOUS WITH KUWAIT, QATAR AND EGYPT, WITH THE MOU BETWEEN SAUDI ARABIA AND QATAR AIMING TO SET A FRAMEWORK FOR COOPERATION IN PETROLEUM, GAS, PETROCHEMICALS AND OTHERS, AND TO…
+- 10/12 08:43 [financialjuice] Saudi civil defence: danger has passed in Abha
+- 10/12 08:45 [FirstSquawk] CANADA PM CARNEY’S OFFICE SAYS CARNEY SPOKE TO TRUMP AND THAT CANADA WILL MAXIMISE EXPORTS OF OIL AND DIESEL TO THE U.S., WITH OIL EXPORTS TO THE U.S. YIELDING OVER 1 MLN BARRELS OF DIESEL DAILY.
+- 10/12 08:45 [FirstSquawk] CANADA PM CARNEY’S OFFICE SAYS HE SUPPORTS AN ENERGY CEASEFIRE BETWEEN UKRAINE AND RUSSIA.
+- 10/12 08:59 [financialjuice] Saudi-led coalition: intercepted ballistic missile launched by Yemen's Houthis toward Saudi Arabia's Khamis Mushait
+- 10/12 09:00 [financialjuice] S. Korea Oct 1-10 trade surplus provisional $3.8 billion: customs agency
+- 10/12 09:00 [financialjuice] S. Korea Oct 1-10 imports jump 65.5% y/y: customs agency
+- 10/12 09:00 [financialjuice] S.Korea Oct 1-10 chip exports rise 170.9% y/y: customs agency
+- 10/12 09:00 [financialjuice] S.Korea oct 1-10 exports rise 102% y/y: customs agency
+- 10/12 09:15 [FirstSquawk] India Strongly Objects to JD Vance’s Remarks on H-1B Visa Workers, Calling Them “Deeply Offensive” - LeadingReport
+- 10/12 09:16 [FirstSquawk] EUROPEAN EQUITY FUTURES TRADE HIGHER; EURO STOXX 50 AND DAX GAIN 0.4%, FTSE RISES 0.3%
+- 10/12 09:17 [FirstSquawk] GOLDMAN SACHS REPORTS THAT 36% OF WORKERS WITH ANNUAL INCOMES ABOVE $300,000 LIVE PAYCHECK TO PAYCHECK
+- 10/12 09:23 [financialjuice] North Korea launches unidentified projectile toward sea off east coast: South Korea military
+- 10/12 09:23 [FirstSquawk] Asia-Pacific equities open mixed amid lingering geopolitical concerns after the weekend, with market activity muted by Japan’s Sports Day holiday and the Columbus Day holiday in the US
+- 10/12 09:24 [FirstSquawk] NORTH KOREA LAUNCHES UNIDENTIFIED PROJECTILE INTO WATERS OFF ITS EAST COAST, SOUTH KOREAN MILITARY SAYS
+- 10/12 09:25 [financialjuice] China PBOC likely to set yuan midpoint at 6.6977 per dollar: estimate
+- 10/12 09:30 [FirstSquawk] Hong Kong Should Ease Listing Requirements to Draw More Start-Ups and Angel Funding, HKEIA Says
+- 10/12 09:31 [FirstSquawk] Trump, Rubio Consider Firing US Ambassador to Greece Amid Mounting Allegations of Improper Conduct - SCMP
+- 10/12 09:34 [FirstSquawk] Washington Reverses Stance on UK’s Testing of Artificial Intelligence Models, According to The Telegraph
+- 10/12 09:38 [financialjuice] Projectile believed to be a ballistic missile from North Korea seems to have already landed: Japan Coast Guard
+- 10/12 09:39 [FirstSquawk] JAPAN COAST GUARD REPORTS THAT PROJECTILE BELIEVED TO BE A NORTH KOREAN BALLISTIC MISSILE APPEARS TO HAVE FALLEN
+- 10/12 09:39 [financialjuice] North Korea fired potential ballistic missile, seems to have already landed: Japan coast guard
+- 10/12 09:41 [FirstSquawk] SUSPECTED NORTH KOREAN BALLISTIC MISSILE APPEARS TO HAVE ALREADY LANDED, JAPAN COAST GUARD SAYS
+- 10/12 09:42 [FirstSquawk] TENCENT PREPARES PROPOSED US DOLLAR AND OFFSHORE YUAN BOND OFFERING, WITH BANKS MANDATED, TERM SHEET SHOWS
+- 10/12 09:42 [financialjuice] Japan coast guard issues second alert on possible North Korea ballistic missile
+- 10/12 09:43 [FirstSquawk] TENCENT PROPOSES DOLLAR BONDS WITH 10- AND 20-YEAR MATURITIES AND YUAN BONDS WITH 10- AND 30-YEAR TENORS, SHEET SHOWS
+- 10/12 09:43 [FirstSquawk] JAPAN COAST GUARD ISSUES FRESH WARNING FOLLOWING POSSIBLE NORTH KOREAN BALLISTIC MISSILE LAUNCH
