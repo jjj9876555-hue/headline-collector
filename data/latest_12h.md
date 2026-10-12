@@ -7,104 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-13 01:07 JST／対象: 10/12 13:07 〜 10/13 01:07 JST（時刻はすべて日本時間）
+生成: 2026-10-13 07:57 JST／対象: 10/12 19:57 〜 10/13 07:57 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 30 | 10/12 20:20 | 10/13 00:23 | 43分（21:01→21:45） |
-| FirstSquawk | 126 | 10/12 13:21 | 10/13 01:00 | ⚠ 190分（15:36→18:46） |
-| financialjuice | 69 | 10/12 13:30 | 10/13 00:56 | ⚠ 217分（15:11→18:49） |
+| DeItaone | 55 | 10/12 20:20 | 10/13 06:05 | ⚠ 129分（03:55→06:04） |
+| FirstSquawk | 118 | 10/12 19:57 | 10/13 07:28 | ⚠ 68分（05:08→06:17） |
+| financialjuice | 130 | 10/12 19:59 | 10/13 07:52 | ⚠ 55分（00:56→01:51） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 216 行（統合前 226 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 290 行（統合前 304 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/12 13:21 [FirstSquawk] POLAND WARNS NATO TO BRACE FOR A POTENTIALLY DEADLY RUSSIAN HYBRID ATTACK — FT
-- 10/12 13:28 [FirstSquawk] JPMORGAN INCREASES GENUINE PARTS CO'S TARGET PRICE TO $137, UP FROM $125
-- 10/12 13:29 [FirstSquawk] CHINA DESALINATION FACILITY REDUCES ENERGY CONSUMPTION BY 60% THROUGH BRINE-TO-SALT PROCESS — SCMP
-- 10/12 13:30 [financialjuice] Dutch August trade surplus expands to 8.3 billion euros: CBS
-- 10/12 13:32 [FirstSquawk] MALAYSIA SHIPS 1.12 MLN TONNES OF PALM OIL IN SEPTEMBER, DOWN 12.13% FROM AUGUST — MPOB
-- 10/12 13:33 [FirstSquawk] MALAYSIA'S CRUDE PALM OIL PRODUCTION INCREASES TO 2.12 MLN TONNES IN SEPTEMBER, UP 16.48% MONTH-ON-MONTH — MPOB
-- 10/12 13:41 [FirstSquawk] HONG KONG WORKERS FEAR AI-DRIVEN JOB DISRUPTION, YET MOST ARE UNPREPARED FOR RETIREMENT — SCMP
-- 10/12 13:48 [FirstSquawk] JPMORGAN REDUCES AMERICAN EXPRESS TARGET PRICE TO $360, DOWN FROM $400
-- 10/12 13:56 [FirstSquawk] CHINA'S ENERGY POLICYMAKERS GAIN PROMINENCE AMID AI-DRIVEN DEMAND AND IRAN WAR RISKS - SCMP
-- 10/12 13:58 [FirstSquawk] INDONESIAN STOCKS SLIDE 2%, WITH BENCHMARK INDEX HITTING ITS LOWEST LEVEL SINCE MID-JULY AT 5,971.778
-- 10/12 13:59 [FirstSquawk] FUTU: ALIBABA'S LATEST LINGGUANG APP VERSION COMPETES WITH META MUSE
-- 10/12 14:01 [financialjuice] China auto industry body CPCA: September passenger car sales decline 28.1% to 1.63 million units year-on-year
-- 10/12 14:01 [FirstSquawk] CHINA'S SEPTEMBER PASSENGER CAR SALES FALL 28.1% YEAR-ON-YEAR TO 1.63 MLN — CPCA
-- 10/12 14:09 [FirstSquawk] JAPAN SURVEY FINDS VEHICLES SUBMERGED AT 80 UNDERPASSES OVER 10 YEARS — KYODO
-- 10/12 14:10 [financialjuice] DUTCH TRADE BALANCE ACTUAL 8.300B (FORECAST -, PREVIOUS 11.014B) $MACRO
-- 10/12 14:10 [FirstSquawk] CHINA'S AI ECOSYSTEM AND SUPPLY CHAIN POSITION UNDERPIN ITS ROLE IN THE GLOBAL AI INDUSTRY — WSJ
-- 10/12 14:11 [FirstSquawk] DUTCH TRADE SURPLUS EXPANDS TO €8.3 BILLION IN AUGUST, CBS SAYS
-- 10/12 14:16 [FirstSquawk] CHINA SAYS IT HELD INTENSIVE CONSULTATIONS WITH EU ON HYBRID AND ELECTRIC VEHICLE TRADE AND ECONOMIC DISPUTES
-- 10/12 14:17 [financialjuice] China commerce ministry, on talks with the EU: Two sides conducted intensive consultations on the trade of hybrid vehicles and electric vehicles, and balancedly handled economic and trade differences and mutual concerns
-- 10/12 14:17 [FirstSquawk] CHINA COMMERCE MINISTRY: CHINA AND EU AGREE TO RAISE HYBRID VEHICLE EXPORT LEVELS BASED ON 2025 FIGURES
-- 10/12 14:17 [financialjuice] China commerce ministry, on hybrid vehicles: both sides have agreed on an upward adjustment based on the 2025 figure to ensure export opportunities and stable growth for Chinese enterprises, whilst addressing concerns
-- 10/12 14:18 [financialjuice] China's commerce ministry, on hybrid vehicles: No measures shall be specifically targeted at Chinese products, nor shall Chinese enterprises be treated in a 'discriminatory manner’
-- 10/12 14:18 [FirstSquawk] CHINA COMMERCE MINISTRY: CHINESE PRODUCTS MUST NOT FACE TARGETED MEASURES OR DISCRIMINATORY TREATMENT
-- 10/12 14:18 [financialjuice] China's commerce ministry, on hybrid vehicles: Both sides confirmed that trade arrangements must comply with World Trade Organization rules
-- 10/12 14:18 [FirstSquawk] CHINA, EU CONFIRM HYBRID VEHICLE TRADE ARRANGEMENTS WILL FOLLOW WTO RULES — CHINA COMMERCE MINISTRY
-- 10/12 14:18 [financialjuice] China commerce ministry, on electric vehicles: EU will continue to advance the relevant procedures concerning corporate price undertakings in the electric vehicle case, as well as other review procedures
-- 10/12 14:18 [FirstSquawk] EU TO PROCEED WITH REVIEWS OF CORPORATE PRICE UNDERTAKINGS AND OTHER PROCEDURES IN EV CASE, CHINA SAYS
-- 10/12 14:19 [FirstSquawk] CHINA SAYS EARLIER EV UNDERSTANDING WITH EU DELIVERED MUTUAL BENEFITS, PROTECTED CHINESE FIRMS AND PREVENTED FURTHER TRADE FRICTION
-- 10/12 14:21 [FirstSquawk] TESLA SHIPPED 30,529 VEHICLES MADE IN CHINA TO OVERSEAS MARKETS IN SEPTEMBER, CPCA SAYS
-- 10/12 14:26 [FirstSquawk] AUSTRALIAN STOCKS GAIN 0.8% AS S&P/ASX 200 SETTLES AT 8,783.20
-- 10/12 14:26 [FirstSquawk] JAPAN AND AUSTRALIA'S RENTAL HOUSING SECTORS ATTRACT INVESTORS AMID HIGHER RATES AND PROPERTY PRICES - NA
-- 10/12 14:33 [FirstSquawk] FTX’S OLD BITCOIN-MINING INFRASTRUCTURE FINDS A NEW ROLE AMID SURGING AI DEMAND — WSJ
-- 10/12 14:41 [FirstSquawk] JAPAN NEEDS TARGETED INVESTMENT TO IMPROVE PRODUCTIVITY AS ECONOMIC GROWTH LOSES STEAM
-- 10/12 14:48 [FirstSquawk] JEFFERIES REVISES WELLTOWER'S PRICE TARGET DOWNWARD TO $260 FROM $275
-- 10/12 15:00 [FirstSquawk] CRUDE PRICES FALL AS TRUMP CLAIMS ENERGY CEASEFIRE IN UKRAINE CONFLICT — FT
-- 10/12 15:01 [financialjuice] EU's Foreign Minister Kallas: I welcome the Ukraine energy ceasefire in Ukraine, but it is not yet seen if Russia is going to stick to it
-- 10/12 15:02 [FirstSquawk] CHINESE NEW ENERGY VEHICLE SALES INCREASE 11.1% Y/Y DURING THE FIRST NINE MONTHS, STATE MEDIA SAYS
-- 10/12 15:07 [FirstSquawk] EU'S KALLAS: PRESSURING RUSSIA TO END THE WAR WOULD PAVE THE WAY FOR UKRAINE TO HOLD ELECTIONS
-- 10/12 15:07 [FirstSquawk] EU'S KALLAS: EUROPE WOULD BENEFIT IF THE UK AND US COORDINATED MORE CLOSELY ON PRESSURE AGAINST RUSSIA
-- 10/12 15:08 [FirstSquawk] EU'S KALLAS: ENERGY CEASEFIRE IN UKRAINE IS WELCOME, BUT RUSSIA'S COMPLIANCE IS YET TO BE SEEN
-- 10/12 15:09 [FirstSquawk] IMF'S GEORGIEVA: REDUCING NON-TARIFF BARRIERS AND DEEPENING REGIONAL TRADE TIES COULD RAISE ASIA'S GDP BY AROUND 1.8% OVER TIME
-- 10/12 15:11 [financialjuice] EU's Kallas: We would call our United States' partners to get the Russian sanctions in place so that we could actually finish the war
-- 10/12 15:11 [FirstSquawk] EU'S KALLAS: WE URGE OUR US PARTNERS TO PUT SANCTIONS ON RUSSIA SO THE WAR CAN END
-- 10/12 15:15 [FirstSquawk] CHINA'S SEPTEMBER NEW ENERGY VEHICLE SALES GAIN 13.6% Y/Y, ACCORDING TO INDUSTRY ASSOCIATION
-- 10/12 15:17 [FirstSquawk] IMF'S SRINIVASAN WARNS CHINA, SOUTH KOREA AND JAPAN COULD SEE WORKFORCES FALL BY A QUARTER BY 2050 AMID DEMOGRAPHIC AGEING
-- 10/12 15:20 [FirstSquawk] GERMANY SAYS US HAS BEEN RELIABLE IN SUPPLYING WEAPONS TO UKRAINE THROUGH PURL, EXPECTS CONTINUED COMMITMENT
-- 10/12 15:21 [FirstSquawk] GERMAN EUROPE MINISTER: UKRAINE WILL HOLD ELECTIONS ONCE POLLS CAN BE CONDUCTED ACROSS THE WHOLE COUNTRY
-- 10/12 15:24 [FirstSquawk] ESTONIAN FOREIGN MINISTER QUESTIONS EFFECTIVENESS OF RUSSIA-UKRAINE ENERGY CEASEFIRE, CALLS IT 'NOT WORKING'
-- 10/12 15:29 [FirstSquawk] WTI CRUDE FALLS NEAR $90 ON EXPECTATIONS THAT RUSSIA-UKRAINE ENERGY TRUCE COULD EASE SUPPLY CONCERNS - FX
-- 10/12 15:33 [FirstSquawk] VOLKSWAGEN'S NORTH AMERICAN VEHICLE DELIVERIES DECLINE 5.8% TO 232,000 UNITS IN Q3
-- 10/12 15:34 [FirstSquawk] VOLKSWAGEN'S VEHICLE DELIVERIES FALL 38.5% Y/Y IN Q3
-- 10/12 15:34 [FirstSquawk] VOLKSWAGEN'S WESTERN EUROPE DELIVERIES DECLINE 2.8% TO 780,000 UNITS IN THE THIRD QUARTER
-- 10/12 15:34 [FirstSquawk] VOLKSWAGEN REPORTS A 14.3% Y/Y DECLINE IN THIRD-QUARTER DELIVERIES
-- 10/12 15:35 [FirstSquawk] EU SANCTIONS ARE MAKING IT MORE DIFFICULT FOR RUSSIA'S PUTIN TO PROLONG THE WAR IN UKRAINE, GERMAN FOREIGN MINISTER SAYS
-- 10/12 15:35 [FirstSquawk] GERMANY SAYS LISTING DRONE PRODUCERS ADDRESSES INCREASING RUSSIAN HYBRID ATTACKS AGAINST EU COUNTRIES
-- 10/12 15:36 [FirstSquawk] GERMAN FOREIGN MINISTER: RUSSIA CANNOT WIN THE UKRAINE WAR, AND OUR MESSAGE IS UNAMBIGUOUS
-- 10/12 18:46 [FirstSquawk] ARAMCO CEO AMIN NASSER SAYS GLOBALLY, THE SQUEEZE ON CRUDE OIL IS SERIOUS
-- 10/12 18:46 [FirstSquawk] AMIN NASSER: MAKING THE CHALLENGE EVEN WORSE IS THE SPIKE IN REFINED FUEL PRICES
-- 10/12 18:46 [FirstSquawk] MIN NASSER: COMMERCIAL ONSHORE INVENTORIES ARE NOW WELL BELOW SIX BILLION BARRELS, AND THEY ARE THE LAST AVAILABLE BUFFER
-- 10/12 18:46 [FirstSquawk] AMIN NASSER: COMMERCIAL ONSHORE INVENTORIES ARE NOW WELL BELOW SIX BILLION BARRELS, AND THEY ARE THE LAST AVAILABLE BUFFER
-- 10/12 18:46 [FirstSquawk] AMIN NASSER: THE VAST MAJORITY OF THESE BARRELS ARE LOCKED UP ; UNTIL HORMUZ FULLY RE-OPENS AND CONFIDENCE RETURNS, THE PRESSURE ACROSS THE ENERGY CHAIN WILL ONLY INTENSIFY
-- 10/12 18:47 [FirstSquawk] AMIN NASSER: RE-FILLING INVENTORIES WHILE MEETING DEMAND COULD TAKE UP TO TWO YEARS; ARAMCO CEO AMIN NASSER: WE ARE STUDYING ADDITIONAL CRUDE EXPORT ROUTES, AND WORKING ON EXPANDING OVERSEAS STORAGE.
-- 10/12 18:47 [FirstSquawk] AMIN NASSER: WE ARE TARGETING A ROUGHLY 80% INCREASE IN SALES-GAS PRODUCTION CAPACITY BY 2030 VERSUS 2021 PRODUCTION LEVELS
-- 10/12 18:48 [FirstSquawk] BOE'S BREEDEN: DIGITAL POUND MAY NOT BE NEEDED QUITE SO QUICKL
-- 10/12 18:49 [financialjuice] Poland seeks to secure saudi oil supplies if escalation repeats
-- 10/12 18:56 [financialjuice] Kremlin on energy ceasefire between Russia and Ukraine declared by Trump: Contacts are ongoing, we will inform you in due course
-- 10/12 18:56 [financialjuice] Kremlin on total ceasefire proposed by Ukraine to allow the presidential election to take place: We do not seek a ceasefire, but a long-lasting peace
-- 10/12 18:56 [financialjuice] Kremlin: We like the US' stance and are looking for solutions that will open the door to a peace settlement
-- 10/12 18:56 [financialjuice] Kremlin: Europeans are the party of war, they do everything for the war to continue
-- 10/12 18:57 [financialjuice] Kremlin on start of court hearings in Germany about Nord Stream gas pipeline blasts: We expect a just verdict that will reveal the names of the perpetrators and those who ordered it
-- 10/12 19:00 [FirstSquawk] YEMEN'S HOUTHIS TIGHTEN SIEGE OF KEY CITY TAIZ AMID CLASHES - AFP || FIGHTING KILLS OVER 60 IN PAST 24 HOURS, MILITARY SOURCES SAY
-- 10/12 19:00 [financialjuice] Italy's PM Meloni: Italy to introduce tax breaks aimed at promoting investments in the software industry through the 2027 budget
-- 10/12 19:05 [FirstSquawk] MELONI: TO INTRODUCE TAX BREAKS TO PROMOTE INVESTMENT IN SOFTWARE INDUSTRY THROUGH 2027 BUDGET
-- 10/12 19:09 [FirstSquawk] APPLE: JPMORGAN RAISES TARGET PRICE TO $360 FROM $340
-- 10/12 19:17 [financialjuice] Italy's PM Meloni: Italy to raise issue of greater budget flexibility needed to soften consumer and energy prices at this week's EU summit
-- 10/12 19:20 [FirstSquawk] ITALY TO RAISE ISSUE OF GREATER BUDGET FLEXIBILITY NEEDED TO SOFTEN CONSUMER AND ENERGY PRICES AT THIS WEEK'S EU SUMMIT, PM MELONI SAYS
-- 10/12 19:20 [FirstSquawk] GERMAN FINANCE MINISTRY SPOKESPERSON: STILL BEING ASSESSED WHETHER SECOND PLANNED PART OF MINISTER TRIP, IMF MEETING IN THAILAND, CAN GO AHEAD FROM MID- OR END-WEEK
-- 10/12 19:26 [FirstSquawk] SALESFORCE: BOFA RAISES TARGET PRICE TO $285 FROM $160; UPGRADES TO BUY FROM UNDERPERFORM
-- 10/12 19:35 [FirstSquawk] FRANCE'S MACRON EXPECTS A QUICK DEAL WITH BERLIN TO PROTECT EU AUTOMOBILES.
-- 10/12 19:39 [FirstSquawk/financialjuice] KREMLIN: READY TO HALT STRIKES FOR UKRAINE ELECTION DAY: TASS
-- 10/12 19:50 [FirstSquawk] CRYPTO EXCHANGE KRAKEN TO START OPERATIONS IN THE UAE AFTER GETTING COMPLETE REGULATORY APPROVAL.
 - 10/12 19:57 [FirstSquawk] https://t.co/c1FIxiVsHU : WELLS FARGO CUTS TARGET PRICE TO $329 FROM $338
 - 10/12 19:59 [financialjuice] China's he lifeneg meets Tim Cook - Xinhua. $AAPL
 - 10/12 20:01 [FirstSquawk] CHINA VICE PREMIER HE MET WITH APPLE CEO IN BEIJING - XINHUA
@@ -240,3 +159,158 @@
 - 10/13 00:55 [financialjuice] UKMTO receives time-late report of incident in Strait of Hormuz
 - 10/13 00:56 [financialjuice] UKMTO: An outbound tanker has been struck by an unknown projectile.
 - 10/13 01:00 [FirstSquawk] UKMTO: TIME-LATE REPORT OF OUTBOUND TANKER STRUCK BY UNKNOWN PROJECTILE IN STRAIT OF HORMUZ OCT 11
+- 10/13 01:17 [FirstSquawk] IRAN FM: HELD PHONE CALL WITH IRAQI COUNTERPART
+- 10/13 01:23 [DeItaone] IRAN'S AMBASSADOR TO UK DENIES ANY IRANIAN ROLE IN SUSPECTED PLOT TARGETING RAF FAIRFORD AIR BASE IN BRITAIN - IRANIAN STATE NEWS AGENCY
+- 10/13 01:28 [FirstSquawk] ADNOC LOGISTICS IN TALKS TO BUY STAKE IN HEA AT ~$3B VALUE: WSJ
+- 10/13 01:33 [FirstSquawk] IRANIAN AMBASSADOR TO UK REJECTS CLAIMS ON FAIRFORD BASE INCIDENT - IRNA
+- 10/13 01:40 [FirstSquawk] TOTALENERGIES: COMMITTED TO PASSING ON TO THE FRENCH PUBLIC THE BENEFITS ARISING FROM RELEASE OF STRATEGIC DIESEL STOCKS
+- 10/13 01:44 [FirstSquawk] FED'S HAMMACK SAYS INTEREST RATES NEED TO BE HIGHER
+- 10/13 01:44 [DeItaone] FED'S HAMMACK CALLS FOR MORE RATE HIKES AS INFLATION RISKS PERSIST Cleveland Fed President Beth Hammack says U.S. interest rates need to rise further to bring inflation back toward the Fed's 2% target. In an interview with Barron's, Hammack…
+- 10/13 01:46 [DeItaone] *FED'S HAMMACK SAYS MORE MONETARY POLICY TIGHTENING NEEDED *FED'S HAMMACK PREFERS SMALLER, MORE FREQUENT RATE MOVES *FED'S HAMMACK SAYS CURRENT POLICY NOT RESTRICTIVE ENOUGH *FED'S HAMMACK SAYS INFLATION RETURN TO TARGET TOO SLOW *FED'S HAM…
+- 10/13 01:51 [financialjuice] Hammack: steady job market offers scope to tackle inflation
+- 10/13 01:51 [financialjuice] Hammack: do not assume anchored inflation expectations as firms plan price hikes beyond input cost rises, signaling an inflationary mindset
+- 10/13 01:51 [financialjuice] Hammack: Fed officials have duty to clarify their decisions
+- 10/13 01:51 [FirstSquawk] HAMMACK SAYS THINK POLICY NEEDS TO BE RESTRICTIVE: BARRON'S
+- 10/13 01:51 [financialjuice] Hammack: important to clarify reaction function so businesses and households can plan effectively
+- 10/13 01:51 [FirstSquawk] HAMMACK: SEE FINANCIAL CONDITIONS AS NEUTRAL
+- 10/13 01:51 [FirstSquawk] FED'S HAMMACK: RESTRICTIVE POLICY NEEDED TO REACH 2% INFLATION
+- 10/13 01:51 [FirstSquawk] HAMMACK: CONTACTS SAY BUSINESS GENERALLY STRONG TO BOOMING
+- 10/13 01:55 [financialjuice] Zuckerberg: Introducing Muse Wonder. $META
+- 10/13 01:56 [financialjuice] Fed's Hammack's Speech
+- 10/13 01:57 [financialjuice] Zuckerberg: Introducing Muse Wonder, a larger, more advanced class of models. $META
+- 10/13 01:57 [financialjuice] Zuckerberg: Releasing two models today. $META
+- 10/13 01:58 [financialjuice] Zuckerberg: Muse Wonder rolling into other products soon $META
+- 10/13 02:01 [DeItaone] $META - MARK ZUCKERBERG SAYS META HAS REACHED AI ‘FRONTIER’ AND REJECTS CALLS FOR SLOWDOWN - FT
+- 10/13 02:02 [FirstSquawk] META DEBUTS MUSE WONDER AI MODEL WITH 'FRONTIER' CAPABILITIES
+- 10/13 02:03 [financialjuice] Meta's Zuckerberg signalled further spending as Meta was “already working on the next step up" - FT
+- 10/13 02:03 [financialjuice] Meta's Zuckerberg signalled further spending as Meta was “already working on the next step up" - FT $META
+- 10/13 02:04 [financialjuice] META's Zuckerberg: Meta has caught up with rivals at the frontier of AI - FT
+- 10/13 02:04 [financialjuice] META's Zuckerberg: Meta has reached AI ‘frontier’ and rejects calls for slowdown - FT
+- 10/13 02:05 [DeItaone] META UNVEILS NEW AI MODEL TO CHALLENGE OPENAI AND ANTHROPIC Meta ($META ) has launched Muse Wonder, a new AI model it claims competes with the world's most advanced systems. Key developments: 🔸 Performance: Meta claims Muse Wonder outperfor…
+- 10/13 02:06 [financialjuice] META's Zuckerberg: AI can be engineered with normal guardrails - FT
+- 10/13 02:11 [financialjuice] OPEC+ ministers met on the sidelines of the Riyadh conference - Statement
+- 10/13 02:20 [financialjuice] USPACOM: Consulting with allies on North Korea missiles fired October 12th
+- 10/13 02:23 [financialjuice] OPEC+ Ministers affirm the importance of protecting international maritime passages to ensure the continued flow of energy - Statement
+- 10/13 02:23 [financialjuice] OPEC+ Ministers: The current interruption in energy flows has led to shipping and insurance costs reaching unprecedented levels
+- 10/13 02:24 [financialjuice] Fed's Hammack: Rate projections provide helpful information
+- 10/13 02:26 [DeItaone] 🇫🇷 FITCH WARNS FRANCE FACES POTENTIAL CREDIT RATING DOWNGRADE Fitch Ratings warns that France's A+ credit rating is under pressure from rising government debt, weak economic growth and political instability. France's proposed 2027 budget ta…
+- 10/13 02:27 [DeItaone/financialjuice] FED'S HAMMACK: TREASURY RATES RIGHT NOW ARE "MODEST" BY HISTORIC STANDARDS
+- 10/13 02:28 [financialjuice] Fed's Hammack: If the economy were to return to a 3% home mortgage, it would likely mean something had gone wrong in the economy
+- 10/13 02:28 [DeItaone] HAMMACK: IF THE ECONOMY WERE TO RETURN TO A 3% HOME MORTGAGE IT WOULD LIKELY MEAN SOMETHING HAD GONE WRONG IN THE ECONOMY HAMMACK: THE NEUTRAL RATE IS LIKELY HIGHER BUT IT IS HARD TO PIN DOWN
+- 10/13 02:28 [financialjuice] Fed's Hammack: The neutral rate is likely higher, but it is hard to pin down
+- 10/13 02:29 [financialjuice] Iran's Major General Razaei: We will not return to the way we conducted diplomacy in the past.
+- 10/13 02:29 [financialjuice] Iran's Major General Razaei: US response to Iran’s conditions for ending the war is "inadequate".
+- 10/13 02:31 [financialjuice] Fed's Hammack: Hearing "early warning signs" of a possible problem with inflation expectations
+- 10/13 02:31 [financialjuice/FirstSquawk] Commander of the IRGC Navy: US mobilized all its resources to allow 4 or 5 oil tankers to pass through the Strait, just like a small-time smuggler.
+- 10/13 02:31 [DeItaone] HAMMACK: HEARING "EARLY WARNING SIGNS" OF A POSSIBLE PROBLEM WITH INFLATION EXPECTATIONS
+- 10/13 02:33 [financialjuice] Fed's Hammack: Need to "cool the economy at the margins"
+- 10/13 02:33 [DeItaone] HAMMACK: HIGHER INTEREST RATES WON'T DISSUADE HYPERSCALERS, BUT MIGHT INFLUENCE FIRMS IN OTHER INDUSTRIES
+- 10/13 02:34 [financialjuice] Fed's Hammack: Higher interest rates won't dissuade hyperscalers, but might influence firms in other industries.
+- 10/13 02:35 [DeItaone] HAMMACK: THE QUESTION FOR THE FED NOW IS HOW FAST TO MAKE POLICY MORE RESTRICTIVE
+- 10/13 02:35 [financialjuice] Fed's Hammack: Not aiming for rates to make a radical impact on the economy
+- 10/13 02:35 [financialjuice] Fed's Hammack: The question for the Fed now is how fast to make policy more restrictive
+- 10/13 02:35 [financialjuice] Fed's Hammack: Don't want to threaten the jobs side of the Fed's mandate
+- 10/13 02:40 [financialjuice] Fed's Hammack: There is more restraint that is needed; if monetary policy does nothing, market conditions would change
+- 10/13 02:40 [financialjuice] Hammack: More restraint needed; without monetary policy action market conditions could shift
+- 10/13 02:41 [financialjuice] Fed's Hammack: I have one of the higher FOMC projections for neutral
+- 10/13 02:41 [DeItaone] HAMMACK: COMMENTS FROM LOW INCOME WORKERS WAS FIRST ABOUT TRADING DOWN, NOW THEY ARE BEGINNING TO JUGGLE WHAT BILLS TO PAY
+- 10/13 02:41 [financialjuice] Fed's Hammack: Comments from low-income workers were first about trading down, now they are beginning to juggle what bills to pay
+- 10/13 02:52 [FirstSquawk] IRAN’S MAJOR GENERAL REZAEI SAYS THE U.S. RESPONSE TO IRAN’S CONDITIONS FOR ENDING THE WAR IS ‘INADEQUATE’, ADDING THAT ‘WE WILL NOT RETURN TO THE WAY WE CONDUCTED DIPLOMACY IN THE PAST’
+- 10/13 02:53 [FirstSquawk] ALBERTSONS WANTS $8 BLN FROM KROGER AFTER FAILED MERGER - WSJ READ HERE
+- 10/13 02:53 [FirstSquawk] ALBERTSONS WANTS $8 BLN FROM KROGER AFTER FAILED MERGER - WSJ
+- 10/13 02:54 [FirstSquawk] OPEC+ MINISTERS, WHO MET ON THE SIDELINES OF THE RIYADH CONFERENCE, AFFIRM THE IMPORTANCE OF PROTECTING INTERNATIONAL MARITIME PASSAGES TO ENSURE THE CONTINUED FLOW OF ENERGY, A STATEMENT SAYS.
+- 10/13 02:54 [FirstSquawk] OPEC+ MINISTERS SAY THE CURRENT INTERRUPTION IN ENERGY FLOWS HAS LED TO SHIPPING AND INSURANCE COSTS REACHING UNPRECEDENTED LEVELS.
+- 10/13 02:55 [FirstSquawk] FED’S HAMMACK SAYS RESTRICTIVE POLICY IS NEEDED TO REACH 2% INFLATION AND THAT MORE RESTRAINT IS REQUIRED, WITH THE QUESTION FOR THE FED NOW BEING ‘HOW FAST TO MAKE POLICY MORE RESTRICTIVE’, ADDING THAT THE FED NEEDS TO ‘COOL THE ECONOMY AT…
+- 10/13 02:55 [FirstSquawk] FED'S HAMMACK SAYS SHE HAS ONE OF THE HIGHER FOMC PROJECTIONS FOR NEUTRAL AND THAT THE NEUTRAL RATE IS LIKELY HIGHER BUT HARD TO PIN DOWN, DESCRIBING TREASURY RATES AS ‘MODEST’ BY HISTORIC STANDARDS AND FINANCIAL CONDITIONS AS NEUTRAL, WHIL…
+- 10/13 02:55 [FirstSquawk] FED'S HAMMACK SAYS CONTACTS DESCRIBE BUSINESS AS ‘GENERALLY STRONG TO BOOMING’, BUT THAT COMMENTS FROM LOW-INCOME WORKERS WERE FIRST ABOUT TRADING DOWN AND NOW THEY ARE ‘BEGINNING TO JUGGLE WHAT BILLS TO PAY’.
+- 10/13 02:56 [FirstSquawk] PENTAGON, SBA SIGN AGREEMENT EXPANDING CAPITAL ACCESS FOR DEFENCE INDUSTRIAL BASE - HILL
+- 10/13 03:00 [DeItaone] 🇫🇷 FRENCH THIRD-QUARTER GROWTH SEEN AT 0.1%, UNCHANGED FROM PREVIOUS ESTIMATE, CENTRAL BANK SAYS
+- 10/13 03:00 [FirstSquawk] FRANCE Q3 GROWTH SEEN AT 0.1%, UNCHANGED FROM PREVIOUS ESTIMATE — CENTRAL BANK
+- 10/13 03:01 [financialjuice] ECB’s Moulin: The French is economy holding up, faced with energy shock.
+- 10/13 03:01 [financialjuice] Bank of France governor Moulin: Bank of France industry uncertainty gauge highest since April
+- 10/13 03:02 [DeItaone] SAUDI ARABIA ISSUES EARLY WARNING ALERT FOR POTENTIAL HOSTILE THREAT IN RIYADH - MESSAGE SEEN BY REUTERS
+- 10/13 03:02 [financialjuice] Saudi: Warning issued in Riyadh for potential danger.
+- 10/13 03:02 [FirstSquawk] SAUDI ARABIA ISSUES EARLY WARNING ALERT FOR POTENTIAL HOSTILE THREAT IN RIYADH — SOURCES
+- 10/13 03:03 [DeItaone] 🇫🇷 FRANCE'S ECONOMY STALLS AS GROWTH HITS JUST 0.1% France's economy grew just 0.1% in Q3, following stagnation in Q2, according to the Bank of France. Rising energy costs, weak manufacturing and sluggish construction continue to weigh on g…
+- 10/13 03:03 [DeItaone] THREE BOOMS HEARD IN RIYADH - REUTERS WITNESS
+- 10/13 03:04 [financialjuice] Three booms heard in Riyadh - Witness.
+- 10/13 03:05 [FirstSquawk] RIYADH: THREE BOOMS HEARD AS SAUDI ARABIA ISSUES WARNING FOR POTENTIAL DANGER — WITNESS/SOURCES
+- 10/13 03:12 [financialjuice] Saudi Authorities: The threat has passed.
+- 10/13 03:12 [FirstSquawk] SAUDI AUTHORITIES SAY THREAT IN RIYADH HAS PASSED — SOURCES
+- 10/13 03:13 [financialjuice/FirstSquawk] Qatar sets November Marine crude OSP at Oman/Dubai minus $8/bbl; Land crude OSP at Oman/Dubai minus $7.50/bbl - Pricing Document.
+- 10/13 03:14 [financialjuice] Saudi-led Coalition destroyed a ballistic missile fired by Yemen's Houthis towards Riyadh - Statement.
+- 10/13 03:17 [FirstSquawk] DATING APP BUMBLE IS IN ADVANCED TALKS TO GO PRIVATE AT A $1 BLN VALUATION, WITH A DEAL POTENTIALLY COMING AS SOON AS THIS WEEK - WSJ
+- 10/13 03:22 [financialjuice] UKMTO received a report that a container vessel was struck by an unknown projectile while transiting inbound through the Strait of Hormuz.
+- 10/13 03:24 [DeItaone] *UKMTO: CONTAINER VESSEL REPORTEDLY STRUCK BY UNKNOWN PROJECTILE
+- 10/13 03:26 [DeItaone] RUSSIA’S NOVAK ON DIESEL SUPPLY DEAL WITH TRUMP: THERE ARE TALKS BETWEEN GOVERNMENTS OF RUSSIA AND US ON SUPPLY
+- 10/13 03:26 [DeItaone] RUSSIA'S NOVAK: WE HAVE POSSIBILITY TO MAKE ADDITIONAL SUPPLIES OF DIESEL ON GLOBAL MARKETS
+- 10/13 03:26 [financialjuice] Russia’s Deputy PM Novak on diesel supply deal with Trump: There are talks between the governments of Russia and the us on supply. We have the possibility to make additional supplies of diesel on global markets.
+- 10/13 03:27 [financialjuice] Russia’s Deputy PM Novak: Additional supplies from Russia will partially balance supply and demand.
+- 10/13 03:28 [financialjuice] Russia’s Deputy PM Novak: By the year-end, Russia may reach 3-3.5 million tons of diesel exports.
+- 10/13 03:29 [DeItaone] RUSSIA'S NOVAK: RUSSIA HAS SUPPLIED ENERGY WORTH $21.3 BLN TO EU THIS YEAR
+- 10/13 03:29 [financialjuice] Russia’s Deputy PM Novak: Russia has supplied energy worth $21.3 bln to the EU this year.
+- 10/13 03:31 [financialjuice] NYMEX WTI Crude November futures settle at $93.74 a barrel, up $1.89, 2.06%.
+- 10/13 03:31 [financialjuice] NYMEX Gasoline November futures settle at $3.2917 a gallon.
+- 10/13 03:31 [financialjuice] Russia's Novak: OPEC+ has discussed transportation costs, which have significantly increased
+- 10/13 03:31 [financialjuice] NYMEX Diesel November futures settle at $4.7232 a gallon.
+- 10/13 03:32 [financialjuice] NYMEX Natural Gas November futures settle at $3.1670/MMBtu.
+- 10/13 03:39 [financialjuice] The Trump Administration plans to move AI testing agency officials to the White House - The Information.
+- 10/13 03:52 [FirstSquawk] UKMTO RECEIVED A REPORT THAT A CONTAINER VESSEL WAS STRUCK BY AN UNKNOWN PROJECTILE WHILE TRANSITING INBOUND THROUGH THE STRAIT OF HORMUZ ON OCTOBER 11TH.
+- 10/13 03:54 [financialjuice] Brent Crude futures settle at $106.65/bbl, up $1.93, 1.84%.
+- 10/13 03:54 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 1.84% HIGHER AT $106.65/BBL, UP $1.93
+- 10/13 03:54 [FirstSquawk] RUSSIA’S DEPUTY PM NOVAK SAYS ON A DIESEL SUPPLY DEAL WITH TRUMP THAT ‘THERE ARE TALKS BETWEEN THE GOVERNMENTS OF RUSSIA AND THE US ON SUPPLY’, ADDING THAT RUSSIA HAS ‘THE POSSIBILITY TO MAKE ADDITIONAL SUPPLIES OF DIESEL ON GLOBAL MARKETS’…
+- 10/13 03:54 [FirstSquawk] RUSSIA’S DEPUTY PM NOVAK SAYS RUSSIA HAS SUPPLIED ENERGY WORTH $21.3 BLN TO THE EU THIS YEAR, ADDING THAT OPEC+ HAS DISCUSSED TRANSPORTATION COSTS, WHICH HAVE SIGNIFICANTLY INCREASED.
+- 10/13 03:55 [DeItaone] IRAN ACCUSES UK OF STAGING FALSE FLAG ATTACK AT RAF FAIRFORD Iran's Foreign Ministry has categorically denied British accusations linking Tehran to a security incident at RAF Fairford. Tehran accused London of fabricating allegations and or…
+- 10/13 03:55 [FirstSquawk] THE TRUMP ADMINISTRATION PLANS TO MOVE AI TESTING AGENCY OFFICIALS TO THE WHITE HOUSE, SEEKING TO INTEGRATE CAISI INTO THE AI DECISION-MAKING PROCESS - THE INFORMATION
+- 10/13 04:00 [financialjuice/FirstSquawk] US State Department: Rubio and UK's Miliband discussed continued collaboration to secure US assets in United Kingdom.
+- 10/13 04:02 [financialjuice/FirstSquawk] UK Navy: Crude oil tanker struck by unknown projectile in Hormuz
+- 10/13 04:04 [financialjuice] Yemen's Houthis: We targeted Riyadh airport with ballistic missiles on Monday.
+- 10/13 04:06 [financialjuice] Russia’s Deputy PM Novak: Russian companies are discussing diesel sales with buyers.
+- 10/13 04:11 [FirstSquawk] IRAN’S TASNIM REPORTS THAT IRANIAN SECURITY CHIEF REZAEE AND INDIA’S NATIONAL SECURITY ADVISER DOVAL DISCUSSED REGIONAL ISSUES IN A CALL
+- 10/13 04:19 [financialjuice] Yemen's Armed Forces warn airlines, employees, and passengers that no Saudi airspace or airports are safe except Mecca and Medina, urge against travel - Fars News.
+- 10/13 04:23 [FirstSquawk] YEMEN’S HOUTHIS SAY THEY TARGETED RIYADH AIRPORT WITH A BALLISTIC MISSILE ON MONDAY AND AN AIR BASE IN SAUDI ARABIA’S KHAMIS MUSHAIT WITH A DRONE, WITH NO IMMEDIATE SAUDI CONFIRMATION OF THE HOUTHIS’ STATEMENT
+- 10/13 04:29 [FirstSquawk] CEZ SAYS IT HAS RECEIVED NOTICE OF ORDERS BY A LUXEMBOURG COURT BAILIFF CONCERNING CEZ’S EQUITY INTERESTS IN CZECH GAS NETWORKS AND CZECH GAS NETWORKS INVESTMENTS, ISSUED FOLLOWING PROCEDURAL STEPS TAKEN BEFORE LUXEMBOURG AUTHORITIES BY DIA…
+- 10/13 04:29 [FirstSquawk] CEZ SAYS IT WILL USE ALL AVAILABLE LEGAL REMEDIES TO PROTECT ITS RIGHTS AND LEGITIMATE INTERESTS, EXPECTING THE ORDERS TO BE SET ASIDE BY THE COURTS WITHIN A MATTER OF MONTHS, WITH RELEVANT ACTIONS TO BE FILED IN THE COMING DAYS.
+- 10/13 04:32 [financialjuice] US Envoy Kushner: The diesel deal is an effort to soften Russia.
+- 10/13 04:35 [financialjuice] Intel Begins Customer Sampling of D-Series GPUs, Expands Agentic AI Infrastructure $INTC
+- 10/13 04:39 [FirstSquawk] INTEL HAS BEGUN CUSTOMER SAMPLING OF ITS D-SERIES GPUS AND IS EXPANDING ITS AGENTIC AI INFRASTRUCTURE, ACCELERATING DEVELOPMENT OF OPEN INFRASTRUCTURE TO SUPPORT THE EMERGING AGENTIC AI ERA
+- 10/13 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 1235.1 MLN NASDAQ 100: 807.3 MLN DOW 30: 99.2 MLN MAG 7: 156.5 MLN $MACRO
+- 10/13 05:01 [FirstSquawk] DOW JONES CLOSES 0.37% HIGHER AT 51,844.83, UP 189.88 POINTS
+- 10/13 05:01 [FirstSquawk] S&P 500 CLOSES 0.07% LOWER AT 7,806.39, DOWN 5.15 POINTS
+- 10/13 05:01 [FirstSquawk] NASDAQ CLOSES 0.43% LOWER AT 27,248.36, DOWN 117.81 POINTS
+- 10/13 05:02 [FirstSquawk] CRUDE OIL PRICES CLIMBED AS UNCERTAINTY OVER A PROPOSED RUSSIA-UKRAINE ENERGY CEASEFIRE AND FRESH ATTACKS ON SAUDI ARABIA HEIGHTENED CONCERNS ABOUT GLOBAL SUPPLY DISRUPTIONS, WITH BRENT CRUDE RISING 1.8% TO $106.65 A BARREL AND WTI GAINING …
+- 10/13 05:03 [FirstSquawk] SUPPLY RISKS INTENSIFIED AFTER SAUDI ARABIA REPORTED FRESH HOSTILE THREATS AND TANKER ATTACKS ESCALATED IN THE STRAIT OF HORMUZ, FORCING SOME EMPTY SUPERTANKERS TO TURN AWAY FROM THE PERSIAN GULF AND POTENTIALLY DELAYING CRUDE SHIPMENTS, WI…
+- 10/13 05:03 [FirstSquawk] TRUMP’S PLAN TO FACILITATE RUSSIAN DIESEL EXPORTS HAS DRAWN CRITICISM FROM UKRAINE, EUROPEAN OFFICIALS AND U.S. LAWMAKERS, WITH MOSCOW SAYING IT COULD SHIP 500,000 TONS OF FUEL TO FOREIGN MARKETS FOLLOWING A U.S. TREASURY WAIVER FOR PREVIOU…
+- 10/13 05:07 [financialjuice] Tuesday FX Option Expiries
+- 10/13 05:08 [FirstSquawk] J&J’S TREMFYA HAS SHOWN CONSISTENT RESULTS IN CROHN’S DISEASE, HITTING 94% CLINICAL REMISSION AT THREE YEARS AND 28% FISTULA REMISSION VERSUS 10% IN PLACEBO
+- 10/13 05:10 [financialjuice] S&P 500 Wavers Ahead of Earnings as Chip Stocks Slide – US Market Wrap
+- 10/13 05:16 [financialjuice] Navitas collaborates with NVIDIA on next-gen AI infrastructure. $NVDA $NVTS
+- 10/13 06:00 [financialjuice] Trump: Zelenskyy and Putin have to get together and end war.
+- 10/13 06:01 [financialjuice] Trump: considering firing US ambassador to Greece
+- 10/13 06:03 [financialjuice] North Korea test-fires tactical ballistic missile: KCNA
+- 10/13 06:03 [financialjuice] North Korea: test-fire confirms success of technical upgrade of key missile component -KCNA
+- 10/13 06:04 [DeItaone] Trump: We have the best stock market in history. We have the best 401ks in history
+- 10/13 06:05 [DeItaone] Trump on Iran: They have no navy; they have no air force. Inflation is through the roof."
+- 10/13 06:05 [DeItaone] Trump: Zelensky has to focus on making a deal
+- 10/13 06:05 [financialjuice] North Korea’s Kim Jong Un: Weaponry development to be accelerated and finalized more rigorously - KCNA
+- 10/13 06:05 [DeItaone] Trump: Putin wants to make a deal, we need to get Zelenskyy to make a deal
+- 10/13 06:17 [FirstSquawk] NORTHERN OIL AND GAS (NOG) HAS PROVIDED A THIRD-QUARTER OPERATIONAL UPDATE, EXPECTING Q3 CAPITAL EXPENDITURES OF $250 MLN-$253 MLN EXCLUDING NON-BUDGETED ACQUISITIONS, ALONG WITH Q3 UNREALIZED MARK-TO-MARKET LOSSES OF $300 MLN-$320 MLN ON D…
+- 10/13 06:17 [FirstSquawk] NORTHERN OIL AND GAS REITERATES ITS 2026 CAPITAL EXPENDITURES GUIDANCE, ADDING THAT CAPEX IS EXPECTED TO TREND LOWER IN Q4 ABSENT SIGNIFICANT NON-BUDGETED ACTIVITY, THOUGH BASED ON THE CURRENT PACE IT EXPECTS 2026 CAPITAL SPENDING TO BE TOW…
+- 10/13 06:27 [financialjuice] Google blog launches Project Suncatcher prototype satellite with Planet on SpaceX Transporter-18
+- 10/13 06:27 [financialjuice] Google blog confirms project Suncatcher satellite functioning as anticipated
+- 10/13 06:35 [financialjuice] Fed's Hammack: more tightening needed but open to adjusting pace of rate increases
+- 10/13 06:35 [financialjuice] Hammack: Inflation pressures spreading beyond Al, with other companies also performing well and prepared to invest
+- 10/13 06:35 [financialjuice] Hammack: Business contacts sounding more like economy is thriving than about to slow down
+- 10/13 06:35 [financialjuice] Hammack: policy curbs will need to reduce demand via capital spending or consumption
+- 10/13 06:38 [FirstSquawk] FED’S HAMMACK SAYS MORE TIGHTENING IS NEEDED BUT THAT SHE IS OPEN TO ADJUSTING THE PACE OF RATE INCREASES, SAYING SHE DOESN’T WANT TO DETER GROWTH BUT MAY NEED TO ‘EASE IT BACK A BIT’, WITH POLICY CURBS NEEDING TO REDUCE DEMAND VIA CAPITAL …
+- 10/13 06:38 [FirstSquawk] FED'S HAMMACK SAYS INFLATION PRESSURES ARE SPREADING BEYOND AI, WITH OTHER COMPANIES ALSO PERFORMING WELL AND PREPARED TO INVEST, AND THAT BUSINESS CONTACTS ARE SOUNDING ‘MORE LIKE THE ECONOMY IS THRIVING THAN ABOUT TO SLOW DOWN’.
+- 10/13 07:08 [financialjuice] Uisee Technologies (Beijing) Co chairman buys 12,000 H shares on 12 October 2026
+- 10/13 07:25 [FirstSquawk] KROGER PLANS TO CUT ABOUT 3,000 CORPORATE JOBS, OR MORE THAN 37% OF ITS APPROXIMATELY 8,200 CORPORATE WORKFORCE, OVER THE NEXT THREE YEARS AS CEO GREG FORAN SEEKS TO SIMPLIFY OPERATIONS, REDUCE OVERHEAD AND IMPROVE EFFICIENCY.
+- 10/13 07:25 [FirstSquawk] KROGER CUTS AIM TO FREE UP RESOURCES FOR LOWER PRICES, BETTER SHOPPING EXPERIENCES AND FRONTLINE STAFF INVESTMENTS, AS KROGER FACES SLOWING GROWTH, INTENSE COMPETITION AND INFLATION PRESSURES. THE COMPANY ALSO PLANS TO REDUCE DUPLICATIVE WO…
+- 10/13 07:25 [FirstSquawk] UK PRIME MINISTER ANDY BURNHAM SAID SECURITY OFFICIALS INFORMED HIM THAT RUSSIA INTERFERED IN THE 2016 BREXIT REFERENDUM, RENEWING CONCERNS ABOUT FOREIGN DISINFORMATION IN EUROPEAN DEMOCRACIES. BREXIT SUPPORTERS, INCLUDING NIGEL FARAGE AND …
+- 10/13 07:25 [FirstSquawk] BURNHAM’S OFFICE STRESSED THAT THE GOVERNMENT CONSIDERS THE REFERENDUM RESULT LEGITIMATE, WITH 52% VOTING TO LEAVE THE EU AND 48% TO REMAIN. THE REMARKS COME AS THE UK SEEKS CLOSER EU TIES THROUGH TALKS ON FOOD STANDARDS, YOUTH MOBILITY AND…
+- 10/13 07:25 [financialjuice] Coinbase: aware users facing delayed transfers of Celestia; buys, sells, and fiat transactions unaffected
+- 10/13 07:28 [FirstSquawk] KIM JONG UN: N.KOREAN WEAPONRY WILL BE DEVELOPED AND COMPLETED MORE STRENUOUSLY -KCNA
+- 10/13 07:28 [FirstSquawk] U.S. PRESIDENT TRUMP SAYS ZELENSKIY AND PUTIN ‘HAVE TO GET TOGETHER’ AND END THE WAR, ADDING THAT HE THINKS BOTH PUTIN AND ZELENSKIY SUPPORT AN ENERGY CEASEFIRE
+- 10/13 07:42 [financialjuice] xa launches x subscription merging Grok, Grok Bot, Cursor, and X Premium worldwide
+- 10/13 07:52 [financialjuice] Xai subscription costs range between $8 and $200 per month
