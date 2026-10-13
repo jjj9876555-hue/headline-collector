@@ -7,144 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-13 07:57 JST／対象: 10/13 01:57 〜 10/13 07:57 JST（時刻はすべて日本時間）
+生成: 2026-10-13 12:28 JST／対象: 10/13 06:28 〜 10/13 12:28 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 22 | 10/13 02:01 | 10/13 06:05 | ⚠ 129分（03:55→06:04） |
-| FirstSquawk | 46 | 10/13 02:02 | 10/13 07:28 | ⚠ 68分（05:08→06:17） |
-| financialjuice | 74 | 10/13 01:57 | 10/13 07:52 | 44分（05:16→06:00） |
+| DeItaone | 0 | - | - | - |
+| FirstSquawk | 88 | 10/13 06:38 | 10/13 12:09 | ⚠ 88分（07:28→08:57） |
+| financialjuice | 8 | 10/13 06:35 | 10/13 07:52 | 33分（06:35→07:08） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 137 行（統合前 142 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 96 行（統合前 96 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/13 01:57 [financialjuice] Zuckerberg: Introducing Muse Wonder, a larger, more advanced class of models. $META
-- 10/13 01:57 [financialjuice] Zuckerberg: Releasing two models today. $META
-- 10/13 01:58 [financialjuice] Zuckerberg: Muse Wonder rolling into other products soon $META
-- 10/13 02:01 [DeItaone] $META - MARK ZUCKERBERG SAYS META HAS REACHED AI ‘FRONTIER’ AND REJECTS CALLS FOR SLOWDOWN - FT
-- 10/13 02:02 [FirstSquawk] META DEBUTS MUSE WONDER AI MODEL WITH 'FRONTIER' CAPABILITIES
-- 10/13 02:03 [financialjuice] Meta's Zuckerberg signalled further spending as Meta was “already working on the next step up" - FT
-- 10/13 02:03 [financialjuice] Meta's Zuckerberg signalled further spending as Meta was “already working on the next step up" - FT $META
-- 10/13 02:04 [financialjuice] META's Zuckerberg: Meta has caught up with rivals at the frontier of AI - FT
-- 10/13 02:04 [financialjuice] META's Zuckerberg: Meta has reached AI ‘frontier’ and rejects calls for slowdown - FT
-- 10/13 02:05 [DeItaone] META UNVEILS NEW AI MODEL TO CHALLENGE OPENAI AND ANTHROPIC Meta ($META ) has launched Muse Wonder, a new AI model it claims competes with the world's most advanced systems. Key developments: 🔸 Performance: Meta claims Muse Wonder outperfor…
-- 10/13 02:06 [financialjuice] META's Zuckerberg: AI can be engineered with normal guardrails - FT
-- 10/13 02:11 [financialjuice] OPEC+ ministers met on the sidelines of the Riyadh conference - Statement
-- 10/13 02:20 [financialjuice] USPACOM: Consulting with allies on North Korea missiles fired October 12th
-- 10/13 02:23 [financialjuice] OPEC+ Ministers affirm the importance of protecting international maritime passages to ensure the continued flow of energy - Statement
-- 10/13 02:23 [financialjuice] OPEC+ Ministers: The current interruption in energy flows has led to shipping and insurance costs reaching unprecedented levels
-- 10/13 02:24 [financialjuice] Fed's Hammack: Rate projections provide helpful information
-- 10/13 02:26 [DeItaone] 🇫🇷 FITCH WARNS FRANCE FACES POTENTIAL CREDIT RATING DOWNGRADE Fitch Ratings warns that France's A+ credit rating is under pressure from rising government debt, weak economic growth and political instability. France's proposed 2027 budget ta…
-- 10/13 02:27 [DeItaone/financialjuice] FED'S HAMMACK: TREASURY RATES RIGHT NOW ARE "MODEST" BY HISTORIC STANDARDS
-- 10/13 02:28 [financialjuice] Fed's Hammack: If the economy were to return to a 3% home mortgage, it would likely mean something had gone wrong in the economy
-- 10/13 02:28 [DeItaone] HAMMACK: IF THE ECONOMY WERE TO RETURN TO A 3% HOME MORTGAGE IT WOULD LIKELY MEAN SOMETHING HAD GONE WRONG IN THE ECONOMY HAMMACK: THE NEUTRAL RATE IS LIKELY HIGHER BUT IT IS HARD TO PIN DOWN
-- 10/13 02:28 [financialjuice] Fed's Hammack: The neutral rate is likely higher, but it is hard to pin down
-- 10/13 02:29 [financialjuice] Iran's Major General Razaei: We will not return to the way we conducted diplomacy in the past.
-- 10/13 02:29 [financialjuice] Iran's Major General Razaei: US response to Iran’s conditions for ending the war is "inadequate".
-- 10/13 02:31 [financialjuice] Fed's Hammack: Hearing "early warning signs" of a possible problem with inflation expectations
-- 10/13 02:31 [financialjuice/FirstSquawk] Commander of the IRGC Navy: US mobilized all its resources to allow 4 or 5 oil tankers to pass through the Strait, just like a small-time smuggler.
-- 10/13 02:31 [DeItaone] HAMMACK: HEARING "EARLY WARNING SIGNS" OF A POSSIBLE PROBLEM WITH INFLATION EXPECTATIONS
-- 10/13 02:33 [financialjuice] Fed's Hammack: Need to "cool the economy at the margins"
-- 10/13 02:33 [DeItaone] HAMMACK: HIGHER INTEREST RATES WON'T DISSUADE HYPERSCALERS, BUT MIGHT INFLUENCE FIRMS IN OTHER INDUSTRIES
-- 10/13 02:34 [financialjuice] Fed's Hammack: Higher interest rates won't dissuade hyperscalers, but might influence firms in other industries.
-- 10/13 02:35 [DeItaone] HAMMACK: THE QUESTION FOR THE FED NOW IS HOW FAST TO MAKE POLICY MORE RESTRICTIVE
-- 10/13 02:35 [financialjuice] Fed's Hammack: Not aiming for rates to make a radical impact on the economy
-- 10/13 02:35 [financialjuice] Fed's Hammack: The question for the Fed now is how fast to make policy more restrictive
-- 10/13 02:35 [financialjuice] Fed's Hammack: Don't want to threaten the jobs side of the Fed's mandate
-- 10/13 02:40 [financialjuice] Fed's Hammack: There is more restraint that is needed; if monetary policy does nothing, market conditions would change
-- 10/13 02:40 [financialjuice] Hammack: More restraint needed; without monetary policy action market conditions could shift
-- 10/13 02:41 [financialjuice] Fed's Hammack: I have one of the higher FOMC projections for neutral
-- 10/13 02:41 [DeItaone] HAMMACK: COMMENTS FROM LOW INCOME WORKERS WAS FIRST ABOUT TRADING DOWN, NOW THEY ARE BEGINNING TO JUGGLE WHAT BILLS TO PAY
-- 10/13 02:41 [financialjuice] Fed's Hammack: Comments from low-income workers were first about trading down, now they are beginning to juggle what bills to pay
-- 10/13 02:52 [FirstSquawk] IRAN’S MAJOR GENERAL REZAEI SAYS THE U.S. RESPONSE TO IRAN’S CONDITIONS FOR ENDING THE WAR IS ‘INADEQUATE’, ADDING THAT ‘WE WILL NOT RETURN TO THE WAY WE CONDUCTED DIPLOMACY IN THE PAST’
-- 10/13 02:53 [FirstSquawk] ALBERTSONS WANTS $8 BLN FROM KROGER AFTER FAILED MERGER - WSJ READ HERE
-- 10/13 02:53 [FirstSquawk] ALBERTSONS WANTS $8 BLN FROM KROGER AFTER FAILED MERGER - WSJ
-- 10/13 02:54 [FirstSquawk] OPEC+ MINISTERS, WHO MET ON THE SIDELINES OF THE RIYADH CONFERENCE, AFFIRM THE IMPORTANCE OF PROTECTING INTERNATIONAL MARITIME PASSAGES TO ENSURE THE CONTINUED FLOW OF ENERGY, A STATEMENT SAYS.
-- 10/13 02:54 [FirstSquawk] OPEC+ MINISTERS SAY THE CURRENT INTERRUPTION IN ENERGY FLOWS HAS LED TO SHIPPING AND INSURANCE COSTS REACHING UNPRECEDENTED LEVELS.
-- 10/13 02:55 [FirstSquawk] FED’S HAMMACK SAYS RESTRICTIVE POLICY IS NEEDED TO REACH 2% INFLATION AND THAT MORE RESTRAINT IS REQUIRED, WITH THE QUESTION FOR THE FED NOW BEING ‘HOW FAST TO MAKE POLICY MORE RESTRICTIVE’, ADDING THAT THE FED NEEDS TO ‘COOL THE ECONOMY AT…
-- 10/13 02:55 [FirstSquawk] FED'S HAMMACK SAYS SHE HAS ONE OF THE HIGHER FOMC PROJECTIONS FOR NEUTRAL AND THAT THE NEUTRAL RATE IS LIKELY HIGHER BUT HARD TO PIN DOWN, DESCRIBING TREASURY RATES AS ‘MODEST’ BY HISTORIC STANDARDS AND FINANCIAL CONDITIONS AS NEUTRAL, WHIL…
-- 10/13 02:55 [FirstSquawk] FED'S HAMMACK SAYS CONTACTS DESCRIBE BUSINESS AS ‘GENERALLY STRONG TO BOOMING’, BUT THAT COMMENTS FROM LOW-INCOME WORKERS WERE FIRST ABOUT TRADING DOWN AND NOW THEY ARE ‘BEGINNING TO JUGGLE WHAT BILLS TO PAY’.
-- 10/13 02:56 [FirstSquawk] PENTAGON, SBA SIGN AGREEMENT EXPANDING CAPITAL ACCESS FOR DEFENCE INDUSTRIAL BASE - HILL
-- 10/13 03:00 [DeItaone] 🇫🇷 FRENCH THIRD-QUARTER GROWTH SEEN AT 0.1%, UNCHANGED FROM PREVIOUS ESTIMATE, CENTRAL BANK SAYS
-- 10/13 03:00 [FirstSquawk] FRANCE Q3 GROWTH SEEN AT 0.1%, UNCHANGED FROM PREVIOUS ESTIMATE — CENTRAL BANK
-- 10/13 03:01 [financialjuice] ECB’s Moulin: The French is economy holding up, faced with energy shock.
-- 10/13 03:01 [financialjuice] Bank of France governor Moulin: Bank of France industry uncertainty gauge highest since April
-- 10/13 03:02 [DeItaone] SAUDI ARABIA ISSUES EARLY WARNING ALERT FOR POTENTIAL HOSTILE THREAT IN RIYADH - MESSAGE SEEN BY REUTERS
-- 10/13 03:02 [financialjuice] Saudi: Warning issued in Riyadh for potential danger.
-- 10/13 03:02 [FirstSquawk] SAUDI ARABIA ISSUES EARLY WARNING ALERT FOR POTENTIAL HOSTILE THREAT IN RIYADH — SOURCES
-- 10/13 03:03 [DeItaone] 🇫🇷 FRANCE'S ECONOMY STALLS AS GROWTH HITS JUST 0.1% France's economy grew just 0.1% in Q3, following stagnation in Q2, according to the Bank of France. Rising energy costs, weak manufacturing and sluggish construction continue to weigh on g…
-- 10/13 03:03 [DeItaone] THREE BOOMS HEARD IN RIYADH - REUTERS WITNESS
-- 10/13 03:04 [financialjuice] Three booms heard in Riyadh - Witness.
-- 10/13 03:05 [FirstSquawk] RIYADH: THREE BOOMS HEARD AS SAUDI ARABIA ISSUES WARNING FOR POTENTIAL DANGER — WITNESS/SOURCES
-- 10/13 03:12 [financialjuice] Saudi Authorities: The threat has passed.
-- 10/13 03:12 [FirstSquawk] SAUDI AUTHORITIES SAY THREAT IN RIYADH HAS PASSED — SOURCES
-- 10/13 03:13 [financialjuice/FirstSquawk] Qatar sets November Marine crude OSP at Oman/Dubai minus $8/bbl; Land crude OSP at Oman/Dubai minus $7.50/bbl - Pricing Document.
-- 10/13 03:14 [financialjuice] Saudi-led Coalition destroyed a ballistic missile fired by Yemen's Houthis towards Riyadh - Statement.
-- 10/13 03:17 [FirstSquawk] DATING APP BUMBLE IS IN ADVANCED TALKS TO GO PRIVATE AT A $1 BLN VALUATION, WITH A DEAL POTENTIALLY COMING AS SOON AS THIS WEEK - WSJ
-- 10/13 03:22 [financialjuice] UKMTO received a report that a container vessel was struck by an unknown projectile while transiting inbound through the Strait of Hormuz.
-- 10/13 03:24 [DeItaone] *UKMTO: CONTAINER VESSEL REPORTEDLY STRUCK BY UNKNOWN PROJECTILE
-- 10/13 03:26 [DeItaone] RUSSIA’S NOVAK ON DIESEL SUPPLY DEAL WITH TRUMP: THERE ARE TALKS BETWEEN GOVERNMENTS OF RUSSIA AND US ON SUPPLY
-- 10/13 03:26 [DeItaone] RUSSIA'S NOVAK: WE HAVE POSSIBILITY TO MAKE ADDITIONAL SUPPLIES OF DIESEL ON GLOBAL MARKETS
-- 10/13 03:26 [financialjuice] Russia’s Deputy PM Novak on diesel supply deal with Trump: There are talks between the governments of Russia and the us on supply. We have the possibility to make additional supplies of diesel on global markets.
-- 10/13 03:27 [financialjuice] Russia’s Deputy PM Novak: Additional supplies from Russia will partially balance supply and demand.
-- 10/13 03:28 [financialjuice] Russia’s Deputy PM Novak: By the year-end, Russia may reach 3-3.5 million tons of diesel exports.
-- 10/13 03:29 [DeItaone] RUSSIA'S NOVAK: RUSSIA HAS SUPPLIED ENERGY WORTH $21.3 BLN TO EU THIS YEAR
-- 10/13 03:29 [financialjuice] Russia’s Deputy PM Novak: Russia has supplied energy worth $21.3 bln to the EU this year.
-- 10/13 03:31 [financialjuice] NYMEX WTI Crude November futures settle at $93.74 a barrel, up $1.89, 2.06%.
-- 10/13 03:31 [financialjuice] NYMEX Gasoline November futures settle at $3.2917 a gallon.
-- 10/13 03:31 [financialjuice] Russia's Novak: OPEC+ has discussed transportation costs, which have significantly increased
-- 10/13 03:31 [financialjuice] NYMEX Diesel November futures settle at $4.7232 a gallon.
-- 10/13 03:32 [financialjuice] NYMEX Natural Gas November futures settle at $3.1670/MMBtu.
-- 10/13 03:39 [financialjuice] The Trump Administration plans to move AI testing agency officials to the White House - The Information.
-- 10/13 03:52 [FirstSquawk] UKMTO RECEIVED A REPORT THAT A CONTAINER VESSEL WAS STRUCK BY AN UNKNOWN PROJECTILE WHILE TRANSITING INBOUND THROUGH THE STRAIT OF HORMUZ ON OCTOBER 11TH.
-- 10/13 03:54 [financialjuice] Brent Crude futures settle at $106.65/bbl, up $1.93, 1.84%.
-- 10/13 03:54 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 1.84% HIGHER AT $106.65/BBL, UP $1.93
-- 10/13 03:54 [FirstSquawk] RUSSIA’S DEPUTY PM NOVAK SAYS ON A DIESEL SUPPLY DEAL WITH TRUMP THAT ‘THERE ARE TALKS BETWEEN THE GOVERNMENTS OF RUSSIA AND THE US ON SUPPLY’, ADDING THAT RUSSIA HAS ‘THE POSSIBILITY TO MAKE ADDITIONAL SUPPLIES OF DIESEL ON GLOBAL MARKETS’…
-- 10/13 03:54 [FirstSquawk] RUSSIA’S DEPUTY PM NOVAK SAYS RUSSIA HAS SUPPLIED ENERGY WORTH $21.3 BLN TO THE EU THIS YEAR, ADDING THAT OPEC+ HAS DISCUSSED TRANSPORTATION COSTS, WHICH HAVE SIGNIFICANTLY INCREASED.
-- 10/13 03:55 [DeItaone] IRAN ACCUSES UK OF STAGING FALSE FLAG ATTACK AT RAF FAIRFORD Iran's Foreign Ministry has categorically denied British accusations linking Tehran to a security incident at RAF Fairford. Tehran accused London of fabricating allegations and or…
-- 10/13 03:55 [FirstSquawk] THE TRUMP ADMINISTRATION PLANS TO MOVE AI TESTING AGENCY OFFICIALS TO THE WHITE HOUSE, SEEKING TO INTEGRATE CAISI INTO THE AI DECISION-MAKING PROCESS - THE INFORMATION
-- 10/13 04:00 [financialjuice/FirstSquawk] US State Department: Rubio and UK's Miliband discussed continued collaboration to secure US assets in United Kingdom.
-- 10/13 04:02 [financialjuice/FirstSquawk] UK Navy: Crude oil tanker struck by unknown projectile in Hormuz
-- 10/13 04:04 [financialjuice] Yemen's Houthis: We targeted Riyadh airport with ballistic missiles on Monday.
-- 10/13 04:06 [financialjuice] Russia’s Deputy PM Novak: Russian companies are discussing diesel sales with buyers.
-- 10/13 04:11 [FirstSquawk] IRAN’S TASNIM REPORTS THAT IRANIAN SECURITY CHIEF REZAEE AND INDIA’S NATIONAL SECURITY ADVISER DOVAL DISCUSSED REGIONAL ISSUES IN A CALL
-- 10/13 04:19 [financialjuice] Yemen's Armed Forces warn airlines, employees, and passengers that no Saudi airspace or airports are safe except Mecca and Medina, urge against travel - Fars News.
-- 10/13 04:23 [FirstSquawk] YEMEN’S HOUTHIS SAY THEY TARGETED RIYADH AIRPORT WITH A BALLISTIC MISSILE ON MONDAY AND AN AIR BASE IN SAUDI ARABIA’S KHAMIS MUSHAIT WITH A DRONE, WITH NO IMMEDIATE SAUDI CONFIRMATION OF THE HOUTHIS’ STATEMENT
-- 10/13 04:29 [FirstSquawk] CEZ SAYS IT HAS RECEIVED NOTICE OF ORDERS BY A LUXEMBOURG COURT BAILIFF CONCERNING CEZ’S EQUITY INTERESTS IN CZECH GAS NETWORKS AND CZECH GAS NETWORKS INVESTMENTS, ISSUED FOLLOWING PROCEDURAL STEPS TAKEN BEFORE LUXEMBOURG AUTHORITIES BY DIA…
-- 10/13 04:29 [FirstSquawk] CEZ SAYS IT WILL USE ALL AVAILABLE LEGAL REMEDIES TO PROTECT ITS RIGHTS AND LEGITIMATE INTERESTS, EXPECTING THE ORDERS TO BE SET ASIDE BY THE COURTS WITHIN A MATTER OF MONTHS, WITH RELEVANT ACTIONS TO BE FILED IN THE COMING DAYS.
-- 10/13 04:32 [financialjuice] US Envoy Kushner: The diesel deal is an effort to soften Russia.
-- 10/13 04:35 [financialjuice] Intel Begins Customer Sampling of D-Series GPUs, Expands Agentic AI Infrastructure $INTC
-- 10/13 04:39 [FirstSquawk] INTEL HAS BEGUN CUSTOMER SAMPLING OF ITS D-SERIES GPUS AND IS EXPANDING ITS AGENTIC AI INFRASTRUCTURE, ACCELERATING DEVELOPMENT OF OPEN INFRASTRUCTURE TO SUPPORT THE EMERGING AGENTIC AI ERA
-- 10/13 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 1235.1 MLN NASDAQ 100: 807.3 MLN DOW 30: 99.2 MLN MAG 7: 156.5 MLN $MACRO
-- 10/13 05:01 [FirstSquawk] DOW JONES CLOSES 0.37% HIGHER AT 51,844.83, UP 189.88 POINTS
-- 10/13 05:01 [FirstSquawk] S&P 500 CLOSES 0.07% LOWER AT 7,806.39, DOWN 5.15 POINTS
-- 10/13 05:01 [FirstSquawk] NASDAQ CLOSES 0.43% LOWER AT 27,248.36, DOWN 117.81 POINTS
-- 10/13 05:02 [FirstSquawk] CRUDE OIL PRICES CLIMBED AS UNCERTAINTY OVER A PROPOSED RUSSIA-UKRAINE ENERGY CEASEFIRE AND FRESH ATTACKS ON SAUDI ARABIA HEIGHTENED CONCERNS ABOUT GLOBAL SUPPLY DISRUPTIONS, WITH BRENT CRUDE RISING 1.8% TO $106.65 A BARREL AND WTI GAINING …
-- 10/13 05:03 [FirstSquawk] SUPPLY RISKS INTENSIFIED AFTER SAUDI ARABIA REPORTED FRESH HOSTILE THREATS AND TANKER ATTACKS ESCALATED IN THE STRAIT OF HORMUZ, FORCING SOME EMPTY SUPERTANKERS TO TURN AWAY FROM THE PERSIAN GULF AND POTENTIALLY DELAYING CRUDE SHIPMENTS, WI…
-- 10/13 05:03 [FirstSquawk] TRUMP’S PLAN TO FACILITATE RUSSIAN DIESEL EXPORTS HAS DRAWN CRITICISM FROM UKRAINE, EUROPEAN OFFICIALS AND U.S. LAWMAKERS, WITH MOSCOW SAYING IT COULD SHIP 500,000 TONS OF FUEL TO FOREIGN MARKETS FOLLOWING A U.S. TREASURY WAIVER FOR PREVIOU…
-- 10/13 05:07 [financialjuice] Tuesday FX Option Expiries
-- 10/13 05:08 [FirstSquawk] J&J’S TREMFYA HAS SHOWN CONSISTENT RESULTS IN CROHN’S DISEASE, HITTING 94% CLINICAL REMISSION AT THREE YEARS AND 28% FISTULA REMISSION VERSUS 10% IN PLACEBO
-- 10/13 05:10 [financialjuice] S&P 500 Wavers Ahead of Earnings as Chip Stocks Slide – US Market Wrap
-- 10/13 05:16 [financialjuice] Navitas collaborates with NVIDIA on next-gen AI infrastructure. $NVDA $NVTS
-- 10/13 06:00 [financialjuice] Trump: Zelenskyy and Putin have to get together and end war.
-- 10/13 06:01 [financialjuice] Trump: considering firing US ambassador to Greece
-- 10/13 06:03 [financialjuice] North Korea test-fires tactical ballistic missile: KCNA
-- 10/13 06:03 [financialjuice] North Korea: test-fire confirms success of technical upgrade of key missile component -KCNA
-- 10/13 06:04 [DeItaone] Trump: We have the best stock market in history. We have the best 401ks in history
-- 10/13 06:05 [DeItaone] Trump on Iran: They have no navy; they have no air force. Inflation is through the roof."
-- 10/13 06:05 [DeItaone] Trump: Zelensky has to focus on making a deal
-- 10/13 06:05 [financialjuice] North Korea’s Kim Jong Un: Weaponry development to be accelerated and finalized more rigorously - KCNA
-- 10/13 06:05 [DeItaone] Trump: Putin wants to make a deal, we need to get Zelenskyy to make a deal
-- 10/13 06:17 [FirstSquawk] NORTHERN OIL AND GAS (NOG) HAS PROVIDED A THIRD-QUARTER OPERATIONAL UPDATE, EXPECTING Q3 CAPITAL EXPENDITURES OF $250 MLN-$253 MLN EXCLUDING NON-BUDGETED ACQUISITIONS, ALONG WITH Q3 UNREALIZED MARK-TO-MARKET LOSSES OF $300 MLN-$320 MLN ON D…
-- 10/13 06:17 [FirstSquawk] NORTHERN OIL AND GAS REITERATES ITS 2026 CAPITAL EXPENDITURES GUIDANCE, ADDING THAT CAPEX IS EXPECTED TO TREND LOWER IN Q4 ABSENT SIGNIFICANT NON-BUDGETED ACTIVITY, THOUGH BASED ON THE CURRENT PACE IT EXPECTS 2026 CAPITAL SPENDING TO BE TOW…
-- 10/13 06:27 [financialjuice] Google blog launches Project Suncatcher prototype satellite with Planet on SpaceX Transporter-18
-- 10/13 06:27 [financialjuice] Google blog confirms project Suncatcher satellite functioning as anticipated
 - 10/13 06:35 [financialjuice] Fed's Hammack: more tightening needed but open to adjusting pace of rate increases
 - 10/13 06:35 [financialjuice] Hammack: Inflation pressures spreading beyond Al, with other companies also performing well and prepared to invest
 - 10/13 06:35 [financialjuice] Hammack: Business contacts sounding more like economy is thriving than about to slow down
@@ -161,3 +40,83 @@
 - 10/13 07:28 [FirstSquawk] U.S. PRESIDENT TRUMP SAYS ZELENSKIY AND PUTIN ‘HAVE TO GET TOGETHER’ AND END THE WAR, ADDING THAT HE THINKS BOTH PUTIN AND ZELENSKIY SUPPORT AN ENERGY CEASEFIRE
 - 10/13 07:42 [financialjuice] xa launches x subscription merging Grok, Grok Bot, Cursor, and X Premium worldwide
 - 10/13 07:52 [financialjuice] Xai subscription costs range between $8 and $200 per month
+- 10/13 08:57 [FirstSquawk] UNITED AIRLINES RAISED NEARLY ALL US DOMESTIC FARES BY $10 EACH WAY, COVERING MORE THAN 2 MILLION FARE LISTINGS, ACCORDING TO JPMORGAN. THE MOVE MAY SIGNAL CONFIDENCE IN TRAVEL DEMAND, BUT RIVAL AIRLINES HAVE YET TO FOLLOW AND INDUSTRY-WIDE…
+- 10/13 08:57 [FirstSquawk] UNITED SHARES FELL 1.7% AS RISING OIL PRICES ADDED PRESSURE TO FUEL COSTS, POTENTIALLY OFFSETTING GAINS FROM HIGHER FARES. INVESTORS WILL WATCH THE COMPANY’S OCTOBER 20 EARNINGS FOR UPDATES ON TRAVEL DEMAND, PRICING POWER AND COST PRESSURES…
+- 10/13 09:09 [FirstSquawk] US NATURAL GAS FUTURES FELL 1.7% TO $3.167/MMBTU AS GULF OF MEXICO PRODUCTION RECOVERED AFTER HURRICANE ISAIAS AND WARMER WEATHER FORECASTS REDUCED EXPECTATIONS FOR HEATING DEMAND. ABOUT 25% OF OFFSHORE GAS OUTPUT REMAINED SHUT IN, DOWN FRO…
+- 10/13 09:09 [FirstSquawk] RISING LNG EXPORT FLOWS, UP 12% WEEK OVER WEEK TO AROUND 20 BCF/DAY, AND DOMESTIC GAS DEMAND UP 4.2% YEAR OVER YEAR PROVIDED SOME PRICE SUPPORT. HOWEVER, ABOVE-AVERAGE TEMPERATURES FORECAST FOR OCTOBER 22–26 COULD FURTHER WEIGH ON HEATING D…
+- 10/13 09:16 [FirstSquawk] GOLD PRICES DECLINED AFTER RETREATING FROM A ONE-WEEK HIGH AS TRADERS ASSESSED RISING OIL PRICES, INFLATION RISKS AND THE US FEDERAL RESERVE’S INTEREST-RATE OUTLOOK. SPOT GOLD FELL 0.7% TO $4,167.14 AN OUNCE, WHILE SILVER DROPPED 1.1% TO $6…
+- 10/13 09:23 [FirstSquawk] Asia-Pacific Equities Slide as CXMT’s Memory Chip Breakthrough Fuels Concerns Over Chinese Competition
+- 10/13 09:24 [FirstSquawk] BOSNIA’S FOREIGN MINISTER ELMEDIN KONAKOVIĆ HAS WARNED U.S. SECRETARY OF STATE MARCO RUBIO THAT REPUBLIKA SRPSKA, THE PRO-RUSSIA SERB-MAJORITY ENTITY, WAS SPENDING MILLIONS ON TRUMP-LINKED LOBBYISTS AND CONSULTANTS TO GAIN POLITICAL INFLUEN…
+- 10/13 09:24 [FirstSquawk] BOSNIA’S FOREIGN MINISTER ELMEDIN KONAKOVIĆ ALSO URGED THE U.S. TO CONSIDER REIMPOSING SANCTIONS ON FORMER REPUBLIKA SRPSKA PRESIDENT MILORAD DODIK, A CLOSE PUTIN ALLY WHOSE SANCTIONS WERE LIFTED LAST YEAR - FT
+- 10/13 09:27 [FirstSquawk] CRYPTO MARKET SELLOFF: ETHER FALLS 3.8% TO $2,422.91; BITCOIN DOWN 1.97% AT $81,384.86
+- 10/13 09:28 [FirstSquawk] China Faces Challenges in Breaking Its Tech Industry’s Dependence on Nvidia Chips – FT
+- 10/13 09:33 [FirstSquawk] RBA Minutes: Policymakers Believed Underlying Demand Was Stronger Than Earlier Estimates Suggested
+- 10/13 09:33 [FirstSquawk] RESERVE BANK OF AUSTRALIA MINUTES SHOW ALL BOARD MEMBERS AGREED ON THE NEED TO RAISE RATES BY 25 BASIS POINTS, WITH THE BOARD CONCERNED THAT EXCESS DEMAND IN THE ECONOMY WAS GREATER THAN PREVIOUSLY ASSUMED AND SEEING AN INCREASED RISK OF PE…
+- 10/13 09:33 [FirstSquawk] RBA: Board Members Became More Worried About Inflation Staying Above Desired Levels for Longer
+- 10/13 09:33 [FirstSquawk] RESERVE BANK OF AUSTRALIA MINUTES SHOW THE BOARD ‘BRIEFLY’ CONSIDERED THE CASE FOR LEAVING RATES STEADY — INCLUDING FALLING HOUSE PRICES, WHICH HAD DROPPED MORE THAN EXPECTED AND SUGGESTED FINANCIAL CONDITIONS MIGHT BE FAIRLY TIGHT — BUT SA…
+- 10/13 09:33 [FirstSquawk] RBA Minutes: Unanimous Support for a 25-Basis-Point Rate Increase Across the Board
+- 10/13 09:33 [FirstSquawk] RBA: Policymakers Weighed Holding Rates Steady Before Opting for a Hike, With Falling Home Values Among the Considerations
+- 10/13 09:33 [FirstSquawk] RESERVE BANK OF AUSTRALIA MINUTES SHOW THE BOARD SAW SIGNS OF TECH-RELATED PRICE PRESSURES FROM THE AI BOOM EMERGING IN AUSTRALIA AND BROAD-BASED DOMESTIC COST PRESSURES, JUDGED THAT THE NEUTRAL RATE MAY HAVE MOVED HIGHER WITH POLICY ONLY S…
+- 10/13 09:33 [FirstSquawk] RBA: Discussions Focused on Threats That Could Keep Inflation Rising Beyond Current Projections
+- 10/13 09:33 [FirstSquawk] RBA: Inflationary Pressures Had Either Materialised or Gained Momentum Since August
+- 10/13 09:33 [FirstSquawk] RBA: Acting Promptly on Interest Rates Was Seen as Important to Prevent Inflation Expectations From Becoming Unanchored
+- 10/13 09:33 [FirstSquawk] RBA: Household Spending Must Stay Weak for an Extended Period to Help Inflation Return to Its Target
+- 10/13 09:33 [FirstSquawk] RBA: Escalating Middle East Tensions Had Driven Oil Prices Significantly Above Levels Assumed in Forecasts
+- 10/13 09:33 [FirstSquawk] RBA: Business Contacts Reported Widespread Cost Increases Across the Domestic Economy, Including Labour Costs Per Unit of Output
+- 10/13 09:34 [FirstSquawk] RBA: Evidence From Certain Measures Raised Questions About Whether Monetary Policy Was Restricting Economic Activity Enough
+- 10/13 09:34 [FirstSquawk] RBA: A Higher Neutral Rate Globally Could Put the Australian Dollar Under Pressure Unless Local Borrowing Costs Also Increased
+- 10/13 09:34 [FirstSquawk] RBA: The AI Investment Boom Appeared to Be Generating Emerging Price Pressures in Australia's Technology Sector
+- 10/13 09:34 [FirstSquawk] RBA Minutes: Changes to Employment Surveys Prompted Members to Urge Caution When Interpreting Labour Market Figures
+- 10/13 09:34 [FirstSquawk] RBA: Estimates Pointed to a Slightly Restrictive Policy Stance, Although the Economy's Neutral Interest Rate May Have Risen
+- 10/13 09:34 [FirstSquawk] RBA: A Larger-Than-Anticipated Decline in Property Values Indicated That Financial Conditions Might Already Be Tight
+- 10/13 09:34 [FirstSquawk] RBA: Tighter Monetary Policy Overseas Could Indirectly Stimulate Austra
+- 10/13 09:34 [FirstSquawk] RBA: Tighter Monetary Policy Overseas Could Indirectly Stimulate Australian Financial Conditions by Depreciating the Local Currency
+- 10/13 09:35 [FirstSquawk] 2-Year Japanese Government Bond Yield Advances 1 Basis Point to 1.915%
+- 10/13 09:36 [FirstSquawk] 5-Year Japanese Government Bond Yield Advances 1.5 Basis Points to 2.350%
+- 10/13 09:46 [FirstSquawk] ASIAN STOCKS FELL 0.9% AS RENEWED CONCERNS OVER AI VALUATIONS, RISING BORROWING COSTS AND SUSTAINABILITY OF DATA-CENTER SPENDING WEIGHED ON SENTIMENT. SOUTH KOREA’S KOSPI DROPPED AS MUCH AS 4.8%, WITH SK HYNIX AND SAMSUNG FALLING OVER 5%, W…
+- 10/13 09:46 [FirstSquawk] INVESTORS AWAIT US EARNINGS AND WEDNESDAY’S CPI REPORT, WITH S&P 500 THIRD-QUARTER PROFITS EXPECTED TO RISE 25% YEAR OVER YEAR. BRENT CRUDE FELL 0.8% TO $105.80/BARREL, GOLD SLIPPED 0.2% TO $4,164.90/OZ AND BITCOIN DROPPED 1.9% TO $81,373, …
+- 10/13 09:56 [FirstSquawk] Oil Futures Retreat as Traders Anticipate a Technical Correction – WSJ
+- 10/13 09:57 [FirstSquawk] Japanese Bond Prices Decline as Rising Oil Price Concerns Weigh on Sentiment - WSJ
+- 10/13 10:01 [FirstSquawk] Tencent Launches Yuan Bond Offering With Initial Yields of Around 2.90% and 3.50% for 10-Year and 30-Year Tranches
+- 10/13 10:02 [FirstSquawk] Tencent Offers Offshore Chinese Yuan Bonds Across 10-Year and 30-Year Tenors, According to Sheet
+- 10/13 10:02 [FirstSquawk] Tencent’s Dollar Bond Offering Targets Spreads of 115 Basis Points for 10-Year Notes and 140 Basis Points for 20-Year Notes
+- 10/13 10:02 [FirstSquawk] Tencent Launches US Dollar Bond Offering Across 10-Year and 20-Year Tenors, Term Sheet Shows
+- 10/13 10:11 [FirstSquawk] KOSPI Opens Significantly Lower Amid US Market Weakness and Persistent Inflation Concerns
+- 10/13 10:13 [FirstSquawk] Brent Crude Drops More Than 1%, Trading at $105.43 per Barrel
+- 10/13 10:14 [FirstSquawk] US Oil Futures Decline More Than 1%, Trading at $92.66 per Barrel
+- 10/13 10:15 [FirstSquawk] China’s PBOC Fixes Yuan Midpoint at 6.7298 Against the Dollar
+- 10/13 10:18 [FirstSquawk] China Sets Daily Yuan Reference Rate at Its Strongest Since February 2023
+- 10/13 10:21 [FirstSquawk] 30-Year Japanese Government Bond Yield Edges Lower to 4.045%
+- 10/13 10:24 [FirstSquawk] Gold Prices Decline as Investors Turn Their Attention to US Economic Data - WSJ
+- 10/13 10:25 [FirstSquawk] KOSPI Falls 6% as South Korean Stocks Face Heavy Selling
+- 10/13 10:29 [FirstSquawk] CSI New Energy Vehicles Index Signals Nearly 2% Decline at Market Open
+- 10/13 10:38 [FirstSquawk] Kyushu Shinkansen Set for Restart Four Hours Later Than Planned After Wire Damage
+- 10/13 10:40 [FirstSquawk] Taiwan Dollar Slips to 32.016 Against the US Dollar, Hitting a Low Since Mid-August
+- 10/13 10:43 [FirstSquawk] China’s ChiNext Index Drops 3% Amid Selling Pressure
+- 10/13 10:44 [FirstSquawk] South Korea May Have to Increase Interest Rates, President Lee Says
+- 10/13 10:49 [FirstSquawk] Taiwan Shares Decline Over 2% as Market Losses Deepen
+- 10/13 10:57 [FirstSquawk] Canadian Dollar Firms Modestly, Remaining Close to April 2025 Lows Against Bullish USD - FX
+- 10/13 11:01 [FirstSquawk] IMF Trims 2026 Growth Forecast for Latin America and Caribbean to 2.3% From 2.4%, Cuts 2027 Outlook to 2.5% From 2.7%
+- 10/13 11:01 [FirstSquawk] IMF Trims Brazil’s 2026 GDP Growth Forecast to 2.2%, Cuts 2027 Projection to 1.9%
+- 10/13 11:02 [FirstSquawk] IMF Revises Mexico’s Growth Outlook, Raising 2026 Forecast to 1.5% and Trimming 2027 to 1.8%
+- 10/13 11:02 [FirstSquawk] IMF: AI-Led Technology Upswing Fails to Offset Energy Shock in Most Latin American and Caribbean Countries
+- 10/13 11:03 [FirstSquawk] IMF Sharply Revises Argentina’s Growth Outlook, Trimming 2026 Forecast to 2.1% and 2027 Estimate to 3.5%
+- 10/13 11:09 [FirstSquawk] NTT’s Planned Osaka Data Center Expected to Have Power Intake Capacity of Up to 500 MW, Nikkei Reports
+- 10/13 11:10 [FirstSquawk] NTT Data Group and Anthropic Plan Agreement by End-FY2026, Eye Partial Launch as Early as 2028, Nikkei Says
+- 10/13 11:13 [FirstSquawk] NTT Data Group’s Data Center Building Costs Potentially Set to Hit ¥1 Trillion, Nikkei Reports
+- 10/13 11:13 [FirstSquawk] NTT to Establish Anthropic’s First Data Center Facility in Japan, Nikkei Reports
+- 10/13 11:14 [FirstSquawk] US Stock Futures Edge Lower, With S&P 500 Down 0.2% and Nasdaq Falling 0.8%
+- 10/13 11:15 [FirstSquawk] IMF Chief Economist Tenreyro Says Global Trade Growth Would Have Been Significantly Lower Without AI Between 2023 and 2025
+- 10/13 11:16 [FirstSquawk] IMF’s Tenreyro Says Changing Views on AI Are Resulting in a Downward Revision to Demand
+- 10/13 11:26 [FirstSquawk] IMF’s Tenreyro Calls on Highly Indebted Nations to Begin Fiscal Consolidation to Bring Deficits Down
+- 10/13 11:28 [FirstSquawk] IMF’s Tenreyro Says Asia’s Growth Outpaces Other Regions, Driven in Part by AI Expansion
+- 10/13 11:29 [FirstSquawk] IMF’s Tenreyro: China and India Drive Growth, With AI Demand Supporting Other Economies
+- 10/13 11:30 [FirstSquawk] IMF Chief Economist Tenreyro Says the UK Stands Out in the G7 for Starting Fiscal Consolidation
+- 10/13 11:31 [FirstSquawk] Taiwan’s Finance Minister to Travel to Hong Kong for Next Week’s APEC Meeting, According to Sources Briefed on the Matter
+- 10/13 11:34 [FirstSquawk] IMF’s Tenreyro Says the UK Should Remain on Track With Its Deficit Reduction Plans
+- 10/13 11:43 [FirstSquawk] IMF’s Tenreyro: AI Has Had a Limited Impact on Latin America, With Commodity-Exporting Economies Faring Well
+- 10/13 11:54 [FirstSquawk] South Korea’s Lee Highlights Strategic Importance of US Ties, Says Countries Can Have Differences
+- 10/13 12:06 [FirstSquawk] BoE MPC’s Greene Warns Against Delayed Inflation Action, Saying Premature Rate Hikes Are Less of a Concern
+- 10/13 12:07 [FirstSquawk] BoE’s Greene Says Policymakers Must Act Before Second-Round Inflation Effects Take Hold
+- 10/13 12:08 [FirstSquawk] BoE MPC’s Greene: Latest IMF Outlook for the UK Comes as No Surprise
+- 10/13 12:09 [FirstSquawk] BoE’s Greene Says Current Monetary Policy in the UK Remains Relatively Accommodative

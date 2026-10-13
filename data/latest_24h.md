@@ -7,97 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-13 07:57 JST／対象: 10/12 07:57 〜 10/13 07:57 JST（時刻はすべて日本時間）
+生成: 2026-10-13 12:28 JST／対象: 10/12 12:28 〜 10/13 12:28 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 55 | 10/12 20:20 | 10/13 06:05 | ⚠ 129分（03:55→06:04） |
-| FirstSquawk | 234 | 10/12 08:39 | 10/13 07:28 | ⚠ 190分（15:36→18:46） |
-| financialjuice | 185 | 10/12 08:40 | 10/13 07:52 | ⚠ 217分（15:11→18:49） |
+| FirstSquawk | 274 | 10/12 12:31 | 10/13 12:09 | ⚠ 190分（15:36→18:46） |
+| financialjuice | 151 | 10/12 12:50 | 10/13 07:52 | ⚠ 217分（15:11→18:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 460 行（統合前 475 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 466 行（統合前 481 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/12 08:39 [FirstSquawk] AMAZON IN TALKS TO BUY AI STARTUP DECART FOR AROUND $7 BILLION - WSJ
-- 10/12 08:40 [financialjuice] Judge orders immediate stop to taxpayer-funded pro-Trump ads, including those planned for tonight - Politico
-- 10/12 08:40 [FirstSquawk] JUDGE ORDERS IMMEDIATE HALT TO TAXPAYER-FUNDED PRO-TRUMP ADS, INCLUDING ADS SCHEDULED TO RUN TONIGHT — POLITICO
-- 10/12 08:42 [financialjuice] Saudi civil defense issues warning over potential hazard in Abha - post on X
-- 10/12 08:42 [FirstSquawk] TRUMP SAYS HE WANTS TO ‘PAY MY RESPECT AND THANKS TO KAROLINE LEAVITT FOR THE FANTASTIC JOB SHE HAS DONE AS WHITE HOUSE PRESS SECRETARY’, ADDING IT ‘COULD NOT HAVE BEEN BETTER’ - TRUTH SOCIAL
-- 10/12 08:43 [financialjuice] South Korea finance minister: will implement market stabilizing steps if necessary amid high global yields
-- 10/12 08:43 [FirstSquawk] SAUDI ARABIA’S ENERGY MINISTER HAS SIGNED THREE ENERGY COOPERATION MOUS WITH KUWAIT, QATAR AND EGYPT, WITH THE MOU BETWEEN SAUDI ARABIA AND QATAR AIMING TO SET A FRAMEWORK FOR COOPERATION IN PETROLEUM, GAS, PETROCHEMICALS AND OTHERS, AND TO…
-- 10/12 08:43 [financialjuice] Saudi civil defence: danger has passed in Abha
-- 10/12 08:45 [FirstSquawk] CANADA PM CARNEY’S OFFICE SAYS CARNEY SPOKE TO TRUMP AND THAT CANADA WILL MAXIMISE EXPORTS OF OIL AND DIESEL TO THE U.S., WITH OIL EXPORTS TO THE U.S. YIELDING OVER 1 MLN BARRELS OF DIESEL DAILY.
-- 10/12 08:45 [FirstSquawk] CANADA PM CARNEY’S OFFICE SAYS HE SUPPORTS AN ENERGY CEASEFIRE BETWEEN UKRAINE AND RUSSIA.
-- 10/12 08:59 [financialjuice] Saudi-led coalition: intercepted ballistic missile launched by Yemen's Houthis toward Saudi Arabia's Khamis Mushait
-- 10/12 09:00 [financialjuice] S. Korea Oct 1-10 trade surplus provisional $3.8 billion: customs agency
-- 10/12 09:00 [financialjuice] S. Korea Oct 1-10 imports jump 65.5% y/y: customs agency
-- 10/12 09:00 [financialjuice] S.Korea Oct 1-10 chip exports rise 170.9% y/y: customs agency
-- 10/12 09:00 [financialjuice] S.Korea oct 1-10 exports rise 102% y/y: customs agency
-- 10/12 09:15 [FirstSquawk] India Strongly Objects to JD Vance’s Remarks on H-1B Visa Workers, Calling Them “Deeply Offensive” - LeadingReport
-- 10/12 09:16 [FirstSquawk] EUROPEAN EQUITY FUTURES TRADE HIGHER; EURO STOXX 50 AND DAX GAIN 0.4%, FTSE RISES 0.3%
-- 10/12 09:17 [FirstSquawk] GOLDMAN SACHS REPORTS THAT 36% OF WORKERS WITH ANNUAL INCOMES ABOVE $300,000 LIVE PAYCHECK TO PAYCHECK
-- 10/12 09:23 [financialjuice] North Korea launches unidentified projectile toward sea off east coast: South Korea military
-- 10/12 09:23 [FirstSquawk] Asia-Pacific equities open mixed amid lingering geopolitical concerns after the weekend, with market activity muted by Japan’s Sports Day holiday and the Columbus Day holiday in the US
-- 10/12 09:24 [FirstSquawk] NORTH KOREA LAUNCHES UNIDENTIFIED PROJECTILE INTO WATERS OFF ITS EAST COAST, SOUTH KOREAN MILITARY SAYS
-- 10/12 09:25 [financialjuice] China PBOC likely to set yuan midpoint at 6.6977 per dollar: estimate
-- 10/12 09:30 [FirstSquawk] Hong Kong Should Ease Listing Requirements to Draw More Start-Ups and Angel Funding, HKEIA Says
-- 10/12 09:31 [FirstSquawk] Trump, Rubio Consider Firing US Ambassador to Greece Amid Mounting Allegations of Improper Conduct - SCMP
-- 10/12 09:34 [FirstSquawk] Washington Reverses Stance on UK’s Testing of Artificial Intelligence Models, According to The Telegraph
-- 10/12 09:38 [financialjuice] Projectile believed to be a ballistic missile from North Korea seems to have already landed: Japan Coast Guard
-- 10/12 09:39 [FirstSquawk] JAPAN COAST GUARD REPORTS THAT PROJECTILE BELIEVED TO BE A NORTH KOREAN BALLISTIC MISSILE APPEARS TO HAVE FALLEN
-- 10/12 09:39 [financialjuice] North Korea fired potential ballistic missile, seems to have already landed: Japan coast guard
-- 10/12 09:41 [FirstSquawk] SUSPECTED NORTH KOREAN BALLISTIC MISSILE APPEARS TO HAVE ALREADY LANDED, JAPAN COAST GUARD SAYS
-- 10/12 09:42 [FirstSquawk] TENCENT PREPARES PROPOSED US DOLLAR AND OFFSHORE YUAN BOND OFFERING, WITH BANKS MANDATED, TERM SHEET SHOWS
-- 10/12 09:42 [financialjuice] Japan coast guard issues second alert on possible North Korea ballistic missile
-- 10/12 09:43 [FirstSquawk] TENCENT PROPOSES DOLLAR BONDS WITH 10- AND 20-YEAR MATURITIES AND YUAN BONDS WITH 10- AND 30-YEAR TENORS, SHEET SHOWS
-- 10/12 09:43 [FirstSquawk] JAPAN COAST GUARD ISSUES FRESH WARNING FOLLOWING POSSIBLE NORTH KOREAN BALLISTIC MISSILE LAUNCH
-- 10/12 09:49 [financialjuice] Japan Coast Guard issues second alert on possible North Korean ballistic missile impact
-- 10/12 09:52 [financialjuice] North Korean missile appears to have landed beyond Japan's exclusive economic zone: NHK
-- 10/12 10:01 [financialjuice] Taiwan overnight interbank rate starts at 0.805% vs 0.805% in previous session opening
-- 10/12 10:04 [financialjuice] South Korean won reaches strongest level vs dollar since Oct. 4, 2024
-- 10/12 10:17 [financialjuice] PBOC sets yuan midpoint at strongest level since Feb. 2, 2023
-- 10/12 10:20 [financialjuice] China injects 50 bln yuan via 7-day reverse repos at 1.40% vs prior 1.40%: statement
-- 10/12 10:22 [financialjuice] North Korean projectile identified as ballistic missile: South Korean defense ministry
-- 10/12 10:22 [financialjuice] North Korea launches missiles: South Korea military
-- 10/12 10:22 [financialjuice] North Korea launches missiles from Pyongyang region: South Korean military
-- 10/12 10:26 [financialjuice] Shares of Chinese Apple supplier Luxshare set to open 2% lower after US patent infringement probe
-- 10/12 10:35 [financialjuice] North Korean missiles traveled over 900 kilometers: South Korean military
-- 10/12 10:37 [financialjuice] South Korea military spokesperson: N.Korea missiles seem to demonstrate missile capabilities, show force after S.Korea hypersonic missile test-fire
-- 10/12 10:40 [financialjuice] S.Korea central bank: sells 91-day monetary stabilisation bonds at 3.180% yield
-- 10/12 10:42 [financialjuice] South Korea's National Security Council holds emergency meeting on North Korea's missile launch
-- 10/12 10:42 [financialjuice] South Korea presidential office: North Korea’s repeated ballistic missile launches breach UN Security Council resolutions, urges immediate halt
-- 10/12 10:43 [FirstSquawk] SEOUL SAYS NORTH KOREA’S REPEATED BALLISTIC MISSILE TESTS BREACH UN RESOLUTIONS, DEMANDS AN IMMEDIATE END
-- 10/12 10:48 [FirstSquawk] TAIWAN DOLLAR EXTENDS LOSSES TO 31.955 PER DOLLAR, TOUCHING A LEVEL LAST SEEN ON SEPTEMBER 17
-- 10/12 10:58 [FirstSquawk] JAPAN’S CRUISE SECTOR TURNS TO SHORTER, BUDGET-FRIENDLY TRIPS TO DRAW YOUNGER TRAVELERS
-- 10/12 11:02 [financialjuice] China commerce ministry: Premier Li Qiang to join opening ceremony of Canton Fair Oct. 15 - Nov. 4
-- 10/12 11:04 [FirstSquawk] PREMIER LI QIANG WILL ATTEND OPENING OF CANTON FAIR, SCHEDULED FOR OCTOBER 15 TO NOVEMBER 4, CHINA SAYS
-- 10/12 11:14 [FirstSquawk] RBI’S LATEST FOREIGN EXCHANGE MEASURES COULD OFFER THE RUPEE SHORT-TERM RELIEF, WSJ SAYS
-- 10/12 11:20 [financialjuice] China imposes counteractions on Paraguay’s minister of communications and technology over Taiwan issue: Chinese foreign ministry
-- 10/12 11:20 [financialjuice] China imposes countermeasures on Belize foreign minister over Taiwan issue: Chinese foreign ministry
-- 10/12 11:22 [financialjuice] China’s countermeasures against Paraguay and Belize ministers include visa bans and restrictions on cooperation with Chinese organizations and individuals
-- 10/12 11:22 [financialjuice] China announces countermeasures against Paraguay and Belize ministers effective Oct. 12
-- 10/12 11:26 [FirstSquawk] CHINA’S MEASURES TARGETING MINISTERS FROM PARAGUAY AND BELIZE BECOME EFFECTIVE OCTOBER 12
-- 10/12 11:26 [FirstSquawk] CHINA’S COUNTERMEASURES AGAINST PARAGUAY AND BELIZE MINISTERS INCLUDE VISA BANS AND PROHIBITIONS ON COOPERATION BY CHINESE ORGANISATIONS AND INDIVIDUALS
-- 10/12 11:27 [FirstSquawk] CHINA TARGETS BELIZE FOREIGN MINISTER WITH COUNTERMEASURES IN RESPONSE TO TAIWAN ISSUE, BEIJING SAYS
-- 10/12 11:28 [FirstSquawk] BEIJING TAKES ACTION AGAINST PARAGUAY’S COMMUNICATIONS AND TECHNOLOGY MINISTER IN RESPONSE TO TAIWAN ISSUE, CHINA’S FOREIGN MINISTRY SAYS
-- 10/12 11:31 [FirstSquawk] SOUTH KOREA AUCTIONS 3-YEAR GOVERNMENT BONDS AT 3.940% YIELD, FINANCE MINISTRY REPORTS
-- 10/12 11:43 [FirstSquawk] AI THREATENS INDIA’S MULTINATIONAL TECH JOB ENGINE AS GCCs REASSESS WORKFORCE NEEDS The evolving role of global capability centres (GCCs) is putting pressure on headcount at a key employer in India’s technology sector. While the number of G…
-- 10/12 11:49 [FirstSquawk] TROPICAL STORM SIMON CRAWLS OFF MEXICO’S WEST-CENTRAL COAST, NHC WARNS OF DESTRUCTIVE WINDS AND HEAVY RAINFALL
-- 10/12 11:58 [FirstSquawk] GOLD TRADES ABOVE $4,200 AMID STRONG ETF INFLOWS AHEAD OF KEY US INFLATION FIGURES
-- 10/12 12:06 [FirstSquawk] PETROVIETNAM GAS SEEKS SPOT LNG SHIPMENT OF 1.5 MILLION MMBTU WITH DELIVERY WINDOW OF OCTOBER 15 TO NOVEMBER 10
-- 10/12 12:09 [FirstSquawk] INDONESIA RECORDS 28.1% ANNUAL GROWTH IN SEPTEMBER AUTO SALES, ASSOCIATION REPORTS
-- 10/12 12:18 [FirstSquawk] KDI SAYS SOUTH KOREA’S ECONOMIC IMPROVEMENT HAS NOT YET REACHED HOUSEHOLDS ACROSS THE BOARD
-- 10/12 12:18 [FirstSquawk] SOUTH KOREA’S KOSDAQ FALLS 4% AMID SELLING PRESSURE
-- 10/12 12:21 [FirstSquawk] IMF’S GEORGIEVA SAYS THE WORLD IS ALREADY FEELING AI’S FIRST-WAVE EFFECTS AS BOTH A DEMAND AND INVESTMENT SHOCK
-- 10/12 12:23 [FirstSquawk] IMF CHIEF GEORGIEVA IDENTIFIES THE US, CHINA AND INDIA AS KEY AI PRODUCERS, SAYS INVESTMENT IS SUPPORTING GLOBAL GROWTH OF ABOUT 3%
-- 10/12 12:25 [FirstSquawk] IMF CHIEF GEORGIEVA SEES AI ADDING 0.5 TO 1 PERCENTAGE POINT TO ASIA’S GROWTH
-- 10/12 12:26 [FirstSquawk] IMF CHIEF GEORGIEVA SEES AI ADDING 0.2 TO 0.8 PERCENTAGE POINT TO GROWTH IN EMERGING ASIA
 - 10/12 12:31 [FirstSquawk] WORLD BANK CHIEF BANGA SEES SIGNIFICANT POTENTIAL FOR SMALL AI APPLICATIONS IN MIDDLE- AND LOWER-MIDDLE-INCOME COUNTRIES
 - 10/12 12:35 [FirstSquawk] AI COULD ALTER 40% OF JOBS GLOBALLY OVER TIME, INCLUDING THROUGH AUGMENTATION, ROLE DOWNGRADES OR ELIMINATION, GEORGIEVA SAYS
 - 10/12 12:36 [FirstSquawk] IMF CHIEF GEORGIEVA SAYS THE IMPACT OF AI IS ALREADY EMERGING IN DEVELOPED ECONOMIES
@@ -484,3 +410,83 @@
 - 10/13 07:28 [FirstSquawk] U.S. PRESIDENT TRUMP SAYS ZELENSKIY AND PUTIN ‘HAVE TO GET TOGETHER’ AND END THE WAR, ADDING THAT HE THINKS BOTH PUTIN AND ZELENSKIY SUPPORT AN ENERGY CEASEFIRE
 - 10/13 07:42 [financialjuice] xa launches x subscription merging Grok, Grok Bot, Cursor, and X Premium worldwide
 - 10/13 07:52 [financialjuice] Xai subscription costs range between $8 and $200 per month
+- 10/13 08:57 [FirstSquawk] UNITED AIRLINES RAISED NEARLY ALL US DOMESTIC FARES BY $10 EACH WAY, COVERING MORE THAN 2 MILLION FARE LISTINGS, ACCORDING TO JPMORGAN. THE MOVE MAY SIGNAL CONFIDENCE IN TRAVEL DEMAND, BUT RIVAL AIRLINES HAVE YET TO FOLLOW AND INDUSTRY-WIDE…
+- 10/13 08:57 [FirstSquawk] UNITED SHARES FELL 1.7% AS RISING OIL PRICES ADDED PRESSURE TO FUEL COSTS, POTENTIALLY OFFSETTING GAINS FROM HIGHER FARES. INVESTORS WILL WATCH THE COMPANY’S OCTOBER 20 EARNINGS FOR UPDATES ON TRAVEL DEMAND, PRICING POWER AND COST PRESSURES…
+- 10/13 09:09 [FirstSquawk] US NATURAL GAS FUTURES FELL 1.7% TO $3.167/MMBTU AS GULF OF MEXICO PRODUCTION RECOVERED AFTER HURRICANE ISAIAS AND WARMER WEATHER FORECASTS REDUCED EXPECTATIONS FOR HEATING DEMAND. ABOUT 25% OF OFFSHORE GAS OUTPUT REMAINED SHUT IN, DOWN FRO…
+- 10/13 09:09 [FirstSquawk] RISING LNG EXPORT FLOWS, UP 12% WEEK OVER WEEK TO AROUND 20 BCF/DAY, AND DOMESTIC GAS DEMAND UP 4.2% YEAR OVER YEAR PROVIDED SOME PRICE SUPPORT. HOWEVER, ABOVE-AVERAGE TEMPERATURES FORECAST FOR OCTOBER 22–26 COULD FURTHER WEIGH ON HEATING D…
+- 10/13 09:16 [FirstSquawk] GOLD PRICES DECLINED AFTER RETREATING FROM A ONE-WEEK HIGH AS TRADERS ASSESSED RISING OIL PRICES, INFLATION RISKS AND THE US FEDERAL RESERVE’S INTEREST-RATE OUTLOOK. SPOT GOLD FELL 0.7% TO $4,167.14 AN OUNCE, WHILE SILVER DROPPED 1.1% TO $6…
+- 10/13 09:23 [FirstSquawk] Asia-Pacific Equities Slide as CXMT’s Memory Chip Breakthrough Fuels Concerns Over Chinese Competition
+- 10/13 09:24 [FirstSquawk] BOSNIA’S FOREIGN MINISTER ELMEDIN KONAKOVIĆ HAS WARNED U.S. SECRETARY OF STATE MARCO RUBIO THAT REPUBLIKA SRPSKA, THE PRO-RUSSIA SERB-MAJORITY ENTITY, WAS SPENDING MILLIONS ON TRUMP-LINKED LOBBYISTS AND CONSULTANTS TO GAIN POLITICAL INFLUEN…
+- 10/13 09:24 [FirstSquawk] BOSNIA’S FOREIGN MINISTER ELMEDIN KONAKOVIĆ ALSO URGED THE U.S. TO CONSIDER REIMPOSING SANCTIONS ON FORMER REPUBLIKA SRPSKA PRESIDENT MILORAD DODIK, A CLOSE PUTIN ALLY WHOSE SANCTIONS WERE LIFTED LAST YEAR - FT
+- 10/13 09:27 [FirstSquawk] CRYPTO MARKET SELLOFF: ETHER FALLS 3.8% TO $2,422.91; BITCOIN DOWN 1.97% AT $81,384.86
+- 10/13 09:28 [FirstSquawk] China Faces Challenges in Breaking Its Tech Industry’s Dependence on Nvidia Chips – FT
+- 10/13 09:33 [FirstSquawk] RBA Minutes: Policymakers Believed Underlying Demand Was Stronger Than Earlier Estimates Suggested
+- 10/13 09:33 [FirstSquawk] RESERVE BANK OF AUSTRALIA MINUTES SHOW ALL BOARD MEMBERS AGREED ON THE NEED TO RAISE RATES BY 25 BASIS POINTS, WITH THE BOARD CONCERNED THAT EXCESS DEMAND IN THE ECONOMY WAS GREATER THAN PREVIOUSLY ASSUMED AND SEEING AN INCREASED RISK OF PE…
+- 10/13 09:33 [FirstSquawk] RBA: Board Members Became More Worried About Inflation Staying Above Desired Levels for Longer
+- 10/13 09:33 [FirstSquawk] RESERVE BANK OF AUSTRALIA MINUTES SHOW THE BOARD ‘BRIEFLY’ CONSIDERED THE CASE FOR LEAVING RATES STEADY — INCLUDING FALLING HOUSE PRICES, WHICH HAD DROPPED MORE THAN EXPECTED AND SUGGESTED FINANCIAL CONDITIONS MIGHT BE FAIRLY TIGHT — BUT SA…
+- 10/13 09:33 [FirstSquawk] RBA Minutes: Unanimous Support for a 25-Basis-Point Rate Increase Across the Board
+- 10/13 09:33 [FirstSquawk] RBA: Policymakers Weighed Holding Rates Steady Before Opting for a Hike, With Falling Home Values Among the Considerations
+- 10/13 09:33 [FirstSquawk] RESERVE BANK OF AUSTRALIA MINUTES SHOW THE BOARD SAW SIGNS OF TECH-RELATED PRICE PRESSURES FROM THE AI BOOM EMERGING IN AUSTRALIA AND BROAD-BASED DOMESTIC COST PRESSURES, JUDGED THAT THE NEUTRAL RATE MAY HAVE MOVED HIGHER WITH POLICY ONLY S…
+- 10/13 09:33 [FirstSquawk] RBA: Discussions Focused on Threats That Could Keep Inflation Rising Beyond Current Projections
+- 10/13 09:33 [FirstSquawk] RBA: Inflationary Pressures Had Either Materialised or Gained Momentum Since August
+- 10/13 09:33 [FirstSquawk] RBA: Acting Promptly on Interest Rates Was Seen as Important to Prevent Inflation Expectations From Becoming Unanchored
+- 10/13 09:33 [FirstSquawk] RBA: Household Spending Must Stay Weak for an Extended Period to Help Inflation Return to Its Target
+- 10/13 09:33 [FirstSquawk] RBA: Escalating Middle East Tensions Had Driven Oil Prices Significantly Above Levels Assumed in Forecasts
+- 10/13 09:33 [FirstSquawk] RBA: Business Contacts Reported Widespread Cost Increases Across the Domestic Economy, Including Labour Costs Per Unit of Output
+- 10/13 09:34 [FirstSquawk] RBA: Evidence From Certain Measures Raised Questions About Whether Monetary Policy Was Restricting Economic Activity Enough
+- 10/13 09:34 [FirstSquawk] RBA: A Higher Neutral Rate Globally Could Put the Australian Dollar Under Pressure Unless Local Borrowing Costs Also Increased
+- 10/13 09:34 [FirstSquawk] RBA: The AI Investment Boom Appeared to Be Generating Emerging Price Pressures in Australia's Technology Sector
+- 10/13 09:34 [FirstSquawk] RBA Minutes: Changes to Employment Surveys Prompted Members to Urge Caution When Interpreting Labour Market Figures
+- 10/13 09:34 [FirstSquawk] RBA: Estimates Pointed to a Slightly Restrictive Policy Stance, Although the Economy's Neutral Interest Rate May Have Risen
+- 10/13 09:34 [FirstSquawk] RBA: A Larger-Than-Anticipated Decline in Property Values Indicated That Financial Conditions Might Already Be Tight
+- 10/13 09:34 [FirstSquawk] RBA: Tighter Monetary Policy Overseas Could Indirectly Stimulate Austra
+- 10/13 09:34 [FirstSquawk] RBA: Tighter Monetary Policy Overseas Could Indirectly Stimulate Australian Financial Conditions by Depreciating the Local Currency
+- 10/13 09:35 [FirstSquawk] 2-Year Japanese Government Bond Yield Advances 1 Basis Point to 1.915%
+- 10/13 09:36 [FirstSquawk] 5-Year Japanese Government Bond Yield Advances 1.5 Basis Points to 2.350%
+- 10/13 09:46 [FirstSquawk] ASIAN STOCKS FELL 0.9% AS RENEWED CONCERNS OVER AI VALUATIONS, RISING BORROWING COSTS AND SUSTAINABILITY OF DATA-CENTER SPENDING WEIGHED ON SENTIMENT. SOUTH KOREA’S KOSPI DROPPED AS MUCH AS 4.8%, WITH SK HYNIX AND SAMSUNG FALLING OVER 5%, W…
+- 10/13 09:46 [FirstSquawk] INVESTORS AWAIT US EARNINGS AND WEDNESDAY’S CPI REPORT, WITH S&P 500 THIRD-QUARTER PROFITS EXPECTED TO RISE 25% YEAR OVER YEAR. BRENT CRUDE FELL 0.8% TO $105.80/BARREL, GOLD SLIPPED 0.2% TO $4,164.90/OZ AND BITCOIN DROPPED 1.9% TO $81,373, …
+- 10/13 09:56 [FirstSquawk] Oil Futures Retreat as Traders Anticipate a Technical Correction – WSJ
+- 10/13 09:57 [FirstSquawk] Japanese Bond Prices Decline as Rising Oil Price Concerns Weigh on Sentiment - WSJ
+- 10/13 10:01 [FirstSquawk] Tencent Launches Yuan Bond Offering With Initial Yields of Around 2.90% and 3.50% for 10-Year and 30-Year Tranches
+- 10/13 10:02 [FirstSquawk] Tencent Offers Offshore Chinese Yuan Bonds Across 10-Year and 30-Year Tenors, According to Sheet
+- 10/13 10:02 [FirstSquawk] Tencent’s Dollar Bond Offering Targets Spreads of 115 Basis Points for 10-Year Notes and 140 Basis Points for 20-Year Notes
+- 10/13 10:02 [FirstSquawk] Tencent Launches US Dollar Bond Offering Across 10-Year and 20-Year Tenors, Term Sheet Shows
+- 10/13 10:11 [FirstSquawk] KOSPI Opens Significantly Lower Amid US Market Weakness and Persistent Inflation Concerns
+- 10/13 10:13 [FirstSquawk] Brent Crude Drops More Than 1%, Trading at $105.43 per Barrel
+- 10/13 10:14 [FirstSquawk] US Oil Futures Decline More Than 1%, Trading at $92.66 per Barrel
+- 10/13 10:15 [FirstSquawk] China’s PBOC Fixes Yuan Midpoint at 6.7298 Against the Dollar
+- 10/13 10:18 [FirstSquawk] China Sets Daily Yuan Reference Rate at Its Strongest Since February 2023
+- 10/13 10:21 [FirstSquawk] 30-Year Japanese Government Bond Yield Edges Lower to 4.045%
+- 10/13 10:24 [FirstSquawk] Gold Prices Decline as Investors Turn Their Attention to US Economic Data - WSJ
+- 10/13 10:25 [FirstSquawk] KOSPI Falls 6% as South Korean Stocks Face Heavy Selling
+- 10/13 10:29 [FirstSquawk] CSI New Energy Vehicles Index Signals Nearly 2% Decline at Market Open
+- 10/13 10:38 [FirstSquawk] Kyushu Shinkansen Set for Restart Four Hours Later Than Planned After Wire Damage
+- 10/13 10:40 [FirstSquawk] Taiwan Dollar Slips to 32.016 Against the US Dollar, Hitting a Low Since Mid-August
+- 10/13 10:43 [FirstSquawk] China’s ChiNext Index Drops 3% Amid Selling Pressure
+- 10/13 10:44 [FirstSquawk] South Korea May Have to Increase Interest Rates, President Lee Says
+- 10/13 10:49 [FirstSquawk] Taiwan Shares Decline Over 2% as Market Losses Deepen
+- 10/13 10:57 [FirstSquawk] Canadian Dollar Firms Modestly, Remaining Close to April 2025 Lows Against Bullish USD - FX
+- 10/13 11:01 [FirstSquawk] IMF Trims 2026 Growth Forecast for Latin America and Caribbean to 2.3% From 2.4%, Cuts 2027 Outlook to 2.5% From 2.7%
+- 10/13 11:01 [FirstSquawk] IMF Trims Brazil’s 2026 GDP Growth Forecast to 2.2%, Cuts 2027 Projection to 1.9%
+- 10/13 11:02 [FirstSquawk] IMF Revises Mexico’s Growth Outlook, Raising 2026 Forecast to 1.5% and Trimming 2027 to 1.8%
+- 10/13 11:02 [FirstSquawk] IMF: AI-Led Technology Upswing Fails to Offset Energy Shock in Most Latin American and Caribbean Countries
+- 10/13 11:03 [FirstSquawk] IMF Sharply Revises Argentina’s Growth Outlook, Trimming 2026 Forecast to 2.1% and 2027 Estimate to 3.5%
+- 10/13 11:09 [FirstSquawk] NTT’s Planned Osaka Data Center Expected to Have Power Intake Capacity of Up to 500 MW, Nikkei Reports
+- 10/13 11:10 [FirstSquawk] NTT Data Group and Anthropic Plan Agreement by End-FY2026, Eye Partial Launch as Early as 2028, Nikkei Says
+- 10/13 11:13 [FirstSquawk] NTT Data Group’s Data Center Building Costs Potentially Set to Hit ¥1 Trillion, Nikkei Reports
+- 10/13 11:13 [FirstSquawk] NTT to Establish Anthropic’s First Data Center Facility in Japan, Nikkei Reports
+- 10/13 11:14 [FirstSquawk] US Stock Futures Edge Lower, With S&P 500 Down 0.2% and Nasdaq Falling 0.8%
+- 10/13 11:15 [FirstSquawk] IMF Chief Economist Tenreyro Says Global Trade Growth Would Have Been Significantly Lower Without AI Between 2023 and 2025
+- 10/13 11:16 [FirstSquawk] IMF’s Tenreyro Says Changing Views on AI Are Resulting in a Downward Revision to Demand
+- 10/13 11:26 [FirstSquawk] IMF’s Tenreyro Calls on Highly Indebted Nations to Begin Fiscal Consolidation to Bring Deficits Down
+- 10/13 11:28 [FirstSquawk] IMF’s Tenreyro Says Asia’s Growth Outpaces Other Regions, Driven in Part by AI Expansion
+- 10/13 11:29 [FirstSquawk] IMF’s Tenreyro: China and India Drive Growth, With AI Demand Supporting Other Economies
+- 10/13 11:30 [FirstSquawk] IMF Chief Economist Tenreyro Says the UK Stands Out in the G7 for Starting Fiscal Consolidation
+- 10/13 11:31 [FirstSquawk] Taiwan’s Finance Minister to Travel to Hong Kong for Next Week’s APEC Meeting, According to Sources Briefed on the Matter
+- 10/13 11:34 [FirstSquawk] IMF’s Tenreyro Says the UK Should Remain on Track With Its Deficit Reduction Plans
+- 10/13 11:43 [FirstSquawk] IMF’s Tenreyro: AI Has Had a Limited Impact on Latin America, With Commodity-Exporting Economies Faring Well
+- 10/13 11:54 [FirstSquawk] South Korea’s Lee Highlights Strategic Importance of US Ties, Says Countries Can Have Differences
+- 10/13 12:06 [FirstSquawk] BoE MPC’s Greene Warns Against Delayed Inflation Action, Saying Premature Rate Hikes Are Less of a Concern
+- 10/13 12:07 [FirstSquawk] BoE’s Greene Says Policymakers Must Act Before Second-Round Inflation Effects Take Hold
+- 10/13 12:08 [FirstSquawk] BoE MPC’s Greene: Latest IMF Outlook for the UK Comes as No Surprise
+- 10/13 12:09 [FirstSquawk] BoE’s Greene Says Current Monetary Policy in the UK Remains Relatively Accommodative
