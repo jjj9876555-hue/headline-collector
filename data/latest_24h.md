@@ -7,71 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-14 07:42 JST／対象: 10/13 07:42 〜 10/14 07:42 JST（時刻はすべて日本時間）
+生成: 2026-10-14 10:24 JST／対象: 10/13 10:24 〜 10/14 10:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 65 | 10/13 19:31 | 10/14 04:59 | ⚠ 74分（23:26→00:40） |
-| FirstSquawk | 269 | 10/13 08:57 | 10/14 07:32 | ⚠ 78分（19:56→21:15） |
-| financialjuice | 196 | 10/13 07:52 | 10/14 07:14 | ⚠ 378分（07:52→14:10） |
+| FirstSquawk | 254 | 10/13 10:24 | 10/14 10:20 | ⚠ 78分（19:56→21:15） |
+| financialjuice | 201 | 10/13 14:10 | 10/14 10:22 | ⚠ 162分（19:55→22:37） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 506 行（統合前 537 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 496 行（統合前 527 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/13 07:52 [financialjuice] Xai subscription costs range between $8 and $200 per month
-- 10/13 08:57 [FirstSquawk] UNITED AIRLINES RAISED NEARLY ALL US DOMESTIC FARES BY $10 EACH WAY, COVERING MORE THAN 2 MILLION FARE LISTINGS, ACCORDING TO JPMORGAN. THE MOVE MAY SIGNAL CONFIDENCE IN TRAVEL DEMAND, BUT RIVAL AIRLINES HAVE YET TO FOLLOW AND INDUSTRY-WIDE…
-- 10/13 08:57 [FirstSquawk] UNITED SHARES FELL 1.7% AS RISING OIL PRICES ADDED PRESSURE TO FUEL COSTS, POTENTIALLY OFFSETTING GAINS FROM HIGHER FARES. INVESTORS WILL WATCH THE COMPANY’S OCTOBER 20 EARNINGS FOR UPDATES ON TRAVEL DEMAND, PRICING POWER AND COST PRESSURES…
-- 10/13 09:09 [FirstSquawk] US NATURAL GAS FUTURES FELL 1.7% TO $3.167/MMBTU AS GULF OF MEXICO PRODUCTION RECOVERED AFTER HURRICANE ISAIAS AND WARMER WEATHER FORECASTS REDUCED EXPECTATIONS FOR HEATING DEMAND. ABOUT 25% OF OFFSHORE GAS OUTPUT REMAINED SHUT IN, DOWN FRO…
-- 10/13 09:09 [FirstSquawk] RISING LNG EXPORT FLOWS, UP 12% WEEK OVER WEEK TO AROUND 20 BCF/DAY, AND DOMESTIC GAS DEMAND UP 4.2% YEAR OVER YEAR PROVIDED SOME PRICE SUPPORT. HOWEVER, ABOVE-AVERAGE TEMPERATURES FORECAST FOR OCTOBER 22–26 COULD FURTHER WEIGH ON HEATING D…
-- 10/13 09:16 [FirstSquawk] GOLD PRICES DECLINED AFTER RETREATING FROM A ONE-WEEK HIGH AS TRADERS ASSESSED RISING OIL PRICES, INFLATION RISKS AND THE US FEDERAL RESERVE’S INTEREST-RATE OUTLOOK. SPOT GOLD FELL 0.7% TO $4,167.14 AN OUNCE, WHILE SILVER DROPPED 1.1% TO $6…
-- 10/13 09:23 [FirstSquawk] Asia-Pacific Equities Slide as CXMT’s Memory Chip Breakthrough Fuels Concerns Over Chinese Competition
-- 10/13 09:24 [FirstSquawk] BOSNIA’S FOREIGN MINISTER ELMEDIN KONAKOVIĆ HAS WARNED U.S. SECRETARY OF STATE MARCO RUBIO THAT REPUBLIKA SRPSKA, THE PRO-RUSSIA SERB-MAJORITY ENTITY, WAS SPENDING MILLIONS ON TRUMP-LINKED LOBBYISTS AND CONSULTANTS TO GAIN POLITICAL INFLUEN…
-- 10/13 09:24 [FirstSquawk] BOSNIA’S FOREIGN MINISTER ELMEDIN KONAKOVIĆ ALSO URGED THE U.S. TO CONSIDER REIMPOSING SANCTIONS ON FORMER REPUBLIKA SRPSKA PRESIDENT MILORAD DODIK, A CLOSE PUTIN ALLY WHOSE SANCTIONS WERE LIFTED LAST YEAR - FT
-- 10/13 09:27 [FirstSquawk] CRYPTO MARKET SELLOFF: ETHER FALLS 3.8% TO $2,422.91; BITCOIN DOWN 1.97% AT $81,384.86
-- 10/13 09:28 [FirstSquawk] China Faces Challenges in Breaking Its Tech Industry’s Dependence on Nvidia Chips – FT
-- 10/13 09:33 [FirstSquawk] RBA Minutes: Policymakers Believed Underlying Demand Was Stronger Than Earlier Estimates Suggested
-- 10/13 09:33 [FirstSquawk] RESERVE BANK OF AUSTRALIA MINUTES SHOW ALL BOARD MEMBERS AGREED ON THE NEED TO RAISE RATES BY 25 BASIS POINTS, WITH THE BOARD CONCERNED THAT EXCESS DEMAND IN THE ECONOMY WAS GREATER THAN PREVIOUSLY ASSUMED AND SEEING AN INCREASED RISK OF PE…
-- 10/13 09:33 [FirstSquawk] RBA: Board Members Became More Worried About Inflation Staying Above Desired Levels for Longer
-- 10/13 09:33 [FirstSquawk] RESERVE BANK OF AUSTRALIA MINUTES SHOW THE BOARD ‘BRIEFLY’ CONSIDERED THE CASE FOR LEAVING RATES STEADY — INCLUDING FALLING HOUSE PRICES, WHICH HAD DROPPED MORE THAN EXPECTED AND SUGGESTED FINANCIAL CONDITIONS MIGHT BE FAIRLY TIGHT — BUT SA…
-- 10/13 09:33 [FirstSquawk] RBA Minutes: Unanimous Support for a 25-Basis-Point Rate Increase Across the Board
-- 10/13 09:33 [FirstSquawk] RBA: Policymakers Weighed Holding Rates Steady Before Opting for a Hike, With Falling Home Values Among the Considerations
-- 10/13 09:33 [FirstSquawk] RESERVE BANK OF AUSTRALIA MINUTES SHOW THE BOARD SAW SIGNS OF TECH-RELATED PRICE PRESSURES FROM THE AI BOOM EMERGING IN AUSTRALIA AND BROAD-BASED DOMESTIC COST PRESSURES, JUDGED THAT THE NEUTRAL RATE MAY HAVE MOVED HIGHER WITH POLICY ONLY S…
-- 10/13 09:33 [FirstSquawk] RBA: Discussions Focused on Threats That Could Keep Inflation Rising Beyond Current Projections
-- 10/13 09:33 [FirstSquawk] RBA: Inflationary Pressures Had Either Materialised or Gained Momentum Since August
-- 10/13 09:33 [FirstSquawk] RBA: Acting Promptly on Interest Rates Was Seen as Important to Prevent Inflation Expectations From Becoming Unanchored
-- 10/13 09:33 [FirstSquawk] RBA: Household Spending Must Stay Weak for an Extended Period to Help Inflation Return to Its Target
-- 10/13 09:33 [FirstSquawk] RBA: Escalating Middle East Tensions Had Driven Oil Prices Significantly Above Levels Assumed in Forecasts
-- 10/13 09:33 [FirstSquawk] RBA: Business Contacts Reported Widespread Cost Increases Across the Domestic Economy, Including Labour Costs Per Unit of Output
-- 10/13 09:34 [FirstSquawk] RBA: Evidence From Certain Measures Raised Questions About Whether Monetary Policy Was Restricting Economic Activity Enough
-- 10/13 09:34 [FirstSquawk] RBA: A Higher Neutral Rate Globally Could Put the Australian Dollar Under Pressure Unless Local Borrowing Costs Also Increased
-- 10/13 09:34 [FirstSquawk] RBA: The AI Investment Boom Appeared to Be Generating Emerging Price Pressures in Australia's Technology Sector
-- 10/13 09:34 [FirstSquawk] RBA Minutes: Changes to Employment Surveys Prompted Members to Urge Caution When Interpreting Labour Market Figures
-- 10/13 09:34 [FirstSquawk] RBA: Estimates Pointed to a Slightly Restrictive Policy Stance, Although the Economy's Neutral Interest Rate May Have Risen
-- 10/13 09:34 [FirstSquawk] RBA: A Larger-Than-Anticipated Decline in Property Values Indicated That Financial Conditions Might Already Be Tight
-- 10/13 09:34 [FirstSquawk] RBA: Tighter Monetary Policy Overseas Could Indirectly Stimulate Austra
-- 10/13 09:34 [FirstSquawk] RBA: Tighter Monetary Policy Overseas Could Indirectly Stimulate Australian Financial Conditions by Depreciating the Local Currency
-- 10/13 09:35 [FirstSquawk] 2-Year Japanese Government Bond Yield Advances 1 Basis Point to 1.915%
-- 10/13 09:36 [FirstSquawk] 5-Year Japanese Government Bond Yield Advances 1.5 Basis Points to 2.350%
-- 10/13 09:46 [FirstSquawk] ASIAN STOCKS FELL 0.9% AS RENEWED CONCERNS OVER AI VALUATIONS, RISING BORROWING COSTS AND SUSTAINABILITY OF DATA-CENTER SPENDING WEIGHED ON SENTIMENT. SOUTH KOREA’S KOSPI DROPPED AS MUCH AS 4.8%, WITH SK HYNIX AND SAMSUNG FALLING OVER 5%, W…
-- 10/13 09:46 [FirstSquawk] INVESTORS AWAIT US EARNINGS AND WEDNESDAY’S CPI REPORT, WITH S&P 500 THIRD-QUARTER PROFITS EXPECTED TO RISE 25% YEAR OVER YEAR. BRENT CRUDE FELL 0.8% TO $105.80/BARREL, GOLD SLIPPED 0.2% TO $4,164.90/OZ AND BITCOIN DROPPED 1.9% TO $81,373, …
-- 10/13 09:56 [FirstSquawk] Oil Futures Retreat as Traders Anticipate a Technical Correction – WSJ
-- 10/13 09:57 [FirstSquawk] Japanese Bond Prices Decline as Rising Oil Price Concerns Weigh on Sentiment - WSJ
-- 10/13 10:01 [FirstSquawk] Tencent Launches Yuan Bond Offering With Initial Yields of Around 2.90% and 3.50% for 10-Year and 30-Year Tranches
-- 10/13 10:02 [FirstSquawk] Tencent Offers Offshore Chinese Yuan Bonds Across 10-Year and 30-Year Tenors, According to Sheet
-- 10/13 10:02 [FirstSquawk] Tencent’s Dollar Bond Offering Targets Spreads of 115 Basis Points for 10-Year Notes and 140 Basis Points for 20-Year Notes
-- 10/13 10:02 [FirstSquawk] Tencent Launches US Dollar Bond Offering Across 10-Year and 20-Year Tenors, Term Sheet Shows
-- 10/13 10:11 [FirstSquawk] KOSPI Opens Significantly Lower Amid US Market Weakness and Persistent Inflation Concerns
-- 10/13 10:13 [FirstSquawk] Brent Crude Drops More Than 1%, Trading at $105.43 per Barrel
-- 10/13 10:14 [FirstSquawk] US Oil Futures Decline More Than 1%, Trading at $92.66 per Barrel
-- 10/13 10:15 [FirstSquawk] China’s PBOC Fixes Yuan Midpoint at 6.7298 Against the Dollar
-- 10/13 10:18 [FirstSquawk] China Sets Daily Yuan Reference Rate at Its Strongest Since February 2023
-- 10/13 10:21 [FirstSquawk] 30-Year Japanese Government Bond Yield Edges Lower to 4.045%
 - 10/13 10:24 [FirstSquawk] Gold Prices Decline as Investors Turn Their Attention to US Economic Data - WSJ
 - 10/13 10:25 [FirstSquawk] KOSPI Falls 6% as South Korean Stocks Face Heavy Selling
 - 10/13 10:29 [FirstSquawk] CSI New Energy Vehicles Index Signals Nearly 2% Decline at Market Open
@@ -530,3 +482,41 @@
 - 10/14 07:08 [financialjuice] OpenAI in early discussions to buy security startup Trail of Bits: The Information
 - 10/14 07:14 [financialjuice] Saudi-led coalition: missile intercepted and destroyed in Al-Kharj
 - 10/14 07:32 [FirstSquawk] MICROSOFT CLOUD PRESIDENT ASKS LEADERS TO FIND 20% COST CUTS - THE INFORMATION
+- 10/14 08:12 [financialjuice] China’s PLA navy forms Liaoning aircraft carrier strike group for training exercises in western Pacific waters: CCTV
+- 10/14 08:13 [financialjuice] China's PLA navy: routine drill in annual plan targets boosting troops’ combat readiness
+- 10/14 08:39 [FirstSquawk] TENCENT HAS PRICED US$1.8 BLN AND CNY26 BLN OF NOTES UNDER ITS GLOBAL MEDIUM TERM NOTE PROGRAMME, WITH ESTIMATED NET PROCEEDS OF APPROXIMATELY US$1.79 BLN AND CNY25.89 BLN RESPECTIVELY.
+- 10/14 08:39 [FirstSquawk] TENCENT SAYS THE NOTES ARE EXPECTED TO BE ISSUED ON 21 OCTOBER 2026, WITH THE NET PROCEEDS TO BE USED FOR GENERAL CORPORATE PURPOSES.
+- 10/14 08:42 [FirstSquawk] CBA SAYS THAT LOOKING AHEAD, AUSTRALIAN GROWTH IS SLOWING AND INFLATION REMAINS TOO HIGH, ADDING THAT IT WILL TAKE TIME FOR HIGHER INTEREST RATES TO BRING INFLATION BACK INTO THE TARGET RANGE
+- 10/14 08:56 [financialjuice] Microsoft spokesperson: Azure leadership hasn’t instructed teams to create cost-reduction strategies
+- 10/14 08:57 [FirstSquawk] JAPAN’S SEPTEMBER MONEY STOCK M2 ROSE 2.0% YEAR-ON-YEAR, UNCHANGED FROM THE PRIOR MONTH, WITH M3 UP 1.2%, ALSO UNCHANGED
+- 10/14 09:04 [FirstSquawk] JPMORGAN CHASE IS SET TO RAISE $7 BILLION THROUGH A THREE-PART INVESTMENT-GRADE BOND SALE, WITH ITS LONGEST-TERM NOTES EXPECTED TO YIELD 0.9 PERCENTAGE POINT ABOVE US TREASURIES. BARCLAYS ESTIMATES THAT THE SIX LARGEST US BANKS WILL ISSUE A…
+- 10/14 09:04 [FirstSquawk] JPMORGAN HAS ALREADY RAISED $31 BILLION THROUGH FIVE BOND OFFERINGS IN 2026, EXCEEDING THE $26 BILLION ISSUED IN ALL OF 2025, AS BANKS BUILD CASH RESERVES TO MEET GROWING FINANCING DEMAND LINKED TO AI. THE BANK REPORTED AN UNEXPECTED DECLIN…
+- 10/14 09:05 [FirstSquawk] SINGAPORE’S MAS SAYS ITS CURRENT APPRECIATING POLICY BAND WILL ALLOW THE S$NEER TO CONTINUE TO STRENGTHEN AND LEAN AGAINST THE ANTICIPATED NEAR-TERM RISE IN IMPORTED INFLATION, ENSURING THE GRADUAL EASING OF INFLATIONARY PRESSURES IN 2027, …
+- 10/14 09:05 [FirstSquawk] SINGAPORE’S MAS SAYS CORE INFLATION SHOULD REMAIN SLIGHTLY ELEVATED IN THE IMMEDIATE QUARTERS AHEAD BEFORE EASING MORE DISCERNIBLY FROM MID-2027, WITH FIRMING IMPORTED COST PRESSURES KEEPING CORE AND CPI-ALL ITEMS INFLATION AT CURRENT SLIGH…
+- 10/14 09:05 [FirstSquawk] SINGAPORE’S MAS SAYS A SHARP AND SUSTAINED SURGE IN GLOBAL ENERGY OR FOOD PRICES COULD LIFT SINGAPORE’S IMPORT COSTS BY MORE THAN FORECAST, WHILE A HIGHER-THAN-EXPECTED INCREASE IN INTEREST RATES OR A SHARPER PULLBACK IN AI-RELATED INVESTME…
+- 10/14 09:08 [FirstSquawk] IRAN SHIFTING TACTICS TO STEP UP ATTACKS ON SHIPPING BEFORE US MIDTERMS – RTRS CITES IRANIAN OFFICIALS
+- 10/14 09:10 [FirstSquawk] Samsung Electronics Shares Rise 3% in Trading
+- 10/14 09:12 [FirstSquawk] A US JUDGE ORDERED OPENAI TO FAST-TRACK DOCUMENT DISCLOSURE IN APPLE’S TRADE SECRETS LAWSUIT, CITING THE RISK OF EVIDENCE BEING DESTROYED. THREE FORMER APPLE EMPLOYEES MUST ALSO UNDERGO EARLY DEPOSITIONS.
+- 10/14 09:12 [FirstSquawk] OPENAI DENIED THE ALLEGATIONS, WHILE THE JUDGE REJECTED APPLE’S REQUEST FOR EARLY ACCESS TO SOME R&D RECORDS. THE RULING PRECEDES A HEARING ON OPENAI’S BID TO DISMISS THE CASE.
+- 10/14 09:13 [FirstSquawk] GOLD FELL 0.2% TO $4,162.71 AN OUNCE, RECOVERING FROM SESSION LOWS AS FED’S JOHN WILLIAMS SIGNALLED NO FURTHER RATE HIKES MAY BE NEEDED IN 2027. LOWER US TREASURY YIELDS AND A WEAKER DOLLAR SUPPORTED BULLION, WHILE SILVER ROSE 2% TO $59.25.
+- 10/14 09:13 [FirstSquawk] INVESTORS AWAIT US INFLATION DATA FOR FRESH RATE CLUES, WITH MARKETS PRICING IN AROUND 90% PROBABILITY OF A DECEMBER HIKE. SAFE-HAVEN DEMAND AND OIL-PRICE VOLATILITY CONTINUE TO INFLUENCE GOLD.
+- 10/14 09:18 [FirstSquawk] South Korean Stocks Rally as the KOSPI Gains More Than 2%
+- 10/14 09:21 [FirstSquawk] Asia-Pacific equities show a mixed performance as the region seeks to rebound from recent tech-led declines, with key economic releases from China, including inflation and trade data, in focus
+- 10/14 09:24 [financialjuice] China PBOC poised to fix yuan midpoint at 6.6922 per dollar: estimate
+- 10/14 09:24 [FirstSquawk] Trump Gives Remarks During Rally in Wasilla, Alaska - Fox News
+- 10/14 09:25 [FirstSquawk] 5-Year JGB Yield Advances to 2.345%, Up 0.5 Basis Points
+- 10/14 09:29 [FirstSquawk] 10-Year Japanese Government Bond Yield Climbs 1.5 Basis Points to 3.015%
+- 10/14 09:32 [FirstSquawk] BRENT CRUDE FUTURES RISE MORE THAN $1 TO $106.70/BBL
+- 10/14 09:54 [FirstSquawk] JGBs Weaken as Higher Oil Prices Weigh on the Market - WSJ
+- 10/14 09:54 [FirstSquawk] Japan’s Nikkei Climbs 0.3% on Potential Positioning Shifts Ahead of U.S. CPI Data : WSJ
+- 10/14 09:54 [FirstSquawk] Singapore’s Central Bank Unexpectedly Keeps Monetary Policy Unchanged - WSJ
+- 10/14 10:00 [FirstSquawk] South Korea’s Stock Market Opens Higher Despite U.S. Losses and Technology Sector Concerns
+- 10/14 10:00 [FirstSquawk] Taiwan Overnight Interbank Rate Starts the Session at 0.805%, Unchanged From the Previous Open
+- 10/14 10:03 [FirstSquawk] WTI Crude Futures Gain More Than $1, Reaching $95.22 per Barrel
+- 10/14 10:09 [FirstSquawk] Most Active Tin Contract in Shanghai Falls 3%
+- 10/14 10:15 [FirstSquawk] China’s Central Bank Fixes Yuan Midpoint at 6.7249 Against the Dollar
+- 10/14 10:17 [FirstSquawk] CRUDE GAINS AS MARKETS WEIGH POTENTIAL SAUDI SUPPLY DISRUPTIONS AND RUSSIAN DIESEL SHIPMENTS
+- 10/14 10:18 [financialjuice] China fixes yuan midpoint at strongest level since Feb. 2, 2023
+- 10/14 10:19 [FirstSquawk] China’s Yuan Midpoint Strengthens to Its Firmest Level Since February 2, 2023
+- 10/14 10:20 [FirstSquawk] Russian Governor Reports One Fatality After Drone Attack on Balakovo in Saratov Region
+- 10/14 10:22 [financialjuice] China central bank pumps 56 billion yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement

@@ -7,60 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-14 07:42 JST／対象: 10/13 19:42 〜 10/14 07:42 JST（時刻はすべて日本時間）
+生成: 2026-10-14 10:24 JST／対象: 10/13 22:24 〜 10/14 10:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 60 | 10/13 19:48 | 10/14 04:59 | ⚠ 74分（23:26→00:40） |
-| FirstSquawk | 131 | 10/13 19:56 | 10/14 07:32 | ⚠ 78分（19:56→21:15） |
-| financialjuice | 158 | 10/13 19:55 | 10/14 07:14 | ⚠ 162分（19:55→22:37） |
+| DeItaone | 43 | 10/13 22:39 | 10/14 04:59 | ⚠ 74分（23:26→00:40） |
+| FirstSquawk | 144 | 10/13 22:31 | 10/14 10:20 | ⚠ 67分（07:32→08:39） |
+| financialjuice | 163 | 10/13 22:37 | 10/14 10:22 | ⚠ 58分（07:14→08:12） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 326 行（統合前 355 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 327 行（統合前 353 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/13 19:48 [DeItaone] KREMLIN DENIES TRUMP'S RUSSIAN DIESEL DEAL IS LINKED TO UKRAINE PEACE TALKS The Kremlin says Russia's diesel export agreement with the U.S. has no direct connection to negotiations over Ukraine. The denial follows a Reuters report that Trum…
-- 10/13 19:50 [DeItaone] JPMORGAN'S DIMON WARNS OF RISKS DESPITE STRONG U.S. ECONOMY Jamie Dimon says the U.S. economy remains solid, supported by business investment and consumer spending. However, rising interest rates, sticky inflation, large deficits and geopol…
-- 10/13 19:55 [financialjuice] UK's Miliband signs off on Falklands drilling - Telegraph
-- 10/13 19:55 [DeItaone] BOFA: U.S. TREASURY YIELDS MAY NEED TO HIT 6% TO DERAIL STOCK RALLY Bank of America's latest fund manager survey finds that 10-year Treasury yields would need to approach 6% before investors meaningfully shift money from stocks into bonds. …
-- 10/13 19:56 [FirstSquawk] WELLS FARGO CUTS ADOBE TO UNDERWEIGHT FROM OVERWEIGHT; CUTS TARGET PRICE TO $225 FROM $270
-- 10/13 20:58 [DeItaone] SAUDI-LED COALITION SPOKESPERSON SAYS WARNING TO BE ISSUED SHORTLY FOR CIVILIANS TO EVACUATE SITE IN YEMEN'S SANAA AHEAD OF SPECIAL OPERATION
-- 10/13 21:04 [DeItaone] OPEC RAISES 2027 OIL DEMAND FORECAST AS SAUDI PRODUCTION SURGES OPEC has raised its 2027 global oil demand growth forecast to 2.55M bpd, up from 2.36M bpd. However, it cut its 2026 forecast to just 180,000 bpd, down from 380,000 bpd. Meanwh…
-- 10/13 21:12 [DeItaone] JPMORGAN CFO: INVESTMENT BANKING PIPELINE REMAINS ROBUST DESPITE SLOWDOWN JPMorgan CFO Jeremy Barnum says investment banking conditions remain highly supportive, despite a slowdown in the second half of September. He emphasized that deals a…
-- 10/13 21:12 [DeItaone] HASSETT: FED TO KEEP INFLATION IN CONTROL, NOT KILL THE ECONOMY.
-- 10/13 21:12 [DeItaone] YEMEN'S HOUTHIS WARNS SAUDI ARABIA THAT ANY ATTACK ON SANAA WILL BE MET WTIH 'HARSH' RESPONSE IN RIYADH -SPOKESPERSON
-- 10/13 21:13 [DeItaone] HASSETT: MARKET HAS CONFIDENCE IN NEW FED CHAIR
-- 10/13 21:13 [DeItaone] HASSETT: FED MAY SEE INFLATION SLOWDOWN AS REASON TO HOLD
-- 10/13 21:15 [FirstSquawk] US ADP: US PRIVATE JOBS ROSE AVG 24,750/WK IN 4 WKS TO SEPT. 26
-- 10/13 21:20 [DeItaone] TRUMP'S SCHEDULE — TUESDAY, OCTOBER 13 🔸 8:00 AM ET — Executive Time 🔸 9:30 AM ET — White House Press Briefing 🔸 7:30 PM ET — Trump Rally in Wasilla, Alaska (3:30 PM local) TRAVEL SCHEDULE (TBD): Washington, D.C. → Wasilla, Alaska Wasilla, …
-- 10/13 21:25 [FirstSquawk] SAUDI-LED COALITION CALLS ON CIVILIANS TO EVACUATE YEMENI OIL COMPANY SITE AT AL-SABAHA CENTRAL STATION IN SANAA - SPOKESPERSON
-- 10/13 21:28 [FirstSquawk] ITHACA TO BUY BUMBLE FOR $6.05/CLASS A STOCK IN CASH
-- 10/13 21:28 [FirstSquawk] NATIONAL ECONOMIC COUNCIL'S HASSETT: FED MAY SEE INFLATION SLOWDOWN AS REASON TO HOLD
-- 10/13 21:28 [FirstSquawk] ERDOGAN, SAUDI CROWN PRINCE DISCUSS HOUTHI ATTACKS ON PHONE
-- 10/13 21:35 [FirstSquawk] 6.0 MAG. EARTHQUAKE CENTRAL MID-ATLANTIC RIDGE :GFZ
-- 10/13 21:35 [FirstSquawk] KAZAKHSTAN ECONOMY MINISTRY SEES OIL PRICE AT $70/BBL NEXT YR
-- 10/13 21:41 [FirstSquawk] US CITES IRAN, HOUTHI AND TERRORISM RISKS IN TRAVEL NOTICE
-- 10/13 21:41 [FirstSquawk] US: DO NOT TRAVEL TO THE YEMEN BORDER DUE TO TERRORISM
-- 10/13 21:49 [DeItaone] HIGHER INTEREST RATES COULD PUT STRESS ON THE U.S. ECONOMY, JPMORGAN EXECUTIVES SAY
-- 10/13 21:51 [FirstSquawk] JPMORGAN, GOLDMAN PROFIT JUMPS AS BANKS KICK OFF EARNINGS
-- 10/13 21:51 [FirstSquawk] JPM CEO DIMON: BUYBACKS DOWN BECAUSE DEPLOYING CAPITAL AT GOOD RETURNS
-- 10/13 21:52 [DeItaone] JPMORGAN CEO JAMIE DIMON WARNS OF RISKS FROM AI AGENTS ACCESSING BANK ACCOUNTS Jamie Dimon warns that giving AI agents access to bank accounts carries serious security and liability risks. He says customers must understand that responsibili…
-- 10/13 21:53 [DeItaone] HOUTHIS WARN OF NEW ATTACKS ON SAUDI OIL FACILITIES Yemen's Houthis have warned workers to stay away from Saudi oil facilities, citing potential military strikes. The group also renewed warnings to airlines, airports and passengers in previ…
-- 10/13 21:58 [FirstSquawk] APPLE: INTRODUCES APPLE HOMEVIEW FOR ENTERTAINMENT AND SMART HOME MANAGEMENT
-- 10/13 21:59 [FirstSquawk] APPLE: PRE-ORDERS FOR APPLE HOMEVIEW START TODAY, AVAILABLE NOVEMBER 13
-- 10/13 21:59 [FirstSquawk] APPLE: HOMEVIEW NOT AVAILABLE FOR SALE IN EUROPEAN UNION
-- 10/13 21:59 [FirstSquawk] APPLE: HOMEVIEW AND WALL MOUNTED MODEL AVAILABLE FOR PRE-ORDER AT $299 (U.S.)
-- 10/13 22:03 [DeItaone] MARTIN SHKRELI VIOLATED LIFETIME PHARMA INDUSTRY BAN, FTC AND STATES SAY IN CONTEMPT CLAIM - CNBC
-- 10/13 22:05 [FirstSquawk] https://t.co/PJXgznyTKZ : REGISTRATIONS, IF APPROVED, WOULD ALLOW COMPANY TO BRING REGULATED CRYPTO DERIVATIVES AND PREDICTION MARKET CONTRACTS TO US CUSTOMERS
-- 10/13 22:05 [FirstSquawk] MARVELL, MICROSOFT & ORACLE ESTABLISH OCP WORKING GROUP
-- 10/13 22:08 [DeItaone] TWO-YEAR U.S. TREASURY YIELDS TURN POSITIVE LAST UP 0.64 BASIS POINTS AT 4.797% YIELD CURVE BETWEEN TWO-YEAR AND 10-YEAR TREASURY NOTES LAST AT A POSITIVE 40.6
-- 10/13 22:20 [DeItaone] PIPER SANDLER: TEEN SURVEY REVEALS MAJOR WINNERS AND LOSERS ACROSS STOCKS Piper Sandler's latest survey of nearly 9,000 U.S. teens highlights shifting consumer trends. BEAUTY: Spending rebounds, with ULTA and EL top picks. ELF remains the l…
-- 10/13 22:22 [FirstSquawk] ZELENSKY SAYS PARTNER INTELLIGENCE SUPPORT HAS STOPPED AMID NIGHTTIME ATTACKS.
 - 10/13 22:31 [FirstSquawk] DOW JONES UP 415.92 POINTS, OR 0.80 %, AT 52,266.47 AFTER MARKET OPEN S&P 500 DOWN 6.81 POINTS, OR 0.09 PERCENT, AT 7,800.43 AFTER MARKET OPEN NASDAQ DOWN 103.37 POINTS, OR 0.38 PERCENT, AT 27,142.54 AFTER MARKET OPEN
 - 10/13 22:36 [FirstSquawk] GOLDMAN CEO SAYS HEALTH OF US ECONOMY REMAINS SOLID
 - 10/13 22:37 [financialjuice] LIVE: White House press briefing with Katie Zacharia
@@ -350,3 +313,41 @@
 - 10/14 07:08 [financialjuice] OpenAI in early discussions to buy security startup Trail of Bits: The Information
 - 10/14 07:14 [financialjuice] Saudi-led coalition: missile intercepted and destroyed in Al-Kharj
 - 10/14 07:32 [FirstSquawk] MICROSOFT CLOUD PRESIDENT ASKS LEADERS TO FIND 20% COST CUTS - THE INFORMATION
+- 10/14 08:12 [financialjuice] China’s PLA navy forms Liaoning aircraft carrier strike group for training exercises in western Pacific waters: CCTV
+- 10/14 08:13 [financialjuice] China's PLA navy: routine drill in annual plan targets boosting troops’ combat readiness
+- 10/14 08:39 [FirstSquawk] TENCENT HAS PRICED US$1.8 BLN AND CNY26 BLN OF NOTES UNDER ITS GLOBAL MEDIUM TERM NOTE PROGRAMME, WITH ESTIMATED NET PROCEEDS OF APPROXIMATELY US$1.79 BLN AND CNY25.89 BLN RESPECTIVELY.
+- 10/14 08:39 [FirstSquawk] TENCENT SAYS THE NOTES ARE EXPECTED TO BE ISSUED ON 21 OCTOBER 2026, WITH THE NET PROCEEDS TO BE USED FOR GENERAL CORPORATE PURPOSES.
+- 10/14 08:42 [FirstSquawk] CBA SAYS THAT LOOKING AHEAD, AUSTRALIAN GROWTH IS SLOWING AND INFLATION REMAINS TOO HIGH, ADDING THAT IT WILL TAKE TIME FOR HIGHER INTEREST RATES TO BRING INFLATION BACK INTO THE TARGET RANGE
+- 10/14 08:56 [financialjuice] Microsoft spokesperson: Azure leadership hasn’t instructed teams to create cost-reduction strategies
+- 10/14 08:57 [FirstSquawk] JAPAN’S SEPTEMBER MONEY STOCK M2 ROSE 2.0% YEAR-ON-YEAR, UNCHANGED FROM THE PRIOR MONTH, WITH M3 UP 1.2%, ALSO UNCHANGED
+- 10/14 09:04 [FirstSquawk] JPMORGAN CHASE IS SET TO RAISE $7 BILLION THROUGH A THREE-PART INVESTMENT-GRADE BOND SALE, WITH ITS LONGEST-TERM NOTES EXPECTED TO YIELD 0.9 PERCENTAGE POINT ABOVE US TREASURIES. BARCLAYS ESTIMATES THAT THE SIX LARGEST US BANKS WILL ISSUE A…
+- 10/14 09:04 [FirstSquawk] JPMORGAN HAS ALREADY RAISED $31 BILLION THROUGH FIVE BOND OFFERINGS IN 2026, EXCEEDING THE $26 BILLION ISSUED IN ALL OF 2025, AS BANKS BUILD CASH RESERVES TO MEET GROWING FINANCING DEMAND LINKED TO AI. THE BANK REPORTED AN UNEXPECTED DECLIN…
+- 10/14 09:05 [FirstSquawk] SINGAPORE’S MAS SAYS ITS CURRENT APPRECIATING POLICY BAND WILL ALLOW THE S$NEER TO CONTINUE TO STRENGTHEN AND LEAN AGAINST THE ANTICIPATED NEAR-TERM RISE IN IMPORTED INFLATION, ENSURING THE GRADUAL EASING OF INFLATIONARY PRESSURES IN 2027, …
+- 10/14 09:05 [FirstSquawk] SINGAPORE’S MAS SAYS CORE INFLATION SHOULD REMAIN SLIGHTLY ELEVATED IN THE IMMEDIATE QUARTERS AHEAD BEFORE EASING MORE DISCERNIBLY FROM MID-2027, WITH FIRMING IMPORTED COST PRESSURES KEEPING CORE AND CPI-ALL ITEMS INFLATION AT CURRENT SLIGH…
+- 10/14 09:05 [FirstSquawk] SINGAPORE’S MAS SAYS A SHARP AND SUSTAINED SURGE IN GLOBAL ENERGY OR FOOD PRICES COULD LIFT SINGAPORE’S IMPORT COSTS BY MORE THAN FORECAST, WHILE A HIGHER-THAN-EXPECTED INCREASE IN INTEREST RATES OR A SHARPER PULLBACK IN AI-RELATED INVESTME…
+- 10/14 09:08 [FirstSquawk] IRAN SHIFTING TACTICS TO STEP UP ATTACKS ON SHIPPING BEFORE US MIDTERMS – RTRS CITES IRANIAN OFFICIALS
+- 10/14 09:10 [FirstSquawk] Samsung Electronics Shares Rise 3% in Trading
+- 10/14 09:12 [FirstSquawk] A US JUDGE ORDERED OPENAI TO FAST-TRACK DOCUMENT DISCLOSURE IN APPLE’S TRADE SECRETS LAWSUIT, CITING THE RISK OF EVIDENCE BEING DESTROYED. THREE FORMER APPLE EMPLOYEES MUST ALSO UNDERGO EARLY DEPOSITIONS.
+- 10/14 09:12 [FirstSquawk] OPENAI DENIED THE ALLEGATIONS, WHILE THE JUDGE REJECTED APPLE’S REQUEST FOR EARLY ACCESS TO SOME R&D RECORDS. THE RULING PRECEDES A HEARING ON OPENAI’S BID TO DISMISS THE CASE.
+- 10/14 09:13 [FirstSquawk] GOLD FELL 0.2% TO $4,162.71 AN OUNCE, RECOVERING FROM SESSION LOWS AS FED’S JOHN WILLIAMS SIGNALLED NO FURTHER RATE HIKES MAY BE NEEDED IN 2027. LOWER US TREASURY YIELDS AND A WEAKER DOLLAR SUPPORTED BULLION, WHILE SILVER ROSE 2% TO $59.25.
+- 10/14 09:13 [FirstSquawk] INVESTORS AWAIT US INFLATION DATA FOR FRESH RATE CLUES, WITH MARKETS PRICING IN AROUND 90% PROBABILITY OF A DECEMBER HIKE. SAFE-HAVEN DEMAND AND OIL-PRICE VOLATILITY CONTINUE TO INFLUENCE GOLD.
+- 10/14 09:18 [FirstSquawk] South Korean Stocks Rally as the KOSPI Gains More Than 2%
+- 10/14 09:21 [FirstSquawk] Asia-Pacific equities show a mixed performance as the region seeks to rebound from recent tech-led declines, with key economic releases from China, including inflation and trade data, in focus
+- 10/14 09:24 [financialjuice] China PBOC poised to fix yuan midpoint at 6.6922 per dollar: estimate
+- 10/14 09:24 [FirstSquawk] Trump Gives Remarks During Rally in Wasilla, Alaska - Fox News
+- 10/14 09:25 [FirstSquawk] 5-Year JGB Yield Advances to 2.345%, Up 0.5 Basis Points
+- 10/14 09:29 [FirstSquawk] 10-Year Japanese Government Bond Yield Climbs 1.5 Basis Points to 3.015%
+- 10/14 09:32 [FirstSquawk] BRENT CRUDE FUTURES RISE MORE THAN $1 TO $106.70/BBL
+- 10/14 09:54 [FirstSquawk] JGBs Weaken as Higher Oil Prices Weigh on the Market - WSJ
+- 10/14 09:54 [FirstSquawk] Japan’s Nikkei Climbs 0.3% on Potential Positioning Shifts Ahead of U.S. CPI Data : WSJ
+- 10/14 09:54 [FirstSquawk] Singapore’s Central Bank Unexpectedly Keeps Monetary Policy Unchanged - WSJ
+- 10/14 10:00 [FirstSquawk] South Korea’s Stock Market Opens Higher Despite U.S. Losses and Technology Sector Concerns
+- 10/14 10:00 [FirstSquawk] Taiwan Overnight Interbank Rate Starts the Session at 0.805%, Unchanged From the Previous Open
+- 10/14 10:03 [FirstSquawk] WTI Crude Futures Gain More Than $1, Reaching $95.22 per Barrel
+- 10/14 10:09 [FirstSquawk] Most Active Tin Contract in Shanghai Falls 3%
+- 10/14 10:15 [FirstSquawk] China’s Central Bank Fixes Yuan Midpoint at 6.7249 Against the Dollar
+- 10/14 10:17 [FirstSquawk] CRUDE GAINS AS MARKETS WEIGH POTENTIAL SAUDI SUPPLY DISRUPTIONS AND RUSSIAN DIESEL SHIPMENTS
+- 10/14 10:18 [financialjuice] China fixes yuan midpoint at strongest level since Feb. 2, 2023
+- 10/14 10:19 [FirstSquawk] China’s Yuan Midpoint Strengthens to Its Firmest Level Since February 2, 2023
+- 10/14 10:20 [FirstSquawk] Russian Governor Reports One Fatality After Drone Attack on Balakovo in Saratov Region
+- 10/14 10:22 [financialjuice] China central bank pumps 56 billion yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement
