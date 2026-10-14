@@ -7,99 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-15 05:41 JST／対象: 10/14 17:41 〜 10/15 05:41 JST（時刻はすべて日本時間）
+生成: 2026-10-15 08:27 JST／対象: 10/14 20:27 〜 10/15 08:27 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 96 | 10/14 18:23 | 10/15 05:24 | ⚠ 67分（04:16→05:24） |
-| FirstSquawk | 117 | 10/14 17:46 | 10/15 05:36 | ⚠ 69分（01:43→02:53） |
-| financialjuice | 171 | 10/14 17:41 | 10/15 05:39 | 44分（01:41→02:25） |
+| DeItaone | 80 | 10/14 20:28 | 10/15 07:19 | ⚠ 109分（05:24→07:14） |
+| FirstSquawk | 97 | 10/14 20:31 | 10/15 07:55 | ⚠ 69分（01:43→02:53） |
+| financialjuice | 160 | 10/14 20:27 | 10/15 08:13 | 44分（01:41→02:25） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 375 行（統合前 384 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 325 行（統合前 337 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/14 17:41 [financialjuice] Yemen's Houthis: They targeted Aramco in Dahran , King Khalid Airport and Aramco refinery in Riyadh - Military Spokesperson.
-- 10/14 17:42 [financialjuice] Yemens Houthis: Our operations targeting airports and oil facilities will continue in following days.
-- 10/14 17:46 [FirstSquawk] YEMEN'S HOUTHIS SAYS THEY TARGETED ARAMCO IN DAHRAN , KING KHALID AIRPORT AND ARAMCO REFINERY IN RIYADH - MILITARY SPOKESPERSON
-- 10/14 17:46 [FirstSquawk] YEMENS HOUTHIS SAYS THEIR OPERATIONS TARGETING AIRPORTS AND OIL FACILITIES WILL CONTINUE IN FOLLOWING DAYS
-- 10/14 17:46 [FirstSquawk] UK FOREIGN MINISTER MILIBAND SAYS UK FOREIGN POLICY MUST ADDRESS ISSUES OF DEBT AND CLIMATE, THIS IS IN ITS OWN INTEREST
-- 10/14 17:46 [FirstSquawk] UK FOREIGN MINISTER MILIBAND SAYS CLIMATE IS A NATIONAL SECURITY ISSUE
-- 10/14 17:52 [FirstSquawk] UK FOREIGN MINISTER MILIBAND SAYS NEED TO ENSURE DEBT RESTRUCTURING CAN'T BE BLOCKED BY A SINGLE PRIVATE-SECTOR LENDER
-- 10/14 17:58 [financialjuice] White House actively discussing Ukraine intel sharing - Semafor
-- 10/14 17:59 [FirstSquawk] TRUMP CONSIDERING REVISITING INTELLIGENCE SHARING WITH UKRAINE; CIA DIRECTOR RATCLIFFE REPORTEDLY OPPOSED TO HALTING INTELLIGENCE SHARING - SEMAFOR
-- 10/14 18:02 [FirstSquawk] CHINA'S AGGREGATE FINANCING FROM JANUARY TO SEPTEMBER REACHED CNY27.46 TRILLION, ABOVE THE ESTIMATED CNY27.251 TRILLION.
-- 10/14 18:02 [FirstSquawk] CHINA'S NEW YUAN LOANS FROM JANUARY TO SEPTEMBER REACHED CNY 11.52 TRILLION, BEATING EXPECTATIONS OF CNY 11.465 TRILLION.
-- 10/14 18:03 [financialjuice] UK 4 YR GILT YIELD ACTUAL 4.945% (FORECAST -, PREVIOUS 4.786%) $MACRO
-- 10/14 18:03 [financialjuice] UK 4 YR BID-TO-COVER ACTUAL 3.415 (FORECAST -, PREVIOUS 3.237) $MACRO
-- 10/14 18:10 [FirstSquawk] IRGC NAVY: CONTAINER SHIP CARRYING 2,500 CONTAINERS SANK IN SOUTHERN WATERS OF STRAIT OF HORMUZ AFTER HITTING NAVAL MINE AND CATCHING FIRE; SHIP WAS ATTEMPTING TO PASS THROUGH "UNAUTHORIZED AND DANGEROUS" STRAIT OF HORMUZ
-- 10/14 18:10 [FirstSquawk] IRGC NAVY: LOCAL VESSELS AND FISHERMEN ADVISED TO TRANSIT ROUTE WITH UTMOST SAFETY TO AVOID COLLISION WITH FLOATING CONTAINERS
-- 10/14 18:13 [financialjuice] Iran's revolutionary guards: A container ship sunk in the south of the Strait of Hormuz after hitting a naval mine - State media
-- 10/14 18:17 [FirstSquawk] CHINA'S PREMIER SAYS HOPE MORE COUNTRIES WILL LIFT RESTRICTIONS, AND ACTIVELY PROMOTE THE OPTIMIZED AND BALANCED DEVELOPMENT OF TRADE
-- 10/14 18:23 [DeItaone] CONTAINER SHIP SINKS AFTER HITTING MINE NEAR STRAIT OF HORMUZ Iran’s Revolutionary Guards say a container ship carrying over 2,500 containers sank after striking a naval mine and catching fire south of the Strait of Hormuz. The Guards claim…
-- 10/14 18:36 [financialjuice] GERMAN 30 YR BUND BID-TO-COVER ACTUAL 1.4 (FORECAST -, PREVIOUS 1.6) $MACRO
-- 10/14 18:37 [financialjuice] GERMAN 30 YR BUND YIELD ACTUAL 3.8% (FORECAST -, PREVIOUS 3.8%) $MACRO
-- 10/14 18:44 [DeItaone] TRUMP WEIGHS CUTTING INTELLIGENCE SHARING WITH UKRAINE The White House is actively discussing restricting intelligence sharing with Kyiv, according to Semafor, despite Trump publicly saying “we help them.” CIA Director John Ratcliffe report…
-- 10/14 18:48 [FirstSquawk] JAPAN'S FARM MINISTER YANA RESIGNS AMID SCANDAL.
-- 10/14 18:50 [DeItaone] KREMLIN: EUROPEANS ARE DOING EVERYTHING FOR THE WAR IN UKRAINE TO CONTINUE WHILE US NEGOTIATORS ARE MAKING EFFORTS AIMED AT PEACEFUL SETTLEMENT
-- 10/14 18:50 [DeItaone] KREMLIN ON ENERGY CEASIFERE PROPOSED BY TRUMP: THE PROVISIONS OF THE CEASEFIRE WERE NOT SPECIFIED, WORK IS CONTINUING
-- 10/14 18:52 [DeItaone] PUTIN CONVENES TOP OFFICIALS OVER GROWING CYBER THREATS Russian President Vladimir Putin will hold high-level cybersecurity talks on Wednesday, as Moscow warns of escalating digital threats. The Kremlin says countries are increasingly weapo…
-- 10/14 18:52 [DeItaone] *BOWMAN: DO NOT SEE URGENCY FOR FURTHER FED ACTION ON RATES
-- 10/14 18:54 [FirstSquawk] KREMLIN STATES THAT DETAILS OF ENERGY CEASEFIRE PROPOSED BY TRUMP ARE UNCLEAR; WORK IS STILL IN PROGRESS.
-- 10/14 18:54 [FirstSquawk] KREMLIN ACCUSES EUROPEANS OF WORKING TO EXTEND THE WAR IN UKRAINE, WHILE US NEGOTIATORS FOCUS ON PEACE TALKS.
-- 10/14 18:54 [FirstSquawk] KREMLIN SAYS THAT SOME COUNTRIES TRYING TO USE TECHNOLOGIES AS WEAPONS THREATEN MANY PARTS OF RUSSIA'S ECONOMY.
-- 10/14 18:54 [FirstSquawk] FED'S BOWMAN SAYS NO IMMEDIATE NEED FOR MORE RATE ACTION.
-- 10/14 18:54 [DeItaone] BOWMAN SAYS CAN WAIT, ASSESS CONDITIONS BEFORE MORE ACTION
-- 10/14 18:57 [DeItaone] $SPCX - MORGAN STANLEY SEES MAJOR AI UPSIDE IN SPACEX Morgan Stanley's Adam Jonas reiterates Overweight on SpaceX with a $300 price target. Jonas argues investors are overlooking SpaceX's biggest potential growth driver: Distributed Inferen…
-- 10/14 18:59 [DeItaone] IRAN WARNS U.S. COULD LAUNCH NEW STRIKES BEFORE MIDTERMS IRGC spokesman Hossein Mohebbi warns Washington could restart attacks on Iran ahead of the November 3 elections, despite Trump's pledge not to strike. Iran says it has developed more …
-- 10/14 19:03 [FirstSquawk] BLACKROCK Q3 EPS USD 10.57; Q3 REVENUE USD 7,752 MILLION VS. IBES ESTIMATE USD 7,520 MILLION; Q3 NET INCOME USD 1,659 MILLION; Q3 ADJUSTED EPS USD 15.93 VS. IBES ESTIMATE USD 14.1
-- 10/14 19:04 [DeItaone] BLACKROCK ($BLK ) Q3 EARNINGS BEAT — EPS & REVENUE TOP ESTIMATES Results 🔸 Adjusted EPS: $15.93 vs. $14.30 est. (+11.4% beat) 🔸 🔸 Revenue: $7.75B vs. $7.43B est. (+4.3% beat) 🔸 GAAP EPS: $10.57 vs. $8.43 YoY 🔸 Net Income: $1.66B, up 25.7% Y…
-- 10/14 19:05 [financialjuice] $BLK BlackRock Q3 2026 Earnings Adj EPS $15.93, est. $14.15 Rev $7.75B, est. $7.4B AUM $15.49T, est. $15.57T Base Fees & Securities Lending Rev $6.04B, est. $5.99B Net Inflows $205.47B, est. $171.51B
-- 10/14 19:09 [DeItaone] RUSSIA RESUMES DIESEL EXPORTS FOLLOWING TRUMP DEAL Russia has resumed diesel shipments from its Baltic port of Primorsk after Washington temporarily eased sanctions. A tanker carrying 40,000 tons is heading to Morocco. Moscow expects export…
-- 10/14 19:10 [FirstSquawk] FED'S BOWMAN SAYS WE ARE PLANNING A COMPLETE REOGANISATION, WORKING TO FIX THE RISK AVERSION CULTURE ISSUES DURING SILICON VALLEY BANK COLLAPSE
-- 10/14 19:12 [FirstSquawk] BlackRock Q3 26 Earnings: - AUM: $15.49T (est $15.57T) - Adjusted EPS: $15.93 (est $14.1) - Net Income: $1,659M - Revenue: $7,752M (est $7,520M) - Demand For Capital Is Growing Across Global Economy - Raised $68B In Private Markets Over Las…
-- 10/14 19:14 [FirstSquawk] FED'S BOWMAN: PLANNING COMPLETE REORGANISATION; WORKING TO FIX RISK AVERSION CULTURE ISSUES SEEN DURING SILICON VALLEY BANK COLLAPSE
-- 10/14 19:15 [FirstSquawk] NOVAK: RUSSIA OIL OUTPUT TO RECOVER, RISE ON CAPACITY: IFX
-- 10/14 19:18 [FirstSquawk] NOVAK: RUSSIA, US DISCUSSING DIESEL CONTRACTS: TASS
-- 10/14 19:18 [FirstSquawk] NOVAK SAYS US DIESEL SUPPLY DEAL IN SIGHT AMID SANCTIONS: IFX
-- 10/14 19:18 [financialjuice] Russia’s Deputy PM Novak: Russia oil output to recover, rise on capacity - IFX
-- 10/14 19:19 [financialjuice] Russia’s Deputy PM Novak: Russia's fuel oil market situation improving - Tass
-- 10/14 19:19 [FirstSquawk] NOVAK: OPEC+ CAPACITY ASSESSMENT REPORT DUE LATE 2026: IFX
-- 10/14 19:19 [FirstSquawk] COCA-COLA: CITIGROUP RAISES TARGET PRICE TO $102 FROM $100
-- 10/14 19:19 [financialjuice] Russia’s Deputy PM Novak: Number of Russian refineries completed maintenance - Tass
-- 10/14 19:20 [financialjuice] Russia's Novak: OPEC+ capacity assessment report due late 2026 - IFX
-- 10/14 19:21 [financialjuice] UKMTO: Container ship struck by projectile on October 13th
-- 10/14 19:22 [financialjuice] Kazakhstan energy ministry: Repairs at the Karachaganak field were completed on 1st October; production at the field remains at a stable level - IFX
-- 10/14 19:22 [FirstSquawk] RUSSIA DEPUTY PM NOVAK: RUSSIA-US NEGOTIATIONS UNDERWAY TO FINALISE DIESEL CONTRACT; WILL INCLUDE MECHANISM TO ENSURE SUPPLIES DESPITE WESTERN SANCTIONS
-- 10/14 19:27 [DeItaone] *EU COMMISSION WARNS OF VERY DIFFICULT WINTER AMID HIGH ENERGY PRICES *EU COMMISSION SEES AFFORDABILITY CRISIS, VOLATILE OUTLOOK
-- 10/14 19:29 [DeItaone] IEA WARNS DIESEL SHORTAGES COULD LAST INTO 2027 The IEA warns global diesel supplies could remain tight well into next year, as wars in the Middle East and Ukraine disrupt production. Diesel refining margins hit a record $95 per barrel, whi…
-- 10/14 19:29 [financialjuice] EU Commission Spokesperson: We are headed for a very, very difficult winter with high energy prices, with an affordability crisis, and a very volatile, very unpredictable situation
-- 10/14 19:33 [FirstSquawk] EU COMMISSION SPOKESPERSON: HEADING FOR VERY, VERY DIFFICULT WINTER WITH HIGH ENERGY PRICES, AFFORDABILITY CRISIS AND VERY VOLATILE, VERY UNPREDICTABLE SITUATION
-- 10/14 19:40 [financialjuice] French Hard-Left LFI: Budget would include €106.4 bln in revenue, €81.7 bln in spending, and €24.7 bln in deficit reduction
-- 10/14 19:45 [financialjuice] Adj EPS $0.91, est. $1.16 Rev, Net of Interest Expense $29.96B, est. $30.76B Net Interest Income $16.45B, est. $16.24B Net Interest Income FTE $16.61B
-- 10/14 19:46 [financialjuice/FirstSquawk] EU set to lift sanction on Chinese firm to save ASML supplier.
-- 10/14 19:46 [financialjuice] China and the EU weigh export control relief for Sindlhauser materials
-- 10/14 19:47 [DeItaone] $BAC - BANK OF AMERICA Q3: EPS & REVENUE MISS; TRADING BEATS, NII TOPS ESTIMATES Results 🔸 Adj. EPS: $1.08 vs. $1.16 est. (-6.9%) 🔸 GAAP EPS: $0.91; includes $1.2B settlement charge ($0.17/share) 🔸 Revenue: $29.96B vs. $30.76B est. (-2.6%) …
-- 10/14 19:48 [FirstSquawk] BofA Q3 26 Earnings: - FICC Trading Revenue Ex-DVA: $2.55B (est $2.86B) - Equities Trading Revenue Ex-DVA: $2.51B (est $2.63B) - Total Corporation Investment Banking Fees (Excl. Self-Led): $1.8B - Results Include Regulatory Settlement Charg…
-- 10/14 19:51 [financialjuice] Aramco instructed employees to work from home, but operations are continuing normally - Two sources
-- 10/14 19:58 [DeItaone] PUTIN’S ENVOY DMITRIEV: RUSSIA WILL CONTINUE ECONOMIC COOPERATION WITH UNITED STATES, NOT ONLY ON DIESEL
-- 10/14 19:59 [financialjuice] Putin's Envoy Dmitriev: Russia will continue economic cooperation with the United States, not only on diesel.
-- 10/14 20:00 [financialjuice] US MBA MORTGAGE APPLICATIONS ACTUAL -2.7% (FORECAST -, PREVIOUS -4.2%) $MACRO
-- 10/14 20:00 [financialjuice] US MBA 30-YR MORTGAGE RATE ACTUAL 7.50% (FORECAST -, PREVIOUS 7.49%) $MACRO
-- 10/14 20:01 [DeItaone] U.S. MORTGAGE RATES SURGE AS 30-YEAR FIXED HITS 7.50% The MBA reports the 30-year fixed mortgage rate at 7.50%, up 53 basis points over four weeks and 108 basis points over the past year. 15-year fixed rates climbed to 6.87%, while jumbo mo…
-- 10/14 20:04 [financialjuice] Dmitriev on sanctions against Russia and restrictions on diesel exports: Diesel will be supplied to the US, and we will overcome the difficulties
-- 10/14 20:14 [DeItaone] AI COSTS PLUNGE 13-FOLD ANNUALLY AS INVESTMENT NEARS $1 TRILLION AI costs have fallen 47% per quarter since 2023, equivalent to a 13-fold annual decline, according to Epoch AI. That's 6 times faster than computing costs and 18 times faster …
-- 10/14 20:17 [financialjuice] UK's PM Burnham: We will bring down the welfare bill
-- 10/14 20:19 [FirstSquawk] PBOC, BOJ, BOK: CENTRAL BANK CHIEFS OF CHINA, JAPAN AND SOUTH KOREA MEET IN BANGKOK
-- 10/14 20:19 [FirstSquawk] LUFTHANSA'S OFFER WINS PARTIAL PRIVATISATION OF PORTUGAL'S FLAG CARRIER TAP
-- 10/14 20:19 [DeItaone] IRAN ESCALATES HORMUZ ATTACKS TO KEEP OIL PRICES HIGH AHEAD OF U.S. MIDTERMS Iran is changing its tactics to intensify attacks on ships in the Strait of Hormuz, aiming to keep global oil prices elevated ahead of the November 3 U.S. election…
-- 10/14 20:22 [financialjuice] European businesses trail on AI adoption - OpenAI CFO
-- 10/14 20:26 [financialjuice] $MS Morgan Stanley Q3 2026 Earnings EPS $3.03, est. $3.01 Rev $20.34B, est. $19.89B Wealth Management Net Rev $9.07B, est. $9.11B Equities Sales & Trading Rev $5.80B, est. $4.90B FICC Sales & Trading Rev $2.01B, est. $2.22B
 - 10/14 20:27 [financialjuice] Germany's Foreign Minister Wadephul: The US is rightly pushing for talks between Russia and Ukraine
 - 10/14 20:28 [DeItaone] $MS MORGAN STANLEY Q3 EPS & REVENUE BEAT — EQUITIES TRADING SURGES Results 🔸 EPS: $3.03 vs. $3.01 est. (BEAT) 🔸 Revenue: $20.34B vs. $19.89B est. (BEAT) 🔸 Net Income: $4.90B Segment Performance 🔸 Equities Trading: $5.80B vs. $4.90B est. (+1…
 - 10/14 20:29 [DeItaone] U.S. MILITARY DEPLOYS NEW DRONE AND COMMUNICATION CAPABILITIES IN MIDDLE EAST U.S. Central Command says Task Force 99 is introducing advanced drone and communication capabilities to American forces in the Middle East. The initiative aims to…
@@ -399,3 +323,29 @@
 - 10/15 05:36 [FirstSquawk] UKRAINE’S ZELENSKY SAYS SECURITY GUARANTEES DIRECTLY FROM THE UNITED STATES ARE ‘A GOOD WAY, BUT WE NEED MORE DETAILS’, SAYING IT WOULD MEAN ‘IF PUTIN ATTACKS, TRUMP ATTACKS PUTIN’, AND THAT HAVING ON PAPER JUST ‘IF PUTIN ATTACKS UKRAINE, T…
 - 10/15 05:38 [financialjuice] US API CRUDE OIL STOCK CHANGE ACTUAL -11.12M (FORECAST 1.9M, PREVIOUS -2.09M) $MACRO
 - 10/15 05:39 [financialjuice] US API CUSHING STOCK CHANGE ACTUAL 1.823M (FORECAST -, PREVIOUS 0.866M) $MACRO
+- 10/15 05:40 [FirstSquawk] U.S. API CRUDE OIL STOCK CHANGE SHOWED A DRAW OF 11.12 MLN, AGAINST A FORECAST BUILD OF 1.9 MLN AND A PRIOR DRAW OF 2.09 MLN, WITH CUSHING STOCKS UP 1.823 MLN
+- 10/15 05:52 [financialjuice/FirstSquawk] Tasnim News: Arab sources reported that several explosions were heard in the Yemeni capital.
+- 10/15 06:09 [financialjuice/FirstSquawk] North Korea tests submarine-launched cruise missiles, KCNA reports
+- 10/15 06:18 [financialjuice/FirstSquawk] Chile state miner Codelco calls shareholders meeting for Nov. 5 to review production inconsistencies in 2024, 2025
+- 10/15 06:38 [financialjuice] Fed's Daly: CPI indicates gas prices boosting headline inflation, core inflation remains stubborn as anticipated
+- 10/15 06:38 [financialjuice] Fed's Daly: more rate hikes likely, timing still under consideration
+- 10/15 06:38 [financialjuice] Fed's Daly: no urgency, better to be thoughtful and deliberate
+- 10/15 06:38 [financialjuice] Fed's Daly: risks to above-target inflation remain high, steady labor market allows focus on price stability
+- 10/15 06:38 [financialjuice] Fed's Daly: uncertain if inflation will ease as shocks fade or worsen if shocks continue
+- 10/15 06:38 [financialjuice] Fed's Daly: reassuring that after markets' initial robust reaction to CPI data, trading is calmer
+- 10/15 06:38 [financialjuice] Fed's Daly: markets grasp Fed's response
+- 10/15 06:39 [financialjuice] Fed's Daly: Fed has responsibility to communicate clearly, be transparent, accountable
+- 10/15 07:07 [financialjuice/FirstSquawk] Anthropic revenue climbs to $16.8 billion in Q3: FT
+- 10/15 07:13 [financialjuice] Trump: I hope the Pope recovers
+- 10/15 07:14 [DeItaone] ANTHROPIC REVENUE JUMPS TO $16.8BN IN Q3 - FT
+- 10/15 07:19 [DeItaone] TRUMP: I HOPE THE POPE GETS WELL
+- 10/15 07:20 [FirstSquawk] US PRES TRUMP: JUST SPOKE TO TSMC CHAIRMAN
+- 10/15 07:21 [financialjuice] Coinbase: some users may currently be unable to access on web; coinbase mobile app unaffected
+- 10/15 07:21 [FirstSquawk] ANTHROPIC REVENUE JUMPS TO $16.8B IN THIRD QUARTER - FT
+- 10/15 07:22 [FirstSquawk] THE U.S. IS DEPLOYING SEVERAL HUNDRED TROOPS FROM THE 10TH MOUNTAIN DIVISION TO LATIN AMERICA AS THE PENTAGON EXPANDS ITS CAMPAIGN AGAINST DRUG CARTELS, WITH A 600-SOLDIER BATTALION HAVING BEGUN DEPLOYING TO PANAMA AND TROOPS ALSO EXPECTED …
+- 10/15 07:22 [FirstSquawk] THE PENTAGON HAS ALSO MOVED MQ-9 REAPER DRONES TO COLOMBIA AND ECUADOR, WHILE U.S. COMMANDERS ARE PLANNING TO EXPAND STRIKES FROM BOATS TO LAND TARGETS - NYT
+- 10/15 07:22 [FirstSquawk] US STOCK FUTURES SLIP: S&P 500 FUTURES -0.18%, NASDAQ FUTURES -0.47%
+- 10/15 07:55 [FirstSquawk] US EXPECTS RUSSIAN DIESEL TO START FLOWING BEFORE MIDTERMS - NYP
+- 10/15 08:05 [financialjuice] UK govt: UK to allocate £17m for repairs to Chernobyl nuclear plant hit by Russian drone strike last year
+- 10/15 08:11 [financialjuice] US considers unfreezing some Russian assets to revive Ukraine peace talks - FT
+- 10/15 08:13 [financialjuice] European officials reject US plan to unfreeze some Russian assets to revive Ukraine peace talks - FT

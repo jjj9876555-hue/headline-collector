@@ -7,58 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-15 05:41 JST／対象: 10/14 05:41 〜 10/15 05:41 JST（時刻はすべて日本時間）
+生成: 2026-10-15 08:27 JST／対象: 10/14 08:27 〜 10/15 08:27 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 96 | 10/14 18:23 | 10/15 05:24 | ⚠ 67分（04:16→05:24） |
-| FirstSquawk | 281 | 10/14 05:58 | 10/15 05:36 | ⚠ 74分（10:20→11:34） |
-| financialjuice | 282 | 10/14 05:42 | 10/15 05:39 | ⚠ 180分（14:12→17:12） |
+| DeItaone | 98 | 10/14 18:23 | 10/15 07:19 | ⚠ 109分（05:24→07:14） |
+| FirstSquawk | 273 | 10/14 08:39 | 10/15 07:55 | ⚠ 74分（10:20→11:34） |
+| financialjuice | 280 | 10/14 08:56 | 10/15 08:13 | ⚠ 180分（14:12→17:12） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 645 行（統合前 659 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 636 行（統合前 651 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/14 05:42 [financialjuice] US CENTCOM: Yesterday, US forces assisted Gulf partners in shipping more than 19 million barrels of crude oil through the strait.
-- 10/14 05:43 [financialjuice/FirstSquawk] US Justice Department says a Saudi national was arrested for installing a surreptitious audio recording device at a San Francisco Super Intelligence Company
-- 10/14 05:44 [financialjuice] Fed's Collins: Fed economic models are mindful of government debt levels.
-- 10/14 05:45 [financialjuice] Fed's Collins: Fed is not rethinking the 2% inflation target
-- 10/14 05:58 [FirstSquawk] OPENAI SCRAMBLES TO FIX SAFETY ISSUES BEFORE SHIPPING ITS NEXT FLAGSHIP MODEL - THE INFORMATION
-- 10/14 05:59 [FirstSquawk] UKRAINE’S PRESIDENT ZELENSKIY: RUSSIAN BALLISTIC MISSILE ATTACK ON KYIV. THE MAIN TARGET WAS ENERGY INFRASTRUCTURE, CHPP-4.
-- 10/14 06:00 [FirstSquawk] UKRAINE’S PRESIDENT ZELENSKIY: CHPP-4 WAS HIT
-- 10/14 06:00 [FirstSquawk] ARAMCO HEADQUARTERS IN DHAHRAN HIT DURING HOUTHI ATTACKS ON TUESDAY
-- 10/14 06:01 [FirstSquawk] ARAMCO'S HEADQUARTERS EVACUATED FOLLOWING MISSILE ATTACKS FROM YEMEN - IRANIAN MEDIA
-- 10/14 06:01 [financialjuice/FirstSquawk] Foreign ministers of Iran and Oman discuss Yemen situation in phone call - Telegram post
-- 10/14 06:02 [FirstSquawk] FED’S COLLINS SAYS THE FED IS NOT RETHINKING ITS 2% INFLATION TARGET AND THAT ITS ECONOMIC MODELS ARE MINDFUL OF GOVERNMENT DEBT LEVELS, ADDING THAT OFFICIALS ARE WELL AWARE HIGHER RATES CAN CREATE CHALLENGES AND THAT ECONOMIC UNCERTAINTY I…
-- 10/14 06:04 [FirstSquawk] ISRAEL’S N12 NEWS SAYS IRAN HAS CONDUCTED A SERIES OF BALLISTIC MISSILE FIRING TESTS IN RECENT DAYS, THOUGH ACCORDING TO THE ARMY THIS IS A SLOW AND ONLY PARTIAL RESTORATION OF THE MISSILE ARRAY AT THIS TIME.
-- 10/14 06:04 [FirstSquawk] ISRAEL’S N12 NEWS SAYS ISRAEL, THE UNITED STATES AND THE GULF STATES ARE COORDINATING AND PREPARING FOR A VARIETY OF SCENARIOS, BUT THAT ‘THERE IS NO INTELLIGENCE CHANGE THAT JUSTIFIES AN ISRAELI-AMERICAN MOVE IN THE COMING WEEKS’.
-- 10/14 06:05 [FirstSquawk] IRAN FORMIN ARAGCHI: HELD PHONE CALL WITH OMAN COUNTERPART ON REGIONAL ISSUES INCLUDING YEMEN - SOURCES
-- 10/14 06:07 [FirstSquawk] DIESEL FUTURES SURGED 4.5% TO A TWO-WEEK HIGH DESPITE TRUMP’S DEAL TO SUSPEND US SANCTIONS ON RUSSIAN DIESEL EXPORTS IN EXCHANGE FOR MOSCOW LIFTING ITS FUEL EXPORT BAN. LAWMAKERS FROM BOTH PARTIES QUESTIONED THE DEAL’S LEGALITY, WHILE TRADE…
-- 10/14 06:07 [FirstSquawk] US RETAIL DIESEL PRICES AVERAGED $6.28 PER GALLON ON TUESDAY, SLIGHTLY ABOVE FRIDAY’S LEVEL, DESPITE THE ANNOUNCEMENT. PRICES REMAIN BELOW SEPTEMBER’S RECORD $6.53 PER GALLON, HIGHLIGHTING THE LIMITED IMMEDIATE IMPACT OF TRUMP’S INITIATIVE …
-- 10/14 06:30 [FirstSquawk] HOUTHI OFFICAL ON X: SAUDI OIL AND VITAL INSTALLATIONS “WILL BE VISITED TONIGHT BY A GROUP FROM YEMEN”
-- 10/14 06:31 [FirstSquawk] RIO TINTO’S THIRD-QUARTER OPERATIONS REVIEW SHOWS COPPER PRODUCTION ON A CONSOLIDATED BASIS OF 205 KT, UNCHANGED YEAR-ON-YEAR, WITH PILBARA IRON ORE PRODUCTION (100% BASIS) OF 83.4 MT, DOWN 1%, AND PILBARA IRON ORE SALES OF 85.7 MT, UP 2%.
-- 10/14 06:33 [FirstSquawk] K IS SEEKING TO PRESSURE RUSSIA INTO JOINING TRUMP’S ENERGY CEASEFIRE, PLANNING FRESH RUSSIA SANCTIONS AND INCREASED SUPPORT FOR UKRAINE
-- 10/14 06:33 [FirstSquawk] UK IS SEEKING TO PRESSURE RUSSIA INTO JOINING TRUMP’S ENERGY CEASEFIRE, PLANNING FRESH RUSSIA SANCTIONS AND INCREASED SUPPORT FOR UKRAINE
-- 10/14 06:33 [financialjuice] Aramco facility in Saudi eastern city of Dhahran targeted on Tuesday
-- 10/14 06:34 [financialjuice/FirstSquawk] Attack on Saudi Aramco building causes limited fire, no casualties: state news agency citing energy ministry official
-- 10/14 06:45 [financialjuice] NEW ZEALAND VISITOR ARRIVALS ACTUAL 1530 (FORECAST -, PREVIOUS 3,010) $MACRO
-- 10/14 06:45 [financialjuice] NZ short-term visitors rise 8% in August compared with year earlier
-- 10/14 06:45 [financialjuice] New Zealand net migration surplus rises 1,530 in August
-- 10/14 06:45 [financialjuice] NEW ZEALAND EXTERNAL MIGRATION & VISITORS ACTUAL 8.0% (FORECAST -, PREVIOUS 8.5%) $MACRO
-- 10/14 06:49 [financialjuice] Saudi civil defense: four injured in Riyadh after debris from two intercepted missiles falls
-- 10/14 06:51 [financialjuice] Saudi civil defense: debris from intercepted Houthi missiles causes minor damage to 15 homes in Riyadh
-- 10/14 07:01 [financialjuice] State Department: Secretary of State Marco Rubio to visit Samarkand, Uzbekistan; Mumbai and Jamnagar, India from October 17-22
-- 10/14 07:04 [financialjuice] Google Play launches personalized app creation through AI studio for users 18+ in select markets
-- 10/14 07:08 [financialjuice] OpenAI in early discussions to buy security startup Trail of Bits: The Information
-- 10/14 07:14 [financialjuice] Saudi-led coalition: missile intercepted and destroyed in Al-Kharj
-- 10/14 07:32 [FirstSquawk] MICROSOFT CLOUD PRESIDENT ASKS LEADERS TO FIND 20% COST CUTS - THE INFORMATION
-- 10/14 08:12 [financialjuice] China’s PLA navy forms Liaoning aircraft carrier strike group for training exercises in western Pacific waters: CCTV
-- 10/14 08:13 [financialjuice] China's PLA navy: routine drill in annual plan targets boosting troops’ combat readiness
 - 10/14 08:39 [FirstSquawk] TENCENT HAS PRICED US$1.8 BLN AND CNY26 BLN OF NOTES UNDER ITS GLOBAL MEDIUM TERM NOTE PROGRAMME, WITH ESTIMATED NET PROCEEDS OF APPROXIMATELY US$1.79 BLN AND CNY25.89 BLN RESPECTIVELY.
 - 10/14 08:39 [FirstSquawk] TENCENT SAYS THE NOTES ARE EXPECTED TO BE ISSUED ON 21 OCTOBER 2026, WITH THE NET PROCEEDS TO BE USED FOR GENERAL CORPORATE PURPOSES.
 - 10/14 08:42 [FirstSquawk] CBA SAYS THAT LOOKING AHEAD, AUSTRALIAN GROWTH IS SLOWING AND INFLATION REMAINS TOO HIGH, ADDING THAT IT WILL TAKE TIME FOR HIGHER INTEREST RATES TO BRING INFLATION BACK INTO THE TARGET RANGE
@@ -669,3 +634,29 @@
 - 10/15 05:36 [FirstSquawk] UKRAINE’S ZELENSKY SAYS SECURITY GUARANTEES DIRECTLY FROM THE UNITED STATES ARE ‘A GOOD WAY, BUT WE NEED MORE DETAILS’, SAYING IT WOULD MEAN ‘IF PUTIN ATTACKS, TRUMP ATTACKS PUTIN’, AND THAT HAVING ON PAPER JUST ‘IF PUTIN ATTACKS UKRAINE, T…
 - 10/15 05:38 [financialjuice] US API CRUDE OIL STOCK CHANGE ACTUAL -11.12M (FORECAST 1.9M, PREVIOUS -2.09M) $MACRO
 - 10/15 05:39 [financialjuice] US API CUSHING STOCK CHANGE ACTUAL 1.823M (FORECAST -, PREVIOUS 0.866M) $MACRO
+- 10/15 05:40 [FirstSquawk] U.S. API CRUDE OIL STOCK CHANGE SHOWED A DRAW OF 11.12 MLN, AGAINST A FORECAST BUILD OF 1.9 MLN AND A PRIOR DRAW OF 2.09 MLN, WITH CUSHING STOCKS UP 1.823 MLN
+- 10/15 05:52 [financialjuice/FirstSquawk] Tasnim News: Arab sources reported that several explosions were heard in the Yemeni capital.
+- 10/15 06:09 [financialjuice/FirstSquawk] North Korea tests submarine-launched cruise missiles, KCNA reports
+- 10/15 06:18 [financialjuice/FirstSquawk] Chile state miner Codelco calls shareholders meeting for Nov. 5 to review production inconsistencies in 2024, 2025
+- 10/15 06:38 [financialjuice] Fed's Daly: CPI indicates gas prices boosting headline inflation, core inflation remains stubborn as anticipated
+- 10/15 06:38 [financialjuice] Fed's Daly: more rate hikes likely, timing still under consideration
+- 10/15 06:38 [financialjuice] Fed's Daly: no urgency, better to be thoughtful and deliberate
+- 10/15 06:38 [financialjuice] Fed's Daly: risks to above-target inflation remain high, steady labor market allows focus on price stability
+- 10/15 06:38 [financialjuice] Fed's Daly: uncertain if inflation will ease as shocks fade or worsen if shocks continue
+- 10/15 06:38 [financialjuice] Fed's Daly: reassuring that after markets' initial robust reaction to CPI data, trading is calmer
+- 10/15 06:38 [financialjuice] Fed's Daly: markets grasp Fed's response
+- 10/15 06:39 [financialjuice] Fed's Daly: Fed has responsibility to communicate clearly, be transparent, accountable
+- 10/15 07:07 [financialjuice/FirstSquawk] Anthropic revenue climbs to $16.8 billion in Q3: FT
+- 10/15 07:13 [financialjuice] Trump: I hope the Pope recovers
+- 10/15 07:14 [DeItaone] ANTHROPIC REVENUE JUMPS TO $16.8BN IN Q3 - FT
+- 10/15 07:19 [DeItaone] TRUMP: I HOPE THE POPE GETS WELL
+- 10/15 07:20 [FirstSquawk] US PRES TRUMP: JUST SPOKE TO TSMC CHAIRMAN
+- 10/15 07:21 [financialjuice] Coinbase: some users may currently be unable to access on web; coinbase mobile app unaffected
+- 10/15 07:21 [FirstSquawk] ANTHROPIC REVENUE JUMPS TO $16.8B IN THIRD QUARTER - FT
+- 10/15 07:22 [FirstSquawk] THE U.S. IS DEPLOYING SEVERAL HUNDRED TROOPS FROM THE 10TH MOUNTAIN DIVISION TO LATIN AMERICA AS THE PENTAGON EXPANDS ITS CAMPAIGN AGAINST DRUG CARTELS, WITH A 600-SOLDIER BATTALION HAVING BEGUN DEPLOYING TO PANAMA AND TROOPS ALSO EXPECTED …
+- 10/15 07:22 [FirstSquawk] THE PENTAGON HAS ALSO MOVED MQ-9 REAPER DRONES TO COLOMBIA AND ECUADOR, WHILE U.S. COMMANDERS ARE PLANNING TO EXPAND STRIKES FROM BOATS TO LAND TARGETS - NYT
+- 10/15 07:22 [FirstSquawk] US STOCK FUTURES SLIP: S&P 500 FUTURES -0.18%, NASDAQ FUTURES -0.47%
+- 10/15 07:55 [FirstSquawk] US EXPECTS RUSSIAN DIESEL TO START FLOWING BEFORE MIDTERMS - NYP
+- 10/15 08:05 [financialjuice] UK govt: UK to allocate £17m for repairs to Chernobyl nuclear plant hit by Russian drone strike last year
+- 10/15 08:11 [financialjuice] US considers unfreezing some Russian assets to revive Ukraine peace talks - FT
+- 10/15 08:13 [financialjuice] European officials reject US plan to unfreeze some Russian assets to revive Ukraine peace talks - FT
