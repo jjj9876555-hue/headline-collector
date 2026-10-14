@@ -7,163 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-14 21:11 JST／対象: 10/14 09:11 〜 10/14 21:11 JST（時刻はすべて日本時間）
+生成: 2026-10-15 02:09 JST／対象: 10/14 14:09 〜 10/15 02:09 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 24 | 10/14 18:23 | 10/14 21:07 | 24分（20:38→21:03） |
-| FirstSquawk | 172 | 10/14 09:12 | 10/14 21:09 | ⚠ 74分（10:20→11:34） |
-| financialjuice | 133 | 10/14 09:24 | 10/14 21:10 | ⚠ 180分（14:12→17:12） |
+| DeItaone | 69 | 10/14 18:23 | 10/15 01:42 | 37分（23:14→23:52） |
+| FirstSquawk | 141 | 10/14 14:13 | 10/15 01:43 | 30分（18:17→18:48） |
+| financialjuice | 133 | 10/14 14:10 | 10/15 01:41 | ⚠ 180分（14:12→17:12） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 326 行（統合前 329 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 335 行（統合前 343 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/14 09:12 [FirstSquawk] A US JUDGE ORDERED OPENAI TO FAST-TRACK DOCUMENT DISCLOSURE IN APPLE’S TRADE SECRETS LAWSUIT, CITING THE RISK OF EVIDENCE BEING DESTROYED. THREE FORMER APPLE EMPLOYEES MUST ALSO UNDERGO EARLY DEPOSITIONS.
-- 10/14 09:12 [FirstSquawk] OPENAI DENIED THE ALLEGATIONS, WHILE THE JUDGE REJECTED APPLE’S REQUEST FOR EARLY ACCESS TO SOME R&D RECORDS. THE RULING PRECEDES A HEARING ON OPENAI’S BID TO DISMISS THE CASE.
-- 10/14 09:13 [FirstSquawk] GOLD FELL 0.2% TO $4,162.71 AN OUNCE, RECOVERING FROM SESSION LOWS AS FED’S JOHN WILLIAMS SIGNALLED NO FURTHER RATE HIKES MAY BE NEEDED IN 2027. LOWER US TREASURY YIELDS AND A WEAKER DOLLAR SUPPORTED BULLION, WHILE SILVER ROSE 2% TO $59.25.
-- 10/14 09:13 [FirstSquawk] INVESTORS AWAIT US INFLATION DATA FOR FRESH RATE CLUES, WITH MARKETS PRICING IN AROUND 90% PROBABILITY OF A DECEMBER HIKE. SAFE-HAVEN DEMAND AND OIL-PRICE VOLATILITY CONTINUE TO INFLUENCE GOLD.
-- 10/14 09:18 [FirstSquawk] South Korean Stocks Rally as the KOSPI Gains More Than 2%
-- 10/14 09:21 [FirstSquawk] Asia-Pacific equities show a mixed performance as the region seeks to rebound from recent tech-led declines, with key economic releases from China, including inflation and trade data, in focus
-- 10/14 09:24 [financialjuice] China PBOC poised to fix yuan midpoint at 6.6922 per dollar: estimate
-- 10/14 09:24 [FirstSquawk] Trump Gives Remarks During Rally in Wasilla, Alaska - Fox News
-- 10/14 09:25 [FirstSquawk] 5-Year JGB Yield Advances to 2.345%, Up 0.5 Basis Points
-- 10/14 09:29 [FirstSquawk] 10-Year Japanese Government Bond Yield Climbs 1.5 Basis Points to 3.015%
-- 10/14 09:32 [FirstSquawk] BRENT CRUDE FUTURES RISE MORE THAN $1 TO $106.70/BBL
-- 10/14 09:54 [FirstSquawk] JGBs Weaken as Higher Oil Prices Weigh on the Market - WSJ
-- 10/14 09:54 [FirstSquawk] Japan’s Nikkei Climbs 0.3% on Potential Positioning Shifts Ahead of U.S. CPI Data : WSJ
-- 10/14 09:54 [FirstSquawk] Singapore’s Central Bank Unexpectedly Keeps Monetary Policy Unchanged - WSJ
-- 10/14 10:00 [FirstSquawk] South Korea’s Stock Market Opens Higher Despite U.S. Losses and Technology Sector Concerns
-- 10/14 10:00 [FirstSquawk] Taiwan Overnight Interbank Rate Starts the Session at 0.805%, Unchanged From the Previous Open
-- 10/14 10:03 [FirstSquawk] WTI Crude Futures Gain More Than $1, Reaching $95.22 per Barrel
-- 10/14 10:09 [FirstSquawk] Most Active Tin Contract in Shanghai Falls 3%
-- 10/14 10:15 [FirstSquawk] China’s Central Bank Fixes Yuan Midpoint at 6.7249 Against the Dollar
-- 10/14 10:17 [FirstSquawk] CRUDE GAINS AS MARKETS WEIGH POTENTIAL SAUDI SUPPLY DISRUPTIONS AND RUSSIAN DIESEL SHIPMENTS
-- 10/14 10:18 [financialjuice] China fixes yuan midpoint at strongest level since Feb. 2, 2023
-- 10/14 10:19 [FirstSquawk] China’s Yuan Midpoint Strengthens to Its Firmest Level Since February 2, 2023
-- 10/14 10:20 [FirstSquawk] Russian Governor Reports One Fatality After Drone Attack on Balakovo in Saratov Region
-- 10/14 10:22 [financialjuice] China central bank pumps 56 billion yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement
-- 10/14 11:21 [financialjuice] China customs vice minister: global uncertainties persist for full-year trade, including geopolitical conflicts
-- 10/14 11:21 [financialjuice] ECB President Lagarde: no second-round effects visible yet
-- 10/14 11:21 [financialjuice] China customs vice minister: China's foreign trade maintains basis and conditions for steady expansion ahead
-- 10/14 11:21 [financialjuice] China customs vice minister: China's foreign trade maintains strong growth momentum
-- 10/14 11:21 [financialjuice] China customs vice minister: China's trade growth still faces numerous challenges
-- 10/14 11:22 [financialjuice] ECB President Lagarde: in Europe there is anticipation of wage hikes through collective bargaining, we are monitoring those signals
-- 10/14 11:24 [financialjuice] ECB’s President Lagarde: primary and initial solution to French debt resides in French fiscal policy
-- 10/14 11:25 [financialjuice] ECB President Lagarde: Growth isn’t strong, but 1.1% expansion in 2026 isn’t bad
-- 10/14 11:28 [financialjuice] China customs vice minister: current exports outlook for Q4 remains unchanged
-- 10/14 11:30 [financialjuice] ECB’s president Lagarde: will not contest French presidency
-- 10/14 11:31 [financialjuice] China sept trade surplus $133.53 bln beats poll estimate of $118.1 bln
-- 10/14 11:31 [financialjuice] China’s September trade surplus at 905.97 billion yuan
-- 10/14 11:32 [financialjuice] China customs vice minister: China’s imports have climbed more than 20% monthly since March
-- 10/14 11:34 [FirstSquawk] China’s Trade Surplus With the United States Reaches $233.85 Billion in the First Nine Months, Customs Data Show
-- 10/14 11:36 [financialjuice] China Sept dollar-denominated exports jump 36.3% y/y, beats poll of 25.5%
-- 10/14 11:36 [financialjuice] China customs vice minister: stable economic operations, expanding advanced manufacturing and strong demand for key components drive growth
-- 10/14 11:37 [financialjuice] China customs vice minister: country’s integrated supply chains and technological innovation capabilities bolster global computing and power demand growth
-- 10/14 11:38 [FirstSquawk] China Says Its Integrated Supply Chains and Tech Innovation Provide Strong Support for Rising Global Computing and Electricity Demand
-- 10/14 11:40 [financialjuice] China Jan-Sep oil product imports 24 million tonnes vs 30.68 million tonnes year earlier: customs
-- 10/14 11:40 [financialjuice] China September natural gas imports 10.86 million tonnes vs 10.33 million tonnes in August: customs
-- 10/14 11:40 [financialjuice] China jan-sep rare earth shipments 43,711.2 tonnes vs 48,355.6 tonnes year earlier: Customs
-- 10/14 11:40 [financialjuice] China September unwrought aluminium and aluminium product exports rise to 656,000 tonnes from 626,000 tonnes in August: customs
-- 10/14 11:40 [financialjuice] China September copper concentrate imports 2.48 million tonnes, versus 2.51 million tonnes in August: customs
-- 10/14 11:40 [financialjuice] China Jan-Sep natural gas shipments 89.23 million tonnes vs 92.81 million tonnes yr earlier: customs
-- 10/14 11:40 [financialjuice] China september rare earth shipments 4,269.8 tonnes vs 4,735.1 tonnes in august: customs
-- 10/14 11:40 [FirstSquawk] IMF Says Colombia Must Urgently Start Fiscal Consolidation as Talks With Authorities Continue
-- 10/14 11:43 [FirstSquawk] Vietnam Aims to Strengthen Energy Partnerships With US Firms, Deputy Trade Minister Hoai Says
-- 10/14 11:44 [FirstSquawk] China’s Unwrought Aluminium and Aluminium Products Exports Rise to 5.32 Million Tonnes in January–September, Up From 4.517 Million Tonnes a Year Earlier; September Exports Reach 656,000 Tonnes
-- 10/14 11:45 [financialjuice] China September crude oil imports 37.10 million tonnes vs 37.93 million tonnes in August: customs
-- 10/14 11:45 [FirstSquawk] China Imports 21.97 Million Tonnes of Copper Concentrates in January–September, Down From 22.64 Million Tonnes Last Year; September Volumes Slip to 2.48 Million Tonnes From August’s 2.51 Million Tonnes
-- 10/14 11:45 [financialjuice] China september unwrought copper and copper products imports 461,000 tonnes, vs 382,000 tonnes in august: customs
-- 10/14 11:45 [financialjuice] China September oil product imports 1.85 million tonnes vs 2.25 million tonnes in August: customs
-- 10/14 11:45 [financialjuice] China jan-sep unwrought copper and copper products imports total 3.758 million tonnes, down from 4.018 million tonnes a year earlier - customs
-- 10/14 11:45 [FirstSquawk] China’s September Imports of Unwrought Copper and Copper Products Rise to 461,000 Tonnes From 382,000 Tonnes in August; January–September Imports Fall to 3.758 Million Tonnes From 4.018 Million Tonnes a Year Earlier
-- 10/14 11:45 [financialjuice] China jan-sep unwrought aluminium and aluminium products exports 5.32m tonnes vs 4.52m tonnes year earlier: customs
-- 10/14 11:45 [FirstSquawk] China’s Oil Product Exports Rise to 7.16 Million Tonnes in September From 6.01 Million Tonnes in August, While January–September Exports Fall to 41.40 Million Tonnes From 43 Million Tonnes a Year Earlier
-- 10/14 11:46 [FirstSquawk] China’s Natural Gas Imports Rise to 10.86 Million Tonnes in September From 10.33 Million Tonnes in August, While January–September Imports Fall to 89.23 Million Tonnes From 92.81 Million Tonnes a Year Earlier
-- 10/14 11:46 [FirstSquawk] China’s Crude Oil Imports Fall to 357.97 Million Tonnes in January–September From 422.61 Million Tonnes a Year Earlier; September Imports Slip to 37.10 Million Tonnes From 37.93 Million Tonnes in August
-- 10/14 11:46 [FirstSquawk] China’s Oil Product Imports Fall to 1.85 Million Tonnes in September From 2.25 Million Tonnes in August; January–September Imports Decline to 24 Million Tonnes From 30.68 Million Tonnes a Year Earlier
-- 10/14 11:56 [FirstSquawk] Xinhua: China–North Korea Bridge to Open Thursday, More Than a Decade After Completion
-- 10/14 11:59 [FirstSquawk] China Commerce Ministry Maintains 2027 Fertilizer Import Tariff Quotas at 13.65 Million Metric Tonnes
-- 10/14 12:02 [FirstSquawk] US Court Extends White House Access for CNN, MS NOW and Politico After Trump Moved to Exclude Them
-- 10/14 12:07 [FirstSquawk] Georgieva Says Advanced Economies Are the Biggest Offenders in Failing to Rebuild Buffers After the Pandemic
-- 10/14 12:08 [FirstSquawk] Georgieva Says Many Countries May Need to Adopt a Cautious but Hawkish Monetary Policy Stance
-- 10/14 12:12 [financialjuice] Russian air strike damages energy facilities in Ukraine's Kyiv, mayor says
-- 10/14 12:12 [FirstSquawk] Kyiv Energy Infrastructure Targeted in Russian Air Attack, Mayor Reports
-- 10/14 12:14 [FirstSquawk] Georgieva Warns That Widening Economic Divergence Poses the Biggest Risk to Developing Countries That Are Already Behind
-- 10/14 12:15 [FirstSquawk] IMF Chief Georgieva: Lower Debt Levels Have Not Prevented Debt Service Costs From Rising as Interest Rates Increase
-- 10/14 12:16 [FirstSquawk] Georgieva Says Falling Development Aid Reinforces the IMF’s Role in Providing Financing to Countries When Needed
-- 10/14 12:16 [FirstSquawk] Georgieva Says the IMF Is Pressing Members to Honour Pledges to Boost Funding for Poverty Reduction and Growth
-- 10/14 12:17 [FirstSquawk] IMF Chief Georgieva: Fund Seeks Member Support to Replenish Catastrophe Containment and Relief Trust Resources
-- 10/14 12:18 [FirstSquawk] China’s Export Engine Gathers Momentum as Growth Hits 36%, the Fastest Since February
-- 10/14 12:21 [FirstSquawk] IMF’s Georgieva Says Discussions on Senegal’s Debt Treatment Are Underway Between Debtor and Creditors, With Fund Support
-- 10/14 12:24 [FirstSquawk] IMF Chief Georgieva Identifies China and the US as the Main Sources of Global Imbalances, With Europe Also Contributing
-- 10/14 12:25 [FirstSquawk] IMF Chief Georgieva Says China Must Strengthen Domestic Consumption
-- 10/14 12:25 [FirstSquawk] IMF Chief Georgieva Says China Should Boost Spending, the US Increase Savings and Europe Step Up Investment
-- 10/14 12:30 [FirstSquawk] IMF Chief Georgieva: Financial Conditions Remain Relatively Supportive in the Current High-Yield Environment
-- 10/14 12:34 [financialjuice] ECB will likely raise interest rates again, Wunsch says
-- 10/14 12:36 [FirstSquawk] IMF Chief Georgieva Calls for Greater Assistance to Countries in the Caribbean
-- 10/14 12:37 [FirstSquawk] IMF Chief Georgieva Says Assistance to Small, Vulnerable Economies Should Increase Regardless of Per Capita Income
-- 10/14 12:41 [financialjuice] China finance ministry auctions 50-year ultra-long special treasury bonds at 2.2166% yield: traders
-- 10/14 12:42 [financialjuice] China finance ministry auctions one-year bonds at 1.16% yield: traders
-- 10/14 12:42 [financialjuice] China finance ministry issues 3-month bills at 1.133% yield: traders
-- 10/14 12:42 [financialjuice] China jan-sep oil product exports 41.40 mln tonnes compared with 43.00 mln tonnes year earlier - customs
-- 10/14 12:42 [FirstSquawk] IMF Chief Georgieva Notes an Upward Trend in Yields Across the Euro Area
-- 10/14 12:43 [FirstSquawk] IMF Chief Georgieva: Countries Can Still Secure Market Financing, but at Higher Costs
-- 10/14 12:43 [FirstSquawk] IMF Chief Georgieva: UK Actions to Curb Debt Have Created Better Growth Prospects
-- 10/14 12:43 [financialjuice] US Justice Department orders California to isolate ballots from suspected noncitizen voters, threatens lawsuit - letter
-- 10/14 12:48 [financialjuice] French central bank governor Moulin: inflation mainly driven by Middle East conflict, energy factors
-- 10/14 12:50 [FirstSquawk] IMF Chief Georgieva: US Authorities Recognize the Need to Address Elevated Deficits and Debt
-- 10/14 12:51 [FirstSquawk] IMF Chief Georgieva: US Strategy of Relying on Growth to Curb the Deficit Is Insufficient
-- 10/14 12:51 [FirstSquawk] IMF Chief Georgieva Calls for Further Fiscal Adjustments in the US
-- 10/14 12:51 [financialjuice] ECB's Moulin: inflation expectations among corporates and households in medium term remain well anchored
-- 10/14 12:53 [FirstSquawk] ECB’s Moulin: Businesses and Households Maintain Well-Anchored Medium-Term Inflation Expectations
-- 10/14 12:54 [financialjuice] ECB's Moulin: the rise in yields may affect demand and prompt a more moderate response to inflation shock
-- 10/14 13:02 [financialjuice] ECB's Moulin: France must urgently demonstrate commitment to fiscal consolidation and approve 2027 budget, reduce deficit
-- 10/14 13:03 [financialjuice] ECB's Moulin: Pension overhaul supports public finances
-- 10/14 13:03 [financialjuice] UK finance minister Healey to fund budget giveaways without extra borrowing: FT
-- 10/14 13:06 [financialjuice] Taiwan economy ministry: after almost 18 months of intense talks and thorough assessment, CPC achieves major progress with U.S. developer
-- 10/14 13:06 [financialjuice] Taiwan economy ministry: Alaska LNG project holds geographic edge with direct Pacific shipping routes to Taiwan
-- 10/14 13:07 [financialjuice] Taiwan economy ministry: project could start delivering extra natural gas to Taiwan by 2032 if on schedule
-- 10/14 13:07 [financialjuice] Taiwan economy ministry: CPC to keep coordinating with US counterparts on procurement, investment, and related issues
-- 10/14 13:07 [financialjuice] Taiwan economy ministry: specific investment terms, equity stakes, and arrangements to be set in later negotiations and contracts
-- 10/14 13:10 [financialjuice] Taiwan economy ministry: CPC to buy 6 million tonnes of Alaska LNG annually under current plan, also joining project development
-- 10/14 13:11 [FirstSquawk] Taiwan’s CPC to Purchase 6 Million Tonnes of Alaska LNG Per Year Under Current Plan, With Up to US$4.4 Billion in Estimated Investment, Ministry Says
-- 10/14 13:12 [FirstSquawk] Healey Set to Finance Budget Giveaways Without Resorting to Extra Borrowing, FT Says
-- 10/14 13:12 [FirstSquawk] France’s Le Pen Prepares to Take on the EU, According to the Financial Times
-- 10/14 13:13 [financialjuice] China association of automobile manufacturers: committed to backing advancements in China-EU trade and investment talks
-- 10/14 13:13 [FirstSquawk] China Association of Automobile Manufacturers Reaffirms Commitment to Advancing China-EU Trade and Investment Discussions
-- 10/14 13:14 [financialjuice] China association of automobile manufacturers: consensus aids in stabilizing industry expectations, maintaining stability and smooth operation of automotive sector and supply chains
-- 10/14 13:14 [FirstSquawk] China’s Auto Industry Association Says Consensus Helps Maintain Stability Across Both Sides’ Automotive Industries and Supply Chains
-- 10/14 13:14 [financialjuice] Asked about French budget, ECB's Moulin says ECB focuses on inflation, not fiscal matters in specific countries
-- 10/14 13:16 [FirstSquawk] ECB’s Moulin: Central Bank Focuses on Inflation and Does Not Get Involved in Individual Countries’ Fiscal Issues
-- 10/14 13:17 [financialjuice] All infrastructure facilities in Balakovo in Russia's Saratov region operate normally: governor
-- 10/14 13:18 [financialjuice] Ukraine's Kyiv faces power outages after Russian strikes: mayor
-- 10/14 13:18 [financialjuice] Trump: extensive oil, gas, and mineral exploration ready to start in our new and beautiful Greenland
-- 10/14 13:19 [FirstSquawk] Russian Strikes Trigger Power Outages Across Ukraine’s Kyiv, Mayor Reports
-- 10/14 13:19 [financialjuice] Trump: Any future US attack must pass over Greenland, where our defense will regularly shoot down drones
-- 10/14 13:19 [FirstSquawk] Trump Says Large-Scale Oil, Gas and Mineral Exploration Is Preparing to Launch in Greenland
-- 10/14 13:20 [FirstSquawk] Trump Says Greenland’s Defenses Would Routinely Neutralize Drones in the Event of a Future Attack on the US
-- 10/14 13:24 [financialjuice] Trump: oil, gas and mineral exploration set to start in Greenland
-- 10/14 13:25 [FirstSquawk] Trump Announces Upcoming Start of Oil, Gas and Mineral Exploration in Greenland
-- 10/14 13:32 [financialjuice] South Korea President Lee names National Tax Service chief Lim Kwang-hyun as new chief of staff: presidential office
-- 10/14 13:34 [FirstSquawk] NTT Explores Plans for Anthropic’s First Major Japanese Data Center, According to Kyodo News
-- 10/14 13:38 [FirstSquawk] Yonhap: Seoul and Washington to Resume High-Level Defense Discussions After US Midterm Elections
-- 10/14 13:41 [FirstSquawk] Berenberg Raises Greencore’s Price Target to 384p From 351p
-- 10/14 13:45 [financialjuice] Bofa ends negotiations to underwrite China’s moonshot AI IPO
-- 10/14 13:52 [FirstSquawk] SK Hynix Defers a Portion of HBM4 Back-End Process Equipment Orders Until Next Year, DealSite Says
-- 10/14 13:56 [financialjuice] Iran executes pro-opposition man accused of armed assaults during conflict: Mizan
-- 10/14 13:57 [FirstSquawk] Mizan Reports Iran’s Execution of Opposition Supporter Charged With Armed Attacks During the War
-- 10/14 14:03 [FirstSquawk] FINLAND (SEP) CPI MOM ACTUAL: 0.7% VS -0.2% PREVIOUS
-- 10/14 14:03 [FirstSquawk] FINLAND (SEP) CPI YOY ACTUAL: 2.5% VS 2.2% PREVIOUS
-- 10/14 14:03 [financialjuice] Russian defence ministry: massive attack targets communications and energy infrastructure in Ukraine
-- 10/14 14:07 [financialjuice] White House AI task force member says
-- 10/14 14:08 [financialjuice] Fitch assigns rating to tender option bond series
-- 10/14 14:08 [financialjuice] US allocates 30.6% of six-week bills
 - 10/14 14:10 [financialjuice] Fice UK natural gas November futures close
 - 10/14 14:11 [financialjuice] US six-week bills yield 3.945%
 - 10/14 14:11 [financialjuice] Italy to offer 12-month EU8 bin bills in October
@@ -343,10 +203,159 @@
 - 10/14 21:03 [DeItaone] U.S. HOME SELLERS OUTNUMBER BUYERS BY RECORD 63% Redfin reports 62.6% more home sellers than buyers in September, the widest gap since records began in 2013. Homebuyer demand hit a record low, with just 929,000 buyers versus 1.51 million se…
 - 10/14 21:04 [DeItaone] STARLINK LIMITATIONS WILL AFFECT UKRAINE'S ABILITY TO DOWN RUSSIAN DRONES, SOURCES SAY
 - 10/14 21:07 [DeItaone] Tasnim "Some Arab sources are reporting a new missile attack by Yemeni forces on Saudi Arabia."
-- 10/14 21:08 [financialjuice] ECB's Simkus: Recent data suggest more tightening may be needed
+- 10/14 21:08 [financialjuice/FirstSquawk] ECB's Simkus: Recent data suggest more tightening may be needed
 - 10/14 21:08 [financialjuice] ECB's Simkus: French yields rising due to economic developments.
 - 10/14 21:09 [financialjuice] ECB's Simkus: Don't see a role for ECB in France at present
 - 10/14 21:09 [financialjuice] ECB's Simkus: We don't see evident second-round effects yet.
 - 10/14 21:09 [financialjuice] ECB's Simkus: Not wrong to discuss minimum reserve requirement.
 - 10/14 21:09 [FirstSquawk] OMAN, RUSSIA AND CHINA MEDIATING CEASEFIRE TALKS WITH HOUTHIS, OFFICIAL SAYS - AP
 - 10/14 21:10 [financialjuice] Morning Juice – US Session Prep (14th October)
+- 10/14 21:22 [DeItaone] CONTAINER SHIP SINKS NEAR STRAIT OF HORMUZ AFTER BEING HIT BY PROJECTILE, MARITIME SECURITY SOURCES SAY DRY BULK SHIP REPORTED TO BE SINKING AFTER BEING HIT BY PROJECTILE CLOSE TO STRAIT OF HORMUZ IN SEPARATE INCIDENT, MARITIME SECURITY SOU…
+- 10/14 21:22 [financialjuice] Dry bulk ship reported to be sinking after being hit by projectile close to Strait of Hormuz in separate incident - Maritime Security Sources.
+- 10/14 21:25 [DeItaone] 🔸 U.S. September CPI Due 8:30 a.m. ET; Seen +0.6%; Core +0.2%
+- 10/14 21:26 [DeItaone] BANK OF AMERICA SHARES EXTEND LOSSES FURTHER, LAST DOWN 5.5% PREMARKET AFTER Q3 PROFIT MISS
+- 10/14 21:27 [financialjuice] German Chancellor Merz: EU commission will have new trade tool to react fast to developments.
+- 10/14 21:28 [DeItaone] BLOOMBERG EXPECTS U.S. INFLATION TO SURGE TO 3.7% Bloomberg Economics forecasts headline CPI rising 0.6% MoM, pushing annual inflation to 3.7%, up from 3.4%. Core CPI is expected to rise just 0.23% MoM, with annual core inflation edging up …
+- 10/14 21:30 [financialjuice] Saudi crown prince meets Iraq PM in kingdom - SPA
+- 10/14 21:30 [financialjuice] CANADIAN BUILDING PERMITS MOM ACTUAL 8.8% (FORECAST 3%, PREVIOUS -17.3%) $MACRO
+- 10/14 21:30 [DeItaone] U.S. INFLATION SURGES TO 3.7%, BEATING EXPECTATIONS September CPI rose 0.6% MoM, matching forecasts, while annual inflation hit 3.7% vs. 3.6% expected. Core CPI climbed 0.3% vs. 0.2% expected, with annual core inflation reaching 2.6% vs. 2.…
+- 10/14 21:30 [financialjuice] ❗ US CORE CPI YOY ACTUAL 2.6% (FORECAST 2.5%, PREVIOUS 2.4%) $MACRO
+- 10/14 21:30 [financialjuice] ❗ US CPI YOY ACTUAL 3.7% (FORECAST 3.6%, PREVIOUS 3.4%) $MACRO
+- 10/14 21:30 [FirstSquawk] US CPI (MOM) (SEP) ACTUAL: 0.6% VS 0.4% PREVIOUS; EST 0.6%
+- 10/14 21:30 [financialjuice] ‼ BREAKING: US CPI MOM ACTUAL 0.6% (FORECAST 0.6%, PREVIOUS 0.4%) $MACRO
+- 10/14 21:30 [financialjuice] ❗ US CORE CPI MOM ACTUAL 0.3% (FORECAST 0.2%, PREVIOUS 0.3%) $MACRO
+- 10/14 21:30 [FirstSquawk] US CORE CPI (MOM) (SEP) ACTUAL: 0.3% VS 0.3% PREVIOUS; EST 0.2%
+- 10/14 21:30 [FirstSquawk] US CPI (YOY) (SEP) ACTUAL: 3.7% VS 3.4% PREVIOUS; EST 3.6%
+- 10/14 21:30 [FirstSquawk] US CORE CPI (YOY) (SEP) ACTUAL: 2.6% VS 2.4% PREVIOUS; EST 2.5%
+- 10/14 21:31 [financialjuice] US CPI September Report
+- 10/14 21:31 [financialjuice] Canadian Building Permits August 2026 Report
+- 10/14 21:31 [financialjuice] ❗ US short-term interest-rate futures fall, traders add to bets on rate hikes after inflation data.
+- 10/14 21:31 [financialjuice] GlobalFoundries selected to operate two new semiconductor fabs.
+- 10/14 21:31 [financialjuice] US Commerce Department to gain roughly 4% GlobalFoundries stake; new GlobalFoundries factories to be jointly owned by US, Japan.
+- 10/14 21:32 [financialjuice] Traders add to bets on October Fed interest-rate hike
+- 10/14 21:33 [DeItaone] US Sept. Consumer Prices Rise 0.6% M/M; Est. +0.6% US Sept. Consumer Prices Rise 3.7% Y/Y; Est. +3.6% US Sept. Core CPI Rises 0.3% M/M; Est. +0.2% US Sept. Core CPI Rise 2.6% Y/Y; Est. +2.4%
+- 10/14 21:33 [FirstSquawk] GLOBALFOUNDRIES GETS $21B TO RUN CHIP PLANTS IN US-JAPAN DEAL
+- 10/14 21:34 [financialjuice] Traders add to bets on three more Fed rate hikes by the end of 2027
+- 10/14 21:34 [DeItaone] US INFLATION SURGES. FED HIKE ODDS JUMP. September CPI hit 3.7% annually, above the 3.6% forecast, while core inflation rose 0.3% versus 0.2% expected. Kalshi now prices a 33% chance of an October Fed hike, up from 21%, while hold odds have…
+- 10/14 21:36 [DeItaone/FirstSquawk] *TRADERS ADD TO BETS ON THREE MORE FED RATE HIKES BY END-2027
+- 10/14 21:36 [DeItaone] *BLOOMBERG DOLLAR SPOT INDEX JUMPS TO HIGHEST SINCE NOVEMBER
+- 10/14 21:36 [DeItaone] U.S. INFLATION RUNS HOTTER THAN HEADLINE NUMBERS SUGGEST Unrounded September CPI rose 0.649% MoM, beating the 0.58% forecast, while core CPI climbed 0.335% vs. 0.21% expected. Annual inflation reached 3.738%, with core CPI accelerating to 2…
+- 10/14 21:36 [FirstSquawk] US TREASURY 2-YEAR YIELD RISES 10 BASIS POINTS ON DAY TO 4.89%
+- 10/14 21:37 [DeItaone] *TREASURY 2-YEAR YIELD RISES 10 BASIS POINTS ON DAY TO 4.89%
+- 10/14 21:42 [financialjuice] Bank of America's CEO Moynihan: Consumers are spending and the economy is resilient
+- 10/14 21:42 [financialjuice] Supercore CPI YoY: 3.13% Previous: 3.02%
+- 10/14 21:42 [DeItaone/FirstSquawk] SPOT SILVER FALLS NEARLY 3% TO $57.58/OZ
+- 10/14 21:45 [financialjuice] US Supercore CPI MoM: 0.42%, Previous 0.51%
+- 10/14 21:45 [DeItaone] GASOLINE DRIVES MORE THAN HALF OF U.S. INFLATION SURGE Gasoline prices jumped 9.1% in September, while fuel oil, including diesel, surged 15.3%. Energy costs drove more than half of the monthly CPI increase, pushing annual inflation to 3.7%…
+- 10/14 21:47 [financialjuice] BofA anticipates three rate increases through June 2027.
+- 10/14 21:48 [DeItaone] TWO-YEAR U.S. TREASURY YIELDS HIT HIGHEST LEVEL SINCE SEPT 29, LAST UP 12.72 BASIS POINTS AT 4.92%
+- 10/14 21:52 [FirstSquawk] GOLD EXTENDS DECLINE TO 1.6% AFTER US INFLATION REPORT
+- 10/14 21:55 [financialjuice] Oracle NetSuite announces launch of AI-first quickstart - NYSE content update
+- 10/14 21:56 [FirstSquawk] US MARITIME COMMISSION PROPOSES FEE ON ALL SPANISH VESSELS
+- 10/14 22:00 [financialjuice] Effective fed funds rate 3.88% October 13th vs 3.88% October 9th
+- 10/14 22:01 [DeItaone] U.S. DOLLAR INDEX HITS NEW HIGH 18-MONTH HIGHS, LAST UP 0.57% AT 102.75
+- 10/14 22:01 [financialjuice] Honeywell launches forge cognition with Nvidia & Dell, partners with Nvidia and Dell on physical AI operations
+- 10/14 22:01 [FirstSquawk] HONEYWELL PARTNERS WITH NVIDIA, DELL ON PHYSICAL AI OPS
+- 10/14 22:02 [FirstSquawk] HONEYWELL LAUNCHES FORGE COGNITION AGENTIC AI PLATFORM
+- 10/14 22:03 [DeItaone] AI BOOM FUELS SHARPEST COMPUTER PRICE INFLATION IN TWO DECADES The massive AI infrastructure buildout is coinciding with a sharp rise in consumer technology prices, adding another source of pressure to U.S. inflation. According to September…
+- 10/14 22:03 [financialjuice] US exporters sell 470,000 tons of soybeans to China.
+- 10/14 22:03 [DeItaone] EURO HITS LOWEST AGAINST DOLLAR SINCE MID-MAY 2025, LAST DOWN 0.7% AT $1.112
+- 10/14 22:05 [financialjuice] ❗ Traders fully price in two Fed rate hikes by end of January.
+- 10/14 22:08 [FirstSquawk] NETFLIX TO CUT 6% OF STAFF: WSJ
+- 10/14 22:08 [FirstSquawk] NETFLIX TO CUT ~1,000 JOBS: WSJ
+- 10/14 22:09 [DeItaone] 📊 FED HIKE ODDS EXPLODE AFTER HOT CPI REPORT Kalshi traders now price a 55% chance of a 25-basis-point Fed hike in October, up from just 21% earlier. Rate-hike odds have overtaken hold odds for the first time in months https://t.co/qUEGIdb1…
+- 10/14 22:09 [DeItaone] *NETFLIX TO CUT 6% OF STAFF: WSJ *NETFLIX TO CUT ~1,000 JOBS: WSJ
+- 10/14 22:10 [financialjuice] Israel Fire Chief: Incident at Intel plant is under control.
+- 10/14 22:11 [financialjuice] News sources announced the occurrence of an explosion that led to a fire in an electronic instrument factory affiliated with Intel - Mehr News.
+- 10/14 22:12 [DeItaone] $NFLX - NETFLIX CUTS 1,000 JOBS AS SHARES FALL 40% Netflix is laying off 6% of its workforce, its biggest cuts since 2022, amid slowing growth and weaker customer engagement. Shares are down over 40% in the past year. The layoffs come one w…
+- 10/14 22:19 [DeItaone] U.S. INFLATION STAYS ABOVE FED TARGET FOR 66 STRAIGHT MONTHS September CPI rose 3.7% YoY, exceeding expectations and extending inflation's streak above the Fed's 2% target to 66 consecutive months — more than five years. According to Bespok…
+- 10/14 22:20 [financialjuice] WH Sr. Adviser Hassett: Top line inflation number was disappointing.
+- 10/14 22:21 [FirstSquawk] US HASSETT: T0P LINE INFLATION NUMBER WAS DISAPPOINTING
+- 10/14 22:23 [financialjuice] WH Sr. Adviser Hassett: The strength of the economy is visible.
+- 10/14 22:23 [financialjuice] WH Sr. Adviser Hassett: The economic strength is showing a bit in inflation data.
+- 10/14 22:24 [financialjuice] WH Sr. Adviser Hassett: We are seeing almost healthy spending.
+- 10/14 22:25 [FirstSquawk] HASSETT: ENERGY SHOCK IS REALLY THE HEADLINE STORY TODAY
+- 10/14 22:25 [financialjuice] WH Sr. Adviser Hassett: This month's core inflation was a blip.
+- 10/14 22:26 [DeItaone] WALL STREET SET TO RAISE CORE PCE INFLATION FORECASTS AFTER HOT CPI REPORT September's stronger-than-expected CPI data could push core PCE inflation estimates to at least 0.3% MoM, up from the previous 0.21% consensus. TD Securities has alr…
+- 10/14 22:26 [financialjuice] WH Sr. Adviser Hassett: We need more data before fed makes decision on rates.
+- 10/14 22:26 [financialjuice] US Social Security: 2027 cost-of-living increase is 3.6%.
+- 10/14 22:28 [financialjuice] A Yemeni military official to Aramco shareholders: Advise all shareholders of Aramco to hand over their shares to avoid heavy losses in the coming days - Tasnim.
+- 10/14 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -25.5 MLN NASDAQ 100: 0.8 MLN DOW 30: -3.3 MLN MAG 7: 2.1 MLN $MACRO
+- 10/14 22:32 [FirstSquawk] NASDAQ DOWN 171.22 POINTS, OR 0.63 PERCENT, AT 27,033.16 AFTER MARKET OPEN DOW JONES DOWN 85.11 POINTS, OR 0.16 PERCENT, AT 51,584.99 AFTER MARKET OPEN S&P 500 DOWN 36.27 POINTS, OR 0.46 PERCENT, AT 7,769.18 AFTER MARKET OPEN
+- 10/14 22:33 [financialjuice] IRNA: An explosion in Riyadh after a missile attack and the release of reports of damage to oil facilities
+- 10/14 22:38 [FirstSquawk] BENDING SPOONS SURGES 52% ON BERKSHIRE HATHAWAY INVESTMENT
+- 10/14 22:38 [FirstSquawk] BANK OF AMERICA FALLS 8.3% IN BIGGEST DROP SINCE APRIL 2025
+- 10/14 22:40 [financialjuice] Citigroup expects the US Fed to deliver a 25 bp rate hike in December 2026 vs. the prior forecast of no change this year $C
+- 10/14 22:40 [DeItaone] CITIGROUP EXPECTS US FED TO DELIVER A 25 BP RATE HIKE IN DECEMBER 2026 VS PRIOR FORECAST OF NO CHANGE THIS YEAR
+- 10/14 22:44 [financialjuice] ASML CEO: We do not see supplier Zeiss as a bottleneck in 2028, the main challenge with suppliers is to make sure they can meet a 30% increase annually
+- 10/14 22:44 [financialjuice] ASML CEO: We have confidence the supply chain can meet more than 30% growth in 2028
+- 10/14 22:45 [FirstSquawk] YEMENI MILITARY OFFICIAL TO ARAMCO SHAREHOLDERS: ADVISE ALL SHAREHOLDERS OF ARAMCO TO HAND OVER THEIR SHARES TO AVOID HEAVY LOSSES IN THE COMING DAYS - TASNIM.
+- 10/14 22:55 [DeItaone] S&P 500 BANKS INDEX HITS OVER FOUR-MONTH LOW, LAST DOWN 1.3%
+- 10/14 22:56 [FirstSquawk] FED MAY NOW HAVE TO HIKE TWICE OR INCREASE BY 50BP IN DECEMBER, TRADERS BET - CNBC
+- 10/14 22:58 [financialjuice/FirstSquawk] Zambia: China to start paying for some copper shipments in yuan.
+- 10/14 23:05 [financialjuice] ASML CEO: Chance of a major competitor emerging in China is low
+- 10/14 23:05 [FirstSquawk] NASDAQ 100 FALLS 1% TO DAY'S LOW
+- 10/14 23:07 [DeItaone] 🇺🇸 PRESIDENT TRUMP'S SCHEDULE — WEDNESDAY, OCTOBER 14, 2026 All times Eastern (ET) 🔸 11:00 AM — Executive Time, Las Vegas, Nevada 🔸 11:30 AM — Travel pool call time, Las Vegas 🔸 4:00 PM — Political rally in Bullhead City, Arizona 🔸 8:15 PM …
+- 10/14 23:11 [FirstSquawk] US TREASURY LIFTS SANCTIONS ON VENEZUELAN NATIONAL ASSEMBLY LEADER
+- 10/14 23:14 [DeItaone] SHARES OF AI INFRASTRUCTURE FIRMS CORWEAVE AND NEBIUS DROP; STEEPEST DECLINERS ON NASDAQ 100 INDEX $CRWV - COREWEAVE DOWN 14.9% $NBIS - NEBIUS FALLS 9.7%
+- 10/14 23:16 [financialjuice] Morgan Stanley CEO: We remain overweight on the AI opportunity set. $MS
+- 10/14 23:27 [financialjuice] Fear & Greed Index: 38/100 - Fear
+- 10/14 23:28 [financialjuice] Crypto Fear & Greed Index: 62/100 - Greed
+- 10/14 23:29 [FirstSquawk] BOFA CEO MOYNIHAN: 'NOT CONCERNED' WITH WHERE WE STAND WITH THE TRUMP ADMIN. - CNBC
+- 10/14 23:35 [FirstSquawk] ANTOFAGASTA MINERALS SAYS IT HAS MANAGED TO MAINTAIN PRODUCTION ACCORDING TO PLAN DESPITE STRIKE AT CENTINELA MINE
+- 10/14 23:46 [financialjuice] Argentina could tap China swap to cover 2027 financing needs.
+- 10/14 23:48 [FirstSquawk] NOVAK SAYS TWO RUSSIAN OIL REFINERIES ATTACKED TODAY: IFX
+- 10/14 23:48 [financialjuice] Russia’s Deputy PM Novak: Two Russian oil refineries attacked today - IFX.
+- 10/14 23:51 [financialjuice] Russia: Drones attacked Saratov and Ryazan refineries - TASS
+- 10/14 23:51 [financialjuice] The Ministry of Defense for Israel and the Pentagon signed a deal to purchase 12 Apache helicopters for the IDF - Israel Hayom
+- 10/14 23:52 [DeItaone] U.S. STOCKS EXTEND FALL, NASDAQ DOWN 1.00%
+- 10/15 00:03 [financialjuice] S. Korea imported no Iran crude oil for September and a year ago - prelim data from Korea Customs Service showed on Thursday.
+- 10/15 00:09 [financialjuice] Zelenskiy's Advisor: Russian reports about refineries strikes today are fake.
+- 10/15 00:11 [financialjuice] Citi adds December hike to Fed forecast, still sees 2027 cuts $C
+- 10/15 00:11 [DeItaone] $NVDA - NVIDIA AND CHIPAGENTS LAUNCH EVALUATION FOR AI-POWERED CHIP DESIGN - THE INFORMATION
+- 10/15 00:12 [DeItaone] $AAPL - OPENAI EMPLOYEE WHO LEFT FOR APPLE SENT OVER 100 FILES ABOUT UNRELASED OPENAI PRODUCT TO PERSONAL ACCOUNTS - OPENAI BRIEF IN APPLE VS OPENAI LAWSUIT
+- 10/15 00:13 [financialjuice] Nvidia and Chipagents launch evaluation for AI-powered chip design - The Information $NVDA
+- 10/15 00:13 [FirstSquawk] CITI ADDS DECEMBER HIKE TO FED FORECAST, STILL SEES 2027 CUTS
+- 10/15 00:13 [DeItaone] OPENAI EMPLOYEE WHO LEFT FOR APPLE GAVE SENIOR APPLE LEADERS PRESENTATION ABOUT UNRELEASED OPENAI PRODUCT - OPENAI BRIEF IN APPLE VS OPENAI LAWSUIT
+- 10/15 00:14 [FirstSquawk] NVIDIA AND CHIPAGENTS LAUNCH EVALUATION FOR AI-POWERED CHIP DESIGN – INFORMATION
+- 10/15 00:19 [DeItaone] FILES LEAKED INCLUDE DETAILED UNRELEASED DEVICE IMAGES, ENGINEERING DATA, SUPPLIER INFO - OPENAI BRIEF IN APPLE VS OPENAI LAWSUIT OPENAI SAYS APPLE HAS NOT ASSURED IT IS NOT IN POSSESSION OF & HAS NOT USED OPENAI CONFIDENTIAL DATA - OPENAI …
+- 10/15 00:20 [financialjuice] OpenAI: Apple has not assured it is not in possession of and has not used OpenAI confidential data - OpenAI brief in Apple vs OpenAI lawsuit $AAPL
+- 10/15 00:20 [financialjuice] OpenAI: Files leaked by employee also include manufacturing data about devices - OpenAI brief in Apple vs OpenAI lawsuit $AAPL
+- 10/15 00:21 [FirstSquawk] OPENAI EMPLOYEE THAT LEFT FOR APPLE SENT +100 FILES ABOUT UNRELEASED OPENAI PRODUCT TO PERSONAL ACCOUNTS - OPENAI BRIEF IN APPLE VS OPENAI LAWSUIT
+- 10/15 00:21 [financialjuice] Files leaked include detailed unreleased device images, engineering data, supplier info - OpenAI brief in Apple vs Openai lawsuit. $AAPL
+- 10/15 00:23 [FirstSquawk] SAUDI ARABIA HAS NO INTENTION OF BACKING DOWN AGAINST HOUTHIS - CNN
+- 10/15 00:26 [financialjuice] IRNA: The Deputy Minister of Foreign Affairs of Russia announced that the country has not yet received a proposal for mediation between Saudi Arabia and Yemen.
+- 10/15 00:34 [financialjuice] Apple: Has searched for the one file OpenAI identified but has not found it on any Apple system; has strict policies to ensure new employees don't use confidential information from prior employer $AAPL
+- 10/15 00:34 [FirstSquawk] RNC: PRES TRUMP TO CAMPAIGN IN NORTH CAROLINA OCT 20
+- 10/15 00:38 [FirstSquawk] APPLE CLAIMS IT HAS FOUND NO EVIDENCE TO SUPPORT OPENAI’S ALLEGATIONS
+- 10/15 00:47 [DeItaone] US FBI DIRECTOR PATEL HAS ARRIVED IN RUSSIA FOR A MEETING -MS NOW CITING SOURCES
+- 10/15 00:55 [DeItaone] ZELENSKIY: IT IS A PITY THAT WE HAVE SOME DIFFICULTIES WITH STARLINK
+- 10/15 00:58 [FirstSquawk] OPENAI COMPUTING CHIEF TO DEPART: WSJ
+- 10/15 00:59 [DeItaone] *OPENAI COMPUTE CHIEF TO LEAVE COMPANY AFTER ABOUT A YR, SOURCES SAY
+- 10/15 01:00 [financialjuice] Le Pen and Melenchon would reach French presidential runoff - poll
+- 10/15 01:01 [financialjuice] Le Pen would beat Philippe 53%-47% in the French runoff - Odoxa Poll
+- 10/15 01:01 [financialjuice] Le Pen would beat Melenchon 68%-32% in French runoff - Odoxa Poll
+- 10/15 01:02 [DeItaone/FirstSquawk] SPOT GOLD EXTENDS LOSSES, LAST DOWN NEARLY 2% AT $4,073.73/OZ
+- 10/15 01:03 [financialjuice] US Treasury Secretary Bessent: World Bank should allow financing of upstream gas and oil.
+- 10/15 01:12 [DeItaone] NVIDIA UNVEILS AI TOOLS TO TRANSFORM CHIP MANUFACTURING Nvidia ($NVDA ) is launching new CUDA-X AI tools to accelerate semiconductor design, manufacturing and factory automation. Major companies, including Synopsys, Cadence, Applied Materia…
+- 10/15 01:13 [FirstSquawk] S&P 500 EXTENDS DROP TO 1%, A SESSION LOW
+- 10/15 01:17 [DeItaone] ZELENSKIY, ASKED IF HE FEELS BETRAYED BY TRUMP'S DIESEL DEAL: YES, BUT IT IS COMPLICATED - PIERS MORGAN INTERVIEW
+- 10/15 01:17 [DeItaone] ZELENSKIY ON TRUMP: IF YOU'RE IN THE MIDDLE, YOU HAVE TO STAY IN THE MIDDLE
+- 10/15 01:23 [FirstSquawk] UKRAINE'S ZELENSKIY ON IF HE FEELS BETRAYED BY TRUMP'S RUSSIA-DIESEL DEAL: YES, BUT IT IS COMPLICATED - PIERS MORGAN INTERVIEW
+- 10/15 01:24 [DeItaone] DATA CENTER DEVELOPER OFFERS RESIDENTS $10,000 EACH TO EASE AI EXPANSION BACKLASH Digital Realty ($DLR ) is offering households in De Soto, Kansas, $1,000 annually for 10 years to ease opposition to its planned 1,400-acre data center. The p…
+- 10/15 01:25 [FirstSquawk] DRAFT EU SUMMIT CONCLUSIONS CALLS FOR SANCTIONS ON RUSSIAN EX-COMBATANTS AND DIESEL DEAL REGRET - KYIV INDEPENDENT
+- 10/15 01:30 [DeItaone] TRUMP: LUTNICK, HAS SECURED AN OFFTAKE COMMITMENT FROM TAIWAN OF BETWEEN 70 TO 80 BLN DOLLARS FOR ALASKA LNG
+- 10/15 01:30 [DeItaone] TRUMP: TAIWAN HAS ALSO AGREED TO INVEST 4.4 BLN DOLLARS IN EQUITY INTO PROJECT
+- 10/15 01:30 [FirstSquawk] TRUMP SAYS TAIWAN COMMITS $70B-$80B ALASKA LNG OFFTAKE
+- 10/15 01:30 [financialjuice] Trump: Taiwan commits $70b-$80b Alaska LNG offtake - Truth Social
+- 10/15 01:31 [financialjuice] Trump: Taiwan has also agreed to invest $4.4 bln in equity into project
+- 10/15 01:31 [DeItaone] TRUMP ANNOUNCES $130 BILLION IN ALASKA LNG DEALS Trump says South Korea will invest $50 billion in the Alaska LNG project, while Taiwan has committed to $70–80 billion in LNG purchases over 20 years. Taiwan will also invest $4.4 billion in …
+- 10/15 01:32 [FirstSquawk] DRY BULK SHIP SINKS NEAR STRAIT OF HORMUZ AFTER BEING HIT BY PROJECTILE ON SEPTEMBER 23, UN SHIPPING AGENCY DATA
+- 10/15 01:32 [FirstSquawk] DRY BULK SHIP IS SECOND COMMERCIAL VESSEL TO HAVE SUNK NEAR HORMUZ IN PAST 24 HOURS, SEPARATE DATA FROM MARITIME SECURITY SOURCES
+- 10/15 01:38 [DeItaone] *ZELENSKIY WARNS STARLINK SHUTDOWN COULD CAUSE HUMAN LOSSES *ZELENSKIY CALLS APPARENT STARLINK SHUTDOWN A BIG MISTAKE *ZELENSKIY URGES MUSK TO RESTORE STARLINK SERVICE *ZELENSKIY SAYS STARLINK ISSUE MAY BE TECHNICAL PROBLEM
+- 10/15 01:40 [financialjuice] Trump announces $21 bln GlobalFoundries semiconductor deal - Truth Social
+- 10/15 01:41 [financialjuice] Trump: Japan will provide capital for $21 bln investment as per their prior investment into the US.
+- 10/15 01:41 [FirstSquawk] TRUMP: JAPAN WILL PROVIDE CAPITAL FOR THE $21B INVESTMENT
+- 10/15 01:41 [DeItaone] $SPCX - SPACEXAI - ANNOUNCES GROK VOICE 3.0 WITH RECORD CUSTOMER SUPPORT RESOLUTION AND LOWER COST SPACEXAI - GROK VOICE 3.0 AVAILABLE IN VOICE AGENT API AT $0.08 PER MINUTE
+- 10/15 01:42 [DeItaone] TRUMP ANNOUNCES $21 BILLION SEMICONDUCTOR INVESTMENT BY GLOBALFOUNDRIES Trump says GlobalFoundries ($GFS ) will build two new semiconductor manufacturing facilities in Malta, New York, funded by $21 billion in Japanese capital. The project …
+- 10/15 01:43 [FirstSquawk] TRUMP: US TAXPAYER WILL RECEIVE SHARES IN GLOBALFOUNDRIES
