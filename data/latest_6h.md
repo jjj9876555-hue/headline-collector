@@ -7,141 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-14 10:24 JST／対象: 10/14 04:24 〜 10/14 10:24 JST（時刻はすべて日本時間）
+生成: 2026-10-14 15:23 JST／対象: 10/14 09:23 〜 10/14 15:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 5 | 10/14 04:30 | 10/14 04:59 | 18分（04:34→04:53） |
-| FirstSquawk | 75 | 10/14 04:38 | 10/14 10:20 | ⚠ 67分（07:32→08:39） |
-| financialjuice | 66 | 10/14 04:38 | 10/14 10:22 | ⚠ 58分（07:14→08:12） |
+| DeItaone | 0 | - | - | - |
+| FirstSquawk | 95 | 10/14 09:24 | 10/14 15:19 | ⚠ 74分（10:20→11:34） |
+| financialjuice | 83 | 10/14 09:24 | 10/14 14:12 | ⚠ 58分（10:22→11:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 136 行（統合前 148 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 178 行（統合前 178 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/14 04:30 [DeItaone] U.S. CORE INFLATION FORECAST ALIGNS WITH WALL STREET EXPECTATIONS The Cleveland Fed's inflation nowcast points to core CPI rising 0.20% month-over-month, nearly matching analysts' median forecast of 0.21%. Key figures: * Headline CPI: +0.53…
-- 10/14 04:34 [DeItaone] https://t.co/OBKW9UPMmM
-- 10/14 04:38 [financialjuice] Nvidia's CEO Huang met with French President Macron $NVDA
-- 10/14 04:38 [FirstSquawk] MERCURY NZ HAS ISSUED A QUARTERLY OPERATIONAL UPDATE, SAYING IT IS ON TRACK TO DELIVER ITS FY27 EBITDAF GUIDANCE, WITH Q1 GENERATION VOLUME OF 2,526 GWH, DOWN 26 GWH ON THE PRIOR COMPARABLE PERIOD.
-- 10/14 04:39 [FirstSquawk] MERCURY NZ SAYS FY27 STAY-IN-BUSINESS CAPEX IS EXPECTED AT AROUND NZ$150 MLN, WITH GROWTH CAPEX OF NZ$300 MLN-NZ$400 MLN.
-- 10/14 04:39 [financialjuice] Nvidia: Macron and Huang covered AI safety and our recently launched open agent safety platform. $NVDA
-- 10/14 04:43 [FirstSquawk] PHILLIPS 66 355,000-BPD REFINERY IN ROXANA, ILLINOIS, HAVING ISSUES WITH CATALYTIC CRACKER UNIT – RTRS CITES SOURCES
-- 10/14 04:45 [financialjuice/FirstSquawk] Israel's Prime Minister Netanyahu: There is almost no country in the Middle East or in the West that does not ask for help from Israel - Israel's Channel 14
-- 10/14 04:47 [financialjuice/FirstSquawk] Israel's Prime Minister Netanyahu and Trump talked about a possible new Iran action - Axios
-- 10/14 04:49 [FirstSquawk] Inside Trump, Netanyahu's Dilemma: Strike Iran Before Elections Or Wait - Axios https://t.co/9xhvXCj5vI Note This Was First Reported At 18:05PM BST Via N12
-- 10/14 04:49 [financialjuice] OpenAI: Sophisticated recording device hidden in our offices
-- 10/14 04:50 [financialjuice] OpenAI: A specific employee had planted a device a few days earlier
-- 10/14 04:50 [financialjuice] OpenAI: At this time, we have no indications of this individual inappropriately accessing or exfiltrating model weights, source code, or customer data
-- 10/14 04:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: 452.9 MLN NASDAQ 100: -132.4 MLN DOW 30: 115.2 MLN MAG 7: -222.6 MLN $MACRO
-- 10/14 04:53 [FirstSquawk] A SERIES OF EXPLOSIONS HAS BEEN HEARD IN KYIV, WITH NO ADVANCE WARNING OR ALERT GIVEN, REUTERS WITNESSES SAY
-- 10/14 04:53 [financialjuice] Series of explosions in Kyiv, no advance warning or alert given - Witness
-- 10/14 04:53 [DeItaone] SERIES OF EXPLOSIONS IN KYIV, NO ADVANCE WARNING OR ALERT GIVEN, REUTERS WITNESSES SAY
-- 10/14 04:54 [DeItaone] OPENAI DISCOVERS HIDDEN SPYING DEVICE INSIDE ITS OFFICE OpenAI says it discovered a sophisticated recording device secretly planted inside one of its offices. The company used its AI models to investigate the device and identified an employ…
-- 10/14 04:54 [FirstSquawk] OPENAI SAYS IT DISCOVERED A SOPHISTICATED RECORDING DEVICE HIDDEN INSIDE ONE OF ITS OFFICES, AND HAS REFERRED THE MATTER TO THE FBI, USING ITS MODELS TO UNDERSTAND THE DEVICE AND WHERE IT HAD COME FROM — IDENTIFYING THAT A SPECIFIC EMPLOYEE…
-- 10/14 04:54 [FirstSquawk] OPENAI SAYS THE EMPLOYEE WAS TERMINATED, ADDING THAT AT THIS TIME IT HAS NO INDICATIONS OF THE INDIVIDUAL INAPPROPRIATELY ACCESSING OR EXFILTRATING MODEL WEIGHTS, SOURCE CODE OR CUSTOMER DATA.
-- 10/14 04:57 [FirstSquawk] FLETCHER BUILDING SAYS ITS Q1 FY27 SALES VOLUMES WERE AHEAD OF THE PRIOR CORRESPONDING PERIOD FOR ITS CORE BUSINESSES, ADDING THAT THE FORWARD OUTLOOK REMAINS UNCERTAIN DUE TO INFLATION AND INTEREST-RATE UNCERTAINTY
-- 10/14 04:58 [financialjuice/FirstSquawk] An anonymous report of a bomb on a Delta plane that landed in Israel caused the passengers to disembark in panic - Israel's N12 News
-- 10/14 04:59 [DeItaone] Morgan Stanley Raises 4Q26 Brent Price Forecast to $105 a Barrel From $100 a Barrel Morgan Stanley Raises 1Q27 Brent Price Forecast to $100 a Barrel From $95 a Barrel
-- 10/14 04:59 [FirstSquawk] POPE LEO HAD THE LOWER LOBE OF HIS RIGHT LUNG REMOVED DURING SURGERY ON TUESDAY, THE VATICAN SAYS, WITH AN EXAMINATION OF THE LUNG SHOWING A DIAGNOSIS OF LUNG ADENOCARCINOMA, ACCORDING TO A VATICAN MEDICAL BULLETIN.
-- 10/14 04:59 [FirstSquawk] THE VATICAN BULLETIN SAYS THE OPERATION LASTED ABOUT 90 MINUTES AND THE PROCEDURE WAS SUCCESSFUL WITH NO COMPLICATIONS.
-- 10/14 05:00 [financialjuice] Fed's Collins: Elevated risk of high inflation is the Fed's main focus right now.
-- 10/14 05:01 [financialjuice] Fed's Collins: Future path of monetary policy in new year will depend on data.
-- 10/14 05:01 [financialjuice] Fed's Collins: expect inflation to stay above 2% due to high energy prices
-- 10/14 05:01 [financialjuice] Fed's Collins: Job market is broadly balanced
-- 10/14 05:01 [financialjuice] Fed's Collins: I supported the Fed raising rates at the September meeting.
-- 10/14 05:01 [financialjuice] Fed's Collins: The US economy has shown resilience in the face of shocks.
-- 10/14 05:01 [financialjuice] Fed's Collins: I expect more growth and job market stability.
-- 10/14 05:01 [financialjuice] Fed's Collins: A stable job market should support consumer spending.
-- 10/14 05:02 [financialjuice] Fed's Collins: Data-center build out is pressuring inflation readings.
-- 10/14 05:02 [financialjuice] RBNZ to start repurchase of April 2027 Government Bonds.
-- 10/14 05:03 [FirstSquawk] FED’S COLLINS SAYS SHE EXPECTS THE U.S. CENTRAL BANK TO RAISE INTEREST RATES ‘A BIT FURTHER’ BY THE END OF THE YEAR, HAVING SUPPORTED THE SEPTEMBER HIKE, AND SAYS TIGHTENING MONETARY POLICY WILL HELP RETURN INFLATION TO 2%, WITH AN ‘ELEVATE…
-- 10/14 05:03 [FirstSquawk] FED'S COLLINS SAYS SHE EXPECTS INFLATION TO STAY ABOVE 2% DUE TO HIGH ENERGY PRICES BUT TO GRADUALLY COOL TO TARGET, WITH THE DATA-CENTER BUILDOUT PRESSURING INFLATION READINGS, AND SAYS THE FUTURE PATH OF POLICY IN THE NEW YEAR WILL DEPEND…
-- 10/14 05:03 [financialjuice] BoE's Bailey: The longer the inflation hit goes on, the harder it gets
-- 10/14 05:03 [FirstSquawk] FED'S COLLINS SAYS THE JOB MARKET IS BROADLY BALANCED AND THE U.S. ECONOMY HAS SHOWN RESILIENCE IN THE FACE OF SHOCKS, ADDING THAT SHE EXPECTS MORE GROWTH AND JOB-MARKET STABILITY AND THAT A STABLE JOB MARKET SHOULD SUPPORT CONSUMER SPENDIN…
-- 10/14 05:03 [FirstSquawk] DOW JONES CLOSES 0.38% LOWER AT 51,654.31, DOWN 196.24 POINTS
-- 10/14 05:04 [FirstSquawk] S&P 500 CLOSES 0.02% LOWER AT 7,805.67, DOWN 1.57 POINTS
-- 10/14 05:04 [FirstSquawk] NASDAQ CLOSES 0.17% LOWER AT 27,199.68, DOWN 46.22 POINTS
-- 10/14 05:04 [financialjuice] Bank of America fined $1.2b over money laundering failures - FT $BAC
-- 10/14 05:04 [financialjuice] BoE Gov. Bailey: So far, second-round effects subdued in UK.
-- 10/14 05:04 [financialjuice] BoE Gov. Bailey: The longer the energy hit goes on, the harder it gets
-- 10/14 05:05 [financialjuice] BoE Gov. Bailey: There is far more leveraged finance now.
-- 10/14 05:06 [financialjuice] BoE Gov. Bailey: UK does have a budget profile of a declining deficit
-- 10/14 05:07 [FirstSquawk] BANK OF AMERICA FINED $1.2B OVER MONEY LAUNDERING FAILURES - FT
-- 10/14 05:10 [financialjuice] BoE Gov. Bailey: I support Warsh's views, forward guidance went too far
-- 10/14 05:10 [financialjuice] BoE Gov. Bailey: Forward guidance got us too far to unconditional messaging.
-- 10/14 05:12 [financialjuice] US Treasury Department: Bank of America settles with OFAC for $11.66m $BAC
-- 10/14 05:12 [FirstSquawk] U.S. TREASURY’S OFAC HAS ANNOUNCED A SETTLEMENT AGREEMENT WITH BANK OF AMERICA FOR $11.66 MLN, WITH THE BANK SETTLING POTENTIAL CIVIL LIABILITY FOR 475 APPARENT VIOLATIONS OF OFAC SANCTIONS PROGRAMS TARGETING RUSSIA, BELARUS, IRAN, BURMA, S…
-- 10/14 05:14 [financialjuice] Stocks Recover as Fed Commentary Eases Aggressive Rate-Hike Fears – US Market Wrap
-- 10/14 05:18 [FirstSquawk] AT&T IS TO SELL AT&T MEXICO TO GRUPO TELEVISA AND FINTECH HOLDINGS FOR $2 BLN IN CASH AT CLOSING, WITH THE DEAL EXPECTED TO CLOSE IN Q1 2027
-- 10/14 05:19 [FirstSquawk] US STOCKS RECOVERED FROM SESSION LOWS AS FED OFFICIALS SIGNALLED LIMITED NEED FOR FURTHER RATE HIKES, WITH THE S&P 500 FINISHING LITTLE CHANGED, SEMICONDUCTOR SHARES PARING LOSSES AND MICROSOFT HITTING A RECORD HIGH. NEW YORK FED PRESIDENT …
-- 10/14 05:19 [FirstSquawk] TREASURY YIELDS DECLINED AS INVESTORS AWAITED US INFLATION DATA, WITH HIGHER GASOLINE PRICES EXPECTED TO LIFT HEADLINE CPI. FED GOVERNOR CHRISTOPHER WALLER SAID ELEVATED LONG-TERM YIELDS ARE ALREADY WEIGHING ON HOUSING AND AUTO DEMAND, POTE…
-- 10/14 05:21 [financialjuice] Bank of America fined for anti-money laundering, sanctions violations involving Russia, Iran, other nations; non-tax-deductible charge to hit Q3 EPS by 17c. $BAC
-- 10/14 05:23 [financialjuice] Fed's Collins: Looking at the economy holistically when thinking about the future of rate policy
-- 10/14 05:24 [financialjuice] Fed's Collins: I am watching to see how broad inflation pressures are in the data.
-- 10/14 05:25 [financialjuice/FirstSquawk] Ukraine’s President Zelenskiy: Russian ballistic missile attack on Kyiv. The main target was energy infrastructure, CHPP-4.
-- 10/14 05:25 [financialjuice/FirstSquawk] Ukraine’s President Zelenskiy: CHPP-4 was hit
-- 10/14 05:26 [financialjuice] Fed's Collins: Economic uncertainty is elevated
-- 10/14 05:32 [financialjuice/FirstSquawk] Aramco headquarters in Dhahran hit during Houthi attacks on Tuesday
-- 10/14 05:35 [financialjuice] Fed's Collins: Officials are well aware that higher rates can create challenges
-- 10/14 05:38 [financialjuice] Iran has conducted a series of ballistic missile firing tests in recent days - Israel N12 News
-- 10/14 05:38 [financialjuice] According to the army, this is a slow and only partial restoration of the missile array at this time - Israel's N12 News
-- 10/14 05:39 [financialjuice] There is no intelligence change that justifies an Israeli-American move in the coming weeks - Israel's N12 News.
-- 10/14 05:39 [financialjuice] Israel, the United States, and the Gulf states are coordinating and preparing for a variety of scenarios - Israel's N12 News
-- 10/14 05:40 [financialjuice/FirstSquawk] Aramco's headquarters evacuated following missile attacks from Yemen - Iranian Media
-- 10/14 05:42 [financialjuice] US CENTCOM: Yesterday, US forces assisted Gulf partners in shipping more than 19 million barrels of crude oil through the strait.
-- 10/14 05:43 [financialjuice/FirstSquawk] US Justice Department says a Saudi national was arrested for installing a surreptitious audio recording device at a San Francisco Super Intelligence Company
-- 10/14 05:44 [financialjuice] Fed's Collins: Fed economic models are mindful of government debt levels.
-- 10/14 05:45 [financialjuice] Fed's Collins: Fed is not rethinking the 2% inflation target
-- 10/14 05:58 [FirstSquawk] OPENAI SCRAMBLES TO FIX SAFETY ISSUES BEFORE SHIPPING ITS NEXT FLAGSHIP MODEL - THE INFORMATION
-- 10/14 06:01 [financialjuice/FirstSquawk] Foreign ministers of Iran and Oman discuss Yemen situation in phone call - Telegram post
-- 10/14 06:02 [FirstSquawk] FED’S COLLINS SAYS THE FED IS NOT RETHINKING ITS 2% INFLATION TARGET AND THAT ITS ECONOMIC MODELS ARE MINDFUL OF GOVERNMENT DEBT LEVELS, ADDING THAT OFFICIALS ARE WELL AWARE HIGHER RATES CAN CREATE CHALLENGES AND THAT ECONOMIC UNCERTAINTY I…
-- 10/14 06:04 [FirstSquawk] ISRAEL’S N12 NEWS SAYS IRAN HAS CONDUCTED A SERIES OF BALLISTIC MISSILE FIRING TESTS IN RECENT DAYS, THOUGH ACCORDING TO THE ARMY THIS IS A SLOW AND ONLY PARTIAL RESTORATION OF THE MISSILE ARRAY AT THIS TIME.
-- 10/14 06:04 [FirstSquawk] ISRAEL’S N12 NEWS SAYS ISRAEL, THE UNITED STATES AND THE GULF STATES ARE COORDINATING AND PREPARING FOR A VARIETY OF SCENARIOS, BUT THAT ‘THERE IS NO INTELLIGENCE CHANGE THAT JUSTIFIES AN ISRAELI-AMERICAN MOVE IN THE COMING WEEKS’.
-- 10/14 06:05 [FirstSquawk] IRAN FORMIN ARAGCHI: HELD PHONE CALL WITH OMAN COUNTERPART ON REGIONAL ISSUES INCLUDING YEMEN - SOURCES
-- 10/14 06:07 [FirstSquawk] DIESEL FUTURES SURGED 4.5% TO A TWO-WEEK HIGH DESPITE TRUMP’S DEAL TO SUSPEND US SANCTIONS ON RUSSIAN DIESEL EXPORTS IN EXCHANGE FOR MOSCOW LIFTING ITS FUEL EXPORT BAN. LAWMAKERS FROM BOTH PARTIES QUESTIONED THE DEAL’S LEGALITY, WHILE TRADE…
-- 10/14 06:07 [FirstSquawk] US RETAIL DIESEL PRICES AVERAGED $6.28 PER GALLON ON TUESDAY, SLIGHTLY ABOVE FRIDAY’S LEVEL, DESPITE THE ANNOUNCEMENT. PRICES REMAIN BELOW SEPTEMBER’S RECORD $6.53 PER GALLON, HIGHLIGHTING THE LIMITED IMMEDIATE IMPACT OF TRUMP’S INITIATIVE …
-- 10/14 06:30 [FirstSquawk] HOUTHI OFFICAL ON X: SAUDI OIL AND VITAL INSTALLATIONS “WILL BE VISITED TONIGHT BY A GROUP FROM YEMEN”
-- 10/14 06:31 [FirstSquawk] RIO TINTO’S THIRD-QUARTER OPERATIONS REVIEW SHOWS COPPER PRODUCTION ON A CONSOLIDATED BASIS OF 205 KT, UNCHANGED YEAR-ON-YEAR, WITH PILBARA IRON ORE PRODUCTION (100% BASIS) OF 83.4 MT, DOWN 1%, AND PILBARA IRON ORE SALES OF 85.7 MT, UP 2%.
-- 10/14 06:33 [FirstSquawk] K IS SEEKING TO PRESSURE RUSSIA INTO JOINING TRUMP’S ENERGY CEASEFIRE, PLANNING FRESH RUSSIA SANCTIONS AND INCREASED SUPPORT FOR UKRAINE
-- 10/14 06:33 [FirstSquawk] UK IS SEEKING TO PRESSURE RUSSIA INTO JOINING TRUMP’S ENERGY CEASEFIRE, PLANNING FRESH RUSSIA SANCTIONS AND INCREASED SUPPORT FOR UKRAINE
-- 10/14 06:33 [financialjuice] Aramco facility in Saudi eastern city of Dhahran targeted on Tuesday
-- 10/14 06:34 [financialjuice/FirstSquawk] Attack on Saudi Aramco building causes limited fire, no casualties: state news agency citing energy ministry official
-- 10/14 06:45 [financialjuice] NEW ZEALAND VISITOR ARRIVALS ACTUAL 1530 (FORECAST -, PREVIOUS 3,010) $MACRO
-- 10/14 06:45 [financialjuice] NZ short-term visitors rise 8% in August compared with year earlier
-- 10/14 06:45 [financialjuice] New Zealand net migration surplus rises 1,530 in August
-- 10/14 06:45 [financialjuice] NEW ZEALAND EXTERNAL MIGRATION & VISITORS ACTUAL 8.0% (FORECAST -, PREVIOUS 8.5%) $MACRO
-- 10/14 06:49 [financialjuice] Saudi civil defense: four injured in Riyadh after debris from two intercepted missiles falls
-- 10/14 06:51 [financialjuice] Saudi civil defense: debris from intercepted Houthi missiles causes minor damage to 15 homes in Riyadh
-- 10/14 07:01 [financialjuice] State Department: Secretary of State Marco Rubio to visit Samarkand, Uzbekistan; Mumbai and Jamnagar, India from October 17-22
-- 10/14 07:04 [financialjuice] Google Play launches personalized app creation through AI studio for users 18+ in select markets
-- 10/14 07:08 [financialjuice] OpenAI in early discussions to buy security startup Trail of Bits: The Information
-- 10/14 07:14 [financialjuice] Saudi-led coalition: missile intercepted and destroyed in Al-Kharj
-- 10/14 07:32 [FirstSquawk] MICROSOFT CLOUD PRESIDENT ASKS LEADERS TO FIND 20% COST CUTS - THE INFORMATION
-- 10/14 08:12 [financialjuice] China’s PLA navy forms Liaoning aircraft carrier strike group for training exercises in western Pacific waters: CCTV
-- 10/14 08:13 [financialjuice] China's PLA navy: routine drill in annual plan targets boosting troops’ combat readiness
-- 10/14 08:39 [FirstSquawk] TENCENT HAS PRICED US$1.8 BLN AND CNY26 BLN OF NOTES UNDER ITS GLOBAL MEDIUM TERM NOTE PROGRAMME, WITH ESTIMATED NET PROCEEDS OF APPROXIMATELY US$1.79 BLN AND CNY25.89 BLN RESPECTIVELY.
-- 10/14 08:39 [FirstSquawk] TENCENT SAYS THE NOTES ARE EXPECTED TO BE ISSUED ON 21 OCTOBER 2026, WITH THE NET PROCEEDS TO BE USED FOR GENERAL CORPORATE PURPOSES.
-- 10/14 08:42 [FirstSquawk] CBA SAYS THAT LOOKING AHEAD, AUSTRALIAN GROWTH IS SLOWING AND INFLATION REMAINS TOO HIGH, ADDING THAT IT WILL TAKE TIME FOR HIGHER INTEREST RATES TO BRING INFLATION BACK INTO THE TARGET RANGE
-- 10/14 08:56 [financialjuice] Microsoft spokesperson: Azure leadership hasn’t instructed teams to create cost-reduction strategies
-- 10/14 08:57 [FirstSquawk] JAPAN’S SEPTEMBER MONEY STOCK M2 ROSE 2.0% YEAR-ON-YEAR, UNCHANGED FROM THE PRIOR MONTH, WITH M3 UP 1.2%, ALSO UNCHANGED
-- 10/14 09:04 [FirstSquawk] JPMORGAN CHASE IS SET TO RAISE $7 BILLION THROUGH A THREE-PART INVESTMENT-GRADE BOND SALE, WITH ITS LONGEST-TERM NOTES EXPECTED TO YIELD 0.9 PERCENTAGE POINT ABOVE US TREASURIES. BARCLAYS ESTIMATES THAT THE SIX LARGEST US BANKS WILL ISSUE A…
-- 10/14 09:04 [FirstSquawk] JPMORGAN HAS ALREADY RAISED $31 BILLION THROUGH FIVE BOND OFFERINGS IN 2026, EXCEEDING THE $26 BILLION ISSUED IN ALL OF 2025, AS BANKS BUILD CASH RESERVES TO MEET GROWING FINANCING DEMAND LINKED TO AI. THE BANK REPORTED AN UNEXPECTED DECLIN…
-- 10/14 09:05 [FirstSquawk] SINGAPORE’S MAS SAYS ITS CURRENT APPRECIATING POLICY BAND WILL ALLOW THE S$NEER TO CONTINUE TO STRENGTHEN AND LEAN AGAINST THE ANTICIPATED NEAR-TERM RISE IN IMPORTED INFLATION, ENSURING THE GRADUAL EASING OF INFLATIONARY PRESSURES IN 2027, …
-- 10/14 09:05 [FirstSquawk] SINGAPORE’S MAS SAYS CORE INFLATION SHOULD REMAIN SLIGHTLY ELEVATED IN THE IMMEDIATE QUARTERS AHEAD BEFORE EASING MORE DISCERNIBLY FROM MID-2027, WITH FIRMING IMPORTED COST PRESSURES KEEPING CORE AND CPI-ALL ITEMS INFLATION AT CURRENT SLIGH…
-- 10/14 09:05 [FirstSquawk] SINGAPORE’S MAS SAYS A SHARP AND SUSTAINED SURGE IN GLOBAL ENERGY OR FOOD PRICES COULD LIFT SINGAPORE’S IMPORT COSTS BY MORE THAN FORECAST, WHILE A HIGHER-THAN-EXPECTED INCREASE IN INTEREST RATES OR A SHARPER PULLBACK IN AI-RELATED INVESTME…
-- 10/14 09:08 [FirstSquawk] IRAN SHIFTING TACTICS TO STEP UP ATTACKS ON SHIPPING BEFORE US MIDTERMS – RTRS CITES IRANIAN OFFICIALS
-- 10/14 09:10 [FirstSquawk] Samsung Electronics Shares Rise 3% in Trading
-- 10/14 09:12 [FirstSquawk] A US JUDGE ORDERED OPENAI TO FAST-TRACK DOCUMENT DISCLOSURE IN APPLE’S TRADE SECRETS LAWSUIT, CITING THE RISK OF EVIDENCE BEING DESTROYED. THREE FORMER APPLE EMPLOYEES MUST ALSO UNDERGO EARLY DEPOSITIONS.
-- 10/14 09:12 [FirstSquawk] OPENAI DENIED THE ALLEGATIONS, WHILE THE JUDGE REJECTED APPLE’S REQUEST FOR EARLY ACCESS TO SOME R&D RECORDS. THE RULING PRECEDES A HEARING ON OPENAI’S BID TO DISMISS THE CASE.
-- 10/14 09:13 [FirstSquawk] GOLD FELL 0.2% TO $4,162.71 AN OUNCE, RECOVERING FROM SESSION LOWS AS FED’S JOHN WILLIAMS SIGNALLED NO FURTHER RATE HIKES MAY BE NEEDED IN 2027. LOWER US TREASURY YIELDS AND A WEAKER DOLLAR SUPPORTED BULLION, WHILE SILVER ROSE 2% TO $59.25.
-- 10/14 09:13 [FirstSquawk] INVESTORS AWAIT US INFLATION DATA FOR FRESH RATE CLUES, WITH MARKETS PRICING IN AROUND 90% PROBABILITY OF A DECEMBER HIKE. SAFE-HAVEN DEMAND AND OIL-PRICE VOLATILITY CONTINUE TO INFLUENCE GOLD.
-- 10/14 09:18 [FirstSquawk] South Korean Stocks Rally as the KOSPI Gains More Than 2%
-- 10/14 09:21 [FirstSquawk] Asia-Pacific equities show a mixed performance as the region seeks to rebound from recent tech-led declines, with key economic releases from China, including inflation and trade data, in focus
 - 10/14 09:24 [financialjuice] China PBOC poised to fix yuan midpoint at 6.6922 per dollar: estimate
 - 10/14 09:24 [FirstSquawk] Trump Gives Remarks During Rally in Wasilla, Alaska - Fox News
 - 10/14 09:25 [FirstSquawk] 5-Year JGB Yield Advances to 2.345%, Up 0.5 Basis Points
@@ -160,3 +42,163 @@
 - 10/14 10:19 [FirstSquawk] China’s Yuan Midpoint Strengthens to Its Firmest Level Since February 2, 2023
 - 10/14 10:20 [FirstSquawk] Russian Governor Reports One Fatality After Drone Attack on Balakovo in Saratov Region
 - 10/14 10:22 [financialjuice] China central bank pumps 56 billion yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement
+- 10/14 11:21 [financialjuice] China customs vice minister: global uncertainties persist for full-year trade, including geopolitical conflicts
+- 10/14 11:21 [financialjuice] ECB President Lagarde: no second-round effects visible yet
+- 10/14 11:21 [financialjuice] China customs vice minister: China's foreign trade maintains basis and conditions for steady expansion ahead
+- 10/14 11:21 [financialjuice] China customs vice minister: China's foreign trade maintains strong growth momentum
+- 10/14 11:21 [financialjuice] China customs vice minister: China's trade growth still faces numerous challenges
+- 10/14 11:22 [financialjuice] ECB President Lagarde: in Europe there is anticipation of wage hikes through collective bargaining, we are monitoring those signals
+- 10/14 11:24 [financialjuice] ECB’s President Lagarde: primary and initial solution to French debt resides in French fiscal policy
+- 10/14 11:25 [financialjuice] ECB President Lagarde: Growth isn’t strong, but 1.1% expansion in 2026 isn’t bad
+- 10/14 11:28 [financialjuice] China customs vice minister: current exports outlook for Q4 remains unchanged
+- 10/14 11:30 [financialjuice] ECB’s president Lagarde: will not contest French presidency
+- 10/14 11:31 [financialjuice] China sept trade surplus $133.53 bln beats poll estimate of $118.1 bln
+- 10/14 11:31 [financialjuice] China’s September trade surplus at 905.97 billion yuan
+- 10/14 11:32 [financialjuice] China customs vice minister: China’s imports have climbed more than 20% monthly since March
+- 10/14 11:34 [FirstSquawk] China’s Trade Surplus With the United States Reaches $233.85 Billion in the First Nine Months, Customs Data Show
+- 10/14 11:36 [financialjuice] China Sept dollar-denominated exports jump 36.3% y/y, beats poll of 25.5%
+- 10/14 11:36 [financialjuice] China customs vice minister: stable economic operations, expanding advanced manufacturing and strong demand for key components drive growth
+- 10/14 11:37 [financialjuice] China customs vice minister: country’s integrated supply chains and technological innovation capabilities bolster global computing and power demand growth
+- 10/14 11:38 [FirstSquawk] China Says Its Integrated Supply Chains and Tech Innovation Provide Strong Support for Rising Global Computing and Electricity Demand
+- 10/14 11:40 [financialjuice] China Jan-Sep oil product imports 24 million tonnes vs 30.68 million tonnes year earlier: customs
+- 10/14 11:40 [financialjuice] China September natural gas imports 10.86 million tonnes vs 10.33 million tonnes in August: customs
+- 10/14 11:40 [financialjuice] China jan-sep rare earth shipments 43,711.2 tonnes vs 48,355.6 tonnes year earlier: Customs
+- 10/14 11:40 [financialjuice] China September unwrought aluminium and aluminium product exports rise to 656,000 tonnes from 626,000 tonnes in August: customs
+- 10/14 11:40 [financialjuice] China September copper concentrate imports 2.48 million tonnes, versus 2.51 million tonnes in August: customs
+- 10/14 11:40 [financialjuice] China Jan-Sep natural gas shipments 89.23 million tonnes vs 92.81 million tonnes yr earlier: customs
+- 10/14 11:40 [financialjuice] China september rare earth shipments 4,269.8 tonnes vs 4,735.1 tonnes in august: customs
+- 10/14 11:40 [FirstSquawk] IMF Says Colombia Must Urgently Start Fiscal Consolidation as Talks With Authorities Continue
+- 10/14 11:43 [FirstSquawk] Vietnam Aims to Strengthen Energy Partnerships With US Firms, Deputy Trade Minister Hoai Says
+- 10/14 11:44 [FirstSquawk] China’s Unwrought Aluminium and Aluminium Products Exports Rise to 5.32 Million Tonnes in January–September, Up From 4.517 Million Tonnes a Year Earlier; September Exports Reach 656,000 Tonnes
+- 10/14 11:45 [financialjuice] China September crude oil imports 37.10 million tonnes vs 37.93 million tonnes in August: customs
+- 10/14 11:45 [FirstSquawk] China Imports 21.97 Million Tonnes of Copper Concentrates in January–September, Down From 22.64 Million Tonnes Last Year; September Volumes Slip to 2.48 Million Tonnes From August’s 2.51 Million Tonnes
+- 10/14 11:45 [financialjuice] China september unwrought copper and copper products imports 461,000 tonnes, vs 382,000 tonnes in august: customs
+- 10/14 11:45 [financialjuice] China September oil product imports 1.85 million tonnes vs 2.25 million tonnes in August: customs
+- 10/14 11:45 [financialjuice] China jan-sep unwrought copper and copper products imports total 3.758 million tonnes, down from 4.018 million tonnes a year earlier - customs
+- 10/14 11:45 [FirstSquawk] China’s September Imports of Unwrought Copper and Copper Products Rise to 461,000 Tonnes From 382,000 Tonnes in August; January–September Imports Fall to 3.758 Million Tonnes From 4.018 Million Tonnes a Year Earlier
+- 10/14 11:45 [financialjuice] China jan-sep unwrought aluminium and aluminium products exports 5.32m tonnes vs 4.52m tonnes year earlier: customs
+- 10/14 11:45 [FirstSquawk] China’s Oil Product Exports Rise to 7.16 Million Tonnes in September From 6.01 Million Tonnes in August, While January–September Exports Fall to 41.40 Million Tonnes From 43 Million Tonnes a Year Earlier
+- 10/14 11:46 [FirstSquawk] China’s Natural Gas Imports Rise to 10.86 Million Tonnes in September From 10.33 Million Tonnes in August, While January–September Imports Fall to 89.23 Million Tonnes From 92.81 Million Tonnes a Year Earlier
+- 10/14 11:46 [FirstSquawk] China’s Crude Oil Imports Fall to 357.97 Million Tonnes in January–September From 422.61 Million Tonnes a Year Earlier; September Imports Slip to 37.10 Million Tonnes From 37.93 Million Tonnes in August
+- 10/14 11:46 [FirstSquawk] China’s Oil Product Imports Fall to 1.85 Million Tonnes in September From 2.25 Million Tonnes in August; January–September Imports Decline to 24 Million Tonnes From 30.68 Million Tonnes a Year Earlier
+- 10/14 11:56 [FirstSquawk] Xinhua: China–North Korea Bridge to Open Thursday, More Than a Decade After Completion
+- 10/14 11:59 [FirstSquawk] China Commerce Ministry Maintains 2027 Fertilizer Import Tariff Quotas at 13.65 Million Metric Tonnes
+- 10/14 12:02 [FirstSquawk] US Court Extends White House Access for CNN, MS NOW and Politico After Trump Moved to Exclude Them
+- 10/14 12:07 [FirstSquawk] Georgieva Says Advanced Economies Are the Biggest Offenders in Failing to Rebuild Buffers After the Pandemic
+- 10/14 12:08 [FirstSquawk] Georgieva Says Many Countries May Need to Adopt a Cautious but Hawkish Monetary Policy Stance
+- 10/14 12:12 [financialjuice] Russian air strike damages energy facilities in Ukraine's Kyiv, mayor says
+- 10/14 12:12 [FirstSquawk] Kyiv Energy Infrastructure Targeted in Russian Air Attack, Mayor Reports
+- 10/14 12:14 [FirstSquawk] Georgieva Warns That Widening Economic Divergence Poses the Biggest Risk to Developing Countries That Are Already Behind
+- 10/14 12:15 [FirstSquawk] IMF Chief Georgieva: Lower Debt Levels Have Not Prevented Debt Service Costs From Rising as Interest Rates Increase
+- 10/14 12:16 [FirstSquawk] Georgieva Says Falling Development Aid Reinforces the IMF’s Role in Providing Financing to Countries When Needed
+- 10/14 12:16 [FirstSquawk] Georgieva Says the IMF Is Pressing Members to Honour Pledges to Boost Funding for Poverty Reduction and Growth
+- 10/14 12:17 [FirstSquawk] IMF Chief Georgieva: Fund Seeks Member Support to Replenish Catastrophe Containment and Relief Trust Resources
+- 10/14 12:18 [FirstSquawk] China’s Export Engine Gathers Momentum as Growth Hits 36%, the Fastest Since February
+- 10/14 12:21 [FirstSquawk] IMF’s Georgieva Says Discussions on Senegal’s Debt Treatment Are Underway Between Debtor and Creditors, With Fund Support
+- 10/14 12:24 [FirstSquawk] IMF Chief Georgieva Identifies China and the US as the Main Sources of Global Imbalances, With Europe Also Contributing
+- 10/14 12:25 [FirstSquawk] IMF Chief Georgieva Says China Must Strengthen Domestic Consumption
+- 10/14 12:25 [FirstSquawk] IMF Chief Georgieva Says China Should Boost Spending, the US Increase Savings and Europe Step Up Investment
+- 10/14 12:30 [FirstSquawk] IMF Chief Georgieva: Financial Conditions Remain Relatively Supportive in the Current High-Yield Environment
+- 10/14 12:34 [financialjuice] ECB will likely raise interest rates again, Wunsch says
+- 10/14 12:36 [FirstSquawk] IMF Chief Georgieva Calls for Greater Assistance to Countries in the Caribbean
+- 10/14 12:37 [FirstSquawk] IMF Chief Georgieva Says Assistance to Small, Vulnerable Economies Should Increase Regardless of Per Capita Income
+- 10/14 12:41 [financialjuice] China finance ministry auctions 50-year ultra-long special treasury bonds at 2.2166% yield: traders
+- 10/14 12:42 [financialjuice] China finance ministry auctions one-year bonds at 1.16% yield: traders
+- 10/14 12:42 [financialjuice] China finance ministry issues 3-month bills at 1.133% yield: traders
+- 10/14 12:42 [financialjuice] China jan-sep oil product exports 41.40 mln tonnes compared with 43.00 mln tonnes year earlier - customs
+- 10/14 12:42 [FirstSquawk] IMF Chief Georgieva Notes an Upward Trend in Yields Across the Euro Area
+- 10/14 12:43 [FirstSquawk] IMF Chief Georgieva: Countries Can Still Secure Market Financing, but at Higher Costs
+- 10/14 12:43 [FirstSquawk] IMF Chief Georgieva: UK Actions to Curb Debt Have Created Better Growth Prospects
+- 10/14 12:43 [financialjuice] US Justice Department orders California to isolate ballots from suspected noncitizen voters, threatens lawsuit - letter
+- 10/14 12:48 [financialjuice] French central bank governor Moulin: inflation mainly driven by Middle East conflict, energy factors
+- 10/14 12:50 [FirstSquawk] IMF Chief Georgieva: US Authorities Recognize the Need to Address Elevated Deficits and Debt
+- 10/14 12:51 [FirstSquawk] IMF Chief Georgieva: US Strategy of Relying on Growth to Curb the Deficit Is Insufficient
+- 10/14 12:51 [FirstSquawk] IMF Chief Georgieva Calls for Further Fiscal Adjustments in the US
+- 10/14 12:51 [financialjuice] ECB's Moulin: inflation expectations among corporates and households in medium term remain well anchored
+- 10/14 12:53 [FirstSquawk] ECB’s Moulin: Businesses and Households Maintain Well-Anchored Medium-Term Inflation Expectations
+- 10/14 12:54 [financialjuice] ECB's Moulin: the rise in yields may affect demand and prompt a more moderate response to inflation shock
+- 10/14 13:02 [financialjuice] ECB's Moulin: France must urgently demonstrate commitment to fiscal consolidation and approve 2027 budget, reduce deficit
+- 10/14 13:03 [financialjuice] ECB's Moulin: Pension overhaul supports public finances
+- 10/14 13:03 [financialjuice] UK finance minister Healey to fund budget giveaways without extra borrowing: FT
+- 10/14 13:06 [financialjuice] Taiwan economy ministry: after almost 18 months of intense talks and thorough assessment, CPC achieves major progress with U.S. developer
+- 10/14 13:06 [financialjuice] Taiwan economy ministry: Alaska LNG project holds geographic edge with direct Pacific shipping routes to Taiwan
+- 10/14 13:07 [financialjuice] Taiwan economy ministry: project could start delivering extra natural gas to Taiwan by 2032 if on schedule
+- 10/14 13:07 [financialjuice] Taiwan economy ministry: CPC to keep coordinating with US counterparts on procurement, investment, and related issues
+- 10/14 13:07 [financialjuice] Taiwan economy ministry: specific investment terms, equity stakes, and arrangements to be set in later negotiations and contracts
+- 10/14 13:10 [financialjuice] Taiwan economy ministry: CPC to buy 6 million tonnes of Alaska LNG annually under current plan, also joining project development
+- 10/14 13:11 [FirstSquawk] Taiwan’s CPC to Purchase 6 Million Tonnes of Alaska LNG Per Year Under Current Plan, With Up to US$4.4 Billion in Estimated Investment, Ministry Says
+- 10/14 13:12 [FirstSquawk] Healey Set to Finance Budget Giveaways Without Resorting to Extra Borrowing, FT Says
+- 10/14 13:12 [FirstSquawk] France’s Le Pen Prepares to Take on the EU, According to the Financial Times
+- 10/14 13:13 [financialjuice] China association of automobile manufacturers: committed to backing advancements in China-EU trade and investment talks
+- 10/14 13:13 [FirstSquawk] China Association of Automobile Manufacturers Reaffirms Commitment to Advancing China-EU Trade and Investment Discussions
+- 10/14 13:14 [financialjuice] China association of automobile manufacturers: consensus aids in stabilizing industry expectations, maintaining stability and smooth operation of automotive sector and supply chains
+- 10/14 13:14 [FirstSquawk] China’s Auto Industry Association Says Consensus Helps Maintain Stability Across Both Sides’ Automotive Industries and Supply Chains
+- 10/14 13:14 [financialjuice] Asked about French budget, ECB's Moulin says ECB focuses on inflation, not fiscal matters in specific countries
+- 10/14 13:16 [FirstSquawk] ECB’s Moulin: Central Bank Focuses on Inflation and Does Not Get Involved in Individual Countries’ Fiscal Issues
+- 10/14 13:17 [financialjuice] All infrastructure facilities in Balakovo in Russia's Saratov region operate normally: governor
+- 10/14 13:18 [financialjuice] Ukraine's Kyiv faces power outages after Russian strikes: mayor
+- 10/14 13:18 [financialjuice] Trump: extensive oil, gas, and mineral exploration ready to start in our new and beautiful Greenland
+- 10/14 13:19 [FirstSquawk] Russian Strikes Trigger Power Outages Across Ukraine’s Kyiv, Mayor Reports
+- 10/14 13:19 [financialjuice] Trump: Any future US attack must pass over Greenland, where our defense will regularly shoot down drones
+- 10/14 13:19 [FirstSquawk] Trump Says Large-Scale Oil, Gas and Mineral Exploration Is Preparing to Launch in Greenland
+- 10/14 13:20 [FirstSquawk] Trump Says Greenland’s Defenses Would Routinely Neutralize Drones in the Event of a Future Attack on the US
+- 10/14 13:24 [financialjuice] Trump: oil, gas and mineral exploration set to start in Greenland
+- 10/14 13:25 [FirstSquawk] Trump Announces Upcoming Start of Oil, Gas and Mineral Exploration in Greenland
+- 10/14 13:32 [financialjuice] South Korea President Lee names National Tax Service chief Lim Kwang-hyun as new chief of staff: presidential office
+- 10/14 13:34 [FirstSquawk] NTT Explores Plans for Anthropic’s First Major Japanese Data Center, According to Kyodo News
+- 10/14 13:38 [FirstSquawk] Yonhap: Seoul and Washington to Resume High-Level Defense Discussions After US Midterm Elections
+- 10/14 13:41 [FirstSquawk] Berenberg Raises Greencore’s Price Target to 384p From 351p
+- 10/14 13:45 [financialjuice] Bofa ends negotiations to underwrite China’s moonshot AI IPO
+- 10/14 13:52 [FirstSquawk] SK Hynix Defers a Portion of HBM4 Back-End Process Equipment Orders Until Next Year, DealSite Says
+- 10/14 13:56 [financialjuice] Iran executes pro-opposition man accused of armed assaults during conflict: Mizan
+- 10/14 13:57 [FirstSquawk] Mizan Reports Iran’s Execution of Opposition Supporter Charged With Armed Attacks During the War
+- 10/14 14:03 [FirstSquawk] FINLAND (SEP) CPI MOM ACTUAL: 0.7% VS -0.2% PREVIOUS
+- 10/14 14:03 [FirstSquawk] FINLAND (SEP) CPI YOY ACTUAL: 2.5% VS 2.2% PREVIOUS
+- 10/14 14:03 [financialjuice] Russian defence ministry: massive attack targets communications and energy infrastructure in Ukraine
+- 10/14 14:07 [financialjuice] White House AI task force member says
+- 10/14 14:08 [financialjuice] Fitch assigns rating to tender option bond series
+- 10/14 14:08 [financialjuice] US allocates 30.6% of six-week bills
+- 10/14 14:10 [financialjuice] Fice UK natural gas November futures close
+- 10/14 14:11 [financialjuice] US six-week bills yield 3.945%
+- 10/14 14:11 [financialjuice] Italy to offer 12-month EU8 bin bills in October
+- 10/14 14:11 [financialjuice] Amazon deal takes place of the television
+- 10/14 14:11 [financialjuice] Xchange Tec Inc: investment to supporter
+- 10/14 14:11 [financialjuice] Mufg appoints former UBS trader Roy as g
+- 10/14 14:11 [financialjuice] China, EU trade officials hold preparatory talks
+- 10/14 14:11 [financialjuice] US six-week bills yield 3.945%; allotment made
+- 10/14 14:11 [financialjuice] Constellation agreement to generate about 7,200 jobs
+- 10/14 14:11 [financialjuice] Kodiak al poised for year-end driver
+- 10/14 14:11 [financialjuice] Acbio and Tychobio partner to transform...
+- 10/14 14:11 [financialjuice] Amazon: Prime Video and television
+- 10/14 14:11 [financialjuice] Italy to sell 8 billion euros of 12-month bills
+- 10/14 14:11 [financialjuice] Google and Constellation finalize deal for 8...
+- 10/14 14:11 [financialjuice] US grants 40% of six-week BLS to DI
+- 10/14 14:12 [financialjuice] Donald J. Trump: my rallies are seven
+- 10/14 14:12 [financialjuice] Donald J. Trump: my rally audiences and...
+- 10/14 14:12 [financialjuice] XAMD CEO: memory supply remains stable
+- 10/14 14:13 [FirstSquawk] SCMP: Chinese Team Identifies 11,700 Previously Unknown Viruses in the World’s Biggest Seabed Metal Deposit
+- 10/14 14:25 [FirstSquawk] AI Boom Drives ASML to Raise Guidance for the Third Time, According to the Wall Street Journal
+- 10/14 14:25 [FirstSquawk] Australia’s Benchmark S&P/ASX 200 Falls 0.6% to Close at 8,727.90
+- 10/14 14:32 [FirstSquawk] Citi Cuts Barclays’ Price Target to 487p From 500p
+- 10/14 14:41 [FirstSquawk] KOSPI Reverses Course Into Negative Territory After Rising as Much as 2.6% Earlier
+- 10/14 14:47 [FirstSquawk] Ukrainian State Railways Hit by Large-Scale Russian Attack Overnight, CEO Reports
+- 10/14 14:52 [FirstSquawk] BYD Says China-EU Auto Trade Consensus Could Establish a More Predictable Environment for Electric Vehicle Collaboration
+- 10/14 14:52 [FirstSquawk] China-EU Automotive Trade Agreement May Help Curb Escalating Trade Tensions, BYD Says
+- 10/14 15:02 [FirstSquawk] SWEDEN (SEP) CPI MOM ACTUAL: 0.9% VS 0.9% PREVIOUS; EST. 0.9%
+- 10/14 15:02 [FirstSquawk] SWEDEN (SEP) CPI YOY ACTUAL: 1.1% VS 1.1% PREVIOUS; EST. 1.1%
+- 10/14 15:02 [FirstSquawk] SWEDEN (SEP) CPIF MOM ACTUAL: 0.9% VS 0.9% PREVIOUS; EST. 0.9%
+- 10/14 15:02 [FirstSquawk] SWEDEN (SEP) CPIF YOY ACTUAL: 1.5% VS 1.5% PREVIOUS; EST. 1.5%
+- 10/14 15:02 [FirstSquawk] SWEDEN (SEP) CPIF EXCL. ENERGY MOM ACTUAL: 0.1% VS 0.1% PREVIOUS; EST. 0.1%
+- 10/14 15:02 [FirstSquawk] SWEDEN (SEP) CPIF EXCL. ENERGY YOY ACTUAL: 0.5% VS 0.5% PREVIOUS; EST. 0.5%
+- 10/14 15:03 [FirstSquawk] SWEDEN (SEP) CPI LEVEL ACTUAL: 125.94 VS 124.85 PREVIOUS; EST. 125.94
+- 10/14 15:03 [FirstSquawk] SWEDEN (SEP) HOUSEHOLD CONSUMPTION YOY ACTUAL: 3.5% VS 4.0% PREVIOUS
+- 10/14 15:03 [FirstSquawk] SWEDEN (SEP) HOUSEHOLD CONSUMPTION MOM ACTUAL: 1.1% VS 0.7% PREVIOUS
+- 10/14 15:03 [FirstSquawk] GERMANY (SEP) WHOLESALE PRICE INDEX MOM ACTUAL: 1.9% VS 0.9% PREVIOUS
+- 10/14 15:03 [FirstSquawk] GERMANY (SEP) WHOLESALE PRICE INDEX YOY ACTUAL: 8.7% VS 6.8% PREVIOUS
+- 10/14 15:08 [FirstSquawk] BoE Chief Economist Pill Says Markets May Be Overestimating the Prospect of Four Rate Hikes Over the Next 12 Months
+- 10/14 15:09 [FirstSquawk] South Korea’s Financial Watchdog Identifies Hacking Incidents Across 16 Financial Companies
+- 10/14 15:10 [FirstSquawk] SpaceX Imposes Speed Restrictions on Starlink Terminals Used by Ukraine’s Military, Zelenskiy Adviser Says
+- 10/14 15:12 [FirstSquawk] South Korea to Conduct Inspections of Cybersecurity Systems at Financial Institutions, Regulator Says
+- 10/14 15:14 [FirstSquawk] South Korean Regulator to Prepare Framework for Identifying Cyberattacks Early and Coordinating Responses
+- 10/14 15:16 [FirstSquawk] Ukrainian Air Force: Four Out of 39 Russian Missiles Launched Overnight Were Intercepted
+- 10/14 15:19 [FirstSquawk] Equinor Says Grimsnes Could Reach Investment Decision by Next Summer, With Production Starting Within Three Years
