@@ -7,106 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-15 02:09 JST／対象: 10/14 14:09 〜 10/15 02:09 JST（時刻はすべて日本時間）
+生成: 2026-10-15 05:41 JST／対象: 10/14 17:41 〜 10/15 05:41 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 69 | 10/14 18:23 | 10/15 01:42 | 37分（23:14→23:52） |
-| FirstSquawk | 141 | 10/14 14:13 | 10/15 01:43 | 30分（18:17→18:48） |
-| financialjuice | 133 | 10/14 14:10 | 10/15 01:41 | ⚠ 180分（14:12→17:12） |
+| DeItaone | 96 | 10/14 18:23 | 10/15 05:24 | ⚠ 67分（04:16→05:24） |
+| FirstSquawk | 117 | 10/14 17:46 | 10/15 05:36 | ⚠ 69分（01:43→02:53） |
+| financialjuice | 171 | 10/14 17:41 | 10/15 05:39 | 44分（01:41→02:25） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 335 行（統合前 343 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 375 行（統合前 384 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/14 14:10 [financialjuice] Fice UK natural gas November futures close
-- 10/14 14:11 [financialjuice] US six-week bills yield 3.945%
-- 10/14 14:11 [financialjuice] Italy to offer 12-month EU8 bin bills in October
-- 10/14 14:11 [financialjuice] Amazon deal takes place of the television
-- 10/14 14:11 [financialjuice] Xchange Tec Inc: investment to supporter
-- 10/14 14:11 [financialjuice] Mufg appoints former UBS trader Roy as g
-- 10/14 14:11 [financialjuice] China, EU trade officials hold preparatory talks
-- 10/14 14:11 [financialjuice] US six-week bills yield 3.945%; allotment made
-- 10/14 14:11 [financialjuice] Constellation agreement to generate about 7,200 jobs
-- 10/14 14:11 [financialjuice] Kodiak al poised for year-end driver
-- 10/14 14:11 [financialjuice] Acbio and Tychobio partner to transform...
-- 10/14 14:11 [financialjuice] Amazon: Prime Video and television
-- 10/14 14:11 [financialjuice] Italy to sell 8 billion euros of 12-month bills
-- 10/14 14:11 [financialjuice] Google and Constellation finalize deal for 8...
-- 10/14 14:11 [financialjuice] US grants 40% of six-week BLS to DI
-- 10/14 14:12 [financialjuice] Donald J. Trump: my rallies are seven
-- 10/14 14:12 [financialjuice] Donald J. Trump: my rally audiences and...
-- 10/14 14:12 [financialjuice] XAMD CEO: memory supply remains stable
-- 10/14 14:13 [FirstSquawk] SCMP: Chinese Team Identifies 11,700 Previously Unknown Viruses in the World’s Biggest Seabed Metal Deposit
-- 10/14 14:25 [FirstSquawk] AI Boom Drives ASML to Raise Guidance for the Third Time, According to the Wall Street Journal
-- 10/14 14:25 [FirstSquawk] Australia’s Benchmark S&P/ASX 200 Falls 0.6% to Close at 8,727.90
-- 10/14 14:32 [FirstSquawk] Citi Cuts Barclays’ Price Target to 487p From 500p
-- 10/14 14:41 [FirstSquawk] KOSPI Reverses Course Into Negative Territory After Rising as Much as 2.6% Earlier
-- 10/14 14:47 [FirstSquawk] Ukrainian State Railways Hit by Large-Scale Russian Attack Overnight, CEO Reports
-- 10/14 14:52 [FirstSquawk] BYD Says China-EU Auto Trade Consensus Could Establish a More Predictable Environment for Electric Vehicle Collaboration
-- 10/14 14:52 [FirstSquawk] China-EU Automotive Trade Agreement May Help Curb Escalating Trade Tensions, BYD Says
-- 10/14 15:02 [FirstSquawk] SWEDEN (SEP) CPI MOM ACTUAL: 0.9% VS 0.9% PREVIOUS; EST. 0.9%
-- 10/14 15:02 [FirstSquawk] SWEDEN (SEP) CPI YOY ACTUAL: 1.1% VS 1.1% PREVIOUS; EST. 1.1%
-- 10/14 15:02 [FirstSquawk] SWEDEN (SEP) CPIF MOM ACTUAL: 0.9% VS 0.9% PREVIOUS; EST. 0.9%
-- 10/14 15:02 [FirstSquawk] SWEDEN (SEP) CPIF YOY ACTUAL: 1.5% VS 1.5% PREVIOUS; EST. 1.5%
-- 10/14 15:02 [FirstSquawk] SWEDEN (SEP) CPIF EXCL. ENERGY MOM ACTUAL: 0.1% VS 0.1% PREVIOUS; EST. 0.1%
-- 10/14 15:02 [FirstSquawk] SWEDEN (SEP) CPIF EXCL. ENERGY YOY ACTUAL: 0.5% VS 0.5% PREVIOUS; EST. 0.5%
-- 10/14 15:03 [FirstSquawk] SWEDEN (SEP) CPI LEVEL ACTUAL: 125.94 VS 124.85 PREVIOUS; EST. 125.94
-- 10/14 15:03 [FirstSquawk] SWEDEN (SEP) HOUSEHOLD CONSUMPTION YOY ACTUAL: 3.5% VS 4.0% PREVIOUS
-- 10/14 15:03 [FirstSquawk] SWEDEN (SEP) HOUSEHOLD CONSUMPTION MOM ACTUAL: 1.1% VS 0.7% PREVIOUS
-- 10/14 15:03 [FirstSquawk] GERMANY (SEP) WHOLESALE PRICE INDEX MOM ACTUAL: 1.9% VS 0.9% PREVIOUS
-- 10/14 15:03 [FirstSquawk] GERMANY (SEP) WHOLESALE PRICE INDEX YOY ACTUAL: 8.7% VS 6.8% PREVIOUS
-- 10/14 15:08 [FirstSquawk] BoE Chief Economist Pill Says Markets May Be Overestimating the Prospect of Four Rate Hikes Over the Next 12 Months
-- 10/14 15:09 [FirstSquawk] South Korea’s Financial Watchdog Identifies Hacking Incidents Across 16 Financial Companies
-- 10/14 15:10 [FirstSquawk] SpaceX Imposes Speed Restrictions on Starlink Terminals Used by Ukraine’s Military, Zelenskiy Adviser Says
-- 10/14 15:12 [FirstSquawk] South Korea to Conduct Inspections of Cybersecurity Systems at Financial Institutions, Regulator Says
-- 10/14 15:14 [FirstSquawk] South Korean Regulator to Prepare Framework for Identifying Cyberattacks Early and Coordinating Responses
-- 10/14 15:16 [FirstSquawk] Ukrainian Air Force: Four Out of 39 Russian Missiles Launched Overnight Were Intercepted
-- 10/14 15:19 [FirstSquawk] Equinor Says Grimsnes Could Reach Investment Decision by Next Summer, With Production Starting Within Three Years
-- 10/14 15:30 [FirstSquawk] INDIA (SEP) WHOLESALE PRICE YOY ACTUAL: 11.39% VS 9.92% PREVIOUS;EST 10.60%
-- 10/14 15:33 [FirstSquawk] INDIA (SEP) OUTPUT PPI YOY ACTUAL: 11.39% VS 9.81% PREVIOUS
-- 10/14 15:40 [FirstSquawk] Markets Remain Sensitive to Rate Expectations as U.S. Treasury Yields Stay High, WSJ Says
-- 10/14 15:43 [FirstSquawk] Drones Strike Sberbank Data Centre in Russia’s Saratov Region, Bank Says
-- 10/14 15:50 [FirstSquawk] Russia’s Sberbank Sees Central Bank Holding Rates Steady at Its October 23 Meeting
-- 10/14 15:52 [FirstSquawk] Most Active Tin Contract in Shanghai Drops More Than 5%, Extending Its Slide
-- 10/14 16:02 [FirstSquawk] BRITAIN'S FTSE 100 UP 0.07%; FRANCE'S CAC 40 UP 0.32%; SPAIN'S IBEX UP 0.41%
-- 10/14 16:06 [FirstSquawk] TOYOTA IS RECALLING 30,978 VEHICLES IN THE U.S. DUE TO NHTSA DIRECTIONS.
-- 10/14 16:06 [FirstSquawk] TOYOTA MOTOR IS RECALLING SELECT U.S. VEHICLES DUE TO A POSSIBLE POWERTRAIN FAILURE THAT MAY RESULT IN LOSS OF DRIVE POWER, RAISING CRASH RISK. - NHTSA
-- 10/14 16:10 [FirstSquawk] OMAN SAYS THAT THE COMPLETION OF HORMUZ DISCUSSIONS RELIES ON US-IRAN TALKS.
-- 10/14 16:10 [FirstSquawk] EUROZONE BOND YIELDS DROP AS US CPI DATA AND AUCTIONS APPROACH.
-- 10/14 16:19 [FirstSquawk] ITALY'S PM MELONI SAYS ITALY SEES DEAL WITH EU NEARING OVER MEASURES TO CUT IMPACT OF GAS COSTS ON ELECTRICITY PRICES
-- 10/14 16:26 [FirstSquawk] ITALY'S PM MELONI SAYS THE DEAL BETWEEN THE US AND RUSSIA ON DIESEL IS A VERY RISKY CHOICE
-- 10/14 16:26 [FirstSquawk] ITALY'S PM MELONI SAYS US-RUSSIA DEAL ON DIESEL CONTRADICTS EFFORTS MADE TO GET PUTIN TO THE NEGOTIATING TABLE WITH UKRAINE
-- 10/14 16:28 [FirstSquawk] ITALY'S PM MELONI SAYS THE EU NEEDS TO HAVE A REPRESENTATIVE IN NEGOTIATIONS ON THE RUSSIA-UKRAINE WAR
-- 10/14 16:37 [FirstSquawk] CHINA IS READY TO PROTECT A STABLE GLOBAL SUPPLY CHAIN, SAYS XI.
-- 10/14 16:37 [FirstSquawk] XI SENT A CONGRATULATORY LETTER TO THE CANTON FAIR, AS REPORTED BY XINHUA.
-- 10/14 16:38 [FirstSquawk] XI URGES CHINA'S COMMITMENT TO SUPPORTING MULTILATERAL TRADE SYSTEMS.
-- 10/14 16:40 [FirstSquawk] GERMANY: TO PUSH EU TO IMPOSE CAPS ON ADDITIONAL CHINESE IMPORTS
-- 10/14 16:44 [FirstSquawk] SAUDI-LED COALITION: IT INTERCEPTED HOUTHI BALLISTIC MISSILE LAUNCHED TOWARDS RIYADH
-- 10/14 17:04 [FirstSquawk] IEA: SEES 2026 WORLD OIL DEMAND FALLING BY 2.6M BPD ON IRAN WAR DISRUPTION AND SOARING PRICES (PREV FORECAST 2.5M BPD DROP); SEES 2026 WORLD OIL SUPPLY FALLING 5.8M BPD (PREV FORECAST 5.7M BPD DROP); SEES 2026 WORLD OIL SUPPLY 1.73M BPD BEL…
-- 10/14 17:04 [FirstSquawk] IEA: SEES 2027 WORLD OIL SUPPLY 3.94M BPD ABOVE DEMAND (PREV FORECAST 3.73M BPD ABOVE); RESTRICTED MIDDLE DISTILLATE SUPPLY TO PERSIST WELL INTO 2027 AS DIESEL MARKETS UNDER SIGNIFICANT STRAIN FROM PROLONGED DISRUPTIONS
-- 10/14 17:04 [FirstSquawk] IEA: RECENT ESCALATION OF ATTACKS THREATENS SEPTEMBER'S RECOVERY IN MIDDLE EAST OIL EXPORTS
-- 10/14 17:11 [FirstSquawk] ECB'S ELDERSON: UNKNOWN UNKNOWN RISKS DEMAND RESILIENCE, NOT MODELS
-- 10/14 17:11 [FirstSquawk] ECB'S ELDERSON: BANKS AND SUPERVISORS MUST MOVE BEYOND TRADITIONAL DATA-DRIVEN RISK MODELS TO ADDRESS NON-LINEAR CLIMATE AND NATURE RISKS; KNOWN CLIMATE RISKS INCREASINGLY MEASURABLE; BANKS FACE KNOWN UNKNOWNS SUCH AS TIPPING POINTS AND RAD…
-- 10/14 17:11 [FirstSquawk] ECB'S ELDERSON: SCENARIOS NEEDED TO EXPLORE PLAUSIBLE FUTURES AND BUILD PROACTIVE RESILIENCE; CHALLENGES EXTEND TO DEMOGRAPHICS, AI AND QUANTUM COMPUTING, WITH HEIGHTENED UNCERTAINTY DEMANDING UPSCALED RISK MANAGEMENT FRAMEWORKS
-- 10/14 17:11 [FirstSquawk] FRENCH CAR SUPPLIERS ASSOCIATION: EU-CHINA DEAL ON HYBRID CARS IS A POSITIVE ELEMENT BUT DOES NOT ADDRESS RISING IMPORTS OF CAR PARTS AND COMPONENTS FROM CHINA
-- 10/14 17:12 [financialjuice] DOJ probes UK payments company Euro Exchange over laundering concerns
-- 10/14 17:12 [financialjuice] China bought 8-10 panamax U.S. soybean cargoes this week for December shipment: traders
-- 10/14 17:12 [financialjuice] Ind and Google Cloud offer up to 200 European researchers access to advanced models, $3m compute credits
-- 10/14 17:13 [financialjuice/FirstSquawk] German Economy Ministry: Momentum of German economy likely to have temporarily slowed in Q3 - Monthly Report
-- 10/14 17:14 [FirstSquawk] GERMAN ECONOMY MINISTRY GIVEN LOSS OF PURCHASING POWER DUE TO HIGHER ENERGY PRICES, UNCERTAINTIES, FINANCING COSTS, DOMESTIC ECONOMY IS UNLIKELY TO PROVIDE MUCH MOMENTUM IN SHORT TERM
-- 10/14 17:15 [financialjuice] German Economy Ministry: Given loss of purchasing power due to higher energy prices, uncertainties, financing costs, the domestic economy is unlikely to provide much momentum in short term.
-- 10/14 17:15 [FirstSquawk/financialjuice] GERMAN ECONOMY MINISTRY OUTLOOK FOR INDUSTRIAL ACTIVITY REMAINS SUBDUED
-- 10/14 17:16 [financialjuice] Ortega: dollarization isn't the solution for Venezuela
-- 10/14 17:17 [FirstSquawk] YEMENI ARMED FORCES: TO ANNOUNCE QUALITATIVE MILITARY OPERATION DEEP INSIDE SAUDI TERRITORY AT EXACTLY 11:40 AM
-- 10/14 17:18 [FirstSquawk] TAKAICHI SAYS REGRETTABLE YANA'S CURRENT EXPLANATION NOT CONVINCING
-- 10/14 17:33 [financialjuice] EU Commission proposes one-year delay to EU methane rules for imported oil and gas.
-- 10/14 17:39 [FirstSquawk] JAPAN FARM MINISTER KAZUO YANA TO BE REPLACED SAYS MAINICHI
 - 10/14 17:41 [financialjuice] Yemen's Houthis: They targeted Aramco in Dahran , King Khalid Airport and Aramco refinery in Riyadh - Military Spokesperson.
 - 10/14 17:42 [financialjuice] Yemens Houthis: Our operations targeting airports and oil facilities will continue in following days.
 - 10/14 17:46 [FirstSquawk] YEMEN'S HOUTHIS SAYS THEY TARGETED ARAMCO IN DAHRAN , KING KHALID AIRPORT AND ARAMCO REFINERY IN RIYADH - MILITARY SPOKESPERSON
@@ -359,3 +276,126 @@
 - 10/15 01:41 [DeItaone] $SPCX - SPACEXAI - ANNOUNCES GROK VOICE 3.0 WITH RECORD CUSTOMER SUPPORT RESOLUTION AND LOWER COST SPACEXAI - GROK VOICE 3.0 AVAILABLE IN VOICE AGENT API AT $0.08 PER MINUTE
 - 10/15 01:42 [DeItaone] TRUMP ANNOUNCES $21 BILLION SEMICONDUCTOR INVESTMENT BY GLOBALFOUNDRIES Trump says GlobalFoundries ($GFS ) will build two new semiconductor manufacturing facilities in Malta, New York, funded by $21 billion in Japanese capital. The project …
 - 10/15 01:43 [FirstSquawk] TRUMP: US TAXPAYER WILL RECEIVE SHARES IN GLOBALFOUNDRIES
+- 10/15 02:25 [financialjuice] CoreWeave CEO: Backlog more than supports debt obligations. $CRWV
+- 10/15 02:27 [financialjuice] GlobalFoundries sees ~$3b Adj. FCF from deal over long term
+- 10/15 02:29 [financialjuice] Elysee: Macron to go to Kuwait, UAE, Bahrain and Qatar over Oct 19th - Oct 21th.
+- 10/15 02:30 [DeItaone] COREWEAVE CEO DEFENDS COMPANY'S FINANCIAL STRENGTH AMID AI SECTOR CONCERNS CoreWeave ($CRWV ) CEO Michael Intrator says he remains confident in the company's business model, funding, sales and backlog. Intrator says CoreWeave's contracted b…
+- 10/15 02:30 [financialjuice] President Macron's trip will entail talks on the energy situation and ways to limit impact of energy crisis on French people - Elysee
+- 10/15 02:31 [financialjuice] Iran Parliament Speaker Ghalibaf: Iran does not seek endless war or prolonged negotiations and will fight until the enemy is forced to meet its demands
+- 10/15 02:31 [DeItaone] YIELD ON 30-YEAR U.S. TREASURY BONDS HITS SESSION LOW, LAST DOWN 3.2 BASIS POINTS AT 5.531% TWO-YEAR U.S. TREASURY YIELDS LAST UP 2.98 BASIS POINTS AT 4.823%
+- 10/15 02:32 [DeItaone] *GHALIBAF SAYS AIM ISN’T ‘ENDLESS WAR’ OR PROLONGED TALKS: FARS *IRAN PARLIAMENT SPEAKER GHALIBAF ADDRESSES NATION: FARS
+- 10/15 02:34 [financialjuice] Fed's Barkin: Not seeing AI job losses happening at scale
+- 10/15 02:35 [financialjuice] Nvidia CEO: Safety concerns are industry growing pains. $NVDA
+- 10/15 02:35 [financialjuice] Nvidia CEO Huang: Would cut off customers who build unsafe AI. $NVDA
+- 10/15 02:39 [financialjuice/FirstSquawk] Yemen's Houthis: Attacked King Khalid Airport in Riyadh with ballistic missile - Military Spokesperson
+- 10/15 02:39 [DeItaone] ALL EYES ON WARSH September's hotter-than-expected inflation report has raised expectations of another Fed rate hike ahead of the October 27–28 meeting. Fed Chair Kevin Warsh speaks Thursday, October 15, at 11:30 PM ET at the IMF meetings i…
+- 10/15 02:39 [DeItaone] YEMEN'S HOUTHIS SAY THEY ATTACKED KING KHALID AIRPORT IN RIYADH WITH BALLISTIC MISSILE -MILITARY SPOKESPERSON
+- 10/15 02:49 [DeItaone] CBOE VOLATILITY INDEX HITS NEAR TWO-WEEK HIGH; LAST UP 1.69 POINTS AT 16.96
+- 10/15 02:51 [financialjuice] CoreWeave CEO blames share drop on market acting irrationally.
+- 10/15 02:51 [financialjuice] Fed's Barkin: No question investment side of economy largely from AI.
+- 10/15 02:52 [financialjuice] Fed's Barkin: Cannot count on AI investment to grow till end of time.
+- 10/15 02:52 [DeItaone] $CRWV - *COREWEAVE CEO BLAMES SHARE DROP ON MARKET ACTING 'IRRATIONALLY'
+- 10/15 02:53 [FirstSquawk] FRENCH PRESIDENT MACRON IS TO TRAVEL TO KUWAIT, THE UAE, BAHRAIN AND QATAR OVER OCT. 19-21, WITH THE TRIP TO ENTAIL TALKS ON THE ENERGY SITUATION AND WAYS TO LIMIT THE IMPACT OF THE ENERGY CRISIS ON THE FRENCH PEOPLE - ELYSEE
+- 10/15 02:54 [DeItaone] NASDAQ EXTENDS DECLINES, LAST DOWN 2%
+- 10/15 03:01 [financialjuice] Fed Beige Book: Since the prior beige book, two of the twelve Federal Reserve districts reported moderate growth in economic activity.
+- 10/15 03:01 [financialjuice] Fed Beige Book: however, expectations tend to be for slight growth, weighted toward manufacturing and burdened by persistent uncertainties.
+- 10/15 03:01 [financialjuice] Fed Beige Book: Most districts described little or no net change in overall employment levels.
+- 10/15 03:01 [DeItaone] FED BEIGE BOOK SIGNALS WEAK GROWTH AND PERSISTENT INFLATION The Federal Reserve reports little or no change in employment across most districts, while only 2 of 12 districts recorded moderate economic growth. Meanwhile, 3 districts reported…
+- 10/15 03:01 [financialjuice] Fed Beige Book
+- 10/15 03:01 [financialjuice] Fed Beige Book: Three districts characterized overall price growth as robust, while eight noted that growth was moderate—and three of the eight noted that input price pressures were intensifying, if not already growing robustly.
+- 10/15 03:02 [DeItaone] DENMARK FOREIGN MINISTRY:IF THE US WISHES TO EXPLORE THE GREENLANDIC SUBSOIL FOR OIL, GAS AND MINERALS, THIS MUST TAKE PLACE WITHIN THE FRAMEWORK OF THE RELEVANT GREENLANDIC LEGISLATION
+- 10/15 03:03 [DeItaone] LE PEN SAYS SHE THINKS FRANCE IS NOT IN A POSITION TO CONTINUE TO FINANCE UKRAINE
+- 10/15 03:03 [financialjuice] Denmark's Foreign Ministry: If the US wishes to explore the Greenlandic subsoil for oil, gas, and minerals, this must take place within the framework of the relevant Greenlandic legislation. This does not alter the agreement of the 22nd Sep…
+- 10/15 03:04 [FirstSquawk] THE FED’S BEIGE BOOK SHOWS THAT SINCE THE PRIOR REPORT, TWO OF THE TWELVE FEDERAL RESERVE DISTRICTS REPORTED MODERATE GROWTH IN ECONOMIC ACTIVITY, WITH EXPECTATIONS TENDING TOWARD SLIGHT GROWTH — WEIGHTED TOWARD MANUFACTURING AND BURDENED B…
+- 10/15 03:04 [FirstSquawk] THE BEIGE BOOK SHOWS THREE DISTRICTS CHARACTERIZED OVERALL PRICE GROWTH AS ROBUST, WHILE EIGHT NOTED GROWTH WAS MODERATE — AND THREE OF THOSE EIGHT NOTED THAT INPUT PRICE PRESSURES WERE INTENSIFYING, IF NOT ALREADY GROWING ROBUSTLY.
+- 10/15 03:05 [FirstSquawk] DENMARK’S FOREIGN MINISTRY SAYS THAT IF THE U.S. WISHES TO EXPLORE THE GREENLANDIC SUBSOIL FOR OIL, GAS AND MINERALS, THIS MUST TAKE PLACE WITHIN THE FRAMEWORK OF THE RELEVANT GREENLANDIC LEGISLATION, AND THAT THIS DOES NOT ALTER THE AGREEM…
+- 10/15 03:05 [FirstSquawk] DENMARK’S FOREIGN MINISTRY SAYS THE AGREEMENT DOES NOT GRANT U.S. INVESTORS ANY PREFERENTIAL TREATMENT COMPARED WITH INVESTORS FROM OTHER NATO COUNTRIES, EU COUNTRIES AND NATO PARTNERS WHEN IT COMES TO ACCESS TO NATURAL RESOURCES IN GREENLA…
+- 10/15 03:17 [FirstSquawk] UK SAYS IT WILL STAND WITH UKRAINE AGAINST RUSSIA’S AGGRESSION, FOR AS LONG AS IT TAKES.
+- 10/15 03:24 [financialjuice] US Natural Gas inventories seen up 76 billion cubic feet last week for Thursday's EIA report - Poll.
+- 10/15 03:31 [financialjuice] NYMEX WTI Crude November futures settle at $95.09 a barrel, up 95 cents, 1.01%.
+- 10/15 03:31 [financialjuice] NYMEX Gasoline November futures settle at $3.2595 a gallon.
+- 10/15 03:31 [financialjuice] NYMEX Diesel November futures settle at $4.9274 a gallon.
+- 10/15 03:32 [financialjuice] NYMEX Natural Gas November futures settle at $3.1980/MMBtu.
+- 10/15 03:36 [financialjuice] Fed's Barkin: I do not want to project the outcome of the October FOMC meeting.
+- 10/15 03:36 [financialjuice] Fed's Barkin: The CPI report was higher than I would have hoped.
+- 10/15 03:38 [DeItaone] EIGHT U.S. STATES SUE OPENAI, CLAIMING CHATGPT HARMS CHILDREN
+- 10/15 03:39 [DeItaone] *FED'S BARKIN SAYS CPI HIGHER THAN HOPED *FED'S BARKIN DECLINES TO PREJUDGE OCTOBER FOMC OUTCOME *FED'S BARKIN SAYS PPI DATA TO INFORM INFLATION OUTLOOK
+- 10/15 03:47 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 1.01% HIGHER AT $95.09/BBL, UP 95 CENTS
+- 10/15 03:47 [FirstSquawk] FED’S BARKIN SAYS THE CPI REPORT WAS ‘HIGHER THAN I WOULD HAVE HOPED’ AND THAT TOMORROW’S PRODUCER PRICE DATA ‘IS GOING TO HELP INFORM MY INFLATION OUTLOOK’, ADDING THAT HE DOES NOT WANT TO PROJECT THE OUTCOME OF THE OCTOBER FOMC MEETING
+- 10/15 03:51 [financialjuice] The US is sending hundreds of troops to Latin America, expanding its fight against drug traffickers - NYT
+- 10/15 03:51 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 0.35% HIGHER AT $106.06/BBL, UP 37 CENTS
+- 10/15 03:55 [DeItaone] *GHALIBAF SAYS US DEAL CAN’T PREVENT ANOTHER ATTACK ON IRAN
+- 10/15 03:55 [DeItaone] *US SENDING HUNDREDS OF TROOPS TO LATIN AMERICA: NYT *US TROOPS TO TRAIN AND CONDUCT EXERCISES WITH LOCAL FORCES: NYT
+- 10/15 03:58 [DeItaone] U.S. DEPLOYS HUNDREDS OF TROOPS TO LATIN AMERICA AS ANTI-CARTEL OPERATIONS EXPAND The Pentagon is deploying approximately 600 soldiers from the 10th Mountain Division to Latin America as Washington expands its military campaign against drug…
+- 10/15 04:01 [FirstSquawk] US TO SEND HUNDREDS OF TROOPS TO LATIN AMERICA, EXPANDING OPERATIONS AGAINST DRUG TRAFFICKERS — NYT
+- 10/15 04:03 [DeItaone] MUSK: STARSHIELD SYSTEMS ARE OWNED AND CONTROLLED BY US GOVERNMENT; ANY LIMITS ON SPEED OR USAGE ARE DECIDED BY THE US MILITARY AND ULTIMATELY POTUS MUSK: STARLINK IS LIMITED TO CIVILIAN OR DEFENSIVE ACTIVITIES AND CANNOT BE USED FOR OFFENS…
+- 10/15 04:04 [DeItaone] NYFED: DESK PLANS TO CONDUCT APPROXIMATELY $14.6 BILLION IN REINVESTMENT PURCHASES BETWEEN OCT 15 TO NOV 13
+- 10/15 04:04 [financialjuice] Fed's Goolsbee Speaks on Yahoo Finance (15:00 ET) - WATCH LIVE
+- 10/15 04:04 [financialjuice/FirstSquawk] Yemeni armed forces target Saudi Aramco oil distribution facilities in northern Jeddah - Tasnim News
+- 10/15 04:04 [financialjuice] NY Fed: The desk plans to conduct approximately $14.6 billion in reinvestment purchases between October 15th and November 13th.
+- 10/15 04:06 [financialjuice] The Fed prolongs the pause on reserve management purchases to mid-November.
+- 10/15 04:06 [FirstSquawk] MUSK SAYS STARSHIELD SYSTEMS ARE OWNED AND CONTROLLED BY THE U.S. GOVERNMENT, WITH ANY LIMITS ON SPEED OR USAGE DECIDED BY THE U.S. MILITARY AND ULTIMATELY POTUS.
+- 10/15 04:06 [FirstSquawk] MUSK SAYS STARLINK IS LIMITED TO CIVILIAN OR DEFENSIVE ACTIVITIES AND CANNOT BE USED FOR OFFENSIVE MILITARY ACTION.
+- 10/15 04:09 [financialjuice] Fed's Goolsbee: CPI data was 'discouraging' - Yahoo
+- 10/15 04:10 [financialjuice] Fed's Goolsbee: Service inflation in CPI was a concern
+- 10/15 04:10 [financialjuice] Fed's Goolsbee: It is key to focus on the trend of inflation, not one report.
+- 10/15 04:10 [DeItaone] FED'S GOOLSBEE: CPI DATA WAS 'DISCOURAGING' - YAHOO FED'S GOOLSBEE: SERVICE INFLATION IN CPI WAS A CONCERN FED'S GOOLSBEE: KEY TO FOCUS ON TREND OF INFLATION, NOT ONE REPORT
+- 10/15 04:11 [DeItaone] FED'S GOOLSBEE: HOPES ENERGY WILL FADE SOON FROM INFLATION DATA
+- 10/15 04:11 [financialjuice] Fed's Goolsbee: Hope energy will fade soon from inflation data.
+- 10/15 04:12 [DeItaone] FED'S GOOLSBEE: THE ECONOMY HAS WORK TO DO THE INFLATION SIDE
+- 10/15 04:12 [financialjuice] Fed's Goolsbee: The economy has work to do on the inflation side
+- 10/15 04:12 [DeItaone] FED'S GOOLSBEE: IS NOT A FAN OF TELEGRAPHING FED MOVES AHEAD OF MEETINGS
+- 10/15 04:12 [financialjuice] Fed's Goolsbee: Prices and costs are clearly the worst side of the economy.
+- 10/15 04:13 [financialjuice] Fed's Goolsbee: Not a fan of telegraphing Fed moves ahead of meetings
+- 10/15 04:13 [DeItaone] FED'S GOOLSBEE: FED MUST PREVENT THE BUILD UP OF OVERHEATING
+- 10/15 04:13 [financialjuice] Fed's Goolsbee: There is no ambiguity for the Fed if the economy is solid and inflation is high
+- 10/15 04:13 [financialjuice] Fed's Goolsbee: The Fed must prevent the buildup of overheating.
+- 10/15 04:14 [financialjuice] Fed's Goolsbee: More optimistic about outlook relative to other Fed officials
+- 10/15 04:14 [financialjuice] Fed's Goolsbee: There is evidence that the building inflation hasn't been transitory amid continued shocks.
+- 10/15 04:14 [DeItaone] FED HOLDS OFF ON NEW BOND PURCHASES FOR THIRD STRAIGHT MONTH The New York Fed will not inject additional money into the financial system through new Treasury bill purchases for a third consecutive month. It will still buy $14.6 billion in T…
+- 10/15 04:15 [financialjuice] Fed's Goolsbee: Need to keep a close eye on service sector inflation
+- 10/15 04:15 [financialjuice] Fed's Goolsbee: Tariff impacts on prices are more lasting than expected.
+- 10/15 04:16 [financialjuice] Fed's Goolsbee: More bad months of inflation would be unacceptable.
+- 10/15 04:16 [financialjuice] Fed's Goolsbee: Fed will get inflation back to 2%
+- 10/15 04:16 [DeItaone] FED'S GOOLSBEE: MORE BAD MONTHS OF INFLATION WOULD UNACCEPTABLE
+- 10/15 04:16 [FirstSquawk] FED’S GOOLSBEE SAYS THE CPI DATA WAS ‘DISCOURAGING’, WITH PRICES AND COSTS ‘CLEARLY THE WORST SIDE OF THE ECONOMY’ AND THE ECONOMY HAVING ‘WORK TO DO ON THE INFLATION SIDE’, THOUGH HE IS HEARING ABOUT COSTS AND PRICES FROM CONTACTS RATHER T…
+- 10/15 04:16 [FirstSquawk] FED'S GOOLSBEE SAYS THERE IS ‘NO AMBIGUITY FOR THE FED IF THE ECONOMY IS SOLID AND INFLATION IS HIGH’, ADDING THAT IT IS KEY TO FOCUS ON THE TREND OF INFLATION RATHER THAN ONE REPORT, THAT SERVICE INFLATION IN THE CPI WAS A CONCERN, AND THA…
+- 10/15 04:16 [DeItaone] FED'S GOOLSBEE: IF CURRENT INFLATION LEVELS HOLD POLICY WOULD NEED TO ADDRESS THAT
+- 10/15 04:17 [financialjuice] Fed's Goolsbee: Doesn't want to tie hands on monetary policy outlook
+- 10/15 04:17 [financialjuice] Fed's Goolsbee: If the current inflation levels hold, policy would need to address that.
+- 10/15 04:18 [financialjuice] Fed's Goolsbee: Consumers, GDP, and investment levels have been strong
+- 10/15 04:18 [financialjuice] Fed's Goolsbee: AI hype could cause even more tech sector investment, which would risk overheating.
+- 10/15 04:20 [financialjuice] Fed's Goolsbee: A slowdown in AI investment doesn't have to mean a recession.
+- 10/15 04:21 [financialjuice] Fed's Goolsbee: I want to keep an eye on the financial stability implications of AI investment.
+- 10/15 04:23 [financialjuice] Thursday FX Options Expiries
+- 10/15 04:23 [financialjuice] Yemen wants training and intelligence assistance from the US - CBS News, citing the Foreign Minister.
+- 10/15 04:23 [FirstSquawk] FED’S GOOLSBEE: CPI DATA “DISCOURAGING”; SERVICE INFLATION A CONCERN, WITH FED FOCUSED ON RETURNING INFLATION TO 2% AND WATCHING THE OVERALL TREND RATHER THAN ONE REPORT.
+- 10/15 04:23 [FirstSquawk] FED’S GOOLSBEE: TARIFF IMPACTS ON PRICES ARE MORE LASTING THAN EXPECTED; MORE BAD INFLATION MONTHS WOULD BE UNACCEPTABLE, WHILE THE FED MUST KEEP A CLOSE EYE ON SERVICE-SECTOR INFLATION.
+- 10/15 04:23 [FirstSquawk] FED’S GOOLSBEE: CONSUMERS, GDP AND INVESTMENT REMAIN STRONG, BUT FED MUST PREVENT OVERHEATING; AI HYPE COULD DRIVE FURTHER TECH INVESTMENT AND ADD TO OVERHEATING RISKS.
+- 10/15 04:23 [FirstSquawk] FED’S GOOLSBEE: FED WILL RETURN INFLATION TO 2% BUT DOES NOT WANT TO PRECOMMIT TO FUTURE POLICY MOVES; SAYS MONETARY POLICY OUTLOOK SHOULD REMAIN DATA-DEPENDENT.
+- 10/15 04:23 [FirstSquawk] FED’S GOOLSBEE: ECONOMY REMAINS SOLID BUT INFLATION IS THE KEY WEAKNESS; ENERGY, TARIFFS AND SERVICES ARE KEEPING PRICE PRESSURES ELEVATED, REQUIRING CLOSE FED MONITORING.
+- 10/15 04:24 [financialjuice/FirstSquawk] IRGC: Strong explosion in Jeddah, Saudi Arabia.
+- 10/15 04:25 [financialjuice] SignatureFD's Welch: inflation expected to be stickier for longer
+- 10/15 04:25 [FirstSquawk] YEMEN SEEKS US TRAINING & INTELLIGENCE ASSISTANCE — FOREIGN MINISTER, CBS NEWS
+- 10/15 04:27 [financialjuice] Fed's Goolsbee concludes remarks on Yahoo Finance.
+- 10/15 04:42 [financialjuice] US Military: On October 6th, US forces destroyed an Iranian-affiliated dhow conducting surveillance and targeting US Navy ships in the Gulf of Oman.
+- 10/15 04:43 [financialjuice] US Military: Crew members were safely removed prior to the destruction of the dhow; repatriation efforts are ongoing
+- 10/15 04:47 [FirstSquawk] ANTHROPIC SAYS IT HAS BANNED ACCOUNTS INVOLVED IN CASES OF ABUSE TO PREVENT COORDINATED ABUSE AROUND ELECTIONS, AND HAS ENHANCED MISUSE DETECTION AND CYBER PROTECTIONS FOR ELECTION INFRASTRUCTURE - WEBSITE
+- 10/15 04:50 [FirstSquawk] U.S. MILITARY SAYS THAT ON OCT. 6, U.S. FORCES DESTROYED AN IRANIAN-AFFILIATED DHOW CONDUCTING SURVEILLANCE AND TARGETING U.S. NAVY SHIPS IN THE GULF OF OMAN, WITH CREW MEMBERS SAFELY REMOVED PRIOR TO THE DESTRUCTION OF THE DHOW AND REPATRI…
+- 10/15 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 1419.0 MLN NASDAQ 100: 599.6 MLN DOW 30: 45.5 MLN MAG 7: 356.7 MLN $MACRO
+- 10/15 04:51 [financialjuice] Apple plans to launch Apple Intelligence in China in iOS 27.3. $AAPL
+- 10/15 04:54 [FirstSquawk] APPLE IS PREPARING TO DEBUT ITS FIRST AI FEATURES IN CHINA IN DECEMBER, PLANNING TO LAUNCH APPLE INTELLIGENCE
+- 10/15 04:55 [FirstSquawk] PERELLA WEINBERG AND PIPER SANDLER ABANDON MERGER TALKS - FT
+- 10/15 05:01 [FirstSquawk] DOW JONES CLOSES 0.19% LOWER AT 51,570.37, DOWN 99.73 POINTS
+- 10/15 05:01 [FirstSquawk] S&P 500 CLOSES 1.15% LOWER AT 7,716.03, DOWN 89.42 POINTS
+- 10/15 05:09 [financialjuice] Romanian Naval Authority: Crew evacuated from a commercial ship that caught fire in Romanian territorial waters. It is unclear whether the ship was hit by drones; an investigation is pending.
+- 10/15 05:11 [financialjuice] Chip Selloff Deepens as Inflation Revives Fed Rate-Hike Fears – US Market Wrap
+- 10/15 05:14 [FirstSquawk] U.S. STOCKS FELL AS RENEWED LOSSES IN SEMICONDUCTOR SHARES AND STRONGER-THAN-EXPECTED INFLATION STRENGTHENED EXPECTATIONS THAT THE FED MAY CONTINUE RAISING INTEREST RATES, WITH THE S&P 500 ENDING ITS LONGEST STRETCH WITHOUT A 1% DECLINE IN …
+- 10/15 05:14 [FirstSquawk] A KEY INDEX TRACKING MAJOR CHIPMAKERS — INCLUDING NVIDIA AND BROADCOM — HAS DROPPED 20% FROM ITS JUNE HIGH AS INVESTORS GROW INCREASINGLY CONCERNED ABOUT RISING INTEREST RATES, STRETCHED VALUATIONS AND THE ENORMOUS EXPENSE OF DEVELOPING AI …
+- 10/15 05:14 [FirstSquawk] APPLE IS PREPARING TO LAUNCH ITS ARTIFICIAL INTELLIGENCE PLATFORM IN MAINLAND CHINA FOLLOWING A LENGTHY REGULATORY DELAY THAT HAS KEPT ITS AI FEATURES OUT OF ONE OF ITS MOST IMPORTANT MARKETS.
+- 10/15 05:24 [DeItaone] *TESLA-SPACEX MERGER ANNOUNCEMENT POSSIBLE BEFORE DEC: BARCLAYS
+- 10/15 05:33 [FirstSquawk] BARCLAYS: TESLA-SPACEX MERGER ANNOUNCEMENT POSSIBLE BEFORE DEC
+- 10/15 05:36 [FirstSquawk] UKRAINE’S ZELENSKY, ASKED HOW HE FEELS WHEN TRUMP BLAMES UKRAINIAN LONG-RANGE DRONE STRIKES FOR HIGH DIESEL PRICES, SAYS ‘IT’S OKAY FOR ME. THIS IS NOT THE FIRST TIME. I’M STRONG BECAUSE I KNOW THE TRUTH’, ARGUING THAT MOST PEOPLE IN THE WO…
+- 10/15 05:36 [FirstSquawk] UKRAINE’S ZELENSKY SAYS SECURITY GUARANTEES DIRECTLY FROM THE UNITED STATES ARE ‘A GOOD WAY, BUT WE NEED MORE DETAILS’, SAYING IT WOULD MEAN ‘IF PUTIN ATTACKS, TRUMP ATTACKS PUTIN’, AND THAT HAVING ON PAPER JUST ‘IF PUTIN ATTACKS UKRAINE, T…
+- 10/15 05:38 [financialjuice] US API CRUDE OIL STOCK CHANGE ACTUAL -11.12M (FORECAST 1.9M, PREVIOUS -2.09M) $MACRO
+- 10/15 05:39 [financialjuice] US API CUSHING STOCK CHANGE ACTUAL 1.823M (FORECAST -, PREVIOUS 0.866M) $MACRO
