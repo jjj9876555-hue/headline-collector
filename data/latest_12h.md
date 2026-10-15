@@ -7,191 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-15 20:58 JST／対象: 10/15 08:58 〜 10/15 20:58 JST（時刻はすべて日本時間）
+生成: 2026-10-16 01:48 JST／対象: 10/15 13:48 〜 10/16 01:48 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 19 | 10/15 09:47 | 10/15 20:41 | ⚠ 534分（09:48→18:42） |
-| FirstSquawk | 203 | 10/15 09:11 | 10/15 20:52 | 30分（16:28→16:58） |
-| financialjuice | 144 | 10/15 09:05 | 10/15 20:56 | ⚠ 61分（19:29→20:30） |
+| DeItaone | 61 | 10/15 18:42 | 10/16 01:05 | 26分（19:52→20:19） |
+| FirstSquawk | 153 | 10/15 13:49 | 10/16 01:38 | 30分（16:28→16:58） |
+| financialjuice | 159 | 10/15 14:14 | 10/16 01:46 | ⚠ 61分（19:29→20:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 364 行（統合前 368 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 360 行（統合前 375 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/15 09:05 [financialjuice] S. KOREAN EXPORTS REVISED ACTUAL 83.7% (FORECAST -, PREVIOUS 83.5%) $MACRO
-- 10/15 09:05 [financialjuice] S. KOREAN IMPORTS REVISED ACTUAL 26.0% (FORECAST -, PREVIOUS 26.0%) $MACRO
-- 10/15 09:05 [financialjuice] S. KOREAN TRADE BALANCE REVISED ACTUAL 49.97B (FORECAST -, PREVIOUS 49.85B) $MACRO
-- 10/15 09:11 [FirstSquawk] SoftBank Group Shares Decline 8% in Trading
-- 10/15 09:11 [FirstSquawk] Hackers Armed With AI Breach Japan’s Poorly Protected Corporate Networks
-- 10/15 09:11 [FirstSquawk] US DISCUSSING LIFTING SOME SANCTIONS ON SHADOW FLEET VESSELS IN ATTEMPT TO LOWER GLOBAL FREIGHT RATES, BOOST OIL FLOWS IN MIDDLE EAST – RTRS CITES OFFICIAL
-- 10/15 09:13 [FirstSquawk] ISRAELI PRIME MINISTER NETANYAHU SAYS ‘GADI EISENKOT WANTED TO STOP THE GAZA WAR IMMEDIATELY’, EVEN ‘BEFORE WE HAD EVEN ENTERED RAFAH’, AND, ASKED WHETHER REGIME CHANGE IN IRAN IS REALISTIC BEFORE THE ISRAELI ELECTIONS, SAYS ‘NO, I DON’T TH…
-- 10/15 09:13 [FirstSquawk] NETANYAHU SAYS ON IRAN THAT ‘IT IS ESSENTIAL TO OVERTHROW THIS REGIME’, CLAIMING ‘WE’VE CRUSHED IT’ AND THAT IRAN IS ‘AT THE WEAKEST POINT THEY’VE EVER BEEN’, BUT THAT ‘WE NEED TO FINISH THE JOB’, ADDING THAT HE HAS ‘DEDICATED MY ENTIRE LIF…
-- 10/15 09:13 [FirstSquawk] NETANYAHU SAYS ‘ISRAEL TODAY IS THE STRONGEST POWER’ AND THAT ITS ECONOMY ‘IS BOOMING AT A LEVEL THAT’S DIFFICULT TO BELIEVE’.
-- 10/15 09:14 [FirstSquawk] Kioxia Stock Plunges 8.3% in Japanese Trading
-- 10/15 09:15 [FirstSquawk] LOCKHEED MARTIN IS EXPANDING ITS ADVANCED MUNITIONS MANUFACTURING IN TEXAS, SAYING THE MOVE WILL CREATE 6,000 JOBS IN THE U.S. — INCLUDING 2,000 IN TEXAS — WITH A $300 MLN INVESTMENT TO EXPAND ITS GRAND PRAIRIE MANUFACTURING TO 735,000 SQ F…
-- 10/15 09:15 [FirstSquawk] LOCKHEED MARTIN SAYS IT WILL ADD NEARLY 100 ADVANCED MACHINES AT GRAND PRAIRIE BY THE END OF 2026.
-- 10/15 09:18 [FirstSquawk] Asia-Pacific Equities Fall as Regional Markets Follow Wall Street Lower on Tech Weakness and Elevated US Inflation
-- 10/15 09:18 [FirstSquawk] US FLOATS UNFREEZING SOME RUSSIAN ASSETS TO RESTART UKRAINE PEACE TALKS - FT
-- 10/15 09:20 [FirstSquawk] Rising Fuel Prices Add to Inflation Concerns as Fed Survey Flags Intensifying Price Pressures
-- 10/15 09:23 [financialjuice] China PBOC likely to set yuan midpoint at 6.6977 per dollar: estimate
-- 10/15 09:23 [FirstSquawk] Anthropic’s Quarterly Revenue Climbs 45%, Approaching $17 Billion - WSJ
-- 10/15 09:25 [FirstSquawk] EUROPEAN STOCK FUTURES SLIP: EUROSTOXX 50 -0.7%, DAX -0.5%, FTSE -0.4%
-- 10/15 09:30 [financialjuice] AUSTRALIAN FULL TIME EMPLOYMENT CHG. ACTUAL 34.4K (FORECAST -, PREVIOUS -6.3K) $MACRO
-- 10/15 09:30 [FirstSquawk] AUSTRALIA’S UNEMPLOYMENT RATE ROSE TO 4.7% IN SEPTEMBER, ABOVE THE 4.6% FORECAST AND UP FROM 4.6%, WITH EMPLOYMENT FALLING 39.3K AGAINST AN EXPECTED 20K GAIN AND A PRIOR 39.5K RISE
-- 10/15 09:30 [financialjuice] ‼ BREAKING: AUSTRALIAN EMPLOYMENT CHANGE ACTUAL -39.3K (FORECAST 20K, PREVIOUS 39.5K) $MACRO
-- 10/15 09:30 [FirstSquawk] AUSTRALIA’S UNEMPLOYMENT RATE ROSE TO 4.7% IN SEPTEMBER, ABOVE THE 4.6% POLL FORECAST, WITH EMPLOYMENT FALLING 39.3K AGAINST AN EXPECTED 20K GAIN — THOUGH FULL-TIME JOBS ROSE 34.4K — AND THE PARTICIPATION RATE AT 66.8% VERSUS A 67.0% POLL
-- 10/15 09:30 [financialjuice] ❗ AUSTRALIAN UNEMPLOYMENT RATE ACTUAL 4.7% (FORECAST 4.6%, PREVIOUS 4.6%) $MACRO
-- 10/15 09:30 [financialjuice] Australia Sept participation rate rises 66.8%, s/adj (Poll: 67.0%)
-- 10/15 09:30 [financialjuice] Australia September full-time jobs rise 34.4k seasonally adjusted
-- 10/15 09:30 [financialjuice] Australia Sept employment drops 39.3k seasonally adjusted poll forecast +20.0k
-- 10/15 09:30 [financialjuice] Australia Sept unemployment rate rises to 4.7%, seasonally adjusted (poll forecast 4.6%)
-- 10/15 09:31 [financialjuice] AUSTRALIAN PARTICIPATION RATE ACTUAL 66.8% (FORECAST 67%, PREVIOUS 67.1%) $MACRO
-- 10/15 09:34 [FirstSquawk] WATCHDOG GROUP CREW SUED THE WHITE HOUSE, ALLEGING JARED KUSHNER IS PERFORMING GOVERNMENT DIPLOMATIC DUTIES WITHOUT SENATE CONFIRMATION OR COMPLIANCE WITH FEDERAL ETHICS RULES. THE LAWSUIT CITES HIS ROLE IN NEGOTIATIONS INVOLVING ISRAEL, IR…
-- 10/15 09:37 [FirstSquawk] Australia Employment Change Sep: -39.3K (est 20.0K; prev 39.5K)
-- 10/15 09:37 [FirstSquawk] Australia Unemployment Rate: 4.7% (est 4.6%; prev 4.6%)
-- 10/15 09:37 [FirstSquawk] Australia Full-Time Employment Change: 42.4K (prev -6.3K)
-- 10/15 09:37 [FirstSquawk] Australia Part-Time Employment Change: -73.7K (prev 45.8K)
-- 10/15 09:37 [FirstSquawk] Australia Participation Rate: 66.8% (est 67.0%; prev 67.1%)
-- 10/15 09:44 [FirstSquawk] 10-Year JGB Yield Declines 5.5 Basis Points to 2.94%, Reaching Its Lowest Since September 10
-- 10/15 09:44 [FirstSquawk] BITCOIN FELL AS MUCH AS 2.3% TO AROUND $81,500 AS HOTTER US INFLATION, RISING RATE-HIKE EXPECTATIONS AND A CHIP STOCK SELLOFF TRIGGERED A BROADER RISK-OFF MOOD. THE NASDAQ 100 DROPPED AS MUCH AS 2%, WHILE THE US DOLLAR HIT ITS HIGHEST LEVEL…
-- 10/15 09:46 [FirstSquawk] US NATURAL GAS FUTURES FELL 2.6% TO $3.198/MMBTU, THEIR BIGGEST DROP IN TWO WEEKS, AS PRODUCTION RECOVERED AFTER HURRICANE ISAIAS. OUTPUT REACHED 111.4 BCF/D, UP 3% YEAR OVER YEAR, WHILE LNG EXPORT FLOWS ROSE 9.1% WEEK OVER WEEK TO 19.6 BCF…
-- 10/15 09:47 [DeItaone] JAPAN’S NIKKEI PLUNGES 3.5% AS FED RATE HIKE FEARS GROW Japanese stocks tumbled after hotter-than-expected U.S. inflation fueled expectations of higher interest rates. The Nikkei fell 3.5%, led by sharp losses in AI stocks: SoftBank -7.9%, …
-- 10/15 09:48 [DeItaone] SPOT GOLD RISES 1% TO $4,144.03/OZ
-- 10/15 09:48 [FirstSquawk] Gold Prices Jump 1% to $4,144.03 an Ounce in Spot Trading
-- 10/15 09:53 [FirstSquawk] Kospi Plunges 7% as South Korean Stocks Extend Declines
-- 10/15 10:00 [FirstSquawk] YouTube Looks to Enter the Audiobook Business as It Broadens Its Digital Content Portfolio - WSJ
-- 10/15 10:00 [financialjuice] Taiwan stocks fall over 2%
-- 10/15 10:00 [financialjuice] Taiwan overnight interbank rate begins at 0.805% vs 0.805% at previous session start
-- 10/15 10:01 [FirstSquawk] Taiwanese Equities Drop More Than 2% Amid Selling Pressure
-- 10/15 10:01 [financialjuice] World Bank: Nepal and World Bank Group unveil collaboration to investigate catastrophe bond for earthquake hazard
-- 10/15 10:01 [FirstSquawk] Taiwan’s Overnight Interbank Rate Holds Steady at 0.805% at the Open
-- 10/15 10:02 [FirstSquawk] 30-Year JGB Yield Declines 4.5 Basis Points to 3.995%
-- 10/15 10:03 [FirstSquawk] Brent Crude Slides Over 1% to $104.93/BBL Amid Selling Pressure
-- 10/15 10:08 [FirstSquawk] LME Three-Month Tin Declines 1%, Falling Below the $50,000-per-Ton Mark for First Time Since June
-- 10/15 10:08 [FirstSquawk] Chinese Automakers Shift Production Overseas to Maintain Competitiveness, Moody’s Says
-- 10/15 10:09 [FirstSquawk] US and China Seek to Influence AI Priorities Ahead of Upcoming Xi-Trump Talks in Shenzhen - SCMP
-- 10/15 10:15 [financialjuice] Saudi-led coalition: drone intercepted and neutralized in kingdom's eastern region
-- 10/15 10:16 [FirstSquawk] China Sets Yuan Midpoint at 6.7253 per Dollar in Daily PBOC Fixing
-- 10/15 10:16 [FirstSquawk] Drone Intercepted and Destroyed in Saudi Arabia’s Eastern Region, Coalition Says
-- 10/15 10:22 [financialjuice] China central bank injects 45 billion yuan via 7-day reverse repos at 1.40% vs prior 1.40%: statement
-- 10/15 10:25 [FirstSquawk] Hong Kong Tech Stocks Brace for Sharp Opening Losses as Hang Seng Tech Index Signals a Drop of More Than 2%
-- 10/15 10:26 [FirstSquawk] Houthi Media Official Calls on Taiz Residents to Stay Inside Their Homes
-- 10/15 10:31 [financialjuice] BOJ board member Koeda: attention focused on price upside risks from yen depreciation and robust global AI demand, plus Middle East situation impact
-- 10/15 10:31 [financialjuice] BOJ's Koeda: Looking ahead, it will be necessary to focus on both AI-related exports and imports
-- 10/15 10:32 [financialjuice] BOJ’s Koeda: Monetary policy debate includes if AI backs investment to address labor shortages and boost productivity
-- 10/15 10:33 [financialjuice] Boj's Koeda: important to assess how policy rate change influences financial conditions, economic activity and prices
-- 10/15 10:33 [FirstSquawk] US 10-Year Treasury Yield Falls to 5.1183%, Its Lowest in Three Weeks Amid Equity Market Losses
-- 10/15 10:33 [financialjuice] BOJ's Koeda: overall, I believe Japan's financial conditions have stayed accommodative
-- 10/15 10:33 [FirstSquawk] US Dollar Gains 1% Against South Korean Won
-- 10/15 10:33 [financialjuice] BOJ's Koeda: recent rate hikes not necessarily expected to curb overall consumption of working generation
-- 10/15 10:34 [financialjuice] BoJ's Koeda: still want to study accumulated effect of policy rate increases on household behavior
-- 10/15 10:34 [financialjuice] BOJ's Koeda: companies' financing conditions have generally stayed favorable
-- 10/15 10:35 [financialjuice] BoJ's Koeda: Neutral interest rate level is well above 1 percent, near lower bound of estimated range
-- 10/15 10:35 [financialjuice] BOJ’s Koeda: impact on long-term interest rates of changes in central bank government bond holdings may be smaller during reduction phase than active expansion phase
-- 10/15 10:36 [financialjuice] Boj's Koeda: underlying inflation has been about 2% over the past year or so
-- 10/15 10:36 [financialjuice] BOJ's Koeda: sustained price rises across various CPI items, change in price distribution indicates underlying inflation anchoring around 2%
-- 10/15 10:36 [financialjuice] BOJ's Koeda: sustained inflation appears to be taking stronger hold in Japan as wages have also risen steadily
-- 10/15 10:37 [financialjuice] BoJ's Koeda: central bank should adjust policy rate timely considering economic and price conditions, keeping estimated neutral rate range in mind
-- 10/15 10:37 [financialjuice] BOJ's Koeda: With significant upside risks to prices and ongoing loose financial conditions, BOJ should not be too cautious about raising policy interest rates
-- 10/15 10:38 [FirstSquawk] BOJ's Koeda: Yen Weakness, Robust Global AI Demand and Middle East Developments Pose Upside Risks to Prices.
-- 10/15 10:38 [FirstSquawk] BOJ's Koeda: Monitoring AI-Related Trade Flows, Including Both Exports and Imports, Will Be Important Going Forward.
-- 10/15 10:38 [FirstSquawk] BOJ's Koeda: Policymakers Must Assess Whether AI Investment Can Help Offset Labour Shortages and Boost Productivity When Evaluating the Monetary Policy Outlook.
-- 10/15 10:38 [FirstSquawk] BOJ's Koeda: The Impact of Policy Rate Changes on Financial Conditions, Economic Activity and Inflation Needs Careful Examination.
-- 10/15 10:38 [FirstSquawk] BOJ's Koeda: Japan's Overall Financial Conditions Remain Accommodative Despite Recent Interest Rate Increases.
-- 10/15 10:38 [financialjuice] BOJ’s Koeda: it is crucial for BOJ to continue calmly with normalization of its balance sheet
-- 10/15 10:38 [FirstSquawk] BOJ's Koeda: Recent Rate Hikes Are Not Necessarily Expected to Weigh on Aggregate Consumption Among Working-Age Households.
-- 10/15 10:38 [FirstSquawk] BOJ's Koeda: The Cumulative Effects of Interest Rate Increases on Household Spending Behaviour Require Further Assessment.
-- 10/15 10:38 [FirstSquawk] BOJ's Koeda: Corporate Financing Conditions Continue to Be Favourable Overall.
-- 10/15 10:38 [FirstSquawk] BOJ's Koeda: Japan's Neutral Interest Rate Is Considerably Higher Than 1%, Near the Lower End of the Current Estimate Range.
-- 10/15 10:39 [financialjuice] USD/KRW climbs 0.7%, not 1%: co
-- 10/15 10:40 [FirstSquawk] BOJ's Koeda: The Impact of Changes in Central Bank Government Bond Holdings on Long-Term Yields May Be Smaller During the Reduction Phase Than During Active Balance Sheet Expansion.
-- 10/15 10:40 [FirstSquawk] BOJ's Koeda: Underlying Inflation in Japan Has Remained Around 2% Overall Over the Past Year.
-- 10/15 10:40 [FirstSquawk] BOJ's Koeda: Broad-Based CPI Increases and Shifts in Price-Change Patterns Indicate That Underlying Inflation Is Becoming Firmly Anchored Near 2%.
-- 10/15 10:40 [FirstSquawk] BOJ's Koeda: Stable Wage Growth Suggests That Sustained Inflation Is Taking Hold in Japan More Firmly Than Before.
-- 10/15 10:40 [FirstSquawk] BOJ's Koeda: The BOJ Should Adjust Interest Rates in a Timely Manner Based on Economic and Price Developments, While Considering the Estimated Neutral Rate Range.
-- 10/15 10:40 [FirstSquawk] BOJ's Koeda: With Significant Upside Price Risks and Financial Conditions Remaining Accommodative, the BOJ Should Avoid Excessive Caution Over Further Rate Hikes.
-- 10/15 10:40 [FirstSquawk] BOJ's Koeda: Steady Progress in Normalizing the BOJ's Balance Sheet Remains Essential.
-- 10/15 10:48 [financialjuice] German Bund futures rise 0.65%; French OAT futures increase 0.76%
-- 10/15 10:49 [financialjuice] South Korea defense ministry spokesperson: shifting goalposts will make transfer of operational control to South Korea unfeasible
-- 10/15 10:54 [financialjuice] ECB's Santos Pereira: if winter resembles last year, natural gas prices will pose a problem
-- 10/15 10:54 [financialjuice] ECB's Santos Pereira: positive news is inflation is not spreading
-- 10/15 10:55 [financialjuice] ECB's Santos Pereira: If inflation widens, central banks will be compelled to respond
-- 10/15 10:58 [FirstSquawk] Global Technology Stocks Extend Losses as Asian Markets Come Under Pressure
-- 10/15 10:59 [FirstSquawk] Trump Says Iran Has Neither Effective Leadership Nor an Air Force or Navy- AlArabiya_Brk
-- 10/15 11:03 [FirstSquawk] US Treasury Yields Decline, With the 2-Year Yield Down 8 BPS to 4.7235% and the 30-Year Yield Lower by 6 BPS to 5.4595%
-- 10/15 11:04 [financialjuice] China, North Korea hold inauguration for new Yalu River bridge: Xinhua
-- 10/15 11:05 [FirstSquawk] UBS Considers Shifting Headquarters Abroad if Swiss Lawmakers Advance Stricter Capital Requirements, WSJ Says
-- 10/15 11:05 [FirstSquawk] WSJ: UBS Weighs US Acquisition, European Merger or Sale to an American Financial Firm
-- 10/15 11:06 [FirstSquawk] China and North Korea Mark Opening of New Bridge Across the Yalu River, Xinhua Reports
-- 10/15 11:07 [FirstSquawk] Xinhua: China’s Supreme People’s Procuratorate Arrests Former Chengdu Mayor Wang Fengchao Over Suspected Bribery
-- 10/15 11:13 [FirstSquawk] North Korea Says Submarine-Launched Cruise Missile Tests Were Conducted on Wednesday
-- 10/15 11:13 [financialjuice] Euro last up 0.63% at $1.1228
-- 10/15 11:14 [FirstSquawk] Euro Strengthens 0.63% Against the US Dollar to $1.1228
-- 10/15 11:17 [financialjuice] ECB's Santos Pereira: Growth exceeds expectations, wouldn't be surprised if it persists in coming months
-- 10/15 11:17 [FirstSquawk] ECB’s Santos Pereira Sees Scope for Growth to Continue Surprising on the Upside in the Coming Months
-- 10/15 11:19 [FirstSquawk] New Zealand Dollar Strengthens 0.61% Against the US Dollar to $0.56275
-- 10/15 11:22 [FirstSquawk] IMF Official Highlights Uneven AI Gains Across Asia, With South Korea Benefiting Most and Japan Seeing Smaller Benefits
-- 10/15 11:24 [FirstSquawk] US Dollar Falls 0.66% Against Swiss Franc to 0.8293
-- 10/15 11:25 [FirstSquawk] IMF Official: China’s Economic Growth Is Largely Driven by External Demand Amid Persistently Weak Domestic Demand
-- 10/15 11:26 [FirstSquawk] IMF Official Welcomes China’s Fiscal Support for the Economy but Says Its Scale and Scope Remain Limited
-- 10/15 11:26 [FirstSquawk] IMF Official Calls for Substantially Greater Fiscal Stimulus in China as the Economy Edges Toward Deflation
-- 10/15 11:31 [FirstSquawk] IMF Official Says Exchange Rates Should Not Be Seen as a Measure of Economic Success or Failure, Responding to India’s Strong Growth and Currency Weakness
-- 10/15 11:42 [FirstSquawk] South Korea’s Stock Market Extends Its Downturn as AI-Related Concerns and US Inflation Risks Remain in Focus
-- 10/15 11:50 [financialjuice] ByteDance in talks to obtain MediaTek AI chips for data centers
-- 10/15 11:51 [FirstSquawk] Singapore Dollar Strengthens as Falling U.S. Yields Weigh on the Greenback - WSJ
-- 10/15 11:54 [financialjuice] Japan Prime Minister Takaichi: No evidence of espionage in Russia
-- 10/15 11:54 [FirstSquawk] Takaichi Says Japan Is Not Conducting Espionage in Russia
-- 10/15 11:59 [FirstSquawk] European Stock Futures Decline, With Euro Stoxx 50 Down 1.0%, DAX Off 0.8% and FTSE Lower 0.2%
-- 10/15 12:00 [FirstSquawk] Nasdaq Futures Extend Drop to 1.1%, While S&P 500 Futures Slip 0.4%
-- 10/15 12:00 [financialjuice] S. Korea Aug L-money supply rises 7.2% y/y vs 8.1% in Jul: central bank
-- 10/15 12:00 [financialjuice] S.Korea September bank lending to households net 0.6 trillion won vs 3.5 trillion won in August: central bank
-- 10/15 12:10 [FirstSquawk] Guggenheim Cuts Johnson & Johnson’s Price Target to $281 From $287
-- 10/15 12:23 [FirstSquawk] North Korea Could Strengthen Drone Capabilities Through Workers at Russian Factory, Think Tank Says
-- 10/15 12:31 [FirstSquawk] Nikkei Average Extends Losses, Falling 5%
-- 10/15 12:40 [FirstSquawk] KOSPI Trading Suspended for 20 Minutes as South Korean Stocks Tumble 8%
-- 10/15 12:51 [FirstSquawk] RBC Lowers Morgan Stanley Target Price by $48 to $195
-- 10/15 12:52 [FirstSquawk] Jefferies Upgrades Standard Chartered’s Price Target to 3,040p, Up From 2,250p
-- 10/15 12:56 [financialjuice] S.Korea August M2 money supply rises 5.6% y/y vs 5.8% in July: central bank
-- 10/15 12:56 [financialjuice] China Premier Li Qiang delivers video speech at opening of new Yalu River Bridge - Xinhua
-- 10/15 12:57 [FirstSquawk] Chinese Premier Li Qiang Gives Video Address at Ceremony Marking Opening of New Yalu River Bridge
-- 10/15 12:57 [financialjuice] China Premier Li Qiang: new Yalu river bridge opening to boost economic, trade ties and enhance personnel exchanges - Xinhua
-- 10/15 12:57 [FirstSquawk] Chinese Premier Li Qiang Says New Yalu River Bridge Will Deepen Economic and Trade Ties and Expand People-to-People Contact
-- 10/15 12:58 [financialjuice] China Premier Li Qiang on new Yalu River bridge: hopes both sides use chance to improve border clearance, boost connectivity and explore cooperation potential in border regions
-- 10/15 12:58 [financialjuice] North Korean premier also gives video address: Xinhua
-- 10/15 13:00 [FirstSquawk] BoE Chief Economist Pill Warns Against Signalling a Series of Rate Hikes if Rates Rise Now
-- 10/15 13:00 [FirstSquawk] China’s Li Qiang Calls for Better Border Clearance and Stronger Connectivity to Unlock Cooperation Potential
-- 10/15 13:02 [FirstSquawk] Zelenskyy Signals Resumption of Ukrainian Strikes on Russian Refining Facilities, FT Says
-- 10/15 13:03 [financialjuice] Ukraine to restart attacks on Russian refineries: Zelenskyy - FT
-- 10/15 13:04 [financialjuice] US considering deploying ‘mother of all bombs’ against Iran: CNN
-- 10/15 13:05 [FirstSquawk] US Considers Deploying ‘Mother of All Bombs’ in Iran, CNN Reports
-- 10/15 13:05 [FirstSquawk] US CONSIDERING USING ‘MOTHER OF ALL BOMBS’ AGAINST IRAN, SOURCES SAY - CNN
-- 10/15 13:27 [FirstSquawk] European Automakers Bet on Nostalgia as Chinese EV Competition Intensifies, FT Says
-- 10/15 13:27 [FirstSquawk] Iran War Windfall Leaves Oil Majors Facing a $32 Billion Dilemma, FT Says
-- 10/15 13:30 [financialjuice] DUTCH UNEMPLOYMENT RATE SA ACTUAL 4% (FORECAST -, PREVIOUS 4.0%) $MACRO
-- 10/15 13:30 [financialjuice] Imf official: middle east war causes highly uneven economic shock across region, severe strain on directly affected states
-- 10/15 13:30 [financialjuice] IMF official: biggest risk is prolonged conflict
-- 10/15 13:30 [financialjuice] IMF: Pre-war surpluses, alternative paths and demand shifts helped mitigate oil output shock, but cushions are limited
-- 10/15 13:30 [financialjuice] IMF urges countries to rebuild buffers, prioritize price stability, tighter monetary policies and prudent fiscal measures
-- 10/15 13:30 [financialjuice] IMF: inventories are lower, spare capacity tighter, fresh disruption could trigger bigger price shifts
-- 10/15 13:30 [financialjuice] IMF: predicts 1.3% shrinkage in Middle East, North Africa and Pakistan area in 2026 vs 3.3% expansion in 2025
-- 10/15 13:30 [financialjuice] IMF: oil exporters hit by war to face sharp contraction in 2026, rebound in 2027, but output stays below pre-war forecasts
-- 10/15 13:30 [financialjuice] JAPANESE CAPACITY UTILIZATION MOM ACTUAL -4.2% (FORECAST -, PREVIOUS 0.5%) $MACRO
-- 10/15 13:30 [financialjuice] IMF: robust but uneven recovery forecast in Middle East, North Africa and Pakistan region by 2027, growth to reach 6.6%
-- 10/15 13:31 [FirstSquawk] JAPAN (AUG) CAPACITY UTILIZATION MOM ACTUAL: -4.2% VS 0.5%
-- 10/15 13:31 [FirstSquawk] JAPAN (AUG) INDUSTRIAL PRODUCTION MOM ACTUAL: -2.4% VS -1.7%
-- 10/15 13:31 [FirstSquawk] JAPAN (AUG) INDUSTRIAL PRODUCTION YOY ACTUAL: 2.7% VS 3.4%
-- 10/15 13:36 [financialjuice] Russian military strikes two shipments heading to Ukraine's Odesa port: Interfax quotes defense ministry
-- 10/15 13:36 [FirstSquawk] Russia Hits Two Cargoes En Route to Ukraine’s Odesa Port, Defence Ministry Says, Interfax Reports
-- 10/15 13:37 [FirstSquawk] Russia’s Military Launches Strike on Ukraine’s Izmail Port, TASS Reports, Citing Defence Ministry
-- 10/15 13:43 [financialjuice] Gabon secures $580 million eurobond with 8-year term, 9.375% coupon; order book almost doubles to $1 billion - finance ministry
-- 10/15 13:47 [FirstSquawk] IMF Official Expects Middle East Trade and Shipping to Return to Normal in Q1 2027, While Oil Prices Stay Higher
-- 10/15 13:47 [FirstSquawk] IMF Official Says Downside Risks Dominate the Economic Outlook
 - 10/15 13:49 [FirstSquawk] IMF Official Says War Will Have Lasting Effects on Various Sectors Across the Middle East
 - 10/15 13:59 [FirstSquawk] German Finance Minister Klingbeil Says Aid for Ukraine Comes With Expectations for Political Reforms
 - 10/15 14:14 [financialjuice] ❗ FRENCH CPI MOM NSA ACTUAL -0.3% (FORECAST -0.3%, PREVIOUS 0.3%) $MACRO
@@ -281,7 +113,7 @@
 - 10/15 16:24 [FirstSquawk] SIRENS SOUND, EXPLOSIONS HEARD IN SAUDI ARABIA'S NAJRAN AND JAZAN - SABREN NEWS
 - 10/15 16:27 [FirstSquawk] SWEDEN PM KRISTERSSON EU BUDGET PROPOSAL 'NOT EVEN A STARTIN POINT'; CURRENT PORPOSAL SIMPLY NOT ACCEPTABLE; NOT IN A HURRY TO FIND AGREEMENT ON EU BUDGET
 - 10/15 16:27 [FirstSquawk] KRISTERSSON: NOT SURE IF WE FIND AGREEMENT BEFORE END OF YEAR; US-RUSSIA DEAL ON DIESEL GOES IN WRONG DIRECTION;
-- 10/15 16:28 [FirstSquawk] SAUDI ARABIA: DANGER HAS PASSED IN NAJRAN
+- 10/15 16:28 [FirstSquawk/financialjuice] SAUDI ARABIA: DANGER HAS PASSED IN NAJRAN
 - 10/15 16:28 [FirstSquawk] SAUDI ARABIA: DANGER HAS PASSED IN JAZAN CITY
 - 10/15 16:58 [FirstSquawk] GERMANY'S 10-YEAR GOVT BOND YIELD HITS LOWEST SINCE SEPT 9 AT 3.3819%, LAST DOWN 8.5 BPS
 - 10/15 17:00 [financialjuice] ECB's Kazaks: Inflationary forces still stronger in immediate future.
@@ -388,3 +220,167 @@
 - 10/15 20:52 [FirstSquawk] TRUMP SAID HE MAY SUPPORT FEDERAL DIESEL TAX SUSPENSION
 - 10/15 20:52 [financialjuice] Trump: May support a federal diesel tax suspension
 - 10/15 20:56 [financialjuice] Morning Juice – US Session Prep (15th October)
+- 10/15 21:04 [FirstSquawk] Prologis Q3 26 Earnings: - Core FFO Per Share: $1.60 (est $1.57) - EPS: $0.86 ($1.58) - Net Income: $816M (est $789.3M) - Sees FY Adjusted FFO Per Share: $6.25 To $6.29 - Sees FY EPS: $4.05 To $4.15 (prior $4.40 To $4.55)
+- 10/15 21:05 [financialjuice] Poll: The UK Government's current fiscal headroom likely eroded to £10-12 billion.
+- 10/15 21:05 [DeItaone] UBS NOW EXPECTS THIRD FED RATE HIKE IN MARCH 2027 UBS has revised its Fed outlook after September inflation came in hotter than expected, with headline CPI reaching 3.7% YoY. The bank now expects three rate hikes in total: September and Dec…
+- 10/15 21:05 [financialjuice] China's Lan: China to implement more active fiscal policy
+- 10/15 21:06 [DeItaone] YARDENI CUTS S&P 500 TARGET TO 7,900 AS MARKET RISKS RISE Yardeni Research lowered its year-end S&P 500 target to 7,900 from 8,400, warning that investor caution could push stock valuations lower. The firm remains bullish on earnings, forec…
+- 10/15 21:07 [financialjuice] China's MoF Lan: The Chinese economy continues stable, positive trend.
+- 10/15 21:07 [financialjuice] China's MoF Lan: Protectionism, geopolitical risks hit growth.
+- 10/15 21:08 [FirstSquawk] GTCR, ELLIOTT TO BUY CCC INTELLIGENT FOR $7.75/SHR IN CASH
+- 10/15 21:23 [DeItaone] U.S. ECONOMIC DATA DUE IN 10 MINUTES 8:30 AM ET | 2:30 PM Paris Time Four major U.S. economic reports are about to be released: 🔸 September PPI: +0.6% expected 🔸 Core PPI: +0.3% expected 🔸 September Retail Sales: +0.4% expected 🔸 Retail Sal…
+- 10/15 21:25 [financialjuice] ❗ US tells IEA nations it’s unhappy with emergency oil release, and has suggested supplementing oil release with extra 100mln bbl.
+- 10/15 21:25 [FirstSquawk] US TELLS IEA NATIONS IT’S UNHAPPY WITH EMERGENCY OIL RELEASE
+- 10/15 21:25 [FirstSquawk] US HAS SUGGESTED SUPPLEMENTING OIL RELEASE WITH EXTRA 100M BBL
+- 10/15 21:26 [DeItaone] US TELLS IEA NATIONS IT’S UNHAPPY WITH EMERGENCY OIL RELEASE US HAS SUGGESTED SUPPLEMENTING OIL RELEASE WITH EXTRA 100M BBL
+- 10/15 21:30 [FirstSquawk] US INITIAL JOBLESS CLAIMS ACTUAL: 199K VS 197K PREVIOUS; EST 200K
+- 10/15 21:30 [financialjuice] ❗ US RETAIL SALES MOM ACTUAL 0.8% (FORECAST 0.3%, PREVIOUS 1.2%) $MACRO
+- 10/15 21:30 [financialjuice] NY FED MANUFACTURING ACTUAL 25.5 (FORECAST 12, PREVIOUS 7.60) $MACRO
+- 10/15 21:30 [financialjuice] US CORE RETAIL SALES MOM ACTUAL 0.9% (FORECAST 0.5%, PREVIOUS 1.4%) $MACRO
+- 10/15 21:30 [DeItaone] US Jobless Claims +1K To 199K In Oct-10 Wk; Survey 200K US Oct-3 Week Continuing Claims -4K to 1,710,000 US Oct-3 Week Jobless Claims Revised to 198K
+- 10/15 21:30 [financialjuice] ❗ US INITIAL JOBLESS CLAIMS ACTUAL 199K (FORECAST 200K, PREVIOUS 197K) $MACRO
+- 10/15 21:30 [financialjuice] US CONTINUED JOBLESS CLAIMS ACTUAL 1.71M (FORECAST 1.709M, PREVIOUS 1.716M) $MACRO
+- 10/15 21:30 [financialjuice] CANADIAN WHOLESALE SALES MOM ACTUAL -1.6% (FORECAST -1.5%, PREVIOUS 0.3%) $MACRO
+- 10/15 21:30 [financialjuice] ‼ BREAKING: US PPI YOY ACTUAL 6.3% (FORECAST 5.4%, PREVIOUS 5.4%) $MACRO
+- 10/15 21:30 [FirstSquawk] US RETAIL SALES (MOM) (SEP) ACTUAL: 0.8% VS 1.2% PREVIOUS; EST 0.3%
+- 10/15 21:30 [financialjuice] ❗ US PPI MOM ACTUAL 1.3% (FORECAST 0.6%, PREVIOUS 0.4%) $MACRO
+- 10/15 21:30 [financialjuice] CANADIAN MANUFACTURING SALES MOM ACTUAL 1.5% (FORECAST 1.1%, PREVIOUS -0.4%) $MACRO
+- 10/15 21:30 [FirstSquawk] US PPI (MOM) (SEP) ACTUAL: 1.3% VS 0.4% PREVIOUS; EST 0.6%
+- 10/15 21:31 [FirstSquawk] US PHILADELPHIA FED MANUFACTURING INDEX (OCT) ACTUAL: 20.9 VS 37.8 PREVIOUS; EST 28.0
+- 10/15 21:31 [financialjuice] US PHILLY FED BUSINESS INDEX ACTUAL 20.9 (FORECAST 28, PREVIOUS 37.8) $MACRO
+- 10/15 21:31 [financialjuice] ❗ US CORE PPI YOY ACTUAL 5% (FORECAST 4.4%, PREVIOUS 4.6%) $MACRO
+- 10/15 21:31 [financialjuice] ❗ US CORE PPI MOM ACTUAL 0.7% (FORECAST 0.3%, PREVIOUS 0.2%) $MACRO
+- 10/15 21:31 [financialjuice] US Retail Sales September Report
+- 10/15 21:32 [DeItaone] *US SEPT. PRODUCER PRICES RISE 6.3% Y/Y; EST. +5.4% *US SEPT. PRODUCER PRICES RISE 1.3% M/M; EST. +0.6% *US SEPT. RETAIL SALES RISE 0.8% M/M; EST. +0.3%
+- 10/15 21:32 [financialjuice] US PPI September Report
+- 10/15 21:32 [FirstSquawk] US CONTINUING JOBLESS CLAIMS ACTUAL: 1710K VS 1716K PREVIOUS; EST 1709K
+- 10/15 21:33 [financialjuice] New York Fed manufacturing October Report
+- 10/15 21:34 [financialjuice] Canadian Manufacturing report August Report
+- 10/15 21:36 [financialjuice] Japan's Fin. Min. Katayama: G20 reaffirmed past commitments on foreign exchange
+- 10/15 21:37 [financialjuice] US RETAIL SALES YOY ACTUAL 6.29% (FORECAST -, PREVIOUS 6.01% ,REVISION 5.36%) $MACRO
+- 10/15 21:37 [financialjuice] Japan's Fin. Min. Katayama to G20: We need to monitor mkt moves with high urgency.
+- 10/15 21:39 [DeItaone] U.S. ECONOMIC DATA — OCTOBER 15, 2026 INFLATION — SEPTEMBER PPI 🔸 Headline PPI MoM: +1.3% (Est. +0.6%) 🔸 Headline PPI YoY: +6.3% (Est. +5.4%) 🔸 Core PPI MoM: +0.7% (Est. +0.3%) 🔸 Core PPI YoY: +5.0% (Est. +4.4%) 🔸 PPI Ex-Food, Energy & Trad…
+- 10/15 21:41 [DeItaone] IRAN'S ARMY NAVY SAYS A 'VIOLATING' OIL TANKER IS ON FIRE IN THE EASTERN PART OF THE STRAIT OF HORMUZ - STATE MEDIA
+- 10/15 21:41 [FirstSquawk] IRAN'S ARMY NAVY SAYS A 'VIOLATING' OIL TANKER IS ON FIRE IN THE EASTERN PART OF THE STRAIT OF HORMUZ
+- 10/15 21:41 [financialjuice] Iran's army navy: A 'violating' oil tanker is on fire in the eastern part of the Strait of Hormuz - State media
+- 10/15 21:41 [financialjuice] Japan's Fin. Min. Katayama: G7 agreed to do tabletop exercise on AI incidents.
+- 10/15 21:43 [DeItaone] $AAPL - KEYBANC REITERATES SELL-BIASED RATING ON APPLE DESPITE STRONG IPHONE 18 DEMAND KeyBanc maintains its Underweight rating on Apple with a $250 price target. September hardware spending surged 44% month-over-month, far above the three-…
+- 10/15 21:43 [financialjuice] US Treasury dismisses IMF debt warning and ‘messy’ forecasting - CNBC.
+- 10/15 21:45 [DeItaone] IRAN REPORTS ANOTHER OIL TANKER ON FIRE NEAR STRAIT OF HORMUZ Iranian state-linked media report that naval patrols discovered an oil tanker on fire in a restricted area near the eastern Strait of Hormuz. Iran's Navy claims the tanker had di…
+- 10/15 21:50 [financialjuice] UK 30-year gilt yield on track for biggest daily fall since April, down 13 bps to 5.781% amid global rally
+- 10/15 21:51 [DeItaone/FirstSquawk] FRANCE IS STARTING TO PUT INTO ACTION OPERATIONAL ELEMENTS OF AGREEMENT TO HELP PROTECT SAUDI ARABIAN OIL FACILITIES - FOREIGN MINISTRY SPOKESPERSON
+- 10/15 21:52 [financialjuice] France is starting to put into action operational elements of the agreement to help protect Saudi Arabian oil facilities - Foreign Ministry Spokesperson.
+- 10/15 21:56 [DeItaone] US 10yr Yield falls over 28bps since Yesterday
+- 10/15 22:00 [financialjuice] Effective fed funds rate 3.88% October 14th vs 3.88% October 13th
+- 10/15 22:01 [DeItaone] DAN IVES CALLS AI STOCK SELLOFF A CLEAR BUYING OPPORTUNITY Dan Ives says the sharp declines in CoreWeave ($CRWV ), IREN ($IREN ) and Nebius ($NBIS ) represent buying opportunities rather than warning signs. Despite rising borrowing costs, I…
+- 10/15 22:09 [financialjuice] WEF could appoint Lagarde next chair as early as November.
+- 10/15 22:09 [FirstSquawk] SUPER MICRO NAMES MARK LONG AS CFO SUCCEEDING DAVID WEIGAND
+- 10/15 22:14 [DeItaone] LAGARDE COULD LEAVE ECB EARLY TO LEAD WORLD ECONOMIC FORUM The World Economic Forum could appoint ECB President Christine Lagarde as its next chair as early as November 2. If appointed, Lagarde could leave the ECB before her term expires in…
+- 10/15 22:15 [financialjuice] Saudi-led coalition: Houthis have acquired advanced weaponry
+- 10/15 22:16 [financialjuice] Saudi-led Coalition: Yemen's Houthis attempted to attack dozens of airports, oil facilities and ports in Saudi Arabia.
+- 10/15 22:18 [FirstSquawk] SAUDI-LED COALITION SAYS IT DESTROYED MORE THAN 120 ARMS DEPOTS IN YEMEN'S MOUNTAINS AND MANY LAUNCHERS
+- 10/15 22:22 [financialjuice] Saudi-Led Coalition: There were 20 Houthi attacks on Riyadh Airport in October that resulted in 17 fatalities.
+- 10/15 22:24 [DeItaone] HOT INFLATION DATA POINT TO ANOTHER FED RATE HIKE IN DECEMBER Northlight Asset Management's Chris Zaccarelli expects the Fed to raise interest rates by 25 basis points in December, following another hotter-than-expected inflation report. He…
+- 10/15 22:27 [financialjuice] Chinese State Trader buys another 10-13 US soybean cargoes Wednesday night for December-March shipment - Traders.
+- 10/15 22:27 [DeItaone] $TSLA - TESLA TO UNVEIL NEW ROADSTER — FLIGHT CAPABILITY REMAINS UNCONFIRMED Tesla is preparing to unveil its long-awaited next-generation Roadster today at a SpaceX testing facility in Texas. Elon Musk has hinted that the vehicle could fea…
+- 10/15 22:30 [DeItaone] U.S. STOCKS EXTEND FALL, NASDAQ DOWN 1.29%
+- 10/15 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: 101.4 MLN NASDAQ 100: -14.2 MLN DOW 30: -14.7 MLN MAG 7: -1.8 MLN $MACRO
+- 10/15 22:31 [DeItaone] SHARES OF NEOCLOUD FIRMS DROP $CRWV - COREWEAVE DOWN 7.1% $NBIS - NEBIUS OFF 6.7%
+- 10/15 22:31 [FirstSquawk] DOW JONES UP 269.71 POINTS, OR 0.52 PERCENT, AT 51,891.19 AFTER MARKET OPEN S&P 500 DOWN 35.06 POINTS, OR 0.45 PERCENT, AT 7,683.88 AFTER MARKET OPEN NASDAQ DOWN 343.22 POINTS, OR 1.29 PERCENT, AT 26,349.65 AFTER MARKET OPEN
+- 10/15 22:33 [DeItaone] SHARES OF US CHIP-RELATED COMPANIES FALL NVIDIA DOWN 3% AMD FALLS 5% INTEL DOWN 5.9% MARVELL TECHNOLOGY OFF 5.5%
+- 10/15 22:35 [DeItaone] PHILADELPHIA SEMICONDUCTOR INDEX HITS LOWEST IN NEARLY A MONTH, LAST DOWN 3.6%
+- 10/15 22:37 [FirstSquawk] IRAN TELLS HEZBOLLAH TO INCREASE READINESS, PREPARE FOR POTENTIAL CONFLICT
+- 10/15 22:38 [DeItaone] PHILADELPHIA CHIP INDEX SET TO ERASE MORE THAN $2 TRILLION IN MARKET VALUE IN SEVEN SESSION FALL
+- 10/15 22:39 [DeItaone] TRUMP TASK FORCE ON AI TO MEET THURSDAY - FTC SPOKESMAN
+- 10/15 22:40 [DeItaone/FirstSquawk] *IEA AGREES TO COMPLETE RELEASE OF OUTSTANDING 100M BBL OF OIL
+- 10/15 22:40 [financialjuice] ❗ IEA agrees to complete the release of the outstanding 100m bbl of oil.
+- 10/15 22:40 [financialjuice/DeItaone/FirstSquawk] IEA seeks to release 20m bbl of diesel as soon as possible.
+- 10/15 22:42 [FirstSquawk] IEA SAYS OIL RELEASE ANNOUNCED IN MARCH TO EXCEED 400M BARRELS
+- 10/15 22:42 [financialjuice] IEA: The oil release announced in March is going to exceed 400 mln barrels.
+- 10/15 22:42 [financialjuice] IEA Nations are willing to take further action in the global markets.
+- 10/15 22:43 [financialjuice] IEA's Governing Board: Approximately 330 million barrels have so far been released.
+- 10/15 22:43 [financialjuice] IEA Governing Board reaffirmed commitment to continue delivering on the March 2026 collective action in response to the Strait of Hormuz crisis.
+- 10/15 22:44 [financialjuice] IEA Governing Board agreed to accelerate the release of the remaining volumes.
+- 10/15 22:44 [financialjuice] IEA Governing Board encouraged those IEA members holding oil production and refining capacities to boost the supply of crude and refined products, particularly diesel.
+- 10/15 22:44 [DeItaone] *IEA SAYS OIL RELEASE ANNOUNCED IN MARCH TO EXCEED 400M BARRELS *IEA NATIONS WILLING TO TAKE FURTHER ACTION IN GLOBAL MARKETS
+- 10/15 22:44 [financialjuice] IEA Governing Board: Accelerated IEA release includes over 20 million barrels of diesel as soon as possible.
+- 10/15 22:45 [DeItaone] IEA TO ACCELERATE OIL RESERVE RELEASES AS DIESEL SUPPLY TIGHTENS The International Energy Agency warns that global oil markets remain tight, particularly for diesel, amid the Strait of Hormuz crisis. 330 million barrels of emergency reserve…
+- 10/15 22:47 [FirstSquawk] IEA GOVERNING BOARD EXPRESSES READINESS TO TAKE MORE STEPS TO TACKLE GLOBAL ENERGY MARKET CHALLENGES.
+- 10/15 22:47 [FirstSquawk] IEA BOARD CONFIRMS CONTINUED SUPPORT FOR MARCH 2026 COLLECTIVE ACTION REGARDING THE STRAIT OF HORMUZ CRISIS.
+- 10/15 22:47 [FirstSquawk] IEA'S GOVERNING BOARD ANNOUNCED THAT THE TOTAL STOCKS TO BE RELEASED WILL BE MORE THAN 400 MILLION BARRELS.
+- 10/15 22:47 [FirstSquawk] IEA GOVERNING BOARD DECIDED TO SPEED UP THE RELEASE OF THE LAST REMAINING VOLUMES.
+- 10/15 22:47 [FirstSquawk] IEA'S GOVERNING BOARD URGES MEMBER COUNTRIES WITH OIL PRODUCTION AND REFINING ABILITIES TO INCREASE SUPPLY OF CRUDE AND REFINED PRODUCTS, ESPECIALLY DIESEL.
+- 10/15 22:47 [FirstSquawk] IEA GOVERNING BOARD ANNOUNCES FAST-TRACKED RELEASE OF OVER 20 MILLION BARRELS OF DIESEL.
+- 10/15 22:47 [FirstSquawk] IEA CONFIRMS 330 MILLION BARRELS RELEASED, PROMISES ACTION ON 100 MILLION MORE SOON.
+- 10/15 22:50 [FirstSquawk] IEA SAYS ITS BOARD ACKNOWLEDGED THAT APPROXIMATELY 330 MILLION BARRELS HAVE SO FAR BEEN RELEASED AND AGREED TO TAKE ALL NECESSARY STEPS TO COMPLETE THE REMAINING RELEASES OF AROUND 100 MILLION BARRELS IN A TIMELY MANNER
+- 10/15 22:50 [FirstSquawk] IEA GOVERNING BOARD: ENCOURAGED THOSE IEA MEMBERS HOLDING OIL PRODUCTION AND REFINING CAPACITIES TO BOOST SUPPLY OF CRUDE AND REFINED PRODUCTS, PARTICULARLY DIESEL
+- 10/15 23:00 [financialjuice] US BUSINESS INVENTORIES MOM ACTUAL 0.4% (FORECAST 0.4%, PREVIOUS 0.8%) $MACRO
+- 10/15 23:01 [financialjuice] US Business Inventories August 2026 Report
+- 10/15 23:03 [DeItaone] FOUR BOOMS HEARD IN VICINITY OF PRESIDENTIAL PALACE IN YEMEN'S ADEN - THREE WITNESSES TELL REUTERS
+- 10/15 23:04 [financialjuice] Four booms heard in vicinity of the Presidential Palace in Yemen's Aden - Three Witnesses.
+- 10/15 23:04 [financialjuice] Yemen's Houthis renew warning to airlines that Saudi airspace and airports are unsafe.
+- 10/15 23:07 [DeItaone] TRUMP: EXECUTION EVENT WILL NOT BE STREAMED
+- 10/15 23:08 [DeItaone] *TREASURY 5- AND 7-YEAR YIELDS FALL 15 BASIS POINTS ON DAY
+- 10/15 23:08 [FirstSquawk] TRUMP ON TRUTH SOCIAL: Nidal Malik Hasan, a former U.S. Army Major turned traitor, is a very bad and evil man, who killed 13 people, including a pregnant soldier, who died, along with her unborn son, and injured, very seriously, 32 more inn…
+- 10/15 23:09 [FirstSquawk] YEMEN'S HOUTHIS RENEW WARNING TO AIRLINES THAT SAUDI AIRSPACE, AIRPORTS ARE UNSAFE
+- 10/15 23:09 [DeItaone] TRUMP SAYS FORT HOOD ATTACKER WILL BE EXECUTED BY FIRING SQUAD — NO LIVESTREAM President Donald Trump says Nidal Malik Hasan, the former U.S. Army major convicted of killing 13 people and wounding 32 others in the 2009 Fort Hood shooting, w…
+- 10/15 23:12 [FirstSquawk] FRANCE AND GERMANY TO ALLOW UK IN EU CAR POLICY IF IT ALIGNS ON CHINA TARIFFS - FT
+- 10/15 23:17 [financialjuice] Fear and Greed Index: 23/100 = Extreme Fear
+- 10/15 23:18 [financialjuice] Crypto Fear and Greed Index: 53/100 = Neutral
+- 10/15 23:19 [DeItaone] $CRWV - COREWEAVE SHARES FALL TO LOWEST SINCE MAY 2025, LAST DOWN 8.3% AT $60.36
+- 10/15 23:22 [DeItaone] U.S. CONSIDERS USING “MOTHER OF ALL BOMBS” AGAINST IRAN The Pentagon has reportedly developed new strike plans targeting Iranian energy infrastructure and nuclear facilities, potentially involving the GBU-43/B MOAB, America's largest non-nu…
+- 10/15 23:26 [FirstSquawk] ANGLO AMERICAN CHIEF SAYS TECH GIANTS EYE STAKES TO SECURE METALS SUPPLY - FT
+- 10/15 23:27 [financialjuice] Houthis fire several missiles at the Presidential Palace complex in Yemen's Aden - Two Government Officials.
+- 10/15 23:29 [DeItaone/financialjuice/FirstSquawk] *EU BEGINS ASSESSING ADDITIONAL SECTORS FOR CHINA TRADE QUOTAS
+- 10/15 23:30 [financialjuice] EIA NATURAL GAS CHANGE BCF ACTUAL 67B (FORECAST 74B, PREVIOUS 85B) $MACRO
+- 10/15 23:30 [FirstSquawk] US NATURAL GAS STORAGE ACTUAL: 67 VS 85 PREVIOUS; EST 75
+- 10/15 23:31 [financialjuice] US EIA Weekly Natural Gas Storage Report
+- 10/15 23:31 [DeItaone] UKRAINE REPORTEDLY RUNS OUT OF PATRIOT MISSILES Ukraine has exhausted its supply of U.S.-made Patriot interceptors, according to a CNN source. The shortage leaves the country more vulnerable to Russian ballistic missile attacks. The report …
+- 10/15 23:37 [FirstSquawk] UKRAINE RUNS OUT OF US-MADE PATRIOT AIR DEFENSE MISSILES - CNN
+- 10/15 23:42 [FirstSquawk] NATO’S RUTTE, UKRAINE’S ZELENSKIY DISCUSSED IMPORTANCE OF ENERGY CEASEFIRE
+- 10/15 23:47 [financialjuice] Tasnim News citing AFP: Yemen rejected Saudi Arabia's request for talks in Oman.
+- 10/15 23:49 [FirstSquawk] GERMAN GOVT PLANS AI PARTNERSHIP WITH NVIDIA TO BOOST INDUSTRY - HANDELSBLATT
+- 10/15 23:51 [financialjuice] German Government to collaborate with NVIDIA on AI - Handelsblatt. $NVDA
+- 10/15 23:54 [FirstSquawk] UBS CUTS KIMBERLY-CLARK PRICE TARGET TO $106 FROM $116
+- 10/15 23:57 [FirstSquawk/financialjuice] SAUDI ARABIA ISSUES EARLY WARNING ALERT FOR POTENTIAL THREAT IN NAJRAN -CIVIL DEFENSE
+- 10/15 23:57 [DeItaone] GERMANY PLANS MAJOR AI PARTNERSHIP WITH NVIDIA — HANDELSBLATT German Chancellor Friedrich Merz is preparing a major AI partnership with Nvidia ($NVDA ), backed by hundreds of millions of euros in government funding. The initiative aims to a…
+- 10/16 00:01 [financialjuice] US Treasury Auction Schedule US to sell $95 bln of 3-Month Bills on October 19, to settle on October 22 US to sell $82 bln of 6-Month Bills on October 19, to settle on October 22 US to sell $13 bln of reopened 20-Year Bonds on October 21, t…
+- 10/16 00:02 [financialjuice] Yemen's Houthis: The strike on 'Saudi Military operations HQ’ in Aden was part of a policy of targeting Saudi reinforcements.
+- 10/16 00:05 [financialjuice] Nvidia Releases Nemotron 3.5 Super VL, a 120-Billion-Parameter Open Agentic AI Model $NVDA Nvidia launches Nemotron 3.5 Super VL, expanding its portfolio of open AI models Nvidia: New model features 120 billion parameters and is designed fo…
+- 10/16 00:10 [financialjuice] Nvidia CEO Huang: No Need to Backstop CoreWeave $NVDA $CRWV
+- 10/16 00:10 [FirstSquawk/DeItaone] HUANG SAYS NVIDIA DOESN'T NEED TO BACKSTOP COREWEAVE
+- 10/16 00:13 [DeItaone] $CRWV - HUANG: COREWEAVE'S COST OF CAPITAL IS `ACTUALLY DECREASING'
+- 10/16 00:13 [DeItaone] HUANG: `COREWEAVE'S STRENGTH IS IMPROVING EVERY DAY'
+- 10/16 00:15 [financialjuice] Fed bids for 4-week bills total $7.4 bln.
+- 10/16 00:17 [FirstSquawk] RUSSIAN DEFENCE MINISTRY: A VESSEL DELIVERING MILITARY AND DUAL-USE CARGO TO THE PORT OF ODESSA WAS DAMAGED - IFX
+- 10/16 00:19 [DeItaone] ZELENSKYY: RUSSIA LAUNCHED NEARLY 1,000 DRONES AS UKRAINE SEEKS MORE AIR DEFENSE President Zelenskyy says Russia has launched nearly 1,000 drones since yesterday, alongside multiple waves of ballistic missile strikes targeting Ukrainian inf…
+- 10/16 00:25 [financialjuice/DeItaone/FirstSquawk] ECB Officials get impatient for Lagarde to clear up her plans
+- 10/16 00:32 [financialjuice] US 4-WEEK BILL HIGH YIELD ACTUAL 4% (FORECAST -, PREVIOUS 3.980%) $MACRO
+- 10/16 00:32 [financialjuice] US 4-WEEK BILL BID-TO-COVER ACTUAL 2.56 (FORECAST -, PREVIOUS 2.400) $MACRO
+- 10/16 00:33 [financialjuice] US 4-Week Bill Auction High Yield 4.000% Bid-to-cover 2.56 US sells $110 bln Awards 15.67% of bids at high
+- 10/16 00:33 [FirstSquawk] US CRUDE FUTURES JUMP MORE THAN $2 TO HIGHEST SINCE SEPT 21, WHILE BRENT FUTURES TURN POSITIVE
+- 10/16 00:45 [DeItaone] RUSSIA'S PUTIN SAYS NO SIGNIFICANT DAMAGE HAS BEEN CAUSED BY RECENT UKRAINE'S STRIKES ON RUSSIAN REFINERIES - IFAX
+- 10/16 00:46 [FirstSquawk] RUSSIA PRESIDENT PUTIN: NO SIGNIFICANT DAMAGE CAUSED BY RECENT UKRAINE'S STRIKES ON RUSSIAN REFINERIES - IFX
+- 10/16 00:54 [FirstSquawk] NATO TO DISCUSS BLACK SEA SITUATION IN COMING DAYS: ROMANIA
+- 10/16 00:55 [FirstSquawk] SAUDI-LED COALITION SAYS IT INTERCEPTED AND DESTROYED DRONE IN KHAMIS MUSHAIT
+- 10/16 01:00 [FirstSquawk] US CRUDE OIL INVENTORIES ACTUAL: -8557K VS -3186K PREVIOUS; EST 95.50K
+- 10/16 01:00 [FirstSquawk] US CUSHING CRUDE OIL INVENTORIES ACTUAL: 1862K VS 444K PREVIOUS
+- 10/16 01:00 [financialjuice] EIA CRUDE OIL INVENTORIES ACTUAL -8.557M (FORECAST 0.15M, PREVIOUS -3.186M) $MACRO
+- 10/16 01:00 [financialjuice] EIA GASOLINE INVENTORIES ACTUAL 3.518M (FORECAST -0.911M, PREVIOUS 0.382M) $MACRO
+- 10/16 01:00 [financialjuice] EIA DISTILLATE INVENTORIES ACTUAL -2.527M (FORECAST -1.72M, PREVIOUS -0.042M) $MACRO
+- 10/16 01:00 [financialjuice] EIA CRUDE CUSHING INVENTORIES ACTUAL 1.862M (FORECAST -, PREVIOUS 0.444M) $MACRO
+- 10/16 01:00 [DeItaone] U.S. MORTGAGE RATES HOLD AT 7.4% AFTER SEVEN WEEKS OF INCREASES The average 30-year fixed mortgage rate remained at 7.4%, ending seven consecutive weeks of increases. Rates have climbed sharply from 6.65% in August, putting additional press…
+- 10/16 01:01 [financialjuice] US EIA Weekly Petroleum Status Report
+- 10/16 01:01 [financialjuice] US 30-year fixed-rate mortgage averages 7.40 pct in the October 15th week vs 7.4% prior week - Freddie Mac.
+- 10/16 01:04 [financialjuice] UK Finance Minister Healey poised to raise taxes on banks in budget - The Guardian.
+- 10/16 01:04 [DeItaone] JAPAN SENIOR MINISTRY OF FINANCE OFFICIAL SAYS G7, G20 MEETINGS DID NOT SPECIFICALLY DEBATE RECENT STOCK MARKET MOVES, WHEN ASKED ABOUT STEEP GLOBAL SELL-OFF
+- 10/16 01:05 [DeItaone] JAPAN MOF OFFICIAL SAYS ALWAYS MONITORING MARKET MOVES CAREFULLY, WON'T COMMENT ON EACH STOCK, FOREX, BOND MARKET MOVE
+- 10/16 01:05 [financialjuice] Japan MoF Official: We're always monitoring market moves carefully, we won't comment on each stock, forex, and bond market move.
+- 10/16 01:07 [financialjuice] Japan MoF Official: There were no concerns voiced at the G7 & G20 about the risk of financial system instability from the AI sell-off, more important is fact global economy has shown resilience to various shocks.
+- 10/16 01:09 [FirstSquawk] UK CHANCELLOR HEALEY POISED TO RAISE TAXES ON BANKS IN OCT 28 BUDGET
+- 10/16 01:09 [financialjuice] Japan MoF Official: Policymakers did confirm the need for vigilance and avoiding leaving any seed of a financial system crisis unattended.
+- 10/16 01:15 [financialjuice] Microsoft completed pre-training on Model MAI-Base-2. $MSFT
+- 10/16 01:25 [FirstSquawk] UK TRADE MINISTER INDICATES PREPAREDNESS TO ALIGN WITH EU CHINA EV TARIFFS - POLITICO
+- 10/16 01:25 [FirstSquawk] ANTOFAGASTA PRODUCTION AT ‘NORMAL LEVELS’ DESPITE STRIKE
+- 10/16 01:38 [FirstSquawk] GERMANY, FRANCE AGREE ON EU AUTO PACT TO WEAKEN 2035 BAN - HANDELSBLATT
+- 10/16 01:46 [financialjuice] Germany and France reach a deal to preserve the EU car industry - AFP.
