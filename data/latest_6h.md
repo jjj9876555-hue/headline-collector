@@ -7,143 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-16 01:48 JST／対象: 10/15 19:48 〜 10/16 01:48 JST（時刻はすべて日本時間）
+生成: 2026-10-16 05:04 JST／対象: 10/15 23:04 〜 10/16 05:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 50 | 10/15 19:52 | 10/16 01:05 | 26分（19:52→20:19） |
-| FirstSquawk | 62 | 10/15 19:52 | 10/16 01:38 | 18分（22:50→23:08） |
-| financialjuice | 84 | 10/15 20:30 | 10/16 01:46 | 30分（01:15→01:46） |
+| DeItaone | 24 | 10/15 23:07 | 10/16 04:34 | ⚠ 107分（02:46→04:34） |
+| FirstSquawk | 50 | 10/15 23:08 | 10/16 04:55 | 27分（02:03→02:30） |
+| financialjuice | 50 | 10/15 23:17 | 10/16 04:50 | 30分（01:15→01:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 186 行（統合前 196 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 116 行（統合前 125 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/15 19:52 [FirstSquawk] SNB'S TSCHUDIN: INFLATIONARY PRESSURES SLIGHTLY HIGHER THAN IN JUNE
-- 10/15 19:52 [DeItaone] DEUTSCHE BANK SAYS BUY COREWEAVE DIP — SEES 128% UPSIDE Deutsche Bank maintains its Buy rating on CoreWeave ($CRWV ) with a $150 price target, implying 128% upside from Wednesday's close. Despite shares plunging over 15%, the bank sees no c…
-- 10/15 20:00 [FirstSquawk] US Bancorp Q3 26 Earnings: - EPS: $1.34 (est $1.32) - Net Interest Income FTE: $4.49B (est $4.5B) - Net Interest Margin: 2.84% (est 2.81%) - Basel III CET 1 Ratio: 10.8% (est 10.8%) - Cash & Due From Banks: $49.52B (est $58.73B) - Net Charg…
-- 10/15 20:04 [FirstSquawk] Marsh McLennan Q3 26 Earnings: - Adjusted Operating Income: $1.53B (est $1.49B) - Underlying Revenue: +5% (est +3.93%) - Adjusted Operating Margin: 22.7% (est 22.8%) - Revenue: $6.86B (est $6.64B)
-- 10/15 20:06 [FirstSquawk] PBOC'S PAN: EXCHANGE RATES CANNOT FIX GLOBAL IMBALANCES
-- 10/15 20:09 [FirstSquawk] Kimberly-Clark Q3 26 Earnings: - Announces Preliminary Q3 2026 Results; FY2026 Outlook Consistent With Previous Expectations - Sees 2026 Organic Sales Growth 100bps Below Category Growth - Sees 2026 Adjusted EPS From Continuing Operations G…
-- 10/15 20:18 [FirstSquawk] RUSSIA SUSPECTED OF STRIKING TWO TANKERS IN NATO WATERS – FT
-- 10/15 20:19 [DeItaone] SAXO WARNS AI STOCKS ARE SPLITTING INTO WINNERS AND LOSERS Saxo says investors are becoming more selective, favoring profitable chipmakers like TSMC ($TSM), Samsung and ASML ($ASML) over debt-heavy AI infrastructure companies. CoreWeave ($C…
-- 10/15 20:19 [DeItaone] COREWEAVE BONDS REBOUND SHARPLY AFTER RECENT SELLOFF CoreWeave ($CRWV ) bonds are recovering as buying returns following a sharp selloff driven by concerns over the company's debt. The October 2031 bonds jumped 3.3 cents to 82.8 cents on th…
-- 10/15 20:21 [DeItaone] RUSSIA'S OIL AND GAS REVENUE SEEN RISING BY 10% Y/Y TO $12 BILLION IN OCTOBER, REUTERS CALCULATIONS SHOW
-- 10/15 20:21 [FirstSquawk] RUSSIA'S OIL AND GAS REVENUE SEEN UP 10% Y/Y IN OCTOBER TO $12 BILLION
-- 10/15 20:30 [financialjuice] $SCHW Charles Schwab Q3 2026 Earnings Adj EPS $1.69, est. $1.65 Rev $7.17B, est. $7.17B Net Interest Rev $3.48B, est. $3.52B Total Net New Assets $192.4B, est. $175.06B Core Net New Assets $190.4B
-- 10/15 20:31 [FirstSquawk] FRENCH PM LECORNU ANNOUNCES EUR1.3B EMERGENCY PLAN FOR FARMERS - TF1
-- 10/15 20:37 [DeItaone] SAUDI ARAMCO OFFERING MORE SPOT CRUDE OIL CARGOES INTO EUROPEAN MARKET FOR LATE OCTOBER TO MID-NOVEMBER DELIVERY, THREE TRADE SOURCES SAY
-- 10/15 20:38 [financialjuice] Saudi Aramco is offering more spot crude oil cargoes into the European market for late October to mid-November delivery - Three trade sources
-- 10/15 20:41 [DeItaone] U.S. PUSHES FOR FASTER SOVEREIGN DEBT RESTRUCTURING AT G20 U.S. Treasury official Browne says the G20 made progress on modernizing the financial system and improving debt restructuring for financially distressed countries. The U.S. wants Se…
-- 10/15 20:47 [FirstSquawk] Charles Schwab Q3 26 Earnings: - Net Revenue: $7.17B (est $7.17B) - Net Interest Revenue: $3.48B (est $3.52B) - Total Net New Assets: $192.4B (est $175.06B) - Total Client Assets: $13.33T (est $13.38T) - Bank Deposits: $244.1B (est $250.73B…
-- 10/15 20:48 [FirstSquawk] UNICREDIT WEIGHS RISK TRANSFER ON $1B OF GERMAN MORTGAGES
-- 10/15 20:52 [FirstSquawk] TRUMP SAID HE MAY SUPPORT FEDERAL DIESEL TAX SUSPENSION
-- 10/15 20:52 [financialjuice] Trump: May support a federal diesel tax suspension
-- 10/15 20:56 [financialjuice] Morning Juice – US Session Prep (15th October)
-- 10/15 21:04 [FirstSquawk] Prologis Q3 26 Earnings: - Core FFO Per Share: $1.60 (est $1.57) - EPS: $0.86 ($1.58) - Net Income: $816M (est $789.3M) - Sees FY Adjusted FFO Per Share: $6.25 To $6.29 - Sees FY EPS: $4.05 To $4.15 (prior $4.40 To $4.55)
-- 10/15 21:05 [financialjuice] Poll: The UK Government's current fiscal headroom likely eroded to £10-12 billion.
-- 10/15 21:05 [DeItaone] UBS NOW EXPECTS THIRD FED RATE HIKE IN MARCH 2027 UBS has revised its Fed outlook after September inflation came in hotter than expected, with headline CPI reaching 3.7% YoY. The bank now expects three rate hikes in total: September and Dec…
-- 10/15 21:05 [financialjuice] China's Lan: China to implement more active fiscal policy
-- 10/15 21:06 [DeItaone] YARDENI CUTS S&P 500 TARGET TO 7,900 AS MARKET RISKS RISE Yardeni Research lowered its year-end S&P 500 target to 7,900 from 8,400, warning that investor caution could push stock valuations lower. The firm remains bullish on earnings, forec…
-- 10/15 21:07 [financialjuice] China's MoF Lan: The Chinese economy continues stable, positive trend.
-- 10/15 21:07 [financialjuice] China's MoF Lan: Protectionism, geopolitical risks hit growth.
-- 10/15 21:08 [FirstSquawk] GTCR, ELLIOTT TO BUY CCC INTELLIGENT FOR $7.75/SHR IN CASH
-- 10/15 21:23 [DeItaone] U.S. ECONOMIC DATA DUE IN 10 MINUTES 8:30 AM ET | 2:30 PM Paris Time Four major U.S. economic reports are about to be released: 🔸 September PPI: +0.6% expected 🔸 Core PPI: +0.3% expected 🔸 September Retail Sales: +0.4% expected 🔸 Retail Sal…
-- 10/15 21:25 [financialjuice] ❗ US tells IEA nations it’s unhappy with emergency oil release, and has suggested supplementing oil release with extra 100mln bbl.
-- 10/15 21:25 [FirstSquawk] US TELLS IEA NATIONS IT’S UNHAPPY WITH EMERGENCY OIL RELEASE
-- 10/15 21:25 [FirstSquawk] US HAS SUGGESTED SUPPLEMENTING OIL RELEASE WITH EXTRA 100M BBL
-- 10/15 21:26 [DeItaone] US TELLS IEA NATIONS IT’S UNHAPPY WITH EMERGENCY OIL RELEASE US HAS SUGGESTED SUPPLEMENTING OIL RELEASE WITH EXTRA 100M BBL
-- 10/15 21:30 [FirstSquawk] US INITIAL JOBLESS CLAIMS ACTUAL: 199K VS 197K PREVIOUS; EST 200K
-- 10/15 21:30 [financialjuice] ❗ US RETAIL SALES MOM ACTUAL 0.8% (FORECAST 0.3%, PREVIOUS 1.2%) $MACRO
-- 10/15 21:30 [financialjuice] NY FED MANUFACTURING ACTUAL 25.5 (FORECAST 12, PREVIOUS 7.60) $MACRO
-- 10/15 21:30 [financialjuice] US CORE RETAIL SALES MOM ACTUAL 0.9% (FORECAST 0.5%, PREVIOUS 1.4%) $MACRO
-- 10/15 21:30 [DeItaone] US Jobless Claims +1K To 199K In Oct-10 Wk; Survey 200K US Oct-3 Week Continuing Claims -4K to 1,710,000 US Oct-3 Week Jobless Claims Revised to 198K
-- 10/15 21:30 [financialjuice] ❗ US INITIAL JOBLESS CLAIMS ACTUAL 199K (FORECAST 200K, PREVIOUS 197K) $MACRO
-- 10/15 21:30 [financialjuice] US CONTINUED JOBLESS CLAIMS ACTUAL 1.71M (FORECAST 1.709M, PREVIOUS 1.716M) $MACRO
-- 10/15 21:30 [financialjuice] CANADIAN WHOLESALE SALES MOM ACTUAL -1.6% (FORECAST -1.5%, PREVIOUS 0.3%) $MACRO
-- 10/15 21:30 [financialjuice] ‼ BREAKING: US PPI YOY ACTUAL 6.3% (FORECAST 5.4%, PREVIOUS 5.4%) $MACRO
-- 10/15 21:30 [FirstSquawk] US RETAIL SALES (MOM) (SEP) ACTUAL: 0.8% VS 1.2% PREVIOUS; EST 0.3%
-- 10/15 21:30 [financialjuice] ❗ US PPI MOM ACTUAL 1.3% (FORECAST 0.6%, PREVIOUS 0.4%) $MACRO
-- 10/15 21:30 [financialjuice] CANADIAN MANUFACTURING SALES MOM ACTUAL 1.5% (FORECAST 1.1%, PREVIOUS -0.4%) $MACRO
-- 10/15 21:30 [FirstSquawk] US PPI (MOM) (SEP) ACTUAL: 1.3% VS 0.4% PREVIOUS; EST 0.6%
-- 10/15 21:31 [FirstSquawk] US PHILADELPHIA FED MANUFACTURING INDEX (OCT) ACTUAL: 20.9 VS 37.8 PREVIOUS; EST 28.0
-- 10/15 21:31 [financialjuice] US PHILLY FED BUSINESS INDEX ACTUAL 20.9 (FORECAST 28, PREVIOUS 37.8) $MACRO
-- 10/15 21:31 [financialjuice] ❗ US CORE PPI YOY ACTUAL 5% (FORECAST 4.4%, PREVIOUS 4.6%) $MACRO
-- 10/15 21:31 [financialjuice] ❗ US CORE PPI MOM ACTUAL 0.7% (FORECAST 0.3%, PREVIOUS 0.2%) $MACRO
-- 10/15 21:31 [financialjuice] US Retail Sales September Report
-- 10/15 21:32 [DeItaone] *US SEPT. PRODUCER PRICES RISE 6.3% Y/Y; EST. +5.4% *US SEPT. PRODUCER PRICES RISE 1.3% M/M; EST. +0.6% *US SEPT. RETAIL SALES RISE 0.8% M/M; EST. +0.3%
-- 10/15 21:32 [financialjuice] US PPI September Report
-- 10/15 21:32 [FirstSquawk] US CONTINUING JOBLESS CLAIMS ACTUAL: 1710K VS 1716K PREVIOUS; EST 1709K
-- 10/15 21:33 [financialjuice] New York Fed manufacturing October Report
-- 10/15 21:34 [financialjuice] Canadian Manufacturing report August Report
-- 10/15 21:36 [financialjuice] Japan's Fin. Min. Katayama: G20 reaffirmed past commitments on foreign exchange
-- 10/15 21:37 [financialjuice] US RETAIL SALES YOY ACTUAL 6.29% (FORECAST -, PREVIOUS 6.01% ,REVISION 5.36%) $MACRO
-- 10/15 21:37 [financialjuice] Japan's Fin. Min. Katayama to G20: We need to monitor mkt moves with high urgency.
-- 10/15 21:39 [DeItaone] U.S. ECONOMIC DATA — OCTOBER 15, 2026 INFLATION — SEPTEMBER PPI 🔸 Headline PPI MoM: +1.3% (Est. +0.6%) 🔸 Headline PPI YoY: +6.3% (Est. +5.4%) 🔸 Core PPI MoM: +0.7% (Est. +0.3%) 🔸 Core PPI YoY: +5.0% (Est. +4.4%) 🔸 PPI Ex-Food, Energy & Trad…
-- 10/15 21:41 [DeItaone] IRAN'S ARMY NAVY SAYS A 'VIOLATING' OIL TANKER IS ON FIRE IN THE EASTERN PART OF THE STRAIT OF HORMUZ - STATE MEDIA
-- 10/15 21:41 [FirstSquawk] IRAN'S ARMY NAVY SAYS A 'VIOLATING' OIL TANKER IS ON FIRE IN THE EASTERN PART OF THE STRAIT OF HORMUZ
-- 10/15 21:41 [financialjuice] Iran's army navy: A 'violating' oil tanker is on fire in the eastern part of the Strait of Hormuz - State media
-- 10/15 21:41 [financialjuice] Japan's Fin. Min. Katayama: G7 agreed to do tabletop exercise on AI incidents.
-- 10/15 21:43 [DeItaone] $AAPL - KEYBANC REITERATES SELL-BIASED RATING ON APPLE DESPITE STRONG IPHONE 18 DEMAND KeyBanc maintains its Underweight rating on Apple with a $250 price target. September hardware spending surged 44% month-over-month, far above the three-…
-- 10/15 21:43 [financialjuice] US Treasury dismisses IMF debt warning and ‘messy’ forecasting - CNBC.
-- 10/15 21:45 [DeItaone] IRAN REPORTS ANOTHER OIL TANKER ON FIRE NEAR STRAIT OF HORMUZ Iranian state-linked media report that naval patrols discovered an oil tanker on fire in a restricted area near the eastern Strait of Hormuz. Iran's Navy claims the tanker had di…
-- 10/15 21:50 [financialjuice] UK 30-year gilt yield on track for biggest daily fall since April, down 13 bps to 5.781% amid global rally
-- 10/15 21:51 [DeItaone/FirstSquawk] FRANCE IS STARTING TO PUT INTO ACTION OPERATIONAL ELEMENTS OF AGREEMENT TO HELP PROTECT SAUDI ARABIAN OIL FACILITIES - FOREIGN MINISTRY SPOKESPERSON
-- 10/15 21:52 [financialjuice] France is starting to put into action operational elements of the agreement to help protect Saudi Arabian oil facilities - Foreign Ministry Spokesperson.
-- 10/15 21:56 [DeItaone] US 10yr Yield falls over 28bps since Yesterday
-- 10/15 22:00 [financialjuice] Effective fed funds rate 3.88% October 14th vs 3.88% October 13th
-- 10/15 22:01 [DeItaone] DAN IVES CALLS AI STOCK SELLOFF A CLEAR BUYING OPPORTUNITY Dan Ives says the sharp declines in CoreWeave ($CRWV ), IREN ($IREN ) and Nebius ($NBIS ) represent buying opportunities rather than warning signs. Despite rising borrowing costs, I…
-- 10/15 22:09 [financialjuice] WEF could appoint Lagarde next chair as early as November.
-- 10/15 22:09 [FirstSquawk] SUPER MICRO NAMES MARK LONG AS CFO SUCCEEDING DAVID WEIGAND
-- 10/15 22:14 [DeItaone] LAGARDE COULD LEAVE ECB EARLY TO LEAD WORLD ECONOMIC FORUM The World Economic Forum could appoint ECB President Christine Lagarde as its next chair as early as November 2. If appointed, Lagarde could leave the ECB before her term expires in…
-- 10/15 22:15 [financialjuice] Saudi-led coalition: Houthis have acquired advanced weaponry
-- 10/15 22:16 [financialjuice] Saudi-led Coalition: Yemen's Houthis attempted to attack dozens of airports, oil facilities and ports in Saudi Arabia.
-- 10/15 22:18 [FirstSquawk] SAUDI-LED COALITION SAYS IT DESTROYED MORE THAN 120 ARMS DEPOTS IN YEMEN'S MOUNTAINS AND MANY LAUNCHERS
-- 10/15 22:22 [financialjuice] Saudi-Led Coalition: There were 20 Houthi attacks on Riyadh Airport in October that resulted in 17 fatalities.
-- 10/15 22:24 [DeItaone] HOT INFLATION DATA POINT TO ANOTHER FED RATE HIKE IN DECEMBER Northlight Asset Management's Chris Zaccarelli expects the Fed to raise interest rates by 25 basis points in December, following another hotter-than-expected inflation report. He…
-- 10/15 22:27 [financialjuice] Chinese State Trader buys another 10-13 US soybean cargoes Wednesday night for December-March shipment - Traders.
-- 10/15 22:27 [DeItaone] $TSLA - TESLA TO UNVEIL NEW ROADSTER — FLIGHT CAPABILITY REMAINS UNCONFIRMED Tesla is preparing to unveil its long-awaited next-generation Roadster today at a SpaceX testing facility in Texas. Elon Musk has hinted that the vehicle could fea…
-- 10/15 22:30 [DeItaone] U.S. STOCKS EXTEND FALL, NASDAQ DOWN 1.29%
-- 10/15 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: 101.4 MLN NASDAQ 100: -14.2 MLN DOW 30: -14.7 MLN MAG 7: -1.8 MLN $MACRO
-- 10/15 22:31 [DeItaone] SHARES OF NEOCLOUD FIRMS DROP $CRWV - COREWEAVE DOWN 7.1% $NBIS - NEBIUS OFF 6.7%
-- 10/15 22:31 [FirstSquawk] DOW JONES UP 269.71 POINTS, OR 0.52 PERCENT, AT 51,891.19 AFTER MARKET OPEN S&P 500 DOWN 35.06 POINTS, OR 0.45 PERCENT, AT 7,683.88 AFTER MARKET OPEN NASDAQ DOWN 343.22 POINTS, OR 1.29 PERCENT, AT 26,349.65 AFTER MARKET OPEN
-- 10/15 22:33 [DeItaone] SHARES OF US CHIP-RELATED COMPANIES FALL NVIDIA DOWN 3% AMD FALLS 5% INTEL DOWN 5.9% MARVELL TECHNOLOGY OFF 5.5%
-- 10/15 22:35 [DeItaone] PHILADELPHIA SEMICONDUCTOR INDEX HITS LOWEST IN NEARLY A MONTH, LAST DOWN 3.6%
-- 10/15 22:37 [FirstSquawk] IRAN TELLS HEZBOLLAH TO INCREASE READINESS, PREPARE FOR POTENTIAL CONFLICT
-- 10/15 22:38 [DeItaone] PHILADELPHIA CHIP INDEX SET TO ERASE MORE THAN $2 TRILLION IN MARKET VALUE IN SEVEN SESSION FALL
-- 10/15 22:39 [DeItaone] TRUMP TASK FORCE ON AI TO MEET THURSDAY - FTC SPOKESMAN
-- 10/15 22:40 [DeItaone/FirstSquawk] *IEA AGREES TO COMPLETE RELEASE OF OUTSTANDING 100M BBL OF OIL
-- 10/15 22:40 [financialjuice] ❗ IEA agrees to complete the release of the outstanding 100m bbl of oil.
-- 10/15 22:40 [financialjuice/DeItaone/FirstSquawk] IEA seeks to release 20m bbl of diesel as soon as possible.
-- 10/15 22:42 [FirstSquawk] IEA SAYS OIL RELEASE ANNOUNCED IN MARCH TO EXCEED 400M BARRELS
-- 10/15 22:42 [financialjuice] IEA: The oil release announced in March is going to exceed 400 mln barrels.
-- 10/15 22:42 [financialjuice] IEA Nations are willing to take further action in the global markets.
-- 10/15 22:43 [financialjuice] IEA's Governing Board: Approximately 330 million barrels have so far been released.
-- 10/15 22:43 [financialjuice] IEA Governing Board reaffirmed commitment to continue delivering on the March 2026 collective action in response to the Strait of Hormuz crisis.
-- 10/15 22:44 [financialjuice] IEA Governing Board agreed to accelerate the release of the remaining volumes.
-- 10/15 22:44 [financialjuice] IEA Governing Board encouraged those IEA members holding oil production and refining capacities to boost the supply of crude and refined products, particularly diesel.
-- 10/15 22:44 [DeItaone] *IEA SAYS OIL RELEASE ANNOUNCED IN MARCH TO EXCEED 400M BARRELS *IEA NATIONS WILLING TO TAKE FURTHER ACTION IN GLOBAL MARKETS
-- 10/15 22:44 [financialjuice] IEA Governing Board: Accelerated IEA release includes over 20 million barrels of diesel as soon as possible.
-- 10/15 22:45 [DeItaone] IEA TO ACCELERATE OIL RESERVE RELEASES AS DIESEL SUPPLY TIGHTENS The International Energy Agency warns that global oil markets remain tight, particularly for diesel, amid the Strait of Hormuz crisis. 330 million barrels of emergency reserve…
-- 10/15 22:47 [FirstSquawk] IEA GOVERNING BOARD EXPRESSES READINESS TO TAKE MORE STEPS TO TACKLE GLOBAL ENERGY MARKET CHALLENGES.
-- 10/15 22:47 [FirstSquawk] IEA BOARD CONFIRMS CONTINUED SUPPORT FOR MARCH 2026 COLLECTIVE ACTION REGARDING THE STRAIT OF HORMUZ CRISIS.
-- 10/15 22:47 [FirstSquawk] IEA'S GOVERNING BOARD ANNOUNCED THAT THE TOTAL STOCKS TO BE RELEASED WILL BE MORE THAN 400 MILLION BARRELS.
-- 10/15 22:47 [FirstSquawk] IEA GOVERNING BOARD DECIDED TO SPEED UP THE RELEASE OF THE LAST REMAINING VOLUMES.
-- 10/15 22:47 [FirstSquawk] IEA'S GOVERNING BOARD URGES MEMBER COUNTRIES WITH OIL PRODUCTION AND REFINING ABILITIES TO INCREASE SUPPLY OF CRUDE AND REFINED PRODUCTS, ESPECIALLY DIESEL.
-- 10/15 22:47 [FirstSquawk] IEA GOVERNING BOARD ANNOUNCES FAST-TRACKED RELEASE OF OVER 20 MILLION BARRELS OF DIESEL.
-- 10/15 22:47 [FirstSquawk] IEA CONFIRMS 330 MILLION BARRELS RELEASED, PROMISES ACTION ON 100 MILLION MORE SOON.
-- 10/15 22:50 [FirstSquawk] IEA SAYS ITS BOARD ACKNOWLEDGED THAT APPROXIMATELY 330 MILLION BARRELS HAVE SO FAR BEEN RELEASED AND AGREED TO TAKE ALL NECESSARY STEPS TO COMPLETE THE REMAINING RELEASES OF AROUND 100 MILLION BARRELS IN A TIMELY MANNER
-- 10/15 22:50 [FirstSquawk] IEA GOVERNING BOARD: ENCOURAGED THOSE IEA MEMBERS HOLDING OIL PRODUCTION AND REFINING CAPACITIES TO BOOST SUPPLY OF CRUDE AND REFINED PRODUCTS, PARTICULARLY DIESEL
-- 10/15 23:00 [financialjuice] US BUSINESS INVENTORIES MOM ACTUAL 0.4% (FORECAST 0.4%, PREVIOUS 0.8%) $MACRO
-- 10/15 23:01 [financialjuice] US Business Inventories August 2026 Report
-- 10/15 23:03 [DeItaone] FOUR BOOMS HEARD IN VICINITY OF PRESIDENTIAL PALACE IN YEMEN'S ADEN - THREE WITNESSES TELL REUTERS
-- 10/15 23:04 [financialjuice] Four booms heard in vicinity of the Presidential Palace in Yemen's Aden - Three Witnesses.
-- 10/15 23:04 [financialjuice] Yemen's Houthis renew warning to airlines that Saudi airspace and airports are unsafe.
 - 10/15 23:07 [DeItaone] TRUMP: EXECUTION EVENT WILL NOT BE STREAMED
 - 10/15 23:08 [DeItaone] *TREASURY 5- AND 7-YEAR YIELDS FALL 15 BASIS POINTS ON DAY
 - 10/15 23:08 [FirstSquawk] TRUMP ON TRUTH SOCIAL: Nidal Malik Hasan, a former U.S. Army Major turned traitor, is a very bad and evil man, who killed 13 people, including a pregnant soldier, who died, along with her unborn son, and injured, very seriously, 32 more inn…
@@ -209,4 +89,54 @@
 - 10/16 01:25 [FirstSquawk] UK TRADE MINISTER INDICATES PREPAREDNESS TO ALIGN WITH EU CHINA EV TARIFFS - POLITICO
 - 10/16 01:25 [FirstSquawk] ANTOFAGASTA PRODUCTION AT ‘NORMAL LEVELS’ DESPITE STRIKE
 - 10/16 01:38 [FirstSquawk] GERMANY, FRANCE AGREE ON EU AUTO PACT TO WEAKEN 2035 BAN - HANDELSBLATT
-- 10/16 01:46 [financialjuice] Germany and France reach a deal to preserve the EU car industry - AFP.
+- 10/16 01:46 [financialjuice/FirstSquawk] Germany and France reach a deal to preserve the EU car industry - AFP.
+- 10/16 01:54 [DeItaone] TRUMP LIVE https://t.co/MUrlXlLMx5
+- 10/16 01:56 [financialjuice] Trump Participates in a Rose Garden Lunch - WATCH LIVE
+- 10/16 02:00 [financialjuice] Meta releases an OpenAI model, keeps most advanced tech closed $META
+- 10/16 02:01 [DeItaone] $ADBE - ADOBE AND NVIDIA EXPAND COLLABORATION TO SPEED AGENTIC CREATION ADOBE - BRAND CONCIERGE WITH NVIDIA NEMOTRON AVAILABLE TO ENTERPRISE CUSTOMERS LATER THIS YEAR
+- 10/16 02:01 [FirstSquawk] HARVARD ENDOWMENT JUMPS TO RECORD $68B AFTER 27% ANNUAL RETURN
+- 10/16 02:03 [FirstSquawk] TRUMP: I'LL GO BACK TO TEXAS IF NECESSARY
+- 10/16 02:03 [DeItaone] ANTHROPIC'S SLOWING REVENUE GROWTH DOES NOT SIGNAL WEAKER AI DEMAND D.A. Davidson analysts Gil Luria and Turner Dischinger say Anthropic's slowing revenue growth should not be interpreted as a broader AI demand slowdown. They point to growi…
+- 10/16 02:03 [DeItaone] APPLE AND META TEAM UP TO MAKE MUSE AI MODEL RUN ON MAC COMPUTERS - CNBC
+- 10/16 02:14 [financialjuice] US: Civilian container ship sank while being towed to shore
+- 10/16 02:14 [financialjuice] US: Civilian ship M/V GFS Pride was hit by an IRGC projectile
+- 10/16 02:18 [financialjuice] Meta Releases Muse Spark Open $META
+- 10/16 02:22 [financialjuice/FirstSquawk] Anthropic is working with independent evaluators to test models
+- 10/16 02:37 [FirstSquawk] MICROSOFT COMPLETED PRE-TRAINING ON MODEL MAI-BASE-2.
+- 10/16 02:37 [FirstSquawk] JAPAN MOF OFFICIAL SAYS MORE IMPORTANT IS THE FACT THAT THE GLOBAL ECONOMY HAS SHOWN RESILIENCE TO VARIOUS SHOCKS, THOUGH POLICYMAKERS DID CONFIRM THE NEED FOR VIGILANCE AND ‘AVOIDING LEAVING ANY SEED OF A FINANCIAL SYSTEM CRISIS UNATTENDED…
+- 10/16 02:39 [financialjuice] EU said to be ready to fast-track a satellite rival to SpaceX $SPCX
+- 10/16 02:39 [FirstSquawk] U.S. SAYS THE CIVILIAN SHIP M/V GFS PRIDE WAS HIT BY AN IRGC PROJECTILE, WITH THE CIVILIAN CONTAINER SHIP SINKING WHILE BEING TOWED TO SHORE
+- 10/16 02:40 [DeItaone] EU READY TO FAST-TRACK SATELLITE RIVAL TO SPACEX
+- 10/16 02:41 [FirstSquawk] EU READY TO FAST-TRACK SATELLITE NETWORK TO RIVAL SPACEX’S STARLINK
+- 10/16 02:42 [FirstSquawk] META IS RELEASING MUSE SPARK OPEN, THE OPEN-WEIGHTS VERSION OF MUSE SPARK, PUTTING THE MODEL WEIGHTS UNDER A LICENSE WITH LIMITED COMMERCIAL RESTRICTIONS THAT ALLOWS MANY DEVELOPERS TO USE THE MODEL FOR FREE, WITH WEIGHTS AVAILABLE FOR DOWN…
+- 10/16 02:42 [FirstSquawk] META SAYS MUSE SPARK OPEN IS AN 816-BILLION-PARAMETER SPARSE MIXTURE-OF-EXPERTS MODEL THAT ACTIVATES ROUGHLY 42 BILLION PARAMETERS PER TOKEN, BRINGING ADVANCED AGENTIC CAPABILITIES TO DESKTOP COMPUTERS FOR THE FIRST TIME ON APPLE M5 ULTRA M…
+- 10/16 02:42 [FirstSquawk] META SAYS THE MODEL IS ALSO AVAILABLE THROUGH API PLATFORMS INCLUDING BASETEN, FIREWORKS AI, GROQ, MODAL, NEBIUS, OPENROUTER AND TOGETHER AI.
+- 10/16 02:46 [DeItaone] $CRWV - COREWEAVE SHARES REVERSE DECLINES, LAST UP 2.7%
+- 10/16 02:48 [FirstSquawk] UNICREDIT SAYS IT HAS BEEN ALLOWED TO INCREASE ITS COMMERZBANK STAKE WITHOUT MAXIMUM LIMITS, AND IS EXPECTED TO HOLD ABOUT 50% OF VOTING RIGHTS BY YEAR-END
+- 10/16 02:49 [FirstSquawk] FRANCE SOCIAL SECURITY COMMITTEE DEPUTIES REJECT REVENUE PART OF SOCIAL SECURITY BUDGET — LE MONDE
+- 10/16 03:02 [financialjuice] ❗ EU plans a trade tool that could block China from the single market
+- 10/16 03:03 [financialjuice] US Treasury Debt Buyback
+- 10/16 03:07 [financialjuice] Google Quantum AI publishes a breakthrough in quantum computing $GOOGL
+- 10/16 03:08 [financialjuice] Google Quantum AI's Willow clears a key resource bottleneck. $GOOGL
+- 10/16 03:16 [FirstSquawk] EU PLANS TRADE TOOL THAT COULD BLOCK CHINA FROM ACCESSING THE SINGLE MARKET
+- 10/16 03:16 [FirstSquawk] U.S. TREASURY’S DEBT BUYBACK TARGETED COUPONS MATURING IN 2037-2046, RECEIVING $40.836 BLN OF OFFERS AND ACCEPTING $6 BLN — MATCHING THE MAXIMUM — ACROSS 3 OF 42 ELIGIBLE ISSUES
+- 10/16 03:17 [FirstSquawk] GOOGLE QUANTUM AI HAS PUBLISHED A BREAKTHROUGH IN QUANTUM COMPUTING, WITH ITS WILLOW CHIP CLEARING A KEY RESOURCE BOTTLENECK
+- 10/16 03:18 [FirstSquawk] ANTHROPIC PROPOSES $2 TRILLION VALUATION AMID UNCERTAIN IPO MARKET CONDITIONS
+- 10/16 03:31 [financialjuice] NYMEX WTI Crude November futures settle at $97.97 a barrel, up $2.88, 3.03%.
+- 10/16 03:31 [financialjuice] NYMEX Gasoline November futures settle at $3.1802 a gallon.
+- 10/16 03:32 [financialjuice] NYMEX Natural Gas November futures settle at $3.2360/MMBTU
+- 10/16 03:32 [financialjuice] NYMEX Diesel November futures settle at $4.8456 a gallon.
+- 10/16 03:32 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 3.03% HIGHER AT $97.97/BBL, UP $2.88
+- 10/16 03:52 [financialjuice] Brent crude futures settle at $105.92/bbl, down 14 cents, 0.13%
+- 10/16 03:54 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 0.13% LOWER AT $105.92/BBL, DOWN 14 CENTS
+- 10/16 04:17 [FirstSquawk] REPORTS OF MULTIPLE EXPLOSIONS IN JEDDAH - FARS NEWS
+- 10/16 04:22 [financialjuice] Friday FX Option Expiries
+- 10/16 04:22 [FirstSquawk] KFC IS MOVING TO DITCH PEPSI FOR COKE IN THOUSANDS OF RESTAURANTS, WITH TALKS AT AN ADVANCED STAGE AND THE SWITCH TO COKE AT KFC U.S. SET TO TAKE PLACE IN JANUARY IF THE DEAL IS COMPLETED - WSJ
+- 10/16 04:27 [FirstSquawk] WHITE HOUSE IS PREPARING PLANS TO USE A WEAPON DUBBED THE ‘MOTHER OF ALL BOMBS’ ON IRAN, SOURCES SAY - CBS NEWS
+- 10/16 04:34 [DeItaone] WHITE HOUSE PREPARES PLANS TO USE WEAPON DUBBED "MOTHER OF ALL BOMBS" ON IRAN, SOURCES SAY - CBS NEWS
+- 10/16 04:35 [FirstSquawk] SKYCITY ENTERTAINMENT HAS SIGNED AN SPA FOR THE SALE OF THE GRAND HOTEL AND ITS BUSINESS ASSETS FOR NZ$221 MLN, AND HAS AGREED TO MANAGE AND OPERATE THE GRAND HOTEL FOR A TRANSITIONAL PERIOD UNTIL 30 JUNE 2027
+- 10/16 04:38 [FirstSquawk] YEMEN HEALTH MINISTER: HOUTHI ATTACK ON PRESIDENTIAL PALACE COMPLEX IN ADEN KILLS 5, WOUNDS 16
+- 10/16 04:38 [financialjuice] Total money market funds fell $40.46b to $7.92t for the week ended October 14th - ICI
+- 10/16 04:39 [FirstSquawk] SAUDI CIVIL DEFENCE ISSUES EMERGENCY DANGER ALERT FOR JAZAN PROVINCE
+- 10/16 04:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: -2379.4 MLN NASDAQ 100: -1888.9 MLN DOW 30: -980.3 MLN MAG 7: -1034.1 MLN $MACRO
+- 10/16 04:55 [FirstSquawk] KFC U.S. HAS ANNOUNCED A NEW BEVERAGE PARTNERSHIP WITH THE COCA-COLA COMPANY, AND WILL SERVE COCA-COLA PRODUCTS IN ALL U.S. RESTAURANTS BY SPRING 2027

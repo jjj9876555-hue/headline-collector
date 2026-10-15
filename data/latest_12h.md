@@ -7,119 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-16 01:48 JST／対象: 10/15 13:48 〜 10/16 01:48 JST（時刻はすべて日本時間）
+生成: 2026-10-16 05:04 JST／対象: 10/15 17:04 〜 10/16 05:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 61 | 10/15 18:42 | 10/16 01:05 | 26分（19:52→20:19） |
-| FirstSquawk | 153 | 10/15 13:49 | 10/16 01:38 | 30分（16:28→16:58） |
-| financialjuice | 159 | 10/15 14:14 | 10/16 01:46 | ⚠ 61分（19:29→20:30） |
+| DeItaone | 68 | 10/15 18:42 | 10/16 04:34 | ⚠ 107分（02:46→04:34） |
+| FirstSquawk | 123 | 10/15 17:09 | 10/16 04:55 | 27分（02:03→02:30） |
+| financialjuice | 138 | 10/15 17:09 | 10/16 04:50 | ⚠ 61分（19:29→20:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 360 行（統合前 375 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 315 行（統合前 331 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/15 13:49 [FirstSquawk] IMF Official Says War Will Have Lasting Effects on Various Sectors Across the Middle East
-- 10/15 13:59 [FirstSquawk] German Finance Minister Klingbeil Says Aid for Ukraine Comes With Expectations for Political Reforms
-- 10/15 14:14 [financialjuice] ❗ FRENCH CPI MOM NSA ACTUAL -0.3% (FORECAST -0.3%, PREVIOUS 0.3%) $MACRO
-- 10/15 14:14 [financialjuice] ❗ FRENCH CPI YOY NSA ACTUAL 3.0% (FORECAST 3%, PREVIOUS 3.0%) $MACRO
-- 10/15 14:21 [FirstSquawk] Asia’s Divergent Economic Strength Faces Fresh Challenges, IMF Says, According to WSJ
-- 10/15 14:23 [FirstSquawk] Morgan Stanley Reduces Price Target to $230, Down From $250
-- 10/15 14:24 [FirstSquawk] Australia’s Benchmark S&P/ASX 200 Index Slips 0.1% to Close at 8,719.70
-- 10/15 14:29 [FirstSquawk] Italy’s Draft Budget Plans to Collect 0.44% of GDP From the Financial Sector Over 2027–2029
-- 10/15 14:29 [financialjuice] Italy plans to collect 0.44% of GDP from financial sector over 2027-2029 period - Draft Budgetary Plan
-- 10/15 14:40 [financialjuice] BoJ Koeda: Basic stance on neutral rate is that we have to consider in a range.
-- 10/15 14:40 [financialjuice] BoJ's Koeda: Need to adjust rate in timely manner.
-- 10/15 14:40 [financialjuice] BoJ's Koeda: Monetary environment has been accommodative.
-- 10/15 14:40 [FirstSquawk] BoJ’s Koeda Says Neutral Rate Estimates Should Be Evaluated Within a Range
-- 10/15 14:41 [FirstSquawk] BoJ Board Member Koeda Says Monetary Policy Conditions Have Been Supportive
-- 10/15 14:42 [FirstSquawk] BoJ Board Member Koeda Calls for Appropriate Policy Adjustments Given Upside Price Risks
-- 10/15 14:44 [FirstSquawk] German Chancellor Merz Likely to Reject €2 Trillion EU Budget Proposal at Summit, According to Welt
-- 10/15 14:45 [FirstSquawk] BoJ’s Koeda Says Policymakers Have Not Determined a Specific Rate-Hike Pace
-- 10/15 14:45 [financialjuice] BoJ's Koeda: No specific pace in mind for rate hike.
-- 10/15 14:45 [financialjuice] BoJ's Koeda: Need discussion over whether price target is achieved.
-- 10/15 14:46 [FirstSquawk] BoJ’s Koeda Indicates Neutral Interest Rate Stands Considerably Above 1%
-- 10/15 14:48 [FirstSquawk] BoJ’s Koeda Sees Underlying Inflation Stabilising at Around 2%
-- 10/15 14:49 [FirstSquawk] South Korea’s Kospi Sinks 9% in Sharp Sell-Off
-- 10/15 14:52 [financialjuice] Boj's Koeda: Pace of passing costs to prices has been in line with BoJ's main scenario in July
-- 10/15 14:53 [FirstSquawk] BoJ’s Koeda Says Price Pass-Through From Costs Is Tracking the Central Bank’s July Forecast
-- 10/15 14:53 [FirstSquawk] BoJ’s Koeda Pledges Appropriate Monetary Policy Adjustments to Keep Underlying Inflation Within the 2% Target
-- 10/15 14:55 [FirstSquawk] BoJ’s Koeda Says Fresh Economic Data Supporting Resilience Underpinned September Rate Hike
-- 10/15 14:55 [financialjuice] BoJ's Koeda: September rate hike reflected additional data showing resilience of the economy
-- 10/15 14:57 [FirstSquawk] BoJ’s Koeda Calls for a Broad Assessment of Financial Conditions That Includes Neutral Rates and Funding Demand
-- 10/15 15:00 [financialjuice] ❗ UK GDP ESTIMATE 3M/3M ACTUAL 0.7% (FORECAST 0.5%, PREVIOUS 0.4%) $MACRO
-- 10/15 15:00 [financialjuice] UK SERVICES MOM ACTUAL 0% (FORECAST -0.1%, PREVIOUS 0.4%) $MACRO
-- 10/15 15:00 [financialjuice] ‼ BREAKING: UK GDP ESTIMATE MOM ACTUAL 0.1% (FORECAST -0.1%, PREVIOUS 0.4%) $MACRO
-- 10/15 15:00 [financialjuice] UK CONSTRUCTION OUTPUT MOM ACTUAL -0.2% (FORECAST 0%, PREVIOUS 0.1%) $MACRO
-- 10/15 15:00 [financialjuice] UK INDUSTRIAL PRODUCTION YOY ACTUAL 1.6% (FORECAST 0.7%, PREVIOUS 0.6%) $MACRO
-- 10/15 15:00 [financialjuice] UK INDUSTRIAL PRODUCTION MOM ACTUAL 0.8% (FORECAST -0.1%, PREVIOUS 0.2%) $MACRO
-- 10/15 15:00 [financialjuice] UK GOODS TRADE BALANCE ACTUAL -18.007B (FORECAST -21.9B, PREVIOUS -20.96B) $MACRO
-- 10/15 15:00 [financialjuice] ❗ UK MANUFACTURING PRODUCTION MOM ACTUAL 1.2% (FORECAST 0%, PREVIOUS 0.9%) $MACRO
-- 10/15 15:00 [financialjuice] ❗ UK GDP ESTIMATE YOY ACTUAL 2.1% (FORECAST 1.7%, PREVIOUS 1.6%) $MACRO
-- 10/15 15:00 [financialjuice] UK MANUFACTURING PRODUCTION YOY ACTUAL 3.0% (FORECAST -, PREVIOUS 2.6%) $MACRO
-- 10/15 15:01 [financialjuice] UK GOODS TRADE BALANCE NON-EU ACTUAL -5.287B (FORECAST -, PREVIOUS -9.663B) $MACRO
-- 10/15 15:01 [financialjuice] UK GDP Estimate August 2026 Report
-- 10/15 15:04 [financialjuice] Azerbaijan's oil output stood at 61.000 tons per day in January-September - Energy Ministry
-- 10/15 15:05 [FirstSquawk] uk (aug) monthly gdp (3m/3m) actual: 0.7% vs 0.4% previous;est 0.5%
-- 10/15 15:05 [FirstSquawk] uk (aug) industrial production mom actual: 0.8% vs 0.2% previous;est -0.1%
-- 10/15 15:05 [FirstSquawk] uk (aug) industrial production yoy actual: 1.6% vs 0.6% previous;est 0.7%
-- 10/15 15:05 [FirstSquawk] uk (aug) manufacturing production mom actual: 1.2% vs 0.9% previous;est 0.0%
-- 10/15 15:06 [FirstSquawk] uk (aug) construction output yoy actual: -1.8% vs -2.5% previous;est -2.1%
-- 10/15 15:06 [FirstSquawk] norway (sep) trade balance actual: 105b vs 100.4b previous
-- 10/15 15:06 [FirstSquawk] uk (aug) index of servies mom actual: 0.0% vs 0.4% previous;est -0.1%
-- 10/15 15:06 [FirstSquawk] uk (aug) index of servies 3m/3m actual: 0.9% vs 0.6% previous;est 0.7%
-- 10/15 15:06 [FirstSquawk] uk (aug) visible trade balance gbp/mn actual: -18007m vs 20965m previous;est 21900m
-- 10/15 15:06 [FirstSquawk] uk (aug) trade balance gbp/mn actual: -920m vs 3450m previous;est 4150m
-- 10/15 15:06 [FirstSquawk] uk (aug) visible trade balance ex precious metals actual: -19839m vs 21427m previous
-- 10/15 15:06 [FirstSquawk] uk (aug) trade balance ex precious metals actual: -2752m vs 3912m previous;est 3200m
-- 10/15 15:07 [financialjuice] South Korea financial regulator holds emergency meeting on stock market - Statement
-- 10/15 15:07 [FirstSquawk] South Korea’s Financial Regulator Calls Emergency Meeting to Discuss Stock Market
-- 10/15 15:09 [financialjuice] South Korea Regulator orders proactive response to ensure market stability and investor protection
-- 10/15 15:10 [FirstSquawk] South Korean Watchdog Calls on Financial Firms to Avoid Excessive Lending and Improve Investor Safeguards and Risk Controls
-- 10/15 15:10 [FirstSquawk] South Korean Watchdog Says It Will Take Firm Action Against Behaviour That Disrupts Markets
-- 10/15 15:11 [FirstSquawk] South Korean Watchdog Prepared to Activate Contingency Measures if Necessary
-- 10/15 15:17 [financialjuice] TSMC: Hold strong conviction in AI mega trend $TSM
-- 10/15 15:25 [financialjuice] Russian Ryazan refinery attacked by drones overnight - Governor
-- 10/15 15:26 [FirstSquawk] TSMC Plans Additional N3 Fab in Tainan, Targets A14 Mass Production in 2028; Maintains Strong Conviction in AI Growth and Dispatches Teams to Review US Power and Data Centre Developments
-- 10/15 15:27 [FirstSquawk] TSMC Reports Exceptionally Strong Demand and Sees No Indications of Slowing
-- 10/15 15:30 [financialjuice] SWISS PPI MOM ACTUAL 0.3% (FORECAST -, PREVIOUS 0.7%) $MACRO
-- 10/15 15:30 [financialjuice] SWISS PPI YOY ACTUAL -0.2% (FORECAST -, PREVIOUS -0.7%) $MACRO
-- 10/15 15:31 [FirstSquawk] SWITZERLAND (SEP) PRODUCER & IMPORT PRICES MOM ACTUAL: 0.3% VS 0.7% PREVIOUS
-- 10/15 15:31 [FirstSquawk] SWITZERLAND (SEP) PRODUCER & IMPORT PRICES YOY ACTUAL: -0.2% VS -0.7% PREVIOUS
-- 10/15 15:32 [financialjuice] Mitsubishi Heavy and Ingeteam form a partnership on AI data centers
-- 10/15 15:35 [financialjuice] TSMC is considering Texas as a potential site for expansion - CEO $TSM
-- 10/15 15:45 [financialjuice] ❗ FRENCH HICP YOY FINAL ACTUAL 3.4% (FORECAST 3.4%, PREVIOUS 3.4%) $MACRO
-- 10/15 15:45 [financialjuice] FRENCH HICP MOM FINAL ACTUAL -0.3% (FORECAST -0.4%, PREVIOUS 0.4%) $MACRO
-- 10/15 15:48 [FirstSquawk] FRANCE (SEP) CPI EU HARMONIZED MOM ACTUAL: -0.3% VS -0.4% PREVIOUS; EST -0.4%
-- 10/15 15:48 [FirstSquawk] FRANCE (SEP) CPI EU HARMONIZED YOY ACTUAL: 3.4% VS 3.4% PREVIOUS; EST 3.4%
-- 10/15 15:48 [FirstSquawk] FRANCE (SEP) CPI MOM ACTUAL: -0.3% VS -0.3% PREVIOUS; EST -0.3%
-- 10/15 15:48 [FirstSquawk] FRANCE (SEP) CPI YOY ACTUAL: 3.1% VS 3.0% PREVIOUS; EST 3.0%
-- 10/15 15:48 [FirstSquawk] FRANCE (SEP) CPI EX-TOBACCO INDEX ACTUAL: 103.07 VS 103.35 PREVIOUS; EST 102.99
-- 10/15 15:50 [FirstSquawk] TSMC Says Capital Spending Plans for Next Year and Beyond Are Too Early to Quantify
-- 10/15 15:54 [financialjuice] BoE’s Greene: Risk of second-round effects are "pretty significant"
-- 10/15 15:58 [FirstSquawk] TSMC Sees Growing Demand for CPUs Powering Agentic AI Applications
-- 10/15 15:58 [FirstSquawk] TSMC Reports Demand Significantly Outstripping Its Ability to Supply Products Today
-- 10/15 15:58 [financialjuice] BoE’s Greene: Relying on market pricing doesn't work in the long term
-- 10/15 16:01 [financialjuice] Currency Strength Chart: Strongest: CHF, EUR, GBP, NZD, JPY, CAD, USD, AUD - Weakest
-- 10/15 16:12 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 0.06%; FRANCE'S CAC 40 DOWN 0.19%; SPAIN'S IBEX DOWN 0.17%; EURO STOXX INDEX DOWN 0.58%; GERMANY'S DAX DOWN 0.53%
-- 10/15 16:20 [FirstSquawk] GREENE SAYS WORRIED ABOUT SHORT TERM INFLATIONARY IMPACT OF AI
-- 10/15 16:22 [FirstSquawk] SAUDI ARABIA: ISSUES DANGER WARNING IN NAJRAN CITY
-- 10/15 16:23 [financialjuice] Saudi Arabia issues early warning alert for potential threat in Najran and Jazan - State TV
-- 10/15 16:24 [FirstSquawk] SIRENS SOUND, EXPLOSIONS HEARD IN SAUDI ARABIA'S NAJRAN AND JAZAN - SABREN NEWS
-- 10/15 16:27 [FirstSquawk] SWEDEN PM KRISTERSSON EU BUDGET PROPOSAL 'NOT EVEN A STARTIN POINT'; CURRENT PORPOSAL SIMPLY NOT ACCEPTABLE; NOT IN A HURRY TO FIND AGREEMENT ON EU BUDGET
-- 10/15 16:27 [FirstSquawk] KRISTERSSON: NOT SURE IF WE FIND AGREEMENT BEFORE END OF YEAR; US-RUSSIA DEAL ON DIESEL GOES IN WRONG DIRECTION;
-- 10/15 16:28 [FirstSquawk/financialjuice] SAUDI ARABIA: DANGER HAS PASSED IN NAJRAN
-- 10/15 16:28 [FirstSquawk] SAUDI ARABIA: DANGER HAS PASSED IN JAZAN CITY
-- 10/15 16:58 [FirstSquawk] GERMANY'S 10-YEAR GOVT BOND YIELD HITS LOWEST SINCE SEPT 9 AT 3.3819%, LAST DOWN 8.5 BPS
-- 10/15 17:00 [financialjuice] ECB's Kazaks: Inflationary forces still stronger in immediate future.
-- 10/15 17:00 [financialjuice] ECB's Kazaks: ECB is in no immediate need to rush on rates.
-- 10/15 17:01 [financialjuice] South Korea, Japan to extend currency swap agreement.
-- 10/15 17:02 [FirstSquawk] ECB'S KAZAKS: INFLATIONARY FORCES STILL STRONGER IN IMMEDIATE FUTURE.; ECB IS IN NO IMMEDIATE NEED TO RUSH ON RATES.
 - 10/15 17:09 [FirstSquawk] BOE'S BREEDEN: SURPRISED BY HOW UK ECONOMY HAS ABSORBED ENERGY SHOCK
 - 10/15 17:09 [financialjuice] Bank of England’s Breeden: companies speak to focus on cost-cutting not passing on energy price shock
 - 10/15 17:10 [FirstSquawk] BOE'S BREEDEN: BUSINESSES TALK ABOUT ABSORBING SHOCK AND CUTTING COSTS; LOOKING AT WHETHER ENERGY SHOCK IS GONE OR JUST DELAYED
@@ -344,6 +248,7 @@
 - 10/15 23:54 [FirstSquawk] UBS CUTS KIMBERLY-CLARK PRICE TARGET TO $106 FROM $116
 - 10/15 23:57 [FirstSquawk/financialjuice] SAUDI ARABIA ISSUES EARLY WARNING ALERT FOR POTENTIAL THREAT IN NAJRAN -CIVIL DEFENSE
 - 10/15 23:57 [DeItaone] GERMANY PLANS MAJOR AI PARTNERSHIP WITH NVIDIA — HANDELSBLATT German Chancellor Friedrich Merz is preparing a major AI partnership with Nvidia ($NVDA ), backed by hundreds of millions of euros in government funding. The initiative aims to a…
+- 10/15 23:58 [financialjuice] Saudi Arabia: Danger has passed in Najran.
 - 10/16 00:01 [financialjuice] US Treasury Auction Schedule US to sell $95 bln of 3-Month Bills on October 19, to settle on October 22 US to sell $82 bln of 6-Month Bills on October 19, to settle on October 22 US to sell $13 bln of reopened 20-Year Bonds on October 21, t…
 - 10/16 00:02 [financialjuice] Yemen's Houthis: The strike on 'Saudi Military operations HQ’ in Aden was part of a policy of targeting Saudi reinforcements.
 - 10/16 00:05 [financialjuice] Nvidia Releases Nemotron 3.5 Super VL, a 120-Billion-Parameter Open Agentic AI Model $NVDA Nvidia launches Nemotron 3.5 Super VL, expanding its portfolio of open AI models Nvidia: New model features 120 billion parameters and is designed fo…
@@ -383,4 +288,54 @@
 - 10/16 01:25 [FirstSquawk] UK TRADE MINISTER INDICATES PREPAREDNESS TO ALIGN WITH EU CHINA EV TARIFFS - POLITICO
 - 10/16 01:25 [FirstSquawk] ANTOFAGASTA PRODUCTION AT ‘NORMAL LEVELS’ DESPITE STRIKE
 - 10/16 01:38 [FirstSquawk] GERMANY, FRANCE AGREE ON EU AUTO PACT TO WEAKEN 2035 BAN - HANDELSBLATT
-- 10/16 01:46 [financialjuice] Germany and France reach a deal to preserve the EU car industry - AFP.
+- 10/16 01:46 [financialjuice/FirstSquawk] Germany and France reach a deal to preserve the EU car industry - AFP.
+- 10/16 01:54 [DeItaone] TRUMP LIVE https://t.co/MUrlXlLMx5
+- 10/16 01:56 [financialjuice] Trump Participates in a Rose Garden Lunch - WATCH LIVE
+- 10/16 02:00 [financialjuice] Meta releases an OpenAI model, keeps most advanced tech closed $META
+- 10/16 02:01 [DeItaone] $ADBE - ADOBE AND NVIDIA EXPAND COLLABORATION TO SPEED AGENTIC CREATION ADOBE - BRAND CONCIERGE WITH NVIDIA NEMOTRON AVAILABLE TO ENTERPRISE CUSTOMERS LATER THIS YEAR
+- 10/16 02:01 [FirstSquawk] HARVARD ENDOWMENT JUMPS TO RECORD $68B AFTER 27% ANNUAL RETURN
+- 10/16 02:03 [FirstSquawk] TRUMP: I'LL GO BACK TO TEXAS IF NECESSARY
+- 10/16 02:03 [DeItaone] ANTHROPIC'S SLOWING REVENUE GROWTH DOES NOT SIGNAL WEAKER AI DEMAND D.A. Davidson analysts Gil Luria and Turner Dischinger say Anthropic's slowing revenue growth should not be interpreted as a broader AI demand slowdown. They point to growi…
+- 10/16 02:03 [DeItaone] APPLE AND META TEAM UP TO MAKE MUSE AI MODEL RUN ON MAC COMPUTERS - CNBC
+- 10/16 02:14 [financialjuice] US: Civilian container ship sank while being towed to shore
+- 10/16 02:14 [financialjuice] US: Civilian ship M/V GFS Pride was hit by an IRGC projectile
+- 10/16 02:18 [financialjuice] Meta Releases Muse Spark Open $META
+- 10/16 02:22 [financialjuice/FirstSquawk] Anthropic is working with independent evaluators to test models
+- 10/16 02:37 [FirstSquawk] MICROSOFT COMPLETED PRE-TRAINING ON MODEL MAI-BASE-2.
+- 10/16 02:37 [FirstSquawk] JAPAN MOF OFFICIAL SAYS MORE IMPORTANT IS THE FACT THAT THE GLOBAL ECONOMY HAS SHOWN RESILIENCE TO VARIOUS SHOCKS, THOUGH POLICYMAKERS DID CONFIRM THE NEED FOR VIGILANCE AND ‘AVOIDING LEAVING ANY SEED OF A FINANCIAL SYSTEM CRISIS UNATTENDED…
+- 10/16 02:39 [financialjuice] EU said to be ready to fast-track a satellite rival to SpaceX $SPCX
+- 10/16 02:39 [FirstSquawk] U.S. SAYS THE CIVILIAN SHIP M/V GFS PRIDE WAS HIT BY AN IRGC PROJECTILE, WITH THE CIVILIAN CONTAINER SHIP SINKING WHILE BEING TOWED TO SHORE
+- 10/16 02:40 [DeItaone] EU READY TO FAST-TRACK SATELLITE RIVAL TO SPACEX
+- 10/16 02:41 [FirstSquawk] EU READY TO FAST-TRACK SATELLITE NETWORK TO RIVAL SPACEX’S STARLINK
+- 10/16 02:42 [FirstSquawk] META IS RELEASING MUSE SPARK OPEN, THE OPEN-WEIGHTS VERSION OF MUSE SPARK, PUTTING THE MODEL WEIGHTS UNDER A LICENSE WITH LIMITED COMMERCIAL RESTRICTIONS THAT ALLOWS MANY DEVELOPERS TO USE THE MODEL FOR FREE, WITH WEIGHTS AVAILABLE FOR DOWN…
+- 10/16 02:42 [FirstSquawk] META SAYS MUSE SPARK OPEN IS AN 816-BILLION-PARAMETER SPARSE MIXTURE-OF-EXPERTS MODEL THAT ACTIVATES ROUGHLY 42 BILLION PARAMETERS PER TOKEN, BRINGING ADVANCED AGENTIC CAPABILITIES TO DESKTOP COMPUTERS FOR THE FIRST TIME ON APPLE M5 ULTRA M…
+- 10/16 02:42 [FirstSquawk] META SAYS THE MODEL IS ALSO AVAILABLE THROUGH API PLATFORMS INCLUDING BASETEN, FIREWORKS AI, GROQ, MODAL, NEBIUS, OPENROUTER AND TOGETHER AI.
+- 10/16 02:46 [DeItaone] $CRWV - COREWEAVE SHARES REVERSE DECLINES, LAST UP 2.7%
+- 10/16 02:48 [FirstSquawk] UNICREDIT SAYS IT HAS BEEN ALLOWED TO INCREASE ITS COMMERZBANK STAKE WITHOUT MAXIMUM LIMITS, AND IS EXPECTED TO HOLD ABOUT 50% OF VOTING RIGHTS BY YEAR-END
+- 10/16 02:49 [FirstSquawk] FRANCE SOCIAL SECURITY COMMITTEE DEPUTIES REJECT REVENUE PART OF SOCIAL SECURITY BUDGET — LE MONDE
+- 10/16 03:02 [financialjuice] ❗ EU plans a trade tool that could block China from the single market
+- 10/16 03:03 [financialjuice] US Treasury Debt Buyback
+- 10/16 03:07 [financialjuice] Google Quantum AI publishes a breakthrough in quantum computing $GOOGL
+- 10/16 03:08 [financialjuice] Google Quantum AI's Willow clears a key resource bottleneck. $GOOGL
+- 10/16 03:16 [FirstSquawk] EU PLANS TRADE TOOL THAT COULD BLOCK CHINA FROM ACCESSING THE SINGLE MARKET
+- 10/16 03:16 [FirstSquawk] U.S. TREASURY’S DEBT BUYBACK TARGETED COUPONS MATURING IN 2037-2046, RECEIVING $40.836 BLN OF OFFERS AND ACCEPTING $6 BLN — MATCHING THE MAXIMUM — ACROSS 3 OF 42 ELIGIBLE ISSUES
+- 10/16 03:17 [FirstSquawk] GOOGLE QUANTUM AI HAS PUBLISHED A BREAKTHROUGH IN QUANTUM COMPUTING, WITH ITS WILLOW CHIP CLEARING A KEY RESOURCE BOTTLENECK
+- 10/16 03:18 [FirstSquawk] ANTHROPIC PROPOSES $2 TRILLION VALUATION AMID UNCERTAIN IPO MARKET CONDITIONS
+- 10/16 03:31 [financialjuice] NYMEX WTI Crude November futures settle at $97.97 a barrel, up $2.88, 3.03%.
+- 10/16 03:31 [financialjuice] NYMEX Gasoline November futures settle at $3.1802 a gallon.
+- 10/16 03:32 [financialjuice] NYMEX Natural Gas November futures settle at $3.2360/MMBTU
+- 10/16 03:32 [financialjuice] NYMEX Diesel November futures settle at $4.8456 a gallon.
+- 10/16 03:32 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 3.03% HIGHER AT $97.97/BBL, UP $2.88
+- 10/16 03:52 [financialjuice] Brent crude futures settle at $105.92/bbl, down 14 cents, 0.13%
+- 10/16 03:54 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 0.13% LOWER AT $105.92/BBL, DOWN 14 CENTS
+- 10/16 04:17 [FirstSquawk] REPORTS OF MULTIPLE EXPLOSIONS IN JEDDAH - FARS NEWS
+- 10/16 04:22 [financialjuice] Friday FX Option Expiries
+- 10/16 04:22 [FirstSquawk] KFC IS MOVING TO DITCH PEPSI FOR COKE IN THOUSANDS OF RESTAURANTS, WITH TALKS AT AN ADVANCED STAGE AND THE SWITCH TO COKE AT KFC U.S. SET TO TAKE PLACE IN JANUARY IF THE DEAL IS COMPLETED - WSJ
+- 10/16 04:27 [FirstSquawk] WHITE HOUSE IS PREPARING PLANS TO USE A WEAPON DUBBED THE ‘MOTHER OF ALL BOMBS’ ON IRAN, SOURCES SAY - CBS NEWS
+- 10/16 04:34 [DeItaone] WHITE HOUSE PREPARES PLANS TO USE WEAPON DUBBED "MOTHER OF ALL BOMBS" ON IRAN, SOURCES SAY - CBS NEWS
+- 10/16 04:35 [FirstSquawk] SKYCITY ENTERTAINMENT HAS SIGNED AN SPA FOR THE SALE OF THE GRAND HOTEL AND ITS BUSINESS ASSETS FOR NZ$221 MLN, AND HAS AGREED TO MANAGE AND OPERATE THE GRAND HOTEL FOR A TRANSITIONAL PERIOD UNTIL 30 JUNE 2027
+- 10/16 04:38 [FirstSquawk] YEMEN HEALTH MINISTER: HOUTHI ATTACK ON PRESIDENTIAL PALACE COMPLEX IN ADEN KILLS 5, WOUNDS 16
+- 10/16 04:38 [financialjuice] Total money market funds fell $40.46b to $7.92t for the week ended October 14th - ICI
+- 10/16 04:39 [FirstSquawk] SAUDI CIVIL DEFENCE ISSUES EMERGENCY DANGER ALERT FOR JAZAN PROVINCE
+- 10/16 04:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: -2379.4 MLN NASDAQ 100: -1888.9 MLN DOW 30: -980.3 MLN MAG 7: -1034.1 MLN $MACRO
+- 10/16 04:55 [FirstSquawk] KFC U.S. HAS ANNOUNCED A NEW BEVERAGE PARTNERSHIP WITH THE COCA-COLA COMPANY, AND WILL SERVE COCA-COLA PRODUCTS IN ALL U.S. RESTAURANTS BY SPRING 2027
