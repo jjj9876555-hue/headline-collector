@@ -7,104 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-16 05:04 JST／対象: 10/15 17:04 〜 10/16 05:04 JST（時刻はすべて日本時間）
+生成: 2026-10-16 08:00 JST／対象: 10/15 20:00 〜 10/16 08:00 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 68 | 10/15 18:42 | 10/16 04:34 | ⚠ 107分（02:46→04:34） |
-| FirstSquawk | 123 | 10/15 17:09 | 10/16 04:55 | 27分（02:03→02:30） |
-| financialjuice | 138 | 10/15 17:09 | 10/16 04:50 | ⚠ 61分（19:29→20:30） |
+| DeItaone | 60 | 10/15 20:19 | 10/16 06:33 | ⚠ 107分（02:46→04:34） |
+| FirstSquawk | 114 | 10/15 20:00 | 10/16 07:06 | 27分（02:03→02:30） |
+| financialjuice | 124 | 10/15 20:30 | 10/16 07:05 | 30分（01:15→01:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 315 行（統合前 331 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 283 行（統合前 299 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/15 17:09 [FirstSquawk] BOE'S BREEDEN: SURPRISED BY HOW UK ECONOMY HAS ABSORBED ENERGY SHOCK
-- 10/15 17:09 [financialjuice] Bank of England’s Breeden: companies speak to focus on cost-cutting not passing on energy price shock
-- 10/15 17:10 [FirstSquawk] BOE'S BREEDEN: BUSINESSES TALK ABOUT ABSORBING SHOCK AND CUTTING COSTS; LOOKING AT WHETHER ENERGY SHOCK IS GONE OR JUST DELAYED
-- 10/15 17:11 [financialjuice] Brussels - Spanish PM Sanchez: we disagree with current EU budget plan, it is inadequate
-- 10/15 17:11 [financialjuice] BoE's Breeden: easing of labor market hopes to avoid wage price pressure like in 2022
-- 10/15 17:16 [financialjuice] UBS expects US Fed to deliver a third rate hike in march 2027 vs prior forecast for hiking cycle to end in December.
-- 10/15 17:17 [financialjuice] Germany’s Chancellor Merz: No EU member can afford the current EU budget proposal.
-- 10/15 17:19 [FirstSquawk] MERZ SAYS NO EU COUNTRY CAN HANDLE THE CURRENT BUDGET PLAN.
-- 10/15 17:19 [FirstSquawk] GERMANY'S MERZ ANTICIPATES CHALLENGING BUDGET DISCUSSIONS.
-- 10/15 17:19 [financialjuice] Germany’s Chancellor Merz: Hope for agreement on eu budget before end of year.
-- 10/15 17:19 [FirstSquawk] MERZ EXPECTS AN EU BUDGET DEAL BY YEAR'S END.
-- 10/15 17:19 [financialjuice] Germany’s Chancellor Merz: I do not expect an agreement on long-term EU budget this weekend.
-- 10/15 17:21 [FirstSquawk] BREEDEN: SEEING SENSE OF RESILIENCE, COST MANAGEMENT AROUND UK; ACTIVITY NOT FALLING OFF CLIFF, LABOR MKT. HOLDING UP
-- 10/15 17:21 [financialjuice] BoE Breeden: Activity is not falling off cliff, labor market is holding up.
-- 10/15 17:31 [financialjuice/FirstSquawk] Russia mulls ban on LPG exports amid market conditions - IFX
-- 10/15 17:31 [financialjuice/FirstSquawk] Russia to continue gasoline imports until at least year-end - IFX
-- 10/15 17:35 [FirstSquawk] NOVAK SAYS CONTRACTS TO BE SIGNED BEFORE DIESEL EXPORTS BEGIN: IFX
-- 10/15 17:36 [financialjuice] Japan Economy Minister Kiuchi: Japan's economy can no longer be described as deflationary.
-- 10/15 17:47 [financialjuice] UK's Chancellor Healey: Already seeing signs AI improves productivity.
-- 10/15 17:47 [FirstSquawk] UK'S HEALEY: BUDGET WILL GIVE BRITAIN A BIT OF BREATHING SPACE; WILL TAKE STEPS TO REINFORCE RESILIENCE OF UK ECONOMY IN BUDGET
-- 10/15 17:48 [financialjuice] UK's Chancellor Healey: Budget will give britain "breathing space".
-- 10/15 17:50 [financialjuice] UK's Chancellor Healey: Rise in UK yields has been driven by global uncertainties.
-- 10/15 17:50 [FirstSquawk] UKRAINE: NORMAL STARLINK INTERNET SERVICE HAS BEEN RESTORED
-- 10/15 17:50 [FirstSquawk] SAUDI-LED COALITION: INTERCEPTED CRUISE MISSILE IN MEDINA
-- 10/15 17:52 [FirstSquawk] UK'S CHANCELLOR HEALEY: RISE IN UK YIELDS DRIVEN BY GLOBAL UNCERTAINTIES; MUST GIVE CONFIDENCE TO INVESTORS ABOUT UK; MUST PAY FOR THINGS WITHIN BUDGET AVAILABLE
-- 10/15 17:53 [financialjuice] Japan Economy Minister Kiuchi: Proactive fiscal policy does not mean lax fiscal discipline.
-- 10/15 17:53 [financialjuice] UK's Chancellor Healey: I won't speculate on taxes ahead of budget.
-- 10/15 17:56 [FirstSquawk] APPLE CHAIRMAN SAYS APPLE INTELLIGENCE APPROVED IN CHINA
-- 10/15 17:58 [financialjuice] FRENCH 5 YR OAT BID-TO-COVER ACTUAL 2.297 (FORECAST -, PREVIOUS 2.22) $MACRO
-- 10/15 17:58 [financialjuice] FRENCH 5 YR OAT YIELD ACTUAL 4.16% (FORECAST -, PREVIOUS 3.92%) $MACRO
-- 10/15 18:00 [financialjuice] EUROZONE INDUSTRIAL PRODUCTION YOY ACTUAL -1.1% (FORECAST -0.1%, PREVIOUS 0.0%) $MACRO
-- 10/15 18:00 [financialjuice] EUROZONE INDUSTRIAL PRODUCTION MOM ACTUAL -0.5% (FORECAST 0%, PREVIOUS -0.1%) $MACRO
-- 10/15 18:00 [FirstSquawk] EURO AREA INDUSTRIAL PRODUCTION DROPPED 1.1% YEAR-OVER-YEAR; EXPECTATION WAS A SLIGHT DECREASE OF 0.1%.
-- 10/15 18:02 [FirstSquawk] FTC SOUGHT DOCS FROM ANTHROPIC, OPENAI ON INCIDENTS - AXIOS
-- 10/15 18:03 [FirstSquawk] BILL GATES GEARING UP TO EXPAND AI SAFETY PUSH - AXIOS
-- 10/15 18:03 [FirstSquawk] FTC PLANS TO COMPEL TOP AI EXECS TO TESTIFY ON PRODUCTS - AXIOS
-- 10/15 18:03 [FirstSquawk] FTC SENT CIVIL SUBPOENAS TO THE AI FIRMS ON WED. - AXIOS
-- 10/15 18:07 [financialjuice] Japan's economy minister Kiuchi: Proactive fiscal policy not meant to expand unnecessary expenditures
-- 10/15 18:11 [FirstSquawk] JAPAN ECONOMY MINISTER KIUCHI: PROACTIVE FISCAL POLICY NOT MEANT TO EXPAND UNNECESSARY EXPENDITURES
-- 10/15 18:11 [FirstSquawk] JAPAN ECONOMY MINISTER KIUCHI: REFLATIONARY POLICY IS NOT WHAT'S NEEDED NOW; IF SOMEONE IS CALLING FOR REFLATIONARY POLICY, THAT'S DIFFERENT FROM OUR POLICY; TAKAICHI ADMINISTRATION IS NOT PURSUING REFLATIONARY POLICY
-- 10/15 18:15 [FirstSquawk] JAPAN ECONOMY MINISTER KIUCHI: SPECIFIC MONETARY POLICY SHOULD BE LEFT TO BOJ; WON'T COMMENT ON FOREX
-- 10/15 18:15 [FirstSquawk] JAPAN ECONOMY MINISTER KIUCHI: GENERALLY SPEAKING, FOREX IS DETERMINED IN MARKETS BY VARIOUS FACTORS; SHOULD AVOID SHORT-TERM WILD SWINGS IN FOREX
-- 10/15 18:17 [FirstSquawk] INDIA-US NEGOTIATIONS IN RIGHT DIRECTION - INDIA TRADE SECY
-- 10/15 18:18 [FirstSquawk] INDIA SEEKING PREFERENTIAL MARKET ACCESS IN US DEAL - TRADE SECY
-- 10/15 18:20 [FirstSquawk] INDIA WANTS MORE TARIFF STABILITY IN US DEAL - TRADE SECY
-- 10/15 18:27 [financialjuice] Poll: BoE to hike bank rate to 4.00% on November 5th, said 54 of 63 economists (54 out of 65 forecast a hold in the last poll)
-- 10/15 18:27 [financialjuice] Poll: UK inflation forecast to average 3.6% in 4 2026, 3.8% in Q1 2027, 3.0% in 2027 (vs 3.3%, 3.2%, 2.5% in September poll)
-- 10/15 18:27 [financialjuice] Poll: UK gross domestic product to grow 1.3% in 2026, 1.2% in 2027 (vs 1.1%, 1.2% in September poll)
-- 10/15 18:30 [FirstSquawk] CHINA SIGNALS RARE EARTHS WILL KEEP FLOWING TO EUROPE - CNBC
-- 10/15 18:32 [FirstSquawk] INDIA TRADE SECY: VERY NEAR TO CLOSING INDIA-US DEAL
-- 10/15 18:42 [DeItaone] UKRAINE HIT A RUSSIAN REFINERY OVERNIGHT IN RESPONSE TO RUSSIA'S BALLISTIC MISSILE AND DRONE ATTACKS THAT VIOLATED TRUMP ENERGY TRUCE, UKRAINIAN OFFICIAL SAID
-- 10/15 18:45 [DeItaone] US 10-YEAR TREASURY YIELDS EXTEND FALL, NOW DOWN 11 BPS AT 5.08%
-- 10/15 18:47 [DeItaone] IRAN: Regional Media Suggests Vessels Targeted In Strait Of Hormuz Regional media outlets note "Vessels violating regulations in the Strait of Hormuz were targeted, and explosions were heard."
-- 10/15 18:47 [DeItaone] SPAIN TO RELEASE 4.4 MILLION BARRELS FROM STRATEGIC RESERVES IN OCTOBER - ENERGY MINISTRY OFFICIAL
-- 10/15 18:51 [DeItaone] https://t.co/oyfcqvR35b
-- 10/15 18:53 [DeItaone] ANTHROPIC'S SLOWING GROWTH DEEPENS AI STOCK SELLOFF Anthropic's quarterly revenue reportedly rose 45% to $16.8 billion, slowing sharply from triple-digit growth in the previous quarter. The slowdown raises concerns about its reported $2 tri…
-- 10/15 18:55 [DeItaone] KREMLIN: RUSSIAN DIESEL HAS STARTED TO REACH GLOBAL MARKETS KREMLIN: IT WILL BE A POSITIVE IMPACT FOR THE MARKETS, BUT WON'T BE ABLE TO FULLY STABILISE IT
-- 10/15 18:55 [DeItaone] KREMLIN SAYS UKRAINIAN REFINERY STRIKES CONTRADICT PEACE EFFORTS BY UNITED STATES KREMLIN SAYS LATEST UKRAINIAN ATTACK ON REFINERY IS NOTHING NEW
-- 10/15 18:57 [FirstSquawk] KREMLIN SAYS UKRAINIAN REFINERY STRIKES CONTRADICT PEACE EFFORTS BY UNITED STATES; SAYS LATEST UKRAINIAN ATTACK ON REFINERY IS NOTHING NEW
-- 10/15 18:57 [FirstSquawk] KREMLIN: RUSSIAN DIESEL HAS STARTED TO REACH GLOBAL MARKETS; IT WILL BE A POSITIVE IMPACT FOR THE MARKETS, BUT WON'T BE ABLE TO FULLY STABILISE IT
-- 10/15 19:03 [financialjuice] UK's Chancellor Healey: I am conscious that energy costs are 'punishing"
-- 10/15 19:03 [financialjuice] UK's Chancellor Healey: We will meet the fiscal rules
-- 10/15 19:03 [financialjuice] UK's Chancellor Healey: The UK is still looking at all options on Russian assets
-- 10/15 19:04 [financialjuice] UK's Chancellor Healey: Support needs to be targeted and temporary
-- 10/15 19:05 [DeItaone] US PREMARKET WATCHLIST — OCT 15 $CRWV -6.50% — AI infrastructure financing concerns continue to weigh on the stock. Investors are increasingly focused on debt levels and the cost of funding data center expansion. $MU -4.00% — Memory stocks …
-- 10/15 19:11 [FirstSquawk] ECB'S MOULIN CONFIDENT ABOUT FINANCIAL STABILITY IN FRANCE; FRANCE CAN CUT DEFICIT TO 3% IN THREE YEARS - CNBC
-- 10/15 19:15 [FirstSquawk] GERMAN 10-YEAR YIELD FALLS 10BPS TO 3.37%, LOWEST SINCE SEPT. 8
-- 10/15 19:15 [FirstSquawk] TRUMP TELLS POLITICO HE HAS COMPLETE CONFIDENCE IN WILES
-- 10/15 19:16 [financialjuice] Russian Urals oil cargoes for delivery in December offered at near parity with dated Brent in India amid weak refining margins - Sources
-- 10/15 19:16 [financialjuice] EU: Second summit between the European Union and the Gulf Cooperation Council, originally planned for 24 October 2026 in Riyadh and Saudi Arabia, has been postponed.
-- 10/15 19:16 [financialjuice] ECB's Moulin: France can slash deficit to 3% in 3 years - CNBC
-- 10/15 19:16 [financialjuice] EU: Will announce a new date for this EU-GCC summit in due course
-- 10/15 19:17 [financialjuice] ECB's Moulin: Confident about financial stability in France - CNBC
-- 10/15 19:17 [financialjuice] Trump tells Politico he has complete confidence in Susie Wiles
-- 10/15 19:21 [DeItaone] AI DEBT FEARS SURGE AS TECH DEFAULT INSURANCE HITS RECORD HIGHS The cost of insuring against defaults by major U.S. tech companies has reached record highs as investors worry about AI spending, rising debt and higher interest rates. CoreWea…
-- 10/15 19:24 [FirstSquawk] ROMANIAN PRESIDENT SAYS TWO AIR DRONES HIT THE SHIPS WHICH CAUGHT FIRE IN ROMANIAN TERRITORIAL WATERS
-- 10/15 19:29 [financialjuice] Iran foreign minister to visit Iraq for OIC summit on October 17th
-- 10/15 19:35 [FirstSquawk] Bank Of New York Mellon Q3 26 Earnings: - Revenue: $5.68B (est $5.55B) - Adjusted EPS: $2.37 (est $2.27) - Net Interest Income: $1.42B - Fee Revenue: $4.08B - CET1 Capital Ratio: 10.9% - Average Deposits: $311B - AUC/A At Q3-End: $63.4T - A…
-- 10/15 19:47 [DeItaone] $CRWV : MIZUHO CUTS TARGET PRICE TO $88 FROM $115
-- 10/15 19:52 [FirstSquawk] SNB'S TSCHUDIN: INFLATIONARY PRESSURES SLIGHTLY HIGHER THAN IN JUNE
-- 10/15 19:52 [DeItaone] DEUTSCHE BANK SAYS BUY COREWEAVE DIP — SEES 128% UPSIDE Deutsche Bank maintains its Buy rating on CoreWeave ($CRWV ) with a $150 price target, implying 128% upside from Wednesday's close. Despite shares plunging over 15%, the bank sees no c…
 - 10/15 20:00 [FirstSquawk] US Bancorp Q3 26 Earnings: - EPS: $1.34 (est $1.32) - Net Interest Income FTE: $4.49B (est $4.5B) - Net Interest Margin: 2.84% (est 2.81%) - Basel III CET 1 Ratio: 10.8% (est 10.8%) - Cash & Due From Banks: $49.52B (est $58.73B) - Net Charg…
 - 10/15 20:04 [FirstSquawk] Marsh McLennan Q3 26 Earnings: - Adjusted Operating Income: $1.53B (est $1.49B) - Underlying Revenue: +5% (est +3.93%) - Adjusted Operating Margin: 22.7% (est 22.8%) - Revenue: $6.86B (est $6.64B)
 - 10/15 20:06 [FirstSquawk] PBOC'S PAN: EXCHANGE RATES CANNOT FIX GLOBAL IMBALANCES
@@ -339,3 +258,52 @@
 - 10/16 04:39 [FirstSquawk] SAUDI CIVIL DEFENCE ISSUES EMERGENCY DANGER ALERT FOR JAZAN PROVINCE
 - 10/16 04:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: -2379.4 MLN NASDAQ 100: -1888.9 MLN DOW 30: -980.3 MLN MAG 7: -1034.1 MLN $MACRO
 - 10/16 04:55 [FirstSquawk] KFC U.S. HAS ANNOUNCED A NEW BEVERAGE PARTNERSHIP WITH THE COCA-COLA COMPANY, AND WILL SERVE COCA-COLA PRODUCTS IN ALL U.S. RESTAURANTS BY SPRING 2027
+- 10/16 05:04 [FirstSquawk] DOW JONES CLOSES 1.11% HIGHER AT 52,191.97, UP 570.49 POINTS
+- 10/16 05:04 [FirstSquawk] S&P 500 CLOSES 0.36% HIGHER AT 7,746.44, UP 27.50 POINTS
+- 10/16 05:04 [FirstSquawk] NASDAQ CLOSES 0.15% HIGHER AT 26,732.71, UP 39.85 POINTS
+- 10/16 05:06 [financialjuice] Stocks Rebound as Nvidia Backs CoreWeave Amid AI Investment Concerns – US Market Wrap
+- 10/16 05:16 [FirstSquawk] STOCKS BOUNCED AFTER A DROP DRIVEN BY WORRIES ABOUT THE SUSTAINABILITY OF THE AI TRADE, WITH THE S&P 500 HALTING A THREE-DAY DROP AS A SELLOFF IN CHIPMAKERS EASED AFTER NVIDIA’S JENSEN HUANG DEFENDED THE FINANCIAL HEALTH OF AI COMPUTING SUP…
+- 10/16 05:16 [FirstSquawk] ATTENTION TURNS TO FED CHAIR KEVIN WARSH’S REMARKS FOR CLUES ON WHETHER OFFICIALS ARE PIVOTING FROM A SKIP TO AN OCTOBER RATE HIKE, WITH EVERCORE’S KRISHNA GUHA SAYING ‘ON BALANCE, WE THINK WARSH WILL TALK IN A WAY THAT DOES NOT SUGGEST AN …
+- 10/16 05:16 [FirstSquawk] THE S&P 500 ROSE 0.3% AND THE DOW GAINED 1.1% WHILE THE NASDAQ 100 WAS LITTLE CHANGED, AS THE 10-YEAR TREASURY YIELD FELL 10 BASIS POINTS TO 5.09%, WTI CRUDE ROSE 2.8% TO $97.71 A BARREL, SPOT GOLD GAINED 1.8% TO $4,177.27 AN OUNCE AND BITC…
+- 10/16 05:33 [FirstSquawk] STATE DEPARTMENT OFFICIAL SAYS RUBIO SPOKE WITH LEBANON’S PRESIDENT AOUN ON THE CONFISCATION OF SEVERAL HUNDRED KILOS OF EXPLOSIVES FROM HEZBOLLAH, URGING AOUN TO HOLD ACCOUNTABLE THOSE WHO ORDERED, FINANCED AND DIRECTED THE SHIPMENT.
+- 10/16 05:33 [FirstSquawk] STATE DEPARTMENT OFFICIAL SAYS RUBIO ALSO URGED DIRECT MILITARY-TO-MILITARY COMMUNICATION BETWEEN LEBANESE AND ISRAELI FORCES ‘FOR DECONFLICTION’.
+- 10/16 05:36 [financialjuice/FirstSquawk] US Secretary of State Rubio spoke with Israel's Prime Minister Netanyahu today - Axios
+- 10/16 05:39 [financialjuice] US Sec. of Defense Hegseth met with UK'S Streeting at the Pentagon today
+- 10/16 05:40 [FirstSquawk] BLUE OWL CAPITAL SAYS ITS REVOLVING CREDIT COMMITMENT HAS BEEN INCREASED TO $3.23 BLN, WITH THE POTENTIAL TO RISE TO $3.87 BLN, AND THE MATURITY DATE OF THE FACILITY EXTENDED TO OCTOBER 14, 2031 - SEC FILING
+- 10/16 05:41 [FirstSquawk] PINTEREST SAYS IT HAS ENTERED A FIVE-YEAR, $700 MLN REVOLVING CREDIT FACILITY ON OCT. 15, 2026, REPLACING ITS PREVIOUS $500 MLN REVOLVING CREDIT FACILITY ENTERED INTO ON OCTOBER 25, 2022 AND AMENDED IN OCTOBER 2023 - SEC FILING
+- 10/16 05:44 [financialjuice] Pentagon: US would reduce troop presence in Europe with NATO 3.0
+- 10/16 05:44 [financialjuice] Pentagon: NATO 3.0 envisions rebalancing of the NATO alliance
+- 10/16 05:45 [financialjuice] Pentagon: The US would shift focus to the Pacific and other regions
+- 10/16 05:46 [financialjuice] Fed's Hammack: Hearing more from lower-income Americans struggling with inflation
+- 10/16 05:48 [financialjuice] Fed's Hammack: Anecdotal information provides important economic guidance
+- 10/16 05:57 [financialjuice/FirstSquawk] ❗ Some investors dial back Anthropic valuation expectations amid disappointing results, market selloff - Sources
+- 10/16 05:59 [DeItaone] ANTHROPIC’S IPO VALUATION EXPECTATIONS DROP FROM $2 TRILLION TO $1.5 TRILLION Some investors are considering a $1.5 trillion valuation for Anthropic’s upcoming IPO, down 25% from earlier expectations of $2 trillion. Anthropic reported $16.8…
+- 10/16 06:00 [financialjuice] S. KOREAN EXPORT PRICE YOY ACTUAL 40.9% (FORECAST -, PREVIOUS 42.4%) $MACRO
+- 10/16 06:02 [FirstSquawk] ENTAGON SAYS ‘NATO 3.0’ ENVISIONS A REBALANCING OF THE NATO ALLIANCE UNDER WHICH THE U.S. WOULD REDUCE ITS TROOP PRESENCE IN EUROPE AND SHIFT FOCUS TO THE PACIFIC AND OTHER REGIONS, AS U.S. DEFENSE SECRETARY HEGSETH MET WITH THE UK’S STREET…
+- 10/16 06:03 [FirstSquawk] PENTAGON SAYS ‘NATO 3.0’ ENVISIONS A REBALANCING OF THE NATO ALLIANCE UNDER WHICH THE U.S. WOULD REDUCE ITS TROOP PRESENCE IN EUROPE AND SHIFT FOCUS TO THE PACIFIC AND OTHER REGIONS, AS U.S. DEFENSE SECRETARY HEGSETH MET WITH THE UK’S STREE…
+- 10/16 06:04 [FirstSquawk] MSCI PROPOSES RECLASSIFYING INDONESIA FROM EMERGING TO STANDALONE MARKET STATUS; FREEZE ON INDONESIAN INDEX CHANGES MAINTAINED, WITH GLOBAL & REGIONAL INDEXES TO BE IMPACTED
+- 10/16 06:04 [FirstSquawk] MSCI FLAGS ‘SIGNIFICANT CONCERNS’ OVER SUSPECTED COORDINATED TRADING IN INDONESIA; SAYS MEANINGFUL ENFORCEMENT EVIDENCE REMAINS LACKING
+- 10/16 06:04 [FirstSquawk] SOUTH KOREA’S SEPTEMBER EXPORT PRICE INDEX ROSE 40.9% YEAR-ON-YEAR, EASING FROM 42.4%, WHILE THE IMPORT PRICE INDEX ROSE 17.6%, UP FROM 15.6%
+- 10/16 06:05 [FirstSquawk] NETFLIX PREPARES TO CUT 800 JOBS DAYS BEFORE EARNINGS AMID DECLINING U.S. TV VIEWING SHARE
+- 10/16 06:07 [FirstSquawk] FED’S HAMMACK SAYS SHE IS HEARING MORE FROM LOWER-INCOME AMERICANS STRUGGLING WITH INFLATION, ADDING THAT ANECDOTAL INFORMATION PROVIDES IMPORTANT ECONOMIC GUIDANCE.
+- 10/16 06:07 [FirstSquawk] FED'S HAMMACK SAYS BUSINESSES ARE SEEING A LOT OF INPUT COST PRICE PRESSURES, ADDING THAT SHE WORRIES ABOUT THE FORMATION OF AN INFLATION MENTALITY.
+- 10/16 06:08 [FirstSquawk] EUROPEAN COMMISSION PREPARES TO FAST-TRACK ANTITRUST APPROVAL FOR AIRBUS-LEONARDO-THALES SATELLITE VENTURE ‘PROJECT BROMO’ TO REDUCE RELIANCE ON SPACEX & US PROVIDERS
+- 10/16 06:08 [FirstSquawk] EU PROJECT TO STRENGTHEN SPACE INDUSTRY AGAINST US & CHINESE RIVALS FACES COMPETITION, JOBS & SUPPLIER SCRUTINY; APPROVAL COULD COME AFTER JUST OVER A MONTH IF CONCESSIONS ADDRESS CONCERNS
+- 10/16 06:26 [DeItaone] FED'S HAMMACK: FINANCIAL CONDITIONS DO NOT APPEAR RESTRICTIVE RIGHT NOW
+- 10/16 06:30 [financialjuice] NEW ZEALAND MANUFACTURING PMI ACTUAL 56.5 (FORECAST -, PREVIOUS 53.1) $MACRO
+- 10/16 06:30 [financialjuice] New Zealand September seasonally adjusted PMI 56.5: Business NZ/Bank NZ survey
+- 10/16 06:31 [FirstSquawk] NEW ZEALAND’S SEPTEMBER SEASONALLY ADJUSTED MANUFACTURING PMI ROSE TO 56.5 FROM 53.1 - BUSINESS NZ/BANK NZ SURVEY
+- 10/16 06:32 [DeItaone] FLAVIO BOLSONARO SEEN WITH 51% OF VALID VOTES VS LULA'S 49% IN BRAZIL PRESIDENTIAL RUNOFF - DATAFOLHA POLL
+- 10/16 06:33 [DeItaone] FED’S HAMMACK WARNS MORE AGGRESSIVE ACTION MAY BE NEEDED TO FIGHT INFLATION Cleveland Fed President Beth Hammack warned that deteriorating inflation expectations could force the Federal Reserve to take more aggressive monetary policy action…
+- 10/16 06:45 [financialjuice] NEW ZEALAND FOOD PRICE INDEX ACTUAL 0% (FORECAST -, PREVIOUS 0.3%) $MACRO
+- 10/16 06:45 [financialjuice] Nz actual electronic card retail sales rise 0.9% in September year on year
+- 10/16 06:45 [financialjuice] NZ s/adj electronic card retail sales down 0.4% in Sept vs prior month
+- 10/16 06:45 [financialjuice] New Zealand food price inflation index steady at 0.0% in September month-on-month: Stats NZ
+- 10/16 06:45 [FirstSquawk] NEW ZEALAND’S FOOD PRICE INFLATION INDEX WAS STEADY AT 0.0% IN SEPTEMBER MONTH-ON-MONTH, DOWN FROM A PRIOR 0.3%, WHILE SEASONALLY ADJUSTED ELECTRONIC CARD RETAIL SALES FELL 0.4% ON THE MONTH THOUGH ACTUAL SALES ROSE 0.9% YEAR-ON-YEAR - STAT…
+- 10/16 07:04 [financialjuice/FirstSquawk] Drones strike industrial sites in Russia's Rostov region: governor
+- 10/16 07:05 [financialjuice] Gryspan says she wouldn’t be surprised to encounter veto power resistance on Friday
+- 10/16 07:05 [financialjuice] Grynspan: UN must enforce discipline to prevent agency overlap, reduce senior positions
+- 10/16 07:05 [financialjuice] Frontrunner in race for UN chief Rebeca Grynspan: 'UN has become too risk-averse' - source
+- 10/16 07:05 [financialjuice] Grynspan: opposition of permanent security council members has been overcome before
+- 10/16 07:06 [FirstSquawk] REBECA GRYNSPAN, THE FRONTRUNNER IN THE RACE FOR UN CHIEF, SAYS ‘THE UN HAS BECOME TOO RISK-AVERSE’, ARGUING THE UN MUST ENFORCE DISCIPLINE TO PREVENT AGENCY OVERLAP AND REDUCE SENIOR POSITIONS, A SOURCE SAYS.
+- 10/16 07:06 [FirstSquawk] REBECA GRYNSPAN, THE FRONTRUNNER IN THE RACE FOR UN CHIEF, SAYS SHE WOULDN’T BE SURPRISED TO ENCOUNTER VETO-POWER RESISTANCE ON FRIDAY, BUT THAT THE OPPOSITION OF PERMANENT SECURITY COUNCIL MEMBERS ‘HAS BEEN OVERCOME BEFORE’.

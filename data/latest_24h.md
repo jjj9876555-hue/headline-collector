@@ -7,57 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-16 05:04 JST／対象: 10/15 05:04 〜 10/16 05:04 JST（時刻はすべて日本時間）
+生成: 2026-10-16 08:00 JST／対象: 10/15 08:00 〜 10/16 08:00 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 73 | 10/15 05:24 | 10/16 04:34 | ⚠ 534分（09:48→18:42） |
-| FirstSquawk | 298 | 10/15 05:14 | 10/16 04:55 | ⚠ 59分（06:18→07:18） |
-| financialjuice | 268 | 10/15 05:09 | 10/16 04:50 | ⚠ 61分（19:29→20:30） |
+| DeItaone | 74 | 10/15 09:47 | 10/16 06:33 | ⚠ 534分（09:48→18:42） |
+| FirstSquawk | 308 | 10/15 08:47 | 10/16 07:06 | 30分（16:28→16:58） |
+| financialjuice | 271 | 10/15 08:05 | 10/16 07:05 | ⚠ 61分（19:29→20:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 619 行（統合前 642 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 634 行（統合前 656 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/15 05:09 [financialjuice] Romanian Naval Authority: Crew evacuated from a commercial ship that caught fire in Romanian territorial waters. It is unclear whether the ship was hit by drones; an investigation is pending.
-- 10/15 05:11 [financialjuice] Chip Selloff Deepens as Inflation Revives Fed Rate-Hike Fears – US Market Wrap
-- 10/15 05:14 [FirstSquawk] U.S. STOCKS FELL AS RENEWED LOSSES IN SEMICONDUCTOR SHARES AND STRONGER-THAN-EXPECTED INFLATION STRENGTHENED EXPECTATIONS THAT THE FED MAY CONTINUE RAISING INTEREST RATES, WITH THE S&P 500 ENDING ITS LONGEST STRETCH WITHOUT A 1% DECLINE IN …
-- 10/15 05:14 [FirstSquawk] A KEY INDEX TRACKING MAJOR CHIPMAKERS — INCLUDING NVIDIA AND BROADCOM — HAS DROPPED 20% FROM ITS JUNE HIGH AS INVESTORS GROW INCREASINGLY CONCERNED ABOUT RISING INTEREST RATES, STRETCHED VALUATIONS AND THE ENORMOUS EXPENSE OF DEVELOPING AI …
-- 10/15 05:14 [FirstSquawk] APPLE IS PREPARING TO LAUNCH ITS ARTIFICIAL INTELLIGENCE PLATFORM IN MAINLAND CHINA FOLLOWING A LENGTHY REGULATORY DELAY THAT HAS KEPT ITS AI FEATURES OUT OF ONE OF ITS MOST IMPORTANT MARKETS.
-- 10/15 05:24 [DeItaone] *TESLA-SPACEX MERGER ANNOUNCEMENT POSSIBLE BEFORE DEC: BARCLAYS
-- 10/15 05:33 [FirstSquawk] BARCLAYS: TESLA-SPACEX MERGER ANNOUNCEMENT POSSIBLE BEFORE DEC
-- 10/15 05:36 [FirstSquawk] UKRAINE’S ZELENSKY, ASKED HOW HE FEELS WHEN TRUMP BLAMES UKRAINIAN LONG-RANGE DRONE STRIKES FOR HIGH DIESEL PRICES, SAYS ‘IT’S OKAY FOR ME. THIS IS NOT THE FIRST TIME. I’M STRONG BECAUSE I KNOW THE TRUTH’, ARGUING THAT MOST PEOPLE IN THE WO…
-- 10/15 05:36 [FirstSquawk] UKRAINE’S ZELENSKY SAYS SECURITY GUARANTEES DIRECTLY FROM THE UNITED STATES ARE ‘A GOOD WAY, BUT WE NEED MORE DETAILS’, SAYING IT WOULD MEAN ‘IF PUTIN ATTACKS, TRUMP ATTACKS PUTIN’, AND THAT HAVING ON PAPER JUST ‘IF PUTIN ATTACKS UKRAINE, T…
-- 10/15 05:38 [financialjuice] US API CRUDE OIL STOCK CHANGE ACTUAL -11.12M (FORECAST 1.9M, PREVIOUS -2.09M) $MACRO
-- 10/15 05:39 [financialjuice] US API CUSHING STOCK CHANGE ACTUAL 1.823M (FORECAST -, PREVIOUS 0.866M) $MACRO
-- 10/15 05:40 [FirstSquawk] U.S. API CRUDE OIL STOCK CHANGE SHOWED A DRAW OF 11.12 MLN, AGAINST A FORECAST BUILD OF 1.9 MLN AND A PRIOR DRAW OF 2.09 MLN, WITH CUSHING STOCKS UP 1.823 MLN
-- 10/15 05:52 [financialjuice/FirstSquawk] Tasnim News: Arab sources reported that several explosions were heard in the Yemeni capital.
-- 10/15 06:09 [financialjuice/FirstSquawk] North Korea tests submarine-launched cruise missiles, KCNA reports
-- 10/15 06:18 [financialjuice/FirstSquawk] Chile state miner Codelco calls shareholders meeting for Nov. 5 to review production inconsistencies in 2024, 2025
-- 10/15 06:38 [financialjuice] Fed's Daly: CPI indicates gas prices boosting headline inflation, core inflation remains stubborn as anticipated
-- 10/15 06:38 [financialjuice] Fed's Daly: more rate hikes likely, timing still under consideration
-- 10/15 06:38 [financialjuice] Fed's Daly: no urgency, better to be thoughtful and deliberate
-- 10/15 06:38 [financialjuice] Fed's Daly: risks to above-target inflation remain high, steady labor market allows focus on price stability
-- 10/15 06:38 [financialjuice] Fed's Daly: uncertain if inflation will ease as shocks fade or worsen if shocks continue
-- 10/15 06:38 [financialjuice] Fed's Daly: reassuring that after markets' initial robust reaction to CPI data, trading is calmer
-- 10/15 06:38 [financialjuice] Fed's Daly: markets grasp Fed's response
-- 10/15 06:39 [financialjuice] Fed's Daly: Fed has responsibility to communicate clearly, be transparent, accountable
-- 10/15 07:07 [financialjuice/FirstSquawk] Anthropic revenue climbs to $16.8 billion in Q3: FT
-- 10/15 07:13 [financialjuice] Trump: I hope the Pope recovers
-- 10/15 07:14 [DeItaone] ANTHROPIC REVENUE JUMPS TO $16.8BN IN Q3 - FT
-- 10/15 07:19 [DeItaone] TRUMP: I HOPE THE POPE GETS WELL
-- 10/15 07:20 [FirstSquawk] US PRES TRUMP: JUST SPOKE TO TSMC CHAIRMAN
-- 10/15 07:21 [financialjuice] Coinbase: some users may currently be unable to access on web; coinbase mobile app unaffected
-- 10/15 07:21 [FirstSquawk] ANTHROPIC REVENUE JUMPS TO $16.8B IN THIRD QUARTER - FT
-- 10/15 07:22 [FirstSquawk] THE U.S. IS DEPLOYING SEVERAL HUNDRED TROOPS FROM THE 10TH MOUNTAIN DIVISION TO LATIN AMERICA AS THE PENTAGON EXPANDS ITS CAMPAIGN AGAINST DRUG CARTELS, WITH A 600-SOLDIER BATTALION HAVING BEGUN DEPLOYING TO PANAMA AND TROOPS ALSO EXPECTED …
-- 10/15 07:22 [FirstSquawk] THE PENTAGON HAS ALSO MOVED MQ-9 REAPER DRONES TO COLOMBIA AND ECUADOR, WHILE U.S. COMMANDERS ARE PLANNING TO EXPAND STRIKES FROM BOATS TO LAND TARGETS - NYT
-- 10/15 07:22 [FirstSquawk] US STOCK FUTURES SLIP: S&P 500 FUTURES -0.18%, NASDAQ FUTURES -0.47%
-- 10/15 07:55 [FirstSquawk] US EXPECTS RUSSIAN DIESEL TO START FLOWING BEFORE MIDTERMS - NYP
 - 10/15 08:05 [financialjuice] UK govt: UK to allocate £17m for repairs to Chernobyl nuclear plant hit by Russian drone strike last year
 - 10/15 08:11 [financialjuice] US considers unfreezing some Russian assets to revive Ukraine peace talks - FT
 - 10/15 08:13 [financialjuice/FirstSquawk] European officials reject US plan to unfreeze some Russian assets to revive Ukraine peace talks - FT
@@ -643,3 +609,52 @@
 - 10/16 04:39 [FirstSquawk] SAUDI CIVIL DEFENCE ISSUES EMERGENCY DANGER ALERT FOR JAZAN PROVINCE
 - 10/16 04:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: -2379.4 MLN NASDAQ 100: -1888.9 MLN DOW 30: -980.3 MLN MAG 7: -1034.1 MLN $MACRO
 - 10/16 04:55 [FirstSquawk] KFC U.S. HAS ANNOUNCED A NEW BEVERAGE PARTNERSHIP WITH THE COCA-COLA COMPANY, AND WILL SERVE COCA-COLA PRODUCTS IN ALL U.S. RESTAURANTS BY SPRING 2027
+- 10/16 05:04 [FirstSquawk] DOW JONES CLOSES 1.11% HIGHER AT 52,191.97, UP 570.49 POINTS
+- 10/16 05:04 [FirstSquawk] S&P 500 CLOSES 0.36% HIGHER AT 7,746.44, UP 27.50 POINTS
+- 10/16 05:04 [FirstSquawk] NASDAQ CLOSES 0.15% HIGHER AT 26,732.71, UP 39.85 POINTS
+- 10/16 05:06 [financialjuice] Stocks Rebound as Nvidia Backs CoreWeave Amid AI Investment Concerns – US Market Wrap
+- 10/16 05:16 [FirstSquawk] STOCKS BOUNCED AFTER A DROP DRIVEN BY WORRIES ABOUT THE SUSTAINABILITY OF THE AI TRADE, WITH THE S&P 500 HALTING A THREE-DAY DROP AS A SELLOFF IN CHIPMAKERS EASED AFTER NVIDIA’S JENSEN HUANG DEFENDED THE FINANCIAL HEALTH OF AI COMPUTING SUP…
+- 10/16 05:16 [FirstSquawk] ATTENTION TURNS TO FED CHAIR KEVIN WARSH’S REMARKS FOR CLUES ON WHETHER OFFICIALS ARE PIVOTING FROM A SKIP TO AN OCTOBER RATE HIKE, WITH EVERCORE’S KRISHNA GUHA SAYING ‘ON BALANCE, WE THINK WARSH WILL TALK IN A WAY THAT DOES NOT SUGGEST AN …
+- 10/16 05:16 [FirstSquawk] THE S&P 500 ROSE 0.3% AND THE DOW GAINED 1.1% WHILE THE NASDAQ 100 WAS LITTLE CHANGED, AS THE 10-YEAR TREASURY YIELD FELL 10 BASIS POINTS TO 5.09%, WTI CRUDE ROSE 2.8% TO $97.71 A BARREL, SPOT GOLD GAINED 1.8% TO $4,177.27 AN OUNCE AND BITC…
+- 10/16 05:33 [FirstSquawk] STATE DEPARTMENT OFFICIAL SAYS RUBIO SPOKE WITH LEBANON’S PRESIDENT AOUN ON THE CONFISCATION OF SEVERAL HUNDRED KILOS OF EXPLOSIVES FROM HEZBOLLAH, URGING AOUN TO HOLD ACCOUNTABLE THOSE WHO ORDERED, FINANCED AND DIRECTED THE SHIPMENT.
+- 10/16 05:33 [FirstSquawk] STATE DEPARTMENT OFFICIAL SAYS RUBIO ALSO URGED DIRECT MILITARY-TO-MILITARY COMMUNICATION BETWEEN LEBANESE AND ISRAELI FORCES ‘FOR DECONFLICTION’.
+- 10/16 05:36 [financialjuice/FirstSquawk] US Secretary of State Rubio spoke with Israel's Prime Minister Netanyahu today - Axios
+- 10/16 05:39 [financialjuice] US Sec. of Defense Hegseth met with UK'S Streeting at the Pentagon today
+- 10/16 05:40 [FirstSquawk] BLUE OWL CAPITAL SAYS ITS REVOLVING CREDIT COMMITMENT HAS BEEN INCREASED TO $3.23 BLN, WITH THE POTENTIAL TO RISE TO $3.87 BLN, AND THE MATURITY DATE OF THE FACILITY EXTENDED TO OCTOBER 14, 2031 - SEC FILING
+- 10/16 05:41 [FirstSquawk] PINTEREST SAYS IT HAS ENTERED A FIVE-YEAR, $700 MLN REVOLVING CREDIT FACILITY ON OCT. 15, 2026, REPLACING ITS PREVIOUS $500 MLN REVOLVING CREDIT FACILITY ENTERED INTO ON OCTOBER 25, 2022 AND AMENDED IN OCTOBER 2023 - SEC FILING
+- 10/16 05:44 [financialjuice] Pentagon: US would reduce troop presence in Europe with NATO 3.0
+- 10/16 05:44 [financialjuice] Pentagon: NATO 3.0 envisions rebalancing of the NATO alliance
+- 10/16 05:45 [financialjuice] Pentagon: The US would shift focus to the Pacific and other regions
+- 10/16 05:46 [financialjuice] Fed's Hammack: Hearing more from lower-income Americans struggling with inflation
+- 10/16 05:48 [financialjuice] Fed's Hammack: Anecdotal information provides important economic guidance
+- 10/16 05:57 [financialjuice/FirstSquawk] ❗ Some investors dial back Anthropic valuation expectations amid disappointing results, market selloff - Sources
+- 10/16 05:59 [DeItaone] ANTHROPIC’S IPO VALUATION EXPECTATIONS DROP FROM $2 TRILLION TO $1.5 TRILLION Some investors are considering a $1.5 trillion valuation for Anthropic’s upcoming IPO, down 25% from earlier expectations of $2 trillion. Anthropic reported $16.8…
+- 10/16 06:00 [financialjuice] S. KOREAN EXPORT PRICE YOY ACTUAL 40.9% (FORECAST -, PREVIOUS 42.4%) $MACRO
+- 10/16 06:02 [FirstSquawk] ENTAGON SAYS ‘NATO 3.0’ ENVISIONS A REBALANCING OF THE NATO ALLIANCE UNDER WHICH THE U.S. WOULD REDUCE ITS TROOP PRESENCE IN EUROPE AND SHIFT FOCUS TO THE PACIFIC AND OTHER REGIONS, AS U.S. DEFENSE SECRETARY HEGSETH MET WITH THE UK’S STREET…
+- 10/16 06:03 [FirstSquawk] PENTAGON SAYS ‘NATO 3.0’ ENVISIONS A REBALANCING OF THE NATO ALLIANCE UNDER WHICH THE U.S. WOULD REDUCE ITS TROOP PRESENCE IN EUROPE AND SHIFT FOCUS TO THE PACIFIC AND OTHER REGIONS, AS U.S. DEFENSE SECRETARY HEGSETH MET WITH THE UK’S STREE…
+- 10/16 06:04 [FirstSquawk] MSCI PROPOSES RECLASSIFYING INDONESIA FROM EMERGING TO STANDALONE MARKET STATUS; FREEZE ON INDONESIAN INDEX CHANGES MAINTAINED, WITH GLOBAL & REGIONAL INDEXES TO BE IMPACTED
+- 10/16 06:04 [FirstSquawk] MSCI FLAGS ‘SIGNIFICANT CONCERNS’ OVER SUSPECTED COORDINATED TRADING IN INDONESIA; SAYS MEANINGFUL ENFORCEMENT EVIDENCE REMAINS LACKING
+- 10/16 06:04 [FirstSquawk] SOUTH KOREA’S SEPTEMBER EXPORT PRICE INDEX ROSE 40.9% YEAR-ON-YEAR, EASING FROM 42.4%, WHILE THE IMPORT PRICE INDEX ROSE 17.6%, UP FROM 15.6%
+- 10/16 06:05 [FirstSquawk] NETFLIX PREPARES TO CUT 800 JOBS DAYS BEFORE EARNINGS AMID DECLINING U.S. TV VIEWING SHARE
+- 10/16 06:07 [FirstSquawk] FED’S HAMMACK SAYS SHE IS HEARING MORE FROM LOWER-INCOME AMERICANS STRUGGLING WITH INFLATION, ADDING THAT ANECDOTAL INFORMATION PROVIDES IMPORTANT ECONOMIC GUIDANCE.
+- 10/16 06:07 [FirstSquawk] FED'S HAMMACK SAYS BUSINESSES ARE SEEING A LOT OF INPUT COST PRICE PRESSURES, ADDING THAT SHE WORRIES ABOUT THE FORMATION OF AN INFLATION MENTALITY.
+- 10/16 06:08 [FirstSquawk] EUROPEAN COMMISSION PREPARES TO FAST-TRACK ANTITRUST APPROVAL FOR AIRBUS-LEONARDO-THALES SATELLITE VENTURE ‘PROJECT BROMO’ TO REDUCE RELIANCE ON SPACEX & US PROVIDERS
+- 10/16 06:08 [FirstSquawk] EU PROJECT TO STRENGTHEN SPACE INDUSTRY AGAINST US & CHINESE RIVALS FACES COMPETITION, JOBS & SUPPLIER SCRUTINY; APPROVAL COULD COME AFTER JUST OVER A MONTH IF CONCESSIONS ADDRESS CONCERNS
+- 10/16 06:26 [DeItaone] FED'S HAMMACK: FINANCIAL CONDITIONS DO NOT APPEAR RESTRICTIVE RIGHT NOW
+- 10/16 06:30 [financialjuice] NEW ZEALAND MANUFACTURING PMI ACTUAL 56.5 (FORECAST -, PREVIOUS 53.1) $MACRO
+- 10/16 06:30 [financialjuice] New Zealand September seasonally adjusted PMI 56.5: Business NZ/Bank NZ survey
+- 10/16 06:31 [FirstSquawk] NEW ZEALAND’S SEPTEMBER SEASONALLY ADJUSTED MANUFACTURING PMI ROSE TO 56.5 FROM 53.1 - BUSINESS NZ/BANK NZ SURVEY
+- 10/16 06:32 [DeItaone] FLAVIO BOLSONARO SEEN WITH 51% OF VALID VOTES VS LULA'S 49% IN BRAZIL PRESIDENTIAL RUNOFF - DATAFOLHA POLL
+- 10/16 06:33 [DeItaone] FED’S HAMMACK WARNS MORE AGGRESSIVE ACTION MAY BE NEEDED TO FIGHT INFLATION Cleveland Fed President Beth Hammack warned that deteriorating inflation expectations could force the Federal Reserve to take more aggressive monetary policy action…
+- 10/16 06:45 [financialjuice] NEW ZEALAND FOOD PRICE INDEX ACTUAL 0% (FORECAST -, PREVIOUS 0.3%) $MACRO
+- 10/16 06:45 [financialjuice] Nz actual electronic card retail sales rise 0.9% in September year on year
+- 10/16 06:45 [financialjuice] NZ s/adj electronic card retail sales down 0.4% in Sept vs prior month
+- 10/16 06:45 [financialjuice] New Zealand food price inflation index steady at 0.0% in September month-on-month: Stats NZ
+- 10/16 06:45 [FirstSquawk] NEW ZEALAND’S FOOD PRICE INFLATION INDEX WAS STEADY AT 0.0% IN SEPTEMBER MONTH-ON-MONTH, DOWN FROM A PRIOR 0.3%, WHILE SEASONALLY ADJUSTED ELECTRONIC CARD RETAIL SALES FELL 0.4% ON THE MONTH THOUGH ACTUAL SALES ROSE 0.9% YEAR-ON-YEAR - STAT…
+- 10/16 07:04 [financialjuice/FirstSquawk] Drones strike industrial sites in Russia's Rostov region: governor
+- 10/16 07:05 [financialjuice] Gryspan says she wouldn’t be surprised to encounter veto power resistance on Friday
+- 10/16 07:05 [financialjuice] Grynspan: UN must enforce discipline to prevent agency overlap, reduce senior positions
+- 10/16 07:05 [financialjuice] Frontrunner in race for UN chief Rebeca Grynspan: 'UN has become too risk-averse' - source
+- 10/16 07:05 [financialjuice] Grynspan: opposition of permanent security council members has been overcome before
+- 10/16 07:06 [FirstSquawk] REBECA GRYNSPAN, THE FRONTRUNNER IN THE RACE FOR UN CHIEF, SAYS ‘THE UN HAS BECOME TOO RISK-AVERSE’, ARGUING THE UN MUST ENFORCE DISCIPLINE TO PREVENT AGENCY OVERLAP AND REDUCE SENIOR POSITIONS, A SOURCE SAYS.
+- 10/16 07:06 [FirstSquawk] REBECA GRYNSPAN, THE FRONTRUNNER IN THE RACE FOR UN CHIEF, SAYS SHE WOULDN’T BE SURPRISED TO ENCOUNTER VETO-POWER RESISTANCE ON FRIDAY, BUT THAT THE OPPOSITION OF PERMANENT SECURITY COUNCIL MEMBERS ‘HAS BEEN OVERCOME BEFORE’.
