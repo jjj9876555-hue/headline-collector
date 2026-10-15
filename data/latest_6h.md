@@ -7,125 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-15 08:27 JST／対象: 10/15 02:27 〜 10/15 08:27 JST（時刻はすべて日本時間）
+生成: 2026-10-15 10:44 JST／対象: 10/15 04:44 〜 10/15 10:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 29 | 10/15 02:30 | 10/15 07:19 | ⚠ 109分（05:24→07:14） |
-| FirstSquawk | 46 | 10/15 02:53 | 10/15 07:55 | ⚠ 59分（06:18→07:18） |
-| financialjuice | 79 | 10/15 02:29 | 10/15 08:13 | 43分（07:21→08:05） |
+| DeItaone | 5 | 10/15 05:24 | 10/15 09:48 | ⚠ 148分（07:19→09:47） |
+| FirstSquawk | 81 | 10/15 04:47 | 10/15 10:40 | ⚠ 59分（06:18→07:18） |
+| financialjuice | 61 | 10/15 04:51 | 10/15 10:39 | 43分（07:21→08:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 147 行（統合前 154 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 142 行（統合前 147 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/15 02:29 [financialjuice] Elysee: Macron to go to Kuwait, UAE, Bahrain and Qatar over Oct 19th - Oct 21th.
-- 10/15 02:30 [DeItaone] COREWEAVE CEO DEFENDS COMPANY'S FINANCIAL STRENGTH AMID AI SECTOR CONCERNS CoreWeave ($CRWV ) CEO Michael Intrator says he remains confident in the company's business model, funding, sales and backlog. Intrator says CoreWeave's contracted b…
-- 10/15 02:30 [financialjuice] President Macron's trip will entail talks on the energy situation and ways to limit impact of energy crisis on French people - Elysee
-- 10/15 02:31 [financialjuice] Iran Parliament Speaker Ghalibaf: Iran does not seek endless war or prolonged negotiations and will fight until the enemy is forced to meet its demands
-- 10/15 02:31 [DeItaone] YIELD ON 30-YEAR U.S. TREASURY BONDS HITS SESSION LOW, LAST DOWN 3.2 BASIS POINTS AT 5.531% TWO-YEAR U.S. TREASURY YIELDS LAST UP 2.98 BASIS POINTS AT 4.823%
-- 10/15 02:32 [DeItaone] *GHALIBAF SAYS AIM ISN’T ‘ENDLESS WAR’ OR PROLONGED TALKS: FARS *IRAN PARLIAMENT SPEAKER GHALIBAF ADDRESSES NATION: FARS
-- 10/15 02:34 [financialjuice] Fed's Barkin: Not seeing AI job losses happening at scale
-- 10/15 02:35 [financialjuice] Nvidia CEO: Safety concerns are industry growing pains. $NVDA
-- 10/15 02:35 [financialjuice] Nvidia CEO Huang: Would cut off customers who build unsafe AI. $NVDA
-- 10/15 02:39 [financialjuice/FirstSquawk] Yemen's Houthis: Attacked King Khalid Airport in Riyadh with ballistic missile - Military Spokesperson
-- 10/15 02:39 [DeItaone] ALL EYES ON WARSH September's hotter-than-expected inflation report has raised expectations of another Fed rate hike ahead of the October 27–28 meeting. Fed Chair Kevin Warsh speaks Thursday, October 15, at 11:30 PM ET at the IMF meetings i…
-- 10/15 02:39 [DeItaone] YEMEN'S HOUTHIS SAY THEY ATTACKED KING KHALID AIRPORT IN RIYADH WITH BALLISTIC MISSILE -MILITARY SPOKESPERSON
-- 10/15 02:49 [DeItaone] CBOE VOLATILITY INDEX HITS NEAR TWO-WEEK HIGH; LAST UP 1.69 POINTS AT 16.96
-- 10/15 02:51 [financialjuice] CoreWeave CEO blames share drop on market acting irrationally.
-- 10/15 02:51 [financialjuice] Fed's Barkin: No question investment side of economy largely from AI.
-- 10/15 02:52 [financialjuice] Fed's Barkin: Cannot count on AI investment to grow till end of time.
-- 10/15 02:52 [DeItaone] $CRWV - *COREWEAVE CEO BLAMES SHARE DROP ON MARKET ACTING 'IRRATIONALLY'
-- 10/15 02:53 [FirstSquawk] FRENCH PRESIDENT MACRON IS TO TRAVEL TO KUWAIT, THE UAE, BAHRAIN AND QATAR OVER OCT. 19-21, WITH THE TRIP TO ENTAIL TALKS ON THE ENERGY SITUATION AND WAYS TO LIMIT THE IMPACT OF THE ENERGY CRISIS ON THE FRENCH PEOPLE - ELYSEE
-- 10/15 02:54 [DeItaone] NASDAQ EXTENDS DECLINES, LAST DOWN 2%
-- 10/15 03:01 [financialjuice] Fed Beige Book: Since the prior beige book, two of the twelve Federal Reserve districts reported moderate growth in economic activity.
-- 10/15 03:01 [financialjuice] Fed Beige Book: however, expectations tend to be for slight growth, weighted toward manufacturing and burdened by persistent uncertainties.
-- 10/15 03:01 [financialjuice] Fed Beige Book: Most districts described little or no net change in overall employment levels.
-- 10/15 03:01 [DeItaone] FED BEIGE BOOK SIGNALS WEAK GROWTH AND PERSISTENT INFLATION The Federal Reserve reports little or no change in employment across most districts, while only 2 of 12 districts recorded moderate economic growth. Meanwhile, 3 districts reported…
-- 10/15 03:01 [financialjuice] Fed Beige Book
-- 10/15 03:01 [financialjuice] Fed Beige Book: Three districts characterized overall price growth as robust, while eight noted that growth was moderate—and three of the eight noted that input price pressures were intensifying, if not already growing robustly.
-- 10/15 03:02 [DeItaone] DENMARK FOREIGN MINISTRY:IF THE US WISHES TO EXPLORE THE GREENLANDIC SUBSOIL FOR OIL, GAS AND MINERALS, THIS MUST TAKE PLACE WITHIN THE FRAMEWORK OF THE RELEVANT GREENLANDIC LEGISLATION
-- 10/15 03:03 [DeItaone] LE PEN SAYS SHE THINKS FRANCE IS NOT IN A POSITION TO CONTINUE TO FINANCE UKRAINE
-- 10/15 03:03 [financialjuice] Denmark's Foreign Ministry: If the US wishes to explore the Greenlandic subsoil for oil, gas, and minerals, this must take place within the framework of the relevant Greenlandic legislation. This does not alter the agreement of the 22nd Sep…
-- 10/15 03:04 [FirstSquawk] THE FED’S BEIGE BOOK SHOWS THAT SINCE THE PRIOR REPORT, TWO OF THE TWELVE FEDERAL RESERVE DISTRICTS REPORTED MODERATE GROWTH IN ECONOMIC ACTIVITY, WITH EXPECTATIONS TENDING TOWARD SLIGHT GROWTH — WEIGHTED TOWARD MANUFACTURING AND BURDENED B…
-- 10/15 03:04 [FirstSquawk] THE BEIGE BOOK SHOWS THREE DISTRICTS CHARACTERIZED OVERALL PRICE GROWTH AS ROBUST, WHILE EIGHT NOTED GROWTH WAS MODERATE — AND THREE OF THOSE EIGHT NOTED THAT INPUT PRICE PRESSURES WERE INTENSIFYING, IF NOT ALREADY GROWING ROBUSTLY.
-- 10/15 03:05 [FirstSquawk] DENMARK’S FOREIGN MINISTRY SAYS THAT IF THE U.S. WISHES TO EXPLORE THE GREENLANDIC SUBSOIL FOR OIL, GAS AND MINERALS, THIS MUST TAKE PLACE WITHIN THE FRAMEWORK OF THE RELEVANT GREENLANDIC LEGISLATION, AND THAT THIS DOES NOT ALTER THE AGREEM…
-- 10/15 03:05 [FirstSquawk] DENMARK’S FOREIGN MINISTRY SAYS THE AGREEMENT DOES NOT GRANT U.S. INVESTORS ANY PREFERENTIAL TREATMENT COMPARED WITH INVESTORS FROM OTHER NATO COUNTRIES, EU COUNTRIES AND NATO PARTNERS WHEN IT COMES TO ACCESS TO NATURAL RESOURCES IN GREENLA…
-- 10/15 03:17 [FirstSquawk] UK SAYS IT WILL STAND WITH UKRAINE AGAINST RUSSIA’S AGGRESSION, FOR AS LONG AS IT TAKES.
-- 10/15 03:24 [financialjuice] US Natural Gas inventories seen up 76 billion cubic feet last week for Thursday's EIA report - Poll.
-- 10/15 03:31 [financialjuice] NYMEX WTI Crude November futures settle at $95.09 a barrel, up 95 cents, 1.01%.
-- 10/15 03:31 [financialjuice] NYMEX Gasoline November futures settle at $3.2595 a gallon.
-- 10/15 03:31 [financialjuice] NYMEX Diesel November futures settle at $4.9274 a gallon.
-- 10/15 03:32 [financialjuice] NYMEX Natural Gas November futures settle at $3.1980/MMBtu.
-- 10/15 03:36 [financialjuice] Fed's Barkin: I do not want to project the outcome of the October FOMC meeting.
-- 10/15 03:36 [financialjuice] Fed's Barkin: The CPI report was higher than I would have hoped.
-- 10/15 03:38 [DeItaone] EIGHT U.S. STATES SUE OPENAI, CLAIMING CHATGPT HARMS CHILDREN
-- 10/15 03:39 [DeItaone] *FED'S BARKIN SAYS CPI HIGHER THAN HOPED *FED'S BARKIN DECLINES TO PREJUDGE OCTOBER FOMC OUTCOME *FED'S BARKIN SAYS PPI DATA TO INFORM INFLATION OUTLOOK
-- 10/15 03:47 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 1.01% HIGHER AT $95.09/BBL, UP 95 CENTS
-- 10/15 03:47 [FirstSquawk] FED’S BARKIN SAYS THE CPI REPORT WAS ‘HIGHER THAN I WOULD HAVE HOPED’ AND THAT TOMORROW’S PRODUCER PRICE DATA ‘IS GOING TO HELP INFORM MY INFLATION OUTLOOK’, ADDING THAT HE DOES NOT WANT TO PROJECT THE OUTCOME OF THE OCTOBER FOMC MEETING
-- 10/15 03:51 [financialjuice] The US is sending hundreds of troops to Latin America, expanding its fight against drug traffickers - NYT
-- 10/15 03:51 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 0.35% HIGHER AT $106.06/BBL, UP 37 CENTS
-- 10/15 03:55 [DeItaone] *GHALIBAF SAYS US DEAL CAN’T PREVENT ANOTHER ATTACK ON IRAN
-- 10/15 03:55 [DeItaone] *US SENDING HUNDREDS OF TROOPS TO LATIN AMERICA: NYT *US TROOPS TO TRAIN AND CONDUCT EXERCISES WITH LOCAL FORCES: NYT
-- 10/15 03:58 [DeItaone] U.S. DEPLOYS HUNDREDS OF TROOPS TO LATIN AMERICA AS ANTI-CARTEL OPERATIONS EXPAND The Pentagon is deploying approximately 600 soldiers from the 10th Mountain Division to Latin America as Washington expands its military campaign against drug…
-- 10/15 04:01 [FirstSquawk] US TO SEND HUNDREDS OF TROOPS TO LATIN AMERICA, EXPANDING OPERATIONS AGAINST DRUG TRAFFICKERS — NYT
-- 10/15 04:03 [DeItaone] MUSK: STARSHIELD SYSTEMS ARE OWNED AND CONTROLLED BY US GOVERNMENT; ANY LIMITS ON SPEED OR USAGE ARE DECIDED BY THE US MILITARY AND ULTIMATELY POTUS MUSK: STARLINK IS LIMITED TO CIVILIAN OR DEFENSIVE ACTIVITIES AND CANNOT BE USED FOR OFFENS…
-- 10/15 04:04 [DeItaone] NYFED: DESK PLANS TO CONDUCT APPROXIMATELY $14.6 BILLION IN REINVESTMENT PURCHASES BETWEEN OCT 15 TO NOV 13
-- 10/15 04:04 [financialjuice] Fed's Goolsbee Speaks on Yahoo Finance (15:00 ET) - WATCH LIVE
-- 10/15 04:04 [financialjuice/FirstSquawk] Yemeni armed forces target Saudi Aramco oil distribution facilities in northern Jeddah - Tasnim News
-- 10/15 04:04 [financialjuice] NY Fed: The desk plans to conduct approximately $14.6 billion in reinvestment purchases between October 15th and November 13th.
-- 10/15 04:06 [financialjuice] The Fed prolongs the pause on reserve management purchases to mid-November.
-- 10/15 04:06 [FirstSquawk] MUSK SAYS STARSHIELD SYSTEMS ARE OWNED AND CONTROLLED BY THE U.S. GOVERNMENT, WITH ANY LIMITS ON SPEED OR USAGE DECIDED BY THE U.S. MILITARY AND ULTIMATELY POTUS.
-- 10/15 04:06 [FirstSquawk] MUSK SAYS STARLINK IS LIMITED TO CIVILIAN OR DEFENSIVE ACTIVITIES AND CANNOT BE USED FOR OFFENSIVE MILITARY ACTION.
-- 10/15 04:09 [financialjuice] Fed's Goolsbee: CPI data was 'discouraging' - Yahoo
-- 10/15 04:10 [financialjuice] Fed's Goolsbee: Service inflation in CPI was a concern
-- 10/15 04:10 [financialjuice] Fed's Goolsbee: It is key to focus on the trend of inflation, not one report.
-- 10/15 04:10 [DeItaone] FED'S GOOLSBEE: CPI DATA WAS 'DISCOURAGING' - YAHOO FED'S GOOLSBEE: SERVICE INFLATION IN CPI WAS A CONCERN FED'S GOOLSBEE: KEY TO FOCUS ON TREND OF INFLATION, NOT ONE REPORT
-- 10/15 04:11 [DeItaone] FED'S GOOLSBEE: HOPES ENERGY WILL FADE SOON FROM INFLATION DATA
-- 10/15 04:11 [financialjuice] Fed's Goolsbee: Hope energy will fade soon from inflation data.
-- 10/15 04:12 [DeItaone] FED'S GOOLSBEE: THE ECONOMY HAS WORK TO DO THE INFLATION SIDE
-- 10/15 04:12 [financialjuice] Fed's Goolsbee: The economy has work to do on the inflation side
-- 10/15 04:12 [DeItaone] FED'S GOOLSBEE: IS NOT A FAN OF TELEGRAPHING FED MOVES AHEAD OF MEETINGS
-- 10/15 04:12 [financialjuice] Fed's Goolsbee: Prices and costs are clearly the worst side of the economy.
-- 10/15 04:13 [financialjuice] Fed's Goolsbee: Not a fan of telegraphing Fed moves ahead of meetings
-- 10/15 04:13 [DeItaone] FED'S GOOLSBEE: FED MUST PREVENT THE BUILD UP OF OVERHEATING
-- 10/15 04:13 [financialjuice] Fed's Goolsbee: There is no ambiguity for the Fed if the economy is solid and inflation is high
-- 10/15 04:13 [financialjuice] Fed's Goolsbee: The Fed must prevent the buildup of overheating.
-- 10/15 04:14 [financialjuice] Fed's Goolsbee: More optimistic about outlook relative to other Fed officials
-- 10/15 04:14 [financialjuice] Fed's Goolsbee: There is evidence that the building inflation hasn't been transitory amid continued shocks.
-- 10/15 04:14 [DeItaone] FED HOLDS OFF ON NEW BOND PURCHASES FOR THIRD STRAIGHT MONTH The New York Fed will not inject additional money into the financial system through new Treasury bill purchases for a third consecutive month. It will still buy $14.6 billion in T…
-- 10/15 04:15 [financialjuice] Fed's Goolsbee: Need to keep a close eye on service sector inflation
-- 10/15 04:15 [financialjuice] Fed's Goolsbee: Tariff impacts on prices are more lasting than expected.
-- 10/15 04:16 [financialjuice] Fed's Goolsbee: More bad months of inflation would be unacceptable.
-- 10/15 04:16 [financialjuice] Fed's Goolsbee: Fed will get inflation back to 2%
-- 10/15 04:16 [DeItaone] FED'S GOOLSBEE: MORE BAD MONTHS OF INFLATION WOULD UNACCEPTABLE
-- 10/15 04:16 [FirstSquawk] FED’S GOOLSBEE SAYS THE CPI DATA WAS ‘DISCOURAGING’, WITH PRICES AND COSTS ‘CLEARLY THE WORST SIDE OF THE ECONOMY’ AND THE ECONOMY HAVING ‘WORK TO DO ON THE INFLATION SIDE’, THOUGH HE IS HEARING ABOUT COSTS AND PRICES FROM CONTACTS RATHER T…
-- 10/15 04:16 [FirstSquawk] FED'S GOOLSBEE SAYS THERE IS ‘NO AMBIGUITY FOR THE FED IF THE ECONOMY IS SOLID AND INFLATION IS HIGH’, ADDING THAT IT IS KEY TO FOCUS ON THE TREND OF INFLATION RATHER THAN ONE REPORT, THAT SERVICE INFLATION IN THE CPI WAS A CONCERN, AND THA…
-- 10/15 04:16 [DeItaone] FED'S GOOLSBEE: IF CURRENT INFLATION LEVELS HOLD POLICY WOULD NEED TO ADDRESS THAT
-- 10/15 04:17 [financialjuice] Fed's Goolsbee: Doesn't want to tie hands on monetary policy outlook
-- 10/15 04:17 [financialjuice] Fed's Goolsbee: If the current inflation levels hold, policy would need to address that.
-- 10/15 04:18 [financialjuice] Fed's Goolsbee: Consumers, GDP, and investment levels have been strong
-- 10/15 04:18 [financialjuice] Fed's Goolsbee: AI hype could cause even more tech sector investment, which would risk overheating.
-- 10/15 04:20 [financialjuice] Fed's Goolsbee: A slowdown in AI investment doesn't have to mean a recession.
-- 10/15 04:21 [financialjuice] Fed's Goolsbee: I want to keep an eye on the financial stability implications of AI investment.
-- 10/15 04:23 [financialjuice] Thursday FX Options Expiries
-- 10/15 04:23 [financialjuice] Yemen wants training and intelligence assistance from the US - CBS News, citing the Foreign Minister.
-- 10/15 04:23 [FirstSquawk] FED’S GOOLSBEE: CPI DATA “DISCOURAGING”; SERVICE INFLATION A CONCERN, WITH FED FOCUSED ON RETURNING INFLATION TO 2% AND WATCHING THE OVERALL TREND RATHER THAN ONE REPORT.
-- 10/15 04:23 [FirstSquawk] FED’S GOOLSBEE: TARIFF IMPACTS ON PRICES ARE MORE LASTING THAN EXPECTED; MORE BAD INFLATION MONTHS WOULD BE UNACCEPTABLE, WHILE THE FED MUST KEEP A CLOSE EYE ON SERVICE-SECTOR INFLATION.
-- 10/15 04:23 [FirstSquawk] FED’S GOOLSBEE: CONSUMERS, GDP AND INVESTMENT REMAIN STRONG, BUT FED MUST PREVENT OVERHEATING; AI HYPE COULD DRIVE FURTHER TECH INVESTMENT AND ADD TO OVERHEATING RISKS.
-- 10/15 04:23 [FirstSquawk] FED’S GOOLSBEE: FED WILL RETURN INFLATION TO 2% BUT DOES NOT WANT TO PRECOMMIT TO FUTURE POLICY MOVES; SAYS MONETARY POLICY OUTLOOK SHOULD REMAIN DATA-DEPENDENT.
-- 10/15 04:23 [FirstSquawk] FED’S GOOLSBEE: ECONOMY REMAINS SOLID BUT INFLATION IS THE KEY WEAKNESS; ENERGY, TARIFFS AND SERVICES ARE KEEPING PRICE PRESSURES ELEVATED, REQUIRING CLOSE FED MONITORING.
-- 10/15 04:24 [financialjuice/FirstSquawk] IRGC: Strong explosion in Jeddah, Saudi Arabia.
-- 10/15 04:25 [financialjuice] SignatureFD's Welch: inflation expected to be stickier for longer
-- 10/15 04:25 [FirstSquawk] YEMEN SEEKS US TRAINING & INTELLIGENCE ASSISTANCE — FOREIGN MINISTER, CBS NEWS
-- 10/15 04:27 [financialjuice] Fed's Goolsbee concludes remarks on Yahoo Finance.
-- 10/15 04:42 [financialjuice] US Military: On October 6th, US forces destroyed an Iranian-affiliated dhow conducting surveillance and targeting US Navy ships in the Gulf of Oman.
-- 10/15 04:43 [financialjuice] US Military: Crew members were safely removed prior to the destruction of the dhow; repatriation efforts are ongoing
 - 10/15 04:47 [FirstSquawk] ANTHROPIC SAYS IT HAS BANNED ACCOUNTS INVOLVED IN CASES OF ABUSE TO PREVENT COORDINATED ABUSE AROUND ELECTIONS, AND HAS ENHANCED MISUSE DETECTION AND CYBER PROTECTIONS FOR ELECTION INFRASTRUCTURE - WEBSITE
 - 10/15 04:50 [FirstSquawk] U.S. MILITARY SAYS THAT ON OCT. 6, U.S. FORCES DESTROYED AN IRANIAN-AFFILIATED DHOW CONDUCTING SURVEILLANCE AND TARGETING U.S. NAVY SHIPS IN THE GULF OF OMAN, WITH CREW MEMBERS SAFELY REMOVED PRIOR TO THE DESTRUCTION OF THE DHOW AND REPATRI…
 - 10/15 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 1419.0 MLN NASDAQ 100: 599.6 MLN DOW 30: 45.5 MLN MAG 7: 356.7 MLN $MACRO
@@ -170,4 +68,101 @@
 - 10/15 07:55 [FirstSquawk] US EXPECTS RUSSIAN DIESEL TO START FLOWING BEFORE MIDTERMS - NYP
 - 10/15 08:05 [financialjuice] UK govt: UK to allocate £17m for repairs to Chernobyl nuclear plant hit by Russian drone strike last year
 - 10/15 08:11 [financialjuice] US considers unfreezing some Russian assets to revive Ukraine peace talks - FT
-- 10/15 08:13 [financialjuice] European officials reject US plan to unfreeze some Russian assets to revive Ukraine peace talks - FT
+- 10/15 08:13 [financialjuice/FirstSquawk] European officials reject US plan to unfreeze some Russian assets to revive Ukraine peace talks - FT
+- 10/15 08:50 [financialjuice] ‼ BREAKING: JAPANESE CORE MACHINERY ORDERS MOM ACTUAL 5.2% (FORECAST 2.3%, PREVIOUS -3.7%) $MACRO
+- 10/15 08:50 [financialjuice] Japan August core machinery orders rise 5.2% m/m, poll 3.0%
+- 10/15 08:50 [financialjuice] Japan Aug core machinery orders rise 18.6% yr/yr, poll 15.7%
+- 10/15 08:55 [financialjuice] US discussing easing some sanctions on shadow fleet vessels to reduce global freight rates, boost oil flows in Middle East: official
+- 10/15 09:05 [financialjuice] S. KOREAN EXPORTS REVISED ACTUAL 83.7% (FORECAST -, PREVIOUS 83.5%) $MACRO
+- 10/15 09:05 [financialjuice] S. KOREAN IMPORTS REVISED ACTUAL 26.0% (FORECAST -, PREVIOUS 26.0%) $MACRO
+- 10/15 09:05 [financialjuice] S. KOREAN TRADE BALANCE REVISED ACTUAL 49.97B (FORECAST -, PREVIOUS 49.85B) $MACRO
+- 10/15 09:11 [FirstSquawk] SoftBank Group Shares Decline 8% in Trading
+- 10/15 09:11 [FirstSquawk] Hackers Armed With AI Breach Japan’s Poorly Protected Corporate Networks
+- 10/15 09:11 [FirstSquawk] US DISCUSSING LIFTING SOME SANCTIONS ON SHADOW FLEET VESSELS IN ATTEMPT TO LOWER GLOBAL FREIGHT RATES, BOOST OIL FLOWS IN MIDDLE EAST – RTRS CITES OFFICIAL
+- 10/15 09:13 [FirstSquawk] ISRAELI PRIME MINISTER NETANYAHU SAYS ‘GADI EISENKOT WANTED TO STOP THE GAZA WAR IMMEDIATELY’, EVEN ‘BEFORE WE HAD EVEN ENTERED RAFAH’, AND, ASKED WHETHER REGIME CHANGE IN IRAN IS REALISTIC BEFORE THE ISRAELI ELECTIONS, SAYS ‘NO, I DON’T TH…
+- 10/15 09:13 [FirstSquawk] NETANYAHU SAYS ON IRAN THAT ‘IT IS ESSENTIAL TO OVERTHROW THIS REGIME’, CLAIMING ‘WE’VE CRUSHED IT’ AND THAT IRAN IS ‘AT THE WEAKEST POINT THEY’VE EVER BEEN’, BUT THAT ‘WE NEED TO FINISH THE JOB’, ADDING THAT HE HAS ‘DEDICATED MY ENTIRE LIF…
+- 10/15 09:13 [FirstSquawk] NETANYAHU SAYS ‘ISRAEL TODAY IS THE STRONGEST POWER’ AND THAT ITS ECONOMY ‘IS BOOMING AT A LEVEL THAT’S DIFFICULT TO BELIEVE’.
+- 10/15 09:14 [FirstSquawk] Kioxia Stock Plunges 8.3% in Japanese Trading
+- 10/15 09:15 [FirstSquawk] LOCKHEED MARTIN IS EXPANDING ITS ADVANCED MUNITIONS MANUFACTURING IN TEXAS, SAYING THE MOVE WILL CREATE 6,000 JOBS IN THE U.S. — INCLUDING 2,000 IN TEXAS — WITH A $300 MLN INVESTMENT TO EXPAND ITS GRAND PRAIRIE MANUFACTURING TO 735,000 SQ F…
+- 10/15 09:15 [FirstSquawk] LOCKHEED MARTIN SAYS IT WILL ADD NEARLY 100 ADVANCED MACHINES AT GRAND PRAIRIE BY THE END OF 2026.
+- 10/15 09:18 [FirstSquawk] Asia-Pacific Equities Fall as Regional Markets Follow Wall Street Lower on Tech Weakness and Elevated US Inflation
+- 10/15 09:18 [FirstSquawk] US FLOATS UNFREEZING SOME RUSSIAN ASSETS TO RESTART UKRAINE PEACE TALKS - FT
+- 10/15 09:20 [FirstSquawk] Rising Fuel Prices Add to Inflation Concerns as Fed Survey Flags Intensifying Price Pressures
+- 10/15 09:23 [financialjuice] China PBOC likely to set yuan midpoint at 6.6977 per dollar: estimate
+- 10/15 09:23 [FirstSquawk] Anthropic’s Quarterly Revenue Climbs 45%, Approaching $17 Billion - WSJ
+- 10/15 09:25 [FirstSquawk] EUROPEAN STOCK FUTURES SLIP: EUROSTOXX 50 -0.7%, DAX -0.5%, FTSE -0.4%
+- 10/15 09:30 [financialjuice] AUSTRALIAN FULL TIME EMPLOYMENT CHG. ACTUAL 34.4K (FORECAST -, PREVIOUS -6.3K) $MACRO
+- 10/15 09:30 [FirstSquawk] AUSTRALIA’S UNEMPLOYMENT RATE ROSE TO 4.7% IN SEPTEMBER, ABOVE THE 4.6% FORECAST AND UP FROM 4.6%, WITH EMPLOYMENT FALLING 39.3K AGAINST AN EXPECTED 20K GAIN AND A PRIOR 39.5K RISE
+- 10/15 09:30 [financialjuice] ‼ BREAKING: AUSTRALIAN EMPLOYMENT CHANGE ACTUAL -39.3K (FORECAST 20K, PREVIOUS 39.5K) $MACRO
+- 10/15 09:30 [FirstSquawk] AUSTRALIA’S UNEMPLOYMENT RATE ROSE TO 4.7% IN SEPTEMBER, ABOVE THE 4.6% POLL FORECAST, WITH EMPLOYMENT FALLING 39.3K AGAINST AN EXPECTED 20K GAIN — THOUGH FULL-TIME JOBS ROSE 34.4K — AND THE PARTICIPATION RATE AT 66.8% VERSUS A 67.0% POLL
+- 10/15 09:30 [financialjuice] ❗ AUSTRALIAN UNEMPLOYMENT RATE ACTUAL 4.7% (FORECAST 4.6%, PREVIOUS 4.6%) $MACRO
+- 10/15 09:30 [financialjuice] Australia Sept participation rate rises 66.8%, s/adj (Poll: 67.0%)
+- 10/15 09:30 [financialjuice] Australia September full-time jobs rise 34.4k seasonally adjusted
+- 10/15 09:30 [financialjuice] Australia Sept employment drops 39.3k seasonally adjusted poll forecast +20.0k
+- 10/15 09:30 [financialjuice] Australia Sept unemployment rate rises to 4.7%, seasonally adjusted (poll forecast 4.6%)
+- 10/15 09:31 [financialjuice] AUSTRALIAN PARTICIPATION RATE ACTUAL 66.8% (FORECAST 67%, PREVIOUS 67.1%) $MACRO
+- 10/15 09:34 [FirstSquawk] WATCHDOG GROUP CREW SUED THE WHITE HOUSE, ALLEGING JARED KUSHNER IS PERFORMING GOVERNMENT DIPLOMATIC DUTIES WITHOUT SENATE CONFIRMATION OR COMPLIANCE WITH FEDERAL ETHICS RULES. THE LAWSUIT CITES HIS ROLE IN NEGOTIATIONS INVOLVING ISRAEL, IR…
+- 10/15 09:37 [FirstSquawk] Australia Employment Change Sep: -39.3K (est 20.0K; prev 39.5K)
+- 10/15 09:37 [FirstSquawk] Australia Unemployment Rate: 4.7% (est 4.6%; prev 4.6%)
+- 10/15 09:37 [FirstSquawk] Australia Full-Time Employment Change: 42.4K (prev -6.3K)
+- 10/15 09:37 [FirstSquawk] Australia Part-Time Employment Change: -73.7K (prev 45.8K)
+- 10/15 09:37 [FirstSquawk] Australia Participation Rate: 66.8% (est 67.0%; prev 67.1%)
+- 10/15 09:44 [FirstSquawk] 10-Year JGB Yield Declines 5.5 Basis Points to 2.94%, Reaching Its Lowest Since September 10
+- 10/15 09:44 [FirstSquawk] BITCOIN FELL AS MUCH AS 2.3% TO AROUND $81,500 AS HOTTER US INFLATION, RISING RATE-HIKE EXPECTATIONS AND A CHIP STOCK SELLOFF TRIGGERED A BROADER RISK-OFF MOOD. THE NASDAQ 100 DROPPED AS MUCH AS 2%, WHILE THE US DOLLAR HIT ITS HIGHEST LEVEL…
+- 10/15 09:46 [FirstSquawk] US NATURAL GAS FUTURES FELL 2.6% TO $3.198/MMBTU, THEIR BIGGEST DROP IN TWO WEEKS, AS PRODUCTION RECOVERED AFTER HURRICANE ISAIAS. OUTPUT REACHED 111.4 BCF/D, UP 3% YEAR OVER YEAR, WHILE LNG EXPORT FLOWS ROSE 9.1% WEEK OVER WEEK TO 19.6 BCF…
+- 10/15 09:47 [DeItaone] JAPAN’S NIKKEI PLUNGES 3.5% AS FED RATE HIKE FEARS GROW Japanese stocks tumbled after hotter-than-expected U.S. inflation fueled expectations of higher interest rates. The Nikkei fell 3.5%, led by sharp losses in AI stocks: SoftBank -7.9%, …
+- 10/15 09:48 [DeItaone] SPOT GOLD RISES 1% TO $4,144.03/OZ
+- 10/15 09:48 [FirstSquawk] Gold Prices Jump 1% to $4,144.03 an Ounce in Spot Trading
+- 10/15 09:53 [FirstSquawk] Kospi Plunges 7% as South Korean Stocks Extend Declines
+- 10/15 10:00 [FirstSquawk] YouTube Looks to Enter the Audiobook Business as It Broadens Its Digital Content Portfolio - WSJ
+- 10/15 10:00 [financialjuice] Taiwan stocks fall over 2%
+- 10/15 10:00 [financialjuice] Taiwan overnight interbank rate begins at 0.805% vs 0.805% at previous session start
+- 10/15 10:01 [FirstSquawk] Taiwanese Equities Drop More Than 2% Amid Selling Pressure
+- 10/15 10:01 [financialjuice] World Bank: Nepal and World Bank Group unveil collaboration to investigate catastrophe bond for earthquake hazard
+- 10/15 10:01 [FirstSquawk] Taiwan’s Overnight Interbank Rate Holds Steady at 0.805% at the Open
+- 10/15 10:02 [FirstSquawk] 30-Year JGB Yield Declines 4.5 Basis Points to 3.995%
+- 10/15 10:03 [FirstSquawk] Brent Crude Slides Over 1% to $104.93/BBL Amid Selling Pressure
+- 10/15 10:08 [FirstSquawk] LME Three-Month Tin Declines 1%, Falling Below the $50,000-per-Ton Mark for First Time Since June
+- 10/15 10:08 [FirstSquawk] Chinese Automakers Shift Production Overseas to Maintain Competitiveness, Moody’s Says
+- 10/15 10:09 [FirstSquawk] US and China Seek to Influence AI Priorities Ahead of Upcoming Xi-Trump Talks in Shenzhen - SCMP
+- 10/15 10:15 [financialjuice] Saudi-led coalition: drone intercepted and neutralized in kingdom's eastern region
+- 10/15 10:16 [FirstSquawk] China Sets Yuan Midpoint at 6.7253 per Dollar in Daily PBOC Fixing
+- 10/15 10:16 [FirstSquawk] Drone Intercepted and Destroyed in Saudi Arabia’s Eastern Region, Coalition Says
+- 10/15 10:22 [financialjuice] China central bank injects 45 billion yuan via 7-day reverse repos at 1.40% vs prior 1.40%: statement
+- 10/15 10:25 [FirstSquawk] Hong Kong Tech Stocks Brace for Sharp Opening Losses as Hang Seng Tech Index Signals a Drop of More Than 2%
+- 10/15 10:26 [FirstSquawk] Houthi Media Official Calls on Taiz Residents to Stay Inside Their Homes
+- 10/15 10:31 [financialjuice] BOJ board member Koeda: attention focused on price upside risks from yen depreciation and robust global AI demand, plus Middle East situation impact
+- 10/15 10:31 [financialjuice] BOJ's Koeda: Looking ahead, it will be necessary to focus on both AI-related exports and imports
+- 10/15 10:32 [financialjuice] BOJ’s Koeda: Monetary policy debate includes if AI backs investment to address labor shortages and boost productivity
+- 10/15 10:33 [financialjuice] Boj's Koeda: important to assess how policy rate change influences financial conditions, economic activity and prices
+- 10/15 10:33 [FirstSquawk] US 10-Year Treasury Yield Falls to 5.1183%, Its Lowest in Three Weeks Amid Equity Market Losses
+- 10/15 10:33 [financialjuice] BOJ's Koeda: overall, I believe Japan's financial conditions have stayed accommodative
+- 10/15 10:33 [FirstSquawk] US Dollar Gains 1% Against South Korean Won
+- 10/15 10:33 [financialjuice] BOJ's Koeda: recent rate hikes not necessarily expected to curb overall consumption of working generation
+- 10/15 10:34 [financialjuice] BoJ's Koeda: still want to study accumulated effect of policy rate increases on household behavior
+- 10/15 10:34 [financialjuice] BOJ's Koeda: companies' financing conditions have generally stayed favorable
+- 10/15 10:35 [financialjuice] BoJ's Koeda: Neutral interest rate level is well above 1 percent, near lower bound of estimated range
+- 10/15 10:35 [financialjuice] BOJ’s Koeda: impact on long-term interest rates of changes in central bank government bond holdings may be smaller during reduction phase than active expansion phase
+- 10/15 10:36 [financialjuice] Boj's Koeda: underlying inflation has been about 2% over the past year or so
+- 10/15 10:36 [financialjuice] BOJ's Koeda: sustained price rises across various CPI items, change in price distribution indicates underlying inflation anchoring around 2%
+- 10/15 10:36 [financialjuice] BOJ's Koeda: sustained inflation appears to be taking stronger hold in Japan as wages have also risen steadily
+- 10/15 10:37 [financialjuice] BoJ's Koeda: central bank should adjust policy rate timely considering economic and price conditions, keeping estimated neutral rate range in mind
+- 10/15 10:37 [financialjuice] BOJ's Koeda: With significant upside risks to prices and ongoing loose financial conditions, BOJ should not be too cautious about raising policy interest rates
+- 10/15 10:38 [FirstSquawk] BOJ's Koeda: Yen Weakness, Robust Global AI Demand and Middle East Developments Pose Upside Risks to Prices.
+- 10/15 10:38 [FirstSquawk] BOJ's Koeda: Monitoring AI-Related Trade Flows, Including Both Exports and Imports, Will Be Important Going Forward.
+- 10/15 10:38 [FirstSquawk] BOJ's Koeda: Policymakers Must Assess Whether AI Investment Can Help Offset Labour Shortages and Boost Productivity When Evaluating the Monetary Policy Outlook.
+- 10/15 10:38 [FirstSquawk] BOJ's Koeda: The Impact of Policy Rate Changes on Financial Conditions, Economic Activity and Inflation Needs Careful Examination.
+- 10/15 10:38 [FirstSquawk] BOJ's Koeda: Japan's Overall Financial Conditions Remain Accommodative Despite Recent Interest Rate Increases.
+- 10/15 10:38 [financialjuice] BOJ’s Koeda: it is crucial for BOJ to continue calmly with normalization of its balance sheet
+- 10/15 10:38 [FirstSquawk] BOJ's Koeda: Recent Rate Hikes Are Not Necessarily Expected to Weigh on Aggregate Consumption Among Working-Age Households.
+- 10/15 10:38 [FirstSquawk] BOJ's Koeda: The Cumulative Effects of Interest Rate Increases on Household Spending Behaviour Require Further Assessment.
+- 10/15 10:38 [FirstSquawk] BOJ's Koeda: Corporate Financing Conditions Continue to Be Favourable Overall.
+- 10/15 10:38 [FirstSquawk] BOJ's Koeda: Japan's Neutral Interest Rate Is Considerably Higher Than 1%, Near the Lower End of the Current Estimate Range.
+- 10/15 10:39 [financialjuice] USD/KRW climbs 0.7%, not 1%: co
+- 10/15 10:40 [FirstSquawk] BOJ's Koeda: The Impact of Changes in Central Bank Government Bond Holdings on Long-Term Yields May Be Smaller During the Reduction Phase Than During Active Balance Sheet Expansion.
+- 10/15 10:40 [FirstSquawk] BOJ's Koeda: Underlying Inflation in Japan Has Remained Around 2% Overall Over the Past Year.
+- 10/15 10:40 [FirstSquawk] BOJ's Koeda: Broad-Based CPI Increases and Shifts in Price-Change Patterns Indicate That Underlying Inflation Is Becoming Firmly Anchored Near 2%.
+- 10/15 10:40 [FirstSquawk] BOJ's Koeda: Stable Wage Growth Suggests That Sustained Inflation Is Taking Hold in Japan More Firmly Than Before.
+- 10/15 10:40 [FirstSquawk] BOJ's Koeda: The BOJ Should Adjust Interest Rates in a Timely Manner Based on Economic and Price Developments, While Considering the Estimated Neutral Rate Range.
+- 10/15 10:40 [FirstSquawk] BOJ's Koeda: With Significant Upside Price Risks and Financial Conditions Remaining Accommodative, the BOJ Should Avoid Excessive Caution Over Further Rate Hikes.
+- 10/15 10:40 [FirstSquawk] BOJ's Koeda: Steady Progress in Normalizing the BOJ's Balance Sheet Remains Essential.
