@@ -7,76 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-17 03:27 JST／対象: 10/16 15:27 〜 10/17 03:27 JST（時刻はすべて日本時間）
+生成: 2026-10-17 06:36 JST／対象: 10/16 18:36 〜 10/17 06:36 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 52 | 10/16 19:45 | 10/17 02:53 | ⚠ 55分（23:59→00:55） |
-| FirstSquawk | 117 | 10/16 15:32 | 10/17 03:17 | 37分（18:01→18:38） |
-| financialjuice | 124 | 10/16 15:31 | 10/17 03:11 | ⚠ 72分（00:46→01:58） |
+| FirstSquawk | 102 | 10/16 18:38 | 10/17 05:02 | 30分（04:19→04:50） |
+| financialjuice | 133 | 10/16 18:46 | 10/17 06:15 | ⚠ 72分（00:46→01:58） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 281 行（統合前 293 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 274 行（統合前 288 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/16 15:31 [financialjuice] BoJ's Governor Ueda: To keep raising rate in response to economy, prices.
-- 10/16 15:32 [financialjuice] BoJ's Governor Ueda: Increasingly vital to stabilize price trend around 2%.
-- 10/16 15:32 [FirstSquawk] BOJ Governor Ueda Reaffirms Gradual Rate Hikes Based on Economic, Price and Financial Trends
-- 10/16 15:32 [financialjuice] BoJ's Governor Ueda: Price trend is approaching 2%.
-- 10/16 15:33 [FirstSquawk] BOJ’s Ueda Emphasises Greater Importance of Stabilising Underlying Inflation at Around 2%
-- 10/16 15:34 [FirstSquawk] South Korea’s KOSPI Ends the Week Down 14.5%, Its Worst Weekly Performance Since October 2008
-- 10/16 15:34 [financialjuice] BoJ's Governor Ueda: Financial conditions are accommodative.
-- 10/16 15:36 [financialjuice] BoJ's Governor Ueda: There is risk of underlying inflation overshooting 2% price target.
-- 10/16 15:44 [FirstSquawk] Dutch Prime Minister Says All EU Countries Are Unhappy With the European Union’s Budget Plans
-- 10/16 16:06 [FirstSquawk] FORD MOTOR COMPANY FILES RECALL OF 2,276 US VEHICLES - NHTSA
-- 10/16 16:06 [FirstSquawk] MOTOR COACH INDUSTRIES INC FILES RECALL OF 683 US VEHICLES - NHTSA
-- 10/16 16:06 [FirstSquawk] BMW OF NORTH AMERICA LLC FILES RECALL OF 4,630 US VEHICLES - NHTSA
-- 10/16 16:14 [financialjuice] China: EU talks show differences can be managed via dialog.
-- 10/16 16:19 [financialjuice] China Foreign Ministry, on White House Press Secretary remarks: She is welcome to visit China more often if there is opportunity.
-- 10/16 16:20 [FirstSquawk] CHINA IS WILLING TO DISCUSS ISSUES REGARDING ECONOMIC AND TRADE RELATIONS WITH INDIA.
-- 10/16 16:22 [FirstSquawk] CHINA TAKES ACTION TO BOOST STOCK MARKET WITH SELLING LIMITS AND SHARE BUYBACKS.
-- 10/16 16:25 [financialjuice] PBOC's Pan: PBOC to support offshore yuan markets development.
-- 10/16 16:28 [financialjuice] PBOC's Pan: Plans to promote RMB bonds as globally recognized and eligible collateral.
-- 10/16 16:30 [FirstSquawk] PBOC GOVERNOR: TO FURTHER SUPPORT GLOBAL INVESTORS AND ISSUERS PARTICIPATING IN CHINA'S FINANCIAL MARKET; PLANS TO PROMOTE RMB BONDS AS GLOBALLY RECOGNISED AND ELIGIBLE COLLATERAL
-- 10/16 16:30 [FirstSquawk] PBOC GOVERNOR: TO STRENGTHEN DOMESTIC AND FOREIGN FINANCIAL INFRASTRUCTURE CONNECTIVITY; SUPPORT OFFSHORE RMB MARKET DEVELOPMENT
-- 10/16 16:30 [FirstSquawk] PBOC GOVERNOR: OVER 1,200 FOREIGN INVESTORS PARTICIPATE IN CHINA'S INTERBANK BOND MARKET, ACCOUNTING FOR ABOUT 30% OF INVESTOR NUMBER
-- 10/16 16:33 [FirstSquawk] EU'S COSTA: OUR MESSAGE TO ZELENSKIY IS VERY SIMPLE, EU SUPPORT FOR UKRAINE IS AS STRONG AS EVER; NOT THE TIME TO PUT RELIEF ON RUSSIA SANCTIONS
-- 10/16 16:33 [financialjuice] EU's Costa: Not the time to put relief on Russia sanctions.
-- 10/16 16:33 [FirstSquawk] EU'S COSTA ASSURES ZELENSKIY OF CONTINUOUS SUPPORT.
-- 10/16 16:33 [FirstSquawk] EU'S VON DER LEYEN SAYS WORKING INTENSIVELY REGARDING UKRAINE'S PATH TO EU
-- 10/16 16:35 [financialjuice] EU's Von Der Leyen: Working on 22nd package of sanctions against Russia.
-- 10/16 16:35 [FirstSquawk] EU'S VON DER LEYEN: WILL ADDRESS HOW TO SUPPORT UKRAINE DURING THIS WINTER; WORKING ON 22ND PACKAGE OF SANCTIONS AGAINST RUSSIA; WE WILL NOT LIFT ANY SANCTIONS AGAINST RUSSIA UNLESS RUSSIA STOPS ITS WAR
-- 10/16 16:45 [FirstSquawk] RUSSIA'S LAVROV TO VISIT IRAN ON OCTOBER 19 - IFX
-- 10/16 16:45 [FirstSquawk] RUSSIAN FOREIGN MINISTER LAVROV TO VISIT BAHRAIN OCT. 18 - IFX
-- 10/16 16:50 [FirstSquawk] JAPAN, GERMANY IN TALKS TO STRENGTHEN CHIP SUPPLY CHAIN - KYODO
-- 10/16 16:51 [FirstSquawk] AZERBAIJAN'S SOCAR SEEKS TO RESUME GAS BUYS FROM GAZPROM - IFX
-- 10/16 17:04 [financialjuice] China plans to add AI, solar tech to export controls.
-- 10/16 17:04 [financialjuice] South Korea Finance Minister, Central Bank Governor hold joint meeting with us Fed and US Treasury Department - Yonhap.
-- 10/16 17:05 [FirstSquawk] NVIDIA - MERCEDES-BENZ AND NVIDIA EXTEND PARTNERSHIP FOR NEXT-GEN AUTOMATED DRIVING SYSTEMS; MERCEDES-BENZ AND NVIDIA COMBINE MB.OS WITH HYPERION, ALPAMAYO STACK, AND HALOS SAFETY SYSTEM; MERCEDES-BENZ AND NVIDIA TECHNOLOGIES TO SUPPORT SAE…
-- 10/16 17:10 [FirstSquawk] KOREA-US FINANCIAL, MONETARY AUTHORITIES HOLD THEIR FIRST MEETING – YONHAP
-- 10/16 17:22 [FirstSquawk] EU'S KALLAS SAYS EUROPE CAN'T REPLACE STARLINK 'SHORT TERM'
-- 10/16 17:37 [FirstSquawk/financialjuice] IRAN: AIR DEFENSES HAVE BEEN STRENGTHENED SINCE WAR - TASNIM
-- 10/16 17:45 [FirstSquawk] Iran Strengthens Air Defenses Amid Rising Tensions With US Iran says it has significantly strengthened its air defense capabilities since the war, introducing new military equipment and conducting joint exercises with the Islamic Revolution…
-- 10/16 17:59 [financialjuice] ITALIAN HICP FINAL MOM ACTUAL 2.1% (FORECAST 2%, PREVIOUS 2.0%) $MACRO
-- 10/16 18:00 [financialjuice] ITALIAN CPI MOM FINAL ACTUAL 0.7% (FORECAST 0.7%, PREVIOUS 0.7%) $MACRO
-- 10/16 18:00 [financialjuice] ITALIAN CPI YOY FINAL ACTUAL 4.2% (FORECAST 4.2%, PREVIOUS 4.2%) $MACRO
-- 10/16 18:00 [financialjuice] EUROZONE CORE CPI YOY FINAL ACTUAL 2.5% (FORECAST 2.5%, PREVIOUS 2.5%) $MACRO
-- 10/16 18:00 [financialjuice] ❗ EUROZONE CPI MOM FINAL ACTUAL 0.6% (FORECAST 0.6%, PREVIOUS 0.4%) $MACRO
-- 10/16 18:00 [financialjuice] ❗ EUROZONE CPI YOY FINAL ACTUAL 3.8% (FORECAST 3.8%, PREVIOUS 3.8%) $MACRO
-- 10/16 18:00 [financialjuice] EUROZONE TRADE BALANCE NSA ACTUAL -16.1B (FORECAST -, PREVIOUS 14.2B ,REVISION 10.7B) $MACRO
-- 10/16 18:00 [financialjuice] Russia, Iran discuss gas pipeline route, pricing - Tass
-- 10/16 18:01 [FirstSquawk] EUROZONE CPI (MOM) (SEP) ACTUAL: 0.6% VS 0.6% PREVIOUS; EST 0.6%
-- 10/16 18:01 [FirstSquawk] EUROZONE CPI (YOY) (SEP) ACTUAL: 3.8% VS 3.8% PREVIOUS; EST 3.8%
-- 10/16 18:08 [financialjuice] South Korea to extend oil fuel price cap for another 4 weeks - Industry Ministry.
-- 10/16 18:09 [financialjuice] Microsoft disagrees with business software designation.
-- 10/16 18:10 [financialjuice] Flows to stocks were $64.5 bln in week to Wednesday, $39.1 bln to US stocks, and $10 bln to tech stocks - BofA citing EPFR data.
-- 10/16 18:10 [financialjuice] Treasuries saw $3.6 bln inflows in the week, logging 16th weekly inflow; inflows to bond funds totalled $11.8 bln - BofA
-- 10/16 18:34 [financialjuice] German Governor: France and Germany have reached agreement on a joint approach to securing the future of the European automotive industry.
 - 10/16 18:38 [FirstSquawk] ZELENSKIY: HE DISCUSSED 2027 FINANCIAL SUPPORT FOR UKRAINE WITH EU'S COSTA AND VON DER LEYEN
 - 10/16 18:46 [financialjuice] EUROZONE TRADE BALANCE ACTUAL -7B (FORECAST -, PREVIOUS 5B) $MACRO
 - 10/16 18:51 [FirstSquawk] SAUDI CIVIL DEFENSE: ALERTS OF POTENTIAL DANGER IN YANBU GOVERNORATE
@@ -305,3 +252,49 @@
 - 10/17 03:10 [financialjuice] CENTCOM: US has helped ship over 100m bbls through Hormuz in past 7 days
 - 10/17 03:11 [financialjuice] CENTCOM Commander: Due to the US naval blockade, Iran has no maritime exports or imports - Post on X
 - 10/17 03:17 [FirstSquawk] US HAS HELPED SHIP OVER 100M BBLS THROUGH HORMUZ IN PAST 7 DAYS
+- 10/17 03:31 [FirstSquawk] US CRUDE OIL FUTURES SETTLE AT $101.41/BBL, UP $3.44, 3.51%
+- 10/17 03:32 [financialjuice] NYMEX Nat Gas Nov. futures settle at $3.1160/MMBTU
+- 10/17 03:32 [financialjuice] NYMEX WTI crude futures settle at $101.41 a barrel, up $3.44, 3.51%
+- 10/17 03:32 [financialjuice] NYMEX gasoline November futures settle at $3.2354 a gallon
+- 10/17 03:32 [financialjuice] NYMEX diesel November futures settle at $4.8991 a gallon
+- 10/17 03:34 [FirstSquawk] BRENT FUTURES RISE TO $110 A BARREL FOR FIRST TIME SINCE MAY 20
+- 10/17 03:44 [FirstSquawk] GERMAN COALITION APPROVES RECORD TOBACCO TAX HIKE, BREAKING PLEDGE - BILD
+- 10/17 03:48 [financialjuice] Iran's Foreign Ministry Spokesperson: Arabia has not yet responded to Iran's mediation response regarding Yemen.
+- 10/17 03:51 [financialjuice/FirstSquawk] SoftBank said to weigh buying largest US security firm Allied.
+- 10/17 03:51 [financialjuice] Allied would have equity value of up to $18 bln in potential deal.
+- 10/17 03:52 [FirstSquawk] US PAYS RECORD $1.05T NET INTEREST ON DEBT IN 2026 FISCAL YEAR
+- 10/17 03:52 [financialjuice] SoftBank’s Son seeking ways to use AI robots across industries.
+- 10/17 03:52 [financialjuice/FirstSquawk] Brent Crude futures settle at $109.86/bbl, up $3.94, 3.72%
+- 10/17 03:57 [financialjuice] 3 missiles were fired at the Aden airport, which is under the control of Saudi mercenaries - Tasnim News citing reports
+- 10/17 04:09 [FirstSquawk] ISRAEL PREPARES FOR POSSIBLE ELECTION ATTACKS, ASSASSINATIONS
+- 10/17 04:11 [financialjuice] Week Ahead: Economic Indicators 19th – 23rd October (US)
+- 10/17 04:15 [financialjuice] Arab sources reported that several explosions were heard in the Yemeni city of Aden - Iran's Seppah
+- 10/17 04:16 [financialjuice] Iran-Russia gas agreement and the connection of Caucasus energy networks in the focus of discussion of the Russian Energy Forum - IRNA
+- 10/17 04:19 [FirstSquawk] GOLDMAN SACHS PRIVATE CREDIT CORP: NET ASSET VALUE ABOUT $9.40 BLN AS OF SEPTEMBER 30 - SEC FILING
+- 10/17 04:22 [financialjuice] Monday FX Options Expiries
+- 10/17 04:31 [financialjuice] CFTC Positions in the Week Ended October 13th
+- 10/17 04:50 [FirstSquawk] US WARNS CHINA TRAVELERS THEY RISK 'WRONGFUL DETENTION':SEMAFOR
+- 10/17 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 2417.6 MLN NASDAQ 100: 826.9 MLN DOW 30: 714.0 MLN MAG 7: 872.9 MLN $MACRO
+- 10/17 04:51 [FirstSquawk] BLACKSTONE PRIVATE CREDIT FUND OUTLOOK REVISED TO STABLE FROM POSITIVE – S&P
+- 10/17 04:59 [financialjuice] Explosions occurred in Damascus, the capital of Syria - Tasnim News.
+- 10/17 05:00 [financialjuice] US TIC LONG-TERM TRANSACTIONS ACTUAL 279.2B (FORECAST -, PREVIOUS -27.9B) $MACRO
+- 10/17 05:00 [financialjuice] US OVERALL NET CAPITAL FLOWS ACTUAL 199.8B (FORECAST -, PREVIOUS 83.7B ,REVISION 87.4B) $MACRO
+- 10/17 05:01 [financialjuice] China's US Treasury securities holdings $591 bln in August vs $618 bln in July.
+- 10/17 05:01 [financialjuice] Japan's US Treasury holdings $1.068 trln in August vs $1.104 trln in July.
+- 10/17 05:01 [financialjuice] United Kingdom's US Treasury holdings $1.010 trln in August vs $998 bln in July.
+- 10/17 05:02 [FirstSquawk] S&P 500 UNOFFICIALLY CLOSES DOWN 81.73 POINTS, OR 1.06 PERCENT, AT 7,662.33 DOW JONES UNOFFICIALLY CLOSES DOWN 208.06 POINTS, OR 0.40%, AT 51,969.63 NASDAQ UNOFFICIALLY CLOSES DOWN 568.58 POINTS, OR 2.13 PERCENT, AT 26,144.45
+- 10/17 05:02 [financialjuice] US August net foreign holdings of US Treasury bonds, notes +$108.9 bln vs -$3.6 bln in July (prev -$3.6 bln).
+- 10/17 05:02 [FirstSquawk] COREWEAVE SHARES FALL 12% TO BRING WEEKLY SELLOFF TO 25%
+- 10/17 05:08 [financialjuice] Tech Selloff Deepens as AI Financing Concerns Weigh on Stocks – US Market Wrap
+- 10/17 05:15 [financialjuice] US bank deposits rose to $19.771 tln from $19.694 tln in the prior week.
+- 10/17 05:31 [financialjuice] Iran-backed militias sending money back to cash-starved IRGC - Axios citing CENTCOM Commander.
+- 10/17 05:31 [financialjuice] Iran-backed militias sending money back to cash-starved IRGC - Axios.
+- 10/17 05:33 [financialjuice] NVIDIA CEO on AI Market Turmoil: All of this is going to pass. $NVDA
+- 10/17 05:33 [financialjuice] Trump speaks at a rally in Dalton, Georgia - WATCH LIVE
+- 10/17 05:44 [financialjuice] Anthropic: Revenue per employee 2x-4x its peers, Meta and Google. $META $GOOGL
+- 10/17 05:45 [financialjuice] Trump: Iran will be over very soon
+- 10/17 06:10 [financialjuice] North Korea conducted underwater torpedo test on Oct. 15 to verify upgrades to new weapon system: KCNA
+- 10/17 06:12 [financialjuice] Natca: reaches deal with FAA on 2.8% pay raise for eligible air traffic controllers, effective Oct. 18 and retroactive to first full pay period of 2026
+- 10/17 06:12 [financialjuice] North Korea: successful torpedo test marks key advancement in naval capabilities - KCNA
+- 10/17 06:14 [financialjuice] North Korea: torpedo test confirms propulsion tech developed in over 180 trials across five years - KCNA
+- 10/17 06:15 [financialjuice] North Korea: AI tech used for target detection and guidance in new high-speed precision torpedo - KCNA

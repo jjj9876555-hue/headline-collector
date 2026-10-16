@@ -7,78 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-17 03:27 JST／対象: 10/16 03:27 〜 10/17 03:27 JST（時刻はすべて日本時間）
+生成: 2026-10-17 06:36 JST／対象: 10/16 06:36 〜 10/17 06:36 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 57 | 10/16 04:34 | 10/17 02:53 | ⚠ 791分（06:33→19:45） |
-| FirstSquawk | 277 | 10/16 03:32 | 10/17 03:17 | ⚠ 99分（10:06→11:45） |
-| financialjuice | 207 | 10/16 03:31 | 10/17 03:11 | ⚠ 72分（00:46→01:58） |
+| DeItaone | 52 | 10/16 19:45 | 10/17 02:53 | ⚠ 55分（23:59→00:55） |
+| FirstSquawk | 257 | 10/16 06:45 | 10/17 05:02 | ⚠ 99分（10:06→11:45） |
+| financialjuice | 223 | 10/16 06:45 | 10/17 06:15 | ⚠ 72分（00:46→01:58） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 526 行（統合前 541 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 517 行（統合前 533 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/16 03:31 [financialjuice] NYMEX WTI Crude November futures settle at $97.97 a barrel, up $2.88, 3.03%.
-- 10/16 03:31 [financialjuice] NYMEX Gasoline November futures settle at $3.1802 a gallon.
-- 10/16 03:32 [financialjuice] NYMEX Natural Gas November futures settle at $3.2360/MMBTU
-- 10/16 03:32 [financialjuice] NYMEX Diesel November futures settle at $4.8456 a gallon.
-- 10/16 03:32 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 3.03% HIGHER AT $97.97/BBL, UP $2.88
-- 10/16 03:52 [financialjuice] Brent crude futures settle at $105.92/bbl, down 14 cents, 0.13%
-- 10/16 03:54 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 0.13% LOWER AT $105.92/BBL, DOWN 14 CENTS
-- 10/16 04:17 [FirstSquawk] REPORTS OF MULTIPLE EXPLOSIONS IN JEDDAH - FARS NEWS
-- 10/16 04:22 [financialjuice] Friday FX Option Expiries
-- 10/16 04:22 [FirstSquawk] KFC IS MOVING TO DITCH PEPSI FOR COKE IN THOUSANDS OF RESTAURANTS, WITH TALKS AT AN ADVANCED STAGE AND THE SWITCH TO COKE AT KFC U.S. SET TO TAKE PLACE IN JANUARY IF THE DEAL IS COMPLETED - WSJ
-- 10/16 04:27 [FirstSquawk] WHITE HOUSE IS PREPARING PLANS TO USE A WEAPON DUBBED THE ‘MOTHER OF ALL BOMBS’ ON IRAN, SOURCES SAY - CBS NEWS
-- 10/16 04:34 [DeItaone] WHITE HOUSE PREPARES PLANS TO USE WEAPON DUBBED "MOTHER OF ALL BOMBS" ON IRAN, SOURCES SAY - CBS NEWS
-- 10/16 04:35 [FirstSquawk] SKYCITY ENTERTAINMENT HAS SIGNED AN SPA FOR THE SALE OF THE GRAND HOTEL AND ITS BUSINESS ASSETS FOR NZ$221 MLN, AND HAS AGREED TO MANAGE AND OPERATE THE GRAND HOTEL FOR A TRANSITIONAL PERIOD UNTIL 30 JUNE 2027
-- 10/16 04:38 [FirstSquawk] YEMEN HEALTH MINISTER: HOUTHI ATTACK ON PRESIDENTIAL PALACE COMPLEX IN ADEN KILLS 5, WOUNDS 16
-- 10/16 04:38 [financialjuice] Total money market funds fell $40.46b to $7.92t for the week ended October 14th - ICI
-- 10/16 04:39 [FirstSquawk] SAUDI CIVIL DEFENCE ISSUES EMERGENCY DANGER ALERT FOR JAZAN PROVINCE
-- 10/16 04:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: -2379.4 MLN NASDAQ 100: -1888.9 MLN DOW 30: -980.3 MLN MAG 7: -1034.1 MLN $MACRO
-- 10/16 04:55 [FirstSquawk] KFC U.S. HAS ANNOUNCED A NEW BEVERAGE PARTNERSHIP WITH THE COCA-COLA COMPANY, AND WILL SERVE COCA-COLA PRODUCTS IN ALL U.S. RESTAURANTS BY SPRING 2027
-- 10/16 05:04 [FirstSquawk] DOW JONES CLOSES 1.11% HIGHER AT 52,191.97, UP 570.49 POINTS
-- 10/16 05:04 [FirstSquawk] S&P 500 CLOSES 0.36% HIGHER AT 7,746.44, UP 27.50 POINTS
-- 10/16 05:04 [FirstSquawk] NASDAQ CLOSES 0.15% HIGHER AT 26,732.71, UP 39.85 POINTS
-- 10/16 05:06 [financialjuice] Stocks Rebound as Nvidia Backs CoreWeave Amid AI Investment Concerns – US Market Wrap
-- 10/16 05:16 [FirstSquawk] STOCKS BOUNCED AFTER A DROP DRIVEN BY WORRIES ABOUT THE SUSTAINABILITY OF THE AI TRADE, WITH THE S&P 500 HALTING A THREE-DAY DROP AS A SELLOFF IN CHIPMAKERS EASED AFTER NVIDIA’S JENSEN HUANG DEFENDED THE FINANCIAL HEALTH OF AI COMPUTING SUP…
-- 10/16 05:16 [FirstSquawk] ATTENTION TURNS TO FED CHAIR KEVIN WARSH’S REMARKS FOR CLUES ON WHETHER OFFICIALS ARE PIVOTING FROM A SKIP TO AN OCTOBER RATE HIKE, WITH EVERCORE’S KRISHNA GUHA SAYING ‘ON BALANCE, WE THINK WARSH WILL TALK IN A WAY THAT DOES NOT SUGGEST AN …
-- 10/16 05:16 [FirstSquawk] THE S&P 500 ROSE 0.3% AND THE DOW GAINED 1.1% WHILE THE NASDAQ 100 WAS LITTLE CHANGED, AS THE 10-YEAR TREASURY YIELD FELL 10 BASIS POINTS TO 5.09%, WTI CRUDE ROSE 2.8% TO $97.71 A BARREL, SPOT GOLD GAINED 1.8% TO $4,177.27 AN OUNCE AND BITC…
-- 10/16 05:33 [FirstSquawk] STATE DEPARTMENT OFFICIAL SAYS RUBIO SPOKE WITH LEBANON’S PRESIDENT AOUN ON THE CONFISCATION OF SEVERAL HUNDRED KILOS OF EXPLOSIVES FROM HEZBOLLAH, URGING AOUN TO HOLD ACCOUNTABLE THOSE WHO ORDERED, FINANCED AND DIRECTED THE SHIPMENT.
-- 10/16 05:33 [FirstSquawk] STATE DEPARTMENT OFFICIAL SAYS RUBIO ALSO URGED DIRECT MILITARY-TO-MILITARY COMMUNICATION BETWEEN LEBANESE AND ISRAELI FORCES ‘FOR DECONFLICTION’.
-- 10/16 05:36 [financialjuice/FirstSquawk] US Secretary of State Rubio spoke with Israel's Prime Minister Netanyahu today - Axios
-- 10/16 05:39 [financialjuice] US Sec. of Defense Hegseth met with UK'S Streeting at the Pentagon today
-- 10/16 05:40 [FirstSquawk] BLUE OWL CAPITAL SAYS ITS REVOLVING CREDIT COMMITMENT HAS BEEN INCREASED TO $3.23 BLN, WITH THE POTENTIAL TO RISE TO $3.87 BLN, AND THE MATURITY DATE OF THE FACILITY EXTENDED TO OCTOBER 14, 2031 - SEC FILING
-- 10/16 05:41 [FirstSquawk] PINTEREST SAYS IT HAS ENTERED A FIVE-YEAR, $700 MLN REVOLVING CREDIT FACILITY ON OCT. 15, 2026, REPLACING ITS PREVIOUS $500 MLN REVOLVING CREDIT FACILITY ENTERED INTO ON OCTOBER 25, 2022 AND AMENDED IN OCTOBER 2023 - SEC FILING
-- 10/16 05:44 [financialjuice] Pentagon: US would reduce troop presence in Europe with NATO 3.0
-- 10/16 05:44 [financialjuice] Pentagon: NATO 3.0 envisions rebalancing of the NATO alliance
-- 10/16 05:45 [financialjuice] Pentagon: The US would shift focus to the Pacific and other regions
-- 10/16 05:46 [financialjuice] Fed's Hammack: Hearing more from lower-income Americans struggling with inflation
-- 10/16 05:48 [financialjuice] Fed's Hammack: Anecdotal information provides important economic guidance
-- 10/16 05:57 [financialjuice/FirstSquawk] ❗ Some investors dial back Anthropic valuation expectations amid disappointing results, market selloff - Sources
-- 10/16 05:59 [DeItaone] ANTHROPIC’S IPO VALUATION EXPECTATIONS DROP FROM $2 TRILLION TO $1.5 TRILLION Some investors are considering a $1.5 trillion valuation for Anthropic’s upcoming IPO, down 25% from earlier expectations of $2 trillion. Anthropic reported $16.8…
-- 10/16 06:00 [financialjuice] S. KOREAN EXPORT PRICE YOY ACTUAL 40.9% (FORECAST -, PREVIOUS 42.4%) $MACRO
-- 10/16 06:02 [FirstSquawk] ENTAGON SAYS ‘NATO 3.0’ ENVISIONS A REBALANCING OF THE NATO ALLIANCE UNDER WHICH THE U.S. WOULD REDUCE ITS TROOP PRESENCE IN EUROPE AND SHIFT FOCUS TO THE PACIFIC AND OTHER REGIONS, AS U.S. DEFENSE SECRETARY HEGSETH MET WITH THE UK’S STREET…
-- 10/16 06:03 [FirstSquawk] PENTAGON SAYS ‘NATO 3.0’ ENVISIONS A REBALANCING OF THE NATO ALLIANCE UNDER WHICH THE U.S. WOULD REDUCE ITS TROOP PRESENCE IN EUROPE AND SHIFT FOCUS TO THE PACIFIC AND OTHER REGIONS, AS U.S. DEFENSE SECRETARY HEGSETH MET WITH THE UK’S STREE…
-- 10/16 06:04 [FirstSquawk] MSCI PROPOSES RECLASSIFYING INDONESIA FROM EMERGING TO STANDALONE MARKET STATUS; FREEZE ON INDONESIAN INDEX CHANGES MAINTAINED, WITH GLOBAL & REGIONAL INDEXES TO BE IMPACTED
-- 10/16 06:04 [FirstSquawk] MSCI FLAGS ‘SIGNIFICANT CONCERNS’ OVER SUSPECTED COORDINATED TRADING IN INDONESIA; SAYS MEANINGFUL ENFORCEMENT EVIDENCE REMAINS LACKING
-- 10/16 06:04 [FirstSquawk] SOUTH KOREA’S SEPTEMBER EXPORT PRICE INDEX ROSE 40.9% YEAR-ON-YEAR, EASING FROM 42.4%, WHILE THE IMPORT PRICE INDEX ROSE 17.6%, UP FROM 15.6%
-- 10/16 06:05 [FirstSquawk] NETFLIX PREPARES TO CUT 800 JOBS DAYS BEFORE EARNINGS AMID DECLINING U.S. TV VIEWING SHARE
-- 10/16 06:07 [FirstSquawk] FED’S HAMMACK SAYS SHE IS HEARING MORE FROM LOWER-INCOME AMERICANS STRUGGLING WITH INFLATION, ADDING THAT ANECDOTAL INFORMATION PROVIDES IMPORTANT ECONOMIC GUIDANCE.
-- 10/16 06:07 [FirstSquawk] FED'S HAMMACK SAYS BUSINESSES ARE SEEING A LOT OF INPUT COST PRICE PRESSURES, ADDING THAT SHE WORRIES ABOUT THE FORMATION OF AN INFLATION MENTALITY.
-- 10/16 06:08 [FirstSquawk] EUROPEAN COMMISSION PREPARES TO FAST-TRACK ANTITRUST APPROVAL FOR AIRBUS-LEONARDO-THALES SATELLITE VENTURE ‘PROJECT BROMO’ TO REDUCE RELIANCE ON SPACEX & US PROVIDERS
-- 10/16 06:08 [FirstSquawk] EU PROJECT TO STRENGTHEN SPACE INDUSTRY AGAINST US & CHINESE RIVALS FACES COMPETITION, JOBS & SUPPLIER SCRUTINY; APPROVAL COULD COME AFTER JUST OVER A MONTH IF CONCESSIONS ADDRESS CONCERNS
-- 10/16 06:26 [DeItaone] FED'S HAMMACK: FINANCIAL CONDITIONS DO NOT APPEAR RESTRICTIVE RIGHT NOW
-- 10/16 06:30 [financialjuice] NEW ZEALAND MANUFACTURING PMI ACTUAL 56.5 (FORECAST -, PREVIOUS 53.1) $MACRO
-- 10/16 06:30 [financialjuice] New Zealand September seasonally adjusted PMI 56.5: Business NZ/Bank NZ survey
-- 10/16 06:31 [FirstSquawk] NEW ZEALAND’S SEPTEMBER SEASONALLY ADJUSTED MANUFACTURING PMI ROSE TO 56.5 FROM 53.1 - BUSINESS NZ/BANK NZ SURVEY
-- 10/16 06:32 [DeItaone] FLAVIO BOLSONARO SEEN WITH 51% OF VALID VOTES VS LULA'S 49% IN BRAZIL PRESIDENTIAL RUNOFF - DATAFOLHA POLL
-- 10/16 06:33 [DeItaone] FED’S HAMMACK WARNS MORE AGGRESSIVE ACTION MAY BE NEEDED TO FIGHT INFLATION Cleveland Fed President Beth Hammack warned that deteriorating inflation expectations could force the Federal Reserve to take more aggressive monetary policy action…
 - 10/16 06:45 [financialjuice] NEW ZEALAND FOOD PRICE INDEX ACTUAL 0% (FORECAST -, PREVIOUS 0.3%) $MACRO
 - 10/16 06:45 [financialjuice] Nz actual electronic card retail sales rise 0.9% in September year on year
 - 10/16 06:45 [financialjuice] NZ s/adj electronic card retail sales down 0.4% in Sept vs prior month
@@ -550,3 +495,49 @@
 - 10/17 03:10 [financialjuice] CENTCOM: US has helped ship over 100m bbls through Hormuz in past 7 days
 - 10/17 03:11 [financialjuice] CENTCOM Commander: Due to the US naval blockade, Iran has no maritime exports or imports - Post on X
 - 10/17 03:17 [FirstSquawk] US HAS HELPED SHIP OVER 100M BBLS THROUGH HORMUZ IN PAST 7 DAYS
+- 10/17 03:31 [FirstSquawk] US CRUDE OIL FUTURES SETTLE AT $101.41/BBL, UP $3.44, 3.51%
+- 10/17 03:32 [financialjuice] NYMEX Nat Gas Nov. futures settle at $3.1160/MMBTU
+- 10/17 03:32 [financialjuice] NYMEX WTI crude futures settle at $101.41 a barrel, up $3.44, 3.51%
+- 10/17 03:32 [financialjuice] NYMEX gasoline November futures settle at $3.2354 a gallon
+- 10/17 03:32 [financialjuice] NYMEX diesel November futures settle at $4.8991 a gallon
+- 10/17 03:34 [FirstSquawk] BRENT FUTURES RISE TO $110 A BARREL FOR FIRST TIME SINCE MAY 20
+- 10/17 03:44 [FirstSquawk] GERMAN COALITION APPROVES RECORD TOBACCO TAX HIKE, BREAKING PLEDGE - BILD
+- 10/17 03:48 [financialjuice] Iran's Foreign Ministry Spokesperson: Arabia has not yet responded to Iran's mediation response regarding Yemen.
+- 10/17 03:51 [financialjuice/FirstSquawk] SoftBank said to weigh buying largest US security firm Allied.
+- 10/17 03:51 [financialjuice] Allied would have equity value of up to $18 bln in potential deal.
+- 10/17 03:52 [FirstSquawk] US PAYS RECORD $1.05T NET INTEREST ON DEBT IN 2026 FISCAL YEAR
+- 10/17 03:52 [financialjuice] SoftBank’s Son seeking ways to use AI robots across industries.
+- 10/17 03:52 [financialjuice/FirstSquawk] Brent Crude futures settle at $109.86/bbl, up $3.94, 3.72%
+- 10/17 03:57 [financialjuice] 3 missiles were fired at the Aden airport, which is under the control of Saudi mercenaries - Tasnim News citing reports
+- 10/17 04:09 [FirstSquawk] ISRAEL PREPARES FOR POSSIBLE ELECTION ATTACKS, ASSASSINATIONS
+- 10/17 04:11 [financialjuice] Week Ahead: Economic Indicators 19th – 23rd October (US)
+- 10/17 04:15 [financialjuice] Arab sources reported that several explosions were heard in the Yemeni city of Aden - Iran's Seppah
+- 10/17 04:16 [financialjuice] Iran-Russia gas agreement and the connection of Caucasus energy networks in the focus of discussion of the Russian Energy Forum - IRNA
+- 10/17 04:19 [FirstSquawk] GOLDMAN SACHS PRIVATE CREDIT CORP: NET ASSET VALUE ABOUT $9.40 BLN AS OF SEPTEMBER 30 - SEC FILING
+- 10/17 04:22 [financialjuice] Monday FX Options Expiries
+- 10/17 04:31 [financialjuice] CFTC Positions in the Week Ended October 13th
+- 10/17 04:50 [FirstSquawk] US WARNS CHINA TRAVELERS THEY RISK 'WRONGFUL DETENTION':SEMAFOR
+- 10/17 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 2417.6 MLN NASDAQ 100: 826.9 MLN DOW 30: 714.0 MLN MAG 7: 872.9 MLN $MACRO
+- 10/17 04:51 [FirstSquawk] BLACKSTONE PRIVATE CREDIT FUND OUTLOOK REVISED TO STABLE FROM POSITIVE – S&P
+- 10/17 04:59 [financialjuice] Explosions occurred in Damascus, the capital of Syria - Tasnim News.
+- 10/17 05:00 [financialjuice] US TIC LONG-TERM TRANSACTIONS ACTUAL 279.2B (FORECAST -, PREVIOUS -27.9B) $MACRO
+- 10/17 05:00 [financialjuice] US OVERALL NET CAPITAL FLOWS ACTUAL 199.8B (FORECAST -, PREVIOUS 83.7B ,REVISION 87.4B) $MACRO
+- 10/17 05:01 [financialjuice] China's US Treasury securities holdings $591 bln in August vs $618 bln in July.
+- 10/17 05:01 [financialjuice] Japan's US Treasury holdings $1.068 trln in August vs $1.104 trln in July.
+- 10/17 05:01 [financialjuice] United Kingdom's US Treasury holdings $1.010 trln in August vs $998 bln in July.
+- 10/17 05:02 [FirstSquawk] S&P 500 UNOFFICIALLY CLOSES DOWN 81.73 POINTS, OR 1.06 PERCENT, AT 7,662.33 DOW JONES UNOFFICIALLY CLOSES DOWN 208.06 POINTS, OR 0.40%, AT 51,969.63 NASDAQ UNOFFICIALLY CLOSES DOWN 568.58 POINTS, OR 2.13 PERCENT, AT 26,144.45
+- 10/17 05:02 [financialjuice] US August net foreign holdings of US Treasury bonds, notes +$108.9 bln vs -$3.6 bln in July (prev -$3.6 bln).
+- 10/17 05:02 [FirstSquawk] COREWEAVE SHARES FALL 12% TO BRING WEEKLY SELLOFF TO 25%
+- 10/17 05:08 [financialjuice] Tech Selloff Deepens as AI Financing Concerns Weigh on Stocks – US Market Wrap
+- 10/17 05:15 [financialjuice] US bank deposits rose to $19.771 tln from $19.694 tln in the prior week.
+- 10/17 05:31 [financialjuice] Iran-backed militias sending money back to cash-starved IRGC - Axios citing CENTCOM Commander.
+- 10/17 05:31 [financialjuice] Iran-backed militias sending money back to cash-starved IRGC - Axios.
+- 10/17 05:33 [financialjuice] NVIDIA CEO on AI Market Turmoil: All of this is going to pass. $NVDA
+- 10/17 05:33 [financialjuice] Trump speaks at a rally in Dalton, Georgia - WATCH LIVE
+- 10/17 05:44 [financialjuice] Anthropic: Revenue per employee 2x-4x its peers, Meta and Google. $META $GOOGL
+- 10/17 05:45 [financialjuice] Trump: Iran will be over very soon
+- 10/17 06:10 [financialjuice] North Korea conducted underwater torpedo test on Oct. 15 to verify upgrades to new weapon system: KCNA
+- 10/17 06:12 [financialjuice] Natca: reaches deal with FAA on 2.8% pay raise for eligible air traffic controllers, effective Oct. 18 and retroactive to first full pay period of 2026
+- 10/17 06:12 [financialjuice] North Korea: successful torpedo test marks key advancement in naval capabilities - KCNA
+- 10/17 06:14 [financialjuice] North Korea: torpedo test confirms propulsion tech developed in over 180 trials across five years - KCNA
+- 10/17 06:15 [financialjuice] North Korea: AI tech used for target detection and guidance in new high-speed precision torpedo - KCNA
