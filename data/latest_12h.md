@@ -7,98 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-16 14:49 JST／対象: 10/16 02:49 〜 10/16 14:49 JST（時刻はすべて日本時間）
+生成: 2026-10-16 19:10 JST／対象: 10/16 07:10 〜 10/16 19:10 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 5 | 10/16 04:34 | 10/16 06:33 | ⚠ 85分（04:34→05:59） |
-| FirstSquawk | 155 | 10/16 03:16 | 10/16 14:45 | ⚠ 99分（10:06→11:45） |
-| financialjuice | 81 | 10/16 03:02 | 10/16 14:49 | ⚠ 72分（12:42→13:54） |
+| DeItaone | 0 | - | - | - |
+| FirstSquawk | 158 | 10/16 08:26 | 10/16 19:08 | ⚠ 99分（10:06→11:45） |
+| financialjuice | 85 | 10/16 08:00 | 10/16 19:01 | ⚠ 72分（12:42→13:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 238 行（統合前 241 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 242 行（統合前 243 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/16 03:02 [financialjuice] ❗ EU plans a trade tool that could block China from the single market
-- 10/16 03:03 [financialjuice] US Treasury Debt Buyback
-- 10/16 03:07 [financialjuice] Google Quantum AI publishes a breakthrough in quantum computing $GOOGL
-- 10/16 03:08 [financialjuice] Google Quantum AI's Willow clears a key resource bottleneck. $GOOGL
-- 10/16 03:16 [FirstSquawk] EU PLANS TRADE TOOL THAT COULD BLOCK CHINA FROM ACCESSING THE SINGLE MARKET
-- 10/16 03:16 [FirstSquawk] U.S. TREASURY’S DEBT BUYBACK TARGETED COUPONS MATURING IN 2037-2046, RECEIVING $40.836 BLN OF OFFERS AND ACCEPTING $6 BLN — MATCHING THE MAXIMUM — ACROSS 3 OF 42 ELIGIBLE ISSUES
-- 10/16 03:17 [FirstSquawk] GOOGLE QUANTUM AI HAS PUBLISHED A BREAKTHROUGH IN QUANTUM COMPUTING, WITH ITS WILLOW CHIP CLEARING A KEY RESOURCE BOTTLENECK
-- 10/16 03:18 [FirstSquawk] ANTHROPIC PROPOSES $2 TRILLION VALUATION AMID UNCERTAIN IPO MARKET CONDITIONS
-- 10/16 03:31 [financialjuice] NYMEX WTI Crude November futures settle at $97.97 a barrel, up $2.88, 3.03%.
-- 10/16 03:31 [financialjuice] NYMEX Gasoline November futures settle at $3.1802 a gallon.
-- 10/16 03:32 [financialjuice] NYMEX Natural Gas November futures settle at $3.2360/MMBTU
-- 10/16 03:32 [financialjuice] NYMEX Diesel November futures settle at $4.8456 a gallon.
-- 10/16 03:32 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 3.03% HIGHER AT $97.97/BBL, UP $2.88
-- 10/16 03:52 [financialjuice] Brent crude futures settle at $105.92/bbl, down 14 cents, 0.13%
-- 10/16 03:54 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 0.13% LOWER AT $105.92/BBL, DOWN 14 CENTS
-- 10/16 04:17 [FirstSquawk] REPORTS OF MULTIPLE EXPLOSIONS IN JEDDAH - FARS NEWS
-- 10/16 04:22 [financialjuice] Friday FX Option Expiries
-- 10/16 04:22 [FirstSquawk] KFC IS MOVING TO DITCH PEPSI FOR COKE IN THOUSANDS OF RESTAURANTS, WITH TALKS AT AN ADVANCED STAGE AND THE SWITCH TO COKE AT KFC U.S. SET TO TAKE PLACE IN JANUARY IF THE DEAL IS COMPLETED - WSJ
-- 10/16 04:27 [FirstSquawk] WHITE HOUSE IS PREPARING PLANS TO USE A WEAPON DUBBED THE ‘MOTHER OF ALL BOMBS’ ON IRAN, SOURCES SAY - CBS NEWS
-- 10/16 04:34 [DeItaone] WHITE HOUSE PREPARES PLANS TO USE WEAPON DUBBED "MOTHER OF ALL BOMBS" ON IRAN, SOURCES SAY - CBS NEWS
-- 10/16 04:35 [FirstSquawk] SKYCITY ENTERTAINMENT HAS SIGNED AN SPA FOR THE SALE OF THE GRAND HOTEL AND ITS BUSINESS ASSETS FOR NZ$221 MLN, AND HAS AGREED TO MANAGE AND OPERATE THE GRAND HOTEL FOR A TRANSITIONAL PERIOD UNTIL 30 JUNE 2027
-- 10/16 04:38 [FirstSquawk] YEMEN HEALTH MINISTER: HOUTHI ATTACK ON PRESIDENTIAL PALACE COMPLEX IN ADEN KILLS 5, WOUNDS 16
-- 10/16 04:38 [financialjuice] Total money market funds fell $40.46b to $7.92t for the week ended October 14th - ICI
-- 10/16 04:39 [FirstSquawk] SAUDI CIVIL DEFENCE ISSUES EMERGENCY DANGER ALERT FOR JAZAN PROVINCE
-- 10/16 04:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: -2379.4 MLN NASDAQ 100: -1888.9 MLN DOW 30: -980.3 MLN MAG 7: -1034.1 MLN $MACRO
-- 10/16 04:55 [FirstSquawk] KFC U.S. HAS ANNOUNCED A NEW BEVERAGE PARTNERSHIP WITH THE COCA-COLA COMPANY, AND WILL SERVE COCA-COLA PRODUCTS IN ALL U.S. RESTAURANTS BY SPRING 2027
-- 10/16 05:04 [FirstSquawk] DOW JONES CLOSES 1.11% HIGHER AT 52,191.97, UP 570.49 POINTS
-- 10/16 05:04 [FirstSquawk] S&P 500 CLOSES 0.36% HIGHER AT 7,746.44, UP 27.50 POINTS
-- 10/16 05:04 [FirstSquawk] NASDAQ CLOSES 0.15% HIGHER AT 26,732.71, UP 39.85 POINTS
-- 10/16 05:06 [financialjuice] Stocks Rebound as Nvidia Backs CoreWeave Amid AI Investment Concerns – US Market Wrap
-- 10/16 05:16 [FirstSquawk] STOCKS BOUNCED AFTER A DROP DRIVEN BY WORRIES ABOUT THE SUSTAINABILITY OF THE AI TRADE, WITH THE S&P 500 HALTING A THREE-DAY DROP AS A SELLOFF IN CHIPMAKERS EASED AFTER NVIDIA’S JENSEN HUANG DEFENDED THE FINANCIAL HEALTH OF AI COMPUTING SUP…
-- 10/16 05:16 [FirstSquawk] ATTENTION TURNS TO FED CHAIR KEVIN WARSH’S REMARKS FOR CLUES ON WHETHER OFFICIALS ARE PIVOTING FROM A SKIP TO AN OCTOBER RATE HIKE, WITH EVERCORE’S KRISHNA GUHA SAYING ‘ON BALANCE, WE THINK WARSH WILL TALK IN A WAY THAT DOES NOT SUGGEST AN …
-- 10/16 05:16 [FirstSquawk] THE S&P 500 ROSE 0.3% AND THE DOW GAINED 1.1% WHILE THE NASDAQ 100 WAS LITTLE CHANGED, AS THE 10-YEAR TREASURY YIELD FELL 10 BASIS POINTS TO 5.09%, WTI CRUDE ROSE 2.8% TO $97.71 A BARREL, SPOT GOLD GAINED 1.8% TO $4,177.27 AN OUNCE AND BITC…
-- 10/16 05:33 [FirstSquawk] STATE DEPARTMENT OFFICIAL SAYS RUBIO SPOKE WITH LEBANON’S PRESIDENT AOUN ON THE CONFISCATION OF SEVERAL HUNDRED KILOS OF EXPLOSIVES FROM HEZBOLLAH, URGING AOUN TO HOLD ACCOUNTABLE THOSE WHO ORDERED, FINANCED AND DIRECTED THE SHIPMENT.
-- 10/16 05:33 [FirstSquawk] STATE DEPARTMENT OFFICIAL SAYS RUBIO ALSO URGED DIRECT MILITARY-TO-MILITARY COMMUNICATION BETWEEN LEBANESE AND ISRAELI FORCES ‘FOR DECONFLICTION’.
-- 10/16 05:36 [financialjuice/FirstSquawk] US Secretary of State Rubio spoke with Israel's Prime Minister Netanyahu today - Axios
-- 10/16 05:39 [financialjuice] US Sec. of Defense Hegseth met with UK'S Streeting at the Pentagon today
-- 10/16 05:40 [FirstSquawk] BLUE OWL CAPITAL SAYS ITS REVOLVING CREDIT COMMITMENT HAS BEEN INCREASED TO $3.23 BLN, WITH THE POTENTIAL TO RISE TO $3.87 BLN, AND THE MATURITY DATE OF THE FACILITY EXTENDED TO OCTOBER 14, 2031 - SEC FILING
-- 10/16 05:41 [FirstSquawk] PINTEREST SAYS IT HAS ENTERED A FIVE-YEAR, $700 MLN REVOLVING CREDIT FACILITY ON OCT. 15, 2026, REPLACING ITS PREVIOUS $500 MLN REVOLVING CREDIT FACILITY ENTERED INTO ON OCTOBER 25, 2022 AND AMENDED IN OCTOBER 2023 - SEC FILING
-- 10/16 05:44 [financialjuice] Pentagon: US would reduce troop presence in Europe with NATO 3.0
-- 10/16 05:44 [financialjuice] Pentagon: NATO 3.0 envisions rebalancing of the NATO alliance
-- 10/16 05:45 [financialjuice] Pentagon: The US would shift focus to the Pacific and other regions
-- 10/16 05:46 [financialjuice] Fed's Hammack: Hearing more from lower-income Americans struggling with inflation
-- 10/16 05:48 [financialjuice] Fed's Hammack: Anecdotal information provides important economic guidance
-- 10/16 05:57 [financialjuice/FirstSquawk] ❗ Some investors dial back Anthropic valuation expectations amid disappointing results, market selloff - Sources
-- 10/16 05:59 [DeItaone] ANTHROPIC’S IPO VALUATION EXPECTATIONS DROP FROM $2 TRILLION TO $1.5 TRILLION Some investors are considering a $1.5 trillion valuation for Anthropic’s upcoming IPO, down 25% from earlier expectations of $2 trillion. Anthropic reported $16.8…
-- 10/16 06:00 [financialjuice] S. KOREAN EXPORT PRICE YOY ACTUAL 40.9% (FORECAST -, PREVIOUS 42.4%) $MACRO
-- 10/16 06:02 [FirstSquawk] ENTAGON SAYS ‘NATO 3.0’ ENVISIONS A REBALANCING OF THE NATO ALLIANCE UNDER WHICH THE U.S. WOULD REDUCE ITS TROOP PRESENCE IN EUROPE AND SHIFT FOCUS TO THE PACIFIC AND OTHER REGIONS, AS U.S. DEFENSE SECRETARY HEGSETH MET WITH THE UK’S STREET…
-- 10/16 06:03 [FirstSquawk] PENTAGON SAYS ‘NATO 3.0’ ENVISIONS A REBALANCING OF THE NATO ALLIANCE UNDER WHICH THE U.S. WOULD REDUCE ITS TROOP PRESENCE IN EUROPE AND SHIFT FOCUS TO THE PACIFIC AND OTHER REGIONS, AS U.S. DEFENSE SECRETARY HEGSETH MET WITH THE UK’S STREE…
-- 10/16 06:04 [FirstSquawk] MSCI PROPOSES RECLASSIFYING INDONESIA FROM EMERGING TO STANDALONE MARKET STATUS; FREEZE ON INDONESIAN INDEX CHANGES MAINTAINED, WITH GLOBAL & REGIONAL INDEXES TO BE IMPACTED
-- 10/16 06:04 [FirstSquawk] MSCI FLAGS ‘SIGNIFICANT CONCERNS’ OVER SUSPECTED COORDINATED TRADING IN INDONESIA; SAYS MEANINGFUL ENFORCEMENT EVIDENCE REMAINS LACKING
-- 10/16 06:04 [FirstSquawk] SOUTH KOREA’S SEPTEMBER EXPORT PRICE INDEX ROSE 40.9% YEAR-ON-YEAR, EASING FROM 42.4%, WHILE THE IMPORT PRICE INDEX ROSE 17.6%, UP FROM 15.6%
-- 10/16 06:05 [FirstSquawk] NETFLIX PREPARES TO CUT 800 JOBS DAYS BEFORE EARNINGS AMID DECLINING U.S. TV VIEWING SHARE
-- 10/16 06:07 [FirstSquawk] FED’S HAMMACK SAYS SHE IS HEARING MORE FROM LOWER-INCOME AMERICANS STRUGGLING WITH INFLATION, ADDING THAT ANECDOTAL INFORMATION PROVIDES IMPORTANT ECONOMIC GUIDANCE.
-- 10/16 06:07 [FirstSquawk] FED'S HAMMACK SAYS BUSINESSES ARE SEEING A LOT OF INPUT COST PRICE PRESSURES, ADDING THAT SHE WORRIES ABOUT THE FORMATION OF AN INFLATION MENTALITY.
-- 10/16 06:08 [FirstSquawk] EUROPEAN COMMISSION PREPARES TO FAST-TRACK ANTITRUST APPROVAL FOR AIRBUS-LEONARDO-THALES SATELLITE VENTURE ‘PROJECT BROMO’ TO REDUCE RELIANCE ON SPACEX & US PROVIDERS
-- 10/16 06:08 [FirstSquawk] EU PROJECT TO STRENGTHEN SPACE INDUSTRY AGAINST US & CHINESE RIVALS FACES COMPETITION, JOBS & SUPPLIER SCRUTINY; APPROVAL COULD COME AFTER JUST OVER A MONTH IF CONCESSIONS ADDRESS CONCERNS
-- 10/16 06:26 [DeItaone] FED'S HAMMACK: FINANCIAL CONDITIONS DO NOT APPEAR RESTRICTIVE RIGHT NOW
-- 10/16 06:30 [financialjuice] NEW ZEALAND MANUFACTURING PMI ACTUAL 56.5 (FORECAST -, PREVIOUS 53.1) $MACRO
-- 10/16 06:30 [financialjuice] New Zealand September seasonally adjusted PMI 56.5: Business NZ/Bank NZ survey
-- 10/16 06:31 [FirstSquawk] NEW ZEALAND’S SEPTEMBER SEASONALLY ADJUSTED MANUFACTURING PMI ROSE TO 56.5 FROM 53.1 - BUSINESS NZ/BANK NZ SURVEY
-- 10/16 06:32 [DeItaone] FLAVIO BOLSONARO SEEN WITH 51% OF VALID VOTES VS LULA'S 49% IN BRAZIL PRESIDENTIAL RUNOFF - DATAFOLHA POLL
-- 10/16 06:33 [DeItaone] FED’S HAMMACK WARNS MORE AGGRESSIVE ACTION MAY BE NEEDED TO FIGHT INFLATION Cleveland Fed President Beth Hammack warned that deteriorating inflation expectations could force the Federal Reserve to take more aggressive monetary policy action…
-- 10/16 06:45 [financialjuice] NEW ZEALAND FOOD PRICE INDEX ACTUAL 0% (FORECAST -, PREVIOUS 0.3%) $MACRO
-- 10/16 06:45 [financialjuice] Nz actual electronic card retail sales rise 0.9% in September year on year
-- 10/16 06:45 [financialjuice] NZ s/adj electronic card retail sales down 0.4% in Sept vs prior month
-- 10/16 06:45 [financialjuice] New Zealand food price inflation index steady at 0.0% in September month-on-month: Stats NZ
-- 10/16 06:45 [FirstSquawk] NEW ZEALAND’S FOOD PRICE INFLATION INDEX WAS STEADY AT 0.0% IN SEPTEMBER MONTH-ON-MONTH, DOWN FROM A PRIOR 0.3%, WHILE SEASONALLY ADJUSTED ELECTRONIC CARD RETAIL SALES FELL 0.4% ON THE MONTH THOUGH ACTUAL SALES ROSE 0.9% YEAR-ON-YEAR - STAT…
-- 10/16 07:04 [financialjuice/FirstSquawk] Drones strike industrial sites in Russia's Rostov region: governor
-- 10/16 07:05 [financialjuice] Gryspan says she wouldn’t be surprised to encounter veto power resistance on Friday
-- 10/16 07:05 [financialjuice] Grynspan: UN must enforce discipline to prevent agency overlap, reduce senior positions
-- 10/16 07:05 [financialjuice] Frontrunner in race for UN chief Rebeca Grynspan: 'UN has become too risk-averse' - source
-- 10/16 07:05 [financialjuice] Grynspan: opposition of permanent security council members has been overcome before
-- 10/16 07:06 [FirstSquawk] REBECA GRYNSPAN, THE FRONTRUNNER IN THE RACE FOR UN CHIEF, SAYS ‘THE UN HAS BECOME TOO RISK-AVERSE’, ARGUING THE UN MUST ENFORCE DISCIPLINE TO PREVENT AGENCY OVERLAP AND REDUCE SENIOR POSITIONS, A SOURCE SAYS.
-- 10/16 07:06 [FirstSquawk] REBECA GRYNSPAN, THE FRONTRUNNER IN THE RACE FOR UN CHIEF, SAYS SHE WOULDN’T BE SURPRISED TO ENCOUNTER VETO-POWER RESISTANCE ON FRIDAY, BUT THAT THE OPPOSITION OF PERMANENT SECURITY COUNCIL MEMBERS ‘HAS BEEN OVERCOME BEFORE’.
 - 10/16 08:00 [financialjuice] S. KOREAN UNEMPLOYMENT RATE ACTUAL 2.6% (FORECAST 2.7%, PREVIOUS 2.7%) $MACRO
 - 10/16 08:00 [financialjuice] S. Korea's September unemployment rate 2.6% vs 2.7% in August: data ministry
 - 10/16 08:00 [financialjuice] S. Korea’s September employment rises 113,000 year/year vs 184,000 in August: data ministry
@@ -262,3 +187,82 @@
 - 10/16 14:38 [FirstSquawk] Senior Minister: Indonesian Finance Minister, Central Bank Governor and Officials to Hold Meeting Following MSCI Announcement
 - 10/16 14:45 [FirstSquawk] Indonesia’s Senior Economic Minister: MSCI’s Decision Not to Discuss Standalone Status at This Week’s Bangkok Meeting Raises a Big Question Mark
 - 10/16 14:49 [financialjuice] Taiwan to curb AI chip exports to china as part of US deal.
+- 10/16 14:54 [FirstSquawk] Hong Kong Launches Embodied AI Hub to Strengthen Its Position in the Global Robotics Boom
+- 10/16 14:58 [FirstSquawk] JPMorgan Upgrades Nestlé to Overweight, Sets Price Target at CHF 100
+- 10/16 15:00 [financialjuice] SWEDISH UNEMPLOYMENT RATE ACTUAL 8.1% (FORECAST -, PREVIOUS 8.5%) $MACRO
+- 10/16 15:00 [financialjuice] SWEDISH UNEMPLOYMENT RATE SA ACTUAL 8.6% (FORECAST 8.6%, PREVIOUS 8.9%) $MACRO
+- 10/16 15:00 [FirstSquawk] SWEDEN (SEP) UNEMPLOYMENT RATE ACTUAL: 8.1% VS 8.5% PREVIOUS
+- 10/16 15:00 [FirstSquawk] SWEDEN (SEP) UNEMPLOYMENT RATE TREND ACTUAL: 8.7% VS 8.7% PREVIOUS
+- 10/16 15:00 [FirstSquawk] SWEDEN (SEP) UNEMPLOYMENT RATE SA ACTUAL: 8.6% VS 8.9% PREVIOUS;EST 8.6%
+- 10/16 15:08 [financialjuice] China Finance Minister meets with EU Commissioner for economy, ECB President Lagarde, and Eurogroup president - Ministry Statement.
+- 10/16 15:08 [financialjuice] China Finance Minister: Chinese side is willing to give full play to the role of the China-EU financial dialogue and other mechanisms with the EU side.
+- 10/16 15:08 [FirstSquawk] China Ready to Make Full Use of Financial Dialogue and Other Mechanisms With EU, Finance Minister Says
+- 10/16 15:08 [financialjuice] China Finance Minister: China willing to carry out communication on improving global economic governance and strengthening macro-policy coordination.
+- 10/16 15:09 [FirstSquawk] hina Ready to Engage in Talks on Improving Global Economic Governance and Enhancing Macroeconomic Policy Coordination
+- 10/16 15:09 [financialjuice] China Finance Minister: All parties should view global imbalance in a comprehensive, objective and balanced manner.
+- 10/16 15:10 [FirstSquawk] China Finance Minister Says Global Imbalances Must Be Viewed From a Comprehensive and Balanced Perspective
+- 10/16 15:25 [FirstSquawk] Swiss Franc Weakens Despite US Dollar Declines and Continued Demand for Safe-Haven Assets
+- 10/16 15:31 [financialjuice] BoJ's Governor Ueda: To keep raising rate in response to economy, prices.
+- 10/16 15:32 [financialjuice] BoJ's Governor Ueda: Increasingly vital to stabilize price trend around 2%.
+- 10/16 15:32 [FirstSquawk] BOJ Governor Ueda Reaffirms Gradual Rate Hikes Based on Economic, Price and Financial Trends
+- 10/16 15:32 [financialjuice] BoJ's Governor Ueda: Price trend is approaching 2%.
+- 10/16 15:33 [FirstSquawk] BOJ’s Ueda Emphasises Greater Importance of Stabilising Underlying Inflation at Around 2%
+- 10/16 15:34 [FirstSquawk] South Korea’s KOSPI Ends the Week Down 14.5%, Its Worst Weekly Performance Since October 2008
+- 10/16 15:34 [financialjuice] BoJ's Governor Ueda: Financial conditions are accommodative.
+- 10/16 15:36 [financialjuice] BoJ's Governor Ueda: There is risk of underlying inflation overshooting 2% price target.
+- 10/16 15:44 [FirstSquawk] Dutch Prime Minister Says All EU Countries Are Unhappy With the European Union’s Budget Plans
+- 10/16 16:06 [FirstSquawk] FORD MOTOR COMPANY FILES RECALL OF 2,276 US VEHICLES - NHTSA
+- 10/16 16:06 [FirstSquawk] MOTOR COACH INDUSTRIES INC FILES RECALL OF 683 US VEHICLES - NHTSA
+- 10/16 16:06 [FirstSquawk] BMW OF NORTH AMERICA LLC FILES RECALL OF 4,630 US VEHICLES - NHTSA
+- 10/16 16:14 [financialjuice] China: EU talks show differences can be managed via dialog.
+- 10/16 16:19 [financialjuice] China Foreign Ministry, on White House Press Secretary remarks: She is welcome to visit China more often if there is opportunity.
+- 10/16 16:20 [FirstSquawk] CHINA IS WILLING TO DISCUSS ISSUES REGARDING ECONOMIC AND TRADE RELATIONS WITH INDIA.
+- 10/16 16:22 [FirstSquawk] CHINA TAKES ACTION TO BOOST STOCK MARKET WITH SELLING LIMITS AND SHARE BUYBACKS.
+- 10/16 16:25 [financialjuice] PBOC's Pan: PBOC to support offshore yuan markets development.
+- 10/16 16:28 [financialjuice] PBOC's Pan: Plans to promote RMB bonds as globally recognized and eligible collateral.
+- 10/16 16:30 [FirstSquawk] PBOC GOVERNOR: TO FURTHER SUPPORT GLOBAL INVESTORS AND ISSUERS PARTICIPATING IN CHINA'S FINANCIAL MARKET; PLANS TO PROMOTE RMB BONDS AS GLOBALLY RECOGNISED AND ELIGIBLE COLLATERAL
+- 10/16 16:30 [FirstSquawk] PBOC GOVERNOR: TO STRENGTHEN DOMESTIC AND FOREIGN FINANCIAL INFRASTRUCTURE CONNECTIVITY; SUPPORT OFFSHORE RMB MARKET DEVELOPMENT
+- 10/16 16:30 [FirstSquawk] PBOC GOVERNOR: OVER 1,200 FOREIGN INVESTORS PARTICIPATE IN CHINA'S INTERBANK BOND MARKET, ACCOUNTING FOR ABOUT 30% OF INVESTOR NUMBER
+- 10/16 16:33 [FirstSquawk] EU'S COSTA: OUR MESSAGE TO ZELENSKIY IS VERY SIMPLE, EU SUPPORT FOR UKRAINE IS AS STRONG AS EVER; NOT THE TIME TO PUT RELIEF ON RUSSIA SANCTIONS
+- 10/16 16:33 [financialjuice] EU's Costa: Not the time to put relief on Russia sanctions.
+- 10/16 16:33 [FirstSquawk] EU'S COSTA ASSURES ZELENSKIY OF CONTINUOUS SUPPORT.
+- 10/16 16:33 [FirstSquawk] EU'S VON DER LEYEN SAYS WORKING INTENSIVELY REGARDING UKRAINE'S PATH TO EU
+- 10/16 16:35 [financialjuice] EU's Von Der Leyen: Working on 22nd package of sanctions against Russia.
+- 10/16 16:35 [FirstSquawk] EU'S VON DER LEYEN: WILL ADDRESS HOW TO SUPPORT UKRAINE DURING THIS WINTER; WORKING ON 22ND PACKAGE OF SANCTIONS AGAINST RUSSIA; WE WILL NOT LIFT ANY SANCTIONS AGAINST RUSSIA UNLESS RUSSIA STOPS ITS WAR
+- 10/16 16:45 [FirstSquawk] RUSSIA'S LAVROV TO VISIT IRAN ON OCTOBER 19 - IFX
+- 10/16 16:45 [FirstSquawk] RUSSIAN FOREIGN MINISTER LAVROV TO VISIT BAHRAIN OCT. 18 - IFX
+- 10/16 16:50 [FirstSquawk] JAPAN, GERMANY IN TALKS TO STRENGTHEN CHIP SUPPLY CHAIN - KYODO
+- 10/16 16:51 [FirstSquawk] AZERBAIJAN'S SOCAR SEEKS TO RESUME GAS BUYS FROM GAZPROM - IFX
+- 10/16 17:04 [financialjuice] China plans to add AI, solar tech to export controls.
+- 10/16 17:04 [financialjuice] South Korea Finance Minister, Central Bank Governor hold joint meeting with us Fed and US Treasury Department - Yonhap.
+- 10/16 17:05 [FirstSquawk] NVIDIA - MERCEDES-BENZ AND NVIDIA EXTEND PARTNERSHIP FOR NEXT-GEN AUTOMATED DRIVING SYSTEMS; MERCEDES-BENZ AND NVIDIA COMBINE MB.OS WITH HYPERION, ALPAMAYO STACK, AND HALOS SAFETY SYSTEM; MERCEDES-BENZ AND NVIDIA TECHNOLOGIES TO SUPPORT SAE…
+- 10/16 17:10 [FirstSquawk] KOREA-US FINANCIAL, MONETARY AUTHORITIES HOLD THEIR FIRST MEETING – YONHAP
+- 10/16 17:22 [FirstSquawk] EU'S KALLAS SAYS EUROPE CAN'T REPLACE STARLINK 'SHORT TERM'
+- 10/16 17:37 [FirstSquawk/financialjuice] IRAN: AIR DEFENSES HAVE BEEN STRENGTHENED SINCE WAR - TASNIM
+- 10/16 17:45 [FirstSquawk] Iran Strengthens Air Defenses Amid Rising Tensions With US Iran says it has significantly strengthened its air defense capabilities since the war, introducing new military equipment and conducting joint exercises with the Islamic Revolution…
+- 10/16 17:59 [financialjuice] ITALIAN HICP FINAL MOM ACTUAL 2.1% (FORECAST 2%, PREVIOUS 2.0%) $MACRO
+- 10/16 18:00 [financialjuice] ITALIAN CPI MOM FINAL ACTUAL 0.7% (FORECAST 0.7%, PREVIOUS 0.7%) $MACRO
+- 10/16 18:00 [financialjuice] ITALIAN CPI YOY FINAL ACTUAL 4.2% (FORECAST 4.2%, PREVIOUS 4.2%) $MACRO
+- 10/16 18:00 [financialjuice] EUROZONE CORE CPI YOY FINAL ACTUAL 2.5% (FORECAST 2.5%, PREVIOUS 2.5%) $MACRO
+- 10/16 18:00 [financialjuice] ❗ EUROZONE CPI MOM FINAL ACTUAL 0.6% (FORECAST 0.6%, PREVIOUS 0.4%) $MACRO
+- 10/16 18:00 [financialjuice] ❗ EUROZONE CPI YOY FINAL ACTUAL 3.8% (FORECAST 3.8%, PREVIOUS 3.8%) $MACRO
+- 10/16 18:00 [financialjuice] EUROZONE TRADE BALANCE NSA ACTUAL -16.1B (FORECAST -, PREVIOUS 14.2B ,REVISION 10.7B) $MACRO
+- 10/16 18:00 [financialjuice] Russia, Iran discuss gas pipeline route, pricing - Tass
+- 10/16 18:01 [FirstSquawk] EUROZONE CPI (MOM) (SEP) ACTUAL: 0.6% VS 0.6% PREVIOUS; EST 0.6%
+- 10/16 18:01 [FirstSquawk] EUROZONE CPI (YOY) (SEP) ACTUAL: 3.8% VS 3.8% PREVIOUS; EST 3.8%
+- 10/16 18:08 [financialjuice] South Korea to extend oil fuel price cap for another 4 weeks - Industry Ministry.
+- 10/16 18:09 [financialjuice] Microsoft disagrees with business software designation.
+- 10/16 18:10 [financialjuice] Flows to stocks were $64.5 bln in week to Wednesday, $39.1 bln to US stocks, and $10 bln to tech stocks - BofA citing EPFR data.
+- 10/16 18:10 [financialjuice] Treasuries saw $3.6 bln inflows in the week, logging 16th weekly inflow; inflows to bond funds totalled $11.8 bln - BofA
+- 10/16 18:34 [financialjuice] German Governor: France and Germany have reached agreement on a joint approach to securing the future of the European automotive industry.
+- 10/16 18:38 [FirstSquawk] ZELENSKIY: HE DISCUSSED 2027 FINANCIAL SUPPORT FOR UKRAINE WITH EU'S COSTA AND VON DER LEYEN
+- 10/16 18:46 [financialjuice] EUROZONE TRADE BALANCE ACTUAL -7B (FORECAST -, PREVIOUS 5B) $MACRO
+- 10/16 18:51 [FirstSquawk] SAUDI CIVIL DEFENSE: ALERTS OF POTENTIAL DANGER IN YANBU GOVERNORATE
+- 10/16 18:51 [FirstSquawk] SAUDI CIVIL DEFENSE: DANGER HAS PASSED IN YANBU
+- 10/16 19:01 [financialjuice] IMF: Euro zone government efforts to cushion high energy prices for consumers could weaken efforts to fight inflation, unless calibrated.
+- 10/16 19:01 [FirstSquawk] IMF: EURO ZONE GOVT EFFORTS TO CUSHION HIGH ENERGY PRICES FOR CONSUMERS COULD WEAKEN EFFORTS TO FIGHT INFLATION, UNLESS CALIBRATED.
+- 10/16 19:01 [financialjuice] ITALIAN INTERNATIONAL TRADE BALANCE ACTUAL 1.773B (FORECAST -, PREVIOUS 8.240B) $MACRO
+- 10/16 19:01 [financialjuice] ITALIAN TRADE BALANCE EU ACTUAL -0.327B (FORECAST -, PREVIOUS 1.251B) $MACRO
+- 10/16 19:04 [FirstSquawk] REGIONS FINANCIAL Q3 NET INTEREST MARGIN 3.68% || Q3 NET INCOME USD 631 MILLION || Q3 ADJUSTED REVENUE USD 1,988 MILLION VS. IBES ESTIMATE USD 1,986 MILLION || Q3 ADJUSTED EPS USD 0.73 VS. IBES ESTIMATE USD 0.66 || Q3 EPS USD 0.71 || Q3 NET…
+- 10/16 19:07 [FirstSquawk] CHINA'S XI, IN INNER MONGOLIA, CALLS FOR BUILDING NATIONAL INTEGRATED COMPUTING POWER NETWORK; CHINA'S XI SAYS SHOULD EXTEND INDUSTRIAL CHAIN, DEEPEN INTEGRATION OF DIGITAL AND REAL ECONOMY
+- 10/16 19:08 [FirstSquawk] CHINA'S XI SAYS SHOULD TRANSFORM COMPUTING POWER ADVANTAGES INTO DEVELOPMENT ADVANTAGES
