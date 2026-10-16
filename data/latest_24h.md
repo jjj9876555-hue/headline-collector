@@ -7,82 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-16 08:00 JST／対象: 10/15 08:00 〜 10/16 08:00 JST（時刻はすべて日本時間）
+生成: 2026-10-16 10:09 JST／対象: 10/15 10:09 〜 10/16 10:09 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 74 | 10/15 09:47 | 10/16 06:33 | ⚠ 534分（09:48→18:42） |
-| FirstSquawk | 308 | 10/15 08:47 | 10/16 07:06 | 30分（16:28→16:58） |
-| financialjuice | 271 | 10/15 08:05 | 10/16 07:05 | ⚠ 61分（19:29→20:30） |
+| DeItaone | 72 | 10/15 18:42 | 10/16 06:33 | ⚠ 107分（02:46→04:34） |
+| FirstSquawk | 307 | 10/15 10:16 | 10/16 10:06 | ⚠ 79分（07:06→08:26） |
+| financialjuice | 276 | 10/15 10:15 | 10/16 10:05 | ⚠ 61分（19:29→20:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 634 行（統合前 656 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 637 行（統合前 658 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/15 08:05 [financialjuice] UK govt: UK to allocate £17m for repairs to Chernobyl nuclear plant hit by Russian drone strike last year
-- 10/15 08:11 [financialjuice] US considers unfreezing some Russian assets to revive Ukraine peace talks - FT
-- 10/15 08:13 [financialjuice/FirstSquawk] European officials reject US plan to unfreeze some Russian assets to revive Ukraine peace talks - FT
-- 10/15 08:50 [financialjuice] ‼ BREAKING: JAPANESE CORE MACHINERY ORDERS MOM ACTUAL 5.2% (FORECAST 2.3%, PREVIOUS -3.7%) $MACRO
-- 10/15 08:50 [financialjuice] Japan August core machinery orders rise 5.2% m/m, poll 3.0%
-- 10/15 08:50 [financialjuice] Japan Aug core machinery orders rise 18.6% yr/yr, poll 15.7%
-- 10/15 08:55 [financialjuice] US discussing easing some sanctions on shadow fleet vessels to reduce global freight rates, boost oil flows in Middle East: official
-- 10/15 09:05 [financialjuice] S. KOREAN EXPORTS REVISED ACTUAL 83.7% (FORECAST -, PREVIOUS 83.5%) $MACRO
-- 10/15 09:05 [financialjuice] S. KOREAN IMPORTS REVISED ACTUAL 26.0% (FORECAST -, PREVIOUS 26.0%) $MACRO
-- 10/15 09:05 [financialjuice] S. KOREAN TRADE BALANCE REVISED ACTUAL 49.97B (FORECAST -, PREVIOUS 49.85B) $MACRO
-- 10/15 09:11 [FirstSquawk] SoftBank Group Shares Decline 8% in Trading
-- 10/15 09:11 [FirstSquawk] Hackers Armed With AI Breach Japan’s Poorly Protected Corporate Networks
-- 10/15 09:11 [FirstSquawk] US DISCUSSING LIFTING SOME SANCTIONS ON SHADOW FLEET VESSELS IN ATTEMPT TO LOWER GLOBAL FREIGHT RATES, BOOST OIL FLOWS IN MIDDLE EAST – RTRS CITES OFFICIAL
-- 10/15 09:13 [FirstSquawk] ISRAELI PRIME MINISTER NETANYAHU SAYS ‘GADI EISENKOT WANTED TO STOP THE GAZA WAR IMMEDIATELY’, EVEN ‘BEFORE WE HAD EVEN ENTERED RAFAH’, AND, ASKED WHETHER REGIME CHANGE IN IRAN IS REALISTIC BEFORE THE ISRAELI ELECTIONS, SAYS ‘NO, I DON’T TH…
-- 10/15 09:13 [FirstSquawk] NETANYAHU SAYS ON IRAN THAT ‘IT IS ESSENTIAL TO OVERTHROW THIS REGIME’, CLAIMING ‘WE’VE CRUSHED IT’ AND THAT IRAN IS ‘AT THE WEAKEST POINT THEY’VE EVER BEEN’, BUT THAT ‘WE NEED TO FINISH THE JOB’, ADDING THAT HE HAS ‘DEDICATED MY ENTIRE LIF…
-- 10/15 09:13 [FirstSquawk] NETANYAHU SAYS ‘ISRAEL TODAY IS THE STRONGEST POWER’ AND THAT ITS ECONOMY ‘IS BOOMING AT A LEVEL THAT’S DIFFICULT TO BELIEVE’.
-- 10/15 09:14 [FirstSquawk] Kioxia Stock Plunges 8.3% in Japanese Trading
-- 10/15 09:15 [FirstSquawk] LOCKHEED MARTIN IS EXPANDING ITS ADVANCED MUNITIONS MANUFACTURING IN TEXAS, SAYING THE MOVE WILL CREATE 6,000 JOBS IN THE U.S. — INCLUDING 2,000 IN TEXAS — WITH A $300 MLN INVESTMENT TO EXPAND ITS GRAND PRAIRIE MANUFACTURING TO 735,000 SQ F…
-- 10/15 09:15 [FirstSquawk] LOCKHEED MARTIN SAYS IT WILL ADD NEARLY 100 ADVANCED MACHINES AT GRAND PRAIRIE BY THE END OF 2026.
-- 10/15 09:18 [FirstSquawk] Asia-Pacific Equities Fall as Regional Markets Follow Wall Street Lower on Tech Weakness and Elevated US Inflation
-- 10/15 09:18 [FirstSquawk] US FLOATS UNFREEZING SOME RUSSIAN ASSETS TO RESTART UKRAINE PEACE TALKS - FT
-- 10/15 09:20 [FirstSquawk] Rising Fuel Prices Add to Inflation Concerns as Fed Survey Flags Intensifying Price Pressures
-- 10/15 09:23 [financialjuice] China PBOC likely to set yuan midpoint at 6.6977 per dollar: estimate
-- 10/15 09:23 [FirstSquawk] Anthropic’s Quarterly Revenue Climbs 45%, Approaching $17 Billion - WSJ
-- 10/15 09:25 [FirstSquawk] EUROPEAN STOCK FUTURES SLIP: EUROSTOXX 50 -0.7%, DAX -0.5%, FTSE -0.4%
-- 10/15 09:30 [financialjuice] AUSTRALIAN FULL TIME EMPLOYMENT CHG. ACTUAL 34.4K (FORECAST -, PREVIOUS -6.3K) $MACRO
-- 10/15 09:30 [FirstSquawk] AUSTRALIA’S UNEMPLOYMENT RATE ROSE TO 4.7% IN SEPTEMBER, ABOVE THE 4.6% FORECAST AND UP FROM 4.6%, WITH EMPLOYMENT FALLING 39.3K AGAINST AN EXPECTED 20K GAIN AND A PRIOR 39.5K RISE
-- 10/15 09:30 [financialjuice] ‼ BREAKING: AUSTRALIAN EMPLOYMENT CHANGE ACTUAL -39.3K (FORECAST 20K, PREVIOUS 39.5K) $MACRO
-- 10/15 09:30 [FirstSquawk] AUSTRALIA’S UNEMPLOYMENT RATE ROSE TO 4.7% IN SEPTEMBER, ABOVE THE 4.6% POLL FORECAST, WITH EMPLOYMENT FALLING 39.3K AGAINST AN EXPECTED 20K GAIN — THOUGH FULL-TIME JOBS ROSE 34.4K — AND THE PARTICIPATION RATE AT 66.8% VERSUS A 67.0% POLL
-- 10/15 09:30 [financialjuice] ❗ AUSTRALIAN UNEMPLOYMENT RATE ACTUAL 4.7% (FORECAST 4.6%, PREVIOUS 4.6%) $MACRO
-- 10/15 09:30 [financialjuice] Australia Sept participation rate rises 66.8%, s/adj (Poll: 67.0%)
-- 10/15 09:30 [financialjuice] Australia September full-time jobs rise 34.4k seasonally adjusted
-- 10/15 09:30 [financialjuice] Australia Sept employment drops 39.3k seasonally adjusted poll forecast +20.0k
-- 10/15 09:30 [financialjuice] Australia Sept unemployment rate rises to 4.7%, seasonally adjusted (poll forecast 4.6%)
-- 10/15 09:31 [financialjuice] AUSTRALIAN PARTICIPATION RATE ACTUAL 66.8% (FORECAST 67%, PREVIOUS 67.1%) $MACRO
-- 10/15 09:34 [FirstSquawk] WATCHDOG GROUP CREW SUED THE WHITE HOUSE, ALLEGING JARED KUSHNER IS PERFORMING GOVERNMENT DIPLOMATIC DUTIES WITHOUT SENATE CONFIRMATION OR COMPLIANCE WITH FEDERAL ETHICS RULES. THE LAWSUIT CITES HIS ROLE IN NEGOTIATIONS INVOLVING ISRAEL, IR…
-- 10/15 09:37 [FirstSquawk] Australia Employment Change Sep: -39.3K (est 20.0K; prev 39.5K)
-- 10/15 09:37 [FirstSquawk] Australia Unemployment Rate: 4.7% (est 4.6%; prev 4.6%)
-- 10/15 09:37 [FirstSquawk] Australia Full-Time Employment Change: 42.4K (prev -6.3K)
-- 10/15 09:37 [FirstSquawk] Australia Part-Time Employment Change: -73.7K (prev 45.8K)
-- 10/15 09:37 [FirstSquawk] Australia Participation Rate: 66.8% (est 67.0%; prev 67.1%)
-- 10/15 09:44 [FirstSquawk] 10-Year JGB Yield Declines 5.5 Basis Points to 2.94%, Reaching Its Lowest Since September 10
-- 10/15 09:44 [FirstSquawk] BITCOIN FELL AS MUCH AS 2.3% TO AROUND $81,500 AS HOTTER US INFLATION, RISING RATE-HIKE EXPECTATIONS AND A CHIP STOCK SELLOFF TRIGGERED A BROADER RISK-OFF MOOD. THE NASDAQ 100 DROPPED AS MUCH AS 2%, WHILE THE US DOLLAR HIT ITS HIGHEST LEVEL…
-- 10/15 09:46 [FirstSquawk] US NATURAL GAS FUTURES FELL 2.6% TO $3.198/MMBTU, THEIR BIGGEST DROP IN TWO WEEKS, AS PRODUCTION RECOVERED AFTER HURRICANE ISAIAS. OUTPUT REACHED 111.4 BCF/D, UP 3% YEAR OVER YEAR, WHILE LNG EXPORT FLOWS ROSE 9.1% WEEK OVER WEEK TO 19.6 BCF…
-- 10/15 09:47 [DeItaone] JAPAN’S NIKKEI PLUNGES 3.5% AS FED RATE HIKE FEARS GROW Japanese stocks tumbled after hotter-than-expected U.S. inflation fueled expectations of higher interest rates. The Nikkei fell 3.5%, led by sharp losses in AI stocks: SoftBank -7.9%, …
-- 10/15 09:48 [DeItaone] SPOT GOLD RISES 1% TO $4,144.03/OZ
-- 10/15 09:48 [FirstSquawk] Gold Prices Jump 1% to $4,144.03 an Ounce in Spot Trading
-- 10/15 09:53 [FirstSquawk] Kospi Plunges 7% as South Korean Stocks Extend Declines
-- 10/15 10:00 [FirstSquawk] YouTube Looks to Enter the Audiobook Business as It Broadens Its Digital Content Portfolio - WSJ
-- 10/15 10:00 [financialjuice] Taiwan stocks fall over 2%
-- 10/15 10:00 [financialjuice] Taiwan overnight interbank rate begins at 0.805% vs 0.805% at previous session start
-- 10/15 10:01 [FirstSquawk] Taiwanese Equities Drop More Than 2% Amid Selling Pressure
-- 10/15 10:01 [financialjuice] World Bank: Nepal and World Bank Group unveil collaboration to investigate catastrophe bond for earthquake hazard
-- 10/15 10:01 [FirstSquawk] Taiwan’s Overnight Interbank Rate Holds Steady at 0.805% at the Open
-- 10/15 10:02 [FirstSquawk] 30-Year JGB Yield Declines 4.5 Basis Points to 3.995%
-- 10/15 10:03 [FirstSquawk] Brent Crude Slides Over 1% to $104.93/BBL Amid Selling Pressure
-- 10/15 10:08 [FirstSquawk] LME Three-Month Tin Declines 1%, Falling Below the $50,000-per-Ton Mark for First Time Since June
-- 10/15 10:08 [FirstSquawk] Chinese Automakers Shift Production Overseas to Maintain Competitiveness, Moody’s Says
-- 10/15 10:09 [FirstSquawk] US and China Seek to Influence AI Priorities Ahead of Upcoming Xi-Trump Talks in Shenzhen - SCMP
 - 10/15 10:15 [financialjuice] Saudi-led coalition: drone intercepted and neutralized in kingdom's eastern region
 - 10/15 10:16 [FirstSquawk] China Sets Yuan Midpoint at 6.7253 per Dollar in Daily PBOC Fixing
 - 10/15 10:16 [FirstSquawk] Drone Intercepted and Destroyed in Saudi Arabia’s Eastern Region, Coalition Says
@@ -658,3 +599,65 @@
 - 10/16 07:05 [financialjuice] Grynspan: opposition of permanent security council members has been overcome before
 - 10/16 07:06 [FirstSquawk] REBECA GRYNSPAN, THE FRONTRUNNER IN THE RACE FOR UN CHIEF, SAYS ‘THE UN HAS BECOME TOO RISK-AVERSE’, ARGUING THE UN MUST ENFORCE DISCIPLINE TO PREVENT AGENCY OVERLAP AND REDUCE SENIOR POSITIONS, A SOURCE SAYS.
 - 10/16 07:06 [FirstSquawk] REBECA GRYNSPAN, THE FRONTRUNNER IN THE RACE FOR UN CHIEF, SAYS SHE WOULDN’T BE SURPRISED TO ENCOUNTER VETO-POWER RESISTANCE ON FRIDAY, BUT THAT THE OPPOSITION OF PERMANENT SECURITY COUNCIL MEMBERS ‘HAS BEEN OVERCOME BEFORE’.
+- 10/16 08:00 [financialjuice] S. KOREAN UNEMPLOYMENT RATE ACTUAL 2.6% (FORECAST 2.7%, PREVIOUS 2.7%) $MACRO
+- 10/16 08:00 [financialjuice] S. Korea's September unemployment rate 2.6% vs 2.7% in August: data ministry
+- 10/16 08:00 [financialjuice] S. Korea’s September employment rises 113,000 year/year vs 184,000 in August: data ministry
+- 10/16 08:21 [financialjuice] Progress toward U.S.-Mexico tariff pact stalls after opposition from Commerce Secretary Howard Lutnick: WSJ
+- 10/16 08:23 [financialjuice] Fed's Goolsbee: a disappointing month for inflation
+- 10/16 08:24 [financialjuice] Fed's Goolsbee: still optimistic if inflation drivers fade soon
+- 10/16 08:24 [financialjuice] Fed's Goolsbee: If inflation stems from demand overheating due to AI, it's more concerning and must be addressed
+- 10/16 08:26 [FirstSquawk] US DEMAND FOR A 3.5% INCREASE TO BE POSTPONED; SIGNIFICANT INCREASE EXPECTED OVER THE NEXT FIVE YEARS. - ASAHI
+- 10/16 08:26 [FirstSquawk] ORDER TO LIMIT UKRAINE'S ACCESS TO STARSHIELD SYSTEM CAME FROM INSIDE WHITE HOUSE – RTRS CITES SOURCES
+- 10/16 08:29 [FirstSquawk] S.KOREA ASKS US FOR TAX BREAK FOR ALASKA LNG PROJECT - MAEIL
+- 10/16 08:30 [FirstSquawk] PRESIDENT DONALD TRUMP SAID MILITARY LEAKERS SHOULD BE SHOT, BLAMING MEDIA LEAKS FOR DISRUPTING US OPERATIONS AGAINST IRAN. HIS ADMINISTRATION HAS INTENSIFIED LEAK INVESTIGATIONS, INCLUDING ACTIONS TARGETING JOURNALISTS.
+- 10/16 08:30 [FirstSquawk] TRUMP ALSO CALLED FOR THE DEATH PENALTY FOR PEOPLE WHO MURDER POLICE OFFICERS OR FIREFIGHTERS, WHILE DISMISSING US AFFORDABILITY CONCERNS AND SAYING THE IRAN CONFLICT WOULD END SOON.
+- 10/16 08:32 [FirstSquawk] COPPER FELL 1% TO $14,347/TON, EXTENDING LOSSES TO THREE DAYS AS STRONG US INFLATION, A FIRM DOLLAR AND FED RATE-HIKE EXPECTATIONS WEIGHED ON METALS. CONCERNS OVER AI SPENDING ALSO ADDED PRESSURE.
+- 10/16 08:32 [FirstSquawk] COPPER REMAINS UP OVER 15% IN 2026, BUT EASING STRIKE RISKS AT CHILE’S ESCONDIDA MINE AND WEAK MINING STOCKS LIMITED BULLISH SENTIMENT.
+- 10/16 08:35 [financialjuice] Japan finance minister katayama: unable to comment on need for additional budget
+- 10/16 08:36 [financialjuice] Japan finance minister katayama: additional budget, if needed, will focus on urgent policy priorities
+- 10/16 08:50 [financialjuice] JAPANESE FOREIGN BOND INVESTMENT ACTUAL -339.7B (FORECAST -, PREVIOUS -347.6B) $MACRO
+- 10/16 08:50 [financialjuice] FOREIGN INVESTMENT JAPANESE STOCKS ACTUAL 3,521.5B (FORECAST -, PREVIOUS 2,191.9B ,REVISION 2,199.7B) $MACRO
+- 10/16 08:51 [financialjuice] FOREIGN INVESTMENT JAPANESE BONDS ACTUAL 1,080.1B (FORECAST -, PREVIOUS 585.7B) $MACRO
+- 10/16 08:51 [financialjuice] JAPANESE FOREIGN STOCK INVESTMENT ACTUAL -760.6B (FORECAST -, PREVIOUS 1,324.6B) $MACRO
+- 10/16 08:52 [FirstSquawk] VIRGIN AUSTRALIA HOLDINGS HAS ISSUED TRAVEL ADVICE FOR SYDNEY AIRPORT ON 16 OCTOBER, SAYING PLANNED INDUSTRIAL ACTION BY SOME EMPLOYEES OF CERTIS MAY CAUSE DELAYS AT SYDNEY AIRPORT THAT DAY
+- 10/16 08:56 [FirstSquawk] JAPANESE INVESTORS SOLD ¥339.7 BLN OF FOREIGN BONDS IN THE WEEK TO OCT. 10, A SMALLER OUTFLOW THAN THE PRIOR ¥347.6 BLN, WHILE SELLING ¥760.6 BLN OF FOREIGN STOCKS AFTER BUYING ¥1,328.6 BLN.
+- 10/16 09:05 [FirstSquawk] Global Pharmaceutical Firms Reduce Commitments to Innovative Drug Development in Japan
+- 10/16 09:08 [financialjuice] Trump on Ilhan Omar: not involved in that
+- 10/16 09:11 [FirstSquawk] UKRAINIAN DRONES ARE ATTACKING RUSSIA’S MOSCOW REGION, REPORTEDLY HITTING INDUSTRIAL AND WAREHOUSE FACILITIES
+- 10/16 09:13 [financialjuice] Trump: wouldn't employ nuclear weapons on Iran
+- 10/16 09:13 [financialjuice] Trump: talking to Russia, China on nuclear disarmament
+- 10/16 09:14 [FirstSquawk] TRUMP SAYS HE IS TALKING TO RUSSIA AND CHINA ON NUCLEAR DISARMAMENT, ADDING THAT HE WOULDN’T EMPLOY NUCLEAR WEAPONS ON IRAN
+- 10/16 09:15 [financialjuice] Trump: no plans to deploy troops on ground in Iran
+- 10/16 09:15 [FirstSquawk] INDONESIA STOCK EXCHANGE SAYS IT HAS TAKEN VARIOUS CONCRETE STEPS TO ENHANCE THE TRANSPARENCY AND INTEGRITY OF INDONESIA’S CAPITAL MARKET IN RESPONSE TO THE MSCI ANNOUNCEMENT, ADDING THAT IT RESPECTS MSCI’S INDEPENDENCE IN CONDUCTING ASSESS…
+- 10/16 09:15 [FirstSquawk] INDONESIA STOCK EXCHANGE SAYS IT WILL REQUEST FURTHER CLARIFICATION FROM MSCI REGARDING THE BASIS FOR CONSIDERATION AND ASSESSMENT UNDERLYING THE ANNOUNCEMENT.
+- 10/16 09:17 [FirstSquawk] EUROPEAN STOCK FUTURES MIXED: EUROSTOXX 50 +0.4%, DAX +0.4%, FTSE -0.1%
+- 10/16 09:18 [FirstSquawk] US STOCK FUTURES SLIP: S&P 500 FUTURES -0.1%, NASDAQ FUTURES -0.4%
+- 10/16 09:19 [financialjuice] China PBOC likely to fix yuan midpoint at 6.6947 per dollar: estimate
+- 10/16 09:25 [FirstSquawk] U.S. PRESIDENT TRUMP SAYS THAT ONCE MUNITIONS ARE STOCKED, HE WILL LET ALLIES BUY THEM, ADDING THAT THERE ARE ‘PLENTY OF OTHER TARGETS BESIDES REFINERS TO HIT’
+- 10/16 09:31 [FirstSquawk] Mexico Cuts Protected Area for World’s Most Endangered Porpoise - RTRS
+- 10/16 09:34 [FirstSquawk] Asian Markets Advance as Investors Regain Composure Following Tech Rout, Await Warsh’s Remarks
+- 10/16 09:40 [financialjuice] Chinese foreign minister to Israeli president: advancing peace and unity in the region is cornerstone of China's Middle East policy
+- 10/16 09:41 [FirstSquawk] ASIAN STOCKS ROSE 0.6% AS CHIP SHARES STABILIZED AFTER WALL STREET’S REBOUND, WHILE JAPAN’S TOPIX GAINED 1.4%. HOWEVER, NASDAQ 100 FUTURES FELL 0.5% AMID PERSISTENT CONCERNS OVER AI SPENDING AND COREWEAVE’S DEBT RISKS.
+- 10/16 09:41 [FirstSquawk] US 10-YEAR TREASURY YIELDS DROPPED 13 BASIS POINTS TO 5.06%, WHILE OIL SLIPPED TO $97.38 AND GOLD TRADED NEAR $4,154. MARKETS AWAIT FED CHAIR KEVIN WARSH’S REMARKS FOR SIGNALS ON POTENTIAL RATE HIKES.
+- 10/16 09:41 [FirstSquawk] Lutnick’s Comments Deepen Doubts About the Future of U.S.-Mexico Trade Negotiations - WSJ
+- 10/16 09:41 [financialjuice] Chinese foreign minister to Israeli president: China consistently regards Palestinian issue as greatest historical injustice of this century
+- 10/16 09:41 [financialjuice] Chinese foreign minister to Israeli president: immediate priority is full access to Gaza Strip
+- 10/16 09:41 [financialjuice] Chinese foreign minister to Israeli president: Israel must halt and undo its enforced creation of settlements in west bank
+- 10/16 09:42 [FirstSquawk] Moody’s Confirms Bank of America Corporation’s A1 Rating and Bank of America, N.A.’s Aa2 Deposit Rating; Outlook Unchanged at Stable
+- 10/16 09:43 [FirstSquawk] China’s Middle East Policy Is Anchored in Promoting Regional Peace and Reconciliation, Foreign Minister Tells Israeli President
+- 10/16 09:44 [FirstSquawk] China Calls on Israel to Stop and Reverse Forced Settlement Establishment in the West Bank
+- 10/16 09:44 [FirstSquawk] Chinese Foreign Minister Urges Full Access to Gaza Strip as an Immediate Priority
+- 10/16 09:44 [FirstSquawk] China Has Consistently Viewed the Palestinian Question as the 21st Century’s Greatest Historical Injustice, Foreign Minister Tells Israeli President
+- 10/16 09:45 [FirstSquawk] KOSPI Jumps 2% in Seoul Trading as South Korean Equities Rally
+- 10/16 09:52 [FirstSquawk] South Korea’s Stock Market Opens in Positive Territory Following a Seven-Session Losing Streak
+- 10/16 10:00 [FirstSquawk] Japanese Trade Minister Highlights Challenge of Maintaining Stable Kerosene Supplies
+- 10/16 10:00 [FirstSquawk] Japan to Introduce Subsidies to Support Kerosene Imports From Overseas
+- 10/16 10:00 [FirstSquawk] Japanese Trade Minister Commits to Stepping Up Efforts to Tackle Higher Kerosene Costs
+- 10/16 10:00 [financialjuice] South Korean finance ministry: to track effect of stock market swings on bond, forex, short-term money markets
+- 10/16 10:00 [financialjuice] South Korean finance ministry: authorities to crack down firmly on market-disrupting behavior
+- 10/16 10:00 [financialjuice] Taiwan overnight interbank rate opens at 0.805% vs 0.805% in prior session
+- 10/16 10:00 [financialjuice] South Korean finance ministry: to enhance market surveillance
+- 10/16 10:01 [FirstSquawk] Japan’s Foreign Resident Count Climbs to a Record 4.28 Million as of June
+- 10/16 10:03 [FirstSquawk] SK Hynix Shares Rise 3% as South Korean Stocks Gain
+- 10/16 10:05 [financialjuice] China finance ministry to offer 15.5 billion yuan government bonds in Hong Kong on Oct. 23
+- 10/16 10:06 [FirstSquawk] China’s Finance Ministry Announces 15.5 Billion Yuan Government Bond Issuance in Hong Kong for October 23

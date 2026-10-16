@@ -7,61 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-16 08:00 JST／対象: 10/16 02:00 〜 10/16 08:00 JST（時刻はすべて日本時間）
+生成: 2026-10-16 10:09 JST／対象: 10/16 04:09 〜 10/16 10:09 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 10 | 10/16 02:01 | 10/16 06:33 | ⚠ 107分（02:46→04:34） |
-| FirstSquawk | 53 | 10/16 02:01 | 10/16 07:06 | 27分（02:03→02:30） |
-| financialjuice | 39 | 10/16 02:00 | 10/16 07:05 | 30分（03:52→04:22） |
+| DeItaone | 5 | 10/16 04:34 | 10/16 06:33 | ⚠ 85分（04:34→05:59） |
+| FirstSquawk | 69 | 10/16 04:17 | 10/16 10:06 | ⚠ 79分（07:06→08:26） |
+| financialjuice | 51 | 10/16 04:22 | 10/16 10:05 | ⚠ 55分（07:05→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 98 行（統合前 103 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 122 行（統合前 125 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/16 02:00 [financialjuice] Meta releases an OpenAI model, keeps most advanced tech closed $META
-- 10/16 02:01 [DeItaone] $ADBE - ADOBE AND NVIDIA EXPAND COLLABORATION TO SPEED AGENTIC CREATION ADOBE - BRAND CONCIERGE WITH NVIDIA NEMOTRON AVAILABLE TO ENTERPRISE CUSTOMERS LATER THIS YEAR
-- 10/16 02:01 [FirstSquawk] HARVARD ENDOWMENT JUMPS TO RECORD $68B AFTER 27% ANNUAL RETURN
-- 10/16 02:03 [FirstSquawk] TRUMP: I'LL GO BACK TO TEXAS IF NECESSARY
-- 10/16 02:03 [DeItaone] ANTHROPIC'S SLOWING REVENUE GROWTH DOES NOT SIGNAL WEAKER AI DEMAND D.A. Davidson analysts Gil Luria and Turner Dischinger say Anthropic's slowing revenue growth should not be interpreted as a broader AI demand slowdown. They point to growi…
-- 10/16 02:03 [DeItaone] APPLE AND META TEAM UP TO MAKE MUSE AI MODEL RUN ON MAC COMPUTERS - CNBC
-- 10/16 02:14 [financialjuice] US: Civilian container ship sank while being towed to shore
-- 10/16 02:14 [financialjuice] US: Civilian ship M/V GFS Pride was hit by an IRGC projectile
-- 10/16 02:18 [financialjuice] Meta Releases Muse Spark Open $META
-- 10/16 02:22 [financialjuice/FirstSquawk] Anthropic is working with independent evaluators to test models
-- 10/16 02:37 [FirstSquawk] MICROSOFT COMPLETED PRE-TRAINING ON MODEL MAI-BASE-2.
-- 10/16 02:37 [FirstSquawk] JAPAN MOF OFFICIAL SAYS MORE IMPORTANT IS THE FACT THAT THE GLOBAL ECONOMY HAS SHOWN RESILIENCE TO VARIOUS SHOCKS, THOUGH POLICYMAKERS DID CONFIRM THE NEED FOR VIGILANCE AND ‘AVOIDING LEAVING ANY SEED OF A FINANCIAL SYSTEM CRISIS UNATTENDED…
-- 10/16 02:38 [FirstSquawk] GERMANY AND FRANCE REACH A DEAL TO PRESERVE THE EU CAR INDUSTRY - AFP.
-- 10/16 02:39 [financialjuice] EU said to be ready to fast-track a satellite rival to SpaceX $SPCX
-- 10/16 02:39 [FirstSquawk] U.S. SAYS THE CIVILIAN SHIP M/V GFS PRIDE WAS HIT BY AN IRGC PROJECTILE, WITH THE CIVILIAN CONTAINER SHIP SINKING WHILE BEING TOWED TO SHORE
-- 10/16 02:40 [DeItaone] EU READY TO FAST-TRACK SATELLITE RIVAL TO SPACEX
-- 10/16 02:41 [FirstSquawk] EU READY TO FAST-TRACK SATELLITE NETWORK TO RIVAL SPACEX’S STARLINK
-- 10/16 02:42 [FirstSquawk] META IS RELEASING MUSE SPARK OPEN, THE OPEN-WEIGHTS VERSION OF MUSE SPARK, PUTTING THE MODEL WEIGHTS UNDER A LICENSE WITH LIMITED COMMERCIAL RESTRICTIONS THAT ALLOWS MANY DEVELOPERS TO USE THE MODEL FOR FREE, WITH WEIGHTS AVAILABLE FOR DOWN…
-- 10/16 02:42 [FirstSquawk] META SAYS MUSE SPARK OPEN IS AN 816-BILLION-PARAMETER SPARSE MIXTURE-OF-EXPERTS MODEL THAT ACTIVATES ROUGHLY 42 BILLION PARAMETERS PER TOKEN, BRINGING ADVANCED AGENTIC CAPABILITIES TO DESKTOP COMPUTERS FOR THE FIRST TIME ON APPLE M5 ULTRA M…
-- 10/16 02:42 [FirstSquawk] META SAYS THE MODEL IS ALSO AVAILABLE THROUGH API PLATFORMS INCLUDING BASETEN, FIREWORKS AI, GROQ, MODAL, NEBIUS, OPENROUTER AND TOGETHER AI.
-- 10/16 02:46 [DeItaone] $CRWV - COREWEAVE SHARES REVERSE DECLINES, LAST UP 2.7%
-- 10/16 02:48 [FirstSquawk] UNICREDIT SAYS IT HAS BEEN ALLOWED TO INCREASE ITS COMMERZBANK STAKE WITHOUT MAXIMUM LIMITS, AND IS EXPECTED TO HOLD ABOUT 50% OF VOTING RIGHTS BY YEAR-END
-- 10/16 02:49 [FirstSquawk] FRANCE SOCIAL SECURITY COMMITTEE DEPUTIES REJECT REVENUE PART OF SOCIAL SECURITY BUDGET — LE MONDE
-- 10/16 03:02 [financialjuice] ❗ EU plans a trade tool that could block China from the single market
-- 10/16 03:03 [financialjuice] US Treasury Debt Buyback
-- 10/16 03:07 [financialjuice] Google Quantum AI publishes a breakthrough in quantum computing $GOOGL
-- 10/16 03:08 [financialjuice] Google Quantum AI's Willow clears a key resource bottleneck. $GOOGL
-- 10/16 03:16 [FirstSquawk] EU PLANS TRADE TOOL THAT COULD BLOCK CHINA FROM ACCESSING THE SINGLE MARKET
-- 10/16 03:16 [FirstSquawk] U.S. TREASURY’S DEBT BUYBACK TARGETED COUPONS MATURING IN 2037-2046, RECEIVING $40.836 BLN OF OFFERS AND ACCEPTING $6 BLN — MATCHING THE MAXIMUM — ACROSS 3 OF 42 ELIGIBLE ISSUES
-- 10/16 03:17 [FirstSquawk] GOOGLE QUANTUM AI HAS PUBLISHED A BREAKTHROUGH IN QUANTUM COMPUTING, WITH ITS WILLOW CHIP CLEARING A KEY RESOURCE BOTTLENECK
-- 10/16 03:18 [FirstSquawk] ANTHROPIC PROPOSES $2 TRILLION VALUATION AMID UNCERTAIN IPO MARKET CONDITIONS
-- 10/16 03:31 [financialjuice] NYMEX WTI Crude November futures settle at $97.97 a barrel, up $2.88, 3.03%.
-- 10/16 03:31 [financialjuice] NYMEX Gasoline November futures settle at $3.1802 a gallon.
-- 10/16 03:32 [financialjuice] NYMEX Natural Gas November futures settle at $3.2360/MMBTU
-- 10/16 03:32 [financialjuice] NYMEX Diesel November futures settle at $4.8456 a gallon.
-- 10/16 03:32 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 3.03% HIGHER AT $97.97/BBL, UP $2.88
-- 10/16 03:52 [financialjuice] Brent crude futures settle at $105.92/bbl, down 14 cents, 0.13%
-- 10/16 03:54 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 0.13% LOWER AT $105.92/BBL, DOWN 14 CENTS
 - 10/16 04:17 [FirstSquawk] REPORTS OF MULTIPLE EXPLOSIONS IN JEDDAH - FARS NEWS
 - 10/16 04:22 [financialjuice] Friday FX Option Expiries
 - 10/16 04:22 [FirstSquawk] KFC IS MOVING TO DITCH PEPSI FOR COKE IN THOUSANDS OF RESTAURANTS, WITH TALKS AT AN ADVANCED STAGE AND THE SWITCH TO COKE AT KFC U.S. SET TO TAKE PLACE IN JANUARY IF THE DEAL IS COMPLETED - WSJ
@@ -122,3 +84,65 @@
 - 10/16 07:05 [financialjuice] Grynspan: opposition of permanent security council members has been overcome before
 - 10/16 07:06 [FirstSquawk] REBECA GRYNSPAN, THE FRONTRUNNER IN THE RACE FOR UN CHIEF, SAYS ‘THE UN HAS BECOME TOO RISK-AVERSE’, ARGUING THE UN MUST ENFORCE DISCIPLINE TO PREVENT AGENCY OVERLAP AND REDUCE SENIOR POSITIONS, A SOURCE SAYS.
 - 10/16 07:06 [FirstSquawk] REBECA GRYNSPAN, THE FRONTRUNNER IN THE RACE FOR UN CHIEF, SAYS SHE WOULDN’T BE SURPRISED TO ENCOUNTER VETO-POWER RESISTANCE ON FRIDAY, BUT THAT THE OPPOSITION OF PERMANENT SECURITY COUNCIL MEMBERS ‘HAS BEEN OVERCOME BEFORE’.
+- 10/16 08:00 [financialjuice] S. KOREAN UNEMPLOYMENT RATE ACTUAL 2.6% (FORECAST 2.7%, PREVIOUS 2.7%) $MACRO
+- 10/16 08:00 [financialjuice] S. Korea's September unemployment rate 2.6% vs 2.7% in August: data ministry
+- 10/16 08:00 [financialjuice] S. Korea’s September employment rises 113,000 year/year vs 184,000 in August: data ministry
+- 10/16 08:21 [financialjuice] Progress toward U.S.-Mexico tariff pact stalls after opposition from Commerce Secretary Howard Lutnick: WSJ
+- 10/16 08:23 [financialjuice] Fed's Goolsbee: a disappointing month for inflation
+- 10/16 08:24 [financialjuice] Fed's Goolsbee: still optimistic if inflation drivers fade soon
+- 10/16 08:24 [financialjuice] Fed's Goolsbee: If inflation stems from demand overheating due to AI, it's more concerning and must be addressed
+- 10/16 08:26 [FirstSquawk] US DEMAND FOR A 3.5% INCREASE TO BE POSTPONED; SIGNIFICANT INCREASE EXPECTED OVER THE NEXT FIVE YEARS. - ASAHI
+- 10/16 08:26 [FirstSquawk] ORDER TO LIMIT UKRAINE'S ACCESS TO STARSHIELD SYSTEM CAME FROM INSIDE WHITE HOUSE – RTRS CITES SOURCES
+- 10/16 08:29 [FirstSquawk] S.KOREA ASKS US FOR TAX BREAK FOR ALASKA LNG PROJECT - MAEIL
+- 10/16 08:30 [FirstSquawk] PRESIDENT DONALD TRUMP SAID MILITARY LEAKERS SHOULD BE SHOT, BLAMING MEDIA LEAKS FOR DISRUPTING US OPERATIONS AGAINST IRAN. HIS ADMINISTRATION HAS INTENSIFIED LEAK INVESTIGATIONS, INCLUDING ACTIONS TARGETING JOURNALISTS.
+- 10/16 08:30 [FirstSquawk] TRUMP ALSO CALLED FOR THE DEATH PENALTY FOR PEOPLE WHO MURDER POLICE OFFICERS OR FIREFIGHTERS, WHILE DISMISSING US AFFORDABILITY CONCERNS AND SAYING THE IRAN CONFLICT WOULD END SOON.
+- 10/16 08:32 [FirstSquawk] COPPER FELL 1% TO $14,347/TON, EXTENDING LOSSES TO THREE DAYS AS STRONG US INFLATION, A FIRM DOLLAR AND FED RATE-HIKE EXPECTATIONS WEIGHED ON METALS. CONCERNS OVER AI SPENDING ALSO ADDED PRESSURE.
+- 10/16 08:32 [FirstSquawk] COPPER REMAINS UP OVER 15% IN 2026, BUT EASING STRIKE RISKS AT CHILE’S ESCONDIDA MINE AND WEAK MINING STOCKS LIMITED BULLISH SENTIMENT.
+- 10/16 08:35 [financialjuice] Japan finance minister katayama: unable to comment on need for additional budget
+- 10/16 08:36 [financialjuice] Japan finance minister katayama: additional budget, if needed, will focus on urgent policy priorities
+- 10/16 08:50 [financialjuice] JAPANESE FOREIGN BOND INVESTMENT ACTUAL -339.7B (FORECAST -, PREVIOUS -347.6B) $MACRO
+- 10/16 08:50 [financialjuice] FOREIGN INVESTMENT JAPANESE STOCKS ACTUAL 3,521.5B (FORECAST -, PREVIOUS 2,191.9B ,REVISION 2,199.7B) $MACRO
+- 10/16 08:51 [financialjuice] FOREIGN INVESTMENT JAPANESE BONDS ACTUAL 1,080.1B (FORECAST -, PREVIOUS 585.7B) $MACRO
+- 10/16 08:51 [financialjuice] JAPANESE FOREIGN STOCK INVESTMENT ACTUAL -760.6B (FORECAST -, PREVIOUS 1,324.6B) $MACRO
+- 10/16 08:52 [FirstSquawk] VIRGIN AUSTRALIA HOLDINGS HAS ISSUED TRAVEL ADVICE FOR SYDNEY AIRPORT ON 16 OCTOBER, SAYING PLANNED INDUSTRIAL ACTION BY SOME EMPLOYEES OF CERTIS MAY CAUSE DELAYS AT SYDNEY AIRPORT THAT DAY
+- 10/16 08:56 [FirstSquawk] JAPANESE INVESTORS SOLD ¥339.7 BLN OF FOREIGN BONDS IN THE WEEK TO OCT. 10, A SMALLER OUTFLOW THAN THE PRIOR ¥347.6 BLN, WHILE SELLING ¥760.6 BLN OF FOREIGN STOCKS AFTER BUYING ¥1,328.6 BLN.
+- 10/16 09:05 [FirstSquawk] Global Pharmaceutical Firms Reduce Commitments to Innovative Drug Development in Japan
+- 10/16 09:08 [financialjuice] Trump on Ilhan Omar: not involved in that
+- 10/16 09:11 [FirstSquawk] UKRAINIAN DRONES ARE ATTACKING RUSSIA’S MOSCOW REGION, REPORTEDLY HITTING INDUSTRIAL AND WAREHOUSE FACILITIES
+- 10/16 09:13 [financialjuice] Trump: wouldn't employ nuclear weapons on Iran
+- 10/16 09:13 [financialjuice] Trump: talking to Russia, China on nuclear disarmament
+- 10/16 09:14 [FirstSquawk] TRUMP SAYS HE IS TALKING TO RUSSIA AND CHINA ON NUCLEAR DISARMAMENT, ADDING THAT HE WOULDN’T EMPLOY NUCLEAR WEAPONS ON IRAN
+- 10/16 09:15 [financialjuice] Trump: no plans to deploy troops on ground in Iran
+- 10/16 09:15 [FirstSquawk] INDONESIA STOCK EXCHANGE SAYS IT HAS TAKEN VARIOUS CONCRETE STEPS TO ENHANCE THE TRANSPARENCY AND INTEGRITY OF INDONESIA’S CAPITAL MARKET IN RESPONSE TO THE MSCI ANNOUNCEMENT, ADDING THAT IT RESPECTS MSCI’S INDEPENDENCE IN CONDUCTING ASSESS…
+- 10/16 09:15 [FirstSquawk] INDONESIA STOCK EXCHANGE SAYS IT WILL REQUEST FURTHER CLARIFICATION FROM MSCI REGARDING THE BASIS FOR CONSIDERATION AND ASSESSMENT UNDERLYING THE ANNOUNCEMENT.
+- 10/16 09:17 [FirstSquawk] EUROPEAN STOCK FUTURES MIXED: EUROSTOXX 50 +0.4%, DAX +0.4%, FTSE -0.1%
+- 10/16 09:18 [FirstSquawk] US STOCK FUTURES SLIP: S&P 500 FUTURES -0.1%, NASDAQ FUTURES -0.4%
+- 10/16 09:19 [financialjuice] China PBOC likely to fix yuan midpoint at 6.6947 per dollar: estimate
+- 10/16 09:25 [FirstSquawk] U.S. PRESIDENT TRUMP SAYS THAT ONCE MUNITIONS ARE STOCKED, HE WILL LET ALLIES BUY THEM, ADDING THAT THERE ARE ‘PLENTY OF OTHER TARGETS BESIDES REFINERS TO HIT’
+- 10/16 09:31 [FirstSquawk] Mexico Cuts Protected Area for World’s Most Endangered Porpoise - RTRS
+- 10/16 09:34 [FirstSquawk] Asian Markets Advance as Investors Regain Composure Following Tech Rout, Await Warsh’s Remarks
+- 10/16 09:40 [financialjuice] Chinese foreign minister to Israeli president: advancing peace and unity in the region is cornerstone of China's Middle East policy
+- 10/16 09:41 [FirstSquawk] ASIAN STOCKS ROSE 0.6% AS CHIP SHARES STABILIZED AFTER WALL STREET’S REBOUND, WHILE JAPAN’S TOPIX GAINED 1.4%. HOWEVER, NASDAQ 100 FUTURES FELL 0.5% AMID PERSISTENT CONCERNS OVER AI SPENDING AND COREWEAVE’S DEBT RISKS.
+- 10/16 09:41 [FirstSquawk] US 10-YEAR TREASURY YIELDS DROPPED 13 BASIS POINTS TO 5.06%, WHILE OIL SLIPPED TO $97.38 AND GOLD TRADED NEAR $4,154. MARKETS AWAIT FED CHAIR KEVIN WARSH’S REMARKS FOR SIGNALS ON POTENTIAL RATE HIKES.
+- 10/16 09:41 [FirstSquawk] Lutnick’s Comments Deepen Doubts About the Future of U.S.-Mexico Trade Negotiations - WSJ
+- 10/16 09:41 [financialjuice] Chinese foreign minister to Israeli president: China consistently regards Palestinian issue as greatest historical injustice of this century
+- 10/16 09:41 [financialjuice] Chinese foreign minister to Israeli president: immediate priority is full access to Gaza Strip
+- 10/16 09:41 [financialjuice] Chinese foreign minister to Israeli president: Israel must halt and undo its enforced creation of settlements in west bank
+- 10/16 09:42 [FirstSquawk] Moody’s Confirms Bank of America Corporation’s A1 Rating and Bank of America, N.A.’s Aa2 Deposit Rating; Outlook Unchanged at Stable
+- 10/16 09:43 [FirstSquawk] China’s Middle East Policy Is Anchored in Promoting Regional Peace and Reconciliation, Foreign Minister Tells Israeli President
+- 10/16 09:44 [FirstSquawk] China Calls on Israel to Stop and Reverse Forced Settlement Establishment in the West Bank
+- 10/16 09:44 [FirstSquawk] Chinese Foreign Minister Urges Full Access to Gaza Strip as an Immediate Priority
+- 10/16 09:44 [FirstSquawk] China Has Consistently Viewed the Palestinian Question as the 21st Century’s Greatest Historical Injustice, Foreign Minister Tells Israeli President
+- 10/16 09:45 [FirstSquawk] KOSPI Jumps 2% in Seoul Trading as South Korean Equities Rally
+- 10/16 09:52 [FirstSquawk] South Korea’s Stock Market Opens in Positive Territory Following a Seven-Session Losing Streak
+- 10/16 10:00 [FirstSquawk] Japanese Trade Minister Highlights Challenge of Maintaining Stable Kerosene Supplies
+- 10/16 10:00 [FirstSquawk] Japan to Introduce Subsidies to Support Kerosene Imports From Overseas
+- 10/16 10:00 [FirstSquawk] Japanese Trade Minister Commits to Stepping Up Efforts to Tackle Higher Kerosene Costs
+- 10/16 10:00 [financialjuice] South Korean finance ministry: to track effect of stock market swings on bond, forex, short-term money markets
+- 10/16 10:00 [financialjuice] South Korean finance ministry: authorities to crack down firmly on market-disrupting behavior
+- 10/16 10:00 [financialjuice] Taiwan overnight interbank rate opens at 0.805% vs 0.805% in prior session
+- 10/16 10:00 [financialjuice] South Korean finance ministry: to enhance market surveillance
+- 10/16 10:01 [FirstSquawk] Japan’s Foreign Resident Count Climbs to a Record 4.28 Million as of June
+- 10/16 10:03 [FirstSquawk] SK Hynix Shares Rise 3% as South Korean Stocks Gain
+- 10/16 10:05 [financialjuice] China finance ministry to offer 15.5 billion yuan government bonds in Hong Kong on Oct. 23
+- 10/16 10:06 [FirstSquawk] China’s Finance Ministry Announces 15.5 Billion Yuan Government Bond Issuance in Hong Kong for October 23
