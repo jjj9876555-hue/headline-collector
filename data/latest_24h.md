@@ -7,55 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-17 06:36 JST／対象: 10/16 06:36 〜 10/17 06:36 JST（時刻はすべて日本時間）
+生成: 2026-10-17 08:52 JST／対象: 10/16 08:52 〜 10/17 08:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 52 | 10/16 19:45 | 10/17 02:53 | ⚠ 55分（23:59→00:55） |
-| FirstSquawk | 257 | 10/16 06:45 | 10/17 05:02 | ⚠ 99分（10:06→11:45） |
-| financialjuice | 223 | 10/16 06:45 | 10/17 06:15 | ⚠ 72分（00:46→01:58） |
+| FirstSquawk | 246 | 10/16 08:52 | 10/17 05:02 | ⚠ 99分（10:06→11:45） |
+| financialjuice | 207 | 10/16 09:08 | 10/17 08:50 | ⚠ 72分（00:46→01:58） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 517 行（統合前 533 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 491 行（統合前 506 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/16 06:45 [financialjuice] NEW ZEALAND FOOD PRICE INDEX ACTUAL 0% (FORECAST -, PREVIOUS 0.3%) $MACRO
-- 10/16 06:45 [financialjuice] Nz actual electronic card retail sales rise 0.9% in September year on year
-- 10/16 06:45 [financialjuice] NZ s/adj electronic card retail sales down 0.4% in Sept vs prior month
-- 10/16 06:45 [financialjuice] New Zealand food price inflation index steady at 0.0% in September month-on-month: Stats NZ
-- 10/16 06:45 [FirstSquawk] NEW ZEALAND’S FOOD PRICE INFLATION INDEX WAS STEADY AT 0.0% IN SEPTEMBER MONTH-ON-MONTH, DOWN FROM A PRIOR 0.3%, WHILE SEASONALLY ADJUSTED ELECTRONIC CARD RETAIL SALES FELL 0.4% ON THE MONTH THOUGH ACTUAL SALES ROSE 0.9% YEAR-ON-YEAR - STAT…
-- 10/16 07:04 [financialjuice/FirstSquawk] Drones strike industrial sites in Russia's Rostov region: governor
-- 10/16 07:05 [financialjuice] Gryspan says she wouldn’t be surprised to encounter veto power resistance on Friday
-- 10/16 07:05 [financialjuice] Grynspan: UN must enforce discipline to prevent agency overlap, reduce senior positions
-- 10/16 07:05 [financialjuice] Frontrunner in race for UN chief Rebeca Grynspan: 'UN has become too risk-averse' - source
-- 10/16 07:05 [financialjuice] Grynspan: opposition of permanent security council members has been overcome before
-- 10/16 07:06 [FirstSquawk] REBECA GRYNSPAN, THE FRONTRUNNER IN THE RACE FOR UN CHIEF, SAYS ‘THE UN HAS BECOME TOO RISK-AVERSE’, ARGUING THE UN MUST ENFORCE DISCIPLINE TO PREVENT AGENCY OVERLAP AND REDUCE SENIOR POSITIONS, A SOURCE SAYS.
-- 10/16 07:06 [FirstSquawk] REBECA GRYNSPAN, THE FRONTRUNNER IN THE RACE FOR UN CHIEF, SAYS SHE WOULDN’T BE SURPRISED TO ENCOUNTER VETO-POWER RESISTANCE ON FRIDAY, BUT THAT THE OPPOSITION OF PERMANENT SECURITY COUNCIL MEMBERS ‘HAS BEEN OVERCOME BEFORE’.
-- 10/16 08:00 [financialjuice] S. KOREAN UNEMPLOYMENT RATE ACTUAL 2.6% (FORECAST 2.7%, PREVIOUS 2.7%) $MACRO
-- 10/16 08:00 [financialjuice] S. Korea's September unemployment rate 2.6% vs 2.7% in August: data ministry
-- 10/16 08:00 [financialjuice] S. Korea’s September employment rises 113,000 year/year vs 184,000 in August: data ministry
-- 10/16 08:21 [financialjuice] Progress toward U.S.-Mexico tariff pact stalls after opposition from Commerce Secretary Howard Lutnick: WSJ
-- 10/16 08:23 [financialjuice] Fed's Goolsbee: a disappointing month for inflation
-- 10/16 08:24 [financialjuice] Fed's Goolsbee: still optimistic if inflation drivers fade soon
-- 10/16 08:24 [financialjuice] Fed's Goolsbee: If inflation stems from demand overheating due to AI, it's more concerning and must be addressed
-- 10/16 08:26 [FirstSquawk] US DEMAND FOR A 3.5% INCREASE TO BE POSTPONED; SIGNIFICANT INCREASE EXPECTED OVER THE NEXT FIVE YEARS. - ASAHI
-- 10/16 08:26 [FirstSquawk] ORDER TO LIMIT UKRAINE'S ACCESS TO STARSHIELD SYSTEM CAME FROM INSIDE WHITE HOUSE – RTRS CITES SOURCES
-- 10/16 08:29 [FirstSquawk] S.KOREA ASKS US FOR TAX BREAK FOR ALASKA LNG PROJECT - MAEIL
-- 10/16 08:30 [FirstSquawk] PRESIDENT DONALD TRUMP SAID MILITARY LEAKERS SHOULD BE SHOT, BLAMING MEDIA LEAKS FOR DISRUPTING US OPERATIONS AGAINST IRAN. HIS ADMINISTRATION HAS INTENSIFIED LEAK INVESTIGATIONS, INCLUDING ACTIONS TARGETING JOURNALISTS.
-- 10/16 08:30 [FirstSquawk] TRUMP ALSO CALLED FOR THE DEATH PENALTY FOR PEOPLE WHO MURDER POLICE OFFICERS OR FIREFIGHTERS, WHILE DISMISSING US AFFORDABILITY CONCERNS AND SAYING THE IRAN CONFLICT WOULD END SOON.
-- 10/16 08:32 [FirstSquawk] COPPER FELL 1% TO $14,347/TON, EXTENDING LOSSES TO THREE DAYS AS STRONG US INFLATION, A FIRM DOLLAR AND FED RATE-HIKE EXPECTATIONS WEIGHED ON METALS. CONCERNS OVER AI SPENDING ALSO ADDED PRESSURE.
-- 10/16 08:32 [FirstSquawk] COPPER REMAINS UP OVER 15% IN 2026, BUT EASING STRIKE RISKS AT CHILE’S ESCONDIDA MINE AND WEAK MINING STOCKS LIMITED BULLISH SENTIMENT.
-- 10/16 08:35 [financialjuice] Japan finance minister katayama: unable to comment on need for additional budget
-- 10/16 08:36 [financialjuice] Japan finance minister katayama: additional budget, if needed, will focus on urgent policy priorities
-- 10/16 08:50 [financialjuice] JAPANESE FOREIGN BOND INVESTMENT ACTUAL -339.7B (FORECAST -, PREVIOUS -347.6B) $MACRO
-- 10/16 08:50 [financialjuice] FOREIGN INVESTMENT JAPANESE STOCKS ACTUAL 3,521.5B (FORECAST -, PREVIOUS 2,191.9B ,REVISION 2,199.7B) $MACRO
-- 10/16 08:51 [financialjuice] FOREIGN INVESTMENT JAPANESE BONDS ACTUAL 1,080.1B (FORECAST -, PREVIOUS 585.7B) $MACRO
-- 10/16 08:51 [financialjuice] JAPANESE FOREIGN STOCK INVESTMENT ACTUAL -760.6B (FORECAST -, PREVIOUS 1,324.6B) $MACRO
 - 10/16 08:52 [FirstSquawk] VIRGIN AUSTRALIA HOLDINGS HAS ISSUED TRAVEL ADVICE FOR SYDNEY AIRPORT ON 16 OCTOBER, SAYING PLANNED INDUSTRIAL ACTION BY SOME EMPLOYEES OF CERTIS MAY CAUSE DELAYS AT SYDNEY AIRPORT THAT DAY
 - 10/16 08:56 [FirstSquawk] JAPANESE INVESTORS SOLD ¥339.7 BLN OF FOREIGN BONDS IN THE WEEK TO OCT. 10, A SMALLER OUTFLOW THAN THE PRIOR ¥347.6 BLN, WHILE SELLING ¥760.6 BLN OF FOREIGN STOCKS AFTER BUYING ¥1,328.6 BLN.
 - 10/16 09:05 [FirstSquawk] Global Pharmaceutical Firms Reduce Commitments to Innovative Drug Development in Japan
@@ -541,3 +509,9 @@
 - 10/17 06:12 [financialjuice] North Korea: successful torpedo test marks key advancement in naval capabilities - KCNA
 - 10/17 06:14 [financialjuice] North Korea: torpedo test confirms propulsion tech developed in over 180 trials across five years - KCNA
 - 10/17 06:15 [financialjuice] North Korea: AI tech used for target detection and guidance in new high-speed precision torpedo - KCNA
+- 10/17 06:47 [financialjuice] UK foreign office: now advises only essential travel to Saudi Arabia
+- 10/17 06:56 [financialjuice] Anthropic quietly proposes its own AI safety bill to lawmakers - Politico
+- 10/17 07:44 [financialjuice] USDOT confirms it withdrew 2025 order barring new flights by Mexican airlines between Mexico City and Santa Lucia airports
+- 10/17 07:49 [financialjuice] Saudi civil defense issues warning on possible threat in Khamis Mushait and Abha
+- 10/17 07:52 [financialjuice] Saudi civil defense: danger has passed in Khamis Mushait and Abha
+- 10/17 08:50 [financialjuice] Saudi-led coalition: destroys two ballistic missile launchers in Yemen's Saada

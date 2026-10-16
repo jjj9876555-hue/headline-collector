@@ -7,75 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-17 06:36 JST／対象: 10/16 18:36 〜 10/17 06:36 JST（時刻はすべて日本時間）
+生成: 2026-10-17 08:52 JST／対象: 10/16 20:52 〜 10/17 08:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 52 | 10/16 19:45 | 10/17 02:53 | ⚠ 55分（23:59→00:55） |
-| FirstSquawk | 102 | 10/16 18:38 | 10/17 05:02 | 30分（04:19→04:50） |
-| financialjuice | 133 | 10/16 18:46 | 10/17 06:15 | ⚠ 72分（00:46→01:58） |
+| DeItaone | 40 | 10/16 20:56 | 10/17 02:53 | ⚠ 55分（23:59→00:55） |
+| FirstSquawk | 78 | 10/16 21:03 | 10/17 05:02 | 30分（04:19→04:50） |
+| financialjuice | 123 | 10/16 20:53 | 10/17 08:50 | ⚠ 72分（00:46→01:58） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 274 行（統合前 288 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 228 行（統合前 242 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/16 18:38 [FirstSquawk] ZELENSKIY: HE DISCUSSED 2027 FINANCIAL SUPPORT FOR UKRAINE WITH EU'S COSTA AND VON DER LEYEN
-- 10/16 18:46 [financialjuice] EUROZONE TRADE BALANCE ACTUAL -7B (FORECAST -, PREVIOUS 5B) $MACRO
-- 10/16 18:51 [FirstSquawk] SAUDI CIVIL DEFENSE: ALERTS OF POTENTIAL DANGER IN YANBU GOVERNORATE
-- 10/16 18:51 [FirstSquawk] SAUDI CIVIL DEFENSE: DANGER HAS PASSED IN YANBU
-- 10/16 19:01 [financialjuice] IMF: Euro zone government efforts to cushion high energy prices for consumers could weaken efforts to fight inflation, unless calibrated.
-- 10/16 19:01 [FirstSquawk] IMF: EURO ZONE GOVT EFFORTS TO CUSHION HIGH ENERGY PRICES FOR CONSUMERS COULD WEAKEN EFFORTS TO FIGHT INFLATION, UNLESS CALIBRATED.
-- 10/16 19:01 [financialjuice] ITALIAN INTERNATIONAL TRADE BALANCE ACTUAL 1.773B (FORECAST -, PREVIOUS 8.240B) $MACRO
-- 10/16 19:01 [financialjuice] ITALIAN TRADE BALANCE EU ACTUAL -0.327B (FORECAST -, PREVIOUS 1.251B) $MACRO
-- 10/16 19:04 [FirstSquawk] REGIONS FINANCIAL Q3 NET INTEREST MARGIN 3.68% || Q3 NET INCOME USD 631 MILLION || Q3 ADJUSTED REVENUE USD 1,988 MILLION VS. IBES ESTIMATE USD 1,986 MILLION || Q3 ADJUSTED EPS USD 0.73 VS. IBES ESTIMATE USD 0.66 || Q3 EPS USD 0.71 || Q3 NET…
-- 10/16 19:07 [FirstSquawk] CHINA'S XI, IN INNER MONGOLIA, CALLS FOR BUILDING NATIONAL INTEGRATED COMPUTING POWER NETWORK; CHINA'S XI SAYS SHOULD EXTEND INDUSTRIAL CHAIN, DEEPEN INTEGRATION OF DIGITAL AND REAL ECONOMY
-- 10/16 19:08 [FirstSquawk] CHINA'S XI SAYS SHOULD TRANSFORM COMPUTING POWER ADVANTAGES INTO DEVELOPMENT ADVANTAGES
-- 10/16 19:30 [FirstSquawk] RUSSIA'S NOVAK SAYS EVEN WITH REFINERIES UNDERGOING REPAIRS, THERE IS ENOUGH DIESEL FUEL IN RUSSIA FOR EXPORT
-- 10/16 19:31 [financialjuice] Russia’s Deputy PM Novak: Even with refineries undergoing repairs, there is enough diesel fuel in russia for export.
-- 10/16 19:31 [financialjuice] Russia’s Deputy PM Novak: Contracts needed to start diesel supplies - IFX
-- 10/16 19:36 [FirstSquawk] Truist Financial Q3 26 Earnings: - Adjusted EPS: $1.16 (est $1.11) - Taxable Equivalent Net Interest Margin: 3% (est 2.98%) - Total Average Deposits: $410.7B (est $408.38B)
-- 10/16 19:45 [DeItaone] IRANIAN FUEL SHIPMENTS BREACH U.S. NAVAL BLOCKADE Iran has reportedly exported 4.1 million barrels of LPG aboard at least eight tankers since July, despite the U.S. naval blockade. A separate shipment of Iranian jet fuel reached Myanmar, wh…
-- 10/16 19:48 [DeItaone] $NVDA - GERMAN GOVERNMENT SOURCES: SET TO ANNOUNCE AGREEMENT WITH NVIDIA NEXT WEEK, FOCUSING ON INDUSTRIAL AI
-- 10/16 19:51 [financialjuice] Iran: 'Violating' tanker seen on fire near Hormuz hours ago.
-- 10/16 19:51 [FirstSquawk] IRAN'S NAVY SAYS OIL TANKER CAUGHT FIRE IN GULF OF OMAN WHILE ATTEMPTING TO CROSS PROHIBITED AREA - TASNIM
-- 10/16 19:55 [financialjuice] PBOC Pan: To take China-EU financial cooperation to new stage.
-- 10/16 19:56 [FirstSquawk] PBOC'S PAN: GLOBAL IMBALANCES CANNOT RELY ON FX RATE ADJUSTMENTS; TO TAKE CHINA-EU FINANCIAL COOPERATION TO NEW STAGE
-- 10/16 19:59 [FirstSquawk] Travelers Q3 26 Earnings: - Revenue: $12.41B, -0.5% Y/Y - Underlying Combined Ratio: 84.1% (est 84.9%) - Consolidated Combined Ratio: 86.8% (est 91%) - Net Investment Income: $1.10B (est $1.08B) - Net Premiums Written: $11.48B (est $11.4B) …
-- 10/16 20:03 [DeItaone] https://t.co/WKNR8B1gjp
-- 10/16 20:07 [DeItaone] BOFA'S HARTNETT WARNS OF MARKET RISK-OFF PERIOD AHEAD Bank of America's Michael Hartnett expects investors to reduce risk over the next 3–4 weeks, citing 3% real yields, persistent inflation, AI valuation concerns and U.S. midterm election …
-- 10/16 20:11 [financialjuice] China State Council officials discuss ai at meeting - CCTV
-- 10/16 20:12 [DeItaone] GERMANY'S UPPER HOUSE APPROVES FURTHER RELEASE OF OIL STOCKS FOLLOWING G7 AGREEMENT
-- 10/16 20:13 [financialjuice] China urges strengthening AI risk evaluation - CCTV
-- 10/16 20:14 [financialjuice] China Cabinet Meeting: Should step up price competition regulation in platform economy - State Media.
-- 10/16 20:14 [financialjuice] China urges AI innovation to boost economy - CCTV
-- 10/16 20:16 [FirstSquawk] GERMANY'S UPPER HOUSE PASSED A MEASURE TO RELEASE MORE OIL STOCKS AFTER A G7 DEAL.
-- 10/16 20:17 [FirstSquawk] CHINA STATE COUNCIL MEMBERS TALK ABOUT AI IN MEETING.
-- 10/16 20:17 [FirstSquawk] CHINA CALLS FOR ENHANCED AI RISK ASSESSMENT.
-- 10/16 20:17 [FirstSquawk] CHINA'S CABINET SAYS IT SHOULD INCREASE PRICE COMPETITION RULES IN PLATFORM ECONOMY, ACCORDING TO STATE MEDIA.
-- 10/16 20:17 [FirstSquawk] CHINA CALLS FOR AI INNOVATION TO ENHANCE ECONOMIC GROWTH.
-- 10/16 20:25 [DeItaone] CANTOR FITZGERALD RAISES STRATEGY ($MSTR ) PRICE TARGET TO $208 Cantor Fitzgerald raised its price target on Strategy to $208 from $186, maintaining an Overweight rating. Analyst Ramsey El-Assal increased his 12-month Bitcoin (bitcoin:nativ…
-- 10/16 20:26 [FirstSquawk] BURNHAM SAYS I WANT ALL IN SCOTLAND TO KNOW I'M CHANGING WESTMINSTER
-- 10/16 20:27 [DeItaone] PRESIDENT TRUMP'S SCHEDULE — FRIDAY, OCTOBER 16 🔸 8:00 AM ET — Executive Time 🔸 10:00 AM ET — Intelligence Briefing 🔸 2:45 PM ET — Political Rally in Dalton, Georgia 🔸 7:30 PM ET — RNC Event at Mar-a-Lago, Florida
-- 10/16 20:31 [financialjuice] Anthropic secured highest junk credit rating in June - FT
-- 10/16 20:32 [DeItaone] CANTOR FITZGERALD SEES MAJOR BUYING OPPORTUNITY IN COREWEAVE ($CRWV ) Cantor Fitzgerald reiterated its Overweight rating and $176 price target on CoreWeave, calling the recent selloff an attractive entry opportunity. Despite debt yields rea…
-- 10/16 20:32 [DeItaone] ZELENSKIY SAYS UKRAINE EXPECTS ADDITIONAL F-16 BY END OF YEAR
-- 10/16 20:32 [financialjuice] Morning Juice – US Session Prep (16th October)
-- 10/16 20:32 [FirstSquawk] ZELENSKYY SAYS EXPECT ADDITIONAL F-16 FROM BELGUIM BY YEAR-END
-- 10/16 20:36 [DeItaone] ANTHROPIC SECURES BB+ CREDIT RATING AS WALL STREET PREPARES $60 BILLION AI FINANCING Anthropic received a BB+ credit rating from KBRA, just one notch below investment grade, ahead of a $35 billion chip financing deal. Now, Wall Street banks…
-- 10/16 20:36 [FirstSquawk] ZELENSKYY SAYS UKRAINE STILL FEELS PATRIOT INTERCEPTOR DEFICIT
-- 10/16 20:36 [FirstSquawk] ZELENSKYY SAYS UKRAINE DOESN'T DISCUSS SUBSTITUTING STARLINK
-- 10/16 20:36 [DeItaone] ZELENSKIY SAYS THERE IS NO DISCUSSION TO SUBSTITUTE STARLINK
-- 10/16 20:42 [FirstSquawk] ZELENSKYY SAYS STARLINK SPEED IMPROVES, NOT YET FULLY RESTORED
-- 10/16 20:44 [financialjuice] BoJ's Governor Ueda: The G20 discussed impact of MidEast, AI on economy.
-- 10/16 20:45 [DeItaone] ZELENSKIY SAYS EUROPEAN ALLIES HAVE ENOUGH PATRIOT MISSILES FOR UKRAINE TO LIVE THROUGH WINTER
-- 10/16 20:51 [FirstSquawk] ZELENSKYY SAYS EXPECT US, UKRAINE NEGOTIATORS TO AGREE TO MEET SOON
-- 10/16 20:52 [financialjuice] BoJ's Governor Ueda: I have been watching weak yen, MidEast in terms of inflation.
-- 10/16 20:52 [FirstSquawk] UEDA SAYS G20 DISCUSSED IMPACT OF MIDEAST, AI ON ECONOMY
 - 10/16 20:53 [financialjuice] BoJ's Governor Ueda: We will monitor FX, AI, and MidEast for price trends.
 - 10/16 20:54 [financialjuice] BoJ's Governor Ueda: Stabilization of 2% inflation is increasingly important.
 - 10/16 20:55 [financialjuice] BoJ's Governor Ueda: No big gap in view between what we have assessed on inflationary pressure from AI demand, and what I heard from global policymakers.
@@ -298,3 +246,9 @@
 - 10/17 06:12 [financialjuice] North Korea: successful torpedo test marks key advancement in naval capabilities - KCNA
 - 10/17 06:14 [financialjuice] North Korea: torpedo test confirms propulsion tech developed in over 180 trials across five years - KCNA
 - 10/17 06:15 [financialjuice] North Korea: AI tech used for target detection and guidance in new high-speed precision torpedo - KCNA
+- 10/17 06:47 [financialjuice] UK foreign office: now advises only essential travel to Saudi Arabia
+- 10/17 06:56 [financialjuice] Anthropic quietly proposes its own AI safety bill to lawmakers - Politico
+- 10/17 07:44 [financialjuice] USDOT confirms it withdrew 2025 order barring new flights by Mexican airlines between Mexico City and Santa Lucia airports
+- 10/17 07:49 [financialjuice] Saudi civil defense issues warning on possible threat in Khamis Mushait and Abha
+- 10/17 07:52 [financialjuice] Saudi civil defense: danger has passed in Khamis Mushait and Abha
+- 10/17 08:50 [financialjuice] Saudi-led coalition: destroys two ballistic missile launchers in Yemen's Saada
