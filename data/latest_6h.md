@@ -7,99 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-16 10:09 JST／対象: 10/16 04:09 〜 10/16 10:09 JST（時刻はすべて日本時間）
+生成: 2026-10-16 14:49 JST／対象: 10/16 08:49 〜 10/16 14:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 5 | 10/16 04:34 | 10/16 06:33 | ⚠ 85分（04:34→05:59） |
-| FirstSquawk | 69 | 10/16 04:17 | 10/16 10:06 | ⚠ 79分（07:06→08:26） |
-| financialjuice | 51 | 10/16 04:22 | 10/16 10:05 | ⚠ 55分（07:05→08:00） |
+| DeItaone | 0 | - | - | - |
+| FirstSquawk | 108 | 10/16 08:52 | 10/16 14:45 | ⚠ 99分（10:06→11:45） |
+| financialjuice | 39 | 10/16 08:50 | 10/16 14:49 | ⚠ 72分（12:42→13:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 122 行（統合前 125 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 147 行（統合前 147 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/16 04:17 [FirstSquawk] REPORTS OF MULTIPLE EXPLOSIONS IN JEDDAH - FARS NEWS
-- 10/16 04:22 [financialjuice] Friday FX Option Expiries
-- 10/16 04:22 [FirstSquawk] KFC IS MOVING TO DITCH PEPSI FOR COKE IN THOUSANDS OF RESTAURANTS, WITH TALKS AT AN ADVANCED STAGE AND THE SWITCH TO COKE AT KFC U.S. SET TO TAKE PLACE IN JANUARY IF THE DEAL IS COMPLETED - WSJ
-- 10/16 04:27 [FirstSquawk] WHITE HOUSE IS PREPARING PLANS TO USE A WEAPON DUBBED THE ‘MOTHER OF ALL BOMBS’ ON IRAN, SOURCES SAY - CBS NEWS
-- 10/16 04:34 [DeItaone] WHITE HOUSE PREPARES PLANS TO USE WEAPON DUBBED "MOTHER OF ALL BOMBS" ON IRAN, SOURCES SAY - CBS NEWS
-- 10/16 04:35 [FirstSquawk] SKYCITY ENTERTAINMENT HAS SIGNED AN SPA FOR THE SALE OF THE GRAND HOTEL AND ITS BUSINESS ASSETS FOR NZ$221 MLN, AND HAS AGREED TO MANAGE AND OPERATE THE GRAND HOTEL FOR A TRANSITIONAL PERIOD UNTIL 30 JUNE 2027
-- 10/16 04:38 [FirstSquawk] YEMEN HEALTH MINISTER: HOUTHI ATTACK ON PRESIDENTIAL PALACE COMPLEX IN ADEN KILLS 5, WOUNDS 16
-- 10/16 04:38 [financialjuice] Total money market funds fell $40.46b to $7.92t for the week ended October 14th - ICI
-- 10/16 04:39 [FirstSquawk] SAUDI CIVIL DEFENCE ISSUES EMERGENCY DANGER ALERT FOR JAZAN PROVINCE
-- 10/16 04:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: -2379.4 MLN NASDAQ 100: -1888.9 MLN DOW 30: -980.3 MLN MAG 7: -1034.1 MLN $MACRO
-- 10/16 04:55 [FirstSquawk] KFC U.S. HAS ANNOUNCED A NEW BEVERAGE PARTNERSHIP WITH THE COCA-COLA COMPANY, AND WILL SERVE COCA-COLA PRODUCTS IN ALL U.S. RESTAURANTS BY SPRING 2027
-- 10/16 05:04 [FirstSquawk] DOW JONES CLOSES 1.11% HIGHER AT 52,191.97, UP 570.49 POINTS
-- 10/16 05:04 [FirstSquawk] S&P 500 CLOSES 0.36% HIGHER AT 7,746.44, UP 27.50 POINTS
-- 10/16 05:04 [FirstSquawk] NASDAQ CLOSES 0.15% HIGHER AT 26,732.71, UP 39.85 POINTS
-- 10/16 05:06 [financialjuice] Stocks Rebound as Nvidia Backs CoreWeave Amid AI Investment Concerns – US Market Wrap
-- 10/16 05:16 [FirstSquawk] STOCKS BOUNCED AFTER A DROP DRIVEN BY WORRIES ABOUT THE SUSTAINABILITY OF THE AI TRADE, WITH THE S&P 500 HALTING A THREE-DAY DROP AS A SELLOFF IN CHIPMAKERS EASED AFTER NVIDIA’S JENSEN HUANG DEFENDED THE FINANCIAL HEALTH OF AI COMPUTING SUP…
-- 10/16 05:16 [FirstSquawk] ATTENTION TURNS TO FED CHAIR KEVIN WARSH’S REMARKS FOR CLUES ON WHETHER OFFICIALS ARE PIVOTING FROM A SKIP TO AN OCTOBER RATE HIKE, WITH EVERCORE’S KRISHNA GUHA SAYING ‘ON BALANCE, WE THINK WARSH WILL TALK IN A WAY THAT DOES NOT SUGGEST AN …
-- 10/16 05:16 [FirstSquawk] THE S&P 500 ROSE 0.3% AND THE DOW GAINED 1.1% WHILE THE NASDAQ 100 WAS LITTLE CHANGED, AS THE 10-YEAR TREASURY YIELD FELL 10 BASIS POINTS TO 5.09%, WTI CRUDE ROSE 2.8% TO $97.71 A BARREL, SPOT GOLD GAINED 1.8% TO $4,177.27 AN OUNCE AND BITC…
-- 10/16 05:33 [FirstSquawk] STATE DEPARTMENT OFFICIAL SAYS RUBIO SPOKE WITH LEBANON’S PRESIDENT AOUN ON THE CONFISCATION OF SEVERAL HUNDRED KILOS OF EXPLOSIVES FROM HEZBOLLAH, URGING AOUN TO HOLD ACCOUNTABLE THOSE WHO ORDERED, FINANCED AND DIRECTED THE SHIPMENT.
-- 10/16 05:33 [FirstSquawk] STATE DEPARTMENT OFFICIAL SAYS RUBIO ALSO URGED DIRECT MILITARY-TO-MILITARY COMMUNICATION BETWEEN LEBANESE AND ISRAELI FORCES ‘FOR DECONFLICTION’.
-- 10/16 05:36 [financialjuice/FirstSquawk] US Secretary of State Rubio spoke with Israel's Prime Minister Netanyahu today - Axios
-- 10/16 05:39 [financialjuice] US Sec. of Defense Hegseth met with UK'S Streeting at the Pentagon today
-- 10/16 05:40 [FirstSquawk] BLUE OWL CAPITAL SAYS ITS REVOLVING CREDIT COMMITMENT HAS BEEN INCREASED TO $3.23 BLN, WITH THE POTENTIAL TO RISE TO $3.87 BLN, AND THE MATURITY DATE OF THE FACILITY EXTENDED TO OCTOBER 14, 2031 - SEC FILING
-- 10/16 05:41 [FirstSquawk] PINTEREST SAYS IT HAS ENTERED A FIVE-YEAR, $700 MLN REVOLVING CREDIT FACILITY ON OCT. 15, 2026, REPLACING ITS PREVIOUS $500 MLN REVOLVING CREDIT FACILITY ENTERED INTO ON OCTOBER 25, 2022 AND AMENDED IN OCTOBER 2023 - SEC FILING
-- 10/16 05:44 [financialjuice] Pentagon: US would reduce troop presence in Europe with NATO 3.0
-- 10/16 05:44 [financialjuice] Pentagon: NATO 3.0 envisions rebalancing of the NATO alliance
-- 10/16 05:45 [financialjuice] Pentagon: The US would shift focus to the Pacific and other regions
-- 10/16 05:46 [financialjuice] Fed's Hammack: Hearing more from lower-income Americans struggling with inflation
-- 10/16 05:48 [financialjuice] Fed's Hammack: Anecdotal information provides important economic guidance
-- 10/16 05:57 [financialjuice/FirstSquawk] ❗ Some investors dial back Anthropic valuation expectations amid disappointing results, market selloff - Sources
-- 10/16 05:59 [DeItaone] ANTHROPIC’S IPO VALUATION EXPECTATIONS DROP FROM $2 TRILLION TO $1.5 TRILLION Some investors are considering a $1.5 trillion valuation for Anthropic’s upcoming IPO, down 25% from earlier expectations of $2 trillion. Anthropic reported $16.8…
-- 10/16 06:00 [financialjuice] S. KOREAN EXPORT PRICE YOY ACTUAL 40.9% (FORECAST -, PREVIOUS 42.4%) $MACRO
-- 10/16 06:02 [FirstSquawk] ENTAGON SAYS ‘NATO 3.0’ ENVISIONS A REBALANCING OF THE NATO ALLIANCE UNDER WHICH THE U.S. WOULD REDUCE ITS TROOP PRESENCE IN EUROPE AND SHIFT FOCUS TO THE PACIFIC AND OTHER REGIONS, AS U.S. DEFENSE SECRETARY HEGSETH MET WITH THE UK’S STREET…
-- 10/16 06:03 [FirstSquawk] PENTAGON SAYS ‘NATO 3.0’ ENVISIONS A REBALANCING OF THE NATO ALLIANCE UNDER WHICH THE U.S. WOULD REDUCE ITS TROOP PRESENCE IN EUROPE AND SHIFT FOCUS TO THE PACIFIC AND OTHER REGIONS, AS U.S. DEFENSE SECRETARY HEGSETH MET WITH THE UK’S STREE…
-- 10/16 06:04 [FirstSquawk] MSCI PROPOSES RECLASSIFYING INDONESIA FROM EMERGING TO STANDALONE MARKET STATUS; FREEZE ON INDONESIAN INDEX CHANGES MAINTAINED, WITH GLOBAL & REGIONAL INDEXES TO BE IMPACTED
-- 10/16 06:04 [FirstSquawk] MSCI FLAGS ‘SIGNIFICANT CONCERNS’ OVER SUSPECTED COORDINATED TRADING IN INDONESIA; SAYS MEANINGFUL ENFORCEMENT EVIDENCE REMAINS LACKING
-- 10/16 06:04 [FirstSquawk] SOUTH KOREA’S SEPTEMBER EXPORT PRICE INDEX ROSE 40.9% YEAR-ON-YEAR, EASING FROM 42.4%, WHILE THE IMPORT PRICE INDEX ROSE 17.6%, UP FROM 15.6%
-- 10/16 06:05 [FirstSquawk] NETFLIX PREPARES TO CUT 800 JOBS DAYS BEFORE EARNINGS AMID DECLINING U.S. TV VIEWING SHARE
-- 10/16 06:07 [FirstSquawk] FED’S HAMMACK SAYS SHE IS HEARING MORE FROM LOWER-INCOME AMERICANS STRUGGLING WITH INFLATION, ADDING THAT ANECDOTAL INFORMATION PROVIDES IMPORTANT ECONOMIC GUIDANCE.
-- 10/16 06:07 [FirstSquawk] FED'S HAMMACK SAYS BUSINESSES ARE SEEING A LOT OF INPUT COST PRICE PRESSURES, ADDING THAT SHE WORRIES ABOUT THE FORMATION OF AN INFLATION MENTALITY.
-- 10/16 06:08 [FirstSquawk] EUROPEAN COMMISSION PREPARES TO FAST-TRACK ANTITRUST APPROVAL FOR AIRBUS-LEONARDO-THALES SATELLITE VENTURE ‘PROJECT BROMO’ TO REDUCE RELIANCE ON SPACEX & US PROVIDERS
-- 10/16 06:08 [FirstSquawk] EU PROJECT TO STRENGTHEN SPACE INDUSTRY AGAINST US & CHINESE RIVALS FACES COMPETITION, JOBS & SUPPLIER SCRUTINY; APPROVAL COULD COME AFTER JUST OVER A MONTH IF CONCESSIONS ADDRESS CONCERNS
-- 10/16 06:26 [DeItaone] FED'S HAMMACK: FINANCIAL CONDITIONS DO NOT APPEAR RESTRICTIVE RIGHT NOW
-- 10/16 06:30 [financialjuice] NEW ZEALAND MANUFACTURING PMI ACTUAL 56.5 (FORECAST -, PREVIOUS 53.1) $MACRO
-- 10/16 06:30 [financialjuice] New Zealand September seasonally adjusted PMI 56.5: Business NZ/Bank NZ survey
-- 10/16 06:31 [FirstSquawk] NEW ZEALAND’S SEPTEMBER SEASONALLY ADJUSTED MANUFACTURING PMI ROSE TO 56.5 FROM 53.1 - BUSINESS NZ/BANK NZ SURVEY
-- 10/16 06:32 [DeItaone] FLAVIO BOLSONARO SEEN WITH 51% OF VALID VOTES VS LULA'S 49% IN BRAZIL PRESIDENTIAL RUNOFF - DATAFOLHA POLL
-- 10/16 06:33 [DeItaone] FED’S HAMMACK WARNS MORE AGGRESSIVE ACTION MAY BE NEEDED TO FIGHT INFLATION Cleveland Fed President Beth Hammack warned that deteriorating inflation expectations could force the Federal Reserve to take more aggressive monetary policy action…
-- 10/16 06:45 [financialjuice] NEW ZEALAND FOOD PRICE INDEX ACTUAL 0% (FORECAST -, PREVIOUS 0.3%) $MACRO
-- 10/16 06:45 [financialjuice] Nz actual electronic card retail sales rise 0.9% in September year on year
-- 10/16 06:45 [financialjuice] NZ s/adj electronic card retail sales down 0.4% in Sept vs prior month
-- 10/16 06:45 [financialjuice] New Zealand food price inflation index steady at 0.0% in September month-on-month: Stats NZ
-- 10/16 06:45 [FirstSquawk] NEW ZEALAND’S FOOD PRICE INFLATION INDEX WAS STEADY AT 0.0% IN SEPTEMBER MONTH-ON-MONTH, DOWN FROM A PRIOR 0.3%, WHILE SEASONALLY ADJUSTED ELECTRONIC CARD RETAIL SALES FELL 0.4% ON THE MONTH THOUGH ACTUAL SALES ROSE 0.9% YEAR-ON-YEAR - STAT…
-- 10/16 07:04 [financialjuice/FirstSquawk] Drones strike industrial sites in Russia's Rostov region: governor
-- 10/16 07:05 [financialjuice] Gryspan says she wouldn’t be surprised to encounter veto power resistance on Friday
-- 10/16 07:05 [financialjuice] Grynspan: UN must enforce discipline to prevent agency overlap, reduce senior positions
-- 10/16 07:05 [financialjuice] Frontrunner in race for UN chief Rebeca Grynspan: 'UN has become too risk-averse' - source
-- 10/16 07:05 [financialjuice] Grynspan: opposition of permanent security council members has been overcome before
-- 10/16 07:06 [FirstSquawk] REBECA GRYNSPAN, THE FRONTRUNNER IN THE RACE FOR UN CHIEF, SAYS ‘THE UN HAS BECOME TOO RISK-AVERSE’, ARGUING THE UN MUST ENFORCE DISCIPLINE TO PREVENT AGENCY OVERLAP AND REDUCE SENIOR POSITIONS, A SOURCE SAYS.
-- 10/16 07:06 [FirstSquawk] REBECA GRYNSPAN, THE FRONTRUNNER IN THE RACE FOR UN CHIEF, SAYS SHE WOULDN’T BE SURPRISED TO ENCOUNTER VETO-POWER RESISTANCE ON FRIDAY, BUT THAT THE OPPOSITION OF PERMANENT SECURITY COUNCIL MEMBERS ‘HAS BEEN OVERCOME BEFORE’.
-- 10/16 08:00 [financialjuice] S. KOREAN UNEMPLOYMENT RATE ACTUAL 2.6% (FORECAST 2.7%, PREVIOUS 2.7%) $MACRO
-- 10/16 08:00 [financialjuice] S. Korea's September unemployment rate 2.6% vs 2.7% in August: data ministry
-- 10/16 08:00 [financialjuice] S. Korea’s September employment rises 113,000 year/year vs 184,000 in August: data ministry
-- 10/16 08:21 [financialjuice] Progress toward U.S.-Mexico tariff pact stalls after opposition from Commerce Secretary Howard Lutnick: WSJ
-- 10/16 08:23 [financialjuice] Fed's Goolsbee: a disappointing month for inflation
-- 10/16 08:24 [financialjuice] Fed's Goolsbee: still optimistic if inflation drivers fade soon
-- 10/16 08:24 [financialjuice] Fed's Goolsbee: If inflation stems from demand overheating due to AI, it's more concerning and must be addressed
-- 10/16 08:26 [FirstSquawk] US DEMAND FOR A 3.5% INCREASE TO BE POSTPONED; SIGNIFICANT INCREASE EXPECTED OVER THE NEXT FIVE YEARS. - ASAHI
-- 10/16 08:26 [FirstSquawk] ORDER TO LIMIT UKRAINE'S ACCESS TO STARSHIELD SYSTEM CAME FROM INSIDE WHITE HOUSE – RTRS CITES SOURCES
-- 10/16 08:29 [FirstSquawk] S.KOREA ASKS US FOR TAX BREAK FOR ALASKA LNG PROJECT - MAEIL
-- 10/16 08:30 [FirstSquawk] PRESIDENT DONALD TRUMP SAID MILITARY LEAKERS SHOULD BE SHOT, BLAMING MEDIA LEAKS FOR DISRUPTING US OPERATIONS AGAINST IRAN. HIS ADMINISTRATION HAS INTENSIFIED LEAK INVESTIGATIONS, INCLUDING ACTIONS TARGETING JOURNALISTS.
-- 10/16 08:30 [FirstSquawk] TRUMP ALSO CALLED FOR THE DEATH PENALTY FOR PEOPLE WHO MURDER POLICE OFFICERS OR FIREFIGHTERS, WHILE DISMISSING US AFFORDABILITY CONCERNS AND SAYING THE IRAN CONFLICT WOULD END SOON.
-- 10/16 08:32 [FirstSquawk] COPPER FELL 1% TO $14,347/TON, EXTENDING LOSSES TO THREE DAYS AS STRONG US INFLATION, A FIRM DOLLAR AND FED RATE-HIKE EXPECTATIONS WEIGHED ON METALS. CONCERNS OVER AI SPENDING ALSO ADDED PRESSURE.
-- 10/16 08:32 [FirstSquawk] COPPER REMAINS UP OVER 15% IN 2026, BUT EASING STRIKE RISKS AT CHILE’S ESCONDIDA MINE AND WEAK MINING STOCKS LIMITED BULLISH SENTIMENT.
-- 10/16 08:35 [financialjuice] Japan finance minister katayama: unable to comment on need for additional budget
-- 10/16 08:36 [financialjuice] Japan finance minister katayama: additional budget, if needed, will focus on urgent policy priorities
 - 10/16 08:50 [financialjuice] JAPANESE FOREIGN BOND INVESTMENT ACTUAL -339.7B (FORECAST -, PREVIOUS -347.6B) $MACRO
 - 10/16 08:50 [financialjuice] FOREIGN INVESTMENT JAPANESE STOCKS ACTUAL 3,521.5B (FORECAST -, PREVIOUS 2,191.9B ,REVISION 2,199.7B) $MACRO
 - 10/16 08:51 [financialjuice] FOREIGN INVESTMENT JAPANESE BONDS ACTUAL 1,080.1B (FORECAST -, PREVIOUS 585.7B) $MACRO
@@ -146,3 +70,104 @@
 - 10/16 10:03 [FirstSquawk] SK Hynix Shares Rise 3% as South Korean Stocks Gain
 - 10/16 10:05 [financialjuice] China finance ministry to offer 15.5 billion yuan government bonds in Hong Kong on Oct. 23
 - 10/16 10:06 [FirstSquawk] China’s Finance Ministry Announces 15.5 Billion Yuan Government Bond Issuance in Hong Kong for October 23
+- 10/16 10:13 [financialjuice] Tesla roadster employs thrusters to land after ramp jump: Tesla event
+- 10/16 10:16 [financialjuice] PBOC sets yuan midpoint at strongest level since Feb. 2, 2023
+- 10/16 10:21 [financialjuice] China central bank injects 60 bln yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement
+- 10/16 10:52 [financialjuice] China sets wheat import tariff quota for 2027 at 9.64 million metric tons
+- 10/16 10:53 [financialjuice] China sets corn import tariff quota for 2027 at 7.2 million metric tons: state planner
+- 10/16 11:17 [financialjuice] OpenAI: Rosalind academic plan now accessible to academic Lai
+- 10/16 11:22 [financialjuice] Liteon highlights 800 VDC power technologies at Nvidia MGX ecosystem during OCP to boost next-gen AI infrastructure
+- 10/16 11:40 [financialjuice] Saudi-led coalition: intercepted and destroyed drone launched toward Saudi Arabia's eastern region
+- 10/16 11:45 [FirstSquawk] German Finance Minister: Germany Pledges €50 Million for Chernobyl Plant Repairs in Ukraine
+- 10/16 11:47 [FirstSquawk] IMF Chief Georgieva Calls on Northern Countries to Restore Fuel Reserves Ahead of the Winter Season
+- 10/16 11:48 [FirstSquawk] Georgieva Says Economic Growth Alone Cannot Reverse Rising Debt Without Fiscal Discipline
+- 10/16 11:48 [FirstSquawk] Georgieva Says AI Is Boosting Productivity, With Further Gains Expected but Their Extent and Timing Unclear
+- 10/16 11:49 [FirstSquawk] IMF Chief Georgieva Says Price Stability Must Remain Central Banks’ Primary Focus
+- 10/16 11:59 [FirstSquawk] Georgieva Says IMF Needs Additional Funding for Its Poverty Reduction and Growth Trust
+- 10/16 12:00 [financialjuice] S.Korea: September foreign net investment in local stocks -$14.16 billion vs $0.04 billion in August - central bank
+- 10/16 12:00 [financialjuice] S. Korea: September foreign net investment in local bonds $-5.81 billion vs $-4.53 billion in August - central bank
+- 10/16 12:01 [FirstSquawk] Georgieva Says IMF Needs Additional Resources for Its Poverty Reduction and Growth Trust
+- 10/16 12:01 [FirstSquawk] South Korea Records $5.81 Billion in Net Foreign Bond Outflows in September, Central Bank Says
+- 10/16 12:02 [FirstSquawk] Bundesbank Chief Says Germany Has Strong Economic Foundations and Reforms Could Benefit the Public if Implemented
+- 10/16 12:06 [FirstSquawk] Bundesbank Chief: Artificial Intelligence Risks Exacerbating Inequality
+- 10/16 12:10 [FirstSquawk] Germany Seeks Ways to Protect Itself Against Takeover Strategies, Finance Minister Says Amid UniCredit-Commerzbank Bid
+- 10/16 12:14 [FirstSquawk] Germany Must Invest Without Telling Citizens They Cannot Be Protected Due to Debt Brake Rules, Finance Minister Says
+- 10/16 12:17 [FirstSquawk] Vietnam’s PetroVietnam Gas Signs Agreement With PV Power for 1,600-MW LNG Power Project in Haiphong
+- 10/16 12:19 [FirstSquawk] German Finance Minister Urges Continued Investment in Renewables, Calling It the Cheapest Energy Option
+- 10/16 12:20 [FirstSquawk] German Finance Minister: I Am Not Against China, but Its Approach to the Rules Requires Caution
+- 10/16 12:26 [FirstSquawk] US Equities Show Mounting Signs of a Late-Cycle Environment, According to CE - WSJ
+- 10/16 12:28 [FirstSquawk] US Treasury’s Browne Calls for Greater IMF Action to Identify Global Imbalances
+- 10/16 12:29 [FirstSquawk] US Treasury Official Browne Calls for Broader IMF Assessment of Global Outlook, Including Upside from US-Led Economic Shocks
+- 10/16 12:30 [FirstSquawk] US Treasury Official Browne Highlights Strong US Economic Momentum and Japan’s Economic Progress
+- 10/16 12:31 [FirstSquawk] US Treasury Official Browne: Japan’s Currency and Monetary Policy Must Adjust to the Post-Deflation Environment
+- 10/16 12:32 [FirstSquawk] US Treasury Official Browne: Washington and Tokyo Coordinate Closely to Support Orderly Markets
+- 10/16 12:33 [financialjuice] China's Ministry of Industry and Information Technology: issues 35th batch of new energy vehicle models qualifying for tax breaks
+- 10/16 12:33 [FirstSquawk] US Treasury’s Browne Says Disorderly FX Moves Risk Spreading Volatility Across Financial Markets
+- 10/16 12:33 [FirstSquawk] China’s MIIT Unveils 35th List of New Energy Vehicles Qualifying for Tax Reductions and Exemptions
+- 10/16 12:34 [FirstSquawk] China’s Industry Ministry Names Li Auto Mega and Li Auto i6 Among NEVs Eligible for Tax Relief
+- 10/16 12:36 [FirstSquawk] US Treasury Discusses Crackdown on Criminal Fraud Networks With Cambodian Government
+- 10/16 12:36 [FirstSquawk] US Partners With Indo-Pacific Economies to Develop More Resilient Supply Chains, Treasury Official Says
+- 10/16 12:37 [FirstSquawk] US Treasury Official: US to Work With Vietnam on Expanding Cooperation and Integration Opportunities
+- 10/16 12:38 [FirstSquawk] Fed’s Warsh Reflects on Whether the Global Financial Crisis Made Him Excessively Fearful
+- 10/16 12:39 [financialjuice] Fed's Warsh: we will meet a couple more times this year, marking the clarifying moment
+- 10/16 12:40 [FirstSquawk] Fed’s Warsh: Developments Since September FOMC Meeting Have Generally Followed Our Outlook
+- 10/16 12:40 [financialjuice] Fed's Warsh: will assess situation at October and December meeting
+- 10/16 12:40 [FirstSquawk] Fed’s Warsh: Remaining Meetings This Year Will Bring Greater Clarity on the Policy Direction
+- 10/16 12:42 [financialjuice] Fed's Warsh: don’t trust saying what I might do in meetings through rest of 2026
+- 10/16 12:42 [financialjuice] China finance ministry auctions 20-year ultra-long special treasury bonds at 2.0649% yield: traders
+- 10/16 12:42 [financialjuice] China finance ministry offers 3-year bonds at 1.2522% yield: traders
+- 10/16 12:44 [FirstSquawk] Fed’s Warsh Jokes That AI Is Now Called “SI” in the US
+- 10/16 12:44 [FirstSquawk] EMSC Reports Magnitude 7 Earthquake in Russia’s Kamchatka Peninsula Region
+- 10/16 12:45 [FirstSquawk] Fed’s Warsh Warns AI Will Hit the Demand Side of the Economy Before the Supply Side
+- 10/16 12:45 [FirstSquawk] Fed’s Warsh: Artificial Intelligence Will Help Central Banks Make More Confident Data-Driven Policy Choices
+- 10/16 12:46 [FirstSquawk] Fed’s Warsh: AI’s Economic Impact Will Be Significant, but Near-Term Job Consequences Are Uncertain
+- 10/16 12:47 [FirstSquawk] Fed Chair Warsh Sees AI Driving Productivity and Wealth Gains Despite a Bumpy Economic Transition
+- 10/16 12:47 [FirstSquawk] FED'S WARSH: DECLINES TO SIGNAL THE LIKELY DIRECTION OF MONETARY POLICY AT UPCOMING MEETINGS THROUGH THE END OF 2026
+- 10/16 12:47 [FirstSquawk] FED'S WARSH: PRICE STABILITY REMAINS A CLEAR COMMITMENT OF THE FEDERAL RESERVE, BUT EACH MEETING MUST BE ASSESSED ON ITS OWN MERITS
+- 10/16 12:47 [FirstSquawk] FED'S WARSH: GLOBAL ECONOMY'S BIGGEST UPSIDE STORY IS THE ACCELERATION IN INVESTMENT ACTIVITY
+- 10/16 12:47 [FirstSquawk] FED'S WARSH: POSITIVE POLICY DECISIONS HAVE HELPED FUEL THE PICKUP IN INVESTMENT
+- 10/16 12:47 [FirstSquawk] FED CHAIR WARSH: ECONOMIC AND POLICY DEVELOPMENTS ABROAD INFLUENCE THE US, JUST AS AMERICAN POLICIES HAVE CONSEQUENCES FOR THE REST OF THE WORLD – IMF SESSION IN BANGKOK
+- 10/16 12:47 [FirstSquawk] FED'S WARSH: OCTOBER AND DECEMBER POLICY MEETINGS WILL PROVIDE OPPORTUNITIES TO EVALUATE CONDITIONS AND DETERMINE THE APPROPRIATE COURSE OF ACTION
+- 10/16 12:47 [FirstSquawk] FED'S WARSH: STRUCTURAL ECONOMIC EXPANSION AND STRONGER INVESTMENT ARE CURRENTLY SUPPORTING US GROWTH
+- 10/16 12:48 [FirstSquawk] Federal Reserve to Convene AI Hearing in San Francisco Bay Area on November 16, Warsh Says
+- 10/16 12:50 [FirstSquawk] Fed’s Warsh: Federal Reserve Task Forces Aim to Generate New Insights to Assist FOMC Decisions
+- 10/16 12:50 [FirstSquawk] Fed’s Warsh: US Technology Investment Flows Through Private Markets, While the Fed Does Not Take Sides on Who Is Right or Wrong
+- 10/16 12:51 [FirstSquawk] Fed’s Warsh Emphasizes the Need to Evaluate Financial Stability Risks
+- 10/16 12:51 [FirstSquawk] Fed’s Warsh: Policymakers Should Consider Whether They Can Mitigate Downside Tail Risks
+- 10/16 12:53 [FirstSquawk] Warsh: I Would Have Been Cautious About Introducing New Ideas Without Having Worked at the Fed Before
+- 10/16 12:54 [FirstSquawk] Fed’s Warsh: Building the Right Culture Is Key to Harnessing the Fed’s Talent
+- 10/16 12:55 [FirstSquawk] Fed’s Warsh: Only 25% of Staff Work on Monetary Policy
+- 10/16 12:56 [FirstSquawk] Fed’s Warsh: The Chair Must Be Responsible for All Parts of the Central Bank
+- 10/16 12:56 [FirstSquawk] Fed’s Warsh: Maintaining and Enhancing Institutional Credibility Is Essential to the Fed’s Influence
+- 10/16 12:57 [FirstSquawk] Warsh: I’m Not Concerned With My Legacy; My Focus Is on Making the Right Policy Choices
+- 10/16 13:01 [FirstSquawk] Fed’s Warsh Praises Volcker, Greenspan and Bernanke for Enhancing the Central Bank’s Credibility
+- 10/16 13:02 [FirstSquawk] Warsh: As the World Changes at an Unprecedented Pace, We Must Anticipate the Implications for the US
+- 10/16 13:02 [FirstSquawk] Warsh Says the World Economy Has Proved More Resilient Than He Would Have Predicted Five Months Earlier
+- 10/16 13:03 [FirstSquawk] Warsh Says Many G20 Member Economies Have Proved Resilient Despite Economic Shocks
+- 10/16 13:03 [FirstSquawk] Warsh Emphasizes That Inflation Is a Widespread Global Issue, Not Exclusive to the United States
+- 10/16 13:04 [FirstSquawk] Fed’s Warsh: Coordinated Monetary Policy Tightening Across Much of the World Means No Economy Can Escape the Impact
+- 10/16 13:05 [FirstSquawk] Fed’s Warsh: I Have Heard Strong Commitment to Price Stability From Colleagues Worldwide
+- 10/16 13:07 [FirstSquawk] Warsh Says Price Stability Is a Shared Global Goal That Provides Businesses and Households With Confidence to Support Continued Growth
+- 10/16 13:07 [FirstSquawk] Warsh Says He Favors Framework-Based Approaches Rather Than Mean-Reverting Models
+- 10/16 13:08 [FirstSquawk] Warsh Says the US Will Come Out Stronger, With a Resilient Economy Capable of Leading Globally
+- 10/16 13:26 [FirstSquawk] Indonesia Stock Exchange to Communicate With MSCI Soon and Take Its Warning Seriously
+- 10/16 13:27 [FirstSquawk] BoC Governor: The Longer Energy Prices Stay Elevated, the Harder It Becomes to Ignore Their Impact, Even Without a Rate Hike
+- 10/16 13:33 [FirstSquawk] Gold Attracts Buyers as Dollar Slides to Two-Week Low After Warsh’s Comments
+- 10/16 13:45 [FirstSquawk] Georgieva Warns That AI Risks May Exceed Its Benefits in the Absence of Safeguards
+- 10/16 13:54 [financialjuice] Venezuela economic adviser Ortega: centerview partners still acts as financial adviser for country’s debt restructuring
+- 10/16 13:54 [financialjuice] Venezuela economic adviser Ortega: we are very satisfied with them, held talks yesterday
+- 10/16 13:56 [FirstSquawk] Russian Forces Target Logistics Facility in Ukraine’s Odesa Region, Interfax Reports Citing Defence Ministry
+- 10/16 13:56 [FirstSquawk] Georgieva: Countries Fueling AI Growth Must Collaborate With Businesses to Put Guardrails in Place
+- 10/16 14:00 [FirstSquawk] Anthropic’s Clark Says AI Testing and Information Sharing Should Not Rely Solely on Voluntary Efforts
+- 10/16 14:07 [FirstSquawk] Court to Fast-Track Hearing of Substantive Appeal Concerning Vodacom’s Safaricom Acquisition
+- 10/16 14:11 [financialjuice] Fed's Warsh: skeptical about predicting actions in meetings for rest of 2026
+- 10/16 14:12 [FirstSquawk] UK Government Courted UBS in Bid to Bring Its Headquarters to London, FT Says
+- 10/16 14:19 [FirstSquawk] Russia’s Vladimir Region Governor Says Ukraine Tried to Strike Heating Infrastructure With Drones
+- 10/16 14:22 [FirstSquawk] Australia’s Benchmark S&P/ASX 200 Gains 1.0% at the Close, Ending at 8,806.70
+- 10/16 14:25 [financialjuice] Le Pen may face Glucksmann in French presidential runoff - Poll
+- 10/16 14:28 [FirstSquawk] Trump Condemns Ukraine’s Strikes on Russian Refineries as a “Disgrace” in Rebuke to Zelensky
+- 10/16 14:33 [FirstSquawk] Citigroup Revises Rio Tinto Price Target Lower to 6,700p From 7,000p
+- 10/16 14:34 [FirstSquawk] Schneider Electric Q3 Earnings: - Organic Rev: +16.9% (est +13.8%), Tops Highest Estimate - Rev: €11.46B (est €11.1B) - Energy Management Organic Revenue: +18.8% (est +14.2%) - Raises 2026 Targets - Data Centre & Networks Demand Up 'Triple-…
+- 10/16 14:38 [FirstSquawk] Senior Minister: Indonesian Finance Minister, Central Bank Governor and Officials to Hold Meeting Following MSCI Announcement
+- 10/16 14:45 [FirstSquawk] Indonesia’s Senior Economic Minister: MSCI’s Decision Not to Discuss Standalone Status at This Week’s Bangkok Meeting Raises a Big Question Mark
+- 10/16 14:49 [financialjuice] Taiwan to curb AI chip exports to china as part of US deal.

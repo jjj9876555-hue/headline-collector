@@ -7,161 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-16 10:09 JST／対象: 10/15 10:09 〜 10/16 10:09 JST（時刻はすべて日本時間）
+生成: 2026-10-16 14:49 JST／対象: 10/15 14:49 〜 10/16 14:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 72 | 10/15 18:42 | 10/16 06:33 | ⚠ 107分（02:46→04:34） |
-| FirstSquawk | 307 | 10/15 10:16 | 10/16 10:06 | ⚠ 79分（07:06→08:26） |
-| financialjuice | 276 | 10/15 10:15 | 10/16 10:05 | ⚠ 61分（19:29→20:30） |
+| FirstSquawk | 307 | 10/15 14:53 | 10/16 14:45 | ⚠ 99分（10:06→11:45） |
+| financialjuice | 240 | 10/15 14:52 | 10/16 14:49 | ⚠ 72分（12:42→13:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 637 行（統合前 658 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 601 行（統合前 621 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/15 10:15 [financialjuice] Saudi-led coalition: drone intercepted and neutralized in kingdom's eastern region
-- 10/15 10:16 [FirstSquawk] China Sets Yuan Midpoint at 6.7253 per Dollar in Daily PBOC Fixing
-- 10/15 10:16 [FirstSquawk] Drone Intercepted and Destroyed in Saudi Arabia’s Eastern Region, Coalition Says
-- 10/15 10:22 [financialjuice] China central bank injects 45 billion yuan via 7-day reverse repos at 1.40% vs prior 1.40%: statement
-- 10/15 10:25 [FirstSquawk] Hong Kong Tech Stocks Brace for Sharp Opening Losses as Hang Seng Tech Index Signals a Drop of More Than 2%
-- 10/15 10:26 [FirstSquawk] Houthi Media Official Calls on Taiz Residents to Stay Inside Their Homes
-- 10/15 10:31 [financialjuice] BOJ board member Koeda: attention focused on price upside risks from yen depreciation and robust global AI demand, plus Middle East situation impact
-- 10/15 10:31 [financialjuice] BOJ's Koeda: Looking ahead, it will be necessary to focus on both AI-related exports and imports
-- 10/15 10:32 [financialjuice] BOJ’s Koeda: Monetary policy debate includes if AI backs investment to address labor shortages and boost productivity
-- 10/15 10:33 [financialjuice] Boj's Koeda: important to assess how policy rate change influences financial conditions, economic activity and prices
-- 10/15 10:33 [FirstSquawk] US 10-Year Treasury Yield Falls to 5.1183%, Its Lowest in Three Weeks Amid Equity Market Losses
-- 10/15 10:33 [financialjuice] BOJ's Koeda: overall, I believe Japan's financial conditions have stayed accommodative
-- 10/15 10:33 [FirstSquawk] US Dollar Gains 1% Against South Korean Won
-- 10/15 10:33 [financialjuice] BOJ's Koeda: recent rate hikes not necessarily expected to curb overall consumption of working generation
-- 10/15 10:34 [financialjuice] BoJ's Koeda: still want to study accumulated effect of policy rate increases on household behavior
-- 10/15 10:34 [financialjuice] BOJ's Koeda: companies' financing conditions have generally stayed favorable
-- 10/15 10:35 [financialjuice] BoJ's Koeda: Neutral interest rate level is well above 1 percent, near lower bound of estimated range
-- 10/15 10:35 [financialjuice] BOJ’s Koeda: impact on long-term interest rates of changes in central bank government bond holdings may be smaller during reduction phase than active expansion phase
-- 10/15 10:36 [financialjuice] Boj's Koeda: underlying inflation has been about 2% over the past year or so
-- 10/15 10:36 [financialjuice] BOJ's Koeda: sustained price rises across various CPI items, change in price distribution indicates underlying inflation anchoring around 2%
-- 10/15 10:36 [financialjuice] BOJ's Koeda: sustained inflation appears to be taking stronger hold in Japan as wages have also risen steadily
-- 10/15 10:37 [financialjuice] BoJ's Koeda: central bank should adjust policy rate timely considering economic and price conditions, keeping estimated neutral rate range in mind
-- 10/15 10:37 [financialjuice] BOJ's Koeda: With significant upside risks to prices and ongoing loose financial conditions, BOJ should not be too cautious about raising policy interest rates
-- 10/15 10:38 [FirstSquawk] BOJ's Koeda: Yen Weakness, Robust Global AI Demand and Middle East Developments Pose Upside Risks to Prices.
-- 10/15 10:38 [FirstSquawk] BOJ's Koeda: Monitoring AI-Related Trade Flows, Including Both Exports and Imports, Will Be Important Going Forward.
-- 10/15 10:38 [FirstSquawk] BOJ's Koeda: Policymakers Must Assess Whether AI Investment Can Help Offset Labour Shortages and Boost Productivity When Evaluating the Monetary Policy Outlook.
-- 10/15 10:38 [FirstSquawk] BOJ's Koeda: The Impact of Policy Rate Changes on Financial Conditions, Economic Activity and Inflation Needs Careful Examination.
-- 10/15 10:38 [FirstSquawk] BOJ's Koeda: Japan's Overall Financial Conditions Remain Accommodative Despite Recent Interest Rate Increases.
-- 10/15 10:38 [financialjuice] BOJ’s Koeda: it is crucial for BOJ to continue calmly with normalization of its balance sheet
-- 10/15 10:38 [FirstSquawk] BOJ's Koeda: Recent Rate Hikes Are Not Necessarily Expected to Weigh on Aggregate Consumption Among Working-Age Households.
-- 10/15 10:38 [FirstSquawk] BOJ's Koeda: The Cumulative Effects of Interest Rate Increases on Household Spending Behaviour Require Further Assessment.
-- 10/15 10:38 [FirstSquawk] BOJ's Koeda: Corporate Financing Conditions Continue to Be Favourable Overall.
-- 10/15 10:38 [FirstSquawk] BOJ's Koeda: Japan's Neutral Interest Rate Is Considerably Higher Than 1%, Near the Lower End of the Current Estimate Range.
-- 10/15 10:39 [financialjuice] USD/KRW climbs 0.7%, not 1%: co
-- 10/15 10:40 [FirstSquawk] BOJ's Koeda: The Impact of Changes in Central Bank Government Bond Holdings on Long-Term Yields May Be Smaller During the Reduction Phase Than During Active Balance Sheet Expansion.
-- 10/15 10:40 [FirstSquawk] BOJ's Koeda: Underlying Inflation in Japan Has Remained Around 2% Overall Over the Past Year.
-- 10/15 10:40 [FirstSquawk] BOJ's Koeda: Broad-Based CPI Increases and Shifts in Price-Change Patterns Indicate That Underlying Inflation Is Becoming Firmly Anchored Near 2%.
-- 10/15 10:40 [FirstSquawk] BOJ's Koeda: Stable Wage Growth Suggests That Sustained Inflation Is Taking Hold in Japan More Firmly Than Before.
-- 10/15 10:40 [FirstSquawk] BOJ's Koeda: The BOJ Should Adjust Interest Rates in a Timely Manner Based on Economic and Price Developments, While Considering the Estimated Neutral Rate Range.
-- 10/15 10:40 [FirstSquawk] BOJ's Koeda: With Significant Upside Price Risks and Financial Conditions Remaining Accommodative, the BOJ Should Avoid Excessive Caution Over Further Rate Hikes.
-- 10/15 10:40 [FirstSquawk] BOJ's Koeda: Steady Progress in Normalizing the BOJ's Balance Sheet Remains Essential.
-- 10/15 10:48 [financialjuice] German Bund futures rise 0.65%; French OAT futures increase 0.76%
-- 10/15 10:49 [financialjuice] South Korea defense ministry spokesperson: shifting goalposts will make transfer of operational control to South Korea unfeasible
-- 10/15 10:54 [financialjuice] ECB's Santos Pereira: if winter resembles last year, natural gas prices will pose a problem
-- 10/15 10:54 [financialjuice] ECB's Santos Pereira: positive news is inflation is not spreading
-- 10/15 10:55 [financialjuice] ECB's Santos Pereira: If inflation widens, central banks will be compelled to respond
-- 10/15 10:58 [FirstSquawk] Global Technology Stocks Extend Losses as Asian Markets Come Under Pressure
-- 10/15 10:59 [FirstSquawk] Trump Says Iran Has Neither Effective Leadership Nor an Air Force or Navy- AlArabiya_Brk
-- 10/15 11:03 [FirstSquawk] US Treasury Yields Decline, With the 2-Year Yield Down 8 BPS to 4.7235% and the 30-Year Yield Lower by 6 BPS to 5.4595%
-- 10/15 11:04 [financialjuice] China, North Korea hold inauguration for new Yalu River bridge: Xinhua
-- 10/15 11:05 [FirstSquawk] UBS Considers Shifting Headquarters Abroad if Swiss Lawmakers Advance Stricter Capital Requirements, WSJ Says
-- 10/15 11:05 [FirstSquawk] WSJ: UBS Weighs US Acquisition, European Merger or Sale to an American Financial Firm
-- 10/15 11:06 [FirstSquawk] China and North Korea Mark Opening of New Bridge Across the Yalu River, Xinhua Reports
-- 10/15 11:07 [FirstSquawk] Xinhua: China’s Supreme People’s Procuratorate Arrests Former Chengdu Mayor Wang Fengchao Over Suspected Bribery
-- 10/15 11:13 [FirstSquawk] North Korea Says Submarine-Launched Cruise Missile Tests Were Conducted on Wednesday
-- 10/15 11:13 [financialjuice] Euro last up 0.63% at $1.1228
-- 10/15 11:14 [FirstSquawk] Euro Strengthens 0.63% Against the US Dollar to $1.1228
-- 10/15 11:17 [financialjuice] ECB's Santos Pereira: Growth exceeds expectations, wouldn't be surprised if it persists in coming months
-- 10/15 11:17 [FirstSquawk] ECB’s Santos Pereira Sees Scope for Growth to Continue Surprising on the Upside in the Coming Months
-- 10/15 11:19 [FirstSquawk] New Zealand Dollar Strengthens 0.61% Against the US Dollar to $0.56275
-- 10/15 11:22 [FirstSquawk] IMF Official Highlights Uneven AI Gains Across Asia, With South Korea Benefiting Most and Japan Seeing Smaller Benefits
-- 10/15 11:24 [FirstSquawk] US Dollar Falls 0.66% Against Swiss Franc to 0.8293
-- 10/15 11:25 [FirstSquawk] IMF Official: China’s Economic Growth Is Largely Driven by External Demand Amid Persistently Weak Domestic Demand
-- 10/15 11:26 [FirstSquawk] IMF Official Welcomes China’s Fiscal Support for the Economy but Says Its Scale and Scope Remain Limited
-- 10/15 11:26 [FirstSquawk] IMF Official Calls for Substantially Greater Fiscal Stimulus in China as the Economy Edges Toward Deflation
-- 10/15 11:31 [FirstSquawk] IMF Official Says Exchange Rates Should Not Be Seen as a Measure of Economic Success or Failure, Responding to India’s Strong Growth and Currency Weakness
-- 10/15 11:42 [FirstSquawk] South Korea’s Stock Market Extends Its Downturn as AI-Related Concerns and US Inflation Risks Remain in Focus
-- 10/15 11:50 [financialjuice] ByteDance in talks to obtain MediaTek AI chips for data centers
-- 10/15 11:51 [FirstSquawk] Singapore Dollar Strengthens as Falling U.S. Yields Weigh on the Greenback - WSJ
-- 10/15 11:54 [financialjuice] Japan Prime Minister Takaichi: No evidence of espionage in Russia
-- 10/15 11:54 [FirstSquawk] Takaichi Says Japan Is Not Conducting Espionage in Russia
-- 10/15 11:59 [FirstSquawk] European Stock Futures Decline, With Euro Stoxx 50 Down 1.0%, DAX Off 0.8% and FTSE Lower 0.2%
-- 10/15 12:00 [FirstSquawk] Nasdaq Futures Extend Drop to 1.1%, While S&P 500 Futures Slip 0.4%
-- 10/15 12:00 [financialjuice] S. Korea Aug L-money supply rises 7.2% y/y vs 8.1% in Jul: central bank
-- 10/15 12:00 [financialjuice] S.Korea September bank lending to households net 0.6 trillion won vs 3.5 trillion won in August: central bank
-- 10/15 12:10 [FirstSquawk] Guggenheim Cuts Johnson & Johnson’s Price Target to $281 From $287
-- 10/15 12:23 [FirstSquawk] North Korea Could Strengthen Drone Capabilities Through Workers at Russian Factory, Think Tank Says
-- 10/15 12:31 [FirstSquawk] Nikkei Average Extends Losses, Falling 5%
-- 10/15 12:40 [FirstSquawk] KOSPI Trading Suspended for 20 Minutes as South Korean Stocks Tumble 8%
-- 10/15 12:51 [FirstSquawk] RBC Lowers Morgan Stanley Target Price by $48 to $195
-- 10/15 12:52 [FirstSquawk] Jefferies Upgrades Standard Chartered’s Price Target to 3,040p, Up From 2,250p
-- 10/15 12:56 [financialjuice] S.Korea August M2 money supply rises 5.6% y/y vs 5.8% in July: central bank
-- 10/15 12:56 [financialjuice] China Premier Li Qiang delivers video speech at opening of new Yalu River Bridge - Xinhua
-- 10/15 12:57 [FirstSquawk] Chinese Premier Li Qiang Gives Video Address at Ceremony Marking Opening of New Yalu River Bridge
-- 10/15 12:57 [financialjuice] China Premier Li Qiang: new Yalu river bridge opening to boost economic, trade ties and enhance personnel exchanges - Xinhua
-- 10/15 12:57 [FirstSquawk] Chinese Premier Li Qiang Says New Yalu River Bridge Will Deepen Economic and Trade Ties and Expand People-to-People Contact
-- 10/15 12:58 [financialjuice] China Premier Li Qiang on new Yalu River bridge: hopes both sides use chance to improve border clearance, boost connectivity and explore cooperation potential in border regions
-- 10/15 12:58 [financialjuice] North Korean premier also gives video address: Xinhua
-- 10/15 13:00 [FirstSquawk] BoE Chief Economist Pill Warns Against Signalling a Series of Rate Hikes if Rates Rise Now
-- 10/15 13:00 [FirstSquawk] China’s Li Qiang Calls for Better Border Clearance and Stronger Connectivity to Unlock Cooperation Potential
-- 10/15 13:02 [FirstSquawk] Zelenskyy Signals Resumption of Ukrainian Strikes on Russian Refining Facilities, FT Says
-- 10/15 13:03 [financialjuice] Ukraine to restart attacks on Russian refineries: Zelenskyy - FT
-- 10/15 13:04 [financialjuice] US considering deploying ‘mother of all bombs’ against Iran: CNN
-- 10/15 13:05 [FirstSquawk] US Considers Deploying ‘Mother of All Bombs’ in Iran, CNN Reports
-- 10/15 13:05 [FirstSquawk] US CONSIDERING USING ‘MOTHER OF ALL BOMBS’ AGAINST IRAN, SOURCES SAY - CNN
-- 10/15 13:27 [FirstSquawk] European Automakers Bet on Nostalgia as Chinese EV Competition Intensifies, FT Says
-- 10/15 13:27 [FirstSquawk] Iran War Windfall Leaves Oil Majors Facing a $32 Billion Dilemma, FT Says
-- 10/15 13:30 [financialjuice] DUTCH UNEMPLOYMENT RATE SA ACTUAL 4% (FORECAST -, PREVIOUS 4.0%) $MACRO
-- 10/15 13:30 [financialjuice] Imf official: middle east war causes highly uneven economic shock across region, severe strain on directly affected states
-- 10/15 13:30 [financialjuice] IMF official: biggest risk is prolonged conflict
-- 10/15 13:30 [financialjuice] IMF: Pre-war surpluses, alternative paths and demand shifts helped mitigate oil output shock, but cushions are limited
-- 10/15 13:30 [financialjuice] IMF urges countries to rebuild buffers, prioritize price stability, tighter monetary policies and prudent fiscal measures
-- 10/15 13:30 [financialjuice] IMF: inventories are lower, spare capacity tighter, fresh disruption could trigger bigger price shifts
-- 10/15 13:30 [financialjuice] IMF: predicts 1.3% shrinkage in Middle East, North Africa and Pakistan area in 2026 vs 3.3% expansion in 2025
-- 10/15 13:30 [financialjuice] IMF: oil exporters hit by war to face sharp contraction in 2026, rebound in 2027, but output stays below pre-war forecasts
-- 10/15 13:30 [financialjuice] JAPANESE CAPACITY UTILIZATION MOM ACTUAL -4.2% (FORECAST -, PREVIOUS 0.5%) $MACRO
-- 10/15 13:30 [financialjuice] IMF: robust but uneven recovery forecast in Middle East, North Africa and Pakistan region by 2027, growth to reach 6.6%
-- 10/15 13:31 [FirstSquawk] JAPAN (AUG) CAPACITY UTILIZATION MOM ACTUAL: -4.2% VS 0.5%
-- 10/15 13:31 [FirstSquawk] JAPAN (AUG) INDUSTRIAL PRODUCTION MOM ACTUAL: -2.4% VS -1.7%
-- 10/15 13:31 [FirstSquawk] JAPAN (AUG) INDUSTRIAL PRODUCTION YOY ACTUAL: 2.7% VS 3.4%
-- 10/15 13:36 [financialjuice] Russian military strikes two shipments heading to Ukraine's Odesa port: Interfax quotes defense ministry
-- 10/15 13:36 [FirstSquawk] Russia Hits Two Cargoes En Route to Ukraine’s Odesa Port, Defence Ministry Says, Interfax Reports
-- 10/15 13:37 [FirstSquawk] Russia’s Military Launches Strike on Ukraine’s Izmail Port, TASS Reports, Citing Defence Ministry
-- 10/15 13:43 [financialjuice] Gabon secures $580 million eurobond with 8-year term, 9.375% coupon; order book almost doubles to $1 billion - finance ministry
-- 10/15 13:47 [FirstSquawk] IMF Official Expects Middle East Trade and Shipping to Return to Normal in Q1 2027, While Oil Prices Stay Higher
-- 10/15 13:47 [FirstSquawk] IMF Official Says Downside Risks Dominate the Economic Outlook
-- 10/15 13:49 [FirstSquawk] IMF Official Says War Will Have Lasting Effects on Various Sectors Across the Middle East
-- 10/15 13:59 [FirstSquawk] German Finance Minister Klingbeil Says Aid for Ukraine Comes With Expectations for Political Reforms
-- 10/15 14:14 [financialjuice] ❗ FRENCH CPI MOM NSA ACTUAL -0.3% (FORECAST -0.3%, PREVIOUS 0.3%) $MACRO
-- 10/15 14:14 [financialjuice] ❗ FRENCH CPI YOY NSA ACTUAL 3.0% (FORECAST 3%, PREVIOUS 3.0%) $MACRO
-- 10/15 14:21 [FirstSquawk] Asia’s Divergent Economic Strength Faces Fresh Challenges, IMF Says, According to WSJ
-- 10/15 14:23 [FirstSquawk] Morgan Stanley Reduces Price Target to $230, Down From $250
-- 10/15 14:24 [FirstSquawk] Australia’s Benchmark S&P/ASX 200 Index Slips 0.1% to Close at 8,719.70
-- 10/15 14:29 [FirstSquawk] Italy’s Draft Budget Plans to Collect 0.44% of GDP From the Financial Sector Over 2027–2029
-- 10/15 14:29 [financialjuice] Italy plans to collect 0.44% of GDP from financial sector over 2027-2029 period - Draft Budgetary Plan
-- 10/15 14:40 [financialjuice] BoJ Koeda: Basic stance on neutral rate is that we have to consider in a range.
-- 10/15 14:40 [financialjuice] BoJ's Koeda: Need to adjust rate in timely manner.
-- 10/15 14:40 [financialjuice] BoJ's Koeda: Monetary environment has been accommodative.
-- 10/15 14:40 [FirstSquawk] BoJ’s Koeda Says Neutral Rate Estimates Should Be Evaluated Within a Range
-- 10/15 14:41 [FirstSquawk] BoJ Board Member Koeda Says Monetary Policy Conditions Have Been Supportive
-- 10/15 14:42 [FirstSquawk] BoJ Board Member Koeda Calls for Appropriate Policy Adjustments Given Upside Price Risks
-- 10/15 14:44 [FirstSquawk] German Chancellor Merz Likely to Reject €2 Trillion EU Budget Proposal at Summit, According to Welt
-- 10/15 14:45 [FirstSquawk] BoJ’s Koeda Says Policymakers Have Not Determined a Specific Rate-Hike Pace
-- 10/15 14:45 [financialjuice] BoJ's Koeda: No specific pace in mind for rate hike.
-- 10/15 14:45 [financialjuice] BoJ's Koeda: Need discussion over whether price target is achieved.
-- 10/15 14:46 [FirstSquawk] BoJ’s Koeda Indicates Neutral Interest Rate Stands Considerably Above 1%
-- 10/15 14:48 [FirstSquawk] BoJ’s Koeda Sees Underlying Inflation Stabilising at Around 2%
-- 10/15 14:49 [FirstSquawk] South Korea’s Kospi Sinks 9% in Sharp Sell-Off
 - 10/15 14:52 [financialjuice] Boj's Koeda: Pace of passing costs to prices has been in line with BoJ's main scenario in July
 - 10/15 14:53 [FirstSquawk] BoJ’s Koeda Says Price Pass-Through From Costs Is Tracking the Central Bank’s July Forecast
 - 10/15 14:53 [FirstSquawk] BoJ’s Koeda Pledges Appropriate Monetary Policy Adjustments to Keep Underlying Inflation Within the 2% Target
@@ -211,6 +73,7 @@
 - 10/15 15:35 [financialjuice] TSMC is considering Texas as a potential site for expansion - CEO $TSM
 - 10/15 15:45 [financialjuice] ❗ FRENCH HICP YOY FINAL ACTUAL 3.4% (FORECAST 3.4%, PREVIOUS 3.4%) $MACRO
 - 10/15 15:45 [financialjuice] FRENCH HICP MOM FINAL ACTUAL -0.3% (FORECAST -0.4%, PREVIOUS 0.4%) $MACRO
+- 10/15 15:45 [financialjuice] ❗ FRENCH CPI MOM NSA ACTUAL -0.3% (FORECAST -0.3%, PREVIOUS 0.3%) $MACRO
 - 10/15 15:48 [FirstSquawk] FRANCE (SEP) CPI EU HARMONIZED MOM ACTUAL: -0.3% VS -0.4% PREVIOUS; EST -0.4%
 - 10/15 15:48 [FirstSquawk] FRANCE (SEP) CPI EU HARMONIZED YOY ACTUAL: 3.4% VS 3.4% PREVIOUS; EST 3.4%
 - 10/15 15:48 [FirstSquawk] FRANCE (SEP) CPI MOM ACTUAL: -0.3% VS -0.3% PREVIOUS; EST -0.3%
@@ -661,3 +524,104 @@
 - 10/16 10:03 [FirstSquawk] SK Hynix Shares Rise 3% as South Korean Stocks Gain
 - 10/16 10:05 [financialjuice] China finance ministry to offer 15.5 billion yuan government bonds in Hong Kong on Oct. 23
 - 10/16 10:06 [FirstSquawk] China’s Finance Ministry Announces 15.5 Billion Yuan Government Bond Issuance in Hong Kong for October 23
+- 10/16 10:13 [financialjuice] Tesla roadster employs thrusters to land after ramp jump: Tesla event
+- 10/16 10:16 [financialjuice] PBOC sets yuan midpoint at strongest level since Feb. 2, 2023
+- 10/16 10:21 [financialjuice] China central bank injects 60 bln yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement
+- 10/16 10:52 [financialjuice] China sets wheat import tariff quota for 2027 at 9.64 million metric tons
+- 10/16 10:53 [financialjuice] China sets corn import tariff quota for 2027 at 7.2 million metric tons: state planner
+- 10/16 11:17 [financialjuice] OpenAI: Rosalind academic plan now accessible to academic Lai
+- 10/16 11:22 [financialjuice] Liteon highlights 800 VDC power technologies at Nvidia MGX ecosystem during OCP to boost next-gen AI infrastructure
+- 10/16 11:40 [financialjuice] Saudi-led coalition: intercepted and destroyed drone launched toward Saudi Arabia's eastern region
+- 10/16 11:45 [FirstSquawk] German Finance Minister: Germany Pledges €50 Million for Chernobyl Plant Repairs in Ukraine
+- 10/16 11:47 [FirstSquawk] IMF Chief Georgieva Calls on Northern Countries to Restore Fuel Reserves Ahead of the Winter Season
+- 10/16 11:48 [FirstSquawk] Georgieva Says Economic Growth Alone Cannot Reverse Rising Debt Without Fiscal Discipline
+- 10/16 11:48 [FirstSquawk] Georgieva Says AI Is Boosting Productivity, With Further Gains Expected but Their Extent and Timing Unclear
+- 10/16 11:49 [FirstSquawk] IMF Chief Georgieva Says Price Stability Must Remain Central Banks’ Primary Focus
+- 10/16 11:59 [FirstSquawk] Georgieva Says IMF Needs Additional Funding for Its Poverty Reduction and Growth Trust
+- 10/16 12:00 [financialjuice] S.Korea: September foreign net investment in local stocks -$14.16 billion vs $0.04 billion in August - central bank
+- 10/16 12:00 [financialjuice] S. Korea: September foreign net investment in local bonds $-5.81 billion vs $-4.53 billion in August - central bank
+- 10/16 12:01 [FirstSquawk] Georgieva Says IMF Needs Additional Resources for Its Poverty Reduction and Growth Trust
+- 10/16 12:01 [FirstSquawk] South Korea Records $5.81 Billion in Net Foreign Bond Outflows in September, Central Bank Says
+- 10/16 12:02 [FirstSquawk] Bundesbank Chief Says Germany Has Strong Economic Foundations and Reforms Could Benefit the Public if Implemented
+- 10/16 12:06 [FirstSquawk] Bundesbank Chief: Artificial Intelligence Risks Exacerbating Inequality
+- 10/16 12:10 [FirstSquawk] Germany Seeks Ways to Protect Itself Against Takeover Strategies, Finance Minister Says Amid UniCredit-Commerzbank Bid
+- 10/16 12:14 [FirstSquawk] Germany Must Invest Without Telling Citizens They Cannot Be Protected Due to Debt Brake Rules, Finance Minister Says
+- 10/16 12:17 [FirstSquawk] Vietnam’s PetroVietnam Gas Signs Agreement With PV Power for 1,600-MW LNG Power Project in Haiphong
+- 10/16 12:19 [FirstSquawk] German Finance Minister Urges Continued Investment in Renewables, Calling It the Cheapest Energy Option
+- 10/16 12:20 [FirstSquawk] German Finance Minister: I Am Not Against China, but Its Approach to the Rules Requires Caution
+- 10/16 12:26 [FirstSquawk] US Equities Show Mounting Signs of a Late-Cycle Environment, According to CE - WSJ
+- 10/16 12:28 [FirstSquawk] US Treasury’s Browne Calls for Greater IMF Action to Identify Global Imbalances
+- 10/16 12:29 [FirstSquawk] US Treasury Official Browne Calls for Broader IMF Assessment of Global Outlook, Including Upside from US-Led Economic Shocks
+- 10/16 12:30 [FirstSquawk] US Treasury Official Browne Highlights Strong US Economic Momentum and Japan’s Economic Progress
+- 10/16 12:31 [FirstSquawk] US Treasury Official Browne: Japan’s Currency and Monetary Policy Must Adjust to the Post-Deflation Environment
+- 10/16 12:32 [FirstSquawk] US Treasury Official Browne: Washington and Tokyo Coordinate Closely to Support Orderly Markets
+- 10/16 12:33 [financialjuice] China's Ministry of Industry and Information Technology: issues 35th batch of new energy vehicle models qualifying for tax breaks
+- 10/16 12:33 [FirstSquawk] US Treasury’s Browne Says Disorderly FX Moves Risk Spreading Volatility Across Financial Markets
+- 10/16 12:33 [FirstSquawk] China’s MIIT Unveils 35th List of New Energy Vehicles Qualifying for Tax Reductions and Exemptions
+- 10/16 12:34 [FirstSquawk] China’s Industry Ministry Names Li Auto Mega and Li Auto i6 Among NEVs Eligible for Tax Relief
+- 10/16 12:36 [FirstSquawk] US Treasury Discusses Crackdown on Criminal Fraud Networks With Cambodian Government
+- 10/16 12:36 [FirstSquawk] US Partners With Indo-Pacific Economies to Develop More Resilient Supply Chains, Treasury Official Says
+- 10/16 12:37 [FirstSquawk] US Treasury Official: US to Work With Vietnam on Expanding Cooperation and Integration Opportunities
+- 10/16 12:38 [FirstSquawk] Fed’s Warsh Reflects on Whether the Global Financial Crisis Made Him Excessively Fearful
+- 10/16 12:39 [financialjuice] Fed's Warsh: we will meet a couple more times this year, marking the clarifying moment
+- 10/16 12:40 [FirstSquawk] Fed’s Warsh: Developments Since September FOMC Meeting Have Generally Followed Our Outlook
+- 10/16 12:40 [financialjuice] Fed's Warsh: will assess situation at October and December meeting
+- 10/16 12:40 [FirstSquawk] Fed’s Warsh: Remaining Meetings This Year Will Bring Greater Clarity on the Policy Direction
+- 10/16 12:42 [financialjuice] Fed's Warsh: don’t trust saying what I might do in meetings through rest of 2026
+- 10/16 12:42 [financialjuice] China finance ministry auctions 20-year ultra-long special treasury bonds at 2.0649% yield: traders
+- 10/16 12:42 [financialjuice] China finance ministry offers 3-year bonds at 1.2522% yield: traders
+- 10/16 12:44 [FirstSquawk] Fed’s Warsh Jokes That AI Is Now Called “SI” in the US
+- 10/16 12:44 [FirstSquawk] EMSC Reports Magnitude 7 Earthquake in Russia’s Kamchatka Peninsula Region
+- 10/16 12:45 [FirstSquawk] Fed’s Warsh Warns AI Will Hit the Demand Side of the Economy Before the Supply Side
+- 10/16 12:45 [FirstSquawk] Fed’s Warsh: Artificial Intelligence Will Help Central Banks Make More Confident Data-Driven Policy Choices
+- 10/16 12:46 [FirstSquawk] Fed’s Warsh: AI’s Economic Impact Will Be Significant, but Near-Term Job Consequences Are Uncertain
+- 10/16 12:47 [FirstSquawk] Fed Chair Warsh Sees AI Driving Productivity and Wealth Gains Despite a Bumpy Economic Transition
+- 10/16 12:47 [FirstSquawk] FED'S WARSH: DECLINES TO SIGNAL THE LIKELY DIRECTION OF MONETARY POLICY AT UPCOMING MEETINGS THROUGH THE END OF 2026
+- 10/16 12:47 [FirstSquawk] FED'S WARSH: PRICE STABILITY REMAINS A CLEAR COMMITMENT OF THE FEDERAL RESERVE, BUT EACH MEETING MUST BE ASSESSED ON ITS OWN MERITS
+- 10/16 12:47 [FirstSquawk] FED'S WARSH: GLOBAL ECONOMY'S BIGGEST UPSIDE STORY IS THE ACCELERATION IN INVESTMENT ACTIVITY
+- 10/16 12:47 [FirstSquawk] FED'S WARSH: POSITIVE POLICY DECISIONS HAVE HELPED FUEL THE PICKUP IN INVESTMENT
+- 10/16 12:47 [FirstSquawk] FED CHAIR WARSH: ECONOMIC AND POLICY DEVELOPMENTS ABROAD INFLUENCE THE US, JUST AS AMERICAN POLICIES HAVE CONSEQUENCES FOR THE REST OF THE WORLD – IMF SESSION IN BANGKOK
+- 10/16 12:47 [FirstSquawk] FED'S WARSH: OCTOBER AND DECEMBER POLICY MEETINGS WILL PROVIDE OPPORTUNITIES TO EVALUATE CONDITIONS AND DETERMINE THE APPROPRIATE COURSE OF ACTION
+- 10/16 12:47 [FirstSquawk] FED'S WARSH: STRUCTURAL ECONOMIC EXPANSION AND STRONGER INVESTMENT ARE CURRENTLY SUPPORTING US GROWTH
+- 10/16 12:48 [FirstSquawk] Federal Reserve to Convene AI Hearing in San Francisco Bay Area on November 16, Warsh Says
+- 10/16 12:50 [FirstSquawk] Fed’s Warsh: Federal Reserve Task Forces Aim to Generate New Insights to Assist FOMC Decisions
+- 10/16 12:50 [FirstSquawk] Fed’s Warsh: US Technology Investment Flows Through Private Markets, While the Fed Does Not Take Sides on Who Is Right or Wrong
+- 10/16 12:51 [FirstSquawk] Fed’s Warsh Emphasizes the Need to Evaluate Financial Stability Risks
+- 10/16 12:51 [FirstSquawk] Fed’s Warsh: Policymakers Should Consider Whether They Can Mitigate Downside Tail Risks
+- 10/16 12:53 [FirstSquawk] Warsh: I Would Have Been Cautious About Introducing New Ideas Without Having Worked at the Fed Before
+- 10/16 12:54 [FirstSquawk] Fed’s Warsh: Building the Right Culture Is Key to Harnessing the Fed’s Talent
+- 10/16 12:55 [FirstSquawk] Fed’s Warsh: Only 25% of Staff Work on Monetary Policy
+- 10/16 12:56 [FirstSquawk] Fed’s Warsh: The Chair Must Be Responsible for All Parts of the Central Bank
+- 10/16 12:56 [FirstSquawk] Fed’s Warsh: Maintaining and Enhancing Institutional Credibility Is Essential to the Fed’s Influence
+- 10/16 12:57 [FirstSquawk] Warsh: I’m Not Concerned With My Legacy; My Focus Is on Making the Right Policy Choices
+- 10/16 13:01 [FirstSquawk] Fed’s Warsh Praises Volcker, Greenspan and Bernanke for Enhancing the Central Bank’s Credibility
+- 10/16 13:02 [FirstSquawk] Warsh: As the World Changes at an Unprecedented Pace, We Must Anticipate the Implications for the US
+- 10/16 13:02 [FirstSquawk] Warsh Says the World Economy Has Proved More Resilient Than He Would Have Predicted Five Months Earlier
+- 10/16 13:03 [FirstSquawk] Warsh Says Many G20 Member Economies Have Proved Resilient Despite Economic Shocks
+- 10/16 13:03 [FirstSquawk] Warsh Emphasizes That Inflation Is a Widespread Global Issue, Not Exclusive to the United States
+- 10/16 13:04 [FirstSquawk] Fed’s Warsh: Coordinated Monetary Policy Tightening Across Much of the World Means No Economy Can Escape the Impact
+- 10/16 13:05 [FirstSquawk] Fed’s Warsh: I Have Heard Strong Commitment to Price Stability From Colleagues Worldwide
+- 10/16 13:07 [FirstSquawk] Warsh Says Price Stability Is a Shared Global Goal That Provides Businesses and Households With Confidence to Support Continued Growth
+- 10/16 13:07 [FirstSquawk] Warsh Says He Favors Framework-Based Approaches Rather Than Mean-Reverting Models
+- 10/16 13:08 [FirstSquawk] Warsh Says the US Will Come Out Stronger, With a Resilient Economy Capable of Leading Globally
+- 10/16 13:26 [FirstSquawk] Indonesia Stock Exchange to Communicate With MSCI Soon and Take Its Warning Seriously
+- 10/16 13:27 [FirstSquawk] BoC Governor: The Longer Energy Prices Stay Elevated, the Harder It Becomes to Ignore Their Impact, Even Without a Rate Hike
+- 10/16 13:33 [FirstSquawk] Gold Attracts Buyers as Dollar Slides to Two-Week Low After Warsh’s Comments
+- 10/16 13:45 [FirstSquawk] Georgieva Warns That AI Risks May Exceed Its Benefits in the Absence of Safeguards
+- 10/16 13:54 [financialjuice] Venezuela economic adviser Ortega: centerview partners still acts as financial adviser for country’s debt restructuring
+- 10/16 13:54 [financialjuice] Venezuela economic adviser Ortega: we are very satisfied with them, held talks yesterday
+- 10/16 13:56 [FirstSquawk] Russian Forces Target Logistics Facility in Ukraine’s Odesa Region, Interfax Reports Citing Defence Ministry
+- 10/16 13:56 [FirstSquawk] Georgieva: Countries Fueling AI Growth Must Collaborate With Businesses to Put Guardrails in Place
+- 10/16 14:00 [FirstSquawk] Anthropic’s Clark Says AI Testing and Information Sharing Should Not Rely Solely on Voluntary Efforts
+- 10/16 14:07 [FirstSquawk] Court to Fast-Track Hearing of Substantive Appeal Concerning Vodacom’s Safaricom Acquisition
+- 10/16 14:11 [financialjuice] Fed's Warsh: skeptical about predicting actions in meetings for rest of 2026
+- 10/16 14:12 [FirstSquawk] UK Government Courted UBS in Bid to Bring Its Headquarters to London, FT Says
+- 10/16 14:19 [FirstSquawk] Russia’s Vladimir Region Governor Says Ukraine Tried to Strike Heating Infrastructure With Drones
+- 10/16 14:22 [FirstSquawk] Australia’s Benchmark S&P/ASX 200 Gains 1.0% at the Close, Ending at 8,806.70
+- 10/16 14:25 [financialjuice] Le Pen may face Glucksmann in French presidential runoff - Poll
+- 10/16 14:28 [FirstSquawk] Trump Condemns Ukraine’s Strikes on Russian Refineries as a “Disgrace” in Rebuke to Zelensky
+- 10/16 14:33 [FirstSquawk] Citigroup Revises Rio Tinto Price Target Lower to 6,700p From 7,000p
+- 10/16 14:34 [FirstSquawk] Schneider Electric Q3 Earnings: - Organic Rev: +16.9% (est +13.8%), Tops Highest Estimate - Rev: €11.46B (est €11.1B) - Energy Management Organic Revenue: +18.8% (est +14.2%) - Raises 2026 Targets - Data Centre & Networks Demand Up 'Triple-…
+- 10/16 14:38 [FirstSquawk] Senior Minister: Indonesian Finance Minister, Central Bank Governor and Officials to Hold Meeting Following MSCI Announcement
+- 10/16 14:45 [FirstSquawk] Indonesia’s Senior Economic Minister: MSCI’s Decision Not to Discuss Standalone Status at This Week’s Bangkok Meeting Raises a Big Question Mark
+- 10/16 14:49 [financialjuice] Taiwan to curb AI chip exports to china as part of US deal.
