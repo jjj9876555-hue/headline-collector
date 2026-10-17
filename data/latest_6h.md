@@ -7,42 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-18 06:27 JST／対象: 10/18 00:27 〜 10/18 06:27 JST（時刻はすべて日本時間）
+生成: 2026-10-18 08:20 JST／対象: 10/18 02:20 〜 10/18 08:20 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 25 | 10/18 01:01 | 10/18 03:41 | ⚠ 53分（02:47→03:40） |
-| financialjuice | 9 | 10/18 00:34 | 10/18 06:25 | ⚠ 210分（01:38→05:09） |
+| FirstSquawk | 9 | 10/18 02:27 | 10/18 03:41 | ⚠ 53分（02:47→03:40） |
+| financialjuice | 8 | 10/18 05:09 | 10/18 08:11 | ⚠ 60分（05:09→06:09） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 32 行（統合前 34 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 17 行（統合前 17 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/18 00:34 [financialjuice/FirstSquawk] Bank of England: Governor Bailey among delegates who walked out of IMF meeting in protest at Russian delegate
-- 10/18 00:37 [financialjuice] UKMTO reports incident 140nm southeast of Al Mukalla, Yemen UKMTO: lng tanker reports approach by small skiff with seven onboard UKMTO: Skiff fired two shots at tanker, armed security team fired two warning shots forcing small craft to chan…
-- 10/18 00:42 [financialjuice/FirstSquawk] One member of Popular Mobilization Forces killed, four wounded in blast at headquarters: security and medical sources
-- 10/18 01:01 [FirstSquawk] Israeli drone strike on Tel al-Hawa neighborhood, southwest of Gaza City
-- 10/18 01:01 [FirstSquawk] Iraqi security source: Several members of the Popular Mobilization Forces injured following an explosion that occurred inside a PMF headquarters east of Baghdad
-- 10/18 01:02 [FirstSquawk] UKMTO reports incident 140nm southeast of Al Mukalla, Yemen
-- 10/18 01:02 [FirstSquawk] UKMTO: lng tanker reports approach by small skiff with seven onboard
-- 10/18 01:02 [FirstSquawk] UKMTO: Skiff fired two shots at tanker, armed security team fired two warning shots forcing small craft to change course
-- 10/18 01:05 [financialjuice] French PM Lecornu: no one can enforce political agenda through violence
-- 10/18 01:38 [financialjuice] Stampede-like incident at Durga Puja pandal in North Kolkata in India leaves 17 dead and several injured: NDTV
-- 10/18 01:54 [FirstSquawk] Pakistani media, citing a security source: The army responded to gunfire from Afghan Taliban forces on the border.
-- 10/18 01:54 [FirstSquawk] Pakistani media, citing a security source: The army targeted an Afghan site and destroyed a Taliban camp.
-- 10/18 01:54 [FirstSquawk] French Prime Minister: We will not allow any political agenda to be imposed through violence in the country
-- 10/18 01:54 [FirstSquawk] AFP, citing the Romanian Ministry of Defense: We shot down two drones that violated our airspace over our territorial waters in the Black Sea.
-- 10/18 01:55 [FirstSquawk] Yemeni Foreign Minister: The Tehran regime is a party to the war on Yemenis, not a mediator.
-- 10/18 01:55 [FirstSquawk] US Secretary of Defense: We are ready to deter any attempt to change the status quo in the South China Sea and the Pacific Ocean
-- 10/18 01:55 [FirstSquawk] Hegseth: China is carrying out its largest military buildup in the Pacific.
-- 10/18 01:55 [FirstSquawk] Iraqi government statement: Al-Zaidi orders the formation of an investigation committee regarding the explosion of an ammunition depot inside a Popular Mobilization Forces headquarters in Baghdad
-- 10/18 01:56 [FirstSquawk] 53 airstrikes targeted Sana'a, Taiz, Ibb, Lahj, Sa'dah, and Amran in the past 24 hours
 - 10/18 02:27 [FirstSquawk] Palestinian Red Crescent: A Palestinian man was injured by Israeli occupation forces in the Wadi al-Hummus area, southeast of Bethlehem.
 - 10/18 02:28 [FirstSquawk] Russian Ministry of Defense: We shot down 30 Ukrainian drones today in various parts of the country and in the Black Sea.
 - 10/18 02:46 [FirstSquawk] Netanyahu's office criticizes a "smear campaign" targeting Israel in the wake of settler attacks.
@@ -56,3 +37,7 @@
 - 10/18 06:09 [financialjuice] Saudi civil defense: early warning alert issued for Riyadh, Abha and Khamis Mushait
 - 10/18 06:15 [financialjuice] Saudi civil defense: danger has passed in Riyadh
 - 10/18 06:25 [financialjuice] Saudi civil defense: danger has passed in the cities of Abha and Khamis Mushait
+- 10/18 06:56 [financialjuice] Saudi-led coalition: intercepts and destroys two ballistic missiles launched by Houthi toward Khamis Mushait
+- 10/18 07:43 [financialjuice] Saudi-led coalition: drone intercepted and destroyed in Riyadh region
+- 10/18 08:08 [financialjuice] US Secretary of State Rubio: no one at the White House directed slowdown of speed
+- 10/18 08:11 [financialjuice] US Secretary of State Rubio: disturbed by images showing settler violence in West Bank

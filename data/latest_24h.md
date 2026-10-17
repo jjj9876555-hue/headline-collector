@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-18 06:27 JST／対象: 10/17 06:27 〜 10/18 06:27 JST（時刻はすべて日本時間）
+生成: 2026-10-18 08:20 JST／対象: 10/17 08:20 〜 10/18 08:20 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 10/17 18:41 | 10/17 18:43 | 2分（18:41→18:43） |
 | FirstSquawk | 171 | 10/17 09:03 | 10/18 03:41 | ⚠ 252分（14:35→18:47） |
-| financialjuice | 20 | 10/17 06:47 | 10/18 06:25 | ⚠ 837分（10:37→00:34） |
+| financialjuice | 19 | 10/17 08:50 | 10/18 08:11 | ⚠ 837分（10:37→00:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 191 行（統合前 193 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 190 行（統合前 192 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/17 06:47 [financialjuice] UK foreign office: now advises only essential travel to Saudi Arabia
-- 10/17 06:56 [financialjuice] Anthropic quietly proposes its own AI safety bill to lawmakers - Politico
-- 10/17 07:44 [financialjuice] USDOT confirms it withdrew 2025 order barring new flights by Mexican airlines between Mexico City and Santa Lucia airports
-- 10/17 07:49 [financialjuice] Saudi civil defense issues warning on possible threat in Khamis Mushait and Abha
-- 10/17 07:52 [financialjuice] Saudi civil defense: danger has passed in Khamis Mushait and Abha
 - 10/17 08:50 [financialjuice] Saudi-led coalition: destroys two ballistic missile launchers in Yemen's Saada
 - 10/17 09:03 [FirstSquawk] As self-driving cars edge closer to everyday use, the next frontier for autonomous technology is taking shape: driverless trucks, the massive vehicles that dominate highways - WSJ
 - 10/17 09:04 [FirstSquawk] . Blue Owl’s leadership is pitching a comeback to employees, but the private-credit firm’s stock continues to show no meaningful movement - WSJ
@@ -215,3 +210,7 @@
 - 10/18 06:09 [financialjuice] Saudi civil defense: early warning alert issued for Riyadh, Abha and Khamis Mushait
 - 10/18 06:15 [financialjuice] Saudi civil defense: danger has passed in Riyadh
 - 10/18 06:25 [financialjuice] Saudi civil defense: danger has passed in the cities of Abha and Khamis Mushait
+- 10/18 06:56 [financialjuice] Saudi-led coalition: intercepts and destroys two ballistic missiles launched by Houthi toward Khamis Mushait
+- 10/18 07:43 [financialjuice] Saudi-led coalition: drone intercepted and destroyed in Riyadh region
+- 10/18 08:08 [financialjuice] US Secretary of State Rubio: no one at the White House directed slowdown of speed
+- 10/18 08:11 [financialjuice] US Secretary of State Rubio: disturbed by images showing settler violence in West Bank
