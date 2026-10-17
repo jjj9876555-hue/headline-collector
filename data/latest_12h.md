@@ -7,136 +7,24 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-17 10:44 JST／対象: 10/16 22:44 〜 10/17 10:44 JST（時刻はすべて日本時間）
+生成: 2026-10-17 15:14 JST／対象: 10/17 03:14 〜 10/17 15:14 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 25 | 10/16 22:49 | 10/17 02:53 | ⚠ 55分（23:59→00:55） |
-| FirstSquawk | 67 | 10/16 22:45 | 10/17 10:27 | ⚠ 241分（05:02→09:03） |
-| financialjuice | 93 | 10/16 22:46 | 10/17 10:37 | ⚠ 72分（00:46→01:58） |
+| DeItaone | 0 | - | - | - |
+| FirstSquawk | 93 | 10/17 03:17 | 10/17 14:35 | ⚠ 241分（05:02→09:03） |
+| financialjuice | 47 | 10/17 03:32 | 10/17 10:37 | ⚠ 57分（07:52→08:50） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 178 行（統合前 186 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 138 行（統合前 141 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/16 22:45 [FirstSquawk] NOVAK: THE DIESEL DEAL BENEFITS ALL CONSUMERS OF THE FUEL
-- 10/16 22:46 [financialjuice] CXMT preliminary January- September net income 131b-132.5b yuan.
-- 10/16 22:48 [FirstSquawk] CXMT PRELIM 1Q-3Q NET INCOME UP TO 132.5B YUAN VS LOSS YEAR AGO
-- 10/16 22:49 [DeItaone/FirstSquawk] PUTIN'S ENVOY DMITRIEV: RUSSIA, US DISCUSS PROJECTS IN ARCTIC, LNG
-- 10/16 22:53 [FirstSquawk] NASDAQ 100 FALLS 1% TO SESSION LOW
-- 10/16 23:00 [FirstSquawk] LUFTHANSA EXPLORING SALE OF SOFTWARE ASSETS IN EUR1 BLN DEAL – FT
-- 10/16 23:02 [FirstSquawk] SAUDI-LED COALITION SAYS IT INTERCEPTED AND DESTROYED BALLISTIC MISSILE LAUNCHED TOWARDS YANBU
-- 10/16 23:11 [FirstSquawk] US AUTHORIZES TRANSACTIONS ON EARTHQUAKE RELIEF IN VENEZUELA
-- 10/16 23:12 [DeItaone] ANTHROPIC HAS OPENED A LINE OF COMMUNICATION WITH NEW YORK CITY COMPTROLLER MARK LEVINE, FOLLOWING HIS LETTER EARLIER THIS WEEK
-- 10/16 23:13 [DeItaone] ANTHROPIC FACES CALL TO DELAY MASSIVE IPO OVER AI SAFETY CONCERNS Anthropic has opened discussions with NYC Comptroller Mark Levine after he urged the company to postpone its planned IPO until it addresses AI safety and governance risks. Le…
-- 10/16 23:14 [DeItaone] US DEPT OF ENERGY SOLICITING AN EXCHANGE OF UP TO 17,000,000 BARRELS OF CRUDE OIL FROM SPOR
-- 10/16 23:15 [FirstSquawk] NATWEST IS NO LONGER A PRIMARY DEALER, ACCORDING TO NEW YORK FED.
-- 10/16 23:20 [FirstSquawk] MODERNA FALLS 12%; BIGGEST DECLINER IN S&P 500 INTRADAY
-- 10/16 23:26 [FirstSquawk] TWO SIGMA HALTS REAL ESTATE UNIT FUNDRAISING AND CUTS STAFF
-- 10/16 23:27 [FirstSquawk] US OFFERS AS MUCH AS 17M BBL CRUDE FROM STRATEGIC RESERVE
-- 10/16 23:34 [financialjuice] Putin's Envoy Dmitriev: Russia and the US discuss projects in the Arctic and LNG.
-- 10/16 23:34 [financialjuice] The US offers as much as 17m bbl of Crude from the Strategic Reserve.
-- 10/16 23:34 [financialjuice] Putin's Envoy Dmitriev: We will announce soon about other initiatives with us apart from the diesel deal.
-- 10/16 23:38 [DeItaone] *RUSSIA'S DMITRIEV: MORE US INITIATIVES TO BE ANNOUNCED SOON:IFX
-- 10/16 23:40 [financialjuice] Germany’s Chancellor Merz: The European budget must be cut further. Additional European Council meetings are expected in November.
-- 10/16 23:40 [financialjuice] Germany’s Chancellor Merz: I hope a budget agreement can be reached before the end of this year, though I'm not sure if that will happen.
-- 10/16 23:41 [FirstSquawk] GERMANY'S MERZ: HOPE BUDGET AGREEMENT CAN BE REACHED BEFORE END OF THIS YEAR, THOUGH I’M NOT SURE IF THAT WILL HAPPEN
-- 10/16 23:48 [FirstSquawk] GERMANY'S MERZ ON UKRAINE: IT IS UNDERSTANDABLE IF UKRAINE ATTACKS TARGETS IN RUSSIA THAT HINDER WARFARE – COMMUNICATIONS AND ENERGY INFRASTRUCTURE
-- 10/16 23:54 [FirstSquawk] TESLA SHARES GIVE UP OPENING GAINS
-- 10/16 23:59 [FirstSquawk] GERMANY'S AUTO ASSOCIATION VDA: BATTERY LOCALIZATION FOR CARS SHOULD NOT BE MANDATORY BEFORE 2031
-- 10/16 23:59 [DeItaone] $TSLA - MORGAN STANLEY TURNS MORE POSITIVE ON TESLA AHEAD OF Q3 EARNINGS Morgan Stanley analyst Andrew Percoco is becoming more constructive on Tesla, citing improving execution in Robotaxi and the core automotive business. Following Tesla'…
-- 10/17 00:05 [financialjuice] Italy and the EU Commission reach an agreement on a gas price cap law.
-- 10/17 00:07 [FirstSquawk] ITALY, EU COMMISSION REACH AGREEMENT ON GAS PRICE CAP LAW
-- 10/17 00:12 [financialjuice] Fear And Greed Index: 30/100 = Fear
-- 10/17 00:13 [financialjuice] Crypto Fear and Greed Index: 63/100 = Greed
-- 10/17 00:25 [FirstSquawk] APPLE FACES UK CMA LEGAL FIGHT OVER TAP TO PAY - FT
-- 10/17 00:25 [financialjuice] The CMA is to publish proposals for consultation on Apple next week - FT. $AAPL
-- 10/17 00:26 [financialjuice] Apple set for UK legal fight over iPhone tap-to-pay rules $AAPL
-- 10/17 00:34 [FirstSquawk] RUSSIA'S RYAZAN OIL REFINERY HAS HALTED OPERATIONS OF ONE OF ITS PRIMARY UNITS SINCE OCTOBER 15 DRONE ATTACK, TWO SOURCES SAY
-- 10/17 00:34 [financialjuice] Russia's Ryazan oil refinery has halted operations of one of its primary units since the October 15 drone attack - Sources.
-- 10/17 00:36 [financialjuice] Kremlin: Security barrier along border stretches 660 km with 450 km under Russian control
-- 10/17 00:37 [financialjuice] Kremlin: Putin spoke with Pope Leo XIV
-- 10/17 00:37 [financialjuice] Kremlin: Putin holds call with Pope Leo - Ifax
-- 10/17 00:39 [financialjuice] Centinela talks continue in effort to resolve Chile strike: union
-- 10/17 00:39 [financialjuice] Moody's ratings assigns B2 cfr to Summit Bidco, Inc.; outlook stable
-- 10/17 00:42 [FirstSquawk] US EXPORTERS SELL 558,000 TONS OF SOYBEANS TO CHINA; 236,000 TONS TO UNKNOWN BUYERS
-- 10/17 00:46 [financialjuice] Lawmakers introduce a bill to block trump’s Russia diesel deal.
-- 10/17 00:49 [FirstSquawk/DeItaone] LAWMAKERS INTRODUCE BILL TO BLOCK TRUMP’S RUSSIA DIESEL DEAL
-- 10/17 00:49 [FirstSquawk] DIESEL BILL SPONSORS INCLUDE ONE REPUBLICAN, MANY DEMOCRATS
-- 10/17 00:51 [FirstSquawk] OIL PRICES RISE TO SESSION HIGHS, BRENT TRADES NEAR $107/BBL
-- 10/17 00:59 [FirstSquawk] SCOTTISH GOVT SET TO DROP OPPOSITION TO NEW OIL AND GAS FIELDS - POLITICO
-- 10/17 01:12 [DeItaone] Michael Dell Says in Interview That Just-in-Time Manufacturing Provides a Cushion if AI Boom Collapses Dell Says He Expects Memory Crunch to Get Worse
-- 10/17 01:14 [DeItaone] MICHAEL DELL REVEALS HOW HIS COMPANY COULD SURVIVE AN AI BUST Dell Technologies ($DELL ) is positioning itself to withstand a potential AI downturn through just-in-time manufacturing and a negative cash conversion cycle. Unlike heavily inde…
-- 10/17 01:17 [FirstSquawk] US RAISES MASTERCARD, CITI CHINA MARKET ACCESS IN TALKS: CNBC
-- 10/17 01:17 [FirstSquawk] NATO WEIGHS RESPONSE TO RECENT BLACK SEA DRONE ATTACKS ON SHIPS - WSJ
-- 10/17 01:24 [FirstSquawk] DHL GROUP Q3 REVENUE EUR22.6B, UP MORE THAN 12%
-- 10/17 01:31 [FirstSquawk] OIL PRICES EXTEND GAINS, US CRUDE RISES ABOVE $100 A BARREL
-- 10/17 01:35 [DeItaone] US CRUDE FUTURES RISE OVER $2 TO CROSS $100 PER BBL ON PERSISTENT MIDDLE EAST SUPPLY CONCERNS, RUSSIAN REFINERY OUTAGE
-- 10/17 01:38 [FirstSquawk] BRENT CRUDE FUTURES RISE OVER $3 TO SESSION HIGH OF $109.58 PER BARREL
-- 10/17 01:51 [FirstSquawk] SAUDI CIVIL DEFENCE: “THE DANGER HAS PASSED IN KHAMIS MUSHAIT GOVERNORATE.”
-- 10/17 01:56 [FirstSquawk] FRANCE'S MACRON: EU NEEDS TO EXTEND DEAL TO PLASTICS, CHEMICALS, FERROALLOYS
-- 10/17 01:58 [financialjuice] EU's Costa: There is total unity among EU member states on trade strategy.
-- 10/17 01:59 [financialjuice] EU's Costa: We need to finish negotiations on the EU budget by the end of 2026.
-- 10/17 01:59 [FirstSquawk] TRUMP ON STARSHIELD: DIDN'T SLOW IT DOWN AT ALL
-- 10/17 02:00 [DeItaone] TRUMP: VERY HAPPY FOR ELON ON TESLA'S ROADSTER
-- 10/17 02:00 [FirstSquawk/DeItaone] TRUMP: OIL PRICES GOING TO COME DOWN VERY SOON
-- 10/17 02:00 [financialjuice] Trump on Inflation: Oil prices are going to come down soon.
-- 10/17 02:00 [FirstSquawk] US CRUDE FUTURES RISE OVER $3 TO SESSION HIGH OF $101.02, MOST SINCE SEPT 21
-- 10/17 02:01 [financialjuice] EU's Costa: Russia's actions point towards escalation.
-- 10/17 02:01 [financialjuice] US BAKER HUGHES TOTAL RIG COUNT ACTUAL 603 (FORECAST -, PREVIOUS 603) $MACRO
-- 10/17 02:01 [financialjuice] US BAKER HUGHES OIL RIG COUNT ACTUAL 459 (FORECAST -, PREVIOUS 462) $MACRO
-- 10/17 02:02 [FirstSquawk] US OIL RIG COUNT DOWN 3 TO 459 , BAKER HUGHES SAYS
-- 10/17 02:02 [FirstSquawk] US TOTAL RIG COUNT 603 , BAKER HUGHES SAYS
-- 10/17 02:03 [DeItaone] TRUMP SAYS HE DOESN’T KNOW WHO GAVE ORDER ON STARSHIELD
-- 10/17 02:03 [DeItaone] TRUMP ON LIMIT TO UKRAINE'S ACCESS TO STARSHIELD SYSTEM: IT WASN'T US
-- 10/17 02:04 [DeItaone] TRUMP ADMINISTRATION ISSUES RESTRICTIONS BARRING ANY UNAUTHORIZED DRONES ALONG U.S.-MEXICO BORDER
-- 10/17 02:06 [DeItaone] TRUMP: TOLD HER SHE SHOULD RECONSIDER ROLE
-- 10/17 02:06 [DeItaone] *NASDAQ 100 INDEX EXTENDS DECLINE TO 2%
-- 10/17 02:07 [financialjuice] EC Pres. von der Leyen: There is remarkable unity among EU leaders on China.
-- 10/17 02:09 [financialjuice] EC Pres. von der Leyen: China trade imbalance is structural and unsustainable.
-- 10/17 02:09 [DeItaone] TRUMP ON UKRAINE'S STARLINK ACCESS: I DON’T THINK IT WAS ME AND I DON’T THINK IT WAS ELON
-- 10/17 02:09 [financialjuice] Trump: Saudi Arabia are happy to get support from Israel and the US.
-- 10/17 02:10 [financialjuice] France’s President Macron: Trump diesel deal is not useful, creates doubts and defiance.
-- 10/17 02:10 [FirstSquawk] TRUMP: ISRAEL HAS BEEN HELPFUL TO SAUDI ARABIA
-- 10/17 02:10 [financialjuice] EC Pres. von der Leyen: We will work on new instruments for China imbalance.
-- 10/17 02:11 [financialjuice] France’s President Macron: Russia diesel will not solve the global market problem, and sends a negative message.
-- 10/17 02:11 [DeItaone] MACRON: TRUMP DIESEL DEAL NOT USEFUL, CREATES DOUBTS AND DEFIANCE
-- 10/17 02:12 [DeItaone] TRUMP: KATIE ZACHARIA WILL STAY IN SOME FORM, BUT MAYBE ANOTHER FORM
-- 10/17 02:13 [financialjuice] France’s President Macron: I believe it is possible to get the EU budget deal by the year-end.
-- 10/17 02:14 [DeItaone/financialjuice] TRUMP: WILL GET A DEAL ON NUCLEAR ARMS WITH RUSSIA AND CHINA
-- 10/17 02:14 [DeItaone] TRUMP: HAVE A GOOD RELATIONSHIP WITH ZELENSKIY
-- 10/17 02:15 [DeItaone] CBOE VOLATILITY INDEX JUMPS TO OVER FOUR-MONTH HIGH, LAST UP 4.97 POINTS AT 21.41
-- 10/17 02:17 [FirstSquawk] TRUMP: RUSSIA WILL RELEASE DIESEL OUT, IT'S A WORLD DEAL
-- 10/17 02:18 [financialjuice] Trump: The US economy has never been stronger.
-- 10/17 02:18 [FirstSquawk] US PRESIDENT TRUMP: WILL GET A DEAL ON NUCLEAR ARMS WITH RUSSIA AND CHINA
-- 10/17 02:18 [DeItaone] TRUMP: US ECONOMY HAS NEVER BEEN STRONGER
-- 10/17 02:19 [financialjuice] Trump ends remarks to reporters.
-- 10/17 02:22 [FirstSquawk] EU’S VON DER LEYEN: CHINA TRADE IMBALANCE IS STRUCTURALLY UNSUSTAINABLE
-- 10/17 02:22 [FirstSquawk] VON DER LEYEN: UKRAINE FUNDING GAP FOR 2027 IS 70 BILLION
-- 10/17 02:26 [financialjuice] EU's Costa: We need an EU long-term budget agreed by the end of the year.
-- 10/17 02:27 [FirstSquawk] WHITE HOUSE OFFICIAL TO FOX: KATIE ZACHARIA 'TRANSITIONING' OUT OF JOB AS PRESS SECRETARY
-- 10/17 02:27 [FirstSquawk] EU'S COSTA: NEED EU LONG-TERM BUDGET AGREED BY END OF THE YEAR
-- 10/17 02:32 [financialjuice] EC Pres. von der Leyen: It is important to have different trade instruments.
-- 10/17 02:32 [financialjuice] EC Pres. von der Leyen: We must be able to react fast to trade imbalances.
-- 10/17 02:42 [financialjuice] ❗ Iran: It's ready to help resolve Saudi-Yemen conflict
-- 10/17 02:42 [FirstSquawk] KATIE ZACHARIA IS OUT AFTER 5 DAYS AS WHITE HOUSE PRESS SECRETARY – NY TIMES
-- 10/17 02:44 [financialjuice] India Shipping Minister: On Oct 16, crude oil tanker MT ST 3, carrying 15 Indian seafarers, was struck by a projectile in the Strait of Hormuz
-- 10/17 02:46 [financialjuice] India Shipping Minister: Additionally, incident on Oct 14th involved tanker Yara J, carrying 9 seafarers, hit by a drone at Sulina anchorage, Romania.
-- 10/17 02:53 [DeItaone] KATIE ZACHARIA 'TRANSITIONING OUT' AS TRUMP PRESS SECRETARY: FOX
-- 10/17 02:54 [FirstSquawk] PERU'S COPPER OUTPUT DOWN 5.0% Y/Y IN AUGUST TO 230,676 MT
-- 10/17 03:01 [financialjuice] US fiscal 2026 deficit $1.992 trln vs fiscal 2025 deficit $1.775 trln; net customs receipts $173.22 bln vs $194.87 bln - Treasury
-- 10/17 03:02 [financialjuice] US Treasury: US FY 2026 gross interest on debt totaled record $1.36 trln, up $144 bln or 12% from prior year.
-- 10/17 03:06 [financialjuice] US Sept. budget deficit $26.9 bln
-- 10/17 03:06 [FirstSquawk] US FISCAL 2026 DEFICIT: $1.992T VS FISCAL 2025 DEFICIT $1.775T
-- 10/17 03:06 [FirstSquawk] MUSK APPROACHED TRUMP TO PROPOSE SLOWING DOWN STARLINK IN UKRAINE - TELEGRAPH
-- 10/17 03:09 [financialjuice/FirstSquawk] US: About 400 merchant ships went through Hormuz in past 7 days
-- 10/17 03:10 [financialjuice] CENTCOM: US has helped ship over 100m bbls through Hormuz in past 7 days
-- 10/17 03:11 [financialjuice] CENTCOM Commander: Due to the US naval blockade, Iran has no maritime exports or imports - Post on X
+- 10/17 03:17 [FirstSquawk] US: ABOUT 400 MERCHANT SHIPS WENT THROUGH HORMUZ IN PAST 7 DAYS
 - 10/17 03:17 [FirstSquawk] US HAS HELPED SHIP OVER 100M BBLS THROUGH HORMUZ IN PAST 7 DAYS
 - 10/17 03:31 [FirstSquawk] US CRUDE OIL FUTURES SETTLE AT $101.41/BBL, UP $3.44, 3.51%
 - 10/17 03:32 [financialjuice] NYMEX Nat Gas Nov. futures settle at $3.1160/MMBTU
@@ -202,3 +90,75 @@
 - 10/17 10:15 [FirstSquawk] Germany Moves to Release More Oil Stocks Following G7 Agreement
 - 10/17 10:27 [FirstSquawk] Al Arabiya Reports Airstrike on Houthi Forces West of Taiz in Yemen
 - 10/17 10:37 [financialjuice] Indian police detain 'cockroach' movement founder Abhijeet Dipke: Indian media
+- 10/17 11:15 [FirstSquawk] Canada Plans to Remove Labor Market Test for High-Wage Foreign Workers: CTV
+- 10/17 11:16 [FirstSquawk] US Government Extends Run of Annual Budget Deficits to 25 Consecutive Fiscal Years: CNBC
+- 10/17 11:22 [FirstSquawk] Vietnam Seeks to Achieve at Least 10% GDP Growth Next Year, PM Says
+- 10/17 11:23 [FirstSquawk] SoftBank Holds Talks to Acquire Allied Universal, US Security Services Provider, FT Reports
+- 10/17 11:23 [FirstSquawk] Three Men Jailed for 158 Years in Mexico Over Killings of Australian and American Surfers
+- 10/17 11:23 [FirstSquawk] Vietnam Sets Sights on at Least 10% Economic Growth in 2027, PM Le Minh Hung Says
+- 10/17 11:24 [FirstSquawk] Iran’s Revolutionary Guards Report Tanker Fire Following Naval Mine Strike in Strait of Hormuz
+- 10/17 11:24 [FirstSquawk] Abhijeet Dipke, Founder of India’s ‘Cockroach’ Movement, Taken Into Preventive Custody - RTRS
+- 10/17 11:25 [FirstSquawk] Anthropic Proposes Double-Digit Yield to Blackstone in New Chip Financing Arrangement, FT Says
+- 10/17 11:25 [FirstSquawk] FT: Blackstone Funds Plan $9 Billion Investment in Debt Tied to Anthropic’s Chip Lease Payments
+- 10/17 11:27 [FirstSquawk] Trump Issues Executive Order Waiving Certain Sanctions, Restrictions and Duties Provided for Under the Graham Act
+- 10/17 11:28 [FirstSquawk] Moody’s Ratings Maintains Chicago’s Baa3 Issuer and GOULT Ratings With Stable Outlook
+- 10/17 11:28 [FirstSquawk] Saudi-Led Coalition Claims Destruction of Two Ballistic Missile Launchers in Yemen’s Saada Province
+- 10/17 11:30 [FirstSquawk] Saudi Authorities Alert Residents to Potential Danger in Khamis Mushait and Abha Saudi Arabia Lifts Safety Alert for Khamis Mushait and Abha After Danger Passes
+- 10/17 11:30 [FirstSquawk] US Transportation Department Reverses Ban on New Mexican Airline Flights Between Mexico City and Santa Lucia Airports
+- 10/17 11:43 [FirstSquawk] Trump Moves to Spare Russia From Further Sanctions Required by New Law, FT Reports
+- 10/17 11:44 [FirstSquawk] IDScan. net Reports Cloud Security Breach Spanning April 4 to September 2, 2026
+- 10/17 11:44 [FirstSquawk] IDScan. net Says Security Event Did Not Extend Beyond VeriScan Platform
+- 10/17 11:44 [FirstSquawk] IDScan. net Says Exposed Information May Include Names, Contact Details, DOBs and Identity Documents
+- 10/17 11:45 [FirstSquawk] Anthropic Takes AI Safety Bill Directly to Lawmakers in Quiet Lobbying Push, Politico Says
+- 10/17 11:46 [FirstSquawk] UK Advises Citizens to Make Only Essential Trips to Saudi Arabia, Foreign Office Says
+- 10/17 11:48 [FirstSquawk] Fitch Assigns ‘AA+’ Rating to State of Washington’s $345 Million GO Bonds; Outlook Negative
+- 10/17 11:48 [FirstSquawk] Fairfax’s Acquisition of IDBI Bank Unlikely to Affect Ratings, Fitch Says
+- 10/17 11:49 [FirstSquawk] North Korea Develops High-Speed Precision-Guided Torpedo Featuring AI-Based Target Detection, KCNA Says
+- 10/17 11:50 [FirstSquawk] Trump Waives Further Russia Sanctions Amid Rising Ukraine-US Tensions US President Donald Trump issued a broad waiver on October 16 covering sanctions under the Lindsey O. Graham Sanctioning Russia and Iran Act, exempting Russia from certai…
+- 10/17 11:51 [FirstSquawk] Trump Exempts Russia From Sanctions Set to Begin Under Law Signed Last Month, CNN Says
+- 10/17 11:52 [FirstSquawk] North Korea Reports Successful Torpedo Test After More Than 180 Propulsion Tests Over Five Years, KCNA Says
+- 10/17 11:53 [FirstSquawk] KCNA: North Korea Declares Torpedo Test Successful, Calls It a Significant Naval Development Milestone
+- 10/17 11:53 [FirstSquawk] North Korea Says October 15 Underwater Torpedo Test Verified Improvements to New Weapon System, KCNA Reports
+- 10/17 11:55 [FirstSquawk] Fitch Says Tight CEMAC Market Is Pushing Cameroon Toward More External Commercial Borrowing Amid Financing Pressures
+- 10/17 11:56 [FirstSquawk] Cameroon Faces Political Uncertainty Over Presidential Succession, Raising Transition Risks, Fitch Says
+- 10/17 11:58 [FirstSquawk] Dr. Phone Fix Announces Amendment to Convertible Debenture Interest Conversion Conditions
+- 10/17 11:58 [FirstSquawk] Morningstar DBRS Keeps Italy’s Credit Rating Unchanged at A (Low), With Stable Trend
+- 10/17 12:01 [FirstSquawk] Google Partner NovaCore Labs Joins AIBotics in Completing Asset Acquisition to Expand AI and Drone Capabilities in Jamaica
+- 10/17 12:02 [FirstSquawk] FAA and Air Traffic Controllers Agree to 2.8% Pay Increase, According to WSJ
+- 10/17 12:05 [FirstSquawk] Mistaken M9.9 Earthquake Alert Canceled in Japan After Causing Transit Disruptions
+- 10/17 12:05 [FirstSquawk] BOJ Governor Ueda Says Recent Japan Data Have Generally Tracked Expectations Since September
+- 10/17 12:09 [FirstSquawk] US Authorities Remove Curbs on New Mexican Airline Flights to the US From Two Capital Airports
+- 10/17 12:13 [FirstSquawk] FDA Clears Alcon’s Brytly Redness Reliever Drops for Up to 12 Hours of Brighter-Looking Eyes
+- 10/17 12:15 [FirstSquawk] Moody’s Sees Egypt Maintaining Fiscal Discipline Beyond Current IMF Programme, Due to End in December 2026
+- 10/17 12:19 [FirstSquawk] Moody’s: Egypt’s Exchange Rate Flexibility and Tighter Monetary Policy Have Improved Its Ability to Absorb Shocks
+- 10/17 12:24 [FirstSquawk] Boeing Sales Chief McMullen to Step Down in December as Ryan Weir Takes Over
+- 10/17 12:31 [FirstSquawk] Costa Rica’s Grynspan Emerges as Frontrunner in Race for UN Secretary-General, RTRS Say
+- 10/17 12:32 [FirstSquawk] Fitch Says Ethiopia’s Continued External Debt Defaults Underpin Its ‘RD’ Rating
+- 10/17 12:33 [FirstSquawk] Fed’s Warsh: My Focus Is on Sound Policy Decisions, Not Legacy
+- 10/17 12:36 [FirstSquawk] Mitsubishi Electric to Sell 50% Stake in Automotive Equipment Unit to Hon Hai
+- 10/17 12:37 [FirstSquawk] Fed’s Warsh Pledges Balanced Focus Across the Central Bank’s Work in His Next 100 Days
+- 10/17 12:40 [FirstSquawk] Fed’s Warsh: Central Bank’s Influence Depends on Institutional Credibility, Which Must Be Reinforced
+- 10/17 12:40 [FirstSquawk] Wall Street AI Stocks Slide Amid Growing Debt Fears
+- 10/17 12:43 [FirstSquawk] Fed’s Warsh: The Chair Should Head All Functions of the Central Bank
+- 10/17 12:45 [FirstSquawk] Fed’s Warsh: 75% of Staff Focus on Areas Outside Monetary Policy
+- 10/17 12:46 [FirstSquawk] New Zealand Dollar Defies Strong US Inflation Data as Dollar Weakens on Fed Pause Bets
+- 10/17 12:49 [FirstSquawk] RBC Says Canada’s Energy-Led Strength Has Yet to Translate Into Significant Core Inflation Pressure
+- 10/17 12:51 [FirstSquawk] Taiwan Dollar Under Pressure From Foreign Fund Outflows, OCBC Warns
+- 10/17 12:51 [FirstSquawk] FAA Deal Secures 2.8% Pay Increase for US Air Traffic Controllers
+- 10/17 12:56 [FirstSquawk] Gold Slumps as US Yields Take Center Stage, Overshadowing Waning October Fed Hike Bets
+- 10/17 13:00 [FirstSquawk] Strong Earnings at BOK Financial Contrast With Weak Stock Performance
+- 10/17 13:02 [FirstSquawk] Fed’s Warsh: Without My Earlier Fed Experience, I’d Be Reluctant to Put Forward New Ideas
+- 10/17 13:08 [FirstSquawk] WSJ: Iran Provides Houthis With Targeting Data and Intelligence for Attacks on Saudi Arabia
+- 10/17 13:11 [FirstSquawk] Trump Cites South Korean Auto Parts Maker Hyundai Transys’ Georgia Investment Plan at Campaign Rally, Yonhap Reports
+- 10/17 13:15 [FirstSquawk] EU Preferential Treatment for EVs to Exclude Japanese Models Under France-Germany Agreement
+- 10/17 13:19 [FirstSquawk] Japan’s Yamato Transport Reports Leak Affecting 5.31 Million Customer Records
+- 10/17 13:23 [FirstSquawk] Japan’s Okinawa Prefecture Accepts U.S. Osprey Deployment Following Policy Reversal
+- 10/17 13:24 [FirstSquawk] Hong Kong Seeks to Strengthen Its Position in Global Gold Trade by Differentiating From London - SCMP
+- 10/17 13:29 [FirstSquawk] Subdued Growth Prompts Foreign Banks to Reduce Their Branch Networks in China - SCMP
+- 10/17 13:49 [FirstSquawk] Paraguay’s Tech Minister Says Taiwan Relations Are Non-Negotiable Despite Beijing’s Sanctions
+- 10/17 13:50 [FirstSquawk] Reuters: Delegates Walk Out of IMF Steering Committee Meeting in Bangkok as Russian Official Speaks
+- 10/17 13:50 [FirstSquawk] Mongolia Contributes $1.3 Million to World Bank Fund Supporting the Poorest Countries
+- 10/17 14:01 [FirstSquawk] US university offers cut-price UK degree for international students - FT
+- 10/17 14:13 [FirstSquawk] Houthis encircle new target in conflict with Saudi-backed forces- FT
+- 10/17 14:24 [FirstSquawk] HMRC claws back nearly £500mn in underpaid capital gains- FT
+- 10/17 14:35 [FirstSquawk] UK dividend payments jump 14% in a year- FT
