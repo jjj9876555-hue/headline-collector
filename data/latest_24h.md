@@ -7,74 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-17 22:58 JST／対象: 10/16 22:58 〜 10/17 22:58 JST（時刻はすべて日本時間）
+生成: 2026-10-18 01:58 JST／対象: 10/17 01:58 〜 10/18 01:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 26 | 10/16 23:12 | 10/17 18:43 | ⚠ 947分（02:53→18:41） |
-| FirstSquawk | 193 | 10/16 23:00 | 10/17 22:28 | ⚠ 252分（14:35→18:47） |
-| financialjuice | 92 | 10/16 23:34 | 10/17 10:37 | ⚠ 72分（00:46→01:58） |
+| DeItaone | 17 | 10/17 02:00 | 10/17 18:43 | ⚠ 947分（02:53→18:41） |
+| FirstSquawk | 192 | 10/17 01:59 | 10/18 01:56 | ⚠ 252分（14:35→18:47） |
+| financialjuice | 80 | 10/17 01:58 | 10/18 01:38 | ⚠ 837分（10:37→00:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 305 行（統合前 312 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 282 行（統合前 290 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/16 23:00 [FirstSquawk] LUFTHANSA EXPLORING SALE OF SOFTWARE ASSETS IN EUR1 BLN DEAL – FT
-- 10/16 23:02 [FirstSquawk] SAUDI-LED COALITION SAYS IT INTERCEPTED AND DESTROYED BALLISTIC MISSILE LAUNCHED TOWARDS YANBU
-- 10/16 23:11 [FirstSquawk] US AUTHORIZES TRANSACTIONS ON EARTHQUAKE RELIEF IN VENEZUELA
-- 10/16 23:12 [DeItaone] ANTHROPIC HAS OPENED A LINE OF COMMUNICATION WITH NEW YORK CITY COMPTROLLER MARK LEVINE, FOLLOWING HIS LETTER EARLIER THIS WEEK
-- 10/16 23:13 [DeItaone] ANTHROPIC FACES CALL TO DELAY MASSIVE IPO OVER AI SAFETY CONCERNS Anthropic has opened discussions with NYC Comptroller Mark Levine after he urged the company to postpone its planned IPO until it addresses AI safety and governance risks. Le…
-- 10/16 23:14 [DeItaone] US DEPT OF ENERGY SOLICITING AN EXCHANGE OF UP TO 17,000,000 BARRELS OF CRUDE OIL FROM SPOR
-- 10/16 23:15 [FirstSquawk] NATWEST IS NO LONGER A PRIMARY DEALER, ACCORDING TO NEW YORK FED.
-- 10/16 23:20 [FirstSquawk] MODERNA FALLS 12%; BIGGEST DECLINER IN S&P 500 INTRADAY
-- 10/16 23:26 [FirstSquawk] TWO SIGMA HALTS REAL ESTATE UNIT FUNDRAISING AND CUTS STAFF
-- 10/16 23:27 [FirstSquawk] US OFFERS AS MUCH AS 17M BBL CRUDE FROM STRATEGIC RESERVE
-- 10/16 23:34 [financialjuice] Putin's Envoy Dmitriev: Russia and the US discuss projects in the Arctic and LNG.
-- 10/16 23:34 [financialjuice] The US offers as much as 17m bbl of Crude from the Strategic Reserve.
-- 10/16 23:34 [financialjuice] Putin's Envoy Dmitriev: We will announce soon about other initiatives with us apart from the diesel deal.
-- 10/16 23:38 [DeItaone] *RUSSIA'S DMITRIEV: MORE US INITIATIVES TO BE ANNOUNCED SOON:IFX
-- 10/16 23:40 [financialjuice] Germany’s Chancellor Merz: The European budget must be cut further. Additional European Council meetings are expected in November.
-- 10/16 23:40 [financialjuice] Germany’s Chancellor Merz: I hope a budget agreement can be reached before the end of this year, though I'm not sure if that will happen.
-- 10/16 23:41 [FirstSquawk] GERMANY'S MERZ: HOPE BUDGET AGREEMENT CAN BE REACHED BEFORE END OF THIS YEAR, THOUGH I’M NOT SURE IF THAT WILL HAPPEN
-- 10/16 23:48 [FirstSquawk] GERMANY'S MERZ ON UKRAINE: IT IS UNDERSTANDABLE IF UKRAINE ATTACKS TARGETS IN RUSSIA THAT HINDER WARFARE – COMMUNICATIONS AND ENERGY INFRASTRUCTURE
-- 10/16 23:54 [FirstSquawk] TESLA SHARES GIVE UP OPENING GAINS
-- 10/16 23:59 [FirstSquawk] GERMANY'S AUTO ASSOCIATION VDA: BATTERY LOCALIZATION FOR CARS SHOULD NOT BE MANDATORY BEFORE 2031
-- 10/16 23:59 [DeItaone] $TSLA - MORGAN STANLEY TURNS MORE POSITIVE ON TESLA AHEAD OF Q3 EARNINGS Morgan Stanley analyst Andrew Percoco is becoming more constructive on Tesla, citing improving execution in Robotaxi and the core automotive business. Following Tesla'…
-- 10/17 00:05 [financialjuice] Italy and the EU Commission reach an agreement on a gas price cap law.
-- 10/17 00:07 [FirstSquawk] ITALY, EU COMMISSION REACH AGREEMENT ON GAS PRICE CAP LAW
-- 10/17 00:12 [financialjuice] Fear And Greed Index: 30/100 = Fear
-- 10/17 00:13 [financialjuice] Crypto Fear and Greed Index: 63/100 = Greed
-- 10/17 00:25 [FirstSquawk] APPLE FACES UK CMA LEGAL FIGHT OVER TAP TO PAY - FT
-- 10/17 00:25 [financialjuice] The CMA is to publish proposals for consultation on Apple next week - FT. $AAPL
-- 10/17 00:26 [financialjuice] Apple set for UK legal fight over iPhone tap-to-pay rules $AAPL
-- 10/17 00:34 [FirstSquawk] RUSSIA'S RYAZAN OIL REFINERY HAS HALTED OPERATIONS OF ONE OF ITS PRIMARY UNITS SINCE OCTOBER 15 DRONE ATTACK, TWO SOURCES SAY
-- 10/17 00:34 [financialjuice] Russia's Ryazan oil refinery has halted operations of one of its primary units since the October 15 drone attack - Sources.
-- 10/17 00:36 [financialjuice] Kremlin: Security barrier along border stretches 660 km with 450 km under Russian control
-- 10/17 00:37 [financialjuice] Kremlin: Putin spoke with Pope Leo XIV
-- 10/17 00:37 [financialjuice] Kremlin: Putin holds call with Pope Leo - Ifax
-- 10/17 00:39 [financialjuice] Centinela talks continue in effort to resolve Chile strike: union
-- 10/17 00:39 [financialjuice] Moody's ratings assigns B2 cfr to Summit Bidco, Inc.; outlook stable
-- 10/17 00:42 [FirstSquawk] US EXPORTERS SELL 558,000 TONS OF SOYBEANS TO CHINA; 236,000 TONS TO UNKNOWN BUYERS
-- 10/17 00:46 [financialjuice] Lawmakers introduce a bill to block trump’s Russia diesel deal.
-- 10/17 00:49 [FirstSquawk/DeItaone] LAWMAKERS INTRODUCE BILL TO BLOCK TRUMP’S RUSSIA DIESEL DEAL
-- 10/17 00:49 [FirstSquawk] DIESEL BILL SPONSORS INCLUDE ONE REPUBLICAN, MANY DEMOCRATS
-- 10/17 00:51 [FirstSquawk] OIL PRICES RISE TO SESSION HIGHS, BRENT TRADES NEAR $107/BBL
-- 10/17 00:59 [FirstSquawk] SCOTTISH GOVT SET TO DROP OPPOSITION TO NEW OIL AND GAS FIELDS - POLITICO
-- 10/17 01:12 [DeItaone] Michael Dell Says in Interview That Just-in-Time Manufacturing Provides a Cushion if AI Boom Collapses Dell Says He Expects Memory Crunch to Get Worse
-- 10/17 01:14 [DeItaone] MICHAEL DELL REVEALS HOW HIS COMPANY COULD SURVIVE AN AI BUST Dell Technologies ($DELL ) is positioning itself to withstand a potential AI downturn through just-in-time manufacturing and a negative cash conversion cycle. Unlike heavily inde…
-- 10/17 01:17 [FirstSquawk] US RAISES MASTERCARD, CITI CHINA MARKET ACCESS IN TALKS: CNBC
-- 10/17 01:17 [FirstSquawk] NATO WEIGHS RESPONSE TO RECENT BLACK SEA DRONE ATTACKS ON SHIPS - WSJ
-- 10/17 01:24 [FirstSquawk] DHL GROUP Q3 REVENUE EUR22.6B, UP MORE THAN 12%
-- 10/17 01:31 [FirstSquawk] OIL PRICES EXTEND GAINS, US CRUDE RISES ABOVE $100 A BARREL
-- 10/17 01:35 [DeItaone] US CRUDE FUTURES RISE OVER $2 TO CROSS $100 PER BBL ON PERSISTENT MIDDLE EAST SUPPLY CONCERNS, RUSSIAN REFINERY OUTAGE
-- 10/17 01:38 [FirstSquawk] BRENT CRUDE FUTURES RISE OVER $3 TO SESSION HIGH OF $109.58 PER BARREL
-- 10/17 01:51 [FirstSquawk] SAUDI CIVIL DEFENCE: “THE DANGER HAS PASSED IN KHAMIS MUSHAIT GOVERNORATE.”
-- 10/17 01:56 [FirstSquawk] FRANCE'S MACRON: EU NEEDS TO EXTEND DEAL TO PLASTICS, CHEMICALS, FERROALLOYS
 - 10/17 01:58 [financialjuice] EU's Costa: There is total unity among EU member states on trade strategy.
 - 10/17 01:59 [financialjuice] EU's Costa: We need to finish negotiations on the EU budget by the end of 2026.
 - 10/17 01:59 [FirstSquawk] TRUMP ON STARSHIELD: DIDN'T SLOW IT DOWN AT ALL
@@ -329,3 +278,31 @@
 - 10/17 22:22 [FirstSquawk] UKMTO GETS REPORT OF INCIDENT SOUTHEAST OF YEMEN
 - 10/17 22:28 [FirstSquawk] UKMTO: LNG TANKER REPORTS SMALL SKIFF FIRED TWO SHOTS AT IT
 - 10/17 22:28 [FirstSquawk] HUNGARY PM MAGYAR SAYS HE WILL PRESENT 2027 BUDGET IN PARLIAMENT ON MONDAY
+- 10/17 23:28 [FirstSquawk] Yemeni government forces: We are engaged in fierce battles against the Houthi militia in Al-Jawf Governorate
+- 10/17 23:28 [FirstSquawk] Yemeni government forces: We attacked Houthi militia positions and fortifications on the southeastern fronts of Al-Jawf Governorate
+- 10/17 23:28 [FirstSquawk] Israeli occupation forces arrest two young men from the town of Jabatha al-Khashab in the Quneitra countryside after incursions into the area.
+- 10/17 23:59 [FirstSquawk] Iranian Navy: We spotted a violating oil tanker that stopped moving after a fire broke out on board in the Sea of ​​Oman.
+- 10/17 23:59 [FirstSquawk] Iranian Navy: The Strait of Hormuz is closed and countries must coordinate with our forces to ensure safe passage.
+- 10/17 23:59 [FirstSquawk] Fars News Agency: An explosion was heard moments ago in the Kuhstak area and parts of the city of Sirik in the south of the country.
+- 10/17 23:59 [FirstSquawk] Yemeni government forces: We carried out 1,417 targeting operations against the Houthi militia as part of Operation Dawn of Yemen within 24 hours.
+- 10/18 00:00 [FirstSquawk] Saudi Arabia: We intercepted and destroyed 4 drones in the past few hours in the Riyadh, Eastern and Southern regions
+- 10/18 00:21 [FirstSquawk] Israeli Foreign Minister condemns settler attack on European diplomatic delegation in the West Bank
+- 10/18 00:34 [financialjuice/FirstSquawk] Bank of England: Governor Bailey among delegates who walked out of IMF meeting in protest at Russian delegate
+- 10/18 00:37 [financialjuice] UKMTO reports incident 140nm southeast of Al Mukalla, Yemen UKMTO: lng tanker reports approach by small skiff with seven onboard UKMTO: Skiff fired two shots at tanker, armed security team fired two warning shots forcing small craft to chan…
+- 10/18 00:42 [financialjuice/FirstSquawk] One member of Popular Mobilization Forces killed, four wounded in blast at headquarters: security and medical sources
+- 10/18 01:01 [FirstSquawk] Israeli drone strike on Tel al-Hawa neighborhood, southwest of Gaza City
+- 10/18 01:01 [FirstSquawk] Iraqi security source: Several members of the Popular Mobilization Forces injured following an explosion that occurred inside a PMF headquarters east of Baghdad
+- 10/18 01:02 [FirstSquawk] UKMTO reports incident 140nm southeast of Al Mukalla, Yemen
+- 10/18 01:02 [FirstSquawk] UKMTO: lng tanker reports approach by small skiff with seven onboard
+- 10/18 01:02 [FirstSquawk] UKMTO: Skiff fired two shots at tanker, armed security team fired two warning shots forcing small craft to change course
+- 10/18 01:05 [financialjuice] French PM Lecornu: no one can enforce political agenda through violence
+- 10/18 01:38 [financialjuice] Stampede-like incident at Durga Puja pandal in North Kolkata in India leaves 17 dead and several injured: NDTV
+- 10/18 01:54 [FirstSquawk] Pakistani media, citing a security source: The army responded to gunfire from Afghan Taliban forces on the border.
+- 10/18 01:54 [FirstSquawk] Pakistani media, citing a security source: The army targeted an Afghan site and destroyed a Taliban camp.
+- 10/18 01:54 [FirstSquawk] French Prime Minister: We will not allow any political agenda to be imposed through violence in the country
+- 10/18 01:54 [FirstSquawk] AFP, citing the Romanian Ministry of Defense: We shot down two drones that violated our airspace over our territorial waters in the Black Sea.
+- 10/18 01:55 [FirstSquawk] Yemeni Foreign Minister: The Tehran regime is a party to the war on Yemenis, not a mediator.
+- 10/18 01:55 [FirstSquawk] US Secretary of Defense: We are ready to deter any attempt to change the status quo in the South China Sea and the Pacific Ocean
+- 10/18 01:55 [FirstSquawk] Hegseth: China is carrying out its largest military buildup in the Pacific.
+- 10/18 01:55 [FirstSquawk] Iraqi government statement: Al-Zaidi orders the formation of an investigation committee regarding the explosion of an ammunition depot inside a Popular Mobilization Forces headquarters in Baghdad
+- 10/18 01:56 [FirstSquawk] 53 airstrikes targeted Sana'a, Taiz, Ibb, Lahj, Sa'dah, and Amran in the past 24 hours

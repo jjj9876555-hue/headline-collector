@@ -7,91 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-17 22:58 JST／対象: 10/17 10:58 〜 10/17 22:58 JST（時刻はすべて日本時間）
+生成: 2026-10-18 01:58 JST／対象: 10/17 13:58 〜 10/18 01:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 10/17 18:41 | 10/17 18:43 | 2分（18:41→18:43） |
-| FirstSquawk | 130 | 10/17 11:15 | 10/17 22:28 | ⚠ 252分（14:35→18:47） |
-| financialjuice | 0 | - | - | - |
+| FirstSquawk | 87 | 10/17 14:01 | 10/18 01:56 | ⚠ 252分（14:35→18:47） |
+| financialjuice | 5 | 10/18 00:34 | 10/18 01:38 | 33分（01:05→01:38） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 132 行（統合前 132 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 92 行（統合前 94 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/17 11:15 [FirstSquawk] Canada Plans to Remove Labor Market Test for High-Wage Foreign Workers: CTV
-- 10/17 11:16 [FirstSquawk] US Government Extends Run of Annual Budget Deficits to 25 Consecutive Fiscal Years: CNBC
-- 10/17 11:22 [FirstSquawk] Vietnam Seeks to Achieve at Least 10% GDP Growth Next Year, PM Says
-- 10/17 11:23 [FirstSquawk] SoftBank Holds Talks to Acquire Allied Universal, US Security Services Provider, FT Reports
-- 10/17 11:23 [FirstSquawk] Three Men Jailed for 158 Years in Mexico Over Killings of Australian and American Surfers
-- 10/17 11:23 [FirstSquawk] Vietnam Sets Sights on at Least 10% Economic Growth in 2027, PM Le Minh Hung Says
-- 10/17 11:24 [FirstSquawk] Iran’s Revolutionary Guards Report Tanker Fire Following Naval Mine Strike in Strait of Hormuz
-- 10/17 11:24 [FirstSquawk] Abhijeet Dipke, Founder of India’s ‘Cockroach’ Movement, Taken Into Preventive Custody - RTRS
-- 10/17 11:25 [FirstSquawk] Anthropic Proposes Double-Digit Yield to Blackstone in New Chip Financing Arrangement, FT Says
-- 10/17 11:25 [FirstSquawk] FT: Blackstone Funds Plan $9 Billion Investment in Debt Tied to Anthropic’s Chip Lease Payments
-- 10/17 11:27 [FirstSquawk] Trump Issues Executive Order Waiving Certain Sanctions, Restrictions and Duties Provided for Under the Graham Act
-- 10/17 11:28 [FirstSquawk] Moody’s Ratings Maintains Chicago’s Baa3 Issuer and GOULT Ratings With Stable Outlook
-- 10/17 11:28 [FirstSquawk] Saudi-Led Coalition Claims Destruction of Two Ballistic Missile Launchers in Yemen’s Saada Province
-- 10/17 11:30 [FirstSquawk] Saudi Authorities Alert Residents to Potential Danger in Khamis Mushait and Abha Saudi Arabia Lifts Safety Alert for Khamis Mushait and Abha After Danger Passes
-- 10/17 11:30 [FirstSquawk] US Transportation Department Reverses Ban on New Mexican Airline Flights Between Mexico City and Santa Lucia Airports
-- 10/17 11:43 [FirstSquawk] Trump Moves to Spare Russia From Further Sanctions Required by New Law, FT Reports
-- 10/17 11:44 [FirstSquawk] IDScan. net Reports Cloud Security Breach Spanning April 4 to September 2, 2026
-- 10/17 11:44 [FirstSquawk] IDScan. net Says Security Event Did Not Extend Beyond VeriScan Platform
-- 10/17 11:44 [FirstSquawk] IDScan. net Says Exposed Information May Include Names, Contact Details, DOBs and Identity Documents
-- 10/17 11:45 [FirstSquawk] Anthropic Takes AI Safety Bill Directly to Lawmakers in Quiet Lobbying Push, Politico Says
-- 10/17 11:46 [FirstSquawk] UK Advises Citizens to Make Only Essential Trips to Saudi Arabia, Foreign Office Says
-- 10/17 11:48 [FirstSquawk] Fitch Assigns ‘AA+’ Rating to State of Washington’s $345 Million GO Bonds; Outlook Negative
-- 10/17 11:48 [FirstSquawk] Fairfax’s Acquisition of IDBI Bank Unlikely to Affect Ratings, Fitch Says
-- 10/17 11:49 [FirstSquawk] North Korea Develops High-Speed Precision-Guided Torpedo Featuring AI-Based Target Detection, KCNA Says
-- 10/17 11:50 [FirstSquawk] Trump Waives Further Russia Sanctions Amid Rising Ukraine-US Tensions US President Donald Trump issued a broad waiver on October 16 covering sanctions under the Lindsey O. Graham Sanctioning Russia and Iran Act, exempting Russia from certai…
-- 10/17 11:51 [FirstSquawk] Trump Exempts Russia From Sanctions Set to Begin Under Law Signed Last Month, CNN Says
-- 10/17 11:52 [FirstSquawk] North Korea Reports Successful Torpedo Test After More Than 180 Propulsion Tests Over Five Years, KCNA Says
-- 10/17 11:53 [FirstSquawk] KCNA: North Korea Declares Torpedo Test Successful, Calls It a Significant Naval Development Milestone
-- 10/17 11:53 [FirstSquawk] North Korea Says October 15 Underwater Torpedo Test Verified Improvements to New Weapon System, KCNA Reports
-- 10/17 11:55 [FirstSquawk] Fitch Says Tight CEMAC Market Is Pushing Cameroon Toward More External Commercial Borrowing Amid Financing Pressures
-- 10/17 11:56 [FirstSquawk] Cameroon Faces Political Uncertainty Over Presidential Succession, Raising Transition Risks, Fitch Says
-- 10/17 11:58 [FirstSquawk] Dr. Phone Fix Announces Amendment to Convertible Debenture Interest Conversion Conditions
-- 10/17 11:58 [FirstSquawk] Morningstar DBRS Keeps Italy’s Credit Rating Unchanged at A (Low), With Stable Trend
-- 10/17 12:01 [FirstSquawk] Google Partner NovaCore Labs Joins AIBotics in Completing Asset Acquisition to Expand AI and Drone Capabilities in Jamaica
-- 10/17 12:02 [FirstSquawk] FAA and Air Traffic Controllers Agree to 2.8% Pay Increase, According to WSJ
-- 10/17 12:05 [FirstSquawk] Mistaken M9.9 Earthquake Alert Canceled in Japan After Causing Transit Disruptions
-- 10/17 12:05 [FirstSquawk] BOJ Governor Ueda Says Recent Japan Data Have Generally Tracked Expectations Since September
-- 10/17 12:09 [FirstSquawk] US Authorities Remove Curbs on New Mexican Airline Flights to the US From Two Capital Airports
-- 10/17 12:13 [FirstSquawk] FDA Clears Alcon’s Brytly Redness Reliever Drops for Up to 12 Hours of Brighter-Looking Eyes
-- 10/17 12:15 [FirstSquawk] Moody’s Sees Egypt Maintaining Fiscal Discipline Beyond Current IMF Programme, Due to End in December 2026
-- 10/17 12:19 [FirstSquawk] Moody’s: Egypt’s Exchange Rate Flexibility and Tighter Monetary Policy Have Improved Its Ability to Absorb Shocks
-- 10/17 12:24 [FirstSquawk] Boeing Sales Chief McMullen to Step Down in December as Ryan Weir Takes Over
-- 10/17 12:31 [FirstSquawk] Costa Rica’s Grynspan Emerges as Frontrunner in Race for UN Secretary-General, RTRS Say
-- 10/17 12:32 [FirstSquawk] Fitch Says Ethiopia’s Continued External Debt Defaults Underpin Its ‘RD’ Rating
-- 10/17 12:33 [FirstSquawk] Fed’s Warsh: My Focus Is on Sound Policy Decisions, Not Legacy
-- 10/17 12:36 [FirstSquawk] Mitsubishi Electric to Sell 50% Stake in Automotive Equipment Unit to Hon Hai
-- 10/17 12:37 [FirstSquawk] Fed’s Warsh Pledges Balanced Focus Across the Central Bank’s Work in His Next 100 Days
-- 10/17 12:40 [FirstSquawk] Fed’s Warsh: Central Bank’s Influence Depends on Institutional Credibility, Which Must Be Reinforced
-- 10/17 12:40 [FirstSquawk] Wall Street AI Stocks Slide Amid Growing Debt Fears
-- 10/17 12:43 [FirstSquawk] Fed’s Warsh: The Chair Should Head All Functions of the Central Bank
-- 10/17 12:45 [FirstSquawk] Fed’s Warsh: 75% of Staff Focus on Areas Outside Monetary Policy
-- 10/17 12:46 [FirstSquawk] New Zealand Dollar Defies Strong US Inflation Data as Dollar Weakens on Fed Pause Bets
-- 10/17 12:49 [FirstSquawk] RBC Says Canada’s Energy-Led Strength Has Yet to Translate Into Significant Core Inflation Pressure
-- 10/17 12:51 [FirstSquawk] Taiwan Dollar Under Pressure From Foreign Fund Outflows, OCBC Warns
-- 10/17 12:51 [FirstSquawk] FAA Deal Secures 2.8% Pay Increase for US Air Traffic Controllers
-- 10/17 12:56 [FirstSquawk] Gold Slumps as US Yields Take Center Stage, Overshadowing Waning October Fed Hike Bets
-- 10/17 13:00 [FirstSquawk] Strong Earnings at BOK Financial Contrast With Weak Stock Performance
-- 10/17 13:02 [FirstSquawk] Fed’s Warsh: Without My Earlier Fed Experience, I’d Be Reluctant to Put Forward New Ideas
-- 10/17 13:08 [FirstSquawk] WSJ: Iran Provides Houthis With Targeting Data and Intelligence for Attacks on Saudi Arabia
-- 10/17 13:11 [FirstSquawk] Trump Cites South Korean Auto Parts Maker Hyundai Transys’ Georgia Investment Plan at Campaign Rally, Yonhap Reports
-- 10/17 13:15 [FirstSquawk] EU Preferential Treatment for EVs to Exclude Japanese Models Under France-Germany Agreement
-- 10/17 13:19 [FirstSquawk] Japan’s Yamato Transport Reports Leak Affecting 5.31 Million Customer Records
-- 10/17 13:23 [FirstSquawk] Japan’s Okinawa Prefecture Accepts U.S. Osprey Deployment Following Policy Reversal
-- 10/17 13:24 [FirstSquawk] Hong Kong Seeks to Strengthen Its Position in Global Gold Trade by Differentiating From London - SCMP
-- 10/17 13:29 [FirstSquawk] Subdued Growth Prompts Foreign Banks to Reduce Their Branch Networks in China - SCMP
-- 10/17 13:49 [FirstSquawk] Paraguay’s Tech Minister Says Taiwan Relations Are Non-Negotiable Despite Beijing’s Sanctions
-- 10/17 13:50 [FirstSquawk] Reuters: Delegates Walk Out of IMF Steering Committee Meeting in Bangkok as Russian Official Speaks
-- 10/17 13:50 [FirstSquawk] Mongolia Contributes $1.3 Million to World Bank Fund Supporting the Poorest Countries
 - 10/17 14:01 [FirstSquawk] US university offers cut-price UK degree for international students - FT
 - 10/17 14:13 [FirstSquawk] Houthis encircle new target in conflict with Saudi-backed forces- FT
 - 10/17 14:24 [FirstSquawk] HMRC claws back nearly £500mn in underpaid capital gains- FT
@@ -156,3 +88,31 @@
 - 10/17 22:22 [FirstSquawk] UKMTO GETS REPORT OF INCIDENT SOUTHEAST OF YEMEN
 - 10/17 22:28 [FirstSquawk] UKMTO: LNG TANKER REPORTS SMALL SKIFF FIRED TWO SHOTS AT IT
 - 10/17 22:28 [FirstSquawk] HUNGARY PM MAGYAR SAYS HE WILL PRESENT 2027 BUDGET IN PARLIAMENT ON MONDAY
+- 10/17 23:28 [FirstSquawk] Yemeni government forces: We are engaged in fierce battles against the Houthi militia in Al-Jawf Governorate
+- 10/17 23:28 [FirstSquawk] Yemeni government forces: We attacked Houthi militia positions and fortifications on the southeastern fronts of Al-Jawf Governorate
+- 10/17 23:28 [FirstSquawk] Israeli occupation forces arrest two young men from the town of Jabatha al-Khashab in the Quneitra countryside after incursions into the area.
+- 10/17 23:59 [FirstSquawk] Iranian Navy: We spotted a violating oil tanker that stopped moving after a fire broke out on board in the Sea of ​​Oman.
+- 10/17 23:59 [FirstSquawk] Iranian Navy: The Strait of Hormuz is closed and countries must coordinate with our forces to ensure safe passage.
+- 10/17 23:59 [FirstSquawk] Fars News Agency: An explosion was heard moments ago in the Kuhstak area and parts of the city of Sirik in the south of the country.
+- 10/17 23:59 [FirstSquawk] Yemeni government forces: We carried out 1,417 targeting operations against the Houthi militia as part of Operation Dawn of Yemen within 24 hours.
+- 10/18 00:00 [FirstSquawk] Saudi Arabia: We intercepted and destroyed 4 drones in the past few hours in the Riyadh, Eastern and Southern regions
+- 10/18 00:21 [FirstSquawk] Israeli Foreign Minister condemns settler attack on European diplomatic delegation in the West Bank
+- 10/18 00:34 [financialjuice/FirstSquawk] Bank of England: Governor Bailey among delegates who walked out of IMF meeting in protest at Russian delegate
+- 10/18 00:37 [financialjuice] UKMTO reports incident 140nm southeast of Al Mukalla, Yemen UKMTO: lng tanker reports approach by small skiff with seven onboard UKMTO: Skiff fired two shots at tanker, armed security team fired two warning shots forcing small craft to chan…
+- 10/18 00:42 [financialjuice/FirstSquawk] One member of Popular Mobilization Forces killed, four wounded in blast at headquarters: security and medical sources
+- 10/18 01:01 [FirstSquawk] Israeli drone strike on Tel al-Hawa neighborhood, southwest of Gaza City
+- 10/18 01:01 [FirstSquawk] Iraqi security source: Several members of the Popular Mobilization Forces injured following an explosion that occurred inside a PMF headquarters east of Baghdad
+- 10/18 01:02 [FirstSquawk] UKMTO reports incident 140nm southeast of Al Mukalla, Yemen
+- 10/18 01:02 [FirstSquawk] UKMTO: lng tanker reports approach by small skiff with seven onboard
+- 10/18 01:02 [FirstSquawk] UKMTO: Skiff fired two shots at tanker, armed security team fired two warning shots forcing small craft to change course
+- 10/18 01:05 [financialjuice] French PM Lecornu: no one can enforce political agenda through violence
+- 10/18 01:38 [financialjuice] Stampede-like incident at Durga Puja pandal in North Kolkata in India leaves 17 dead and several injured: NDTV
+- 10/18 01:54 [FirstSquawk] Pakistani media, citing a security source: The army responded to gunfire from Afghan Taliban forces on the border.
+- 10/18 01:54 [FirstSquawk] Pakistani media, citing a security source: The army targeted an Afghan site and destroyed a Taliban camp.
+- 10/18 01:54 [FirstSquawk] French Prime Minister: We will not allow any political agenda to be imposed through violence in the country
+- 10/18 01:54 [FirstSquawk] AFP, citing the Romanian Ministry of Defense: We shot down two drones that violated our airspace over our territorial waters in the Black Sea.
+- 10/18 01:55 [FirstSquawk] Yemeni Foreign Minister: The Tehran regime is a party to the war on Yemenis, not a mediator.
+- 10/18 01:55 [FirstSquawk] US Secretary of Defense: We are ready to deter any attempt to change the status quo in the South China Sea and the Pacific Ocean
+- 10/18 01:55 [FirstSquawk] Hegseth: China is carrying out its largest military buildup in the Pacific.
+- 10/18 01:55 [FirstSquawk] Iraqi government statement: Al-Zaidi orders the formation of an investigation committee regarding the explosion of an ammunition depot inside a Popular Mobilization Forces headquarters in Baghdad
+- 10/18 01:56 [FirstSquawk] 53 airstrikes targeted Sana'a, Taiz, Ibb, Lahj, Sa'dah, and Amran in the past 24 hours
