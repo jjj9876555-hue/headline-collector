@@ -7,85 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-17 08:52 JST／対象: 10/16 20:52 〜 10/17 08:52 JST（時刻はすべて日本時間）
+生成: 2026-10-17 10:44 JST／対象: 10/16 22:44 〜 10/17 10:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 40 | 10/16 20:56 | 10/17 02:53 | ⚠ 55分（23:59→00:55） |
-| FirstSquawk | 78 | 10/16 21:03 | 10/17 05:02 | 30分（04:19→04:50） |
-| financialjuice | 123 | 10/16 20:53 | 10/17 08:50 | ⚠ 72分（00:46→01:58） |
+| DeItaone | 25 | 10/16 22:49 | 10/17 02:53 | ⚠ 55分（23:59→00:55） |
+| FirstSquawk | 67 | 10/16 22:45 | 10/17 10:27 | ⚠ 241分（05:02→09:03） |
+| financialjuice | 93 | 10/16 22:46 | 10/17 10:37 | ⚠ 72分（00:46→01:58） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 228 行（統合前 242 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 178 行（統合前 186 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/16 20:53 [financialjuice] BoJ's Governor Ueda: We will monitor FX, AI, and MidEast for price trends.
-- 10/16 20:54 [financialjuice] BoJ's Governor Ueda: Stabilization of 2% inflation is increasingly important.
-- 10/16 20:55 [financialjuice] BoJ's Governor Ueda: No big gap in view between what we have assessed on inflationary pressure from AI demand, and what I heard from global policymakers.
-- 10/16 20:55 [financialjuice] Ukraine’s President Zelenskiy: Russia does not want talks in any format now.
-- 10/16 20:56 [financialjuice] BoJ's Governor Ueda: We will continue to raise interest rates as underlying inflation approaching 2%, financial conditions are accommodative.
-- 10/16 20:56 [DeItaone] ZELENSKIY: DIESEL DEAL IS INAPPROPRIATE; SURE GAS DEAL WILL FOLLOW
-- 10/16 20:56 [financialjuice] BoJ's Governor Ueda: We did not hear anything at this week's meetings that deviated from our baseline view.
-- 10/16 20:56 [financialjuice] BoJ's Governor Ueda: We will discuss at upcoming meeting whether to tweak our assessment that underlying inflation is approaching 2%.
-- 10/16 20:57 [financialjuice] BoJ's Governor Ueda: Timing, pace of future rate hikes will be decided looking at impact of FX, al demand and middle east developments on prices.
-- 10/16 20:57 [financialjuice] BoJ's Governor Ueda: Haven't been in touch with us treasury secretary bessent since we met in asheville.
-- 10/16 20:58 [DeItaone] 🇯🇵 BOJ'S UEDA SIGNALS FURTHER RATE HIKES AS INFLATION NEARS 2% Bank of Japan Governor Kazuo Ueda reaffirmed that the BOJ will continue raising interest rates as underlying inflation approaches its 2% target. Ueda said economic conditions re…
-- 10/16 21:02 [DeItaone] POPE LEO SHOWING 'STEADY IMPROVEMENT' AFTER LUNG CANCER SURGERY -- VATICAN
-- 10/16 21:03 [financialjuice/FirstSquawk] China's Commerce Ministry: The EU should not fantasise about gaining benefits through pressure on China, and should not underestimate China's determination and ability to safeguard its own interests.
-- 10/16 21:03 [financialjuice/FirstSquawk] BoJ's Governor Ueda: We will focus on entrenching 2% inflation from now on.
-- 10/16 21:04 [financialjuice/FirstSquawk] BoJ's Governor Ueda: I want to gauge the neutral rate estimate taking into account the cumulative impact of past rate hikes on financial conditions and domestic prices.
-- 10/16 21:04 [financialjuice/FirstSquawk] BoJ's Governor Ueda: We can't tolerate underlying inflation further above 2%.
-- 10/16 21:05 [financialjuice/FirstSquawk] BoJ's Governor Ueda: Underlying inflation quite close to 2% marks the policy shift.
-- 10/16 21:06 [financialjuice/FirstSquawk] BoJ's Governor Ueda: There is no evidence that the neutral rate is around any particular level.
-- 10/16 21:10 [DeItaone] BOFA WARNS AI BOOM COULD FOLLOW HISTORIC BUST CYCLES Bank of America warns that the AI investment boom is showing signs of a classic capital-cycle risk: surging spending, intensifying competition and falling prices. Hyperscaler capital expe…
-- 10/16 21:11 [FirstSquawk] EXXONMOBIL CHANGE IN GAS PRICES TO IMPACT Q3 UPSTREAM EARNINGS BY $0.3B VS Q2; CHANGES IN LIQUIDS PRICES TO IMPACT Q3 UPSTREAM EARNINGS BY -$1.3B VS Q2
-- 10/16 21:11 [FirstSquawk] EXXONMOBIL CHANGES IN MARGINS TO IMPACT Q3 ENERGY PRODUCTS EARNINGS BY $4.5B VS Q2; CHANGES IN MARGINS TO IMPACT Q3 SPECIALTY PRODUCTS EARNINGS BY $0.5B VS Q2
-- 10/16 21:13 [financialjuice] ExxonMobil Expects Q3 Earnings Impact From Changes in Margins and Commodity Prices $XOM
-- 10/16 21:15 [financialjuice] CANADIAN HOUSE STARTS, ANNUALIZED ACTUAL 248.896K (FORECAST 232.5K, PREVIOUS 229.0K) $MACRO
-- 10/16 21:16 [financialjuice] Canadian House Starts September 2026 Report
-- 10/16 21:18 [DeItaone] APPLE'S IPHONE DUO SELLS OUT MINUTES AFTER PRE-ORDERS OPEN Apple's ($AAPL ) new iPhone Duo saw its initial pre-order inventory sell out almost immediately, with estimated delivery dates slipping from October 23 to November 16–23. However, t…
-- 10/16 21:22 [DeItaone] FED HIKE ODDS CRASH FROM 55% TO 13% Warsh signals an October pause despite inflation hitting 3.7%. Kalshi now puts the odds of a Fed hold at 86%, up from 50%. 📊 Watch the odds move in real time 👇 https://t.co/qUEGIdb1ac
-- 10/16 21:30 [financialjuice] US IMPORT PRICES MOM ACTUAL 1.1% (FORECAST 1%, PREVIOUS 0.7%) $MACRO
-- 10/16 21:30 [financialjuice] US EXPORT PRICES MOM ACTUAL 2.2% (FORECAST 0.9%, PREVIOUS 0.6%) $MACRO
-- 10/16 21:31 [financialjuice] US Import and Export Prices September 2026 Report
-- 10/16 21:31 [FirstSquawk] US NATURAL GAS FUTURES FALL 5 PCT AFTER FORCE MAJEURE LIFTED
-- 10/16 21:33 [FirstSquawk] APPLE: IPHONE DUO DELIVERY DATE SLIPS TO JAN. 25
-- 10/16 21:33 [financialjuice] Apple iPhone duo delivery date slips to January 25th. $AAPL
-- 10/16 21:37 [DeItaone] U.S. IMPORT AND EXPORT PRICES SURGE ABOVE EXPECTATIONS U.S. September trade inflation came in hotter than expected, signaling persistent price pressures. 🔸 Import prices: +1.1% (forecast +0.8%) 🔸 Export prices: +2.2% (forecast +1.0%) 🔸 Impo…
-- 10/16 21:39 [DeItaone] IRAN SIGNALS OPENNESS TO DIALOGUE AS OIL PRICES DECLINE Regional media report that Iran's president says Tehran is not seeking nuclear weapons and is ready for dialogue. The reportedly softer diplomatic tone is supporting market risk appeti…
-- 10/16 21:42 [FirstSquawk] GERMAN FOREIGN MINISTER: HOPES LUFTHANSA'S TAP PURCHASE WILL PROVIDE BOOST AND CREATE JOB; IMPERATIVE THAT EU BUDGET NEGOTIATIONS ARE CONCLUDED THIS YEAR; MERCOSUR DEAL ALREADY YIELDING POSITIVE RESULTS
-- 10/16 21:43 [FirstSquawk] TRUMP TO HOLD RALLY NEXT FRIDAY IN FLORIDA - CNN
-- 10/16 21:45 [DeItaone] GERMAN FOREIGN MINISTER: EUROPE IS IN IRAN'S SIGHTS, WE WILL NOT TOLERATE IRAN'S HOSTILE ACITIVITIES
-- 10/16 21:46 [financialjuice] German Foreign Minister: Europe is in Iran's sights, we will not tolerate Iran's hostile activities.
-- 10/16 21:46 [DeItaone] $CRWV - COREWEAVE SHORT SELLERS MADE AROUND $806 MLN IN PAPER PROFIT ON WEDNESDAY, WHEN STOCK FELL 15.5% - ORTEX
-- 10/16 22:00 [financialjuice] Effective Fed funds rate 3.88% October 15th vs 3.88% October 14th.
-- 10/16 22:01 [financialjuice] Bank of Italy hikes the Italian 2026 GDP growth forecast to 1% from 0.6% estimate made in June, raises 2027 forecast to 0.7% from 0.4%.
-- 10/16 22:08 [FirstSquawk] TSCHUDIN: SWISS INFLATION PRESSURE SLIGHTLY HIGHER THAN IN JUNE
-- 10/16 22:15 [financialjuice] US CAPACITY UTILIZATION ACTUAL 76.9% (FORECAST 76.5%, PREVIOUS 76.3%) $MACRO
-- 10/16 22:15 [FirstSquawk] US INDUSTRIAL PRODUCTION INCREASED BY 0.7% IN SEPTEMBER MONTH-OVER-MONTH; ESTIMATES WERE AT +0.4%.
-- 10/16 22:15 [financialjuice] US MANUFACTURING OUTPUT MOM ACTUAL 0.3% (FORECAST 0.3%, PREVIOUS -0.3%) $MACRO
-- 10/16 22:15 [financialjuice] ❗ US INDUSTRIAL PRODUCTION MOM ACTUAL 0.7% (FORECAST 0.4%, PREVIOUS 0.0%) $MACRO
-- 10/16 22:16 [DeItaone] U.S. INDUSTRIAL PRODUCTION BEATS EXPECTATIONS IN SEPTEMBER U.S. industrial production rose 0.7% in September, beating expectations of 0.4%. 🔸 Manufacturing: +0.3% (in line) 🔸 Utilities: +3.5% 🔸 Mining: +0.2% 🔸 Capacity utilization: 76.9% (f…
-- 10/16 22:17 [financialjuice] US Industrial Production and Capacity Utilization September 2026 Report
-- 10/16 22:24 [DeItaone] *US 10Y YIELD RISES 3.8BPS TO 5.125% AFTER ECONOMIC DATA *US 30Y YIELD RISES 3.04BPS TO 5.458% *US 2Y YIELD RISES 1.45BPS TO 4.766% *US 2Y-10Y YIELD SPREAD AT +35.7BPS
-- 10/16 22:25 [DeItaone] $AAPL - UBS WARNS OF LIMITED IPHONE SALES UPSIDE, MAINTAINS $296 APPLE TARGET UBS reiterated its Neutral rating and $296 price target on Apple, citing concerns about weakening iPhone demand indicators. UBS Evidence Lab data across 30+ marke…
-- 10/16 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: 240.1 MLN NASDAQ 100: 73.4 MLN DOW 30: 16.1 MLN MAG 7: 44.7 MLN $MACRO
-- 10/16 22:32 [DeItaone] $TSLA - TESLA SHARES UP NEARLY 1% AFTER CO UNVEILS NEW ROADSTER
-- 10/16 22:32 [FirstSquawk] CARMAKERS FACE SMALLER CUT IN UK EV SALES TARGETS – FT
-- 10/16 22:32 [financialjuice] Russia's Gazprom CEO: We plan to fully protect our facilities from attacks.
-- 10/16 22:33 [FirstSquawk] COREWEAVE SHARES TUMBLE 7.7% AT MARKET OPEN
-- 10/16 22:33 [financialjuice] Mehr News: Russian Foreign Minister will visit Tehran on Monday.
-- 10/16 22:33 [FirstSquawk] NASDAQ DOWN 61.21 POINTS, OR 0.23 PERCENT, AT 26,651.82 AFTER MARKET OPEN DOW JONES UP 194.94 POINTS, OR 0.37 PERCENT, AT 52,372.63 AFTER MARKET OPEN S&P 500 UP 9.06 POINTS, OR 0.12 PERCENT, AT 7,753.12 AFTER MARKET OPEN
-- 10/16 22:37 [FirstSquawk] PREDICTION MARKET ODDS ON TESLA-SPACEX MERGER ARE ABOVE 50% FOR EARLY 2027 - CNBC
-- 10/16 22:38 [financialjuice] US INDUSTRIAL PRODUCTION YOY ACTUAL 2.25% (FORECAST -, PREVIOUS 1.42%) $MACRO
-- 10/16 22:41 [DeItaone] $CRWV - COREWEAVE SHARES FALL 6.9% AFTER RISING 5.9% IN THE LAST SESSION
-- 10/16 22:43 [financialjuice] Russia’s Deputy PM Novak: Russian diesel supplies set to help balance global market.
-- 10/16 22:43 [financialjuice] Russia’s Deputy PM Novak: The diesel deal benefits all consumers of the fuel.
 - 10/16 22:45 [FirstSquawk] NOVAK: THE DIESEL DEAL BENEFITS ALL CONSUMERS OF THE FUEL
 - 10/16 22:46 [financialjuice] CXMT preliminary January- September net income 131b-132.5b yuan.
 - 10/16 22:48 [FirstSquawk] CXMT PRELIM 1Q-3Q NET INCOME UP TO 132.5B YUAN VS LOSS YEAR AGO
@@ -252,3 +190,15 @@
 - 10/17 07:49 [financialjuice] Saudi civil defense issues warning on possible threat in Khamis Mushait and Abha
 - 10/17 07:52 [financialjuice] Saudi civil defense: danger has passed in Khamis Mushait and Abha
 - 10/17 08:50 [financialjuice] Saudi-led coalition: destroys two ballistic missile launchers in Yemen's Saada
+- 10/17 09:03 [FirstSquawk] As self-driving cars edge closer to everyday use, the next frontier for autonomous technology is taking shape: driverless trucks, the massive vehicles that dominate highways - WSJ
+- 10/17 09:04 [FirstSquawk] . Blue Owl’s leadership is pitching a comeback to employees, but the private-credit firm’s stock continues to show no meaningful movement - WSJ
+- 10/17 09:05 [FirstSquawk] Asian Brands Expand Presence in Tokyo’s High-End Retail Hubs as Rents Surge to Record Levels
+- 10/17 09:37 [financialjuice] Trump: waives application of certain sanctions, restrictions, and duties in executive order
+- 10/17 09:42 [financialjuice] Trump: submitted to Congress certification that waiver issuance serves US national interests - order released by White House
+- 10/17 09:49 [financialjuice] Blackstone funds to invest $9 billion in
+- 10/17 09:49 [financialjuice] backed by five-year lease payments from Anthropic for the chips - FT
+- 10/17 09:58 [FirstSquawk] Anthropic to Provide Five-Year Lease Payments for Chips – FT
+- 10/17 10:14 [FirstSquawk] Trump Rolls Back Some Measures Targeting Russia Under the “Graham Law”
+- 10/17 10:15 [FirstSquawk] Germany Moves to Release More Oil Stocks Following G7 Agreement
+- 10/17 10:27 [FirstSquawk] Al Arabiya Reports Airstrike on Houthi Forces West of Taiz in Yemen
+- 10/17 10:37 [financialjuice] Indian police detain 'cockroach' movement founder Abhijeet Dipke: Indian media

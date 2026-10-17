@@ -7,68 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-17 08:52 JST／対象: 10/16 08:52 〜 10/17 08:52 JST（時刻はすべて日本時間）
+生成: 2026-10-17 10:44 JST／対象: 10/16 10:44 〜 10/17 10:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 52 | 10/16 19:45 | 10/17 02:53 | ⚠ 55分（23:59→00:55） |
-| FirstSquawk | 246 | 10/16 08:52 | 10/17 05:02 | ⚠ 99分（10:06→11:45） |
-| financialjuice | 207 | 10/16 09:08 | 10/17 08:50 | ⚠ 72分（00:46→01:58） |
+| FirstSquawk | 225 | 10/16 11:45 | 10/17 10:27 | ⚠ 241分（05:02→09:03） |
+| financialjuice | 195 | 10/16 10:52 | 10/17 10:37 | ⚠ 72分（00:46→01:58） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 491 行（統合前 506 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 458 行（統合前 473 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/16 08:52 [FirstSquawk] VIRGIN AUSTRALIA HOLDINGS HAS ISSUED TRAVEL ADVICE FOR SYDNEY AIRPORT ON 16 OCTOBER, SAYING PLANNED INDUSTRIAL ACTION BY SOME EMPLOYEES OF CERTIS MAY CAUSE DELAYS AT SYDNEY AIRPORT THAT DAY
-- 10/16 08:56 [FirstSquawk] JAPANESE INVESTORS SOLD ¥339.7 BLN OF FOREIGN BONDS IN THE WEEK TO OCT. 10, A SMALLER OUTFLOW THAN THE PRIOR ¥347.6 BLN, WHILE SELLING ¥760.6 BLN OF FOREIGN STOCKS AFTER BUYING ¥1,328.6 BLN.
-- 10/16 09:05 [FirstSquawk] Global Pharmaceutical Firms Reduce Commitments to Innovative Drug Development in Japan
-- 10/16 09:08 [financialjuice] Trump on Ilhan Omar: not involved in that
-- 10/16 09:11 [FirstSquawk] UKRAINIAN DRONES ARE ATTACKING RUSSIA’S MOSCOW REGION, REPORTEDLY HITTING INDUSTRIAL AND WAREHOUSE FACILITIES
-- 10/16 09:13 [financialjuice] Trump: wouldn't employ nuclear weapons on Iran
-- 10/16 09:13 [financialjuice] Trump: talking to Russia, China on nuclear disarmament
-- 10/16 09:14 [FirstSquawk] TRUMP SAYS HE IS TALKING TO RUSSIA AND CHINA ON NUCLEAR DISARMAMENT, ADDING THAT HE WOULDN’T EMPLOY NUCLEAR WEAPONS ON IRAN
-- 10/16 09:15 [financialjuice] Trump: no plans to deploy troops on ground in Iran
-- 10/16 09:15 [FirstSquawk] INDONESIA STOCK EXCHANGE SAYS IT HAS TAKEN VARIOUS CONCRETE STEPS TO ENHANCE THE TRANSPARENCY AND INTEGRITY OF INDONESIA’S CAPITAL MARKET IN RESPONSE TO THE MSCI ANNOUNCEMENT, ADDING THAT IT RESPECTS MSCI’S INDEPENDENCE IN CONDUCTING ASSESS…
-- 10/16 09:15 [FirstSquawk] INDONESIA STOCK EXCHANGE SAYS IT WILL REQUEST FURTHER CLARIFICATION FROM MSCI REGARDING THE BASIS FOR CONSIDERATION AND ASSESSMENT UNDERLYING THE ANNOUNCEMENT.
-- 10/16 09:17 [FirstSquawk] EUROPEAN STOCK FUTURES MIXED: EUROSTOXX 50 +0.4%, DAX +0.4%, FTSE -0.1%
-- 10/16 09:18 [FirstSquawk] US STOCK FUTURES SLIP: S&P 500 FUTURES -0.1%, NASDAQ FUTURES -0.4%
-- 10/16 09:19 [financialjuice] China PBOC likely to fix yuan midpoint at 6.6947 per dollar: estimate
-- 10/16 09:25 [FirstSquawk] U.S. PRESIDENT TRUMP SAYS THAT ONCE MUNITIONS ARE STOCKED, HE WILL LET ALLIES BUY THEM, ADDING THAT THERE ARE ‘PLENTY OF OTHER TARGETS BESIDES REFINERS TO HIT’
-- 10/16 09:31 [FirstSquawk] Mexico Cuts Protected Area for World’s Most Endangered Porpoise - RTRS
-- 10/16 09:34 [FirstSquawk] Asian Markets Advance as Investors Regain Composure Following Tech Rout, Await Warsh’s Remarks
-- 10/16 09:40 [financialjuice] Chinese foreign minister to Israeli president: advancing peace and unity in the region is cornerstone of China's Middle East policy
-- 10/16 09:41 [FirstSquawk] ASIAN STOCKS ROSE 0.6% AS CHIP SHARES STABILIZED AFTER WALL STREET’S REBOUND, WHILE JAPAN’S TOPIX GAINED 1.4%. HOWEVER, NASDAQ 100 FUTURES FELL 0.5% AMID PERSISTENT CONCERNS OVER AI SPENDING AND COREWEAVE’S DEBT RISKS.
-- 10/16 09:41 [FirstSquawk] US 10-YEAR TREASURY YIELDS DROPPED 13 BASIS POINTS TO 5.06%, WHILE OIL SLIPPED TO $97.38 AND GOLD TRADED NEAR $4,154. MARKETS AWAIT FED CHAIR KEVIN WARSH’S REMARKS FOR SIGNALS ON POTENTIAL RATE HIKES.
-- 10/16 09:41 [FirstSquawk] Lutnick’s Comments Deepen Doubts About the Future of U.S.-Mexico Trade Negotiations - WSJ
-- 10/16 09:41 [financialjuice] Chinese foreign minister to Israeli president: China consistently regards Palestinian issue as greatest historical injustice of this century
-- 10/16 09:41 [financialjuice] Chinese foreign minister to Israeli president: immediate priority is full access to Gaza Strip
-- 10/16 09:41 [financialjuice] Chinese foreign minister to Israeli president: Israel must halt and undo its enforced creation of settlements in west bank
-- 10/16 09:42 [FirstSquawk] Moody’s Confirms Bank of America Corporation’s A1 Rating and Bank of America, N.A.’s Aa2 Deposit Rating; Outlook Unchanged at Stable
-- 10/16 09:43 [FirstSquawk] China’s Middle East Policy Is Anchored in Promoting Regional Peace and Reconciliation, Foreign Minister Tells Israeli President
-- 10/16 09:44 [FirstSquawk] China Calls on Israel to Stop and Reverse Forced Settlement Establishment in the West Bank
-- 10/16 09:44 [FirstSquawk] Chinese Foreign Minister Urges Full Access to Gaza Strip as an Immediate Priority
-- 10/16 09:44 [FirstSquawk] China Has Consistently Viewed the Palestinian Question as the 21st Century’s Greatest Historical Injustice, Foreign Minister Tells Israeli President
-- 10/16 09:45 [FirstSquawk] KOSPI Jumps 2% in Seoul Trading as South Korean Equities Rally
-- 10/16 09:52 [FirstSquawk] South Korea’s Stock Market Opens in Positive Territory Following a Seven-Session Losing Streak
-- 10/16 10:00 [FirstSquawk] Japanese Trade Minister Highlights Challenge of Maintaining Stable Kerosene Supplies
-- 10/16 10:00 [FirstSquawk] Japan to Introduce Subsidies to Support Kerosene Imports From Overseas
-- 10/16 10:00 [FirstSquawk] Japanese Trade Minister Commits to Stepping Up Efforts to Tackle Higher Kerosene Costs
-- 10/16 10:00 [financialjuice] South Korean finance ministry: to track effect of stock market swings on bond, forex, short-term money markets
-- 10/16 10:00 [financialjuice] South Korean finance ministry: authorities to crack down firmly on market-disrupting behavior
-- 10/16 10:00 [financialjuice] Taiwan overnight interbank rate opens at 0.805% vs 0.805% in prior session
-- 10/16 10:00 [financialjuice] South Korean finance ministry: to enhance market surveillance
-- 10/16 10:01 [FirstSquawk] Japan’s Foreign Resident Count Climbs to a Record 4.28 Million as of June
-- 10/16 10:03 [FirstSquawk] SK Hynix Shares Rise 3% as South Korean Stocks Gain
-- 10/16 10:05 [financialjuice] China finance ministry to offer 15.5 billion yuan government bonds in Hong Kong on Oct. 23
-- 10/16 10:06 [FirstSquawk] China’s Finance Ministry Announces 15.5 Billion Yuan Government Bond Issuance in Hong Kong for October 23
-- 10/16 10:13 [financialjuice] Tesla roadster employs thrusters to land after ramp jump: Tesla event
-- 10/16 10:16 [financialjuice] PBOC sets yuan midpoint at strongest level since Feb. 2, 2023
-- 10/16 10:21 [financialjuice] China central bank injects 60 bln yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement
 - 10/16 10:52 [financialjuice] China sets wheat import tariff quota for 2027 at 9.64 million metric tons
 - 10/16 10:53 [financialjuice] China sets corn import tariff quota for 2027 at 7.2 million metric tons: state planner
 - 10/16 11:17 [financialjuice] OpenAI: Rosalind academic plan now accessible to academic Lai
@@ -515,3 +470,15 @@
 - 10/17 07:49 [financialjuice] Saudi civil defense issues warning on possible threat in Khamis Mushait and Abha
 - 10/17 07:52 [financialjuice] Saudi civil defense: danger has passed in Khamis Mushait and Abha
 - 10/17 08:50 [financialjuice] Saudi-led coalition: destroys two ballistic missile launchers in Yemen's Saada
+- 10/17 09:03 [FirstSquawk] As self-driving cars edge closer to everyday use, the next frontier for autonomous technology is taking shape: driverless trucks, the massive vehicles that dominate highways - WSJ
+- 10/17 09:04 [FirstSquawk] . Blue Owl’s leadership is pitching a comeback to employees, but the private-credit firm’s stock continues to show no meaningful movement - WSJ
+- 10/17 09:05 [FirstSquawk] Asian Brands Expand Presence in Tokyo’s High-End Retail Hubs as Rents Surge to Record Levels
+- 10/17 09:37 [financialjuice] Trump: waives application of certain sanctions, restrictions, and duties in executive order
+- 10/17 09:42 [financialjuice] Trump: submitted to Congress certification that waiver issuance serves US national interests - order released by White House
+- 10/17 09:49 [financialjuice] Blackstone funds to invest $9 billion in
+- 10/17 09:49 [financialjuice] backed by five-year lease payments from Anthropic for the chips - FT
+- 10/17 09:58 [FirstSquawk] Anthropic to Provide Five-Year Lease Payments for Chips – FT
+- 10/17 10:14 [FirstSquawk] Trump Rolls Back Some Measures Targeting Russia Under the “Graham Law”
+- 10/17 10:15 [FirstSquawk] Germany Moves to Release More Oil Stocks Following G7 Agreement
+- 10/17 10:27 [FirstSquawk] Al Arabiya Reports Airstrike on Houthi Forces West of Taiz in Yemen
+- 10/17 10:37 [financialjuice] Indian police detain 'cockroach' movement founder Abhijeet Dipke: Indian media

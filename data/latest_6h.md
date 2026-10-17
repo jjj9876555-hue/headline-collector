@@ -7,55 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-17 08:52 JST／対象: 10/17 02:52 〜 10/17 08:52 JST（時刻はすべて日本時間）
+生成: 2026-10-17 10:44 JST／対象: 10/17 04:44 〜 10/17 10:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 1 | 10/17 02:53 | 10/17 02:53 | - |
-| FirstSquawk | 17 | 10/17 02:54 | 10/17 05:02 | 30分（04:19→04:50） |
-| financialjuice | 48 | 10/17 03:01 | 10/17 08:50 | ⚠ 57分（07:52→08:50） |
+| DeItaone | 0 | - | - | - |
+| FirstSquawk | 11 | 10/17 04:50 | 10/17 10:27 | ⚠ 241分（05:02→09:03） |
+| financialjuice | 32 | 10/17 04:51 | 10/17 10:37 | ⚠ 57分（07:52→08:50） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 63 行（統合前 67 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 43 行（統合前 43 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/17 02:53 [DeItaone] KATIE ZACHARIA 'TRANSITIONING OUT' AS TRUMP PRESS SECRETARY: FOX
-- 10/17 02:54 [FirstSquawk] PERU'S COPPER OUTPUT DOWN 5.0% Y/Y IN AUGUST TO 230,676 MT
-- 10/17 03:01 [financialjuice] US fiscal 2026 deficit $1.992 trln vs fiscal 2025 deficit $1.775 trln; net customs receipts $173.22 bln vs $194.87 bln - Treasury
-- 10/17 03:02 [financialjuice] US Treasury: US FY 2026 gross interest on debt totaled record $1.36 trln, up $144 bln or 12% from prior year.
-- 10/17 03:06 [financialjuice] US Sept. budget deficit $26.9 bln
-- 10/17 03:06 [FirstSquawk] US FISCAL 2026 DEFICIT: $1.992T VS FISCAL 2025 DEFICIT $1.775T
-- 10/17 03:06 [FirstSquawk] MUSK APPROACHED TRUMP TO PROPOSE SLOWING DOWN STARLINK IN UKRAINE - TELEGRAPH
-- 10/17 03:09 [financialjuice/FirstSquawk] US: About 400 merchant ships went through Hormuz in past 7 days
-- 10/17 03:10 [financialjuice] CENTCOM: US has helped ship over 100m bbls through Hormuz in past 7 days
-- 10/17 03:11 [financialjuice] CENTCOM Commander: Due to the US naval blockade, Iran has no maritime exports or imports - Post on X
-- 10/17 03:17 [FirstSquawk] US HAS HELPED SHIP OVER 100M BBLS THROUGH HORMUZ IN PAST 7 DAYS
-- 10/17 03:31 [FirstSquawk] US CRUDE OIL FUTURES SETTLE AT $101.41/BBL, UP $3.44, 3.51%
-- 10/17 03:32 [financialjuice] NYMEX Nat Gas Nov. futures settle at $3.1160/MMBTU
-- 10/17 03:32 [financialjuice] NYMEX WTI crude futures settle at $101.41 a barrel, up $3.44, 3.51%
-- 10/17 03:32 [financialjuice] NYMEX gasoline November futures settle at $3.2354 a gallon
-- 10/17 03:32 [financialjuice] NYMEX diesel November futures settle at $4.8991 a gallon
-- 10/17 03:34 [FirstSquawk] BRENT FUTURES RISE TO $110 A BARREL FOR FIRST TIME SINCE MAY 20
-- 10/17 03:44 [FirstSquawk] GERMAN COALITION APPROVES RECORD TOBACCO TAX HIKE, BREAKING PLEDGE - BILD
-- 10/17 03:48 [financialjuice] Iran's Foreign Ministry Spokesperson: Arabia has not yet responded to Iran's mediation response regarding Yemen.
-- 10/17 03:51 [financialjuice/FirstSquawk] SoftBank said to weigh buying largest US security firm Allied.
-- 10/17 03:51 [financialjuice] Allied would have equity value of up to $18 bln in potential deal.
-- 10/17 03:52 [FirstSquawk] US PAYS RECORD $1.05T NET INTEREST ON DEBT IN 2026 FISCAL YEAR
-- 10/17 03:52 [financialjuice] SoftBank’s Son seeking ways to use AI robots across industries.
-- 10/17 03:52 [financialjuice/FirstSquawk] Brent Crude futures settle at $109.86/bbl, up $3.94, 3.72%
-- 10/17 03:57 [financialjuice] 3 missiles were fired at the Aden airport, which is under the control of Saudi mercenaries - Tasnim News citing reports
-- 10/17 04:09 [FirstSquawk] ISRAEL PREPARES FOR POSSIBLE ELECTION ATTACKS, ASSASSINATIONS
-- 10/17 04:11 [financialjuice] Week Ahead: Economic Indicators 19th – 23rd October (US)
-- 10/17 04:15 [financialjuice] Arab sources reported that several explosions were heard in the Yemeni city of Aden - Iran's Seppah
-- 10/17 04:16 [financialjuice] Iran-Russia gas agreement and the connection of Caucasus energy networks in the focus of discussion of the Russian Energy Forum - IRNA
-- 10/17 04:19 [FirstSquawk] GOLDMAN SACHS PRIVATE CREDIT CORP: NET ASSET VALUE ABOUT $9.40 BLN AS OF SEPTEMBER 30 - SEC FILING
-- 10/17 04:22 [financialjuice] Monday FX Options Expiries
-- 10/17 04:31 [financialjuice] CFTC Positions in the Week Ended October 13th
 - 10/17 04:50 [FirstSquawk] US WARNS CHINA TRAVELERS THEY RISK 'WRONGFUL DETENTION':SEMAFOR
 - 10/17 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 2417.6 MLN NASDAQ 100: 826.9 MLN DOW 30: 714.0 MLN MAG 7: 872.9 MLN $MACRO
 - 10/17 04:51 [FirstSquawk] BLACKSTONE PRIVATE CREDIT FUND OUTLOOK REVISED TO STABLE FROM POSITIVE – S&P
@@ -87,3 +55,15 @@
 - 10/17 07:49 [financialjuice] Saudi civil defense issues warning on possible threat in Khamis Mushait and Abha
 - 10/17 07:52 [financialjuice] Saudi civil defense: danger has passed in Khamis Mushait and Abha
 - 10/17 08:50 [financialjuice] Saudi-led coalition: destroys two ballistic missile launchers in Yemen's Saada
+- 10/17 09:03 [FirstSquawk] As self-driving cars edge closer to everyday use, the next frontier for autonomous technology is taking shape: driverless trucks, the massive vehicles that dominate highways - WSJ
+- 10/17 09:04 [FirstSquawk] . Blue Owl’s leadership is pitching a comeback to employees, but the private-credit firm’s stock continues to show no meaningful movement - WSJ
+- 10/17 09:05 [FirstSquawk] Asian Brands Expand Presence in Tokyo’s High-End Retail Hubs as Rents Surge to Record Levels
+- 10/17 09:37 [financialjuice] Trump: waives application of certain sanctions, restrictions, and duties in executive order
+- 10/17 09:42 [financialjuice] Trump: submitted to Congress certification that waiver issuance serves US national interests - order released by White House
+- 10/17 09:49 [financialjuice] Blackstone funds to invest $9 billion in
+- 10/17 09:49 [financialjuice] backed by five-year lease payments from Anthropic for the chips - FT
+- 10/17 09:58 [FirstSquawk] Anthropic to Provide Five-Year Lease Payments for Chips – FT
+- 10/17 10:14 [FirstSquawk] Trump Rolls Back Some Measures Targeting Russia Under the “Graham Law”
+- 10/17 10:15 [FirstSquawk] Germany Moves to Release More Oil Stocks Following G7 Agreement
+- 10/17 10:27 [FirstSquawk] Al Arabiya Reports Airstrike on Houthi Forces West of Taiz in Yemen
+- 10/17 10:37 [financialjuice] Indian police detain 'cockroach' movement founder Abhijeet Dipke: Indian media
