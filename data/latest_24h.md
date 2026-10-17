@@ -7,54 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-18 04:11 JST／対象: 10/17 04:11 〜 10/18 04:11 JST（時刻はすべて日本時間）
+生成: 2026-10-18 06:27 JST／対象: 10/17 06:27 〜 10/18 06:27 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 10/17 18:41 | 10/17 18:43 | 2分（18:41→18:43） |
-| FirstSquawk | 176 | 10/17 04:19 | 10/18 03:41 | ⚠ 252分（14:35→18:47） |
-| financialjuice | 42 | 10/17 04:11 | 10/18 01:38 | ⚠ 837分（10:37→00:34） |
+| FirstSquawk | 171 | 10/17 09:03 | 10/18 03:41 | ⚠ 252分（14:35→18:47） |
+| financialjuice | 20 | 10/17 06:47 | 10/18 06:25 | ⚠ 837分（10:37→00:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 218 行（統合前 220 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 191 行（統合前 193 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/17 04:11 [financialjuice] Week Ahead: Economic Indicators 19th – 23rd October (US)
-- 10/17 04:15 [financialjuice] Arab sources reported that several explosions were heard in the Yemeni city of Aden - Iran's Seppah
-- 10/17 04:16 [financialjuice] Iran-Russia gas agreement and the connection of Caucasus energy networks in the focus of discussion of the Russian Energy Forum - IRNA
-- 10/17 04:19 [FirstSquawk] GOLDMAN SACHS PRIVATE CREDIT CORP: NET ASSET VALUE ABOUT $9.40 BLN AS OF SEPTEMBER 30 - SEC FILING
-- 10/17 04:22 [financialjuice] Monday FX Options Expiries
-- 10/17 04:31 [financialjuice] CFTC Positions in the Week Ended October 13th
-- 10/17 04:50 [FirstSquawk] US WARNS CHINA TRAVELERS THEY RISK 'WRONGFUL DETENTION':SEMAFOR
-- 10/17 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 2417.6 MLN NASDAQ 100: 826.9 MLN DOW 30: 714.0 MLN MAG 7: 872.9 MLN $MACRO
-- 10/17 04:51 [FirstSquawk] BLACKSTONE PRIVATE CREDIT FUND OUTLOOK REVISED TO STABLE FROM POSITIVE – S&P
-- 10/17 04:59 [financialjuice] Explosions occurred in Damascus, the capital of Syria - Tasnim News.
-- 10/17 05:00 [financialjuice] US TIC LONG-TERM TRANSACTIONS ACTUAL 279.2B (FORECAST -, PREVIOUS -27.9B) $MACRO
-- 10/17 05:00 [financialjuice] US OVERALL NET CAPITAL FLOWS ACTUAL 199.8B (FORECAST -, PREVIOUS 83.7B ,REVISION 87.4B) $MACRO
-- 10/17 05:01 [financialjuice] China's US Treasury securities holdings $591 bln in August vs $618 bln in July.
-- 10/17 05:01 [financialjuice] Japan's US Treasury holdings $1.068 trln in August vs $1.104 trln in July.
-- 10/17 05:01 [financialjuice] United Kingdom's US Treasury holdings $1.010 trln in August vs $998 bln in July.
-- 10/17 05:02 [FirstSquawk] S&P 500 UNOFFICIALLY CLOSES DOWN 81.73 POINTS, OR 1.06 PERCENT, AT 7,662.33 DOW JONES UNOFFICIALLY CLOSES DOWN 208.06 POINTS, OR 0.40%, AT 51,969.63 NASDAQ UNOFFICIALLY CLOSES DOWN 568.58 POINTS, OR 2.13 PERCENT, AT 26,144.45
-- 10/17 05:02 [financialjuice] US August net foreign holdings of US Treasury bonds, notes +$108.9 bln vs -$3.6 bln in July (prev -$3.6 bln).
-- 10/17 05:02 [FirstSquawk] COREWEAVE SHARES FALL 12% TO BRING WEEKLY SELLOFF TO 25%
-- 10/17 05:08 [financialjuice] Tech Selloff Deepens as AI Financing Concerns Weigh on Stocks – US Market Wrap
-- 10/17 05:15 [financialjuice] US bank deposits rose to $19.771 tln from $19.694 tln in the prior week.
-- 10/17 05:31 [financialjuice] Iran-backed militias sending money back to cash-starved IRGC - Axios citing CENTCOM Commander.
-- 10/17 05:31 [financialjuice] Iran-backed militias sending money back to cash-starved IRGC - Axios.
-- 10/17 05:33 [financialjuice] NVIDIA CEO on AI Market Turmoil: All of this is going to pass. $NVDA
-- 10/17 05:33 [financialjuice] Trump speaks at a rally in Dalton, Georgia - WATCH LIVE
-- 10/17 05:44 [financialjuice] Anthropic: Revenue per employee 2x-4x its peers, Meta and Google. $META $GOOGL
-- 10/17 05:45 [financialjuice] Trump: Iran will be over very soon
-- 10/17 06:10 [financialjuice] North Korea conducted underwater torpedo test on Oct. 15 to verify upgrades to new weapon system: KCNA
-- 10/17 06:12 [financialjuice] Natca: reaches deal with FAA on 2.8% pay raise for eligible air traffic controllers, effective Oct. 18 and retroactive to first full pay period of 2026
-- 10/17 06:12 [financialjuice] North Korea: successful torpedo test marks key advancement in naval capabilities - KCNA
-- 10/17 06:14 [financialjuice] North Korea: torpedo test confirms propulsion tech developed in over 180 trials across five years - KCNA
-- 10/17 06:15 [financialjuice] North Korea: AI tech used for target detection and guidance in new high-speed precision torpedo - KCNA
 - 10/17 06:47 [financialjuice] UK foreign office: now advises only essential travel to Saudi Arabia
 - 10/17 06:56 [financialjuice] Anthropic quietly proposes its own AI safety bill to lawmakers - Politico
 - 10/17 07:44 [financialjuice] USDOT confirms it withdrew 2025 order barring new flights by Mexican airlines between Mexico City and Santa Lucia airports
@@ -242,3 +211,7 @@
 - 10/18 03:40 [FirstSquawk] | Lebanese President: We want to extend UNIFIL's mandate in any way that guarantees an international presence in the south of the country.
 - 10/18 03:41 [FirstSquawk] French President: There is no place for violence in our republic. Those who attacked shops and municipalities will be prosecuted and punished.
 - 10/18 03:41 [FirstSquawk] French President: We will confront those who spread chaos and prevent peaceful protesters from expressing their demands.
+- 10/18 05:09 [financialjuice] Lebanese president: military delegation to present demands to stop Israeli escalation in trilateral meeting in Tampa, US on October 20
+- 10/18 06:09 [financialjuice] Saudi civil defense: early warning alert issued for Riyadh, Abha and Khamis Mushait
+- 10/18 06:15 [financialjuice] Saudi civil defense: danger has passed in Riyadh
+- 10/18 06:25 [financialjuice] Saudi civil defense: danger has passed in the cities of Abha and Khamis Mushait

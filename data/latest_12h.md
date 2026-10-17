@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-18 04:11 JST／対象: 10/17 16:11 〜 10/18 04:11 JST（時刻はすべて日本時間）
+生成: 2026-10-18 06:27 JST／対象: 10/17 18:27 〜 10/18 06:27 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 10/17 18:41 | 10/17 18:43 | 2分（18:41→18:43） |
 | FirstSquawk | 92 | 10/17 18:47 | 10/18 03:41 | ⚠ 59分（22:28→23:28） |
-| financialjuice | 5 | 10/18 00:34 | 10/18 01:38 | 33分（01:05→01:38） |
+| financialjuice | 9 | 10/18 00:34 | 10/18 06:25 | ⚠ 210分（01:38→05:09） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 97 行（統合前 99 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 101 行（統合前 103 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -121,3 +121,7 @@
 - 10/18 03:40 [FirstSquawk] | Lebanese President: We want to extend UNIFIL's mandate in any way that guarantees an international presence in the south of the country.
 - 10/18 03:41 [FirstSquawk] French President: There is no place for violence in our republic. Those who attacked shops and municipalities will be prosecuted and punished.
 - 10/18 03:41 [FirstSquawk] French President: We will confront those who spread chaos and prevent peaceful protesters from expressing their demands.
+- 10/18 05:09 [financialjuice] Lebanese president: military delegation to present demands to stop Israeli escalation in trilateral meeting in Tampa, US on October 20
+- 10/18 06:09 [financialjuice] Saudi civil defense: early warning alert issued for Riyadh, Abha and Khamis Mushait
+- 10/18 06:15 [financialjuice] Saudi civil defense: danger has passed in Riyadh
+- 10/18 06:25 [financialjuice] Saudi civil defense: danger has passed in the cities of Abha and Khamis Mushait

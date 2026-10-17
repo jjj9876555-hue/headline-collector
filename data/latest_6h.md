@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-18 04:11 JST／対象: 10/17 22:11 〜 10/18 04:11 JST（時刻はすべて日本時間）
+生成: 2026-10-18 06:27 JST／対象: 10/18 00:27 〜 10/18 06:27 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 37 | 10/17 22:22 | 10/18 03:41 | ⚠ 59分（22:28→23:28） |
-| financialjuice | 5 | 10/18 00:34 | 10/18 01:38 | 33分（01:05→01:38） |
+| FirstSquawk | 25 | 10/18 01:01 | 10/18 03:41 | ⚠ 53分（02:47→03:40） |
+| financialjuice | 9 | 10/18 00:34 | 10/18 06:25 | ⚠ 210分（01:38→05:09） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 40 行（統合前 42 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 32 行（統合前 34 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/17 22:22 [FirstSquawk] UKMTO GETS REPORT OF INCIDENT SOUTHEAST OF YEMEN
-- 10/17 22:28 [FirstSquawk] UKMTO: LNG TANKER REPORTS SMALL SKIFF FIRED TWO SHOTS AT IT
-- 10/17 22:28 [FirstSquawk] HUNGARY PM MAGYAR SAYS HE WILL PRESENT 2027 BUDGET IN PARLIAMENT ON MONDAY
-- 10/17 23:28 [FirstSquawk] Yemeni government forces: We are engaged in fierce battles against the Houthi militia in Al-Jawf Governorate
-- 10/17 23:28 [FirstSquawk] Yemeni government forces: We attacked Houthi militia positions and fortifications on the southeastern fronts of Al-Jawf Governorate
-- 10/17 23:28 [FirstSquawk] Israeli occupation forces arrest two young men from the town of Jabatha al-Khashab in the Quneitra countryside after incursions into the area.
-- 10/17 23:59 [FirstSquawk] Iranian Navy: We spotted a violating oil tanker that stopped moving after a fire broke out on board in the Sea of ​​Oman.
-- 10/17 23:59 [FirstSquawk] Iranian Navy: The Strait of Hormuz is closed and countries must coordinate with our forces to ensure safe passage.
-- 10/17 23:59 [FirstSquawk] Fars News Agency: An explosion was heard moments ago in the Kuhstak area and parts of the city of Sirik in the south of the country.
-- 10/17 23:59 [FirstSquawk] Yemeni government forces: We carried out 1,417 targeting operations against the Houthi militia as part of Operation Dawn of Yemen within 24 hours.
-- 10/18 00:00 [FirstSquawk] Saudi Arabia: We intercepted and destroyed 4 drones in the past few hours in the Riyadh, Eastern and Southern regions
-- 10/18 00:21 [FirstSquawk] Israeli Foreign Minister condemns settler attack on European diplomatic delegation in the West Bank
 - 10/18 00:34 [financialjuice/FirstSquawk] Bank of England: Governor Bailey among delegates who walked out of IMF meeting in protest at Russian delegate
 - 10/18 00:37 [financialjuice] UKMTO reports incident 140nm southeast of Al Mukalla, Yemen UKMTO: lng tanker reports approach by small skiff with seven onboard UKMTO: Skiff fired two shots at tanker, armed security team fired two warning shots forcing small craft to chan…
 - 10/18 00:42 [financialjuice/FirstSquawk] One member of Popular Mobilization Forces killed, four wounded in blast at headquarters: security and medical sources
@@ -64,3 +52,7 @@
 - 10/18 03:40 [FirstSquawk] | Lebanese President: We want to extend UNIFIL's mandate in any way that guarantees an international presence in the south of the country.
 - 10/18 03:41 [FirstSquawk] French President: There is no place for violence in our republic. Those who attacked shops and municipalities will be prosecuted and punished.
 - 10/18 03:41 [FirstSquawk] French President: We will confront those who spread chaos and prevent peaceful protesters from expressing their demands.
+- 10/18 05:09 [financialjuice] Lebanese president: military delegation to present demands to stop Israeli escalation in trilateral meeting in Tampa, US on October 20
+- 10/18 06:09 [financialjuice] Saudi civil defense: early warning alert issued for Riyadh, Abha and Khamis Mushait
+- 10/18 06:15 [financialjuice] Saudi civil defense: danger has passed in Riyadh
+- 10/18 06:25 [financialjuice] Saudi civil defense: danger has passed in the cities of Abha and Khamis Mushait
