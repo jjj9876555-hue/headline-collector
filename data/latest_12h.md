@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-18 01:58 JST／対象: 10/17 13:58 〜 10/18 01:58 JST（時刻はすべて日本時間）
+生成: 2026-10-18 04:11 JST／対象: 10/17 16:11 〜 10/18 04:11 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 10/17 18:41 | 10/17 18:43 | 2分（18:41→18:43） |
-| FirstSquawk | 87 | 10/17 14:01 | 10/18 01:56 | ⚠ 252分（14:35→18:47） |
+| FirstSquawk | 92 | 10/17 18:47 | 10/18 03:41 | ⚠ 59分（22:28→23:28） |
 | financialjuice | 5 | 10/18 00:34 | 10/18 01:38 | 33分（01:05→01:38） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 92 行（統合前 94 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 97 行（統合前 99 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/17 14:01 [FirstSquawk] US university offers cut-price UK degree for international students - FT
-- 10/17 14:13 [FirstSquawk] Houthis encircle new target in conflict with Saudi-backed forces- FT
-- 10/17 14:24 [FirstSquawk] HMRC claws back nearly £500mn in underpaid capital gains- FT
-- 10/17 14:35 [FirstSquawk] UK dividend payments jump 14% in a year- FT
 - 10/17 18:41 [DeItaone] ANTHROPIC'S CLARK: WE ARE IN CONTROL OF AI NOW, BUT IT IS GETTING MUCH MORE CAPABLE MUCH MORE QUICKLY THAN OUR INTUITIONS
 - 10/17 18:43 [DeItaone] ANTHROPIC: AI COULD PUSH U.S. GDP TO $44 TRILLION BY 2030 Anthropic co-founder Jack Clark says an internal model projects AI could boost U.S. GDP from $30 trillion to $44 trillion by 2030. Clark credits accelerating AI capabilities and scie…
 - 10/17 18:47 [FirstSquawk] Israeli occupation forces and settlers are preventing Palestinian farmers from harvesting olives in the village of Burqa, Ramallah district.
@@ -116,3 +112,12 @@
 - 10/18 01:55 [FirstSquawk] Hegseth: China is carrying out its largest military buildup in the Pacific.
 - 10/18 01:55 [FirstSquawk] Iraqi government statement: Al-Zaidi orders the formation of an investigation committee regarding the explosion of an ammunition depot inside a Popular Mobilization Forces headquarters in Baghdad
 - 10/18 01:56 [FirstSquawk] 53 airstrikes targeted Sana'a, Taiz, Ibb, Lahj, Sa'dah, and Amran in the past 24 hours
+- 10/18 02:27 [FirstSquawk] Palestinian Red Crescent: A Palestinian man was injured by Israeli occupation forces in the Wadi al-Hummus area, southeast of Bethlehem.
+- 10/18 02:28 [FirstSquawk] Russian Ministry of Defense: We shot down 30 Ukrainian drones today in various parts of the country and in the Black Sea.
+- 10/18 02:46 [FirstSquawk] Netanyahu's office criticizes a "smear campaign" targeting Israel in the wake of settler attacks.
+- 10/18 02:47 [FirstSquawk] AFP: 800,000 people participated in protests against the high cost of living in France
+- 10/18 03:40 [FirstSquawk] Lebanese President: Israel has not adhered to the framework agreement reached under US auspices
+- 10/18 03:40 [FirstSquawk] Lebanese President: Our military delegation will participate in the tripartite meeting in Tampa, Florida next Tuesday
+- 10/18 03:40 [FirstSquawk] | Lebanese President: We want to extend UNIFIL's mandate in any way that guarantees an international presence in the south of the country.
+- 10/18 03:41 [FirstSquawk] French President: There is no place for violence in our republic. Those who attacked shops and municipalities will be prosecuted and punished.
+- 10/18 03:41 [FirstSquawk] French President: We will confront those who spread chaos and prevent peaceful protesters from expressing their demands.
