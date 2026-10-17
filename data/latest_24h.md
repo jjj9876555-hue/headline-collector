@@ -7,94 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-17 15:14 JST／対象: 10/16 15:14 〜 10/17 15:14 JST（時刻はすべて日本時間）
+生成: 2026-10-17 19:49 JST／対象: 10/16 19:49 〜 10/17 19:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 52 | 10/16 19:45 | 10/17 02:53 | ⚠ 55分（23:59→00:55） |
-| FirstSquawk | 209 | 10/16 15:25 | 10/17 14:35 | ⚠ 241分（05:02→09:03） |
-| financialjuice | 171 | 10/16 15:31 | 10/17 10:37 | ⚠ 72分（00:46→01:58） |
+| DeItaone | 52 | 10/16 20:03 | 10/17 18:43 | ⚠ 947分（02:53→18:41） |
+| FirstSquawk | 192 | 10/16 19:51 | 10/17 19:48 | ⚠ 252分（14:35→18:47） |
+| financialjuice | 138 | 10/16 19:51 | 10/17 10:37 | ⚠ 72分（00:46→01:58） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 418 行（統合前 433 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 369 行（統合前 383 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/16 15:25 [FirstSquawk] Swiss Franc Weakens Despite US Dollar Declines and Continued Demand for Safe-Haven Assets
-- 10/16 15:31 [financialjuice] BoJ's Governor Ueda: To keep raising rate in response to economy, prices.
-- 10/16 15:32 [financialjuice] BoJ's Governor Ueda: Increasingly vital to stabilize price trend around 2%.
-- 10/16 15:32 [FirstSquawk] BOJ Governor Ueda Reaffirms Gradual Rate Hikes Based on Economic, Price and Financial Trends
-- 10/16 15:32 [financialjuice] BoJ's Governor Ueda: Price trend is approaching 2%.
-- 10/16 15:33 [FirstSquawk] BOJ’s Ueda Emphasises Greater Importance of Stabilising Underlying Inflation at Around 2%
-- 10/16 15:34 [FirstSquawk] South Korea’s KOSPI Ends the Week Down 14.5%, Its Worst Weekly Performance Since October 2008
-- 10/16 15:34 [financialjuice] BoJ's Governor Ueda: Financial conditions are accommodative.
-- 10/16 15:36 [financialjuice] BoJ's Governor Ueda: There is risk of underlying inflation overshooting 2% price target.
-- 10/16 15:44 [FirstSquawk] Dutch Prime Minister Says All EU Countries Are Unhappy With the European Union’s Budget Plans
-- 10/16 16:06 [FirstSquawk] FORD MOTOR COMPANY FILES RECALL OF 2,276 US VEHICLES - NHTSA
-- 10/16 16:06 [FirstSquawk] MOTOR COACH INDUSTRIES INC FILES RECALL OF 683 US VEHICLES - NHTSA
-- 10/16 16:06 [FirstSquawk] BMW OF NORTH AMERICA LLC FILES RECALL OF 4,630 US VEHICLES - NHTSA
-- 10/16 16:14 [financialjuice] China: EU talks show differences can be managed via dialog.
-- 10/16 16:19 [financialjuice] China Foreign Ministry, on White House Press Secretary remarks: She is welcome to visit China more often if there is opportunity.
-- 10/16 16:20 [FirstSquawk] CHINA IS WILLING TO DISCUSS ISSUES REGARDING ECONOMIC AND TRADE RELATIONS WITH INDIA.
-- 10/16 16:22 [FirstSquawk] CHINA TAKES ACTION TO BOOST STOCK MARKET WITH SELLING LIMITS AND SHARE BUYBACKS.
-- 10/16 16:25 [financialjuice] PBOC's Pan: PBOC to support offshore yuan markets development.
-- 10/16 16:28 [financialjuice] PBOC's Pan: Plans to promote RMB bonds as globally recognized and eligible collateral.
-- 10/16 16:30 [FirstSquawk] PBOC GOVERNOR: TO FURTHER SUPPORT GLOBAL INVESTORS AND ISSUERS PARTICIPATING IN CHINA'S FINANCIAL MARKET; PLANS TO PROMOTE RMB BONDS AS GLOBALLY RECOGNISED AND ELIGIBLE COLLATERAL
-- 10/16 16:30 [FirstSquawk] PBOC GOVERNOR: TO STRENGTHEN DOMESTIC AND FOREIGN FINANCIAL INFRASTRUCTURE CONNECTIVITY; SUPPORT OFFSHORE RMB MARKET DEVELOPMENT
-- 10/16 16:30 [FirstSquawk] PBOC GOVERNOR: OVER 1,200 FOREIGN INVESTORS PARTICIPATE IN CHINA'S INTERBANK BOND MARKET, ACCOUNTING FOR ABOUT 30% OF INVESTOR NUMBER
-- 10/16 16:33 [FirstSquawk] EU'S COSTA: OUR MESSAGE TO ZELENSKIY IS VERY SIMPLE, EU SUPPORT FOR UKRAINE IS AS STRONG AS EVER; NOT THE TIME TO PUT RELIEF ON RUSSIA SANCTIONS
-- 10/16 16:33 [financialjuice] EU's Costa: Not the time to put relief on Russia sanctions.
-- 10/16 16:33 [FirstSquawk] EU'S COSTA ASSURES ZELENSKIY OF CONTINUOUS SUPPORT.
-- 10/16 16:33 [FirstSquawk] EU'S VON DER LEYEN SAYS WORKING INTENSIVELY REGARDING UKRAINE'S PATH TO EU
-- 10/16 16:35 [financialjuice] EU's Von Der Leyen: Working on 22nd package of sanctions against Russia.
-- 10/16 16:35 [FirstSquawk] EU'S VON DER LEYEN: WILL ADDRESS HOW TO SUPPORT UKRAINE DURING THIS WINTER; WORKING ON 22ND PACKAGE OF SANCTIONS AGAINST RUSSIA; WE WILL NOT LIFT ANY SANCTIONS AGAINST RUSSIA UNLESS RUSSIA STOPS ITS WAR
-- 10/16 16:45 [FirstSquawk] RUSSIA'S LAVROV TO VISIT IRAN ON OCTOBER 19 - IFX
-- 10/16 16:45 [FirstSquawk] RUSSIAN FOREIGN MINISTER LAVROV TO VISIT BAHRAIN OCT. 18 - IFX
-- 10/16 16:50 [FirstSquawk] JAPAN, GERMANY IN TALKS TO STRENGTHEN CHIP SUPPLY CHAIN - KYODO
-- 10/16 16:51 [FirstSquawk] AZERBAIJAN'S SOCAR SEEKS TO RESUME GAS BUYS FROM GAZPROM - IFX
-- 10/16 17:04 [financialjuice] China plans to add AI, solar tech to export controls.
-- 10/16 17:04 [financialjuice] South Korea Finance Minister, Central Bank Governor hold joint meeting with us Fed and US Treasury Department - Yonhap.
-- 10/16 17:05 [FirstSquawk] NVIDIA - MERCEDES-BENZ AND NVIDIA EXTEND PARTNERSHIP FOR NEXT-GEN AUTOMATED DRIVING SYSTEMS; MERCEDES-BENZ AND NVIDIA COMBINE MB.OS WITH HYPERION, ALPAMAYO STACK, AND HALOS SAFETY SYSTEM; MERCEDES-BENZ AND NVIDIA TECHNOLOGIES TO SUPPORT SAE…
-- 10/16 17:10 [FirstSquawk] KOREA-US FINANCIAL, MONETARY AUTHORITIES HOLD THEIR FIRST MEETING – YONHAP
-- 10/16 17:22 [FirstSquawk] EU'S KALLAS SAYS EUROPE CAN'T REPLACE STARLINK 'SHORT TERM'
-- 10/16 17:37 [FirstSquawk/financialjuice] IRAN: AIR DEFENSES HAVE BEEN STRENGTHENED SINCE WAR - TASNIM
-- 10/16 17:45 [FirstSquawk] Iran Strengthens Air Defenses Amid Rising Tensions With US Iran says it has significantly strengthened its air defense capabilities since the war, introducing new military equipment and conducting joint exercises with the Islamic Revolution…
-- 10/16 17:59 [financialjuice] ITALIAN HICP FINAL MOM ACTUAL 2.1% (FORECAST 2%, PREVIOUS 2.0%) $MACRO
-- 10/16 18:00 [financialjuice] ITALIAN CPI MOM FINAL ACTUAL 0.7% (FORECAST 0.7%, PREVIOUS 0.7%) $MACRO
-- 10/16 18:00 [financialjuice] ITALIAN CPI YOY FINAL ACTUAL 4.2% (FORECAST 4.2%, PREVIOUS 4.2%) $MACRO
-- 10/16 18:00 [financialjuice] EUROZONE CORE CPI YOY FINAL ACTUAL 2.5% (FORECAST 2.5%, PREVIOUS 2.5%) $MACRO
-- 10/16 18:00 [financialjuice] ❗ EUROZONE CPI MOM FINAL ACTUAL 0.6% (FORECAST 0.6%, PREVIOUS 0.4%) $MACRO
-- 10/16 18:00 [financialjuice] ❗ EUROZONE CPI YOY FINAL ACTUAL 3.8% (FORECAST 3.8%, PREVIOUS 3.8%) $MACRO
-- 10/16 18:00 [financialjuice] EUROZONE TRADE BALANCE NSA ACTUAL -16.1B (FORECAST -, PREVIOUS 14.2B ,REVISION 10.7B) $MACRO
-- 10/16 18:00 [financialjuice] Russia, Iran discuss gas pipeline route, pricing - Tass
-- 10/16 18:01 [FirstSquawk] EUROZONE CPI (MOM) (SEP) ACTUAL: 0.6% VS 0.6% PREVIOUS; EST 0.6%
-- 10/16 18:01 [FirstSquawk] EUROZONE CPI (YOY) (SEP) ACTUAL: 3.8% VS 3.8% PREVIOUS; EST 3.8%
-- 10/16 18:08 [financialjuice] South Korea to extend oil fuel price cap for another 4 weeks - Industry Ministry.
-- 10/16 18:09 [financialjuice] Microsoft disagrees with business software designation.
-- 10/16 18:10 [financialjuice] Flows to stocks were $64.5 bln in week to Wednesday, $39.1 bln to US stocks, and $10 bln to tech stocks - BofA citing EPFR data.
-- 10/16 18:10 [financialjuice] Treasuries saw $3.6 bln inflows in the week, logging 16th weekly inflow; inflows to bond funds totalled $11.8 bln - BofA
-- 10/16 18:34 [financialjuice] German Governor: France and Germany have reached agreement on a joint approach to securing the future of the European automotive industry.
-- 10/16 18:38 [FirstSquawk] ZELENSKIY: HE DISCUSSED 2027 FINANCIAL SUPPORT FOR UKRAINE WITH EU'S COSTA AND VON DER LEYEN
-- 10/16 18:46 [financialjuice] EUROZONE TRADE BALANCE ACTUAL -7B (FORECAST -, PREVIOUS 5B) $MACRO
-- 10/16 18:51 [FirstSquawk] SAUDI CIVIL DEFENSE: ALERTS OF POTENTIAL DANGER IN YANBU GOVERNORATE
-- 10/16 18:51 [FirstSquawk] SAUDI CIVIL DEFENSE: DANGER HAS PASSED IN YANBU
-- 10/16 19:01 [financialjuice] IMF: Euro zone government efforts to cushion high energy prices for consumers could weaken efforts to fight inflation, unless calibrated.
-- 10/16 19:01 [FirstSquawk] IMF: EURO ZONE GOVT EFFORTS TO CUSHION HIGH ENERGY PRICES FOR CONSUMERS COULD WEAKEN EFFORTS TO FIGHT INFLATION, UNLESS CALIBRATED.
-- 10/16 19:01 [financialjuice] ITALIAN INTERNATIONAL TRADE BALANCE ACTUAL 1.773B (FORECAST -, PREVIOUS 8.240B) $MACRO
-- 10/16 19:01 [financialjuice] ITALIAN TRADE BALANCE EU ACTUAL -0.327B (FORECAST -, PREVIOUS 1.251B) $MACRO
-- 10/16 19:04 [FirstSquawk] REGIONS FINANCIAL Q3 NET INTEREST MARGIN 3.68% || Q3 NET INCOME USD 631 MILLION || Q3 ADJUSTED REVENUE USD 1,988 MILLION VS. IBES ESTIMATE USD 1,986 MILLION || Q3 ADJUSTED EPS USD 0.73 VS. IBES ESTIMATE USD 0.66 || Q3 EPS USD 0.71 || Q3 NET…
-- 10/16 19:07 [FirstSquawk] CHINA'S XI, IN INNER MONGOLIA, CALLS FOR BUILDING NATIONAL INTEGRATED COMPUTING POWER NETWORK; CHINA'S XI SAYS SHOULD EXTEND INDUSTRIAL CHAIN, DEEPEN INTEGRATION OF DIGITAL AND REAL ECONOMY
-- 10/16 19:08 [FirstSquawk] CHINA'S XI SAYS SHOULD TRANSFORM COMPUTING POWER ADVANTAGES INTO DEVELOPMENT ADVANTAGES
-- 10/16 19:30 [FirstSquawk] RUSSIA'S NOVAK SAYS EVEN WITH REFINERIES UNDERGOING REPAIRS, THERE IS ENOUGH DIESEL FUEL IN RUSSIA FOR EXPORT
-- 10/16 19:31 [financialjuice] Russia’s Deputy PM Novak: Even with refineries undergoing repairs, there is enough diesel fuel in russia for export.
-- 10/16 19:31 [financialjuice] Russia’s Deputy PM Novak: Contracts needed to start diesel supplies - IFX
-- 10/16 19:36 [FirstSquawk] Truist Financial Q3 26 Earnings: - Adjusted EPS: $1.16 (est $1.11) - Taxable Equivalent Net Interest Margin: 3% (est 2.98%) - Total Average Deposits: $410.7B (est $408.38B)
-- 10/16 19:45 [DeItaone] IRANIAN FUEL SHIPMENTS BREACH U.S. NAVAL BLOCKADE Iran has reportedly exported 4.1 million barrels of LPG aboard at least eight tankers since July, despite the U.S. naval blockade. A separate shipment of Iranian jet fuel reached Myanmar, wh…
-- 10/16 19:48 [DeItaone] $NVDA - GERMAN GOVERNMENT SOURCES: SET TO ANNOUNCE AGREEMENT WITH NVIDIA NEXT WEEK, FOCUSING ON INDUSTRIAL AI
 - 10/16 19:51 [financialjuice] Iran: 'Violating' tanker seen on fire near Hormuz hours ago.
 - 10/16 19:51 [FirstSquawk] IRAN'S NAVY SAYS OIL TANKER CAUGHT FIRE IN GULF OF OMAN WHILE ATTEMPTING TO CROSS PROHIBITED AREA - TASNIM
 - 10/16 19:55 [financialjuice] PBOC Pan: To take China-EU financial cooperation to new stage.
@@ -442,3 +371,25 @@
 - 10/17 14:13 [FirstSquawk] Houthis encircle new target in conflict with Saudi-backed forces- FT
 - 10/17 14:24 [FirstSquawk] HMRC claws back nearly £500mn in underpaid capital gains- FT
 - 10/17 14:35 [FirstSquawk] UK dividend payments jump 14% in a year- FT
+- 10/17 18:41 [DeItaone] ANTHROPIC'S CLARK: WE ARE IN CONTROL OF AI NOW, BUT IT IS GETTING MUCH MORE CAPABLE MUCH MORE QUICKLY THAN OUR INTUITIONS
+- 10/17 18:43 [DeItaone] ANTHROPIC: AI COULD PUSH U.S. GDP TO $44 TRILLION BY 2030 Anthropic co-founder Jack Clark says an internal model projects AI could boost U.S. GDP from $30 trillion to $44 trillion by 2030. Clark credits accelerating AI capabilities and scie…
+- 10/17 18:47 [FirstSquawk] Israeli occupation forces and settlers are preventing Palestinian farmers from harvesting olives in the village of Burqa, Ramallah district.
+- 10/17 18:47 [FirstSquawk] Palestinian Red Crescent: 5 injured in settler attack on Palestinians in Masafer Yatta, south of Hebron
+- 10/17 18:47 [FirstSquawk] Israeli occupation forces open fire on a Palestinian vehicle in the town of Tuqu', southeast of Bethlehem
+- 10/17 18:48 [FirstSquawk] Saudi Civil Defense: Early warning issued in Khamis Mushait Governorate to warn of danger
+- 10/17 18:48 [FirstSquawk] Saudi Civil Defense: Early warning issued in Abha and Khamis Mushait to warn of danger
+- 10/17 18:48 [FirstSquawk] Yemeni government forces: Targeting Houthi gatherings on the Al-Mudharabah front in Lahj Governorate, southern Yemen
+- 10/17 18:48 [FirstSquawk] Iran's Assembly of Experts: US threats of war must be taken seriously and we must maintain our readiness.
+- 10/17 18:49 [FirstSquawk] Iran's Assembly of Experts: The country needs harmony and fundamental issues should not fall victim to partisan disputes.
+- 10/17 18:49 [FirstSquawk] Egyptian President: We will not accept any harm to the Kingdom of Saudi Arabia or its security and stability.
+- 10/17 18:49 [FirstSquawk] Ukrainian President: Exempting Moscow from US sanctions is a reward for Putin, and continued support from Europe and America is essential for us.
+- 10/17 18:49 [FirstSquawk] Zelensky: Russia is launching one of its largest attacks on Ukraine's energy sector using more than 320 drones and missiles
+- 10/17 19:20 [FirstSquawk] EGYPT'S PRESIDENT SAYS HIS COUNTRY WILL TAKE 'WHATEVER MEASURES ARE NECESSARY' TO PROTECT SAUDI ARABIA, CALLS FOR EGYPT'S PARLIAMENT TO HOLD AN EMERGENCY SESSION.
+- 10/17 19:27 [FirstSquawk] ZELENSKYY URGES SUPPORT FOR NEW US SANCTIONS ON RUSSIA AFTER TRUMP PUTS THEM ON HOLD
+- 10/17 19:27 [FirstSquawk] IRAQ AIMS TO PRODUCE 450K B/D FROM FOUR KIRKUK FIELDS: MINISTER
+- 10/17 19:30 [FirstSquawk] SISI: 2030 IS THE END OF MY PRESIDENTIAL TERM AND THIS IS A SETTLED MATTER
+- 10/17 19:32 [FirstSquawk] OIL TRADER YAOYAO LIU WHO MADE BILLIONS FOR VITOL IS LEAVING
+- 10/17 19:38 [FirstSquawk] VATICAN SAYS POPE LEO TO BE RELEASED FROM THE HOSPITAL SATURDAY, 4 DAYS AFTER LUNG CANCER SURGERY
+- 10/17 19:39 [FirstSquawk] FRANCE BRACES FOR PROTESTS AS STUDENTS JOIN YELLOW VESTS
+- 10/17 19:46 [FirstSquawk] UKRAINE CENTRAL BANK GOVERNOR PYSHNYI: WALKOUT BY MANY DELEGATES DURING RUSSIAN REMARKS TO IMFC WAS 'DEEP AND EMOTIONAL MOMENT'
+- 10/17 19:48 [FirstSquawk] UKRAINE'S PYSHNYI: RUSSIA'S UNPROVOKED AGGRESSION HAS TO BE STOPPED

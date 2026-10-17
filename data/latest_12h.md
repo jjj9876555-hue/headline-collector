@@ -7,75 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-17 15:14 JST／対象: 10/17 03:14 〜 10/17 15:14 JST（時刻はすべて日本時間）
+生成: 2026-10-17 19:49 JST／対象: 10/17 07:49 〜 10/17 19:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 0 | - | - | - |
-| FirstSquawk | 93 | 10/17 03:17 | 10/17 14:35 | ⚠ 241分（05:02→09:03） |
-| financialjuice | 47 | 10/17 03:32 | 10/17 10:37 | ⚠ 57分（07:52→08:50） |
+| DeItaone | 2 | 10/17 18:41 | 10/17 18:43 | 2分（18:41→18:43） |
+| FirstSquawk | 99 | 10/17 09:03 | 10/17 19:48 | ⚠ 252分（14:35→18:47） |
+| financialjuice | 7 | 10/17 07:52 | 10/17 10:37 | ⚠ 57分（07:52→08:50） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 138 行（統合前 141 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 108 行（統合前 108 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/17 03:17 [FirstSquawk] US: ABOUT 400 MERCHANT SHIPS WENT THROUGH HORMUZ IN PAST 7 DAYS
-- 10/17 03:17 [FirstSquawk] US HAS HELPED SHIP OVER 100M BBLS THROUGH HORMUZ IN PAST 7 DAYS
-- 10/17 03:31 [FirstSquawk] US CRUDE OIL FUTURES SETTLE AT $101.41/BBL, UP $3.44, 3.51%
-- 10/17 03:32 [financialjuice] NYMEX Nat Gas Nov. futures settle at $3.1160/MMBTU
-- 10/17 03:32 [financialjuice] NYMEX WTI crude futures settle at $101.41 a barrel, up $3.44, 3.51%
-- 10/17 03:32 [financialjuice] NYMEX gasoline November futures settle at $3.2354 a gallon
-- 10/17 03:32 [financialjuice] NYMEX diesel November futures settle at $4.8991 a gallon
-- 10/17 03:34 [FirstSquawk] BRENT FUTURES RISE TO $110 A BARREL FOR FIRST TIME SINCE MAY 20
-- 10/17 03:44 [FirstSquawk] GERMAN COALITION APPROVES RECORD TOBACCO TAX HIKE, BREAKING PLEDGE - BILD
-- 10/17 03:48 [financialjuice] Iran's Foreign Ministry Spokesperson: Arabia has not yet responded to Iran's mediation response regarding Yemen.
-- 10/17 03:51 [financialjuice/FirstSquawk] SoftBank said to weigh buying largest US security firm Allied.
-- 10/17 03:51 [financialjuice] Allied would have equity value of up to $18 bln in potential deal.
-- 10/17 03:52 [FirstSquawk] US PAYS RECORD $1.05T NET INTEREST ON DEBT IN 2026 FISCAL YEAR
-- 10/17 03:52 [financialjuice] SoftBank’s Son seeking ways to use AI robots across industries.
-- 10/17 03:52 [financialjuice/FirstSquawk] Brent Crude futures settle at $109.86/bbl, up $3.94, 3.72%
-- 10/17 03:57 [financialjuice] 3 missiles were fired at the Aden airport, which is under the control of Saudi mercenaries - Tasnim News citing reports
-- 10/17 04:09 [FirstSquawk] ISRAEL PREPARES FOR POSSIBLE ELECTION ATTACKS, ASSASSINATIONS
-- 10/17 04:11 [financialjuice] Week Ahead: Economic Indicators 19th – 23rd October (US)
-- 10/17 04:15 [financialjuice] Arab sources reported that several explosions were heard in the Yemeni city of Aden - Iran's Seppah
-- 10/17 04:16 [financialjuice] Iran-Russia gas agreement and the connection of Caucasus energy networks in the focus of discussion of the Russian Energy Forum - IRNA
-- 10/17 04:19 [FirstSquawk] GOLDMAN SACHS PRIVATE CREDIT CORP: NET ASSET VALUE ABOUT $9.40 BLN AS OF SEPTEMBER 30 - SEC FILING
-- 10/17 04:22 [financialjuice] Monday FX Options Expiries
-- 10/17 04:31 [financialjuice] CFTC Positions in the Week Ended October 13th
-- 10/17 04:50 [FirstSquawk] US WARNS CHINA TRAVELERS THEY RISK 'WRONGFUL DETENTION':SEMAFOR
-- 10/17 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 2417.6 MLN NASDAQ 100: 826.9 MLN DOW 30: 714.0 MLN MAG 7: 872.9 MLN $MACRO
-- 10/17 04:51 [FirstSquawk] BLACKSTONE PRIVATE CREDIT FUND OUTLOOK REVISED TO STABLE FROM POSITIVE – S&P
-- 10/17 04:59 [financialjuice] Explosions occurred in Damascus, the capital of Syria - Tasnim News.
-- 10/17 05:00 [financialjuice] US TIC LONG-TERM TRANSACTIONS ACTUAL 279.2B (FORECAST -, PREVIOUS -27.9B) $MACRO
-- 10/17 05:00 [financialjuice] US OVERALL NET CAPITAL FLOWS ACTUAL 199.8B (FORECAST -, PREVIOUS 83.7B ,REVISION 87.4B) $MACRO
-- 10/17 05:01 [financialjuice] China's US Treasury securities holdings $591 bln in August vs $618 bln in July.
-- 10/17 05:01 [financialjuice] Japan's US Treasury holdings $1.068 trln in August vs $1.104 trln in July.
-- 10/17 05:01 [financialjuice] United Kingdom's US Treasury holdings $1.010 trln in August vs $998 bln in July.
-- 10/17 05:02 [FirstSquawk] S&P 500 UNOFFICIALLY CLOSES DOWN 81.73 POINTS, OR 1.06 PERCENT, AT 7,662.33 DOW JONES UNOFFICIALLY CLOSES DOWN 208.06 POINTS, OR 0.40%, AT 51,969.63 NASDAQ UNOFFICIALLY CLOSES DOWN 568.58 POINTS, OR 2.13 PERCENT, AT 26,144.45
-- 10/17 05:02 [financialjuice] US August net foreign holdings of US Treasury bonds, notes +$108.9 bln vs -$3.6 bln in July (prev -$3.6 bln).
-- 10/17 05:02 [FirstSquawk] COREWEAVE SHARES FALL 12% TO BRING WEEKLY SELLOFF TO 25%
-- 10/17 05:08 [financialjuice] Tech Selloff Deepens as AI Financing Concerns Weigh on Stocks – US Market Wrap
-- 10/17 05:15 [financialjuice] US bank deposits rose to $19.771 tln from $19.694 tln in the prior week.
-- 10/17 05:31 [financialjuice] Iran-backed militias sending money back to cash-starved IRGC - Axios citing CENTCOM Commander.
-- 10/17 05:31 [financialjuice] Iran-backed militias sending money back to cash-starved IRGC - Axios.
-- 10/17 05:33 [financialjuice] NVIDIA CEO on AI Market Turmoil: All of this is going to pass. $NVDA
-- 10/17 05:33 [financialjuice] Trump speaks at a rally in Dalton, Georgia - WATCH LIVE
-- 10/17 05:44 [financialjuice] Anthropic: Revenue per employee 2x-4x its peers, Meta and Google. $META $GOOGL
-- 10/17 05:45 [financialjuice] Trump: Iran will be over very soon
-- 10/17 06:10 [financialjuice] North Korea conducted underwater torpedo test on Oct. 15 to verify upgrades to new weapon system: KCNA
-- 10/17 06:12 [financialjuice] Natca: reaches deal with FAA on 2.8% pay raise for eligible air traffic controllers, effective Oct. 18 and retroactive to first full pay period of 2026
-- 10/17 06:12 [financialjuice] North Korea: successful torpedo test marks key advancement in naval capabilities - KCNA
-- 10/17 06:14 [financialjuice] North Korea: torpedo test confirms propulsion tech developed in over 180 trials across five years - KCNA
-- 10/17 06:15 [financialjuice] North Korea: AI tech used for target detection and guidance in new high-speed precision torpedo - KCNA
-- 10/17 06:47 [financialjuice] UK foreign office: now advises only essential travel to Saudi Arabia
-- 10/17 06:56 [financialjuice] Anthropic quietly proposes its own AI safety bill to lawmakers - Politico
-- 10/17 07:44 [financialjuice] USDOT confirms it withdrew 2025 order barring new flights by Mexican airlines between Mexico City and Santa Lucia airports
-- 10/17 07:49 [financialjuice] Saudi civil defense issues warning on possible threat in Khamis Mushait and Abha
 - 10/17 07:52 [financialjuice] Saudi civil defense: danger has passed in Khamis Mushait and Abha
 - 10/17 08:50 [financialjuice] Saudi-led coalition: destroys two ballistic missile launchers in Yemen's Saada
 - 10/17 09:03 [FirstSquawk] As self-driving cars edge closer to everyday use, the next frontier for autonomous technology is taking shape: driverless trucks, the massive vehicles that dominate highways - WSJ
@@ -162,3 +110,25 @@
 - 10/17 14:13 [FirstSquawk] Houthis encircle new target in conflict with Saudi-backed forces- FT
 - 10/17 14:24 [FirstSquawk] HMRC claws back nearly £500mn in underpaid capital gains- FT
 - 10/17 14:35 [FirstSquawk] UK dividend payments jump 14% in a year- FT
+- 10/17 18:41 [DeItaone] ANTHROPIC'S CLARK: WE ARE IN CONTROL OF AI NOW, BUT IT IS GETTING MUCH MORE CAPABLE MUCH MORE QUICKLY THAN OUR INTUITIONS
+- 10/17 18:43 [DeItaone] ANTHROPIC: AI COULD PUSH U.S. GDP TO $44 TRILLION BY 2030 Anthropic co-founder Jack Clark says an internal model projects AI could boost U.S. GDP from $30 trillion to $44 trillion by 2030. Clark credits accelerating AI capabilities and scie…
+- 10/17 18:47 [FirstSquawk] Israeli occupation forces and settlers are preventing Palestinian farmers from harvesting olives in the village of Burqa, Ramallah district.
+- 10/17 18:47 [FirstSquawk] Palestinian Red Crescent: 5 injured in settler attack on Palestinians in Masafer Yatta, south of Hebron
+- 10/17 18:47 [FirstSquawk] Israeli occupation forces open fire on a Palestinian vehicle in the town of Tuqu', southeast of Bethlehem
+- 10/17 18:48 [FirstSquawk] Saudi Civil Defense: Early warning issued in Khamis Mushait Governorate to warn of danger
+- 10/17 18:48 [FirstSquawk] Saudi Civil Defense: Early warning issued in Abha and Khamis Mushait to warn of danger
+- 10/17 18:48 [FirstSquawk] Yemeni government forces: Targeting Houthi gatherings on the Al-Mudharabah front in Lahj Governorate, southern Yemen
+- 10/17 18:48 [FirstSquawk] Iran's Assembly of Experts: US threats of war must be taken seriously and we must maintain our readiness.
+- 10/17 18:49 [FirstSquawk] Iran's Assembly of Experts: The country needs harmony and fundamental issues should not fall victim to partisan disputes.
+- 10/17 18:49 [FirstSquawk] Egyptian President: We will not accept any harm to the Kingdom of Saudi Arabia or its security and stability.
+- 10/17 18:49 [FirstSquawk] Ukrainian President: Exempting Moscow from US sanctions is a reward for Putin, and continued support from Europe and America is essential for us.
+- 10/17 18:49 [FirstSquawk] Zelensky: Russia is launching one of its largest attacks on Ukraine's energy sector using more than 320 drones and missiles
+- 10/17 19:20 [FirstSquawk] EGYPT'S PRESIDENT SAYS HIS COUNTRY WILL TAKE 'WHATEVER MEASURES ARE NECESSARY' TO PROTECT SAUDI ARABIA, CALLS FOR EGYPT'S PARLIAMENT TO HOLD AN EMERGENCY SESSION.
+- 10/17 19:27 [FirstSquawk] ZELENSKYY URGES SUPPORT FOR NEW US SANCTIONS ON RUSSIA AFTER TRUMP PUTS THEM ON HOLD
+- 10/17 19:27 [FirstSquawk] IRAQ AIMS TO PRODUCE 450K B/D FROM FOUR KIRKUK FIELDS: MINISTER
+- 10/17 19:30 [FirstSquawk] SISI: 2030 IS THE END OF MY PRESIDENTIAL TERM AND THIS IS A SETTLED MATTER
+- 10/17 19:32 [FirstSquawk] OIL TRADER YAOYAO LIU WHO MADE BILLIONS FOR VITOL IS LEAVING
+- 10/17 19:38 [FirstSquawk] VATICAN SAYS POPE LEO TO BE RELEASED FROM THE HOSPITAL SATURDAY, 4 DAYS AFTER LUNG CANCER SURGERY
+- 10/17 19:39 [FirstSquawk] FRANCE BRACES FOR PROTESTS AS STUDENTS JOIN YELLOW VESTS
+- 10/17 19:46 [FirstSquawk] UKRAINE CENTRAL BANK GOVERNOR PYSHNYI: WALKOUT BY MANY DELEGATES DURING RUSSIAN REMARKS TO IMFC WAS 'DEEP AND EMOTIONAL MOMENT'
+- 10/17 19:48 [FirstSquawk] UKRAINE'S PYSHNYI: RUSSIA'S UNPROVOKED AGGRESSION HAS TO BE STOPPED
