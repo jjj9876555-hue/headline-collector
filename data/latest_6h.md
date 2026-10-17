@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-17 19:49 JST／対象: 10/17 13:49 〜 10/17 19:49 JST（時刻はすべて日本時間）
+生成: 2026-10-17 22:58 JST／対象: 10/17 16:58 〜 10/17 22:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 10/17 18:41 | 10/17 18:43 | 2分（18:41→18:43） |
-| FirstSquawk | 27 | 10/17 13:49 | 10/17 19:48 | ⚠ 252分（14:35→18:47） |
+| FirstSquawk | 58 | 10/17 18:47 | 10/17 22:28 | 30分（18:49→19:20） |
 | financialjuice | 0 | - | - | - |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 29 行（統合前 29 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 60 行（統合前 60 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/17 13:49 [FirstSquawk] Paraguay’s Tech Minister Says Taiwan Relations Are Non-Negotiable Despite Beijing’s Sanctions
-- 10/17 13:50 [FirstSquawk] Reuters: Delegates Walk Out of IMF Steering Committee Meeting in Bangkok as Russian Official Speaks
-- 10/17 13:50 [FirstSquawk] Mongolia Contributes $1.3 Million to World Bank Fund Supporting the Poorest Countries
-- 10/17 14:01 [FirstSquawk] US university offers cut-price UK degree for international students - FT
-- 10/17 14:13 [FirstSquawk] Houthis encircle new target in conflict with Saudi-backed forces- FT
-- 10/17 14:24 [FirstSquawk] HMRC claws back nearly £500mn in underpaid capital gains- FT
-- 10/17 14:35 [FirstSquawk] UK dividend payments jump 14% in a year- FT
 - 10/17 18:41 [DeItaone] ANTHROPIC'S CLARK: WE ARE IN CONTROL OF AI NOW, BUT IT IS GETTING MUCH MORE CAPABLE MUCH MORE QUICKLY THAN OUR INTUITIONS
 - 10/17 18:43 [DeItaone] ANTHROPIC: AI COULD PUSH U.S. GDP TO $44 TRILLION BY 2030 Anthropic co-founder Jack Clark says an internal model projects AI could boost U.S. GDP from $30 trillion to $44 trillion by 2030. Clark credits accelerating AI capabilities and scie…
 - 10/17 18:47 [FirstSquawk] Israeli occupation forces and settlers are preventing Palestinian farmers from harvesting olives in the village of Burqa, Ramallah district.
@@ -53,3 +46,41 @@
 - 10/17 19:39 [FirstSquawk] FRANCE BRACES FOR PROTESTS AS STUDENTS JOIN YELLOW VESTS
 - 10/17 19:46 [FirstSquawk] UKRAINE CENTRAL BANK GOVERNOR PYSHNYI: WALKOUT BY MANY DELEGATES DURING RUSSIAN REMARKS TO IMFC WAS 'DEEP AND EMOTIONAL MOMENT'
 - 10/17 19:48 [FirstSquawk] UKRAINE'S PYSHNYI: RUSSIA'S UNPROVOKED AGGRESSION HAS TO BE STOPPED
+- 10/17 19:56 [FirstSquawk] ITALIAN STEELMAKER SEEKS TO DOUBLE FURLOUGH TO 8,600 WORKERS
+- 10/17 20:07 [FirstSquawk] SPACEX STARLINK CUTS HOBBLED UKRAINE BEFORE RUSSIAN BOMBARDMENT
+- 10/17 20:16 [FirstSquawk] Yaoyao Liu Exits Vitol After Billions in Trading Profits Yaoyao Liu is leaving Vitol after a 14-year career in which his oil derivatives trading reportedly generated billions of dollars in profits. His biggest success came in 2022, when his…
+- 10/17 20:16 [FirstSquawk] ZELENSKIY: UKRAINE'S DRONE INTERCEPTORS UNABLE TO WORK AS STARLINK SPEED IS LIMITED
+- 10/17 20:17 [FirstSquawk] ZELENSKIY, ON STARLINK: UKRAINE REMAINS IN CONTACTS WITH U.S. SIDE, BEING TOLD ITS TECHNICAL ISSUE
+- 10/17 20:17 [FirstSquawk] ZELENSKIY: UKRAINE TESTED STARLINK ON EU TERRITORY, NO SUCH PROBLEMS THERE
+- 10/17 20:17 [FirstSquawk] ZELENSKIY: UKRAINE COUNTS ON AIR DEFENCES SUPPLIES FROM EUROPEAN ALLIES A LOT
+- 10/17 20:18 [FirstSquawk] Houthis Strike Yemen Airport as Saudi Arabia Intercepts Missiles and Drones Yemen’s Houthis struck Aden airport with two missiles, while Saudi-led forces intercepted drones near Riyadh and missiles over the Red Sea, including one targeting …
+- 10/17 20:22 [FirstSquawk] ZELENSKIY: URGES TO SPEED UP WORK ON FREJYA SYSTEM
+- 10/17 20:23 [FirstSquawk] ZELENSKIY: MEETING WITH U.S. SIDE POSSIBLE NEXT WEEK
+- 10/17 20:24 [FirstSquawk] IMF Pledges Support as Iraq Seeks Emergency Financial Assistance Iraq has approached the International Monetary Fund (IMF) for a new financial program as the US-Israel war with Iran disrupts oil exports and squeezes government revenue. IMF …
+- 10/17 20:25 [FirstSquawk] ZELENSKIY: EUROPE NEEDS ITS OWN TRACK FOR TALKS WITH RUSSIA
+- 10/17 20:26 [FirstSquawk] ZELENSKYY: UKRAINE IS READY TO TALK WITH US ANYWHERE
+- 10/17 20:37 [FirstSquawk] ZELENSKYY: UKRAINE-US MEETING MAY HAPPEN NEXT WEEK
+- 10/17 20:38 [FirstSquawk] ZELENSKIY: THERE IS A THREAT OF ESCALATING RUSSIAN STRIKES IN WEST OF UKRAINE
+- 10/17 20:39 [FirstSquawk] ZELENSKIY: RUSSIA WOULD LIKE TO DEPLOY BALLISTIC SYSTEMS IN BELARUS
+- 10/17 20:40 [FirstSquawk] ZELENSKIY SAYS TRILATERAL LEADERS MEETING COULD POTENTIALLY TAKE PLACE AT G20 SUMMIT
+- 10/17 20:47 [FirstSquawk] ZELENSKIY: TRILATERAL LEADERS MEETING COULD POTENTIALLY TAKE PLACE AT G20 SUMMIT
+- 10/17 20:56 [FirstSquawk] TRUDY HOLDING STEADY AS IT MOVES NORTHWESTWARD :NHC
+- 10/17 20:56 [FirstSquawk] TRUDY : TRUDY EXPECTED TO PASS NEAR THE COAST OF WEST-CENTRAL MEXICO LATER TODAY INTO SUNDAY
+- 10/17 21:04 [FirstSquawk] HUNGARY PM MAGYAR: ZELENSKIY ASKED POLAND, ROMANIA, SLOVAKIA, HUNGARY TO ALLOW TRANSIT OF UKRAINIAN GRAIN CARGOES DUE TO BLACK SEA BLOCKADE, BROADCASTER RTL REPORTS
+- 10/17 21:06 [FirstSquawk] HUNGARY PM MAGYAR SAYS ZELENSKIY SAID ALLOWING MAIZE CARGOES THROUGH IN SEALED FREIGHT WAGONS TO WESTERN EUROPE WOULD HELP UKRAINE - RTL REPORTS
+- 10/17 21:13 [FirstSquawk] IRAN'S IRGC SAYS ANOTHER OIL TANKER STRUCK MINE IN HORMUZ
+- 10/17 21:26 [FirstSquawk] EGYPT READY TO DEFEND SAUDI ARABIA IF NEEDED, SISI SAYS
+- 10/17 21:28 [FirstSquawk] MUSK CLAIMS AI, ROBOTS ONLY WAY TO FIX NATIONAL DEBT
+- 10/17 21:35 [FirstSquawk] MUSK SAYS HE WAS GONE FOR TOO LONG FROM HIS COMPANIES: AXIOS
+- 10/17 21:35 [FirstSquawk] MUSK SAYS HE SHOULD'VE GONE BACK SOONER TO FOCUS ON AI: AXIOS
+- 10/17 21:36 [FirstSquawk] MUSK SAYS HE 'KINDA GOT CARRIED AWAY' AT WHITE HOUSE: AXIOS
+- 10/17 21:47 [FirstSquawk] EGYPTIAN, IRANIAN FOREIGN MINISTERS MEET ON MIDDLE EAST CRISIS
+- 10/17 21:51 [FirstSquawk] TOURIST OFFICE BUILDING SET ABLAZE IN FRENCH CITY OF LYON ON THE MARGINS OF PROTESTS OVER RISING COST OF LIVING - BFMTV
+- 10/17 21:58 [FirstSquawk] CHINA CENTRAL BANK CHIEF SAYS HE SUPPORTS THE MULTILATERAL TRADING SYSTEM AND OPPOSES ALL FORMS OF PROTECTIONIST MEASURES
+- 10/17 21:58 [FirstSquawk] CHINA CENTRAL BANK CHIEF SAYS HE SUPPORTS THE IMF IN STRENGTHENING SURVEILLANCE OVER FISCAL RISKS IN MAJOR ADVANCED ECONOMIES AND THEIR SPILLOVER EFFECTS
+- 10/17 22:03 [FirstSquawk] MACKLEM SAYS HIGH OIL PRICES BENEFITING CANADA GROWTH
+- 10/17 22:03 [FirstSquawk] MACKLEM SAYS CANADA GOT INVESTMENT BOOST FROM HIGH OIL PRICES
+- 10/17 22:03 [FirstSquawk] MACKLEM SEES HIGHER RISK OF BROAD INFLATION FROM OIL PRICES
+- 10/17 22:22 [FirstSquawk] UKMTO GETS REPORT OF INCIDENT SOUTHEAST OF YEMEN
+- 10/17 22:28 [FirstSquawk] UKMTO: LNG TANKER REPORTS SMALL SKIFF FIRED TWO SHOTS AT IT
+- 10/17 22:28 [FirstSquawk] HUNGARY PM MAGYAR SAYS HE WILL PRESENT 2027 BUDGET IN PARLIAMENT ON MONDAY
