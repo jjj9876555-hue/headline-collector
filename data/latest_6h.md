@@ -7,50 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-19 04:29 JST／対象: 10/18 22:29 〜 10/19 04:29 JST（時刻はすべて日本時間）
+生成: 2026-10-19 06:45 JST／対象: 10/19 00:45 〜 10/19 06:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 0 | - | - | - |
-| FirstSquawk | 48 | 10/18 22:44 | 10/19 03:38 | ⚠ 64分（01:16→02:20） |
-| financialjuice | 20 | 10/18 22:31 | 10/19 04:07 | ⚠ 61分（02:06→03:07） |
+| DeItaone | 4 | 10/19 05:38 | 10/19 06:20 | 37分（05:42→06:20） |
+| FirstSquawk | 36 | 10/19 01:13 | 10/19 06:32 | ⚠ 70分（04:39→05:49） |
+| financialjuice | 14 | 10/19 01:03 | 10/19 05:42 | ⚠ 73分（04:07→05:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 62 行（統合前 68 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 48 行（統合前 54 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/18 22:31 [financialjuice] Saudi civil defense alerts potential hazard in Najran
-- 10/18 22:35 [financialjuice] Saudi civil defense: danger has passed in Najran
-- 10/18 22:44 [FirstSquawk] Saudi Civil Defense: Alert issued in Najran region to warn of danger
-- 10/18 22:44 [FirstSquawk] Saudi Civil Defense: Danger has passed from the Najran region
-- 10/18 22:44 [FirstSquawk] Egypt's parliament to resume talks Monday on backing Saudi Arabia amid Houthi assaults, lawmakers and local media say
-- 10/18 23:01 [financialjuice/FirstSquawk] Zelenskyy: speaking to Witkoff, Kushner about peace talks
-- 10/18 23:05 [financialjuice/FirstSquawk] Russian Defence Ministry: hit cargo ship near Ukraine's Odesa
-- 10/18 23:07 [FirstSquawk] Accenture looks to sell Chinese operations for up to $1.5bn - FT
-- 10/18 23:08 [FirstSquawk] St Petersburg endures biggest Ukrainian drone attack - FT
-- 10/18 23:08 [FirstSquawk] France reels after ‘unprecedented’ violent riots - FT
-- 10/18 23:08 [FirstSquawk] Microsoft pulls plug on Nscale data centre deal - FT
-- 10/18 23:08 [FirstSquawk] Treasury introduces new security measures in bid to stop UK Budget leaks - FT
-- 10/18 23:38 [FirstSquawk] Two sides still divided on Taiwan despite plans for more Trump-Xi meetings. - Nikkei
-- 10/18 23:38 [FirstSquawk] IMF meetings end with the region's resilience increasingly uneven and under pressure. - Nikkei
-- 10/18 23:38 [FirstSquawk] Luxury cruise passes former capitals and Buddhist ruins before floods intervene. - Nikkei
-- 10/18 23:47 [financialjuice] Trump endorses Netanyahu in Israel election: Truth Social post
-- 10/18 23:57 [financialjuice] Ukraine president Zelenskiy: spoke with US president’s envoys Steve Witkoff and Jared Kushner
-- 10/18 23:58 [financialjuice] Zelenskiy: US, Ukrainian negotiators hold virtually nonstop communication
-- 10/19 00:14 [financialjuice] UAE vice president discusses regional developments with Saudi defense minister in Abu Dhabi: Emirati state news agency
-- 10/19 00:28 [financialjuice] Saudi civil defense: six injured after projectile lands in Najran
-- 10/19 00:29 [FirstSquawk] Trump, in a post on Truth Social: I support Netanyahu in the Israeli elections
-- 10/19 00:29 [FirstSquawk] Trump: Iran has been systematically subjected to devastating military and financial blows
-- 10/19 00:30 [FirstSquawk] Trump: If someone other than Netanyahu takes over the leadership of Israel, America will have to complete the mission against Iran itself, which is something I don't want
-- 10/19 00:30 [FirstSquawk] Trump: If Iran does not change its approach quickly, we will complete the mission against it soon.
-- 10/19 00:30 [FirstSquawk] Yemeni sources: Dozens killed and wounded among government forces and Houthis in clashes and airstrikes in Taiz and Lahj
-- 10/19 00:30 [FirstSquawk] UAE Vice President Sheikh Mansour bin Zayed meets with Saudi Defense Minister in Abu Dhabi
-- 10/19 00:30 [FirstSquawk] Netanyahu thanks Trump for his "tremendous support" and says they will get the job done "together".
 - 10/19 01:03 [financialjuice/FirstSquawk] US ambassador to EU Puzder warns of ‘devastating’ retaliation if Brussels limits spectrum access for non-EU firms - FT
 - 10/19 01:08 [financialjuice/FirstSquawk] Iran foreign ministry spokesperson: Russia's foreign minister to visit Tehran on Monday - Iranian media
 - 10/19 01:13 [FirstSquawk] Zelensky: I held talks with US President's envoys Steve Wittkopf and Jared Kushner
@@ -86,3 +59,16 @@
 - 10/19 03:23 [FirstSquawk] UKRAINE’S ZELENSKYY SAYS UKRAINE WON’T HIT RUSSIAN REFINERIES IF THE U.S. SENDS MORE INTERCEPTORS, ADDING THAT TRUMP IS PUSHING UKRAINE TO CAPITULATE TO RUSSIA
 - 10/19 03:59 [financialjuice] Zelenskyy: Trump is urging Ukraine to surrender to Russia
 - 10/19 04:07 [financialjuice] Ukraine’s Zelenskiy: Trump is urging Ukraine to surrender to Russia
+- 10/19 04:30 [FirstSquawk] UKRAINE’S ZELENSKIY SAYS TRUMP IS URGING UKRAINE TO SURRENDER TO RUSSIA
+- 10/19 04:39 [FirstSquawk] ZELENSKYY ACCUSED TRUMP OF PRESSURING UKRAINE TO MAKE CONCESSIONS TO RUSSIA, CITING DELAYED PATRIOT MISSILE DELIVERIES, STARLINK RESTRICTIONS AND EASED RUSSIA-RELATED SANCTIONS. HE PROPOSED HALTING STRIKES ON RUSSIAN OIL REFINERIES IN EXCHA…
+- 10/19 04:39 [FirstSquawk] UKRAINE FACES INTENSIFYING RUSSIAN ATTACKS, INTERCEPTOR SHORTAGES AND POWER OUTAGES AHEAD OF WINTER. ZELENSKYY HOPES US-UKRAINE RELATIONS MAY IMPROVE AFTER THE NOVEMBER 3 MIDTERM ELECTIONS, WHILE PEACE TALKS REMAIN UNDER DISCUSSION.
+- 10/19 05:21 [financialjuice] Elon Musk: I recommend distributing shares directly to public after Anthropic pledges 5% stake to new public benefit fund - x post
+- 10/19 05:38 [DeItaone] ELON MUSK SAYS "I RECOMMEND GIVING THE SHARES DIRECTLY TO THE PUBLIC" AFTER ANTHROPIC SAYS IT WILL COMMIT 5% STAKE TO NEW PUBLIC BENEFIT FUND- X POST
+- 10/19 05:41 [financialjuice/FirstSquawk] Trump: recent moves on Russia aimed at keeping Moscow negotiating for peace
+- 10/19 05:42 [financialjuice] Iran's IRGC navy: oil tanker ignites and blasts after striking mine in Strait of Hormuz - Iranian media
+- 10/19 05:42 [DeItaone] TRUMP: RECENT ACTIONS ON RUSSIA DESIGNED TO KEEP RUSSIA NEGOTIATING FOR PEACE
+- 10/19 05:42 [DeItaone] IRAN'S IRGC NAVY SAYS OIL TANKER CAUGHT FIRE AND EXPLODED AFTER HITTING MINE IN STRAIT OF HORMUZ - IRANIAN MEDIA
+- 10/19 05:49 [FirstSquawk] IRAN’S IRGC NAVY: OIL TANKER CAUGHT FIRE AND EXPLODED AFTER HITTING MINE IN STRAIT OF HORMUZ
+- 10/19 05:50 [FirstSquawk] TRUMP SAYS HE IS NEGOTIATING PEACE BETWEEN RUSSIA AND UKRAINE, WITH ‘GREAT PROGRESS’ BEING MADE IN PEACE AND HOSTAGE TALKS, THOUGH HE SAYS SIGNING A RUSSIA DOCUMENT NOW COULD DRIVE MOSCOW FROM THE TALKS, AND ADDS THAT RUSSIA ‘MUST STAY AWAY…
+- 10/19 05:50 [FirstSquawk] TRUMP CRITICISES ZELENSKYY FOR TARGETING RUSSIAN DIESEL REFINERIES, SAYING UKRAINE’S REFINERY ATTACKS HURT GLOBAL AND U.S. DIESEL MARKETS AND THAT ZELENSKYY ‘DOES NOT WANT TO END THE WAR WITH RUSSIA’.
+- 10/19 06:09 [FirstSquawk/DeItaone] EURO SLIPS 0.4% TO $1.1191 IN WAKE OF FRENCH RIOTS

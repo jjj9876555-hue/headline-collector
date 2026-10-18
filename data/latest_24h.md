@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-19 04:29 JST／対象: 10/18 04:29 〜 10/19 04:29 JST（時刻はすべて日本時間）
+生成: 2026-10-19 06:45 JST／対象: 10/18 06:45 〜 10/19 06:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 4 | 10/18 18:16 | 10/18 21:42 | ⚠ 205分（18:17→21:42） |
-| FirstSquawk | 182 | 10/18 11:08 | 10/19 03:38 | ⚠ 65分（20:29→21:35） |
-| financialjuice | 62 | 10/18 05:09 | 10/19 04:07 | ⚠ 177分（09:13→12:10） |
+| DeItaone | 8 | 10/18 18:16 | 10/19 06:20 | ⚠ 476分（21:42→05:38） |
+| FirstSquawk | 190 | 10/18 11:08 | 10/19 06:32 | ⚠ 70分（04:39→05:49） |
+| financialjuice | 61 | 10/18 06:56 | 10/19 05:42 | ⚠ 177分（09:13→12:10） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 231 行（統合前 248 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 240 行（統合前 259 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/18 05:09 [financialjuice] Lebanese president: military delegation to present demands to stop Israeli escalation in trilateral meeting in Tampa, US on October 20
-- 10/18 06:09 [financialjuice] Saudi civil defense: early warning alert issued for Riyadh, Abha and Khamis Mushait
-- 10/18 06:15 [financialjuice] Saudi civil defense: danger has passed in Riyadh
-- 10/18 06:25 [financialjuice] Saudi civil defense: danger has passed in the cities of Abha and Khamis Mushait
 - 10/18 06:56 [financialjuice] Saudi-led coalition: intercepts and destroys two ballistic missiles launched by Houthi toward Khamis Mushait
 - 10/18 07:43 [financialjuice] Saudi-led coalition: drone intercepted and destroyed in Riyadh region
 - 10/18 08:08 [financialjuice] US Secretary of State Rubio: no one at the White House directed slowdown of speed
@@ -255,3 +251,16 @@
 - 10/19 03:23 [FirstSquawk] UKRAINE’S ZELENSKYY SAYS UKRAINE WON’T HIT RUSSIAN REFINERIES IF THE U.S. SENDS MORE INTERCEPTORS, ADDING THAT TRUMP IS PUSHING UKRAINE TO CAPITULATE TO RUSSIA
 - 10/19 03:59 [financialjuice] Zelenskyy: Trump is urging Ukraine to surrender to Russia
 - 10/19 04:07 [financialjuice] Ukraine’s Zelenskiy: Trump is urging Ukraine to surrender to Russia
+- 10/19 04:30 [FirstSquawk] UKRAINE’S ZELENSKIY SAYS TRUMP IS URGING UKRAINE TO SURRENDER TO RUSSIA
+- 10/19 04:39 [FirstSquawk] ZELENSKYY ACCUSED TRUMP OF PRESSURING UKRAINE TO MAKE CONCESSIONS TO RUSSIA, CITING DELAYED PATRIOT MISSILE DELIVERIES, STARLINK RESTRICTIONS AND EASED RUSSIA-RELATED SANCTIONS. HE PROPOSED HALTING STRIKES ON RUSSIAN OIL REFINERIES IN EXCHA…
+- 10/19 04:39 [FirstSquawk] UKRAINE FACES INTENSIFYING RUSSIAN ATTACKS, INTERCEPTOR SHORTAGES AND POWER OUTAGES AHEAD OF WINTER. ZELENSKYY HOPES US-UKRAINE RELATIONS MAY IMPROVE AFTER THE NOVEMBER 3 MIDTERM ELECTIONS, WHILE PEACE TALKS REMAIN UNDER DISCUSSION.
+- 10/19 05:21 [financialjuice] Elon Musk: I recommend distributing shares directly to public after Anthropic pledges 5% stake to new public benefit fund - x post
+- 10/19 05:38 [DeItaone] ELON MUSK SAYS "I RECOMMEND GIVING THE SHARES DIRECTLY TO THE PUBLIC" AFTER ANTHROPIC SAYS IT WILL COMMIT 5% STAKE TO NEW PUBLIC BENEFIT FUND- X POST
+- 10/19 05:41 [financialjuice/FirstSquawk] Trump: recent moves on Russia aimed at keeping Moscow negotiating for peace
+- 10/19 05:42 [financialjuice] Iran's IRGC navy: oil tanker ignites and blasts after striking mine in Strait of Hormuz - Iranian media
+- 10/19 05:42 [DeItaone] TRUMP: RECENT ACTIONS ON RUSSIA DESIGNED TO KEEP RUSSIA NEGOTIATING FOR PEACE
+- 10/19 05:42 [DeItaone] IRAN'S IRGC NAVY SAYS OIL TANKER CAUGHT FIRE AND EXPLODED AFTER HITTING MINE IN STRAIT OF HORMUZ - IRANIAN MEDIA
+- 10/19 05:49 [FirstSquawk] IRAN’S IRGC NAVY: OIL TANKER CAUGHT FIRE AND EXPLODED AFTER HITTING MINE IN STRAIT OF HORMUZ
+- 10/19 05:50 [FirstSquawk] TRUMP SAYS HE IS NEGOTIATING PEACE BETWEEN RUSSIA AND UKRAINE, WITH ‘GREAT PROGRESS’ BEING MADE IN PEACE AND HOSTAGE TALKS, THOUGH HE SAYS SIGNING A RUSSIA DOCUMENT NOW COULD DRIVE MOSCOW FROM THE TALKS, AND ADDS THAT RUSSIA ‘MUST STAY AWAY…
+- 10/19 05:50 [FirstSquawk] TRUMP CRITICISES ZELENSKYY FOR TARGETING RUSSIAN DIESEL REFINERIES, SAYING UKRAINE’S REFINERY ATTACKS HURT GLOBAL AND U.S. DIESEL MARKETS AND THAT ZELENSKYY ‘DOES NOT WANT TO END THE WAR WITH RUSSIA’.
+- 10/19 06:09 [FirstSquawk/DeItaone] EURO SLIPS 0.4% TO $1.1191 IN WAKE OF FRENCH RIOTS

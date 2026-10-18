@@ -7,48 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-19 04:29 JST／対象: 10/18 16:29 〜 10/19 04:29 JST（時刻はすべて日本時間）
+生成: 2026-10-19 06:45 JST／対象: 10/18 18:45 〜 10/19 06:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 4 | 10/18 18:16 | 10/18 21:42 | ⚠ 205分（18:17→21:42） |
-| FirstSquawk | 104 | 10/18 16:57 | 10/19 03:38 | ⚠ 65分（20:29→21:35） |
-| financialjuice | 40 | 10/18 17:22 | 10/19 04:07 | ⚠ 123分（19:47→21:50） |
+| DeItaone | 5 | 10/18 21:42 | 10/19 06:20 | ⚠ 476分（21:42→05:38） |
+| FirstSquawk | 94 | 10/18 19:12 | 10/19 06:32 | ⚠ 70分（04:39→05:49） |
+| financialjuice | 39 | 10/18 19:00 | 10/19 05:42 | ⚠ 123分（19:47→21:50） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 131 行（統合前 148 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 119 行（統合前 138 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/18 16:57 [FirstSquawk] Italy's Defense Minister Guido Crosetto: It’s a total mistake, a big mistake, because it’s fundamental support. It means denying a country every possibility of defending itself.
-- 10/18 16:57 [FirstSquawk] DOZENS of CANADIAN TROOPS PARACHUTE into WAINWRIGHT to ASSIST HEALTH SERVICES after BASE BLAST & FIRE
-- 10/18 16:58 [FirstSquawk] China's space station is advancing research that aims to grow two generations of rice in orbit for the first time.
-- 10/18 16:58 [FirstSquawk] Ukrainian drones struck Saint Petersburg overnight, sparking fires at the Petersburg Oil Terminal and cutting power to 20,000 people.
-- 10/18 16:59 [FirstSquawk] Ankara faced similar public pressure in 2024 over Israel’s massacres in Gaza, prompting it to impose a trade ban on Israel and join the ICJ case against it.
-- 10/18 17:22 [financialjuice] NEW ZEALAND ANNUAL TRADE BAL. ACTUAL -5.44B (FORECAST -, PREVIOUS -5.41B) $MACRO
-- 10/18 17:34 [FirstSquawk] Australian home prices are plunging, as interest rate hikes and tax reforms aimed at curbing residential investment have dampened the market, impacting construction demand and casting doubt on the government's plans to boost housing supply.
-- 10/18 17:34 [FirstSquawk] JD Vance: Do I see evidence of corruption from the president of the United States, from the administration? No, Tony. I just don't.
-- 10/18 17:34 [FirstSquawk] Mohsen Rezaei, secretary of Iran’s Supreme National Security Council, said on Sunday that the armed forces had prepared a new operational plan for any renewed attack.
-- 10/18 17:35 [FirstSquawk] JD Vance: Gas prices are too high. They would be three times as high if it weren't for the United States Navy keeping oil and gas moving out of the Strait of Hormuz.
-- 10/18 17:35 [FirstSquawk] Italy's Defense Minister Guido Crosetto on Ukraine: Ukraine will never be able to win the war. My objective is to ensure Ukraine survives and to bring the war to an end.
-- 10/18 17:36 [FirstSquawk] Iran’s parliament approved Mehrdad Akhlaghi as defense minister on Sunday, with 237 lawmakers voting in favor, 15 against and none abstaining, out of 277 votes cast.
-- 10/18 17:37 [FirstSquawk] Donald Trump’s indefinite waiver of Russia sanctions sparked bipartisan outrage in Congress, the AP reported.
-- 10/18 17:43 [FirstSquawk] Russo-Chinese naval cooperation creates new opportunities for Global South The growing rapport between Russia and China, given the fact that the two nations control the key ports in Eurasia, can become a powerful driving force for the regio…
-- 10/18 17:44 [FirstSquawk] UKMTO has received a report of an incident northeast of Khor Fakkan, UAE. A tug travelling southbound has reported being struck by 2 unknown.
-- 10/18 18:00 [financialjuice] Egypt to offer full support to Saudi Arabia for safety and stability: Egyptian presidency
-- 10/18 18:14 [financialjuice] Iran’s foreign minister: Tehran’s week-long offer to reopen Strait of Hormuz remains on table - Araqchi’s telegram channel
-- 10/18 18:15 [financialjuice] Iran’s foreign minister: if US meets Iran’s terms, strait could reopen within 6 days, talks to resume on 7th day - Telegram channel
-- 10/18 18:16 [DeItaone] IRAN'S FOREIGN MINISTER SAYS TEHRAN'S SEVEN DAYS PROPOSAL TO RE-OPEN STRAIT OF HORMUZ IS STILL ON TABLE - ARAQCHI'S TELEGRAM CHANNEL
-- 10/18 18:17 [DeItaone] News insight from LSEG Workspace https://t.co/9mzufKZJ8V
-- 10/18 18:17 [DeItaone] IRAN'S FOREIGN MINISTER SAYS IF US COMPLIES WITH IRAN'S CONDITIONS STRAIT CAN BE OPEN WITHIN 6 DAYS, TALKS RESUME ON 7TH DAY - TELEGRAM CHANNEL
-- 10/18 18:18 [FirstSquawk] Two Sigma cut senior staff at its real estate unit, stopped fundraising and is no longer making new investments out of the business — just two years after it opened to outside cash
-- 10/18 18:18 [FirstSquawk] Iran’s foreign minister: if US meets Iran’s terms, strait could reopen within 6 days, talks to resume on 7th day
-- 10/18 18:19 [FirstSquawk] Iran’s foreign minister: Tehran’s week-long offer to reopen Strait of Hormuz remains on table - Araqchi’s
-- 10/18 18:20 [FirstSquawk] France recorded 1,200 arrests and 150 police officers injured, as around 550,000 people took to the streets nationwide.
 - 10/18 19:00 [financialjuice/FirstSquawk] Israel Q2 exports rise 26.6%, private spending up 14.6%, investment climbs 4.1%, government outlays surge 22.4% - statistics bureau
 - 10/18 19:00 [financialjuice/FirstSquawk] Israel Q2 GDP revised to 15.4% annualized quarter-on-quarter in third estimate from prior 14.9%: statistics bureau
 - 10/18 19:00 [financialjuice/FirstSquawk] Israel Q2 GDP per capita rises 14.1% annualised: statistics bureau
@@ -155,3 +130,16 @@
 - 10/19 03:23 [FirstSquawk] UKRAINE’S ZELENSKYY SAYS UKRAINE WON’T HIT RUSSIAN REFINERIES IF THE U.S. SENDS MORE INTERCEPTORS, ADDING THAT TRUMP IS PUSHING UKRAINE TO CAPITULATE TO RUSSIA
 - 10/19 03:59 [financialjuice] Zelenskyy: Trump is urging Ukraine to surrender to Russia
 - 10/19 04:07 [financialjuice] Ukraine’s Zelenskiy: Trump is urging Ukraine to surrender to Russia
+- 10/19 04:30 [FirstSquawk] UKRAINE’S ZELENSKIY SAYS TRUMP IS URGING UKRAINE TO SURRENDER TO RUSSIA
+- 10/19 04:39 [FirstSquawk] ZELENSKYY ACCUSED TRUMP OF PRESSURING UKRAINE TO MAKE CONCESSIONS TO RUSSIA, CITING DELAYED PATRIOT MISSILE DELIVERIES, STARLINK RESTRICTIONS AND EASED RUSSIA-RELATED SANCTIONS. HE PROPOSED HALTING STRIKES ON RUSSIAN OIL REFINERIES IN EXCHA…
+- 10/19 04:39 [FirstSquawk] UKRAINE FACES INTENSIFYING RUSSIAN ATTACKS, INTERCEPTOR SHORTAGES AND POWER OUTAGES AHEAD OF WINTER. ZELENSKYY HOPES US-UKRAINE RELATIONS MAY IMPROVE AFTER THE NOVEMBER 3 MIDTERM ELECTIONS, WHILE PEACE TALKS REMAIN UNDER DISCUSSION.
+- 10/19 05:21 [financialjuice] Elon Musk: I recommend distributing shares directly to public after Anthropic pledges 5% stake to new public benefit fund - x post
+- 10/19 05:38 [DeItaone] ELON MUSK SAYS "I RECOMMEND GIVING THE SHARES DIRECTLY TO THE PUBLIC" AFTER ANTHROPIC SAYS IT WILL COMMIT 5% STAKE TO NEW PUBLIC BENEFIT FUND- X POST
+- 10/19 05:41 [financialjuice/FirstSquawk] Trump: recent moves on Russia aimed at keeping Moscow negotiating for peace
+- 10/19 05:42 [financialjuice] Iran's IRGC navy: oil tanker ignites and blasts after striking mine in Strait of Hormuz - Iranian media
+- 10/19 05:42 [DeItaone] TRUMP: RECENT ACTIONS ON RUSSIA DESIGNED TO KEEP RUSSIA NEGOTIATING FOR PEACE
+- 10/19 05:42 [DeItaone] IRAN'S IRGC NAVY SAYS OIL TANKER CAUGHT FIRE AND EXPLODED AFTER HITTING MINE IN STRAIT OF HORMUZ - IRANIAN MEDIA
+- 10/19 05:49 [FirstSquawk] IRAN’S IRGC NAVY: OIL TANKER CAUGHT FIRE AND EXPLODED AFTER HITTING MINE IN STRAIT OF HORMUZ
+- 10/19 05:50 [FirstSquawk] TRUMP SAYS HE IS NEGOTIATING PEACE BETWEEN RUSSIA AND UKRAINE, WITH ‘GREAT PROGRESS’ BEING MADE IN PEACE AND HOSTAGE TALKS, THOUGH HE SAYS SIGNING A RUSSIA DOCUMENT NOW COULD DRIVE MOSCOW FROM THE TALKS, AND ADDS THAT RUSSIA ‘MUST STAY AWAY…
+- 10/19 05:50 [FirstSquawk] TRUMP CRITICISES ZELENSKYY FOR TARGETING RUSSIAN DIESEL REFINERIES, SAYING UKRAINE’S REFINERY ATTACKS HURT GLOBAL AND U.S. DIESEL MARKETS AND THAT ZELENSKYY ‘DOES NOT WANT TO END THE WAR WITH RUSSIA’.
+- 10/19 06:09 [FirstSquawk/DeItaone] EURO SLIPS 0.4% TO $1.1191 IN WAKE OF FRENCH RIOTS
