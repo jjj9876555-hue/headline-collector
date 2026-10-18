@@ -7,51 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-18 23:11 JST／対象: 10/17 23:11 〜 10/18 23:11 JST（時刻はすべて日本時間）
+生成: 2026-10-19 02:22 JST／対象: 10/18 02:22 〜 10/19 02:22 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 10/18 18:16 | 10/18 21:42 | ⚠ 205分（18:17→21:42） |
-| FirstSquawk | 177 | 10/17 23:28 | 10/18 23:08 | ⚠ 446分（03:41→11:08） |
-| financialjuice | 51 | 10/18 00:34 | 10/18 23:05 | ⚠ 210分（01:38→05:09） |
+| FirstSquawk | 176 | 10/18 02:27 | 10/19 02:21 | ⚠ 446分（03:41→11:08） |
+| financialjuice | 55 | 10/18 05:09 | 10/19 02:06 | ⚠ 177分（09:13→12:10） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 217 行（統合前 233 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 222 行（統合前 235 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/17 23:28 [FirstSquawk] Yemeni government forces: We are engaged in fierce battles against the Houthi militia in Al-Jawf Governorate
-- 10/17 23:28 [FirstSquawk] Yemeni government forces: We attacked Houthi militia positions and fortifications on the southeastern fronts of Al-Jawf Governorate
-- 10/17 23:28 [FirstSquawk] Israeli occupation forces arrest two young men from the town of Jabatha al-Khashab in the Quneitra countryside after incursions into the area.
-- 10/17 23:59 [FirstSquawk] Iranian Navy: We spotted a violating oil tanker that stopped moving after a fire broke out on board in the Sea of ​​Oman.
-- 10/17 23:59 [FirstSquawk] Iranian Navy: The Strait of Hormuz is closed and countries must coordinate with our forces to ensure safe passage.
-- 10/17 23:59 [FirstSquawk] Fars News Agency: An explosion was heard moments ago in the Kuhstak area and parts of the city of Sirik in the south of the country.
-- 10/17 23:59 [FirstSquawk] Yemeni government forces: We carried out 1,417 targeting operations against the Houthi militia as part of Operation Dawn of Yemen within 24 hours.
-- 10/18 00:00 [FirstSquawk] Saudi Arabia: We intercepted and destroyed 4 drones in the past few hours in the Riyadh, Eastern and Southern regions
-- 10/18 00:21 [FirstSquawk] Israeli Foreign Minister condemns settler attack on European diplomatic delegation in the West Bank
-- 10/18 00:34 [financialjuice/FirstSquawk] Bank of England: Governor Bailey among delegates who walked out of IMF meeting in protest at Russian delegate
-- 10/18 00:37 [financialjuice] UKMTO reports incident 140nm southeast of Al Mukalla, Yemen UKMTO: lng tanker reports approach by small skiff with seven onboard UKMTO: Skiff fired two shots at tanker, armed security team fired two warning shots forcing small craft to chan…
-- 10/18 00:42 [financialjuice/FirstSquawk] One member of Popular Mobilization Forces killed, four wounded in blast at headquarters: security and medical sources
-- 10/18 01:01 [FirstSquawk] Israeli drone strike on Tel al-Hawa neighborhood, southwest of Gaza City
-- 10/18 01:01 [FirstSquawk] Iraqi security source: Several members of the Popular Mobilization Forces injured following an explosion that occurred inside a PMF headquarters east of Baghdad
-- 10/18 01:02 [FirstSquawk] UKMTO reports incident 140nm southeast of Al Mukalla, Yemen
-- 10/18 01:02 [FirstSquawk] UKMTO: lng tanker reports approach by small skiff with seven onboard
-- 10/18 01:02 [FirstSquawk] UKMTO: Skiff fired two shots at tanker, armed security team fired two warning shots forcing small craft to change course
-- 10/18 01:05 [financialjuice] French PM Lecornu: no one can enforce political agenda through violence
-- 10/18 01:38 [financialjuice] Stampede-like incident at Durga Puja pandal in North Kolkata in India leaves 17 dead and several injured: NDTV
-- 10/18 01:54 [FirstSquawk] Pakistani media, citing a security source: The army responded to gunfire from Afghan Taliban forces on the border.
-- 10/18 01:54 [FirstSquawk] Pakistani media, citing a security source: The army targeted an Afghan site and destroyed a Taliban camp.
-- 10/18 01:54 [FirstSquawk] French Prime Minister: We will not allow any political agenda to be imposed through violence in the country
-- 10/18 01:54 [FirstSquawk] AFP, citing the Romanian Ministry of Defense: We shot down two drones that violated our airspace over our territorial waters in the Black Sea.
-- 10/18 01:55 [FirstSquawk] Yemeni Foreign Minister: The Tehran regime is a party to the war on Yemenis, not a mediator.
-- 10/18 01:55 [FirstSquawk] US Secretary of Defense: We are ready to deter any attempt to change the status quo in the South China Sea and the Pacific Ocean
-- 10/18 01:55 [FirstSquawk] Hegseth: China is carrying out its largest military buildup in the Pacific.
-- 10/18 01:55 [FirstSquawk] Iraqi government statement: Al-Zaidi orders the formation of an investigation committee regarding the explosion of an ammunition depot inside a Popular Mobilization Forces headquarters in Baghdad
-- 10/18 01:56 [FirstSquawk] 53 airstrikes targeted Sana'a, Taiz, Ibb, Lahj, Sa'dah, and Amran in the past 24 hours
 - 10/18 02:27 [FirstSquawk] Palestinian Red Crescent: A Palestinian man was injured by Israeli occupation forces in the Wadi al-Hummus area, southeast of Bethlehem.
 - 10/18 02:28 [FirstSquawk] Russian Ministry of Defense: We shot down 30 Ukrainian drones today in various parts of the country and in the Black Sea.
 - 10/18 02:46 [FirstSquawk] Netanyahu's office criticizes a "smear campaign" targeting Israel in the wake of settler attacks.
@@ -106,6 +78,7 @@
 - 10/18 13:25 [FirstSquawk] Armed Security Team Fires Warning Shots After Skiff Shoots at Tanker, UKMTO Says
 - 10/18 13:25 [FirstSquawk] Small Skiff With Seven People Approaches LNG Tanker, UKMTO Says
 - 10/18 13:26 [FirstSquawk] Maritime Incident Reported 140 NM Southeast of Al Mukalla, Yemen, UKMTO Says
+- 10/18 13:26 [FirstSquawk] Bank of England: Governor Bailey among delegates who walked out of IMF meeting in protest at Russian delegate
 - 10/18 13:27 [FirstSquawk] Methamphetamine Seizures Soar Across Asia Amid Rising Production in Myanmar
 - 10/18 13:27 [FirstSquawk] US-China Rivalry and AI Disruption Put Universities Under Pressure, Vanderbilt Chief Says
 - 10/18 13:27 [FirstSquawk] Tokyo’s Ginza, Omotesando-Harajuku and Shibuya See Record Rents as Asian Brands Expand
@@ -241,3 +214,35 @@
 - 10/18 23:08 [FirstSquawk] France reels after ‘unprecedented’ violent riots - FT
 - 10/18 23:08 [FirstSquawk] Microsoft pulls plug on Nscale data centre deal - FT
 - 10/18 23:08 [FirstSquawk] Treasury introduces new security measures in bid to stop UK Budget leaks - FT
+- 10/18 23:38 [FirstSquawk] Two sides still divided on Taiwan despite plans for more Trump-Xi meetings. - Nikkei
+- 10/18 23:38 [FirstSquawk] IMF meetings end with the region's resilience increasingly uneven and under pressure. - Nikkei
+- 10/18 23:38 [FirstSquawk] Luxury cruise passes former capitals and Buddhist ruins before floods intervene. - Nikkei
+- 10/18 23:47 [financialjuice] Trump endorses Netanyahu in Israel election: Truth Social post
+- 10/18 23:57 [financialjuice] Ukraine president Zelenskiy: spoke with US president’s envoys Steve Witkoff and Jared Kushner
+- 10/18 23:58 [financialjuice] Zelenskiy: US, Ukrainian negotiators hold virtually nonstop communication
+- 10/19 00:14 [financialjuice] UAE vice president discusses regional developments with Saudi defense minister in Abu Dhabi: Emirati state news agency
+- 10/19 00:28 [financialjuice] Saudi civil defense: six injured after projectile lands in Najran
+- 10/19 00:29 [FirstSquawk] Trump, in a post on Truth Social: I support Netanyahu in the Israeli elections
+- 10/19 00:29 [FirstSquawk] Trump: Iran has been systematically subjected to devastating military and financial blows
+- 10/19 00:30 [FirstSquawk] Trump: If someone other than Netanyahu takes over the leadership of Israel, America will have to complete the mission against Iran itself, which is something I don't want
+- 10/19 00:30 [FirstSquawk] Trump: If Iran does not change its approach quickly, we will complete the mission against it soon.
+- 10/19 00:30 [FirstSquawk] Yemeni sources: Dozens killed and wounded among government forces and Houthis in clashes and airstrikes in Taiz and Lahj
+- 10/19 00:30 [FirstSquawk] UAE Vice President Sheikh Mansour bin Zayed meets with Saudi Defense Minister in Abu Dhabi
+- 10/19 00:30 [FirstSquawk] Netanyahu thanks Trump for his "tremendous support" and says they will get the job done "together".
+- 10/19 01:03 [financialjuice] US ambassador to EU Puzder warns of ‘devastating’ retaliation if Brussels limits spectrum access for non-EU firms - FT
+- 10/19 01:08 [financialjuice] Iran foreign ministry spokesperson: Russia's foreign minister to visit Tehran on Monday - Iranian media
+- 10/19 01:13 [FirstSquawk] Zelensky: I held talks with US President's envoys Steve Wittkopf and Jared Kushner
+- 10/19 01:14 [FirstSquawk] NBC on Zelensky: I'm scheduled to speak by phone with Wittkopf and Kushner today and hope to hold a meeting in the coming days.
+- 10/19 01:14 [FirstSquawk] NBC on Zelensky: We have made progress in intelligence sharing with Washington on Russian missiles after a days-long hiatus
+- 10/19 01:14 [FirstSquawk] Lavrov: We emphasize the need to continue the close partnership with the Gulf Cooperation Council countries.
+- 10/19 01:14 [FirstSquawk] Lavrov: We call for finding solutions that address the root causes of the region's crises.
+- 10/19 01:14 [FirstSquawk] Lavrov: We welcome the efforts of regional mediators who are trying to prevent the region from sliding into further escalation.
+- 10/19 01:15 [FirstSquawk] Lavrov: Trump's plan on Gaza remains just ink on paper, and the principles laid down in the initiative have not been respected.
+- 10/19 01:15 [FirstSquawk] Netanyahu: Our goal is to eliminate the Iranian threat and topple the regime in Tehran
+- 10/19 01:15 [FirstSquawk] Netanyahu: We will continue working to eliminate Hamas and Hezbollah's capabilities and prevent them from rebuilding their strength.
+- 10/19 01:16 [FirstSquawk] Netanyahu: We will move to large-scale offensive operations to eradicate terrorist strongholds in the West Bank and inside Israel.
+- 10/19 01:16 [FirstSquawk] Netanyahu: We are working to establish buffer zones and security barriers on our borders with Lebanon , Syria, Jordan, Egypt, and the Gaza Strip
+- 10/19 01:45 [financialjuice] Syria, World Bank agree to establish multi-donor trust fund for recovery and rebuilding: statement
+- 10/19 02:06 [financialjuice] Egypt's foreign minister: discussed regional progress, importance of de-escalation in call with Saudi counterpart
+- 10/19 02:20 [FirstSquawk] Israeli airstrike on the outskirts of Wadi al-Salouqi area in southern Lebanon
+- 10/19 02:21 [FirstSquawk] Egyptian Foreign Minister: I discussed regional developments and the importance of de-escalation in a call with my Saudi counterpart
