@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-18 08:20 JST／対象: 10/17 08:20 〜 10/18 08:20 JST（時刻はすべて日本時間）
+生成: 2026-10-18 10:13 JST／対象: 10/17 10:13 〜 10/18 10:13 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 10/17 18:41 | 10/17 18:43 | 2分（18:41→18:43） |
-| FirstSquawk | 171 | 10/17 09:03 | 10/18 03:41 | ⚠ 252分（14:35→18:47） |
-| financialjuice | 19 | 10/17 08:50 | 10/18 08:11 | ⚠ 837分（10:37→00:34） |
+| FirstSquawk | 167 | 10/17 10:14 | 10/18 03:41 | ⚠ 252分（14:35→18:47） |
+| financialjuice | 16 | 10/17 10:37 | 10/18 09:13 | ⚠ 837分（10:37→00:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 190 行（統合前 192 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 183 行（統合前 185 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/17 08:50 [financialjuice] Saudi-led coalition: destroys two ballistic missile launchers in Yemen's Saada
-- 10/17 09:03 [FirstSquawk] As self-driving cars edge closer to everyday use, the next frontier for autonomous technology is taking shape: driverless trucks, the massive vehicles that dominate highways - WSJ
-- 10/17 09:04 [FirstSquawk] . Blue Owl’s leadership is pitching a comeback to employees, but the private-credit firm’s stock continues to show no meaningful movement - WSJ
-- 10/17 09:05 [FirstSquawk] Asian Brands Expand Presence in Tokyo’s High-End Retail Hubs as Rents Surge to Record Levels
-- 10/17 09:37 [financialjuice] Trump: waives application of certain sanctions, restrictions, and duties in executive order
-- 10/17 09:42 [financialjuice] Trump: submitted to Congress certification that waiver issuance serves US national interests - order released by White House
-- 10/17 09:49 [financialjuice] Blackstone funds to invest $9 billion in
-- 10/17 09:49 [financialjuice] backed by five-year lease payments from Anthropic for the chips - FT
-- 10/17 09:58 [FirstSquawk] Anthropic to Provide Five-Year Lease Payments for Chips – FT
 - 10/17 10:14 [FirstSquawk] Trump Rolls Back Some Measures Targeting Russia Under the “Graham Law”
 - 10/17 10:15 [FirstSquawk] Germany Moves to Release More Oil Stocks Following G7 Agreement
 - 10/17 10:27 [FirstSquawk] Al Arabiya Reports Airstrike on Houthi Forces West of Taiz in Yemen
@@ -214,3 +205,5 @@
 - 10/18 07:43 [financialjuice] Saudi-led coalition: drone intercepted and destroyed in Riyadh region
 - 10/18 08:08 [financialjuice] US Secretary of State Rubio: no one at the White House directed slowdown of speed
 - 10/18 08:11 [financialjuice] US Secretary of State Rubio: disturbed by images showing settler violence in West Bank
+- 10/18 08:41 [financialjuice] Trump: decision on Russia sanctions benefits US
+- 10/18 09:13 [financialjuice] Saudi-led coalition: drone intercepted and destroyed in eastern province
