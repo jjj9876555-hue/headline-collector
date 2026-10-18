@@ -7,42 +7,26 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-19 06:45 JST／対象: 10/19 00:45 〜 10/19 06:45 JST（時刻はすべて日本時間）
+生成: 2026-10-19 08:44 JST／対象: 10/19 02:44 〜 10/19 08:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 4 | 10/19 05:38 | 10/19 06:20 | 37分（05:42→06:20） |
-| FirstSquawk | 36 | 10/19 01:13 | 10/19 06:32 | ⚠ 70分（04:39→05:49） |
-| financialjuice | 14 | 10/19 01:03 | 10/19 05:42 | ⚠ 73分（04:07→05:21） |
+| DeItaone | 5 | 10/19 05:38 | 10/19 08:14 | ⚠ 114分（06:20→08:14） |
+| FirstSquawk | 23 | 10/19 02:49 | 10/19 07:20 | ⚠ 70分（04:39→05:49） |
+| financialjuice | 22 | 10/19 03:07 | 10/19 08:39 | ⚠ 73分（04:07→05:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 48 行（統合前 54 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 48 行（統合前 50 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/19 01:03 [financialjuice/FirstSquawk] US ambassador to EU Puzder warns of ‘devastating’ retaliation if Brussels limits spectrum access for non-EU firms - FT
-- 10/19 01:08 [financialjuice/FirstSquawk] Iran foreign ministry spokesperson: Russia's foreign minister to visit Tehran on Monday - Iranian media
-- 10/19 01:13 [FirstSquawk] Zelensky: I held talks with US President's envoys Steve Wittkopf and Jared Kushner
-- 10/19 01:14 [FirstSquawk] NBC on Zelensky: I'm scheduled to speak by phone with Wittkopf and Kushner today and hope to hold a meeting in the coming days.
-- 10/19 01:14 [FirstSquawk] NBC on Zelensky: We have made progress in intelligence sharing with Washington on Russian missiles after a days-long hiatus
-- 10/19 01:14 [FirstSquawk] Lavrov: We emphasize the need to continue the close partnership with the Gulf Cooperation Council countries.
-- 10/19 01:14 [FirstSquawk] Lavrov: We call for finding solutions that address the root causes of the region's crises.
-- 10/19 01:14 [FirstSquawk] Lavrov: We welcome the efforts of regional mediators who are trying to prevent the region from sliding into further escalation.
-- 10/19 01:15 [FirstSquawk] Lavrov: Trump's plan on Gaza remains just ink on paper, and the principles laid down in the initiative have not been respected.
-- 10/19 01:15 [FirstSquawk] Netanyahu: Our goal is to eliminate the Iranian threat and topple the regime in Tehran
-- 10/19 01:15 [FirstSquawk] Netanyahu: We will continue working to eliminate Hamas and Hezbollah's capabilities and prevent them from rebuilding their strength.
-- 10/19 01:16 [FirstSquawk] Netanyahu: We will move to large-scale offensive operations to eradicate terrorist strongholds in the West Bank and inside Israel.
-- 10/19 01:16 [FirstSquawk] Netanyahu: We are working to establish buffer zones and security barriers on our borders with Lebanon , Syria, Jordan, Egypt, and the Gaza Strip
-- 10/19 01:45 [financialjuice/FirstSquawk] Syria, World Bank agree to establish multi-donor trust fund for recovery and rebuilding: statement
-- 10/19 02:06 [financialjuice/FirstSquawk] Egypt's foreign minister: discussed regional progress, importance of de-escalation in call with Saudi counterpart
-- 10/19 02:20 [FirstSquawk] Israeli airstrike on the outskirts of Wadi al-Salouqi area in southern Lebanon
-- 10/19 02:21 [FirstSquawk] Egyptian Foreign Minister: I discussed regional developments and the importance of de-escalation in a call with my Saudi counterpart
-- 10/19 02:21 [FirstSquawk] Lebanese Deputy Prime Minister Tarek Mitri: Washington has not yet exerted enough pressure on Israel to fulfill its obligations.
-- 10/19 02:21 [FirstSquawk] Tarek Mitri: We agreed on a gradual Israeli withdrawal from Lebanese territory, but it has not been implemented.
+- 10/19 02:49 [FirstSquawk] EGYPT'S FOREIGN MINISTER: DISCUSSED REGIONAL PROGRESS, IMPORTANCE OF DE-ESCALATION IN CALL WITH SAUDI COUNTERPART
+- 10/19 02:49 [FirstSquawk] SYRIA, WORLD BANK AGREE TO ESTABLISH MULTI-DONOR TRUST FUND FOR RECOVERY AND REBUILDING: STATEMENT
+- 10/19 02:49 [FirstSquawk] IRAN FOREIGN MINISTRY SPOKESPERSON: RUSSIA'S FOREIGN MINISTER TO VISIT TEHRAN ON MONDAY - IRANIAN MEDIA
 - 10/19 02:59 [FirstSquawk] U.S. ENERGY SECRETARY CHRIS WRIGHT, ASKED WHY THE DEAL WAS MADE BEFORE RUSSIA AGREED TO TONE DOWN OR END THE WAR AGAINST UKRAINE, SAYS ‘WHAT PRESIDENT TRUMP IS TRYING TO DO IS FIND WHAT DIFFERENT WAY WILL LEAD TO PEACE’, CALLING IT ‘QUITE I…
 - 10/19 02:59 [FirstSquawk] U.S. ENERGY SECRETARY CHRIS WRIGHT SAYS THAT ‘IF RUSSIA CAN BRING ADDITIONAL DIESEL TO THE MARKET AND EXPORT IT, IT WOULD BENEFIT AMERICAN CONSUMERS’ AND ‘THE WORLD’.
 - 10/19 02:59 [FirstSquawk] U.S. ENERGY SECRETARY CHRIS WRIGHT SAYS TRUMP ‘DIDN’T END THE LINDSEY GRAHAM SANCTIONS’, BUT HAS ‘JUST SUSPENDED THE ENFORCEMENT OF THEM FOR NOW’.
@@ -57,6 +41,7 @@
 - 10/19 03:08 [FirstSquawk] ANTHROPIC HAS ANNOUNCED A PUBLIC BENEFIT FUND TO FACILITATE MAJOR GIFTS AND DIRECT DISTRIBUTIONS, PLEDGING 5% OF ITS SHARES TO THE FUND AND ADDING 2% MORE FOR EVERY 50% RISE IN VALUATION, WITH ROUGHLY 20% OF SHARES ULTIMATELY ALLOCATED TO T…
 - 10/19 03:08 [FirstSquawk] ANTHROPIC SAYS THE FUND’S EQUITY IS BARRED FROM LOBBYING OR POLITICAL DONATIONS, AND THAT IT IS COMMITTING $200 MLN TO RESEARCH THE LABOR MARKET EFFECTS OF AI, WITH THE FUND’S STRUCTURE AND PROGRESS TO BE UPDATED IN AN UPCOMING REPORT.
 - 10/19 03:23 [FirstSquawk] UKRAINE’S ZELENSKYY SAYS UKRAINE WON’T HIT RUSSIAN REFINERIES IF THE U.S. SENDS MORE INTERCEPTORS, ADDING THAT TRUMP IS PUSHING UKRAINE TO CAPITULATE TO RUSSIA
+- 10/19 03:38 [FirstSquawk] US AMBASSADOR TO EU PUZDER WARNS OF ‘DEVASTATING’ RETALIATION IF BRUSSELS LIMITS SPECTRUM ACCESS FOR NON-EU FIRMS - FT
 - 10/19 03:59 [financialjuice] Zelenskyy: Trump is urging Ukraine to surrender to Russia
 - 10/19 04:07 [financialjuice] Ukraine’s Zelenskiy: Trump is urging Ukraine to surrender to Russia
 - 10/19 04:30 [FirstSquawk] UKRAINE’S ZELENSKIY SAYS TRUMP IS URGING UKRAINE TO SURRENDER TO RUSSIA
@@ -72,3 +57,18 @@
 - 10/19 05:50 [FirstSquawk] TRUMP SAYS HE IS NEGOTIATING PEACE BETWEEN RUSSIA AND UKRAINE, WITH ‘GREAT PROGRESS’ BEING MADE IN PEACE AND HOSTAGE TALKS, THOUGH HE SAYS SIGNING A RUSSIA DOCUMENT NOW COULD DRIVE MOSCOW FROM THE TALKS, AND ADDS THAT RUSSIA ‘MUST STAY AWAY…
 - 10/19 05:50 [FirstSquawk] TRUMP CRITICISES ZELENSKYY FOR TARGETING RUSSIAN DIESEL REFINERIES, SAYING UKRAINE’S REFINERY ATTACKS HURT GLOBAL AND U.S. DIESEL MARKETS AND THAT ZELENSKYY ‘DOES NOT WANT TO END THE WAR WITH RUSSIA’.
 - 10/19 06:09 [FirstSquawk/DeItaone] EURO SLIPS 0.4% TO $1.1191 IN WAKE OF FRENCH RIOTS
+- 10/19 06:45 [financialjuice] NEW ZEALAND IMPORTS ACTUAL 8.44B (FORECAST -, PREVIOUS 8.00B ,REVISION 8.02B) $MACRO
+- 10/19 06:45 [financialjuice] NEW ZEALAND TRADE BALANCE ACTUAL -1,971.0M (FORECAST -, PREVIOUS -1,349.0M) $MACRO
+- 10/19 06:45 [financialjuice] NEW ZEALAND EXPORTS ACTUAL 6.47B (FORECAST -, PREVIOUS 6.66B ,REVISION 6.48B) $MACRO
+- 10/19 07:17 [FirstSquawk] SEVERAL EXPLOSIONS IN SAUDI ARABIA’S JEDDAH, FLIGHTS SUSPENDED AT JEDDAH’S KING ABDULAZIZ AIRPORT - SNN
+- 10/19 07:20 [FirstSquawk] AUSTRIAN AIRLINES SAYS A FLIGHT LANDED SAFELY IN SOFIA AFTER A THREAT AGAINST A TEL AVIV-VIENNA FLIGHT, WITH PASSENGERS TO BE REBOOKED ON ALTERNATIVE FLIGHTS
+- 10/19 07:21 [financialjuice] Flight from Tel Aviv to Vienna makes emergency landing after bomb warning: Sky News
+- 10/19 08:11 [financialjuice] Reserve Bank of Australia assistant governor Kent: reasonable indication neutral rates are increasing domestically and globally
+- 10/19 08:11 [financialjuice] Saudi civil defense: danger has passed in Abha
+- 10/19 08:11 [financialjuice] Saudi civil defense issues warning of potential threat in Abha
+- 10/19 08:14 [DeItaone] *PUTIN ASKS TRUMP AND XI FOR A MEETING: WSJ
+- 10/19 08:15 [financialjuice] RBA's Kent: Difficult to pinpoint neutral rate amid high uncertainty
+- 10/19 08:19 [financialjuice] Putin proposes summit with Trump and Xi to determine Ukraine's future: WSJ
+- 10/19 08:31 [financialjuice] RBA's Kent: confident policy is somewhat restrictive, question is whether it is restrictive enough
+- 10/19 08:32 [financialjuice] RBA's Kent: Household demand softening, but business credit remains strong
+- 10/19 08:39 [financialjuice] RBA’s Kent: Tax adjustments on housing move monetary policy in a favorable direction

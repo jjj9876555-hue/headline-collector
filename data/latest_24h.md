@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-19 06:45 JST／対象: 10/18 06:45 〜 10/19 06:45 JST（時刻はすべて日本時間）
+生成: 2026-10-19 08:44 JST／対象: 10/18 08:44 〜 10/19 08:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 8 | 10/18 18:16 | 10/19 06:20 | ⚠ 476分（21:42→05:38） |
-| FirstSquawk | 190 | 10/18 11:08 | 10/19 06:32 | ⚠ 70分（04:39→05:49） |
-| financialjuice | 61 | 10/18 06:56 | 10/19 05:42 | ⚠ 177分（09:13→12:10） |
+| DeItaone | 9 | 10/18 18:16 | 10/19 08:14 | ⚠ 476分（21:42→05:38） |
+| FirstSquawk | 192 | 10/18 11:08 | 10/19 07:20 | ⚠ 70分（04:39→05:49） |
+| financialjuice | 68 | 10/18 09:13 | 10/19 08:39 | ⚠ 177分（09:13→12:10） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 240 行（統合前 259 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 250 行（統合前 269 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/18 06:56 [financialjuice] Saudi-led coalition: intercepts and destroys two ballistic missiles launched by Houthi toward Khamis Mushait
-- 10/18 07:43 [financialjuice] Saudi-led coalition: drone intercepted and destroyed in Riyadh region
-- 10/18 08:08 [financialjuice] US Secretary of State Rubio: no one at the White House directed slowdown of speed
-- 10/18 08:11 [financialjuice] US Secretary of State Rubio: disturbed by images showing settler violence in West Bank
-- 10/18 08:41 [financialjuice] Trump: decision on Russia sanctions benefits US
 - 10/18 09:13 [financialjuice] Saudi-led coalition: drone intercepted and destroyed in eastern province
 - 10/18 11:08 [FirstSquawk] CANADA PM CARNEY: A serious incident has occurred at CFB Wainwright in Alberta, resulting in a major fire.
 - 10/18 11:09 [FirstSquawk] SAUDI ARABIA'S MILITARY INTERCEPTS TWO BALLISTIC MISSILES, CBS REPORTS
@@ -264,3 +259,18 @@
 - 10/19 05:50 [FirstSquawk] TRUMP SAYS HE IS NEGOTIATING PEACE BETWEEN RUSSIA AND UKRAINE, WITH ‘GREAT PROGRESS’ BEING MADE IN PEACE AND HOSTAGE TALKS, THOUGH HE SAYS SIGNING A RUSSIA DOCUMENT NOW COULD DRIVE MOSCOW FROM THE TALKS, AND ADDS THAT RUSSIA ‘MUST STAY AWAY…
 - 10/19 05:50 [FirstSquawk] TRUMP CRITICISES ZELENSKYY FOR TARGETING RUSSIAN DIESEL REFINERIES, SAYING UKRAINE’S REFINERY ATTACKS HURT GLOBAL AND U.S. DIESEL MARKETS AND THAT ZELENSKYY ‘DOES NOT WANT TO END THE WAR WITH RUSSIA’.
 - 10/19 06:09 [FirstSquawk/DeItaone] EURO SLIPS 0.4% TO $1.1191 IN WAKE OF FRENCH RIOTS
+- 10/19 06:45 [financialjuice] NEW ZEALAND IMPORTS ACTUAL 8.44B (FORECAST -, PREVIOUS 8.00B ,REVISION 8.02B) $MACRO
+- 10/19 06:45 [financialjuice] NEW ZEALAND TRADE BALANCE ACTUAL -1,971.0M (FORECAST -, PREVIOUS -1,349.0M) $MACRO
+- 10/19 06:45 [financialjuice] NEW ZEALAND EXPORTS ACTUAL 6.47B (FORECAST -, PREVIOUS 6.66B ,REVISION 6.48B) $MACRO
+- 10/19 07:17 [FirstSquawk] SEVERAL EXPLOSIONS IN SAUDI ARABIA’S JEDDAH, FLIGHTS SUSPENDED AT JEDDAH’S KING ABDULAZIZ AIRPORT - SNN
+- 10/19 07:20 [FirstSquawk] AUSTRIAN AIRLINES SAYS A FLIGHT LANDED SAFELY IN SOFIA AFTER A THREAT AGAINST A TEL AVIV-VIENNA FLIGHT, WITH PASSENGERS TO BE REBOOKED ON ALTERNATIVE FLIGHTS
+- 10/19 07:21 [financialjuice] Flight from Tel Aviv to Vienna makes emergency landing after bomb warning: Sky News
+- 10/19 08:11 [financialjuice] Reserve Bank of Australia assistant governor Kent: reasonable indication neutral rates are increasing domestically and globally
+- 10/19 08:11 [financialjuice] Saudi civil defense: danger has passed in Abha
+- 10/19 08:11 [financialjuice] Saudi civil defense issues warning of potential threat in Abha
+- 10/19 08:14 [DeItaone] *PUTIN ASKS TRUMP AND XI FOR A MEETING: WSJ
+- 10/19 08:15 [financialjuice] RBA's Kent: Difficult to pinpoint neutral rate amid high uncertainty
+- 10/19 08:19 [financialjuice] Putin proposes summit with Trump and Xi to determine Ukraine's future: WSJ
+- 10/19 08:31 [financialjuice] RBA's Kent: confident policy is somewhat restrictive, question is whether it is restrictive enough
+- 10/19 08:32 [financialjuice] RBA's Kent: Household demand softening, but business credit remains strong
+- 10/19 08:39 [financialjuice] RBA’s Kent: Tax adjustments on housing move monetary policy in a favorable direction

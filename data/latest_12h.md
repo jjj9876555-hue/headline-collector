@@ -7,57 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-19 06:45 JST／対象: 10/18 18:45 〜 10/19 06:45 JST（時刻はすべて日本時間）
+生成: 2026-10-19 08:44 JST／対象: 10/18 20:44 〜 10/19 08:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 5 | 10/18 21:42 | 10/19 06:20 | ⚠ 476分（21:42→05:38） |
-| FirstSquawk | 94 | 10/18 19:12 | 10/19 06:32 | ⚠ 70分（04:39→05:49） |
-| financialjuice | 39 | 10/18 19:00 | 10/19 05:42 | ⚠ 123分（19:47→21:50） |
+| DeItaone | 6 | 10/18 21:42 | 10/19 08:14 | ⚠ 476分（21:42→05:38） |
+| FirstSquawk | 66 | 10/18 21:35 | 10/19 07:20 | ⚠ 70分（04:39→05:49） |
+| financialjuice | 37 | 10/18 21:50 | 10/19 08:39 | ⚠ 73分（04:07→05:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 119 行（統合前 138 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 100 行（統合前 109 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/18 19:00 [financialjuice/FirstSquawk] Israel Q2 exports rise 26.6%, private spending up 14.6%, investment climbs 4.1%, government outlays surge 22.4% - statistics bureau
-- 10/18 19:00 [financialjuice/FirstSquawk] Israel Q2 GDP revised to 15.4% annualized quarter-on-quarter in third estimate from prior 14.9%: statistics bureau
-- 10/18 19:00 [financialjuice/FirstSquawk] Israel Q2 GDP per capita rises 14.1% annualised: statistics bureau
-- 10/18 19:00 [financialjuice/FirstSquawk] Israel Q1 GDP revised to -1.5% annualized from -1.7%, statistics bureau
-- 10/18 19:00 [financialjuice/FirstSquawk] Pope Leo shows at Vatican Palace window over St. Peter's Square in first public appearance since cancer operation
-- 10/18 19:01 [financialjuice/FirstSquawk] Pope smiles and waves from window: wishes crowds at Vatican a happy Sunday in firm, clear voice
-- 10/18 19:03 [financialjuice/FirstSquawk] Pope urges Catholics to set aside selfish ambitions, serve God ‘without compromise’ in Sunday message
-- 10/18 19:08 [financialjuice/FirstSquawk] Pope Leo thanks people for recent prayers: appreciates support
-- 10/18 19:09 [financialjuice/FirstSquawk] Pope Leo: he will gradually resume commitments as he recovers
-- 10/18 19:12 [FirstSquawk] Bahrain's Foreign Minister : We condemn the attacks on commercial vessels in the Bab al-Mandab and Hormuz straits.
-- 10/18 19:12 [FirstSquawk] Secretary-General of the Gulf Cooperation Council: The Houthi militia's insistence on committing its crimes necessitates a clear international stance.
-- 10/18 19:12 [FirstSquawk] Secretary General of the Gulf Cooperation Council: The repeated attacks against the GCC countries cannot be ignored.
-- 10/18 19:13 [FirstSquawk] Secretary General of the Gulf Cooperation Council: The security of the Kingdom of Saudi Arabia is an integral part of the security of the GCC states.
-- 10/18 19:13 [FirstSquawk] Secretary General of the Gulf Cooperation Council: We stress the need to compel Iran to abide by international law and for the international community to assume its responsibility.
-- 10/18 19:13 [FirstSquawk] Egypt's National Defense Council: We affirm our complete support and solidarity with the sisterly Kingdom of Saudi Arabia.
-- 10/18 19:14 [FirstSquawk] Egyptian Presidency: The National Defense Council affirmed its commitment to providing all forms of support to the Kingdom of Saudi Arabia in defending its security and stability.
-- 10/18 19:14 [FirstSquawk] Egyptian Presidency: The National Defense Council affirmed its support for SaudiArabia in preserving its resources, territorial integrity, and Islamic holy sites.
-- 10/18 19:15 [FirstSquawk] Egyptian Presidency: The National Defense Council has decided to stand in full solidarity with the sisterly Kingdom of Saudi Arabia.
-- 10/18 19:15 [FirstSquawk] Iranian Foreign Minister: We are still studying the American comments on our seven-day proposal regarding the Strait of Hormuz
-- 10/18 19:15 [FirstSquawk] Israeli Channel 12: The government has approved cutting 2.6 billion shekels from all ministries to increase the security budget.
-- 10/18 19:34 [FirstSquawk] European Union: We strongly condemn settler attacks in the West Bank, including those targeting European diplomats.
-- 10/18 19:35 [FirstSquawk] European Union: We urge Israel to fully comply with international law and halt settlement expansion.
-- 10/18 19:35 [FirstSquawk] Netanyahu says in a radio interview that he does not trust the Lebanese government on the issue of disarming Hezbollah.
-- 10/18 19:35 [FirstSquawk] Netanyahu: The ultimate goal is to eliminate Hezbollah.
-- 10/18 19:38 [financialjuice] Saudi civil defence issues urgent warning in Najran: state TV
-- 10/18 19:40 [financialjuice] Saudi civil defence issues emergency alert in As Sulayyil governorate to warn of potential threat
-- 10/18 19:41 [financialjuice] Saudi civil defence: danger has passed in Najran - state TV
-- 10/18 19:42 [financialjuice] Saudi civil defence: danger has passed in As Sulayyil governorate - state TV
-- 10/18 19:47 [financialjuice/FirstSquawk] France's Macron to deliver speech to nation at 8 pm: Elysee
-- 10/18 19:47 [FirstSquawk] Lebanese Prime Ministry: The Prime Minister and the French Foreign Minister discussed the international arrangements for the post-UNIFIL phase
-- 10/18 19:55 [FirstSquawk] Saudi Civil Defense activates early warning system in Najran region to warn of danger
-- 10/18 20:25 [FirstSquawk] Lebanese Prime Minister's Office: The Prime Minister and the French Foreign Minister discussed international arrangements for the post-UNIFIL phase.
-- 10/18 20:25 [FirstSquawk] Israeli occupation forces are advancing into the vicinity of Saida al-Hanout village in the Quneitra countryside, southwest of Syria.
-- 10/18 20:25 [FirstSquawk] Pakistani Foreign Ministry: The Foreign Minister discussed regional issues with his Iranian counterpart and stressed the importance of dialogue and diplomacy.
 - 10/18 21:35 [FirstSquawk] French Interior Minister: Police have arrested more than 2,000 people and an investigation is underway to identify those involved in the riots.
 - 10/18 21:35 [FirstSquawk] French Interior Minister: The violence has left more than 600 police officers, gendarmes, and firefighters injured
 - 10/18 21:36 [FirstSquawk] Yemeni government forces: We, along with the Popular Resistance forces, have recaptured the Sanamat area in Al-Masrakh district of Taiz governorate.
@@ -143,3 +109,18 @@
 - 10/19 05:50 [FirstSquawk] TRUMP SAYS HE IS NEGOTIATING PEACE BETWEEN RUSSIA AND UKRAINE, WITH ‘GREAT PROGRESS’ BEING MADE IN PEACE AND HOSTAGE TALKS, THOUGH HE SAYS SIGNING A RUSSIA DOCUMENT NOW COULD DRIVE MOSCOW FROM THE TALKS, AND ADDS THAT RUSSIA ‘MUST STAY AWAY…
 - 10/19 05:50 [FirstSquawk] TRUMP CRITICISES ZELENSKYY FOR TARGETING RUSSIAN DIESEL REFINERIES, SAYING UKRAINE’S REFINERY ATTACKS HURT GLOBAL AND U.S. DIESEL MARKETS AND THAT ZELENSKYY ‘DOES NOT WANT TO END THE WAR WITH RUSSIA’.
 - 10/19 06:09 [FirstSquawk/DeItaone] EURO SLIPS 0.4% TO $1.1191 IN WAKE OF FRENCH RIOTS
+- 10/19 06:45 [financialjuice] NEW ZEALAND IMPORTS ACTUAL 8.44B (FORECAST -, PREVIOUS 8.00B ,REVISION 8.02B) $MACRO
+- 10/19 06:45 [financialjuice] NEW ZEALAND TRADE BALANCE ACTUAL -1,971.0M (FORECAST -, PREVIOUS -1,349.0M) $MACRO
+- 10/19 06:45 [financialjuice] NEW ZEALAND EXPORTS ACTUAL 6.47B (FORECAST -, PREVIOUS 6.66B ,REVISION 6.48B) $MACRO
+- 10/19 07:17 [FirstSquawk] SEVERAL EXPLOSIONS IN SAUDI ARABIA’S JEDDAH, FLIGHTS SUSPENDED AT JEDDAH’S KING ABDULAZIZ AIRPORT - SNN
+- 10/19 07:20 [FirstSquawk] AUSTRIAN AIRLINES SAYS A FLIGHT LANDED SAFELY IN SOFIA AFTER A THREAT AGAINST A TEL AVIV-VIENNA FLIGHT, WITH PASSENGERS TO BE REBOOKED ON ALTERNATIVE FLIGHTS
+- 10/19 07:21 [financialjuice] Flight from Tel Aviv to Vienna makes emergency landing after bomb warning: Sky News
+- 10/19 08:11 [financialjuice] Reserve Bank of Australia assistant governor Kent: reasonable indication neutral rates are increasing domestically and globally
+- 10/19 08:11 [financialjuice] Saudi civil defense: danger has passed in Abha
+- 10/19 08:11 [financialjuice] Saudi civil defense issues warning of potential threat in Abha
+- 10/19 08:14 [DeItaone] *PUTIN ASKS TRUMP AND XI FOR A MEETING: WSJ
+- 10/19 08:15 [financialjuice] RBA's Kent: Difficult to pinpoint neutral rate amid high uncertainty
+- 10/19 08:19 [financialjuice] Putin proposes summit with Trump and Xi to determine Ukraine's future: WSJ
+- 10/19 08:31 [financialjuice] RBA's Kent: confident policy is somewhat restrictive, question is whether it is restrictive enough
+- 10/19 08:32 [financialjuice] RBA's Kent: Household demand softening, but business credit remains strong
+- 10/19 08:39 [financialjuice] RBA’s Kent: Tax adjustments on housing move monetary policy in a favorable direction
