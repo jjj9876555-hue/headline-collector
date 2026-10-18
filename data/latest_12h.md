@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-18 19:51 JST／対象: 10/18 07:51 〜 10/18 19:51 JST（時刻はすべて日本時間）
+生成: 2026-10-18 23:11 JST／対象: 10/18 11:11 〜 10/18 23:11 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 3 | 10/18 18:16 | 10/18 18:17 | 0分（18:16→18:17） |
-| FirstSquawk | 112 | 10/18 11:08 | 10/18 19:47 | ⚠ 63分（11:59→13:02） |
-| financialjuice | 34 | 10/18 08:08 | 10/18 19:47 | ⚠ 177分（09:13→12:10） |
+| DeItaone | 4 | 10/18 18:16 | 10/18 21:42 | ⚠ 205分（18:17→21:42） |
+| FirstSquawk | 140 | 10/18 11:27 | 10/18 23:08 | ⚠ 65分（20:29→21:35） |
+| financialjuice | 36 | 10/18 12:10 | 10/18 23:05 | ⚠ 123分（19:47→21:50） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 149 行（統合前 149 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 167 行（統合前 180 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/18 08:08 [financialjuice] US Secretary of State Rubio: no one at the White House directed slowdown of speed
-- 10/18 08:11 [financialjuice] US Secretary of State Rubio: disturbed by images showing settler violence in West Bank
-- 10/18 08:41 [financialjuice] Trump: decision on Russia sanctions benefits US
-- 10/18 09:13 [financialjuice] Saudi-led coalition: drone intercepted and destroyed in eastern province
-- 10/18 11:08 [FirstSquawk] CANADA PM CARNEY: A serious incident has occurred at CFB Wainwright in Alberta, resulting in a major fire.
-- 10/18 11:09 [FirstSquawk] SAUDI ARABIA'S MILITARY INTERCEPTS TWO BALLISTIC MISSILES, CBS REPORTS
-- 10/18 11:10 [FirstSquawk] FRANCE WITNESSES DEMONSTRATIONS AGAINST RISING LIVING COSTS AND IN SOLIDARITY WITH STUDENTS -CBS
-- 10/18 11:11 [FirstSquawk] BANK OF CANADA GOVERNOR: RISING GLOBAL ENERGY COSTS COULD COMPLICATE INFLATION OUTLOOK - BNNBloomberg
 - 10/18 11:27 [FirstSquawk] LEBANESE MILITARY DELEGATION TO PUSH FOR CESSATION OF ISRAELI ATTACKS AT US MEETING
 - 10/18 11:28 [FirstSquawk] 3,050 AFTERSHOCKS DETECTED AFTER M7.4 EARTHQUAKE IN CIUDAD HIDALGO, CHIAPAS - SSNMexico
 - 10/18 11:57 [FirstSquawk] SOUTHEAST ASIA IPO MARKET GAINS TRACTION WITH $1 BILLION LISTING, FT REPORTS
@@ -143,15 +135,15 @@
 - 10/18 18:18 [FirstSquawk] Iran’s foreign minister: if US meets Iran’s terms, strait could reopen within 6 days, talks to resume on 7th day
 - 10/18 18:19 [FirstSquawk] Iran’s foreign minister: Tehran’s week-long offer to reopen Strait of Hormuz remains on table - Araqchi’s
 - 10/18 18:20 [FirstSquawk] France recorded 1,200 arrests and 150 police officers injured, as around 550,000 people took to the streets nationwide.
-- 10/18 19:00 [financialjuice] Israel Q2 exports rise 26.6%, private spending up 14.6%, investment climbs 4.1%, government outlays surge 22.4% - statistics bureau
-- 10/18 19:00 [financialjuice] Israel Q2 GDP revised to 15.4% annualized quarter-on-quarter in third estimate from prior 14.9%: statistics bureau
-- 10/18 19:00 [financialjuice] Israel Q2 GDP per capita rises 14.1% annualised: statistics bureau
-- 10/18 19:00 [financialjuice] Israel Q1 GDP revised to -1.5% annualized from -1.7%, statistics bureau
-- 10/18 19:00 [financialjuice] Pope Leo shows at Vatican Palace window over St. Peter's Square in first public appearance since cancer operation
-- 10/18 19:01 [financialjuice] Pope smiles and waves from window: wishes crowds at Vatican a happy Sunday in firm, clear voice
-- 10/18 19:03 [financialjuice] Pope urges Catholics to set aside selfish ambitions, serve God ‘without compromise’ in Sunday message
-- 10/18 19:08 [financialjuice] Pope Leo thanks people for recent prayers: appreciates support
-- 10/18 19:09 [financialjuice] Pope Leo: he will gradually resume commitments as he recovers
+- 10/18 19:00 [financialjuice/FirstSquawk] Israel Q2 exports rise 26.6%, private spending up 14.6%, investment climbs 4.1%, government outlays surge 22.4% - statistics bureau
+- 10/18 19:00 [financialjuice/FirstSquawk] Israel Q2 GDP revised to 15.4% annualized quarter-on-quarter in third estimate from prior 14.9%: statistics bureau
+- 10/18 19:00 [financialjuice/FirstSquawk] Israel Q2 GDP per capita rises 14.1% annualised: statistics bureau
+- 10/18 19:00 [financialjuice/FirstSquawk] Israel Q1 GDP revised to -1.5% annualized from -1.7%, statistics bureau
+- 10/18 19:00 [financialjuice/FirstSquawk] Pope Leo shows at Vatican Palace window over St. Peter's Square in first public appearance since cancer operation
+- 10/18 19:01 [financialjuice/FirstSquawk] Pope smiles and waves from window: wishes crowds at Vatican a happy Sunday in firm, clear voice
+- 10/18 19:03 [financialjuice/FirstSquawk] Pope urges Catholics to set aside selfish ambitions, serve God ‘without compromise’ in Sunday message
+- 10/18 19:08 [financialjuice/FirstSquawk] Pope Leo thanks people for recent prayers: appreciates support
+- 10/18 19:09 [financialjuice/FirstSquawk] Pope Leo: he will gradually resume commitments as he recovers
 - 10/18 19:12 [FirstSquawk] Bahrain's Foreign Minister : We condemn the attacks on commercial vessels in the Bab al-Mandab and Hormuz straits.
 - 10/18 19:12 [FirstSquawk] Secretary-General of the Gulf Cooperation Council: The Houthi militia's insistence on committing its crimes necessitates a clear international stance.
 - 10/18 19:12 [FirstSquawk] Secretary General of the Gulf Cooperation Council: The repeated attacks against the GCC countries cannot be ignored.
@@ -171,5 +163,31 @@
 - 10/18 19:40 [financialjuice] Saudi civil defence issues emergency alert in As Sulayyil governorate to warn of potential threat
 - 10/18 19:41 [financialjuice] Saudi civil defence: danger has passed in Najran - state TV
 - 10/18 19:42 [financialjuice] Saudi civil defence: danger has passed in As Sulayyil governorate - state TV
-- 10/18 19:47 [financialjuice] France's Macron to deliver speech to nation at 8 pm: Elysee
+- 10/18 19:47 [financialjuice/FirstSquawk] France's Macron to deliver speech to nation at 8 pm: Elysee
 - 10/18 19:47 [FirstSquawk] Lebanese Prime Ministry: The Prime Minister and the French Foreign Minister discussed the international arrangements for the post-UNIFIL phase
+- 10/18 19:55 [FirstSquawk] Saudi Civil Defense activates early warning system in Najran region to warn of danger
+- 10/18 20:25 [FirstSquawk] Lebanese Prime Minister's Office: The Prime Minister and the French Foreign Minister discussed international arrangements for the post-UNIFIL phase.
+- 10/18 20:25 [FirstSquawk] Israeli occupation forces are advancing into the vicinity of Saida al-Hanout village in the Quneitra countryside, southwest of Syria.
+- 10/18 20:25 [FirstSquawk] Pakistani Foreign Ministry: The Foreign Minister discussed regional issues with his Iranian counterpart and stressed the importance of dialogue and diplomacy.
+- 10/18 21:35 [FirstSquawk] French Interior Minister: Police have arrested more than 2,000 people and an investigation is underway to identify those involved in the riots.
+- 10/18 21:35 [FirstSquawk] French Interior Minister: The violence has left more than 600 police officers, gendarmes, and firefighters injured
+- 10/18 21:36 [FirstSquawk] Yemeni government forces: We, along with the Popular Resistance forces, have recaptured the Sanamat area in Al-Masrakh district of Taiz governorate.
+- 10/18 21:36 [FirstSquawk] Lebanese Parliament Speaker: We insist on the necessity of UNIFIL remaining and are committed to Resolution 1701, but Israel continues to violate all its provisions.
+- 10/18 21:36 [FirstSquawk] Yemeni government: We call on the Security Council to condemn the Houthi targeting of government facilities and residential neighborhoods and to hold them accountable.
+- 10/18 21:36 [FirstSquawk] Ministry of Education in Gaza: Three students killed by Israeli occupation forces in less than 24 hours
+- 10/18 21:37 [FirstSquawk] Ministry of Education in Gaza: We demand immediate steps be taken to ensure the protection of students and to stop the attacks that threaten their lives.
+- 10/18 21:42 [DeItaone] TRUMP URGES FRANCE TO CLOSE BORDERS AMID UNREST Trump declared “France is burning”, blaming immigration for violent protests. French authorities reported 1,800 arrests and 500+ injured emergency personnel.
+- 10/18 21:50 [financialjuice] Ukraine regrets possible rerouting by Russia of its drones over Latvia, Lithuania: foreign affairs ministry spokesperson
+- 10/18 22:08 [FirstSquawk] Israeli occupation forces shell several artillery rounds around Tel Ahmar in the countryside of Quneitra, southwestern Syria
+- 10/18 22:18 [financialjuice/FirstSquawk] Egypt's parliament to resume talks Monday on backing Saudi Arabia amid Houthi assaults, lawmakers and local media say
+- 10/18 22:31 [financialjuice] Saudi civil defense alerts potential hazard in Najran
+- 10/18 22:35 [financialjuice] Saudi civil defense: danger has passed in Najran
+- 10/18 22:44 [FirstSquawk] Saudi Civil Defense: Alert issued in Najran region to warn of danger
+- 10/18 22:44 [FirstSquawk] Saudi Civil Defense: Danger has passed from the Najran region
+- 10/18 23:01 [financialjuice/FirstSquawk] Zelenskyy: speaking to Witkoff, Kushner about peace talks
+- 10/18 23:05 [financialjuice/FirstSquawk] Russian Defence Ministry: hit cargo ship near Ukraine's Odesa
+- 10/18 23:07 [FirstSquawk] Accenture looks to sell Chinese operations for up to $1.5bn - FT
+- 10/18 23:08 [FirstSquawk] St Petersburg endures biggest Ukrainian drone attack - FT
+- 10/18 23:08 [FirstSquawk] France reels after ‘unprecedented’ violent riots - FT
+- 10/18 23:08 [FirstSquawk] Microsoft pulls plug on Nscale data centre deal - FT
+- 10/18 23:08 [FirstSquawk] Treasury introduces new security measures in bid to stop UK Budget leaks - FT
