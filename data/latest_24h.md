@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-19 02:22 JST／対象: 10/18 02:22 〜 10/19 02:22 JST（時刻はすべて日本時間）
+生成: 2026-10-19 04:29 JST／対象: 10/18 04:29 〜 10/19 04:29 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 10/18 18:16 | 10/18 21:42 | ⚠ 205分（18:17→21:42） |
-| FirstSquawk | 176 | 10/18 02:27 | 10/19 02:21 | ⚠ 446分（03:41→11:08） |
-| financialjuice | 55 | 10/18 05:09 | 10/19 02:06 | ⚠ 177分（09:13→12:10） |
+| FirstSquawk | 182 | 10/18 11:08 | 10/19 03:38 | ⚠ 65分（20:29→21:35） |
+| financialjuice | 62 | 10/18 05:09 | 10/19 04:07 | ⚠ 177分（09:13→12:10） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 222 行（統合前 235 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 231 行（統合前 248 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/18 02:27 [FirstSquawk] Palestinian Red Crescent: A Palestinian man was injured by Israeli occupation forces in the Wadi al-Hummus area, southeast of Bethlehem.
-- 10/18 02:28 [FirstSquawk] Russian Ministry of Defense: We shot down 30 Ukrainian drones today in various parts of the country and in the Black Sea.
-- 10/18 02:46 [FirstSquawk] Netanyahu's office criticizes a "smear campaign" targeting Israel in the wake of settler attacks.
-- 10/18 02:47 [FirstSquawk] AFP: 800,000 people participated in protests against the high cost of living in France
-- 10/18 03:40 [FirstSquawk] Lebanese President: Israel has not adhered to the framework agreement reached under US auspices
-- 10/18 03:40 [FirstSquawk] Lebanese President: Our military delegation will participate in the tripartite meeting in Tampa, Florida next Tuesday
-- 10/18 03:40 [FirstSquawk] | Lebanese President: We want to extend UNIFIL's mandate in any way that guarantees an international presence in the south of the country.
-- 10/18 03:41 [FirstSquawk] French President: There is no place for violence in our republic. Those who attacked shops and municipalities will be prosecuted and punished.
-- 10/18 03:41 [FirstSquawk] French President: We will confront those who spread chaos and prevent peaceful protesters from expressing their demands.
 - 10/18 05:09 [financialjuice] Lebanese president: military delegation to present demands to stop Israeli escalation in trilateral meeting in Tampa, US on October 20
 - 10/18 06:09 [financialjuice] Saudi civil defense: early warning alert issued for Riyadh, Abha and Khamis Mushait
 - 10/18 06:15 [financialjuice] Saudi civil defense: danger has passed in Riyadh
@@ -229,8 +220,8 @@
 - 10/19 00:30 [FirstSquawk] Yemeni sources: Dozens killed and wounded among government forces and Houthis in clashes and airstrikes in Taiz and Lahj
 - 10/19 00:30 [FirstSquawk] UAE Vice President Sheikh Mansour bin Zayed meets with Saudi Defense Minister in Abu Dhabi
 - 10/19 00:30 [FirstSquawk] Netanyahu thanks Trump for his "tremendous support" and says they will get the job done "together".
-- 10/19 01:03 [financialjuice] US ambassador to EU Puzder warns of ‘devastating’ retaliation if Brussels limits spectrum access for non-EU firms - FT
-- 10/19 01:08 [financialjuice] Iran foreign ministry spokesperson: Russia's foreign minister to visit Tehran on Monday - Iranian media
+- 10/19 01:03 [financialjuice/FirstSquawk] US ambassador to EU Puzder warns of ‘devastating’ retaliation if Brussels limits spectrum access for non-EU firms - FT
+- 10/19 01:08 [financialjuice/FirstSquawk] Iran foreign ministry spokesperson: Russia's foreign minister to visit Tehran on Monday - Iranian media
 - 10/19 01:13 [FirstSquawk] Zelensky: I held talks with US President's envoys Steve Wittkopf and Jared Kushner
 - 10/19 01:14 [FirstSquawk] NBC on Zelensky: I'm scheduled to speak by phone with Wittkopf and Kushner today and hope to hold a meeting in the coming days.
 - 10/19 01:14 [FirstSquawk] NBC on Zelensky: We have made progress in intelligence sharing with Washington on Russian missiles after a days-long hiatus
@@ -242,7 +233,25 @@
 - 10/19 01:15 [FirstSquawk] Netanyahu: We will continue working to eliminate Hamas and Hezbollah's capabilities and prevent them from rebuilding their strength.
 - 10/19 01:16 [FirstSquawk] Netanyahu: We will move to large-scale offensive operations to eradicate terrorist strongholds in the West Bank and inside Israel.
 - 10/19 01:16 [FirstSquawk] Netanyahu: We are working to establish buffer zones and security barriers on our borders with Lebanon , Syria, Jordan, Egypt, and the Gaza Strip
-- 10/19 01:45 [financialjuice] Syria, World Bank agree to establish multi-donor trust fund for recovery and rebuilding: statement
-- 10/19 02:06 [financialjuice] Egypt's foreign minister: discussed regional progress, importance of de-escalation in call with Saudi counterpart
+- 10/19 01:45 [financialjuice/FirstSquawk] Syria, World Bank agree to establish multi-donor trust fund for recovery and rebuilding: statement
+- 10/19 02:06 [financialjuice/FirstSquawk] Egypt's foreign minister: discussed regional progress, importance of de-escalation in call with Saudi counterpart
 - 10/19 02:20 [FirstSquawk] Israeli airstrike on the outskirts of Wadi al-Salouqi area in southern Lebanon
 - 10/19 02:21 [FirstSquawk] Egyptian Foreign Minister: I discussed regional developments and the importance of de-escalation in a call with my Saudi counterpart
+- 10/19 02:21 [FirstSquawk] Lebanese Deputy Prime Minister Tarek Mitri: Washington has not yet exerted enough pressure on Israel to fulfill its obligations.
+- 10/19 02:21 [FirstSquawk] Tarek Mitri: We agreed on a gradual Israeli withdrawal from Lebanese territory, but it has not been implemented.
+- 10/19 02:59 [FirstSquawk] U.S. ENERGY SECRETARY CHRIS WRIGHT, ASKED WHY THE DEAL WAS MADE BEFORE RUSSIA AGREED TO TONE DOWN OR END THE WAR AGAINST UKRAINE, SAYS ‘WHAT PRESIDENT TRUMP IS TRYING TO DO IS FIND WHAT DIFFERENT WAY WILL LEAD TO PEACE’, CALLING IT ‘QUITE I…
+- 10/19 02:59 [FirstSquawk] U.S. ENERGY SECRETARY CHRIS WRIGHT SAYS THAT ‘IF RUSSIA CAN BRING ADDITIONAL DIESEL TO THE MARKET AND EXPORT IT, IT WOULD BENEFIT AMERICAN CONSUMERS’ AND ‘THE WORLD’.
+- 10/19 02:59 [FirstSquawk] U.S. ENERGY SECRETARY CHRIS WRIGHT SAYS TRUMP ‘DIDN’T END THE LINDSEY GRAHAM SANCTIONS’, BUT HAS ‘JUST SUSPENDED THE ENFORCEMENT OF THEM FOR NOW’.
+- 10/19 03:00 [FirstSquawk] ISRAELI PRIME MINISTER NETANYAHU SAYS ON TÜRKIYE THAT ‘I HOPE WE DON’T REACH A DIRECT CONFRONTATION WITH TÜRKIYE’, ADDING ‘THAT IS WHAT I AM TRYING TO AVOID’.
+- 10/19 03:00 [FirstSquawk] ISRAELI PRIME MINISTER NETANYAHU SAYS ON RUSSIA THAT ‘RUSSIA HAS ITS OWN INTERESTS, AND THE STATE OF ISRAEL HAS ITS INTERESTS, AND THEY DO NOT ALWAYS OVERLAP’, SOMETIMES EVEN CLASHING, AND THAT ISRAEL OPPOSES RUSSIA’S COOPERATION WITH IRAN …
+- 10/19 03:00 [FirstSquawk] ISRAELI PRIME MINISTER NETANYAHU SAYS ‘WE RAISE ALL THESE ISSUES, AND WE RAISE THEM VERY CLEARLY’, ADDING ‘I TALK WITH PUTIN AS NEEDED’ - THE JERUSALEM POST
+- 10/19 03:07 [financialjuice] Anthropic pledges 5% of shares to public benefit fund, adds 2% more for every 50% valuation rise
+- 10/19 03:07 [financialjuice] Anthropic establishes public benefit fund; equity barred from lobbying or political donations
+- 10/19 03:07 [financialjuice] Anthropic to allocate roughly 20% of shares to public good, with potential for further distribution
+- 10/19 03:07 [financialjuice] Anthropic to update public benefit fund structure and progress in upcoming report
+- 10/19 03:07 [financialjuice] Anthropic announces public benefit fund to facilitate major gifts and direct distributions
+- 10/19 03:08 [FirstSquawk] ANTHROPIC HAS ANNOUNCED A PUBLIC BENEFIT FUND TO FACILITATE MAJOR GIFTS AND DIRECT DISTRIBUTIONS, PLEDGING 5% OF ITS SHARES TO THE FUND AND ADDING 2% MORE FOR EVERY 50% RISE IN VALUATION, WITH ROUGHLY 20% OF SHARES ULTIMATELY ALLOCATED TO T…
+- 10/19 03:08 [FirstSquawk] ANTHROPIC SAYS THE FUND’S EQUITY IS BARRED FROM LOBBYING OR POLITICAL DONATIONS, AND THAT IT IS COMMITTING $200 MLN TO RESEARCH THE LABOR MARKET EFFECTS OF AI, WITH THE FUND’S STRUCTURE AND PROGRESS TO BE UPDATED IN AN UPCOMING REPORT.
+- 10/19 03:23 [FirstSquawk] UKRAINE’S ZELENSKYY SAYS UKRAINE WON’T HIT RUSSIAN REFINERIES IF THE U.S. SENDS MORE INTERCEPTORS, ADDING THAT TRUMP IS PUSHING UKRAINE TO CAPITULATE TO RUSSIA
+- 10/19 03:59 [financialjuice] Zelenskyy: Trump is urging Ukraine to surrender to Russia
+- 10/19 04:07 [financialjuice] Ukraine’s Zelenskiy: Trump is urging Ukraine to surrender to Russia
