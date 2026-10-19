@@ -7,47 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-20 05:08 JST／対象: 10/19 05:08 〜 10/20 05:08 JST（時刻はすべて日本時間）
+生成: 2026-10-20 08:37 JST／対象: 10/19 08:37 〜 10/20 08:37 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 65 | 10/19 05:38 | 10/20 04:40 | ⚠ 691分（08:14→19:46） |
-| FirstSquawk | 215 | 10/19 05:49 | 10/20 05:03 | ⚠ 92分（07:20→08:53） |
-| financialjuice | 254 | 10/19 05:21 | 10/20 05:00 | ⚠ 112分（15:54→17:47） |
+| DeItaone | 64 | 10/19 19:46 | 10/20 08:30 | ⚠ 122分（02:31→04:34） |
+| FirstSquawk | 230 | 10/19 08:53 | 10/20 08:06 | ⚠ 85分（06:39→08:04） |
+| financialjuice | 253 | 10/19 08:39 | 10/20 08:14 | ⚠ 112分（15:54→17:47） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 499 行（統合前 541 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 512 行（統合前 554 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/19 05:21 [financialjuice] Elon Musk: I recommend distributing shares directly to public after Anthropic pledges 5% stake to new public benefit fund - x post
-- 10/19 05:38 [DeItaone] ELON MUSK SAYS "I RECOMMEND GIVING THE SHARES DIRECTLY TO THE PUBLIC" AFTER ANTHROPIC SAYS IT WILL COMMIT 5% STAKE TO NEW PUBLIC BENEFIT FUND- X POST
-- 10/19 05:41 [financialjuice/FirstSquawk] Trump: recent moves on Russia aimed at keeping Moscow negotiating for peace
-- 10/19 05:42 [financialjuice] Iran's IRGC navy: oil tanker ignites and blasts after striking mine in Strait of Hormuz - Iranian media
-- 10/19 05:42 [DeItaone] TRUMP: RECENT ACTIONS ON RUSSIA DESIGNED TO KEEP RUSSIA NEGOTIATING FOR PEACE
-- 10/19 05:42 [DeItaone] IRAN'S IRGC NAVY SAYS OIL TANKER CAUGHT FIRE AND EXPLODED AFTER HITTING MINE IN STRAIT OF HORMUZ - IRANIAN MEDIA
-- 10/19 05:49 [FirstSquawk] IRAN’S IRGC NAVY: OIL TANKER CAUGHT FIRE AND EXPLODED AFTER HITTING MINE IN STRAIT OF HORMUZ
-- 10/19 05:50 [FirstSquawk] TRUMP SAYS HE IS NEGOTIATING PEACE BETWEEN RUSSIA AND UKRAINE, WITH ‘GREAT PROGRESS’ BEING MADE IN PEACE AND HOSTAGE TALKS, THOUGH HE SAYS SIGNING A RUSSIA DOCUMENT NOW COULD DRIVE MOSCOW FROM THE TALKS, AND ADDS THAT RUSSIA ‘MUST STAY AWAY…
-- 10/19 05:50 [FirstSquawk] TRUMP CRITICISES ZELENSKYY FOR TARGETING RUSSIAN DIESEL REFINERIES, SAYING UKRAINE’S REFINERY ATTACKS HURT GLOBAL AND U.S. DIESEL MARKETS AND THAT ZELENSKYY ‘DOES NOT WANT TO END THE WAR WITH RUSSIA’.
-- 10/19 06:09 [FirstSquawk/DeItaone] EURO SLIPS 0.4% TO $1.1191 IN WAKE OF FRENCH RIOTS
-- 10/19 06:45 [financialjuice] NEW ZEALAND IMPORTS ACTUAL 8.44B (FORECAST -, PREVIOUS 8.00B ,REVISION 8.02B) $MACRO
-- 10/19 06:45 [financialjuice] NEW ZEALAND TRADE BALANCE ACTUAL -1,971.0M (FORECAST -, PREVIOUS -1,349.0M) $MACRO
-- 10/19 06:45 [financialjuice] NEW ZEALAND EXPORTS ACTUAL 6.47B (FORECAST -, PREVIOUS 6.66B ,REVISION 6.48B) $MACRO
-- 10/19 07:17 [FirstSquawk] SEVERAL EXPLOSIONS IN SAUDI ARABIA’S JEDDAH, FLIGHTS SUSPENDED AT JEDDAH’S KING ABDULAZIZ AIRPORT - SNN
-- 10/19 07:20 [FirstSquawk] AUSTRIAN AIRLINES SAYS A FLIGHT LANDED SAFELY IN SOFIA AFTER A THREAT AGAINST A TEL AVIV-VIENNA FLIGHT, WITH PASSENGERS TO BE REBOOKED ON ALTERNATIVE FLIGHTS
-- 10/19 07:21 [financialjuice] Flight from Tel Aviv to Vienna makes emergency landing after bomb warning: Sky News
-- 10/19 08:11 [financialjuice] Reserve Bank of Australia assistant governor Kent: reasonable indication neutral rates are increasing domestically and globally
-- 10/19 08:11 [financialjuice] Saudi civil defense: danger has passed in Abha
-- 10/19 08:11 [financialjuice] Saudi civil defense issues warning of potential threat in Abha
-- 10/19 08:14 [DeItaone] *PUTIN ASKS TRUMP AND XI FOR A MEETING: WSJ
-- 10/19 08:15 [financialjuice] RBA's Kent: Difficult to pinpoint neutral rate amid high uncertainty
-- 10/19 08:19 [financialjuice] Putin proposes summit with Trump and Xi to determine Ukraine's future: WSJ
-- 10/19 08:31 [financialjuice] RBA's Kent: confident policy is somewhat restrictive, question is whether it is restrictive enough
-- 10/19 08:32 [financialjuice] RBA's Kent: Household demand softening, but business credit remains strong
 - 10/19 08:39 [financialjuice] RBA’s Kent: Tax adjustments on housing move monetary policy in a favorable direction
 - 10/19 08:48 [financialjuice] RBA's Kent: A Bit Cautious About Monthly Job Figures, but Labor Market Loosens
 - 10/19 08:49 [financialjuice] India’s finance minister Nirmala Sitharaman blames easy exits and surplus liquidity for equity market underperformance: CNBC
@@ -523,3 +499,40 @@
 - 10/20 04:56 [FirstSquawk] ZELENSKIY SAYS THE PENTAGON IS DELAYING MISSILE DELIVERIES THROUGH THE PURL PROGRAMME, ADDING THAT UKRAINE COULD STOP STRIKING RUSSIAN REFINERIES IN RETURN FOR U.S. HELP WITH PATRIOT MISSILES DURING THIS PERIOD, AND THAT DECISIONS TAKEN BY …
 - 10/20 05:00 [financialjuice/FirstSquawk] US Energy Secretary Wright: No russian Diesel has been released yet
 - 10/20 05:00 [financialjuice/FirstSquawk] US Energy Secretary Wright: Yet to be seen if Russia will release diesel
+- 10/20 05:10 [financialjuice] Chip Stocks Rebound as AI Optimism Lifts Nasdaq Ahead of Earnings - Market Wrap
+- 10/20 05:11 [FirstSquawk] CROWN HOLDINGS Q3 2026 NET SALES $3.71 BLN, ABOVE ESTIMATE OF $3.44 BLN, AND ADJUSTED EPS $2.39, ABOVE ESTIMATE OF $2.26
+- 10/20 05:11 [FirstSquawk] CROWN HOLDINGS SEES Q4 ADJUSTED EPS $1.63 TO $1.73, BELOW ESTIMATE OF $1.80, AND NARROWS FY ADJUSTED EPS GUIDANCE TO $8.35 TO $8.45 FROM $8.30 TO $8.50
+- 10/20 05:15 [financialjuice/FirstSquawk] Kushner and Witkoff plan to travel to Norway this week for Ukraine talks - three sources familiar with the matter
+- 10/20 05:15 [financialjuice] Ukrainian president Zelenskiy expected to join talks - Two sources familiar with the matter
+- 10/20 05:18 [financialjuice] The US and Austria to work on advancing peace in Ukraine and the Middle East
+- 10/20 05:35 [FirstSquawk] OIL FLUCTUATED NEAR A FIVE-MONTH HIGH AS MIDDLE EAST TENSIONS RAISED SUPPLY RISKS, WITH BRENT SETTLING AT $109.55 A BARREL. HOWEVER, RECOVERING HORMUZ FLOWS AND OVERBOUGHT TECHNICAL INDICATORS LIMITED FURTHER GAINS.
+- 10/20 05:35 [FirstSquawk] TRUMP’S PROPOSED RUSSIAN DIESEL DEAL FACED OPPOSITION FROM US LAWMAKERS, WHILE ANALYSTS QUESTIONED WHETHER ADDITIONAL SUPPLIES WOULD LOWER FUEL PRICES. BRENT HAS RISEN MORE THAN 75% THIS YEAR, WHILE EUROPEAN DIESEL FUTURES HAVE MORE THAN DO…
+- 10/20 05:37 [FirstSquawk] STEEL DYNAMICS Q3 2026 REVENUE $6.51 BLN, ABOVE ESTIMATE OF $6.43 BLN, WITH EPS $5.26, BELOW ESTIMATE OF $5.41, AND NET INCOME $755.7 MLN
+- 10/20 05:37 [FirstSquawk] STEEL DYNAMICS Q3 STEEL SHIPMENTS 3.8 MLN TONNES AND ADJUSTED EBITDA $1.19 BLN, BELOW ESTIMATE OF $1.23 BLN
+- 10/20 05:42 [financialjuice] Stocks of crude oil in US SPR fell to 282.7 mln barrels last week, lowest since 1982
+- 10/20 05:42 [financialjuice] Trump: A big thank you to Musk for the SpaceX stock plan - Truth Social $SPCX
+- 10/20 05:43 [FirstSquawk] US STOCKS REBOUNDED AS CHIPMAKERS RALLIED, WITH THE NASDAQ 100 RISING 1.2% AND THE S&P 500 GAINING 0.4%, AS INVESTORS RENEWED OPTIMISM OVER AI-DRIVEN EARNINGS. UPCOMING RESULTS FROM META AND TESLA WILL TEST CONFIDENCE IN THE AI INVESTMENT B…
+- 10/20 05:43 [FirstSquawk] TREASURY YIELDS ROSE AS ELEVATED OIL PRICES FUELED INFLATION CONCERNS, WITH THE 10-YEAR YIELD CLIMBING SEVEN BASIS POINTS TO 5.14%. WTI CRUDE GAINED 2.3% TO $103.78 A BARREL, WHILE GOLD FELL 0.6% TO $4,140 AN OUNCE.
+- 10/20 05:44 [financialjuice/FirstSquawk] Iran Strait of Hormuz Management Organization: 122 ships have been added to the list of non-compliance.
+- 10/20 05:46 [FirstSquawk] TRUMP THANKS ELON MUSK FOR HIS INCREDIBLE GENEROSITY IN GIVING SPACEX STOCK TO MILLIONS OF AMERICAN CHILDREN THROUGH TRUMP ACCOUNTS, SAYING THIS IS EXACTLY WHAT WAS ENVISIONED WHEN TRUMP ACCOUNTS WERE CREATED - TRUTH SOCIAL
+- 10/20 05:46 [FirstSquawk] TRUMP SAYS TRUMP ACCOUNTS BRING TOGETHER THE GREAT PRIVATE SECTOR, ELON AND MANY MORE TO INVEST IN CHILDREN, BY FAR THE GREATEST AND MOST IMPORTANT ASSET, AND GIVE EVERY AMERICAN CHILD A PIECE OF THE AMERICAN DREAM - TRUTH SOCIAL
+- 10/20 05:56 [DeItaone] TRUMP THANKS ELON MUSK FOR SPACEX STOCK GIVEAWAY President Trump praised Elon Musk for pledging SpaceX shares to millions of American children through Trump Accounts. Trump called the initiative a major step toward giving children a stake i…
+- 10/20 06:03 [FirstSquawk] 3M SAYS IT HAS EXPANDED ITS STRATEGIC COMMERCIAL RELATIONSHIP WITH AN AMAZON SUBSIDIARY, ISSUING A WARRANT TO THE AMAZON SUBSIDIARY FOR 3,162,015 SHARES AT $164.89 PER SHARE
+- 10/20 06:03 [FirstSquawk] 3M SAYS 85% OF THE WARRANT SHARES VEST WITH AMAZON PAYMENTS, WITH FULL VESTING AT $6 BLN IN CUMULATIVE PAYMENTS - SEC FILING
+- 10/20 06:27 [FirstSquawk] BHP Q1 2027 ATTRIBUTABLE IRON ORE OUTPUT 66.45 MLN TONNES AND COPPER OUTPUT 400,700 TONNES
+- 10/20 06:27 [FirstSquawk] BHP STILL SEES FY IRON ORE OUTPUT 260 MLN TO 272 MLN TONNES AND FY COPPER OUTPUT 1.65 MLN TO 1.80 MLN TONNES
+- 10/20 06:27 [financialjuice] Former Google chief executive officer Eric Schmidt holds about 1% stake in Anthropic
+- 10/20 06:39 [FirstSquawk] NATIONAL AUSTRALIA BANK EXPECTS TO REDUCE ITS INTERNAL WORKFORCE BY UP TO 2,500 ROLES AND PLANS A SIGNIFICANT REDUCTION IN ITS USE OF CONSULTANTS AND EXTERNAL CONTRACTORS - SOURCES
+- 10/20 06:39 [FirstSquawk] NAB EXPECTS AN FY2027 PRETAX RESTRUCTURING CHARGE OF ABOUT A$300 MLN, SAYING THE RESTRUCTURING AIMS TO SIMPLIFY ITS OPERATING MODEL AND IMPROVE ORGANISATIONAL ALIGNMENT
+- 10/20 07:29 [financialjuice] Changzhou Microintelligence co- caps offer price at HK$21.46 per share in global offering
+- 10/20 07:34 [financialjuice] Hegseth meets Netanyahu during unannounced Israel trip: Axios
+- 10/20 07:39 [financialjuice] Trump administration has not authorized transfer of interceptor missiles to Ukraine: Washington Post
+- 10/20 07:40 [DeItaone] THE TRUMP ADMINISTRATION HAS NOT APPROVED THE TRANSFER OF INTERCEPTOR MISSILES TO UKRAINE - WASHINGTON POST
+- 10/20 08:04 [FirstSquawk] U.S. VICE PRESIDENT JD VANCE SAYS HE STILL DOES NOT KNOW WHAT HAPPENED WITH AMBASSADOR KIMBERLY GUILFOYLE
+- 10/20 08:06 [FirstSquawk] U.S. VICE PRESIDENT JD VANCE SAYS TED CRUZ IS A GUY WHO SAYS SOME WEIRD THINGS ABOUT HIM TO DONORS AND THAT HE PUSHES BACK WHEN CRUZ DOES, BUT OTHERWISE HE DOES NOT HAVE A PROBLEM WITH HIM
+- 10/20 08:06 [FirstSquawk] U.S. VICE PRESIDENT JD VANCE, ASKED WHETHER TRUMP WOULD ENDORSE HIM RIGHT AWAY IF HE RUNS IN 2028, SAYS HE DOES NOT KNOW BUT HIS ATTITUDE IS THAT IF HE RUNS HE THINKS TRUMP WOULD ENDORSE HIM, THOUGH THEY HAVE NOT TALKED ABOUT IT
+- 10/20 08:06 [FirstSquawk] U.S. VICE PRESIDENT JD VANCE SAYS TRUMP IS ALLOWED TO EARN A LIVING AND THAT HE SEES NO EVIDENCE TRUMP IS PROFITING OFF HIS OFFICE, ADDING HE HAS SEEN NO EVIDENCE THE TRUMP FAMILY IS SELLING ACCESS TO TRUMP OR OTHER PUBLIC OFFICIALS AND THA…
+- 10/20 08:14 [financialjuice] OpenAI rushes to lock in investor commitments for private round ahead of Anthropic IPO, sources say
+- 10/20 08:14 [financialjuice] SoftBank, MGX in discussions to join OpenAI fundraising round, source says
+- 10/20 08:29 [DeItaone] OPENAI RACES TO SECURE INVESTOR COMMITMENTS FOR PRIVATE ROUND BEFORE ANTHROPIC IPO, SOURCES SAY
+- 10/20 08:30 [DeItaone] OPENAI SEEKS $1.4 TRILLION VALUATION AHEAD OF ANTHROPIC IPO OpenAI is reportedly racing to raise $30 billion at a valuation exceeding $1.4 trillion before Anthropic’s expected November IPO. SoftBank and MGX are among potential investors. Op…
