@@ -7,94 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-19 10:46 JST／対象: 10/19 04:46 〜 10/19 10:46 JST（時刻はすべて日本時間）
+生成: 2026-10-19 15:58 JST／対象: 10/19 09:58 〜 10/19 15:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 5 | 10/19 05:38 | 10/19 08:14 | ⚠ 114分（06:20→08:14） |
-| FirstSquawk | 43 | 10/19 05:49 | 10/19 10:41 | ⚠ 92分（07:20→08:53） |
-| financialjuice | 56 | 10/19 05:21 | 10/19 10:43 | ⚠ 63分（05:42→06:45） |
+| DeItaone | 0 | - | - | - |
+| FirstSquawk | 67 | 10/19 09:59 | 10/19 15:40 | 21分（13:10→13:31） |
+| financialjuice | 58 | 10/19 10:00 | 10/19 15:54 | ⚠ 88分（12:10→13:38） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 102 行（統合前 104 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 125 行（統合前 125 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/19 05:21 [financialjuice] Elon Musk: I recommend distributing shares directly to public after Anthropic pledges 5% stake to new public benefit fund - x post
-- 10/19 05:38 [DeItaone] ELON MUSK SAYS "I RECOMMEND GIVING THE SHARES DIRECTLY TO THE PUBLIC" AFTER ANTHROPIC SAYS IT WILL COMMIT 5% STAKE TO NEW PUBLIC BENEFIT FUND- X POST
-- 10/19 05:41 [financialjuice/FirstSquawk] Trump: recent moves on Russia aimed at keeping Moscow negotiating for peace
-- 10/19 05:42 [financialjuice] Iran's IRGC navy: oil tanker ignites and blasts after striking mine in Strait of Hormuz - Iranian media
-- 10/19 05:42 [DeItaone] TRUMP: RECENT ACTIONS ON RUSSIA DESIGNED TO KEEP RUSSIA NEGOTIATING FOR PEACE
-- 10/19 05:42 [DeItaone] IRAN'S IRGC NAVY SAYS OIL TANKER CAUGHT FIRE AND EXPLODED AFTER HITTING MINE IN STRAIT OF HORMUZ - IRANIAN MEDIA
-- 10/19 05:49 [FirstSquawk] IRAN’S IRGC NAVY: OIL TANKER CAUGHT FIRE AND EXPLODED AFTER HITTING MINE IN STRAIT OF HORMUZ
-- 10/19 05:50 [FirstSquawk] TRUMP SAYS HE IS NEGOTIATING PEACE BETWEEN RUSSIA AND UKRAINE, WITH ‘GREAT PROGRESS’ BEING MADE IN PEACE AND HOSTAGE TALKS, THOUGH HE SAYS SIGNING A RUSSIA DOCUMENT NOW COULD DRIVE MOSCOW FROM THE TALKS, AND ADDS THAT RUSSIA ‘MUST STAY AWAY…
-- 10/19 05:50 [FirstSquawk] TRUMP CRITICISES ZELENSKYY FOR TARGETING RUSSIAN DIESEL REFINERIES, SAYING UKRAINE’S REFINERY ATTACKS HURT GLOBAL AND U.S. DIESEL MARKETS AND THAT ZELENSKYY ‘DOES NOT WANT TO END THE WAR WITH RUSSIA’.
-- 10/19 06:09 [FirstSquawk/DeItaone] EURO SLIPS 0.4% TO $1.1191 IN WAKE OF FRENCH RIOTS
-- 10/19 06:45 [financialjuice] NEW ZEALAND IMPORTS ACTUAL 8.44B (FORECAST -, PREVIOUS 8.00B ,REVISION 8.02B) $MACRO
-- 10/19 06:45 [financialjuice] NEW ZEALAND TRADE BALANCE ACTUAL -1,971.0M (FORECAST -, PREVIOUS -1,349.0M) $MACRO
-- 10/19 06:45 [financialjuice] NEW ZEALAND EXPORTS ACTUAL 6.47B (FORECAST -, PREVIOUS 6.66B ,REVISION 6.48B) $MACRO
-- 10/19 07:17 [FirstSquawk] SEVERAL EXPLOSIONS IN SAUDI ARABIA’S JEDDAH, FLIGHTS SUSPENDED AT JEDDAH’S KING ABDULAZIZ AIRPORT - SNN
-- 10/19 07:20 [FirstSquawk] AUSTRIAN AIRLINES SAYS A FLIGHT LANDED SAFELY IN SOFIA AFTER A THREAT AGAINST A TEL AVIV-VIENNA FLIGHT, WITH PASSENGERS TO BE REBOOKED ON ALTERNATIVE FLIGHTS
-- 10/19 07:21 [financialjuice] Flight from Tel Aviv to Vienna makes emergency landing after bomb warning: Sky News
-- 10/19 08:11 [financialjuice] Reserve Bank of Australia assistant governor Kent: reasonable indication neutral rates are increasing domestically and globally
-- 10/19 08:11 [financialjuice] Saudi civil defense: danger has passed in Abha
-- 10/19 08:11 [financialjuice] Saudi civil defense issues warning of potential threat in Abha
-- 10/19 08:14 [DeItaone] *PUTIN ASKS TRUMP AND XI FOR A MEETING: WSJ
-- 10/19 08:15 [financialjuice] RBA's Kent: Difficult to pinpoint neutral rate amid high uncertainty
-- 10/19 08:19 [financialjuice] Putin proposes summit with Trump and Xi to determine Ukraine's future: WSJ
-- 10/19 08:31 [financialjuice] RBA's Kent: confident policy is somewhat restrictive, question is whether it is restrictive enough
-- 10/19 08:32 [financialjuice] RBA's Kent: Household demand softening, but business credit remains strong
-- 10/19 08:39 [financialjuice] RBA’s Kent: Tax adjustments on housing move monetary policy in a favorable direction
-- 10/19 08:48 [financialjuice] RBA's Kent: A Bit Cautious About Monthly Job Figures, but Labor Market Loosens
-- 10/19 08:49 [financialjuice] India’s finance minister Nirmala Sitharaman blames easy exits and surplus liquidity for equity market underperformance: CNBC
-- 10/19 08:49 [financialjuice] RBA's Kent: market reaction after Labour data was reasonable
-- 10/19 08:53 [FirstSquawk] RBA’S ASSISTANT GOVERNOR KENT SAYS THERE IS REASONABLE EVIDENCE THAT NEUTRAL INTEREST RATES ARE RISING BOTH IN AUSTRALIA AND ABROAD, THOUGH IT IS HARD TO KNOW WHERE NEUTRAL SITS GIVEN TOO MUCH UNCERTAINTY
-- 10/19 08:53 [FirstSquawk] RBA’S KENT SAYS GLOBAL GROWTH HAS HELD UP BETTER THAN MOST HAD THOUGHT, AND MARKETS SEE LONG-TERM CPI EXPECTATIONS AS WELL ANCHORED
-- 10/19 08:53 [FirstSquawk] RBA’S KENT SAYS THERE IS SOME CONFIDENCE POLICY IS SOMEWHAT RESTRICTIVE, WITH THE QUESTION BEING WHETHER IT IS RESTRICTIVE ENOUGH, AND THE RBA FACES A HARD TRADE-OFF BETWEEN CPI AND UNEMPLOYMENT
-- 10/19 08:53 [FirstSquawk] RBA’S KENT SAYS HOUSEHOLD DEMAND IS WEAKENING BUT BUSINESS CREDIT IS STRONG, THE AUD MAY BE MARGINALLY ABOVE ITS EQUILIBRIUM LEVEL, FIRMS ARE INCLINED TO PASS ON COST PRESSURE, AND HOUSING TAX CHANGES HAVE BEEN IN A HELPFUL DIRECTION FOR MO…
-- 10/19 09:05 [FirstSquawk] AUSTRALIAN TREASURER CHALMERS WILL MEET CHINA’S FINANCE MINISTER LAN AT APEC AND WILL ATTEND THE APEC FINANCE MINISTERS’ MEETING
-- 10/19 09:06 [financialjuice] BoJ Governor Ueda: underlying inflation near 2% target
-- 10/19 09:06 [financialjuice] BoJ Governor Ueda: anchoring core inflation near 2% grows more crucial
-- 10/19 09:07 [financialjuice] BoJ Governor Ueda: Japan experiencing positive loop of increasing wages, recovering prices
-- 10/19 09:08 [financialjuice] BoJ Governor Ueda: Middle East conflict is driving up energy and other supply-driven inflation pressures
-- 10/19 09:09 [financialjuice] BoJ governor Ueda: robust global al demand driving up domestic capex, exports and various goods prices as demand-led inflation
-- 10/19 09:09 [financialjuice] BoJ Governor Ueda: Japan's steady economic recovery and tight labor market also fuel inflation
-- 10/19 09:13 [financialjuice] Russian air strike damages subway station in Ukraine's Kyiv: mayor
-- 10/19 09:13 [FirstSquawk] KYIV MAYOR: RUSSIAN AIR STRIKE DAMAGES SUBWAY STATION
-- 10/19 09:13 [FirstSquawk] Kyiv Subway Station Damaged in Russian Airstrike, Mayor Reports
-- 10/19 09:17 [financialjuice] Dollar/yen drops 0.19% to 157.72
-- 10/19 09:18 [FirstSquawk] BOJ GOVERNOR UEDA SAYS JAPAN IS SEEING A POSITIVE CYCLE OF RISING WAGES AND RECOVERING PRICES, ADDING THAT IT IS BECOMING MORE IMPORTANT TO ANCHOR UNDERLYING INFLATION AROUND 2%
-- 10/19 09:18 [FirstSquawk] Dollar Weakens 0.19% Against Yen to 157.72
-- 10/19 09:20 [FirstSquawk] IRAN’S DEFENCE MINISTER WARNS U.S. TROOPS OVER “MOTHER OF ALL BOMBS” THREATS, SAYING THE U.S. WILL FACE CONSEQUENCES IF THE THREATS BECOME ACTION - NOURNEWS
-- 10/19 09:20 [FirstSquawk] NSCALE PLANS TO KICK OFF IPO MARKETING AFTER SEC FEEDBACK, WITH SOME INVESTORS URGING THE COMPANY TO TRIM ITS $30 BLN IPO VALUATION TARGET AND CONSIDER A VALUATION OF $16 BLN TO $19 BLN
-- 10/19 09:23 [financialjuice] BoJ governor Ueda: no shift in central bank's fundamental bond taper approach
-- 10/19 09:23 [financialjuice] China PBOC projected to set yuan midpoint at 6.6897 per dollar: estimate
-- 10/19 09:23 [financialjuice] Responsibility for equity market’s underperformance: CNBC
-- 10/19 09:23 [financialjuice] India’s finance minister Nirmala Sitharaman blames easy exits and surplus liquidity
-- 10/19 09:23 [financialjuice] BoJ Governor Ueda: it is inappropriate to preannounce timing of emergency bond market measures
-- 10/19 09:24 [financialjuice] BoJ governor Ueda: bank will review market conditions including speed of long-term rate rise and signs of market instability to decide on intervention
-- 10/19 09:24 [FirstSquawk] BOJ’s Ueda Signals No Change in Core Bond Tapering Strategy
-- 10/19 09:24 [FirstSquawk] BOJ’s Ueda Says It Is Inappropriate to Preannounce Emergency Bond Market Actions
-- 10/19 09:27 [financialjuice] BoJ Governor Ueda: If bank raises short-term policy rate, long-term interest rates likely to rise steadily with policy
-- 10/19 09:28 [financialjuice] BoJ Governor Ueda: financial conditions stay accommodative
-- 10/19 09:28 [financialjuice] BoJ governor Ueda: If policy rate isn't adjusted properly, market concerns about inflation risk could raise long-term rates
-- 10/19 09:29 [financialjuice] BoJ Governor Ueda: by implementing monetary policy properly to reach 2% inflation target, BoJ can help stabilize JGB market
-- 10/19 09:35 [FirstSquawk] FT: Global Markets Are Magnifying the Impact of US Rate Increases
-- 10/19 09:38 [financialjuice] BoJ Governor Ueda: fiscal spending supports demand, helps raise prices and wages
-- 10/19 09:39 [financialjuice] BoJ governor Ueda: Fiscal spending that boosts Japan’s supply capacity could help tame inflation over time
-- 10/19 09:39 [FirstSquawk] BOJ’s Ueda Says Fiscal Spending Helps Drive Demand, Prices and Wage Growth
-- 10/19 09:40 [FirstSquawk] Ueda: Government Spending That Expands Japan’s Supply Capacity May Help Tame Inflation
-- 10/19 09:43 [FirstSquawk] RUSSIA IS CONSIDERING BANNING LPG EXPORTS BY NON-PRODUCERS UNTIL THE END OF 2026 TO BOOST DOMESTIC PROPANE AND BUTANE SUPPLIES. THE PROPOSAL TARGETS TRADERS, OIL DEPOTS AND SMALL INDEPENDENT REFINERIES AMID FUEL SHORTAGES LINKED TO REFINERY…
-- 10/19 09:44 [financialjuice] Japan PM Takaichi: no preset idea on whether government will compile extra budget
-- 10/19 09:46 [FirstSquawk] Takaichi: No Preconceived Position on Whether Japan Needs a Supplementary Budget
-- 10/19 09:46 [FirstSquawk] Austrian Airlines Plane Bound for Vienna Diverts to Sofia Following Threat
-- 10/19 09:47 [FirstSquawk] Russian Missile Attacks Trigger Fresh Explosions in Kyiv, Damage Metro Station
-- 10/19 09:48 [financialjuice] Japan PM Takaichi: plan to maintain issuance of JGB at appropriate level
-- 10/19 09:49 [financialjuice] Japan PM Takaichi: building robust economy can boost market confidence in yen
 - 10/19 09:59 [FirstSquawk] Anthropic Plans to Commit 5% Equity Stake to New Public Benefit Fund, WSJ Reports
 - 10/19 09:59 [FirstSquawk] Oasis Considers Seeking Special Shareholder Meeting to Revamp Nidec’s Board - NA
 - 10/19 10:00 [FirstSquawk] US STOCK FUTURES REBOUNDED, WITH S&P 500 FUTURES RISING 0.5% AND NASDAQ 100 FUTURES GAINING 0.8% AFTER LAST WEEK’S CHIP SELLOFF. ASIAN SHARES FELL 0.5%, WHILE BRENT CRUDE SLIPPED 1.7% TO $108 A BARREL AS TRADERS WEIGHED MIDDLE EAST TENSIONS…
@@ -126,3 +55,97 @@
 - 10/19 10:41 [FirstSquawk] Bank of Korea Issues 91-Day Monetary Stabilisation Bonds With a 3.190% Yield
 - 10/19 10:41 [FirstSquawk] China’s Shenzhen Home Prices Gain 0.3% M/M in September, Up From 0.2% in August
 - 10/19 10:43 [financialjuice] Saudi civil defense issues warning over potential risk in Jazan - post on X
+- 10/19 10:50 [FirstSquawk] Japan to Permit “Taiwan” Designation in Place-of-Origin Entries on Some National Records
+- 10/19 10:51 [financialjuice] Saudi civil defense: danger has passed in Jazan - post on X
+- 10/19 10:54 [FirstSquawk] Saudi Civil Defense Alerts Jazan Residents to Potential Risk, Later Declares Situation Clear
+- 10/19 11:00 [financialjuice] ‼ BREAKING: CHINESE GDP YOY ACTUAL 4.5% (FORECAST 4.4%, PREVIOUS 4.3%) $MACRO
+- 10/19 11:00 [financialjuice] CHINESE GDP QOQ SA ACTUAL 1.2% (FORECAST 0.9%, PREVIOUS 0.9%) $MACRO
+- 10/19 11:00 [financialjuice] ❗ CHINESE RETAIL SALES YOY ACTUAL 1.1% (FORECAST 0.5%, PREVIOUS 0.4%) $MACRO
+- 10/19 11:00 [financialjuice] ‼ BREAKING: CHINESE INDUSTRIAL OUTPUT YOY ACTUAL 5.5% (FORECAST 5.5%, PREVIOUS 5.2%) $MACRO
+- 10/19 11:00 [financialjuice] ❗ CHINESE UNEMPLOYMENT RATE ACTUAL 5.200% (FORECAST 5.3%, PREVIOUS 5.300%) $MACRO
+- 10/19 11:00 [financialjuice] ❗ CHINESE URBAN INVESTMENT YTD YOY ACTUAL -7.2% (FORECAST -7.3%, PREVIOUS -7.2%) $MACRO
+- 10/19 11:00 [financialjuice] China sept survey-based unemployment rate in 31 major cities at 5.2%
+- 10/19 11:00 [financialjuice] China Sept nationwide survey-based unemployment rate at 5.2%
+- 10/19 11:00 [financialjuice] China Jan-Sept private sector fixed-asset investment falls 10.4% y/y
+- 10/19 11:00 [financialjuice] China Sept retail sales rise 1.1% y/y, outpacing poll of 0.6%
+- 10/19 11:00 [financialjuice] China Jan-Sept funds raised by Chinese real estate developers down 21.6% y/y
+- 10/19 11:01 [financialjuice] China's new construction starts down 24.9% y/y in January-September
+- 10/19 11:01 [financialjuice] China Q3 2026 GDP rises 4.5% y/y, poll estimated 4.4%
+- 10/19 11:01 [financialjuice] China's infrastructure investment declines 4.2% year on year in Jan-Sept
+- 10/19 11:01 [financialjuice] China property sales by floor area down 13.2% y/y in Jan-Sept
+- 10/19 11:01 [financialjuice] China Q3 2026 GDP rises 1.2% q/q unadjusted (Poll: +1.1%)
+- 10/19 11:01 [financialjuice] China stats bureau: economy posts more positive shifts in Jan-Sept, faces weak demand and complex global backdrop
+- 10/19 11:01 [financialjuice] China property investment down 20.6% year-on-year in January-September
+- 10/19 11:01 [financialjuice] China jan-sept fixed-asset investment down 7.2% y/y vs poll -7.3%
+- 10/19 11:01 [financialjuice] China September industrial output rises 5.5% y/y, matching poll estimate
+- 10/19 11:02 [FirstSquawk] CHINA (SEP) GDP YoY ATUAL: 4.5% VS 4.3% PREVIOUS;EST 4.4%
+- 10/19 11:02 [FirstSquawk] CHINA (SEP) GDP YTD YoY ATUAL: 4.6% VS 4.7% PREVIOUS;EST 4.6%
+- 10/19 11:02 [FirstSquawk] CHINA (SEP) GDP SA QoQ ATUAL: 1.2% VS 0.9% PREVIOUS;EST 1%
+- 10/19 11:02 [FirstSquawk] CHINA (SEP) Retail Sales YoY ATUAL: 1.1% VS 0.4% PREVIOUS;EST 0.5%
+- 10/19 11:02 [FirstSquawk] CHINA (SEP) Retail Sales YTD YoY ATUAL: 1.1% VS 1.1% PREVIOUS
+- 10/19 11:02 [FirstSquawk] CHINA (SEP) Industrial Production YoY ATUAL: 5.5% VS 5.2% PREVIOUS;EST 5.5%
+- 10/19 11:02 [FirstSquawk] CHINA (SEP) Industrial Production YTD YoY ATUAL: 5.3% VS 5.3% PREVIOUS
+- 10/19 11:02 [FirstSquawk] CHINA (SEP) Fixed Assets Ex Rural YTD YoY ATUAL: -7.2% VS -7.2% PREVIOUS;EST -7.3
+- 10/19 11:02 [FirstSquawk] CHINA (SEP) Surveyed Jobless Rate ATUAL: 5.2% VS 5.3% PREVIOUS;EST 5.3%
+- 10/19 11:02 [FirstSquawk] CHINA (SEP) Property Investment YTD YoY ATUAL: -20.6% VS -19.9% PREVIOUS;EST -20%
+- 10/19 11:02 [FirstSquawk] CHINA (SEP) Residential Property Sales YTD YoY ATUAL: -13.7% VS -13.1% PREVIOUS
+- 10/19 11:12 [FirstSquawk] Yonhap: South Korea Plans Kazakhstan Visit to Strengthen Water Industry Ties
+- 10/19 11:16 [FirstSquawk] Yonhap: North Korea Praises ‘Invincible’ Friendship With Russia at Diplomatic Gathering
+- 10/19 11:18 [financialjuice] China stats bureau deputy head: Jan-Sept GDP growth aligns with full-year growth target
+- 10/19 11:18 [financialjuice] China stats bureau deputy head: Jan-Sept GDP growth 'hard earned'
+- 10/19 11:22 [financialjuice] China stats bureau deputy head: new growth drivers like high-end manufacturing, digital economy account for over 40% of Jan-Sept economic growth
+- 10/19 11:27 [FirstSquawk] Austrian Airlines Plane En Route From Tel Aviv Diverts to Bulgaria Following Bomb Threat - SCMP
+- 10/19 11:29 [financialjuice] China stats bureau deputy head: stable Jan-Sept economic activity forms solid base for achieving full-year goal
+- 10/19 11:30 [FirstSquawk] China Says Steady Economic Performance in First Nine Months Supports Achievement of Annual Growth Goal
+- 10/19 11:34 [financialjuice] China stats bureau deputy head: consumption accounted for 46.7% of Jan-Sept GDP growth
+- 10/19 11:37 [FirstSquawk] China’s Investors Favour Dividend-Paying Shares as Income Outpaces 10-Year Bond Returns - SCMP
+- 10/19 11:41 [financialjuice] China stats bureau spokesperson: services consumption increasingly key driver of consumption growth
+- 10/19 11:42 [FirstSquawk] Beijing Sees Hong Kong’s APEC Events as an Opportunity to Make Its Case for China’s System
+- 10/19 11:46 [financialjuice] China stats bureau spokesperson: modest price rebound is a key positive shift in economy this year
+- 10/19 11:47 [FirstSquawk] CXMT Expects Up to US$19.8 Billion in Net Income Over Three Quarters, Commits to Share Repurchases - SCMP
+- 10/19 11:48 [FirstSquawk] WSJ: Putin Suggests Three-Way Meeting With Trump and Xi in November to Negotiate End to Ukraine War
+- 10/19 11:50 [financialjuice] China January-September fixed-asset investment declines 7.2% year-over-year (Poll)
+- 10/19 11:50 [financialjuice] China stats bureau spokesperson: certain industries and companies still encounter challenges in production and operations
+- 10/19 11:52 [FirstSquawk] China’s Statistics Bureau Warns That Some Sectors and Businesses Still Face Operational Pressures
+- 10/19 12:00 [FirstSquawk] NZD Climbs Beyond 0.5650 as Robust China GDP Figures Boost the Currency - FX
+- 10/19 12:09 [financialjuice] Taiwan Central Bank: Taiwan dollar’s recent decline mainly reflects turmoil in global stock markets, with foreign investors net selling Taiwan stocks and repatriating funds, including dividends
+- 10/19 12:09 [financialjuice] China Sept retail sales increase 1.1% y/y, surpassing poll of 0.6%
+- 10/19 12:09 [financialjuice] Taiwan central bank: Taiwan dollar has long stayed relatively steady against the US dollar versus other major currencies
+- 10/19 12:09 [financialjuice] Taiwan central bank: will keep a close watch on global financial conditions and overseas capital movements
+- 10/19 12:10 [FirstSquawk] Taiwan Central Bank Says Foreign Stock Outflows and Dividend Repatriation Weigh on Taiwan Dollar
+- 10/19 12:10 [financialjuice] Taiwan central bank: will adjust as needed to maintain dynamic stability of Taiwan dollar exchange rate amid currency market supply and demand changes
+- 10/19 12:10 [FirstSquawk] Taiwan Dollar Has Been More Stable Against US Dollar Than Other Major Currencies, Central Bank Says
+- 10/19 12:18 [FirstSquawk] Multi-Vehicle Collision Near Tokyo Leaves 13 People Hospitalised in Kanagawa
+- 10/19 12:26 [FirstSquawk] Mitsubishi Heavy Plans to Restart Defense Equipment Shipbuilding Operations in Fiscal 2027
+- 10/19 12:38 [FirstSquawk] Seoul Records Over 6,000 Taxi Overcharging Complaints From Foreigners in Five Years, Lawmaker Says
+- 10/19 12:45 [FirstSquawk] Gold Rises as Traders Assess Expectations for a Federal Reserve Rate Hike, WSJ Reports
+- 10/19 13:05 [FirstSquawk] Bank of England Probes Barclays’ Private Credit Exposure Disclosures, FT Says
+- 10/19 13:09 [FirstSquawk] Property Market Recovery Falters as Rising Rates Force Buyers to Revise Deals, FT Says
+- 10/19 13:10 [FirstSquawk] Crypto Vaults Direct Billions of Dollars Toward Riskier Lending Markets, FT Says
+- 10/19 13:31 [FirstSquawk] 3. China’s GDP Expands 4.5% in Third Quarter on Strong Export Performance, WSJ Says
+- 10/19 13:32 [FirstSquawk] China’s CXMT Anticipates Revenue Soaring More Than Eightfold as Memory Shortages Persist, WSJ Reports
+- 10/19 13:32 [FirstSquawk] Gold Gains Slightly as Traders Evaluate the Potential for Fed Rate Hikes, WSJ Says
+- 10/19 13:38 [financialjuice] US Secretary of State Rubio: we will keep seeking chances to end conflict
+- 10/19 13:44 [FirstSquawk] US Secretary of State Rubio Says Trump Will Consider Any Path to End Ukraine War, Meeting Details Unconfirmed
+- 10/19 13:49 [financialjuice] US Secretary of State Rubio: Zelenskiy and Russians should concentrate on ending war
+- 10/19 13:49 [financialjuice] US Secretary of State Rubio: intel sharing with Ukraine continues without pause
+- 10/19 13:49 [FirstSquawk] EUR/USD Extends Weakness Below 1.1250 as Price Remains Under 100-Day SMA, FXStreet Says
+- 10/19 13:53 [FirstSquawk] Rubio Says Washington Has Not Paused Intelligence Cooperation With Kyiv
+- 10/19 14:10 [financialjuice] French President Macron declines to accept interior minister Nunez resignation: BFM TV, citing Elysee
+- 10/19 14:12 [FirstSquawk] Santander to Build AI Capabilities on Nvidia Infrastructure, Gradually Shifting Toward Smaller Models for Specific Banking Tasks
+- 10/19 14:17 [FirstSquawk] Roche Says Divarasib Outperforms Standard Care in KRAS G12C Lung Cancer; Giredestrant Shows Improved Efficacy in Breast Cancer
+- 10/19 14:19 [FirstSquawk] HSBC Lowers Novo Nordisk Target Price by DKK 40 to DKK 280
+- 10/19 14:26 [FirstSquawk] Kyiv and Surrounding Region Targeted in Massive Russian Strike Overnight, IFX Reports
+- 10/19 14:27 [FirstSquawk] Egypt and Iran Discuss Efforts to De-Escalate Regional Tensions, FM Says
+- 10/19 14:43 [FirstSquawk] Sterling-Dollar Stays Subdued Below 1.3350 as Price Remains Under 100-Day SMA, FXStreet Says
+- 10/19 15:02 [FirstSquawk] US Dollar-Canadian Dollar Pair Consolidates Near Multi-Week Lows Above 1.4100 Ahead of CPI Release
+- 10/19 15:19 [financialjuice] Nomura upgrades forecasts for China's GDP growth in Q4 and 2026
+- 10/19 15:21 [financialjuice] Nomura expects China's Q4 GDP growth at 4.8%, sees 4.7% for 2026
+- 10/19 15:23 [FirstSquawk] Nomura Upgrades China’s Q4 and 2026 GDP Growth Projections, Expects 4% Growth in 2027
+- 10/19 15:27 [FirstSquawk] Russian Defence Ministry: Russian Forces Hit Cargo Ship in the Black Sea
+- 10/19 15:34 [financialjuice] GMO Internet to spend ¥26.1B on up to 116 NVIDIA B300 servers $NVDA
+- 10/19 15:34 [FirstSquawk] US Stocks Prepare for Recovery as AI Sell-Off Eases, Financial Times Reports
+- 10/19 15:37 [FirstSquawk] NZD/USD Maintains Upward Momentum, With Traders Targeting 0.5690
+- 10/19 15:38 [FirstSquawk] Brent Crude Pulls Back Following US Decision on Russia Waiver, FXStreet Reports
+- 10/19 15:40 [FirstSquawk] Euro Faces Continued Selling Pressure Versus Sterling Amid French Political Instability
+- 10/19 15:54 [financialjuice] Barclays raises forecast for 2026 Chinese GDP growth to 4.6%

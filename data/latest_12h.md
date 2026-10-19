@@ -7,78 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-19 10:46 JST／対象: 10/18 22:46 〜 10/19 10:46 JST（時刻はすべて日本時間）
+生成: 2026-10-19 15:58 JST／対象: 10/19 03:58 〜 10/19 15:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 10/19 05:38 | 10/19 08:14 | ⚠ 114分（06:20→08:14） |
-| FirstSquawk | 91 | 10/18 23:07 | 10/19 10:41 | ⚠ 92分（07:20→08:53） |
-| financialjuice | 74 | 10/18 23:01 | 10/19 10:43 | ⚠ 73分（04:07→05:21） |
+| FirstSquawk | 97 | 10/19 04:30 | 10/19 15:40 | ⚠ 92分（07:20→08:53） |
+| financialjuice | 101 | 10/19 03:59 | 10/19 15:54 | ⚠ 88分（12:10→13:38） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 162 行（統合前 170 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 201 行（統合前 203 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/18 23:01 [financialjuice/FirstSquawk] Zelenskyy: speaking to Witkoff, Kushner about peace talks
-- 10/18 23:05 [financialjuice/FirstSquawk] Russian Defence Ministry: hit cargo ship near Ukraine's Odesa
-- 10/18 23:07 [FirstSquawk] Accenture looks to sell Chinese operations for up to $1.5bn - FT
-- 10/18 23:08 [FirstSquawk] St Petersburg endures biggest Ukrainian drone attack - FT
-- 10/18 23:08 [FirstSquawk] France reels after ‘unprecedented’ violent riots - FT
-- 10/18 23:08 [FirstSquawk] Microsoft pulls plug on Nscale data centre deal - FT
-- 10/18 23:08 [FirstSquawk] Treasury introduces new security measures in bid to stop UK Budget leaks - FT
-- 10/18 23:38 [FirstSquawk] Two sides still divided on Taiwan despite plans for more Trump-Xi meetings. - Nikkei
-- 10/18 23:38 [FirstSquawk] IMF meetings end with the region's resilience increasingly uneven and under pressure. - Nikkei
-- 10/18 23:38 [FirstSquawk] Luxury cruise passes former capitals and Buddhist ruins before floods intervene. - Nikkei
-- 10/18 23:47 [financialjuice] Trump endorses Netanyahu in Israel election: Truth Social post
-- 10/18 23:57 [financialjuice] Ukraine president Zelenskiy: spoke with US president’s envoys Steve Witkoff and Jared Kushner
-- 10/18 23:58 [financialjuice] Zelenskiy: US, Ukrainian negotiators hold virtually nonstop communication
-- 10/19 00:14 [financialjuice] UAE vice president discusses regional developments with Saudi defense minister in Abu Dhabi: Emirati state news agency
-- 10/19 00:28 [financialjuice] Saudi civil defense: six injured after projectile lands in Najran
-- 10/19 00:29 [FirstSquawk] Trump, in a post on Truth Social: I support Netanyahu in the Israeli elections
-- 10/19 00:29 [FirstSquawk] Trump: Iran has been systematically subjected to devastating military and financial blows
-- 10/19 00:30 [FirstSquawk] Trump: If someone other than Netanyahu takes over the leadership of Israel, America will have to complete the mission against Iran itself, which is something I don't want
-- 10/19 00:30 [FirstSquawk] Trump: If Iran does not change its approach quickly, we will complete the mission against it soon.
-- 10/19 00:30 [FirstSquawk] Yemeni sources: Dozens killed and wounded among government forces and Houthis in clashes and airstrikes in Taiz and Lahj
-- 10/19 00:30 [FirstSquawk] UAE Vice President Sheikh Mansour bin Zayed meets with Saudi Defense Minister in Abu Dhabi
-- 10/19 00:30 [FirstSquawk] Netanyahu thanks Trump for his "tremendous support" and says they will get the job done "together".
-- 10/19 01:03 [financialjuice/FirstSquawk] US ambassador to EU Puzder warns of ‘devastating’ retaliation if Brussels limits spectrum access for non-EU firms - FT
-- 10/19 01:08 [financialjuice/FirstSquawk] Iran foreign ministry spokesperson: Russia's foreign minister to visit Tehran on Monday - Iranian media
-- 10/19 01:13 [FirstSquawk] Zelensky: I held talks with US President's envoys Steve Wittkopf and Jared Kushner
-- 10/19 01:14 [FirstSquawk] NBC on Zelensky: I'm scheduled to speak by phone with Wittkopf and Kushner today and hope to hold a meeting in the coming days.
-- 10/19 01:14 [FirstSquawk] NBC on Zelensky: We have made progress in intelligence sharing with Washington on Russian missiles after a days-long hiatus
-- 10/19 01:14 [FirstSquawk] Lavrov: We emphasize the need to continue the close partnership with the Gulf Cooperation Council countries.
-- 10/19 01:14 [FirstSquawk] Lavrov: We call for finding solutions that address the root causes of the region's crises.
-- 10/19 01:14 [FirstSquawk] Lavrov: We welcome the efforts of regional mediators who are trying to prevent the region from sliding into further escalation.
-- 10/19 01:15 [FirstSquawk] Lavrov: Trump's plan on Gaza remains just ink on paper, and the principles laid down in the initiative have not been respected.
-- 10/19 01:15 [FirstSquawk] Netanyahu: Our goal is to eliminate the Iranian threat and topple the regime in Tehran
-- 10/19 01:15 [FirstSquawk] Netanyahu: We will continue working to eliminate Hamas and Hezbollah's capabilities and prevent them from rebuilding their strength.
-- 10/19 01:16 [FirstSquawk] Netanyahu: We will move to large-scale offensive operations to eradicate terrorist strongholds in the West Bank and inside Israel.
-- 10/19 01:16 [FirstSquawk] Netanyahu: We are working to establish buffer zones and security barriers on our borders with Lebanon , Syria, Jordan, Egypt, and the Gaza Strip
-- 10/19 01:45 [financialjuice/FirstSquawk] Syria, World Bank agree to establish multi-donor trust fund for recovery and rebuilding: statement
-- 10/19 02:06 [financialjuice/FirstSquawk] Egypt's foreign minister: discussed regional progress, importance of de-escalation in call with Saudi counterpart
-- 10/19 02:20 [FirstSquawk] Israeli airstrike on the outskirts of Wadi al-Salouqi area in southern Lebanon
-- 10/19 02:21 [FirstSquawk] Egyptian Foreign Minister: I discussed regional developments and the importance of de-escalation in a call with my Saudi counterpart
-- 10/19 02:21 [FirstSquawk] Lebanese Deputy Prime Minister Tarek Mitri: Washington has not yet exerted enough pressure on Israel to fulfill its obligations.
-- 10/19 02:21 [FirstSquawk] Tarek Mitri: We agreed on a gradual Israeli withdrawal from Lebanese territory, but it has not been implemented.
-- 10/19 02:59 [FirstSquawk] U.S. ENERGY SECRETARY CHRIS WRIGHT, ASKED WHY THE DEAL WAS MADE BEFORE RUSSIA AGREED TO TONE DOWN OR END THE WAR AGAINST UKRAINE, SAYS ‘WHAT PRESIDENT TRUMP IS TRYING TO DO IS FIND WHAT DIFFERENT WAY WILL LEAD TO PEACE’, CALLING IT ‘QUITE I…
-- 10/19 02:59 [FirstSquawk] U.S. ENERGY SECRETARY CHRIS WRIGHT SAYS THAT ‘IF RUSSIA CAN BRING ADDITIONAL DIESEL TO THE MARKET AND EXPORT IT, IT WOULD BENEFIT AMERICAN CONSUMERS’ AND ‘THE WORLD’.
-- 10/19 02:59 [FirstSquawk] U.S. ENERGY SECRETARY CHRIS WRIGHT SAYS TRUMP ‘DIDN’T END THE LINDSEY GRAHAM SANCTIONS’, BUT HAS ‘JUST SUSPENDED THE ENFORCEMENT OF THEM FOR NOW’.
-- 10/19 03:00 [FirstSquawk] ISRAELI PRIME MINISTER NETANYAHU SAYS ON TÜRKIYE THAT ‘I HOPE WE DON’T REACH A DIRECT CONFRONTATION WITH TÜRKIYE’, ADDING ‘THAT IS WHAT I AM TRYING TO AVOID’.
-- 10/19 03:00 [FirstSquawk] ISRAELI PRIME MINISTER NETANYAHU SAYS ON RUSSIA THAT ‘RUSSIA HAS ITS OWN INTERESTS, AND THE STATE OF ISRAEL HAS ITS INTERESTS, AND THEY DO NOT ALWAYS OVERLAP’, SOMETIMES EVEN CLASHING, AND THAT ISRAEL OPPOSES RUSSIA’S COOPERATION WITH IRAN …
-- 10/19 03:00 [FirstSquawk] ISRAELI PRIME MINISTER NETANYAHU SAYS ‘WE RAISE ALL THESE ISSUES, AND WE RAISE THEM VERY CLEARLY’, ADDING ‘I TALK WITH PUTIN AS NEEDED’ - THE JERUSALEM POST
-- 10/19 03:07 [financialjuice] Anthropic pledges 5% of shares to public benefit fund, adds 2% more for every 50% valuation rise
-- 10/19 03:07 [financialjuice] Anthropic establishes public benefit fund; equity barred from lobbying or political donations
-- 10/19 03:07 [financialjuice] Anthropic to allocate roughly 20% of shares to public good, with potential for further distribution
-- 10/19 03:07 [financialjuice] Anthropic to update public benefit fund structure and progress in upcoming report
-- 10/19 03:07 [financialjuice] Anthropic announces public benefit fund to facilitate major gifts and direct distributions
-- 10/19 03:08 [FirstSquawk] ANTHROPIC HAS ANNOUNCED A PUBLIC BENEFIT FUND TO FACILITATE MAJOR GIFTS AND DIRECT DISTRIBUTIONS, PLEDGING 5% OF ITS SHARES TO THE FUND AND ADDING 2% MORE FOR EVERY 50% RISE IN VALUATION, WITH ROUGHLY 20% OF SHARES ULTIMATELY ALLOCATED TO T…
-- 10/19 03:08 [FirstSquawk] ANTHROPIC SAYS THE FUND’S EQUITY IS BARRED FROM LOBBYING OR POLITICAL DONATIONS, AND THAT IT IS COMMITTING $200 MLN TO RESEARCH THE LABOR MARKET EFFECTS OF AI, WITH THE FUND’S STRUCTURE AND PROGRESS TO BE UPDATED IN AN UPCOMING REPORT.
-- 10/19 03:23 [FirstSquawk] UKRAINE’S ZELENSKYY SAYS UKRAINE WON’T HIT RUSSIAN REFINERIES IF THE U.S. SENDS MORE INTERCEPTORS, ADDING THAT TRUMP IS PUSHING UKRAINE TO CAPITULATE TO RUSSIA
 - 10/19 03:59 [financialjuice] Zelenskyy: Trump is urging Ukraine to surrender to Russia
 - 10/19 04:07 [financialjuice] Ukraine’s Zelenskiy: Trump is urging Ukraine to surrender to Russia
 - 10/19 04:30 [FirstSquawk] UKRAINE’S ZELENSKIY SAYS TRUMP IS URGING UKRAINE TO SURRENDER TO RUSSIA
@@ -186,3 +131,97 @@
 - 10/19 10:41 [FirstSquawk] Bank of Korea Issues 91-Day Monetary Stabilisation Bonds With a 3.190% Yield
 - 10/19 10:41 [FirstSquawk] China’s Shenzhen Home Prices Gain 0.3% M/M in September, Up From 0.2% in August
 - 10/19 10:43 [financialjuice] Saudi civil defense issues warning over potential risk in Jazan - post on X
+- 10/19 10:50 [FirstSquawk] Japan to Permit “Taiwan” Designation in Place-of-Origin Entries on Some National Records
+- 10/19 10:51 [financialjuice] Saudi civil defense: danger has passed in Jazan - post on X
+- 10/19 10:54 [FirstSquawk] Saudi Civil Defense Alerts Jazan Residents to Potential Risk, Later Declares Situation Clear
+- 10/19 11:00 [financialjuice] ‼ BREAKING: CHINESE GDP YOY ACTUAL 4.5% (FORECAST 4.4%, PREVIOUS 4.3%) $MACRO
+- 10/19 11:00 [financialjuice] CHINESE GDP QOQ SA ACTUAL 1.2% (FORECAST 0.9%, PREVIOUS 0.9%) $MACRO
+- 10/19 11:00 [financialjuice] ❗ CHINESE RETAIL SALES YOY ACTUAL 1.1% (FORECAST 0.5%, PREVIOUS 0.4%) $MACRO
+- 10/19 11:00 [financialjuice] ‼ BREAKING: CHINESE INDUSTRIAL OUTPUT YOY ACTUAL 5.5% (FORECAST 5.5%, PREVIOUS 5.2%) $MACRO
+- 10/19 11:00 [financialjuice] ❗ CHINESE UNEMPLOYMENT RATE ACTUAL 5.200% (FORECAST 5.3%, PREVIOUS 5.300%) $MACRO
+- 10/19 11:00 [financialjuice] ❗ CHINESE URBAN INVESTMENT YTD YOY ACTUAL -7.2% (FORECAST -7.3%, PREVIOUS -7.2%) $MACRO
+- 10/19 11:00 [financialjuice] China sept survey-based unemployment rate in 31 major cities at 5.2%
+- 10/19 11:00 [financialjuice] China Sept nationwide survey-based unemployment rate at 5.2%
+- 10/19 11:00 [financialjuice] China Jan-Sept private sector fixed-asset investment falls 10.4% y/y
+- 10/19 11:00 [financialjuice] China Sept retail sales rise 1.1% y/y, outpacing poll of 0.6%
+- 10/19 11:00 [financialjuice] China Jan-Sept funds raised by Chinese real estate developers down 21.6% y/y
+- 10/19 11:01 [financialjuice] China's new construction starts down 24.9% y/y in January-September
+- 10/19 11:01 [financialjuice] China Q3 2026 GDP rises 4.5% y/y, poll estimated 4.4%
+- 10/19 11:01 [financialjuice] China's infrastructure investment declines 4.2% year on year in Jan-Sept
+- 10/19 11:01 [financialjuice] China property sales by floor area down 13.2% y/y in Jan-Sept
+- 10/19 11:01 [financialjuice] China Q3 2026 GDP rises 1.2% q/q unadjusted (Poll: +1.1%)
+- 10/19 11:01 [financialjuice] China stats bureau: economy posts more positive shifts in Jan-Sept, faces weak demand and complex global backdrop
+- 10/19 11:01 [financialjuice] China property investment down 20.6% year-on-year in January-September
+- 10/19 11:01 [financialjuice] China jan-sept fixed-asset investment down 7.2% y/y vs poll -7.3%
+- 10/19 11:01 [financialjuice] China September industrial output rises 5.5% y/y, matching poll estimate
+- 10/19 11:02 [FirstSquawk] CHINA (SEP) GDP YoY ATUAL: 4.5% VS 4.3% PREVIOUS;EST 4.4%
+- 10/19 11:02 [FirstSquawk] CHINA (SEP) GDP YTD YoY ATUAL: 4.6% VS 4.7% PREVIOUS;EST 4.6%
+- 10/19 11:02 [FirstSquawk] CHINA (SEP) GDP SA QoQ ATUAL: 1.2% VS 0.9% PREVIOUS;EST 1%
+- 10/19 11:02 [FirstSquawk] CHINA (SEP) Retail Sales YoY ATUAL: 1.1% VS 0.4% PREVIOUS;EST 0.5%
+- 10/19 11:02 [FirstSquawk] CHINA (SEP) Retail Sales YTD YoY ATUAL: 1.1% VS 1.1% PREVIOUS
+- 10/19 11:02 [FirstSquawk] CHINA (SEP) Industrial Production YoY ATUAL: 5.5% VS 5.2% PREVIOUS;EST 5.5%
+- 10/19 11:02 [FirstSquawk] CHINA (SEP) Industrial Production YTD YoY ATUAL: 5.3% VS 5.3% PREVIOUS
+- 10/19 11:02 [FirstSquawk] CHINA (SEP) Fixed Assets Ex Rural YTD YoY ATUAL: -7.2% VS -7.2% PREVIOUS;EST -7.3
+- 10/19 11:02 [FirstSquawk] CHINA (SEP) Surveyed Jobless Rate ATUAL: 5.2% VS 5.3% PREVIOUS;EST 5.3%
+- 10/19 11:02 [FirstSquawk] CHINA (SEP) Property Investment YTD YoY ATUAL: -20.6% VS -19.9% PREVIOUS;EST -20%
+- 10/19 11:02 [FirstSquawk] CHINA (SEP) Residential Property Sales YTD YoY ATUAL: -13.7% VS -13.1% PREVIOUS
+- 10/19 11:12 [FirstSquawk] Yonhap: South Korea Plans Kazakhstan Visit to Strengthen Water Industry Ties
+- 10/19 11:16 [FirstSquawk] Yonhap: North Korea Praises ‘Invincible’ Friendship With Russia at Diplomatic Gathering
+- 10/19 11:18 [financialjuice] China stats bureau deputy head: Jan-Sept GDP growth aligns with full-year growth target
+- 10/19 11:18 [financialjuice] China stats bureau deputy head: Jan-Sept GDP growth 'hard earned'
+- 10/19 11:22 [financialjuice] China stats bureau deputy head: new growth drivers like high-end manufacturing, digital economy account for over 40% of Jan-Sept economic growth
+- 10/19 11:27 [FirstSquawk] Austrian Airlines Plane En Route From Tel Aviv Diverts to Bulgaria Following Bomb Threat - SCMP
+- 10/19 11:29 [financialjuice] China stats bureau deputy head: stable Jan-Sept economic activity forms solid base for achieving full-year goal
+- 10/19 11:30 [FirstSquawk] China Says Steady Economic Performance in First Nine Months Supports Achievement of Annual Growth Goal
+- 10/19 11:34 [financialjuice] China stats bureau deputy head: consumption accounted for 46.7% of Jan-Sept GDP growth
+- 10/19 11:37 [FirstSquawk] China’s Investors Favour Dividend-Paying Shares as Income Outpaces 10-Year Bond Returns - SCMP
+- 10/19 11:41 [financialjuice] China stats bureau spokesperson: services consumption increasingly key driver of consumption growth
+- 10/19 11:42 [FirstSquawk] Beijing Sees Hong Kong’s APEC Events as an Opportunity to Make Its Case for China’s System
+- 10/19 11:46 [financialjuice] China stats bureau spokesperson: modest price rebound is a key positive shift in economy this year
+- 10/19 11:47 [FirstSquawk] CXMT Expects Up to US$19.8 Billion in Net Income Over Three Quarters, Commits to Share Repurchases - SCMP
+- 10/19 11:48 [FirstSquawk] WSJ: Putin Suggests Three-Way Meeting With Trump and Xi in November to Negotiate End to Ukraine War
+- 10/19 11:50 [financialjuice] China January-September fixed-asset investment declines 7.2% year-over-year (Poll)
+- 10/19 11:50 [financialjuice] China stats bureau spokesperson: certain industries and companies still encounter challenges in production and operations
+- 10/19 11:52 [FirstSquawk] China’s Statistics Bureau Warns That Some Sectors and Businesses Still Face Operational Pressures
+- 10/19 12:00 [FirstSquawk] NZD Climbs Beyond 0.5650 as Robust China GDP Figures Boost the Currency - FX
+- 10/19 12:09 [financialjuice] Taiwan Central Bank: Taiwan dollar’s recent decline mainly reflects turmoil in global stock markets, with foreign investors net selling Taiwan stocks and repatriating funds, including dividends
+- 10/19 12:09 [financialjuice] China Sept retail sales increase 1.1% y/y, surpassing poll of 0.6%
+- 10/19 12:09 [financialjuice] Taiwan central bank: Taiwan dollar has long stayed relatively steady against the US dollar versus other major currencies
+- 10/19 12:09 [financialjuice] Taiwan central bank: will keep a close watch on global financial conditions and overseas capital movements
+- 10/19 12:10 [FirstSquawk] Taiwan Central Bank Says Foreign Stock Outflows and Dividend Repatriation Weigh on Taiwan Dollar
+- 10/19 12:10 [financialjuice] Taiwan central bank: will adjust as needed to maintain dynamic stability of Taiwan dollar exchange rate amid currency market supply and demand changes
+- 10/19 12:10 [FirstSquawk] Taiwan Dollar Has Been More Stable Against US Dollar Than Other Major Currencies, Central Bank Says
+- 10/19 12:18 [FirstSquawk] Multi-Vehicle Collision Near Tokyo Leaves 13 People Hospitalised in Kanagawa
+- 10/19 12:26 [FirstSquawk] Mitsubishi Heavy Plans to Restart Defense Equipment Shipbuilding Operations in Fiscal 2027
+- 10/19 12:38 [FirstSquawk] Seoul Records Over 6,000 Taxi Overcharging Complaints From Foreigners in Five Years, Lawmaker Says
+- 10/19 12:45 [FirstSquawk] Gold Rises as Traders Assess Expectations for a Federal Reserve Rate Hike, WSJ Reports
+- 10/19 13:05 [FirstSquawk] Bank of England Probes Barclays’ Private Credit Exposure Disclosures, FT Says
+- 10/19 13:09 [FirstSquawk] Property Market Recovery Falters as Rising Rates Force Buyers to Revise Deals, FT Says
+- 10/19 13:10 [FirstSquawk] Crypto Vaults Direct Billions of Dollars Toward Riskier Lending Markets, FT Says
+- 10/19 13:31 [FirstSquawk] 3. China’s GDP Expands 4.5% in Third Quarter on Strong Export Performance, WSJ Says
+- 10/19 13:32 [FirstSquawk] China’s CXMT Anticipates Revenue Soaring More Than Eightfold as Memory Shortages Persist, WSJ Reports
+- 10/19 13:32 [FirstSquawk] Gold Gains Slightly as Traders Evaluate the Potential for Fed Rate Hikes, WSJ Says
+- 10/19 13:38 [financialjuice] US Secretary of State Rubio: we will keep seeking chances to end conflict
+- 10/19 13:44 [FirstSquawk] US Secretary of State Rubio Says Trump Will Consider Any Path to End Ukraine War, Meeting Details Unconfirmed
+- 10/19 13:49 [financialjuice] US Secretary of State Rubio: Zelenskiy and Russians should concentrate on ending war
+- 10/19 13:49 [financialjuice] US Secretary of State Rubio: intel sharing with Ukraine continues without pause
+- 10/19 13:49 [FirstSquawk] EUR/USD Extends Weakness Below 1.1250 as Price Remains Under 100-Day SMA, FXStreet Says
+- 10/19 13:53 [FirstSquawk] Rubio Says Washington Has Not Paused Intelligence Cooperation With Kyiv
+- 10/19 14:10 [financialjuice] French President Macron declines to accept interior minister Nunez resignation: BFM TV, citing Elysee
+- 10/19 14:12 [FirstSquawk] Santander to Build AI Capabilities on Nvidia Infrastructure, Gradually Shifting Toward Smaller Models for Specific Banking Tasks
+- 10/19 14:17 [FirstSquawk] Roche Says Divarasib Outperforms Standard Care in KRAS G12C Lung Cancer; Giredestrant Shows Improved Efficacy in Breast Cancer
+- 10/19 14:19 [FirstSquawk] HSBC Lowers Novo Nordisk Target Price by DKK 40 to DKK 280
+- 10/19 14:26 [FirstSquawk] Kyiv and Surrounding Region Targeted in Massive Russian Strike Overnight, IFX Reports
+- 10/19 14:27 [FirstSquawk] Egypt and Iran Discuss Efforts to De-Escalate Regional Tensions, FM Says
+- 10/19 14:43 [FirstSquawk] Sterling-Dollar Stays Subdued Below 1.3350 as Price Remains Under 100-Day SMA, FXStreet Says
+- 10/19 15:02 [FirstSquawk] US Dollar-Canadian Dollar Pair Consolidates Near Multi-Week Lows Above 1.4100 Ahead of CPI Release
+- 10/19 15:19 [financialjuice] Nomura upgrades forecasts for China's GDP growth in Q4 and 2026
+- 10/19 15:21 [financialjuice] Nomura expects China's Q4 GDP growth at 4.8%, sees 4.7% for 2026
+- 10/19 15:23 [FirstSquawk] Nomura Upgrades China’s Q4 and 2026 GDP Growth Projections, Expects 4% Growth in 2027
+- 10/19 15:27 [FirstSquawk] Russian Defence Ministry: Russian Forces Hit Cargo Ship in the Black Sea
+- 10/19 15:34 [financialjuice] GMO Internet to spend ¥26.1B on up to 116 NVIDIA B300 servers $NVDA
+- 10/19 15:34 [FirstSquawk] US Stocks Prepare for Recovery as AI Sell-Off Eases, Financial Times Reports
+- 10/19 15:37 [FirstSquawk] NZD/USD Maintains Upward Momentum, With Traders Targeting 0.5690
+- 10/19 15:38 [FirstSquawk] Brent Crude Pulls Back Following US Decision on Russia Waiver, FXStreet Reports
+- 10/19 15:40 [FirstSquawk] Euro Faces Continued Selling Pressure Versus Sterling Amid French Political Instability
+- 10/19 15:54 [financialjuice] Barclays raises forecast for 2026 Chinese GDP growth to 4.6%
