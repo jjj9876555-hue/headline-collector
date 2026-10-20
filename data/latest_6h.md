@@ -7,106 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-20 11:04 JST／対象: 10/20 05:04 〜 10/20 11:04 JST（時刻はすべて日本時間）
+生成: 2026-10-20 16:26 JST／対象: 10/20 10:26 〜 10/20 16:26 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 4 | 10/20 05:56 | 10/20 08:30 | ⚠ 104分（05:56→07:40） |
-| FirstSquawk | 56 | 10/20 05:11 | 10/20 11:00 | ⚠ 85分（06:39→08:04） |
-| financialjuice | 33 | 10/20 05:10 | 10/20 11:00 | ⚠ 63分（08:14→09:18） |
+| DeItaone | 0 | - | - | - |
+| FirstSquawk | 65 | 10/20 10:31 | 10/20 16:11 | 24分（15:46→16:11） |
+| financialjuice | 38 | 10/20 10:38 | 10/20 16:06 | ⚠ 73分（12:42→13:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 91 行（統合前 93 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 103 行（統合前 103 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/20 05:10 [financialjuice] Chip Stocks Rebound as AI Optimism Lifts Nasdaq Ahead of Earnings - Market Wrap
-- 10/20 05:11 [FirstSquawk] CROWN HOLDINGS Q3 2026 NET SALES $3.71 BLN, ABOVE ESTIMATE OF $3.44 BLN, AND ADJUSTED EPS $2.39, ABOVE ESTIMATE OF $2.26
-- 10/20 05:11 [FirstSquawk] CROWN HOLDINGS SEES Q4 ADJUSTED EPS $1.63 TO $1.73, BELOW ESTIMATE OF $1.80, AND NARROWS FY ADJUSTED EPS GUIDANCE TO $8.35 TO $8.45 FROM $8.30 TO $8.50
-- 10/20 05:15 [financialjuice/FirstSquawk] Kushner and Witkoff plan to travel to Norway this week for Ukraine talks - three sources familiar with the matter
-- 10/20 05:15 [financialjuice] Ukrainian president Zelenskiy expected to join talks - Two sources familiar with the matter
-- 10/20 05:18 [financialjuice] The US and Austria to work on advancing peace in Ukraine and the Middle East
-- 10/20 05:35 [FirstSquawk] OIL FLUCTUATED NEAR A FIVE-MONTH HIGH AS MIDDLE EAST TENSIONS RAISED SUPPLY RISKS, WITH BRENT SETTLING AT $109.55 A BARREL. HOWEVER, RECOVERING HORMUZ FLOWS AND OVERBOUGHT TECHNICAL INDICATORS LIMITED FURTHER GAINS.
-- 10/20 05:35 [FirstSquawk] TRUMP’S PROPOSED RUSSIAN DIESEL DEAL FACED OPPOSITION FROM US LAWMAKERS, WHILE ANALYSTS QUESTIONED WHETHER ADDITIONAL SUPPLIES WOULD LOWER FUEL PRICES. BRENT HAS RISEN MORE THAN 75% THIS YEAR, WHILE EUROPEAN DIESEL FUTURES HAVE MORE THAN DO…
-- 10/20 05:37 [FirstSquawk] STEEL DYNAMICS Q3 2026 REVENUE $6.51 BLN, ABOVE ESTIMATE OF $6.43 BLN, WITH EPS $5.26, BELOW ESTIMATE OF $5.41, AND NET INCOME $755.7 MLN
-- 10/20 05:37 [FirstSquawk] STEEL DYNAMICS Q3 STEEL SHIPMENTS 3.8 MLN TONNES AND ADJUSTED EBITDA $1.19 BLN, BELOW ESTIMATE OF $1.23 BLN
-- 10/20 05:42 [financialjuice] Stocks of crude oil in US SPR fell to 282.7 mln barrels last week, lowest since 1982
-- 10/20 05:42 [financialjuice] Trump: A big thank you to Musk for the SpaceX stock plan - Truth Social $SPCX
-- 10/20 05:43 [FirstSquawk] US STOCKS REBOUNDED AS CHIPMAKERS RALLIED, WITH THE NASDAQ 100 RISING 1.2% AND THE S&P 500 GAINING 0.4%, AS INVESTORS RENEWED OPTIMISM OVER AI-DRIVEN EARNINGS. UPCOMING RESULTS FROM META AND TESLA WILL TEST CONFIDENCE IN THE AI INVESTMENT B…
-- 10/20 05:43 [FirstSquawk] TREASURY YIELDS ROSE AS ELEVATED OIL PRICES FUELED INFLATION CONCERNS, WITH THE 10-YEAR YIELD CLIMBING SEVEN BASIS POINTS TO 5.14%. WTI CRUDE GAINED 2.3% TO $103.78 A BARREL, WHILE GOLD FELL 0.6% TO $4,140 AN OUNCE.
-- 10/20 05:44 [financialjuice/FirstSquawk] Iran Strait of Hormuz Management Organization: 122 ships have been added to the list of non-compliance.
-- 10/20 05:46 [FirstSquawk] TRUMP THANKS ELON MUSK FOR HIS INCREDIBLE GENEROSITY IN GIVING SPACEX STOCK TO MILLIONS OF AMERICAN CHILDREN THROUGH TRUMP ACCOUNTS, SAYING THIS IS EXACTLY WHAT WAS ENVISIONED WHEN TRUMP ACCOUNTS WERE CREATED - TRUTH SOCIAL
-- 10/20 05:46 [FirstSquawk] TRUMP SAYS TRUMP ACCOUNTS BRING TOGETHER THE GREAT PRIVATE SECTOR, ELON AND MANY MORE TO INVEST IN CHILDREN, BY FAR THE GREATEST AND MOST IMPORTANT ASSET, AND GIVE EVERY AMERICAN CHILD A PIECE OF THE AMERICAN DREAM - TRUTH SOCIAL
-- 10/20 05:56 [DeItaone] TRUMP THANKS ELON MUSK FOR SPACEX STOCK GIVEAWAY President Trump praised Elon Musk for pledging SpaceX shares to millions of American children through Trump Accounts. Trump called the initiative a major step toward giving children a stake i…
-- 10/20 06:03 [FirstSquawk] 3M SAYS IT HAS EXPANDED ITS STRATEGIC COMMERCIAL RELATIONSHIP WITH AN AMAZON SUBSIDIARY, ISSUING A WARRANT TO THE AMAZON SUBSIDIARY FOR 3,162,015 SHARES AT $164.89 PER SHARE
-- 10/20 06:03 [FirstSquawk] 3M SAYS 85% OF THE WARRANT SHARES VEST WITH AMAZON PAYMENTS, WITH FULL VESTING AT $6 BLN IN CUMULATIVE PAYMENTS - SEC FILING
-- 10/20 06:27 [FirstSquawk] BHP Q1 2027 ATTRIBUTABLE IRON ORE OUTPUT 66.45 MLN TONNES AND COPPER OUTPUT 400,700 TONNES
-- 10/20 06:27 [FirstSquawk] BHP STILL SEES FY IRON ORE OUTPUT 260 MLN TO 272 MLN TONNES AND FY COPPER OUTPUT 1.65 MLN TO 1.80 MLN TONNES
-- 10/20 06:27 [financialjuice] Former Google chief executive officer Eric Schmidt holds about 1% stake in Anthropic
-- 10/20 06:39 [FirstSquawk] NATIONAL AUSTRALIA BANK EXPECTS TO REDUCE ITS INTERNAL WORKFORCE BY UP TO 2,500 ROLES AND PLANS A SIGNIFICANT REDUCTION IN ITS USE OF CONSULTANTS AND EXTERNAL CONTRACTORS - SOURCES
-- 10/20 06:39 [FirstSquawk] NAB EXPECTS AN FY2027 PRETAX RESTRUCTURING CHARGE OF ABOUT A$300 MLN, SAYING THE RESTRUCTURING AIMS TO SIMPLIFY ITS OPERATING MODEL AND IMPROVE ORGANISATIONAL ALIGNMENT
-- 10/20 07:29 [financialjuice] Changzhou Microintelligence co- caps offer price at HK$21.46 per share in global offering
-- 10/20 07:34 [financialjuice] Hegseth meets Netanyahu during unannounced Israel trip: Axios
-- 10/20 07:39 [financialjuice] Trump administration has not authorized transfer of interceptor missiles to Ukraine: Washington Post
-- 10/20 07:40 [DeItaone] THE TRUMP ADMINISTRATION HAS NOT APPROVED THE TRANSFER OF INTERCEPTOR MISSILES TO UKRAINE - WASHINGTON POST
-- 10/20 08:04 [FirstSquawk] U.S. VICE PRESIDENT JD VANCE SAYS HE STILL DOES NOT KNOW WHAT HAPPENED WITH AMBASSADOR KIMBERLY GUILFOYLE
-- 10/20 08:06 [FirstSquawk] U.S. VICE PRESIDENT JD VANCE SAYS TED CRUZ IS A GUY WHO SAYS SOME WEIRD THINGS ABOUT HIM TO DONORS AND THAT HE PUSHES BACK WHEN CRUZ DOES, BUT OTHERWISE HE DOES NOT HAVE A PROBLEM WITH HIM
-- 10/20 08:06 [FirstSquawk] U.S. VICE PRESIDENT JD VANCE, ASKED WHETHER TRUMP WOULD ENDORSE HIM RIGHT AWAY IF HE RUNS IN 2028, SAYS HE DOES NOT KNOW BUT HIS ATTITUDE IS THAT IF HE RUNS HE THINKS TRUMP WOULD ENDORSE HIM, THOUGH THEY HAVE NOT TALKED ABOUT IT
-- 10/20 08:06 [FirstSquawk] U.S. VICE PRESIDENT JD VANCE SAYS TRUMP IS ALLOWED TO EARN A LIVING AND THAT HE SEES NO EVIDENCE TRUMP IS PROFITING OFF HIS OFFICE, ADDING HE HAS SEEN NO EVIDENCE THE TRUMP FAMILY IS SELLING ACCESS TO TRUMP OR OTHER PUBLIC OFFICIALS AND THA…
-- 10/20 08:14 [financialjuice] OpenAI rushes to lock in investor commitments for private round ahead of Anthropic IPO, sources say
-- 10/20 08:14 [financialjuice] SoftBank, MGX in discussions to join OpenAI fundraising round, source says
-- 10/20 08:29 [DeItaone] OPENAI RACES TO SECURE INVESTOR COMMITMENTS FOR PRIVATE ROUND BEFORE ANTHROPIC IPO, SOURCES SAY
-- 10/20 08:30 [DeItaone] OPENAI SEEKS $1.4 TRILLION VALUATION AHEAD OF ANTHROPIC IPO OpenAI is reportedly racing to raise $30 billion at a valuation exceeding $1.4 trillion before Anthropic’s expected November IPO. SoftBank and MGX are among potential investors. Op…
-- 10/20 08:52 [FirstSquawk] JAPAN EARLY TRADE: BENCHMARK 10-YEAR JGB FUTURES FALL 0.22 POINT, NIKKEI AVERAGE FUTURES FALL 0.12%
-- 10/20 08:52 [FirstSquawk] U.S. VP VANCE SAYS UKRAINE SHOULD NOT BE IN NATO AND THAT THE U.S. AND UKRAINE SOMETIMES HAVE DIVERGENT INTERESTS, ADDING THAT HE THINKS TRUMP WOULD ENDORSE HIM IF HE RUNS IN 2028
-- 10/20 09:15 [FirstSquawk] BYD Pursues a Patient Strategy to Gain Ground in Japan’s Auto Industry - FT
-- 10/20 09:18 [financialjuice] China PBOC forecast to set yuan midpoint at 6.6813 per dollar: estimate
-- 10/20 09:18 [FirstSquawk] Trump Says He Urged Macron Years Ago to Shut France’s Borders, Warning the Country Would Lose
-- 10/20 09:22 [FirstSquawk] Trump Envoys Prepare for Another Round of Ukraine Talks as Energy Crunch Weighs on Midterm Outlook - FT
-- 10/20 09:26 [FirstSquawk] Trump Says NATO Allies Refused to Assist the US in Its War With Iran - FT
-- 10/20 09:34 [FirstSquawk] Trump Says US Could Be Forced to Leave Europe, Calling the Situation “Very Serious”
-- 10/20 09:35 [financialjuice] Poll: Bank of Korea to raise base rate to 3.25% in November 2026, say 28 of 33 economists
-- 10/20 09:35 [financialjuice] Poll: Bank of Korea to maintain base rate at 3% at October 22 meeting, all 34 economists say
-- 10/20 09:36 [FirstSquawk] ASIAN STOCKS FELL 0.3% DESPITE A WALL STREET REBOUND, WITH SOUTH KOREA LEADING DECLINES AS INVESTORS REMAIN CAUTIOUS OVER AI SPENDING AND HIGHER INTEREST RATES. UPCOMING EARNINGS FROM META AND TESLA WILL TEST WHETHER CORPORATE PROFITS CAN J…
-- 10/20 09:37 [FirstSquawk] OIL HELD NEAR ELEVATED LEVELS AMID MIDDLE EAST SUPPLY RISKS, WHILE US 10-YEAR TREASURY YIELDS REMAINED AT 5.14% AFTER RISING SEVEN BASIS POINTS. GOLD SLIPPED TO AROUND $4,130 AN OUNCE, WHILE FRENCH POLITICAL UNREST ADDED PRESSURE TO EUROPEA…
-- 10/20 09:40 [FirstSquawk] AI and Semiconductor Stocks Recover, Lifting Nasdaq as Investors Await Major Corporate Earnings Reports
-- 10/20 09:44 [FirstSquawk] South Korea Pledges Strong Retaliation Against Any North Korean Provocation: Yonhap
-- 10/20 09:45 [financialjuice] South Korea joint chiefs chairman: respond firmly if North Korea launches more provocations
-- 10/20 09:49 [FirstSquawk] China Revises Export Control Measures for Certain Drone Items, With Changes Taking Effect November 18, 2026
-- 10/20 09:50 [financialjuice] Trump: Mexico, US near major agreement
-- 10/20 09:51 [FirstSquawk] Fed Warns AI Boom Could Worsen Inflation, Leaving Others to Pay the Price of Containing It
-- 10/20 09:51 [FirstSquawk] Trump Announces Progress Toward Major Agreement Between US and Mexico
-- 10/20 09:57 [financialjuice] Japan economy minister Kiuchi: hopes to join this month's BoJ policy meeting if schedule allows
-- 10/20 09:57 [financialjuice] Japan economy minister Kiuchi: respect BoJ's autonomy in monetary policy as outlined in BoJ law
-- 10/20 09:57 [financialjuice] Japan economy minister kiuchi: have never considered asking to postpone vote in BoJ meetings
-- 10/20 09:59 [FirstSquawk] Japan’s Economy Minister Kiuchi Signals Possible Attendance at This Month’s BOJ Meeting
-- 10/20 10:00 [FirstSquawk] Japan Economy Minister Kiuchi Pledges to Respect BOJ Autonomy in Monetary Policy Decisions
-- 10/20 10:00 [FirstSquawk] Japan Economy Minister Kiuchi Rules Out Having Considered Delaying Votes at BOJ Meetings
-- 10/20 10:00 [financialjuice] ‼ BREAKING: PBOC INTEREST RATE 1 YR ACTUAL 3.00% (FORECAST 3%, PREVIOUS 3.00%) $MACRO
-- 10/20 10:00 [financialjuice] ❗ PBOC INTEREST RATE 5 YR ACTUAL 3.50% (FORECAST 3.5%, PREVIOUS 3.50%) $MACRO
-- 10/20 10:00 [financialjuice] China sets one-year loan prime rate at 3.00% vs 3.00% a month earlier
-- 10/20 10:00 [financialjuice] Taiwan overnight interbank rate starts at 0.805% vs previous session open at 0.805%
-- 10/20 10:02 [FirstSquawk] China Leaves 1-Year Loan Prime Rate Unchanged at 3.00%, in Line With Expectations
-- 10/20 10:02 [FirstSquawk] China Keeps 5-Year Loan Prime Rate Unchanged at 3.50%, in Line With Expectations
-- 10/20 10:05 [FirstSquawk] Beijing’s Push for AI Growth Comes at a Cost to China’s Rural Communities: FT
-- 10/20 10:06 [FirstSquawk] Starboard Targets Honeywell Spin-Off Solstice After Failed Megadeal, Pushes for $100 Million in Cost Cuts: FT
-- 10/20 10:07 [FirstSquawk] Jio Platforms Targets Record-Breaking Indian IPO Despite Market Downturn and Musk’s Pressure - FT
-- 10/20 10:09 [FirstSquawk] Trump Says Iran Has Lost Its Commanders After US Strikes Destroyed Radars and Air Defenses - AJABreaking
-- 10/20 10:13 [financialjuice] Japan finmin Katayama: no decisions made on funding expected defense spending increase
-- 10/20 10:14 [FirstSquawk] Japan Finance Minister Katayama: Funding for Expected Defense Spending Hike Remains Undecided
-- 10/20 10:14 [financialjuice] Japan finmin Katayama: will consider measures to ensure stable funding while focusing on fiscal sustainability
-- 10/20 10:15 [financialjuice] Japan finmin Katayama: government discusses defense spending
-- 10/20 10:16 [FirstSquawk] Japan Finance Minister Katayama Says Funding Options Will Be Considered With Fiscal Sustainability in Focus
-- 10/20 10:16 [financialjuice] Trump: Department of Agriculture to introduce new harvest fuel aid program, giving farmers $8 billion in assistance
-- 10/20 10:17 [FirstSquawk] Japan Continues Government-Level Discussions on Defense Spending: Finance Minister Katayama
-- 10/20 10:18 [FirstSquawk] Trump Says Agriculture Department Will Roll Out $8 Billion Support Program for Farmers Facing Harvest Fuel Costs
-- 10/20 10:18 [financialjuice] China sets yuan mid-point at strongest level since Feb. 2, 2023
-- 10/20 10:23 [financialjuice] China conducts no 7-day reverse repos: statement
-- 10/20 10:24 [FirstSquawk] China Fixes Yuan Reference Rate at Highest Level in More Than Three Years
 - 10/20 10:31 [FirstSquawk] Havana Accuses Washington of Turning a Blind Eye to Terrorism After Speedboat Raid
 - 10/20 10:38 [financialjuice] South Korea defence ministry: warning broadcasts and gunfire near MDL are valid defensive actions
 - 10/20 10:41 [FirstSquawk] Asian Currencies Trade in Narrow Ranges as Signals Remain Mixed: WSJ
@@ -115,3 +32,98 @@
 - 10/20 10:53 [FirstSquawk] Japan’s Nikkei Slips Amid AI-Related Worries and High Bond Yields: WSJ
 - 10/20 11:00 [financialjuice] China's Neolix closes nearly $400 million series E funding, pushing total investment above $1.4 billion
 - 10/20 11:00 [FirstSquawk] Japan Cyberattacks Linked to China-Associated AI Agent, Security Firm Finds: Kyodo
+- 10/20 11:08 [FirstSquawk] Sterling Advances Amid Diverging Federal Reserve and Bank of England Outlooks
+- 10/20 11:09 [financialjuice] China central bank to conduct up to 1 trillion yuan daily through overnight reverse repos from Oct. 21 to Nov. 2
+- 10/20 11:20 [FirstSquawk] Seoul Shares Open Sharply Lower as AI Concerns Return After Recent Rebound: Yonhap
+- 10/20 11:29 [FirstSquawk] North Korea’s Kim Visits Light Industry Expo, Highlights Regional Policy Achievements: Yonhap
+- 10/20 11:32 [financialjuice] China finance ministry auctions 3-month deposits at 1.50% yield: statement
+- 10/20 11:35 [FirstSquawk] Higher Yields Put Pressure on Gold, Pushing Prices Lower - WSJ
+- 10/20 11:36 [FirstSquawk] Asian Equities Slide, Diverging From Wall Street’s Tech Rebound: WSJ
+- 10/20 11:45 [FirstSquawk] Canadian Dollar Rallies as Higher Oil Prices and Broad US Dollar Weakness Support the Currency - FX
+- 10/20 11:48 [FirstSquawk] BlackRock and GIC Join Investor Rush for Jio IPO as Anchor Bids Surpass $26 Billion: CNBC
+- 10/20 11:59 [FirstSquawk] Thailand, Cambodia Seek to De-escalate Dispute Over Potential US$300 Billion Seabed Wealth: SCMP
+- 10/20 12:00 [FirstSquawk] Australian Banking Giant Targets 6% Workforce Cut as It Scales Back Consultant and Contractor Costs - FT
+- 10/20 12:06 [FirstSquawk] Chinese Virtual Idol Draws Criticism for ‘Pregnancy’ Scenario, Raising Questions About Digital Limits
+- 10/20 12:18 [FirstSquawk] Alibaba’s RISC-V Technology Powers More Than 6 Billion Shipped Chips as AI Push Expands: SCMP
+- 10/20 12:23 [FirstSquawk] South Korea’s Central Bank and Bank of England Broaden Partnership on Tokenization: Yonhap
+- 10/20 12:28 [FirstSquawk] Yen Remains Flat Around 158.50 as Currency Markets Search for Direction - FX
+- 10/20 12:37 [FirstSquawk] High Prices Push Vietnam Property Sales to Lowest Level Since 2021 - NA
+- 10/20 12:42 [financialjuice] China finance ministry auctions 10-year bonds at 1.6057% yield: traders
+- 10/20 12:42 [financialjuice] China finance ministry offers 2-month bills at 1.0316% yield: traders
+- 10/20 12:45 [FirstSquawk] CoreWeave Price Target Slashed to $117 From $169 by BNP Paribas
+- 10/20 12:50 [FirstSquawk] Samsung Schedules South Korean Launch of First-Ever Open-Ear Earbuds for Oct. 27
+- 10/20 12:56 [FirstSquawk] Hyundai Motor Boosts Focus on Physical AI as Competition From China Intensifies: Kyodo
+- 10/20 13:06 [FirstSquawk] South Korea Defence Ministry Justifies Warning Broadcasts and Gunfire Near MDL as Defensive Measures
+- 10/20 13:09 [FirstSquawk] Oracle, AstraZeneca Sign Pact to Examine AI Use in Clinical Trials for Cancer and Other Diseases
+- 10/20 13:09 [FirstSquawk] Google Executive Dismisses European Fears Over US Dominance Of AI – FT
+- 10/20 13:09 [FirstSquawk] Iran War Tilts Balance Of Global Oil Power Towards Americas – FT
+- 10/20 13:09 [FirstSquawk] UK Treasury Expected To Study Britain Moving Closer To EU – FT
+- 10/20 13:09 [FirstSquawk] Virgin Media O2 Owners Push CMA To Reconsider £2B Broadband Deal – FT
+- 10/20 13:12 [FirstSquawk] Japan Asked US To Push China To Ease Rare Earth Export Curbs – FT
+- 10/20 13:15 [FirstSquawk] US Official Warns Chinese Patrols Near Taiwan’s Eastern Waters Are Destabilising - RTRS
+- 10/20 13:20 [FirstSquawk] Trump Signals Willingness to Hold Trilateral Nuclear Talks With Chinese and Russian Leaders: Kyodo
+- 10/20 13:24 [FirstSquawk] Three Killed and Six Injured in Russian Strike on Kyiv Region, Ukraine Says
+- 10/20 13:44 [FirstSquawk] EUR/USD Faces Downside Risks as Euro Comes Under Pressure From Multiple Headwinds
+- 10/20 13:46 [FirstSquawk] Silver Price Forecast: XAG/USD Nears $57.50 as Inflation Risks Persist
+- 10/20 13:48 [FirstSquawk] US Dollar Weakens Below 102.00 as Markets Reassess Fed Rate Expectations: FXStreet
+- 10/20 13:55 [financialjuice] Russia strikes transport and logistics hub in Ukraine's Volyn region: Interfax quotes Russian defence ministry
+- 10/20 13:56 [financialjuice] Russia strikes three cargo ships in Ukraine's Reni port: Interfax cites defence ministry
+- 10/20 13:57 [financialjuice] Russia strikes Ukraine cargo ship heading to Odesa port: IFax cites defense ministry
+- 10/20 13:58 [financialjuice] China's southern theatre command navy: US littoral combat ship entered waters near Sabina Shoal in Spratly Islands without Beijing's consent
+- 10/20 13:58 [financialjuice] China’s southern theatre command navy: US move violates China’s sovereign rights, endangers maritime security, harms regional peace and stability
+- 10/20 13:58 [financialjuice] China's southern theatre command navy: dispatched forces to track and monitor U.S. ship following laws and regulations
+- 10/20 13:58 [financialjuice] Russia strikes logistics hub in Ukraine's Khmelnitskyi region: Ifax cites defense ministry
+- 10/20 13:59 [financialjuice] China's Southern Theatre Command Navy: U.S. Side Must Immediately Stop Such Actions
+- 10/20 13:59 [financialjuice] Drone strike in contested Sudan-South Sudan region kills dozens: minister
+- 10/20 14:03 [FirstSquawk] . Russian Defence Ministry Reports Strikes on Cargo Ships at Reni Port, Vessel Heading to Odesa and Volyn Logistics Hub: Interfax
+- 10/20 14:11 [FirstSquawk] Japan’s 40-Year JGB Yield Falls 6 Basis Points to 4.05%
+- 10/20 14:15 [financialjuice] PBOC shift to overnight rate is not equivalent to rate cut - Report
+- 10/20 14:21 [FirstSquawk] PBOC-Backed News Outlet Cites Expert Saying Overnight Rate Transition Does Not Signal Monetary Easing
+- 10/20 14:22 [FirstSquawk] PBOC Explores Making Overnight Rate the Main Anchor for Monetary Policy in China
+- 10/20 14:34 [FirstSquawk] France PM Says Targeted Curfews Helped Maintain Order, More Possible Tonight
+- 10/20 14:36 [FirstSquawk] Blackstone and IFM Investors Compete for Rio Tinto’s Power Assets Valued at $7 Billion: AFR
+- 10/20 14:42 [FirstSquawk] ABB Agrees to Pay $495 Million for Majority Stake in Mitsubishi Electric Business - WSJ
+- 10/20 14:50 [FirstSquawk] Barclays Turns Bearish on Vodafone, Lowers Rating to Underweight With 105-Pence Target
+- 10/20 14:51 [financialjuice] BoJ may slightly revise up fiscal 2027 inflation forecast in quarterly report due at the October 29-30th meeting - Sources
+- 10/20 14:51 [financialjuice] BoJ seen keeping interest rates steady in October, signal scope for hike as soon as December - Sources
+- 10/20 14:56 [financialjuice] Japan's PM Takaichi: I don't expect to seek mandate after 2yr tax cut
+- 10/20 14:56 [financialjuice] Japan's PM Takaichi: It is not true that decided benefits income limit at 3M yen.
+- 10/20 15:00 [financialjuice] ❗ UK UNEMPLOYMENT CHANGE ACTUAL 30.3K (FORECAST -, PREVIOUS 27.8K) $MACRO
+- 10/20 15:00 [financialjuice] ❗ UK EMPLOYMENT CHANGE SA ACTUAL 13K (FORECAST -8K, PREVIOUS -26K) $MACRO
+- 10/20 15:00 [financialjuice] UK AVERAGE EARNINGS (EX-BONUS) ACTUAL 3.7% (FORECAST 3.6%, PREVIOUS 3.5%) $MACRO
+- 10/20 15:00 [financialjuice] ❗ UK UNEMPLOYMENT RATE ACTUAL 4.7% (FORECAST 4.9%, PREVIOUS 4.9%) $MACRO
+- 10/20 15:00 [financialjuice] UK EMPLOYMENT CHANGE 3M/3M ACTUAL 102K (FORECAST 5K, PREVIOUS 67K) $MACRO
+- 10/20 15:00 [financialjuice] UK AVERAGE WEEKLY EARNINGS YOY ACTUAL 3.7% (FORECAST 3.8%, PREVIOUS 3.9%) $MACRO
+- 10/20 15:00 [financialjuice] GERMAN PPI MOM ACTUAL 1.9% (FORECAST 1.6%, PREVIOUS 1.1%) $MACRO
+- 10/20 15:00 [financialjuice] GERMAN PPI YOY ACTUAL 6.7% (FORECAST 6.3%, PREVIOUS 4.6%) $MACRO
+- 10/20 15:02 [financialjuice] UK Employment Change September 2026 Report
+- 10/20 15:02 [financialjuice] SWISS TRADE BALANCE ACTUAL 1,309M (FORECAST -, PREVIOUS 3,786M) $MACRO
+- 10/20 15:04 [financialjuice] Hong Kong-China finance minister, at APEC meeting: World economy faces challenges, APEC plays a more important role
+- 10/20 15:05 [FirstSquawk] UK ILO UNEMPLOYMENT RATE 3M AUG: 4.7% (EST 4.9%; PREV 4.9%)
+- 10/20 15:06 [FirstSquawk] UK EMPLOYMENT CHANGE (3M/3M): 102K (EST 5K; PREV 66K)
+- 10/20 15:06 [FirstSquawk] UK AVERAGE WEEKLY EARNINGS 3M (Y/Y): 3.7% (EST 3.8%; PREV 3.9%)
+- 10/20 15:06 [FirstSquawk] UK WEEKLY EARNINGS EX BONUS 3M (Y/Y): 3.7% (EST 3.6%; PREV 3.5%)
+- 10/20 15:06 [FirstSquawk] UK PRIVATE EARNINGS EX BONUS 3M (Y/Y): 3.0% (EST 3.0%; PREV 2.9%)
+- 10/20 15:06 [FirstSquawk] UK PAYROLLED EMPLOYEES MONTHLY CHANGE AUG: 13K (EST -8K; PREV -26K)
+- 10/20 15:06 [FirstSquawk] UK CLAIMANT COUNT RATE: 4.4% (PREV 4.4%)
+- 10/20 15:06 [FirstSquawk] UK JOBLESS CLAIMS CHANGE: 30.3K (PREV 27.8K)
+- 10/20 15:06 [FirstSquawk] GERMANY PPI (M/M) SEP: 1.9% (EST 1.6%; PREV 1.1%)
+- 10/20 15:06 [FirstSquawk] GERMANY PPI (Y/Y): 6.7% (EST 6.3%; PREV 4.6%)
+- 10/20 15:06 [FirstSquawk] SWITZERLAND EXPORTS REAL (M/M) SEP: -0.1% (PREV -8.6%; PREV R -9.7%)
+- 10/20 15:07 [FirstSquawk] SWITZERLAND IMPORTS REAL (M/M): 7.0% (PREV -3.1%; PREV R -3.6%)
+- 10/20 15:07 [FirstSquawk] SWITZERLAND SWISS WATCH EXPORTS (Y/Y): 11.7% (PREV 9.1%)
+- 10/20 15:10 [financialjuice] Japan's PM Takaichi: Not intending to exert pressure to lower prices
+- 10/20 15:28 [FirstSquawk] Japan’s Takaichi Says No Plans to Seek Public Mandate After Temporary Tax Cut
+- 10/20 15:28 [FirstSquawk] Japan PM Rejects Claims That Benefits Eligibility Threshold Has Been Set at ¥3 Million
+- 10/20 15:38 [FirstSquawk] Norway Says Witkoff Will Travel to Oslo for Ukraine Talks, While Kushner Participates Digitally
+- 10/20 15:38 [FirstSquawk] North Korea Slams Joint Military Drills Conducted by South Korea and Japan, KCNA Says
+- 10/20 15:46 [FirstSquawk] Ukraine President Zelenskiy Discusses Ballistic Interceptor Supplies and Starlink With Rubio
+- 10/20 16:00 [financialjuice] Saudi commits to provide 95k tons/month of diesel to France
+- 10/20 16:00 [financialjuice] UAE commits to provide 100k tons/month of diesel to France
+- 10/20 16:00 [financialjuice] Bahrain, UAE deliveries to France to start in coming weeks.
+- 10/20 16:01 [financialjuice] Currency Strength Chart: Strongest: NZD, GBP, JPY, CAD, AUD, EUR, CHF, USD - Weakest
+- 10/20 16:06 [financialjuice] China foreign ministry, on US agencies to remove AI tools with DeepSeek: China always opposes overgeneralising the national security concept
+- 10/20 16:06 [financialjuice] China Foreign Ministry, on US agencies to remove AI tools with Deepseek: China will firmly safeguard legitimate interests of Chinese firms.
+- 10/20 16:11 [FirstSquawk] FRENCH PRESIDENCY: BAHRAIN, UAE COMMIT TO EACH PROVIDE 100K TONS/MONTH DIESEL TO FRANCE; SAUDI COMMITS TO PROVIDE 95K TONS/MONTH OF DIESEL TO FRANCE; DELIVERIES TO START IN COMING WEEKS
+- 10/20 16:11 [FirstSquawk] UKRAINE'S DTEK: 3 ENERGY TARGETS IN ODESA REGION HIT OVERNIGHT
+- 10/20 16:11 [FirstSquawk] CHINA FOREIGN MINISTRY, ON US AGENCIES TO REMOVE AI TOOLS WITH DEEPSEEK: CHINA ALWAYS OPPOSES OVERGENERALISING NATIONAL SECURITY CONCEPT; CHINA WILL FIRMLY SAFEGUARD LEGITIMATE INTERESTS OF CHINESE FIRMS
