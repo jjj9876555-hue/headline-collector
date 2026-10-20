@@ -7,111 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-20 21:54 JST／対象: 10/20 15:54 〜 10/20 21:54 JST（時刻はすべて日本時間）
+生成: 2026-10-21 02:41 JST／対象: 10/20 20:41 〜 10/21 02:41 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 18 | 10/20 19:17 | 10/20 21:33 | 38分（19:51→20:30） |
-| FirstSquawk | 58 | 10/20 16:11 | 10/20 21:45 | 28分（17:04→17:32） |
-| financialjuice | 61 | 10/20 16:00 | 10/20 21:39 | ⚠ 48分（16:06→16:54） |
+| DeItaone | 34 | 10/20 20:47 | 10/21 01:35 | 41分（00:53→01:35） |
+| FirstSquawk | 57 | 10/20 20:41 | 10/21 01:44 | 36分（23:00→23:36） |
+| financialjuice | 101 | 10/20 20:50 | 10/21 02:37 | ⚠ 47分（21:39→22:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 136 行（統合前 137 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 185 行（統合前 193 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/20 16:00 [financialjuice] Saudi commits to provide 95k tons/month of diesel to France
-- 10/20 16:00 [financialjuice] UAE commits to provide 100k tons/month of diesel to France
-- 10/20 16:00 [financialjuice] Bahrain, UAE deliveries to France to start in coming weeks.
-- 10/20 16:01 [financialjuice] Currency Strength Chart: Strongest: NZD, GBP, JPY, CAD, AUD, EUR, CHF, USD - Weakest
-- 10/20 16:06 [financialjuice] China foreign ministry, on US agencies to remove AI tools with DeepSeek: China always opposes overgeneralising the national security concept
-- 10/20 16:06 [financialjuice] China Foreign Ministry, on US agencies to remove AI tools with Deepseek: China will firmly safeguard legitimate interests of Chinese firms.
-- 10/20 16:11 [FirstSquawk] FRENCH PRESIDENCY: BAHRAIN, UAE COMMIT TO EACH PROVIDE 100K TONS/MONTH DIESEL TO FRANCE; SAUDI COMMITS TO PROVIDE 95K TONS/MONTH OF DIESEL TO FRANCE; DELIVERIES TO START IN COMING WEEKS
-- 10/20 16:11 [FirstSquawk] UKRAINE'S DTEK: 3 ENERGY TARGETS IN ODESA REGION HIT OVERNIGHT
-- 10/20 16:11 [FirstSquawk] CHINA FOREIGN MINISTRY, ON US AGENCIES TO REMOVE AI TOOLS WITH DEEPSEEK: CHINA ALWAYS OPPOSES OVERGENERALISING NATIONAL SECURITY CONCEPT; CHINA WILL FIRMLY SAFEGUARD LEGITIMATE INTERESTS OF CHINESE FIRMS
-- 10/20 16:30 [FirstSquawk] RYANAIR CEO: SEES 737 10 CERTIFICATION IN OCTOBER; SET TO GET 737 MAX 10 JETS STARTING JAN; HAS WRITTEN CONFIRMATION TO GET 737 10 NEXT YEAR; LUFTHANSA'S TAP DEAL TO RAISE THEIR FARES
-- 10/20 16:32 [FirstSquawk] RYANAIR CEO SAYS PREDICTS ‘DRAMATICALLY HIGHER' AIR FARES IN 2027
-- 10/20 16:38 [FirstSquawk] KALLAS: WORKING WITH TURKEY, INDIA, OTHERS FOR BLACK SEA DEAL; BLACK SEA ARRANGEMENT WOULD PROTECT LIVES, SUPPLIES
-- 10/20 16:54 [financialjuice] EUROZONE CURRENT ACCOUNT ACTUAL 27.628B (FORECAST -, PREVIOUS 27.628B) $MACRO
-- 10/20 16:57 [financialjuice] Iran reiterates US ‘excessive demands’ blocking talks progress.
-- 10/20 16:58 [FirstSquawk] IRAN SAYS US “EXCESSIVE DEMANDS” ARE HINDERING NEGOTIATIONS.
-- 10/20 17:01 [financialjuice] EUROZONE CURRENT ACCOUNT ACTUAL 8.7B (FORECAST -, PREVIOUS 27.628B) $MACRO
-- 10/20 17:02 [FirstSquawk] SPAIN'S TRADE DEFICIT IN AUGUST GROWS TO EUR 7.813 BILLION.
-- 10/20 17:02 [financialjuice] EUROZONE CURRENT ACCOUNT NSA ACTUAL 7.70B (FORECAST -, PREVIOUS 36.50B ,REVISION 35.90B) $MACRO
-- 10/20 17:02 [FirstSquawk] EUROZONE ECB CURRENT ACCOUNT SA FOR AUGUST IS 8.7 BILLION EUROS, DOWN FROM 27.6 BILLION EUROS PREVIOUSLY.
-- 10/20 17:03 [financialjuice] German Chancellor Merz: With our data centre strategy, we aim to quadruple our AI compute capacity by 2030.
-- 10/20 17:03 [FirstSquawk] GERMAN CHANCELLOR MERZ DECLARES PLANS TO QUADRUPLE AI COMPUTE CAPACITY BY 2030 THROUGH A NEW DATA CENTRE STRATEGY.
-- 10/20 17:04 [FirstSquawk] UAE AND FRANCE DECLARE A NEW STRATEGIC DEFENSE PARTNERSHIP.
-- 10/20 17:04 [financialjuice] UAE, France announce strategic defense partnership framework.
-- 10/20 17:06 [financialjuice] South Korea Finance Ministry: To consider additional cut in bond issuance if needed.
-- 10/20 17:13 [financialjuice] Saudi civil defense: early alert issued in Riyadh
-- 10/20 17:18 [financialjuice] Saudi civil defense: danger has passed in Riyadh
-- 10/20 17:28 [financialjuice] Iran's Baghaei: Egypt’s role in Saudi-Houthi war worsens situation.
-- 10/20 17:32 [FirstSquawk] IRAN FOREIGN MINISTRY SPOX: EGYPT’S READINESS TO HELP SAUDI IN HOUTHI-SAUDI WAR WORSENS SITUATION
-- 10/20 18:00 [financialjuice] EUROZONE ZEW SURVEY EXPECTATIONS ACTUAL 18.5 (FORECAST -, PREVIOUS 25.8) $MACRO
-- 10/20 18:00 [financialjuice] ❗ GERMAN ZEW CURRENT CONDITIONS ACTUAL -35.9 (FORECAST -44.5, PREVIOUS -47.1) $MACRO
-- 10/20 18:00 [financialjuice] ‼ BREAKING: GERMAN ZEW ECONOMIC SENTIMENT ACTUAL 28.1 (FORECAST 30, PREVIOUS 34.7) $MACRO
-- 10/20 18:00 [financialjuice] EUROZONE CONSTRUCTION OUTPUT MOM ACTUAL 1.8% (FORECAST -, PREVIOUS 0.00%) $MACRO
-- 10/20 18:01 [FirstSquawk] GERMANY'S OCTOBER ZEW INVESTOR EXPECTATIONS DROP TO 28.1, LOWER THAN THE ESTIMATED 30.0.
-- 10/20 18:03 [financialjuice] UK 10 YR GILT YIELD ACTUAL 5.418% (FORECAST -, PREVIOUS 5.383%) $MACRO
-- 10/20 18:03 [financialjuice] UK 10 YR GILT BID-TO-COVER ACTUAL 3.61 (FORECAST -, PREVIOUS 3.34) $MACRO
-- 10/20 18:11 [FirstSquawk] AMAZON: ANNOUNCES PLAN TO INVEST EUR 16B IN GERMANY IN 2027
-- 10/20 18:22 [financialjuice] Iran's IRGC: Two oil tankers struck mines in Hormuz - Tasnim
-- 10/20 18:22 [financialjuice] Japan's Trade Minister Akazawa: Considering investing in Rapidus beyond 2027
-- 10/20 18:28 [FirstSquawk] IRAN'S IRGC SAYS TWO OIL TANKERS STRUCK MINES IN HORMUZ- TASNIM
-- 10/20 18:43 [financialjuice] ECB's Rehn: French spread to Germany has widened "somewhat"
-- 10/20 18:43 [FirstSquawk] PAKISTAN ARMY CHIEF ASIM ARRIVES IN TEHRAN WITH DELEGATION - MEHR
-- 10/20 18:44 [FirstSquawk] REHN: FRENCH SPREAD TO GERMANY HAS WIDENED ‘SOMEWHAT’
-- 10/20 18:53 [FirstSquawk/financialjuice] IEA'S BIROL: AGENCY WILL CONSIDER RELEASING MORE OIL FROM EMERGENCY STOCKS IF NEEDED
-- 10/20 19:01 [financialjuice] Qatar: Efforts to resolve the US-Iran crisis are ongoing - Al Jazeera
-- 10/20 19:10 [FirstSquawk] Northrop Grumman Q3 Earnings - Sales: $11.1B (est $11.13B) - EPS: $7.89 - Backlog Increases To $110B - Still Sees FY Sales: $43.75B To $44.25B (est $44.05B) - Still Sees FY Free Cash Flow $3.10B To $3.50B (est $3.32B) - Sees FY Adj EPS $29.…
-- 10/20 19:12 [FirstSquawk] SECRETARY OF STATE MARCO RUBIO CLOSE TO INDIA TRADE DEAL, SMALL NUMBER OF ITEMS LEFT; SPOKE TO ZELENSKYY TODAY; PENTAGON HAS NOT CHANGED ANYTHING ON UKRAINE POLICY;NOTHING HAS CHANGED ON INTELLIGENCE SHARING WITH UKRAINE
-- 10/20 19:13 [FirstSquawk] RUBIO: WE'RE NOT DELIBERATLY DENYING INTERCEPTORS TO UKRAINE; MANY COUNTRIES WANTS INTERCEPTORS FROM THE US
-- 10/20 19:15 [FirstSquawk] UK TO FLY MISSIONS TO DEFEND SAUDI ARABIA FROM HOUTHI ATTACKS
-- 10/20 19:17 [DeItaone] RUBIO: IT COULD BE ACCURATE THAT A BATCH OF INTERCEPTORS PURCHASED FOR UKRAINE UNDER PURL PROGRAM HAS NOT BEEN DELIVERED
-- 10/20 19:21 [financialjuice] Pakistan's army chief Munir arrives in Tehran for talks - Tasnim
-- 10/20 19:22 [DeItaone] RUBIO: A CHINA, RUSSIA, US ARMS CONTROL DISCUSSION WOULD BE A POSITIVE THING FOR THE WORLD
-- 10/20 19:23 [FirstSquawk] RUBIO: WAR HAS TO END IN A NEGOTIATED WAY
-- 10/20 19:23 [FirstSquawk] RUBIO: WE'LL DISCUSS INDIAN REFINING OF VENEZUELAN CRUDE
-- 10/20 19:23 [FirstSquawk] CODELCO SETS EUROPEAN COPPER PREMIUM AT RECORD $350 A TON
-- 10/20 19:24 [financialjuice] US Secretary of State Rubio: A China, Russia, US arms control discussion would be a positive thing for the world.
-- 10/20 19:25 [DeItaone] GOLDMAN SACHS RAISES COPPER PRICE FORECASTS Goldman Sachs now expects copper to reach $14,700 per ton by end-2026 and average $15,400 in 2027, up from $13,735 and $13,800. The bank forecasts supply deficits outside the U.S. of 950,000 tons …
-- 10/20 19:28 [FirstSquawk] GE AEROSPACE 3Q EPS CONT OPS $2.32; 3Q ADJ EPS $2.25, EST. $2.01; 3Q ADJ FREE CASH FLOW $2.04B, EST. $2.22B; 3Q DEFENSE & PROPULSION TECHNOLOGIES REV. $3.47B; 3Q ADJ. REV. $13.29B, EST. $12.86B; SEES FY ADJ EPS $8 TO $8.10, SAW $7.65 TO $7.…
-- 10/20 19:30 [DeItaone] https://t.co/Y06qevgSZb
-- 10/20 19:31 [financialjuice] $GM General Motors Q3 Earnings
-- 10/20 19:32 [FirstSquawk] GENERAL MOTORS Q3 EARNINGS: - NET SALES AND REV: $50.02B (EST $48.53B) - ADJUSTED EPS: $3.70 (EST $3.56) - NORTH AMERICA ADJUSTED EBIT: $3.59B (EST $3.54B) - INTERNATIONAL OPERATIONS ADJUSTED EBIT: $28M (EST $130.4M) - VEHICLE SALES: 1.03M …
-- 10/20 19:33 [FirstSquawk] GENERAL MOTORS APPROVES NEW $20B SHARE BUYBACK || SEES FY ADJ EPS $12.75 TO $13.75, SAW $12 TO $14
-- 10/20 19:33 [financialjuice] $MMM 3M Q3 Earnings Adj. EPS $2.50, est. $2.38 Rev. $6.6B Adj. Oper margin 26.2%, est. 25.2% Raises FY EPS guidance
-- 10/20 19:33 [DeItaone] GENERAL MOTORS ($GM ) BEATS Q3 EARNINGS EXPECTATIONS Q3 Results: 🔸 Revenue: $50.02B vs. $48.70B expected 🔸 Adjusted EPS: $3.70 vs. $3.63 expected 🔸 Adjusted EBIT: $4.11B vs. $4.25B expected FY2026 Guidance: 🔸 Adjusted EPS: $12.75–$13.75 vs.…
-- 10/20 19:34 [DeItaone] RUBIO SAYS TRUMP 'FRUSTRATED' AT ACCUSATIONS HE HARMING UKRAINE
-- 10/20 19:37 [financialjuice] Russia attacks energy facility in Ukraine's Lviv region - Governor
-- 10/20 19:40 [FirstSquawk] AIR CHINA: IT, UNIT PLAN TO BUY COMBINED 55 AIRBUS JETS
-- 10/20 19:44 [FirstSquawk] HASBRO Q3 EARNINGS: - NET REVENUE: $1.60B (EST $1.47B) - ADJUSTED EBITDA: $604.5M (EST $444.2M) - ADJUSTED EPS: $2.90 (EST $1.88) - RAISES 2026 FINANCIAL OUTLOOK - SEES FY ADJUSTED EBITDA: $1.58B TO $1.63B (PREV $1.45B TO $1.5B)
-- 10/20 19:48 [FirstSquawk] HALLIBURTON: BASED ON EARLY OUTLOOK FOR 2027, EXPECT MID-SINGLE DIGIT REV GROWTH & OPERATING MARGINS OF ABOUT 15%, ABOUT 200 BASIS POINT IMPROVEMENT
-- 10/20 19:50 [DeItaone] $QCOM - QUALCOMM TO CUT JOBS GLOBALLY IN 'PERFORMANCE-FOCUSED REDUCTION' AFTER ANNUAL REVIEWS, INTERNAL MEMO SHOWS
-- 10/20 19:51 [financialjuice] HSBC reviews Palantir holding in $9bn Islamic fund - FT
-- 10/20 19:51 [DeItaone] GOLDMAN SACHS WARNS INVESTOR RISK APPETITE IS COLLAPSING Goldman Sachs says its risk-appetite indicator has turned negative for the first time since April, reaching its lowest level since the early stages of the Iran war. Investors are sell…
-- 10/20 19:55 [financialjuice] Qualcomm to cut jobs globally beginning in November - Sources
-- 10/20 19:56 [financialjuice] $RTX RTX Q3 2026 Earnings Adj EPS $1.79, Est. $1.79 Rev $24.97B, Est. $24B, +11% Y/Y Pratt & Whitney Sales $9.23B, Est. $8.89B Collins Aerospace Systems Sales $8.38B, Est. $8.15B Free Cash Flow $2.12B, Est. $1.99B
-- 10/20 19:57 [FirstSquawk] RTX Q3 EARNINGS: - ADJ SALES: $24.97B (EST $24.08B) - ADJ EPS: $2.26 (EST $1.79) - PRATT & WHITNEY SALES: $9.23B (EST $8.89B) - COLLINS AEROSPACE SYSTEMS SALES: $8.38B (EST $8.15B) - FREE CASH FLOW: $2.12B (EST $1.99B) - SEES FY ADJUSTED SA…
-- 10/20 20:04 [FirstSquawk] GENUINE PARTS Q3 EARNINGS: - NET SALES: $6.5B (EST $6.5B) - ADJ EPS: $2.07 (EST $2.04) - NARROWS 2026 ADJUSTED EPS OUTLOOK - SEES FY ADJUSTED EPS: $7.50 TO $7.75 (PREV $7.50 TO $8; EST $7.73) - SEES FY SALES: +3% TO +5.5% (EST +3.22%) - SEE…
-- 10/20 20:09 [FirstSquawk] TRUMP TO ANNOUNCE $25M WHISTLEBLOWER PROGRAM AT TUE EVENT: FOX
-- 10/20 20:09 [FirstSquawk] UKMTO REPORTED AN INCIDENT INVOLVING A TANKER AND MILITARY FORCES APPROXIMATELY 121NM EAST OF DUQM, OMAN, ON OCT 19, 2026, AT 1000UTC.
-- 10/20 20:17 [FirstSquawk] 3M CO SHARES ERASE EARLIER GAINS TO TURN NEGATIVE
-- 10/20 20:21 [FirstSquawk] EUROPE'S GAS BENCHMARK EXCEEDS €90 FOR FIRST TIME SINCE 2022
-- 10/20 20:22 [financialjuice] UK's PM Starmer's Spokesman Wells: We don't accept UK risks being drawn into the Saudi-Houthi war
-- 10/20 20:25 [financialjuice] US Sec. of Defense Hegseth is said to make an unannounced visit to Israel - NYT
-- 10/20 20:27 [FirstSquawk] UK PM SPOX WELLS: DOESN’T ACCEPT UK RISKS BEING DRAWN INTO SAUDI-HOUTHI WAR
-- 10/20 20:30 [DeItaone] $AAPL - LOOP CAPITAL DOWNGRADES APPLE ON IPHONE SHIPMENT CONCERNS Loop Capital downgraded Apple to Hold from Buy, cutting its price target to $330 from $370. Supply chain checks suggest Apple will not recover 13 million iPhone shipments cut…
-- 10/20 20:31 [FirstSquawk] BOEING INTRODUCES NEW AI AIRCRAFT DATA INTELLIGENCE PLATFORM
-- 10/20 20:31 [financialjuice] Boeing introduces new AI aircraft data intelligence platform $BA
-- 10/20 20:34 [financialjuice] UKMTO gets report of incident 121nm east of Duqm, Oman
-- 10/20 20:34 [FirstSquawk] MICRON: INVESTMENT IS PART UP TO $3B US SUPPLY-CHAIN PLAN
-- 10/20 20:39 [DeItaone] $CRWV - HSBC WARNS COREWEAVE IS SPENDING BILLIONS TO DESTROY VALUE HSBC maintains its Reduce rating on CoreWeave, with a $39 price target implying 36% downside. The bank estimates CoreWeave's 2026–2030 return on invested capital at 8.9%, be…
 - 10/20 20:41 [FirstSquawk] RBC CEO: ‘WE’LL FIND OUR WAY THROUGH’ TRADE FRICTIONS WITH US
 - 10/20 20:47 [DeItaone] $TSLA - TESLA'S ROADSTER IMPRESSES, BUT WON'T MOVE THE NEEDLE Cantor Fitzgerald reiterated its Overweight rating on Tesla, maintaining a $485 price target. Tesla's new Roadster lineup includes Performance, Thrust and Rocket variants, with p…
 - 10/20 20:48 [FirstSquawk] RBC CEO: ‘THINKING ABOUT’ BLOCKING META’S MUSE AI AGENT
@@ -160,3 +72,140 @@
 - 10/20 21:45 [FirstSquawk] NEW PROPOSAL INCLUDES PARTIAL RESPONSE TO IRAN FROZEN FUNDS DEMAND - AL ARABY,
 - 10/20 21:45 [FirstSquawk] US SEC OF STATE RUBIO: UAE FOREIGN MINISTER JOINED RUBIO, INDIA ENERGY MEETING
 - 10/20 21:45 [FirstSquawk] RTX CEO SAYS INTERNATIONAL DEMAND IS RISING, DRIVEN BY HIGHER DEFENSE SPENDING ACROSS EUROPE, ASIA-PACIFIC & MENA, INCLUDING IN GERMANY, POLAND & JAPAN
+- 10/20 22:01 [FirstSquawk] IRAN AGREES TO SECRET IAEA SITE VISITS IN PROPOSAL: AL ARABY AL JADEED,
+- 10/20 22:02 [FirstSquawk] AMGEN: ASTHMA DRUG TEZSPIRE DELIVERED HISTOLOGIC REMISSION AND SYMPTOM IMPROVEMENT IN EOSINOPHILIC ESOPHAGITIS; TEZSPIRE 210 MG & 420 MG ACHIEVED 64.8% & 68.9% HISTOLOGIC REMISSION AT WEEK 24 VS 3.5% PLACEBO IN CROSSING TRIAL
+- 10/20 22:09 [FirstSquawk] GM CEO: CARMAKER WILL DEBUT HYBRIDS 'IN MULTIPLE SEGMENTS'
+- 10/20 22:11 [DeItaone] BESSENT: THERE'S VERY LITTLE A DEMOCRATIC CONGRESS COULD DO TO STOP AGENDA -2WAY TV
+- 10/20 22:16 [DeItaone] U.S. AND IRAN REPORTEDLY BACK NEW DIPLOMATIC PROPOSAL Qatar and Pakistan have reportedly presented a compromise proposal with preliminary U.S. and Iranian approval, according to informed sources. The plan reportedly includes confidential IA…
+- 10/20 22:17 [DeItaone] BESSENT: PEOPLE ARE COMING IN TO BOND MARKET AT A PRICE -2WAY TV
+- 10/20 22:17 [DeItaone] BESSENT: I DON'T SEE A SPILLOVER FROM FRANCE PROTESTS -2WAY TV
+- 10/20 22:18 [DeItaone/financialjuice] FRENCH PM LECORNU: POLICE DEPLOYMENT FOR DEMONSTRATIONS IN FRANCE NEXT SATURDAY WILL BE 'MASSIVE'
+- 10/20 22:18 [DeItaone] BESSENT: NOT SEEKING ANOTHER JOB, HERE FOR DURATION
+- 10/20 22:19 [DeItaone] $MSFT - US JUDGE DISMISSES CIVIL SEXUAL ABUSE LAWSUIT AGAINST OPENAI CEO SAM ALTMAN FILED BY HIS SISTER
+- 10/20 22:22 [FirstSquawk] BESSENT SAYS US BOND MARKET HAS DONE WELL.
+- 10/20 22:22 [FirstSquawk] BESSENT STATES NO OBSERVATION OF ANY SPILLOVER FROM FRANCE.
+- 10/20 22:22 [FirstSquawk] BESSENT SAYS MACRON'S ECONOMIC TEAM IS OF HIGH QUALITY.
+- 10/20 22:22 [FirstSquawk] THINGS REMAIN POSITIVE DESPITE A SHORT-TERM RISE IN ENERGY PRICES, SAYS BESSENT.
+- 10/20 22:22 [FirstSquawk] BESSENT SAYS WE MUST INCREASE GROWTH TO OVERCOME DEBT.
+- 10/20 22:22 [FirstSquawk] BESSENT SAYS WE'RE MOVING BEYOND THE ENERGY CRISIS.
+- 10/20 22:22 [FirstSquawk] BESSENT SAYS WE MUST CONTROL SPENDING.
+- 10/20 22:26 [financialjuice] WATCH LIVE: US Treasury Secretary Bessent Speaks
+- 10/20 22:26 [financialjuice] US Treasury Secretary Bessent: Panic starting to set in in Iran, currency collapsed.
+- 10/20 22:27 [FirstSquawk] BESSENT: BOND AUCTIONS HAVE BEEN STRONG RECENTLY
+- 10/20 22:27 [FirstSquawk] BESSENT: THINGS GOING WELL DESPITE TEMPORARY ENERGY PRICE SPIKE
+- 10/20 22:27 [financialjuice] US Treasury Secretary Bessent: Haven't seen RSVP from Putin on G20
+- 10/20 22:27 [FirstSquawk] BESSENT: WE NEED TO GROW OUR WAY OUT OF DEBT
+- 10/20 22:27 [FirstSquawk] BESSENT:WOULD BE DEVASTATING IF WE LOST CHIP SUPPLY FROM TAIWAN
+- 10/20 22:27 [FirstSquawk] BESSENT: PANIC STARTING TO SET IN IN IRAN, CURRENCY COLLAPSED
+- 10/20 22:30 [financialjuice] Treasury Secretary Bessent ends remarks on 2Way
+- 10/20 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: 45.5 MLN NASDAQ 100: -13.1 MLN DOW 30: -4.5 MLN MAG 7: -6.2 MLN $MACRO
+- 10/20 22:33 [DeItaone] CHINA'S COMMERCE MINISTRY, ON US ORDER ON DEEPSEEK: CHINA FIRMLY OPPOSES THIS
+- 10/20 22:34 [financialjuice] CEO Dave McKay: RBC considers blocking Meta’s Muse AI agent. $META
+- 10/20 22:34 [financialjuice] China's Commerce Ministry, on US order on DeepSeek: China firmly opposes this; US move is discriminatory, politicizes tech and trade issues under guise of national security.
+- 10/20 22:34 [DeItaone] $AMZN - AMAZON GOES BIG ON HOLIDAY HIRING AS U.S. RETAIL PULLS BACK Amazon plans to hire over 300,000 seasonal workers, up 20% from last year, even as broader U.S. holiday hiring is projected to hit its lowest level since 2008. Seasonal wag…
+- 10/20 22:35 [FirstSquawk] ROMANIAN PRIME MINISTER WINS CONFIDENCE VOTE IN PARLIAMENT
+- 10/20 22:35 [financialjuice] China's Commerce Ministry, on US order on DeepSeek: US action disregards consensus reached between Chinese and US heads of state.
+- 10/20 22:35 [DeItaone] CHINA'S COMMERCE MINISTRY, ON US ORDER ON DEEPSEEK: US ACTION DISREGARDS CONSENSUS REACHED BETWEEN CHINESE, U.S. HEADS OF STATE
+- 10/20 22:35 [financialjuice] China's Commerce Ministry: Urges US to immediately correct wrong practices, revoke discriminatory restrictions on Chinese firms
+- 10/20 22:36 [financialjuice] China vows necessary measures to defend interests.
+- 10/20 22:36 [DeItaone/financialjuice] 🇫🇷 FRENCH INTERIOR MINISTER NUNEZ: FRANCE WILL DEPLOY SOME MILITARY FORCES TO REINFORCE POLICE FOR SATURDAY DEMONSTRATIONS
+- 10/20 22:37 [DeItaone] GOLDMAN SACHS: U.S. GDP HOLDS STRONG DESPITE HOUSING SLUMP U.S. housing starts plunged 5.2% in September to 1.221 million, missing expectations. Single-family starts fell 4.6%, multifamily starts dropped 6.7%, and building permits slipped 0…
+- 10/20 22:41 [FirstSquawk] COREWEAVE SHARES FALL 6% TO LOWEST SINCE MAY 2025
+- 10/20 22:43 [DeItaone] $CRWV - COREWEAVE SHARES FALL TO LOWEST SINCE MAY 2025, LAST DOWN 5.8%
+- 10/20 22:50 [FirstSquawk] NASDAQ 100 FALLS 1%; S&P 500 DOWN 0.3%
+- 10/20 22:52 [financialjuice] Netanyahu Spokesperson confirms the Israel's Prime Minister Netanyahu met US Defense Secretary Hegseth in Israel on Monday
+- 10/20 22:52 [DeItaone] US ENERGY UNDER SECRETARY HAUSTVEIT SAYS DIESEL PRICES ARE HIGHER THAN ANYONE WANTS RIGHT NOW, WORKING WITH REFINERS TO SEEK WAYS TO PRODUCE MORE
+- 10/20 22:52 [financialjuice] US Energy Under Secretary Haustveit: Diesel prices are higher than anyone wants right now, working with refiners to seek ways to produce more.
+- 10/20 22:53 [financialjuice] US AI Czar Clayton: Will deliver AI recommendations soon.
+- 10/20 22:54 [DeItaone] ARGENTINA'S COUNTRY RISK SURPASSES 700 BP, HIGHEST SINCE OCTOBER 2025- TRADERS
+- 10/20 22:55 [FirstSquawk] ISRAELI PM SPOX CONFIRMS NETANYAHU MET US DEFENCE SEC. HEGSETH IN ISRAEL ON MONDAY
+- 10/20 22:55 [FirstSquawk] US ENERGY UNDERSEC. HAUSTVEIT: CURRENT DIESEL PRICES ARE HIGHER THAN ANYONE WANTS, WORKING WITH REFINERS TO SEEK WAYS TO PRODUCE MORE
+- 10/20 22:58 [financialjuice] WATCH LIVE: US Secretary of State Rubio Speaks
+- 10/20 23:00 [financialjuice] US PENDING HOME SALES CHANGE MOM ACTUAL -7.3% (FORECAST -0.5%, PREVIOUS 0.3%) $MACRO
+- 10/20 23:00 [financialjuice] US PENDING HOMES INDEX ACTUAL 66.0 (FORECAST -, PREVIOUS 71.2) $MACRO
+- 10/20 23:00 [FirstSquawk/financialjuice] US PENDING HOME SALES FALL 7.3% M/M TO RECORD-LOW LEVEL
+- 10/20 23:01 [financialjuice] US Pending Home Sales September 2026 Report
+- 10/20 23:01 [DeItaone] U.S. PENDING HOME SALES PLUNGE 7.3% IN SEPTEMBER U.S. pending home sales fell 7.3% month-over-month in September, reversing August's modest 0.3% gain. The index dropped to 66.0, with sales down 11.3% year-over-year. All four regions weakene…
+- 10/20 23:02 [DeItaone] COREWEAVE BONDS TUMBLE AS CREDIT PRESSURE BUILDS CoreWeave ($CRWV ) dollar-denominated bonds are selling off sharply: October 2031 bonds: Down 2.3 cents to 79.46 cents on the dollar June 2030 bonds: Down 2.2 cents to 83.10 cents on the doll…
+- 10/20 23:03 [financialjuice] CoreWeave dollar-denominated bonds slump - TradeWeb Data $CRWV
+- 10/20 23:04 [financialjuice] CoreWeave dollar-denominated bonds slump; June 2030 maturity drops 2.2 cents on the dollar to trade at 83.1 cents, October 2031 maturity drops 2.3 cents to trade at 79.46 cents - Tradeweb data $CRWV
+- 10/20 23:07 [financialjuice] Foreign Minister of Pakistan: Mediation to reduce tension between Tehran and Washington continues - ISNA
+- 10/20 23:09 [financialjuice] Israel's Defense Minister Katz: Hezbollah will face a severe blow if it joins an Iranian attack on Israel - Channel 12
+- 10/20 23:09 [financialjuice] Israel's Defense Minister Katz: IDF is prepared to advance into additional areas of Nabatieh, Litani and make occupied territory permanent part of Israel's security zone in Lebanon - Israel's Channel 12 News
+- 10/20 23:11 [financialjuice] ❗ Proposal presented today by the Pakistani army chief to senior Iranian officials has received American approval and has already received preliminary agreement from Iran. - Israel's Channel 12 News
+- 10/20 23:13 [financialjuice] It includes a partial response to Iran's demand for the return of frozen Iranian funds. It stipulates that interest on $6 bln of Iranian funds frozen in Qatari banks will be transferred to Iran - Israel's Channel 12 News
+- 10/20 23:16 [DeItaone/financialjuice] ANTHROPIC IN TALKS WITH NEOCLOUD NSCALE OVER SECOND MULTIBILLION-DOLLAR DEAL - CNBC
+- 10/20 23:23 [DeItaone] COREWEAVE SHARES REVERSE DECLINES, LAST UP 1%
+- 10/20 23:25 [financialjuice] Saudi-led Coalition: Intercepted and destroyed drone over Riyadh
+- 10/20 23:27 [financialjuice] ❗ According to a Qatari report, as part of the proposal, Tehran agreed to a secret visit, which would not be publicly announced, by the International Atomic Energy Agency to Iranian nuclear facilities - Israel's Channel 12 News
+- 10/20 23:31 [financialjuice] Canadian Minister: We're going to find a deal with the United States at some point that's in the interests of the entire Canadian economy
+- 10/20 23:31 [DeItaone] NETANYAHU: SPOKE WITH TRUMP ON MONDAY ABOUT THE IMPORTANCE OF ELIMINATING THE IRANIAN REGIME
+- 10/20 23:33 [financialjuice] Israel's Prime Minister Netanyahu: The Iranian regime must be overthrown, I discussed this with Trump the other day as well.
+- 10/20 23:36 [FirstSquawk] CANADA MINISTER RESPONSIBLE FOR US TRADE: CANADA CONTINUES TO HAVE TRADE TALKS WITH US COUNTERPARTS
+- 10/20 23:37 [FirstSquawk] CANADA’S US-TRADE MINISTER: GOING TO FIND A DEAL WITH US AT SOME POINT THAT'S IN INTERESTS OF THE ENTIRE CANADIAN ECONOMY
+- 10/20 23:37 [financialjuice] Oil tanker violating regulations catches fire in the southern corridor of the Strait of Hormuz - Tasnim News
+- 10/20 23:37 [FirstSquawk] MEXICO PRESIDENT SHEINBAUM: US-TRADE DEAL IS VERY CLOSE
+- 10/20 23:38 [financialjuice] Oil tanker had turned off its tracking systems and was attempting to pass through the restricted area in the southern corridor of the Strait of Hormuz - Tasnim News
+- 10/20 23:39 [financialjuice] IRGC Navy: The consequences of unauthorized movements are the responsibility of the offenders, and such discrepancies contribute to the spread of insecurity - Tasnim News
+- 10/20 23:39 [financialjuice] Gazprom sees China gas supplies above original 2026 plan.
+- 10/20 23:42 [financialjuice] Israel's Prime Minister Netanyahu: Spoke with Trump on Sunday about the importance of eliminating the Iranian regime
+- 10/20 23:45 [FirstSquawk] IRAN NAVY SAYS VIOLATING TANKER CAUGHT FIRE IN HORMUZ STRAIT - TASNIM
+- 10/20 23:48 [DeItaone] RUSSIA HITS ENERGY FACILITY IN KYIV, MAYOR SAYS
+- 10/20 23:49 [financialjuice] Russia hits energy facility in Kyiv - Mayor
+- 10/20 23:53 [financialjuice] IBM Ventures invests in Leena AI to accelerate agentic AI across the enterprise back office. $IBM
+- 10/20 23:53 [FirstSquawk] TRUMP ADMIN CAME VERY CLOSE TO APPROVING IRAN STRIKE RECENTLY - I24NEWS
+- 10/20 23:59 [financialjuice] WATCH LIVE: US Sec. of Defense Hegseth Speaks Soon
+- 10/21 00:00 [financialjuice] US Treasury to sell $110 bln 4-week bills on October 22, to settle on October 27
+- 10/21 00:05 [DeItaone] TRUMP REPORTEDLY CAME VERY CLOSE TO ORDERING STRIKES ON IRAN The Trump administration came “very close” to approving military strikes on Iran on at least one recent occasion, sources told The Jerusalem Post. Trump has pledged no new strikes…
+- 10/21 00:06 [FirstSquawk] MEXICO PRESIDENT SHEINBAUM: USTR AND COMMERCE ARE ‘POSITIVE’ ON MEXICO TRADE DEAL
+- 10/21 00:07 [financialjuice] Paris police renew partial curfew from 11 PM CET until 6 AM
+- 10/21 00:11 [financialjuice] The US Department of Energy to invest $967 million in funding for upgrades to the power grid
+- 10/21 00:13 [financialjuice] ‼ BREAKING: Iran-US talks continue, reports that the deal is close are wrong - person involved
+- 10/21 00:13 [FirstSquawk/DeItaone] IRAN-US TALKS CONTINUE, REPORTS DEAL IS CLOSE ARE WRONG: PERSON
+- 10/21 00:15 [FirstSquawk] DIPLOMAT INVOLVED IN IRAN-US TALKS: TALKS CONTINUE; CALLS REPORTS A DEAL IS CLOSE ‘WRONG’
+- 10/21 00:15 [financialjuice] ‼ Iran-US talks continue, reports that the deal is close are wrong - Diplomat involved in Iran-US negotiations
+- 10/21 00:21 [financialjuice] US Energy Secretary: More to do on Refining and Defense Production Act Funding
+- 10/21 00:22 [FirstSquawk] NATO AMBASSADORS DISCUSSED SECURITY IN BLACK SEA AT MEETING
+- 10/21 00:24 [financialjuice] US Energy Secretary Wright: Meaningful diesel price relief is possible if Europeans agree to a coordinated release.
+- 10/21 00:26 [financialjuice] US Energy Secretary Wright: Russian diesel likely to go to New England, if it goes to the US
+- 10/21 00:34 [financialjuice] Paris Police: Curfews will continue on Tuesday evening and for as long as necessary following weekend unrest
+- 10/21 00:44 [financialjuice] US Secretary of State Rubio: Oil going through Hormuz is nearly equal to before the war
+- 10/21 00:44 [FirstSquawk/DeItaone] RUBIO: OIL GOING THROUGH HORMUZ NEARLY EQUAL TO BEFORE WAR
+- 10/21 00:51 [financialjuice] Pakistan Army Chief Munir meets Iran president Pezeshkian - Mehr
+- 10/21 00:53 [DeItaone] MUSK POURS IN $158 MILLION. PAXTON TRAILS BY 26 POINTS Elon Musk’s massive donation is helping fund Ken Paxton’s Texas Senate campaign. But on Kalshi, Paxton stands at just 37%, against James Talarico’s 63%. 📊 Watch the odds move in real ti…
+- 10/21 00:54 [financialjuice] Barclays freed up cash for hedge funds as it hit loan limits
+- 10/21 01:03 [financialjuice] NATO Military Spokesperson: Additional assets for Black Sea will include maritime patrol aircraft, radar systems, drones and intelligence personnel
+- 10/21 01:05 [financialjuice] Intel: AMD joins UXL Foundation as steering member to advance oneDNN PyTorch work; AMD and Intel have aligned on oneDNN as the default open-source library for x86 acceleration within PyTorch - Website $INTC
+- 10/21 01:07 [financialjuice] Iran's Pezeshkian discussed mediation efforts and regional developments during a meeting with Pakistan's army chief in Tehran - Iran's Nournews
+- 10/21 01:09 [FirstSquawk] IRAN'S GHALIBAF SAYS US MUST MEET SEVEN CONDITIONS TO GAIN TRUST - MEHR
+- 10/21 01:09 [FirstSquawk] PAKISTAN’S ARMY CHIEF MUNIR MEETS IRANIAN PRESIDENT PEZESHKIAN - MEHR
+- 10/21 01:09 [FirstSquawk] AMD, INTEL COLLABORATE TO SIMPLIFY AI DEVELOPMENT ON X86 CPUS USING PYTORCH
+- 10/21 01:13 [financialjuice] Iran's Qalbiaf tells Pakistan Army Chief that the US cannot gain Iran's trust unless it implements Tehran's proposal to reopen the Strait of Hormuz - Telegram
+- 10/21 01:17 [FirstSquawk] IRAN TELLS PAKISTAN IT HAS 'NOTHING NEW TO SAY' TO US: MEHR
+- 10/21 01:17 [financialjuice] Iran tells Pakistan it has 'nothing new to say' to the US - MEHR
+- 10/21 01:26 [FirstSquawk] IRAN SECURITY COUNCIL SECRETARY: NO ENRICHED NUCLEAR MATERIAL WILL LEAVE IRAN - TASNIM
+- 10/21 01:31 [financialjuice] Iran's Security Chief Rezaei: All enriched nuclear materials in Iran will remain in the country during meeting with Pakistan Army Chief - Tasnim
+- 10/21 01:33 [FirstSquawk/DeItaone] IRAN SECURITY CHIEF SAYS NO TALKS UNLESS US BUILDS TRUST: IRNA
+- 10/21 01:33 [financialjuice] Iran Security Chief: There will be no talks unless US builds trust - IRNA
+- 10/21 01:38 [financialjuice] UK Police: 2 men re-arrested in RAF Fairford probe
+- 10/21 01:39 [FirstSquawk] ADIDAS Q3 2026 TRADING UPDATE: - REVENUE: EUR7.252B, UP 9% TO RECORD - OPERATING PROFIT: EUR1.008B, UP 37% TO RECORD - RAISES FY2026 OPERATING PROFIT OUTLOOK TO EUR2.6B - SEES FY2026 CURRENCY-NEUTRAL REVENUE GROWTH OF 9%-10% - RECEIVES MAJO…
+- 10/21 01:44 [FirstSquawk] METAL TRADER MCNESS, KNOWN FOR BIG ALUMINIUM BETS, HAS BUILT LARGE POSITION IN LME OCTOBER COPPER
+- 10/21 01:53 [financialjuice] IRGC Navy on tanker incident today: Supertanker carrying over 2 mln barrels of crude exploded - IRIB News
+- 10/21 01:55 [financialjuice] IRGC Navy: Supertanker carrying over 2 mln barrels of crude exploded and caught fire after hitting sea mine in southern Strait of Hormuz today - IRIB News
+- 10/21 01:56 [financialjuice] IRGC: Vessel owners, crews are responsible for using unauthorized routes in Persian Gulf, Sea of Oman and violations of Strait security will be dealt with decisively
+- 10/21 01:57 [financialjuice] Brazil readies China bond debut for as soon as next week
+- 10/21 02:01 [financialjuice] Netflix to expand ads plan to 15 new countries in 2027. $NFLX
+- 10/21 02:01 [financialjuice] BoE's Greene: Wage disinflation has stalled
+- 10/21 02:02 [financialjuice] BoE's Greene: The risk of second-round effects is greater than we thought.
+- 10/21 02:02 [financialjuice] BoE's Greene: Forward-looking data point to pay growth closer to 3.5%
+- 10/21 02:02 [financialjuice] BoE's Greene: Wage disinflation appears to have stalled at levels above those consistent with inflation at 2%
+- 10/21 02:03 [financialjuice] BoE's Greene: Economy has shown surprising resilience
+- 10/21 02:03 [financialjuice] BoE's Greene: labor market slack might have hit its peak
+- 10/21 02:05 [financialjuice] Norway PM Store: US-Ukraine talks were good and constructive
+- 10/21 02:06 [financialjuice] AWS: TorchNeutron goes public beta with Apache 2.0 license
+- 10/21 02:12 [financialjuice] Finland's President after meeting with Ukraine's Zelenskiy and US Envoy Witkoff: We found some elements of peace which will be taken forward to St Petersburg tomorrow
+- 10/21 02:21 [financialjuice] WATCH LIVE: Trump & Vance announce a $25 million fraud whistleblower program 1:30 PM ET
+- 10/21 02:27 [financialjuice] UK's PM Burnham plans legislation to cut benefits bill - Telegraph
+- 10/21 02:27 [financialjuice] UK's PM Burnham plans to introduce legislation as soon as April - Telegraph
+- 10/21 02:31 [financialjuice] US nearing deal with Russia to free some jailed Americans - ABC
+- 10/21 02:37 [financialjuice] Finland President: On a substantive and technical level, we’ve made a lot of progress under the radar in the past week or so towards a peaceful solution to the war in Ukraine
