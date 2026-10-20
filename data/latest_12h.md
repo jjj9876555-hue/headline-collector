@@ -7,80 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-21 05:53 JST／対象: 10/20 17:53 〜 10/21 05:53 JST（時刻はすべて日本時間）
+生成: 2026-10-21 08:32 JST／対象: 10/20 20:32 〜 10/21 08:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 44 | 10/20 19:17 | 10/21 01:35 | 41分（00:53→01:35） |
-| FirstSquawk | 131 | 10/20 18:01 | 10/21 05:49 | ⚠ 77分（01:44→03:02） |
-| financialjuice | 198 | 10/20 18:00 | 10/21 05:53 | ⚠ 47分（21:39→22:26） |
+| DeItaone | 35 | 10/20 20:39 | 10/21 01:35 | 41分（00:53→01:35） |
+| FirstSquawk | 112 | 10/20 20:34 | 10/21 07:41 | ⚠ 77分（01:44→03:02） |
+| financialjuice | 203 | 10/20 20:34 | 10/21 08:09 | ⚠ 50分（07:18→08:09） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 356 行（統合前 377 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 332 行（統合前 354 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/20 18:00 [financialjuice] EUROZONE ZEW SURVEY EXPECTATIONS ACTUAL 18.5 (FORECAST -, PREVIOUS 25.8) $MACRO
-- 10/20 18:00 [financialjuice] ❗ GERMAN ZEW CURRENT CONDITIONS ACTUAL -35.9 (FORECAST -44.5, PREVIOUS -47.1) $MACRO
-- 10/20 18:00 [financialjuice] ‼ BREAKING: GERMAN ZEW ECONOMIC SENTIMENT ACTUAL 28.1 (FORECAST 30, PREVIOUS 34.7) $MACRO
-- 10/20 18:00 [financialjuice] EUROZONE CONSTRUCTION OUTPUT MOM ACTUAL 1.8% (FORECAST -, PREVIOUS 0.00%) $MACRO
-- 10/20 18:01 [FirstSquawk] GERMANY'S OCTOBER ZEW INVESTOR EXPECTATIONS DROP TO 28.1, LOWER THAN THE ESTIMATED 30.0.
-- 10/20 18:03 [financialjuice] UK 10 YR GILT YIELD ACTUAL 5.418% (FORECAST -, PREVIOUS 5.383%) $MACRO
-- 10/20 18:03 [financialjuice] UK 10 YR GILT BID-TO-COVER ACTUAL 3.61 (FORECAST -, PREVIOUS 3.34) $MACRO
-- 10/20 18:11 [FirstSquawk] AMAZON: ANNOUNCES PLAN TO INVEST EUR 16B IN GERMANY IN 2027
-- 10/20 18:22 [financialjuice] Iran's IRGC: Two oil tankers struck mines in Hormuz - Tasnim
-- 10/20 18:22 [financialjuice] Japan's Trade Minister Akazawa: Considering investing in Rapidus beyond 2027
-- 10/20 18:28 [FirstSquawk] IRAN'S IRGC SAYS TWO OIL TANKERS STRUCK MINES IN HORMUZ- TASNIM
-- 10/20 18:43 [financialjuice] ECB's Rehn: French spread to Germany has widened "somewhat"
-- 10/20 18:43 [FirstSquawk] PAKISTAN ARMY CHIEF ASIM ARRIVES IN TEHRAN WITH DELEGATION - MEHR
-- 10/20 18:44 [FirstSquawk] REHN: FRENCH SPREAD TO GERMANY HAS WIDENED ‘SOMEWHAT’
-- 10/20 18:53 [FirstSquawk/financialjuice] IEA'S BIROL: AGENCY WILL CONSIDER RELEASING MORE OIL FROM EMERGENCY STOCKS IF NEEDED
-- 10/20 19:01 [financialjuice] Qatar: Efforts to resolve the US-Iran crisis are ongoing - Al Jazeera
-- 10/20 19:10 [FirstSquawk] Northrop Grumman Q3 Earnings - Sales: $11.1B (est $11.13B) - EPS: $7.89 - Backlog Increases To $110B - Still Sees FY Sales: $43.75B To $44.25B (est $44.05B) - Still Sees FY Free Cash Flow $3.10B To $3.50B (est $3.32B) - Sees FY Adj EPS $29.…
-- 10/20 19:12 [FirstSquawk] SECRETARY OF STATE MARCO RUBIO CLOSE TO INDIA TRADE DEAL, SMALL NUMBER OF ITEMS LEFT; SPOKE TO ZELENSKYY TODAY; PENTAGON HAS NOT CHANGED ANYTHING ON UKRAINE POLICY;NOTHING HAS CHANGED ON INTELLIGENCE SHARING WITH UKRAINE
-- 10/20 19:13 [FirstSquawk] RUBIO: WE'RE NOT DELIBERATLY DENYING INTERCEPTORS TO UKRAINE; MANY COUNTRIES WANTS INTERCEPTORS FROM THE US
-- 10/20 19:15 [FirstSquawk] UK TO FLY MISSIONS TO DEFEND SAUDI ARABIA FROM HOUTHI ATTACKS
-- 10/20 19:17 [DeItaone] RUBIO: IT COULD BE ACCURATE THAT A BATCH OF INTERCEPTORS PURCHASED FOR UKRAINE UNDER PURL PROGRAM HAS NOT BEEN DELIVERED
-- 10/20 19:21 [financialjuice] Pakistan's army chief Munir arrives in Tehran for talks - Tasnim
-- 10/20 19:22 [DeItaone] RUBIO: A CHINA, RUSSIA, US ARMS CONTROL DISCUSSION WOULD BE A POSITIVE THING FOR THE WORLD
-- 10/20 19:23 [FirstSquawk] RUBIO: WAR HAS TO END IN A NEGOTIATED WAY
-- 10/20 19:23 [FirstSquawk] RUBIO: WE'LL DISCUSS INDIAN REFINING OF VENEZUELAN CRUDE
-- 10/20 19:23 [FirstSquawk] CODELCO SETS EUROPEAN COPPER PREMIUM AT RECORD $350 A TON
-- 10/20 19:24 [financialjuice] US Secretary of State Rubio: A China, Russia, US arms control discussion would be a positive thing for the world.
-- 10/20 19:25 [DeItaone] GOLDMAN SACHS RAISES COPPER PRICE FORECASTS Goldman Sachs now expects copper to reach $14,700 per ton by end-2026 and average $15,400 in 2027, up from $13,735 and $13,800. The bank forecasts supply deficits outside the U.S. of 950,000 tons …
-- 10/20 19:28 [FirstSquawk] GE AEROSPACE 3Q EPS CONT OPS $2.32; 3Q ADJ EPS $2.25, EST. $2.01; 3Q ADJ FREE CASH FLOW $2.04B, EST. $2.22B; 3Q DEFENSE & PROPULSION TECHNOLOGIES REV. $3.47B; 3Q ADJ. REV. $13.29B, EST. $12.86B; SEES FY ADJ EPS $8 TO $8.10, SAW $7.65 TO $7.…
-- 10/20 19:30 [DeItaone] https://t.co/Y06qevgSZb
-- 10/20 19:31 [financialjuice] $GM General Motors Q3 Earnings
-- 10/20 19:32 [FirstSquawk] GENERAL MOTORS Q3 EARNINGS: - NET SALES AND REV: $50.02B (EST $48.53B) - ADJUSTED EPS: $3.70 (EST $3.56) - NORTH AMERICA ADJUSTED EBIT: $3.59B (EST $3.54B) - INTERNATIONAL OPERATIONS ADJUSTED EBIT: $28M (EST $130.4M) - VEHICLE SALES: 1.03M …
-- 10/20 19:33 [FirstSquawk] GENERAL MOTORS APPROVES NEW $20B SHARE BUYBACK || SEES FY ADJ EPS $12.75 TO $13.75, SAW $12 TO $14
-- 10/20 19:33 [financialjuice] $MMM 3M Q3 Earnings Adj. EPS $2.50, est. $2.38 Rev. $6.6B Adj. Oper margin 26.2%, est. 25.2% Raises FY EPS guidance
-- 10/20 19:33 [DeItaone] GENERAL MOTORS ($GM ) BEATS Q3 EARNINGS EXPECTATIONS Q3 Results: 🔸 Revenue: $50.02B vs. $48.70B expected 🔸 Adjusted EPS: $3.70 vs. $3.63 expected 🔸 Adjusted EBIT: $4.11B vs. $4.25B expected FY2026 Guidance: 🔸 Adjusted EPS: $12.75–$13.75 vs.…
-- 10/20 19:34 [DeItaone] RUBIO SAYS TRUMP 'FRUSTRATED' AT ACCUSATIONS HE HARMING UKRAINE
-- 10/20 19:37 [financialjuice] Russia attacks energy facility in Ukraine's Lviv region - Governor
-- 10/20 19:40 [FirstSquawk] AIR CHINA: IT, UNIT PLAN TO BUY COMBINED 55 AIRBUS JETS
-- 10/20 19:44 [FirstSquawk] HASBRO Q3 EARNINGS: - NET REVENUE: $1.60B (EST $1.47B) - ADJUSTED EBITDA: $604.5M (EST $444.2M) - ADJUSTED EPS: $2.90 (EST $1.88) - RAISES 2026 FINANCIAL OUTLOOK - SEES FY ADJUSTED EBITDA: $1.58B TO $1.63B (PREV $1.45B TO $1.5B)
-- 10/20 19:48 [FirstSquawk] HALLIBURTON: BASED ON EARLY OUTLOOK FOR 2027, EXPECT MID-SINGLE DIGIT REV GROWTH & OPERATING MARGINS OF ABOUT 15%, ABOUT 200 BASIS POINT IMPROVEMENT
-- 10/20 19:50 [DeItaone] $QCOM - QUALCOMM TO CUT JOBS GLOBALLY IN 'PERFORMANCE-FOCUSED REDUCTION' AFTER ANNUAL REVIEWS, INTERNAL MEMO SHOWS
-- 10/20 19:51 [financialjuice] HSBC reviews Palantir holding in $9bn Islamic fund - FT
-- 10/20 19:51 [DeItaone] GOLDMAN SACHS WARNS INVESTOR RISK APPETITE IS COLLAPSING Goldman Sachs says its risk-appetite indicator has turned negative for the first time since April, reaching its lowest level since the early stages of the Iran war. Investors are sell…
-- 10/20 19:55 [financialjuice] Qualcomm to cut jobs globally beginning in November - Sources
-- 10/20 19:56 [financialjuice] $RTX RTX Q3 2026 Earnings Adj EPS $1.79, Est. $1.79 Rev $24.97B, Est. $24B, +11% Y/Y Pratt & Whitney Sales $9.23B, Est. $8.89B Collins Aerospace Systems Sales $8.38B, Est. $8.15B Free Cash Flow $2.12B, Est. $1.99B
-- 10/20 19:57 [FirstSquawk] RTX Q3 EARNINGS: - ADJ SALES: $24.97B (EST $24.08B) - ADJ EPS: $2.26 (EST $1.79) - PRATT & WHITNEY SALES: $9.23B (EST $8.89B) - COLLINS AEROSPACE SYSTEMS SALES: $8.38B (EST $8.15B) - FREE CASH FLOW: $2.12B (EST $1.99B) - SEES FY ADJUSTED SA…
-- 10/20 20:04 [FirstSquawk] GENUINE PARTS Q3 EARNINGS: - NET SALES: $6.5B (EST $6.5B) - ADJ EPS: $2.07 (EST $2.04) - NARROWS 2026 ADJUSTED EPS OUTLOOK - SEES FY ADJUSTED EPS: $7.50 TO $7.75 (PREV $7.50 TO $8; EST $7.73) - SEES FY SALES: +3% TO +5.5% (EST +3.22%) - SEE…
-- 10/20 20:09 [FirstSquawk] TRUMP TO ANNOUNCE $25M WHISTLEBLOWER PROGRAM AT TUE EVENT: FOX
-- 10/20 20:09 [FirstSquawk] UKMTO REPORTED AN INCIDENT INVOLVING A TANKER AND MILITARY FORCES APPROXIMATELY 121NM EAST OF DUQM, OMAN, ON OCT 19, 2026, AT 1000UTC.
-- 10/20 20:17 [FirstSquawk] 3M CO SHARES ERASE EARLIER GAINS TO TURN NEGATIVE
-- 10/20 20:21 [FirstSquawk] EUROPE'S GAS BENCHMARK EXCEEDS €90 FOR FIRST TIME SINCE 2022
-- 10/20 20:22 [financialjuice] UK's PM Starmer's Spokesman Wells: We don't accept UK risks being drawn into the Saudi-Houthi war
-- 10/20 20:25 [financialjuice] US Sec. of Defense Hegseth is said to make an unannounced visit to Israel - NYT
-- 10/20 20:27 [FirstSquawk] UK PM SPOX WELLS: DOESN’T ACCEPT UK RISKS BEING DRAWN INTO SAUDI-HOUTHI WAR
-- 10/20 20:30 [DeItaone] $AAPL - LOOP CAPITAL DOWNGRADES APPLE ON IPHONE SHIPMENT CONCERNS Loop Capital downgraded Apple to Hold from Buy, cutting its price target to $330 from $370. Supply chain checks suggest Apple will not recover 13 million iPhone shipments cut…
-- 10/20 20:31 [FirstSquawk] BOEING INTRODUCES NEW AI AIRCRAFT DATA INTELLIGENCE PLATFORM
-- 10/20 20:31 [financialjuice] Boeing introduces new AI aircraft data intelligence platform $BA
 - 10/20 20:34 [financialjuice] UKMTO gets report of incident 121nm east of Duqm, Oman
 - 10/20 20:34 [FirstSquawk] MICRON: INVESTMENT IS PART UP TO $3B US SUPPLY-CHAIN PLAN
 - 10/20 20:39 [DeItaone] $CRWV - HSBC WARNS COREWEAVE IS SPENDING BILLIONS TO DESTROY VALUE HSBC maintains its Reduce rating on CoreWeave, with a $39 price target implying 36% downside. The bank estimates CoreWeave's 2026–2030 return on invested capital at 8.9%, be…
@@ -380,3 +323,36 @@
 - 10/21 05:49 [FirstSquawk] MUSK PREDICTS REACHING 100,000 STARLINK SATELLITES WITHIN 3 YEARS, INCREASING NETWORK CAPACITY 100 TIMES
 - 10/21 05:49 [financialjuice] MUSK: Would be surprised if we brought on less than 13 gigawatts of compute by the end of next year $SPCX
 - 10/21 05:53 [financialjuice] SpaceX CEO Musk: Annual recurring revenue by the end of 2027 is somewhere between $500 billion and a trillion. $SPCX
+- 10/21 06:00 [financialjuice] Iran’s Foreign Minister Araghchi: Our negotiations with the American side through intermediary countries, including Pakistan and Qatar, continue.
+- 10/21 06:00 [financialjuice] Iran’s Foreign Minister Araghchi: The Strait of Hormuz was supposed to be fully opened on the sixth day of this period. The US informed us that they agreed to these terms, but wanted to add a few more clauses.
+- 10/21 06:01 [financialjuice] Iran’s Foreign Minister Araghchi on the added conditions US wanted: We are not going to negotiate through your network.
+- 10/21 06:05 [financialjuice/FirstSquawk] Moody's ratings assigns Aa1 to consolidated HS Dist No 230, Cook County (Orland), IL's GO bonds; affirms outstanding ratings
+- 10/21 06:06 [financialjuice/FirstSquawk] S&P: Silgan Holdings ratings placed on credit watch negative over planned acquisition, strategic portfolio acceleration
+- 10/21 06:29 [financialjuice] Amazon: youth promise will open 10,000 work experience places to young people in the UK
+- 10/21 06:30 [financialjuice] Amazon: commits 30,000 jobs to youth in UK by 2030
+- 10/21 06:31 [financialjuice] Amazon: all youth promise roles start at more than £31,000 yearly pro rata with private medical insurance and pension access - website
+- 10/21 06:32 [financialjuice] Amazon expanding pre-employment programs including jobs project with Barnardo's to support 2,000 young people from 2027 to 2030
+- 10/21 06:32 [FirstSquawk] IRAN’S FOREIGN MINISTER ARAGHCHI SAYS NEGOTIATIONS WITH THE AMERICAN SIDE THROUGH INTERMEDIARY COUNTRIES, INCLUDING PAKISTAN AND QATAR, CONTINUE
+- 10/21 06:39 [FirstSquawk] NETFLIX SAYS ITS STRATEGY IS UNCHANGED AND THAT ORIGINAL SERIES AND FILMS ARE THE ANCHOR OF THAT STRATEGY, ADDING IT IS SEEING GOOD RESULTS IN APAC, LATAM AND EMEA
+- 10/21 06:39 [FirstSquawk] NETFLIX SAYS RECENT PRICE CHANGES HAVE GONE WELL BUT THAT IT CAN DO BETTER IN THE U.S. AND CANADA
+- 10/21 06:40 [FirstSquawk] CITADEL CEO GRIFFIN SAYS THERE ARE ALMOST CERTAINLY BUBBLES WITH AI RIGHT NOW, THOUGH BUBBLES COINCIDE WITH GIANT TECHNOLOGICAL ADVANCES, ADDING THAT COMPANIES ARE SCRUTINISING BILLS FROM ANTHROPIC AND OPENAI AND THAT SOME HAVE STRUGGLED TO…
+- 10/21 06:40 [FirstSquawk] CITADEL CEO GRIFFIN SAYS INVESTORS ARE BECOMING MORE DISCERNING IN THE AI BUILDOUT, AND THAT MOST OF CITADEL’S ALPHA COMES FROM HUMAN RESEARCHERS
+- 10/21 06:49 [financialjuice] Rba's Hauser: still finalising forecasts, uncertain about board decision
+- 10/21 06:49 [financialjuice] S. Korea Sept producer price index rises 7.7% y/y vs 7.9% in Aug:
+- 10/21 06:49 [financialjuice] RBA's Hauser: inflation outlook appears worse than forecast, slightly above expectations
+- 10/21 06:50 [financialjuice] RBA's Hauser: Companies cite cost pressures as top concern
+- 10/21 06:50 [financialjuice] RBA's Hauser: inflation has remained elevated for an extended period
+- 10/21 06:51 [financialjuice] RBA's Hauser: inflation expectations must stay anchored to target
+- 10/21 06:51 [financialjuice] RBA's Hauser: Observed some easing in job data and housing
+- 10/21 06:52 [financialjuice] RBA's Hauser: Monetary policy effective, but inflation outlook deteriorates
+- 10/21 06:55 [financialjuice] RBA's Hauser: Must respond to supply shocks to maintain inflation expectations
+- 10/21 07:00 [financialjuice] Poll: Japan government to maintain new bond issuance under 40 trillion yen for FY 2027, 65% of respondents say
+- 10/21 07:00 [financialjuice] Poll: Bank of Japan to increase benchmark interest rate to 1.50% in April: 69% of economists (vs 36% in September poll)
+- 10/21 07:00 [financialjuice] Poll: 72% of economists say dissenting votes against BoJ rate hike could weaken yen
+- 10/21 07:13 [financialjuice] Bas Hauser: quarterly trimmed mean likely to exceed expectations
+- 10/21 07:14 [financialjuice] RBA’s Hauser: You can't aim for current inflation, but it still matters
+- 10/21 07:14 [financialjuice] RBA's Hauser: capacity constraints more intense than anticipated
+- 10/21 07:18 [financialjuice] RBA's Hauser: September labor report was somewhat weaker than expected
+- 10/21 07:18 [financialjuice] RBA's Hauser: Unemployment remains low, but labor market is softening
+- 10/21 07:41 [FirstSquawk] RBA’S HAUSER SAYS THE SEPTEMBER LABOR REPORT WAS SOMEWHAT WEAKER THAN EXPECTED AND THAT CAPACITY CONSTRAINTS ARE MORE INTENSE THAN ANTICIPATED, ADDING THAT YOU CANNOT AIM FOR CURRENT INFLATION BUT IT STILL MATTERS
+- 10/21 08:09 [financialjuice] Witkoff to present Putin with peace plan after talks with Zelensky: Axios

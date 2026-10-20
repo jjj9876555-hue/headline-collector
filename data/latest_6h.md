@@ -7,77 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-21 05:53 JST／対象: 10/20 23:53 〜 10/21 05:53 JST（時刻はすべて日本時間）
+生成: 2026-10-21 08:32 JST／対象: 10/21 02:32 〜 10/21 08:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 5 | 10/21 00:05 | 10/21 01:35 | 41分（00:53→01:35） |
-| FirstSquawk | 59 | 10/21 00:06 | 10/21 05:49 | ⚠ 77分（01:44→03:02） |
-| financialjuice | 115 | 10/20 23:59 | 10/21 05:53 | 14分（01:38→01:53） |
+| DeItaone | 0 | - | - | - |
+| FirstSquawk | 54 | 10/21 03:02 | 10/21 07:41 | ⚠ 61分（06:40→07:41） |
+| financialjuice | 103 | 10/21 02:37 | 10/21 08:09 | ⚠ 50分（07:18→08:09） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 167 行（統合前 182 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 146 行（統合前 159 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/20 23:59 [financialjuice] WATCH LIVE: US Sec. of Defense Hegseth Speaks Soon
-- 10/21 00:00 [financialjuice] US Treasury to sell $110 bln 4-week bills on October 22, to settle on October 27
-- 10/21 00:05 [DeItaone] TRUMP REPORTEDLY CAME VERY CLOSE TO ORDERING STRIKES ON IRAN The Trump administration came “very close” to approving military strikes on Iran on at least one recent occasion, sources told The Jerusalem Post. Trump has pledged no new strikes…
-- 10/21 00:06 [FirstSquawk] MEXICO PRESIDENT SHEINBAUM: USTR AND COMMERCE ARE ‘POSITIVE’ ON MEXICO TRADE DEAL
-- 10/21 00:07 [financialjuice] Paris police renew partial curfew from 11 PM CET until 6 AM
-- 10/21 00:11 [financialjuice] The US Department of Energy to invest $967 million in funding for upgrades to the power grid
-- 10/21 00:13 [financialjuice] ‼ BREAKING: Iran-US talks continue, reports that the deal is close are wrong - person involved
-- 10/21 00:13 [FirstSquawk/DeItaone] IRAN-US TALKS CONTINUE, REPORTS DEAL IS CLOSE ARE WRONG: PERSON
-- 10/21 00:15 [FirstSquawk] DIPLOMAT INVOLVED IN IRAN-US TALKS: TALKS CONTINUE; CALLS REPORTS A DEAL IS CLOSE ‘WRONG’
-- 10/21 00:15 [financialjuice] ‼ Iran-US talks continue, reports that the deal is close are wrong - Diplomat involved in Iran-US negotiations
-- 10/21 00:21 [financialjuice] US Energy Secretary: More to do on Refining and Defense Production Act Funding
-- 10/21 00:22 [FirstSquawk] NATO AMBASSADORS DISCUSSED SECURITY IN BLACK SEA AT MEETING
-- 10/21 00:24 [financialjuice] US Energy Secretary Wright: Meaningful diesel price relief is possible if Europeans agree to a coordinated release.
-- 10/21 00:26 [financialjuice] US Energy Secretary Wright: Russian diesel likely to go to New England, if it goes to the US
-- 10/21 00:34 [financialjuice] Paris Police: Curfews will continue on Tuesday evening and for as long as necessary following weekend unrest
-- 10/21 00:44 [financialjuice] US Secretary of State Rubio: Oil going through Hormuz is nearly equal to before the war
-- 10/21 00:44 [FirstSquawk/DeItaone] RUBIO: OIL GOING THROUGH HORMUZ NEARLY EQUAL TO BEFORE WAR
-- 10/21 00:51 [financialjuice] Pakistan Army Chief Munir meets Iran president Pezeshkian - Mehr
-- 10/21 00:53 [DeItaone] MUSK POURS IN $158 MILLION. PAXTON TRAILS BY 26 POINTS Elon Musk’s massive donation is helping fund Ken Paxton’s Texas Senate campaign. But on Kalshi, Paxton stands at just 37%, against James Talarico’s 63%. 📊 Watch the odds move in real ti…
-- 10/21 00:54 [financialjuice] Barclays freed up cash for hedge funds as it hit loan limits
-- 10/21 01:03 [financialjuice] NATO Military Spokesperson: Additional assets for Black Sea will include maritime patrol aircraft, radar systems, drones and intelligence personnel
-- 10/21 01:05 [financialjuice] Intel: AMD joins UXL Foundation as steering member to advance oneDNN PyTorch work; AMD and Intel have aligned on oneDNN as the default open-source library for x86 acceleration within PyTorch - Website $INTC
-- 10/21 01:07 [financialjuice] Iran's Pezeshkian discussed mediation efforts and regional developments during a meeting with Pakistan's army chief in Tehran - Iran's Nournews
-- 10/21 01:09 [FirstSquawk] IRAN'S GHALIBAF SAYS US MUST MEET SEVEN CONDITIONS TO GAIN TRUST - MEHR
-- 10/21 01:09 [FirstSquawk] PAKISTAN’S ARMY CHIEF MUNIR MEETS IRANIAN PRESIDENT PEZESHKIAN - MEHR
-- 10/21 01:09 [FirstSquawk] AMD, INTEL COLLABORATE TO SIMPLIFY AI DEVELOPMENT ON X86 CPUS USING PYTORCH
-- 10/21 01:13 [financialjuice] Iran's Qalbiaf tells Pakistan Army Chief that the US cannot gain Iran's trust unless it implements Tehran's proposal to reopen the Strait of Hormuz - Telegram
-- 10/21 01:17 [FirstSquawk] IRAN TELLS PAKISTAN IT HAS 'NOTHING NEW TO SAY' TO US: MEHR
-- 10/21 01:17 [financialjuice] Iran tells Pakistan it has 'nothing new to say' to the US - MEHR
-- 10/21 01:26 [FirstSquawk] IRAN SECURITY COUNCIL SECRETARY: NO ENRICHED NUCLEAR MATERIAL WILL LEAVE IRAN - TASNIM
-- 10/21 01:31 [financialjuice] Iran's Security Chief Rezaei: All enriched nuclear materials in Iran will remain in the country during meeting with Pakistan Army Chief - Tasnim
-- 10/21 01:33 [FirstSquawk/DeItaone] IRAN SECURITY CHIEF SAYS NO TALKS UNLESS US BUILDS TRUST: IRNA
-- 10/21 01:33 [financialjuice] Iran Security Chief: There will be no talks unless US builds trust - IRNA
-- 10/21 01:38 [financialjuice] UK Police: 2 men re-arrested in RAF Fairford probe
-- 10/21 01:39 [FirstSquawk] ADIDAS Q3 2026 TRADING UPDATE: - REVENUE: EUR7.252B, UP 9% TO RECORD - OPERATING PROFIT: EUR1.008B, UP 37% TO RECORD - RAISES FY2026 OPERATING PROFIT OUTLOOK TO EUR2.6B - SEES FY2026 CURRENCY-NEUTRAL REVENUE GROWTH OF 9%-10% - RECEIVES MAJO…
-- 10/21 01:44 [FirstSquawk] METAL TRADER MCNESS, KNOWN FOR BIG ALUMINIUM BETS, HAS BUILT LARGE POSITION IN LME OCTOBER COPPER
-- 10/21 01:53 [financialjuice] IRGC Navy on tanker incident today: Supertanker carrying over 2 mln barrels of crude exploded - IRIB News
-- 10/21 01:55 [financialjuice] IRGC Navy: Supertanker carrying over 2 mln barrels of crude exploded and caught fire after hitting sea mine in southern Strait of Hormuz today - IRIB News
-- 10/21 01:56 [financialjuice] IRGC: Vessel owners, crews are responsible for using unauthorized routes in Persian Gulf, Sea of Oman and violations of Strait security will be dealt with decisively
-- 10/21 01:57 [financialjuice] Brazil readies China bond debut for as soon as next week
-- 10/21 02:01 [financialjuice] Netflix to expand ads plan to 15 new countries in 2027. $NFLX
-- 10/21 02:01 [financialjuice] BoE's Greene: Wage disinflation has stalled
-- 10/21 02:02 [financialjuice] BoE's Greene: The risk of second-round effects is greater than we thought.
-- 10/21 02:02 [financialjuice] BoE's Greene: Forward-looking data point to pay growth closer to 3.5%
-- 10/21 02:02 [financialjuice] BoE's Greene: Wage disinflation appears to have stalled at levels above those consistent with inflation at 2%
-- 10/21 02:03 [financialjuice] BoE's Greene: Economy has shown surprising resilience
-- 10/21 02:03 [financialjuice] BoE's Greene: labor market slack might have hit its peak
-- 10/21 02:05 [financialjuice] Norway PM Store: US-Ukraine talks were good and constructive
-- 10/21 02:06 [financialjuice] AWS: TorchNeutron goes public beta with Apache 2.0 license
-- 10/21 02:12 [financialjuice] Finland's President after meeting with Ukraine's Zelenskiy and US Envoy Witkoff: We found some elements of peace which will be taken forward to St Petersburg tomorrow
-- 10/21 02:21 [financialjuice] WATCH LIVE: Trump & Vance announce a $25 million fraud whistleblower program 1:30 PM ET
-- 10/21 02:27 [financialjuice] UK's PM Burnham plans legislation to cut benefits bill - Telegraph
-- 10/21 02:27 [financialjuice] UK's PM Burnham plans to introduce legislation as soon as April - Telegraph
-- 10/21 02:31 [financialjuice] US nearing deal with Russia to free some jailed Americans - ABC
 - 10/21 02:37 [financialjuice] Finland President: On a substantive and technical level, we’ve made a lot of progress under the radar in the past week or so towards a peaceful solution to the war in Ukraine
 - 10/21 02:48 [financialjuice] US envoys Witkoff and Kushner's plans to visit Russia on October 21st are confirmed - TASS cites source
 - 10/21 02:56 [financialjuice] Iran's President Pezeshkian: Believe the US will attack again if we negotiate - Tasnim
@@ -191,3 +137,36 @@
 - 10/21 05:49 [FirstSquawk] MUSK PREDICTS REACHING 100,000 STARLINK SATELLITES WITHIN 3 YEARS, INCREASING NETWORK CAPACITY 100 TIMES
 - 10/21 05:49 [financialjuice] MUSK: Would be surprised if we brought on less than 13 gigawatts of compute by the end of next year $SPCX
 - 10/21 05:53 [financialjuice] SpaceX CEO Musk: Annual recurring revenue by the end of 2027 is somewhere between $500 billion and a trillion. $SPCX
+- 10/21 06:00 [financialjuice] Iran’s Foreign Minister Araghchi: Our negotiations with the American side through intermediary countries, including Pakistan and Qatar, continue.
+- 10/21 06:00 [financialjuice] Iran’s Foreign Minister Araghchi: The Strait of Hormuz was supposed to be fully opened on the sixth day of this period. The US informed us that they agreed to these terms, but wanted to add a few more clauses.
+- 10/21 06:01 [financialjuice] Iran’s Foreign Minister Araghchi on the added conditions US wanted: We are not going to negotiate through your network.
+- 10/21 06:05 [financialjuice/FirstSquawk] Moody's ratings assigns Aa1 to consolidated HS Dist No 230, Cook County (Orland), IL's GO bonds; affirms outstanding ratings
+- 10/21 06:06 [financialjuice/FirstSquawk] S&P: Silgan Holdings ratings placed on credit watch negative over planned acquisition, strategic portfolio acceleration
+- 10/21 06:29 [financialjuice] Amazon: youth promise will open 10,000 work experience places to young people in the UK
+- 10/21 06:30 [financialjuice] Amazon: commits 30,000 jobs to youth in UK by 2030
+- 10/21 06:31 [financialjuice] Amazon: all youth promise roles start at more than £31,000 yearly pro rata with private medical insurance and pension access - website
+- 10/21 06:32 [financialjuice] Amazon expanding pre-employment programs including jobs project with Barnardo's to support 2,000 young people from 2027 to 2030
+- 10/21 06:32 [FirstSquawk] IRAN’S FOREIGN MINISTER ARAGHCHI SAYS NEGOTIATIONS WITH THE AMERICAN SIDE THROUGH INTERMEDIARY COUNTRIES, INCLUDING PAKISTAN AND QATAR, CONTINUE
+- 10/21 06:39 [FirstSquawk] NETFLIX SAYS ITS STRATEGY IS UNCHANGED AND THAT ORIGINAL SERIES AND FILMS ARE THE ANCHOR OF THAT STRATEGY, ADDING IT IS SEEING GOOD RESULTS IN APAC, LATAM AND EMEA
+- 10/21 06:39 [FirstSquawk] NETFLIX SAYS RECENT PRICE CHANGES HAVE GONE WELL BUT THAT IT CAN DO BETTER IN THE U.S. AND CANADA
+- 10/21 06:40 [FirstSquawk] CITADEL CEO GRIFFIN SAYS THERE ARE ALMOST CERTAINLY BUBBLES WITH AI RIGHT NOW, THOUGH BUBBLES COINCIDE WITH GIANT TECHNOLOGICAL ADVANCES, ADDING THAT COMPANIES ARE SCRUTINISING BILLS FROM ANTHROPIC AND OPENAI AND THAT SOME HAVE STRUGGLED TO…
+- 10/21 06:40 [FirstSquawk] CITADEL CEO GRIFFIN SAYS INVESTORS ARE BECOMING MORE DISCERNING IN THE AI BUILDOUT, AND THAT MOST OF CITADEL’S ALPHA COMES FROM HUMAN RESEARCHERS
+- 10/21 06:49 [financialjuice] Rba's Hauser: still finalising forecasts, uncertain about board decision
+- 10/21 06:49 [financialjuice] S. Korea Sept producer price index rises 7.7% y/y vs 7.9% in Aug:
+- 10/21 06:49 [financialjuice] RBA's Hauser: inflation outlook appears worse than forecast, slightly above expectations
+- 10/21 06:50 [financialjuice] RBA's Hauser: Companies cite cost pressures as top concern
+- 10/21 06:50 [financialjuice] RBA's Hauser: inflation has remained elevated for an extended period
+- 10/21 06:51 [financialjuice] RBA's Hauser: inflation expectations must stay anchored to target
+- 10/21 06:51 [financialjuice] RBA's Hauser: Observed some easing in job data and housing
+- 10/21 06:52 [financialjuice] RBA's Hauser: Monetary policy effective, but inflation outlook deteriorates
+- 10/21 06:55 [financialjuice] RBA's Hauser: Must respond to supply shocks to maintain inflation expectations
+- 10/21 07:00 [financialjuice] Poll: Japan government to maintain new bond issuance under 40 trillion yen for FY 2027, 65% of respondents say
+- 10/21 07:00 [financialjuice] Poll: Bank of Japan to increase benchmark interest rate to 1.50% in April: 69% of economists (vs 36% in September poll)
+- 10/21 07:00 [financialjuice] Poll: 72% of economists say dissenting votes against BoJ rate hike could weaken yen
+- 10/21 07:13 [financialjuice] Bas Hauser: quarterly trimmed mean likely to exceed expectations
+- 10/21 07:14 [financialjuice] RBA’s Hauser: You can't aim for current inflation, but it still matters
+- 10/21 07:14 [financialjuice] RBA's Hauser: capacity constraints more intense than anticipated
+- 10/21 07:18 [financialjuice] RBA's Hauser: September labor report was somewhat weaker than expected
+- 10/21 07:18 [financialjuice] RBA's Hauser: Unemployment remains low, but labor market is softening
+- 10/21 07:41 [FirstSquawk] RBA’S HAUSER SAYS THE SEPTEMBER LABOR REPORT WAS SOMEWHAT WEAKER THAN EXPECTED AND THAT CAPACITY CONSTRAINTS ARE MORE INTENSE THAN ANTICIPATED, ADDING THAT YOU CANNOT AIM FOR CURRENT INFLATION BUT IT STILL MATTERS
+- 10/21 08:09 [financialjuice] Witkoff to present Putin with peace plan after talks with Zelensky: Axios

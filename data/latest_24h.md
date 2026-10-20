@@ -7,43 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-21 05:53 JST／対象: 10/20 05:53 〜 10/21 05:53 JST（時刻はすべて日本時間）
+生成: 2026-10-21 08:32 JST／対象: 10/20 08:32 〜 10/21 08:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 48 | 10/20 05:56 | 10/21 01:35 | ⚠ 646分（08:30→19:17） |
-| FirstSquawk | 243 | 10/20 06:03 | 10/21 05:49 | ⚠ 85分（06:39→08:04） |
-| financialjuice | 270 | 10/20 06:27 | 10/21 05:53 | ⚠ 73分（12:42→13:55） |
+| DeItaone | 44 | 10/20 19:17 | 10/21 01:35 | 41分（00:53→01:35） |
+| FirstSquawk | 241 | 10/20 08:52 | 10/21 07:41 | ⚠ 77分（01:44→03:02） |
+| financialjuice | 291 | 10/20 09:18 | 10/21 08:09 | ⚠ 73分（12:42→13:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 544 行（統合前 565 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 557 行（統合前 580 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/20 05:56 [DeItaone] TRUMP THANKS ELON MUSK FOR SPACEX STOCK GIVEAWAY President Trump praised Elon Musk for pledging SpaceX shares to millions of American children through Trump Accounts. Trump called the initiative a major step toward giving children a stake i…
-- 10/20 06:03 [FirstSquawk] 3M SAYS IT HAS EXPANDED ITS STRATEGIC COMMERCIAL RELATIONSHIP WITH AN AMAZON SUBSIDIARY, ISSUING A WARRANT TO THE AMAZON SUBSIDIARY FOR 3,162,015 SHARES AT $164.89 PER SHARE
-- 10/20 06:03 [FirstSquawk] 3M SAYS 85% OF THE WARRANT SHARES VEST WITH AMAZON PAYMENTS, WITH FULL VESTING AT $6 BLN IN CUMULATIVE PAYMENTS - SEC FILING
-- 10/20 06:27 [FirstSquawk] BHP Q1 2027 ATTRIBUTABLE IRON ORE OUTPUT 66.45 MLN TONNES AND COPPER OUTPUT 400,700 TONNES
-- 10/20 06:27 [FirstSquawk] BHP STILL SEES FY IRON ORE OUTPUT 260 MLN TO 272 MLN TONNES AND FY COPPER OUTPUT 1.65 MLN TO 1.80 MLN TONNES
-- 10/20 06:27 [financialjuice] Former Google chief executive officer Eric Schmidt holds about 1% stake in Anthropic
-- 10/20 06:39 [FirstSquawk] NATIONAL AUSTRALIA BANK EXPECTS TO REDUCE ITS INTERNAL WORKFORCE BY UP TO 2,500 ROLES AND PLANS A SIGNIFICANT REDUCTION IN ITS USE OF CONSULTANTS AND EXTERNAL CONTRACTORS - SOURCES
-- 10/20 06:39 [FirstSquawk] NAB EXPECTS AN FY2027 PRETAX RESTRUCTURING CHARGE OF ABOUT A$300 MLN, SAYING THE RESTRUCTURING AIMS TO SIMPLIFY ITS OPERATING MODEL AND IMPROVE ORGANISATIONAL ALIGNMENT
-- 10/20 07:29 [financialjuice] Changzhou Microintelligence co- caps offer price at HK$21.46 per share in global offering
-- 10/20 07:34 [financialjuice] Hegseth meets Netanyahu during unannounced Israel trip: Axios
-- 10/20 07:39 [financialjuice] Trump administration has not authorized transfer of interceptor missiles to Ukraine: Washington Post
-- 10/20 07:40 [DeItaone] THE TRUMP ADMINISTRATION HAS NOT APPROVED THE TRANSFER OF INTERCEPTOR MISSILES TO UKRAINE - WASHINGTON POST
-- 10/20 08:04 [FirstSquawk] U.S. VICE PRESIDENT JD VANCE SAYS HE STILL DOES NOT KNOW WHAT HAPPENED WITH AMBASSADOR KIMBERLY GUILFOYLE
-- 10/20 08:06 [FirstSquawk] U.S. VICE PRESIDENT JD VANCE SAYS TED CRUZ IS A GUY WHO SAYS SOME WEIRD THINGS ABOUT HIM TO DONORS AND THAT HE PUSHES BACK WHEN CRUZ DOES, BUT OTHERWISE HE DOES NOT HAVE A PROBLEM WITH HIM
-- 10/20 08:06 [FirstSquawk] U.S. VICE PRESIDENT JD VANCE, ASKED WHETHER TRUMP WOULD ENDORSE HIM RIGHT AWAY IF HE RUNS IN 2028, SAYS HE DOES NOT KNOW BUT HIS ATTITUDE IS THAT IF HE RUNS HE THINKS TRUMP WOULD ENDORSE HIM, THOUGH THEY HAVE NOT TALKED ABOUT IT
-- 10/20 08:06 [FirstSquawk] U.S. VICE PRESIDENT JD VANCE SAYS TRUMP IS ALLOWED TO EARN A LIVING AND THAT HE SEES NO EVIDENCE TRUMP IS PROFITING OFF HIS OFFICE, ADDING HE HAS SEEN NO EVIDENCE THE TRUMP FAMILY IS SELLING ACCESS TO TRUMP OR OTHER PUBLIC OFFICIALS AND THA…
-- 10/20 08:14 [financialjuice] OpenAI rushes to lock in investor commitments for private round ahead of Anthropic IPO, sources say
-- 10/20 08:14 [financialjuice] SoftBank, MGX in discussions to join OpenAI fundraising round, source says
-- 10/20 08:29 [DeItaone] OPENAI RACES TO SECURE INVESTOR COMMITMENTS FOR PRIVATE ROUND BEFORE ANTHROPIC IPO, SOURCES SAY
-- 10/20 08:30 [DeItaone] OPENAI SEEKS $1.4 TRILLION VALUATION AHEAD OF ANTHROPIC IPO OpenAI is reportedly racing to raise $30 billion at a valuation exceeding $1.4 trillion before Anthropic’s expected November IPO. SoftBank and MGX are among potential investors. Op…
 - 10/20 08:52 [FirstSquawk] JAPAN EARLY TRADE: BENCHMARK 10-YEAR JGB FUTURES FALL 0.22 POINT, NIKKEI AVERAGE FUTURES FALL 0.12%
 - 10/20 08:52 [FirstSquawk] U.S. VP VANCE SAYS UKRAINE SHOULD NOT BE IN NATO AND THAT THE U.S. AND UKRAINE SOMETIMES HAVE DIVERGENT INTERESTS, ADDING THAT HE THINKS TRUMP WOULD ENDORSE HIM IF HE RUNS IN 2028
 - 10/20 09:15 [FirstSquawk] BYD Pursues a Patient Strategy to Gain Ground in Japan’s Auto Industry - FT
@@ -568,3 +548,36 @@
 - 10/21 05:49 [FirstSquawk] MUSK PREDICTS REACHING 100,000 STARLINK SATELLITES WITHIN 3 YEARS, INCREASING NETWORK CAPACITY 100 TIMES
 - 10/21 05:49 [financialjuice] MUSK: Would be surprised if we brought on less than 13 gigawatts of compute by the end of next year $SPCX
 - 10/21 05:53 [financialjuice] SpaceX CEO Musk: Annual recurring revenue by the end of 2027 is somewhere between $500 billion and a trillion. $SPCX
+- 10/21 06:00 [financialjuice] Iran’s Foreign Minister Araghchi: Our negotiations with the American side through intermediary countries, including Pakistan and Qatar, continue.
+- 10/21 06:00 [financialjuice] Iran’s Foreign Minister Araghchi: The Strait of Hormuz was supposed to be fully opened on the sixth day of this period. The US informed us that they agreed to these terms, but wanted to add a few more clauses.
+- 10/21 06:01 [financialjuice] Iran’s Foreign Minister Araghchi on the added conditions US wanted: We are not going to negotiate through your network.
+- 10/21 06:05 [financialjuice/FirstSquawk] Moody's ratings assigns Aa1 to consolidated HS Dist No 230, Cook County (Orland), IL's GO bonds; affirms outstanding ratings
+- 10/21 06:06 [financialjuice/FirstSquawk] S&P: Silgan Holdings ratings placed on credit watch negative over planned acquisition, strategic portfolio acceleration
+- 10/21 06:29 [financialjuice] Amazon: youth promise will open 10,000 work experience places to young people in the UK
+- 10/21 06:30 [financialjuice] Amazon: commits 30,000 jobs to youth in UK by 2030
+- 10/21 06:31 [financialjuice] Amazon: all youth promise roles start at more than £31,000 yearly pro rata with private medical insurance and pension access - website
+- 10/21 06:32 [financialjuice] Amazon expanding pre-employment programs including jobs project with Barnardo's to support 2,000 young people from 2027 to 2030
+- 10/21 06:32 [FirstSquawk] IRAN’S FOREIGN MINISTER ARAGHCHI SAYS NEGOTIATIONS WITH THE AMERICAN SIDE THROUGH INTERMEDIARY COUNTRIES, INCLUDING PAKISTAN AND QATAR, CONTINUE
+- 10/21 06:39 [FirstSquawk] NETFLIX SAYS ITS STRATEGY IS UNCHANGED AND THAT ORIGINAL SERIES AND FILMS ARE THE ANCHOR OF THAT STRATEGY, ADDING IT IS SEEING GOOD RESULTS IN APAC, LATAM AND EMEA
+- 10/21 06:39 [FirstSquawk] NETFLIX SAYS RECENT PRICE CHANGES HAVE GONE WELL BUT THAT IT CAN DO BETTER IN THE U.S. AND CANADA
+- 10/21 06:40 [FirstSquawk] CITADEL CEO GRIFFIN SAYS THERE ARE ALMOST CERTAINLY BUBBLES WITH AI RIGHT NOW, THOUGH BUBBLES COINCIDE WITH GIANT TECHNOLOGICAL ADVANCES, ADDING THAT COMPANIES ARE SCRUTINISING BILLS FROM ANTHROPIC AND OPENAI AND THAT SOME HAVE STRUGGLED TO…
+- 10/21 06:40 [FirstSquawk] CITADEL CEO GRIFFIN SAYS INVESTORS ARE BECOMING MORE DISCERNING IN THE AI BUILDOUT, AND THAT MOST OF CITADEL’S ALPHA COMES FROM HUMAN RESEARCHERS
+- 10/21 06:49 [financialjuice] Rba's Hauser: still finalising forecasts, uncertain about board decision
+- 10/21 06:49 [financialjuice] S. Korea Sept producer price index rises 7.7% y/y vs 7.9% in Aug:
+- 10/21 06:49 [financialjuice] RBA's Hauser: inflation outlook appears worse than forecast, slightly above expectations
+- 10/21 06:50 [financialjuice] RBA's Hauser: Companies cite cost pressures as top concern
+- 10/21 06:50 [financialjuice] RBA's Hauser: inflation has remained elevated for an extended period
+- 10/21 06:51 [financialjuice] RBA's Hauser: inflation expectations must stay anchored to target
+- 10/21 06:51 [financialjuice] RBA's Hauser: Observed some easing in job data and housing
+- 10/21 06:52 [financialjuice] RBA's Hauser: Monetary policy effective, but inflation outlook deteriorates
+- 10/21 06:55 [financialjuice] RBA's Hauser: Must respond to supply shocks to maintain inflation expectations
+- 10/21 07:00 [financialjuice] Poll: Japan government to maintain new bond issuance under 40 trillion yen for FY 2027, 65% of respondents say
+- 10/21 07:00 [financialjuice] Poll: Bank of Japan to increase benchmark interest rate to 1.50% in April: 69% of economists (vs 36% in September poll)
+- 10/21 07:00 [financialjuice] Poll: 72% of economists say dissenting votes against BoJ rate hike could weaken yen
+- 10/21 07:13 [financialjuice] Bas Hauser: quarterly trimmed mean likely to exceed expectations
+- 10/21 07:14 [financialjuice] RBA’s Hauser: You can't aim for current inflation, but it still matters
+- 10/21 07:14 [financialjuice] RBA's Hauser: capacity constraints more intense than anticipated
+- 10/21 07:18 [financialjuice] RBA's Hauser: September labor report was somewhat weaker than expected
+- 10/21 07:18 [financialjuice] RBA's Hauser: Unemployment remains low, but labor market is softening
+- 10/21 07:41 [FirstSquawk] RBA’S HAUSER SAYS THE SEPTEMBER LABOR REPORT WAS SOMEWHAT WEAKER THAN EXPECTED AND THAT CAPACITY CONSTRAINTS ARE MORE INTENSE THAN ANTICIPATED, ADDING THAT YOU CANNOT AIM FOR CURRENT INFLATION BUT IT STILL MATTERS
+- 10/21 08:09 [financialjuice] Witkoff to present Putin with peace plan after talks with Zelensky: Axios
