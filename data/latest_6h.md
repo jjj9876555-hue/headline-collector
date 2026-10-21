@@ -7,99 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-21 08:32 JST／対象: 10/21 02:32 〜 10/21 08:32 JST（時刻はすべて日本時間）
+生成: 2026-10-21 10:57 JST／対象: 10/21 04:57 〜 10/21 10:57 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 0 | - | - | - |
-| FirstSquawk | 54 | 10/21 03:02 | 10/21 07:41 | ⚠ 61分（06:40→07:41） |
-| financialjuice | 103 | 10/21 02:37 | 10/21 08:09 | ⚠ 50分（07:18→08:09） |
+| DeItaone | 1 | 10/21 09:46 | 10/21 09:46 | - |
+| FirstSquawk | 52 | 10/21 05:02 | 10/21 10:52 | ⚠ 101分（07:41→09:23） |
+| financialjuice | 74 | 10/21 05:03 | 10/21 10:24 | ⚠ 50分（07:18→08:09） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 146 行（統合前 159 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 122 行（統合前 128 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/21 02:37 [financialjuice] Finland President: On a substantive and technical level, we’ve made a lot of progress under the radar in the past week or so towards a peaceful solution to the war in Ukraine
-- 10/21 02:48 [financialjuice] US envoys Witkoff and Kushner's plans to visit Russia on October 21st are confirmed - TASS cites source
-- 10/21 02:56 [financialjuice] Iran's President Pezeshkian: Believe the US will attack again if we negotiate - Tasnim
-- 10/21 02:57 [financialjuice] OpenAI has acquired Orchestra Bio - Axios
-- 10/21 02:59 [financialjuice] BoE’s Greene: Have concerns over BoE estimate of target-consistent pay growth
-- 10/21 02:59 [financialjuice] BoE’s Greene: Wage growth of 3% consistent with 2% inflation
-- 10/21 03:00 [financialjuice] BoE’s Greene: Need more wage disinflation to meet CPI target
-- 10/21 03:02 [FirstSquawk] UK’S BURNHAM PLANS TO INTRODUCE LEGISLATION TO CUT THE BENEFITS BILL AS SOON AS APRIL - TELEGRAPH
-- 10/21 03:03 [FirstSquawk] FINLAND’S PRESIDENT, AFTER MEETING WITH UKRAINE’S ZELENSKIY AND U.S. ENVOY WITKOFF, SAYS THEY FOUND SOME ELEMENTS OF PEACE THAT WILL BE TAKEN FORWARD TO ST PETERSBURG TOMORROW
-- 10/21 03:04 [FirstSquawk] FINLAND’S PRESIDENT SAYS ON A SUBSTANTIVE AND TECHNICAL LEVEL THEY HAVE MADE A LOT OF PROGRESS UNDER THE RADAR IN THE PAST WEEK OR SO TOWARDS A PEACEFUL SOLUTION TO THE WAR IN UKRAINE
-- 10/21 03:05 [FirstSquawk] AWS SAYS TORCHNEUTRON HAS GONE INTO PUBLIC BETA WITH AN APACHE 2.0 LICENSE
-- 10/21 03:05 [financialjuice] BoE's Greene: People notice inflation when it is above 3%
-- 10/21 03:05 [FirstSquawk] U.S. IS NEARING A DEAL WITH RUSSIA TO FREE SOME JAILED AMERICANS - ABC
-- 10/21 03:06 [financialjuice] BoE's Greene: Will continue to have a lot of supply shocks
-- 10/21 03:07 [FirstSquawk] U.S. ENVOYS WITKOFF AND KUSHNER’S PLANS TO VISIT RUSSIA ON OCTOBER 21 ARE CONFIRMED - TASS CITES SOURCE
-- 10/21 03:11 [financialjuice] BoE's Greene: Need to worry that stance is not restrictive enough
-- 10/21 03:14 [financialjuice] BoE's Greene: Inflation expectations are anchored, above norms
-- 10/21 03:14 [financialjuice/FirstSquawk] Commander of the Pakistani army, and the accompanying delegation left Tehran an hour before and after the consultation with senior Iranian officials - IRNA
-- 10/21 03:14 [FirstSquawk] BOE’S GREENE SAYS MORE WAGE DISINFLATION IS NEEDED TO MEET THE CPI TARGET, ADDING THAT WAGE GROWTH OF 3% IS CONSISTENT WITH 2% INFLATION AND THAT SHE HAS CONCERNS OVER THE BOE’S ESTIMATE OF TARGET-CONSISTENT PAY GROWTH
-- 10/21 03:15 [FirstSquawk] BOE’S GREENE SAYS INFLATION EXPECTATIONS ARE ANCHORED BUT ABOVE NORMS, AND THAT THERE IS A NEED TO WORRY THAT THE POLICY STANCE IS NOT RESTRICTIVE ENOUGH
-- 10/21 03:18 [financialjuice] The US to offer Putin in-person talks with Zelenskyy and Trump - Politico
-- 10/21 03:21 [FirstSquawk] THE U.S. IS TO OFFER PUTIN IN-PERSON TALKS WITH ZELENSKIY AND TRUMP - POLITICO
-- 10/21 03:27 [financialjuice/FirstSquawk] Israel's Kan News citing security source: Operations against Iran will eventually resume, but likely not before Israeli and US midterm elections
-- 10/21 03:28 [financialjuice/FirstSquawk] Israeli fighter jets have been conducting exercises in Iraqi airspace near the Iranian border in recent days, according to foreign reports - Israel's Kan News
-- 10/21 03:31 [financialjuice] NYMEX WTI crude futures settle at $101.79 a barrel, down $1.87, 1.80%
-- 10/21 03:31 [financialjuice] NYMEX diesel Nov. futures settle at $4.9250 a gallon
-- 10/21 03:31 [financialjuice] NYMEX gasoline Nov. futures settle at $3.1172 a gallon
-- 10/21 03:32 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 1.81% LOWER AT $101.79/BBL, DOWN $1.87
-- 10/21 03:32 [financialjuice] AWS expected to get $5b of Nvidia GB300 racks - Insider $NVDA $AMZN
-- 10/21 03:33 [financialjuice] NYMEX Natural Gas November futures settle at $2.9630/MMBTU
-- 10/21 03:38 [financialjuice] Trump: Will be very strong on budget this year
-- 10/21 03:39 [financialjuice] Trump: We'll have more growth this year
-- 10/21 03:39 [FirstSquawk] AMAZON IS BUYING BILLIONS IN NVIDIA AI SYSTEMS IT CAN'T YET TURN ON – BUSINESS INSIDER
-- 10/21 03:39 [FirstSquawk] TRUMP SAYS THE U.S. WILL HAVE MORE GROWTH THIS YEAR AND WILL BE VERY STRONG ON THE BUDGET THIS YEAR
-- 10/21 03:40 [FirstSquawk] OIL PRICES CLIMB AMID GLOBAL MARKET SELL-OFF AS AI INVESTMENT CONCERNS DEEPEN
-- 10/21 03:42 [financialjuice/FirstSquawk] US Secretary of State Rubio: It is extremely difficult to reach an agreement with Iran, which is under the control of hardliners
-- 10/21 03:42 [financialjuice] WATCH LIVE: US Secretary of State Rubio Speaks
-- 10/21 03:43 [financialjuice] Trump on Iran: I have to make final decision which way to win.
-- 10/21 03:45 [financialjuice/FirstSquawk] US Secretary of State Rubio: What Iran is doing against commercial ships, we haven't seen the likes of since World War II
-- 10/21 03:47 [financialjuice] Brent Crude futures settle at $108.79/bbl, down 76 cents, 0.69%
-- 10/21 03:48 [FirstSquawk] TRUMP SAYS THE U.S. IS DECIDING WHETHER TO WIN AGAINST IRAN THE NICE WAY OR THE NOT-NICE WAY, ADDING THAT THE U.S. IS DOING VERY WELL WITH IRAN
-- 10/21 03:49 [financialjuice] Trump on Trump Accounts for adults: Looking at alternatives
-- 10/21 03:49 [financialjuice] Trump: Russia would like to get it done after the latest talks on Ukraine
-- 10/21 03:51 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 0.69% LOWER AT $108.79/BBL, DOWN 76 CENTS
-- 10/21 03:51 [financialjuice] Trump: Ukraine has to want to settle this war
-- 10/21 03:52 [financialjuice] Trump: We want Zelenskyy to make a deal
-- 10/21 03:56 [financialjuice] Trump: It's time for Ukraine to end this war
-- 10/21 03:57 [financialjuice] Trump: Asked Putin to free hubbard
-- 10/21 04:04 [FirstSquawk] TRUMP SAYS PUTIN AND ZELENSKIY DO NOT HAVE TO BE IN THE SAME ROOM TO SIGN A PEACE DEAL, ADDING THAT THE U.S. HAS GIVEN A LOT TO UKRAINE AND THAT IT IS TIME FOR UKRAINE TO END THIS WAR
-- 10/21 04:05 [financialjuice] No Canada-US trade deal expected before midterms - CBC
-- 10/21 04:10 [financialjuice] Trump on Vance 2028 run: I don't think we ever talked about it
-- 10/21 04:10 [financialjuice] Trump on endorsing Vance in 2028: Very early right now
-- 10/21 04:11 [FirstSquawk] US PRESIDENT TRUMP: INDIA TRADE DEAL IS ‘PRETTY CLOSE’
-- 10/21 04:12 [FirstSquawk] US PRESIDENT TRUMP: OIL PRICES WILL DROP SHARPLY WHEN IRAN WAR ENDS
-- 10/21 04:12 [FirstSquawk] TRUMP, ON ENDORSING VANCE IN 2028, SAYS IT IS VERY EARLY RIGHT NOW AND THAT HE DOES NOT THINK THEY EVER TALKED ABOUT A VANCE 2028 RUN
-- 10/21 04:14 [financialjuice] Trump ends remarks at the White House
-- 10/21 04:19 [financialjuice] Trump: I cannot reveal the content of Hegseth's conversation with Netanyahu
-- 10/21 04:22 [financialjuice] Wednesday FX Options Expriries
-- 10/21 04:27 [financialjuice] Google: Claude Opus 5.5 and Claude Sonnet 5.5 now accessible in Google Antigravity blog
-- 10/21 04:29 [financialjuice] US Sec. of Defense Hegseth: We haven't changed our posture in any way with the Ukrainians
-- 10/21 04:31 [financialjuice] Boeing gets us approval for the largest variant of the 737 MAX $BA
-- 10/21 04:32 [financialjuice] Anthropic posts net loss exceeding $80 billion in first half of this year: WSJ
-- 10/21 04:32 [financialjuice] ❗ Anthropic to spend more than $600b on compute - WSJ
-- 10/21 04:33 [financialjuice] Anthropic S-1 Shows Red-Hot Growth, Risks and Massive Computing Costs - WSJ
-- 10/21 04:37 [financialjuice] Anthropic is on the hook to pay around $450 billion in cloud computing agreements over the next seven to ten years - WSJ
-- 10/21 04:39 [financialjuice] Iran's Major General Yazidi: The operational control of the Strait of Hormuz is in the hands of the Iranian Armed Forces - IRNA
-- 10/21 04:39 [financialjuice] US Sec. of Defense Hegseth confirms he visited US troops in Israel, won't discuss private conversation with Prime Minister Netanyahu
-- 10/21 04:42 [financialjuice] Anthropic to spend up to $86b on renting Nvidia chips - WSJ $NVDA
-- 10/21 04:42 [financialjuice] Anthropic to spend $31b on Microsoft cloud computing deal - WSJ $MSFT
-- 10/21 04:43 [financialjuice] Anthropic to spend $111b on Google Cloud computing deal - WSJ
-- 10/21 04:45 [financialjuice/FirstSquawk] Iran's Nournews: Qatar delegation arrives in Tehran; no official confirmation
-- 10/21 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: -392.3 MLN NASDAQ 100: -424.3 MLN DOW 30: -1.0 MLN MAG 7: 117.4 MLN $MACRO
-- 10/21 04:52 [FirstSquawk] BOEING GETS US APPROVAL FOR THE LARGEST VARIANT OF THE 737 MAX
-- 10/21 04:54 [FirstSquawk] ANTHROPIC’S S-1 SHOWS RED-HOT GROWTH, RISKS AND MASSIVE COMPUTING COSTS, WITH THE COMPANY ON THE HOOK TO PAY AROUND $450 BLN IN CLOUD COMPUTING AGREEMENTS OVER THE NEXT SEVEN TO TEN YEARS AND SET TO SPEND MORE THAN $600 BLN ON COMPUTE - WSJ
-- 10/21 04:54 [FirstSquawk] ANTHROPIC POSTED A NET LOSS EXCEEDING $80 BLN IN THE FIRST HALF OF THIS YEAR - WSJ
-- 10/21 04:54 [FirstSquawk] ANTHROPIC IS TO SPEND $111 BLN ON A GOOGLE CLOUD COMPUTING DEAL, $31 BLN ON A MICROSOFT CLOUD COMPUTING DEAL AND UP TO $86 BLN ON RENTING NVIDIA CHIPS - WSJ
 - 10/21 05:02 [FirstSquawk] S&P 500 CLOSES 0.27% HIGHER AT 7,711.46, UP 20.73 POINTS
 - 10/21 05:03 [financialjuice] SpaceX Earnings Q3 2026
 - 10/21 05:03 [financialjuice] Netflix Q3 2026 Earnings EPS $0.87, est. $0.82 Revenue $12.87B, est. $12.87B Free Cash Flow $2.88B, est. $3.22B Q4 Revenue $13.44B, est. $13.51B Q4 EPS $0.67, est. $0.73 Q4 Operating Income $3.50B, est. $3.72B Q4 Operating Margin 26%, est. …
@@ -170,3 +94,55 @@
 - 10/21 07:18 [financialjuice] RBA's Hauser: Unemployment remains low, but labor market is softening
 - 10/21 07:41 [FirstSquawk] RBA’S HAUSER SAYS THE SEPTEMBER LABOR REPORT WAS SOMEWHAT WEAKER THAN EXPECTED AND THAT CAPACITY CONSTRAINTS ARE MORE INTENSE THAN ANTICIPATED, ADDING THAT YOU CANNOT AIM FOR CURRENT INFLATION BUT IT STILL MATTERS
 - 10/21 08:09 [financialjuice] Witkoff to present Putin with peace plan after talks with Zelensky: Axios
+- 10/21 08:42 [financialjuice] Nvidia in talks to invest hundreds of millions in Australian AI cloud provider Firmus - The Information
+- 10/21 08:50 [financialjuice] ❗ JAPANESE EXPORTS YOY ACTUAL 16.7% (FORECAST 21.3%, PREVIOUS 19.3%) $MACRO
+- 10/21 08:50 [financialjuice] ❗ JAPANESE TOTAL TRADE BALANCE ACTUAL -536.6B (FORECAST -210.4B, PREVIOUS -1,111.9B) $MACRO
+- 10/21 08:50 [financialjuice] Japan's September exports to U.S. rise 22.9% year/year: MOF
+- 10/21 08:50 [financialjuice] Japan September trade deficit widens to 536.6 billion yen: ministry of finance (poll: 181.0 billion yen)
+- 10/21 08:50 [financialjuice] Japan Sept exports to Asia rise 17.5% year/year: MOF
+- 10/21 08:50 [financialjuice] Japan Sep exports rise 16.7% year/year: MOF (poll 20.1%)
+- 10/21 08:50 [financialjuice] Japan Sept imports rise 18.9% year/year: MOF (poll 19.6%)
+- 10/21 08:50 [financialjuice] Japan's September exports to EU rise 10.5% year/year: MOF
+- 10/21 08:50 [financialjuice] Japan September exports to China rise 8.6% year on year: MOF
+- 10/21 09:00 [financialjuice] S.Korea Oct 1-20 trade surplus provisional $14.5 billion: customs agency
+- 10/21 09:00 [financialjuice] S. Korea Oct 1-20 imports rise 42.8% y/y: customs agency
+- 10/21 09:18 [financialjuice] China PBOC likely to fix yuan midpoint at 6.6779 per dollar – estimate
+- 10/21 09:23 [FirstSquawk] NVIDIA IN TALKS TO INVEST HUNDREDS OF MILLIONS OF DOLLARS IN AUSTRALIAN AI CLOUD PROVIDER FIRMUS – TIF
+- 10/21 09:24 [FirstSquawk] BRIGHTMINE SAYS UK MEDIAN PAY AWARDS EDGED UP TO 3.1% IN THE THREE MONTHS TO SEPTEMBER FROM 3.0% IN THE PERIODS TO AUGUST AND JULY, WITH LITTLE SIGN OF A SHIFT IN WAGE TRENDS AND MOST DEALS NOT EXCEEDING YEAR-EARLIER AWARDSBRIGHTMINE SAYS U…
+- 10/21 09:26 [FirstSquawk] ORACLE’S ELLISON WENT ON BORROWING SPREE TO FUND HIS SON’S WARNER BROS. BID – WSJ
+- 10/21 09:30 [financialjuice] Japan finance minister katayama: government coordinating closely with BoJ, no major divergence on inflation outlook, policy
+- 10/21 09:31 [financialjuice] Japan finance minister Katayama: tax cut boosts demand and drives up prices
+- 10/21 09:32 [financialjuice] Japan finmin Katayama: will ensure proactive, responsible fiscal policy enhances Japan's supply capacity, doesn't accelerate inflation
+- 10/21 09:36 [FirstSquawk] JAPAN’S FINANCE MINISTER KATAYAMA SAYS SHE WILL ENSURE PROACTIVE, RESPONSIBLE FISCAL POLICY ENHANCES JAPAN’S SUPPLY CAPACITY AND DOES NOT ACCELERATE INFLATION, ADDING THAT A TAX CUT BOOSTS DEMAND AND DRIVES UP PRICES
+- 10/21 09:36 [FirstSquawk] JAPAN’S FINANCE MINISTER KATAYAMA SAYS THE GOVERNMENT IS COORDINATING CLOSELY WITH THE BOJ, WITH NO MAJOR DIVERGENCE ON THE INFLATION OUTLOOK AND POLICY
+- 10/21 09:37 [financialjuice] U.S. Commerce Secretary announces fresh investment in North Carolina for semiconductor manufacturing
+- 10/21 09:40 [financialjuice] Trump: Pentagon to invest $1.5 billion in semiconductor chip production in North Carolina
+- 10/21 09:40 [FirstSquawk] U.S. COMMERCE SECRETARY ANNOUNCES A NEW INVESTMENT IN NORTH CAROLINA RELATED TO SEMICONDUCTOR PRODUCTION
+- 10/21 09:41 [FirstSquawk] TRUMP SAYS THE PENTAGON WILL INVEST $1.5 BLN TO PRODUCE SEMICONDUCTOR CHIPS IN NORTH CAROLINA
+- 10/21 09:46 [DeItaone] CITADEL’S KEN GRIFFIN: WE’RE ALMOST CERTAINLY IN AN AI BUBBLE Billionaire Ken Griffin warns investors are “almost certainly” in an AI bubble, as companies struggle to turn massive AI spending into measurable productivity gains. With Anthrop…
+- 10/21 09:49 [FirstSquawk] US COMMERCE SEC LUTNICK: SIBELCO TO BRING QUARTZ MANUFACTURING TO NORTH CAROLINA
+- 10/21 10:01 [financialjuice] Taiwan overnight interbank rate starts at 0.805% (unchanged from previous session)
+- 10/21 10:07 [FirstSquawk] Brent Oil Prices Jump to $110/Barrel as Middle East Tensions Fuel Supply Concerns
+- 10/21 10:07 [FirstSquawk] US Oil Futures Surge Past $99/Barrel as Middle East Tensions Raise Supply Concerns
+- 10/21 10:13 [FirstSquawk] Japan’s 2-Year JGB Yield Advances to 1.9%, Up 0.5 Basis Points
+- 10/21 10:13 [FirstSquawk] Japan’s 2-Year Bond Yield Advances to 1.9% Amid Market Moves
+- 10/21 10:15 [FirstSquawk] China’s PBOC Fixes Yuan Midpoint at 6.7192 Against the US Dollar
+- 10/21 10:17 [financialjuice] China sets yuan midpoint at strongest since February 2, 2023
+- 10/21 10:21 [financialjuice] China central bank injects 80 billion yuan through overnight reverse repos: statement
+- 10/21 10:21 [FirstSquawk] Taiwan Overnight Interbank Lending Rate Holds Steady at 0.805%
+- 10/21 10:21 [financialjuice] China cbank: 7-day reverse repo volume at zero on Wednesday - statement
+- 10/21 10:22 [FirstSquawk] PBOC Injects 80 Billion Yuan via Overnight Reverse Repos, Sets 7-Day Volume at Zero
+- 10/21 10:24 [financialjuice] China Sept survey-based jobless rate for 16-24 year olds excluding college students: 18.0% vs 18.9% in prior month - stats bureau
+- 10/21 10:24 [financialjuice] China sept survey-based unemployment rate for 30-59 year-olds at 3.9% vs 3.9% in prior month: stats bureau
+- 10/21 10:24 [FirstSquawk] China’s September Survey-Based Unemployment Rate for 30–59-Year-Olds Stays at 3.9%, Stats Bureau Says
+- 10/21 10:24 [FirstSquawk] China’s Survey-Based Unemployment Rate for 25–29-Year-Olds Drops to 7.4% in September, Stats Bureau Says
+- 10/21 10:25 [FirstSquawk] China Reports Lower September Unemployment Rate of 18.0% Among 16–24-Year-Olds Excluding College Students
+- 10/21 10:38 [FirstSquawk] Japan’s Nikkei Advances 1.8% Amid Stronger Risk Sentiment and Potential Bargain-Hunting - WSJ
+- 10/21 10:39 [FirstSquawk] Gold Comes Under Pressure as Higher Oil Prices Weigh on Market Sentiment - WSJ
+- 10/21 10:39 [FirstSquawk] Japanese 20-Year Government Bonds Rise Following Record Demand at Auction - WSJ
+- 10/21 10:39 [FirstSquawk] Asian Currencies Hold Steady Amid Consolidation, With Risk Sentiment Providing a Potential Boost - WSJ
+- 10/21 10:40 [FirstSquawk] Taiwan’s Currency Loses Ground, Weakening to 32.704 per US Dollar
+- 10/21 10:41 [FirstSquawk] PetroVietnam Gas Looks to Procure Spot LNG Cargo of 3.4 Million MMBtu for November 9–12
+- 10/21 10:46 [FirstSquawk] South Korean Stocks Jump at Open as Investors Await Meta Earnings Amid AI Worries
+- 10/21 10:52 [FirstSquawk] Taiwan Equities Surge Over 2% as Buying Momentum Strengthens
+- 10/21 10:52 [FirstSquawk] South Korea Triggers KOSPI Sidecar as KOSPI 200 Futures Jump 5%, Suspending Program Trading for 5 Minutes

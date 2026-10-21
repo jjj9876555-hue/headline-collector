@@ -7,75 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-21 08:32 JST／対象: 10/20 08:32 〜 10/21 08:32 JST（時刻はすべて日本時間）
+生成: 2026-10-21 10:57 JST／対象: 10/20 10:57 〜 10/21 10:57 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 44 | 10/20 19:17 | 10/21 01:35 | 41分（00:53→01:35） |
-| FirstSquawk | 241 | 10/20 08:52 | 10/21 07:41 | ⚠ 77分（01:44→03:02） |
-| financialjuice | 291 | 10/20 09:18 | 10/21 08:09 | ⚠ 73分（12:42→13:55） |
+| DeItaone | 45 | 10/20 19:17 | 10/21 09:46 | ⚠ 491分（01:35→09:46） |
+| FirstSquawk | 235 | 10/20 11:00 | 10/21 10:52 | ⚠ 101分（07:41→09:23） |
+| financialjuice | 296 | 10/20 11:00 | 10/21 10:24 | ⚠ 73分（12:42→13:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 557 行（統合前 580 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 557 行（統合前 581 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/20 08:52 [FirstSquawk] JAPAN EARLY TRADE: BENCHMARK 10-YEAR JGB FUTURES FALL 0.22 POINT, NIKKEI AVERAGE FUTURES FALL 0.12%
-- 10/20 08:52 [FirstSquawk] U.S. VP VANCE SAYS UKRAINE SHOULD NOT BE IN NATO AND THAT THE U.S. AND UKRAINE SOMETIMES HAVE DIVERGENT INTERESTS, ADDING THAT HE THINKS TRUMP WOULD ENDORSE HIM IF HE RUNS IN 2028
-- 10/20 09:15 [FirstSquawk] BYD Pursues a Patient Strategy to Gain Ground in Japan’s Auto Industry - FT
-- 10/20 09:18 [financialjuice] China PBOC forecast to set yuan midpoint at 6.6813 per dollar: estimate
-- 10/20 09:18 [FirstSquawk] Trump Says He Urged Macron Years Ago to Shut France’s Borders, Warning the Country Would Lose
-- 10/20 09:22 [FirstSquawk] Trump Envoys Prepare for Another Round of Ukraine Talks as Energy Crunch Weighs on Midterm Outlook - FT
-- 10/20 09:26 [FirstSquawk] Trump Says NATO Allies Refused to Assist the US in Its War With Iran - FT
-- 10/20 09:34 [FirstSquawk] Trump Says US Could Be Forced to Leave Europe, Calling the Situation “Very Serious”
-- 10/20 09:35 [financialjuice] Poll: Bank of Korea to raise base rate to 3.25% in November 2026, say 28 of 33 economists
-- 10/20 09:35 [financialjuice] Poll: Bank of Korea to maintain base rate at 3% at October 22 meeting, all 34 economists say
-- 10/20 09:36 [FirstSquawk] ASIAN STOCKS FELL 0.3% DESPITE A WALL STREET REBOUND, WITH SOUTH KOREA LEADING DECLINES AS INVESTORS REMAIN CAUTIOUS OVER AI SPENDING AND HIGHER INTEREST RATES. UPCOMING EARNINGS FROM META AND TESLA WILL TEST WHETHER CORPORATE PROFITS CAN J…
-- 10/20 09:37 [FirstSquawk] OIL HELD NEAR ELEVATED LEVELS AMID MIDDLE EAST SUPPLY RISKS, WHILE US 10-YEAR TREASURY YIELDS REMAINED AT 5.14% AFTER RISING SEVEN BASIS POINTS. GOLD SLIPPED TO AROUND $4,130 AN OUNCE, WHILE FRENCH POLITICAL UNREST ADDED PRESSURE TO EUROPEA…
-- 10/20 09:40 [FirstSquawk] AI and Semiconductor Stocks Recover, Lifting Nasdaq as Investors Await Major Corporate Earnings Reports
-- 10/20 09:44 [FirstSquawk] South Korea Pledges Strong Retaliation Against Any North Korean Provocation: Yonhap
-- 10/20 09:45 [financialjuice] South Korea joint chiefs chairman: respond firmly if North Korea launches more provocations
-- 10/20 09:49 [FirstSquawk] China Revises Export Control Measures for Certain Drone Items, With Changes Taking Effect November 18, 2026
-- 10/20 09:50 [financialjuice] Trump: Mexico, US near major agreement
-- 10/20 09:51 [FirstSquawk] Fed Warns AI Boom Could Worsen Inflation, Leaving Others to Pay the Price of Containing It
-- 10/20 09:51 [FirstSquawk] Trump Announces Progress Toward Major Agreement Between US and Mexico
-- 10/20 09:57 [financialjuice] Japan economy minister Kiuchi: hopes to join this month's BoJ policy meeting if schedule allows
-- 10/20 09:57 [financialjuice] Japan economy minister Kiuchi: respect BoJ's autonomy in monetary policy as outlined in BoJ law
-- 10/20 09:57 [financialjuice] Japan economy minister kiuchi: have never considered asking to postpone vote in BoJ meetings
-- 10/20 09:59 [FirstSquawk] Japan’s Economy Minister Kiuchi Signals Possible Attendance at This Month’s BOJ Meeting
-- 10/20 10:00 [FirstSquawk] Japan Economy Minister Kiuchi Pledges to Respect BOJ Autonomy in Monetary Policy Decisions
-- 10/20 10:00 [FirstSquawk] Japan Economy Minister Kiuchi Rules Out Having Considered Delaying Votes at BOJ Meetings
-- 10/20 10:00 [financialjuice] ‼ BREAKING: PBOC INTEREST RATE 1 YR ACTUAL 3.00% (FORECAST 3%, PREVIOUS 3.00%) $MACRO
-- 10/20 10:00 [financialjuice] ❗ PBOC INTEREST RATE 5 YR ACTUAL 3.50% (FORECAST 3.5%, PREVIOUS 3.50%) $MACRO
-- 10/20 10:00 [financialjuice] China sets one-year loan prime rate at 3.00% vs 3.00% a month earlier
-- 10/20 10:00 [financialjuice] Taiwan overnight interbank rate starts at 0.805% vs previous session open at 0.805%
-- 10/20 10:02 [FirstSquawk] China Leaves 1-Year Loan Prime Rate Unchanged at 3.00%, in Line With Expectations
-- 10/20 10:02 [FirstSquawk] China Keeps 5-Year Loan Prime Rate Unchanged at 3.50%, in Line With Expectations
-- 10/20 10:05 [FirstSquawk] Beijing’s Push for AI Growth Comes at a Cost to China’s Rural Communities: FT
-- 10/20 10:06 [FirstSquawk] Starboard Targets Honeywell Spin-Off Solstice After Failed Megadeal, Pushes for $100 Million in Cost Cuts: FT
-- 10/20 10:07 [FirstSquawk] Jio Platforms Targets Record-Breaking Indian IPO Despite Market Downturn and Musk’s Pressure - FT
-- 10/20 10:09 [FirstSquawk] Trump Says Iran Has Lost Its Commanders After US Strikes Destroyed Radars and Air Defenses - AJABreaking
-- 10/20 10:13 [financialjuice] Japan finmin Katayama: no decisions made on funding expected defense spending increase
-- 10/20 10:14 [FirstSquawk] Japan Finance Minister Katayama: Funding for Expected Defense Spending Hike Remains Undecided
-- 10/20 10:14 [financialjuice] Japan finmin Katayama: will consider measures to ensure stable funding while focusing on fiscal sustainability
-- 10/20 10:15 [financialjuice] Japan finmin Katayama: government discusses defense spending
-- 10/20 10:16 [FirstSquawk] Japan Finance Minister Katayama Says Funding Options Will Be Considered With Fiscal Sustainability in Focus
-- 10/20 10:16 [financialjuice] Trump: Department of Agriculture to introduce new harvest fuel aid program, giving farmers $8 billion in assistance
-- 10/20 10:17 [FirstSquawk] Japan Continues Government-Level Discussions on Defense Spending: Finance Minister Katayama
-- 10/20 10:18 [FirstSquawk] Trump Says Agriculture Department Will Roll Out $8 Billion Support Program for Farmers Facing Harvest Fuel Costs
-- 10/20 10:18 [financialjuice] China sets yuan mid-point at strongest level since Feb. 2, 2023
-- 10/20 10:23 [financialjuice] China conducts no 7-day reverse repos: statement
-- 10/20 10:24 [FirstSquawk] China Fixes Yuan Reference Rate at Highest Level in More Than Three Years
-- 10/20 10:31 [FirstSquawk] Havana Accuses Washington of Turning a Blind Eye to Terrorism After Speedboat Raid
-- 10/20 10:38 [financialjuice] South Korea defence ministry: warning broadcasts and gunfire near MDL are valid defensive actions
-- 10/20 10:41 [FirstSquawk] Asian Currencies Trade in Narrow Ranges as Signals Remain Mixed: WSJ
-- 10/20 10:47 [FirstSquawk] Japanese Government Bonds Fall, Tracking Declines in US Treasurys: WSJ
-- 10/20 10:53 [FirstSquawk] Crude Prices Ease Amid Lingering Supply-Side Risks: WSJ
-- 10/20 10:53 [FirstSquawk] Japan’s Nikkei Slips Amid AI-Related Worries and High Bond Yields: WSJ
 - 10/20 11:00 [financialjuice] China's Neolix closes nearly $400 million series E funding, pushing total investment above $1.4 billion
 - 10/20 11:00 [FirstSquawk] Japan Cyberattacks Linked to China-Associated AI Agent, Security Firm Finds: Kyodo
 - 10/20 11:08 [FirstSquawk] Sterling Advances Amid Diverging Federal Reserve and Bank of England Outlooks
@@ -581,3 +529,55 @@
 - 10/21 07:18 [financialjuice] RBA's Hauser: Unemployment remains low, but labor market is softening
 - 10/21 07:41 [FirstSquawk] RBA’S HAUSER SAYS THE SEPTEMBER LABOR REPORT WAS SOMEWHAT WEAKER THAN EXPECTED AND THAT CAPACITY CONSTRAINTS ARE MORE INTENSE THAN ANTICIPATED, ADDING THAT YOU CANNOT AIM FOR CURRENT INFLATION BUT IT STILL MATTERS
 - 10/21 08:09 [financialjuice] Witkoff to present Putin with peace plan after talks with Zelensky: Axios
+- 10/21 08:42 [financialjuice] Nvidia in talks to invest hundreds of millions in Australian AI cloud provider Firmus - The Information
+- 10/21 08:50 [financialjuice] ❗ JAPANESE EXPORTS YOY ACTUAL 16.7% (FORECAST 21.3%, PREVIOUS 19.3%) $MACRO
+- 10/21 08:50 [financialjuice] ❗ JAPANESE TOTAL TRADE BALANCE ACTUAL -536.6B (FORECAST -210.4B, PREVIOUS -1,111.9B) $MACRO
+- 10/21 08:50 [financialjuice] Japan's September exports to U.S. rise 22.9% year/year: MOF
+- 10/21 08:50 [financialjuice] Japan September trade deficit widens to 536.6 billion yen: ministry of finance (poll: 181.0 billion yen)
+- 10/21 08:50 [financialjuice] Japan Sept exports to Asia rise 17.5% year/year: MOF
+- 10/21 08:50 [financialjuice] Japan Sep exports rise 16.7% year/year: MOF (poll 20.1%)
+- 10/21 08:50 [financialjuice] Japan Sept imports rise 18.9% year/year: MOF (poll 19.6%)
+- 10/21 08:50 [financialjuice] Japan's September exports to EU rise 10.5% year/year: MOF
+- 10/21 08:50 [financialjuice] Japan September exports to China rise 8.6% year on year: MOF
+- 10/21 09:00 [financialjuice] S.Korea Oct 1-20 trade surplus provisional $14.5 billion: customs agency
+- 10/21 09:00 [financialjuice] S. Korea Oct 1-20 imports rise 42.8% y/y: customs agency
+- 10/21 09:18 [financialjuice] China PBOC likely to fix yuan midpoint at 6.6779 per dollar – estimate
+- 10/21 09:23 [FirstSquawk] NVIDIA IN TALKS TO INVEST HUNDREDS OF MILLIONS OF DOLLARS IN AUSTRALIAN AI CLOUD PROVIDER FIRMUS – TIF
+- 10/21 09:24 [FirstSquawk] BRIGHTMINE SAYS UK MEDIAN PAY AWARDS EDGED UP TO 3.1% IN THE THREE MONTHS TO SEPTEMBER FROM 3.0% IN THE PERIODS TO AUGUST AND JULY, WITH LITTLE SIGN OF A SHIFT IN WAGE TRENDS AND MOST DEALS NOT EXCEEDING YEAR-EARLIER AWARDSBRIGHTMINE SAYS U…
+- 10/21 09:26 [FirstSquawk] ORACLE’S ELLISON WENT ON BORROWING SPREE TO FUND HIS SON’S WARNER BROS. BID – WSJ
+- 10/21 09:30 [financialjuice] Japan finance minister katayama: government coordinating closely with BoJ, no major divergence on inflation outlook, policy
+- 10/21 09:31 [financialjuice] Japan finance minister Katayama: tax cut boosts demand and drives up prices
+- 10/21 09:32 [financialjuice] Japan finmin Katayama: will ensure proactive, responsible fiscal policy enhances Japan's supply capacity, doesn't accelerate inflation
+- 10/21 09:36 [FirstSquawk] JAPAN’S FINANCE MINISTER KATAYAMA SAYS SHE WILL ENSURE PROACTIVE, RESPONSIBLE FISCAL POLICY ENHANCES JAPAN’S SUPPLY CAPACITY AND DOES NOT ACCELERATE INFLATION, ADDING THAT A TAX CUT BOOSTS DEMAND AND DRIVES UP PRICES
+- 10/21 09:36 [FirstSquawk] JAPAN’S FINANCE MINISTER KATAYAMA SAYS THE GOVERNMENT IS COORDINATING CLOSELY WITH THE BOJ, WITH NO MAJOR DIVERGENCE ON THE INFLATION OUTLOOK AND POLICY
+- 10/21 09:37 [financialjuice] U.S. Commerce Secretary announces fresh investment in North Carolina for semiconductor manufacturing
+- 10/21 09:40 [financialjuice] Trump: Pentagon to invest $1.5 billion in semiconductor chip production in North Carolina
+- 10/21 09:40 [FirstSquawk] U.S. COMMERCE SECRETARY ANNOUNCES A NEW INVESTMENT IN NORTH CAROLINA RELATED TO SEMICONDUCTOR PRODUCTION
+- 10/21 09:41 [FirstSquawk] TRUMP SAYS THE PENTAGON WILL INVEST $1.5 BLN TO PRODUCE SEMICONDUCTOR CHIPS IN NORTH CAROLINA
+- 10/21 09:46 [DeItaone] CITADEL’S KEN GRIFFIN: WE’RE ALMOST CERTAINLY IN AN AI BUBBLE Billionaire Ken Griffin warns investors are “almost certainly” in an AI bubble, as companies struggle to turn massive AI spending into measurable productivity gains. With Anthrop…
+- 10/21 09:49 [FirstSquawk] US COMMERCE SEC LUTNICK: SIBELCO TO BRING QUARTZ MANUFACTURING TO NORTH CAROLINA
+- 10/21 10:01 [financialjuice] Taiwan overnight interbank rate starts at 0.805% (unchanged from previous session)
+- 10/21 10:07 [FirstSquawk] Brent Oil Prices Jump to $110/Barrel as Middle East Tensions Fuel Supply Concerns
+- 10/21 10:07 [FirstSquawk] US Oil Futures Surge Past $99/Barrel as Middle East Tensions Raise Supply Concerns
+- 10/21 10:13 [FirstSquawk] Japan’s 2-Year JGB Yield Advances to 1.9%, Up 0.5 Basis Points
+- 10/21 10:13 [FirstSquawk] Japan’s 2-Year Bond Yield Advances to 1.9% Amid Market Moves
+- 10/21 10:15 [FirstSquawk] China’s PBOC Fixes Yuan Midpoint at 6.7192 Against the US Dollar
+- 10/21 10:17 [financialjuice] China sets yuan midpoint at strongest since February 2, 2023
+- 10/21 10:21 [financialjuice] China central bank injects 80 billion yuan through overnight reverse repos: statement
+- 10/21 10:21 [FirstSquawk] Taiwan Overnight Interbank Lending Rate Holds Steady at 0.805%
+- 10/21 10:21 [financialjuice] China cbank: 7-day reverse repo volume at zero on Wednesday - statement
+- 10/21 10:22 [FirstSquawk] PBOC Injects 80 Billion Yuan via Overnight Reverse Repos, Sets 7-Day Volume at Zero
+- 10/21 10:24 [financialjuice] China Sept survey-based jobless rate for 16-24 year olds excluding college students: 18.0% vs 18.9% in prior month - stats bureau
+- 10/21 10:24 [financialjuice] China sept survey-based unemployment rate for 30-59 year-olds at 3.9% vs 3.9% in prior month: stats bureau
+- 10/21 10:24 [FirstSquawk] China’s September Survey-Based Unemployment Rate for 30–59-Year-Olds Stays at 3.9%, Stats Bureau Says
+- 10/21 10:24 [FirstSquawk] China’s Survey-Based Unemployment Rate for 25–29-Year-Olds Drops to 7.4% in September, Stats Bureau Says
+- 10/21 10:25 [FirstSquawk] China Reports Lower September Unemployment Rate of 18.0% Among 16–24-Year-Olds Excluding College Students
+- 10/21 10:38 [FirstSquawk] Japan’s Nikkei Advances 1.8% Amid Stronger Risk Sentiment and Potential Bargain-Hunting - WSJ
+- 10/21 10:39 [FirstSquawk] Gold Comes Under Pressure as Higher Oil Prices Weigh on Market Sentiment - WSJ
+- 10/21 10:39 [FirstSquawk] Japanese 20-Year Government Bonds Rise Following Record Demand at Auction - WSJ
+- 10/21 10:39 [FirstSquawk] Asian Currencies Hold Steady Amid Consolidation, With Risk Sentiment Providing a Potential Boost - WSJ
+- 10/21 10:40 [FirstSquawk] Taiwan’s Currency Loses Ground, Weakening to 32.704 per US Dollar
+- 10/21 10:41 [FirstSquawk] PetroVietnam Gas Looks to Procure Spot LNG Cargo of 3.4 Million MMBtu for November 9–12
+- 10/21 10:46 [FirstSquawk] South Korean Stocks Jump at Open as Investors Await Meta Earnings Amid AI Worries
+- 10/21 10:52 [FirstSquawk] Taiwan Equities Surge Over 2% as Buying Momentum Strengthens
+- 10/21 10:52 [FirstSquawk] South Korea Triggers KOSPI Sidecar as KOSPI 200 Futures Jump 5%, Suspending Program Trading for 5 Minutes
