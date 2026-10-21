@@ -7,160 +7,167 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-21 16:26 JST／対象: 10/21 10:26 〜 10/21 16:26 JST（時刻はすべて日本時間）
+生成: 2026-10-21 22:08 JST／対象: 10/21 16:08 〜 10/21 22:08 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 0 | - | - | - |
-| FirstSquawk | 89 | 10/21 10:38 | 10/21 16:20 | ⚠ 53分（10:52→11:46） |
-| financialjuice | 52 | 10/21 11:25 | 10/21 16:18 | ⚠ 54分（13:35→14:30） |
+| DeItaone | 15 | 10/21 19:28 | 10/21 21:20 | 21分（20:09→20:30） |
+| FirstSquawk | 54 | 10/21 16:10 | 10/21 21:35 | 30分（16:20→16:51） |
+| financialjuice | 82 | 10/21 16:11 | 10/21 22:06 | ⚠ 91分（16:18→17:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 140 行（統合前 141 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 147 行（統合前 153 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/21 10:38 [FirstSquawk] Japan’s Nikkei Advances 1.8% Amid Stronger Risk Sentiment and Potential Bargain-Hunting - WSJ
-- 10/21 10:39 [FirstSquawk] Gold Comes Under Pressure as Higher Oil Prices Weigh on Market Sentiment - WSJ
-- 10/21 10:39 [FirstSquawk] Japanese 20-Year Government Bonds Rise Following Record Demand at Auction - WSJ
-- 10/21 10:39 [FirstSquawk] Asian Currencies Hold Steady Amid Consolidation, With Risk Sentiment Providing a Potential Boost - WSJ
-- 10/21 10:40 [FirstSquawk] Taiwan’s Currency Loses Ground, Weakening to 32.704 per US Dollar
-- 10/21 10:41 [FirstSquawk] PetroVietnam Gas Looks to Procure Spot LNG Cargo of 3.4 Million MMBtu for November 9–12
-- 10/21 10:46 [FirstSquawk] South Korean Stocks Jump at Open as Investors Await Meta Earnings Amid AI Worries
-- 10/21 10:52 [FirstSquawk] Taiwan Equities Surge Over 2% as Buying Momentum Strengthens
-- 10/21 10:52 [FirstSquawk] South Korea Triggers KOSPI Sidecar as KOSPI 200 Futures Jump 5%, Suspending Program Trading for 5 Minutes
-- 10/21 11:25 [financialjuice] Russian drones kill two in Ukraine's Kharkiv region overnight: authorities
-- 10/21 11:46 [FirstSquawk] Asian Shares Advance as Robust Corporate Earnings Lift US Stocks
-- 10/21 11:49 [FirstSquawk] COSCO Develops New Shipping Routes as Iran Conflict and Climate Risks Disrupt Trade - SCMP
-- 10/21 11:52 [FirstSquawk] Personnel Information From 22 of Japan’s Prefectural Police Forces May Have Been Exposed - KYODO
-- 10/21 11:55 [FirstSquawk] BBC Reduces Workforce by 100 Jobs and Pulls Channels Amid Financial Pressures - SCMP
-- 10/21 12:01 [FirstSquawk] OpenAI Reports AI Agents Compromised Internal Monitoring Capabilities – RTRS
-- 10/21 12:05 [FirstSquawk] Piper Sandler Cuts Netflix Price Target to $78 From $85
-- 10/21 12:07 [FirstSquawk] Citigroup Raises SpaceX Price Target to $240 From $200
-- 10/21 12:07 [financialjuice] China Jan-Sep total power use rises 3.9% to 8.07 trillion kWh: energy bureau
-- 10/21 12:08 [FirstSquawk] China Reports 3.9% Growth in Electricity Consumption to 8.07 Trillion kWh in First Nine Months
-- 10/21 12:12 [FirstSquawk] Singapore Dollar Eases Lower as Higher Treasury Yields Offer Support to the U.S. Dollar - WSJ
-- 10/21 12:14 [FirstSquawk] North Korea Steps Up Missile Launches in Potential Test of Trump’s Response During Second Term, Analysis Says
-- 10/21 12:17 [FirstSquawk] US Stocks Could Soon Trade During Normal Business Hours in Japan - NA
-- 10/21 12:19 [financialjuice] South Korean President Lee: Government preparing to reduce mandatory domestic fuel supply, allow refiners to increase exports
-- 10/21 12:19 [FirstSquawk] President Lee Says South Korea Preparing to Reduce Mandatory Domestic Fuel Supplies and Boost Refinery Exports
-- 10/21 12:24 [FirstSquawk] AI Adoption Remains Limited in Hong Kong, With Only 3% of Firms Fully Integrating the Technology - SCMP
-- 10/21 12:37 [financialjuice] China finance ministry issues 7-year bonds with 1.4241% yield: traders
-- 10/21 12:40 [FirstSquawk] China’s 3-Month Bill Auction Clears at 1.1222% Yield, Traders Report
-- 10/21 12:41 [FirstSquawk] China’s 7-Year Bond Auction Clears at 1.4241% Yield, Traders Report
-- 10/21 12:53 [FirstSquawk] South Korean President Lee Urges Police to Reform Practices and Establish Independent Oversight of Investigations - YONHAP
-- 10/21 12:54 [FirstSquawk] Four Drones Targeting Saudi Arabia Intercepted and Destroyed, Coalition Says
-- 10/21 12:54 [financialjuice] Saudi-led coalition: four drones targeting Saudi Arabia intercepted and destroyed, coalition spokesperson
-- 10/21 12:55 [financialjuice] Saudi-led coalition: drones intercepted and destroyed in Medina and eastern areas, spokesperson says
-- 10/21 12:56 [FirstSquawk] Drones Intercepted and Destroyed in Medina and Eastern Saudi Arabia, Coalition Says
-- 10/21 13:06 [FirstSquawk] Chinese Naval Forces Monitor US Warship Operating Near Disputed South China Sea Shoal
-- 10/21 13:10 [FirstSquawk] Crypto Exchanges Race To Offer Prediction Markets To US Customers – FT
-- 10/21 13:10 [FirstSquawk] Israeli PM Netanyahu Pushes To Resume Strikes Against Iran – FT
-- 10/21 13:10 [FirstSquawk] Castore Also In Talks Over Potential Sale With US Buyers – FT
-- 10/21 13:10 [FirstSquawk] EU Probes Pro-kremlin Disinformation Around French Riots – FT
-- 10/21 13:10 [FirstSquawk] UK Chancellor Healey Squashes Hopes Of Visa For Wealthy In UK Budget – FT
-- 10/21 13:10 [FirstSquawk] UK’s Top Banking Regulator To Set Targets With Five-Year Strategy – FT
-- 10/21 13:11 [financialjuice] I'm not going to comment on what was known or unknown about Starlink's role in Ukraine
-- 10/21 13:12 [FirstSquawk] Rubio Declines to Comment on US Knowledge of Starlink’s Actions in Ukraine
-- 10/21 13:14 [financialjuice] US Secretary of State Rubio: foreknowledge of Starlink cut wouldn’t be relevant
-- 10/21 13:14 [financialjuice] US Secretary of State Rubio: I won’t comment on what was known about Starlink's role in Ukraine
-- 10/21 13:14 [FirstSquawk] US Secretary of State Rubio: Foreknowledge of Starlink Cut Would Not Be Relevant
-- 10/21 13:16 [financialjuice] Hong Kong China finance minister: APEC demonstrates stronger responsibility in fostering open cooperation and enhancing macro policy coordination among members
-- 10/21 13:16 [financialjuice] China finance minister: China prioritizes mutually beneficial ties among Asia-Pacific economies
-- 10/21 13:16 [financialjuice] China finance minister: consensus reached on boosting practical financial cooperation, enhancing regional integration and advancing Asia-Pacific community
-- 10/21 13:16 [financialjuice] China finance minister: Meeting agrees on enhancing communication, coordination of macroeconomic policies
-- 10/21 13:16 [financialjuice] China finance minister: members back private sector financing, boost innovation funding, urge regional development banks to act as catalysts
-- 10/21 13:16 [financialjuice] China finance minister: members back fiscal policies to encourage household spending, strengthen domestic demand, and enhance productivity
-- 10/21 13:16 [financialjuice] China finance minister: APEC finance ministers’ meeting endorses joint statement on boosting cooperation in digital finance infrastructure
-- 10/21 13:16 [financialjuice] US Secretary of State Rubio: declines to comment on Indian domestic political matters
-- 10/21 13:16 [FirstSquawk] Japan’s 10-Year JGB Yield Falls 0.5 Basis Point to 2.890%
-- 10/21 13:19 [financialjuice/FirstSquawk] US Secretary of State Rubio: Witkoff heading to St Petersburg
-- 10/21 13:20 [FirstSquawk] Hong Kong-China Finance Minister: APEC has demonstrated a stronger commitment to promoting open cooperation among member economies and enhancing macroeconomic policy coordination.
-- 10/21 13:20 [FirstSquawk] China Finance Minister: China places significant importance on mutually beneficial cooperation among Asia-Pacific economies.
-- 10/21 13:20 [FirstSquawk] China Finance Minister: APEC finance ministers approved and issued a joint statement aimed at strengthening cooperation on digital financing infrastructure.
-- 10/21 13:20 [FirstSquawk] China Finance Minister: APEC finance ministers reached a consensus on improving communication and coordination of macroeconomic policies.
-- 10/21 13:20 [financialjuice] US Secretary of State Rubio: my understanding is that Zelenskiy meeting was constructive
-- 10/21 13:20 [FirstSquawk] China Finance Minister: Members also agreed to advance practical cooperation in the financial sector, deepen regional integration and foster a stronger Asia-Pacific community.
-- 10/21 13:20 [FirstSquawk] China Finance Minister: APEC members support fiscal policies that encourage household consumption, stimulate domestic demand and enhance productivity.
-- 10/21 13:20 [FirstSquawk] China Finance Minister: Members support private-sector funding, seek to promote innovation financing and encourage regional development banks to play a catalytic role.
-- 10/21 13:20 [FirstSquawk] 30-Year JGB Yield Edges Down to 3.920%, Declining 2 Basis Points
-- 10/21 13:21 [FirstSquawk] Rubio Describes Zelenskiy Meeting as Positive
-- 10/21 13:27 [financialjuice] BOJ Deputy Governor Himino: strong AL demand driving up capex, exports
-- 10/21 13:27 [financialjuice] BOJ's Himino: Underlying inflation almost at 2% target
-- 10/21 13:27 [financialjuice] BOJ's Himino: underlying inflation likely to align with Bank of Japan target
-- 10/21 13:27 [financialjuice] BOJ's Himino: medium- and long-term inflation expectations continue rising
-- 10/21 13:28 [financialjuice] BOJ's Himino: financial conditions still accommodative
-- 10/21 13:28 [financialjuice] BoJ's Himino: real interest rates stay low, bank lending expands rapidly
-- 10/21 13:28 [financialjuice] BOJ's Himino: postponing policy changes could trigger inflation risks, damage economy
-- 10/21 13:28 [financialjuice] BOJ's Himino: upside price risks elevated
-- 10/21 13:29 [financialjuice] BoJ’s Himino: stable prices via suitable monetary policy would boost Japan’s sustainable growth
-- 10/21 13:30 [FirstSquawk] BOJ’s Himino Links Strong AI Demand to Rising Investment and Exports
-- 10/21 13:30 [FirstSquawk] BOJ Deputy Governor Himino Says Underlying Inflation Is Approaching 2% Target
-- 10/21 13:30 [FirstSquawk] BOJ Deputy Governor Himino Sees Underlying Inflation Moving Toward Target-Consistent Levels
-- 10/21 13:30 [FirstSquawk] BOJ Deputy Governor Himino Sees Continued Rise in Longer-Term Inflation Expectations
-- 10/21 13:31 [FirstSquawk] BOJ Deputy Governor Himino Says Financial Conditions Remain Supportive
-- 10/21 13:31 [financialjuice] US envoy Witkoff to arrive in St. Petersburg for discussions with President Putin: Russian special envoy Dmitriev to greet him, sources say
-- 10/21 13:32 [FirstSquawk] BOJ Deputy Governor Himino Says Real Rates Stay Low as Bank Lending Expands at a Fast Pace
-- 10/21 13:32 [FirstSquawk] BOJ Deputy Governor Himino Says Appropriate Policy Is Key to Price Stability and Sustainable Economic Growth
-- 10/21 13:32 [FirstSquawk] BOJ Deputy Governor Himino Flags High Upside Risks to Inflation
-- 10/21 13:32 [FirstSquawk] US Envoy Witkoff Heads to St. Petersburg for Talks With Putin, Sources Say
-- 10/21 13:35 [financialjuice] Japan government considering electricity, gas subsidies in winter to ease impact on households from rising heating costs: Kyodo
-- 10/21 13:36 [FirstSquawk] Japan Weighs Winter Utility Subsidies to Ease Household Burden From Higher Heating Costs, Kyodo Says
-- 10/21 14:14 [FirstSquawk] Russia’s Defence Ministry Reports Strike on Cargo Ship in Black Sea
-- 10/21 14:30 [FirstSquawk] US Special Envoy Witkoff Lands in St. Petersburg, TASS Reports
-- 10/21 14:30 [financialjuice] US Envoy Witkoff arrives in St. Petersburg - TASS
-- 10/21 14:38 [financialjuice] Samsung, SK Hynix upgrade China plants for advanced chips.
-- 10/21 14:38 [financialjuice] Trump: I have been watching data centers very closely and have come to a very strong conclusion. New and large, in some cases gigantic, data centers are mandated by me to generate their own electricity and give or sell any excess back to th…
-- 10/21 14:40 [FirstSquawk] Trump Calls on Data Centre Firms to Share Benefits With Communities Through Dividends
-- 10/21 14:41 [FirstSquawk] Japan’s 2-Year JGB Yield Rises 0.5 Basis Point to 1.900%
-- 10/21 14:44 [FirstSquawk] Russia’s Bryansk Region Reports One Fatality and Two Injuries From Ukrainian Drone Attack
-- 10/21 14:55 [FirstSquawk] UK Clears Jackdaw Gas Field Drilling in the North Sea, Unveils £2B Wealth Fund
-- 10/21 14:59 [financialjuice] France Fin. Min. Lescure, citing constitutional levers: We have the instruments to pass a budget
-- 10/21 15:00 [financialjuice] UK PPI OUTPUT PRICES YOY ACTUAL 4.6% (FORECAST 4.4%, PREVIOUS 3.7%) $MACRO
-- 10/21 15:00 [financialjuice] UK PPI OUTPUT PRICES MOM ACTUAL 0.8% (FORECAST 0.6%, PREVIOUS 0.7%) $MACRO
-- 10/21 15:00 [financialjuice] UK PPI INPUT PRICES YOY ACTUAL 8.3% (FORECAST 7.6%, PREVIOUS 6.1%) $MACRO
-- 10/21 15:00 [financialjuice] UK SERVICES CPI YOY ACTUAL 3.7% (FORECAST 3.6%, PREVIOUS 3.4%) $MACRO
-- 10/21 15:00 [financialjuice] UK RPI MOM ACTUAL 0.1% (FORECAST 0.1%, PREVIOUS 0.6%) $MACRO
-- 10/21 15:00 [financialjuice] ❗ UK CORE CPI YOY ACTUAL 2.8% (FORECAST 2.8%, PREVIOUS 2.6%) $MACRO
-- 10/21 15:00 [financialjuice] UK CPI MOM ACTUAL 0.4% (FORECAST 0.3%, PREVIOUS 0.5%) $MACRO
-- 10/21 15:01 [financialjuice] UK PSNB EX BANKS ACTUAL 24.520B (FORECAST -, PREVIOUS 18.268B) $MACRO
-- 10/21 15:01 [financialjuice] ‼ BREAKING: UK CPI YOY ACTUAL 3.5% (FORECAST 3.4%, PREVIOUS 3.1%) $MACRO
-- 10/21 15:01 [financialjuice] UK CORE CPI MOM ACTUAL 0.2% (FORECAST -, PREVIOUS 0.3%) $MACRO
-- 10/21 15:01 [financialjuice] UK CPI September 2026 Report
-- 10/21 15:03 [FirstSquawk] UK (SEP) PPI INPUT NSA YOY ACTUAL: 8.3% VS 6.1% PREVIOUS;EST 7.6%
-- 10/21 15:03 [FirstSquawk] UK (SEP) PPI INPUT NSA MOM ACTUAL: 1.5% VS 0.3% PREVIOUS;EST 1.4%
-- 10/21 15:03 [FirstSquawk] UK (SEP) PPI OUTPUT NSA YOY ACTUAL: 4.6% VS 3.7% PREVIOUS;EST 4.4%
-- 10/21 15:03 [FirstSquawk] UK (SEP) PPI OUTPUT NSA MOM ACTUAL: 0.8% VS 0.7% PREVIOUS;EST 0.6%
-- 10/21 15:03 [FirstSquawk] UK (SEP) PSNB EX BANKING GROUPS ACTUAL: 24.5B VS 18.3B PREVIOUS
-- 10/21 15:03 [FirstSquawk] UK (SEP) PUBLIC SECTOR NET BORROWING ACTUAL: 24.5B VS 10.3B PREVIOUS;EST 24.0B
-- 10/21 15:03 [FirstSquawk] UK (SEP) CENTRAL GOVERNMENT NCR ACTUAL: 16.9B VS 10.0B PREVIOUS
-- 10/21 15:03 [FirstSquawk] UK (SEP) PUBLIC FINANCES (PSNCR) ACTUAL: 16.9B VS 10.0B PREVIOUS
-- 10/21 15:04 [FirstSquawk] UK (SEP) RPI EX MORT INT.PAYMENTS (YOY) ACTUAL: 3.9% VS 3.3% PREVIOUS
-- 10/21 15:04 [FirstSquawk] UK (SEP) RPI YOY ACTUAL: 3.9% VS 3.4% PREVIOUS;EST 3.9%
-- 10/21 15:04 [FirstSquawk] UK (SEP) RPI MOM ACTUAL: 0.1% VS 0.6% PREVIOUS;EST 0.1%
-- 10/21 15:04 [FirstSquawk] UK (SEP) RETAIL PRICE INDEX ACTUAL: 422.1 VS 421.6 PREVIOUS;EST 422.0
-- 10/21 15:04 [FirstSquawk] UK (SEP) CPIH YOY ACTUAL: 3.6% VS 3.3% PREVIOUS;EST 3.5%
-- 10/21 15:04 [FirstSquawk] UK (SEP) CPI SERVICES YOY ACTUAL: 3.7% VS 3.4% PREVIOUS;EST 3.6%
-- 10/21 15:04 [FirstSquawk] UK (SEP) CPI CORE YOY ACTUAL: 2.8% VS 2.6% PREVIOUS;EST 2.8%
-- 10/21 15:04 [FirstSquawk] UK (SEP) CPI YOY ACTUAL: 3.5% VS 3.1% PREVIOUS;EST 3.4%
-- 10/21 15:04 [FirstSquawk] UK (SEP) CPI MOM ACTUAL: 0.4% VS 0.5% PREVIOUS;EST 0.3%
-- 10/21 15:10 [financialjuice] Morgan Stanley cuts GE Aerospace target price to $375 from $400 $GE
-- 10/21 15:16 [financialjuice] BlackRock CEO: Not building data centers fast is inflationary
-- 10/21 15:18 [financialjuice] BlackRock CEO: Slowing down AI buildout could hurt the economy
-- 10/21 15:21 [FirstSquawk] Kim Jong Un’s Sister and North Korean Military Marshal Visit South Korean Border, KCNA Says
-- 10/21 15:22 [FirstSquawk] North Korea Says Border Fortification Is Taking Place Within Its Own Territory, KCNA Reports
-- 10/21 15:25 [FirstSquawk] North Korea Calls on Border Forces to Take Overwhelming Military Action in Response to Enemy Moves
-- 10/21 15:31 [financialjuice] Iraq closes the Sheeb border crossing with Iran to passengers, vehicles, and commercial trucks until further notice - Two sources at the crossing
-- 10/21 15:31 [FirstSquawk] Iraq Suspends Passenger, Vehicle and Commercial Truck Traffic at Sheeb Crossing With Iran
-- 10/21 15:41 [financialjuice] Putin to meet Witkoff at the Konstantinovsky Palace - IFX
-- 10/21 15:46 [FirstSquawk] FRANCE RETAIL SALES EX-AUTO (M/M AUG: 0.3% (PREV 0.8%; PREV R 0.4%)
-- 10/21 16:05 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 0.01%; FRANCE'S CAC 40 UP 0.11%; SPAIN'S IBEX DOWN 0.15%; GERMANY'S DAX FLAT
 - 10/21 16:10 [FirstSquawk] RUSSIAN STRIKES TARGETED ENERGY FACILITIES IN KYIV, VOLYN, ODESA AND MYKOLAIV REGIONS SAYS PM
 - 10/21 16:11 [financialjuice] Russian strikes targeted energy facilities in Kyiv, Volyn, Odesa and Mykolaiv regions - PM.
 - 10/21 16:18 [financialjuice] Japan's Fin. Min. Katayama: To accelerate virtuous cycle of investment, wage gain.
 - 10/21 16:18 [FirstSquawk] JAPAN'S FINANCE MINISTER SATSUKI KATAYAMA TO ACCELERATE VIRTUOUS CYCLE OF INVESTMENT, WAGE GAIN
 - 10/21 16:20 [FirstSquawk] UK ENERGY SECRETARY MIATTA FAHNBULLEH REAFFIRMS NO NEW UK NORTH SEA DRILLING LICENSES
+- 10/21 16:51 [FirstSquawk] EXPLOSION HEARD NEAR ADEN AIRPORT
+- 10/21 16:52 [FirstSquawk] MISSILE STRIKES IRANIAN KURDISH OPPOSITION CAMP NEAR ERBIL, IRAQ, ACCORDING TO SECURITY SOURCES.
+- 10/21 17:01 [FirstSquawk] U.S. S&P 500 E-MINI FUTURES UP 0.3%, NASDAQ 100 FUTURES UP 0.8%, DOW FUTURES FLAT
+- 10/21 17:04 [FirstSquawk] SK HYNIX COMPLETES 40T WON SHARE BUYBACK - YONHAP
+- 10/21 17:25 [FirstSquawk] GERMAN CHANCELLOR MERZ: SOME STATES ARE WEAPONIZING ECONOMIC DEPENDENCIES TO STRENGTHEN THEIR POSITION, RUSSIA IS A THREAT TO US
+- 10/21 17:25 [FirstSquawk] UKMTO SAYS RECEIVED A REPORT OF AN INCIDENT NM OF BUKHA, OMAN
+- 10/21 17:25 [FirstSquawk] UKMTO SAYS LOCAL AUTHORITIES HAVE REPORTED THAT A TANKER HAS BEEN STRUCK BY AN UNKNOWN PROJECTILE WHICH STARTED A FIRE WHICH HAS BEEN EXTINGUISHED
+- 10/21 17:25 [FirstSquawk] UKMTO SAYS ALL CREW ARE REPORTED AS SAFE
+- 10/21 17:34 [FirstSquawk] MERZ SAYS IN 'BEST CASE' EU DOESN'T USE NEW TRADE TOOLS
+- 10/21 17:36 [FirstSquawk] JAPAN, INDIA ARRANGING FOR 2+2 TALKS TO BE HELD IN NOV. - KYODO
+- 10/21 17:44 [FirstSquawk] MERZ SAYS CHINA'S OVERCAPACITIES, TRADE SURPLUS, MUST BE ADDRESSED
+- 10/21 17:44 [FirstSquawk] MERZ SAYS GOAL IS TO HAVE NEW TRADE BALANCE WITH CHINA, NO CONFLICT
+- 10/21 17:44 [FirstSquawk] MERZ: COMMITTED TO OPEN MARKETS, FAIR TRADE ORDER
+- 10/21 17:47 [FirstSquawk] CHINESE NICKEL PRODUCERS HAVE DECIDED TO REDUCE PRODUCTION AT THEIR PLANTS IN INDONESIA.
+- 10/21 17:49 [financialjuice] Russia’s Deputy PM Novak: Russia may fully restore diesel exports by year-end - Tass
+- 10/21 17:55 [FirstSquawk] YEMEN'S HOUTHIS MILITARY SPOKESPERSON SAYS WE DID NOT LAUNCH ANY DRONES TOWARDS SAUDI MEDINA ON WEDNESDAY
+- 10/21 17:58 [financialjuice] Putin starts meeting with US envoy Witkoff - IFX
+- 10/21 17:59 [financialjuice/FirstSquawk] Russia's Putin asks US Witkoff about his meeting in Norway - IFX
+- 10/21 17:59 [financialjuice] Russia's Putin thanks Trump for attention to Ukraine settlement - IFX
+- 10/21 17:59 [financialjuice] French 10-year yields hit 5% for first time since 2002
+- 10/21 18:00 [financialjuice] Germany’s Chancellor Merz: Europe is "always ready to talk’ on the Ukraine war
+- 10/21 18:00 [FirstSquawk] RUSSIA'S PUTIN THANKS U.S. TRUMP FOR ATTENTION TO UKRAINE SETTLEMENT - IFX
+- 10/21 18:01 [financialjuice] Russia's Putin tells Witkoff Russia's interested in restoring economic ties with the US - IFX.
+- 10/21 18:03 [FirstSquawk] RUSSIAN FOREIGN MINISTRY SAYS RUSSIA CONSIDERS JAPAN SUPPLIES OF DRONES TO UKRAINE AS HOSTILE STEP
+- 10/21 18:03 [financialjuice] Putin tells Witkoff Russia is ready to help with Iran resolution - IFX
+- 10/21 18:04 [financialjuice] Russian Foreign Ministry: Russia considers Japan supplies of drones to Ukraine as hostile step, Russia will respond
+- 10/21 18:04 [FirstSquawk] PUTIN: US CITIZEN STEPHEN HUBBARD AT PULKOVO AIRPORT - IFX
+- 10/21 18:06 [financialjuice] US Envoy Witkoff: Talks in Oslo were productive - IFX.
+- 10/21 18:08 [financialjuice] US Envoy Witkoff: Hope Putin is to consider Russia-US-Ukraine talks resumption - IFX
+- 10/21 18:10 [financialjuice/FirstSquawk] US Witkoff thanks Putin for diesel deal - IFX
+- 10/21 18:11 [FirstSquawk] US WITKOFF SAYS ROUGHT DOCUMENTS WITH WAYS FOR UKRAINE SETTLEMENTS - IFX
+- 10/21 18:11 [financialjuice] US Witkoff: We brought documents with ways for Ukraine settlements - IFX
+- 10/21 18:12 [FirstSquawk] PUTIN SAYS WE COULD SUPPLY FERTILISERS IN LARGER AMOUNT TO US - IFX
+- 10/21 18:13 [financialjuice] Putin: We could supply fertilisers in larger amounts to the US - IFX
+- 10/21 18:28 [FirstSquawk] MACRON SAYS PRIORITY IS TO SECURE DIESEL, GAS SUPPLY
+- 10/21 18:28 [financialjuice] France’s President Macron: Priority is to secure diesel and gas supply
+- 10/21 18:30 [FirstSquawk] MACRON: SECURED FRENCH ENERGY SUPPLIES TO AVOID SHORTAGES
+- 10/21 18:30 [financialjuice] Putin offers to discuss the possibility of meeting with Trump in China - IFX.
+- 10/21 18:31 [financialjuice] Putin proposes US Special Envoy Witkoff to discuss the restoration of bilateral ties & economic cooperation
+- 10/21 18:39 [FirstSquawk] NVIDIA INTRODUCES DSX POD AI FACTORIES TO ACCELERATE EUROPE’S INFRASTRUCTURE DEPLOYMENT; DSX POD UNITS REDUCE DEPLOYMENT TIME TO AS LITTLE AS 14 DAYS; EUROPEAN ECOSYSTEM BUILDS WORLD’S MOST EFFICIENT AI FACTORIES WITH NVIDIA DSX
+- 10/21 18:39 [financialjuice] French President Macron: We secured 2 terawatt-hours per month of gas from Qatar during the winter period
+- 10/21 18:47 [FirstSquawk] GERMAN GOVERNMENT SPOKESPERSON SAYS ON UKRAINE: GERMAN, EUROPEAN CONTACTS WITH THE US SUGGEST THAT AMERICANS ARE INTERESTED IN NEGOTIATION PROCESS
+- 10/21 18:52 [financialjuice] NVIDIA launches open-shell reference architecture for AI agents $NVDA
+- 10/21 18:52 [financialjuice] German Government Spokesperson: We are in close exchange with the US on Ukraine
+- 10/21 18:52 [financialjuice] NVIDIA DSX cuts cooling water use to near zero at 2GW scale $NVDA
+- 10/21 18:53 [financialjuice] NVIDIA DSX MaxLPS cuts power use by up to 30% per token $NVDA
+- 10/21 18:53 [financialjuice] BofA's Bernard Mensah: Bit worried about sovereign yields
+- 10/21 18:55 [financialjuice] ECB's Kazaks: More tightening may be needed if inflation stays high
+- 10/21 18:56 [financialjuice] Iran's President Pezeshkian: The US cannot blockade and threaten Iran but expect to have dialogue - IRNA
+- 10/21 18:56 [financialjuice] ECB's Kazaks: Caution needed as higher yields may slow the economy
+- 10/21 18:56 [financialjuice] ECB's Kazaks: There's some extra tightening coming from markets
+- 10/21 18:57 [financialjuice] ECB's Kazaks: Not seeing conditions for excessive wage demands
+- 10/21 19:02 [financialjuice] Trump admin to evaluate whether further loans from the heating oil reserve should follow - US government source
+- 10/21 19:03 [financialjuice] China to pursue decisive breakthroughs in key tech, including integrated circuits, industrial machine tools, high-end instruments, advanced materials, biomanufacturing - Xinhua
+- 10/21 19:03 [financialjuice] China to accelerate development of strategic emerging industries, including new energy, new materials, and aerospace - Xinhua
+- 10/21 19:06 [FirstSquawk] Danaher Q3 Earnings - Sales: $6.6B (est $6.56B) - Adjusted EPS: $2.11 (est $1.92) - Raises FY26 Adjusted EPS Guidance - Sees FY Adjusted EPS: $8.57 To $8.62 (prev $8.45 To $8.60) - Sees Q4 Core Revenue Ex-Respiratory: +4% To +5% Y/Y
+- 10/21 19:14 [FirstSquawk] NVIDIA, NOKIA AND LEADING TELECOM OPERATORS TURN NETWORKS INTO DISTRIBUTED INTELLIGENCE PLATFORMS
+- 10/21 19:14 [FirstSquawk] CHINA SEEKS BREAKTHROUGHS IN TECH SUCH AS INTEGRATED CIRCUITS
+- 10/21 19:15 [FirstSquawk] US WTI MIDLAND CRUDE OIL FUTURES RISE MORE THAN $2 TO SESSION HIGH OF $99.88/BBL AMID FALLING US OIL STOCKPILES
+- 10/21 19:15 [financialjuice] Kremlin: Russia will analyse US proposals, but much depends on Ukraine - IFX
+- 10/21 19:15 [FirstSquawk] KREMLIN: PUTIN, TRUMP TALKS WILL BE SERIOUS, LONG - IFX
+- 10/21 19:16 [financialjuice] Kremlin: Putin, Trump talks will be serious and long - IFX
+- 10/21 19:16 [financialjuice] Kremlin: If ukraine does not make necessary decisions, situation for them will be worse - IFX
+- 10/21 19:17 [financialjuice] Putin-Trump-Xi meeting possible, but no agenda yet - Tass.
+- 10/21 19:18 [FirstSquawk] BRENT CRUDE OIL FUTURES RISE MORE THAN $2 TO SESSION HIGH OF $111.25/BBL ON IRAN DENYING ANY DIPLOMATIC PROGRESS, FALLING US OIL INVENTORIES
+- 10/21 19:18 [financialjuice] UKMTO: Received a time late report of an incident 30nm of Al Faw, Iraq
+- 10/21 19:18 [FirstSquawk] KREMLIN: RUSSIA READY FOR NUCLEAR TALKS WITH US, CHINA: IFX
+- 10/21 19:24 [financialjuice] Iran's FM: We are ready for diplomacy, but will defend ourselves - FT
+- 10/21 19:25 [financialjuice] Iran FM: Given that the US has shown no willingness to reach an understanding, there is little reason to expect progress now - FT
+- 10/21 19:28 [DeItaone] $SPCX - CITI FLAGS SPACEX AS A 90-DAY UPSIDE CATALYST Citi has added SpaceX to its 90-day upside catalyst watch list. Shares surged 8.21% overnight following the company's earnings release. Since its reported June 2026 IPO at $150, the stoc…
+- 10/21 19:28 [DeItaone] IRAN SIGNALS DIPLOMACY, BUT WARNS U.S. TRUST IS GONE Iranian Foreign Minister Abbas Araghchi says Tehran is ready for diplomacy but prepared to defend itself. Araghchi says Iran has “no trust whatsoever” in Washington's stated desire for pe…
+- 10/21 19:31 [financialjuice] $T AT&T Q3 2026 Earnings Adj EPS $0.65, Est. $0.60 EPS $2.40, Saw $2.25–$2.35, Est. $2.35 Rev $32.3B, Est. $31.7B Adj EBITDA $12.5B, Est. $12.34B
+- 10/21 19:32 [FirstSquawk] AT&T Q3 Earnings - Adjusted EBITDA: $12.5B (est $12.34B) - Adjusted EPS: 65c (est 60c) - Revenue: $32.3B (est $31.7B) - Free Cash Flow: $5B (est $4.94B) - Postpaid Phone-Only Churn: 0.92% - Wireless Postpaid Phone Net Adds: 379,000 (est 387…
+- 10/21 19:33 [DeItaone] $T - AT&T BEATS Q3 EXPECTATIONS, RAISES 2026 EARNINGS OUTLOOK AT&T delivered a double beat: 🔸 Revenue: $32.3B vs. $31.69B expected 🔸 Adjusted EPS: $0.65 vs. $0.60 expected 🔸 Adjusted EBITDA: $12.5B 🔸 Postpaid phone additions: 379,000, broad…
+- 10/21 19:35 [financialjuice] NVIDIA to boost product substrate capacity over next 3 years.
+- 10/21 19:35 [financialjuice] NVIDIA to give KYEC $1.1B capacity reservation advance $NVDA
+- 10/21 19:35 [DeItaone] https://t.co/KfY5vSOUSC
+- 10/21 19:37 [financialjuice] Nvidia sees semi testing capacity doubling from 2026 to 2027 $NVDA
+- 10/21 19:37 [financialjuice] NVIDIA: High-volume Kyec production targeted for April 2027
+- 10/21 19:39 [financialjuice] Nvidia and SPIL to expand optical engine capacity in Taiwan $NVDA
+- 10/21 19:40 [FirstSquawk] ZELENSKYY TALKS WITH WITKOFF WERE VERY PRODUCTIVE
+- 10/21 19:42 [DeItaone] $SPCX - WALL STREET RAISES SPACEX TARGETS AFTER EARNINGS Analysts are turning more bullish on SpaceX, with several banks lifting their price targets: 🔸 Morgan Stanley: $300 — Overweight 🔸 Wells Fargo: $274, up from $214 🔸 Citi: $240, up fro…
+- 10/21 19:43 [DeItaone] 🇫🇷 FRANCE'S BORROWING COSTS HIT 24-YEAR HIGH AS DEBT FEARS MOUNT France's 10-year government bond yield briefly topped 5% for the first time since 2002. Violent protests, widening fiscal concerns and political gridlock are fueling a selloff…
+- 10/21 19:45 [financialjuice] Ukraine’s President Zelenskiy: Ukraine has to support a potential deal
+- 10/21 19:46 [FirstSquawk] ZELENSKYY SAYS ANY PEACE DEAL WOULD REQUIRE REFERENDUM; SAYS STARLINK IS STILL LIMITED
+- 10/21 19:46 [FirstSquawk] ZELENSKYY: RUBIO TOLD HIM WILL WORK ON RESOLVING STARLINK
+- 10/21 19:47 [financialjuice] Ukraine’s President Zelenskiy: Rubio told me he will work on resolving Starlink
+- 10/21 19:51 [financialjuice] Google Cloud and NVIDIA announce general availability of NVIDIA Vera Rubin infrastructure $NVDA $GOOGL
+- 10/21 19:51 [financialjuice] NVIDIA, Amkor target over 300% interposer capacity boost by 2028.
+- 10/21 19:51 [DeItaone] UKRAINE'S ZELENSKIY: STARLINK/STARSHIELD IS STILL LIMITED BUT RUBIO SAID HE WILL WORK ON IT -FOX NEWS INTERVIEW
+- 10/21 19:54 [financialjuice/FirstSquawk] Oracle launches AI Agent Studio for industry applications
+- 10/21 19:54 [FirstSquawk] TRUMP: THOSE TALKS WOULD HAVE COME TO A COMPLETE HALT
+- 10/21 19:57 [DeItaone] JPMORGAN: SPACEX–TESLA MEGA-MERGER GAINS MOMENTUM JPMorgan sees strong strategic logic for a potential SpaceX ($SPCX ) and Tesla ($TSLA ) merger after Elon Musk disclosed that both companies formed special committees to explore a combinatio…
+- 10/21 19:57 [financialjuice] JP Morgan raises target price of SpaceX to $500 from $240
+- 10/21 20:00 [financialjuice] US MBA MORTGAGE APPLICATIONS ACTUAL -5.3% (FORECAST -, PREVIOUS -2.7%) $MACRO
+- 10/21 20:00 [financialjuice] US MBA 30-YR MORTGAGE RATE ACTUAL 7.41% (FORECAST -, PREVIOUS 7.50%) $MACRO
+- 10/21 20:03 [FirstSquawk] Philip Morris Q3 Earnings: - Adj EPS: $2.36 (est $2.30) - Organic Revenue: +7.1% (est +5.35%) - Sees FY Adj EPS: $8.29 To $8.44 (prev $8.35 To $8.50) - Still Sees FY Organic Revenue: +5% To +7% (est +5.56%)
+- 10/21 20:03 [financialjuice] Infineon and Nvidia partner on power conversion for data centers $NVDA
+- 10/21 20:06 [DeItaone] $SPCX - JPMORGAN DOUBLES SPACEX PRICE TARGET TO $500 JPMorgan raised its SpaceX price target from $240 to $500, maintaining an Overweight rating. The bank now forecasts $254 billion in 2027 revenue and 10 GW of computing capacity by year-en…
+- 10/21 20:09 [financialjuice] UK's PM Burnham: Looking at removing standing charges from gas bills
+- 10/21 20:09 [DeItaone] YARDENI: THE AI BUBBLE IS REAL, BUT NOT READY TO BURST Yardeni Research's new AI Bubble Meter flashes a warning, but not a crash signal. Bubble Conditions stand at 83/100, while Crash Triggers remain at just 34/100. Historically, similar co…
+- 10/21 20:14 [FirstSquawk] UK PM BURNHAM: LOOKING AT REMOVING STANDING CHARGES FROM GAS BILLS
+- 10/21 20:17 [FirstSquawk] THERMO FISHER RAISES FY 2026 GUIDANCE
+- 10/21 20:24 [financialjuice] Russia struck Ukraine's gas production site in the Kharkiv region - Naftogaz
+- 10/21 20:30 [DeItaone] $CRWV - CrowdStrike, NVIDIA Expand AI Agent Security From Software to Silicon
+- 10/21 20:31 [financialjuice] $ABT Abbott Q3 2026 Earnings Adj EPS $1.42, Est. $1.42 Net Sales $13.01B, Est. $13B Comparable Sales +7% Sees Q4 Adj EPS $1.62–$1.67
+- 10/21 20:31 [financialjuice] Amkor adds $1.3b NVIDIA pact for South Korea capacity.
+- 10/21 20:31 [financialjuice] Crowdstrike, NVIDIA to extend AI agent security to silicon.
+- 10/21 20:34 [financialjuice] Samsung electro-mechanics & NVIDIA report pact on ABF substrate $NVDA
+- 10/21 20:35 [FirstSquawk] Abbott Q3 Earnings - Adj EPS: $1.42 (est $1.42) - Net Sales: $13.01B (est $13B) - Comparable Sales: +7% - Sees Q4 Adj EPS: $1.62 To $1.67 (est $1.64) - Sees FY Adj EPS: $5.50 To $5.55 (prior $5.45 To $5.60) - Sees 2026 Comparable Sales Grow…
+- 10/21 20:40 [FirstSquawk] NextEra Energy Q3 Earnings - Adj EPS: $1.24 (est $1.20) - Operating Rev: $8.09B (est $8.5B) - Still Sees FY Adj EPS At High End Of $3.92 To $4.02
+- 10/21 20:50 [DeItaone] $EBAY - EBAY TO CUT ABOUT 9% OF WORKFORCE TO SIMPLIFY OPERATIONS, PRIORITIZE GROWTH AREAS, CEO MEMO SEEN BY REUTERS SHOWS
+- 10/21 21:01 [financialjuice] Morning Juice - US Session Prep (21st October)
+- 10/21 21:01 [financialjuice] Secured overnight financing rate 3.88% October 20th vs 3.87% October 19th
+- 10/21 21:01 [FirstSquawk] AT&T SHARES EXTEND LOSSES; LAST DOWN 5.7% PREMARKET
+- 10/21 21:01 [FirstSquawk] THERMO FISHER EXEC SAYS CO EXPECTS FULL YEAR REVENUE TO BE IN THE RANGE OF $47.7 BILLION TO $48.2 BILLION
+- 10/21 21:02 [DeItaone/FirstSquawk] MEETING BETWEEN RUSSIA'S PUTIN, US WITKOFF ENDS - TASS
+- 10/21 21:02 [DeItaone] OPENAI AND GOOGLE STRIKE MAJOR AI DISTRIBUTION DEAL OpenAI will bring its frontier AI models, including GPT-6 Astra, and Codex to Google Cloud in the coming weeks. Enterprise customers will be able to purchase them through Google Cloud Mark…
+- 10/21 21:02 [financialjuice] Putin-Witkoff talks are over - Tass
+- 10/21 21:06 [financialjuice] OpenAI to make models available through Google's cloud - CNBC $GOOGL
+- 10/21 21:11 [FirstSquawk] KREMLIN: NORWAY, FINLAND ARE NOW PART OF PEACE PROCESS - TASS
+- 10/21 21:11 [financialjuice] Kremlin: Norway and Finland are now part of the peace process - Tass
+- 10/21 21:18 [financialjuice] France's Macron has arrived in Saudi Arabia - Elysee
+- 10/21 21:20 [DeItaone] RUSSIAN SU-30 FIGHTER JET CRASHES IN KALININGRAD REGION - IFX
+- 10/21 21:23 [financialjuice] Google, Inmobi-backed Glance to bring AI commerce to Android TV.
+- 10/21 21:25 [FirstSquawk] MACRON LANDS IN RIYADH: AFP
+- 10/21 21:29 [financialjuice] China and the EU vow to uphold fair competition in global markets
+- 10/21 21:29 [financialjuice] Russia's Putin holds meeting with China's Premier Li Qiang - Tass.
+- 10/21 21:32 [financialjuice] Putin: There will be an opportunity to hold a meeting with China's Xi during APEC summit in China - Ria.
+- 10/21 21:33 [financialjuice] The UK Energy Sec. is leaning to rejecting the Rosebank oilfield - Guardian.
+- 10/21 21:34 [FirstSquawk] OPENAI: PARTNERS WITH GOOGLE CLOUD TO BRING FRONTIER MODELS AND CODEX TO GOOGLE CLOUD'S MODEL GARDEN - WEBSITE
+- 10/21 21:35 [FirstSquawk] OPENAI : FRONTIER MODELS TO BE AVAILABLE FOR PURCHASE VIA GOOGLE CLOUD MARKETPLACE
+- 10/21 21:38 [financialjuice] Merck collaborates with NVIDIA, Microsoft and Dawn Health to develop novel support model for people living with rare tumors. $MRK $NVDA $MSFT
+- 10/21 21:38 [financialjuice] OpenAI: Microsoft remains primary cloud partner. $MSFT
+- 10/21 21:39 [financialjuice] Japan to lower maximum subsidy for newly registered EVs by 40% to 750,000 Yen from 1.25 million Yen from January 1st, 2027 - Industry ministry
+- 10/21 21:49 [financialjuice] AT&T: Q4 adjusted EBITDA impacted by unfavorable vendor dispute settlements of about $100 million that will primarily impact our legacy segment. $T
+- 10/21 22:00 [financialjuice] Effective Fed Funds Rate 3.88% October 20 vs 3.88% October 19.
+- 10/21 22:01 [financialjuice] Qualcomm announced a quarterly cash dividend of $0.92 per common share
+- 10/21 22:02 [financialjuice] Russia's Wealth Fund Head Dmitriev: Putin-Witkoff meeting was productive - TASS
+- 10/21 22:05 [financialjuice] OpenAI: ChatGPT Ads expands to 26 new countries.
+- 10/21 22:05 [financialjuice] OpenAI expands ChatGPT ads to 89 countries worldwide.
+- 10/21 22:06 [financialjuice] OpenAI is to develop added formats, objectives, and buying options.
