@@ -7,87 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-22 06:33 JST／対象: 10/22 00:33 〜 10/22 06:33 JST（時刻はすべて日本時間）
+生成: 2026-10-22 09:09 JST／対象: 10/22 03:09 〜 10/22 09:09 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 8 | 10/22 02:02 | 10/22 05:32 | ⚠ 100分（03:52→05:32） |
-| FirstSquawk | 83 | 10/22 00:33 | 10/22 06:11 | 30分（04:36→05:06） |
-| financialjuice | 104 | 10/22 00:33 | 10/22 06:27 | 36分（00:52→01:28） |
+| DeItaone | 5 | 10/22 03:22 | 10/22 08:39 | ⚠ 186分（05:32→08:39） |
+| FirstSquawk | 85 | 10/22 03:28 | 10/22 09:08 | 34分（06:11→06:46） |
+| financialjuice | 87 | 10/22 03:23 | 10/22 08:51 | ⚠ 59分（07:14→08:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 187 行（統合前 200 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 169 行（統合前 179 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/22 00:33 [FirstSquawk] IRAN'S PARLIAMENT SPEAKER QALIBAF MEETS WITH SUPREME LEADER MOJTABA -STATE BROADCASTER IRIB
-- 10/22 00:33 [financialjuice] Iran's Parliament Speaker Qalibaf meets with Supreme Leader Mojtaba - IRIB.
-- 10/22 00:36 [FirstSquawk] GHALIBAF SAYS HE DISCUSSED LATEST DEVELOPMENTS WITH KHAMENEI
-- 10/22 00:39 [FirstSquawk] US NATURAL GAS FUTURES PLUNGE 5% TO LOWEST IN 5 WEEKS
-- 10/22 00:44 [FirstSquawk] CHINA, DJIBOUTI FOREIGN MINISTERS VOW TO ENSURE SAFETY IN RED SEA, GULF OF ADEN
-- 10/22 00:44 [financialjuice] Chinese Premier: China is ready to work with Russia to deepen practical cooperation in energy resources and others - Xinhua.
-- 10/22 00:52 [financialjuice] Chinese Premier: China is ready to work with Russia to unite more forces of the Global South and safeguard common interests - Xinhua.
-- 10/22 00:53 [FirstSquawk] CHINA PREMIER: READY TO WORK WITH RUSSIA TO DEEPEN PRACTICAL COOPERATION IN ENERGY RESOURCES, OTHERS – XINHUA
-- 10/22 01:06 [FirstSquawk] SAUDI-LED COALITION: INTERCEPTS, DESTROYS DRONE LAUNCHED BY HOUTHIS OVER SOUTHERN REGION
-- 10/22 01:15 [FirstSquawk] Pakistan's army chief Asim Munir carried a final US ultimatum to Tehran during his visit yesterday, demanding Iran must concede its entire nuclear program or face large-scale attacks aimed primarily at the Pickaxe Mountain nuclear site, per…
-- 10/22 01:18 [FirstSquawk] APOLLO, BLACKSTONE IN TALKS FOR NFL APPROVAL TO BUY TEAM STAKES
-- 10/22 01:28 [financialjuice] Senators seek answers from Google on AI's impact on schoolchildren following investigation - WSJ. $GOOGL
-- 10/22 01:33 [FirstSquawk] SENATORS EXPRESS ‘GRAVE CONCERNS,’ LAUNCH INQUIRY INTO GOOGLE’S AI PUSH IN SCHOOLS – WSJ
-- 10/22 01:38 [FirstSquawk] US ISSUES NEW IRAN-RELATED SANCTIONS -US TREASURY DEPARTMENT
-- 10/22 01:40 [financialjuice] US posts license for LukOil international GMBH sale talks
-- 10/22 01:41 [financialjuice] European Commission: Market stability reserve of the EU ETS will be able to retain up to €700 million allowances
-- 10/22 01:43 [financialjuice] ❗ Treasury Dept. issues Iran general license HH US authorizes offloading cargo involving some blocked vessels.
-- 10/22 01:47 [financialjuice] US adds vessels to Iran sanction list
-- 10/22 01:52 [financialjuice] US Envoy Witkoff: US-Russia-Ukraine talks continue at technical level
-- 10/22 01:53 [FirstSquawk] TECHNICAL LEVEL MEETING OF US, RUSSIA, UKRAINE ACCEPTED: US
-- 10/22 01:53 [FirstSquawk] US AUTHORIZES OFFLOADING CARGO INVOLVING SOME BLOCKED VESSELS
-- 10/22 01:53 [FirstSquawk] ITALY ENERGY MIN EXPECTS MEASURES AGREED WITH EU TO CURB ENERGY PRICES TO ENTER INTO FORCE IN JANUARY
-- 10/22 01:54 [financialjuice] US Envoy Witkoff on Russia-Ukraine talks: There's work left to do.
-- 10/22 02:00 [financialjuice] Treasury WI 20y yield 5.460% before $13 billion auction
-- 10/22 02:01 [financialjuice] FINCEN has also issued multiple requests for information concerning relationships of banks with Iranian financial institutions under US sanctions -statement
-- 10/22 02:01 [financialjuice] US Financial Crimes Enforcement Network issuing administrative subpoena to advance investigation into a Greek bank's potential ties to Iran -Statement
-- 10/22 02:02 [financialjuice] US targets Iranian shadow fleet with new sAnctions, including against Panama- and Greece-based law firm - Statement
-- 10/22 02:02 [financialjuice] US 20-YEAR BOND HIGH YIELD ACTUAL 5.469% (FORECAST -, PREVIOUS 5.420%) $MACRO
-- 10/22 02:02 [financialjuice] US 20-YEAR BOND BID-TO-COVER ACTUAL 2.730 (FORECAST -, PREVIOUS 2.570) $MACRO
-- 10/22 02:02 [DeItaone] YIELD ON 20-YR U.S. TREASURY BOND PARES DECLINE AFTER $13 BLN AUCTION, LAST DOWN 1.25 BASIS POINTS AT 5.467%
-- 10/22 02:03 [financialjuice] US 20-Year Bond Auction
-- 10/22 02:03 [financialjuice] US 20-Year Bond Auction High Yield 5.469% [Tail 0.9 bps] Bid-to-cover 2.73 Sells $13 bln Awards 60.05% of bids at high Primary Dealers take 10.3% Direct 31.6% Indirect 58.2%
-- 10/22 02:05 [financialjuice] Iran's President Pezeshkian: Iran has never sought war and has no intention of initiating one, but will never yield to force or bullying - Press TV
-- 10/22 02:05 [FirstSquawk] US 20Y BONDS DRAW 5.469% VS 5.460% PRE-SALE WHEN-ISSUED YIELD
-- 10/22 02:13 [financialjuice/FirstSquawk] China and Russia agree to support firms to expand oil cooperation - Xinhua
-- 10/22 02:14 [financialjuice] Yemeni sources: The Houthis carry out a drone attack near the "Duba" oil port in "Shukra" in Hadramout - Sky News Arabiya
-- 10/22 02:16 [financialjuice] Yemen Houthis: We are preparing for an all-round escalation of conflicts
-- 10/22 02:16 [financialjuice] Yemen's Houthis: All negotiations have reached a dead end because Saudi Arabia seeks to impose its demands on the Yemeni people, which Sana'a will not accept
-- 10/22 02:18 [financialjuice] Meta must pay $25 billion in penalties, New Mexico judge rules after jury found company misled consumers about privacy - $META
-- 10/22 02:20 [DeItaone] $META - META MUST PAY $25 BILLION IN PENALTIES, NEW MEXICO JUDGE RULES AFTER JURY FOUND COMPANY MISLED CONSUMERS ABOUT PRIVACY
-- 10/22 02:24 [financialjuice] ❗ Iran’s Foreign Minister Araghchi: Iran is prepared to give diplomacy another chance if we see strong evidence of a sincere desire by the us to build trust & reach a just solution.
-- 10/22 02:24 [DeItaone] IRAN'S ARAQCHIL: IRAN IS PREPARED TO GIVE DIPLOMACY ANOTHER CHANCE IF WE SEE STRONG EVIDENCE OF A SINCERE DESIRE BY THE US TO BUILD TRUST & REACH A JUST SOLUTION IRAN'S ARAQCHI: BUT IF US CHOOSES WAR OVER DIPLOMACY, IT'LL CERTAINLY RESULT I…
-- 10/22 02:24 [financialjuice] Iran’s Foreign Minister Araghchi: However, if US chooses war over diplomacy, it'll certainly result in an even greater strategic failure.
-- 10/22 02:25 [DeItaone] NVIDIA MAY ALSO BE A BIDDER FOR AMBARELLA ( $AMBA ) - BETAVILLE
-- 10/22 02:28 [financialjuice] Dozens of Israeli Air Force planes conducted a sortie reaching the Iranian border on Monday-Tuesday night - US sources to Israel's Channel 12
-- 10/22 02:30 [financialjuice] ❗ Micron CTO: Won't pursue 4F-squared memory chips despite CXMT's advance - Nikkei. $MU
-- 10/22 02:31 [financialjuice] Micron will continue to bet on 6F-squared structure and the next-generation 3D Dram technology - Nikkei
-- 10/22 02:34 [FirstSquawk] IRAN’S PRESIDENT PEZESHKIAN SAYS IRAN HAS NEVER SOUGHT WAR AND HAS NO INTENTION OF INITIATING ONE, BUT WILL NEVER YIELD TO FORCE OR BULLYING - PRESS TV
-- 10/22 02:34 [financialjuice] KPC CEO: Producing well over 2m barrels a day.
-- 10/22 02:35 [FirstSquawk] IRAN’S FOREIGN MINISTER ARAGHCHI SAYS IRAN IS PREPARED TO GIVE DIPLOMACY ANOTHER CHANCE IF IT SEES STRONG EVIDENCE OF A SINCERE DESIRE BY THE U.S. TO BUILD TRUST AND REACH A JUST SOLUTION, BUT THAT IF THE U.S. CHOOSES WAR OVER DIPLOMACY IT …
-- 10/22 02:36 [financialjuice] KPC CEO: Exporting crude at prewar levels.
-- 10/22 02:37 [financialjuice] KPC CEO: We're now seeing customers coming into Gulf to collect
-- 10/22 02:38 [FirstSquawk] YEMEN’S HOUTHIS SAY ALL NEGOTIATIONS HAVE REACHED A DEAD END BECAUSE SAUDI ARABIA SEEKS TO IMPOSE ITS DEMANDS ON THE YEMENI PEOPLE, WHICH SANA’A WILL NOT ACCEPT, ADDING THAT THEY ARE PREPARING FOR AN ALL-ROUND ESCALATION OF CONFLICTS
-- 10/22 02:38 [FirstSquawk] YEMENI SOURCES SAY THE HOUTHIS CARRIED OUT A DRONE ATTACK NEAR THE “DUBA” OIL PORT IN “SHUKRA” IN HADRAMOUT - SKY NEWS ARABIYA
-- 10/22 02:38 [FirstSquawk] META MUST PAY $25 BLN IN PENALTIES, A NEW MEXICO JUDGE RULES, AFTER A JURY FOUND THE COMPANY MISLED CONSUMERS ABOUT PRIVACY
-- 10/22 02:40 [FirstSquawk] KPC CEO SAYS CUSTOMERS ARE NOW COMING INTO THE GULF TO COLLECT, THAT KUWAIT IS EXPORTING CRUDE AT PREWAR LEVELS AND PRODUCING WELL OVER 2 MLN BARRELS A DAY
-- 10/22 02:40 [financialjuice] KPC: Making a lot of progress in talks on pipelines
-- 10/22 02:47 [FirstSquawk] ORANGE: ‘MAJOR INCIDENT’ IMPACTING MOBILE NETWORK IN FRANCE
-- 10/22 02:47 [FirstSquawk] MICRON SAYS IT WILL CONTINUE TO BET ON THE 6F-SQUARED STRUCTURE AND NEXT-GENERATION 3D DRAM TECHNOLOGY, WITH ITS CTO SAYING THE COMPANY WILL NOT PURSUE 4F-SQUARED MEMORY CHIPS DESPITE CXMT’S ADVANCE - NIKKEI
-- 10/22 02:48 [FirstSquawk] KUWAIT PETROLEUM CEO SAYS CRUDE SUPPLY AMPLE, FUELS ARE BOTTLENECK - BARRONS
-- 10/22 02:52 [financialjuice] Saudi-led coalition says it intercepted and destroyed a drone launched towards the eastern region
-- 10/22 02:59 [FirstSquawk] ITALY SAID TO APPROVE THURSDAY NEW MEASURES FOR TRANSPORT, AGRICULTURE
-- 10/22 03:02 [financialjuice/FirstSquawk] Treasury accepts $750M of $4.751B offers in debt buyback, 8 of 27 eligible issues; buyback targets coupons maturing 2028-2036
-- 10/22 03:06 [financialjuice/FirstSquawk] GM: Native Onstar AI assistant to debut in 2027 Cadillac Lyrio in coming months through over-the-air update, with additional GM vehicles to follow. $GM
 - 10/22 03:22 [DeItaone] UKRAINE'S ZELENSKIY SAYS SUPPORTS US PROPOSAL FOR TRILATERAL TALKS AT LEVEL OF NEGOTIATORS AS SOON AS POSSIBLE
 - 10/22 03:23 [financialjuice] Ukraine's Zelenskiy: Supports US proposal for trilateral talks at the level of negotiators as soon as possible
 - 10/22 03:23 [financialjuice] Ukraine’s President Zelenskiy: Trilateral teams' meeting may happen early Nov.
@@ -97,6 +33,8 @@
 - 10/22 03:26 [financialjuice] Canada's PM Carney: Canada will strengthen enforcement measures to protect against foreign steel dumping.
 - 10/22 03:27 [financialjuice] Canada's PM Carney: Canada remains ready to negotiate a fair trade deal when the us is prepared to sit down in good faith.
 - 10/22 03:28 [financialjuice] Iran’s Foreign Minister Araghchi: Economic diplomacy is active and we are looking to remove exporters' obstacles - IRIB News
+- 10/22 03:28 [FirstSquawk] TREASURY ACCEPTS $750M OF $4.751B OFFERS IN DEBT BUYBACK, 8 OF 27 ELIGIBLE ISSUES; BUYBACK TARGETS COUPONS MATURING 2028-2036
+- 10/22 03:29 [FirstSquawk] GM: NATIVE ONSTAR AI ASSISTANT TO DEBUT IN 2027 CADILLAC LYRIO IN COMING MONTHS THROUGH OVER-THE-AIR UPDATE, WITH ADDITIONAL GM VEHICLES TO FOLLOW.
 - 10/22 03:30 [FirstSquawk] A FEW MINUTES AGO, SEVERAL EXPLOSIONS HEARD FROM KERPAN SIRIK. ORIGIN AND NATURE OF SOUNDS IS STILL UNKNOWN - FARS NEWS
 - 10/22 03:31 [financialjuice] WATCH LIVE: Trump Speaks 2:30 PM ET
 - 10/22 03:31 [financialjuice] NYMEX WTI Crude Dec. futures settle at $97.15 a barrel down 67 cents, 0.68%
@@ -209,5 +147,49 @@
 - 10/22 06:09 [financialjuice] North Korea's Kim Yo Jong: new countermeasures to raise alert status along entire southern border line - KCNA
 - 10/22 06:09 [financialjuice] North Korea's Kim Yo Jong: South Korea will encounter 'most horrible and distressing situation' if it persists interference - KCNA
 - 10/22 06:11 [FirstSquawk] NORTH KOREA’S KIM YO JONG SAYS SOUTH KOREA WILL ENCOUNTER THE “MOST HORRIBLE AND DISTRESSING SITUATION” IF IT PERSISTS IN INTERFERENCE, ANNOUNCING NEW COUNTERMEASURES TO RAISE THE ALERT STATUS ALONG THE ENTIRE SOUTHERN BORDER LINE AND SAYIN…
-- 10/22 06:25 [financialjuice] European Council: Council, European Parliament Reach Provisional Political Deal on Measures to Revive and Simplify EU Securitisation Market
-- 10/22 06:27 [financialjuice] European Council: Framework on securitisation to lower capital requirements for most safe and well-structured deals
+- 10/22 06:25 [financialjuice/FirstSquawk] European Council: Council, European Parliament Reach Provisional Political Deal on Measures to Revive and Simplify EU Securitisation Market
+- 10/22 06:27 [financialjuice/FirstSquawk] European Council: Framework on securitisation to lower capital requirements for most safe and well-structured deals
+- 10/22 06:45 [financialjuice] NEW ZEALAND CPI YOY ACTUAL 3.7% (FORECAST 3.8%, PREVIOUS 4.1%) $MACRO
+- 10/22 06:45 [financialjuice] ‼ BREAKING: NEW ZEALAND CPI QOQ ACTUAL 0.7% (FORECAST 0.8%, PREVIOUS 1.5%) $MACRO
+- 10/22 06:45 [financialjuice] NZ Q3 consumer price index rises 3.7% vs year ago, poll forecast 3.8%
+- 10/22 06:45 [financialjuice] New Zealand Q3 consumer price index rises 0.7% vs previous quarter (poll 0.8%)
+- 10/22 06:45 [financialjuice] NZ Q3 consumer price index non-tradables rises 3.3% year on year
+- 10/22 06:45 [financialjuice] NZ Q3 consumer price index non-tradables climbs 1.0% quarter on quarter
+- 10/22 06:46 [financialjuice] New Zealand dollar falls to $0.5692 after CPI data misses forecast
+- 10/22 06:46 [FirstSquawk] NEW ZEALAND Q3 CPI ROSE 0.7% QOQ, BELOW THE POLL FORECAST OF 0.8% AND DOWN FROM 1.5% IN THE PRIOR QUARTER, AND ROSE 3.7% YOY, BELOW THE POLL FORECAST OF 3.8% AND DOWN FROM 4.1%
+- 10/22 06:46 [FirstSquawk] NEW ZEALAND Q3 NON-TRADABLES CPI ROSE 3.3% YOY AND 1.0% QOQ
+- 10/22 06:49 [financialjuice] OpenAI: updating usage policies effective November 20, 2026, to clarify rules for safe model development and sensitive AI applications
+- 10/22 06:50 [financialjuice] OpenAI: working to introduce safety IDs, which users can provide to help distinguish between end users in investigations - website
+- 10/22 06:50 [FirstSquawk] OPENAI SAYS IT IS UPDATING ITS USAGE POLICIES, EFFECTIVE NOVEMBER 20, 2026, TO CLARIFY THE RULES FOR SAFE MODEL DEVELOPMENT AND SENSITIVE USES OF AI, AND THAT IT IS WORKING TO INTRODUCE SAFETYIDS, WHICH CUSTOMERS CAN PROVIDE TO HELP DISTING…
+- 10/22 06:51 [financialjuice] OpenAI: updated usage policies require model routers and AI gateways to get OpenAI review and approval before offering access - website
+- 10/22 06:57 [FirstSquawk] LSEG IS NEARING A $3.5 BLN DEAL TO BUY CREDIT DATA SPECIALIST OCTUS, WITH THE TWO SIDES POSSIBLY ANNOUNCING A DEAL AS SOON AS THURSDAY - FT
+- 10/22 07:00 [FirstSquawk] TESLA CFO SAYS ENERGY GROSS MARGINS IMPROVED FROM 20.4% TO 33.1%, PRIMARILY ATTRIBUTED TO TARIFF REFUNDS AND WARRANTY TRUE-DOWNS
+- 10/22 07:01 [FirstSquawk] TESLA EXEC SAYS THE COMPANY IS LAUNCHING CYBERCABS IN DALLAS NEXT MONTH AND IS TRYING TO GET CYBERCABS TO CUSTOMERS BY THE END OF THIS YEAR, ADDING IT EXPECTS AROUND Q2 NEXT YEAR TO TURN ON SOME CUSTOMER CARS TO BE PART OF THE ROBOTAXI FLEE…
+- 10/22 07:04 [financialjuice] USDA confirms first detection of New World screwworm in U.S. wildlife: statement
+- 10/22 07:08 [financialjuice] Saudi-led coalition: four drones intercepted and destroyed in eastern province
+- 10/22 07:14 [financialjuice] Saudi civil aviation: one killed, eight injured in attack on King Fahd airport in Dammam on Wednesday
+- 10/22 07:17 [FirstSquawk] WHITE HOUSE HAS DEMANDED POLITICO RETRACT OR CORRECT STORIES, WITH A LETTER SENT TO POLITICO ON MONDAY AND THE RETRACTION DEMAND COMING FROM WHITE HOUSE COUNSEL - AXIOS
+- 10/22 07:17 [FirstSquawk] SAUDI CIVIL AVIATION SAYS ONE PERSON WAS KILLED AND EIGHT INJURED IN AN ATTACK ON KING FAHD AIRPORT IN DAMMAM ON WEDNESDAY, WHILE THE SAUDI-LED COALITION SAYS FOUR DRONES WERE INTERCEPTED AND DESTROYED IN THE EASTERN PROVINCE
+- 10/22 07:45 [FirstSquawk] AWS SAYS AMAZON THREAT INTELLIGENCE IDENTIFIED PHP2SHELL EXPLOITATION PRIOR TO PUBLIC DISCLOSURE IN MADPOT, WITH THE ACTIVITY CONDUCTED BY A THREAT ACTOR, THOUGH IT REMAINS UNCLEAR HOW THE ACTOR ACQUIRED EXPLOIT INFORMATION BEFORE DISCLOSUR…
+- 10/22 07:45 [FirstSquawk] AWS SAYS THE EXPLOIT ATTEMPT ORIGINATED FROM AN IP ADDRESS ASSOCIATED WITH A COMMERCIAL ANONYMIZATION NETWORK, AND THAT PHP2SHELL IS NOW BEING BROADLY EXPLOITED IN THE WILD
+- 10/22 07:48 [FirstSquawk] FORMER ITALIAN PRIME MINISTER AND EX-ECB CHIEF MARIO DRAGHI SAYS YOUNG PEOPLE FEEL “NO ONE IS LISTENING TO THEM,” LINKING RECENT YOUTH RIOTS IN PARIS, MILAN AND OTHER EUROPEAN CITIES TO FRUSTRATION ABOUT THEIR FUTURE, CALLING IT “A CASE OF …
+- 10/22 07:48 [FirstSquawk] DRAGHI SAYS THAT FOR THE YOUNG, SOCIAL JUSTICE MEANS FAIRNESS BETWEEN GENERATIONS, WHICH IS HARD TO MAINTAIN WITHOUT ECONOMIC GROWTH, ADDING THAT MANY FEEL THEY CANNOT EASILY FIND A JOB AND THAT THEY SEE SOCIETY CHANGING FAST THROUGH TECHNO…
+- 10/22 07:51 [FirstSquawk] THE U.S. AND ISRAEL ARE CRAFTING A PLAN FOR IRAN STRIKES AFTER THE ELECTION, WITH HEGSETH HAVING MET NETANYAHU THIS WEEK TO DISCUSS NEW IRAN STRIKES - NYT
+- 10/22 08:14 [financialjuice/FirstSquawk] Russian missiles hit Ukraine's Kyiv: source witness
+- 10/22 08:26 [FirstSquawk] US NATURAL GAS FUTURES FELL 5.8% TO $2.790/MMBTU FOR A FOURTH STRAIGHT SESSION AS ALGORITHMIC TRADERS RAMPED UP BEARISH POSITIONS AND WARMER FORECASTS THROUGH EARLY NOVEMBER WEIGHED ON HEATING-DEMAND EXPECTATIONS.
+- 10/22 08:26 [FirstSquawk] US GAS INVENTORIES ARE EXPECTED TO RISE BY 81 BILLION CUBIC FEET, WHILE PRODUCTION REACHED 113.4 BCF/D, UP 5.7% YEAR OVER YEAR; LNG EXPORT FLOWS ALSO INCREASED, THOUGH POTENTIAL COLD SPELLS COULD TRIGGER PRICE VOLATILITY.
+- 10/22 08:29 [FirstSquawk] ELON MUSK CONFIRMED TESLA AND SPACEX HAVE FORMED SPECIAL COMMITTEES TO EXPLORE A MERGER THAT COULD BOOST HIS WEALTH BY MORE THAN $110 BILLION THROUGH ACCELERATED VESTING OF TESLA SHARES.
+- 10/22 08:29 [FirstSquawk] A DEAL COULD ALSO UNLOCK OVER $6 BILLION IN TESLA COMPENSATION AT A $2 TRILLION VALUATION BY TRIGGERING CHANGE-IN-CONTROL PROVISIONS, WHILE POTENTIALLY PROMPTING NEW INCENTIVES FOR MUSK AT THE COMBINED COMPANY.
+- 10/22 08:39 [DeItaone] U.S. AND ISRAEL REPORTEDLY PLAN NEW IRAN STRIKES AFTER MIDTERMS The U.S. and Israel have reportedly developed plans for renewed attacks on Iran after the November 3 elections, according to the New York Times. Potential targets include energ…
+- 10/22 08:39 [financialjuice] New Mexico confirms new world screwworm case in Otero County: agriculture department
+- 10/22 08:47 [FirstSquawk] TRUMP: TELLS VOTERS TO ASK FOR MONEY ON DATA CENTRES
+- 10/22 08:50 [financialjuice] JAPANESE FOREIGN BOND INVESTMENT ACTUAL -161.6B (FORECAST -, PREVIOUS -339.7B) $MACRO
+- 10/22 08:50 [financialjuice] FOREIGN INVESTMENT JAPANESE STOCKS ACTUAL -66.5B (FORECAST -, PREVIOUS 3,521.5B ,REVISION 3,545.5B) $MACRO
+- 10/22 08:51 [financialjuice] FOREIGN INVESTMENT JAPANESE BONDS ACTUAL 1,454.2B (FORECAST -, PREVIOUS 1,080.1B) $MACRO
+- 10/22 08:51 [financialjuice] JAPANESE FOREIGN STOCK INVESTMENT ACTUAL 128.3B (FORECAST -, PREVIOUS -760.6B) $MACRO
+- 10/22 08:57 [FirstSquawk] JAPAN EARLY TRADE: BENCHMARK 10-YEAR JGB FUTURES RISE 0.17 POINT; NIKKEI AVERAGE FUTURES FALL 0.7%
+- 10/22 08:58 [FirstSquawk] JAPAN WEEKLY ORDER FLOWS TO OCTOBER 16 SHOW JAPAN SOLD A NET ¥161.6 BLN OF FOREIGN BONDS AND BOUGHT A NET ¥128.3 BLN OF FOREIGN STOCKS FOREIGN INVESTORS BOUGHT A NET ¥1,454.2 BLN OF JAPANESE BONDS AND SOLD A NET ¥66.5 BLN OF JAPANESE STOCKS
+- 10/22 09:00 [FirstSquawk] Nikkei Average Futures Drop 0.7% in Early Japanese Trading
+- 10/22 09:00 [FirstSquawk] Benchmark 10-Year Japanese Government Bond Futures Gain 0.17 Point at the Open
+- 10/22 09:01 [FirstSquawk] Yield on Japan’s 5-Year Government Bonds Drops 1 BP to 2.285%
+- 10/22 09:08 [FirstSquawk] Trump: We Delivered a Crushing Defeat to Tehran and Want Lasting Results in Iran

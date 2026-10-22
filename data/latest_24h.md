@@ -7,58 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-22 06:33 JST／対象: 10/21 06:33 〜 10/22 06:33 JST（時刻はすべて日本時間）
+生成: 2026-10-22 09:09 JST／対象: 10/21 09:09 〜 10/22 09:09 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 41 | 10/21 09:46 | 10/22 05:32 | ⚠ 582分（09:46→19:28） |
-| FirstSquawk | 275 | 10/21 06:39 | 10/22 06:11 | ⚠ 101分（07:41→09:23） |
-| financialjuice | 310 | 10/21 06:49 | 10/22 06:27 | ⚠ 91分（16:18→17:49） |
+| DeItaone | 42 | 10/21 09:46 | 10/22 08:39 | ⚠ 582分（09:46→19:28） |
+| FirstSquawk | 297 | 10/21 09:23 | 10/22 09:08 | ⚠ 53分（10:52→11:46） |
+| financialjuice | 299 | 10/21 09:18 | 10/22 08:51 | ⚠ 91分（16:18→17:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 611 行（統合前 634 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 620 行（統合前 646 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/21 06:39 [FirstSquawk] NETFLIX SAYS ITS STRATEGY IS UNCHANGED AND THAT ORIGINAL SERIES AND FILMS ARE THE ANCHOR OF THAT STRATEGY, ADDING IT IS SEEING GOOD RESULTS IN APAC, LATAM AND EMEA
-- 10/21 06:39 [FirstSquawk] NETFLIX SAYS RECENT PRICE CHANGES HAVE GONE WELL BUT THAT IT CAN DO BETTER IN THE U.S. AND CANADA
-- 10/21 06:40 [FirstSquawk] CITADEL CEO GRIFFIN SAYS THERE ARE ALMOST CERTAINLY BUBBLES WITH AI RIGHT NOW, THOUGH BUBBLES COINCIDE WITH GIANT TECHNOLOGICAL ADVANCES, ADDING THAT COMPANIES ARE SCRUTINISING BILLS FROM ANTHROPIC AND OPENAI AND THAT SOME HAVE STRUGGLED TO…
-- 10/21 06:40 [FirstSquawk] CITADEL CEO GRIFFIN SAYS INVESTORS ARE BECOMING MORE DISCERNING IN THE AI BUILDOUT, AND THAT MOST OF CITADEL’S ALPHA COMES FROM HUMAN RESEARCHERS
-- 10/21 06:49 [financialjuice] Rba's Hauser: still finalising forecasts, uncertain about board decision
-- 10/21 06:49 [financialjuice] S. Korea Sept producer price index rises 7.7% y/y vs 7.9% in Aug:
-- 10/21 06:49 [financialjuice] RBA's Hauser: inflation outlook appears worse than forecast, slightly above expectations
-- 10/21 06:50 [financialjuice] RBA's Hauser: Companies cite cost pressures as top concern
-- 10/21 06:50 [financialjuice] RBA's Hauser: inflation has remained elevated for an extended period
-- 10/21 06:51 [financialjuice] RBA's Hauser: inflation expectations must stay anchored to target
-- 10/21 06:51 [financialjuice] RBA's Hauser: Observed some easing in job data and housing
-- 10/21 06:52 [financialjuice] RBA's Hauser: Monetary policy effective, but inflation outlook deteriorates
-- 10/21 06:55 [financialjuice] RBA's Hauser: Must respond to supply shocks to maintain inflation expectations
-- 10/21 07:00 [financialjuice] Poll: Japan government to maintain new bond issuance under 40 trillion yen for FY 2027, 65% of respondents say
-- 10/21 07:00 [financialjuice] Poll: Bank of Japan to increase benchmark interest rate to 1.50% in April: 69% of economists (vs 36% in September poll)
-- 10/21 07:00 [financialjuice] Poll: 72% of economists say dissenting votes against BoJ rate hike could weaken yen
-- 10/21 07:13 [financialjuice] Bas Hauser: quarterly trimmed mean likely to exceed expectations
-- 10/21 07:14 [financialjuice] RBA’s Hauser: You can't aim for current inflation, but it still matters
-- 10/21 07:14 [financialjuice] RBA's Hauser: capacity constraints more intense than anticipated
-- 10/21 07:18 [financialjuice] RBA's Hauser: September labor report was somewhat weaker than expected
-- 10/21 07:18 [financialjuice] RBA's Hauser: Unemployment remains low, but labor market is softening
-- 10/21 07:41 [FirstSquawk] RBA’S HAUSER SAYS THE SEPTEMBER LABOR REPORT WAS SOMEWHAT WEAKER THAN EXPECTED AND THAT CAPACITY CONSTRAINTS ARE MORE INTENSE THAN ANTICIPATED, ADDING THAT YOU CANNOT AIM FOR CURRENT INFLATION BUT IT STILL MATTERS
-- 10/21 08:09 [financialjuice] Witkoff to present Putin with peace plan after talks with Zelensky: Axios
-- 10/21 08:42 [financialjuice] Nvidia in talks to invest hundreds of millions in Australian AI cloud provider Firmus - The Information
-- 10/21 08:50 [financialjuice] ❗ JAPANESE EXPORTS YOY ACTUAL 16.7% (FORECAST 21.3%, PREVIOUS 19.3%) $MACRO
-- 10/21 08:50 [financialjuice] ❗ JAPANESE TOTAL TRADE BALANCE ACTUAL -536.6B (FORECAST -210.4B, PREVIOUS -1,111.9B) $MACRO
-- 10/21 08:50 [financialjuice] Japan's September exports to U.S. rise 22.9% year/year: MOF
-- 10/21 08:50 [financialjuice] Japan September trade deficit widens to 536.6 billion yen: ministry of finance (poll: 181.0 billion yen)
-- 10/21 08:50 [financialjuice] Japan Sept exports to Asia rise 17.5% year/year: MOF
-- 10/21 08:50 [financialjuice] Japan Sep exports rise 16.7% year/year: MOF (poll 20.1%)
-- 10/21 08:50 [financialjuice] Japan Sept imports rise 18.9% year/year: MOF (poll 19.6%)
-- 10/21 08:50 [financialjuice] Japan's September exports to EU rise 10.5% year/year: MOF
-- 10/21 08:50 [financialjuice] Japan September exports to China rise 8.6% year on year: MOF
-- 10/21 09:00 [financialjuice] S.Korea Oct 1-20 trade surplus provisional $14.5 billion: customs agency
-- 10/21 09:00 [financialjuice] S. Korea Oct 1-20 imports rise 42.8% y/y: customs agency
 - 10/21 09:18 [financialjuice] China PBOC likely to fix yuan midpoint at 6.6779 per dollar – estimate
 - 10/21 09:23 [FirstSquawk] NVIDIA IN TALKS TO INVEST HUNDREDS OF MILLIONS OF DOLLARS IN AUSTRALIAN AI CLOUD PROVIDER FIRMUS – TIF
 - 10/21 09:24 [FirstSquawk] BRIGHTMINE SAYS UK MEDIAN PAY AWARDS EDGED UP TO 3.1% IN THE THREE MONTHS TO SEPTEMBER FROM 3.0% IN THE PERIODS TO AUGUST AND JULY, WITH LITTLE SIGN OF A SHIFT IN WAGE TRENDS AND MOST DEALS NOT EXCEEDING YEAR-EARLIER AWARDSBRIGHTMINE SAYS U…
@@ -633,5 +598,49 @@
 - 10/22 06:09 [financialjuice] North Korea's Kim Yo Jong: new countermeasures to raise alert status along entire southern border line - KCNA
 - 10/22 06:09 [financialjuice] North Korea's Kim Yo Jong: South Korea will encounter 'most horrible and distressing situation' if it persists interference - KCNA
 - 10/22 06:11 [FirstSquawk] NORTH KOREA’S KIM YO JONG SAYS SOUTH KOREA WILL ENCOUNTER THE “MOST HORRIBLE AND DISTRESSING SITUATION” IF IT PERSISTS IN INTERFERENCE, ANNOUNCING NEW COUNTERMEASURES TO RAISE THE ALERT STATUS ALONG THE ENTIRE SOUTHERN BORDER LINE AND SAYIN…
-- 10/22 06:25 [financialjuice] European Council: Council, European Parliament Reach Provisional Political Deal on Measures to Revive and Simplify EU Securitisation Market
-- 10/22 06:27 [financialjuice] European Council: Framework on securitisation to lower capital requirements for most safe and well-structured deals
+- 10/22 06:25 [financialjuice/FirstSquawk] European Council: Council, European Parliament Reach Provisional Political Deal on Measures to Revive and Simplify EU Securitisation Market
+- 10/22 06:27 [financialjuice/FirstSquawk] European Council: Framework on securitisation to lower capital requirements for most safe and well-structured deals
+- 10/22 06:45 [financialjuice] NEW ZEALAND CPI YOY ACTUAL 3.7% (FORECAST 3.8%, PREVIOUS 4.1%) $MACRO
+- 10/22 06:45 [financialjuice] ‼ BREAKING: NEW ZEALAND CPI QOQ ACTUAL 0.7% (FORECAST 0.8%, PREVIOUS 1.5%) $MACRO
+- 10/22 06:45 [financialjuice] NZ Q3 consumer price index rises 3.7% vs year ago, poll forecast 3.8%
+- 10/22 06:45 [financialjuice] New Zealand Q3 consumer price index rises 0.7% vs previous quarter (poll 0.8%)
+- 10/22 06:45 [financialjuice] NZ Q3 consumer price index non-tradables rises 3.3% year on year
+- 10/22 06:45 [financialjuice] NZ Q3 consumer price index non-tradables climbs 1.0% quarter on quarter
+- 10/22 06:46 [financialjuice] New Zealand dollar falls to $0.5692 after CPI data misses forecast
+- 10/22 06:46 [FirstSquawk] NEW ZEALAND Q3 CPI ROSE 0.7% QOQ, BELOW THE POLL FORECAST OF 0.8% AND DOWN FROM 1.5% IN THE PRIOR QUARTER, AND ROSE 3.7% YOY, BELOW THE POLL FORECAST OF 3.8% AND DOWN FROM 4.1%
+- 10/22 06:46 [FirstSquawk] NEW ZEALAND Q3 NON-TRADABLES CPI ROSE 3.3% YOY AND 1.0% QOQ
+- 10/22 06:49 [financialjuice] OpenAI: updating usage policies effective November 20, 2026, to clarify rules for safe model development and sensitive AI applications
+- 10/22 06:50 [financialjuice] OpenAI: working to introduce safety IDs, which users can provide to help distinguish between end users in investigations - website
+- 10/22 06:50 [FirstSquawk] OPENAI SAYS IT IS UPDATING ITS USAGE POLICIES, EFFECTIVE NOVEMBER 20, 2026, TO CLARIFY THE RULES FOR SAFE MODEL DEVELOPMENT AND SENSITIVE USES OF AI, AND THAT IT IS WORKING TO INTRODUCE SAFETYIDS, WHICH CUSTOMERS CAN PROVIDE TO HELP DISTING…
+- 10/22 06:51 [financialjuice] OpenAI: updated usage policies require model routers and AI gateways to get OpenAI review and approval before offering access - website
+- 10/22 06:57 [FirstSquawk] LSEG IS NEARING A $3.5 BLN DEAL TO BUY CREDIT DATA SPECIALIST OCTUS, WITH THE TWO SIDES POSSIBLY ANNOUNCING A DEAL AS SOON AS THURSDAY - FT
+- 10/22 07:00 [FirstSquawk] TESLA CFO SAYS ENERGY GROSS MARGINS IMPROVED FROM 20.4% TO 33.1%, PRIMARILY ATTRIBUTED TO TARIFF REFUNDS AND WARRANTY TRUE-DOWNS
+- 10/22 07:01 [FirstSquawk] TESLA EXEC SAYS THE COMPANY IS LAUNCHING CYBERCABS IN DALLAS NEXT MONTH AND IS TRYING TO GET CYBERCABS TO CUSTOMERS BY THE END OF THIS YEAR, ADDING IT EXPECTS AROUND Q2 NEXT YEAR TO TURN ON SOME CUSTOMER CARS TO BE PART OF THE ROBOTAXI FLEE…
+- 10/22 07:04 [financialjuice] USDA confirms first detection of New World screwworm in U.S. wildlife: statement
+- 10/22 07:08 [financialjuice] Saudi-led coalition: four drones intercepted and destroyed in eastern province
+- 10/22 07:14 [financialjuice] Saudi civil aviation: one killed, eight injured in attack on King Fahd airport in Dammam on Wednesday
+- 10/22 07:17 [FirstSquawk] WHITE HOUSE HAS DEMANDED POLITICO RETRACT OR CORRECT STORIES, WITH A LETTER SENT TO POLITICO ON MONDAY AND THE RETRACTION DEMAND COMING FROM WHITE HOUSE COUNSEL - AXIOS
+- 10/22 07:17 [FirstSquawk] SAUDI CIVIL AVIATION SAYS ONE PERSON WAS KILLED AND EIGHT INJURED IN AN ATTACK ON KING FAHD AIRPORT IN DAMMAM ON WEDNESDAY, WHILE THE SAUDI-LED COALITION SAYS FOUR DRONES WERE INTERCEPTED AND DESTROYED IN THE EASTERN PROVINCE
+- 10/22 07:45 [FirstSquawk] AWS SAYS AMAZON THREAT INTELLIGENCE IDENTIFIED PHP2SHELL EXPLOITATION PRIOR TO PUBLIC DISCLOSURE IN MADPOT, WITH THE ACTIVITY CONDUCTED BY A THREAT ACTOR, THOUGH IT REMAINS UNCLEAR HOW THE ACTOR ACQUIRED EXPLOIT INFORMATION BEFORE DISCLOSUR…
+- 10/22 07:45 [FirstSquawk] AWS SAYS THE EXPLOIT ATTEMPT ORIGINATED FROM AN IP ADDRESS ASSOCIATED WITH A COMMERCIAL ANONYMIZATION NETWORK, AND THAT PHP2SHELL IS NOW BEING BROADLY EXPLOITED IN THE WILD
+- 10/22 07:48 [FirstSquawk] FORMER ITALIAN PRIME MINISTER AND EX-ECB CHIEF MARIO DRAGHI SAYS YOUNG PEOPLE FEEL “NO ONE IS LISTENING TO THEM,” LINKING RECENT YOUTH RIOTS IN PARIS, MILAN AND OTHER EUROPEAN CITIES TO FRUSTRATION ABOUT THEIR FUTURE, CALLING IT “A CASE OF …
+- 10/22 07:48 [FirstSquawk] DRAGHI SAYS THAT FOR THE YOUNG, SOCIAL JUSTICE MEANS FAIRNESS BETWEEN GENERATIONS, WHICH IS HARD TO MAINTAIN WITHOUT ECONOMIC GROWTH, ADDING THAT MANY FEEL THEY CANNOT EASILY FIND A JOB AND THAT THEY SEE SOCIETY CHANGING FAST THROUGH TECHNO…
+- 10/22 07:51 [FirstSquawk] THE U.S. AND ISRAEL ARE CRAFTING A PLAN FOR IRAN STRIKES AFTER THE ELECTION, WITH HEGSETH HAVING MET NETANYAHU THIS WEEK TO DISCUSS NEW IRAN STRIKES - NYT
+- 10/22 08:14 [financialjuice/FirstSquawk] Russian missiles hit Ukraine's Kyiv: source witness
+- 10/22 08:26 [FirstSquawk] US NATURAL GAS FUTURES FELL 5.8% TO $2.790/MMBTU FOR A FOURTH STRAIGHT SESSION AS ALGORITHMIC TRADERS RAMPED UP BEARISH POSITIONS AND WARMER FORECASTS THROUGH EARLY NOVEMBER WEIGHED ON HEATING-DEMAND EXPECTATIONS.
+- 10/22 08:26 [FirstSquawk] US GAS INVENTORIES ARE EXPECTED TO RISE BY 81 BILLION CUBIC FEET, WHILE PRODUCTION REACHED 113.4 BCF/D, UP 5.7% YEAR OVER YEAR; LNG EXPORT FLOWS ALSO INCREASED, THOUGH POTENTIAL COLD SPELLS COULD TRIGGER PRICE VOLATILITY.
+- 10/22 08:29 [FirstSquawk] ELON MUSK CONFIRMED TESLA AND SPACEX HAVE FORMED SPECIAL COMMITTEES TO EXPLORE A MERGER THAT COULD BOOST HIS WEALTH BY MORE THAN $110 BILLION THROUGH ACCELERATED VESTING OF TESLA SHARES.
+- 10/22 08:29 [FirstSquawk] A DEAL COULD ALSO UNLOCK OVER $6 BILLION IN TESLA COMPENSATION AT A $2 TRILLION VALUATION BY TRIGGERING CHANGE-IN-CONTROL PROVISIONS, WHILE POTENTIALLY PROMPTING NEW INCENTIVES FOR MUSK AT THE COMBINED COMPANY.
+- 10/22 08:39 [DeItaone] U.S. AND ISRAEL REPORTEDLY PLAN NEW IRAN STRIKES AFTER MIDTERMS The U.S. and Israel have reportedly developed plans for renewed attacks on Iran after the November 3 elections, according to the New York Times. Potential targets include energ…
+- 10/22 08:39 [financialjuice] New Mexico confirms new world screwworm case in Otero County: agriculture department
+- 10/22 08:47 [FirstSquawk] TRUMP: TELLS VOTERS TO ASK FOR MONEY ON DATA CENTRES
+- 10/22 08:50 [financialjuice] JAPANESE FOREIGN BOND INVESTMENT ACTUAL -161.6B (FORECAST -, PREVIOUS -339.7B) $MACRO
+- 10/22 08:50 [financialjuice] FOREIGN INVESTMENT JAPANESE STOCKS ACTUAL -66.5B (FORECAST -, PREVIOUS 3,521.5B ,REVISION 3,545.5B) $MACRO
+- 10/22 08:51 [financialjuice] FOREIGN INVESTMENT JAPANESE BONDS ACTUAL 1,454.2B (FORECAST -, PREVIOUS 1,080.1B) $MACRO
+- 10/22 08:51 [financialjuice] JAPANESE FOREIGN STOCK INVESTMENT ACTUAL 128.3B (FORECAST -, PREVIOUS -760.6B) $MACRO
+- 10/22 08:57 [FirstSquawk] JAPAN EARLY TRADE: BENCHMARK 10-YEAR JGB FUTURES RISE 0.17 POINT; NIKKEI AVERAGE FUTURES FALL 0.7%
+- 10/22 08:58 [FirstSquawk] JAPAN WEEKLY ORDER FLOWS TO OCTOBER 16 SHOW JAPAN SOLD A NET ¥161.6 BLN OF FOREIGN BONDS AND BOUGHT A NET ¥128.3 BLN OF FOREIGN STOCKS FOREIGN INVESTORS BOUGHT A NET ¥1,454.2 BLN OF JAPANESE BONDS AND SOLD A NET ¥66.5 BLN OF JAPANESE STOCKS
+- 10/22 09:00 [FirstSquawk] Nikkei Average Futures Drop 0.7% in Early Japanese Trading
+- 10/22 09:00 [FirstSquawk] Benchmark 10-Year Japanese Government Bond Futures Gain 0.17 Point at the Open
+- 10/22 09:01 [FirstSquawk] Yield on Japan’s 5-Year Government Bonds Drops 1 BP to 2.285%
+- 10/22 09:08 [FirstSquawk] Trump: We Delivered a Crushing Defeat to Tehran and Want Lasting Results in Iran

@@ -7,104 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-22 06:33 JST／対象: 10/21 18:33 〜 10/22 06:33 JST（時刻はすべて日本時間）
+生成: 2026-10-22 09:09 JST／対象: 10/21 21:09 〜 10/22 09:09 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 40 | 10/21 19:28 | 10/22 05:32 | ⚠ 100分（03:52→05:32） |
-| FirstSquawk | 139 | 10/21 18:39 | 10/22 06:11 | 38分（21:35→22:13） |
-| financialjuice | 199 | 10/21 18:39 | 10/22 06:27 | 36分（00:52→01:28） |
+| DeItaone | 27 | 10/21 21:20 | 10/22 08:39 | ⚠ 186分（05:32→08:39） |
+| FirstSquawk | 143 | 10/21 21:11 | 10/22 09:08 | 38分（21:35→22:13） |
+| financialjuice | 172 | 10/21 21:11 | 10/22 08:51 | ⚠ 59分（07:14→08:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 366 行（統合前 385 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 329 行（統合前 347 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/21 18:39 [FirstSquawk] NVIDIA INTRODUCES DSX POD AI FACTORIES TO ACCELERATE EUROPE’S INFRASTRUCTURE DEPLOYMENT; DSX POD UNITS REDUCE DEPLOYMENT TIME TO AS LITTLE AS 14 DAYS; EUROPEAN ECOSYSTEM BUILDS WORLD’S MOST EFFICIENT AI FACTORIES WITH NVIDIA DSX
-- 10/21 18:39 [financialjuice] French President Macron: We secured 2 terawatt-hours per month of gas from Qatar during the winter period
-- 10/21 18:47 [FirstSquawk] GERMAN GOVERNMENT SPOKESPERSON SAYS ON UKRAINE: GERMAN, EUROPEAN CONTACTS WITH THE US SUGGEST THAT AMERICANS ARE INTERESTED IN NEGOTIATION PROCESS
-- 10/21 18:52 [financialjuice] NVIDIA launches open-shell reference architecture for AI agents $NVDA
-- 10/21 18:52 [financialjuice] German Government Spokesperson: We are in close exchange with the US on Ukraine
-- 10/21 18:52 [financialjuice] NVIDIA DSX cuts cooling water use to near zero at 2GW scale $NVDA
-- 10/21 18:53 [financialjuice] NVIDIA DSX MaxLPS cuts power use by up to 30% per token $NVDA
-- 10/21 18:53 [financialjuice] BofA's Bernard Mensah: Bit worried about sovereign yields
-- 10/21 18:55 [financialjuice] ECB's Kazaks: More tightening may be needed if inflation stays high
-- 10/21 18:56 [financialjuice] Iran's President Pezeshkian: The US cannot blockade and threaten Iran but expect to have dialogue - IRNA
-- 10/21 18:56 [financialjuice] ECB's Kazaks: Caution needed as higher yields may slow the economy
-- 10/21 18:56 [financialjuice] ECB's Kazaks: There's some extra tightening coming from markets
-- 10/21 18:57 [financialjuice] ECB's Kazaks: Not seeing conditions for excessive wage demands
-- 10/21 19:02 [financialjuice] Trump admin to evaluate whether further loans from the heating oil reserve should follow - US government source
-- 10/21 19:03 [financialjuice] China to pursue decisive breakthroughs in key tech, including integrated circuits, industrial machine tools, high-end instruments, advanced materials, biomanufacturing - Xinhua
-- 10/21 19:03 [financialjuice] China to accelerate development of strategic emerging industries, including new energy, new materials, and aerospace - Xinhua
-- 10/21 19:06 [FirstSquawk] Danaher Q3 Earnings - Sales: $6.6B (est $6.56B) - Adjusted EPS: $2.11 (est $1.92) - Raises FY26 Adjusted EPS Guidance - Sees FY Adjusted EPS: $8.57 To $8.62 (prev $8.45 To $8.60) - Sees Q4 Core Revenue Ex-Respiratory: +4% To +5% Y/Y
-- 10/21 19:14 [FirstSquawk] NVIDIA, NOKIA AND LEADING TELECOM OPERATORS TURN NETWORKS INTO DISTRIBUTED INTELLIGENCE PLATFORMS
-- 10/21 19:14 [FirstSquawk] CHINA SEEKS BREAKTHROUGHS IN TECH SUCH AS INTEGRATED CIRCUITS
-- 10/21 19:15 [FirstSquawk] US WTI MIDLAND CRUDE OIL FUTURES RISE MORE THAN $2 TO SESSION HIGH OF $99.88/BBL AMID FALLING US OIL STOCKPILES
-- 10/21 19:15 [financialjuice] Kremlin: Russia will analyse US proposals, but much depends on Ukraine - IFX
-- 10/21 19:15 [FirstSquawk] KREMLIN: PUTIN, TRUMP TALKS WILL BE SERIOUS, LONG - IFX
-- 10/21 19:16 [financialjuice] Kremlin: Putin, Trump talks will be serious and long - IFX
-- 10/21 19:16 [financialjuice] Kremlin: If ukraine does not make necessary decisions, situation for them will be worse - IFX
-- 10/21 19:17 [financialjuice] Putin-Trump-Xi meeting possible, but no agenda yet - Tass.
-- 10/21 19:18 [FirstSquawk] BRENT CRUDE OIL FUTURES RISE MORE THAN $2 TO SESSION HIGH OF $111.25/BBL ON IRAN DENYING ANY DIPLOMATIC PROGRESS, FALLING US OIL INVENTORIES
-- 10/21 19:18 [financialjuice] UKMTO: Received a time late report of an incident 30nm of Al Faw, Iraq
-- 10/21 19:18 [FirstSquawk] KREMLIN: RUSSIA READY FOR NUCLEAR TALKS WITH US, CHINA: IFX
-- 10/21 19:24 [financialjuice] Iran's FM: We are ready for diplomacy, but will defend ourselves - FT
-- 10/21 19:25 [financialjuice] Iran FM: Given that the US has shown no willingness to reach an understanding, there is little reason to expect progress now - FT
-- 10/21 19:28 [DeItaone] $SPCX - CITI FLAGS SPACEX AS A 90-DAY UPSIDE CATALYST Citi has added SpaceX to its 90-day upside catalyst watch list. Shares surged 8.21% overnight following the company's earnings release. Since its reported June 2026 IPO at $150, the stoc…
-- 10/21 19:28 [DeItaone] IRAN SIGNALS DIPLOMACY, BUT WARNS U.S. TRUST IS GONE Iranian Foreign Minister Abbas Araghchi says Tehran is ready for diplomacy but prepared to defend itself. Araghchi says Iran has “no trust whatsoever” in Washington's stated desire for pe…
-- 10/21 19:31 [financialjuice] $T AT&T Q3 2026 Earnings Adj EPS $0.65, Est. $0.60 EPS $2.40, Saw $2.25–$2.35, Est. $2.35 Rev $32.3B, Est. $31.7B Adj EBITDA $12.5B, Est. $12.34B
-- 10/21 19:32 [FirstSquawk] AT&T Q3 Earnings - Adjusted EBITDA: $12.5B (est $12.34B) - Adjusted EPS: 65c (est 60c) - Revenue: $32.3B (est $31.7B) - Free Cash Flow: $5B (est $4.94B) - Postpaid Phone-Only Churn: 0.92% - Wireless Postpaid Phone Net Adds: 379,000 (est 387…
-- 10/21 19:33 [DeItaone] $T - AT&T BEATS Q3 EXPECTATIONS, RAISES 2026 EARNINGS OUTLOOK AT&T delivered a double beat: 🔸 Revenue: $32.3B vs. $31.69B expected 🔸 Adjusted EPS: $0.65 vs. $0.60 expected 🔸 Adjusted EBITDA: $12.5B 🔸 Postpaid phone additions: 379,000, broad…
-- 10/21 19:35 [financialjuice] NVIDIA to boost product substrate capacity over next 3 years.
-- 10/21 19:35 [financialjuice] NVIDIA to give KYEC $1.1B capacity reservation advance $NVDA
-- 10/21 19:35 [DeItaone] https://t.co/KfY5vSOUSC
-- 10/21 19:37 [financialjuice] Nvidia sees semi testing capacity doubling from 2026 to 2027 $NVDA
-- 10/21 19:37 [financialjuice] NVIDIA: High-volume Kyec production targeted for April 2027
-- 10/21 19:39 [financialjuice] Nvidia and SPIL to expand optical engine capacity in Taiwan $NVDA
-- 10/21 19:40 [FirstSquawk] ZELENSKYY TALKS WITH WITKOFF WERE VERY PRODUCTIVE
-- 10/21 19:42 [DeItaone] $SPCX - WALL STREET RAISES SPACEX TARGETS AFTER EARNINGS Analysts are turning more bullish on SpaceX, with several banks lifting their price targets: 🔸 Morgan Stanley: $300 — Overweight 🔸 Wells Fargo: $274, up from $214 🔸 Citi: $240, up fro…
-- 10/21 19:43 [DeItaone] 🇫🇷 FRANCE'S BORROWING COSTS HIT 24-YEAR HIGH AS DEBT FEARS MOUNT France's 10-year government bond yield briefly topped 5% for the first time since 2002. Violent protests, widening fiscal concerns and political gridlock are fueling a selloff…
-- 10/21 19:45 [financialjuice] Ukraine’s President Zelenskiy: Ukraine has to support a potential deal
-- 10/21 19:46 [FirstSquawk] ZELENSKYY SAYS ANY PEACE DEAL WOULD REQUIRE REFERENDUM; SAYS STARLINK IS STILL LIMITED
-- 10/21 19:46 [FirstSquawk] ZELENSKYY: RUBIO TOLD HIM WILL WORK ON RESOLVING STARLINK
-- 10/21 19:47 [financialjuice] Ukraine’s President Zelenskiy: Rubio told me he will work on resolving Starlink
-- 10/21 19:51 [financialjuice] Google Cloud and NVIDIA announce general availability of NVIDIA Vera Rubin infrastructure $NVDA $GOOGL
-- 10/21 19:51 [financialjuice] NVIDIA, Amkor target over 300% interposer capacity boost by 2028.
-- 10/21 19:51 [DeItaone] UKRAINE'S ZELENSKIY: STARLINK/STARSHIELD IS STILL LIMITED BUT RUBIO SAID HE WILL WORK ON IT -FOX NEWS INTERVIEW
-- 10/21 19:54 [financialjuice/FirstSquawk] Oracle launches AI Agent Studio for industry applications
-- 10/21 19:54 [FirstSquawk] TRUMP: THOSE TALKS WOULD HAVE COME TO A COMPLETE HALT
-- 10/21 19:57 [DeItaone] JPMORGAN: SPACEX–TESLA MEGA-MERGER GAINS MOMENTUM JPMorgan sees strong strategic logic for a potential SpaceX ($SPCX ) and Tesla ($TSLA ) merger after Elon Musk disclosed that both companies formed special committees to explore a combinatio…
-- 10/21 19:57 [financialjuice] JP Morgan raises target price of SpaceX to $500 from $240
-- 10/21 20:00 [financialjuice] US MBA MORTGAGE APPLICATIONS ACTUAL -5.3% (FORECAST -, PREVIOUS -2.7%) $MACRO
-- 10/21 20:00 [financialjuice] US MBA 30-YR MORTGAGE RATE ACTUAL 7.41% (FORECAST -, PREVIOUS 7.50%) $MACRO
-- 10/21 20:03 [FirstSquawk] Philip Morris Q3 Earnings: - Adj EPS: $2.36 (est $2.30) - Organic Revenue: +7.1% (est +5.35%) - Sees FY Adj EPS: $8.29 To $8.44 (prev $8.35 To $8.50) - Still Sees FY Organic Revenue: +5% To +7% (est +5.56%)
-- 10/21 20:03 [financialjuice] Infineon and Nvidia partner on power conversion for data centers $NVDA
-- 10/21 20:06 [DeItaone] $SPCX - JPMORGAN DOUBLES SPACEX PRICE TARGET TO $500 JPMorgan raised its SpaceX price target from $240 to $500, maintaining an Overweight rating. The bank now forecasts $254 billion in 2027 revenue and 10 GW of computing capacity by year-en…
-- 10/21 20:09 [financialjuice] UK's PM Burnham: Looking at removing standing charges from gas bills
-- 10/21 20:09 [DeItaone] YARDENI: THE AI BUBBLE IS REAL, BUT NOT READY TO BURST Yardeni Research's new AI Bubble Meter flashes a warning, but not a crash signal. Bubble Conditions stand at 83/100, while Crash Triggers remain at just 34/100. Historically, similar co…
-- 10/21 20:14 [FirstSquawk] UK PM BURNHAM: LOOKING AT REMOVING STANDING CHARGES FROM GAS BILLS
-- 10/21 20:17 [FirstSquawk] THERMO FISHER RAISES FY 2026 GUIDANCE
-- 10/21 20:24 [financialjuice] Russia struck Ukraine's gas production site in the Kharkiv region - Naftogaz
-- 10/21 20:30 [DeItaone] $CRWV - CrowdStrike, NVIDIA Expand AI Agent Security From Software to Silicon
-- 10/21 20:31 [financialjuice] $ABT Abbott Q3 2026 Earnings Adj EPS $1.42, Est. $1.42 Net Sales $13.01B, Est. $13B Comparable Sales +7% Sees Q4 Adj EPS $1.62–$1.67
-- 10/21 20:31 [financialjuice] Amkor adds $1.3b NVIDIA pact for South Korea capacity.
-- 10/21 20:31 [financialjuice] Crowdstrike, NVIDIA to extend AI agent security to silicon.
-- 10/21 20:34 [financialjuice] Samsung electro-mechanics & NVIDIA report pact on ABF substrate $NVDA
-- 10/21 20:35 [FirstSquawk] Abbott Q3 Earnings - Adj EPS: $1.42 (est $1.42) - Net Sales: $13.01B (est $13B) - Comparable Sales: +7% - Sees Q4 Adj EPS: $1.62 To $1.67 (est $1.64) - Sees FY Adj EPS: $5.50 To $5.55 (prior $5.45 To $5.60) - Sees 2026 Comparable Sales Grow…
-- 10/21 20:40 [FirstSquawk] NextEra Energy Q3 Earnings - Adj EPS: $1.24 (est $1.20) - Operating Rev: $8.09B (est $8.5B) - Still Sees FY Adj EPS At High End Of $3.92 To $4.02
-- 10/21 20:50 [DeItaone] $EBAY - EBAY TO CUT ABOUT 9% OF WORKFORCE TO SIMPLIFY OPERATIONS, PRIORITIZE GROWTH AREAS, CEO MEMO SEEN BY REUTERS SHOWS
-- 10/21 21:01 [financialjuice] Morning Juice - US Session Prep (21st October)
-- 10/21 21:01 [financialjuice] Secured overnight financing rate 3.88% October 20th vs 3.87% October 19th
-- 10/21 21:01 [FirstSquawk] AT&T SHARES EXTEND LOSSES; LAST DOWN 5.7% PREMARKET
-- 10/21 21:01 [FirstSquawk] THERMO FISHER EXEC SAYS CO EXPECTS FULL YEAR REVENUE TO BE IN THE RANGE OF $47.7 BILLION TO $48.2 BILLION
-- 10/21 21:02 [DeItaone/FirstSquawk] MEETING BETWEEN RUSSIA'S PUTIN, US WITKOFF ENDS - TASS
-- 10/21 21:02 [DeItaone] OPENAI AND GOOGLE STRIKE MAJOR AI DISTRIBUTION DEAL OpenAI will bring its frontier AI models, including GPT-6 Astra, and Codex to Google Cloud in the coming weeks. Enterprise customers will be able to purchase them through Google Cloud Mark…
-- 10/21 21:02 [financialjuice] Putin-Witkoff talks are over - Tass
-- 10/21 21:06 [financialjuice] OpenAI to make models available through Google's cloud - CNBC $GOOGL
 - 10/21 21:11 [FirstSquawk] KREMLIN: NORWAY, FINLAND ARE NOW PART OF PEACE PROCESS - TASS
 - 10/21 21:11 [financialjuice] Kremlin: Norway and Finland are now part of the peace process - Tass
 - 10/21 21:18 [financialjuice] France's Macron has arrived in Saudi Arabia - Elysee
@@ -388,5 +307,49 @@
 - 10/22 06:09 [financialjuice] North Korea's Kim Yo Jong: new countermeasures to raise alert status along entire southern border line - KCNA
 - 10/22 06:09 [financialjuice] North Korea's Kim Yo Jong: South Korea will encounter 'most horrible and distressing situation' if it persists interference - KCNA
 - 10/22 06:11 [FirstSquawk] NORTH KOREA’S KIM YO JONG SAYS SOUTH KOREA WILL ENCOUNTER THE “MOST HORRIBLE AND DISTRESSING SITUATION” IF IT PERSISTS IN INTERFERENCE, ANNOUNCING NEW COUNTERMEASURES TO RAISE THE ALERT STATUS ALONG THE ENTIRE SOUTHERN BORDER LINE AND SAYIN…
-- 10/22 06:25 [financialjuice] European Council: Council, European Parliament Reach Provisional Political Deal on Measures to Revive and Simplify EU Securitisation Market
-- 10/22 06:27 [financialjuice] European Council: Framework on securitisation to lower capital requirements for most safe and well-structured deals
+- 10/22 06:25 [financialjuice/FirstSquawk] European Council: Council, European Parliament Reach Provisional Political Deal on Measures to Revive and Simplify EU Securitisation Market
+- 10/22 06:27 [financialjuice/FirstSquawk] European Council: Framework on securitisation to lower capital requirements for most safe and well-structured deals
+- 10/22 06:45 [financialjuice] NEW ZEALAND CPI YOY ACTUAL 3.7% (FORECAST 3.8%, PREVIOUS 4.1%) $MACRO
+- 10/22 06:45 [financialjuice] ‼ BREAKING: NEW ZEALAND CPI QOQ ACTUAL 0.7% (FORECAST 0.8%, PREVIOUS 1.5%) $MACRO
+- 10/22 06:45 [financialjuice] NZ Q3 consumer price index rises 3.7% vs year ago, poll forecast 3.8%
+- 10/22 06:45 [financialjuice] New Zealand Q3 consumer price index rises 0.7% vs previous quarter (poll 0.8%)
+- 10/22 06:45 [financialjuice] NZ Q3 consumer price index non-tradables rises 3.3% year on year
+- 10/22 06:45 [financialjuice] NZ Q3 consumer price index non-tradables climbs 1.0% quarter on quarter
+- 10/22 06:46 [financialjuice] New Zealand dollar falls to $0.5692 after CPI data misses forecast
+- 10/22 06:46 [FirstSquawk] NEW ZEALAND Q3 CPI ROSE 0.7% QOQ, BELOW THE POLL FORECAST OF 0.8% AND DOWN FROM 1.5% IN THE PRIOR QUARTER, AND ROSE 3.7% YOY, BELOW THE POLL FORECAST OF 3.8% AND DOWN FROM 4.1%
+- 10/22 06:46 [FirstSquawk] NEW ZEALAND Q3 NON-TRADABLES CPI ROSE 3.3% YOY AND 1.0% QOQ
+- 10/22 06:49 [financialjuice] OpenAI: updating usage policies effective November 20, 2026, to clarify rules for safe model development and sensitive AI applications
+- 10/22 06:50 [financialjuice] OpenAI: working to introduce safety IDs, which users can provide to help distinguish between end users in investigations - website
+- 10/22 06:50 [FirstSquawk] OPENAI SAYS IT IS UPDATING ITS USAGE POLICIES, EFFECTIVE NOVEMBER 20, 2026, TO CLARIFY THE RULES FOR SAFE MODEL DEVELOPMENT AND SENSITIVE USES OF AI, AND THAT IT IS WORKING TO INTRODUCE SAFETYIDS, WHICH CUSTOMERS CAN PROVIDE TO HELP DISTING…
+- 10/22 06:51 [financialjuice] OpenAI: updated usage policies require model routers and AI gateways to get OpenAI review and approval before offering access - website
+- 10/22 06:57 [FirstSquawk] LSEG IS NEARING A $3.5 BLN DEAL TO BUY CREDIT DATA SPECIALIST OCTUS, WITH THE TWO SIDES POSSIBLY ANNOUNCING A DEAL AS SOON AS THURSDAY - FT
+- 10/22 07:00 [FirstSquawk] TESLA CFO SAYS ENERGY GROSS MARGINS IMPROVED FROM 20.4% TO 33.1%, PRIMARILY ATTRIBUTED TO TARIFF REFUNDS AND WARRANTY TRUE-DOWNS
+- 10/22 07:01 [FirstSquawk] TESLA EXEC SAYS THE COMPANY IS LAUNCHING CYBERCABS IN DALLAS NEXT MONTH AND IS TRYING TO GET CYBERCABS TO CUSTOMERS BY THE END OF THIS YEAR, ADDING IT EXPECTS AROUND Q2 NEXT YEAR TO TURN ON SOME CUSTOMER CARS TO BE PART OF THE ROBOTAXI FLEE…
+- 10/22 07:04 [financialjuice] USDA confirms first detection of New World screwworm in U.S. wildlife: statement
+- 10/22 07:08 [financialjuice] Saudi-led coalition: four drones intercepted and destroyed in eastern province
+- 10/22 07:14 [financialjuice] Saudi civil aviation: one killed, eight injured in attack on King Fahd airport in Dammam on Wednesday
+- 10/22 07:17 [FirstSquawk] WHITE HOUSE HAS DEMANDED POLITICO RETRACT OR CORRECT STORIES, WITH A LETTER SENT TO POLITICO ON MONDAY AND THE RETRACTION DEMAND COMING FROM WHITE HOUSE COUNSEL - AXIOS
+- 10/22 07:17 [FirstSquawk] SAUDI CIVIL AVIATION SAYS ONE PERSON WAS KILLED AND EIGHT INJURED IN AN ATTACK ON KING FAHD AIRPORT IN DAMMAM ON WEDNESDAY, WHILE THE SAUDI-LED COALITION SAYS FOUR DRONES WERE INTERCEPTED AND DESTROYED IN THE EASTERN PROVINCE
+- 10/22 07:45 [FirstSquawk] AWS SAYS AMAZON THREAT INTELLIGENCE IDENTIFIED PHP2SHELL EXPLOITATION PRIOR TO PUBLIC DISCLOSURE IN MADPOT, WITH THE ACTIVITY CONDUCTED BY A THREAT ACTOR, THOUGH IT REMAINS UNCLEAR HOW THE ACTOR ACQUIRED EXPLOIT INFORMATION BEFORE DISCLOSUR…
+- 10/22 07:45 [FirstSquawk] AWS SAYS THE EXPLOIT ATTEMPT ORIGINATED FROM AN IP ADDRESS ASSOCIATED WITH A COMMERCIAL ANONYMIZATION NETWORK, AND THAT PHP2SHELL IS NOW BEING BROADLY EXPLOITED IN THE WILD
+- 10/22 07:48 [FirstSquawk] FORMER ITALIAN PRIME MINISTER AND EX-ECB CHIEF MARIO DRAGHI SAYS YOUNG PEOPLE FEEL “NO ONE IS LISTENING TO THEM,” LINKING RECENT YOUTH RIOTS IN PARIS, MILAN AND OTHER EUROPEAN CITIES TO FRUSTRATION ABOUT THEIR FUTURE, CALLING IT “A CASE OF …
+- 10/22 07:48 [FirstSquawk] DRAGHI SAYS THAT FOR THE YOUNG, SOCIAL JUSTICE MEANS FAIRNESS BETWEEN GENERATIONS, WHICH IS HARD TO MAINTAIN WITHOUT ECONOMIC GROWTH, ADDING THAT MANY FEEL THEY CANNOT EASILY FIND A JOB AND THAT THEY SEE SOCIETY CHANGING FAST THROUGH TECHNO…
+- 10/22 07:51 [FirstSquawk] THE U.S. AND ISRAEL ARE CRAFTING A PLAN FOR IRAN STRIKES AFTER THE ELECTION, WITH HEGSETH HAVING MET NETANYAHU THIS WEEK TO DISCUSS NEW IRAN STRIKES - NYT
+- 10/22 08:14 [financialjuice/FirstSquawk] Russian missiles hit Ukraine's Kyiv: source witness
+- 10/22 08:26 [FirstSquawk] US NATURAL GAS FUTURES FELL 5.8% TO $2.790/MMBTU FOR A FOURTH STRAIGHT SESSION AS ALGORITHMIC TRADERS RAMPED UP BEARISH POSITIONS AND WARMER FORECASTS THROUGH EARLY NOVEMBER WEIGHED ON HEATING-DEMAND EXPECTATIONS.
+- 10/22 08:26 [FirstSquawk] US GAS INVENTORIES ARE EXPECTED TO RISE BY 81 BILLION CUBIC FEET, WHILE PRODUCTION REACHED 113.4 BCF/D, UP 5.7% YEAR OVER YEAR; LNG EXPORT FLOWS ALSO INCREASED, THOUGH POTENTIAL COLD SPELLS COULD TRIGGER PRICE VOLATILITY.
+- 10/22 08:29 [FirstSquawk] ELON MUSK CONFIRMED TESLA AND SPACEX HAVE FORMED SPECIAL COMMITTEES TO EXPLORE A MERGER THAT COULD BOOST HIS WEALTH BY MORE THAN $110 BILLION THROUGH ACCELERATED VESTING OF TESLA SHARES.
+- 10/22 08:29 [FirstSquawk] A DEAL COULD ALSO UNLOCK OVER $6 BILLION IN TESLA COMPENSATION AT A $2 TRILLION VALUATION BY TRIGGERING CHANGE-IN-CONTROL PROVISIONS, WHILE POTENTIALLY PROMPTING NEW INCENTIVES FOR MUSK AT THE COMBINED COMPANY.
+- 10/22 08:39 [DeItaone] U.S. AND ISRAEL REPORTEDLY PLAN NEW IRAN STRIKES AFTER MIDTERMS The U.S. and Israel have reportedly developed plans for renewed attacks on Iran after the November 3 elections, according to the New York Times. Potential targets include energ…
+- 10/22 08:39 [financialjuice] New Mexico confirms new world screwworm case in Otero County: agriculture department
+- 10/22 08:47 [FirstSquawk] TRUMP: TELLS VOTERS TO ASK FOR MONEY ON DATA CENTRES
+- 10/22 08:50 [financialjuice] JAPANESE FOREIGN BOND INVESTMENT ACTUAL -161.6B (FORECAST -, PREVIOUS -339.7B) $MACRO
+- 10/22 08:50 [financialjuice] FOREIGN INVESTMENT JAPANESE STOCKS ACTUAL -66.5B (FORECAST -, PREVIOUS 3,521.5B ,REVISION 3,545.5B) $MACRO
+- 10/22 08:51 [financialjuice] FOREIGN INVESTMENT JAPANESE BONDS ACTUAL 1,454.2B (FORECAST -, PREVIOUS 1,080.1B) $MACRO
+- 10/22 08:51 [financialjuice] JAPANESE FOREIGN STOCK INVESTMENT ACTUAL 128.3B (FORECAST -, PREVIOUS -760.6B) $MACRO
+- 10/22 08:57 [FirstSquawk] JAPAN EARLY TRADE: BENCHMARK 10-YEAR JGB FUTURES RISE 0.17 POINT; NIKKEI AVERAGE FUTURES FALL 0.7%
+- 10/22 08:58 [FirstSquawk] JAPAN WEEKLY ORDER FLOWS TO OCTOBER 16 SHOW JAPAN SOLD A NET ¥161.6 BLN OF FOREIGN BONDS AND BOUGHT A NET ¥128.3 BLN OF FOREIGN STOCKS FOREIGN INVESTORS BOUGHT A NET ¥1,454.2 BLN OF JAPANESE BONDS AND SOLD A NET ¥66.5 BLN OF JAPANESE STOCKS
+- 10/22 09:00 [FirstSquawk] Nikkei Average Futures Drop 0.7% in Early Japanese Trading
+- 10/22 09:00 [FirstSquawk] Benchmark 10-Year Japanese Government Bond Futures Gain 0.17 Point at the Open
+- 10/22 09:01 [FirstSquawk] Yield on Japan’s 5-Year Government Bonds Drops 1 BP to 2.285%
+- 10/22 09:08 [FirstSquawk] Trump: We Delivered a Crushing Defeat to Tehran and Want Lasting Results in Iran
