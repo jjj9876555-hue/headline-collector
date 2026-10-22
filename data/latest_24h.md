@@ -7,116 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-22 13:40 JST／対象: 10/21 13:40 〜 10/22 13:40 JST（時刻はすべて日本時間）
+生成: 2026-10-22 18:38 JST／対象: 10/21 18:38 〜 10/22 18:38 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 43 | 10/21 19:28 | 10/22 09:17 | ⚠ 186分（05:32→08:39） |
-| FirstSquawk | 302 | 10/21 14:14 | 10/22 13:34 | 38分（21:35→22:13） |
-| financialjuice | 330 | 10/21 14:30 | 10/22 13:30 | ⚠ 91分（16:18→17:49） |
+| FirstSquawk | 299 | 10/21 18:39 | 10/22 17:51 | 41分（15:54→16:35） |
+| financialjuice | 325 | 10/21 18:39 | 10/22 16:39 | ⚠ 65分（14:25→15:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 658 行（統合前 682 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 652 行（統合前 674 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/21 14:14 [FirstSquawk] Russia’s Defence Ministry Reports Strike on Cargo Ship in Black Sea
-- 10/21 14:30 [FirstSquawk] US Special Envoy Witkoff Lands in St. Petersburg, TASS Reports
-- 10/21 14:30 [financialjuice] US Envoy Witkoff arrives in St. Petersburg - TASS
-- 10/21 14:38 [financialjuice] Samsung, SK Hynix upgrade China plants for advanced chips.
-- 10/21 14:38 [financialjuice] Trump: I have been watching data centers very closely and have come to a very strong conclusion. New and large, in some cases gigantic, data centers are mandated by me to generate their own electricity and give or sell any excess back to th…
-- 10/21 14:40 [FirstSquawk] Trump Calls on Data Centre Firms to Share Benefits With Communities Through Dividends
-- 10/21 14:41 [FirstSquawk] Japan’s 2-Year JGB Yield Rises 0.5 Basis Point to 1.900%
-- 10/21 14:44 [FirstSquawk] Russia’s Bryansk Region Reports One Fatality and Two Injuries From Ukrainian Drone Attack
-- 10/21 14:55 [FirstSquawk] UK Clears Jackdaw Gas Field Drilling in the North Sea, Unveils £2B Wealth Fund
-- 10/21 14:59 [financialjuice] France Fin. Min. Lescure, citing constitutional levers: We have the instruments to pass a budget
-- 10/21 15:00 [financialjuice] UK PPI OUTPUT PRICES YOY ACTUAL 4.6% (FORECAST 4.4%, PREVIOUS 3.7%) $MACRO
-- 10/21 15:00 [financialjuice] UK PPI OUTPUT PRICES MOM ACTUAL 0.8% (FORECAST 0.6%, PREVIOUS 0.7%) $MACRO
-- 10/21 15:00 [financialjuice] UK PPI INPUT PRICES YOY ACTUAL 8.3% (FORECAST 7.6%, PREVIOUS 6.1%) $MACRO
-- 10/21 15:00 [financialjuice] UK SERVICES CPI YOY ACTUAL 3.7% (FORECAST 3.6%, PREVIOUS 3.4%) $MACRO
-- 10/21 15:00 [financialjuice] UK RPI MOM ACTUAL 0.1% (FORECAST 0.1%, PREVIOUS 0.6%) $MACRO
-- 10/21 15:00 [financialjuice] ❗ UK CORE CPI YOY ACTUAL 2.8% (FORECAST 2.8%, PREVIOUS 2.6%) $MACRO
-- 10/21 15:00 [financialjuice] UK CPI MOM ACTUAL 0.4% (FORECAST 0.3%, PREVIOUS 0.5%) $MACRO
-- 10/21 15:01 [financialjuice] UK PSNB EX BANKS ACTUAL 24.520B (FORECAST -, PREVIOUS 18.268B) $MACRO
-- 10/21 15:01 [financialjuice] ‼ BREAKING: UK CPI YOY ACTUAL 3.5% (FORECAST 3.4%, PREVIOUS 3.1%) $MACRO
-- 10/21 15:01 [financialjuice] UK CORE CPI MOM ACTUAL 0.2% (FORECAST -, PREVIOUS 0.3%) $MACRO
-- 10/21 15:01 [financialjuice] UK CPI September 2026 Report
-- 10/21 15:03 [FirstSquawk] UK (SEP) PPI INPUT NSA YOY ACTUAL: 8.3% VS 6.1% PREVIOUS;EST 7.6%
-- 10/21 15:03 [FirstSquawk] UK (SEP) PPI INPUT NSA MOM ACTUAL: 1.5% VS 0.3% PREVIOUS;EST 1.4%
-- 10/21 15:03 [FirstSquawk] UK (SEP) PPI OUTPUT NSA YOY ACTUAL: 4.6% VS 3.7% PREVIOUS;EST 4.4%
-- 10/21 15:03 [FirstSquawk] UK (SEP) PPI OUTPUT NSA MOM ACTUAL: 0.8% VS 0.7% PREVIOUS;EST 0.6%
-- 10/21 15:03 [FirstSquawk] UK (SEP) PSNB EX BANKING GROUPS ACTUAL: 24.5B VS 18.3B PREVIOUS
-- 10/21 15:03 [FirstSquawk] UK (SEP) PUBLIC SECTOR NET BORROWING ACTUAL: 24.5B VS 10.3B PREVIOUS;EST 24.0B
-- 10/21 15:03 [FirstSquawk] UK (SEP) CENTRAL GOVERNMENT NCR ACTUAL: 16.9B VS 10.0B PREVIOUS
-- 10/21 15:03 [FirstSquawk] UK (SEP) PUBLIC FINANCES (PSNCR) ACTUAL: 16.9B VS 10.0B PREVIOUS
-- 10/21 15:04 [FirstSquawk] UK (SEP) RPI EX MORT INT.PAYMENTS (YOY) ACTUAL: 3.9% VS 3.3% PREVIOUS
-- 10/21 15:04 [FirstSquawk] UK (SEP) RPI YOY ACTUAL: 3.9% VS 3.4% PREVIOUS;EST 3.9%
-- 10/21 15:04 [FirstSquawk] UK (SEP) RPI MOM ACTUAL: 0.1% VS 0.6% PREVIOUS;EST 0.1%
-- 10/21 15:04 [FirstSquawk] UK (SEP) RETAIL PRICE INDEX ACTUAL: 422.1 VS 421.6 PREVIOUS;EST 422.0
-- 10/21 15:04 [FirstSquawk] UK (SEP) CPIH YOY ACTUAL: 3.6% VS 3.3% PREVIOUS;EST 3.5%
-- 10/21 15:04 [FirstSquawk] UK (SEP) CPI SERVICES YOY ACTUAL: 3.7% VS 3.4% PREVIOUS;EST 3.6%
-- 10/21 15:04 [FirstSquawk] UK (SEP) CPI CORE YOY ACTUAL: 2.8% VS 2.6% PREVIOUS;EST 2.8%
-- 10/21 15:04 [FirstSquawk] UK (SEP) CPI YOY ACTUAL: 3.5% VS 3.1% PREVIOUS;EST 3.4%
-- 10/21 15:04 [FirstSquawk] UK (SEP) CPI MOM ACTUAL: 0.4% VS 0.5% PREVIOUS;EST 0.3%
-- 10/21 15:10 [financialjuice] Morgan Stanley cuts GE Aerospace target price to $375 from $400 $GE
-- 10/21 15:16 [financialjuice] BlackRock CEO: Not building data centers fast is inflationary
-- 10/21 15:18 [financialjuice] BlackRock CEO: Slowing down AI buildout could hurt the economy
-- 10/21 15:21 [FirstSquawk] Kim Jong Un’s Sister and North Korean Military Marshal Visit South Korean Border, KCNA Says
-- 10/21 15:22 [FirstSquawk] North Korea Says Border Fortification Is Taking Place Within Its Own Territory, KCNA Reports
-- 10/21 15:25 [FirstSquawk] North Korea Calls on Border Forces to Take Overwhelming Military Action in Response to Enemy Moves
-- 10/21 15:31 [financialjuice] Iraq closes the Sheeb border crossing with Iran to passengers, vehicles, and commercial trucks until further notice - Two sources at the crossing
-- 10/21 15:31 [FirstSquawk] Iraq Suspends Passenger, Vehicle and Commercial Truck Traffic at Sheeb Crossing With Iran
-- 10/21 15:41 [financialjuice] Putin to meet Witkoff at the Konstantinovsky Palace - IFX
-- 10/21 15:46 [FirstSquawk] FRANCE RETAIL SALES EX-AUTO (M/M AUG: 0.3% (PREV 0.8%; PREV R 0.4%)
-- 10/21 16:05 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 0.01%; FRANCE'S CAC 40 UP 0.11%; SPAIN'S IBEX DOWN 0.15%; GERMANY'S DAX FLAT
-- 10/21 16:10 [FirstSquawk] RUSSIAN STRIKES TARGETED ENERGY FACILITIES IN KYIV, VOLYN, ODESA AND MYKOLAIV REGIONS SAYS PM
-- 10/21 16:11 [financialjuice] Russian strikes targeted energy facilities in Kyiv, Volyn, Odesa and Mykolaiv regions - PM.
-- 10/21 16:18 [financialjuice] Japan's Fin. Min. Katayama: To accelerate virtuous cycle of investment, wage gain.
-- 10/21 16:18 [FirstSquawk] JAPAN'S FINANCE MINISTER SATSUKI KATAYAMA TO ACCELERATE VIRTUOUS CYCLE OF INVESTMENT, WAGE GAIN
-- 10/21 16:20 [FirstSquawk] UK ENERGY SECRETARY MIATTA FAHNBULLEH REAFFIRMS NO NEW UK NORTH SEA DRILLING LICENSES
-- 10/21 16:51 [FirstSquawk] EXPLOSION HEARD NEAR ADEN AIRPORT
-- 10/21 16:52 [FirstSquawk] MISSILE STRIKES IRANIAN KURDISH OPPOSITION CAMP NEAR ERBIL, IRAQ, ACCORDING TO SECURITY SOURCES.
-- 10/21 17:01 [FirstSquawk] U.S. S&P 500 E-MINI FUTURES UP 0.3%, NASDAQ 100 FUTURES UP 0.8%, DOW FUTURES FLAT
-- 10/21 17:04 [FirstSquawk] SK HYNIX COMPLETES 40T WON SHARE BUYBACK - YONHAP
-- 10/21 17:25 [FirstSquawk] GERMAN CHANCELLOR MERZ: SOME STATES ARE WEAPONIZING ECONOMIC DEPENDENCIES TO STRENGTHEN THEIR POSITION, RUSSIA IS A THREAT TO US
-- 10/21 17:25 [FirstSquawk] UKMTO SAYS RECEIVED A REPORT OF AN INCIDENT NM OF BUKHA, OMAN
-- 10/21 17:25 [FirstSquawk] UKMTO SAYS LOCAL AUTHORITIES HAVE REPORTED THAT A TANKER HAS BEEN STRUCK BY AN UNKNOWN PROJECTILE WHICH STARTED A FIRE WHICH HAS BEEN EXTINGUISHED
-- 10/21 17:25 [FirstSquawk] UKMTO SAYS ALL CREW ARE REPORTED AS SAFE
-- 10/21 17:34 [FirstSquawk] MERZ SAYS IN 'BEST CASE' EU DOESN'T USE NEW TRADE TOOLS
-- 10/21 17:36 [FirstSquawk] JAPAN, INDIA ARRANGING FOR 2+2 TALKS TO BE HELD IN NOV. - KYODO
-- 10/21 17:44 [FirstSquawk] MERZ SAYS CHINA'S OVERCAPACITIES, TRADE SURPLUS, MUST BE ADDRESSED
-- 10/21 17:44 [FirstSquawk] MERZ SAYS GOAL IS TO HAVE NEW TRADE BALANCE WITH CHINA, NO CONFLICT
-- 10/21 17:44 [FirstSquawk] MERZ: COMMITTED TO OPEN MARKETS, FAIR TRADE ORDER
-- 10/21 17:47 [FirstSquawk] CHINESE NICKEL PRODUCERS HAVE DECIDED TO REDUCE PRODUCTION AT THEIR PLANTS IN INDONESIA.
-- 10/21 17:49 [financialjuice] Russia’s Deputy PM Novak: Russia may fully restore diesel exports by year-end - Tass
-- 10/21 17:55 [FirstSquawk] YEMEN'S HOUTHIS MILITARY SPOKESPERSON SAYS WE DID NOT LAUNCH ANY DRONES TOWARDS SAUDI MEDINA ON WEDNESDAY
-- 10/21 17:58 [financialjuice] Putin starts meeting with US envoy Witkoff - IFX
-- 10/21 17:59 [financialjuice/FirstSquawk] Russia's Putin asks US Witkoff about his meeting in Norway - IFX
-- 10/21 17:59 [financialjuice] Russia's Putin thanks Trump for attention to Ukraine settlement - IFX
-- 10/21 17:59 [financialjuice] French 10-year yields hit 5% for first time since 2002
-- 10/21 18:00 [financialjuice] Germany’s Chancellor Merz: Europe is "always ready to talk’ on the Ukraine war
-- 10/21 18:00 [FirstSquawk] RUSSIA'S PUTIN THANKS U.S. TRUMP FOR ATTENTION TO UKRAINE SETTLEMENT - IFX
-- 10/21 18:01 [financialjuice] Russia's Putin tells Witkoff Russia's interested in restoring economic ties with the US - IFX.
-- 10/21 18:03 [FirstSquawk] RUSSIAN FOREIGN MINISTRY SAYS RUSSIA CONSIDERS JAPAN SUPPLIES OF DRONES TO UKRAINE AS HOSTILE STEP
-- 10/21 18:03 [financialjuice] Putin tells Witkoff Russia is ready to help with Iran resolution - IFX
-- 10/21 18:04 [financialjuice] Russian Foreign Ministry: Russia considers Japan supplies of drones to Ukraine as hostile step, Russia will respond
-- 10/21 18:04 [FirstSquawk] PUTIN: US CITIZEN STEPHEN HUBBARD AT PULKOVO AIRPORT - IFX
-- 10/21 18:06 [financialjuice] US Envoy Witkoff: Talks in Oslo were productive - IFX.
-- 10/21 18:08 [financialjuice] US Envoy Witkoff: Hope Putin is to consider Russia-US-Ukraine talks resumption - IFX
-- 10/21 18:10 [financialjuice/FirstSquawk] US Witkoff thanks Putin for diesel deal - IFX
-- 10/21 18:11 [FirstSquawk] US WITKOFF SAYS ROUGHT DOCUMENTS WITH WAYS FOR UKRAINE SETTLEMENTS - IFX
-- 10/21 18:11 [financialjuice] US Witkoff: We brought documents with ways for Ukraine settlements - IFX
-- 10/21 18:12 [FirstSquawk] PUTIN SAYS WE COULD SUPPLY FERTILISERS IN LARGER AMOUNT TO US - IFX
-- 10/21 18:13 [financialjuice] Putin: We could supply fertilisers in larger amounts to the US - IFX
-- 10/21 18:28 [FirstSquawk] MACRON SAYS PRIORITY IS TO SECURE DIESEL, GAS SUPPLY
-- 10/21 18:28 [financialjuice] France’s President Macron: Priority is to secure diesel and gas supply
-- 10/21 18:30 [FirstSquawk] MACRON: SECURED FRENCH ENERGY SUPPLIES TO AVOID SHORTAGES
-- 10/21 18:30 [financialjuice] Putin offers to discuss the possibility of meeting with Trump in China - IFX.
-- 10/21 18:31 [financialjuice] Putin proposes US Special Envoy Witkoff to discuss the restoration of bilateral ties & economic cooperation
 - 10/21 18:39 [FirstSquawk] NVIDIA INTRODUCES DSX POD AI FACTORIES TO ACCELERATE EUROPE’S INFRASTRUCTURE DEPLOYMENT; DSX POD UNITS REDUCE DEPLOYMENT TIME TO AS LITTLE AS 14 DAYS; EUROPEAN ECOSYSTEM BUILDS WORLD’S MOST EFFICIENT AI FACTORIES WITH NVIDIA DSX
 - 10/21 18:39 [financialjuice] French President Macron: We secured 2 terawatt-hours per month of gas from Qatar during the winter period
 - 10/21 18:47 [FirstSquawk] GERMAN GOVERNMENT SPOKESPERSON SAYS ON UKRAINE: GERMAN, EUROPEAN CONTACTS WITH THE US SUGGEST THAT AMERICANS ARE INTERESTED IN NEGOTIATION PROCESS
@@ -682,3 +589,90 @@
 - 10/22 13:30 [financialjuice] DUTCH CONSUMER CONFIDENCE ADJUSTED ACTUAL -34 (FORECAST -, PREVIOUS -33) $MACRO
 - 10/22 13:30 [financialjuice] Dutch October consumer confidence falls to -34 points from -33 in September: CBS
 - 10/22 13:34 [FirstSquawk] SEB AB Forecasts 2026 Costs to Undershoot Full-Year Target by Around SEK 500–600 Million
+- 10/22 13:44 [FirstSquawk] HSBC Revises European Energy Sector Stance Upward, Moving to Neutral From Underweight
+- 10/22 13:50 [FirstSquawk] China Records 199.36 Billion Yuan in Natural Disaster-Related Economic Losses in First Three Quarters of 2026
+- 10/22 13:51 [FirstSquawk] Westpac Spokesperson Says Planned Job Cuts Reflect Wider Restructuring, Not AI Adoption
+- 10/22 13:54 [FirstSquawk] Brent Oil Climbs to $110.90/Barrel as Saudi Arabia Attack Risks Fuel Supply Concerns
+- 10/22 14:06 [FirstSquawk] Nestlé SA Excludes Russian Operations From Consolidated Accounts After Temporary External Administration Takes Effect
+- 10/22 14:07 [FirstSquawk] Nestlé Keeps 2026 Organic Sales Growth Outlook at 3–4% After Q3 Growth of 4.0%; Real Internal Growth Reaches 2.8%
+- 10/22 14:20 [FirstSquawk] ASIA-WIDE SECURITY WARNINGS CALL FOR IMMEDIATE PHP UPDATES OVER RISKS OF MALICIOUS CODE EXECUTION
+- 10/22 14:23 [financialjuice] Ukraine’s FM after Russian strike on Kyiv following talks with US: Appeasement, servility, and flattery will not stop war.
+- 10/22 14:25 [financialjuice] Russia carries out 'massive strike' overnight on port infrastructure facilities.
+- 10/22 14:25 [FirstSquawk] Russia Claims Overnight Attack Targeted Port Facilities in Ukraine’s Odesa Region and Vessels Used by Ukrainian Forces
+- 10/22 14:44 [FirstSquawk] Seoul Plans UN Security Council Letter on North Korea’s Deployment of Landmines in DMZ
+- 10/22 14:47 [FirstSquawk] Spot Palladium Falls 3% Toward $1,056.75 Per Ounce
+- 10/22 14:49 [FirstSquawk] Roche CEO Forecasts Normal Diagnostics Growth by 2027, Warns Europe Is Lagging in Pharmaceutical Innovation
+- 10/22 14:55 [FirstSquawk] China’s Xi Stresses Effective Quality Improvements and Steady Quantitative Economic Growth
+- 10/22 15:00 [FirstSquawk] JAPAN MACHINE TOOL ORDERS (Y/Y) SEP F: 60.4% (PREV 60.4%)
+- 10/22 15:01 [FirstSquawk] NORWAY UNEMPLOYMENT RATE TREND SEP: 4.6% (PREV 4.5%)
+- 10/22 15:02 [FirstSquawk] Qatar and Japan Hold Foreign Affairs Meeting in Tokyo on October 22
+- 10/22 15:09 [FirstSquawk] NORWAY INDUSTRIAL CONFIDENCE Q3: 3.4 (PREV 2.6)
+- 10/22 15:11 [FirstSquawk] Japan’s 2-Year JGB Yield Holds Steady at 1.9%
+- 10/22 15:11 [FirstSquawk] Japan’s 20-Year JGB Yield Falls 2.5 Basis Points to 3.68%
+- 10/22 15:22 [FirstSquawk] China Urges Immediate Security Reviews and PHP Upgrades Following Industry Ministry Warning
+- 10/22 15:22 [FirstSquawk] China Advises Organizations to Strengthen Cybersecurity Monitoring and Update Accounts, Passwords and Keys Without Delay
+- 10/22 15:30 [financialjuice] Iraq seeks to hire tankers to transport fuel oil beyond Hormuz.
+- 10/22 15:31 [FirstSquawk] Iraq Looks to Charter Tankers to Ship Fuel Oil Outside the Strait of Hormuz
+- 10/22 15:39 [FirstSquawk] South Korean Presidential Office Convenes Emergency Security Meeting Following PHP Vulnerability Concerns
+- 10/22 15:41 [financialjuice] IMF: Further disruption to energy production and trade routes could drive energy prices higher, weaken growth and worsen inflation
+- 10/22 15:45 [financialjuice] FRENCH BUSINESS CLIMATE MFG ACTUAL 105 (FORECAST 101, PREVIOUS 101) $MACRO
+- 10/22 15:45 [financialjuice] FRENCH BUSINESS CLIMATE OVERALL ACTUAL 97 (FORECAST 95.5, PREVIOUS 96) $MACRO
+- 10/22 15:46 [financialjuice] French Business Climate October 2026 Report
+- 10/22 15:46 [FirstSquawk] FRANCE (OCT) PRODUCTION OUTLOOK INDICATOR ACTUAL: -8 VS -9 PREVIOUS
+- 10/22 15:46 [FirstSquawk] FRANCE (OCT) OWN-COMPANY PRODUCTION OUTLOOK ACTUAL: 19 VS 15 PREVIOUS
+- 10/22 15:46 [FirstSquawk] FRANCE (OCT) MANUFACTURING CONFIDENCE ACTUAL: 105 VS 101 PREVIOUS;EST 101
+- 10/22 15:46 [FirstSquawk] FRANCE (OCT) BUSINESS CONFIDENCE ACTUAL: 97 VS 96 PREVIOUS;EST 96
+- 10/22 15:50 [financialjuice] Morgan Stanley raises target price of Tesla to $410 from $400 $TSLA
+- 10/22 15:50 [FirstSquawk] Nikkei Says BOJ October Meeting Likely to Delay Consecutive Rate Increases Even as Inflation Target Is Met
+- 10/22 15:51 [financialjuice] Nvidia's Huang calls for more fine-grained control of AI agents
+- 10/22 15:52 [financialjuice] Tesla, NVIDIA to invest $2.8b in Samsung mechanics plant - Maeil
+- 10/22 15:53 [financialjuice] BoJ is likely to say inflation has reached 2% target - Nikkei
+- 10/22 15:54 [FirstSquawk] USD/JPY Drops 0.7% to 157.11 as Declines Deepen
+- 10/22 16:00 [financialjuice] Japan's largest labour union group Rengo sets the centre of 2027 wage increase target at 6%
+- 10/22 16:00 [financialjuice] Rengo sets first medium-term wage target, seeks 15% wage increase by 2030.
+- 10/22 16:01 [financialjuice] Rengo maintains a minimum wage hike benchmark of 5% or more in 2027 policy
+- 10/22 16:01 [financialjuice] Japan's Rengo seeks 6% salary increases in 2027 wage talks.
+- 10/22 16:01 [financialjuice] Currency Strength Chart: Strongest: GBP, CHF, CAD, EUR, GBP, USD, NZD, AUD - Weakest
+- 10/22 16:07 [financialjuice] Nvidia's CEO Huang: Almost everything will get solved with high demand $NVDA
+- 10/22 16:09 [financialjuice] Iran's Revolutionary Guards' Navy: US continued insistence on pushing vessels to sail through 'illegal' routes in the Gulf will lead to confrontation against US regional bases - Fars
+- 10/22 16:14 [financialjuice] Nvidia's CEO Huang: Told Nscale to work around the clock $NVDA
+- 10/22 16:17 [financialjuice] Nvidia's CEO Huang: AI is funding the future of energy $NVDA
+- 10/22 16:21 [financialjuice] Saudi Aramco CEO Nasser: Aramco is seeking to partner with other countries to increase strategic reserves
+- 10/22 16:23 [financialjuice] Nvidia's CEO Huang calls global pacing of AI development 'ridiculous' $NVDA
+- 10/22 16:31 [financialjuice] SNB: Medium-term inflationary pressure is only slightly higher compared with the monetary policy assessment in June.
+- 10/22 16:32 [financialjuice] SNB Meeting Minutes - Read Here
+- 10/22 16:32 [financialjuice] SNB: The governing board deemed current monetary conditions appropriate to ensure price stability over the medium term.
+- 10/22 16:33 [financialjuice] SNB: Moderate growth is forecast for the coming quarters. Further growth stimuli are expected from abroad.
+- 10/22 16:33 [financialjuice] SNB: Inflation is likely to increase again somewhat in the short term due to higher energy prices.
+- 10/22 16:33 [financialjuice] SNB: Uncertainty remains high.
+- 10/22 16:33 [financialjuice] SNB: increased willingness to intervene in fx no longer needed.
+- 10/22 16:34 [financialjuice] SNB: If the use of AI leads to a rise in structural unemployment, this could dampen consumption.
+- 10/22 16:34 [financialjuice] SNB: Governing board and the alternate members of the governing board addressed possible second-round effects as a risk with regard to the development of inflation.
+- 10/22 16:35 [FirstSquawk] SWISS NATIONAL BANK NOTES THAT MEDIUM-TERM INFLATION PRESSURE IS ONLY A LITTLE HIGHER THAN THE JUNE MONETARY POLICY REVIEW.
+- 10/22 16:35 [FirstSquawk] SWISS NATIONAL BANK RELEASES MINUTES FROM SEPTEMBER 2026 MEETING.
+- 10/22 16:35 [FirstSquawk] SWISS NATIONAL BANK'S BOARD BELIEVES CURRENT MONETARY CONDITIONS ARE SUITABLE FOR MAINTAINING PRICE STABILITY IN THE MEDIUM TERM.
+- 10/22 16:35 [FirstSquawk] SNB EXPECTS MODEST GROWTH IN THE NEXT QUARTERS.
+- 10/22 16:35 [FirstSquawk] SNB MINUTES SHOW EXPECTATION OF ADDITIONAL GROWTH SUPPORT FROM OTHER COUNTRIES.
+- 10/22 16:35 [FirstSquawk] SWISS NATIONAL BANK REPORTS NO SIGNS OF SECOND-ROUND EFFECTS, CORE INFLATION HAS ONLY INCREASED A LITTLE.
+- 10/22 16:35 [FirstSquawk] SNB MINUTES SHOW THAT INFLATION MAY RISE SHORT TERM DUE TO INCREASING ENERGY PRICES.
+- 10/22 16:35 [FirstSquawk] SNB MEETING NOTES SHOW SIGNIFICANT UNCERTAINTY PERSISTS.
+- 10/22 16:35 [financialjuice] SNB: Swiss franc depreciation was in line with the widened interest rate differentials between Switzerland and other countries.
+- 10/22 16:36 [FirstSquawk] SNB MINUTES REVEAL THAT THE PRIMARY RISK TO ECONOMIC AND INFLATION PROJECTIONS COMES FROM GLOBAL ECONOMIC TRENDS.
+- 10/22 16:36 [financialjuice] SNB: Swiss franc exchange rate was mentioned less frequently by company representatives in their talks with the delegates for regional economic relations than in the past.
+- 10/22 16:36 [FirstSquawk] SWISS NATIONAL BANK SAYS THEY NO LONGER NEED TO INTERVENE IN FOREX MARKETS DUE TO CURRENT CONDITIONS.
+- 10/22 16:36 [FirstSquawk] SNB MINUTES SHOW THAT IF CONDITIONS IN THE MIDDLE EAST WORSEN, IT WOULD NEGATIVELY AFFECT GLOBAL ECONOMIC ACTIVITY MORE SEVERELY.
+- 10/22 16:36 [FirstSquawk] SNB MINUTES SHOW EXTRA RISKS FROM TRADE POLICY AND CURRENCY CHANGES.
+- 10/22 16:36 [FirstSquawk] SNB MINUTES INDICATE THAT INCREASING AI USE COULD RAISE STRUCTURAL UNEMPLOYMENT, POTENTIALLY REDUCING CONSUMPTION.
+- 10/22 16:36 [FirstSquawk] SNB MEETING NOTES DISCUSSED INFLATION RISKS DUE TO POTENTIAL SECOND-ROUND EFFECTS BY GOVERNING BOARD MEMBERS.
+- 10/22 16:37 [FirstSquawk] SNB MINUTES SHOWED THAT THE FALL IN SWISS FRANC VALUE MATCHED THE INCREASED INTEREST RATE DIFFERENCES WITH OTHER NATIONS.
+- 10/22 16:37 [FirstSquawk] SNB MINUTES SHOW LITTLE SAFE-HAVEN DEMAND FOR SWISS FRANC SINCE JUNE POLICY REVIEW.
+- 10/22 16:37 [FirstSquawk] SNB MINUTES SHOWED THAT COMPANY REPRESENTATIVES DISCUSSED THE SWISS FRANC EXCHANGE RATE LESS OFTEN IN MEETINGS WITH REGIONAL ECONOMIC DELEGATES COMPARED TO BEFORE.
+- 10/22 16:37 [FirstSquawk] SNB MINUTES SHOW THAT THE SWISS FRANC'S FALL OUTPACED THE INCREASE IN INTEREST RATES, RESULTING IN EASIER MONETARY CONDITIONS SINCE JUNE'S POLICY REVIEW.
+- 10/22 16:37 [FirstSquawk] SNB MINUTES SHOW THAT THE GOVERNING BOARD AND ALTERNATES RECOGNIZED STABLE INFLATION EXPECTATIONS.
+- 10/22 16:37 [FirstSquawk] SNB MINUTES SHOW THAT MONETARY POLICY REMAINS EXPANSIVE AND EXCESS LIQUIDITY SUPPORTS PRICE STABILITY IN THE MEDIUM TERM.
+- 10/22 16:39 [financialjuice] Huawei gets $2.3 billion offshore loan as chip spending soars.
+- 10/22 17:05 [FirstSquawk] BRENT CRUDE FUTURES RISE BY MORE THAN 3% TO $112.55 PER BARREL, REACHING HIGHEST LEVEL SINCE MAY.
+- 10/22 17:35 [FirstSquawk] IRAN SAYS SCOPE OF CONFLICT MAY EXPAND ON HORMUZ 'ILLEGAL' TRANSIT
+- 10/22 17:51 [FirstSquawk] TURKISH ENERGY MINISTER MET WITH CANADIAN ENERGY MINISTER BEFORE ERDOGAN AND CARNEY DISCUSSIONS.
+- 10/22 17:51 [FirstSquawk] TURKEY AND CANADA ARE TALKING ABOUT LNG TRADE, INVESTMENTS IN RENEWABLE ENERGY, AND MINING, SAYS TURKISH ENERGY MINISTER.
+- 10/22 17:51 [FirstSquawk] TURKISH ENERGY MINISTER SAYS DISCUSSIONS CENTERED ON EVALUATING HOW CANADA'S CANDU NUCLEAR REACTOR TECHNOLOGY CAN BE USED IN TURKEY.
