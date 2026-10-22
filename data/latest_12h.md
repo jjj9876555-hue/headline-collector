@@ -7,77 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-23 03:49 JST／対象: 10/22 15:49 〜 10/23 03:49 JST（時刻はすべて日本時間）
+生成: 2026-10-23 06:57 JST／対象: 10/22 18:57 〜 10/23 06:57 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 48 | 10/22 19:09 | 10/23 03:29 | 45分（02:03→02:49） |
-| FirstSquawk | 122 | 10/22 15:50 | 10/23 03:47 | ⚠ 72分（17:51→19:04） |
-| financialjuice | 105 | 10/22 15:50 | 10/23 03:48 | ⚠ 155分（16:39→19:15） |
+| DeItaone | 50 | 10/22 19:09 | 10/23 05:39 | ⚠ 120分（03:29→05:30） |
+| FirstSquawk | 130 | 10/22 19:04 | 10/23 06:39 | ⚠ 55分（01:58→02:53） |
+| financialjuice | 106 | 10/22 19:15 | 10/23 06:10 | ⚠ 123分（20:03→22:06） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 265 行（統合前 279 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 273 行（統合前 291 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/22 15:50 [financialjuice] Morgan Stanley raises target price of Tesla to $410 from $400 $TSLA
-- 10/22 15:50 [FirstSquawk] Nikkei Says BOJ October Meeting Likely to Delay Consecutive Rate Increases Even as Inflation Target Is Met
-- 10/22 15:51 [financialjuice] Nvidia's Huang calls for more fine-grained control of AI agents
-- 10/22 15:52 [financialjuice] Tesla, NVIDIA to invest $2.8b in Samsung mechanics plant - Maeil
-- 10/22 15:53 [financialjuice] BoJ is likely to say inflation has reached 2% target - Nikkei
-- 10/22 15:54 [FirstSquawk] USD/JPY Drops 0.7% to 157.11 as Declines Deepen
-- 10/22 16:00 [financialjuice] Japan's largest labour union group Rengo sets the centre of 2027 wage increase target at 6%
-- 10/22 16:00 [financialjuice] Rengo sets first medium-term wage target, seeks 15% wage increase by 2030.
-- 10/22 16:01 [financialjuice] Rengo maintains a minimum wage hike benchmark of 5% or more in 2027 policy
-- 10/22 16:01 [financialjuice] Japan's Rengo seeks 6% salary increases in 2027 wage talks.
-- 10/22 16:01 [financialjuice] Currency Strength Chart: Strongest: GBP, CHF, CAD, EUR, GBP, USD, NZD, AUD - Weakest
-- 10/22 16:07 [financialjuice] Nvidia's CEO Huang: Almost everything will get solved with high demand $NVDA
-- 10/22 16:09 [financialjuice] Iran's Revolutionary Guards' Navy: US continued insistence on pushing vessels to sail through 'illegal' routes in the Gulf will lead to confrontation against US regional bases - Fars
-- 10/22 16:14 [financialjuice] Nvidia's CEO Huang: Told Nscale to work around the clock $NVDA
-- 10/22 16:17 [financialjuice] Nvidia's CEO Huang: AI is funding the future of energy $NVDA
-- 10/22 16:21 [financialjuice] Saudi Aramco CEO Nasser: Aramco is seeking to partner with other countries to increase strategic reserves
-- 10/22 16:23 [financialjuice] Nvidia's CEO Huang calls global pacing of AI development 'ridiculous' $NVDA
-- 10/22 16:31 [financialjuice] SNB: Medium-term inflationary pressure is only slightly higher compared with the monetary policy assessment in June.
-- 10/22 16:32 [financialjuice] SNB Meeting Minutes - Read Here
-- 10/22 16:32 [financialjuice] SNB: The governing board deemed current monetary conditions appropriate to ensure price stability over the medium term.
-- 10/22 16:33 [financialjuice] SNB: Moderate growth is forecast for the coming quarters. Further growth stimuli are expected from abroad.
-- 10/22 16:33 [financialjuice] SNB: Inflation is likely to increase again somewhat in the short term due to higher energy prices.
-- 10/22 16:33 [financialjuice] SNB: Uncertainty remains high.
-- 10/22 16:33 [financialjuice] SNB: increased willingness to intervene in fx no longer needed.
-- 10/22 16:34 [financialjuice] SNB: If the use of AI leads to a rise in structural unemployment, this could dampen consumption.
-- 10/22 16:34 [financialjuice] SNB: Governing board and the alternate members of the governing board addressed possible second-round effects as a risk with regard to the development of inflation.
-- 10/22 16:35 [FirstSquawk] SWISS NATIONAL BANK NOTES THAT MEDIUM-TERM INFLATION PRESSURE IS ONLY A LITTLE HIGHER THAN THE JUNE MONETARY POLICY REVIEW.
-- 10/22 16:35 [FirstSquawk] SWISS NATIONAL BANK RELEASES MINUTES FROM SEPTEMBER 2026 MEETING.
-- 10/22 16:35 [FirstSquawk] SWISS NATIONAL BANK'S BOARD BELIEVES CURRENT MONETARY CONDITIONS ARE SUITABLE FOR MAINTAINING PRICE STABILITY IN THE MEDIUM TERM.
-- 10/22 16:35 [FirstSquawk] SNB EXPECTS MODEST GROWTH IN THE NEXT QUARTERS.
-- 10/22 16:35 [FirstSquawk] SNB MINUTES SHOW EXPECTATION OF ADDITIONAL GROWTH SUPPORT FROM OTHER COUNTRIES.
-- 10/22 16:35 [FirstSquawk] SWISS NATIONAL BANK REPORTS NO SIGNS OF SECOND-ROUND EFFECTS, CORE INFLATION HAS ONLY INCREASED A LITTLE.
-- 10/22 16:35 [FirstSquawk] SNB MINUTES SHOW THAT INFLATION MAY RISE SHORT TERM DUE TO INCREASING ENERGY PRICES.
-- 10/22 16:35 [FirstSquawk] SNB MEETING NOTES SHOW SIGNIFICANT UNCERTAINTY PERSISTS.
-- 10/22 16:35 [financialjuice] SNB: Swiss franc depreciation was in line with the widened interest rate differentials between Switzerland and other countries.
-- 10/22 16:36 [FirstSquawk] SNB MINUTES REVEAL THAT THE PRIMARY RISK TO ECONOMIC AND INFLATION PROJECTIONS COMES FROM GLOBAL ECONOMIC TRENDS.
-- 10/22 16:36 [financialjuice] SNB: Swiss franc exchange rate was mentioned less frequently by company representatives in their talks with the delegates for regional economic relations than in the past.
-- 10/22 16:36 [FirstSquawk] SWISS NATIONAL BANK SAYS THEY NO LONGER NEED TO INTERVENE IN FOREX MARKETS DUE TO CURRENT CONDITIONS.
-- 10/22 16:36 [FirstSquawk] SNB MINUTES SHOW THAT IF CONDITIONS IN THE MIDDLE EAST WORSEN, IT WOULD NEGATIVELY AFFECT GLOBAL ECONOMIC ACTIVITY MORE SEVERELY.
-- 10/22 16:36 [FirstSquawk] SNB MINUTES SHOW EXTRA RISKS FROM TRADE POLICY AND CURRENCY CHANGES.
-- 10/22 16:36 [FirstSquawk] SNB MINUTES INDICATE THAT INCREASING AI USE COULD RAISE STRUCTURAL UNEMPLOYMENT, POTENTIALLY REDUCING CONSUMPTION.
-- 10/22 16:36 [FirstSquawk] SNB MEETING NOTES DISCUSSED INFLATION RISKS DUE TO POTENTIAL SECOND-ROUND EFFECTS BY GOVERNING BOARD MEMBERS.
-- 10/22 16:37 [FirstSquawk] SNB MINUTES SHOWED THAT THE FALL IN SWISS FRANC VALUE MATCHED THE INCREASED INTEREST RATE DIFFERENCES WITH OTHER NATIONS.
-- 10/22 16:37 [FirstSquawk] SNB MINUTES SHOW LITTLE SAFE-HAVEN DEMAND FOR SWISS FRANC SINCE JUNE POLICY REVIEW.
-- 10/22 16:37 [FirstSquawk] SNB MINUTES SHOWED THAT COMPANY REPRESENTATIVES DISCUSSED THE SWISS FRANC EXCHANGE RATE LESS OFTEN IN MEETINGS WITH REGIONAL ECONOMIC DELEGATES COMPARED TO BEFORE.
-- 10/22 16:37 [FirstSquawk] SNB MINUTES SHOW THAT THE SWISS FRANC'S FALL OUTPACED THE INCREASE IN INTEREST RATES, RESULTING IN EASIER MONETARY CONDITIONS SINCE JUNE'S POLICY REVIEW.
-- 10/22 16:37 [FirstSquawk] SNB MINUTES SHOW THAT THE GOVERNING BOARD AND ALTERNATES RECOGNIZED STABLE INFLATION EXPECTATIONS.
-- 10/22 16:37 [FirstSquawk] SNB MINUTES SHOW THAT MONETARY POLICY REMAINS EXPANSIVE AND EXCESS LIQUIDITY SUPPORTS PRICE STABILITY IN THE MEDIUM TERM.
-- 10/22 16:39 [financialjuice] Huawei gets $2.3 billion offshore loan as chip spending soars.
-- 10/22 17:05 [FirstSquawk] BRENT CRUDE FUTURES RISE BY MORE THAN 3% TO $112.55 PER BARREL, REACHING HIGHEST LEVEL SINCE MAY.
-- 10/22 17:35 [FirstSquawk] IRAN SAYS SCOPE OF CONFLICT MAY EXPAND ON HORMUZ 'ILLEGAL' TRANSIT
-- 10/22 17:51 [FirstSquawk] TURKISH ENERGY MINISTER MET WITH CANADIAN ENERGY MINISTER BEFORE ERDOGAN AND CARNEY DISCUSSIONS.
-- 10/22 17:51 [FirstSquawk] TURKEY AND CANADA ARE TALKING ABOUT LNG TRADE, INVESTMENTS IN RENEWABLE ENERGY, AND MINING, SAYS TURKISH ENERGY MINISTER.
-- 10/22 17:51 [FirstSquawk] TURKISH ENERGY MINISTER SAYS DISCUSSIONS CENTERED ON EVALUATING HOW CANADA'S CANDU NUCLEAR REACTOR TECHNOLOGY CAN BE USED IN TURKEY.
 - 10/22 19:04 [FirstSquawk] Spotify Q3 Earnings: - Revenue: €4.97B (est €4.98B) - EPS: €2.48 (vs €3.28 Y/Y) - Operating Income: €672M (+15% Y/Y) - Gross Margin: 33% (est 32.9%) - Monthly Active Users: 788M (est 788.13M) - Total Premium Subscribers: 306M (est 305.15M) …
 - 10/22 19:04 [FirstSquawk] PG&E Q3 Earnings: - Operating Revenue: $6.19B (est $6.91B) - Adjusted Core EPS: 41c (est 41c)
 - 10/22 19:04 [FirstSquawk] Honeywell Q3 Earnings: - Sales: $4.99B, +1.3% Y/Y - Adjusted EPS: $2.27 - Industrial Automation Revenue: $1.12B - Building Automation Revenue: $2.02B, +7.6% Y/Y - Organic Sales: +7% - Sees FY Organic Sales: +4% To +5% (prev +3% To +4%) - Se…
@@ -289,3 +235,65 @@
 - 10/23 03:45 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 4.00% HIGHER AT $113.17/BBL, UP $4.35
 - 10/23 03:47 [FirstSquawk] US OFFICIAL: FLORIDA LEBANON-ISRAEL TALKS END WITHOUT BREAKTHROUGH — AL ARABIYA
 - 10/23 03:48 [financialjuice] US source to Al Arabiya: The Florida meetings between Lebanon and Israel ended without a breakthrough
+- 10/23 04:01 [financialjuice/FirstSquawk] UK's Chancellor Healey to scale back business asset disposal relief - Telegraph
+- 10/23 04:07 [financialjuice] US Treasury Investor Flows Foreign investors in latest biweekly reporting period buy $5.488B 30-year bond due 08/15/2056 vs $9.307B prior month Investment funds in latest biweekly reporting period buy $14.572B 30-year bond due 08/15/2056 vs…
+- 10/23 04:13 [FirstSquawk] US SOURCE TO AL ARABIYA: FLORIDA MEETINGS BETWEEN LEBANON & ISRAEL END WITHOUT BREAKTHROUGH
+- 10/23 04:19 [FirstSquawk] OIL FUTURES POST SHARPEST WEEKLY DROP SINCE APRIL AMID UNCERTAINTY OVER U.S.-IRAN CEASEFIRE
+- 10/23 04:23 [financialjuice] Friday FX Option Expiries
+- 10/23 04:27 [financialjuice] White House: Trump signed an executive order addressing housing costs
+- 10/23 04:27 [financialjuice] White House: Trump decreases housing costs for Americans
+- 10/23 04:27 [FirstSquawk] ROMANIAN PRESIDENT NICUȘOR DAN SAID RUSSIA APPEARS MORE FOCUSED ON ESCALATING THE UKRAINE WAR THAN PURSUING PEACE, URGING NATO MEMBERS TO BOOST READINESS WHILE AVOIDING FURTHER ESCALATION.
+- 10/23 04:28 [FirstSquawk] ROMANIAN PRESIDENT NICUȘOR DAN DOUBTED MOSCOW’S READINESS FOR A DEAL DESPITE ONGOING US-LED DIPLOMACY, AS ROMANIA AND OTHER EU MEMBERS PREPARE FOR POTENTIAL RUSSIAN HYBRID THREATS, INCLUDING DRONE INCURSIONS, CYBERATTACKS AND DISINFORMATION…
+- 10/23 04:28 [financialjuice] US housing order seeks to cut mortgage insurance premiums
+- 10/23 04:28 [FirstSquawk] WHITE HOUSE SAYS TRUMP HAS SIGNED AN EXECUTIVE ORDER ADDRESSING HOUSING COSTS, DECREASING HOUSING COSTS FOR AMERICANS
+- 10/23 04:33 [FirstSquawk] GOLD DROPS 2.57% TO $4,034.76 AS MARKET CUES POINT TO YEN INTERVENTION OR AI-RELATED LIQUIDATIONS
+- 10/23 04:37 [financialjuice] OpenAI: Making decisions API generally available
+- 10/23 04:38 [financialjuice] OpenAI's Decisions API priced at $0.10 per million input tokens
+- 10/23 04:38 [financialjuice] OpenAI: Cached input costs $0.01 per million tokens
+- 10/23 04:41 [financialjuice] US money-market fund assets rise to $7.94 trillion at ICI
+- 10/23 04:41 [FirstSquawk] U.S. BANKS FACE RISING CYBER THREATS AS AI-POWERED ATTACKS GROW MORE WIDESPREAD
+- 10/23 04:44 [FirstSquawk] OPENAI SAYS IT IS MAKING ITS DECISIONS API GENERALLY AVAILABLE, PRICED AT $0.10 PER MLN INPUT TOKENS, WITH CACHED INPUT COSTING $0.01 PER MLN TOKENS
+- 10/23 04:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: 2932.6 MLN NASDAQ 100: 1994.0 MLN DOW 30: 494.6 MLN MAG 7: 733.2 MLN $MACRO
+- 10/23 04:55 [financialjuice/FirstSquawk] US Treasury Secretary Bessent and Paraguay's Pena discussed critical minerals - US Treasury
+- 10/23 05:02 [FirstSquawk] NASDAQ CLOSES 2.64% LOWER AT 25,999.35, DOWN 703.50 POINTS
+- 10/23 05:02 [FirstSquawk] S&P 500 CLOSES 1.24% LOWER AT 7,661.33, DOWN 95.84 POINTS
+- 10/23 05:02 [FirstSquawk] DOW JONES CLOSES 0.01% LOWER AT 52,853.21, DOWN 2.88 POINTS
+- 10/23 05:03 [FirstSquawk] NASDAQ POSTS BIGGEST DAILY PERCENTAGE DROP SINCE JUNE 5
+- 10/23 05:07 [FirstSquawk] WESTERN DIGITAL Q1 2027 NET REVENUE $4.38 BLN, ABOVE ESTIMATE OF $4.15 BLN, WITH ADJUSTED EPS $4.64, WELL ABOVE ESTIMATE OF $4.10
+- 10/23 05:07 [FirstSquawk] WESTERN DIGITAL SEES Q2 REVENUE $5.0 BLN TO $5.2 BLN, Q2 ADJUSTED EPS $5.60 TO $6.00 AND Q2 OPERATING EXPENSES $400 MLN TO $410 MLN
+- 10/23 05:07 [FirstSquawk] NEWMONT Q3 2026 REVENUE $6.36 BLN, ABOVE ESTIMATE OF $6.28 BLN, WITH ADJUSTED EPS $2.20, ABOVE ESTIMATE OF $2.08, AND ADJUSTED NET INCOME $2.31 BLN
+- 10/23 05:07 [FirstSquawk] NEWMONT Q3 ATTRIBUTABLE GOLD PRODUCTION 1.30 MLN OZ, WITH THE COMPANY ADVANCING THE RED CHRIS BLOCK CAVE TOWARDS A FULL-FUNDS INVESTMENT DECISION IN EARLY 2027
+- 10/23 05:08 [FirstSquawk] U.S. CDC WILL IMPOSE EBOLA ATTESTATION REQUIREMENTS FOR ALL AIRLINE PASSENGERS DEPARTING FOREIGN COUNTRIES FOR THE U.S. EFFECTIVE NOVEMBER 3, WITH U.S.-BOUND PASSENGERS REQUIRED TO COMPLETE DIGITAL OR PAPER ATTESTATIONS THAT THEY HAVE NOT B…
+- 10/23 05:12 [financialjuice] SpaceX lower-rated debt to price at ~8.3% - Semafor $SPCX
+- 10/23 05:14 [financialjuice] SpaceX debt deal being led by Apollo and Goldman Sachs - Semafor $SPCX $GS
+- 10/23 05:16 [financialjuice] Trump on Russia and Ukraine: We'll see how it works out
+- 10/23 05:17 [FirstSquawk] A SPACEX DEBT DEAL IS BEING LED BY APOLLO AND GOLDMAN SACHS, WITH SPACEX’S LOWER-RATED DEBT TO PRICE AT ABOUT 8.3% - SEMAFOR
+- 10/23 05:18 [FirstSquawk] TRUMP, ASKED ON CALLING MUSK, SAYS HE DOES NOT WANT TO SAY BUT THAT HIS RELATIONSHIP WITH MUSK IS A GOOD ONE, ADDING ON RUSSIA AND UKRAINE THAT “WE’LL SEE HOW IT WORKS OUT”
+- 10/23 05:20 [financialjuice] Tech Selloff and Middle East Tensions Trigger Treasury Rally as Oil Surges - US Market Wrap
+- 10/23 05:20 [financialjuice] OpenAI in talks to secure more computing capacity from UAE - CNBC
+- 10/23 05:21 [financialjuice] OpenAI aims to secure signatures by the end of next week - CNBC
+- 10/23 05:23 [financialjuice] US Secretary of State Rubio and NATO Sec. Gen. Rutte discussed black sea security
+- 10/23 05:26 [financialjuice] Alphabet board declares $15.63/share preferred dividend $GOOGL
+- 10/23 05:26 [financialjuice] Trump on Iran: May do it a little bit further
+- 10/23 05:28 [financialjuice] Trump ends remarks at the White House
+- 10/23 05:30 [DeItaone] *OPENAI NEARS UP TO $30B FUNDING ROUND AT $1.25T VALUATION:CNBC
+- 10/23 05:34 [FirstSquawk] GLOBAL STOCKS SLUMPED AS AI SPENDING CONCERNS TRIGGERED A TECH SELLOFF, WITH THE S&P 500 DOWN 1.2%, NASDAQ 100 FALLING 2.9% AND SEMICONDUCTORS DROPPING 6.7%; DEADLY ATTACKS IN SAUDI ARABIA PUSHED BRENT ABOVE $113/BARREL, RAISING SUPPLY DISR…
+- 10/23 05:36 [FirstSquawk] FITCH HAS REVISED ITS 2027 SECTOR OUTLOOK FOR AIRCRAFT LESSORS TO DETERIORATING BUT EXPECTS LESSORS’ CREDIT PROFILES TO REMAIN RESILIENT DESPITE MACRO RISKS, ADDING THAT SUSTAINED HIGH FUEL PRICES, AIRSPACE DISRUPTION AND HIGHER BORROWING C…
+- 10/23 05:38 [FirstSquawk] SIXTEEN PEOPLE WERE KILLED AND 32 INJURED AFTER A 7.0-MAGNITUDE QUAKE HIT CHINA’S XIZANG, WITH 11 OF THE INJURED IN SERIOUS CONDITION AND 21 SUSTAINING MINOR INJURIES AS OF 2:25 A.M. FRIDAY - XINHUA
+- 10/23 05:39 [DeItaone] TRUMP WARNS OF FURTHER STRIKES ON IRAN President Trump says the U.S. has “knocked the hell out of Iran” and “may do it a little bit further.”
+- 10/23 05:43 [financialjuice] SpaceX: Any potential Tesla combination would be subject to further approval by our special committee, board & controlling shareholder $TSLA $SPCX
+- 10/23 05:43 [financialjuice] Trump invokes the Defense Production Act for Petroleum capacity
+- 10/23 05:44 [financialjuice] Trump sends US Sec. of Defense Hegseth memo about the Defense Production Act and oil
+- 10/23 05:47 [FirstSquawk] COCA-COLA COMPANY SAYS IT HAS SELECTED AGENCY PARTNERS TO ACCELERATE THE FUTURE OF MARKETING, RETAINING WPP OPEN X AS ITS GLOBAL MEDIA PARTNER EXCEPT IN NORTH AMERICA, JAPAN AND SOUTH KOREA, AND SELECTING OMNICOM AS ITS MEDIA PARTNER IN NOR…
+- 10/23 05:47 [FirstSquawk] COCA-COLA SAYS DENTSU CONTINUES AS ITS MEDIA PARTNER IN JAPAN AND SOUTH KOREA, WPP OPEN X CONTINUES AS ITS GLOBAL CREATIVE PARTNER, AND THE NEW MARKETING STRUCTURE WILL BE IMPLEMENTED IN PHASES BEGINNING DECEMBER 1
+- 10/23 05:52 [FirstSquawk] TRUMP INVOKES DEFENSE PRODUCTION ACT FOR PETROLEUM CAPACITY, SENDS DEFSEC HEGSETH MEMO ON DEFENSE PRODUCTION ACT AND OIL
+- 10/23 06:04 [financialjuice] US 5-YEAR TIPS HIGH YIELD ACTUAL 2.367% (FORECAST -, PREVIOUS 1.955%) $MACRO
+- 10/23 06:04 [financialjuice] US 5-YEAR TIPS BID-TO-COVER ACTUAL 2.410 (FORECAST -, PREVIOUS 2.610) $MACRO
+- 10/23 06:10 [financialjuice/FirstSquawk] Google announces general availability of an Anthropic-managed deployment option for Claude models on Google Cloud
+- 10/23 06:19 [FirstSquawk] SPACEX: ANY POTENTIAL TESLA COMBINATION WOULD BE SUBJECT TO FURTHER APPROVAL BY OUR SPECIAL COMMITTEE, BOARD & CONTROLLING SHAREHOLDER
+- 10/23 06:20 [FirstSquawk] THE U.S. 5-YEAR TIPS AUCTION DREW A HIGH YIELD OF 2.367%, UP FROM 1.955% PREVIOUSLY, WITH A BID-TO-COVER RATIO OF 2.410, DOWN FROM 2.610
+- 10/23 06:21 [FirstSquawk] S&P DOW JONES INDICES SAYS MSG RANGERS AND HURON CONSULTING GROUP ARE SET TO JOIN THE S&P SMALLCAP 600, WITH HURON CONSULTING GROUP REPLACING SUPERNUS PHARMACEUTICALS EFFECTIVE PRIOR TO THE OPENING OF TRADING ON NOVEMBER 2
+- 10/23 06:24 [FirstSquawk] CITIGROUP SAYS IT ELECTED JAMES FLANAGAN AS A DIRECTOR AND APPOINTED HIM TO THE AUDIT COMMITTEE ON OCTOBER 21, 2026, WITH FLANAGAN ALSO APPOINTED AS A BOARD MEMBER OF CITIBANK, N.A. - SEC FILING
+- 10/23 06:25 [FirstSquawk] RIO TINTO SAYS IT IS INVESTING $1.9 BLN TO DEVELOP THE KANGWINAN BAUXITE PROJECT, A BROWNFIELD INVESTMENT THAT WILL REPLACE PRODUCTION FROM THE ANDOOM MINE NEAR WEIPA AS IT REACHES THE END OF ITS LIFE THIS DECADE
+- 10/23 06:25 [FirstSquawk] RIO TINTO SAYS CONSTRUCTION WILL RAMP UP IN 2027 AND IS EXPECTED TO SUPPORT MORE THAN 1,300 CONSTRUCTION JOBS, WITH THE PROJECT ADDING 20 MLN TONNES OF ANNUAL BAUXITE PRODUCTION CAPACITY IN WEIPA, FIRST OUTPUT TARGETED IN 2029 AND FULL PROD…
+- 10/23 06:39 [FirstSquawk] GENERAL MOTORS CANCELLED A LONG-TERM SUPPLY DEAL FOR RARE-EARTH MAGNETS AT A FACTORY DUE TO BE ACQUIRED BY ENERGY FUELS, SEC DOCUMENTS SHOW, WITH PLANT OWNER VACUUMSCHMELZE HAVING FILED FOR ARBITRATION AND SEEKING DAMAGES FROM GM
