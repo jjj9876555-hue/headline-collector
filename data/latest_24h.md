@@ -7,187 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-22 18:38 JST／対象: 10/21 18:38 〜 10/22 18:38 JST（時刻はすべて日本時間）
+生成: 2026-10-22 23:40 JST／対象: 10/21 23:40 〜 10/22 23:40 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 43 | 10/21 19:28 | 10/22 09:17 | ⚠ 186分（05:32→08:39） |
-| FirstSquawk | 299 | 10/21 18:39 | 10/22 17:51 | 41分（15:54→16:35） |
-| financialjuice | 325 | 10/21 18:39 | 10/22 16:39 | ⚠ 65分（14:25→15:30） |
+| DeItaone | 40 | 10/21 23:45 | 10/22 23:05 | ⚠ 591分（09:17→19:09） |
+| FirstSquawk | 299 | 10/21 23:47 | 10/22 23:32 | ⚠ 72分（17:51→19:04） |
+| financialjuice | 267 | 10/21 23:44 | 10/22 23:36 | ⚠ 155分（16:39→19:15） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 652 行（統合前 674 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 593 行（統合前 613 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/21 18:39 [FirstSquawk] NVIDIA INTRODUCES DSX POD AI FACTORIES TO ACCELERATE EUROPE’S INFRASTRUCTURE DEPLOYMENT; DSX POD UNITS REDUCE DEPLOYMENT TIME TO AS LITTLE AS 14 DAYS; EUROPEAN ECOSYSTEM BUILDS WORLD’S MOST EFFICIENT AI FACTORIES WITH NVIDIA DSX
-- 10/21 18:39 [financialjuice] French President Macron: We secured 2 terawatt-hours per month of gas from Qatar during the winter period
-- 10/21 18:47 [FirstSquawk] GERMAN GOVERNMENT SPOKESPERSON SAYS ON UKRAINE: GERMAN, EUROPEAN CONTACTS WITH THE US SUGGEST THAT AMERICANS ARE INTERESTED IN NEGOTIATION PROCESS
-- 10/21 18:52 [financialjuice] NVIDIA launches open-shell reference architecture for AI agents $NVDA
-- 10/21 18:52 [financialjuice] German Government Spokesperson: We are in close exchange with the US on Ukraine
-- 10/21 18:52 [financialjuice] NVIDIA DSX cuts cooling water use to near zero at 2GW scale $NVDA
-- 10/21 18:53 [financialjuice] NVIDIA DSX MaxLPS cuts power use by up to 30% per token $NVDA
-- 10/21 18:53 [financialjuice] BofA's Bernard Mensah: Bit worried about sovereign yields
-- 10/21 18:55 [financialjuice] ECB's Kazaks: More tightening may be needed if inflation stays high
-- 10/21 18:56 [financialjuice] Iran's President Pezeshkian: The US cannot blockade and threaten Iran but expect to have dialogue - IRNA
-- 10/21 18:56 [financialjuice] ECB's Kazaks: Caution needed as higher yields may slow the economy
-- 10/21 18:56 [financialjuice] ECB's Kazaks: There's some extra tightening coming from markets
-- 10/21 18:57 [financialjuice] ECB's Kazaks: Not seeing conditions for excessive wage demands
-- 10/21 19:02 [financialjuice] Trump admin to evaluate whether further loans from the heating oil reserve should follow - US government source
-- 10/21 19:03 [financialjuice] China to pursue decisive breakthroughs in key tech, including integrated circuits, industrial machine tools, high-end instruments, advanced materials, biomanufacturing - Xinhua
-- 10/21 19:03 [financialjuice] China to accelerate development of strategic emerging industries, including new energy, new materials, and aerospace - Xinhua
-- 10/21 19:06 [FirstSquawk] Danaher Q3 Earnings - Sales: $6.6B (est $6.56B) - Adjusted EPS: $2.11 (est $1.92) - Raises FY26 Adjusted EPS Guidance - Sees FY Adjusted EPS: $8.57 To $8.62 (prev $8.45 To $8.60) - Sees Q4 Core Revenue Ex-Respiratory: +4% To +5% Y/Y
-- 10/21 19:14 [FirstSquawk] NVIDIA, NOKIA AND LEADING TELECOM OPERATORS TURN NETWORKS INTO DISTRIBUTED INTELLIGENCE PLATFORMS
-- 10/21 19:14 [FirstSquawk] CHINA SEEKS BREAKTHROUGHS IN TECH SUCH AS INTEGRATED CIRCUITS
-- 10/21 19:15 [FirstSquawk] US WTI MIDLAND CRUDE OIL FUTURES RISE MORE THAN $2 TO SESSION HIGH OF $99.88/BBL AMID FALLING US OIL STOCKPILES
-- 10/21 19:15 [financialjuice] Kremlin: Russia will analyse US proposals, but much depends on Ukraine - IFX
-- 10/21 19:15 [FirstSquawk] KREMLIN: PUTIN, TRUMP TALKS WILL BE SERIOUS, LONG - IFX
-- 10/21 19:16 [financialjuice] Kremlin: Putin, Trump talks will be serious and long - IFX
-- 10/21 19:16 [financialjuice] Kremlin: If ukraine does not make necessary decisions, situation for them will be worse - IFX
-- 10/21 19:17 [financialjuice] Putin-Trump-Xi meeting possible, but no agenda yet - Tass.
-- 10/21 19:18 [FirstSquawk] BRENT CRUDE OIL FUTURES RISE MORE THAN $2 TO SESSION HIGH OF $111.25/BBL ON IRAN DENYING ANY DIPLOMATIC PROGRESS, FALLING US OIL INVENTORIES
-- 10/21 19:18 [financialjuice] UKMTO: Received a time late report of an incident 30nm of Al Faw, Iraq
-- 10/21 19:18 [FirstSquawk] KREMLIN: RUSSIA READY FOR NUCLEAR TALKS WITH US, CHINA: IFX
-- 10/21 19:24 [financialjuice] Iran's FM: We are ready for diplomacy, but will defend ourselves - FT
-- 10/21 19:25 [financialjuice] Iran FM: Given that the US has shown no willingness to reach an understanding, there is little reason to expect progress now - FT
-- 10/21 19:28 [DeItaone] $SPCX - CITI FLAGS SPACEX AS A 90-DAY UPSIDE CATALYST Citi has added SpaceX to its 90-day upside catalyst watch list. Shares surged 8.21% overnight following the company's earnings release. Since its reported June 2026 IPO at $150, the stoc…
-- 10/21 19:28 [DeItaone] IRAN SIGNALS DIPLOMACY, BUT WARNS U.S. TRUST IS GONE Iranian Foreign Minister Abbas Araghchi says Tehran is ready for diplomacy but prepared to defend itself. Araghchi says Iran has “no trust whatsoever” in Washington's stated desire for pe…
-- 10/21 19:31 [financialjuice] $T AT&T Q3 2026 Earnings Adj EPS $0.65, Est. $0.60 EPS $2.40, Saw $2.25–$2.35, Est. $2.35 Rev $32.3B, Est. $31.7B Adj EBITDA $12.5B, Est. $12.34B
-- 10/21 19:32 [FirstSquawk] AT&T Q3 Earnings - Adjusted EBITDA: $12.5B (est $12.34B) - Adjusted EPS: 65c (est 60c) - Revenue: $32.3B (est $31.7B) - Free Cash Flow: $5B (est $4.94B) - Postpaid Phone-Only Churn: 0.92% - Wireless Postpaid Phone Net Adds: 379,000 (est 387…
-- 10/21 19:33 [DeItaone] $T - AT&T BEATS Q3 EXPECTATIONS, RAISES 2026 EARNINGS OUTLOOK AT&T delivered a double beat: 🔸 Revenue: $32.3B vs. $31.69B expected 🔸 Adjusted EPS: $0.65 vs. $0.60 expected 🔸 Adjusted EBITDA: $12.5B 🔸 Postpaid phone additions: 379,000, broad…
-- 10/21 19:35 [financialjuice] NVIDIA to boost product substrate capacity over next 3 years.
-- 10/21 19:35 [financialjuice] NVIDIA to give KYEC $1.1B capacity reservation advance $NVDA
-- 10/21 19:35 [DeItaone] https://t.co/KfY5vSOUSC
-- 10/21 19:37 [financialjuice] Nvidia sees semi testing capacity doubling from 2026 to 2027 $NVDA
-- 10/21 19:37 [financialjuice] NVIDIA: High-volume Kyec production targeted for April 2027
-- 10/21 19:39 [financialjuice] Nvidia and SPIL to expand optical engine capacity in Taiwan $NVDA
-- 10/21 19:40 [FirstSquawk] ZELENSKYY TALKS WITH WITKOFF WERE VERY PRODUCTIVE
-- 10/21 19:42 [DeItaone] $SPCX - WALL STREET RAISES SPACEX TARGETS AFTER EARNINGS Analysts are turning more bullish on SpaceX, with several banks lifting their price targets: 🔸 Morgan Stanley: $300 — Overweight 🔸 Wells Fargo: $274, up from $214 🔸 Citi: $240, up fro…
-- 10/21 19:43 [DeItaone] 🇫🇷 FRANCE'S BORROWING COSTS HIT 24-YEAR HIGH AS DEBT FEARS MOUNT France's 10-year government bond yield briefly topped 5% for the first time since 2002. Violent protests, widening fiscal concerns and political gridlock are fueling a selloff…
-- 10/21 19:45 [financialjuice] Ukraine’s President Zelenskiy: Ukraine has to support a potential deal
-- 10/21 19:46 [FirstSquawk] ZELENSKYY SAYS ANY PEACE DEAL WOULD REQUIRE REFERENDUM; SAYS STARLINK IS STILL LIMITED
-- 10/21 19:46 [FirstSquawk] ZELENSKYY: RUBIO TOLD HIM WILL WORK ON RESOLVING STARLINK
-- 10/21 19:47 [financialjuice] Ukraine’s President Zelenskiy: Rubio told me he will work on resolving Starlink
-- 10/21 19:51 [financialjuice] Google Cloud and NVIDIA announce general availability of NVIDIA Vera Rubin infrastructure $NVDA $GOOGL
-- 10/21 19:51 [financialjuice] NVIDIA, Amkor target over 300% interposer capacity boost by 2028.
-- 10/21 19:51 [DeItaone] UKRAINE'S ZELENSKIY: STARLINK/STARSHIELD IS STILL LIMITED BUT RUBIO SAID HE WILL WORK ON IT -FOX NEWS INTERVIEW
-- 10/21 19:54 [financialjuice/FirstSquawk] Oracle launches AI Agent Studio for industry applications
-- 10/21 19:54 [FirstSquawk] TRUMP: THOSE TALKS WOULD HAVE COME TO A COMPLETE HALT
-- 10/21 19:57 [DeItaone] JPMORGAN: SPACEX–TESLA MEGA-MERGER GAINS MOMENTUM JPMorgan sees strong strategic logic for a potential SpaceX ($SPCX ) and Tesla ($TSLA ) merger after Elon Musk disclosed that both companies formed special committees to explore a combinatio…
-- 10/21 19:57 [financialjuice] JP Morgan raises target price of SpaceX to $500 from $240
-- 10/21 20:00 [financialjuice] US MBA MORTGAGE APPLICATIONS ACTUAL -5.3% (FORECAST -, PREVIOUS -2.7%) $MACRO
-- 10/21 20:00 [financialjuice] US MBA 30-YR MORTGAGE RATE ACTUAL 7.41% (FORECAST -, PREVIOUS 7.50%) $MACRO
-- 10/21 20:03 [FirstSquawk] Philip Morris Q3 Earnings: - Adj EPS: $2.36 (est $2.30) - Organic Revenue: +7.1% (est +5.35%) - Sees FY Adj EPS: $8.29 To $8.44 (prev $8.35 To $8.50) - Still Sees FY Organic Revenue: +5% To +7% (est +5.56%)
-- 10/21 20:03 [financialjuice] Infineon and Nvidia partner on power conversion for data centers $NVDA
-- 10/21 20:06 [DeItaone] $SPCX - JPMORGAN DOUBLES SPACEX PRICE TARGET TO $500 JPMorgan raised its SpaceX price target from $240 to $500, maintaining an Overweight rating. The bank now forecasts $254 billion in 2027 revenue and 10 GW of computing capacity by year-en…
-- 10/21 20:09 [financialjuice] UK's PM Burnham: Looking at removing standing charges from gas bills
-- 10/21 20:09 [DeItaone] YARDENI: THE AI BUBBLE IS REAL, BUT NOT READY TO BURST Yardeni Research's new AI Bubble Meter flashes a warning, but not a crash signal. Bubble Conditions stand at 83/100, while Crash Triggers remain at just 34/100. Historically, similar co…
-- 10/21 20:14 [FirstSquawk] UK PM BURNHAM: LOOKING AT REMOVING STANDING CHARGES FROM GAS BILLS
-- 10/21 20:17 [FirstSquawk] THERMO FISHER RAISES FY 2026 GUIDANCE
-- 10/21 20:24 [financialjuice] Russia struck Ukraine's gas production site in the Kharkiv region - Naftogaz
-- 10/21 20:30 [DeItaone] $CRWV - CrowdStrike, NVIDIA Expand AI Agent Security From Software to Silicon
-- 10/21 20:31 [financialjuice] $ABT Abbott Q3 2026 Earnings Adj EPS $1.42, Est. $1.42 Net Sales $13.01B, Est. $13B Comparable Sales +7% Sees Q4 Adj EPS $1.62–$1.67
-- 10/21 20:31 [financialjuice] Amkor adds $1.3b NVIDIA pact for South Korea capacity.
-- 10/21 20:31 [financialjuice] Crowdstrike, NVIDIA to extend AI agent security to silicon.
-- 10/21 20:34 [financialjuice] Samsung electro-mechanics & NVIDIA report pact on ABF substrate $NVDA
-- 10/21 20:35 [FirstSquawk] Abbott Q3 Earnings - Adj EPS: $1.42 (est $1.42) - Net Sales: $13.01B (est $13B) - Comparable Sales: +7% - Sees Q4 Adj EPS: $1.62 To $1.67 (est $1.64) - Sees FY Adj EPS: $5.50 To $5.55 (prior $5.45 To $5.60) - Sees 2026 Comparable Sales Grow…
-- 10/21 20:40 [FirstSquawk] NextEra Energy Q3 Earnings - Adj EPS: $1.24 (est $1.20) - Operating Rev: $8.09B (est $8.5B) - Still Sees FY Adj EPS At High End Of $3.92 To $4.02
-- 10/21 20:50 [DeItaone] $EBAY - EBAY TO CUT ABOUT 9% OF WORKFORCE TO SIMPLIFY OPERATIONS, PRIORITIZE GROWTH AREAS, CEO MEMO SEEN BY REUTERS SHOWS
-- 10/21 21:01 [financialjuice] Morning Juice - US Session Prep (21st October)
-- 10/21 21:01 [financialjuice] Secured overnight financing rate 3.88% October 20th vs 3.87% October 19th
-- 10/21 21:01 [FirstSquawk] AT&T SHARES EXTEND LOSSES; LAST DOWN 5.7% PREMARKET
-- 10/21 21:01 [FirstSquawk] THERMO FISHER EXEC SAYS CO EXPECTS FULL YEAR REVENUE TO BE IN THE RANGE OF $47.7 BILLION TO $48.2 BILLION
-- 10/21 21:02 [DeItaone/FirstSquawk] MEETING BETWEEN RUSSIA'S PUTIN, US WITKOFF ENDS - TASS
-- 10/21 21:02 [DeItaone] OPENAI AND GOOGLE STRIKE MAJOR AI DISTRIBUTION DEAL OpenAI will bring its frontier AI models, including GPT-6 Astra, and Codex to Google Cloud in the coming weeks. Enterprise customers will be able to purchase them through Google Cloud Mark…
-- 10/21 21:02 [financialjuice] Putin-Witkoff talks are over - Tass
-- 10/21 21:06 [financialjuice] OpenAI to make models available through Google's cloud - CNBC $GOOGL
-- 10/21 21:11 [FirstSquawk] KREMLIN: NORWAY, FINLAND ARE NOW PART OF PEACE PROCESS - TASS
-- 10/21 21:11 [financialjuice] Kremlin: Norway and Finland are now part of the peace process - Tass
-- 10/21 21:18 [financialjuice] France's Macron has arrived in Saudi Arabia - Elysee
-- 10/21 21:20 [DeItaone] RUSSIAN SU-30 FIGHTER JET CRASHES IN KALININGRAD REGION - IFX
-- 10/21 21:23 [financialjuice] Google, Inmobi-backed Glance to bring AI commerce to Android TV.
-- 10/21 21:25 [FirstSquawk] MACRON LANDS IN RIYADH: AFP
-- 10/21 21:29 [financialjuice] China and the EU vow to uphold fair competition in global markets
-- 10/21 21:29 [financialjuice] Russia's Putin holds meeting with China's Premier Li Qiang - Tass.
-- 10/21 21:32 [financialjuice] Putin: There will be an opportunity to hold a meeting with China's Xi during APEC summit in China - Ria.
-- 10/21 21:33 [financialjuice] The UK Energy Sec. is leaning to rejecting the Rosebank oilfield - Guardian.
-- 10/21 21:34 [FirstSquawk] OPENAI: PARTNERS WITH GOOGLE CLOUD TO BRING FRONTIER MODELS AND CODEX TO GOOGLE CLOUD'S MODEL GARDEN - WEBSITE
-- 10/21 21:35 [FirstSquawk] OPENAI : FRONTIER MODELS TO BE AVAILABLE FOR PURCHASE VIA GOOGLE CLOUD MARKETPLACE
-- 10/21 21:38 [financialjuice] Merck collaborates with NVIDIA, Microsoft and Dawn Health to develop novel support model for people living with rare tumors. $MRK $NVDA $MSFT
-- 10/21 21:38 [financialjuice] OpenAI: Microsoft remains primary cloud partner. $MSFT
-- 10/21 21:39 [financialjuice] Japan to lower maximum subsidy for newly registered EVs by 40% to 750,000 Yen from 1.25 million Yen from January 1st, 2027 - Industry ministry
-- 10/21 21:49 [financialjuice] AT&T: Q4 adjusted EBITDA impacted by unfavorable vendor dispute settlements of about $100 million that will primarily impact our legacy segment. $T
-- 10/21 22:00 [financialjuice] Effective Fed Funds Rate 3.88% October 20 vs 3.88% October 19.
-- 10/21 22:01 [financialjuice] Qualcomm announced a quarterly cash dividend of $0.92 per common share
-- 10/21 22:02 [financialjuice] Russia's Wealth Fund Head Dmitriev: Putin-Witkoff meeting was productive - TASS
-- 10/21 22:05 [financialjuice/FirstSquawk] OpenAI: ChatGPT Ads expands to 26 new countries.
-- 10/21 22:05 [financialjuice/FirstSquawk] OpenAI expands ChatGPT ads to 89 countries worldwide.
-- 10/21 22:06 [financialjuice] OpenAI is to develop added formats, objectives, and buying options.
-- 10/21 22:09 [financialjuice] UBS cuts General Motors target price to $109 from $112 $GM
-- 10/21 22:09 [financialjuice] UBS cuts Netflix target price to $100 from $115. $NFLX.
-- 10/21 22:14 [FirstSquawk] US AUTHORIZES EXCHANGE FROM NORTHEAST HOME HEATING OIL RESERVE
-- 10/21 22:20 [DeItaone] MORE OIL IS LEAVING THE PERSIAN GULF THAN BEFORE THE WAR Middle East oil exports exceeded prewar levels in the week through October 18, according to Kpler. A U.S.-protected shipping system is keeping tankers moving despite continued attacks…
-- 10/21 22:21 [FirstSquawk] CARNEY, FORD EXPECTED TO UNVEIL TARIFF SUPPORT FOR STEEL AND AUTO - CTV
-- 10/21 22:24 [FirstSquawk] US WHITAKER: HUBBARD'S RELEASE SHOWS RUSSIA WILLING TO COOPERATE
-- 10/21 22:25 [FirstSquawk] US WHITAKER RESPONDS TO QUESTION ABOUT HOSTAGE RELEASE FROM RUSSIA
-- 10/21 22:26 [financialjuice] Kremlin: There was discussion of renewing three-way peace talks.
-- 10/21 22:26 [DeItaone] PUTIN SIGNALS WILLINGNESS TO RESUME UKRAINE PEACE TALKS The Kremlin says Putin is ready in principle to restart U.S.–Russia–Ukraine talks in mid-November, focusing on postwar security guarantees. Following talks with U.S. envoy Steve Witkof…
-- 10/21 22:26 [financialjuice] Kremlin: Putin said Russia ready in principle to resume three-way peace talks in mid-November.
-- 10/21 22:26 [financialjuice] Kremlin: Topic will be how to guarantee security for both Russia and Ukraine once the conflict ends
-- 10/21 22:26 [financialjuice] Kremlin: Witkoff said Trump will be very satisfied with that decision.
-- 10/21 22:26 [financialjuice] Kremlin: Some more joint economic projects are close to being realised
-- 10/21 22:26 [financialjuice] Kremlin: Implementation of Russia-US diesel deal was an important part of talks.
-- 10/21 22:26 [financialjuice] Kremlin: Putin reaffirmed Russia's willingness to help settle Iran crisis.
-- 10/21 22:27 [financialjuice] US Ambassador to NATO Whitaker: I don't think there's any imminent announcements
-- 10/21 22:27 [DeItaone] *PARIS POLICE RENEW PARTIAL CURFEW WEDNESDAY EVENING: AFP
-- 10/21 22:28 [financialjuice] Kremlin: China is already preparing a trilateral meeting - IFX
-- 10/21 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: 12.3 MLN NASDAQ 100: -2.9 MLN DOW 30: -15.4 MLN MAG 7: 3.1 MLN $MACRO
-- 10/21 22:31 [DeItaone] CRITICAL PHP FLAWS PUT MILLIONS OF WEBSITES ON ALERT PHP developers are preparing emergency patches for two critical vulnerabilities, each rated 9.2/10 in severity. The flaws could allow attackers to execute malicious code remotely without …
-- 10/21 22:32 [FirstSquawk] DOW JONES UP 99.47 POINTS, OR 0.19 %, AT 52,595.35 AFTER MARKET OPEN S&P 500 UP 22.51 POINTS, OR 0.29 PERCENT, AT 7,735.08 AFTER MARKET OPEN NASDAQ UP 184.24 POINTS, OR 0.70 PERCENT, AT 26,609.06 AFTER MARKET OPEN
-- 10/21 22:33 [DeItaone] *FINLAND SHUTS STATE INTERNET SERVICES OVER PHP FLAWS *NETHERLANDS CYBERSECURITY AGENCY TAKES WEBSITE OFFLINE OVER PHP FLAWS *FRANCE TEMPORARILY TAKES PREFECTURE WEBSITES OFFLINE PENDING PHP FIX: MINISTRY
-- 10/21 22:35 [financialjuice] KPC CEO: Kuwait is exporting north of 1.1m b/d of crude oil.
-- 10/21 22:38 [DeItaone] U.S. TAPS EMERGENCY DIESEL RESERVE AS PRICES HIT $6.32 The Trump administration will release 315,000 barrels from the Northeast's 1 million-barrel heating oil reserve as diesel prices surge ahead of the midterm elections. Diesel now average…
-- 10/21 22:39 [FirstSquawk] SPACEX SHARES EXTEND GAIN TO 10%, BIGGEST SINCE AUGUST
-- 10/21 22:39 [FirstSquawk] KPC CEO SAYS KUWAIT EXPORTING 'NORTH' OF 1.1M B/D OF CRUDE OIL
-- 10/21 22:45 [DeItaone] CLOUDFLARE CTO: PHP CHANGES ARE LIVE
-- 10/21 22:50 [FirstSquawk] PHILIP MORRIS CFO: FY ADJ EPS SEEN IN THE MIDDLE OR LOWER HALF OF CO. FORECAST RANGE
-- 10/21 22:50 [DeItaone] CRITICAL BUG IN PHP AFFECTS AS MANY AS 70% OF THE WORLD'S WEBSITES, COMPANY SAYS PHP IS USED BY WORDPRESS AND MANY GOVERNMENT AND E-COMMERCE WEBSITES BUG WAS FOUND USING AI, SECURITY RESEARCHERS SAY PATCH WAS PUSHED A DAY EARLY AFTER DETAIL…
-- 10/21 22:53 [financialjuice] Qatar, Pakistan, Indonesia, and Turkey sign a defence MOU.
-- 10/21 22:55 [DeItaone] $AAPL - APPLE SAYS IT WILL HAVE 'LIMITED' IPHONE DUO UNITS AVAILABLE FOR WALK-IN CUSTOMERS ON OCTOBER 23 LAUNCH DATE - STATEMENT
-- 10/21 22:56 [financialjuice] Apple: Will have 'limited' iPhone Duo units available for walk-in customers on October 23 launch date - Statement. $AAPL
-- 10/21 22:59 [FirstSquawk] ARAMCO YANBU, SHAYBAH FACILITIES UNDAMAGED AFTER HOUTHI ATTACK CLAIMS - ARGUS
-- 10/21 23:05 [FirstSquawk] SAUDI ARABIA HAS BEEN SEEKING INTERNATIONAL AND REGIONAL MILITARY SUPPORT AGAINST HOUTHI ATTACKS. THE UK SAID THIS WEEK IT WOULD FLY MILITARY MISSIONS TO HELP PROTECT SAUDI INFRASTRUCTURE. FRENCH PRESIDENT EMMANUEL MACRON SAID IN SEPTEMBER …
-- 10/21 23:05 [FirstSquawk] SAUDI ARABIA'S CONFLICT WITH THE HOUTHIS IS ESCALATING, WITH THE MILITANT GROUP HAVING WIDENED THE SCOPE OF ITS TARGETING FROM MILITARY AND ENERGY FACILITIES TO AIRPORTS AND ARAMCO'S HEADQUARTERS IN DHAHRAN. OPERATIONS AT KING KHALID INTERN…
-- 10/21 23:05 [FirstSquawk] YANBU IS HOME TO ARAMCO'S 400,000 B/D SAMREF REFINERY JOINT VENTURE WITH EXXONMOBIL, ITS 400,000 B/D YASREF REFINERY, ITS 243,000 B/D YANBU REFINERY, AND AN EXPORT TERMINAL THAT BECAME SAUDI ARABIA'S MAIN CRUDE OUTLET AFTER THE EFFECTIVE CL…
-- 10/21 23:05 [FirstSquawk] STATE-CONTROLLED SAUDI ARAMCO FACILITIES AT YANBU, ON THE RED SEA COAST, AND AT THE 1MN B/D SHAYBAH OIL FIELD IN THE SOUTHEAST ARE UNDAMAGED, A SOURCE SAID, AFTER THE YEMEN-BASED HOUTHI MILITANT GROUP SAID THEY WERE HIT BY MISSILE AND DRONE…
-- 10/21 23:05 [FirstSquawk] THE HOUTHIS SAID ON MONDAY ITS ATTACKS ON YANBU AND SHAYBAH CAUSED FIRES AT BOTH SITES, A CLAIM THAT MOVED THE PRICE OF FRONT-MONTH ICE BRENT CRUDE FUTURES ABOVE $110/BL FOR THE FIRST TIME SINCE MID-MAY. THE SOURCE SAID THE CLAIM WAS UNTRUE…
-- 10/21 23:17 [financialjuice] Fear and Greed Index: 29/100 = Fear
-- 10/21 23:18 [financialjuice] Crypto Fear and Greed Index: 63/100 = Greed
-- 10/21 23:20 [FirstSquawk] GOOGLE: RESPONDING TO CORE PHP VULNERABILITIES CVE-2026-109618 AND CVE-2026-109619; WHILE GOOGLE CLOUD ITSELF IS NOT VULNERABLE, USERS OF PHP RUNNING ON GOOGLE CLOUD MAY BE VULNERABLE
-- 10/21 23:20 [FirstSquawk] GOOGLE: GEMINI 4 ARGON MADE CONTRIBUTION TO FINDING VULNERABILITY, EXPLOIT DEVELOPMENT, ATTACK DETECTION, AND VALIDATION OF PATCH; GOOGLE CLOUD ROLLING OUT UPDATED SERVERLESS BASE IMAGES FOR ALL SUPPORTED PHP VERSIONS
-- 10/21 23:20 [FirstSquawk] GOOGLE CLOUD - URGES CUSTOMERS TO IMMEDIATELY UPDATE TO PHP 8.2 OR NEWER AND REDEPLOY SERVICES USING A PATCHED VERSION
-- 10/21 23:22 [financialjuice] Saudi Crown Prince meets with France’s President Macron in Riyadh - SPA.
-- 10/21 23:23 [DeItaone] KREMLIN SAYS NEW ROUND OF TRILATERAL TALKS BETWEEN RUSSIA, UNITED STATES, AND UKRAINE MAY TAKE PLACE IN ABU DHABI - VESTI
-- 10/21 23:24 [financialjuice] ❗ Kremlin: A new round of trilateral talks between Russia, the United States, and Ukraine may take place in Abu Dhabi - Vesti.
-- 10/21 23:25 [FirstSquawk] KREMLIN: NEW ROUND OF RUSSIA, US, UKRAINE TRILATERAL TALKS MAY TAKE PLACE IN ABU DHABI - VESTI
-- 10/21 23:29 [financialjuice] Kremlin Aide Ushakov: The Ukrainian conflict is nearing an end - IFX.
-- 10/21 23:29 [DeItaone] *PUTIN'S AIDE SAYS WAR IN UKRAINE MOVING TOWARD AN END: VESTI
-- 10/21 23:30 [FirstSquawk] US CRUDE OIL INVENTORIES ACTUAL: -3060K VS -8557K PREVIOUS; EST -324.20K
-- 10/21 23:30 [FirstSquawk] US CUSHING CRUDE OIL INVENTORIES ACTUAL: 987K VS 1862K PREVIOUS
-- 10/21 23:30 [financialjuice] EIA DISTILLATE INVENTORIES ACTUAL 1.675M (FORECAST -1.24M, PREVIOUS -2.527M) $MACRO
-- 10/21 23:30 [financialjuice] EIA GASOLINE INVENTORIES ACTUAL -2.952M (FORECAST -0.31M, PREVIOUS 3.518M) $MACRO
-- 10/21 23:30 [financialjuice] EIA CRUDE OIL INVENTORIES ACTUAL -3.06M (FORECAST -0.34M, PREVIOUS -8.557M) $MACRO
-- 10/21 23:30 [financialjuice] EIA CRUDE CUSHING INVENTORIES ACTUAL 0.987M (FORECAST -, PREVIOUS 1.862M) $MACRO
-- 10/21 23:30 [financialjuice] US EIA Weekly Petroleum Status Report
-- 10/21 23:31 [DeItaone] OPENAI: DUE TO SEVERITY OF THESE FLAWS & PHP’S WIDESPREAD USE, WE CONSIDER THIS BUG TO BE ONE OF THE MOST IMPACTFUL VULNERABILITIES IN RECENT MEMORY
-- 10/21 23:33 [DeItaone] U.S. CRUDE INVENTORIES PLUNGE, FAR EXCEEDING EXPECTATIONS U.S. crude oil inventories fell 3.06 million barrels last week, versus expectations for a decline of just 324,000 barrels. 🔸 Crude stocks: 412.5M barrels, 3% below normal 🔸 Gasoline …
-- 10/21 23:34 [financialjuice] Israel's Katz: The Iranian regime is at its weakest point ever.
-- 10/21 23:36 [FirstSquawk] ISRAELI DEFENCE MINISTER KATZ: IRANIAN REGIME IS AT WEAKEST POINT EVER
-- 10/21 23:38 [FirstSquawk] ISRAELI DEFENCE MINISTER KATZ: WE SEE IRANIAN ATTEMPTS, ISRAEL IS PREPARED TO THWART THEM
 - 10/21 23:44 [financialjuice] France’s President Macron: Saudi agrees to extend extra diesel supplies - AFP.
 - 10/21 23:45 [DeItaone] UKRAINE DISCUSSED SITUATION IN RUSSIAN-OCCUPIED OLESHKY WITH US SIDE, KYIV'S NEGOTIATOR QUOTED BY RBC-UKRAINE
 - 10/21 23:47 [FirstSquawk] FRANCE PRESIDENT MACRON: SAUDI ARABIA COMMITS TO SUPPLYING EXTRA DIESEL TO FRANCE - AFP
@@ -676,3 +512,108 @@
 - 10/22 17:51 [FirstSquawk] TURKISH ENERGY MINISTER MET WITH CANADIAN ENERGY MINISTER BEFORE ERDOGAN AND CARNEY DISCUSSIONS.
 - 10/22 17:51 [FirstSquawk] TURKEY AND CANADA ARE TALKING ABOUT LNG TRADE, INVESTMENTS IN RENEWABLE ENERGY, AND MINING, SAYS TURKISH ENERGY MINISTER.
 - 10/22 17:51 [FirstSquawk] TURKISH ENERGY MINISTER SAYS DISCUSSIONS CENTERED ON EVALUATING HOW CANADA'S CANDU NUCLEAR REACTOR TECHNOLOGY CAN BE USED IN TURKEY.
+- 10/22 19:04 [FirstSquawk] Spotify Q3 Earnings: - Revenue: €4.97B (est €4.98B) - EPS: €2.48 (vs €3.28 Y/Y) - Operating Income: €672M (+15% Y/Y) - Gross Margin: 33% (est 32.9%) - Monthly Active Users: 788M (est 788.13M) - Total Premium Subscribers: 306M (est 305.15M) …
+- 10/22 19:04 [FirstSquawk] PG&E Q3 Earnings: - Operating Revenue: $6.19B (est $6.91B) - Adjusted Core EPS: 41c (est 41c)
+- 10/22 19:04 [FirstSquawk] Honeywell Q3 Earnings: - Sales: $4.99B, +1.3% Y/Y - Adjusted EPS: $2.27 - Industrial Automation Revenue: $1.12B - Building Automation Revenue: $2.02B, +7.6% Y/Y - Organic Sales: +7% - Sees FY Organic Sales: +4% To +5% (prev +3% To +4%) - Se…
+- 10/22 19:09 [DeItaone] CHINA'S DEEPSEEK RAISES $15 BILLION IN FINANCING ROUND, SOURCES SAY DEEPSEEK VALUED AT $74 BILLION PRE-MONEY IN LATEST ROUND, SOURCES SAY CATL, TENCENT, MONOLITH, SHIXIANG INVEST IN DEEPSEEK, SOURCES SAY NEW DEEPSEEK BACKERS INCLUDE STONY C…
+- 10/22 19:12 [FirstSquawk] U.S. SIGNS LOCKHEED MARTIN DEAL FOR MINIMUM OF 850 F-35 JETS
+- 10/22 19:13 [DeItaone] FRANCE'S 10-YEAR BOND YIELD NOW AT 5.084%, RISES ABOVE US TREASURY YIELDS FOR THE FIRST TIME SINCE 2013
+- 10/22 19:15 [financialjuice] Kremlin on Trump's invitation to G20: Will review the invitation taking into account all circumstances, no decision yet
+- 10/22 19:21 [FirstSquawk] Lockheed Martin Q3 Earnings: - Net Sales: $20.7B (est $20.47B) - EPS: $7.97 (est $7.51) - Operating Profit: $2.44B (est $2.4B) - Backlog: $291.98B (est $231.53B) - Aeronautics Net Sales: $8.21B (est $8.08B) - F-35 Deliveries: 43 - Sees FY E…
+- 10/22 19:26 [FirstSquawk] META: HEADCOUNT WAS 66,775 AS OF SEPTEMBER 30, 2026, DOWN 15% YEAR-OVER-YEAR
+- 10/22 19:26 [FirstSquawk] META: USD 45.85 BLN & USD 121.41 BLN IN COMMITMENTS DUE IN 2026 & 2027 FOR CLOUD CAPACITY, INFRASTRUCTURE AND REALITY LABS
+- 10/22 19:26 [financialjuice] $LMT Lockheed Martin Q3 2026 Earnings Adj EPS $9.77, Est. $7.25 Rev $20.70B, Est. $20.35B Aeronautics Net Sales $8.21B, Est. $8.08B Oper Profit $2.44B, Est. $2.40B FY EPS Guidance $30.35–$30.75, Est. $30.33 FY Net Sales Guidance $80.00B–$82…
+- 10/22 19:27 [DeItaone] FRANCE'S MACRON: SEDITIOUS ULTRA-LEFT GROUPS WERE BEHIND SATURDAY’S RIOTS AND PLANNED TO “BRING DOWN THE REPUBLIC”
+- 10/22 19:30 [DeItaone] $SPCX : BARCLAYS RAISES TARGET PRICE TO $300 FROM $254
+- 10/22 19:32 [FirstSquawk] DEMOCRAT TALARICO AT 48% IN SENATE RACE IN TEXAS: EMERSON POLL
+- 10/22 19:33 [FirstSquawk] Valero Energy Q3 Earnings: - Revenue: $46.10B (est $47.22B) - Adj EPS $23.90 (est $21.10) - Total Throughput: 2,972 MB/D (est 2.88M)
+- 10/22 19:35 [DeItaone] https://t.co/pqFXfwPtka
+- 10/22 19:38 [DeItaone] 🇫🇷 FRANCE'S 10-YEAR BOND YIELD HITS HIGHEST SINCE 2002 AS DEBT FEARS INTENSIFY French 10-year yields surged to 5.142%, while the spread over German Bunds widened to 173 basis points — the widest since 2011. Budget uncertainty, political ins…
+- 10/22 19:38 [FirstSquawk] NVIDIA CEO HUANG: NEOCLOUD DEMAND IS ‘OFF THE CHARTS’ BUT CAPITAL IS SCARCE - CNBC
+- 10/22 19:43 [FirstSquawk] CEO OF RUSSIA'S NOVATEK MIKHELSON SAYS COMPANY IS IN TALKS ABOUT LNG SUPPLIES TO TURKEY - IFX
+- 10/22 19:44 [FirstSquawk] EUROPEAN PARLIAMENT VOTES TO APPROVE 3-YEAR DELAY TO EU'S METHANE RULES
+- 10/22 20:01 [financialjuice] PG Procter & Gamble Q1 2027 Earnings Core EPS $2.00, Est. $1.89 Net Sales $23.28B, Est. $22.82B Beauty Organic Sales +5.4%, Est. +3.58% Grooming Organic Sales +4.5%, Est. +0.7%
+- 10/22 20:01 [FirstSquawk] Blackstone Q3 Earnings: - Distributable Income/Share: $1.32 (est $1.26) - Fee-Related Earnings: $1.57B (est $1.59B) - Inflows: $63.31B (est $58.83B) - AUM: $1.37T (est $1.38T) - Total Segment Revenue: $3.22B (est $3.2B)
+- 10/22 20:02 [FirstSquawk] PROCTER & GAMBLE Q1 EARNINGS: - NET SALES: $23.28B (EST $22.82B) - CORE EPS: $2.00 (EST $1.89) - GROSS MARGIN: 49.8% (EST 50%) - ORGANIC REVENUE: +4% (EST +1.96%) - FABRIC & HOME CARE ORGANIC SALES: +4.8% (EST +2.35%) - BABY, FEMININE, FAMI…
+- 10/22 20:02 [DeItaone] FRANCE’S 10-YEAR BOND RISK PREMIUM RISES TO 175 BASIS POINTS
+- 10/22 20:03 [FirstSquawk] AMERICAN AIRLINES Q3 EARNINGS: - LOAD FACTOR: 83.4% (EST 84.6%) - AVAILABLE SEAT MILES: 80.68B (EST 80.50B) - PASSENGER REVENUE: $14.90B (EST $14.74B) - SEES Q4 ADJUSTED LOSS/SHARE: 50C TO $1.10 (EST LOSS/SHARE 49C) - SEES FY ADJUSTED LOSS/…
+- 10/22 20:03 [financialjuice] $AAL American Airlines Q3 2026 Earnings Passenger Rev $14.90B, Est. $14.74B Available Seat Miles 80.68B, Est. 80.50B Load Factor 83.4%, Est. 84.6% Q3 Operating Rev Meets Estimates
+- 10/22 20:04 [DeItaone] OIL TOPS $111 AS MIDDLE EAST WAR RISKS SURGE Brent crude jumps over 2%, heading for its highest close since May. Global oil inventories are razor-thin, leaving little room for supply disruptions. The U.S. is deploying more warships, Israel …
+- 10/22 20:05 [FirstSquawk] COMCAST Q3 EARNINGS: - ADJUSTED EPS: $1.07 (EST 98C) - REVENUE: $29.30B (EST $29.14B) - PEACOCK REVENUE: $1.82B (EST $1.88B) - PEACOCK ADJUSTED EBITDA: $261M (EST $183.9M) - DOMESTIC WIRELESS LINES CHANGE: 368,000 (EST 392,375)
+- 10/22 20:15 [DeItaone] GERMANY'S 10-YEAR GOVERNMENT BOND YIELD HITS LOWEST SINCE SEPT 4 AT 3.3486%, LAST DOWN 6.5 BPS
+- 10/22 20:19 [DeItaone] FRANCE'S 10-YEAR GOVERNMENT BOND YIELD SPREAD VERSUS SAFE-HAVEN BUND WIDENS FURTHER, LAST UP 16 BPS AT 176 BPS
+- 10/22 20:22 [FirstSquawk] CHINA NPC STANDING COMMITTEE TO MEET NOV. 2-6 IN BEIJING - CCTV
+- 10/22 20:22 [FirstSquawk] ITALY PASSES EMERGENCY AID FOR TRANSPORT SECTOR TO EASE PROTEST
+- 10/22 20:22 [FirstSquawk] IRAN'S NSC CHIEF: IRAN TALKING TO GULF STATES ON SECURITY ARCHITECTURE TO PREVENT CONFLICT
+- 10/22 20:27 [DeItaone/FirstSquawk] SPOT GOLD FALLS NEARLY 2% TO $4,063.86/OZ
+- 10/22 20:38 [FirstSquawk] SAUDI-LED COALITION: INTERCEPTS 4 DRONES IN RIYADH, MEDINA
+- 10/22 20:57 [FirstSquawk] INDIA TRADE MINISTER IN GERMANY SAYS INDIA-EU TRADE AGREEMENT, TO BE SIGNED BEFORE YEAR-END, COULD BECOME OPERATIONAL IN 4–5 MONTHS
+- 10/22 20:57 [FirstSquawk] UNION PACIFIC Q3 EARNINGS: - INTERMODAL REVENUE: $1.52B (EST $1.54B) - EPS: $3.49 (EST $3.47) - OPERATING RATIO: 59.1% (EST 59%) - OPERATING REVENUE: $7.20B (EST $7.14B) - FREIGHT REVENUE: $6.81B (EST $6.79B) - AFFIRMS 2026 EPS HIGH-SINGLE-…
+- 10/22 21:02 [FirstSquawk] YEMEN'S HOUTHIS SAY THEY ATTACKED KING FAHD AIRPORT IN DAMMAM
+- 10/22 21:04 [FirstSquawk] HOUTHIS CLAIM TARGETING ARAMCO SITE IN YANBU
+- 10/22 21:06 [DeItaone] KALSHI AND BITGO ($BTGO) LAUNCH CRYPTO-BACKED MARGIN LOANS Kalshi Prime and BitGo launched HODL Margining, allowing eligible traders to borrow dollars against Bitcoin, Ethereum and stablecoins without selling their holdings. Loans fund trad…
+- 10/22 21:07 [FirstSquawk] TAIWAN SUSPENDS STOCK TRADING OCT. 23 DUE TO TYPHOON
+- 10/22 21:14 [FirstSquawk] ASTRAZENECA: ZEGFROVY NOW AVAILABLE IN US FOR NSCLC
+- 10/22 21:16 [DeItaone] BOFA RAISES SPACEX ($SPCX) PRICE TARGET TO $275 FROM $235 BofA Securities analyst Ronald Epstein reiterated Buy after SpaceX beat Q3 expectations and strengthened its 2027 outlook. SpaceX completed 35 launches in Q3, including Starship Flig…
+- 10/22 21:28 [FirstSquawk] VISA IN TALKS TO ACQUIRE FIREBLOCKS FOR AROUND $2.5B - AXIOS
+- 10/22 21:30 [DeItaone] US JOBLESS CLAIMS -6K TO 194K IN OCT-17 WK; SURVEY 200K US OCT-10 WEEK CONTINUING CLAIMS +25K TO 1,728,000 US OCT-10 WEEK JOBLESS CLAIMS REVISED TO 200K
+- 10/22 21:31 [FirstSquawk] US INITIAL JOBLESS CLAIMS ACTUAL: 194K VS 199K PREVIOUS; EST 200K
+- 10/22 21:31 [FirstSquawk] US CONTINUING JOBLESS CLAIMS ACTUAL: 1728K VS 1710K PREVIOUS; EST 1710K
+- 10/22 21:39 [FirstSquawk] AMERICAN AIR CEO: 2027 GROWTH RATE TO 'DECELERATE CONSIDERABLY'
+- 10/22 21:42 [FirstSquawk] NETANYAHU SAYS SPOKE WITH INDIA PM MODI
+- 10/22 21:48 [FirstSquawk] AMERICAN AIR FOURTH-QUARTER FUEL TO BE $2.8 BILLION MORE YOY
+- 10/22 21:51 [FirstSquawk] META'S CREDIT RISK MEASURE HITS NEW HIGH DUE TO AI INVESTMENT PLANS.
+- 10/22 21:52 [DeItaone] GOLDMAN SACHS: AI COULD TEMPORARILY DISPLACE 9% OF WORKERS Goldman Sachs estimates that a 15% productivity boost from AI could temporarily displace around 9% of workers during the transition. Historical research shows every 1% productivity …
+- 10/22 21:59 [DeItaone] TESLA ($TSLA ): WALL STREET PRICE TARGET CHANGES, RATING UPGRADE & REITERATIONS RATING UPGRADE 🔸 CLSA — Christopher Richter: Underperform → Hold | PT raised to $400 from $310 PRICE TARGET INCREASES — RATINGS MAINTAINED 🔸 Piper Sandler — Ale…
+- 10/22 22:01 [FirstSquawk/financialjuice] GERMAN TAX 2026 PROJECTED TO REACH €379.1 BILLION: MINISTRY
+- 10/22 22:06 [financialjuice] Germany expects marginally higher tax revenue through 2030
+- 10/22 22:06 [financialjuice] German Fin. Min. Klingbeil: More budget cuts needed to create new fiscal room.
+- 10/22 22:06 [financialjuice] German tax panel projects federal tax revenue next year to be 4.1 billion euros above May's forecast
+- 10/22 22:07 [financialjuice] German tax panel projects municipal tax revenue this year to be €0.8 bln above may forecast.
+- 10/22 22:07 [financialjuice] German finance minister: We will need to continue consolidating the budget to create room for policies in the future
+- 10/22 22:07 [financialjuice] German tax panel projects federal tax revenue this year to be €3.0 bln below may forecast
+- 10/22 22:07 [financialjuice] German tax panel projects state tax revenue this year to be 0.1 bln EUR above May's forecast
+- 10/22 22:07 [financialjuice] German tax panel projects total tax revenue 2026-30 to be €43.4 bln above May forecast.
+- 10/22 22:07 [financialjuice] Commerce Department to award up to $389m in chips R&D funds.
+- 10/22 22:07 [financialjuice] Commonwealth fusion to get up to $85M in chips awards
+- 10/22 22:12 [DeItaone] EBAY SHARES UP 1.6% PREMARKET AFTER CO SAYS WILL REDUCE GLOBAL WORKFORCE BY ABOUT 9%
+- 10/22 22:15 [DeItaone] GOLD FALLS 1.3% AS RISING OIL PRICES COMPLICATE FED RATE OUTLOOK Gold slipped 1.3% to $4,083, pressured by concerns that higher oil prices could fuel inflation and delay Federal Reserve rate cuts. Capital. com's Monte Safieddine warns that …
+- 10/22 22:24 [DeItaone] ‘GRAND THEFT AUTO VI’ FUELS 22% JUMP IN SONY PLAYSTATION 5 SALES
+- 10/22 22:26 [DeItaone] $META - META PLATFORM'S 5-YEAR CREDIT DEFAULT SWAPS HITS ALL-TIME HIGH, LAST AT 114.5 BPS - MARKIT DATA
+- 10/22 22:29 [DeItaone] AI DATA CENTER SHORT SELLERS GAIN $6 BILLION IN OCTOBER Short sellers have made $6B in paper profits betting against AI infrastructure stocks amid concerns over debt-funded expansion, according to ORTEX. Bets against $NBIS generated $2.94B,…
+- 10/22 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: 13.6 MLN NASDAQ 100: -6.2 MLN DOW 30: -19.4 MLN MAG 7: 5.4 MLN $MACRO
+- 10/22 22:31 [DeItaone] U.S. STOCKS EXTEND FALL, NASDAQ DOWN 1.55%
+- 10/22 22:31 [FirstSquawk] DOW JONES DOWN 230.12 POINTS, OR 0.44 PERCENT, AT 52,625.97 AFTER MARKET OPEN NASDAQ DOWN 412.82 POINTS, OR 1.55 PERCENT, AT 26,290.04 AFTER MARKET OPEN S&P 500 DOWN 71.29 POINTS, OR 0.92 PERCENT, AT 7,685.88 AFTER MARKET OPEN -
+- 10/22 22:31 [FirstSquawk] GOOGLE, VOLTUS TO BUILD 1-GIGAWATT VIRTUAL POWER PLANT
+- 10/22 22:31 [DeItaone] TESLA SHARES DOWN 2.9% AFTER QUARTERLY RESULTS; CO CUTS ANNUAL CAPEX FORECAST
+- 10/22 22:32 [FirstSquawk] META SHARES DROP 5.4%, MOST INTRADAY SINCE JULY 30
+- 10/22 22:37 [FirstSquawk] SPACEX SHARES FALL 5.1%, SET TO ERASE $90 BILLION IN VALUE
+- 10/22 22:37 [FirstSquawk] META SLIDES 6% AT THE OPEN TO ERASE $100 BILLION IN VALUE
+- 10/22 22:41 [FirstSquawk] SHELL, EXXON-OWNED INFINEUM EXPLORES SALE AT $8B VALUATION: FT
+- 10/22 22:51 [FirstSquawk] US TREASURY 2- AND 10-YEAR YIELDS FALL 10 BASIS POINTS ON DAY
+- 10/22 22:52 [financialjuice] Nippon Steel to spend $3bn on US steel plant to update 90-year- old hardware - Nikkei
+- 10/22 22:58 [DeItaone] MAJOR U.S. BANKS DETECT UNAUTHORIZED AI AGENTS ACCESSING CUSTOMER ACCOUNTS — AXIOS Major banks, including $JPM, $BAC, $MS and $WFC, are confronting security risks from third-party AI agents accessing customer accounts, according to Axios. S…
+- 10/22 23:00 [financialjuice] EUROZONE CONSUMER CONFIDENCE FLASH ACTUAL -17.9 (FORECAST -17, PREVIOUS -16.5) $MACRO
+- 10/22 23:00 [financialjuice] US LEADING INDEX CHANGE MOM ACTUAL 0% (FORECAST -0.1%, PREVIOUS -0.1%) $MACRO
+- 10/22 23:02 [financialjuice] Eurozone Consumer Confidence October Flash Report 2026
+- 10/22 23:02 [FirstSquawk] MAJOR US BANKS DETECT UNAUTHORIZED THIRD-PARTY AI AGENTS IN ACCOUNTS - AXIOS
+- 10/22 23:03 [financialjuice] US Leading Index September Report 2026
+- 10/22 23:05 [DeItaone] BESSENT: U.S. ECONOMIC PRESSURE IS CUTTING OFF IRAN'S OIL LIFELINE U.S. Treasury Secretary Scott Bessent says Iran's main oil-loading terminal on Kharg Island has gone from being filled with tankers to having “no crude tankers in sight.” Be…
+- 10/22 23:07 [financialjuice] US Steel: Investment to increase annual production capacity to about 3.5 million tons from about 2.2 million
+- 10/22 23:09 [FirstSquawk] EUROZONE CONSUMER CONFIDENCE OCT P: -17.9 (EST 17.0; PREV -16.5)
+- 10/22 23:09 [FirstSquawk] US LEADING INDEX (M/M) SEP: 0.0% (EST -0.1%; PREV -0.1%)
+- 10/22 23:14 [FirstSquawk] IRAN’S OIL PRODUCTION AND REVENUE SQUEEZE IS INTENSIFYING: IRAN HAS LOADED NO CRUDE OR CONDENSATE CARGO SINCE AUGUST 25, AND TANKERS LOADED SINCE MID-JULY HAVE BEEN UNABLE TO CROSS THE BLOCKADE LINE. NIOC HAS CONSEQUENTLY CUT PRODUCTION TO …
+- 10/22 23:15 [financialjuice] China seeks more cooperation between Airbus and Chinese SOEs
+- 10/22 23:16 [financialjuice] China seeks R&D and supply chain cooperation with Airbus
+- 10/22 23:18 [financialjuice] Valero Energy to run refineries between 80% and 83% of capacity in Q4 and expects sales volumes of 325 million gallons in the renewable diesel segment in 04 - Conference Call
+- 10/22 23:19 [financialjuice] Valero seeing sustained higher flows through Strait of Hormuz
+- 10/22 23:20 [financialjuice] Fear & Greed Index: 26/100 - Fear
+- 10/22 23:21 [financialjuice] Crypto Fear & Greed Index: 68/100 - Greed
+- 10/22 23:22 [FirstSquawk] CHINA SEEKS MORE COOPERATION BETWEEN AIRBUS, CHINESE SOES
+- 10/22 23:23 [FirstSquawk] CHINA SEEKS R&D, SUPPLY CHAIN COOPERATION WITH AIRBUS
+- 10/22 23:27 [financialjuice] Ankara-Canada PM Carney: Launching Canada-Turkey strategic partnership backed by a three-year action plan, the partnership rests on four pillars: trade and investment, defense and security, energy, ties between people - prepared remarks
+- 10/22 23:27 [FirstSquawk] NASDAQ 100 EXTENDS LOSSES TO 2%; S&P 500 DOWN 1.1%
+- 10/22 23:30 [FirstSquawk] CANADA GOVT: ON WEDNESDAY, BECAME AWARE OF TWO CRITICAL VULNERABILITIES AFFECTING A SOFTWARE USED TO RUN WEBSITES AND ONLINE SERVICES AND OTHER PRODUCTS
+- 10/22 23:30 [financialjuice] EIA NATURAL GAS CHANGE BCF ACTUAL 77B (FORECAST 78B, PREVIOUS 67B) $MACRO
+- 10/22 23:32 [FirstSquawk] US NATURAL GAS STORAGE ACTUAL: 77 VS 67 PREVIOUS; EST 79
+- 10/22 23:36 [financialjuice] Turkey and Canada target boosting trade volume to $10b from $3b
