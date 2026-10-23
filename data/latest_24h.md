@@ -7,114 +7,25 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-24 00:07 JST／対象: 10/23 00:07 〜 10/24 00:07 JST（時刻はすべて日本時間）
+生成: 2026-10-24 04:10 JST／対象: 10/23 04:10 〜 10/24 04:10 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 48 | 10/23 00:12 | 10/24 00:01 | ⚠ 880分（05:39→20:19） |
-| FirstSquawk | 247 | 10/23 00:10 | 10/23 23:59 | ⚠ 55分（01:58→02:53） |
-| financialjuice | 245 | 10/23 00:14 | 10/24 00:06 | ⚠ 84分（19:30→20:55） |
+| DeItaone | 39 | 10/23 05:30 | 10/24 03:11 | ⚠ 880分（05:39→20:19） |
+| FirstSquawk | 231 | 10/23 04:13 | 10/24 04:03 | 36分（18:54→19:30） |
+| financialjuice | 226 | 10/23 04:23 | 10/24 03:02 | ⚠ 84分（19:30→20:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 521 行（統合前 543 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 483 行（統合前 496 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/23 00:10 [FirstSquawk] BANK OF ITALY'S PANETTA: NO EVIDENCE LARGER BANKS LEAD TO TIGHTER CREDIT SUPPLY
-- 10/23 00:12 [DeItaone/FirstSquawk] SPOT SILVER EXTENDS LOSSES, DOWN NEARLY 5% AT $55.17/OZ
-- 10/23 00:14 [financialjuice] Trump ordered to sit for deposition in BBC defamation suit - AP
-- 10/23 00:15 [financialjuice] HSBC cuts target price for Netflix to $69 from $76 $NFLX
-- 10/23 00:16 [financialjuice] Fed bids for 4-week bills total $7.9 bln.
-- 10/23 00:17 [financialjuice] US Treasury: 2-year auction on Oct 26 could lead to unscheduled reopening of 5-year notes if high yield at auction is between 4.875%-4.999%
-- 10/23 00:25 [financialjuice] DeepSeek, Minimax get license for overseas use - Chinese media
-- 10/23 00:26 [FirstSquawk] DEEPSEEK、MINIMAX GET LICENSE FOR OVERSEAS USE: CHINA MEDIA
-- 10/23 00:32 [financialjuice] US 4-WEEK BILL BID-TO-COVER ACTUAL 2.82 (FORECAST -, PREVIOUS 2.560) $MACRO
-- 10/23 00:32 [financialjuice] US 4-WEEK BILL HIGH YIELD ACTUAL 3.945% (FORECAST -, PREVIOUS 4.000%) $MACRO
-- 10/23 00:33 [financialjuice] US 4-Week Bill Auction High Yield 3.945% Bid-to-cover 2.82 Sells $110 bln Awards 32.92% of bids at high
-- 10/23 00:36 [FirstSquawk] RUSSIA CLAIMS ATTACKS ON 2 CARGO SHIPS IN THE BLACK SEA - IFX
-- 10/23 00:36 [DeItaone] US HYPERSCALERS FALL TRACKING BROADER DECLINES IN AI STOCKS 🔸 ORACLE DOWN 2.4% 🔸 ALPHABET FALLS 2.3% 🔸 MICROSOFT SLIPS 1.5% 🔸 AMAZON OFF 4%
-- 10/23 00:39 [FirstSquawk] PG&E CEO: STRATEGIC REVIEW COULD INCLUDE SALES AND SEPARATIONS; OUTCOME EXPECTED NO LATER THAN THIS SUMMER
-- 10/23 00:40 [DeItaone] U.S. EMBASSY STAFF DEPARTURE IN SAUDI ARABIA LINKED TO HOUTHI THREAT, NOT IRAN ESCALATION — REPORT Al-Monitor's Laura Rozen reports that the ordered departure of nonessential U.S. embassy personnel from Riyadh is entirely related to the Hou…
-- 10/23 00:41 [DeItaone] TRUMP ON IRAN: MAKING UP FAKE HITS, MINES, AND EVERYTHING ELSE TO DRIVE UP PRICE OF OIL
-- 10/23 00:41 [FirstSquawk] KERING 3Q GUCCI COMP REV. -6%, EST. -3.29% KERING 3Q REV. EU3.35B, EST. EU3.35B || 3Q FASHION & LEATHER GOODS COMP REV -3%, EST. -2.82%
-- 10/23 00:42 [DeItaone] - YIELD ON 10-YEAR TREASURY NOTE FALLS BELOW 5% FOR FIRST TIME SINCE SEPTEMBER 23, LAST DOWN 14.97 BASIS POINTS AT 4.996%
-- 10/23 00:42 [FirstSquawk] Trump on truth social Iran is doing everything they can to drive up the price of Oil prior to the U.S. Midterm Election. They are even making up fake hits, mines, and everything else, because more Oil is coming through the Hormuz Strait now…
-- 10/23 00:42 [financialjuice] Trump on Iran: Making up fake hits, mines, and everything else to drive up the price of oil - Truth Social
-- 10/23 00:43 [DeItaone] TRUMP ACCUSES IRAN OF DRIVING UP OIL PRICES AHEAD OF U.S. MIDTERM ELECTIONS President Trump claims Iran is deliberately pushing oil prices higher by creating threats to shipping through the Strait of Hormuz. In a Truth Social post, Trump ac…
-- 10/23 00:47 [financialjuice] Saudi Arabia issues warning for potential danger in Najran
-- 10/23 00:49 [financialjuice] Saudi Arabia: Danger has passed in Najran
-- 10/23 00:54 [FirstSquawk] Kering Q3 2026 Earnings: - Revenue: EUR3.35B (est EUR3.35B) - Comparable Revenue: -1% (est +0.6%) - Fashion & Leather Goods Comparable Revenue: -3% (est -2.82%) - Gucci Revenue: EUR1.29B (est EUR1.3B) - Gucci Comparable Revenue: -6% (est -3…
-- 10/23 00:54 [financialjuice] Qatar PM and US Secretary of State Rubio discuss diplomatic efforts to reduce tensions
-- 10/23 01:00 [DeItaone] U.S. 30-YR FIXED RATE MORTGAGE AVERAGES 7.32 PCT IN OCT 22 WEEK VS 7.40 PCT PRIOR WEEK-FREDDIE MAC
-- 10/23 01:01 [financialjuice] US 30-year fixed mortgage rate falls to 7.32% in Oct 22 week vs 7.40% prior week - Freddie Mac
-- 10/23 01:02 [FirstSquawk] MULTIPLE EXPLOSIONS REPORTED IN NAJRAN, SAUDI ARABIA - FARS
-- 10/23 01:02 [financialjuice] French 10-year bonds yield 50bps over Italian peers for the first time
-- 10/23 01:05 [DeItaone] $SKYD - *ELON MUSK INVESTS $1B IN ELLISON’S SKYDANCE: SEMAFOR
-- 10/23 01:06 [DeItaone] $SKYD - ELON MUSK INVESTS ROUGHLY $1 BILLION IN SKYDANCE Elon Musk has reportedly invested approximately $1B in David Ellison's Skydance, providing fresh capital as the company seeks to cut costs and support its stock price. The investment …
-- 10/23 01:06 [financialjuice] Musk invested $1b in Ellison’s Skydance - SEMAFOR
-- 10/23 01:07 [FirstSquawk] ELON MUSK INVESTS $1B IN ELLISON’S SKYDANCE: SEMAFOR
-- 10/23 01:08 [financialjuice] OpenAI: Uber brings ChatGPT work to all employees with OpenAI $UBER
-- 10/23 01:09 [financialjuice] OpenAI: Uber rolls out ChatGPT work to 30,000+ employees $UBER
-- 10/23 01:10 [financialjuice] Qatar said it is looking for more LNG deals outside the Middle East
-- 10/23 01:13 [financialjuice] Russia's Government: Gasoline and Diesel output increased, fuel reserves being built up - IFX
-- 10/23 01:14 [financialjuice] State of Rhode Island sues META over alleged tolerance for scam advertising $META
-- 10/23 01:16 [financialjuice] US and Denmark sign an MOU on maritime cooperation
-- 10/23 01:18 [FirstSquawk] US, DENMARK SIGN MOU ON MARITIME COOPERATION – US STATE DEPT
-- 10/23 01:20 [financialjuice] ECB’s Pereira: Europe must deepen single market
-- 10/23 01:24 [FirstSquawk] QATAR SAID TO BE LOOKING FOR MORE LNG DEALS OUTSIDE MIDEAST
-- 10/23 01:24 [DeItaone] TRUMP: WHILE LISTENING TO OUR NATIONAL ANTHEM, LEBRON JAMES DISRESPECTS OUR COUNTRY; LEBRON JAMES SHOULD APOLOGIZE
-- 10/23 01:38 [FirstSquawk] EU TRADE CHIEF HINTS AT FUTURE RESPONSE TO TRUMP’S DRUG PRICING POLICY - POLITICO
-- 10/23 01:44 [FirstSquawk] US TREASURY 5-YEAR YIELD FALLS 15 BASIS POINTS ON DAY TO 4.80%
-- 10/23 01:46 [FirstSquawk] SENIOR IRANIAN SECURITY OFFICIAL SAYS TEHRAN WILL NOT DISTINGUISH BETWEEN NETANYAHU AND TRUMP IN ANY MILITARY ESCALATION
-- 10/23 01:50 [FirstSquawk] MODERNA CONTINUES TO FALL, DOWN 20%
-- 10/23 01:51 [FirstSquawk] NASDAQ 100 FALLS TO SESSION-LOW 2.9%
-- 10/23 01:58 [FirstSquawk] ISRAELI SENIOR OFFICERS: NO REASON TO STRIKE IRAN BEFORE US ELECTIONS - YNET
-- 10/23 02:00 [financialjuice] WI 5y TIPS yield about 2.36% before $26 billion auction
-- 10/23 02:03 [financialjuice] ❗ Traders no longer fully price in a Fed hike before year-end
-- 10/23 02:03 [DeItaone] ISRAELI MILITARY OFFICIALS: NO REASON TO STRIKE IRAN BEFORE U.S. ELECTIONS Senior Israeli military officials say there is no reason to attack Iran before the U.S. midterms unless they detect preparations for an Iranian missile launch. Accor…
-- 10/23 02:03 [DeItaone] TRADERS NO LONGER FULLY PRICE IN FED RATE HIKE BEFORE END-2026
-- 10/23 02:04 [financialjuice] US 5-Year TIPS Auction High Yield 2.367% [Tail 0.7 bps] Bid-to-cover 2.41 Sells $26 bln Awards 68.33% of bids at high Primary Dealers take 5.5% Direct 32.4% Indirect 62.0%
-- 10/23 02:18 [financialjuice] US State Department: Rubio reaffirmed the United States' commitment to Qatar's security and freedom of navigation through the Strait of Hormuz.
-- 10/23 02:31 [financialjuice] Ukraine’s President Zelenskiy: Ukraine is ready for peace talks at G20, so far, no such invitation
-- 10/23 02:31 [financialjuice/FirstSquawk] Finland's PM: There could be no gas deals with Russia as long as the war continues
-- 10/23 02:32 [financialjuice] Ukraine’s President Zelenskiy: Starlink speed for Ukraine has not been restored: "We are tackling the issue".
-- 10/23 02:47 [financialjuice/FirstSquawk] Federal Communications Commission blocks two devices from the US market that contain Chinese-made surveillance chips produced by a subsidiary of Huawei - Agency
-- 10/23 02:49 [DeItaone] OIL FUTURES EXTEND GAINS, BRENT CRUDE PRICES UP BY $4 A BARREL TO FIVE-MONTH HIGH AS HOUTHI ATTACKS STOKE MIDDLE EAST SUPPLY FEARS
-- 10/23 02:58 [FirstSquawk] UKRAINE’S PRESIDENT ZELENSKIY SAYS STARLINK SPEED FOR UKRAINE HAS NOT BEEN RESTORED AND THAT “WE ARE TACKLING THE ISSUE,” ADDING THAT UKRAINE IS READY FOR PEACE TALKS AT THE G20 BUT HAS SO FAR RECEIVED NO SUCH INVITATION
-- 10/23 02:59 [DeItaone/financialjuice/FirstSquawk] TRUMP CALLED MUSK AND ASKED HIM TO LIFT UKRAINE STARLINK RESTRICTIONS -- WSJ
-- 10/23 03:00 [FirstSquawk] U.S. CENTRAL COMMAND SAYS TODAY MARKS 100 DAYS SINCE CENTCOM FORCES RESUMED AMERICA’S STEEL WALL NAVAL BLOCKADE AGAINST IRAN, ADDING THAT THE EFFORT HAS HELPED PREVENT IRAN FROM EXPORTING AT LEAST $25 BLN WORTH OF CRUDE OIL AND CONSTRAINED …
-- 10/23 03:04 [FirstSquawk] STARLINK SYSTEM WAS WORKING MORE NORMALLY THURSDAY, SHORTLY AFTER THE TRUMP-MUSK CONVERSATION, U.S. AND UKRAINIAN OFFICIALS SAID - WSJ
-- 10/23 03:09 [DeItaone] TRUMP ASKS MUSK TO RESTORE UKRAINE'S STARLINK CAPABILITIES Trump reportedly called Elon Musk and urged him to lift restrictions on Ukraine's military-grade Starlink service, according to the Wall Street Journal. The speed cap had limited Uk…
-- 10/23 03:16 [financialjuice/FirstSquawk] Canada's US trade negotiator Charette: Don't expect to go back to tariff-free trade with the US
-- 10/23 03:20 [FirstSquawk] MODERNA'S STOCK TUMBLES 14.3% IN HOURS AS $12 BILLION WIPED OUT AMID INSTITUTIONAL SELLING
-- 10/23 03:23 [FirstSquawk] ANTHROPIC SAYS IT HAS DONATED THE AGENT SKILLS OPEN STANDARD TO THE AGENTIC AI FOUNDATION, ALONG WITH THE AGENT SKILLS NAME, LOGO, GITHUB ORGANIZATION AND DOMAIN, AND HAS PROPOSED A ROADMAP FOR AGENT SKILLS INCLUDING VERSIONED RELEASES AND …
-- 10/23 03:24 [FirstSquawk] ECB LIKELY TO HOLD RATES STEADY IN OCTOBER, WITH FINAL HIKE EXPECTED IN DECEMBER
-- 10/23 03:25 [FirstSquawk] MERCK SAYS INTISMERAN PLUS KEYTRUDA SIGNIFICANTLY REDUCED THE RISK OF RECURRENCE OR DEATH BY 42% COMPARED TO KEYTRUDA ALONE, WITH A 58% REDUCTION IN ANOTHER MEASURE, AND THAT THE SAFETY PROFILE WAS GENERALLY CONSISTENT WITH PREVIOUSLY REPOR…
-- 10/23 03:25 [FirstSquawk] MERCK SAYS THAT IN THE PHASE 3 INTERPATH-001 TRIAL NO NEW SAFETY SIGNALS WERE OBSERVED
-- 10/23 03:29 [FirstSquawk/DeItaone] PUTIN ON EASTERN UKRAINE: “THAT’S HISTORICALLY RUSSIAN LAND”
-- 10/23 03:29 [DeItaone] Pretty useful I have to admit. I actually learned something
-- 10/23 03:31 [financialjuice] NYMEX WTI crude Dec. futures settle at $99.47 a barrel, up $2.32, 2.39%
-- 10/23 03:31 [financialjuice] NYMEX diesel Nov. futures settle at $4.9321 a gallon
-- 10/23 03:31 [FirstSquawk] PUTIN SAYS RUSSIA HAS NO PLANS TO GO TO WAR WITH EUROPE
-- 10/23 03:32 [financialjuice] NYMEX gasoline Nov. futures settle at $3.1765 a gallon
-- 10/23 03:32 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 2.39% HIGHER AT $99.47/BBL, UP $2.32
-- 10/23 03:32 [FirstSquawk] GOLD PRICES DECLINE AMID SURGE IN ETF AND CENTRAL BANK PURCHASES
-- 10/23 03:33 [financialjuice] Saudi-led Coalition: Destroyed Houthi missile toward Najran
-- 10/23 03:34 [FirstSquawk] SAUDI-LED COALITION: INTERCEPTED, DESTROYED BALLISTIC MISSILE LAUNCHED BY HOUTHIS TOWARD NAJRAN
-- 10/23 03:36 [FirstSquawk] STARLINK CONNECTIVITY RESTRICTIONS PROMPTING U.S. LAWMAKERS TO DEMAND INQUIRY INTO SPACEX'S ROLE IN UKRAINE DEFENSE
-- 10/23 03:36 [financialjuice] Putin: Trilateral talks will be about ensuring the security of Russia and Ukraine; European security should also be discussed
-- 10/23 03:38 [FirstSquawk] JD VANCE SHIFTS BLAME TO EUROPE OVER UKRAINE'S STARLINK ISSUES, DEFENDS ELON MUSK
-- 10/23 03:43 [financialjuice] Brent crude futures settle at $113.17/bbl, up $4.35, 4%
-- 10/23 03:45 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 4.00% HIGHER AT $113.17/BBL, UP $4.35
-- 10/23 03:47 [FirstSquawk] US OFFICIAL: FLORIDA LEBANON-ISRAEL TALKS END WITHOUT BREAKTHROUGH — AL ARABIYA
-- 10/23 03:48 [financialjuice] US source to Al Arabiya: The Florida meetings between Lebanon and Israel ended without a breakthrough
-- 10/23 04:01 [financialjuice/FirstSquawk] UK's Chancellor Healey to scale back business asset disposal relief - Telegraph
-- 10/23 04:07 [financialjuice] US Treasury Investor Flows Foreign investors in latest biweekly reporting period buy $5.488B 30-year bond due 08/15/2056 vs $9.307B prior month Investment funds in latest biweekly reporting period buy $14.572B 30-year bond due 08/15/2056 vs…
 - 10/23 04:13 [FirstSquawk] US SOURCE TO AL ARABIYA: FLORIDA MEETINGS BETWEEN LEBANON & ISRAEL END WITHOUT BREAKTHROUGH
+- 10/23 04:14 [FirstSquawk] UK'S CHANCELLOR HEALEY TO SCALE BACK BUSINESS ASSET DISPOSAL RELIEF - TELEGRAPH
 - 10/23 04:19 [FirstSquawk] OIL FUTURES POST SHARPEST WEEKLY DROP SINCE APRIL AMID UNCERTAINTY OVER U.S.-IRAN CEASEFIRE
 - 10/23 04:23 [financialjuice] Friday FX Option Expiries
 - 10/23 04:27 [financialjuice] White House: Trump signed an executive order addressing housing costs
@@ -544,4 +455,55 @@
 - 10/24 00:01 [DeItaone] TRUMP: CANADA IS WORKING HARD TO MAKE DEAL WITH US
 - 10/24 00:01 [financialjuice] Trump: Canada is working hard to make a deal with us
 - 10/24 00:05 [financialjuice] UKMTO gets a time-late report of incident 7nm from Limah, Oman
-- 10/24 00:06 [financialjuice] UKMTO: Tanker hit by unknown projectile in Hormuz near Oman
+- 10/24 00:06 [financialjuice/FirstSquawk] UKMTO: Tanker hit by unknown projectile in Hormuz near Oman
+- 10/24 00:08 [DeItaone] OIL NEARS IRAN WAR PEAK AS U.S. FUEL COSTS SURGE Brent crude hit $116/barrel, approaching its Iran war peak amid fears of renewed fighting after the midterms. 🔸 U.S. gasoline: $4.29/gallon, up 40% year-over-year 🔸 Additional fuel spending: …
+- 10/24 00:09 [DeItaone] KREMLIN SAYS RUSSIAN AND UKRAINIAN MILITARIES ARE WORKING OUT CEASEFIRE DATES KREMLIN SAYS CIVILIANS WHO WANT TO LEAVE OLESHKY WILL BE ABLE TO DO SO KREMLIN SAYS MELANIA TRUMP COORDINATED THE AGREEMENT, SOMETHING DISCUSSED BY PUTIN AND TRUM…
+- 10/24 00:10 [financialjuice] Kremlin hails Melania Trump's input on Oleshky humanitarian agreement; says she coordinated the deal, discussed by Putin and Trump in a recent phone call
+- 10/24 00:11 [financialjuice] Kremlin: Russian and Ukrainian militaries are working out ceasefire dates
+- 10/24 00:11 [financialjuice] Kremlin: Operation to evacuate Oleshky will take a few days at least
+- 10/24 00:12 [DeItaone] TRUMP ON ACCESS TO STARLINK IN UKRAINE: MUSK WON'T DO ANYTHING WRONG
+- 10/24 00:12 [financialjuice] Trump: Need to protect geniuses like Musk
+- 10/24 00:13 [FirstSquawk] SOURCE FAMILIAR WITH TAMPA TALKS: LEBANON-ISRAEL ROUND HELD IN POSITIVE ATMOSPHERE
+- 10/24 00:13 [financialjuice] Trump ends remarks to reporters
+- 10/24 00:18 [DeItaone] CROWDSTRIKE CEO GEORGE KURTZ: WILL SEE A LOT OF BREACHES IN COMING MONTHS FROM PHP VULNERABILITY - CNBC INTERVIEW
+- 10/24 00:24 [FirstSquawk] TRUMP SAYS US WON'T ATTACK IRAN BEFORE MIDTERMS, SAYS TALKS UNDERWAY
+- 10/24 00:31 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 0.51%; GERMANY'S DAX DOWN 0.86%
+- 10/24 00:31 [FirstSquawk] FRANCE'S CAC 40 DOWN 0.48%; SPAIN'S IBEX UP 0.2%
+- 10/24 00:35 [DeItaone] PREDICTION MARKETS ARE DISRUPTING THE SPORTS BETTING INDUSTRY Wall Street initially underestimated prediction markets, according to Bank of America's Shaun Kelley. Platforms like Kalshi have challenged traditional sportsbooks, including Dra…
+- 10/24 00:38 [financialjuice/FirstSquawk] Japan weighs rebranding energy, AI as defense spending under Trump pressure - Nikkei
+- 10/24 00:47 [FirstSquawk] TIKTOK U.S. IS LOOKING FOR FOUR GIGAWATTS OF COMPUTE POWER BY THE EARLY 2030S - CNBC
+- 10/24 00:51 [FirstSquawk] NOVARTIS: REMIBRUTINIB MEETS PRIMARY ENDPOINTS IN PHASE 3 TRIALS IN RMS
+- 10/24 01:01 [DeItaone] RUSSIAN DEFMIN SAYS CEASEFIRE IN RUSSIAN-CONTROLLED OLESHKY TO BEGIN ON OCT. 27 - IFX RUSSIAN DEFMIN SAYS CEASEFIRE TO BEGIN FROM 0400 AM LOCAL TIME - IFX
+- 10/24 01:02 [financialjuice] Russian Defense Minister: ceasefire to begin from 0400 local time - IFX.
+- 10/24 01:06 [financialjuice] Poll: The Bank of Canada to raise overnight rate to 2.50% on October 28th, said 19 of 34 economists.
+- 10/24 01:06 [financialjuice] Poll: Bank of Canada to hike overnight rate twice by end-March, said 16 of 29 economists (vs 17 of 34 forecasting hold until mid-2027 in August poll).
+- 10/24 01:11 [FirstSquawk] US TO PUSH FOR NEW LABELS ON SEAFOOD AT GROCERY STORES: CBS
+- 10/24 01:22 [financialjuice] Germany's Oil Stockpiling Agency EBV issued a tender to sell diesel, heating oil, and crude oil from reserves on Friday - Document.
+- 10/24 01:34 [FirstSquawk] TOYOTA: ABOUT 68,000 VEHICLES INVOLVED IN RECALL IN US
+- 10/24 01:46 [FirstSquawk] BP, STATE OF LOUISIANA AGREE TO RESOLVE LONG-STANDING MATTERS
+- 10/24 01:53 [financialjuice] Iran has detailed plans to hit Gulf undersea cables if war resumes - Officials.
+- 10/24 01:55 [financialjuice] According to two senior Iranian security officials, Tehran has prepared detailed plans to target undersea communications cables in the Gulf if the US and Israel attack Iran again. Their remarks came after Iranian officials warned that if di…
+- 10/24 02:01 [FirstSquawk] US OIL RIG COUNT UP 1 TO 460 , BAKER HUGHES SAYS
+- 10/24 02:01 [financialjuice] US BAKER HUGHES OIL RIG COUNT ACTUAL 460 (FORECAST -, PREVIOUS 459) $MACRO
+- 10/24 02:01 [FirstSquawk] US TOTAL RIG COUNT 603 , BAKER HUGHES SAYS
+- 10/24 02:01 [financialjuice] US BAKER HUGHES TOTAL RIG COUNT ACTUAL 603 (FORECAST -, PREVIOUS 603) $MACRO
+- 10/24 02:12 [financialjuice] Meta Chief AI Officer Wang: Meta's Muse AI to counter China models with subscribers. Not ads - Nikkei $META
+- 10/24 02:13 [financialjuice] Meta's Chief AI Officer Wang: No ads inside Muse, don't have any plans to do so; Meta plans to offer paid enterprise services, will take commissions from sellers on purchases made using agents - Nikkei $META
+- 10/24 02:17 [financialjuice] Moonshot AI announces Kimi K3.1 Pro and K3.1 Pro Highspeed
+- 10/24 02:28 [FirstSquawk] QATAR DEAL TO BUY US NATURAL GAS SHOWS HOW IRAN WAR HAS REDRAWN GLOBAL ENERGY MARKETS – CNBC
+- 10/24 02:28 [FirstSquawk] TRUMP DIRECTED CENTCOM TO DRAFT IRAN STRIKE PLAN WITHOUT DEADLINE - KAN
+- 10/24 02:49 [financialjuice] ❗ Trump is expected to remove some tariffs on Canada - WSJ.
+- 10/24 02:49 [FirstSquawk] TRUMP EXPECTED TO REMOVE SOME TARIFFS ON CANADA: WSJ
+- 10/24 02:50 [financialjuice] Trump Expected to Remove Some Tariffs on Canada in Bid to Help Susan Collins - WSJ
+- 10/24 02:53 [financialjuice] The US could balance Canada's tariff reductions by raising other levies - WSJ.
+- 10/24 02:58 [financialjuice] GOP House Rep. introduces a bill to block Russia oil imports.
+- 10/24 03:02 [financialjuice] The Iranian and Russian presidents are going to hold talks in Moscow next week - ISNA.
+- 10/24 03:09 [DeItaone] IRAN'S FOREIGN MINISTER SAYS IRANIAN PRESIDENT WILL TRAVEL TO RUSSIA NEXT WEEK TO MEET WITH PUTIN
+- 10/24 03:10 [FirstSquawk] US SEN. COLLINS: 9 PRODUCT TYPES TO GET EXEMPTION FROM CANADA TARIFFS
+- 10/24 03:11 [DeItaone] TRUMP REPORTEDLY PLANS TO EASE 50% TARIFFS ON CANADA The Trump administration is reportedly preparing to remove 50% tariffs on certain Canadian agricultural and forestry products, potentially as early as Friday. The move is intended to prov…
+- 10/24 03:31 [FirstSquawk] US CRUDE OIL FUTURES SETTLE AT $103.27/BBL, UP $3.80, 3.82%
+- 10/24 03:46 [FirstSquawk] UK PM BURNHAM UNDERLINED IMPORTANCE FOR UKRAINE TO HAVE FULL ACCESS TO STARLINK TO US PRESIDENT TRUMP - DOWNING STREET
+- 10/24 03:47 [FirstSquawk] BRENT CRUDE FUTURES SETTLE AT $116.72/BBL, UP $3.55, 3.14%
+- 10/24 03:57 [FirstSquawk] EGYPT, SAUDI ARABIA, TURKEY, PAKISTAN FOREIGN MINISTERS: 'ISRAELI OCCUPATION IS MAIN SOURCE OF INSTABILITY IN REGION AND BEYOND' - STATEMENT
+- 10/24 04:03 [FirstSquawk] IRAN SAYS SOUTHERN PORTS BLOCKADE CUT IMPORTS 25%: ISNA
+- 10/24 04:03 [FirstSquawk] IRAQ PM: AIMS TO GRADUALLY RAISE OIL PRODUCTION TO 10M BPD BY 2032

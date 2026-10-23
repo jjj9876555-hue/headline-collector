@@ -7,71 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-24 00:07 JST／対象: 10/23 18:07 〜 10/24 00:07 JST（時刻はすべて日本時間）
+生成: 2026-10-24 04:10 JST／対象: 10/23 22:10 〜 10/24 04:10 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 29 | 10/23 20:19 | 10/24 00:01 | ⚠ 67分（21:32→22:40） |
-| FirstSquawk | 51 | 10/23 18:22 | 10/23 23:59 | 36分（18:54→19:30） |
-| financialjuice | 53 | 10/23 18:08 | 10/24 00:06 | ⚠ 84分（19:30→20:55） |
+| DeItaone | 31 | 10/23 22:40 | 10/24 03:11 | ⚠ 128分（01:01→03:09） |
+| FirstSquawk | 46 | 10/23 22:27 | 10/24 04:03 | 27分（02:01→02:28） |
+| financialjuice | 59 | 10/23 22:18 | 10/24 03:02 | 31分（02:17→02:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 125 行（統合前 133 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 128 行（統合前 136 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/23 18:08 [financialjuice] China to reduce AI's negative impact on employment - Xinhua
-- 10/23 18:22 [FirstSquawk] TRUMP ADMINISTRATION HALTS PROGRAM THAT REWARDS ALLIES FOR ALIGNING WITH EXPORT CONTROLS.
-- 10/23 18:23 [FirstSquawk] GERMAN CHANCELLOR MERZ TO VISIT JAPAN OCT 28-29
-- 10/23 18:23 [financialjuice] German Chancellor Merz to visit Japan October 28-29th
-- 10/23 18:36 [financialjuice] Kremlin: Ukraine talks in Abu Dhabi set for early November. Ukraine talks will be in a three-party format - IFX
-- 10/23 18:37 [FirstSquawk] GERMAN GOVERNMENT SPOKESPERSON SAYS CHANCELLOR MERZ WILL BE TRAVELLING TO JAPAN, SOUTH KOREA AND SINGAPORE FROM MONDAY
-- 10/23 18:51 [FirstSquawk] GERMAN GOVERNMENT SPOKESPERSON SAYS ELECTRICITY TAX CUT IS CLEARLY ON THE AGENDA BUT WILL BE CONTINGENT ON SUFFICIENT BUDGET FINANCING
-- 10/23 18:54 [FirstSquawk] GERMAN MINISTRY SPOKESPERSON SAYS ELECTRICITY TAX CUT WOULD MEAN REDUCTION OF ABOUT €5 BILLION IN ANNUAL TAX REVENUES
-- 10/23 19:27 [financialjuice] Global crude steel output falls 0.2% to 142.4 mln t in Sept 2026 vs Sept 2025 - Worldsteel
-- 10/23 19:27 [financialjuice] China crude steel output rises 0.1% to 73.6 mln t in Sept 2026 vs Sept 2025 - Worldsteel
-- 10/23 19:30 [financialjuice] RUSSIAN INTEREST RATE DECISION ACTUAL 14% (FORECAST 14%, PREVIOUS 14.00%) $MACRO
-- 10/23 19:30 [FirstSquawk] RUSSIAN CENTRAL BANK LEAVES KEY RATE AT 14.00%; EST 14.00%
-- 10/23 19:31 [FirstSquawk] CHINA'S FOREIGN MINISTER SAYS THE MULTILATERAL TRADING SYSTEM MUST BE SAFEGUARDED, MORE OPEN TRADING ORDER MUST BE FOSTERED
-- 10/23 19:40 [FirstSquawk] CHINA'S FOREIGN MINISTER SAYS RISE OF GLOBAL SOUTH IS MOST MOMENTOUS SHIFT WORLD HAS SEEN SINCE WW2; GLOBAL SOUTH MUST BE BETTER REPRESENTED IN INTERNATIONAL AFFAIRS
-- 10/23 19:42 [FirstSquawk] CHINA'S FOREIGN MINISTER SAYS AI MUST BE KEPT UNDER HUMAN CONTROL, BENEFIT HUMANITY
-- 10/23 20:04 [FirstSquawk] American Express Q3 2026 Earnings - Rev: USD 20.06B (est USD 20.12B) - Booked USD 982M Pre-Tax Gain On GBTG Sale - Adj EPS: USD 4.68 - Billed Business: USD 454B (est USD 456.93B) - Provision For Credit Losses: USD 1B - Total Expenses: USD 1…
-- 10/23 20:19 [DeItaone] UBS SEES $4,000 AS KEY SUPPORT FOR GOLD UBS expects gold could retest $4,000/oz, but sees strong dip-buying demand establishing a floor. Despite rising U.S. real yields and a stronger dollar, central bank buying, Chinese demand and debt con…
-- 10/23 20:21 [FirstSquawk] UK GILT DEALERS SEE MEDIAN £3.4 BLN RISE IN 2026/27 GILT ISSUANCE TO £249.6 BLN AFTER BUDGET-POLL; UK GILT DEALERS SEE MEDIAN £5 BLN RISE IN 2026/27 NET T-BILL ISSUANCE TO £10 BLN AFTER BUDGET - POLL
-- 10/23 20:23 [FirstSquawk] UK GILT DEALERS SEE MEDIAN £26.7 BLN RISE IN 2027/28 GROSS FINANCING REQUIREMENT TO £334.3 BLN - POLL; UK GILT DEALERS SEE UK GOVERNMENT HEADROOM VS 2029/30 BUDGET RULE FALLING TO £15.1 BLN FROM £23.6 BLN -POLL
-- 10/23 20:24 [FirstSquawk] CHINA CABINET MEETING: SHOULD STRIVE TO STABILISE NUMBER OF NEW BIRTHS; SHOULD EXPAND SERVICES SECTOR INVESTMENT - STATE MEDIA
-- 10/23 20:28 [FirstSquawk] CHINA: ISSUES POSITION PAPER ON ENHANCING OUTER SPACE GOVERNANCE
-- 10/23 20:37 [FirstSquawk] BRISTOL -MYERS SQUIBB COMPANY SAYS MEDIAN PFS 8.2 MONTHS FOR IZA-BREN VS 4.0 MONTHS FOR CHEMOTHERAPY IN PHASE 3 STUDY; IZA-BREN DEMONSTRATES CLINICAL BENEFIT IN FIVE DISTINCT TUMOR TYPES
-- 10/23 20:38 [FirstSquawk] BRISTOL-MYERS SQUIBB COMPANY SAYS CORR 40.5% FOR IZA-BREN VS 20.2% FOR CHEMOTHERAPY; MDOR 6.9 VS 4.2 MONTHS; IZA-BREN REDUCES RISK OF PROGRESSION OR DEATH BY 59% IN PHASE 3 BREAST CANCER STUDY
-- 10/23 20:55 [financialjuice] Tech Rout Eases & Oil Strength Caps Relief - Europe Market Wrap
-- 10/23 20:57 [FirstSquawk] ZELENSKIY SAYS UKRAINE BRINGS BACK 270 PEOPLE IN PRISONER SWAP WITH RUSSIA,
-- 10/23 21:01 [FirstSquawk] SAUDI-LED COALITION SAYS INTERCEPTS MISSILE FIRED AT KHAMIS MUSHAIT
-- 10/23 21:03 [DeItaone] https://t.co/UIqlqMug7h
-- 10/23 21:04 [financialjuice] Secured Overnight Financing rate 3.90% October 22nd vs 3.88% October 21st.
-- 10/23 21:05 [financialjuice] Morning Juice – US Session Prep (23rd October)
-- 10/23 21:14 [DeItaone] OIL FUTURES EXTEND GAINS, US WTI RISES OVER $2/BBL TO $101.62 ON CONCERNS OVER ESCALATING MIDDLE EAST TENSIONS
-- 10/23 21:17 [DeItaone] CHINA SAYS OUTER SPACE ARMS RACE RISK, BATTLEFIELD TREND ARE BIGGEST THREAT TO SPACE SECURITY - XINHUA
-- 10/23 21:18 [FirstSquawk] CHINA: OUTER SPACE ARMS RACE RISK, BATTLEFIELD TREND ARE BIGGEST THREAT TO SPACE SECURITY - XINHUA
-- 10/23 21:19 [DeItaone] CHINA SAYS IT OPPOSES WEAPONISATION AND BATTLEFIELDISATION OF OUTER SPACE - XINHUA CHINA SAYS IT OPPOSES OFFENSIVE MILITARY POLICIES IN OUTER SPACE, CALLS FOR PREVENTING ARMS RACE IN OUTER SPACE - XINHUA
-- 10/23 21:21 [FirstSquawk] CHINA: IT OPPOSES WEAPONISATION AND BATTLEFIELDISATION OF OUTER SPACE; IT OPPOSES OFFENSIVE MILITARY POLICIES IN OUTER SPACE, CALLS FOR PREVENTING ARMS RACE IN OUTER SPACE - XINHUA
-- 10/23 21:25 [FirstSquawk] ENI EXEC SAYS VENEZUELA JUNIN 5 OIL FIELD WILL LIKELY REACH 200,000 BARRELS OF PRODUCTION IN 18-24 MONTHS
-- 10/23 21:25 [FirstSquawk] CHINA OPPOSES USING OUTER SPACE FOR ACTIVITIES HARMING OTHER COUNTRIES' SOVEREIGNTY, SECURITY, DEVELOPMENT INTERESTS; CHINA OPPOSES COUNTRIES ABUSING DOMESTIC LAW TO OBSTRUCT OR UNILATERALLY SANCTION OTHERS' SPACE ACTIVITIES - XINHUA
-- 10/23 21:27 [FirstSquawk] ENI EXEC SAYS 60% OF SHIPPING WE DO IS UNDER LONG-TERM AGREEMENT, MITIGATING IMPACT OF RAISING SHIPPING COSTS
-- 10/23 21:29 [financialjuice/FirstSquawk] Passengers are being evacuated from Sheremetyevo Airport near Moscow - RIA
-- 10/23 21:30 [financialjuice] ❗ CANADIAN RETAIL SALES MOM ACTUAL 1.2% (FORECAST 1.3%, PREVIOUS -0.7%) $MACRO
-- 10/23 21:30 [financialjuice] CANADIAN CORE RETAIL SALES MOM ACTUAL 1.2% (FORECAST 1.1%, PREVIOUS -0.7%) $MACRO
-- 10/23 21:31 [financialjuice] Canadian Retail Sales August Report
-- 10/23 21:32 [DeItaone] 🇨🇦 CANADIAN RETAIL SALES SURGE, SIGNALING STRONGER CONSUMER DEMAND Canada's retail sales posted solid gains in August, with preliminary data pointing to continued growth in September. 🔸 August retail sales: +1.2% M/M, +5.4% Y/Y 🔸 Ex-autos: …
-- 10/23 21:36 [FirstSquawk] AMERICAN EXPRESS TO CUT 5 PCT OF JOBS, ABOUT 3,500 EMPLOYEES
-- 10/23 21:37 [financialjuice] American Express to cut 5% of jobs, about 3,500 employees $AXP
-- 10/23 21:51 [FirstSquawk] ENI EXEC SAYS GROUP HAS SUBMITTED DEVELOPMENT PLAN FOR VENEZUELA GAS FIELD PERLA; FINAL INVESTMENT DECISION ON VENEZUELA'S PERLA FIELD WILL COME ONCE GOVERNMENT HAS APPROVED DEVELOPMENT PLAN
-- 10/23 21:58 [financialjuice/FirstSquawk] US proposes further suspension of section 301 investigation into China's targeting of maritime, logistics, and shipbuilding sectors for dominance through January 9th, 2027 - Office of USTR
-- 10/23 22:00 [financialjuice] Effective fed funds rate 3.88% October 22nd vs 3.88% October 21st
-- 10/23 22:00 [FirstSquawk] U.S. EFFECTIVE FEDERAL FUNDS RATE AT 3.88 PCT ON 22 OCTOBER ON $119 BLN IN TRADES VS 3.88 PCT ON $110 BLN ON 21 OCTOBER SAYS FED DATA
 - 10/23 22:18 [financialjuice] Melania Trump secures Russia-Ukraine ceasefire localized to Oleshky
 - 10/23 22:19 [financialjuice] White House on the localised ceasefire between Ukraine and Russia: Ceasefire will begin on October 29th
 - 10/23 22:24 [financialjuice] Anthropic: Newer models are less likely to begin an attack
@@ -148,4 +100,55 @@
 - 10/24 00:01 [DeItaone] TRUMP: CANADA IS WORKING HARD TO MAKE DEAL WITH US
 - 10/24 00:01 [financialjuice] Trump: Canada is working hard to make a deal with us
 - 10/24 00:05 [financialjuice] UKMTO gets a time-late report of incident 7nm from Limah, Oman
-- 10/24 00:06 [financialjuice] UKMTO: Tanker hit by unknown projectile in Hormuz near Oman
+- 10/24 00:06 [financialjuice/FirstSquawk] UKMTO: Tanker hit by unknown projectile in Hormuz near Oman
+- 10/24 00:08 [DeItaone] OIL NEARS IRAN WAR PEAK AS U.S. FUEL COSTS SURGE Brent crude hit $116/barrel, approaching its Iran war peak amid fears of renewed fighting after the midterms. 🔸 U.S. gasoline: $4.29/gallon, up 40% year-over-year 🔸 Additional fuel spending: …
+- 10/24 00:09 [DeItaone] KREMLIN SAYS RUSSIAN AND UKRAINIAN MILITARIES ARE WORKING OUT CEASEFIRE DATES KREMLIN SAYS CIVILIANS WHO WANT TO LEAVE OLESHKY WILL BE ABLE TO DO SO KREMLIN SAYS MELANIA TRUMP COORDINATED THE AGREEMENT, SOMETHING DISCUSSED BY PUTIN AND TRUM…
+- 10/24 00:10 [financialjuice] Kremlin hails Melania Trump's input on Oleshky humanitarian agreement; says she coordinated the deal, discussed by Putin and Trump in a recent phone call
+- 10/24 00:11 [financialjuice] Kremlin: Russian and Ukrainian militaries are working out ceasefire dates
+- 10/24 00:11 [financialjuice] Kremlin: Operation to evacuate Oleshky will take a few days at least
+- 10/24 00:12 [DeItaone] TRUMP ON ACCESS TO STARLINK IN UKRAINE: MUSK WON'T DO ANYTHING WRONG
+- 10/24 00:12 [financialjuice] Trump: Need to protect geniuses like Musk
+- 10/24 00:13 [FirstSquawk] SOURCE FAMILIAR WITH TAMPA TALKS: LEBANON-ISRAEL ROUND HELD IN POSITIVE ATMOSPHERE
+- 10/24 00:13 [financialjuice] Trump ends remarks to reporters
+- 10/24 00:18 [DeItaone] CROWDSTRIKE CEO GEORGE KURTZ: WILL SEE A LOT OF BREACHES IN COMING MONTHS FROM PHP VULNERABILITY - CNBC INTERVIEW
+- 10/24 00:24 [FirstSquawk] TRUMP SAYS US WON'T ATTACK IRAN BEFORE MIDTERMS, SAYS TALKS UNDERWAY
+- 10/24 00:31 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 0.51%; GERMANY'S DAX DOWN 0.86%
+- 10/24 00:31 [FirstSquawk] FRANCE'S CAC 40 DOWN 0.48%; SPAIN'S IBEX UP 0.2%
+- 10/24 00:35 [DeItaone] PREDICTION MARKETS ARE DISRUPTING THE SPORTS BETTING INDUSTRY Wall Street initially underestimated prediction markets, according to Bank of America's Shaun Kelley. Platforms like Kalshi have challenged traditional sportsbooks, including Dra…
+- 10/24 00:38 [financialjuice/FirstSquawk] Japan weighs rebranding energy, AI as defense spending under Trump pressure - Nikkei
+- 10/24 00:47 [FirstSquawk] TIKTOK U.S. IS LOOKING FOR FOUR GIGAWATTS OF COMPUTE POWER BY THE EARLY 2030S - CNBC
+- 10/24 00:51 [FirstSquawk] NOVARTIS: REMIBRUTINIB MEETS PRIMARY ENDPOINTS IN PHASE 3 TRIALS IN RMS
+- 10/24 01:01 [DeItaone] RUSSIAN DEFMIN SAYS CEASEFIRE IN RUSSIAN-CONTROLLED OLESHKY TO BEGIN ON OCT. 27 - IFX RUSSIAN DEFMIN SAYS CEASEFIRE TO BEGIN FROM 0400 AM LOCAL TIME - IFX
+- 10/24 01:02 [financialjuice] Russian Defense Minister: ceasefire to begin from 0400 local time - IFX.
+- 10/24 01:06 [financialjuice] Poll: The Bank of Canada to raise overnight rate to 2.50% on October 28th, said 19 of 34 economists.
+- 10/24 01:06 [financialjuice] Poll: Bank of Canada to hike overnight rate twice by end-March, said 16 of 29 economists (vs 17 of 34 forecasting hold until mid-2027 in August poll).
+- 10/24 01:11 [FirstSquawk] US TO PUSH FOR NEW LABELS ON SEAFOOD AT GROCERY STORES: CBS
+- 10/24 01:22 [financialjuice] Germany's Oil Stockpiling Agency EBV issued a tender to sell diesel, heating oil, and crude oil from reserves on Friday - Document.
+- 10/24 01:34 [FirstSquawk] TOYOTA: ABOUT 68,000 VEHICLES INVOLVED IN RECALL IN US
+- 10/24 01:46 [FirstSquawk] BP, STATE OF LOUISIANA AGREE TO RESOLVE LONG-STANDING MATTERS
+- 10/24 01:53 [financialjuice] Iran has detailed plans to hit Gulf undersea cables if war resumes - Officials.
+- 10/24 01:55 [financialjuice] According to two senior Iranian security officials, Tehran has prepared detailed plans to target undersea communications cables in the Gulf if the US and Israel attack Iran again. Their remarks came after Iranian officials warned that if di…
+- 10/24 02:01 [FirstSquawk] US OIL RIG COUNT UP 1 TO 460 , BAKER HUGHES SAYS
+- 10/24 02:01 [financialjuice] US BAKER HUGHES OIL RIG COUNT ACTUAL 460 (FORECAST -, PREVIOUS 459) $MACRO
+- 10/24 02:01 [FirstSquawk] US TOTAL RIG COUNT 603 , BAKER HUGHES SAYS
+- 10/24 02:01 [financialjuice] US BAKER HUGHES TOTAL RIG COUNT ACTUAL 603 (FORECAST -, PREVIOUS 603) $MACRO
+- 10/24 02:12 [financialjuice] Meta Chief AI Officer Wang: Meta's Muse AI to counter China models with subscribers. Not ads - Nikkei $META
+- 10/24 02:13 [financialjuice] Meta's Chief AI Officer Wang: No ads inside Muse, don't have any plans to do so; Meta plans to offer paid enterprise services, will take commissions from sellers on purchases made using agents - Nikkei $META
+- 10/24 02:17 [financialjuice] Moonshot AI announces Kimi K3.1 Pro and K3.1 Pro Highspeed
+- 10/24 02:28 [FirstSquawk] QATAR DEAL TO BUY US NATURAL GAS SHOWS HOW IRAN WAR HAS REDRAWN GLOBAL ENERGY MARKETS – CNBC
+- 10/24 02:28 [FirstSquawk] TRUMP DIRECTED CENTCOM TO DRAFT IRAN STRIKE PLAN WITHOUT DEADLINE - KAN
+- 10/24 02:49 [financialjuice] ❗ Trump is expected to remove some tariffs on Canada - WSJ.
+- 10/24 02:49 [FirstSquawk] TRUMP EXPECTED TO REMOVE SOME TARIFFS ON CANADA: WSJ
+- 10/24 02:50 [financialjuice] Trump Expected to Remove Some Tariffs on Canada in Bid to Help Susan Collins - WSJ
+- 10/24 02:53 [financialjuice] The US could balance Canada's tariff reductions by raising other levies - WSJ.
+- 10/24 02:58 [financialjuice] GOP House Rep. introduces a bill to block Russia oil imports.
+- 10/24 03:02 [financialjuice] The Iranian and Russian presidents are going to hold talks in Moscow next week - ISNA.
+- 10/24 03:09 [DeItaone] IRAN'S FOREIGN MINISTER SAYS IRANIAN PRESIDENT WILL TRAVEL TO RUSSIA NEXT WEEK TO MEET WITH PUTIN
+- 10/24 03:10 [FirstSquawk] US SEN. COLLINS: 9 PRODUCT TYPES TO GET EXEMPTION FROM CANADA TARIFFS
+- 10/24 03:11 [DeItaone] TRUMP REPORTEDLY PLANS TO EASE 50% TARIFFS ON CANADA The Trump administration is reportedly preparing to remove 50% tariffs on certain Canadian agricultural and forestry products, potentially as early as Friday. The move is intended to prov…
+- 10/24 03:31 [FirstSquawk] US CRUDE OIL FUTURES SETTLE AT $103.27/BBL, UP $3.80, 3.82%
+- 10/24 03:46 [FirstSquawk] UK PM BURNHAM UNDERLINED IMPORTANCE FOR UKRAINE TO HAVE FULL ACCESS TO STARLINK TO US PRESIDENT TRUMP - DOWNING STREET
+- 10/24 03:47 [FirstSquawk] BRENT CRUDE FUTURES SETTLE AT $116.72/BBL, UP $3.55, 3.14%
+- 10/24 03:57 [FirstSquawk] EGYPT, SAUDI ARABIA, TURKEY, PAKISTAN FOREIGN MINISTERS: 'ISRAELI OCCUPATION IS MAIN SOURCE OF INSTABILITY IN REGION AND BEYOND' - STATEMENT
+- 10/24 04:03 [FirstSquawk] IRAN SAYS SOUTHERN PORTS BLOCKADE CUT IMPORTS 25%: ISNA
+- 10/24 04:03 [FirstSquawk] IRAQ PM: AIMS TO GRADUALLY RAISE OIL PRODUCTION TO 10M BPD BY 2032

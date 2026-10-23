@@ -7,106 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-24 00:07 JST／対象: 10/23 12:07 〜 10/24 00:07 JST（時刻はすべて日本時間）
+生成: 2026-10-24 04:10 JST／対象: 10/23 16:10 〜 10/24 04:10 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 29 | 10/23 20:19 | 10/24 00:01 | ⚠ 67分（21:32→22:40） |
-| FirstSquawk | 99 | 10/23 12:08 | 10/23 23:59 | 36分（18:54→19:30） |
-| financialjuice | 132 | 10/23 12:10 | 10/24 00:06 | ⚠ 84分（19:30→20:55） |
+| DeItaone | 37 | 10/23 20:19 | 10/24 03:11 | ⚠ 128分（01:01→03:09） |
+| FirstSquawk | 93 | 10/23 16:15 | 10/24 04:03 | 36分（18:54→19:30） |
+| financialjuice | 100 | 10/23 16:15 | 10/24 03:02 | ⚠ 84分（19:30→20:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 251 行（統合前 260 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 219 行（統合前 230 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/23 12:08 [FirstSquawk] Turkey, Pakistan, Indonesia and Qatar Coordinate Efforts Alongside Mecca Alliance - NA
-- 10/23 12:10 [financialjuice] Saudi Arabia delays UN global data forum and second Saudi statistical forum to 2027
-- 10/23 12:12 [FirstSquawk] Saudi Arabia Pushes UN Global Data Forum and Second Saudi Statistical Forum Back to 2027
-- 10/23 12:24 [FirstSquawk] Former Yankees Star Matsui to Be Named Manager of the Giants
-- 10/23 12:32 [FirstSquawk] Petronas, TotalEnergies and Mitsui Partner to Develop Carbon Storage Site in Southern CCS Hub
-- 10/23 12:40 [financialjuice] China finance ministry auctions 30-year bonds at 2.06% yield: traders
-- 10/23 12:48 [FirstSquawk] Israel’s Military Preparing for Renewed Clashes With Hezbollah, Al Arabiya Cites Security Source
-- 10/23 13:00 [financialjuice] China's : companies to assess viability of level-4 ready autonomous cars in Kazakhstan, their initial test market
-- 10/23 13:00 [financialjuice] Varopreem aims to keep sustainable energy EBITDA ratio above 50%
-- 10/23 13:00 [financialjuice] Varopreem plans to double EBITDA from 2025 level of about $1 billion by 2030
-- 10/23 13:00 [financialjuice] Varopreem targets 20% rise in biofuel production capacity by 2030 from 2025 level of 1.3 million metric tons
-- 10/23 13:00 [financialjuice] Varopreem aims to boost market share in aviation, marine and defense segments to over 15% by 2030 from 10% in current markets
-- 10/23 13:02 [FirstSquawk] Jefferies Raises OMV Target Price To EUR70 From EUR68
-- 10/23 13:06 [FirstSquawk] Ukraine Seeks To Move Customs Checks Inside EU To Avoid Russian Drones – FT
-- 10/23 13:09 [FirstSquawk] CALPERS RETREATS FROM BIG TECH AS AI RALLY FALTERS – FT
-- 10/23 13:09 [FirstSquawk] US IS PREPARED FOR LONG STAND-OFF WITH IRAN, SAYS TRUMP ENVOY – FT
-- 10/23 13:22 [FirstSquawk] Haiti Receives El Salvador Special Forces After Soldiers Are Captured by Gangs - SCMP
-- 10/23 13:29 [FirstSquawk] US Consults France, Israel and Lebanon Over Potential Replacement Force for UNIFIL
-- 10/23 13:34 [financialjuice] Ukraine’s energy firm DTEK: Russian strike damages one of its power plants
-- 10/23 13:39 [FirstSquawk] Russian Attack Hits a Power Generation Station in Ukraine
-- 10/23 13:48 [FirstSquawk] SOUTH KOREA’S NETFLIX INDUSTRY NETWORK INCLUDES 80-PLUS PRODUCTION HOUSES AND 95,000 PEOPLE OVER A DECADE
-- 10/23 13:51 [financialjuice] Israel military: two suspected assailants killed after shooting near Judea junction
-- 10/23 13:53 [FirstSquawk] US Dollar Recovery Puts Pressure on Swiss Franc - FX
-- 10/23 14:00 [financialjuice] India HSBC October services flash PMI at 56.2, beats 55.5 forecast
-- 10/23 14:00 [FirstSquawk] INDIA (OCT) HSBC INDIA PMI SERVICES ACTUAL: 56.2 VS 55.2 PREVIOUS
-- 10/23 14:00 [financialjuice] India HSBC October manufacturing flash PMI at 54.9, forecast 55.0
-- 10/23 14:00 [financialjuice] India HSBC October composite flash PMI at 56.7, surpasses 56.1 forecast
-- 10/23 14:00 [FirstSquawk] INDIA (OCT) HSBC INDIA PMI MFG ACTUAL: 54.9 VS 55.1 PREVIOUS
-- 10/23 14:00 [FirstSquawk] INDIA (OCT) HSBC INDIA PMI COMPOSITE ACTUAL: 56.7 VS 55.9 PREVIOUS
-- 10/23 14:01 [financialjuice] Russia strikes railcar depot in Poltava region in Ukraine: ifax quotes Russian defence ministry
-- 10/23 14:01 [financialjuice] Russia strikes cargo ship in Black Sea: Ifax cites defense ministry
-- 10/23 14:02 [financialjuice] Russia strikes port of Vilkovo in Odesa region in Ukraine: Tass quotes Defence Ministry
-- 10/23 14:02 [financialjuice] Russian defence ministry: Russian forces strike cargo ship in Black Sea - RIA
-- 10/23 14:04 [financialjuice] South Korea defence ministry again proposes talks with North Korea on military demarcation line between two Koreas - Yonhap
-- 10/23 14:12 [financialjuice] AMD CEO Lisa Su speaks in Taipei
-- 10/23 14:13 [financialjuice] US six-week bills yield 3.945%
-- 10/23 14:14 [financialjuice] Xchange Tec Inc: investment to supplier
-- 10/23 14:14 [financialjuice] White House AI task force member Michael Kratsios explains
-- 10/23 14:14 [financialjuice] Donald J. Trump: Chuck Gray has been...
-- 10/23 14:14 [financialjuice] Amazon deal displaces television
-- 10/23 14:14 [financialjuice] Google launches Google Cloud mod
-- 10/23 14:14 [financialjuice] US grants 40% of six-week BLS to DI
-- 10/23 14:14 [financialjuice] Constellation agreement to develop about 7,200 jobs
-- 10/23 14:14 [financialjuice] Kodiak Al set to reach year-end target
-- 10/23 14:14 [financialjuice] Xamd CEO: memory supply remains steady
-- 10/23 14:14 [financialjuice] ICE UK nat gas November futures settle at
-- 10/23 14:14 [financialjuice] Amazon: awards to stream live on March 3
-- 10/23 14:14 [financialjuice] Donald J. Trump: I am grateful to my supporters
-- 10/23 14:14 [financialjuice] Acbio and Tychobio team up to transform tr...
-- 10/23 14:14 [financialjuice] Donald J. Trump says it is my great honor
-- 10/23 14:14 [financialjuice] Italy to offer 8 billion euros in 12-month bills
-- 10/23 14:14 [financialjuice] China, EU trade officials hold preparations
-- 10/23 14:14 [financialjuice] US six-week bills bid-to-cover ratio at 2
-- 10/23 14:14 [financialjuice] XAMD CEO: demand exceeds expectations
-- 10/23 14:15 [financialjuice] XAMD CEO forecasts very high demand for...
-- 10/23 14:15 [financialjuice] Fitch assigns rating to tender option bond series
-- 10/23 14:15 [financialjuice] JAPANESE CHAIN STORE SALES YOY ACTUAL 1% (FORECAST -, PREVIOUS 0%) $MACRO
-- 10/23 14:29 [FirstSquawk] Volvo Q3 Adjusted Operating Profit Comes in at SEK 14.69 Billion; Truck Order Intake Beats Forecasts
-- 10/23 14:44 [FirstSquawk] Iran Warns of Expanded Attacks on Economic and Civilian Sites in Response to US Strike, WSJ Says
-- 10/23 14:53 [FirstSquawk] Volvo Cars CEO Leaves Door Open to Additional Measures, Will Evaluate Results in February
-- 10/23 15:00 [financialjuice] ❗ UK RETAIL SALES YOY ACTUAL 0.8% (FORECAST 1%, PREVIOUS 2.4%) $MACRO
-- 10/23 15:00 [financialjuice] UK CORE RETAIL SALES YOY ACTUAL 0.8% (FORECAST 1.4%, PREVIOUS 2.7%) $MACRO
-- 10/23 15:00 [financialjuice] ❗ UK CORE RETAIL SALES MOM ACTUAL -0.7% (FORECAST -0.1%, PREVIOUS 0.6%) $MACRO
-- 10/23 15:00 [financialjuice] ‼ BREAKING: UK RETAIL SALES MOM ACTUAL -0.4% (FORECAST -0.1%, PREVIOUS 0.5%) $MACRO
-- 10/23 15:01 [financialjuice] UK Retail Sales September 2026 Report
-- 10/23 15:02 [FirstSquawk] UK (SEP) RETAIL SALES EX AUTO FUEL YOY ACTUAL: 0.8% VS 2.7% PREVIOUS;EST 1.4%
-- 10/23 15:02 [FirstSquawk] UK (SEP) RETAIL SALES EX AUTO FUEL MOM ACTUAL: -0.7% VS 0.6% PREVIOUS;EST -0.1%
-- 10/23 15:02 [FirstSquawk] UK (SEP) RETAIL SALES INC AUTO FUEL YOY ACTUAL: 0.8% VS 2.4% PREVIOUS;EST 1.0%
-- 10/23 15:02 [FirstSquawk] UK (SEP) RETAIL SALES INC AUTO FUEL MOM ACTUAL: -0.4% VS 0.5% PREVIOUS;EST -0.1%
-- 10/23 15:03 [FirstSquawk] BOJ Financial Stability Report Finds Japan’s Financial System Broadly Stable and Free of Major Imbalances
-- 10/23 15:07 [financialjuice] BoJ: It's Necessary to continue to carefully monitor the impact that factors such as the Middle East situation, AI-related investment, and non-bank sector developments
-- 10/23 15:08 [financialjuice] BoJ: Developments in asset prices, such as real estate prices and stock prices, continue to warrant careful attention
-- 10/23 15:08 [financialjuice] BoJ: Japan banks can withstand stress from oil and AI risks
-- 10/23 15:08 [financialjuice] BoJ: The possibility of growing concentration in private funds' portfolios warrants attention
-- 10/23 15:09 [financialjuice] BoJ: Higher raw material and energy prices appear to be exerting downward pressure on profits, particularly at SMEs
-- 10/23 15:09 [financialjuice] BoJ: Certain firms are relatively susceptible to higher crude oil prices
-- 10/23 15:10 [FirstSquawk] BOJ Flags Profit Pressures From Rising Raw Material and Energy Prices, With Some Firms Vulnerable to Higher Oil Costs
-- 10/23 15:23 [FirstSquawk] Volvo Cars Commercial Chief Says Company Must Be Selective About Where It Competes in the US
-- 10/23 15:39 [FirstSquawk] Volvo Cars CEO Sees Limited Scope for China Improvement Until Six China-Specific Models Arrive
-- 10/23 15:49 [financialjuice] China vows action after US curbs on research ties
-- 10/23 15:50 [financialjuice] China's Commerce Ministry: Urges the US to respect the facts, immediately stop the wrongful practice of discriminatory measures against Chinese research institutions
-- 10/23 15:55 [FirstSquawk] BOJ Policy and Capital Flows Support Japanese Yen Gains Against US Dollar, Commerzbank Says-FX
-- 10/23 16:01 [financialjuice] Currency Strength Chart: Strongest: NZD, AUD, USD, CAD, EUR, GBP, JPY, CHF - Weakest
 - 10/23 16:15 [financialjuice] FRENCH SERVICES PMI FLASH ACTUAL 48.4 (FORECAST 50.7, PREVIOUS 51.2) $MACRO
 - 10/23 16:15 [financialjuice] ‼ BREAKING: FRENCH MANUFACTURING PMI FLASH ACTUAL 49.3 (FORECAST 50.5, PREVIOUS 50.6) $MACRO
 - 10/23 16:15 [financialjuice] FRENCH COMP FLASH PMI ACTUAL 48.4 (FORECAST 50.3, PREVIOUS 51.1) $MACRO
@@ -274,4 +191,55 @@
 - 10/24 00:01 [DeItaone] TRUMP: CANADA IS WORKING HARD TO MAKE DEAL WITH US
 - 10/24 00:01 [financialjuice] Trump: Canada is working hard to make a deal with us
 - 10/24 00:05 [financialjuice] UKMTO gets a time-late report of incident 7nm from Limah, Oman
-- 10/24 00:06 [financialjuice] UKMTO: Tanker hit by unknown projectile in Hormuz near Oman
+- 10/24 00:06 [financialjuice/FirstSquawk] UKMTO: Tanker hit by unknown projectile in Hormuz near Oman
+- 10/24 00:08 [DeItaone] OIL NEARS IRAN WAR PEAK AS U.S. FUEL COSTS SURGE Brent crude hit $116/barrel, approaching its Iran war peak amid fears of renewed fighting after the midterms. 🔸 U.S. gasoline: $4.29/gallon, up 40% year-over-year 🔸 Additional fuel spending: …
+- 10/24 00:09 [DeItaone] KREMLIN SAYS RUSSIAN AND UKRAINIAN MILITARIES ARE WORKING OUT CEASEFIRE DATES KREMLIN SAYS CIVILIANS WHO WANT TO LEAVE OLESHKY WILL BE ABLE TO DO SO KREMLIN SAYS MELANIA TRUMP COORDINATED THE AGREEMENT, SOMETHING DISCUSSED BY PUTIN AND TRUM…
+- 10/24 00:10 [financialjuice] Kremlin hails Melania Trump's input on Oleshky humanitarian agreement; says she coordinated the deal, discussed by Putin and Trump in a recent phone call
+- 10/24 00:11 [financialjuice] Kremlin: Russian and Ukrainian militaries are working out ceasefire dates
+- 10/24 00:11 [financialjuice] Kremlin: Operation to evacuate Oleshky will take a few days at least
+- 10/24 00:12 [DeItaone] TRUMP ON ACCESS TO STARLINK IN UKRAINE: MUSK WON'T DO ANYTHING WRONG
+- 10/24 00:12 [financialjuice] Trump: Need to protect geniuses like Musk
+- 10/24 00:13 [FirstSquawk] SOURCE FAMILIAR WITH TAMPA TALKS: LEBANON-ISRAEL ROUND HELD IN POSITIVE ATMOSPHERE
+- 10/24 00:13 [financialjuice] Trump ends remarks to reporters
+- 10/24 00:18 [DeItaone] CROWDSTRIKE CEO GEORGE KURTZ: WILL SEE A LOT OF BREACHES IN COMING MONTHS FROM PHP VULNERABILITY - CNBC INTERVIEW
+- 10/24 00:24 [FirstSquawk] TRUMP SAYS US WON'T ATTACK IRAN BEFORE MIDTERMS, SAYS TALKS UNDERWAY
+- 10/24 00:31 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 0.51%; GERMANY'S DAX DOWN 0.86%
+- 10/24 00:31 [FirstSquawk] FRANCE'S CAC 40 DOWN 0.48%; SPAIN'S IBEX UP 0.2%
+- 10/24 00:35 [DeItaone] PREDICTION MARKETS ARE DISRUPTING THE SPORTS BETTING INDUSTRY Wall Street initially underestimated prediction markets, according to Bank of America's Shaun Kelley. Platforms like Kalshi have challenged traditional sportsbooks, including Dra…
+- 10/24 00:38 [financialjuice/FirstSquawk] Japan weighs rebranding energy, AI as defense spending under Trump pressure - Nikkei
+- 10/24 00:47 [FirstSquawk] TIKTOK U.S. IS LOOKING FOR FOUR GIGAWATTS OF COMPUTE POWER BY THE EARLY 2030S - CNBC
+- 10/24 00:51 [FirstSquawk] NOVARTIS: REMIBRUTINIB MEETS PRIMARY ENDPOINTS IN PHASE 3 TRIALS IN RMS
+- 10/24 01:01 [DeItaone] RUSSIAN DEFMIN SAYS CEASEFIRE IN RUSSIAN-CONTROLLED OLESHKY TO BEGIN ON OCT. 27 - IFX RUSSIAN DEFMIN SAYS CEASEFIRE TO BEGIN FROM 0400 AM LOCAL TIME - IFX
+- 10/24 01:02 [financialjuice] Russian Defense Minister: ceasefire to begin from 0400 local time - IFX.
+- 10/24 01:06 [financialjuice] Poll: The Bank of Canada to raise overnight rate to 2.50% on October 28th, said 19 of 34 economists.
+- 10/24 01:06 [financialjuice] Poll: Bank of Canada to hike overnight rate twice by end-March, said 16 of 29 economists (vs 17 of 34 forecasting hold until mid-2027 in August poll).
+- 10/24 01:11 [FirstSquawk] US TO PUSH FOR NEW LABELS ON SEAFOOD AT GROCERY STORES: CBS
+- 10/24 01:22 [financialjuice] Germany's Oil Stockpiling Agency EBV issued a tender to sell diesel, heating oil, and crude oil from reserves on Friday - Document.
+- 10/24 01:34 [FirstSquawk] TOYOTA: ABOUT 68,000 VEHICLES INVOLVED IN RECALL IN US
+- 10/24 01:46 [FirstSquawk] BP, STATE OF LOUISIANA AGREE TO RESOLVE LONG-STANDING MATTERS
+- 10/24 01:53 [financialjuice] Iran has detailed plans to hit Gulf undersea cables if war resumes - Officials.
+- 10/24 01:55 [financialjuice] According to two senior Iranian security officials, Tehran has prepared detailed plans to target undersea communications cables in the Gulf if the US and Israel attack Iran again. Their remarks came after Iranian officials warned that if di…
+- 10/24 02:01 [FirstSquawk] US OIL RIG COUNT UP 1 TO 460 , BAKER HUGHES SAYS
+- 10/24 02:01 [financialjuice] US BAKER HUGHES OIL RIG COUNT ACTUAL 460 (FORECAST -, PREVIOUS 459) $MACRO
+- 10/24 02:01 [FirstSquawk] US TOTAL RIG COUNT 603 , BAKER HUGHES SAYS
+- 10/24 02:01 [financialjuice] US BAKER HUGHES TOTAL RIG COUNT ACTUAL 603 (FORECAST -, PREVIOUS 603) $MACRO
+- 10/24 02:12 [financialjuice] Meta Chief AI Officer Wang: Meta's Muse AI to counter China models with subscribers. Not ads - Nikkei $META
+- 10/24 02:13 [financialjuice] Meta's Chief AI Officer Wang: No ads inside Muse, don't have any plans to do so; Meta plans to offer paid enterprise services, will take commissions from sellers on purchases made using agents - Nikkei $META
+- 10/24 02:17 [financialjuice] Moonshot AI announces Kimi K3.1 Pro and K3.1 Pro Highspeed
+- 10/24 02:28 [FirstSquawk] QATAR DEAL TO BUY US NATURAL GAS SHOWS HOW IRAN WAR HAS REDRAWN GLOBAL ENERGY MARKETS – CNBC
+- 10/24 02:28 [FirstSquawk] TRUMP DIRECTED CENTCOM TO DRAFT IRAN STRIKE PLAN WITHOUT DEADLINE - KAN
+- 10/24 02:49 [financialjuice] ❗ Trump is expected to remove some tariffs on Canada - WSJ.
+- 10/24 02:49 [FirstSquawk] TRUMP EXPECTED TO REMOVE SOME TARIFFS ON CANADA: WSJ
+- 10/24 02:50 [financialjuice] Trump Expected to Remove Some Tariffs on Canada in Bid to Help Susan Collins - WSJ
+- 10/24 02:53 [financialjuice] The US could balance Canada's tariff reductions by raising other levies - WSJ.
+- 10/24 02:58 [financialjuice] GOP House Rep. introduces a bill to block Russia oil imports.
+- 10/24 03:02 [financialjuice] The Iranian and Russian presidents are going to hold talks in Moscow next week - ISNA.
+- 10/24 03:09 [DeItaone] IRAN'S FOREIGN MINISTER SAYS IRANIAN PRESIDENT WILL TRAVEL TO RUSSIA NEXT WEEK TO MEET WITH PUTIN
+- 10/24 03:10 [FirstSquawk] US SEN. COLLINS: 9 PRODUCT TYPES TO GET EXEMPTION FROM CANADA TARIFFS
+- 10/24 03:11 [DeItaone] TRUMP REPORTEDLY PLANS TO EASE 50% TARIFFS ON CANADA The Trump administration is reportedly preparing to remove 50% tariffs on certain Canadian agricultural and forestry products, potentially as early as Friday. The move is intended to prov…
+- 10/24 03:31 [FirstSquawk] US CRUDE OIL FUTURES SETTLE AT $103.27/BBL, UP $3.80, 3.82%
+- 10/24 03:46 [FirstSquawk] UK PM BURNHAM UNDERLINED IMPORTANCE FOR UKRAINE TO HAVE FULL ACCESS TO STARLINK TO US PRESIDENT TRUMP - DOWNING STREET
+- 10/24 03:47 [FirstSquawk] BRENT CRUDE FUTURES SETTLE AT $116.72/BBL, UP $3.55, 3.14%
+- 10/24 03:57 [FirstSquawk] EGYPT, SAUDI ARABIA, TURKEY, PAKISTAN FOREIGN MINISTERS: 'ISRAELI OCCUPATION IS MAIN SOURCE OF INSTABILITY IN REGION AND BEYOND' - STATEMENT
+- 10/24 04:03 [FirstSquawk] IRAN SAYS SOUTHERN PORTS BLOCKADE CUT IMPORTS 25%: ISNA
+- 10/24 04:03 [FirstSquawk] IRAQ PM: AIMS TO GRADUALLY RAISE OIL PRODUCTION TO 10M BPD BY 2032
