@@ -7,153 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-23 09:32 JST／対象: 10/22 21:32 〜 10/23 09:32 JST（時刻はすべて日本時間）
+生成: 2026-10-23 14:15 JST／対象: 10/23 02:15 〜 10/23 14:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 36 | 10/22 21:52 | 10/23 05:39 | ⚠ 120分（03:29→05:30） |
-| FirstSquawk | 141 | 10/22 21:39 | 10/23 09:22 | ⚠ 55分（01:58→02:53） |
-| financialjuice | 138 | 10/22 22:06 | 10/23 09:30 | ⚠ 60分（07:00→08:01） |
+| DeItaone | 7 | 10/23 02:49 | 10/23 05:39 | ⚠ 120分（03:29→05:30） |
+| FirstSquawk | 147 | 10/23 02:53 | 10/23 14:00 | 28分（06:39→07:07） |
+| financialjuice | 127 | 10/23 02:18 | 10/23 14:15 | ⚠ 66分（10:41→11:47） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 303 行（統合前 319 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 272 行（統合前 283 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/22 21:39 [FirstSquawk] AMERICAN AIR CEO: 2027 GROWTH RATE TO 'DECELERATE CONSIDERABLY'
-- 10/22 21:42 [FirstSquawk] NETANYAHU SAYS SPOKE WITH INDIA PM MODI
-- 10/22 21:48 [FirstSquawk] AMERICAN AIR FOURTH-QUARTER FUEL TO BE $2.8 BILLION MORE YOY
-- 10/22 21:51 [FirstSquawk] META'S CREDIT RISK MEASURE HITS NEW HIGH DUE TO AI INVESTMENT PLANS.
-- 10/22 21:52 [DeItaone] GOLDMAN SACHS: AI COULD TEMPORARILY DISPLACE 9% OF WORKERS Goldman Sachs estimates that a 15% productivity boost from AI could temporarily displace around 9% of workers during the transition. Historical research shows every 1% productivity …
-- 10/22 21:59 [DeItaone] TESLA ($TSLA ): WALL STREET PRICE TARGET CHANGES, RATING UPGRADE & REITERATIONS RATING UPGRADE 🔸 CLSA — Christopher Richter: Underperform → Hold | PT raised to $400 from $310 PRICE TARGET INCREASES — RATINGS MAINTAINED 🔸 Piper Sandler — Ale…
-- 10/22 22:01 [FirstSquawk/financialjuice] GERMAN TAX 2026 PROJECTED TO REACH €379.1 BILLION: MINISTRY
-- 10/22 22:06 [financialjuice] Germany expects marginally higher tax revenue through 2030
-- 10/22 22:06 [financialjuice] German Fin. Min. Klingbeil: More budget cuts needed to create new fiscal room.
-- 10/22 22:06 [financialjuice] German tax panel projects federal tax revenue next year to be 4.1 billion euros above May's forecast
-- 10/22 22:07 [financialjuice] German tax panel projects municipal tax revenue this year to be €0.8 bln above may forecast.
-- 10/22 22:07 [financialjuice] German finance minister: We will need to continue consolidating the budget to create room for policies in the future
-- 10/22 22:07 [financialjuice] German tax panel projects federal tax revenue this year to be €3.0 bln below may forecast
-- 10/22 22:07 [financialjuice] German tax panel projects state tax revenue this year to be 0.1 bln EUR above May's forecast
-- 10/22 22:07 [financialjuice] German tax panel projects total tax revenue 2026-30 to be €43.4 bln above May forecast.
-- 10/22 22:07 [financialjuice] Commerce Department to award up to $389m in chips R&D funds.
-- 10/22 22:07 [financialjuice] Commonwealth fusion to get up to $85M in chips awards
-- 10/22 22:12 [DeItaone] EBAY SHARES UP 1.6% PREMARKET AFTER CO SAYS WILL REDUCE GLOBAL WORKFORCE BY ABOUT 9%
-- 10/22 22:15 [DeItaone] GOLD FALLS 1.3% AS RISING OIL PRICES COMPLICATE FED RATE OUTLOOK Gold slipped 1.3% to $4,083, pressured by concerns that higher oil prices could fuel inflation and delay Federal Reserve rate cuts. Capital. com's Monte Safieddine warns that …
-- 10/22 22:24 [DeItaone] ‘GRAND THEFT AUTO VI’ FUELS 22% JUMP IN SONY PLAYSTATION 5 SALES
-- 10/22 22:26 [DeItaone] $META - META PLATFORM'S 5-YEAR CREDIT DEFAULT SWAPS HITS ALL-TIME HIGH, LAST AT 114.5 BPS - MARKIT DATA
-- 10/22 22:29 [DeItaone] AI DATA CENTER SHORT SELLERS GAIN $6 BILLION IN OCTOBER Short sellers have made $6B in paper profits betting against AI infrastructure stocks amid concerns over debt-funded expansion, according to ORTEX. Bets against $NBIS generated $2.94B,…
-- 10/22 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: 13.6 MLN NASDAQ 100: -6.2 MLN DOW 30: -19.4 MLN MAG 7: 5.4 MLN $MACRO
-- 10/22 22:31 [DeItaone] U.S. STOCKS EXTEND FALL, NASDAQ DOWN 1.55%
-- 10/22 22:31 [FirstSquawk] DOW JONES DOWN 230.12 POINTS, OR 0.44 PERCENT, AT 52,625.97 AFTER MARKET OPEN NASDAQ DOWN 412.82 POINTS, OR 1.55 PERCENT, AT 26,290.04 AFTER MARKET OPEN S&P 500 DOWN 71.29 POINTS, OR 0.92 PERCENT, AT 7,685.88 AFTER MARKET OPEN -
-- 10/22 22:31 [FirstSquawk] GOOGLE, VOLTUS TO BUILD 1-GIGAWATT VIRTUAL POWER PLANT
-- 10/22 22:31 [DeItaone] TESLA SHARES DOWN 2.9% AFTER QUARTERLY RESULTS; CO CUTS ANNUAL CAPEX FORECAST
-- 10/22 22:32 [FirstSquawk] META SHARES DROP 5.4%, MOST INTRADAY SINCE JULY 30
-- 10/22 22:37 [FirstSquawk] SPACEX SHARES FALL 5.1%, SET TO ERASE $90 BILLION IN VALUE
-- 10/22 22:37 [FirstSquawk] META SLIDES 6% AT THE OPEN TO ERASE $100 BILLION IN VALUE
-- 10/22 22:41 [FirstSquawk] SHELL, EXXON-OWNED INFINEUM EXPLORES SALE AT $8B VALUATION: FT
-- 10/22 22:51 [FirstSquawk] US TREASURY 2- AND 10-YEAR YIELDS FALL 10 BASIS POINTS ON DAY
-- 10/22 22:52 [financialjuice] Nippon Steel to spend $3bn on US steel plant to update 90-year- old hardware - Nikkei
-- 10/22 22:58 [DeItaone] MAJOR U.S. BANKS DETECT UNAUTHORIZED AI AGENTS ACCESSING CUSTOMER ACCOUNTS — AXIOS Major banks, including $JPM, $BAC, $MS and $WFC, are confronting security risks from third-party AI agents accessing customer accounts, according to Axios. S…
-- 10/22 23:00 [financialjuice] EUROZONE CONSUMER CONFIDENCE FLASH ACTUAL -17.9 (FORECAST -17, PREVIOUS -16.5) $MACRO
-- 10/22 23:00 [financialjuice] US LEADING INDEX CHANGE MOM ACTUAL 0% (FORECAST -0.1%, PREVIOUS -0.1%) $MACRO
-- 10/22 23:02 [financialjuice] Eurozone Consumer Confidence October Flash Report 2026
-- 10/22 23:02 [FirstSquawk] MAJOR US BANKS DETECT UNAUTHORIZED THIRD-PARTY AI AGENTS IN ACCOUNTS - AXIOS
-- 10/22 23:03 [financialjuice] US Leading Index September Report 2026
-- 10/22 23:05 [DeItaone] BESSENT: U.S. ECONOMIC PRESSURE IS CUTTING OFF IRAN'S OIL LIFELINE U.S. Treasury Secretary Scott Bessent says Iran's main oil-loading terminal on Kharg Island has gone from being filled with tankers to having “no crude tankers in sight.” Be…
-- 10/22 23:07 [financialjuice] US Steel: Investment to increase annual production capacity to about 3.5 million tons from about 2.2 million
-- 10/22 23:09 [FirstSquawk] EUROZONE CONSUMER CONFIDENCE OCT P: -17.9 (EST 17.0; PREV -16.5)
-- 10/22 23:09 [FirstSquawk] US LEADING INDEX (M/M) SEP: 0.0% (EST -0.1%; PREV -0.1%)
-- 10/22 23:14 [FirstSquawk] IRAN’S OIL PRODUCTION AND REVENUE SQUEEZE IS INTENSIFYING: IRAN HAS LOADED NO CRUDE OR CONDENSATE CARGO SINCE AUGUST 25, AND TANKERS LOADED SINCE MID-JULY HAVE BEEN UNABLE TO CROSS THE BLOCKADE LINE. NIOC HAS CONSEQUENTLY CUT PRODUCTION TO …
-- 10/22 23:15 [financialjuice] China seeks more cooperation between Airbus and Chinese SOEs
-- 10/22 23:16 [financialjuice] China seeks R&D and supply chain cooperation with Airbus
-- 10/22 23:18 [financialjuice] Valero Energy to run refineries between 80% and 83% of capacity in Q4 and expects sales volumes of 325 million gallons in the renewable diesel segment in 04 - Conference Call
-- 10/22 23:19 [financialjuice] Valero seeing sustained higher flows through Strait of Hormuz
-- 10/22 23:20 [financialjuice] Fear & Greed Index: 26/100 - Fear
-- 10/22 23:21 [financialjuice] Crypto Fear & Greed Index: 68/100 - Greed
-- 10/22 23:22 [FirstSquawk] CHINA SEEKS MORE COOPERATION BETWEEN AIRBUS, CHINESE SOES
-- 10/22 23:23 [FirstSquawk] CHINA SEEKS R&D, SUPPLY CHAIN COOPERATION WITH AIRBUS
-- 10/22 23:27 [financialjuice] Ankara-Canada PM Carney: Launching Canada-Turkey strategic partnership backed by a three-year action plan, the partnership rests on four pillars: trade and investment, defense and security, energy, ties between people - prepared remarks
-- 10/22 23:27 [FirstSquawk] NASDAQ 100 EXTENDS LOSSES TO 2%; S&P 500 DOWN 1.1%
-- 10/22 23:30 [FirstSquawk] CANADA GOVT: ON WEDNESDAY, BECAME AWARE OF TWO CRITICAL VULNERABILITIES AFFECTING A SOFTWARE USED TO RUN WEBSITES AND ONLINE SERVICES AND OTHER PRODUCTS
-- 10/22 23:30 [financialjuice] EIA NATURAL GAS CHANGE BCF ACTUAL 77B (FORECAST 78B, PREVIOUS 67B) $MACRO
-- 10/22 23:32 [FirstSquawk] US NATURAL GAS STORAGE ACTUAL: 77 VS 67 PREVIOUS; EST 79
-- 10/22 23:36 [financialjuice] Turkey and Canada target boosting trade volume to $10b from $3b
-- 10/22 23:39 [FirstSquawk] TURKEY PRESIDENT ERDOGAN: AIM TO INCREASE TRADE VOLUME WITH CANADA TO $5 BLN AND THEN $10 BLN
-- 10/22 23:40 [DeItaone] $V - FIREBLOCKS DENIES IN TALKS TO BE ACQUIRED BY VISA - COINDESK
-- 10/22 23:40 [DeItaone] EARTHQUAKE OF MAGNITUDE AROUND 6.7 STRIKES CHINA'S TIBET - XINHUA
-- 10/22 23:40 [DeItaone] FIVE-YEAR U.S. TREASURY YIELD FALLS TO 4.825% LOWEST SINCE SEPT 23, LAST DOWN 14.33 BASIS POINTS AT 4.827%
-- 10/22 23:41 [DeItaone] EARTHQUAKE OF MAGNITUDE 7.05 STRIKES XIZANG - GFZ
-- 10/22 23:42 [DeItaone] THREE-YEAR U.S. TREASURY YIELD FALLS TO 4.768%, LOWEST SINCE SEPTEMBER 18 LAST DOWN 13.93 BASIS POINTS AT 4.771%
-- 10/22 23:43 [FirstSquawk] CRYPTO CUSTODY SPECIALIST FIREBLOCKS DENIES IT'S IN TALKS TO BE ACQUIRED BY VISA - COINDESK
-- 10/22 23:43 [financialjuice] SpaceXSI launches SpaceX Super Intelligence Partner Network for companies building with Grok; over 130 companies join early-access phase $SPCX
-- 10/22 23:44 [financialjuice] SpaceX: SpaceXSI names Bain, NVIDIA, Snowflake launch partners $NVDA
-- 10/22 23:47 [DeItaone] 🇫🇷 FRENCH 5-YEAR CDS RISE ABOVE 100 BPS, FIRST TIME SINCE OCTOBER 2012, LAST AT 97.75 BPS, LSEG DATA SHOWS
-- 10/22 23:48 [FirstSquawk] MAGNITUDE 7.05 EARTHQUAKE STRIKING XIZANG - GFZ
-- 10/22 23:48 [financialjuice] French 5-year CDS rise above 100 bps, first time since October 2012, last at 97.75 bps - Sources
-- 10/22 23:51 [FirstSquawk/financialjuice] CANADA BANS ITS DIPLOMATS FROM BEING SEEN WITH US CANDIDATES
-- 10/22 23:58 [FirstSquawk] SPACEXSI LAUNCHES SPACEX SUPER INTELLIGENCE PARTNER NETWORK FOR COMPANIES BUILDING WITH GROK
-- 10/23 00:01 [financialjuice] KANSAS CITY FED COMPOSITE INDEX ACTUAL 11 (FORECAST 12, PREVIOUS 14) $MACRO
-- 10/23 00:04 [financialjuice] US Treasury Auction Dates US to sell $54B 52-week bills on October 27th, to settle on October 29th US to sell $69B 2-year notes on October 26th, to settle on November 2nd US to sell $70B 5-year notes on October 27th, to settle on November 2…
-- 10/23 00:06 [financialjuice] KANSAS CITY FED MANUFACTURING ACTUAL 16 (FORECAST , PREVIOUS 20) $MACRO
-- 10/23 00:06 [financialjuice] US Treasury Auction Schedule US to sell $54B 52-week bills on October 27th, to settle on October 29th US to sell $69B 2-year notes on October 26th, to settle on November 2nd US to sell $70B 5-year notes on October 27th, to settle on Novembe…
-- 10/23 00:10 [FirstSquawk] BANK OF ITALY'S PANETTA: NO EVIDENCE LARGER BANKS LEAD TO TIGHTER CREDIT SUPPLY
-- 10/23 00:12 [DeItaone/FirstSquawk] SPOT SILVER EXTENDS LOSSES, DOWN NEARLY 5% AT $55.17/OZ
-- 10/23 00:14 [financialjuice] Trump ordered to sit for deposition in BBC defamation suit - AP
-- 10/23 00:15 [financialjuice] HSBC cuts target price for Netflix to $69 from $76 $NFLX
-- 10/23 00:16 [financialjuice] Fed bids for 4-week bills total $7.9 bln.
-- 10/23 00:17 [financialjuice] US Treasury: 2-year auction on Oct 26 could lead to unscheduled reopening of 5-year notes if high yield at auction is between 4.875%-4.999%
-- 10/23 00:25 [financialjuice] DeepSeek, Minimax get license for overseas use - Chinese media
-- 10/23 00:26 [FirstSquawk] DEEPSEEK、MINIMAX GET LICENSE FOR OVERSEAS USE: CHINA MEDIA
-- 10/23 00:32 [financialjuice] US 4-WEEK BILL BID-TO-COVER ACTUAL 2.82 (FORECAST -, PREVIOUS 2.560) $MACRO
-- 10/23 00:32 [financialjuice] US 4-WEEK BILL HIGH YIELD ACTUAL 3.945% (FORECAST -, PREVIOUS 4.000%) $MACRO
-- 10/23 00:33 [financialjuice] US 4-Week Bill Auction High Yield 3.945% Bid-to-cover 2.82 Sells $110 bln Awards 32.92% of bids at high
-- 10/23 00:36 [FirstSquawk] RUSSIA CLAIMS ATTACKS ON 2 CARGO SHIPS IN THE BLACK SEA - IFX
-- 10/23 00:36 [DeItaone] US HYPERSCALERS FALL TRACKING BROADER DECLINES IN AI STOCKS 🔸 ORACLE DOWN 2.4% 🔸 ALPHABET FALLS 2.3% 🔸 MICROSOFT SLIPS 1.5% 🔸 AMAZON OFF 4%
-- 10/23 00:39 [FirstSquawk] PG&E CEO: STRATEGIC REVIEW COULD INCLUDE SALES AND SEPARATIONS; OUTCOME EXPECTED NO LATER THAN THIS SUMMER
-- 10/23 00:40 [DeItaone] U.S. EMBASSY STAFF DEPARTURE IN SAUDI ARABIA LINKED TO HOUTHI THREAT, NOT IRAN ESCALATION — REPORT Al-Monitor's Laura Rozen reports that the ordered departure of nonessential U.S. embassy personnel from Riyadh is entirely related to the Hou…
-- 10/23 00:41 [DeItaone] TRUMP ON IRAN: MAKING UP FAKE HITS, MINES, AND EVERYTHING ELSE TO DRIVE UP PRICE OF OIL
-- 10/23 00:41 [FirstSquawk] KERING 3Q GUCCI COMP REV. -6%, EST. -3.29% KERING 3Q REV. EU3.35B, EST. EU3.35B || 3Q FASHION & LEATHER GOODS COMP REV -3%, EST. -2.82%
-- 10/23 00:42 [DeItaone] - YIELD ON 10-YEAR TREASURY NOTE FALLS BELOW 5% FOR FIRST TIME SINCE SEPTEMBER 23, LAST DOWN 14.97 BASIS POINTS AT 4.996%
-- 10/23 00:42 [FirstSquawk] Trump on truth social Iran is doing everything they can to drive up the price of Oil prior to the U.S. Midterm Election. They are even making up fake hits, mines, and everything else, because more Oil is coming through the Hormuz Strait now…
-- 10/23 00:42 [financialjuice] Trump on Iran: Making up fake hits, mines, and everything else to drive up the price of oil - Truth Social
-- 10/23 00:43 [DeItaone] TRUMP ACCUSES IRAN OF DRIVING UP OIL PRICES AHEAD OF U.S. MIDTERM ELECTIONS President Trump claims Iran is deliberately pushing oil prices higher by creating threats to shipping through the Strait of Hormuz. In a Truth Social post, Trump ac…
-- 10/23 00:47 [financialjuice] Saudi Arabia issues warning for potential danger in Najran
-- 10/23 00:49 [financialjuice] Saudi Arabia: Danger has passed in Najran
-- 10/23 00:54 [FirstSquawk] Kering Q3 2026 Earnings: - Revenue: EUR3.35B (est EUR3.35B) - Comparable Revenue: -1% (est +0.6%) - Fashion & Leather Goods Comparable Revenue: -3% (est -2.82%) - Gucci Revenue: EUR1.29B (est EUR1.3B) - Gucci Comparable Revenue: -6% (est -3…
-- 10/23 00:54 [financialjuice] Qatar PM and US Secretary of State Rubio discuss diplomatic efforts to reduce tensions
-- 10/23 01:00 [DeItaone] U.S. 30-YR FIXED RATE MORTGAGE AVERAGES 7.32 PCT IN OCT 22 WEEK VS 7.40 PCT PRIOR WEEK-FREDDIE MAC
-- 10/23 01:01 [financialjuice] US 30-year fixed mortgage rate falls to 7.32% in Oct 22 week vs 7.40% prior week - Freddie Mac
-- 10/23 01:02 [FirstSquawk] MULTIPLE EXPLOSIONS REPORTED IN NAJRAN, SAUDI ARABIA - FARS
-- 10/23 01:02 [financialjuice] French 10-year bonds yield 50bps over Italian peers for the first time
-- 10/23 01:05 [DeItaone] $SKYD - *ELON MUSK INVESTS $1B IN ELLISON’S SKYDANCE: SEMAFOR
-- 10/23 01:06 [DeItaone] $SKYD - ELON MUSK INVESTS ROUGHLY $1 BILLION IN SKYDANCE Elon Musk has reportedly invested approximately $1B in David Ellison's Skydance, providing fresh capital as the company seeks to cut costs and support its stock price. The investment …
-- 10/23 01:06 [financialjuice] Musk invested $1b in Ellison’s Skydance - SEMAFOR
-- 10/23 01:07 [FirstSquawk] ELON MUSK INVESTS $1B IN ELLISON’S SKYDANCE: SEMAFOR
-- 10/23 01:08 [financialjuice] OpenAI: Uber brings ChatGPT work to all employees with OpenAI $UBER
-- 10/23 01:09 [financialjuice] OpenAI: Uber rolls out ChatGPT work to 30,000+ employees $UBER
-- 10/23 01:10 [financialjuice] Qatar said it is looking for more LNG deals outside the Middle East
-- 10/23 01:13 [financialjuice] Russia's Government: Gasoline and Diesel output increased, fuel reserves being built up - IFX
-- 10/23 01:14 [financialjuice] State of Rhode Island sues META over alleged tolerance for scam advertising $META
-- 10/23 01:16 [financialjuice] US and Denmark sign an MOU on maritime cooperation
-- 10/23 01:18 [FirstSquawk] US, DENMARK SIGN MOU ON MARITIME COOPERATION – US STATE DEPT
-- 10/23 01:20 [financialjuice] ECB’s Pereira: Europe must deepen single market
-- 10/23 01:24 [FirstSquawk] QATAR SAID TO BE LOOKING FOR MORE LNG DEALS OUTSIDE MIDEAST
-- 10/23 01:24 [DeItaone] TRUMP: WHILE LISTENING TO OUR NATIONAL ANTHEM, LEBRON JAMES DISRESPECTS OUR COUNTRY; LEBRON JAMES SHOULD APOLOGIZE
-- 10/23 01:38 [FirstSquawk] EU TRADE CHIEF HINTS AT FUTURE RESPONSE TO TRUMP’S DRUG PRICING POLICY - POLITICO
-- 10/23 01:44 [FirstSquawk] US TREASURY 5-YEAR YIELD FALLS 15 BASIS POINTS ON DAY TO 4.80%
-- 10/23 01:46 [FirstSquawk] SENIOR IRANIAN SECURITY OFFICIAL SAYS TEHRAN WILL NOT DISTINGUISH BETWEEN NETANYAHU AND TRUMP IN ANY MILITARY ESCALATION
-- 10/23 01:50 [FirstSquawk] MODERNA CONTINUES TO FALL, DOWN 20%
-- 10/23 01:51 [FirstSquawk] NASDAQ 100 FALLS TO SESSION-LOW 2.9%
-- 10/23 01:58 [FirstSquawk] ISRAELI SENIOR OFFICERS: NO REASON TO STRIKE IRAN BEFORE US ELECTIONS - YNET
-- 10/23 02:00 [financialjuice] WI 5y TIPS yield about 2.36% before $26 billion auction
-- 10/23 02:03 [financialjuice] ❗ Traders no longer fully price in a Fed hike before year-end
-- 10/23 02:03 [DeItaone] ISRAELI MILITARY OFFICIALS: NO REASON TO STRIKE IRAN BEFORE U.S. ELECTIONS Senior Israeli military officials say there is no reason to attack Iran before the U.S. midterms unless they detect preparations for an Iranian missile launch. Accor…
-- 10/23 02:03 [DeItaone] TRADERS NO LONGER FULLY PRICE IN FED RATE HIKE BEFORE END-2026
-- 10/23 02:04 [financialjuice] US 5-Year TIPS Auction High Yield 2.367% [Tail 0.7 bps] Bid-to-cover 2.41 Sells $26 bln Awards 68.33% of bids at high Primary Dealers take 5.5% Direct 32.4% Indirect 62.0%
 - 10/23 02:18 [financialjuice] US State Department: Rubio reaffirmed the United States' commitment to Qatar's security and freedom of navigation through the Strait of Hormuz.
 - 10/23 02:31 [financialjuice] Ukraine’s President Zelenskiy: Ukraine is ready for peace talks at G20, so far, no such invitation
 - 10/23 02:31 [financialjuice/FirstSquawk] Finland's PM: There could be no gas deals with Russia as long as the war continues
@@ -327,3 +197,102 @@
 - 10/23 09:30 [financialjuice] JAPANESE MFG PMI FLASH ACTUAL 53.3 (FORECAST -, PREVIOUS 54.1) $MACRO
 - 10/23 09:30 [financialjuice] JAPANESE COMPOSITE PMI FLASH ACTUAL 52.3 (FORECAST -, PREVIOUS 52.3) $MACRO
 - 10/23 09:30 [financialjuice] Japan s&p global october flash manufacturing pmi falls to 53.3 from 54.1 in september
+- 10/23 09:31 [FirstSquawk] Gold Prices Show Little Change as Market Consolidation Looms in the Near Term - WSJ
+- 10/23 09:36 [FirstSquawk] JAPAN SERVICES PMI: 52.0 (PREV 51.3)
+- 10/23 09:36 [FirstSquawk] JAPAN MANUFACTURING PMI: 53.3 (PREV 54.1)
+- 10/23 09:36 [FirstSquawk] JAPAN S&P GLOBAL COMPOSITE PMI OCT P: 52.3 (PREV 52.3)
+- 10/23 09:41 [FirstSquawk] Hyundai Plans to Hire Approximately 3,000 Workers for Its Shipyard
+- 10/23 09:42 [FirstSquawk] HD Hyundai Unit to Assess US Navy Support Vessel Contracts, Commercial Shipbuilding and Shipyard Supply Opportunities
+- 10/23 09:47 [FirstSquawk] Singapore Private Home Price Growth Slows to 0.9% Q/Q in Q3, Below Forecast of 1.4%
+- 10/23 09:51 [FirstSquawk] 5-Year JGB Yield Slides to 2.210%, Down 8 Basis Points
+- 10/23 09:58 [FirstSquawk] US Strikes on Iran to Target Nuclear Infrastructure, Missile and Drone Depots, and Energy Facilities, Officials Say
+- 10/23 09:59 [financialjuice] Saudi-led coalition: intercepted and destroyed ballistic missile fired by Yemen’s Houthis toward Riyadh
+- 10/23 09:59 [FirstSquawk] Saudi-Led Coalition Reports Destruction of Ballistic Missile Launched From Yemen Toward Riyadh
+- 10/23 10:02 [FirstSquawk] Singapore Private Residential Prices Increase 1.4% in Q3, in Line With Preliminary Estimate
+- 10/23 10:09 [FirstSquawk] China Pushes Commercial Ambitions in Xinjiang Despite Ongoing Controversy - WSJ
+- 10/23 10:16 [FirstSquawk] PBOC Sets Daily Yuan Reference Rate at 6.7180 Against the US Dollar
+- 10/23 10:17 [financialjuice] China sets yuan mid-point at strongest level since Feb. 2, 2023
+- 10/23 10:17 [FirstSquawk] China’s Daily Yuan Fixing Strengthens to Its Highest Level in More Than Three Years
+- 10/23 10:20 [FirstSquawk] Japan Announces ¥3.3 Trillion Treasury Discount Bill Offering
+- 10/23 10:22 [financialjuice] China cbank: 7-day reverse repo volume at zero on Friday - statement
+- 10/23 10:22 [financialjuice] China cbank injects 258 billion yuan via overnight reverse repos: statement
+- 10/23 10:23 [FirstSquawk] PBOC Sets Friday’s 7-Day Reverse Repo Operation Volume at Zero, Statement Says
+- 10/23 10:24 [FirstSquawk] PBOC Announces 258 Billion Yuan Liquidity Injection Through Overnight Reverse Repos
+- 10/23 10:24 [financialjuice] Saudi Arabia issues early warning alert in Najran region: civil defence
+- 10/23 10:24 [FirstSquawk] Saudi Authorities Issue Warning Alert in Najran Region, Civil Defence Says
+- 10/23 10:27 [financialjuice] Saudi civil defense: danger in Najran has passed
+- 10/23 10:27 [FirstSquawk] Najran Alert Ends as Saudi Civil Defense Confirms Danger Has Passed
+- 10/23 10:35 [financialjuice] Japan government considers cutting gasoline subsidies from December, officials say
+- 10/23 10:36 [FirstSquawk] Dollar-Yen Exchange Rate Expected to Stay Between 155 and 160 in Near Term - WSJ
+- 10/23 10:41 [financialjuice] Colombian government orders spending cut of 13.8 trillion pesos from 2026 budget
+- 10/23 10:42 [FirstSquawk] Colombian Government Slashes 13.8 Trillion Pesos From 2026 Budget Expenditure
+- 10/23 10:53 [FirstSquawk] 2-Year JGB Yield Slides to 1.840%, Down 6 Basis Points
+- 10/23 10:59 [FirstSquawk] Tin Futures in Shanghai Slide Over 3% in Active Trading
+- 10/23 11:03 [FirstSquawk] Indonesian Stocks Edge Up 0.3% in Early Trading
+- 10/23 11:10 [FirstSquawk] Jakarta Composite Index Volatile in Early Trade, Rises 0.3% to 5,402.967
+- 10/23 11:16 [FirstSquawk] Shanghai Composite Index Declines More Than 2% in Trading
+- 10/23 11:25 [FirstSquawk] Japan’s Accelerating Inflation Provides Fresh Support for BOJ Tightening - WSJ
+- 10/23 11:31 [FirstSquawk] Omdia Forecasts Asia-Pacific AI Agent Market to Reach US$11.2 Billion by 2030
+- 10/23 11:40 [FirstSquawk] Toyota Finance’s Auto Loan Securitization 202612 General Receives Provisional Ratings From Moody’s
+- 10/23 11:47 [financialjuice] Dollar/yen reverses direction, last up 0.16% at 157.02
+- 10/23 11:47 [FirstSquawk] USD/JPY Turns Higher, Gains 0.16% to Trade at 157.02
+- 10/23 11:56 [FirstSquawk] JPMorgan Cuts Blackstone Price Target to $135 From $136
+- 10/23 12:02 [financialjuice] China finance ministry issues 2-year yuan bonds in Hong Kong with 1.24% coupon: statement
+- 10/23 12:03 [FirstSquawk] China Issues 2-Year Yuan-Denominated Bonds in Hong Kong With a 1.24% Coupon
+- 10/23 12:03 [FirstSquawk] China Issues 3-Year Yuan-Denominated Bonds in Hong Kong With a 1.28% Coupon
+- 10/23 12:08 [FirstSquawk] Turkey, Pakistan, Indonesia and Qatar Coordinate Efforts Alongside Mecca Alliance - NA
+- 10/23 12:10 [financialjuice] Saudi Arabia delays UN global data forum and second Saudi statistical forum to 2027
+- 10/23 12:12 [FirstSquawk] Saudi Arabia Pushes UN Global Data Forum and Second Saudi Statistical Forum Back to 2027
+- 10/23 12:24 [FirstSquawk] Former Yankees Star Matsui to Be Named Manager of the Giants
+- 10/23 12:32 [FirstSquawk] Petronas, TotalEnergies and Mitsui Partner to Develop Carbon Storage Site in Southern CCS Hub
+- 10/23 12:40 [financialjuice] China finance ministry auctions 30-year bonds at 2.06% yield: traders
+- 10/23 12:48 [FirstSquawk] Israel’s Military Preparing for Renewed Clashes With Hezbollah, Al Arabiya Cites Security Source
+- 10/23 13:00 [financialjuice] China's : companies to assess viability of level-4 ready autonomous cars in Kazakhstan, their initial test market
+- 10/23 13:00 [financialjuice] Varopreem aims to keep sustainable energy EBITDA ratio above 50%
+- 10/23 13:00 [financialjuice] Varopreem plans to double EBITDA from 2025 level of about $1 billion by 2030
+- 10/23 13:00 [financialjuice] Varopreem targets 20% rise in biofuel production capacity by 2030 from 2025 level of 1.3 million metric tons
+- 10/23 13:00 [financialjuice] Varopreem aims to boost market share in aviation, marine and defense segments to over 15% by 2030 from 10% in current markets
+- 10/23 13:02 [FirstSquawk] Jefferies Raises OMV Target Price To EUR70 From EUR68
+- 10/23 13:06 [FirstSquawk] Ukraine Seeks To Move Customs Checks Inside EU To Avoid Russian Drones – FT
+- 10/23 13:09 [FirstSquawk] CALPERS RETREATS FROM BIG TECH AS AI RALLY FALTERS – FT
+- 10/23 13:09 [FirstSquawk] US IS PREPARED FOR LONG STAND-OFF WITH IRAN, SAYS TRUMP ENVOY – FT
+- 10/23 13:22 [FirstSquawk] Haiti Receives El Salvador Special Forces After Soldiers Are Captured by Gangs - SCMP
+- 10/23 13:29 [FirstSquawk] US Consults France, Israel and Lebanon Over Potential Replacement Force for UNIFIL
+- 10/23 13:34 [financialjuice] Ukraine’s energy firm DTEK: Russian strike damages one of its power plants
+- 10/23 13:39 [FirstSquawk] Russian Attack Hits a Power Generation Station in Ukraine
+- 10/23 13:48 [FirstSquawk] SOUTH KOREA’S NETFLIX INDUSTRY NETWORK INCLUDES 80-PLUS PRODUCTION HOUSES AND 95,000 PEOPLE OVER A DECADE
+- 10/23 13:51 [financialjuice] Israel military: two suspected assailants killed after shooting near Judea junction
+- 10/23 13:53 [FirstSquawk] US Dollar Recovery Puts Pressure on Swiss Franc - FX
+- 10/23 14:00 [financialjuice] India HSBC October services flash PMI at 56.2, beats 55.5 forecast
+- 10/23 14:00 [FirstSquawk] INDIA (OCT) HSBC INDIA PMI SERVICES ACTUAL: 56.2 VS 55.2 PREVIOUS
+- 10/23 14:00 [financialjuice] India HSBC October manufacturing flash PMI at 54.9, forecast 55.0
+- 10/23 14:00 [financialjuice] India HSBC October composite flash PMI at 56.7, surpasses 56.1 forecast
+- 10/23 14:00 [FirstSquawk] INDIA (OCT) HSBC INDIA PMI MFG ACTUAL: 54.9 VS 55.1 PREVIOUS
+- 10/23 14:00 [FirstSquawk] INDIA (OCT) HSBC INDIA PMI COMPOSITE ACTUAL: 56.7 VS 55.9 PREVIOUS
+- 10/23 14:01 [financialjuice] Russia strikes railcar depot in Poltava region in Ukraine: ifax quotes Russian defence ministry
+- 10/23 14:01 [financialjuice] Russia strikes cargo ship in Black Sea: Ifax cites defense ministry
+- 10/23 14:02 [financialjuice] Russia strikes port of Vilkovo in Odesa region in Ukraine: Tass quotes Defence Ministry
+- 10/23 14:02 [financialjuice] Russian defence ministry: Russian forces strike cargo ship in Black Sea - RIA
+- 10/23 14:04 [financialjuice] South Korea defence ministry again proposes talks with North Korea on military demarcation line between two Koreas - Yonhap
+- 10/23 14:12 [financialjuice] AMD CEO Lisa Su speaks in Taipei
+- 10/23 14:13 [financialjuice] US six-week bills yield 3.945%
+- 10/23 14:14 [financialjuice] Xchange Tec Inc: investment to supplier
+- 10/23 14:14 [financialjuice] White House AI task force member Michael Kratsios explains
+- 10/23 14:14 [financialjuice] Donald J. Trump: Chuck Gray has been...
+- 10/23 14:14 [financialjuice] Amazon deal displaces television
+- 10/23 14:14 [financialjuice] Google launches Google Cloud mod
+- 10/23 14:14 [financialjuice] US grants 40% of six-week BLS to DI
+- 10/23 14:14 [financialjuice] Constellation agreement to develop about 7,200 jobs
+- 10/23 14:14 [financialjuice] Kodiak Al set to reach year-end target
+- 10/23 14:14 [financialjuice] Xamd CEO: memory supply remains steady
+- 10/23 14:14 [financialjuice] ICE UK nat gas November futures settle at
+- 10/23 14:14 [financialjuice] Amazon: awards to stream live on March 3
+- 10/23 14:14 [financialjuice] Donald J. Trump: I am grateful to my supporters
+- 10/23 14:14 [financialjuice] Acbio and Tychobio team up to transform tr...
+- 10/23 14:14 [financialjuice] Donald J. Trump says it is my great honor
+- 10/23 14:14 [financialjuice] Italy to offer 8 billion euros in 12-month bills
+- 10/23 14:14 [financialjuice] China, EU trade officials hold preparations
+- 10/23 14:14 [financialjuice] US six-week bills bid-to-cover ratio at 2
+- 10/23 14:14 [financialjuice] XAMD CEO: demand exceeds expectations
+- 10/23 14:15 [financialjuice] XAMD CEO forecasts very high demand for...
+- 10/23 14:15 [financialjuice] Fitch assigns rating to tender option bond series

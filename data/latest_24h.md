@@ -7,174 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-23 09:32 JST／対象: 10/22 09:32 〜 10/23 09:32 JST（時刻はすべて日本時間）
+生成: 2026-10-23 14:15 JST／対象: 10/22 14:15 〜 10/23 14:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 50 | 10/22 19:09 | 10/23 05:39 | ⚠ 120分（03:29→05:30） |
-| FirstSquawk | 297 | 10/22 09:33 | 10/23 09:22 | ⚠ 72分（17:51→19:04） |
-| financialjuice | 248 | 10/22 09:50 | 10/23 09:30 | ⚠ 155分（16:39→19:15） |
+| FirstSquawk | 268 | 10/22 14:20 | 10/23 14:00 | ⚠ 72分（17:51→19:04） |
+| financialjuice | 225 | 10/22 14:23 | 10/23 14:15 | ⚠ 155分（16:39→19:15） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 582 行（統合前 600 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 530 行（統合前 548 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/22 09:33 [FirstSquawk] China’s Premier Highlights Russia Ties as Global Situation Grows More Complex
-- 10/22 09:36 [FirstSquawk] Chinese Drugmakers Strengthen Their Position Among the World’s Biggest Pharmaceutical Players -FT
-- 10/22 09:38 [FirstSquawk] Brent, WTI Futures Advance About 1% Following US Order for Diplomats to Leave Saudi Arabia
-- 10/22 09:41 [FirstSquawk] Crude Oil Gains as Concerns Grow Over a Resurgence of Middle East Conflict
-- 10/22 09:41 [FirstSquawk] Crude Oil Gains as Concerns Grow Over a Resurgence of Middle East Conflict - WSJ
-- 10/22 09:42 [FirstSquawk] Yield on Japan’s 30-Year Government Bonds Drops 3 BPS to 3.895%
-- 10/22 09:44 [FirstSquawk] AI Just Found a Bug That Puts up to 70% of the World’s Websites at Risk - WSJ
-- 10/22 09:50 [financialjuice] BANK OF KOREA BASE RATE ACTUAL 3% (FORECAST 3%, PREVIOUS 3.00%) $MACRO
-- 10/22 09:50 [financialjuice] Bank of Korea holds base rate steady at 3.00% (Poll: 3.00%)
-- 10/22 09:51 [FirstSquawk] New Mexico Court Orders Meta to Pay $25 Billion Over Data Privacy Issues - WSJ
-- 10/22 09:54 [FirstSquawk] Japan’s Bond Yield Curve Flattens Amid Continued Concerns Over AI-Related Credit Risks - WSJ
-- 10/22 10:01 [financialjuice] Taiwan overnight interbank rate starts at 0.805% (unchanged from previous session)
-- 10/22 10:01 [FirstSquawk] Taiwan’s Overnight Interbank Rate Remains Steady at 0.805% at Session Open
-- 10/22 10:08 [FirstSquawk] Authorities Warn of Health Risks From Beauty Treatments Using Deceased People’s Skin After Hong Kong Raids - SCMP
-- 10/22 10:10 [FirstSquawk] Fortnite to Become Available Again on Australia’s App Store Tomorrow, Epic Games Announces
-- 10/22 10:12 [FirstSquawk] Multiple Sites in Moscow Region Targeted by Ukrainian Drone Attacks
-- 10/22 10:16 [FirstSquawk] China’s Central Bank Fixes Yuan Midpoint at 6.7195 Against the Dollar
-- 10/22 10:21 [FirstSquawk] Euro Posts Slight Gains Above 1.1200 as French Political and Fiscal Risks Persist - FX
-- 10/22 10:24 [financialjuice] China cbank injects 173 billion yuan via overnight reverse repos: statement
-- 10/22 10:25 [financialjuice] China central bank conducts no 7-day reverse repos: statement
-- 10/22 10:25 [FirstSquawk] PBOC Pumps 173 Billion Yuan Into Banking System via Overnight Reverse Repos
-- 10/22 10:29 [financialjuice] 630 drones headed toward Moscow overnight, most intercepted: Interfax cites Russian capital's mayor
-- 10/22 10:29 [FirstSquawk] Moscow Mayor Says Most of 630 Drones Approaching Capital Overnight Were Shot Down
-- 10/22 10:31 [financialjuice] Bok: Thursday's rate decision was unanimous
-- 10/22 10:31 [financialjuice] Bok: to determine timing and speed of additional base rate hikes while evaluating inflation trends, domestic economy, financial stability
-- 10/22 10:31 [financialjuice] BOK: essential to evaluate changes in domestic and external risks and impact of two previous rate increases
-- 10/22 10:31 [financialjuice] Bok: Need to keep focus on financial imbalance risks tied to housing market and household debt
-- 10/22 10:31 [financialjuice] Bok: Inflation set to stay above target level for extended period
-- 10/22 10:31 [financialjuice] Bok: stock price swings rise reflecting worries over AI investment slowdown
-- 10/22 10:32 [financialjuice] Bok: stock prices drop sharply on worries about slowing profitability in semiconductor sector
-- 10/22 10:32 [financialjuice] BOK: exports and investment projected to maintain strong growth
-- 10/22 10:32 [financialjuice] Bok: growth rates for this year and next year are expected to be substantially higher than august forecasts of 3.3% and 2.9%
-- 10/22 10:32 [financialjuice] Bok: Uncertainties Remain on Economic Growth Linked to Chips, Spillover to Domestic Demand
-- 10/22 10:33 [financialjuice] Bok: threats in Middle East add to economic growth uncertainties
-- 10/22 10:33 [financialjuice] BOK: Consumer price inflation and core inflation for this year expected to align with August forecasts of 2.7% and 2.5% respectively
-- 10/22 10:34 [financialjuice] Bok: cpi and core cpi for next year predicted to surpass previous forecasts of 2.3% and 2.5% respectively
-- 10/22 10:36 [FirstSquawk] BOK: ALL MONETARY POLICY BOARD MEMBERS VOTED IN FAVOUR OF THURSDAY'S RATE DECISION
-- 10/22 10:36 [FirstSquawk] BOK: FUTURE RATE INCREASES WILL BE GUIDED BY INFLATION TRENDS, ECONOMIC CONDITIONS AND FINANCIAL STABILITY RISKS
-- 10/22 10:36 [FirstSquawk] BOK: POLICYMAKERS WILL EVALUATE DOMESTIC AND GLOBAL DEVELOPMENTS, INCLUDING THE IMPACT OF THE TWO PREVIOUS RATE HIKES, BEFORE DECIDING ON FURTHER TIGHTENING
-- 10/22 10:36 [FirstSquawk] BOK: RISKS FROM RISING HOUSEHOLD DEBT AND HOUSING MARKET IMBALANCES REQUIRE CONTINUED MONITORING
-- 10/22 10:36 [FirstSquawk] BOK: PRICE PRESSURES ARE LIKELY TO PERSIST ABOVE THE INFLATION TARGET FOR AN EXTENDED PERIOD
-- 10/22 10:36 [FirstSquawk] BOK: CONCERNS ABOUT A POTENTIAL AI INVESTMENT SLOWDOWN CONTRIBUTED TO HEIGHTENED STOCK MARKET VOLATILITY
-- 10/22 10:36 [FirstSquawk] BOK: SEMICONDUCTOR SECTOR PROFITABILITY CONCERNS TRIGGERED A STEEP DECLINE IN EQUITY PRICES
-- 10/22 10:36 [FirstSquawk] BOK: EXPORTS AND CAPITAL SPENDING ARE EXPECTED TO REMAIN KEY DRIVERS OF STRONG GROWTH
-- 10/22 10:36 [FirstSquawk] BOK: ECONOMIC GROWTH PROJECTIONS FOR THE CURRENT AND FOLLOWING YEARS ARE SET TO SURPASS THE AUGUST ESTIMATES OF 3.3% AND 2.9%, RESPECTIVELY, BY A CONSIDERABLE MARGIN
-- 10/22 10:36 [FirstSquawk] BOK: CHIP INDUSTRY DEVELOPMENTS AND THEIR IMPACT ON DOMESTIC DEMAND CONTINUE TO CLOUD THE ECONOMIC OUTLOOK
-- 10/22 10:36 [FirstSquawk] BOK: ESCALATING RISKS IN THE MIDDLE EAST ADD TO THE UNCERTAINTY SURROUNDING ECONOMIC GROWTH
-- 10/22 10:36 [FirstSquawk] BOK: CPI AND CORE INFLATION PROJECTIONS FOR THIS YEAR REMAIN LARGELY UNCHANGED AT 2.7% AND 2.5%, RESPECTIVELY, FROM THE AUGUST OUTLOOK
-- 10/22 10:36 [FirstSquawk] BOK: INFLATION FORECASTS FOR NEXT YEAR HAVE RISEN ABOVE THE AUGUST ESTIMATES OF 2.3% FOR CPI AND 2.5% FOR CORE CPI
-- 10/22 10:40 [financialjuice] South Korea defence ministry: urges North Korea to engage in talks to prevent accidental military clash
-- 10/22 10:40 [FirstSquawk] Seoul Calls on Pyongyang to Engage in Dialogue to Avoid Unintended Military Confrontation
-- 10/22 10:42 [financialjuice] Japan's Ministry of Finance: temporarily halting some website content and services as security measures are enforced
-- 10/22 10:42 [FirstSquawk] Japan’s Ministry of Finance Temporarily Restricts Website Content and Services While Implementing Security Measures
-- 10/22 10:43 [FirstSquawk] Kospi Index Falls 2% in South Korea
-- 10/22 10:50 [FirstSquawk] South Korea’s Stock Market Opens Lower Amid Persistent AI-Related Concerns
-- 10/22 10:56 [FirstSquawk] Hang Seng Tech Index Sheds More Than 3% Amid Selling Pressure in Hong Kong
-- 10/22 10:57 [financialjuice] Colombia's president: Lara Restrepo to resign as interior minister, Alejandro Ordonez to succeed her
-- 10/22 10:58 [FirstSquawk] Colombia Announces Interior Ministry Shake-Up, With Alejandro Ordóñez Set to Succeed Lara Restrepo
-- 10/22 11:00 [FirstSquawk] Indonesian Stocks Decline, Benchmark Index Down 1.5% in Early Trade
-- 10/22 11:02 [financialjuice] RBNZ Q3 sectoral factor model shows inflation up 2.8% year on year
-- 10/22 11:03 [FirstSquawk] New Zealand’s Q3 Sectoral Factor Model Inflation Hits 2.8% Annually
-- 10/22 11:10 [FirstSquawk] MUFG Reports Service Disruptions During PHP Vulnerability Patching
-- 10/22 11:16 [FirstSquawk] South Korea Records More Than 17 Million Foreign Tourist Arrivals in First Nine Months of Year - YONHAP
-- 10/22 11:17 [FirstSquawk] Japan’s Nikkei Stock Average Slips 1% amid Market Weakness
-- 10/22 11:24 [financialjuice] Bok Shin: Growth outlook and inflationary pressure stronger than August, need to keep current restrictive stance
-- 10/22 11:25 [financialjuice] Bok Shin: will act until inflationary pressure eases to target level
-- 10/22 11:26 [FirstSquawk] BOK’s Shin Vows to Act Until Inflationary Pressures Stabilize Around the Target
-- 10/22 11:27 [financialjuice] Chinese buyers purchase about 15 panamax shipments of Australian canola this month for 2027 delivery
-- 10/22 11:27 [financialjuice] Bok Shin: Reduced import costs likely to boost purchasing power of South Korean consumers
-- 10/22 11:28 [financialjuice] Bok Shin: Won’s recent gain seen boosting South Korea consumption
-- 10/22 11:28 [FirstSquawk] BOK’s Shin Expects Lower Import Costs to Strengthen Purchasing Power Among Korean Consumers
-- 10/22 11:29 [FirstSquawk] BOK’s Shin Says Won’s Recent Appreciation Is Helping Boost Consumption in South Korea
-- 10/22 11:32 [financialjuice] Securing predictability is crucial for FX market
-- 10/22 11:32 [financialjuice] Won's recent strength seen boosting South Korea consumption
-- 10/22 11:32 [FirstSquawk] BOK’s Shin Stresses Importance of Maintaining Predictability in Currency Markets
-- 10/22 11:33 [financialjuice] Tier IV and Technical University of Munich introduce Nvidia Hyperion for level 4 autonomous driving in Germany
-- 10/22 11:33 [financialjuice] fx level wise, current won is weaker against dollar in historical context
-- 10/22 11:34 [FirstSquawk] BOK’s Shin Notes Won’s Current Dollar Exchange Rate Remains Weak Compared With Historical Levels
-- 10/22 11:35 [financialjuice] BOK Shin: ensuring predictability is crucial for FX market
-- 10/22 11:35 [financialjuice] won remains weak against dollar in real effective terms
-- 10/22 11:35 [FirstSquawk] BOK’s Shin Notes Continued Won Weakness Against the US Dollar on a Real Effective Basis
-- 10/22 11:36 [financialjuice] A strengthening won helps reduce economic disparity
-- 10/22 11:36 [FirstSquawk] BOK’s Shin Sees a Stronger Won Helping Address Economic Disparities
-- 10/22 11:36 [financialjuice] Bok Shin: won’s current level is historically weaker against dollar in FX terms
-- 10/22 11:37 [financialjuice] Bok Shin: Won remains weak against the dollar in real effective terms
-- 10/22 11:37 [financialjuice] Bok says it consistently aims to gain trust from foreign exchange market participants
-- 10/22 11:38 [FirstSquawk] BOK’s Shin Reaffirms BOK’s Commitment to Maintaining Trust With FX Market Participants
-- 10/22 11:43 [FirstSquawk] Singapore Dollar Stabilizes, Though Surging Oil Prices Could Pressure the Currency - WSJ
-- 10/22 11:47 [financialjuice] Bok Shin: a Strengthening Won Aims to Reduce Economic Inequality
-- 10/22 11:47 [financialjuice] Next year's government budget spending to add 0.5 percentage point to GDP growth
-- 10/22 11:48 [FirstSquawk] BOK’s Shin Says Next Year’s Government Budget Could Boost GDP Growth by 0.5 Percentage Point
-- 10/22 11:50 [financialjuice] Bok Shin: Bank of Korea always aims to gain trust from forex market participants
-- 10/22 11:50 [financialjuice] better to watch chip prices instead of chipmakers' share prices
-- 10/22 11:50 [FirstSquawk] BOK’s Shin: Focus on Chip Prices Rather Than Stock Performance of Semiconductor Firms
-- 10/22 11:51 [financialjuice] Bok Shin: better to watch chip costs than chipmaker share prices
-- 10/22 11:51 [financialjuice] Bok Shin: Next year’s government budget spending to boost GDP growth by 0.5 pct pt
-- 10/22 11:51 [financialjuice] Parts of subway running over southern bridge in Ukraine's Kyiv damaged in strike, mayor says
-- 10/22 11:51 [financialjuice] BOK Shin: won's recent gains seen boosting South Korea consumption
-- 10/22 11:51 [financialjuice] Chinese buyers secure about 15 panamax shipments of Australian canola this month for 2027 delivery
-- 10/22 11:51 [FirstSquawk] Mayor Says Attack Damaged Parts of Kyiv’s Subway Line Running Across Southern Bridge
-- 10/22 11:53 [financialjuice] Bok Shin: stock market pullback could affect consumption
-- 10/22 11:54 [FirstSquawk] BOK’s Shin: A Market Downturn Could Have Implications for Consumer Spending
-- 10/22 11:58 [financialjuice] Bok Shin: South Korea in ‘early stage’ of won’s international use
-- 10/22 11:58 [FirstSquawk] BOK’s Shin Describes South Korea’s Won Internationalization Efforts as Being in the Early Stages
-- 10/22 12:02 [financialjuice] We don't necessarily have to adhere to terminal policy rate forecast by financial market
-- 10/22 12:02 [financialjuice] South Korea on 'early stage' of won's internationalization
-- 10/22 12:02 [FirstSquawk] BOK’s Shin Says BOK Need Not Necessarily Follow Financial Markets’ Expectations for the Peak Policy Rate
-- 10/22 12:04 [financialjuice] Apple on Australia federal court ruling telling Apple to open up iOS: we will seek a stay and appeal the decision
-- 10/22 12:06 [financialjuice] Reaching inflation goal might be achievable in 2028
-- 10/22 12:07 [FirstSquawk] Apple to Appeal Australia’s Federal Court Ruling on iOS Access and Seek Suspension of the Decision
-- 10/22 12:08 [financialjuice] Bok Shin: We don't necessarily need to follow financial market's terminal policy rate expectations
-- 10/22 12:08 [financialjuice] Fifteen injured in Russian strikes on Ukraine's Kyiv overnight: mayor
-- 10/22 12:08 [financialjuice] Bok Shin: achieving inflation target may be feasible in 2028
-- 10/22 12:08 [financialjuice] Parts of subway over southern bridge in Ukraine's Kyiv damaged in attack: mayor
-- 10/22 12:08 [financialjuice] Bok Shin: best to watch chip prices instead of chipmaker share prices
-- 10/22 12:18 [FirstSquawk] Gold Prices Slide Almost 1%, With Spot Gold at $4,104.18/Oz
-- 10/22 12:21 [financialjuice] Drone strikes energy infrastructure in Kremenchuk area in Ukraine’s Poltava region: local official
-- 10/22 12:23 [FirstSquawk] Ukraine’s Poltava Region Reports Drone Strike on Energy Infrastructure Near Kremenchuk
-- 10/22 12:28 [FirstSquawk] Fitch Reaffirms China Energy Overseas Investment’s Issuer Default Rating at BBB; Outlook Remains Stable
-- 10/22 12:35 [FirstSquawk] Highest Yield Spread at Japan’s JGB Re-Offer Auction Comes in at -0.007%
-- 10/22 12:46 [FirstSquawk] Piper Sandler Raises Tesla Price Target to $475 From $450
-- 10/22 12:58 [FirstSquawk] Crude Oil Advances as Geopolitical Risks Regain Attention Amid Calmer AI Fears - WSJ
-- 10/22 12:59 [financialjuice] bok says it consistently works to gain trust from fx market participants
-- 10/22 12:59 [financialjuice] Bok Shin: South Korea at early stage of won internationalization
-- 10/22 13:01 [financialjuice] Ukraine to purchase military supplies through NATO agency: FT
-- 10/22 13:02 [FirstSquawk] EU27 NEW CAR REGISTRATIONS SEP: 9.3% (PREV 4.5%)
-- 10/22 13:07 [FirstSquawk] Ukraine To Buy Military Supplies Via NATO Agency – FT
-- 10/22 13:07 [FirstSquawk] POLITICO AND TELEGRAPH OWNER PITCHED DEAL TO BUY EUROPEAN ARM OF TIKTOK – FT
-- 10/22 13:08 [FirstSquawk] CHINA STEPS UP ‘GREY ZONE’ TACTICS TO ISOLATE TAIWAN - FT
-- 10/22 13:13 [FirstSquawk] 40-Year JGB Yield Slips 3.5 BPS to 4.015% in Japan’s Bond Market
-- 10/22 13:13 [FirstSquawk] Nikkei 225 Drops 2% in Japan
-- 10/22 13:18 [financialjuice] Iran's Revolutionary Guards navy: four ships struck and set ablaze in northern Gulf
-- 10/22 13:18 [financialjuice] Iran's Revolutionary Guards Navy: three other ships hit mines west of Strait of Hormuz overnight, caught fire
-- 10/22 13:18 [FirstSquawk] Four Ships Hit and Caught Fire in Northern Gulf, According to Iran’s Revolutionary Guards Navy
-- 10/22 13:18 [FirstSquawk] Iran’s Guards Navy Reports Three More Ships Hit Mines and Caught Fire Near Strait of Hormuz
-- 10/22 13:19 [financialjuice] South Korea on early phase of won internationalization
-- 10/22 13:19 [financialjuice] Iran's Revolutionary Guards navy warns response may extend to U.S. bases in region if Washington keeps urging vessels to cross mined waterway
-- 10/22 13:19 [financialjuice] Fifteen injured in Russian strikes on Kyiv overnight: mayor
-- 10/22 13:20 [FirstSquawk] Iran’s Guards Navy Threatens Regional U.S. Bases if Washington Continues Encouraging Vessels to Transit Mined Waters
-- 10/22 13:22 [financialjuice] Elon Musk’s public backing for SpaceX-Tesla merger could complicate deal negotiations, source says
-- 10/22 13:22 [financialjuice] Tesla SolarCity shareholder litigation seen as benchmark to evaluate SpaceX Tesla talks, source says
-- 10/22 13:22 [financialjuice] SpaceX, Tesla consider all-stock merger, new holding company setup: source
-- 10/22 13:30 [financialjuice] DUTCH CONSUMER CONFIDENCE ADJUSTED ACTUAL -34 (FORECAST -, PREVIOUS -33) $MACRO
-- 10/22 13:30 [financialjuice] Dutch October consumer confidence falls to -34 points from -33 in September: CBS
-- 10/22 13:34 [FirstSquawk] SEB AB Forecasts 2026 Costs to Undershoot Full-Year Target by Around SEK 500–600 Million
-- 10/22 13:44 [FirstSquawk] HSBC Revises European Energy Sector Stance Upward, Moving to Neutral From Underweight
-- 10/22 13:50 [FirstSquawk] China Records 199.36 Billion Yuan in Natural Disaster-Related Economic Losses in First Three Quarters of 2026
-- 10/22 13:51 [FirstSquawk] Westpac Spokesperson Says Planned Job Cuts Reflect Wider Restructuring, Not AI Adoption
-- 10/22 13:54 [FirstSquawk] Brent Oil Climbs to $110.90/Barrel as Saudi Arabia Attack Risks Fuel Supply Concerns
-- 10/22 14:06 [FirstSquawk] Nestlé SA Excludes Russian Operations From Consolidated Accounts After Temporary External Administration Takes Effect
-- 10/22 14:07 [FirstSquawk] Nestlé Keeps 2026 Organic Sales Growth Outlook at 3–4% After Q3 Growth of 4.0%; Real Internal Growth Reaches 2.8%
 - 10/22 14:20 [FirstSquawk] ASIA-WIDE SECURITY WARNINGS CALL FOR IMMEDIATE PHP UPDATES OVER RISKS OF MALICIOUS CODE EXECUTION
 - 10/22 14:23 [financialjuice] Ukraine’s FM after Russian strike on Kyiv following talks with US: Appeasement, servility, and flattery will not stop war.
 - 10/22 14:25 [financialjuice] Russia carries out 'massive strike' overnight on port infrastructure facilities.
@@ -606,3 +455,102 @@
 - 10/23 09:30 [financialjuice] JAPANESE MFG PMI FLASH ACTUAL 53.3 (FORECAST -, PREVIOUS 54.1) $MACRO
 - 10/23 09:30 [financialjuice] JAPANESE COMPOSITE PMI FLASH ACTUAL 52.3 (FORECAST -, PREVIOUS 52.3) $MACRO
 - 10/23 09:30 [financialjuice] Japan s&p global october flash manufacturing pmi falls to 53.3 from 54.1 in september
+- 10/23 09:31 [FirstSquawk] Gold Prices Show Little Change as Market Consolidation Looms in the Near Term - WSJ
+- 10/23 09:36 [FirstSquawk] JAPAN SERVICES PMI: 52.0 (PREV 51.3)
+- 10/23 09:36 [FirstSquawk] JAPAN MANUFACTURING PMI: 53.3 (PREV 54.1)
+- 10/23 09:36 [FirstSquawk] JAPAN S&P GLOBAL COMPOSITE PMI OCT P: 52.3 (PREV 52.3)
+- 10/23 09:41 [FirstSquawk] Hyundai Plans to Hire Approximately 3,000 Workers for Its Shipyard
+- 10/23 09:42 [FirstSquawk] HD Hyundai Unit to Assess US Navy Support Vessel Contracts, Commercial Shipbuilding and Shipyard Supply Opportunities
+- 10/23 09:47 [FirstSquawk] Singapore Private Home Price Growth Slows to 0.9% Q/Q in Q3, Below Forecast of 1.4%
+- 10/23 09:51 [FirstSquawk] 5-Year JGB Yield Slides to 2.210%, Down 8 Basis Points
+- 10/23 09:58 [FirstSquawk] US Strikes on Iran to Target Nuclear Infrastructure, Missile and Drone Depots, and Energy Facilities, Officials Say
+- 10/23 09:59 [financialjuice] Saudi-led coalition: intercepted and destroyed ballistic missile fired by Yemen’s Houthis toward Riyadh
+- 10/23 09:59 [FirstSquawk] Saudi-Led Coalition Reports Destruction of Ballistic Missile Launched From Yemen Toward Riyadh
+- 10/23 10:02 [FirstSquawk] Singapore Private Residential Prices Increase 1.4% in Q3, in Line With Preliminary Estimate
+- 10/23 10:09 [FirstSquawk] China Pushes Commercial Ambitions in Xinjiang Despite Ongoing Controversy - WSJ
+- 10/23 10:16 [FirstSquawk] PBOC Sets Daily Yuan Reference Rate at 6.7180 Against the US Dollar
+- 10/23 10:17 [financialjuice] China sets yuan mid-point at strongest level since Feb. 2, 2023
+- 10/23 10:17 [FirstSquawk] China’s Daily Yuan Fixing Strengthens to Its Highest Level in More Than Three Years
+- 10/23 10:20 [FirstSquawk] Japan Announces ¥3.3 Trillion Treasury Discount Bill Offering
+- 10/23 10:22 [financialjuice] China cbank: 7-day reverse repo volume at zero on Friday - statement
+- 10/23 10:22 [financialjuice] China cbank injects 258 billion yuan via overnight reverse repos: statement
+- 10/23 10:23 [FirstSquawk] PBOC Sets Friday’s 7-Day Reverse Repo Operation Volume at Zero, Statement Says
+- 10/23 10:24 [FirstSquawk] PBOC Announces 258 Billion Yuan Liquidity Injection Through Overnight Reverse Repos
+- 10/23 10:24 [financialjuice] Saudi Arabia issues early warning alert in Najran region: civil defence
+- 10/23 10:24 [FirstSquawk] Saudi Authorities Issue Warning Alert in Najran Region, Civil Defence Says
+- 10/23 10:27 [financialjuice] Saudi civil defense: danger in Najran has passed
+- 10/23 10:27 [FirstSquawk] Najran Alert Ends as Saudi Civil Defense Confirms Danger Has Passed
+- 10/23 10:35 [financialjuice] Japan government considers cutting gasoline subsidies from December, officials say
+- 10/23 10:36 [FirstSquawk] Dollar-Yen Exchange Rate Expected to Stay Between 155 and 160 in Near Term - WSJ
+- 10/23 10:41 [financialjuice] Colombian government orders spending cut of 13.8 trillion pesos from 2026 budget
+- 10/23 10:42 [FirstSquawk] Colombian Government Slashes 13.8 Trillion Pesos From 2026 Budget Expenditure
+- 10/23 10:53 [FirstSquawk] 2-Year JGB Yield Slides to 1.840%, Down 6 Basis Points
+- 10/23 10:59 [FirstSquawk] Tin Futures in Shanghai Slide Over 3% in Active Trading
+- 10/23 11:03 [FirstSquawk] Indonesian Stocks Edge Up 0.3% in Early Trading
+- 10/23 11:10 [FirstSquawk] Jakarta Composite Index Volatile in Early Trade, Rises 0.3% to 5,402.967
+- 10/23 11:16 [FirstSquawk] Shanghai Composite Index Declines More Than 2% in Trading
+- 10/23 11:25 [FirstSquawk] Japan’s Accelerating Inflation Provides Fresh Support for BOJ Tightening - WSJ
+- 10/23 11:31 [FirstSquawk] Omdia Forecasts Asia-Pacific AI Agent Market to Reach US$11.2 Billion by 2030
+- 10/23 11:40 [FirstSquawk] Toyota Finance’s Auto Loan Securitization 202612 General Receives Provisional Ratings From Moody’s
+- 10/23 11:47 [financialjuice] Dollar/yen reverses direction, last up 0.16% at 157.02
+- 10/23 11:47 [FirstSquawk] USD/JPY Turns Higher, Gains 0.16% to Trade at 157.02
+- 10/23 11:56 [FirstSquawk] JPMorgan Cuts Blackstone Price Target to $135 From $136
+- 10/23 12:02 [financialjuice] China finance ministry issues 2-year yuan bonds in Hong Kong with 1.24% coupon: statement
+- 10/23 12:03 [FirstSquawk] China Issues 2-Year Yuan-Denominated Bonds in Hong Kong With a 1.24% Coupon
+- 10/23 12:03 [FirstSquawk] China Issues 3-Year Yuan-Denominated Bonds in Hong Kong With a 1.28% Coupon
+- 10/23 12:08 [FirstSquawk] Turkey, Pakistan, Indonesia and Qatar Coordinate Efforts Alongside Mecca Alliance - NA
+- 10/23 12:10 [financialjuice] Saudi Arabia delays UN global data forum and second Saudi statistical forum to 2027
+- 10/23 12:12 [FirstSquawk] Saudi Arabia Pushes UN Global Data Forum and Second Saudi Statistical Forum Back to 2027
+- 10/23 12:24 [FirstSquawk] Former Yankees Star Matsui to Be Named Manager of the Giants
+- 10/23 12:32 [FirstSquawk] Petronas, TotalEnergies and Mitsui Partner to Develop Carbon Storage Site in Southern CCS Hub
+- 10/23 12:40 [financialjuice] China finance ministry auctions 30-year bonds at 2.06% yield: traders
+- 10/23 12:48 [FirstSquawk] Israel’s Military Preparing for Renewed Clashes With Hezbollah, Al Arabiya Cites Security Source
+- 10/23 13:00 [financialjuice] China's : companies to assess viability of level-4 ready autonomous cars in Kazakhstan, their initial test market
+- 10/23 13:00 [financialjuice] Varopreem aims to keep sustainable energy EBITDA ratio above 50%
+- 10/23 13:00 [financialjuice] Varopreem plans to double EBITDA from 2025 level of about $1 billion by 2030
+- 10/23 13:00 [financialjuice] Varopreem targets 20% rise in biofuel production capacity by 2030 from 2025 level of 1.3 million metric tons
+- 10/23 13:00 [financialjuice] Varopreem aims to boost market share in aviation, marine and defense segments to over 15% by 2030 from 10% in current markets
+- 10/23 13:02 [FirstSquawk] Jefferies Raises OMV Target Price To EUR70 From EUR68
+- 10/23 13:06 [FirstSquawk] Ukraine Seeks To Move Customs Checks Inside EU To Avoid Russian Drones – FT
+- 10/23 13:09 [FirstSquawk] CALPERS RETREATS FROM BIG TECH AS AI RALLY FALTERS – FT
+- 10/23 13:09 [FirstSquawk] US IS PREPARED FOR LONG STAND-OFF WITH IRAN, SAYS TRUMP ENVOY – FT
+- 10/23 13:22 [FirstSquawk] Haiti Receives El Salvador Special Forces After Soldiers Are Captured by Gangs - SCMP
+- 10/23 13:29 [FirstSquawk] US Consults France, Israel and Lebanon Over Potential Replacement Force for UNIFIL
+- 10/23 13:34 [financialjuice] Ukraine’s energy firm DTEK: Russian strike damages one of its power plants
+- 10/23 13:39 [FirstSquawk] Russian Attack Hits a Power Generation Station in Ukraine
+- 10/23 13:48 [FirstSquawk] SOUTH KOREA’S NETFLIX INDUSTRY NETWORK INCLUDES 80-PLUS PRODUCTION HOUSES AND 95,000 PEOPLE OVER A DECADE
+- 10/23 13:51 [financialjuice] Israel military: two suspected assailants killed after shooting near Judea junction
+- 10/23 13:53 [FirstSquawk] US Dollar Recovery Puts Pressure on Swiss Franc - FX
+- 10/23 14:00 [financialjuice] India HSBC October services flash PMI at 56.2, beats 55.5 forecast
+- 10/23 14:00 [FirstSquawk] INDIA (OCT) HSBC INDIA PMI SERVICES ACTUAL: 56.2 VS 55.2 PREVIOUS
+- 10/23 14:00 [financialjuice] India HSBC October manufacturing flash PMI at 54.9, forecast 55.0
+- 10/23 14:00 [financialjuice] India HSBC October composite flash PMI at 56.7, surpasses 56.1 forecast
+- 10/23 14:00 [FirstSquawk] INDIA (OCT) HSBC INDIA PMI MFG ACTUAL: 54.9 VS 55.1 PREVIOUS
+- 10/23 14:00 [FirstSquawk] INDIA (OCT) HSBC INDIA PMI COMPOSITE ACTUAL: 56.7 VS 55.9 PREVIOUS
+- 10/23 14:01 [financialjuice] Russia strikes railcar depot in Poltava region in Ukraine: ifax quotes Russian defence ministry
+- 10/23 14:01 [financialjuice] Russia strikes cargo ship in Black Sea: Ifax cites defense ministry
+- 10/23 14:02 [financialjuice] Russia strikes port of Vilkovo in Odesa region in Ukraine: Tass quotes Defence Ministry
+- 10/23 14:02 [financialjuice] Russian defence ministry: Russian forces strike cargo ship in Black Sea - RIA
+- 10/23 14:04 [financialjuice] South Korea defence ministry again proposes talks with North Korea on military demarcation line between two Koreas - Yonhap
+- 10/23 14:12 [financialjuice] AMD CEO Lisa Su speaks in Taipei
+- 10/23 14:13 [financialjuice] US six-week bills yield 3.945%
+- 10/23 14:14 [financialjuice] Xchange Tec Inc: investment to supplier
+- 10/23 14:14 [financialjuice] White House AI task force member Michael Kratsios explains
+- 10/23 14:14 [financialjuice] Donald J. Trump: Chuck Gray has been...
+- 10/23 14:14 [financialjuice] Amazon deal displaces television
+- 10/23 14:14 [financialjuice] Google launches Google Cloud mod
+- 10/23 14:14 [financialjuice] US grants 40% of six-week BLS to DI
+- 10/23 14:14 [financialjuice] Constellation agreement to develop about 7,200 jobs
+- 10/23 14:14 [financialjuice] Kodiak Al set to reach year-end target
+- 10/23 14:14 [financialjuice] Xamd CEO: memory supply remains steady
+- 10/23 14:14 [financialjuice] ICE UK nat gas November futures settle at
+- 10/23 14:14 [financialjuice] Amazon: awards to stream live on March 3
+- 10/23 14:14 [financialjuice] Donald J. Trump: I am grateful to my supporters
+- 10/23 14:14 [financialjuice] Acbio and Tychobio team up to transform tr...
+- 10/23 14:14 [financialjuice] Donald J. Trump says it is my great honor
+- 10/23 14:14 [financialjuice] Italy to offer 8 billion euros in 12-month bills
+- 10/23 14:14 [financialjuice] China, EU trade officials hold preparations
+- 10/23 14:14 [financialjuice] US six-week bills bid-to-cover ratio at 2
+- 10/23 14:14 [financialjuice] XAMD CEO: demand exceeds expectations
+- 10/23 14:15 [financialjuice] XAMD CEO forecasts very high demand for...
+- 10/23 14:15 [financialjuice] Fitch assigns rating to tender option bond series
