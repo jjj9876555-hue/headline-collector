@@ -7,128 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-23 14:15 JST／対象: 10/23 02:15 〜 10/23 14:15 JST（時刻はすべて日本時間）
+生成: 2026-10-23 19:14 JST／対象: 10/23 07:14 〜 10/23 19:14 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 7 | 10/23 02:49 | 10/23 05:39 | ⚠ 120分（03:29→05:30） |
-| FirstSquawk | 147 | 10/23 02:53 | 10/23 14:00 | 28分（06:39→07:07） |
-| financialjuice | 127 | 10/23 02:18 | 10/23 14:15 | ⚠ 66分（10:41→11:47） |
+| DeItaone | 0 | - | - | - |
+| FirstSquawk | 125 | 10/23 07:15 | 10/23 18:54 | 32分（17:30→18:02） |
+| financialjuice | 121 | 10/23 08:01 | 10/23 18:36 | ⚠ 66分（10:41→11:47） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 272 行（統合前 283 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 245 行（統合前 246 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/23 02:18 [financialjuice] US State Department: Rubio reaffirmed the United States' commitment to Qatar's security and freedom of navigation through the Strait of Hormuz.
-- 10/23 02:31 [financialjuice] Ukraine’s President Zelenskiy: Ukraine is ready for peace talks at G20, so far, no such invitation
-- 10/23 02:31 [financialjuice/FirstSquawk] Finland's PM: There could be no gas deals with Russia as long as the war continues
-- 10/23 02:32 [financialjuice] Ukraine’s President Zelenskiy: Starlink speed for Ukraine has not been restored: "We are tackling the issue".
-- 10/23 02:47 [financialjuice/FirstSquawk] Federal Communications Commission blocks two devices from the US market that contain Chinese-made surveillance chips produced by a subsidiary of Huawei - Agency
-- 10/23 02:49 [DeItaone] OIL FUTURES EXTEND GAINS, BRENT CRUDE PRICES UP BY $4 A BARREL TO FIVE-MONTH HIGH AS HOUTHI ATTACKS STOKE MIDDLE EAST SUPPLY FEARS
-- 10/23 02:58 [FirstSquawk] UKRAINE’S PRESIDENT ZELENSKIY SAYS STARLINK SPEED FOR UKRAINE HAS NOT BEEN RESTORED AND THAT “WE ARE TACKLING THE ISSUE,” ADDING THAT UKRAINE IS READY FOR PEACE TALKS AT THE G20 BUT HAS SO FAR RECEIVED NO SUCH INVITATION
-- 10/23 02:59 [DeItaone/financialjuice/FirstSquawk] TRUMP CALLED MUSK AND ASKED HIM TO LIFT UKRAINE STARLINK RESTRICTIONS -- WSJ
-- 10/23 03:00 [FirstSquawk] U.S. CENTRAL COMMAND SAYS TODAY MARKS 100 DAYS SINCE CENTCOM FORCES RESUMED AMERICA’S STEEL WALL NAVAL BLOCKADE AGAINST IRAN, ADDING THAT THE EFFORT HAS HELPED PREVENT IRAN FROM EXPORTING AT LEAST $25 BLN WORTH OF CRUDE OIL AND CONSTRAINED …
-- 10/23 03:04 [FirstSquawk] STARLINK SYSTEM WAS WORKING MORE NORMALLY THURSDAY, SHORTLY AFTER THE TRUMP-MUSK CONVERSATION, U.S. AND UKRAINIAN OFFICIALS SAID - WSJ
-- 10/23 03:09 [DeItaone] TRUMP ASKS MUSK TO RESTORE UKRAINE'S STARLINK CAPABILITIES Trump reportedly called Elon Musk and urged him to lift restrictions on Ukraine's military-grade Starlink service, according to the Wall Street Journal. The speed cap had limited Uk…
-- 10/23 03:16 [financialjuice/FirstSquawk] Canada's US trade negotiator Charette: Don't expect to go back to tariff-free trade with the US
-- 10/23 03:20 [FirstSquawk] MODERNA'S STOCK TUMBLES 14.3% IN HOURS AS $12 BILLION WIPED OUT AMID INSTITUTIONAL SELLING
-- 10/23 03:23 [FirstSquawk] ANTHROPIC SAYS IT HAS DONATED THE AGENT SKILLS OPEN STANDARD TO THE AGENTIC AI FOUNDATION, ALONG WITH THE AGENT SKILLS NAME, LOGO, GITHUB ORGANIZATION AND DOMAIN, AND HAS PROPOSED A ROADMAP FOR AGENT SKILLS INCLUDING VERSIONED RELEASES AND …
-- 10/23 03:24 [FirstSquawk] ECB LIKELY TO HOLD RATES STEADY IN OCTOBER, WITH FINAL HIKE EXPECTED IN DECEMBER
-- 10/23 03:25 [FirstSquawk] MERCK SAYS INTISMERAN PLUS KEYTRUDA SIGNIFICANTLY REDUCED THE RISK OF RECURRENCE OR DEATH BY 42% COMPARED TO KEYTRUDA ALONE, WITH A 58% REDUCTION IN ANOTHER MEASURE, AND THAT THE SAFETY PROFILE WAS GENERALLY CONSISTENT WITH PREVIOUSLY REPOR…
-- 10/23 03:25 [FirstSquawk] MERCK SAYS THAT IN THE PHASE 3 INTERPATH-001 TRIAL NO NEW SAFETY SIGNALS WERE OBSERVED
-- 10/23 03:29 [FirstSquawk/DeItaone] PUTIN ON EASTERN UKRAINE: “THAT’S HISTORICALLY RUSSIAN LAND”
-- 10/23 03:29 [DeItaone] Pretty useful I have to admit. I actually learned something
-- 10/23 03:31 [financialjuice] NYMEX WTI crude Dec. futures settle at $99.47 a barrel, up $2.32, 2.39%
-- 10/23 03:31 [financialjuice] NYMEX diesel Nov. futures settle at $4.9321 a gallon
-- 10/23 03:31 [FirstSquawk] PUTIN SAYS RUSSIA HAS NO PLANS TO GO TO WAR WITH EUROPE
-- 10/23 03:32 [financialjuice] NYMEX gasoline Nov. futures settle at $3.1765 a gallon
-- 10/23 03:32 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 2.39% HIGHER AT $99.47/BBL, UP $2.32
-- 10/23 03:32 [FirstSquawk] GOLD PRICES DECLINE AMID SURGE IN ETF AND CENTRAL BANK PURCHASES
-- 10/23 03:33 [financialjuice] Saudi-led Coalition: Destroyed Houthi missile toward Najran
-- 10/23 03:34 [FirstSquawk] SAUDI-LED COALITION: INTERCEPTED, DESTROYED BALLISTIC MISSILE LAUNCHED BY HOUTHIS TOWARD NAJRAN
-- 10/23 03:36 [FirstSquawk] STARLINK CONNECTIVITY RESTRICTIONS PROMPTING U.S. LAWMAKERS TO DEMAND INQUIRY INTO SPACEX'S ROLE IN UKRAINE DEFENSE
-- 10/23 03:36 [financialjuice] Putin: Trilateral talks will be about ensuring the security of Russia and Ukraine; European security should also be discussed
-- 10/23 03:38 [FirstSquawk] JD VANCE SHIFTS BLAME TO EUROPE OVER UKRAINE'S STARLINK ISSUES, DEFENDS ELON MUSK
-- 10/23 03:43 [financialjuice] Brent crude futures settle at $113.17/bbl, up $4.35, 4%
-- 10/23 03:45 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 4.00% HIGHER AT $113.17/BBL, UP $4.35
-- 10/23 03:47 [FirstSquawk] US OFFICIAL: FLORIDA LEBANON-ISRAEL TALKS END WITHOUT BREAKTHROUGH — AL ARABIYA
-- 10/23 03:48 [financialjuice] US source to Al Arabiya: The Florida meetings between Lebanon and Israel ended without a breakthrough
-- 10/23 04:01 [financialjuice/FirstSquawk] UK's Chancellor Healey to scale back business asset disposal relief - Telegraph
-- 10/23 04:07 [financialjuice] US Treasury Investor Flows Foreign investors in latest biweekly reporting period buy $5.488B 30-year bond due 08/15/2056 vs $9.307B prior month Investment funds in latest biweekly reporting period buy $14.572B 30-year bond due 08/15/2056 vs…
-- 10/23 04:13 [FirstSquawk] US SOURCE TO AL ARABIYA: FLORIDA MEETINGS BETWEEN LEBANON & ISRAEL END WITHOUT BREAKTHROUGH
-- 10/23 04:19 [FirstSquawk] OIL FUTURES POST SHARPEST WEEKLY DROP SINCE APRIL AMID UNCERTAINTY OVER U.S.-IRAN CEASEFIRE
-- 10/23 04:23 [financialjuice] Friday FX Option Expiries
-- 10/23 04:27 [financialjuice] White House: Trump signed an executive order addressing housing costs
-- 10/23 04:27 [financialjuice] White House: Trump decreases housing costs for Americans
-- 10/23 04:27 [FirstSquawk] ROMANIAN PRESIDENT NICUȘOR DAN SAID RUSSIA APPEARS MORE FOCUSED ON ESCALATING THE UKRAINE WAR THAN PURSUING PEACE, URGING NATO MEMBERS TO BOOST READINESS WHILE AVOIDING FURTHER ESCALATION.
-- 10/23 04:28 [FirstSquawk] ROMANIAN PRESIDENT NICUȘOR DAN DOUBTED MOSCOW’S READINESS FOR A DEAL DESPITE ONGOING US-LED DIPLOMACY, AS ROMANIA AND OTHER EU MEMBERS PREPARE FOR POTENTIAL RUSSIAN HYBRID THREATS, INCLUDING DRONE INCURSIONS, CYBERATTACKS AND DISINFORMATION…
-- 10/23 04:28 [financialjuice] US housing order seeks to cut mortgage insurance premiums
-- 10/23 04:28 [FirstSquawk] WHITE HOUSE SAYS TRUMP HAS SIGNED AN EXECUTIVE ORDER ADDRESSING HOUSING COSTS, DECREASING HOUSING COSTS FOR AMERICANS
-- 10/23 04:33 [FirstSquawk] GOLD DROPS 2.57% TO $4,034.76 AS MARKET CUES POINT TO YEN INTERVENTION OR AI-RELATED LIQUIDATIONS
-- 10/23 04:37 [financialjuice] OpenAI: Making decisions API generally available
-- 10/23 04:38 [financialjuice] OpenAI's Decisions API priced at $0.10 per million input tokens
-- 10/23 04:38 [financialjuice] OpenAI: Cached input costs $0.01 per million tokens
-- 10/23 04:41 [financialjuice] US money-market fund assets rise to $7.94 trillion at ICI
-- 10/23 04:41 [FirstSquawk] U.S. BANKS FACE RISING CYBER THREATS AS AI-POWERED ATTACKS GROW MORE WIDESPREAD
-- 10/23 04:44 [FirstSquawk] OPENAI SAYS IT IS MAKING ITS DECISIONS API GENERALLY AVAILABLE, PRICED AT $0.10 PER MLN INPUT TOKENS, WITH CACHED INPUT COSTING $0.01 PER MLN TOKENS
-- 10/23 04:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: 2932.6 MLN NASDAQ 100: 1994.0 MLN DOW 30: 494.6 MLN MAG 7: 733.2 MLN $MACRO
-- 10/23 04:55 [financialjuice/FirstSquawk] US Treasury Secretary Bessent and Paraguay's Pena discussed critical minerals - US Treasury
-- 10/23 05:02 [FirstSquawk] NASDAQ CLOSES 2.64% LOWER AT 25,999.35, DOWN 703.50 POINTS
-- 10/23 05:02 [FirstSquawk] S&P 500 CLOSES 1.24% LOWER AT 7,661.33, DOWN 95.84 POINTS
-- 10/23 05:02 [FirstSquawk] DOW JONES CLOSES 0.01% LOWER AT 52,853.21, DOWN 2.88 POINTS
-- 10/23 05:03 [FirstSquawk] NASDAQ POSTS BIGGEST DAILY PERCENTAGE DROP SINCE JUNE 5
-- 10/23 05:07 [FirstSquawk] WESTERN DIGITAL Q1 2027 NET REVENUE $4.38 BLN, ABOVE ESTIMATE OF $4.15 BLN, WITH ADJUSTED EPS $4.64, WELL ABOVE ESTIMATE OF $4.10
-- 10/23 05:07 [FirstSquawk] WESTERN DIGITAL SEES Q2 REVENUE $5.0 BLN TO $5.2 BLN, Q2 ADJUSTED EPS $5.60 TO $6.00 AND Q2 OPERATING EXPENSES $400 MLN TO $410 MLN
-- 10/23 05:07 [FirstSquawk] NEWMONT Q3 2026 REVENUE $6.36 BLN, ABOVE ESTIMATE OF $6.28 BLN, WITH ADJUSTED EPS $2.20, ABOVE ESTIMATE OF $2.08, AND ADJUSTED NET INCOME $2.31 BLN
-- 10/23 05:07 [FirstSquawk] NEWMONT Q3 ATTRIBUTABLE GOLD PRODUCTION 1.30 MLN OZ, WITH THE COMPANY ADVANCING THE RED CHRIS BLOCK CAVE TOWARDS A FULL-FUNDS INVESTMENT DECISION IN EARLY 2027
-- 10/23 05:08 [FirstSquawk] U.S. CDC WILL IMPOSE EBOLA ATTESTATION REQUIREMENTS FOR ALL AIRLINE PASSENGERS DEPARTING FOREIGN COUNTRIES FOR THE U.S. EFFECTIVE NOVEMBER 3, WITH U.S.-BOUND PASSENGERS REQUIRED TO COMPLETE DIGITAL OR PAPER ATTESTATIONS THAT THEY HAVE NOT B…
-- 10/23 05:12 [financialjuice] SpaceX lower-rated debt to price at ~8.3% - Semafor $SPCX
-- 10/23 05:14 [financialjuice] SpaceX debt deal being led by Apollo and Goldman Sachs - Semafor $SPCX $GS
-- 10/23 05:16 [financialjuice] Trump on Russia and Ukraine: We'll see how it works out
-- 10/23 05:17 [FirstSquawk] A SPACEX DEBT DEAL IS BEING LED BY APOLLO AND GOLDMAN SACHS, WITH SPACEX’S LOWER-RATED DEBT TO PRICE AT ABOUT 8.3% - SEMAFOR
-- 10/23 05:18 [FirstSquawk] TRUMP, ASKED ON CALLING MUSK, SAYS HE DOES NOT WANT TO SAY BUT THAT HIS RELATIONSHIP WITH MUSK IS A GOOD ONE, ADDING ON RUSSIA AND UKRAINE THAT “WE’LL SEE HOW IT WORKS OUT”
-- 10/23 05:20 [financialjuice] Tech Selloff and Middle East Tensions Trigger Treasury Rally as Oil Surges - US Market Wrap
-- 10/23 05:20 [financialjuice] OpenAI in talks to secure more computing capacity from UAE - CNBC
-- 10/23 05:21 [financialjuice] OpenAI aims to secure signatures by the end of next week - CNBC
-- 10/23 05:23 [financialjuice] US Secretary of State Rubio and NATO Sec. Gen. Rutte discussed black sea security
-- 10/23 05:26 [financialjuice] Alphabet board declares $15.63/share preferred dividend $GOOGL
-- 10/23 05:26 [financialjuice] Trump on Iran: May do it a little bit further
-- 10/23 05:28 [financialjuice] Trump ends remarks at the White House
-- 10/23 05:30 [DeItaone] *OPENAI NEARS UP TO $30B FUNDING ROUND AT $1.25T VALUATION:CNBC
-- 10/23 05:34 [FirstSquawk] GLOBAL STOCKS SLUMPED AS AI SPENDING CONCERNS TRIGGERED A TECH SELLOFF, WITH THE S&P 500 DOWN 1.2%, NASDAQ 100 FALLING 2.9% AND SEMICONDUCTORS DROPPING 6.7%; DEADLY ATTACKS IN SAUDI ARABIA PUSHED BRENT ABOVE $113/BARREL, RAISING SUPPLY DISR…
-- 10/23 05:36 [FirstSquawk] FITCH HAS REVISED ITS 2027 SECTOR OUTLOOK FOR AIRCRAFT LESSORS TO DETERIORATING BUT EXPECTS LESSORS’ CREDIT PROFILES TO REMAIN RESILIENT DESPITE MACRO RISKS, ADDING THAT SUSTAINED HIGH FUEL PRICES, AIRSPACE DISRUPTION AND HIGHER BORROWING C…
-- 10/23 05:38 [FirstSquawk] SIXTEEN PEOPLE WERE KILLED AND 32 INJURED AFTER A 7.0-MAGNITUDE QUAKE HIT CHINA’S XIZANG, WITH 11 OF THE INJURED IN SERIOUS CONDITION AND 21 SUSTAINING MINOR INJURIES AS OF 2:25 A.M. FRIDAY - XINHUA
-- 10/23 05:39 [DeItaone] TRUMP WARNS OF FURTHER STRIKES ON IRAN President Trump says the U.S. has “knocked the hell out of Iran” and “may do it a little bit further.”
-- 10/23 05:43 [financialjuice] SpaceX: Any potential Tesla combination would be subject to further approval by our special committee, board & controlling shareholder $TSLA $SPCX
-- 10/23 05:43 [financialjuice] Trump invokes the Defense Production Act for Petroleum capacity
-- 10/23 05:44 [financialjuice] Trump sends US Sec. of Defense Hegseth memo about the Defense Production Act and oil
-- 10/23 05:47 [FirstSquawk] COCA-COLA COMPANY SAYS IT HAS SELECTED AGENCY PARTNERS TO ACCELERATE THE FUTURE OF MARKETING, RETAINING WPP OPEN X AS ITS GLOBAL MEDIA PARTNER EXCEPT IN NORTH AMERICA, JAPAN AND SOUTH KOREA, AND SELECTING OMNICOM AS ITS MEDIA PARTNER IN NOR…
-- 10/23 05:47 [FirstSquawk] COCA-COLA SAYS DENTSU CONTINUES AS ITS MEDIA PARTNER IN JAPAN AND SOUTH KOREA, WPP OPEN X CONTINUES AS ITS GLOBAL CREATIVE PARTNER, AND THE NEW MARKETING STRUCTURE WILL BE IMPLEMENTED IN PHASES BEGINNING DECEMBER 1
-- 10/23 05:52 [FirstSquawk] TRUMP INVOKES DEFENSE PRODUCTION ACT FOR PETROLEUM CAPACITY, SENDS DEFSEC HEGSETH MEMO ON DEFENSE PRODUCTION ACT AND OIL
-- 10/23 06:04 [financialjuice] US 5-YEAR TIPS HIGH YIELD ACTUAL 2.367% (FORECAST -, PREVIOUS 1.955%) $MACRO
-- 10/23 06:04 [financialjuice] US 5-YEAR TIPS BID-TO-COVER ACTUAL 2.410 (FORECAST -, PREVIOUS 2.610) $MACRO
-- 10/23 06:10 [financialjuice/FirstSquawk] Google announces general availability of an Anthropic-managed deployment option for Claude models on Google Cloud
-- 10/23 06:19 [FirstSquawk] SPACEX: ANY POTENTIAL TESLA COMBINATION WOULD BE SUBJECT TO FURTHER APPROVAL BY OUR SPECIAL COMMITTEE, BOARD & CONTROLLING SHAREHOLDER
-- 10/23 06:20 [FirstSquawk] THE U.S. 5-YEAR TIPS AUCTION DREW A HIGH YIELD OF 2.367%, UP FROM 1.955% PREVIOUSLY, WITH A BID-TO-COVER RATIO OF 2.410, DOWN FROM 2.610
-- 10/23 06:21 [FirstSquawk] S&P DOW JONES INDICES SAYS MSG RANGERS AND HURON CONSULTING GROUP ARE SET TO JOIN THE S&P SMALLCAP 600, WITH HURON CONSULTING GROUP REPLACING SUPERNUS PHARMACEUTICALS EFFECTIVE PRIOR TO THE OPENING OF TRADING ON NOVEMBER 2
-- 10/23 06:24 [FirstSquawk] CITIGROUP SAYS IT ELECTED JAMES FLANAGAN AS A DIRECTOR AND APPOINTED HIM TO THE AUDIT COMMITTEE ON OCTOBER 21, 2026, WITH FLANAGAN ALSO APPOINTED AS A BOARD MEMBER OF CITIBANK, N.A. - SEC FILING
-- 10/23 06:25 [FirstSquawk] RIO TINTO SAYS IT IS INVESTING $1.9 BLN TO DEVELOP THE KANGWINAN BAUXITE PROJECT, A BROWNFIELD INVESTMENT THAT WILL REPLACE PRODUCTION FROM THE ANDOOM MINE NEAR WEIPA AS IT REACHES THE END OF ITS LIFE THIS DECADE
-- 10/23 06:25 [FirstSquawk] RIO TINTO SAYS CONSTRUCTION WILL RAMP UP IN 2027 AND IS EXPECTED TO SUPPORT MORE THAN 1,300 CONSTRUCTION JOBS, WITH THE PROJECT ADDING 20 MLN TONNES OF ANNUAL BAUXITE PRODUCTION CAPACITY IN WEIPA, FIRST OUTPUT TARGETED IN 2029 AND FULL PROD…
-- 10/23 06:39 [FirstSquawk] GENERAL MOTORS CANCELLED A LONG-TERM SUPPLY DEAL FOR RARE-EARTH MAGNETS AT A FACTORY DUE TO BE ACQUIRED BY ENERGY FUELS, SEC DOCUMENTS SHOW, WITH PLANT OWNER VACUUMSCHMELZE HAVING FILED FOR ARBITRATION AND SEEKING DAMAGES FROM GM
-- 10/23 07:00 [financialjuice] AUSTRALIAN SERVICES PMI FLASH ACTUAL 47.8 (FORECAST -, PREVIOUS 51.9) $MACRO
-- 10/23 07:00 [financialjuice] AUSTRALIAN COMPOSITE PMI FLASH ACTUAL 47.7 (FORECAST -, PREVIOUS 51.3) $MACRO
-- 10/23 07:00 [financialjuice] AUSTRALIAN MANUFACTURING PMI FLASH ACTUAL 49.7 (FORECAST -, PREVIOUS 49.6) $MACRO
-- 10/23 07:00 [financialjuice] Australia S&P global October flash manufacturing PMI at 49.7 vs 49.6 in September
-- 10/23 07:00 [financialjuice] Australia S&P Global October Flash Composite PMI at 47.7 vs 51.3 in September
-- 10/23 07:00 [financialjuice] Australia S&P Global October Flash Services PMI at 47.8 vs 51.9 in September
-- 10/23 07:00 [financialjuice] Saudi-led coalition: intercepted and destroyed two drones targeting southern region
-- 10/23 07:07 [FirstSquawk] AUSTRALIA S&P GLOBAL OCTOBER FLASH COMPOSITE PMI FELL TO 47.7 FROM 51.3 IN SEPTEMBER, WITH THE SERVICES PMI DROPPING TO 47.8 FROM 51.9 AND THE MANUFACTURING PMI EDGING UP TO 49.7 FROM 49.6
-- 10/23 07:11 [FirstSquawk] NIKKEI FUTURES TRADE AT 62,500 VERSUS A CASH CLOSE OF 62,907
 - 10/23 07:15 [FirstSquawk] TRUMP, ASKED ABOUT ZELENSKIY SAYING NEW RUSSIAN STRIKES OVERNIGHT ARE PROOF PUTIN DOES NOT WANT PEACE, SAYS “WE WILL SEE HOW IT WORKS OUT,” ADDING THAT THIS HAS BEEN HAPPENING A LOT
 - 10/23 07:15 [FirstSquawk] TRUMP, ON UKRAINE’S STARLINK ACCESS, SAYS HE DOES NOT WANT TO COMMENT ON WHETHER HE OR SOMEBODY ELSE CALLED, ADDING THAT THE BOTTOM LINE IS “HE PUT IT BACK”
 - 10/23 07:15 [FirstSquawk] TRUMP SAYS HE WANTS HIS PEOPLE TO BE HONEST, AND THAT IF THEY ARE NOT GOING TO BE HONEST, THEY HAVE TO BE PROSECUTED
@@ -296,3 +191,81 @@
 - 10/23 14:14 [financialjuice] XAMD CEO: demand exceeds expectations
 - 10/23 14:15 [financialjuice] XAMD CEO forecasts very high demand for...
 - 10/23 14:15 [financialjuice] Fitch assigns rating to tender option bond series
+- 10/23 14:15 [financialjuice] JAPANESE CHAIN STORE SALES YOY ACTUAL 1% (FORECAST -, PREVIOUS 0%) $MACRO
+- 10/23 14:29 [FirstSquawk] Volvo Q3 Adjusted Operating Profit Comes in at SEK 14.69 Billion; Truck Order Intake Beats Forecasts
+- 10/23 14:44 [FirstSquawk] Iran Warns of Expanded Attacks on Economic and Civilian Sites in Response to US Strike, WSJ Says
+- 10/23 14:53 [FirstSquawk] Volvo Cars CEO Leaves Door Open to Additional Measures, Will Evaluate Results in February
+- 10/23 15:00 [financialjuice] ❗ UK RETAIL SALES YOY ACTUAL 0.8% (FORECAST 1%, PREVIOUS 2.4%) $MACRO
+- 10/23 15:00 [financialjuice] UK CORE RETAIL SALES YOY ACTUAL 0.8% (FORECAST 1.4%, PREVIOUS 2.7%) $MACRO
+- 10/23 15:00 [financialjuice] ❗ UK CORE RETAIL SALES MOM ACTUAL -0.7% (FORECAST -0.1%, PREVIOUS 0.6%) $MACRO
+- 10/23 15:00 [financialjuice] ‼ BREAKING: UK RETAIL SALES MOM ACTUAL -0.4% (FORECAST -0.1%, PREVIOUS 0.5%) $MACRO
+- 10/23 15:01 [financialjuice] UK Retail Sales September 2026 Report
+- 10/23 15:02 [FirstSquawk] UK (SEP) RETAIL SALES EX AUTO FUEL YOY ACTUAL: 0.8% VS 2.7% PREVIOUS;EST 1.4%
+- 10/23 15:02 [FirstSquawk] UK (SEP) RETAIL SALES EX AUTO FUEL MOM ACTUAL: -0.7% VS 0.6% PREVIOUS;EST -0.1%
+- 10/23 15:02 [FirstSquawk] UK (SEP) RETAIL SALES INC AUTO FUEL YOY ACTUAL: 0.8% VS 2.4% PREVIOUS;EST 1.0%
+- 10/23 15:02 [FirstSquawk] UK (SEP) RETAIL SALES INC AUTO FUEL MOM ACTUAL: -0.4% VS 0.5% PREVIOUS;EST -0.1%
+- 10/23 15:03 [FirstSquawk] BOJ Financial Stability Report Finds Japan’s Financial System Broadly Stable and Free of Major Imbalances
+- 10/23 15:07 [financialjuice] BoJ: It's Necessary to continue to carefully monitor the impact that factors such as the Middle East situation, AI-related investment, and non-bank sector developments
+- 10/23 15:08 [financialjuice] BoJ: Developments in asset prices, such as real estate prices and stock prices, continue to warrant careful attention
+- 10/23 15:08 [financialjuice] BoJ: Japan banks can withstand stress from oil and AI risks
+- 10/23 15:08 [financialjuice] BoJ: The possibility of growing concentration in private funds' portfolios warrants attention
+- 10/23 15:09 [financialjuice] BoJ: Higher raw material and energy prices appear to be exerting downward pressure on profits, particularly at SMEs
+- 10/23 15:09 [financialjuice] BoJ: Certain firms are relatively susceptible to higher crude oil prices
+- 10/23 15:10 [FirstSquawk] BOJ Flags Profit Pressures From Rising Raw Material and Energy Prices, With Some Firms Vulnerable to Higher Oil Costs
+- 10/23 15:23 [FirstSquawk] Volvo Cars Commercial Chief Says Company Must Be Selective About Where It Competes in the US
+- 10/23 15:39 [FirstSquawk] Volvo Cars CEO Sees Limited Scope for China Improvement Until Six China-Specific Models Arrive
+- 10/23 15:49 [financialjuice] China vows action after US curbs on research ties
+- 10/23 15:50 [financialjuice] China's Commerce Ministry: Urges the US to respect the facts, immediately stop the wrongful practice of discriminatory measures against Chinese research institutions
+- 10/23 15:55 [FirstSquawk] BOJ Policy and Capital Flows Support Japanese Yen Gains Against US Dollar, Commerzbank Says-FX
+- 10/23 16:01 [financialjuice] Currency Strength Chart: Strongest: NZD, AUD, USD, CAD, EUR, GBP, JPY, CHF - Weakest
+- 10/23 16:15 [financialjuice] FRENCH SERVICES PMI FLASH ACTUAL 48.4 (FORECAST 50.7, PREVIOUS 51.2) $MACRO
+- 10/23 16:15 [financialjuice] ‼ BREAKING: FRENCH MANUFACTURING PMI FLASH ACTUAL 49.3 (FORECAST 50.5, PREVIOUS 50.6) $MACRO
+- 10/23 16:15 [financialjuice] FRENCH COMP FLASH PMI ACTUAL 48.4 (FORECAST 50.3, PREVIOUS 51.1) $MACRO
+- 10/23 16:15 [FirstSquawk] France S&P Global Manufacturing PMI Oct P: 49.3 (est 50.5; prev 50.6) - Services PMI: 48.4 (est 50.7; prev 51.2) - Composite PMI: 48.4 (est 50.7; prev 51.2)
+- 10/23 16:17 [financialjuice] French Manufacturing PMI Flash October 2026 Report
+- 10/23 16:28 [financialjuice] Russia attacked Ukrainian energy infrastructure in 6 regions, knocking out power for over 500,000 people - energy ministry
+- 10/23 16:30 [financialjuice] ❗ GERMAN SERVICE PMI FLASH ACTUAL 51.7 (FORECAST 52.5, PREVIOUS 52.9) $MACRO
+- 10/23 16:30 [financialjuice] ❗ GERMAN COMPOSITE PMI FLASH ACTUAL 52.8 (FORECAST 53.4, PREVIOUS 53.8) $MACRO
+- 10/23 16:30 [FirstSquawk] GERMANY OCT COMPOSITE PMI FALLS TO 52.8; FORECAST 53.4
+- 10/23 16:30 [financialjuice] ‼ BREAKING: GERMAN MANUFACTURING PMI FLASH ACTUAL 54.2 (FORECAST 53.5, PREVIOUS 53.9) $MACRO
+- 10/23 16:32 [financialjuice] German Manufacturing PMI Flash October 2026 Report
+- 10/23 16:49 [FirstSquawk] CANADA'S PM CARNEY SAYS "THERE ARE GOOD CHANCES" FOR ATKINSREALIS TO PARTNER IN BUILDING A NUCLEAR POWER PLANT IN TURKEY.
+- 10/23 16:49 [FirstSquawk] CANADA PM CARNEY DISCUSSED LGBTQ RIGHTS CONCERNS IN TURKEY MEETINGS.
+- 10/23 16:49 [FirstSquawk] JAPAN'S PRIME MINISTER TAKAICHI PLANS TO TELL THE INDUSTRY MINISTER TO BEGIN A REVIEW OF GASOLINE SUBSIDIES.
+- 10/23 17:00 [financialjuice] EUROZONE COMPOSITE PMI FLASH ACTUAL 51.9 (FORECAST 52.7, PREVIOUS 53.1) $MACRO
+- 10/23 17:00 [financialjuice] ❗ EUROZONE MANUFACTURING PMI FLASH ACTUAL 52.4 (FORECAST 52.8, PREVIOUS 52.9) $MACRO
+- 10/23 17:00 [financialjuice] EUROZONE SERVICES PMI FLASH ACTUAL 51.7 (FORECAST 52.5, PREVIOUS 53.0) $MACRO
+- 10/23 17:00 [financialjuice] ECB's consumer survey: Inflation expectations 12 months ahead rose to 3.1% in Sept vs 3.0% in Aug
+- 10/23 17:00 [financialjuice] ECB's consumer survey: Inflation expectations 3 years ahead unchanged at 2.9%
+- 10/23 17:01 [financialjuice] Japan's PM Takaichi: Will instruct the industry minister to start conducting a review of gasoline subsidies
+- 10/23 17:01 [financialjuice] Eurozone Manufacturing PMI Flash October 2026 Report
+- 10/23 17:03 [FirstSquawk] EUROZONE OCTOBER COMPOSITE PMI DROPS TO 51.9, LOWER THAN EXPECTED FORECAST OF 52.7.
+- 10/23 17:03 [FirstSquawk] U.S. S&P 500 E-MINI FUTURES FELL BY 0.08%, NASDAQ 100 FUTURES ROSE BY 0.13%, AND DOW FUTURES DROPPED BY 0.38%.
+- 10/23 17:13 [FirstSquawk] BOJ BELIEVES INFLATION NEEDS TO STABILIZE NEAR ITS GOAL, ACCORDING TO SOURCES.
+- 10/23 17:13 [FirstSquawk] BOJ REPORTS THAT INTEREST RATES ARE STILL FAR FROM NEUTRAL.
+- 10/23 17:14 [FirstSquawk] BOJ IS EXPECTED TO CONTINUE RAPID RATE HIKES, FOCUSING ON DECEMBER.
+- 10/23 17:14 [FirstSquawk] IDF STARTS MILITARY ACTION IN WEST BANK FOLLOWING SHOOTING INCIDENT.
+- 10/23 17:14 [FirstSquawk] FRENCH TRADE MINISTER ASKS FOR TARIFF EXEMPTION ON COGNAC AND CHAMPAGNE IN THE US.
+- 10/23 17:23 [FirstSquawk/financialjuice] IRAN CLAIMS 'ILLICIT' VESSEL TRAFFIC IN HORMUZ STOPPED - FARS
+- 10/23 17:26 [financialjuice] UK Treasury Minister Murray: UK fiscal rules underpin the economy's stability
+- 10/23 17:26 [financialjuice] UK Treasury Minister Murray: UK budget takes place in an uncertain world
+- 10/23 17:28 [financialjuice] UK Treasury Minister Murray: The UK is focused on entrepreneurs and helping businesses grow
+- 10/23 17:28 [financialjuice] UK Treasury Minister Murray: Period of unprecedented global economic unstability
+- 10/23 17:30 [financialjuice] ‼ BREAKING: UK SERVICES PMI FLASH ACTUAL 53.1 (FORECAST 51.8, PREVIOUS 52.1) $MACRO
+- 10/23 17:30 [financialjuice] ❗ UK MANUFACTURING PMI FLASH ACTUAL 52.8 (FORECAST 51.8, PREVIOUS 51.9) $MACRO
+- 10/23 17:30 [financialjuice] ❗ UK COMPOSITE PMI FLASH ACTUAL 53.1 (FORECAST 51.7, PREVIOUS 52.0) $MACRO
+- 10/23 17:30 [FirstSquawk] UK SERVICES PMI FOR OCTOBER INCREASES TO 53.1, ABOVE EXPECTATION OF 51.8.
+- 10/23 17:30 [FirstSquawk] UK OCTOBER COMPOSITE PMI JUMPS TO 53.1, BEATING ESTIMATE OF 51.7.
+- 10/23 17:33 [financialjuice] UK Flash PMI October 2026 Report
+- 10/23 18:02 [FirstSquawk] CHINA RELEASES GUIDELINES TO ADAPT AI DEVELOPMENT FOR JOB-CREATION FRIENDLY GROWTH MODEL.
+- 10/23 18:03 [FirstSquawk] CHINA PLANS TO CREATE A RISK ASSESSMENT SYSTEM TO LESSEN AI-RELATED JOB LOSS, ACCORDING TO XINHUA.
+- 10/23 18:03 [FirstSquawk] CHINA PLANS TO SPEED UP THE GROWTH OF NEW JOBS IN THE AI SECTOR.
+- 10/23 18:06 [FirstSquawk] ANTHROPIC TO BACK NEW EUROPEAN CONSULTANCY WITH HG - FT
+- 10/23 18:08 [financialjuice] China to reduce AI's negative impact on employment - Xinhua
+- 10/23 18:22 [FirstSquawk] TRUMP ADMINISTRATION HALTS PROGRAM THAT REWARDS ALLIES FOR ALIGNING WITH EXPORT CONTROLS.
+- 10/23 18:23 [FirstSquawk] GERMAN CHANCELLOR MERZ TO VISIT JAPAN OCT 28-29
+- 10/23 18:23 [financialjuice] German Chancellor Merz to visit Japan October 28-29th
+- 10/23 18:36 [financialjuice] Kremlin: Ukraine talks in Abu Dhabi set for early November. Ukraine talks will be in a three-party format - IFX
+- 10/23 18:37 [FirstSquawk] GERMAN GOVERNMENT SPOKESPERSON SAYS CHANCELLOR MERZ WILL BE TRAVELLING TO JAPAN, SOUTH KOREA AND SINGAPORE FROM MONDAY
+- 10/23 18:51 [FirstSquawk] GERMAN GOVERNMENT SPOKESPERSON SAYS ELECTRICITY TAX CUT IS CLEARLY ON THE AGENDA BUT WILL BE CONTINGENT ON SUFFICIENT BUDGET FINANCING
+- 10/23 18:54 [FirstSquawk] GERMAN MINISTRY SPOKESPERSON SAYS ELECTRICITY TAX CUT WOULD MEAN REDUCTION OF ABOUT €5 BILLION IN ANNUAL TAX REVENUES
