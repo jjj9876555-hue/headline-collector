@@ -7,74 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-24 04:10 JST／対象: 10/23 16:10 〜 10/24 04:10 JST（時刻はすべて日本時間）
+生成: 2026-10-24 07:08 JST／対象: 10/23 19:08 〜 10/24 07:08 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 37 | 10/23 20:19 | 10/24 03:11 | ⚠ 128分（01:01→03:09） |
-| FirstSquawk | 93 | 10/23 16:15 | 10/24 04:03 | 36分（18:54→19:30） |
-| financialjuice | 100 | 10/23 16:15 | 10/24 03:02 | ⚠ 84分（19:30→20:55） |
+| DeItaone | 40 | 10/23 20:19 | 10/24 05:02 | ⚠ 128分（01:01→03:09） |
+| FirstSquawk | 76 | 10/23 19:30 | 10/24 05:03 | 27分（02:01→02:28） |
+| financialjuice | 94 | 10/23 19:27 | 10/24 06:38 | ⚠ 84分（19:30→20:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 219 行（統合前 230 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 196 行（統合前 210 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/23 16:15 [financialjuice] FRENCH SERVICES PMI FLASH ACTUAL 48.4 (FORECAST 50.7, PREVIOUS 51.2) $MACRO
-- 10/23 16:15 [financialjuice] ‼ BREAKING: FRENCH MANUFACTURING PMI FLASH ACTUAL 49.3 (FORECAST 50.5, PREVIOUS 50.6) $MACRO
-- 10/23 16:15 [financialjuice] FRENCH COMP FLASH PMI ACTUAL 48.4 (FORECAST 50.3, PREVIOUS 51.1) $MACRO
-- 10/23 16:15 [FirstSquawk] France S&P Global Manufacturing PMI Oct P: 49.3 (est 50.5; prev 50.6) - Services PMI: 48.4 (est 50.7; prev 51.2) - Composite PMI: 48.4 (est 50.7; prev 51.2)
-- 10/23 16:17 [financialjuice] French Manufacturing PMI Flash October 2026 Report
-- 10/23 16:28 [financialjuice] Russia attacked Ukrainian energy infrastructure in 6 regions, knocking out power for over 500,000 people - energy ministry
-- 10/23 16:30 [financialjuice] ❗ GERMAN SERVICE PMI FLASH ACTUAL 51.7 (FORECAST 52.5, PREVIOUS 52.9) $MACRO
-- 10/23 16:30 [financialjuice] ❗ GERMAN COMPOSITE PMI FLASH ACTUAL 52.8 (FORECAST 53.4, PREVIOUS 53.8) $MACRO
-- 10/23 16:30 [FirstSquawk] GERMANY OCT COMPOSITE PMI FALLS TO 52.8; FORECAST 53.4
-- 10/23 16:30 [financialjuice] ‼ BREAKING: GERMAN MANUFACTURING PMI FLASH ACTUAL 54.2 (FORECAST 53.5, PREVIOUS 53.9) $MACRO
-- 10/23 16:32 [financialjuice] German Manufacturing PMI Flash October 2026 Report
-- 10/23 16:49 [FirstSquawk] CANADA'S PM CARNEY SAYS "THERE ARE GOOD CHANCES" FOR ATKINSREALIS TO PARTNER IN BUILDING A NUCLEAR POWER PLANT IN TURKEY.
-- 10/23 16:49 [FirstSquawk] CANADA PM CARNEY DISCUSSED LGBTQ RIGHTS CONCERNS IN TURKEY MEETINGS.
-- 10/23 16:49 [FirstSquawk] JAPAN'S PRIME MINISTER TAKAICHI PLANS TO TELL THE INDUSTRY MINISTER TO BEGIN A REVIEW OF GASOLINE SUBSIDIES.
-- 10/23 17:00 [financialjuice] EUROZONE COMPOSITE PMI FLASH ACTUAL 51.9 (FORECAST 52.7, PREVIOUS 53.1) $MACRO
-- 10/23 17:00 [financialjuice] ❗ EUROZONE MANUFACTURING PMI FLASH ACTUAL 52.4 (FORECAST 52.8, PREVIOUS 52.9) $MACRO
-- 10/23 17:00 [financialjuice] EUROZONE SERVICES PMI FLASH ACTUAL 51.7 (FORECAST 52.5, PREVIOUS 53.0) $MACRO
-- 10/23 17:00 [financialjuice] ECB's consumer survey: Inflation expectations 12 months ahead rose to 3.1% in Sept vs 3.0% in Aug
-- 10/23 17:00 [financialjuice] ECB's consumer survey: Inflation expectations 3 years ahead unchanged at 2.9%
-- 10/23 17:01 [financialjuice] Japan's PM Takaichi: Will instruct the industry minister to start conducting a review of gasoline subsidies
-- 10/23 17:01 [financialjuice] Eurozone Manufacturing PMI Flash October 2026 Report
-- 10/23 17:03 [FirstSquawk] EUROZONE OCTOBER COMPOSITE PMI DROPS TO 51.9, LOWER THAN EXPECTED FORECAST OF 52.7.
-- 10/23 17:03 [FirstSquawk] U.S. S&P 500 E-MINI FUTURES FELL BY 0.08%, NASDAQ 100 FUTURES ROSE BY 0.13%, AND DOW FUTURES DROPPED BY 0.38%.
-- 10/23 17:13 [FirstSquawk] BOJ BELIEVES INFLATION NEEDS TO STABILIZE NEAR ITS GOAL, ACCORDING TO SOURCES.
-- 10/23 17:13 [FirstSquawk] BOJ REPORTS THAT INTEREST RATES ARE STILL FAR FROM NEUTRAL.
-- 10/23 17:14 [FirstSquawk] BOJ IS EXPECTED TO CONTINUE RAPID RATE HIKES, FOCUSING ON DECEMBER.
-- 10/23 17:14 [FirstSquawk] IDF STARTS MILITARY ACTION IN WEST BANK FOLLOWING SHOOTING INCIDENT.
-- 10/23 17:14 [FirstSquawk] FRENCH TRADE MINISTER ASKS FOR TARIFF EXEMPTION ON COGNAC AND CHAMPAGNE IN THE US.
-- 10/23 17:23 [FirstSquawk/financialjuice] IRAN CLAIMS 'ILLICIT' VESSEL TRAFFIC IN HORMUZ STOPPED - FARS
-- 10/23 17:26 [financialjuice] UK Treasury Minister Murray: UK fiscal rules underpin the economy's stability
-- 10/23 17:26 [financialjuice] UK Treasury Minister Murray: UK budget takes place in an uncertain world
-- 10/23 17:28 [financialjuice] UK Treasury Minister Murray: The UK is focused on entrepreneurs and helping businesses grow
-- 10/23 17:28 [financialjuice] UK Treasury Minister Murray: Period of unprecedented global economic unstability
-- 10/23 17:30 [financialjuice] ‼ BREAKING: UK SERVICES PMI FLASH ACTUAL 53.1 (FORECAST 51.8, PREVIOUS 52.1) $MACRO
-- 10/23 17:30 [financialjuice] ❗ UK MANUFACTURING PMI FLASH ACTUAL 52.8 (FORECAST 51.8, PREVIOUS 51.9) $MACRO
-- 10/23 17:30 [financialjuice] ❗ UK COMPOSITE PMI FLASH ACTUAL 53.1 (FORECAST 51.7, PREVIOUS 52.0) $MACRO
-- 10/23 17:30 [FirstSquawk] UK SERVICES PMI FOR OCTOBER INCREASES TO 53.1, ABOVE EXPECTATION OF 51.8.
-- 10/23 17:30 [FirstSquawk] UK OCTOBER COMPOSITE PMI JUMPS TO 53.1, BEATING ESTIMATE OF 51.7.
-- 10/23 17:33 [financialjuice] UK Flash PMI October 2026 Report
-- 10/23 18:02 [FirstSquawk] CHINA RELEASES GUIDELINES TO ADAPT AI DEVELOPMENT FOR JOB-CREATION FRIENDLY GROWTH MODEL.
-- 10/23 18:03 [FirstSquawk] CHINA PLANS TO CREATE A RISK ASSESSMENT SYSTEM TO LESSEN AI-RELATED JOB LOSS, ACCORDING TO XINHUA.
-- 10/23 18:03 [FirstSquawk] CHINA PLANS TO SPEED UP THE GROWTH OF NEW JOBS IN THE AI SECTOR.
-- 10/23 18:06 [FirstSquawk] ANTHROPIC TO BACK NEW EUROPEAN CONSULTANCY WITH HG - FT
-- 10/23 18:08 [financialjuice] China to reduce AI's negative impact on employment - Xinhua
-- 10/23 18:22 [FirstSquawk] TRUMP ADMINISTRATION HALTS PROGRAM THAT REWARDS ALLIES FOR ALIGNING WITH EXPORT CONTROLS.
-- 10/23 18:23 [FirstSquawk] GERMAN CHANCELLOR MERZ TO VISIT JAPAN OCT 28-29
-- 10/23 18:23 [financialjuice] German Chancellor Merz to visit Japan October 28-29th
-- 10/23 18:36 [financialjuice] Kremlin: Ukraine talks in Abu Dhabi set for early November. Ukraine talks will be in a three-party format - IFX
-- 10/23 18:37 [FirstSquawk] GERMAN GOVERNMENT SPOKESPERSON SAYS CHANCELLOR MERZ WILL BE TRAVELLING TO JAPAN, SOUTH KOREA AND SINGAPORE FROM MONDAY
-- 10/23 18:51 [FirstSquawk] GERMAN GOVERNMENT SPOKESPERSON SAYS ELECTRICITY TAX CUT IS CLEARLY ON THE AGENDA BUT WILL BE CONTINGENT ON SUFFICIENT BUDGET FINANCING
-- 10/23 18:54 [FirstSquawk] GERMAN MINISTRY SPOKESPERSON SAYS ELECTRICITY TAX CUT WOULD MEAN REDUCTION OF ABOUT €5 BILLION IN ANNUAL TAX REVENUES
 - 10/23 19:27 [financialjuice] Global crude steel output falls 0.2% to 142.4 mln t in Sept 2026 vs Sept 2025 - Worldsteel
 - 10/23 19:27 [financialjuice] China crude steel output rises 0.1% to 73.6 mln t in Sept 2026 vs Sept 2025 - Worldsteel
 - 10/23 19:30 [financialjuice] RUSSIAN INTEREST RATE DECISION ACTUAL 14% (FORECAST 14%, PREVIOUS 14.00%) $MACRO
@@ -243,3 +192,31 @@
 - 10/24 03:57 [FirstSquawk] EGYPT, SAUDI ARABIA, TURKEY, PAKISTAN FOREIGN MINISTERS: 'ISRAELI OCCUPATION IS MAIN SOURCE OF INSTABILITY IN REGION AND BEYOND' - STATEMENT
 - 10/24 04:03 [FirstSquawk] IRAN SAYS SOUTHERN PORTS BLOCKADE CUT IMPORTS 25%: ISNA
 - 10/24 04:03 [FirstSquawk] IRAQ PM: AIMS TO GRADUALLY RAISE OIL PRODUCTION TO 10M BPD BY 2032
+- 10/24 04:12 [financialjuice] Week Ahead: Economic Indicators 26th – 30th October (US)
+- 10/24 04:13 [FirstSquawk] OPENAI: STRENGTHENED CONTAINMENT FOR FRONTIER-MODEL TRAINING
+- 10/24 04:20 [FirstSquawk] OPENAI TO TRAIN FRONTIER MODELS WITHOUT INTERNET ACCESS
+- 10/24 04:25 [financialjuice] Monday FX Options Expiries
+- 10/24 04:31 [financialjuice] CFTC Positions in the Week of October 20th 2026
+- 10/24 04:32 [financialjuice] Iran's Revolutionary Guards: Two tankers struck naval mines while trying to use an unauthorised route south of the Strait of Hormuz - State Media.
+- 10/24 04:34 [financialjuice/DeItaone] Trump: We'll take care of Cuba on our way back from Iran.
+- 10/24 04:35 [FirstSquawk] IRAN'S REVOLUTIONARY GUARDS SAY TWO TANKERS STRUCK NAVAL MINES WHILE TRYING TO USE AN UNAUTHORISED ROUTE SOUTH OF THE STRAIT OF HORMUZ - STATE MEDIA
+- 10/24 04:35 [financialjuice] Trump Holds a Rally in Ft. Myers, FL - WATCH LIVE
+- 10/24 04:36 [financialjuice] Trump on Cuba: We will send US Secretary of State Rubio in to finish up the deal.
+- 10/24 04:36 [FirstSquawk/financialjuice/DeItaone] TRUMP ON IRAN: WE MAY DO ANOTHER OPERATION AGAINST IRAN
+- 10/24 04:36 [financialjuice] Speculative traders turn most bearish on the Euro since 2020 - CFTC.
+- 10/24 04:37 [financialjuice/DeItaone] Trump: I doubt Iran will say "let's get down to business".
+- 10/24 04:38 [FirstSquawk] US PRESIDENT TRUMP: NOT EXPECTING IRAN TO SAY 'LET'S GET DOWN TO BUSINESS'
+- 10/24 04:39 [financialjuice] Trump further modifies Canadian products subject to tariffs under Section 338 to take effect on October 30th - White House.
+- 10/24 04:40 [financialjuice] Trump: We're close to ending, I hope, the Russia-Ukraine war.
+- 10/24 04:50 [FirstSquawk] ABBVIE: FDA APPROVES UPDATE TO SKYRIZI US PRESCRIBING INFORMATION ALLOWING CLINICAL JUDGMENT ON TB TESTING ACROSS ALL INDICATIONS
+- 10/24 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: -1255.7 MLN NASDAQ 100: -795.9 MLN DOW 30: 121.1 MLN MAG 7: -15.8 MLN $MACRO
+- 10/24 05:03 [FirstSquawk] NASDAQ UNOFFICIALLY CLOSES DOWN 52.66 POINTS, OR 0.20 PERCENT, AT 25,956.20 DOW JONES UNOFFICIALLY CLOSES DOWN 632.70 POINTS, OR 1.20 PERCENT, AT 52,235.28 S&P 500 UNOFFICIALLY CLOSES DOWN 36.45 POINTS, OR 0.48 PERCENT, AT 7,626.98
+- 10/24 05:04 [financialjuice] Stocks and Bonds Fall as Oil Surge Revives Inflation Concerns – US Market Wrap
+- 10/24 05:08 [financialjuice] Venezuela oil output at 1.2m barrels/day - Oil Minister.
+- 10/24 05:16 [financialjuice] US bank deposits rose to $19.810 tln from $19.772 tln in the prior week.
+- 10/24 05:47 [financialjuice] ❗ Moody's since previous periodic review of France rating, slower growth and higher deficit have pushed debt burden somewhat higer
+- 10/24 05:48 [financialjuice] ❗ Moody's: France Aa3 rating assumes that a deficit-reducing budget for 2027 will be adopted.
+- 10/24 05:48 [financialjuice] Moody's projects a 5.2% of GDP deficit in 2027 for France.
+- 10/24 05:51 [financialjuice] Moody's: The recent sharp rise in French government bond yields adds to the risks of a further weakening of debt affordability.
+- 10/24 05:55 [financialjuice] France Fin. Min. Lescure: The Moody's call recognizes the solidity of the French economy.
+- 10/24 06:38 [financialjuice] US Secretary of Defense Hegseth: Defense department designates Confucius Institutes as national security threat
