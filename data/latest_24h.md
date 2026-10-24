@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-25 06:35 JST／対象: 10/24 06:35 〜 10/25 06:35 JST（時刻はすべて日本時間）
+生成: 2026-10-25 08:43 JST／対象: 10/24 08:43 〜 10/25 08:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 10/25 03:55 | 10/25 05:28 | ⚠ 85分（03:55→05:20） |
 | FirstSquawk | 191 | 10/24 09:02 | 10/25 03:12 | ⚠ 54分（23:38→00:32） |
-| financialjuice | 47 | 10/24 06:38 | 10/25 06:17 | ⚠ 306分（22:55→04:01） |
+| financialjuice | 49 | 10/24 09:24 | 10/25 07:01 | ⚠ 306分（22:55→04:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 240 行（統合前 245 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 242 行（統合前 247 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/24 06:38 [financialjuice] US Secretary of Defense Hegseth: Defense department designates Confucius Institutes as national security threat
-- 10/24 07:59 [financialjuice] OpenAI: red-teaming exercise uncovers vulnerability enabling unauthenticated remote code execution in Brotli compression library
 - 10/24 09:02 [FirstSquawk] US Pentagon Identifies Confucius Institutes as a Threat to National Security - RTRS
 - 10/24 09:03 [FirstSquawk] Hong Kong Hospitals Increasingly Buy Chinese Medical Devices, Putting Pressure on Global Giants GE, Philips and Siemens
 - 10/24 09:03 [FirstSquawk] WSJ: US Sanctions Force Suspension of Iranian Exports to Pakistan, Official Says
@@ -264,3 +262,7 @@
 - 10/25 05:28 [DeItaone] Trump: It's a possibility i will attack Iran
 - 10/25 06:14 [financialjuice] Yemen's Houthis renew caution to airlines, workers, travelers against using Saudi Arabia's King Khalid airport in Riyadh: military target
 - 10/25 06:17 [financialjuice] Yemen's Houthis say they will keep attacking Saudi Arabia's King Khalid airport
+- 10/25 06:39 [financialjuice] N. Korea leader Kim Jong Un visits China: KCNA
+- 10/25 06:40 [financialjuice] N. Korea leader Kim Jong Un visits memorial for China’s role in Korean War in Dandong, China
+- 10/25 06:42 [financialjuice] N.Korea leader Kim Jong Un returns to N.Korea via bridge - KCNA
+- 10/25 07:01 [financialjuice] Saudi-led coalition: Intercepts and destroys drone in Riyadh region

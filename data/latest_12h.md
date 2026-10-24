@@ -7,49 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-25 06:35 JST／対象: 10/24 18:35 〜 10/25 06:35 JST（時刻はすべて日本時間）
+生成: 2026-10-25 08:43 JST／対象: 10/24 20:43 〜 10/25 08:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 10/25 03:55 | 10/25 05:28 | ⚠ 85分（03:55→05:20） |
-| FirstSquawk | 82 | 10/24 19:00 | 10/25 03:12 | ⚠ 54分（23:38→00:32） |
-| financialjuice | 22 | 10/24 19:10 | 10/25 06:17 | ⚠ 306分（22:55→04:01） |
+| FirstSquawk | 64 | 10/24 21:09 | 10/25 03:12 | ⚠ 54分（23:38→00:32） |
+| financialjuice | 18 | 10/24 21:11 | 10/25 07:01 | ⚠ 306分（22:55→04:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 109 行（統合前 110 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 87 行（統合前 88 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/24 19:00 [FirstSquawk] Hamas: The occupation's campaign in the West Bank represents an extension of the criminal aggression being perpetrated against our people.
-- 10/24 19:00 [FirstSquawk] Hamas: The occupation's criminal policies are a dangerous escalation that calls for a unified national stance and serious international action to stop the aggression and deter it.
-- 10/24 19:00 [FirstSquawk] Lebanese President: The strong, unified state is built on the exclusivity of arms in the hands of its one army
-- 10/24 19:03 [FirstSquawk] SAUDI ARABIA POSTPONES NOVEMBER UN DATA EVENT - 2027
-- 10/24 19:10 [financialjuice] German chancellor Merz: Russia poses a huge threat to our freedom, seeks to destabilise Germany
-- 10/24 19:13 [FirstSquawk] GERMAN CHANCELLOR MERZ: WE ARE FACING A MASSIVE THREAT TO OUR FREEDOM FROM RUSSIA, WHICH IS AIMING TO DESTABILISE GERMANY
-- 10/24 19:25 [FirstSquawk] Joseph Aoun: Division protects no one, and our responsibility is to learn from past experiences.
-- 10/24 19:26 [FirstSquawk] Joseph Aoun: What is required is to place Lebanon's interest above narrow calculations and to work on fortifying unity.
-- 10/24 19:26 [FirstSquawk] Joseph Aoun: The state is not confronting its sons, but rather it is their guarantor.
-- 10/24 19:26 [FirstSquawk] Joseph Aoun: Weakening the state cannot strengthen any of its components.
-- 10/24 19:26 [FirstSquawk] German Chancellor: We face a massive threat to our freedom from Russia, which seeks to undermine the stability of our country.
-- 10/24 19:34 [FirstSquawk] KIM JONG UN MET WITH CHINA'S PREMIER LI QIANG: NYT
-- 10/24 19:43 [financialjuice] German Chancellor Merz: politicians backing far-right AfD have no place in our party
-- 10/24 19:47 [FirstSquawk] GERMAN CHANCELLOR MERZ: POLITICIANS GIVING SUPPORT TO FAR-RIGHT AFD PARTY HAVE NO PLACE IN OUR PARTY
-- 10/24 19:58 [FirstSquawk] NETANYAHU HAS ORDERED ISRAEL TO SHIFT ITS POSITION ON THE FALKLAND ISLANDS IN ARGENTINA’S FAVOR, FOLLOWING BRITISH SANCTIONS ON ISRAELI SETTLEMENTS IN THE WEST BANK, WITH ISRAELI DIPLOMATS INSTRUCTED TO SUPPORT DIRECT NEGOTIATIONS BETWEEN T…
-- 10/24 19:58 [FirstSquawk] THE MOVE STOPS SHORT OF FORMALLY ENDORSING ARGENTINA’S SOVEREIGNTY CLAIM BUT SIGNALS A DETERIORATION IN RELATIONS BETWEEN ISRAEL AND BRITAIN - THE TELEGRAPH
-- 10/24 20:04 [financialjuice] China’s top political advisor Wang Huning met North Korea’s Kim Jong Un in Dandong, Chinese state media
-- 10/24 20:05 [financialjuice] Ras al Khaimah public services department: all emirate beaches to close until further notice - RAK police GHQ
-- 10/24 20:05 [FirstSquawk] CHINESE STATE MEDIA SAYS BEIJING’S TOP POLITICAL ADVISOR WANG HUNING HELD TALKS WITH NORTH KOREA’S KIM JONG UN IN THE CHINESE CITY OF DANDONG
-- 10/24 20:07 [financialjuice] China, North Korea vow to boost people-to-people ties and economic, trade collaboration with new Yalu River bridge opening - Chinese state media
-- 10/24 20:07 [financialjuice] China, North Korea to boost strategic talks and cooperation to protect sovereignty, security and development interests: Chinese state media
-- 10/24 20:08 [financialjuice] Kim Jong Un visited Korean War memorial in Dandong, honored Chinese people's volunteer army martyrs: Chinese state media
-- 10/24 20:08 [financialjuice] kim jong un tours dandong car plant during china visit: chinese state media
-- 10/24 20:08 [FirstSquawk] CHINA AND NORTH KOREA PLEDGED TO EXPAND PEOPLE-TO-PEOPLE EXCHANGES AND ECONOMIC AND TRADE COOPERATION THROUGH THE OPENING OF A NEW YALU RIVER BRIDGE, AND WILL STRENGTHEN STRATEGIC COMMUNICATION AND COOPERATION TO SAFEGUARD SOVEREIGNTY, SECU…
-- 10/24 20:21 [FirstSquawk] Lebanese News Agency: The Israeli army carried out a massive explosion in the town of Al-Tayyiba in southern Lebanon.
-- 10/24 20:28 [FirstSquawk] UKRAINE’S DEFENSE MINISTRY SAYS STARLINK AND STARSHIELD SPEEDS HAVE BEEN RESTORED AFTER TWO WEEKS OF RESTRICTIONS THAT DISRUPTED MILITARY DRONE OPERATIONS AND FUELED TENSIONS BETWEEN KYIV AND THE TRUMP ADMINISTRATION
 - 10/24 21:09 [FirstSquawk] French Interior Minister Announces Arrest of 135 People in Connection with Protests and Seizure of Various Weapons
 - 10/24 21:09 [FirstSquawk] Russian official: 3 killed in Ukrainian attack targeting a factory in Oryol
 - 10/24 21:11 [financialjuice] Trump: May relocate White House press corps to new site
@@ -133,3 +107,7 @@
 - 10/25 05:28 [DeItaone] Trump: It's a possibility i will attack Iran
 - 10/25 06:14 [financialjuice] Yemen's Houthis renew caution to airlines, workers, travelers against using Saudi Arabia's King Khalid airport in Riyadh: military target
 - 10/25 06:17 [financialjuice] Yemen's Houthis say they will keep attacking Saudi Arabia's King Khalid airport
+- 10/25 06:39 [financialjuice] N. Korea leader Kim Jong Un visits China: KCNA
+- 10/25 06:40 [financialjuice] N. Korea leader Kim Jong Un visits memorial for China’s role in Korean War in Dandong, China
+- 10/25 06:42 [financialjuice] N.Korea leader Kim Jong Un returns to N.Korea via bridge - KCNA
+- 10/25 07:01 [financialjuice] Saudi-led coalition: Intercepts and destroys drone in Riyadh region
