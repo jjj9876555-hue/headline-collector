@@ -7,50 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-25 04:07 JST／対象: 10/24 04:07 〜 10/25 04:07 JST（時刻はすべて日本時間）
+生成: 2026-10-25 06:35 JST／対象: 10/24 06:35 〜 10/25 06:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 4 | 10/24 05:01 | 10/25 03:55 | ⚠ 1373分（05:02→03:55） |
-| FirstSquawk | 198 | 10/24 04:13 | 10/25 03:12 | ⚠ 239分（05:03→09:02） |
-| financialjuice | 64 | 10/24 04:12 | 10/25 04:02 | ⚠ 306分（22:55→04:01） |
+| DeItaone | 5 | 10/25 03:55 | 10/25 05:28 | ⚠ 85分（03:55→05:20） |
+| FirstSquawk | 191 | 10/24 09:02 | 10/25 03:12 | ⚠ 54分（23:38→00:32） |
+| financialjuice | 47 | 10/24 06:38 | 10/25 06:17 | ⚠ 306分（22:55→04:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 259 行（統合前 268 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 240 行（統合前 245 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/24 04:12 [financialjuice] Week Ahead: Economic Indicators 26th – 30th October (US)
-- 10/24 04:13 [FirstSquawk] OPENAI: STRENGTHENED CONTAINMENT FOR FRONTIER-MODEL TRAINING
-- 10/24 04:20 [FirstSquawk] OPENAI TO TRAIN FRONTIER MODELS WITHOUT INTERNET ACCESS
-- 10/24 04:25 [financialjuice] Monday FX Options Expiries
-- 10/24 04:31 [financialjuice] CFTC Positions in the Week of October 20th 2026
-- 10/24 04:32 [financialjuice] Iran's Revolutionary Guards: Two tankers struck naval mines while trying to use an unauthorised route south of the Strait of Hormuz - State Media.
-- 10/24 04:34 [financialjuice/DeItaone] Trump: We'll take care of Cuba on our way back from Iran.
-- 10/24 04:35 [FirstSquawk] IRAN'S REVOLUTIONARY GUARDS SAY TWO TANKERS STRUCK NAVAL MINES WHILE TRYING TO USE AN UNAUTHORISED ROUTE SOUTH OF THE STRAIT OF HORMUZ - STATE MEDIA
-- 10/24 04:35 [financialjuice] Trump Holds a Rally in Ft. Myers, FL - WATCH LIVE
-- 10/24 04:36 [financialjuice] Trump on Cuba: We will send US Secretary of State Rubio in to finish up the deal.
-- 10/24 04:36 [FirstSquawk/financialjuice/DeItaone] TRUMP ON IRAN: WE MAY DO ANOTHER OPERATION AGAINST IRAN
-- 10/24 04:36 [financialjuice] Speculative traders turn most bearish on the Euro since 2020 - CFTC.
-- 10/24 04:37 [financialjuice/DeItaone] Trump: I doubt Iran will say "let's get down to business".
-- 10/24 04:38 [FirstSquawk] US PRESIDENT TRUMP: NOT EXPECTING IRAN TO SAY 'LET'S GET DOWN TO BUSINESS'
-- 10/24 04:39 [financialjuice] Trump further modifies Canadian products subject to tariffs under Section 338 to take effect on October 30th - White House.
-- 10/24 04:40 [financialjuice] Trump: We're close to ending, I hope, the Russia-Ukraine war.
-- 10/24 04:50 [FirstSquawk] ABBVIE: FDA APPROVES UPDATE TO SKYRIZI US PRESCRIBING INFORMATION ALLOWING CLINICAL JUDGMENT ON TB TESTING ACROSS ALL INDICATIONS
-- 10/24 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: -1255.7 MLN NASDAQ 100: -795.9 MLN DOW 30: 121.1 MLN MAG 7: -15.8 MLN $MACRO
-- 10/24 05:03 [FirstSquawk] NASDAQ UNOFFICIALLY CLOSES DOWN 52.66 POINTS, OR 0.20 PERCENT, AT 25,956.20 DOW JONES UNOFFICIALLY CLOSES DOWN 632.70 POINTS, OR 1.20 PERCENT, AT 52,235.28 S&P 500 UNOFFICIALLY CLOSES DOWN 36.45 POINTS, OR 0.48 PERCENT, AT 7,626.98
-- 10/24 05:04 [financialjuice] Stocks and Bonds Fall as Oil Surge Revives Inflation Concerns – US Market Wrap
-- 10/24 05:08 [financialjuice] Venezuela oil output at 1.2m barrels/day - Oil Minister.
-- 10/24 05:16 [financialjuice] US bank deposits rose to $19.810 tln from $19.772 tln in the prior week.
-- 10/24 05:47 [financialjuice] ❗ Moody's since previous periodic review of France rating, slower growth and higher deficit have pushed debt burden somewhat higer
-- 10/24 05:48 [financialjuice] ❗ Moody's: France Aa3 rating assumes that a deficit-reducing budget for 2027 will be adopted.
-- 10/24 05:48 [financialjuice] Moody's projects a 5.2% of GDP deficit in 2027 for France.
-- 10/24 05:51 [financialjuice] Moody's: The recent sharp rise in French government bond yields adds to the risks of a further weakening of debt affordability.
-- 10/24 05:55 [financialjuice] France Fin. Min. Lescure: The Moody's call recognizes the solidity of the French economy.
 - 10/24 06:38 [financialjuice] US Secretary of Defense Hegseth: Defense department designates Confucius Institutes as national security threat
 - 10/24 07:59 [financialjuice] OpenAI: red-teaming exercise uncovers vulnerability enabling unauthenticated remote code execution in Brotli compression library
 - 10/24 09:02 [FirstSquawk] US Pentagon Identifies Confucius Institutes as a Threat to National Security - RTRS
@@ -283,3 +256,11 @@
 - 10/25 04:02 [financialjuice] Yemen's Houthis say they struck Riyadh airport in Saudi Arabia
 - 10/25 04:02 [financialjuice] Yemen's Houthis say they struck Saudi Aramco site in Yanbu
 - 10/25 04:02 [financialjuice] Yemen's Houthis: attacked Saudi Arabia's King Fahd International Airport in Dammam, Najran airport and Khamis Mushait airbase
+- 10/25 04:27 [financialjuice] Explosive-laden drone targets Iranian Kurdish opposition camp northeast of Iraq's Erbil: security sources
+- 10/25 04:33 [financialjuice] Saudi Arabia's Riyadh airport to allocate terminal 1 for domestic flights, terminal 2 for international flights from October 25: statement
+- 10/25 05:20 [DeItaone] TRUMP ON STARLINK IN UKRAINE: I HAVE SPOKEN TO ELON MUSK
+- 10/25 05:24 [DeItaone] Trump: Once we've got a deal with Russia and Ukraine we will be able to do business with both
+- 10/25 05:24 [DeItaone] Trump: I may have to finish the job with Iran, or we make a deal. Either way we win
+- 10/25 05:28 [DeItaone] Trump: It's a possibility i will attack Iran
+- 10/25 06:14 [financialjuice] Yemen's Houthis renew caution to airlines, workers, travelers against using Saudi Arabia's King Khalid airport in Riyadh: military target
+- 10/25 06:17 [financialjuice] Yemen's Houthis say they will keep attacking Saudi Arabia's King Khalid airport

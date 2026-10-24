@@ -7,43 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-25 04:07 JST／対象: 10/24 22:07 〜 10/25 04:07 JST（時刻はすべて日本時間）
+生成: 2026-10-25 06:35 JST／対象: 10/25 00:35 〜 10/25 06:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 1 | 10/25 03:55 | 10/25 03:55 | - |
-| FirstSquawk | 48 | 10/24 22:07 | 10/25 03:12 | ⚠ 54分（23:38→00:32） |
-| financialjuice | 7 | 10/24 22:44 | 10/25 04:02 | ⚠ 306分（22:55→04:01） |
+| DeItaone | 5 | 10/25 03:55 | 10/25 05:28 | ⚠ 85分（03:55→05:20） |
+| FirstSquawk | 31 | 10/25 00:55 | 10/25 03:12 | ⚠ 47分（01:54→02:41） |
+| financialjuice | 8 | 10/25 04:01 | 10/25 06:17 | ⚠ 101分（04:33→06:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 56 行（統合前 57 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 44 行（統合前 45 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/24 22:07 [FirstSquawk] PALANTIR CEO ALEX KARP SAYS HE HAS BEEN YELLING AT VARIOUS IMPORTANT GERMANS IN PRIVATE FOR A LONG TIME THAT IF THEY DO NOT TAKE MIGRATION SERIOUSLY IT IS GOING TO BE A DISASTER, ADDING THAT EVEN IF HE IS WRONG ON EVERY POINT, HE IS RIGHT A…
-- 10/24 22:14 [FirstSquawk] PALANTIR CEO ALEX KARP, ON AI, SAYS THAT WITH A MINOR EXCEPTION IN ISRAEL, CHINA AND THE U.S. ARE THE ONLY RELEVANT COUNTRIES, AND THAT THIS IS ONE THING HE IS APOPLECTIC ABOUT IN EUROPE, SAYING “YOU CAN’T HELP SOMEONE WHO DOESN’T WANT TO B…
-- 10/24 22:23 [FirstSquawk] COUCHE-TARD HAS MADE AN OFFER FOR CUMBERLAND FARMS, VALUING IT AT UP TO $8 BLN - TIMES
-- 10/24 22:24 [FirstSquawk] COUCHE-TARD HAS MADE AN OFFER FOR CUMBERLAND FARMS- TIMES
-- 10/24 22:44 [financialjuice] US updates travel advisories for Gulf and Middle East including Saudi Arabia, Qatar, UAE, Iraq, Lebanon and Israel citing threat of increased Iranian-backed Houthi regional aggression: Security Al
-- 10/24 22:44 [FirstSquawk] U.S. HAS UPDATED TRAVEL ADVISORIES ACROSS THE GULF AND MIDDLE EAST, INCLUDING SAUDI ARABIA, QATAR, UAE, IRAQ, LEBANON AND ISRAEL, CITING THE “THREAT OF INCREASED IRANIAN-SUPPORTED HOUTHI REGIONAL AGGRESSION” - SECURITY ALERTS
-- 10/24 22:51 [financialjuice] Ukraine drone reaches industrial hub of Russia’s Omsk: governor
-- 10/24 22:51 [FirstSquawk] UKRAINIAN DRONES REACHED THE INDUSTRIAL HUB OF RUSSIA’S OMSK - GOVERNOR
-- 10/24 22:55 [financialjuice] Ukrainian drones reached industrial hub of Russia’s Omsk: governor
-- 10/24 22:59 [FirstSquawk] A CNT/MDA POLL SHOWS FLAVIO BOLSONARO WITH 46.3% OF THE VOTE VERSUS LULA’S 45.0% IN A BRAZIL PRESIDENTIAL RUNOFF, OR 50.7% VERSUS 49.3% OF VALID VOTES
-- 10/24 22:59 [FirstSquawk] Iranian Revolutionary Guard Spokesman: Our response will be multiplied against any move by the enemy, even if it is limited.
-- 10/24 22:59 [FirstSquawk] Hearing the sound of 3 explosions in Aden
-- 10/24 23:00 [FirstSquawk] Wall Street Journal: The American aircraft carrier George Washington receives large shipments of ammunition and missiles in anticipation of a potential escalation against Iran.
-- 10/24 23:20 [FirstSquawk] Echoes of explosions in the city of Aden in southern Yemen
-- 10/24 23:20 [FirstSquawk] Israeli airstrike on the outskirts of Beit Lif town in the Bent Jbeil district, southern Lebanon
-- 10/24 23:38 [FirstSquawk] AMGEN SAYS NEARLY 80% OF PATIENTS ON IMDELLTRA-IMFINZI WERE ALIVE AT ONE YEAR VERSUS 53% WITH DURVALUMAB ALONE, WITH PROGRESSION-FREE SURVIVAL MORE THAN TRIPLED, AND THAT THE COMBINATION REDUCED THE RISK OF DEATH BY 58% IN FIRST-LINE EXTENS…
-- 10/24 23:38 [FirstSquawk] AMGEN SAYS IMDELLTRA PLUS DURVALUMAB EXTENDS MEDIAN OVERALL SURVIVAL TO 21.1 MONTHS VERSUS 12.7 MONTHS WITH DURVALUMAB ALONE, WITH THE SAFETY PROFILE CONSISTENT WITH THE KNOWN PROFILES OF THE INDIVIDUAL MEDICINES, AND GRADE 3 OR HIGHER ADVE…
-- 10/25 00:32 [FirstSquawk] SEVERAL SENIOR TRUMP ADVISERS BELIEVE AN ISRAELI GOVERNMENT WITHOUT NETANYAHU COULD BE EASIER TO WORK WITH, DESPITE TRUMP’S ENDORSEMENT AHEAD OF TUESDAY’S ELECTION, WITH JD VANCE HAVING GROWN DISILLUSIONED WITH NETANYAHU OVER THE IRAN WAR A…
-- 10/25 00:32 [FirstSquawk] THREE MAJOR ISRAELI POLLS PROJECT JUST 50 SEATS FOR NETANYAHU’S BLOC, RAISING THE PROSPECT OF A DEADLOCK THAT COULD KEEP HIM IN POWER AS CARETAKER PRIME MINISTER - AXIOS
-- 10/25 00:33 [FirstSquawk] A MASSIVE FIRE BROKE OUT AT THE OMSKY KAUCHUK CHEMICAL PLANT IN RUSSIA’S OMSK FOLLOWING REPORTED UKRAINIAN DRONE STRIKES, WITH THE FACILITY LOCATED MORE THAN 2,500 KM FROM UKRAINE
 - 10/25 00:55 [FirstSquawk] Yemeni Government Forces: Houthi Militia Shells the Temporary Capital #Aden with Ballistic Missiles
 - 10/25 00:55 [FirstSquawk] Houthi Spokesman Houthi: We targeted Al-Nasr Camp and the Naval Military Base in Aden
 - 10/25 00:56 [FirstSquawk] Yemeni Ministry of Interior: Houthi militia shelled the Coast Guard headquarters in the temporary capital with 3 ballistic missiles Aden
@@ -80,3 +60,11 @@
 - 10/25 04:02 [financialjuice] Yemen's Houthis say they struck Riyadh airport in Saudi Arabia
 - 10/25 04:02 [financialjuice] Yemen's Houthis say they struck Saudi Aramco site in Yanbu
 - 10/25 04:02 [financialjuice] Yemen's Houthis: attacked Saudi Arabia's King Fahd International Airport in Dammam, Najran airport and Khamis Mushait airbase
+- 10/25 04:27 [financialjuice] Explosive-laden drone targets Iranian Kurdish opposition camp northeast of Iraq's Erbil: security sources
+- 10/25 04:33 [financialjuice] Saudi Arabia's Riyadh airport to allocate terminal 1 for domestic flights, terminal 2 for international flights from October 25: statement
+- 10/25 05:20 [DeItaone] TRUMP ON STARLINK IN UKRAINE: I HAVE SPOKEN TO ELON MUSK
+- 10/25 05:24 [DeItaone] Trump: Once we've got a deal with Russia and Ukraine we will be able to do business with both
+- 10/25 05:24 [DeItaone] Trump: I may have to finish the job with Iran, or we make a deal. Either way we win
+- 10/25 05:28 [DeItaone] Trump: It's a possibility i will attack Iran
+- 10/25 06:14 [financialjuice] Yemen's Houthis renew caution to airlines, workers, travelers against using Saudi Arabia's King Khalid airport in Riyadh: military target
+- 10/25 06:17 [financialjuice] Yemen's Houthis say they will keep attacking Saudi Arabia's King Khalid airport

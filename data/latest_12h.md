@@ -7,61 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-25 04:07 JST／対象: 10/24 16:07 〜 10/25 04:07 JST（時刻はすべて日本時間）
+生成: 2026-10-25 06:35 JST／対象: 10/24 18:35 〜 10/25 06:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 1 | 10/25 03:55 | 10/25 03:55 | - |
-| FirstSquawk | 109 | 10/24 16:10 | 10/25 03:12 | ⚠ 54分（23:38→00:32） |
-| financialjuice | 32 | 10/24 16:15 | 10/25 04:02 | ⚠ 306分（22:55→04:01） |
+| DeItaone | 5 | 10/25 03:55 | 10/25 05:28 | ⚠ 85分（03:55→05:20） |
+| FirstSquawk | 82 | 10/24 19:00 | 10/25 03:12 | ⚠ 54分（23:38→00:32） |
+| financialjuice | 22 | 10/24 19:10 | 10/25 06:17 | ⚠ 306分（22:55→04:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 139 行（統合前 143 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 109 行（統合前 110 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/24 16:10 [FirstSquawk] Jordanian media: Death toll from attack on Karak church rises to 8
-- 10/24 16:10 [FirstSquawk] President Trump on Iran: The other is oil, and the oil went up. We had it very low, and I knew that would happen, but it was a choice. It's a small price to pay for taking a nuclear weapon away from Iran, which is a very evil country.
-- 10/24 16:11 [FirstSquawk] Axios: U.S. intelligence finds Iran has "substantially increased" its efforts to target American diplomats and officials in the Middle East and beyond, with lethal plots reaching "advanced stages.
-- 10/24 16:12 [FirstSquawk] China on Saturday launched a Long March-4B carrier rocket from the Jiuquan Satellite Launch Center in northwest China, sending satellites 07-09 of the Yaogan-53 group and satellites 19-21 of the Yaogan-56 group into their preset orbits.
-- 10/24 16:15 [financialjuice] China's Premier Li Qiang visits Dandong to meet North Korea's Kim Jong Un: Yonhap
-- 10/24 16:16 [FirstSquawk] CHINA'S PREMIER LI QIANG WENT TO DANDONG TO MEET NORTH KOREA'S KIM JONG UN -YONHAP
-- 10/24 16:30 [financialjuice] Industrial sites damaged in attack on Russia's Togliatti: IFX
-- 10/24 16:32 [FirstSquawk] INDUSTRIAL FACILITIES DAMAGED IN ATTACK ON RUSSIA'S TOGLIATTI - IFX
-- 10/24 16:34 [financialjuice] North Korea's Kim Jong Un likely to return home after China visit on Saturday: Yonhap
-- 10/24 16:35 [FirstSquawk] NORTH KOREA'S KIM JONG UN : LIKELY TO RETURN TO N.KOREA AFTER CHINA VISIT ON SATURDAY -YONHAP
-- 10/24 16:38 [FirstSquawk] North Korea's Kim Jong Un likely to return home after China visit on Saturday
-- 10/24 16:40 [FirstSquawk] Trump praises Elon Musk as a 'genius' while defending him against potential Democratic probes
-- 10/24 16:40 [FirstSquawk] Switzerland’s ultra-defensive big companies are becoming a haven in a tumultuous period for European equity markets.
-- 10/24 16:49 [FirstSquawk] UKRAINE: ALL RESTRICTIONS ON STARLINK HAVE BEEN LIFTED
-- 10/24 16:49 [financialjuice] Ukraine's Starlink connection renewed at 400 km/h: defence minister says
-- 10/24 17:05 [FirstSquawk] UKRAINE’S STARLINK/STARSHIELD CONNECTION RENEWED AT 400 KM/HOUR, DEFENCE MINISTER SAYS
-- 10/24 17:14 [financialjuice] Ukrainian military hit Russian petrochemical plant in Togliatti: Ukrainian drone maker
-- 10/24 17:17 [financialjuice] Saudi civil defense issues warning of potential hazard in Jeddah
-- 10/24 17:18 [financialjuice/FirstSquawk] Saudi civil defense issues warning of possible threat in Taif
-- 10/24 17:19 [FirstSquawk] member of Iran’s Basij paramilitary force has died after spending around nine months in a coma following injuries sustained during nationwide anti-government protests in January 2026, Iranian state television reported.
-- 10/24 17:19 [FirstSquawk] UKRAINIAN MILITARY STRUCK RUSSIAN PETROCHEMICAL PLANT IN TOGLIATTI, UKRAINIAN DRONE PRODUCER SAYS
-- 10/24 17:19 [FirstSquawk] Ukraine's government says it now has a 'stable connection' to Starlink
-- 10/24 17:20 [financialjuice] Ukraine's military: it hit Russia's top electro-optical equipment maker in Oryol
-- 10/24 17:20 [financialjuice] Saudi civil defense warns of potential risk in Yanbu
-- 10/24 17:22 [FirstSquawk] HSBC to open new wealth centre in Abu Dhabi despite regional conflict
-- 10/24 17:22 [FirstSquawk] UKRAINE'S MITRONIC OPTICAL EQUIPMENT PRODUCER INLITARY: IT STRUCK RUSSIA'S LEADING ELEC ORYOL
-- 10/24 17:26 [FirstSquawk] SAUDI CIVIL DEFENSE ALERTS OF POTENTIAL DANGER IN JEDDAH; SAUDI CIVIL DEFENSE ALERTS OF POTENTIAL DANGER IN TAIF; SAUDI CIVIL DEFENSE ALERTS OF POTENTIAL DANGER IN YANBU
-- 10/24 17:26 [financialjuice] Danger has subsided in Mecca: Saudi civil defense
-- 10/24 17:27 [financialjuice/FirstSquawk] Danger has passed in Yanbu: Saudi civil defense
-- 10/24 17:27 [FirstSquawk] DANGER HAS PASSED IN MECCA - SAUDI CIVIL DEFENSE
-- 10/24 17:29 [FirstSquawk/financialjuice] DANGER HAS PASSED IN TAIF - SAUDI CIVIL DEFENSE
-- 10/24 17:30 [FirstSquawk] DANGER HAS PASSED IN JEDDAH - SAUDI CIVIL DEFENSE
-- 10/24 17:45 [FirstSquawk] VANCE NEAR MAJOR HURRICANE STRENGTH -NHC
-- 10/24 17:56 [financialjuice] Saudi-led coalition: intercepts and destroys two ballistic missiles launched by Yemen's Houthis towards Taif and Yanbu
-- 10/24 17:58 [FirstSquawk] SAUDI LED COALITION: IT INTERCEPTED AND DESTROYED TWO BALLISTIC MISSILES LAUNCHED BY YEMEN'S HOUTHIS TOWARDS TAIF AND YANBU
-- 10/24 18:03 [financialjuice] S.Korea presidential Blue House: monitoring North Korean leader Kim Jong Un’s China visit - Newsis
-- 10/24 18:04 [FirstSquawk] SOUTH KOREA PRESIDENTIAL BLUE HOUSE SAYS MONITORING NORTH KOREAN LEADER KIM JONG UN'S CHINA VISIT -NEWSIS
-- 10/24 18:13 [FirstSquawk] 5.9 MAG. EARTHQUAKE 196 KM NW OF PORT-OLRY VANUATU -USGS
 - 10/24 19:00 [FirstSquawk] Hamas: The occupation's campaign in the West Bank represents an extension of the criminal aggression being perpetrated against our people.
 - 10/24 19:00 [FirstSquawk] Hamas: The occupation's criminal policies are a dangerous escalation that calls for a unified national stance and serious international action to stop the aggression and deter it.
 - 10/24 19:00 [FirstSquawk] Lebanese President: The strong, unified state is built on the exclusivity of arms in the hands of its one army
@@ -163,3 +125,11 @@
 - 10/25 04:02 [financialjuice] Yemen's Houthis say they struck Riyadh airport in Saudi Arabia
 - 10/25 04:02 [financialjuice] Yemen's Houthis say they struck Saudi Aramco site in Yanbu
 - 10/25 04:02 [financialjuice] Yemen's Houthis: attacked Saudi Arabia's King Fahd International Airport in Dammam, Najran airport and Khamis Mushait airbase
+- 10/25 04:27 [financialjuice] Explosive-laden drone targets Iranian Kurdish opposition camp northeast of Iraq's Erbil: security sources
+- 10/25 04:33 [financialjuice] Saudi Arabia's Riyadh airport to allocate terminal 1 for domestic flights, terminal 2 for international flights from October 25: statement
+- 10/25 05:20 [DeItaone] TRUMP ON STARLINK IN UKRAINE: I HAVE SPOKEN TO ELON MUSK
+- 10/25 05:24 [DeItaone] Trump: Once we've got a deal with Russia and Ukraine we will be able to do business with both
+- 10/25 05:24 [DeItaone] Trump: I may have to finish the job with Iran, or we make a deal. Either way we win
+- 10/25 05:28 [DeItaone] Trump: It's a possibility i will attack Iran
+- 10/25 06:14 [financialjuice] Yemen's Houthis renew caution to airlines, workers, travelers against using Saudi Arabia's King Khalid airport in Riyadh: military target
+- 10/25 06:17 [financialjuice] Yemen's Houthis say they will keep attacking Saudi Arabia's King Khalid airport
