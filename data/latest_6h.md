@@ -7,48 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-24 07:08 JST／対象: 10/24 01:08 〜 10/24 07:08 JST（時刻はすべて日本時間）
+生成: 2026-10-24 09:39 JST／対象: 10/24 03:39 〜 10/24 09:39 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 5 | 10/24 03:09 | 10/24 05:02 | ⚠ 109分（03:11→05:01） |
-| FirstSquawk | 22 | 10/24 01:11 | 10/24 05:03 | 27分（02:01→02:28） |
-| financialjuice | 35 | 10/24 01:22 | 10/24 06:38 | ⚠ 69分（03:02→04:12） |
+| DeItaone | 3 | 10/24 05:01 | 10/24 05:02 | 0分（05:01→05:02） |
+| FirstSquawk | 31 | 10/24 03:46 | 10/24 09:38 | ⚠ 239分（05:03→09:02） |
+| financialjuice | 24 | 10/24 04:12 | 10/24 09:24 | ⚠ 84分（07:59→09:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 58 行（統合前 62 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 54 行（統合前 58 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/24 01:11 [FirstSquawk] US TO PUSH FOR NEW LABELS ON SEAFOOD AT GROCERY STORES: CBS
-- 10/24 01:22 [financialjuice] Germany's Oil Stockpiling Agency EBV issued a tender to sell diesel, heating oil, and crude oil from reserves on Friday - Document.
-- 10/24 01:34 [FirstSquawk] TOYOTA: ABOUT 68,000 VEHICLES INVOLVED IN RECALL IN US
-- 10/24 01:46 [FirstSquawk] BP, STATE OF LOUISIANA AGREE TO RESOLVE LONG-STANDING MATTERS
-- 10/24 01:53 [financialjuice] Iran has detailed plans to hit Gulf undersea cables if war resumes - Officials.
-- 10/24 01:55 [financialjuice] According to two senior Iranian security officials, Tehran has prepared detailed plans to target undersea communications cables in the Gulf if the US and Israel attack Iran again. Their remarks came after Iranian officials warned that if di…
-- 10/24 02:01 [FirstSquawk] US OIL RIG COUNT UP 1 TO 460 , BAKER HUGHES SAYS
-- 10/24 02:01 [financialjuice] US BAKER HUGHES OIL RIG COUNT ACTUAL 460 (FORECAST -, PREVIOUS 459) $MACRO
-- 10/24 02:01 [FirstSquawk] US TOTAL RIG COUNT 603 , BAKER HUGHES SAYS
-- 10/24 02:01 [financialjuice] US BAKER HUGHES TOTAL RIG COUNT ACTUAL 603 (FORECAST -, PREVIOUS 603) $MACRO
-- 10/24 02:12 [financialjuice] Meta Chief AI Officer Wang: Meta's Muse AI to counter China models with subscribers. Not ads - Nikkei $META
-- 10/24 02:13 [financialjuice] Meta's Chief AI Officer Wang: No ads inside Muse, don't have any plans to do so; Meta plans to offer paid enterprise services, will take commissions from sellers on purchases made using agents - Nikkei $META
-- 10/24 02:17 [financialjuice] Moonshot AI announces Kimi K3.1 Pro and K3.1 Pro Highspeed
-- 10/24 02:28 [FirstSquawk] QATAR DEAL TO BUY US NATURAL GAS SHOWS HOW IRAN WAR HAS REDRAWN GLOBAL ENERGY MARKETS – CNBC
-- 10/24 02:28 [FirstSquawk] TRUMP DIRECTED CENTCOM TO DRAFT IRAN STRIKE PLAN WITHOUT DEADLINE - KAN
-- 10/24 02:49 [financialjuice] ❗ Trump is expected to remove some tariffs on Canada - WSJ.
-- 10/24 02:49 [FirstSquawk] TRUMP EXPECTED TO REMOVE SOME TARIFFS ON CANADA: WSJ
-- 10/24 02:50 [financialjuice] Trump Expected to Remove Some Tariffs on Canada in Bid to Help Susan Collins - WSJ
-- 10/24 02:53 [financialjuice] The US could balance Canada's tariff reductions by raising other levies - WSJ.
-- 10/24 02:58 [financialjuice] GOP House Rep. introduces a bill to block Russia oil imports.
-- 10/24 03:02 [financialjuice] The Iranian and Russian presidents are going to hold talks in Moscow next week - ISNA.
-- 10/24 03:09 [DeItaone] IRAN'S FOREIGN MINISTER SAYS IRANIAN PRESIDENT WILL TRAVEL TO RUSSIA NEXT WEEK TO MEET WITH PUTIN
-- 10/24 03:10 [FirstSquawk] US SEN. COLLINS: 9 PRODUCT TYPES TO GET EXEMPTION FROM CANADA TARIFFS
-- 10/24 03:11 [DeItaone] TRUMP REPORTEDLY PLANS TO EASE 50% TARIFFS ON CANADA The Trump administration is reportedly preparing to remove 50% tariffs on certain Canadian agricultural and forestry products, potentially as early as Friday. The move is intended to prov…
-- 10/24 03:31 [FirstSquawk] US CRUDE OIL FUTURES SETTLE AT $103.27/BBL, UP $3.80, 3.82%
 - 10/24 03:46 [FirstSquawk] UK PM BURNHAM UNDERLINED IMPORTANCE FOR UKRAINE TO HAVE FULL ACCESS TO STARLINK TO US PRESIDENT TRUMP - DOWNING STREET
 - 10/24 03:47 [FirstSquawk] BRENT CRUDE FUTURES SETTLE AT $116.72/BBL, UP $3.55, 3.14%
 - 10/24 03:57 [FirstSquawk] EGYPT, SAUDI ARABIA, TURKEY, PAKISTAN FOREIGN MINISTERS: 'ISRAELI OCCUPATION IS MAIN SOURCE OF INSTABILITY IN REGION AND BEYOND' - STATEMENT
@@ -82,3 +57,24 @@
 - 10/24 05:51 [financialjuice] Moody's: The recent sharp rise in French government bond yields adds to the risks of a further weakening of debt affordability.
 - 10/24 05:55 [financialjuice] France Fin. Min. Lescure: The Moody's call recognizes the solidity of the French economy.
 - 10/24 06:38 [financialjuice] US Secretary of Defense Hegseth: Defense department designates Confucius Institutes as national security threat
+- 10/24 07:59 [financialjuice] OpenAI: red-teaming exercise uncovers vulnerability enabling unauthenticated remote code execution in Brotli compression library
+- 10/24 09:02 [FirstSquawk] US Pentagon Identifies Confucius Institutes as a Threat to National Security - RTRS
+- 10/24 09:03 [FirstSquawk] Hong Kong Hospitals Increasingly Buy Chinese Medical Devices, Putting Pressure on Global Giants GE, Philips and Siemens
+- 10/24 09:03 [FirstSquawk] WSJ: US Sanctions Force Suspension of Iranian Exports to Pakistan, Official Says
+- 10/24 09:04 [FirstSquawk] Toyota to Produce Next-Generation Corolla in China as Automaker Adapts to Slowing Market
+- 10/24 09:05 [FirstSquawk] US Working to Reposition Some Middle East Diplomats Amid Regional Tensions, CNN Reports
+- 10/24 09:12 [FirstSquawk] Attacks on Ships in Strait of Hormuz Surge to Record Levels in October
+- 10/24 09:21 [FirstSquawk] Trump Says Washington May Carry Out Another Operation Against Iran - RTRS
+- 10/24 09:24 [FirstSquawk] Saudi-Led Coalition Says Drone Was Intercepted and Destroyed in Eastern Region
+- 10/24 09:24 [financialjuice] Saudi-led coalition: intercepted and destroyed drone over eastern region
+- 10/24 09:24 [FirstSquawk] OpenAI Reports Brotli Compression Library Flaw That Allows Remote Code Execution Without Authentication
+- 10/24 09:25 [FirstSquawk] GSK Reports 11.1-Month Median Progression-Free Survival With Mo-Rez in Platinum-Resistant Ovarian Cancer
+- 10/24 09:25 [FirstSquawk] GSK Announces 62% Confirmed Objective Response Rate and 12.2-Month Median Response Duration With Mo-Rez in Ovarian Cancer Trial
+- 10/24 09:27 [FirstSquawk] Hegseth: Confucius Institutes Classified as a Threat to US National Security
+- 10/24 09:27 [FirstSquawk] Moody’s Ratings Completes Scheduled Review of Venezuela’s Sovereign Ratings
+- 10/24 09:28 [FirstSquawk] Axios: US Intelligence Memo Raised Alarm Over Iranian Threats Against American Officials
+- 10/24 09:28 [FirstSquawk] Axios: Intelligence Assessments Suggest Iran Is Pursuing Targets Among American Officials and Diplomats
+- 10/24 09:29 [FirstSquawk] Claims of Undisclosed Russian Control Prompt US Executives to Leave $25 Billion Gas Venture - FT
+- 10/24 09:31 [FirstSquawk] Jaguar Land Rover Recalls Some US Vehicles Over Rearview Camera Display Failure, NHTSA Says
+- 10/24 09:35 [FirstSquawk] Brazil Central Bank Says Rollout of New Measures Will Begin in March or July 2027, Depending on Requirements
+- 10/24 09:38 [FirstSquawk] Brazil’s Central Bank Sets New Requirements for Credit Provision at the Start of Pix Transactions

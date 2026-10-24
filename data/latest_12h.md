@@ -7,59 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-24 07:08 JST／対象: 10/23 19:08 〜 10/24 07:08 JST（時刻はすべて日本時間）
+生成: 2026-10-24 09:39 JST／対象: 10/23 21:39 〜 10/24 09:39 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 40 | 10/23 20:19 | 10/24 05:02 | ⚠ 128分（01:01→03:09） |
-| FirstSquawk | 76 | 10/23 19:30 | 10/24 05:03 | 27分（02:01→02:28） |
-| financialjuice | 94 | 10/23 19:27 | 10/24 06:38 | ⚠ 84分（19:30→20:55） |
+| DeItaone | 34 | 10/23 22:40 | 10/24 05:02 | ⚠ 128分（01:01→03:09） |
+| FirstSquawk | 75 | 10/23 21:51 | 10/24 09:38 | ⚠ 239分（05:03→09:02） |
+| financialjuice | 85 | 10/23 21:58 | 10/24 09:24 | ⚠ 84分（07:59→09:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 196 行（統合前 210 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 181 行（統合前 194 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/23 19:27 [financialjuice] Global crude steel output falls 0.2% to 142.4 mln t in Sept 2026 vs Sept 2025 - Worldsteel
-- 10/23 19:27 [financialjuice] China crude steel output rises 0.1% to 73.6 mln t in Sept 2026 vs Sept 2025 - Worldsteel
-- 10/23 19:30 [financialjuice] RUSSIAN INTEREST RATE DECISION ACTUAL 14% (FORECAST 14%, PREVIOUS 14.00%) $MACRO
-- 10/23 19:30 [FirstSquawk] RUSSIAN CENTRAL BANK LEAVES KEY RATE AT 14.00%; EST 14.00%
-- 10/23 19:31 [FirstSquawk] CHINA'S FOREIGN MINISTER SAYS THE MULTILATERAL TRADING SYSTEM MUST BE SAFEGUARDED, MORE OPEN TRADING ORDER MUST BE FOSTERED
-- 10/23 19:40 [FirstSquawk] CHINA'S FOREIGN MINISTER SAYS RISE OF GLOBAL SOUTH IS MOST MOMENTOUS SHIFT WORLD HAS SEEN SINCE WW2; GLOBAL SOUTH MUST BE BETTER REPRESENTED IN INTERNATIONAL AFFAIRS
-- 10/23 19:42 [FirstSquawk] CHINA'S FOREIGN MINISTER SAYS AI MUST BE KEPT UNDER HUMAN CONTROL, BENEFIT HUMANITY
-- 10/23 20:04 [FirstSquawk] American Express Q3 2026 Earnings - Rev: USD 20.06B (est USD 20.12B) - Booked USD 982M Pre-Tax Gain On GBTG Sale - Adj EPS: USD 4.68 - Billed Business: USD 454B (est USD 456.93B) - Provision For Credit Losses: USD 1B - Total Expenses: USD 1…
-- 10/23 20:19 [DeItaone] UBS SEES $4,000 AS KEY SUPPORT FOR GOLD UBS expects gold could retest $4,000/oz, but sees strong dip-buying demand establishing a floor. Despite rising U.S. real yields and a stronger dollar, central bank buying, Chinese demand and debt con…
-- 10/23 20:21 [FirstSquawk] UK GILT DEALERS SEE MEDIAN £3.4 BLN RISE IN 2026/27 GILT ISSUANCE TO £249.6 BLN AFTER BUDGET-POLL; UK GILT DEALERS SEE MEDIAN £5 BLN RISE IN 2026/27 NET T-BILL ISSUANCE TO £10 BLN AFTER BUDGET - POLL
-- 10/23 20:23 [FirstSquawk] UK GILT DEALERS SEE MEDIAN £26.7 BLN RISE IN 2027/28 GROSS FINANCING REQUIREMENT TO £334.3 BLN - POLL; UK GILT DEALERS SEE UK GOVERNMENT HEADROOM VS 2029/30 BUDGET RULE FALLING TO £15.1 BLN FROM £23.6 BLN -POLL
-- 10/23 20:24 [FirstSquawk] CHINA CABINET MEETING: SHOULD STRIVE TO STABILISE NUMBER OF NEW BIRTHS; SHOULD EXPAND SERVICES SECTOR INVESTMENT - STATE MEDIA
-- 10/23 20:28 [FirstSquawk] CHINA: ISSUES POSITION PAPER ON ENHANCING OUTER SPACE GOVERNANCE
-- 10/23 20:37 [FirstSquawk] BRISTOL -MYERS SQUIBB COMPANY SAYS MEDIAN PFS 8.2 MONTHS FOR IZA-BREN VS 4.0 MONTHS FOR CHEMOTHERAPY IN PHASE 3 STUDY; IZA-BREN DEMONSTRATES CLINICAL BENEFIT IN FIVE DISTINCT TUMOR TYPES
-- 10/23 20:38 [FirstSquawk] BRISTOL-MYERS SQUIBB COMPANY SAYS CORR 40.5% FOR IZA-BREN VS 20.2% FOR CHEMOTHERAPY; MDOR 6.9 VS 4.2 MONTHS; IZA-BREN REDUCES RISK OF PROGRESSION OR DEATH BY 59% IN PHASE 3 BREAST CANCER STUDY
-- 10/23 20:55 [financialjuice] Tech Rout Eases & Oil Strength Caps Relief - Europe Market Wrap
-- 10/23 20:57 [FirstSquawk] ZELENSKIY SAYS UKRAINE BRINGS BACK 270 PEOPLE IN PRISONER SWAP WITH RUSSIA,
-- 10/23 21:01 [FirstSquawk] SAUDI-LED COALITION SAYS INTERCEPTS MISSILE FIRED AT KHAMIS MUSHAIT
-- 10/23 21:03 [DeItaone] https://t.co/UIqlqMug7h
-- 10/23 21:04 [financialjuice] Secured Overnight Financing rate 3.90% October 22nd vs 3.88% October 21st.
-- 10/23 21:05 [financialjuice] Morning Juice – US Session Prep (23rd October)
-- 10/23 21:14 [DeItaone] OIL FUTURES EXTEND GAINS, US WTI RISES OVER $2/BBL TO $101.62 ON CONCERNS OVER ESCALATING MIDDLE EAST TENSIONS
-- 10/23 21:17 [DeItaone] CHINA SAYS OUTER SPACE ARMS RACE RISK, BATTLEFIELD TREND ARE BIGGEST THREAT TO SPACE SECURITY - XINHUA
-- 10/23 21:18 [FirstSquawk] CHINA: OUTER SPACE ARMS RACE RISK, BATTLEFIELD TREND ARE BIGGEST THREAT TO SPACE SECURITY - XINHUA
-- 10/23 21:19 [DeItaone] CHINA SAYS IT OPPOSES WEAPONISATION AND BATTLEFIELDISATION OF OUTER SPACE - XINHUA CHINA SAYS IT OPPOSES OFFENSIVE MILITARY POLICIES IN OUTER SPACE, CALLS FOR PREVENTING ARMS RACE IN OUTER SPACE - XINHUA
-- 10/23 21:21 [FirstSquawk] CHINA: IT OPPOSES WEAPONISATION AND BATTLEFIELDISATION OF OUTER SPACE; IT OPPOSES OFFENSIVE MILITARY POLICIES IN OUTER SPACE, CALLS FOR PREVENTING ARMS RACE IN OUTER SPACE - XINHUA
-- 10/23 21:25 [FirstSquawk] ENI EXEC SAYS VENEZUELA JUNIN 5 OIL FIELD WILL LIKELY REACH 200,000 BARRELS OF PRODUCTION IN 18-24 MONTHS
-- 10/23 21:25 [FirstSquawk] CHINA OPPOSES USING OUTER SPACE FOR ACTIVITIES HARMING OTHER COUNTRIES' SOVEREIGNTY, SECURITY, DEVELOPMENT INTERESTS; CHINA OPPOSES COUNTRIES ABUSING DOMESTIC LAW TO OBSTRUCT OR UNILATERALLY SANCTION OTHERS' SPACE ACTIVITIES - XINHUA
-- 10/23 21:27 [FirstSquawk] ENI EXEC SAYS 60% OF SHIPPING WE DO IS UNDER LONG-TERM AGREEMENT, MITIGATING IMPACT OF RAISING SHIPPING COSTS
-- 10/23 21:29 [financialjuice/FirstSquawk] Passengers are being evacuated from Sheremetyevo Airport near Moscow - RIA
-- 10/23 21:30 [financialjuice] ❗ CANADIAN RETAIL SALES MOM ACTUAL 1.2% (FORECAST 1.3%, PREVIOUS -0.7%) $MACRO
-- 10/23 21:30 [financialjuice] CANADIAN CORE RETAIL SALES MOM ACTUAL 1.2% (FORECAST 1.1%, PREVIOUS -0.7%) $MACRO
-- 10/23 21:31 [financialjuice] Canadian Retail Sales August Report
-- 10/23 21:32 [DeItaone] 🇨🇦 CANADIAN RETAIL SALES SURGE, SIGNALING STRONGER CONSUMER DEMAND Canada's retail sales posted solid gains in August, with preliminary data pointing to continued growth in September. 🔸 August retail sales: +1.2% M/M, +5.4% Y/Y 🔸 Ex-autos: …
-- 10/23 21:36 [FirstSquawk] AMERICAN EXPRESS TO CUT 5 PCT OF JOBS, ABOUT 3,500 EMPLOYEES
-- 10/23 21:37 [financialjuice] American Express to cut 5% of jobs, about 3,500 employees $AXP
 - 10/23 21:51 [FirstSquawk] ENI EXEC SAYS GROUP HAS SUBMITTED DEVELOPMENT PLAN FOR VENEZUELA GAS FIELD PERLA; FINAL INVESTMENT DECISION ON VENEZUELA'S PERLA FIELD WILL COME ONCE GOVERNMENT HAS APPROVED DEVELOPMENT PLAN
 - 10/23 21:58 [financialjuice/FirstSquawk] US proposes further suspension of section 301 investigation into China's targeting of maritime, logistics, and shipbuilding sectors for dominance through January 9th, 2027 - Office of USTR
 - 10/23 22:00 [financialjuice] Effective fed funds rate 3.88% October 22nd vs 3.88% October 21st
@@ -220,3 +184,24 @@
 - 10/24 05:51 [financialjuice] Moody's: The recent sharp rise in French government bond yields adds to the risks of a further weakening of debt affordability.
 - 10/24 05:55 [financialjuice] France Fin. Min. Lescure: The Moody's call recognizes the solidity of the French economy.
 - 10/24 06:38 [financialjuice] US Secretary of Defense Hegseth: Defense department designates Confucius Institutes as national security threat
+- 10/24 07:59 [financialjuice] OpenAI: red-teaming exercise uncovers vulnerability enabling unauthenticated remote code execution in Brotli compression library
+- 10/24 09:02 [FirstSquawk] US Pentagon Identifies Confucius Institutes as a Threat to National Security - RTRS
+- 10/24 09:03 [FirstSquawk] Hong Kong Hospitals Increasingly Buy Chinese Medical Devices, Putting Pressure on Global Giants GE, Philips and Siemens
+- 10/24 09:03 [FirstSquawk] WSJ: US Sanctions Force Suspension of Iranian Exports to Pakistan, Official Says
+- 10/24 09:04 [FirstSquawk] Toyota to Produce Next-Generation Corolla in China as Automaker Adapts to Slowing Market
+- 10/24 09:05 [FirstSquawk] US Working to Reposition Some Middle East Diplomats Amid Regional Tensions, CNN Reports
+- 10/24 09:12 [FirstSquawk] Attacks on Ships in Strait of Hormuz Surge to Record Levels in October
+- 10/24 09:21 [FirstSquawk] Trump Says Washington May Carry Out Another Operation Against Iran - RTRS
+- 10/24 09:24 [FirstSquawk] Saudi-Led Coalition Says Drone Was Intercepted and Destroyed in Eastern Region
+- 10/24 09:24 [financialjuice] Saudi-led coalition: intercepted and destroyed drone over eastern region
+- 10/24 09:24 [FirstSquawk] OpenAI Reports Brotli Compression Library Flaw That Allows Remote Code Execution Without Authentication
+- 10/24 09:25 [FirstSquawk] GSK Reports 11.1-Month Median Progression-Free Survival With Mo-Rez in Platinum-Resistant Ovarian Cancer
+- 10/24 09:25 [FirstSquawk] GSK Announces 62% Confirmed Objective Response Rate and 12.2-Month Median Response Duration With Mo-Rez in Ovarian Cancer Trial
+- 10/24 09:27 [FirstSquawk] Hegseth: Confucius Institutes Classified as a Threat to US National Security
+- 10/24 09:27 [FirstSquawk] Moody’s Ratings Completes Scheduled Review of Venezuela’s Sovereign Ratings
+- 10/24 09:28 [FirstSquawk] Axios: US Intelligence Memo Raised Alarm Over Iranian Threats Against American Officials
+- 10/24 09:28 [FirstSquawk] Axios: Intelligence Assessments Suggest Iran Is Pursuing Targets Among American Officials and Diplomats
+- 10/24 09:29 [FirstSquawk] Claims of Undisclosed Russian Control Prompt US Executives to Leave $25 Billion Gas Venture - FT
+- 10/24 09:31 [FirstSquawk] Jaguar Land Rover Recalls Some US Vehicles Over Rearview Camera Display Failure, NHTSA Says
+- 10/24 09:35 [FirstSquawk] Brazil Central Bank Says Rollout of New Measures Will Begin in March or July 2027, Depending on Requirements
+- 10/24 09:38 [FirstSquawk] Brazil’s Central Bank Sets New Requirements for Credit Provision at the Start of Pix Transactions

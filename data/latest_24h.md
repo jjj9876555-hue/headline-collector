@@ -7,96 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-24 07:08 JST／対象: 10/23 07:08 〜 10/24 07:08 JST（時刻はすべて日本時間）
+生成: 2026-10-24 09:39 JST／対象: 10/23 09:39 〜 10/24 09:39 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 40 | 10/23 20:19 | 10/24 05:02 | ⚠ 128分（01:01→03:09） |
-| FirstSquawk | 202 | 10/23 07:11 | 10/24 05:03 | 36分（18:54→19:30） |
-| financialjuice | 215 | 10/23 08:01 | 10/24 06:38 | ⚠ 84分（19:30→20:55） |
+| FirstSquawk | 177 | 10/23 09:41 | 10/24 09:38 | ⚠ 239分（05:03→09:02） |
+| financialjuice | 188 | 10/23 09:59 | 10/24 09:24 | ⚠ 84分（19:30→20:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 442 行（統合前 457 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 390 行（統合前 405 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/23 07:11 [FirstSquawk] NIKKEI FUTURES TRADE AT 62,500 VERSUS A CASH CLOSE OF 62,907
-- 10/23 07:15 [FirstSquawk] TRUMP, ASKED ABOUT ZELENSKIY SAYING NEW RUSSIAN STRIKES OVERNIGHT ARE PROOF PUTIN DOES NOT WANT PEACE, SAYS “WE WILL SEE HOW IT WORKS OUT,” ADDING THAT THIS HAS BEEN HAPPENING A LOT
-- 10/23 07:15 [FirstSquawk] TRUMP, ON UKRAINE’S STARLINK ACCESS, SAYS HE DOES NOT WANT TO COMMENT ON WHETHER HE OR SOMEBODY ELSE CALLED, ADDING THAT THE BOTTOM LINE IS “HE PUT IT BACK”
-- 10/23 07:15 [FirstSquawk] TRUMP SAYS HE WANTS HIS PEOPLE TO BE HONEST, AND THAT IF THEY ARE NOT GOING TO BE HONEST, THEY HAVE TO BE PROSECUTED
-- 10/23 07:15 [FirstSquawk] TRUMP, ASKED HOW THE IRAN WAR IMPACTED THE MIDTERM RACES, SAYS THAT IN ONE WAY THEY LOVE IT AND IN ANOTHER WAY MAYBE THEY DON’T, ADDING THAT THERE IS A PRICE TO PAY
-- 10/23 07:15 [FirstSquawk] TRUMP SAYS ON IRAN THAT “WE’VE KNOCKED THE HELL OUT OF THEM, AND WE MAY DO IT A LITTLE BIT FURTHER,” ADDING THAT MANY GREAT PATRIOTS REALLY LOVE THE IRAN WAR
-- 10/23 07:15 [FirstSquawk] TRUMP, ASKED WHETHER HE WOULD NOT ENDORSE JD VANCE FOR 2028 IF REPUBLICANS DON’T HOLD THEIR MAJORITIES, SAYS “WHERE DID YOU GET THAT IDEA? I NEVER EVEN THOUGHT OF IT,” ADDING THERE IS TOO MUCH TIME TO BE THINKING ABOUT THAT
-- 10/23 07:30 [FirstSquawk] OPENAI TRIMS VALUATION TARGET TO $1.25T AFTER PITCHING HIGHER PRICE – FT
-- 10/23 07:33 [FirstSquawk] SK HYNIX DECIDES NOT TO PURSUE US IPO OF SOLIDIGM – KOREA ECONOMIC DAILY
-- 10/23 07:35 [FirstSquawk] SK HYNIX SAYS A SOLIDIGM IPO REVIEW HAS BEEN DISCONTINUED IN LIGHT OF MARKET CONDITIONS AND SHARE PRICE TRENDS, ADDING THAT THE NEED TO INVEST IN SOLIDIGM’S GROWTH REMAINS UNCHANGED AND THAT ALTERNATIVES TO ENHANCE SHAREHOLDER VALUE WILL CO…
-- 10/23 07:50 [FirstSquawk] AUSTRALIA PROPOSES RAISING THE CAP ON BANKS’ COVERED BOND ISSUANCE AND HAS OPENED A CONSULTATION ON FINANCIAL SECTOR COMPETITION, INTENDING TO IMPLEMENT THE REFORMS FROM LATER THIS YEAR
-- 10/23 08:01 [financialjuice] UK GfK major purchases index drops to lowest since Sept 2024, inflation outlook rises
-- 10/23 08:01 [financialjuice] UK GfK consumer confidence falls to -24 in October from -13 in September, largest monthly decline since 2020
-- 10/23 08:02 [FirstSquawk] UK GFK CONSUMER CONFIDENCE FELL TO -24 IN OCTOBER FROM -13 IN SEPTEMBER, THE LARGEST MONTHLY DECLINE SINCE 2020, WITH THE MAJOR PURCHASES INDEX DROPPING TO ITS LOWEST SINCE SEPTEMBER 2024 AND THE INFLATION OUTLOOK RISING
-- 10/23 08:07 [FirstSquawk] AUSTRALIA’S S&P/ASX 200 INDEX IS DOWN 0.4% AT 8,756.00 POINTS IN EARLY TRADE
-- 10/23 08:21 [FirstSquawk] GERMAN DEFENSE OFFICIALS HAVE ADVISED BERLIN TO JOIN SWEDEN AND SPAIN IN A NEW FIGHTER JET PROJECT RATHER THAN THE BRITISH-LED GLOBAL COMBAT AIR PROGRAMME, CALLING A GERMAN-SWEDISH-SPANISH PARTNERSHIP “THE MORE ADVANTAGEOUS AND PROMISING” O…
-- 10/23 08:21 [FirstSquawk] THE ASSESSMENT FOLLOWS THE COLLAPSE IN JUNE OF THE FRANCO-GERMAN FCAS PROGRAM AFTER YEARS OF DISPUTES BETWEEN DASSAULT AND AIRBUS OVER CONTROL AND WORKSHARE - POLITICO
-- 10/23 08:30 [financialjuice] ❗ JAPANESE CORE CPI NATIONWIDE YOY ACTUAL 2.1% (FORECAST 2.1%, PREVIOUS 1.7%) $MACRO
-- 10/23 08:30 [financialjuice] ‼ BREAKING: JAPANESE CPI OVERALL NATIONWIDE ACTUAL 2.1% (FORECAST 2.1%, PREVIOUS 1.9%) $MACRO
-- 10/23 08:30 [financialjuice] Japan Sept nationwide core CPI 2.1% yr/yr: govt (Poll +2.1%)
-- 10/23 08:30 [financialjuice] Japan Sept nationwide core-core CPI excluding fresh food, energy prices rises 2.4% yr/yr: govt
-- 10/23 08:30 [FirstSquawk] JAPAN SEPTEMBER NATIONWIDE CORE CPI ROSE 2.1% YOY, IN LINE WITH THE POLL AND UP FROM 1.7% PREVIOUSLY, WITH OVERALL CPI UP 2.1% FROM 1.9% AND CORE-CORE CPI, EXCLUDING FRESH FOOD AND ENERGY, UP 2.4%
-- 10/23 08:30 [financialjuice] Japan Sept Nationwide Overall CPI rises 2.1% yr/yr: govt
-- 10/23 08:31 [financialjuice] Japan nationwide core, core-core and overall CPI all increase by more than 2%
-- 10/23 08:31 [financialjuice] Japan core consumer prices index increases over 2% for first time since December 2023
-- 10/23 08:31 [FirstSquawk] OIL SURGED AS DEADLY ATTACKS IN SAUDI ARABIA HEIGHTENED SUPPLY DISRUPTION FEARS, WITH BRENT RISING 4% TO $113.17/BBL AND WTI GAINING 2.4% TO $99.47; US EMBASSY PERSONNEL WERE ORDERED TO LEAVE SOME POSTS AMID ESCALATING REGIONAL TENSIONS.
-- 10/23 08:31 [FirstSquawk] DESPITE CRUDE FLOWS THROUGH THE STRAIT OF HORMUZ RECOVERING TOWARD PRE-WAR LEVELS, CONSTRAINED FUEL SHIPMENTS AND RUSSIAN REFINERY ATTACKS ARE TIGHTENING DIESEL SUPPLIES, WHILE A PLANNED 40,000-TON RUSSIAN DIESEL SHIPMENT TO THE US DRAWS PO…
-- 10/23 08:31 [financialjuice] Japan core-core CPI climbs over 2% for first time since March
-- 10/23 08:32 [financialjuice] Japan overall consumer prices increase by more than 2% for first time since December 2025
-- 10/23 08:32 [financialjuice] Japan september CPI excluding fresh food, energy prices rises 2.4% year on year: govt
-- 10/23 08:37 [financialjuice] US State Dept: US welcomes outcome of third round of political reconciliation talks between Venezuela's 2015 National Assembly and interim government
-- 10/23 08:37 [financialjuice] State Dept: continue to press for immediate release of all political prisoners in Venezuela
-- 10/23 08:37 [financialjuice] US State Dept: Venezuelan-led process advances democratic institutions, establishes foundation for free, fair, credible elections
-- 10/23 08:37 [FirstSquawk] THE U.S. STATE DEPARTMENT SAYS IT WELCOMES THE CONCLUSION OF A THIRD ROUND OF POLITICAL RECONCILIATION TALKS BETWEEN VENEZUELA’S 2015 NATIONAL ASSEMBLY AND INTERIM GOVERNMENT, AND CONTINUES TO URGE THE IMMEDIATE RELEASE OF ALL POLITICAL PRI…
-- 10/23 08:38 [FirstSquawk] THE STATE DEPARTMENT SAYS THE VENEZUELAN-LED PROCESS CONTINUES TO STRENGTHEN DEMOCRATIC INSTITUTIONS AND LAY THE GROUNDWORK FOR FREE, FAIR AND CREDIBLE ELECTIONS
-- 10/23 08:40 [FirstSquawk] CNN, CITING U.S. OFFICIALS, SAYS THE LIKELIHOOD OF RENEWED CONFLICT WITH IRAN WOULD BE SHORT-TERM BUT INTENSE, AND THAT TRUMP’S ADVISORS HAVE PREPARED PLANS FOR STRIKES ON IRAN IN COORDINATION WITH ISRAEL IMMEDIATELY UPON THE PRESIDENT’S AP…
-- 10/23 08:40 [FirstSquawk] CNN, CITING OFFICIALS, SAYS U.S. MILITARY USE OF MOTHER-OF-ALL-BOMBS AGAINST IRANIAN ENERGY FACILITIES AND NUCLEAR SITES IS AN OPTION UNDER CONSIDERATION
-- 10/23 08:46 [FirstSquawk] JAPAN’S NIKKEI FUTURES FALL 1.5% IN EARLY TRADE
-- 10/23 08:46 [FirstSquawk] JAPAN’S 10-YEAR JGB FUTURES RISE 0.6 POINT IN EARLY TRADE
-- 10/23 08:50 [financialjuice] Dollar/yen hits one-month low, last down 0.15% at 156.53
-- 10/23 08:53 [financialjuice] Japan economy minister Kiuchi: government’s decision on declaring official end to deflation will consider CPI, GDP deflator and factors behind inflation trends
-- 10/23 08:54 [FirstSquawk] JAPAN’S FINANCE MINISTER KATAYAMA SAYS SHE CANNOT COMMENT ON A REVIVAL OF GASOLINE SUBSIDIES BUT WILL TAKE THE HOUSEHOLD SITUATION INTO CONSIDERATION
-- 10/23 08:54 [FirstSquawk] JAPAN’S FINANCE MINISTER KATAYAMA SAYS SHE BELIEVES JAPANESE FINANCIAL INSTITUTIONS HAVE HANDLED THE PHP ISSUE RELATIVELY SMOOTHLY AND EXPECTS THEM TO CONTINUE TO TAKE NECESSARY ACTION
-- 10/23 08:55 [financialjuice] Japan economy minister Kiuchi: hopes BoJ steers policy suitably based on joint statement with government emphasizing need for stable, sustainable price stability
-- 10/23 08:55 [financialjuice] Dollar/yen falls to three-week low, last down 0.15% at 156.53
-- 10/23 08:56 [financialjuice] Japan economy minister Kiuchi: conditions not met for government to declare official end to deflation
-- 10/23 08:57 [FirstSquawk] JAPAN’S ECONOMY MINISTER KIUCHI SAYS THE GOVERNMENT’S DECISION ON WHETHER TO DECLARE AN OFFICIAL END TO DEFLATION WILL BE MADE LOOKING COMPREHENSIVELY AT CPI, THE GDP DEFLATOR AND THE BACKGROUND BEHIND MOVES IN UNDERLYING INFLATION, ADDING …
-- 10/23 08:57 [FirstSquawk] JAPAN’S ECONOMY MINISTER KIUCHI SAYS HE HOPES THE BOJ GUIDES POLICY APPROPRIATELY BASED ON ITS JOINT STATEMENT WITH THE GOVERNMENT STIPULATING THE NEED FOR STABLE, SUSTAINABLE PRICE STABILITY
-- 10/23 09:01 [financialjuice] Peak British day gas demand projected at 493 mcm this winter vs peak supply of 592 mcm
-- 10/23 09:01 [financialjuice] Britain’s energy grid operators forecast adequate electricity and gas supply this winter
-- 10/23 09:08 [financialjuice] US Justice Department requests appeals court to step in over 20,000 California mail-in ballots dispute -court filing
-- 10/23 09:09 [FirstSquawk] 10-Year JGB Yield Declines to 2.810%, Down 7 Basis Points
-- 10/23 09:10 [FirstSquawk] Samsung Electronics Shares Decline 3%
-- 10/23 09:10 [FirstSquawk] South Korea’s KOSPI Drops 2%
-- 10/23 09:11 [FirstSquawk] UK ENERGY GRID OPERATORS EXPECT SUFFICIENT GAS AND ELECTRICITY SUPPLIES THIS WINTER
-- 10/23 09:12 [FirstSquawk] 20-Year JGB Yield Declines to 3.620%, Down 6 Basis Points
-- 10/23 09:12 [FirstSquawk] 5-Year JGB Yield Slides to 2.225%, Down 6.5 Basis Points
-- 10/23 09:13 [FirstSquawk] US Justice Department Urges Appeals Court to Step In Over 20,000 California Mail-In Ballots Dispute
-- 10/23 09:14 [financialjuice] Saudi Arabia issues early warning alert in Riyadh
-- 10/23 09:17 [FirstSquawk] EUROPEAN STOCK FUTURES MIXED: EUROSTOXX 50 +0.1%, DAX FLAT, FTSE +0.1%
-- 10/23 09:18 [FirstSquawk] US STOCK FUTURES MIXED: S&P 500 FUTURES FLAT, NASDAQ FUTURES -0.1%
-- 10/23 09:18 [FirstSquawk] Early Warning Alert Issued in Saudi Arabia’s Capital, Riyadh
-- 10/23 09:19 [financialjuice] China PBOC likely to fix yuan midpoint at 6.6758 per dollar - estimate
-- 10/23 09:19 [FirstSquawk] US Stock Futures Mixed: S&P 500 Flat, Nasdaq Down 0.1%
-- 10/23 09:22 [financialjuice] Saudi civil defense: danger has passed in Riyadh
-- 10/23 09:22 [FirstSquawk] ASIA-PACIFIC EQUITIES OPEN NEGATIVE FOLLOWING TECH-LED LOSSES ON WALL STREET AND SHIFT TO SAFE-HAVEN ASSETS; ASX 200 (-0.24%), NIKKEI 225 (-1.43%), KOSPI (-3.06%)
-- 10/23 09:30 [financialjuice] JAPANESE MFG PMI FLASH ACTUAL 53.3 (FORECAST -, PREVIOUS 54.1) $MACRO
-- 10/23 09:30 [financialjuice] JAPANESE COMPOSITE PMI FLASH ACTUAL 52.3 (FORECAST -, PREVIOUS 52.3) $MACRO
-- 10/23 09:30 [financialjuice] Japan s&p global october flash manufacturing pmi falls to 53.3 from 54.1 in september
-- 10/23 09:31 [FirstSquawk] Gold Prices Show Little Change as Market Consolidation Looms in the Near Term - WSJ
-- 10/23 09:36 [FirstSquawk] JAPAN SERVICES PMI: 52.0 (PREV 51.3)
-- 10/23 09:36 [FirstSquawk] JAPAN MANUFACTURING PMI: 53.3 (PREV 54.1)
-- 10/23 09:36 [FirstSquawk] JAPAN S&P GLOBAL COMPOSITE PMI OCT P: 52.3 (PREV 52.3)
 - 10/23 09:41 [FirstSquawk] Hyundai Plans to Hire Approximately 3,000 Workers for Its Shipyard
 - 10/23 09:42 [FirstSquawk] HD Hyundai Unit to Assess US Navy Support Vessel Contracts, Commercial Shipbuilding and Shipyard Supply Opportunities
 - 10/23 09:47 [FirstSquawk] Singapore Private Home Price Growth Slows to 0.9% Q/Q in Q3, Below Forecast of 1.4%
@@ -466,3 +393,24 @@
 - 10/24 05:51 [financialjuice] Moody's: The recent sharp rise in French government bond yields adds to the risks of a further weakening of debt affordability.
 - 10/24 05:55 [financialjuice] France Fin. Min. Lescure: The Moody's call recognizes the solidity of the French economy.
 - 10/24 06:38 [financialjuice] US Secretary of Defense Hegseth: Defense department designates Confucius Institutes as national security threat
+- 10/24 07:59 [financialjuice] OpenAI: red-teaming exercise uncovers vulnerability enabling unauthenticated remote code execution in Brotli compression library
+- 10/24 09:02 [FirstSquawk] US Pentagon Identifies Confucius Institutes as a Threat to National Security - RTRS
+- 10/24 09:03 [FirstSquawk] Hong Kong Hospitals Increasingly Buy Chinese Medical Devices, Putting Pressure on Global Giants GE, Philips and Siemens
+- 10/24 09:03 [FirstSquawk] WSJ: US Sanctions Force Suspension of Iranian Exports to Pakistan, Official Says
+- 10/24 09:04 [FirstSquawk] Toyota to Produce Next-Generation Corolla in China as Automaker Adapts to Slowing Market
+- 10/24 09:05 [FirstSquawk] US Working to Reposition Some Middle East Diplomats Amid Regional Tensions, CNN Reports
+- 10/24 09:12 [FirstSquawk] Attacks on Ships in Strait of Hormuz Surge to Record Levels in October
+- 10/24 09:21 [FirstSquawk] Trump Says Washington May Carry Out Another Operation Against Iran - RTRS
+- 10/24 09:24 [FirstSquawk] Saudi-Led Coalition Says Drone Was Intercepted and Destroyed in Eastern Region
+- 10/24 09:24 [financialjuice] Saudi-led coalition: intercepted and destroyed drone over eastern region
+- 10/24 09:24 [FirstSquawk] OpenAI Reports Brotli Compression Library Flaw That Allows Remote Code Execution Without Authentication
+- 10/24 09:25 [FirstSquawk] GSK Reports 11.1-Month Median Progression-Free Survival With Mo-Rez in Platinum-Resistant Ovarian Cancer
+- 10/24 09:25 [FirstSquawk] GSK Announces 62% Confirmed Objective Response Rate and 12.2-Month Median Response Duration With Mo-Rez in Ovarian Cancer Trial
+- 10/24 09:27 [FirstSquawk] Hegseth: Confucius Institutes Classified as a Threat to US National Security
+- 10/24 09:27 [FirstSquawk] Moody’s Ratings Completes Scheduled Review of Venezuela’s Sovereign Ratings
+- 10/24 09:28 [FirstSquawk] Axios: US Intelligence Memo Raised Alarm Over Iranian Threats Against American Officials
+- 10/24 09:28 [FirstSquawk] Axios: Intelligence Assessments Suggest Iran Is Pursuing Targets Among American Officials and Diplomats
+- 10/24 09:29 [FirstSquawk] Claims of Undisclosed Russian Control Prompt US Executives to Leave $25 Billion Gas Venture - FT
+- 10/24 09:31 [FirstSquawk] Jaguar Land Rover Recalls Some US Vehicles Over Rearview Camera Display Failure, NHTSA Says
+- 10/24 09:35 [FirstSquawk] Brazil Central Bank Says Rollout of New Measures Will Begin in March or July 2027, Depending on Requirements
+- 10/24 09:38 [FirstSquawk] Brazil’s Central Bank Sets New Requirements for Credit Provision at the Start of Pix Transactions
