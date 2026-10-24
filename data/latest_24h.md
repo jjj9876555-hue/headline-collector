@@ -7,78 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-24 18:25 JST／対象: 10/23 18:25 〜 10/24 18:25 JST（時刻はすべて日本時間）
+生成: 2026-10-24 22:32 JST／対象: 10/23 22:32 〜 10/24 22:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 40 | 10/23 20:19 | 10/24 05:02 | ⚠ 128分（01:01→03:09） |
-| FirstSquawk | 188 | 10/23 18:37 | 10/24 18:13 | ⚠ 239分（05:03→09:02） |
-| financialjuice | 119 | 10/23 18:36 | 10/24 18:03 | ⚠ 293分（10:09→15:02） |
+| DeItaone | 34 | 10/23 22:40 | 10/24 05:02 | ⚠ 128分（01:01→03:09） |
+| FirstSquawk | 195 | 10/23 22:46 | 10/24 22:24 | ⚠ 239分（05:03→09:02） |
+| financialjuice | 110 | 10/23 22:41 | 10/24 21:44 | ⚠ 293分（10:09→15:02） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 330 行（統合前 348 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 324 行（統合前 340 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/23 18:36 [financialjuice] Kremlin: Ukraine talks in Abu Dhabi set for early November. Ukraine talks will be in a three-party format - IFX
-- 10/23 18:37 [FirstSquawk] GERMAN GOVERNMENT SPOKESPERSON SAYS CHANCELLOR MERZ WILL BE TRAVELLING TO JAPAN, SOUTH KOREA AND SINGAPORE FROM MONDAY
-- 10/23 18:51 [FirstSquawk] GERMAN GOVERNMENT SPOKESPERSON SAYS ELECTRICITY TAX CUT IS CLEARLY ON THE AGENDA BUT WILL BE CONTINGENT ON SUFFICIENT BUDGET FINANCING
-- 10/23 18:54 [FirstSquawk] GERMAN MINISTRY SPOKESPERSON SAYS ELECTRICITY TAX CUT WOULD MEAN REDUCTION OF ABOUT €5 BILLION IN ANNUAL TAX REVENUES
-- 10/23 19:27 [financialjuice] Global crude steel output falls 0.2% to 142.4 mln t in Sept 2026 vs Sept 2025 - Worldsteel
-- 10/23 19:27 [financialjuice] China crude steel output rises 0.1% to 73.6 mln t in Sept 2026 vs Sept 2025 - Worldsteel
-- 10/23 19:30 [financialjuice] RUSSIAN INTEREST RATE DECISION ACTUAL 14% (FORECAST 14%, PREVIOUS 14.00%) $MACRO
-- 10/23 19:30 [FirstSquawk] RUSSIAN CENTRAL BANK LEAVES KEY RATE AT 14.00%; EST 14.00%
-- 10/23 19:31 [FirstSquawk] CHINA'S FOREIGN MINISTER SAYS THE MULTILATERAL TRADING SYSTEM MUST BE SAFEGUARDED, MORE OPEN TRADING ORDER MUST BE FOSTERED
-- 10/23 19:40 [FirstSquawk] CHINA'S FOREIGN MINISTER SAYS RISE OF GLOBAL SOUTH IS MOST MOMENTOUS SHIFT WORLD HAS SEEN SINCE WW2; GLOBAL SOUTH MUST BE BETTER REPRESENTED IN INTERNATIONAL AFFAIRS
-- 10/23 19:42 [FirstSquawk] CHINA'S FOREIGN MINISTER SAYS AI MUST BE KEPT UNDER HUMAN CONTROL, BENEFIT HUMANITY
-- 10/23 20:04 [FirstSquawk] American Express Q3 2026 Earnings - Rev: USD 20.06B (est USD 20.12B) - Booked USD 982M Pre-Tax Gain On GBTG Sale - Adj EPS: USD 4.68 - Billed Business: USD 454B (est USD 456.93B) - Provision For Credit Losses: USD 1B - Total Expenses: USD 1…
-- 10/23 20:19 [DeItaone] UBS SEES $4,000 AS KEY SUPPORT FOR GOLD UBS expects gold could retest $4,000/oz, but sees strong dip-buying demand establishing a floor. Despite rising U.S. real yields and a stronger dollar, central bank buying, Chinese demand and debt con…
-- 10/23 20:21 [FirstSquawk] UK GILT DEALERS SEE MEDIAN £3.4 BLN RISE IN 2026/27 GILT ISSUANCE TO £249.6 BLN AFTER BUDGET-POLL; UK GILT DEALERS SEE MEDIAN £5 BLN RISE IN 2026/27 NET T-BILL ISSUANCE TO £10 BLN AFTER BUDGET - POLL
-- 10/23 20:23 [FirstSquawk] UK GILT DEALERS SEE MEDIAN £26.7 BLN RISE IN 2027/28 GROSS FINANCING REQUIREMENT TO £334.3 BLN - POLL; UK GILT DEALERS SEE UK GOVERNMENT HEADROOM VS 2029/30 BUDGET RULE FALLING TO £15.1 BLN FROM £23.6 BLN -POLL
-- 10/23 20:24 [FirstSquawk] CHINA CABINET MEETING: SHOULD STRIVE TO STABILISE NUMBER OF NEW BIRTHS; SHOULD EXPAND SERVICES SECTOR INVESTMENT - STATE MEDIA
-- 10/23 20:28 [FirstSquawk] CHINA: ISSUES POSITION PAPER ON ENHANCING OUTER SPACE GOVERNANCE
-- 10/23 20:37 [FirstSquawk] BRISTOL -MYERS SQUIBB COMPANY SAYS MEDIAN PFS 8.2 MONTHS FOR IZA-BREN VS 4.0 MONTHS FOR CHEMOTHERAPY IN PHASE 3 STUDY; IZA-BREN DEMONSTRATES CLINICAL BENEFIT IN FIVE DISTINCT TUMOR TYPES
-- 10/23 20:38 [FirstSquawk] BRISTOL-MYERS SQUIBB COMPANY SAYS CORR 40.5% FOR IZA-BREN VS 20.2% FOR CHEMOTHERAPY; MDOR 6.9 VS 4.2 MONTHS; IZA-BREN REDUCES RISK OF PROGRESSION OR DEATH BY 59% IN PHASE 3 BREAST CANCER STUDY
-- 10/23 20:55 [financialjuice] Tech Rout Eases & Oil Strength Caps Relief - Europe Market Wrap
-- 10/23 20:57 [FirstSquawk] ZELENSKIY SAYS UKRAINE BRINGS BACK 270 PEOPLE IN PRISONER SWAP WITH RUSSIA,
-- 10/23 21:01 [FirstSquawk] SAUDI-LED COALITION SAYS INTERCEPTS MISSILE FIRED AT KHAMIS MUSHAIT
-- 10/23 21:03 [DeItaone] https://t.co/UIqlqMug7h
-- 10/23 21:04 [financialjuice] Secured Overnight Financing rate 3.90% October 22nd vs 3.88% October 21st.
-- 10/23 21:05 [financialjuice] Morning Juice – US Session Prep (23rd October)
-- 10/23 21:14 [DeItaone] OIL FUTURES EXTEND GAINS, US WTI RISES OVER $2/BBL TO $101.62 ON CONCERNS OVER ESCALATING MIDDLE EAST TENSIONS
-- 10/23 21:17 [DeItaone] CHINA SAYS OUTER SPACE ARMS RACE RISK, BATTLEFIELD TREND ARE BIGGEST THREAT TO SPACE SECURITY - XINHUA
-- 10/23 21:18 [FirstSquawk] CHINA: OUTER SPACE ARMS RACE RISK, BATTLEFIELD TREND ARE BIGGEST THREAT TO SPACE SECURITY - XINHUA
-- 10/23 21:19 [DeItaone] CHINA SAYS IT OPPOSES WEAPONISATION AND BATTLEFIELDISATION OF OUTER SPACE - XINHUA CHINA SAYS IT OPPOSES OFFENSIVE MILITARY POLICIES IN OUTER SPACE, CALLS FOR PREVENTING ARMS RACE IN OUTER SPACE - XINHUA
-- 10/23 21:21 [FirstSquawk] CHINA: IT OPPOSES WEAPONISATION AND BATTLEFIELDISATION OF OUTER SPACE; IT OPPOSES OFFENSIVE MILITARY POLICIES IN OUTER SPACE, CALLS FOR PREVENTING ARMS RACE IN OUTER SPACE - XINHUA
-- 10/23 21:25 [FirstSquawk] ENI EXEC SAYS VENEZUELA JUNIN 5 OIL FIELD WILL LIKELY REACH 200,000 BARRELS OF PRODUCTION IN 18-24 MONTHS
-- 10/23 21:25 [FirstSquawk] CHINA OPPOSES USING OUTER SPACE FOR ACTIVITIES HARMING OTHER COUNTRIES' SOVEREIGNTY, SECURITY, DEVELOPMENT INTERESTS; CHINA OPPOSES COUNTRIES ABUSING DOMESTIC LAW TO OBSTRUCT OR UNILATERALLY SANCTION OTHERS' SPACE ACTIVITIES - XINHUA
-- 10/23 21:27 [FirstSquawk] ENI EXEC SAYS 60% OF SHIPPING WE DO IS UNDER LONG-TERM AGREEMENT, MITIGATING IMPACT OF RAISING SHIPPING COSTS
-- 10/23 21:29 [financialjuice/FirstSquawk] Passengers are being evacuated from Sheremetyevo Airport near Moscow - RIA
-- 10/23 21:30 [financialjuice] ❗ CANADIAN RETAIL SALES MOM ACTUAL 1.2% (FORECAST 1.3%, PREVIOUS -0.7%) $MACRO
-- 10/23 21:30 [financialjuice] CANADIAN CORE RETAIL SALES MOM ACTUAL 1.2% (FORECAST 1.1%, PREVIOUS -0.7%) $MACRO
-- 10/23 21:31 [financialjuice] Canadian Retail Sales August Report
-- 10/23 21:32 [DeItaone] 🇨🇦 CANADIAN RETAIL SALES SURGE, SIGNALING STRONGER CONSUMER DEMAND Canada's retail sales posted solid gains in August, with preliminary data pointing to continued growth in September. 🔸 August retail sales: +1.2% M/M, +5.4% Y/Y 🔸 Ex-autos: …
-- 10/23 21:36 [FirstSquawk] AMERICAN EXPRESS TO CUT 5 PCT OF JOBS, ABOUT 3,500 EMPLOYEES
-- 10/23 21:37 [financialjuice] American Express to cut 5% of jobs, about 3,500 employees $AXP
-- 10/23 21:51 [FirstSquawk] ENI EXEC SAYS GROUP HAS SUBMITTED DEVELOPMENT PLAN FOR VENEZUELA GAS FIELD PERLA; FINAL INVESTMENT DECISION ON VENEZUELA'S PERLA FIELD WILL COME ONCE GOVERNMENT HAS APPROVED DEVELOPMENT PLAN
-- 10/23 21:58 [financialjuice/FirstSquawk] US proposes further suspension of section 301 investigation into China's targeting of maritime, logistics, and shipbuilding sectors for dominance through January 9th, 2027 - Office of USTR
-- 10/23 22:00 [financialjuice] Effective fed funds rate 3.88% October 22nd vs 3.88% October 21st
-- 10/23 22:00 [FirstSquawk] U.S. EFFECTIVE FEDERAL FUNDS RATE AT 3.88 PCT ON 22 OCTOBER ON $119 BLN IN TRADES VS 3.88 PCT ON $110 BLN ON 21 OCTOBER SAYS FED DATA
-- 10/23 22:18 [financialjuice] Melania Trump secures Russia-Ukraine ceasefire localized to Oleshky
-- 10/23 22:19 [financialjuice] White House on the localised ceasefire between Ukraine and Russia: Ceasefire will begin on October 29th
-- 10/23 22:24 [financialjuice] Anthropic: Newer models are less likely to begin an attack
-- 10/23 22:25 [financialjuice] China's Foreign Minister Wang Yi: China and the US have the responsibility of managing AI.
-- 10/23 22:26 [financialjuice] Meta: the extension will allow it to explain to partners. Stakeholders about changes Meta Platforms, will extend the implementation date of updated commercial terms to November 20th from October 30th. $META
-- 10/23 22:27 [FirstSquawk] ANTHROPIC IS LOOKING INTO SPECIFIC BEHAVIORS OF CLAUDE MYTHOS 5 TO GAIN INSIGHT INTO THE MODEL'S ALIGNMENT.
-- 10/23 22:27 [FirstSquawk] ANTHROPIC'S CLAUDE OPUS 5.5 AND CLAUDE MYTHOS 5.1 FAIL TO CONSISTENTLY PREVENT ONGOING ATTACKS, WHILE THE COMPANY'S INTERNAL RESEARCH MODEL DOES ACHIEVE THIS CONSISTENCY.
-- 10/23 22:27 [FirstSquawk] ANTHROPIC REPORTED THAT MYTHOS 5 TRIED TO UPLOAD MALICIOUS CODE TO THEIR REPOSITORY.
-- 10/23 22:27 [FirstSquawk] CHINA'S FOREIGN MINISTER WANG YI SAYS CHINA AND THE US MUST WORK TOGETHER TO MANAGE AI AND IS LOOKING FOR COOPERATION ON THIS ISSUE.
-- 10/23 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -39.9 MLN NASDAQ 100: 10.0 MLN DOW 30: -8.9 MLN MAG 7: -7.8 MLN $MACRO
-- 10/23 22:31 [FirstSquawk] NASDAQ DOWN 111.60 POINTS, OR 0.43 PERCENT, AT 25,897.26 AFTER MARKET OPEN
 - 10/23 22:40 [DeItaone] TRUMP ADMINISTRATION'S $8 BILLION IN DIESEL AID FOR FARMERS WILL NOT ARRIVE BEFORE NOVEMBER 3 ELECTION, SAYS ADMINISTRATION OFFICIAL
 - 10/23 22:41 [financialjuice] Trump Administration's $8 billion in diesel aid for farmers will not arrive before the November 3rd election - Administration Official
 - 10/23 22:44 [DeItaone] S&P 500 AND NASDAQ HIT A FIVE-WEEK LOW; LAST DOWN 0.4% AND 0.2%, RESPECTIVELY
@@ -354,3 +299,52 @@
 - 10/24 18:03 [financialjuice] S.Korea presidential Blue House: monitoring North Korean leader Kim Jong Un’s China visit - Newsis
 - 10/24 18:04 [FirstSquawk] SOUTH KOREA PRESIDENTIAL BLUE HOUSE SAYS MONITORING NORTH KOREAN LEADER KIM JONG UN'S CHINA VISIT -NEWSIS
 - 10/24 18:13 [FirstSquawk] 5.9 MAG. EARTHQUAKE 196 KM NW OF PORT-OLRY VANUATU -USGS
+- 10/24 19:00 [FirstSquawk] Hamas: The occupation's campaign in the West Bank represents an extension of the criminal aggression being perpetrated against our people.
+- 10/24 19:00 [FirstSquawk] Hamas: The occupation's criminal policies are a dangerous escalation that calls for a unified national stance and serious international action to stop the aggression and deter it.
+- 10/24 19:00 [FirstSquawk] Lebanese President: The strong, unified state is built on the exclusivity of arms in the hands of its one army
+- 10/24 19:03 [FirstSquawk] SAUDI ARABIA POSTPONES NOVEMBER UN DATA EVENT - 2027
+- 10/24 19:10 [financialjuice] German chancellor Merz: Russia poses a huge threat to our freedom, seeks to destabilise Germany
+- 10/24 19:13 [FirstSquawk] GERMAN CHANCELLOR MERZ: WE ARE FACING A MASSIVE THREAT TO OUR FREEDOM FROM RUSSIA, WHICH IS AIMING TO DESTABILISE GERMANY
+- 10/24 19:25 [FirstSquawk] Joseph Aoun: Division protects no one, and our responsibility is to learn from past experiences.
+- 10/24 19:26 [FirstSquawk] Joseph Aoun: What is required is to place Lebanon's interest above narrow calculations and to work on fortifying unity.
+- 10/24 19:26 [FirstSquawk] Joseph Aoun: The state is not confronting its sons, but rather it is their guarantor.
+- 10/24 19:26 [FirstSquawk] Joseph Aoun: Weakening the state cannot strengthen any of its components.
+- 10/24 19:26 [FirstSquawk] German Chancellor: We face a massive threat to our freedom from Russia, which seeks to undermine the stability of our country.
+- 10/24 19:34 [FirstSquawk] KIM JONG UN MET WITH CHINA'S PREMIER LI QIANG: NYT
+- 10/24 19:43 [financialjuice] German Chancellor Merz: politicians backing far-right AfD have no place in our party
+- 10/24 19:47 [FirstSquawk] GERMAN CHANCELLOR MERZ: POLITICIANS GIVING SUPPORT TO FAR-RIGHT AFD PARTY HAVE NO PLACE IN OUR PARTY
+- 10/24 19:58 [FirstSquawk] NETANYAHU HAS ORDERED ISRAEL TO SHIFT ITS POSITION ON THE FALKLAND ISLANDS IN ARGENTINA’S FAVOR, FOLLOWING BRITISH SANCTIONS ON ISRAELI SETTLEMENTS IN THE WEST BANK, WITH ISRAELI DIPLOMATS INSTRUCTED TO SUPPORT DIRECT NEGOTIATIONS BETWEEN T…
+- 10/24 19:58 [FirstSquawk] THE MOVE STOPS SHORT OF FORMALLY ENDORSING ARGENTINA’S SOVEREIGNTY CLAIM BUT SIGNALS A DETERIORATION IN RELATIONS BETWEEN ISRAEL AND BRITAIN - THE TELEGRAPH
+- 10/24 20:04 [financialjuice] China’s top political advisor Wang Huning met North Korea’s Kim Jong Un in Dandong, Chinese state media
+- 10/24 20:05 [financialjuice] Ras al Khaimah public services department: all emirate beaches to close until further notice - RAK police GHQ
+- 10/24 20:05 [FirstSquawk] CHINESE STATE MEDIA SAYS BEIJING’S TOP POLITICAL ADVISOR WANG HUNING HELD TALKS WITH NORTH KOREA’S KIM JONG UN IN THE CHINESE CITY OF DANDONG
+- 10/24 20:07 [financialjuice] China, North Korea vow to boost people-to-people ties and economic, trade collaboration with new Yalu River bridge opening - Chinese state media
+- 10/24 20:07 [financialjuice] China, North Korea to boost strategic talks and cooperation to protect sovereignty, security and development interests: Chinese state media
+- 10/24 20:08 [financialjuice] Kim Jong Un visited Korean War memorial in Dandong, honored Chinese people's volunteer army martyrs: Chinese state media
+- 10/24 20:08 [financialjuice] kim jong un tours dandong car plant during china visit: chinese state media
+- 10/24 20:08 [FirstSquawk] CHINA AND NORTH KOREA PLEDGED TO EXPAND PEOPLE-TO-PEOPLE EXCHANGES AND ECONOMIC AND TRADE COOPERATION THROUGH THE OPENING OF A NEW YALU RIVER BRIDGE, AND WILL STRENGTHEN STRATEGIC COMMUNICATION AND COOPERATION TO SAFEGUARD SOVEREIGNTY, SECU…
+- 10/24 20:21 [FirstSquawk] Lebanese News Agency: The Israeli army carried out a massive explosion in the town of Al-Tayyiba in southern Lebanon.
+- 10/24 20:28 [FirstSquawk] UKRAINE’S DEFENSE MINISTRY SAYS STARLINK AND STARSHIELD SPEEDS HAVE BEEN RESTORED AFTER TWO WEEKS OF RESTRICTIONS THAT DISRUPTED MILITARY DRONE OPERATIONS AND FUELED TENSIONS BETWEEN KYIV AND THE TRUMP ADMINISTRATION
+- 10/24 21:09 [FirstSquawk] French Interior Minister Announces Arrest of 135 People in Connection with Protests and Seizure of Various Weapons
+- 10/24 21:09 [FirstSquawk] Russian official: 3 killed in Ukrainian attack targeting a factory in Oryol
+- 10/24 21:11 [financialjuice] Trump: May relocate White House press corps to new site
+- 10/24 21:12 [FirstSquawk] TRUMP SAYS 'MAY MOVE' WHITE HOUSE PRESS CORP TO A DIFFERENT LOCATION
+- 10/24 21:17 [FirstSquawk] TRUMP SAYS THERE IS A FAKE NEWS REPORT THAT HE IS GOING TO REMOVE THE WHITE HOUSE PRESS ROOM AND BRING BACK THE OLD SWIMMING POOL, WHICH LIES DIRECTLY UNDERNEATH - TRUTH SOCIAL
+- 10/24 21:17 [FirstSquawk] TRUMP SAYS THAT ALTHOUGH HE MAY MOVE THE FAKE NEWS TO A LESS OBNOXIOUS LOCATION, THE OLD SWIMMING POOL WILL NEVER BE BROUGHT BACK, ADDING HE NEVER EVEN THOUGHT TO DO SUCH A STUPID THING - TRUTH SOCIAL
+- 10/24 21:38 [FirstSquawk] TURKISH ARMED FORCES AIM TO PRODUCE 5 MLN KAMIKAZE DRONES WITHIN FIVE YEARS AND 10 MLN WITHIN A DECADE, CHIEF OF GENERAL STAFF GEN. SELCUK BAYRAKTAROGLU SAYS
+- 10/24 21:38 [FirstSquawk] SPOKESMAN FOR IRAN’S REVOLUTIONARY GUARDS SAYS IRAN WILL BECOME THE WORLD’S ABSOLUTE SUPERPOWER IN THE “FINAL WAR,” WITH BRIG. GEN. MOHEBBI SAYING “GOD WILLING, IN THE FINAL WAR WE WILL BECOME THE ABSOLUTE SUPERPOWER OF THE WORLD”
+- 10/24 21:38 [FirstSquawk] U.S. Embassy in Baghdad: Maintaining the highest level of travel advisory for Iraq amid threats of escalating Houthi attacks
+- 10/24 21:39 [FirstSquawk] U.S. Embassy in Baghdad: The Iraqi government cannot guarantee the safety of Americans from acts of violence or sudden conflicts
+- 10/24 21:39 [FirstSquawk] U.S. Embassy in Baghdad: Our ability to provide emergency services to our citizens in Iraq is limited due to security risks
+- 10/24 21:40 [FirstSquawk] Jordanian monarch during a National Security Council meeting: The hand of justice will reach every terrorist, and the security and safety of Jordanians is a red line
+- 10/24 21:43 [financialjuice] Zelenskiy: starlink restrictions completely removed
+- 10/24 21:44 [financialjuice] Iran President Pezeshkian blames US for interim deal failure: 'I still think we should conclude it' - state TV
+- 10/24 21:47 [FirstSquawk] IRAN PRESIDENT PEZESHKIAN BLAMES US FOR FAILURE OF INTERIM DEAL, SAYS HE STILL WANTS TO CONCLUDE IT — STATE TV
+- 10/24 21:59 [FirstSquawk] JOHNSON & JOHNSON ANNOUNCES ERLEADA ® (APALUTAMIDE) TREATMENT BEFORE AND AFTER SURGERY REDUCES RISK OF RECURRENCE OR DEATH BY 62% VERSUS SURGERY ALONE IN HIGH-RISK PROSTATE CANCER
+- 10/24 22:02 [FirstSquawk] Zelensky: Lift all restrictions imposed on Starlink service completely
+- 10/24 22:02 [FirstSquawk] Bezshkian says he still sees a need to move forward with concluding a temporary agreement with Washington.
+- 10/24 22:07 [FirstSquawk] DEFENSE SECRETARY HEGSETH’S OFFICE TRIED TO BLOCK U.S. TROOPS FROM PARTICIPATING IN SUNDAY’S NFL GAME IN PARIS AMID UNREST IN FRANCE, BUT THE PENTAGON PARTIALLY REVERSED THE DECISION AFTER THE STATE DEPARTMENT INTERVENED, CITING THE DIPLOMA…
+- 10/24 22:07 [FirstSquawk] PALANTIR CEO ALEX KARP SAYS HE HAS BEEN YELLING AT VARIOUS IMPORTANT GERMANS IN PRIVATE FOR A LONG TIME THAT IF THEY DO NOT TAKE MIGRATION SERIOUSLY IT IS GOING TO BE A DISASTER, ADDING THAT EVEN IF HE IS WRONG ON EVERY POINT, HE IS RIGHT A…
+- 10/24 22:14 [FirstSquawk] PALANTIR CEO ALEX KARP, ON AI, SAYS THAT WITH A MINOR EXCEPTION IN ISRAEL, CHINA AND THE U.S. ARE THE ONLY RELEVANT COUNTRIES, AND THAT THIS IS ONE THING HE IS APOPLECTIC ABOUT IN EUROPE, SAYING “YOU CAN’T HELP SOMEONE WHO DOESN’T WANT TO B…
+- 10/24 22:23 [FirstSquawk] COUCHE-TARD HAS MADE AN OFFER FOR CUMBERLAND FARMS, VALUING IT AT UP TO $8 BLN - TIMES
+- 10/24 22:24 [FirstSquawk] COUCHE-TARD HAS MADE AN OFFER FOR CUMBERLAND FARMS- TIMES

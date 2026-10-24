@@ -7,66 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-24 18:25 JST／対象: 10/24 06:25 〜 10/24 18:25 JST（時刻はすべて日本時間）
+生成: 2026-10-24 22:32 JST／対象: 10/24 10:32 〜 10/24 22:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 109 | 10/24 09:02 | 10/24 18:13 | 45分（12:58→13:44） |
-| financialjuice | 25 | 10/24 06:38 | 10/24 18:03 | ⚠ 293分（10:09→15:02） |
+| FirstSquawk | 112 | 10/24 10:39 | 10/24 22:24 | ⚠ 47分（18:13→19:00） |
+| financialjuice | 28 | 10/24 15:02 | 10/24 21:44 | ⚠ 67分（18:03→19:10） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 131 行（統合前 135 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 137 行（統合前 141 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/24 06:38 [financialjuice] US Secretary of Defense Hegseth: Defense department designates Confucius Institutes as national security threat
-- 10/24 07:59 [financialjuice] OpenAI: red-teaming exercise uncovers vulnerability enabling unauthenticated remote code execution in Brotli compression library
-- 10/24 09:02 [FirstSquawk] US Pentagon Identifies Confucius Institutes as a Threat to National Security - RTRS
-- 10/24 09:03 [FirstSquawk] Hong Kong Hospitals Increasingly Buy Chinese Medical Devices, Putting Pressure on Global Giants GE, Philips and Siemens
-- 10/24 09:03 [FirstSquawk] WSJ: US Sanctions Force Suspension of Iranian Exports to Pakistan, Official Says
-- 10/24 09:04 [FirstSquawk] Toyota to Produce Next-Generation Corolla in China as Automaker Adapts to Slowing Market
-- 10/24 09:05 [FirstSquawk] US Working to Reposition Some Middle East Diplomats Amid Regional Tensions, CNN Reports
-- 10/24 09:12 [FirstSquawk] Attacks on Ships in Strait of Hormuz Surge to Record Levels in October
-- 10/24 09:21 [FirstSquawk] Trump Says Washington May Carry Out Another Operation Against Iran - RTRS
-- 10/24 09:24 [FirstSquawk] Saudi-Led Coalition Says Drone Was Intercepted and Destroyed in Eastern Region
-- 10/24 09:24 [financialjuice] Saudi-led coalition: intercepted and destroyed drone over eastern region
-- 10/24 09:24 [FirstSquawk] OpenAI Reports Brotli Compression Library Flaw That Allows Remote Code Execution Without Authentication
-- 10/24 09:25 [FirstSquawk] GSK Reports 11.1-Month Median Progression-Free Survival With Mo-Rez in Platinum-Resistant Ovarian Cancer
-- 10/24 09:25 [FirstSquawk] GSK Announces 62% Confirmed Objective Response Rate and 12.2-Month Median Response Duration With Mo-Rez in Ovarian Cancer Trial
-- 10/24 09:27 [FirstSquawk] Hegseth: Confucius Institutes Classified as a Threat to US National Security
-- 10/24 09:27 [FirstSquawk] Moody’s Ratings Completes Scheduled Review of Venezuela’s Sovereign Ratings
-- 10/24 09:28 [FirstSquawk] Axios: US Intelligence Memo Raised Alarm Over Iranian Threats Against American Officials
-- 10/24 09:28 [FirstSquawk] Axios: Intelligence Assessments Suggest Iran Is Pursuing Targets Among American Officials and Diplomats
-- 10/24 09:29 [FirstSquawk] Claims of Undisclosed Russian Control Prompt US Executives to Leave $25 Billion Gas Venture - FT
-- 10/24 09:31 [FirstSquawk] Jaguar Land Rover Recalls Some US Vehicles Over Rearview Camera Display Failure, NHTSA Says
-- 10/24 09:35 [FirstSquawk] Brazil Central Bank Says Rollout of New Measures Will Begin in March or July 2027, Depending on Requirements
-- 10/24 09:38 [FirstSquawk] Brazil’s Central Bank Sets New Requirements for Credit Provision at the Start of Pix Transactions
-- 10/24 09:41 [FirstSquawk] Brazil Central Bank Introduces Requirement for Financial Institutions to Provide Consolidated Credit Information Dashboards to Customers
-- 10/24 09:44 [FirstSquawk] Firefighters Respond to Blaze at Hitler’s Former Teahouse in Berchtesgaden, Germany
-- 10/24 09:46 [FirstSquawk] Brazil Central Bank Mandates Clear Opt-Out Mechanism for Advertising and Unsolicited Credit Offers
-- 10/24 09:47 [FirstSquawk] Kenya Reports Another Ebola Fatality, Bringing Death Toll to Two - RTRS
-- 10/24 09:53 [FirstSquawk] Brazil’s Central Bank Approves Measures to Strengthen Oversight of Credit Provision by Financial Institutions
-- 10/24 09:58 [FirstSquawk] Saudi Arabia Warns of Possible Danger in Riyadh and Najran, State TV Reports
-- 10/24 09:58 [FirstSquawk] Howard Hughes Holdings Set for Entry Into S&P SmallCap 600 Index, According to S&P Dow Jones Indices
-- 10/24 09:58 [financialjuice] Saudi civil defense issues warning of potential threat in Riyadh and Najran: state TV
-- 10/24 10:01 [FirstSquawk] Saudi Civil Defense Issues Safety Alert for Wadi Al-Dawasir
-- 10/24 10:01 [financialjuice] Saudi civil defense issues warning on possible threat in Wadi Al-Dawasir governorate
-- 10/24 10:06 [FirstSquawk] Fitch Projects Slight Contraction for Ukraine’s Economy in 2026 and Modest 0.2% Expansion in 2027
-- 10/24 10:08 [FirstSquawk] Saudi Arabia Lifts Potential Danger Alert in Riyadh, Civil Defense Says
-- 10/24 10:08 [financialjuice] Saudi civil defense: danger has passed in Riyadh
-- 10/24 10:08 [FirstSquawk] Saudi Arabia Lifts Potential Danger Alert in Wadi Al-Dawasir Governorate
-- 10/24 10:08 [financialjuice] Saudi civil defense: danger has passed in Wadi Al-Dawasir governorate
-- 10/24 10:08 [FirstSquawk] Saudi Authorities Declare All-Clear in Najran After Potential Danger Alert
-- 10/24 10:09 [financialjuice] Saudi civil defense: danger has passed in Najran
-- 10/24 10:14 [FirstSquawk] Ukraine Likely to Maintain Substantial Fiscal Deficits as Domestic Revenue Generation Remains Weak, Fitch Says
-- 10/24 10:18 [FirstSquawk] Ukraine War Expected to Persist Through 2027, With Little Current Momentum Toward a Ceasefire, Fitch Says
-- 10/24 10:21 [FirstSquawk] Brazil’s Iochpe-Maxion Sets Aside €15 Million in Q3 for German Antitrust Proceedings
-- 10/24 10:26 [FirstSquawk] Lithuania’s ‘A+’ Rating Confirmed by Fitch With Stable Outlook
 - 10/24 10:39 [FirstSquawk] Yemen’s Houthis Launch Ballistic Missile Toward Riyadh, Saudi-Led Coalition Says
 - 10/24 10:48 [FirstSquawk] Most Russian KAB Guided Bombs Miss Bridge in Ukraine’s Kherson, Falling Into River
 - 10/24 10:51 [FirstSquawk] France’s Centre-Val de Loire Region Retains ‘A+’ Rating as Fitch Keeps Outlook Stable
@@ -155,3 +112,52 @@
 - 10/24 18:03 [financialjuice] S.Korea presidential Blue House: monitoring North Korean leader Kim Jong Un’s China visit - Newsis
 - 10/24 18:04 [FirstSquawk] SOUTH KOREA PRESIDENTIAL BLUE HOUSE SAYS MONITORING NORTH KOREAN LEADER KIM JONG UN'S CHINA VISIT -NEWSIS
 - 10/24 18:13 [FirstSquawk] 5.9 MAG. EARTHQUAKE 196 KM NW OF PORT-OLRY VANUATU -USGS
+- 10/24 19:00 [FirstSquawk] Hamas: The occupation's campaign in the West Bank represents an extension of the criminal aggression being perpetrated against our people.
+- 10/24 19:00 [FirstSquawk] Hamas: The occupation's criminal policies are a dangerous escalation that calls for a unified national stance and serious international action to stop the aggression and deter it.
+- 10/24 19:00 [FirstSquawk] Lebanese President: The strong, unified state is built on the exclusivity of arms in the hands of its one army
+- 10/24 19:03 [FirstSquawk] SAUDI ARABIA POSTPONES NOVEMBER UN DATA EVENT - 2027
+- 10/24 19:10 [financialjuice] German chancellor Merz: Russia poses a huge threat to our freedom, seeks to destabilise Germany
+- 10/24 19:13 [FirstSquawk] GERMAN CHANCELLOR MERZ: WE ARE FACING A MASSIVE THREAT TO OUR FREEDOM FROM RUSSIA, WHICH IS AIMING TO DESTABILISE GERMANY
+- 10/24 19:25 [FirstSquawk] Joseph Aoun: Division protects no one, and our responsibility is to learn from past experiences.
+- 10/24 19:26 [FirstSquawk] Joseph Aoun: What is required is to place Lebanon's interest above narrow calculations and to work on fortifying unity.
+- 10/24 19:26 [FirstSquawk] Joseph Aoun: The state is not confronting its sons, but rather it is their guarantor.
+- 10/24 19:26 [FirstSquawk] Joseph Aoun: Weakening the state cannot strengthen any of its components.
+- 10/24 19:26 [FirstSquawk] German Chancellor: We face a massive threat to our freedom from Russia, which seeks to undermine the stability of our country.
+- 10/24 19:34 [FirstSquawk] KIM JONG UN MET WITH CHINA'S PREMIER LI QIANG: NYT
+- 10/24 19:43 [financialjuice] German Chancellor Merz: politicians backing far-right AfD have no place in our party
+- 10/24 19:47 [FirstSquawk] GERMAN CHANCELLOR MERZ: POLITICIANS GIVING SUPPORT TO FAR-RIGHT AFD PARTY HAVE NO PLACE IN OUR PARTY
+- 10/24 19:58 [FirstSquawk] NETANYAHU HAS ORDERED ISRAEL TO SHIFT ITS POSITION ON THE FALKLAND ISLANDS IN ARGENTINA’S FAVOR, FOLLOWING BRITISH SANCTIONS ON ISRAELI SETTLEMENTS IN THE WEST BANK, WITH ISRAELI DIPLOMATS INSTRUCTED TO SUPPORT DIRECT NEGOTIATIONS BETWEEN T…
+- 10/24 19:58 [FirstSquawk] THE MOVE STOPS SHORT OF FORMALLY ENDORSING ARGENTINA’S SOVEREIGNTY CLAIM BUT SIGNALS A DETERIORATION IN RELATIONS BETWEEN ISRAEL AND BRITAIN - THE TELEGRAPH
+- 10/24 20:04 [financialjuice] China’s top political advisor Wang Huning met North Korea’s Kim Jong Un in Dandong, Chinese state media
+- 10/24 20:05 [financialjuice] Ras al Khaimah public services department: all emirate beaches to close until further notice - RAK police GHQ
+- 10/24 20:05 [FirstSquawk] CHINESE STATE MEDIA SAYS BEIJING’S TOP POLITICAL ADVISOR WANG HUNING HELD TALKS WITH NORTH KOREA’S KIM JONG UN IN THE CHINESE CITY OF DANDONG
+- 10/24 20:07 [financialjuice] China, North Korea vow to boost people-to-people ties and economic, trade collaboration with new Yalu River bridge opening - Chinese state media
+- 10/24 20:07 [financialjuice] China, North Korea to boost strategic talks and cooperation to protect sovereignty, security and development interests: Chinese state media
+- 10/24 20:08 [financialjuice] Kim Jong Un visited Korean War memorial in Dandong, honored Chinese people's volunteer army martyrs: Chinese state media
+- 10/24 20:08 [financialjuice] kim jong un tours dandong car plant during china visit: chinese state media
+- 10/24 20:08 [FirstSquawk] CHINA AND NORTH KOREA PLEDGED TO EXPAND PEOPLE-TO-PEOPLE EXCHANGES AND ECONOMIC AND TRADE COOPERATION THROUGH THE OPENING OF A NEW YALU RIVER BRIDGE, AND WILL STRENGTHEN STRATEGIC COMMUNICATION AND COOPERATION TO SAFEGUARD SOVEREIGNTY, SECU…
+- 10/24 20:21 [FirstSquawk] Lebanese News Agency: The Israeli army carried out a massive explosion in the town of Al-Tayyiba in southern Lebanon.
+- 10/24 20:28 [FirstSquawk] UKRAINE’S DEFENSE MINISTRY SAYS STARLINK AND STARSHIELD SPEEDS HAVE BEEN RESTORED AFTER TWO WEEKS OF RESTRICTIONS THAT DISRUPTED MILITARY DRONE OPERATIONS AND FUELED TENSIONS BETWEEN KYIV AND THE TRUMP ADMINISTRATION
+- 10/24 21:09 [FirstSquawk] French Interior Minister Announces Arrest of 135 People in Connection with Protests and Seizure of Various Weapons
+- 10/24 21:09 [FirstSquawk] Russian official: 3 killed in Ukrainian attack targeting a factory in Oryol
+- 10/24 21:11 [financialjuice] Trump: May relocate White House press corps to new site
+- 10/24 21:12 [FirstSquawk] TRUMP SAYS 'MAY MOVE' WHITE HOUSE PRESS CORP TO A DIFFERENT LOCATION
+- 10/24 21:17 [FirstSquawk] TRUMP SAYS THERE IS A FAKE NEWS REPORT THAT HE IS GOING TO REMOVE THE WHITE HOUSE PRESS ROOM AND BRING BACK THE OLD SWIMMING POOL, WHICH LIES DIRECTLY UNDERNEATH - TRUTH SOCIAL
+- 10/24 21:17 [FirstSquawk] TRUMP SAYS THAT ALTHOUGH HE MAY MOVE THE FAKE NEWS TO A LESS OBNOXIOUS LOCATION, THE OLD SWIMMING POOL WILL NEVER BE BROUGHT BACK, ADDING HE NEVER EVEN THOUGHT TO DO SUCH A STUPID THING - TRUTH SOCIAL
+- 10/24 21:38 [FirstSquawk] TURKISH ARMED FORCES AIM TO PRODUCE 5 MLN KAMIKAZE DRONES WITHIN FIVE YEARS AND 10 MLN WITHIN A DECADE, CHIEF OF GENERAL STAFF GEN. SELCUK BAYRAKTAROGLU SAYS
+- 10/24 21:38 [FirstSquawk] SPOKESMAN FOR IRAN’S REVOLUTIONARY GUARDS SAYS IRAN WILL BECOME THE WORLD’S ABSOLUTE SUPERPOWER IN THE “FINAL WAR,” WITH BRIG. GEN. MOHEBBI SAYING “GOD WILLING, IN THE FINAL WAR WE WILL BECOME THE ABSOLUTE SUPERPOWER OF THE WORLD”
+- 10/24 21:38 [FirstSquawk] U.S. Embassy in Baghdad: Maintaining the highest level of travel advisory for Iraq amid threats of escalating Houthi attacks
+- 10/24 21:39 [FirstSquawk] U.S. Embassy in Baghdad: The Iraqi government cannot guarantee the safety of Americans from acts of violence or sudden conflicts
+- 10/24 21:39 [FirstSquawk] U.S. Embassy in Baghdad: Our ability to provide emergency services to our citizens in Iraq is limited due to security risks
+- 10/24 21:40 [FirstSquawk] Jordanian monarch during a National Security Council meeting: The hand of justice will reach every terrorist, and the security and safety of Jordanians is a red line
+- 10/24 21:43 [financialjuice] Zelenskiy: starlink restrictions completely removed
+- 10/24 21:44 [financialjuice] Iran President Pezeshkian blames US for interim deal failure: 'I still think we should conclude it' - state TV
+- 10/24 21:47 [FirstSquawk] IRAN PRESIDENT PEZESHKIAN BLAMES US FOR FAILURE OF INTERIM DEAL, SAYS HE STILL WANTS TO CONCLUDE IT — STATE TV
+- 10/24 21:59 [FirstSquawk] JOHNSON & JOHNSON ANNOUNCES ERLEADA ® (APALUTAMIDE) TREATMENT BEFORE AND AFTER SURGERY REDUCES RISK OF RECURRENCE OR DEATH BY 62% VERSUS SURGERY ALONE IN HIGH-RISK PROSTATE CANCER
+- 10/24 22:02 [FirstSquawk] Zelensky: Lift all restrictions imposed on Starlink service completely
+- 10/24 22:02 [FirstSquawk] Bezshkian says he still sees a need to move forward with concluding a temporary agreement with Washington.
+- 10/24 22:07 [FirstSquawk] DEFENSE SECRETARY HEGSETH’S OFFICE TRIED TO BLOCK U.S. TROOPS FROM PARTICIPATING IN SUNDAY’S NFL GAME IN PARIS AMID UNREST IN FRANCE, BUT THE PENTAGON PARTIALLY REVERSED THE DECISION AFTER THE STATE DEPARTMENT INTERVENED, CITING THE DIPLOMA…
+- 10/24 22:07 [FirstSquawk] PALANTIR CEO ALEX KARP SAYS HE HAS BEEN YELLING AT VARIOUS IMPORTANT GERMANS IN PRIVATE FOR A LONG TIME THAT IF THEY DO NOT TAKE MIGRATION SERIOUSLY IT IS GOING TO BE A DISASTER, ADDING THAT EVEN IF HE IS WRONG ON EVERY POINT, HE IS RIGHT A…
+- 10/24 22:14 [FirstSquawk] PALANTIR CEO ALEX KARP, ON AI, SAYS THAT WITH A MINOR EXCEPTION IN ISRAEL, CHINA AND THE U.S. ARE THE ONLY RELEVANT COUNTRIES, AND THAT THIS IS ONE THING HE IS APOPLECTIC ABOUT IN EUROPE, SAYING “YOU CAN’T HELP SOMEONE WHO DOESN’T WANT TO B…
+- 10/24 22:23 [FirstSquawk] COUCHE-TARD HAS MADE AN OFFER FOR CUMBERLAND FARMS, VALUING IT AT UP TO $8 BLN - TIMES
+- 10/24 22:24 [FirstSquawk] COUCHE-TARD HAS MADE AN OFFER FOR CUMBERLAND FARMS- TIMES
