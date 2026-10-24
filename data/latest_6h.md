@@ -7,54 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-25 01:53 JST／対象: 10/24 19:53 〜 10/25 01:53 JST（時刻はすべて日本時間）
+生成: 2026-10-25 04:07 JST／対象: 10/24 22:07 〜 10/25 04:07 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 0 | - | - | - |
-| FirstSquawk | 55 | 10/24 19:58 | 10/25 01:51 | ⚠ 54分（23:38→00:32） |
-| financialjuice | 12 | 10/24 20:04 | 10/24 22:55 | ⚠ 62分（20:08→21:11） |
+| DeItaone | 1 | 10/25 03:55 | 10/25 03:55 | - |
+| FirstSquawk | 48 | 10/24 22:07 | 10/25 03:12 | ⚠ 54分（23:38→00:32） |
+| financialjuice | 7 | 10/24 22:44 | 10/25 04:02 | ⚠ 306分（22:55→04:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 67 行（統合前 68 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 56 行（統合前 57 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/24 19:58 [FirstSquawk] NETANYAHU HAS ORDERED ISRAEL TO SHIFT ITS POSITION ON THE FALKLAND ISLANDS IN ARGENTINA’S FAVOR, FOLLOWING BRITISH SANCTIONS ON ISRAELI SETTLEMENTS IN THE WEST BANK, WITH ISRAELI DIPLOMATS INSTRUCTED TO SUPPORT DIRECT NEGOTIATIONS BETWEEN T…
-- 10/24 19:58 [FirstSquawk] THE MOVE STOPS SHORT OF FORMALLY ENDORSING ARGENTINA’S SOVEREIGNTY CLAIM BUT SIGNALS A DETERIORATION IN RELATIONS BETWEEN ISRAEL AND BRITAIN - THE TELEGRAPH
-- 10/24 20:04 [financialjuice] China’s top political advisor Wang Huning met North Korea’s Kim Jong Un in Dandong, Chinese state media
-- 10/24 20:05 [financialjuice] Ras al Khaimah public services department: all emirate beaches to close until further notice - RAK police GHQ
-- 10/24 20:05 [FirstSquawk] CHINESE STATE MEDIA SAYS BEIJING’S TOP POLITICAL ADVISOR WANG HUNING HELD TALKS WITH NORTH KOREA’S KIM JONG UN IN THE CHINESE CITY OF DANDONG
-- 10/24 20:07 [financialjuice] China, North Korea vow to boost people-to-people ties and economic, trade collaboration with new Yalu River bridge opening - Chinese state media
-- 10/24 20:07 [financialjuice] China, North Korea to boost strategic talks and cooperation to protect sovereignty, security and development interests: Chinese state media
-- 10/24 20:08 [financialjuice] Kim Jong Un visited Korean War memorial in Dandong, honored Chinese people's volunteer army martyrs: Chinese state media
-- 10/24 20:08 [financialjuice] kim jong un tours dandong car plant during china visit: chinese state media
-- 10/24 20:08 [FirstSquawk] CHINA AND NORTH KOREA PLEDGED TO EXPAND PEOPLE-TO-PEOPLE EXCHANGES AND ECONOMIC AND TRADE COOPERATION THROUGH THE OPENING OF A NEW YALU RIVER BRIDGE, AND WILL STRENGTHEN STRATEGIC COMMUNICATION AND COOPERATION TO SAFEGUARD SOVEREIGNTY, SECU…
-- 10/24 20:21 [FirstSquawk] Lebanese News Agency: The Israeli army carried out a massive explosion in the town of Al-Tayyiba in southern Lebanon.
-- 10/24 20:28 [FirstSquawk] UKRAINE’S DEFENSE MINISTRY SAYS STARLINK AND STARSHIELD SPEEDS HAVE BEEN RESTORED AFTER TWO WEEKS OF RESTRICTIONS THAT DISRUPTED MILITARY DRONE OPERATIONS AND FUELED TENSIONS BETWEEN KYIV AND THE TRUMP ADMINISTRATION
-- 10/24 21:09 [FirstSquawk] French Interior Minister Announces Arrest of 135 People in Connection with Protests and Seizure of Various Weapons
-- 10/24 21:09 [FirstSquawk] Russian official: 3 killed in Ukrainian attack targeting a factory in Oryol
-- 10/24 21:11 [financialjuice] Trump: May relocate White House press corps to new site
-- 10/24 21:12 [FirstSquawk] TRUMP SAYS 'MAY MOVE' WHITE HOUSE PRESS CORP TO A DIFFERENT LOCATION
-- 10/24 21:17 [FirstSquawk] TRUMP SAYS THERE IS A FAKE NEWS REPORT THAT HE IS GOING TO REMOVE THE WHITE HOUSE PRESS ROOM AND BRING BACK THE OLD SWIMMING POOL, WHICH LIES DIRECTLY UNDERNEATH - TRUTH SOCIAL
-- 10/24 21:17 [FirstSquawk] TRUMP SAYS THAT ALTHOUGH HE MAY MOVE THE FAKE NEWS TO A LESS OBNOXIOUS LOCATION, THE OLD SWIMMING POOL WILL NEVER BE BROUGHT BACK, ADDING HE NEVER EVEN THOUGHT TO DO SUCH A STUPID THING - TRUTH SOCIAL
-- 10/24 21:38 [FirstSquawk] TURKISH ARMED FORCES AIM TO PRODUCE 5 MLN KAMIKAZE DRONES WITHIN FIVE YEARS AND 10 MLN WITHIN A DECADE, CHIEF OF GENERAL STAFF GEN. SELCUK BAYRAKTAROGLU SAYS
-- 10/24 21:38 [FirstSquawk] SPOKESMAN FOR IRAN’S REVOLUTIONARY GUARDS SAYS IRAN WILL BECOME THE WORLD’S ABSOLUTE SUPERPOWER IN THE “FINAL WAR,” WITH BRIG. GEN. MOHEBBI SAYING “GOD WILLING, IN THE FINAL WAR WE WILL BECOME THE ABSOLUTE SUPERPOWER OF THE WORLD”
-- 10/24 21:38 [FirstSquawk] U.S. Embassy in Baghdad: Maintaining the highest level of travel advisory for Iraq amid threats of escalating Houthi attacks
-- 10/24 21:39 [FirstSquawk] U.S. Embassy in Baghdad: The Iraqi government cannot guarantee the safety of Americans from acts of violence or sudden conflicts
-- 10/24 21:39 [FirstSquawk] U.S. Embassy in Baghdad: Our ability to provide emergency services to our citizens in Iraq is limited due to security risks
-- 10/24 21:40 [FirstSquawk] Jordanian monarch during a National Security Council meeting: The hand of justice will reach every terrorist, and the security and safety of Jordanians is a red line
-- 10/24 21:43 [financialjuice] Zelenskiy: starlink restrictions completely removed
-- 10/24 21:44 [financialjuice] Iran President Pezeshkian blames US for interim deal failure: 'I still think we should conclude it' - state TV
-- 10/24 21:47 [FirstSquawk] IRAN PRESIDENT PEZESHKIAN BLAMES US FOR FAILURE OF INTERIM DEAL, SAYS HE STILL WANTS TO CONCLUDE IT — STATE TV
-- 10/24 21:59 [FirstSquawk] JOHNSON & JOHNSON ANNOUNCES ERLEADA ® (APALUTAMIDE) TREATMENT BEFORE AND AFTER SURGERY REDUCES RISK OF RECURRENCE OR DEATH BY 62% VERSUS SURGERY ALONE IN HIGH-RISK PROSTATE CANCER
-- 10/24 22:02 [FirstSquawk] Zelensky: Lift all restrictions imposed on Starlink service completely
-- 10/24 22:02 [FirstSquawk] Bezshkian says he still sees a need to move forward with concluding a temporary agreement with Washington.
-- 10/24 22:07 [FirstSquawk] DEFENSE SECRETARY HEGSETH’S OFFICE TRIED TO BLOCK U.S. TROOPS FROM PARTICIPATING IN SUNDAY’S NFL GAME IN PARIS AMID UNREST IN FRANCE, BUT THE PENTAGON PARTIALLY REVERSED THE DECISION AFTER THE STATE DEPARTMENT INTERVENED, CITING THE DIPLOMA…
 - 10/24 22:07 [FirstSquawk] PALANTIR CEO ALEX KARP SAYS HE HAS BEEN YELLING AT VARIOUS IMPORTANT GERMANS IN PRIVATE FOR A LONG TIME THAT IF THEY DO NOT TAKE MIGRATION SERIOUSLY IT IS GOING TO BE A DISASTER, ADDING THAT EVEN IF HE IS WRONG ON EVERY POINT, HE IS RIGHT A…
 - 10/24 22:14 [FirstSquawk] PALANTIR CEO ALEX KARP, ON AI, SAYS THAT WITH A MINOR EXCEPTION IN ISRAEL, CHINA AND THE U.S. ARE THE ONLY RELEVANT COUNTRIES, AND THAT THIS IS ONE THING HE IS APOPLECTIC ABOUT IN EUROPE, SAYING “YOU CAN’T HELP SOMEONE WHO DOESN’T WANT TO B…
 - 10/24 22:23 [FirstSquawk] COUCHE-TARD HAS MADE AN OFFER FOR CUMBERLAND FARMS, VALUING IT AT UP TO $8 BLN - TIMES
@@ -91,3 +60,23 @@
 - 10/25 01:27 [FirstSquawk] Houthi Spokesman Houthi: We targeted King Fahd International Airport in Dammam, Najran Airport, and Khamis Mushait Airbase
 - 10/25 01:27 [FirstSquawk] Israeli Broadcasting Authority citing security sources: The operation in Hebron will continue and will not end before the elections
 - 10/25 01:51 [FirstSquawk] Clashes between French police and protesters in the capital Paris
+- 10/25 01:54 [FirstSquawk] United States condemns the attack that targeted a church in Karak Governorate in Jordan
+- 10/25 01:54 [FirstSquawk] U.S. State Department: We stand with Jordan in confronting those seeking to sow division
+- 10/25 02:41 [FirstSquawk] Saudi Civil Defense: Shrapnel from the interception of two ballistic missiles launched by the Houthi militia towards the regions of Mecca and Medina has fallen.
+- 10/25 02:41 [FirstSquawk] Saudi Civil Defense: Interception of the two ballistic missiles led to parts of them falling in Wadi al-Maghmas in the Holy Capital
+- 10/25 02:42 [FirstSquawk] Saudi Civil Defense: Shrapnel from intercepted missiles launched by the Houthi militia has fallen in areas of Jeddah, Taif, and Rabigh
+- 10/25 02:57 [FirstSquawk] Bezshkyan says that many Iranians "are struggling to secure food" amid escalating economic pressures.
+- 10/25 02:57 [FirstSquawk] Iranian President Calls for Ending the "State of Neither War Nor Peace"
+- 10/25 02:58 [FirstSquawk] French Interior Minister: Nearly 1,000 people arrested during protests in France amid expectations of a rising toll
+- 10/25 02:58 [FirstSquawk] French police disperse protesters in Paris using water cannons
+- 10/25 02:58 [FirstSquawk] French Interior Ministry: Several disturbances in Marseille, Lyon, Paris, and other cities at the close of today's demonstrations
+- 10/25 02:58 [FirstSquawk] French Interior Minister: The police faced an extremely high level of violence
+- 10/25 02:58 [FirstSquawk] French Interior Minister: 410,000 demonstrators participated in 289 actions across the country.
+- 10/25 02:59 [FirstSquawk] Netanyahu in an election statement: Iran has resumed its nuclear program and is seeking to eliminate us in the near future.
+- 10/25 03:12 [FirstSquawk] Yemeni Armed Forces: We carried out 736 precise and direct targeting operations over the past 24 hours
+- 10/25 03:12 [FirstSquawk] Yemeni Armed Forces: We targeted a command and control center and heavy weapons depots belonging to the Houthis in Taiz
+- 10/25 03:55 [DeItaone] MUSK SAYS UKRAINE VIOLATED STARLINK TERMS Elon Musk claims Ukraine used Starlink for offensive drone strikes, violating its terms of service. SpaceX reportedly closed the loophole last week. Musk says Starshield remains under U.S. governmen…
+- 10/25 04:01 [financialjuice] Yemen's Houthis refute claims of attacking Mecca and Medina after Saudi Arabia says it intercepted missiles
+- 10/25 04:02 [financialjuice] Yemen's Houthis say they struck Riyadh airport in Saudi Arabia
+- 10/25 04:02 [financialjuice] Yemen's Houthis say they struck Saudi Aramco site in Yanbu
+- 10/25 04:02 [financialjuice] Yemen's Houthis: attacked Saudi Arabia's King Fahd International Airport in Dammam, Najran airport and Khamis Mushait airbase

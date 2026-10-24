@@ -7,49 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-25 01:53 JST／対象: 10/24 01:53 〜 10/25 01:53 JST（時刻はすべて日本時間）
+生成: 2026-10-25 04:07 JST／対象: 10/24 04:07 〜 10/25 04:07 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 5 | 10/24 03:09 | 10/24 05:02 | ⚠ 109分（03:11→05:01） |
-| FirstSquawk | 195 | 10/24 02:01 | 10/25 01:51 | ⚠ 239分（05:03→09:02） |
-| financialjuice | 72 | 10/24 01:53 | 10/24 22:55 | ⚠ 293分（10:09→15:02） |
+| DeItaone | 4 | 10/24 05:01 | 10/25 03:55 | ⚠ 1373分（05:02→03:55） |
+| FirstSquawk | 198 | 10/24 04:13 | 10/25 03:12 | ⚠ 239分（05:03→09:02） |
+| financialjuice | 64 | 10/24 04:12 | 10/25 04:02 | ⚠ 306分（22:55→04:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 265 行（統合前 274 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 259 行（統合前 268 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/24 01:53 [financialjuice] Iran has detailed plans to hit Gulf undersea cables if war resumes - Officials.
-- 10/24 01:55 [financialjuice] According to two senior Iranian security officials, Tehran has prepared detailed plans to target undersea communications cables in the Gulf if the US and Israel attack Iran again. Their remarks came after Iranian officials warned that if di…
-- 10/24 02:01 [FirstSquawk] US OIL RIG COUNT UP 1 TO 460 , BAKER HUGHES SAYS
-- 10/24 02:01 [financialjuice] US BAKER HUGHES OIL RIG COUNT ACTUAL 460 (FORECAST -, PREVIOUS 459) $MACRO
-- 10/24 02:01 [FirstSquawk] US TOTAL RIG COUNT 603 , BAKER HUGHES SAYS
-- 10/24 02:01 [financialjuice] US BAKER HUGHES TOTAL RIG COUNT ACTUAL 603 (FORECAST -, PREVIOUS 603) $MACRO
-- 10/24 02:12 [financialjuice] Meta Chief AI Officer Wang: Meta's Muse AI to counter China models with subscribers. Not ads - Nikkei $META
-- 10/24 02:13 [financialjuice] Meta's Chief AI Officer Wang: No ads inside Muse, don't have any plans to do so; Meta plans to offer paid enterprise services, will take commissions from sellers on purchases made using agents - Nikkei $META
-- 10/24 02:17 [financialjuice] Moonshot AI announces Kimi K3.1 Pro and K3.1 Pro Highspeed
-- 10/24 02:28 [FirstSquawk] QATAR DEAL TO BUY US NATURAL GAS SHOWS HOW IRAN WAR HAS REDRAWN GLOBAL ENERGY MARKETS – CNBC
-- 10/24 02:28 [FirstSquawk] TRUMP DIRECTED CENTCOM TO DRAFT IRAN STRIKE PLAN WITHOUT DEADLINE - KAN
-- 10/24 02:49 [financialjuice] ❗ Trump is expected to remove some tariffs on Canada - WSJ.
-- 10/24 02:49 [FirstSquawk] TRUMP EXPECTED TO REMOVE SOME TARIFFS ON CANADA: WSJ
-- 10/24 02:50 [financialjuice] Trump Expected to Remove Some Tariffs on Canada in Bid to Help Susan Collins - WSJ
-- 10/24 02:53 [financialjuice] The US could balance Canada's tariff reductions by raising other levies - WSJ.
-- 10/24 02:58 [financialjuice] GOP House Rep. introduces a bill to block Russia oil imports.
-- 10/24 03:02 [financialjuice] The Iranian and Russian presidents are going to hold talks in Moscow next week - ISNA.
-- 10/24 03:09 [DeItaone] IRAN'S FOREIGN MINISTER SAYS IRANIAN PRESIDENT WILL TRAVEL TO RUSSIA NEXT WEEK TO MEET WITH PUTIN
-- 10/24 03:10 [FirstSquawk] US SEN. COLLINS: 9 PRODUCT TYPES TO GET EXEMPTION FROM CANADA TARIFFS
-- 10/24 03:11 [DeItaone] TRUMP REPORTEDLY PLANS TO EASE 50% TARIFFS ON CANADA The Trump administration is reportedly preparing to remove 50% tariffs on certain Canadian agricultural and forestry products, potentially as early as Friday. The move is intended to prov…
-- 10/24 03:31 [FirstSquawk] US CRUDE OIL FUTURES SETTLE AT $103.27/BBL, UP $3.80, 3.82%
-- 10/24 03:46 [FirstSquawk] UK PM BURNHAM UNDERLINED IMPORTANCE FOR UKRAINE TO HAVE FULL ACCESS TO STARLINK TO US PRESIDENT TRUMP - DOWNING STREET
-- 10/24 03:47 [FirstSquawk] BRENT CRUDE FUTURES SETTLE AT $116.72/BBL, UP $3.55, 3.14%
-- 10/24 03:57 [FirstSquawk] EGYPT, SAUDI ARABIA, TURKEY, PAKISTAN FOREIGN MINISTERS: 'ISRAELI OCCUPATION IS MAIN SOURCE OF INSTABILITY IN REGION AND BEYOND' - STATEMENT
-- 10/24 04:03 [FirstSquawk] IRAN SAYS SOUTHERN PORTS BLOCKADE CUT IMPORTS 25%: ISNA
-- 10/24 04:03 [FirstSquawk] IRAQ PM: AIMS TO GRADUALLY RAISE OIL PRODUCTION TO 10M BPD BY 2032
 - 10/24 04:12 [financialjuice] Week Ahead: Economic Indicators 26th – 30th October (US)
 - 10/24 04:13 [FirstSquawk] OPENAI: STRENGTHENED CONTAINMENT FOR FRONTIER-MODEL TRAINING
 - 10/24 04:20 [FirstSquawk] OPENAI TO TRAIN FRONTIER MODELS WITHOUT INTERNET ACCESS
@@ -289,3 +263,23 @@
 - 10/25 01:27 [FirstSquawk] Houthi Spokesman Houthi: We targeted King Fahd International Airport in Dammam, Najran Airport, and Khamis Mushait Airbase
 - 10/25 01:27 [FirstSquawk] Israeli Broadcasting Authority citing security sources: The operation in Hebron will continue and will not end before the elections
 - 10/25 01:51 [FirstSquawk] Clashes between French police and protesters in the capital Paris
+- 10/25 01:54 [FirstSquawk] United States condemns the attack that targeted a church in Karak Governorate in Jordan
+- 10/25 01:54 [FirstSquawk] U.S. State Department: We stand with Jordan in confronting those seeking to sow division
+- 10/25 02:41 [FirstSquawk] Saudi Civil Defense: Shrapnel from the interception of two ballistic missiles launched by the Houthi militia towards the regions of Mecca and Medina has fallen.
+- 10/25 02:41 [FirstSquawk] Saudi Civil Defense: Interception of the two ballistic missiles led to parts of them falling in Wadi al-Maghmas in the Holy Capital
+- 10/25 02:42 [FirstSquawk] Saudi Civil Defense: Shrapnel from intercepted missiles launched by the Houthi militia has fallen in areas of Jeddah, Taif, and Rabigh
+- 10/25 02:57 [FirstSquawk] Bezshkyan says that many Iranians "are struggling to secure food" amid escalating economic pressures.
+- 10/25 02:57 [FirstSquawk] Iranian President Calls for Ending the "State of Neither War Nor Peace"
+- 10/25 02:58 [FirstSquawk] French Interior Minister: Nearly 1,000 people arrested during protests in France amid expectations of a rising toll
+- 10/25 02:58 [FirstSquawk] French police disperse protesters in Paris using water cannons
+- 10/25 02:58 [FirstSquawk] French Interior Ministry: Several disturbances in Marseille, Lyon, Paris, and other cities at the close of today's demonstrations
+- 10/25 02:58 [FirstSquawk] French Interior Minister: The police faced an extremely high level of violence
+- 10/25 02:58 [FirstSquawk] French Interior Minister: 410,000 demonstrators participated in 289 actions across the country.
+- 10/25 02:59 [FirstSquawk] Netanyahu in an election statement: Iran has resumed its nuclear program and is seeking to eliminate us in the near future.
+- 10/25 03:12 [FirstSquawk] Yemeni Armed Forces: We carried out 736 precise and direct targeting operations over the past 24 hours
+- 10/25 03:12 [FirstSquawk] Yemeni Armed Forces: We targeted a command and control center and heavy weapons depots belonging to the Houthis in Taiz
+- 10/25 03:55 [DeItaone] MUSK SAYS UKRAINE VIOLATED STARLINK TERMS Elon Musk claims Ukraine used Starlink for offensive drone strikes, violating its terms of service. SpaceX reportedly closed the loophole last week. Musk says Starshield remains under U.S. governmen…
+- 10/25 04:01 [financialjuice] Yemen's Houthis refute claims of attacking Mecca and Medina after Saudi Arabia says it intercepted missiles
+- 10/25 04:02 [financialjuice] Yemen's Houthis say they struck Riyadh airport in Saudi Arabia
+- 10/25 04:02 [financialjuice] Yemen's Houthis say they struck Saudi Aramco site in Yanbu
+- 10/25 04:02 [financialjuice] Yemen's Houthis: attacked Saudi Arabia's King Fahd International Airport in Dammam, Najran airport and Khamis Mushait airbase
