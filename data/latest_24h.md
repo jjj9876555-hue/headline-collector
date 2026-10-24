@@ -7,93 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-24 09:39 JST／対象: 10/23 09:39 〜 10/24 09:39 JST（時刻はすべて日本時間）
+生成: 2026-10-24 14:02 JST／対象: 10/23 14:02 〜 10/24 14:02 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 40 | 10/23 20:19 | 10/24 05:02 | ⚠ 128分（01:01→03:09） |
-| FirstSquawk | 177 | 10/23 09:41 | 10/24 09:38 | ⚠ 239分（05:03→09:02） |
-| financialjuice | 188 | 10/23 09:59 | 10/24 09:24 | ⚠ 84分（19:30→20:55） |
+| FirstSquawk | 172 | 10/23 14:29 | 10/24 13:44 | ⚠ 239分（05:03→09:02） |
+| financialjuice | 169 | 10/23 14:02 | 10/24 10:09 | ⚠ 84分（19:30→20:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 390 行（統合前 405 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 366 行（統合前 382 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/23 09:41 [FirstSquawk] Hyundai Plans to Hire Approximately 3,000 Workers for Its Shipyard
-- 10/23 09:42 [FirstSquawk] HD Hyundai Unit to Assess US Navy Support Vessel Contracts, Commercial Shipbuilding and Shipyard Supply Opportunities
-- 10/23 09:47 [FirstSquawk] Singapore Private Home Price Growth Slows to 0.9% Q/Q in Q3, Below Forecast of 1.4%
-- 10/23 09:51 [FirstSquawk] 5-Year JGB Yield Slides to 2.210%, Down 8 Basis Points
-- 10/23 09:58 [FirstSquawk] US Strikes on Iran to Target Nuclear Infrastructure, Missile and Drone Depots, and Energy Facilities, Officials Say
-- 10/23 09:59 [financialjuice] Saudi-led coalition: intercepted and destroyed ballistic missile fired by Yemen’s Houthis toward Riyadh
-- 10/23 09:59 [FirstSquawk] Saudi-Led Coalition Reports Destruction of Ballistic Missile Launched From Yemen Toward Riyadh
-- 10/23 10:02 [FirstSquawk] Singapore Private Residential Prices Increase 1.4% in Q3, in Line With Preliminary Estimate
-- 10/23 10:09 [FirstSquawk] China Pushes Commercial Ambitions in Xinjiang Despite Ongoing Controversy - WSJ
-- 10/23 10:16 [FirstSquawk] PBOC Sets Daily Yuan Reference Rate at 6.7180 Against the US Dollar
-- 10/23 10:17 [financialjuice] China sets yuan mid-point at strongest level since Feb. 2, 2023
-- 10/23 10:17 [FirstSquawk] China’s Daily Yuan Fixing Strengthens to Its Highest Level in More Than Three Years
-- 10/23 10:20 [FirstSquawk] Japan Announces ¥3.3 Trillion Treasury Discount Bill Offering
-- 10/23 10:22 [financialjuice] China cbank: 7-day reverse repo volume at zero on Friday - statement
-- 10/23 10:22 [financialjuice] China cbank injects 258 billion yuan via overnight reverse repos: statement
-- 10/23 10:23 [FirstSquawk] PBOC Sets Friday’s 7-Day Reverse Repo Operation Volume at Zero, Statement Says
-- 10/23 10:24 [FirstSquawk] PBOC Announces 258 Billion Yuan Liquidity Injection Through Overnight Reverse Repos
-- 10/23 10:24 [financialjuice] Saudi Arabia issues early warning alert in Najran region: civil defence
-- 10/23 10:24 [FirstSquawk] Saudi Authorities Issue Warning Alert in Najran Region, Civil Defence Says
-- 10/23 10:27 [financialjuice] Saudi civil defense: danger in Najran has passed
-- 10/23 10:27 [FirstSquawk] Najran Alert Ends as Saudi Civil Defense Confirms Danger Has Passed
-- 10/23 10:35 [financialjuice] Japan government considers cutting gasoline subsidies from December, officials say
-- 10/23 10:36 [FirstSquawk] Dollar-Yen Exchange Rate Expected to Stay Between 155 and 160 in Near Term - WSJ
-- 10/23 10:41 [financialjuice] Colombian government orders spending cut of 13.8 trillion pesos from 2026 budget
-- 10/23 10:42 [FirstSquawk] Colombian Government Slashes 13.8 Trillion Pesos From 2026 Budget Expenditure
-- 10/23 10:53 [FirstSquawk] 2-Year JGB Yield Slides to 1.840%, Down 6 Basis Points
-- 10/23 10:59 [FirstSquawk] Tin Futures in Shanghai Slide Over 3% in Active Trading
-- 10/23 11:03 [FirstSquawk] Indonesian Stocks Edge Up 0.3% in Early Trading
-- 10/23 11:10 [FirstSquawk] Jakarta Composite Index Volatile in Early Trade, Rises 0.3% to 5,402.967
-- 10/23 11:16 [FirstSquawk] Shanghai Composite Index Declines More Than 2% in Trading
-- 10/23 11:25 [FirstSquawk] Japan’s Accelerating Inflation Provides Fresh Support for BOJ Tightening - WSJ
-- 10/23 11:31 [FirstSquawk] Omdia Forecasts Asia-Pacific AI Agent Market to Reach US$11.2 Billion by 2030
-- 10/23 11:40 [FirstSquawk] Toyota Finance’s Auto Loan Securitization 202612 General Receives Provisional Ratings From Moody’s
-- 10/23 11:47 [financialjuice] Dollar/yen reverses direction, last up 0.16% at 157.02
-- 10/23 11:47 [FirstSquawk] USD/JPY Turns Higher, Gains 0.16% to Trade at 157.02
-- 10/23 11:56 [FirstSquawk] JPMorgan Cuts Blackstone Price Target to $135 From $136
-- 10/23 12:02 [financialjuice] China finance ministry issues 2-year yuan bonds in Hong Kong with 1.24% coupon: statement
-- 10/23 12:03 [FirstSquawk] China Issues 2-Year Yuan-Denominated Bonds in Hong Kong With a 1.24% Coupon
-- 10/23 12:03 [FirstSquawk] China Issues 3-Year Yuan-Denominated Bonds in Hong Kong With a 1.28% Coupon
-- 10/23 12:08 [FirstSquawk] Turkey, Pakistan, Indonesia and Qatar Coordinate Efforts Alongside Mecca Alliance - NA
-- 10/23 12:10 [financialjuice] Saudi Arabia delays UN global data forum and second Saudi statistical forum to 2027
-- 10/23 12:12 [FirstSquawk] Saudi Arabia Pushes UN Global Data Forum and Second Saudi Statistical Forum Back to 2027
-- 10/23 12:24 [FirstSquawk] Former Yankees Star Matsui to Be Named Manager of the Giants
-- 10/23 12:32 [FirstSquawk] Petronas, TotalEnergies and Mitsui Partner to Develop Carbon Storage Site in Southern CCS Hub
-- 10/23 12:40 [financialjuice] China finance ministry auctions 30-year bonds at 2.06% yield: traders
-- 10/23 12:48 [FirstSquawk] Israel’s Military Preparing for Renewed Clashes With Hezbollah, Al Arabiya Cites Security Source
-- 10/23 13:00 [financialjuice] China's : companies to assess viability of level-4 ready autonomous cars in Kazakhstan, their initial test market
-- 10/23 13:00 [financialjuice] Varopreem aims to keep sustainable energy EBITDA ratio above 50%
-- 10/23 13:00 [financialjuice] Varopreem plans to double EBITDA from 2025 level of about $1 billion by 2030
-- 10/23 13:00 [financialjuice] Varopreem targets 20% rise in biofuel production capacity by 2030 from 2025 level of 1.3 million metric tons
-- 10/23 13:00 [financialjuice] Varopreem aims to boost market share in aviation, marine and defense segments to over 15% by 2030 from 10% in current markets
-- 10/23 13:02 [FirstSquawk] Jefferies Raises OMV Target Price To EUR70 From EUR68
-- 10/23 13:06 [FirstSquawk] Ukraine Seeks To Move Customs Checks Inside EU To Avoid Russian Drones – FT
-- 10/23 13:09 [FirstSquawk] CALPERS RETREATS FROM BIG TECH AS AI RALLY FALTERS – FT
-- 10/23 13:09 [FirstSquawk] US IS PREPARED FOR LONG STAND-OFF WITH IRAN, SAYS TRUMP ENVOY – FT
-- 10/23 13:22 [FirstSquawk] Haiti Receives El Salvador Special Forces After Soldiers Are Captured by Gangs - SCMP
-- 10/23 13:29 [FirstSquawk] US Consults France, Israel and Lebanon Over Potential Replacement Force for UNIFIL
-- 10/23 13:34 [financialjuice] Ukraine’s energy firm DTEK: Russian strike damages one of its power plants
-- 10/23 13:39 [FirstSquawk] Russian Attack Hits a Power Generation Station in Ukraine
-- 10/23 13:48 [FirstSquawk] SOUTH KOREA’S NETFLIX INDUSTRY NETWORK INCLUDES 80-PLUS PRODUCTION HOUSES AND 95,000 PEOPLE OVER A DECADE
-- 10/23 13:51 [financialjuice] Israel military: two suspected assailants killed after shooting near Judea junction
-- 10/23 13:53 [FirstSquawk] US Dollar Recovery Puts Pressure on Swiss Franc - FX
-- 10/23 14:00 [financialjuice] India HSBC October services flash PMI at 56.2, beats 55.5 forecast
-- 10/23 14:00 [FirstSquawk] INDIA (OCT) HSBC INDIA PMI SERVICES ACTUAL: 56.2 VS 55.2 PREVIOUS
-- 10/23 14:00 [financialjuice] India HSBC October manufacturing flash PMI at 54.9, forecast 55.0
-- 10/23 14:00 [financialjuice] India HSBC October composite flash PMI at 56.7, surpasses 56.1 forecast
-- 10/23 14:00 [FirstSquawk] INDIA (OCT) HSBC INDIA PMI MFG ACTUAL: 54.9 VS 55.1 PREVIOUS
-- 10/23 14:00 [FirstSquawk] INDIA (OCT) HSBC INDIA PMI COMPOSITE ACTUAL: 56.7 VS 55.9 PREVIOUS
-- 10/23 14:01 [financialjuice] Russia strikes railcar depot in Poltava region in Ukraine: ifax quotes Russian defence ministry
-- 10/23 14:01 [financialjuice] Russia strikes cargo ship in Black Sea: Ifax cites defense ministry
 - 10/23 14:02 [financialjuice] Russia strikes port of Vilkovo in Odesa region in Ukraine: Tass quotes Defence Ministry
 - 10/23 14:02 [financialjuice] Russian defence ministry: Russian forces strike cargo ship in Black Sea - RIA
 - 10/23 14:04 [financialjuice] South Korea defence ministry again proposes talks with North Korea on military demarcation line between two Koreas - Yonhap
@@ -414,3 +344,49 @@
 - 10/24 09:31 [FirstSquawk] Jaguar Land Rover Recalls Some US Vehicles Over Rearview Camera Display Failure, NHTSA Says
 - 10/24 09:35 [FirstSquawk] Brazil Central Bank Says Rollout of New Measures Will Begin in March or July 2027, Depending on Requirements
 - 10/24 09:38 [FirstSquawk] Brazil’s Central Bank Sets New Requirements for Credit Provision at the Start of Pix Transactions
+- 10/24 09:41 [FirstSquawk] Brazil Central Bank Introduces Requirement for Financial Institutions to Provide Consolidated Credit Information Dashboards to Customers
+- 10/24 09:44 [FirstSquawk] Firefighters Respond to Blaze at Hitler’s Former Teahouse in Berchtesgaden, Germany
+- 10/24 09:46 [FirstSquawk] Brazil Central Bank Mandates Clear Opt-Out Mechanism for Advertising and Unsolicited Credit Offers
+- 10/24 09:47 [FirstSquawk] Kenya Reports Another Ebola Fatality, Bringing Death Toll to Two - RTRS
+- 10/24 09:53 [FirstSquawk] Brazil’s Central Bank Approves Measures to Strengthen Oversight of Credit Provision by Financial Institutions
+- 10/24 09:58 [FirstSquawk] Saudi Arabia Warns of Possible Danger in Riyadh and Najran, State TV Reports
+- 10/24 09:58 [FirstSquawk] Howard Hughes Holdings Set for Entry Into S&P SmallCap 600 Index, According to S&P Dow Jones Indices
+- 10/24 09:58 [financialjuice] Saudi civil defense issues warning of potential threat in Riyadh and Najran: state TV
+- 10/24 10:01 [FirstSquawk] Saudi Civil Defense Issues Safety Alert for Wadi Al-Dawasir
+- 10/24 10:01 [financialjuice] Saudi civil defense issues warning on possible threat in Wadi Al-Dawasir governorate
+- 10/24 10:06 [FirstSquawk] Fitch Projects Slight Contraction for Ukraine’s Economy in 2026 and Modest 0.2% Expansion in 2027
+- 10/24 10:08 [FirstSquawk] Saudi Arabia Lifts Potential Danger Alert in Riyadh, Civil Defense Says
+- 10/24 10:08 [financialjuice] Saudi civil defense: danger has passed in Riyadh
+- 10/24 10:08 [FirstSquawk] Saudi Arabia Lifts Potential Danger Alert in Wadi Al-Dawasir Governorate
+- 10/24 10:08 [financialjuice] Saudi civil defense: danger has passed in Wadi Al-Dawasir governorate
+- 10/24 10:08 [FirstSquawk] Saudi Authorities Declare All-Clear in Najran After Potential Danger Alert
+- 10/24 10:09 [financialjuice] Saudi civil defense: danger has passed in Najran
+- 10/24 10:14 [FirstSquawk] Ukraine Likely to Maintain Substantial Fiscal Deficits as Domestic Revenue Generation Remains Weak, Fitch Says
+- 10/24 10:18 [FirstSquawk] Ukraine War Expected to Persist Through 2027, With Little Current Momentum Toward a Ceasefire, Fitch Says
+- 10/24 10:21 [FirstSquawk] Brazil’s Iochpe-Maxion Sets Aside €15 Million in Q3 for German Antitrust Proceedings
+- 10/24 10:26 [FirstSquawk] Lithuania’s ‘A+’ Rating Confirmed by Fitch With Stable Outlook
+- 10/24 10:39 [FirstSquawk] Yemen’s Houthis Launch Ballistic Missile Toward Riyadh, Saudi-Led Coalition Says
+- 10/24 10:48 [FirstSquawk] Most Russian KAB Guided Bombs Miss Bridge in Ukraine’s Kherson, Falling Into River
+- 10/24 10:51 [FirstSquawk] France’s Centre-Val de Loire Region Retains ‘A+’ Rating as Fitch Keeps Outlook Stable
+- 10/24 10:55 [FirstSquawk] Ireland Retains ‘AA’ Rating as Fitch Keeps Outlook Stable
+- 10/24 10:57 [FirstSquawk] Ukraine’s ‘CCC’ Credit Rating Reaffirmed by Fitch
+- 10/24 11:01 [FirstSquawk] Meta Acquires Sundial, an AI Data Platform, According to Axios
+- 10/24 11:09 [FirstSquawk] Uganda Health Ministry: Travellers With DR Congo Travel History Cannot Transit Through Uganda
+- 10/24 11:15 [FirstSquawk] Uganda Brings Back Traveller Locator Forms for Everyone Entering the Country
+- 10/24 11:23 [FirstSquawk] Kenya’s Index Case Has No Established Travel Link to Nigeria, but Viruses Appear Related, Nigerian Minister Says
+- 10/24 11:28 [FirstSquawk] Nigeria Health Minister: Tests Reveal Close Link Between Nigeria’s Ebola Case and Kenya’s Index Case
+- 10/24 11:35 [FirstSquawk] Norway’s Government Ratings Undergo Periodic Review by Moody’s
+- 10/24 11:38 [FirstSquawk] Strong Earthquake Measuring 6.49 Recorded in Vanuatu Islands, GFZ Says
+- 10/24 11:39 [FirstSquawk] Vanuatu Islands Region Hit by 7.1-Magnitude Earthquake, According to GFZ
+- 10/24 11:41 [FirstSquawk] Uganda Health Ministry Reaffirms Ebola-Free Status Following Case in Nigeria
+- 10/24 11:50 [FirstSquawk] Uganda Restricts Transit for Travellers Who Have Been to the Democratic Republic of Congo
+- 10/24 12:00 [FirstSquawk] US Official Says Abu Dhabi and Switzerland Are Possible Venues for Next Ukraine-Russia Talks
+- 10/24 12:09 [FirstSquawk] NHC Warns Vance Could Reach Major Hurricane Strength Tonight as It Intensifies Rapidly
+- 10/24 12:17 [FirstSquawk] Soaring Home Prices Squeeze Vietnamese Buyers as Property Sales Sink to Their Lowest Since 2021
+- 10/24 12:22 [FirstSquawk] Colombia’s Ecopetrol Forecasts Q3 Oil Output at 740,000–750,000 BPD
+- 10/24 12:33 [FirstSquawk] CMPC’s Forestry Asset Disposal Has No Rating Impact, Fitch Says
+- 10/24 12:58 [FirstSquawk] Colombia’s Ecopetrol Forecasts Third-Quarter Revenue of 33–36 Trillion Pesos
+- 10/24 12:58 [FirstSquawk] Ecopetrol Estimates Third-Quarter Revenues at 33–36 Trillion Pesos
+- 10/24 13:44 [FirstSquawk] France is in revolt. But the real storm is yet to come - FT
+- 10/24 13:44 [FirstSquawk] Spyware Pioneer Behind Pegasus Pushes Governments to Choose His Tech Instead of US AI - FT
+- 10/24 13:44 [FirstSquawk] Newer Exchanges Battle for ETF Business as They Take on Wall Street’s Biggest Markets - FT

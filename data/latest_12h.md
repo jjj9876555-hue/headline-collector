@@ -7,135 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-24 09:39 JST／対象: 10/23 21:39 〜 10/24 09:39 JST（時刻はすべて日本時間）
+生成: 2026-10-24 14:02 JST／対象: 10/24 02:02 〜 10/24 14:02 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 34 | 10/23 22:40 | 10/24 05:02 | ⚠ 128分（01:01→03:09） |
-| FirstSquawk | 75 | 10/23 21:51 | 10/24 09:38 | ⚠ 239分（05:03→09:02） |
-| financialjuice | 85 | 10/23 21:58 | 10/24 09:24 | ⚠ 84分（07:59→09:24） |
+| DeItaone | 5 | 10/24 03:09 | 10/24 05:02 | ⚠ 109分（03:11→05:01） |
+| FirstSquawk | 77 | 10/24 02:28 | 10/24 13:44 | ⚠ 239分（05:03→09:02） |
+| financialjuice | 37 | 10/24 02:12 | 10/24 10:09 | ⚠ 84分（07:59→09:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 181 行（統合前 194 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 115 行（統合前 120 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/23 21:51 [FirstSquawk] ENI EXEC SAYS GROUP HAS SUBMITTED DEVELOPMENT PLAN FOR VENEZUELA GAS FIELD PERLA; FINAL INVESTMENT DECISION ON VENEZUELA'S PERLA FIELD WILL COME ONCE GOVERNMENT HAS APPROVED DEVELOPMENT PLAN
-- 10/23 21:58 [financialjuice/FirstSquawk] US proposes further suspension of section 301 investigation into China's targeting of maritime, logistics, and shipbuilding sectors for dominance through January 9th, 2027 - Office of USTR
-- 10/23 22:00 [financialjuice] Effective fed funds rate 3.88% October 22nd vs 3.88% October 21st
-- 10/23 22:00 [FirstSquawk] U.S. EFFECTIVE FEDERAL FUNDS RATE AT 3.88 PCT ON 22 OCTOBER ON $119 BLN IN TRADES VS 3.88 PCT ON $110 BLN ON 21 OCTOBER SAYS FED DATA
-- 10/23 22:18 [financialjuice] Melania Trump secures Russia-Ukraine ceasefire localized to Oleshky
-- 10/23 22:19 [financialjuice] White House on the localised ceasefire between Ukraine and Russia: Ceasefire will begin on October 29th
-- 10/23 22:24 [financialjuice] Anthropic: Newer models are less likely to begin an attack
-- 10/23 22:25 [financialjuice] China's Foreign Minister Wang Yi: China and the US have the responsibility of managing AI.
-- 10/23 22:26 [financialjuice] Meta: the extension will allow it to explain to partners. Stakeholders about changes Meta Platforms, will extend the implementation date of updated commercial terms to November 20th from October 30th. $META
-- 10/23 22:27 [FirstSquawk] ANTHROPIC IS LOOKING INTO SPECIFIC BEHAVIORS OF CLAUDE MYTHOS 5 TO GAIN INSIGHT INTO THE MODEL'S ALIGNMENT.
-- 10/23 22:27 [FirstSquawk] ANTHROPIC'S CLAUDE OPUS 5.5 AND CLAUDE MYTHOS 5.1 FAIL TO CONSISTENTLY PREVENT ONGOING ATTACKS, WHILE THE COMPANY'S INTERNAL RESEARCH MODEL DOES ACHIEVE THIS CONSISTENCY.
-- 10/23 22:27 [FirstSquawk] ANTHROPIC REPORTED THAT MYTHOS 5 TRIED TO UPLOAD MALICIOUS CODE TO THEIR REPOSITORY.
-- 10/23 22:27 [FirstSquawk] CHINA'S FOREIGN MINISTER WANG YI SAYS CHINA AND THE US MUST WORK TOGETHER TO MANAGE AI AND IS LOOKING FOR COOPERATION ON THIS ISSUE.
-- 10/23 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -39.9 MLN NASDAQ 100: 10.0 MLN DOW 30: -8.9 MLN MAG 7: -7.8 MLN $MACRO
-- 10/23 22:31 [FirstSquawk] NASDAQ DOWN 111.60 POINTS, OR 0.43 PERCENT, AT 25,897.26 AFTER MARKET OPEN
-- 10/23 22:40 [DeItaone] TRUMP ADMINISTRATION'S $8 BILLION IN DIESEL AID FOR FARMERS WILL NOT ARRIVE BEFORE NOVEMBER 3 ELECTION, SAYS ADMINISTRATION OFFICIAL
-- 10/23 22:41 [financialjuice] Trump Administration's $8 billion in diesel aid for farmers will not arrive before the November 3rd election - Administration Official
-- 10/23 22:44 [DeItaone] S&P 500 AND NASDAQ HIT A FIVE-WEEK LOW; LAST DOWN 0.4% AND 0.2%, RESPECTIVELY
-- 10/23 22:45 [financialjuice] ❗ US S&P SERVICES PMI FLASH ACTUAL 57.9 (FORECAST 58, PREVIOUS 58.8) $MACRO
-- 10/23 22:45 [financialjuice] ❗ US S&P MANUFACTURING PMI FLASH ACTUAL 56 (FORECAST 55.5, PREVIOUS 55.9) $MACRO
-- 10/23 22:45 [financialjuice] US S&P COMPOSITE PMI FLASH ACTUAL 57.6 (FORECAST 57.6, PREVIOUS 58.4) $MACRO
-- 10/23 22:45 [DeItaone] U.S. S&P GLOBAL OCTOBER FLASH COMPOSITE PMI AT 57.6 (VS 58.4 IN SEPTEMBER) U.S. S&P GLOBAL OCTOBER FLASH SERVICES PMI AT 57.9 (FORECAST 58.0) U.S. S&P GLOBAL OCTOBER FLASH MANUFACTURING PMI AT 56.0 (FORECAST 55.5)
-- 10/23 22:46 [FirstSquawk] U.S. SERVICES PMI (PMI) ACTUAL: 57.9 VS 58.8 PREVIOUS; EST 58.0
-- 10/23 22:46 [FirstSquawk] U.S. MANUFACTURING PMI (PMI) ACTUAL: 56.0 VS 55.9 PREVIOUS; EST 55.5
-- 10/23 22:46 [financialjuice] US S&P PMI October Flash Report
-- 10/23 22:47 [financialjuice] French Foreign Minister Barrot: New escalation between Iran and the United States would only have losers and would raise oil prices.
-- 10/23 22:48 [DeItaone] U.S. ECONOMY BOOMS, BUT INFLATION WARNING FLASHES RED October's flash S&P Global PMI signals strong economic growth alongside accelerating inflation. 🔸 Composite PMI: 57.6 vs. 58.4 prior 🔸 Services PMI: 57.9 vs. 58.8 🔸 Manufacturing PMI: 56…
-- 10/23 22:48 [FirstSquawk] FRENCH FOREIGN MINISTER BARROT SAYS A NEW ESCALATION BETWEEN IRAN AND THE U.S. WOULD RESULT IN LOSSES FOR ALL AND INCREASE OIL PRICES.
-- 10/23 22:50 [FirstSquawk] CANADA'S INESSS BACKS NOVARTIS' KISQALI FOR EARLY BREAST CANCER
-- 10/23 22:51 [DeItaone] CHINESE FAST FASHION PLATFORM SHEIN TO PAY $100 MILLION IN US FTC PROBE SETTLEMENT, SOURCE SAYS SHEIN SAYS IT HAS REACHED 'CONSTRUCTIVE OUTCOME' WITH UNITED STATES FTC
-- 10/23 22:56 [DeItaone/financialjuice/FirstSquawk] U.S. DEPARTMENT OF ENERGY ANNOUNCES AUTHORIZATION OF EMERGENCY EXCHANGE OF UP TO 400,000 BARRELS OF CRUDE OIL FROM SPR TO ADDRESS CRUDE OIL SUPPLY DISRUPTION AFFECTING PHILLIPS 66 LAKE CHARLES REFINERY IN LOUISIANA
-- 10/23 22:56 [financialjuice] US authorizes SPR exchange to support fuel supply stability
-- 10/23 22:56 [DeItaone] $AAPL - APPLE SHARES TOUCH RECORD HIGH, LAST UP 0.4%
-- 10/23 23:00 [FirstSquawk] US UMICH FINAL OCT. CONSUMER SENTIMENT FALLS TO 48; EST. 46.3
-- 10/23 23:00 [financialjuice] UNIVERSITY MICHIGAN EXPECTATIONS FINAL ACTUAL 48.8 (FORECAST 47.1, PREVIOUS 47.3) $MACRO
-- 10/23 23:00 [DeItaone] U.S. CONSUMER SENTIMENT BEATS EXPECTATIONS, INFLATION FEARS RISE October's final University of Michigan consumer sentiment index came in at 48.0 vs. 46.3 expected, but remained below September's 48.1. 🔸 Current conditions: 46.7 vs. 50.9 pri…
-- 10/23 23:00 [financialjuice] UNIVERSITY MICHIGAN 5 YR INFLATION FINAL ACTUAL 3.5% (FORECAST 3.5%, PREVIOUS 3.5%) $MACRO
-- 10/23 23:01 [financialjuice] University of Michigan Sentiment October Report
-- 10/23 23:13 [financialjuice] Ukraine’s President Zelenskiy: Just spoke with Witkoff and Kushner
-- 10/23 23:14 [financialjuice] Ukraine’s President Zelenskiy: Agreement for trilateral meeting at the team level
-- 10/23 23:15 [financialjuice] Ukraine’s President Zelenskiy: The goal is to meet in the first half of November as soon as possible
-- 10/23 23:16 [FirstSquawk] UKRAINE’S ZELENSKIY: JUST SPOKE WITH WITKOFF AND KUSHNER; DISCUSSED OUTCOME OF THE MEETINGS IN NORWAY; AGREEMENT FOR TRILATERAL MEETING AT THE TEAM LEVEL; AIM TO MEET IN FIRST HALF OF NOVEMBER, SOON AS POSSIBLE
-- 10/23 23:16 [FirstSquawk] UKRAINE’S ZELENSKIY: SPEED LIMITS ON STARLINK AND STARSHIELD STILL IN EFFECT
-- 10/23 23:18 [DeItaone] $CRWV - COREWEAVE SHARES FALL 2.4% AFTER 10% SLIDE IN PRIOR SESSION
-- 10/23 23:19 [financialjuice] Fear & Greed Index: 20/100 - Extreme Fear - CNN
-- 10/23 23:19 [financialjuice] Crypto Fear & Greed Index: 50/100 - Neutral
-- 10/23 23:25 [FirstSquawk] UKRAINE’S ZELENSKIY: DELIVERY OF MISSILE INTERCEPTORS DELAYED STILL
-- 10/23 23:25 [FirstSquawk] UKRAINE’S ZELENSKIY: RUSSIA HAS ALREADY BEGUN ITS 'WINTER ATTACKS
-- 10/23 23:25 [FirstSquawk] UKRAINE’S ZELENSKIY: HOPES US DELIVERS ON PATRIOT INTERCEPTORS
-- 10/23 23:29 [DeItaone] GOLD TESTS $4,000 AS INFLATION FEARS TRIGGER SELLING Gold futures fell 1.10% to $3,980.80/oz, heading for a nearly 4% weekly loss. Rising oil prices are fueling inflation concerns and expectations of higher interest rates, pressuring the me…
-- 10/23 23:31 [FirstSquawk] SPOT GOLD FALLS OVER 1% TO TRADE BELOW $4,000/OZ
-- 10/23 23:42 [financialjuice] EU's Trade Chief Sefcovic: The trade deficit with China could break the 2022 record
-- 10/23 23:45 [FirstSquawk] EU'S SEFCOVIC: TRADE DEFICIT WITH CHINA COULD BREAK 2022 RECORD
-- 10/23 23:46 [financialjuice] Germany's Foreign Minister: Need to support Saudi Arabia and the Yemeni government to defend themselves:
-- 10/23 23:48 [financialjuice] Ukrainian Official: A ceasefire in Russian-occupied Oleshky to be established soon.
-- 10/23 23:49 [DeItaone] TRUMP ADMINISTRATION SUES TO BLOCK ALASKA SENATE RACE CERTIFICATION IF REPUBLICAN LOSES, CITING CANDIDATE NAME CONFUSION -AP REPORTER ON X
-- 10/23 23:49 [FirstSquawk] SENIOR UKRAINIAN OFFICIAL: CEASEFIRE IN RUSSIAN-OCCUPIED OLESHKY TO BE ESTABLISHED SOON
-- 10/23 23:49 [financialjuice] EU's Trade Chief Sefcovic: ministers suggested next sectors for China talks
-- 10/23 23:50 [financialjuice] Trump and UK's PM Burnham to speak today as Ukraine, Iran tensions mount
-- 10/23 23:51 [DeItaone] TURKISH FOREIGN MINISTER, SPEAKING AFTER MEETING REGIONAL AND EUROPEAN COUNTERPARTS, SAYS NOBODY APPROVES ANOTHER ATTACK ON IRAN, DIPLOMACY IS THE ONLY WAY
-- 10/23 23:51 [financialjuice] Turkish Foreign Minister, speaking after meeting regional and European counterparts: Nobody approves another attack on iran, diplomacy is the only way
-- 10/23 23:52 [financialjuice/FirstSquawk] Trump on Melania-brokered ceasefire: Both sides wanted to do it
-- 10/23 23:53 [DeItaone] TRUMP ON ACCESS TO STARLINK IN UKRAINE: IF THERE IS PROBLEM, I'LL GET IT STRAIGHTENED OUT
-- 10/23 23:53 [FirstSquawk] TRUMP ON STARLINK-UKRAINE: NO IDEA WHO SLOWED IT
-- 10/23 23:54 [DeItaone] - TRUMP ON ACCESS TO STARLINK IN UKRAINE: HAVE NOT SPOKEN TO MUSK
-- 10/23 23:54 [DeItaone] TRUMP ON ACCESS TO STARLINK IN UKRAINE: IF IT'S NOT FIXED, I'LL SPEAK TO MUSK
-- 10/23 23:56 [DeItaone/FirstSquawk] TRUMP: WE COULD END IRAN WAR VERY QUICKLY
-- 10/23 23:56 [financialjuice] Trump: We could end the Iran war very quickly
-- 10/23 23:57 [DeItaone/financialjuice] TRUMP ON IRAN: DO WE WANT TO FINISH IT OR LET IT WITHER IS THE QUESTION
-- 10/23 23:57 [DeItaone/FirstSquawk] TRUMP: WE COULD TAKE ALL OF THE OIL IN IRAN
-- 10/23 23:58 [financialjuice] Trump on Hormuz: We're taking out all the oil we want
-- 10/24 00:00 [DeItaone] ZELENSKIY: AGREED TO HOLD TRILATERAL MEETING AT THE TEAM LEVEL WITH US, RUSSIA AND UKRAINE IN FIRST HALF OF NOVEMBER
-- 10/24 00:01 [DeItaone] TRUMP: SPOKE WITH BRITISH FOREIGN MINISTER TODAY TRUMP: DISCUSSED OPENING UP NORTH SEA OIL
-- 10/24 00:01 [financialjuice] Trump: Spoke with British PM today
-- 10/24 00:01 [DeItaone] TRUMP: VERY CLOSE TO DEAL WITH MEXICO
-- 10/24 00:01 [financialjuice] Trump: Discussed North Sea oil with UK's PM Burnham:
-- 10/24 00:01 [DeItaone] ZELENSKIY: INTERCEPTOR DELIVERIES ARE DELAYED, THIS IS A REAL PROBLEM FOR US
-- 10/24 00:01 [DeItaone] TRUMP: CANADA IS WORKING HARD TO MAKE DEAL WITH US
-- 10/24 00:01 [financialjuice] Trump: Canada is working hard to make a deal with us
-- 10/24 00:05 [financialjuice] UKMTO gets a time-late report of incident 7nm from Limah, Oman
-- 10/24 00:06 [financialjuice/FirstSquawk] UKMTO: Tanker hit by unknown projectile in Hormuz near Oman
-- 10/24 00:08 [DeItaone] OIL NEARS IRAN WAR PEAK AS U.S. FUEL COSTS SURGE Brent crude hit $116/barrel, approaching its Iran war peak amid fears of renewed fighting after the midterms. 🔸 U.S. gasoline: $4.29/gallon, up 40% year-over-year 🔸 Additional fuel spending: …
-- 10/24 00:09 [DeItaone] KREMLIN SAYS RUSSIAN AND UKRAINIAN MILITARIES ARE WORKING OUT CEASEFIRE DATES KREMLIN SAYS CIVILIANS WHO WANT TO LEAVE OLESHKY WILL BE ABLE TO DO SO KREMLIN SAYS MELANIA TRUMP COORDINATED THE AGREEMENT, SOMETHING DISCUSSED BY PUTIN AND TRUM…
-- 10/24 00:10 [financialjuice] Kremlin hails Melania Trump's input on Oleshky humanitarian agreement; says she coordinated the deal, discussed by Putin and Trump in a recent phone call
-- 10/24 00:11 [financialjuice] Kremlin: Russian and Ukrainian militaries are working out ceasefire dates
-- 10/24 00:11 [financialjuice] Kremlin: Operation to evacuate Oleshky will take a few days at least
-- 10/24 00:12 [DeItaone] TRUMP ON ACCESS TO STARLINK IN UKRAINE: MUSK WON'T DO ANYTHING WRONG
-- 10/24 00:12 [financialjuice] Trump: Need to protect geniuses like Musk
-- 10/24 00:13 [FirstSquawk] SOURCE FAMILIAR WITH TAMPA TALKS: LEBANON-ISRAEL ROUND HELD IN POSITIVE ATMOSPHERE
-- 10/24 00:13 [financialjuice] Trump ends remarks to reporters
-- 10/24 00:18 [DeItaone] CROWDSTRIKE CEO GEORGE KURTZ: WILL SEE A LOT OF BREACHES IN COMING MONTHS FROM PHP VULNERABILITY - CNBC INTERVIEW
-- 10/24 00:24 [FirstSquawk] TRUMP SAYS US WON'T ATTACK IRAN BEFORE MIDTERMS, SAYS TALKS UNDERWAY
-- 10/24 00:31 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 0.51%; GERMANY'S DAX DOWN 0.86%
-- 10/24 00:31 [FirstSquawk] FRANCE'S CAC 40 DOWN 0.48%; SPAIN'S IBEX UP 0.2%
-- 10/24 00:35 [DeItaone] PREDICTION MARKETS ARE DISRUPTING THE SPORTS BETTING INDUSTRY Wall Street initially underestimated prediction markets, according to Bank of America's Shaun Kelley. Platforms like Kalshi have challenged traditional sportsbooks, including Dra…
-- 10/24 00:38 [financialjuice/FirstSquawk] Japan weighs rebranding energy, AI as defense spending under Trump pressure - Nikkei
-- 10/24 00:47 [FirstSquawk] TIKTOK U.S. IS LOOKING FOR FOUR GIGAWATTS OF COMPUTE POWER BY THE EARLY 2030S - CNBC
-- 10/24 00:51 [FirstSquawk] NOVARTIS: REMIBRUTINIB MEETS PRIMARY ENDPOINTS IN PHASE 3 TRIALS IN RMS
-- 10/24 01:01 [DeItaone] RUSSIAN DEFMIN SAYS CEASEFIRE IN RUSSIAN-CONTROLLED OLESHKY TO BEGIN ON OCT. 27 - IFX RUSSIAN DEFMIN SAYS CEASEFIRE TO BEGIN FROM 0400 AM LOCAL TIME - IFX
-- 10/24 01:02 [financialjuice] Russian Defense Minister: ceasefire to begin from 0400 local time - IFX.
-- 10/24 01:06 [financialjuice] Poll: The Bank of Canada to raise overnight rate to 2.50% on October 28th, said 19 of 34 economists.
-- 10/24 01:06 [financialjuice] Poll: Bank of Canada to hike overnight rate twice by end-March, said 16 of 29 economists (vs 17 of 34 forecasting hold until mid-2027 in August poll).
-- 10/24 01:11 [FirstSquawk] US TO PUSH FOR NEW LABELS ON SEAFOOD AT GROCERY STORES: CBS
-- 10/24 01:22 [financialjuice] Germany's Oil Stockpiling Agency EBV issued a tender to sell diesel, heating oil, and crude oil from reserves on Friday - Document.
-- 10/24 01:34 [FirstSquawk] TOYOTA: ABOUT 68,000 VEHICLES INVOLVED IN RECALL IN US
-- 10/24 01:46 [FirstSquawk] BP, STATE OF LOUISIANA AGREE TO RESOLVE LONG-STANDING MATTERS
-- 10/24 01:53 [financialjuice] Iran has detailed plans to hit Gulf undersea cables if war resumes - Officials.
-- 10/24 01:55 [financialjuice] According to two senior Iranian security officials, Tehran has prepared detailed plans to target undersea communications cables in the Gulf if the US and Israel attack Iran again. Their remarks came after Iranian officials warned that if di…
-- 10/24 02:01 [FirstSquawk] US OIL RIG COUNT UP 1 TO 460 , BAKER HUGHES SAYS
-- 10/24 02:01 [financialjuice] US BAKER HUGHES OIL RIG COUNT ACTUAL 460 (FORECAST -, PREVIOUS 459) $MACRO
-- 10/24 02:01 [FirstSquawk] US TOTAL RIG COUNT 603 , BAKER HUGHES SAYS
-- 10/24 02:01 [financialjuice] US BAKER HUGHES TOTAL RIG COUNT ACTUAL 603 (FORECAST -, PREVIOUS 603) $MACRO
 - 10/24 02:12 [financialjuice] Meta Chief AI Officer Wang: Meta's Muse AI to counter China models with subscribers. Not ads - Nikkei $META
 - 10/24 02:13 [financialjuice] Meta's Chief AI Officer Wang: No ads inside Muse, don't have any plans to do so; Meta plans to offer paid enterprise services, will take commissions from sellers on purchases made using agents - Nikkei $META
 - 10/24 02:17 [financialjuice] Moonshot AI announces Kimi K3.1 Pro and K3.1 Pro Highspeed
@@ -205,3 +93,49 @@
 - 10/24 09:31 [FirstSquawk] Jaguar Land Rover Recalls Some US Vehicles Over Rearview Camera Display Failure, NHTSA Says
 - 10/24 09:35 [FirstSquawk] Brazil Central Bank Says Rollout of New Measures Will Begin in March or July 2027, Depending on Requirements
 - 10/24 09:38 [FirstSquawk] Brazil’s Central Bank Sets New Requirements for Credit Provision at the Start of Pix Transactions
+- 10/24 09:41 [FirstSquawk] Brazil Central Bank Introduces Requirement for Financial Institutions to Provide Consolidated Credit Information Dashboards to Customers
+- 10/24 09:44 [FirstSquawk] Firefighters Respond to Blaze at Hitler’s Former Teahouse in Berchtesgaden, Germany
+- 10/24 09:46 [FirstSquawk] Brazil Central Bank Mandates Clear Opt-Out Mechanism for Advertising and Unsolicited Credit Offers
+- 10/24 09:47 [FirstSquawk] Kenya Reports Another Ebola Fatality, Bringing Death Toll to Two - RTRS
+- 10/24 09:53 [FirstSquawk] Brazil’s Central Bank Approves Measures to Strengthen Oversight of Credit Provision by Financial Institutions
+- 10/24 09:58 [FirstSquawk] Saudi Arabia Warns of Possible Danger in Riyadh and Najran, State TV Reports
+- 10/24 09:58 [FirstSquawk] Howard Hughes Holdings Set for Entry Into S&P SmallCap 600 Index, According to S&P Dow Jones Indices
+- 10/24 09:58 [financialjuice] Saudi civil defense issues warning of potential threat in Riyadh and Najran: state TV
+- 10/24 10:01 [FirstSquawk] Saudi Civil Defense Issues Safety Alert for Wadi Al-Dawasir
+- 10/24 10:01 [financialjuice] Saudi civil defense issues warning on possible threat in Wadi Al-Dawasir governorate
+- 10/24 10:06 [FirstSquawk] Fitch Projects Slight Contraction for Ukraine’s Economy in 2026 and Modest 0.2% Expansion in 2027
+- 10/24 10:08 [FirstSquawk] Saudi Arabia Lifts Potential Danger Alert in Riyadh, Civil Defense Says
+- 10/24 10:08 [financialjuice] Saudi civil defense: danger has passed in Riyadh
+- 10/24 10:08 [FirstSquawk] Saudi Arabia Lifts Potential Danger Alert in Wadi Al-Dawasir Governorate
+- 10/24 10:08 [financialjuice] Saudi civil defense: danger has passed in Wadi Al-Dawasir governorate
+- 10/24 10:08 [FirstSquawk] Saudi Authorities Declare All-Clear in Najran After Potential Danger Alert
+- 10/24 10:09 [financialjuice] Saudi civil defense: danger has passed in Najran
+- 10/24 10:14 [FirstSquawk] Ukraine Likely to Maintain Substantial Fiscal Deficits as Domestic Revenue Generation Remains Weak, Fitch Says
+- 10/24 10:18 [FirstSquawk] Ukraine War Expected to Persist Through 2027, With Little Current Momentum Toward a Ceasefire, Fitch Says
+- 10/24 10:21 [FirstSquawk] Brazil’s Iochpe-Maxion Sets Aside €15 Million in Q3 for German Antitrust Proceedings
+- 10/24 10:26 [FirstSquawk] Lithuania’s ‘A+’ Rating Confirmed by Fitch With Stable Outlook
+- 10/24 10:39 [FirstSquawk] Yemen’s Houthis Launch Ballistic Missile Toward Riyadh, Saudi-Led Coalition Says
+- 10/24 10:48 [FirstSquawk] Most Russian KAB Guided Bombs Miss Bridge in Ukraine’s Kherson, Falling Into River
+- 10/24 10:51 [FirstSquawk] France’s Centre-Val de Loire Region Retains ‘A+’ Rating as Fitch Keeps Outlook Stable
+- 10/24 10:55 [FirstSquawk] Ireland Retains ‘AA’ Rating as Fitch Keeps Outlook Stable
+- 10/24 10:57 [FirstSquawk] Ukraine’s ‘CCC’ Credit Rating Reaffirmed by Fitch
+- 10/24 11:01 [FirstSquawk] Meta Acquires Sundial, an AI Data Platform, According to Axios
+- 10/24 11:09 [FirstSquawk] Uganda Health Ministry: Travellers With DR Congo Travel History Cannot Transit Through Uganda
+- 10/24 11:15 [FirstSquawk] Uganda Brings Back Traveller Locator Forms for Everyone Entering the Country
+- 10/24 11:23 [FirstSquawk] Kenya’s Index Case Has No Established Travel Link to Nigeria, but Viruses Appear Related, Nigerian Minister Says
+- 10/24 11:28 [FirstSquawk] Nigeria Health Minister: Tests Reveal Close Link Between Nigeria’s Ebola Case and Kenya’s Index Case
+- 10/24 11:35 [FirstSquawk] Norway’s Government Ratings Undergo Periodic Review by Moody’s
+- 10/24 11:38 [FirstSquawk] Strong Earthquake Measuring 6.49 Recorded in Vanuatu Islands, GFZ Says
+- 10/24 11:39 [FirstSquawk] Vanuatu Islands Region Hit by 7.1-Magnitude Earthquake, According to GFZ
+- 10/24 11:41 [FirstSquawk] Uganda Health Ministry Reaffirms Ebola-Free Status Following Case in Nigeria
+- 10/24 11:50 [FirstSquawk] Uganda Restricts Transit for Travellers Who Have Been to the Democratic Republic of Congo
+- 10/24 12:00 [FirstSquawk] US Official Says Abu Dhabi and Switzerland Are Possible Venues for Next Ukraine-Russia Talks
+- 10/24 12:09 [FirstSquawk] NHC Warns Vance Could Reach Major Hurricane Strength Tonight as It Intensifies Rapidly
+- 10/24 12:17 [FirstSquawk] Soaring Home Prices Squeeze Vietnamese Buyers as Property Sales Sink to Their Lowest Since 2021
+- 10/24 12:22 [FirstSquawk] Colombia’s Ecopetrol Forecasts Q3 Oil Output at 740,000–750,000 BPD
+- 10/24 12:33 [FirstSquawk] CMPC’s Forestry Asset Disposal Has No Rating Impact, Fitch Says
+- 10/24 12:58 [FirstSquawk] Colombia’s Ecopetrol Forecasts Third-Quarter Revenue of 33–36 Trillion Pesos
+- 10/24 12:58 [FirstSquawk] Ecopetrol Estimates Third-Quarter Revenues at 33–36 Trillion Pesos
+- 10/24 13:44 [FirstSquawk] France is in revolt. But the real storm is yet to come - FT
+- 10/24 13:44 [FirstSquawk] Spyware Pioneer Behind Pegasus Pushes Governments to Choose His Tech Instead of US AI - FT
+- 10/24 13:44 [FirstSquawk] Newer Exchanges Battle for ETF Business as They Take on Wall Street’s Biggest Markets - FT

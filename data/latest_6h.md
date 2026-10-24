@@ -7,57 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-24 09:39 JST／対象: 10/24 03:39 〜 10/24 09:39 JST（時刻はすべて日本時間）
+生成: 2026-10-24 14:02 JST／対象: 10/24 08:02 〜 10/24 14:02 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 3 | 10/24 05:01 | 10/24 05:02 | 0分（05:01→05:02） |
-| FirstSquawk | 31 | 10/24 03:46 | 10/24 09:38 | ⚠ 239分（05:03→09:02） |
-| financialjuice | 24 | 10/24 04:12 | 10/24 09:24 | ⚠ 84分（07:59→09:24） |
+| DeItaone | 0 | - | - | - |
+| FirstSquawk | 60 | 10/24 09:02 | 10/24 13:44 | 45分（12:58→13:44） |
+| financialjuice | 6 | 10/24 09:24 | 10/24 10:09 | 34分（09:24→09:58） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 54 行（統合前 58 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 66 行（統合前 67 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/24 03:46 [FirstSquawk] UK PM BURNHAM UNDERLINED IMPORTANCE FOR UKRAINE TO HAVE FULL ACCESS TO STARLINK TO US PRESIDENT TRUMP - DOWNING STREET
-- 10/24 03:47 [FirstSquawk] BRENT CRUDE FUTURES SETTLE AT $116.72/BBL, UP $3.55, 3.14%
-- 10/24 03:57 [FirstSquawk] EGYPT, SAUDI ARABIA, TURKEY, PAKISTAN FOREIGN MINISTERS: 'ISRAELI OCCUPATION IS MAIN SOURCE OF INSTABILITY IN REGION AND BEYOND' - STATEMENT
-- 10/24 04:03 [FirstSquawk] IRAN SAYS SOUTHERN PORTS BLOCKADE CUT IMPORTS 25%: ISNA
-- 10/24 04:03 [FirstSquawk] IRAQ PM: AIMS TO GRADUALLY RAISE OIL PRODUCTION TO 10M BPD BY 2032
-- 10/24 04:12 [financialjuice] Week Ahead: Economic Indicators 26th – 30th October (US)
-- 10/24 04:13 [FirstSquawk] OPENAI: STRENGTHENED CONTAINMENT FOR FRONTIER-MODEL TRAINING
-- 10/24 04:20 [FirstSquawk] OPENAI TO TRAIN FRONTIER MODELS WITHOUT INTERNET ACCESS
-- 10/24 04:25 [financialjuice] Monday FX Options Expiries
-- 10/24 04:31 [financialjuice] CFTC Positions in the Week of October 20th 2026
-- 10/24 04:32 [financialjuice] Iran's Revolutionary Guards: Two tankers struck naval mines while trying to use an unauthorised route south of the Strait of Hormuz - State Media.
-- 10/24 04:34 [financialjuice/DeItaone] Trump: We'll take care of Cuba on our way back from Iran.
-- 10/24 04:35 [FirstSquawk] IRAN'S REVOLUTIONARY GUARDS SAY TWO TANKERS STRUCK NAVAL MINES WHILE TRYING TO USE AN UNAUTHORISED ROUTE SOUTH OF THE STRAIT OF HORMUZ - STATE MEDIA
-- 10/24 04:35 [financialjuice] Trump Holds a Rally in Ft. Myers, FL - WATCH LIVE
-- 10/24 04:36 [financialjuice] Trump on Cuba: We will send US Secretary of State Rubio in to finish up the deal.
-- 10/24 04:36 [FirstSquawk/financialjuice/DeItaone] TRUMP ON IRAN: WE MAY DO ANOTHER OPERATION AGAINST IRAN
-- 10/24 04:36 [financialjuice] Speculative traders turn most bearish on the Euro since 2020 - CFTC.
-- 10/24 04:37 [financialjuice/DeItaone] Trump: I doubt Iran will say "let's get down to business".
-- 10/24 04:38 [FirstSquawk] US PRESIDENT TRUMP: NOT EXPECTING IRAN TO SAY 'LET'S GET DOWN TO BUSINESS'
-- 10/24 04:39 [financialjuice] Trump further modifies Canadian products subject to tariffs under Section 338 to take effect on October 30th - White House.
-- 10/24 04:40 [financialjuice] Trump: We're close to ending, I hope, the Russia-Ukraine war.
-- 10/24 04:50 [FirstSquawk] ABBVIE: FDA APPROVES UPDATE TO SKYRIZI US PRESCRIBING INFORMATION ALLOWING CLINICAL JUDGMENT ON TB TESTING ACROSS ALL INDICATIONS
-- 10/24 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: -1255.7 MLN NASDAQ 100: -795.9 MLN DOW 30: 121.1 MLN MAG 7: -15.8 MLN $MACRO
-- 10/24 05:03 [FirstSquawk] NASDAQ UNOFFICIALLY CLOSES DOWN 52.66 POINTS, OR 0.20 PERCENT, AT 25,956.20 DOW JONES UNOFFICIALLY CLOSES DOWN 632.70 POINTS, OR 1.20 PERCENT, AT 52,235.28 S&P 500 UNOFFICIALLY CLOSES DOWN 36.45 POINTS, OR 0.48 PERCENT, AT 7,626.98
-- 10/24 05:04 [financialjuice] Stocks and Bonds Fall as Oil Surge Revives Inflation Concerns – US Market Wrap
-- 10/24 05:08 [financialjuice] Venezuela oil output at 1.2m barrels/day - Oil Minister.
-- 10/24 05:16 [financialjuice] US bank deposits rose to $19.810 tln from $19.772 tln in the prior week.
-- 10/24 05:47 [financialjuice] ❗ Moody's since previous periodic review of France rating, slower growth and higher deficit have pushed debt burden somewhat higer
-- 10/24 05:48 [financialjuice] ❗ Moody's: France Aa3 rating assumes that a deficit-reducing budget for 2027 will be adopted.
-- 10/24 05:48 [financialjuice] Moody's projects a 5.2% of GDP deficit in 2027 for France.
-- 10/24 05:51 [financialjuice] Moody's: The recent sharp rise in French government bond yields adds to the risks of a further weakening of debt affordability.
-- 10/24 05:55 [financialjuice] France Fin. Min. Lescure: The Moody's call recognizes the solidity of the French economy.
-- 10/24 06:38 [financialjuice] US Secretary of Defense Hegseth: Defense department designates Confucius Institutes as national security threat
-- 10/24 07:59 [financialjuice] OpenAI: red-teaming exercise uncovers vulnerability enabling unauthenticated remote code execution in Brotli compression library
 - 10/24 09:02 [FirstSquawk] US Pentagon Identifies Confucius Institutes as a Threat to National Security - RTRS
 - 10/24 09:03 [FirstSquawk] Hong Kong Hospitals Increasingly Buy Chinese Medical Devices, Putting Pressure on Global Giants GE, Philips and Siemens
 - 10/24 09:03 [FirstSquawk] WSJ: US Sanctions Force Suspension of Iranian Exports to Pakistan, Official Says
@@ -78,3 +44,49 @@
 - 10/24 09:31 [FirstSquawk] Jaguar Land Rover Recalls Some US Vehicles Over Rearview Camera Display Failure, NHTSA Says
 - 10/24 09:35 [FirstSquawk] Brazil Central Bank Says Rollout of New Measures Will Begin in March or July 2027, Depending on Requirements
 - 10/24 09:38 [FirstSquawk] Brazil’s Central Bank Sets New Requirements for Credit Provision at the Start of Pix Transactions
+- 10/24 09:41 [FirstSquawk] Brazil Central Bank Introduces Requirement for Financial Institutions to Provide Consolidated Credit Information Dashboards to Customers
+- 10/24 09:44 [FirstSquawk] Firefighters Respond to Blaze at Hitler’s Former Teahouse in Berchtesgaden, Germany
+- 10/24 09:46 [FirstSquawk] Brazil Central Bank Mandates Clear Opt-Out Mechanism for Advertising and Unsolicited Credit Offers
+- 10/24 09:47 [FirstSquawk] Kenya Reports Another Ebola Fatality, Bringing Death Toll to Two - RTRS
+- 10/24 09:53 [FirstSquawk] Brazil’s Central Bank Approves Measures to Strengthen Oversight of Credit Provision by Financial Institutions
+- 10/24 09:58 [FirstSquawk] Saudi Arabia Warns of Possible Danger in Riyadh and Najran, State TV Reports
+- 10/24 09:58 [FirstSquawk] Howard Hughes Holdings Set for Entry Into S&P SmallCap 600 Index, According to S&P Dow Jones Indices
+- 10/24 09:58 [financialjuice] Saudi civil defense issues warning of potential threat in Riyadh and Najran: state TV
+- 10/24 10:01 [FirstSquawk] Saudi Civil Defense Issues Safety Alert for Wadi Al-Dawasir
+- 10/24 10:01 [financialjuice] Saudi civil defense issues warning on possible threat in Wadi Al-Dawasir governorate
+- 10/24 10:06 [FirstSquawk] Fitch Projects Slight Contraction for Ukraine’s Economy in 2026 and Modest 0.2% Expansion in 2027
+- 10/24 10:08 [FirstSquawk] Saudi Arabia Lifts Potential Danger Alert in Riyadh, Civil Defense Says
+- 10/24 10:08 [financialjuice] Saudi civil defense: danger has passed in Riyadh
+- 10/24 10:08 [FirstSquawk] Saudi Arabia Lifts Potential Danger Alert in Wadi Al-Dawasir Governorate
+- 10/24 10:08 [financialjuice] Saudi civil defense: danger has passed in Wadi Al-Dawasir governorate
+- 10/24 10:08 [FirstSquawk] Saudi Authorities Declare All-Clear in Najran After Potential Danger Alert
+- 10/24 10:09 [financialjuice] Saudi civil defense: danger has passed in Najran
+- 10/24 10:14 [FirstSquawk] Ukraine Likely to Maintain Substantial Fiscal Deficits as Domestic Revenue Generation Remains Weak, Fitch Says
+- 10/24 10:18 [FirstSquawk] Ukraine War Expected to Persist Through 2027, With Little Current Momentum Toward a Ceasefire, Fitch Says
+- 10/24 10:21 [FirstSquawk] Brazil’s Iochpe-Maxion Sets Aside €15 Million in Q3 for German Antitrust Proceedings
+- 10/24 10:26 [FirstSquawk] Lithuania’s ‘A+’ Rating Confirmed by Fitch With Stable Outlook
+- 10/24 10:39 [FirstSquawk] Yemen’s Houthis Launch Ballistic Missile Toward Riyadh, Saudi-Led Coalition Says
+- 10/24 10:48 [FirstSquawk] Most Russian KAB Guided Bombs Miss Bridge in Ukraine’s Kherson, Falling Into River
+- 10/24 10:51 [FirstSquawk] France’s Centre-Val de Loire Region Retains ‘A+’ Rating as Fitch Keeps Outlook Stable
+- 10/24 10:55 [FirstSquawk] Ireland Retains ‘AA’ Rating as Fitch Keeps Outlook Stable
+- 10/24 10:57 [FirstSquawk] Ukraine’s ‘CCC’ Credit Rating Reaffirmed by Fitch
+- 10/24 11:01 [FirstSquawk] Meta Acquires Sundial, an AI Data Platform, According to Axios
+- 10/24 11:09 [FirstSquawk] Uganda Health Ministry: Travellers With DR Congo Travel History Cannot Transit Through Uganda
+- 10/24 11:15 [FirstSquawk] Uganda Brings Back Traveller Locator Forms for Everyone Entering the Country
+- 10/24 11:23 [FirstSquawk] Kenya’s Index Case Has No Established Travel Link to Nigeria, but Viruses Appear Related, Nigerian Minister Says
+- 10/24 11:28 [FirstSquawk] Nigeria Health Minister: Tests Reveal Close Link Between Nigeria’s Ebola Case and Kenya’s Index Case
+- 10/24 11:35 [FirstSquawk] Norway’s Government Ratings Undergo Periodic Review by Moody’s
+- 10/24 11:38 [FirstSquawk] Strong Earthquake Measuring 6.49 Recorded in Vanuatu Islands, GFZ Says
+- 10/24 11:39 [FirstSquawk] Vanuatu Islands Region Hit by 7.1-Magnitude Earthquake, According to GFZ
+- 10/24 11:41 [FirstSquawk] Uganda Health Ministry Reaffirms Ebola-Free Status Following Case in Nigeria
+- 10/24 11:50 [FirstSquawk] Uganda Restricts Transit for Travellers Who Have Been to the Democratic Republic of Congo
+- 10/24 12:00 [FirstSquawk] US Official Says Abu Dhabi and Switzerland Are Possible Venues for Next Ukraine-Russia Talks
+- 10/24 12:09 [FirstSquawk] NHC Warns Vance Could Reach Major Hurricane Strength Tonight as It Intensifies Rapidly
+- 10/24 12:17 [FirstSquawk] Soaring Home Prices Squeeze Vietnamese Buyers as Property Sales Sink to Their Lowest Since 2021
+- 10/24 12:22 [FirstSquawk] Colombia’s Ecopetrol Forecasts Q3 Oil Output at 740,000–750,000 BPD
+- 10/24 12:33 [FirstSquawk] CMPC’s Forestry Asset Disposal Has No Rating Impact, Fitch Says
+- 10/24 12:58 [FirstSquawk] Colombia’s Ecopetrol Forecasts Third-Quarter Revenue of 33–36 Trillion Pesos
+- 10/24 12:58 [FirstSquawk] Ecopetrol Estimates Third-Quarter Revenues at 33–36 Trillion Pesos
+- 10/24 13:44 [FirstSquawk] France is in revolt. But the real storm is yet to come - FT
+- 10/24 13:44 [FirstSquawk] Spyware Pioneer Behind Pegasus Pushes Governments to Choose His Tech Instead of US AI - FT
+- 10/24 13:44 [FirstSquawk] Newer Exchanges Battle for ETF Business as They Take on Wall Street’s Biggest Markets - FT
