@@ -7,48 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-24 22:32 JST／対象: 10/24 10:32 〜 10/24 22:32 JST（時刻はすべて日本時間）
+生成: 2026-10-25 01:53 JST／対象: 10/24 13:53 〜 10/25 01:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 112 | 10/24 10:39 | 10/24 22:24 | ⚠ 47分（18:13→19:00） |
-| financialjuice | 28 | 10/24 15:02 | 10/24 21:44 | ⚠ 67分（18:03→19:10） |
+| FirstSquawk | 116 | 10/24 14:06 | 10/25 01:51 | ⚠ 54分（23:38→00:32） |
+| financialjuice | 31 | 10/24 15:02 | 10/24 22:55 | ⚠ 67分（18:03→19:10） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 137 行（統合前 141 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 144 行（統合前 148 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/24 10:39 [FirstSquawk] Yemen’s Houthis Launch Ballistic Missile Toward Riyadh, Saudi-Led Coalition Says
-- 10/24 10:48 [FirstSquawk] Most Russian KAB Guided Bombs Miss Bridge in Ukraine’s Kherson, Falling Into River
-- 10/24 10:51 [FirstSquawk] France’s Centre-Val de Loire Region Retains ‘A+’ Rating as Fitch Keeps Outlook Stable
-- 10/24 10:55 [FirstSquawk] Ireland Retains ‘AA’ Rating as Fitch Keeps Outlook Stable
-- 10/24 10:57 [FirstSquawk] Ukraine’s ‘CCC’ Credit Rating Reaffirmed by Fitch
-- 10/24 11:01 [FirstSquawk] Meta Acquires Sundial, an AI Data Platform, According to Axios
-- 10/24 11:09 [FirstSquawk] Uganda Health Ministry: Travellers With DR Congo Travel History Cannot Transit Through Uganda
-- 10/24 11:15 [FirstSquawk] Uganda Brings Back Traveller Locator Forms for Everyone Entering the Country
-- 10/24 11:23 [FirstSquawk] Kenya’s Index Case Has No Established Travel Link to Nigeria, but Viruses Appear Related, Nigerian Minister Says
-- 10/24 11:28 [FirstSquawk] Nigeria Health Minister: Tests Reveal Close Link Between Nigeria’s Ebola Case and Kenya’s Index Case
-- 10/24 11:35 [FirstSquawk] Norway’s Government Ratings Undergo Periodic Review by Moody’s
-- 10/24 11:38 [FirstSquawk] Strong Earthquake Measuring 6.49 Recorded in Vanuatu Islands, GFZ Says
-- 10/24 11:39 [FirstSquawk] Vanuatu Islands Region Hit by 7.1-Magnitude Earthquake, According to GFZ
-- 10/24 11:41 [FirstSquawk] Uganda Health Ministry Reaffirms Ebola-Free Status Following Case in Nigeria
-- 10/24 11:50 [FirstSquawk] Uganda Restricts Transit for Travellers Who Have Been to the Democratic Republic of Congo
-- 10/24 12:00 [FirstSquawk] US Official Says Abu Dhabi and Switzerland Are Possible Venues for Next Ukraine-Russia Talks
-- 10/24 12:09 [FirstSquawk] NHC Warns Vance Could Reach Major Hurricane Strength Tonight as It Intensifies Rapidly
-- 10/24 12:17 [FirstSquawk] Soaring Home Prices Squeeze Vietnamese Buyers as Property Sales Sink to Their Lowest Since 2021
-- 10/24 12:22 [FirstSquawk] Colombia’s Ecopetrol Forecasts Q3 Oil Output at 740,000–750,000 BPD
-- 10/24 12:33 [FirstSquawk] CMPC’s Forestry Asset Disposal Has No Rating Impact, Fitch Says
-- 10/24 12:58 [FirstSquawk] Colombia’s Ecopetrol Forecasts Third-Quarter Revenue of 33–36 Trillion Pesos
-- 10/24 12:58 [FirstSquawk] Ecopetrol Estimates Third-Quarter Revenues at 33–36 Trillion Pesos
-- 10/24 13:44 [FirstSquawk] France is in revolt. But the real storm is yet to come - FT
-- 10/24 13:44 [FirstSquawk] Spyware Pioneer Behind Pegasus Pushes Governments to Choose His Tech Instead of US AI - FT
-- 10/24 13:44 [FirstSquawk] Newer Exchanges Battle for ETF Business as They Take on Wall Street’s Biggest Markets - FT
 - 10/24 14:06 [FirstSquawk] UK Budget Hopes Rise on a Small Stroke of Luck - FT
 - 10/24 14:07 [FirstSquawk] Chinese Luxury Brands Gear Up to Take on Western Rivals - FT
 - 10/24 14:08 [FirstSquawk] NASA FIRMS Imagery Shows Damage to Key Energy Node Supplying Crimea After Overnight Attack
@@ -161,3 +136,35 @@
 - 10/24 22:14 [FirstSquawk] PALANTIR CEO ALEX KARP, ON AI, SAYS THAT WITH A MINOR EXCEPTION IN ISRAEL, CHINA AND THE U.S. ARE THE ONLY RELEVANT COUNTRIES, AND THAT THIS IS ONE THING HE IS APOPLECTIC ABOUT IN EUROPE, SAYING “YOU CAN’T HELP SOMEONE WHO DOESN’T WANT TO B…
 - 10/24 22:23 [FirstSquawk] COUCHE-TARD HAS MADE AN OFFER FOR CUMBERLAND FARMS, VALUING IT AT UP TO $8 BLN - TIMES
 - 10/24 22:24 [FirstSquawk] COUCHE-TARD HAS MADE AN OFFER FOR CUMBERLAND FARMS- TIMES
+- 10/24 22:44 [financialjuice] US updates travel advisories for Gulf and Middle East including Saudi Arabia, Qatar, UAE, Iraq, Lebanon and Israel citing threat of increased Iranian-backed Houthi regional aggression: Security Al
+- 10/24 22:44 [FirstSquawk] U.S. HAS UPDATED TRAVEL ADVISORIES ACROSS THE GULF AND MIDDLE EAST, INCLUDING SAUDI ARABIA, QATAR, UAE, IRAQ, LEBANON AND ISRAEL, CITING THE “THREAT OF INCREASED IRANIAN-SUPPORTED HOUTHI REGIONAL AGGRESSION” - SECURITY ALERTS
+- 10/24 22:51 [financialjuice] Ukraine drone reaches industrial hub of Russia’s Omsk: governor
+- 10/24 22:51 [FirstSquawk] UKRAINIAN DRONES REACHED THE INDUSTRIAL HUB OF RUSSIA’S OMSK - GOVERNOR
+- 10/24 22:55 [financialjuice] Ukrainian drones reached industrial hub of Russia’s Omsk: governor
+- 10/24 22:59 [FirstSquawk] A CNT/MDA POLL SHOWS FLAVIO BOLSONARO WITH 46.3% OF THE VOTE VERSUS LULA’S 45.0% IN A BRAZIL PRESIDENTIAL RUNOFF, OR 50.7% VERSUS 49.3% OF VALID VOTES
+- 10/24 22:59 [FirstSquawk] Iranian Revolutionary Guard Spokesman: Our response will be multiplied against any move by the enemy, even if it is limited.
+- 10/24 22:59 [FirstSquawk] Hearing the sound of 3 explosions in Aden
+- 10/24 23:00 [FirstSquawk] Wall Street Journal: The American aircraft carrier George Washington receives large shipments of ammunition and missiles in anticipation of a potential escalation against Iran.
+- 10/24 23:20 [FirstSquawk] Echoes of explosions in the city of Aden in southern Yemen
+- 10/24 23:20 [FirstSquawk] Israeli airstrike on the outskirts of Beit Lif town in the Bent Jbeil district, southern Lebanon
+- 10/24 23:38 [FirstSquawk] AMGEN SAYS NEARLY 80% OF PATIENTS ON IMDELLTRA-IMFINZI WERE ALIVE AT ONE YEAR VERSUS 53% WITH DURVALUMAB ALONE, WITH PROGRESSION-FREE SURVIVAL MORE THAN TRIPLED, AND THAT THE COMBINATION REDUCED THE RISK OF DEATH BY 58% IN FIRST-LINE EXTENS…
+- 10/24 23:38 [FirstSquawk] AMGEN SAYS IMDELLTRA PLUS DURVALUMAB EXTENDS MEDIAN OVERALL SURVIVAL TO 21.1 MONTHS VERSUS 12.7 MONTHS WITH DURVALUMAB ALONE, WITH THE SAFETY PROFILE CONSISTENT WITH THE KNOWN PROFILES OF THE INDIVIDUAL MEDICINES, AND GRADE 3 OR HIGHER ADVE…
+- 10/25 00:32 [FirstSquawk] SEVERAL SENIOR TRUMP ADVISERS BELIEVE AN ISRAELI GOVERNMENT WITHOUT NETANYAHU COULD BE EASIER TO WORK WITH, DESPITE TRUMP’S ENDORSEMENT AHEAD OF TUESDAY’S ELECTION, WITH JD VANCE HAVING GROWN DISILLUSIONED WITH NETANYAHU OVER THE IRAN WAR A…
+- 10/25 00:32 [FirstSquawk] THREE MAJOR ISRAELI POLLS PROJECT JUST 50 SEATS FOR NETANYAHU’S BLOC, RAISING THE PROSPECT OF A DEADLOCK THAT COULD KEEP HIM IN POWER AS CARETAKER PRIME MINISTER - AXIOS
+- 10/25 00:33 [FirstSquawk] A MASSIVE FIRE BROKE OUT AT THE OMSKY KAUCHUK CHEMICAL PLANT IN RUSSIA’S OMSK FOLLOWING REPORTED UKRAINIAN DRONE STRIKES, WITH THE FACILITY LOCATED MORE THAN 2,500 KM FROM UKRAINE
+- 10/25 00:55 [FirstSquawk] Yemeni Government Forces: Houthi Militia Shells the Temporary Capital #Aden with Ballistic Missiles
+- 10/25 00:55 [FirstSquawk] Houthi Spokesman Houthi: We targeted Al-Nasr Camp and the Naval Military Base in Aden
+- 10/25 00:56 [FirstSquawk] Yemeni Ministry of Interior: Houthi militia shelled the Coast Guard headquarters in the temporary capital with 3 ballistic missiles Aden
+- 10/25 00:56 [FirstSquawk] Wall Street Journal on US officials: Trump briefed on options including striking Iranian nuclear facilities and islands controlled by Tehran
+- 10/25 00:56 [FirstSquawk] Wall Street Journal on US officials: Our warships in the Middle East are preparing for potential strikes on Iran within weeks
+- 10/25 00:56 [FirstSquawk] Wall Street Journal on US officials: Trump leans toward resuming major operations against Iran despite no final decision yet
+- 10/25 00:56 [FirstSquawk] Wall Street Journal on US officials: Washington has evacuated individuals from military bases in the Middle East in anticipation of an Iranian strike
+- 10/25 00:57 [FirstSquawk] President of the UAE offers condolences by phone to the King of Jordan over the victims of the targeting of a church in Karak.
+- 10/25 00:57 [FirstSquawk] Sheikh Mohammed bin Zayed affirms the United Arab Emirates' solidarity with Jordan against all that targets the disruption of its security and the safety of its citizens.
+- 10/25 00:57 [FirstSquawk] Lebanese News Agency: Major Israeli explosion in Yahmor al-Shaqif, whose echoes reverberated across various areas of southern Lebanon
+- 10/25 00:57 [FirstSquawk] French Press Agency: Houthis claim attack on naval base in Aden
+- 10/25 01:26 [FirstSquawk] French Police: Use of Tear Gas and Water Cannons in Paris After Clashes Erupt
+- 10/25 01:26 [FirstSquawk] French Interior Ministry: 410 thousand protesters participated in social protests across various parts of France today.
+- 10/25 01:27 [FirstSquawk] Houthi Spokesman Houthi: We targeted King Fahd International Airport in Dammam, Najran Airport, and Khamis Mushait Airbase
+- 10/25 01:27 [FirstSquawk] Israeli Broadcasting Authority citing security sources: The operation in Hebron will continue and will not end before the elections
+- 10/25 01:51 [FirstSquawk] Clashes between French police and protesters in the capital Paris

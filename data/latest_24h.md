@@ -7,114 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-24 22:32 JST／対象: 10/23 22:32 〜 10/24 22:32 JST（時刻はすべて日本時間）
+生成: 2026-10-25 01:53 JST／対象: 10/24 01:53 〜 10/25 01:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 34 | 10/23 22:40 | 10/24 05:02 | ⚠ 128分（01:01→03:09） |
-| FirstSquawk | 195 | 10/23 22:46 | 10/24 22:24 | ⚠ 239分（05:03→09:02） |
-| financialjuice | 110 | 10/23 22:41 | 10/24 21:44 | ⚠ 293分（10:09→15:02） |
+| DeItaone | 5 | 10/24 03:09 | 10/24 05:02 | ⚠ 109分（03:11→05:01） |
+| FirstSquawk | 195 | 10/24 02:01 | 10/25 01:51 | ⚠ 239分（05:03→09:02） |
+| financialjuice | 72 | 10/24 01:53 | 10/24 22:55 | ⚠ 293分（10:09→15:02） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 324 行（統合前 340 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 265 行（統合前 274 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/23 22:40 [DeItaone] TRUMP ADMINISTRATION'S $8 BILLION IN DIESEL AID FOR FARMERS WILL NOT ARRIVE BEFORE NOVEMBER 3 ELECTION, SAYS ADMINISTRATION OFFICIAL
-- 10/23 22:41 [financialjuice] Trump Administration's $8 billion in diesel aid for farmers will not arrive before the November 3rd election - Administration Official
-- 10/23 22:44 [DeItaone] S&P 500 AND NASDAQ HIT A FIVE-WEEK LOW; LAST DOWN 0.4% AND 0.2%, RESPECTIVELY
-- 10/23 22:45 [financialjuice] ❗ US S&P SERVICES PMI FLASH ACTUAL 57.9 (FORECAST 58, PREVIOUS 58.8) $MACRO
-- 10/23 22:45 [financialjuice] ❗ US S&P MANUFACTURING PMI FLASH ACTUAL 56 (FORECAST 55.5, PREVIOUS 55.9) $MACRO
-- 10/23 22:45 [financialjuice] US S&P COMPOSITE PMI FLASH ACTUAL 57.6 (FORECAST 57.6, PREVIOUS 58.4) $MACRO
-- 10/23 22:45 [DeItaone] U.S. S&P GLOBAL OCTOBER FLASH COMPOSITE PMI AT 57.6 (VS 58.4 IN SEPTEMBER) U.S. S&P GLOBAL OCTOBER FLASH SERVICES PMI AT 57.9 (FORECAST 58.0) U.S. S&P GLOBAL OCTOBER FLASH MANUFACTURING PMI AT 56.0 (FORECAST 55.5)
-- 10/23 22:46 [FirstSquawk] U.S. SERVICES PMI (PMI) ACTUAL: 57.9 VS 58.8 PREVIOUS; EST 58.0
-- 10/23 22:46 [FirstSquawk] U.S. MANUFACTURING PMI (PMI) ACTUAL: 56.0 VS 55.9 PREVIOUS; EST 55.5
-- 10/23 22:46 [financialjuice] US S&P PMI October Flash Report
-- 10/23 22:47 [financialjuice] French Foreign Minister Barrot: New escalation between Iran and the United States would only have losers and would raise oil prices.
-- 10/23 22:48 [DeItaone] U.S. ECONOMY BOOMS, BUT INFLATION WARNING FLASHES RED October's flash S&P Global PMI signals strong economic growth alongside accelerating inflation. 🔸 Composite PMI: 57.6 vs. 58.4 prior 🔸 Services PMI: 57.9 vs. 58.8 🔸 Manufacturing PMI: 56…
-- 10/23 22:48 [FirstSquawk] FRENCH FOREIGN MINISTER BARROT SAYS A NEW ESCALATION BETWEEN IRAN AND THE U.S. WOULD RESULT IN LOSSES FOR ALL AND INCREASE OIL PRICES.
-- 10/23 22:50 [FirstSquawk] CANADA'S INESSS BACKS NOVARTIS' KISQALI FOR EARLY BREAST CANCER
-- 10/23 22:51 [DeItaone] CHINESE FAST FASHION PLATFORM SHEIN TO PAY $100 MILLION IN US FTC PROBE SETTLEMENT, SOURCE SAYS SHEIN SAYS IT HAS REACHED 'CONSTRUCTIVE OUTCOME' WITH UNITED STATES FTC
-- 10/23 22:56 [DeItaone/financialjuice/FirstSquawk] U.S. DEPARTMENT OF ENERGY ANNOUNCES AUTHORIZATION OF EMERGENCY EXCHANGE OF UP TO 400,000 BARRELS OF CRUDE OIL FROM SPR TO ADDRESS CRUDE OIL SUPPLY DISRUPTION AFFECTING PHILLIPS 66 LAKE CHARLES REFINERY IN LOUISIANA
-- 10/23 22:56 [financialjuice] US authorizes SPR exchange to support fuel supply stability
-- 10/23 22:56 [DeItaone] $AAPL - APPLE SHARES TOUCH RECORD HIGH, LAST UP 0.4%
-- 10/23 23:00 [FirstSquawk] US UMICH FINAL OCT. CONSUMER SENTIMENT FALLS TO 48; EST. 46.3
-- 10/23 23:00 [financialjuice] UNIVERSITY MICHIGAN EXPECTATIONS FINAL ACTUAL 48.8 (FORECAST 47.1, PREVIOUS 47.3) $MACRO
-- 10/23 23:00 [DeItaone] U.S. CONSUMER SENTIMENT BEATS EXPECTATIONS, INFLATION FEARS RISE October's final University of Michigan consumer sentiment index came in at 48.0 vs. 46.3 expected, but remained below September's 48.1. 🔸 Current conditions: 46.7 vs. 50.9 pri…
-- 10/23 23:00 [financialjuice] UNIVERSITY MICHIGAN 5 YR INFLATION FINAL ACTUAL 3.5% (FORECAST 3.5%, PREVIOUS 3.5%) $MACRO
-- 10/23 23:01 [financialjuice] University of Michigan Sentiment October Report
-- 10/23 23:13 [financialjuice] Ukraine’s President Zelenskiy: Just spoke with Witkoff and Kushner
-- 10/23 23:14 [financialjuice] Ukraine’s President Zelenskiy: Agreement for trilateral meeting at the team level
-- 10/23 23:15 [financialjuice] Ukraine’s President Zelenskiy: The goal is to meet in the first half of November as soon as possible
-- 10/23 23:16 [FirstSquawk] UKRAINE’S ZELENSKIY: JUST SPOKE WITH WITKOFF AND KUSHNER; DISCUSSED OUTCOME OF THE MEETINGS IN NORWAY; AGREEMENT FOR TRILATERAL MEETING AT THE TEAM LEVEL; AIM TO MEET IN FIRST HALF OF NOVEMBER, SOON AS POSSIBLE
-- 10/23 23:16 [FirstSquawk] UKRAINE’S ZELENSKIY: SPEED LIMITS ON STARLINK AND STARSHIELD STILL IN EFFECT
-- 10/23 23:18 [DeItaone] $CRWV - COREWEAVE SHARES FALL 2.4% AFTER 10% SLIDE IN PRIOR SESSION
-- 10/23 23:19 [financialjuice] Fear & Greed Index: 20/100 - Extreme Fear - CNN
-- 10/23 23:19 [financialjuice] Crypto Fear & Greed Index: 50/100 - Neutral
-- 10/23 23:25 [FirstSquawk] UKRAINE’S ZELENSKIY: DELIVERY OF MISSILE INTERCEPTORS DELAYED STILL
-- 10/23 23:25 [FirstSquawk] UKRAINE’S ZELENSKIY: RUSSIA HAS ALREADY BEGUN ITS 'WINTER ATTACKS
-- 10/23 23:25 [FirstSquawk] UKRAINE’S ZELENSKIY: HOPES US DELIVERS ON PATRIOT INTERCEPTORS
-- 10/23 23:29 [DeItaone] GOLD TESTS $4,000 AS INFLATION FEARS TRIGGER SELLING Gold futures fell 1.10% to $3,980.80/oz, heading for a nearly 4% weekly loss. Rising oil prices are fueling inflation concerns and expectations of higher interest rates, pressuring the me…
-- 10/23 23:31 [FirstSquawk] SPOT GOLD FALLS OVER 1% TO TRADE BELOW $4,000/OZ
-- 10/23 23:42 [financialjuice] EU's Trade Chief Sefcovic: The trade deficit with China could break the 2022 record
-- 10/23 23:45 [FirstSquawk] EU'S SEFCOVIC: TRADE DEFICIT WITH CHINA COULD BREAK 2022 RECORD
-- 10/23 23:46 [financialjuice] Germany's Foreign Minister: Need to support Saudi Arabia and the Yemeni government to defend themselves:
-- 10/23 23:48 [financialjuice] Ukrainian Official: A ceasefire in Russian-occupied Oleshky to be established soon.
-- 10/23 23:49 [DeItaone] TRUMP ADMINISTRATION SUES TO BLOCK ALASKA SENATE RACE CERTIFICATION IF REPUBLICAN LOSES, CITING CANDIDATE NAME CONFUSION -AP REPORTER ON X
-- 10/23 23:49 [FirstSquawk] SENIOR UKRAINIAN OFFICIAL: CEASEFIRE IN RUSSIAN-OCCUPIED OLESHKY TO BE ESTABLISHED SOON
-- 10/23 23:49 [financialjuice] EU's Trade Chief Sefcovic: ministers suggested next sectors for China talks
-- 10/23 23:50 [financialjuice] Trump and UK's PM Burnham to speak today as Ukraine, Iran tensions mount
-- 10/23 23:51 [DeItaone] TURKISH FOREIGN MINISTER, SPEAKING AFTER MEETING REGIONAL AND EUROPEAN COUNTERPARTS, SAYS NOBODY APPROVES ANOTHER ATTACK ON IRAN, DIPLOMACY IS THE ONLY WAY
-- 10/23 23:51 [financialjuice] Turkish Foreign Minister, speaking after meeting regional and European counterparts: Nobody approves another attack on iran, diplomacy is the only way
-- 10/23 23:52 [financialjuice/FirstSquawk] Trump on Melania-brokered ceasefire: Both sides wanted to do it
-- 10/23 23:53 [DeItaone] TRUMP ON ACCESS TO STARLINK IN UKRAINE: IF THERE IS PROBLEM, I'LL GET IT STRAIGHTENED OUT
-- 10/23 23:53 [FirstSquawk] TRUMP ON STARLINK-UKRAINE: NO IDEA WHO SLOWED IT
-- 10/23 23:54 [DeItaone] - TRUMP ON ACCESS TO STARLINK IN UKRAINE: HAVE NOT SPOKEN TO MUSK
-- 10/23 23:54 [DeItaone] TRUMP ON ACCESS TO STARLINK IN UKRAINE: IF IT'S NOT FIXED, I'LL SPEAK TO MUSK
-- 10/23 23:56 [DeItaone/FirstSquawk] TRUMP: WE COULD END IRAN WAR VERY QUICKLY
-- 10/23 23:56 [financialjuice] Trump: We could end the Iran war very quickly
-- 10/23 23:57 [DeItaone/financialjuice] TRUMP ON IRAN: DO WE WANT TO FINISH IT OR LET IT WITHER IS THE QUESTION
-- 10/23 23:57 [DeItaone/FirstSquawk] TRUMP: WE COULD TAKE ALL OF THE OIL IN IRAN
-- 10/23 23:58 [financialjuice] Trump on Hormuz: We're taking out all the oil we want
-- 10/24 00:00 [DeItaone] ZELENSKIY: AGREED TO HOLD TRILATERAL MEETING AT THE TEAM LEVEL WITH US, RUSSIA AND UKRAINE IN FIRST HALF OF NOVEMBER
-- 10/24 00:01 [DeItaone] TRUMP: SPOKE WITH BRITISH FOREIGN MINISTER TODAY TRUMP: DISCUSSED OPENING UP NORTH SEA OIL
-- 10/24 00:01 [financialjuice] Trump: Spoke with British PM today
-- 10/24 00:01 [DeItaone] TRUMP: VERY CLOSE TO DEAL WITH MEXICO
-- 10/24 00:01 [financialjuice] Trump: Discussed North Sea oil with UK's PM Burnham:
-- 10/24 00:01 [DeItaone] ZELENSKIY: INTERCEPTOR DELIVERIES ARE DELAYED, THIS IS A REAL PROBLEM FOR US
-- 10/24 00:01 [DeItaone] TRUMP: CANADA IS WORKING HARD TO MAKE DEAL WITH US
-- 10/24 00:01 [financialjuice] Trump: Canada is working hard to make a deal with us
-- 10/24 00:05 [financialjuice] UKMTO gets a time-late report of incident 7nm from Limah, Oman
-- 10/24 00:06 [financialjuice/FirstSquawk] UKMTO: Tanker hit by unknown projectile in Hormuz near Oman
-- 10/24 00:08 [DeItaone] OIL NEARS IRAN WAR PEAK AS U.S. FUEL COSTS SURGE Brent crude hit $116/barrel, approaching its Iran war peak amid fears of renewed fighting after the midterms. 🔸 U.S. gasoline: $4.29/gallon, up 40% year-over-year 🔸 Additional fuel spending: …
-- 10/24 00:09 [DeItaone] KREMLIN SAYS RUSSIAN AND UKRAINIAN MILITARIES ARE WORKING OUT CEASEFIRE DATES KREMLIN SAYS CIVILIANS WHO WANT TO LEAVE OLESHKY WILL BE ABLE TO DO SO KREMLIN SAYS MELANIA TRUMP COORDINATED THE AGREEMENT, SOMETHING DISCUSSED BY PUTIN AND TRUM…
-- 10/24 00:10 [financialjuice] Kremlin hails Melania Trump's input on Oleshky humanitarian agreement; says she coordinated the deal, discussed by Putin and Trump in a recent phone call
-- 10/24 00:11 [financialjuice] Kremlin: Russian and Ukrainian militaries are working out ceasefire dates
-- 10/24 00:11 [financialjuice] Kremlin: Operation to evacuate Oleshky will take a few days at least
-- 10/24 00:12 [DeItaone] TRUMP ON ACCESS TO STARLINK IN UKRAINE: MUSK WON'T DO ANYTHING WRONG
-- 10/24 00:12 [financialjuice] Trump: Need to protect geniuses like Musk
-- 10/24 00:13 [FirstSquawk] SOURCE FAMILIAR WITH TAMPA TALKS: LEBANON-ISRAEL ROUND HELD IN POSITIVE ATMOSPHERE
-- 10/24 00:13 [financialjuice] Trump ends remarks to reporters
-- 10/24 00:18 [DeItaone] CROWDSTRIKE CEO GEORGE KURTZ: WILL SEE A LOT OF BREACHES IN COMING MONTHS FROM PHP VULNERABILITY - CNBC INTERVIEW
-- 10/24 00:24 [FirstSquawk] TRUMP SAYS US WON'T ATTACK IRAN BEFORE MIDTERMS, SAYS TALKS UNDERWAY
-- 10/24 00:31 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 0.51%; GERMANY'S DAX DOWN 0.86%
-- 10/24 00:31 [FirstSquawk] FRANCE'S CAC 40 DOWN 0.48%; SPAIN'S IBEX UP 0.2%
-- 10/24 00:35 [DeItaone] PREDICTION MARKETS ARE DISRUPTING THE SPORTS BETTING INDUSTRY Wall Street initially underestimated prediction markets, according to Bank of America's Shaun Kelley. Platforms like Kalshi have challenged traditional sportsbooks, including Dra…
-- 10/24 00:38 [financialjuice/FirstSquawk] Japan weighs rebranding energy, AI as defense spending under Trump pressure - Nikkei
-- 10/24 00:47 [FirstSquawk] TIKTOK U.S. IS LOOKING FOR FOUR GIGAWATTS OF COMPUTE POWER BY THE EARLY 2030S - CNBC
-- 10/24 00:51 [FirstSquawk] NOVARTIS: REMIBRUTINIB MEETS PRIMARY ENDPOINTS IN PHASE 3 TRIALS IN RMS
-- 10/24 01:01 [DeItaone] RUSSIAN DEFMIN SAYS CEASEFIRE IN RUSSIAN-CONTROLLED OLESHKY TO BEGIN ON OCT. 27 - IFX RUSSIAN DEFMIN SAYS CEASEFIRE TO BEGIN FROM 0400 AM LOCAL TIME - IFX
-- 10/24 01:02 [financialjuice] Russian Defense Minister: ceasefire to begin from 0400 local time - IFX.
-- 10/24 01:06 [financialjuice] Poll: The Bank of Canada to raise overnight rate to 2.50% on October 28th, said 19 of 34 economists.
-- 10/24 01:06 [financialjuice] Poll: Bank of Canada to hike overnight rate twice by end-March, said 16 of 29 economists (vs 17 of 34 forecasting hold until mid-2027 in August poll).
-- 10/24 01:11 [FirstSquawk] US TO PUSH FOR NEW LABELS ON SEAFOOD AT GROCERY STORES: CBS
-- 10/24 01:22 [financialjuice] Germany's Oil Stockpiling Agency EBV issued a tender to sell diesel, heating oil, and crude oil from reserves on Friday - Document.
-- 10/24 01:34 [FirstSquawk] TOYOTA: ABOUT 68,000 VEHICLES INVOLVED IN RECALL IN US
-- 10/24 01:46 [FirstSquawk] BP, STATE OF LOUISIANA AGREE TO RESOLVE LONG-STANDING MATTERS
 - 10/24 01:53 [financialjuice] Iran has detailed plans to hit Gulf undersea cables if war resumes - Officials.
 - 10/24 01:55 [financialjuice] According to two senior Iranian security officials, Tehran has prepared detailed plans to target undersea communications cables in the Gulf if the US and Israel attack Iran again. Their remarks came after Iranian officials warned that if di…
 - 10/24 02:01 [FirstSquawk] US OIL RIG COUNT UP 1 TO 460 , BAKER HUGHES SAYS
@@ -348,3 +257,35 @@
 - 10/24 22:14 [FirstSquawk] PALANTIR CEO ALEX KARP, ON AI, SAYS THAT WITH A MINOR EXCEPTION IN ISRAEL, CHINA AND THE U.S. ARE THE ONLY RELEVANT COUNTRIES, AND THAT THIS IS ONE THING HE IS APOPLECTIC ABOUT IN EUROPE, SAYING “YOU CAN’T HELP SOMEONE WHO DOESN’T WANT TO B…
 - 10/24 22:23 [FirstSquawk] COUCHE-TARD HAS MADE AN OFFER FOR CUMBERLAND FARMS, VALUING IT AT UP TO $8 BLN - TIMES
 - 10/24 22:24 [FirstSquawk] COUCHE-TARD HAS MADE AN OFFER FOR CUMBERLAND FARMS- TIMES
+- 10/24 22:44 [financialjuice] US updates travel advisories for Gulf and Middle East including Saudi Arabia, Qatar, UAE, Iraq, Lebanon and Israel citing threat of increased Iranian-backed Houthi regional aggression: Security Al
+- 10/24 22:44 [FirstSquawk] U.S. HAS UPDATED TRAVEL ADVISORIES ACROSS THE GULF AND MIDDLE EAST, INCLUDING SAUDI ARABIA, QATAR, UAE, IRAQ, LEBANON AND ISRAEL, CITING THE “THREAT OF INCREASED IRANIAN-SUPPORTED HOUTHI REGIONAL AGGRESSION” - SECURITY ALERTS
+- 10/24 22:51 [financialjuice] Ukraine drone reaches industrial hub of Russia’s Omsk: governor
+- 10/24 22:51 [FirstSquawk] UKRAINIAN DRONES REACHED THE INDUSTRIAL HUB OF RUSSIA’S OMSK - GOVERNOR
+- 10/24 22:55 [financialjuice] Ukrainian drones reached industrial hub of Russia’s Omsk: governor
+- 10/24 22:59 [FirstSquawk] A CNT/MDA POLL SHOWS FLAVIO BOLSONARO WITH 46.3% OF THE VOTE VERSUS LULA’S 45.0% IN A BRAZIL PRESIDENTIAL RUNOFF, OR 50.7% VERSUS 49.3% OF VALID VOTES
+- 10/24 22:59 [FirstSquawk] Iranian Revolutionary Guard Spokesman: Our response will be multiplied against any move by the enemy, even if it is limited.
+- 10/24 22:59 [FirstSquawk] Hearing the sound of 3 explosions in Aden
+- 10/24 23:00 [FirstSquawk] Wall Street Journal: The American aircraft carrier George Washington receives large shipments of ammunition and missiles in anticipation of a potential escalation against Iran.
+- 10/24 23:20 [FirstSquawk] Echoes of explosions in the city of Aden in southern Yemen
+- 10/24 23:20 [FirstSquawk] Israeli airstrike on the outskirts of Beit Lif town in the Bent Jbeil district, southern Lebanon
+- 10/24 23:38 [FirstSquawk] AMGEN SAYS NEARLY 80% OF PATIENTS ON IMDELLTRA-IMFINZI WERE ALIVE AT ONE YEAR VERSUS 53% WITH DURVALUMAB ALONE, WITH PROGRESSION-FREE SURVIVAL MORE THAN TRIPLED, AND THAT THE COMBINATION REDUCED THE RISK OF DEATH BY 58% IN FIRST-LINE EXTENS…
+- 10/24 23:38 [FirstSquawk] AMGEN SAYS IMDELLTRA PLUS DURVALUMAB EXTENDS MEDIAN OVERALL SURVIVAL TO 21.1 MONTHS VERSUS 12.7 MONTHS WITH DURVALUMAB ALONE, WITH THE SAFETY PROFILE CONSISTENT WITH THE KNOWN PROFILES OF THE INDIVIDUAL MEDICINES, AND GRADE 3 OR HIGHER ADVE…
+- 10/25 00:32 [FirstSquawk] SEVERAL SENIOR TRUMP ADVISERS BELIEVE AN ISRAELI GOVERNMENT WITHOUT NETANYAHU COULD BE EASIER TO WORK WITH, DESPITE TRUMP’S ENDORSEMENT AHEAD OF TUESDAY’S ELECTION, WITH JD VANCE HAVING GROWN DISILLUSIONED WITH NETANYAHU OVER THE IRAN WAR A…
+- 10/25 00:32 [FirstSquawk] THREE MAJOR ISRAELI POLLS PROJECT JUST 50 SEATS FOR NETANYAHU’S BLOC, RAISING THE PROSPECT OF A DEADLOCK THAT COULD KEEP HIM IN POWER AS CARETAKER PRIME MINISTER - AXIOS
+- 10/25 00:33 [FirstSquawk] A MASSIVE FIRE BROKE OUT AT THE OMSKY KAUCHUK CHEMICAL PLANT IN RUSSIA’S OMSK FOLLOWING REPORTED UKRAINIAN DRONE STRIKES, WITH THE FACILITY LOCATED MORE THAN 2,500 KM FROM UKRAINE
+- 10/25 00:55 [FirstSquawk] Yemeni Government Forces: Houthi Militia Shells the Temporary Capital #Aden with Ballistic Missiles
+- 10/25 00:55 [FirstSquawk] Houthi Spokesman Houthi: We targeted Al-Nasr Camp and the Naval Military Base in Aden
+- 10/25 00:56 [FirstSquawk] Yemeni Ministry of Interior: Houthi militia shelled the Coast Guard headquarters in the temporary capital with 3 ballistic missiles Aden
+- 10/25 00:56 [FirstSquawk] Wall Street Journal on US officials: Trump briefed on options including striking Iranian nuclear facilities and islands controlled by Tehran
+- 10/25 00:56 [FirstSquawk] Wall Street Journal on US officials: Our warships in the Middle East are preparing for potential strikes on Iran within weeks
+- 10/25 00:56 [FirstSquawk] Wall Street Journal on US officials: Trump leans toward resuming major operations against Iran despite no final decision yet
+- 10/25 00:56 [FirstSquawk] Wall Street Journal on US officials: Washington has evacuated individuals from military bases in the Middle East in anticipation of an Iranian strike
+- 10/25 00:57 [FirstSquawk] President of the UAE offers condolences by phone to the King of Jordan over the victims of the targeting of a church in Karak.
+- 10/25 00:57 [FirstSquawk] Sheikh Mohammed bin Zayed affirms the United Arab Emirates' solidarity with Jordan against all that targets the disruption of its security and the safety of its citizens.
+- 10/25 00:57 [FirstSquawk] Lebanese News Agency: Major Israeli explosion in Yahmor al-Shaqif, whose echoes reverberated across various areas of southern Lebanon
+- 10/25 00:57 [FirstSquawk] French Press Agency: Houthis claim attack on naval base in Aden
+- 10/25 01:26 [FirstSquawk] French Police: Use of Tear Gas and Water Cannons in Paris After Clashes Erupt
+- 10/25 01:26 [FirstSquawk] French Interior Ministry: 410 thousand protesters participated in social protests across various parts of France today.
+- 10/25 01:27 [FirstSquawk] Houthi Spokesman Houthi: We targeted King Fahd International Airport in Dammam, Najran Airport, and Khamis Mushait Airbase
+- 10/25 01:27 [FirstSquawk] Israeli Broadcasting Authority citing security sources: The operation in Hebron will continue and will not end before the elections
+- 10/25 01:51 [FirstSquawk] Clashes between French police and protesters in the capital Paris
