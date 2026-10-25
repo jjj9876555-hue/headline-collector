@@ -7,44 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-25 15:53 JST／対象: 10/25 03:53 〜 10/25 15:53 JST（時刻はすべて日本時間）
+生成: 2026-10-25 21:10 JST／対象: 10/25 09:10 〜 10/25 21:10 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 5 | 10/25 03:55 | 10/25 05:28 | ⚠ 85分（03:55→05:20） |
-| FirstSquawk | 52 | 10/25 09:08 | 10/25 15:34 | ⚠ 86分（11:37→13:04） |
-| financialjuice | 15 | 10/25 04:01 | 10/25 12:25 | ⚠ 302分（07:01→12:03） |
+| DeItaone | 1 | 10/25 19:23 | 10/25 19:23 | - |
+| FirstSquawk | 84 | 10/25 09:11 | 10/25 20:23 | ⚠ 86分（11:37→13:04） |
+| financialjuice | 4 | 10/25 12:03 | 10/25 20:37 | ⚠ 492分（12:25→20:37） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 72 行（統合前 72 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 89 行（統合前 89 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/25 03:55 [DeItaone] MUSK SAYS UKRAINE VIOLATED STARLINK TERMS Elon Musk claims Ukraine used Starlink for offensive drone strikes, violating its terms of service. SpaceX reportedly closed the loophole last week. Musk says Starshield remains under U.S. governmen…
-- 10/25 04:01 [financialjuice] Yemen's Houthis refute claims of attacking Mecca and Medina after Saudi Arabia says it intercepted missiles
-- 10/25 04:02 [financialjuice] Yemen's Houthis say they struck Riyadh airport in Saudi Arabia
-- 10/25 04:02 [financialjuice] Yemen's Houthis say they struck Saudi Aramco site in Yanbu
-- 10/25 04:02 [financialjuice] Yemen's Houthis: attacked Saudi Arabia's King Fahd International Airport in Dammam, Najran airport and Khamis Mushait airbase
-- 10/25 04:27 [financialjuice] Explosive-laden drone targets Iranian Kurdish opposition camp northeast of Iraq's Erbil: security sources
-- 10/25 04:33 [financialjuice] Saudi Arabia's Riyadh airport to allocate terminal 1 for domestic flights, terminal 2 for international flights from October 25: statement
-- 10/25 05:20 [DeItaone] TRUMP ON STARLINK IN UKRAINE: I HAVE SPOKEN TO ELON MUSK
-- 10/25 05:24 [DeItaone] Trump: Once we've got a deal with Russia and Ukraine we will be able to do business with both
-- 10/25 05:24 [DeItaone] Trump: I may have to finish the job with Iran, or we make a deal. Either way we win
-- 10/25 05:28 [DeItaone] Trump: It's a possibility i will attack Iran
-- 10/25 06:14 [financialjuice] Yemen's Houthis renew caution to airlines, workers, travelers against using Saudi Arabia's King Khalid airport in Riyadh: military target
-- 10/25 06:17 [financialjuice] Yemen's Houthis say they will keep attacking Saudi Arabia's King Khalid airport
-- 10/25 06:39 [financialjuice] N. Korea leader Kim Jong Un visits China: KCNA
-- 10/25 06:40 [financialjuice] N. Korea leader Kim Jong Un visits memorial for China’s role in Korean War in Dandong, China
-- 10/25 06:42 [financialjuice] N.Korea leader Kim Jong Un returns to N.Korea via bridge - KCNA
-- 10/25 07:01 [financialjuice] Saudi-led coalition: Intercepts and destroys drone in Riyadh region
-- 10/25 09:08 [FirstSquawk] NYP: Gold-diggers are heading to Silicon Valley, hoping to land wealthy husbands in the AI industry.
-- 10/25 09:09 [FirstSquawk] Trump: We need to restore religion to a much stronger position if we want to be great.
-- 10/25 09:09 [FirstSquawk] Saudi-Led Coalition Says It Shot Down Two Missiles Fired by Yemen’s Houthis
-- 10/25 09:10 [FirstSquawk] New York Archdiocese Wins Approval for $800 Million Abuse Settlement - RTRS
 - 10/25 09:11 [FirstSquawk] Trump Revives ‘You’re Fired’ Catchphrase in Georgia, Takes Aim at Democrats and Ossoff - FOX NEWS
 - 10/25 09:11 [FirstSquawk] Asia Faces Rising Methamphetamine Seizures as Myanmar Fuels Supply and Thailand Grapples With Cheap Drugs
 - 10/25 09:33 [FirstSquawk] Russia’s Belgorod Region Hit by Massive Ukrainian Drone Attack on 163,000-Square-Meter Shopping Complex, Locals Say
@@ -96,3 +75,41 @@
 - 10/25 15:32 [FirstSquawk] An Iranian lawmaker said on Sunday that any country that allows the United States to use its territory or airspace to attack Iran would become a “legitimate military target
 - 10/25 15:33 [FirstSquawk] Iranian Mehr News Agency: The Islamic Revolutionary Guard Corps (IRGC) targeted the headquarters of the Komela terrorist group in the Balisan region of northern Iraq last night in a preemptive operation.
 - 10/25 15:34 [FirstSquawk] US Fed expected to hold rates steady days ahead of U.S. midterms
+- 10/25 16:18 [FirstSquawk] Vietnam property sales hit lowest level since 2021 as prices squeeze buyers Hanoi apartments nearly 2.5 times costlier than four years ago
+- 10/25 16:18 [FirstSquawk] Serbia's student protesters are taking their fight against former president Aleksandar Vučić from the streets to the ballot box
+- 10/25 16:18 [FirstSquawk] Iranian Foreign Minister Abbas Araghchi said on Sunday that US bases have become the main source of insecurity for their host countries, and the region should move toward having no foreign troops.
+- 10/25 16:18 [FirstSquawk] There's talk of a NEW WAR... ...but if there's any RATIONALITY, they won't try MILITARY AGGRESSION against our people AGAIN' — Araghchi 'They tried TWICE — they saw the RESULT
+- 10/25 16:19 [FirstSquawk] Saudi military says it has intercepted Houthi missile
+- 10/25 17:24 [FirstSquawk] Sri Lanka is determined to accelerate its transition to renewable energy spurred by soaring oil prices, but faces major constraints, its energy minister told AFP.
+- 10/25 17:24 [FirstSquawk] Iran’s Parliament Speaker Mohammad Bagher Ghalibaf called on Sunday for a national campaign to reduce gas consumption by at least 10% ahead of winter, warning that inefficient energy use had become a longstanding structural challenge.
+- 10/25 17:25 [FirstSquawk] Riyadh’s main airport reopened to global air traffic after a two-week shutdown, despite sustained Houthi attacks
+- 10/25 17:25 [FirstSquawk] Filipinos split on Marcos’ sea handling amid row over Chinese envoy’s remarks
+- 10/25 17:25 [FirstSquawk] Iran’s Foreign Minister Abbas Araghchi: You cannot have war and conflict in one part of the region and expect peace and calm in another. The war must end on every front. Otherwise, we will not see stability in the region.
+- 10/25 17:44 [FirstSquawk] group of drivers in Karaj, west of Tehran, went on strike on Sunday over diesel shortages, according to videos received by Iran International. The drivers said they face long queues each day without knowing whether fuel will be available.
+- 10/25 17:45 [FirstSquawk] Brazil faces a decisive vote, with left-wing incumbent Luiz Inácio Lula da Silva and right-wing senator Flávio Bolsonaro, son of former president Jair Bolsonaro, facing each other in the presidential run-off
+- 10/25 17:46 [FirstSquawk] European Commission wants to figure out how to plug Ukraine’s budget hole by year-end, according to a document seen by POLITICO.
+- 10/25 17:47 [FirstSquawk] GERMANY IS IN DEEP TROUBLE. VW plans to axe another 12,000 jobs. Add that to the 35,000+ cuts already on the table. Germany's industrial decline is accelerating while Merz is sending billions to ZELENSKY
+- 10/25 18:18 [FirstSquawk] Somalia is a key part of Turkey's plans to grow its regional military and geopolitical footprint, with the country only growing in importance since the US and Israel’s war on Iran upended global shipping
+- 10/25 18:19 [FirstSquawk] Smouldering embers have flared up again overnight at the Eagle's Nest mountain retreat in southern Germany that was once used by Nazi dictator Adolf Hitler
+- 10/25 18:19 [FirstSquawk] Israel launches West Bank operation, displacing hundreds of Palestinians ahead of election
+- 10/25 18:19 [FirstSquawk] Jordanian Prime Minister: All state institutions are working to apprehend the criminals
+- 10/25 18:20 [FirstSquawk] US Secretary of State Marco Rubio defended Donald Trump’s decision to ease sanctions on Russian diesel exports as “very wise.”
+- 10/25 18:21 [FirstSquawk] Bulgarians are voting in a presidential election on Sunday, as security concerns swirl following a series of drone attacks on ships in the Black Sea.
+- 10/25 19:23 [DeItaone] APOLLO: AI HAS DELIVERED “ZERO PAYOFF” OUTSIDE BIG TECH Apollo Chief Economist Torsten Slok warns that massive AI spending has yet to deliver measurable productivity gains across corporate America. Revenue per worker and profit margins are …
+- 10/25 19:37 [FirstSquawk] Iranian Parliament Speaker: We will not be intimidated and are prepared to respond with an unexpected retaliation to any aggression against the unity of our lands
+- 10/25 19:38 [FirstSquawk] Ethiopian Defense Minister: Our army is capable of confronting any provocations and has thwarted terrorist plots orchestrated by internal and external forces
+- 10/25 19:38 [FirstSquawk] Qatari Foreign Ministry: Prime Minister and Foreign Minister discusses by phone with Turkey's Foreign Minister reducing escalation and enhancing regional security
+- 10/25 19:38 [FirstSquawk] Qatari Foreign Ministry: The Prime Minister and Foreign Minister affirmed Qatar's support for efforts and endeavors to reach a solution that ensures freedom of maritime navigation
+- 10/25 19:38 [FirstSquawk] Qatari Foreign Ministry: The Prime Minister and Foreign Minister affirmed support for efforts and endeavors to reach an agreement that achieves lasting peace in the region
+- 10/25 19:38 [FirstSquawk] Settlers attack Palestinian farmers while picking olives in the village of Imatin, southwest of Nablus in the West Bank
+- 10/25 19:39 [FirstSquawk] Saudi Civil Defense: Early Alert Issued to Warn of Danger in Taif Governorate
+- 10/25 19:39 [FirstSquawk] Saudi Civil Defense: Danger Lifted from Taif Governorate
+- 10/25 19:39 [FirstSquawk] Saudi Civil Defense: Alert warning of danger in Jazan area
+- 10/25 19:39 [FirstSquawk] Saudi Civil Defense: The danger has been lifted from the Jazan area
+- 10/25 19:39 [FirstSquawk] Jordanian Prime Minister: There is absolutely no place for terrorism and extremist thought in this country and this society.
+- 10/25 19:39 [FirstSquawk] Jordanian Prime Minister: All state agencies are working to apprehend the perpetrators of the Karak Church attack and they will receive their punishment
+- 10/25 20:22 [FirstSquawk] 5.9 magnitude earthquake strikes the New Guinea region in Papua New Guinea
+- 10/25 20:22 [FirstSquawk] Russian Television: Deputy Prime Minister confirms Russia's readiness to supply the United States with any quantities of diesel
+- 10/25 20:22 [FirstSquawk] Lebanese News Agency: The Israeli army carries out a large explosion in the town of Yahmour al-Shaqif in the Nabatieh District, southern Lebanon.
+- 10/25 20:23 [FirstSquawk] Three Palestinians killed in an Israeli airstrike that targeted, for the second time, the grounds of the Islamic University in Gaza City.
+- 10/25 20:37 [financialjuice] Iran's air defence shoots down Lucas drone near southern Bandar Abbas: Tasnim

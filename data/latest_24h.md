@@ -7,90 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-25 15:53 JST／対象: 10/24 15:53 〜 10/25 15:53 JST（時刻はすべて日本時間）
+生成: 2026-10-25 21:10 JST／対象: 10/24 21:10 〜 10/25 21:10 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 5 | 10/25 03:55 | 10/25 05:28 | ⚠ 85分（03:55→05:20） |
-| FirstSquawk | 161 | 10/24 16:10 | 10/25 15:34 | ⚠ 356分（03:12→09:08） |
-| financialjuice | 44 | 10/24 16:02 | 10/25 12:25 | ⚠ 306分（22:55→04:01） |
+| DeItaone | 6 | 10/25 03:55 | 10/25 19:23 | ⚠ 835分（05:28→19:23） |
+| FirstSquawk | 150 | 10/24 21:12 | 10/25 20:23 | ⚠ 356分（03:12→09:08） |
+| financialjuice | 22 | 10/24 21:11 | 10/25 20:37 | ⚠ 492分（12:25→20:37） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 207 行（統合前 211 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 178 行（統合前 179 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/24 16:02 [financialjuice] North Korea's Kim Jong Un appears to have reached Dandong, China via newly opened bridge: South Korean government source
-- 10/24 16:10 [FirstSquawk] Jordanian media: Death toll from attack on Karak church rises to 8
-- 10/24 16:10 [FirstSquawk] President Trump on Iran: The other is oil, and the oil went up. We had it very low, and I knew that would happen, but it was a choice. It's a small price to pay for taking a nuclear weapon away from Iran, which is a very evil country.
-- 10/24 16:11 [FirstSquawk] Axios: U.S. intelligence finds Iran has "substantially increased" its efforts to target American diplomats and officials in the Middle East and beyond, with lethal plots reaching "advanced stages.
-- 10/24 16:12 [FirstSquawk] China on Saturday launched a Long March-4B carrier rocket from the Jiuquan Satellite Launch Center in northwest China, sending satellites 07-09 of the Yaogan-53 group and satellites 19-21 of the Yaogan-56 group into their preset orbits.
-- 10/24 16:15 [financialjuice] China's Premier Li Qiang visits Dandong to meet North Korea's Kim Jong Un: Yonhap
-- 10/24 16:16 [FirstSquawk] CHINA'S PREMIER LI QIANG WENT TO DANDONG TO MEET NORTH KOREA'S KIM JONG UN -YONHAP
-- 10/24 16:30 [financialjuice] Industrial sites damaged in attack on Russia's Togliatti: IFX
-- 10/24 16:32 [FirstSquawk] INDUSTRIAL FACILITIES DAMAGED IN ATTACK ON RUSSIA'S TOGLIATTI - IFX
-- 10/24 16:34 [financialjuice] North Korea's Kim Jong Un likely to return home after China visit on Saturday: Yonhap
-- 10/24 16:35 [FirstSquawk] NORTH KOREA'S KIM JONG UN : LIKELY TO RETURN TO N.KOREA AFTER CHINA VISIT ON SATURDAY -YONHAP
-- 10/24 16:38 [FirstSquawk] North Korea's Kim Jong Un likely to return home after China visit on Saturday
-- 10/24 16:40 [FirstSquawk] Trump praises Elon Musk as a 'genius' while defending him against potential Democratic probes
-- 10/24 16:40 [FirstSquawk] Switzerland’s ultra-defensive big companies are becoming a haven in a tumultuous period for European equity markets.
-- 10/24 16:49 [FirstSquawk] UKRAINE: ALL RESTRICTIONS ON STARLINK HAVE BEEN LIFTED
-- 10/24 16:49 [financialjuice] Ukraine's Starlink connection renewed at 400 km/h: defence minister says
-- 10/24 17:05 [FirstSquawk] UKRAINE’S STARLINK/STARSHIELD CONNECTION RENEWED AT 400 KM/HOUR, DEFENCE MINISTER SAYS
-- 10/24 17:14 [financialjuice] Ukrainian military hit Russian petrochemical plant in Togliatti: Ukrainian drone maker
-- 10/24 17:17 [financialjuice] Saudi civil defense issues warning of potential hazard in Jeddah
-- 10/24 17:18 [financialjuice/FirstSquawk] Saudi civil defense issues warning of possible threat in Taif
-- 10/24 17:19 [FirstSquawk] member of Iran’s Basij paramilitary force has died after spending around nine months in a coma following injuries sustained during nationwide anti-government protests in January 2026, Iranian state television reported.
-- 10/24 17:19 [FirstSquawk] UKRAINIAN MILITARY STRUCK RUSSIAN PETROCHEMICAL PLANT IN TOGLIATTI, UKRAINIAN DRONE PRODUCER SAYS
-- 10/24 17:19 [FirstSquawk] Ukraine's government says it now has a 'stable connection' to Starlink
-- 10/24 17:20 [financialjuice] Ukraine's military: it hit Russia's top electro-optical equipment maker in Oryol
-- 10/24 17:20 [financialjuice] Saudi civil defense warns of potential risk in Yanbu
-- 10/24 17:22 [FirstSquawk] HSBC to open new wealth centre in Abu Dhabi despite regional conflict
-- 10/24 17:22 [FirstSquawk] UKRAINE'S MITRONIC OPTICAL EQUIPMENT PRODUCER INLITARY: IT STRUCK RUSSIA'S LEADING ELEC ORYOL
-- 10/24 17:26 [FirstSquawk] SAUDI CIVIL DEFENSE ALERTS OF POTENTIAL DANGER IN JEDDAH; SAUDI CIVIL DEFENSE ALERTS OF POTENTIAL DANGER IN TAIF; SAUDI CIVIL DEFENSE ALERTS OF POTENTIAL DANGER IN YANBU
-- 10/24 17:26 [financialjuice] Danger has subsided in Mecca: Saudi civil defense
-- 10/24 17:27 [financialjuice/FirstSquawk] Danger has passed in Yanbu: Saudi civil defense
-- 10/24 17:27 [FirstSquawk] DANGER HAS PASSED IN MECCA - SAUDI CIVIL DEFENSE
-- 10/24 17:29 [FirstSquawk/financialjuice] DANGER HAS PASSED IN TAIF - SAUDI CIVIL DEFENSE
-- 10/24 17:30 [FirstSquawk] DANGER HAS PASSED IN JEDDAH - SAUDI CIVIL DEFENSE
-- 10/24 17:45 [FirstSquawk] VANCE NEAR MAJOR HURRICANE STRENGTH -NHC
-- 10/24 17:56 [financialjuice] Saudi-led coalition: intercepts and destroys two ballistic missiles launched by Yemen's Houthis towards Taif and Yanbu
-- 10/24 17:58 [FirstSquawk] SAUDI LED COALITION: IT INTERCEPTED AND DESTROYED TWO BALLISTIC MISSILES LAUNCHED BY YEMEN'S HOUTHIS TOWARDS TAIF AND YANBU
-- 10/24 18:03 [financialjuice] S.Korea presidential Blue House: monitoring North Korean leader Kim Jong Un’s China visit - Newsis
-- 10/24 18:04 [FirstSquawk] SOUTH KOREA PRESIDENTIAL BLUE HOUSE SAYS MONITORING NORTH KOREAN LEADER KIM JONG UN'S CHINA VISIT -NEWSIS
-- 10/24 18:13 [FirstSquawk] 5.9 MAG. EARTHQUAKE 196 KM NW OF PORT-OLRY VANUATU -USGS
-- 10/24 19:00 [FirstSquawk] Hamas: The occupation's campaign in the West Bank represents an extension of the criminal aggression being perpetrated against our people.
-- 10/24 19:00 [FirstSquawk] Hamas: The occupation's criminal policies are a dangerous escalation that calls for a unified national stance and serious international action to stop the aggression and deter it.
-- 10/24 19:00 [FirstSquawk] Lebanese President: The strong, unified state is built on the exclusivity of arms in the hands of its one army
-- 10/24 19:03 [FirstSquawk] SAUDI ARABIA POSTPONES NOVEMBER UN DATA EVENT - 2027
-- 10/24 19:10 [financialjuice] German chancellor Merz: Russia poses a huge threat to our freedom, seeks to destabilise Germany
-- 10/24 19:13 [FirstSquawk] GERMAN CHANCELLOR MERZ: WE ARE FACING A MASSIVE THREAT TO OUR FREEDOM FROM RUSSIA, WHICH IS AIMING TO DESTABILISE GERMANY
-- 10/24 19:25 [FirstSquawk] Joseph Aoun: Division protects no one, and our responsibility is to learn from past experiences.
-- 10/24 19:26 [FirstSquawk] Joseph Aoun: What is required is to place Lebanon's interest above narrow calculations and to work on fortifying unity.
-- 10/24 19:26 [FirstSquawk] Joseph Aoun: The state is not confronting its sons, but rather it is their guarantor.
-- 10/24 19:26 [FirstSquawk] Joseph Aoun: Weakening the state cannot strengthen any of its components.
-- 10/24 19:26 [FirstSquawk] German Chancellor: We face a massive threat to our freedom from Russia, which seeks to undermine the stability of our country.
-- 10/24 19:34 [FirstSquawk] KIM JONG UN MET WITH CHINA'S PREMIER LI QIANG: NYT
-- 10/24 19:43 [financialjuice] German Chancellor Merz: politicians backing far-right AfD have no place in our party
-- 10/24 19:47 [FirstSquawk] GERMAN CHANCELLOR MERZ: POLITICIANS GIVING SUPPORT TO FAR-RIGHT AFD PARTY HAVE NO PLACE IN OUR PARTY
-- 10/24 19:58 [FirstSquawk] NETANYAHU HAS ORDERED ISRAEL TO SHIFT ITS POSITION ON THE FALKLAND ISLANDS IN ARGENTINA’S FAVOR, FOLLOWING BRITISH SANCTIONS ON ISRAELI SETTLEMENTS IN THE WEST BANK, WITH ISRAELI DIPLOMATS INSTRUCTED TO SUPPORT DIRECT NEGOTIATIONS BETWEEN T…
-- 10/24 19:58 [FirstSquawk] THE MOVE STOPS SHORT OF FORMALLY ENDORSING ARGENTINA’S SOVEREIGNTY CLAIM BUT SIGNALS A DETERIORATION IN RELATIONS BETWEEN ISRAEL AND BRITAIN - THE TELEGRAPH
-- 10/24 20:04 [financialjuice] China’s top political advisor Wang Huning met North Korea’s Kim Jong Un in Dandong, Chinese state media
-- 10/24 20:05 [financialjuice] Ras al Khaimah public services department: all emirate beaches to close until further notice - RAK police GHQ
-- 10/24 20:05 [FirstSquawk] CHINESE STATE MEDIA SAYS BEIJING’S TOP POLITICAL ADVISOR WANG HUNING HELD TALKS WITH NORTH KOREA’S KIM JONG UN IN THE CHINESE CITY OF DANDONG
-- 10/24 20:07 [financialjuice] China, North Korea vow to boost people-to-people ties and economic, trade collaboration with new Yalu River bridge opening - Chinese state media
-- 10/24 20:07 [financialjuice] China, North Korea to boost strategic talks and cooperation to protect sovereignty, security and development interests: Chinese state media
-- 10/24 20:08 [financialjuice] Kim Jong Un visited Korean War memorial in Dandong, honored Chinese people's volunteer army martyrs: Chinese state media
-- 10/24 20:08 [financialjuice] kim jong un tours dandong car plant during china visit: chinese state media
-- 10/24 20:08 [FirstSquawk] CHINA AND NORTH KOREA PLEDGED TO EXPAND PEOPLE-TO-PEOPLE EXCHANGES AND ECONOMIC AND TRADE COOPERATION THROUGH THE OPENING OF A NEW YALU RIVER BRIDGE, AND WILL STRENGTHEN STRATEGIC COMMUNICATION AND COOPERATION TO SAFEGUARD SOVEREIGNTY, SECU…
-- 10/24 20:21 [FirstSquawk] Lebanese News Agency: The Israeli army carried out a massive explosion in the town of Al-Tayyiba in southern Lebanon.
-- 10/24 20:28 [FirstSquawk] UKRAINE’S DEFENSE MINISTRY SAYS STARLINK AND STARSHIELD SPEEDS HAVE BEEN RESTORED AFTER TWO WEEKS OF RESTRICTIONS THAT DISRUPTED MILITARY DRONE OPERATIONS AND FUELED TENSIONS BETWEEN KYIV AND THE TRUMP ADMINISTRATION
-- 10/24 21:09 [FirstSquawk] French Interior Minister Announces Arrest of 135 People in Connection with Protests and Seizure of Various Weapons
-- 10/24 21:09 [FirstSquawk] Russian official: 3 killed in Ukrainian attack targeting a factory in Oryol
 - 10/24 21:11 [financialjuice] Trump: May relocate White House press corps to new site
 - 10/24 21:12 [FirstSquawk] TRUMP SAYS 'MAY MOVE' WHITE HOUSE PRESS CORP TO A DIFFERENT LOCATION
 - 10/24 21:17 [FirstSquawk] TRUMP SAYS THERE IS A FAKE NEWS REPORT THAT HE IS GOING TO REMOVE THE WHITE HOUSE PRESS ROOM AND BRING BACK THE OLD SWIMMING POOL, WHICH LIES DIRECTLY UNDERNEATH - TRUTH SOCIAL
@@ -231,3 +164,41 @@
 - 10/25 15:32 [FirstSquawk] An Iranian lawmaker said on Sunday that any country that allows the United States to use its territory or airspace to attack Iran would become a “legitimate military target
 - 10/25 15:33 [FirstSquawk] Iranian Mehr News Agency: The Islamic Revolutionary Guard Corps (IRGC) targeted the headquarters of the Komela terrorist group in the Balisan region of northern Iraq last night in a preemptive operation.
 - 10/25 15:34 [FirstSquawk] US Fed expected to hold rates steady days ahead of U.S. midterms
+- 10/25 16:18 [FirstSquawk] Vietnam property sales hit lowest level since 2021 as prices squeeze buyers Hanoi apartments nearly 2.5 times costlier than four years ago
+- 10/25 16:18 [FirstSquawk] Serbia's student protesters are taking their fight against former president Aleksandar Vučić from the streets to the ballot box
+- 10/25 16:18 [FirstSquawk] Iranian Foreign Minister Abbas Araghchi said on Sunday that US bases have become the main source of insecurity for their host countries, and the region should move toward having no foreign troops.
+- 10/25 16:18 [FirstSquawk] There's talk of a NEW WAR... ...but if there's any RATIONALITY, they won't try MILITARY AGGRESSION against our people AGAIN' — Araghchi 'They tried TWICE — they saw the RESULT
+- 10/25 16:19 [FirstSquawk] Saudi military says it has intercepted Houthi missile
+- 10/25 17:24 [FirstSquawk] Sri Lanka is determined to accelerate its transition to renewable energy spurred by soaring oil prices, but faces major constraints, its energy minister told AFP.
+- 10/25 17:24 [FirstSquawk] Iran’s Parliament Speaker Mohammad Bagher Ghalibaf called on Sunday for a national campaign to reduce gas consumption by at least 10% ahead of winter, warning that inefficient energy use had become a longstanding structural challenge.
+- 10/25 17:25 [FirstSquawk] Riyadh’s main airport reopened to global air traffic after a two-week shutdown, despite sustained Houthi attacks
+- 10/25 17:25 [FirstSquawk] Filipinos split on Marcos’ sea handling amid row over Chinese envoy’s remarks
+- 10/25 17:25 [FirstSquawk] Iran’s Foreign Minister Abbas Araghchi: You cannot have war and conflict in one part of the region and expect peace and calm in another. The war must end on every front. Otherwise, we will not see stability in the region.
+- 10/25 17:44 [FirstSquawk] group of drivers in Karaj, west of Tehran, went on strike on Sunday over diesel shortages, according to videos received by Iran International. The drivers said they face long queues each day without knowing whether fuel will be available.
+- 10/25 17:45 [FirstSquawk] Brazil faces a decisive vote, with left-wing incumbent Luiz Inácio Lula da Silva and right-wing senator Flávio Bolsonaro, son of former president Jair Bolsonaro, facing each other in the presidential run-off
+- 10/25 17:46 [FirstSquawk] European Commission wants to figure out how to plug Ukraine’s budget hole by year-end, according to a document seen by POLITICO.
+- 10/25 17:47 [FirstSquawk] GERMANY IS IN DEEP TROUBLE. VW plans to axe another 12,000 jobs. Add that to the 35,000+ cuts already on the table. Germany's industrial decline is accelerating while Merz is sending billions to ZELENSKY
+- 10/25 18:18 [FirstSquawk] Somalia is a key part of Turkey's plans to grow its regional military and geopolitical footprint, with the country only growing in importance since the US and Israel’s war on Iran upended global shipping
+- 10/25 18:19 [FirstSquawk] Smouldering embers have flared up again overnight at the Eagle's Nest mountain retreat in southern Germany that was once used by Nazi dictator Adolf Hitler
+- 10/25 18:19 [FirstSquawk] Israel launches West Bank operation, displacing hundreds of Palestinians ahead of election
+- 10/25 18:19 [FirstSquawk] Jordanian Prime Minister: All state institutions are working to apprehend the criminals
+- 10/25 18:20 [FirstSquawk] US Secretary of State Marco Rubio defended Donald Trump’s decision to ease sanctions on Russian diesel exports as “very wise.”
+- 10/25 18:21 [FirstSquawk] Bulgarians are voting in a presidential election on Sunday, as security concerns swirl following a series of drone attacks on ships in the Black Sea.
+- 10/25 19:23 [DeItaone] APOLLO: AI HAS DELIVERED “ZERO PAYOFF” OUTSIDE BIG TECH Apollo Chief Economist Torsten Slok warns that massive AI spending has yet to deliver measurable productivity gains across corporate America. Revenue per worker and profit margins are …
+- 10/25 19:37 [FirstSquawk] Iranian Parliament Speaker: We will not be intimidated and are prepared to respond with an unexpected retaliation to any aggression against the unity of our lands
+- 10/25 19:38 [FirstSquawk] Ethiopian Defense Minister: Our army is capable of confronting any provocations and has thwarted terrorist plots orchestrated by internal and external forces
+- 10/25 19:38 [FirstSquawk] Qatari Foreign Ministry: Prime Minister and Foreign Minister discusses by phone with Turkey's Foreign Minister reducing escalation and enhancing regional security
+- 10/25 19:38 [FirstSquawk] Qatari Foreign Ministry: The Prime Minister and Foreign Minister affirmed Qatar's support for efforts and endeavors to reach a solution that ensures freedom of maritime navigation
+- 10/25 19:38 [FirstSquawk] Qatari Foreign Ministry: The Prime Minister and Foreign Minister affirmed support for efforts and endeavors to reach an agreement that achieves lasting peace in the region
+- 10/25 19:38 [FirstSquawk] Settlers attack Palestinian farmers while picking olives in the village of Imatin, southwest of Nablus in the West Bank
+- 10/25 19:39 [FirstSquawk] Saudi Civil Defense: Early Alert Issued to Warn of Danger in Taif Governorate
+- 10/25 19:39 [FirstSquawk] Saudi Civil Defense: Danger Lifted from Taif Governorate
+- 10/25 19:39 [FirstSquawk] Saudi Civil Defense: Alert warning of danger in Jazan area
+- 10/25 19:39 [FirstSquawk] Saudi Civil Defense: The danger has been lifted from the Jazan area
+- 10/25 19:39 [FirstSquawk] Jordanian Prime Minister: There is absolutely no place for terrorism and extremist thought in this country and this society.
+- 10/25 19:39 [FirstSquawk] Jordanian Prime Minister: All state agencies are working to apprehend the perpetrators of the Karak Church attack and they will receive their punishment
+- 10/25 20:22 [FirstSquawk] 5.9 magnitude earthquake strikes the New Guinea region in Papua New Guinea
+- 10/25 20:22 [FirstSquawk] Russian Television: Deputy Prime Minister confirms Russia's readiness to supply the United States with any quantities of diesel
+- 10/25 20:22 [FirstSquawk] Lebanese News Agency: The Israeli army carries out a large explosion in the town of Yahmour al-Shaqif in the Nabatieh District, southern Lebanon.
+- 10/25 20:23 [FirstSquawk] Three Palestinians killed in an Israeli airstrike that targeted, for the second time, the grounds of the Islamic University in Gaza City.
+- 10/25 20:37 [financialjuice] Iran's air defence shoots down Lucas drone near southern Bandar Abbas: Tasnim
