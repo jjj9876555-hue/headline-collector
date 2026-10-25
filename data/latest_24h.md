@@ -7,48 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-26 01:14 JST／対象: 10/25 01:14 〜 10/26 01:14 JST（時刻はすべて日本時間）
+生成: 2026-10-26 04:04 JST／対象: 10/25 04:04 〜 10/26 04:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 7 | 10/25 03:55 | 10/25 22:35 | ⚠ 835分（05:28→19:23） |
-| FirstSquawk | 145 | 10/25 01:26 | 10/26 01:07 | ⚠ 356分（03:12→09:08） |
-| financialjuice | 26 | 10/25 04:01 | 10/26 00:58 | ⚠ 492分（12:25→20:37） |
+| DeItaone | 6 | 10/25 05:20 | 10/25 22:35 | ⚠ 835分（05:28→19:23） |
+| FirstSquawk | 147 | 10/25 09:08 | 10/26 04:03 | ⚠ 86分（11:37→13:04） |
+| financialjuice | 31 | 10/25 04:27 | 10/26 04:02 | ⚠ 492分（12:25→20:37） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 171 行（統合前 179 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 175 行（統合前 185 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/25 01:26 [FirstSquawk] French Police: Use of Tear Gas and Water Cannons in Paris After Clashes Erupt
-- 10/25 01:26 [FirstSquawk] French Interior Ministry: 410 thousand protesters participated in social protests across various parts of France today.
-- 10/25 01:27 [FirstSquawk] Houthi Spokesman Houthi: We targeted King Fahd International Airport in Dammam, Najran Airport, and Khamis Mushait Airbase
-- 10/25 01:27 [FirstSquawk] Israeli Broadcasting Authority citing security sources: The operation in Hebron will continue and will not end before the elections
-- 10/25 01:51 [FirstSquawk] Clashes between French police and protesters in the capital Paris
-- 10/25 01:54 [FirstSquawk] United States condemns the attack that targeted a church in Karak Governorate in Jordan
-- 10/25 01:54 [FirstSquawk] U.S. State Department: We stand with Jordan in confronting those seeking to sow division
-- 10/25 02:41 [FirstSquawk] Saudi Civil Defense: Shrapnel from the interception of two ballistic missiles launched by the Houthi militia towards the regions of Mecca and Medina has fallen.
-- 10/25 02:41 [FirstSquawk] Saudi Civil Defense: Interception of the two ballistic missiles led to parts of them falling in Wadi al-Maghmas in the Holy Capital
-- 10/25 02:42 [FirstSquawk] Saudi Civil Defense: Shrapnel from intercepted missiles launched by the Houthi militia has fallen in areas of Jeddah, Taif, and Rabigh
-- 10/25 02:57 [FirstSquawk] Bezshkyan says that many Iranians "are struggling to secure food" amid escalating economic pressures.
-- 10/25 02:57 [FirstSquawk] Iranian President Calls for Ending the "State of Neither War Nor Peace"
-- 10/25 02:58 [FirstSquawk] French Interior Minister: Nearly 1,000 people arrested during protests in France amid expectations of a rising toll
-- 10/25 02:58 [FirstSquawk] French police disperse protesters in Paris using water cannons
-- 10/25 02:58 [FirstSquawk] French Interior Ministry: Several disturbances in Marseille, Lyon, Paris, and other cities at the close of today's demonstrations
-- 10/25 02:58 [FirstSquawk] French Interior Minister: The police faced an extremely high level of violence
-- 10/25 02:58 [FirstSquawk] French Interior Minister: 410,000 demonstrators participated in 289 actions across the country.
-- 10/25 02:59 [FirstSquawk] Netanyahu in an election statement: Iran has resumed its nuclear program and is seeking to eliminate us in the near future.
-- 10/25 03:12 [FirstSquawk] Yemeni Armed Forces: We carried out 736 precise and direct targeting operations over the past 24 hours
-- 10/25 03:12 [FirstSquawk] Yemeni Armed Forces: We targeted a command and control center and heavy weapons depots belonging to the Houthis in Taiz
-- 10/25 03:55 [DeItaone] MUSK SAYS UKRAINE VIOLATED STARLINK TERMS Elon Musk claims Ukraine used Starlink for offensive drone strikes, violating its terms of service. SpaceX reportedly closed the loophole last week. Musk says Starshield remains under U.S. governmen…
-- 10/25 04:01 [financialjuice] Yemen's Houthis refute claims of attacking Mecca and Medina after Saudi Arabia says it intercepted missiles
-- 10/25 04:02 [financialjuice] Yemen's Houthis say they struck Riyadh airport in Saudi Arabia
-- 10/25 04:02 [financialjuice] Yemen's Houthis say they struck Saudi Aramco site in Yanbu
-- 10/25 04:02 [financialjuice] Yemen's Houthis: attacked Saudi Arabia's King Fahd International Airport in Dammam, Najran airport and Khamis Mushait airbase
 - 10/25 04:27 [financialjuice] Explosive-laden drone targets Iranian Kurdish opposition camp northeast of Iraq's Erbil: security sources
 - 10/25 04:33 [financialjuice] Saudi Arabia's Riyadh airport to allocate terminal 1 for domestic flights, terminal 2 for international flights from October 25: statement
 - 10/25 05:20 [DeItaone] TRUMP ON STARLINK IN UKRAINE: I HAVE SPOKEN TO ELON MUSK
@@ -190,8 +165,37 @@
 - 10/26 00:30 [FirstSquawk] Iranian Foreign Ministry: Tehran has not left the negotiating table, and messages are being conveyed through intermediaries.
 - 10/26 00:30 [FirstSquawk] Kremlin: Europe must be involved in Ukraine talks
 - 10/26 00:31 [FirstSquawk] Iraqi Prime Minister: The demands of the protesters will be looked into and efforts will be made to achieve them.
-- 10/26 00:58 [financialjuice] Netanyahu at an Arrow missile defense battery: Have intelligence indications Iran and its proxies may try to challenge us with an attack aimed at disrupting the elections.
+- 10/26 00:58 [financialjuice/FirstSquawk] Netanyahu at an Arrow missile defense battery: Have intelligence indications Iran and its proxies may try to challenge us with an attack aimed at disrupting the elections.
 - 10/26 01:05 [FirstSquawk] Netanyahu: We have intelligence indicators that Iran and its agents may attempt to launch attacks to disrupt the elections
 - 10/26 01:05 [FirstSquawk] Russian Ministry of Defense: Ship heading to Odesa port was targeted as it was transporting supplies for Ukrainian forces
 - 10/26 01:06 [FirstSquawk] Palestinian media: Casualties reported in Israeli airstrike targeting Sheikh Nasser neighborhood east of Khan Younis city in southern Gaza Strip
 - 10/26 01:07 [FirstSquawk] Trump: We will not strike Iran today
+- 10/26 01:31 [FirstSquawk] Senior Iranian official: Qatari delegation arrived in Tehran today and is conducting negotiations within the framework of mediation to ensure the security and stability of the region
+- 10/26 01:32 [FirstSquawk] Senior Iranian official: The Qatari delegation's visit falls within the ongoing communication between the two countries amid escalating tensions in the region.
+- 10/26 01:32 [FirstSquawk] Senior Iranian official: Mediation efforts are positive but always run up against the US administration's evasion of its commitments
+- 10/26 01:32 [FirstSquawk] Trump: There will be talks regarding the war in Ukraine very soon, and the countries are eager to reach an agreement.
+- 10/26 01:34 [FirstSquawk] Senior Iranian official to Al Jazeera: The obstacle to reaching a diplomatic solution is not in the mediation but in Washington's rejection of our legitimate demands.
+- 10/26 01:35 [financialjuice] ‼ BREAKING: Trump: We will not attack Iran today.
+- 10/26 02:43 [FirstSquawk] EUR/USD RALLIES 1.4% FROM OCTOBER LOWS AMID RESISTANCE AT 1.1156
+- 10/26 02:43 [FirstSquawk] TRUMP: WE WILL NOT ATTACK IRAN TODAY.
+- 10/26 02:47 [FirstSquawk] TRUMP SAYS FOX NEWS IS SPENDING FAR TOO MUCH TIME PUTTING ON THE OPPONENTS OF REPUBLICAN PARTY CANDIDATES, PEOPLE WHO LOVE THE COUNTRY AND HAVE GREAT POLICIES AND IDEAS - TRUTH SOCIAL
+- 10/26 02:47 [FirstSquawk] TRUMP SAYS THESE “AMERICAN PATRIOTS” ARE BEING ABSOLUTELY “BLURRED OUT” BY THE MEDIA AND THAT FOX IS DOING LITTLE TO HELP, CALLING IT THE ONLY REASON THE RACE IS CLOSE, “IF IT IS INDEED CLOSE” - TRUTH SOCIAL
+- 10/26 02:49 [FirstSquawk] TRUMP SAYS HE IS HEADING TO MICHIGAN TO FIGHT WHAT HE CALLS A “JIHADIST MEMBER OF THE MUSLIM BROTHERHOOD,” ABDULRAHMAN MOHAMED EL-SAYED, SAYING HE SHOULD NEVER BE ALLOWED INSIDE THE CAPITOL BUILDING AND THAT EVERYTHING HE STANDS FOR IS BAD …
+- 10/26 02:49 [FirstSquawk] TRUMP SAYS THAT BECAUSE OF HIM THE AUTO INDUSTRY IS DOING BETTER THAN EVER, ESPECIALLY IN MICHIGAN, AND THAT HE SAVED SELFRIDGE AIR FORCE BASE WHEN DEMOCRATS WERE CLOSING IT DOWN, SAVING THOUSANDS OF JOBS - TRUTH SOCIAL
+- 10/26 02:49 [FirstSquawk] TRUMP SAYS EL-SAYED “WANTS OUR COUNTRY TO GO TO SHARIA LAW” AND THAT “IF IT EVER DOES, HE SHOULD BE THE FIRST THAT’S TRIED” - TRUTH SOCIAL
+- 10/26 02:53 [FirstSquawk] OBAMA TARGETS HEGSETH'S TROOP IMAGE AND IRAN STRATEGY IN DETROIT RALLY
+- 10/26 02:53 [FirstSquawk] UK AND CANADA REITERATED THEIR COMMITMENT TO STRENGTHEN DEFENCE FINANCING AND AGREED TO DEVELOP A FRAMEWORK OF COOPERATION, SAYING THEY WILL SUPPORT EACH OTHER ON INVESTMENTS AND FINANCING
+- 10/26 02:57 [FirstSquawk] GLOBAL OIL PRICES COULD SURGE PAST $150 IF CONFLICTS RESTART
+- 10/26 03:10 [FirstSquawk] U.S. SECRETARY OF STATE RUBIO SAYS THE CONDITIONS FOR THE RETURN OF MACHADO WERE THE RESULT OF U.S. TALKS, AND THAT THE U.S. EXPECTS ALL ACTORS TO BACK RECONCILIATION TALKS, WHICH HE SAYS OFFER THE BEST CHANCE FOR VENEZUELA DEMOCRACY
+- 10/26 03:11 [FirstSquawk/financialjuice] TURNOUT IN SERBIA'S PARLIAMENTARY ELECTION HITS 64.9% BY 6 P.M., STATE ELECTION COMMISSION SAYS, HIGHEST SINCE BREAKUP OF YUGOSLAVIA IN 1992
+- 10/26 03:13 [FirstSquawk] BRENT CRUDE HITS $116.72, HIGHEST SINCE APRIL, AMID RISING MIDDLE EAST TENSIONS
+- 10/26 03:22 [FirstSquawk] BON SECOURS IS NEARING A $6 BLN TAKEOVER OF SURGERY PARTNERS IN A DEAL THAT VALUES THE GROUP AT ABOUT $20/SHARE, WITH THE DEAL POSSIBLY ANNOUNCED AS SOON AS MONDAY - FT
+- 10/26 03:45 [financialjuice] Algerian parliament approves resolution to deploy troops to Niger: statement
+- 10/26 03:50 [financialjuice] Zelenskiy: Starshield service restored with speeds up to 420 kph
+- 10/26 03:50 [financialjuice] Zelenskiy: US intelligence sharing on Russian ballistic missile strike warnings fully resumes
+- 10/26 03:51 [financialjuice] Zelenskiy: US, Ukraine, Russia trilateral meeting planned for November
+- 10/26 04:00 [financialjuice] Poll: RBNZ cash rate to finish year at 3.00%, 13 of 23 economists say, but 9 expect increase to 3.25% in December
+- 10/26 04:00 [financialjuice] Poll: Reserve Bank of New Zealand to raise cash rate by 25 basis points to 3.00% on October 28, 22 of 27 economists predict
+- 10/26 04:02 [financialjuice] Zelenskiy: progress on unlocking Patriot missile supplies to Ukraine very slow
+- 10/26 04:03 [FirstSquawk] ZELENSKIY SAYS A U.S., UKRAINE AND RUSSIA TRILATERAL MEETING IS PLANNED FOR NOVEMBER, AND THAT U.S. INTELLIGENCE SHARING ON RUSSIAN BALLISTIC MISSILE STRIKE WARNINGS HAS FULLY RESUMED
+- 10/26 04:03 [FirstSquawk] ZELENSKIY SAYS STARSHIELD SERVICE HAS BEEN RESTORED WITH SPEEDS UP TO 420 KPH, BUT THAT PROGRESS ON UNLOCKING PATRIOT MISSILE SUPPLIES TO UKRAINE IS VERY SLOW
