@@ -7,43 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-26 04:04 JST／対象: 10/25 16:04 〜 10/26 04:04 JST（時刻はすべて日本時間）
+生成: 2026-10-26 06:41 JST／対象: 10/25 18:41 〜 10/26 06:41 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 2 | 10/25 19:23 | 10/25 22:35 | ⚠ 191分（19:23→22:35） |
-| FirstSquawk | 95 | 10/25 16:18 | 10/26 04:03 | ⚠ 76分（18:21→19:37） |
-| financialjuice | 20 | 10/25 20:37 | 10/26 04:02 | ⚠ 153分（22:24→00:58） |
+| DeItaone | 4 | 10/25 19:23 | 10/26 06:16 | ⚠ 371分（22:35→04:47） |
+| FirstSquawk | 109 | 10/25 19:37 | 10/26 06:28 | ⚠ 67分（01:34→02:41） |
+| financialjuice | 27 | 10/25 20:37 | 10/26 06:11 | ⚠ 153分（22:24→00:58） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 108 行（統合前 118 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 128 行（統合前 141 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/25 16:18 [FirstSquawk] Vietnam property sales hit lowest level since 2021 as prices squeeze buyers Hanoi apartments nearly 2.5 times costlier than four years ago
-- 10/25 16:18 [FirstSquawk] Serbia's student protesters are taking their fight against former president Aleksandar Vučić from the streets to the ballot box
-- 10/25 16:18 [FirstSquawk] Iranian Foreign Minister Abbas Araghchi said on Sunday that US bases have become the main source of insecurity for their host countries, and the region should move toward having no foreign troops.
-- 10/25 16:18 [FirstSquawk] There's talk of a NEW WAR... ...but if there's any RATIONALITY, they won't try MILITARY AGGRESSION against our people AGAIN' — Araghchi 'They tried TWICE — they saw the RESULT
-- 10/25 16:19 [FirstSquawk] Saudi military says it has intercepted Houthi missile
-- 10/25 17:24 [FirstSquawk] Sri Lanka is determined to accelerate its transition to renewable energy spurred by soaring oil prices, but faces major constraints, its energy minister told AFP.
-- 10/25 17:24 [FirstSquawk] Iran’s Parliament Speaker Mohammad Bagher Ghalibaf called on Sunday for a national campaign to reduce gas consumption by at least 10% ahead of winter, warning that inefficient energy use had become a longstanding structural challenge.
-- 10/25 17:25 [FirstSquawk] Riyadh’s main airport reopened to global air traffic after a two-week shutdown, despite sustained Houthi attacks
-- 10/25 17:25 [FirstSquawk] Filipinos split on Marcos’ sea handling amid row over Chinese envoy’s remarks
-- 10/25 17:25 [FirstSquawk] Iran’s Foreign Minister Abbas Araghchi: You cannot have war and conflict in one part of the region and expect peace and calm in another. The war must end on every front. Otherwise, we will not see stability in the region.
-- 10/25 17:44 [FirstSquawk] group of drivers in Karaj, west of Tehran, went on strike on Sunday over diesel shortages, according to videos received by Iran International. The drivers said they face long queues each day without knowing whether fuel will be available.
-- 10/25 17:45 [FirstSquawk] Brazil faces a decisive vote, with left-wing incumbent Luiz Inácio Lula da Silva and right-wing senator Flávio Bolsonaro, son of former president Jair Bolsonaro, facing each other in the presidential run-off
-- 10/25 17:46 [FirstSquawk] European Commission wants to figure out how to plug Ukraine’s budget hole by year-end, according to a document seen by POLITICO.
-- 10/25 17:47 [FirstSquawk] GERMANY IS IN DEEP TROUBLE. VW plans to axe another 12,000 jobs. Add that to the 35,000+ cuts already on the table. Germany's industrial decline is accelerating while Merz is sending billions to ZELENSKY
-- 10/25 18:18 [FirstSquawk] Somalia is a key part of Turkey's plans to grow its regional military and geopolitical footprint, with the country only growing in importance since the US and Israel’s war on Iran upended global shipping
-- 10/25 18:19 [FirstSquawk] Smouldering embers have flared up again overnight at the Eagle's Nest mountain retreat in southern Germany that was once used by Nazi dictator Adolf Hitler
-- 10/25 18:19 [FirstSquawk] Israel launches West Bank operation, displacing hundreds of Palestinians ahead of election
-- 10/25 18:19 [FirstSquawk] Jordanian Prime Minister: All state institutions are working to apprehend the criminals
-- 10/25 18:20 [FirstSquawk] US Secretary of State Marco Rubio defended Donald Trump’s decision to ease sanctions on Russian diesel exports as “very wise.”
-- 10/25 18:21 [FirstSquawk] Bulgarians are voting in a presidential election on Sunday, as security concerns swirl following a series of drone attacks on ships in the Black Sea.
 - 10/25 19:23 [DeItaone] APOLLO: AI HAS DELIVERED “ZERO PAYOFF” OUTSIDE BIG TECH Apollo Chief Economist Torsten Slok warns that massive AI spending has yet to deliver measurable productivity gains across corporate America. Revenue per worker and profit margins are …
 - 10/25 19:37 [FirstSquawk] Iranian Parliament Speaker: We will not be intimidated and are prepared to respond with an unexpected retaliation to any aggression against the unity of our lands
 - 10/25 19:38 [FirstSquawk] Ethiopian Defense Minister: Our army is capable of confronting any provocations and has thwarted terrorist plots orchestrated by internal and external forces
@@ -132,3 +112,43 @@
 - 10/26 04:02 [financialjuice] Zelenskiy: progress on unlocking Patriot missile supplies to Ukraine very slow
 - 10/26 04:03 [FirstSquawk] ZELENSKIY SAYS A U.S., UKRAINE AND RUSSIA TRILATERAL MEETING IS PLANNED FOR NOVEMBER, AND THAT U.S. INTELLIGENCE SHARING ON RUSSIAN BALLISTIC MISSILE STRIKE WARNINGS HAS FULLY RESUMED
 - 10/26 04:03 [FirstSquawk] ZELENSKIY SAYS STARSHIELD SERVICE HAS BEEN RESTORED WITH SPEEDS UP TO 420 KPH, BUT THAT PROGRESS ON UNLOCKING PATRIOT MISSILE SUPPLIES TO UKRAINE IS VERY SLOW
+- 10/26 04:05 [FirstSquawk] AWS CLOUD CAPACITY FULLY BOOKED THROUGH 2027 AS AI DEMAND SURGES, CEO SAYS
+- 10/26 04:07 [financialjuice] Zelenskiy on talks: territory issue only for heads of state, technical talks cover other matters
+- 10/26 04:32 [FirstSquawk] MUSK SAYS THE 200-PLUS NEOCLOUDS WILL SEE CONSOLIDATION AMID TOUGH DEBT MARKETS, AND THAT SOME WILL MAKE IT THROUGH, BUT NOT MANY
+- 10/26 04:34 [FirstSquawk] TRUMP SAYS THE U.S. IS GETTING CLOSE TO A DEAL WITH CANADA THAT COULD COME BEFORE THE ELECTIONS, AND THAT ON BUILDING CAR PLANTS HE IS ANNOUNCING ONE TODAY
+- 10/26 04:34 [FirstSquawk] TRUMP SAYS HE IS NOT CONCERNED IRAN WOULD REBUILD URANIUM IN MONTHS
+- 10/26 04:38 [FirstSquawk] THE BLACK SEA HAS BECOME THE WORLD’S DEADLIEST SHIPPING ROUTE FOR MERCHANT SAILORS, WITH MORE THAN 570 VESSELS STRUCK AND AT LEAST 40 SEAFARERS KILLED THIS YEAR, EXCEEDING THE 24 SAILORS KILLED IN THE STRAIT OF HORMUZ OVER THE SAME PERIOD -…
+- 10/26 04:38 [FirstSquawk] ATTACKS SURGED IN THE THIRD QUARTER, WITH ABOUT 387 SHIPS HIT BETWEEN JULY AND SEPTEMBER, MORE THAN FOUR A DAY, AFTER UKRAINE LAUNCHED A CAMPAIGN AGAINST RUSSIAN-LINKED VESSELS AND RUSSIA STEPPED UP STRIKES ON SHIPS CALLING AT UKRAINIAN POR…
+- 10/26 04:38 [FirstSquawk] THE STRIKES HAVE SPREAD INTO THE WATERS OF NATO MEMBERS ROMANIA AND BULGARIA, WHERE THE COMOROS-FLAGGED KHORYV CAPSIZED AFTER A DRONE STRIKE OFF CONSTANTA ON FRIDAY, KILLING ONE SAILOR AND LEAVING THREE MISSING, WHILE GREATER ODESA PORTS HA…
+- 10/26 04:38 [FirstSquawk] ZELENSKIY SAYS UKRAINE WILL DEMAND THAT RUSSIA HALT STRIKES ON ENERGY INFRASTRUCTURE AND SHIPPING IN ANY NEGOTIATIONS, BUT WILL NOT AGREE TO LIMITS ON ITS ARMY, NEUTRALITY OR CEDING TERRITORY
+- 10/26 04:40 [FirstSquawk] U.S. SECRETARY OF STATE RUBIO SAYS THE CONDITIONS ALLOWING FOR THE SAFE RETURN OF MS. MACHADO TO VENEZUELA ARE THE DIRECT RESULT OF THE U.S.-SUPPORTED RECONCILIATION TALKS, WHICH HAVE ALREADY SEEN HUNDREDS OF POLITICAL PRISONERS FREED AND H…
+- 10/26 04:40 [FirstSquawk] U.S. SECRETARY OF STATE RUBIO SAYS THE U.S. EXPECTS THE FREEDOMS OF ALL SECTORS OF VENEZUELAN POLITICS TO CONTINUE TO BE RESPECTED, AND EXPECTS ALL POLITICAL ACTORS TO SUPPORT THESE TALKS, WHICH HE SAYS REPRESENT THE BEST CHANCE VENEZUELA H…
+- 10/26 04:42 [FirstSquawk] NETANYAHU SAYS HE SEES THINGS IN ISRAEL THAT HE DOES NOT SEE IN EUROPE, WHICH HE SAYS IS INCREASINGLY FALLING BEHIND, ADDING THAT HE SEES MODERN INFRASTRUCTURE AND CRANES EVERYWHERE IN ISRAEL
+- 10/26 04:42 [FirstSquawk] NETANYAHU SAYS THAT BECAUSE OF THE RISE OF THE LEFT IN EUROPE, MANY ENTREPRENEURS, BUSINESSPEOPLE AND COMPANIES ARE LEAVING FOR MORE BUSINESS-FRIENDLY COUNTRIES, AND THAT EUROPE IS LOSING A VALUABLE WORKFORCE AS PEOPLE FLEE CLOSED ECONOMIES…
+- 10/26 04:42 [FirstSquawk] NETANYAHU SAYS ELECTRICITY PRICES AROUND THE WORLD HAVE SKYROCKETED, IN SOME COUNTRIES BY HUNDREDS OF PERCENT, BUT THAT THIS HAS NOT HAPPENED IN ISRAEL BECAUSE “WE UNDERSTAND ECONOMICS HERE”
+- 10/26 04:47 [DeItaone] ELON MUSK: SPACEX CLOSED $40B OF DEBT FOR GPUS
+- 10/26 04:47 [FirstSquawk] ZELENSKIY SAYS UKRAINE NEEDS EUR 115 BLN FOR 2027, OF WHICH EUR 45 BLN HAS ALREADY BEEN ALLOCATED BUT HAS YET TO BE RECEIVED, WITH ANOTHER EUR 70 BLN STILL NEEDING TO BE FOUND TO COVER DEFENSE AND BUDGET FINANCING
+- 10/26 04:47 [FirstSquawk] ZELENSKIY SAYS THERE IS NO NEED TO BUY RUSSIA’S LOYALTY BY LIFTING SANCTIONS, WHICH WERE IMPOSED BECAUSE OF AGGRESSION, NOT BECAUSE OF A WILLINGNESS TO NEGOTIATE, AND CAN ONLY BE LIFTED AS PART OF ENDING THE WAR
+- 10/26 04:49 [financialjuice/FirstSquawk] Saudi Hercules military transport plane landed at Mehrabad Airport in Tehran minutes ago - Iran's Sepah News
+- 10/26 04:53 [FirstSquawk] BITCOIN DROPS TO $80,400 AMID BEARISH MOMENTUM, RIPPLE BREACHES $1.30 SUPPORT
+- 10/26 04:55 [FirstSquawk] TRUMP SAYS ANY JEWISH PERSON WHO SUPPORTS ABDUL EL-SAYED SHOULD BE ASHAMED OF THEMSELVES, AND CLAIMS HE IS POLLING AT 99% IN ISRAEL
+- 10/26 04:55 [FirstSquawk] TRUMP SAYS EL-SAYED WOULD BE THE ONLY SENATOR WHO WOULD HAVE TO GO THROUGH A METAL DETECTOR BEFORE BEING ALLOWED INTO THE SENATE, AND THAT EL-SAYED CAMPAIGNS WITH “COMMUNIST AGITATOR” HASAN PIKER, WHO HE SAYS SAYS AMERICA DESERVED 9/11, AND…
+- 10/26 04:56 [FirstSquawk] TRUMP SAYS EL-SAYED “WANTS SHARIA LAW” AND THAT IF HE EVER PULLS THAT OFF HE SHOULD BE THE FIRST ONE TRIED, ADDING “I’LL BE A WITNESS,” AND CALLS EL-SAYED “A NASTY GUY” WHO IS “WORSE THAN I AM”
+- 10/26 04:56 [FirstSquawk] TRUMP SAYS TODD BEAMER GAVE HIS LIFE FOR AMERICA AND THAT VOTERS “HAVE TO GIVE YOUR VOTE FOR TODD BEAMER,” ADDING THAT 9/11 WAS WORSE THAN PEARL HARBOR BECAUSE PEARL HARBOR WAS AN ATTACK ON THE MILITARY WHILE 9/11 WAS AN ATTACK ON THE CIVIL…
+- 10/26 04:57 [FirstSquawk] BRENT CRUDE CLIMBS 1.8% AMID CONCERNS OVER US-IRAN PEACE TALKS AND HORMUZ SHIPPING DISRUPTIONS
+- 10/26 05:00 [financialjuice] ICYMI: Netanyahu could order strike on Iran even if he loses election - NY Times
+- 10/26 05:19 [FirstSquawk] TRUMP SAYS AMERICANS DID NOT SPEND ALL THESE YEARS FIGHTING COMMUNISTS AND TERRORISTS JUST TO WATCH IT ALL BURN DOWN, AND THAT “WE’RE NOT GOING TO SURRENDER AMERICA TO COMMUNIST JIHADISTS”
+- 10/26 05:19 [FirstSquawk] TRUMP SAYS THAT IF ABDUL EL-SAYED AND THE DEMOCRATS WIN, THEY WILL OPEN THE FLOODGATES AND INVITE “HORDES OF JIHADISTS” TO AMERICA’S SHORES, CREATING A “NIGHTMARE OF VIOLENCE AND TERROR” UNTIL “YOU CANNOT EVEN HAVE A CHRISTMAS”
+- 10/26 05:19 [FirstSquawk] TRUMP, ON SOMALIA, CALLS IT MAYBE THE WORST COUNTRY IN THE WORLD, SAYING IT HAS NO GOVERNMENT AND THAT “ALL THEY HAVE IS KILLING PEOPLE” AND GOING AFTER SHIPS
+- 10/26 05:19 [FirstSquawk] TRUMP SAYS SOMALIA HAS NO COUNTRY, NO GOVERNMENT, NO POLICE AND “NO ANYTHING,” AND THAT ITS PEOPLE “JUST RUN AROUND SHOOTING EACH OTHER”
+- 10/26 05:20 [FirstSquawk] TRUMP, ON FRANCE, SAYS PROTESTERS THERE WERE “A LOT OF LARGE MEN WITH VERY BIG MUSCLES” AND NOT STUDENTS, AND CLAIMS “WE OWN GREENLAND”
+- 10/26 05:20 [FirstSquawk] TRUMP SAYS ANYBODY WHO WOULD LIKE TO COME INTO THE U.S. FROM DENMARK, HE IS ALL FOR IT, BUT THAT FROM SOMALIA “I’VE HAD IT WITH THEM,” ADDING HE MUCH PREFERS DENMARK
+- 10/26 05:20 [FirstSquawk] TRUMP SAYS HE DOES NOT WANT ANYBODY FROM NORWAY AND DOES NOT WANT ANYTHING TO DO WITH NORWAY, ADDING THAT HE DID NOT GET THE NOBEL PRIZE EVEN THOUGH HE ENDED WARS
+- 10/26 05:35 [financialjuice] Serbia's Vucic admits loss to student-led movement in parliamentary vote
+- 10/26 05:48 [financialjuice] US appeals court skeptical of Trump administration lawsuit against California over non-citizens on voter rolls: court hearing
+- 10/26 06:00 [FirstSquawk] SERBIA’S ALEKSANDAR VUCIC CONCEDED DEFEAT IN SERBIA’S SNAP PARLIAMENTARY ELECTION, SAYING THE STUDENT-BACKED STUDENT LIST HAD WON
+- 10/26 06:00 [FirstSquawk] SERBIA’S ALEKSANDAR VUCIC SAID “BASED ON A STRATIFIED SAMPLE, IT IS CLEAR THAT WE HAVE LOST THIS ELECTION. THE STUDENT BLOCKADE LIST WON,” A RESULT THAT ENDS MORE THAN A DECADE OF DOMINANCE BY VUCIC’S SERBIAN PROGRESSIVE PARTY
+- 10/26 06:11 [financialjuice/FirstSquawk] North Korea says it sent letter to UN Security Council accusing South Korea of fabricating mine explosion incident to delay and obstruct North Korea's border fortification - KCNA
+- 10/26 06:11 [financialjuice/FirstSquawk] North Korea: South Korea provocations like firing on North Korean personnel breach UN charter - KCNA
+- 10/26 06:16 [DeItaone] $SPCX - SPACEX SECURES $40 BILLION IN DEBT TO BUY AI CHIPS Elon Musk confirms SpaceX has closed $40 billion in debt financing to purchase GPUs, with deliveries expected in Q1 and Q2 2027. The company reported: Q3 revenue: $14.58B, up 161% y…
+- 10/26 06:28 [FirstSquawk] BRITISH FINANCE MINISTER JOHN HEALEY EXPECTED TO ANNOUNCE 3.9% INCREASE TO FULL STATE PENSION - THE TIMES
