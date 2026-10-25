@@ -7,46 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-25 08:43 JST／対象: 10/24 20:43 〜 10/25 08:43 JST（時刻はすべて日本時間）
+生成: 2026-10-25 10:40 JST／対象: 10/24 22:40 〜 10/25 10:40 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 10/25 03:55 | 10/25 05:28 | ⚠ 85分（03:55→05:20） |
-| FirstSquawk | 64 | 10/24 21:09 | 10/25 03:12 | ⚠ 54分（23:38→00:32） |
-| financialjuice | 18 | 10/24 21:11 | 10/25 07:01 | ⚠ 306分（22:55→04:01） |
+| FirstSquawk | 76 | 10/24 22:44 | 10/25 10:39 | ⚠ 356分（03:12→09:08） |
+| financialjuice | 15 | 10/24 22:44 | 10/25 07:01 | ⚠ 306分（22:55→04:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 87 行（統合前 88 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 96 行（統合前 97 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/24 21:09 [FirstSquawk] French Interior Minister Announces Arrest of 135 People in Connection with Protests and Seizure of Various Weapons
-- 10/24 21:09 [FirstSquawk] Russian official: 3 killed in Ukrainian attack targeting a factory in Oryol
-- 10/24 21:11 [financialjuice] Trump: May relocate White House press corps to new site
-- 10/24 21:12 [FirstSquawk] TRUMP SAYS 'MAY MOVE' WHITE HOUSE PRESS CORP TO A DIFFERENT LOCATION
-- 10/24 21:17 [FirstSquawk] TRUMP SAYS THERE IS A FAKE NEWS REPORT THAT HE IS GOING TO REMOVE THE WHITE HOUSE PRESS ROOM AND BRING BACK THE OLD SWIMMING POOL, WHICH LIES DIRECTLY UNDERNEATH - TRUTH SOCIAL
-- 10/24 21:17 [FirstSquawk] TRUMP SAYS THAT ALTHOUGH HE MAY MOVE THE FAKE NEWS TO A LESS OBNOXIOUS LOCATION, THE OLD SWIMMING POOL WILL NEVER BE BROUGHT BACK, ADDING HE NEVER EVEN THOUGHT TO DO SUCH A STUPID THING - TRUTH SOCIAL
-- 10/24 21:38 [FirstSquawk] TURKISH ARMED FORCES AIM TO PRODUCE 5 MLN KAMIKAZE DRONES WITHIN FIVE YEARS AND 10 MLN WITHIN A DECADE, CHIEF OF GENERAL STAFF GEN. SELCUK BAYRAKTAROGLU SAYS
-- 10/24 21:38 [FirstSquawk] SPOKESMAN FOR IRAN’S REVOLUTIONARY GUARDS SAYS IRAN WILL BECOME THE WORLD’S ABSOLUTE SUPERPOWER IN THE “FINAL WAR,” WITH BRIG. GEN. MOHEBBI SAYING “GOD WILLING, IN THE FINAL WAR WE WILL BECOME THE ABSOLUTE SUPERPOWER OF THE WORLD”
-- 10/24 21:38 [FirstSquawk] U.S. Embassy in Baghdad: Maintaining the highest level of travel advisory for Iraq amid threats of escalating Houthi attacks
-- 10/24 21:39 [FirstSquawk] U.S. Embassy in Baghdad: The Iraqi government cannot guarantee the safety of Americans from acts of violence or sudden conflicts
-- 10/24 21:39 [FirstSquawk] U.S. Embassy in Baghdad: Our ability to provide emergency services to our citizens in Iraq is limited due to security risks
-- 10/24 21:40 [FirstSquawk] Jordanian monarch during a National Security Council meeting: The hand of justice will reach every terrorist, and the security and safety of Jordanians is a red line
-- 10/24 21:43 [financialjuice] Zelenskiy: starlink restrictions completely removed
-- 10/24 21:44 [financialjuice] Iran President Pezeshkian blames US for interim deal failure: 'I still think we should conclude it' - state TV
-- 10/24 21:47 [FirstSquawk] IRAN PRESIDENT PEZESHKIAN BLAMES US FOR FAILURE OF INTERIM DEAL, SAYS HE STILL WANTS TO CONCLUDE IT — STATE TV
-- 10/24 21:59 [FirstSquawk] JOHNSON & JOHNSON ANNOUNCES ERLEADA ® (APALUTAMIDE) TREATMENT BEFORE AND AFTER SURGERY REDUCES RISK OF RECURRENCE OR DEATH BY 62% VERSUS SURGERY ALONE IN HIGH-RISK PROSTATE CANCER
-- 10/24 22:02 [FirstSquawk] Zelensky: Lift all restrictions imposed on Starlink service completely
-- 10/24 22:02 [FirstSquawk] Bezshkian says he still sees a need to move forward with concluding a temporary agreement with Washington.
-- 10/24 22:07 [FirstSquawk] DEFENSE SECRETARY HEGSETH’S OFFICE TRIED TO BLOCK U.S. TROOPS FROM PARTICIPATING IN SUNDAY’S NFL GAME IN PARIS AMID UNREST IN FRANCE, BUT THE PENTAGON PARTIALLY REVERSED THE DECISION AFTER THE STATE DEPARTMENT INTERVENED, CITING THE DIPLOMA…
-- 10/24 22:07 [FirstSquawk] PALANTIR CEO ALEX KARP SAYS HE HAS BEEN YELLING AT VARIOUS IMPORTANT GERMANS IN PRIVATE FOR A LONG TIME THAT IF THEY DO NOT TAKE MIGRATION SERIOUSLY IT IS GOING TO BE A DISASTER, ADDING THAT EVEN IF HE IS WRONG ON EVERY POINT, HE IS RIGHT A…
-- 10/24 22:14 [FirstSquawk] PALANTIR CEO ALEX KARP, ON AI, SAYS THAT WITH A MINOR EXCEPTION IN ISRAEL, CHINA AND THE U.S. ARE THE ONLY RELEVANT COUNTRIES, AND THAT THIS IS ONE THING HE IS APOPLECTIC ABOUT IN EUROPE, SAYING “YOU CAN’T HELP SOMEONE WHO DOESN’T WANT TO B…
-- 10/24 22:23 [FirstSquawk] COUCHE-TARD HAS MADE AN OFFER FOR CUMBERLAND FARMS, VALUING IT AT UP TO $8 BLN - TIMES
-- 10/24 22:24 [FirstSquawk] COUCHE-TARD HAS MADE AN OFFER FOR CUMBERLAND FARMS- TIMES
 - 10/24 22:44 [financialjuice] US updates travel advisories for Gulf and Middle East including Saudi Arabia, Qatar, UAE, Iraq, Lebanon and Israel citing threat of increased Iranian-backed Houthi regional aggression: Security Al
 - 10/24 22:44 [FirstSquawk] U.S. HAS UPDATED TRAVEL ADVISORIES ACROSS THE GULF AND MIDDLE EAST, INCLUDING SAUDI ARABIA, QATAR, UAE, IRAQ, LEBANON AND ISRAEL, CITING THE “THREAT OF INCREASED IRANIAN-SUPPORTED HOUTHI REGIONAL AGGRESSION” - SECURITY ALERTS
 - 10/24 22:51 [financialjuice] Ukraine drone reaches industrial hub of Russia’s Omsk: governor
@@ -111,3 +88,35 @@
 - 10/25 06:40 [financialjuice] N. Korea leader Kim Jong Un visits memorial for China’s role in Korean War in Dandong, China
 - 10/25 06:42 [financialjuice] N.Korea leader Kim Jong Un returns to N.Korea via bridge - KCNA
 - 10/25 07:01 [financialjuice] Saudi-led coalition: Intercepts and destroys drone in Riyadh region
+- 10/25 09:08 [FirstSquawk] NYP: Gold-diggers are heading to Silicon Valley, hoping to land wealthy husbands in the AI industry.
+- 10/25 09:09 [FirstSquawk] Trump: We need to restore religion to a much stronger position if we want to be great.
+- 10/25 09:09 [FirstSquawk] Saudi-Led Coalition Says It Shot Down Two Missiles Fired by Yemen’s Houthis
+- 10/25 09:10 [FirstSquawk] New York Archdiocese Wins Approval for $800 Million Abuse Settlement - RTRS
+- 10/25 09:11 [FirstSquawk] Trump Revives ‘You’re Fired’ Catchphrase in Georgia, Takes Aim at Democrats and Ossoff - FOX NEWS
+- 10/25 09:11 [FirstSquawk] Asia Faces Rising Methamphetamine Seizures as Myanmar Fuels Supply and Thailand Grapples With Cheap Drugs
+- 10/25 09:33 [FirstSquawk] Russia’s Belgorod Region Hit by Massive Ukrainian Drone Attack on 163,000-Square-Meter Shopping Complex, Locals Say
+- 10/25 09:33 [FirstSquawk] Trump Says US Should Prioritize Immigrants From Norway, Sweden and Denmark
+- 10/25 09:34 [FirstSquawk] Trump Boasts: Greenland and Venezuela, We Got Them Both for Zero
+- 10/25 09:35 [FirstSquawk] Trump Mobilizes Georgia Voters as Nationwide Midterm Showdown Gains Momentum
+- 10/25 09:36 [FirstSquawk] Barcelona Hit by Riots as Protesters Loot Shops and Set Fires, Leading to Arrests
+- 10/25 09:36 [FirstSquawk] New York Times Reports Discovery of Bodies of Salvadoran Soldiers Ambushed in Haiti
+- 10/25 09:37 [FirstSquawk] Ukraine Reports Restored Starlink Speeds After SpaceX Limits Service Over Drone Attacks - CBS
+- 10/25 09:39 [FirstSquawk] Beijing Urges US to Drop Proposal to Broaden Restrictions on Overseas Investments
+- 10/25 09:41 [FirstSquawk] Turin Hit by Riots as Unrest Breaks Out Across the Italian City - WSN
+- 10/25 09:43 [FirstSquawk] China’s Weakening Economy Leaves Young People Facing a “Lost Generation,” WSJ Says
+- 10/25 09:48 [FirstSquawk] Italy Hit by Wave of Protests Amid Heightened Security and Reports of Violence - RTRS
+- 10/25 09:51 [FirstSquawk] North Korea’s Kim Returns From China After Attending War Memorial Event, State Media Reports - RTRS
+- 10/25 09:52 [FirstSquawk] FoxBusiness - Russian Diesel Tanker Heads to New York as Trump-Putin Deal Targets Lower Fuel Prices
+- 10/25 09:54 [FirstSquawk] US Energy Executives Leave Alaska LNG Startup After Learning of Undisclosed Novatek Backing, WSJ Reports
+- 10/25 09:56 [FirstSquawk] Yemen’s Al Wahat Area North of Aden Hit by Houthi Shelling, Al Arabiya Reports
+- 10/25 09:59 [FirstSquawk] North Korea’s Kim Jong Un Crosses Bridge to Return Home From China, KCNA Says
+- 10/25 10:08 [FirstSquawk] North Korean Leader Kim Jong Un Visits China War Memorial Honoring Korean War Contribution in Dandong
+- 10/25 10:08 [FirstSquawk] North Korea’s Kim Jong Un Makes Visit to China, KCNA Reports
+- 10/25 10:14 [FirstSquawk] Japan’s PM to Ask Germany to Push for Favorable Treatment of EVs Under EU Rules
+- 10/25 10:16 [FirstSquawk] Houthis Say Attacks on Saudi Arabia’s King Khalid Airport Will Continue
+- 10/25 10:23 [FirstSquawk] Toyota to Produce Next-Generation Corolla in China Using Flexible Powertrain Platform
+- 10/25 10:23 [FirstSquawk] Yemen’s Houthis Reiterate Warning Over Riyadh Airport, Threaten Facility as Military Target
+- 10/25 10:25 [FirstSquawk] Obama Targets Trump at Midterm Rally, Accuses President of Unprecedented ‘Incompetence’ - NYT
+- 10/25 10:36 [FirstSquawk] Trump: We May Have to Settle the Iran Issue Once and for All, or Reach an Agreement
+- 10/25 10:38 [FirstSquawk] Libya’s PM Dbeibah Says Tripoli Is Ready to Discuss Egypt’s Maritime Concerns - RTRS
+- 10/25 10:39 [FirstSquawk] Trump Indicates Openness to Issuing Pardons for Administration Officials - WSN

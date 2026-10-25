@@ -7,65 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-25 08:43 JST／対象: 10/24 08:43 〜 10/25 08:43 JST（時刻はすべて日本時間）
+生成: 2026-10-25 10:40 JST／対象: 10/24 10:40 〜 10/25 10:40 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 10/25 03:55 | 10/25 05:28 | ⚠ 85分（03:55→05:20） |
-| FirstSquawk | 191 | 10/24 09:02 | 10/25 03:12 | ⚠ 54分（23:38→00:32） |
-| financialjuice | 49 | 10/24 09:24 | 10/25 07:01 | ⚠ 306分（22:55→04:01） |
+| FirstSquawk | 187 | 10/24 10:48 | 10/25 10:39 | ⚠ 356分（03:12→09:08） |
+| financialjuice | 43 | 10/24 15:02 | 10/25 07:01 | ⚠ 306分（22:55→04:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 242 行（統合前 247 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 232 行（統合前 237 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/24 09:02 [FirstSquawk] US Pentagon Identifies Confucius Institutes as a Threat to National Security - RTRS
-- 10/24 09:03 [FirstSquawk] Hong Kong Hospitals Increasingly Buy Chinese Medical Devices, Putting Pressure on Global Giants GE, Philips and Siemens
-- 10/24 09:03 [FirstSquawk] WSJ: US Sanctions Force Suspension of Iranian Exports to Pakistan, Official Says
-- 10/24 09:04 [FirstSquawk] Toyota to Produce Next-Generation Corolla in China as Automaker Adapts to Slowing Market
-- 10/24 09:05 [FirstSquawk] US Working to Reposition Some Middle East Diplomats Amid Regional Tensions, CNN Reports
-- 10/24 09:12 [FirstSquawk] Attacks on Ships in Strait of Hormuz Surge to Record Levels in October
-- 10/24 09:21 [FirstSquawk] Trump Says Washington May Carry Out Another Operation Against Iran - RTRS
-- 10/24 09:24 [FirstSquawk] Saudi-Led Coalition Says Drone Was Intercepted and Destroyed in Eastern Region
-- 10/24 09:24 [financialjuice] Saudi-led coalition: intercepted and destroyed drone over eastern region
-- 10/24 09:24 [FirstSquawk] OpenAI Reports Brotli Compression Library Flaw That Allows Remote Code Execution Without Authentication
-- 10/24 09:25 [FirstSquawk] GSK Reports 11.1-Month Median Progression-Free Survival With Mo-Rez in Platinum-Resistant Ovarian Cancer
-- 10/24 09:25 [FirstSquawk] GSK Announces 62% Confirmed Objective Response Rate and 12.2-Month Median Response Duration With Mo-Rez in Ovarian Cancer Trial
-- 10/24 09:27 [FirstSquawk] Hegseth: Confucius Institutes Classified as a Threat to US National Security
-- 10/24 09:27 [FirstSquawk] Moody’s Ratings Completes Scheduled Review of Venezuela’s Sovereign Ratings
-- 10/24 09:28 [FirstSquawk] Axios: US Intelligence Memo Raised Alarm Over Iranian Threats Against American Officials
-- 10/24 09:28 [FirstSquawk] Axios: Intelligence Assessments Suggest Iran Is Pursuing Targets Among American Officials and Diplomats
-- 10/24 09:29 [FirstSquawk] Claims of Undisclosed Russian Control Prompt US Executives to Leave $25 Billion Gas Venture - FT
-- 10/24 09:31 [FirstSquawk] Jaguar Land Rover Recalls Some US Vehicles Over Rearview Camera Display Failure, NHTSA Says
-- 10/24 09:35 [FirstSquawk] Brazil Central Bank Says Rollout of New Measures Will Begin in March or July 2027, Depending on Requirements
-- 10/24 09:38 [FirstSquawk] Brazil’s Central Bank Sets New Requirements for Credit Provision at the Start of Pix Transactions
-- 10/24 09:41 [FirstSquawk] Brazil Central Bank Introduces Requirement for Financial Institutions to Provide Consolidated Credit Information Dashboards to Customers
-- 10/24 09:44 [FirstSquawk] Firefighters Respond to Blaze at Hitler’s Former Teahouse in Berchtesgaden, Germany
-- 10/24 09:46 [FirstSquawk] Brazil Central Bank Mandates Clear Opt-Out Mechanism for Advertising and Unsolicited Credit Offers
-- 10/24 09:47 [FirstSquawk] Kenya Reports Another Ebola Fatality, Bringing Death Toll to Two - RTRS
-- 10/24 09:53 [FirstSquawk] Brazil’s Central Bank Approves Measures to Strengthen Oversight of Credit Provision by Financial Institutions
-- 10/24 09:58 [FirstSquawk] Saudi Arabia Warns of Possible Danger in Riyadh and Najran, State TV Reports
-- 10/24 09:58 [FirstSquawk] Howard Hughes Holdings Set for Entry Into S&P SmallCap 600 Index, According to S&P Dow Jones Indices
-- 10/24 09:58 [financialjuice] Saudi civil defense issues warning of potential threat in Riyadh and Najran: state TV
-- 10/24 10:01 [FirstSquawk] Saudi Civil Defense Issues Safety Alert for Wadi Al-Dawasir
-- 10/24 10:01 [financialjuice] Saudi civil defense issues warning on possible threat in Wadi Al-Dawasir governorate
-- 10/24 10:06 [FirstSquawk] Fitch Projects Slight Contraction for Ukraine’s Economy in 2026 and Modest 0.2% Expansion in 2027
-- 10/24 10:08 [FirstSquawk] Saudi Arabia Lifts Potential Danger Alert in Riyadh, Civil Defense Says
-- 10/24 10:08 [financialjuice] Saudi civil defense: danger has passed in Riyadh
-- 10/24 10:08 [FirstSquawk] Saudi Arabia Lifts Potential Danger Alert in Wadi Al-Dawasir Governorate
-- 10/24 10:08 [financialjuice] Saudi civil defense: danger has passed in Wadi Al-Dawasir governorate
-- 10/24 10:08 [FirstSquawk] Saudi Authorities Declare All-Clear in Najran After Potential Danger Alert
-- 10/24 10:09 [financialjuice] Saudi civil defense: danger has passed in Najran
-- 10/24 10:14 [FirstSquawk] Ukraine Likely to Maintain Substantial Fiscal Deficits as Domestic Revenue Generation Remains Weak, Fitch Says
-- 10/24 10:18 [FirstSquawk] Ukraine War Expected to Persist Through 2027, With Little Current Momentum Toward a Ceasefire, Fitch Says
-- 10/24 10:21 [FirstSquawk] Brazil’s Iochpe-Maxion Sets Aside €15 Million in Q3 for German Antitrust Proceedings
-- 10/24 10:26 [FirstSquawk] Lithuania’s ‘A+’ Rating Confirmed by Fitch With Stable Outlook
-- 10/24 10:39 [FirstSquawk] Yemen’s Houthis Launch Ballistic Missile Toward Riyadh, Saudi-Led Coalition Says
 - 10/24 10:48 [FirstSquawk] Most Russian KAB Guided Bombs Miss Bridge in Ukraine’s Kherson, Falling Into River
 - 10/24 10:51 [FirstSquawk] France’s Centre-Val de Loire Region Retains ‘A+’ Rating as Fitch Keeps Outlook Stable
 - 10/24 10:55 [FirstSquawk] Ireland Retains ‘AA’ Rating as Fitch Keeps Outlook Stable
@@ -266,3 +224,35 @@
 - 10/25 06:40 [financialjuice] N. Korea leader Kim Jong Un visits memorial for China’s role in Korean War in Dandong, China
 - 10/25 06:42 [financialjuice] N.Korea leader Kim Jong Un returns to N.Korea via bridge - KCNA
 - 10/25 07:01 [financialjuice] Saudi-led coalition: Intercepts and destroys drone in Riyadh region
+- 10/25 09:08 [FirstSquawk] NYP: Gold-diggers are heading to Silicon Valley, hoping to land wealthy husbands in the AI industry.
+- 10/25 09:09 [FirstSquawk] Trump: We need to restore religion to a much stronger position if we want to be great.
+- 10/25 09:09 [FirstSquawk] Saudi-Led Coalition Says It Shot Down Two Missiles Fired by Yemen’s Houthis
+- 10/25 09:10 [FirstSquawk] New York Archdiocese Wins Approval for $800 Million Abuse Settlement - RTRS
+- 10/25 09:11 [FirstSquawk] Trump Revives ‘You’re Fired’ Catchphrase in Georgia, Takes Aim at Democrats and Ossoff - FOX NEWS
+- 10/25 09:11 [FirstSquawk] Asia Faces Rising Methamphetamine Seizures as Myanmar Fuels Supply and Thailand Grapples With Cheap Drugs
+- 10/25 09:33 [FirstSquawk] Russia’s Belgorod Region Hit by Massive Ukrainian Drone Attack on 163,000-Square-Meter Shopping Complex, Locals Say
+- 10/25 09:33 [FirstSquawk] Trump Says US Should Prioritize Immigrants From Norway, Sweden and Denmark
+- 10/25 09:34 [FirstSquawk] Trump Boasts: Greenland and Venezuela, We Got Them Both for Zero
+- 10/25 09:35 [FirstSquawk] Trump Mobilizes Georgia Voters as Nationwide Midterm Showdown Gains Momentum
+- 10/25 09:36 [FirstSquawk] Barcelona Hit by Riots as Protesters Loot Shops and Set Fires, Leading to Arrests
+- 10/25 09:36 [FirstSquawk] New York Times Reports Discovery of Bodies of Salvadoran Soldiers Ambushed in Haiti
+- 10/25 09:37 [FirstSquawk] Ukraine Reports Restored Starlink Speeds After SpaceX Limits Service Over Drone Attacks - CBS
+- 10/25 09:39 [FirstSquawk] Beijing Urges US to Drop Proposal to Broaden Restrictions on Overseas Investments
+- 10/25 09:41 [FirstSquawk] Turin Hit by Riots as Unrest Breaks Out Across the Italian City - WSN
+- 10/25 09:43 [FirstSquawk] China’s Weakening Economy Leaves Young People Facing a “Lost Generation,” WSJ Says
+- 10/25 09:48 [FirstSquawk] Italy Hit by Wave of Protests Amid Heightened Security and Reports of Violence - RTRS
+- 10/25 09:51 [FirstSquawk] North Korea’s Kim Returns From China After Attending War Memorial Event, State Media Reports - RTRS
+- 10/25 09:52 [FirstSquawk] FoxBusiness - Russian Diesel Tanker Heads to New York as Trump-Putin Deal Targets Lower Fuel Prices
+- 10/25 09:54 [FirstSquawk] US Energy Executives Leave Alaska LNG Startup After Learning of Undisclosed Novatek Backing, WSJ Reports
+- 10/25 09:56 [FirstSquawk] Yemen’s Al Wahat Area North of Aden Hit by Houthi Shelling, Al Arabiya Reports
+- 10/25 09:59 [FirstSquawk] North Korea’s Kim Jong Un Crosses Bridge to Return Home From China, KCNA Says
+- 10/25 10:08 [FirstSquawk] North Korean Leader Kim Jong Un Visits China War Memorial Honoring Korean War Contribution in Dandong
+- 10/25 10:08 [FirstSquawk] North Korea’s Kim Jong Un Makes Visit to China, KCNA Reports
+- 10/25 10:14 [FirstSquawk] Japan’s PM to Ask Germany to Push for Favorable Treatment of EVs Under EU Rules
+- 10/25 10:16 [FirstSquawk] Houthis Say Attacks on Saudi Arabia’s King Khalid Airport Will Continue
+- 10/25 10:23 [FirstSquawk] Toyota to Produce Next-Generation Corolla in China Using Flexible Powertrain Platform
+- 10/25 10:23 [FirstSquawk] Yemen’s Houthis Reiterate Warning Over Riyadh Airport, Threaten Facility as Military Target
+- 10/25 10:25 [FirstSquawk] Obama Targets Trump at Midterm Rally, Accuses President of Unprecedented ‘Incompetence’ - NYT
+- 10/25 10:36 [FirstSquawk] Trump: We May Have to Settle the Iran Issue Once and for All, or Reach an Agreement
+- 10/25 10:38 [FirstSquawk] Libya’s PM Dbeibah Says Tripoli Is Ready to Discuss Egypt’s Maritime Concerns - RTRS
+- 10/25 10:39 [FirstSquawk] Trump Indicates Openness to Issuing Pardons for Administration Officials - WSN
