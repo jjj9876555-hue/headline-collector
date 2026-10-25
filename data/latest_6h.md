@@ -7,34 +7,24 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-26 06:41 JST／対象: 10/26 00:41 〜 10/26 06:41 JST（時刻はすべて日本時間）
+生成: 2026-10-26 08:33 JST／対象: 10/26 02:33 〜 10/26 08:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 10/26 04:47 | 10/26 06:16 | ⚠ 89分（04:47→06:16） |
-| FirstSquawk | 60 | 10/26 01:05 | 10/26 06:28 | ⚠ 67分（01:34→02:41） |
-| financialjuice | 17 | 10/26 00:58 | 10/26 06:11 | ⚠ 95分（01:35→03:11） |
+| FirstSquawk | 56 | 10/26 02:41 | 10/26 07:40 | 41分（06:59→07:40） |
+| financialjuice | 17 | 10/26 03:11 | 10/26 07:30 | ⚠ 78分（06:11→07:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 74 行（統合前 79 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 71 行（統合前 75 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/26 00:58 [financialjuice/FirstSquawk] Netanyahu at an Arrow missile defense battery: Have intelligence indications Iran and its proxies may try to challenge us with an attack aimed at disrupting the elections.
-- 10/26 01:05 [FirstSquawk] Netanyahu: We have intelligence indicators that Iran and its agents may attempt to launch attacks to disrupt the elections
-- 10/26 01:05 [FirstSquawk] Russian Ministry of Defense: Ship heading to Odesa port was targeted as it was transporting supplies for Ukrainian forces
-- 10/26 01:06 [FirstSquawk] Palestinian media: Casualties reported in Israeli airstrike targeting Sheikh Nasser neighborhood east of Khan Younis city in southern Gaza Strip
-- 10/26 01:07 [FirstSquawk] Trump: We will not strike Iran today
-- 10/26 01:31 [FirstSquawk] Senior Iranian official: Qatari delegation arrived in Tehran today and is conducting negotiations within the framework of mediation to ensure the security and stability of the region
-- 10/26 01:32 [FirstSquawk] Senior Iranian official: The Qatari delegation's visit falls within the ongoing communication between the two countries amid escalating tensions in the region.
-- 10/26 01:32 [FirstSquawk] Senior Iranian official: Mediation efforts are positive but always run up against the US administration's evasion of its commitments
-- 10/26 01:32 [FirstSquawk] Trump: There will be talks regarding the war in Ukraine very soon, and the countries are eager to reach an agreement.
-- 10/26 01:34 [FirstSquawk] Senior Iranian official to Al Jazeera: The obstacle to reaching a diplomatic solution is not in the mediation but in Washington's rejection of our legitimate demands.
-- 10/26 01:35 [financialjuice] ‼ BREAKING: Trump: We will not attack Iran today.
+- 10/26 02:41 [FirstSquawk] NETANYAHU AT AN ARROW MISSILE DEFENSE BATTERY: HAVE INTELLIGENCE INDICATIONS IRAN AND ITS PROXIES MAY TRY TO CHALLENGE US WITH AN ATTACK AIMED AT DISRUPTING THE ELECTIONS.
 - 10/26 02:43 [FirstSquawk] EUR/USD RALLIES 1.4% FROM OCTOBER LOWS AMID RESISTANCE AT 1.1156
 - 10/26 02:43 [FirstSquawk] TRUMP: WE WILL NOT ATTACK IRAN TODAY.
 - 10/26 02:47 [FirstSquawk] TRUMP SAYS FOX NEWS IS SPENDING FAR TOO MUCH TIME PUTTING ON THE OPPONENTS OF REPUBLICAN PARTY CANDIDATES, PEOPLE WHO LOVE THE COUNTRY AND HAVE GREAT POLICIES AND IDEAS - TRUTH SOCIAL
@@ -98,3 +88,10 @@
 - 10/26 06:11 [financialjuice/FirstSquawk] North Korea: South Korea provocations like firing on North Korean personnel breach UN charter - KCNA
 - 10/26 06:16 [DeItaone] $SPCX - SPACEX SECURES $40 BILLION IN DEBT TO BUY AI CHIPS Elon Musk confirms SpaceX has closed $40 billion in debt financing to purchase GPUs, with deliveries expected in Q1 and Q2 2027. The company reported: Q3 revenue: $14.58B, up 161% y…
 - 10/26 06:28 [FirstSquawk] BRITISH FINANCE MINISTER JOHN HEALEY EXPECTED TO ANNOUNCE 3.9% INCREASE TO FULL STATE PENSION - THE TIMES
+- 10/26 06:54 [FirstSquawk] JAPAN TAKAICHI CABINET APPROVAL FLAT AT 62% IN NIKKEI POLL
+- 10/26 06:55 [FirstSquawk] U.S. OFFICIAL SAYS THE NEXT U.S.-UKRAINE-RUSSIA WORKING-LEVEL TALKS COULD BE HELD IN A COUPLE OF WEEKS IN ABU DHABI OR SWITZERLAND, WITH THE GOAL OF BUILDING TOWARDS AN EVENTUAL LEADER-LEVEL MEETING, THOUGH MUCH WORK REMAINS
+- 10/26 06:58 [FirstSquawk] EUROPEAN GAS RISES TO HIGHEST SINCE 2022 AT START OF TRADING
+- 10/26 06:59 [FirstSquawk] TOKYO GAS HAS SCRAPPED A FUKUSHIMA WIND POWER PROJECT ON COSTS - NIKKEI
+- 10/26 07:30 [financialjuice] Anthropic's Claude accessed publicly available Georgia voter data without human permission: Axios
+- 10/26 07:30 [financialjuice] Anthropic's Claude accessed publicly available Georgia voter data without human authorization: Axios
+- 10/26 07:40 [FirstSquawk] JAPAN PLANS SUPPORT FOR BANKS TO FUND GROWTH INVESTMENT – YOMIURI

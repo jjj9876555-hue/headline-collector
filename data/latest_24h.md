@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-26 06:41 JST／対象: 10/25 06:41 〜 10/26 06:41 JST（時刻はすべて日本時間）
+生成: 2026-10-26 08:33 JST／対象: 10/25 08:33 〜 10/26 08:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 10/25 19:23 | 10/26 06:16 | ⚠ 371分（22:35→04:47） |
-| FirstSquawk | 181 | 10/25 09:08 | 10/26 06:28 | ⚠ 86分（11:37→13:04） |
-| financialjuice | 32 | 10/25 06:42 | 10/26 06:11 | ⚠ 492分（12:25→20:37） |
+| FirstSquawk | 186 | 10/25 09:08 | 10/26 07:40 | ⚠ 86分（11:37→13:04） |
+| financialjuice | 32 | 10/25 12:03 | 10/26 07:30 | ⚠ 492分（12:25→20:37） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 205 行（統合前 218 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 210 行（統合前 223 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/25 06:42 [financialjuice] N.Korea leader Kim Jong Un returns to N.Korea via bridge - KCNA
-- 10/25 07:01 [financialjuice] Saudi-led coalition: Intercepts and destroys drone in Riyadh region
 - 10/25 09:08 [FirstSquawk] NYP: Gold-diggers are heading to Silicon Valley, hoping to land wealthy husbands in the AI industry.
 - 10/25 09:09 [FirstSquawk] Trump: We need to restore religion to a much stronger position if we want to be great.
 - 10/25 09:09 [FirstSquawk] Saudi-Led Coalition Says It Shot Down Two Missiles Fired by Yemen’s Houthis
@@ -229,3 +227,10 @@
 - 10/26 06:11 [financialjuice/FirstSquawk] North Korea: South Korea provocations like firing on North Korean personnel breach UN charter - KCNA
 - 10/26 06:16 [DeItaone] $SPCX - SPACEX SECURES $40 BILLION IN DEBT TO BUY AI CHIPS Elon Musk confirms SpaceX has closed $40 billion in debt financing to purchase GPUs, with deliveries expected in Q1 and Q2 2027. The company reported: Q3 revenue: $14.58B, up 161% y…
 - 10/26 06:28 [FirstSquawk] BRITISH FINANCE MINISTER JOHN HEALEY EXPECTED TO ANNOUNCE 3.9% INCREASE TO FULL STATE PENSION - THE TIMES
+- 10/26 06:54 [FirstSquawk] JAPAN TAKAICHI CABINET APPROVAL FLAT AT 62% IN NIKKEI POLL
+- 10/26 06:55 [FirstSquawk] U.S. OFFICIAL SAYS THE NEXT U.S.-UKRAINE-RUSSIA WORKING-LEVEL TALKS COULD BE HELD IN A COUPLE OF WEEKS IN ABU DHABI OR SWITZERLAND, WITH THE GOAL OF BUILDING TOWARDS AN EVENTUAL LEADER-LEVEL MEETING, THOUGH MUCH WORK REMAINS
+- 10/26 06:58 [FirstSquawk] EUROPEAN GAS RISES TO HIGHEST SINCE 2022 AT START OF TRADING
+- 10/26 06:59 [FirstSquawk] TOKYO GAS HAS SCRAPPED A FUKUSHIMA WIND POWER PROJECT ON COSTS - NIKKEI
+- 10/26 07:30 [financialjuice] Anthropic's Claude accessed publicly available Georgia voter data without human permission: Axios
+- 10/26 07:30 [financialjuice] Anthropic's Claude accessed publicly available Georgia voter data without human authorization: Axios
+- 10/26 07:40 [FirstSquawk] JAPAN PLANS SUPPORT FOR BANKS TO FUND GROWTH INVESTMENT – YOMIURI

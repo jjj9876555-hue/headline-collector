@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-26 06:41 JST／対象: 10/25 18:41 〜 10/26 06:41 JST（時刻はすべて日本時間）
+生成: 2026-10-26 08:33 JST／対象: 10/25 20:33 〜 10/26 08:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 4 | 10/25 19:23 | 10/26 06:16 | ⚠ 371分（22:35→04:47） |
-| FirstSquawk | 109 | 10/25 19:37 | 10/26 06:28 | ⚠ 67分（01:34→02:41） |
-| financialjuice | 27 | 10/25 20:37 | 10/26 06:11 | ⚠ 153分（22:24→00:58） |
+| DeItaone | 3 | 10/25 22:35 | 10/26 06:16 | ⚠ 371分（22:35→04:47） |
+| FirstSquawk | 98 | 10/25 21:21 | 10/26 07:40 | ⚠ 67分（01:34→02:41） |
+| financialjuice | 29 | 10/25 20:37 | 10/26 07:30 | ⚠ 153分（22:24→00:58） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 128 行（統合前 141 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 118 行（統合前 131 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/25 19:23 [DeItaone] APOLLO: AI HAS DELIVERED “ZERO PAYOFF” OUTSIDE BIG TECH Apollo Chief Economist Torsten Slok warns that massive AI spending has yet to deliver measurable productivity gains across corporate America. Revenue per worker and profit margins are …
-- 10/25 19:37 [FirstSquawk] Iranian Parliament Speaker: We will not be intimidated and are prepared to respond with an unexpected retaliation to any aggression against the unity of our lands
-- 10/25 19:38 [FirstSquawk] Ethiopian Defense Minister: Our army is capable of confronting any provocations and has thwarted terrorist plots orchestrated by internal and external forces
-- 10/25 19:38 [FirstSquawk] Qatari Foreign Ministry: Prime Minister and Foreign Minister discusses by phone with Turkey's Foreign Minister reducing escalation and enhancing regional security
-- 10/25 19:38 [FirstSquawk] Qatari Foreign Ministry: The Prime Minister and Foreign Minister affirmed Qatar's support for efforts and endeavors to reach a solution that ensures freedom of maritime navigation
-- 10/25 19:38 [FirstSquawk] Qatari Foreign Ministry: The Prime Minister and Foreign Minister affirmed support for efforts and endeavors to reach an agreement that achieves lasting peace in the region
-- 10/25 19:38 [FirstSquawk] Settlers attack Palestinian farmers while picking olives in the village of Imatin, southwest of Nablus in the West Bank
-- 10/25 19:39 [FirstSquawk] Saudi Civil Defense: Early Alert Issued to Warn of Danger in Taif Governorate
-- 10/25 19:39 [FirstSquawk] Saudi Civil Defense: Danger Lifted from Taif Governorate
-- 10/25 19:39 [FirstSquawk] Saudi Civil Defense: Alert warning of danger in Jazan area
-- 10/25 19:39 [FirstSquawk] Saudi Civil Defense: The danger has been lifted from the Jazan area
-- 10/25 19:39 [FirstSquawk] Jordanian Prime Minister: There is absolutely no place for terrorism and extremist thought in this country and this society.
-- 10/25 19:39 [FirstSquawk] Jordanian Prime Minister: All state agencies are working to apprehend the perpetrators of the Karak Church attack and they will receive their punishment
-- 10/25 20:22 [FirstSquawk] 5.9 magnitude earthquake strikes the New Guinea region in Papua New Guinea
-- 10/25 20:22 [FirstSquawk] Russian Television: Deputy Prime Minister confirms Russia's readiness to supply the United States with any quantities of diesel
-- 10/25 20:22 [FirstSquawk] Lebanese News Agency: The Israeli army carries out a large explosion in the town of Yahmour al-Shaqif in the Nabatieh District, southern Lebanon.
-- 10/25 20:23 [FirstSquawk] Three Palestinians killed in an Israeli airstrike that targeted, for the second time, the grounds of the Islamic University in Gaza City.
 - 10/25 20:37 [financialjuice] Iran's air defence shoots down Lucas drone near southern Bandar Abbas: Tasnim
 - 10/25 21:21 [FirstSquawk] International Organization for Migration: Number of displaced in Yemen exceeds 268 thousand, and arrival of 3836 Yemenis to Djibouti by sea
 - 10/25 21:21 [FirstSquawk] Syrian media: An Israeli force carries out bulldozing operations on lands in the forest of the town of Jibata al-Khashab in the countryside of Quneitra Governorate
@@ -152,3 +135,10 @@
 - 10/26 06:11 [financialjuice/FirstSquawk] North Korea: South Korea provocations like firing on North Korean personnel breach UN charter - KCNA
 - 10/26 06:16 [DeItaone] $SPCX - SPACEX SECURES $40 BILLION IN DEBT TO BUY AI CHIPS Elon Musk confirms SpaceX has closed $40 billion in debt financing to purchase GPUs, with deliveries expected in Q1 and Q2 2027. The company reported: Q3 revenue: $14.58B, up 161% y…
 - 10/26 06:28 [FirstSquawk] BRITISH FINANCE MINISTER JOHN HEALEY EXPECTED TO ANNOUNCE 3.9% INCREASE TO FULL STATE PENSION - THE TIMES
+- 10/26 06:54 [FirstSquawk] JAPAN TAKAICHI CABINET APPROVAL FLAT AT 62% IN NIKKEI POLL
+- 10/26 06:55 [FirstSquawk] U.S. OFFICIAL SAYS THE NEXT U.S.-UKRAINE-RUSSIA WORKING-LEVEL TALKS COULD BE HELD IN A COUPLE OF WEEKS IN ABU DHABI OR SWITZERLAND, WITH THE GOAL OF BUILDING TOWARDS AN EVENTUAL LEADER-LEVEL MEETING, THOUGH MUCH WORK REMAINS
+- 10/26 06:58 [FirstSquawk] EUROPEAN GAS RISES TO HIGHEST SINCE 2022 AT START OF TRADING
+- 10/26 06:59 [FirstSquawk] TOKYO GAS HAS SCRAPPED A FUKUSHIMA WIND POWER PROJECT ON COSTS - NIKKEI
+- 10/26 07:30 [financialjuice] Anthropic's Claude accessed publicly available Georgia voter data without human permission: Axios
+- 10/26 07:30 [financialjuice] Anthropic's Claude accessed publicly available Georgia voter data without human authorization: Axios
+- 10/26 07:40 [FirstSquawk] JAPAN PLANS SUPPORT FOR BANKS TO FUND GROWTH INVESTMENT – YOMIURI
