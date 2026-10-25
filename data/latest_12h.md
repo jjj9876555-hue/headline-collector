@@ -7,62 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-25 21:10 JST／対象: 10/25 09:10 〜 10/25 21:10 JST（時刻はすべて日本時間）
+生成: 2026-10-26 01:14 JST／対象: 10/25 13:14 〜 10/26 01:14 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 1 | 10/25 19:23 | 10/25 19:23 | - |
-| FirstSquawk | 84 | 10/25 09:11 | 10/25 20:23 | ⚠ 86分（11:37→13:04） |
-| financialjuice | 4 | 10/25 12:03 | 10/25 20:37 | ⚠ 492分（12:25→20:37） |
+| DeItaone | 2 | 10/25 19:23 | 10/25 22:35 | ⚠ 191分（19:23→22:35） |
+| FirstSquawk | 85 | 10/25 13:21 | 10/26 01:07 | ⚠ 76分（18:21→19:37） |
+| financialjuice | 11 | 10/25 20:37 | 10/26 00:58 | ⚠ 153分（22:24→00:58） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 89 行（統合前 89 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 91 行（統合前 99 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/25 09:11 [FirstSquawk] Trump Revives ‘You’re Fired’ Catchphrase in Georgia, Takes Aim at Democrats and Ossoff - FOX NEWS
-- 10/25 09:11 [FirstSquawk] Asia Faces Rising Methamphetamine Seizures as Myanmar Fuels Supply and Thailand Grapples With Cheap Drugs
-- 10/25 09:33 [FirstSquawk] Russia’s Belgorod Region Hit by Massive Ukrainian Drone Attack on 163,000-Square-Meter Shopping Complex, Locals Say
-- 10/25 09:33 [FirstSquawk] Trump Says US Should Prioritize Immigrants From Norway, Sweden and Denmark
-- 10/25 09:34 [FirstSquawk] Trump Boasts: Greenland and Venezuela, We Got Them Both for Zero
-- 10/25 09:35 [FirstSquawk] Trump Mobilizes Georgia Voters as Nationwide Midterm Showdown Gains Momentum
-- 10/25 09:36 [FirstSquawk] Barcelona Hit by Riots as Protesters Loot Shops and Set Fires, Leading to Arrests
-- 10/25 09:36 [FirstSquawk] New York Times Reports Discovery of Bodies of Salvadoran Soldiers Ambushed in Haiti
-- 10/25 09:37 [FirstSquawk] Ukraine Reports Restored Starlink Speeds After SpaceX Limits Service Over Drone Attacks - CBS
-- 10/25 09:39 [FirstSquawk] Beijing Urges US to Drop Proposal to Broaden Restrictions on Overseas Investments
-- 10/25 09:41 [FirstSquawk] Turin Hit by Riots as Unrest Breaks Out Across the Italian City - WSN
-- 10/25 09:43 [FirstSquawk] China’s Weakening Economy Leaves Young People Facing a “Lost Generation,” WSJ Says
-- 10/25 09:48 [FirstSquawk] Italy Hit by Wave of Protests Amid Heightened Security and Reports of Violence - RTRS
-- 10/25 09:51 [FirstSquawk] North Korea’s Kim Returns From China After Attending War Memorial Event, State Media Reports - RTRS
-- 10/25 09:52 [FirstSquawk] FoxBusiness - Russian Diesel Tanker Heads to New York as Trump-Putin Deal Targets Lower Fuel Prices
-- 10/25 09:54 [FirstSquawk] US Energy Executives Leave Alaska LNG Startup After Learning of Undisclosed Novatek Backing, WSJ Reports
-- 10/25 09:56 [FirstSquawk] Yemen’s Al Wahat Area North of Aden Hit by Houthi Shelling, Al Arabiya Reports
-- 10/25 09:59 [FirstSquawk] North Korea’s Kim Jong Un Crosses Bridge to Return Home From China, KCNA Says
-- 10/25 10:08 [FirstSquawk] North Korean Leader Kim Jong Un Visits China War Memorial Honoring Korean War Contribution in Dandong
-- 10/25 10:08 [FirstSquawk] North Korea’s Kim Jong Un Makes Visit to China, KCNA Reports
-- 10/25 10:14 [FirstSquawk] Japan’s PM to Ask Germany to Push for Favorable Treatment of EVs Under EU Rules
-- 10/25 10:16 [FirstSquawk] Houthis Say Attacks on Saudi Arabia’s King Khalid Airport Will Continue
-- 10/25 10:23 [FirstSquawk] Toyota to Produce Next-Generation Corolla in China Using Flexible Powertrain Platform
-- 10/25 10:23 [FirstSquawk] Yemen’s Houthis Reiterate Warning Over Riyadh Airport, Threaten Facility as Military Target
-- 10/25 10:25 [FirstSquawk] Obama Targets Trump at Midterm Rally, Accuses President of Unprecedented ‘Incompetence’ - NYT
-- 10/25 10:36 [FirstSquawk] Trump: We May Have to Settle the Iran Issue Once and for All, or Reach an Agreement
-- 10/25 10:38 [FirstSquawk] Libya’s PM Dbeibah Says Tripoli Is Ready to Discuss Egypt’s Maritime Concerns - RTRS
-- 10/25 10:39 [FirstSquawk] Trump Indicates Openness to Issuing Pardons for Administration Officials - WSN
-- 10/25 11:12 [FirstSquawk] Trump Warns US Could Attack Iran as Tehran Denies Offering Deal to Reopen Strait of Hormuz - htTweets
-- 10/25 11:17 [FirstSquawk] More Than 110,000 March in Paris Before Clashes Prompt Police to Use Tear Gas, Water Cannons - AP
-- 10/25 11:26 [FirstSquawk] Japan’s Bonin Islands Hit by a 6.3-Magnitude Earthquake
-- 10/25 11:37 [FirstSquawk] Taiwan’s Economic Potential Could Expand Through Cross-Strait Reunification, Chinese Professor Says
-- 10/25 11:37 [FirstSquawk] Indians Don’t Create Disturbances on Streets Like in Europe,” Piyush Goyal Says - SCMP
-- 10/25 12:03 [financialjuice] Saudi civil defense issues warning over possible threat in Riyadh - state TV
-- 10/25 12:13 [financialjuice] Saudi civil defense: danger has passed in Riyadh city
-- 10/25 12:25 [financialjuice] Saudi-led coalition: intercepted and destroyed ballistic missile launched by Houthis towards Riyadh
-- 10/25 13:04 [FirstSquawk] Samsung in Focus as Vietnam Police Pursue AI-Powered Security Technology
-- 10/25 13:05 [FirstSquawk] Reliance’s Record IPO Puts Spotlight on Ambani’s Technology Ambitions
-- 10/25 13:08 [FirstSquawk] Australia’s Property Slump Deepens as Rate Hikes and Tax Rules Hit Housing Market
 - 10/25 13:21 [FirstSquawk] Tax Changes, Rising Rates Deepen Australia’s Property Market Weakness
 - 10/25 14:32 [FirstSquawk] Hormuz Losses Prompt Mercuria to Take ‘Dow Jones of Shipping’ to Court - FT
 - 10/25 14:33 [FirstSquawk] Chinese Consumer Slowdown Wipes €250 Billion Off Luxury Groups’ Value – FT
@@ -113,3 +74,44 @@
 - 10/25 20:22 [FirstSquawk] Lebanese News Agency: The Israeli army carries out a large explosion in the town of Yahmour al-Shaqif in the Nabatieh District, southern Lebanon.
 - 10/25 20:23 [FirstSquawk] Three Palestinians killed in an Israeli airstrike that targeted, for the second time, the grounds of the Islamic University in Gaza City.
 - 10/25 20:37 [financialjuice] Iran's air defence shoots down Lucas drone near southern Bandar Abbas: Tasnim
+- 10/25 21:21 [FirstSquawk] International Organization for Migration: Number of displaced in Yemen exceeds 268 thousand, and arrival of 3836 Yemenis to Djibouti by sea
+- 10/25 21:21 [FirstSquawk] Syrian media: An Israeli force carries out bulldozing operations on lands in the forest of the town of Jibata al-Khashab in the countryside of Quneitra Governorate
+- 10/25 21:24 [FirstSquawk] Britain needs ‘chainsaw economics’ - FT
+- 10/25 21:24 [FirstSquawk] US voters worried about corruption under Trump — FT poll
+- 10/25 21:25 [FirstSquawk] Audi to build $4bn US plant as it grapples with tariffs - FT
+- 10/25 21:25 [FirstSquawk] Marc Lore’s Wonder bets on Texas, automation and user-built restaurants as it mulls IPO - CNBC
+- 10/25 21:45 [FirstSquawk] Maysan Provincial Council President calls on the Iraqi government to expedite the reopening of the Shalamcheh border crossing with Iran.
+- 10/25 21:45 [FirstSquawk] Maysan Provincial Council President: We will declare civil disobedience and separate the province from Iraq if our demand is not met.
+- 10/25 21:46 [FirstSquawk] London’s most famous shopping street bans cars in bid to revive its fortunes - FT
+- 10/25 22:09 [financialjuice] Qatari mediators in Tehran on Sunday in effort to ease regional tensions: official briefed on situation - source
+- 10/25 22:09 [financialjuice] Qatari mediation effort coordinated with US: source
+- 10/25 22:14 [financialjuice/FirstSquawk] Libya's NOC restarts Brega refinery after maintenance shutdown: statement
+- 10/25 22:17 [financialjuice/FirstSquawk] Canada's PM Carney: Crown Prince of Abu Dhabi to visit Ottawa from October 26 to 27
+- 10/25 22:17 [financialjuice/FirstSquawk] Libya's NOC announces restart of Sirte company's two methanol plants after maintenance: statement
+- 10/25 22:20 [financialjuice/FirstSquawk] Libya's Sirte Oil Co. resumes natural gas processing unit at Brega plant after years-long closure: statement
+- 10/25 22:20 [financialjuice/FirstSquawk] Libya's Sirte oil firm says Brega gas unit restart will supply 60 million cubic feet of gas to system instead of flaring it - statement
+- 10/25 22:21 [financialjuice/FirstSquawk] One killed in Ukrainian missile strike on industrial site in Russia's Lipetsk region: governor
+- 10/25 22:24 [financialjuice/FirstSquawk] Saudi civil defense: shrapnel from intercepting two ballistic missiles launched by Yemen's Houthis in Khamis Mushait and Ahad Rafidah injures two people
+- 10/25 22:35 [DeItaone] QATAR MEDIATES IN IRAN AS U.S. SEEKS TO EASE TENSIONS Qatari mediators are in Tehran as part of a diplomatic effort coordinated with the United States to de-escalate regional tensions, Reuters reports. The initiative comes amid heightened c…
+- 10/25 23:25 [FirstSquawk] Trump to Fox News: My question now is whether I strike a deal with the Iranians or finish them off for good
+- 10/25 23:25 [FirstSquawk] Trump to Fox News: The Iranians are not making any big moves regarding the nuclear facilities and we are monitoring the situation
+- 10/26 00:04 [FirstSquawk] Israeli Army: Our forces worked last night to seal the homes of the two perpetrators of the Hebron operation, and they will be demolished later.
+- 10/26 00:04 [FirstSquawk] Tasnim Agency quoting the Iranian Foreign Ministry spokesman: We have never left the negotiations and we exchange messages with America through intermediaries.
+- 10/26 00:04 [FirstSquawk] Tasnim Agency quoting the Iranian Foreign Ministry spokesman: The problem lies in the fact that Washington appears insistent and steadfast in its unilateral demands.
+- 10/26 00:05 [FirstSquawk] Carney’s energy ambitions boosted by Conservative victory in British Columbia - FT
+- 10/26 00:27 [FirstSquawk] Libyan Unity Government's Foreign Ministry: Summoning the US Chargé d'Affaires Following Offensive Statements from Washington Against Libya
+- 10/26 00:28 [FirstSquawk] "Axios": Netanyahu pressures Trump to offer more support ahead of Tuesday's elections
+- 10/26 00:29 [FirstSquawk] "Axios": The White House sees Netanyahu's intensified moves to pressure Trump as "a sign of desperation"
+- 10/26 00:29 [FirstSquawk] "Axios": Netanyahu proposed to Trump "linguistic formulations" for statements supporting him
+- 10/26 00:29 [FirstSquawk] "Axios": Netanyahu proposed to Trump to conduct outreach to Israeli journalists to express more support for him.
+- 10/26 00:30 [FirstSquawk] "Axios": Netanyahu suggested to Trump "linguistic formulations" for statements supporting him in recent days
+- 10/26 00:30 [FirstSquawk] United Arab Emirates strongly condemns the Houthi group's attempt to target several areas in Saudi Arabia with ballistic missiles.
+- 10/26 00:30 [FirstSquawk] Iranian Foreign Ministry: The United States Insists on Its Unilateral Demands
+- 10/26 00:30 [FirstSquawk] Iranian Foreign Ministry: Tehran has not left the negotiating table, and messages are being conveyed through intermediaries.
+- 10/26 00:30 [FirstSquawk] Kremlin: Europe must be involved in Ukraine talks
+- 10/26 00:31 [FirstSquawk] Iraqi Prime Minister: The demands of the protesters will be looked into and efforts will be made to achieve them.
+- 10/26 00:58 [financialjuice] Netanyahu at an Arrow missile defense battery: Have intelligence indications Iran and its proxies may try to challenge us with an attack aimed at disrupting the elections.
+- 10/26 01:05 [FirstSquawk] Netanyahu: We have intelligence indicators that Iran and its agents may attempt to launch attacks to disrupt the elections
+- 10/26 01:05 [FirstSquawk] Russian Ministry of Defense: Ship heading to Odesa port was targeted as it was transporting supplies for Ukrainian forces
+- 10/26 01:06 [FirstSquawk] Palestinian media: Casualties reported in Israeli airstrike targeting Sheikh Nasser neighborhood east of Khan Younis city in southern Gaza Strip
+- 10/26 01:07 [FirstSquawk] Trump: We will not strike Iran today

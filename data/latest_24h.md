@@ -7,71 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-25 21:10 JST／対象: 10/24 21:10 〜 10/25 21:10 JST（時刻はすべて日本時間）
+生成: 2026-10-26 01:14 JST／対象: 10/25 01:14 〜 10/26 01:14 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 6 | 10/25 03:55 | 10/25 19:23 | ⚠ 835分（05:28→19:23） |
-| FirstSquawk | 150 | 10/24 21:12 | 10/25 20:23 | ⚠ 356分（03:12→09:08） |
-| financialjuice | 22 | 10/24 21:11 | 10/25 20:37 | ⚠ 492分（12:25→20:37） |
+| DeItaone | 7 | 10/25 03:55 | 10/25 22:35 | ⚠ 835分（05:28→19:23） |
+| FirstSquawk | 145 | 10/25 01:26 | 10/26 01:07 | ⚠ 356分（03:12→09:08） |
+| financialjuice | 26 | 10/25 04:01 | 10/26 00:58 | ⚠ 492分（12:25→20:37） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 178 行（統合前 179 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 171 行（統合前 179 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/24 21:11 [financialjuice] Trump: May relocate White House press corps to new site
-- 10/24 21:12 [FirstSquawk] TRUMP SAYS 'MAY MOVE' WHITE HOUSE PRESS CORP TO A DIFFERENT LOCATION
-- 10/24 21:17 [FirstSquawk] TRUMP SAYS THERE IS A FAKE NEWS REPORT THAT HE IS GOING TO REMOVE THE WHITE HOUSE PRESS ROOM AND BRING BACK THE OLD SWIMMING POOL, WHICH LIES DIRECTLY UNDERNEATH - TRUTH SOCIAL
-- 10/24 21:17 [FirstSquawk] TRUMP SAYS THAT ALTHOUGH HE MAY MOVE THE FAKE NEWS TO A LESS OBNOXIOUS LOCATION, THE OLD SWIMMING POOL WILL NEVER BE BROUGHT BACK, ADDING HE NEVER EVEN THOUGHT TO DO SUCH A STUPID THING - TRUTH SOCIAL
-- 10/24 21:38 [FirstSquawk] TURKISH ARMED FORCES AIM TO PRODUCE 5 MLN KAMIKAZE DRONES WITHIN FIVE YEARS AND 10 MLN WITHIN A DECADE, CHIEF OF GENERAL STAFF GEN. SELCUK BAYRAKTAROGLU SAYS
-- 10/24 21:38 [FirstSquawk] SPOKESMAN FOR IRAN’S REVOLUTIONARY GUARDS SAYS IRAN WILL BECOME THE WORLD’S ABSOLUTE SUPERPOWER IN THE “FINAL WAR,” WITH BRIG. GEN. MOHEBBI SAYING “GOD WILLING, IN THE FINAL WAR WE WILL BECOME THE ABSOLUTE SUPERPOWER OF THE WORLD”
-- 10/24 21:38 [FirstSquawk] U.S. Embassy in Baghdad: Maintaining the highest level of travel advisory for Iraq amid threats of escalating Houthi attacks
-- 10/24 21:39 [FirstSquawk] U.S. Embassy in Baghdad: The Iraqi government cannot guarantee the safety of Americans from acts of violence or sudden conflicts
-- 10/24 21:39 [FirstSquawk] U.S. Embassy in Baghdad: Our ability to provide emergency services to our citizens in Iraq is limited due to security risks
-- 10/24 21:40 [FirstSquawk] Jordanian monarch during a National Security Council meeting: The hand of justice will reach every terrorist, and the security and safety of Jordanians is a red line
-- 10/24 21:43 [financialjuice] Zelenskiy: starlink restrictions completely removed
-- 10/24 21:44 [financialjuice] Iran President Pezeshkian blames US for interim deal failure: 'I still think we should conclude it' - state TV
-- 10/24 21:47 [FirstSquawk] IRAN PRESIDENT PEZESHKIAN BLAMES US FOR FAILURE OF INTERIM DEAL, SAYS HE STILL WANTS TO CONCLUDE IT — STATE TV
-- 10/24 21:59 [FirstSquawk] JOHNSON & JOHNSON ANNOUNCES ERLEADA ® (APALUTAMIDE) TREATMENT BEFORE AND AFTER SURGERY REDUCES RISK OF RECURRENCE OR DEATH BY 62% VERSUS SURGERY ALONE IN HIGH-RISK PROSTATE CANCER
-- 10/24 22:02 [FirstSquawk] Zelensky: Lift all restrictions imposed on Starlink service completely
-- 10/24 22:02 [FirstSquawk] Bezshkian says he still sees a need to move forward with concluding a temporary agreement with Washington.
-- 10/24 22:07 [FirstSquawk] DEFENSE SECRETARY HEGSETH’S OFFICE TRIED TO BLOCK U.S. TROOPS FROM PARTICIPATING IN SUNDAY’S NFL GAME IN PARIS AMID UNREST IN FRANCE, BUT THE PENTAGON PARTIALLY REVERSED THE DECISION AFTER THE STATE DEPARTMENT INTERVENED, CITING THE DIPLOMA…
-- 10/24 22:07 [FirstSquawk] PALANTIR CEO ALEX KARP SAYS HE HAS BEEN YELLING AT VARIOUS IMPORTANT GERMANS IN PRIVATE FOR A LONG TIME THAT IF THEY DO NOT TAKE MIGRATION SERIOUSLY IT IS GOING TO BE A DISASTER, ADDING THAT EVEN IF HE IS WRONG ON EVERY POINT, HE IS RIGHT A…
-- 10/24 22:14 [FirstSquawk] PALANTIR CEO ALEX KARP, ON AI, SAYS THAT WITH A MINOR EXCEPTION IN ISRAEL, CHINA AND THE U.S. ARE THE ONLY RELEVANT COUNTRIES, AND THAT THIS IS ONE THING HE IS APOPLECTIC ABOUT IN EUROPE, SAYING “YOU CAN’T HELP SOMEONE WHO DOESN’T WANT TO B…
-- 10/24 22:23 [FirstSquawk] COUCHE-TARD HAS MADE AN OFFER FOR CUMBERLAND FARMS, VALUING IT AT UP TO $8 BLN - TIMES
-- 10/24 22:24 [FirstSquawk] COUCHE-TARD HAS MADE AN OFFER FOR CUMBERLAND FARMS- TIMES
-- 10/24 22:44 [financialjuice] US updates travel advisories for Gulf and Middle East including Saudi Arabia, Qatar, UAE, Iraq, Lebanon and Israel citing threat of increased Iranian-backed Houthi regional aggression: Security Al
-- 10/24 22:44 [FirstSquawk] U.S. HAS UPDATED TRAVEL ADVISORIES ACROSS THE GULF AND MIDDLE EAST, INCLUDING SAUDI ARABIA, QATAR, UAE, IRAQ, LEBANON AND ISRAEL, CITING THE “THREAT OF INCREASED IRANIAN-SUPPORTED HOUTHI REGIONAL AGGRESSION” - SECURITY ALERTS
-- 10/24 22:51 [financialjuice] Ukraine drone reaches industrial hub of Russia’s Omsk: governor
-- 10/24 22:51 [FirstSquawk] UKRAINIAN DRONES REACHED THE INDUSTRIAL HUB OF RUSSIA’S OMSK - GOVERNOR
-- 10/24 22:55 [financialjuice] Ukrainian drones reached industrial hub of Russia’s Omsk: governor
-- 10/24 22:59 [FirstSquawk] A CNT/MDA POLL SHOWS FLAVIO BOLSONARO WITH 46.3% OF THE VOTE VERSUS LULA’S 45.0% IN A BRAZIL PRESIDENTIAL RUNOFF, OR 50.7% VERSUS 49.3% OF VALID VOTES
-- 10/24 22:59 [FirstSquawk] Iranian Revolutionary Guard Spokesman: Our response will be multiplied against any move by the enemy, even if it is limited.
-- 10/24 22:59 [FirstSquawk] Hearing the sound of 3 explosions in Aden
-- 10/24 23:00 [FirstSquawk] Wall Street Journal: The American aircraft carrier George Washington receives large shipments of ammunition and missiles in anticipation of a potential escalation against Iran.
-- 10/24 23:20 [FirstSquawk] Echoes of explosions in the city of Aden in southern Yemen
-- 10/24 23:20 [FirstSquawk] Israeli airstrike on the outskirts of Beit Lif town in the Bent Jbeil district, southern Lebanon
-- 10/24 23:38 [FirstSquawk] AMGEN SAYS NEARLY 80% OF PATIENTS ON IMDELLTRA-IMFINZI WERE ALIVE AT ONE YEAR VERSUS 53% WITH DURVALUMAB ALONE, WITH PROGRESSION-FREE SURVIVAL MORE THAN TRIPLED, AND THAT THE COMBINATION REDUCED THE RISK OF DEATH BY 58% IN FIRST-LINE EXTENS…
-- 10/24 23:38 [FirstSquawk] AMGEN SAYS IMDELLTRA PLUS DURVALUMAB EXTENDS MEDIAN OVERALL SURVIVAL TO 21.1 MONTHS VERSUS 12.7 MONTHS WITH DURVALUMAB ALONE, WITH THE SAFETY PROFILE CONSISTENT WITH THE KNOWN PROFILES OF THE INDIVIDUAL MEDICINES, AND GRADE 3 OR HIGHER ADVE…
-- 10/25 00:32 [FirstSquawk] SEVERAL SENIOR TRUMP ADVISERS BELIEVE AN ISRAELI GOVERNMENT WITHOUT NETANYAHU COULD BE EASIER TO WORK WITH, DESPITE TRUMP’S ENDORSEMENT AHEAD OF TUESDAY’S ELECTION, WITH JD VANCE HAVING GROWN DISILLUSIONED WITH NETANYAHU OVER THE IRAN WAR A…
-- 10/25 00:32 [FirstSquawk] THREE MAJOR ISRAELI POLLS PROJECT JUST 50 SEATS FOR NETANYAHU’S BLOC, RAISING THE PROSPECT OF A DEADLOCK THAT COULD KEEP HIM IN POWER AS CARETAKER PRIME MINISTER - AXIOS
-- 10/25 00:33 [FirstSquawk] A MASSIVE FIRE BROKE OUT AT THE OMSKY KAUCHUK CHEMICAL PLANT IN RUSSIA’S OMSK FOLLOWING REPORTED UKRAINIAN DRONE STRIKES, WITH THE FACILITY LOCATED MORE THAN 2,500 KM FROM UKRAINE
-- 10/25 00:55 [FirstSquawk] Yemeni Government Forces: Houthi Militia Shells the Temporary Capital #Aden with Ballistic Missiles
-- 10/25 00:55 [FirstSquawk] Houthi Spokesman Houthi: We targeted Al-Nasr Camp and the Naval Military Base in Aden
-- 10/25 00:56 [FirstSquawk] Yemeni Ministry of Interior: Houthi militia shelled the Coast Guard headquarters in the temporary capital with 3 ballistic missiles Aden
-- 10/25 00:56 [FirstSquawk] Wall Street Journal on US officials: Trump briefed on options including striking Iranian nuclear facilities and islands controlled by Tehran
-- 10/25 00:56 [FirstSquawk] Wall Street Journal on US officials: Our warships in the Middle East are preparing for potential strikes on Iran within weeks
-- 10/25 00:56 [FirstSquawk] Wall Street Journal on US officials: Trump leans toward resuming major operations against Iran despite no final decision yet
-- 10/25 00:56 [FirstSquawk] Wall Street Journal on US officials: Washington has evacuated individuals from military bases in the Middle East in anticipation of an Iranian strike
-- 10/25 00:57 [FirstSquawk] President of the UAE offers condolences by phone to the King of Jordan over the victims of the targeting of a church in Karak.
-- 10/25 00:57 [FirstSquawk] Sheikh Mohammed bin Zayed affirms the United Arab Emirates' solidarity with Jordan against all that targets the disruption of its security and the safety of its citizens.
-- 10/25 00:57 [FirstSquawk] Lebanese News Agency: Major Israeli explosion in Yahmor al-Shaqif, whose echoes reverberated across various areas of southern Lebanon
-- 10/25 00:57 [FirstSquawk] French Press Agency: Houthis claim attack on naval base in Aden
 - 10/25 01:26 [FirstSquawk] French Police: Use of Tear Gas and Water Cannons in Paris After Clashes Erupt
 - 10/25 01:26 [FirstSquawk] French Interior Ministry: 410 thousand protesters participated in social protests across various parts of France today.
 - 10/25 01:27 [FirstSquawk] Houthi Spokesman Houthi: We targeted King Fahd International Airport in Dammam, Najran Airport, and Khamis Mushait Airbase
@@ -202,3 +154,44 @@
 - 10/25 20:22 [FirstSquawk] Lebanese News Agency: The Israeli army carries out a large explosion in the town of Yahmour al-Shaqif in the Nabatieh District, southern Lebanon.
 - 10/25 20:23 [FirstSquawk] Three Palestinians killed in an Israeli airstrike that targeted, for the second time, the grounds of the Islamic University in Gaza City.
 - 10/25 20:37 [financialjuice] Iran's air defence shoots down Lucas drone near southern Bandar Abbas: Tasnim
+- 10/25 21:21 [FirstSquawk] International Organization for Migration: Number of displaced in Yemen exceeds 268 thousand, and arrival of 3836 Yemenis to Djibouti by sea
+- 10/25 21:21 [FirstSquawk] Syrian media: An Israeli force carries out bulldozing operations on lands in the forest of the town of Jibata al-Khashab in the countryside of Quneitra Governorate
+- 10/25 21:24 [FirstSquawk] Britain needs ‘chainsaw economics’ - FT
+- 10/25 21:24 [FirstSquawk] US voters worried about corruption under Trump — FT poll
+- 10/25 21:25 [FirstSquawk] Audi to build $4bn US plant as it grapples with tariffs - FT
+- 10/25 21:25 [FirstSquawk] Marc Lore’s Wonder bets on Texas, automation and user-built restaurants as it mulls IPO - CNBC
+- 10/25 21:45 [FirstSquawk] Maysan Provincial Council President calls on the Iraqi government to expedite the reopening of the Shalamcheh border crossing with Iran.
+- 10/25 21:45 [FirstSquawk] Maysan Provincial Council President: We will declare civil disobedience and separate the province from Iraq if our demand is not met.
+- 10/25 21:46 [FirstSquawk] London’s most famous shopping street bans cars in bid to revive its fortunes - FT
+- 10/25 22:09 [financialjuice] Qatari mediators in Tehran on Sunday in effort to ease regional tensions: official briefed on situation - source
+- 10/25 22:09 [financialjuice] Qatari mediation effort coordinated with US: source
+- 10/25 22:14 [financialjuice/FirstSquawk] Libya's NOC restarts Brega refinery after maintenance shutdown: statement
+- 10/25 22:17 [financialjuice/FirstSquawk] Canada's PM Carney: Crown Prince of Abu Dhabi to visit Ottawa from October 26 to 27
+- 10/25 22:17 [financialjuice/FirstSquawk] Libya's NOC announces restart of Sirte company's two methanol plants after maintenance: statement
+- 10/25 22:20 [financialjuice/FirstSquawk] Libya's Sirte Oil Co. resumes natural gas processing unit at Brega plant after years-long closure: statement
+- 10/25 22:20 [financialjuice/FirstSquawk] Libya's Sirte oil firm says Brega gas unit restart will supply 60 million cubic feet of gas to system instead of flaring it - statement
+- 10/25 22:21 [financialjuice/FirstSquawk] One killed in Ukrainian missile strike on industrial site in Russia's Lipetsk region: governor
+- 10/25 22:24 [financialjuice/FirstSquawk] Saudi civil defense: shrapnel from intercepting two ballistic missiles launched by Yemen's Houthis in Khamis Mushait and Ahad Rafidah injures two people
+- 10/25 22:35 [DeItaone] QATAR MEDIATES IN IRAN AS U.S. SEEKS TO EASE TENSIONS Qatari mediators are in Tehran as part of a diplomatic effort coordinated with the United States to de-escalate regional tensions, Reuters reports. The initiative comes amid heightened c…
+- 10/25 23:25 [FirstSquawk] Trump to Fox News: My question now is whether I strike a deal with the Iranians or finish them off for good
+- 10/25 23:25 [FirstSquawk] Trump to Fox News: The Iranians are not making any big moves regarding the nuclear facilities and we are monitoring the situation
+- 10/26 00:04 [FirstSquawk] Israeli Army: Our forces worked last night to seal the homes of the two perpetrators of the Hebron operation, and they will be demolished later.
+- 10/26 00:04 [FirstSquawk] Tasnim Agency quoting the Iranian Foreign Ministry spokesman: We have never left the negotiations and we exchange messages with America through intermediaries.
+- 10/26 00:04 [FirstSquawk] Tasnim Agency quoting the Iranian Foreign Ministry spokesman: The problem lies in the fact that Washington appears insistent and steadfast in its unilateral demands.
+- 10/26 00:05 [FirstSquawk] Carney’s energy ambitions boosted by Conservative victory in British Columbia - FT
+- 10/26 00:27 [FirstSquawk] Libyan Unity Government's Foreign Ministry: Summoning the US Chargé d'Affaires Following Offensive Statements from Washington Against Libya
+- 10/26 00:28 [FirstSquawk] "Axios": Netanyahu pressures Trump to offer more support ahead of Tuesday's elections
+- 10/26 00:29 [FirstSquawk] "Axios": The White House sees Netanyahu's intensified moves to pressure Trump as "a sign of desperation"
+- 10/26 00:29 [FirstSquawk] "Axios": Netanyahu proposed to Trump "linguistic formulations" for statements supporting him
+- 10/26 00:29 [FirstSquawk] "Axios": Netanyahu proposed to Trump to conduct outreach to Israeli journalists to express more support for him.
+- 10/26 00:30 [FirstSquawk] "Axios": Netanyahu suggested to Trump "linguistic formulations" for statements supporting him in recent days
+- 10/26 00:30 [FirstSquawk] United Arab Emirates strongly condemns the Houthi group's attempt to target several areas in Saudi Arabia with ballistic missiles.
+- 10/26 00:30 [FirstSquawk] Iranian Foreign Ministry: The United States Insists on Its Unilateral Demands
+- 10/26 00:30 [FirstSquawk] Iranian Foreign Ministry: Tehran has not left the negotiating table, and messages are being conveyed through intermediaries.
+- 10/26 00:30 [FirstSquawk] Kremlin: Europe must be involved in Ukraine talks
+- 10/26 00:31 [FirstSquawk] Iraqi Prime Minister: The demands of the protesters will be looked into and efforts will be made to achieve them.
+- 10/26 00:58 [financialjuice] Netanyahu at an Arrow missile defense battery: Have intelligence indications Iran and its proxies may try to challenge us with an attack aimed at disrupting the elections.
+- 10/26 01:05 [FirstSquawk] Netanyahu: We have intelligence indicators that Iran and its agents may attempt to launch attacks to disrupt the elections
+- 10/26 01:05 [FirstSquawk] Russian Ministry of Defense: Ship heading to Odesa port was targeted as it was transporting supplies for Ukrainian forces
+- 10/26 01:06 [FirstSquawk] Palestinian media: Casualties reported in Israeli airstrike targeting Sheikh Nasser neighborhood east of Khan Younis city in southern Gaza Strip
+- 10/26 01:07 [FirstSquawk] Trump: We will not strike Iran today
