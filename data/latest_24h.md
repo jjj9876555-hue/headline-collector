@@ -7,71 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-25 10:40 JST／対象: 10/24 10:40 〜 10/25 10:40 JST（時刻はすべて日本時間）
+生成: 2026-10-25 15:53 JST／対象: 10/24 15:53 〜 10/25 15:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 10/25 03:55 | 10/25 05:28 | ⚠ 85分（03:55→05:20） |
-| FirstSquawk | 187 | 10/24 10:48 | 10/25 10:39 | ⚠ 356分（03:12→09:08） |
-| financialjuice | 43 | 10/24 15:02 | 10/25 07:01 | ⚠ 306分（22:55→04:01） |
+| FirstSquawk | 161 | 10/24 16:10 | 10/25 15:34 | ⚠ 356分（03:12→09:08） |
+| financialjuice | 44 | 10/24 16:02 | 10/25 12:25 | ⚠ 306分（22:55→04:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 232 行（統合前 237 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 207 行（統合前 211 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/24 10:48 [FirstSquawk] Most Russian KAB Guided Bombs Miss Bridge in Ukraine’s Kherson, Falling Into River
-- 10/24 10:51 [FirstSquawk] France’s Centre-Val de Loire Region Retains ‘A+’ Rating as Fitch Keeps Outlook Stable
-- 10/24 10:55 [FirstSquawk] Ireland Retains ‘AA’ Rating as Fitch Keeps Outlook Stable
-- 10/24 10:57 [FirstSquawk] Ukraine’s ‘CCC’ Credit Rating Reaffirmed by Fitch
-- 10/24 11:01 [FirstSquawk] Meta Acquires Sundial, an AI Data Platform, According to Axios
-- 10/24 11:09 [FirstSquawk] Uganda Health Ministry: Travellers With DR Congo Travel History Cannot Transit Through Uganda
-- 10/24 11:15 [FirstSquawk] Uganda Brings Back Traveller Locator Forms for Everyone Entering the Country
-- 10/24 11:23 [FirstSquawk] Kenya’s Index Case Has No Established Travel Link to Nigeria, but Viruses Appear Related, Nigerian Minister Says
-- 10/24 11:28 [FirstSquawk] Nigeria Health Minister: Tests Reveal Close Link Between Nigeria’s Ebola Case and Kenya’s Index Case
-- 10/24 11:35 [FirstSquawk] Norway’s Government Ratings Undergo Periodic Review by Moody’s
-- 10/24 11:38 [FirstSquawk] Strong Earthquake Measuring 6.49 Recorded in Vanuatu Islands, GFZ Says
-- 10/24 11:39 [FirstSquawk] Vanuatu Islands Region Hit by 7.1-Magnitude Earthquake, According to GFZ
-- 10/24 11:41 [FirstSquawk] Uganda Health Ministry Reaffirms Ebola-Free Status Following Case in Nigeria
-- 10/24 11:50 [FirstSquawk] Uganda Restricts Transit for Travellers Who Have Been to the Democratic Republic of Congo
-- 10/24 12:00 [FirstSquawk] US Official Says Abu Dhabi and Switzerland Are Possible Venues for Next Ukraine-Russia Talks
-- 10/24 12:09 [FirstSquawk] NHC Warns Vance Could Reach Major Hurricane Strength Tonight as It Intensifies Rapidly
-- 10/24 12:17 [FirstSquawk] Soaring Home Prices Squeeze Vietnamese Buyers as Property Sales Sink to Their Lowest Since 2021
-- 10/24 12:22 [FirstSquawk] Colombia’s Ecopetrol Forecasts Q3 Oil Output at 740,000–750,000 BPD
-- 10/24 12:33 [FirstSquawk] CMPC’s Forestry Asset Disposal Has No Rating Impact, Fitch Says
-- 10/24 12:58 [FirstSquawk] Colombia’s Ecopetrol Forecasts Third-Quarter Revenue of 33–36 Trillion Pesos
-- 10/24 12:58 [FirstSquawk] Ecopetrol Estimates Third-Quarter Revenues at 33–36 Trillion Pesos
-- 10/24 13:44 [FirstSquawk] France is in revolt. But the real storm is yet to come - FT
-- 10/24 13:44 [FirstSquawk] Spyware Pioneer Behind Pegasus Pushes Governments to Choose His Tech Instead of US AI - FT
-- 10/24 13:44 [FirstSquawk] Newer Exchanges Battle for ETF Business as They Take on Wall Street’s Biggest Markets - FT
-- 10/24 14:06 [FirstSquawk] UK Budget Hopes Rise on a Small Stroke of Luck - FT
-- 10/24 14:07 [FirstSquawk] Chinese Luxury Brands Gear Up to Take on Western Rivals - FT
-- 10/24 14:08 [FirstSquawk] NASA FIRMS Imagery Shows Damage to Key Energy Node Supplying Crimea After Overnight Attack
-- 10/24 14:10 [FirstSquawk] AI Demand Drives Mitsubishi Materials to Increase Thermal Sensor Output
-- 10/24 14:12 [FirstSquawk] NYT Reports Official as Saying Iran Seeks More Than It Can Achieve
-- 10/24 14:14 [FirstSquawk] WSJ: JetBlue Creditors Coordinate With PJT Partners on Restructuring Efforts
-- 10/24 14:15 [FirstSquawk] China Eyes Doubling AI Computing Capacity While Remaining Reliant on US Chips
-- 10/24 14:17 [FirstSquawk] US Stocks to Become Accessible During Japan’s Daytime, Reshaping Trading Hours for Asian Investors
-- 10/24 14:20 [FirstSquawk] Pakistan’s Russia Outreach Faces Hurdles From Moscow’s Ties With Kabul, New Delhi and US Sanctions - NA
-- 10/24 14:24 [FirstSquawk] Three Diesel-Laden Oil Tankers Sailing Toward North America, Russian Official Reports
-- 10/24 14:26 [FirstSquawk] Intelligence Memo Flags Potential Iranian Threats Against US Personnel in the Middle East - FT
-- 10/24 14:32 [FirstSquawk] China Undertakes Comprehensive Study of Turkey’s Largest Rare Earth Resource
-- 10/24 14:37 [FirstSquawk] UK Commits $800 Million to Boost Artificial Intelligence Security - RTRS
-- 10/24 14:40 [FirstSquawk] US Official Calls for Stronger Japan Alliance to Bolster Deterrence
-- 10/24 14:52 [FirstSquawk] Nigeria Ebola Infection Linked to Kenya’s Index Case, Health Minister Says - RTRS
-- 10/24 14:52 [FirstSquawk] US Stocks Close Lower as Tech Shares Find Stability After a Volatile Week for AI Investments- RTRS
-- 10/24 15:02 [financialjuice] ECB releases media interview with Milano Finanza
-- 10/24 15:03 [financialjuice] North Korea's Kim Jong Un to visit China: S.Korean media
-- 10/24 15:04 [FirstSquawk] US EMBASSY IN AMMAN: IT IS CLOSELY MONITORING 'TERROR ATTACK' ON GREEK ORTHODOX CHURCH IN JORDAN'S KARAK
-- 10/24 15:32 [FirstSquawk] German police said they had detained a suspect after fire broke out at a historic mountain guest house known as the "Eagle's Nest," used as a retreat by Nazi officials, including the dictator Adolf Hitler. Police are investigating whether t…
-- 10/24 15:33 [FirstSquawk] North Korea's Kim Jong Un arrives in Dandong, China, Yonhap
-- 10/24 15:34 [FirstSquawk] US President Donald Trump suggested sending a US warship close to Cuba’s coast after the Iran war, reviving the prospect of military intervention during a campaign rally in Fort Myers, Florida, on Friday.
-- 10/24 15:34 [FirstSquawk] China's fiscal revenue grew steadily in the first three quarters of 2026, with general public budget revenue reaching about 17.23 trillion yuan (about 2.56 trillion U.S. dollars) during the period, latest official data showed.
-- 10/24 15:37 [FirstSquawk] LILLY PRESENTS FIRST CLINICAL DATA IN PLATINUM-SENSITIVE OVARIAN CANCER FOR ITS INVESTIGATIONAL, NEXT-GENERATION, FRΑ-TARGETING ADC AT ESMO 2026
 - 10/24 16:02 [financialjuice] North Korea's Kim Jong Un appears to have reached Dandong, China via newly opened bridge: South Korean government source
 - 10/24 16:10 [FirstSquawk] Jordanian media: Death toll from attack on Karak church rises to 8
 - 10/24 16:10 [FirstSquawk] President Trump on Iran: The other is oil, and the oil went up. We had it very low, and I knew that would happen, but it was a choice. It's a small price to pay for taking a nuclear weapon away from Iran, which is a very evil country.
@@ -256,3 +208,26 @@
 - 10/25 10:36 [FirstSquawk] Trump: We May Have to Settle the Iran Issue Once and for All, or Reach an Agreement
 - 10/25 10:38 [FirstSquawk] Libya’s PM Dbeibah Says Tripoli Is Ready to Discuss Egypt’s Maritime Concerns - RTRS
 - 10/25 10:39 [FirstSquawk] Trump Indicates Openness to Issuing Pardons for Administration Officials - WSN
+- 10/25 11:12 [FirstSquawk] Trump Warns US Could Attack Iran as Tehran Denies Offering Deal to Reopen Strait of Hormuz - htTweets
+- 10/25 11:17 [FirstSquawk] More Than 110,000 March in Paris Before Clashes Prompt Police to Use Tear Gas, Water Cannons - AP
+- 10/25 11:26 [FirstSquawk] Japan’s Bonin Islands Hit by a 6.3-Magnitude Earthquake
+- 10/25 11:37 [FirstSquawk] Taiwan’s Economic Potential Could Expand Through Cross-Strait Reunification, Chinese Professor Says
+- 10/25 11:37 [FirstSquawk] Indians Don’t Create Disturbances on Streets Like in Europe,” Piyush Goyal Says - SCMP
+- 10/25 12:03 [financialjuice] Saudi civil defense issues warning over possible threat in Riyadh - state TV
+- 10/25 12:13 [financialjuice] Saudi civil defense: danger has passed in Riyadh city
+- 10/25 12:25 [financialjuice] Saudi-led coalition: intercepted and destroyed ballistic missile launched by Houthis towards Riyadh
+- 10/25 13:04 [FirstSquawk] Samsung in Focus as Vietnam Police Pursue AI-Powered Security Technology
+- 10/25 13:05 [FirstSquawk] Reliance’s Record IPO Puts Spotlight on Ambani’s Technology Ambitions
+- 10/25 13:08 [FirstSquawk] Australia’s Property Slump Deepens as Rate Hikes and Tax Rules Hit Housing Market
+- 10/25 13:21 [FirstSquawk] Tax Changes, Rising Rates Deepen Australia’s Property Market Weakness
+- 10/25 14:32 [FirstSquawk] Hormuz Losses Prompt Mercuria to Take ‘Dow Jones of Shipping’ to Court - FT
+- 10/25 14:33 [FirstSquawk] Chinese Consumer Slowdown Wipes €250 Billion Off Luxury Groups’ Value – FT
+- 10/25 14:35 [FirstSquawk] Drone Maker Backed by SoftBank Targets Robot Ownership for Every Farmer – FT
+- 10/25 14:59 [FirstSquawk] Russian Officials Say Ukrainian Drone Strike on Car in Belgorod Region Kills One Civilian, Wounds Another
+- 10/25 15:00 [FirstSquawk] Brazilian Voters Face Stark Choice as Latin America Sees Broader Rightward Political Shift - CNN
+- 10/25 15:31 [FirstSquawk] Russian Foreign Minister Sergey Lavrov’s visit to Tehran during a period of repeated US and Israeli threats showed that Iran-Russia relations were too deep to be overshadowed by other issues, Iranian lawmaker Ebrahim Rezaei said on Sunday.
+- 10/25 15:32 [FirstSquawk] Ecb Vucic has pledged continuity, while the unprecedented student-led opposition wants to crack down on graft and boost democracy
+- 10/25 15:32 [FirstSquawk] Iraqi officials suspect that airstrikes destroyed two recent shipments of Chinese-made shoulder-fired air defense systems transferred from Iran to pro-Iranian groups in Iraq, attributing the attacks to Israel.
+- 10/25 15:32 [FirstSquawk] An Iranian lawmaker said on Sunday that any country that allows the United States to use its territory or airspace to attack Iran would become a “legitimate military target
+- 10/25 15:33 [FirstSquawk] Iranian Mehr News Agency: The Islamic Revolutionary Guard Corps (IRGC) targeted the headquarters of the Komela terrorist group in the Balisan region of northern Iraq last night in a preemptive operation.
+- 10/25 15:34 [FirstSquawk] US Fed expected to hold rates steady days ahead of U.S. midterms
