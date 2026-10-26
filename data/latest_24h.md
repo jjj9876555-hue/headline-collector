@@ -7,53 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-26 08:33 JST／対象: 10/25 08:33 〜 10/26 08:33 JST（時刻はすべて日本時間）
+生成: 2026-10-26 10:36 JST／対象: 10/25 10:36 〜 10/26 10:36 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 10/25 19:23 | 10/26 06:16 | ⚠ 371分（22:35→04:47） |
-| FirstSquawk | 186 | 10/25 09:08 | 10/26 07:40 | ⚠ 86分（11:37→13:04） |
-| financialjuice | 32 | 10/25 12:03 | 10/26 07:30 | ⚠ 492分（12:25→20:37） |
+| FirstSquawk | 182 | 10/25 10:38 | 10/26 10:34 | ⚠ 86分（11:37→13:04） |
+| financialjuice | 40 | 10/25 12:03 | 10/26 10:22 | ⚠ 492分（12:25→20:37） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 210 行（統合前 223 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 214 行（統合前 227 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/25 09:08 [FirstSquawk] NYP: Gold-diggers are heading to Silicon Valley, hoping to land wealthy husbands in the AI industry.
-- 10/25 09:09 [FirstSquawk] Trump: We need to restore religion to a much stronger position if we want to be great.
-- 10/25 09:09 [FirstSquawk] Saudi-Led Coalition Says It Shot Down Two Missiles Fired by Yemen’s Houthis
-- 10/25 09:10 [FirstSquawk] New York Archdiocese Wins Approval for $800 Million Abuse Settlement - RTRS
-- 10/25 09:11 [FirstSquawk] Trump Revives ‘You’re Fired’ Catchphrase in Georgia, Takes Aim at Democrats and Ossoff - FOX NEWS
-- 10/25 09:11 [FirstSquawk] Asia Faces Rising Methamphetamine Seizures as Myanmar Fuels Supply and Thailand Grapples With Cheap Drugs
-- 10/25 09:33 [FirstSquawk] Russia’s Belgorod Region Hit by Massive Ukrainian Drone Attack on 163,000-Square-Meter Shopping Complex, Locals Say
-- 10/25 09:33 [FirstSquawk] Trump Says US Should Prioritize Immigrants From Norway, Sweden and Denmark
-- 10/25 09:34 [FirstSquawk] Trump Boasts: Greenland and Venezuela, We Got Them Both for Zero
-- 10/25 09:35 [FirstSquawk] Trump Mobilizes Georgia Voters as Nationwide Midterm Showdown Gains Momentum
-- 10/25 09:36 [FirstSquawk] Barcelona Hit by Riots as Protesters Loot Shops and Set Fires, Leading to Arrests
-- 10/25 09:36 [FirstSquawk] New York Times Reports Discovery of Bodies of Salvadoran Soldiers Ambushed in Haiti
-- 10/25 09:37 [FirstSquawk] Ukraine Reports Restored Starlink Speeds After SpaceX Limits Service Over Drone Attacks - CBS
-- 10/25 09:39 [FirstSquawk] Beijing Urges US to Drop Proposal to Broaden Restrictions on Overseas Investments
-- 10/25 09:41 [FirstSquawk] Turin Hit by Riots as Unrest Breaks Out Across the Italian City - WSN
-- 10/25 09:43 [FirstSquawk] China’s Weakening Economy Leaves Young People Facing a “Lost Generation,” WSJ Says
-- 10/25 09:48 [FirstSquawk] Italy Hit by Wave of Protests Amid Heightened Security and Reports of Violence - RTRS
-- 10/25 09:51 [FirstSquawk] North Korea’s Kim Returns From China After Attending War Memorial Event, State Media Reports - RTRS
-- 10/25 09:52 [FirstSquawk] FoxBusiness - Russian Diesel Tanker Heads to New York as Trump-Putin Deal Targets Lower Fuel Prices
-- 10/25 09:54 [FirstSquawk] US Energy Executives Leave Alaska LNG Startup After Learning of Undisclosed Novatek Backing, WSJ Reports
-- 10/25 09:56 [FirstSquawk] Yemen’s Al Wahat Area North of Aden Hit by Houthi Shelling, Al Arabiya Reports
-- 10/25 09:59 [FirstSquawk] North Korea’s Kim Jong Un Crosses Bridge to Return Home From China, KCNA Says
-- 10/25 10:08 [FirstSquawk] North Korean Leader Kim Jong Un Visits China War Memorial Honoring Korean War Contribution in Dandong
-- 10/25 10:08 [FirstSquawk] North Korea’s Kim Jong Un Makes Visit to China, KCNA Reports
-- 10/25 10:14 [FirstSquawk] Japan’s PM to Ask Germany to Push for Favorable Treatment of EVs Under EU Rules
-- 10/25 10:16 [FirstSquawk] Houthis Say Attacks on Saudi Arabia’s King Khalid Airport Will Continue
-- 10/25 10:23 [FirstSquawk] Toyota to Produce Next-Generation Corolla in China Using Flexible Powertrain Platform
-- 10/25 10:23 [FirstSquawk] Yemen’s Houthis Reiterate Warning Over Riyadh Airport, Threaten Facility as Military Target
-- 10/25 10:25 [FirstSquawk] Obama Targets Trump at Midterm Rally, Accuses President of Unprecedented ‘Incompetence’ - NYT
-- 10/25 10:36 [FirstSquawk] Trump: We May Have to Settle the Iran Issue Once and for All, or Reach an Agreement
 - 10/25 10:38 [FirstSquawk] Libya’s PM Dbeibah Says Tripoli Is Ready to Discuss Egypt’s Maritime Concerns - RTRS
 - 10/25 10:39 [FirstSquawk] Trump Indicates Openness to Issuing Pardons for Administration Officials - WSN
 - 10/25 11:12 [FirstSquawk] Trump Warns US Could Attack Iran as Tehran Denies Offering Deal to Reopen Strait of Hormuz - htTweets
@@ -234,3 +204,37 @@
 - 10/26 07:30 [financialjuice] Anthropic's Claude accessed publicly available Georgia voter data without human permission: Axios
 - 10/26 07:30 [financialjuice] Anthropic's Claude accessed publicly available Georgia voter data without human authorization: Axios
 - 10/26 07:40 [FirstSquawk] JAPAN PLANS SUPPORT FOR BANKS TO FUND GROWTH INVESTMENT – YOMIURI
+- 10/26 08:35 [FirstSquawk] ISRAELI PM PRESSES TRUMP FOR MORE SUPPORT AHEAD OF TIGHT TUESDAY ELECTION – AXIOS
+- 10/26 08:46 [FirstSquawk] OIL PRICES SURGE TO FIVE-MONTH PEAK AS U.S. EQUITIES DECLINE AMID RISING IRAN CONFLICT FEARS
+- 10/26 08:57 [FirstSquawk] TRUMP SAYS THE CANADA TARIFF DISPUTE WILL BE SETTLED SOON AND THAT CANADA IS WILLING TO GIVE THE U.S. ANYTHING AT THIS MOMENT, THOUGH HE PROVIDED NO SPECIFICS ON A POTENTIAL DEAL, SPEAKING AT A MICHIGAN BORDER RALLY
+- 10/26 08:58 [FirstSquawk] LUIZ INÁCIO LULA DA SILVA WON BRAZIL’S PRESIDENTIAL RUNOFF WITH 51% OF THE VOTE AGAINST FLÁVIO BOLSONARO’S 49%, SECURING AN UNPRECEDENTED FOURTH TERM AND DEFEATING THE POLITICAL MOVEMENT BUILT BY FORMER PRESIDENT JAIR BOLSONARO. LULA’S COME…
+- 10/26 08:59 [financialjuice] Trump announces newest flagship national park in US: Chiricahua National Park in Arizona
+- 10/26 09:08 [FirstSquawk] U.S. Factory Jobs Are Rising Again as Employers Adopt New Hiring Strategies - WSJ
+- 10/26 09:12 [FirstSquawk] Brazil’s Lula Leads Bolsonaro by 4.2 Million Votes With 97.69% Counted - CR
+- 10/26 09:12 [FirstSquawk] EUROPEAN NATURAL GAS FUTURES SURGED TO THEIR HIGHEST LEVEL SINCE 2022, DESPITE CRUDE OIL FUTURES FALLING AROUND 1% EARLY MONDAY. THE RALLY LACKED AN IMMEDIATE CATALYST, WITH MARKETS REMAINING SENSITIVE TO ENERGY SUPPLY DISRUPTIONS LINKED TO…
+- 10/26 09:16 [FirstSquawk] AstraZeneca Gets Ready to Expand Its Targeted Cancer Treatment Portfolio - WSJ
+- 10/26 09:20 [financialjuice] China PBOC likely to set yuan midpoint at 6.6691 per dollar: estimate
+- 10/26 09:25 [FirstSquawk] Brazil’s Lula Reelected President Following Presidential Runoff - NA
+- 10/26 09:29 [FirstSquawk] Japanese Auto Manufacturers Seek to Reduce Development Time as Chinese Rivals Gain Ground - KYODO
+- 10/26 09:31 [FirstSquawk] GMO Calls on Japanese Government to Bolster Cyber Defenses Following Security Breach - KYODO
+- 10/26 09:32 [FirstSquawk] Libya Summons American Representative Following Trump’s Controversial Remarks - RTRS
+- 10/26 09:35 [FirstSquawk] Yemen’s Houthi Group Says Attacks on King Khalid Airport Will Continue - FX
+- 10/26 09:38 [FirstSquawk] ASIAN STOCKS FELL 0.2% EARLY MONDAY AS INVESTORS BRACED FOR MEGACAP EARNINGS AND KEY CENTRAL BANK DECISIONS FOLLOWING A VOLATILE WEEK FOR THE AI TRADE. RESULTS FROM MICROSOFT, ALPHABET AND AMAZON WILL TEST INVESTOR CONFIDENCE, WHILE THE FED…
+- 10/26 09:38 [FirstSquawk] BRENT CRUDE SLIPPED ABOUT 1% FROM A SIX-MONTH HIGH TO AROUND $115.60 A BARREL, WHILE GEOPOLITICAL RISKS REMAINED ELEVATED AS US-IRAN TENSIONS INTENSIFIED. INVESTORS ALSO MONITORED PRESSURE ON CHIPMAKERS, WITH THE PHILADELPHIA SEMICONDUCTOR …
+- 10/26 09:40 [FirstSquawk] South Korea’s Stocks Edge Down at Open as Earnings Season and Fed Decision Loom
+- 10/26 09:44 [financialjuice] Saudi civil defense issues warning over potential risk in Riyadh: state TV
+- 10/26 09:45 [FirstSquawk] Saudi Civil Defense Issues Warning for Riyadh Over Possible Danger, State TV Says
+- 10/26 09:48 [FirstSquawk] Asian Stocks Slip at the Open as Oil Gains and Geopolitical Risks Weigh Ahead of Key Earnings and Policy Decisions
+- 10/26 09:53 [FirstSquawk] Samsung SDI Unit Expands U.S. Business With Energy Storage Solutions Supply Deal
+- 10/26 09:59 [FirstSquawk] Pyongyang Claims South Korea Fabricated DMZ Mine Blast Allegations in Letter to UN Security Council
+- 10/26 10:03 [financialjuice] French oat futures rise 0.6% in early Asian trading
+- 10/26 10:04 [FirstSquawk] Aussie Dollar Weakens Even as RBA Signals Potential for Higher Interest Rates
+- 10/26 10:06 [FirstSquawk] Japan’s Government to Discuss Cyberattack Threats at Ministerial Meeting - KYODO
+- 10/26 10:10 [financialjuice] Saudi-led coalition: intercepted and destroyed ballistic missile aimed at Riyadh by Yemen's Houthis
+- 10/26 10:12 [FirstSquawk] Hong Kong Moves to Rein In Premium Financing Market Amid Growing Concerns
+- 10/26 10:17 [financialjuice] China sets yuan midpoint at strongest level since Feb. 2, 2023, according to PBOC
+- 10/26 10:21 [financialjuice] China injects 56 billion yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement
+- 10/26 10:22 [financialjuice] China cbank injects 398 billion yuan through overnight reverse repos: statement
+- 10/26 10:22 [FirstSquawk] China Sets Yuan Fixing at 6.7162 Against the Dollar, Compared With 6.7180 Previously
+- 10/26 10:23 [FirstSquawk] Japan’s Nikkei Falls 0.5%, Led Lower by Semiconductor and Electronics Shares - WSJ
+- 10/26 10:34 [FirstSquawk] North Korea Tells United Nations South Korea Fabricated Allegations Over DMZ Landmine Explosion

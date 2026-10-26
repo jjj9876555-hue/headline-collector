@@ -7,49 +7,30 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-26 08:33 JST／対象: 10/25 20:33 〜 10/26 08:33 JST（時刻はすべて日本時間）
+生成: 2026-10-26 10:36 JST／対象: 10/25 22:36 〜 10/26 10:36 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 3 | 10/25 22:35 | 10/26 06:16 | ⚠ 371分（22:35→04:47） |
-| FirstSquawk | 98 | 10/25 21:21 | 10/26 07:40 | ⚠ 67分（01:34→02:41） |
-| financialjuice | 29 | 10/25 20:37 | 10/26 07:30 | ⚠ 153分（22:24→00:58） |
+| DeItaone | 2 | 10/26 04:47 | 10/26 06:16 | ⚠ 89分（04:47→06:16） |
+| FirstSquawk | 109 | 10/25 23:25 | 10/26 10:34 | ⚠ 67分（01:34→02:41） |
+| financialjuice | 27 | 10/26 00:58 | 10/26 10:22 | ⚠ 95分（01:35→03:11） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 118 行（統合前 131 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 133 行（統合前 138 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/25 20:37 [financialjuice] Iran's air defence shoots down Lucas drone near southern Bandar Abbas: Tasnim
-- 10/25 21:21 [FirstSquawk] International Organization for Migration: Number of displaced in Yemen exceeds 268 thousand, and arrival of 3836 Yemenis to Djibouti by sea
-- 10/25 21:21 [FirstSquawk] Syrian media: An Israeli force carries out bulldozing operations on lands in the forest of the town of Jibata al-Khashab in the countryside of Quneitra Governorate
-- 10/25 21:24 [FirstSquawk] Britain needs ‘chainsaw economics’ - FT
-- 10/25 21:24 [FirstSquawk] US voters worried about corruption under Trump — FT poll
-- 10/25 21:25 [FirstSquawk] Audi to build $4bn US plant as it grapples with tariffs - FT
-- 10/25 21:25 [FirstSquawk] Marc Lore’s Wonder bets on Texas, automation and user-built restaurants as it mulls IPO - CNBC
-- 10/25 21:45 [FirstSquawk] Maysan Provincial Council President calls on the Iraqi government to expedite the reopening of the Shalamcheh border crossing with Iran.
-- 10/25 21:45 [FirstSquawk] Maysan Provincial Council President: We will declare civil disobedience and separate the province from Iraq if our demand is not met.
-- 10/25 21:46 [FirstSquawk] London’s most famous shopping street bans cars in bid to revive its fortunes - FT
-- 10/25 22:09 [financialjuice] Qatari mediators in Tehran on Sunday in effort to ease regional tensions: official briefed on situation - source
-- 10/25 22:09 [financialjuice] Qatari mediation effort coordinated with US: source
-- 10/25 22:14 [financialjuice/FirstSquawk] Libya's NOC restarts Brega refinery after maintenance shutdown: statement
-- 10/25 22:17 [financialjuice/FirstSquawk] Canada's PM Carney: Crown Prince of Abu Dhabi to visit Ottawa from October 26 to 27
-- 10/25 22:17 [financialjuice/FirstSquawk] Libya's NOC announces restart of Sirte company's two methanol plants after maintenance: statement
-- 10/25 22:20 [financialjuice/FirstSquawk] Libya's Sirte Oil Co. resumes natural gas processing unit at Brega plant after years-long closure: statement
-- 10/25 22:20 [financialjuice/FirstSquawk] Libya's Sirte oil firm says Brega gas unit restart will supply 60 million cubic feet of gas to system instead of flaring it - statement
-- 10/25 22:21 [financialjuice/FirstSquawk] One killed in Ukrainian missile strike on industrial site in Russia's Lipetsk region: governor
-- 10/25 22:24 [financialjuice/FirstSquawk] Saudi civil defense: shrapnel from intercepting two ballistic missiles launched by Yemen's Houthis in Khamis Mushait and Ahad Rafidah injures two people
-- 10/25 22:35 [DeItaone] QATAR MEDIATES IN IRAN AS U.S. SEEKS TO EASE TENSIONS Qatari mediators are in Tehran as part of a diplomatic effort coordinated with the United States to de-escalate regional tensions, Reuters reports. The initiative comes amid heightened c…
 - 10/25 23:25 [FirstSquawk] Trump to Fox News: My question now is whether I strike a deal with the Iranians or finish them off for good
 - 10/25 23:25 [FirstSquawk] Trump to Fox News: The Iranians are not making any big moves regarding the nuclear facilities and we are monitoring the situation
 - 10/26 00:04 [FirstSquawk] Israeli Army: Our forces worked last night to seal the homes of the two perpetrators of the Hebron operation, and they will be demolished later.
 - 10/26 00:04 [FirstSquawk] Tasnim Agency quoting the Iranian Foreign Ministry spokesman: We have never left the negotiations and we exchange messages with America through intermediaries.
 - 10/26 00:04 [FirstSquawk] Tasnim Agency quoting the Iranian Foreign Ministry spokesman: The problem lies in the fact that Washington appears insistent and steadfast in its unilateral demands.
 - 10/26 00:05 [FirstSquawk] Carney’s energy ambitions boosted by Conservative victory in British Columbia - FT
+- 10/26 00:08 [FirstSquawk] London’s most famous shopping street bans cars in bid to revive its fortunes - FT
 - 10/26 00:27 [FirstSquawk] Libyan Unity Government's Foreign Ministry: Summoning the US Chargé d'Affaires Following Offensive Statements from Washington Against Libya
 - 10/26 00:28 [FirstSquawk] "Axios": Netanyahu pressures Trump to offer more support ahead of Tuesday's elections
 - 10/26 00:29 [FirstSquawk] "Axios": The White House sees Netanyahu's intensified moves to pressure Trump as "a sign of desperation"
@@ -142,3 +123,37 @@
 - 10/26 07:30 [financialjuice] Anthropic's Claude accessed publicly available Georgia voter data without human permission: Axios
 - 10/26 07:30 [financialjuice] Anthropic's Claude accessed publicly available Georgia voter data without human authorization: Axios
 - 10/26 07:40 [FirstSquawk] JAPAN PLANS SUPPORT FOR BANKS TO FUND GROWTH INVESTMENT – YOMIURI
+- 10/26 08:35 [FirstSquawk] ISRAELI PM PRESSES TRUMP FOR MORE SUPPORT AHEAD OF TIGHT TUESDAY ELECTION – AXIOS
+- 10/26 08:46 [FirstSquawk] OIL PRICES SURGE TO FIVE-MONTH PEAK AS U.S. EQUITIES DECLINE AMID RISING IRAN CONFLICT FEARS
+- 10/26 08:57 [FirstSquawk] TRUMP SAYS THE CANADA TARIFF DISPUTE WILL BE SETTLED SOON AND THAT CANADA IS WILLING TO GIVE THE U.S. ANYTHING AT THIS MOMENT, THOUGH HE PROVIDED NO SPECIFICS ON A POTENTIAL DEAL, SPEAKING AT A MICHIGAN BORDER RALLY
+- 10/26 08:58 [FirstSquawk] LUIZ INÁCIO LULA DA SILVA WON BRAZIL’S PRESIDENTIAL RUNOFF WITH 51% OF THE VOTE AGAINST FLÁVIO BOLSONARO’S 49%, SECURING AN UNPRECEDENTED FOURTH TERM AND DEFEATING THE POLITICAL MOVEMENT BUILT BY FORMER PRESIDENT JAIR BOLSONARO. LULA’S COME…
+- 10/26 08:59 [financialjuice] Trump announces newest flagship national park in US: Chiricahua National Park in Arizona
+- 10/26 09:08 [FirstSquawk] U.S. Factory Jobs Are Rising Again as Employers Adopt New Hiring Strategies - WSJ
+- 10/26 09:12 [FirstSquawk] Brazil’s Lula Leads Bolsonaro by 4.2 Million Votes With 97.69% Counted - CR
+- 10/26 09:12 [FirstSquawk] EUROPEAN NATURAL GAS FUTURES SURGED TO THEIR HIGHEST LEVEL SINCE 2022, DESPITE CRUDE OIL FUTURES FALLING AROUND 1% EARLY MONDAY. THE RALLY LACKED AN IMMEDIATE CATALYST, WITH MARKETS REMAINING SENSITIVE TO ENERGY SUPPLY DISRUPTIONS LINKED TO…
+- 10/26 09:16 [FirstSquawk] AstraZeneca Gets Ready to Expand Its Targeted Cancer Treatment Portfolio - WSJ
+- 10/26 09:20 [financialjuice] China PBOC likely to set yuan midpoint at 6.6691 per dollar: estimate
+- 10/26 09:25 [FirstSquawk] Brazil’s Lula Reelected President Following Presidential Runoff - NA
+- 10/26 09:29 [FirstSquawk] Japanese Auto Manufacturers Seek to Reduce Development Time as Chinese Rivals Gain Ground - KYODO
+- 10/26 09:31 [FirstSquawk] GMO Calls on Japanese Government to Bolster Cyber Defenses Following Security Breach - KYODO
+- 10/26 09:32 [FirstSquawk] Libya Summons American Representative Following Trump’s Controversial Remarks - RTRS
+- 10/26 09:35 [FirstSquawk] Yemen’s Houthi Group Says Attacks on King Khalid Airport Will Continue - FX
+- 10/26 09:38 [FirstSquawk] ASIAN STOCKS FELL 0.2% EARLY MONDAY AS INVESTORS BRACED FOR MEGACAP EARNINGS AND KEY CENTRAL BANK DECISIONS FOLLOWING A VOLATILE WEEK FOR THE AI TRADE. RESULTS FROM MICROSOFT, ALPHABET AND AMAZON WILL TEST INVESTOR CONFIDENCE, WHILE THE FED…
+- 10/26 09:38 [FirstSquawk] BRENT CRUDE SLIPPED ABOUT 1% FROM A SIX-MONTH HIGH TO AROUND $115.60 A BARREL, WHILE GEOPOLITICAL RISKS REMAINED ELEVATED AS US-IRAN TENSIONS INTENSIFIED. INVESTORS ALSO MONITORED PRESSURE ON CHIPMAKERS, WITH THE PHILADELPHIA SEMICONDUCTOR …
+- 10/26 09:40 [FirstSquawk] South Korea’s Stocks Edge Down at Open as Earnings Season and Fed Decision Loom
+- 10/26 09:44 [financialjuice] Saudi civil defense issues warning over potential risk in Riyadh: state TV
+- 10/26 09:45 [FirstSquawk] Saudi Civil Defense Issues Warning for Riyadh Over Possible Danger, State TV Says
+- 10/26 09:48 [FirstSquawk] Asian Stocks Slip at the Open as Oil Gains and Geopolitical Risks Weigh Ahead of Key Earnings and Policy Decisions
+- 10/26 09:53 [FirstSquawk] Samsung SDI Unit Expands U.S. Business With Energy Storage Solutions Supply Deal
+- 10/26 09:59 [FirstSquawk] Pyongyang Claims South Korea Fabricated DMZ Mine Blast Allegations in Letter to UN Security Council
+- 10/26 10:03 [financialjuice] French oat futures rise 0.6% in early Asian trading
+- 10/26 10:04 [FirstSquawk] Aussie Dollar Weakens Even as RBA Signals Potential for Higher Interest Rates
+- 10/26 10:06 [FirstSquawk] Japan’s Government to Discuss Cyberattack Threats at Ministerial Meeting - KYODO
+- 10/26 10:10 [financialjuice] Saudi-led coalition: intercepted and destroyed ballistic missile aimed at Riyadh by Yemen's Houthis
+- 10/26 10:12 [FirstSquawk] Hong Kong Moves to Rein In Premium Financing Market Amid Growing Concerns
+- 10/26 10:17 [financialjuice] China sets yuan midpoint at strongest level since Feb. 2, 2023, according to PBOC
+- 10/26 10:21 [financialjuice] China injects 56 billion yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement
+- 10/26 10:22 [financialjuice] China cbank injects 398 billion yuan through overnight reverse repos: statement
+- 10/26 10:22 [FirstSquawk] China Sets Yuan Fixing at 6.7162 Against the Dollar, Compared With 6.7180 Previously
+- 10/26 10:23 [FirstSquawk] Japan’s Nikkei Falls 0.5%, Led Lower by Semiconductor and Electronics Shares - WSJ
+- 10/26 10:34 [FirstSquawk] North Korea Tells United Nations South Korea Fabricated Allegations Over DMZ Landmine Explosion

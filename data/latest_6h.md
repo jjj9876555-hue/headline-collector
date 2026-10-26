@@ -7,52 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-26 08:33 JST／対象: 10/26 02:33 〜 10/26 08:33 JST（時刻はすべて日本時間）
+生成: 2026-10-26 10:36 JST／対象: 10/26 04:36 〜 10/26 10:36 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 10/26 04:47 | 10/26 06:16 | ⚠ 89分（04:47→06:16） |
-| FirstSquawk | 56 | 10/26 02:41 | 10/26 07:40 | 41分（06:59→07:40） |
-| financialjuice | 17 | 10/26 03:11 | 10/26 07:30 | ⚠ 78分（06:11→07:30） |
+| FirstSquawk | 61 | 10/26 04:38 | 10/26 10:34 | ⚠ 54分（07:40→08:35） |
+| financialjuice | 16 | 10/26 04:49 | 10/26 10:22 | ⚠ 89分（07:30→08:59） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 71 行（統合前 75 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 76 行（統合前 79 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/26 02:41 [FirstSquawk] NETANYAHU AT AN ARROW MISSILE DEFENSE BATTERY: HAVE INTELLIGENCE INDICATIONS IRAN AND ITS PROXIES MAY TRY TO CHALLENGE US WITH AN ATTACK AIMED AT DISRUPTING THE ELECTIONS.
-- 10/26 02:43 [FirstSquawk] EUR/USD RALLIES 1.4% FROM OCTOBER LOWS AMID RESISTANCE AT 1.1156
-- 10/26 02:43 [FirstSquawk] TRUMP: WE WILL NOT ATTACK IRAN TODAY.
-- 10/26 02:47 [FirstSquawk] TRUMP SAYS FOX NEWS IS SPENDING FAR TOO MUCH TIME PUTTING ON THE OPPONENTS OF REPUBLICAN PARTY CANDIDATES, PEOPLE WHO LOVE THE COUNTRY AND HAVE GREAT POLICIES AND IDEAS - TRUTH SOCIAL
-- 10/26 02:47 [FirstSquawk] TRUMP SAYS THESE “AMERICAN PATRIOTS” ARE BEING ABSOLUTELY “BLURRED OUT” BY THE MEDIA AND THAT FOX IS DOING LITTLE TO HELP, CALLING IT THE ONLY REASON THE RACE IS CLOSE, “IF IT IS INDEED CLOSE” - TRUTH SOCIAL
-- 10/26 02:49 [FirstSquawk] TRUMP SAYS HE IS HEADING TO MICHIGAN TO FIGHT WHAT HE CALLS A “JIHADIST MEMBER OF THE MUSLIM BROTHERHOOD,” ABDULRAHMAN MOHAMED EL-SAYED, SAYING HE SHOULD NEVER BE ALLOWED INSIDE THE CAPITOL BUILDING AND THAT EVERYTHING HE STANDS FOR IS BAD …
-- 10/26 02:49 [FirstSquawk] TRUMP SAYS THAT BECAUSE OF HIM THE AUTO INDUSTRY IS DOING BETTER THAN EVER, ESPECIALLY IN MICHIGAN, AND THAT HE SAVED SELFRIDGE AIR FORCE BASE WHEN DEMOCRATS WERE CLOSING IT DOWN, SAVING THOUSANDS OF JOBS - TRUTH SOCIAL
-- 10/26 02:49 [FirstSquawk] TRUMP SAYS EL-SAYED “WANTS OUR COUNTRY TO GO TO SHARIA LAW” AND THAT “IF IT EVER DOES, HE SHOULD BE THE FIRST THAT’S TRIED” - TRUTH SOCIAL
-- 10/26 02:53 [FirstSquawk] OBAMA TARGETS HEGSETH'S TROOP IMAGE AND IRAN STRATEGY IN DETROIT RALLY
-- 10/26 02:53 [FirstSquawk] UK AND CANADA REITERATED THEIR COMMITMENT TO STRENGTHEN DEFENCE FINANCING AND AGREED TO DEVELOP A FRAMEWORK OF COOPERATION, SAYING THEY WILL SUPPORT EACH OTHER ON INVESTMENTS AND FINANCING
-- 10/26 02:57 [FirstSquawk] GLOBAL OIL PRICES COULD SURGE PAST $150 IF CONFLICTS RESTART
-- 10/26 03:10 [FirstSquawk] U.S. SECRETARY OF STATE RUBIO SAYS THE CONDITIONS FOR THE RETURN OF MACHADO WERE THE RESULT OF U.S. TALKS, AND THAT THE U.S. EXPECTS ALL ACTORS TO BACK RECONCILIATION TALKS, WHICH HE SAYS OFFER THE BEST CHANCE FOR VENEZUELA DEMOCRACY
-- 10/26 03:11 [FirstSquawk/financialjuice] TURNOUT IN SERBIA'S PARLIAMENTARY ELECTION HITS 64.9% BY 6 P.M., STATE ELECTION COMMISSION SAYS, HIGHEST SINCE BREAKUP OF YUGOSLAVIA IN 1992
-- 10/26 03:13 [FirstSquawk] BRENT CRUDE HITS $116.72, HIGHEST SINCE APRIL, AMID RISING MIDDLE EAST TENSIONS
-- 10/26 03:22 [FirstSquawk] BON SECOURS IS NEARING A $6 BLN TAKEOVER OF SURGERY PARTNERS IN A DEAL THAT VALUES THE GROUP AT ABOUT $20/SHARE, WITH THE DEAL POSSIBLY ANNOUNCED AS SOON AS MONDAY - FT
-- 10/26 03:45 [financialjuice] Algerian parliament approves resolution to deploy troops to Niger: statement
-- 10/26 03:50 [financialjuice] Zelenskiy: Starshield service restored with speeds up to 420 kph
-- 10/26 03:50 [financialjuice] Zelenskiy: US intelligence sharing on Russian ballistic missile strike warnings fully resumes
-- 10/26 03:51 [financialjuice] Zelenskiy: US, Ukraine, Russia trilateral meeting planned for November
-- 10/26 04:00 [financialjuice] Poll: RBNZ cash rate to finish year at 3.00%, 13 of 23 economists say, but 9 expect increase to 3.25% in December
-- 10/26 04:00 [financialjuice] Poll: Reserve Bank of New Zealand to raise cash rate by 25 basis points to 3.00% on October 28, 22 of 27 economists predict
-- 10/26 04:02 [financialjuice] Zelenskiy: progress on unlocking Patriot missile supplies to Ukraine very slow
-- 10/26 04:03 [FirstSquawk] ZELENSKIY SAYS A U.S., UKRAINE AND RUSSIA TRILATERAL MEETING IS PLANNED FOR NOVEMBER, AND THAT U.S. INTELLIGENCE SHARING ON RUSSIAN BALLISTIC MISSILE STRIKE WARNINGS HAS FULLY RESUMED
-- 10/26 04:03 [FirstSquawk] ZELENSKIY SAYS STARSHIELD SERVICE HAS BEEN RESTORED WITH SPEEDS UP TO 420 KPH, BUT THAT PROGRESS ON UNLOCKING PATRIOT MISSILE SUPPLIES TO UKRAINE IS VERY SLOW
-- 10/26 04:05 [FirstSquawk] AWS CLOUD CAPACITY FULLY BOOKED THROUGH 2027 AS AI DEMAND SURGES, CEO SAYS
-- 10/26 04:07 [financialjuice] Zelenskiy on talks: territory issue only for heads of state, technical talks cover other matters
-- 10/26 04:32 [FirstSquawk] MUSK SAYS THE 200-PLUS NEOCLOUDS WILL SEE CONSOLIDATION AMID TOUGH DEBT MARKETS, AND THAT SOME WILL MAKE IT THROUGH, BUT NOT MANY
-- 10/26 04:34 [FirstSquawk] TRUMP SAYS THE U.S. IS GETTING CLOSE TO A DEAL WITH CANADA THAT COULD COME BEFORE THE ELECTIONS, AND THAT ON BUILDING CAR PLANTS HE IS ANNOUNCING ONE TODAY
-- 10/26 04:34 [FirstSquawk] TRUMP SAYS HE IS NOT CONCERNED IRAN WOULD REBUILD URANIUM IN MONTHS
 - 10/26 04:38 [FirstSquawk] THE BLACK SEA HAS BECOME THE WORLD’S DEADLIEST SHIPPING ROUTE FOR MERCHANT SAILORS, WITH MORE THAN 570 VESSELS STRUCK AND AT LEAST 40 SEAFARERS KILLED THIS YEAR, EXCEEDING THE 24 SAILORS KILLED IN THE STRAIT OF HORMUZ OVER THE SAME PERIOD -…
 - 10/26 04:38 [FirstSquawk] ATTACKS SURGED IN THE THIRD QUARTER, WITH ABOUT 387 SHIPS HIT BETWEEN JULY AND SEPTEMBER, MORE THAN FOUR A DAY, AFTER UKRAINE LAUNCHED A CAMPAIGN AGAINST RUSSIAN-LINKED VESSELS AND RUSSIA STEPPED UP STRIKES ON SHIPS CALLING AT UKRAINIAN POR…
 - 10/26 04:38 [FirstSquawk] THE STRIKES HAVE SPREAD INTO THE WATERS OF NATO MEMBERS ROMANIA AND BULGARIA, WHERE THE COMOROS-FLAGGED KHORYV CAPSIZED AFTER A DRONE STRIKE OFF CONSTANTA ON FRIDAY, KILLING ONE SAILOR AND LEAVING THREE MISSING, WHILE GREATER ODESA PORTS HA…
@@ -95,3 +66,37 @@
 - 10/26 07:30 [financialjuice] Anthropic's Claude accessed publicly available Georgia voter data without human permission: Axios
 - 10/26 07:30 [financialjuice] Anthropic's Claude accessed publicly available Georgia voter data without human authorization: Axios
 - 10/26 07:40 [FirstSquawk] JAPAN PLANS SUPPORT FOR BANKS TO FUND GROWTH INVESTMENT – YOMIURI
+- 10/26 08:35 [FirstSquawk] ISRAELI PM PRESSES TRUMP FOR MORE SUPPORT AHEAD OF TIGHT TUESDAY ELECTION – AXIOS
+- 10/26 08:46 [FirstSquawk] OIL PRICES SURGE TO FIVE-MONTH PEAK AS U.S. EQUITIES DECLINE AMID RISING IRAN CONFLICT FEARS
+- 10/26 08:57 [FirstSquawk] TRUMP SAYS THE CANADA TARIFF DISPUTE WILL BE SETTLED SOON AND THAT CANADA IS WILLING TO GIVE THE U.S. ANYTHING AT THIS MOMENT, THOUGH HE PROVIDED NO SPECIFICS ON A POTENTIAL DEAL, SPEAKING AT A MICHIGAN BORDER RALLY
+- 10/26 08:58 [FirstSquawk] LUIZ INÁCIO LULA DA SILVA WON BRAZIL’S PRESIDENTIAL RUNOFF WITH 51% OF THE VOTE AGAINST FLÁVIO BOLSONARO’S 49%, SECURING AN UNPRECEDENTED FOURTH TERM AND DEFEATING THE POLITICAL MOVEMENT BUILT BY FORMER PRESIDENT JAIR BOLSONARO. LULA’S COME…
+- 10/26 08:59 [financialjuice] Trump announces newest flagship national park in US: Chiricahua National Park in Arizona
+- 10/26 09:08 [FirstSquawk] U.S. Factory Jobs Are Rising Again as Employers Adopt New Hiring Strategies - WSJ
+- 10/26 09:12 [FirstSquawk] Brazil’s Lula Leads Bolsonaro by 4.2 Million Votes With 97.69% Counted - CR
+- 10/26 09:12 [FirstSquawk] EUROPEAN NATURAL GAS FUTURES SURGED TO THEIR HIGHEST LEVEL SINCE 2022, DESPITE CRUDE OIL FUTURES FALLING AROUND 1% EARLY MONDAY. THE RALLY LACKED AN IMMEDIATE CATALYST, WITH MARKETS REMAINING SENSITIVE TO ENERGY SUPPLY DISRUPTIONS LINKED TO…
+- 10/26 09:16 [FirstSquawk] AstraZeneca Gets Ready to Expand Its Targeted Cancer Treatment Portfolio - WSJ
+- 10/26 09:20 [financialjuice] China PBOC likely to set yuan midpoint at 6.6691 per dollar: estimate
+- 10/26 09:25 [FirstSquawk] Brazil’s Lula Reelected President Following Presidential Runoff - NA
+- 10/26 09:29 [FirstSquawk] Japanese Auto Manufacturers Seek to Reduce Development Time as Chinese Rivals Gain Ground - KYODO
+- 10/26 09:31 [FirstSquawk] GMO Calls on Japanese Government to Bolster Cyber Defenses Following Security Breach - KYODO
+- 10/26 09:32 [FirstSquawk] Libya Summons American Representative Following Trump’s Controversial Remarks - RTRS
+- 10/26 09:35 [FirstSquawk] Yemen’s Houthi Group Says Attacks on King Khalid Airport Will Continue - FX
+- 10/26 09:38 [FirstSquawk] ASIAN STOCKS FELL 0.2% EARLY MONDAY AS INVESTORS BRACED FOR MEGACAP EARNINGS AND KEY CENTRAL BANK DECISIONS FOLLOWING A VOLATILE WEEK FOR THE AI TRADE. RESULTS FROM MICROSOFT, ALPHABET AND AMAZON WILL TEST INVESTOR CONFIDENCE, WHILE THE FED…
+- 10/26 09:38 [FirstSquawk] BRENT CRUDE SLIPPED ABOUT 1% FROM A SIX-MONTH HIGH TO AROUND $115.60 A BARREL, WHILE GEOPOLITICAL RISKS REMAINED ELEVATED AS US-IRAN TENSIONS INTENSIFIED. INVESTORS ALSO MONITORED PRESSURE ON CHIPMAKERS, WITH THE PHILADELPHIA SEMICONDUCTOR …
+- 10/26 09:40 [FirstSquawk] South Korea’s Stocks Edge Down at Open as Earnings Season and Fed Decision Loom
+- 10/26 09:44 [financialjuice] Saudi civil defense issues warning over potential risk in Riyadh: state TV
+- 10/26 09:45 [FirstSquawk] Saudi Civil Defense Issues Warning for Riyadh Over Possible Danger, State TV Says
+- 10/26 09:48 [FirstSquawk] Asian Stocks Slip at the Open as Oil Gains and Geopolitical Risks Weigh Ahead of Key Earnings and Policy Decisions
+- 10/26 09:53 [FirstSquawk] Samsung SDI Unit Expands U.S. Business With Energy Storage Solutions Supply Deal
+- 10/26 09:59 [FirstSquawk] Pyongyang Claims South Korea Fabricated DMZ Mine Blast Allegations in Letter to UN Security Council
+- 10/26 10:03 [financialjuice] French oat futures rise 0.6% in early Asian trading
+- 10/26 10:04 [FirstSquawk] Aussie Dollar Weakens Even as RBA Signals Potential for Higher Interest Rates
+- 10/26 10:06 [FirstSquawk] Japan’s Government to Discuss Cyberattack Threats at Ministerial Meeting - KYODO
+- 10/26 10:10 [financialjuice] Saudi-led coalition: intercepted and destroyed ballistic missile aimed at Riyadh by Yemen's Houthis
+- 10/26 10:12 [FirstSquawk] Hong Kong Moves to Rein In Premium Financing Market Amid Growing Concerns
+- 10/26 10:17 [financialjuice] China sets yuan midpoint at strongest level since Feb. 2, 2023, according to PBOC
+- 10/26 10:21 [financialjuice] China injects 56 billion yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement
+- 10/26 10:22 [financialjuice] China cbank injects 398 billion yuan through overnight reverse repos: statement
+- 10/26 10:22 [FirstSquawk] China Sets Yuan Fixing at 6.7162 Against the Dollar, Compared With 6.7180 Previously
+- 10/26 10:23 [FirstSquawk] Japan’s Nikkei Falls 0.5%, Led Lower by Semiconductor and Electronics Shares - WSJ
+- 10/26 10:34 [FirstSquawk] North Korea Tells United Nations South Korea Fabricated Allegations Over DMZ Landmine Explosion
