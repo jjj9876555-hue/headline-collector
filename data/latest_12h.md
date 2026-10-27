@@ -7,124 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-27 23:40 JST／対象: 10/27 11:40 〜 10/27 23:40 JST（時刻はすべて日本時間）
+生成: 2026-10-28 04:38 JST／対象: 10/27 16:38 〜 10/28 04:38 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 31 | 10/27 19:27 | 10/27 23:15 | 23分（21:37→22:00） |
-| FirstSquawk | 143 | 10/27 11:56 | 10/27 23:35 | ⚠ 65分（17:15→18:21） |
-| financialjuice | 125 | 10/27 12:05 | 10/27 23:37 | 35分（16:45→17:20） |
+| DeItaone | 56 | 10/27 19:27 | 10/28 04:14 | ⚠ 54分（01:15→02:10） |
+| FirstSquawk | 109 | 10/27 16:39 | 10/28 04:36 | ⚠ 143分（02:12→04:36） |
+| financialjuice | 144 | 10/27 16:42 | 10/28 04:37 | 39分（01:06→01:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 293 行（統合前 302 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 301 行（統合前 315 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/27 11:56 [FirstSquawk] Tetsuya Chiba, Renowned Japanese Cartoonist Behind “Tomorrow’s Joe,” Dies at 87, Kyodo Says
-- 10/27 11:57 [FirstSquawk] GMO Internet Calls for Computers to Be Disconnected Amid Looming Midday Cyberattack
-- 10/27 12:04 [FirstSquawk] Philippine Benchmark Index Jumps 1.6% to Reach 5,731.54 at Its Session High
-- 10/27 12:05 [financialjuice] Ukraine's Kyiv mayor: southern bridge and subway hit in strike
-- 10/27 12:05 [FirstSquawk] Kyiv Mayor Says Attack Damaged Southern Bridge and Metro System
-- 10/27 12:13 [FirstSquawk] Dollar Index Holds a Positive Tone Around 102.00 Ahead of Fed Decision - FX
-- 10/27 12:18 [FirstSquawk] ADNOC Drilling’s Revenue Rises to $3.71 Billion in First Nine Months of 2026
-- 10/27 12:25 [FirstSquawk] Japanese Corporate Services Prices Climb 3.7% From a Year Earlier in September
-- 10/27 12:32 [FirstSquawk] South Korean Military Says North Korea’s Western Border Artillery Is Not a New Weapons System
-- 10/27 12:37 [financialjuice] Israeli military: Egyptian civilian held after crossing border fence from Egypt into Israel near Nitzana
-- 10/27 12:37 [financialjuice] Israeli military: Incident regarded seriously, continues high defensive readiness in area
-- 10/27 12:38 [FirstSquawk] Egyptian Civilian Held After Crossing Into Israel From Egyptian Territory Near Nitzana, Israeli Military Says
-- 10/27 12:40 [FirstSquawk] CDC Deputy Director Jennifer Shuford to Exit Trump Administration After Six Months, Washington Post Reports
-- 10/27 12:40 [financialjuice] China finance ministry offers 3-month bills at 1.1222% yield: traders
-- 10/27 12:45 [FirstSquawk] Hong Kong Equity Fundraising Comes Under Pressure After Fourth IPO Is Pulled Since Midyear
-- 10/27 12:48 [FirstSquawk] Jefferies Increases Paycom Software Price Target to $300, Up From $160
-- 10/27 12:51 [FirstSquawk] Yield on Japan’s 2-Year Government Bond Rises to 1.885%
-- 10/27 12:55 [FirstSquawk] German Chancellor Says EU’s Push for Closer ASEAN Ties Complements Talks With Canada
-- 10/27 12:56 [FirstSquawk] German Chancellor Merz Highlights EU’s Strategic Interest in Open Markets Amid CPTPP Collaboration
-- 10/27 13:02 [financialjuice] One killed, 30 injured as drone strikes passenger bus in Russia-occupied Zaporizhzhia Russia-installed official says
-- 10/27 13:02 [FirstSquawk] Russian-Installed Official Reports One Fatality and 30 Injuries in Drone Attack on Bus in Zaporizhzhia
-- 10/27 13:05 [financialjuice] Taiwan central bank: forecasts robust economic expansion this year, steady growth in 2025
-- 10/27 13:05 [FirstSquawk] Taiwan Central Bank Sees Strong Growth Momentum This Year, Stability Next Year
-- 10/27 13:05 [financialjuice] Taiwan central bank: demand for emerging technologies to remain robust next year, supporting exports and private investment
-- 10/27 13:06 [financialjuice] Taiwan central bank: forecasts Taiwan GDP growth of 5.82% next year
-- 10/27 13:06 [FirstSquawk] Taiwan Central Bank Sees Continued Emerging-Technology Demand Driving Export Growth and Private Investment in 2027
-- 10/27 13:07 [FirstSquawk] HSBC Q3 Earnings: • Rev: $18.6B (est $18.93B) • Pretax Profit: $9.63B (est $9.70B) • Announces Share Buyback Of Up To $1B • Expects Banking NII Of At Least $46B In 2026
-- 10/27 13:07 [FirstSquawk] Taiwan’s GDP Growth Forecast at 5.82% for Next Year, Central Bank Says
-- 10/27 13:07 [financialjuice] Taiwan central bank: geopolitical risks, climate conditions are main uncertainties shaping future inflation path in Taiwan
-- 10/27 13:07 [FirstSquawk] Taiwan Central Bank Identifies Geopolitical Risks and Climate Conditions as Key Inflation Uncertainties
-- 10/27 13:09 [financialjuice] Taiwan central bank: current monetary policy stance is tightening
-- 10/27 13:10 [FirstSquawk] Geopolitical Tensions and Climate Factors Remain Major Unknowns for Taiwan’s Inflation Outlook, Central Bank Says
-- 10/27 13:10 [financialjuice] Taiwan central bank: Taiwan dollar depreciates against U.S. dollar this year, holds steady versus other major currencies
-- 10/27 13:11 [FirstSquawk] Taiwan Dollar Depreciates Versus US Dollar in 2026 While Holding Steady Against Other Major Currencies, Central Bank Says
-- 10/27 13:13 [financialjuice] Taiwan central bank: Taiwan dollar falls 1.25% against US dollar in H1 amid foreign net selling of stocks and dividend outflows
-- 10/27 13:14 [FirstSquawk] Taiwan Dollar Falls 1.25% Against US Dollar in H1 Amid Foreign Stock Outflows and Dividend Payments, Central Bank Says
-- 10/27 13:18 [FirstSquawk] Taiwan Central Bank Sees No Major Deterioration in Banks’ Loan Quality, Says Risks Remain Contained
-- 10/27 13:18 [financialjuice] Taiwan Central Bank: Banks' loan quality stable, loan risks contained
-- 10/27 13:22 [FirstSquawk] Singapore Dollar Consolidates as Markets Eye Fed Decision, With Risk Appetite Offering Support - WSJ
-- 10/27 13:25 [financialjuice] Moody's sovereign analyst: Japan showing signs of steady growth, stable inflation
-- 10/27 13:25 [financialjuice] Moody's analyst: future rating action hinges on whether Japan's recent resilience endures future shocks
-- 10/27 13:25 [FirstSquawk] Japan Displays Signs of Lasting Growth and Stable Inflation, Moody’s Sovereign Analyst Says
-- 10/27 13:26 [FirstSquawk] Future Rating Decisions on Japan to Depend on the Durability of Its Recent Resilience, Moody’s Analyst Says
-- 10/27 13:39 [financialjuice] Finmin Katayama: Govt prepared to take decisive steps in fx market
-- 10/27 13:39 [FirstSquawk] Japan Stands Prepared to Take Firm Action on Foreign Exchange, Finance Minister Katayama Says
-- 10/27 13:40 [financialjuice] Katayama: closely monitoring market moves with heightened urgency including at this moment
-- 10/27 13:40 [financialjuice] Katayama: yen must shift to reflect fundamentals
-- 10/27 13:41 [financialjuice] Katayam: aim to sustain market confidence in yen, Takaichi administration’s fiscal approach via clear, consistent communication
-- 10/27 13:41 [FirstSquawk] Japan’s Katayama Seeks to Preserve Trust in Yen and Takaichi Administration’s Fiscal Policy With Consistent Messaging
-- 10/27 13:44 [financialjuice] Katayama: aims to preserve market confidence in yen, Takaichi administration's fiscal policy via transparent, consistent communication (adds dropped letter)
-- 10/27 13:52 [financialjuice] Ukraine drone strike kills one, injures six in Russia’s Bryansk, governor says
-- 10/27 14:00 [financialjuice] Russia strikes transport infrastructure in Ukraine's Kyiv, logistics center in Kharkiv region: Russian defense ministry
-- 10/27 14:00 [FirstSquawk] Russian Attacks Target Kyiv Transport Infrastructure and a Logistics Hub in Kharkiv Region, Newswires Report
-- 10/27 14:03 [FirstSquawk] Bank of England Seeks Review of Revolut’s Product Approval Controls, According to FT
-- 10/27 14:06 [financialjuice] Meta announces pricing of depositary shares linked to series A mandatory convertible preferred stock and Class A common stock in forward sale agreements
-- 10/27 14:09 [financialjuice] Meta: pricing of 250 million series A depositary shares at public offering price of $50 per share
-- 10/27 14:24 [financialjuice] India oil minister: expanding refining capacity to support domestic demand, uphold export pledge
-- 10/27 14:24 [financialjuice] Meta prices $25 billion of class A common stock at $625 per share in public offering
-- 10/27 14:25 [FirstSquawk] Australian Shares Gain 0.5% as S&P/ASX 200 Settles at 8,850.10
-- 10/27 14:25 [FirstSquawk] Meta Sets Public Offering Price at $625 Per Share for $25 Billion Class A Stock Sale
-- 10/27 14:33 [FirstSquawk] US Accounts for 67% of India’s LPG Imports, According to Oil Minister
-- 10/27 14:35 [financialjuice] No pressure from United States to reduce Russian oil imports
-- 10/27 14:35 [financialjuice] India oil minister: india now sources 67% of lpg imports from US
-- 10/27 14:37 [FirstSquawk] India Faces No Pressure From Washington to Scale Back Russian Crude Imports, Oil Minister Says
-- 10/27 14:37 [financialjuice] India oil minister: no US pressure to reduce Russian oil imports
-- 10/27 14:37 [financialjuice] India oil minister: Middle East crude supply is increasing as they can ship more
-- 10/27 14:52 [financialjuice] Nvidia and Meta to broaden partnership on Muse and Muse family of models amid strong growth
-- 10/27 14:52 [financialjuice] Nvidia to invest $3 billion in Meta equity offering
-- 10/27 14:53 [financialjuice] Nvidia and Meta Explore Collaboration on OpenShell Reference Architecture and Nvidia Sentry
-- 10/27 14:53 [FirstSquawk] Meta and Nvidia Deepen Partnership on Muse Model Family as Demand Grows
-- 10/27 14:53 [financialjuice] Meta to broaden use of Nvidia Vera Rubin, Vera CPUs, Spectrum-X, and BlueField-4
-- 10/27 14:54 [financialjuice] China's 30-year government bond futures due in December rise 0.4% to record 118.56
-- 10/27 15:00 [financialjuice] Finnish October consumer confidence at -9.7 points: Statistics Finland
-- 10/27 15:01 [financialjuice] Finnish October industry confidence rises 2 points, Ek says
-- 10/27 15:04 [FirstSquawk] HSBC Earnings Climb as Bank Plans $1 Billion in Share Repurchases, WSJ Reports
-- 10/27 15:04 [financialjuice] Russian defense ministry: Russian forces strike cargo ship in Black Sea
-- 10/27 15:12 [FirstSquawk] Japan’s 30-Year JGB Yield Rises 1.5 Basis Points to 3.820%
-- 10/27 15:24 [FirstSquawk] China Sales of iPhone 18 Pro Models Jump 29% as Supply Improves and Competitors Raise Prices, Counterpoint Finds
-- 10/27 15:24 [FirstSquawk] Global Sales Growth Depends Heavily on China, With US and Japan Sales Declining Amid Rising Prices, Counterpoint Says
-- 10/27 15:36 [FirstSquawk] Porsche Reaffirms Annual Guidance With Revenue Forecast at €35B–€36B
-- 10/27 15:38 [FirstSquawk] China Confirms Philippines-Based Defence Attaché Will Attend ASEAN Defence Ministers’ Meeting-Plus
-- 10/27 15:39 [financialjuice] EU securities regulator: Market infrastructure is resilient. Looking at leveraged funds and margin calls
-- 10/27 15:40 [FirstSquawk] China Seeks Discussions With Other Parties on Enhancing Dialogue, Understanding and Trust, Defence Ministry Says
-- 10/27 15:40 [FirstSquawk] China Reiterates Strong Commitment to ASEAN’s Central Role, Defence Ministry Says
-- 10/27 15:58 [FirstSquawk] Novartis CEO Says Current M&A Strategy Remains Appropriate and Requires No Changes
-- 10/27 16:00 [financialjuice] SWEDISH TRADE BALANCE ACTUAL 4.1B (FORECAST -, PREVIOUS -11.9B) $MACRO
-- 10/27 16:01 [financialjuice] Currency Strength Chart: Strongest: NZD, AUD, USD, CAD, CHF, GBP, EUR, JPY - Weakest
-- 10/27 16:02 [FirstSquawk] SWEDEN TRADE BALANCE (SEK) SEP: 4.1B (PREV -11.9B)
-- 10/27 16:02 [FirstSquawk] SWEDEN HOUSEHOLD LENDING (Y/Y) SEP: 3.4% (PREV 3.3%)
-- 10/27 16:03 [financialjuice] Coreweave expands AI platform to Denmark, the Middle East, and Asia
-- 10/27 16:09 [FirstSquawk] RECKITT Q3 2026 EARNINGS: VOLUME -0.7% (EST 1.08%); PRICE/MIX +3.9% (EST 2.76%); SEES FY CORE RECKITT LFL SALES +3.5% TO +4.5% (CUTS FORECAST)
-- 10/27 16:12 [FirstSquawk] APPLE IPHONE SALES IN INDIA FALL UP TO 30% DURING FESTIVE SEASON; HIGHER PRICES, WEAKER PROMOTIONS HIT DEMAND
-- 10/27 16:14 [financialjuice] China to dispatch officials to the Middle East in a bid to defuse tension
-- 10/27 16:15 [financialjuice] China Foreign Ministry, on EU planning trade measures: China always believes China-EU trade ties are partnership in nature.
-- 10/27 16:15 [FirstSquawk] CHINA FOREIGN MINISTRY, ON EU PLANNING TRADE MEASURES : CHINA ALWAYS BELIEVES CHINA-EU TRADE TIES ARE PARTNERSHIP IN NATURE 27 Oct 2026 12:44:32 - CHINA FOREIGN MINISTRY, ON EU PLANNING TRADE MEASURES : HOPES EU WILL NOT ABUSE TRADE REMEDY …
-- 10/27 16:15 [FirstSquawk] CHINA FOREIGN MINISTRY, ON EU PLANNING TRADE MEASURES : CHINA ALWAYS BELIEVES CHINA-EU TRADE TIES ARE PARTNERSHIP IN NATURE; CHINA FOREIGN MINISTRY, ON EU PLANNING TRADE MEASURES : HOPES EU WILL NOT ABUSE TRADE REMEDY TOOLS
-- 10/27 16:19 [FirstSquawk] SAUDI CIVIL DEFENSE: ISSUES ALERT OF POTENTIAL DANGER IN NAJRAN CITY
-- 10/27 16:19 [financialjuice] Saudi civil defense issues an alert of potential danger in Najran city
-- 10/27 16:24 [financialjuice] French retailers won't refill released diesel stocks - Politico
-- 10/27 16:26 [FirstSquawk] SAUDI DEFENSE: DANGER PASSED IN NAJRAN CITY
-- 10/27 16:28 [FirstSquawk] TOTALENERGIES SE - DIVESTMENT OF ITS 10% NON-OPERATED INTEREST IN RENAISSANCE JV LICENSES TO VAARIS FOR AN AGGREGATE AMOUNT OF US$ 800m
 - 10/27 16:39 [FirstSquawk] PORSCHE AG CFO SAYS WE DO NOT HAVE ANY KNOWLEDGE THAT THERE ARE DISCUSSIONS ABOUT A BROADER US TARIFF RELIEF AT PARENT VOLKSWAGEN, WE ASSUME TARIFFS REMAIN IN PLACE
 - 10/27 16:42 [financialjuice] Germany's Merz: I am in favour of a trade agreement between the EU and the ASEAN bloc. It needs to happen quickly.
 - 10/27 16:44 [FirstSquawk] GSK EXPECTS TO NEARLY DOUBLE THE NUMBER OF CANCER MEDICINES IT IS TESTING IN CLINICAL TRIALS NEXT YEAR; WSJ
@@ -317,3 +216,112 @@
 - 10/27 23:35 [financialjuice] Yemeni Armed Forces: Our armed forces managed to target Abha International Airport with a drone. This attack was precise and led to the disruption of air traffic at this airport - IRIB News.
 - 10/27 23:35 [FirstSquawk] OIL FALLS TO INTRADAY LOW, BRENT TRADES NEAR $114/BBL
 - 10/27 23:37 [financialjuice] Fitch on US credit outlook: AI investment remains both main growth driver and a key downside risk.
+- 10/27 23:40 [financialjuice] Russia's Novak: Russian refineries are bringing units back online very quickly after maintenance, almost all necessary oil and gas equipment is made in Russia
+- 10/27 23:41 [financialjuice] Meta’s $25 billion stock sale ended five times oversubscribed $META
+- 10/27 23:41 [FirstSquawk] BOEING TO BEGIN TRANSITION TO 10/MONTH ON 787S THIS YEAR
+- 10/27 23:41 [financialjuice] Russia’s Deputy PM Novak: Russia discusses Arctic LNG projects with US - IFX
+- 10/27 23:55 [financialjuice/FirstSquawk] Maersk: Temporary emergency inland fuel/energy surcharge will be applied to all inland shipments for Nordic region until further notice.
+- 10/27 23:55 [financialjuice] Gazprom CEO met with national Iranian gas company.
+- 10/27 23:58 [DeItaone] SPOT GOLD RISES NEARLY 1% TO $4,052.16/OZ
+- 10/28 00:01 [financialjuice] US to sell $115 bln 4-Week bills on October 29th, to settle on November 3rd.
+- 10/28 00:01 [DeItaone] META AI DIRECTOR ROHIT PATEL LEAVES TO TAKE ON MICROSOFT OFFICE AND GOOGLE WORKSPACE - TECHCRUNCH
+- 10/28 00:01 [DeItaone] RUSSIA'S LAVROV: LEADERS OF FINLAND AND NORWAY SAID NOTHING NEW ABOUT UKRAINE IN THEIR CONVERSATION WITH PUTIN; EUROPE SIMPLY WANTS TO GET INVOLVED IN NEGOTIATION PROCESS - IFX
+- 10/28 00:02 [DeItaone] RUSSIA'S LAVROV: CONFLICT IN UKRAINE WILL CONTINUE AND IS LIKELY TO ESCALATE
+- 10/28 00:02 [financialjuice] Russian Foreign Minister Lavrov: Leaders of Finland and Norway said nothing new about Ukraine in their conversation with Putin; Europe simply wants to get involved in the negotiation process - IFX.
+- 10/28 00:02 [financialjuice] Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace - TechCrunch $META $MSFT
+- 10/28 00:08 [FirstSquawk] BOEING SHARES EXTEND DROP TO 10% AFTER CUTTING DELIVERY GOAL
+- 10/28 00:08 [FirstSquawk] PENTAGON SAYS POLAND WILL HOST PAC-3 MISSILE MAINTENANCE FACILITY
+- 10/28 00:12 [FirstSquawk] POLISH ENERGY MINISTER MOTYKA: OIL STOCKPILE RELEASE SCHEDULE SEEN READY BY END-NOVEMBER
+- 10/28 00:16 [financialjuice] Fed bids for 52-Week bills total $4.8 bln
+- 10/28 00:16 [financialjuice] Microsoft AI launches MAI image 2.7 in preview. $MSFT
+- 10/28 00:19 [DeItaone] BRAZIL FEDERAL POLICE CANCEL SENATOR FLAVIO BOLSONARO'S PASSPORTS AFTER DEADLINE MISSED - SOURCE
+- 10/28 00:26 [FirstSquawk] BOEING CEO: STILL DON'T HAVE FAA AUTHORIZATION TO COMPLETE 777X FLIGHT TEST CERTIFICATION
+- 10/28 00:27 [DeItaone] TRUMP ON TRUTH SOCIAL LAUDS 'EXTREMELY BIG RISE' IN OCTOBER CONSUMER CONFIDENCE
+- 10/28 00:29 [financialjuice] EIB and Canada to sign critical raw materials framework - Politico
+- 10/28 00:32 [financialjuice] US 52-WEEK BILL HIGH YIELD ACTUAL 4.29% (FORECAST -, PREVIOUS 4.400%) $MACRO
+- 10/28 00:32 [financialjuice] US 52-WEEK BILL BID-TO-COVER ACTUAL 3.150 (FORECAST -, PREVIOUS 3.070) $MACRO
+- 10/28 00:32 [DeItaone] UKRAINE'S OMBUDSMAN SAYS BOTH UKRAINE AND RUSSIA REPORT NO VIOLATIONS OF CEASEFIRE IN OLESHKY AS OF NOW
+- 10/28 00:32 [financialjuice] The US offers Constellation $5b in financing for nuclear reactors $CEG
+- 10/28 00:33 [financialjuice] US 52-Week Bill Auction High Yield 4.29% Bid-to-Cover 3.15 Sells $54 bln Awards 65.33% of bids at high
+- 10/28 00:37 [financialjuice] WATCH LIVE: Trump Speaks
+- 10/28 00:37 [financialjuice] Ceasefire in Russian-held Ukrainian town of Oleshky will continue until 22.59 MSK on November 1st - RIA
+- 10/28 00:39 [financialjuice] Netanyahu’s Likud submits a request to extend voting hours in Israel’s Knesset elections, according to online Israeli sources citing the party’s public statement- Israel's Channel 14 News
+- 10/28 00:39 [financialjuice] Trump: We're going to accept 1m barrels of Venezuelan oil
+- 10/28 00:40 [financialjuice] Trump ends remarks to reporters
+- 10/28 00:40 [DeItaone] TRUMP: BELIEVE I WILL VISIT TANKER IN TEXAS WITH VENEZUELA OIL TRUMP: THINK RUBIO WILL BE WITH ME
+- 10/28 00:41 [DeItaone] TRUMP: WE'RE GOING TO ACCEPT 1 MILLION BARRELS OF OIL
+- 10/28 00:41 [DeItaone] TRUMP SAYS WILL ACCEPT ELECTION RESULTS IF ELECTIONS ARE HONEST
+- 10/28 00:45 [FirstSquawk] MICROSOFT AI LAUNCHES MAI IMAGE 2.7 IN PREVIEW
+- 10/28 00:48 [financialjuice] Central Election Committee claims that they have not received a request from Likud to extend the voting hours - Israel's Channel 12 News
+- 10/28 00:49 [financialjuice] Iran and Belarus sign memorandum on energy cooperation - IRNA
+- 10/28 00:50 [FirstSquawk] US PRESIDENT TRUMP: BELIEVES HE WILL VISIT TANKER IN TEXAS CARRYING VENEZUELA OIL, THINKS RUBIO WILL BE WITH HIM
+- 10/28 00:57 [financialjuice] Melania Trump: Local ceasefire in Ukraine has begun
+- 10/28 01:00 [DeItaone] FIRST LADY MELANIA TRUMP: LOCALIZED CEASEFIRE HAS BEEN EXPANDED BEYOND OLESHKY WITHIN KHERSON REGION
+- 10/28 01:00 [financialjuice] Oracle and Cerebras announce partnership in statement. $ORCL
+- 10/28 01:00 [financialjuice] Google upgrades AI world model that rattled video game stocks $GOOGL
+- 10/28 01:01 [financialjuice] Intel and Oracle plan expanded pact. $INTC $ORCL
+- 10/28 01:01 [financialjuice] Nvidia & Oracle expand Nvidia Vera Rubin $NVDA $ORCL
+- 10/28 01:02 [FirstSquawk] NVIDIA & ORACLE EXPAND NVIDIA VERA RUBIN
+- 10/28 01:02 [FirstSquawk] ORACLE TO USE CEREBRAS EQUIPMENT IN AI DATA CENTERS
+- 10/28 01:02 [financialjuice] Oracle expands OpenAI partnership - CNBC. $ORCL
+- 10/28 01:04 [FirstSquawk] INTEL SHARES ALSO SPIKE UP 4.9% TO SESSION HIGH
+- 10/28 01:04 [financialjuice] Oracle adds networking capabilities to Acceleron for AI. OpenAI expands partnership with Oracle to bring apps to ChatGPT. $ORCL
+- 10/28 01:06 [financialjuice] Oracle brings google TPUs to Oracle Cloud infrastructure. $ORCL $GOOGL
+- 10/28 01:10 [FirstSquawk] EU PRESSURES ALLIES OVER LOOMING UKRAINE FUNDING CRUNCH – FT
+- 10/28 01:15 [DeItaone] TRUMP: IN SHORT ORDER, WE WILL BE OFFICIALLY BANNING TERM, "AI/ARTIFICIAL INTELLIGENCE," IN ALL RELEVANT DOCUMENTS
+- 10/28 01:23 [FirstSquawk] US MILITARY SAYS IT STRUCK DRUG VESSEL TODAY IN EASTERN PACIFIC
+- 10/28 01:26 [FirstSquawk] LESS THAN 5% OF GERMANY'S LAND IS SUITABLE FOR A FINAL NUCLEAR WASTE REPOSITORY, EXPERTS REPORT.
+- 10/28 01:31 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 0.72% || GERMANY'S DAX UP 0.77%
+- 10/28 01:31 [FirstSquawk] FRANCE'S CAC 40 UP 0.65% || SPAIN'S IBEX UP 0.74%
+- 10/28 01:45 [financialjuice] Iran, Russia presidents hold talks in Moscow - Tasnim
+- 10/28 01:45 [financialjuice] Fed bids for 5-Year notes total $7.8 bln
+- 10/28 01:49 [FirstSquawk] PEZESHKIAN: REGIONAL STATES CAN RESOLVE CHALLENGES WITHOUT US - TASNIM
+- 10/28 01:50 [financialjuice] Iran and Russia presidents discuss energy cooperation and trade
+- 10/28 02:00 [financialjuice] Treasury WI 5y yield 4.841% before the $70 billion auction
+- 10/28 02:02 [financialjuice] US 5-YEAR NOTE HIGH YIELD ACTUAL 4.845% (FORECAST -, PREVIOUS 5.033%) $MACRO
+- 10/28 02:02 [financialjuice] US 5-YEAR NOTE BID-TO-COVER ACTUAL 2.330 (FORECAST -, PREVIOUS 2.210) $MACRO
+- 10/28 02:03 [financialjuice] US 5-Year Note Auction High Yield 4.845% [Tail 0.4 bps] Bid-to-cover 2.33 Sells $70 bln Awards 98.60% of bids at high Primary Dealers take 10.6% Direct 29.4% Indirect 60.0%
+- 10/28 02:04 [financialjuice] News sources report the occurrence of an explosion near Moafaq al-Sulti base in Jordan - Fars News
+- 10/28 02:05 [financialjuice/FirstSquawk] Putin: The Bushehr nuclear power plant construction project in Iran has not been stopped and is in operation - Fars News
+- 10/28 02:05 [FirstSquawk] ASM International Q3 Earnings: - Revenue: EUR1.159B - Gross Margin: 52% (est 50.8%) - Operating Result: EUR378.9M - Operating Margin: 32.1% (est 32%) - Net Income: EUR308.1M - Adjusted Net Income: EUR315.4M - Sees Q4 2026 Revenue: EUR1.23B,…
+- 10/28 02:06 [FirstSquawk] TRUMP: 100M BARRELS OF VENEZUELAN OIL IS JUST 1ST SHIPMENT
+- 10/28 02:06 [financialjuice] Trump: 100m barrels of Venezuelan oil is just the 1st shipment
+- 10/28 02:08 [financialjuice] Trump: 1 mln barrels of Venezuelan oil is just the 1st shipment
+- 10/28 02:10 [DeItaone] 🇧🇷 *BOLSONARO EN ROUTE TO THE US, FOLHA REPORTS CITING ALLIES
+- 10/28 02:17 [DeItaone] 🇧🇷 BOLSONARO REPORTEDLY FLEEING BRAZIL FOR THE UNITED STATES Flávio Bolsonaro is reportedly en route to the US, according to allies cited by Brazilian newspaper Folha de S.Paulo, two days after losing the presidential election to Lula. The …
+- 10/28 02:20 [DeItaone] AROUND 1,000 SALVADORAN SOLDIERS HAVE DEPLOYED TO HAITI - SECURITY OFFICIAL IN HAITI
+- 10/28 02:21 [DeItaone] Trump on Truth Social: 'I Am Traveling to Corpus Christi ... Where the US Will Receive 1M Barrels of Venezuelan Oil As a Result of Our Highly Successful Military Operation'
+- 10/28 02:23 [DeItaone] Trump on Truth Social: 'Gasoline and Diesel Prices Will Soon Come Plummeting Down'
+- 10/28 02:24 [DeItaone] Trump on Truth Social: 'This is the First Shipment of BILLIONS of Barrels to Come' Trump on Truth Social: 'By Unleashing Energy Dominance From Alaska, All the Way Down to Venezuela, I Have Made the WEstern Hemisphere the Energy Capital of t…
+- 10/28 02:33 [DeItaone] BRAZIL'S FLAVIO BOLSONARO IS ON A PLANE HEADING TO THE US, US OFFICIAL SAYS
+- 10/28 02:40 [financialjuice] Google launches Genie 4 world model with native audio $GOOGL
+- 10/28 02:48 [financialjuice] US VP Vance: I understand Gasoline prices are high
+- 10/28 03:01 [financialjuice] The EU eyes global tax deal revenue to boost next budget - Politico
+- 10/28 03:02 [financialjuice] Treasury receives $10.746B of offers for buyback, accepts $6B; buyback targets coupons maturing in 2046-2056, accepts 6 of 35 eligible issues.
+- 10/28 03:03 [financialjuice] Treasury accepts $6b of offers for buyback, matching the maximum.
+- 10/28 03:17 [financialjuice] US Energy Secretary Wright: The constellation energy deal will add 1.1 Gigawatts.
+- 10/28 03:19 [financialjuice] US Energy Secretary Wright: The flow of refined products from the Hormuz Strait has increased.
+- 10/28 03:20 [financialjuice] US Energy Secretary Wright: Russia cannot export diesel right now.
+- 10/28 03:22 [financialjuice] US Energy Secretary Wright: The suspension of sanctions on Russia is temporary.
+- 10/28 03:23 [financialjuice] US Energy Secretary Wright: The US is ramping up LNG exports.
+- 10/28 03:23 [financialjuice] US Energy Secretary Wright ends remarks on CNBC.
+- 10/28 03:27 [DeItaone] WRIGHT SAYS SUSPENSION OF SANCTIONS ON RUSSIA IS TEMPORARY WRIGHT: RUSSIA CANNOT EXPORT DIESEL RIGHT NOW WRIGHT: FLOW OF REFINED PRODUCTS FROM HORMUZ STRAIT INCREASED
+- 10/28 03:31 [financialjuice] NYMEX Gasoline November futures settle at $3.1376 a gallon.
+- 10/28 03:31 [financialjuice] NYMEX Diesel November futures settle at $4.7752 a gallon.
+- 10/28 03:31 [financialjuice] NYMEX WTI Crude futures settle at $99.90/bbl, down $1.86, 1.83%.
+- 10/28 03:35 [DeItaone] HACKER TRYING TO BREACH US ELECTION WEBSITE - EMAIL FROM FEC OFFICIAL SEEN BY REUTERS
+- 10/28 03:40 [financialjuice] US Energy Secretary Wright: The Iran war has come at a cost - Fox News.
+- 10/28 03:42 [DeItaone] US ENERGY SEC WRIGHT SAYS IRAN WAR HAS 'COME AT A COST': FOX
+- 10/28 03:46 [financialjuice] Brent Crude futures settle at $113.88/bbl, down $1.93, 1.67%.
+- 10/28 03:47 [financialjuice] US Energy Secretary Wright: The war with Iran is unfortunate timing.
+- 10/28 03:52 [financialjuice] Iran's President Pezeshkian has left Russia.
+- 10/28 03:59 [DeItaone] *BOLSONARO ALLIES SAY TRUMP GOVT SIGNALED ASYLUM: CNN BRASIL
+- 10/28 04:06 [DeItaone] WASHINGTON DISCUSSES RUSSIAN DEALS FOR US OIL MAJORS IN UKRAINE PEACE TALKS: FT
+- 10/28 04:06 [financialjuice] Trumps Speaks live
+- 10/28 04:10 [financialjuice] HP and Asus shift some PC manufacturing back to China due to AI-driven cost hikes; Dell is also evaluating shifting some PC making back to China, according to sources - Nikkei $HPE $DELL
+- 10/28 04:12 [financialjuice] The US and Russia suggest an oil venture off the Sakhalin coast after the war - FT
+- 10/28 04:14 [DeItaone] TRUMP TO ANNOUNCE RELAXED RULES ON OIL FIRMS' METHANE LEAKS -WAPO
+- 10/28 04:24 [financialjuice] Wednesday FX Option Expiries
+- 10/28 04:32 [financialjuice] Oracle: Plan to expand multicloud AI database services to the US government $ORCL
+- 10/28 04:36 [FirstSquawk] GOOGLE LAUNCHES GENIE 4 WORLD MODEL WITH NATIVE AUDIO
+- 10/28 04:37 [financialjuice] Lockheed Martin wins a $694m US Air Force contract, with the company to produce an air-launched hypersonic missile $LMT
