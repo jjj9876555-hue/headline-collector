@@ -7,69 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-27 08:43 JST／対象: 10/26 08:43 〜 10/27 08:43 JST（時刻はすべて日本時間）
+生成: 2026-10-27 11:26 JST／対象: 10/26 11:26 〜 10/27 11:26 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 88 | 10/26 16:39 | 10/27 06:27 | ⚠ 136分（00:43→02:59） |
-| FirstSquawk | 246 | 10/26 08:46 | 10/27 08:18 | 38分（06:54→07:32） |
-| financialjuice | 188 | 10/26 08:59 | 10/27 08:00 | ⚠ 46分（11:59→12:46） |
+| FirstSquawk | 246 | 10/26 11:35 | 10/27 11:25 | 38分（06:54→07:32） |
+| financialjuice | 193 | 10/26 11:32 | 10/27 10:47 | ⚠ 49分（08:00→08:50） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 503 行（統合前 527 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 508 行（統合前 532 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/26 08:46 [FirstSquawk] OIL PRICES SURGE TO FIVE-MONTH PEAK AS U.S. EQUITIES DECLINE AMID RISING IRAN CONFLICT FEARS
-- 10/26 08:57 [FirstSquawk] TRUMP SAYS THE CANADA TARIFF DISPUTE WILL BE SETTLED SOON AND THAT CANADA IS WILLING TO GIVE THE U.S. ANYTHING AT THIS MOMENT, THOUGH HE PROVIDED NO SPECIFICS ON A POTENTIAL DEAL, SPEAKING AT A MICHIGAN BORDER RALLY
-- 10/26 08:58 [FirstSquawk] LUIZ INÁCIO LULA DA SILVA WON BRAZIL’S PRESIDENTIAL RUNOFF WITH 51% OF THE VOTE AGAINST FLÁVIO BOLSONARO’S 49%, SECURING AN UNPRECEDENTED FOURTH TERM AND DEFEATING THE POLITICAL MOVEMENT BUILT BY FORMER PRESIDENT JAIR BOLSONARO. LULA’S COME…
-- 10/26 08:59 [financialjuice] Trump announces newest flagship national park in US: Chiricahua National Park in Arizona
-- 10/26 09:08 [FirstSquawk] U.S. Factory Jobs Are Rising Again as Employers Adopt New Hiring Strategies - WSJ
-- 10/26 09:12 [FirstSquawk] Brazil’s Lula Leads Bolsonaro by 4.2 Million Votes With 97.69% Counted - CR
-- 10/26 09:12 [FirstSquawk] EUROPEAN NATURAL GAS FUTURES SURGED TO THEIR HIGHEST LEVEL SINCE 2022, DESPITE CRUDE OIL FUTURES FALLING AROUND 1% EARLY MONDAY. THE RALLY LACKED AN IMMEDIATE CATALYST, WITH MARKETS REMAINING SENSITIVE TO ENERGY SUPPLY DISRUPTIONS LINKED TO…
-- 10/26 09:16 [FirstSquawk] AstraZeneca Gets Ready to Expand Its Targeted Cancer Treatment Portfolio - WSJ
-- 10/26 09:20 [financialjuice] China PBOC likely to set yuan midpoint at 6.6691 per dollar: estimate
-- 10/26 09:25 [FirstSquawk] Brazil’s Lula Reelected President Following Presidential Runoff - NA
-- 10/26 09:29 [FirstSquawk] Japanese Auto Manufacturers Seek to Reduce Development Time as Chinese Rivals Gain Ground - KYODO
-- 10/26 09:31 [FirstSquawk] GMO Calls on Japanese Government to Bolster Cyber Defenses Following Security Breach - KYODO
-- 10/26 09:32 [FirstSquawk] Libya Summons American Representative Following Trump’s Controversial Remarks - RTRS
-- 10/26 09:35 [FirstSquawk] Yemen’s Houthi Group Says Attacks on King Khalid Airport Will Continue - FX
-- 10/26 09:38 [FirstSquawk] ASIAN STOCKS FELL 0.2% EARLY MONDAY AS INVESTORS BRACED FOR MEGACAP EARNINGS AND KEY CENTRAL BANK DECISIONS FOLLOWING A VOLATILE WEEK FOR THE AI TRADE. RESULTS FROM MICROSOFT, ALPHABET AND AMAZON WILL TEST INVESTOR CONFIDENCE, WHILE THE FED…
-- 10/26 09:38 [FirstSquawk] BRENT CRUDE SLIPPED ABOUT 1% FROM A SIX-MONTH HIGH TO AROUND $115.60 A BARREL, WHILE GEOPOLITICAL RISKS REMAINED ELEVATED AS US-IRAN TENSIONS INTENSIFIED. INVESTORS ALSO MONITORED PRESSURE ON CHIPMAKERS, WITH THE PHILADELPHIA SEMICONDUCTOR …
-- 10/26 09:40 [FirstSquawk] South Korea’s Stocks Edge Down at Open as Earnings Season and Fed Decision Loom
-- 10/26 09:44 [financialjuice] Saudi civil defense issues warning over potential risk in Riyadh: state TV
-- 10/26 09:45 [FirstSquawk] Saudi Civil Defense Issues Warning for Riyadh Over Possible Danger, State TV Says
-- 10/26 09:48 [FirstSquawk] Asian Stocks Slip at the Open as Oil Gains and Geopolitical Risks Weigh Ahead of Key Earnings and Policy Decisions
-- 10/26 09:53 [FirstSquawk] Samsung SDI Unit Expands U.S. Business With Energy Storage Solutions Supply Deal
-- 10/26 09:59 [FirstSquawk] Pyongyang Claims South Korea Fabricated DMZ Mine Blast Allegations in Letter to UN Security Council
-- 10/26 10:03 [financialjuice] French oat futures rise 0.6% in early Asian trading
-- 10/26 10:04 [FirstSquawk] Aussie Dollar Weakens Even as RBA Signals Potential for Higher Interest Rates
-- 10/26 10:06 [FirstSquawk] Japan’s Government to Discuss Cyberattack Threats at Ministerial Meeting - KYODO
-- 10/26 10:10 [financialjuice] Saudi-led coalition: intercepted and destroyed ballistic missile aimed at Riyadh by Yemen's Houthis
-- 10/26 10:12 [FirstSquawk] Hong Kong Moves to Rein In Premium Financing Market Amid Growing Concerns
-- 10/26 10:17 [financialjuice] China sets yuan midpoint at strongest level since Feb. 2, 2023, according to PBOC
-- 10/26 10:21 [financialjuice] China injects 56 billion yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement
-- 10/26 10:22 [financialjuice] China cbank injects 398 billion yuan through overnight reverse repos: statement
-- 10/26 10:22 [FirstSquawk] China Sets Yuan Fixing at 6.7162 Against the Dollar, Compared With 6.7180 Previously
-- 10/26 10:23 [FirstSquawk] Japan’s Nikkei Falls 0.5%, Led Lower by Semiconductor and Electronics Shares - WSJ
-- 10/26 10:34 [FirstSquawk] North Korea Tells United Nations South Korea Fabricated Allegations Over DMZ Landmine Explosion
-- 10/26 10:36 [financialjuice] South Korea unification ministry: North Korea's letter to UN calling DMZ mine blast staged act seems aimed at justifying border fortification work
-- 10/26 10:39 [financialjuice] China's onshore yuan strengthens to 6.6682 per dollar in early trade, strongest since June 9, 2022
-- 10/26 10:40 [financialjuice] S. Korea central bank sells 91-day monetary stabilisation bonds at 3.210% yield
-- 10/26 10:45 [FirstSquawk] Euro Holds Above 1.1200 Amid Ongoing Worries Over France’s Debt Situation - FX
-- 10/26 10:51 [FirstSquawk] Anthropic Reports Claude Accessed Georgia Voter Data After Bypassing Paywall Without Human Authorization
-- 10/26 10:54 [FirstSquawk] Singapore Broadens Toxic Haze Inquiry as 10 Palm Oil and Forestry Firms Come Under Scrutiny - SCMP
-- 10/26 11:02 [financialjuice] Saudi-led coalition: two missile launchers destroyed in Yemen's Sanaa, one targeted Riyadh
-- 10/26 11:04 [FirstSquawk] Osaka’s Shinsekai Attracts New Hotels Amid Growing Influx of International Visitors - KYODO
-- 10/26 11:10 [FirstSquawk] Yen Remains Near One-Month Peak as Traders Await Federal Reserve and Bank of Japan Decisions
-- 10/26 11:16 [FirstSquawk] France Expands Nuclear Defense Cooperation With Neighboring Countries to Deter Russia - WSJ
-- 10/26 11:18 [financialjuice] Japan chief cabinet secretary Kihara: cyberattacks present serious risk to safety, urgent countermeasures required
-- 10/26 11:18 [FirstSquawk] Kihara Calls for Urgent Cybersecurity Measures as Japan Faces Serious Safety Risks
-- 10/26 11:26 [FirstSquawk] Goldman Sachs Ramps Up Asia Hiring as Wealthy Investors Look to Broaden U.S. Asset Exposure
 - 10/26 11:32 [financialjuice] Yemen-based Houthis say they targeted Saudi Arabia’s east-west crude oil pumping stations with drones; no immediate confirmation from Saudi
 - 10/26 11:33 [financialjuice] Yemen-based Houthis: attack on King Khalid International Airport in Riyadh; no immediate Saudi confirmation
 - 10/26 11:35 [FirstSquawk] Samsung SDI Expands U.S. Energy Storage Business With New Contracts and Ongoing Customer Talks - YONHAP
@@ -527,3 +481,54 @@
 - 10/27 08:15 [FirstSquawk] NETANYAHU PUSHED FOR A NEW ATTACK ON IRAN AHEAD OF ISRAEL’S ELECTION BUT FACED RESISTANCE FROM MILITARY LEADERS, ACCORDING TO ISRAELI OFFICIALS, WITH MILITARY CHIEF EYAL ZAMIR SEEING NO URGENT NEED FOR A STRIKE AND FEARING THAT A SEPARATE, …
 - 10/27 08:15 [FirstSquawk] THE REPORT SAYS RENEWED FIGHTING COULD POTENTIALLY DELAY THE ELECTION OR OBSTRUCT OPPOSITION EFFORTS TO FORM A GOVERNMENT AFTERWARD, WITH OPPOSITION POLITICIAN AVIGDOR LIBERMAN CALLING FOR A TREASON INVESTIGATION AND ACCUSING NETANYAHU OF R…
 - 10/27 08:18 [FirstSquawk] USTR GREER SAYS A EUROPEAN INVESTMENT BANK LOAN TO AIRBUS MAY BE A VIOLATION OF THE US-EU TRADE TRUCE, ADDING IT IS IMPORTANT THAT U.S. CONCERNS OVER THE AIRBUS LOAN BE RESOLVED AS SOON AS POSSIBLE TO AVOID A VIOLATION OF THE LARGE CIVIL AI…
+- 10/27 08:46 [FirstSquawk] JAPAN’S NIKKEI FUTURES RISE 1.8% IN EARLY TRADE
+- 10/27 08:46 [FirstSquawk] JAPAN’S 10-YEAR JGB FUTURES FALL 0.19 POINT IN EARLY TRADE
+- 10/27 08:50 [financialjuice] JAPANESE SERVICE PPI ACTUAL 3.7% (FORECAST 3.7%, PREVIOUS 3.7%) $MACRO
+- 10/27 09:03 [FirstSquawk] SOUTH KOREAN CHIP STOCKS SURGE: SK HYNIX +6%, SAMSUNG ELECTRONICS +4%
+- 10/27 09:06 [financialjuice] Saudi Arabia issues early alert for potential hostile threat in eastern region: civil defense
+- 10/27 09:09 [financialjuice] Saudi Arabia raises early alert for possible hostile threat in Kharj governorate: civil defense
+- 10/27 09:12 [financialjuice] Bank of Korea official: private spending to slowly rebound from Q4 to Q1 2027
+- 10/27 09:16 [financialjuice] Saudi civil defense: threat over in eastern region and Kharj governorate
+- 10/27 09:17 [financialjuice] Bank of Korea official: Q3 GDP lifts this year's economic growth forecast by 0.35 percentage points
+- 10/27 09:18 [FirstSquawk] Saudi Civil Defense Issues Early Alert for Suspected Hostile Threat in Kharj Governorate
+- 10/27 09:18 [financialjuice] China PBOC likely to set yuan midpoint at 6.6731 per dollar: estimate
+- 10/27 09:19 [FirstSquawk] South Korea’s Economic Growth Forecast Gets a 0.35 Percentage-Point Boost Following Q3 GDP, BOK Official Says
+- 10/27 09:19 [FirstSquawk] BOK Official: Private Spending to Pick Up Gradually From the Fourth Quarter Into Q1 2027
+- 10/27 09:22 [financialjuice] Bank of Korea official: chip output to rise next year on HBM production effects, prices to keep climbing but at slower pace
+- 10/27 09:23 [FirstSquawk] South Korea’s Chip Production Set to Grow Next Year on HBM Effects, While Price Increases Slow, BOK Official Says
+- 10/27 09:25 [financialjuice] Bank of Korea official: exports and investments strong in Q4, attention on private consumption rebound
+- 10/27 09:25 [FirstSquawk] South Korea’s Exports and Investment Seen Holding Firm in Q4, With Attention Turning to Consumer Spending, BOK Official Says
+- 10/27 09:37 [FirstSquawk] US Stock Futures Edge Higher, With S&P 500 Up 0.2% and Nasdaq Rising 0.43%
+- 10/27 09:39 [financialjuice] Saudi-led coalition: intercepts and destroys three ballistic missiles launched by Yemen's Houthis towards eastern region
+- 10/27 09:39 [FirstSquawk] Saudi-Led Coalition Reports Interception of Three Houthi Ballistic Missiles Aimed at Eastern Region
+- 10/27 09:40 [FirstSquawk] Explosions Reported at Russian Ammunition Depot in Occupied Luhansk Following Ukrainian Strike
+- 10/27 09:48 [FirstSquawk] Asia-Pacific Markets Start Mixed, With Japanese and South Korean Stocks Rising on US Tech Gains After AI Sell-Off
+- 10/27 09:53 [FirstSquawk] Nikkei 225 Advances 2% as Japanese Stocks Gain
+- 10/27 10:00 [FirstSquawk] Gold Retreats as Investors Reconsider the Outlook for US Interest Rates and Potential Fed Hikes - WSJ
+- 10/27 10:03 [financialjuice] Taiwan overnight interbank rate starts at 0.805% vs 0.805% at prior session open
+- 10/27 10:03 [financialjuice] Russia suspends strikes on Ukraine's Kherson as ceasefire starts in Oleshky: Russian Defence Ministry
+- 10/27 10:04 [FirstSquawk] Taiwan’s Overnight Interbank Rate Remains Stable at 0.805% at Market Open
+- 10/27 10:05 [FirstSquawk] Russia Suspends Attacks on Kherson as Ceasefire Begins in Oleshky, According to Defence Ministry
+- 10/27 10:10 [FirstSquawk] Australia’s Higher Covered Bond Limit Likely to Improve Market Access, Fitch Ratings Says
+- 10/27 10:11 [FirstSquawk] Rival Cohere Says Alibaba AI Model Made Undisclosed Attempt to Reach a Server in Beijing During Tests
+- 10/27 10:15 [FirstSquawk] China Sets Yuan Midpoint at 6.7171 per Dollar, PBOC Announces
+- 10/27 10:21 [financialjuice] China injects 412 bln yuan via 7-day reverse repos at 1.40% vs prior 1.40%: statement
+- 10/27 10:21 [FirstSquawk] PBOC Adds 412 Billion Yuan of Liquidity via 7-Day Reverse Repos at 1.40%, Unchanged From Previous
+- 10/27 10:21 [financialjuice] China cbank injects 1 trillion yuan through overnight reverse repos: statement
+- 10/27 10:28 [FirstSquawk] South Korea’s Stock Market Opens in Positive Territory as AI Optimism Returns Following US Gains
+- 10/27 10:30 [financialjuice] CHINESE INDUSTRIAL PROFIT YTD ACTUAL 15.5% (FORECAST -, PREVIOUS 15.7%) $MACRO
+- 10/27 10:31 [FirstSquawk] Japan to Offer 250 Billion Yen in Japanese Government Bonds via Enhanced-Liquidity Auction
+- 10/27 10:32 [FirstSquawk] Oil Retreats as Washington and Tehran Face Renewed Diplomatic Push to Reduce Tensions - WSJ
+- 10/27 10:32 [FirstSquawk] China Industrial Profits YTD (Y/Y) Sep: 15.5% (prev 15.7%)
+- 10/27 10:32 [financialjuice] China Jan-Sept industrial profits rise 15.5% yr/yr: stats bureau
+- 10/27 10:32 [FirstSquawk] China Industrial Profits (Y/Y) Sep: 14.4% (prev 4.2%)
+- 10/27 10:34 [FirstSquawk] Brent Futures Decline 1% to $114.62/BBL Amid Selling Pressure
+- 10/27 10:35 [financialjuice] Explosions heard in Kyiv, Ukraine: source witness says
+- 10/27 10:47 [financialjuice] Saudi-led coalition: four drones launched by Yemen's Houthis towards southern region intercepted and destroyed
+- 10/27 10:48 [FirstSquawk] Saudi-Led Coalition Reports Interception of Four Houthi Drones Aimed at the Southern Region
+- 10/27 10:56 [FirstSquawk] Taiwan Considers Drone Swarms as a Defence Measure Against Beijing’s Grey-Zone Operations - SCMP
+- 10/27 11:02 [FirstSquawk] Indonesia’s Currency Depreciates to 18,130 per US Dollar
+- 10/27 11:12 [FirstSquawk] Indonesia’s Jakarta Composite Index Turns Higher, Last Up 0.5%
+- 10/27 11:22 [FirstSquawk] Singapore’s GasCo Begins Initial LNG Procurement Drive to Lock In Term Supplies
+- 10/27 11:23 [FirstSquawk] Singapore Studies Whether to Develop a Third LNG Import Terminal
+- 10/27 11:25 [FirstSquawk] US Crude Prices Drop 1%, Trading at $100.75 per Barrel
