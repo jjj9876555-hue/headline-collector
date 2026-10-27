@@ -7,99 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-27 11:26 JST／対象: 10/26 11:26 〜 10/27 11:26 JST（時刻はすべて日本時間）
+生成: 2026-10-27 17:18 JST／対象: 10/26 17:18 〜 10/27 17:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 88 | 10/26 16:39 | 10/27 06:27 | ⚠ 136分（00:43→02:59） |
-| FirstSquawk | 246 | 10/26 11:35 | 10/27 11:25 | 38分（06:54→07:32） |
-| financialjuice | 193 | 10/26 11:32 | 10/27 10:47 | ⚠ 49分（08:00→08:50） |
+| DeItaone | 87 | 10/26 18:16 | 10/27 06:27 | ⚠ 136分（00:43→02:59） |
+| FirstSquawk | 263 | 10/26 17:32 | 10/27 17:15 | 38分（06:54→07:32） |
+| financialjuice | 214 | 10/26 17:31 | 10/27 16:45 | ⚠ 77分（10:47→12:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 508 行（統合前 532 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 547 行（統合前 569 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/26 11:32 [financialjuice] Yemen-based Houthis say they targeted Saudi Arabia’s east-west crude oil pumping stations with drones; no immediate confirmation from Saudi
-- 10/26 11:33 [financialjuice] Yemen-based Houthis: attack on King Khalid International Airport in Riyadh; no immediate Saudi confirmation
-- 10/26 11:35 [FirstSquawk] Samsung SDI Expands U.S. Energy Storage Business With New Contracts and Ongoing Customer Talks - YONHAP
-- 10/26 11:36 [FirstSquawk] Jordanian Authorities Say Security Forces Brought Group of Outlaws to Their End
-- 10/26 11:51 [FirstSquawk] Hyundai Tops 50,000 Fuel Cell Vehicle Sales in South Korean Market
-- 10/26 11:57 [financialjuice] Top officials from Mecca pact countries Saudi Arabia, Turkey and Pakistan to meet Iranians in Tehran on Monday for regional coordination - two sources
-- 10/26 11:59 [financialjuice] Saudi Arabia to be represented by defence minister Prince Khalid bin Salman, Pakistan by army chief Munir: two sources
-- 10/26 12:08 [FirstSquawk] Kiwi Dollar Advances Near 0.5700 Amid Rising Bets on RBNZ Rate Increases - FX
-- 10/26 12:09 [FirstSquawk] Canadian Dollar Rises Despite Weakness in Crude Oil Markets - FX
-- 10/26 12:22 [FirstSquawk] Al Arabiya: Perpetrators of New Village Attack in Kerak Taken Into Custody
-- 10/26 12:33 [FirstSquawk] Japan Businesses Set to Compensate Customers After Large-Scale Cyberattacks - SCMP
-- 10/26 12:41 [FirstSquawk] Anchorpoint Plans Public Blockchain Stablecoin for Retail Users With Standard Chartered’s Backing
-- 10/26 12:46 [financialjuice] Saudi-led coalition: military operation targets Houthi sites in Yemen to neutralize threats - statement
-- 10/26 12:46 [FirstSquawk] Saudi-Led Forces Claim Strike Destroyed Five Missile Storage Sites and Four Launch Platforms in Houthi-Controlled Areas
-- 10/26 12:46 [financialjuice] Saudi-led coalition: operation demolished five ballistic missile storage sites and four launch platforms in Houthi-controlled areas
-- 10/26 12:50 [FirstSquawk] Thailand Projects 19% Export Growth This Year, Commerce Ministry Says
-- 10/26 13:04 [financialjuice] China Communist Party fifth plenum kicks off: CCTV
-- 10/26 13:06 [financialjuice] China's Xi presents work report at Communist Party plenum: CCTV
-- 10/26 13:06 [FirstSquawk] China Opens Fifth Plenum of Communist Party’s Central Committee, CCTV Says
-- 10/26 13:06 [FirstSquawk] Chinese President Xi Delivers Report to Communist Party Plenum, State Media Reports
-- 10/26 13:06 [financialjuice] Chinese auto group exec: China domestic car sales forecast to grow 2% in 2027
-- 10/26 13:22 [FirstSquawk] Japan’s 30-Year JGB Yield Rises 0.5 Basis Point to 3.835%
-- 10/26 13:41 [financialjuice] Iran's top security body deputy secretary Bagheri: Turkey, Saudi Arabia and Pakistan officials to hold regional security talks in Tehran - State TV
-- 10/26 13:42 [FirstSquawk] AUD/JPY Extends Decline Below 110.50, With Bearish Momentum Holding Under 100-Day SMA
-- 10/26 13:49 [financialjuice] Former Japanese Prime Minister Yasuo Fukuda dies at 90: Nikkei
-- 10/26 13:50 [FirstSquawk] Japan’s Former PM Yasuo Fukuda Passes Away at Age 90
-- 10/26 13:51 [FirstSquawk] Apple Price Target Increased to $270.62 From $263.66 by Jefferies
-- 10/26 14:00 [FirstSquawk] JAPAN (AUG) LEADING INDEX CI ACTUAL: 118.0 VS 118.0 PREVIOUS
-- 10/26 14:00 [FirstSquawk] JAPAN (AUG) COINCIDENT INDEX ACTUAL: 118.8 VS 118.7 PREVIOUS
-- 10/26 14:06 [financialjuice] Russian defence ministry: Russian forces strike cargo ship in Black Sea - RIA
-- 10/26 14:06 [FirstSquawk] EU Explores Trump-Style Measures to Secure Critical Mineral Supplies-FT
-- 10/26 14:08 [FirstSquawk] Germany Plans Missile Purchase to Gain Access to Ukrainian Defence Technology-FT
-- 10/26 14:08 [FirstSquawk] Tesla Advances Its AI Strategy While Rivals Scramble to Close the Gap-FT
-- 10/26 14:08 [FirstSquawk] Russian Military Reports Strike on Cargo Vessel in Black Sea
-- 10/26 14:19 [FirstSquawk] China’s Car Market Set for 2% Growth in 2027 After Sales Slump This Year
-- 10/26 14:33 [FirstSquawk] US Dollar Weakens Toward 101.50 as Safe-Haven Demand Fades and Fed Pause Odds Increase
-- 10/26 14:41 [financialjuice] Saudi merchandise exports fall 11.5% in August 2026: government data
-- 10/26 14:41 [financialjuice] Saudi aug non-oil exports, including re-exports, fell 9.1% versus August 2025: govt data
-- 10/26 14:45 [FirstSquawk] China Sees Fewer US Visitors Amid Focus on Turkey’s Rare Earth Deposit
-- 10/26 15:03 [FirstSquawk] EUR/USD Stays Above 1.1200 Despite Bearish Pressure Below 100-Day SMA
-- 10/26 15:04 [financialjuice] Two dead, 17 wounded in Ukrainian drone strike on Russia's Voronezh region: governor
-- 10/26 15:04 [financialjuice] Fire erupts at multiple industrial sites in Russia's Voronezh region: governor
-- 10/26 15:08 [FirstSquawk] EU Leaders Seek to Finalise €45 Billion Ukraine Loan Guaranteed by EU Budget Before Year-End
-- 10/26 15:22 [FirstSquawk] Gold Stays Above $4,000 After Rebound as Rate Hike Bets Weigh on Prices
-- 10/26 15:29 [FirstSquawk] Crude Oil Declines Amid Qatar’s Mediation Efforts-FT
-- 10/26 15:31 [FirstSquawk] Federal Reserve to Stick With Quarterly Rate Increases After Removing 2025 Insurance Cuts-FT
-- 10/26 15:46 [financialjuice] Russia thwarts Ukrainian drone attacks on energy facilities - IFX.
-- 10/26 15:49 [FirstSquawk] Russian Forces Thwart Ukrainian Drone Strikes Targeting Energy Infrastructure
-- 10/26 15:51 [FirstSquawk] Volkswagen China Advances Autonomous Driving Plans With Level 3 Road-Test Approval in Hefei
-- 10/26 15:51 [FirstSquawk] Japan’s 5-Year JGB Yield Rises 1 Basis Point to 2.230%
-- 10/26 16:00 [financialjuice] SWEDISH PPI MOM ACTUAL 3.4% (FORECAST -, PREVIOUS 0.9%) $MACRO
-- 10/26 16:00 [financialjuice] SWEDISH PPI YOY ACTUAL 11.2% (FORECAST -, PREVIOUS 6.8%) $MACRO
-- 10/26 16:17 [FirstSquawk] CHINA READY TO WORK WITH BRAZIL, GUO: ON LULA WIN
-- 10/26 16:19 [financialjuice] UK's PM Burnham rules out early election in ITV interview
-- 10/26 16:20 [FirstSquawk] UK PM ANDY BURNHAM: RULES OUT EARLY ELECTION IN ITV INTERVIEW
-- 10/26 16:21 [financialjuice] UK's PM Burnham: I'm not proposing rejoining the EU in this parliament
-- 10/26 16:21 [FirstSquawk] BURNHAM SAYS I'M NOT PROPOSING REJOINING EU IN THIS PARLIAMENT
-- 10/26 16:26 [FirstSquawk] UK PM SAYS I'D LIKE TO SEE UK REJOIN EU IN MY LIFETIME
-- 10/26 16:30 [financialjuice] UK's PM Burnham: Healey will set out on Wednesday path to meet our nato commitments
-- 10/26 16:30 [FirstSquawk] UK PM SAYS CHANGES NEEDED TO YOUTH JOB SUPPORT; MONEY CAN BE SAVED
-- 10/26 16:30 [financialjuice] UK's PM Burnham: Changes needed to youth job support; money can be saved
-- 10/26 16:31 [financialjuice] Iran's Baghaei: Meeting with Mecca Pact members in Tehran will tackle issues such as Israel's expansionist policies, Lebanon, and the US war against Iran
-- 10/26 16:31 [FirstSquawk] IRAN'S BAGHAEI: MEETING WITH MECCA PACT MEMBERS IN TEHRAN WILL TACKLE ISSUES SUCH AS ISRAEL'S EXPANSIONIST POLICIES, LEBANON, US WAR AGAINST IRAN
-- 10/26 16:35 [FirstSquawk] UK PM BURNHAM SAYS WE STAND BY THE PRINCIPLES OF WHAT HOME SECRETARY HAS SET OUT ON INDEFINITE LEAVE TO REMAIN
-- 10/26 16:37 [financialjuice] Iran's Foreign Ministry Spokesperson Baghaei: Regional security impossible without regional cooperation.
-- 10/26 16:38 [FirstSquawk] IRAN SAYS REGIONAL SECURITY IMPOSSIBLE WITHOUT REGIONAL COOPERATION
-- 10/26 16:39 [DeItaone] FRANCE'S 10-YR BOND YIELD DOWN 5.3 BPS TO 4.9685% AFTER MOODY'S MAINTAINS SOVEREIGN RATING ON FRIDAY
-- 10/26 16:42 [financialjuice/FirstSquawk] Iran President to go to Russia Monday for gas summit - Tasnim.
-- 10/26 16:44 [FirstSquawk] FRENCH INTERIOR MINISTER NUNEZ SAYS CLEARLY EXPECTING RISK OF MORE TROUBLE IN CASE OF FURTHER DEMONSTRATIONS ON OCTOBER 31
-- 10/26 16:44 [FirstSquawk] FRENCH INTERIOR MINISTER NUNEZ SAYS WILL BE AN "EXTREMELY ROBUST" DEPLOYMENT OF SECURITY FORCES FOR NEXT WEEKEND
-- 10/26 16:56 [FirstSquawk] IRAN SAYS FORCES WILL DELIVER 'CRUSHING RESPONSE' TO AGGRESSORS
-- 10/26 16:58 [FirstSquawk] IRAN SAYS MONDAY'S TALKS TO COVER ISRAEL, LEBANON, PALESTINE
-- 10/26 17:02 [FirstSquawk] BRITAIN'S FTSE 100 UP 0.23%; FRANCE'S CAC 40 UP 0.46%; SPAIN'S IBEX DOWN 0.85%
-- 10/26 17:04 [FirstSquawk] GERMANY'S DAX UP 0.15%
-- 10/26 17:07 [financialjuice/FirstSquawk] China's Commerce Ministry seeks public feedback on draft rule to protect Chinese trade secrets - Notice
-- 10/26 17:12 [FirstSquawk] IRAN SAYS QATAR OFFICIAL VISITED TEHRAN SUNDAY AS PART OF MEDIATION.
 - 10/26 17:31 [financialjuice/FirstSquawk] EU to present new curbs on china trade as early as Q1 2027.
 - 10/26 17:31 [financialjuice/FirstSquawk] EU also considering caps or quotas on Chinese furniture.
 - 10/26 17:32 [FirstSquawk] EU PLANS TO HIT CHINA WITH IMPORT CURBS ON CHEMICALS, FURNITURE
@@ -532,3 +456,118 @@
 - 10/27 11:22 [FirstSquawk] Singapore’s GasCo Begins Initial LNG Procurement Drive to Lock In Term Supplies
 - 10/27 11:23 [FirstSquawk] Singapore Studies Whether to Develop a Third LNG Import Terminal
 - 10/27 11:25 [FirstSquawk] US Crude Prices Drop 1%, Trading at $100.75 per Barrel
+- 10/27 11:31 [FirstSquawk] South Korea Sets 20-Year Treasury Bond Yield at 4.155% in Latest Sale
+- 10/27 11:40 [FirstSquawk] Asian FX Markets Consolidate Ahead of the Federal Reserve’s Policy Announcement - WSJ
+- 10/27 11:56 [FirstSquawk] Tetsuya Chiba, Renowned Japanese Cartoonist Behind “Tomorrow’s Joe,” Dies at 87, Kyodo Says
+- 10/27 11:57 [FirstSquawk] GMO Internet Calls for Computers to Be Disconnected Amid Looming Midday Cyberattack
+- 10/27 12:04 [FirstSquawk] Philippine Benchmark Index Jumps 1.6% to Reach 5,731.54 at Its Session High
+- 10/27 12:05 [financialjuice] Ukraine's Kyiv mayor: southern bridge and subway hit in strike
+- 10/27 12:05 [FirstSquawk] Kyiv Mayor Says Attack Damaged Southern Bridge and Metro System
+- 10/27 12:13 [FirstSquawk] Dollar Index Holds a Positive Tone Around 102.00 Ahead of Fed Decision - FX
+- 10/27 12:18 [FirstSquawk] ADNOC Drilling’s Revenue Rises to $3.71 Billion in First Nine Months of 2026
+- 10/27 12:25 [FirstSquawk] Japanese Corporate Services Prices Climb 3.7% From a Year Earlier in September
+- 10/27 12:32 [FirstSquawk] South Korean Military Says North Korea’s Western Border Artillery Is Not a New Weapons System
+- 10/27 12:37 [financialjuice] Israeli military: Egyptian civilian held after crossing border fence from Egypt into Israel near Nitzana
+- 10/27 12:37 [financialjuice] Israeli military: Incident regarded seriously, continues high defensive readiness in area
+- 10/27 12:38 [FirstSquawk] Egyptian Civilian Held After Crossing Into Israel From Egyptian Territory Near Nitzana, Israeli Military Says
+- 10/27 12:40 [FirstSquawk] CDC Deputy Director Jennifer Shuford to Exit Trump Administration After Six Months, Washington Post Reports
+- 10/27 12:40 [financialjuice] China finance ministry offers 3-month bills at 1.1222% yield: traders
+- 10/27 12:45 [FirstSquawk] Hong Kong Equity Fundraising Comes Under Pressure After Fourth IPO Is Pulled Since Midyear
+- 10/27 12:48 [FirstSquawk] Jefferies Increases Paycom Software Price Target to $300, Up From $160
+- 10/27 12:51 [FirstSquawk] Yield on Japan’s 2-Year Government Bond Rises to 1.885%
+- 10/27 12:55 [FirstSquawk] German Chancellor Says EU’s Push for Closer ASEAN Ties Complements Talks With Canada
+- 10/27 12:56 [FirstSquawk] German Chancellor Merz Highlights EU’s Strategic Interest in Open Markets Amid CPTPP Collaboration
+- 10/27 13:02 [financialjuice] One killed, 30 injured as drone strikes passenger bus in Russia-occupied Zaporizhzhia Russia-installed official says
+- 10/27 13:02 [FirstSquawk] Russian-Installed Official Reports One Fatality and 30 Injuries in Drone Attack on Bus in Zaporizhzhia
+- 10/27 13:05 [financialjuice] Taiwan central bank: forecasts robust economic expansion this year, steady growth in 2025
+- 10/27 13:05 [FirstSquawk] Taiwan Central Bank Sees Strong Growth Momentum This Year, Stability Next Year
+- 10/27 13:05 [financialjuice] Taiwan central bank: demand for emerging technologies to remain robust next year, supporting exports and private investment
+- 10/27 13:06 [financialjuice] Taiwan central bank: forecasts Taiwan GDP growth of 5.82% next year
+- 10/27 13:06 [FirstSquawk] Taiwan Central Bank Sees Continued Emerging-Technology Demand Driving Export Growth and Private Investment in 2027
+- 10/27 13:07 [FirstSquawk] HSBC Q3 Earnings: • Rev: $18.6B (est $18.93B) • Pretax Profit: $9.63B (est $9.70B) • Announces Share Buyback Of Up To $1B • Expects Banking NII Of At Least $46B In 2026
+- 10/27 13:07 [FirstSquawk] Taiwan’s GDP Growth Forecast at 5.82% for Next Year, Central Bank Says
+- 10/27 13:07 [financialjuice] Taiwan central bank: geopolitical risks, climate conditions are main uncertainties shaping future inflation path in Taiwan
+- 10/27 13:07 [FirstSquawk] Taiwan Central Bank Identifies Geopolitical Risks and Climate Conditions as Key Inflation Uncertainties
+- 10/27 13:09 [financialjuice] Taiwan central bank: current monetary policy stance is tightening
+- 10/27 13:10 [FirstSquawk] Geopolitical Tensions and Climate Factors Remain Major Unknowns for Taiwan’s Inflation Outlook, Central Bank Says
+- 10/27 13:10 [financialjuice] Taiwan central bank: Taiwan dollar depreciates against U.S. dollar this year, holds steady versus other major currencies
+- 10/27 13:11 [FirstSquawk] Taiwan Dollar Depreciates Versus US Dollar in 2026 While Holding Steady Against Other Major Currencies, Central Bank Says
+- 10/27 13:13 [financialjuice] Taiwan central bank: Taiwan dollar falls 1.25% against US dollar in H1 amid foreign net selling of stocks and dividend outflows
+- 10/27 13:14 [FirstSquawk] Taiwan Dollar Falls 1.25% Against US Dollar in H1 Amid Foreign Stock Outflows and Dividend Payments, Central Bank Says
+- 10/27 13:18 [FirstSquawk] Taiwan Central Bank Sees No Major Deterioration in Banks’ Loan Quality, Says Risks Remain Contained
+- 10/27 13:18 [financialjuice] Taiwan Central Bank: Banks' loan quality stable, loan risks contained
+- 10/27 13:22 [FirstSquawk] Singapore Dollar Consolidates as Markets Eye Fed Decision, With Risk Appetite Offering Support - WSJ
+- 10/27 13:25 [financialjuice] Moody's sovereign analyst: Japan showing signs of steady growth, stable inflation
+- 10/27 13:25 [financialjuice] Moody's analyst: future rating action hinges on whether Japan's recent resilience endures future shocks
+- 10/27 13:25 [FirstSquawk] Japan Displays Signs of Lasting Growth and Stable Inflation, Moody’s Sovereign Analyst Says
+- 10/27 13:26 [FirstSquawk] Future Rating Decisions on Japan to Depend on the Durability of Its Recent Resilience, Moody’s Analyst Says
+- 10/27 13:39 [financialjuice] Finmin Katayama: Govt prepared to take decisive steps in fx market
+- 10/27 13:39 [FirstSquawk] Japan Stands Prepared to Take Firm Action on Foreign Exchange, Finance Minister Katayama Says
+- 10/27 13:40 [financialjuice] Katayama: closely monitoring market moves with heightened urgency including at this moment
+- 10/27 13:40 [financialjuice] Katayama: yen must shift to reflect fundamentals
+- 10/27 13:41 [financialjuice] Katayam: aim to sustain market confidence in yen, Takaichi administration’s fiscal approach via clear, consistent communication
+- 10/27 13:41 [FirstSquawk] Japan’s Katayama Seeks to Preserve Trust in Yen and Takaichi Administration’s Fiscal Policy With Consistent Messaging
+- 10/27 13:44 [financialjuice] Katayama: aims to preserve market confidence in yen, Takaichi administration's fiscal policy via transparent, consistent communication (adds dropped letter)
+- 10/27 13:52 [financialjuice] Ukraine drone strike kills one, injures six in Russia’s Bryansk, governor says
+- 10/27 14:00 [financialjuice] Russia strikes transport infrastructure in Ukraine's Kyiv, logistics center in Kharkiv region: Russian defense ministry
+- 10/27 14:00 [FirstSquawk] Russian Attacks Target Kyiv Transport Infrastructure and a Logistics Hub in Kharkiv Region, Newswires Report
+- 10/27 14:03 [FirstSquawk] Bank of England Seeks Review of Revolut’s Product Approval Controls, According to FT
+- 10/27 14:06 [financialjuice] Meta announces pricing of depositary shares linked to series A mandatory convertible preferred stock and Class A common stock in forward sale agreements
+- 10/27 14:09 [financialjuice] Meta: pricing of 250 million series A depositary shares at public offering price of $50 per share
+- 10/27 14:24 [financialjuice] India oil minister: expanding refining capacity to support domestic demand, uphold export pledge
+- 10/27 14:24 [financialjuice] Meta prices $25 billion of class A common stock at $625 per share in public offering
+- 10/27 14:25 [FirstSquawk] Australian Shares Gain 0.5% as S&P/ASX 200 Settles at 8,850.10
+- 10/27 14:25 [FirstSquawk] Meta Sets Public Offering Price at $625 Per Share for $25 Billion Class A Stock Sale
+- 10/27 14:33 [FirstSquawk] US Accounts for 67% of India’s LPG Imports, According to Oil Minister
+- 10/27 14:35 [financialjuice] No pressure from United States to reduce Russian oil imports
+- 10/27 14:35 [financialjuice] India oil minister: india now sources 67% of lpg imports from US
+- 10/27 14:37 [FirstSquawk] India Faces No Pressure From Washington to Scale Back Russian Crude Imports, Oil Minister Says
+- 10/27 14:37 [financialjuice] India oil minister: no US pressure to reduce Russian oil imports
+- 10/27 14:37 [financialjuice] India oil minister: Middle East crude supply is increasing as they can ship more
+- 10/27 14:52 [financialjuice] Nvidia and Meta to broaden partnership on Muse and Muse family of models amid strong growth
+- 10/27 14:52 [financialjuice] Nvidia to invest $3 billion in Meta equity offering
+- 10/27 14:53 [financialjuice] Nvidia and Meta Explore Collaboration on OpenShell Reference Architecture and Nvidia Sentry
+- 10/27 14:53 [FirstSquawk] Meta and Nvidia Deepen Partnership on Muse Model Family as Demand Grows
+- 10/27 14:53 [financialjuice] Meta to broaden use of Nvidia Vera Rubin, Vera CPUs, Spectrum-X, and BlueField-4
+- 10/27 14:54 [financialjuice] China's 30-year government bond futures due in December rise 0.4% to record 118.56
+- 10/27 15:00 [financialjuice] Finnish October consumer confidence at -9.7 points: Statistics Finland
+- 10/27 15:01 [financialjuice] Finnish October industry confidence rises 2 points, Ek says
+- 10/27 15:04 [FirstSquawk] HSBC Earnings Climb as Bank Plans $1 Billion in Share Repurchases, WSJ Reports
+- 10/27 15:04 [financialjuice] Russian defense ministry: Russian forces strike cargo ship in Black Sea
+- 10/27 15:12 [FirstSquawk] Japan’s 30-Year JGB Yield Rises 1.5 Basis Points to 3.820%
+- 10/27 15:24 [FirstSquawk] China Sales of iPhone 18 Pro Models Jump 29% as Supply Improves and Competitors Raise Prices, Counterpoint Finds
+- 10/27 15:24 [FirstSquawk] Global Sales Growth Depends Heavily on China, With US and Japan Sales Declining Amid Rising Prices, Counterpoint Says
+- 10/27 15:36 [FirstSquawk] Porsche Reaffirms Annual Guidance With Revenue Forecast at €35B–€36B
+- 10/27 15:38 [FirstSquawk] China Confirms Philippines-Based Defence Attaché Will Attend ASEAN Defence Ministers’ Meeting-Plus
+- 10/27 15:39 [financialjuice] EU securities regulator: Market infrastructure is resilient. Looking at leveraged funds and margin calls
+- 10/27 15:40 [FirstSquawk] China Seeks Discussions With Other Parties on Enhancing Dialogue, Understanding and Trust, Defence Ministry Says
+- 10/27 15:40 [FirstSquawk] China Reiterates Strong Commitment to ASEAN’s Central Role, Defence Ministry Says
+- 10/27 15:58 [FirstSquawk] Novartis CEO Says Current M&A Strategy Remains Appropriate and Requires No Changes
+- 10/27 16:00 [financialjuice] SWEDISH TRADE BALANCE ACTUAL 4.1B (FORECAST -, PREVIOUS -11.9B) $MACRO
+- 10/27 16:01 [financialjuice] Currency Strength Chart: Strongest: NZD, AUD, USD, CAD, CHF, GBP, EUR, JPY - Weakest
+- 10/27 16:02 [FirstSquawk] SWEDEN TRADE BALANCE (SEK) SEP: 4.1B (PREV -11.9B)
+- 10/27 16:02 [FirstSquawk] SWEDEN HOUSEHOLD LENDING (Y/Y) SEP: 3.4% (PREV 3.3%)
+- 10/27 16:03 [financialjuice] Coreweave expands AI platform to Denmark, the Middle East, and Asia
+- 10/27 16:09 [FirstSquawk] RECKITT Q3 2026 EARNINGS: VOLUME -0.7% (EST 1.08%); PRICE/MIX +3.9% (EST 2.76%); SEES FY CORE RECKITT LFL SALES +3.5% TO +4.5% (CUTS FORECAST)
+- 10/27 16:12 [FirstSquawk] APPLE IPHONE SALES IN INDIA FALL UP TO 30% DURING FESTIVE SEASON; HIGHER PRICES, WEAKER PROMOTIONS HIT DEMAND
+- 10/27 16:14 [financialjuice] China to dispatch officials to the Middle East in a bid to defuse tension
+- 10/27 16:15 [financialjuice] China Foreign Ministry, on EU planning trade measures: China always believes China-EU trade ties are partnership in nature.
+- 10/27 16:15 [FirstSquawk] CHINA FOREIGN MINISTRY, ON EU PLANNING TRADE MEASURES : CHINA ALWAYS BELIEVES CHINA-EU TRADE TIES ARE PARTNERSHIP IN NATURE 27 Oct 2026 12:44:32 - CHINA FOREIGN MINISTRY, ON EU PLANNING TRADE MEASURES : HOPES EU WILL NOT ABUSE TRADE REMEDY …
+- 10/27 16:15 [FirstSquawk] CHINA FOREIGN MINISTRY, ON EU PLANNING TRADE MEASURES : CHINA ALWAYS BELIEVES CHINA-EU TRADE TIES ARE PARTNERSHIP IN NATURE; CHINA FOREIGN MINISTRY, ON EU PLANNING TRADE MEASURES : HOPES EU WILL NOT ABUSE TRADE REMEDY TOOLS
+- 10/27 16:19 [FirstSquawk] SAUDI CIVIL DEFENSE: ISSUES ALERT OF POTENTIAL DANGER IN NAJRAN CITY
+- 10/27 16:19 [financialjuice] Saudi civil defense issues an alert of potential danger in Najran city
+- 10/27 16:24 [financialjuice] French retailers won't refill released diesel stocks - Politico
+- 10/27 16:26 [FirstSquawk] SAUDI DEFENSE: DANGER PASSED IN NAJRAN CITY
+- 10/27 16:28 [FirstSquawk] TOTALENERGIES SE - DIVESTMENT OF ITS 10% NON-OPERATED INTEREST IN RENAISSANCE JV LICENSES TO VAARIS FOR AN AGGREGATE AMOUNT OF US$ 800m
+- 10/27 16:39 [FirstSquawk] PORSCHE AG CFO SAYS WE DO NOT HAVE ANY KNOWLEDGE THAT THERE ARE DISCUSSIONS ABOUT A BROADER US TARIFF RELIEF AT PARENT VOLKSWAGEN, WE ASSUME TARIFFS REMAIN IN PLACE
+- 10/27 16:42 [financialjuice] Germany's Merz: I am in favour of a trade agreement between the EU and the ASEAN bloc. It needs to happen quickly.
+- 10/27 16:44 [FirstSquawk] GSK EXPECTS TO NEARLY DOUBLE THE NUMBER OF CANCER MEDICINES IT IS TESTING IN CLINICAL TRIALS NEXT YEAR; WSJ
+- 10/27 16:45 [FirstSquawk] KATAYAMA SAYS WILL DO EVERYTHING POSSIBLE ON CYBERATTACK MEASURES
+- 10/27 16:45 [financialjuice] FRENCH CONSUMER CONFIDENCE ACTUAL 80 (FORECAST 85, PREVIOUS 86) $MACRO
+- 10/27 16:46 [FirstSquawk] FRANCE OCTOBER CONSUMER CONFIDENCE FALLS TO 80; EST. 85
+- 10/27 16:46 [FirstSquawk] FRANCE OCTOBER CONSUMER CONFIDENCE FALLS TO LOWEST SINCE JUNE 2013
+- 10/27 16:50 [FirstSquawk] GERMANY'S MERZ SAYS IT WOULD BE ABSOLUTELY UNACCEPTABLE IF THE USA, RUSSIA, AND CHINA WERE TO TRY TO REACH AN UNDERSTANDING WITHOUT THE UKRAINIANS
+- 10/27 17:01 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 0.87%; FRANCE'S CAC 40 DOWN 0.34%; SPAIN'S IBEX DOWN 0.38%
+- 10/27 17:01 [FirstSquawk] U.S. S&P 500 E-MINI FUTURES DOWN 0.2%, NASDAQ 100 FUTURES DOWN 0.5%, DOW FUTURES FLAT
+- 10/27 17:04 [FirstSquawk] GERMANY'S DAX DOWN 0.17%
+- 10/27 17:15 [FirstSquawk] META PLATFORMS SHARES DOWN 0.5% PREMARKET AFTER CO ANNOUNCES PRICING OF STOCK OFFERING
