@@ -7,74 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-28 08:12 JST／対象: 10/27 08:12 〜 10/28 08:12 JST（時刻はすべて日本時間）
+生成: 2026-10-28 11:15 JST／対象: 10/27 11:15 〜 10/28 11:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 59 | 10/27 19:27 | 10/28 04:49 | ⚠ 54分（01:15→02:10） |
-| FirstSquawk | 256 | 10/27 08:15 | 10/28 08:04 | ⚠ 143分（02:12→04:36） |
-| financialjuice | 237 | 10/27 08:50 | 10/28 08:08 | ⚠ 77分（10:47→12:05） |
+| DeItaone | 62 | 10/27 19:27 | 10/28 09:19 | ⚠ 215分（04:49→08:24） |
+| FirstSquawk | 303 | 10/27 11:22 | 10/28 11:14 | ⚠ 143分（02:12→04:36） |
+| financialjuice | 299 | 10/27 12:05 | 10/28 11:14 | ⚠ 69分（08:08→09:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 537 行（統合前 558 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 649 行（統合前 670 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/27 08:15 [FirstSquawk] NETANYAHU PUSHED FOR A NEW ATTACK ON IRAN AHEAD OF ISRAEL’S ELECTION BUT FACED RESISTANCE FROM MILITARY LEADERS, ACCORDING TO ISRAELI OFFICIALS, WITH MILITARY CHIEF EYAL ZAMIR SEEING NO URGENT NEED FOR A STRIKE AND FEARING THAT A SEPARATE, …
-- 10/27 08:15 [FirstSquawk] THE REPORT SAYS RENEWED FIGHTING COULD POTENTIALLY DELAY THE ELECTION OR OBSTRUCT OPPOSITION EFFORTS TO FORM A GOVERNMENT AFTERWARD, WITH OPPOSITION POLITICIAN AVIGDOR LIBERMAN CALLING FOR A TREASON INVESTIGATION AND ACCUSING NETANYAHU OF R…
-- 10/27 08:18 [FirstSquawk] USTR GREER SAYS A EUROPEAN INVESTMENT BANK LOAN TO AIRBUS MAY BE A VIOLATION OF THE US-EU TRADE TRUCE, ADDING IT IS IMPORTANT THAT U.S. CONCERNS OVER THE AIRBUS LOAN BE RESOLVED AS SOON AS POSSIBLE TO AVOID A VIOLATION OF THE LARGE CIVIL AI…
-- 10/27 08:46 [FirstSquawk] JAPAN’S NIKKEI FUTURES RISE 1.8% IN EARLY TRADE
-- 10/27 08:46 [FirstSquawk] JAPAN’S 10-YEAR JGB FUTURES FALL 0.19 POINT IN EARLY TRADE
-- 10/27 08:50 [financialjuice] JAPANESE SERVICE PPI ACTUAL 3.7% (FORECAST 3.7%, PREVIOUS 3.7%) $MACRO
-- 10/27 09:03 [FirstSquawk] SOUTH KOREAN CHIP STOCKS SURGE: SK HYNIX +6%, SAMSUNG ELECTRONICS +4%
-- 10/27 09:06 [financialjuice] Saudi Arabia issues early alert for potential hostile threat in eastern region: civil defense
-- 10/27 09:09 [financialjuice] Saudi Arabia raises early alert for possible hostile threat in Kharj governorate: civil defense
-- 10/27 09:12 [financialjuice] Bank of Korea official: private spending to slowly rebound from Q4 to Q1 2027
-- 10/27 09:16 [financialjuice] Saudi civil defense: threat over in eastern region and Kharj governorate
-- 10/27 09:17 [financialjuice] Bank of Korea official: Q3 GDP lifts this year's economic growth forecast by 0.35 percentage points
-- 10/27 09:18 [FirstSquawk] Saudi Civil Defense Issues Early Alert for Suspected Hostile Threat in Kharj Governorate
-- 10/27 09:18 [financialjuice] China PBOC likely to set yuan midpoint at 6.6731 per dollar: estimate
-- 10/27 09:19 [FirstSquawk] South Korea’s Economic Growth Forecast Gets a 0.35 Percentage-Point Boost Following Q3 GDP, BOK Official Says
-- 10/27 09:19 [FirstSquawk] BOK Official: Private Spending to Pick Up Gradually From the Fourth Quarter Into Q1 2027
-- 10/27 09:22 [financialjuice] Bank of Korea official: chip output to rise next year on HBM production effects, prices to keep climbing but at slower pace
-- 10/27 09:23 [FirstSquawk] South Korea’s Chip Production Set to Grow Next Year on HBM Effects, While Price Increases Slow, BOK Official Says
-- 10/27 09:25 [financialjuice] Bank of Korea official: exports and investments strong in Q4, attention on private consumption rebound
-- 10/27 09:25 [FirstSquawk] South Korea’s Exports and Investment Seen Holding Firm in Q4, With Attention Turning to Consumer Spending, BOK Official Says
-- 10/27 09:37 [FirstSquawk] US Stock Futures Edge Higher, With S&P 500 Up 0.2% and Nasdaq Rising 0.43%
-- 10/27 09:39 [financialjuice] Saudi-led coalition: intercepts and destroys three ballistic missiles launched by Yemen's Houthis towards eastern region
-- 10/27 09:39 [FirstSquawk] Saudi-Led Coalition Reports Interception of Three Houthi Ballistic Missiles Aimed at Eastern Region
-- 10/27 09:40 [FirstSquawk] Explosions Reported at Russian Ammunition Depot in Occupied Luhansk Following Ukrainian Strike
-- 10/27 09:48 [FirstSquawk] Asia-Pacific Markets Start Mixed, With Japanese and South Korean Stocks Rising on US Tech Gains After AI Sell-Off
-- 10/27 09:53 [FirstSquawk] Nikkei 225 Advances 2% as Japanese Stocks Gain
-- 10/27 10:00 [FirstSquawk] Gold Retreats as Investors Reconsider the Outlook for US Interest Rates and Potential Fed Hikes - WSJ
-- 10/27 10:03 [financialjuice] Taiwan overnight interbank rate starts at 0.805% vs 0.805% at prior session open
-- 10/27 10:03 [financialjuice] Russia suspends strikes on Ukraine's Kherson as ceasefire starts in Oleshky: Russian Defence Ministry
-- 10/27 10:04 [FirstSquawk] Taiwan’s Overnight Interbank Rate Remains Stable at 0.805% at Market Open
-- 10/27 10:05 [FirstSquawk] Russia Suspends Attacks on Kherson as Ceasefire Begins in Oleshky, According to Defence Ministry
-- 10/27 10:10 [FirstSquawk] Australia’s Higher Covered Bond Limit Likely to Improve Market Access, Fitch Ratings Says
-- 10/27 10:11 [FirstSquawk] Rival Cohere Says Alibaba AI Model Made Undisclosed Attempt to Reach a Server in Beijing During Tests
-- 10/27 10:15 [FirstSquawk] China Sets Yuan Midpoint at 6.7171 per Dollar, PBOC Announces
-- 10/27 10:21 [financialjuice] China injects 412 bln yuan via 7-day reverse repos at 1.40% vs prior 1.40%: statement
-- 10/27 10:21 [FirstSquawk] PBOC Adds 412 Billion Yuan of Liquidity via 7-Day Reverse Repos at 1.40%, Unchanged From Previous
-- 10/27 10:21 [financialjuice] China cbank injects 1 trillion yuan through overnight reverse repos: statement
-- 10/27 10:28 [FirstSquawk] South Korea’s Stock Market Opens in Positive Territory as AI Optimism Returns Following US Gains
-- 10/27 10:30 [financialjuice] CHINESE INDUSTRIAL PROFIT YTD ACTUAL 15.5% (FORECAST -, PREVIOUS 15.7%) $MACRO
-- 10/27 10:31 [FirstSquawk] Japan to Offer 250 Billion Yen in Japanese Government Bonds via Enhanced-Liquidity Auction
-- 10/27 10:32 [FirstSquawk] Oil Retreats as Washington and Tehran Face Renewed Diplomatic Push to Reduce Tensions - WSJ
-- 10/27 10:32 [FirstSquawk] China Industrial Profits YTD (Y/Y) Sep: 15.5% (prev 15.7%)
-- 10/27 10:32 [financialjuice] China Jan-Sept industrial profits rise 15.5% yr/yr: stats bureau
-- 10/27 10:32 [FirstSquawk] China Industrial Profits (Y/Y) Sep: 14.4% (prev 4.2%)
-- 10/27 10:34 [FirstSquawk] Brent Futures Decline 1% to $114.62/BBL Amid Selling Pressure
-- 10/27 10:35 [financialjuice] Explosions heard in Kyiv, Ukraine: source witness says
-- 10/27 10:47 [financialjuice] Saudi-led coalition: four drones launched by Yemen's Houthis towards southern region intercepted and destroyed
-- 10/27 10:48 [FirstSquawk] Saudi-Led Coalition Reports Interception of Four Houthi Drones Aimed at the Southern Region
-- 10/27 10:56 [FirstSquawk] Taiwan Considers Drone Swarms as a Defence Measure Against Beijing’s Grey-Zone Operations - SCMP
-- 10/27 11:02 [FirstSquawk] Indonesia’s Currency Depreciates to 18,130 per US Dollar
-- 10/27 11:12 [FirstSquawk] Indonesia’s Jakarta Composite Index Turns Higher, Last Up 0.5%
 - 10/27 11:22 [FirstSquawk] Singapore’s GasCo Begins Initial LNG Procurement Drive to Lock In Term Supplies
 - 10/27 11:23 [FirstSquawk] Singapore Studies Whether to Develop a Third LNG Import Terminal
 - 10/27 11:25 [FirstSquawk] US Crude Prices Drop 1%, Trading at $100.75 per Barrel
@@ -561,3 +510,166 @@
 - 10/28 08:04 [FirstSquawk] ISRAEL’S SMOTRICH SAYS HE SEES ON SOME SCREENS THAT “THE ARABS ARE CELEBRATING TONIGHT,” AND ANNOUNCES “WE WILL NOT LET THEM CELEBRATE,” SAYING THEY BELIEVE THEY WILL SUCCEED IN REVERSING THE “SETTLEMENT REVOLUTION” IN THE WEST BANK BUT “TH…
 - 10/28 08:04 [FirstSquawk] ISRAEL’S SMOTRICH SAYS ARABS ARE CELEBRATING BECAUSE THEY THINK THEY WILL SUCCEED IN PREVENTING THE ESTABLISHMENT OF ISRAELI SETTLEMENTS IN GAZA, ADDING “THEY WILL NOT SUCCEED. JEWISH SETTLEMENTS WILL BE ESTABLISHED IN GAZA”
 - 10/28 08:08 [financialjuice] Danger has passed in Jeddah and Yanbu: Saudi civil defense
+- 10/28 08:24 [DeItaone] EISENKOT: THE ISRAELI PUBLIC HAS VOTED FOR CHANGE AND AGAINST NETANYAHU
+- 10/28 09:17 [DeItaone] NETANYAHU FACES ELECTION SETBACK AS ISRAELI EXIT POLLS SHOW DEADLOCK Israeli exit polls show Prime Minister Benjamin Netanyahu’s bloc running neck and neck with opposition leader Gadi Eisenkot, with neither side projected to secure the 61 s…
+- 10/28 09:18 [financialjuice] Netanyahu's bloc now leads Eisenkot's bloc: updated Channel 12 exit poll
+- 10/28 09:18 [financialjuice] RBA governor Bullock: monetary policy acts with delay, full impact of recent rate hikes not yet seen on domestic activity
+- 10/28 09:18 [financialjuice] RBA Governor Bullock: impact of Middle East conflict on economic activity has been relatively modest so far
+- 10/28 09:19 [financialjuice] RBA Governor Bullock: Household spending growth easing only gradually
+- 10/28 09:19 [financialjuice] RBA Governor Bullock: extended phase of weak aggregate demand needed to ease capacity pressures
+- 10/28 09:19 [DeItaone] OPENAI REPORTEDLY PLANS TO BUY GOOGLE AI CHIPS OpenAI plans to purchase AI chips from Google ($GOOGL), according to The Information, citing a person familiar with the matter. Financial terms and the size of the potential deal were not discl…
+- 10/28 09:19 [financialjuice] RBA governor Bullock: Inflation will likely exceed August base case
+- 10/28 09:19 [financialjuice] RBA Governor Bullock: oil and related prices jump sharply again, will significantly boost inflation
+- 10/28 09:20 [financialjuice] RBA Governor Bullock: short-term inflation outlook remains elevated
+- 10/28 09:20 [financialjuice] Impact of Middle East conflict on economic activity has been relatively modest so far
+- 10/28 09:20 [financialjuice] Monetary policy works with a lag: Full effects of recent rate hikes yet to impact domestic activity
+- 10/28 09:20 [financialjuice] Household spending growth has been slowing only gradually
+- 10/28 09:20 [financialjuice] RBA Governor Bullock: inflation still seen from domestic capacity pressures
+- 10/28 09:20 [financialjuice] RBA Governor Bullock: labour market appears slightly tighter than previously assessed
+- 10/28 09:20 [financialjuice] China PBOC likely to fix yuan midpoint at 6.6734 per dollar: estimate
+- 10/28 09:30 [financialjuice] ❗ AUSTRALIAN CPI YOY NSA ACTUAL 4.3% (FORECAST 4.2%, PREVIOUS 4%) $MACRO
+- 10/28 09:30 [financialjuice] ‼ BREAKING: AUSTRALIAN CPI QOQ ACTUAL 1.3% (FORECAST 1.2%, PREVIOUS 0.6%) $MACRO
+- 10/28 09:30 [financialjuice] ❗ RBA TRIMMED MEAN CPI YOY ACTUAL 3.7% (FORECAST 3.6%, PREVIOUS 3.6%) $MACRO
+- 10/28 09:30 [financialjuice] ❗ RBA TRIMMED MEAN CPI QOQ ACTUAL 1% (FORECAST 1%, PREVIOUS 0.8%) $MACRO
+- 10/28 09:30 [financialjuice] ❗ RBA WEIGHTED MEDIAN CPI QOQ ACTUAL 1.0% (FORECAST -, PREVIOUS 0.7%) $MACRO
+- 10/28 09:30 [financialjuice] ❗ RBA WEIGHTED MEAN CPI YOY ACTUAL 3.6% (FORECAST -, PREVIOUS 3.6%) $MACRO
+- 10/28 09:30 [financialjuice] Australia Sept RBA Weighted Median CPI Rises 3.4% Year/Year
+- 10/28 09:30 [financialjuice] Australia Sept CPI (all groups) rises 0.8% m/m
+- 10/28 09:30 [financialjuice] Australia Sept RBA weighted median CPI rises 0.2% m/m
+- 10/28 09:30 [FirstSquawk] RBA TRIMMED MEAN CPI ROSE 1.0% QOQ, IN LINE WITH FORECAST, AND 3.7% YOY, ABOVE THE FORECAST OF 3.6%, WITH THE WEIGHTED MEDIAN CPI UP 1.0% QOQ
+- 10/28 09:30 [financialjuice] Australia Sept RBA trimmed mean CPI rises 3.6% yr/yr
+- 10/28 09:31 [financialjuice] Australia Sept CPI (all groups) rises 4.3% year on year
+- 10/28 09:31 [FirstSquawk] AUSTRALIA Q3 CPI ROSE 1.3% QOQ, ABOVE THE POLL OF 1.2%, AND 3.9% YOY, IN LINE WITH THE POLL AND DOWN FROM 4.0%
+- 10/28 09:31 [financialjuice] Australia Q3 RBA weighted median CPI rises 3.6% year on year, matching poll expectations
+- 10/28 09:31 [financialjuice] Australia Q3 RBA trimmed mean CPI rose 3.7% yr/yr, poll expected 3.6%
+- 10/28 09:31 [FirstSquawk] RBA Governor Bullock: The Reserve Bank is assessing whether the interest rate increases implemented so far will be enough to return inflation to target within a reasonable period.
+- 10/28 09:31 [financialjuice] Australia Sept RBA trimmed mean CPI rises 0.3% m/m
+- 10/28 09:31 [FirstSquawk] RBA TRIMMED MEAN CPI, THE KEY CORE MEASURE, ROSE 1.0% QOQ, IN LINE WITH THE POLL, AND 3.7% YOY, ABOVE THE POLL OF 3.6%, WITH THE WEIGHTED MEDIAN CPI UP 1.0% QOQ AND 3.6% YOY
+- 10/28 09:31 [financialjuice] Australia Q3 CPI (all groups) rises 1.3% q/q, poll expected 1.2%
+- 10/28 09:31 [financialjuice] Meta launches Muse personal AI assistant in Singapore
+- 10/28 09:31 [financialjuice] Australia Q3 RBA weighted median CPI rises 1% q/q, poll expected 1.1%
+- 10/28 09:31 [financialjuice] Australia Q3 RBA trimmed mean CPI rises 1% q/q, in line with poll
+- 10/28 09:31 [financialjuice] ❗ AUSTRALIAN CPI YOY ACTUAL 3.9% (FORECAST -, PREVIOUS 4.0%) $MACRO
+- 10/28 09:31 [FirstSquawk] RBA Governor Bullock: Achieving price stability while maintaining full employment remains central to the RBA’s policy objectives.
+- 10/28 09:31 [financialjuice] Australia Q3 consumer price index rises 3.9% year-on-year, in line with poll
+- 10/28 09:31 [FirstSquawk] RBA Governor Bullock: Although elevated borrowing costs are challenging for households and businesses, persistent inflation cannot be tolerated.
+- 10/28 09:31 [FirstSquawk] RBA Governor Bullock: The effects of monetary tightening take time to filter through the economy, meaning the impact of recent rate hikes has yet to fully materialise.
+- 10/28 09:31 [FirstSquawk] RBA Governor Bullock: Economic activity has experienced only a relatively limited impact from the ongoing conflict in the Middle East so far.
+- 10/28 09:31 [FirstSquawk] RBA Governor Bullock: Consumer spending continues to slow, but the pace of moderation remains gradual.
+- 10/28 09:31 [FirstSquawk] RBA Governor Bullock: Demand across the economy needs to remain subdued for longer to relieve existing capacity constraints.
+- 10/28 09:31 [FirstSquawk] RBA Governor Bullock: The inflation outlook has deteriorated, with price growth now expected to exceed the RBA’s August baseline projections.
+- 10/28 09:31 [FirstSquawk] RBA Governor Bullock: Another sharp increase in oil and related prices is expected to contribute significantly to inflationary pressures.
+- 10/28 09:31 [FirstSquawk] RBA Governor Bullock: Near-term inflation expectations remain high, adding to concerns about the inflation outlook.
+- 10/28 09:31 [FirstSquawk] RBA Governor Bullock: Inflation continues to be fuelled in part by domestic demand and capacity pressures within the economy.
+- 10/28 09:32 [FirstSquawk] RBA Governor Bullock: Conditions in the labour market appear tighter than the central bank had previously estimated.
+- 10/28 09:33 [FirstSquawk] Australia CPI (M/M) Sep: 0.8% (est 0.7%; prev 0.4%)
+- 10/28 09:33 [FirstSquawk] Australia CPI (Y/Y): 4.3% (est 4.2%; prev 4.0%)
+- 10/28 09:33 [FirstSquawk] Australia CPI Trimmed Mean (M/M): 0.3% (est 0.3%; prev 0.2%)
+- 10/28 09:33 [FirstSquawk] Australia CPI Trimmed Mean (Y/Y): 3.6% (est 3.6%; prev 3.6%)
+- 10/28 09:33 [FirstSquawk] Australia CPI (Q/Q) Q3: 1.3% (est 1.2%; prev 0.6%)
+- 10/28 09:33 [FirstSquawk] Australia CPI Trimmed Mean (Q/Q): 1.0% (est 1.0%; prev 0.8%)
+- 10/28 09:33 [FirstSquawk] Australia CPI Trimmed Mean (Y/Y): 3.7% (est 3.6%; prev 3.6%)
+- 10/28 09:34 [FirstSquawk] Aussie Dollar Rises 0.4% to $0.7053 After Inflation Figures
+- 10/28 09:38 [financialjuice] Anthropic selects JPMorgan to head US retail offering in IPO
+- 10/28 09:39 [financialjuice] RBA Deputy Governor Hauser: CPI figures meet expectations but remain elevated
+- 10/28 09:39 [FirstSquawk] RBA Deputy Governor Hauser Says Consumer Price Data Meets Expectations but Is Still Too High
+- 10/28 09:39 [FirstSquawk] SK Hynix Says Company Shares Are Trading Below Their Intrinsic Value
+- 10/28 09:44 [FirstSquawk] SK Hynix’s DRAM and HBM Output Is Fully Committed Through 2029
+- 10/28 09:46 [FirstSquawk] Vietnam Government Weighs Eliminating Special Consumption Tax on Gasoline
+- 10/28 09:49 [FirstSquawk] Vietnam May Lower Electricity Prices Beginning Next Month
+- 10/28 09:51 [FirstSquawk] 2-Year JGB Yield Climbs 0.5 Basis Point to 1.880%
+- 10/28 09:52 [financialjuice] RBA's Hunter: August CPI was stronger than expected
+- 10/28 09:52 [FirstSquawk] RBA’s Hunter: August Consumer Price Data Was Stronger Than Anticipated
+- 10/28 09:52 [financialjuice] RBA Governor Bullock: unable to provide outlook for board decision
+- 10/28 09:53 [FirstSquawk] RBA’s Bullock Says She Cannot Signal the Board’s Decision
+- 10/28 09:53 [financialjuice] RBA Governor Bullock: CPI points to upside risks for inflation
+- 10/28 09:53 [FirstSquawk] RBA Governor Bullock: Consumer Price Data Reinforces Upside Inflation Risks
+- 10/28 09:56 [financialjuice] RBA Governor Bullock: challenging to fully see through supply shocks
+- 10/28 09:58 [FirstSquawk] RBA’s Bullock Says It Is Challenging to Disregard Supply Shocks Completely
+- 10/28 10:00 [financialjuice] ‼ BREAKING: NEW ZEALAND CASH RATE ACTUAL 2.75% (FORECAST 3%, PREVIOUS 2.75%) $MACRO
+- 10/28 10:01 [FirstSquawk] New Zealand’s RBNZ Keeps OCR Unchanged at 2.75%
+- 10/28 10:01 [financialjuice] New Zealand's Reserve Bank keeps OCR steady at 2.75%
+- 10/28 10:01 [financialjuice] Monetary policy committee today votes 4-3 to keep OCR at 2.75%
+- 10/28 10:01 [FirstSquawk] Taiwan Overnight Interbank Rate Starts Session at 0.805%, Unchanged From Previous Open
+- 10/28 10:01 [financialjuice] Reserve Bank of New Zealand sets official cash rate at 2.75%
+- 10/28 10:01 [financialjuice] Taiwan overnight interbank rate starts at 0.805% unchanged from prior session
+- 10/28 10:01 [financialjuice] RBNZ: all committee members concur on overall inflation outlook
+- 10/28 10:02 [financialjuice] RBNZ: global factors contributing to inflation pressures
+- 10/28 10:02 [financialjuice] New Zealand dollar falls 1.4% to $0.5600 after Reserve Bank keeps rates steady
+- 10/28 10:02 [financialjuice] RBNZ: committee agreed stronger monetary policy likely needed
+- 10/28 10:02 [financialjuice] Difficult to fully assess supply shocks
+- 10/28 10:02 [financialjuice] RBNZ: members varied in emphasis on risks and timing of monetary policy response
+- 10/28 10:02 [financialjuice] pi signals upside risks for inflation
+- 10/28 10:02 [financialjuice] RBNZ: Committee agrees tighter monetary policy probably needed, depends on economic outlook
+- 10/28 10:02 [financialjuice] RBNZ members agreed on inflation forecast, differed on risk weightings
+- 10/28 10:02 [financialjuice] RBNZ: New Zealand’s recovery may be stronger than expected but could lose momentum if global environment weakens
+- 10/28 10:03 [financialjuice] RBNZ: committee focused on bringing inflation back to 2 percent target midpoint over medium term
+- 10/28 10:03 [financialjuice] RBNZ minutes: more OCR hikes probable, but dependent on economic outlook
+- 10/28 10:03 [financialjuice] RBNZ minutes: four members Anna Breman, Carl Hansen, Prasanna Gal, Rebecca Williams vote to hold OCR, three members Paul Conway, Hayley Gourley, Karen Silk back increase
+- 10/28 10:03 [financialjuice] RBNZ minutes: ongoing higher refined fuel prices and currency depreciation could risk greater indirect inflation effects
+- 10/28 10:04 [financialjuice] RBNZ minutes: risk inflation entrenches before conventional expectations adjust despite previous two OCR hikes
+- 10/28 10:04 [financialjuice] RBNZ minutes: certain domestic financial conditions ease amid lower exchange rate and decline in some term lending rates
+- 10/28 10:05 [financialjuice] RBNZ minutes: committee focuses on medium-term inflation outlook
+- 10/28 10:05 [FirstSquawk] SK Hynix Forecasts Strong HBM Revenue Growth in the Coming Year
+- 10/28 10:06 [FirstSquawk] China’s Carmakers Expand Overseas as Falling Home-Market Sales Intensify Industry Pressure - WSJ
+- 10/28 10:06 [FirstSquawk] Dollar Gains 0.75% Against Shekel, Trading at 3.077
+- 10/28 10:07 [FirstSquawk] SK Hynix Seeks to Optimize Utilization of Current 6F-Square Technology
+- 10/28 10:08 [financialjuice] RBA’s Hunter: don’t expect recession in Australia
+- 10/28 10:09 [FirstSquawk] SK Hynix Says 4F-Square Technology Development and Commercialization Must Be Treated Separately
+- 10/28 10:09 [FirstSquawk] RBA’s Hunter: Australian Economy Is Not Expected to Slip Into Recession
+- 10/28 10:11 [FirstSquawk] RBNZ: POLICYMAKERS REACH CONSENSUS ON THE DIRECTION OF THE INFLATION OUTLOOK
+- 10/28 10:11 [FirstSquawk] RBNZ: INTERNATIONAL DEVELOPMENTS ARE INTENSIFYING UPSIDE RISKS TO PRICES
+- 10/28 10:11 [FirstSquawk] RBNZ: ADDITIONAL MONETARY TIGHTENING IS EXPECTED TO BE NEEDED TO CONTAIN INFLATION
+- 10/28 10:11 [FirstSquawk] RBNZ: POLICYMAKERS DISAGREE ON THE SIGNIFICANCE OF INDIVIDUAL RISKS AND WHEN TO RESPOND
+- 10/28 10:11 [FirstSquawk] RBNZ: THE CASE FOR FURTHER TIGHTENING WILL DEPEND ON HOW ECONOMIC CONDITIONS EVOLVE
+- 10/28 10:12 [FirstSquawk] RBNZ: UNANIMOUS VIEW ON INFLATION CONTRASTS WITH DIFFERING ASSESSMENTS OF POTENTIAL RISKS
+- 10/28 10:12 [FirstSquawk] RBNZ: NEW ZEALAND'S RECOVERY MAY OUTPERFORM EXPECTATIONS, THOUGH A DETERIORATING GLOBAL BACKDROP COULD WEAKEN GROWTH
+- 10/28 10:12 [FirstSquawk] RBNZ: PRICE STABILITY REMAINS THE PRIORITY, WITH INFLATION EXPECTED TO RETURN TO THE 2% TARGET MIDPOINT OVER THE MEDIUM TERM
+- 10/28 10:12 [FirstSquawk] RBNZ MINUTES: ADDITIONAL OCR INCREASES REMAIN A POSSIBILITY, SUBJECT TO ECONOMIC DEVELOPMENTS
+- 10/28 10:12 [FirstSquawk] RBNZ MINUTES: FOUR POLICYMAKERS — ANNA BREMAN, CARL HANSEN, PRASANNA GAI AND REBECCA WILLIAMS — SUPPORTED LEAVING THE OCR UNCHANGED, WHILE PAUL CONWAY, HAYLEY GOURLEY AND KAREN SILK BACKED A HIKE
+- 10/28 10:12 [FirstSquawk] RBNZ MINUTES: PERSISTENTLY HIGH REFINED FUEL COSTS, COMBINED WITH A WEAKER CURRENCY, COULD SPREAD INFLATION MORE BROADLY THROUGH THE ECONOMY
+- 10/28 10:12 [FirstSquawk] RBNZ MINUTES: INFLATION EXPECTATIONS COULD BECOME FIRMLY ESTABLISHED BEFORE STANDARD INDICATORS CAPTURE THE SHIFT, EVEN AFTER TWO OCR INCREASES
+- 10/28 10:12 [FirstSquawk] RBNZ MINUTES: EASIER CONDITIONS IN PARTS OF THE DOMESTIC FINANCIAL SYSTEM REFLECT CURRENCY WEAKNESS AND FALLING RATES ON SOME TERM LOANS
+- 10/28 10:12 [FirstSquawk] RBNZ MINUTES: POLICY DELIBERATIONS CONTINUE TO CENTRE ON ACHIEVING MEDIUM-TERM INFLATION OBJECTIVES
+- 10/28 10:14 [FirstSquawk] Brent Oil Futures Gain $1.48, Reaching $115.36 per Barrel
+- 10/28 10:15 [FirstSquawk] US Crude Futures Rise $1.22 to $101.12 a Barrel
+- 10/28 10:16 [FirstSquawk] China’s PBOC Fixes Yuan Central Parity Rate at 6.7165/USD
+- 10/28 10:17 [FirstSquawk] Star Entertainment’s Star Queensland Fined A$65 Million by Australian Federal Court
+- 10/28 10:18 [FirstSquawk] Star Entertainment’s Star Sydney Hit With A$195 Million Fine by Australian Federal Court
+- 10/28 10:18 [financialjuice] Israel's PM Netanyahu: 'we are still awaiting tangible results'
+- 10/28 10:18 [FirstSquawk] Netanyahu Says “We Are Still Awaiting Meaningful Outcomes”
+- 10/28 10:18 [financialjuice] Israel's PM Netanyahu: Likud remains largest party in Israel
+- 10/28 10:19 [FirstSquawk] Netanyahu Claims Likud Remains the Biggest Party in Israel
+- 10/28 10:20 [financialjuice] Israel's PM Netanyahu: 'we must form a robust right-wing national government'
+- 10/28 10:20 [FirstSquawk] Netanyahu: “A Strong National Government With a Right-Wing Agenda Must Be Formed”
+- 10/28 10:20 [financialjuice] Australian dollar climbs 2% against New Zealand dollar to NZ$1.2602, highest since early 2013
+- 10/28 10:21 [financialjuice] RBA Governor Bullock: domestic demand still exceeds domestic supply
+- 10/28 10:21 [financialjuice] China central bank injects 151 billion yuan via 7-day reverse repos at 1.40% vs prior 1.40%: statement
+- 10/28 10:24 [financialjuice] Israel's PM Netanyahu: israel faces historic chance to eliminate iranian threat
+- 10/28 10:31 [FirstSquawk] 20-Year Japanese Government Bond Yield Rises 4 Bps to 3.635%
+- 10/28 10:35 [financialjuice] Taiwan central bank chief: Taiwan dollar's relative weakness this year due to foreign investors profit-taking on stocks
+- 10/28 10:36 [FirstSquawk] Foreign Investors’ Profit-Taking in Taiwan Stocks Weighs on Taiwan Dollar This Year, Central Bank Chief Says
+- 10/28 10:40 [FirstSquawk] USD/ILS Gains 1% to 3.084 Amid Israeli Exit Polls Showing Deadlock
+- 10/28 10:47 [FirstSquawk] 10-Year Japanese Government Bond Yield Rises 4 Bps to 2.825%
+- 10/28 10:48 [financialjuice] Taiwan central bank chief: never said cpi can’t stay above 2%, 2% is merely a benchmark
+- 10/28 10:48 [FirstSquawk] Taiwan Central Bank Chief: Never Said Inflation Cannot Remain Above 2%; Level Is Just a Benchmark
+- 10/28 10:54 [FirstSquawk] Taiwan Keeps 80% of Its Foreign Exchange Reserves in U.S. Bonds, Central Bank Chief Says
+- 10/28 10:54 [financialjuice] Taiwan central bank chief: 80% of current forex reserves held in U.S. bonds
+- 10/28 10:57 [FirstSquawk] China’s Benchmark Coking Coal Contract Gains 3.71%, Reaching 1,438 Yuan a Ton
+- 10/28 11:00 [FirstSquawk] US Energy Department Closes $5.1 Billion Loan Package for Alliant Energy to Expand Power Generation and Strengthen Iowa, Wisconsin Grids
+- 10/28 11:02 [FirstSquawk] Indonesia’s Benchmark Index Drops 0.4% to 5,245.744 Points in Early Session
+- 10/28 11:02 [FirstSquawk] RBNZ Governor Breman Says Additional Tightening May Be Necessary Depending on the Economy
+- 10/28 11:02 [financialjuice] RBNZ Governor Breman: likely need for tighter policy depends on economy
+- 10/28 11:05 [financialjuice] RBNZ Governor Breman: panel reviewed fall in NZD, if persistent could boost imported inflation
+- 10/28 11:05 [FirstSquawk] RBNZ Governor Breman Warns Prolonged NZ Dollar Depreciation Could Raise Import Prices
+- 10/28 11:08 [FirstSquawk] 10-Year Japanese Government Bond Yield Advances 4 Bps to 2.825%
+- 10/28 11:09 [financialjuice] RBNZ Governor Breman: more tightening may be required, even reaching restrictive levels
+- 10/28 11:09 [FirstSquawk] RBNZ Governor Breman: Monetary Policy May Need to Become More Restrictive
+- 10/28 11:11 [financialjuice] RBNZ Governor Breman: further rate hikes probable at upcoming meetings
+- 10/28 11:12 [FirstSquawk] RBNZ Governor Breman Expects Additional Monetary Tightening Over Upcoming Meetings
+- 10/28 11:12 [FirstSquawk] RBNZ Governor Breman Says Committee Assessed Market Pricing Alongside Economic Outlook
+- 10/28 11:12 [financialjuice] RBNZ Governor Breman: decision reflects economic outlook, considered market pricing
+- 10/28 11:13 [FirstSquawk] RBNZ Governor Says Inflation Can Still Be Brought Back to Target Under Current Conditions
+- 10/28 11:13 [financialjuice] RBNZ Governor Breman: conditions remain favourable to return inflation to target
+- 10/28 11:14 [FirstSquawk] RBNZ Governor Says Wage Growth Has Yet to Reach Levels Compatible With Inflation Target
+- 10/28 11:14 [financialjuice] RBNZ Governor Breman says wage growth below levels consistent with target inflation
