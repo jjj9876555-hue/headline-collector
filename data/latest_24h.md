@@ -7,79 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-28 14:35 JST／対象: 10/27 14:35 〜 10/28 14:35 JST（時刻はすべて日本時間）
+生成: 2026-10-28 17:38 JST／対象: 10/27 17:38 〜 10/28 17:38 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 62 | 10/27 19:27 | 10/28 09:19 | ⚠ 215分（04:49→08:24） |
-| FirstSquawk | 294 | 10/27 14:37 | 10/28 14:27 | ⚠ 143分（02:12→04:36） |
-| financialjuice | 301 | 10/27 14:35 | 10/28 11:43 | ⚠ 69分（08:08→09:18） |
+| FirstSquawk | 285 | 10/27 18:21 | 10/28 17:36 | ⚠ 143分（02:12→04:36） |
+| financialjuice | 284 | 10/27 17:47 | 10/28 17:11 | ⚠ 246分（11:43→15:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 642 行（統合前 663 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 614 行（統合前 637 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/27 14:35 [financialjuice] No pressure from United States to reduce Russian oil imports
-- 10/27 14:35 [financialjuice] India oil minister: india now sources 67% of lpg imports from US
-- 10/27 14:37 [FirstSquawk] India Faces No Pressure From Washington to Scale Back Russian Crude Imports, Oil Minister Says
-- 10/27 14:37 [financialjuice] India oil minister: no US pressure to reduce Russian oil imports
-- 10/27 14:37 [financialjuice] India oil minister: Middle East crude supply is increasing as they can ship more
-- 10/27 14:52 [financialjuice] Nvidia and Meta to broaden partnership on Muse and Muse family of models amid strong growth
-- 10/27 14:52 [financialjuice] Nvidia to invest $3 billion in Meta equity offering
-- 10/27 14:53 [financialjuice] Nvidia and Meta Explore Collaboration on OpenShell Reference Architecture and Nvidia Sentry
-- 10/27 14:53 [FirstSquawk] Meta and Nvidia Deepen Partnership on Muse Model Family as Demand Grows
-- 10/27 14:53 [financialjuice] Meta to broaden use of Nvidia Vera Rubin, Vera CPUs, Spectrum-X, and BlueField-4
-- 10/27 14:54 [financialjuice] China's 30-year government bond futures due in December rise 0.4% to record 118.56
-- 10/27 15:00 [financialjuice] Finnish October consumer confidence at -9.7 points: Statistics Finland
-- 10/27 15:01 [financialjuice] Finnish October industry confidence rises 2 points, Ek says
-- 10/27 15:04 [FirstSquawk] HSBC Earnings Climb as Bank Plans $1 Billion in Share Repurchases, WSJ Reports
-- 10/27 15:04 [financialjuice] Russian defense ministry: Russian forces strike cargo ship in Black Sea
-- 10/27 15:12 [FirstSquawk] Japan’s 30-Year JGB Yield Rises 1.5 Basis Points to 3.820%
-- 10/27 15:24 [FirstSquawk] China Sales of iPhone 18 Pro Models Jump 29% as Supply Improves and Competitors Raise Prices, Counterpoint Finds
-- 10/27 15:24 [FirstSquawk] Global Sales Growth Depends Heavily on China, With US and Japan Sales Declining Amid Rising Prices, Counterpoint Says
-- 10/27 15:36 [FirstSquawk] Porsche Reaffirms Annual Guidance With Revenue Forecast at €35B–€36B
-- 10/27 15:38 [FirstSquawk] China Confirms Philippines-Based Defence Attaché Will Attend ASEAN Defence Ministers’ Meeting-Plus
-- 10/27 15:39 [financialjuice] EU securities regulator: Market infrastructure is resilient. Looking at leveraged funds and margin calls
-- 10/27 15:40 [FirstSquawk] China Seeks Discussions With Other Parties on Enhancing Dialogue, Understanding and Trust, Defence Ministry Says
-- 10/27 15:40 [FirstSquawk] China Reiterates Strong Commitment to ASEAN’s Central Role, Defence Ministry Says
-- 10/27 15:58 [FirstSquawk] Novartis CEO Says Current M&A Strategy Remains Appropriate and Requires No Changes
-- 10/27 16:00 [financialjuice] SWEDISH TRADE BALANCE ACTUAL 4.1B (FORECAST -, PREVIOUS -11.9B) $MACRO
-- 10/27 16:01 [financialjuice] Currency Strength Chart: Strongest: NZD, AUD, USD, CAD, CHF, GBP, EUR, JPY - Weakest
-- 10/27 16:02 [FirstSquawk] SWEDEN TRADE BALANCE (SEK) SEP: 4.1B (PREV -11.9B)
-- 10/27 16:02 [FirstSquawk] SWEDEN HOUSEHOLD LENDING (Y/Y) SEP: 3.4% (PREV 3.3%)
-- 10/27 16:03 [financialjuice] Coreweave expands AI platform to Denmark, the Middle East, and Asia
-- 10/27 16:09 [FirstSquawk] RECKITT Q3 2026 EARNINGS: VOLUME -0.7% (EST 1.08%); PRICE/MIX +3.9% (EST 2.76%); SEES FY CORE RECKITT LFL SALES +3.5% TO +4.5% (CUTS FORECAST)
-- 10/27 16:12 [FirstSquawk] APPLE IPHONE SALES IN INDIA FALL UP TO 30% DURING FESTIVE SEASON; HIGHER PRICES, WEAKER PROMOTIONS HIT DEMAND
-- 10/27 16:14 [financialjuice] China to dispatch officials to the Middle East in a bid to defuse tension
-- 10/27 16:15 [financialjuice] China Foreign Ministry, on EU planning trade measures: China always believes China-EU trade ties are partnership in nature.
-- 10/27 16:15 [FirstSquawk] CHINA FOREIGN MINISTRY, ON EU PLANNING TRADE MEASURES : CHINA ALWAYS BELIEVES CHINA-EU TRADE TIES ARE PARTNERSHIP IN NATURE 27 Oct 2026 12:44:32 - CHINA FOREIGN MINISTRY, ON EU PLANNING TRADE MEASURES : HOPES EU WILL NOT ABUSE TRADE REMEDY …
-- 10/27 16:15 [FirstSquawk] CHINA FOREIGN MINISTRY, ON EU PLANNING TRADE MEASURES : CHINA ALWAYS BELIEVES CHINA-EU TRADE TIES ARE PARTNERSHIP IN NATURE; CHINA FOREIGN MINISTRY, ON EU PLANNING TRADE MEASURES : HOPES EU WILL NOT ABUSE TRADE REMEDY TOOLS
-- 10/27 16:19 [FirstSquawk] SAUDI CIVIL DEFENSE: ISSUES ALERT OF POTENTIAL DANGER IN NAJRAN CITY
-- 10/27 16:19 [financialjuice] Saudi civil defense issues an alert of potential danger in Najran city
-- 10/27 16:24 [financialjuice] French retailers won't refill released diesel stocks - Politico
-- 10/27 16:26 [FirstSquawk] SAUDI DEFENSE: DANGER PASSED IN NAJRAN CITY
-- 10/27 16:28 [FirstSquawk] TOTALENERGIES SE - DIVESTMENT OF ITS 10% NON-OPERATED INTEREST IN RENAISSANCE JV LICENSES TO VAARIS FOR AN AGGREGATE AMOUNT OF US$ 800m
-- 10/27 16:39 [FirstSquawk] PORSCHE AG CFO SAYS WE DO NOT HAVE ANY KNOWLEDGE THAT THERE ARE DISCUSSIONS ABOUT A BROADER US TARIFF RELIEF AT PARENT VOLKSWAGEN, WE ASSUME TARIFFS REMAIN IN PLACE
-- 10/27 16:42 [financialjuice] Germany's Merz: I am in favour of a trade agreement between the EU and the ASEAN bloc. It needs to happen quickly.
-- 10/27 16:44 [FirstSquawk] GSK EXPECTS TO NEARLY DOUBLE THE NUMBER OF CANCER MEDICINES IT IS TESTING IN CLINICAL TRIALS NEXT YEAR; WSJ
-- 10/27 16:45 [FirstSquawk] KATAYAMA SAYS WILL DO EVERYTHING POSSIBLE ON CYBERATTACK MEASURES
-- 10/27 16:45 [financialjuice] FRENCH CONSUMER CONFIDENCE ACTUAL 80 (FORECAST 85, PREVIOUS 86) $MACRO
-- 10/27 16:46 [FirstSquawk] FRANCE OCTOBER CONSUMER CONFIDENCE FALLS TO 80; EST. 85
-- 10/27 16:46 [FirstSquawk] FRANCE OCTOBER CONSUMER CONFIDENCE FALLS TO LOWEST SINCE JUNE 2013
-- 10/27 16:50 [FirstSquawk] GERMANY'S MERZ SAYS IT WOULD BE ABSOLUTELY UNACCEPTABLE IF THE USA, RUSSIA, AND CHINA WERE TO TRY TO REACH AN UNDERSTANDING WITHOUT THE UKRAINIANS
-- 10/27 17:01 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 0.87%; FRANCE'S CAC 40 DOWN 0.34%; SPAIN'S IBEX DOWN 0.38%
-- 10/27 17:01 [FirstSquawk] U.S. S&P 500 E-MINI FUTURES DOWN 0.2%, NASDAQ 100 FUTURES DOWN 0.5%, DOW FUTURES FLAT
-- 10/27 17:04 [FirstSquawk] GERMANY'S DAX DOWN 0.17%
-- 10/27 17:15 [FirstSquawk] META PLATFORMS SHARES DOWN 0.5% PREMARKET AFTER CO ANNOUNCES PRICING OF STOCK OFFERING
-- 10/27 17:20 [financialjuice] Taiwan September M2 money supply rises 7.24%
-- 10/27 17:20 [financialjuice] Taiwan Sept M2 money supply expands 7.24%
-- 10/27 17:25 [financialjuice] Saudi Arabia contains fire near Ras Tanura oil hub after attack.
-- 10/27 17:26 [financialjuice] Iran, Egypt foreign ministers discuss Middle East in call.
 - 10/27 17:47 [financialjuice] NVIDIA to invest $3b in Meta - CNBC
 - 10/27 17:55 [financialjuice] Iran's PGSA: Sinokor vessels have committed most violations.
 - 10/27 17:56 [financialjuice] Iran's PGSA: Legal action to be taken against Sinokor vessels.
@@ -666,3 +610,31 @@
 - 10/28 14:07 [FirstSquawk] Taiwan’s Benchmark Stock Market Gains Over 2%
 - 10/28 14:24 [FirstSquawk] Japan’s Kyushu Electric Secures Annual Supply of 12 LNG Cargoes From LNG Canada Expansion
 - 10/28 14:27 [FirstSquawk] Yonhap: Hacking Attempts Against South Korean Financial Companies Traced to Multiple North Korean IP Addresses
+- 10/28 14:39 [FirstSquawk] Bank of England Set to Start Short-Term Precautionary Monetary Tightening in November, FT Reports
+- 10/28 15:35 [FirstSquawk] Kospi Jumps 6.63% at Close for Its Strongest Single-Day Rise Since July 31
+- 10/28 15:45 [FirstSquawk] Norway’s PM Reveals Ukraine War Was Central Topic of Tuesday’s Conversation With Putin
+- 10/28 15:49 [financialjuice] UK Chancellor abolishes standing charges on gas bills to make payments fairer
+- 10/28 16:00 [financialjuice] GERMAN GFK CONSUMER SENTIMENT ACTUAL -30.8 (FORECAST -30.3, PREVIOUS -30.6) $MACRO
+- 10/28 16:00 [FirstSquawk] NORWAY (SEP) CREDIT INDICATOR GROWTH YOY ACTUAL: 4.9% VS 4.5% PREVIOUS
+- 10/28 16:01 [FirstSquawk] NORWAY (SEP) RETAIL SALES W/AUTO FUEL MOM ACTUAL: -0.4% VS 0.6% PREVIOUS
+- 10/28 16:01 [FirstSquawk] GERMANY (NOV) GFK CONSUMER CONFIDENCE ACTUAL: -30.8 VS --30.6 PREVIOUS;EST -30.3
+- 10/28 16:05 [FirstSquawk] STELLANTIS Q3 2026 EARNINGS - ADJ OPER INCOME: €256M (EST €210.5M) - ADJ OPER MARGIN: 0.7% (EST 0.47%) - NET REVENUE: €37.61B (EST €36.43B) - NET LOSS: €453M - INDUSTRIAL FREE CASH FLOW: NEGATIVE €4.01B - AFFIRMS OUTLOOK
+- 10/28 16:06 [FirstSquawk] GSK Q3 2026 EARNINGS - REVENUE: £8.89B (EST £8.86B) - ADJ EPS: 54.6P (EST 50.3P) - SHINGRIX REVENUE: £780M (EST £855.9M) - VACCINES SALES: £2.58B (EST £2.64B) - AREXVY REVENUE: £195M (EST £225.8M) - DIVIDEND/SHARE: 17P (EST 17P) - SEES 2026…
+- 10/28 16:09 [financialjuice] China's foreign ministry, on Merz remarks: China always advocates for open cooperation and is committed to working with all parties to maintain stability and security of global industrial and supply chain
+- 10/28 16:10 [financialjuice] China Foreign Ministry, on Merz remarks: We hope Germany and EU will remain objective and rational.
+- 10/28 16:10 [FirstSquawk] BRENT CRUDE FUTURES , U.S. CRUDE FUTURES UP MORE THAN $2 ON REIGNITED SUPPLY RISKS
+- 10/28 16:15 [FirstSquawk] MERCEDES CEO: CAN EXPAND IN HUNGARY IF GERMANY DOESN'T IMPROVE
+- 10/28 16:16 [financialjuice] Ukraine’s President Zelenskiy: Ukraine won’t attack Russian ships with diesel for the US
+- 10/28 16:23 [FirstSquawk] UNILEVER Q3 2026 EARNINGS - UNDERLYING SALES: +5.2% (EST +4.79%) - REVENUE: €13.27B (EST €13.05B) - UNDERLYING VOLUME: +2.9% (EST +2.49%) - UNDERLYING PRICING: +2.3% (EST +2.16%) - DIVIDEND/SHARE: €0.4664 - SEES 2H UNDERLYING SALES: +5% (PR…
+- 10/28 16:31 [financialjuice] South Korea fines Google, Apple 63.7B won on forced in-app payments.
+- 10/28 16:33 [FirstSquawk] CHINA TO SPEED UP SUBSIDY PAYMENTS TO DRIVE CONSUMPTION
+- 10/28 16:40 [FirstSquawk] MERCEDES CEO: DEVELOPING BROAD STRATEGIC PLAN FOR CHINA
+- 10/28 16:51 [FirstSquawk] BASF CEO - A POTENTIAL COMBINATION WITH EVONIKA WOULD BE A LOGICAL AND MEANINGFUL STEP IN THIS DIRECTION
+- 10/28 16:57 [financialjuice/FirstSquawk] Qatari mediators presented Iran with new draft deal in Tehran on Sunday, Iran considering the proposal and response expected by the end of the week - Official Briefed on The Negotiations.
+- 10/28 16:58 [financialjuice/FirstSquawk] Draft sets a seven-day timeline addressing both sides' concerns, each side must make daily confidence-building steps, timeline could begin early next week — Official Briefed on The Negotiations.
+- 10/28 17:04 [FirstSquawk] SEVERAL COUNTRIES WOULD ACT AS GUARANTORS OF THE DEAL — OFFICIAL
+- 10/28 17:11 [financialjuice] Iran's Foreign Minister: Devastating impact on international markets of any Israel-instigated military misadventure in gulf region remains major concern for both gas suppliers and consumers.
+- 10/28 17:11 [FirstSquawk] IRAN'S FOREIGN MINISTER: DEVASTATING IMPACT ON INT'L MARKETS OF ANY ISRAEL-INSTIGATED MILITARY MISADVENTURE IN GULF REGION REMAINS MAJOR CONCERN FOR BOTH GAS SUPPLIERS AND CONSUMERS
+- 10/28 17:36 [FirstSquawk] ISRAELI ELECTION RESULTS SHOW NETANYAHU'S BLOC LEADING WITH 55 SEATS BUT NO MAJORITY AS TURNOUT HITS 77.7%
+- 10/28 17:36 [FirstSquawk] UKRAINE PRES TO MEET DUTCH PM, KING WEDNESDAY EVENING
+- 10/28 17:36 [FirstSquawk] UBS CEO: OUTCOME IN SWISS UPPER HOUSE 'VERY CONCERNING'

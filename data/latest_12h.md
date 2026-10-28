@@ -7,95 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-28 14:35 JST／対象: 10/28 02:35 〜 10/28 14:35 JST（時刻はすべて日本時間）
+生成: 2026-10-28 17:38 JST／対象: 10/28 05:38 〜 10/28 17:38 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 12 | 10/28 03:27 | 10/28 09:19 | ⚠ 215分（04:49→08:24） |
-| FirstSquawk | 166 | 10/28 04:36 | 10/28 14:27 | ⚠ 86分（08:04→09:30） |
-| financialjuice | 161 | 10/28 02:40 | 10/28 11:43 | ⚠ 69分（08:08→09:18） |
+| DeItaone | 3 | 10/28 08:24 | 10/28 09:19 | ⚠ 52分（08:24→09:17） |
+| FirstSquawk | 154 | 10/28 05:47 | 10/28 17:36 | ⚠ 86分（08:04→09:30） |
+| financialjuice | 135 | 10/28 05:46 | 10/28 17:11 | ⚠ 246分（11:43→15:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 332 行（統合前 341 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 288 行（統合前 292 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/28 02:40 [financialjuice] Google launches Genie 4 world model with native audio $GOOGL
-- 10/28 02:48 [financialjuice/FirstSquawk] US VP Vance: I understand Gasoline prices are high
-- 10/28 03:01 [financialjuice/FirstSquawk] The EU eyes global tax deal revenue to boost next budget - Politico
-- 10/28 03:02 [financialjuice] Treasury receives $10.746B of offers for buyback, accepts $6B; buyback targets coupons maturing in 2046-2056, accepts 6 of 35 eligible issues.
-- 10/28 03:03 [financialjuice] Treasury accepts $6b of offers for buyback, matching the maximum.
-- 10/28 03:17 [financialjuice] US Energy Secretary Wright: The constellation energy deal will add 1.1 Gigawatts.
-- 10/28 03:19 [financialjuice] US Energy Secretary Wright: The flow of refined products from the Hormuz Strait has increased.
-- 10/28 03:20 [financialjuice] US Energy Secretary Wright: Russia cannot export diesel right now.
-- 10/28 03:22 [financialjuice] US Energy Secretary Wright: The suspension of sanctions on Russia is temporary.
-- 10/28 03:23 [financialjuice] US Energy Secretary Wright: The US is ramping up LNG exports.
-- 10/28 03:23 [financialjuice] US Energy Secretary Wright ends remarks on CNBC.
-- 10/28 03:27 [DeItaone] WRIGHT SAYS SUSPENSION OF SANCTIONS ON RUSSIA IS TEMPORARY WRIGHT: RUSSIA CANNOT EXPORT DIESEL RIGHT NOW WRIGHT: FLOW OF REFINED PRODUCTS FROM HORMUZ STRAIT INCREASED
-- 10/28 03:31 [financialjuice] NYMEX Gasoline November futures settle at $3.1376 a gallon.
-- 10/28 03:31 [financialjuice] NYMEX Diesel November futures settle at $4.7752 a gallon.
-- 10/28 03:31 [financialjuice] NYMEX WTI Crude futures settle at $99.90/bbl, down $1.86, 1.83%.
-- 10/28 03:35 [DeItaone] HACKER TRYING TO BREACH US ELECTION WEBSITE - EMAIL FROM FEC OFFICIAL SEEN BY REUTERS
-- 10/28 03:40 [financialjuice] US Energy Secretary Wright: The Iran war has come at a cost - Fox News.
-- 10/28 03:42 [DeItaone] US ENERGY SEC WRIGHT SAYS IRAN WAR HAS 'COME AT A COST': FOX
-- 10/28 03:46 [financialjuice] Brent Crude futures settle at $113.88/bbl, down $1.93, 1.67%.
-- 10/28 03:47 [financialjuice] US Energy Secretary Wright: The war with Iran is unfortunate timing.
-- 10/28 03:52 [financialjuice] Iran's President Pezeshkian has left Russia.
-- 10/28 03:59 [DeItaone] *BOLSONARO ALLIES SAY TRUMP GOVT SIGNALED ASYLUM: CNN BRASIL
-- 10/28 04:06 [DeItaone/FirstSquawk] WASHINGTON DISCUSSES RUSSIAN DEALS FOR US OIL MAJORS IN UKRAINE PEACE TALKS: FT
-- 10/28 04:06 [financialjuice] Trumps Speaks live
-- 10/28 04:10 [financialjuice] HP and Asus shift some PC manufacturing back to China due to AI-driven cost hikes; Dell is also evaluating shifting some PC making back to China, according to sources - Nikkei $HPE $DELL
-- 10/28 04:12 [financialjuice] The US and Russia suggest an oil venture off the Sakhalin coast after the war - FT
-- 10/28 04:14 [DeItaone] TRUMP TO ANNOUNCE RELAXED RULES ON OIL FIRMS' METHANE LEAKS -WAPO
-- 10/28 04:24 [financialjuice] Wednesday FX Option Expiries
-- 10/28 04:32 [financialjuice] Oracle: Plan to expand multicloud AI database services to the US government $ORCL
-- 10/28 04:36 [FirstSquawk] GOOGLE LAUNCHES GENIE 4 WORLD MODEL WITH NATIVE AUDIO
-- 10/28 04:37 [financialjuice] Lockheed Martin wins a $694m US Air Force contract, with the company to produce an air-launched hypersonic missile $LMT
-- 10/28 04:40 [FirstSquawk] U.S. TREASURY ACCEPTED $6 BLN OF OFFERS FOR A BUYBACK, MATCHING THE MAXIMUM, OUT OF $10.746 BLN OF OFFERS RECEIVED, WITH THE BUYBACK TARGETING COUPONS MATURING IN 2046-2056 AND ACCEPTING 6 OF 35 ELIGIBLE ISSUES
-- 10/28 04:41 [DeItaone] VANCE: I UNDERSTAND GASOLINE PRICES ARE HIGH
-- 10/28 04:42 [DeItaone] TRUMP LIVE https://t.co/UYJCOtsweC
-- 10/28 04:42 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 1.83% LOWER AT $99.90/BBL, DOWN $1.86
-- 10/28 04:42 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 1.67% LOWER AT $113.88/BBL, DOWN $1.93
-- 10/28 04:43 [FirstSquawk] U.S. ENERGY SECRETARY WRIGHT SAYS THE WAR WITH IRAN IS UNFORTUNATE TIMING AND HAS COME AT A COST, ADDING THAT THE U.S. IS RAMPING UP LNG EXPORTS AND THAT THE SUSPENSION OF SANCTIONS ON RUSSIA IS TEMPORARY
-- 10/28 04:44 [FirstSquawk] U.S. ENERGY SECRETARY WRIGHT SAYS RUSSIA CANNOT EXPORT DIESEL RIGHT NOW, THAT THE FLOW OF REFINED PRODUCTS FROM THE HORMUZ STRAIT HAS INCREASED, AND THAT THE CONSTELLATION ENERGY DEAL WILL ADD 1.1 GIGAWATTS
-- 10/28 04:45 [FirstSquawk] THE U.S. AND RUSSIA ARE CONSIDERING AN OIL VENTURE OFF THE SAKHALIN COAST AFTER THE WAR, WITH THE WHITE HOUSE AND KREMLIN INDICATING THAT, ONCE THE WAR IS OVER, A JOINT VENTURE INCLUDING U.S. AND RUSSIAN OIL COMPANIES MAY RESUME OFF SAKHALI…
-- 10/28 04:45 [FirstSquawk] THE REPORT SAYS THE TWO SIDES WERE ALSO DISCUSSING INCORPORATING THE U.S. MAJORS IN A PLAN TO RESUME RUSSIAN OIL DELIVERIES TO EUROPE THROUGH THE DRUZHBA PIPELINE, WITH THE POTENTIAL ACCORDS PART OF A LARGER U.S. EFFORT TO TERMINATE THE INV…
-- 10/28 04:47 [financialjuice] Trump suggests Venezuela could become a US state
-- 10/28 04:47 [FirstSquawk] FITCH AFFIRMS BROADCOM AT 'A-' ON BACKSTOP AGREEMENT; OUTLOOK POSITIVE
-- 10/28 04:49 [DeItaone] TRUMP: VENEZUELA COULD BECOME THE 51ST STATE
-- 10/28 04:49 [financialjuice] Trump reiterates that oil is flowing out of the Hormuz Strait
-- 10/28 04:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: -1050.1 MLN NASDAQ 100: -2059.8 MLN DOW 30: -136.7 MLN MAG 7: -504.0 MLN $MACRO
-- 10/28 04:51 [FirstSquawk] LOCKHEED MARTIN WINS A $694M US AIR FORCE CONTRACT, WITH THE COMPANY TO PRODUCE AN AIR-LAUNCHED HYPERSONIC MISSILE
-- 10/28 04:52 [FirstSquawk] TRUMP REITERATES THAT OIL IS FLOWING OUT OF THE HORMUZ STRAIT AND SUGGESTS VENEZUELA COULD BECOME A U.S. STATE
-- 10/28 05:00 [financialjuice] ❗ Israel's Prime Minister Netanyahu Likud leads in Israel vote: N12 Exit Poll
-- 10/28 05:01 [FirstSquawk] NETANYAHU’S LIKUD PARTY IS SET TO BE THE LARGEST IN THE KNESSET, THOUGH THERE IS NO CLEAR WINNER IN THE ISRAELI ELECTION - CHANNEL 11 EXIT POLL
-- 10/28 05:01 [financialjuice] Netanyahu's Likud Party is to win 24 of 120 seats in the Knesset - Channel 12 Exit Poll.
-- 10/28 05:01 [FirstSquawk] NETANYAHU’S LIKUD PARTY IS SET TO WIN 25 OF 120 SEATS IN THE KNESSET, WHILE THE PARTY LED BY NETANYAHU RIVAL EISENKOT IS SET TO WIN 21 OF 120 SEATS - CHANNEL 11 EXIT POLL
-- 10/28 05:01 [financialjuice] Israel's Prime Minister Netanyahu bloc trails in Israel vote - N12 exit poll
-- 10/28 05:02 [financialjuice/FirstSquawk] Israel's Channel 12 Poll: The "Eisenkot Bloc" is leading with 52 seats, while the "Netanyahu Bloc" has 50. The Arab parties received 18 seats.
-- 10/28 05:02 [FirstSquawk] THE EISENKOT-LED BLOC IS SET TO BE LARGER THAN THE NETANYAHU-LED BLOC - CHANNEL 11 EXIT POLL
-- 10/28 05:06 [financialjuice] Three Israeli exit polls see the Eisenkot Bloc leading, but with no majority.
-- 10/28 05:07 [financialjuice] $V Visa Q4 Earnings Adjusted EPS $3.48, est. $3.44 Net revenue $12.10B, est. $12.09B Total processed transactions 74.2B, est. 73.98B Cross-border volume at constant FX +14% Raises dividend by 16% to 78c/share
-- 10/28 05:07 [financialjuice/FirstSquawk] Israeli Journalist Neira Kraus on X, citing Israeli election projections: Netanyahu is not projected to be Israel’s next prime minister. However, it remains unclear which coalition could be formed
-- 10/28 05:10 [FirstSquawk] ROBINHOOD Q3 REVENUE $1,400 MLN, BELOW IBES ESTIMATE OF $1,422 MLN, WITH EPS $0.51, ADJUSTED EPS $0.60 ABOVE ESTIMATE OF $0.56, AND NET INCOME $476 MLN
-- 10/28 05:10 [FirstSquawk] ROBINHOOD Q3 ADJUSTED EBITDA $808 MLN, ABOVE ESTIMATE OF $765.5 MLN, WITH NET DEPOSITS OF $16 BLN, ROBINHOOD GOLD SUBSCRIBERS REACHING A RECORD 5.2 MLN, AND TRANSACTION-BASED REVENUES UP 19% YOY TO $867 MLN
-- 10/28 05:11 [FirstSquawk] VISA Q4 ADJUSTED EPS $3.48, ABOVE ESTIMATE OF $3.44, WITH NET REVENUE $12.10 BLN, ROUGHLY IN LINE WITH ESTIMATE OF $12.09 BLN, AND TOTAL PROCESSED TRANSACTIONS 74.2 BLN
-- 10/28 05:11 [FirstSquawk] VISA SAYS CROSS-BORDER VOLUME ROSE 14% AT CONSTANT FX AND IT IS RAISING ITS DIVIDEND BY 16% TO 78 CENTS/SHARE, WITH NET REVENUE GROWTH LOW-DOUBLE-DIGIT ON AN ADJUSTED CONSTANT-DOLLAR BASIS
-- 10/28 05:12 [FirstSquawk] ROBINHOOD SAYS Q3 TOTAL PLATFORM ASSETS ROSE 19% YOY TO $396 BLN, WITH NET DEPOSITS OF $15.7 BLN, AND THAT IT IS NOT PROVIDING A 2026 OUTLOOK FOR TOTAL OPERATING EXPENSES
-- 10/28 05:12 [FirstSquawk] ROBINHOOD SAYS MARKET SHARE GAINS DROVE ACTIVE TRADER ENGAGEMENT IN Q3, WITH RECORD VOLUMES FOR EQUITIES, OPTIONS AND PREDICTION MARKETS
-- 10/28 05:14 [financialjuice] Tech Stocks Rally Ahead of Big Earnings and Fed Decision – US Market Wrap
-- 10/28 05:15 [FirstSquawk] NASDAQ CLOSES 1.21% HIGHER AT 26,484.86, UP 315.48 POINTS
-- 10/28 05:15 [FirstSquawk] DOW JONES CLOSES 0.07% HIGHER AT 52,399.09, UP 37.51 POINTS
-- 10/28 05:17 [FirstSquawk] NXP SEMICONDUCTORS Q3 2026 REVENUE $3.78 BLN, ABOVE ESTIMATE OF $3.75 BLN, WITH ADJUSTED EPS $4.20, ABOVE ESTIMATE OF $4.12, AND EPS $3.48 VERSUS $2.48 YOY
-- 10/28 05:18 [FirstSquawk] BAKER HUGHES SAYS IT HAS ANNOUNCED MAJOR POWER GENERATION AND COOLING ORDERS FOR A U.S. TECH COMPANY, WITH THE POWER GENERATION ORDER BOOKED IN Q3 2026 AND COOLERS BOOKED IN Q4 2026, AND THAT IT WILL SUPPLY CHART DRY COOLERS FOR HIGH-DENSIT…
-- 10/28 05:19 [FirstSquawk] NETANYAHU RIVAL EISENKOT SAYS EXIT POLLS SHOW COMPLETE “NONCONFIDENCE” OF ISRAELIS IN NETANYAHU
-- 10/28 05:33 [FirstSquawk] ANTHROPIC SAYS IT HAS ACQUIRED MITHRIL MEDICINE TO RUN RARE DISEASE PROGRAMS, ADDING THAT IT WANTS TO SHARE ITS MODELS WITH DRUG DEVELOPMENT RESEARCHERS AND AS MANY RESEARCHERS AS POSSIBLE, AND THAT IT LOOKS FORWARD TO WORKING WITH MORE ORG…
-- 10/28 05:34 [FirstSquawk] WASTE MANAGEMENT Q3 2026 OPERATING REVENUE $6.85 BLN, ABOVE ESTIMATE OF $6.82 BLN, WITH ADJUSTED EPS $2.15, SLIGHTLY BELOW ESTIMATE OF $2.18, AND EPS $2.05 VERSUS $1.49 YOY
-- 10/28 05:34 [FirstSquawk] WASTE MANAGEMENT STILL SEES FY ADJUSTED OPERATING EBITDA $8.15 BLN TO $8.25 BLN AND FY TOTAL REVENUE $26.28 BLN TO $26.48 BLN
 - 10/28 05:46 [financialjuice/FirstSquawk] UK's Chancellor Healey prepares to slash household gas bills by £50 - The Telegraph
 - 10/28 05:46 [financialjuice] US API CRUDE STOCK CHANGE ACTUAL -2.031M (FORECAST 0.8M, PREVIOUS -4.93M) $MACRO
 - 10/28 05:47 [financialjuice] US API GASOLINE STOCK CHANGE ACTUAL 2.39M (FORECAST -, PREVIOUS -2.577M) $MACRO
@@ -356,3 +284,31 @@
 - 10/28 14:07 [FirstSquawk] Taiwan’s Benchmark Stock Market Gains Over 2%
 - 10/28 14:24 [FirstSquawk] Japan’s Kyushu Electric Secures Annual Supply of 12 LNG Cargoes From LNG Canada Expansion
 - 10/28 14:27 [FirstSquawk] Yonhap: Hacking Attempts Against South Korean Financial Companies Traced to Multiple North Korean IP Addresses
+- 10/28 14:39 [FirstSquawk] Bank of England Set to Start Short-Term Precautionary Monetary Tightening in November, FT Reports
+- 10/28 15:35 [FirstSquawk] Kospi Jumps 6.63% at Close for Its Strongest Single-Day Rise Since July 31
+- 10/28 15:45 [FirstSquawk] Norway’s PM Reveals Ukraine War Was Central Topic of Tuesday’s Conversation With Putin
+- 10/28 15:49 [financialjuice] UK Chancellor abolishes standing charges on gas bills to make payments fairer
+- 10/28 16:00 [financialjuice] GERMAN GFK CONSUMER SENTIMENT ACTUAL -30.8 (FORECAST -30.3, PREVIOUS -30.6) $MACRO
+- 10/28 16:00 [FirstSquawk] NORWAY (SEP) CREDIT INDICATOR GROWTH YOY ACTUAL: 4.9% VS 4.5% PREVIOUS
+- 10/28 16:01 [FirstSquawk] NORWAY (SEP) RETAIL SALES W/AUTO FUEL MOM ACTUAL: -0.4% VS 0.6% PREVIOUS
+- 10/28 16:01 [FirstSquawk] GERMANY (NOV) GFK CONSUMER CONFIDENCE ACTUAL: -30.8 VS --30.6 PREVIOUS;EST -30.3
+- 10/28 16:05 [FirstSquawk] STELLANTIS Q3 2026 EARNINGS - ADJ OPER INCOME: €256M (EST €210.5M) - ADJ OPER MARGIN: 0.7% (EST 0.47%) - NET REVENUE: €37.61B (EST €36.43B) - NET LOSS: €453M - INDUSTRIAL FREE CASH FLOW: NEGATIVE €4.01B - AFFIRMS OUTLOOK
+- 10/28 16:06 [FirstSquawk] GSK Q3 2026 EARNINGS - REVENUE: £8.89B (EST £8.86B) - ADJ EPS: 54.6P (EST 50.3P) - SHINGRIX REVENUE: £780M (EST £855.9M) - VACCINES SALES: £2.58B (EST £2.64B) - AREXVY REVENUE: £195M (EST £225.8M) - DIVIDEND/SHARE: 17P (EST 17P) - SEES 2026…
+- 10/28 16:09 [financialjuice] China's foreign ministry, on Merz remarks: China always advocates for open cooperation and is committed to working with all parties to maintain stability and security of global industrial and supply chain
+- 10/28 16:10 [financialjuice] China Foreign Ministry, on Merz remarks: We hope Germany and EU will remain objective and rational.
+- 10/28 16:10 [FirstSquawk] BRENT CRUDE FUTURES , U.S. CRUDE FUTURES UP MORE THAN $2 ON REIGNITED SUPPLY RISKS
+- 10/28 16:15 [FirstSquawk] MERCEDES CEO: CAN EXPAND IN HUNGARY IF GERMANY DOESN'T IMPROVE
+- 10/28 16:16 [financialjuice] Ukraine’s President Zelenskiy: Ukraine won’t attack Russian ships with diesel for the US
+- 10/28 16:23 [FirstSquawk] UNILEVER Q3 2026 EARNINGS - UNDERLYING SALES: +5.2% (EST +4.79%) - REVENUE: €13.27B (EST €13.05B) - UNDERLYING VOLUME: +2.9% (EST +2.49%) - UNDERLYING PRICING: +2.3% (EST +2.16%) - DIVIDEND/SHARE: €0.4664 - SEES 2H UNDERLYING SALES: +5% (PR…
+- 10/28 16:31 [financialjuice] South Korea fines Google, Apple 63.7B won on forced in-app payments.
+- 10/28 16:33 [FirstSquawk] CHINA TO SPEED UP SUBSIDY PAYMENTS TO DRIVE CONSUMPTION
+- 10/28 16:40 [FirstSquawk] MERCEDES CEO: DEVELOPING BROAD STRATEGIC PLAN FOR CHINA
+- 10/28 16:51 [FirstSquawk] BASF CEO - A POTENTIAL COMBINATION WITH EVONIKA WOULD BE A LOGICAL AND MEANINGFUL STEP IN THIS DIRECTION
+- 10/28 16:57 [financialjuice/FirstSquawk] Qatari mediators presented Iran with new draft deal in Tehran on Sunday, Iran considering the proposal and response expected by the end of the week - Official Briefed on The Negotiations.
+- 10/28 16:58 [financialjuice/FirstSquawk] Draft sets a seven-day timeline addressing both sides' concerns, each side must make daily confidence-building steps, timeline could begin early next week — Official Briefed on The Negotiations.
+- 10/28 17:04 [FirstSquawk] SEVERAL COUNTRIES WOULD ACT AS GUARANTORS OF THE DEAL — OFFICIAL
+- 10/28 17:11 [financialjuice] Iran's Foreign Minister: Devastating impact on international markets of any Israel-instigated military misadventure in gulf region remains major concern for both gas suppliers and consumers.
+- 10/28 17:11 [FirstSquawk] IRAN'S FOREIGN MINISTER: DEVASTATING IMPACT ON INT'L MARKETS OF ANY ISRAEL-INSTIGATED MILITARY MISADVENTURE IN GULF REGION REMAINS MAJOR CONCERN FOR BOTH GAS SUPPLIERS AND CONSUMERS
+- 10/28 17:36 [FirstSquawk] ISRAELI ELECTION RESULTS SHOW NETANYAHU'S BLOC LEADING WITH 55 SEATS BUT NO MAJORITY AS TURNOUT HITS 77.7%
+- 10/28 17:36 [FirstSquawk] UKRAINE PRES TO MEET DUTCH PM, KING WEDNESDAY EVENING
+- 10/28 17:36 [FirstSquawk] UBS CEO: OUTCOME IN SWISS UPPER HOUSE 'VERY CONCERNING'
