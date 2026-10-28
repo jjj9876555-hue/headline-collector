@@ -264,7 +264,7 @@ def fetch_x_syndication(handle):
 
 
 # ---------------------------------------------------------------- Telegram（公開プレビュー t.me/s/ ・認証不要）
-def fetch_tg(channel, account, known_ids=frozenset(), max_pages=4, backfill_hours=6):
+def fetch_tg(channel, account, known_ids=frozenset(), max_pages=40, backfill_hours=48):
     items, before, pages = [], None, 0
     cutoff = now_utc() - timedelta(hours=backfill_hours)
     while pages < max_pages:
