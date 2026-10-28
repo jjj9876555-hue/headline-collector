@@ -7,89 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-28 11:15 JST／対象: 10/27 11:15 〜 10/28 11:15 JST（時刻はすべて日本時間）
+生成: 2026-10-28 14:35 JST／対象: 10/27 14:35 〜 10/28 14:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 62 | 10/27 19:27 | 10/28 09:19 | ⚠ 215分（04:49→08:24） |
-| FirstSquawk | 303 | 10/27 11:22 | 10/28 11:14 | ⚠ 143分（02:12→04:36） |
-| financialjuice | 299 | 10/27 12:05 | 10/28 11:14 | ⚠ 69分（08:08→09:18） |
+| FirstSquawk | 294 | 10/27 14:37 | 10/28 14:27 | ⚠ 143分（02:12→04:36） |
+| financialjuice | 301 | 10/27 14:35 | 10/28 11:43 | ⚠ 69分（08:08→09:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 649 行（統合前 670 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 642 行（統合前 663 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/27 11:22 [FirstSquawk] Singapore’s GasCo Begins Initial LNG Procurement Drive to Lock In Term Supplies
-- 10/27 11:23 [FirstSquawk] Singapore Studies Whether to Develop a Third LNG Import Terminal
-- 10/27 11:25 [FirstSquawk] US Crude Prices Drop 1%, Trading at $100.75 per Barrel
-- 10/27 11:31 [FirstSquawk] South Korea Sets 20-Year Treasury Bond Yield at 4.155% in Latest Sale
-- 10/27 11:40 [FirstSquawk] Asian FX Markets Consolidate Ahead of the Federal Reserve’s Policy Announcement - WSJ
-- 10/27 11:56 [FirstSquawk] Tetsuya Chiba, Renowned Japanese Cartoonist Behind “Tomorrow’s Joe,” Dies at 87, Kyodo Says
-- 10/27 11:57 [FirstSquawk] GMO Internet Calls for Computers to Be Disconnected Amid Looming Midday Cyberattack
-- 10/27 12:04 [FirstSquawk] Philippine Benchmark Index Jumps 1.6% to Reach 5,731.54 at Its Session High
-- 10/27 12:05 [financialjuice] Ukraine's Kyiv mayor: southern bridge and subway hit in strike
-- 10/27 12:05 [FirstSquawk] Kyiv Mayor Says Attack Damaged Southern Bridge and Metro System
-- 10/27 12:13 [FirstSquawk] Dollar Index Holds a Positive Tone Around 102.00 Ahead of Fed Decision - FX
-- 10/27 12:18 [FirstSquawk] ADNOC Drilling’s Revenue Rises to $3.71 Billion in First Nine Months of 2026
-- 10/27 12:25 [FirstSquawk] Japanese Corporate Services Prices Climb 3.7% From a Year Earlier in September
-- 10/27 12:32 [FirstSquawk] South Korean Military Says North Korea’s Western Border Artillery Is Not a New Weapons System
-- 10/27 12:37 [financialjuice] Israeli military: Egyptian civilian held after crossing border fence from Egypt into Israel near Nitzana
-- 10/27 12:37 [financialjuice] Israeli military: Incident regarded seriously, continues high defensive readiness in area
-- 10/27 12:38 [FirstSquawk] Egyptian Civilian Held After Crossing Into Israel From Egyptian Territory Near Nitzana, Israeli Military Says
-- 10/27 12:40 [FirstSquawk] CDC Deputy Director Jennifer Shuford to Exit Trump Administration After Six Months, Washington Post Reports
-- 10/27 12:40 [financialjuice] China finance ministry offers 3-month bills at 1.1222% yield: traders
-- 10/27 12:45 [FirstSquawk] Hong Kong Equity Fundraising Comes Under Pressure After Fourth IPO Is Pulled Since Midyear
-- 10/27 12:48 [FirstSquawk] Jefferies Increases Paycom Software Price Target to $300, Up From $160
-- 10/27 12:51 [FirstSquawk] Yield on Japan’s 2-Year Government Bond Rises to 1.885%
-- 10/27 12:55 [FirstSquawk] German Chancellor Says EU’s Push for Closer ASEAN Ties Complements Talks With Canada
-- 10/27 12:56 [FirstSquawk] German Chancellor Merz Highlights EU’s Strategic Interest in Open Markets Amid CPTPP Collaboration
-- 10/27 13:02 [financialjuice] One killed, 30 injured as drone strikes passenger bus in Russia-occupied Zaporizhzhia Russia-installed official says
-- 10/27 13:02 [FirstSquawk] Russian-Installed Official Reports One Fatality and 30 Injuries in Drone Attack on Bus in Zaporizhzhia
-- 10/27 13:05 [financialjuice] Taiwan central bank: forecasts robust economic expansion this year, steady growth in 2025
-- 10/27 13:05 [FirstSquawk] Taiwan Central Bank Sees Strong Growth Momentum This Year, Stability Next Year
-- 10/27 13:05 [financialjuice] Taiwan central bank: demand for emerging technologies to remain robust next year, supporting exports and private investment
-- 10/27 13:06 [financialjuice] Taiwan central bank: forecasts Taiwan GDP growth of 5.82% next year
-- 10/27 13:06 [FirstSquawk] Taiwan Central Bank Sees Continued Emerging-Technology Demand Driving Export Growth and Private Investment in 2027
-- 10/27 13:07 [FirstSquawk] HSBC Q3 Earnings: • Rev: $18.6B (est $18.93B) • Pretax Profit: $9.63B (est $9.70B) • Announces Share Buyback Of Up To $1B • Expects Banking NII Of At Least $46B In 2026
-- 10/27 13:07 [FirstSquawk] Taiwan’s GDP Growth Forecast at 5.82% for Next Year, Central Bank Says
-- 10/27 13:07 [financialjuice] Taiwan central bank: geopolitical risks, climate conditions are main uncertainties shaping future inflation path in Taiwan
-- 10/27 13:07 [FirstSquawk] Taiwan Central Bank Identifies Geopolitical Risks and Climate Conditions as Key Inflation Uncertainties
-- 10/27 13:09 [financialjuice] Taiwan central bank: current monetary policy stance is tightening
-- 10/27 13:10 [FirstSquawk] Geopolitical Tensions and Climate Factors Remain Major Unknowns for Taiwan’s Inflation Outlook, Central Bank Says
-- 10/27 13:10 [financialjuice] Taiwan central bank: Taiwan dollar depreciates against U.S. dollar this year, holds steady versus other major currencies
-- 10/27 13:11 [FirstSquawk] Taiwan Dollar Depreciates Versus US Dollar in 2026 While Holding Steady Against Other Major Currencies, Central Bank Says
-- 10/27 13:13 [financialjuice] Taiwan central bank: Taiwan dollar falls 1.25% against US dollar in H1 amid foreign net selling of stocks and dividend outflows
-- 10/27 13:14 [FirstSquawk] Taiwan Dollar Falls 1.25% Against US Dollar in H1 Amid Foreign Stock Outflows and Dividend Payments, Central Bank Says
-- 10/27 13:18 [FirstSquawk] Taiwan Central Bank Sees No Major Deterioration in Banks’ Loan Quality, Says Risks Remain Contained
-- 10/27 13:18 [financialjuice] Taiwan Central Bank: Banks' loan quality stable, loan risks contained
-- 10/27 13:22 [FirstSquawk] Singapore Dollar Consolidates as Markets Eye Fed Decision, With Risk Appetite Offering Support - WSJ
-- 10/27 13:25 [financialjuice] Moody's sovereign analyst: Japan showing signs of steady growth, stable inflation
-- 10/27 13:25 [financialjuice] Moody's analyst: future rating action hinges on whether Japan's recent resilience endures future shocks
-- 10/27 13:25 [FirstSquawk] Japan Displays Signs of Lasting Growth and Stable Inflation, Moody’s Sovereign Analyst Says
-- 10/27 13:26 [FirstSquawk] Future Rating Decisions on Japan to Depend on the Durability of Its Recent Resilience, Moody’s Analyst Says
-- 10/27 13:39 [financialjuice] Finmin Katayama: Govt prepared to take decisive steps in fx market
-- 10/27 13:39 [FirstSquawk] Japan Stands Prepared to Take Firm Action on Foreign Exchange, Finance Minister Katayama Says
-- 10/27 13:40 [financialjuice] Katayama: closely monitoring market moves with heightened urgency including at this moment
-- 10/27 13:40 [financialjuice] Katayama: yen must shift to reflect fundamentals
-- 10/27 13:41 [financialjuice] Katayam: aim to sustain market confidence in yen, Takaichi administration’s fiscal approach via clear, consistent communication
-- 10/27 13:41 [FirstSquawk] Japan’s Katayama Seeks to Preserve Trust in Yen and Takaichi Administration’s Fiscal Policy With Consistent Messaging
-- 10/27 13:44 [financialjuice] Katayama: aims to preserve market confidence in yen, Takaichi administration's fiscal policy via transparent, consistent communication (adds dropped letter)
-- 10/27 13:52 [financialjuice] Ukraine drone strike kills one, injures six in Russia’s Bryansk, governor says
-- 10/27 14:00 [financialjuice] Russia strikes transport infrastructure in Ukraine's Kyiv, logistics center in Kharkiv region: Russian defense ministry
-- 10/27 14:00 [FirstSquawk] Russian Attacks Target Kyiv Transport Infrastructure and a Logistics Hub in Kharkiv Region, Newswires Report
-- 10/27 14:03 [FirstSquawk] Bank of England Seeks Review of Revolut’s Product Approval Controls, According to FT
-- 10/27 14:06 [financialjuice] Meta announces pricing of depositary shares linked to series A mandatory convertible preferred stock and Class A common stock in forward sale agreements
-- 10/27 14:09 [financialjuice] Meta: pricing of 250 million series A depositary shares at public offering price of $50 per share
-- 10/27 14:24 [financialjuice] India oil minister: expanding refining capacity to support domestic demand, uphold export pledge
-- 10/27 14:24 [financialjuice] Meta prices $25 billion of class A common stock at $625 per share in public offering
-- 10/27 14:25 [FirstSquawk] Australian Shares Gain 0.5% as S&P/ASX 200 Settles at 8,850.10
-- 10/27 14:25 [FirstSquawk] Meta Sets Public Offering Price at $625 Per Share for $25 Billion Class A Stock Sale
-- 10/27 14:33 [FirstSquawk] US Accounts for 67% of India’s LPG Imports, According to Oil Minister
 - 10/27 14:35 [financialjuice] No pressure from United States to reduce Russian oil imports
 - 10/27 14:35 [financialjuice] India oil minister: india now sources 67% of lpg imports from US
 - 10/27 14:37 [FirstSquawk] India Faces No Pressure From Washington to Scale Back Russian Crude Imports, Oil Minister Says
@@ -673,3 +607,62 @@
 - 10/28 11:13 [financialjuice] RBNZ Governor Breman: conditions remain favourable to return inflation to target
 - 10/28 11:14 [FirstSquawk] RBNZ Governor Says Wage Growth Has Yet to Reach Levels Compatible With Inflation Target
 - 10/28 11:14 [financialjuice] RBNZ Governor Breman says wage growth below levels consistent with target inflation
+- 10/28 11:17 [financialjuice] RBNZ Governor Breman: worried weak NZ$ may fuel inflation
+- 10/28 11:17 [FirstSquawk] RBNZ Governor Flags Inflation Risks if New Zealand Dollar Remains Under Pressure
+- 10/28 11:23 [financialjuice] RBNZ Governor Breman: addressed risk of decline in AI-related market assets
+- 10/28 11:25 [FirstSquawk] Breman: RBNZ Considered Potential Market Correction in AI-Linked Investments
+- 10/28 11:25 [financialjuice] RBNZ Governor Breman: discussed possibility of rates rising beyond OCR path
+- 10/28 11:25 [FirstSquawk] RBNZ Weighed Potential for Interest Rates to Rise Above Its Forecast Path, Breman Says
+- 10/28 11:27 [financialjuice] RBNZ Governor Breman: partial inflation figures and labour data will be key in coming weeks
+- 10/28 11:28 [FirstSquawk] Breman: Partial Inflation Figures and Employment Data Will Be Closely Watched in Coming Weeks
+- 10/28 11:33 [financialjuice] RBNZ Governor Breman: broad range of neutral rate estimates, always an uncertain call
+- 10/28 11:33 [FirstSquawk] Breman Says Pinpointing the Neutral Interest Rate Is Inherently Uncertain, With Estimates Differing Widely
+- 10/28 11:33 [financialjuice] Committee discussed decline in New Zealand dollar: if sustained could boost imported inflation
+- 10/28 11:33 [financialjuice] Further rate hikes likely at upcoming meetings
+- 10/28 11:33 [financialjuice] Further tightening may be necessary, even approaching restrictive levels
+- 10/28 11:33 [FirstSquawk] Breman: Policymakers Discussed Whether the Official Cash Rate Track Needs to Move Higher
+- 10/28 11:33 [financialjuice] discussed whether rates could increase beyond our OCR trajectory
+- 10/28 11:34 [financialjuice] Concerned that a weak New Zealand dollar could boost inflation
+- 10/28 11:34 [financialjuice] Did discuss if OCR path needs to be raised
+- 10/28 11:34 [financialjuice] Wage growth lags level consistent with inflation target
+- 10/28 11:34 [financialjuice] Conditions to restore inflation to target remain supportive
+- 10/28 11:34 [financialjuice] wide array of neutral rate forecasts presents an inherently uncertain decision
+- 10/28 11:34 [financialjuice] Discussed risk of decline in AI-related market assets
+- 10/28 11:34 [financialjuice] Partial inflation data will matter in coming weeks, along with labor figures
+- 10/28 11:34 [financialjuice] Decision based on economic outlook: did consider market pricing
+- 10/28 11:42 [financialjuice] RBNZ Governor Breman: conditions remain favourable to restore inflation to target
+- 10/28 11:42 [financialjuice] RBNZ Governor Breman: discussed if rates might rise beyond our OCR path
+- 10/28 11:42 [financialjuice] RBNZ Governor Breman: broad spectrum of neutral rate estimates, always an uncertain judgment
+- 10/28 11:42 [financialjuice] RBNZ Governor Breman: discussed if OCR path must be raised
+- 10/28 11:42 [financialjuice] RBNZ Governor Breman: OCR likely to increase above prior forecast
+- 10/28 11:42 [financialjuice] RBNZ Governor Breman: decision driven by economic outlook, considered market pricing
+- 10/28 11:42 [financialjuice] RBNZ Governor Breman: additional tightening may be required, even reaching restrictive levels
+- 10/28 11:42 [financialjuice] RBNZ Governor Breman: discussed risk of drop in ai-related market assets
+- 10/28 11:42 [FirstSquawk] RBNZ Governor Says Interest Rates Are Likely to Climb Beyond the Earlier OCR Track
+- 10/28 11:42 [financialjuice] RBNZ Governor Breman: partial inflation figures will be key in coming weeks, alongside labor data
+- 10/28 11:42 [financialjuice] RBNZ Governor Breman: concerns that a weak New Zealand dollar may boost inflation
+- 10/28 11:43 [financialjuice] RBNZ Governor Breman: wage expansion below levels consistent with target inflation
+- 10/28 11:49 [FirstSquawk] Piper Sandler Raises Visa’s Price Target to $479 From $430
+- 10/28 11:59 [FirstSquawk] SK Hynix Earnings Spark Strong Rally in Seoul, With Stocks Rising Nearly 6% Wednesday Morning
+- 10/28 12:06 [FirstSquawk] GFZ Records 6.06-Magnitude Quake in Vanuatu Islands
+- 10/28 12:15 [FirstSquawk] Philippine Stock Market Comes Under Pressure, With Benchmark Index Falling 2%
+- 10/28 12:20 [FirstSquawk] Taiwan’s Inflation Has Exceeded 2% This Year, but Is Expected to Ease Below That Threshold in 2027, Central Bank Chief Says
+- 10/28 12:26 [FirstSquawk] Nikkei: Japan Post Bank Plans to Take a 20% Ownership Interest in Matsui Securities
+- 10/28 12:33 [FirstSquawk] Washington Signals Potential Short, Sharp Escalation in Iran Conflict After U.S. Midterm Elections - WSJ
+- 10/28 12:46 [FirstSquawk] Two Political Camps, One Texas Battleground: Trump and Talarico Rally Miles Apart - WSJ
+- 10/28 12:51 [FirstSquawk] Yield on Japan’s 5-Year Government Bonds Rises to 2.260% After a 3-Basis-Point Increase
+- 10/28 12:59 [FirstSquawk] GBP/USD Edges Lower Toward 1.3300 Ahead of Budget Plans and Federal Reserve Rate Decision - FX
+- 10/28 13:04 [FirstSquawk] Won Weakens 1% Versus Dollar in South Korean Currency Trading
+- 10/28 13:11 [FirstSquawk] Yield on Japan’s 2-Year Government Bonds Moves Up 2 Bps to 1.895%
+- 10/28 13:11 [FirstSquawk] Yield on Japan’s 5-Year Government Bonds Moves Higher to 2.265% With a 3.5-Bp Gain
+- 10/28 13:24 [FirstSquawk] Philippines Maintains Firm Peso-Defense Policy, Marcos Says
+- 10/28 13:25 [FirstSquawk] Chinese Authorities Accelerate Support Efforts as Markets Come Under Pressure - FT
+- 10/28 13:28 [FirstSquawk] Trump Signals He Would Have Backed Flavio Bolsonaro Coming to the United States
+- 10/28 13:30 [FirstSquawk] Kospi Jumps 6.5% Following SK Hynix’s Record Profit and $75 Billion Shareholder Return Plan
+- 10/28 13:31 [FirstSquawk] Trump Says Ukraine Efforts Are Moving Forward, Expresses Hope for Talks With Putin and Zelenskiy in Near Future
+- 10/28 13:34 [FirstSquawk] Trump Confirms Plans for Meeting on Nuclear Arms Reduction During Asia Trip
+- 10/28 13:36 [FirstSquawk] Ukrainian Drone Attack Hits Industrial Facilities in Russia’s Novomoskovsk
+- 10/28 13:36 [FirstSquawk] Trump Leaves Door Open to More Attacks on Iran Following the Election
+- 10/28 14:07 [FirstSquawk] Taiwan’s Benchmark Stock Market Gains Over 2%
+- 10/28 14:24 [FirstSquawk] Japan’s Kyushu Electric Secures Annual Supply of 12 LNG Cargoes From LNG Canada Expansion
+- 10/28 14:27 [FirstSquawk] Yonhap: Hacking Attempts Against South Korean Financial Companies Traced to Multiple North Korean IP Addresses

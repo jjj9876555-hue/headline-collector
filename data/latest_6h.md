@@ -7,70 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-28 11:15 JST／対象: 10/28 05:15 〜 10/28 11:15 JST（時刻はすべて日本時間）
+生成: 2026-10-28 14:35 JST／対象: 10/28 08:35 〜 10/28 14:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 3 | 10/28 08:24 | 10/28 09:19 | ⚠ 52分（08:24→09:17） |
-| FirstSquawk | 110 | 10/28 05:15 | 10/28 11:14 | ⚠ 86分（08:04→09:30） |
-| financialjuice | 98 | 10/28 05:46 | 10/28 11:14 | ⚠ 69分（08:08→09:18） |
+| DeItaone | 2 | 10/28 09:17 | 10/28 09:19 | 2分（09:17→09:19） |
+| FirstSquawk | 111 | 10/28 09:30 | 10/28 14:27 | 31分（13:36→14:07） |
+| financialjuice | 108 | 10/28 09:18 | 10/28 11:43 | 13分（09:39→09:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 209 行（統合前 211 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 221 行（統合前 221 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/28 05:15 [FirstSquawk] NASDAQ CLOSES 1.21% HIGHER AT 26,484.86, UP 315.48 POINTS
-- 10/28 05:15 [FirstSquawk] DOW JONES CLOSES 0.07% HIGHER AT 52,399.09, UP 37.51 POINTS
-- 10/28 05:17 [FirstSquawk] NXP SEMICONDUCTORS Q3 2026 REVENUE $3.78 BLN, ABOVE ESTIMATE OF $3.75 BLN, WITH ADJUSTED EPS $4.20, ABOVE ESTIMATE OF $4.12, AND EPS $3.48 VERSUS $2.48 YOY
-- 10/28 05:18 [FirstSquawk] BAKER HUGHES SAYS IT HAS ANNOUNCED MAJOR POWER GENERATION AND COOLING ORDERS FOR A U.S. TECH COMPANY, WITH THE POWER GENERATION ORDER BOOKED IN Q3 2026 AND COOLERS BOOKED IN Q4 2026, AND THAT IT WILL SUPPLY CHART DRY COOLERS FOR HIGH-DENSIT…
-- 10/28 05:19 [FirstSquawk] NETANYAHU RIVAL EISENKOT SAYS EXIT POLLS SHOW COMPLETE “NONCONFIDENCE” OF ISRAELIS IN NETANYAHU
-- 10/28 05:33 [FirstSquawk] ANTHROPIC SAYS IT HAS ACQUIRED MITHRIL MEDICINE TO RUN RARE DISEASE PROGRAMS, ADDING THAT IT WANTS TO SHARE ITS MODELS WITH DRUG DEVELOPMENT RESEARCHERS AND AS MANY RESEARCHERS AS POSSIBLE, AND THAT IT LOOKS FORWARD TO WORKING WITH MORE ORG…
-- 10/28 05:34 [FirstSquawk] WASTE MANAGEMENT Q3 2026 OPERATING REVENUE $6.85 BLN, ABOVE ESTIMATE OF $6.82 BLN, WITH ADJUSTED EPS $2.15, SLIGHTLY BELOW ESTIMATE OF $2.18, AND EPS $2.05 VERSUS $1.49 YOY
-- 10/28 05:34 [FirstSquawk] WASTE MANAGEMENT STILL SEES FY ADJUSTED OPERATING EBITDA $8.15 BLN TO $8.25 BLN AND FY TOTAL REVENUE $26.28 BLN TO $26.48 BLN
-- 10/28 05:46 [financialjuice/FirstSquawk] UK's Chancellor Healey prepares to slash household gas bills by £50 - The Telegraph
-- 10/28 05:46 [financialjuice] US API CRUDE STOCK CHANGE ACTUAL -2.031M (FORECAST 0.8M, PREVIOUS -4.93M) $MACRO
-- 10/28 05:47 [financialjuice] US API GASOLINE STOCK CHANGE ACTUAL 2.39M (FORECAST -, PREVIOUS -2.577M) $MACRO
-- 10/28 05:47 [financialjuice] US API DISTILLATE STOCK CHANGE ACTUAL 0.38M (FORECAST -, PREVIOUS -2.6M) $MACRO
-- 10/28 05:47 [financialjuice] US API CUSHING STOCK CHANGE ACTUAL -0.453M (FORECAST -, PREVIOUS 0.936M) $MACRO
-- 10/28 05:48 [FirstSquawk] U.S. API CRUDE STOCKS FELL 2.031 MLN BARRELS VERSUS A FORECAST BUILD OF 0.8 MLN AND A PRIOR 4.93 MLN DRAW, WITH CUSHING STOCKS DOWN 0.453 MLN
-- 10/28 06:01 [financialjuice] Chile's central bank: future interest rate path to be evaluated on meeting-by-meeting basis
-- 10/28 06:01 [financialjuice] Chile’s central bank: local economy may regain momentum by 2027, but current weakness could last longer than expected
-- 10/28 06:01 [FirstSquawk] BOEING SAYS IT EXPERIENCED SUPPLIER SHORTAGES DURING Q3 THAT DISRUPTED FACTORY OPERATIONS, ADVERSELY AFFECTING ITS KC-46A TANKER AND 777 FREIGHTER PROGRAMS
-- 10/28 06:01 [FirstSquawk] BOEING SAYS THE SUPPLIER SHORTAGES DISRUPTION IS EXPECTED TO CONTINUE INTO 2027 AND RESULT IN ABNORMAL PRODUCTION COSTS, WHICH ARE EXPENSED AS INCURRED
-- 10/28 06:02 [financialjuice] IMF: reaches staff-level accord on third review under Argentina's extended fund facility arrangement
-- 10/28 06:02 [financialjuice] Chile's central bank: council will closely monitor signs of increased shock transmission or persistence in inflation
-- 10/28 06:03 [FirstSquawk] TECH STOCKS RALLIED AHEAD OF MAJOR TECH EARNINGS AND THE FED’S RATE DECISION, WITH THE NASDAQ 100 UP 1.3% AND THE SEMICONDUCTOR INDEX GAINING 3.6%. META’S $25 BILLION SHARE SALE WAS FIVE TIMES OVERSUBSCRIBED, WHILE ORACLE EXPANDED ITS AI PA…
-- 10/28 06:03 [FirstSquawk] BRENT CRUDE SETTLED BELOW $114 A BARREL AMID DIPLOMATIC EFFORTS TO EASE PERSIAN GULF TENSIONS. UPS ROSE ON A POSITIVE OUTLOOK, BOEING FELL 11% AFTER CUTTING ITS DELIVERY TARGET, AND THE DOLLAR STRENGTHENED.
-- 10/28 06:36 [FirstSquawk] JORDANIAN AND SYRIAN FOREIGN MINISTERS AGREED TO FORM A JOINT SECURITY COMMITTEE TO INVESTIGATE RECENT JORDANIAN STRIKES ON ISLAMIC STATE SITES IN SYRIA, WITH JORDAN’S FOREIGN MINISTER EXPRESSING REGRET OVER CIVILIAN DEATHS IN THE STRIKES D…
-- 10/28 07:00 [financialjuice/FirstSquawk] Enlitic signs three-year $144,000 deal with Southwest Medical Imaging for Ensight
-- 10/28 07:09 [FirstSquawk] APPLE IS SET TO UNVEIL 14- AND 16-INCH TOUCH MACBOOKS ON WEDNESDAY, WHICH WILL BE THE COMPANY’S PRICIEST LAPTOPS, WITH APPLE HAVING DISCUSSED CHARGING $2,899 FOR THE NEW 14-INCH TOUCH MAC
-- 10/28 07:14 [FirstSquawk] TOP DEMOCRATS ARE PREPARING TO INVESTIGATE TRUMP’S AGREEMENT TO IMPORT RUSSIAN DIESEL IF THEY REGAIN CONTROL OF CONGRESS, WITH LAWMAKERS URGING SIX MAJOR U.S. BANKS AND SEVERAL PORTS TO PRESERVE RUSSIAN DIESEL DEAL RECORDS AND WARNING THE I…
-- 10/28 07:15 [FirstSquawk] THE TREASURY DEPARTMENT HAS WAIVED SANCTIONS TO FACILITATE THE ARRANGEMENT AND INSISTS IT IS LEGAL - AXIOS
-- 10/28 07:15 [FirstSquawk] AMERICAN AIRLINES DISPATCHERS AND OPERATIONS SPECIALISTS HAVE APPROVED A NEW 5-YEAR CONTRACT, WITH THE DEAL WITH THE PROFESSIONAL AIRLINE FLIGHT CONTROL ASSOCIATION INCLUDING PAY INCREASES THAT WILL TAKE EFFECT IMMEDIATELY
-- 10/28 07:18 [FirstSquawk] NIKKEI FUTURES TRADE AT 64,450 VERSUS A CASH CLOSE OF 63,268
-- 10/28 07:24 [financialjuice] Anthropic expands GSA partnership with 40% markdown on Claude products for government
-- 10/28 07:24 [financialjuice] Anthropic: launching dedicated program to help agencies optimize Claude use
-- 10/28 07:24 [financialjuice] Anthropic: discount on Claude products broadens to state, local, tribal, territorial governments
-- 10/28 07:25 [financialjuice] Anthropic: government agencies can purchase Claude at onegov discount via GSA's multiple award schedule today - website
-- 10/28 07:26 [financialjuice] Anthropic: Claude enterprise pursuing FedRAMP moderate approval via FedRAMP 20x program
-- 10/28 07:42 [financialjuice] UK's Healey to restore cuts to cash ISA limits - FT
-- 10/28 07:48 [FirstSquawk] ANTHROPIC SAYS IT IS EXPANDING ITS GSA PARTNERSHIP WITH A 40% MARKDOWN ON CLAUDE PRODUCTS FOR GOVERNMENT, BROADENING THE DISCOUNT TO STATE, LOCAL, TRIBAL AND TERRITORIAL GOVERNMENTS, AND LAUNCHING A DEDICATED PROGRAM TO HELP AGENCIES OPTIMI…
-- 10/28 07:48 [FirstSquawk] ANTHROPIC SAYS GOVERNMENT AGENCIES CAN PURCHASE CLAUDE AT A ONEGOV DISCOUNT VIA GSA’S MULTIPLE AWARD SCHEDULE TODAY, AND THAT CLAUDE ENTERPRISE IS PURSUING FEDRAMP MODERATE APPROVAL VIA THE FEDRAMP 20X PROGRAM - WEBSITE
-- 10/28 08:00 [financialjuice] Saudi Arabia issues early warning for possible hostile threat in Jeddah: civil defense
-- 10/28 08:00 [FirstSquawk] A NEW U.S. DEFENSE INTELLIGENCE AGENCY REPORT CONFIRMS THAT A SATELLITE IMAGE CIRCULATING SINCE 2024 SHOWS CHINA’S REUSABLE ORBITAL SPACEPLANE, OFFERING A CLEARER VIEW OF A SECRETIVE VEHICLE RESEMBLING THE AMERICAN X-37B - TWZ
-- 10/28 08:02 [FirstSquawk] SYRIAN PRESIDENT AHMAD AL-SHAARA SAYS THAT IN 2003, AS TALK GREW OF AMERICAN FORCES ENTERING IRAQ, HIS SENSE OF SOLIDARITY TOOK HIM TO IRAQ TO CONFRONT “THE AMERICAN OCCUPIER,” ADDING HE WENT ALONE, BEFORE THE AMERICANS ENTERED, WITHOUT ANY…
-- 10/28 08:02 [FirstSquawk] SYRIAN PRESIDENT AHMAD AL-SHAARA SAYS THAT THROUGHOUT HIS LIFE HE HAS NEVER ATTACKED A CIVILIAN OR AN UNARMED PERSON, THAT HE HAS PRINCIPLES IN MILITARY CONFRONTATIONS AND TAKES PRIDE IN THEM, AND THAT THERE IS “A VERY BIG DIFFERENCE BETWEE…
-- 10/28 08:02 [FirstSquawk] SYRIAN PRESIDENT AHMAD AL-SHAARA SAYS THIS IS A HISTORIC OPPORTUNITY FOR IRAQ AND SYRIA AFTER 60 TO 70 YEARS OF COUPS, WARS AND SECTARIAN CONFLICTS, CALLING FOR “AN HONEST RECKONING WITH OURSELVES” AND SAYING “ENOUGH WARS”
-- 10/28 08:02 [FirstSquawk] SYRIAN PRESIDENT AHMAD AL-SHAARA SAYS HE BELIEVES THE THREAT FROM ISIS HAS GRADUALLY DIMINISHED, THOUGH NOT TO A SUFFICIENT LEVEL OF REASSURANCE, BUT THAT THE THREAT IS NO LONGER WHAT IT WAS IN THE PAST
-- 10/28 08:04 [FirstSquawk] ISRAEL’S SMOTRICH SAYS HE SEES ON SOME SCREENS THAT “THE ARABS ARE CELEBRATING TONIGHT,” AND ANNOUNCES “WE WILL NOT LET THEM CELEBRATE,” SAYING THEY BELIEVE THEY WILL SUCCEED IN REVERSING THE “SETTLEMENT REVOLUTION” IN THE WEST BANK BUT “TH…
-- 10/28 08:04 [FirstSquawk] ISRAEL’S SMOTRICH SAYS ARABS ARE CELEBRATING BECAUSE THEY THINK THEY WILL SUCCEED IN PREVENTING THE ESTABLISHMENT OF ISRAELI SETTLEMENTS IN GAZA, ADDING “THEY WILL NOT SUCCEED. JEWISH SETTLEMENTS WILL BE ESTABLISHED IN GAZA”
-- 10/28 08:08 [financialjuice] Danger has passed in Jeddah and Yanbu: Saudi civil defense
-- 10/28 08:24 [DeItaone] EISENKOT: THE ISRAELI PUBLIC HAS VOTED FOR CHANGE AND AGAINST NETANYAHU
 - 10/28 09:17 [DeItaone] NETANYAHU FACES ELECTION SETBACK AS ISRAELI EXIT POLLS SHOW DEADLOCK Israeli exit polls show Prime Minister Benjamin Netanyahu’s bloc running neck and neck with opposition leader Gadi Eisenkot, with neither side projected to secure the 61 s…
 - 10/28 09:18 [financialjuice] Netanyahu's bloc now leads Eisenkot's bloc: updated Channel 12 exit poll
 - 10/28 09:18 [financialjuice] RBA governor Bullock: monetary policy acts with delay, full impact of recent rate hikes not yet seen on domestic activity
@@ -233,3 +186,62 @@
 - 10/28 11:13 [financialjuice] RBNZ Governor Breman: conditions remain favourable to return inflation to target
 - 10/28 11:14 [FirstSquawk] RBNZ Governor Says Wage Growth Has Yet to Reach Levels Compatible With Inflation Target
 - 10/28 11:14 [financialjuice] RBNZ Governor Breman says wage growth below levels consistent with target inflation
+- 10/28 11:17 [financialjuice] RBNZ Governor Breman: worried weak NZ$ may fuel inflation
+- 10/28 11:17 [FirstSquawk] RBNZ Governor Flags Inflation Risks if New Zealand Dollar Remains Under Pressure
+- 10/28 11:23 [financialjuice] RBNZ Governor Breman: addressed risk of decline in AI-related market assets
+- 10/28 11:25 [FirstSquawk] Breman: RBNZ Considered Potential Market Correction in AI-Linked Investments
+- 10/28 11:25 [financialjuice] RBNZ Governor Breman: discussed possibility of rates rising beyond OCR path
+- 10/28 11:25 [FirstSquawk] RBNZ Weighed Potential for Interest Rates to Rise Above Its Forecast Path, Breman Says
+- 10/28 11:27 [financialjuice] RBNZ Governor Breman: partial inflation figures and labour data will be key in coming weeks
+- 10/28 11:28 [FirstSquawk] Breman: Partial Inflation Figures and Employment Data Will Be Closely Watched in Coming Weeks
+- 10/28 11:33 [financialjuice] RBNZ Governor Breman: broad range of neutral rate estimates, always an uncertain call
+- 10/28 11:33 [FirstSquawk] Breman Says Pinpointing the Neutral Interest Rate Is Inherently Uncertain, With Estimates Differing Widely
+- 10/28 11:33 [financialjuice] Committee discussed decline in New Zealand dollar: if sustained could boost imported inflation
+- 10/28 11:33 [financialjuice] Further rate hikes likely at upcoming meetings
+- 10/28 11:33 [financialjuice] Further tightening may be necessary, even approaching restrictive levels
+- 10/28 11:33 [FirstSquawk] Breman: Policymakers Discussed Whether the Official Cash Rate Track Needs to Move Higher
+- 10/28 11:33 [financialjuice] discussed whether rates could increase beyond our OCR trajectory
+- 10/28 11:34 [financialjuice] Concerned that a weak New Zealand dollar could boost inflation
+- 10/28 11:34 [financialjuice] Did discuss if OCR path needs to be raised
+- 10/28 11:34 [financialjuice] Wage growth lags level consistent with inflation target
+- 10/28 11:34 [financialjuice] Conditions to restore inflation to target remain supportive
+- 10/28 11:34 [financialjuice] wide array of neutral rate forecasts presents an inherently uncertain decision
+- 10/28 11:34 [financialjuice] Discussed risk of decline in AI-related market assets
+- 10/28 11:34 [financialjuice] Partial inflation data will matter in coming weeks, along with labor figures
+- 10/28 11:34 [financialjuice] Decision based on economic outlook: did consider market pricing
+- 10/28 11:42 [financialjuice] RBNZ Governor Breman: conditions remain favourable to restore inflation to target
+- 10/28 11:42 [financialjuice] RBNZ Governor Breman: discussed if rates might rise beyond our OCR path
+- 10/28 11:42 [financialjuice] RBNZ Governor Breman: broad spectrum of neutral rate estimates, always an uncertain judgment
+- 10/28 11:42 [financialjuice] RBNZ Governor Breman: discussed if OCR path must be raised
+- 10/28 11:42 [financialjuice] RBNZ Governor Breman: OCR likely to increase above prior forecast
+- 10/28 11:42 [financialjuice] RBNZ Governor Breman: decision driven by economic outlook, considered market pricing
+- 10/28 11:42 [financialjuice] RBNZ Governor Breman: additional tightening may be required, even reaching restrictive levels
+- 10/28 11:42 [financialjuice] RBNZ Governor Breman: discussed risk of drop in ai-related market assets
+- 10/28 11:42 [FirstSquawk] RBNZ Governor Says Interest Rates Are Likely to Climb Beyond the Earlier OCR Track
+- 10/28 11:42 [financialjuice] RBNZ Governor Breman: partial inflation figures will be key in coming weeks, alongside labor data
+- 10/28 11:42 [financialjuice] RBNZ Governor Breman: concerns that a weak New Zealand dollar may boost inflation
+- 10/28 11:43 [financialjuice] RBNZ Governor Breman: wage expansion below levels consistent with target inflation
+- 10/28 11:49 [FirstSquawk] Piper Sandler Raises Visa’s Price Target to $479 From $430
+- 10/28 11:59 [FirstSquawk] SK Hynix Earnings Spark Strong Rally in Seoul, With Stocks Rising Nearly 6% Wednesday Morning
+- 10/28 12:06 [FirstSquawk] GFZ Records 6.06-Magnitude Quake in Vanuatu Islands
+- 10/28 12:15 [FirstSquawk] Philippine Stock Market Comes Under Pressure, With Benchmark Index Falling 2%
+- 10/28 12:20 [FirstSquawk] Taiwan’s Inflation Has Exceeded 2% This Year, but Is Expected to Ease Below That Threshold in 2027, Central Bank Chief Says
+- 10/28 12:26 [FirstSquawk] Nikkei: Japan Post Bank Plans to Take a 20% Ownership Interest in Matsui Securities
+- 10/28 12:33 [FirstSquawk] Washington Signals Potential Short, Sharp Escalation in Iran Conflict After U.S. Midterm Elections - WSJ
+- 10/28 12:46 [FirstSquawk] Two Political Camps, One Texas Battleground: Trump and Talarico Rally Miles Apart - WSJ
+- 10/28 12:51 [FirstSquawk] Yield on Japan’s 5-Year Government Bonds Rises to 2.260% After a 3-Basis-Point Increase
+- 10/28 12:59 [FirstSquawk] GBP/USD Edges Lower Toward 1.3300 Ahead of Budget Plans and Federal Reserve Rate Decision - FX
+- 10/28 13:04 [FirstSquawk] Won Weakens 1% Versus Dollar in South Korean Currency Trading
+- 10/28 13:11 [FirstSquawk] Yield on Japan’s 2-Year Government Bonds Moves Up 2 Bps to 1.895%
+- 10/28 13:11 [FirstSquawk] Yield on Japan’s 5-Year Government Bonds Moves Higher to 2.265% With a 3.5-Bp Gain
+- 10/28 13:24 [FirstSquawk] Philippines Maintains Firm Peso-Defense Policy, Marcos Says
+- 10/28 13:25 [FirstSquawk] Chinese Authorities Accelerate Support Efforts as Markets Come Under Pressure - FT
+- 10/28 13:28 [FirstSquawk] Trump Signals He Would Have Backed Flavio Bolsonaro Coming to the United States
+- 10/28 13:30 [FirstSquawk] Kospi Jumps 6.5% Following SK Hynix’s Record Profit and $75 Billion Shareholder Return Plan
+- 10/28 13:31 [FirstSquawk] Trump Says Ukraine Efforts Are Moving Forward, Expresses Hope for Talks With Putin and Zelenskiy in Near Future
+- 10/28 13:34 [FirstSquawk] Trump Confirms Plans for Meeting on Nuclear Arms Reduction During Asia Trip
+- 10/28 13:36 [FirstSquawk] Ukrainian Drone Attack Hits Industrial Facilities in Russia’s Novomoskovsk
+- 10/28 13:36 [FirstSquawk] Trump Leaves Door Open to More Attacks on Iran Following the Election
+- 10/28 14:07 [FirstSquawk] Taiwan’s Benchmark Stock Market Gains Over 2%
+- 10/28 14:24 [FirstSquawk] Japan’s Kyushu Electric Secures Annual Supply of 12 LNG Cargoes From LNG Canada Expansion
+- 10/28 14:27 [FirstSquawk] Yonhap: Hacking Attempts Against South Korean Financial Companies Traced to Multiple North Korean IP Addresses

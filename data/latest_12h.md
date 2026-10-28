@@ -7,111 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-28 11:15 JST／対象: 10/27 23:15 〜 10/28 11:15 JST（時刻はすべて日本時間）
+生成: 2026-10-28 14:35 JST／対象: 10/28 02:35 〜 10/28 14:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 32 | 10/27 23:15 | 10/28 09:19 | ⚠ 215分（04:49→08:24） |
-| FirstSquawk | 159 | 10/27 23:25 | 10/28 11:14 | ⚠ 143分（02:12→04:36） |
-| financialjuice | 179 | 10/27 23:18 | 10/28 11:14 | ⚠ 69分（08:08→09:18） |
+| DeItaone | 12 | 10/28 03:27 | 10/28 09:19 | ⚠ 215分（04:49→08:24） |
+| FirstSquawk | 166 | 10/28 04:36 | 10/28 14:27 | ⚠ 86分（08:04→09:30） |
+| financialjuice | 161 | 10/28 02:40 | 10/28 11:43 | ⚠ 69分（08:08→09:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 361 行（統合前 374 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 332 行（統合前 341 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/27 23:15 [DeItaone] SYNGENTA GROUP ADVISERS AIMING FOR MARKET VALUATION OF AT LEAST $66 BILLION WITH PLANNED IPO, SOURCES SAY
-- 10/27 23:18 [financialjuice] Fear and Greed Index: 31/100 = Fear
-- 10/27 23:18 [financialjuice] Crypto Fear and Greed Index: 48/100 = Neutral
-- 10/27 23:25 [FirstSquawk] FINNISH PRESIDENT STUBB: RELAYED MESSAGES FROM UKRAINE DURING PUTIN CALL
-- 10/27 23:31 [FirstSquawk] BOEING SHARES FALL 5.6% TO LOWEST SINCE NOVEMBER 25
-- 10/27 23:31 [FirstSquawk] US DALLAS FED SERVICES ACTIVITY OCT: 4.0 (EST -2.9; PREV -1.8)
-- 10/27 23:35 [financialjuice] Fitch Ratings: US credit outlook benign despite tighter funding conditions.
-- 10/27 23:35 [financialjuice] Yemeni Armed Forces: Our armed forces managed to target Abha International Airport with a drone. This attack was precise and led to the disruption of air traffic at this airport - IRIB News.
-- 10/27 23:35 [FirstSquawk] OIL FALLS TO INTRADAY LOW, BRENT TRADES NEAR $114/BBL
-- 10/27 23:37 [financialjuice] Fitch on US credit outlook: AI investment remains both main growth driver and a key downside risk.
-- 10/27 23:40 [financialjuice] Russia's Novak: Russian refineries are bringing units back online very quickly after maintenance, almost all necessary oil and gas equipment is made in Russia
-- 10/27 23:41 [financialjuice] Meta’s $25 billion stock sale ended five times oversubscribed $META
-- 10/27 23:41 [FirstSquawk] BOEING TO BEGIN TRANSITION TO 10/MONTH ON 787S THIS YEAR
-- 10/27 23:41 [financialjuice] Russia’s Deputy PM Novak: Russia discusses Arctic LNG projects with US - IFX
-- 10/27 23:55 [financialjuice/FirstSquawk] Maersk: Temporary emergency inland fuel/energy surcharge will be applied to all inland shipments for Nordic region until further notice.
-- 10/27 23:55 [financialjuice] Gazprom CEO met with national Iranian gas company.
-- 10/27 23:58 [DeItaone] SPOT GOLD RISES NEARLY 1% TO $4,052.16/OZ
-- 10/28 00:01 [financialjuice] US to sell $115 bln 4-Week bills on October 29th, to settle on November 3rd.
-- 10/28 00:01 [DeItaone] META AI DIRECTOR ROHIT PATEL LEAVES TO TAKE ON MICROSOFT OFFICE AND GOOGLE WORKSPACE - TECHCRUNCH
-- 10/28 00:01 [DeItaone] RUSSIA'S LAVROV: LEADERS OF FINLAND AND NORWAY SAID NOTHING NEW ABOUT UKRAINE IN THEIR CONVERSATION WITH PUTIN; EUROPE SIMPLY WANTS TO GET INVOLVED IN NEGOTIATION PROCESS - IFX
-- 10/28 00:02 [DeItaone] RUSSIA'S LAVROV: CONFLICT IN UKRAINE WILL CONTINUE AND IS LIKELY TO ESCALATE
-- 10/28 00:02 [financialjuice] Russian Foreign Minister Lavrov: Leaders of Finland and Norway said nothing new about Ukraine in their conversation with Putin; Europe simply wants to get involved in the negotiation process - IFX.
-- 10/28 00:02 [financialjuice] Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace - TechCrunch $META $MSFT
-- 10/28 00:08 [FirstSquawk] BOEING SHARES EXTEND DROP TO 10% AFTER CUTTING DELIVERY GOAL
-- 10/28 00:08 [FirstSquawk] PENTAGON SAYS POLAND WILL HOST PAC-3 MISSILE MAINTENANCE FACILITY
-- 10/28 00:12 [FirstSquawk] POLISH ENERGY MINISTER MOTYKA: OIL STOCKPILE RELEASE SCHEDULE SEEN READY BY END-NOVEMBER
-- 10/28 00:16 [financialjuice] Fed bids for 52-Week bills total $4.8 bln
-- 10/28 00:16 [financialjuice] Microsoft AI launches MAI image 2.7 in preview. $MSFT
-- 10/28 00:19 [DeItaone] BRAZIL FEDERAL POLICE CANCEL SENATOR FLAVIO BOLSONARO'S PASSPORTS AFTER DEADLINE MISSED - SOURCE
-- 10/28 00:26 [FirstSquawk] BOEING CEO: STILL DON'T HAVE FAA AUTHORIZATION TO COMPLETE 777X FLIGHT TEST CERTIFICATION
-- 10/28 00:27 [DeItaone] TRUMP ON TRUTH SOCIAL LAUDS 'EXTREMELY BIG RISE' IN OCTOBER CONSUMER CONFIDENCE
-- 10/28 00:29 [financialjuice] EIB and Canada to sign critical raw materials framework - Politico
-- 10/28 00:32 [financialjuice] US 52-WEEK BILL HIGH YIELD ACTUAL 4.29% (FORECAST -, PREVIOUS 4.400%) $MACRO
-- 10/28 00:32 [financialjuice] US 52-WEEK BILL BID-TO-COVER ACTUAL 3.150 (FORECAST -, PREVIOUS 3.070) $MACRO
-- 10/28 00:32 [DeItaone] UKRAINE'S OMBUDSMAN SAYS BOTH UKRAINE AND RUSSIA REPORT NO VIOLATIONS OF CEASEFIRE IN OLESHKY AS OF NOW
-- 10/28 00:32 [financialjuice] The US offers Constellation $5b in financing for nuclear reactors $CEG
-- 10/28 00:33 [financialjuice] US 52-Week Bill Auction High Yield 4.29% Bid-to-Cover 3.15 Sells $54 bln Awards 65.33% of bids at high
-- 10/28 00:37 [financialjuice] WATCH LIVE: Trump Speaks
-- 10/28 00:37 [financialjuice] Ceasefire in Russian-held Ukrainian town of Oleshky will continue until 22.59 MSK on November 1st - RIA
-- 10/28 00:39 [financialjuice] Netanyahu’s Likud submits a request to extend voting hours in Israel’s Knesset elections, according to online Israeli sources citing the party’s public statement- Israel's Channel 14 News
-- 10/28 00:39 [financialjuice] Trump: We're going to accept 1m barrels of Venezuelan oil
-- 10/28 00:40 [financialjuice] Trump ends remarks to reporters
-- 10/28 00:40 [DeItaone] TRUMP: BELIEVE I WILL VISIT TANKER IN TEXAS WITH VENEZUELA OIL TRUMP: THINK RUBIO WILL BE WITH ME
-- 10/28 00:41 [DeItaone] TRUMP: WE'RE GOING TO ACCEPT 1 MILLION BARRELS OF OIL
-- 10/28 00:41 [DeItaone] TRUMP SAYS WILL ACCEPT ELECTION RESULTS IF ELECTIONS ARE HONEST
-- 10/28 00:45 [FirstSquawk] MICROSOFT AI LAUNCHES MAI IMAGE 2.7 IN PREVIEW
-- 10/28 00:48 [financialjuice] Central Election Committee claims that they have not received a request from Likud to extend the voting hours - Israel's Channel 12 News
-- 10/28 00:49 [financialjuice] Iran and Belarus sign memorandum on energy cooperation - IRNA
-- 10/28 00:50 [FirstSquawk] US PRESIDENT TRUMP: BELIEVES HE WILL VISIT TANKER IN TEXAS CARRYING VENEZUELA OIL, THINKS RUBIO WILL BE WITH HIM
-- 10/28 00:57 [financialjuice] Melania Trump: Local ceasefire in Ukraine has begun
-- 10/28 01:00 [DeItaone] FIRST LADY MELANIA TRUMP: LOCALIZED CEASEFIRE HAS BEEN EXPANDED BEYOND OLESHKY WITHIN KHERSON REGION
-- 10/28 01:00 [financialjuice] Oracle and Cerebras announce partnership in statement. $ORCL
-- 10/28 01:00 [financialjuice] Google upgrades AI world model that rattled video game stocks $GOOGL
-- 10/28 01:01 [financialjuice] Intel and Oracle plan expanded pact. $INTC $ORCL
-- 10/28 01:01 [financialjuice] Nvidia & Oracle expand Nvidia Vera Rubin $NVDA $ORCL
-- 10/28 01:02 [FirstSquawk] NVIDIA & ORACLE EXPAND NVIDIA VERA RUBIN
-- 10/28 01:02 [FirstSquawk] ORACLE TO USE CEREBRAS EQUIPMENT IN AI DATA CENTERS
-- 10/28 01:02 [financialjuice] Oracle expands OpenAI partnership - CNBC. $ORCL
-- 10/28 01:04 [FirstSquawk] INTEL SHARES ALSO SPIKE UP 4.9% TO SESSION HIGH
-- 10/28 01:04 [financialjuice] Oracle adds networking capabilities to Acceleron for AI. OpenAI expands partnership with Oracle to bring apps to ChatGPT. $ORCL
-- 10/28 01:06 [financialjuice] Oracle brings google TPUs to Oracle Cloud infrastructure. $ORCL $GOOGL
-- 10/28 01:10 [FirstSquawk] EU PRESSURES ALLIES OVER LOOMING UKRAINE FUNDING CRUNCH – FT
-- 10/28 01:15 [DeItaone] TRUMP: IN SHORT ORDER, WE WILL BE OFFICIALLY BANNING TERM, "AI/ARTIFICIAL INTELLIGENCE," IN ALL RELEVANT DOCUMENTS
-- 10/28 01:23 [FirstSquawk] US MILITARY SAYS IT STRUCK DRUG VESSEL TODAY IN EASTERN PACIFIC
-- 10/28 01:26 [FirstSquawk] LESS THAN 5% OF GERMANY'S LAND IS SUITABLE FOR A FINAL NUCLEAR WASTE REPOSITORY, EXPERTS REPORT.
-- 10/28 01:31 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 0.72% || GERMANY'S DAX UP 0.77%
-- 10/28 01:31 [FirstSquawk] FRANCE'S CAC 40 UP 0.65% || SPAIN'S IBEX UP 0.74%
-- 10/28 01:45 [financialjuice] Iran, Russia presidents hold talks in Moscow - Tasnim
-- 10/28 01:45 [financialjuice] Fed bids for 5-Year notes total $7.8 bln
-- 10/28 01:49 [FirstSquawk] PEZESHKIAN: REGIONAL STATES CAN RESOLVE CHALLENGES WITHOUT US - TASNIM
-- 10/28 01:50 [financialjuice] Iran and Russia presidents discuss energy cooperation and trade
-- 10/28 02:00 [financialjuice] Treasury WI 5y yield 4.841% before the $70 billion auction
-- 10/28 02:02 [financialjuice] US 5-YEAR NOTE HIGH YIELD ACTUAL 4.845% (FORECAST -, PREVIOUS 5.033%) $MACRO
-- 10/28 02:02 [financialjuice] US 5-YEAR NOTE BID-TO-COVER ACTUAL 2.330 (FORECAST -, PREVIOUS 2.210) $MACRO
-- 10/28 02:03 [financialjuice] US 5-Year Note Auction High Yield 4.845% [Tail 0.4 bps] Bid-to-cover 2.33 Sells $70 bln Awards 98.60% of bids at high Primary Dealers take 10.6% Direct 29.4% Indirect 60.0%
-- 10/28 02:04 [financialjuice] News sources report the occurrence of an explosion near Moafaq al-Sulti base in Jordan - Fars News
-- 10/28 02:05 [financialjuice/FirstSquawk] Putin: The Bushehr nuclear power plant construction project in Iran has not been stopped and is in operation - Fars News
-- 10/28 02:05 [FirstSquawk] ASM International Q3 Earnings: - Revenue: EUR1.159B - Gross Margin: 52% (est 50.8%) - Operating Result: EUR378.9M - Operating Margin: 32.1% (est 32%) - Net Income: EUR308.1M - Adjusted Net Income: EUR315.4M - Sees Q4 2026 Revenue: EUR1.23B,…
-- 10/28 02:06 [FirstSquawk] TRUMP: 100M BARRELS OF VENEZUELAN OIL IS JUST 1ST SHIPMENT
-- 10/28 02:06 [financialjuice] Trump: 100m barrels of Venezuelan oil is just the 1st shipment
-- 10/28 02:08 [financialjuice] Trump: 1 mln barrels of Venezuelan oil is just the 1st shipment
-- 10/28 02:10 [DeItaone] 🇧🇷 *BOLSONARO EN ROUTE TO THE US, FOLHA REPORTS CITING ALLIES
-- 10/28 02:17 [DeItaone] 🇧🇷 BOLSONARO REPORTEDLY FLEEING BRAZIL FOR THE UNITED STATES Flávio Bolsonaro is reportedly en route to the US, according to allies cited by Brazilian newspaper Folha de S.Paulo, two days after losing the presidential election to Lula. The …
-- 10/28 02:20 [DeItaone] AROUND 1,000 SALVADORAN SOLDIERS HAVE DEPLOYED TO HAITI - SECURITY OFFICIAL IN HAITI
-- 10/28 02:21 [DeItaone] Trump on Truth Social: 'I Am Traveling to Corpus Christi ... Where the US Will Receive 1M Barrels of Venezuelan Oil As a Result of Our Highly Successful Military Operation'
-- 10/28 02:23 [DeItaone] Trump on Truth Social: 'Gasoline and Diesel Prices Will Soon Come Plummeting Down'
-- 10/28 02:24 [DeItaone] Trump on Truth Social: 'This is the First Shipment of BILLIONS of Barrels to Come' Trump on Truth Social: 'By Unleashing Energy Dominance From Alaska, All the Way Down to Venezuela, I Have Made the WEstern Hemisphere the Energy Capital of t…
-- 10/28 02:33 [DeItaone] BRAZIL'S FLAVIO BOLSONARO IS ON A PLANE HEADING TO THE US, US OFFICIAL SAYS
 - 10/28 02:40 [financialjuice] Google launches Genie 4 world model with native audio $GOOGL
 - 10/28 02:48 [financialjuice/FirstSquawk] US VP Vance: I understand Gasoline prices are high
 - 10/28 03:01 [financialjuice/FirstSquawk] The EU eyes global tax deal revenue to boost next budget - Politico
@@ -385,3 +297,62 @@
 - 10/28 11:13 [financialjuice] RBNZ Governor Breman: conditions remain favourable to return inflation to target
 - 10/28 11:14 [FirstSquawk] RBNZ Governor Says Wage Growth Has Yet to Reach Levels Compatible With Inflation Target
 - 10/28 11:14 [financialjuice] RBNZ Governor Breman says wage growth below levels consistent with target inflation
+- 10/28 11:17 [financialjuice] RBNZ Governor Breman: worried weak NZ$ may fuel inflation
+- 10/28 11:17 [FirstSquawk] RBNZ Governor Flags Inflation Risks if New Zealand Dollar Remains Under Pressure
+- 10/28 11:23 [financialjuice] RBNZ Governor Breman: addressed risk of decline in AI-related market assets
+- 10/28 11:25 [FirstSquawk] Breman: RBNZ Considered Potential Market Correction in AI-Linked Investments
+- 10/28 11:25 [financialjuice] RBNZ Governor Breman: discussed possibility of rates rising beyond OCR path
+- 10/28 11:25 [FirstSquawk] RBNZ Weighed Potential for Interest Rates to Rise Above Its Forecast Path, Breman Says
+- 10/28 11:27 [financialjuice] RBNZ Governor Breman: partial inflation figures and labour data will be key in coming weeks
+- 10/28 11:28 [FirstSquawk] Breman: Partial Inflation Figures and Employment Data Will Be Closely Watched in Coming Weeks
+- 10/28 11:33 [financialjuice] RBNZ Governor Breman: broad range of neutral rate estimates, always an uncertain call
+- 10/28 11:33 [FirstSquawk] Breman Says Pinpointing the Neutral Interest Rate Is Inherently Uncertain, With Estimates Differing Widely
+- 10/28 11:33 [financialjuice] Committee discussed decline in New Zealand dollar: if sustained could boost imported inflation
+- 10/28 11:33 [financialjuice] Further rate hikes likely at upcoming meetings
+- 10/28 11:33 [financialjuice] Further tightening may be necessary, even approaching restrictive levels
+- 10/28 11:33 [FirstSquawk] Breman: Policymakers Discussed Whether the Official Cash Rate Track Needs to Move Higher
+- 10/28 11:33 [financialjuice] discussed whether rates could increase beyond our OCR trajectory
+- 10/28 11:34 [financialjuice] Concerned that a weak New Zealand dollar could boost inflation
+- 10/28 11:34 [financialjuice] Did discuss if OCR path needs to be raised
+- 10/28 11:34 [financialjuice] Wage growth lags level consistent with inflation target
+- 10/28 11:34 [financialjuice] Conditions to restore inflation to target remain supportive
+- 10/28 11:34 [financialjuice] wide array of neutral rate forecasts presents an inherently uncertain decision
+- 10/28 11:34 [financialjuice] Discussed risk of decline in AI-related market assets
+- 10/28 11:34 [financialjuice] Partial inflation data will matter in coming weeks, along with labor figures
+- 10/28 11:34 [financialjuice] Decision based on economic outlook: did consider market pricing
+- 10/28 11:42 [financialjuice] RBNZ Governor Breman: conditions remain favourable to restore inflation to target
+- 10/28 11:42 [financialjuice] RBNZ Governor Breman: discussed if rates might rise beyond our OCR path
+- 10/28 11:42 [financialjuice] RBNZ Governor Breman: broad spectrum of neutral rate estimates, always an uncertain judgment
+- 10/28 11:42 [financialjuice] RBNZ Governor Breman: discussed if OCR path must be raised
+- 10/28 11:42 [financialjuice] RBNZ Governor Breman: OCR likely to increase above prior forecast
+- 10/28 11:42 [financialjuice] RBNZ Governor Breman: decision driven by economic outlook, considered market pricing
+- 10/28 11:42 [financialjuice] RBNZ Governor Breman: additional tightening may be required, even reaching restrictive levels
+- 10/28 11:42 [financialjuice] RBNZ Governor Breman: discussed risk of drop in ai-related market assets
+- 10/28 11:42 [FirstSquawk] RBNZ Governor Says Interest Rates Are Likely to Climb Beyond the Earlier OCR Track
+- 10/28 11:42 [financialjuice] RBNZ Governor Breman: partial inflation figures will be key in coming weeks, alongside labor data
+- 10/28 11:42 [financialjuice] RBNZ Governor Breman: concerns that a weak New Zealand dollar may boost inflation
+- 10/28 11:43 [financialjuice] RBNZ Governor Breman: wage expansion below levels consistent with target inflation
+- 10/28 11:49 [FirstSquawk] Piper Sandler Raises Visa’s Price Target to $479 From $430
+- 10/28 11:59 [FirstSquawk] SK Hynix Earnings Spark Strong Rally in Seoul, With Stocks Rising Nearly 6% Wednesday Morning
+- 10/28 12:06 [FirstSquawk] GFZ Records 6.06-Magnitude Quake in Vanuatu Islands
+- 10/28 12:15 [FirstSquawk] Philippine Stock Market Comes Under Pressure, With Benchmark Index Falling 2%
+- 10/28 12:20 [FirstSquawk] Taiwan’s Inflation Has Exceeded 2% This Year, but Is Expected to Ease Below That Threshold in 2027, Central Bank Chief Says
+- 10/28 12:26 [FirstSquawk] Nikkei: Japan Post Bank Plans to Take a 20% Ownership Interest in Matsui Securities
+- 10/28 12:33 [FirstSquawk] Washington Signals Potential Short, Sharp Escalation in Iran Conflict After U.S. Midterm Elections - WSJ
+- 10/28 12:46 [FirstSquawk] Two Political Camps, One Texas Battleground: Trump and Talarico Rally Miles Apart - WSJ
+- 10/28 12:51 [FirstSquawk] Yield on Japan’s 5-Year Government Bonds Rises to 2.260% After a 3-Basis-Point Increase
+- 10/28 12:59 [FirstSquawk] GBP/USD Edges Lower Toward 1.3300 Ahead of Budget Plans and Federal Reserve Rate Decision - FX
+- 10/28 13:04 [FirstSquawk] Won Weakens 1% Versus Dollar in South Korean Currency Trading
+- 10/28 13:11 [FirstSquawk] Yield on Japan’s 2-Year Government Bonds Moves Up 2 Bps to 1.895%
+- 10/28 13:11 [FirstSquawk] Yield on Japan’s 5-Year Government Bonds Moves Higher to 2.265% With a 3.5-Bp Gain
+- 10/28 13:24 [FirstSquawk] Philippines Maintains Firm Peso-Defense Policy, Marcos Says
+- 10/28 13:25 [FirstSquawk] Chinese Authorities Accelerate Support Efforts as Markets Come Under Pressure - FT
+- 10/28 13:28 [FirstSquawk] Trump Signals He Would Have Backed Flavio Bolsonaro Coming to the United States
+- 10/28 13:30 [FirstSquawk] Kospi Jumps 6.5% Following SK Hynix’s Record Profit and $75 Billion Shareholder Return Plan
+- 10/28 13:31 [FirstSquawk] Trump Says Ukraine Efforts Are Moving Forward, Expresses Hope for Talks With Putin and Zelenskiy in Near Future
+- 10/28 13:34 [FirstSquawk] Trump Confirms Plans for Meeting on Nuclear Arms Reduction During Asia Trip
+- 10/28 13:36 [FirstSquawk] Ukrainian Drone Attack Hits Industrial Facilities in Russia’s Novomoskovsk
+- 10/28 13:36 [FirstSquawk] Trump Leaves Door Open to More Attacks on Iran Following the Election
+- 10/28 14:07 [FirstSquawk] Taiwan’s Benchmark Stock Market Gains Over 2%
+- 10/28 14:24 [FirstSquawk] Japan’s Kyushu Electric Secures Annual Supply of 12 LNG Cargoes From LNG Canada Expansion
+- 10/28 14:27 [FirstSquawk] Yonhap: Hacking Attempts Against South Korean Financial Companies Traced to Multiple North Korean IP Addresses
