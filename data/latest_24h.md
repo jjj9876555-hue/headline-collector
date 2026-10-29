@@ -7,66 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-29 05:29 JST／対象: 10/28 05:29 〜 10/29 05:29 JST（時刻はすべて日本時間）
+生成: 2026-10-29 09:17 JST／対象: 10/28 09:17 〜 10/29 09:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 69 | 10/28 08:24 | 10/29 05:18 | ⚠ 650分（09:19→20:09） |
-| FirstSquawk | 382 | 10/28 05:33 | 10/29 05:22 | ⚠ 86分（08:04→09:30） |
-| financialjuice | 489 | 10/28 05:46 | 10/29 05:24 | ⚠ 246分（11:43→15:49） |
+| DeItaone | 68 | 10/28 09:19 | 10/29 06:14 | ⚠ 650分（09:19→20:09） |
+| FirstSquawk | 383 | 10/28 09:30 | 10/29 09:10 | ⚠ 55分（14:39→15:35） |
+| financialjuice | 515 | 10/28 09:18 | 10/29 09:16 | ⚠ 246分（11:43→15:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 918 行（統合前 946 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 945 行（統合前 972 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/28 05:33 [FirstSquawk] ANTHROPIC SAYS IT HAS ACQUIRED MITHRIL MEDICINE TO RUN RARE DISEASE PROGRAMS, ADDING THAT IT WANTS TO SHARE ITS MODELS WITH DRUG DEVELOPMENT RESEARCHERS AND AS MANY RESEARCHERS AS POSSIBLE, AND THAT IT LOOKS FORWARD TO WORKING WITH MORE ORG…
-- 10/28 05:34 [FirstSquawk] WASTE MANAGEMENT Q3 2026 OPERATING REVENUE $6.85 BLN, ABOVE ESTIMATE OF $6.82 BLN, WITH ADJUSTED EPS $2.15, SLIGHTLY BELOW ESTIMATE OF $2.18, AND EPS $2.05 VERSUS $1.49 YOY
-- 10/28 05:34 [FirstSquawk] WASTE MANAGEMENT STILL SEES FY ADJUSTED OPERATING EBITDA $8.15 BLN TO $8.25 BLN AND FY TOTAL REVENUE $26.28 BLN TO $26.48 BLN
-- 10/28 05:46 [financialjuice/FirstSquawk] UK's Chancellor Healey prepares to slash household gas bills by £50 - The Telegraph
-- 10/28 05:46 [financialjuice] US API CRUDE STOCK CHANGE ACTUAL -2.031M (FORECAST 0.8M, PREVIOUS -4.93M) $MACRO
-- 10/28 05:47 [financialjuice] US API GASOLINE STOCK CHANGE ACTUAL 2.39M (FORECAST -, PREVIOUS -2.577M) $MACRO
-- 10/28 05:47 [financialjuice] US API DISTILLATE STOCK CHANGE ACTUAL 0.38M (FORECAST -, PREVIOUS -2.6M) $MACRO
-- 10/28 05:47 [financialjuice] US API CUSHING STOCK CHANGE ACTUAL -0.453M (FORECAST -, PREVIOUS 0.936M) $MACRO
-- 10/28 05:48 [FirstSquawk] U.S. API CRUDE STOCKS FELL 2.031 MLN BARRELS VERSUS A FORECAST BUILD OF 0.8 MLN AND A PRIOR 4.93 MLN DRAW, WITH CUSHING STOCKS DOWN 0.453 MLN
-- 10/28 06:01 [financialjuice] Chile's central bank: future interest rate path to be evaluated on meeting-by-meeting basis
-- 10/28 06:01 [financialjuice] Chile’s central bank: local economy may regain momentum by 2027, but current weakness could last longer than expected
-- 10/28 06:01 [FirstSquawk] BOEING SAYS IT EXPERIENCED SUPPLIER SHORTAGES DURING Q3 THAT DISRUPTED FACTORY OPERATIONS, ADVERSELY AFFECTING ITS KC-46A TANKER AND 777 FREIGHTER PROGRAMS
-- 10/28 06:01 [FirstSquawk] BOEING SAYS THE SUPPLIER SHORTAGES DISRUPTION IS EXPECTED TO CONTINUE INTO 2027 AND RESULT IN ABNORMAL PRODUCTION COSTS, WHICH ARE EXPENSED AS INCURRED
-- 10/28 06:02 [financialjuice] IMF: reaches staff-level accord on third review under Argentina's extended fund facility arrangement
-- 10/28 06:02 [financialjuice] Chile's central bank: council will closely monitor signs of increased shock transmission or persistence in inflation
-- 10/28 06:03 [FirstSquawk] TECH STOCKS RALLIED AHEAD OF MAJOR TECH EARNINGS AND THE FED’S RATE DECISION, WITH THE NASDAQ 100 UP 1.3% AND THE SEMICONDUCTOR INDEX GAINING 3.6%. META’S $25 BILLION SHARE SALE WAS FIVE TIMES OVERSUBSCRIBED, WHILE ORACLE EXPANDED ITS AI PA…
-- 10/28 06:03 [FirstSquawk] BRENT CRUDE SETTLED BELOW $114 A BARREL AMID DIPLOMATIC EFFORTS TO EASE PERSIAN GULF TENSIONS. UPS ROSE ON A POSITIVE OUTLOOK, BOEING FELL 11% AFTER CUTTING ITS DELIVERY TARGET, AND THE DOLLAR STRENGTHENED.
-- 10/28 06:36 [FirstSquawk] JORDANIAN AND SYRIAN FOREIGN MINISTERS AGREED TO FORM A JOINT SECURITY COMMITTEE TO INVESTIGATE RECENT JORDANIAN STRIKES ON ISLAMIC STATE SITES IN SYRIA, WITH JORDAN’S FOREIGN MINISTER EXPRESSING REGRET OVER CIVILIAN DEATHS IN THE STRIKES D…
-- 10/28 07:00 [financialjuice/FirstSquawk] Enlitic signs three-year $144,000 deal with Southwest Medical Imaging for Ensight
-- 10/28 07:09 [FirstSquawk] APPLE IS SET TO UNVEIL 14- AND 16-INCH TOUCH MACBOOKS ON WEDNESDAY, WHICH WILL BE THE COMPANY’S PRICIEST LAPTOPS, WITH APPLE HAVING DISCUSSED CHARGING $2,899 FOR THE NEW 14-INCH TOUCH MAC
-- 10/28 07:14 [FirstSquawk] TOP DEMOCRATS ARE PREPARING TO INVESTIGATE TRUMP’S AGREEMENT TO IMPORT RUSSIAN DIESEL IF THEY REGAIN CONTROL OF CONGRESS, WITH LAWMAKERS URGING SIX MAJOR U.S. BANKS AND SEVERAL PORTS TO PRESERVE RUSSIAN DIESEL DEAL RECORDS AND WARNING THE I…
-- 10/28 07:15 [FirstSquawk] THE TREASURY DEPARTMENT HAS WAIVED SANCTIONS TO FACILITATE THE ARRANGEMENT AND INSISTS IT IS LEGAL - AXIOS
-- 10/28 07:15 [FirstSquawk] AMERICAN AIRLINES DISPATCHERS AND OPERATIONS SPECIALISTS HAVE APPROVED A NEW 5-YEAR CONTRACT, WITH THE DEAL WITH THE PROFESSIONAL AIRLINE FLIGHT CONTROL ASSOCIATION INCLUDING PAY INCREASES THAT WILL TAKE EFFECT IMMEDIATELY
-- 10/28 07:18 [FirstSquawk] NIKKEI FUTURES TRADE AT 64,450 VERSUS A CASH CLOSE OF 63,268
-- 10/28 07:24 [financialjuice] Anthropic expands GSA partnership with 40% markdown on Claude products for government
-- 10/28 07:24 [financialjuice] Anthropic: launching dedicated program to help agencies optimize Claude use
-- 10/28 07:24 [financialjuice] Anthropic: discount on Claude products broadens to state, local, tribal, territorial governments
-- 10/28 07:25 [financialjuice] Anthropic: government agencies can purchase Claude at onegov discount via GSA's multiple award schedule today - website
-- 10/28 07:26 [financialjuice] Anthropic: Claude enterprise pursuing FedRAMP moderate approval via FedRAMP 20x program
-- 10/28 07:42 [financialjuice] UK's Healey to restore cuts to cash ISA limits - FT
-- 10/28 07:48 [FirstSquawk] ANTHROPIC SAYS IT IS EXPANDING ITS GSA PARTNERSHIP WITH A 40% MARKDOWN ON CLAUDE PRODUCTS FOR GOVERNMENT, BROADENING THE DISCOUNT TO STATE, LOCAL, TRIBAL AND TERRITORIAL GOVERNMENTS, AND LAUNCHING A DEDICATED PROGRAM TO HELP AGENCIES OPTIMI…
-- 10/28 07:48 [FirstSquawk] ANTHROPIC SAYS GOVERNMENT AGENCIES CAN PURCHASE CLAUDE AT A ONEGOV DISCOUNT VIA GSA’S MULTIPLE AWARD SCHEDULE TODAY, AND THAT CLAUDE ENTERPRISE IS PURSUING FEDRAMP MODERATE APPROVAL VIA THE FEDRAMP 20X PROGRAM - WEBSITE
-- 10/28 08:00 [financialjuice] Saudi Arabia issues early warning for possible hostile threat in Jeddah: civil defense
-- 10/28 08:00 [FirstSquawk] A NEW U.S. DEFENSE INTELLIGENCE AGENCY REPORT CONFIRMS THAT A SATELLITE IMAGE CIRCULATING SINCE 2024 SHOWS CHINA’S REUSABLE ORBITAL SPACEPLANE, OFFERING A CLEARER VIEW OF A SECRETIVE VEHICLE RESEMBLING THE AMERICAN X-37B - TWZ
-- 10/28 08:02 [FirstSquawk] SYRIAN PRESIDENT AHMAD AL-SHAARA SAYS THAT IN 2003, AS TALK GREW OF AMERICAN FORCES ENTERING IRAQ, HIS SENSE OF SOLIDARITY TOOK HIM TO IRAQ TO CONFRONT “THE AMERICAN OCCUPIER,” ADDING HE WENT ALONE, BEFORE THE AMERICANS ENTERED, WITHOUT ANY…
-- 10/28 08:02 [FirstSquawk] SYRIAN PRESIDENT AHMAD AL-SHAARA SAYS THAT THROUGHOUT HIS LIFE HE HAS NEVER ATTACKED A CIVILIAN OR AN UNARMED PERSON, THAT HE HAS PRINCIPLES IN MILITARY CONFRONTATIONS AND TAKES PRIDE IN THEM, AND THAT THERE IS “A VERY BIG DIFFERENCE BETWEE…
-- 10/28 08:02 [FirstSquawk] SYRIAN PRESIDENT AHMAD AL-SHAARA SAYS THIS IS A HISTORIC OPPORTUNITY FOR IRAQ AND SYRIA AFTER 60 TO 70 YEARS OF COUPS, WARS AND SECTARIAN CONFLICTS, CALLING FOR “AN HONEST RECKONING WITH OURSELVES” AND SAYING “ENOUGH WARS”
-- 10/28 08:02 [FirstSquawk] SYRIAN PRESIDENT AHMAD AL-SHAARA SAYS HE BELIEVES THE THREAT FROM ISIS HAS GRADUALLY DIMINISHED, THOUGH NOT TO A SUFFICIENT LEVEL OF REASSURANCE, BUT THAT THE THREAT IS NO LONGER WHAT IT WAS IN THE PAST
-- 10/28 08:04 [FirstSquawk] ISRAEL’S SMOTRICH SAYS HE SEES ON SOME SCREENS THAT “THE ARABS ARE CELEBRATING TONIGHT,” AND ANNOUNCES “WE WILL NOT LET THEM CELEBRATE,” SAYING THEY BELIEVE THEY WILL SUCCEED IN REVERSING THE “SETTLEMENT REVOLUTION” IN THE WEST BANK BUT “TH…
-- 10/28 08:04 [FirstSquawk] ISRAEL’S SMOTRICH SAYS ARABS ARE CELEBRATING BECAUSE THEY THINK THEY WILL SUCCEED IN PREVENTING THE ESTABLISHMENT OF ISRAELI SETTLEMENTS IN GAZA, ADDING “THEY WILL NOT SUCCEED. JEWISH SETTLEMENTS WILL BE ESTABLISHED IN GAZA”
-- 10/28 08:08 [financialjuice] Danger has passed in Jeddah and Yanbu: Saudi civil defense
-- 10/28 08:24 [DeItaone] EISENKOT: THE ISRAELI PUBLIC HAS VOTED FOR CHANGE AND AGAINST NETANYAHU
-- 10/28 09:17 [DeItaone] NETANYAHU FACES ELECTION SETBACK AS ISRAELI EXIT POLLS SHOW DEADLOCK Israeli exit polls show Prime Minister Benjamin Netanyahu’s bloc running neck and neck with opposition leader Gadi Eisenkot, with neither side projected to secure the 61 s…
 - 10/28 09:18 [financialjuice] Netanyahu's bloc now leads Eisenkot's bloc: updated Channel 12 exit poll
 - 10/28 09:18 [financialjuice] RBA governor Bullock: monetary policy acts with delay, full impact of recent rate hikes not yet seen on domestic activity
 - 10/28 09:18 [financialjuice] RBA Governor Bullock: impact of Middle East conflict on economic activity has been relatively modest so far
@@ -942,3 +899,73 @@
 - 10/29 05:22 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT SAYS A LOT OF TRUMP’S ECONOMIC AGENDA IS BAKED IN, SUCH AS TAX CUTS, AND THAT CONSUMER BEHAVIOR AND BUSINESS BEHAVIOR ARE BOTH QUITE STRONG
 - 10/29 05:22 [financialjuice] US Treasury Secretary Bessent appearance on CNBC concludes.
 - 10/29 05:24 [financialjuice] Stocks Edge Higher as Fed Holds Rates and Leaves December Outlook Uncertain – US Market Wrap
+- 10/29 05:34 [financialjuice] Alphabet CEO Pichai: Now at a half trillion annual run rate. $GOOGL
+- 10/29 05:36 [financialjuice] Pichai: AI model argon has sped development of code at Google. $GOOGL
+- 10/29 05:36 [FirstSquawk] ALPHABET CEO PICHAI SAYS THE AI MODEL ARGON HAS SPED UP THE DEVELOPMENT OF CODE AT GOOGLE, AND THAT THE COMPANY IS NOW AT A HALF-TRILLION ANNUAL RUN RATE
+- 10/29 05:36 [financialjuice] Alphabet's CEO Pichai: New AI model Carbon is Google's strongest. $GOOGL
+- 10/29 05:37 [financialjuice] Pichai: New AI model carbon is in tests with US government. $GOOGL
+- 10/29 05:37 [financialjuice] Alphabet's CEO Pichai: New AI model Carbon outperforms Gemini 4 Argon. $GOOGL
+- 10/29 05:38 [financialjuice] Alphabet's CEO Pichai: New AI model Carbon first rolls out to cyber partners. $GOOGL
+- 10/29 05:39 [FirstSquawk] ALPHABET CEO PICHAI SAYS THE NEW AI MODEL CARBON FIRST ROLLS OUT TO CYBER PARTNERS AND OUTPERFORMS GEMINI 4 ARGON
+- 10/29 05:39 [financialjuice] Pichai: Search queries growing at fastest rate in 5 years. $GOOGL
+- 10/29 05:44 [financialjuice] Google bringing ads to search AI mode in international markets. $GOOGL
+- 10/29 05:44 [FirstSquawk] GOOGLE BRINGING ADS TO SEARCH AI MODE IN INTERNATIONAL MARKETS.
+- 10/29 05:45 [financialjuice] Google Gemini helped advertisers generate over 1.5 bln assets. $GOOGL
+- 10/29 05:46 [FirstSquawk] DEUTSCHE TELEKOM IS SAID TO HAVE HIT THE BRAKES ON A MERGER WITH T-MOBILE, OPTING AGAINST A FORMAL BID FOR THE TIME BEING, THOUGH IT COULD DECIDE TO PROCEED WITH AN OFFER LATER
+- 10/29 05:47 [financialjuice] Google YouTube subscriptions are growing faster than ads. $GOOGL
+- 10/29 05:48 [FirstSquawk] GOOGLE SAYS YOUTUBE SUBSCRIPTIONS ARE GROWING FASTER THAN ADS, AND THAT GEMINI HAS HELPED ADVERTISERS GENERATE OVER 1.5 BLN ASSETS
+- 10/29 05:55 [financialjuice] Kurian: Google worked with META to build torch TPU. $GOOGL $META
+- 10/29 05:57 [financialjuice] Google works with Anthropic on TPUs directly and with Broadcom. $GOOGL $AVGO
+- 10/29 05:58 [financialjuice/FirstSquawk] Fitch Ratings: US fiscal pressures set to persist regardless of midterm outcome.
+- 10/29 05:58 [financialjuice] Google's Ashkenazi: R&D spending up 36% driven by AI hires and depreciation. $GOOGL
+- 10/29 05:59 [FirstSquawk] GOOGLE’S ASHKENAZI SAYS R&D SPENDING IS UP 36%, DRIVEN BY AI HIRES AND DEPRECIATION, AND THAT GOOGLE WORKS WITH ANTHROPIC ON TPUS DIRECTLY AND WITH BROADCOM
+- 10/29 05:59 [financialjuice] Google attributes $8.2 bln other income loss to SpaceX share drop. $GOOGL $SPCX
+- 10/29 06:14 [DeItaone] TRUMP SAYS HE DIDN’T TELL VANCE TO WRITE TO IRAN
+- 10/29 06:26 [financialjuice] Meta Platforms offers 40 million shares of class A common stock: SEC filing
+- 10/29 06:26 [financialjuice] Meta Platforms enters forward sale pacts with Morgan Stanley and Goldman Sachs: SEC filing
+- 10/29 06:30 [financialjuice] Meta Platforms: forward sellers propose 40 million shares of Class A common stock - SEC filing
+- 10/29 06:47 [financialjuice] Microsoft CEO: accelerating demand prompts addition of 24 new data centers across five continents this quarter - conf call
+- 10/29 06:47 [financialjuice] IMF announces departure of deputy managing director Bo Li, proposes appointment of Min Liao as deputy managing director
+- 10/29 06:51 [financialjuice] Microsoft CFO: capital expenditures were below guidance in Q1 as some third-party capacity deliveries expected in Q1 were postponed
+- 10/29 06:51 [financialjuice] Microsoft CFO: about 75% of capex went to short-lived assets, mainly CPUs and GPUs, with increased memory and storage expenses
+- 10/29 06:52 [FirstSquawk] TRUMP SAYS THE DEMOCRAT CANDIDATE INVOLVED IN THE SCHEME, MARY PELTOLA, SHOULD BE REMOVED FROM THE BALLOT AND PROSECUTED, AS SHOULD THE “FAKE DAN SULLIVAN,” ADDING “THIS BEHAVIOR IN OUR ELECTIONS CANNOT BE ALLOWED TO CONTINUE” - TRUTH SOCIA…
+- 10/29 06:52 [financialjuice] Microsoft CFO: About 30% of cloud business remaining performance obligation will be recognized in revenue over next 12 months
+- 10/29 06:54 [financialjuice] USDA confirms new world screwworm found in Arizona
+- 10/29 06:55 [financialjuice] Microsoft CFO: paid M365 commercial seats increased 5%, affected by weaker sales execution
+- 10/29 06:55 [FirstSquawk] USDA HAS CONFIRMED A CASE OF NEW WORLD SCREWWORM IN A DOG IN COCHISE COUNTY, ARIZONA, WITH APHIS AND ARIZONA ANIMAL HEALTH OFFICIALS ESTABLISHING A 20-KM INFESTED ZONE AROUND THE DETECTION, ALONG WITH ANIMAL MOVEMENT CONTROLS
+- 10/29 06:56 [FirstSquawk] USDA SAYS ITS ANIMAL AND PLANT HEALTH INSPECTION SERVICE IS WORKING CLOSELY WITH THE ARIZONA DEPARTMENT OF AGRICULTURE ON A JOINT RESPONSE
+- 10/29 06:58 [financialjuice] Microsoft CFO: 2 agents and infrastructure revenue projected at $80.1 billion to $80.7 billion
+- 10/29 06:58 [financialjuice] Microsoft CFO: Azure expansion anticipated to reach 49%
+- 10/29 07:00 [financialjuice] Microsoft CFO: expects robust growth in commercial sales motions in Q2, but results affected by large Azure commitments from prior year
+- 10/29 07:02 [financialjuice] Microsoft CFO: calendar year capital expenditure to be about $170 billion
+- 10/29 07:03 [financialjuice] Microsoft CFO: expects to remain cash flow positive in fiscal 2027
+- 10/29 07:03 [FirstSquawk] MICROSOFT CFO SAYS THE COMPANY EXPECTS TO REMAIN CASH FLOW POSITIVE IN FISCAL 2027, WITH CALENDAR-YEAR CAPITAL EXPENDITURE OF ABOUT $170 BLN, AND ANTICIPATES AZURE EXPANSION REACHING 49%
+- 10/29 07:04 [FirstSquawk] MICROSOFT CFO SAYS IT EXPECTS ROBUST GROWTH IN COMMERCIAL SALES MOTIONS IN Q2, THOUGH RESULTS WILL BE AFFECTED BY LARGE AZURE COMMITMENTS FROM THE PRIOR YEAR, AND THAT PAID M365 COMMERCIAL SEATS INCREASED 5%, AFFECTED BY WEAKER SALES EXECUT…
+- 10/29 07:04 [financialjuice] Microsoft CFO: capex spending to speed up in second half of fiscal year with third-party capacity deliveries shifting to h2
+- 10/29 07:04 [financialjuice] Microsoft CFO: We will tap additional funding sources when attractive to do so
+- 10/29 07:05 [FirstSquawk] FEDEX EXEC SAYS DATA CENTER-RELATED BUSINESS SUPPORTED 28% YOY GROWTH IN INTERNATIONAL FREIGHT REVENUE, AND THAT THE CY26 REVENUE GROWTH FORECAST IMPLIES Q4 REVENUE GROWTH OF 10%
+- 10/29 07:05 [FirstSquawk] FEDEX’S INTERIM CFO SAYS Q3 ADJUSTED OPERATING MARGIN DECLINED 20 BASIS POINTS, DRIVEN BY HIGHER FUEL PRICE IMPACTS, WITH THE FUEL SURCHARGE EFFECT ASSUMED TO BE NEUTRAL TO FULL-YEAR ADJUSTED OPERATING INCOME
+- 10/29 07:06 [FirstSquawk] MICROSOFT CFO SAYS Q2 AGENTS AND INFRA REVENUE IS EXPECTED TO BE $80.1 BLN TO $80.7 BLN AND Q2 AZURE GROWTH IS EXPECTED TO BE 49%, THOUGH COMMERCIAL BOOKINGS RESULTS WILL BE IMPACTED BY THE SIGNIFICANT AZURE COMMITMENTS SIGNED IN THE PRIOR …
+- 10/29 07:06 [FirstSquawk] MICROSOFT CFO SAYS CALENDAR-YEAR CAPITAL SPEND SHOULD BE ABOUT $170 BLN, WITH CAPEX EXPECTED TO ACCELERATE IN THE SECOND HALF OF THE FISCAL YEAR ALSO FROM THIRD-PARTY CAPACITY DELIVERIES THAT SHIFTED TO H2, AND THAT MICROSOFT EXPECTS TO CON…
+- 10/29 07:14 [financialjuice] Microsoft CFO: Azure growth expected at 49% to 50% in constant currency, clarifies range is 49% to 50%
+- 10/29 07:22 [FirstSquawk] HONDA, NISSAN IN TALKS ON EV BATTERY COLLABORATION – NHK
+- 10/29 07:46 [FirstSquawk] PETROBRAS Q3 OIL, GAS AND NATURAL GAS LIQUIDS OUTPUT 3.5 MLN BOED, WITH OIL OUTPUT IN BRAZIL 2.8 MLN BPD
+- 10/29 07:46 [FirstSquawk] PETROBRAS Q3 OIL, GAS AND DERIVATIVES SALES 3.5 MLN BPD AND OIL AND DERIVATIVES EXPORTS 1.3 MLN BPD - FILING
+- 10/29 08:04 [FirstSquawk] THE LONDON METAL EXCHANGE AIMS TO TURN METAL INTO TOKENS IN A MOVE LINKED TO HONG KONG’S FIVE-YEAR PLAN, EXPLORING TOKENISING OFF-WARRANT METAL IN HONG KONG WAREHOUSES TO SUPPORT FINANCING IN AN INITIATIVE THAT COULD CREATE A NEW REVENUE ST…
+- 10/29 08:04 [FirstSquawk] THE LME SAYS THE PLANS ARE AT AN EARLY STAGE, WITH METAL ON WARRANT EXCLUDED AND AN INDUSTRY ROUNDTABLE PLANNED FOR EARLY NOVEMBER, WHILE HKEX IS ALSO TESTING TOKENISED CARBON CREDITS FOR SETTLEMENT IN SECONDS
+- 10/29 08:32 [FirstSquawk] HONG KONG MONETARY AUTHORITY KEEPS BASE RATE UNCHANGED AT 4.25%
+- 10/29 08:34 [FirstSquawk] KEPPEL SAYS IT ADDED NEW FUNDS UNDER MANAGEMENT OF S$19.5 BLN IN YTD 2026, WITH ASSET MANAGEMENT FEES GROWING 18% YOY TO S$354 MLN IN 9M 2026 AND ABOUT S$940 MLN IN ASSET MONETISATION COMPLETED AND REALISED YTD
+- 10/29 08:35 [FirstSquawk] WHITE HOUSE: TRUMP SAYS IMPORTED ROBOTICS AND MACHINERY POSE NATION SECURITY RISKS, BUT DOES NOT IMPOSE ANY IMMEDIATE TARIFFS
+- 10/29 08:50 [financialjuice] FOREIGN INVESTMENT JAPANESE STOCKS ACTUAL 1,180.9B (FORECAST -, PREVIOUS -66.5B) $MACRO
+- 10/29 08:50 [financialjuice] JAPANESE FOREIGN BOND INVESTMENT ACTUAL -92.6B (FORECAST -, PREVIOUS -161.6B) $MACRO
+- 10/29 08:51 [financialjuice] JAPANESE FOREIGN STOCK INVESTMENT ACTUAL 288.1B (FORECAST -, PREVIOUS 128.3B) $MACRO
+- 10/29 08:51 [financialjuice] FOREIGN INVESTMENT JAPANESE BONDS ACTUAL 43.3B (FORECAST -, PREVIOUS 1,454.2B) $MACRO
+- 10/29 08:56 [financialjuice] Bank of Korea: will monitor financial and currency market conditions
+- 10/29 09:00 [financialjuice] NBNZ BUSINESS OUTLOOK ACTUAL 52.5 (FORECAST -, PREVIOUS 51.9) $MACRO
+- 10/29 09:00 [financialjuice] NBNZ OWN ACTIVITY ACTUAL 46.2 (FORECAST -, PREVIOUS 47.9) $MACRO
+- 10/29 09:00 [financialjuice] New Zealand business confidence rises to 52.5% in October vs 51.9% in prior survey: ANZ Bank survey
+- 10/29 09:00 [financialjuice] New Zealand business own activity outlook 46.2% in October vs 47.9% in prior survey: ANZ survey
+- 10/29 09:01 [financialjuice] UK vehicle output rose 36.3% yoy to 74,031 units in September: SMMT
+- 10/29 09:02 [FirstSquawk] BRITAIN PRODUCED 74,031 VEHICLES IN SEPTEMBER, MARKING A 36.3% ANNUAL INCREASE – SMMT
+- 10/29 09:10 [FirstSquawk] US Vice President Vance Seeks Contact With Iranian Hard-Liner to Reopen Peace Talks - WSJ
+- 10/29 09:16 [financialjuice] Finland foreign ministry: Foreign minister Valtonen to meet US secretary of state Rubio in Washington

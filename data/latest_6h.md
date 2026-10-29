@@ -7,149 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-29 05:29 JST／対象: 10/28 23:29 〜 10/29 05:29 JST（時刻はすべて日本時間）
+生成: 2026-10-29 09:17 JST／対象: 10/29 03:17 〜 10/29 09:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 48 | 10/28 23:31 | 10/29 05:18 | ⚠ 83分（00:05→01:29） |
-| FirstSquawk | 133 | 10/28 23:31 | 10/29 05:22 | 44分（00:41→01:25） |
-| financialjuice | 179 | 10/28 23:30 | 10/29 05:24 | 35分（02:25→03:00） |
+| DeItaone | 31 | 10/29 03:20 | 10/29 06:14 | ⚠ 56分（05:18→06:14） |
+| FirstSquawk | 110 | 10/29 03:18 | 10/29 09:10 | ⚠ 52分（05:59→06:52） |
+| financialjuice | 160 | 10/29 03:20 | 10/29 09:16 | ⚠ 95分（07:14→08:50） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 354 行（統合前 366 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 298 行（統合前 302 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/28 23:30 [financialjuice] EIA GASOLINE INVENTORIES ACTUAL 3.87M (FORECAST -1M, PREVIOUS -2.952M) $MACRO
-- 10/28 23:30 [financialjuice] EIA CRUDE OIL INVENTORIES ACTUAL -1.892M (FORECAST 0M, PREVIOUS -3.060M) $MACRO
-- 10/28 23:30 [financialjuice] EIA DISTILLATE INVENTORIES ACTUAL -1.462M (FORECAST -1.075M, PREVIOUS 1.675M) $MACRO
-- 10/28 23:30 [financialjuice] EIA CRUDE CUSHING INVENTORIES ACTUAL -0.624M (FORECAST -, PREVIOUS 0.987M) $MACRO
-- 10/28 23:31 [financialjuice] EIA Weekly Inventories Report
-- 10/28 23:31 [FirstSquawk] U.S CRUDE OIL INVENTORIES ACTUAL: -1892K VS -3060K PREVIOUS; EST 81.17K
-- 10/28 23:31 [FirstSquawk] US CUSHING CRUDE OIL INVENTORIES ACTUAL: -624K VS 987K PREVIOUS
-- 10/28 23:31 [DeItaone] INVESTORS PULL $18.5 BILLION FROM US STOCKS IN TWO WEEKS Bank of America clients sold a net $3.5 billion in US equities last week, following $15 billion in outflows the previous week. According to BofA analysts Jill Carey Hall and Trey Brow…
-- 10/28 23:33 [financialjuice] Foreign firms get no exemption from raised UK bank surcharge.
-- 10/28 23:37 [financialjuice] JPMorgan: Extra UK bank tax lacks principle - Statement $JPM
-- 10/28 23:41 [financialjuice] Bank of Canada Governor Macklem: We are seeing more investment in the energy sector
-- 10/28 23:42 [financialjuice] BoC's Gov. Macklem: Estimates of investment may be conservative
-- 10/28 23:43 [FirstSquawk] BANK OF CANADA GOVERNOR TIFF MACKLEM: WE ARE SEEING MORE INVESTMENT IN THE ENERGY SECTOR
-- 10/28 23:44 [financialjuice] BoC's Gov. Macklem: Policy rate, even with this hike, is low enough that it is not restraining growth
-- 10/28 23:45 [financialjuice] BoC's Gov. Macklem: Hiking will limit pass through of higher oil prices
-- 10/28 23:45 [financialjuice] BoC's Gov. Macklem: Businesses planning to pass on high input costs
-- 10/28 23:47 [financialjuice] Iran war costs rise to $47bln - WAPO citing US military estimates
-- 10/28 23:47 [financialjuice] BoC's Gov. Macklem: There is no predetermined path for rates
-- 10/28 23:48 [FirstSquawk] BOC'S MACKLEM: POLICY RATE EVEN WITH THIS HIKE IS LOW ENOUGH THAT IT IS NOT RESTRAINING GROWTH
-- 10/28 23:49 [FirstSquawk] IRAN WAR COSTS RISE TO $47B, US MILITARY ESTIMATES - WAPO
-- 10/28 23:49 [FirstSquawk] MACKLEM: RAISING RATES WILL LIMIT PASS THROUGH OF HIGHER OIL PRICES
-- 10/28 23:49 [financialjuice] BoC's Gov. Macklem: Inflation looking less likely to be well-contained
-- 10/28 23:49 [FirstSquawk] MACKLEM SAYS THERE IS NO PREDETERMINED PATH FOR RATES
-- 10/28 23:49 [FirstSquawk] MACKLEM SAYS ANY TIME YOU'RE CHANGING DIRECTION IT'S ALWAYS A DIFFICULT DECISION
-- 10/28 23:50 [financialjuice] BoC's Gov. Macklem: Uncertainty in US trade and the Middle East could change outlook.
-- 10/28 23:51 [financialjuice] Ukraine’s President Zelenskiy expects trilateral Ukraine-US-Russia talks by November 10th
-- 10/28 23:52 [financialjuice] BoC's Senior Deputy Gov. Rogers: Uncertainty over economy is hanging over housing market.
-- 10/28 23:54 [financialjuice] BoC's Senior Deputy Gov. Rogers: Uncertainty over the economy and borrowing rates is weighing on the housing market; the bank's housing forecast is 'subdued'
-- 10/28 23:55 [financialjuice] Ukraine’s President Zelenskiy expects to have clarity on talks after the US elections
-- 10/28 23:55 [financialjuice] Ukraine’s President Zelenskiy: Ready to discuss territory only at leaders' level
-- 10/28 23:55 [financialjuice/FirstSquawk] EU set to scrap Associate Member offer for Canada - Politico
-- 10/28 23:56 [financialjuice] BoC's Senior Deputy Gov. Rogers: Strong consensus that inflation risks were higher
-- 10/28 23:57 [financialjuice] Dutch PM: No European ally is willing to buy Russian energy
-- 10/29 00:01 [FirstSquawk] EU CHOOSES 'EVER CLOSER ASSOCIATION' WITH CANADA, REPORTS POLITICO.
-- 10/29 00:01 [FirstSquawk] BOC'S ROGERS MENTIONS DISCUSSION ON HOLDING OR RAISING RATES, WHICH IS A COMMON PRACTICE.
-- 10/29 00:01 [FirstSquawk] ROGERS REPORTS A STRONG AGREEMENT THAT INFLATION RISKS ARE INCREASING.
-- 10/29 00:01 [FirstSquawk] DUTCH PM STATES NO EUROPEAN ALLY IS READY TO PURCHASE RUSSIAN ENERGY; CALLS IT A FOOLISH DECISION.
-- 10/29 00:01 [FirstSquawk] ZELENSKIY URGES EUROPEAN UNITY TO END THE WAR WITH RUSSIA.
-- 10/29 00:01 [FirstSquawk] RUSSIA CLAIMS TO HAVE STRUCK A VESSEL HEADING TO CHORNOMORSK, UKRAINE.
-- 10/29 00:05 [DeItaone] EU SET TO SCRAP ‘ASSOCIATE MEMBER’ STATUS OFFER FOR CANADA - POLITICO
-- 10/29 00:08 [financialjuice] BoC's Senior Dep. Gov. Rogers: We don't think a Middle East resolution is imminent.
-- 10/29 00:08 [financialjuice] Bank of Canada Press Conference has ended
-- 10/29 00:08 [financialjuice] Nvidia introduces Nemotron 3.5 transcribe speech model. $NVDA
-- 10/29 00:10 [financialjuice] Nvidia: RTX Spark laptops now available from Asus, Dell, HP, Lenovo, Microsoft, MSI - Website. $NVDA £MSFT $HPQ $DELL
-- 10/29 00:13 [FirstSquawk] NVIDIA UNVEILS NEMOTRON 3.5 SPEECH TRANSCRIPTION MODEL.
-- 10/29 00:13 [FirstSquawk] NVIDIA RTX SPARK LAPTOPS ARE NOW AVAILABLE FROM ASUS, DELL, HP, LENOVO, MICROSOFT, AND MSI.
-- 10/29 00:13 [FirstSquawk] NVIDIA DGX SPARK 64GB SYSTEM RELEASED FOR SALE, FEATURING GB10 GRACE BLACKWELL SUPERCHIP.
-- 10/29 00:13 [FirstSquawk] NVIDIA LAUNCHES NEMOTRON 3.5 BOLT E4B 4GB MODEL FOR LOCAL VOICE ASSISTANTS AND AGENTS.
-- 10/29 00:13 [FirstSquawk] NVIDIA LAUNCHES RTX SPARK LAPTOPS PRICED AT $2,599, OFFERING 128GB CONFIGURATIONS.
-- 10/29 00:21 [financialjuice] White House study sees growth, wage gains from Permitting Bill
-- 10/29 00:35 [FirstSquawk] UK GOVERNMENT PLANS TO SIGN DEAL WITH ROLLS-ROYCE THAT WILL HELP CREATE 3,300 JOBS BY 2029.
-- 10/29 00:35 [FirstSquawk] BRANDEBURG'S PCK SCHWEDT REFINERY IS NOW RUNNING AT OVER 86% CAPACITY.
-- 10/29 00:35 [FirstSquawk] GERMAN GOVERNMENT DEVELOPING PLAN TO PROTECT REFINERIES IN BRANDENBURG FOR THE FUTURE.
-- 10/29 00:35 [FirstSquawk] U.S. TWO-YEAR FRNS DISCOUNT MARGIN IS AT 0.038%.
-- 10/29 00:41 [FirstSquawk] OIL FUTURES RISE, US CRUDE PRICES INCREASE BY $3 A BARREL DUE TO FIGHTING IN YEMEN CAUSING SUPPLY CONCERNS IN THE MIDDLE EAST.
-- 10/29 00:47 [financialjuice] Israel's President Herzog is pushing for a government led by Netanyahu for the next two years, in exchange for his resignation at the end of his term and a full pardon in his trial - Israel's Channel 14 News
-- 10/29 01:04 [financialjuice] UK's PM Burnham reaffirms no snap UK election in next 12 months
-- 10/29 01:12 [financialjuice] Trump on the possibility that he will work for a unity government in Israel: I will look into it - Israel's Hayom News
-- 10/29 01:16 [financialjuice] Senior diplomatic official: Iran strike not dependent on political process in Israel - Israel's Hayom News
-- 10/29 01:19 [financialjuice] Senior US diplomatic official: Trump remains determined to completely neutralize Iran's military nuclear program and remove military threats to Strait of Hormuz and Iran's neighbors - Israel's Hayom News
-- 10/29 01:25 [FirstSquawk] BURNHAM CONFIRMS NO UK ELECTION WILL HAPPEN IN THE NEXT YEAR.
-- 10/29 01:26 [FirstSquawk] ITALIAN PM MELONI ANNOUNCES 2027 BUDGET WITH EUR26 BILLION IN TAX CUTS AND SPENDING INCREASES.
-- 10/29 01:26 [FirstSquawk] ITALY WILL PERMANENTLY CUT VEHICLE TAXES IN THE 2027 BUDGET, SAYS MELONI.
-- 10/29 01:26 [FirstSquawk] MELONI ANNOUNCES A €5 BILLION BUDGET SUPPORTED BY BANKS.
-- 10/29 01:26 [financialjuice] Fitch Ratings: US banks better prepared to absorb unrealized losses as rates rise.
-- 10/29 01:28 [financialjuice] US Energy Secretary Wright: Diesel exports from Arabian Gulf likely to increase.
-- 10/29 01:28 [financialjuice] US Energy Secretary Wright: Diesel prices will drop significantly.
-- 10/29 01:29 [financialjuice] US Energy Secretary Wright: China likely to resume exporting diesel.
-- 10/29 01:29 [DeItaone] WRIGHT SAYS DIESEL PRICES TO DROP SIGNIFICANTLY
-- 10/29 01:30 [DeItaone] *WRIGHT SAYS CHINA LIKELY TO RESUME DIESEL EXPORTS
-- 10/29 01:30 [DeItaone] *WRIGHT SAYS RUSSIA BENEFITS FROM DIESEL EXPORTS ONLY IF WAR ENDS
-- 10/29 01:31 [FirstSquawk] RUSSIA ONLY BENEFITS FROM DIESELS EXPORT BY ENDING WAR; DIESEL PRICES WILL DROP SIGNIFICANTLY; DIESEL EXPORTS FROM ARABIAN GULF LIKELY TO INCREASE: WRIGHT
-- 10/29 01:31 [FirstSquawk] CHINA LIKELY TO RESUME EXPORTING DIESEL, ENERGY SECRETARY
-- 10/29 01:38 [financialjuice] Phillips 66: Demand for gasoline down 2.5%, diesel down 1.5%.
-- 10/29 01:48 [FirstSquawk] Airbus Q3 Earnings: - Adj EBIT: EUR1.77B (est EUR1.79B) - Revenue: EUR17.47B (est EUR18.09B) - Commercial Airplanes Adj EBIT: EUR1.38B (est EUR1.36B) - Defence & Space Adj EBIT: EUR185M (est EUR196.9M) - 9M Neg Adj FCF: EUR1.27B Vs Negative…
-- 10/29 01:55 [financialjuice] ‼ BREAKING: Iran’s Foreign Minister Araghchi: Iran continues to give diplomacy a chance to succeed.
-- 10/29 01:55 [DeItaone/FirstSquawk] IRAN'S FOREIGN MINISTER: WHILE OUR BRAVE ARMED FORCES ARE FULLY PREPARED TO DEFEND THE HOMELAND, IRAN CONTINUES TO GIVE DIPLOMACY A CHANCE TO SUCCEED
-- 10/29 01:56 [DeItaone] IRAN'S FOREIGN MINISTER: WE REMAIN IN CLOSE AND ONGOING CONTACT WITH INTERMEDIARIES TO REVIEW IDEAS THAT CAN ENSURE IMPLEMENTATION OF OUR 7-DAY PLAN IN EVEN LESS THAN A WEEK
-- 10/29 01:56 [financialjuice] Iran’s Foreign Minister Araghchi: We remain in close contact with intermediaries to review ideas to implement its 7-Day Plan in even less than a week
-- 10/29 02:00 [financialjuice] Apple Touch MacBook event begins in Los Angeles $AAPL
-- 10/29 02:03 [financialjuice] Apple announces overhauled MacBook Pro with touch-screen $AAPL
-- 10/29 02:05 [financialjuice] Google launches Gemini 4 Carbon frontier model, priced at $2/m input, $10/m output tokens $GOOGL
-- 10/29 02:06 [financialjuice] Google: Officially launched Xreal Aura $GOOGL
-- 10/29 02:06 [financialjuice] Apple's Touch MacBook Pro has M5 Pro and M5 Max chip options $AAPL
-- 10/29 02:12 [financialjuice] Touch Mac starts at $2,899 for the 14-inch and $3,399 for the 16-inch $AAPL
-- 10/29 02:25 [financialjuice] Anthropic is said to plan a UK share offering via RetailBook
-- 10/29 02:25 [DeItaone] BITCOIN FACES SELLING PRESSURE AS LONG-TERM HOLDERS SIT ON LOSSES Long-term Bitcoin holders own approximately 4 million BTC purchased between $85,000 and $118,000, according to Glassnode analysts. With Bitcoin trading near $80,000, more tha…
-- 10/29 02:41 [FirstSquawk] ANTHROPIC IS SAID TO PLAN A UK SHARE OFFERING VIA RETAILBOOK, COLLABORATING WITH THE INVESTING PLATFORM TO MARKET ITS SHARES TO UK RETAIL TRADERS AS PART OF ITS MASSIVE IPO
-- 10/29 02:41 [FirstSquawk] ANTHROPIC FILED FOR AN IPO IN NEW YORK ON MONDAY, WHICH MIGHT BE THE WORLD’S LARGEST EVER, SAYING ITS SHARES WOULD BE OFFERED TO INDIVIDUAL INVESTORS IN THE UK AND PARTS OF CONTINENTAL EUROPE - SOURCES
-- 10/29 02:43 [FirstSquawk] GOOGLE SAYS IT HAS OFFICIALLY LAUNCHED XREAL AURA AND HAS LAUNCHED ITS GEMINI 4 CARBON FRONTIER MODEL, PRICED AT $2 PER MLN INPUT TOKENS AND $10 PER MLN OUTPUT TOKENS
-- 10/29 02:45 [FirstSquawk] APPLE CEO SHOWED A MACBOOK PRO LAPTOP WITH A TOUCHSCREEN AT AN EVENT, SAYING THE TOUCHSCREEN MACBOOK PRO WILL HAVE AN OLED SCREEN AND M5 PRO AND M5 MAX CHIP OPTIONS
-- 10/29 02:49 [DeItaone] FED EXPECTED TO HOLD RATES AS WALL STREET WATCHES HAWKISH SIGNALS The Federal Reserve is widely expected to leave interest rates unchanged at 3.75%–4.00%, with markets focused on potential dissent and changes to the FOMC statement. Analysts…
-- 10/29 03:00 [DeItaone] *FED LEAVES INTEREST RATE UNCHANGED
-- 10/29 03:00 [FirstSquawk] U.S. (OCT) FED INTEREST RATE DECICION ACTUAL: 4.00% VS 4.00% PREVIOUS; EST 4.00%
-- 10/29 03:00 [DeItaone] FOMC: VOTED 10-2 FOR FED FUNDS RATE ACTION
-- 10/29 03:00 [financialjuice] ‼ BREAKING: US INTEREST RATE DECISION ACTUAL 4% (FORECAST 4%, PREVIOUS 4%) $MACRO
-- 10/29 03:00 [financialjuice] Federal Reserve leaves key overnight interest rate unchanged in the 3.75-4.00% range, says accumulation of more information will help determine appropriate policy stance
-- 10/29 03:00 [DeItaone/financialjuice] FED: INFLATION REMAINS ELEVATED
-- 10/29 03:00 [financialjuice] ❗ Fed: The vote in favor of the policy was 10-2, with Governor Cook and Hammack dissenting in favor of a 25-basis-point hike.
-- 10/29 03:00 [financialjuice] Fed: Economic activity expanding at a 'strong' pace
-- 10/29 03:01 [financialjuice] Fed: Job gains have kept pace with workforce, unemployment rate has changed little.
-- 10/29 03:01 [DeItaone] HAMMACK, COOK DISSENT IN FAVOR OF RATE HIKE
-- 10/29 03:01 [financialjuice] Fed: Domestic spending has been resilient despite elevated uncertainty
-- 10/29 03:01 [financialjuice] Fed: Productivity growth is strong, capital investment is robust.
-- 10/29 03:01 [DeItaone] FED HOLDS RATES AT 3.75%–4.00% AS TWO OFFICIALS PUSH FOR HIKE The Federal Reserve kept interest rates unchanged at 3.75%–4.00%, voting 10–2 to maintain its current policy stance. Governor Lisa Cook and Cleveland Fed President Beth Hammack d…
-- 10/29 03:01 [financialjuice] Short-term interest-rate futures rise after the Fed policy rate decision.
-- 10/29 03:02 [financialjuice] Iran pressed to make nuke concessions as massive post-midterms strikes loom - Axios
-- 10/29 03:02 [financialjuice] FOMC Rate Statement
-- 10/29 03:04 [DeItaone] *US-ISRAEL STRIKES ON IRAN POSSIBLE AFTER MIDTERMS: AXIOS *US, ISRAEL ANTICIPATE WEEK OF IRAN STRIKES IF TALKS FAIL: AXIOS *POTENTIAL STRIKES TO TARGET IRAN LEADERSHIP, ENERGY, NUCLEAR SITES: AXIOS
-- 10/29 03:04 [FirstSquawk] THE FEDERAL RESERVE LEFT ITS KEY OVERNIGHT INTEREST RATE UNCHANGED IN THE 3.75-4.00% RANGE, SAYING THE ACCUMULATION OF MORE INFORMATION WILL HELP DETERMINE THE APPROPRIATE POLICY STANCE, ADDING THAT INFLATION REMAINS ELEVATED AND ECONOMIC A…
-- 10/29 03:04 [FirstSquawk] THE FED SAYS JOB GAINS HAVE KEPT PACE WITH THE WORKFORCE AND THE UNEMPLOYMENT RATE HAS CHANGED LITTLE, THAT PRODUCTIVITY GROWTH IS STRONG AND CAPITAL INVESTMENT ROBUST, AND THAT DOMESTIC SPENDING HAS BEEN RESILIENT DESPITE ELEVATED UNCERTAI…
-- 10/29 03:04 [FirstSquawk] THE FED VOTE IN FAVOR OF THE POLICY WAS 10-2, WITH GOVERNOR LISA COOK AND CLEVELAND FED PRESIDENT BETH HAMMACK DISSENTING IN FAVOR OF A 25-BASIS-POINT HIKE
-- 10/29 03:05 [financialjuice] IDF and the US coordinate ahead of any potential Iran attacks - Axios.
-- 10/29 03:05 [FirstSquawk] U.S. STOCKS PARED GAINS SLIGHTLY AFTER THE FED LEFT RATES UNCHANGED, WITH THE S&P 500 LAST UP 0.14%
-- 10/29 03:05 [FirstSquawk] SHORT-TERM INTEREST-RATE FUTURES ROSE AFTER THE FED POLICY RATE DECISION
-- 10/29 03:05 [financialjuice] Attacks on Iran after midterms could target leadership - Axios.
-- 10/29 03:07 [financialjuice/FirstSquawk] Traders maintain pricing in a 90% chance of a December Fed hike.
-- 10/29 03:07 [FirstSquawk] U.S. DOLLAR INDEX EXTENDED LOSSES AFTER THE FED RATE DECISION, LAST DOWN 0.08% AT 102.26, WHILE THE EURO ROSE MARGINALLY AGAINST THE DOLLAR, LAST UP 0.15% AT $1.114
-- 10/29 03:08 [DeItaone] FED GOVERNOR LISA COOK SURPRISES MARKETS WITH VOTE FOR RATE HIKE Federal Reserve Governor Lisa Cook unexpectedly voted for a 25-basis-point rate hike, breaking with the Fed's decision to hold rates at 3.75%–4.00%. Cook joined Cleveland Fed …
-- 10/29 03:08 [FirstSquawk] IRAN IS BEING PRESSED TO MAKE NUCLEAR CONCESSIONS AS MASSIVE POST-MIDTERMS STRIKES LOOM, WITH ATTACKS ON IRAN AFTER THE MIDTERMS POTENTIALLY TARGETING LEADERSHIP, AND THE IDF AND THE U.S. COORDINATING AHEAD OF ANY POTENTIAL IRAN ATTACKS - A…
-- 10/29 03:10 [DeItaone] FITCH WARNS AI BOOM AND RISING YIELDS THREATEN GLOBAL MARKETS Fitch Ratings warns that global credit risks are deteriorating heading into 2027, citing AI investment uncertainty, elevated energy prices and tighter financing conditions. Fitch…
-- 10/29 03:10 [FirstSquawk] SOME BP BOARD MEMBERS FAVOR BREAKUP OF $129B OIL GIANT - SEMAFOR
-- 10/29 03:11 [DeItaone] TRADERS CONTINUE TO PRICE 80% CHANCE OF FED HIKE IN DECEMBER https://t.co/4QP4f35oNU
-- 10/29 03:11 [FirstSquawk] ARAB MEDIATORS ARE PUSHING IRAN FOR A DEAL ON IAEA INSPECTIONS AND U.S. SANCTIONS RELIEF - AXIOS
-- 10/29 03:14 [financialjuice] Fitch Ratings: If oil supplies through the Hormuz Strait continue to be hampered beyond 2027, then a higher oil price scenario than our base case would materialize.
-- 10/29 03:14 [FirstSquawk] FITCH SAYS IF OIL SUPPLIES THROUGH THE HORMUZ STRAIT CONTINUE TO BE HAMPERED BEYOND 2027, THEN A HIGHER OIL PRICE SCENARIO THAN OUR BASE CASE WOULD MATERIALIZE.
 - 10/29 03:18 [FirstSquawk] U.S. (OCT) FED INTEREST RATE DECISION ACTUAL: 4.00% VS 4.00% PREVIOUS; EST 4.00%
 - 10/29 03:20 [DeItaone] GOLDMAN SACHS EXPECTS FED TO HIKE RATES IN DECEMBER Goldman Sachs Asset Management expects the Federal Reserve to resume raising interest rates in December, following Wednesday's decision to hold rates at 3.75%–4.00%. Kay Haigh, the firm's …
 - 10/29 03:20 [financialjuice] FOMC Press Conference with Chair Warsh - WATCH LIVE
@@ -378,3 +252,73 @@
 - 10/29 05:22 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT SAYS A LOT OF TRUMP’S ECONOMIC AGENDA IS BAKED IN, SUCH AS TAX CUTS, AND THAT CONSUMER BEHAVIOR AND BUSINESS BEHAVIOR ARE BOTH QUITE STRONG
 - 10/29 05:22 [financialjuice] US Treasury Secretary Bessent appearance on CNBC concludes.
 - 10/29 05:24 [financialjuice] Stocks Edge Higher as Fed Holds Rates and Leaves December Outlook Uncertain – US Market Wrap
+- 10/29 05:34 [financialjuice] Alphabet CEO Pichai: Now at a half trillion annual run rate. $GOOGL
+- 10/29 05:36 [financialjuice] Pichai: AI model argon has sped development of code at Google. $GOOGL
+- 10/29 05:36 [FirstSquawk] ALPHABET CEO PICHAI SAYS THE AI MODEL ARGON HAS SPED UP THE DEVELOPMENT OF CODE AT GOOGLE, AND THAT THE COMPANY IS NOW AT A HALF-TRILLION ANNUAL RUN RATE
+- 10/29 05:36 [financialjuice] Alphabet's CEO Pichai: New AI model Carbon is Google's strongest. $GOOGL
+- 10/29 05:37 [financialjuice] Pichai: New AI model carbon is in tests with US government. $GOOGL
+- 10/29 05:37 [financialjuice] Alphabet's CEO Pichai: New AI model Carbon outperforms Gemini 4 Argon. $GOOGL
+- 10/29 05:38 [financialjuice] Alphabet's CEO Pichai: New AI model Carbon first rolls out to cyber partners. $GOOGL
+- 10/29 05:39 [FirstSquawk] ALPHABET CEO PICHAI SAYS THE NEW AI MODEL CARBON FIRST ROLLS OUT TO CYBER PARTNERS AND OUTPERFORMS GEMINI 4 ARGON
+- 10/29 05:39 [financialjuice] Pichai: Search queries growing at fastest rate in 5 years. $GOOGL
+- 10/29 05:44 [financialjuice] Google bringing ads to search AI mode in international markets. $GOOGL
+- 10/29 05:44 [FirstSquawk] GOOGLE BRINGING ADS TO SEARCH AI MODE IN INTERNATIONAL MARKETS.
+- 10/29 05:45 [financialjuice] Google Gemini helped advertisers generate over 1.5 bln assets. $GOOGL
+- 10/29 05:46 [FirstSquawk] DEUTSCHE TELEKOM IS SAID TO HAVE HIT THE BRAKES ON A MERGER WITH T-MOBILE, OPTING AGAINST A FORMAL BID FOR THE TIME BEING, THOUGH IT COULD DECIDE TO PROCEED WITH AN OFFER LATER
+- 10/29 05:47 [financialjuice] Google YouTube subscriptions are growing faster than ads. $GOOGL
+- 10/29 05:48 [FirstSquawk] GOOGLE SAYS YOUTUBE SUBSCRIPTIONS ARE GROWING FASTER THAN ADS, AND THAT GEMINI HAS HELPED ADVERTISERS GENERATE OVER 1.5 BLN ASSETS
+- 10/29 05:55 [financialjuice] Kurian: Google worked with META to build torch TPU. $GOOGL $META
+- 10/29 05:57 [financialjuice] Google works with Anthropic on TPUs directly and with Broadcom. $GOOGL $AVGO
+- 10/29 05:58 [financialjuice/FirstSquawk] Fitch Ratings: US fiscal pressures set to persist regardless of midterm outcome.
+- 10/29 05:58 [financialjuice] Google's Ashkenazi: R&D spending up 36% driven by AI hires and depreciation. $GOOGL
+- 10/29 05:59 [FirstSquawk] GOOGLE’S ASHKENAZI SAYS R&D SPENDING IS UP 36%, DRIVEN BY AI HIRES AND DEPRECIATION, AND THAT GOOGLE WORKS WITH ANTHROPIC ON TPUS DIRECTLY AND WITH BROADCOM
+- 10/29 05:59 [financialjuice] Google attributes $8.2 bln other income loss to SpaceX share drop. $GOOGL $SPCX
+- 10/29 06:14 [DeItaone] TRUMP SAYS HE DIDN’T TELL VANCE TO WRITE TO IRAN
+- 10/29 06:26 [financialjuice] Meta Platforms offers 40 million shares of class A common stock: SEC filing
+- 10/29 06:26 [financialjuice] Meta Platforms enters forward sale pacts with Morgan Stanley and Goldman Sachs: SEC filing
+- 10/29 06:30 [financialjuice] Meta Platforms: forward sellers propose 40 million shares of Class A common stock - SEC filing
+- 10/29 06:47 [financialjuice] Microsoft CEO: accelerating demand prompts addition of 24 new data centers across five continents this quarter - conf call
+- 10/29 06:47 [financialjuice] IMF announces departure of deputy managing director Bo Li, proposes appointment of Min Liao as deputy managing director
+- 10/29 06:51 [financialjuice] Microsoft CFO: capital expenditures were below guidance in Q1 as some third-party capacity deliveries expected in Q1 were postponed
+- 10/29 06:51 [financialjuice] Microsoft CFO: about 75% of capex went to short-lived assets, mainly CPUs and GPUs, with increased memory and storage expenses
+- 10/29 06:52 [FirstSquawk] TRUMP SAYS THE DEMOCRAT CANDIDATE INVOLVED IN THE SCHEME, MARY PELTOLA, SHOULD BE REMOVED FROM THE BALLOT AND PROSECUTED, AS SHOULD THE “FAKE DAN SULLIVAN,” ADDING “THIS BEHAVIOR IN OUR ELECTIONS CANNOT BE ALLOWED TO CONTINUE” - TRUTH SOCIA…
+- 10/29 06:52 [financialjuice] Microsoft CFO: About 30% of cloud business remaining performance obligation will be recognized in revenue over next 12 months
+- 10/29 06:54 [financialjuice] USDA confirms new world screwworm found in Arizona
+- 10/29 06:55 [financialjuice] Microsoft CFO: paid M365 commercial seats increased 5%, affected by weaker sales execution
+- 10/29 06:55 [FirstSquawk] USDA HAS CONFIRMED A CASE OF NEW WORLD SCREWWORM IN A DOG IN COCHISE COUNTY, ARIZONA, WITH APHIS AND ARIZONA ANIMAL HEALTH OFFICIALS ESTABLISHING A 20-KM INFESTED ZONE AROUND THE DETECTION, ALONG WITH ANIMAL MOVEMENT CONTROLS
+- 10/29 06:56 [FirstSquawk] USDA SAYS ITS ANIMAL AND PLANT HEALTH INSPECTION SERVICE IS WORKING CLOSELY WITH THE ARIZONA DEPARTMENT OF AGRICULTURE ON A JOINT RESPONSE
+- 10/29 06:58 [financialjuice] Microsoft CFO: 2 agents and infrastructure revenue projected at $80.1 billion to $80.7 billion
+- 10/29 06:58 [financialjuice] Microsoft CFO: Azure expansion anticipated to reach 49%
+- 10/29 07:00 [financialjuice] Microsoft CFO: expects robust growth in commercial sales motions in Q2, but results affected by large Azure commitments from prior year
+- 10/29 07:02 [financialjuice] Microsoft CFO: calendar year capital expenditure to be about $170 billion
+- 10/29 07:03 [financialjuice] Microsoft CFO: expects to remain cash flow positive in fiscal 2027
+- 10/29 07:03 [FirstSquawk] MICROSOFT CFO SAYS THE COMPANY EXPECTS TO REMAIN CASH FLOW POSITIVE IN FISCAL 2027, WITH CALENDAR-YEAR CAPITAL EXPENDITURE OF ABOUT $170 BLN, AND ANTICIPATES AZURE EXPANSION REACHING 49%
+- 10/29 07:04 [FirstSquawk] MICROSOFT CFO SAYS IT EXPECTS ROBUST GROWTH IN COMMERCIAL SALES MOTIONS IN Q2, THOUGH RESULTS WILL BE AFFECTED BY LARGE AZURE COMMITMENTS FROM THE PRIOR YEAR, AND THAT PAID M365 COMMERCIAL SEATS INCREASED 5%, AFFECTED BY WEAKER SALES EXECUT…
+- 10/29 07:04 [financialjuice] Microsoft CFO: capex spending to speed up in second half of fiscal year with third-party capacity deliveries shifting to h2
+- 10/29 07:04 [financialjuice] Microsoft CFO: We will tap additional funding sources when attractive to do so
+- 10/29 07:05 [FirstSquawk] FEDEX EXEC SAYS DATA CENTER-RELATED BUSINESS SUPPORTED 28% YOY GROWTH IN INTERNATIONAL FREIGHT REVENUE, AND THAT THE CY26 REVENUE GROWTH FORECAST IMPLIES Q4 REVENUE GROWTH OF 10%
+- 10/29 07:05 [FirstSquawk] FEDEX’S INTERIM CFO SAYS Q3 ADJUSTED OPERATING MARGIN DECLINED 20 BASIS POINTS, DRIVEN BY HIGHER FUEL PRICE IMPACTS, WITH THE FUEL SURCHARGE EFFECT ASSUMED TO BE NEUTRAL TO FULL-YEAR ADJUSTED OPERATING INCOME
+- 10/29 07:06 [FirstSquawk] MICROSOFT CFO SAYS Q2 AGENTS AND INFRA REVENUE IS EXPECTED TO BE $80.1 BLN TO $80.7 BLN AND Q2 AZURE GROWTH IS EXPECTED TO BE 49%, THOUGH COMMERCIAL BOOKINGS RESULTS WILL BE IMPACTED BY THE SIGNIFICANT AZURE COMMITMENTS SIGNED IN THE PRIOR …
+- 10/29 07:06 [FirstSquawk] MICROSOFT CFO SAYS CALENDAR-YEAR CAPITAL SPEND SHOULD BE ABOUT $170 BLN, WITH CAPEX EXPECTED TO ACCELERATE IN THE SECOND HALF OF THE FISCAL YEAR ALSO FROM THIRD-PARTY CAPACITY DELIVERIES THAT SHIFTED TO H2, AND THAT MICROSOFT EXPECTS TO CON…
+- 10/29 07:14 [financialjuice] Microsoft CFO: Azure growth expected at 49% to 50% in constant currency, clarifies range is 49% to 50%
+- 10/29 07:22 [FirstSquawk] HONDA, NISSAN IN TALKS ON EV BATTERY COLLABORATION – NHK
+- 10/29 07:46 [FirstSquawk] PETROBRAS Q3 OIL, GAS AND NATURAL GAS LIQUIDS OUTPUT 3.5 MLN BOED, WITH OIL OUTPUT IN BRAZIL 2.8 MLN BPD
+- 10/29 07:46 [FirstSquawk] PETROBRAS Q3 OIL, GAS AND DERIVATIVES SALES 3.5 MLN BPD AND OIL AND DERIVATIVES EXPORTS 1.3 MLN BPD - FILING
+- 10/29 08:04 [FirstSquawk] THE LONDON METAL EXCHANGE AIMS TO TURN METAL INTO TOKENS IN A MOVE LINKED TO HONG KONG’S FIVE-YEAR PLAN, EXPLORING TOKENISING OFF-WARRANT METAL IN HONG KONG WAREHOUSES TO SUPPORT FINANCING IN AN INITIATIVE THAT COULD CREATE A NEW REVENUE ST…
+- 10/29 08:04 [FirstSquawk] THE LME SAYS THE PLANS ARE AT AN EARLY STAGE, WITH METAL ON WARRANT EXCLUDED AND AN INDUSTRY ROUNDTABLE PLANNED FOR EARLY NOVEMBER, WHILE HKEX IS ALSO TESTING TOKENISED CARBON CREDITS FOR SETTLEMENT IN SECONDS
+- 10/29 08:32 [FirstSquawk] HONG KONG MONETARY AUTHORITY KEEPS BASE RATE UNCHANGED AT 4.25%
+- 10/29 08:34 [FirstSquawk] KEPPEL SAYS IT ADDED NEW FUNDS UNDER MANAGEMENT OF S$19.5 BLN IN YTD 2026, WITH ASSET MANAGEMENT FEES GROWING 18% YOY TO S$354 MLN IN 9M 2026 AND ABOUT S$940 MLN IN ASSET MONETISATION COMPLETED AND REALISED YTD
+- 10/29 08:35 [FirstSquawk] WHITE HOUSE: TRUMP SAYS IMPORTED ROBOTICS AND MACHINERY POSE NATION SECURITY RISKS, BUT DOES NOT IMPOSE ANY IMMEDIATE TARIFFS
+- 10/29 08:50 [financialjuice] FOREIGN INVESTMENT JAPANESE STOCKS ACTUAL 1,180.9B (FORECAST -, PREVIOUS -66.5B) $MACRO
+- 10/29 08:50 [financialjuice] JAPANESE FOREIGN BOND INVESTMENT ACTUAL -92.6B (FORECAST -, PREVIOUS -161.6B) $MACRO
+- 10/29 08:51 [financialjuice] JAPANESE FOREIGN STOCK INVESTMENT ACTUAL 288.1B (FORECAST -, PREVIOUS 128.3B) $MACRO
+- 10/29 08:51 [financialjuice] FOREIGN INVESTMENT JAPANESE BONDS ACTUAL 43.3B (FORECAST -, PREVIOUS 1,454.2B) $MACRO
+- 10/29 08:56 [financialjuice] Bank of Korea: will monitor financial and currency market conditions
+- 10/29 09:00 [financialjuice] NBNZ BUSINESS OUTLOOK ACTUAL 52.5 (FORECAST -, PREVIOUS 51.9) $MACRO
+- 10/29 09:00 [financialjuice] NBNZ OWN ACTIVITY ACTUAL 46.2 (FORECAST -, PREVIOUS 47.9) $MACRO
+- 10/29 09:00 [financialjuice] New Zealand business confidence rises to 52.5% in October vs 51.9% in prior survey: ANZ Bank survey
+- 10/29 09:00 [financialjuice] New Zealand business own activity outlook 46.2% in October vs 47.9% in prior survey: ANZ survey
+- 10/29 09:01 [financialjuice] UK vehicle output rose 36.3% yoy to 74,031 units in September: SMMT
+- 10/29 09:02 [FirstSquawk] BRITAIN PRODUCED 74,031 VEHICLES IN SEPTEMBER, MARKING A 36.3% ANNUAL INCREASE – SMMT
+- 10/29 09:10 [FirstSquawk] US Vice President Vance Seeks Contact With Iranian Hard-Liner to Reopen Peace Talks - WSJ
+- 10/29 09:16 [financialjuice] Finland foreign ministry: Foreign minister Valtonen to meet US secretary of state Rubio in Washington
