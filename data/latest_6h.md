@@ -7,152 +7,169 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-10-29 15:01 JST／対象: 10/29 09:01 〜 10/29 15:01 JST（時刻はすべて日本時間）
+生成: 2026-10-29 21:49 JST／対象: 10/29 15:49 〜 10/29 21:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 0 | - | - | - |
-| FirstSquawk | 86 | 10/29 09:02 | 10/29 14:57 | 26分（14:24→14:50） |
-| financialjuice | 46 | 10/29 09:16 | 10/29 15:01 | ⚠ 69分（11:30→12:40） |
+| DeItaone | 15 | 10/29 19:38 | 10/29 21:45 | ⚠ 54分（19:38→20:33） |
+| FirstSquawk | 93 | 10/29 16:02 | 10/29 21:42 | 21分（17:26→17:48） |
+| financialjuice | 48 | 10/29 16:00 | 10/29 21:46 | ⚠ 61分（16:00→17:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 132 行（統合前 132 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 149 行（統合前 157 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/29 09:02 [FirstSquawk] BRITAIN PRODUCED 74,031 VEHICLES IN SEPTEMBER, MARKING A 36.3% ANNUAL INCREASE – SMMT
-- 10/29 09:10 [FirstSquawk] US Vice President Vance Seeks Contact With Iranian Hard-Liner to Reopen Peace Talks - WSJ
-- 10/29 09:16 [financialjuice] Finland foreign ministry: Foreign minister Valtonen to meet US secretary of state Rubio in Washington
-- 10/29 09:18 [financialjuice] Finland foreign ministry: Valtonen and Rubio to discuss Russia’s war in Ukraine and other key foreign policy topics on Oct. 29
-- 10/29 09:18 [FirstSquawk] AUSTRALIA'S CORPORATE WATCHDOG SEEKS ANSWERS OVER FIRMUS'S $5 BILLION IPO COLLAPSE
-- 10/29 09:19 [financialjuice] In general, trade agreements are largely finalized
-- 10/29 09:19 [financialjuice] Australia's corporate regulator: engaging with joint lead managers of Firmus's $5 billion failed IPO
-- 10/29 09:19 [FirstSquawk] FINNISH FOREIGN MINISTER VALTONEN TO MEET RUBIO ON OCT 29 FOR DISCUSSIONS ON UKRAINE AND GLOBAL FOREIGN POLICY
-- 10/29 09:20 [FirstSquawk] FINLAND CONFIRMS WASHINGTON MEETING BETWEEN FOREIGN MINISTER VALTONEN AND RUBIO
-- 10/29 09:20 [FirstSquawk] AUSTRALIA'S CORPORATE REGULATOR SEEKS ENGAGEMENT WITH LEAD MANAGERS AFTER FIRMUS'S $5 BILLION IPO COLLAPSE
-- 10/29 09:21 [FirstSquawk] North Korean Workers Allegedly Sent to Russia as Students, Report Reveals
-- 10/29 09:24 [financialjuice] China PBOC to set yuan midpoint at 6.6596 per dollar: estimate
-- 10/29 09:25 [FirstSquawk] ASIAN EQUITIES EDGE HIGHER AT THE OPEN AS TRADERS DIGEST THE LATEST FED DECISION AND EARNINGS FROM MAJOR TECH FIRMS
-- 10/29 09:28 [FirstSquawk] JAPAN'S NIKKEI 225 CLIMBS 1%
-- 10/29 09:29 [FirstSquawk] 10-YEAR JGB YIELD TICKS HIGHER TO 2.83% AFTER A 0.5 BP INCREASE
-- 10/29 09:30 [financialjuice] AUSTRALIAN IMPORT PRICES QOQ ACTUAL -1.1% (FORECAST -, PREVIOUS 5.7%) $MACRO
-- 10/29 09:30 [financialjuice] AUSTRALIAN EXPORT PRICES QOQ ACTUAL 1.4% (FORECAST -, PREVIOUS 1.1%) $MACRO
-- 10/29 09:30 [financialjuice] Australia Q3 import costs down 1.1% quarter on quarter
-- 10/29 09:30 [financialjuice] Australia Q3 export prices rise 1.4% quarter on quarter
-- 10/29 09:32 [FirstSquawk] Australia Export Price Index (Q/Q) Q3: 1.4% (prev 1.1%)
-- 10/29 09:32 [FirstSquawk] Australia Import Price Index (Q/Q): -1.1% (prev 5.7%)
-- 10/29 09:33 [FirstSquawk] 2-YEAR JAPANESE GOVERNMENT BOND YIELD EDGES UP TO 1.905%, UP 0.5 BP
-- 10/29 09:34 [FirstSquawk] ISRAEL’S AVIGDOR LIBERMAN HAS REPORTEDLY CUT CONTACT WITH OPPOSITION LEADERS GADI EISENKOT AND NAFTALI BENNETT, PREFERRING THAT EISENKOT JOIN A UNITY GOVERNMENT WITH NETANYAHU - N12 NEWS
-- 10/29 09:34 [financialjuice] Justice Department loses initial attempt to stop California counting mail ballots from suspected noncitizens
-- 10/29 09:34 [FirstSquawk] LIBERMAN MAINTAINS HE WILL NOT JOIN A NETANYAHU-LED GOVERNMENT HIMSELF OR SUPPORT A MINORITY GOVERNMENT RELIANT ON ARAB PARTIES - N12 NEWS
-- 10/29 09:37 [financialjuice] S. Korea finmin: will act promptly if market turbulence increases
-- 10/29 09:37 [financialjuice] Saudi Arabia issues warning over potential hazard in Najran: civil defence
-- 10/29 09:38 [FirstSquawk] SAUDI CIVIL DEFENCE WARNS OF POSSIBLE DANGER IN NAJRAN
-- 10/29 09:40 [financialjuice] S. Korea finance minister: to carefully assess treasury bond issuance volume for November
-- 10/29 09:41 [financialjuice] S.Korea finmin: to carry out treasury bond repurchase if needed
-- 10/29 09:41 [FirstSquawk] S.KOREA FINMIN SIGNALS CAUTIOUS REVIEW OF NOVEMBER TREASURY BOND ISSUANCE AMOUNT
-- 10/29 09:41 [FirstSquawk] SOUTH KOREA TO CONSIDER TREASURY BOND REPURCHASES AS REQUIRED, FINMIN SAYS
-- 10/29 09:45 [financialjuice] Saudi Arabia’s civil defence: danger has passed in Najran
-- 10/29 09:45 [FirstSquawk] SAUDI CIVIL DEFENCE CONFIRMS THREAT HAS ENDED IN NAJRAN
-- 10/29 09:46 [financialjuice] Saudi-led coalition: destroyed ballistic missile launched by Yemen's Houthis toward eastern region
-- 10/29 09:48 [FirstSquawk] HOUTHI MISSILE FIRED TOWARDS SAUDI ARABIA'S EASTERN REGION DESTROYED, SAUDI-LED COALITION SAYS
-- 10/29 09:49 [FirstSquawk] 5-YEAR JAPANESE GOVERNMENT BOND YIELD CLIMBS 1.5 BASIS POINTS TO 2.28%
-- 10/29 09:54 [FirstSquawk] SAMSUNG ELECTRONICS REPORTS Q3 REVENUE OF 195.3 TRLN WON AND OPERATING PROFIT OF 107.4 TRLN WON; NET PROFIT MISSES ESTIMATES AT 75.2 TRLN WON
-- 10/29 09:55 [FirstSquawk] SAMSUNG ELECTRONICS TO DISTRIBUTE A Q3 DIVIDEND OF 4,601 WON PER SHARE
-- 10/29 09:55 [FirstSquawk] SAMSUNG ELECTRONICS SEES DISPLAY BUSINESS DEMAND REMAINING SUBDUED IN 2027
-- 10/29 09:58 [FirstSquawk] SAMSUNG ELECTRONICS RECORDS A SUBSTANTIAL RISE IN Q3 HBM4 SALES
-- 10/29 09:59 [FirstSquawk] BRENT OIL PRICES SLIDE OVER $1 TO $114.20/BBL
-- 10/29 10:01 [financialjuice] Taiwan overnight interbank rate starts at 0.805% versus previous session open at 0.805%
-- 10/29 10:05 [financialjuice] OpenAI's Astra model becomes main distillation target for Chinese AI labs - The Information
-- 10/29 10:06 [financialjuice] Moonshot AI and DeepSeek drew on outputs from OpenAI's Astra in developing models released this month
-- 10/29 10:07 [FirstSquawk] THE INFORMATION: MOONSHOT AI AND DEEPSEEK DREW ON OPENAI'S ASTRA OUTPUTS FOR NEW MODELS RELEASED THIS MONTH
-- 10/29 10:07 [FirstSquawk] CHINESE AI LABS INCREASINGLY TARGET OPENAI’S ASTRA MODEL FOR DISTILLATION, THE INFORMATION REPORTS
-- 10/29 10:09 [FirstSquawk] SAMSUNG ELEC SEES AI INFRASTRUCTURE INVESTMENT REACHING HISTORIC LEVELS IN 2027 AMID ECOSYSTEM GROWTH
-- 10/29 10:09 [FirstSquawk] SAMSUNG ELECTRONICS SEEKS TO EXPAND SALES OF PREMIUM SOCS THROUGH ITS SYSTEM LSI BUSINESS IN 2027
-- 10/29 10:11 [FirstSquawk] SAMSUNG ELECTRONICS SEES INCREASED COMPONENT COSTS CREATING HEADWINDS FOR DX DIVISION IN Q4
-- 10/29 10:16 [FirstSquawk] CHINA'S CENTRAL BANK FIXES YUAN MID-POINT AT 6.7147 PER DOLLAR
-- 10/29 10:17 [financialjuice] China sets yuan mid-point at strongest level since Feb. 2, 2023
-- 10/29 10:17 [FirstSquawk] YUAN MID-POINT REACHES STRONGEST LEVEL IN MORE THAN THREE YEARS AS CHINA SETS DAILY FIXING
-- 10/29 10:21 [financialjuice] China central bank injects 115 billion yuan via 7-day reverse repos at 1.40% vs prior 1.40%: statement
-- 10/29 10:21 [financialjuice] China cbank injects 1 trillion yuan via overnight reverse repos: statement
-- 10/29 10:23 [FirstSquawk] SK HYNIX REVIEWS VARIOUS APPROACHES TO ENHANCE SOLIDIGM'S COMPETITIVENESS
-- 10/29 10:23 [FirstSquawk] SK HYNIX REPORTS NO FINAL DECISION ON SOLIDIGM'S US PLANT PLANS
-- 10/29 10:30 [FirstSquawk] SAMSUNG ELECTRONICS STOCK DECLINES 4.4% IN TRADING
-- 10/29 10:39 [FirstSquawk] SAMSUNG'S MOBILE BUSINESS REVENUE PROJECTED TO FALL QUARTER-ON-QUARTER IN Q4
-- 10/29 10:41 [FirstSquawk] KOREAN WON APPRECIATES TO 1,332.70 AGAINST THE US DOLLAR
-- 10/29 10:45 [FirstSquawk] SAMSUNG ELEC SEEKS LONG-TERM PARTNERSHIPS, HOLDING TALKS WITH 10 MORE CUSTOMERS
-- 10/29 10:52 [FirstSquawk] NIKKEI 225 ERASES INITIAL ADVANCES, TRADING UNCHANGED
-- 10/29 10:56 [FirstSquawk] KOSPI SLUMPS 2.4% IN SEOUL TRADING
-- 10/29 11:00 [FirstSquawk] JGB YIELDS MOVE HIGHER AS INVESTORS AWAIT BOJ POLICY ANNOUNCEMENT - WSJ
-- 10/29 11:01 [FirstSquawk] SAMSUNG ELEC INCREASES FOUNDRY INVESTMENT FOCUS IN ITS US AND SOUTH KOREAN OPERATIONS
-- 10/29 11:05 [FirstSquawk] INDONESIAN RUPIAH ADVANCES TO 18,120 PER US DOLLAR
-- 10/29 11:09 [financialjuice] South Korea defense ministry: North Korea’s use of older weapons near border seems performative
-- 10/29 11:09 [FirstSquawk] SEOUL SAYS PYONGYANG'S USE OF AGING WEAPON SYSTEMS NEAR BORDER APPEARS TO BE FOR SHOW
-- 10/29 11:15 [financialjuice] Haiti delays first presidential election in 10 years to July 18, 2027: electoral council
-- 10/29 11:18 [FirstSquawk] SAMSUNG ELEC STOCK EXTENDS DECLINE TO 6.4%
-- 10/29 11:28 [FirstSquawk] WEIL GOTSHAL ENLISTS ALIXPARTNERS TO LEAD WIND-DOWN EFFORTS - WSJ
-- 10/29 11:29 [FirstSquawk] VIETNAM GOVERNMENT TARGETS 75% STATE STAKE IN VIETNAM RUBBER GROUP BY 2030
-- 10/29 11:29 [FirstSquawk] VIETNAM PLANS TO EXPAND GOVERNMENT OWNERSHIP IN VIETNAM AIRLINES TO 86.42% OVER THE NEXT FOUR YEARS
-- 10/29 11:30 [financialjuice] China's onshore yuan strengthens to 6.6621 per dollar, strongest since June 7, 2022
-- 10/29 11:31 [FirstSquawk] EL SALVADOR FOREIGN MINISTRY SAYS MORE THAN 2,000 TROOPS WILL BE SENT TO HAITI TO RESCUE MISSING TECHNICIANS
-- 10/29 11:32 [FirstSquawk] US FUTURES SELL-OFF INTENSIFIES, WITH NASDAQ DOWN 1.6% AND S&P 500 OFF 0.5%
-- 10/29 11:33 [FirstSquawk] VIETNAM PLANS TO ENSURE STATE OWNERSHIP REMAINS ABOVE 65% IN BIDV, VIETCOMBANK AND VIETINBANK THROUGH 2030
-- 10/29 11:33 [FirstSquawk] VIETNAM'S STATE HOLDINGS IN THREE MAJOR BANKS: BIDV AT 76.73%, VIETCOMBANK AT 74.80% AND VIETINBANK AT 64.46%
-- 10/29 11:35 [FirstSquawk] JPMORGAN LIFTS VODAFONE PRICE TARGET TO 100P FROM 85P
-- 10/29 11:44 [FirstSquawk] 30-YEAR US BOND YIELD SLIPS 5 BASIS POINTS TO 5.311%
-- 10/29 11:48 [FirstSquawk] DALIAN IRON ORE FUTURES CLIMB TO 686.5 YUAN PER METRIC TON, UP 3.08%
-- 10/29 11:56 [FirstSquawk] China’s Short-Form Drama Market Heats Up as Tencent and ByteDance Fight for Audience Share
-- 10/29 12:09 [FirstSquawk] TD COWEN RAISES NORTHROP GRUMMAN’S PRICE TARGET TO $600 FROM $540
-- 10/29 12:19 [FirstSquawk] Scotiabank Cuts Fortinet’s Price Target to $140 From $163
-- 10/29 12:25 [FirstSquawk] TAIWAN’S STOCK MARKET DECLINES MORE THAN 2%
-- 10/29 12:34 [FirstSquawk] GFZ REPORTS 5.86-MAGNITUDE EARTHQUAKE IN PAPUA NEW GUINEA’S NEW GUINEA REGION
-- 10/29 12:40 [FirstSquawk] YONHAP: NORTH KOREA FIRES PROJECTILE OF UNKNOWN TYPE
-- 10/29 12:40 [financialjuice] North Korea launches projectile into sea off east coast - media
-- 10/29 12:41 [financialjuice] North Korea fires possible ballistic missile: Japan coast guard
-- 10/29 12:41 [FirstSquawk] JAPAN COAST GUARD REPORTS POSSIBLE BALLISTIC MISSILE LAUNCH BY NORTH KOREA
-- 10/29 12:45 [financialjuice] Projectile believed to be North Korea-launched ballistic missile has already fallen: Japan Coast Guard
-- 10/29 12:45 [FirstSquawk] PIPER SANDLER CUTS ALPHABET’S PRICE TARGET TO $345 FROM $400
-- 10/29 12:55 [FirstSquawk] Thailand Moves to Confiscate US$1 Billion in Assets Tied to Money Laundering Group - SCMP
-- 10/29 12:57 [FirstSquawk] PIPER SANDLER RAISES MICROSOFT’S PRICE TARGET TO $650 FROM $610
-- 10/29 12:59 [financialjuice] North Korean missile seems to have landed beyond Japan's EEZ: Kyodo
-- 10/29 12:59 [FirstSquawk] NORTH KOREAN MISSILE APPEARS TO HAVE LANDED OUTSIDE JAPAN’S EEZ: KYODO
-- 10/29 13:07 [FirstSquawk] HSBC MAINTAINS ITS BEST LENDING RATE AT 5.00% IN HONG KONG
-- 10/29 13:07 [financialjuice] Russia shoots down most of 613 drones heading to Moscow overnight: Russian newswires cite mayor
-- 10/29 13:18 [FirstSquawk] Spain Train Crash Kills at Least 68, Two Japanese Nationals May Have Been on Board
-- 10/29 13:18 [financialjuice] North Korea launches about 10 missiles: media
-- 10/29 13:18 [FirstSquawk] AROUND 10 MISSILES FIRED BY NORTH KOREA, MEDIA REPORTS
-- 10/29 13:30 [financialjuice] Bank of Korea board member Hwang: time to concentrate on inflation
-- 10/29 13:30 [financialjuice] Bank of Korea board member Hwang: Monitoring FX market carefully, dollar-won shift quicker than anticipated
-- 10/29 13:30 [financialjuice] Bank of Korea board member Hwang: high borrowing costs limit economic gains for struggling small and medium businesses
-- 10/29 13:30 [financialjuice] Bank of Korea board member Hwang: upward revision to 2026 current account surplus to $500 billion from $450 billion previously
-- 10/29 13:31 [FirstSquawk] TOYOTA’S PARENT-ONLY JAPAN VEHICLE OUTPUT INCREASES 5.8% Y/Y IN SEPTEMBER TO 319,195
-- 10/29 13:31 [FirstSquawk] TOYOTA’S SEPTEMBER GLOBAL VEHICLE PRODUCTION FALLS 3.2% Y/Y TO 889,079 UNITS
-- 10/29 13:32 [FirstSquawk] TOYOTA’S PARENT-ONLY OVERSEAS VEHICLE PRODUCTION DROPS 7.6% Y/Y IN SEPTEMBER
-- 10/29 13:32 [FirstSquawk] TOYOTA’S PARENT-ONLY GLOBAL VEHICLE SALES DROP 2.2% Y/Y IN SEPTEMBER
-- 10/29 13:35 [FirstSquawk] HYUNDAI MOTOR LOWERS 2026 SALES GOAL BY 160,000 VEHICLES TO 4 MILLION UNITS
-- 10/29 13:58 [FirstSquawk] US TECH STOCKS FACE LOSSES AS EARNINGS FUEL FRESH AI SPENDING CONCERNS: FT
-- 10/29 14:00 [financialjuice] JAPANESE CONSUMER CONFIDENCE ACTUAL 35 (FORECAST 35.1, PREVIOUS 35.4) $MACRO
-- 10/29 14:04 [FirstSquawk] JAPAN CONSUMER CONFIDENCE INDEX OCT: 35.0 (EST 35.1; PREV 35.4)
-- 10/29 14:07 [financialjuice] China commerce ministry on U.S. listing Chinese firms on Xinjiang-related entity list: China firmly opposes this
-- 10/29 14:07 [financialjuice] China commerce ministry: U.S. listing of Chinese firms on Xinjiang-related entity list contradicts consensus reached by two heads of state
-- 10/29 14:07 [financialjuice] China commerce ministry: U.S. should immediately stop political manipulation, smear campaigns and unreasonable suppression over listing Chinese firms on Xinjiang-related entity list
-- 10/29 14:08 [financialjuice] China commerce ministry on U.S. listing chinese firms on xinjiang-related entity list: China will take necessary steps to firmly protect its own interests
-- 10/29 14:09 [FirstSquawk] RUSSIA TARGETS CARGO VESSEL SERVING UKRAINIAN MILITARY IN BLACK SEA: DEFENCE MINISTRY
-- 10/29 14:09 [FirstSquawk] CHINA COMMERCE MINISTRY: U.S. ACTION AGAINST CHINESE COMPANIES OVER XINJIANG RUNS COUNTER TO HEADS-OF-STATE CONSENSUS
-- 10/29 14:09 [FirstSquawk] BEIJING STRONGLY OBJECTS TO U.S. ADDITION OF CHINESE COMPANIES TO XINJIANG-RELATED ENTITY LIST
-- 10/29 14:09 [FirstSquawk] CHINA COMMERCE MINISTRY CALLS ON U.S. TO HALT XINJIANG-RELATED PRESSURE AND SMEAR CAMPAIGNS AGAINST CHINESE COMPANIES
-- 10/29 14:09 [FirstSquawk] CHINA SAYS IT WILL TAKE FIRM ACTION TO SAFEGUARD ITS INTERESTS AFTER U.S. LISTS CHINESE FIRMS
-- 10/29 14:14 [FirstSquawk] VENEZUELA’S OIL COMEBACK AT RISK AS INDUSTRY STRUGGLES TO FIND WORKERS: FT
-- 10/29 14:24 [FirstSquawk] AUSTRALIAN SHARES GAIN 0.5% AS S&P/ASX 200 SETTLES AT 8,891.80
-- 10/29 14:30 [financialjuice] DUTCH MANUFACTURING CONFIDENCE ACTUAL 2.3 (FORECAST -, PREVIOUS 4.2) $MACRO
-- 10/29 14:32 [financialjuice] South Korea presidential office holds emergency meeting on North Korea missile launch: urges halt - Newsis
-- 10/29 14:40 [financialjuice] North Korea missiles traveled about 250 km: media
-- 10/29 14:50 [FirstSquawk] RBA’S BLUNT COMMUNICATION PROMPTS FRESH QUESTIONS OVER HOW HIGH RATES WILL GO: WSJ
-- 10/29 14:57 [financialjuice] S.Korea spy agency: N.Korea Kim Jong Un visit to China mostly with foreign ministry staff, no key military officials -Yonhap
-- 10/29 14:57 [FirstSquawk] GOLD FALLS FURTHER BELOW $4,050 AMID RISING RATE HIKE EXPECTATIONS AND RENEWED DOLLAR DEMAND: FXS
-- 10/29 14:58 [financialjuice] Drone debris falls on industrial site territory in Russia's Sterlitamak: mayor
-- 10/29 15:01 [financialjuice] S.Korea spy agency: Kim Jong Un's China visit seemed to have additional motive beyond marking China's role in Korean War - Yonhap
+- 10/29 16:00 [financialjuice] SWEDISH GDP YOY ADVANCE ACTUAL 2.8% (FORECAST 2.9%, PREVIOUS 3.3%) $MACRO
+- 10/29 16:02 [FirstSquawk] SWEDEN (AUG) WAGES NON-MANUAL WORKERS YOY ACTUAL: 2.8% VS 2.9% PREVIOUS
+- 10/29 16:02 [FirstSquawk] SWEDEN (SEP) RETAIL SALES WDA YOY ACTUAL: 5.5% VS 6.9% PREVIOUS
+- 10/29 16:02 [FirstSquawk] SWEDEN (SEP) RETAIL SALES MOM ACTUAL: -0.4% VS 0.8% PREVIOUS
+- 10/29 16:02 [FirstSquawk] SWEDEN (Q3) GDP INDICATOR WDA YOY ACTUAL: 2.8% VS 2.8% PREVIOUS;EST 2.9%
+- 10/29 16:02 [FirstSquawk] SWEDEN (Q3) GDP INDICATOR SA QOQ ACTUAL: 0.4% VS 1.4% PREVIOUS;EST 0.3%
+- 10/29 16:02 [FirstSquawk] SWEDEN (SEP) GDP INDICATOR WDA YOY ACTUAL: 2.1% VS 3.5% PREVIOUS
+- 10/29 16:02 [FirstSquawk] SWEDEN (SEP) GDP INDICATOR SA MOM ACTUAL: -0.7% VS 1.1% PREVIOUS
+- 10/29 16:03 [FirstSquawk] SWEDEN (OCT) MANUFACTURING CONFIDENCE SA ACTUAL: 111.5 VS 106.3 PREVIOUS
+- 10/29 16:03 [FirstSquawk] SWEDEN (OCT) CONSUMER CONFIDENCE ACTUAL: 94.3 VS 102.2 PREVIOUS
+- 10/29 16:03 [FirstSquawk] SWEDEN (OCT) ECONOMIC TENDENCY SURVEY ACTUAL: 108.1 VS 107.1 PREVIOUS
+- 10/29 16:05 [FirstSquawk] LLOYDS: 3Q STATUTORY PRETAX PROFIT GBP2.33B, EST. GBP2.29B
+- 10/29 16:06 [FirstSquawk] SHELL PLANS SHARE BUYBACK OF $5B- HIGHER THAN $3B EARLIER
+- 10/29 16:06 [FirstSquawk] TOTALENERGIES: 3Q ADJ NET $9.10B, EST. $8.9B
+- 10/29 16:15 [FirstSquawk] Lloyds Q3 2026 Earnings - Net Interest Income: £3.81B (est £3.83B) - Loan-Loss Provision: £313.0M (est £311.8M) - Operating Costs: £2.37B (est £2.39B) - Total Deposits: £502.8B (est £502.41B)
+- 10/29 16:15 [FirstSquawk] Shell Q3 2026 Earnings - Adjusted EPS: $1.93 (est $1.79) - Net Debt: $39.7B (est $42.04B) - Cash Flow From Operations: $21.04B (est $16.13B) - Dividend/Share: 39.06c (est 39.00c) - Oil And Gas Output: 2.57M BOE/D (est 2.55M) - Gas Productio…
+- 10/29 16:16 [FirstSquawk] Glencore: 9M Own-Source Copper Production 598,600 Tons - 9M Own-Source Zinc Output 547,200 Tons
+- 10/29 16:16 [FirstSquawk] TotalEnergies Q3 2026 Earnings - Adj EPS: $4.03 (est $3.97) - Adj EBITDA: $17.81B (est $17.29B) - DACF: $12.63B (est $11.99B) - Adj Net $9.10B (est $8.9B)
+- 10/29 16:16 [FirstSquawk] Carlsberg Q3 2026 Earnings - Revenue: DKK25.28B (est DKK25.11B) - Western Europe Revenue: DKK14.56B - Asia Revenue: DKK5.07B
+- 10/29 16:18 [FirstSquawk] CHINA'S DEFENCE MINISTRY SAYS ON SENDING ATTACHE TO ASEAN DEFENCE MINISTERS' SUMMIT IN PHILIPPINES: PHILIPPINES' ACTIONS IN SOUTH CHINA SEA SERIOUSLY UNDERMINED SPIRIT OF ASEAN; CHINA'S DEFENCE MINISTRY, ON SENDING ATTACHE TO ASEAN
+- 10/29 16:23 [FirstSquawk] CHINA'S DEFENCE MINISTRY SAYS ON SENDING ATTACHE TO ASEAN DEFENCE MINISTERS' SUMMIT IN PHILIPPINES: PHILIPPINES' ACTIONS SERIOUSLY UNDERMINED SPIRIT OF ASEAN (CORRECTS TO REMOVE 'IN SOUTH CHINA SEA') (CORRECTED)
+- 10/29 16:25 [FirstSquawk] ISRAELI OFFICIAL ORDERS PROBE OF SUSPECTED VOTE: TAMPERING
+- 10/29 16:30 [FirstSquawk] CHINA: ACCUSES MANILA OF OBSTRUCTING ATTENDANCE AT ASEAN MEETING
+- 10/29 16:33 [FirstSquawk] SNB: 7 DAY INDEXED REPO AT SPREAD OF -5 BPS
+- 10/29 16:47 [FirstSquawk] INDIA TRADE MINISTER SAYS US TRADE DEAL WILL NOT COMPROMISE A SINGLE SENSITIVE INTEREST OF FARMERS OR ANY STAKEHOLDER
+- 10/29 16:48 [FirstSquawk] INDIA TRADE MINISTER SAYS INDIA WILL STAND AT STRONG COMPARATIVE ADVANTAGE ONCE US TRADE DEAL IS DONE
+- 10/29 16:49 [FirstSquawk] INDIA TRADE MINISTER SAYS INDIA WILL STAND AT STRONG COMPARATIVE ADVANTAGE ONCE US TRADE DEAL IS DONE; US TRADE DEAL WILL NOT COMPROMISE A SINGLE SENSITIVE INTEREST OF FARMERS OR ANY STAKEHOLDER
+- 10/29 17:01 [financialjuice] South Korea to issue 12t won of treasury bonds in November.
+- 10/29 17:02 [FirstSquawk] BRITAIN'S; FTSE 100 UP 0.3%; RANCE'S CAC 40 UP 0.51%; SPAIN'S IBEX DOWN 1.19%
+- 10/29 17:03 [financialjuice] EU Energy Chief: We're better situated at dealing with this crisis than we were in 2022 because we've reduced our gas consumption. We use 18% less gas now than we did in 2022.
+- 10/29 17:03 [financialjuice] SPANISH RETAIL SALES SA YOY ACTUAL -1.4% (FORECAST -, PREVIOUS -0.4%) $MACRO
+- 10/29 17:04 [FirstSquawk] EU ENERGY CHIEF SAYS WE'RE BETTER SITUATED AT DEALING WITH THIS CRISIS THAN WE WERE IN 2022 BECAUSE WE'VE REDUCED OUR GAS CONSUMPTION. WE USE 18% LESS GAS NOW THAN WE DID IN 2022.
+- 10/29 17:06 [FirstSquawk] EU ENERGY CHIEF SAYS THIS CRISIS IS ALSO WORSE BECAUSE IT’S OIL PRODUCTS
+- 10/29 17:06 [financialjuice] Mizuho bank to raise yen term deposit rates from November 2.
+- 10/29 17:09 [FirstSquawk] SAUDIS: ISSUE POTENTIAL DANGER ALERT IN NAJRAN
+- 10/29 17:11 [FirstSquawk] 6.4 MAG. EARTHQUAKE SOUTHEAST OF EASTER ISLAND -USGS
+- 10/29 17:13 [FirstSquawk] SAUDIS: DANGER PASSED IN NAJRAN
+- 10/29 17:26 [FirstSquawk] ARAMCO SETS NOV BUTANE PRICE AT $780/TON
+- 10/29 17:47 [financialjuice/FirstSquawk] Iran's Revolutionary Guards Navy: 3 tankers caught fire after hitting mines over last 24 hours off southern coast of Strait of Hormuz.
+- 10/29 17:57 [financialjuice/FirstSquawk] ❗ Trump Admin in ongoing talks for temporary peace deal - Semafor
+- 10/29 18:00 [financialjuice] ITALIAN UNEMPLOYMENT RATE ACTUAL 6.3% (FORECAST 6.2%, PREVIOUS 6.2%) $MACRO
+- 10/29 18:04 [FirstSquawk] CHINA: CHILE RENEW LOCAL-CURRENCY SWAP AGREEMENT
+- 10/29 18:05 [FirstSquawk] PBOC : CHILE CENTRAL BANKS SIGN 50B YUAN CURRENCY SWAP AGREEMENT
+- 10/29 18:09 [FirstSquawk] QATARENERGY : UNDER TERMS OF THE SPA, DELIVERIES WILL BE ON AN FOB BASIS AND ARE ANTICIPATED TO COMMENCE IN 2030 FOR 20 YEARS.
+- 10/29 18:09 [financialjuice/FirstSquawk] US suspected spy helped China evade constraints on AI chips - NYT
+- 10/29 18:10 [FirstSquawk] Sinopec Q3 Earnings: - Revenue: 769.74B Yuan (est 719.59B Yuan) - IFRS Net Profit: 13.6B Yuan, +64%
+- 10/29 18:12 [FirstSquawk] NVIDIA SAYS CEO INTERACTIONS WITH THE EXEC WERE NOT UNUSUAL-NYT
+- 10/29 18:13 [FirstSquawk] US INTELLIGENCE FOCUSED ON SINGAPORE-BASED EXEC HUANG LE- NYT
+- 10/29 18:29 [FirstSquawk] UK 10-YEAR YIELD DECLINES 3BPS TO A 5 -WEEK LOW AT 5.29%
+- 10/29 18:29 [financialjuice] South Korea, Germany to upgrade bilateral ties to enhanced strategic partnership - Korean Presidential Office.
+- 10/29 18:30 [financialjuice] BOE CONSUMER CREDIT ACTUAL 1.914B (FORECAST 2B, PREVIOUS 2.464B) $MACRO
+- 10/29 18:30 [financialjuice] UK MORTGAGE LENDING ACTUAL 3.866B (FORECAST 4.2B, PREVIOUS 4.410B ,REVISION 4.174B) $MACRO
+- 10/29 18:30 [financialjuice] UK MORTGAGE APPROVALS ACTUAL 53.443K (FORECAST 54K, PREVIOUS 54.918K ,REVISION 54.814K) $MACRO
+- 10/29 18:30 [financialjuice] UK M4 MONEY SUPPLY ACTUAL 0.1% (FORECAST -, PREVIOUS 0.4%) $MACRO
+- 10/29 18:30 [FirstSquawk] META LOSES APPEAL IN PARIS COURT OF APPEALS IN CASE WITH PUBLISHERS :COURT STATEMENT
+- 10/29 18:31 [FirstSquawk] UK Mortgage Approvals Sep: 53.4K (est 54.0K; prev 54.9K) - Net Lending Sec. On Dwellings: 3.9B (est 4.2B; prev 4.4B) - Net Consumer Credit: 1.9B (est 2.0B; prev 2.5B) - Consumer Credit (Y/Y): 9.8% (prev 9.6%)
+- 10/29 18:31 [FirstSquawk] UK Money Supply M4 (M/M) Sep: 0.1% (prev -0.4%) -UK Money Supply M4 (Y/Y): 3.9% (prev 4.4%) - M4 Ex IOFCs 3M Annualised: 1.6% (prev 2.8%)
+- 10/29 18:32 [FirstSquawk] SOUTH KOREA AND GERMANY TO SIGN PARTNERSHIP IN ECONOMY, HIGH TECH INDUSTRIES - KOREAN PRESIDENTIAL OFFICE
+- 10/29 18:34 [FirstSquawk] UKRAINE'S RAILWAY CHIEF: RUSSIAN DRONE HIT DNIPRO RAIL STATION, PEOPLE WERE KILLED
+- 10/29 18:36 [FirstSquawk] RUSSIAN DRONE ATTACK KILLS 13 IN UKRAINE’S DNIPRO, SAYS GOVERNOR
+- 10/29 18:37 [FirstSquawk] Linde Q3 2026 Earnings - Adj EPS: $4.59 (est $4.52) - Sales: $9.40B (est $9.17B) - Net Cash From Operating Activities: $3.17B (est $3.29B) - Sees Q4 Adj EPS: $4.40 To $4.50 (est $4.46) - Sees Q4 Adj EPS Growth: 5% To 7% - Sees FY Adj EPS: $…
+- 10/29 18:43 [FirstSquawk] BYD Q3 2026 Earnings - Net Income: ¥10.02B (est ¥12.08B), Up 28.1% - Revenue: ¥221.49B (est ¥240.9B) - 9M Net Income: ¥22.34B, Down 4.24% - 9M Revenue: ¥566.30B
+- 10/29 18:47 [FirstSquawk] CHINA NAMES ZHANG SHENGMIN AS NEW POLITBURO MEMBER
+- 10/29 18:48 [FirstSquawk] SPAIN TRAIN CRASH DEATH TOLL CLIMBS TO 69 - REGIONAL OFFICIAL
+- 10/29 18:50 [FirstSquawk] CHINA: TO HOLD PARTY CONGRESS IN BEIJING IN SECOND HALF OF 2027
+- 10/29 18:58 [financialjuice] ECB President Lagarde plans to step down February 7, she told staff.
+- 10/29 18:59 [FirstSquawk] ECB PRESIDENT LAGARDE: PLANS TO LEAVE FEB. 7, SHE TOLD STAFF
+- 10/29 19:01 [financialjuice] ECB Lagarde's successor will be appointed by the European Council following the nomination process outlined in article 283 of the treaty on the functioning of the European Union.
+- 10/29 19:02 [FirstSquawk] UKRAINE: AT LEAST 13 KILLED IN DNIPRO TRAIN STATION STRIKE
+- 10/29 19:05 [financialjuice] Japan PM Takaichi: To start electricity and gas bill supporting measures from December.
+- 10/29 19:06 [FirstSquawk] Bunge Q3 2026 Earnings - Net Sales: $23.80B (est $23.38B) - Adj EPS: $2.56 (est $2.41) - EPS: $1.64 - Net Income: $318M - Adjusted EBIT: $846M (est $778.7M) - Adjusted Segment EBIT: $997M - Still Sees FY Adjusted EPS: $9.25 To $9.75 (est $9…
+- 10/29 19:07 [financialjuice] Japan PM Takaichi: Will deploy subsidies aimed at curbing utility, gas bills from December through February.
+- 10/29 19:08 [FirstSquawk] EU'S COSTA SAYS WILL START SEARCH FOR NEW ECB PRESIDENT TODAY
+- 10/29 19:11 [FirstSquawk] ALPHABET: Q3 MARKETABLE SECURITIES INCL. $75.2B OF SPACEX SHRS
+- 10/29 19:11 [FirstSquawk] JAPAN PM TAKAICHI: TO RAISE TARGET GASOLINE PRICE AT PUMP BY 5 YEN PER LITRE EACH MONTH STARTING DECEMBER TOWARDS SPRING
+- 10/29 19:11 [FirstSquawk] TAKAICHI SAYS DECIDED TO PROVIDE POWER, GAS SUBSIDY FROM DEC.
+- 10/29 19:13 [financialjuice] ITALIAN NON-EU FLASH TRADE BALANCE ACTUAL 2.83B (FORECAST -, PREVIOUS 2.00B) $MACRO
+- 10/29 19:13 [FirstSquawk] PENTAGON PROBING AUGUST MILITARY FREEZER MALFUNCTION AS HACK
+- 10/29 19:14 [FirstSquawk] EU'S COSTA SAYS PROCESS TO FIND LAGARDE SUCCESSOR TO START TODAY
+- 10/29 19:15 [FirstSquawk] TAKAICHI SAYS WILL LIFT BASIS PRICE FOR GASOLINE SUBSIDY 5 YEN/MONTH
+- 10/29 19:16 [FirstSquawk] ECB PRESIDENT CHRISTINE LAGARDE WILL STEP DOWN ON 7TH FEBRUARY 2027
+- 10/29 19:26 [FirstSquawk] CITIGROUP CUTS GE VERNOVA TARGET PRICE TO $1000 FROM $1125
+- 10/29 19:31 [financialjuice] $MRK Merck & Co Q3 Earnings
+- 10/29 19:32 [FirstSquawk] Caterpillar Q3 2026 Earnings - Rev: $20.68B (est $20.65B) - Adj EPS: $7.20 (est $7.10) - Adj Oper Income: $4.26B (est $4.09B) - Machinery, Power & Energy Revenue: $19.65B (est $19.65B) - Financial Revenue: $1.03B (est $1B)
+- 10/29 19:33 [financialjuice] $CAT Caterpillar Q3 Earnings
+- 10/29 19:35 [FirstSquawk] Merck Q3 2026 Earnings - Sales: $18.09B (est $17.31B) - EPS: $2.04 (est $1.86) - Adj EPS: $2.49 (est $2.07) - Keytruda Rev: $8.60B (est $8.38B) - Gardasil Rev: $2.00B (est $1.75B) - Keytruda Qlex Rev: $830M (est $699.6M) - Animal Health Sal…
+- 10/29 19:36 [FirstSquawk] BOFA GLOBAL RESEARCH EXPECTS FED TO HIKE RATES BY 25 BPS EACH IN DEC 2026 AND MARCH 2027
+- 10/29 19:37 [FirstSquawk] Restaurant Brands Q3 2026 Earnings - Adjusted EPS: $1.10 (est $1.08) - Adjusted EBITDA: $829M (est $831.1M) - System-Wide Sales: $12.97B (est $13.12B) - Comparable Sales: +3.8% (est +3.26%) - Tim Hortons Comparable Sales: +1.5% (est +1.17%)…
+- 10/29 19:38 [DeItaone] ECB PRESIDENT LAGARDE TO STEP DOWN EARLY IN FEBRUARY 2027 European Central Bank President Christine Lagarde announced she will resign on February 7, 2027, eight months before her term expires. Her departure triggers a major leadership conte…
+- 10/29 19:42 [FirstSquawk] D.R. HORTON Q4 2026 EARNINGS - EPS: $2.67 (PREV $3.04 Y/Y) - SEES 2027 HOMES CLOSED: 79,000 TO 84,000 (EST 86,357) - SEES 2027 REVENUE: $30.0B TO $32.0B (EST $33.26B)
+- 10/29 19:48 [financialjuice] $LLY Eli Lilly Q3 Earnings Adj. EPS $7.48, est. $5.59 Rev. $24.40B, est. $22.52B Mounjaro rev. $10.7B, est. $9.95B Zepbound rev. $5.35B, est. $5.01B Foundayo rev. $184M, est. $231.2M Acquired IPR&D charges $4.57/share Sees FY rev. $91B to $…
+- 10/29 19:50 [FirstSquawk] ELI LILLY Q3 2026 EARNINGS - REV: $24.40B (EST $22.52B) - ADJ EPS: $7.48 (EST $5.59) - ZEPBOUND REV: $5.35B (EST $5.01B) - MOUNJARO REV: $10.7B (EST $9.95B) - FOUNDAYO REV: $184M (EST $231.2M) - SEES FY REV: $91.0B TO $92.0B (PREV $85.0B TO…
+- 10/29 19:56 [FirstSquawk] Hershey Q3 2026 Earnings - Adj EPS: $2.64 (est $2.11) - Net Sales: $3.28B (est $3.25B) - Sees FY Adj EPS: $8.58 To $8.74 (prev $8.36 To $8.52) - Sees FY EPS: $8.00 To $8.26 (prev $7.89 To $8.17) - Sees FY Adj EPS Growth: +36% To +38.5% (pre…
+- 10/29 20:01 [financialjuice] ITALIAN MFG BUSINESS CONFIDENCE ACTUAL 91.9 (FORECAST 92, PREVIOUS 91.9 ,REVISION 91.9) $MACRO
+- 10/29 20:01 [financialjuice] ITALIAN CONSUMER CONFIDENCE ACTUAL 90.3 (FORECAST 91, PREVIOUS 91.2) $MACRO
+- 10/29 20:05 [FirstSquawk] Bristol Myers Q3 2026 Earnings - Rev: $13.07B (est $12.71B) - Adj EPS: $1.35 (est $1.12) - Revlimid Rev: $303M (est $221.6M) - Eliquis Rev: $4.69B (est $4.63B) - Opdivo Rev: $2.37B (est $2.4B) - Cobenfy Rev: $57M (est $68M) - Sees FY Rev: A…
+- 10/29 20:10 [FirstSquawk] Blue Owl Capital Q3 2026 Earnings - Fee-Related Earnings Rev: $752.6M (est $703.9M) - Distributable Earnings/Adj Share: 24c (est 22c) - AUM: $329.9B (est $327.42B)
+- 10/29 20:10 [FirstSquawk] Altria Q3 2026 Earnings - Adj EPS: $1.52 (est $1.51) - Rev Excluding Excise Taxes: $5.4B (est $5.3B) - Sees FY Adj EPS: $5.66 To $5.74 (prev $5.61 To $5.72)
+- 10/29 20:22 [FirstSquawk] DOORDASH SEES 4Q MARKETPLACE GOV $35.4B TO $36.4B, EST. $35.77B
+- 10/29 20:22 [FirstSquawk] DOORDASH TO BUY INSTACART FOR $65/SHARE IN CASH, STOCK
+- 10/29 20:31 [financialjuice/FirstSquawk] Microsoft kicks off 10-part us dollar high-grade bond offering.
+- 10/29 20:33 [DeItaone] MICROSOFT KICKS OFF 10-PART USD HIGH-GRADE BOND OFFERING
+- 10/29 20:35 [DeItaone/FirstSquawk] MICROSOFT TAPS US HIGH-GRADE BONDS FOR FIRST TIME SINCE 2017
+- 10/29 20:42 [DeItaone] ALPHABET ($GOOGL ) DOWN 11% PREMARKET AFTER Q3 EARNINGS Wall Street responds with 13 price-target cuts and one rating downgrade. PRICE TARGET CUTS — RANKED BY SIZE 🔸 Citi: $447 → $375 (−$72 / −16.1%) 🔸 Susquehanna: $460 → $400 (−$60 / −13.0…
+- 10/29 20:44 [DeItaone] SEAPORT INITIATES ANTHROPIC COVERAGE, WITHHOLDS RATING AHEAD OF IPO Seaport Global Securities analyst Jay Goldberg initiated coverage of Anthropic, but deferred assigning a rating until the company's anticipated IPO. Goldberg highlighted An…
+- 10/29 20:50 [DeItaone] KALSHI: ANNOUNCING $1 BLN SERIES G AT $40 BLN POST-MONEY VALUATION, CO-LED BY SEQUOIA & WELLINGTON
+- 10/29 20:52 [financialjuice/DeItaone] Microsoft looks to raise at least $25 billion from US bond sale.
+- 10/29 20:54 [DeItaone/FirstSquawk] SPOT SILVER FALLS 3% TO $52.40/OZ
+- 10/29 20:58 [DeItaone] TRUMP CLAIMS RECORD MIDTERM CROWDS AND 99% GOP APPROVAL President Trump claims his midterm rally crowds are five times larger than historical records, with 99% approval among Republicans. Trump also announced a South Carolina rally today su…
+- 10/29 21:00 [FirstSquawk] SWISS GOVERNMENT HAS ASSESSED HOW UBS WOULD FARE UNDER OTHER LEGAL REGIMES IF IT MOVED HEADQUARTERS
+- 10/29 21:00 [financialjuice] Secured overnight financing rate 3.94% October 28th vs 3.95% October 27th.
+- 10/29 21:04 [financialjuice] Morning Juice – US Session Prep (29th October)
+- 10/29 21:05 [FirstSquawk] Mastercard Q3 2026 Earnings - Adj EPS: $5.31 (est $5.17) - Net Rev: $9.8B (est $9.67B) - Cross-Border Volumes: +11% (est +11.5%)
+- 10/29 21:07 [financialjuice] $MA Mastercard Q3 Earnings Adj. EPS $5.31, est. $5.17 Net rev. $9.8B, est. $9.67B Cross-border volumes +11%, est. +11.5% Still sees FY26 FXN ex-inorganic Adj. opex up low double digits Sees Q4 FXN ex-inorganic Adj. opex up at high end of lo…
+- 10/29 21:07 [FirstSquawk] CHINA VANKE Q3 2026 EARNINGS - NET LOSS: ¥8.99B VS LOSS OF ¥16.1B Y/Y - 9M NET LOSS: ¥23.94B - 9M NET CASH LOSS FROM OPERATING ACTIVITIES: ¥2.22B - 9M CASH AND CASH EQUIVALENTS: ¥46.86B
+- 10/29 21:23 [DeItaone] https://t.co/gOluzzsBkr
+- 10/29 21:25 [FirstSquawk] MERZ: PROCESS TO FIND LAGARDE SUCCESSOR TO COMPLETE BY YR-END
+- 10/29 21:30 [DeItaone] US ADVANCE Q3 GDP +3.4% (CONSENSUS +3.2%)
+- 10/29 21:30 [financialjuice] US CONTINUED JOBLESS CLAIMS ACTUAL 1.701M (FORECAST 1.72M, PREVIOUS 1.728M) $MACRO
+- 10/29 21:30 [financialjuice] US PERSONAL INCOME MOM ACTUAL 0.2% (FORECAST 0.3%, PREVIOUS 0.2%) $MACRO
+- 10/29 21:30 [financialjuice] ❗ US INITIAL JOBLESS CLAIMS ACTUAL 194K (FORECAST 198K, PREVIOUS 194K) $MACRO
+- 10/29 21:30 [financialjuice] ❗ US CONSUMER SPENDING MOM ACTUAL 0.5% (FORECAST 0.6%, PREVIOUS 0.9%) $MACRO
+- 10/29 21:30 [FirstSquawk] US INITIAL JOBLESS CLAIMS ACTUAL: 194K VS 194K PREVIOUS; EST 198K
+- 10/29 21:30 [FirstSquawk] US GDP (QOQ) (Q3) ACTUAL: 3.4% VS 2.2% PREVIOUS; EST 3.2%
+- 10/29 21:30 [financialjuice] US CORE PCE PRICES ADVANCE ACTUAL 2.5% (FORECAST 2.4%, PREVIOUS 3.3%) $MACRO
+- 10/29 21:30 [FirstSquawk] US CONTINUING JOBLESS CLAIMS ACTUAL: 1701K VS 1728K PREVIOUS; EST 1720K
+- 10/29 21:30 [financialjuice] ❗ US GDP QOQ ADVANCE ACTUAL 3.4% (FORECAST 3.2%, PREVIOUS 2.2%) $MACRO
+- 10/29 21:30 [FirstSquawk] US PCE PRICE INDEX (MOM) (SEP) ACTUAL: 0.5% VS 0.3% PREVIOUS
+- 10/29 21:31 [financialjuice] ❗ US PCE PRICE INDEX MOM ACTUAL 0.5% (FORECAST 0.5%, PREVIOUS 0.3%) $MACRO
+- 10/29 21:31 [FirstSquawk] US PCE PRICE INDEX (YOY) (SEP) ACTUAL: 3.1% VS 3.4% PREVIOUS; EST 3.6%
+- 10/29 21:31 [financialjuice] ❗ US CORE PCE PRICE INDEX MOM ACTUAL 0.3% (FORECAST 0.3%, PREVIOUS 0.2%) $MACRO
+- 10/29 21:31 [DeItaone] US SEPTEMBER PCE INFLATION RISES TO 3.6%, MATCHING EXPECTATIONS Headline PCE inflation rose 0.5% month over month, matching forecasts and accelerating from 0.3% in August. Key figures: 🔸 Headline PCE YoY: 3.6% vs. 3.6% expected; prior 3.4% …
+- 10/29 21:31 [financialjuice] ‼ BREAKING: US PCE PRICE INDEX YOY ACTUAL 3.6% (FORECAST 3.6%, PREVIOUS 3.4%) $MACRO
+- 10/29 21:31 [financialjuice] US GDP PRICE INDEX ACTUAL 2.3% (FORECAST 3.2%, PREVIOUS 3.5%) $MACRO
+- 10/29 21:31 [financialjuice] ❗ US CORE PCE PRICE INDEX YOY ACTUAL 3.1% (FORECAST 3.1%, PREVIOUS 3.0%) $MACRO
+- 10/29 21:31 [financialjuice] US PCE PRICES ADVANCE ACTUAL 2.1% (FORECAST -, PREVIOUS 5.0%) $MACRO
+- 10/29 21:31 [financialjuice] US REAL PERSONAL CONSUMPTION MOM ACTUAL 0% (FORECAST 0.1%, PREVIOUS 0.6%) $MACRO
+- 10/29 21:34 [financialjuice] US GDP Q3 Advanced Report
+- 10/29 21:34 [DeItaone] US GDP BEATS EXPECTATIONS AS INFLATION ACCELERATES US Q3 GDP grew 3.4% annualized, beating the 3.2% forecast and accelerating from 2.2% in Q2. GDP & CONSUMPTION 🔸 GDP: 3.4% vs. 3.2% est. 🔸 Personal Consumption: 3.8% vs. 3.4% est. 🔸 GDP Pric…
+- 10/29 21:34 [financialjuice] US Personal Income and Outlays September 2026 Report
+- 10/29 21:35 [FirstSquawk] US PCE PRICE INDEX (YOY) (SEP) ACTUAL: 3.6% VS 3.4% PREVIOUS; EST 3.6% (CORRECT)
+- 10/29 21:37 [DeItaone] AIR FRANCE SAYS FLIGHTS TO AND FROM RIYADH ARE SUSPENDED UNTIL DEC 12, 2026 AIR FRANCE SAYS FLIGHTS TO AND FROM DUBAI ARE SUSPENDED UNTIL NOV 7, 2026
+- 10/29 21:39 [financialjuice] UK's PM Starmer's Spokesman Wells: Burnham, Healey think welfare bill needs to come down.
+- 10/29 21:42 [financialjuice] UK's PM Burnham's Spokesman Wells: Burnham, Healey think welfare bill needs to come down.
+- 10/29 21:42 [FirstSquawk] AIR FRANCE SAYS FLIGHTS TO AND FROM RIYADH ARE SUSPENDED UNTIL DEC 12, 2026
+- 10/29 21:42 [FirstSquawk] UK PM SPOX: BURNHAM, HEALEY THINK WELFARE BILL NEEDS TO COME DOWN
+- 10/29 21:45 [financialjuice] Kremlin Aide: If Ukraine launches massive attacks during November 4 celebrations, this could affect Russia's attitude towards the trilateral negotiations - IFX.
+- 10/29 21:45 [DeItaone] KREMLIN AIDE SAYS THAT IF UKRAINE LAUNCHES MASSIVE ATTACKS DURING NOVEMBER 4 CELEBRATIONS, THIS COULD AFFECT RUSSIA’S ATTITUDE TOWARDS THE TRILATERAL NEGOTIATIONS - IFX
+- 10/29 21:46 [financialjuice] Kremlin: Trilateral talks date depends on Ukraine actions - IFX
