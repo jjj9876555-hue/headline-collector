@@ -7,136 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-29 21:49 JST／対象: 10/29 09:49 〜 10/29 21:49 JST（時刻はすべて日本時間）
+生成: 2026-10-30 03:41 JST／対象: 10/29 15:41 〜 10/30 03:41 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 15 | 10/29 19:38 | 10/29 21:45 | ⚠ 54分（19:38→20:33） |
-| FirstSquawk | 167 | 10/29 09:49 | 10/29 21:42 | 26分（14:24→14:50） |
-| financialjuice | 89 | 10/29 10:01 | 10/29 21:46 | ⚠ 69分（11:30→12:40） |
+| DeItaone | 65 | 10/29 19:38 | 10/30 03:31 | ⚠ 54分（19:38→20:33） |
+| FirstSquawk | 169 | 10/29 15:41 | 10/30 03:37 | ⚠ 51分（02:04→02:55） |
+| financialjuice | 176 | 10/29 15:42 | 10/30 03:32 | ⚠ 61分（16:00→17:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 264 行（統合前 272 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 389 行（統合前 411 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/29 09:49 [FirstSquawk] 5-YEAR JAPANESE GOVERNMENT BOND YIELD CLIMBS 1.5 BASIS POINTS TO 2.28%
-- 10/29 09:54 [FirstSquawk] SAMSUNG ELECTRONICS REPORTS Q3 REVENUE OF 195.3 TRLN WON AND OPERATING PROFIT OF 107.4 TRLN WON; NET PROFIT MISSES ESTIMATES AT 75.2 TRLN WON
-- 10/29 09:55 [FirstSquawk] SAMSUNG ELECTRONICS TO DISTRIBUTE A Q3 DIVIDEND OF 4,601 WON PER SHARE
-- 10/29 09:55 [FirstSquawk] SAMSUNG ELECTRONICS SEES DISPLAY BUSINESS DEMAND REMAINING SUBDUED IN 2027
-- 10/29 09:58 [FirstSquawk] SAMSUNG ELECTRONICS RECORDS A SUBSTANTIAL RISE IN Q3 HBM4 SALES
-- 10/29 09:59 [FirstSquawk] BRENT OIL PRICES SLIDE OVER $1 TO $114.20/BBL
-- 10/29 10:01 [financialjuice] Taiwan overnight interbank rate starts at 0.805% versus previous session open at 0.805%
-- 10/29 10:05 [financialjuice] OpenAI's Astra model becomes main distillation target for Chinese AI labs - The Information
-- 10/29 10:06 [financialjuice] Moonshot AI and DeepSeek drew on outputs from OpenAI's Astra in developing models released this month
-- 10/29 10:07 [FirstSquawk] THE INFORMATION: MOONSHOT AI AND DEEPSEEK DREW ON OPENAI'S ASTRA OUTPUTS FOR NEW MODELS RELEASED THIS MONTH
-- 10/29 10:07 [FirstSquawk] CHINESE AI LABS INCREASINGLY TARGET OPENAI’S ASTRA MODEL FOR DISTILLATION, THE INFORMATION REPORTS
-- 10/29 10:09 [FirstSquawk] SAMSUNG ELEC SEES AI INFRASTRUCTURE INVESTMENT REACHING HISTORIC LEVELS IN 2027 AMID ECOSYSTEM GROWTH
-- 10/29 10:09 [FirstSquawk] SAMSUNG ELECTRONICS SEEKS TO EXPAND SALES OF PREMIUM SOCS THROUGH ITS SYSTEM LSI BUSINESS IN 2027
-- 10/29 10:11 [FirstSquawk] SAMSUNG ELECTRONICS SEES INCREASED COMPONENT COSTS CREATING HEADWINDS FOR DX DIVISION IN Q4
-- 10/29 10:16 [FirstSquawk] CHINA'S CENTRAL BANK FIXES YUAN MID-POINT AT 6.7147 PER DOLLAR
-- 10/29 10:17 [financialjuice] China sets yuan mid-point at strongest level since Feb. 2, 2023
-- 10/29 10:17 [FirstSquawk] YUAN MID-POINT REACHES STRONGEST LEVEL IN MORE THAN THREE YEARS AS CHINA SETS DAILY FIXING
-- 10/29 10:21 [financialjuice] China central bank injects 115 billion yuan via 7-day reverse repos at 1.40% vs prior 1.40%: statement
-- 10/29 10:21 [financialjuice] China cbank injects 1 trillion yuan via overnight reverse repos: statement
-- 10/29 10:23 [FirstSquawk] SK HYNIX REVIEWS VARIOUS APPROACHES TO ENHANCE SOLIDIGM'S COMPETITIVENESS
-- 10/29 10:23 [FirstSquawk] SK HYNIX REPORTS NO FINAL DECISION ON SOLIDIGM'S US PLANT PLANS
-- 10/29 10:30 [FirstSquawk] SAMSUNG ELECTRONICS STOCK DECLINES 4.4% IN TRADING
-- 10/29 10:39 [FirstSquawk] SAMSUNG'S MOBILE BUSINESS REVENUE PROJECTED TO FALL QUARTER-ON-QUARTER IN Q4
-- 10/29 10:41 [FirstSquawk] KOREAN WON APPRECIATES TO 1,332.70 AGAINST THE US DOLLAR
-- 10/29 10:45 [FirstSquawk] SAMSUNG ELEC SEEKS LONG-TERM PARTNERSHIPS, HOLDING TALKS WITH 10 MORE CUSTOMERS
-- 10/29 10:52 [FirstSquawk] NIKKEI 225 ERASES INITIAL ADVANCES, TRADING UNCHANGED
-- 10/29 10:56 [FirstSquawk] KOSPI SLUMPS 2.4% IN SEOUL TRADING
-- 10/29 11:00 [FirstSquawk] JGB YIELDS MOVE HIGHER AS INVESTORS AWAIT BOJ POLICY ANNOUNCEMENT - WSJ
-- 10/29 11:01 [FirstSquawk] SAMSUNG ELEC INCREASES FOUNDRY INVESTMENT FOCUS IN ITS US AND SOUTH KOREAN OPERATIONS
-- 10/29 11:05 [FirstSquawk] INDONESIAN RUPIAH ADVANCES TO 18,120 PER US DOLLAR
-- 10/29 11:09 [financialjuice] South Korea defense ministry: North Korea’s use of older weapons near border seems performative
-- 10/29 11:09 [FirstSquawk] SEOUL SAYS PYONGYANG'S USE OF AGING WEAPON SYSTEMS NEAR BORDER APPEARS TO BE FOR SHOW
-- 10/29 11:15 [financialjuice] Haiti delays first presidential election in 10 years to July 18, 2027: electoral council
-- 10/29 11:18 [FirstSquawk] SAMSUNG ELEC STOCK EXTENDS DECLINE TO 6.4%
-- 10/29 11:28 [FirstSquawk] WEIL GOTSHAL ENLISTS ALIXPARTNERS TO LEAD WIND-DOWN EFFORTS - WSJ
-- 10/29 11:29 [FirstSquawk] VIETNAM GOVERNMENT TARGETS 75% STATE STAKE IN VIETNAM RUBBER GROUP BY 2030
-- 10/29 11:29 [FirstSquawk] VIETNAM PLANS TO EXPAND GOVERNMENT OWNERSHIP IN VIETNAM AIRLINES TO 86.42% OVER THE NEXT FOUR YEARS
-- 10/29 11:30 [financialjuice] China's onshore yuan strengthens to 6.6621 per dollar, strongest since June 7, 2022
-- 10/29 11:31 [FirstSquawk] EL SALVADOR FOREIGN MINISTRY SAYS MORE THAN 2,000 TROOPS WILL BE SENT TO HAITI TO RESCUE MISSING TECHNICIANS
-- 10/29 11:32 [FirstSquawk] US FUTURES SELL-OFF INTENSIFIES, WITH NASDAQ DOWN 1.6% AND S&P 500 OFF 0.5%
-- 10/29 11:33 [FirstSquawk] VIETNAM PLANS TO ENSURE STATE OWNERSHIP REMAINS ABOVE 65% IN BIDV, VIETCOMBANK AND VIETINBANK THROUGH 2030
-- 10/29 11:33 [FirstSquawk] VIETNAM'S STATE HOLDINGS IN THREE MAJOR BANKS: BIDV AT 76.73%, VIETCOMBANK AT 74.80% AND VIETINBANK AT 64.46%
-- 10/29 11:35 [FirstSquawk] JPMORGAN LIFTS VODAFONE PRICE TARGET TO 100P FROM 85P
-- 10/29 11:44 [FirstSquawk] 30-YEAR US BOND YIELD SLIPS 5 BASIS POINTS TO 5.311%
-- 10/29 11:48 [FirstSquawk] DALIAN IRON ORE FUTURES CLIMB TO 686.5 YUAN PER METRIC TON, UP 3.08%
-- 10/29 11:56 [FirstSquawk] China’s Short-Form Drama Market Heats Up as Tencent and ByteDance Fight for Audience Share
-- 10/29 12:09 [FirstSquawk] TD COWEN RAISES NORTHROP GRUMMAN’S PRICE TARGET TO $600 FROM $540
-- 10/29 12:19 [FirstSquawk] Scotiabank Cuts Fortinet’s Price Target to $140 From $163
-- 10/29 12:25 [FirstSquawk] TAIWAN’S STOCK MARKET DECLINES MORE THAN 2%
-- 10/29 12:34 [FirstSquawk] GFZ REPORTS 5.86-MAGNITUDE EARTHQUAKE IN PAPUA NEW GUINEA’S NEW GUINEA REGION
-- 10/29 12:40 [FirstSquawk] YONHAP: NORTH KOREA FIRES PROJECTILE OF UNKNOWN TYPE
-- 10/29 12:40 [financialjuice] North Korea launches projectile into sea off east coast - media
-- 10/29 12:41 [financialjuice] North Korea fires possible ballistic missile: Japan coast guard
-- 10/29 12:41 [FirstSquawk] JAPAN COAST GUARD REPORTS POSSIBLE BALLISTIC MISSILE LAUNCH BY NORTH KOREA
-- 10/29 12:45 [financialjuice] Projectile believed to be North Korea-launched ballistic missile has already fallen: Japan Coast Guard
-- 10/29 12:45 [FirstSquawk] PIPER SANDLER CUTS ALPHABET’S PRICE TARGET TO $345 FROM $400
-- 10/29 12:55 [FirstSquawk] Thailand Moves to Confiscate US$1 Billion in Assets Tied to Money Laundering Group - SCMP
-- 10/29 12:57 [FirstSquawk] PIPER SANDLER RAISES MICROSOFT’S PRICE TARGET TO $650 FROM $610
-- 10/29 12:59 [financialjuice] North Korean missile seems to have landed beyond Japan's EEZ: Kyodo
-- 10/29 12:59 [FirstSquawk] NORTH KOREAN MISSILE APPEARS TO HAVE LANDED OUTSIDE JAPAN’S EEZ: KYODO
-- 10/29 13:07 [FirstSquawk] HSBC MAINTAINS ITS BEST LENDING RATE AT 5.00% IN HONG KONG
-- 10/29 13:07 [financialjuice] Russia shoots down most of 613 drones heading to Moscow overnight: Russian newswires cite mayor
-- 10/29 13:18 [FirstSquawk] Spain Train Crash Kills at Least 68, Two Japanese Nationals May Have Been on Board
-- 10/29 13:18 [financialjuice] North Korea launches about 10 missiles: media
-- 10/29 13:18 [FirstSquawk] AROUND 10 MISSILES FIRED BY NORTH KOREA, MEDIA REPORTS
-- 10/29 13:30 [financialjuice] Bank of Korea board member Hwang: time to concentrate on inflation
-- 10/29 13:30 [financialjuice] Bank of Korea board member Hwang: Monitoring FX market carefully, dollar-won shift quicker than anticipated
-- 10/29 13:30 [financialjuice] Bank of Korea board member Hwang: high borrowing costs limit economic gains for struggling small and medium businesses
-- 10/29 13:30 [financialjuice] Bank of Korea board member Hwang: upward revision to 2026 current account surplus to $500 billion from $450 billion previously
-- 10/29 13:31 [FirstSquawk] TOYOTA’S PARENT-ONLY JAPAN VEHICLE OUTPUT INCREASES 5.8% Y/Y IN SEPTEMBER TO 319,195
-- 10/29 13:31 [FirstSquawk] TOYOTA’S SEPTEMBER GLOBAL VEHICLE PRODUCTION FALLS 3.2% Y/Y TO 889,079 UNITS
-- 10/29 13:32 [FirstSquawk] TOYOTA’S PARENT-ONLY OVERSEAS VEHICLE PRODUCTION DROPS 7.6% Y/Y IN SEPTEMBER
-- 10/29 13:32 [FirstSquawk] TOYOTA’S PARENT-ONLY GLOBAL VEHICLE SALES DROP 2.2% Y/Y IN SEPTEMBER
-- 10/29 13:35 [FirstSquawk] HYUNDAI MOTOR LOWERS 2026 SALES GOAL BY 160,000 VEHICLES TO 4 MILLION UNITS
-- 10/29 13:58 [FirstSquawk] US TECH STOCKS FACE LOSSES AS EARNINGS FUEL FRESH AI SPENDING CONCERNS: FT
-- 10/29 14:00 [financialjuice] JAPANESE CONSUMER CONFIDENCE ACTUAL 35 (FORECAST 35.1, PREVIOUS 35.4) $MACRO
-- 10/29 14:04 [FirstSquawk] JAPAN CONSUMER CONFIDENCE INDEX OCT: 35.0 (EST 35.1; PREV 35.4)
-- 10/29 14:07 [financialjuice] China commerce ministry on U.S. listing Chinese firms on Xinjiang-related entity list: China firmly opposes this
-- 10/29 14:07 [financialjuice] China commerce ministry: U.S. listing of Chinese firms on Xinjiang-related entity list contradicts consensus reached by two heads of state
-- 10/29 14:07 [financialjuice] China commerce ministry: U.S. should immediately stop political manipulation, smear campaigns and unreasonable suppression over listing Chinese firms on Xinjiang-related entity list
-- 10/29 14:08 [financialjuice] China commerce ministry on U.S. listing chinese firms on xinjiang-related entity list: China will take necessary steps to firmly protect its own interests
-- 10/29 14:09 [FirstSquawk] RUSSIA TARGETS CARGO VESSEL SERVING UKRAINIAN MILITARY IN BLACK SEA: DEFENCE MINISTRY
-- 10/29 14:09 [FirstSquawk] CHINA COMMERCE MINISTRY: U.S. ACTION AGAINST CHINESE COMPANIES OVER XINJIANG RUNS COUNTER TO HEADS-OF-STATE CONSENSUS
-- 10/29 14:09 [FirstSquawk] BEIJING STRONGLY OBJECTS TO U.S. ADDITION OF CHINESE COMPANIES TO XINJIANG-RELATED ENTITY LIST
-- 10/29 14:09 [FirstSquawk] CHINA COMMERCE MINISTRY CALLS ON U.S. TO HALT XINJIANG-RELATED PRESSURE AND SMEAR CAMPAIGNS AGAINST CHINESE COMPANIES
-- 10/29 14:09 [FirstSquawk] CHINA SAYS IT WILL TAKE FIRM ACTION TO SAFEGUARD ITS INTERESTS AFTER U.S. LISTS CHINESE FIRMS
-- 10/29 14:14 [FirstSquawk] VENEZUELA’S OIL COMEBACK AT RISK AS INDUSTRY STRUGGLES TO FIND WORKERS: FT
-- 10/29 14:24 [FirstSquawk] AUSTRALIAN SHARES GAIN 0.5% AS S&P/ASX 200 SETTLES AT 8,891.80
-- 10/29 14:30 [financialjuice] DUTCH MANUFACTURING CONFIDENCE ACTUAL 2.3 (FORECAST -, PREVIOUS 4.2) $MACRO
-- 10/29 14:32 [financialjuice] South Korea presidential office holds emergency meeting on North Korea missile launch: urges halt - Newsis
-- 10/29 14:40 [financialjuice] North Korea missiles traveled about 250 km: media
-- 10/29 14:50 [FirstSquawk] RBA’S BLUNT COMMUNICATION PROMPTS FRESH QUESTIONS OVER HOW HIGH RATES WILL GO: WSJ
-- 10/29 14:57 [financialjuice] S.Korea spy agency: N.Korea Kim Jong Un visit to China mostly with foreign ministry staff, no key military officials -Yonhap
-- 10/29 14:57 [FirstSquawk] GOLD FALLS FURTHER BELOW $4,050 AMID RISING RATE HIKE EXPECTATIONS AND RENEWED DOLLAR DEMAND: FXS
-- 10/29 14:58 [financialjuice] Drone debris falls on industrial site territory in Russia's Sterlitamak: mayor
-- 10/29 15:01 [financialjuice] S.Korea spy agency: Kim Jong Un's China visit seemed to have additional motive beyond marking China's role in Korean War - Yonhap
-- 10/29 15:02 [financialjuice] S.Korea spy agency: Kim Jong Un may have indicated stance on US-N.Korea talks during China visit - Yonhap
-- 10/29 15:03 [financialjuice] doubles North Sea gas find estimate
-- 10/29 15:03 [financialjuice] S.Korea spy agency: gaps endure between US and N.Korea on dialogue terms - Yonhap
-- 10/29 15:03 [financialjuice] Equinor estimates Afrodite recoverable volumes at 77-180 million barrels of oil equivalent
-- 10/29 15:03 [financialjuice] Equinor doubles recoverable gas volume estimate at Afrodite find near Kvitebjorn field
-- 10/29 15:03 [financialjuice] Equinor: new appraisal well in Afrodite find indicates recoverable gas volumes could be more than double earlier estimates
-- 10/29 15:03 [financialjuice] S.Korea spy agency: situation may shift around Apec - Yonhap
-- 10/29 15:05 [FirstSquawk] SOUTH KOREAN INTELLIGENCE AGENCY WARNS OF POSSIBLE DEVELOPMENTS AROUND APEC: YONHAP
-- 10/29 15:05 [financialjuice] South Korea spy agency confirms North Korea leader Kim Jong Un daughter named Kim Ju Ae - media
-- 10/29 15:14 [FirstSquawk] YEN TRADES FLAT VERSUS THE DOLLAR WITH BOJ POLICY IN FOCUS: FXS
-- 10/29 15:18 [FirstSquawk] EU AND CANADA MOVE TO SOLIDIFY BILATERAL TIES AT TODAY’S MONTREAL SUMMIT: POLITICO
-- 10/29 15:23 [FirstSquawk] RUSSIAN DEFENCE MINISTRY REPORTS 1,214 UKRAINIAN DRONES DOWNED OVERNIGHT
-- 10/29 15:29 [FirstSquawk] NORTH KOREA CARRIES OUT LOUDSPEAKER BROADCAST TESTS AIMED AT SOUTH KOREA: YONHAP
-- 10/29 15:32 [financialjuice] UKMTO gets report of incident 9NM North of Khasab, Oman.
-- 10/29 15:32 [financialjuice] South Korea National Security Advisor: Continuing talks with US on Strait of Hormuz deployment, still considering various options.
-- 10/29 15:33 [FirstSquawk] VESSEL SPOTTED ON FIRE OFF KHASAB, 9 NAUTICAL MILES NORTH IN THE STRAIT OF HORMUZ
-- 10/29 15:37 [FirstSquawk] VOLKSWAGEN MAINTAINS CASH FLOW OUTLOOK DESPITE Q3 REVENUE SHORTFALL AND OPERATING LOSS
 - 10/29 15:41 [FirstSquawk] RUSSIA’S ROSATOM EXPLORES US PARTNERSHIP ON SMALL NUCLEAR POWER PLANTS TO MEET AI DATA CENTRE ENERGY NEEDS – RIA
 - 10/29 15:42 [financialjuice] Russia's Rosatom is discussing with united states possibility of cooperation on small nuclear power plants to supply power to data centres for artificial intelligence - Ria
 - 10/29 16:00 [financialjuice] SWEDISH GDP YOY ADVANCE ACTUAL 2.8% (FORECAST 2.9%, PREVIOUS 3.3%) $MACRO
@@ -288,3 +175,241 @@
 - 10/29 21:45 [financialjuice] Kremlin Aide: If Ukraine launches massive attacks during November 4 celebrations, this could affect Russia's attitude towards the trilateral negotiations - IFX.
 - 10/29 21:45 [DeItaone] KREMLIN AIDE SAYS THAT IF UKRAINE LAUNCHES MASSIVE ATTACKS DURING NOVEMBER 4 CELEBRATIONS, THIS COULD AFFECT RUSSIA’S ATTITUDE TOWARDS THE TRILATERAL NEGOTIATIONS - IFX
 - 10/29 21:46 [financialjuice] Kremlin: Trilateral talks date depends on Ukraine actions - IFX
+- 10/29 21:52 [FirstSquawk] US PCE Supercore (Y/Y) Sep: 3.596% (prev 3.493%) -PCE Supercore (M/M): 0.367% (prev 0.373%)
+- 10/29 22:00 [financialjuice] Effective Fed Funds Rate 3.88% October 28 vs 3.88% October 27.
+- 10/29 22:03 [FirstSquawk] EUR/GBP DROPS TO LOWEST SINCE APRIL 2025
+- 10/29 22:06 [DeItaone] KALSHI HITS $40 BILLION VALUATION AFTER $1 BILLION FUNDING ROUND Prediction-market platform Kalshi has reached a $40 billion valuation after raising $1 billion in a funding round co-led by Wellington and Sequoia. Additional investors includ…
+- 10/29 22:15 [FirstSquawk] ECB INTEREST RATE DECISION (OCT) ACTUAL: 2.65% VS 2.65% PREVIOUS; EST 2.65%
+- 10/29 22:15 [DeItaone] ECB SAYS LEAVES INTEREST RATE ON DEPOSIT FACILITY UNCHANGED AT 2.50% (REUTERS POLL 2.50%)
+- 10/29 22:15 [FirstSquawk] ECB DEPOSIT FACILITY RATE (OCT) ACTUAL: 2.50% VS 2.50% PREVIOUS; EST 2.50%
+- 10/29 22:15 [financialjuice] ❗ ECB INTEREST RATE ACTUAL 2.65% (FORECAST 2.65%, PREVIOUS 2.65%) $MACRO
+- 10/29 22:15 [financialjuice] ‼ BREAKING: ECB DEPOSIT RATE ACTUAL 2.5% (FORECAST 2.5%, PREVIOUS 2.50%) $MACRO
+- 10/29 22:15 [financialjuice] ECB: While full effects of energy shock are still unfolding, underlying inflation has remained broadly stable so far and wages do not show a material response at this stage.
+- 10/29 22:15 [financialjuice] ECB: Energy prices have continued to rise, posing upside risks to inflation outlook and downside risks to growth outlook
+- 10/29 22:15 [financialjuice] ECB: ECB remains well positioned to navigate current elevated uncertainty.
+- 10/29 22:16 [financialjuice] ECB Rate Statement - Read Here
+- 10/29 22:16 [financialjuice] ECB: Will follow a data-dependent and meeting-by-meeting approach to determining appropriate monetary policy stance
+- 10/29 22:16 [DeItaone] 🇪🇺 ECB HOLDS INTEREST RATES STEADY, WARNS OF RISING INFLATION RISKS The European Central Bank kept all three key interest rates unchanged, in line with expectations. 🔸 Deposit Facility: 2.50% 🔸 Main Refinancing Rate: 2.65% 🔸 Marginal Lendin…
+- 10/29 22:16 [financialjuice] ECB: Not pre-committing to a particular rate path
+- 10/29 22:16 [financialjuice] ECB: In particular, ECB’s interest rate decisions will be based on its assessment of inflation outlook and risks surrounding it, in light of incoming economic and financial data, as well as dynamics of underlying economy.
+- 10/29 22:16 [financialjuice] ECB: We stand ready to adjust all of its instruments within its mandate to ensure that inflation stabilises at its 2% target in medium term and to preserve smooth functioning of monetary policy transmission.
+- 10/29 22:17 [financialjuice] ECB: APP and PEPP portfolios are declining at a measured and predictable pace, as euro system no longer reinvests principal payments from maturing security.
+- 10/29 22:17 [financialjuice] ECB: Energy prices have continued to rise, posing upside risks to the inflation outlook and downside risks to the growth outlook.
+- 10/29 22:17 [financialjuice] ECB: We remain well positioned to navigate the current elevated uncertainty.
+- 10/29 22:17 [financialjuice] ❗ ECB: The increased magnitude and duration of the energy shock, as well as the implications for indirect and second-round effects, are likely to drive up inflation and lower growth.
+- 10/29 22:17 [financialjuice] ECB: Financing conditions have tightened since the governing council's last meeting, which is likely to weigh on inflation and growth.
+- 10/29 22:17 [FirstSquawk] ECB SAYS INCREASED ENERGY SHOCK IS LIKELY TO DRIVE UP INFLATION
+- 10/29 22:18 [DeItaone] EURO DIPS AFTER ECB DECISION; LAST DOWN 0.31% AT $1.1118
+- 10/29 22:18 [FirstSquawk/financialjuice] TRADERS PARE ECB RATE HIKE BETS; PRICE 68BPS BY END OF 2027
+- 10/29 22:18 [DeItaone] EURO FALLS 0.4% TO $1.11095, LOWEST SINCE MAY 2025
+- 10/29 22:27 [FirstSquawk] FRENCH GERMAN 10Y YIELD SPREAD NARROWS 4BPS TO 150BPS AFTER ECB DECISION
+- 10/29 22:27 [FirstSquawk] EURO FALLS TO LOWEST SINCE MAY 2025 AFTER ECB DECISION
+- 10/29 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -29.0 MLN NASDAQ 100: -43.8 MLN DOW 30: -47.5 MLN MAG 7: -7.6 MLN $MACRO
+- 10/29 22:32 [FirstSquawk] NASDAQ DOWN 362.53 POINTS, OR 1.37 PERCENT, AT 26,187.32 AFTER MARKET OPEN S&P 500 DOWN 39.78 POINTS, OR 0.51 PERCENT, AT 7,704.20 AFTER MARKET OPEN DOW JONES DOWN 272.87 POINTS, OR 0.52 %, AT 52,202.23 AFTER MARKET OPEN
+- 10/29 22:33 [FirstSquawk] SERVICENOW SHARES SINK 22% IN BIGGEST INTRADAY DROP SINCE 2016
+- 10/29 22:33 [FirstSquawk] ELI LILLY SHARES HIT RECORD HIGH AT THE OPEN ON OUTLOOK RAISE
+- 10/29 22:33 [FirstSquawk/DeItaone] ALPHABET SHARES FALL 13%, SET TO ERASE $489 BILLION IN VALUE
+- 10/29 22:33 [financialjuice] ❗ Alphabet shares fall 13%, set to erase $489 billion in value. $GOOGL
+- 10/29 22:35 [FirstSquawk] FORTINET SHARES PLUNGE 27%, SET FOR WORST DAY ON RECORD
+- 10/29 22:35 [FirstSquawk] CATERPILLAR DROPS 12% AT OPEN, NOW DOWN 40% FROM JUNE RECORD
+- 10/29 22:37 [financialjuice] ECB Press Conference w/ Pres. Lagarde - WATCH LIVE
+- 10/29 22:37 [DeItaone] TRUMP ADMINISTRATION PROMISED TARIFF RELIEF IN TALKS TO SECURE U.S. AUDI FACTORY
+- 10/29 22:38 [FirstSquawk/financialjuice] TRUMP ADMINISTRATION PROMISED TARIFF RELIEF IN TALKS TO SECURE U.S. AUDI FACTORY - WSJ
+- 10/29 22:38 [DeItaone] TRUMP OFFERS TARIFF RELIEF TO AUTOMAKERS INVESTING IN THE US The Trump administration reportedly plans tariff relief for automakers expanding US manufacturing, following talks over Audi's $4 billion Georgia factory, expected to produce up t…
+- 10/29 22:40 [financialjuice] WATCH LIVE: ECB Press Conference 9:45 AM ET
+- 10/29 22:44 [FirstSquawk] ALPHABET SHARES EXTEND DECLINE TO 13.7%, BIGGEST DROP ON RECORD
+- 10/29 22:44 [FirstSquawk] NATO CHIEF RUTTE DISCUSSED BLACK SEA SECURITY WITH ROMANIAN PM
+- 10/29 22:45 [financialjuice] ❗ Gulf oil majors push to expand crude stockpiles in Asia amid Iran war.
+- 10/29 22:45 [financialjuice] WH Sr. Adviser Hassett: Inflation was pretty much right on expectation - Fox Business
+- 10/29 22:46 [financialjuice] WH Sr. Adviser Hassett: GDP is headed toward 4% growth.
+- 10/29 22:47 [financialjuice] French Official: France cuts diesel stock requirements to free supply.
+- 10/29 22:47 [financialjuice] Hassett: Supply side boom putting downward pressure on prices
+- 10/29 22:47 [FirstSquawk] FRANCE CUTS DIESEL STOCK REQUIREMENTS TO FREE SUPPLY: OFFICIAL
+- 10/29 22:47 [financialjuice] ECB's President Lagarde repeats ECB policy statement.
+- 10/29 22:49 [FirstSquawk] HASSETT: TRUMP BELIEVES RATES CAN BE LOWER; TRUMP RESPECTS FED INDEPENDENCE
+- 10/29 22:49 [financialjuice] WH Sr. Adviser Hassett: There's room to let inflation get under control
+- 10/29 22:49 [financialjuice] ECB's Lagarde: Incoming data suggests economy expanding in Q3
+- 10/29 22:50 [financialjuice] ECB President Lagarde: growth to stay supported in near term
+- 10/29 22:50 [financialjuice] ECB President Lagarde: new rise in energy prices dents consumer confidence
+- 10/29 22:51 [financialjuice] ECB President Lagarde: AI investment, government spending need to bolster growth
+- 10/29 22:51 [FirstSquawk] ECB LAGARDE: DATA SUGGEST ECONOMY CONTINUED TO EXPAND IN 3Q
+- 10/29 22:51 [FirstSquawk] LAGARDE: EXPORTS TO PICK UP ON BACK
+- 10/29 22:51 [FirstSquawk] LAGARDE: AI INVESTMENT, PUBLIC SPENDING TO UNDERPIN GROWTH
+- 10/29 22:51 [financialjuice] ECB President Lagarde: exports expected to accelerate on support
+- 10/29 22:51 [financialjuice] ECB President Lagarde: fiscal stability is crucial anchor
+- 10/29 22:52 [financialjuice] ECB President Lagarde: fiscal measures should be temporary, focused, customized
+- 10/29 22:52 [financialjuice] WH Sr. Adviser Hassett ends remarks.
+- 10/29 22:53 [financialjuice] ECB President Lagarde: underlying inflation stayed largely steady
+- 10/29 22:53 [financialjuice] ECB's President Lagarde: Early stages of pricing chain point to upward pressure
+- 10/29 22:53 [financialjuice] ECB President Lagarde: wage pressures stay moderate
+- 10/29 22:54 [financialjuice] ECB President Lagarde: Wage tracker shows 2.5%-2.8% growth in remaining months of 2026
+- 10/29 22:54 [financialjuice] ECB President Lagarde: most gauges of long-term inflation expectations near 2%
+- 10/29 22:54 [financialjuice] ECB President Lagarde: negotiated wage growth to range 2.5%-2.8% for remainder of year
+- 10/29 22:54 [financialjuice] ECB President Lagarde: energy prices have risen beyond baseline
+- 10/29 22:54 [financialjuice] ECB president Lagarde: subsequent drop in energy inflation expected to reduce headline inflation
+- 10/29 22:55 [financialjuice] ECB President Lagarde: growth risks point downward
+- 10/29 22:55 [FirstSquawk] ECB'S LAGARDE: RISKS TO GROWTH ARE TO THE DOWNSIDE
+- 10/29 22:55 [financialjuice] ECB's Lagarde: Worsening of market sentiment could tighten financing conditions, dampen demand.
+- 10/29 22:55 [financialjuice] US Treasury Secretary Bessent: Great GDP number
+- 10/29 22:56 [financialjuice] ECB's Lagarde: Risks to inflation are to the upside.
+- 10/29 22:56 [FirstSquawk] LAGARDE: RISKS TO INFLATION ARE TO THE UPSIDE
+- 10/29 22:57 [financialjuice] ECB's President Lagarde: Fiscal uncertainty may further tighten financial conditions.
+- 10/29 22:58 [financialjuice] ECB's Lagarde: Financial conditions have tightened
+- 10/29 22:58 [financialjuice] ECB President Lagarde: financial conditions have become more stringent since last meeting
+- 10/29 22:58 [DeItaone] HASSETT: THERE'S ROOM TO LET INFLATION GET UNDER CONTROL
+- 10/29 23:00 [DeItaone] HASSETT: TRUMP BELIEVES RATES CAN BE LOWER
+- 10/29 23:00 [FirstSquawk] LAGARDE: FINANCIAL CONDITIONS HAVE TIGHTENED SINCE LAST MEETING
+- 10/29 23:03 [financialjuice] ECB President Lagarde: indirect impact from energy price surge has intensified
+- 10/29 23:03 [financialjuice] ECB President Lagarde: no sign of second-round effects beyond projections
+- 10/29 23:03 [FirstSquawk] LAGARDE: NOT SEEING MATERIAL RISK OF 2ND-ROUND EFFECTS NOW
+- 10/29 23:05 [financialjuice] ECB President Lagarde: cost of long-term borrowing has risen since Sept.
+- 10/29 23:05 [financialjuice] ECB President Lagarde: governing council discussed if increase was suitable
+- 10/29 23:06 [FirstSquawk] ECB'S LAGARDE: COUNCIL DEBATED IF HIKE WOULD BE APPROPRIATE
+- 10/29 23:06 [financialjuice] ECB President Lagarde: measured approach still suitable at this time
+- 10/29 23:06 [financialjuice] ECB President Lagarde: ECB is unanimously seen as well positioned
+- 10/29 23:08 [DeItaone] EU'S VON DER LEYEN: CANADA CANNOT BE A EU MEMBER BECAUSE OF GEOGRAPHY, BUT WE WANT TO TAKE OUR RELATIONSHIP TO THE HIGHEST POSSIBLE LEVEL
+- 10/29 23:08 [financialjuice] ECB President Lagarde: in strong enough position to wait for further data
+- 10/29 23:09 [DeItaone] EU'S VON DER LEYEN: WE ARE DISCUSSING THE IDEA OF ​​CANADA BECOMING THE FIRST ASSOCIATE MEMBER OF THE EU EU'S VON DER LEYEN: IT WILL BE 'ASSOCIATION WITHOUT ACCESSION'
+- 10/29 23:09 [financialjuice] EU's von der Leyen: Canada cannot join EU due to location, but aims to elevate ties to highest level
+- 10/29 23:09 [financialjuice] EU's Von der Leyen: talks under way on Canada as first associate member of EU
+- 10/29 23:09 [FirstSquawk] EU'S VON DER LEYEN: WE ARE DISCUSSING THE IDEA OF ​​CANADA BECOMING THE FIRST ASSOCIATE MEMBER OF THE EU
+- 10/29 23:09 [financialjuice] EU’s Von der Leyen: It will be ‘partnership without membership’
+- 10/29 23:10 [financialjuice] ECB President Lagarde: ECB will probably develop scenarios in December
+- 10/29 23:12 [FirstSquawk] LAGARDE: LONG END OF CURVE HAS RISEN ACROSS THE WORLD
+- 10/29 23:12 [financialjuice] ECB president Lagarde: focus on 10-year and full bond curve
+- 10/29 23:12 [financialjuice] ECB president Lagarde: long end of curve has climbed globally
+- 10/29 23:13 [DeItaone/financialjuice] ECB'S LAGARDE: DEBT ISSUANCE BY HYPERSCALERS PLAYS A ROLE IN YIELD RISE
+- 10/29 23:13 [DeItaone] ECB'S LAGARDE: COUNTRIES WITH HIGH DEBT HAVE TO FACTOR INTO FISCAL POLICY PLAN THAT RATES ARE HIGHER, WILL PROBABLY REMAIN HIGHER
+- 10/29 23:14 [financialjuice] ECB's Lagarde: Countries with high debt have to factor into fiscal policy plans that rates are higher and will probably remain higher
+- 10/29 23:15 [DeItaone] QATARENERGY BUYS US LNG TO HEDGE AGAINST HORMUZ DISRUPTIONS QatarEnergy plans to secure over 7 million tons of LNG annually through new supply deals, including potential agreements with Venture Global ($VG). The strategy aims to profit from…
+- 10/29 23:15 [financialjuice] QatarEnergy CEO: Qatar Buying US LNG as Hedge Against Hormuz Disruptions, Expects More Long-Term Deals by End-2026, Target "Much Higher" Than 7 MTPA
+- 10/29 23:15 [FirstSquawk] LAGARDE: ECB HAS TOOLS TO ADDRESS TRANSMISSION DISRUPTIONS
+- 10/29 23:16 [DeItaone] QATARENERGY CEO SAYS HAS MET IRANIAN ACTING PETROLEUM MINISTER TWICE IN PAST TWO WEEKS, EXPLORING POST-WAR COOPERATION IN OIL AND GAS
+- 10/29 23:16 [DeItaone] LAGARDE: THE DIRECTION OF TRAVEL ON RATES IS QUITE CLEAR TO ALL OF US
+- 10/29 23:16 [financialjuice] ECB president Lagarde: direction of travel fairly clear for all of us
+- 10/29 23:16 [financialjuice] QatarEnergy CEO: Has met Iranian Acting Petroleum Minister twice in past two weeks, exploring postwar cooperation in oil and gas
+- 10/29 23:17 [financialjuice] ECB's Lagarde: We have no plan to restrict the number of meetings
+- 10/29 23:17 [FirstSquawk] ECB LAGARDE: ECB'S DIRECTION OF TRAVEL QUITE CLEAR UNLESS SURPRISE
+- 10/29 23:17 [financialjuice] Crypto Fear & Greed Index: 51/100 - Neutral
+- 10/29 23:18 [financialjuice] Fear & Greed Index: 35/100 - Fear
+- 10/29 23:19 [financialjuice] EU's von der Leyen: EU and Canada to create unified space for strategic supply chains
+- 10/29 23:19 [financialjuice] EU's von der Leyen: this implies combined or supplementary investment, including private funding on both sides
+- 10/29 23:20 [FirstSquawk] QATARENERGY IS SECURING LONG-TERM US AND OTHER LNG SUPPLIES TO HEDGE AGAINST FUTURE HORMUZ DISRUPTIONS, CAPTURE POTENTIAL PRICE SPIKES WITH MINIMAL INVESTMENT, AND EXPAND PURCHASES WELL BEYOND 7 MILLION TONNES ANNUALLY BY END-2026, WHILE RU…
+- 10/29 23:22 [financialjuice] Offending oil tanker collides with sea mines, damaged, catches fire and is stopped - IRIB News
+- 10/29 23:23 [financialjuice] Before noon today, a delinquent oil tanker traveling in the forbidden and unsafe area in the east of the Strait of Hormuz was damaged and caught fire due to collision with sea mines and stopped moving - IRIB News
+- 10/29 23:23 [FirstSquawk] IRAN CLAIMS OIL TANKER HIT MINE IN HORMUZ THURS. MORNING: IRIB
+- 10/29 23:28 [financialjuice] ECB President Lagarde: no shift in approach on bond repayments
+- 10/29 23:28 [financialjuice] ECB President Lagarde: quantitative tightening is progressing mechanically
+- 10/29 23:29 [financialjuice] ECB President Lagarde: no plan to readjust
+- 10/29 23:29 [DeItaone] ECB'S LAGARDE: I'M STEPPING DOWN EARLY TO HAVE FREEDOM OF EXPRESSION ON MATTERS THAT ARE NOT MONETARY
+- 10/29 23:30 [financialjuice] EIA NATURAL GAS CHANGE BCF ACTUAL 80B (FORECAST 72B, PREVIOUS 77B) $MACRO
+- 10/29 23:30 [FirstSquawk] US NATURAL GAS STORAGE ACTUAL: 80 VS 77 PREVIOUS; EST 71.63
+- 10/29 23:31 [financialjuice] EIA Natural Gas Report
+- 10/29 23:31 [DeItaone] ECB'S LAGARDE: AS ECB PRESIDENT WE HAVE OBLIGATION OF NEUTRALITY ECB'S LAGARDE: AT THIS TIME, IN RELATION TO MANY CORNERS OF THE WORLD, MY VOICE CAN HELP WITH PRINCIPLES DEAR TO MY HEART
+- 10/29 23:32 [financialjuice] ECB's President Lagarde concludes press conference.
+- 10/29 23:36 [FirstSquawk] VENEZUELA'S RODRIGUEZ MAKE ADDRESS TO NATION AT 11 AM LOCAL TIME
+- 10/29 23:37 [financialjuice] WATCH LIVE: Trump Speaks
+- 10/29 23:37 [FirstSquawk] TRUMP: GREAT MORNING FROM STANDPOINT OF GDP
+- 10/29 23:39 [financialjuice] WH Sr. Adviser Hassett: If Oct. inflation is really high, Fed probably to act.
+- 10/29 23:40 [financialjuice] WATCH LIVE: WH Sr. Adviser Hassett Speaks
+- 10/29 23:40 [FirstSquawk] IRAN HASN'T YET REPLIED TO VANCE LETTER: TASNIM
+- 10/29 23:41 [financialjuice] Iran hasn't yet replied to Vance's letter - Tasnim
+- 10/29 23:41 [DeItaone] IRAN'S TANSIM NEWS AGENCY SAYS IRAN RECEIVED A LETTER FROM US VICE PRESIDENT JD VANCE, HAS NOT RESPONDED TO IT
+- 10/29 23:41 [FirstSquawk] IRAN HAS RECEIVED VANCE LETTER: TASNIM
+- 10/29 23:41 [financialjuice] Iran's Tansim news agency: Iran received letter from US Vice President JD Vance, has not replied
+- 10/29 23:42 [financialjuice] Iran insists on its seven conditions being met by US, any position that contradicts this framework is unacceptable - Tasnim News
+- 10/29 23:43 [financialjuice] Trump concludes remarks
+- 10/29 23:46 [FirstSquawk] HASSETT: OCT CPI, PCE DATA SHOULD MAKE CLEAR WHAT FED SHOULD DO
+- 10/29 23:57 [FirstSquawk] ADIDAS CEO: KEPT Q4 REVENUE GUIDANCE BETWEEN 9% - 10%, BUT THERE MIGHT BE UPSIDE
+- 10/30 00:02 [FirstSquawk] NETHERLANDS RELEASES FINAL 700K BBLS OF OIL PRODUCTS TO MARKET
+- 10/30 00:05 [DeItaone] SHAREHOLDERS APPROVE MERGER BETWEEN SILVER47 AND BUNKER HILL. TRANSACTION EXPECTED TO CLOSE NOV 5 2026.
+- 10/30 00:05 [DeItaone] MICROSOFT SHARES REVERSE COURSE, LAST DOWN 1.3%
+- 10/30 00:12 [FirstSquawk] MONTE DEI PASCHI SHAREHOLDERS REJECT EXCHANGE OFFER TO ACQUIRE BANCA GENERALI
+- 10/30 00:17 [FirstSquawk] US: NORTH KOREA LAUNCHED TWO BALLISTIC MISSILES ON OCT.29
+- 10/30 00:21 [DeItaone/FirstSquawk] EUROPE WILL REQUIRE AN ADDITIONAL 69 MILLION METRIC TONS OF LNG DURING THIS WINTER AND MUST PULL CARGOES FROM ASIA, SAYS CHENIERE'S CHIEF COMMERCIAL OFFICER, ANATOL FEYGIN
+- 10/30 00:23 [DeItaone] FEDERAL COMMUNICATIONS COMMISSION VOTES TO BAN ALL CHINESE LABS FROM TESTING US ELECTRONICS STARTING IN DECEMBER 2028
+- 10/30 00:27 [DeItaone] 🇪🇺 ECB POLICYMAKERS SEE DEC RATE HIKE FOLLOWED BY PAUSE: SOURCES NEW ECB STAFF ESTIMATES SHOW BOND YIELD RISE CUTTING GROWTH BY CUMULATIVE 100 BPS, INFLATION BY 90 BPS IN 2027-28 VS SEPT BASELINE: SOURCES
+- 10/30 00:33 [DeItaone] SITUATIONAL AWARENESS SEEKS TO RAISE MONEY TO BET ON FLUIDSTACK FUNDING ROUND WOULD VALUE NEOCLOUD FLUIDSTACK AT $40 BILLION
+- 10/30 00:33 [DeItaone] ECB OFFICIALS EXPECT DECEMBER RATE HIKE, THEN PAUSE ECB policymakers expect a 25-basis-point rate hike on December 17, lifting the deposit rate from 2.50% to 2.75%, according to three sources cited by Reuters. The hike is considered nearly …
+- 10/30 00:33 [financialjuice] US 4-Week Bill Auction High Yield 3.91% Bid-to-Cover Ratio 3.1 Sells $115 bln Awards 16.96% of bids at high
+- 10/30 00:34 [financialjuice] ❗ New ECB staff estimates show bond yield rise cutting growth by cumulative 100 BPS, inflation by 90 BPS in 2027-28 vs Sept baseline - sources
+- 10/30 00:34 [financialjuice] US 4-WEEK BILL BID-TO-COVER ACTUAL 3.1 (FORECAST -, PREVIOUS 2.820) $MACRO
+- 10/30 00:34 [financialjuice] US 4-WEEK BILL HIGH YIELD ACTUAL 3.91% (FORECAST -, PREVIOUS 3.945%) $MACRO
+- 10/30 00:35 [FirstSquawk/financialjuice] ECB OFFICIALS ARE READY TO RAISE INTEREST RATES IN DECEMBER
+- 10/30 00:45 [DeItaone] RUSSIA SET TO EXTEND DIESEL EXPORT BAN UNTIL THE END OF THE YEAR, SOURCES SAY
+- 10/30 00:46 [financialjuice] ❗ Russia set to extend diesel export ban until the end of the year - Sources.
+- 10/30 00:46 [DeItaone] RUSSIA USES QUOTA EXPORT SYSTEM FOR INDIVIDUAL COMPANIES TO FULFIL ITS US OBLIGATIONS, SOURCES SAY
+- 10/30 00:59 [FirstSquawk] SAILBOAT SINKS AFTER SECURITY INCIDENT NEAR OMAN - UKMTO
+- 10/30 01:00 [financialjuice] US 30-yr fixed rate mortgage averages 7.24% in Oct 29 week vs 7.32% prior week - Freddie Mac
+- 10/30 01:01 [DeItaone] US MORTGAGE RATES FALL FOR SECOND STRAIGHT WEEK The average 30-year fixed mortgage rate dropped to 7.24%, down from 7.32% last week and 7.40% two weeks ago, according to Freddie Mac. The decline follows a retreat in 10-year Treasury yields,…
+- 10/30 01:04 [FirstSquawk] OPENAI EXPANDS AI MISALIGNMENT MONITORS FOR ALL FRONTIER MODELS
+- 10/30 01:18 [FirstSquawk] CARNEY: NAME OF NEW CANADA-EU ALLIANCE 'DOESN'T MATTER'
+- 10/30 01:20 [financialjuice] UK October long-term public inflation expectations 4.0% vs 4.3% in September - Citi YouGov
+- 10/30 01:20 [financialjuice] UK October year-ahead public inflation expectations 4.2% vs 4.5% in September - Citi/YouGov
+- 10/30 01:20 [DeItaone] MICROSOFT EXPECTS TO RAISE ABOUT $25 BILLION IN US BOND SALE - SOURCE
+- 10/30 01:21 [financialjuice] ❗ Microsoft expects to raise about $25 bln in US bond sale - source. $MSFT
+- 10/30 01:22 [FirstSquawk] UK YEAR-AHEAD CPI EXPECTATIONS FALL TO 4.2% FROM 4.5%: CITI
+- 10/30 01:35 [DeItaone] $CVX - CHEVRON EXPANDS GLOBAL OIL EXPLORATION AS PROFITS SURGE Chevron is accelerating oil and gas exploration in Africa, South America and the Mediterranean, supported by soaring energy profits following the Iran war. 🔸 50% of exploration …
+- 10/30 01:36 [FirstSquawk] CHEVRON IS BACK TO SEARCHING FOR OIL AND GAS IN FAR-FLUNG PLACES – WSJ
+- 10/30 01:36 [DeItaone/financialjuice] EU COMMISSIONER JORGENSEN: WE DO NOT EXPECT SECURITY OF OIL, GAS SUPPLY, BUT CITIZENS STRUGGLING TO PAY BILLS
+- 10/30 01:37 [FirstSquawk] AUDI TO HOLD SUPERVISORY BOARD MEETING FRIDAY: DPA
+- 10/30 01:37 [financialjuice] EU Commissioner Jorgensen: EU member states have reaffirmed their commitment to an accelerated release of 42.6 million barrels
+- 10/30 01:38 [financialjuice] EU Commissioner Jorgensen: Half of oil stock releases in coming months will be diesel.
+- 10/30 01:45 [financialjuice] Fed bids for 7-Year notes total $4.9 bln
+- 10/30 01:59 [FirstSquawk] US PRESIDENT TRUMP IS SCRAPPING A PLANNED TRIP TO KANSAS THIS WEEKEND – CNN
+- 10/30 02:00 [FirstSquawk] SAUDI CIVIL DEFENCE: “A WARNING HAS BEEN ISSUED BY THE NATIONAL EARLY WARNING PLATFORM IN NAJRAN”
+- 10/30 02:00 [FirstSquawk] UK WELFARE BILL WILL NOT COME DOWN THIS PARL’T
+- 10/30 02:00 [financialjuice] Treasury WI 7y yield 4.894% before $44 billion auction
+- 10/30 02:00 [FirstSquawk] RIO TINTO'S OYU TOLGOI MINE SUSPENDED UNDERGROUND OPERATIONS
+- 10/30 02:02 [financialjuice] US 7-YEAR HIGH YIELD ACTUAL 4.894% (FORECAST -, PREVIOUS 5.085%) $MACRO
+- 10/30 02:02 [financialjuice] US 7-YEAR BID-TO-COVER ACTUAL 2.460 (FORECAST -, PREVIOUS 2.420) $MACRO
+- 10/30 02:03 [financialjuice] US 7-Yr Note Auction High Yield 4.894% [On the screws] Bid-to-Cover 2.46 Sells $44 bln Awards 63.94% of bids at high Primary dealers take 9.41% Direct 32.82% Indirect 57.77%
+- 10/30 02:04 [FirstSquawk] SAUDI CIVIL DEFENCE: THE DANGER HAS PASSED IN NAJRAN CITY
+- 10/30 02:04 [financialjuice/FirstSquawk] Yemeni army has targeted the Aramco oil company in widespread wave of missile attacks - Fars News
+- 10/30 02:13 [DeItaone] FRENCH INTERIOR MINISTER: THERE HAVE BEEN MANY CALLS ON SOCIAL MEDIA COMING FROM THE ULTRA-LEFT FOR VIOLENT GATHERINGS FOR SATURDAY OCTOBER 31 IN FRANCE
+- 10/30 02:15 [financialjuice/FirstSquawk] French Interior Minister: We will mobilise 70,000 security forces to maintain order during October 31st protests in France
+- 10/30 02:16 [financialjuice] Apple cuts Taiwan app store commission rate to 26%. $AAPL
+- 10/30 02:16 [financialjuice/FirstSquawk] Nvidia: Huang interactions with MegasPeed not unusual - CNBC
+- 10/30 02:23 [financialjuice] WATCH LIVE: Trump Speaks at Rally
+- 10/30 02:27 [DeItaone] TRUMP: FED HATES TO CUT INTEREST RATES
+- 10/30 02:32 [financialjuice] Exxon and Chevron cancel plans for their executives to travel to UAE's oil conference ADIPEC next week on security ground - two sources. $XOM $CVX
+- 10/30 02:32 [DeItaone] IRAN'S PARLIAMENT SPEAKER QALIBAF: IRAN’S CONDITIONS HAVE BEEN REPEATEDLY AND CLEARLY STATED TO THE MEDIATORS
+- 10/30 02:33 [DeItaone] IRAN'S QALIBAF: PROGRESS CAN ONLY BE ACHIEVED ONCE IRAN’S SEVEN CONDITIONS HAVE BEEN AGREED UPON
+- 10/30 02:33 [financialjuice] Iran's Parliament Speaker Ghalibaf: Iran's conditions have been repeatedly and clearly stated to the mediators
+- 10/30 02:33 [financialjuice] Iran's Parliament Speaker Ghalibaf: Progress can only be achieved once Iran’s seven conditions have been agreed upon
+- 10/30 02:35 [financialjuice/FirstSquawk] Netanyahu's bloc leads in final vote count - Israel's N12 News
+- 10/30 02:40 [DeItaone] DALLAS FED'S TRIMMED MEAN PCE PRICE INDEX +2.8% ANNUALIZED IN SEPTEMBER VS AUGUST +2.0%
+- 10/30 02:47 [DeItaone] PUTIN ON HIS CALL WITH LEADERS OF NORWAY, FINLAND: WE SUPPORT ANY STEPS TO RESTORE RELATIONS WITH EUROPEAN COUNTRIES PUTIN: WE ARE PREPARED FOR WAR, BUT WE DO NOT WANT ANY WAR
+- 10/30 02:47 [DeItaone] TRUMP SAYS US MILITARY OPERATIONS AGAINST IRAN ARE GOING VERY WELL
+- 10/30 02:47 [financialjuice] Putin: We are prepared for war, but we do not want any war
+- 10/30 02:48 [financialjuice/DeItaone/FirstSquawk] Trump reiterates Iran will be over very soon
+- 10/30 02:48 [DeItaone] PUTIN: IF THINGS GO TOO FAR, THERE WILL BE NO WINNERS
+- 10/30 02:49 [DeItaone/financialjuice] PUTIN: WE DO NOT WANT A SITUATION LIKE THAT IN THE STRAIT OF HORMUZ TO OCCUR IN BALTIC SEA
+- 10/30 02:50 [DeItaone] TRUMP SAYS US HAD TO ATTACK IRAN TO PREVENT IT FROM ACQUIRING NUCLEAR WEAPON
+- 10/30 02:52 [DeItaone] PUTIN SAYS MANY IN EUROPE PREPARING FOR WAR WITH RUSSIA BY 2030 PUTIN SAYS RUSSIA READY FOR WAR WITH EUROPE BUT DOES NOT WANT ONE
+- 10/30 02:55 [financialjuice] UKMTO receives report of incident in Strait of Hormuz
+- 10/30 02:55 [FirstSquawk] EXXON AND CHEVRON CANCEL PLANS FOR THEIR EXECUTIVES TO TRAVEL TO UAE'S OIL CONFERENCE ADIPEC NEXT WEEK ON SECURITY GROUND - TWO SOURCES.
+- 10/30 02:55 [financialjuice] UKMTO: Company security officer has informed UKMTO that their tanker has been struck by unknown projectile whilst completing outbound transit of Strait of Hormuz.
+- 10/30 02:57 [FirstSquawk] RUSSIA’S PUTIN, ON A CALL WITH NORWAY AND FINLAND LEADERS, SAYS RUSSIA SUPPORTS ANY STEPS TO RESTORE EUROPEAN RELATIONS, THOUGH THEY IMMEDIATELY SAID THEY DID NOT REPRESENT THE EU
+- 10/30 02:57 [FirstSquawk] RUSSIA’S PUTIN SAYS RUSSIA IS PREPARED FOR WAR BUT DOES NOT WANT ANY WAR, WARNING THAT “IF THINGS GO TOO FAR, THERE WILL BE NO WINNERS”
+- 10/30 03:00 [FirstSquawk] UKMTO SAYS IT HAS RECEIVED A REPORT OF AN INCIDENT IN THE STRAIT OF HORMUZ, WITH A COMPANY SECURITY OFFICER INFORMING IT THAT THEIR TANKER WAS STRUCK BY AN UNKNOWN PROJECTILE WHILE COMPLETING AN OUTBOUND TRANSIT OF THE STRAIT
+- 10/30 03:00 [FirstSquawk] UKMTO SAYS THERE ARE NO REPORTED INJURIES TO THE CREW OR ENVIRONMENTAL IMPACT AT THIS TIME
+- 10/30 03:02 [FirstSquawk] TOYOTA, HONDA, NISSAN SLASH CHINA OUTPUT AS GASOLINE CAR MARKET SHRINKS – NIKKEI
+- 10/30 03:02 [FirstSquawk] VENEZUELA OPPOSITION LEADER MACHADO: US WILL HAVE A LONG-TERM ROLE IN VENEZUELA
+- 10/30 03:06 [FirstSquawk] ONTARIO SEES AN FY26-27 DEFICIT OF C$16.9 BLN VERSUS A C$13.8 BLN BUDGET AND DELAYS A BALANCED BUDGET UNTIL 2029-30 ON LOWER GROWTH, WITH FY27 LONG-TERM BORROWING SEEN AT C$51.1 BLN VERSUS A BUDGET OF C$47.2 BLN
+- 10/30 03:06 [FirstSquawk] ONTARIO PROJECTS GDP GROWTH OF 0.5% IN 2026 AND 1.5% IN 2027, DOWN FROM MARCH FORECASTS OF 1% AND 1.7% RESPECTIVELY
+- 10/30 03:09 [FirstSquawk] APPLE CUTS TAIWAN APP STORE COMMISSION RATE TO 26%.
+- 10/30 03:12 [financialjuice] Trump: Canada has been treating us nicely lately.
+- 10/30 03:13 [FirstSquawk] US PRESIDENT TRUMP: CANADA HAS BEEN TREATING US NICELY LATELY
+- 10/30 03:14 [DeItaone] TRUMP REITERATES GULF OF MEXICO RENAMED GULF OF AMERICA TRUMP FLOATS RENAMING STRAIT OF HORMUZ AS TRUMP STRAIT
+- 10/30 03:22 [DeItaone] TRUMP SAYS US WORKING WITH VENEZUELA TO PRODUCE MILLIONS OF BARRELS OF OIL FOR US
+- 10/30 03:31 [DeItaone] TRUMP PROMISES $5,000 PAYMENT TO EVERY ADULT US CITIZEN IF REPUBLICANS WIN HOUSE, SENATE TRUMP ESTIMATES $5,000 DIVIDEND WOULD COST ABOUT $1 TRILLION, SAYS TARIFF REVENUE WOULD HELP FUND IT TRUMP SAYS PROPOSED $5,000 PAYMENTS MUST BE SPENT …
+- 10/30 03:31 [DeItaone] TRUMP WARNS DEMOCRATIC MIDTERM VICTORY WOULD TRIGGER 1929-STYLE ECONOMIC DEPRESSION
+- 10/30 03:31 [DeItaone] TRUMP PREDICTS OIL, GASOLINE PRICES WILL FALL SHARPLY
+- 10/30 03:31 [financialjuice] NYMEX WTI Crude December futures settle at $102.00 a barrel, down 78 cents, 0.76%.
+- 10/30 03:31 [financialjuice] NYMEX Gasoline November futures settle at $3.1850 a gallon.
+- 10/30 03:31 [financialjuice] NYMEX Diesel November futures settle at $4.7360 a gallon.
+- 10/30 03:32 [financialjuice] NYMEX Natural Gas December futures settle at $2.9520/MMBtu.
+- 10/30 03:34 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 0.76% LOWER AT $102.00/BBL, DOWN 78 CENTS
+- 10/30 03:37 [FirstSquawk] POLYMARKET SAYS IT HAS IDENTIFIED AND FIXED AN ISSUE IMPACTING ITS INTERNATIONAL PLATFORM, https://t.co/Ct6z1vfupE , AFTER ONE OF ITS THIRD-PARTY PROVIDERS WAS COMPROMISED, AND HAS REFERRED THE MATTER TO RELEVANT LAW ENFORCEMENT
+- 10/30 03:37 [FirstSquawk] POLYMARKET SAYS ANYONE IMPACTED WILL BE MADE WHOLE, AND THAT OUT OF AN ABUNDANCE OF CAUTION IT HAS TEMPORARILY HALTED TRADING AND IS WORKING TO BRING THE PLATFORM BACK ONLINE

@@ -7,351 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-29 21:49 JST／対象: 10/28 21:49 〜 10/29 21:49 JST（時刻はすべて日本時間）
+生成: 2026-10-30 03:41 JST／対象: 10/29 03:41 〜 10/30 03:41 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 76 | 10/28 22:05 | 10/29 21:45 | ⚠ 803分（06:14→19:38） |
-| FirstSquawk | 394 | 10/28 21:52 | 10/29 21:42 | ⚠ 52分（05:59→06:52） |
-| financialjuice | 426 | 10/28 21:49 | 10/29 21:46 | ⚠ 95分（07:14→08:50） |
+| DeItaone | 84 | 10/29 03:42 | 10/30 03:31 | ⚠ 803分（06:14→19:38） |
+| FirstSquawk | 363 | 10/29 03:41 | 10/30 03:37 | ⚠ 52分（05:59→06:52） |
+| financialjuice | 358 | 10/29 03:41 | 10/30 03:32 | ⚠ 95分（07:14→08:50） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 872 行（統合前 903 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 782 行（統合前 807 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/28 21:49 [financialjuice] UK's Chancellor Healey: For 20 mln households will give £100 payment for energy.
-- 10/28 21:49 [financialjuice] UK's Chancellor Healey: Scheme will cost £2.6 bln
-- 10/28 21:51 [financialjuice] UK's Chancellor Healey: Suspending tariffs on over 100 supermarket products
-- 10/28 21:51 [financialjuice] UK's Chancellor Healey: New pension tax allowance.
-- 10/28 21:51 [financialjuice] UK Finance Minister Healey: Will exempt pensioners with income up to the value of the state pension from income tax
-- 10/28 21:52 [financialjuice] UK's Chancellor Healey: Increasing national living wage 3.9%
-- 10/28 21:52 [FirstSquawk] UK NET FINANCIAL DEBT FORECAST TO REACH 83.1% OF GDP IN 2029–30
-- 10/28 21:52 [FirstSquawk] OBR PROJECTS DEBT-TO-GDP RATIO TO EASE TO 82.3% BY 2030–31
-- 10/28 21:52 [FirstSquawk] UK BORROWING FORECAST FOR 2026–27 RAISED TO 4.2% OF GDP FROM 3.6%
-- 10/28 21:52 [FirstSquawk] OBR RAISES 2027–28 BORROWING FORECAST TO 3.4% OF GDP FROM 2.9%, SEES DEFICIT FALLING TO 1.8% BY 2031–32
-- 10/28 21:53 [financialjuice] Russian Foreign Minister Lavrov to visit Atlanta October 30-31st for G20 meeting - IFX
-- 10/28 21:54 [financialjuice] UK's Chancellor Healey: To raise threshold for small business rate relief
-- 10/28 21:54 [FirstSquawk] SPAIN SAYS AT LEAST 64 DEAD IN HIGH-SPEED TRAIN CRASH
-- 10/28 21:54 [financialjuice] UK's Chancellor Healey: Business rates will increase threshold for rate relief for small shops, hospitality and entertainment businesses to £18,000
-- 10/28 21:55 [financialjuice] UK OBR GDP Related Forecasts UK OBR sees 2026 GDP growth at 1.2%; previously forecast 1.1%. UK OBR sees 2027 GDP growth at 1.0%; previously forecast 1.6%. UK OBR sees government borrowing at 4.2% of GDP in 2026/27; previously forecast 3.6%.…
-- 10/28 21:56 [FirstSquawk] UK RAISES DUTY ON GAMING MACHINES TO 25% FROM 20%
-- 10/28 21:56 [FirstSquawk] HEALEY: RAISING TAXES ON GAMBLING
-- 10/28 21:58 [financialjuice] UK's Chancellor Healey: We are cutting threshold for business asset disposal relief.
-- 10/28 21:58 [financialjuice] UK's Chancellor Healey: Increasing rates on tax from income, property, and savings
-- 10/28 21:58 [financialjuice] UK's Chancellor Healey: Won't go ahead with cash isa change.
-- 10/28 21:58 [FirstSquawk] HEALEY: RISING RATES ON INCOME FROM PROP., SAVINGS 2PPT
-- 10/28 21:58 [FirstSquawk] HEALEY: WON'T GO AHEAD WITH CASH ISA CHANGE; LIMIT TO CASH ISA TO STAY AT £20K FOR PEOPLE OF ALL AGE
-- 10/28 21:58 [financialjuice] UK's Chancellor Healey: Limit to cash ISA to stay at £20k for people of all ages
-- 10/28 21:59 [financialjuice] UK's Chancellor Healey: Banks will pay extra 3% on bank surcharge.
-- 10/28 22:00 [financialjuice] Effective fed funds rate 3.88% October 27th vs 3.88% October 26th
-- 10/28 22:01 [FirstSquawk] UK TO INCREASE BANK SURCHARGE TO 6% FROM 3%
-- 10/28 22:01 [financialjuice] UK's Chancellor Healey: £20.4b for national wealth fund.
-- 10/28 22:04 [FirstSquawk] HEALEY: £20.4B FOR NATIONAL WEALTH FUND
-- 10/28 22:04 [financialjuice] UK's Chancellor Healey: There is a new deal for data centres.
-- 10/28 22:04 [financialjuice] UK's Chancellor Healey: There is a new British data centre covenant
-- 10/28 22:05 [DeItaone] FED PAUSE TODAY. TWO MORE HIKES AHEAD? UBS expects two additional Fed rate hikes by mid-2027, yet sees the S&P 500 reaching 8,400 by June. For today’s decision, Kalshi traders price a 95% chance of unchanged rates, versus just 6% for a hike…
-- 10/28 22:05 [financialjuice] UK's Chancellor Healey: Data centers must invest in local communities
-- 10/28 22:05 [financialjuice] Fitch Ratings: Spacex's 'bbb+' rating unchanged by GPU lease transaction.
-- 10/28 22:05 [FirstSquawk] HEALEY: ROLLS-ROYCE TO DEVELOP NEXT GEN TURBINE ENGINE IN UK
-- 10/28 22:05 [FirstSquawk] HEALEY: BANK SURCHARGE ADDITION TO START IN JAN.; BANKS SURCHANGE CHANGE FROM JAN, ENDING 15 MONTHS LATER; BANK EXTRA SURCHARGE WILL BE TIME LIMITED
-- 10/28 22:06 [financialjuice] UK's Chancellor Healey: Reforming skilled worker visas and non-compete clauses.
-- 10/28 22:07 [FirstSquawk] UK HEALEY: ANNOUNCING FOUNDERS RELIEF, IN CAP GAINS TAX
-- 10/28 22:08 [DeItaone] DROPBOX TO CUT GLOBAL WORKFORCE BY ABOUT 9% $DBX
-- 10/28 22:09 [DeItaone] WOLFE RESEARCH SEES STRONG UPSIDE FOR SK HYNIX Wolfe Research reiterated its Outperform rating on SK Hynix ($SKHY ) with a $250 price target, citing strong demand for high-bandwidth memory (HBM) used in AI infrastructure. Analyst Chris Caso…
-- 10/28 22:09 [financialjuice] UK's Chancellor Healey: We are to hold next International Investment Summit in Spring.
-- 10/28 22:11 [FirstSquawk] HEALEY: TO HOLD NEXT INTL INVESTMENT SUMMIT IN SPRING
-- 10/28 22:12 [FirstSquawk] HEALEY: 100% BUSINESS RATES TO BE RETAINED LOCALLY BY DECADE EN
-- 10/28 22:13 [financialjuice] UK's Chancellor Healey: Taking steps to devolve tax revenues.
-- 10/28 22:13 [financialjuice] UK's Healey: 100% of business rates will be retained by local authorities by the end of the decade
-- 10/28 22:14 [DeItaone] PUTIN: ELON MUSK IS A BRILLIANT PERSON
-- 10/28 22:15 [financialjuice] UK's Chancellor Healey: Fully funding defence investment plan
-- 10/28 22:15 [financialjuice] UK's Chancellor Healey: We will fully fund defense investment plan.
-- 10/28 22:19 [financialjuice] UK's Chancellor Healey: Triple lock changes to save £50b by 2050.
-- 10/28 22:19 [financialjuice] UK's Chancellor Healey: Double lock on pensions will save £15b.
-- 10/28 22:21 [financialjuice] UK's Chancellor Healey: We will set out how to meet NATO defence commitment
-- 10/28 22:23 [FirstSquawk] HEALEY: DOUBLE LOCK ON PENSIONS WILL SAVE £15B
-- 10/28 22:23 [FirstSquawk] HEALEY: TRIPLE LOCK CHANGES TO SAVE £50B BY 2050
-- 10/28 22:23 [FirstSquawk] UK HEALEY: £10B MORE SUPPORT FOR UKRAINE
-- 10/28 22:26 [financialjuice] UK's Chancellor Healey: £1.5b for social, affordable housing programme.
-- 10/28 22:27 [financialjuice] UK's Chancellor Healey: First-time buyer ISA to replace lifetime ISA
-- 10/28 22:27 [financialjuice] UK's Chancellor Healey: "Your first home" to get £4.7b funding.
-- 10/28 22:28 [FirstSquawk] HEALEY SAYS TARGET IS FOR 3% OF GDP ON UK DEFENSE IN 2030
-- 10/28 22:28 [FirstSquawk] HEALEY: TOTAL GOVT COMMITMENT BACKING COUNCIL HOMES TO £40B
-- 10/28 22:28 [FirstSquawk] HEALEY: ALL LAND SOLD TO SOCIAL HOUSING PROVIDERS VAT FREE
-- 10/28 22:29 [FirstSquawk] HEALEY: DECISIONS TAKEN TODAY WILL HELP STEER BRITAIN THROUGH
-- 10/28 22:29 [DeItaone] PUTIN CALLS ELON MUSK A “TRUE GENIUS” AS RUSSIA DEVELOPS STARLINK RIVAL Russian President Vladimir Putin praised Elon Musk as “a true genius” during the Russia-Africa Summit in Moscow, highlighting SpaceX’s achievements in satellite communi…
-- 10/28 22:30 [financialjuice] UK DMO: Gross gilt issuance planned for 2026/27 is £250.6 bln (poll: £249.6 bln; dmo april remit: £246.2 bln).
-- 10/28 22:30 [financialjuice] World Bank expects global oil supply to fall 5.2% in 2026, biggest drop in more than 4 decades outside the 2020 global recession
-- 10/28 22:31 [FirstSquawk] UK PLANS £250.6 BILLION GILT SALES IN 2026-27; EST. £249.2B
-- 10/28 22:31 [financialjuice/FirstSquawk] World Bank: Overall commodity prices to surge 23% in 2026 due to global shocks before declining by 7% in 2027
-- 10/28 22:31 [financialjuice/FirstSquawk] World Bank: Any escalation in the Middle East conflict, continued damage to Russian oil infrastructure, could further boost energy prices
-- 10/28 22:31 [financialjuice] World Bank: Adverse scenario could see energy and food commodity prices surge, driving global inflation higher.
-- 10/28 22:31 [financialjuice/FirstSquawk] World Bank sees metals prices rising 25% to a new high in 2026, with aluminum, copper, and tin all hitting record levels
-- 10/28 22:31 [financialjuice] World Bank: Precious metals prices to jump 40% in 2026 due to elevated demand for safe-haven assets, some moderation seen in 2027.
-- 10/28 22:32 [financialjuice] World Bank: 25 countries have received $8.7 billion in support to deal with fiscal pressures and the impacts of the Iran war
-- 10/28 22:32 [financialjuice] UK's OBR: The outlook for the economy and public finances is uncertain, with significantly better or worse outcomes of broadly equal probability.
-- 10/28 22:32 [financialjuice] UK DMO: To sell £12.5 bln of long-dated conventional gilts via syndication in 2026/27 (april remit: £15 bln).
-- 10/28 22:32 [financialjuice] UK DMO: To sell £15.6 bln of index-linked gilts via auction in 2026/27 (April remit £15bln)
-- 10/28 22:32 [financialjuice] UK DMO: to sell £7.8 bln of index-linked gilts via syndication in 2026/27 (April remit: £7 bln).
-- 10/28 22:32 [financialjuice] UK OBR: Significantly better or worse outcomes for public finances and economy of broadly equal probability
-- 10/28 22:33 [FirstSquawk] DOW JONES UP 16.52 POINTS, OR 0.03 PERCENT, AT 52,394.09 AFTER MARKET OPEN S&P 500 UP 14.36 POINTS, OR 0.19 PERCENT, AT 7,736.96 AFTER MARKET OPEN NASDAQ UP 72.56 POINTS, OR 0.27 PERCENT, AT 26,550.38 AFTER MARKET OPEN
-- 10/28 22:33 [financialjuice] UK'S OBR: If energy prices reach a higher and more sustained peak, borrowing could be £17 billion above the central forecast in 2027-28
-- 10/28 22:33 [DeItaone] *FLÁVIO BOLSONARO LANDS IN MIAMI, CNN BRASIL SHOWS
-- 10/28 22:33 [financialjuice] UK budget policies reduce borrowing by £11.7 billion in 31-32.
-- 10/28 22:33 [financialjuice/FirstSquawk] UK budget policies increase borrowing by £3.5 billion in 2027-28
-- 10/28 22:33 [financialjuice] UK OBR sees 2026 inflation at 3.1%; saw 2.3%.
-- 10/28 22:33 [financialjuice] UK's OBR: A 1% change in interest rates could raise or reduce government debt interest costs by £16 billion.
-- 10/28 22:34 [financialjuice] UK'S OBR on productivity: If productivity growth were 0.5 percentage points higher or lower than forecast, borrowing could reach £50 billion lower or £40 billion higher.
-- 10/28 22:34 [financialjuice] UK'S OBR: Margins against the fiscal targets are very small compared to the inherent risk and uncertainty around any medium-term fiscal forecast
-- 10/28 22:34 [financialjuice] UK's OBR: Sees inflation at 3.5% in 2027 in central forecast (March forecast: 2%).
-- 10/28 22:34 [financialjuice/FirstSquawk] UK'S OBR: If energy prices were to peak at a higher level and remain elevated for longer, we would expect increased inflation, weaker near-term GDP growth, and a potential tightening of financial conditions
-- 10/28 22:34 [financialjuice/FirstSquawk] UK's OBR: If energy prices return to our march forecast path, we would expect more rapid disinflation, stronger near-term GDP growth and a potential easing of financial conditions.
-- 10/28 22:35 [DeItaone] EUROPEAN BENCHMARK GAS PRICE RISES TO €100/MWH FOR FIRST TIME SINCE DECEMBER 2022
-- 10/28 22:36 [financialjuice] UK OBR sees govt borrowing £68.3B in 2031-32
-- 10/28 22:36 [financialjuice] UK OBR sees government borrowing £133.2b in 2026-27; saw £115.5b.
-- 10/28 22:36 [financialjuice] UK'S OBR on tax: Tax-to-GDP ratio is expected to surpass its historical high of 37.2 per cent in 2027-28 and continue increasing in every year of the forecast
-- 10/28 22:36 [FirstSquawk] EUROPEAN GAS REACHES €100 FIRST TIME SINCE 2022 ENERGY CRISIS
-- 10/28 22:36 [financialjuice] UK OBR sees government borrowing £112b in 2027-28; saw £96.5b.
-- 10/28 22:36 [financialjuice] UK bank tax hike to raise receipts by £1 billion in 27/28 - OBR
-- 10/28 22:37 [financialjuice] UK OBR: Probability of meeting fiscal mandate now 56%, down from 59% at budget 2025.
-- 10/28 22:37 [DeItaone] It's officially Fed day. We expect a "hawkish pause" today. The Fed will hold interest rates unchanged but lay the groundwork for a December rate hike, bringing total rate hikes in 2026 to +50 basis points. Why? Because the US economy is no…
-- 10/28 22:39 [financialjuice] UK 2026-31 net borrowing forecast raised by £65 billion.
-- 10/28 22:42 [financialjuice] UK OBR: Cumulative cost of fuel duty freezes and 5p cut has risen to £139 bln.
-- 10/28 22:43 [financialjuice] UK OBR: Headroom would be £10.2 bln if fuel duty stayed frozen
-- 10/28 22:45 [financialjuice] Britain plans to extend upcoming carbon border tax to include refined products - Treasury Documents Show.
-- 10/28 22:45 [FirstSquawk] BANK OF CANADA HIKES KEY RATE TO 2.5%, MATCHING
-- 10/28 22:45 [financialjuice] ‼ BREAKING: BOC RATE DECISION ACTUAL 2.5% (FORECAST 2.5%, PREVIOUS 2.25%) $MACRO
-- 10/28 22:45 [financialjuice/FirstSquawk] BoC expects oil prices to remain high through 2026
-- 10/28 22:45 [financialjuice] Bank of Canada Rate Statement - Read Here
-- 10/28 22:45 [financialjuice] BoC sees CPI increasing to 3.5% by end of 2026
-- 10/28 22:46 [financialjuice] BoC: Inflation to remain over target until mid-2028
-- 10/28 22:46 [financialjuice] BoC: We may need to hike again, but plans to ‘proceed carefully'.
-- 10/28 22:46 [financialjuice] BoC expects gdp growth to average 2% in 2027 and 2028
-- 10/28 22:46 [financialjuice] BoC sees inflation at 3.1% in 2027, from 2%.
-- 10/28 22:46 [financialjuice] BoC still sees some excess supply in the economy
-- 10/28 22:46 [financialjuice] BoC: Inflation to average 2.9% in 2026 (vs 2.5% in July), 3.1% in 2027 (vs 2.0%), 2.2% in 2028 (vs 2.1%)
-- 10/28 22:46 [financialjuice] BoC: Annualized Q3 growth seen at 2.0% from 1.5% in July; Q4 0.8%.
-- 10/28 22:46 [financialjuice] BoC: Potential output growth expected to ease to just under 1.5% in 2026
-- 10/28 22:46 [financialjuice] BoC: Nominal neutral interest rate in Canada assumed to be at the mid point of the estimated 2.25% to 3.25% range.
-- 10/28 22:46 [financialjuice] BoC monetary policy rate assumes most exemptions for USMCA compliant goods will remain
-- 10/28 22:47 [financialjuice/FirstSquawk] BoC MPR assumes price of Brent oil to average around $100 in Q4 before gradually falling to around $75 by end-2028.
-- 10/28 22:47 [financialjuice] BoC's Gov. Macklem: Governing council will take future decisions one meeting at a time
-- 10/28 22:47 [financialjuice] BoC's Gov. Macklem: Increased risks to inflation means there was less scope for monetary accommodation
-- 10/28 22:47 [financialjuice] BoC: Outlook for Canadian inflation has deteriorated while growth outlook has improved modestly.
-- 10/28 22:47 [FirstSquawk] BANK OF CANADA WARNS FURTHER INTEREST RATE HIKES MAY BE NEEDED TO CURB INFLATION
-- 10/28 22:47 [financialjuice] BoC's Gov. Macklem: An increase in the policy rate was needed to reduce the risk that elevated energy prices could become generalized inflation
-- 10/28 22:47 [financialjuice] BoC's Gov. Macklem: With economy expected to recover, there is less downward pressure on prices to offset cost pressures.
-- 10/28 22:47 [financialjuice] BoC's Gov. Macklem: Projected 2% growth in 2027 and 2028 will absorb the remaining slack in the economy
-- 10/28 22:47 [DeItaone] BANK OF CANADA RAISES GROWTH AND INFLATION FORECASTS The Bank of Canada raised its 2026 GDP growth forecast to 1.0% from 0.7%, while lifting its 2027 projection to 2.0% from 1.8%. Inflation forecasts increased more sharply, reaching 2.9% fo…
-- 10/28 22:47 [financialjuice] BoC's Gov. Macklem: Main argument for hiking was that energy prices are expected to remain higher and cost pressures are building.
-- 10/28 22:48 [financialjuice] BoC's Gov. Macklem: The main argument for holding rates was that inflation has been concentrated in energy prices and services that rely on energy inputs
-- 10/28 22:49 [FirstSquawk] THE BANK OF CANADA MIGHT NEED TO RAISE INTEREST RATES AGAIN DUE TO UNCERTAINTIES, AND THE GOVERNING COUNCIL HAS DECIDED TO MOVE FORWARD CAUTIOUSLY.
-- 10/28 22:49 [FirstSquawk] HIGH ENERGY PRICES AND RISING COSTS WILL KEEP INFLATION HIGHER LONGER; BUSINESSES HAVE TAKEN ON RISING COSTS, BUT BANK SURVEYS INDICATE THEY WILL PASS ON MORE COSTS NEXT YEAR - BOC.
-- 10/28 22:49 [FirstSquawk] BOC RAISED INTEREST RATES TO CONTROL THE SPREAD OF HIGH ENERGY PRICES TO OTHER GOODS, LONG-TERM INFLATION EXPECTATIONS REMAIN STABLE, AND VARIOUS INDICATORS SHOW EXCESS SUPPLY IN THE ECONOMY.
-- 10/28 22:49 [FirstSquawk] BOC STATES THAT ITS GROWTH FORECAST FACES SIGNIFICANT UNCERTAINTY, ESPECIALLY DUE TO TRADE RELATIONS WITH THE US.
-- 10/28 22:49 [FirstSquawk] BOC FLAGS RISING BUSINESS COST PASS-THROUGH DESPITE FIRMS ABSORBING INPUT COSTS SO FAR
-- 10/28 22:50 [financialjuice] NATO Sec. Gen. Rutte: UK budget has strong defense commitment.
-- 10/28 22:52 [FirstSquawk] BAKER HUGHES SEES GLOBAL LNG CAPACITY REACHING 800 MILLION TONNES PER ANNUM BY 2030
-- 10/28 22:52 [FirstSquawk/DeItaone/financialjuice] KREMLIN: DATE OF TRILATERAL TALKS TO BE ANNOUNCED SOON: IFX
-- 10/28 22:53 [DeItaone] KREMLIN SAYS EUROPEANS WILL NOT TAKE PART IN TRILATERAL TALKS ON UKRAINE - IFAX
-- 10/28 22:53 [financialjuice] Losses on BoE's QT £5.7b more in 2027-28 than forecast in March.
-- 10/28 22:55 [FirstSquawk] USHAKOV SAYS EUROPE WON'T JOIN RUSSIA-US-UKRAINE TALKS: IFX
-- 10/28 23:01 [financialjuice] UK pre-measures headroom in 2029-30 est. at £12.5B - OBR
-- 10/28 23:03 [DeItaone] GOLDMAN SACHS SEES LIMITED FED HIKES, POTENTIAL STOCK MARKET RALLY Goldman Sachs expects just one additional Fed rate hike, compared with three currently priced by markets, suggesting the current tightening cycle could be among the smallest…
-- 10/28 23:04 [financialjuice] UK DMO: Standing repo facility for T-bills to start in January.
-- 10/28 23:05 [FirstSquawk] IBM TO BE OFFICIAL AI & CLOUD PARTNER OF US OPEN THROUGH 2031
-- 10/28 23:06 [FirstSquawk] UK DMO SAYS STANDING REPO FACILITY FOR T-BILLS TO START IN JANUARY
-- 10/28 23:06 [FirstSquawk] PAKISTAN ALLOWS TAIWAN AIRLINES TO USE AIRSPACE IN REVERSAL
-- 10/28 23:06 [FirstSquawk] UK DMO SAYS TBSRF IS LIKELY TO BE PRICED AT 20 BPS BELOW BOE BANK RATE, SUBJECT TO REVIEW
-- 10/28 23:06 [FirstSquawk] UK DMO SAYS IT IS INTRODUCING A T-BILL COLLATERAL POOL OF £250 MLN OF EACH T-BILL
-- 10/28 23:09 [FirstSquawk] UK GILTS EXTEND RALLY; UK 30Y YIELDS FALL 5BPS TO DAY LOW OF 5.70%
-- 10/28 23:14 [financialjuice] Britain to reform electricity standing charges -Treasury Documents.
-- 10/28 23:17 [financialjuice] Fear and Greed Index: 35/100 = Fear
-- 10/28 23:18 [financialjuice] Crypto Fear and Greed Index: 51/100 = Neutral
-- 10/28 23:20 [financialjuice] ADNOC tells clients new Hormuz bypass pipe to start early 2027.
-- 10/28 23:21 [financialjuice] BoC Press Conference with Gov. Macklem - WATCH LIVE
-- 10/28 23:30 [financialjuice] EIA GASOLINE INVENTORIES ACTUAL 3.87M (FORECAST -1M, PREVIOUS -2.952M) $MACRO
-- 10/28 23:30 [financialjuice] EIA CRUDE OIL INVENTORIES ACTUAL -1.892M (FORECAST 0M, PREVIOUS -3.060M) $MACRO
-- 10/28 23:30 [financialjuice] EIA DISTILLATE INVENTORIES ACTUAL -1.462M (FORECAST -1.075M, PREVIOUS 1.675M) $MACRO
-- 10/28 23:30 [financialjuice] EIA CRUDE CUSHING INVENTORIES ACTUAL -0.624M (FORECAST -, PREVIOUS 0.987M) $MACRO
-- 10/28 23:31 [financialjuice] EIA Weekly Inventories Report
-- 10/28 23:31 [FirstSquawk] U.S CRUDE OIL INVENTORIES ACTUAL: -1892K VS -3060K PREVIOUS; EST 81.17K
-- 10/28 23:31 [FirstSquawk] US CUSHING CRUDE OIL INVENTORIES ACTUAL: -624K VS 987K PREVIOUS
-- 10/28 23:31 [DeItaone] INVESTORS PULL $18.5 BILLION FROM US STOCKS IN TWO WEEKS Bank of America clients sold a net $3.5 billion in US equities last week, following $15 billion in outflows the previous week. According to BofA analysts Jill Carey Hall and Trey Brow…
-- 10/28 23:33 [financialjuice] Foreign firms get no exemption from raised UK bank surcharge.
-- 10/28 23:37 [financialjuice] JPMorgan: Extra UK bank tax lacks principle - Statement $JPM
-- 10/28 23:41 [financialjuice] Bank of Canada Governor Macklem: We are seeing more investment in the energy sector
-- 10/28 23:42 [financialjuice] BoC's Gov. Macklem: Estimates of investment may be conservative
-- 10/28 23:43 [FirstSquawk] BANK OF CANADA GOVERNOR TIFF MACKLEM: WE ARE SEEING MORE INVESTMENT IN THE ENERGY SECTOR
-- 10/28 23:44 [financialjuice] BoC's Gov. Macklem: Policy rate, even with this hike, is low enough that it is not restraining growth
-- 10/28 23:45 [financialjuice] BoC's Gov. Macklem: Hiking will limit pass through of higher oil prices
-- 10/28 23:45 [financialjuice] BoC's Gov. Macklem: Businesses planning to pass on high input costs
-- 10/28 23:47 [financialjuice] Iran war costs rise to $47bln - WAPO citing US military estimates
-- 10/28 23:47 [financialjuice] BoC's Gov. Macklem: There is no predetermined path for rates
-- 10/28 23:48 [FirstSquawk] BOC'S MACKLEM: POLICY RATE EVEN WITH THIS HIKE IS LOW ENOUGH THAT IT IS NOT RESTRAINING GROWTH
-- 10/28 23:49 [FirstSquawk] IRAN WAR COSTS RISE TO $47B, US MILITARY ESTIMATES - WAPO
-- 10/28 23:49 [FirstSquawk] MACKLEM: RAISING RATES WILL LIMIT PASS THROUGH OF HIGHER OIL PRICES
-- 10/28 23:49 [financialjuice] BoC's Gov. Macklem: Inflation looking less likely to be well-contained
-- 10/28 23:49 [FirstSquawk] MACKLEM SAYS THERE IS NO PREDETERMINED PATH FOR RATES
-- 10/28 23:49 [FirstSquawk] MACKLEM SAYS ANY TIME YOU'RE CHANGING DIRECTION IT'S ALWAYS A DIFFICULT DECISION
-- 10/28 23:50 [financialjuice] BoC's Gov. Macklem: Uncertainty in US trade and the Middle East could change outlook.
-- 10/28 23:51 [financialjuice] Ukraine’s President Zelenskiy expects trilateral Ukraine-US-Russia talks by November 10th
-- 10/28 23:52 [financialjuice] BoC's Senior Deputy Gov. Rogers: Uncertainty over economy is hanging over housing market.
-- 10/28 23:54 [financialjuice] BoC's Senior Deputy Gov. Rogers: Uncertainty over the economy and borrowing rates is weighing on the housing market; the bank's housing forecast is 'subdued'
-- 10/28 23:55 [financialjuice] Ukraine’s President Zelenskiy expects to have clarity on talks after the US elections
-- 10/28 23:55 [financialjuice] Ukraine’s President Zelenskiy: Ready to discuss territory only at leaders' level
-- 10/28 23:55 [financialjuice/FirstSquawk] EU set to scrap Associate Member offer for Canada - Politico
-- 10/28 23:56 [financialjuice] BoC's Senior Deputy Gov. Rogers: Strong consensus that inflation risks were higher
-- 10/28 23:57 [financialjuice] Dutch PM: No European ally is willing to buy Russian energy
-- 10/29 00:01 [FirstSquawk] EU CHOOSES 'EVER CLOSER ASSOCIATION' WITH CANADA, REPORTS POLITICO.
-- 10/29 00:01 [FirstSquawk] BOC'S ROGERS MENTIONS DISCUSSION ON HOLDING OR RAISING RATES, WHICH IS A COMMON PRACTICE.
-- 10/29 00:01 [FirstSquawk] ROGERS REPORTS A STRONG AGREEMENT THAT INFLATION RISKS ARE INCREASING.
-- 10/29 00:01 [FirstSquawk] DUTCH PM STATES NO EUROPEAN ALLY IS READY TO PURCHASE RUSSIAN ENERGY; CALLS IT A FOOLISH DECISION.
-- 10/29 00:01 [FirstSquawk] ZELENSKIY URGES EUROPEAN UNITY TO END THE WAR WITH RUSSIA.
-- 10/29 00:01 [FirstSquawk] RUSSIA CLAIMS TO HAVE STRUCK A VESSEL HEADING TO CHORNOMORSK, UKRAINE.
-- 10/29 00:05 [DeItaone] EU SET TO SCRAP ‘ASSOCIATE MEMBER’ STATUS OFFER FOR CANADA - POLITICO
-- 10/29 00:08 [financialjuice] BoC's Senior Dep. Gov. Rogers: We don't think a Middle East resolution is imminent.
-- 10/29 00:08 [financialjuice] Bank of Canada Press Conference has ended
-- 10/29 00:08 [financialjuice] Nvidia introduces Nemotron 3.5 transcribe speech model. $NVDA
-- 10/29 00:10 [financialjuice] Nvidia: RTX Spark laptops now available from Asus, Dell, HP, Lenovo, Microsoft, MSI - Website. $NVDA £MSFT $HPQ $DELL
-- 10/29 00:13 [FirstSquawk] NVIDIA UNVEILS NEMOTRON 3.5 SPEECH TRANSCRIPTION MODEL.
-- 10/29 00:13 [FirstSquawk] NVIDIA RTX SPARK LAPTOPS ARE NOW AVAILABLE FROM ASUS, DELL, HP, LENOVO, MICROSOFT, AND MSI.
-- 10/29 00:13 [FirstSquawk] NVIDIA DGX SPARK 64GB SYSTEM RELEASED FOR SALE, FEATURING GB10 GRACE BLACKWELL SUPERCHIP.
-- 10/29 00:13 [FirstSquawk] NVIDIA LAUNCHES NEMOTRON 3.5 BOLT E4B 4GB MODEL FOR LOCAL VOICE ASSISTANTS AND AGENTS.
-- 10/29 00:13 [FirstSquawk] NVIDIA LAUNCHES RTX SPARK LAPTOPS PRICED AT $2,599, OFFERING 128GB CONFIGURATIONS.
-- 10/29 00:21 [financialjuice] White House study sees growth, wage gains from Permitting Bill
-- 10/29 00:35 [FirstSquawk] UK GOVERNMENT PLANS TO SIGN DEAL WITH ROLLS-ROYCE THAT WILL HELP CREATE 3,300 JOBS BY 2029.
-- 10/29 00:35 [FirstSquawk] BRANDEBURG'S PCK SCHWEDT REFINERY IS NOW RUNNING AT OVER 86% CAPACITY.
-- 10/29 00:35 [FirstSquawk] GERMAN GOVERNMENT DEVELOPING PLAN TO PROTECT REFINERIES IN BRANDENBURG FOR THE FUTURE.
-- 10/29 00:35 [FirstSquawk] U.S. TWO-YEAR FRNS DISCOUNT MARGIN IS AT 0.038%.
-- 10/29 00:41 [FirstSquawk] OIL FUTURES RISE, US CRUDE PRICES INCREASE BY $3 A BARREL DUE TO FIGHTING IN YEMEN CAUSING SUPPLY CONCERNS IN THE MIDDLE EAST.
-- 10/29 00:47 [financialjuice] Israel's President Herzog is pushing for a government led by Netanyahu for the next two years, in exchange for his resignation at the end of his term and a full pardon in his trial - Israel's Channel 14 News
-- 10/29 01:04 [financialjuice] UK's PM Burnham reaffirms no snap UK election in next 12 months
-- 10/29 01:12 [financialjuice] Trump on the possibility that he will work for a unity government in Israel: I will look into it - Israel's Hayom News
-- 10/29 01:16 [financialjuice] Senior diplomatic official: Iran strike not dependent on political process in Israel - Israel's Hayom News
-- 10/29 01:19 [financialjuice] Senior US diplomatic official: Trump remains determined to completely neutralize Iran's military nuclear program and remove military threats to Strait of Hormuz and Iran's neighbors - Israel's Hayom News
-- 10/29 01:25 [FirstSquawk] BURNHAM CONFIRMS NO UK ELECTION WILL HAPPEN IN THE NEXT YEAR.
-- 10/29 01:26 [FirstSquawk] ITALIAN PM MELONI ANNOUNCES 2027 BUDGET WITH EUR26 BILLION IN TAX CUTS AND SPENDING INCREASES.
-- 10/29 01:26 [FirstSquawk] ITALY WILL PERMANENTLY CUT VEHICLE TAXES IN THE 2027 BUDGET, SAYS MELONI.
-- 10/29 01:26 [FirstSquawk] MELONI ANNOUNCES A €5 BILLION BUDGET SUPPORTED BY BANKS.
-- 10/29 01:26 [financialjuice] Fitch Ratings: US banks better prepared to absorb unrealized losses as rates rise.
-- 10/29 01:28 [financialjuice] US Energy Secretary Wright: Diesel exports from Arabian Gulf likely to increase.
-- 10/29 01:28 [financialjuice] US Energy Secretary Wright: Diesel prices will drop significantly.
-- 10/29 01:29 [financialjuice] US Energy Secretary Wright: China likely to resume exporting diesel.
-- 10/29 01:29 [DeItaone] WRIGHT SAYS DIESEL PRICES TO DROP SIGNIFICANTLY
-- 10/29 01:30 [DeItaone] *WRIGHT SAYS CHINA LIKELY TO RESUME DIESEL EXPORTS
-- 10/29 01:30 [DeItaone] *WRIGHT SAYS RUSSIA BENEFITS FROM DIESEL EXPORTS ONLY IF WAR ENDS
-- 10/29 01:31 [FirstSquawk] RUSSIA ONLY BENEFITS FROM DIESELS EXPORT BY ENDING WAR; DIESEL PRICES WILL DROP SIGNIFICANTLY; DIESEL EXPORTS FROM ARABIAN GULF LIKELY TO INCREASE: WRIGHT
-- 10/29 01:31 [FirstSquawk] CHINA LIKELY TO RESUME EXPORTING DIESEL, ENERGY SECRETARY
-- 10/29 01:38 [financialjuice] Phillips 66: Demand for gasoline down 2.5%, diesel down 1.5%.
-- 10/29 01:48 [FirstSquawk] Airbus Q3 Earnings: - Adj EBIT: EUR1.77B (est EUR1.79B) - Revenue: EUR17.47B (est EUR18.09B) - Commercial Airplanes Adj EBIT: EUR1.38B (est EUR1.36B) - Defence & Space Adj EBIT: EUR185M (est EUR196.9M) - 9M Neg Adj FCF: EUR1.27B Vs Negative…
-- 10/29 01:55 [financialjuice] ‼ BREAKING: Iran’s Foreign Minister Araghchi: Iran continues to give diplomacy a chance to succeed.
-- 10/29 01:55 [DeItaone/FirstSquawk] IRAN'S FOREIGN MINISTER: WHILE OUR BRAVE ARMED FORCES ARE FULLY PREPARED TO DEFEND THE HOMELAND, IRAN CONTINUES TO GIVE DIPLOMACY A CHANCE TO SUCCEED
-- 10/29 01:56 [DeItaone] IRAN'S FOREIGN MINISTER: WE REMAIN IN CLOSE AND ONGOING CONTACT WITH INTERMEDIARIES TO REVIEW IDEAS THAT CAN ENSURE IMPLEMENTATION OF OUR 7-DAY PLAN IN EVEN LESS THAN A WEEK
-- 10/29 01:56 [financialjuice] Iran’s Foreign Minister Araghchi: We remain in close contact with intermediaries to review ideas to implement its 7-Day Plan in even less than a week
-- 10/29 02:00 [financialjuice] Apple Touch MacBook event begins in Los Angeles $AAPL
-- 10/29 02:03 [financialjuice] Apple announces overhauled MacBook Pro with touch-screen $AAPL
-- 10/29 02:05 [financialjuice] Google launches Gemini 4 Carbon frontier model, priced at $2/m input, $10/m output tokens $GOOGL
-- 10/29 02:06 [financialjuice] Google: Officially launched Xreal Aura $GOOGL
-- 10/29 02:06 [financialjuice] Apple's Touch MacBook Pro has M5 Pro and M5 Max chip options $AAPL
-- 10/29 02:12 [financialjuice] Touch Mac starts at $2,899 for the 14-inch and $3,399 for the 16-inch $AAPL
-- 10/29 02:25 [financialjuice] Anthropic is said to plan a UK share offering via RetailBook
-- 10/29 02:25 [DeItaone] BITCOIN FACES SELLING PRESSURE AS LONG-TERM HOLDERS SIT ON LOSSES Long-term Bitcoin holders own approximately 4 million BTC purchased between $85,000 and $118,000, according to Glassnode analysts. With Bitcoin trading near $80,000, more tha…
-- 10/29 02:41 [FirstSquawk] ANTHROPIC IS SAID TO PLAN A UK SHARE OFFERING VIA RETAILBOOK, COLLABORATING WITH THE INVESTING PLATFORM TO MARKET ITS SHARES TO UK RETAIL TRADERS AS PART OF ITS MASSIVE IPO
-- 10/29 02:41 [FirstSquawk] ANTHROPIC FILED FOR AN IPO IN NEW YORK ON MONDAY, WHICH MIGHT BE THE WORLD’S LARGEST EVER, SAYING ITS SHARES WOULD BE OFFERED TO INDIVIDUAL INVESTORS IN THE UK AND PARTS OF CONTINENTAL EUROPE - SOURCES
-- 10/29 02:43 [FirstSquawk] GOOGLE SAYS IT HAS OFFICIALLY LAUNCHED XREAL AURA AND HAS LAUNCHED ITS GEMINI 4 CARBON FRONTIER MODEL, PRICED AT $2 PER MLN INPUT TOKENS AND $10 PER MLN OUTPUT TOKENS
-- 10/29 02:45 [FirstSquawk] APPLE CEO SHOWED A MACBOOK PRO LAPTOP WITH A TOUCHSCREEN AT AN EVENT, SAYING THE TOUCHSCREEN MACBOOK PRO WILL HAVE AN OLED SCREEN AND M5 PRO AND M5 MAX CHIP OPTIONS
-- 10/29 02:49 [DeItaone] FED EXPECTED TO HOLD RATES AS WALL STREET WATCHES HAWKISH SIGNALS The Federal Reserve is widely expected to leave interest rates unchanged at 3.75%–4.00%, with markets focused on potential dissent and changes to the FOMC statement. Analysts…
-- 10/29 03:00 [DeItaone] *FED LEAVES INTEREST RATE UNCHANGED
-- 10/29 03:00 [FirstSquawk] U.S. (OCT) FED INTEREST RATE DECICION ACTUAL: 4.00% VS 4.00% PREVIOUS; EST 4.00%
-- 10/29 03:00 [DeItaone] FOMC: VOTED 10-2 FOR FED FUNDS RATE ACTION
-- 10/29 03:00 [financialjuice] ‼ BREAKING: US INTEREST RATE DECISION ACTUAL 4% (FORECAST 4%, PREVIOUS 4%) $MACRO
-- 10/29 03:00 [financialjuice] Federal Reserve leaves key overnight interest rate unchanged in the 3.75-4.00% range, says accumulation of more information will help determine appropriate policy stance
-- 10/29 03:00 [DeItaone/financialjuice] FED: INFLATION REMAINS ELEVATED
-- 10/29 03:00 [financialjuice] ❗ Fed: The vote in favor of the policy was 10-2, with Governor Cook and Hammack dissenting in favor of a 25-basis-point hike.
-- 10/29 03:00 [financialjuice] Fed: Economic activity expanding at a 'strong' pace
-- 10/29 03:01 [financialjuice] Fed: Job gains have kept pace with workforce, unemployment rate has changed little.
-- 10/29 03:01 [DeItaone] HAMMACK, COOK DISSENT IN FAVOR OF RATE HIKE
-- 10/29 03:01 [financialjuice] Fed: Domestic spending has been resilient despite elevated uncertainty
-- 10/29 03:01 [financialjuice] Fed: Productivity growth is strong, capital investment is robust.
-- 10/29 03:01 [DeItaone] FED HOLDS RATES AT 3.75%–4.00% AS TWO OFFICIALS PUSH FOR HIKE The Federal Reserve kept interest rates unchanged at 3.75%–4.00%, voting 10–2 to maintain its current policy stance. Governor Lisa Cook and Cleveland Fed President Beth Hammack d…
-- 10/29 03:01 [financialjuice] Short-term interest-rate futures rise after the Fed policy rate decision.
-- 10/29 03:02 [financialjuice] Iran pressed to make nuke concessions as massive post-midterms strikes loom - Axios
-- 10/29 03:02 [financialjuice] FOMC Rate Statement
-- 10/29 03:04 [DeItaone] *US-ISRAEL STRIKES ON IRAN POSSIBLE AFTER MIDTERMS: AXIOS *US, ISRAEL ANTICIPATE WEEK OF IRAN STRIKES IF TALKS FAIL: AXIOS *POTENTIAL STRIKES TO TARGET IRAN LEADERSHIP, ENERGY, NUCLEAR SITES: AXIOS
-- 10/29 03:04 [FirstSquawk] THE FEDERAL RESERVE LEFT ITS KEY OVERNIGHT INTEREST RATE UNCHANGED IN THE 3.75-4.00% RANGE, SAYING THE ACCUMULATION OF MORE INFORMATION WILL HELP DETERMINE THE APPROPRIATE POLICY STANCE, ADDING THAT INFLATION REMAINS ELEVATED AND ECONOMIC A…
-- 10/29 03:04 [FirstSquawk] THE FED SAYS JOB GAINS HAVE KEPT PACE WITH THE WORKFORCE AND THE UNEMPLOYMENT RATE HAS CHANGED LITTLE, THAT PRODUCTIVITY GROWTH IS STRONG AND CAPITAL INVESTMENT ROBUST, AND THAT DOMESTIC SPENDING HAS BEEN RESILIENT DESPITE ELEVATED UNCERTAI…
-- 10/29 03:04 [FirstSquawk] THE FED VOTE IN FAVOR OF THE POLICY WAS 10-2, WITH GOVERNOR LISA COOK AND CLEVELAND FED PRESIDENT BETH HAMMACK DISSENTING IN FAVOR OF A 25-BASIS-POINT HIKE
-- 10/29 03:05 [financialjuice] IDF and the US coordinate ahead of any potential Iran attacks - Axios.
-- 10/29 03:05 [FirstSquawk] U.S. STOCKS PARED GAINS SLIGHTLY AFTER THE FED LEFT RATES UNCHANGED, WITH THE S&P 500 LAST UP 0.14%
-- 10/29 03:05 [FirstSquawk] SHORT-TERM INTEREST-RATE FUTURES ROSE AFTER THE FED POLICY RATE DECISION
-- 10/29 03:05 [financialjuice] Attacks on Iran after midterms could target leadership - Axios.
-- 10/29 03:07 [financialjuice/FirstSquawk] Traders maintain pricing in a 90% chance of a December Fed hike.
-- 10/29 03:07 [FirstSquawk] U.S. DOLLAR INDEX EXTENDED LOSSES AFTER THE FED RATE DECISION, LAST DOWN 0.08% AT 102.26, WHILE THE EURO ROSE MARGINALLY AGAINST THE DOLLAR, LAST UP 0.15% AT $1.114
-- 10/29 03:08 [DeItaone] FED GOVERNOR LISA COOK SURPRISES MARKETS WITH VOTE FOR RATE HIKE Federal Reserve Governor Lisa Cook unexpectedly voted for a 25-basis-point rate hike, breaking with the Fed's decision to hold rates at 3.75%–4.00%. Cook joined Cleveland Fed …
-- 10/29 03:08 [FirstSquawk] IRAN IS BEING PRESSED TO MAKE NUCLEAR CONCESSIONS AS MASSIVE POST-MIDTERMS STRIKES LOOM, WITH ATTACKS ON IRAN AFTER THE MIDTERMS POTENTIALLY TARGETING LEADERSHIP, AND THE IDF AND THE U.S. COORDINATING AHEAD OF ANY POTENTIAL IRAN ATTACKS - A…
-- 10/29 03:10 [DeItaone] FITCH WARNS AI BOOM AND RISING YIELDS THREATEN GLOBAL MARKETS Fitch Ratings warns that global credit risks are deteriorating heading into 2027, citing AI investment uncertainty, elevated energy prices and tighter financing conditions. Fitch…
-- 10/29 03:10 [FirstSquawk] SOME BP BOARD MEMBERS FAVOR BREAKUP OF $129B OIL GIANT - SEMAFOR
-- 10/29 03:11 [DeItaone] TRADERS CONTINUE TO PRICE 80% CHANCE OF FED HIKE IN DECEMBER https://t.co/4QP4f35oNU
-- 10/29 03:11 [FirstSquawk] ARAB MEDIATORS ARE PUSHING IRAN FOR A DEAL ON IAEA INSPECTIONS AND U.S. SANCTIONS RELIEF - AXIOS
-- 10/29 03:14 [financialjuice] Fitch Ratings: If oil supplies through the Hormuz Strait continue to be hampered beyond 2027, then a higher oil price scenario than our base case would materialize.
-- 10/29 03:14 [FirstSquawk] FITCH SAYS IF OIL SUPPLIES THROUGH THE HORMUZ STRAIT CONTINUE TO BE HAMPERED BEYOND 2027, THEN A HIGHER OIL PRICE SCENARIO THAN OUR BASE CASE WOULD MATERIALIZE.
-- 10/29 03:18 [FirstSquawk] U.S. (OCT) FED INTEREST RATE DECISION ACTUAL: 4.00% VS 4.00% PREVIOUS; EST 4.00%
-- 10/29 03:20 [DeItaone] GOLDMAN SACHS EXPECTS FED TO HIKE RATES IN DECEMBER Goldman Sachs Asset Management expects the Federal Reserve to resume raising interest rates in December, following Wednesday's decision to hold rates at 3.75%–4.00%. Kay Haigh, the firm's …
-- 10/29 03:20 [financialjuice] FOMC Press Conference with Chair Warsh - WATCH LIVE
-- 10/29 03:25 [financialjuice] Oracle Reaffirms FY2027 Outlook, Targets $225 Billion Revenue by FY2030 $ORCL Oracle reaffirms FY2027 revenue outlook of at least $90 billion Oracle maintains FY2027 non-GAAP EPS guidance of $8.10 Oracle targets FY2030 revenue of at least $…
-- 10/29 03:31 [DeItaone] $ORCL - ORACLE TARGETS $225 BILLION IN REVENUE BY 2030 Oracle forecasts at least $225 billion in revenue by fiscal 2030, implying over 35% annualized growth. The company targets 40% operating margins, $21 EPS, and $30 billion in free cash f…
-- 10/29 03:31 [DeItaone] FED'S WARSH BEGINS PRESS CONFERENCE
-- 10/29 03:31 [financialjuice] NYMEX WTI Crude December futures settle at $102.78 a barrel, up $2.88, 2.88%.
-- 10/29 03:31 [DeItaone] $NVDA - US DOJ EXAMINING NVIDIA ACQUISITION OF AI PLATFORM HUGGING FACE, TWO PEOPLE SAY
-- 10/29 03:31 [financialjuice] Fed's Chair Warsh: Economic activity is expanding at a strong pace.
-- 10/29 03:31 [financialjuice] Fed's Chair Warsh: Domestic spending has been resilient.
-- 10/29 03:31 [DeItaone] FED'S WARSH: THE COMMITTEE BELIEVES MORE INFORMATION WILL HELP DETERMINE APPROPRIATE POLICY STANCE
-- 10/29 03:32 [financialjuice] Fed's Chair Warsh: Productivity is strong and capital investment is robust.
-- 10/29 03:32 [financialjuice] Fed's Warsh: The committee believes more information will help determine the appropriate policy stance.
-- 10/29 03:32 [DeItaone] FED'S WARSH: 3Q GDP LIKELY ABOVE 3%
-- 10/29 03:32 [DeItaone] WARSH: BUSINESS INVESTMENT LIKELY RISING AT DOUBLE-DIGIT PACE
-- 10/29 03:32 [financialjuice] US DOJ examining Nvidia acquisition of AI platform Hugging Face - sources $NVDA
-- 10/29 03:32 [financialjuice] Fed's Warsh: Committee is looking out the window, has not grown easier.
-- 10/29 03:33 [financialjuice] Fed's Chair Warsh: Inflation remains elevated.
-- 10/29 03:33 [DeItaone/financialjuice] FED'S WARSH: OUR RESPONSIBILITY IS TO GET INFLATION DOWN
-- 10/29 03:34 [DeItaone] WARSH: NOT SURPRISED BY FINANCIAL MARKET VOLATILITY
-- 10/29 03:35 [DeItaone] FED'S WARSH: INFLATION IS TOO HIGHER
-- 10/29 03:35 [FirstSquawk] US CRUDE OIL FUTURES SETTLE AT $102.78/BBL, UP $2.88, 2.88%
-- 10/29 03:35 [DeItaone] FED'S WARSH: MADE CLEAR OUR READINESS TO ACT FED'S WARSH: HAVE SHOWN OUR WILLINGNESS TO ACT
-- 10/29 03:37 [DeItaone] FED'S WARSH: WE'VE DECIDED TO CHANGE FOMC SCHEDULE NEXT FALL FED'S WARSH: 8 MEETINGS IS RIGHT NUMBER A YEAR FED'S WARSH: ONE MEETING WILL NOT HAVE A VOTE ON POLICY RATE WARSH: ONE MEETING WILL BE FOCUSED ON STRATEGY FED'S WARSH: EXPECT IN 2…
-- 10/29 03:37 [FirstSquawk] THE U.S. DOJ IS EXAMINING NVIDIA’S ACQUISITION OF AI PLATFORM HUGGING FACE - SOURCES
-- 10/29 03:38 [financialjuice] Fed's Warsh: Business investment likely rising by double digits.
-- 10/29 03:38 [financialjuice] Fed's Chair Warsh: Economic growth has strengthened.
-- 10/29 03:38 [financialjuice] Fed's Warsh: Payroll growth above last year's pace.
-- 10/29 03:38 [financialjuice] Fed's Chair Warsh: The committee will deliver price stability.
-- 10/29 03:38 [financialjuice] Fed's Warsh: The discussion at the Fed is focused mainly on the price stability remit.
-- 10/29 03:38 [financialjuice] Fed's Warsh: Credit conditions have tightened.
-- 10/29 03:38 [financialjuice] Fed's Chair Warsh: We've started to see some change in financial conditions.
-- 10/29 03:38 [financialjuice] Fed's Warsh: Market participants more discerning in capital allocations.
-- 10/29 03:38 [FirstSquawk] ORACLE REAFFIRMS ITS FY2027 OUTLOOK, MAINTAINING REVENUE GUIDANCE OF AT LEAST $90 BLN AND NON-GAAP EPS GUIDANCE OF $8.10
-- 10/29 03:38 [financialjuice] Fed's Warsh: Unwilling and unable to call financial conditions tight.
-- 10/29 03:38 [FirstSquawk] ORACLE TARGETS FY2030 REVENUE OF AT LEAST $225 BLN, REPRESENTING A 35%-PLUS CAGR, AND A FY2030 NON-GAAP EPS TARGET OF $21 OR MORE
-- 10/29 03:38 [financialjuice] Fed's Warsh: Financial conditions go in the direction of more durable economic growth, price stability.
-- 10/29 03:38 [financialjuice] Fed's Warsh: Discussed geopolitics and technology.
-- 10/29 03:38 [FirstSquawk] ORACLE SAYS IT IS COMMITTED TO LIMITING ADDITIONAL FUNDING REQUIREMENTS, EXPECTS CAPITAL EXPENDITURES TO STEP DOWN IN FISCAL 2029, AND SEES POSITIVE CASH FLOW IN 2028
-- 10/29 03:38 [financialjuice] Fed's Chair Warsh: I am not surprised by financial market volatility.
-- 10/29 03:38 [financialjuice] ❗ Fed's Warsh: We've decided to change fomc schedule next fall, 8 meetings is right number a year. One meeting will not have a vote on policy rate. One meeting will be focused on strategy. Expect in 2028 to have 6 policy-setting meetings.
-- 10/29 03:38 [financialjuice] Fed's Warsh: We have shown our willingness to act.
-- 10/29 03:39 [financialjuice] Fed's Warsh: Information in coming period will help us determine where we want policy to be.
-- 10/29 03:39 [financialjuice] Fed's Chair Warsh: Ensuring price stability is not about a fixed date on a calendar.
-- 10/29 03:39 [financialjuice] Fed's Chair Warsh: In 2027, one meeting won't have a vote on rates or a statement. In 2028, I expect two meetings won't have a rate vote.
-- 10/29 03:39 [financialjuice] Fed's Warsh: Ensuring price stability and quashing inflation is not about an individual date or an isolated data point.
-- 10/29 03:39 [financialjuice] Fed's Warsh: The Fed has put in place 'new monetary medicine’.
-- 10/29 03:40 [financialjuice] Fed's Warsh: In September we removed a dose of accommodation.
-- 10/29 03:40 [financialjuice] Fed's Warsh: Inflation compensation as measured by swaps is going the right way.
-- 10/29 03:40 [FirstSquawk] FED CHAIR WARSH SAYS HE IS NOT SURPRISED BY FINANCIAL MARKET VOLATILITY, THAT THE COMMITTEE’S RESPONSIBILITY IS TO GET INFLATION DOWN AND WILL DELIVER PRICE STABILITY, AND THAT THE DISCUSSION AT THE FED IS FOCUSED MAINLY ON THE PRICE STABIL…
-- 10/29 03:40 [financialjuice] Fed's Warsh: I feel good about the signposts.
 - 10/29 03:41 [financialjuice] Fed's Chair Warsh: The period in front of us is information-rich.
 - 10/29 03:41 [financialjuice] Fed's Warsh: I am encouraged by the progress we've made.
 - 10/29 03:41 [FirstSquawk] FED CHAIR WARSH SAYS ECONOMIC ACTIVITY IS EXPANDING AT A STRONG PACE AND HAS STRENGTHENED, WITH PAYROLL GROWTH ABOVE LAST YEAR’S PACE AND BUSINESS INVESTMENT LIKELY RISING BY DOUBLE DIGITS
@@ -896,3 +568,241 @@
 - 10/29 21:45 [financialjuice] Kremlin Aide: If Ukraine launches massive attacks during November 4 celebrations, this could affect Russia's attitude towards the trilateral negotiations - IFX.
 - 10/29 21:45 [DeItaone] KREMLIN AIDE SAYS THAT IF UKRAINE LAUNCHES MASSIVE ATTACKS DURING NOVEMBER 4 CELEBRATIONS, THIS COULD AFFECT RUSSIA’S ATTITUDE TOWARDS THE TRILATERAL NEGOTIATIONS - IFX
 - 10/29 21:46 [financialjuice] Kremlin: Trilateral talks date depends on Ukraine actions - IFX
+- 10/29 21:52 [FirstSquawk] US PCE Supercore (Y/Y) Sep: 3.596% (prev 3.493%) -PCE Supercore (M/M): 0.367% (prev 0.373%)
+- 10/29 22:00 [financialjuice] Effective Fed Funds Rate 3.88% October 28 vs 3.88% October 27.
+- 10/29 22:03 [FirstSquawk] EUR/GBP DROPS TO LOWEST SINCE APRIL 2025
+- 10/29 22:06 [DeItaone] KALSHI HITS $40 BILLION VALUATION AFTER $1 BILLION FUNDING ROUND Prediction-market platform Kalshi has reached a $40 billion valuation after raising $1 billion in a funding round co-led by Wellington and Sequoia. Additional investors includ…
+- 10/29 22:15 [FirstSquawk] ECB INTEREST RATE DECISION (OCT) ACTUAL: 2.65% VS 2.65% PREVIOUS; EST 2.65%
+- 10/29 22:15 [DeItaone] ECB SAYS LEAVES INTEREST RATE ON DEPOSIT FACILITY UNCHANGED AT 2.50% (REUTERS POLL 2.50%)
+- 10/29 22:15 [FirstSquawk] ECB DEPOSIT FACILITY RATE (OCT) ACTUAL: 2.50% VS 2.50% PREVIOUS; EST 2.50%
+- 10/29 22:15 [financialjuice] ❗ ECB INTEREST RATE ACTUAL 2.65% (FORECAST 2.65%, PREVIOUS 2.65%) $MACRO
+- 10/29 22:15 [financialjuice] ‼ BREAKING: ECB DEPOSIT RATE ACTUAL 2.5% (FORECAST 2.5%, PREVIOUS 2.50%) $MACRO
+- 10/29 22:15 [financialjuice] ECB: While full effects of energy shock are still unfolding, underlying inflation has remained broadly stable so far and wages do not show a material response at this stage.
+- 10/29 22:15 [financialjuice] ECB: Energy prices have continued to rise, posing upside risks to inflation outlook and downside risks to growth outlook
+- 10/29 22:15 [financialjuice] ECB: ECB remains well positioned to navigate current elevated uncertainty.
+- 10/29 22:16 [financialjuice] ECB Rate Statement - Read Here
+- 10/29 22:16 [financialjuice] ECB: Will follow a data-dependent and meeting-by-meeting approach to determining appropriate monetary policy stance
+- 10/29 22:16 [DeItaone] 🇪🇺 ECB HOLDS INTEREST RATES STEADY, WARNS OF RISING INFLATION RISKS The European Central Bank kept all three key interest rates unchanged, in line with expectations. 🔸 Deposit Facility: 2.50% 🔸 Main Refinancing Rate: 2.65% 🔸 Marginal Lendin…
+- 10/29 22:16 [financialjuice] ECB: Not pre-committing to a particular rate path
+- 10/29 22:16 [financialjuice] ECB: In particular, ECB’s interest rate decisions will be based on its assessment of inflation outlook and risks surrounding it, in light of incoming economic and financial data, as well as dynamics of underlying economy.
+- 10/29 22:16 [financialjuice] ECB: We stand ready to adjust all of its instruments within its mandate to ensure that inflation stabilises at its 2% target in medium term and to preserve smooth functioning of monetary policy transmission.
+- 10/29 22:17 [financialjuice] ECB: APP and PEPP portfolios are declining at a measured and predictable pace, as euro system no longer reinvests principal payments from maturing security.
+- 10/29 22:17 [financialjuice] ECB: Energy prices have continued to rise, posing upside risks to the inflation outlook and downside risks to the growth outlook.
+- 10/29 22:17 [financialjuice] ECB: We remain well positioned to navigate the current elevated uncertainty.
+- 10/29 22:17 [financialjuice] ❗ ECB: The increased magnitude and duration of the energy shock, as well as the implications for indirect and second-round effects, are likely to drive up inflation and lower growth.
+- 10/29 22:17 [financialjuice] ECB: Financing conditions have tightened since the governing council's last meeting, which is likely to weigh on inflation and growth.
+- 10/29 22:17 [FirstSquawk] ECB SAYS INCREASED ENERGY SHOCK IS LIKELY TO DRIVE UP INFLATION
+- 10/29 22:18 [DeItaone] EURO DIPS AFTER ECB DECISION; LAST DOWN 0.31% AT $1.1118
+- 10/29 22:18 [FirstSquawk/financialjuice] TRADERS PARE ECB RATE HIKE BETS; PRICE 68BPS BY END OF 2027
+- 10/29 22:18 [DeItaone] EURO FALLS 0.4% TO $1.11095, LOWEST SINCE MAY 2025
+- 10/29 22:27 [FirstSquawk] FRENCH GERMAN 10Y YIELD SPREAD NARROWS 4BPS TO 150BPS AFTER ECB DECISION
+- 10/29 22:27 [FirstSquawk] EURO FALLS TO LOWEST SINCE MAY 2025 AFTER ECB DECISION
+- 10/29 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -29.0 MLN NASDAQ 100: -43.8 MLN DOW 30: -47.5 MLN MAG 7: -7.6 MLN $MACRO
+- 10/29 22:32 [FirstSquawk] NASDAQ DOWN 362.53 POINTS, OR 1.37 PERCENT, AT 26,187.32 AFTER MARKET OPEN S&P 500 DOWN 39.78 POINTS, OR 0.51 PERCENT, AT 7,704.20 AFTER MARKET OPEN DOW JONES DOWN 272.87 POINTS, OR 0.52 %, AT 52,202.23 AFTER MARKET OPEN
+- 10/29 22:33 [FirstSquawk] SERVICENOW SHARES SINK 22% IN BIGGEST INTRADAY DROP SINCE 2016
+- 10/29 22:33 [FirstSquawk] ELI LILLY SHARES HIT RECORD HIGH AT THE OPEN ON OUTLOOK RAISE
+- 10/29 22:33 [FirstSquawk/DeItaone] ALPHABET SHARES FALL 13%, SET TO ERASE $489 BILLION IN VALUE
+- 10/29 22:33 [financialjuice] ❗ Alphabet shares fall 13%, set to erase $489 billion in value. $GOOGL
+- 10/29 22:35 [FirstSquawk] FORTINET SHARES PLUNGE 27%, SET FOR WORST DAY ON RECORD
+- 10/29 22:35 [FirstSquawk] CATERPILLAR DROPS 12% AT OPEN, NOW DOWN 40% FROM JUNE RECORD
+- 10/29 22:37 [financialjuice] ECB Press Conference w/ Pres. Lagarde - WATCH LIVE
+- 10/29 22:37 [DeItaone] TRUMP ADMINISTRATION PROMISED TARIFF RELIEF IN TALKS TO SECURE U.S. AUDI FACTORY
+- 10/29 22:38 [FirstSquawk/financialjuice] TRUMP ADMINISTRATION PROMISED TARIFF RELIEF IN TALKS TO SECURE U.S. AUDI FACTORY - WSJ
+- 10/29 22:38 [DeItaone] TRUMP OFFERS TARIFF RELIEF TO AUTOMAKERS INVESTING IN THE US The Trump administration reportedly plans tariff relief for automakers expanding US manufacturing, following talks over Audi's $4 billion Georgia factory, expected to produce up t…
+- 10/29 22:40 [financialjuice] WATCH LIVE: ECB Press Conference 9:45 AM ET
+- 10/29 22:44 [FirstSquawk] ALPHABET SHARES EXTEND DECLINE TO 13.7%, BIGGEST DROP ON RECORD
+- 10/29 22:44 [FirstSquawk] NATO CHIEF RUTTE DISCUSSED BLACK SEA SECURITY WITH ROMANIAN PM
+- 10/29 22:45 [financialjuice] ❗ Gulf oil majors push to expand crude stockpiles in Asia amid Iran war.
+- 10/29 22:45 [financialjuice] WH Sr. Adviser Hassett: Inflation was pretty much right on expectation - Fox Business
+- 10/29 22:46 [financialjuice] WH Sr. Adviser Hassett: GDP is headed toward 4% growth.
+- 10/29 22:47 [financialjuice] French Official: France cuts diesel stock requirements to free supply.
+- 10/29 22:47 [financialjuice] Hassett: Supply side boom putting downward pressure on prices
+- 10/29 22:47 [FirstSquawk] FRANCE CUTS DIESEL STOCK REQUIREMENTS TO FREE SUPPLY: OFFICIAL
+- 10/29 22:47 [financialjuice] ECB's President Lagarde repeats ECB policy statement.
+- 10/29 22:49 [FirstSquawk] HASSETT: TRUMP BELIEVES RATES CAN BE LOWER; TRUMP RESPECTS FED INDEPENDENCE
+- 10/29 22:49 [financialjuice] WH Sr. Adviser Hassett: There's room to let inflation get under control
+- 10/29 22:49 [financialjuice] ECB's Lagarde: Incoming data suggests economy expanding in Q3
+- 10/29 22:50 [financialjuice] ECB President Lagarde: growth to stay supported in near term
+- 10/29 22:50 [financialjuice] ECB President Lagarde: new rise in energy prices dents consumer confidence
+- 10/29 22:51 [financialjuice] ECB President Lagarde: AI investment, government spending need to bolster growth
+- 10/29 22:51 [FirstSquawk] ECB LAGARDE: DATA SUGGEST ECONOMY CONTINUED TO EXPAND IN 3Q
+- 10/29 22:51 [FirstSquawk] LAGARDE: EXPORTS TO PICK UP ON BACK
+- 10/29 22:51 [FirstSquawk] LAGARDE: AI INVESTMENT, PUBLIC SPENDING TO UNDERPIN GROWTH
+- 10/29 22:51 [financialjuice] ECB President Lagarde: exports expected to accelerate on support
+- 10/29 22:51 [financialjuice] ECB President Lagarde: fiscal stability is crucial anchor
+- 10/29 22:52 [financialjuice] ECB President Lagarde: fiscal measures should be temporary, focused, customized
+- 10/29 22:52 [financialjuice] WH Sr. Adviser Hassett ends remarks.
+- 10/29 22:53 [financialjuice] ECB President Lagarde: underlying inflation stayed largely steady
+- 10/29 22:53 [financialjuice] ECB's President Lagarde: Early stages of pricing chain point to upward pressure
+- 10/29 22:53 [financialjuice] ECB President Lagarde: wage pressures stay moderate
+- 10/29 22:54 [financialjuice] ECB President Lagarde: Wage tracker shows 2.5%-2.8% growth in remaining months of 2026
+- 10/29 22:54 [financialjuice] ECB President Lagarde: most gauges of long-term inflation expectations near 2%
+- 10/29 22:54 [financialjuice] ECB President Lagarde: negotiated wage growth to range 2.5%-2.8% for remainder of year
+- 10/29 22:54 [financialjuice] ECB President Lagarde: energy prices have risen beyond baseline
+- 10/29 22:54 [financialjuice] ECB president Lagarde: subsequent drop in energy inflation expected to reduce headline inflation
+- 10/29 22:55 [financialjuice] ECB President Lagarde: growth risks point downward
+- 10/29 22:55 [FirstSquawk] ECB'S LAGARDE: RISKS TO GROWTH ARE TO THE DOWNSIDE
+- 10/29 22:55 [financialjuice] ECB's Lagarde: Worsening of market sentiment could tighten financing conditions, dampen demand.
+- 10/29 22:55 [financialjuice] US Treasury Secretary Bessent: Great GDP number
+- 10/29 22:56 [financialjuice] ECB's Lagarde: Risks to inflation are to the upside.
+- 10/29 22:56 [FirstSquawk] LAGARDE: RISKS TO INFLATION ARE TO THE UPSIDE
+- 10/29 22:57 [financialjuice] ECB's President Lagarde: Fiscal uncertainty may further tighten financial conditions.
+- 10/29 22:58 [financialjuice] ECB's Lagarde: Financial conditions have tightened
+- 10/29 22:58 [financialjuice] ECB President Lagarde: financial conditions have become more stringent since last meeting
+- 10/29 22:58 [DeItaone] HASSETT: THERE'S ROOM TO LET INFLATION GET UNDER CONTROL
+- 10/29 23:00 [DeItaone] HASSETT: TRUMP BELIEVES RATES CAN BE LOWER
+- 10/29 23:00 [FirstSquawk] LAGARDE: FINANCIAL CONDITIONS HAVE TIGHTENED SINCE LAST MEETING
+- 10/29 23:03 [financialjuice] ECB President Lagarde: indirect impact from energy price surge has intensified
+- 10/29 23:03 [financialjuice] ECB President Lagarde: no sign of second-round effects beyond projections
+- 10/29 23:03 [FirstSquawk] LAGARDE: NOT SEEING MATERIAL RISK OF 2ND-ROUND EFFECTS NOW
+- 10/29 23:05 [financialjuice] ECB President Lagarde: cost of long-term borrowing has risen since Sept.
+- 10/29 23:05 [financialjuice] ECB President Lagarde: governing council discussed if increase was suitable
+- 10/29 23:06 [FirstSquawk] ECB'S LAGARDE: COUNCIL DEBATED IF HIKE WOULD BE APPROPRIATE
+- 10/29 23:06 [financialjuice] ECB President Lagarde: measured approach still suitable at this time
+- 10/29 23:06 [financialjuice] ECB President Lagarde: ECB is unanimously seen as well positioned
+- 10/29 23:08 [DeItaone] EU'S VON DER LEYEN: CANADA CANNOT BE A EU MEMBER BECAUSE OF GEOGRAPHY, BUT WE WANT TO TAKE OUR RELATIONSHIP TO THE HIGHEST POSSIBLE LEVEL
+- 10/29 23:08 [financialjuice] ECB President Lagarde: in strong enough position to wait for further data
+- 10/29 23:09 [DeItaone] EU'S VON DER LEYEN: WE ARE DISCUSSING THE IDEA OF ​​CANADA BECOMING THE FIRST ASSOCIATE MEMBER OF THE EU EU'S VON DER LEYEN: IT WILL BE 'ASSOCIATION WITHOUT ACCESSION'
+- 10/29 23:09 [financialjuice] EU's von der Leyen: Canada cannot join EU due to location, but aims to elevate ties to highest level
+- 10/29 23:09 [financialjuice] EU's Von der Leyen: talks under way on Canada as first associate member of EU
+- 10/29 23:09 [FirstSquawk] EU'S VON DER LEYEN: WE ARE DISCUSSING THE IDEA OF ​​CANADA BECOMING THE FIRST ASSOCIATE MEMBER OF THE EU
+- 10/29 23:09 [financialjuice] EU’s Von der Leyen: It will be ‘partnership without membership’
+- 10/29 23:10 [financialjuice] ECB President Lagarde: ECB will probably develop scenarios in December
+- 10/29 23:12 [FirstSquawk] LAGARDE: LONG END OF CURVE HAS RISEN ACROSS THE WORLD
+- 10/29 23:12 [financialjuice] ECB president Lagarde: focus on 10-year and full bond curve
+- 10/29 23:12 [financialjuice] ECB president Lagarde: long end of curve has climbed globally
+- 10/29 23:13 [DeItaone/financialjuice] ECB'S LAGARDE: DEBT ISSUANCE BY HYPERSCALERS PLAYS A ROLE IN YIELD RISE
+- 10/29 23:13 [DeItaone] ECB'S LAGARDE: COUNTRIES WITH HIGH DEBT HAVE TO FACTOR INTO FISCAL POLICY PLAN THAT RATES ARE HIGHER, WILL PROBABLY REMAIN HIGHER
+- 10/29 23:14 [financialjuice] ECB's Lagarde: Countries with high debt have to factor into fiscal policy plans that rates are higher and will probably remain higher
+- 10/29 23:15 [DeItaone] QATARENERGY BUYS US LNG TO HEDGE AGAINST HORMUZ DISRUPTIONS QatarEnergy plans to secure over 7 million tons of LNG annually through new supply deals, including potential agreements with Venture Global ($VG). The strategy aims to profit from…
+- 10/29 23:15 [financialjuice] QatarEnergy CEO: Qatar Buying US LNG as Hedge Against Hormuz Disruptions, Expects More Long-Term Deals by End-2026, Target "Much Higher" Than 7 MTPA
+- 10/29 23:15 [FirstSquawk] LAGARDE: ECB HAS TOOLS TO ADDRESS TRANSMISSION DISRUPTIONS
+- 10/29 23:16 [DeItaone] QATARENERGY CEO SAYS HAS MET IRANIAN ACTING PETROLEUM MINISTER TWICE IN PAST TWO WEEKS, EXPLORING POST-WAR COOPERATION IN OIL AND GAS
+- 10/29 23:16 [DeItaone] LAGARDE: THE DIRECTION OF TRAVEL ON RATES IS QUITE CLEAR TO ALL OF US
+- 10/29 23:16 [financialjuice] ECB president Lagarde: direction of travel fairly clear for all of us
+- 10/29 23:16 [financialjuice] QatarEnergy CEO: Has met Iranian Acting Petroleum Minister twice in past two weeks, exploring postwar cooperation in oil and gas
+- 10/29 23:17 [financialjuice] ECB's Lagarde: We have no plan to restrict the number of meetings
+- 10/29 23:17 [FirstSquawk] ECB LAGARDE: ECB'S DIRECTION OF TRAVEL QUITE CLEAR UNLESS SURPRISE
+- 10/29 23:17 [financialjuice] Crypto Fear & Greed Index: 51/100 - Neutral
+- 10/29 23:18 [financialjuice] Fear & Greed Index: 35/100 - Fear
+- 10/29 23:19 [financialjuice] EU's von der Leyen: EU and Canada to create unified space for strategic supply chains
+- 10/29 23:19 [financialjuice] EU's von der Leyen: this implies combined or supplementary investment, including private funding on both sides
+- 10/29 23:20 [FirstSquawk] QATARENERGY IS SECURING LONG-TERM US AND OTHER LNG SUPPLIES TO HEDGE AGAINST FUTURE HORMUZ DISRUPTIONS, CAPTURE POTENTIAL PRICE SPIKES WITH MINIMAL INVESTMENT, AND EXPAND PURCHASES WELL BEYOND 7 MILLION TONNES ANNUALLY BY END-2026, WHILE RU…
+- 10/29 23:22 [financialjuice] Offending oil tanker collides with sea mines, damaged, catches fire and is stopped - IRIB News
+- 10/29 23:23 [financialjuice] Before noon today, a delinquent oil tanker traveling in the forbidden and unsafe area in the east of the Strait of Hormuz was damaged and caught fire due to collision with sea mines and stopped moving - IRIB News
+- 10/29 23:23 [FirstSquawk] IRAN CLAIMS OIL TANKER HIT MINE IN HORMUZ THURS. MORNING: IRIB
+- 10/29 23:28 [financialjuice] ECB President Lagarde: no shift in approach on bond repayments
+- 10/29 23:28 [financialjuice] ECB President Lagarde: quantitative tightening is progressing mechanically
+- 10/29 23:29 [financialjuice] ECB President Lagarde: no plan to readjust
+- 10/29 23:29 [DeItaone] ECB'S LAGARDE: I'M STEPPING DOWN EARLY TO HAVE FREEDOM OF EXPRESSION ON MATTERS THAT ARE NOT MONETARY
+- 10/29 23:30 [financialjuice] EIA NATURAL GAS CHANGE BCF ACTUAL 80B (FORECAST 72B, PREVIOUS 77B) $MACRO
+- 10/29 23:30 [FirstSquawk] US NATURAL GAS STORAGE ACTUAL: 80 VS 77 PREVIOUS; EST 71.63
+- 10/29 23:31 [financialjuice] EIA Natural Gas Report
+- 10/29 23:31 [DeItaone] ECB'S LAGARDE: AS ECB PRESIDENT WE HAVE OBLIGATION OF NEUTRALITY ECB'S LAGARDE: AT THIS TIME, IN RELATION TO MANY CORNERS OF THE WORLD, MY VOICE CAN HELP WITH PRINCIPLES DEAR TO MY HEART
+- 10/29 23:32 [financialjuice] ECB's President Lagarde concludes press conference.
+- 10/29 23:36 [FirstSquawk] VENEZUELA'S RODRIGUEZ MAKE ADDRESS TO NATION AT 11 AM LOCAL TIME
+- 10/29 23:37 [financialjuice] WATCH LIVE: Trump Speaks
+- 10/29 23:37 [FirstSquawk] TRUMP: GREAT MORNING FROM STANDPOINT OF GDP
+- 10/29 23:39 [financialjuice] WH Sr. Adviser Hassett: If Oct. inflation is really high, Fed probably to act.
+- 10/29 23:40 [financialjuice] WATCH LIVE: WH Sr. Adviser Hassett Speaks
+- 10/29 23:40 [FirstSquawk] IRAN HASN'T YET REPLIED TO VANCE LETTER: TASNIM
+- 10/29 23:41 [financialjuice] Iran hasn't yet replied to Vance's letter - Tasnim
+- 10/29 23:41 [DeItaone] IRAN'S TANSIM NEWS AGENCY SAYS IRAN RECEIVED A LETTER FROM US VICE PRESIDENT JD VANCE, HAS NOT RESPONDED TO IT
+- 10/29 23:41 [FirstSquawk] IRAN HAS RECEIVED VANCE LETTER: TASNIM
+- 10/29 23:41 [financialjuice] Iran's Tansim news agency: Iran received letter from US Vice President JD Vance, has not replied
+- 10/29 23:42 [financialjuice] Iran insists on its seven conditions being met by US, any position that contradicts this framework is unacceptable - Tasnim News
+- 10/29 23:43 [financialjuice] Trump concludes remarks
+- 10/29 23:46 [FirstSquawk] HASSETT: OCT CPI, PCE DATA SHOULD MAKE CLEAR WHAT FED SHOULD DO
+- 10/29 23:57 [FirstSquawk] ADIDAS CEO: KEPT Q4 REVENUE GUIDANCE BETWEEN 9% - 10%, BUT THERE MIGHT BE UPSIDE
+- 10/30 00:02 [FirstSquawk] NETHERLANDS RELEASES FINAL 700K BBLS OF OIL PRODUCTS TO MARKET
+- 10/30 00:05 [DeItaone] SHAREHOLDERS APPROVE MERGER BETWEEN SILVER47 AND BUNKER HILL. TRANSACTION EXPECTED TO CLOSE NOV 5 2026.
+- 10/30 00:05 [DeItaone] MICROSOFT SHARES REVERSE COURSE, LAST DOWN 1.3%
+- 10/30 00:12 [FirstSquawk] MONTE DEI PASCHI SHAREHOLDERS REJECT EXCHANGE OFFER TO ACQUIRE BANCA GENERALI
+- 10/30 00:17 [FirstSquawk] US: NORTH KOREA LAUNCHED TWO BALLISTIC MISSILES ON OCT.29
+- 10/30 00:21 [DeItaone/FirstSquawk] EUROPE WILL REQUIRE AN ADDITIONAL 69 MILLION METRIC TONS OF LNG DURING THIS WINTER AND MUST PULL CARGOES FROM ASIA, SAYS CHENIERE'S CHIEF COMMERCIAL OFFICER, ANATOL FEYGIN
+- 10/30 00:23 [DeItaone] FEDERAL COMMUNICATIONS COMMISSION VOTES TO BAN ALL CHINESE LABS FROM TESTING US ELECTRONICS STARTING IN DECEMBER 2028
+- 10/30 00:27 [DeItaone] 🇪🇺 ECB POLICYMAKERS SEE DEC RATE HIKE FOLLOWED BY PAUSE: SOURCES NEW ECB STAFF ESTIMATES SHOW BOND YIELD RISE CUTTING GROWTH BY CUMULATIVE 100 BPS, INFLATION BY 90 BPS IN 2027-28 VS SEPT BASELINE: SOURCES
+- 10/30 00:33 [DeItaone] SITUATIONAL AWARENESS SEEKS TO RAISE MONEY TO BET ON FLUIDSTACK FUNDING ROUND WOULD VALUE NEOCLOUD FLUIDSTACK AT $40 BILLION
+- 10/30 00:33 [DeItaone] ECB OFFICIALS EXPECT DECEMBER RATE HIKE, THEN PAUSE ECB policymakers expect a 25-basis-point rate hike on December 17, lifting the deposit rate from 2.50% to 2.75%, according to three sources cited by Reuters. The hike is considered nearly …
+- 10/30 00:33 [financialjuice] US 4-Week Bill Auction High Yield 3.91% Bid-to-Cover Ratio 3.1 Sells $115 bln Awards 16.96% of bids at high
+- 10/30 00:34 [financialjuice] ❗ New ECB staff estimates show bond yield rise cutting growth by cumulative 100 BPS, inflation by 90 BPS in 2027-28 vs Sept baseline - sources
+- 10/30 00:34 [financialjuice] US 4-WEEK BILL BID-TO-COVER ACTUAL 3.1 (FORECAST -, PREVIOUS 2.820) $MACRO
+- 10/30 00:34 [financialjuice] US 4-WEEK BILL HIGH YIELD ACTUAL 3.91% (FORECAST -, PREVIOUS 3.945%) $MACRO
+- 10/30 00:35 [FirstSquawk/financialjuice] ECB OFFICIALS ARE READY TO RAISE INTEREST RATES IN DECEMBER
+- 10/30 00:45 [DeItaone] RUSSIA SET TO EXTEND DIESEL EXPORT BAN UNTIL THE END OF THE YEAR, SOURCES SAY
+- 10/30 00:46 [financialjuice] ❗ Russia set to extend diesel export ban until the end of the year - Sources.
+- 10/30 00:46 [DeItaone] RUSSIA USES QUOTA EXPORT SYSTEM FOR INDIVIDUAL COMPANIES TO FULFIL ITS US OBLIGATIONS, SOURCES SAY
+- 10/30 00:59 [FirstSquawk] SAILBOAT SINKS AFTER SECURITY INCIDENT NEAR OMAN - UKMTO
+- 10/30 01:00 [financialjuice] US 30-yr fixed rate mortgage averages 7.24% in Oct 29 week vs 7.32% prior week - Freddie Mac
+- 10/30 01:01 [DeItaone] US MORTGAGE RATES FALL FOR SECOND STRAIGHT WEEK The average 30-year fixed mortgage rate dropped to 7.24%, down from 7.32% last week and 7.40% two weeks ago, according to Freddie Mac. The decline follows a retreat in 10-year Treasury yields,…
+- 10/30 01:04 [FirstSquawk] OPENAI EXPANDS AI MISALIGNMENT MONITORS FOR ALL FRONTIER MODELS
+- 10/30 01:18 [FirstSquawk] CARNEY: NAME OF NEW CANADA-EU ALLIANCE 'DOESN'T MATTER'
+- 10/30 01:20 [financialjuice] UK October long-term public inflation expectations 4.0% vs 4.3% in September - Citi YouGov
+- 10/30 01:20 [financialjuice] UK October year-ahead public inflation expectations 4.2% vs 4.5% in September - Citi/YouGov
+- 10/30 01:20 [DeItaone] MICROSOFT EXPECTS TO RAISE ABOUT $25 BILLION IN US BOND SALE - SOURCE
+- 10/30 01:21 [financialjuice] ❗ Microsoft expects to raise about $25 bln in US bond sale - source. $MSFT
+- 10/30 01:22 [FirstSquawk] UK YEAR-AHEAD CPI EXPECTATIONS FALL TO 4.2% FROM 4.5%: CITI
+- 10/30 01:35 [DeItaone] $CVX - CHEVRON EXPANDS GLOBAL OIL EXPLORATION AS PROFITS SURGE Chevron is accelerating oil and gas exploration in Africa, South America and the Mediterranean, supported by soaring energy profits following the Iran war. 🔸 50% of exploration …
+- 10/30 01:36 [FirstSquawk] CHEVRON IS BACK TO SEARCHING FOR OIL AND GAS IN FAR-FLUNG PLACES – WSJ
+- 10/30 01:36 [DeItaone/financialjuice] EU COMMISSIONER JORGENSEN: WE DO NOT EXPECT SECURITY OF OIL, GAS SUPPLY, BUT CITIZENS STRUGGLING TO PAY BILLS
+- 10/30 01:37 [FirstSquawk] AUDI TO HOLD SUPERVISORY BOARD MEETING FRIDAY: DPA
+- 10/30 01:37 [financialjuice] EU Commissioner Jorgensen: EU member states have reaffirmed their commitment to an accelerated release of 42.6 million barrels
+- 10/30 01:38 [financialjuice] EU Commissioner Jorgensen: Half of oil stock releases in coming months will be diesel.
+- 10/30 01:45 [financialjuice] Fed bids for 7-Year notes total $4.9 bln
+- 10/30 01:59 [FirstSquawk] US PRESIDENT TRUMP IS SCRAPPING A PLANNED TRIP TO KANSAS THIS WEEKEND – CNN
+- 10/30 02:00 [FirstSquawk] SAUDI CIVIL DEFENCE: “A WARNING HAS BEEN ISSUED BY THE NATIONAL EARLY WARNING PLATFORM IN NAJRAN”
+- 10/30 02:00 [FirstSquawk] UK WELFARE BILL WILL NOT COME DOWN THIS PARL’T
+- 10/30 02:00 [financialjuice] Treasury WI 7y yield 4.894% before $44 billion auction
+- 10/30 02:00 [FirstSquawk] RIO TINTO'S OYU TOLGOI MINE SUSPENDED UNDERGROUND OPERATIONS
+- 10/30 02:02 [financialjuice] US 7-YEAR HIGH YIELD ACTUAL 4.894% (FORECAST -, PREVIOUS 5.085%) $MACRO
+- 10/30 02:02 [financialjuice] US 7-YEAR BID-TO-COVER ACTUAL 2.460 (FORECAST -, PREVIOUS 2.420) $MACRO
+- 10/30 02:03 [financialjuice] US 7-Yr Note Auction High Yield 4.894% [On the screws] Bid-to-Cover 2.46 Sells $44 bln Awards 63.94% of bids at high Primary dealers take 9.41% Direct 32.82% Indirect 57.77%
+- 10/30 02:04 [FirstSquawk] SAUDI CIVIL DEFENCE: THE DANGER HAS PASSED IN NAJRAN CITY
+- 10/30 02:04 [financialjuice/FirstSquawk] Yemeni army has targeted the Aramco oil company in widespread wave of missile attacks - Fars News
+- 10/30 02:13 [DeItaone] FRENCH INTERIOR MINISTER: THERE HAVE BEEN MANY CALLS ON SOCIAL MEDIA COMING FROM THE ULTRA-LEFT FOR VIOLENT GATHERINGS FOR SATURDAY OCTOBER 31 IN FRANCE
+- 10/30 02:15 [financialjuice/FirstSquawk] French Interior Minister: We will mobilise 70,000 security forces to maintain order during October 31st protests in France
+- 10/30 02:16 [financialjuice] Apple cuts Taiwan app store commission rate to 26%. $AAPL
+- 10/30 02:16 [financialjuice/FirstSquawk] Nvidia: Huang interactions with MegasPeed not unusual - CNBC
+- 10/30 02:23 [financialjuice] WATCH LIVE: Trump Speaks at Rally
+- 10/30 02:27 [DeItaone] TRUMP: FED HATES TO CUT INTEREST RATES
+- 10/30 02:32 [financialjuice] Exxon and Chevron cancel plans for their executives to travel to UAE's oil conference ADIPEC next week on security ground - two sources. $XOM $CVX
+- 10/30 02:32 [DeItaone] IRAN'S PARLIAMENT SPEAKER QALIBAF: IRAN’S CONDITIONS HAVE BEEN REPEATEDLY AND CLEARLY STATED TO THE MEDIATORS
+- 10/30 02:33 [DeItaone] IRAN'S QALIBAF: PROGRESS CAN ONLY BE ACHIEVED ONCE IRAN’S SEVEN CONDITIONS HAVE BEEN AGREED UPON
+- 10/30 02:33 [financialjuice] Iran's Parliament Speaker Ghalibaf: Iran's conditions have been repeatedly and clearly stated to the mediators
+- 10/30 02:33 [financialjuice] Iran's Parliament Speaker Ghalibaf: Progress can only be achieved once Iran’s seven conditions have been agreed upon
+- 10/30 02:35 [financialjuice/FirstSquawk] Netanyahu's bloc leads in final vote count - Israel's N12 News
+- 10/30 02:40 [DeItaone] DALLAS FED'S TRIMMED MEAN PCE PRICE INDEX +2.8% ANNUALIZED IN SEPTEMBER VS AUGUST +2.0%
+- 10/30 02:47 [DeItaone] PUTIN ON HIS CALL WITH LEADERS OF NORWAY, FINLAND: WE SUPPORT ANY STEPS TO RESTORE RELATIONS WITH EUROPEAN COUNTRIES PUTIN: WE ARE PREPARED FOR WAR, BUT WE DO NOT WANT ANY WAR
+- 10/30 02:47 [DeItaone] TRUMP SAYS US MILITARY OPERATIONS AGAINST IRAN ARE GOING VERY WELL
+- 10/30 02:47 [financialjuice] Putin: We are prepared for war, but we do not want any war
+- 10/30 02:48 [financialjuice/DeItaone/FirstSquawk] Trump reiterates Iran will be over very soon
+- 10/30 02:48 [DeItaone] PUTIN: IF THINGS GO TOO FAR, THERE WILL BE NO WINNERS
+- 10/30 02:49 [DeItaone/financialjuice] PUTIN: WE DO NOT WANT A SITUATION LIKE THAT IN THE STRAIT OF HORMUZ TO OCCUR IN BALTIC SEA
+- 10/30 02:50 [DeItaone] TRUMP SAYS US HAD TO ATTACK IRAN TO PREVENT IT FROM ACQUIRING NUCLEAR WEAPON
+- 10/30 02:52 [DeItaone] PUTIN SAYS MANY IN EUROPE PREPARING FOR WAR WITH RUSSIA BY 2030 PUTIN SAYS RUSSIA READY FOR WAR WITH EUROPE BUT DOES NOT WANT ONE
+- 10/30 02:55 [financialjuice] UKMTO receives report of incident in Strait of Hormuz
+- 10/30 02:55 [FirstSquawk] EXXON AND CHEVRON CANCEL PLANS FOR THEIR EXECUTIVES TO TRAVEL TO UAE'S OIL CONFERENCE ADIPEC NEXT WEEK ON SECURITY GROUND - TWO SOURCES.
+- 10/30 02:55 [financialjuice] UKMTO: Company security officer has informed UKMTO that their tanker has been struck by unknown projectile whilst completing outbound transit of Strait of Hormuz.
+- 10/30 02:57 [FirstSquawk] RUSSIA’S PUTIN, ON A CALL WITH NORWAY AND FINLAND LEADERS, SAYS RUSSIA SUPPORTS ANY STEPS TO RESTORE EUROPEAN RELATIONS, THOUGH THEY IMMEDIATELY SAID THEY DID NOT REPRESENT THE EU
+- 10/30 02:57 [FirstSquawk] RUSSIA’S PUTIN SAYS RUSSIA IS PREPARED FOR WAR BUT DOES NOT WANT ANY WAR, WARNING THAT “IF THINGS GO TOO FAR, THERE WILL BE NO WINNERS”
+- 10/30 03:00 [FirstSquawk] UKMTO SAYS IT HAS RECEIVED A REPORT OF AN INCIDENT IN THE STRAIT OF HORMUZ, WITH A COMPANY SECURITY OFFICER INFORMING IT THAT THEIR TANKER WAS STRUCK BY AN UNKNOWN PROJECTILE WHILE COMPLETING AN OUTBOUND TRANSIT OF THE STRAIT
+- 10/30 03:00 [FirstSquawk] UKMTO SAYS THERE ARE NO REPORTED INJURIES TO THE CREW OR ENVIRONMENTAL IMPACT AT THIS TIME
+- 10/30 03:02 [FirstSquawk] TOYOTA, HONDA, NISSAN SLASH CHINA OUTPUT AS GASOLINE CAR MARKET SHRINKS – NIKKEI
+- 10/30 03:02 [FirstSquawk] VENEZUELA OPPOSITION LEADER MACHADO: US WILL HAVE A LONG-TERM ROLE IN VENEZUELA
+- 10/30 03:06 [FirstSquawk] ONTARIO SEES AN FY26-27 DEFICIT OF C$16.9 BLN VERSUS A C$13.8 BLN BUDGET AND DELAYS A BALANCED BUDGET UNTIL 2029-30 ON LOWER GROWTH, WITH FY27 LONG-TERM BORROWING SEEN AT C$51.1 BLN VERSUS A BUDGET OF C$47.2 BLN
+- 10/30 03:06 [FirstSquawk] ONTARIO PROJECTS GDP GROWTH OF 0.5% IN 2026 AND 1.5% IN 2027, DOWN FROM MARCH FORECASTS OF 1% AND 1.7% RESPECTIVELY
+- 10/30 03:09 [FirstSquawk] APPLE CUTS TAIWAN APP STORE COMMISSION RATE TO 26%.
+- 10/30 03:12 [financialjuice] Trump: Canada has been treating us nicely lately.
+- 10/30 03:13 [FirstSquawk] US PRESIDENT TRUMP: CANADA HAS BEEN TREATING US NICELY LATELY
+- 10/30 03:14 [DeItaone] TRUMP REITERATES GULF OF MEXICO RENAMED GULF OF AMERICA TRUMP FLOATS RENAMING STRAIT OF HORMUZ AS TRUMP STRAIT
+- 10/30 03:22 [DeItaone] TRUMP SAYS US WORKING WITH VENEZUELA TO PRODUCE MILLIONS OF BARRELS OF OIL FOR US
+- 10/30 03:31 [DeItaone] TRUMP PROMISES $5,000 PAYMENT TO EVERY ADULT US CITIZEN IF REPUBLICANS WIN HOUSE, SENATE TRUMP ESTIMATES $5,000 DIVIDEND WOULD COST ABOUT $1 TRILLION, SAYS TARIFF REVENUE WOULD HELP FUND IT TRUMP SAYS PROPOSED $5,000 PAYMENTS MUST BE SPENT …
+- 10/30 03:31 [DeItaone] TRUMP WARNS DEMOCRATIC MIDTERM VICTORY WOULD TRIGGER 1929-STYLE ECONOMIC DEPRESSION
+- 10/30 03:31 [DeItaone] TRUMP PREDICTS OIL, GASOLINE PRICES WILL FALL SHARPLY
+- 10/30 03:31 [financialjuice] NYMEX WTI Crude December futures settle at $102.00 a barrel, down 78 cents, 0.76%.
+- 10/30 03:31 [financialjuice] NYMEX Gasoline November futures settle at $3.1850 a gallon.
+- 10/30 03:31 [financialjuice] NYMEX Diesel November futures settle at $4.7360 a gallon.
+- 10/30 03:32 [financialjuice] NYMEX Natural Gas December futures settle at $2.9520/MMBtu.
+- 10/30 03:34 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 0.76% LOWER AT $102.00/BBL, DOWN 78 CENTS
+- 10/30 03:37 [FirstSquawk] POLYMARKET SAYS IT HAS IDENTIFIED AND FIXED AN ISSUE IMPACTING ITS INTERNATIONAL PLATFORM, https://t.co/Ct6z1vfupE , AFTER ONE OF ITS THIRD-PARTY PROVIDERS WAS COMPROMISED, AND HAS REFERRED THE MATTER TO RELEVANT LAW ENFORCEMENT
+- 10/30 03:37 [FirstSquawk] POLYMARKET SAYS ANYONE IMPACTED WILL BE MADE WHOLE, AND THAT OUT OF AN ABUNDANCE OF CAUTION IT HAS TEMPORARILY HALTED TRADING AND IS WORKING TO BRING THE PLATFORM BACK ONLINE
