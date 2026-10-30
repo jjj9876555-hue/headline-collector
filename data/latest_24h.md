@@ -7,140 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-30 11:30 JST／対象: 10/29 11:30 〜 10/30 11:30 JST（時刻はすべて日本時間）
+生成: 2026-10-30 17:54 JST／対象: 10/29 17:54 〜 10/30 17:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 73 | 10/29 19:38 | 10/30 08:59 | ⚠ 131分（03:31→05:42） |
-| FirstSquawk | 345 | 10/29 11:31 | 10/30 11:29 | ⚠ 51分（02:04→02:55） |
-| financialjuice | 294 | 10/29 11:30 | 10/30 10:45 | ⚠ 69分（11:30→12:40） |
+| DeItaone | 74 | 10/29 19:38 | 10/30 17:53 | ⚠ 534分（08:59→17:53） |
+| FirstSquawk | 407 | 10/29 17:57 | 10/30 17:51 | ⚠ 51分（02:04→02:55） |
+| financialjuice | 375 | 10/29 17:57 | 10/30 17:49 | ⚠ 51分（10:45→11:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 683 行（統合前 714 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 828 行（統合前 858 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/29 11:30 [financialjuice] China's onshore yuan strengthens to 6.6621 per dollar, strongest since June 7, 2022
-- 10/29 11:31 [FirstSquawk] EL SALVADOR FOREIGN MINISTRY SAYS MORE THAN 2,000 TROOPS WILL BE SENT TO HAITI TO RESCUE MISSING TECHNICIANS
-- 10/29 11:32 [FirstSquawk] US FUTURES SELL-OFF INTENSIFIES, WITH NASDAQ DOWN 1.6% AND S&P 500 OFF 0.5%
-- 10/29 11:33 [FirstSquawk] VIETNAM PLANS TO ENSURE STATE OWNERSHIP REMAINS ABOVE 65% IN BIDV, VIETCOMBANK AND VIETINBANK THROUGH 2030
-- 10/29 11:33 [FirstSquawk] VIETNAM'S STATE HOLDINGS IN THREE MAJOR BANKS: BIDV AT 76.73%, VIETCOMBANK AT 74.80% AND VIETINBANK AT 64.46%
-- 10/29 11:35 [FirstSquawk] JPMORGAN LIFTS VODAFONE PRICE TARGET TO 100P FROM 85P
-- 10/29 11:44 [FirstSquawk] 30-YEAR US BOND YIELD SLIPS 5 BASIS POINTS TO 5.311%
-- 10/29 11:48 [FirstSquawk] DALIAN IRON ORE FUTURES CLIMB TO 686.5 YUAN PER METRIC TON, UP 3.08%
-- 10/29 11:56 [FirstSquawk] China’s Short-Form Drama Market Heats Up as Tencent and ByteDance Fight for Audience Share
-- 10/29 12:09 [FirstSquawk] TD COWEN RAISES NORTHROP GRUMMAN’S PRICE TARGET TO $600 FROM $540
-- 10/29 12:19 [FirstSquawk] Scotiabank Cuts Fortinet’s Price Target to $140 From $163
-- 10/29 12:25 [FirstSquawk] TAIWAN’S STOCK MARKET DECLINES MORE THAN 2%
-- 10/29 12:34 [FirstSquawk] GFZ REPORTS 5.86-MAGNITUDE EARTHQUAKE IN PAPUA NEW GUINEA’S NEW GUINEA REGION
-- 10/29 12:40 [FirstSquawk] YONHAP: NORTH KOREA FIRES PROJECTILE OF UNKNOWN TYPE
-- 10/29 12:40 [financialjuice] North Korea launches projectile into sea off east coast - media
-- 10/29 12:41 [financialjuice] North Korea fires possible ballistic missile: Japan coast guard
-- 10/29 12:41 [FirstSquawk] JAPAN COAST GUARD REPORTS POSSIBLE BALLISTIC MISSILE LAUNCH BY NORTH KOREA
-- 10/29 12:45 [financialjuice] Projectile believed to be North Korea-launched ballistic missile has already fallen: Japan Coast Guard
-- 10/29 12:45 [FirstSquawk] PIPER SANDLER CUTS ALPHABET’S PRICE TARGET TO $345 FROM $400
-- 10/29 12:55 [FirstSquawk] Thailand Moves to Confiscate US$1 Billion in Assets Tied to Money Laundering Group - SCMP
-- 10/29 12:57 [FirstSquawk] PIPER SANDLER RAISES MICROSOFT’S PRICE TARGET TO $650 FROM $610
-- 10/29 12:59 [financialjuice] North Korean missile seems to have landed beyond Japan's EEZ: Kyodo
-- 10/29 12:59 [FirstSquawk] NORTH KOREAN MISSILE APPEARS TO HAVE LANDED OUTSIDE JAPAN’S EEZ: KYODO
-- 10/29 13:07 [FirstSquawk] HSBC MAINTAINS ITS BEST LENDING RATE AT 5.00% IN HONG KONG
-- 10/29 13:07 [financialjuice] Russia shoots down most of 613 drones heading to Moscow overnight: Russian newswires cite mayor
-- 10/29 13:18 [FirstSquawk] Spain Train Crash Kills at Least 68, Two Japanese Nationals May Have Been on Board
-- 10/29 13:18 [financialjuice] North Korea launches about 10 missiles: media
-- 10/29 13:18 [FirstSquawk] AROUND 10 MISSILES FIRED BY NORTH KOREA, MEDIA REPORTS
-- 10/29 13:30 [financialjuice] Bank of Korea board member Hwang: time to concentrate on inflation
-- 10/29 13:30 [financialjuice] Bank of Korea board member Hwang: Monitoring FX market carefully, dollar-won shift quicker than anticipated
-- 10/29 13:30 [financialjuice] Bank of Korea board member Hwang: high borrowing costs limit economic gains for struggling small and medium businesses
-- 10/29 13:30 [financialjuice] Bank of Korea board member Hwang: upward revision to 2026 current account surplus to $500 billion from $450 billion previously
-- 10/29 13:31 [FirstSquawk] TOYOTA’S PARENT-ONLY JAPAN VEHICLE OUTPUT INCREASES 5.8% Y/Y IN SEPTEMBER TO 319,195
-- 10/29 13:31 [FirstSquawk] TOYOTA’S SEPTEMBER GLOBAL VEHICLE PRODUCTION FALLS 3.2% Y/Y TO 889,079 UNITS
-- 10/29 13:32 [FirstSquawk] TOYOTA’S PARENT-ONLY OVERSEAS VEHICLE PRODUCTION DROPS 7.6% Y/Y IN SEPTEMBER
-- 10/29 13:32 [FirstSquawk] TOYOTA’S PARENT-ONLY GLOBAL VEHICLE SALES DROP 2.2% Y/Y IN SEPTEMBER
-- 10/29 13:35 [FirstSquawk] HYUNDAI MOTOR LOWERS 2026 SALES GOAL BY 160,000 VEHICLES TO 4 MILLION UNITS
-- 10/29 13:58 [FirstSquawk] US TECH STOCKS FACE LOSSES AS EARNINGS FUEL FRESH AI SPENDING CONCERNS: FT
-- 10/29 14:00 [financialjuice] JAPANESE CONSUMER CONFIDENCE ACTUAL 35 (FORECAST 35.1, PREVIOUS 35.4) $MACRO
-- 10/29 14:04 [FirstSquawk] JAPAN CONSUMER CONFIDENCE INDEX OCT: 35.0 (EST 35.1; PREV 35.4)
-- 10/29 14:07 [financialjuice] China commerce ministry on U.S. listing Chinese firms on Xinjiang-related entity list: China firmly opposes this
-- 10/29 14:07 [financialjuice] China commerce ministry: U.S. listing of Chinese firms on Xinjiang-related entity list contradicts consensus reached by two heads of state
-- 10/29 14:07 [financialjuice] China commerce ministry: U.S. should immediately stop political manipulation, smear campaigns and unreasonable suppression over listing Chinese firms on Xinjiang-related entity list
-- 10/29 14:08 [financialjuice] China commerce ministry on U.S. listing chinese firms on xinjiang-related entity list: China will take necessary steps to firmly protect its own interests
-- 10/29 14:09 [FirstSquawk] RUSSIA TARGETS CARGO VESSEL SERVING UKRAINIAN MILITARY IN BLACK SEA: DEFENCE MINISTRY
-- 10/29 14:09 [FirstSquawk] CHINA COMMERCE MINISTRY: U.S. ACTION AGAINST CHINESE COMPANIES OVER XINJIANG RUNS COUNTER TO HEADS-OF-STATE CONSENSUS
-- 10/29 14:09 [FirstSquawk] BEIJING STRONGLY OBJECTS TO U.S. ADDITION OF CHINESE COMPANIES TO XINJIANG-RELATED ENTITY LIST
-- 10/29 14:09 [FirstSquawk] CHINA COMMERCE MINISTRY CALLS ON U.S. TO HALT XINJIANG-RELATED PRESSURE AND SMEAR CAMPAIGNS AGAINST CHINESE COMPANIES
-- 10/29 14:09 [FirstSquawk] CHINA SAYS IT WILL TAKE FIRM ACTION TO SAFEGUARD ITS INTERESTS AFTER U.S. LISTS CHINESE FIRMS
-- 10/29 14:14 [FirstSquawk] VENEZUELA’S OIL COMEBACK AT RISK AS INDUSTRY STRUGGLES TO FIND WORKERS: FT
-- 10/29 14:24 [FirstSquawk] AUSTRALIAN SHARES GAIN 0.5% AS S&P/ASX 200 SETTLES AT 8,891.80
-- 10/29 14:30 [financialjuice] DUTCH MANUFACTURING CONFIDENCE ACTUAL 2.3 (FORECAST -, PREVIOUS 4.2) $MACRO
-- 10/29 14:32 [financialjuice] South Korea presidential office holds emergency meeting on North Korea missile launch: urges halt - Newsis
-- 10/29 14:40 [financialjuice] North Korea missiles traveled about 250 km: media
-- 10/29 14:50 [FirstSquawk] RBA’S BLUNT COMMUNICATION PROMPTS FRESH QUESTIONS OVER HOW HIGH RATES WILL GO: WSJ
-- 10/29 14:57 [financialjuice] S.Korea spy agency: N.Korea Kim Jong Un visit to China mostly with foreign ministry staff, no key military officials -Yonhap
-- 10/29 14:57 [FirstSquawk] GOLD FALLS FURTHER BELOW $4,050 AMID RISING RATE HIKE EXPECTATIONS AND RENEWED DOLLAR DEMAND: FXS
-- 10/29 14:58 [financialjuice] Drone debris falls on industrial site territory in Russia's Sterlitamak: mayor
-- 10/29 15:01 [financialjuice] S.Korea spy agency: Kim Jong Un's China visit seemed to have additional motive beyond marking China's role in Korean War - Yonhap
-- 10/29 15:02 [financialjuice] S.Korea spy agency: Kim Jong Un may have indicated stance on US-N.Korea talks during China visit - Yonhap
-- 10/29 15:03 [financialjuice] doubles North Sea gas find estimate
-- 10/29 15:03 [financialjuice] S.Korea spy agency: gaps endure between US and N.Korea on dialogue terms - Yonhap
-- 10/29 15:03 [financialjuice] Equinor estimates Afrodite recoverable volumes at 77-180 million barrels of oil equivalent
-- 10/29 15:03 [financialjuice] Equinor doubles recoverable gas volume estimate at Afrodite find near Kvitebjorn field
-- 10/29 15:03 [financialjuice] Equinor: new appraisal well in Afrodite find indicates recoverable gas volumes could be more than double earlier estimates
-- 10/29 15:03 [financialjuice] S.Korea spy agency: situation may shift around Apec - Yonhap
-- 10/29 15:05 [FirstSquawk] SOUTH KOREAN INTELLIGENCE AGENCY WARNS OF POSSIBLE DEVELOPMENTS AROUND APEC: YONHAP
-- 10/29 15:05 [financialjuice] South Korea spy agency confirms North Korea leader Kim Jong Un daughter named Kim Ju Ae - media
-- 10/29 15:14 [FirstSquawk] YEN TRADES FLAT VERSUS THE DOLLAR WITH BOJ POLICY IN FOCUS: FXS
-- 10/29 15:18 [FirstSquawk] EU AND CANADA MOVE TO SOLIDIFY BILATERAL TIES AT TODAY’S MONTREAL SUMMIT: POLITICO
-- 10/29 15:23 [FirstSquawk] RUSSIAN DEFENCE MINISTRY REPORTS 1,214 UKRAINIAN DRONES DOWNED OVERNIGHT
-- 10/29 15:29 [FirstSquawk] NORTH KOREA CARRIES OUT LOUDSPEAKER BROADCAST TESTS AIMED AT SOUTH KOREA: YONHAP
-- 10/29 15:32 [financialjuice] UKMTO gets report of incident 9NM North of Khasab, Oman.
-- 10/29 15:32 [financialjuice] South Korea National Security Advisor: Continuing talks with US on Strait of Hormuz deployment, still considering various options.
-- 10/29 15:33 [FirstSquawk] VESSEL SPOTTED ON FIRE OFF KHASAB, 9 NAUTICAL MILES NORTH IN THE STRAIT OF HORMUZ
-- 10/29 15:37 [FirstSquawk] VOLKSWAGEN MAINTAINS CASH FLOW OUTLOOK DESPITE Q3 REVENUE SHORTFALL AND OPERATING LOSS
-- 10/29 15:41 [FirstSquawk] RUSSIA’S ROSATOM EXPLORES US PARTNERSHIP ON SMALL NUCLEAR POWER PLANTS TO MEET AI DATA CENTRE ENERGY NEEDS – RIA
-- 10/29 15:42 [financialjuice] Russia's Rosatom is discussing with united states possibility of cooperation on small nuclear power plants to supply power to data centres for artificial intelligence - Ria
-- 10/29 16:00 [financialjuice] SWEDISH GDP YOY ADVANCE ACTUAL 2.8% (FORECAST 2.9%, PREVIOUS 3.3%) $MACRO
-- 10/29 16:02 [FirstSquawk] SWEDEN (AUG) WAGES NON-MANUAL WORKERS YOY ACTUAL: 2.8% VS 2.9% PREVIOUS
-- 10/29 16:02 [FirstSquawk] SWEDEN (SEP) RETAIL SALES WDA YOY ACTUAL: 5.5% VS 6.9% PREVIOUS
-- 10/29 16:02 [FirstSquawk] SWEDEN (SEP) RETAIL SALES MOM ACTUAL: -0.4% VS 0.8% PREVIOUS
-- 10/29 16:02 [FirstSquawk] SWEDEN (Q3) GDP INDICATOR WDA YOY ACTUAL: 2.8% VS 2.8% PREVIOUS;EST 2.9%
-- 10/29 16:02 [FirstSquawk] SWEDEN (Q3) GDP INDICATOR SA QOQ ACTUAL: 0.4% VS 1.4% PREVIOUS;EST 0.3%
-- 10/29 16:02 [FirstSquawk] SWEDEN (SEP) GDP INDICATOR WDA YOY ACTUAL: 2.1% VS 3.5% PREVIOUS
-- 10/29 16:02 [FirstSquawk] SWEDEN (SEP) GDP INDICATOR SA MOM ACTUAL: -0.7% VS 1.1% PREVIOUS
-- 10/29 16:03 [FirstSquawk] SWEDEN (OCT) MANUFACTURING CONFIDENCE SA ACTUAL: 111.5 VS 106.3 PREVIOUS
-- 10/29 16:03 [FirstSquawk] SWEDEN (OCT) CONSUMER CONFIDENCE ACTUAL: 94.3 VS 102.2 PREVIOUS
-- 10/29 16:03 [FirstSquawk] SWEDEN (OCT) ECONOMIC TENDENCY SURVEY ACTUAL: 108.1 VS 107.1 PREVIOUS
-- 10/29 16:05 [FirstSquawk] LLOYDS: 3Q STATUTORY PRETAX PROFIT GBP2.33B, EST. GBP2.29B
-- 10/29 16:06 [FirstSquawk] SHELL PLANS SHARE BUYBACK OF $5B- HIGHER THAN $3B EARLIER
-- 10/29 16:06 [FirstSquawk] TOTALENERGIES: 3Q ADJ NET $9.10B, EST. $8.9B
-- 10/29 16:15 [FirstSquawk] Lloyds Q3 2026 Earnings - Net Interest Income: £3.81B (est £3.83B) - Loan-Loss Provision: £313.0M (est £311.8M) - Operating Costs: £2.37B (est £2.39B) - Total Deposits: £502.8B (est £502.41B)
-- 10/29 16:15 [FirstSquawk] Shell Q3 2026 Earnings - Adjusted EPS: $1.93 (est $1.79) - Net Debt: $39.7B (est $42.04B) - Cash Flow From Operations: $21.04B (est $16.13B) - Dividend/Share: 39.06c (est 39.00c) - Oil And Gas Output: 2.57M BOE/D (est 2.55M) - Gas Productio…
-- 10/29 16:16 [FirstSquawk] Glencore: 9M Own-Source Copper Production 598,600 Tons - 9M Own-Source Zinc Output 547,200 Tons
-- 10/29 16:16 [FirstSquawk] TotalEnergies Q3 2026 Earnings - Adj EPS: $4.03 (est $3.97) - Adj EBITDA: $17.81B (est $17.29B) - DACF: $12.63B (est $11.99B) - Adj Net $9.10B (est $8.9B)
-- 10/29 16:16 [FirstSquawk] Carlsberg Q3 2026 Earnings - Revenue: DKK25.28B (est DKK25.11B) - Western Europe Revenue: DKK14.56B - Asia Revenue: DKK5.07B
-- 10/29 16:18 [FirstSquawk] CHINA'S DEFENCE MINISTRY SAYS ON SENDING ATTACHE TO ASEAN DEFENCE MINISTERS' SUMMIT IN PHILIPPINES: PHILIPPINES' ACTIONS IN SOUTH CHINA SEA SERIOUSLY UNDERMINED SPIRIT OF ASEAN; CHINA'S DEFENCE MINISTRY, ON SENDING ATTACHE TO ASEAN
-- 10/29 16:23 [FirstSquawk] CHINA'S DEFENCE MINISTRY SAYS ON SENDING ATTACHE TO ASEAN DEFENCE MINISTERS' SUMMIT IN PHILIPPINES: PHILIPPINES' ACTIONS SERIOUSLY UNDERMINED SPIRIT OF ASEAN (CORRECTS TO REMOVE 'IN SOUTH CHINA SEA') (CORRECTED)
-- 10/29 16:25 [FirstSquawk] ISRAELI OFFICIAL ORDERS PROBE OF SUSPECTED VOTE: TAMPERING
-- 10/29 16:30 [FirstSquawk] CHINA: ACCUSES MANILA OF OBSTRUCTING ATTENDANCE AT ASEAN MEETING
-- 10/29 16:33 [FirstSquawk] SNB: 7 DAY INDEXED REPO AT SPREAD OF -5 BPS
-- 10/29 16:47 [FirstSquawk] INDIA TRADE MINISTER SAYS US TRADE DEAL WILL NOT COMPROMISE A SINGLE SENSITIVE INTEREST OF FARMERS OR ANY STAKEHOLDER
-- 10/29 16:48 [FirstSquawk] INDIA TRADE MINISTER SAYS INDIA WILL STAND AT STRONG COMPARATIVE ADVANTAGE ONCE US TRADE DEAL IS DONE
-- 10/29 16:49 [FirstSquawk] INDIA TRADE MINISTER SAYS INDIA WILL STAND AT STRONG COMPARATIVE ADVANTAGE ONCE US TRADE DEAL IS DONE; US TRADE DEAL WILL NOT COMPROMISE A SINGLE SENSITIVE INTEREST OF FARMERS OR ANY STAKEHOLDER
-- 10/29 17:01 [financialjuice] South Korea to issue 12t won of treasury bonds in November.
-- 10/29 17:02 [FirstSquawk] BRITAIN'S; FTSE 100 UP 0.3%; RANCE'S CAC 40 UP 0.51%; SPAIN'S IBEX DOWN 1.19%
-- 10/29 17:03 [financialjuice] EU Energy Chief: We're better situated at dealing with this crisis than we were in 2022 because we've reduced our gas consumption. We use 18% less gas now than we did in 2022.
-- 10/29 17:03 [financialjuice] SPANISH RETAIL SALES SA YOY ACTUAL -1.4% (FORECAST -, PREVIOUS -0.4%) $MACRO
-- 10/29 17:04 [FirstSquawk] EU ENERGY CHIEF SAYS WE'RE BETTER SITUATED AT DEALING WITH THIS CRISIS THAN WE WERE IN 2022 BECAUSE WE'VE REDUCED OUR GAS CONSUMPTION. WE USE 18% LESS GAS NOW THAN WE DID IN 2022.
-- 10/29 17:06 [FirstSquawk] EU ENERGY CHIEF SAYS THIS CRISIS IS ALSO WORSE BECAUSE IT’S OIL PRODUCTS
-- 10/29 17:06 [financialjuice] Mizuho bank to raise yen term deposit rates from November 2.
-- 10/29 17:09 [FirstSquawk] SAUDIS: ISSUE POTENTIAL DANGER ALERT IN NAJRAN
-- 10/29 17:11 [FirstSquawk] 6.4 MAG. EARTHQUAKE SOUTHEAST OF EASTER ISLAND -USGS
-- 10/29 17:13 [FirstSquawk] SAUDIS: DANGER PASSED IN NAJRAN
-- 10/29 17:26 [FirstSquawk] ARAMCO SETS NOV BUTANE PRICE AT $780/TON
-- 10/29 17:47 [financialjuice/FirstSquawk] Iran's Revolutionary Guards Navy: 3 tankers caught fire after hitting mines over last 24 hours off southern coast of Strait of Hormuz.
 - 10/29 17:57 [financialjuice/FirstSquawk] ❗ Trump Admin in ongoing talks for temporary peace deal - Semafor
 - 10/29 18:00 [financialjuice] ITALIAN UNEMPLOYMENT RATE ACTUAL 6.3% (FORECAST 6.2%, PREVIOUS 6.2%) $MACRO
 - 10/29 18:04 [FirstSquawk] CHINA: CHILE RENEW LOCAL-CURRENCY SWAP AGREEMENT
@@ -707,3 +590,265 @@
 - 10/30 11:19 [FirstSquawk] Tokyo Shopping Complex Targeted Again as ¥46 Million Watch Is Stolen
 - 10/30 11:28 [FirstSquawk] Binance Says Estimated Total Impact From Potential Security Breach Stands at About $6.3 Billion
 - 10/30 11:29 [FirstSquawk] Japan’s Marubeni Eyes Gains From Growing Supply Constraints Linked to AI Demand
+- 10/30 11:36 [financialjuice] South Korea's national security adviser: Seoul to maintain support for Ukraine as part of global community
+- 10/30 11:36 [financialjuice] South Korea's national security adviser: US defense secretary Hegseth reconfirms Washington's readiness on opcon transfer
+- 10/30 11:36 [financialjuice] South Korea's national security adviser: South Korea to strongly react to North Korea crossing military demarcation line
+- 10/30 11:37 [FirstSquawk] Seoul Says It Will Respond Decisively to North Korea Crossing the Military Demarcation Line
+- 10/30 11:38 [FirstSquawk] Seoul Reaffirms Commitment to Ukraine Support as Part of Global Efforts
+- 10/30 11:38 [FirstSquawk] Washington Reaffirms Willingness to Proceed With OPCON Transfer, South Korean Adviser Says
+- 10/30 11:42 [FirstSquawk] Compromised DevOps Engineer Laptop May Be Linked to Binance Security Incident, Initial Probe Finds
+- 10/30 11:42 [FirstSquawk] Binance Says Security Breach Involved Unauthorized Access to Service Container Through Compromised Laptop
+- 10/30 11:47 [financialjuice] Cyera discusses raising funds in round that could almost double valuation to $20 billion: The Information
+- 10/30 11:51 [FirstSquawk] South Korea to Continue Backing Ukraine Despite Diplomatic Tensions, Adviser Says - YONHAP
+- 10/30 11:57 [FirstSquawk] Piper Sandler Raises Arthur J. Gallagher’s Price Target to $308 From $287
+- 10/30 12:02 [financialjuice] BOJ holds short-term interest rate target at 1.25%
+- 10/30 12:02 [financialjuice] BOJ: board's core CPI fiscal 2026 median projection at 2.5% vs 2.5% in July
+- 10/30 12:02 [financialjuice] BOJ sets rate policy with 8-1 vote
+- 10/30 12:02 [financialjuice] BOJ: underlying inflation has hit levels in line with price target
+- 10/30 12:02 [financialjuice] Oklahoma board: real GDP fiscal 2026 median forecast at +0.7% vs +0.6% in July
+- 10/30 12:02 [financialjuice] BOJ board member Takata dissented on rate decision
+- 10/30 12:03 [financialjuice] BOJ board member Takata suggests lifting short-term interest rate target to 1.5%, board rejects proposal
+- 10/30 12:03 [financialjuice] RBI keeps short-term interest rate target at 12.5%
+- 10/30 12:03 [financialjuice] Oj: board's core-core CPI fiscal 2027 median projection at 2.7% vs 2.6% in July
+- 10/30 12:03 [financialjuice] BOJ: core inflation likely to stay near levels consistent with price target
+- 10/30 12:03 [financialjuice] OJ: risk underlying inflation could exceed price target
+- 10/30 12:03 [financialjuice] OJ: Core inflation hits levels generally aligned with price target
+- 10/30 12:03 [financialjuice] BoJ’s Takata: core CPI inflation has reached price stability target
+- 10/30 12:03 [financialjuice] BOJ: must monitor risk of inflation rising unexpectedly, causing negative effects on economy later
+- 10/30 12:03 [financialjuice] BoJ’s Takata: situation has entered new phase requiring faster approach to neutral interest rate
+- 10/30 12:03 [financialjuice] BoJ: risks to prices tilted toward upside
+- 10/30 12:03 [financialjuice] OJ: plans to offload ETF holdings worth about 0.1% of market trading value
+- 10/30 12:04 [financialjuice] BOJ: will keep raising interest rates amid economic, price and financial condition changes
+- 10/30 12:04 [financialjuice] BOJ: will consider timing, pace of rate increases with focus on chances of economy, prices aligning with baseline scenario and risks
+- 10/30 12:04 [financialjuice] BoJ: set sales pace at about 860 billion yen annually on book value basis
+- 10/30 12:04 [financialjuice] BOJ: Medium- to long-term inflation expectations near 2%
+- 10/30 12:04 [financialjuice] BOJ: crucial to anchor core inflation near 2% target
+- 10/30 12:04 [financialjuice] BOJ: companies’ conduct shifting more toward increasing wages, prices
+- 10/30 12:05 [financialjuice] BOJ: will implement monetary policy as needed to sustainably and stably meet inflation goal
+- 10/30 12:05 [financialjuice] BOJ: must prevent risk of inflation rising above target from materialising, exerting negative impact on economy later
+- 10/30 12:05 [financialjuice] BOJ: risks to economic activity remain broadly balanced
+- 10/30 12:06 [financialjuice] Dollar/yen steady at 157.37 after Bank of Japan maintains interest rates, as expected
+- 10/30 12:06 [financialjuice] BOJ: real interest rates have risen recently but short-term rates stay low
+- 10/30 12:06 [financialjuice] BoJ: interest rate burden is sufficiently low for firms compared to profits
+- 10/30 12:06 [financialjuice] BOJ: demand for corporate funds is rising
+- 10/30 12:06 [financialjuice] Dollar/yen holds decline after BoJ decision, last trades at 157.42
+- 10/30 12:07 [financialjuice] boj: financial institutions' lending stance stays active
+- 10/30 12:07 [financialjuice] BOJ on risks: vigilance remains necessary over impact of higher crude oil procurement costs on economy and prices
+- 10/30 12:07 [financialjuice] BoJ: Middle East conflict, growth in al demand, fx volatility and their economic, price impact warrant attention
+- 10/30 12:08 [financialjuice] BOJ: unlike past focus on downside price risks, Japan now faces risk of inflation overshoot
+- 10/30 12:08 [financialjuice] BOJ: no major distortions observed in Japan's financial activity
+- 10/30 12:08 [financialjuice] boj: it would take about 43 years to finish sales of etf holdings vs previous around 112 years
+- 10/30 12:08 [financialjuice] BOJ on risks: price pass-through in B2B transactions from high crude oil costs, AI-driven demand, forex likely to push consumer prices higher
+- 10/30 12:09 [financialjuice] BOJ: long-term inflation expectations hover near 2%
+- 10/30 12:09 [financialjuice] BOJ on risks: If AI earnings don’t grow with investment, adjustment pressure could occur alongside asset price shifts
+- 10/30 12:09 [financialjuice] BOJ: to speed up sales of ETF holdings to about 860 billion yen from previous about 330 billion yen
+- 10/30 12:09 [financialjuice] BOJ: underlying inflation likely to stay at levels aligned with Bank of Japan target
+- 10/30 12:10 [financialjuice] BOJ: shift in ETF sales pace starts January 2027
+- 10/30 12:10 [financialjuice] Boj: inflation expectations fluctuating near 2%
+- 10/30 12:11 [financialjuice] BOJ on risks: recent surge in grain prices amid geopolitical tensions in Middle East and global weather conditions warrants attention as potential concern
+- 10/30 12:11 [FirstSquawk] Bank of Japan Holds Policy Rate at 1.25% in Line With Expectations
+- 10/30 12:11 [financialjuice] BOJ: forecasts in outlook report exclude impact of proposed temporary food tax reduction
+- 10/30 12:12 [financialjuice] BOJ on risks: insufficient labor-to-capital substitution amid shortages may curb growth rate
+- 10/30 12:13 [financialjuice] BOJ: proposed tax cut would reduce core CPI by 1.3 percentage points in fiscal 2027
+- 10/30 12:16 [financialjuice] UKMTO on northeast Oman incident: verified report confirms crew are safe, no environmental impact
+- 10/30 12:16 [financialjuice] UKMTO on incident northeast of Oman: tanker approached on port side by small boat that attached two explosives to hull above waterline
+- 10/30 12:17 [financialjuice] Dollar/yen extends losses, last down 0.37% at 157.115
+- 10/30 12:17 [financialjuice] UKMTO: subsequent explosions triggered a fire in engine room temporarily disabling vessel
+- 10/30 12:17 [financialjuice] UKMTO: fire now reported extinguished, vessel proceeding to next port of call
+- 10/30 12:20 [FirstSquawk] UKMTO Says Fire Is Out and Vessel Is Proceeding to Its Next Destination
+- 10/30 12:20 [FirstSquawk] Further Explosions Sparked Engine Room Fire, Leaving Vessel Temporarily Inoperable, UKMTO Says
+- 10/30 12:20 [FirstSquawk] Small Boat Placed Two Explosive Devices on Tanker’s Hull in Incident Off Oman, UKMTO Says
+- 10/30 12:20 [FirstSquawk] UKMTO Confirms Crew Safety and No Pollution Impact After Incident Off Oman
+- 10/30 12:21 [FirstSquawk] BOJ BOARD MEMBER TAKATA REGISTERS DISSENT ON RATES
+- 10/30 12:21 [FirstSquawk] BOJ RATE POLICY DECISION APPROVED BY 8-1 MARGIN
+- 10/30 12:21 [FirstSquawk] BOJ BOARD MEMBER TAKATA SUGGESTS BUMPING SHORT-TERM RATE TARGET TO 1.5 PERCENT, MOTION FAILS
+- 10/30 12:21 [FirstSquawk] BOJ OFFICIAL TAKATA NOTES CORE CPI INFLATION HAS ACHIEVED STABILITY GOALS
+- 10/30 12:21 [FirstSquawk] BOJ OFFICIAL TAKATA ARGUES SHIFT TO NEW ECONOMIC ERA DICTATES FASTER PROGRESS TOWARD NEUTRAL RATES
+- 10/30 12:21 [FirstSquawk] BOJ STATES UNDERLYING INFLATION MATCHES OFFICIAL TARGET METRICS
+- 10/30 12:21 [FirstSquawk] BOJ FORECASTS UNDERLYING INFLATION WILL HOVER NEAR TARGET BENCHMARKS
+- 10/30 12:21 [FirstSquawk] BOJ HIGHLIGHTS NEED TO BLOCK UPSIDE INFLATIONARY SURPRISES FROM HURTING THE WIDER ECONOMY
+- 10/30 12:21 [FirstSquawk] BOJ SEES MID- TO LONG-TERM INFLATION EXPECTATIONS LOCKED AROUND 2 PERCENT
+- 10/30 12:21 [FirstSquawk] BOJ OBSERVES BUSINESS TRENDS LEANING HEAVILY INTO WAGE AND PRICE INCREASES
+- 10/30 12:21 [FirstSquawk] BOJ RISK WATCH: TRACKING CRUDE OIL COST HIKES AND THEIR EFFECT ON BUSINESS AND PRICES
+- 10/30 12:21 [FirstSquawk] BOJ RISK WATCH: COMMODITY AND FX COST PASS-THROUGH LIKELY TO REACH RETAIL BUYERS
+- 10/30 12:21 [FirstSquawk] BOJ RISK WATCH: POTENTIAL ASSET PRICE VOLATILITY IF AI RETURNS FAIL TO MATCH CAPEX
+- 10/30 12:21 [FirstSquawk] BOJ RISK WATCH: GEOPOLITICAL STRAINS AND WEATHER WOES THREATEN HIGHER GRAIN PRICES
+- 10/30 12:21 [FirstSquawk] BOJ RISK WATCH: SLUGGISH LABOR-TO-CAPITAL SUBSTITUTION RISKS SLOWING GROWTH AMID LABOR CRUNCHES
+- 10/30 12:21 [FirstSquawk] BOJ APPROVES PLAN TO UNLOAD ETF ASSETS EQUAL TO ABOUT 0.1 PERCENT OF TRADING VALUE
+- 10/30 12:21 [FirstSquawk] BOJ SETS ANNUAL BOOK VALUE PACE FOR ETF SALES AT NEARLY 860 BILLION YEN
+- 10/30 12:21 [FirstSquawk] BOJ REAFFIRMS FINANCIAL ENVIRONMENT REMAINS ACCOMMODATIVE
+- 10/30 12:21 [FirstSquawk] BOJ VOWS CONTINUED RATE HIKES TIED TO EVOLVING ECONOMIC AND PRICE CONDITIONS
+- 10/30 12:21 [FirstSquawk] BOJ TO WEIGH RATE PATH TIMING AGAINST BASELINE OUTLOOKS AND POTENTIAL HAZARDS
+- 10/30 12:21 [FirstSquawk] BOJ STRESSES IMPORTANCE OF ANCHORING UNDERLYING INFLATION NEAR 2 PERCENT
+- 10/30 12:21 [FirstSquawk] BOJ COMMITS TO MAINTAINING POLICY STANCE FOR SUSTAINED INFLATION GOAL ATTAINMENT
+- 10/30 12:22 [FirstSquawk] BOJ EMPHASIZES PREVENTING INFLATION FROM OVERSHOOTING AND DAMAGING RECOVERY
+- 10/30 12:22 [FirstSquawk] BOJ NOTES REAL INTEREST RATES EDGE UP WHILE SHORT-TERM BORROWING COSTS REMAIN LOW
+- 10/30 12:22 [FirstSquawk] BOJ FINDS CORPORATE FINANCING COSTS FAVORABLE AGAINST CURRENT EARNINGS
+- 10/30 12:22 [FirstSquawk] BOJ REPORTS HEALTHY AND RISING DEMAND FOR BUSINESS LOANS
+- 10/30 12:22 [FirstSquawk] BOJ NOTES DOMESTIC LENDERS MAINTAIN AN ACTIVE CREDIT STANCE
+- 10/30 12:22 [FirstSquawk] BOJ MONITORS MIDDLE EAST TENSIONS, AI DEMAND SHIFTS, AND CURRENCY VOLATILITY
+- 10/30 12:22 [FirstSquawk] BOJ NOTES FOCUS HAS SHIFTED FROM DEFLATION DOWNSIDE RISKS TO INFLATION OVERSHOOT THREATS
+- 10/30 12:22 [FirstSquawk] BOJ SPOTS NO MAJOR VULNERABILITIES ACROSS DOMESTIC FINANCIAL MARKETS
+- 10/30 12:22 [FirstSquawk] BOJ TRACKS LONG-TERM INFLATION EXPECTATIONS HOVERING NEAR 2 PERCENT
+- 10/30 12:22 [FirstSquawk] BOJ PROJECTS INFLATION PATH TO ALIGN WITH CENTRAL BANK TARGETS
+- 10/30 12:22 [FirstSquawk] BOJ NOTES INFLATION EXPECTATIONS ANCHORED NEAR 2 PERCENT
+- 10/30 12:22 [FirstSquawk] BOJ PROJECTIONS EXCLUDE POTENTIAL EFFECTS FROM A PROPOSED FOOD CONSUMPTION TAX CUT
+- 10/30 12:22 [FirstSquawk] BOJ ESTIMATES PLANNED TAX REDUCTION WOULD SLASH FISCAL 2027 CORE CPI BY 1.3 PERCENTAGE POINTS
+- 10/30 12:22 [FirstSquawk] BOJ ESTIMATES PLANNED TAX REDUCTION WOULD SLASH FISCAL 2027 CORE-CORE CPI BY 1.4 PERCENTAGE POINTS
+- 10/30 12:31 [FirstSquawk] Nikkei Extends Losses to 2.5% Despite Little Reaction to BoJ Rate Decision
+- 10/30 12:32 [FirstSquawk] 10-Year JGB Futures Give Back Some Gains After BoJ Decision, Last Higher by 0.34 Point
+- 10/30 12:41 [FirstSquawk] Jefferies Raises Gilead Sciences’ Price Target to $196 From $185
+- 10/30 12:47 [FirstSquawk] RBC Raises Shell’s Price Target to 4,100p From 4,000p
+- 10/30 12:56 [FirstSquawk] Yen Strengthens Against Dollar After BoJ’s Hawkish Pause, Focus Turns to Ueda - fx
+- 10/30 12:57 [financialjuice] Saudi-led coalition: drone launched by Yemen's Houthis over Mecca destroyed
+- 10/30 12:57 [FirstSquawk] Saudi-Led Coalition Reports Destruction of Drone Launched by Yemen’s Houthis Over Mecca
+- 10/30 13:00 [financialjuice] Japan finance minister Katayama: expect BoJ to coordinate closely with government to reach 2% inflation target
+- 10/30 13:00 [financialjuice] Japan finance minister Katayama: no remarks on today's BoJ decision
+- 10/30 13:01 [FirstSquawk] US Equity Futures Slide Further, With Nasdaq 100 Down 2% and S&P 500 Off Almost 1%
+- 10/30 13:01 [FirstSquawk] Katayama Says She Has No Comment on Today’s BoJ Decision
+- 10/30 13:01 [FirstSquawk] Japan’s Finance Minister Expects Continued BoJ-Government Coordination to Reach 2% Inflation Target
+- 10/30 13:11 [FirstSquawk] ANZ Bank New Zealand Names Michael Bullock to Chief Operating Officer Role
+- 10/30 13:21 [FirstSquawk] Yi He Reassures Users That Binance Deposits and Related Services Remain Fully Operational
+- 10/30 13:21 [FirstSquawk] Binance Expects Withdrawal Operations to Resume in the Coming 48 Hours, Yi He Says
+- 10/30 13:22 [FirstSquawk] Binance Team Focuses on Upgrading Withdrawal Functionality and Related Address Security Measures
+- 10/30 13:22 [FirstSquawk] Binance Focuses on Strengthening Withdrawal Services and Related Address Controls, Yi He Says
+- 10/30 13:31 [financialjuice] Japan September crude oil imports decline 17.7% year-on-year: Meti
+- 10/30 13:31 [financialjuice] Japan September total oil product sales down 10.4% year on year: meti
+- 10/30 13:31 [financialjuice] Japan September kerosene sales rise 7.3% year on year: Meti
+- 10/30 13:31 [financialjuice] Japan September gasoline sales drop 8.5% year on year: meti
+- 10/30 13:32 [FirstSquawk] Japan's 5-Year JGB Yield Drops 3.5 Basis Points to 2.235%
+- 10/30 13:52 [FirstSquawk] Yen Strengthens and Nikkei Slides Further After Bank of Japan's Latest Decisions
+- 10/30 13:59 [FirstSquawk] Bank of Japan Maintains Current Policy as Further Rate Increases Remain in View
+- 10/30 14:00 [financialjuice] Pentagon officials tell some Nato allies to moderate rhetoric on Russian threat, sources say
+- 10/30 14:00 [financialjuice] JAPANESE HOUSING STARTS YOY ACTUAL -2.743% (FORECAST 2.85%, PREVIOUS 6.1%) $MACRO
+- 10/30 14:01 [financialjuice] Russia hits military and energy sites in Ukraine’s Kyiv and Dnipropetrovsk region: Russian newswires cite defense ministry
+- 10/30 14:01 [financialjuice] Russia hits port facilities in Odesa region, cargo ships: Russian newswires quote defence ministry
+- 10/30 14:02 [FirstSquawk] Japan's 20-Year JGB Yield Drops 6.5 Basis Points to 3.605%
+- 10/30 14:02 [FirstSquawk] Russian Forces Target Military and Energy Infrastructure in Kyiv and Dnipropetrovsk Regions, Newswires Report
+- 10/30 14:06 [FirstSquawk] FT: Virgin Media O2 Nears Deal to Tap BT's Broadband Infrastructure
+- 10/30 14:34 [financialjuice] Ukraine, Russia human rights commissioners meet in Russian-held Oleshky, footage by Russian state TV Vesti
+- 10/30 14:39 [FirstSquawk] Euro Maintains Gains Against Dollar Near 1.1200, Yet Struggles to Break Technical Resistance
+- 10/30 14:52 [financialjuice] Russian human rights commissioner: ceasefire stable in humanitarian operation zone in russian-controlled Oleshky
+- 10/30 14:52 [financialjuice] Yemen's Houthis reject claims of Mecca attack after Saudi Arabia says it downed Houthi drone
+- 10/30 14:52 [FirstSquawk] Ceasefire Holding Around Humanitarian Operation in Russian-Controlled Oleshky, Russian Official Says
+- 10/30 14:54 [FirstSquawk] Yemen's Houthis Say They Did Not Attack Mecca, Contradicting Saudi Drone Strike Account
+- 10/30 14:59 [financialjuice] Local residents can evacuate Oleshky until 1400 local time on October 30: Russian human rights commissioner says
+- 10/30 15:00 [financialjuice] Finnish September GDP increases 2.0% year on year: Statistics Finland
+- 10/30 15:01 [financialjuice] Two killed during demining in Oleshky: Russian human rights commissioner, TASS quotes
+- 10/30 15:09 [FirstSquawk] New Zealand Dollar Likely to Extend Gains Against the US Dollar, Approaching 20-Day EMA-FXS
+- 10/30 15:10 [FirstSquawk] Sterling Gains Past 1.3350, Though Bearish Bias Persists Below 100-Day SMA-FXS
+- 10/30 15:16 [financialjuice] ECB's Simkus: Likelihood of energy spillover has risen.
+- 10/30 15:17 [financialjuice] ECB's Simkus: We don't see second-round effects yet.
+- 10/30 15:29 [financialjuice] Qatari mediators returned to Tehran on Friday as part of effort to reach a US-Iran deal, mediation talks have been coordinated with US - Official Briefed on Talks.
+- 10/30 15:30 [financialjuice] ❗ FRENCH GDP QOQ PRELIM ACTUAL -0.1% (FORECAST 0.1%, PREVIOUS 0.0%) $MACRO
+- 10/30 15:30 [financialjuice] FRENCH GDP YOY PRELIM ACTUAL -0.1% (FORECAST 0.3%, PREVIOUS 0.5%) $MACRO
+- 10/30 15:30 [financialjuice] FRENCH CONSUMER SPENDING MOM ACTUAL -0.5% (FORECAST 0.1%, PREVIOUS -0.5%) $MACRO
+- 10/30 15:31 [FirstSquawk] Spot Platinum Falls Sharply, Trading Down Nearly 3% at $1,443.75/Oz
+- 10/30 15:31 [FirstSquawk] France (sep) consumer spending yoy actual: -0.4% vs 0.8% previous;est 0.4%
+- 10/30 15:31 [FirstSquawk] France (sep) consumer spending mom actual: -0.5% vs -0.5% previous;est 0.4%
+- 10/30 15:31 [FirstSquawk] France (q3) gdp yoy actual: -0.1% vs 0.5% previous;est 0.3%
+- 10/30 15:31 [FirstSquawk] France (q3) gdp qoq actual: -0.1% vs 0.0% previous;est 0.1%
+- 10/30 15:33 [financialjuice] BoJ's Governor Ueda: Japan's economy expected to continue growing moderately.
+- 10/30 15:35 [financialjuice] BoJ's Governor Ueda: Mid- to long-term inflation expectations are at around 2%.
+- 10/30 15:35 [financialjuice] BoJ's Governor Ueda: Underlying CPI inflation at level generally consistent with 2% price stability target, expected to remain at around that level.
+- 10/30 15:35 [FirstSquawk] BoJ Governor Ueda Says Core Inflation Is Near the 2% Price Stability Goal and Likely to Remain There
+- 10/30 15:36 [financialjuice] BoJ's Governor Ueda: We need to watch impact of FX, AI and Middle East.
+- 10/30 15:37 [FirstSquawk] BoJ Governor Ueda Says Policy Rates Will Rise Further Depending on Economic, Inflation and Financial Conditions
+- 10/30 15:38 [FirstSquawk] BoJ Governor Ueda Says Policy Adjustments Will Depend on Outlook Risks and Likelihood of Meeting Projections
+- 10/30 15:38 [financialjuice] BoJ's Governor Ueda: Japan's financial conditions are accommodative.
+- 10/30 15:39 [FirstSquawk] 2. BoJ Governor Ueda Emphasises Need to Keep Underlying Inflation Near 2%
+- 10/30 15:39 [FirstSquawk] BoJ Governor Ueda Says Financial Conditions in Japan Are Still Supportive
+- 10/30 15:40 [FirstSquawk] Bank of Japan Maintains Current Pace of J-REIT Sales, Ueda Says
+- 10/30 15:40 [FirstSquawk] Russia Claims to Have Downed More Than 1,000 Drones Across Its Regions Overnight
+- 10/30 15:41 [financialjuice] BoJ's Governor Ueda: Various govt measures stimulated economy to lead to 2% price target being met.
+- 10/30 15:42 [FirstSquawk] BoJ Governor Ueda Says Government Policies Boosted Economic Activity, Helping Reach 2% Price Goal
+- 10/30 15:45 [financialjuice] Reserve Bank of Australia to raise cash rate to 4.85% on November 3, 30 of 32 economists say - Poll.
+- 10/30 15:45 [financialjuice] RBA cash rate of 4.85% to be peak for the year, 27 of 29 economists say - Poll.
+- 10/30 15:45 [FirstSquawk] Silver Prices Slide 3% to $50.82/Oz
+- 10/30 15:46 [FirstSquawk] BoJ Governor Ueda Says Closer Monitoring of Economic and Financial Risks Is Needed to Guide Policy
+- 10/30 15:47 [FirstSquawk] BoJ Governor Ueda Emphasises Need to Keep Underlying Inflation From Overshooting 2%
+- 10/30 15:47 [FirstSquawk] BoJ Governor Ueda Says Economic and Inflation Trends Will Be Examined Closely at Each Meeting
+- 10/30 15:49 [FirstSquawk] BoJ Governor Ueda Says Policymakers Will Examine Data to Determine if Underlying Inflation Is Stable
+- 10/30 15:49 [FirstSquawk] BoJ Governor Ueda Says Inflation Expectations Will Be Closely Assessed for Alignment With the 2% Target
+- 10/30 15:49 [FirstSquawk] Spot Gold Retreats to $3,983.79/Oz, Down Nearly 1%
+- 10/30 15:51 [financialjuice] BoJ's Governor Ueda: Not yet to declare inflation target has been achieved as we think it is important for inflation to be stably, sustainably around 2%.
+- 10/30 15:52 [FirstSquawk] BoJ Governor Ueda Says Sustainability of Wage Growth Remains an Important Consideration
+- 10/30 15:52 [FirstSquawk] BoJ Governor Ueda Says Bank Will Not Issue Formal Announcement on Achievement of Price Target
+- 10/30 15:54 [financialjuice] France Fin. Min. Lescure: French economy ground to halt in 2026.
+- 10/30 15:54 [FirstSquawk] . BoJ Governor Ueda Says Risks of Inflation Exceeding Target Are Not Significantly Higher Than a Month Ago
+- 10/30 15:54 [financialjuice] France Fin. Min. Lescure: Need a budget to boost confidence and economy.
+- 10/30 15:57 [FirstSquawk] BoJ Governor Ueda Says He Won't Discuss Whether Government Accord Needs Revising
+- 10/30 15:59 [FirstSquawk] BoJ Governor Ueda Says Inflation Expectations Are Still Weakly Anchored Around 2%
+- 10/30 16:00 [financialjuice] GERMAN IMPORT PRICES YOY ACTUAL 10.4% (FORECAST 10.3%, PREVIOUS 8.3%) $MACRO
+- 10/30 16:00 [financialjuice] GERMAN IMPORTS PRICES MOM ACTUAL 2.1% (FORECAST 2%, PREVIOUS 1.0%) $MACRO
+- 10/30 16:01 [FirstSquawk] GERMANY (SEP) IMPORT PRICE INDEX MOM ACTUAL: 2.1% VS 1.0% PREVIOUS;EST 2.0%
+- 10/30 16:01 [FirstSquawk] GERMANY (SEP) IMPORT PRICE INDEX YOY ACTUAL: 10.4% VS 8.3% PREVIOUS;EST 10.3%
+- 10/30 16:02 [FirstSquawk] UK (OCT) NATIONWIDE HOUSE PX MOM ACTUAL: 0.0% VS -0.2% PREVIOUS;EST -0.2%
+- 10/30 16:02 [FirstSquawk] UK (OCT) NATIONWIDE HOUSE PX NSA YOY ACTUAL: 0.5% VS 0.8% PREVIOUS;EST 0.6%
+- 10/30 16:02 [FirstSquawk] NORWAY (OCT) UNEMPLOYMENT RATE ACTUAL: 2.0% VS 2.0% PREVIOUS
+- 10/30 16:03 [FirstSquawk] ASTRAZENECA: 3Q CORE EPS $2.79, EST. $2.62
+- 10/30 16:04 [FirstSquawk] BP: 3Q ADJ NET $8.46B, EST. $7.26B
+- 10/30 16:06 [FirstSquawk] UEDA SAYS TO KEEP MULLING RATE HIKE AT EACH MEETING INCLUDING NEXT
+- 10/30 16:07 [FirstSquawk] AstraZeneca Q3 2026 Earnings - Core EPS: $2.79 (est $2.62) - Revenue: $16.21B (est $15.98B) - Core Operating Margin: 36% (est 33.6%) - Imfinzi Revenue: $1.99B (est $1.96B) - Farxiga Revenue: $1.61B - Reconfirms Revenue And Core EPS Guidance
+- 10/30 16:08 [FirstSquawk] BP Q3 2026 Earnings - Adjusted EPS: 54.37c (est 46.39c) - Adjusted Net Income: $8.46B (est $7.26B) - Operating Cash Flow: $14.83B (est $13.32B) - Dividend/Share: 8.660c (est 8.731c) - Net Debt: $13.9B (est $14.3B) - Debt Gearing: 14.8% (est…
+- 10/30 16:08 [FirstSquawk] NatWest Q3 2026 Earnings - Net Interest Margin: 2.5% (est 2.51%) - Pretax Operating Profit: £2.23B (est £2.2B) - Net Income: £1.53B (est £1.53B) - Net Interest Income: £3.56B (est £3.61B) - Non-Interest Income: £1.08B (est £1.03B) - Now See…
+- 10/30 16:14 [FirstSquawk] CHINA FOREIGN MINISTRY SAYS ON US COMMUNICATIONS COMMISSION'S MEASURES AGAINST CHINESE FIRMS: CHINA WILL DO ANY MEASURES TO DEFEND ITS RIGHTS
+- 10/30 16:19 [FirstSquawk] BOJ'S UEDA SAYS THE TARGET IS TO ACHIEVE STABLE INFLATION; WON'T BE MAKING DECLARATION OF VICTORY
+- 10/30 16:22 [FirstSquawk] CHINA MILITARY SAYS CONDUCTS COMBAT READINESS PATROLS IN THE SEA AND AIRSPACE OF SCARBROUGH SHOAL AND ITS SURROUNDING AREAS
+- 10/30 16:24 [FirstSquawk] UEDA SAYS FASTER ETF SALES PACE TO HAVE ONLY LIMITED MARKET IMPACT; NEED TO RESPOND TO UPSIDE RISKS APPROPRIATELY
+- 10/30 16:28 [FirstSquawk] UEDA SAYS WANT TO BRING RATE TO NEUTRAL LEVEL APPROPRIATELY
+- 10/30 16:32 [FirstSquawk] BOJ'S UEDA SAYS WORK IS STILL LEFT AS RATE IS BELOW NEUTRAL LEVEL
+- 10/30 16:34 [FirstSquawk] TESCO: TO SELL CZECH, SLOVAKIA OPS AT €1.7B ENTERPRISE VALUE
+- 10/30 16:35 [FirstSquawk] UEDA SAYS TO ADJUST RATE AT RIGHT TIMING SO RISKS DON'T MANIFEST
+- 10/30 16:35 [financialjuice] BoJ's Governor Ueda: We are closely watching springtime wage hike talks.
+- 10/30 16:36 [FirstSquawk] BOJ GOV UEDA SAYS NEED ANNUAL WAGE TALKS TO GET TO POINT WHERE 2% INFLATION IS BUILT IN
+- 10/30 16:40 [FirstSquawk] BOJ'S UEDA SAYS STILL NEED TO WATCH IF PRICE TREND TO BE ANCHORED
+- 10/30 16:45 [FirstSquawk] FRANCE PRELIM OCTOBER HARMONIZED CPI RISES 3.8% Y/Y; EST. +3.6%
+- 10/30 16:45 [financialjuice] FRENCH PPI MOM ACTUAL 1.7% (FORECAST -, PREVIOUS 1.0%) $MACRO
+- 10/30 16:45 [financialjuice] FRENCH PPI YOY ACTUAL 6.8% (FORECAST -, PREVIOUS 4.8% ,REVISION 4.9%) $MACRO
+- 10/30 16:45 [financialjuice] FRENCH NON-FARM PAYROLLS QOQ ACTUAL -0.1% (FORECAST -, PREVIOUS -0.1%) $MACRO
+- 10/30 16:45 [financialjuice] ❗ FRENCH HICP YOY PRELIM ACTUAL 3.8% (FORECAST 3.6%, PREVIOUS 3.4%) $MACRO
+- 10/30 16:45 [financialjuice] ❗ FRENCH CPI MOM NSA PRELIM ACTUAL 0.4% (FORECAST 0.2%, PREVIOUS -0.3%) $MACRO
+- 10/30 16:45 [financialjuice] ❗ FRENCH CPI YOY NSA PRELIM ACTUAL 3.4% (FORECAST 3.3%, PREVIOUS 3.1%) $MACRO
+- 10/30 16:45 [financialjuice] FRENCH HICP MOM PRELIM ACTUAL 0.4% (FORECAST 0.3%, PREVIOUS -0.3%) $MACRO
+- 10/30 16:52 [financialjuice] ECB's Dolenc: Shock not translating into broader price pressures yet.
+- 10/30 16:53 [financialjuice] ECB's Dolenc: Higher energy prices risk more persistent inflation.
+- 10/30 16:53 [financialjuice] ECB's Dolenc: Inflation could remain above 2% in coming years.
+- 10/30 16:54 [FirstSquawk] DOLENC SAYS SHOCK NOT TRANSLATING INTO BROADER PRICE PRESSURES YET; HIGHER ENERGY PRICES RISK MORE PERSISTENT INFLATION
+- 10/30 16:55 [FirstSquawk] DOLENC SAYS HIGHER ENERGY PRICES RISK MORE PERSISTENT INFLATION
+- 10/30 16:57 [FirstSquawk] JAPAN: CHINESE SURVEY SHIP WAS SPOTTED OPERATING IN ITS EEZ
+- 10/30 17:00 [financialjuice] SPANISH HICP MOM FLASH ACTUAL 0.5% (FORECAST 0.5%, PREVIOUS 0.6%) $MACRO
+- 10/30 17:00 [financialjuice] SPANISH HICP YOY FLASH ACTUAL 4.9% (FORECAST 4.9%, PREVIOUS 5.0%) $MACRO
+- 10/30 17:00 [financialjuice] SPANISH CPI MOM FLASH ACTUAL 0.6% (FORECAST 0.7%, PREVIOUS 0.30%) $MACRO
+- 10/30 17:00 [financialjuice] SWISS KOF INDICATOR ACTUAL 107.6 (FORECAST 108.1, PREVIOUS 109.1) $MACRO
+- 10/30 17:00 [financialjuice] SPANISH CPI YOY FLASH ACTUAL 4.9% (FORECAST 4.9%, PREVIOUS 4.9%) $MACRO
+- 10/30 17:00 [financialjuice] SPANISH ESTIMATED GDP YOY ACTUAL 2.7% (FORECAST 2.7%, PREVIOUS 2.6%) $MACRO
+- 10/30 17:00 [financialjuice] SPANISH ESTIMATED GDP QOQ ACTUAL 0.6% (FORECAST 0.6%, PREVIOUS 0.7%) $MACRO
+- 10/30 17:01 [FirstSquawk] SPAIN PRELIM OCTOBER HARMONIZED CPI RISES 4.9% Y/Y; EST. +4.9%
+- 10/30 17:07 [financialjuice] German Chancellor Merz: Fact remains that US is shifting foreign policy, and we must do the same.
+- 10/30 17:08 [FirstSquawk] GERMAN CHANCELLOR MERZ SAYS FACT REMAINS THAT US IS SHIFTING FOREIGN POLICY, AND WE MUST DO THE SAME
+- 10/30 17:09 [FirstSquawk] GERMAN CHANCELLOR MERZ SAYS THAT IS PRECISELY WHY I AM ENGAGED IN THESE INTENSIVE DISCUSSIONS ON ASIA TRIP
+- 10/30 17:09 [financialjuice] German Chancellor Merz: Working to bring Iran war to an end as soon as possible, it's having a massive impact on Europe.
+- 10/30 17:10 [FirstSquawk] GERMAN CHANCELLOR MERZ SAYS WORKING TO BRING IRAN WAR TO AN END AS SOON AS POSSIBLE, HAVING A MASSIVE IMPACT ON EUROPE
+- 10/30 17:12 [FirstSquawk] GERMAN CHANCELLOR MERZ SAYS PUSHED BACK AGAINST FEARS OF NEW WAVE OF EUROPEAN PROTECTIONISM ON ASIA TRIP
+- 10/30 17:26 [FirstSquawk] CHINA'S XI, TO SWISS PRESIDENT SAYS UPGRADED TRADE AGREEMENT FULLY REFLECTS POLITICAL COURAGE AND SENSE OF RESPONSIBILITY OF BOTH NATIONS IN UPHOLDING OPEN COOPERATION
+- 10/30 17:27 [FirstSquawk] CHINA'S XI, TO SWISS PRESIDENT SAYS TOGETHER, WE CAN INJECT VALUABLE CONFIDENCE AND GREATER CERTAINTY INTO CHINA-EUROPE ECONOMIC AND TRADE COOPERATION, AND INTO GLOBAL ECONOMIC DEVELOPMENT
+- 10/30 17:28 [FirstSquawk] BEIJING-SWISS PRESIDENT, TO CHINA'S XI SAYS HOPES TO HOLD THE NEXT STRATEGIC DIALOGUE BETWEEN OUR FOREIGN AFFAIRS MINISTERS THIS YEAR
+- 10/30 17:30 [financialjuice] DUTCH GDP QOQ PRELIM SA ACTUAL 0.6% (FORECAST 0.3%, PREVIOUS 0.6%) $MACRO
+- 10/30 17:30 [financialjuice] DUTCH GDP YOY PRELIM NSA ACTUAL 2.1% (FORECAST 1.3%, PREVIOUS 1.6%) $MACRO
+- 10/30 17:31 [FirstSquawk] CHINA'S XI, TO SWISS PRESIDENT SAYS CHINA STANDS READY TO WORK WITH SWITZERLAND WITH OPENNESS, STRENGTHEN THE BONDS OF COOPERATION, AND PROMOTE AN INCLUSIVE FORM OF ECONOMIC GLOBALISATION
+- 10/30 17:32 [FirstSquawk] AGBANK: 3Q NET INCOME 90.17B YUAN, +11% Y/Y
+- 10/30 17:35 [FirstSquawk] CNOOC: 3Q NET INCOME 33.30B YUAN, +2.7% Y/Y
+- 10/30 17:40 [financialjuice] SAXONY CPI MOM ACTUAL -0.2% (FORECAST -, PREVIOUS 0.6%) $MACRO
+- 10/30 17:40 [financialjuice] SAXONY CPI YOY ACTUAL 2.8% (FORECAST -, PREVIOUS 3.4%) $MACRO
+- 10/30 17:42 [FirstSquawk] ICBC: 3Q NET INTEREST INCOME 177.82B YUAN
+- 10/30 17:42 [FirstSquawk] CNOOC 3Q NET INCOME 33.30B YUAN, +2.7% Y/Y; 3Q REV. 112.91B YUAN, EST. 119.43B YUAN (2 EST.); 3Q OIL & GAS REV. 99.27B YUAN; 3Q PRODUCTION 194.9 MMBOE;
+- 10/30 17:42 [FirstSquawk] ICBC 3Q NET INCOME 111.96B YUAN, +10% Y/Y; 3Q NET INCOME 111.96B YUAN; 3Q NET INTEREST INCOME 177.82B YUAN
+- 10/30 17:45 [financialjuice] ECB's Rehn: Outlook for growth, inflation still very uncertain.
+- 10/30 17:46 [FirstSquawk] ECB'S REHN SAYS OUTLOOK FOR GROWTH, INFLATION STILL VERY UNCERTAIN
+- 10/30 17:47 [FirstSquawk] BANK OF CHINA: 3Q NET INCOME 63.89B YUAN, +6.4% Y/Y
+- 10/30 17:48 [FirstSquawk] CCB: 3Q NET INCOME 104.66B YUAN, +9.8% Y/Y
+- 10/30 17:48 [financialjuice] ECB's Rehn: Risks of higher inflation clearly remain elevated.
+- 10/30 17:49 [financialjuice] ECB's Rehn: Need to remain vigilant on second round effects.
+- 10/30 17:51 [FirstSquawk] BINANCE SAYS TIMELINE TO RESUME WITHDRAWAL SERVICE IN 45 HOURS; STILL ON TRACK TO RESUME WITHDRAWALS IN 45 HOURS
+- 10/30 17:53 [DeItaone] 🚨 Stay Ahead of the Markets! Join First Squawk for real-time breaking financial news, market-moving headlines, central bank decisions, and stock updates. ⚡ Fast. Reliable. Straight to the point. 📢 Join First Squawk: @FirstSquaw
