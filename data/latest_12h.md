@@ -7,122 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-31 05:04 JST／対象: 10/30 17:04 〜 10/31 05:04 JST（時刻はすべて日本時間）
+生成: 2026-10-31 08:40 JST／対象: 10/30 20:40 〜 10/31 08:40 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 60 | 10/30 17:53 | 10/31 02:55 | ⚠ 122分（17:53→19:55） |
-| FirstSquawk | 134 | 10/30 17:08 | 10/31 05:01 | 34分（02:57→03:31） |
-| financialjuice | 189 | 10/30 17:07 | 10/31 05:03 | ⚠ 53分（00:12→01:06） |
+| DeItaone | 59 | 10/30 20:42 | 10/31 07:34 | ⚠ 142分（05:11→07:34） |
+| FirstSquawk | 89 | 10/30 20:43 | 10/31 06:07 | ⚠ 56分（05:10→06:07） |
+| financialjuice | 161 | 10/30 20:40 | 10/31 08:07 | ⚠ 80分（06:46→08:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 370 行（統合前 389 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 295 行（統合前 315 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/30 17:07 [financialjuice] German Chancellor Merz: Fact remains that US is shifting foreign policy, and we must do the same.
-- 10/30 17:08 [FirstSquawk] GERMAN CHANCELLOR MERZ SAYS FACT REMAINS THAT US IS SHIFTING FOREIGN POLICY, AND WE MUST DO THE SAME
-- 10/30 17:09 [FirstSquawk] GERMAN CHANCELLOR MERZ SAYS THAT IS PRECISELY WHY I AM ENGAGED IN THESE INTENSIVE DISCUSSIONS ON ASIA TRIP
-- 10/30 17:09 [financialjuice] German Chancellor Merz: Working to bring Iran war to an end as soon as possible, it's having a massive impact on Europe.
-- 10/30 17:10 [FirstSquawk] GERMAN CHANCELLOR MERZ SAYS WORKING TO BRING IRAN WAR TO AN END AS SOON AS POSSIBLE, HAVING A MASSIVE IMPACT ON EUROPE
-- 10/30 17:12 [FirstSquawk] GERMAN CHANCELLOR MERZ SAYS PUSHED BACK AGAINST FEARS OF NEW WAVE OF EUROPEAN PROTECTIONISM ON ASIA TRIP
-- 10/30 17:26 [FirstSquawk] CHINA'S XI, TO SWISS PRESIDENT SAYS UPGRADED TRADE AGREEMENT FULLY REFLECTS POLITICAL COURAGE AND SENSE OF RESPONSIBILITY OF BOTH NATIONS IN UPHOLDING OPEN COOPERATION
-- 10/30 17:27 [FirstSquawk] CHINA'S XI, TO SWISS PRESIDENT SAYS TOGETHER, WE CAN INJECT VALUABLE CONFIDENCE AND GREATER CERTAINTY INTO CHINA-EUROPE ECONOMIC AND TRADE COOPERATION, AND INTO GLOBAL ECONOMIC DEVELOPMENT
-- 10/30 17:28 [FirstSquawk] BEIJING-SWISS PRESIDENT, TO CHINA'S XI SAYS HOPES TO HOLD THE NEXT STRATEGIC DIALOGUE BETWEEN OUR FOREIGN AFFAIRS MINISTERS THIS YEAR
-- 10/30 17:30 [financialjuice] DUTCH GDP QOQ PRELIM SA ACTUAL 0.6% (FORECAST 0.3%, PREVIOUS 0.6%) $MACRO
-- 10/30 17:30 [financialjuice] DUTCH GDP YOY PRELIM NSA ACTUAL 2.1% (FORECAST 1.3%, PREVIOUS 1.6%) $MACRO
-- 10/30 17:31 [FirstSquawk] CHINA'S XI, TO SWISS PRESIDENT SAYS CHINA STANDS READY TO WORK WITH SWITZERLAND WITH OPENNESS, STRENGTHEN THE BONDS OF COOPERATION, AND PROMOTE AN INCLUSIVE FORM OF ECONOMIC GLOBALISATION
-- 10/30 17:32 [FirstSquawk] AGBANK: 3Q NET INCOME 90.17B YUAN, +11% Y/Y
-- 10/30 17:35 [FirstSquawk] CNOOC: 3Q NET INCOME 33.30B YUAN, +2.7% Y/Y
-- 10/30 17:40 [financialjuice] SAXONY CPI MOM ACTUAL -0.2% (FORECAST -, PREVIOUS 0.6%) $MACRO
-- 10/30 17:40 [financialjuice] SAXONY CPI YOY ACTUAL 2.8% (FORECAST -, PREVIOUS 3.4%) $MACRO
-- 10/30 17:42 [FirstSquawk] ICBC: 3Q NET INTEREST INCOME 177.82B YUAN
-- 10/30 17:42 [FirstSquawk] CNOOC 3Q NET INCOME 33.30B YUAN, +2.7% Y/Y; 3Q REV. 112.91B YUAN, EST. 119.43B YUAN (2 EST.); 3Q OIL & GAS REV. 99.27B YUAN; 3Q PRODUCTION 194.9 MMBOE;
-- 10/30 17:42 [FirstSquawk] ICBC 3Q NET INCOME 111.96B YUAN, +10% Y/Y; 3Q NET INCOME 111.96B YUAN; 3Q NET INTEREST INCOME 177.82B YUAN
-- 10/30 17:45 [financialjuice] ECB's Rehn: Outlook for growth, inflation still very uncertain.
-- 10/30 17:46 [FirstSquawk] ECB'S REHN SAYS OUTLOOK FOR GROWTH, INFLATION STILL VERY UNCERTAIN
-- 10/30 17:47 [FirstSquawk] BANK OF CHINA: 3Q NET INCOME 63.89B YUAN, +6.4% Y/Y
-- 10/30 17:48 [FirstSquawk] CCB: 3Q NET INCOME 104.66B YUAN, +9.8% Y/Y
-- 10/30 17:48 [financialjuice] ECB's Rehn: Risks of higher inflation clearly remain elevated.
-- 10/30 17:49 [financialjuice] ECB's Rehn: Need to remain vigilant on second round effects.
-- 10/30 17:51 [FirstSquawk] BINANCE SAYS TIMELINE TO RESUME WITHDRAWAL SERVICE IN 45 HOURS; STILL ON TRACK TO RESUME WITHDRAWALS IN 45 HOURS
-- 10/30 17:53 [DeItaone] 🚨 Stay Ahead of the Markets! Join First Squawk for real-time breaking financial news, market-moving headlines, central bank decisions, and stock updates. ⚡ Fast. Reliable. Straight to the point. 📢 Join First Squawk: @FirstSquaw
-- 10/30 17:54 [financialjuice] Japan's Fin. Min. Katayama: Will consider specific amount and how to handle surplus arising from BoJ's ETF sale in budget formulation.
-- 10/30 17:55 [financialjuice] ‼ BREAKING: GERMAN UNEMPLOYMENT CHANGE SA ACTUAL 4K (FORECAST 5K, PREVIOUS 12K) $MACRO
-- 10/30 17:55 [FirstSquawk] JAPAN FINANCE MINISTER KATAYAMA SAYS WILL CONSIDER SPECIFIC AMOUNT AND HOW TO HANDLE SURPLUS ARISING FROM BOJ'S ETF SALE IN BUDGET FORMULATION
-- 10/30 17:55 [financialjuice] ❗ GERMAN UNEMPLOYMENT RATE ACTUAL 6.4% (FORECAST 6.4%, PREVIOUS 6.4%) $MACRO
-- 10/30 17:55 [financialjuice] GERMAN UNEMPLOYMENT TOTAL SA ACTUAL 3.016M (FORECAST -, PREVIOUS 3.012M) $MACRO
-- 10/30 17:55 [financialjuice] GERMAN UNEMPLOYMENT TOTAL NSA ACTUAL 2.955M (FORECAST -, PREVIOUS 2.994M) $MACRO
-- 10/30 17:56 [FirstSquawk] UKRAINE : TO STRIKE RUSSIA'S NOVOKUIBYSHEVSK REFINERY
-- 10/30 18:00 [FirstSquawk] GERMAN GDP (QOQ) (Q3) ACTUAL: 0.2% VS 0.3% PREVIOUS; EST 0.1%
-- 10/30 18:00 [FirstSquawk] GERMAN GDP (YOY) (Q3) ACTUAL: 1.2% VS 1.0% PREVIOUS; EST 1.1%
-- 10/30 18:00 [financialjuice] BAVARIA CPI YOY ACTUAL 2.8% (FORECAST -, PREVIOUS 3.2%) $MACRO
-- 10/30 18:00 [financialjuice] BAVARIA CPI MOM ACTUAL 0.0% (FORECAST -, PREVIOUS 0.6%) $MACRO
-- 10/30 18:00 [financialjuice] ❗ GERMAN GDP YOY NSA FLASH ACTUAL 1.3% (FORECAST 1.2%, PREVIOUS 1.0%) $MACRO
-- 10/30 18:00 [financialjuice] GERMAN GDP YOY SA FLASH ACTUAL 1.2% (FORECAST 1.1%, PREVIOUS 1.0%) $MACRO
-- 10/30 18:00 [financialjuice] ‼ BREAKING: GERMAN GDP QOQ FLASH ACTUAL 0.2% (FORECAST 0.1%, PREVIOUS 0.3%) $MACRO
-- 10/30 18:01 [financialjuice] ITALIAN GDP PRELIM QOQ ACTUAL 0% (FORECAST 0.1%, PREVIOUS 0.2%) $MACRO
-- 10/30 18:01 [financialjuice] ITALIAN GDP PRELIM YOY ACTUAL 0.8% (FORECAST -, PREVIOUS 1.0%) $MACRO
-- 10/30 18:01 [financialjuice] SPANISH CURRENT ACCOUNT BALANCE ACTUAL 5.05B (FORECAST -, PREVIOUS 5.91B) $MACRO
-- 10/30 18:04 [financialjuice] NORTH-RHINE CPI YOY ACTUAL 2.7% (FORECAST -, PREVIOUS 3.3%) $MACRO
-- 10/30 18:04 [FirstSquawk] ITALY PRELIM: 3Q GDP UNCHANGED Q/Q; EST. +0.1%
-- 10/30 18:06 [FirstSquawk] PBOC: SETS OVERNIGHT REVERSE REPO RATE AT 1.25%
-- 10/30 18:06 [financialjuice] NORTH RHINE CPI MOM ACTUAL -0.2% (FORECAST -, PREVIOUS 0.6%) $MACRO
-- 10/30 18:08 [FirstSquawk] PBOC: OPEN MARKET OPERATIONS ADJUSTMENTS TO TAKE EFFECT NOV. 2
-- 10/30 18:11 [FirstSquawk] EU CARBON RISES TO €90/TON FOR FIRST TIME SINCE JAN.
-- 10/30 18:28 [financialjuice] US crude oil expected to average $86.60 per barrel in 2026 versus $83.90 forecast in September - Poll
-- 10/30 18:28 [financialjuice] Brent crude oil expected to average $92.88 per barrel in 2026 versus $89.05 forecast in September - Poll.
-- 10/30 18:31 [financialjuice] UK October decision maker year-ahead CPI expectations 3.4%.
-- 10/30 18:31 [FirstSquawk] QATARI DELEGATION ARRIVED FRIDAY IN TEHRAN FOR TALKS- IRNA
-- 10/30 18:32 [FirstSquawk] QATARI MEETINGS FOCUSED ON REGIONAL DEVELOPMENTS, TIES- IRNA
-- 10/30 18:34 [FirstSquawk] DELEGATION HEADED BY SENIOR ADVISER TO QATARI PM- IRNA
-- 10/30 18:37 [financialjuice] ECB's Nagel: No significant 2nd-round effects observed so far.
-- 10/30 18:38 [financialjuice] ECB's Nagel: Can't rule out that prices will rise in coming weeks.
-- 10/30 18:38 [financialjuice] ECB's Nagel: Mid-term price expectations must stay firmly anchored.
-- 10/30 18:44 [FirstSquawk] NAGEL SAYS ECB WILL `ACT DECISIVELY' IF NECESSARY
-- 10/30 18:49 [FirstSquawk] BOE SURVEY SAYS NO EVIDENCE OF INFLATION-PREMIUM IN PAY AWARDS; NO EVIDENCE OF INFLATION-PREMIUM IN PAY AWARDS
-- 10/30 18:50 [FirstSquawk] BOE SURVEY SAYS LIMITED PASS-THROUGH OF COST PRESSURES TO PRICES
-- 10/30 18:56 [FirstSquawk] UKRAINE’S PM: FIGURE OF 527 RESIDENTS PLANNING TO EVACUATE FROM OLESHKY IS NOT FINAL
-- 10/30 19:00 [financialjuice] ❗ EUROZONE UNEMPLOYMENT RATE ACTUAL 6.5% (FORECAST 6.4%, PREVIOUS 6.4%) $MACRO
-- 10/30 19:00 [financialjuice] ❗ EUROZONE GDP YOY PRELIM FLASH ACTUAL 1.3% (FORECAST 1.1%, PREVIOUS 1.2%) $MACRO
-- 10/30 19:00 [financialjuice] ‼ BREAKING: EUROZONE GDP QOQ PRELIM FLASH ACTUAL 0.4% (FORECAST 0.2%, PREVIOUS 0.6%) $MACRO
-- 10/30 19:01 [financialjuice] ITALIAN HICP PRELIM MOM ACTUAL 1.2% (FORECAST 0.4%, PREVIOUS 2.1%) $MACRO
-- 10/30 19:01 [financialjuice] ITALIAN CPI MOM PRELIM ACTUAL 0.9% (FORECAST 0.1%, PREVIOUS 0.7%) $MACRO
-- 10/30 19:01 [financialjuice] ITALIAN HICP PRELIM YOY ACTUAL 5.6% (FORECAST 4.6%, PREVIOUS 4.2%) $MACRO
-- 10/30 19:01 [financialjuice] ITALIAN CPI YOY PRELIM ACTUAL 5.4% (FORECAST 4.6%, PREVIOUS 4.2%) $MACRO
-- 10/30 19:02 [FirstSquawk] EURO AREA 3Q GDP RISES 0.4% QOQ ; EST. +0.2%
-- 10/30 19:04 [FirstSquawk] ITALY PRELIM OCTOBER HARMONIZED CPI RISES 5.6% Y/Y; EST. +4.6%
-- 10/30 19:13 [financialjuice] Apple removed from BofA US 1 list.
-- 10/30 19:15 [FirstSquawk] SOFTBANK-BACKED OPAY PRICES AT $4B VALUE FOR N.Y. IPO
-- 10/30 19:16 [financialjuice] $CVX Chevron Q3 Earnings Adj. EPS $5.28, est. $4.93 Rev. & other income $67.80B, est. $62.55B Downstream earnings $4.93B, est. $4.49B Upstream earnings $5.70B, est. $6.19B Adj. cash flow from ops $16.6B Cash flow from ops $16B, est. $15.08B…
-- 10/30 19:17 [FirstSquawk] CHEVRON: 3Q ADJ EPS $5.28, EST. $4.93
-- 10/30 19:17 [financialjuice] ECB's Panetta: Outlook for prices is worsening, inflation seen above 2% for several quarters.
-- 10/30 19:17 [financialjuice] ECB's Panetta: Further increases in policy rates could prove necessary.
-- 10/30 19:18 [financialjuice] ECB's Panetta: Increase in core inflation could become more pronounced early next year.
-- 10/30 19:18 [financialjuice] ECB's Panetta: Rise in long-term yields must be considered when gradually calibrating monetary policy.
-- 10/30 19:18 [financialjuice] ECB's Panetta: ECB can adjust stance promptly if international situation improves or financial tensions act as brake on inflation.
-- 10/30 19:20 [FirstSquawk] Chevron Q3 2026 Earnings - Adjusted EPS: $5.28 (est $4.93) - Natural Gas Production: 9,085 MMCFE/D (est 8,840) - Revenue & Other Income: $67.80B (est $62.55B) - Cash Flow From Operations: $16B (est $15.08B) - Upstream Earnings: $5.70B (est …
-- 10/30 19:36 [FirstSquawk] ExxonMobil Q3 2026 Earnings - Adj EPS: $4.23 (est $4.13) - Production: 4,496 KOEBD (est 4,440) - Total Rev And Other Income: $113.16B (est $105.36B) - Boosts Quarterly Dividend To $1.07/Share From $1.03 (est $1.07) - Still Sees FY Net Cash …
-- 10/30 19:41 [financialjuice] IRGC Navy: Two oil tankers that switched off navigation systems were involved in incident, stopped south of Strait of Hormuz after ignoring radio warnings - Iranian Media.
-- 10/30 19:50 [FirstSquawk] IRGC NAVY SAYS TWO OIL TANKERS THAT SWITCHED OFF NAVIGATION SYSTEMS WERE INVOLVED IN INCIDENT, STOPPED SOUTH OF STRAIT OF HORMUZ AFTER IGNORING RADIO WARNINGS - IRANIAN MEDIA
-- 10/30 19:55 [DeItaone] BINANCE IS WORKING WITH FBI AND US SECRET SERVICE AFTER $6.3 BILLION CRYPTO HEIST, SOURCE SAYS
-- 10/30 20:00 [FirstSquawk] Colgate-Palmolive Q3 2026 Earnings - Sales: $5,369M (est $5,334M) - Adjusted EPS: $0.97 (est $0.93) - Sees FY Net Sales Growth: 4% To 5% - Sees FY2026 Base Business Gross Profit Margin: Up - Sees FY2026 Base Business EPS Growth: 5% To 7%
-- 10/30 20:00 [financialjuice] ECB's Kocher: Risks to inflation have increased.
-- 10/30 20:01 [financialjuice] ECB's Kocher: “Need for action" if situation doesn't quickly improve.
-- 10/30 20:01 [FirstSquawk] General Dynamics Q3 2026 Earnings - Revenue: $14.57B (est $13.71B) - Operating Margin: 10.5% (est 10.4%) - EPS: $4.49 (est $4.13)
-- 10/30 20:04 [DeItaone] BINANCE SETS ASIDE $6.34 BILLION TO COVER INCIDENT Binance says it has reserved more than $6.34 billion in company funds to cover an incident affecting user assets. The exchange also reported $5 billion already held in impacted token assets…
-- 10/30 20:04 [FirstSquawk] ECB'S: KOCHER SAYS RISKS TO INFLATION HAVE INCREASED.
-- 10/30 20:06 [FirstSquawk] ECB'S KOCHER SAYS “NEED FOR ACTION" IF SITUATION DOESN'T QUICKLY IMPROVE.
-- 10/30 20:07 [FirstSquawk] ECB'S KOCHER SAYS INFLATION RISKS HAVE CLEARLY INCREASED, BUT NEITHER ACTING PREMATURELY NOR WAITING IDLY WILL ENSURE PRICE STABILITY.
-- 10/30 20:10 [FirstSquawk] QATARI MEDIATORS IN TEHRAN TO DISCUSS LATEST US PEACE TALKS PROPOSAL - AXIOS
-- 10/30 20:17 [financialjuice] Xi says China regards EU as a partner- CCTV
-- 10/30 20:18 [FirstSquawk] CHINA'S XI SAYS AS LONG AS CHINA, EU UPHOLD PARTNERSHIP POSITIONING AND EQUAL DIALOGUE, DIFFERENCES AND PROBLEMS CAN ALWAYS BE RESOLVED
-- 10/30 20:23 [FirstSquawk] CHINA'S XI, TO SWISS PRESIDENT SAYS HOPES SWITZERLAND TO PLAY ACTIVE ROLE IN PROMOTING BALANCED, STABLE, UPWARD DEVELOPMENT OF CHINA-EUROPE TRADE - STATE TV
-- 10/30 20:38 [financialjuice] Trump: Iran war will end very soon, one way or another.
 - 10/30 20:40 [financialjuice] ECB’s Makhlouf: Holding rates doesn't signal ecb is finished.
 - 10/30 20:40 [financialjuice] CENTCOM: Reached milestone this week helping Gulf export oil.
 - 10/30 20:41 [financialjuice] ECB’s Makhlouf: Current inflation situation is uncomfortable.
@@ -386,7 +287,7 @@
 - 10/31 04:51 [FirstSquawk] RUSSIA VETO’S US-DRAFTED RESOLUTION ON WESTERN SAHARA THAT SCALES BACK PEACEKEEPING MISSION
 - 10/31 04:58 [financialjuice] WATCH LIVE: Trump Speaks at White House
 - 10/31 04:59 [financialjuice] Binance: Tech team targets to start resuming the withdrawal service within approximately 34 hours
-- 10/31 05:01 [financialjuice] Trump: Looking at Binance hack
+- 10/31 05:01 [financialjuice/DeItaone] Trump: Looking at Binance hack
 - 10/31 05:01 [FirstSquawk] NASDAQ .IXIC UNOFFICIALLY CLOSES DOWN 746.33 POINTS, OR 2.85 PERCENT, AT 25,438.40 DOW JONES UNOFFICIALLY CLOSES DOWN 579.15 POINTS, OR 1.11%, AT 51,763.41 S&P 500 UNOFFICIALLY CLOSES DOWN 142.25 POINTS, OR 1.84 PERCENT, AT 7,578.14
 - 10/31 05:01 [financialjuice] Trump on Binance: It was a hack.
 - 10/31 05:01 [FirstSquawk/financialjuice] TRUMP ON IRAN: THERE ARE TALKS
@@ -394,3 +295,27 @@
 - 10/31 05:02 [financialjuice] Trump on Iran: we have time, frankly
 - 10/31 05:02 [financialjuice] Trump: Looking at whether Binance hack is by North Korea
 - 10/31 05:03 [financialjuice] IRGC: 4th tanker explodes after hitting mine in Strait of Hormuz - IRIB
+- 10/31 05:05 [financialjuice] IRGC: Tanker ignored warnings against using 'unauthorised route’ through Strait of Hormuz
+- 10/31 05:05 [financialjuice] Trump ends remarks at the White House
+- 10/31 05:07 [financialjuice] ❗ Intel shares plunge 29% for worst day in at least four decades
+- 10/31 05:10 [FirstSquawk] IRGC: FOURTH TANKER EXPLODES AFTER HITTING MINE IN STRAIT OF HORMUZ - IRIB
+- 10/31 05:10 [financialjuice] Yemen's Houthis deny launching attacks against Saudi Arabia's Medina - Statement
+- 10/31 05:16 [financialjuice] US bank deposits fell to $19.771 trln from $19.803 trln in prior week
+- 10/31 05:18 [financialjuice] UKMTO: Received a time-late report of an incident in the Strait of Hormuz. Crude tanker hit by projectile transiting Hormuz strait
+- 10/31 05:35 [financialjuice] Monday FX Option Expiries
+- 10/31 05:37 [financialjuice] Week Ahead: Economic Indicators 2nd – 6th November (US)
+- 10/31 06:05 [financialjuice] S&P says Meta’s capacity to monetize AI investments is more constrained than peers
+- 10/31 06:07 [FirstSquawk] META OUTLOOK REVISED TO NEGATIVE BY S&P
+- 10/31 06:08 [financialjuice] S&P: Uncertainty over Meta's future capital expenditures and ambitious multiyear AI investments casts doubt on expected spending cuts
+- 10/31 06:08 [financialjuice] US DOJ files motion for preliminary injunction in Alaska election dispute
+- 10/31 06:14 [financialjuice] North Korea: international sanctions ineffective against it - KCNA
+- 10/31 06:17 [financialjuice] North Korea: international sanctions can’t affect stance as nuclear weapons state - KCNA
+- 10/31 06:20 [financialjuice] Russia's Lavrov: key issues in US-Russian relations unresolved, sanctions continue, arms still supplied to Ukraine
+- 10/31 06:20 [financialjuice] Lavrov: Russia's stance on a Ukraine settlement unchanged, Moscow rejects military threat from Ukraine
+- 10/31 06:21 [financialjuice] Russia's Lavrov: unclear what Ukraine will bring to new settlement talks but Zelenskiy's mention of long-range strikes is unhelpful
+- 10/31 06:39 [financialjuice] White House to nominate Mufarrige as FTC commissioner
+- 10/31 06:40 [financialjuice] Morocco satisfied with non-renewal of UN peacekeeping mission in Western Sahara: attached to ceasefire
+- 10/31 06:43 [financialjuice] Non-renewal of peacekeeping mission a move toward final resolution of Western Sahara issue at UN, royal palace says
+- 10/31 06:46 [financialjuice] Minurso personnel, vehicles, equipment, symbols to end in coming days: Moroccan royal palace
+- 10/31 07:34 [DeItaone] US REPORTEDLY PREPARING SHORT, INTENSE IRAN STRIKES ON NOVEMBER 4 The Trump administration has reportedly warned Gulf allies to prepare for potential US strikes on Iran as early as November 4, one day after the midterm elections, according …
+- 10/31 08:07 [financialjuice] US, South Korea, Japan foreign ministers reaffirm pledge to finalize North Korea denuclearization - Yonhap

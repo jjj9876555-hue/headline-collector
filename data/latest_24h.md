@@ -7,130 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-31 05:04 JST／対象: 10/30 05:04 〜 10/31 05:04 JST（時刻はすべて日本時間）
+生成: 2026-10-31 08:40 JST／対象: 10/30 08:40 〜 10/31 08:40 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 68 | 10/30 05:42 | 10/31 02:55 | ⚠ 534分（08:59→17:53） |
-| FirstSquawk | 370 | 10/30 05:04 | 10/31 05:01 | 36分（06:22→06:58） |
-| financialjuice | 370 | 10/30 05:06 | 10/31 05:03 | ⚠ 53分（00:12→01:06） |
+| DeItaone | 63 | 10/30 08:59 | 10/31 07:34 | ⚠ 534分（08:59→17:53） |
+| FirstSquawk | 312 | 10/30 08:59 | 10/31 06:07 | ⚠ 56分（05:10→06:07） |
+| financialjuice | 347 | 10/30 08:41 | 10/31 08:07 | ⚠ 80分（06:46→08:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 791 行（統合前 814 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 708 行（統合前 728 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/30 05:04 [FirstSquawk] AMAZON Q3 EPS $1.89, BELOW ESTIMATE OF $1.97, WITH NET SALES $201.9 BLN, ROUGHLY IN LINE WITH ESTIMATE OF $202.26 BLN, BUT OPERATING INCOME $28.08 BLN, ABOVE ESTIMATE OF $26.06 BLN, AND OPERATING MARGIN 13.9%, ABOVE ESTIMATE OF 12.9%
-- 10/30 05:04 [FirstSquawk] AMAZON Q3 AWS NET SALES $45.98 BLN, ABOVE ESTIMATE OF $45.68 BLN, WITH AWS NET SALES EX-FX UP 39%, ABOVE ESTIMATE OF +38%
-- 10/30 05:04 [FirstSquawk] AMAZON SEES Q4 NET SALES $240.0 BLN TO $247.0 BLN AROUND ESTIMATE OF $244.52 BLN, AND Q4 OPERATING INCOME $28.5 BLN TO $33.5 BLN VERSUS ESTIMATE OF $32.99 BLN
-- 10/30 05:06 [FirstSquawk] INTEL Q3 ADJUSTED EPS $0.52, ABOVE ESTIMATE OF $0.41, WITH REVENUE $16.51 BLN, ROUGHLY IN LINE WITH ESTIMATE OF $16.54 BLN, ADJUSTED GROSS MARGIN 44.1%, ABOVE ESTIMATE OF 42.1%, AND ADJUSTED OPERATING MARGIN 19.6%, ABOVE ESTIMATE OF 16.5%
-- 10/30 05:06 [FirstSquawk] INTEL Q3 DATACENTER & AI REVENUE $7.32 BLN AND INTEL FOUNDRY REVENUE $6.70 BLN BOTH ABOVE ESTIMATES, WHILE CLIENT COMPUTING REVENUE $8.10 BLN CAME IN BELOW ESTIMATE OF $8.82 BLN
-- 10/30 05:06 [FirstSquawk] INTEL SEES Q4 ADJUSTED EPS $0.25, BELOW ESTIMATE OF $0.43, Q4 REVENUE $15 BLN TO $16 BLN, BELOW ESTIMATE OF $17.05 BLN, AND Q4 ADJUSTED GROSS MARGIN 38%, BELOW ESTIMATE OF 42.8%, EXPECTING THE PC MARKET TO DECLINE INTO H2 2027
-- 10/30 05:06 [FirstSquawk] AMAZON SEES Q4 ADVERTISING REVENUE GROWTH IN THE HIGH TEENS YOY, STILL SEES 2026 CASH CAPEX OF ABOUT $220 BLN, AND SEES AWS REVENUE GROWTH RATES ABOVE 40% IN 2027 AND 2028
-- 10/30 05:06 [financialjuice] $SBUX Starbucks Q4 Earnings Adjusted EPS $0.80, est. $0.71 Net revenue $9.10B, est. $9.23B Adjusted operating margin 14%, est. 12.7% Comparable sales +7.2%, est. +6.23% US comparable sales +7.7%, est. +6.51% International comparable sales +…
-- 10/30 05:06 [financialjuice] $SBUX Starbucks Q4 Earnings
-- 10/30 05:07 [FirstSquawk] RIVIAN Q3 ADJUSTED LOSS PER SHARE $0.48, NARROWER THAN THE ESTIMATED $0.61 LOSS, WITH REVENUE $2.16 BLN, ABOVE ESTIMATE OF $2.02 BLN, AND A LOSS PER SHARE OF $0.63 VERSUS A $0.96 LOSS YOY
-- 10/30 05:07 [FirstSquawk] RIVIAN Q3 VEHICLES DELIVERED 19,248 AND PRODUCTION 19,751, BOTH ABOVE ESTIMATES
-- 10/30 05:07 [FirstSquawk] RIVIAN SEES FY VEHICLES DELIVERED 67,000 TO 70,000 AND FY ADJUSTED EBITDA LOSS OF $1.75 BLN TO $1.85 BLN
-- 10/30 05:08 [FirstSquawk] STARBUCKS Q4 COMPARABLE SALES ROSE 7.2%, ABOVE ESTIMATE OF +6.23%, WITH U.S. COMPARABLE SALES UP 7.7%, ABOVE ESTIMATE, WHILE INTERNATIONAL COMPARABLE SALES ROSE 0.9%, BELOW ESTIMATE OF +3.36%, AND THE COMPANY SAYS IT IS AHEAD OF SCHEDULE FO…
-- 10/30 05:08 [FirstSquawk] STRATEGY Q3 REVENUE $125.4 MLN, BELOW ESTIMATE OF $128.4 MLN, WITH CASH AND CASH EQUIVALENTS $2.50 BLN, BELOW ESTIMATE OF $3.4 BLN
-- 10/30 05:09 [FirstSquawk] SANDISK ANNOUNCES EIGHT-FOR-ONE STOCK SPLIT EFFECTIVE NOV 19.
-- 10/30 05:10 [FirstSquawk] MONDELEZ Q3 ADJUSTED EPS $0.78, ABOVE ESTIMATE OF $0.71, WITH ADJUSTED NET INCOME $992 MLN, ABOVE ESTIMATE OF $906.4 MLN, EPS $1.02, NET INCOME $1,305 MLN AND GROSS MARGIN 39.4%
-- 10/30 05:10 [FirstSquawk] MONDELEZ SEES FY ORGANIC NET REVENUE GROWTH OF 2% AND FY ADJUSTED EPS GROWTH OF 0% TO 5%, EXPECTS 2026 FREE CASH FLOW OF ABOUT $3 BLN, AND NOTES A RECENT AGREEMENT TO ACQUIRE UNDERCOVER SNACKS
-- 10/30 05:12 [FirstSquawk] DEPARTMENT OF ENERGY SAYS IT HAS REINSTATED THE EASTMAN AWARD TO ADVANCE U.S. MANUFACTURING LEADERSHIP AND STRENGTHEN THE DOMESTIC RECYCLED PLASTICS SUPPLY CHAIN
-- 10/30 05:12 [financialjuice] $COIN Coinbase Q3 Earnings Revenue $1.22B, est. $1.22B Adjusted EBITDA $332.9M, est. $282.9M Transaction revenue $590M, est. $575M Subscription & Services revenue $570M, est. $564M Trading volume $134.5B Crypto trading volume market share 1…
-- 10/30 05:14 [FirstSquawk] COINBASE Q3 REVENUE $1.22 BLN, IN LINE WITH ESTIMATE, WITH ADJUSTED EBITDA $332.9 MLN, ABOVE ESTIMATE OF $282.9 MLN, TRANSACTION REVENUE $590 MLN AND SUBSCRIPTION & SERVICES REVENUE $570 MLN, BOTH ABOVE ESTIMATES
-- 10/30 05:14 [FirstSquawk] COINBASE Q3 TRADING VOLUME $134.5 BLN, WITH CRYPTO TRADING VOLUME MARKET SHARE OF 10.7%, DOUBLED YOY, AND THE COMPANY SAYS Q3 REFLECTED SOFT CRYPTO MARKET CONDITIONS THOUGH MACRO HEADWINDS HAVE BEGUN TO SHIFT
-- 10/30 05:14 [FirstSquawk] COINBASE SEES Q4 SUBSCRIPTION & SERVICES REVENUE $550 MLN TO $630 MLN AND Q4 ADJUSTED EXPENSES $1.007 BLN TO $1.157 BLN, WITH Q4 TRANSACTION REVENUE AT ABOUT $165 MLN QUARTER-TO-DATE
-- 10/30 05:15 [FirstSquawk] EDISON INTERNATIONAL Q3 CORE EPS $1.92, ABOVE ESTIMATE OF $1.81, WITH EPS $1.88, NET INCOME $724 MLN AND ADJUSTED NET INCOME $738 MLN, ABOVE ESTIMATE OF $688.7 MLN
-- 10/30 05:16 [FirstSquawk] MONDELEZ SAYS IT REMAINS CONFIDENT IN DELIVERING STRONG EPS GROWTH FOR 2027, AND THAT UNDERCOVER SNACKS CEO DIANA LEVY WILL CONTINUE TO LEAD IT AS IT REMAINS STANDALONE WITHIN THE COMPANY’S NORTH AMERICA VENTURES UNIT - PREPARED REMARKS
-- 10/30 05:25 [FirstSquawk] ST LNG AIMS TO REACH A FINAL INVESTMENT DECISION ON ITS DEEPWATER OFFSHORE LNG EXPORT PROJECT AROUND MID- TO LATE 2027, AND SAYS ONE INDIAN INTEGRATED ENERGY COMPANY IS CLOSE TO SIGNING AS THE PROJECT’S FIRST CUSTOMER - COMPANY PRESIDENT AN…
-- 10/30 05:32 [financialjuice] Friday FX Option Expiries
-- 10/30 05:34 [FirstSquawk] AIR CANADA Q3 ADJUSTED EPS CAD 0.75, ABOVE IBES ESTIMATE OF CAD 0.53, WITH EPS CAD 0.49, NET INCOME CAD 139 MLN, OPERATING MARGIN 3.7% AND REVENUE CAD 6,984 MLN, ABOVE ESTIMATE OF CAD 6,879 MLN
-- 10/30 05:34 [FirstSquawk] AIR CANADA SAYS DECISIVE PRICING, CAPACITY AND COST ACTIONS HELPED MITIGATE A CAD 906 MLN YOY INCREASE IN FUEL EXPENSE, THOUGH IT EXPECTS A CHALLENGING ENVIRONMENT TO PERSIST, WITH FY ADJUSTED EBITDA SEEN AT CAD 2,400 MLN TO 2,700 MLN AND F…
-- 10/30 05:34 [FirstSquawk] AIR CANADA SEES FY2026 ADJUSTED CASM UP 5.5%-6% FROM 2025 AND ASM CAPACITY UP ABOUT 2.75%, ASSUMING JET FUEL AVERAGES ABOUT C$1.72 PER LITRE IN Q4, AND RECORDED PENSION PAST SERVICE COST CHARGES OF $131 MLN RELATED TO THE IAMAW AGREEMENT IN…
-- 10/30 05:35 [financialjuice] Tech Selloff Sparks Broad Market Rotation as Bonds Rally – US Market Wrap
-- 10/30 05:37 [financialjuice] Total money market funds fell $43.29b to $7.9t for the week ended October 28th - ICI.
-- 10/30 05:42 [DeItaone] BINANCE WALLETS SEE $2.77 BILLION OUTFLOW ACROSS FIVE BLOCKCHAINS AMID DRAIN SUSPICIONS; HACK UNCONFIRMED
-- 10/30 05:48 [DeItaone] UKRAINIAN CAPITAL KYIV UNDER ATTACK FROM RUSSIAN BALLISTIC MISSILES, MAYOR SAYS
-- 10/30 05:51 [FirstSquawk] US TECHNOLOGY STOCKS SLUMPED AS ALPHABET PLUNGED 12% ON DISAPPOINTING SALES, DRAGGING THE NASDAQ 100 DOWN 1.4%. CONCERNS OVER AI INVESTMENT RETURNS TRIGGERED A ROTATION INTO BROADER EQUITIES, WITH MORE THAN 400 S&P 500 STOCKS ADVANCING, WHI…
-- 10/30 05:51 [FirstSquawk] US GDP GREW AT ITS FASTEST PACE IN A YEAR IN Q3, WHILE SEPTEMBER PCE INFLATION ROSE 0.5%, ITS BIGGEST MONTHLY INCREASE IN SIX MONTHS. AMAZON SLUMPED AFTER HOURS ON HIGHER AI SPENDING, AND INTEL FELL ON A WEAKER REVENUE OUTLOOK.
-- 10/30 05:51 [FirstSquawk] STARBUCKS SAYS HALF OF ITS INTERNATIONAL FY2027 OPENINGS WILL BE IN CHINA, EXPECTS FY2027 CAPEX OF 5% OF NET REVENUES, AND SEES 90-100 NET NEW NORTH AMERICA OPENINGS IN FY2027
-- 10/30 05:52 [FirstSquawk] KYIV’S MAYOR SAYS THE UKRAINIAN CAPITAL IS UNDER ATTACK FROM RUSSIAN BALLISTIC MISSILES, WITH REUTERS WITNESSES REPORTING EXPLOSIONS JOLTING KYIV
-- 10/30 06:01 [FirstSquawk] NEW ZEALAND ANZ CONSUMER CONFIDENCE INDEX FELL TO 96.2 IN OCTOBER FROM 97.6, DOWN 1.4% MONTH-ON-MONTH
-- 10/30 06:06 [DeItaone] TETHER FREEZES $971M USDT AMID SUSPECTED BINANCE HACK BINANCE HAS YET TO ISSUE UPDATE ON SUSPECTED HACK
-- 10/30 06:10 [financialjuice] North Korea leader Kim Jong Un calls for absolute superiority in drone technology - KCNA
-- 10/30 06:11 [financialjuice] N. Korea Leader Kim Jong Un calls for scientists to advance drone and AI defense alongside nuclear, conventional weapons progress - KCNA
-- 10/30 06:17 [FirstSquawk] PETROCHINA, CNOOC AND PETROBRAS HAVE EMERGED AS WINNERS IN BRAZIL’S PPSA SPOT OIL AUCTION - STATEMENT
-- 10/30 06:17 [DeItaone] BINANCE: OUR TEAMS ARE AWARE OF REPORTS OF A POTENTIAL SECURITY ISSUE AND ARE ACTIVELY INVESTIGATING
-- 10/30 06:18 [FirstSquawk] AMAZON CEO SAYS THE AWS BACKLOG IS $578 BLN, GROWING TRIPLE DIGITS YOY, AND THAT THE COMPANY EXPECTS TO SPEND “MEANINGFULLY MORE” ON CAPEX IN 2027
-- 10/30 06:18 [FirstSquawk] AMAZON CEO SAYS THAT WITH TRAINIUM CHIP DEMAND SO STRONG, CUSTOMERS ARE ENCOURAGING AMAZON TO MAKE IT AVAILABLE OUTSIDE OF AWS, AND IT INTENDS TO DO SO LATE IN 2027 - CONF CALL
-- 10/30 06:19 [FirstSquawk] BINANCE SAYS ITS TEAMS ARE AWARE OF REPORTS OF A POTENTIAL SECURITY ISSUE AND ARE ACTIVELY INVESTIGATING, ADDING ITS SECURITY TEAMS ARE REVIEWING ALL RELEVANT INFORMATION WITH URGENCY AND WILL PROVIDE UPDATES THROUGH OFFICIAL BINANCE CHANNE…
-- 10/30 06:19 [FirstSquawk] INTEL CEO SAYS THE PACE OF THE PC CORRECTION HAS ACCELERATED OVER THE LAST TWO MONTHS AS OEM PARTNERS AGGRESSIVELY MANAGE INVENTORY TO MATCH SOFTER SELL-THROUGH, AND THAT AN INDUSTRY-WIDE SHORTAGE OF ADVANCED ORGANIC SUBSTRATES FOR ITS EMIB…
-- 10/30 06:19 [FirstSquawk] INTEL CEO SAYS IT HAS SUCCESSFULLY RAMPED PANTHER LAKE ON INTEL 18A, DEMAND FOR WILDCAT LAKE IS OUTSTRIPPING SUPPLY, AND NOVA LAKE, ITS FIRST INTEL 18AP CLIENT PRODUCT, IS TRACKING AHEAD OF SCHEDULE, WITH DESIGN WINS EXPECTED TO BE TWICE TH…
-- 10/30 06:19 [FirstSquawk] INTEL CEO SAYS INTEL 18A-P REMAINS ON TRACK FOR LAUNCH BY YEAR-END AND INTEL 14A ALSO REMAINS ON TRACK, THAT THE COMPANY IS ENGAGED WITH “A COUPLE” OF “HIGHLY STRATEGIC” EXTERNAL CUSTOMERS FOR 18A-P CHIPMAKING TECHNOLOGY, AND THAT BY ITS ES…
-- 10/30 06:20 [financialjuice] Circle: closely monitoring reports of possible exploit involving Binance
-- 10/30 06:20 [FirstSquawk] NORTH KOREA LEADER KIM JONG UN CALLS FOR ABSOLUTE SUPERIORITY IN DRONE TECHNOLOGY AND FOR SCIENTISTS TO ADVANCE DRONE AND AI DEFENSE ALONGSIDE NUCLEAR AND CONVENTIONAL WEAPONS PROGRESS - KCNA
-- 10/30 06:21 [financialjuice] IAEA: informed of drone attack killing Zaporizhzhya nuclear power plant employee today
-- 10/30 06:21 [financialjuice] Circle CEO: 800 million USDC linked to incident frozen as support for investigation continues
-- 10/30 06:21 [FirstSquawk/financialjuice] FEDERAL COMMUNICATIONS COMMISSION TO VOTE ON BLOCKING CHINESE TELECOM FIRMS FROM DIRECT US PHONE NUMBER ACCESS
-- 10/30 06:22 [FirstSquawk] IAEA: INFORMED THAT ZAPORIZHZHYA NUCLEAR POWER PLANT EMPLOYEE WAS KILLED IN DRONE ATTACK TODAY
-- 10/30 06:24 [financialjuice] Los Angeles County official subpoenaed in Trump administration inquiry into alleged noncitizen voting: spokesperson
-- 10/30 06:26 [financialjuice] Tether CEO: Tether froze over $1.567 billion USDT linked to possible Binance exchange hack
-- 10/30 06:46 [DeItaone] BINANCE. US: BINANCE. US IS NOT AFFECTED BY REPORTED BINANCE. COM SECURITY INCIDENT
-- 10/30 06:58 [FirstSquawk] BRAZIL’S BRASKEM SAYS ITS Q3 AVERAGE UTILIZATION RATE OF ITS PETROCHEMICAL PLANTS IN BRAZIL WAS 69%, WITH RESIN SALES VOLUME IN BRAZIL UP 9% YOY BUT SALES VOLUME OF MAIN PETROCHEMICAL PRODUCTS IN BRAZIL DOWN 18% YOY
-- 10/30 06:58 [FirstSquawk] BRASKEM SAYS Q3 POLYPROPYLENE SALES VOLUME IN THE U.S. AND EUROPE FELL 1% YOY WHILE POLYETHYLENE SALES VOLUME IN MEXICO ROSE 9% YOY - FILING
-- 10/30 07:06 [financialjuice] Suzhou Denglin Technology Co launches global offering
-- 10/30 07:06 [financialjuice] Suzhou Denglin Technology Co: global offering 6.1 million H shares
-- 10/30 07:07 [financialjuice] Suzhou Denglin Technology: dealings in H shares on stock exchange expected to start Nov. 10
-- 10/30 07:08 [FirstSquawk] SUZHOU DENGLIN TECHNOLOGY HAS LAUNCHED A GLOBAL OFFERING OF 6.1 MLN H SHARES, WITH DEALINGS IN THE H SHARES ON THE STOCK EXCHANGE EXPECTED TO START NOVEMBER 10
-- 10/30 07:08 [financialjuice] Relyez unveils global launch of energy storage technology
-- 10/30 07:09 [financialjuice] Sichuan Neautus traditional Chinese medicine reveals global share sale
-- 10/30 07:10 [financialjuice] Jiangsu Xinde Semiconductor Technology launches global share sale
-- 10/30 07:11 [financialjuice] Jiangsu Xinde Semiconductor Technology: number of offered shares in global offering 106.6 million H shares
-- 10/30 07:11 [financialjuice] Ganzhou Hemay Pharmaceutical unveils global share sale
-- 10/30 07:12 [FirstSquawk] JIANGSU XINDE SEMICONDUCTOR TECHNOLOGY HAS LAUNCHED A GLOBAL SHARE SALE, WITH THE NUMBER OF OFFERED SHARES IN THE GLOBAL OFFERING AT 106.6 MLN H SHARES
-- 10/30 07:12 [financialjuice] Ganzhou Hemay Pharmaceutical: global offering to include 55.2 million H shares
-- 10/30 07:13 [financialjuice] Ganzhou Hemay Pharmaceutical: trading in H shares on Hong Kong stock exchange set to begin Nov. 9
-- 10/30 07:13 [financialjuice] Nasdaq futures drop 1.4%, S&P 500 eminis decline 0.6%
-- 10/30 07:14 [FirstSquawk] US STOCK FUTURES SLIDE: NASDAQ FUTURES -1.4%, S&P 500 E-MINIS -0.6%
-- 10/30 07:18 [financialjuice/FirstSquawk] Colombia government proposes fiscal bill to congress to reduce 2027 spending, boost revenue
-- 10/30 07:20 [financialjuice] Chile state miner Codelco acts after discoveries in overproduction probes
-- 10/30 07:21 [financialjuice/FirstSquawk] Codelco: to terminate employment of eight executives and professionals from Chuquicamata, Ministro Hales, Salvador divisions and corporate headquarters
-- 10/30 07:24 [financialjuice/FirstSquawk] Saudi-led coalition: intercepted cruise missile fired by Yemen's Houthis toward kingdom’s western region
-- 10/30 07:42 [financialjuice] Nvidia in talks to offer billions in credit backing for cloud provider’s $45 billion Anthropic deal - The Information
-- 10/30 07:43 [financialjuice] Nvidia in talks to offer Nscale billions in credit guarantees for debt to build 460-megawatt data center - The Information
-- 10/30 07:44 [DeItaone] NVIDIA IS IN TALKS TO PROVIDE NSCALE WITH BILLIONS IN CREDIT GUARANTEES FOR DEBT TO DEVELOP A 460-MEGAWATT DATA CENTER - THE INFORMATION
-- 10/30 07:45 [DeItaone] NVIDIA IN TALKS TO PROVIDE BILLIONS IN CREDIT SUPPORT FOR A CLOUD PROVIDER’S $45 BILLION ANTHROPIC DEAL - THE INFORMATION
-- 10/30 07:56 [FirstSquawk] BINANCE CO-FOUNDER CHANGPENG ZHAO SAYS THE EXCHANGE APPEARS TO HAVE BEEN HACKED, WITH TETHER AND CIRCLE FREEZING APPROXIMATELY $1.8 BLN
-- 10/30 08:00 [financialjuice] S.Korea Sept industrial output rises 1.2% yr/yr, beats 1.0% poll: Sats office
-- 10/30 08:00 [financialjuice] South Korea September retail sales rise 3.6% month-on-month: stats office
-- 10/30 08:00 [financialjuice] S.Korea Sept service sector output rises 0.5% month-on-month: stats office
-- 10/30 08:00 [financialjuice] S. Korea Sept industrial output surge 9.0% m/m, outpacing poll of 3.4%: stats office
-- 10/30 08:00 [FirstSquawk] SOUTH KOREA SEPTEMBER INDUSTRIAL OUTPUT SURGED 9.0% MOM, FAR OUTPACING THE POLL OF 3.4%, AND ROSE 1.2% YOY, BEATING THE 1.0% POLL
-- 10/30 08:00 [FirstSquawk] SOUTH KOREA SEPTEMBER RETAIL SALES ROSE 3.6% MOM AND SERVICE SECTOR OUTPUT ROSE 0.5% MOM - STATS OFFICE
-- 10/30 08:04 [FirstSquawk] U.S. ENVOY TOM BARRACK SAYS WASHINGTON IS “VERY CLOSE” TO AN AGREEMENT AIMED AT REDUCING TENSIONS WITH IRAN, CITING MEDIATION BY QATAR, PAKISTAN, SAUDI ARABIA AND TURKEY
-- 10/30 08:13 [FirstSquawk] AUSTRALIA’S S&P/ASX 200 INDEX IS UP 0.4% AT 8,928.10 IN EARLY TRADE
-- 10/30 08:21 [FirstSquawk] OIL PRICES FELL AS RENEWED US-IRAN DIPLOMATIC CONTACTS EASED FEARS OF FURTHER MILITARY ESCALATION. BRENT DECEMBER FUTURES DROPPED 0.4% TO $114.88, WHILE WTI DECLINED 0.8% TO $102 A BARREL. TEHRAN SIGNALLED OPENNESS TO DIPLOMACY, THOUGH UNCE…
-- 10/30 08:21 [FirstSquawk] WEAK DIESEL MARKETS ADDED PRESSURE AS CHINA ISSUED NEW FUEL-EXPORT QUOTAS AND EUROPE PLANNED TO RELEASE 42 MILLION BARRELS FROM STRATEGIC RESERVES OVER THREE MONTHS. HOWEVER, RUSSIA’S REPORTED EXTENSION OF ITS DIESEL EXPORT BAN THROUGH YEAR…
-- 10/30 08:30 [financialjuice] ❗ JAPANESE JOBS/APPLICANTS RATIO ACTUAL 1.19 (FORECAST 1.18, PREVIOUS 1.18) $MACRO
-- 10/30 08:30 [financialjuice] ❗ TOKYO CPI OVERALL ACTUAL 2.8% (FORECAST 2.7%, PREVIOUS 2.7%) $MACRO
-- 10/30 08:30 [financialjuice] ❗ TOKYO CORE CPI YOY ACTUAL 2.6% (FORECAST 2.6%, PREVIOUS 2.7%) $MACRO
-- 10/30 08:30 [financialjuice] ❗ JAPANESE UNEMPLOYMENT RATE ACTUAL 2.4% (FORECAST 2.5%, PREVIOUS 2.5%) $MACRO
-- 10/30 08:30 [financialjuice] Japan Sept jobs-applicants ratio climbs to 1.19 from 1.18 in August - govt (Poll: 1.18)
-- 10/30 08:30 [financialjuice] Japan Sept seasonally adjusted unemployment rate 2.4%: government (Poll: 2.5%)
-- 10/30 08:30 [financialjuice] Tokyo area October core CPI rises 2.6% year/year, govt: poll +2.6%
-- 10/30 08:30 [financialjuice] Tokyo area October CPI excluding fresh food and energy prices rises 2.6% year on year: govt
-- 10/30 08:30 [financialjuice] Tokyo area October overall CPI rises 2.8% year on year: govt
-- 10/30 08:32 [FirstSquawk] BINANCE SAYS THE VERIFIED TOTAL FROZEN STANDS AT $2.54 BLN AND IT MAY FREEZE MORE AS IT WORKS WITH LAW ENFORCEMENT, ADDING THAT BINANCE ALPHA TRADING HAS BEEN TEMPORARILY SUSPENDED AND WILL RESUME ONCE THE SECURITY ISSUE IS RESOLVED
-- 10/30 08:32 [FirstSquawk] TOKYO AREA OCTOBER CORE CPI ROSE 2.6% YOY, IN LINE WITH THE POLL AND DOWN FROM 2.7%, WITH OVERALL CPI UP 2.8% AND CPI EXCLUDING FRESH FOOD AND ENERGY UP 2.6%
-- 10/30 08:32 [FirstSquawk] JAPAN SEPTEMBER SEASONALLY ADJUSTED UNEMPLOYMENT RATE 2.4%, BELOW THE POLL OF 2.5%, WITH THE JOBS-TO-APPLICANTS RATIO CLIMBING TO 1.19 FROM 1.18
-- 10/30 08:32 [FirstSquawk] US CENTRAL COMMAND CHIEF ADM. BRAD COOPER BRIEFED PRESIDENT TRUMP ON MILITARY OPTIONS FOR IRAN, JOINED BY DEFENSE SECRETARY PETE HEGSETH AND JOINT CHIEFS CHAIRMAN GEN. DAN CAINE. THE PENTAGON IS REINFORCING MIDDLE EAST DEFENSES, DEPLOYING A…
-- 10/30 08:32 [FirstSquawk] TRUMP HAS LEFT MILITARY ACTION ON THE TABLE IF DIPLOMACY FAILS, WHILE IRAN HAS THREATENED RETALIATORY STRIKES AGAINST US AND GULF TARGETS. HOWEVER, NO DECISION TO LAUNCH A NEW CAMPAIGN HAS BEEN CONFIRMED, KEEPING REGIONAL ESCALATION RISKS E…
 - 10/30 08:41 [financialjuice] Ukraine pauses attacks on Russian refineries after U.S. pressure - WSJ
 - 10/30 08:43 [financialjuice] Ukraine’s pause on Russian energy attacks expected to extend beyond US midterm elections and possibly into November - WSJ
 - 10/30 08:50 [financialjuice] ‼ BREAKING: JAPANESE INDUSTRIAL OUTPUT PRELIM MOM SA ACTUAL 2.2% (FORECAST 1.2%, PREVIOUS -2.4%) $MACRO
@@ -807,7 +700,7 @@
 - 10/31 04:51 [FirstSquawk] RUSSIA VETO’S US-DRAFTED RESOLUTION ON WESTERN SAHARA THAT SCALES BACK PEACEKEEPING MISSION
 - 10/31 04:58 [financialjuice] WATCH LIVE: Trump Speaks at White House
 - 10/31 04:59 [financialjuice] Binance: Tech team targets to start resuming the withdrawal service within approximately 34 hours
-- 10/31 05:01 [financialjuice] Trump: Looking at Binance hack
+- 10/31 05:01 [financialjuice/DeItaone] Trump: Looking at Binance hack
 - 10/31 05:01 [FirstSquawk] NASDAQ .IXIC UNOFFICIALLY CLOSES DOWN 746.33 POINTS, OR 2.85 PERCENT, AT 25,438.40 DOW JONES UNOFFICIALLY CLOSES DOWN 579.15 POINTS, OR 1.11%, AT 51,763.41 S&P 500 UNOFFICIALLY CLOSES DOWN 142.25 POINTS, OR 1.84 PERCENT, AT 7,578.14
 - 10/31 05:01 [financialjuice] Trump on Binance: It was a hack.
 - 10/31 05:01 [FirstSquawk/financialjuice] TRUMP ON IRAN: THERE ARE TALKS
@@ -815,3 +708,27 @@
 - 10/31 05:02 [financialjuice] Trump on Iran: we have time, frankly
 - 10/31 05:02 [financialjuice] Trump: Looking at whether Binance hack is by North Korea
 - 10/31 05:03 [financialjuice] IRGC: 4th tanker explodes after hitting mine in Strait of Hormuz - IRIB
+- 10/31 05:05 [financialjuice] IRGC: Tanker ignored warnings against using 'unauthorised route’ through Strait of Hormuz
+- 10/31 05:05 [financialjuice] Trump ends remarks at the White House
+- 10/31 05:07 [financialjuice] ❗ Intel shares plunge 29% for worst day in at least four decades
+- 10/31 05:10 [FirstSquawk] IRGC: FOURTH TANKER EXPLODES AFTER HITTING MINE IN STRAIT OF HORMUZ - IRIB
+- 10/31 05:10 [financialjuice] Yemen's Houthis deny launching attacks against Saudi Arabia's Medina - Statement
+- 10/31 05:16 [financialjuice] US bank deposits fell to $19.771 trln from $19.803 trln in prior week
+- 10/31 05:18 [financialjuice] UKMTO: Received a time-late report of an incident in the Strait of Hormuz. Crude tanker hit by projectile transiting Hormuz strait
+- 10/31 05:35 [financialjuice] Monday FX Option Expiries
+- 10/31 05:37 [financialjuice] Week Ahead: Economic Indicators 2nd – 6th November (US)
+- 10/31 06:05 [financialjuice] S&P says Meta’s capacity to monetize AI investments is more constrained than peers
+- 10/31 06:07 [FirstSquawk] META OUTLOOK REVISED TO NEGATIVE BY S&P
+- 10/31 06:08 [financialjuice] S&P: Uncertainty over Meta's future capital expenditures and ambitious multiyear AI investments casts doubt on expected spending cuts
+- 10/31 06:08 [financialjuice] US DOJ files motion for preliminary injunction in Alaska election dispute
+- 10/31 06:14 [financialjuice] North Korea: international sanctions ineffective against it - KCNA
+- 10/31 06:17 [financialjuice] North Korea: international sanctions can’t affect stance as nuclear weapons state - KCNA
+- 10/31 06:20 [financialjuice] Russia's Lavrov: key issues in US-Russian relations unresolved, sanctions continue, arms still supplied to Ukraine
+- 10/31 06:20 [financialjuice] Lavrov: Russia's stance on a Ukraine settlement unchanged, Moscow rejects military threat from Ukraine
+- 10/31 06:21 [financialjuice] Russia's Lavrov: unclear what Ukraine will bring to new settlement talks but Zelenskiy's mention of long-range strikes is unhelpful
+- 10/31 06:39 [financialjuice] White House to nominate Mufarrige as FTC commissioner
+- 10/31 06:40 [financialjuice] Morocco satisfied with non-renewal of UN peacekeeping mission in Western Sahara: attached to ceasefire
+- 10/31 06:43 [financialjuice] Non-renewal of peacekeeping mission a move toward final resolution of Western Sahara issue at UN, royal palace says
+- 10/31 06:46 [financialjuice] Minurso personnel, vehicles, equipment, symbols to end in coming days: Moroccan royal palace
+- 10/31 07:34 [DeItaone] US REPORTEDLY PREPARING SHORT, INTENSE IRAN STRIKES ON NOVEMBER 4 The Trump administration has reportedly warned Gulf allies to prepare for potential US strikes on Iran as early as November 4, one day after the midterm elections, according …
+- 10/31 08:07 [financialjuice] US, South Korea, Japan foreign ministers reaffirm pledge to finalize North Korea denuclearization - Yonhap
