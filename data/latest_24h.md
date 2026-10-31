@@ -7,61 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-11-01 04:12 JST／対象: 10/31 04:12 〜 11/01 04:12 JST（時刻はすべて日本時間）
+生成: 2026-11-01 07:29 JST／対象: 10/31 07:29 〜 11/01 07:29 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 25 | 10/31 05:11 | 11/01 03:53 | ⚠ 458分（07:34→15:13） |
-| FirstSquawk | 196 | 10/31 04:21 | 11/01 03:23 | ⚠ 183分（06:07→09:11） |
-| financialjuice | 105 | 10/31 04:26 | 11/01 04:01 | ⚠ 247分（10:32→14:40） |
+| DeItaone | 24 | 10/31 07:34 | 11/01 03:53 | ⚠ 458分（07:34→15:13） |
+| FirstSquawk | 189 | 10/31 09:11 | 11/01 03:23 | ⚠ 68分（17:01→18:09） |
+| financialjuice | 74 | 10/31 08:07 | 11/01 06:29 | ⚠ 247分（10:32→14:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 308 行（統合前 327 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 271 行（統合前 288 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/31 04:21 [FirstSquawk] QATARI NEGOTIATORS HOLD 12-HOUR TALKS IN TEHRAN TO UNLOCK US-IRAN DEAL - AXIOS
-- 10/31 04:26 [financialjuice] Big tech holds $3 trillion in spending commitments for the AI boom.
-- 10/31 04:29 [FirstSquawk] BIG TECH HOLDS $3 TRILLION IN SPENDING COMMITMENTS FOR A1 BOOM
-- 10/31 04:31 [financialjuice] CFTC Positions in the Week of October 27th 2026
-- 10/31 04:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: 2801.9 MLN NASDAQ 100: 2403.5 MLN DOW 30: 20.4 MLN MAG 7: 624.8 MLN $MACRO
-- 10/31 04:51 [FirstSquawk] RUSSIA VETO’S US-DRAFTED RESOLUTION ON WESTERN SAHARA THAT SCALES BACK PEACEKEEPING MISSION
-- 10/31 04:58 [financialjuice] WATCH LIVE: Trump Speaks at White House
-- 10/31 04:59 [financialjuice] Binance: Tech team targets to start resuming the withdrawal service within approximately 34 hours
-- 10/31 05:01 [financialjuice/DeItaone] Trump: Looking at Binance hack
-- 10/31 05:01 [FirstSquawk] NASDAQ .IXIC UNOFFICIALLY CLOSES DOWN 746.33 POINTS, OR 2.85 PERCENT, AT 25,438.40 DOW JONES UNOFFICIALLY CLOSES DOWN 579.15 POINTS, OR 1.11%, AT 51,763.41 S&P 500 UNOFFICIALLY CLOSES DOWN 142.25 POINTS, OR 1.84 PERCENT, AT 7,578.14
-- 10/31 05:01 [financialjuice] Trump on Binance: It was a hack.
-- 10/31 05:01 [FirstSquawk/financialjuice] TRUMP ON IRAN: THERE ARE TALKS
-- 10/31 05:02 [financialjuice] Trump: Binance says they have it under control
-- 10/31 05:02 [financialjuice] Trump on Iran: we have time, frankly
-- 10/31 05:02 [financialjuice] Trump: Looking at whether Binance hack is by North Korea
-- 10/31 05:03 [financialjuice] IRGC: 4th tanker explodes after hitting mine in Strait of Hormuz - IRIB
-- 10/31 05:05 [financialjuice] IRGC: Tanker ignored warnings against using 'unauthorised route’ through Strait of Hormuz
-- 10/31 05:05 [financialjuice] Trump ends remarks at the White House
-- 10/31 05:07 [financialjuice] ❗ Intel shares plunge 29% for worst day in at least four decades
-- 10/31 05:10 [FirstSquawk] IRGC: FOURTH TANKER EXPLODES AFTER HITTING MINE IN STRAIT OF HORMUZ - IRIB
-- 10/31 05:10 [financialjuice] Yemen's Houthis deny launching attacks against Saudi Arabia's Medina - Statement
-- 10/31 05:16 [financialjuice] US bank deposits fell to $19.771 trln from $19.803 trln in prior week
-- 10/31 05:18 [financialjuice] UKMTO: Received a time-late report of an incident in the Strait of Hormuz. Crude tanker hit by projectile transiting Hormuz strait
-- 10/31 05:35 [financialjuice] Monday FX Option Expiries
-- 10/31 05:37 [financialjuice] Week Ahead: Economic Indicators 2nd – 6th November (US)
-- 10/31 06:05 [financialjuice] S&P says Meta’s capacity to monetize AI investments is more constrained than peers
-- 10/31 06:07 [FirstSquawk] META OUTLOOK REVISED TO NEGATIVE BY S&P
-- 10/31 06:08 [financialjuice] S&P: Uncertainty over Meta's future capital expenditures and ambitious multiyear AI investments casts doubt on expected spending cuts
-- 10/31 06:08 [financialjuice] US DOJ files motion for preliminary injunction in Alaska election dispute
-- 10/31 06:14 [financialjuice] North Korea: international sanctions ineffective against it - KCNA
-- 10/31 06:17 [financialjuice] North Korea: international sanctions can’t affect stance as nuclear weapons state - KCNA
-- 10/31 06:20 [financialjuice] Russia's Lavrov: key issues in US-Russian relations unresolved, sanctions continue, arms still supplied to Ukraine
-- 10/31 06:20 [financialjuice] Lavrov: Russia's stance on a Ukraine settlement unchanged, Moscow rejects military threat from Ukraine
-- 10/31 06:21 [financialjuice] Russia's Lavrov: unclear what Ukraine will bring to new settlement talks but Zelenskiy's mention of long-range strikes is unhelpful
-- 10/31 06:39 [financialjuice] White House to nominate Mufarrige as FTC commissioner
-- 10/31 06:40 [financialjuice] Morocco satisfied with non-renewal of UN peacekeeping mission in Western Sahara: attached to ceasefire
-- 10/31 06:43 [financialjuice] Non-renewal of peacekeeping mission a move toward final resolution of Western Sahara issue at UN, royal palace says
-- 10/31 06:46 [financialjuice] Minurso personnel, vehicles, equipment, symbols to end in coming days: Moroccan royal palace
 - 10/31 07:34 [DeItaone] US REPORTEDLY PREPARING SHORT, INTENSE IRAN STRIKES ON NOVEMBER 4 The Trump administration has reportedly warned Gulf allies to prepare for potential US strikes on Iran as early as November 4, one day after the midterm elections, according …
 - 10/31 08:07 [financialjuice] US, South Korea, Japan foreign ministers reaffirm pledge to finalize North Korea denuclearization - Yonhap
 - 10/31 09:09 [financialjuice] OpenAI cuts funding goal by $10 billion as tech worries increase - FT
@@ -332,3 +294,4 @@
 - 11/01 03:54 [financialjuice] Iran's Rezaei: War must end permanently, no nation should dare attack Iran again
 - 11/01 03:59 [financialjuice] Iran’s Rezaei: Iran’s nuclear rights under non-proliferation treaty must be respected if talks happen in later stages
 - 11/01 04:01 [financialjuice] Iran’s security chief Rezaei: Strait of Hormuz to stay closed until Tehran’s conditions fulfilled
+- 11/01 06:29 [financialjuice] FBI: North Korea was behind the theft of over $6 billion in virtual assets from cryptocurrency exchange Binance

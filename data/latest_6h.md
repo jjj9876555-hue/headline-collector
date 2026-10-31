@@ -7,67 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-11-01 04:12 JST／対象: 10/31 22:12 〜 11/01 04:12 JST（時刻はすべて日本時間）
+生成: 2026-11-01 07:29 JST／対象: 11/01 01:29 〜 11/01 07:29 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 12 | 10/31 22:13 | 11/01 03:53 | ⚠ 119分（00:05→02:05） |
-| FirstSquawk | 53 | 10/31 22:13 | 11/01 03:23 | ⚠ 61分（22:41→23:43） |
-| financialjuice | 36 | 10/31 22:12 | 11/01 04:01 | ⚠ 77分（22:38→23:55） |
+| DeItaone | 3 | 11/01 02:05 | 11/01 03:53 | ⚠ 56分（02:57→03:53） |
+| FirstSquawk | 27 | 11/01 01:40 | 11/01 03:23 | ⚠ 50分（02:31→03:21） |
+| financialjuice | 20 | 11/01 01:29 | 11/01 06:29 | ⚠ 147分（04:01→06:29） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 91 行（統合前 101 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 50 行（統合前 50 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/31 22:12 [financialjuice] Iran's Aragchi to Al Jazeera: conditions include lifting post-Islamabad sanctions, reducing US forces in region
-- 10/31 22:13 [DeItaone] IRAN'S ARAQCHI TO AL JAZEERA: OUR CONDITIONS INCLUDE LIFTING SANCTIONS IMPOSED AFTER ISLAMABAD MOU, REDUCING US FORCES IN REGION
-- 10/31 22:13 [DeItaone] IRAN'S FM TO AL JAZEERA: TEHRAN DEMANDS RECOGNITION OF NEW SHIPPING ROUTE AGREED WITH OMAN IN STRAIT OF HORMUZ, CLOSURE OF OTHER ROUTES
-- 10/31 22:13 [FirstSquawk] IRAN'S FM TO AL JAZEERA SAYS TEHRAN TO DECIDE WHETHER TALKS WITH WASHINGTON ARE DIRECT OR INDIRECT AFTER US ACCEPTS ITS CONDITIONS
-- 10/31 22:13 [financialjuice] Iran's FM to Al Jazeera: Tehran seeks recognition of new shipping lane agreed with Oman in Strait of Hormuz, closure of alternative routes
-- 10/31 22:15 [FirstSquawk] IRAN'S FM TO AL JAZEERA SAYS MEDIATORS HAVE PRESENTED PROPOSALS ON NUCLEAR ISSUE, WHICH TEHRAN IS EXAMINING; IRANIAN PLAN IS ONLY PROPOSAL CURRENTLY ON TABLE TO REOPEN STRAIT OF HORMUZ
-- 10/31 22:16 [financialjuice] Iran's Aragchi to Al Jazeera: reopening Strait of Hormuz on Tehran terms would open door for talks with Washington
-- 10/31 22:17 [FirstSquawk] IRAN'S ARAQCHI TO AL JAZEERA SAYS OUR CONDITIONS INCLUDE LIFTING SANCTIONS IMPOSED AFTER ISLAMABAD MOU, REDUCING US FORCES IN REGION; TEHRAN DEMANDS RECOGNITION OF NEW SHIPPING ROUTE AGREED WITH OMAN IN STRAIT OF HORMUZ, CLOSURE OF OTHER
-- 10/31 22:17 [financialjuice] Senegal lawmakers reject budget again, jeopardizing IMF deal
-- 10/31 22:18 [DeItaone] IRAN'S ARAQCHI TO AL JAZEERA: REOPENING STRAIT OF HORMUZ ON TEHRAN'S TERMS WOULD PAVE WAY FOR RESUMPTION OF TALKS WITH WASHINGTON
-- 10/31 22:19 [FirstSquawk] IRAN'S ARAQCHI SAYS REOPENING STRAIT OF HORMUZ ON TEHRAN'S TERMS WOULD PAVE WAY FOR RESUMPTION OF TALKS WITH WASHINGTON
-- 10/31 22:24 [FirstSquawk] SENEGAL LAWMAKERS REJECT BUDGET AGAIN, PUTTING IMF DEAL AT RISK.
-- 10/31 22:37 [financialjuice] Iran's armed forces chief: forces ready to retaliate against US, Israeli enemies beyond geographic limits
-- 10/31 22:38 [financialjuice] Iran's armed forces chief: military compiles new list of US and Israeli targets, assets across expanded region
-- 10/31 22:40 [FirstSquawk] IRAN'S ARMED FORCES CHIEF: FORCES READY TO RESPOND TO US, ISRAELI 'ENEMIES WITH NO GEOGRAPHIC LIMITS'
-- 10/31 22:41 [FirstSquawk] IRAN'S ARMED FORCES CHIEF: MILITARY HAS DRAWN UP NEW LIST OF US AND ISRAELI TARGETS, ASSETS ACROSS WIDER AREA
-- 10/31 23:38 [DeItaone] BINANCE ON HACK - 90% OF STOLEN ASSETS REPLENISHED
-- 10/31 23:39 [DeItaone/FirstSquawk] BINANCE: ALL BTC, ETH, USDT, BNB, SOL, USDC, XRP, USD1, RLUSD, AND ZEC ARE FULLY BACKED 100%
-- 10/31 23:39 [DeItaone] BINANCE ON HACK: WILL ABSORB THE FINANCIAL IMPACT OF THESE STOLEN FUNDS, NOT OUR USERS
-- 10/31 23:39 [DeItaone/FirstSquawk] BINANCE: PARTIAL DEPLOYMENT OF THE SECURE ASSET FUND FOR USERS (SAFU) EXPECTED TO HAPPEN OVER THE NEXT 24 HOURS
-- 10/31 23:40 [DeItaone] BINANCE ON HACK: WE REMAIN ON TRACK TO REOPEN WITHDRAWALS WITHIN OUR PREVIOUSLY STATED TIMEFRAME (ON SUNDAY, 2026-11-01)
-- 10/31 23:43 [FirstSquawk] French Interior Ministry: Around 15,000 the number of demonstrators today in various parts of the country
-- 10/31 23:43 [FirstSquawk] Jordanian Public Security: Seizure of hot air balloons carrying firearms in Karak Governorate, which were smuggled into Jordan
-- 10/31 23:44 [FirstSquawk] Yemeni Government Forces: We carried out 1119 operations in the past hours targeting leaders, gatherings, and reinforcements of the Houthi militia
-- 10/31 23:55 [financialjuice/FirstSquawk] Algeria regrets un's decision not to extend Western Sahara mission mandate: foreign ministry
-- 10/31 23:57 [financialjuice/FirstSquawk] Algeria: UN Security Council draft on Western Sahara favors Morocco, sidelines Polisario Front - Foreign Ministry
-- 11/01 00:03 [FirstSquawk] Iran warns it will retaliate without ‘geographical limitations’ if attacked - FT
-- 11/01 00:03 [FirstSquawk] Investors trim growth bets over fears of US economy’s AI exposure - FT
-- 11/01 00:05 [DeItaone] RUSSIA'S FSB: INFORMATION HAS BEEN RECEIVED FROM US REGARDING PLANS FOR A TERRORIST ATTACK IN MOSCOW
-- 11/01 00:05 [FirstSquawk] Weekend markets update: #DAX 25806 +0.10% #DOW 51821 +0.06% #NASDAQ 28447 +0.16% #FTSE 10721 -0.01% #HANGSENG 23398 +0.02% #EURUSD 11150 -0.08% #GOLD 3885 +0.25% #USOIL 10258 +0.22%
-- 11/01 00:06 [FirstSquawk] Bank of America says buy these stocks ahead of earnings before it's too late - CNBC
-- 11/01 00:06 [FirstSquawk] Binance’s $6.3 billion hack raises questions about crypto wallet safety - CNBC
-- 11/01 00:07 [FirstSquawk] Trump promised to slash energy costs — but gasoline, diesel and jet fuel all soared instead - CNBC
-- 11/01 00:07 [FirstSquawk] Automakers like Rivian and Ford are ‘democratizing 3D printing’ to reduce costs and increase speed - CNBC
-- 11/01 00:18 [financialjuice/FirstSquawk] ❗ Russia's FSB: Information has been received from the US regarding plans for a terrorist attack in Moscow - RIA
-- 11/01 01:01 [financialjuice/FirstSquawk] Turkey’s President Erdogan: discussed navigation safety in Black Sea with Ukraine’s Zelenskiy during meeting
-- 11/01 01:01 [FirstSquawk] "AFP": The US Embassy says it warned Russian authorities of a "threat" of an attack in Moscow
-- 11/01 01:02 [financialjuice/FirstSquawk] Turkey’s President Erdogan: assaults on commercial ships in Black Sea unacceptable regardless of perpetrator
-- 11/01 01:02 [financialjuice/FirstSquawk] Meta builds humanoid prototype with Chinese startup to accelerate robotics drive - The Information
-- 11/01 01:03 [financialjuice/FirstSquawk] Meta and Fourier constructed the roughly 106-pound humanoid known as Max in just three months: The Information
-- 11/01 01:07 [financialjuice/FirstSquawk] Istanbul: Zelenskiy discusses upcoming meeting of US, Ukraine, Russian peace negotiators with Turkey's Erdogan
-- 11/01 01:15 [financialjuice] Turnout for French protests reached 320,000 nationwide, 70,000 in Paris: Interior Ministry
-- 11/01 01:24 [financialjuice] US Secretary of State Rubio: to announce soon a quad leaders summit in Manila next month
-- 11/01 01:28 [financialjuice] US Secretary of State Rubio: G20 foreign ministers agree on importance of food security, critical mineral supply chains and navigation freedom
 - 11/01 01:29 [financialjuice] US Secretary of State Rubio: no known timeframe for Qatar-led talks
 - 11/01 01:30 [financialjuice] US Secretary of State Rubio: US open to diplomatic resolution of Iran conflict
 - 11/01 01:32 [financialjuice] US Secretary of State Rubio: India, Turkey propose plans to resume grain shipments in Black Sea
@@ -95,6 +51,8 @@
 - 11/01 02:05 [DeItaone] IRAN'S NAVY SAYS OIL TANKER CATCHES FIRE IN STRAIT OF HORMUZ AFTER COLLIDING WITH NAVAL MINES - STATE MEDIA
 - 11/01 02:12 [FirstSquawk] Rubio: I spoke with Lavrov about the possibility of holding a meeting between Trump and Putin during the APEC summit next month.
 - 11/01 02:29 [FirstSquawk] BINANCE SAYS ON HACK - 90% OF STOLEN ASSETS REPLENISHED
+- 11/01 02:30 [FirstSquawk] BINANCE - ALL BTC, ETH, USDT, BNB, SOL, USDC, XRP, USD1, RLUSD, AND ZEC ARE FULLY BACKED 100%
+- 11/01 02:30 [FirstSquawk] BINANCE - PARTIAL DEPLOYMENT OF THE SECURE ASSET FUND FOR USERS (SAFU) EXPECTED TO HAPPEN OVER THE NEXT 24 HOURS
 - 11/01 02:31 [FirstSquawk] BINANCE- REPLENIHSMENT EMPLOYED INCLUDES BINANCE'S OWN CORPORATE TREASURY
 - 11/01 02:31 [FirstSquawk] BINANCE - REPLENISHMENT DEPLOYED INCLUDES PORTION OF OUR FUTURES INSURANCE FUND
 - 11/01 02:31 [FirstSquawk] BINANCE - NEXT MILESTONE IN FOCUS IS RESUMING THE WITHDRAWAL SERVICES FOR USERS
@@ -115,3 +73,4 @@
 - 11/01 03:54 [financialjuice] Iran's Rezaei: War must end permanently, no nation should dare attack Iran again
 - 11/01 03:59 [financialjuice] Iran’s Rezaei: Iran’s nuclear rights under non-proliferation treaty must be respected if talks happen in later stages
 - 11/01 04:01 [financialjuice] Iran’s security chief Rezaei: Strait of Hormuz to stay closed until Tehran’s conditions fulfilled
+- 11/01 06:29 [financialjuice] FBI: North Korea was behind the theft of over $6 billion in virtual assets from cryptocurrency exchange Binance

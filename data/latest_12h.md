@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-11-01 04:12 JST／対象: 10/31 16:12 〜 11/01 04:12 JST（時刻はすべて日本時間）
+生成: 2026-11-01 07:29 JST／対象: 10/31 19:29 〜 11/01 07:29 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 22 | 10/31 19:52 | 11/01 03:53 | ⚠ 135分（19:54→22:10） |
-| FirstSquawk | 90 | 10/31 16:46 | 11/01 03:23 | ⚠ 68分（17:01→18:09） |
-| financialjuice | 60 | 10/31 16:45 | 11/01 04:01 | ⚠ 80分（20:00→21:21） |
+| FirstSquawk | 81 | 10/31 19:29 | 11/01 03:23 | ⚠ 61分（22:41→23:43） |
+| financialjuice | 54 | 10/31 19:31 | 11/01 06:29 | ⚠ 147分（04:01→06:29） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 157 行（統合前 172 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 142 行（統合前 157 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/31 16:45 [financialjuice] Manama - Egyptian foreign minister: extremely concerned new escalation round will be more devastating and significantly impactful
-- 10/31 16:46 [FirstSquawk] MANAMA- EGYPTIAN FOREIGN MINISTER SAYS EXTREMELY WORRIED THAT A NEW ROUND OF ESCALATION WILL BE MORE DESTRUCTIVE AND HAVE MAJOR IMPACT
-- 10/31 16:59 [financialjuice] Three planes carrying evacuated residents from Russian-controlled Oleshky in Ukraine reach Belarus, Belta news agency reports
-- 10/31 17:01 [FirstSquawk] THREE PLANES CARRYING EVACUATED RESIDENTS FROM RUSSIAN-CONTROLLED OLESHKY IN UKRAINE ARRIVE IN BELARUS- BELTA NEWS AGENCY REPORTS
-- 10/31 18:07 [financialjuice] Saudi civil defense warns of potential hazard in Najran
-- 10/31 18:09 [FirstSquawk] SAUDI CIVIL DEFENSE: ALERTS OF POTENTIAL DANGER IN NAJRAN
-- 10/31 18:09 [financialjuice] Danger has passed in Najran: Saudi civil defense
-- 10/31 18:12 [FirstSquawk] DANGER HAS PASSED IN NAJRAN SAUDI CIVIL DEFENSE SAYS
-- 10/31 18:27 [financialjuice] Iran semi-official Fars news agency: 'enemy' drone strikes two fishing boats 14 nm south of Geshm Island
-- 10/31 18:27 [financialjuice] Iran's Fars News Agency: two fishermen missing, two injured after drone strike
-- 10/31 18:29 [FirstSquawk] IRAN'S SEMI-OFFICIAL FARS NEWS AGENCY: 'ENEMY' DRONE ATTACKS TWO FISHING BOATS 14 NM SOUTH OF QESHM ISLAND
-- 10/31 18:30 [FirstSquawk] IRAN'S FARS NEWS AGENCY SAYS TWO FISHERMEN MISSING, TWO WOUNDED AFTER DRONE ATTACK
-- 10/31 18:39 [FirstSquawk] US NAVY ATTACKED IRANIAN FISHING BOATS NEAR QESHM- TASNIM
-- 10/31 18:59 [FirstSquawk] IRAN SUPREME LEADER: COMMENTS ON X ON MEETING WITH COMMANDERS
-- 10/31 19:03 [financialjuice] Ukraine's Zelenskiy: Russia struck energy facilities, nearly 280,000 families without power
-- 10/31 19:04 [FirstSquawk] UKRAINE'S ZELENSKIY: RUSSIA ATTACKED UKRAINIAN ENERGY FACILITIES, NEARLY 280,000 UKRAINIAN FAMILIES WITHOUT ELECTRICITY
 - 10/31 19:29 [FirstSquawk] IRAN'S KHAMENEI SAYS COMBAT READINESS NECESSARY FOR MAX. DETERRENCE
 - 10/31 19:31 [financialjuice/DeItaone] Iran's Supreme Leader Mojtaba Khamenei orders immediate, impactful and geographically unrestricted response to any enemy threat: written message
 - 10/31 19:31 [FirstSquawk] KHAMENEI SAYS EVERY THREAT MUST BE MET WITH IMMEDIATE RESPONSE; EVERY THREAT MUST BE MET WITH IMMEDIATE RESPONSE
@@ -181,3 +165,4 @@
 - 11/01 03:54 [financialjuice] Iran's Rezaei: War must end permanently, no nation should dare attack Iran again
 - 11/01 03:59 [financialjuice] Iran’s Rezaei: Iran’s nuclear rights under non-proliferation treaty must be respected if talks happen in later stages
 - 11/01 04:01 [financialjuice] Iran’s security chief Rezaei: Strait of Hormuz to stay closed until Tehran’s conditions fulfilled
+- 11/01 06:29 [financialjuice] FBI: North Korea was behind the theft of over $6 billion in virtual assets from cryptocurrency exchange Binance
