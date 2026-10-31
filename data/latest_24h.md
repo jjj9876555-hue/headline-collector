@@ -7,246 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-31 17:54 JST／対象: 10/30 17:54 〜 10/31 17:54 JST（時刻はすべて日本時間）
+生成: 2026-10-31 23:55 JST／対象: 10/30 23:55 〜 10/31 23:55 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 62 | 10/30 19:55 | 10/31 15:13 | ⚠ 458分（07:34→15:13） |
-| FirstSquawk | 220 | 10/30 17:55 | 10/31 17:01 | ⚠ 183分（06:07→09:11） |
-| financialjuice | 215 | 10/30 17:54 | 10/31 16:59 | ⚠ 247分（10:32→14:40） |
+| DeItaone | 36 | 10/31 00:11 | 10/31 23:40 | ⚠ 458分（07:34→15:13） |
+| FirstSquawk | 185 | 10/31 00:12 | 10/31 23:44 | ⚠ 183分（06:07→09:11） |
+| financialjuice | 136 | 10/31 00:01 | 10/31 22:38 | ⚠ 247分（10:32→14:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 482 行（統合前 504 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 345 行（統合前 360 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/30 17:54 [financialjuice] Japan's Fin. Min. Katayama: Will consider specific amount and how to handle surplus arising from BoJ's ETF sale in budget formulation.
-- 10/30 17:55 [financialjuice] ‼ BREAKING: GERMAN UNEMPLOYMENT CHANGE SA ACTUAL 4K (FORECAST 5K, PREVIOUS 12K) $MACRO
-- 10/30 17:55 [FirstSquawk] JAPAN FINANCE MINISTER KATAYAMA SAYS WILL CONSIDER SPECIFIC AMOUNT AND HOW TO HANDLE SURPLUS ARISING FROM BOJ'S ETF SALE IN BUDGET FORMULATION
-- 10/30 17:55 [financialjuice] ❗ GERMAN UNEMPLOYMENT RATE ACTUAL 6.4% (FORECAST 6.4%, PREVIOUS 6.4%) $MACRO
-- 10/30 17:55 [financialjuice] GERMAN UNEMPLOYMENT TOTAL SA ACTUAL 3.016M (FORECAST -, PREVIOUS 3.012M) $MACRO
-- 10/30 17:55 [financialjuice] GERMAN UNEMPLOYMENT TOTAL NSA ACTUAL 2.955M (FORECAST -, PREVIOUS 2.994M) $MACRO
-- 10/30 17:56 [FirstSquawk] UKRAINE : TO STRIKE RUSSIA'S NOVOKUIBYSHEVSK REFINERY
-- 10/30 18:00 [FirstSquawk] GERMAN GDP (QOQ) (Q3) ACTUAL: 0.2% VS 0.3% PREVIOUS; EST 0.1%
-- 10/30 18:00 [FirstSquawk] GERMAN GDP (YOY) (Q3) ACTUAL: 1.2% VS 1.0% PREVIOUS; EST 1.1%
-- 10/30 18:00 [financialjuice] BAVARIA CPI YOY ACTUAL 2.8% (FORECAST -, PREVIOUS 3.2%) $MACRO
-- 10/30 18:00 [financialjuice] BAVARIA CPI MOM ACTUAL 0.0% (FORECAST -, PREVIOUS 0.6%) $MACRO
-- 10/30 18:00 [financialjuice] ❗ GERMAN GDP YOY NSA FLASH ACTUAL 1.3% (FORECAST 1.2%, PREVIOUS 1.0%) $MACRO
-- 10/30 18:00 [financialjuice] GERMAN GDP YOY SA FLASH ACTUAL 1.2% (FORECAST 1.1%, PREVIOUS 1.0%) $MACRO
-- 10/30 18:00 [financialjuice] ‼ BREAKING: GERMAN GDP QOQ FLASH ACTUAL 0.2% (FORECAST 0.1%, PREVIOUS 0.3%) $MACRO
-- 10/30 18:01 [financialjuice] ITALIAN GDP PRELIM QOQ ACTUAL 0% (FORECAST 0.1%, PREVIOUS 0.2%) $MACRO
-- 10/30 18:01 [financialjuice] ITALIAN GDP PRELIM YOY ACTUAL 0.8% (FORECAST -, PREVIOUS 1.0%) $MACRO
-- 10/30 18:01 [financialjuice] SPANISH CURRENT ACCOUNT BALANCE ACTUAL 5.05B (FORECAST -, PREVIOUS 5.91B) $MACRO
-- 10/30 18:04 [financialjuice] NORTH-RHINE CPI YOY ACTUAL 2.7% (FORECAST -, PREVIOUS 3.3%) $MACRO
-- 10/30 18:04 [FirstSquawk] ITALY PRELIM: 3Q GDP UNCHANGED Q/Q; EST. +0.1%
-- 10/30 18:06 [FirstSquawk] PBOC: SETS OVERNIGHT REVERSE REPO RATE AT 1.25%
-- 10/30 18:06 [financialjuice] NORTH RHINE CPI MOM ACTUAL -0.2% (FORECAST -, PREVIOUS 0.6%) $MACRO
-- 10/30 18:08 [FirstSquawk] PBOC: OPEN MARKET OPERATIONS ADJUSTMENTS TO TAKE EFFECT NOV. 2
-- 10/30 18:11 [FirstSquawk] EU CARBON RISES TO €90/TON FOR FIRST TIME SINCE JAN.
-- 10/30 18:28 [financialjuice] US crude oil expected to average $86.60 per barrel in 2026 versus $83.90 forecast in September - Poll
-- 10/30 18:28 [financialjuice] Brent crude oil expected to average $92.88 per barrel in 2026 versus $89.05 forecast in September - Poll.
-- 10/30 18:31 [financialjuice] UK October decision maker year-ahead CPI expectations 3.4%.
-- 10/30 18:31 [FirstSquawk] QATARI DELEGATION ARRIVED FRIDAY IN TEHRAN FOR TALKS- IRNA
-- 10/30 18:32 [FirstSquawk] QATARI MEETINGS FOCUSED ON REGIONAL DEVELOPMENTS, TIES- IRNA
-- 10/30 18:34 [FirstSquawk] DELEGATION HEADED BY SENIOR ADVISER TO QATARI PM- IRNA
-- 10/30 18:37 [financialjuice] ECB's Nagel: No significant 2nd-round effects observed so far.
-- 10/30 18:38 [financialjuice] ECB's Nagel: Can't rule out that prices will rise in coming weeks.
-- 10/30 18:38 [financialjuice] ECB's Nagel: Mid-term price expectations must stay firmly anchored.
-- 10/30 18:44 [FirstSquawk] NAGEL SAYS ECB WILL `ACT DECISIVELY' IF NECESSARY
-- 10/30 18:49 [FirstSquawk] BOE SURVEY SAYS NO EVIDENCE OF INFLATION-PREMIUM IN PAY AWARDS; NO EVIDENCE OF INFLATION-PREMIUM IN PAY AWARDS
-- 10/30 18:50 [FirstSquawk] BOE SURVEY SAYS LIMITED PASS-THROUGH OF COST PRESSURES TO PRICES
-- 10/30 18:56 [FirstSquawk] UKRAINE’S PM: FIGURE OF 527 RESIDENTS PLANNING TO EVACUATE FROM OLESHKY IS NOT FINAL
-- 10/30 19:00 [financialjuice] ❗ EUROZONE UNEMPLOYMENT RATE ACTUAL 6.5% (FORECAST 6.4%, PREVIOUS 6.4%) $MACRO
-- 10/30 19:00 [financialjuice] ❗ EUROZONE GDP YOY PRELIM FLASH ACTUAL 1.3% (FORECAST 1.1%, PREVIOUS 1.2%) $MACRO
-- 10/30 19:00 [financialjuice] ‼ BREAKING: EUROZONE GDP QOQ PRELIM FLASH ACTUAL 0.4% (FORECAST 0.2%, PREVIOUS 0.6%) $MACRO
-- 10/30 19:01 [financialjuice] ITALIAN HICP PRELIM MOM ACTUAL 1.2% (FORECAST 0.4%, PREVIOUS 2.1%) $MACRO
-- 10/30 19:01 [financialjuice] ITALIAN CPI MOM PRELIM ACTUAL 0.9% (FORECAST 0.1%, PREVIOUS 0.7%) $MACRO
-- 10/30 19:01 [financialjuice] ITALIAN HICP PRELIM YOY ACTUAL 5.6% (FORECAST 4.6%, PREVIOUS 4.2%) $MACRO
-- 10/30 19:01 [financialjuice] ITALIAN CPI YOY PRELIM ACTUAL 5.4% (FORECAST 4.6%, PREVIOUS 4.2%) $MACRO
-- 10/30 19:02 [FirstSquawk] EURO AREA 3Q GDP RISES 0.4% QOQ ; EST. +0.2%
-- 10/30 19:04 [FirstSquawk] ITALY PRELIM OCTOBER HARMONIZED CPI RISES 5.6% Y/Y; EST. +4.6%
-- 10/30 19:13 [financialjuice] Apple removed from BofA US 1 list.
-- 10/30 19:15 [FirstSquawk] SOFTBANK-BACKED OPAY PRICES AT $4B VALUE FOR N.Y. IPO
-- 10/30 19:16 [financialjuice] $CVX Chevron Q3 Earnings Adj. EPS $5.28, est. $4.93 Rev. & other income $67.80B, est. $62.55B Downstream earnings $4.93B, est. $4.49B Upstream earnings $5.70B, est. $6.19B Adj. cash flow from ops $16.6B Cash flow from ops $16B, est. $15.08B…
-- 10/30 19:17 [FirstSquawk] CHEVRON: 3Q ADJ EPS $5.28, EST. $4.93
-- 10/30 19:17 [financialjuice] ECB's Panetta: Outlook for prices is worsening, inflation seen above 2% for several quarters.
-- 10/30 19:17 [financialjuice] ECB's Panetta: Further increases in policy rates could prove necessary.
-- 10/30 19:18 [financialjuice] ECB's Panetta: Increase in core inflation could become more pronounced early next year.
-- 10/30 19:18 [financialjuice] ECB's Panetta: Rise in long-term yields must be considered when gradually calibrating monetary policy.
-- 10/30 19:18 [financialjuice] ECB's Panetta: ECB can adjust stance promptly if international situation improves or financial tensions act as brake on inflation.
-- 10/30 19:20 [FirstSquawk] Chevron Q3 2026 Earnings - Adjusted EPS: $5.28 (est $4.93) - Natural Gas Production: 9,085 MMCFE/D (est 8,840) - Revenue & Other Income: $67.80B (est $62.55B) - Cash Flow From Operations: $16B (est $15.08B) - Upstream Earnings: $5.70B (est …
-- 10/30 19:36 [FirstSquawk] ExxonMobil Q3 2026 Earnings - Adj EPS: $4.23 (est $4.13) - Production: 4,496 KOEBD (est 4,440) - Total Rev And Other Income: $113.16B (est $105.36B) - Boosts Quarterly Dividend To $1.07/Share From $1.03 (est $1.07) - Still Sees FY Net Cash …
-- 10/30 19:41 [financialjuice] IRGC Navy: Two oil tankers that switched off navigation systems were involved in incident, stopped south of Strait of Hormuz after ignoring radio warnings - Iranian Media.
-- 10/30 19:50 [FirstSquawk] IRGC NAVY SAYS TWO OIL TANKERS THAT SWITCHED OFF NAVIGATION SYSTEMS WERE INVOLVED IN INCIDENT, STOPPED SOUTH OF STRAIT OF HORMUZ AFTER IGNORING RADIO WARNINGS - IRANIAN MEDIA
-- 10/30 19:55 [DeItaone] BINANCE IS WORKING WITH FBI AND US SECRET SERVICE AFTER $6.3 BILLION CRYPTO HEIST, SOURCE SAYS
-- 10/30 20:00 [FirstSquawk] Colgate-Palmolive Q3 2026 Earnings - Sales: $5,369M (est $5,334M) - Adjusted EPS: $0.97 (est $0.93) - Sees FY Net Sales Growth: 4% To 5% - Sees FY2026 Base Business Gross Profit Margin: Up - Sees FY2026 Base Business EPS Growth: 5% To 7%
-- 10/30 20:00 [financialjuice] ECB's Kocher: Risks to inflation have increased.
-- 10/30 20:01 [financialjuice] ECB's Kocher: “Need for action" if situation doesn't quickly improve.
-- 10/30 20:01 [FirstSquawk] General Dynamics Q3 2026 Earnings - Revenue: $14.57B (est $13.71B) - Operating Margin: 10.5% (est 10.4%) - EPS: $4.49 (est $4.13)
-- 10/30 20:04 [DeItaone] BINANCE SETS ASIDE $6.34 BILLION TO COVER INCIDENT Binance says it has reserved more than $6.34 billion in company funds to cover an incident affecting user assets. The exchange also reported $5 billion already held in impacted token assets…
-- 10/30 20:04 [FirstSquawk] ECB'S: KOCHER SAYS RISKS TO INFLATION HAVE INCREASED.
-- 10/30 20:06 [FirstSquawk] ECB'S KOCHER SAYS “NEED FOR ACTION" IF SITUATION DOESN'T QUICKLY IMPROVE.
-- 10/30 20:07 [FirstSquawk] ECB'S KOCHER SAYS INFLATION RISKS HAVE CLEARLY INCREASED, BUT NEITHER ACTING PREMATURELY NOR WAITING IDLY WILL ENSURE PRICE STABILITY.
-- 10/30 20:10 [FirstSquawk] QATARI MEDIATORS IN TEHRAN TO DISCUSS LATEST US PEACE TALKS PROPOSAL - AXIOS
-- 10/30 20:17 [financialjuice] Xi says China regards EU as a partner- CCTV
-- 10/30 20:18 [FirstSquawk] CHINA'S XI SAYS AS LONG AS CHINA, EU UPHOLD PARTNERSHIP POSITIONING AND EQUAL DIALOGUE, DIFFERENCES AND PROBLEMS CAN ALWAYS BE RESOLVED
-- 10/30 20:23 [FirstSquawk] CHINA'S XI, TO SWISS PRESIDENT SAYS HOPES SWITZERLAND TO PLAY ACTIVE ROLE IN PROMOTING BALANCED, STABLE, UPWARD DEVELOPMENT OF CHINA-EUROPE TRADE - STATE TV
-- 10/30 20:38 [financialjuice] Trump: Iran war will end very soon, one way or another.
-- 10/30 20:40 [financialjuice] ECB’s Makhlouf: Holding rates doesn't signal ecb is finished.
-- 10/30 20:40 [financialjuice] CENTCOM: Reached milestone this week helping Gulf export oil.
-- 10/30 20:41 [financialjuice] ECB’s Makhlouf: Current inflation situation is uncomfortable.
-- 10/30 20:42 [DeItaone] TRUMP ON IRAN WAR: IT'S GOING TO GET WRAPPED UP SOON -KCMO RADIO INTERVIEW
-- 10/30 20:42 [financialjuice] Trump: Iran has to make a deal.
-- 10/30 20:42 [DeItaone/financialjuice] TRUMP ON IRAN: WE NEED A GUARANTEE THERE WILL NEVER BE A NUCLEAR WEAPON
-- 10/30 20:43 [FirstSquawk] TRUMP SAYS DON'T KNOW WHO TO TALK WITH, A LOT OF IRAN LEADERS GONE; IRAN HAS TO MAKE A DEAL
-- 10/30 20:43 [financialjuice] Trump briefed Thursday on potential military options in Iran - Fox
-- 10/30 20:44 [FirstSquawk/DeItaone] TRUMP BRIEFED THURS. ON POTENTIAL MILITARY OPTIONS IN IRAN- FOX
-- 10/30 20:44 [DeItaone] IRAN NAVY SAYS IT DESTROYED US UNMANNED VESSEL IN EASTERN STRAIT OF HORMUZ - STATE MEDIA; NO US CONFIRMATION
-- 10/30 20:44 [financialjuice] Iran Navy: Destroyed US unmanned vessel in Eastern Strait of Hormuz - State Media; no US confirmation.
-- 10/30 20:45 [FirstSquawk] IRAN NAVY: IT DESTROYED US UNMANNED VESSEL IN EASTERN STRAIT OF HORMUZ - STATE MEDIA; NO US CONFIRMATION
-- 10/30 20:47 [financialjuice] $ABBV AbbVie Q3 Earnings Adj. EPS $3.82, est. $3.74 Net rev. $17.40B, est. $17.34B Skyrizi rev. $5.78B, est. $5.74B Rinvoq rev. $2.71B, est. $2.70B Humira rev. $683M, est. $679.3M Imbruvica rev. $522M, est. $527.3M Sees FY Adj. EPS $13.95 t…
-- 10/30 20:48 [FirstSquawk] AbbVie Q3 2026 Earnings - Q3 Adj EPS: $3.82 (est $3.74) - Humira Rev: $683M (est $679.3M) - Skyrizi Rev: $5.78B (est $5.74B) - Net Rev: $17.40B (est $17.34B) - Imbruvica Rev: $522M (est $527.3M) - Rinvoq Rev: $2.71B (est $2.7B) - Sees FY Ad…
-- 10/30 20:51 [FirstSquawk] TRUMP ON IRAN WAR- IT'S GOING TO GET WRAPPED UP SOON -KCMO RADIO INTERVIEW; WE NEED A GUARANTEE THERE WILL NEVER BE A NUCLEAR WEAPON
-- 10/30 20:53 [DeItaone] *TRUMP: DON'T KNOW WHO TO TALK WITH, A LOT OF IRAN LEADERS GONE *TRUMP: IRAN HAS TO MAKE A DEAL
-- 10/30 20:57 [DeItaone] 📉 PRICE TARGET CUT $COIN: PT cut to $174 from $183 by Jefferies $COIN: PT cut to $145 by Mizuho (prior target not provided) $COIN: PT cut to $120 from $149 by Barclays $COIN: PT cut to $174 from $200 by Wells Fargo $COIN: PT cut to $275 fro…
-- 10/30 20:59 [DeItaone] BINANCE HIT BY RECORD $6.3 BILLION CRYPTO HACK Binance reportedly lost $6.3 billion after hackers compromised an engineer's laptop and drained funds in roughly 20 minutes. Investigators linked the attack to North Korea's TraderTraitor hacki…
-- 10/30 21:00 [financialjuice] Secured Overnight Financing Rate 3.94% October 29 vs 3.94% October 28
-- 10/30 21:01 [FirstSquawk] MEXICO PRELIM: 3Q GDP RISES 3.2% Y/Y; EST. +3.0%
-- 10/30 21:02 [financialjuice] Kremlin: Ukraine is ignoring Trump's request to stop attacks on Russian refineries.
-- 10/30 21:02 [FirstSquawk] KREMLIN SAYS UKRAINE IS IGNORING TRUMP'S REQUEST TO STOP ATTACKS ON RUSSIAN REFINERIES
-- 10/30 21:03 [DeItaone] https://t.co/IBSnpaQtXs
-- 10/30 21:04 [DeItaone] QATARI MEDIATORS IN IRAN AS US PEACE TALKS SHOW SIGNS OF PROGRESS Qatari mediators arrived in Tehran on Friday to present revised terms of a proposal aimed at ending the US-Iran conflict, according to CBS News. A source familiar with the ne…
-- 10/30 21:11 [financialjuice] Morning Juice – US Session Prep (30th October)
-- 10/30 21:14 [DeItaone] SPOT SILVER DROPS BELOW $50/OZ LEVEL FOR THE FIRST TIME SINCE NOVEMBER 2025
-- 10/30 21:15 [financialjuice] Exxon CEO: Hormuz crude getting back close to pre-war levels.
-- 10/30 21:16 [FirstSquawk] OMAN: IT EVACUATED 25 PEOPLE FROM RITI VESSEL AFTER ATTACK
-- 10/30 21:16 [financialjuice/FirstSquawk] Exxon CEO: Diesel is key ‘crunch point’.
-- 10/30 21:19 [DeItaone] EXXONMOBIL CEO DARREN WOODS: DIESEL IS THE KEY CRUNCH POINT; DEMAND FOR DIESEL REMAINS HIGH DESPITE THE CAPACITY - CNBC INTERVIEW
-- 10/30 21:19 [FirstSquawk] OMAN'S NAVY: EVACUATES 25 CREW FROM VESSEL AFTER BEING STRUCK 1.6 NM OFF OF OMAN'S MUSANDAM - STATEMENT
-- 10/30 21:23 [financialjuice] IRIB News: A super tanker exploded an hour ago after hitting a sea mine on the unauthorized route of the Strait of Hormuz.
-- 10/30 21:24 [FirstSquawk/DeItaone] IRAN CLAIMS OIL SUPERTANKER HIT MINE FRIDAY IN HOMRUZ - FARS
-- 10/30 21:26 [financialjuice] Exxon CEO: Reason energy prices high today is not enough supply.
-- 10/30 21:27 [FirstSquawk] IRAN’S IRGC: IT WAS THIRD OIL TANKER TO HIT MINE FRIDAY
-- 10/30 21:27 [financialjuice] IRIB News: A super tanker with more than 2 million barrels of oil was abandoned in the mouth of the Strait of Hormuz and is burning.
-- 10/30 21:30 [DeItaone] U.S. Q3 EMPLOYMENT COST INDEX +0.8% (CONSENSUS +0.8%) VS Q2 +0.9% (PREV +0.9%) U.S. Q3 WAGES/SALARIES +0.7% VS Q2 +0.9% (PREV +0.9%) U.S. Q3 BENEFIT COSTS +0.9% VS Q2 +1.0% (PREV +1.0%)
-- 10/30 21:30 [financialjuice] ❗ CANADIAN GDP MOM ACTUAL 0% (FORECAST 0.2%, PREVIOUS 0.0%) $MACRO
-- 10/30 21:30 [financialjuice] US EMPLOYMENT COSTS ACTUAL 0.8% (FORECAST 0.8%, PREVIOUS 0.9%) $MACRO
-- 10/30 21:30 [DeItaone] CANADA AUGUST GDP -0.0% VS JULY 0.0% (REVISED FROM -0.0%); FORECAST WAS +0.2% CANADA SEPTEMBER GDP MOST LIKELY DOWN 0.1% - STATSCAN FLASH ESTIMATE
-- 10/30 21:31 [FirstSquawk] US 3Q EMPLOYMENT COST INDEX RISES 0.8% QOQ; EST. +0.8%
-- 10/30 21:32 [financialjuice] US Employment Cost Index Q3 Report
-- 10/30 21:32 [FirstSquawk] RUSSIA'S NOVAK: UKRAINE ATTACKED RUSSIAN REFINERY OVERNIGHT
-- 10/30 21:32 [financialjuice] Russia’s Deputy PM Novak: Ukraine attacked Russian refinery overnight.
-- 10/30 21:33 [DeItaone] RUSSIA'S NOVAK SAYS UKRAINE ATTACKED RUSSIAN REFINERY OVERNIGHT
-- 10/30 21:34 [FirstSquawk] ECB: HAS REQUESTED EU LEADERS START SEARCH FOR LANE SUCCESSOR
-- 10/30 21:35 [DeItaone] RUSSIA'S NOVAK SAYS UKRAINIAN ATTACKS HAVE RESUMED AFTER A PAUSE WHICH LASTED FOR SOME TIME
-- 10/30 21:36 [FirstSquawk] RUSSIA'S NOVAK: THERE WAS ATTACK TODAY ON THREE RUSSIAN OIL REFINERIES AND ONE CHEMICAL PLANT, THERE IS MINOR DAMAGE AT ONE OF THE PLANTS
-- 10/30 21:36 [FirstSquawk] RUSSIA'S NOVAK: UKRAINIAN ATTACKS HAVE RESUMED AFTER A PAUSE WHICH LASTED FOR SOME TIME
-- 10/30 21:36 [DeItaone/financialjuice] RUSSIA PLANS TO EXTEND BAN ON DIESEL EXPORTS, WITH CERTAIN EXCEPTIONS, UNTIL THE END OF JANUARY - IFX
-- 10/30 21:37 [financialjuice] Russia plans to export 2.15m tons of diesel in November - Tass
-- 10/30 21:37 [DeItaone] US TREASURY YIELDS MOSTLY HOLD LOSSES AFTER US ECONOMIC DATA; YIELD ON 10-YEAR TREASURY NOTE LAST DOWN 6.22 BASIS POINTS AT 4.927% TWO-YEAR US TREASURY YIELDS LAST DOWN 7.05 BASIS POINTS AT 4.586%
-- 10/30 21:38 [DeItaone] RUSSIA PLANS TO EXPORT 510,000 TONS OF DIESEL IN OCTOBER AND 2.15 MILLION TONS IN NOVEMBER - TASS CITES NOVAK
-- 10/30 22:00 [FirstSquawk] GERMAN CPI (MOM) (OCT) ACTUAL: -0.2% VS 0.6% PREVIOUS; EST 0.1%
-- 10/30 22:00 [financialjuice] ❗ GERMAN HICP YOY PRELIM ACTUAL 2.8% (FORECAST 3.1%, PREVIOUS 3.30%) $MACRO
-- 10/30 22:00 [financialjuice] ❗ GERMAN CPI YOY PRELIM ACTUAL 2.8% (FORECAST 3%, PREVIOUS 3.30%) $MACRO
-- 10/30 22:00 [financialjuice] GERMAN CPI MOM PRELIM ACTUAL -0.2% (FORECAST 0.1%, PREVIOUS 0.60%) $MACRO
-- 10/30 22:02 [DeItaone] GERMAN INFLATION FALLS BELOW EXPECTATIONS IN OCTOBER Germany's preliminary October CPI rose 2.8% year over year, below the 3.0% forecast. Inflation declined 0.2% month over month, compared with expectations for a 0.1% increase. Harmonized C…
-- 10/30 22:02 [FirstSquawk] GERMANY PRELIM OCTOBER HARMONIZED CPI RISES 2.8% Y/Y; EST. +3.1%
-- 10/30 22:03 [financialjuice] German CPI October Report
-- 10/30 22:05 [FirstSquawk] KREMLIN SAYS REFINERY STRIKES WON'T DERAIL UKRAINE TALKS: IFX
-- 10/30 22:07 [DeItaone] RUSSIA: KREMLIN: REFINERY STRIKES WON'T DERAIL UKRAINE TALKS: IFX
-- 10/30 22:08 [DeItaone] SPOT GOLD FALLS 2% TO $3,939.65/OZ, ITS LOWEST SINCE NOVEMBER 2025
-- 10/30 22:09 [DeItaone/FirstSquawk] SPOT SILVER EXTENDS LOSSES, DOWN 5.3% TO $49.63/OZ
-- 10/30 22:09 [financialjuice] Kremlin: Ukrainian attacks on oil refineries do not cast doubt on upcoming negotiations on Ukraine - IFX.
-- 10/30 22:10 [FirstSquawk] SPOT GOLD XAU- FALLS 2% TO $3,939.65/OZ, ITS LOWEST SINCE NOVEMBER 2025
-- 10/30 22:12 [FirstSquawk] SAUDI ARABIA: ISSUES ALERT OF POTENTIAL DANGER IN JAZAN
-- 10/30 22:19 [FirstSquawk] SAUDI CIVIL DEFENSE: DANGER HAS PASSED IN JAZAN PROVINCE
-- 10/30 22:20 [DeItaone] KREMLIN SAYS THERE ARE NO DIFFICULTIES IN AGREEING ON DATE FOR TRILATERAL NEGOTIATIONS ON UKRAINE - RIA
-- 10/30 22:20 [financialjuice] Kremlin: There are no difficulties in agreeing on a date for trilateral negotiations on Ukraine - Ria.
-- 10/30 22:22 [FirstSquawk] KREMLIN: THERE ARE NO DIFFICULTIES IN AGREEING ON DATE FOR TRILATERAL NEGOTIATIONS ON UKRAINE - RIA
-- 10/30 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: 124.5 MLN NASDAQ 100: 5.8 MLN DOW 30: 2.8 MLN MAG 7: -1.1 MLN $MACRO
-- 10/30 22:32 [FirstSquawk] S&P 500 DOWN 88.66 POINTS, OR 1.15 PERCENT, AT 7,631.73 AFTER MARKET OPEN
-- 10/30 22:32 [FirstSquawk] NASDAQ DOWN 579.80 POINTS, OR 2.21 PERCENT, AT 25,604.92 AFTER MARKET OPEN
-- 10/30 22:33 [FirstSquawk] DOW JONES DOWN 144.95 POINTS, OR 0.28 PERCENT, AT 52,197.61 AFTER MARKET OPEN
-- 10/30 22:34 [FirstSquawk] INTEL SHARES PLUNGE 26% IN BIGGEST ONE-DAY DECLINE SINCE 2024
-- 10/30 22:34 [financialjuice] Fed's Barkin: The Fed has signaled a gradual approach.
-- 10/30 22:34 [DeItaone] NASDAQ COMPOSITE FALLS TO NEAR THREE-MONTH LOWS, DOWN 2.4%
-- 10/30 22:34 [financialjuice] Fed's Barkin: We'll see what we learn over the next period.
-- 10/30 22:35 [financialjuice] Fed's Barkin: The direction of travel is "straightforward" for the Fed, the question is pace - SiriusXM Business Briefing.
-- 10/30 22:35 [financialjuice] Fed's Barkin: A lot of cost pressures are hitting US businesses.
-- 10/30 22:35 [FirstSquawk] BARKIN SAYS WE'LL SEE WHAT WE LEARN OVER THE NEXT PERIOD; HORIZONS SHARES HALTED FOR VOLATILITY AFTER FALLING 20%
-- 10/30 22:36 [financialjuice] Fed's Barkin: In the context of years of elevated inflation, it is easier for businesses to argue they need to raise prices.
-- 10/30 22:37 [DeItaone] CRYPTO STOCKS SLIDE AS BINANCE FREEZES ASSETS AFTER $6.3 BILLION HEIST $COIN - COINBASE GLOBAL DOWN 12.4% $MSTR - STRATEGY DOWN 11.9%
-- 10/30 22:37 [DeItaone] $INTC - INTEL SHARES PLUNGE 29%, SET FOR SHARPEST ONE-DAY PERCENTAGE DROP ON RECORD
-- 10/30 22:37 [financialjuice] Fed's Barkin: The resilience of consumer spending has been a surprise, given the relatively flat incomes.
-- 10/30 22:38 [FirstSquawk] BARKIN SAYS ON FIGHTING INFLATION, QUESTION IS THE PACE; A LOT OF COST PRESSURES ARE HITTING US BUSINESSES
-- 10/30 22:38 [FirstSquawk] BARKIN SAYS WE'LL SEE WHAT WE LEARN OVER THE NEXT PERIOD
-- 10/30 22:39 [financialjuice] Barkin: The AI investment surge has pressured supply chains, and that is inflationary.
-- 10/30 22:39 [FirstSquawk] INTEL SHARES PLUNGE 29%, SET FOR SHARPEST ONE-DAY PERCENTAGE DROP ON RECORD
-- 10/30 22:39 [financialjuice] Fed's Barkin: AI investment is leading to demand side inflation, which is the kind of thing the fed can lean against.
-- 10/30 22:39 [FirstSquawk] BARKIN SAYS FED HAS SIGNALED A 'GRADUAL APPROACH'; ON FIGHTING INFLATION, QUESTION IS THE PACE
-- 10/30 22:42 [FirstSquawk] BARKIN SAYS A LOT OF COST PRESSURES ARE HITTING US BUSINESSES
-- 10/30 22:43 [financialjuice] ❗ BofA global research cuts intel to neutral from buy; cuts price objective to $100 from $145. $INTC
-- 10/30 22:43 [financialjuice] Fed's Barkin: Business owners say demand remains solid, with only weakness among non-profits and in the housing sector
-- 10/30 22:43 [financialjuice] Fed's Barkin: Businesses say that cost pressures are broad based.
-- 10/30 22:43 [FirstSquawk] BARKIN SAYS IN THE CONTEXT OF YEARS OF ELEVATED INFLATION IT IS EASIER FOR BUSINESSES TO ARGUE THEY NEED TO RAISE PRICES; RESILIENCE OF CONSUMER SPENDING HAS BEEN A SURPRISE GIVEN RELATIVELY FLAT INCOMES
-- 10/30 22:44 [financialjuice] Fed's Barkin: I hear from businesses on plans to pass along price rises
-- 10/30 22:44 [FirstSquawk] BARKIN SAYS THE AI INVESTMENT SURGE HAS PRESSURED SUPPLY CHAINS, AND THAT IS INFLATIONARY; AI INVESTMENT IS LEADING TO DEMAND SIDE INFLATION, WHICH IS THE KIND OF THING THE FED CAN LEAN AGAINST
-- 10/30 22:45 [financialjuice] Fed's Barkin appearance on “business briefing’ ends.
-- 10/30 22:45 [financialjuice] US CHICAGO PMI ACTUAL 55.3 (FORECAST 56, PREVIOUS 58.8) $MACRO
-- 10/30 22:45 [FirstSquawk] US MNI CHICAGO PMI OCT: 55.3 (EST 56.0; PREV 58.8)
-- 10/30 22:45 [DeItaone] MNI OCT CHICAGO BUSINESS BAROMETER 55.3 VS SEP 58.8
-- 10/30 22:46 [FirstSquawk] BARKIN SAYS BUSINESS OWNERS SAY DEMAND REMAINS SOLID, WITH ONLY WEAKNESS AMONG NON-PROFITS AND IN THE HOUSING SECTOR; BUSINESSES SAY THAT COST PRESSURES ARE BROAD BASED; BUSINESSES ARE LAYING PLANS TO PASS THOSE COSTS ON TO THEIR CUSTOMERS
-- 10/30 22:49 [FirstSquawk] TRUMP TO NOW HOLD RALLIES IN IOWA AND KANSAS SUNDAY - CNN
-- 10/30 22:50 [financialjuice] Chevron CEO Wirth: Sees elevated prices for both crude oil and for refined products around the world - CNBC.
-- 10/30 22:53 [FirstSquawk] TRUMP RALLIES WERE REARRANGED TO ACCOMMODATE TELE-RALLIES- CNN
-- 10/30 22:59 [financialjuice] Strike notice at French utility EDF to start Wednesday at 2100 CET and finish Thursday at 2100 CET
-- 10/30 23:00 [FirstSquawk] CHINA: SWITZERLAND TO FURTHER OPEN FOOD MARKET TO IT
-- 10/30 23:01 [financialjuice] China Commerce Ministry, on US FCC China lab testing ban: Strongly dissatisfied with, firmly opposes fcc vote on testing lab restrictions
-- 10/30 23:02 [financialjuice] China commerce ministry: FCC action breaches key consensus reached by two heads of state - statement
-- 10/30 23:02 [financialjuice] China commerce ministry: Beijing had repeatedly suggested talks on bilateral mutual recognition pact, US stance ‘extremely negative’
-- 10/30 23:02 [financialjuice] China commerce ministry: if US continues, China will implement additional necessary countermeasures
-- 10/30 23:03 [FirstSquawk] CHINA COMMERCE MINISTRY SAYS ON US FCC CHINA LAB TESTING BAN: STRONGLY DISSATISFIED WITH, FIRMLY OPPOSES FCC VOTE ON TESTING LAB RESTRICTIONS
-- 10/30 23:04 [FirstSquawk] CHINA COMMERCE MINISTRY SAYS FCC MEASURES SERIOUSLY DISRUPT GLOBAL SUPPLY CHAIN STABILITY
-- 10/30 23:09 [DeItaone] CYBERSECURITY EXPERTS WARN AI COULD FUEL MORE BINANCE-SCALE HACKS Cybersecurity experts warn that AI is making large-scale cyberattacks faster, more sophisticated and increasingly common. Stefan Deiss of The Hashgraph Group says AI allows h…
-- 10/30 23:10 [DeItaone] BITCOIN BREAKS BELOW $80,000 SUPPORT AFTER BINANCE HACK Bitcoin fell 2.1% to $77,182, hitting a six-week low of $76,368 overnight following the reported Binance hack. Trade Nation analyst David Morrison says Bitcoin has broken below the $80…
-- 10/30 23:12 [financialjuice] Exxon estimates half of Russia's refining capacity is offline.
-- 10/30 23:13 [DeItaone] FBI ON BINANCE HACK: AWARE OF INCIDENT; ENGAGED WITH RELEVANT PARTNERS TO UNDERSTAND SCOPE OF ACTIVITY AND EVALUATE POTENTIAL IMPACTS
-- 10/30 23:13 [financialjuice] Exxon CEO expects global refining capacity could begin to recover next year but may take longer.
-- 10/30 23:15 [financialjuice] ❗ Major banks raise 2026 oil price forecast, WSJ survey finds
-- 10/30 23:15 [DeItaone] FBI ON BINANCE HACK: IS ENGAGED WITH RELEVANT PUBLIC AND PRIVATE PARTNERS TO COORDINATE APPROPRIATE INVESTIGATIVE STEPS
-- 10/30 23:15 [financialjuice] Major banks raise 1Q27 Brent price forecast, WSJ survey finds
-- 10/30 23:16 [DeItaone] MAJOR BANKS RAISE OIL PRICE FORECASTS FOR 2026 AND 2027 Major banks have raised their oil price forecasts, according to a Wall Street Journal survey. 2026 Forecasts: 🔸 Brent: $90.40/bbl, up from $88.13 🔸 WTI: $84.38/bbl, up from $82.98 Q4 2…
-- 10/30 23:17 [financialjuice] Crypto Fear & Greed Index: 30/100 - Fear
-- 10/30 23:18 [financialjuice] Fear & Greed Index: 29/100 - Fear
-- 10/30 23:19 [DeItaone] $INTC - INTEL 5-YEAR CREDIT DEFAULT SWAP WIDENS TO RECORD HIGH OF 123.5 BPS, ON TRACK FOR BIGGEST ONE-DAY MOVE SINCE OCTOBER 2022 - MARKIT DATA
-- 10/30 23:19 [financialjuice] Axios' Ravid: Multiple US officials say focus of yesterday's meeting wasn't strikes; more than 20 attended, blockade and economic pressure discussed at length; strikes could still happen immediately after the midterms
-- 10/30 23:22 [DeItaone] US DISCUSSES IRAN BLOCKADE AS POST-ELECTION STRIKES REMAIN POSSIBLE US officials say yesterday's high-level meeting focused on economic pressure against Iran rather than military strikes, according to Axios reporter Barak Ravid. 🔸 More than…
-- 10/30 23:27 [financialjuice] China to expand cooperation with Germany in vehicles, AI
-- 10/30 23:29 [DeItaone] DEUTSCHE BANK WARNS AI SELLOFF COULD WEAKEN US DOLLAR Deutsche Bank warns the US dollar may lose its traditional safe-haven status during an AI-driven stock market correction. Foreign investors hold over $20 trillion in US equities, with ro…
-- 10/30 23:31 [DeItaone] SPOT GOLD EXTENDS LOSSES, DOWN 3% TO $3,908.13/OZ
-- 10/30 23:34 [financialjuice] Exxon: UAE production has returned to levels consistent with historical output.
-- 10/30 23:36 [financialjuice] UAE oil leak from tanker gem no. 2 under control - WAM
-- 10/30 23:36 [FirstSquawk] EXXONMOBIL CEO: UAE PRODUCTION RETURNED TO LEVELS CONSISTENT WITH HISTORICAL OUTPUT; UAE PRODUCTION IS BEING BOOKED, BUT SALES REALIZATION IS DELAYED BY CONSTRAINTS; WORKING WITH UAE TO GET BARRELS OUT OF THE GULF
-- 10/30 23:37 [DeItaone] BINANCE'S TENG ON HACK: ATTACKER ALSO USED A SELF-DESTRUCT MECHANISM THAT DESTROYED TOOLING AND TRACES AS THEY WENT BINANCE'S TENG: WE ARE REBUILDING THE WITHDRAWAL SERVICE, AND WE ARE NOT SWITCHING IT BACK ON UNTIL IT PASSES RIGOROUS TESTI…
-- 10/30 23:37 [financialjuice] Binance's Teng: We are rebuilding the withdrawal service, and we are not switching it back on until it passes rigorous testing.
-- 10/30 23:38 [DeItaone] BINANCE'S TENG: WE ARE SHARING A FULL PROOF OF RESERVES REPORT BY MONDAY
-- 10/30 23:40 [DeItaone] BINANCE'S TENG: WHAT WAS AFFECTED IN THIS INCIDENT WAS BINANCE'S OWN HOT WALLET
-- 10/30 23:42 [DeItaone] RUBIO SAYS G20 MUST WORK TOGETHER TO CONFRONT THREATS TO ECONOMIC ORDER
-- 10/30 23:43 [FirstSquawk] RUBIO: G20 MUST WORK TOGETHER TO CONFRONT THREATS TO ECONOMIC ORDER
-- 10/30 23:44 [FirstSquawk] NASDAQ 100 TRIMS DECLINE TO 2.6% || S&P 500 DOWN 1.3%
-- 10/30 23:45 [DeItaone] RUSSIA'S NOVAK SAYS ATTACKS ON OIL REFINERIES WILL HAVE NEGATIVE IMPACT ON DIESEL FUEL SUPPLIES TO GLOBAL MARKET
-- 10/30 23:45 [financialjuice/FirstSquawk] Russia's Novak: Attacks on oil refineries will have negative impact on diesel fuel supplies to global market.
-- 10/30 23:46 [financialjuice] Fitch Ratings on UK budget: Broad policy continuity leaves sizeable delivery challenge
-- 10/30 23:47 [financialjuice/FirstSquawk] Russia's Novak: Russian oil production in October is higher than in September.
-- 10/30 23:48 [financialjuice] Fitch on UK budget: Fiscal consolidation plan remains much more challenging to deliver from 2027.
-- 10/30 23:48 [financialjuice] Fitch on UK budget: Continues to anticipate significant fiscal slippage against spending plans.
-- 10/30 23:48 [financialjuice] Fitch on UK budget: We see moderately more policy risk closer to next general election.
-- 10/30 23:50 [financialjuice] Russia's Novak: Russia will draw up plan for December diesel exports at the end of November
-- 10/30 23:50 [FirstSquawk] RUSSIA'S NOVAK SAYS RUSSIA WILL DRAW UP PLAN FOR DECEMBER DIESEL EXPORTS AT THE END OF NOVEMBER
 - 10/31 00:01 [financialjuice] CANADIAN BUDGET BALANCE ACTUAL -5.36B (FORECAST -, PREVIOUS -4.77B) $MACRO
 - 10/31 00:11 [DeItaone] JAPAN ASKS ANTHROPIC, OPENAI FOR MORE ACCESS TO ADVANCED MODELS - NIKKEI
 - 10/31 00:12 [FirstSquawk/DeItaone] JAPANESE GOVT PLANS TO INCLUDE STRONGER COOPERATION WITH U.S. AI DEVELOPERS IN CYBERSECURITY PACKAGE DUE OUT AS EARLY AS NEXT WEEK - NIKKEI
@@ -506,3 +283,89 @@
 - 10/31 16:46 [FirstSquawk] MANAMA- EGYPTIAN FOREIGN MINISTER SAYS EXTREMELY WORRIED THAT A NEW ROUND OF ESCALATION WILL BE MORE DESTRUCTIVE AND HAVE MAJOR IMPACT
 - 10/31 16:59 [financialjuice] Three planes carrying evacuated residents from Russian-controlled Oleshky in Ukraine reach Belarus, Belta news agency reports
 - 10/31 17:01 [FirstSquawk] THREE PLANES CARRYING EVACUATED RESIDENTS FROM RUSSIAN-CONTROLLED OLESHKY IN UKRAINE ARRIVE IN BELARUS- BELTA NEWS AGENCY REPORTS
+- 10/31 18:07 [financialjuice] Saudi civil defense warns of potential hazard in Najran
+- 10/31 18:09 [FirstSquawk] SAUDI CIVIL DEFENSE: ALERTS OF POTENTIAL DANGER IN NAJRAN
+- 10/31 18:09 [financialjuice] Danger has passed in Najran: Saudi civil defense
+- 10/31 18:12 [FirstSquawk] DANGER HAS PASSED IN NAJRAN SAUDI CIVIL DEFENSE SAYS
+- 10/31 18:27 [financialjuice] Iran semi-official Fars news agency: 'enemy' drone strikes two fishing boats 14 nm south of Geshm Island
+- 10/31 18:27 [financialjuice] Iran's Fars News Agency: two fishermen missing, two injured after drone strike
+- 10/31 18:29 [FirstSquawk] IRAN'S SEMI-OFFICIAL FARS NEWS AGENCY: 'ENEMY' DRONE ATTACKS TWO FISHING BOATS 14 NM SOUTH OF QESHM ISLAND
+- 10/31 18:30 [FirstSquawk] IRAN'S FARS NEWS AGENCY SAYS TWO FISHERMEN MISSING, TWO WOUNDED AFTER DRONE ATTACK
+- 10/31 18:39 [FirstSquawk] US NAVY ATTACKED IRANIAN FISHING BOATS NEAR QESHM- TASNIM
+- 10/31 18:59 [FirstSquawk] IRAN SUPREME LEADER: COMMENTS ON X ON MEETING WITH COMMANDERS
+- 10/31 19:03 [financialjuice] Ukraine's Zelenskiy: Russia struck energy facilities, nearly 280,000 families without power
+- 10/31 19:04 [FirstSquawk] UKRAINE'S ZELENSKIY: RUSSIA ATTACKED UKRAINIAN ENERGY FACILITIES, NEARLY 280,000 UKRAINIAN FAMILIES WITHOUT ELECTRICITY
+- 10/31 19:29 [FirstSquawk] IRAN'S KHAMENEI SAYS COMBAT READINESS NECESSARY FOR MAX. DETERRENCE
+- 10/31 19:31 [financialjuice/DeItaone] Iran's Supreme Leader Mojtaba Khamenei orders immediate, impactful and geographically unrestricted response to any enemy threat: written message
+- 10/31 19:31 [FirstSquawk] KHAMENEI SAYS EVERY THREAT MUST BE MET WITH IMMEDIATE RESPONSE; EVERY THREAT MUST BE MET WITH IMMEDIATE RESPONSE
+- 10/31 19:34 [financialjuice] Iran's Mojtaba Khamenet: Tehran will set timing and conditions for ending any new conflict if enemies restart military or terrorist assaults
+- 10/31 19:38 [financialjuice] Iran's supreme leader directs armed forces to revise target list to include all US and Israeli assets within striking range: statement
+- 10/31 19:41 [financialjuice] Iran’s supreme leader directs armed forces to boost production of ammunition and weapons for reconnaissance, support and combat operations
+- 10/31 19:41 [FirstSquawk/DeItaone] IRAN'S SUPREME LEADER ORDERS ARMED FORCES TO UPDATE TARGET LIST TO BRING 'ALL US AND ISRAELI ASSETS, TANGIBLE AND INTANGIBLE,' WITHIN STRIKING RANGE :STATEMENT
+- 10/31 19:41 [financialjuice] Iran's supreme leader urges armed forces to enhance military intelligence and boost domestic defense capabilities - statement
+- 10/31 19:46 [FirstSquawk/DeItaone] IRAN'S SUPREME LEADER CALLS ON ARMED FORCES TO STRENGTHEN MILITARY INTELLIGENCE CAPABILITIES, DEVELOP INDIGENOUS DEFENSE CAPABILITIES : STATEMENT
+- 10/31 19:47 [FirstSquawk/DeItaone] IRAN'S SUPREME LEADER ORDERS ARMED FORCES TO INCREASE PRODUCTION OF AMMUNITION AND WEAPONS FOR RECONNAISSANCE, SUPPORT AND COMBAT OPERATIONS
+- 10/31 19:49 [FirstSquawk] UKRAINE: IT STRIKES OIL REFINERY IN RUSSIA'S UFA REGION
+- 10/31 19:51 [financialjuice] Ukraine's military: missile fuel plant hit in Russia's Rostov region, fire breaks out
+- 10/31 19:53 [FirstSquawk] UKRAINE'S MILITARY: IT HIT RUSSIAN MISSILE FUEL PRODUCER IN ROSTOV REGION, CAUSING FIRE
+- 10/31 20:00 [financialjuice] Russia prolongs diesel export prohibition through January: IFX
+- 10/31 20:02 [FirstSquawk] RUSSIA EXTENDS DIESEL EXPORT BAN THROUGH JANUARY : IFX
+- 10/31 20:15 [FirstSquawk] RUSSIA SAYS EXTENDS BAN ON MOST DIESEL EXPORTS IN GOVERNMENT DECREE
+- 10/31 20:25 [FirstSquawk] Syrian Foreign Minister: We believe that American mediation is capable of stopping Israel's aggressions.
+- 10/31 20:25 [FirstSquawk] Syrian Foreign Minister: There are no outlaw groups in Syria
+- 10/31 20:26 [FirstSquawk] Settlers assault olive harvesters in Wadi al-Sha'ir area, Salfit Governorate, northern West Bank
+- 10/31 20:26 [FirstSquawk] Official in Iran's Qeshm Island: Missing fishermen found after hostile drone targets their fishing boats off the coast of Qeshm
+- 10/31 20:26 [FirstSquawk] Israeli occupation forces warn of demolishing industrial and commercial facilities at the northwestern entrance to Hebron
+- 10/31 20:49 [FirstSquawk] META BUILDS BIPARTISAN INFLUENCE TEAM AHEAD OF MIDTERMS - AXIOS
+- 10/31 21:21 [financialjuice] Iranian negotiators in Doha to continue talks with Qatari mediators after 12-hour session in Tehran yesterday, part of ongoing effort to end US-Iran war - official brief
+- 10/31 21:21 [financialjuice] Qatari mediation team in regular contact with US negotiators during talks: source
+- 10/31 21:23 [FirstSquawk] IRANIAN NEGOTIATORS ARE IN DOHA TO CONTINUE TALKS WITH QATARI MEDIATORS AFTER A ROUND LASTING MORE THAN 12 HOURS IN TEHRAN YESTERDAY, PART OF AN ONGOING PUSH TO END THE US-IRAN WAR : OFFICIAL
+- 10/31 21:26 [FirstSquawk] CENTCOM: A U.S. Sailor signals to a F/A-18 Super Hornet on the flight deck of the USS George H.W. Bush (CVN 77) during nighttime operations.
+- 10/31 21:26 [FirstSquawk] QATARI MEDIATION TEAM IS IN FREQUENT CONSULTATION WITH US NEGOTIATORS THROUGHOUT THE TALKS : OFFICIAL
+- 10/31 21:29 [FirstSquawk] UKRAINE'S ZELENSKYY ARRIVES IN ISTANBUL FOR TALKS WITH ERDOGAN.
+- 10/31 21:56 [FirstSquawk] IRANIAN DELEGATION IN DOHA FOR NEGOTIATIONS WITH QATAR; NO PLANS FOR IRAN-US NEGOTIATIONS IN DOHA- TASNIM
+- 10/31 22:00 [FirstSquawk] ARAGHCHI: VANCE LETTER DISCUSSED ON HIGH LEVEL; US STEP TO RESTART NEGOTIATIONS 'POSITIVE STEP'
+- 10/31 22:01 [financialjuice] President Zelenskiy: Evacuated residents from Russia-controlled Oleshky arrive in Ukraine from Belarus
+- 10/31 22:03 [FirstSquawk] Budget frees London to go on £10bn borrowing spree, says Sadiq Khan - FT
+- 10/31 22:03 [FirstSquawk] Crypto exchanges rush to tighten security after $6.3bn Binance heist - FT
+- 10/31 22:03 [FirstSquawk] French banks’ rising profits fail to reverse sell-off as political fears bite - FT
+- 10/31 22:03 [FirstSquawk] Bank of England explores easing key limit on riskier mortgage lending - FT
+- 10/31 22:04 [financialjuice] Iran's foreign minister Araqchi tells Al Jazeera: Tehran examined US Vance message, reviewed it in top-level talks
+- 10/31 22:04 [financialjuice] Iran's FM to Al Jazeera: US attempt to start wider talks with Tehran is positive move
+- 10/31 22:05 [financialjuice] Iran's FM to Al Jazeera: no intentions for talks with US officials currently
+- 10/31 22:06 [FirstSquawk] ARAGHCHI SAYS QATAR, PAKISTAN MEDIATORS DICUSSING IRAN'S CONDITIONS; MEDIATORS SUBMITTED PROPOSALS ON NUCLEAR ISSUE
+- 10/31 22:06 [financialjuice] Iran's FM to Al Jazeera: Tehran to determine if talks with Washington are direct or indirect after US accepts conditions
+- 10/31 22:08 [FirstSquawk] ARAGHCHI SAYS STUDYING NUCLEAR PROPOSALS AS PART OF 2ND PHASE; ONLY IRAN'S PROPOSAL ON TABLE FOR REOPENING HORMUZ
+- 10/31 22:09 [financialjuice] US ambassador to India: collaborating on deliverables with India before G20 leaders summit, anticipates news on another military drill
+- 10/31 22:09 [financialjuice] Iran's FM to Al Jazeera: mediators offer proposals on nuclear issue, Tehran reviewing
+- 10/31 22:10 [DeItaone] IRAN'S FOREIGN MINISTER ARAQCHI TO AL JAZEERA: TEHRAN STUDIED US'S VANCE MESSAGE, DISCUSSED IT IN HIGH-LEVEL MEETINGS
+- 10/31 22:10 [financialjuice/DeItaone] Iran's FM to Al Jazeera: Iranian plan is only proposal currently on table to reopen Strait of Hormuz
+- 10/31 22:10 [DeItaone] IRAN'S FM TO AL JAZEERA: US EFFORT TO OPEN BROADER DIALOGUE WITH TEHRAN IS POSITIVE STEP
+- 10/31 22:10 [DeItaone] IRAN'S FM TO AL JAZEERA: NO PLANS FOR MEETING WITH US OFFICIALS AT PRESENT
+- 10/31 22:10 [FirstSquawk] US AMBASSADOR TO INDIA GOR SAYS WORKING ON DELIVERABLES WITH INDIA AHEAD OF G20 LEADERS SUMMIT, EXPECT NEWS ON ANOTHER MILITARY EXERCISE
+- 10/31 22:11 [DeItaone] IRAN'S FM TO AL JAZEERA: TEHRAN TO DECIDE WHETHER TALKS WITH WASHINGTON ARE DIRECT OR INDIRECT AFTER US ACCEPTS ITS CONDITIONS
+- 10/31 22:11 [DeItaone] IRAN'S FM TO AL JAZEERA: MEDIATORS HAVE PRESENTED PROPOSALS ON NUCLEAR ISSUE, WHICH TEHRAN IS EXAMINING
+- 10/31 22:12 [financialjuice] Iran's Aragchi to Al Jazeera: conditions include lifting post-Islamabad sanctions, reducing US forces in region
+- 10/31 22:13 [DeItaone] IRAN'S ARAQCHI TO AL JAZEERA: OUR CONDITIONS INCLUDE LIFTING SANCTIONS IMPOSED AFTER ISLAMABAD MOU, REDUCING US FORCES IN REGION
+- 10/31 22:13 [DeItaone] IRAN'S FM TO AL JAZEERA: TEHRAN DEMANDS RECOGNITION OF NEW SHIPPING ROUTE AGREED WITH OMAN IN STRAIT OF HORMUZ, CLOSURE OF OTHER ROUTES
+- 10/31 22:13 [FirstSquawk] IRAN'S FM TO AL JAZEERA SAYS TEHRAN TO DECIDE WHETHER TALKS WITH WASHINGTON ARE DIRECT OR INDIRECT AFTER US ACCEPTS ITS CONDITIONS
+- 10/31 22:13 [financialjuice] Iran's FM to Al Jazeera: Tehran seeks recognition of new shipping lane agreed with Oman in Strait of Hormuz, closure of alternative routes
+- 10/31 22:15 [FirstSquawk] IRAN'S FM TO AL JAZEERA SAYS MEDIATORS HAVE PRESENTED PROPOSALS ON NUCLEAR ISSUE, WHICH TEHRAN IS EXAMINING; IRANIAN PLAN IS ONLY PROPOSAL CURRENTLY ON TABLE TO REOPEN STRAIT OF HORMUZ
+- 10/31 22:16 [financialjuice] Iran's Aragchi to Al Jazeera: reopening Strait of Hormuz on Tehran terms would open door for talks with Washington
+- 10/31 22:17 [FirstSquawk] IRAN'S ARAQCHI TO AL JAZEERA SAYS OUR CONDITIONS INCLUDE LIFTING SANCTIONS IMPOSED AFTER ISLAMABAD MOU, REDUCING US FORCES IN REGION; TEHRAN DEMANDS RECOGNITION OF NEW SHIPPING ROUTE AGREED WITH OMAN IN STRAIT OF HORMUZ, CLOSURE OF OTHER
+- 10/31 22:17 [financialjuice] Senegal lawmakers reject budget again, jeopardizing IMF deal
+- 10/31 22:18 [DeItaone] IRAN'S ARAQCHI TO AL JAZEERA: REOPENING STRAIT OF HORMUZ ON TEHRAN'S TERMS WOULD PAVE WAY FOR RESUMPTION OF TALKS WITH WASHINGTON
+- 10/31 22:19 [FirstSquawk] IRAN'S ARAQCHI SAYS REOPENING STRAIT OF HORMUZ ON TEHRAN'S TERMS WOULD PAVE WAY FOR RESUMPTION OF TALKS WITH WASHINGTON
+- 10/31 22:24 [FirstSquawk] SENEGAL LAWMAKERS REJECT BUDGET AGAIN, PUTTING IMF DEAL AT RISK.
+- 10/31 22:37 [financialjuice] Iran's armed forces chief: forces ready to retaliate against US, Israeli enemies beyond geographic limits
+- 10/31 22:38 [financialjuice] Iran's armed forces chief: military compiles new list of US and Israeli targets, assets across expanded region
+- 10/31 22:40 [FirstSquawk] IRAN'S ARMED FORCES CHIEF: FORCES READY TO RESPOND TO US, ISRAELI 'ENEMIES WITH NO GEOGRAPHIC LIMITS'
+- 10/31 22:41 [FirstSquawk] IRAN'S ARMED FORCES CHIEF: MILITARY HAS DRAWN UP NEW LIST OF US AND ISRAELI TARGETS, ASSETS ACROSS WIDER AREA
+- 10/31 23:38 [DeItaone] BINANCE ON HACK - 90% OF STOLEN ASSETS REPLENISHED
+- 10/31 23:39 [DeItaone] BINANCE: ALL BTC, ETH, USDT, BNB, SOL, USDC, XRP, USD1, RLUSD, AND ZEC ARE FULLY BACKED 100%
+- 10/31 23:39 [DeItaone] BINANCE ON HACK: WILL ABSORB THE FINANCIAL IMPACT OF THESE STOLEN FUNDS, NOT OUR USERS
+- 10/31 23:39 [DeItaone] BINANCE: PARTIAL DEPLOYMENT OF THE SECURE ASSET FUND FOR USERS (SAFU) EXPECTED TO HAPPEN OVER THE NEXT 24 HOURS
+- 10/31 23:40 [DeItaone] BINANCE ON HACK: WE REMAIN ON TRACK TO REOPEN WITHDRAWALS WITHIN OUR PREVIOUSLY STATED TIMEFRAME (ON SUNDAY, 2026-11-01)
+- 10/31 23:43 [FirstSquawk] French Interior Ministry: Around 15,000 the number of demonstrators today in various parts of the country
+- 10/31 23:43 [FirstSquawk] Jordanian Public Security: Seizure of hot air balloons carrying firearms in Karak Governorate, which were smuggled into Jordan
+- 10/31 23:44 [FirstSquawk] Yemeni Government Forces: We carried out 1119 operations in the past hours targeting leaders, gatherings, and reinforcements of the Houthi militia

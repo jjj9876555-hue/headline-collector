@@ -7,96 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-31 17:54 JST／対象: 10/31 05:54 〜 10/31 17:54 JST（時刻はすべて日本時間）
+生成: 2026-10-31 23:55 JST／対象: 10/31 11:55 〜 10/31 23:55 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 2 | 10/31 07:34 | 10/31 15:13 | ⚠ 458分（07:34→15:13） |
-| FirstSquawk | 102 | 10/31 06:07 | 10/31 17:01 | ⚠ 183分（06:07→09:11） |
-| financialjuice | 27 | 10/31 06:05 | 10/31 16:59 | ⚠ 247分（10:32→14:40） |
+| DeItaone | 19 | 10/31 15:13 | 10/31 23:40 | ⚠ 279分（15:13→19:52） |
+| FirstSquawk | 96 | 10/31 11:56 | 10/31 23:44 | ⚠ 68分（17:01→18:09） |
+| financialjuice | 34 | 10/31 14:40 | 10/31 22:38 | ⚠ 80分（20:00→21:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 130 行（統合前 132 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 143 行（統合前 149 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/31 06:05 [financialjuice] S&P says Meta’s capacity to monetize AI investments is more constrained than peers
-- 10/31 06:07 [FirstSquawk] META OUTLOOK REVISED TO NEGATIVE BY S&P
-- 10/31 06:08 [financialjuice] S&P: Uncertainty over Meta's future capital expenditures and ambitious multiyear AI investments casts doubt on expected spending cuts
-- 10/31 06:08 [financialjuice] US DOJ files motion for preliminary injunction in Alaska election dispute
-- 10/31 06:14 [financialjuice] North Korea: international sanctions ineffective against it - KCNA
-- 10/31 06:17 [financialjuice] North Korea: international sanctions can’t affect stance as nuclear weapons state - KCNA
-- 10/31 06:20 [financialjuice] Russia's Lavrov: key issues in US-Russian relations unresolved, sanctions continue, arms still supplied to Ukraine
-- 10/31 06:20 [financialjuice] Lavrov: Russia's stance on a Ukraine settlement unchanged, Moscow rejects military threat from Ukraine
-- 10/31 06:21 [financialjuice] Russia's Lavrov: unclear what Ukraine will bring to new settlement talks but Zelenskiy's mention of long-range strikes is unhelpful
-- 10/31 06:39 [financialjuice] White House to nominate Mufarrige as FTC commissioner
-- 10/31 06:40 [financialjuice] Morocco satisfied with non-renewal of UN peacekeeping mission in Western Sahara: attached to ceasefire
-- 10/31 06:43 [financialjuice] Non-renewal of peacekeeping mission a move toward final resolution of Western Sahara issue at UN, royal palace says
-- 10/31 06:46 [financialjuice] Minurso personnel, vehicles, equipment, symbols to end in coming days: Moroccan royal palace
-- 10/31 07:34 [DeItaone] US REPORTEDLY PREPARING SHORT, INTENSE IRAN STRIKES ON NOVEMBER 4 The Trump administration has reportedly warned Gulf allies to prepare for potential US strikes on Iran as early as November 4, one day after the midterm elections, according …
-- 10/31 08:07 [financialjuice] US, South Korea, Japan foreign ministers reaffirm pledge to finalize North Korea denuclearization - Yonhap
-- 10/31 09:09 [financialjuice] OpenAI cuts funding goal by $10 billion as tech worries increase - FT
-- 10/31 09:11 [FirstSquawk] . Al Arabiya Obtains Draft Framework Mediators Are Discussing for US-Iran Negotiations
-- 10/31 09:12 [FirstSquawk] Houthis Deny Attack After Saudi-Led Coalition Reports Downing Drone Over Medina
-- 10/31 09:13 [FirstSquawk] FT: OpenAI Seeks to Raise Around $20 Billion at $1.25 Trillion Valuation
-- 10/31 09:13 [FirstSquawk] Growing Technology Sector Concerns Prompt OpenAI to Reduce Funding Target by $10 Billion: FT
-- 10/31 09:19 [FirstSquawk] Emergency Shutdown at Kaliningrad Power Plant Triggers Blackout Across Parts of the Russian Region: WSN
-- 10/31 09:21 [FirstSquawk] AlArabiya_Brk - Trump Says US Forces Have Been Deployed Across Areas Surrounding Iran
-- 10/31 09:22 [FirstSquawk] Washington Directs Non-Emergency Staff to Depart Saudi Arabia Amid Security Risks
-- 10/31 09:23 [FirstSquawk] Trump Declares Upcoming Midterms the Most Important Elections the United States Has Ever Held
-- 10/31 09:24 [FirstSquawk] Texas Secures Trump-Approved Disaster Aid Ahead of Election - Politico
-- 10/31 09:28 [FirstSquawk] Canada and Europe Establish New International Alliance, Invite Other Countries to Join: Guardian
-- 10/31 09:30 [FirstSquawk] FT: Poland Moves to Suspend Senior Judges Amid Escalating Rule-of-Law Battle
-- 10/31 09:30 [FirstSquawk] Higher Oil Prices Boost Canadian Dollar, Raising Concerns Over Inflation Risks
-- 10/31 09:38 [FirstSquawk] nside the Biggest Crypto Heist in History: $6.3 Billion Stolen in 30 Minutes - FT
-- 10/31 09:44 [FirstSquawk] Government Vows Crackdown as France Faces Threat of Renewed Unrest - FT
-- 10/31 09:47 [financialjuice] Saudi-led coalition: intercepted and neutralized drone launched by Yemen's Houthis toward southern region
-- 10/31 09:48 [FirstSquawk] Tokyo Presses Moscow for Release of Japanese National During Lavrov Meeting
-- 10/31 09:49 [FirstSquawk] Washington Clears Sale of 500 Patriot Missiles to Ukraine - BBC
-- 10/31 09:51 [FirstSquawk] Houthi-Launched Drone Intercepted and Neutralised by Saudi-Led Coalition
-- 10/31 09:53 [FirstSquawk] DaVita Inc.’s Credit Ratings Reviewed by Moody’s Ratings
-- 10/31 10:05 [FirstSquawk] Major Southeast Asian Meth Trafficking Network Dismantled With China's Assistance
-- 10/31 10:11 [FirstSquawk] Intel, Reddit and AI Stocks Face a Rough End to October - RTRS
-- 10/31 10:11 [FirstSquawk] Axios: US-Iran Talks Continue as Negotiations Make Positive Headway
-- 10/31 10:16 [FirstSquawk] US Official: Iran Must Offer Nuclear Concessions for Talks With Washington to Resume
-- 10/31 10:17 [FirstSquawk] Axios Official: Trump Doubts Iran Will Approve an Acceptable Agreement
-- 10/31 10:18 [FirstSquawk] US Official: Trump Could Consider Military Action Against Iran if Republicans Lose Elections -Al Arabiya
-- 10/31 10:20 [FirstSquawk] American Electric Power Retains BBB Rating as Fitch Maintains Stable Outlook
-- 10/31 10:24 [FirstSquawk] Alaska Air Group Layoffs to Spare Frontline and Non-Management Staff, CEO Says
-- 10/31 10:24 [FirstSquawk] Alaska Air Group to Reduce Workforce by About 200 Non-Contract Roles
-- 10/31 10:25 [FirstSquawk] Rising Fuel Prices and Geopolitical Challenges Put Alaska Air Group Under Financial Pressure, CEO Says
-- 10/31 10:25 [FirstSquawk] Alaska Air Group CEO Warns of Potential $700 Million Loss Amid Ongoing Challenges
-- 10/31 10:30 [FirstSquawk] Judge Restricts DOJ from Using Prosecution Threats Against Election Officials - POLITICO
-- 10/31 10:30 [financialjuice] ‼ BREAKING: CHINESE NBS MANUFACTURING PMI ACTUAL 49.3 (FORECAST 49.9, PREVIOUS 50.1) $MACRO
-- 10/31 10:31 [financialjuice] China October official manufacturing PMI at 49.3 vs 50.1 in September
-- 10/31 10:31 [financialjuice] CHINESE NBS NON-MANUFACTURING PMI ACTUAL 49.7 (FORECAST 50, PREVIOUS 50.2) $MACRO
-- 10/31 10:31 [financialjuice] China October official composite PMI at 49.7
-- 10/31 10:31 [financialjuice] China October official non-manufacturing PMI drops to 49.7 from September's 50.2
-- 10/31 10:31 [FirstSquawk] China’s Official Non-Manufacturing PMI Declines to 49.7, Down from 50.2 in September
-- 10/31 10:31 [FirstSquawk] China’s Official Composite PMI Signals Contraction at 49.7 in October
-- 10/31 10:32 [financialjuice] CHINESE COMPOSITE PMI ACTUAL 49.7 (FORECAST -, PREVIOUS 50.7) $MACRO
-- 10/31 10:36 [FirstSquawk] US, Japan and South Korea Reiterate Commitment to North Korea’s Complete Denuclearisation - YONHAP
-- 10/31 10:39 [FirstSquawk] Brazilian Healthcare Firm Oncoclínicas Proceeds with Plan for Court Approval
-- 10/31 10:40 [FirstSquawk] Brazilian Healthcare Firm Oncoclínicas Gains Minimum Creditor Approval for Debt Plan
-- 10/31 10:46 [FirstSquawk] Starlink AI Merger Deal Values Spider Digital at $250 Million
-- 10/31 10:49 [FirstSquawk] Spider Digital and Starlink AI Set to Become Subsidiaries of US-Listed Combined Entity
-- 10/31 10:55 [FirstSquawk] Argentina’s YPF Submits RIGI Application for $8.73 Billion Bajo del Toro Project
-- 10/31 11:03 [FirstSquawk] Moody’s Sees Significant Reduction in Zambia’s Government Financing Needs
-- 10/31 11:05 [FirstSquawk] Zambia’s Positive Outlook Signals Further Gains in Debt and Interest Burdens, Moody’s Says
-- 10/31 11:08 [FirstSquawk] Zambia Secures Moody’s Upgrade to Caa1 Following Material Improvement in Debt Trajectory
-- 10/31 11:08 [FirstSquawk] Zambia Secures Caa1 Rating Upgrade from Moody’s, Outlook Remains Positive
-- 10/31 11:15 [FirstSquawk] Brazil’s PetroReconcavo Reports Estimated Gas Production Shortfall of 2,400 BOED
-- 10/31 11:23 [FirstSquawk] Brazil’s PetroReconcavo Says Processing Asset Maintenance Will Take 25 Days
-- 10/31 11:25 [FirstSquawk] Brazil’s PetroReconcavo Reports Temporary Gas Output Suspension at Bahia Asset
-- 10/31 11:32 [FirstSquawk] BofA Expects Anti-Money Laundering Remediation Costs to Have Limited Impact on Future Expenses
-- 10/31 11:34 [FirstSquawk] Trump Says He Will Consider Nicki Minaj for White House Press Secretary Position - LeadingReport
-- 10/31 11:42 [FirstSquawk] Russia Says US Sanctions and Arms Supplies to Ukraine Continue to Hinder Bilateral Relations, Lavrov Says
-- 10/31 11:47 [FirstSquawk] Russia’s Lavrov Says Zelenskiy’s Long-Range Strike Comments Undermine Prospects for Peace Talks
-- 10/31 11:51 [FirstSquawk] Russia Reiterates Ukraine Settlement Stance, Says It Cannot Accept Military Threats, Lavrov Says
 - 10/31 11:56 [FirstSquawk] Fitch Signals Early Review of France’s Rating Amid Recent Developments
 - 10/31 12:01 [FirstSquawk] US, South Korea and Japan Reiterate Commitment to North Korea’s Complete Denuclearisation
 - 10/31 12:04 [FirstSquawk] KCNA: International Sanctions Cannot Force North Korea to Abandon Its Nuclear Status
@@ -154,3 +81,89 @@
 - 10/31 16:46 [FirstSquawk] MANAMA- EGYPTIAN FOREIGN MINISTER SAYS EXTREMELY WORRIED THAT A NEW ROUND OF ESCALATION WILL BE MORE DESTRUCTIVE AND HAVE MAJOR IMPACT
 - 10/31 16:59 [financialjuice] Three planes carrying evacuated residents from Russian-controlled Oleshky in Ukraine reach Belarus, Belta news agency reports
 - 10/31 17:01 [FirstSquawk] THREE PLANES CARRYING EVACUATED RESIDENTS FROM RUSSIAN-CONTROLLED OLESHKY IN UKRAINE ARRIVE IN BELARUS- BELTA NEWS AGENCY REPORTS
+- 10/31 18:07 [financialjuice] Saudi civil defense warns of potential hazard in Najran
+- 10/31 18:09 [FirstSquawk] SAUDI CIVIL DEFENSE: ALERTS OF POTENTIAL DANGER IN NAJRAN
+- 10/31 18:09 [financialjuice] Danger has passed in Najran: Saudi civil defense
+- 10/31 18:12 [FirstSquawk] DANGER HAS PASSED IN NAJRAN SAUDI CIVIL DEFENSE SAYS
+- 10/31 18:27 [financialjuice] Iran semi-official Fars news agency: 'enemy' drone strikes two fishing boats 14 nm south of Geshm Island
+- 10/31 18:27 [financialjuice] Iran's Fars News Agency: two fishermen missing, two injured after drone strike
+- 10/31 18:29 [FirstSquawk] IRAN'S SEMI-OFFICIAL FARS NEWS AGENCY: 'ENEMY' DRONE ATTACKS TWO FISHING BOATS 14 NM SOUTH OF QESHM ISLAND
+- 10/31 18:30 [FirstSquawk] IRAN'S FARS NEWS AGENCY SAYS TWO FISHERMEN MISSING, TWO WOUNDED AFTER DRONE ATTACK
+- 10/31 18:39 [FirstSquawk] US NAVY ATTACKED IRANIAN FISHING BOATS NEAR QESHM- TASNIM
+- 10/31 18:59 [FirstSquawk] IRAN SUPREME LEADER: COMMENTS ON X ON MEETING WITH COMMANDERS
+- 10/31 19:03 [financialjuice] Ukraine's Zelenskiy: Russia struck energy facilities, nearly 280,000 families without power
+- 10/31 19:04 [FirstSquawk] UKRAINE'S ZELENSKIY: RUSSIA ATTACKED UKRAINIAN ENERGY FACILITIES, NEARLY 280,000 UKRAINIAN FAMILIES WITHOUT ELECTRICITY
+- 10/31 19:29 [FirstSquawk] IRAN'S KHAMENEI SAYS COMBAT READINESS NECESSARY FOR MAX. DETERRENCE
+- 10/31 19:31 [financialjuice/DeItaone] Iran's Supreme Leader Mojtaba Khamenei orders immediate, impactful and geographically unrestricted response to any enemy threat: written message
+- 10/31 19:31 [FirstSquawk] KHAMENEI SAYS EVERY THREAT MUST BE MET WITH IMMEDIATE RESPONSE; EVERY THREAT MUST BE MET WITH IMMEDIATE RESPONSE
+- 10/31 19:34 [financialjuice] Iran's Mojtaba Khamenet: Tehran will set timing and conditions for ending any new conflict if enemies restart military or terrorist assaults
+- 10/31 19:38 [financialjuice] Iran's supreme leader directs armed forces to revise target list to include all US and Israeli assets within striking range: statement
+- 10/31 19:41 [financialjuice] Iran’s supreme leader directs armed forces to boost production of ammunition and weapons for reconnaissance, support and combat operations
+- 10/31 19:41 [FirstSquawk/DeItaone] IRAN'S SUPREME LEADER ORDERS ARMED FORCES TO UPDATE TARGET LIST TO BRING 'ALL US AND ISRAELI ASSETS, TANGIBLE AND INTANGIBLE,' WITHIN STRIKING RANGE :STATEMENT
+- 10/31 19:41 [financialjuice] Iran's supreme leader urges armed forces to enhance military intelligence and boost domestic defense capabilities - statement
+- 10/31 19:46 [FirstSquawk/DeItaone] IRAN'S SUPREME LEADER CALLS ON ARMED FORCES TO STRENGTHEN MILITARY INTELLIGENCE CAPABILITIES, DEVELOP INDIGENOUS DEFENSE CAPABILITIES : STATEMENT
+- 10/31 19:47 [FirstSquawk/DeItaone] IRAN'S SUPREME LEADER ORDERS ARMED FORCES TO INCREASE PRODUCTION OF AMMUNITION AND WEAPONS FOR RECONNAISSANCE, SUPPORT AND COMBAT OPERATIONS
+- 10/31 19:49 [FirstSquawk] UKRAINE: IT STRIKES OIL REFINERY IN RUSSIA'S UFA REGION
+- 10/31 19:51 [financialjuice] Ukraine's military: missile fuel plant hit in Russia's Rostov region, fire breaks out
+- 10/31 19:53 [FirstSquawk] UKRAINE'S MILITARY: IT HIT RUSSIAN MISSILE FUEL PRODUCER IN ROSTOV REGION, CAUSING FIRE
+- 10/31 20:00 [financialjuice] Russia prolongs diesel export prohibition through January: IFX
+- 10/31 20:02 [FirstSquawk] RUSSIA EXTENDS DIESEL EXPORT BAN THROUGH JANUARY : IFX
+- 10/31 20:15 [FirstSquawk] RUSSIA SAYS EXTENDS BAN ON MOST DIESEL EXPORTS IN GOVERNMENT DECREE
+- 10/31 20:25 [FirstSquawk] Syrian Foreign Minister: We believe that American mediation is capable of stopping Israel's aggressions.
+- 10/31 20:25 [FirstSquawk] Syrian Foreign Minister: There are no outlaw groups in Syria
+- 10/31 20:26 [FirstSquawk] Settlers assault olive harvesters in Wadi al-Sha'ir area, Salfit Governorate, northern West Bank
+- 10/31 20:26 [FirstSquawk] Official in Iran's Qeshm Island: Missing fishermen found after hostile drone targets their fishing boats off the coast of Qeshm
+- 10/31 20:26 [FirstSquawk] Israeli occupation forces warn of demolishing industrial and commercial facilities at the northwestern entrance to Hebron
+- 10/31 20:49 [FirstSquawk] META BUILDS BIPARTISAN INFLUENCE TEAM AHEAD OF MIDTERMS - AXIOS
+- 10/31 21:21 [financialjuice] Iranian negotiators in Doha to continue talks with Qatari mediators after 12-hour session in Tehran yesterday, part of ongoing effort to end US-Iran war - official brief
+- 10/31 21:21 [financialjuice] Qatari mediation team in regular contact with US negotiators during talks: source
+- 10/31 21:23 [FirstSquawk] IRANIAN NEGOTIATORS ARE IN DOHA TO CONTINUE TALKS WITH QATARI MEDIATORS AFTER A ROUND LASTING MORE THAN 12 HOURS IN TEHRAN YESTERDAY, PART OF AN ONGOING PUSH TO END THE US-IRAN WAR : OFFICIAL
+- 10/31 21:26 [FirstSquawk] CENTCOM: A U.S. Sailor signals to a F/A-18 Super Hornet on the flight deck of the USS George H.W. Bush (CVN 77) during nighttime operations.
+- 10/31 21:26 [FirstSquawk] QATARI MEDIATION TEAM IS IN FREQUENT CONSULTATION WITH US NEGOTIATORS THROUGHOUT THE TALKS : OFFICIAL
+- 10/31 21:29 [FirstSquawk] UKRAINE'S ZELENSKYY ARRIVES IN ISTANBUL FOR TALKS WITH ERDOGAN.
+- 10/31 21:56 [FirstSquawk] IRANIAN DELEGATION IN DOHA FOR NEGOTIATIONS WITH QATAR; NO PLANS FOR IRAN-US NEGOTIATIONS IN DOHA- TASNIM
+- 10/31 22:00 [FirstSquawk] ARAGHCHI: VANCE LETTER DISCUSSED ON HIGH LEVEL; US STEP TO RESTART NEGOTIATIONS 'POSITIVE STEP'
+- 10/31 22:01 [financialjuice] President Zelenskiy: Evacuated residents from Russia-controlled Oleshky arrive in Ukraine from Belarus
+- 10/31 22:03 [FirstSquawk] Budget frees London to go on £10bn borrowing spree, says Sadiq Khan - FT
+- 10/31 22:03 [FirstSquawk] Crypto exchanges rush to tighten security after $6.3bn Binance heist - FT
+- 10/31 22:03 [FirstSquawk] French banks’ rising profits fail to reverse sell-off as political fears bite - FT
+- 10/31 22:03 [FirstSquawk] Bank of England explores easing key limit on riskier mortgage lending - FT
+- 10/31 22:04 [financialjuice] Iran's foreign minister Araqchi tells Al Jazeera: Tehran examined US Vance message, reviewed it in top-level talks
+- 10/31 22:04 [financialjuice] Iran's FM to Al Jazeera: US attempt to start wider talks with Tehran is positive move
+- 10/31 22:05 [financialjuice] Iran's FM to Al Jazeera: no intentions for talks with US officials currently
+- 10/31 22:06 [FirstSquawk] ARAGHCHI SAYS QATAR, PAKISTAN MEDIATORS DICUSSING IRAN'S CONDITIONS; MEDIATORS SUBMITTED PROPOSALS ON NUCLEAR ISSUE
+- 10/31 22:06 [financialjuice] Iran's FM to Al Jazeera: Tehran to determine if talks with Washington are direct or indirect after US accepts conditions
+- 10/31 22:08 [FirstSquawk] ARAGHCHI SAYS STUDYING NUCLEAR PROPOSALS AS PART OF 2ND PHASE; ONLY IRAN'S PROPOSAL ON TABLE FOR REOPENING HORMUZ
+- 10/31 22:09 [financialjuice] US ambassador to India: collaborating on deliverables with India before G20 leaders summit, anticipates news on another military drill
+- 10/31 22:09 [financialjuice] Iran's FM to Al Jazeera: mediators offer proposals on nuclear issue, Tehran reviewing
+- 10/31 22:10 [DeItaone] IRAN'S FOREIGN MINISTER ARAQCHI TO AL JAZEERA: TEHRAN STUDIED US'S VANCE MESSAGE, DISCUSSED IT IN HIGH-LEVEL MEETINGS
+- 10/31 22:10 [financialjuice/DeItaone] Iran's FM to Al Jazeera: Iranian plan is only proposal currently on table to reopen Strait of Hormuz
+- 10/31 22:10 [DeItaone] IRAN'S FM TO AL JAZEERA: US EFFORT TO OPEN BROADER DIALOGUE WITH TEHRAN IS POSITIVE STEP
+- 10/31 22:10 [DeItaone] IRAN'S FM TO AL JAZEERA: NO PLANS FOR MEETING WITH US OFFICIALS AT PRESENT
+- 10/31 22:10 [FirstSquawk] US AMBASSADOR TO INDIA GOR SAYS WORKING ON DELIVERABLES WITH INDIA AHEAD OF G20 LEADERS SUMMIT, EXPECT NEWS ON ANOTHER MILITARY EXERCISE
+- 10/31 22:11 [DeItaone] IRAN'S FM TO AL JAZEERA: TEHRAN TO DECIDE WHETHER TALKS WITH WASHINGTON ARE DIRECT OR INDIRECT AFTER US ACCEPTS ITS CONDITIONS
+- 10/31 22:11 [DeItaone] IRAN'S FM TO AL JAZEERA: MEDIATORS HAVE PRESENTED PROPOSALS ON NUCLEAR ISSUE, WHICH TEHRAN IS EXAMINING
+- 10/31 22:12 [financialjuice] Iran's Aragchi to Al Jazeera: conditions include lifting post-Islamabad sanctions, reducing US forces in region
+- 10/31 22:13 [DeItaone] IRAN'S ARAQCHI TO AL JAZEERA: OUR CONDITIONS INCLUDE LIFTING SANCTIONS IMPOSED AFTER ISLAMABAD MOU, REDUCING US FORCES IN REGION
+- 10/31 22:13 [DeItaone] IRAN'S FM TO AL JAZEERA: TEHRAN DEMANDS RECOGNITION OF NEW SHIPPING ROUTE AGREED WITH OMAN IN STRAIT OF HORMUZ, CLOSURE OF OTHER ROUTES
+- 10/31 22:13 [FirstSquawk] IRAN'S FM TO AL JAZEERA SAYS TEHRAN TO DECIDE WHETHER TALKS WITH WASHINGTON ARE DIRECT OR INDIRECT AFTER US ACCEPTS ITS CONDITIONS
+- 10/31 22:13 [financialjuice] Iran's FM to Al Jazeera: Tehran seeks recognition of new shipping lane agreed with Oman in Strait of Hormuz, closure of alternative routes
+- 10/31 22:15 [FirstSquawk] IRAN'S FM TO AL JAZEERA SAYS MEDIATORS HAVE PRESENTED PROPOSALS ON NUCLEAR ISSUE, WHICH TEHRAN IS EXAMINING; IRANIAN PLAN IS ONLY PROPOSAL CURRENTLY ON TABLE TO REOPEN STRAIT OF HORMUZ
+- 10/31 22:16 [financialjuice] Iran's Aragchi to Al Jazeera: reopening Strait of Hormuz on Tehran terms would open door for talks with Washington
+- 10/31 22:17 [FirstSquawk] IRAN'S ARAQCHI TO AL JAZEERA SAYS OUR CONDITIONS INCLUDE LIFTING SANCTIONS IMPOSED AFTER ISLAMABAD MOU, REDUCING US FORCES IN REGION; TEHRAN DEMANDS RECOGNITION OF NEW SHIPPING ROUTE AGREED WITH OMAN IN STRAIT OF HORMUZ, CLOSURE OF OTHER
+- 10/31 22:17 [financialjuice] Senegal lawmakers reject budget again, jeopardizing IMF deal
+- 10/31 22:18 [DeItaone] IRAN'S ARAQCHI TO AL JAZEERA: REOPENING STRAIT OF HORMUZ ON TEHRAN'S TERMS WOULD PAVE WAY FOR RESUMPTION OF TALKS WITH WASHINGTON
+- 10/31 22:19 [FirstSquawk] IRAN'S ARAQCHI SAYS REOPENING STRAIT OF HORMUZ ON TEHRAN'S TERMS WOULD PAVE WAY FOR RESUMPTION OF TALKS WITH WASHINGTON
+- 10/31 22:24 [FirstSquawk] SENEGAL LAWMAKERS REJECT BUDGET AGAIN, PUTTING IMF DEAL AT RISK.
+- 10/31 22:37 [financialjuice] Iran's armed forces chief: forces ready to retaliate against US, Israeli enemies beyond geographic limits
+- 10/31 22:38 [financialjuice] Iran's armed forces chief: military compiles new list of US and Israeli targets, assets across expanded region
+- 10/31 22:40 [FirstSquawk] IRAN'S ARMED FORCES CHIEF: FORCES READY TO RESPOND TO US, ISRAELI 'ENEMIES WITH NO GEOGRAPHIC LIMITS'
+- 10/31 22:41 [FirstSquawk] IRAN'S ARMED FORCES CHIEF: MILITARY HAS DRAWN UP NEW LIST OF US AND ISRAELI TARGETS, ASSETS ACROSS WIDER AREA
+- 10/31 23:38 [DeItaone] BINANCE ON HACK - 90% OF STOLEN ASSETS REPLENISHED
+- 10/31 23:39 [DeItaone] BINANCE: ALL BTC, ETH, USDT, BNB, SOL, USDC, XRP, USD1, RLUSD, AND ZEC ARE FULLY BACKED 100%
+- 10/31 23:39 [DeItaone] BINANCE ON HACK: WILL ABSORB THE FINANCIAL IMPACT OF THESE STOLEN FUNDS, NOT OUR USERS
+- 10/31 23:39 [DeItaone] BINANCE: PARTIAL DEPLOYMENT OF THE SECURE ASSET FUND FOR USERS (SAFU) EXPECTED TO HAPPEN OVER THE NEXT 24 HOURS
+- 10/31 23:40 [DeItaone] BINANCE ON HACK: WE REMAIN ON TRACK TO REOPEN WITHDRAWALS WITHIN OUR PREVIOUSLY STATED TIMEFRAME (ON SUNDAY, 2026-11-01)
+- 10/31 23:43 [FirstSquawk] French Interior Ministry: Around 15,000 the number of demonstrators today in various parts of the country
+- 10/31 23:43 [FirstSquawk] Jordanian Public Security: Seizure of hot air balloons carrying firearms in Karak Governorate, which were smuggled into Jordan
+- 10/31 23:44 [FirstSquawk] Yemeni Government Forces: We carried out 1119 operations in the past hours targeting leaders, gatherings, and reinforcements of the Houthi militia
