@@ -7,163 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-10-31 11:42 JST／対象: 10/30 23:42 〜 10/31 11:42 JST（時刻はすべて日本時間）
+生成: 2026-10-31 17:54 JST／対象: 10/31 05:54 〜 10/31 17:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 18 | 10/30 23:45 | 10/31 07:34 | ⚠ 142分（05:11→07:34） |
-| FirstSquawk | 92 | 10/30 23:43 | 10/31 11:42 | ⚠ 183分（06:07→09:11） |
-| financialjuice | 109 | 10/30 23:45 | 10/31 10:32 | ⚠ 80分（06:46→08:07） |
+| DeItaone | 2 | 10/31 07:34 | 10/31 15:13 | ⚠ 458分（07:34→15:13） |
+| FirstSquawk | 102 | 10/31 06:07 | 10/31 17:01 | ⚠ 183分（06:07→09:11） |
+| financialjuice | 27 | 10/31 06:05 | 10/31 16:59 | ⚠ 247分（10:32→14:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 211 行（統合前 223 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 130 行（統合前 132 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/30 23:43 [FirstSquawk] RUBIO: G20 MUST WORK TOGETHER TO CONFRONT THREATS TO ECONOMIC ORDER
-- 10/30 23:44 [FirstSquawk] NASDAQ 100 TRIMS DECLINE TO 2.6% || S&P 500 DOWN 1.3%
-- 10/30 23:45 [DeItaone] RUSSIA'S NOVAK SAYS ATTACKS ON OIL REFINERIES WILL HAVE NEGATIVE IMPACT ON DIESEL FUEL SUPPLIES TO GLOBAL MARKET
-- 10/30 23:45 [financialjuice/FirstSquawk] Russia's Novak: Attacks on oil refineries will have negative impact on diesel fuel supplies to global market.
-- 10/30 23:46 [financialjuice] Fitch Ratings on UK budget: Broad policy continuity leaves sizeable delivery challenge
-- 10/30 23:47 [financialjuice/FirstSquawk] Russia's Novak: Russian oil production in October is higher than in September.
-- 10/30 23:48 [financialjuice] Fitch on UK budget: Fiscal consolidation plan remains much more challenging to deliver from 2027.
-- 10/30 23:48 [financialjuice] Fitch on UK budget: Continues to anticipate significant fiscal slippage against spending plans.
-- 10/30 23:48 [financialjuice] Fitch on UK budget: We see moderately more policy risk closer to next general election.
-- 10/30 23:50 [financialjuice] Russia's Novak: Russia will draw up plan for December diesel exports at the end of November
-- 10/30 23:50 [FirstSquawk] RUSSIA'S NOVAK SAYS RUSSIA WILL DRAW UP PLAN FOR DECEMBER DIESEL EXPORTS AT THE END OF NOVEMBER
-- 10/31 00:01 [financialjuice] CANADIAN BUDGET BALANCE ACTUAL -5.36B (FORECAST -, PREVIOUS -4.77B) $MACRO
-- 10/31 00:11 [DeItaone] JAPAN ASKS ANTHROPIC, OPENAI FOR MORE ACCESS TO ADVANCED MODELS - NIKKEI
-- 10/31 00:12 [FirstSquawk/DeItaone] JAPANESE GOVT PLANS TO INCLUDE STRONGER COOPERATION WITH U.S. AI DEVELOPERS IN CYBERSECURITY PACKAGE DUE OUT AS EARLY AS NEXT WEEK - NIKKEI
-- 10/31 00:12 [financialjuice] Japan asks Anthropic and OpenAI for more access to advanced models - Nikkei
-- 10/31 00:22 [FirstSquawk] RUSSIA CLAIMS STRIKE ON CARGO SHIP NEAR UKRAINE'S ODESA - IFX
-- 10/31 00:24 [DeItaone] *UKRAINE WANTS TRILATERAL TALKS IN NOV., NO DATES YET: TYKHYI
-- 10/31 00:27 [DeItaone] TECH STOCK SELLOFF: BIGGEST NAMES FALL SHARPLY FROM THEIR PEAKS Down 20% or more: 🔸 $AVGO : -31.9% since June 2, 2026 🔸 $SPCX : -31.2% since June 16, 2026 🔸 $GOOGL : -30.4% since May 13, 2026 🔸 $MU : -26.1% since June 25, 2026 🔸 $META : -21…
-- 10/31 00:32 [DeItaone] US SECRET SERVICE: INVESTIGATORS ARE WORKING WITH PRIVATE-SECTOR PARTNERS, INCLUDING CIRCLE, TO IDENTIFY, FREEZE, TRACE, & RECOVER FUNDS STOLEN FROM BINANCE
-- 10/31 00:34 [DeItaone] S SECRET SERVICE: COORDINATING WITH US ATTORNEY’S OFFICE FOR DISTRICT OF COLUMBIA & LAW ENFORCEMENT PARTNERS TO IDENTIFY CYBER CRIMINALS RESPONSIBLE
-- 10/31 00:34 [DeItaone] US SECRET SERVICE: INVESTIGATION REMAINS IN ITS EARLY STAGES, AND WE WILL PROVIDE ADDITIONAL INFORMATION AS APPROPRIATE
-- 10/31 00:43 [FirstSquawk] PEMEX 3Q NET LOSS MXN10.79B VS. LOSS MXN61.25B Y/Y
-- 10/31 00:50 [FirstSquawk] SAUDI CIVIL DEFENCE: THE DANGER HAS PASSED IN KHAMIS MUSHAIT GOVERNORATE
-- 10/31 00:57 [FirstSquawk] SAUDI-LED COALITION: INTERCEPTED AND DESTROYED A BALLISTIC MISSILE LAUNCHED BY HOUTHIS TOWARDS SOUTHERN REGION
-- 10/31 01:01 [FirstSquawk] META SETTLES SOCIAL MEDIA ADDICTION LAWSUIT AVOIDING TRIAL - NY TIMES
-- 10/31 01:04 [DeItaone] CBOE VOLATILITY INDEX RISES ABOVE 20 POINTS FOR FIRST TIME IN A WEEK
-- 10/31 01:06 [financialjuice/FirstSquawk] Fed's Daly: AI really matters for how we think about policy in near and medium term.
-- 10/31 01:10 [financialjuice] ECB's Lane: AI-related price pressures are visible, but the effect on headline inflation is limited
-- 10/31 01:11 [financialjuice] ECB's Lane: AI is already supporting euro area activity
-- 10/31 01:12 [financialjuice] Lane: AI is driving both growth and credit trends
-- 10/31 01:12 [financialjuice] Lane: Artificial intelligence could boost productivity significantly
-- 10/31 01:12 [financialjuice] Lane: AI companies are more vulnerable to monetary policy
-- 10/31 01:13 [FirstSquawk] ECB'S LANE: AI-RELATED PRICE PRESSURES ARE VISIBLE, BUT HAS LIMITED EFFECT ON HEADLINE INFLATION
-- 10/31 01:16 [FirstSquawk] ECB’S LANE: AI ADOPTION PROCESS IS STILL AT A RELATIVELY EARLY STAGE AND THE EXTENT AND TIMING OF THE ECONOMY-WIDE TRANSFORMATIVE POTENTIAL OF AI REMAIN HIGHLY UNCERTAIN.
-- 10/31 01:24 [FirstSquawk] OPENAI: WILL PUBLISH OUR FIRST REPORT IN EARLY 2027
-- 10/31 01:24 [FirstSquawk] OPENAI: COMMITTING TO LAUNCH COMMUNITY SAFETY REPORT ON VIOLENCE PREVENTION & OTHER COMMUNITY SAFETY ISSUES, EFFECTIVENESS OF OUR SAFEGUARDS
-- 10/31 01:31 [DeItaone] FED'S MUSALEM CALLS FOR INTEREST RATE HIKE SOON AS INFLATION RISKS PERSIST Fed official Alberto Musalem says the Federal Reserve will need to raise interest rates again "soon" to restore price stability. 🔸 Inflation remains too high, with r…
-- 10/31 01:31 [financialjuice] Fed's Musalem: acting earlier with rate increases reduces risk to wider economy
-- 10/31 01:31 [financialjuice] Fed's Musalem: US central bank to hike interest rates again soon
-- 10/31 01:31 [financialjuice] Fed's Musalem: gradual rate adjustments preferable to sudden moves
-- 10/31 01:31 [financialjuice] Fed’s Musalem: elevated long-term bond yields fueled by anticipated higher policy rates
-- 10/31 01:31 [financialjuice] Fed's Musalem: inflation remains elevated, unlikely to decline without central bank measures
-- 10/31 01:31 [financialjuice] Fed's Musalem: current monetary policy remains accommodative
-- 10/31 01:31 [financialjuice] Fed's Musalem: financial conditions continue to be accommodative
-- 10/31 01:31 [financialjuice] Fed’s Musalem: best move now is restoring price stability
-- 10/31 01:31 [financialjuice] Fed's Musalem: financial conditions are tighter, but only slightly
-- 10/31 01:31 [financialjuice] Fed's Musalem: wider economy and labor market robust
-- 10/31 01:31 [financialjuice] Fed's Musalem: risks remain tilted toward elevated inflation
-- 10/31 01:31 [financialjuice] Fed's Musalem: inflation expectations remain steady
-- 10/31 01:32 [financialjuice] Fed's Musalem: Q3 data confirm the underlying strength of the economy
-- 10/31 01:33 [financialjuice] CD&R pursues buyout of $40bn payment processor Global Payments - FT
-- 10/31 01:34 [FirstSquawk] CANADA, EU AGREE IN JOINT STATEMENT TO DEFINE BY 2027 SUMMIT CONCEPT OF 'EVER-CLOSER ASSOCIATION OF CANADA TO THE EU, SHORT OF FULL MEMBERSHIP'
-- 10/31 01:35 [financialjuice] Canada, EU agree in joint statement to outline by 2027 summit idea of 'ever-closer association of Canada to EU, short of full membership'
-- 10/31 01:36 [DeItaone] HOUSING AND FOOD CONSUME NEARLY HALF OF US HOUSEHOLD SPENDING — 15-YEAR HIGH Housing and food accounted for 46.9% of US household spending in 2025, the highest combined share in 15 years, according to BLS data. 🔸 Housing: 33.9% of total spe…
-- 10/31 01:44 [financialjuice] Ukraine has requested an emergency UN security council meeting.
-- 10/31 01:45 [financialjuice] Canada's PM Carney: Canada-EU talks to wrap at June EU council meetings. Canada aims to become EU's first associate member.
-- 10/31 01:45 [financialjuice] Canada and EU sign agreements on digital trade and competition
-- 10/31 01:46 [financialjuice] Canada's PM Carney: Canada and EU working towards deepest possible partnership, short of accession.
-- 10/31 01:46 [FirstSquawk] AMAZON SAID TO TAP $80 BLN SUPPLIER LOAN FACILITY IN BID TO HELP FUND AI
-- 10/31 01:47 [financialjuice/DeItaone] ❗ Anthropic may not secure investment-grade rating after IPO, Blackstone tells investors - FT
-- 10/31 01:48 [DeItaone] *ANTHROPIC EXPECTED TO RECEIVE A “HIGH” JUNK RATING: FT
-- 10/31 01:49 [FirstSquawk] BLACKSTONE SAYS ANTHROPIC MAY MISS INVESTMENT GRADE AFTER IPO - FT
-- 10/31 01:49 [FirstSquawk] NASDAQ 100 EXTENDS DROP TO 3.4%; S&P 500 ALSO DROPS, DOWN 1.7%
-- 10/31 01:50 [financialjuice] Fed's Musalem: It's really important for public to understand how central bank thinks and acts.
-- 10/31 01:51 [financialjuice] Fed's Musalem: Communications is not necessarily the same as forward guidance.
-- 10/31 01:53 [financialjuice] Fed's Musalem: Policy rules are useful for monetary policy
-- 10/31 01:56 [DeItaone] $ANT - ANTHROPIC FACES JUNK CREDIT RATING RISK DESPITE PLANNED MEGA-IPO Blackstone has warned investors that Anthropic may receive a below-investment-grade credit rating following its IPO, reversing earlier expectations, according to the Fi…
-- 10/31 01:56 [FirstSquawk] FED'S MUSALEM: COMMUNICATIONS NOT NECESSARILY THE SAME AS FORWARD GUIDANCE
-- 10/31 02:01 [financialjuice] US BAKER HUGHES TOTAL RIG COUNT ACTUAL 603 (FORECAST -, PREVIOUS 603) $MACRO
-- 10/31 02:01 [financialjuice] US BAKER HUGHES OIL RIG COUNT ACTUAL 462 (FORECAST -, PREVIOUS 460) $MACRO
-- 10/31 02:01 [FirstSquawk] US OIL RIG COUNT UP 2 TO 462 , BAKER HUGHES SAYS
-- 10/31 02:02 [FirstSquawk] US TOTAL RIG COUNT 603 , BAKER HUGHES SAYS
-- 10/31 02:12 [FirstSquawk] EU'S VON DER LEYEN: WE AGREED ON CANADA'S PARTICIPATION IN OUR SUPPORT LOAN FOR UKRAINE
-- 10/31 02:19 [FirstSquawk] CANADA PM CARNEY: ALLIANCE WITH EU WILL MAKE FINANCIAL SECTOR MORE COMPETITIVE
-- 10/31 02:20 [DeItaone] $F - FORD TARGETS 20% SALES GROWTH TO 5 MILLION VEHICLES BY 2032 Ford CEO Jim Farley is targeting 5 million annual vehicle sales by 2032, roughly 20% above current volumes, according to The Wall Street Journal. The strategy includes five ne…
-- 10/31 02:22 [financialjuice] Ford CEO aims for a 20% sales jump by 2032 - WSJ. $F
-- 10/31 02:27 [FirstSquawk] FORD TARGETS ALL-ELECTRIC PICKUP TRUCK BY 2030: WSJ
-- 10/31 02:31 [financialjuice] Fed's Logan: Fed needs at least two more quarter-point rate hikes.
-- 10/31 02:31 [financialjuice] Logan: missing a meeting doesn't alter policy direction
-- 10/31 02:31 [financialjuice] Logan: Gradual policy adjustment can lower risks of abrupt economic decline
-- 10/31 02:32 [financialjuice] Logan: ultimate goal is to keep policy moderately restrictive
-- 10/31 02:32 [financialjuice] Logan: gradual policy shift aids households, firms, investors in adapting to higher rates
-- 10/31 02:32 [financialjuice] Logan: clarifying policy rate target aids economy in adjusting, reaping benefits of a pause
-- 10/31 02:32 [financialjuice] Logan: inflation not returning to Fed's 2% target is 'unacceptable'
-- 10/31 02:32 [financialjuice] Logan: after 50 bps of rate increases, a pause would be reasonable to assess appropriate next steps
-- 10/31 02:32 [financialjuice] Logan: financial conditions are boosting the economy
-- 10/31 02:32 [financialjuice] Logan: higher market rates signal investors think monetary policy has work ahead
-- 10/31 02:32 [financialjuice] Logan: Long-term rates have climbed, but aren't as much of a drag on economy as expected
-- 10/31 02:32 [financialjuice] Logan: Economic growth robust, consumer spending steady
-- 10/31 02:32 [FirstSquawk] FED'S LOGAN: NEEDS AT LEAST TWO MORE 25BP RATE HIKES
-- 10/31 02:32 [financialjuice] Logan: Labor market is balanced, maybe tightening slightly
-- 10/31 02:42 [FirstSquawk] COCHILCO RAISED AVG COPPER PRICE FORECAST TO $6.18/LB FOR 2026, $5.95/LB FOR 2027- STATEMENT
-- 10/31 02:45 [financialjuice] ❗ Pakistan Military Spokesman: Pakistan military is ‘cautiously optimistic’ on Iran-US mediation, warns of 'powerful spoilers.
-- 10/31 02:46 [financialjuice] Pakistan military spokesman: no restriction on Iran joining Mecca joint defense pact, decision rests with three main parties
-- 10/31 02:46 [financialjuice] Pakistan military spokesman: additional forces for Saudi defense hinge on situation, political decision
-- 10/31 02:49 [financialjuice] US SEC Enforcement Director: Agency is examining AI company disclosures. Wants to ensure companies are giving investors a full picture of the risks as AI spending booms.
-- 10/31 02:55 [DeItaone] PAKISTAN CAUTIOUSLY OPTIMISTIC ABOUT US-IRAN PEACE TALKS Pakistan's military says it is "cautiously optimistic" about mediation efforts between the US and Iran, following another high-level diplomatic visit to Tehran. Army chief Asim Munir …
-- 10/31 02:57 [FirstSquawk] PAKISTAN MILITARY SPOX: PAKISTAN’S MILITARY IS 'CAUTIOUSLY OPTIMISTIC' ON IRAN-US MEDIATION, WARNS OF 'POWERFUL SPOILERS'
-- 10/31 02:57 [FirstSquawk] RUSSIA'S LAVROV, JAPAN FOREIGN MINISTER MET - IFX
-- 10/31 03:31 [financialjuice] NYMEX WTI Crude December futures settle at $104.12 a barrel, up $2.12, 2.08%.
-- 10/31 03:31 [FirstSquawk] US CRUDE OIL FUTURES SETTLE AT $104.12/BBL, UP $2.12, 2.08%
-- 10/31 03:31 [financialjuice] NYMEX Gasoline November futures settle at $3.3120 a gallon.
-- 10/31 03:31 [financialjuice] NYMEX Diesel November futures settle at $4.7905 a gallon.
-- 10/31 03:32 [financialjuice] NYMEX Natural Gas December futures settle at $2.8980/MMBtu.
-- 10/31 03:34 [financialjuice] A Qatari delegation arrived in Tehran for talks with senior Iranian officials - Press TV.
-- 10/31 03:39 [FirstSquawk] US APPEALS COURT DENIES DOJ’S RENEWED REQUEST TO TEMPORARILY BLOCK CA FROM COUNTING MAIL BALLOTS FROM 20,000 ALLEGED NONCITIZENS
-- 10/31 03:44 [financialjuice] Anthropic is in talks to lease data centre near Edmonton - Globe.
-- 10/31 03:44 [FirstSquawk] ANTHROPIC IN TALKS TO LEASE DATA CENTRE NEAR EDMONTON: GLOBE
-- 10/31 03:47 [financialjuice] Yemen Government Forces Spokesperson: The Houthis attacked Aden Airport and the Maashiq Presidential Palace Complex with ballistic missiles.
-- 10/31 03:48 [financialjuice/FirstSquawk] Brent Crude futures settle at $117.64/bbl, up $2.76, 2.4%.
-- 10/31 03:53 [financialjuice] US blockade & sanctions crippling Iran's economy - Treasury report cited by Axios
-- 10/31 03:54 [FirstSquawk] NASDAQ 100 FALLS 10% FROM OCTOBER HIGH, SET TO ENTER CORRECTION
-- 10/31 03:59 [FirstSquawk] US APPROVES POSSIBLE $2.1B PATRIOT MISSILE SALE TO UKRAINE
-- 10/31 04:04 [FirstSquawk] UKMTO: VESSEL STRUCK BY UNKNOWN PROJECTILE 40NM SOUTH OF LAVAN ISLAND, IRAN
-- 10/31 04:07 [financialjuice] UKMTO received a report of an incident 40NM south of Iran's Lavan Island.
-- 10/31 04:21 [FirstSquawk] QATARI NEGOTIATORS HOLD 12-HOUR TALKS IN TEHRAN TO UNLOCK US-IRAN DEAL - AXIOS
-- 10/31 04:26 [financialjuice] Big tech holds $3 trillion in spending commitments for the AI boom.
-- 10/31 04:29 [FirstSquawk] BIG TECH HOLDS $3 TRILLION IN SPENDING COMMITMENTS FOR A1 BOOM
-- 10/31 04:31 [financialjuice] CFTC Positions in the Week of October 27th 2026
-- 10/31 04:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: 2801.9 MLN NASDAQ 100: 2403.5 MLN DOW 30: 20.4 MLN MAG 7: 624.8 MLN $MACRO
-- 10/31 04:51 [FirstSquawk] RUSSIA VETO’S US-DRAFTED RESOLUTION ON WESTERN SAHARA THAT SCALES BACK PEACEKEEPING MISSION
-- 10/31 04:58 [financialjuice] WATCH LIVE: Trump Speaks at White House
-- 10/31 04:59 [financialjuice] Binance: Tech team targets to start resuming the withdrawal service within approximately 34 hours
-- 10/31 05:01 [financialjuice/DeItaone] Trump: Looking at Binance hack
-- 10/31 05:01 [FirstSquawk] NASDAQ .IXIC UNOFFICIALLY CLOSES DOWN 746.33 POINTS, OR 2.85 PERCENT, AT 25,438.40 DOW JONES UNOFFICIALLY CLOSES DOWN 579.15 POINTS, OR 1.11%, AT 51,763.41 S&P 500 UNOFFICIALLY CLOSES DOWN 142.25 POINTS, OR 1.84 PERCENT, AT 7,578.14
-- 10/31 05:01 [financialjuice] Trump on Binance: It was a hack.
-- 10/31 05:01 [FirstSquawk/financialjuice] TRUMP ON IRAN: THERE ARE TALKS
-- 10/31 05:02 [financialjuice] Trump: Binance says they have it under control
-- 10/31 05:02 [financialjuice] Trump on Iran: we have time, frankly
-- 10/31 05:02 [financialjuice] Trump: Looking at whether Binance hack is by North Korea
-- 10/31 05:03 [financialjuice] IRGC: 4th tanker explodes after hitting mine in Strait of Hormuz - IRIB
-- 10/31 05:05 [financialjuice] IRGC: Tanker ignored warnings against using 'unauthorised route’ through Strait of Hormuz
-- 10/31 05:05 [financialjuice] Trump ends remarks at the White House
-- 10/31 05:07 [financialjuice] ❗ Intel shares plunge 29% for worst day in at least four decades
-- 10/31 05:10 [FirstSquawk] IRGC: FOURTH TANKER EXPLODES AFTER HITTING MINE IN STRAIT OF HORMUZ - IRIB
-- 10/31 05:10 [financialjuice] Yemen's Houthis deny launching attacks against Saudi Arabia's Medina - Statement
-- 10/31 05:16 [financialjuice] US bank deposits fell to $19.771 trln from $19.803 trln in prior week
-- 10/31 05:18 [financialjuice] UKMTO: Received a time-late report of an incident in the Strait of Hormuz. Crude tanker hit by projectile transiting Hormuz strait
-- 10/31 05:35 [financialjuice] Monday FX Option Expiries
-- 10/31 05:37 [financialjuice] Week Ahead: Economic Indicators 2nd – 6th November (US)
 - 10/31 06:05 [financialjuice] S&P says Meta’s capacity to monetize AI investments is more constrained than peers
 - 10/31 06:07 [FirstSquawk] META OUTLOOK REVISED TO NEGATIVE BY S&P
 - 10/31 06:08 [financialjuice] S&P: Uncertainty over Meta's future capital expenditures and ambitious multiyear AI investments casts doubt on expected spending cuts
@@ -235,3 +95,62 @@
 - 10/31 11:32 [FirstSquawk] BofA Expects Anti-Money Laundering Remediation Costs to Have Limited Impact on Future Expenses
 - 10/31 11:34 [FirstSquawk] Trump Says He Will Consider Nicki Minaj for White House Press Secretary Position - LeadingReport
 - 10/31 11:42 [FirstSquawk] Russia Says US Sanctions and Arms Supplies to Ukraine Continue to Hinder Bilateral Relations, Lavrov Says
+- 10/31 11:47 [FirstSquawk] Russia’s Lavrov Says Zelenskiy’s Long-Range Strike Comments Undermine Prospects for Peace Talks
+- 10/31 11:51 [FirstSquawk] Russia Reiterates Ukraine Settlement Stance, Says It Cannot Accept Military Threats, Lavrov Says
+- 10/31 11:56 [FirstSquawk] Fitch Signals Early Review of France’s Rating Amid Recent Developments
+- 10/31 12:01 [FirstSquawk] US, South Korea and Japan Reiterate Commitment to North Korea’s Complete Denuclearisation
+- 10/31 12:04 [FirstSquawk] KCNA: International Sanctions Cannot Force North Korea to Abandon Its Nuclear Status
+- 10/31 12:10 [FirstSquawk] Fitch Warns France Has Limited Capacity to Cushion Economy Against Renewed Energy Price Shocks
+- 10/31 12:18 [FirstSquawk] KCNA: International Sanctions Fail to Influence North Korea
+- 10/31 12:24 [FirstSquawk] Fitch Flags Uncertainty Over France’s Post-2027 Fiscal Consolidation Plans
+- 10/31 12:24 [FirstSquawk] France’s Divided Political Landscape Complicates Implementation of Fiscal Plans, Fitch Says
+- 10/31 12:27 [FirstSquawk] Britain Extends Invitation to Poland for 2027 G20 Meetings, Polish Foreign Minister Says
+- 10/31 12:36 [FirstSquawk] Poland Lobbies for Permanent G20 Seat After US Initiative, Sikorski Says
+- 10/31 12:36 [FirstSquawk] Fitch Cites Economic Slowdown, Higher Borrowing Costs and Wider Deficit in France Outlook Revision
+- 10/31 12:41 [FirstSquawk] Slovakia Retains 'A-' Rating as Fitch Reaffirms Stable Outlook
+- 10/31 12:52 [FirstSquawk] Fitch Reconfirms Abu Dhabi’s 'AA' Sovereign Rating with Stable Outlook
+- 10/31 12:53 [FirstSquawk] Fitch Affirms France at 'A+' While Revising Outlook to Negative
+- 10/31 12:54 [FirstSquawk] Alaska Election Dispute Escalates as Authorities Seek Separation of Ballots for Two Sullivan Candidates
+- 10/31 13:02 [FirstSquawk] Russia Must Secure Fair Peace in Ukraine to Restore Energy Trade with Europe, Sikorski Says
+- 10/31 13:03 [FirstSquawk] Georgia’s Stronger Reserves and Prospects for Lower Current Account Deficits Support Fitch Outlook Revision
+- 10/31 13:08 [FirstSquawk] Fitch Reaffirms Georgia’s 'BB' Sovereign Rating, Changes Outlook to Positive
+- 10/31 13:12 [FirstSquawk] Poland Urges Black Sea Ceasefire to Facilitate Food Supplies from Ukraine and Russia
+- 10/31 13:21 [FirstSquawk] Food Security, Maritime Navigation and Energy Dominate G20 Discussions, Poland’s Sikorski Says
+- 10/31 13:26 [FirstSquawk] Meta Expected to Fund 2028 Free Cash Flow Deficit Solely Through Borrowing, S&P Says
+- 10/31 13:34 [FirstSquawk] Meta’s High Capital Spending Likely to Weigh on Free Cash Flow Beyond 2028, S&P Says
+- 10/31 13:34 [FirstSquawk] Qatar’s Strong Liquidity Position Expected to Mitigate Impact of Regional Conflict, S&P Says
+- 10/31 13:34 [FirstSquawk] China’s Manufacturing Downturn Deepens with Third Monthly Contraction in Four Months
+- 10/31 13:45 [FirstSquawk] Qatar Retains 'AA/A-1+' Ratings as S&P Reaffirms Stable Outlook
+- 10/31 13:50 [FirstSquawk] Meta’s Negative Outlook Reflects Uncertainty Over Duration of High Capex and Cash Flow Pressures, S&P Says
+- 10/31 13:50 [FirstSquawk] Meta Platforms’ Outlook Cut to Negative by S&P Amid Uncertainty Over Capital Spending
+- 10/31 13:57 [FirstSquawk] Brazil’s Raízen Explores Investment Options for Fuels Business, Including Potential IPO
+- 10/31 14:08 [FirstSquawk] Global Monetary Policy Changes May Put Emerging Market Credit Resilience to the Test, Fitch Says
+- 10/31 14:08 [FirstSquawk] UKMTO Confirms Crude Tanker Incident Following Unknown Projectile Strike in Strait of Hormuz
+- 10/31 14:09 [FirstSquawk] Pennsylvania Records 268 Measles Hospitalizations Amid Ongoing Outbreak
+- 10/31 14:15 [FirstSquawk] Chinese Semiconductor Expert Advocates Joint AI Ethics Framework with US Rivals - SCMP
+- 10/31 14:19 [FirstSquawk] North Korea’s Kim Calls for Drone Manufacturing Surge Amid Military Push - SCMP
+- 10/31 14:30 [FirstSquawk] Christine Lagarde Faces Uncertain Future as Defender of the Globalist Order - WSJ
+- 10/31 14:39 [FirstSquawk] US Moves to Deport Certain Afghan Nationals Under Trump Administration - RTRS
+- 10/31 14:40 [financialjuice] Saudi-led coalition: air defences intercepted and destroyed drone in Riyadh region
+- 10/31 14:42 [FirstSquawk] SAUDI-LED COALITION SAYS INTERCEPTED DRONE IN RIYADH
+- 10/31 14:43 [FirstSquawk] SAUDI-LED COALITION SAYS DEBRIS FELL IN RIYADH FROM INTERCEPTION
+- 10/31 14:57 [FirstSquawk] Drone Intercepted and Destroyed by Saudi Air Defences in Riyadh Region
+- 10/31 15:13 [DeItaone] BREAKING: OpenAI has slashed its funding target by -$10 billion and its valuation by -$150 billion amid this week's technology stock selloff, per FT. OpenAI is now seeking to raise $20 billion at a $1.25 trillion valuation, down from $30 bi…
+- 10/31 15:14 [FirstSquawk] Alphabet's Google Said To Be In Talks With DoD For Work On Golden Dome $GOOGL
+- 10/31 15:29 [FirstSquawk] Trump: They say "We're going to impeach Trump for trying to stop Iran from having a nuclear weapon." I said, "No, no, take the word trying out. For stopping Iran. We stopped them."
+- 10/31 15:30 [FirstSquawk] Trump on Iran: I want you to remember something very important. America did not start the war with Iran.
+- 10/31 15:30 [FirstSquawk] Trump on Iran: They had a lovely navy, 159 ships. I was a little angry at my people. I said, "Why didn't you save the damn ships? They were pretty good."
+- 10/31 15:30 [FirstSquawk] Equity loan scheme will struggle to deliver ‘the homes buyers want’
+- 10/31 15:31 [FirstSquawk] Bank of England explores easing key limit on riskier mortgage lending
+- 10/31 15:31 [FirstSquawk] Trump called out Big Oil profits. Here’s how much their refining earnings have surged since
+- 10/31 15:31 [FirstSquawk] Russian overnight strikes smash Ukraine's military infrastructure – Defense Ministry
+- 10/31 15:32 [FirstSquawk] Qatari mediators held more than 12 hours of talks in Tehran on Friday to revive U.S.-Iran negotiations and avert a potential U.S.-Israeli military operation after the midterms
+- 10/31 15:57 [financialjuice] Two killed, five hurt in Ukrainian drone strike on Russia's Bryansk region, governor says
+- 10/31 16:00 [FirstSquawk] TWO PEOPLE KILLED, FIVE INJURED IN UKRAINIAN DRONE ATTACK ON RUSSIA'S BRYANSK REGION, SAYS GOVERNOR
+- 10/31 16:09 [financialjuice] Saudi civil defense warns of potential threat in Jizan city
+- 10/31 16:10 [FirstSquawk] SAUDI CIVIL DEFENSE SAYS ALERTS OF POTENTIAL DANGER IN JIZAN CITY
+- 10/31 16:11 [financialjuice/FirstSquawk] Saudi civil defense: danger has passed in Jizan city
+- 10/31 16:45 [financialjuice] Manama - Egyptian foreign minister: extremely concerned new escalation round will be more devastating and significantly impactful
+- 10/31 16:46 [FirstSquawk] MANAMA- EGYPTIAN FOREIGN MINISTER SAYS EXTREMELY WORRIED THAT A NEW ROUND OF ESCALATION WILL BE MORE DESTRUCTIVE AND HAVE MAJOR IMPACT
+- 10/31 16:59 [financialjuice] Three planes carrying evacuated residents from Russian-controlled Oleshky in Ukraine reach Belarus, Belta news agency reports
+- 10/31 17:01 [FirstSquawk] THREE PLANES CARRYING EVACUATED RESIDENTS FROM RUSSIAN-CONTROLLED OLESHKY IN UKRAINE ARRIVE IN BELARUS- BELTA NEWS AGENCY REPORTS
