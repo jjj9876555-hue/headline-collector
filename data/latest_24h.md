@@ -7,127 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-10-31 23:55 JST／対象: 10/30 23:55 〜 10/31 23:55 JST（時刻はすべて日本時間）
+生成: 2026-11-01 04:12 JST／対象: 10/31 04:12 〜 11/01 04:12 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 36 | 10/31 00:11 | 10/31 23:40 | ⚠ 458分（07:34→15:13） |
-| FirstSquawk | 185 | 10/31 00:12 | 10/31 23:44 | ⚠ 183分（06:07→09:11） |
-| financialjuice | 136 | 10/31 00:01 | 10/31 22:38 | ⚠ 247分（10:32→14:40） |
+| DeItaone | 25 | 10/31 05:11 | 11/01 03:53 | ⚠ 458分（07:34→15:13） |
+| FirstSquawk | 196 | 10/31 04:21 | 11/01 03:23 | ⚠ 183分（06:07→09:11） |
+| financialjuice | 105 | 10/31 04:26 | 11/01 04:01 | ⚠ 247分（10:32→14:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 345 行（統合前 360 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 308 行（統合前 327 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/31 00:01 [financialjuice] CANADIAN BUDGET BALANCE ACTUAL -5.36B (FORECAST -, PREVIOUS -4.77B) $MACRO
-- 10/31 00:11 [DeItaone] JAPAN ASKS ANTHROPIC, OPENAI FOR MORE ACCESS TO ADVANCED MODELS - NIKKEI
-- 10/31 00:12 [FirstSquawk/DeItaone] JAPANESE GOVT PLANS TO INCLUDE STRONGER COOPERATION WITH U.S. AI DEVELOPERS IN CYBERSECURITY PACKAGE DUE OUT AS EARLY AS NEXT WEEK - NIKKEI
-- 10/31 00:12 [financialjuice] Japan asks Anthropic and OpenAI for more access to advanced models - Nikkei
-- 10/31 00:22 [FirstSquawk] RUSSIA CLAIMS STRIKE ON CARGO SHIP NEAR UKRAINE'S ODESA - IFX
-- 10/31 00:24 [DeItaone] *UKRAINE WANTS TRILATERAL TALKS IN NOV., NO DATES YET: TYKHYI
-- 10/31 00:27 [DeItaone] TECH STOCK SELLOFF: BIGGEST NAMES FALL SHARPLY FROM THEIR PEAKS Down 20% or more: 🔸 $AVGO : -31.9% since June 2, 2026 🔸 $SPCX : -31.2% since June 16, 2026 🔸 $GOOGL : -30.4% since May 13, 2026 🔸 $MU : -26.1% since June 25, 2026 🔸 $META : -21…
-- 10/31 00:32 [DeItaone] US SECRET SERVICE: INVESTIGATORS ARE WORKING WITH PRIVATE-SECTOR PARTNERS, INCLUDING CIRCLE, TO IDENTIFY, FREEZE, TRACE, & RECOVER FUNDS STOLEN FROM BINANCE
-- 10/31 00:34 [DeItaone] S SECRET SERVICE: COORDINATING WITH US ATTORNEY’S OFFICE FOR DISTRICT OF COLUMBIA & LAW ENFORCEMENT PARTNERS TO IDENTIFY CYBER CRIMINALS RESPONSIBLE
-- 10/31 00:34 [DeItaone] US SECRET SERVICE: INVESTIGATION REMAINS IN ITS EARLY STAGES, AND WE WILL PROVIDE ADDITIONAL INFORMATION AS APPROPRIATE
-- 10/31 00:43 [FirstSquawk] PEMEX 3Q NET LOSS MXN10.79B VS. LOSS MXN61.25B Y/Y
-- 10/31 00:50 [FirstSquawk] SAUDI CIVIL DEFENCE: THE DANGER HAS PASSED IN KHAMIS MUSHAIT GOVERNORATE
-- 10/31 00:57 [FirstSquawk] SAUDI-LED COALITION: INTERCEPTED AND DESTROYED A BALLISTIC MISSILE LAUNCHED BY HOUTHIS TOWARDS SOUTHERN REGION
-- 10/31 01:01 [FirstSquawk] META SETTLES SOCIAL MEDIA ADDICTION LAWSUIT AVOIDING TRIAL - NY TIMES
-- 10/31 01:04 [DeItaone] CBOE VOLATILITY INDEX RISES ABOVE 20 POINTS FOR FIRST TIME IN A WEEK
-- 10/31 01:06 [financialjuice/FirstSquawk] Fed's Daly: AI really matters for how we think about policy in near and medium term.
-- 10/31 01:10 [financialjuice] ECB's Lane: AI-related price pressures are visible, but the effect on headline inflation is limited
-- 10/31 01:11 [financialjuice] ECB's Lane: AI is already supporting euro area activity
-- 10/31 01:12 [financialjuice] Lane: AI is driving both growth and credit trends
-- 10/31 01:12 [financialjuice] Lane: Artificial intelligence could boost productivity significantly
-- 10/31 01:12 [financialjuice] Lane: AI companies are more vulnerable to monetary policy
-- 10/31 01:13 [FirstSquawk] ECB'S LANE: AI-RELATED PRICE PRESSURES ARE VISIBLE, BUT HAS LIMITED EFFECT ON HEADLINE INFLATION
-- 10/31 01:16 [FirstSquawk] ECB’S LANE: AI ADOPTION PROCESS IS STILL AT A RELATIVELY EARLY STAGE AND THE EXTENT AND TIMING OF THE ECONOMY-WIDE TRANSFORMATIVE POTENTIAL OF AI REMAIN HIGHLY UNCERTAIN.
-- 10/31 01:24 [FirstSquawk] OPENAI: WILL PUBLISH OUR FIRST REPORT IN EARLY 2027
-- 10/31 01:24 [FirstSquawk] OPENAI: COMMITTING TO LAUNCH COMMUNITY SAFETY REPORT ON VIOLENCE PREVENTION & OTHER COMMUNITY SAFETY ISSUES, EFFECTIVENESS OF OUR SAFEGUARDS
-- 10/31 01:31 [DeItaone] FED'S MUSALEM CALLS FOR INTEREST RATE HIKE SOON AS INFLATION RISKS PERSIST Fed official Alberto Musalem says the Federal Reserve will need to raise interest rates again "soon" to restore price stability. 🔸 Inflation remains too high, with r…
-- 10/31 01:31 [financialjuice] Fed's Musalem: acting earlier with rate increases reduces risk to wider economy
-- 10/31 01:31 [financialjuice] Fed's Musalem: US central bank to hike interest rates again soon
-- 10/31 01:31 [financialjuice] Fed's Musalem: gradual rate adjustments preferable to sudden moves
-- 10/31 01:31 [financialjuice] Fed’s Musalem: elevated long-term bond yields fueled by anticipated higher policy rates
-- 10/31 01:31 [financialjuice] Fed's Musalem: inflation remains elevated, unlikely to decline without central bank measures
-- 10/31 01:31 [financialjuice] Fed's Musalem: current monetary policy remains accommodative
-- 10/31 01:31 [financialjuice] Fed's Musalem: financial conditions continue to be accommodative
-- 10/31 01:31 [financialjuice] Fed’s Musalem: best move now is restoring price stability
-- 10/31 01:31 [financialjuice] Fed's Musalem: financial conditions are tighter, but only slightly
-- 10/31 01:31 [financialjuice] Fed's Musalem: wider economy and labor market robust
-- 10/31 01:31 [financialjuice] Fed's Musalem: risks remain tilted toward elevated inflation
-- 10/31 01:31 [financialjuice] Fed's Musalem: inflation expectations remain steady
-- 10/31 01:32 [financialjuice] Fed's Musalem: Q3 data confirm the underlying strength of the economy
-- 10/31 01:33 [financialjuice] CD&R pursues buyout of $40bn payment processor Global Payments - FT
-- 10/31 01:34 [FirstSquawk] CANADA, EU AGREE IN JOINT STATEMENT TO DEFINE BY 2027 SUMMIT CONCEPT OF 'EVER-CLOSER ASSOCIATION OF CANADA TO THE EU, SHORT OF FULL MEMBERSHIP'
-- 10/31 01:35 [financialjuice] Canada, EU agree in joint statement to outline by 2027 summit idea of 'ever-closer association of Canada to EU, short of full membership'
-- 10/31 01:36 [DeItaone] HOUSING AND FOOD CONSUME NEARLY HALF OF US HOUSEHOLD SPENDING — 15-YEAR HIGH Housing and food accounted for 46.9% of US household spending in 2025, the highest combined share in 15 years, according to BLS data. 🔸 Housing: 33.9% of total spe…
-- 10/31 01:44 [financialjuice] Ukraine has requested an emergency UN security council meeting.
-- 10/31 01:45 [financialjuice] Canada's PM Carney: Canada-EU talks to wrap at June EU council meetings. Canada aims to become EU's first associate member.
-- 10/31 01:45 [financialjuice] Canada and EU sign agreements on digital trade and competition
-- 10/31 01:46 [financialjuice] Canada's PM Carney: Canada and EU working towards deepest possible partnership, short of accession.
-- 10/31 01:46 [FirstSquawk] AMAZON SAID TO TAP $80 BLN SUPPLIER LOAN FACILITY IN BID TO HELP FUND AI
-- 10/31 01:47 [financialjuice/DeItaone] ❗ Anthropic may not secure investment-grade rating after IPO, Blackstone tells investors - FT
-- 10/31 01:48 [DeItaone] *ANTHROPIC EXPECTED TO RECEIVE A “HIGH” JUNK RATING: FT
-- 10/31 01:49 [FirstSquawk] BLACKSTONE SAYS ANTHROPIC MAY MISS INVESTMENT GRADE AFTER IPO - FT
-- 10/31 01:49 [FirstSquawk] NASDAQ 100 EXTENDS DROP TO 3.4%; S&P 500 ALSO DROPS, DOWN 1.7%
-- 10/31 01:50 [financialjuice] Fed's Musalem: It's really important for public to understand how central bank thinks and acts.
-- 10/31 01:51 [financialjuice] Fed's Musalem: Communications is not necessarily the same as forward guidance.
-- 10/31 01:53 [financialjuice] Fed's Musalem: Policy rules are useful for monetary policy
-- 10/31 01:56 [DeItaone] $ANT - ANTHROPIC FACES JUNK CREDIT RATING RISK DESPITE PLANNED MEGA-IPO Blackstone has warned investors that Anthropic may receive a below-investment-grade credit rating following its IPO, reversing earlier expectations, according to the Fi…
-- 10/31 01:56 [FirstSquawk] FED'S MUSALEM: COMMUNICATIONS NOT NECESSARILY THE SAME AS FORWARD GUIDANCE
-- 10/31 02:01 [financialjuice] US BAKER HUGHES TOTAL RIG COUNT ACTUAL 603 (FORECAST -, PREVIOUS 603) $MACRO
-- 10/31 02:01 [financialjuice] US BAKER HUGHES OIL RIG COUNT ACTUAL 462 (FORECAST -, PREVIOUS 460) $MACRO
-- 10/31 02:01 [FirstSquawk] US OIL RIG COUNT UP 2 TO 462 , BAKER HUGHES SAYS
-- 10/31 02:02 [FirstSquawk] US TOTAL RIG COUNT 603 , BAKER HUGHES SAYS
-- 10/31 02:12 [FirstSquawk] EU'S VON DER LEYEN: WE AGREED ON CANADA'S PARTICIPATION IN OUR SUPPORT LOAN FOR UKRAINE
-- 10/31 02:19 [FirstSquawk] CANADA PM CARNEY: ALLIANCE WITH EU WILL MAKE FINANCIAL SECTOR MORE COMPETITIVE
-- 10/31 02:20 [DeItaone] $F - FORD TARGETS 20% SALES GROWTH TO 5 MILLION VEHICLES BY 2032 Ford CEO Jim Farley is targeting 5 million annual vehicle sales by 2032, roughly 20% above current volumes, according to The Wall Street Journal. The strategy includes five ne…
-- 10/31 02:22 [financialjuice] Ford CEO aims for a 20% sales jump by 2032 - WSJ. $F
-- 10/31 02:27 [FirstSquawk] FORD TARGETS ALL-ELECTRIC PICKUP TRUCK BY 2030: WSJ
-- 10/31 02:31 [financialjuice] Fed's Logan: Fed needs at least two more quarter-point rate hikes.
-- 10/31 02:31 [financialjuice] Logan: missing a meeting doesn't alter policy direction
-- 10/31 02:31 [financialjuice] Logan: Gradual policy adjustment can lower risks of abrupt economic decline
-- 10/31 02:32 [financialjuice] Logan: ultimate goal is to keep policy moderately restrictive
-- 10/31 02:32 [financialjuice] Logan: gradual policy shift aids households, firms, investors in adapting to higher rates
-- 10/31 02:32 [financialjuice] Logan: clarifying policy rate target aids economy in adjusting, reaping benefits of a pause
-- 10/31 02:32 [financialjuice] Logan: inflation not returning to Fed's 2% target is 'unacceptable'
-- 10/31 02:32 [financialjuice] Logan: after 50 bps of rate increases, a pause would be reasonable to assess appropriate next steps
-- 10/31 02:32 [financialjuice] Logan: financial conditions are boosting the economy
-- 10/31 02:32 [financialjuice] Logan: higher market rates signal investors think monetary policy has work ahead
-- 10/31 02:32 [financialjuice] Logan: Long-term rates have climbed, but aren't as much of a drag on economy as expected
-- 10/31 02:32 [financialjuice] Logan: Economic growth robust, consumer spending steady
-- 10/31 02:32 [FirstSquawk] FED'S LOGAN: NEEDS AT LEAST TWO MORE 25BP RATE HIKES
-- 10/31 02:32 [financialjuice] Logan: Labor market is balanced, maybe tightening slightly
-- 10/31 02:42 [FirstSquawk] COCHILCO RAISED AVG COPPER PRICE FORECAST TO $6.18/LB FOR 2026, $5.95/LB FOR 2027- STATEMENT
-- 10/31 02:45 [financialjuice] ❗ Pakistan Military Spokesman: Pakistan military is ‘cautiously optimistic’ on Iran-US mediation, warns of 'powerful spoilers.
-- 10/31 02:46 [financialjuice] Pakistan military spokesman: no restriction on Iran joining Mecca joint defense pact, decision rests with three main parties
-- 10/31 02:46 [financialjuice] Pakistan military spokesman: additional forces for Saudi defense hinge on situation, political decision
-- 10/31 02:49 [financialjuice] US SEC Enforcement Director: Agency is examining AI company disclosures. Wants to ensure companies are giving investors a full picture of the risks as AI spending booms.
-- 10/31 02:55 [DeItaone] PAKISTAN CAUTIOUSLY OPTIMISTIC ABOUT US-IRAN PEACE TALKS Pakistan's military says it is "cautiously optimistic" about mediation efforts between the US and Iran, following another high-level diplomatic visit to Tehran. Army chief Asim Munir …
-- 10/31 02:57 [FirstSquawk] PAKISTAN MILITARY SPOX: PAKISTAN’S MILITARY IS 'CAUTIOUSLY OPTIMISTIC' ON IRAN-US MEDIATION, WARNS OF 'POWERFUL SPOILERS'
-- 10/31 02:57 [FirstSquawk] RUSSIA'S LAVROV, JAPAN FOREIGN MINISTER MET - IFX
-- 10/31 03:31 [financialjuice] NYMEX WTI Crude December futures settle at $104.12 a barrel, up $2.12, 2.08%.
-- 10/31 03:31 [FirstSquawk] US CRUDE OIL FUTURES SETTLE AT $104.12/BBL, UP $2.12, 2.08%
-- 10/31 03:31 [financialjuice] NYMEX Gasoline November futures settle at $3.3120 a gallon.
-- 10/31 03:31 [financialjuice] NYMEX Diesel November futures settle at $4.7905 a gallon.
-- 10/31 03:32 [financialjuice] NYMEX Natural Gas December futures settle at $2.8980/MMBtu.
-- 10/31 03:34 [financialjuice] A Qatari delegation arrived in Tehran for talks with senior Iranian officials - Press TV.
-- 10/31 03:39 [FirstSquawk] US APPEALS COURT DENIES DOJ’S RENEWED REQUEST TO TEMPORARILY BLOCK CA FROM COUNTING MAIL BALLOTS FROM 20,000 ALLEGED NONCITIZENS
-- 10/31 03:44 [financialjuice] Anthropic is in talks to lease data centre near Edmonton - Globe.
-- 10/31 03:44 [FirstSquawk] ANTHROPIC IN TALKS TO LEASE DATA CENTRE NEAR EDMONTON: GLOBE
-- 10/31 03:47 [financialjuice] Yemen Government Forces Spokesperson: The Houthis attacked Aden Airport and the Maashiq Presidential Palace Complex with ballistic missiles.
-- 10/31 03:48 [financialjuice/FirstSquawk] Brent Crude futures settle at $117.64/bbl, up $2.76, 2.4%.
-- 10/31 03:53 [financialjuice] US blockade & sanctions crippling Iran's economy - Treasury report cited by Axios
-- 10/31 03:54 [FirstSquawk] NASDAQ 100 FALLS 10% FROM OCTOBER HIGH, SET TO ENTER CORRECTION
-- 10/31 03:59 [FirstSquawk] US APPROVES POSSIBLE $2.1B PATRIOT MISSILE SALE TO UKRAINE
-- 10/31 04:04 [FirstSquawk] UKMTO: VESSEL STRUCK BY UNKNOWN PROJECTILE 40NM SOUTH OF LAVAN ISLAND, IRAN
-- 10/31 04:07 [financialjuice] UKMTO received a report of an incident 40NM south of Iran's Lavan Island.
 - 10/31 04:21 [FirstSquawk] QATARI NEGOTIATORS HOLD 12-HOUR TALKS IN TEHRAN TO UNLOCK US-IRAN DEAL - AXIOS
 - 10/31 04:26 [financialjuice] Big tech holds $3 trillion in spending commitments for the AI boom.
 - 10/31 04:29 [FirstSquawk] BIG TECH HOLDS $3 TRILLION IN SPENDING COMMITMENTS FOR A1 BOOM
@@ -362,10 +258,77 @@
 - 10/31 22:40 [FirstSquawk] IRAN'S ARMED FORCES CHIEF: FORCES READY TO RESPOND TO US, ISRAELI 'ENEMIES WITH NO GEOGRAPHIC LIMITS'
 - 10/31 22:41 [FirstSquawk] IRAN'S ARMED FORCES CHIEF: MILITARY HAS DRAWN UP NEW LIST OF US AND ISRAELI TARGETS, ASSETS ACROSS WIDER AREA
 - 10/31 23:38 [DeItaone] BINANCE ON HACK - 90% OF STOLEN ASSETS REPLENISHED
-- 10/31 23:39 [DeItaone] BINANCE: ALL BTC, ETH, USDT, BNB, SOL, USDC, XRP, USD1, RLUSD, AND ZEC ARE FULLY BACKED 100%
+- 10/31 23:39 [DeItaone/FirstSquawk] BINANCE: ALL BTC, ETH, USDT, BNB, SOL, USDC, XRP, USD1, RLUSD, AND ZEC ARE FULLY BACKED 100%
 - 10/31 23:39 [DeItaone] BINANCE ON HACK: WILL ABSORB THE FINANCIAL IMPACT OF THESE STOLEN FUNDS, NOT OUR USERS
-- 10/31 23:39 [DeItaone] BINANCE: PARTIAL DEPLOYMENT OF THE SECURE ASSET FUND FOR USERS (SAFU) EXPECTED TO HAPPEN OVER THE NEXT 24 HOURS
+- 10/31 23:39 [DeItaone/FirstSquawk] BINANCE: PARTIAL DEPLOYMENT OF THE SECURE ASSET FUND FOR USERS (SAFU) EXPECTED TO HAPPEN OVER THE NEXT 24 HOURS
 - 10/31 23:40 [DeItaone] BINANCE ON HACK: WE REMAIN ON TRACK TO REOPEN WITHDRAWALS WITHIN OUR PREVIOUSLY STATED TIMEFRAME (ON SUNDAY, 2026-11-01)
 - 10/31 23:43 [FirstSquawk] French Interior Ministry: Around 15,000 the number of demonstrators today in various parts of the country
 - 10/31 23:43 [FirstSquawk] Jordanian Public Security: Seizure of hot air balloons carrying firearms in Karak Governorate, which were smuggled into Jordan
 - 10/31 23:44 [FirstSquawk] Yemeni Government Forces: We carried out 1119 operations in the past hours targeting leaders, gatherings, and reinforcements of the Houthi militia
+- 10/31 23:55 [financialjuice/FirstSquawk] Algeria regrets un's decision not to extend Western Sahara mission mandate: foreign ministry
+- 10/31 23:57 [financialjuice/FirstSquawk] Algeria: UN Security Council draft on Western Sahara favors Morocco, sidelines Polisario Front - Foreign Ministry
+- 11/01 00:03 [FirstSquawk] Iran warns it will retaliate without ‘geographical limitations’ if attacked - FT
+- 11/01 00:03 [FirstSquawk] Investors trim growth bets over fears of US economy’s AI exposure - FT
+- 11/01 00:05 [DeItaone] RUSSIA'S FSB: INFORMATION HAS BEEN RECEIVED FROM US REGARDING PLANS FOR A TERRORIST ATTACK IN MOSCOW
+- 11/01 00:05 [FirstSquawk] Weekend markets update: #DAX 25806 +0.10% #DOW 51821 +0.06% #NASDAQ 28447 +0.16% #FTSE 10721 -0.01% #HANGSENG 23398 +0.02% #EURUSD 11150 -0.08% #GOLD 3885 +0.25% #USOIL 10258 +0.22%
+- 11/01 00:06 [FirstSquawk] Bank of America says buy these stocks ahead of earnings before it's too late - CNBC
+- 11/01 00:06 [FirstSquawk] Binance’s $6.3 billion hack raises questions about crypto wallet safety - CNBC
+- 11/01 00:07 [FirstSquawk] Trump promised to slash energy costs — but gasoline, diesel and jet fuel all soared instead - CNBC
+- 11/01 00:07 [FirstSquawk] Automakers like Rivian and Ford are ‘democratizing 3D printing’ to reduce costs and increase speed - CNBC
+- 11/01 00:18 [financialjuice/FirstSquawk] ❗ Russia's FSB: Information has been received from the US regarding plans for a terrorist attack in Moscow - RIA
+- 11/01 01:01 [financialjuice/FirstSquawk] Turkey’s President Erdogan: discussed navigation safety in Black Sea with Ukraine’s Zelenskiy during meeting
+- 11/01 01:01 [FirstSquawk] "AFP": The US Embassy says it warned Russian authorities of a "threat" of an attack in Moscow
+- 11/01 01:02 [financialjuice/FirstSquawk] Turkey’s President Erdogan: assaults on commercial ships in Black Sea unacceptable regardless of perpetrator
+- 11/01 01:02 [financialjuice/FirstSquawk] Meta builds humanoid prototype with Chinese startup to accelerate robotics drive - The Information
+- 11/01 01:03 [financialjuice/FirstSquawk] Meta and Fourier constructed the roughly 106-pound humanoid known as Max in just three months: The Information
+- 11/01 01:07 [financialjuice/FirstSquawk] Istanbul: Zelenskiy discusses upcoming meeting of US, Ukraine, Russian peace negotiators with Turkey's Erdogan
+- 11/01 01:15 [financialjuice] Turnout for French protests reached 320,000 nationwide, 70,000 in Paris: Interior Ministry
+- 11/01 01:24 [financialjuice] US Secretary of State Rubio: to announce soon a quad leaders summit in Manila next month
+- 11/01 01:28 [financialjuice] US Secretary of State Rubio: G20 foreign ministers agree on importance of food security, critical mineral supply chains and navigation freedom
+- 11/01 01:29 [financialjuice] US Secretary of State Rubio: no known timeframe for Qatar-led talks
+- 11/01 01:30 [financialjuice] US Secretary of State Rubio: US open to diplomatic resolution of Iran conflict
+- 11/01 01:32 [financialjuice] US Secretary of State Rubio: India, Turkey propose plans to resume grain shipments in Black Sea
+- 11/01 01:34 [financialjuice] US Secretary of State Rubio: international community shows rising interest in limited Black Sea ceasefire
+- 11/01 01:34 [financialjuice] OPEC+ agrees in principle to maintain production targets in December, source says
+- 11/01 01:36 [financialjuice] US Secretary of State Rubio: hopes quad leaders can unveil more initiatives at November meeting
+- 11/01 01:37 [financialjuice] US Secretary of State Rubio: Trump yet to decide on military action against Iran
+- 11/01 01:39 [financialjuice] US Secretary of State Rubio: might consider inviting Zelenskiy to G20 leaders summit in December, but decision rests with President Trump
+- 11/01 01:39 [financialjuice] US Secretary of State Rubio: Zelenskiy invite possible if 'something positive' results from attending G20 summit
+- 11/01 01:40 [FirstSquawk] AFP on the French police: Nearly 70,000 people are demonstrating in Paris
+- 11/01 01:41 [FirstSquawk] Zelensky says he discussed with Erdogan the anticipated meeting of peace negotiators from the United States, Ukraine, and Russia.
+- 11/01 01:41 [FirstSquawk] French Interior Ministry: The number of participants in the protests reached 320 thousand people nationwide.
+- 11/01 01:41 [FirstSquawk] France Press: Clashes erupt between police and protesters in Paris
+- 11/01 01:41 [FirstSquawk] Rubio: G20 foreign ministers agreed on the importance of food security, critical mineral supply chains, and freedom of navigation
+- 11/01 01:41 [FirstSquawk] Rubio: The United States is open to a diplomatic solution for the war with Iran
+- 11/01 01:41 [financialjuice] Indian govt releases tax devolution of 1.09 trillion rupees to states as advance instalment
+- 11/01 01:41 [FirstSquawk] Rubio on Iran: I don’t know if there’s a timeline for the talks led by Qatar
+- 11/01 01:42 [FirstSquawk] Rubio: There is growing interest from the international community in a limited ceasefire in the Black Sea
+- 11/01 01:42 [FirstSquawk] Rubio: Trump has not made a decision regarding the implementation of military action against Iran
+- 11/01 01:42 [FirstSquawk] Rubio: I do not rule out extending an invitation to Zelensky to attend the upcoming G20 summit, but the decision on that rests with President Trump.
+- 11/01 01:46 [financialjuice] US Secretary of State Rubio: discussed with Russia's Lavrov chance for Trump, Putin to meet at APEC next month
+- 11/01 01:53 [financialjuice] US Secretary of State Rubio: anticipate Trump, China's Xi to convene at G20 and APEC gatherings
+- 11/01 01:56 [financialjuice] Iran's navy: oil tanker ignites in Strait of Hormuz after hitting naval mines - state media
+- 11/01 01:57 [financialjuice] Iran's navy: oil tanker 'operated in limited zone' - state media
+- 11/01 02:05 [DeItaone] IRAN'S NAVY SAYS OIL TANKER CATCHES FIRE IN STRAIT OF HORMUZ AFTER COLLIDING WITH NAVAL MINES - STATE MEDIA
+- 11/01 02:12 [FirstSquawk] Rubio: I spoke with Lavrov about the possibility of holding a meeting between Trump and Putin during the APEC summit next month.
+- 11/01 02:29 [FirstSquawk] BINANCE SAYS ON HACK - 90% OF STOLEN ASSETS REPLENISHED
+- 11/01 02:31 [FirstSquawk] BINANCE- REPLENIHSMENT EMPLOYED INCLUDES BINANCE'S OWN CORPORATE TREASURY
+- 11/01 02:31 [FirstSquawk] BINANCE - REPLENISHMENT DEPLOYED INCLUDES PORTION OF OUR FUTURES INSURANCE FUND
+- 11/01 02:31 [FirstSquawk] BINANCE - NEXT MILESTONE IN FOCUS IS RESUMING THE WITHDRAWAL SERVICES FOR USERS
+- 11/01 02:35 [financialjuice] Iran's security chief Rezaei: tone of Vance letter has changed, signaling Iranian people's victory - Iran news agencies
+- 11/01 02:57 [DeItaone] IRAN'S SECURITY CHIEF REZAEI: NO NEW DECISION HAS BEEN MADE ON CHANGING OUR NUCLEAR DOCTRINE, BUT THERE IS DEBATE OVER WHETHER WE SHOULD KEEP THE SAME DOCTRINE IF WAR BREAKS OUT AGAIN
+- 11/01 03:21 [FirstSquawk] Clashes erupt between police and protesters in Paris
+- 11/01 03:21 [FirstSquawk] French Government: 320,000 people demonstrated across the country today
+- 11/01 03:21 [FirstSquawk] AFP on the French police: Around 70,000 people demonstrated in Paris
+- 11/01 03:22 [FirstSquawk] Iranian Army Navy: Fire on a violating oil tanker following its collision with mines while crossing in a prohibited area east of the Strait of Hormuz
+- 11/01 03:22 [FirstSquawk] Iranian Army Navy: All commercial ships must refrain from entering unsafe areas in Hormuz and avoid turning off their systems
+- 11/01 03:22 [FirstSquawk] Israeli media: Eisenkot, head of the Yesh Atid party, met with opposition leader Lapid to discuss the possibility of forming the government
+- 11/01 03:23 [FirstSquawk] Iranian Army Spokesman: In the event of a new war, the geographical scope of the conflict will not be limited to the West Asia region.
+- 11/01 03:23 [FirstSquawk] Iran's National Security Council Secretary: We have not made any new decision regarding changing the nuclear doctrine at the official and governmental level
+- 11/01 03:23 [FirstSquawk] Iranian National Security Council Secretary: I have reviewed the letter from the U.S. Vice President and have not responded to it yet, and their tone has completely changed
+- 11/01 03:23 [FirstSquawk] Iran's National Security Council Secretary: The change in the Americans' tone that we sensed in Vance's letter is a good sign
+- 11/01 03:53 [financialjuice] Iran security chief Rezaei tells state TV: we seriously pursue diplomacy but won’t forsake Iranian people’s rights
+- 11/01 03:53 [DeItaone] IRAN'S SECURITY CHIEF REZAEI TO STATE TV: WE SERIOUSLY FOLLOW DIPLOMACY BUT WILL NOT ABANDON IRANIAN PEOPLE'S RIGHTS
+- 11/01 03:54 [financialjuice] Iran's Rezaei: War must end permanently, no nation should dare attack Iran again
+- 11/01 03:59 [financialjuice] Iran’s Rezaei: Iran’s nuclear rights under non-proliferation treaty must be respected if talks happen in later stages
+- 11/01 04:01 [financialjuice] Iran’s security chief Rezaei: Strait of Hormuz to stay closed until Tehran’s conditions fulfilled
