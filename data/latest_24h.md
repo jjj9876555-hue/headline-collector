@@ -7,52 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-11-01 07:29 JST／対象: 10/31 07:29 〜 11/01 07:29 JST（時刻はすべて日本時間）
+生成: 2026-11-01 10:23 JST／対象: 10/31 10:23 〜 11/01 10:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 24 | 10/31 07:34 | 11/01 03:53 | ⚠ 458分（07:34→15:13） |
-| FirstSquawk | 189 | 10/31 09:11 | 11/01 03:23 | ⚠ 68分（17:01→18:09） |
-| financialjuice | 74 | 10/31 08:07 | 11/01 06:29 | ⚠ 247分（10:32→14:40） |
+| DeItaone | 23 | 10/31 15:13 | 11/01 03:53 | ⚠ 279分（15:13→19:52） |
+| FirstSquawk | 168 | 10/31 10:24 | 11/01 09:12 | ⚠ 336分（03:23→08:59） |
+| financialjuice | 74 | 10/31 10:30 | 11/01 09:00 | ⚠ 247分（10:32→14:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 271 行（統合前 288 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 249 行（統合前 265 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 10/31 07:34 [DeItaone] US REPORTEDLY PREPARING SHORT, INTENSE IRAN STRIKES ON NOVEMBER 4 The Trump administration has reportedly warned Gulf allies to prepare for potential US strikes on Iran as early as November 4, one day after the midterm elections, according …
-- 10/31 08:07 [financialjuice] US, South Korea, Japan foreign ministers reaffirm pledge to finalize North Korea denuclearization - Yonhap
-- 10/31 09:09 [financialjuice] OpenAI cuts funding goal by $10 billion as tech worries increase - FT
-- 10/31 09:11 [FirstSquawk] . Al Arabiya Obtains Draft Framework Mediators Are Discussing for US-Iran Negotiations
-- 10/31 09:12 [FirstSquawk] Houthis Deny Attack After Saudi-Led Coalition Reports Downing Drone Over Medina
-- 10/31 09:13 [FirstSquawk] FT: OpenAI Seeks to Raise Around $20 Billion at $1.25 Trillion Valuation
-- 10/31 09:13 [FirstSquawk] Growing Technology Sector Concerns Prompt OpenAI to Reduce Funding Target by $10 Billion: FT
-- 10/31 09:19 [FirstSquawk] Emergency Shutdown at Kaliningrad Power Plant Triggers Blackout Across Parts of the Russian Region: WSN
-- 10/31 09:21 [FirstSquawk] AlArabiya_Brk - Trump Says US Forces Have Been Deployed Across Areas Surrounding Iran
-- 10/31 09:22 [FirstSquawk] Washington Directs Non-Emergency Staff to Depart Saudi Arabia Amid Security Risks
-- 10/31 09:23 [FirstSquawk] Trump Declares Upcoming Midterms the Most Important Elections the United States Has Ever Held
-- 10/31 09:24 [FirstSquawk] Texas Secures Trump-Approved Disaster Aid Ahead of Election - Politico
-- 10/31 09:28 [FirstSquawk] Canada and Europe Establish New International Alliance, Invite Other Countries to Join: Guardian
-- 10/31 09:30 [FirstSquawk] FT: Poland Moves to Suspend Senior Judges Amid Escalating Rule-of-Law Battle
-- 10/31 09:30 [FirstSquawk] Higher Oil Prices Boost Canadian Dollar, Raising Concerns Over Inflation Risks
-- 10/31 09:38 [FirstSquawk] nside the Biggest Crypto Heist in History: $6.3 Billion Stolen in 30 Minutes - FT
-- 10/31 09:44 [FirstSquawk] Government Vows Crackdown as France Faces Threat of Renewed Unrest - FT
-- 10/31 09:47 [financialjuice] Saudi-led coalition: intercepted and neutralized drone launched by Yemen's Houthis toward southern region
-- 10/31 09:48 [FirstSquawk] Tokyo Presses Moscow for Release of Japanese National During Lavrov Meeting
-- 10/31 09:49 [FirstSquawk] Washington Clears Sale of 500 Patriot Missiles to Ukraine - BBC
-- 10/31 09:51 [FirstSquawk] Houthi-Launched Drone Intercepted and Neutralised by Saudi-Led Coalition
-- 10/31 09:53 [FirstSquawk] DaVita Inc.’s Credit Ratings Reviewed by Moody’s Ratings
-- 10/31 10:05 [FirstSquawk] Major Southeast Asian Meth Trafficking Network Dismantled With China's Assistance
-- 10/31 10:11 [FirstSquawk] Intel, Reddit and AI Stocks Face a Rough End to October - RTRS
-- 10/31 10:11 [FirstSquawk] Axios: US-Iran Talks Continue as Negotiations Make Positive Headway
-- 10/31 10:16 [FirstSquawk] US Official: Iran Must Offer Nuclear Concessions for Talks With Washington to Resume
-- 10/31 10:17 [FirstSquawk] Axios Official: Trump Doubts Iran Will Approve an Acceptable Agreement
-- 10/31 10:18 [FirstSquawk] US Official: Trump Could Consider Military Action Against Iran if Republicans Lose Elections -Al Arabiya
-- 10/31 10:20 [FirstSquawk] American Electric Power Retains BBB Rating as Fitch Maintains Stable Outlook
 - 10/31 10:24 [FirstSquawk] Alaska Air Group Layoffs to Spare Frontline and Non-Management Staff, CEO Says
 - 10/31 10:24 [FirstSquawk] Alaska Air Group to Reduce Workforce by About 200 Non-Contract Roles
 - 10/31 10:25 [FirstSquawk] Rising Fuel Prices and Geopolitical Challenges Put Alaska Air Group Under Financial Pressure, CEO Says
@@ -295,3 +266,10 @@
 - 11/01 03:59 [financialjuice] Iran’s Rezaei: Iran’s nuclear rights under non-proliferation treaty must be respected if talks happen in later stages
 - 11/01 04:01 [financialjuice] Iran’s security chief Rezaei: Strait of Hormuz to stay closed until Tehran’s conditions fulfilled
 - 11/01 06:29 [financialjuice] FBI: North Korea was behind the theft of over $6 billion in virtual assets from cryptocurrency exchange Binance
+- 11/01 08:59 [FirstSquawk] Daily Mail: Trump Deploys Third Aircraft Carrier Toward Iran
+- 11/01 09:00 [financialjuice] S.Korea Oct exports rise 93.7% y/y, beating poll of 93.2%
+- 11/01 09:00 [financialjuice] S. Korea October imports rise 36.0% y/y, below poll of 39.9%
+- 11/01 09:00 [financialjuice] S.Korea Oct trade surplus provisional $42.50 billion vs $49.97 billion in Sept
+- 11/01 09:00 [FirstSquawk] Chinese EV Competition Forces Mitsubishi Motors to Rethink Its Southeast Asia Strategy
+- 11/01 09:11 [FirstSquawk] Yemeni UN Staff Member Dies in Houthi Custody, UN Calls for Investigation
+- 11/01 09:12 [FirstSquawk] Feud Within Michigan Democrats Threatens Party Unity in High-Stakes Senate Contest - FT
