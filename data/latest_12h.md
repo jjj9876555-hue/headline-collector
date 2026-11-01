@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-11-02 04:08 JST／対象: 11/01 16:08 〜 11/02 04:08 JST（時刻はすべて日本時間）
+生成: 2026-11-02 07:47 JST／対象: 11/01 19:47 〜 11/02 07:47 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 2 | 11/01 22:16 | 11/02 01:11 | ⚠ 174分（22:16→01:11） |
-| FirstSquawk | 69 | 11/01 16:08 | 11/02 03:15 | ⚠ 162分（17:19→20:01） |
-| financialjuice | 21 | 11/01 16:40 | 11/02 03:09 | ⚠ 126分（16:40→18:46） |
+| DeItaone | 4 | 11/01 22:16 | 11/02 05:37 | ⚠ 235分（01:11→05:06） |
+| FirstSquawk | 73 | 11/01 20:01 | 11/02 06:20 | ⚠ 77分（20:18→21:36） |
+| financialjuice | 19 | 11/01 20:10 | 11/02 03:09 | ⚠ 62分（23:19→00:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 81 行（統合前 92 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 86 行（統合前 97 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/01 16:08 [FirstSquawk] North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says
-- 11/01 16:09 [FirstSquawk] Major Indian online investment platforms are unlocking access to U.S. stocks for millions of retail investors eager to diversify into global assets as the country’s markets continue to underperform
-- 11/01 16:09 [FirstSquawk] MSTR Stock Is Down 44% in a Year, but Michael Saylor Says Strategy Doesn’t Need Bitcoin Or Equity to Do the ‘Heavy Lifting’
-- 11/01 16:40 [financialjuice] Russian investigators open criminal case on terrorism over attack on industrial site in Nizhny Novgorod region: TASS cites investigative committee
-- 11/01 17:17 [FirstSquawk] Saudi Joint Chiefs of Staff Deputy: Force Cannot Be a Substitute for Law
-- 11/01 17:17 [FirstSquawk] An Iranian lawmaker urged officials on Sunday to make withdrawal from the Nuclear Non-Proliferation Treaty a serious priority, saying Iran should not yield to pressure.
-- 11/01 17:18 [FirstSquawk] Daiwa fund buy of Blackstone Tokyo office complex include retail digital securities Property in $2bn purchase occupies site of former Grand Prince Hotel Akasaka
-- 11/01 17:18 [FirstSquawk] US First Lady Melania Trump commended the humanitarian evacuation of trapped civilians from Russian-occupied Oleshky, characterizing the mission as proof that humanity can rise above war and build lasting peace for future generations
-- 11/01 17:19 [FirstSquawk] Young creators use TikTok and YouTube to inspire a new generation to work the land
-- 11/01 18:46 [financialjuice/FirstSquawk] Ukraine's Zelenskiy: Russia targeted energy infrastructure in four regions overnight, hundreds of thousands lose power
 - 11/01 20:01 [FirstSquawk] Russia announces attack on "industrial company" near Moscow, and Kyiv announces targeting of major refinery
 - 11/01 20:01 [FirstSquawk] Kremlin: Putin will respond if Ukrainian President Zelensky calls him, and he has never refused to hold talks.
 - 11/01 20:01 [FirstSquawk] Anwar Gargash says that the security of the Gulf countries is interconnected, and what affects any one of them affects the United Arab Emirates.
@@ -46,6 +36,7 @@
 - 11/01 20:10 [financialjuice/FirstSquawk] Iranian negotiators in Doha for third day of talks with Qatari mediators: official briefed on discussions
 - 11/01 20:12 [FirstSquawk] Binance restarts customer withdrawals after $6.3bn heist - FT
 - 11/01 20:12 [FirstSquawk] EU leaders risk breaking their promise to help European start-ups -ft
+- 11/01 20:18 [FirstSquawk] Ukraine's Zelenskiy: Russia targeted energy infrastructure in four regions overnight, hundreds of thousands lose power
 - 11/01 20:18 [FirstSquawk] Zelenskiy: Ukraine strikes Kamensky plant in Russia’s Rostov region
 - 11/01 21:11 [financialjuice/FirstSquawk] Kremlin: positive assessment of humanitarian operation in Oleshky and coordination between Russian and Ukrainian ombudsmen
 - 11/01 21:23 [financialjuice/FirstSquawk] World Bank to sign $1 billion deal with Egypt for second phase of development program: Egyptian cabinet
@@ -105,3 +96,17 @@
 - 11/02 03:09 [financialjuice] UKMTO: reports incident in Strait of Hormuz
 - 11/02 03:09 [financialjuice] Ukmto: captain of merchant ship reports another vessel hit by unidentified projectile
 - 11/02 03:15 [FirstSquawk] UKMTO REPORTS AN INCIDENT IN THE STRAIT OF HORMUZ, WITH THE CAPTAIN OF A MERCHANT SHIP REPORTING THAT ANOTHER VESSEL WAS HIT BY AN UNIDENTIFIED PROJECTILE
+- 11/02 04:13 [FirstSquawk] TRUMP SAYS CONGRESSWOMAN HALEY STEVENS, A DEMOCRAT WHO NARROWLY LOST THE PRIMARY TO ABDUL MOHAMED EL-SAYED AND HAD BEEN COURTED BY DEMOCRATS TO HELP IN THEIR MICHIGAN SENATE CAMPAIGN AGAINST MIKE ROGERS, HAS JUST ENDORSED MIKE ROGERS FOR SE…
+- 11/02 04:13 [FirstSquawk] TRUMP SAYS STEVENS HAS A HUGE FOLLOWING AND VIRTUALLY UNPARALLELED RESPECT FROM THE PEOPLE OF MICHIGAN, ESPECIALLY ITS AFRICAN AMERICAN AND JEWISH POPULATIONS, AND THAT SHE “SAID WHAT FEW PEOPLE ARE WILLING TO SAY,” SHOWING “GREAT AND ALMOS…
+- 11/02 04:28 [FirstSquawk] THE QATARI LNG CARRIER AL MAYEDA, BOUND FOR PAKISTAN, WAS STRUCK BY PROJECTILES IN THE GULF, WITH BLOOMBERG REPORTING IRAN HAD CLEARED THE VOYAGE HOURS EARLIER AND NO ONE HAVING CLAIMED THE ATTACK
+- 11/02 04:29 [FirstSquawk] SERBIA’S CENTRAL BANK HAS SHUT DOWN ALTA BANK, A LENDER POPULAR AMONG RUSSIANS, OVER DETERIORATING FINANCES AND SUSPECTED MONEY LAUNDERING, WITH THE MOVE COMING DAYS AFTER ALEKSANDAR VUCIC’S ELECTION DEFEAT AND AMID REPORTS OF LARGE WITHDRA…
+- 11/02 04:29 [FirstSquawk] ALTA, WHICH FACILITATED RUSSIAN FINANCIAL TRANSACTIONS FOLLOWING MOSCOW’S 2022 INVASION OF UKRAINE AND HAD PREVIOUSLY FACED SCRUTINY FROM THE ECB, IS NOW THE SUBJECT OF CALLS FROM SERBIAN PROSECUTORS AND THE INCOMING STUDENT-LED MOVEMENT FO…
+- 11/02 04:29 [FirstSquawk] ISRAEL’S ELECTION CHIEF NOAM SOHLBERG SAYS THE ELECTION RESULTS WILL STAND DESPITE SERIOUS SUSPICIONS OF FOREIGN FUNDING AIMED AT INFLUENCING THE VOTE IN A JOINT STATEMENT WITH ATTORNEY GENERAL GALI BAHARAV-MIARA AND SHIN BET CHIEF DAVID ZI…
+- 11/02 05:06 [DeItaone] TWO OIL TANKERS HIT MINES WHILE TRAVELING ALONG 'UNAUTHORIZED ROUTE' IN STRAIT OF HORMUZ - IRAN'S STATE MEDIA
+- 11/02 05:37 [DeItaone] TRUMP ON CANADA: WE HAVE THE CONCEPT OF A VERY GOOD DEAL
+- 11/02 05:41 [FirstSquawk] TWO OIL TANKERS STRUCK MINES ON AN “UNAUTHORIZED ROUTE” IN THE STRAIT OF HORMUZ - IRAN’S STATE MEDIA
+- 11/02 05:55 [FirstSquawk] TALKS PROGRESSED POSITIVELY AND MEDIATORS ARE WORKING TO BRIDGE REMAINING GAPS AND CONCERNS BETWEEN BOTH SIDES - AXIOS CITING A DIPLOMAT INVOLVED IN U.S.-IRAN TALKS
+- 11/02 05:57 [FirstSquawk] WESTPAC SAYS INFLATION REMAINS ABOVE THE RBA’S TARGET RANGE, WITH INTEREST RATES LIKELY TO REMAIN ELEVATED INTO 2027, AND THAT THE AUSTRALIAN ECONOMY IS HOLDING UP RELATIVELY WELL AMID GLOBAL UNCERTAINTY, WITH STRONG BUSINESS INVESTMENT SUP…
+- 11/02 05:57 [FirstSquawk] TRUMP SAYS THE U.S. IS VERY NEAR TO SECURING A DEAL WITH CANADA AND HAS THE IDEA OF “A VERY GOOD DEAL,” ADDING HE JUST HAD A PRODUCTIVE DISCUSSION WITH ISRAEL’S NETANYAHU THAT COVERED IRAN TOPICS
+- 11/02 05:57 [FirstSquawk] TRUMP SAYS HE WILL CONTACT AND THANK MICHIGAN’S STEVENS AFTER HER ROGERS ENDORSEMENT
+- 11/02 06:20 [FirstSquawk] North Korea says US-South Korea iron mace drill was nuclear war rehearsal targeting North Korea - KCNA
