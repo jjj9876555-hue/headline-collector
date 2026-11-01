@@ -7,59 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-11-01 23:32 JST／対象: 11/01 11:32 〜 11/01 23:32 JST（時刻はすべて日本時間）
+生成: 2026-11-02 04:08 JST／対象: 11/01 16:08 〜 11/02 04:08 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 1 | 11/01 22:16 | 11/01 22:16 | - |
-| FirstSquawk | 76 | 11/01 11:34 | 11/01 23:19 | ⚠ 162分（17:19→20:01） |
-| financialjuice | 12 | 11/01 15:51 | 11/01 23:19 | ⚠ 126分（16:40→18:46） |
+| DeItaone | 2 | 11/01 22:16 | 11/02 01:11 | ⚠ 174分（22:16→01:11） |
+| FirstSquawk | 69 | 11/01 16:08 | 11/02 03:15 | ⚠ 162分（17:19→20:01） |
+| financialjuice | 21 | 11/01 16:40 | 11/02 03:09 | ⚠ 126分（16:40→18:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 79 行（統合前 89 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 81 行（統合前 92 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/01 11:34 [FirstSquawk] G20 CHAIR'S STATEMENT: FOOD AND AGRICULTURAL TRADE MUST NOT BE USED AS A TOOL OF ECONOMIC OR POLITICAL COERCION
-- 11/01 11:45 [FirstSquawk] NIGERIA'S DISEASE CONTROL AGENCY FLAGS TWO SUSPECTED EBOLA CASES IN NORTHEAST
-- 11/01 12:04 [FirstSquawk] NIGERIA CDC SAYS EBOLA DIAGNOSIS REMAINS UNCONFIRMED PENDING LAB RESULTS
-- 11/01 12:05 [FirstSquawk] RUBIO SAYS HE SPOKE WITH LAVROV ABOUT ARRANGING TRUMP-PUTIN MEETING AT NEXT MONTH'S APEC SUMMIT
-- 11/01 12:05 [FirstSquawk] US SECRETARY OF STATE RUBIO SAYS HE WILL MEET BRAZIL'S FOREIGN MINISTER AGAIN AT G7
-- 11/01 12:05 [FirstSquawk] US SECRETARY OF STATE RUBIO EXPECTS TRUMP-XI MEETINGS AT G20 AND APEC
-- 11/01 12:22 [FirstSquawk] OIL TANKER WAS IN RESTRICTED AREA AT TIME OF INCIDENT, SAYS IRANIAN NAVY
-- 11/01 12:34 [FirstSquawk] OPEC+ SET TO MAINTAIN DECEMBER PRODUCTION TARGETS UNDER TENTATIVE AGREEMENT – RTRS
-- 11/01 12:43 [FirstSquawk] SUDAN'S NILE RIVER STATE POWER STATION TARGETED BY DRONE – AL ARABIYA CORRESPONDENT
-- 11/01 12:43 [FirstSquawk] ARGENTINA'S GOLDEN VISA INITIATIVE AIMS TO DRAW WEALTHY CHINESE CAPITAL - SCMP
-- 11/01 12:53 [FirstSquawk] RUBIO SAYS ZELENSKIY'S G20 INVITATION DEPENDS ON POTENTIAL FOR POSITIVE RESULTS
-- 11/01 12:53 [FirstSquawk] FRANCE'S INTERIOR MINISTRY PUTS PROTEST TURNOUT AT 320,000 NATIONWIDE, 70,000 IN PARIS
-- 11/01 12:58 [FirstSquawk] RUSSIA RANKS AHEAD OF FRANCE IN AFRICAN YOUTH APPEAL, BEHIND CHINA - SCMP
-- 11/01 13:13 [FirstSquawk] SOUTH KOREA'S EXPORTS ACCELERATE ON CHIP BOOM, CLOSING IN ON $1 TRILLION TARGET - WSJ
-- 11/01 13:21 [FirstSquawk] FUEL PRICE SURGE LEAVES HONG KONG DRIVERS STRUGGLING TO KEEP MOVING
-- 11/01 13:31 [FirstSquawk] ZELENSKIY SAYS HE SPOKE WITH ERDOGAN ABOUT UPCOMING MEETING OF US, UKRAINE AND RUSSIAN NEGOTIATORS
-- 11/01 13:37 [FirstSquawk] CANTON FAIR SEES GROWING DEMAND FOR CHINA'S GREEN ENERGY PRODUCTS AMID ENERGY CONCERNS - SCMP
-- 11/01 13:42 [FirstSquawk] ELECTRIC VEHICLE SURGE IN SOUTHEAST ASIA LEAVES LOCAL CAR PARTS MAKERS BEHIND
-- 11/01 13:52 [FirstSquawk] META PARTNERS WITH CHINESE STARTUP TO BUILD HUMANOID ROBOT PROTOTYPE – THE INFORMATION
-- 11/01 14:02 [FirstSquawk] META, FOURIER BUILT HUMANOID ROBOT MAX WEIGHING AROUND 106 POUNDS IN THREE MONTHS – THE INFORMATION
-- 11/01 14:13 [FirstSquawk] AlArabiya_Brk - Binance Restores Crypto Withdrawals Following Security Breach
-- 11/01 14:22 [FirstSquawk] EU Plans to Downgrade Art Market's Money-Laundering Risk Assessment Despite High-Profile Heists – FT
-- 11/01 14:48 [FirstSquawk] EU Leaders' Commitment to European Start-Ups Faces Growing Uncertainty – Martin Sandbu - FT
-- 11/01 14:48 [FirstSquawk] Black Sea Battles Push Russia to Shift Grain Exports to Arctic Routes - FT
-- 11/01 14:58 [FirstSquawk] Germany Misses Winter Gas Stockpiling Goal Amid Supply Concerns – FT
-- 11/01 14:58 [FirstSquawk] Tudor-Linked Quant Hedge Fund Eyes Record $9 Billion Launch – FT
-- 11/01 14:59 [FirstSquawk] Rising Fuel Prices Fail to Spur Oil Majors to Invest in New Refineries – FT
-- 11/01 14:59 [FirstSquawk] Bond Investors Sit Out US Midterm Elections Seen as Most Consequential in Years – FT
-- 11/01 15:21 [FirstSquawk] Trump on Flávio Bolsonaro: No plans to meet, but I think he got treated very shabbily. Very shabbily. So he can stay here as long as he wants. The election was a disgrace.
-- 11/01 15:22 [FirstSquawk] Southeast Asian businesses from caterers to wedding planners are suffering as couples try to spend less on tying the knot.
-- 11/01 15:22 [FirstSquawk] Trump on Ukraine War: I think that the war between Ukraine and Russia is going to come to an end in the not-too-distant future.
-- 11/01 15:23 [FirstSquawk] Do you expect to go back to war against Iran as soon as this week? Trump: Why would you ask such a stupid question? New York Times. Okay, let's say I did. Would I tell you?
-- 11/01 15:23 [FirstSquawk] Trump on Iran: We still have to take care of, I would say, one or two sites, but we can do that in 10 minutes. Ten minutes. So we have that plan.
-- 11/01 15:23 [FirstSquawk] Trump on Iran: They want to make a deal. We'll find out about that. Negotiations are going fine, but they're not very reliable, I will tell you. They make a deal and then they back out. They want to make a deal. We'll see if they make a dea…
-- 11/01 15:24 [FirstSquawk] IRAN DECLARES BRITISH INTELLIGENCE MI6 A 'HOSTILE GROUP' & BRITAIN'S ROYAL NAVY & AIR FORCE 'TERRORIST ORGANIZATIONS'
-- 11/01 15:51 [financialjuice] Industrial facility in Russia's Nizhny Novgorod region suffers major damage after extensive drone strike, governor says
 - 11/01 16:08 [FirstSquawk] North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says
 - 11/01 16:09 [FirstSquawk] Major Indian online investment platforms are unlocking access to U.S. stocks for millions of retail investors eager to diversify into global assets as the country’s markets continue to underperform
 - 11/01 16:09 [FirstSquawk] MSTR Stock Is Down 44% in a Year, but Michael Saylor Says Strategy Doesn’t Need Bitcoin Or Equity to Do the ‘Heavy Lifting’
@@ -103,3 +67,41 @@
 - 11/01 22:43 [FirstSquawk] Coalition: The Houthi militia must cease all hostile and barbaric operations against civilians and bear the consequences of its hostile behavior.
 - 11/01 22:58 [financialjuice/FirstSquawk] Russia's security service: minor detained after US tip-off over threat to carry out terrorist attack in Tsaritsyno park - Interfax
 - 11/01 23:19 [financialjuice/FirstSquawk] Senator Dan Sullivan: I will accept the results in Alaska US Senate race - CNN interview
+- 11/02 00:21 [financialjuice] Saudi civil defense issues warning of possible threat in Abha and Khamis Mushait
+- 11/02 00:28 [financialjuice] Saudi civil defense: danger has passed in Abha and Khamis Mushait
+- 11/02 00:34 [FirstSquawk] Saudi Arabia announces the execution of a qualitative operation to neutralize vital sources used by the Houthis to support their military efforts.
+- 11/02 00:34 [FirstSquawk] Syrian authorities announce the arrest of a terrorist cell affiliated with ISIS involved in assassinations in Deir ez-Zor province.
+- 11/02 00:34 [FirstSquawk] United Nations: More than 300,000 people have fled the battles in western Yemen
+- 11/02 00:35 [FirstSquawk] Saudi Foreign Ministry: We strongly condemn the targeting of a gas tanker belonging to Qatar Gas Company for gas transportation in the waters of the Arabian Gulf
+- 11/02 00:35 [FirstSquawk] Saudi ForeignMinistry: We reiterate our rejection of all violations that threaten the security and safety of maritime navigation and global energy supplies.
+- 11/02 00:35 [FirstSquawk] Saudi ForeignMinistry: We affirm our solidarity with our sister state of Qatar in all its measures to protect its tankers and the safety of its international trade
+- 11/02 00:36 [FirstSquawk] Saudi Foreign Ministry: We emphasize the importance of the international community taking urgent measures to ensure maritime security
+- 11/02 00:36 [FirstSquawk] GCC Secretary-General: Targeting energy tankers is a dangerous escalation that undermines regional security
+- 11/02 00:36 [FirstSquawk] GCC Secretary General: Maritime passages must remain safe for navigation and trade
+- 11/02 00:36 [FirstSquawk] GCC Secretary-General: We warn of the consequences of targeting gas tankers on the marine environment and the regularity of energy flow
+- 11/02 00:36 [FirstSquawk] GCC Secretary General: We support Qatar's measures and actions to preserve its capabilities and protect its properties
+- 11/02 00:36 [FirstSquawk] SANA from a source in the Syrian General Intelligence: Foiling a terrorist plot targeting the Banias refinery
+- 11/02 00:48 [financialjuice] Saudi-led coalition: Intercepts and destroys ballistic missile launched by Yemen's Houthis toward southern region
+- 11/02 00:51 [financialjuice] Saudi-led coalition: intercepted and destroyed drone launched by Yemen's Houthis toward southern region
+- 11/02 01:06 [FirstSquawk] Coalition: Air defenses intercepted and destroyed a ballistic missile launched by the terrorist Houthi militia toward the southern region
+- 11/02 01:06 [FirstSquawk] Yemeni Government Forces: Downing of Two Houthi Militia Drones in the Sabr Front
+- 11/02 01:07 [FirstSquawk] Trump to Fox News: There are matters that have not yet been settled in Iran
+- 11/02 01:11 [DeItaone] BINANCE SEES $3.5 BILLION IN OUTFLOWS AFTER RECORD $6.3 BILLION HACK Binance recorded more than $3.5 billion in net outflows Sunday, according to DefiLlama, after resuming withdrawals following a $6.3 billion cryptocurrency theft. The excha…
+- 11/02 01:42 [financialjuice] ICYMI: Pakistan-bound LNG tanker attacked near Hormuz despite Iran clearance
+- 11/02 01:48 [FirstSquawk] Yemeni Government Forces: We carried out 1272 strikes on reinforcements of the Houthi_group as part of Operation Dawn of Yemen over the last 24 hours
+- 11/02 01:48 [FirstSquawk] Israeli airstrike on the outskirts of Aita al-Jabal town, southern Lebanon
+- 11/02 01:48 [FirstSquawk] SANA from a source in Syrian General Intelligence: Foiling a terrorist plot to target the Homs refinery
+- 11/02 01:48 [FirstSquawk] Zelensky: If Washington wants us not to target Russian oil refineries, then Moscow must stop its attacks on Ukraine's energy system.
+- 11/02 01:48 [FirstSquawk] Zelensky: We offered Washington to purchase Patriot missiles and confirmed our readiness to secure the necessary funding.
+- 11/02 01:49 [FirstSquawk] Iranian Presidency: Foreign Minister submitted a report to the government regarding developments in the negotiations with America through intermediaries
+- 11/02 02:33 [FirstSquawk] Israeli Broadcasting Authority: The Knesset Director General calls on party leaders to meet at the Presidential Residence on Wednesday
+- 11/02 02:33 [FirstSquawk] Iraqi: We are prepared for defense and diplomacy, and the choice depends on the extent of the United States' adherence to rationality
+- 11/02 02:33 [financialjuice] Democratic Senator Chris Murphy hospitalized after stroke: senator’s chief of staff, Politico
+- 11/02 02:37 [financialjuice] Democratic Senator Chris Murphy hospitalized after stroke: senator's chief of staff
+- 11/02 02:40 [financialjuice/FirstSquawk] Democrat Haley Stevens backs Republican Mike Rogers in crucial US Senate race in Michigan - social media post
+- 11/02 02:48 [FirstSquawk] US JUDGE REJECTS TRUMP ADMINISTRATION'S EARLY LEGAL CHALLENGE TO ALASKA SENATE RACE
+- 11/02 02:50 [FirstSquawk] BINANCE SAYS THAT 12 HOURS AFTER WITHDRAWALS RESUMED, THERE WAS A 2.1% NET OUTFLOW, WITH MOST WITHDRAWALS OCCURRING IN THE FIRST COUPLE OF HOURS
+- 11/02 02:50 [FirstSquawk] MITSUBISHI HEAVY WILL BOOST U.S. GAS TURBINE PRODUCTION - NIKKEI
+- 11/02 03:09 [financialjuice] UKMTO: reports incident in Strait of Hormuz
+- 11/02 03:09 [financialjuice] Ukmto: captain of merchant ship reports another vessel hit by unidentified projectile
+- 11/02 03:15 [FirstSquawk] UKMTO REPORTS AN INCIDENT IN THE STRAIT OF HORMUZ, WITH THE CAPTAIN OF A MERCHANT SHIP REPORTING THAT ANOTHER VESSEL WAS HIT BY AN UNIDENTIFIED PROJECTILE
