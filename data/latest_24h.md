@@ -7,81 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-11-02 10:54 JST／対象: 11/01 10:54 〜 11/02 10:54 JST（時刻はすべて日本時間）
+生成: 2026-11-02 17:43 JST／対象: 11/01 17:43 〜 11/02 17:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 11/01 22:16 | 11/02 05:37 | ⚠ 235分（01:11→05:06） |
-| FirstSquawk | 186 | 11/01 10:59 | 11/02 10:47 | ⚠ 162分（17:19→20:01） |
-| financialjuice | 22 | 11/01 15:51 | 11/02 03:09 | ⚠ 126分（16:40→18:46） |
+| FirstSquawk | 228 | 11/01 20:01 | 11/02 17:40 | ⚠ 88分（06:20→07:48） |
+| financialjuice | 20 | 11/01 18:46 | 11/02 03:09 | ⚠ 83分（18:46→20:10） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 201 行（統合前 213 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 241 行（統合前 253 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/01 10:59 [FirstSquawk] VinFast Bets Big on Asia, Expanding EV Push From Vietnam to India and Indonesia - NA
-- 11/01 11:04 [FirstSquawk] LI AUTO RECORDS 29,025 VEHICLE DELIVERIES FOR OCTOBER 2026
-- 11/01 11:04 [FirstSquawk] HANWHA DEFENSE USA, TOTE SERVICES SIGN $269 MILLION CONTRACT TO BUILD SHIPS FOR U.S. NAVY
-- 11/01 11:05 [FirstSquawk] TRUMP RULES OUT MEETING WITH FLAVIO BOLSONARO, SAYS HE CAN STAY AS LONG AS HE WANTS
-- 11/01 11:05 [FirstSquawk] NORTH KOREA ANNOUNCES TEST OF MAJOR WEAPON SYSTEM BY DEFENCE SCIENCE INSTITUTE – KCNA
-- 11/01 11:06 [FirstSquawk] NORTH KOREA SAYS WEAPON TEST FOCUSED ON CLUSTER WARHEAD CAPABILITIES FOR BALLISTIC MISSILES – KCNA
-- 11/01 11:09 [FirstSquawk] TRUMP'S LAWSUIT AGAINST WALL STREET JOURNAL THROWN OUT BY US JUDGE – COURT FILING
-- 11/01 11:12 [FirstSquawk] BREAKING - BINANCE REPORTS COVERING $6 BILLION OF THE AMOUNT AFFECTED BY THE HACK - RTRS
-- 11/01 11:13 [FirstSquawk] BREAKING -BINANCE SAYS IT HAS ALREADY COVERED $6 BILLION OF LOSSES FROM THE HACK - RTRS
-- 11/01 11:15 [FirstSquawk] IRAN'S REZAEI: IRAN'S NUCLEAR RIGHTS UNDER THE NPT MUST BE RESPECTED IN ANY FUTURE NEGOTIATIONS
-- 11/01 11:15 [FirstSquawk] IRAN'S REZAEI: IRAN'S NUCLEAR RIGHTS UNDER THE NPT MUST BE RESPECTED IN FUTURE TALKS
-- 11/01 11:15 [FirstSquawk] IRAN'S REZAEI: WAR MUST END FOR GOOD, WITH NO FUTURE ATTACKS ON IRAN
-- 11/01 11:24 [FirstSquawk] ELON MUSK EXPECTS AROUND 1.2M BLACKWELLS AT COLOSSUS 2 BY YEAR-END
-- 11/01 11:34 [FirstSquawk] G20 CHAIR'S STATEMENT: FOOD AND AGRICULTURAL TRADE MUST NOT BE USED AS A TOOL OF ECONOMIC OR POLITICAL COERCION
-- 11/01 11:45 [FirstSquawk] NIGERIA'S DISEASE CONTROL AGENCY FLAGS TWO SUSPECTED EBOLA CASES IN NORTHEAST
-- 11/01 12:04 [FirstSquawk] NIGERIA CDC SAYS EBOLA DIAGNOSIS REMAINS UNCONFIRMED PENDING LAB RESULTS
-- 11/01 12:05 [FirstSquawk] RUBIO SAYS HE SPOKE WITH LAVROV ABOUT ARRANGING TRUMP-PUTIN MEETING AT NEXT MONTH'S APEC SUMMIT
-- 11/01 12:05 [FirstSquawk] US SECRETARY OF STATE RUBIO SAYS HE WILL MEET BRAZIL'S FOREIGN MINISTER AGAIN AT G7
-- 11/01 12:05 [FirstSquawk] US SECRETARY OF STATE RUBIO EXPECTS TRUMP-XI MEETINGS AT G20 AND APEC
-- 11/01 12:22 [FirstSquawk] OIL TANKER WAS IN RESTRICTED AREA AT TIME OF INCIDENT, SAYS IRANIAN NAVY
-- 11/01 12:34 [FirstSquawk] OPEC+ SET TO MAINTAIN DECEMBER PRODUCTION TARGETS UNDER TENTATIVE AGREEMENT – RTRS
-- 11/01 12:43 [FirstSquawk] SUDAN'S NILE RIVER STATE POWER STATION TARGETED BY DRONE – AL ARABIYA CORRESPONDENT
-- 11/01 12:43 [FirstSquawk] ARGENTINA'S GOLDEN VISA INITIATIVE AIMS TO DRAW WEALTHY CHINESE CAPITAL - SCMP
-- 11/01 12:53 [FirstSquawk] RUBIO SAYS ZELENSKIY'S G20 INVITATION DEPENDS ON POTENTIAL FOR POSITIVE RESULTS
-- 11/01 12:53 [FirstSquawk] FRANCE'S INTERIOR MINISTRY PUTS PROTEST TURNOUT AT 320,000 NATIONWIDE, 70,000 IN PARIS
-- 11/01 12:58 [FirstSquawk] RUSSIA RANKS AHEAD OF FRANCE IN AFRICAN YOUTH APPEAL, BEHIND CHINA - SCMP
-- 11/01 13:13 [FirstSquawk] SOUTH KOREA'S EXPORTS ACCELERATE ON CHIP BOOM, CLOSING IN ON $1 TRILLION TARGET - WSJ
-- 11/01 13:21 [FirstSquawk] FUEL PRICE SURGE LEAVES HONG KONG DRIVERS STRUGGLING TO KEEP MOVING
-- 11/01 13:31 [FirstSquawk] ZELENSKIY SAYS HE SPOKE WITH ERDOGAN ABOUT UPCOMING MEETING OF US, UKRAINE AND RUSSIAN NEGOTIATORS
-- 11/01 13:37 [FirstSquawk] CANTON FAIR SEES GROWING DEMAND FOR CHINA'S GREEN ENERGY PRODUCTS AMID ENERGY CONCERNS - SCMP
-- 11/01 13:42 [FirstSquawk] ELECTRIC VEHICLE SURGE IN SOUTHEAST ASIA LEAVES LOCAL CAR PARTS MAKERS BEHIND
-- 11/01 13:52 [FirstSquawk] META PARTNERS WITH CHINESE STARTUP TO BUILD HUMANOID ROBOT PROTOTYPE – THE INFORMATION
-- 11/01 14:02 [FirstSquawk] META, FOURIER BUILT HUMANOID ROBOT MAX WEIGHING AROUND 106 POUNDS IN THREE MONTHS – THE INFORMATION
-- 11/01 14:13 [FirstSquawk] AlArabiya_Brk - Binance Restores Crypto Withdrawals Following Security Breach
-- 11/01 14:22 [FirstSquawk] EU Plans to Downgrade Art Market's Money-Laundering Risk Assessment Despite High-Profile Heists – FT
-- 11/01 14:48 [FirstSquawk] EU Leaders' Commitment to European Start-Ups Faces Growing Uncertainty – Martin Sandbu - FT
-- 11/01 14:48 [FirstSquawk] Black Sea Battles Push Russia to Shift Grain Exports to Arctic Routes - FT
-- 11/01 14:58 [FirstSquawk] Germany Misses Winter Gas Stockpiling Goal Amid Supply Concerns – FT
-- 11/01 14:58 [FirstSquawk] Tudor-Linked Quant Hedge Fund Eyes Record $9 Billion Launch – FT
-- 11/01 14:59 [FirstSquawk] Rising Fuel Prices Fail to Spur Oil Majors to Invest in New Refineries – FT
-- 11/01 14:59 [FirstSquawk] Bond Investors Sit Out US Midterm Elections Seen as Most Consequential in Years – FT
-- 11/01 15:21 [FirstSquawk] Trump on Flávio Bolsonaro: No plans to meet, but I think he got treated very shabbily. Very shabbily. So he can stay here as long as he wants. The election was a disgrace.
-- 11/01 15:22 [FirstSquawk] Southeast Asian businesses from caterers to wedding planners are suffering as couples try to spend less on tying the knot.
-- 11/01 15:22 [FirstSquawk] Trump on Ukraine War: I think that the war between Ukraine and Russia is going to come to an end in the not-too-distant future.
-- 11/01 15:23 [FirstSquawk] Do you expect to go back to war against Iran as soon as this week? Trump: Why would you ask such a stupid question? New York Times. Okay, let's say I did. Would I tell you?
-- 11/01 15:23 [FirstSquawk] Trump on Iran: We still have to take care of, I would say, one or two sites, but we can do that in 10 minutes. Ten minutes. So we have that plan.
-- 11/01 15:23 [FirstSquawk] Trump on Iran: They want to make a deal. We'll find out about that. Negotiations are going fine, but they're not very reliable, I will tell you. They make a deal and then they back out. They want to make a deal. We'll see if they make a dea…
-- 11/01 15:24 [FirstSquawk] IRAN DECLARES BRITISH INTELLIGENCE MI6 A 'HOSTILE GROUP' & BRITAIN'S ROYAL NAVY & AIR FORCE 'TERRORIST ORGANIZATIONS'
-- 11/01 15:51 [financialjuice] Industrial facility in Russia's Nizhny Novgorod region suffers major damage after extensive drone strike, governor says
-- 11/01 16:08 [FirstSquawk] North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says
-- 11/01 16:09 [FirstSquawk] Major Indian online investment platforms are unlocking access to U.S. stocks for millions of retail investors eager to diversify into global assets as the country’s markets continue to underperform
-- 11/01 16:09 [FirstSquawk] MSTR Stock Is Down 44% in a Year, but Michael Saylor Says Strategy Doesn’t Need Bitcoin Or Equity to Do the ‘Heavy Lifting’
-- 11/01 16:40 [financialjuice] Russian investigators open criminal case on terrorism over attack on industrial site in Nizhny Novgorod region: TASS cites investigative committee
-- 11/01 17:17 [FirstSquawk] Saudi Joint Chiefs of Staff Deputy: Force Cannot Be a Substitute for Law
-- 11/01 17:17 [FirstSquawk] An Iranian lawmaker urged officials on Sunday to make withdrawal from the Nuclear Non-Proliferation Treaty a serious priority, saying Iran should not yield to pressure.
-- 11/01 17:18 [FirstSquawk] Daiwa fund buy of Blackstone Tokyo office complex include retail digital securities Property in $2bn purchase occupies site of former Grand Prince Hotel Akasaka
-- 11/01 17:18 [FirstSquawk] US First Lady Melania Trump commended the humanitarian evacuation of trapped civilians from Russian-occupied Oleshky, characterizing the mission as proof that humanity can rise above war and build lasting peace for future generations
-- 11/01 17:19 [FirstSquawk] Young creators use TikTok and YouTube to inspire a new generation to work the land
 - 11/01 18:46 [financialjuice/FirstSquawk] Ukraine's Zelenskiy: Russia targeted energy infrastructure in four regions overnight, hundreds of thousands lose power
 - 11/01 20:01 [FirstSquawk] Russia announces attack on "industrial company" near Moscow, and Kyiv announces targeting of major refinery
 - 11/01 20:01 [FirstSquawk] Kremlin: Putin will respond if Ukrainian President Zelensky calls him, and he has never refused to hold talks.
@@ -225,3 +167,101 @@
 - 11/02 10:46 [FirstSquawk] An incident has been reported in waters 72 nautical miles off Ras Al Khafji, Saudi Arabia, UKMTO says.
 - 11/02 10:46 [FirstSquawk] UKMTO reports that two unknown projectiles hit the port side of a tanker transiting southeast through the Arabian Gulf.
 - 11/02 10:47 [FirstSquawk] UKMTO reports no missing crew members and no indication of environmental damage at this time.
+- 11/02 11:00 [FirstSquawk] North Korea-Linked Hackers Implicated in Major Data Leak at Japan's GMO, Investigation Finds.
+- 11/02 11:00 [FirstSquawk] Financial Industry Heavyweights Meet in Hong Kong to Reconsider Investment Plans.
+- 11/02 11:03 [FirstSquawk] Indonesia's main stock index drops to 5,030.799, down 0.5% at the start of trading.
+- 11/02 11:03 [FirstSquawk] Indonesian rupiah weakens against the dollar, falling to 18,140.
+- 11/02 11:04 [FirstSquawk] Washington Pushes for Restoration of Russian Gas Flows to Europe via Ukraine, Aiming to Secure an Energy Truce Between Moscow and Kyiv - WSJ
+- 11/02 11:11 [FirstSquawk] Indonesian stocks come under pressure, with the Jakarta index down 1.5%.
+- 11/02 11:17 [FirstSquawk] HSBC Plans to Establish a Hong Kong-Based Centre for AI and Emerging Technology Research.
+- 11/02 11:28 [FirstSquawk] Yen Weakens as Traders Discount Intervention Threats Amid a More Dovish BoJ Outlook - FX
+- 11/02 11:32 [FirstSquawk] South Korea Auctions 2-Year Treasury Bonds With a Yield of 3.725%, Ministry Says.
+- 11/02 11:32 [FirstSquawk] US Oil Prices Fall Below Previous Session's Levels, With Crude Losing Over $3 to $101.11/Barrel.
+- 11/02 11:33 [FirstSquawk] Brent Oil Slides More Than $3 to $110.37/Barrel, Approaching Its Lowest Level in Over a Week.
+- 11/02 11:39 [FirstSquawk] Chinese Finance Ministry Schedules 28-Day Bill Sale Worth 20 Billion Yuan for November 3.
+- 11/02 11:43 [FirstSquawk] South Korean Soldier Dies Following Injuries at Frontline Military Unit in Cheorwon Near North Korea Border.
+- 11/02 11:50 [FirstSquawk] NATO Allies Fear Trump May Target the Alliance Following a Republican Midterm Defeat – Politico.
+- 11/02 12:00 [FirstSquawk] Australia's Property Market Faces Further Pressure as RBA Prepares to Raise Rates Again - WSJ
+- 11/02 12:04 [FirstSquawk] Xi Jinping Meets Omani Sultan During Beijing Visit, According to Xinhua.
+- 11/02 12:12 [FirstSquawk] South Korea's Stock Market Moves Into Positive Territory as Investors Buy on Dips.
+- 11/02 12:18 [FirstSquawk] Japan Presses U.S. to Enforce Better Discipline After Another Marine Is Taken Into Custody.
+- 11/02 12:19 [FirstSquawk] Circle Confirms Freezing USDC Holdings Exceeding $1.1 Billion Connected to Binance Hack.
+- 11/02 12:25 [FirstSquawk] Massive Deep-Sea Chimneys Identified by Chinese Researchers Could Pose New Considerations for Naval Warfare.
+- 11/02 12:28 [FirstSquawk] Trump Announces $4.3 Billion Mortgage Investment in Kansas by Fannie Mae and Freddie Mac Next Year.
+- 11/02 12:30 [FirstSquawk] China's STAR 50 Index Gains Over 3% in Shanghai Trading.
+- 11/02 12:43 [FirstSquawk] Australian Dollar Stays Above 0.7000; 100-Day EMA Emerges as Key Level Ahead of RBA - FX
+- 11/02 12:52 [FirstSquawk] Nearly 80% of Korean Judges Report Coming Across Fabricated Legal Cases Generated by AI - YONHAP
+- 11/02 12:55 [FirstSquawk] Singapore Stocks Slide as the Benchmark Index Hits a Low of 5,262.85 Since July 7
+- 11/02 12:56 [FirstSquawk] Goldman Sachs Expects BOE to Raise Rates by 25 BPS in February 2027, With Peak Rate at 4.25%
+- 11/02 12:57 [FirstSquawk] Goldman Sees BOE Keeping Rates Unchanged at 4.25% Until Mid-2027, Then Cutting Quarterly From Q4 2027 to a 3.25% Terminal Rate
+- 11/02 13:05 [FirstSquawk] Seoul and Tokyo Set to Discuss North Korea and Bilateral Issues at Vice Foreign Minister-Level Meeting - YONHAP
+- 11/02 13:13 [FirstSquawk] Japanese Firms Step Up Gas Supply Deals, Committing $21 Billion - FT
+- 11/02 13:22 [FirstSquawk] NZ Dollar Weakens as Markets React to China's Manufacturing PMI Data - FX
+- 11/02 13:29 [FirstSquawk] South Korea's Defense Ministry Establishes New Drone Command to Strengthen Unmanned Capabilities Amid North Korean Threats - YONHAP
+- 11/02 13:36 [FirstSquawk] National Bank of Canada lifts its price target on Canadian National Railway to C$194 from C$190.
+- 11/02 13:41 [FirstSquawk] Xi says strengthening China-Oman relations is strategically important for both countries.
+- 11/02 13:46 [FirstSquawk] Shares of Samsung Electronics jump 3%.
+- 11/02 13:49 [FirstSquawk] Sumitomo increased natural gas and LNG trading in the U.S. and Europe amid rising energy prices, supporting higher H1 earnings, CEO says.
+- 11/02 13:51 [FirstSquawk] Russian forces hit cargo vessels near Odesa, around 58 km south of the Ukrainian Black Sea port, Interfax says.
+- 11/02 13:52 [FirstSquawk] Russian forces target military infrastructure in the Odesa region of Ukraine, according to Interfax.
+- 11/02 13:53 [FirstSquawk] ADNOC partners with G42 and OpenAI to deploy advanced AI technology, becoming the energy sector's first company to do so, ADMO says.
+- 11/02 13:55 [FirstSquawk] UAE's government, enterprise and education sectors to receive joint AI adoption support from OpenAI and Inception42, ADMO says.
+- 11/02 13:55 [FirstSquawk] Large UAE organisations to receive tailored enterprise solutions through OpenAI and Inception42's collaboration, ADMO says.
+- 11/02 14:00 [FirstSquawk] INDIA (OCT) HSBC INDIA PMI MFG ACTUAL: 54.7 VS 54.9 PREVIOUS
+- 11/02 14:03 [FirstSquawk] BOJ expects monetary tightening to ease price pressures and provide support to consumption.
+- 11/02 14:05 [FirstSquawk] Underlying inflation has moved towards 2% and is gradually becoming embedded at that level, the BOJ says.
+- 11/02 14:07 [FirstSquawk] Japan's median real borrowing costs continue to remain relatively low, BOJ says.
+- 11/02 14:07 [FirstSquawk] Bank of Japan is tracking stock market and currency movements as part of its assessment of domestic financial conditions.
+- 11/02 14:08 [FirstSquawk] Rising interest rates set to improve earnings at Japan's megabanks, Fitch Ratings says.
+- 11/02 14:09 [FirstSquawk] Bank of Japan to consider multiple economic datasets and surveys when evaluating the country's financial environment.
+- 11/02 14:09 [FirstSquawk] Fitch expects further earnings improvement at Japan's megabanks as higher domestic interest rates boost margins, investment income and customer revenue.
+- 11/02 14:16 [FirstSquawk] Sumitomo is assessing various options for progressing its offshore wind project in Nagasaki Prefecture, CEO says.
+- 11/02 14:21 [FirstSquawk] Indonesia's September foreign tourist arrivals increase 2.31% from a year earlier, official data shows.
+- 11/02 14:24 [FirstSquawk] Australia's benchmark index falls 0.6% to finish at 8,856.50.
+- 11/02 14:33 [FirstSquawk] Yamaha cancels participation in Qatar MotoGP race over Middle East safety concerns.
+- 11/02 14:34 [FirstSquawk] South Korea's fuel price cap prompts compensation talks between S-Oil and the government.
+- 11/02 14:41 [FirstSquawk] Global lubricant supply is likely to remain tight into 2027, S-Oil says.
+- 11/02 14:47 [FirstSquawk] Xi stresses that regional stability and peace must be nurtured and protected through collective action.
+- 11/02 14:48 [FirstSquawk] China remains committed to resolving conflicts through dialogue and diplomatic channels, Xi says.
+- 11/02 14:48 [FirstSquawk] China’s Xi warns against turning the Middle East and Gulf into a battleground for great power competition.
+- 11/02 14:53 [FirstSquawk] Saudi Arabia accounts for most of S-Oil's crude procurement through long-term contracts.
+- 11/02 14:59 [FirstSquawk] Afghanistan's government asks the US to take a responsible approach towards deporting Afghan nationals back home.
+- 11/02 15:00 [FirstSquawk] Saudi authorities alert residents to a possible danger in the southern part of Khamis Mushait.
+- 11/02 15:04 [FirstSquawk] Denmark records a 34.31% annual increase in Tesla new registrations in October, Bilstatistik .dk data shows.
+- 11/02 15:05 [FirstSquawk] Ryanair H1 Earnings: • Rev: €5.70B (est €5.71B) • Profit After Tax: €1.61B (est €1.59B) • Customers: 125.8M (est 125.83M) • Load Factor: 95% (est 94.9%) • Sees FY Customers: 214M, Saw 216M (est 215.11M)
+- 11/02 15:07 [FirstSquawk] ADNOC chief says the Strait of Hormuz disruption has led to a drawdown of nearly 1 billion barrels from global inventories.
+- 11/02 15:07 [FirstSquawk] The world has drawn down its available supply reserves, according to ADNOC's CEO.
+- 11/02 15:08 [FirstSquawk] Some markets are reporting diesel inventories at their weakest seasonal levels in 35 years, according to ADNOC's CEO.
+- 11/02 15:09 [FirstSquawk] TotalEnergies reaches agreements to take over operated interests in Malaysia.
+- 11/02 15:13 [FirstSquawk] Ryanair CEO warns that escalating fuel costs will lead to substantial capacity restrictions and additional airline failures.
+- 11/02 15:20 [FirstSquawk] Anthropic targets up to $3.5 billion through a Japan share sale ahead of its Nasdaq listing, Reuters reports.
+- 11/02 15:26 [FirstSquawk] Today's agreements deepen the relationship between OpenAI and the UAE, CEO Sam Altman says.
+- 11/02 15:36 [FirstSquawk] Higher oil prices could mark a period of strong performance for Ryanair, according to its CEO.
+- 11/02 15:51 [FirstSquawk] Houthi ballistic missile aimed at southern Saudi Arabia intercepted and destroyed by coalition air defences, coalition says.
+- 11/02 15:55 [FirstSquawk] AI-generated fake court precedents have been encountered by 80% of judges in South Korea, according to a survey - KYODO
+- 11/02 15:59 [FirstSquawk] Fitch leaves Taiwan's Exim credit rating unchanged at 'AA', with the outlook remaining stable.
+- 11/02 16:00 [FirstSquawk] GERMANY (SEP) RETAIL SALES MOM ACTUAL: -2% VS 1.3% PREVIOUS;EST 0.4%
+- 11/02 16:00 [FirstSquawk] GERMANY (SEP) RETAIL SALES SA YOY ACTUAL: -2.3% VS -0.4% PREVIOUS;EST -0.2%
+- 11/02 16:06 [FirstSquawk] BP SAYS USING $6 BLN IN AFTER-TAX PROCEEDS FROM CASTROL TRANSACTION TO FURTHER REDUCE FINANCIAL OBLIGATIONS; FOLLOWING TWO-YEAR LOCK-UP PERIOD, BP HAS OPTIONALITY TO SELL ITS 35% STAKE IN CASTROL
+- 11/02 16:08 [FirstSquawk] BP SAYS CASTROL'S DEBT-LIKE OBLIGATIONS ON BP'S BALANCE SHEET ARE RECOGNISED AT AROUND $0.3 BLN AS AT 30 SEPTEMBER 2026
+- 11/02 16:10 [FirstSquawk] BP SAYS WILL TREAT RETAINED STAKE IN CASTROL AS EQUITY ACCOUNTED INVESTMENT, DOES NOT EXPECT TO GET EARNINGS OR RECEIVE DIVIDEND IN SHORT TO MEDIUM TERM
+- 11/02 16:12 [FirstSquawk] JAPAN AND SAUDI ARABIA DEFENSE MINISTERS HELD CALL ON MONDAY
+- 11/02 16:16 [FirstSquawk] CHINA FOREIGN MINISTRY SAYS SPECIAL ENVOY ZHAI JUN TO VISIT IRAN, OMAN, SAUDI IN EARLY, MID NOV
+- 11/02 16:17 [FirstSquawk] CHINA FOREIGN MINISTRY SAYS SPECIAL ENVOY TO AFRICA TO VISIT ETHIOPIA, DJIBOUTI, EGYPT IN EARLY, MID NOV
+- 11/02 16:19 [FirstSquawk] SHELL WILL SUPPLY METLEN WITH 6 LNG CARGOES/YEAR
+- 11/02 16:27 [FirstSquawk] PBOC TO CONDUCT SFISF TUESDAY SAYS CAILIAN
+- 11/02 16:28 [FirstSquawk] IRAN'S FOREIGN MINISTRY SPOKESPERSON BAGHAEI: BASIS OF DIPLOMACY WITH US IS IRAN'S SEVEN STEPS PROPOSAL, CHANCE OF ITS IMPLEMENTATION OVER NEXT FEW DAYS EXISTS
+- 11/02 16:35 [FirstSquawk] IRAN'S BAGHAEI: EXCHANGE OF MESSAGES WITH US CONTINUES, DEPUTY FOREIGN MINISTER GHARIBABADI WAS IN DOHA TO FACILITATE THIS
+- 11/02 16:40 [FirstSquawk] IRAN: IT HAS CONVEYED 'LEGITIMATE DEMANDS' TO THE US
+- 11/02 16:42 [FirstSquawk] IRAN SAYS HORMUZ CANNOT BE REOPENED BEFORE LIFTING OF US SANCTIONS
+- 11/02 16:53 [FirstSquawk] START OF IRAN & US NEGOTIATIONS DEPEND ON END OF NAVAL BLOCKADE
+- 11/02 17:01 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 0.39%; FRANCE'S CAC 40 DOWN 0.13%; SPAIN'S IBEX UP 0.4%
+- 11/02 17:02 [FirstSquawk] TESLA NEW REGISTRATIONS IN SWEDEN +248% YEAR-ON-YEAR IN OCTOBER, COMPILER MOBILITY SWEDEN
+- 11/02 17:05 [FirstSquawk] IRAN'S BAGHAEI: TEHRAN DOES NOT EXPECT A NEW US AFTER MIDTERM ELECTIONS
+- 11/02 17:06 [FirstSquawk] IRAN: VANCE LETTER OFFERS NO NEW BASIS, DEMANDS UNCHANGED
+- 11/02 17:06 [FirstSquawk] CHINA & OMAN SHOULD ENCOURAGE US, IRAN TO PURSUE PEACEFUL OPTIONS, RETURN TO ISLAMABAD MOU, RESTART DIALOGUE -XINHUA
+- 11/02 17:22 [FirstSquawk] IRAN: US MUST CHANGE APPROACH FOR TALKS TO PROCEED
+- 11/02 17:22 [FirstSquawk] IRAN: NOT YET AT STAGE FOR NUCLEAR NEGOTIATIONS WITH US
+- 11/02 17:34 [FirstSquawk] OMAN, CHINA SILK ROAD FUND SIGN TERM SHEET FOR $800M FUND - ONA
+- 11/02 17:35 [FirstSquawk] OMAN, CHINA MERCHANTS BANK SIGN TERM SHEET FOR $300M FUND- ONA
+- 11/02 17:40 [FirstSquawk] SAUDI ARABIA SAYS DANGER HAS PASSED IN JAZAN
