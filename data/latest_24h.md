@@ -7,95 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-11-02 17:43 JST／対象: 11/01 17:43 〜 11/02 17:43 JST（時刻はすべて日本時間）
+生成: 2026-11-03 03:51 JST／対象: 11/02 03:51 〜 11/03 03:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 4 | 11/01 22:16 | 11/02 05:37 | ⚠ 235分（01:11→05:06） |
-| FirstSquawk | 228 | 11/01 20:01 | 11/02 17:40 | ⚠ 88分（06:20→07:48） |
-| financialjuice | 20 | 11/01 18:46 | 11/02 03:09 | ⚠ 83分（18:46→20:10） |
+| DeItaone | 71 | 11/02 05:06 | 11/03 03:10 | ⚠ 881分（05:37→20:18） |
+| FirstSquawk | 264 | 11/02 04:13 | 11/03 03:34 | ⚠ 88分（06:20→07:48） |
+| financialjuice | 49 | 11/02 23:55 | 11/03 03:44 | ⚠ 48分（01:33→02:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 241 行（統合前 253 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 373 行（統合前 386 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/01 18:46 [financialjuice/FirstSquawk] Ukraine's Zelenskiy: Russia targeted energy infrastructure in four regions overnight, hundreds of thousands lose power
-- 11/01 20:01 [FirstSquawk] Russia announces attack on "industrial company" near Moscow, and Kyiv announces targeting of major refinery
-- 11/01 20:01 [FirstSquawk] Kremlin: Putin will respond if Ukrainian President Zelensky calls him, and he has never refused to hold talks.
-- 11/01 20:01 [FirstSquawk] Anwar Gargash says that the security of the Gulf countries is interconnected, and what affects any one of them affects the United Arab Emirates.
-- 11/01 20:01 [FirstSquawk] Anwar Gargash: We do not want a new round of military confrontations in the region
-- 11/01 20:02 [FirstSquawk] Anwar Gargash: The movement in the Strait of Hormuz must return to the status quo before February 28.
-- 11/01 20:02 [FirstSquawk] Anwar Gargash, Diplomatic Advisor to the President of the UAE: Trust with Iran Has Been Shaken
-- 11/01 20:02 [FirstSquawk] 5 Palestinians killed in an Israeli airstrike on the "Al-Mawasi" area in Khan Younis, southern Gaza Strip.
-- 11/01 20:02 [FirstSquawk] Palestinian killed in an Israeli airstrike that targeted citizens in "Al-Rimal" neighborhood in Gaza City
-- 11/01 20:02 [FirstSquawk] Iraqi News Agency: Recovery of 21 billion and 424 million Iraqi dinars in financial fraud crime
-- 11/01 20:10 [financialjuice/FirstSquawk] Iranian negotiators in Doha for third day of talks with Qatari mediators: official briefed on discussions
-- 11/01 20:12 [FirstSquawk] Binance restarts customer withdrawals after $6.3bn heist - FT
-- 11/01 20:12 [FirstSquawk] EU leaders risk breaking their promise to help European start-ups -ft
-- 11/01 20:18 [FirstSquawk] Zelenskiy: Ukraine strikes Kamensky plant in Russia’s Rostov region
-- 11/01 21:11 [financialjuice/FirstSquawk] Kremlin: positive assessment of humanitarian operation in Oleshky and coordination between Russian and Ukrainian ombudsmen
-- 11/01 21:23 [financialjuice/FirstSquawk] World Bank to sign $1 billion deal with Egypt for second phase of development program: Egyptian cabinet
-- 11/01 21:26 [financialjuice/FirstSquawk] OPEC+ keeps oil output quotas unchanged for December at Sunday meeting: statement
-- 11/01 22:01 [financialjuice/FirstSquawk] Russia’s state statistics service: targeted by cyberattacks between Oct. 29 and Nov. 1; no data breached - Interfax
-- 11/01 22:10 [financialjuice/FirstSquawk] Iran's state media citing Foreign Minister Aragchi on talks with Qatari mediators: hope for rationality from other side
-- 11/01 22:12 [financialjuice/FirstSquawk] Iran's Foreign Minister Aragchi on talks with Qatari mediators: negotiations ongoing and advancing, no definitive conclusion reached yet
-- 11/01 22:16 [DeItaone] IRAN'S FOREIGN MINISTER ARAQCHI ON TALKS WITH QATARI MEDIATORS: NEGOTIATIONS ARE ONGOING AND PROGRESSING, BUT WE HAVE NOT YET REACHED A DEFINITIVE CONCLUSION
-- 11/01 22:41 [FirstSquawk] Qatari Foreign Ministry: Qatar condemns the attack targeting a liquefied natural gas carrier in the Arabian Gulf
-- 11/01 22:41 [FirstSquawk] Qatari Foreign Ministry: Targeting the gas tanker is a dangerous act that threatens maritime navigation safety and global energy supply security
-- 11/01 22:42 [FirstSquawk] Qatari Foreign Ministry: Qatar reserves its right to take necessary measures in accordance with international law to protect its properties and safeguard its interests
-- 11/01 22:42 [FirstSquawk] Qatari Foreign Ministry: The competent authorities have begun the necessary investigations to ascertain the circumstances of the incident and identify those responsible for it.
-- 11/01 22:42 [FirstSquawk] Iraqi: Negotiations are ongoing and witnessing progress, but we have not yet reached a final result.
-- 11/01 22:42 [FirstSquawk] Iranian Foreign Minister: We hope there will be rationality from the other side.
-- 11/01 22:43 [FirstSquawk] Iranian Foreign Minister: Consultations are ongoing with the Qatari mediator, but we have not yet reached the final result.
-- 11/01 22:43 [FirstSquawk] Iranian Foreign Minister: Achieving the result depends on the response we will receive from the opposing side.
-- 11/01 22:43 [FirstSquawk] Iranian Foreign Minister: No plans to hold a meeting with the American side during the Iranian delegation's visit to Doha
-- 11/01 22:43 [FirstSquawk] Coalition: We carried out a qualitative operation to neutralize vital sources used by the terrorist Houthi militia to support its war effort
-- 11/01 22:43 [FirstSquawk] Coalition: The Houthi militia must cease all hostile and barbaric operations against civilians and bear the consequences of its hostile behavior.
-- 11/01 22:58 [financialjuice/FirstSquawk] Russia's security service: minor detained after US tip-off over threat to carry out terrorist attack in Tsaritsyno park - Interfax
-- 11/01 23:19 [financialjuice/FirstSquawk] Senator Dan Sullivan: I will accept the results in Alaska US Senate race - CNN interview
-- 11/02 00:21 [financialjuice] Saudi civil defense issues warning of possible threat in Abha and Khamis Mushait
-- 11/02 00:28 [financialjuice] Saudi civil defense: danger has passed in Abha and Khamis Mushait
-- 11/02 00:34 [FirstSquawk] Saudi Arabia announces the execution of a qualitative operation to neutralize vital sources used by the Houthis to support their military efforts.
-- 11/02 00:34 [FirstSquawk] Syrian authorities announce the arrest of a terrorist cell affiliated with ISIS involved in assassinations in Deir ez-Zor province.
-- 11/02 00:34 [FirstSquawk] United Nations: More than 300,000 people have fled the battles in western Yemen
-- 11/02 00:35 [FirstSquawk] Saudi Foreign Ministry: We strongly condemn the targeting of a gas tanker belonging to Qatar Gas Company for gas transportation in the waters of the Arabian Gulf
-- 11/02 00:35 [FirstSquawk] Saudi ForeignMinistry: We reiterate our rejection of all violations that threaten the security and safety of maritime navigation and global energy supplies.
-- 11/02 00:35 [FirstSquawk] Saudi ForeignMinistry: We affirm our solidarity with our sister state of Qatar in all its measures to protect its tankers and the safety of its international trade
-- 11/02 00:36 [FirstSquawk] Saudi Foreign Ministry: We emphasize the importance of the international community taking urgent measures to ensure maritime security
-- 11/02 00:36 [FirstSquawk] GCC Secretary-General: Targeting energy tankers is a dangerous escalation that undermines regional security
-- 11/02 00:36 [FirstSquawk] GCC Secretary General: Maritime passages must remain safe for navigation and trade
-- 11/02 00:36 [FirstSquawk] GCC Secretary-General: We warn of the consequences of targeting gas tankers on the marine environment and the regularity of energy flow
-- 11/02 00:36 [FirstSquawk] GCC Secretary General: We support Qatar's measures and actions to preserve its capabilities and protect its properties
-- 11/02 00:36 [FirstSquawk] SANA from a source in the Syrian General Intelligence: Foiling a terrorist plot targeting the Banias refinery
-- 11/02 00:48 [financialjuice] Saudi-led coalition: Intercepts and destroys ballistic missile launched by Yemen's Houthis toward southern region
-- 11/02 00:51 [financialjuice] Saudi-led coalition: intercepted and destroyed drone launched by Yemen's Houthis toward southern region
-- 11/02 01:06 [FirstSquawk] Coalition: Air defenses intercepted and destroyed a ballistic missile launched by the terrorist Houthi militia toward the southern region
-- 11/02 01:06 [FirstSquawk] Yemeni Government Forces: Downing of Two Houthi Militia Drones in the Sabr Front
-- 11/02 01:07 [FirstSquawk] Trump to Fox News: There are matters that have not yet been settled in Iran
-- 11/02 01:11 [DeItaone] BINANCE SEES $3.5 BILLION IN OUTFLOWS AFTER RECORD $6.3 BILLION HACK Binance recorded more than $3.5 billion in net outflows Sunday, according to DefiLlama, after resuming withdrawals following a $6.3 billion cryptocurrency theft. The excha…
-- 11/02 01:42 [financialjuice] ICYMI: Pakistan-bound LNG tanker attacked near Hormuz despite Iran clearance
-- 11/02 01:48 [FirstSquawk] Yemeni Government Forces: We carried out 1272 strikes on reinforcements of the Houthi_group as part of Operation Dawn of Yemen over the last 24 hours
-- 11/02 01:48 [FirstSquawk] Israeli airstrike on the outskirts of Aita al-Jabal town, southern Lebanon
-- 11/02 01:48 [FirstSquawk] SANA from a source in Syrian General Intelligence: Foiling a terrorist plot to target the Homs refinery
-- 11/02 01:48 [FirstSquawk] Zelensky: If Washington wants us not to target Russian oil refineries, then Moscow must stop its attacks on Ukraine's energy system.
-- 11/02 01:48 [FirstSquawk] Zelensky: We offered Washington to purchase Patriot missiles and confirmed our readiness to secure the necessary funding.
-- 11/02 01:49 [FirstSquawk] Iranian Presidency: Foreign Minister submitted a report to the government regarding developments in the negotiations with America through intermediaries
-- 11/02 02:33 [FirstSquawk] Israeli Broadcasting Authority: The Knesset Director General calls on party leaders to meet at the Presidential Residence on Wednesday
-- 11/02 02:33 [FirstSquawk] Iraqi: We are prepared for defense and diplomacy, and the choice depends on the extent of the United States' adherence to rationality
-- 11/02 02:33 [financialjuice] Democratic Senator Chris Murphy hospitalized after stroke: senator’s chief of staff, Politico
-- 11/02 02:37 [financialjuice] Democratic Senator Chris Murphy hospitalized after stroke: senator's chief of staff
-- 11/02 02:40 [financialjuice/FirstSquawk] Democrat Haley Stevens backs Republican Mike Rogers in crucial US Senate race in Michigan - social media post
-- 11/02 02:48 [FirstSquawk] US JUDGE REJECTS TRUMP ADMINISTRATION'S EARLY LEGAL CHALLENGE TO ALASKA SENATE RACE
-- 11/02 02:50 [FirstSquawk] BINANCE SAYS THAT 12 HOURS AFTER WITHDRAWALS RESUMED, THERE WAS A 2.1% NET OUTFLOW, WITH MOST WITHDRAWALS OCCURRING IN THE FIRST COUPLE OF HOURS
-- 11/02 02:50 [FirstSquawk] MITSUBISHI HEAVY WILL BOOST U.S. GAS TURBINE PRODUCTION - NIKKEI
-- 11/02 03:09 [financialjuice] UKMTO: reports incident in Strait of Hormuz
-- 11/02 03:09 [financialjuice] Ukmto: captain of merchant ship reports another vessel hit by unidentified projectile
-- 11/02 03:15 [FirstSquawk] UKMTO REPORTS AN INCIDENT IN THE STRAIT OF HORMUZ, WITH THE CAPTAIN OF A MERCHANT SHIP REPORTING THAT ANOTHER VESSEL WAS HIT BY AN UNIDENTIFIED PROJECTILE
 - 11/02 04:13 [FirstSquawk] TRUMP SAYS CONGRESSWOMAN HALEY STEVENS, A DEMOCRAT WHO NARROWLY LOST THE PRIMARY TO ABDUL MOHAMED EL-SAYED AND HAD BEEN COURTED BY DEMOCRATS TO HELP IN THEIR MICHIGAN SENATE CAMPAIGN AGAINST MIKE ROGERS, HAS JUST ENDORSED MIKE ROGERS FOR SE…
 - 11/02 04:13 [FirstSquawk] TRUMP SAYS STEVENS HAS A HUGE FOLLOWING AND VIRTUALLY UNPARALLELED RESPECT FROM THE PEOPLE OF MICHIGAN, ESPECIALLY ITS AFRICAN AMERICAN AND JEWISH POPULATIONS, AND THAT SHE “SAID WHAT FEW PEOPLE ARE WILLING TO SAY,” SHOWING “GREAT AND ALMOS…
 - 11/02 04:28 [FirstSquawk] THE QATARI LNG CARRIER AL MAYEDA, BOUND FOR PAKISTAN, WAS STRUCK BY PROJECTILES IN THE GULF, WITH BLOOMBERG REPORTING IRAN HAD CLEARED THE VOYAGE HOURS EARLIER AND NO ONE HAVING CLAIMED THE ATTACK
@@ -265,3 +193,207 @@
 - 11/02 17:34 [FirstSquawk] OMAN, CHINA SILK ROAD FUND SIGN TERM SHEET FOR $800M FUND - ONA
 - 11/02 17:35 [FirstSquawk] OMAN, CHINA MERCHANTS BANK SIGN TERM SHEET FOR $300M FUND- ONA
 - 11/02 17:40 [FirstSquawk] SAUDI ARABIA SAYS DANGER HAS PASSED IN JAZAN
+- 11/02 17:50 [FirstSquawk] FRANCE'S OCTOBER MANUFACTURING PMI FINALIZED AT 49.5, ABOVE EXPECTATIONS OF 49.3.
+- 11/02 17:55 [FirstSquawk] GERMAN OCTOBER FINAL MANUFACTURING PMI AT 54.2(FORECAST 54.2)
+- 11/02 18:05 [FirstSquawk] CHINA'S CENTRAL BANK SAYS WILL CONDUCT LAUNCH SWAP FACILITY OPERATIONS FOR SECURITIES, FUND AND INSURANCE FIRMS ON NOVEMBER 3
+- 11/02 18:06 [FirstSquawk] CHINA'S CENTRAL BANK SAYS 31 FIRMS APPLIED WITH ALLOTMENT AMOUNT OF 100 BLN YUAN
+- 11/02 18:10 [FirstSquawk] UK 10-YEAR GILT YIELD DROPS 5 BASIS POINTS TO 5.23%, LOWEST LEVEL SINCE SEPTEMBER 2023.
+- 11/02 18:11 [FirstSquawk] ECB'S KAZIMIR STATES THAT THE DISCUSSION IS SHIFTING FROM WHETHER FURTHER ACTION IS REQUIRED TO HOW MUCH ACTION IS NEEDED.
+- 11/02 18:11 [FirstSquawk] ECB'S KAZIMIR SAYS WAITING FOR INFLATION TO INCREASE AND COMPANIES TO PASS COSTS IS NOT A SMART POLICY.
+- 11/02 18:11 [FirstSquawk] ECB'S KAZIMIR SAYS ACTION IS NEEDED BEFORE HIGH INFLATION BECOMES THE NORM.
+- 11/02 18:11 [FirstSquawk] ECB'S KAZIMIR SAYS MARKETS MIGHT NOT FULLY GRASP THE NECESSARY PATH AHEAD.
+- 11/02 18:11 [FirstSquawk] UK 10-YEAR GILT YIELD FALLS 5BPS TO 5.23%, LOWEST SINCE SEPT 23
+- 11/02 18:12 [FirstSquawk] SHELL: SHELL SIGNS LONG-TERM SUSTAINABLE AVIATION FUEL AGREEMENT FROM PLANNED MOROCCO FACILITY; AGREEMENT WOULD GIVE CO EXCLUSIVE OFFTAKE RIGHTS FOR ABOUT 150,000 TONNES A YEAR OF SAF
+- 11/02 18:14 [FirstSquawk] SHELL SAYS SHELL SIGNS LONG-TERM SUSTAINABLE AVIATION FUEL AGREEMENT FROM PLANNED MOROCCO FACILITY; AGREEMENT WOULD GIVE CO EXCLUSIVE OFFTAKE RIGHTS FOR ABOUT 150,000 TONNES A YEAR OF SAF
+- 11/02 18:14 [FirstSquawk] CHINESE FM WANG YI DISCUSSES SECURITY WITH IRAN'S NATIONAL SECURITY OFFICIAL.
+- 11/02 18:17 [FirstSquawk] BRENT CRUDE OIL DROPS 4% AS HOPE GROWS FOR US-IRAN WAR RESOLUTION.
+- 11/02 18:30 [FirstSquawk] UK OCT MANUFACTURING PMI 52.8; PRELIM 52.8
+- 11/02 18:45 [FirstSquawk] KREMLIN ON ALLEGATIONS ABOUT RUSSIA RE-ARMING ITS UNITS IN OLESHKY DURING CEASEFIRE: UKRAINE COULD HAVE USED CEASEFIRE TO RE-GROUP AS WELL, IT'S NORMAL PRACTICE; NO PLANS SO FAR FOR MORE HUMANITARIAN OPERATIONS SIMILAR
+- 11/02 18:46 [FirstSquawk] KREMLIN ON WSJ REPORT ABOUT RUSSIAN GAS SUPPLIES TO EUROPE VIA UKRAINE: REALITIES ON THE GROUND RULE OUT SUCH PLANS FOR THE MOMENT
+- 11/02 18:46 [FirstSquawk] UAE MINISTER: DECLINES TO DISCLOSE CURRENT OIL EXPORT LEVEL
+- 11/02 18:50 [FirstSquawk] UAE'S ENERGY, INFRASTRUCTURE MINISTER: WE CANNOT PREDICT WHAT WILL HAPPEN WITH WAR BUT WE WILL BE MORE PREPARED THAN BEFORE
+- 11/02 18:53 [FirstSquawk] UK 30-YEAR GILT YIELDS DROP MORE THAN 7 BPS ON DAY TO 5.648%, LOWEST SINCE 7 AUGUST
+- 11/02 19:07 [FirstSquawk] OPENAI EYES $20 BLN IN NEW FUNDING - CNBC
+- 11/02 19:08 [FirstSquawk] OPENAI'S NEW FUNDING FALLS SHORT OF AN EARLIER TARGET OF $30 BLN - CNBC
+- 11/02 19:17 [FirstSquawk] FLYDUBAI RESUMES FLIGHTS BETWEEN DUBAI & SKOPJE
+- 11/02 19:17 [FirstSquawk] IRGC: 11 TANKERS BURNED IN HORMUZ STRAIT SINCE OCT 25
+- 11/02 19:17 [FirstSquawk] SPACEX IS IN TALKS TO BUY BOOST MOBILE OR USE ITS NETWORK – WAPO
+- 11/02 19:29 [FirstSquawk] ECB'S VUJCIC: SOVEREIGN BOND MARKET MUST BE MONITORED
+- 11/02 19:36 [FirstSquawk] RUSSIAN FOREIGN MINISTRY SAYS SIGNALS OF PLANNED NEW MILITARY ACTION AGAINST IRAN ARE CAUSING EXTREME CONCERN - TASS
+- 11/02 19:36 [FirstSquawk] SAUDI ARABIA: ISSUES ALERT OF POTENTIAL DANGER IN NAJRAN
+- 11/02 19:39 [FirstSquawk] SAUDI ARABIA: DANGER HAS PASSED IN NAJRAN
+- 11/02 19:50 [FirstSquawk] GAZPROM DAILY EXPORTS TO CHINA VIA POWER OF SIBERIA AT RECORD
+- 11/02 19:51 [FirstSquawk] BINANCE: NET OUTFLOWS FROM ITS PLATFORM HAVE REACHED $4.7 BILLION SINCE SUNDAY
+- 11/02 19:59 [FirstSquawk] CHINA PROPOSES EASING FX RULES FOR CURRENT ACCOUNT TRANSACTIONS
+- 11/02 20:07 [FirstSquawk] Loews Q3 2026 Earnings - Rev: $4.76B, Up 1.9% Y/Y - EPS: $1.50 vs $2.43 Y/Y
+- 11/02 20:07 [FirstSquawk] Estee Lauder Q1 2026 Earnings - Adj EPS: 72c (est 51c) - Net Sales: $3.72B (est $3.66B) - Makeup Rev: $1.05B (est $1.07B) - EUKEM Net Sales: $923M (est $916.1M) - Raises Fiscal 2027 FY Outlook On Sales - Sees FY EPS: $2.85 To $3.18 (prior $…
+- 11/02 20:10 [FirstSquawk/DeItaone] TRUMP, ASKED IF HE THINKS ELECTIONS WILL BE SECURE: NO
+- 11/02 20:12 [FirstSquawk] TRUMP ON IRAN: WE'VE KNOCKED OUT TWO OF THEIR REGIMES
+- 11/02 20:17 [FirstSquawk/DeItaone] TRUMP: I WILL VETO EVERYTHING IF DEMOCRATS WIN IN MIDTERMS
+- 11/02 20:19 [DeItaone] TRUMP: DON'T THINK MUSK WRONG ON WARNINGS ON DEMOCRATIC SWEEP
+- 11/02 20:19 [DeItaone] TRUMP ON IRAN: WE'LL SEE ABOUT A DEAL, THEY WANT TO MAKE ONE
+- 11/02 20:27 [FirstSquawk/DeItaone] TRUMP: HAVE TO PROTECT MUSK IF SPACEX AT RISK FROM DEMOCRATS
+- 11/02 20:36 [DeItaone] *TRUMP SAYS OIL PRICES ROSE LESS THAN HE EXPECTED DURING IRAN WAR *TRUMP PREDICTS US GAS PRICES WILL FALL BELOW $2 A GALLON
+- 11/02 20:36 [DeItaone] *TRUMP SAYS US RECEIVING MILLIONS OF BARRELS OF OIL FROM VENEZUELA
+- 11/02 20:37 [DeItaone] *TRUMP SAYS US LEADS CHINA IN AI SUPERINTELLIGENCE BY WIDE MARGIN
+- 11/02 20:37 [DeItaone] *TRUMP SAYS US COULD SOON CONTROL 50% OF GLOBAL CHIP BUSINESS
+- 11/02 20:41 [FirstSquawk] STANDARD CHARTERED LAUNCHES TOKENIZED DEPOSITS IN HONG KONG
+- 11/02 20:41 [FirstSquawk] TOTALENERGIES CEO SEES NO GAS SHORTAGE IN EUROPE THIS WINTER
+- 11/02 20:42 [DeItaone] 🇮🇱 LIBERMAN BACKS EISENKOT, RULES OUT COALITION WITH NETANYAHU Israeli opposition leader Avigdor Liberman reportedly said his party will recommend Gadi Eisenkot to lead the next government. Liberman reiterated that Benjamin Netanyahu must l…
+- 11/02 20:45 [DeItaone] MIZUHO REITERATES $165 TARGET ON STRATEGY ($MSTR ) Mizuho maintained its Outperform rating and $165 price target on Strategy following its Q3 2026 earnings call. Analyst Dan Dolev highlighted a stronger balance sheet, with 848,517 BTC held,…
+- 11/02 20:48 [DeItaone] $NVDA : MELIUS RESEARCH CUTS TARGET PRICE TO $315 FROM $420
+- 11/02 20:55 [FirstSquawk] BENJAMIN NETANYAHU PRESSES DONALD TRUMP FOR RENEWED STRIKES AGAINST IRAN - FT
+- 11/02 20:57 [DeItaone] https://t.co/sWPpBIeR4B
+- 11/02 20:58 [DeItaone] NETANYAHU PRESSES DONALD TRUMP FOR RENEWED STRIKES AGAINST IRAN
+- 11/02 21:00 [DeItaone] TRUMP FAMILY-LINKED MINER SAYS IT AIMS TO GO PUBLIC IN $2 BILLION DEAL, SOURCE SAYS
+- 11/02 21:00 [FirstSquawk] XCEL ENERGY TO OFFER $2 BILLION OF CONVERTIBLE SENIOR NOTES
+- 11/02 21:04 [DeItaone] *PBOC CUTS STOCK BUYBACK RELOAN RATE TO 1% FROM 1.25%
+- 11/02 21:15 [FirstSquawk] EUROPEAN GAS FALLS AS MUCH AS 5.3% TO €98.49/MWH
+- 11/02 21:15 [FirstSquawk] MARVELL AND LUMENTUM TO COMBINE, CREATING A CATEGORY LEADER IN AI CONNECTIVITY
+- 11/02 21:22 [FirstSquawk] STELLANTIS: HALTS POSSIBLE IN ITALY TIED TO PARTS SHORTAGES
+- 11/02 21:25 [FirstSquawk] CITIGROUP RAISES REGENERON TARGET PRICE TO $825 FROM $740
+- 11/02 21:33 [DeItaone] $ORCL - *ORACLE CORP FILES MIXED SHELF
+- 11/02 21:36 [DeItaone] VITOL CEO SAYS AT END 2026 WE WILL FIND DEMAND HAS SHRUNK BY ABOUT 3 MLN BBLS PER DAY VITOL CEO SAYS WORLD CANNOT COPE WITH A LARGER DISRUPTION THAN TODAY’S
+- 11/02 21:37 [FirstSquawk] OIL DEMAND WILL TAKE YEAR TO RECOVER TO 2025 LEVEL: VITOL CEO
+- 11/02 21:41 [DeItaone] VITOL CEO: OIL MARKET COULD SEE A PRETTY DIFFICULT SPRING VITOL CEO: OIL DEMAND WILL TAKE YEAR TO RECOVER TO 2025 LEVEL
+- 11/02 21:53 [DeItaone] BINANCE: WORKING TO RESUME WITHDRAWALS FOR ADDITIONAL NETWORKS AND ASSETS WITH THE NEXT PHASE PLANNED FOR TUESDAY
+- 11/02 22:01 [DeItaone] STRATEGY ($MSTR ) BUYS 811 BITCOIN, REPURCHASES $208 MILLION IN PREFERRED SHARES Strategy acquired 811 BTC for $65.5 million at an average price of $80,846 per Bitcoin, bringing total holdings to 849,327 BTC. The company also sold 1.18 mill…
+- 11/02 22:04 [DeItaone] LYNX EQUITY WARNS APPLE OF NEAR-TERM SUPPLY PRESSURE, SEES 2027 RECOVERY Lynx Equity expects Apple ($AAPL ) to face significant supply shortages and pricing pressure in the December quarter, potentially resulting in weaker-than-expected gui…
+- 11/02 22:06 [FirstSquawk] IRAN'S "GHOST FLEET" TANKER WAS SEEN EVADE US BLOCKADE CARRYING 500,000 BARRELS OF LPG TO CHINA.
+- 11/02 22:06 [FirstSquawk] OIL TANKER CATCHES FIRE AFTER HITTING MINE IN EASTERN PART OF STRAIT OF HORMUZ - IRANIAN STATE MEDIA
+- 11/02 22:07 [DeItaone] IRAN LEAVES DOHA TALKS AS NEW US DEAL PROPOSAL CIRCULATES Iranian officials have left Doha following indirect negotiations with Washington, as a draft proposal for a potential agreement circulates. Tehran insists that the US naval blockade …
+- 11/02 22:09 [DeItaone] IRAN'S IRGC REPORTS OIL TANKER STRUCK NAVAL MINE IN STRAIT OF HORMUZ Iran's Revolutionary Guard (IRGC) says a tanker struck a naval mine and caught fire in the eastern Strait of Hormuz, according to Fars News Agency. The IRGC claims the ves…
+- 11/02 22:15 [DeItaone] $CRWV $CRWD - COREWEAVE PARTNERS WITH CROWDSTRIKE TO SECURE MISSION-CRITICAL AI WORKLOADS AT SCALE
+- 11/02 22:22 [FirstSquawk] ORACLE FILES TO OFFER $10B OF COMMON STOCK
+- 11/02 22:34 [FirstSquawk] MARVELL TO ACQUIRE LUMENTUM IN $115 BILLION AI CONNECTIVITY MEGA-DEAL; LITE HOLDERS GET 23.9% PREMIUM — LITE POSITIVE $LITE
+- 11/02 22:36 [FirstSquawk] SPOT GOLD RISES NEARLY 1% TO $3,911.11/OZ
+- 11/02 22:37 [FirstSquawk/DeItaone] IRAN SUPREME LEADER HAS GRANTED GOVT AUTHORITY FOR TALKS: IRNA
+- 11/02 22:38 [DeItaone] SPOT SILVER RISES OVER 3% TO $50.78/OZ
+- 11/02 22:40 [DeItaone] IRAN'S PRESIDENT SAYS WAR WILL NOT FORCE TEHRAN TO SURRENDER Iranian President Masoud Pezeshkian declared that military pressure will not force Iran into submission, vowing to resist what he described as foreign threats and excessive demand…
+- 11/02 22:40 [FirstSquawk] OIL FALLS TO INTRADAY LOW, BRENT TRADES NEAR $106/BBL
+- 11/02 22:40 [FirstSquawk] NASDAQ 100 FUTURES GAIN 1%
+- 11/02 22:41 [DeItaone] JPMORGAN SEES POST-MIDTERM MARKET DIP AS BUYING OPPORTUNITY JPMorgan warns that renewed US-Iran conflict after the midterm elections could trigger an equity selloff and another oil price spike. However, strategist Mislav Matejka expects any…
+- 11/02 22:46 [FirstSquawk] XMAX SIGNS $122.5M FIVE-YEAR GPU COMPUTING CONTRACT WITH DSH HYPER — MAJOR AI REVENUE CATALYST; XMAX STRONGLY POSITIVE $XMAX
+- 11/02 22:46 [DeItaone] WHITE HOUSE'S HASSETT DISMISSES AI FINANCING FEARS White House economic adviser Kevin Hassett says the AI investment boom remains well-financed, dismissing concerns following last week's technology selloff. Hassett acknowledged risks among …
+- 11/02 22:49 [DeItaone] GOLDMAN SACHS SHARPLY RAISES OIL PRICE FORECASTS THROUGH 2027 Goldman Sachs raised its Brent crude forecast for Q4 2026 to $108 per barrel, up from $95, while increasing its WTI forecast to $96 from $85. The bank also lifted its 2027 Brent …
+- 11/02 22:56 [FirstSquawk] IRAN'S PRESIDENT PEZESHKIAN ON WAR WITH THE US: WE WILL TRY TO RESOLVE THE PROBLEM WITH DIALOGUE - STATE MEDIA
+- 11/02 22:56 [FirstSquawk] SPOT GOLD EXTENDS GAINS, UP NEARLY 2% TO $3,950.37/OZ -
+- 11/02 23:02 [DeItaone] GOLDMAN RESTRICTS TRADERS AND BANKERS FROM USING SOME AI TOOLS
+- 11/02 23:10 [FirstSquawk] IRAN'S TOP SECURITY OFFICIAL MOHSEN REZAI, RUSSIA'S PUTIN DISCUSS MIDDLE EAST DEVELOPMENTS IN PHONE CALL - FARS NEWS AGENCY
+- 11/02 23:19 [DeItaone] MORGAN STANLEY DOWNGRADES COINBASE, SLASHES PRICE TARGET TO $120 Morgan Stanley downgraded Coinbase ($COIN ) to Underweight from Equal-weight, cutting its price target to $120 from $258, a 53% reduction. Analyst Michael Cyprys cited weakeni…
+- 11/02 23:21 [DeItaone/FirstSquawk] IRAN'S FOREIGN MINISTER ARAQCHI SAYS CONSULTATIONS THROUGH MEDIATORS, QATAR AND PAKISTAN, ARE VERY INTENSE - IRNA
+- 11/02 23:22 [DeItaone/FirstSquawk] IRAN'S ARAQCHI: IF THE US ACCEPTS OUR CONDITIONS THE STRAIT OF HORMUZ WILL BE REOPENED AND NEGOTIATIONS WILL BE RESUMED - IRNA
+- 11/02 23:25 [DeItaone] IRAN WARNS US OF STRONGER MILITARY RESPONSE AS HORMUZ TALKS INTENSIFY Iranian Foreign Minister Abbas Araghchi says negotiations through Qatar and Pakistan are intensifying, but Washington must accept Tehran's conditions to reopen the Strait…
+- 11/02 23:26 [DeItaone] ANTHROPIC: OPERATING LOSS WAS $567 MILLION FOR THE THREE MONTHS ENDED SEPTEMBER 30, 2026
+- 11/02 23:26 [FirstSquawk] STOCKS OF CRUDE OIL IN THE US STRATEGIC PETROLEUM RESERVE FELL TO 282.2 MLN BARRELS LAST WEEK, LOWEST LEVEL SINCE 1982
+- 11/02 23:27 [DeItaone] ANTHROPIC: REVENUE GREW 1,127% YEAR OVER YEAR FOR THE THREE MONTHS ENDED SEPTEMBER 30, 2026
+- 11/02 23:27 [DeItaone] ANTHROPIC PBC: ADJUSTED OPERATING INCOME INCREASED FOR THE THREE MONTHS ENDED SEPTEMBER 30, 2026 TO $2.5 BILLION
+- 11/02 23:27 [FirstSquawk] ANTHROPIC 3Q NET LOSS $23.3 BILLION VS. $12.1 BILLION Y/Y
+- 11/02 23:28 [FirstSquawk] ARAGHCHI: REOPENING OF HORMUZ IS CONDITIONAL ON IRAN'S TERMS
+- 11/02 23:28 [DeItaone] $ANT - ANTHROPIC REPORTS 1,127% REVENUE SURGE, $895 BILLION IN COMMITMENTS Anthropic reported Q3 2026 revenue of $17 billion, representing 1,127% year-over-year growth, according to SEC filing headlines. The AI company reported a $567 milli…
+- 11/02 23:28 [FirstSquawk] Anthropic 9M Earnings - Q3 Net Loss: $23.3B Vs $12.1B Y/Y - 9M Revenue: $33.2B Vs $2.5B Y/Y - Aggregate Committed Spend: ~$895.4B As Of Sept. 30
+- 11/02 23:31 [FirstSquawk] DOW JONES UP 403.09 POINTS, OR 0.78 PERCENT, AT 52,173.40 AFTER MARKET OPEN NASDAQ UP 159.07 POINTS, OR 0.63 PERCENT, AT 25,596.07 AFTER MARKET OPEN S&P 500 UP 33.80 POINTS, OR 0.45 PERCENT, AT 7,613.87 AFTER MARKET OPEN
+- 11/02 23:32 [DeItaone] ORACLE SHARES FALL 4.9% AFTER CO ANNOUNCES PLANS TO RAISE $20 BLN THROUGH BOND AND STOCK SALES
+- 11/02 23:34 [FirstSquawk] KEWAUNEE TO ACQUIRE U.S. LAB DEALER NYCOM FOR $55M — MAJOR DISTRIBUTION EXPANSION; DEAL SIZE EQUALS ~57% OF KEQU MARKET CAP — KEQU STRONGLY POSITIVE This is very significant for KEQU, especially because the company is only around $97M marke…
+- 11/02 23:39 [FirstSquawk] UK 10 YEAR GILT YIELDS ON TRACK FOR BIGGEST ONE DAY FALL SINCE MAY 20TH
+- 11/02 23:41 [FirstSquawk] FG IMPERII SIGNS $325M MERGER WITH TZERO; COMBINED COMPANY COULD RECEIVE UP TO $231M TRUST CASH — FGII POSITIVE $FGII
+- 11/02 23:45 [FirstSquawk] US S&P GLOBAL OCT. MANUFACTURING PMI AT 54.9 VS FLASH 56
+- 11/02 23:45 [DeItaone] US OCT FINAL MANUF PMI 54.9 (56.0 FLASH, 55.9 SEP)
+- 11/02 23:49 [FirstSquawk] ANTHROPIC HAS ABOUT $895.4B IN COMMITTED SPEND
+- 11/02 23:55 [financialjuice] America's Gulf allies prepare for new round of strikes on Iran-and the blowback - WSJ
+- 11/03 00:00 [FirstSquawk] US OCT. ISM MANUFACTURING INDEX RISES TO 55.5; EST. 54.5
+- 11/03 00:00 [financialjuice] US ISM MFG. EMPLOYMENT INDEX ACTUAL 52.4 (FORECAST 52, PREVIOUS 52.7) $MACRO
+- 11/03 00:00 [financialjuice] US ISM MFG. NEW ORDERS INDEX ACTUAL 55.5 (FORECAST 55, PREVIOUS 55.3) $MACRO
+- 11/03 00:00 [financialjuice] US ISM MFG. PRICES PAID ACTUAL 75.2 (FORECAST 77.2, PREVIOUS 77.9) $MACRO
+- 11/03 00:00 [financialjuice] US CONSTRUCTION SPENDING MOM ACTUAL -1.9% (FORECAST 0.3%, PREVIOUS 0.9%) $MACRO
+- 11/03 00:00 [DeItaone] US MANUFACTURING BEATS EXPECTATIONS AS PRICE PRESSURES EASE The ISM Manufacturing PMI rose to 55.5 in October, beating the 54.5 consensus and September's 54.5 reading. New Orders: 55.5 vs. 55.3 previously. Employment: 52.4 vs. 52.0 expected…
+- 11/03 00:00 [financialjuice] ‼ BREAKING: US ISM MANUFACTURING PMI ACTUAL 55.5 (FORECAST 54.5, PREVIOUS 54.5) $MACRO
+- 11/03 00:01 [DeItaone] US CONSTRUCTION SPENDING PLUNGES 1.9%, SHARPLY MISSING EXPECTATIONS US construction spending fell 1.9% in September, significantly worse than the 0.3% increase expected by economists. Total spending declined to an annualized $2.186 trillion…
+- 11/03 00:02 [financialjuice] US ISM Manufacturing PMI Final October Report
+- 11/03 00:02 [DeItaone] SK HYNIX JUMPS 2.4% AFTER OPENAI CEO'S SOUTH KOREA VISIT SK hynix shares rose 2.4% after OpenAI CEO Sam Altman reportedly met SK Group executives to discuss HBM supply and Stargate AI infrastructure. SK hynix says customers are requesting m…
+- 11/03 00:03 [FirstSquawk] ONDS — BULLISH: $250M FEMA COUNTER-DRONE FUNDING OPENS NATIONWIDE PROCUREMENT OPPORTUNITY FOR ONDAS FEMA UNLOCKS $250M NATIONWIDE C-UAS FUNDING, EXPANDING ONDAS’ ADDRESSABLE MARKET FOR COUNTER-DRONE SYSTEMS $ONDS
+- 11/03 00:07 [financialjuice] US Defense Department signs a conditional loan of up to $450m with Neros to fund domestic drone manufacturing expansion.
+- 11/03 00:09 [financialjuice] Reports hearing several explosions and gunfire coming from inside the British embassy in Baghdad's Green Zone - IRNA, citing Lebanese news agency, Al-Manar, and Iraqi media outlets
+- 11/03 00:09 [financialjuice] ECB's Moulin: The markets are concerned about the French situation.
+- 11/03 00:10 [DeItaone/FirstSquawk] BANK OF FRANCE'S MOULIN: THE SITUATION IN FRANCE IS A CAUSE FOR CONCERN
+- 11/03 00:10 [financialjuice] ECB's Moulin: Global rate increases impact all countries.
+- 11/03 00:11 [financialjuice] ECB's Moulin: The French budget situation is not good, and must be addressed
+- 11/03 00:11 [financialjuice] ECB's Moulin: It is very probable that France will have a budget.
+- 11/03 00:11 [financialjuice] ECB's Moulin: Markets perhaps overreacting to the French situation
+- 11/03 00:11 [DeItaone] BANK OF FRANCE'S MOULIN: FRANCE WILL PROBABLY GET A BUDGET, MARKETS ARE PROBABLY OVER-REACTING
+- 11/03 00:12 [DeItaone] *MOULIN: MARKETS PERHAPS OVERREACTING TO FRENCH SITUATION
+- 11/03 00:13 [DeItaone] MOULIN: GLOBAL RATE INCREASES IMPACT ALL COUNTRIES
+- 11/03 00:13 [financialjuice] ECB's Escrivá: Lack of fiscal adjustment goes beyond France
+- 11/03 00:13 [DeItaone] U.S. STOCKS EXTEND GAINS, NASDAQ UP 1.00 PCT
+- 11/03 00:17 [financialjuice] Fear and Greed Index: 30/100 = Fear
+- 11/03 00:18 [financialjuice] Crypto Fear and Greed Index: 37/100 = Fear
+- 11/03 00:18 [financialjuice] ECB's Escriva: High complexity on the rates scenario
+- 11/03 00:22 [DeItaone] U.S. STOCKS EXTEND GAINS, S&P 500 UP 1.00 PCT
+- 11/03 00:22 [FirstSquawk] STDN — U.S. DOE AWARDS STANDARD NUCLEAR ~$7M TO DEVELOP RECYCLED NUCLEAR TRISO FUEL Bullish catalyst: DOE funding supports TRISO fuel using recycled transuranic materials, including plutonium, potentially creating an alternative to HALEU an…
+- 11/03 00:22 [financialjuice] ECB's Escriva: Oil and gas price shock greater than expected
+- 11/03 00:22 [financialjuice] ECB's Moulin: Inflation is clearly above our objective
+- 11/03 00:22 [financialjuice] ECB's Escriva: There are no signs of second-round effects yet.
+- 11/03 00:23 [DeItaone] GERMANY WARNS POLITICIANS THEIR IPHONES MAY BE HACKED: FT
+- 11/03 00:24 [financialjuice] ECB's Moulin: For now, the impact on the broader economy is quite moderate.
+- 11/03 00:24 [financialjuice] ECB's Moulin: Inflation we have today is well above our 2% objective
+- 11/03 00:24 [financialjuice] Kazakhstan: Atyrau-Samara oil flows halted.
+- 11/03 00:24 [DeItaone] MOULIN: INFLATION CLEARLY ABOVE OUR OBJECTIVE
+- 11/03 00:25 [financialjuice] ECB's Moulin: Can't compare current situation to 2022 inflation
+- 11/03 00:25 [DeItaone] *KAZAKHSTAN SAYS ATYRAU-SAMARA OIL FLOWS HALTED
+- 11/03 00:25 [financialjuice] ECB's Moulin: The macroeconomic situation is very different from 2022.
+- 11/03 00:28 [FirstSquawk] SAUDI-LED COALITION SAYS DESTROYED 2 DRONES IN RIYADH REGION
+- 11/03 00:29 [financialjuice] ECB's Escriva: Rates at 2% to keep inflation at around 2% reasonable.
+- 11/03 00:31 [financialjuice] ECB's Escriva: Markets fairly immune to price risk in recent years
+- 11/03 00:35 [DeItaone] APPLE'S PREMIUM VALUATION LEAVES LITTLE ROOM FOR ERROR: OPPENHEIMER Oppenheimer reiterated its Perform rating on Apple ($AAPL ) ahead of earnings, warning that its elevated valuation limits upside. The firm forecasts Q4 revenue of $112.9 bi…
+- 11/03 00:36 [DeItaone] TRUMP SIGNALS POSSIBLE PARDONS FOR ALLIES, INCLUDING ELON MUSK President Trump suggested he could pardon political allies, including Elon Musk, if they face legal action. "I would do it if I needed to," Trump said in a Pod Force One intervi…
+- 11/03 00:40 [financialjuice] ECB's Escriva: It’s obvious that AI valuations are high.
+- 11/03 00:40 [financialjuice] ECB's Escriva: I’m optimistic about AI's impact; I see great productivity.
+- 11/03 00:43 [FirstSquawk] JAPAN'S SBI TO INVEST IN US DIGITAL BANK EREBOR, EYEING BLOCKCHAIN SETTLEMENTS
+- 11/03 00:53 [financialjuice] Meta Platforms plans Dollar and Euro bond sale fixed income investor calls $META
+- 11/03 00:56 [DeItaone/FirstSquawk] META HOLDS CALLS FOR MULTI TRANCHE DOLLAR AND EURO BOND SALE
+- 11/03 00:57 [FirstSquawk] IRAN THREATENS US BASES IN EUROPE IF US LAUNCHES NEW AIRSTRIKES - THE TIMES
+- 11/03 01:02 [financialjuice] US VP Vance Speaks at Midterm Rally in NY (Trump Expected to participate via phone) - WATCH LIVE
+- 11/03 01:06 [DeItaone] IRAN THREATENS US BASES IN EUROPE IF TRUMP ORDERS NEW STRIKES
+- 11/03 01:09 [FirstSquawk] YEMEN'S HOUTHIS SAY THEY TARGETED MILITARY PLANE IN SAUDI ARABIA'S JIZAN AIRPORT
+- 11/03 01:12 [DeItaone] DEMOCRATIC SWEEP AT 73%. WALL STREET BRACES FOR MIDTERMS. Prediction markets price a 73% chance Democrats take both chambers, versus 5.8% for a Republican sweep. Standard Chartered warns a GOP sweep could lift yields and the dollar. Barclay…
+- 11/03 01:15 [financialjuice] Fed bids for 6-month bills total $5.1 bln
+- 11/03 01:16 [financialjuice] Fed bids for 3-month bills total $5.9 bln
+- 11/03 01:21 [DeItaone] AUTOMAKERS URGE US LAWMAKERS QUICKLY PASS PERMANENT BAN ON CHINESE VEHICLES WHEN THEY RETURN FOR POST-ELECTION SESSION
+- 11/03 01:22 [DeItaone/FirstSquawk] BRENT CRUDE FUTURES FALLS OVER $8/BBL ON HOPES FOR PROGRESS ON IRAN WAR EFFORTS
+- 11/03 01:23 [DeItaone] TRUMP ADMINISTRATION ASKS US SUPREME COURT TO INTERVENE IN ITS LAWSUIT SEEKING ‌TO BLOCK CALIFORNIA FROM COUNTING CERTAIN MAIL-IN BALLOTS
+- 11/03 01:25 [FirstSquawk] EUROPEAN GAS PRICES FALL AS MUCH AS 10% TO €93.55/MWH
+- 11/03 01:26 [DeItaone] MUSK THROTTLES GROK BOT AS AI COSTS BECOME UNSUSTAINABLE Elon Musk confirmed SpaceX intentionally restricted Grok Bot usage over Halloween weekend, citing operating costs that were “unsustainably high relative to revenue.” Some users report…
+- 11/03 01:31 [DeItaone] US DATA CENTER CONSTRUCTION SURGES AT RECORD PACE DESPITE SPENDING SLUMP US construction spending fell 1.9% in September, but underlying momentum remains strong, supported by AI infrastructure investment. Data center construction surged at …
+- 11/03 01:32 [financialjuice] US 3-MONTH BILL HIGH YIELD ACTUAL 4.04% (FORECAST -, PREVIOUS 4.050%) $MACRO
+- 11/03 01:32 [financialjuice] US 3-MONTH BILL BID-TO-COVER ACTUAL 2.88 (FORECAST -, PREVIOUS 3.070) $MACRO
+- 11/03 01:32 [financialjuice] US 3-MONTH AWARDED HIGH ACTUAL 64.280% (FORECAST -, PREVIOUS 82.290%) $MACRO
+- 11/03 01:32 [financialjuice] US 6-MONTH BILL BID-TO-COVER ACTUAL 2.89 (FORECAST -, PREVIOUS 2.630) $MACRO
+- 11/03 01:32 [financialjuice] US 6-MONTH BILL HIGH YIELD ACTUAL 4.15% (FORECAST -, PREVIOUS 4.210%) $MACRO
+- 11/03 01:32 [financialjuice] US 6-MONTH AWARDED HIGH ACTUAL 49.230% (FORECAST -, PREVIOUS 61.740%) $MACRO
+- 11/03 01:33 [financialjuice] US 3-Month Bill Auction High Yield 4.040% Bid-to-cover 2.88 US sells $95 bln Awards 64.28% of bids at high
+- 11/03 01:33 [financialjuice] US 6-Month Bill Auction High Yield 4.150% Bid-to-cover 2.89 US sells $82 bln Awards 49.23% of bids at high
+- 11/03 01:34 [FirstSquawk] SPACEX CEO MUSK SAYS GROK BOT LIMITS REDUCED DUE TO UNSUSTAINABLY HIGH COSTS - TECHCRUNCH
+- 11/03 01:39 [DeItaone] POWER OUTAGE HITS DOWNTOWN WASHINGTON AHEAD OF ELECTION DAY More than 1,100 customers lost power in Washington, D.C., just blocks from the White House, on the eve of the US midterm elections. Utility provider Pepco reports 1,176 affected cu…
+- 11/03 01:47 [FirstSquawk] PORTUGAL'S NEW REGISTRATIONS OF TESLA CARS RISE 186.1% IN OCTOBER Y/Y, UP 62.5% IN JAN-OCT - ACAP
+- 11/03 01:55 [FirstSquawk] USTR GREER: TRUMP FOUND THAT GOVERNMENTS OF RWANDA AND SOUTH AFRICA ARE ENGAGING IN PRACTICES THAT ARE INCONSISTENT WITH AGOA'S ELIGIBILITY CRITERIA
+- 11/03 02:05 [FirstSquawk] SOUTH AFRICA TO LOSE AGOA ELIGIBILITY, US SAYS
+- 11/03 02:21 [financialjuice] Italy's October budget deficit EUR 20.8B
+- 11/03 02:34 [FirstSquawk] AT&T, AST SPACEMOBILE ACHIEVE FIRST GROUND-TO-SATELLITE HANDOFF - CJ
+- 11/03 02:35 [FirstSquawk] TESLA NEW CAR REGISTRATIONS IN ITALY UP 20.69% IN JANUARY-OCTOBER VS SAME PERIOD OF 2025 - TRANSPORT MINISTRY
+- 11/03 02:39 [financialjuice] Meta eyes at least $20b in potential US dollar and Euro bond sale. $META
+- 11/03 02:40 [financialjuice] US NFP Prep (6th November)
+- 11/03 02:53 [FirstSquawk] DIPLOMATIC SOURCES TOLD AL-JADEED THAT A BREAKTHROUGH IN U.S.-IRANIAN NEGOTIATIONS WAS ACHIEVED AFTER QATARI MEDIATION SUCCESSFULLY OVERCAME PROCEDURAL OBSTACLES - AL-JADEED NEWS
+- 11/03 03:00 [FirstSquawk] OIL FUTURES EXTENDED LOSSES, WITH BRENT FALLING OVER $9/BBL AND U.S. WTI DROPPING $8/BBL ON HOPES FOR A DEAL TO END THE IRAN WAR
+- 11/03 03:02 [FirstSquawk] U.S. STOCK INDEXES PARED GAINS, WITH THE S&P 500 UP 0.30%, THE NASDAQ UP 0.29% AND THE DOW UP 0.91%
+- 11/03 03:02 [financialjuice/FirstSquawk] Head of Middle East Energy & OPEC+ Insights Bakr on X: Diplomatic sources told Al-Jadeed that a breakthrough in US-Iranian negotiations was achieved after Qatari mediation successfully overcame procedural obstacles - Al-Jadeed News
+- 11/03 03:03 [DeItaone] ISRAEL TO SUPPORT US DECISION ON IRAN: UN ENVOY DANON TO AL ARABIYA ISRAEL, US NOT DISCUSSING NUCLEAR STRIKE ON IRAN: DANON TO AL ARABIYA
+- 11/03 03:04 [DeItaone] US–IRAN BREAKTHROUGH REPORTED, BUT CAUTION WARRANTED Al-Jadeed reports a breakthrough in US–Iran negotiations, claiming Qatari mediation successfully resolved procedural obstacles. However, the report remains unconfirmed by major internatio…
+- 11/03 03:05 [financialjuice/DeItaone] Anthropic to launch UK retail ipo alongside us, offering
+- 11/03 03:10 [DeItaone] U.S. TREASURY YIELDS FALL TO LOWEST LEVELS SINCE SEPT 10; YIELD ON 10-YEAR TREASURY NOTE LAST DOWN 5.76 BASIS POINTS AT 4.871%
+- 11/03 03:12 [FirstSquawk] GOLD ROSE AS MUCH AS 2.5% TO $3,957 AN OUNCE, REBOUNDING FROM FRIDAY’S 3.7% DROP, AS HOPES FOR US-IRAN PEACE TALKS SENT BRENT CRUDE DOWN AS MUCH AS 11%. TREASURY YIELDS FELL, THE DOLLAR WEAKENED AND EASING TECH- STOCK SELLING ALSO SUPPORTED…
+- 11/03 03:12 [FirstSquawk] HOWEVER, BULLION REMAINS VULNERABLE TO A RENEWED ESCALATION IN MIDDLE EAST TENSIONS, WITH TRUMP HAVING THREATENED FURTHER STRIKES AFTER THE US MIDTERMS AND IRAN WARNING OF WIDER RETALIATION. THE DIP-BUYING RECOVERY FOLLOWS OVERSOLD TECHNICA…
+- 11/03 03:32 [FirstSquawk] NETANYAHU: ON AIMS TO FORM BROAD NATIONAL GOVERNMENTT SAYS HE'S OPEN TO TALKS
+- 11/03 03:33 [financialjuice] There has been no new development in the exchange of messages with America - Fars News, citing a Knowledgeable Source
+- 11/03 03:34 [FirstSquawk] AN INFORMED SOURCE TELLS FARS NEWS AGENCY THAT THE EXCHANGE OF MESSAGES BETWEEN IRAN AND THE UNITED STATES THROUGH INTERMEDIARIES IS A COMMON OCCURRENCE AND THAT THERE HAS BEEN NO NEW DEVELOPMENT IN THIS REGARD
+- 11/03 03:34 [FirstSquawk] THE SOURCE STRESSED THAT UNTIL THE U.S. IMPLEMENTS IRAN’S SEVEN CONDITIONS THERE WILL DEFINITELY BE NO NEW EVENTS OR ACTIONS, AND CLARIFIED THAT THE STRAIT OF HORMUZ IS UNDER IRAN’S FULL MILITARY CONTROL, WITH NO AMERICAN VESSEL DARING TO A…
+- 11/03 03:44 [financialjuice] Oracle Is Said to Draw Excess Demand for $10 Billion Share Sale $ORCL
