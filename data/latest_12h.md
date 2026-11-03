@@ -7,168 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-11-04 01:05 JST／対象: 11/03 13:05 〜 11/04 01:05 JST（時刻はすべて日本時間）
+生成: 2026-11-04 06:41 JST／対象: 11/03 18:41 〜 11/04 06:41 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 37 | 11/03 20:19 | 11/04 00:28 | 38分（23:25→00:04） |
-| FirstSquawk | 148 | 11/03 13:08 | 11/04 00:54 | 36分（15:30→16:06） |
-| financialjuice | 150 | 11/03 13:08 | 11/04 01:03 | ⚠ 65分（19:41→20:47） |
+| DeItaone | 51 | 11/03 20:19 | 11/04 03:53 | ⚠ 81分（01:30→02:51） |
+| FirstSquawk | 96 | 11/03 18:51 | 11/04 06:21 | ⚠ 65分（03:05→04:10） |
+| financialjuice | 123 | 11/03 18:54 | 11/04 06:17 | ⚠ 68分（01:29→02:37） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 327 行（統合前 336 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 260 行（統合前 271 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/03 13:08 [FirstSquawk] ADNOC Gas And TotalEnergies Sign Five-Year Liquefied Natural Gas Supply Agreement
-- 11/03 13:08 [financialjuice] US judge stops Trump administration from requiring states to set aside votes of suspected noncitizens
-- 11/03 13:10 [financialjuice] Brookfield Corp CEO: Energy demand for AI ecosystem is strained in every country
-- 11/03 13:10 [FirstSquawk] US Court Blocks Trump Administration's Demand For States To Withhold Votes Of Alleged Noncitizens
-- 11/03 13:11 [FirstSquawk] ADNOC Gas Expects Ruwais LNG Integration To Boost Production Capacity And Support Growing Global Demand
-- 11/03 13:15 [financialjuice] Saudi Arabia S&P Global October Composite PMI at 54.0 versus 55.3 in September
-- 11/03 13:16 [FirstSquawk] Saudi Arabia October Composite PMI Declines To 54.0, Signalling Slower Business Activity Growth
-- 11/03 13:21 [FirstSquawk] Thailand Raises Tax Rate On Fully Imported Electric Vehicles By 25 Percentage Points To 35%
-- 11/03 13:26 [FirstSquawk] South Korea's Benchmark KOSPI Drops 4% As Selling Pressure Deepens
-- 11/03 13:31 [financialjuice] RBA Governor Bullock: rate increase was necessary to reduce inflation
-- 11/03 13:31 [FirstSquawk] RBA Governor Bullock: Higher Interest Rates Were Required To Reduce Inflation
-- 11/03 13:33 [financialjuice] RBA Governor Bullock: growth must stay muted, unemployment to climb more
-- 11/03 13:34 [financialjuice] China’s central bank: carried out 100 billion yuan of swap deals with financial institutions
-- 11/03 13:34 [FirstSquawk] RBA's Bullock Says Slower Growth And Further Rise In Unemployment Will Be Needed
-- 11/03 13:35 [FirstSquawk] China Central Bank Executes 100 Billion Yuan Of Swap Transactions With Financial Institutions
-- 11/03 13:35 [financialjuice] RBA Governor Bullock: some hardship now will avoid more pain later
-- 11/03 13:35 [financialjuice] China's central bank: 31 securities and fund firms took part in bidding, rate set at 10 basis points
-- 11/03 13:36 [FirstSquawk] RBA's Bullock: Accepting Some Pain Now Can Prevent More Severe Pain Later
-- 11/03 13:36 [FirstSquawk] PBOC Says 31 Securities And Fund Firms Took Part In Bidding Process, Awarded Rate Stands At 10 Bps
-- 11/03 13:36 [financialjuice] RBA Governor Bullock: voters favoring pause perceived greater downside risks
-- 11/03 13:37 [financialjuice] RBA Governor Bullock: those favoring a hold wanted to wait longer for data
-- 11/03 13:38 [FirstSquawk] RBA Governor Bullock Says Rate-Hold Supporters Were More Concerned About Downside Risks
-- 11/03 13:38 [financialjuice] Not a favorable situation to be in
-- 11/03 13:41 [financialjuice] RBA Governor Bullock: not an ideal situation to be in
-- 11/03 13:41 [financialjuice] RBA Governor Bullock: uncertain about next rate move, withholding guidance
-- 11/03 13:41 [financialjuice] RBA Governor Bullock: Probably best to pause and assess incoming data
-- 11/03 13:42 [FirstSquawk] RBA's Bullock: Next Interest Rate Move Remains Unclear, No Guidance Offered
-- 11/03 13:42 [FirstSquawk] RBA's Bullock: Waiting For More Data Is Likely The Best Approach For Now
-- 11/03 13:43 [financialjuice] RBA Governor Bullock: monetary policy will be effective, requires time to take effect
-- 11/03 13:44 [financialjuice] RBA governor Bullock: unemployment remains relatively low, job growth continues
-- 11/03 13:44 [FirstSquawk] RBA's Bullock: Policy Measures Will Take Time To Feed Through The Economy
-- 11/03 13:44 [financialjuice] RBA Governor Bullock: don’t see economy weakening at this point
-- 11/03 13:45 [FirstSquawk] Bullock Says RBA Does Not See Signs Of Economic Weakness Emerging Yet
-- 11/03 13:45 [FirstSquawk] RBA's Bullock: Labour Market Remains Resilient, With Unemployment Relatively Low And Jobs Increasing
-- 11/03 13:48 [financialjuice] RBA Governor Bullock: those on hold weren’t dismissing a hike but wanted additional data
-- 11/03 13:49 [FirstSquawk] RBA's Bullock: Policymakers Backing A Hold Were Not Ruling Out Higher Rates
-- 11/03 13:50 [financialjuice] RBA Governor Bullock: no intention to push economy into recession
-- 11/03 13:53 [FirstSquawk] RBA's Bullock: Preventing A Recession Remains Important, Not Intentionally Weakening The Economy
-- 11/03 13:54 [financialjuice] RBA Governor Bullock: no wage price spiral expected
-- 11/03 13:55 [FirstSquawk] RBA's Bullock: Wage Growth Is Not Driving A Wage-Price Spiral
-- 11/03 14:02 [financialjuice] Nvidia directs data center clients to cut China exposure - FT
-- 11/03 14:02 [financialjuice] Nvidia tells cloud computing clients to sell at least 51% of services to non-Chinese companies - FT
-- 11/03 14:04 [financialjuice] Don't know what next rate move will be: not providing guidance
-- 11/03 14:04 [financialjuice] RBA governor Bullock: A$ has tracked interest differentials, pass-through to import prices delayed
-- 11/03 14:05 [FirstSquawk] NVIDIA Advises Data Centre Clients To Limit Their Exposure To China – FT
-- 11/03 14:05 [FirstSquawk] NVIDIA Tells Cloud Providers To Sell At Least 51% Of Services To Non-Chinese Customers – FT
-- 11/03 14:06 [financialjuice] RBA Governor Bullock: this increase might not suffice, but it's less evident
-- 11/03 14:06 [financialjuice] Probably wise to wait and observe incoming data
-- 11/03 14:07 [financialjuice] RBA Governor Bullock: not definitely hiking rates again, preserving options
-- 11/03 14:08 [financialjuice] Russian defense ministry: launched extensive strike on Ukraine's energy infrastructure overnight
-- 11/03 14:09 [FirstSquawk] RBA Governor Bullock: Current Hike May Not Be Sufficient, But Further Increases Are Not A Clear Necessity
-- 11/03 14:09 [FirstSquawk] RBA's Bullock: No Definite Decision On Further Rate Increases, Policy Flexibility Preserved
-- 11/03 14:09 [FirstSquawk] Russia Says It Carried Out Large-Scale Overnight Attack On Ukraine's Energy Facilities – IFX
-- 11/03 14:16 [FirstSquawk] Yaroslavl Oil Refinery Hit By Drone Attack, Regional Governor Reports Damage
-- 11/03 14:18 [financialjuice] Unemployment remains relatively low, job growth continues
-- 11/03 14:18 [financialjuice] RBA Governor Bullock: uncertain how high rates must rise
-- 11/03 14:18 [financialjuice] don't see economy weakening at this point
-- 11/03 14:20 [financialjuice] RBA Governor Bullock: board makes policy choices, not trying to shape expectations
-- 11/03 14:21 [financialjuice] RBA Governor Bullock: no forward guidance, market to interpret
-- 11/03 14:22 [FirstSquawk] RBA's Bullock: Policy Outlook Remains Unspecified, Markets To Draw Their Own Conclusions
-- 11/03 14:22 [FirstSquawk] RBA's Bullock: Policy Decisions Are Made By The Board, Not To Influence Expectations
-- 11/03 14:22 [FirstSquawk] RBA's Bullock: No Clarity On How High Interest Rates May Need To Go
-- 11/03 14:24 [FirstSquawk] Australian S&P/ASX 200 Index Ends The Session Up 0.3% At 8,886.80
-- 11/03 14:32 [financialjuice] Turkish October automotive sales down 30.84% year-on-year: association
-- 11/03 14:32 [financialjuice] Turkish Jan-October automotive sales drop 15.33% year-on-year: association
-- 11/03 14:54 [FirstSquawk] Australia Raises Interest Rates To The Highest Level Since 2008 – WSJ
-- 11/03 15:00 [financialjuice] India 2026 gold demand to drop 15% y/y to six-year low: World Gold Council
-- 11/03 15:00 [financialjuice] India gold demand to rise in December quarter on festive, wedding purchases: World Gold Council
-- 11/03 15:05 [FirstSquawk] Gold Stays Under Pressure Below $3,950 As Markets Price In Fed Hikes Ahead Of US Midterms – FXS
-- 11/03 15:06 [FirstSquawk] Aussie Dollar Struggles Near Two-Week Low Following RBA Decision Even As USD Weakens – FXS
-- 11/03 15:10 [FirstSquawk] Iran Aims To Establish New Regional Security Frameworks Independent Of Foreign Military Forces
-- 11/03 15:19 [FirstSquawk] Global LNG Supply Faces Potential Record Annual Decline Due To Iran War, IEA Says – WSJ
-- 11/03 15:27 [FirstSquawk] China Halts IPOs And Share Offerings As It Seeks To Stabilise Weak Markets – FT
-- 11/03 15:28 [FirstSquawk] China’s Securities Regulator Has Privately Directed Investment Banks To Pause IPOs In Recent Days – FT
-- 11/03 15:30 [FirstSquawk] Russian Forces Target Power Facilities In Ukraine's Odesa Region Overnight, Energy Firm DTEK Says
-- 11/03 15:30 [FirstSquawk] Russian Attack On Zhytomyr Energy Facilities Cuts Electricity To Approximately 180,000 People, Governor Says
-- 11/03 15:36 [financialjuice] Aramco CEO: Firm exploring additional export routes and overseas capacity, including potential expansion of East-West pipeline.
-- 11/03 15:42 [financialjuice] US excessive demands will not be accepted by Tehran - Senior Iranian Official
-- 11/03 15:42 [financialjuice] Tehran's conditions must be met if the US wants Hormuz reopened, nuclear talks can begin afterwards - Senior Iranian Official
-- 11/03 15:42 [financialjuice] Iran is prepared to respond forcefully to US strikes, in the region and beyond - Senior Iranian Official
-- 11/03 15:43 [financialjuice] Mediators are working hard to narrow gaps between Tehran and Washington - Senior Iranian Official.
-- 11/03 16:00 [financialjuice] TURKISH CPI YOY ACTUAL 29.77% (FORECAST 29.5%, PREVIOUS 29.73%) $MACRO
-- 11/03 16:01 [financialjuice] TURKISH CPI MOM ACTUAL 2.58% (FORECAST 2.4%, PREVIOUS 1.84%) $MACRO
-- 11/03 16:05 [financialjuice] Iran's Parliament Speaker Ghalibaf: Tehran gave Washington a 'strong and rational response, the ball is in the US' court' - State Media
-- 11/03 16:06 [FirstSquawk] IRAN'S PARLIAMENT SPEAKER QALIBAF: TEHRAN GAVE WASHINGTON A 'STRONG AND RATIONAL RESPONSE, THE BALL IS IN THE US' COURT' - STATE MEDIA
-- 11/03 16:07 [FirstSquawk] Iranian Parliament Speaker Qalibaf: Tehran Has Given Washington A Strong, Rational Response; Next Move Is Up To The US – State Media
-- 11/03 16:15 [financialjuice] Qatari mediators were in Tehran Monday for more talks with Iran.
-- 11/03 16:15 [financialjuice] Diplomat: Iran, US reviewing latest suggestions from mediators.
-- 11/03 16:15 [FirstSquawk] QATARI MEDIATORS VISITED TEHRAN ON MONDAY FOR MORE DISCUSSIONS WITH IRAN.
-- 11/03 16:15 [FirstSquawk] DIPLOMAT DETAILS QATAR-IRAN DISCUSSIONS.
-- 11/03 16:15 [FirstSquawk] IRAN AND THE US ARE DISCUSSING NEW PROPOSALS FROM MEDIATORS.
-- 11/03 16:15 [FirstSquawk] US CRUDE FUTURES INCREASED BY $2.14 TO REACH $98.60 PER BARREL.
-- 11/03 16:17 [FirstSquawk] US Oil Futures Advance $2.14 To Trade At $98.60 A Barrel
-- 11/03 16:18 [FirstSquawk] Diplomat Says Tehran And Washington Are Assessing Mediators' Latest Suggestions After Qatar's Talks In Iran
-- 11/03 16:22 [financialjuice] ECB's Radev: Economic environment is getting more challenging.
-- 11/03 16:23 [financialjuice] ECB's Radev: October pause doesn't mean tightening is over.
-- 11/03 16:26 [financialjuice] ECB's Radev: Core inflation stable, energy shock not reaching wages.
-- 11/03 16:26 [financialjuice] ECB's Radev: ECB shouldn't await second-round effects before acting.
-- 11/03 16:27 [FirstSquawk] ECB'S RADEV STATES THE ECONOMIC ENVIRONMENT IS BECOMING INCREASINGLY DIFFICULT.
-- 11/03 16:27 [FirstSquawk] ECB'S RADEV SAYS HOLDING RATES IN OCTOBER DOESN'T INDICATE THE END OF TIGHTENING.
-- 11/03 16:27 [FirstSquawk] ADNOC GAS CEO EXPLAINS THAT GAS DEMAND WILL KEEP GROWING IN THE LONG TERM, AND STRESSES THE NEED FOR MORE ENERGY AND A DIVERSIFIED ENERGY SUPPLY.
-- 11/03 16:27 [FirstSquawk] ECB SHOULD ACT NOW WITHOUT WAITING FOR SECOND-ROUND EFFECTS.
-- 11/03 16:27 [FirstSquawk] RADEV SAYS CURRENT INTEREST RATES ARE NOT ADEQUATE.
-- 11/03 16:30 [financialjuice] ❗ SWISS CPI MOM ACTUAL 0.2% (FORECAST 0%, PREVIOUS 0.0%) $MACRO
-- 11/03 16:30 [financialjuice] SWISS CORE CPI YOY ACTUAL 0.5% (FORECAST 0.5%, PREVIOUS 0.5%) $MACRO
-- 11/03 16:30 [financialjuice] ‼ BREAKING: SWISS CPI YOY ACTUAL 1.5% (FORECAST 1.2%, PREVIOUS 1.0%) $MACRO
-- 11/03 16:45 [financialjuice] FRENCH BUDGET BALANCE ACTUAL -159.173B (FORECAST -, PREVIOUS -159.60B) $MACRO
-- 11/03 16:51 [FirstSquawk] MERZ SAYS BERLIN TALKS ON EXPROPRIATION IMPACT CAPITAL MARKETS; BERLIN EXPROPRIATION RULES WOULD CAUSE 'MASSIVE' DAMAGE
-- 11/03 16:59 [FirstSquawk] MERZ: DRAFT LEGISLATION TO HALT EXPROPRIATION IS READY
-- 11/03 17:04 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 0.51%; FRANCE'S CAC 40 DOWN 0.62%; GERMANY'S DAX DOWN 0.9%
-- 11/03 17:06 [FirstSquawk] SPAIN'S IBEX DOWN 0.9%
-- 11/03 17:07 [financialjuice] Russian attack hits energy facilities in 10 Ukrainian regions - Energy Deputy Minister
-- 11/03 17:08 [FirstSquawk] RUSSIAN ATTACK HITS ENERGY FACILITIES IN 10 UKRAINIAN REGIONS ENERGY DEPUTY SAYS MINISTER
-- 11/03 17:12 [financialjuice] Aramco CEO: Energy markets face pressure in coming winter.
-- 11/03 17:12 [financialjuice] US, Russia, China mull trilateral meeting between leaders - FT
-- 11/03 17:12 [FirstSquawk] MERZ DISCUSSES HOW BERLIN'S EXPROPRIATION TALKS AFFECT CAPITAL MARKETS.
-- 11/03 17:12 [FirstSquawk] MERZ ANNOUNCES THAT A DRAFT LAW TO STOP EXPROPRIATIONS IS COMPLETED.
-- 11/03 17:12 [FirstSquawk] RUSSIAN STRIKES TARGET ENERGY SITES IN 10 UKRAINIAN REGIONS, SAYS ENERGY DEPUTY MINISTER.
-- 11/03 17:12 [FirstSquawk] UKRAINIAN PRESIDENT ZELENSKIY WILL COME TO BERLIN ON TUESDAY, ACCORDING TO GERMANY'S MERZ.
-- 11/03 17:12 [FirstSquawk] ARAMCO CEO STATES ENERGY MARKETS WILL EXPERIENCE PRESSURE THIS WINTER.
-- 11/03 17:15 [FirstSquawk] ARAMCO CEO SAYS ENERGY MARKETS FACE PRESSURE IN COMING WINTER; ARAMCO STARTED PRELIM ENGINEERING FOR PIPELINE EXPANSION- CEO
-- 11/03 17:28 [FirstSquawk] ARAMCO CEO SAYS GLOBAL REFINING MARKET HAS LOST 5M B/D OF SUPPLY; OIL DEMAND WILL COME BACK MORE STRONGLY; GLOBAL REFINING MARKET HAS LOST 5M B/D OF SUPPLY
-- 11/03 17:29 [FirstSquawk] RUSSIA LAUNCHED AT UKRAINE 289 ATTACK DRONES, 17 BALLISTIC MISSILES, AND 59 CRUISE MISSILES ZELENSKIY SAYS
-- 11/03 17:29 [financialjuice] Aramco CEO: Tanker attacks eliminated 15% of effective capacity.
-- 11/03 17:29 [FirstSquawk] ARAMCO CEO SAYS TANKER ATTACKS ELIMINATED 15% OF EFFECTIVE CAPACITY
-- 11/03 17:33 [FirstSquawk] IRAN'S ARMED FORCES CHIEF ABDOLLAHI SAYS TEHRAN'S FIVE PRINCIPLES FOR LASTING REGIONAL PEACE INCLUDE END TO WAR ON ALL FRONTS, INCLUDING LEBANON AND GAZA - TASNIM
-- 11/03 17:34 [financialjuice] Iran's Armed Forces Chief Abdollahi: Tehran's five principles for lasting regional peace include end to war on all fronts, including Lebanon and Gaza - Tasnim.
-- 11/03 17:34 [financialjuice/FirstSquawk] Iran's Armed Forces Chief: Principles include full sanctions relief and release of frozen assets - Tasnim
-- 11/03 17:36 [FirstSquawk] IRAN'S ARMED FORCES CHIEF: PRINCIPLES INCLUDE WAR REPARATIONS, GUARANTEES AGAINST "FURTHER AGGRESSION" AND REGIONALLY LED SECURITY ARRANGEMENTS - TASNIM
-- 11/03 17:45 [FirstSquawk] CHINA REQUESTS INPUT ON LAWS FOR EXPORTING DUAL-USE ITEMS.
-- 11/03 17:45 [FirstSquawk] ECB'S MACHADO STRESSES IMPORTANCE OF MAINTAINING STRONG CAPITAL STANDARDS AND AN OUTPUT FLOOR.
-- 11/03 18:06 [FirstSquawk] APPLE STOCK FALLS 5.1% AFTER SLOWER SALES GROWTH.
-- 11/03 18:08 [FirstSquawk] SAUDI-LED COALITION SAYS INTERCEPTS DRONE IN MECCA REGION
-- 11/03 18:09 [FirstSquawk] IRAN'S PEZESHKIAN, QALIBAF, ARAQCHI URGE MILITARY TO ENGAGE QATAR PROPOSAL
-- 11/03 18:09 [FirstSquawk] IRANIAN ASSESSMENTS VIEW RETURN TO WAR AS INCREASINGLY LIKELY
-- 11/03 18:12 [FirstSquawk] SAUDI-LED COALITION SHUTS DOWN DRONE IN MECCA AREA.
-- 11/03 18:12 [FirstSquawk] ECB'S KOCHER STRESSES THAT IT IS CRUCIAL TO PREVENT INFLATION FROM BECOMING FIXED.
-- 11/03 18:13 [FirstSquawk] ECB'S KOCHER SAYS MUST ENSURE INFLATION DOESN'T BECOME ENTRENCHED
-- 11/03 18:16 [FirstSquawk] IRAN: ANY ACTION IT TAKES WILL BE LEGITIMATE SELF-DEFENSE
-- 11/03 18:21 [FirstSquawk] IRAN’S GHARIBABADI ON RESPONSE TO NUCLEAR WEAPON USE - ISNA
-- 11/03 18:32 [financialjuice] Kremlin: Hope work on 3-way meeting in china later this month between Putin, Trump and Xi will be finalised in coming days.
-- 11/03 18:33 [FirstSquawk] KREMLIN ANNOUNCES TRIPARTITE UKRAINE DISCUSSIONS IN ABU DHABI NEXT WEEK.
-- 11/03 18:33 [FirstSquawk] KREMLIN ANNOUNCES THAT VLADIMIR MEDINSKY, AID TO PUTIN, WILL LEAD RUSSIAN TALKS IN ABU DHABI.
-- 11/03 18:33 [FirstSquawk] KREMLIN STATES THERE IS A COMMON AGREEMENT THAT THIS MEETING WOULD BE BENEFICIAL.
-- 11/03 18:33 [FirstSquawk] KREMLIN HOPES TO FINALIZE PLANS FOR A 3-WAY MEETING IN CHINA WITH PUTIN, TRUMP, AND XI SOON.
 - 11/03 18:51 [FirstSquawk] CINVEN TO BUY THERAMEX FROM CARLYLE, PAI IN €2.6B DEAL - FT
 - 11/03 18:52 [FirstSquawk] CHINA PROMISES TO FOCUS ON STOPPING ILLEGAL FINANCIAL ACTIVITIES, ACCORDING TO XINHUA.
 - 11/03 18:52 [FirstSquawk] CHINA PLANS TO INVESTIGATE AI APPLICATIONS FOR FINANCIAL OVERSIGHT, SAYS XINHUA.
@@ -351,3 +206,81 @@
 - 11/04 01:03 [financialjuice] BoC's Gov. Macklem: GDP is projected to grow 1% in 2026 and approximately 2% in both 2027 and 2028.
 - 11/04 01:03 [financialjuice] BoC's Gov. Macklem: Growth expected to slow in Q4 due to new US tariffs before recovering in 2027.
 - 11/04 01:03 [financialjuice] BoC's Gov. Macklem: Higher oil prices and refinery margins are increasing consumer and business costs, with greater pass-through to inflation expected over the coming year
+- 11/04 01:05 [financialjuice] Senior Iranian Official: There is no deadline for exchanging messages with Washington through mediators or reviewing responses
+- 11/04 01:12 [financialjuice] Todd Boehly-Led Consortium Preparing Securities Swap to Acquire Lukoil's Foreign Assets – Reuters
+- 11/04 01:12 [FirstSquawk] GOVERNOR MACKLEM: IN CURRENT CIRCUMSTANCES DOES NOT THINK FISCAL POLICY IS MAKING IT HARDER TO GET INFLATION DOWN
+- 11/04 01:12 [financialjuice] BoC's Gov. Macklem: In current circumstances, does not think fiscal policy is making it harder to get inflation down
+- 11/04 01:15 [FirstSquawk/financialjuice] JAPAN TO BOLSTER DEFENSES WITH UNIFIED MISSILE, ARTILLERY SYSTEMS - NIKKEI
+- 11/04 01:18 [financialjuice] System initially will not incorporate AI into decision-making processes, launch & other decisions to remain in the hands of commanders - Nikkei
+- 11/04 01:23 [FirstSquawk] IRANIAN OFFICIAL SAYS MEDIATORS WORKING TO NARROW GAP WITH US
+- 11/04 01:28 [financialjuice] Greenland's Parliament approves a security deal with the United States.
+- 11/04 01:29 [financialjuice/DeItaone] Greenland's Parliament approves security deal with the United States
+- 11/04 01:33 [FirstSquawk] TOYOTA US NEW CAR SALES RISE 6.5% IN OCTOBER TO 221,507; VEHICLES ELECTRIFIED VEHICLE SHARE OF SALES HITS 56.9%
+- 11/04 01:41 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 1.03%; GERMANY'S DAX DOWN 0.31%; FRANCE'S CAC 40 DOWN 0.22%; SPAIN'S IBEX DOWN 0.72%
+- 11/04 02:28 [FirstSquawk] ZELENSKIY SAYS “SOMETIMES WE DON’T EVEN UNDERSTAND HOW STRONG WE ARE,” THAT EUROPE IS VERY STRONG AND, DESPITE INTERNAL QUESTIONS, HAS UNITY, MAKING IT SEVERAL TIMES STRONGER THAN TODAY’S RUSSIA
+- 11/04 02:28 [FirstSquawk] ZELENSKIY SAYS RUSSIA WILL NOT SURVIVE IF 100% OF SANCTIONS REALLY WORK AND IF NOBODY PLAYS GAMES WITH LIFTING SANCTIONS ON SOME OLIGARCHS
+- 11/04 02:28 [FirstSquawk] ZELENSKIY SAYS PUTIN DOES NOT UNDERSTAND A FORMAT OF DIALOGUE AND THAT IT IS NOT ENOUGH, THAT PUTIN LIKES PRESSURE AND STRONG STEPS, AND THAT SOMETIMES “WE NEED TO SPEAK HIS LANGUAGE WITH HIM”
+- 11/04 02:37 [financialjuice] Fitch Ratings: French banks’ rating headroom narrows on sovereign outlook revision.
+- 11/04 02:41 [FirstSquawk] POLAND LAUNCHED A LARGE-SCALE SECURITY OPERATION THIS WEEK ALONG ITS BORDER WITH THE RUSSIAN EXCLAVE OF KALININGRAD, THE COUNTRY’S NATIONAL POLICE CHIEF SAID, WITH THE POLISH PRIME MINISTER SAYING THE EFFORT MAY HAVE PREVENTED A SABOTAGE OR…
+- 11/04 02:51 [financialjuice] Israel tells the US that Iran is weighing chemical weapons use - NYT.
+- 11/04 02:51 [DeItaone] *ISRAEL INTEL MET WITH ALARM, SKEPTICISM BY US OFFICIALS: NYT
+- 11/04 02:53 [DeItaone] *ISRAEL TELLS US IRAN WEIGHING CHEMICAL ARMS USE: NYT *NYT CITES US, REGIONAL OFFICIALS ON ISRAELI INTEL ON IRAN
+- 11/04 02:53 [FirstSquawk] ISRAEL HAS TOLD THE U.S. THAT IRAN IS WEIGHING CHEMICAL WEAPONS USE, SHARING INTELLIGENCE ASSERTING IRAN IS CONSIDERING USING CHEMICAL WEAPONS AGAINST ITS ADVERSARIES, INFORMATION MET WITH ALARM BY SOME AMERICAN OFFICIALS AND DEEP SKEPTICIS…
+- 11/04 02:53 [FirstSquawk] SOME ADMINISTRATION OFFICIALS SEE THE ISRAELI INTELLIGENCE AS PART OF A PRESSURE CAMPAIGN BY NETANYAHU’S GOVERNMENT TO PERSUADE THE TRUMP ADMINISTRATION TO RETURN TO MAJOR COMBAT OPERATIONS AGAINST IRAN - NYT
+- 11/04 02:54 [financialjuice] Israeli Claims of Iranian Chemical Weapons Divide US Officials - NYT
+- 11/04 02:56 [DeItaone] Israel has warned US intelligence officials that Iran may be preparing to use chemical weapons, but the claims have triggered significant disagreement within the Trump administration. Some US officials take the threat seriously, while other…
+- 11/04 02:57 [DeItaone] US–IRAN: ISRAELI CHEMICAL WEAPONS WARNING DIVIDES WASHINGTON Israel has warned US intelligence officials that Iran may be preparing to use chemical weapons, but the claims have triggered significant disagreement within the Trump administrat…
+- 11/04 03:00 [DeItaone] ECB'S NAGEL: A RATE HIKE IN DECEMBER IS VERY LIKELY TO BE NECESSARY ECB'S NAGEL: INFLATIONARY PRESSURES HIGHER THAN EXPECTED IN SEPTEMBER; APPROACHING ADVERSE SCENARIO ECB'S NAGEL: WE CAN AND MUST PREVENT ENERGY PRICE SPIKE CAUSING BROAD-BA…
+- 11/04 03:00 [financialjuice] ECB's Nagel: A rate hike in December is very likely to be necessary.
+- 11/04 03:00 [financialjuice] ECB's Nagel: Inflationary pressures higher than expected in September; approaching adverse scenario
+- 11/04 03:00 [financialjuice] ECB's Nagel: We can and must prevent an energy price spike from causing broad-based inflation.
+- 11/04 03:01 [DeItaone] ECB: DECEMBER RATE HIKE NOW SEEN AS HIGHLY LIKELY Bundesbank President Joachim Nagel says another ECB interest-rate hike in December is almost unavoidable unless the inflation outlook improves significantly. The ECB held its deposit rate at…
+- 11/04 03:05 [FirstSquawk] ECB’S NAGEL SAYS A RATE HIKE IN DECEMBER IS VERY LIKELY TO BE NECESSARY, WITH INFLATIONARY PRESSURES HIGHER THAN EXPECTED IN SEPTEMBER AND APPROACHING THE ADVERSE SCENARIO, ADDING THAT THE ECB CAN AND MUST PREVENT AN ENERGY PRICE SPIKE FROM…
+- 11/04 03:19 [financialjuice] Trump is negotiating an agreement with Venezuela on US troops - NYT.
+- 11/04 03:22 [DeItaone] YEMEN WARNS: SAUDI ARAMCO FACILITIES AT RISK A Yemeni military source warned that Aramco facilities are within strike range, according to Saba News Agency. The source cautioned that high dividends may conceal security risks and questioned A…
+- 11/04 03:22 [DeItaone] AI BOOM: $10 TRILLION SPENDING WAVE RAISES FINANCIAL RISKS Former New York Fed President Bill Dudley warns that AI infrastructure investment could exceed $10 trillion, potentially creating massive overcapacity. Dudley estimates that only 2–…
+- 11/04 03:26 [DeItaone] US IN TALKS WITH VENEZUELA FOR LONG-TERM MILITARY PRESENCE: NYT
+- 11/04 03:27 [financialjuice] ECB's Sleijpen: The Iran shock is more persistent than earlier thought.
+- 11/04 03:31 [financialjuice] ECB's Sleijpen: We don't really see second-round effects yet.
+- 11/04 03:34 [financialjuice] ECB's Sleijpen: The advance in energy risks has knock-on inflation effects.
+- 11/04 03:34 [financialjuice] ECB's Sleijpen: Tightening is slowing Europe's economy.
+- 11/04 03:35 [DeItaone] U.S. STOCK INDEXES EXTEND GAINS; S&P 500 UP 0.70%, NASDAQ UP 1.2%
+- 11/04 03:38 [DeItaone] BILL ACKMAN: STOCK MARKET IS "BROKEN" BY SPECULATIVE TRADING Pershing Square founder Bill Ackman warns that excessive leverage and speculation are driving irrational stock-price swings. Ackman compared today's trading environment to casino-…
+- 11/04 03:39 [financialjuice] ECB's Nagel: I am confident that France will get a grip on its budget issues.
+- 11/04 03:39 [financialjuice] ECB's Nagel on France Budget: This isn't a task for monetary policy.
+- 11/04 03:48 [DeItaone] US OFFICIALS HAVE HELD UP APPROVAL FOR AMERICAN CHIPMAKING EQUIPMENT NEEDED BY SK HYNIX TO EXPAND PRODUCTION IN CHINA - PEOPLE FAMILIAR SAY
+- 11/04 03:50 [financialjuice/FirstSquawk] US officials have held up approval for American chipmaking equipment needed by SK Hynix to expand production in China - Sources.
+- 11/04 03:53 [DeItaone] US MIDTERMS: SCHUMER SAYS DEMOCRATS ARE "NAUSEOUSLY OPTIMISTIC" Senate Minority Leader Chuck Schumer expressed cautious optimism after voting in Brooklyn, suggesting Democrats have a realistic chance of reclaiming the Senate. "A year ago, n…
+- 11/04 04:03 [financialjuice] ECB's Sleijpen: Problems in France must be solved in Paris
+- 11/04 04:05 [financialjuice] Apple opens Siri AI preview to all developers. $AAPL
+- 11/04 04:10 [FirstSquawk] APPLE OPENS SIRI AI PREVIEW TO ALL DEVELOPERS
+- 11/04 04:31 [financialjuice] NYMEX WTI Crude Dec. futures settle at $96.09 a barrel down 37 cents, 0.38%
+- 11/04 04:31 [financialjuice] NYMEX diesel Dec. futures settle at $4.5306 a gallon
+- 11/04 04:31 [financialjuice] NYMEX gasoline Dec. futures settle at $2.9355 a gallon
+- 11/04 04:32 [financialjuice] NYMEX Nat Gas Dec. futures settle at $2.8950/MMBTU
+- 11/04 04:34 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 0.38% LOWER AT $96.09/BBL, DOWN 37 CENTS
+- 11/04 04:46 [financialjuice] Brent Crude futures settle at $103.60/bbl, down $1.17, 1.12%
+- 11/04 04:59 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 1.12% LOWER AT $103.60/BBL, DOWN $1.17
+- 11/04 05:22 [financialjuice] Wednesday FX Options Expiries
+- 11/04 05:35 [financialjuice] UK Navy: Received report of vessel struck by an unknown projectile 9nm northeast of Lima, Oman; vessel and crew safe
+- 11/04 05:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: -880.2 MLN NASDAQ 100: -1404.2 MLN DOW 30: -49.5 MLN MAG 7: -14.3 MLN $MACRO
+- 11/04 05:53 [FirstSquawk] UKMTO SAYS A TANKER WAS STRUCK BY TWO UNKNOWN PROJECTILES IN ITS ENGINE ROOM 14 NM NORTHEAST OF LIMA, OMAN, WITH NO CASUALTIES OR ENVIRONMENTAL IMPACT REPORTED
+- 11/04 05:56 [FirstSquawk] THE WHITE HOUSE HAS CIRCULATED ELECTION DAY TALKING POINTS PRAISING TRUMP’S CAMPAIGN EFFORTS AS REPUBLICANS BRACE FOR POTENTIALLY DISAPPOINTING MIDTERM RESULTS, WITH THE DOCUMENT CLAIMING THE ADMINISTRATION HAS HAD THE “MOST SUCCESSFUL TWO …
+- 11/04 05:59 [FirstSquawk] THE DOCUMENT LABELS DEMOCRATS “DUMOCRATS,” FRAMES THE ELECTION AS “COMMON SENSE VS. THE COMMUNISTS,” AND URGES SUPPORTERS TO “STOP THE COMMUNISTS AND JIHADISTS. GO VOTE” - AXIOS
+- 11/04 05:59 [FirstSquawk] APPLE SAYS ITS REDESIGNED HEALTH APP WILL EXPAND SUPPORT TO 11 LANGUAGES, INCLUDING CHINESE, FRENCH, JAPANESE, KOREAN, PORTUGUESE, SPANISH, TURKISH AND VIETNAMESE, ROLLING OUT AS A FREE UPDATE LATER IN 2026
+- 11/04 06:01 [FirstSquawk] DOW JONES CLOSES 0.42% LOWER AT 51,766.83, DOWN 217.15 POINTS
+- 11/04 06:02 [FirstSquawk] S&P 500 CLOSES 0.38% HIGHER AT 7,570.04, UP 28.64 POINTS
+- 11/04 06:02 [FirstSquawk] NASDAQ CLOSES 0.87% HIGHER AT 25,382.02, UP 217.65 POINTS
+- 11/04 06:04 [FirstSquawk] AMGEN Q3 2026 REVENUE $10.37 BLN, ABOVE ESTIMATE OF $10.05 BLN, WITH ADJUSTED EPS $6.45, ABOVE ESTIMATE OF $5.77, AND ADJUSTED OPERATING INCOME $4.68 BLN, ABOVE ESTIMATE OF $4.33 BLN
+- 11/04 06:04 [FirstSquawk] AMGEN RAISES ITS FY GUIDANCE, NOW SEEING FY REVENUE $38.9 BLN TO $39.7 BLN FROM $38.2 BLN TO $39.4 BLN, AND FY ADJUSTED EPS $22.90 TO $23.70 FROM $22.30 TO $23.50
+- 11/04 06:08 [FirstSquawk] BOOKING HOLDINGS Q3 2026 REVENUE $8.89 BLN, BELOW ESTIMATE OF $9.54 BLN, WITH ADJUSTED EBITDA $4.61 BLN, ABOVE ESTIMATE OF $4.49 BLN, AND GROSS BOOKINGS $54.5 BLN, ABOVE ESTIMATE OF $52.69 BLN
+- 11/04 06:08 [FirstSquawk] BOOKING HOLDINGS Q3 ROOM NIGHTS SOLD 345 MLN, ABOVE ESTIMATE OF 339.24 MLN, WITH THE COMPANY SEEING Q4 GROSS BOOKINGS GROWTH OF +2% TO +4% AND Q4 ROOM NIGHTS GROWTH OF +1% TO +3%
+- 11/04 06:11 [FirstSquawk] BOOKING HOLDINGS SAYS GLOBAL TRAVEL DEMAND MODERATED SOMEWHAT TOWARDS THE END OF Q3, WITH ITS OUTLOOK ASSUMING THE DIRECT AND INDIRECT IMPACTS OF THE MIDDLE EAST AND NOTING THAT GEOPOLITICAL AND MACROECONOMIC UNCERTAINTY MAY AFFECT NEAR-TER…
+- 11/04 06:11 [FirstSquawk] BOOKING SEES FY GROSS BOOKINGS AND ADJUSTED REVENUE GROWTH IN THE HIGH SINGLE DIGITS AND FY ADJUSTED EPS GROWTH IN THE LOW-TO-MID TEENS
+- 11/04 06:13 [FirstSquawk] SUPER MICRO COMPUTER SEES Q2 NET SALES $19.5 BLN TO $21.5 BLN, WELL ABOVE ESTIMATE OF $16.53 BLN, AND RAISES ITS FY NET SALES VIEW TO $72 BLN TO $82 BLN FROM $65 BLN TO $72 BLN
+- 11/04 06:13 [financialjuice] ECB's Kocher: Risks to inflation remain elevated
+- 11/04 06:14 [financialjuice] ECB's Kocher: ECB will continue to react on inflation when necessary.
+- 11/04 06:15 [financialjuice] ECB's Kocher: Dec. rate hike likely if situation doesn't change.
+- 11/04 06:17 [financialjuice] $AMD Q3 Earnings Revenue $13.38B, est. $13.08B Adjusted EPS $2.09, est. $1.97 Adjusted Operating Income $3.92B, est. $3.68B Adjusted Operating Margin 29%, est. 28% R&D Expenses $2.80B, est. $2.72B Capex $648M, est. $647M Sees Q4 Revenue of …
+- 11/04 06:20 [FirstSquawk] AMD Q3 ADJUSTED OPERATING MARGIN 29%, ABOVE ESTIMATE OF 28%, WITH R&D EXPENSES $2.80 BLN AND CAPEX $648 MLN
+- 11/04 06:21 [FirstSquawk] AMD Q3 2026 REVENUE $13.38 BLN, ABOVE ESTIMATE OF $13.08 BLN, WITH ADJUSTED EPS $2.09, ABOVE ESTIMATE OF $1.97, AND ADJUSTED OPERATING INCOME $3.92 BLN, ABOVE ESTIMATE OF $3.68 BLN
