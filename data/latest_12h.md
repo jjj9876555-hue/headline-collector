@@ -7,150 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-11-04 10:40 JST／対象: 11/03 22:40 〜 11/04 10:40 JST（時刻はすべて日本時間）
+生成: 2026-11-04 17:00 JST／対象: 11/04 05:00 〜 11/04 17:00 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 42 | 11/03 22:42 | 11/04 10:30 | ⚠ 282分（03:53→08:36） |
-| FirstSquawk | 112 | 11/03 22:41 | 11/04 10:35 | ⚠ 65分（03:05→04:10） |
-| financialjuice | 121 | 11/03 22:42 | 11/04 10:25 | ⚠ 68分（01:29→02:37） |
+| DeItaone | 22 | 11/04 08:36 | 11/04 12:53 | 45分（11:15→12:00） |
+| FirstSquawk | 174 | 11/04 05:53 | 11/04 16:56 | ⚠ 48分（06:21→07:09） |
+| financialjuice | 119 | 11/04 05:22 | 11/04 16:30 | ⚠ 67分（14:56→16:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 269 行（統合前 276 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 311 行（統合前 316 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/03 22:41 [FirstSquawk] SOURCES CLOSE TO THE NEGOTIATING TEAM: TEHRAN WILL ANNOUNCE A CONCESSION REGARDING ITS NUCLEAR PROGRAM IN EXCHANGE FOR WASHINGTON ANNOUNCING THE RELEASE OF PART OF TEHRAN'S FROZEN FUNDS.
-- 11/03 22:42 [DeItaone] https://t.co/pNMZtLXWrW
-- 11/03 22:42 [financialjuice] The discussion now revolves around the first step and how to announce reaching an interim agreement, followed by the return of both parties to negotiations - Al Araby citing sources close to the mediation team
-- 11/03 22:45 [DeItaone] US–IRAN: REPORTS SIGNAL POTENTIAL DIPLOMATIC BREAKTHROUGH Washington has reportedly approved a draft memorandum of understanding presented to Iran by Qatari mediators, according to Al-Araby Al-Jadeed, citing sources close to the mediation t…
-- 11/03 22:46 [financialjuice] The announcement will be made step by step and simultaneously - Al Araby, citing sources close to the negotiating team
-- 11/03 22:49 [DeItaone] US–IRAN: NEW REPORTS DETAIL POTENTIAL NUCLEAR CONCESSIONS AND FROZEN FUNDS DEAL Iran may announce concessions on its nuclear program in exchange for Washington releasing part of Tehran's frozen funds, according to Al-Araby Al-Jadeed, citing…
-- 11/03 22:50 [DeItaone] *ACKMAN SAYS NETFLIX STOCK 'INCREDIBLY CHEAP'
-- 11/03 22:50 [DeItaone] *ACKMAN SAYS MORE LIQUID PREDICTION MARKETS OFFER BETTER FORECAST SIGNALS
-- 11/03 22:55 [financialjuice] US REDBOOK YOY ACTUAL 10.4% (FORECAST -, PREVIOUS 9.3%) $MACRO
-- 11/03 23:01 [financialjuice] ECB: Forex reserves rose €300 mln to €349.6 bln.
-- 11/03 23:02 [DeItaone] OIL AND GAS SLIDE ON US–IRAN DEAL REPORTS Energy prices fall sharply after Al-Araby Al-Jadeed reported progress toward a US–Iran agreement involving nuclear concessions and frozen funds. Market reaction: 🔸 Brent: -2.8% to $101.80 🔸 WTI: -1.…
-- 11/03 23:04 [financialjuice] Anthropic chip design team using Claude models - The Information
-- 11/03 23:05 [financialjuice] Anthropic Touts Claude’s Chip Design Skills to IPO Investors - The Information
-- 11/03 23:05 [DeItaone] ANTHROPIC ENGINEERS FOUND CLAUDE CUTS TIME TAKEN TO DESIGN CHIPS COMPARED TO THEIR ESTIMATES OF WORKFLOWS AT DESIGNERS SUCH AS NVIDIA, AMD- THE INFORMATION
-- 11/03 23:06 [financialjuice] Anthropic engineers found Claude cuts the time taken to design chips compared to their estimates of workflows at designers such as NVIDIA, AMD - The Information $NVDA $AMD
-- 11/03 23:08 [financialjuice] Moody's assigns AA3 rating to Meta's new SR unsecured notes. $META
-- 11/03 23:12 [FirstSquawk] META: SEEKS TO RAISE $15B IN US DOLLAR PORTION OF BOND OFFERING
-- 11/03 23:12 [financialjuice] Meta seeks to raise $15b in the US dollar portion of the bond offering $META
-- 11/03 23:15 [financialjuice] China to defend stable operation of stock, bond, and FX markets - Xinhua
-- 11/03 23:15 [financialjuice] China's NPC SC hears report from PBOC's Pan on financial work - Xinhua
-- 11/03 23:23 [FirstSquawk] RUSSIA SAYS IT HIT CARGO SHIP 24 KM SOUTH OF ODESA- IFX
-- 11/03 23:25 [DeItaone] IRAN: STRAIT OF HORMUZ WILL REMAIN CLOSED UNTIL US MEETS SEVEN CONDITIONS Rezaee says Washington's response to Iran's demands has been insufficient, insisting that the US must explicitly address and fulfill all seven Iranian conditions. He …
-- 11/03 23:26 [financialjuice] Iran's Baghai: We are not afraid of diplomacy and use dialogue as a tool to secure the interests of the Iranian nation and prevent the intensification of insecurity in the region.
-- 11/03 23:26 [FirstSquawk] IRAN: US RESPONSE TO ITS DEMANDS WASN’T CONVINCING
-- 11/03 23:26 [financialjuice] Iran's Baqaei: Due to the experience of violation of previous agreements by the US, we participate in any diplomatic process with maximum caution and complete pessimism.
-- 11/03 23:26 [financialjuice] Iran Rezaee: The US response to its demands wasn’t convincing
-- 11/03 23:27 [financialjuice] Iran's Rezaei: The US must act on 7 conditions for Hormuz to open.
-- 11/03 23:27 [financialjuice] Iran's Baqaei: The realization of any understanding depends on a definite commitment to stop the war on all fronts, including in Lebanon.
-- 11/03 23:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: 1.9 MLN NASDAQ 100: -11.1 MLN DOW 30: -1.9 MLN MAG 7: -1.2 MLN $MACRO
-- 11/03 23:31 [financialjuice] Binance: Approximately $2.85 billion in digital assets have been frozen or intercepted.
-- 11/03 23:31 [financialjuice] Meta seeks to raise at least $20b in latest bond sale - WSJ $META
-- 11/03 23:32 [FirstSquawk] NASDAQ UP 98.65 POINTS, OR 0.39 PERCENT, AT 25,263.01 AFTER MARKET OPEN
-- 11/03 23:32 [FirstSquawk] S&P 500 UP 7.77 POINTS, OR 0.10 PERCENT, AT 7,549.17 AFTER MARKET OPEN
-- 11/03 23:32 [FirstSquawk] DOW JONES DOWN 206.75 POINTS, OR 0.40 %, AT 51,777.23 AFTER MARKET OPEN
-- 11/03 23:36 [financialjuice] ECB's Moulin: France's 0.4% GDP-growth forecast is optimistic.
-- 11/03 23:37 [financialjuice] ECB's Moulin: Likely to have to revise down the French GDP forecast
-- 11/03 23:37 [financialjuice] ECB's Moulin: Euro-area growth is rather resilient
-- 11/03 23:37 [financialjuice] HSBC cuts Apple's target price to $360 from $366. $AAPL
-- 11/03 23:40 [FirstSquawk] IRAN SAYS U.S. RESPONSE TO ITS RIGHTS AND DEMANDS WAS NOT CONVINCING AND INSISTS FULL, EXPLICIT ACTION ON SEVEN CONDITIONS IS NEEDED BEFORE THE STRAIT OF HORMUZ WILL BE OPENED
-- 11/03 23:46 [financialjuice] Venezuela's October Oil Exports Hold Steady at 1.08 Million BPD as European Shipments Rise
-- 11/03 23:50 [FirstSquawk] VENEZUELA'S OIL EXPORTS TO EUROPE ROSE TO ABOUT 235,000 BARRELS PER DAY IN OCTOBER, ACCORDING TO SHIPPING DATA.
-- 11/03 23:50 [FirstSquawk] VENEZUELA'S OIL EXPORTS REMAIN STABLE AT 1.08 MILLION BARRELS PER DAY IN OCTOBER, ACCORDING TO SHIPPING DATA.
-- 11/03 23:50 [FirstSquawk] VENEZUELA'S OIL EXPORTS TO THE US DROPPED TO 449,000 BARRELS PER DAY IN OCTOBER, ACCORDING TO SHIPPING DATA.
-- 11/03 23:50 [FirstSquawk] CHEVRON'S VENEZUELAN CRUDE EXPORTS REACHED AROUND 303,000 BPD, WHILE TRADERS EXPORTED 506,000 BPD, ACCORDING TO SHIPPING DATA.
-- 11/04 00:00 [FirstSquawk] US JOLTS JOB OPENINGS (SEP) ACTUAL: 7523K VS 7079K PREVIOUS; EST 7164K
-- 11/04 00:00 [financialjuice] ❗ US FACTORY ORDERS MOM ACTUAL 1.8% (FORECAST 1.2%, PREVIOUS 0.1%) $MACRO
-- 11/04 00:00 [financialjuice] US CORE DURABLE GOODS REVISED ACTUAL 0.5% (FORECAST 0.5%, PREVIOUS 0.5%) $MACRO
-- 11/04 00:00 [financialjuice] US DURABLE GOODS REVISED ACTUAL 1.9% (FORECAST 1.8%, PREVIOUS 1.8%) $MACRO
-- 11/04 00:00 [financialjuice] ❗ US JOLTS JOB OPENINGS ACTUAL 7.523M (FORECAST 7.164M, PREVIOUS 7.079M) $MACRO
-- 11/04 00:01 [financialjuice] US Factory Orders September Report
-- 11/04 00:02 [financialjuice] US JOLTS Job Openings September Report
-- 11/04 00:04 [DeItaone] U.S. TREASURY YIELDS RISE SLIGHTLY AFTER ECONOMIC DATA; YIELD ON 10-YEAR TREASURY NOTE LAST UP 5.36 BASIS POINTS AT 4.948% TWO-YEAR U.S. TREASURY YIELDS LAST UP 3.13 BASIS POINTS AT 4.614%
-- 11/04 00:05 [DeItaone] US FACTORY ORDERS SURGE 1.8%, BEATING EXPECTATIONS US factory orders rose 1.8% in September, exceeding the 1.2% consensus forecast and accelerating from August's upwardly revised 0.3% gain. Orders excluding transportation increased 1.3%, wh…
-- 11/04 00:07 [DeItaone] US JOB OPENINGS RISE TO 7.52 MILLION IN SEPTEMBER US job openings increased to 7.523 million in September, up from an upwardly revised 7.190 million in August, signaling stronger labor demand. Hiring rose to 5.402 million, while voluntary q…
-- 11/04 00:14 [DeItaone] US–IRAN: WASHINGTON REPORTEDLY APPROVES QATARI PROPOSAL The US has informed Qatar's mediator that it approves the submitted proposal, Al Arabiya English reports, citing a senior source. Mediators are now awaiting Iran's response. The report…
-- 11/04 00:15 [financialjuice] Iran: No new development reached on agreement with the US - IRIB cites negotiating team spokesman on talks.
-- 11/04 00:16 [financialjuice] Iran rejects reports it's close to a deal with the US - IRIB
-- 11/04 00:17 [FirstSquawk] IRAN SAYS NO NEW DEVELOPMENT REACHED ON AGREEMENT WITH US
-- 11/04 00:17 [FirstSquawk] IRAN REJECTS REPORTS ITS CLOSE TO A DEAL WITH US: IRIB
-- 11/04 00:19 [financialjuice] Crypto Fear & Greed Index: 26/100 - Fear
-- 11/04 00:19 [financialjuice] Fear & Greed Index: 20/100 - Extreme Fear
-- 11/04 00:28 [DeItaone] DEMOCRATIC SWEEP? UBS SEES 50% ODDS. UBS assigns a 50% probability to Democrats winning both chambers, while prediction markets put Democratic control of the House at 94% and Senate at 77%. UBS warns a sweep could complicate Trump's fiscal …
-- 11/04 00:30 [FirstSquawk] ORACLE WILL DEVOTE 65% OF ITS $10 BILLION STOCK SALE TO TEN INVESTORS.
-- 11/04 00:54 [FirstSquawk] SURGEPAYS SECURES $48M ANNUAL PREPAID WIRELESS COMMITMENT FROM ETIME, LOCKING IN $4M/MONTH IN PURCHASES CO to lift guidance $SURG #BREAKING
-- 11/04 01:02 [financialjuice] BoC's Gov. Macklem: The outlook for inflation has deteriorated. With the war in the Middle East persisting, global oil prices have increased and are expected to remain higher for longer, which is hitting Canadians at the gas pump and increa…
-- 11/04 01:02 [financialjuice] BoC's Gov. Macklem: Further rate hikes may be needed, but future decisions will be taken meeting by meeting amid elevated uncertainty.
-- 11/04 01:02 [financialjuice] BoC's Gov. Macklem: CPI inflation expected to rise to 3.5% by year-end, remain at or above 3% through much of 2027, and return near 2% by mid-2028.
-- 11/04 01:02 [financialjuice] BoC's Gov. Macklem: GDP growth reached 3.3% in Q2, with Q3 growth estimated around 2%.
-- 11/04 01:03 [financialjuice] BoC's Gov. Macklem: Canadian economy showing resilience despite US trade actions, with growth outlook improving modestly
-- 11/04 01:03 [financialjuice] BoC's Gov. Macklem: GDP is projected to grow 1% in 2026 and approximately 2% in both 2027 and 2028.
-- 11/04 01:03 [financialjuice] BoC's Gov. Macklem: Growth expected to slow in Q4 due to new US tariffs before recovering in 2027.
-- 11/04 01:03 [financialjuice] BoC's Gov. Macklem: Higher oil prices and refinery margins are increasing consumer and business costs, with greater pass-through to inflation expected over the coming year
-- 11/04 01:05 [financialjuice] Senior Iranian Official: There is no deadline for exchanging messages with Washington through mediators or reviewing responses
-- 11/04 01:12 [financialjuice] Todd Boehly-Led Consortium Preparing Securities Swap to Acquire Lukoil's Foreign Assets – Reuters
-- 11/04 01:12 [FirstSquawk] GOVERNOR MACKLEM: IN CURRENT CIRCUMSTANCES DOES NOT THINK FISCAL POLICY IS MAKING IT HARDER TO GET INFLATION DOWN
-- 11/04 01:12 [financialjuice] BoC's Gov. Macklem: In current circumstances, does not think fiscal policy is making it harder to get inflation down
-- 11/04 01:15 [FirstSquawk/financialjuice] JAPAN TO BOLSTER DEFENSES WITH UNIFIED MISSILE, ARTILLERY SYSTEMS - NIKKEI
-- 11/04 01:18 [financialjuice] System initially will not incorporate AI into decision-making processes, launch & other decisions to remain in the hands of commanders - Nikkei
-- 11/04 01:23 [FirstSquawk] IRANIAN OFFICIAL SAYS MEDIATORS WORKING TO NARROW GAP WITH US
-- 11/04 01:28 [financialjuice] Greenland's Parliament approves a security deal with the United States.
-- 11/04 01:29 [financialjuice/DeItaone] Greenland's Parliament approves security deal with the United States
-- 11/04 01:33 [FirstSquawk] TOYOTA US NEW CAR SALES RISE 6.5% IN OCTOBER TO 221,507; VEHICLES ELECTRIFIED VEHICLE SHARE OF SALES HITS 56.9%
-- 11/04 01:41 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 1.03%; GERMANY'S DAX DOWN 0.31%; FRANCE'S CAC 40 DOWN 0.22%; SPAIN'S IBEX DOWN 0.72%
-- 11/04 02:28 [FirstSquawk] ZELENSKIY SAYS “SOMETIMES WE DON’T EVEN UNDERSTAND HOW STRONG WE ARE,” THAT EUROPE IS VERY STRONG AND, DESPITE INTERNAL QUESTIONS, HAS UNITY, MAKING IT SEVERAL TIMES STRONGER THAN TODAY’S RUSSIA
-- 11/04 02:28 [FirstSquawk] ZELENSKIY SAYS RUSSIA WILL NOT SURVIVE IF 100% OF SANCTIONS REALLY WORK AND IF NOBODY PLAYS GAMES WITH LIFTING SANCTIONS ON SOME OLIGARCHS
-- 11/04 02:28 [FirstSquawk] ZELENSKIY SAYS PUTIN DOES NOT UNDERSTAND A FORMAT OF DIALOGUE AND THAT IT IS NOT ENOUGH, THAT PUTIN LIKES PRESSURE AND STRONG STEPS, AND THAT SOMETIMES “WE NEED TO SPEAK HIS LANGUAGE WITH HIM”
-- 11/04 02:37 [financialjuice] Fitch Ratings: French banks’ rating headroom narrows on sovereign outlook revision.
-- 11/04 02:41 [FirstSquawk] POLAND LAUNCHED A LARGE-SCALE SECURITY OPERATION THIS WEEK ALONG ITS BORDER WITH THE RUSSIAN EXCLAVE OF KALININGRAD, THE COUNTRY’S NATIONAL POLICE CHIEF SAID, WITH THE POLISH PRIME MINISTER SAYING THE EFFORT MAY HAVE PREVENTED A SABOTAGE OR…
-- 11/04 02:51 [financialjuice] Israel tells the US that Iran is weighing chemical weapons use - NYT.
-- 11/04 02:51 [DeItaone] *ISRAEL INTEL MET WITH ALARM, SKEPTICISM BY US OFFICIALS: NYT
-- 11/04 02:53 [DeItaone] *ISRAEL TELLS US IRAN WEIGHING CHEMICAL ARMS USE: NYT *NYT CITES US, REGIONAL OFFICIALS ON ISRAELI INTEL ON IRAN
-- 11/04 02:53 [FirstSquawk] ISRAEL HAS TOLD THE U.S. THAT IRAN IS WEIGHING CHEMICAL WEAPONS USE, SHARING INTELLIGENCE ASSERTING IRAN IS CONSIDERING USING CHEMICAL WEAPONS AGAINST ITS ADVERSARIES, INFORMATION MET WITH ALARM BY SOME AMERICAN OFFICIALS AND DEEP SKEPTICIS…
-- 11/04 02:53 [FirstSquawk] SOME ADMINISTRATION OFFICIALS SEE THE ISRAELI INTELLIGENCE AS PART OF A PRESSURE CAMPAIGN BY NETANYAHU’S GOVERNMENT TO PERSUADE THE TRUMP ADMINISTRATION TO RETURN TO MAJOR COMBAT OPERATIONS AGAINST IRAN - NYT
-- 11/04 02:54 [financialjuice] Israeli Claims of Iranian Chemical Weapons Divide US Officials - NYT
-- 11/04 02:56 [DeItaone] Israel has warned US intelligence officials that Iran may be preparing to use chemical weapons, but the claims have triggered significant disagreement within the Trump administration. Some US officials take the threat seriously, while other…
-- 11/04 02:57 [DeItaone] US–IRAN: ISRAELI CHEMICAL WEAPONS WARNING DIVIDES WASHINGTON Israel has warned US intelligence officials that Iran may be preparing to use chemical weapons, but the claims have triggered significant disagreement within the Trump administrat…
-- 11/04 03:00 [DeItaone] ECB'S NAGEL: A RATE HIKE IN DECEMBER IS VERY LIKELY TO BE NECESSARY ECB'S NAGEL: INFLATIONARY PRESSURES HIGHER THAN EXPECTED IN SEPTEMBER; APPROACHING ADVERSE SCENARIO ECB'S NAGEL: WE CAN AND MUST PREVENT ENERGY PRICE SPIKE CAUSING BROAD-BA…
-- 11/04 03:00 [financialjuice] ECB's Nagel: A rate hike in December is very likely to be necessary.
-- 11/04 03:00 [financialjuice] ECB's Nagel: Inflationary pressures higher than expected in September; approaching adverse scenario
-- 11/04 03:00 [financialjuice] ECB's Nagel: We can and must prevent an energy price spike from causing broad-based inflation.
-- 11/04 03:01 [DeItaone] ECB: DECEMBER RATE HIKE NOW SEEN AS HIGHLY LIKELY Bundesbank President Joachim Nagel says another ECB interest-rate hike in December is almost unavoidable unless the inflation outlook improves significantly. The ECB held its deposit rate at…
-- 11/04 03:05 [FirstSquawk] ECB’S NAGEL SAYS A RATE HIKE IN DECEMBER IS VERY LIKELY TO BE NECESSARY, WITH INFLATIONARY PRESSURES HIGHER THAN EXPECTED IN SEPTEMBER AND APPROACHING THE ADVERSE SCENARIO, ADDING THAT THE ECB CAN AND MUST PREVENT AN ENERGY PRICE SPIKE FROM…
-- 11/04 03:19 [financialjuice] Trump is negotiating an agreement with Venezuela on US troops - NYT.
-- 11/04 03:22 [DeItaone] YEMEN WARNS: SAUDI ARAMCO FACILITIES AT RISK A Yemeni military source warned that Aramco facilities are within strike range, according to Saba News Agency. The source cautioned that high dividends may conceal security risks and questioned A…
-- 11/04 03:22 [DeItaone] AI BOOM: $10 TRILLION SPENDING WAVE RAISES FINANCIAL RISKS Former New York Fed President Bill Dudley warns that AI infrastructure investment could exceed $10 trillion, potentially creating massive overcapacity. Dudley estimates that only 2–…
-- 11/04 03:26 [DeItaone] US IN TALKS WITH VENEZUELA FOR LONG-TERM MILITARY PRESENCE: NYT
-- 11/04 03:27 [financialjuice] ECB's Sleijpen: The Iran shock is more persistent than earlier thought.
-- 11/04 03:31 [financialjuice] ECB's Sleijpen: We don't really see second-round effects yet.
-- 11/04 03:34 [financialjuice] ECB's Sleijpen: The advance in energy risks has knock-on inflation effects.
-- 11/04 03:34 [financialjuice] ECB's Sleijpen: Tightening is slowing Europe's economy.
-- 11/04 03:35 [DeItaone] U.S. STOCK INDEXES EXTEND GAINS; S&P 500 UP 0.70%, NASDAQ UP 1.2%
-- 11/04 03:38 [DeItaone] BILL ACKMAN: STOCK MARKET IS "BROKEN" BY SPECULATIVE TRADING Pershing Square founder Bill Ackman warns that excessive leverage and speculation are driving irrational stock-price swings. Ackman compared today's trading environment to casino-…
-- 11/04 03:39 [financialjuice] ECB's Nagel: I am confident that France will get a grip on its budget issues.
-- 11/04 03:39 [financialjuice] ECB's Nagel on France Budget: This isn't a task for monetary policy.
-- 11/04 03:48 [DeItaone] US OFFICIALS HAVE HELD UP APPROVAL FOR AMERICAN CHIPMAKING EQUIPMENT NEEDED BY SK HYNIX TO EXPAND PRODUCTION IN CHINA - PEOPLE FAMILIAR SAY
-- 11/04 03:50 [financialjuice/FirstSquawk] US officials have held up approval for American chipmaking equipment needed by SK Hynix to expand production in China - Sources.
-- 11/04 03:53 [DeItaone] US MIDTERMS: SCHUMER SAYS DEMOCRATS ARE "NAUSEOUSLY OPTIMISTIC" Senate Minority Leader Chuck Schumer expressed cautious optimism after voting in Brooklyn, suggesting Democrats have a realistic chance of reclaiming the Senate. "A year ago, n…
-- 11/04 04:03 [financialjuice] ECB's Sleijpen: Problems in France must be solved in Paris
-- 11/04 04:05 [financialjuice] Apple opens Siri AI preview to all developers. $AAPL
-- 11/04 04:10 [FirstSquawk] APPLE OPENS SIRI AI PREVIEW TO ALL DEVELOPERS
-- 11/04 04:31 [financialjuice] NYMEX WTI Crude Dec. futures settle at $96.09 a barrel down 37 cents, 0.38%
-- 11/04 04:31 [financialjuice] NYMEX diesel Dec. futures settle at $4.5306 a gallon
-- 11/04 04:31 [financialjuice] NYMEX gasoline Dec. futures settle at $2.9355 a gallon
-- 11/04 04:32 [financialjuice] NYMEX Nat Gas Dec. futures settle at $2.8950/MMBTU
-- 11/04 04:34 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 0.38% LOWER AT $96.09/BBL, DOWN 37 CENTS
-- 11/04 04:46 [financialjuice] Brent Crude futures settle at $103.60/bbl, down $1.17, 1.12%
-- 11/04 04:59 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 1.12% LOWER AT $103.60/BBL, DOWN $1.17
 - 11/04 05:22 [financialjuice] Wednesday FX Options Expiries
 - 11/04 05:35 [financialjuice] UK Navy: Received report of vessel struck by an unknown projectile 9nm northeast of Lima, Oman; vessel and crew safe
 - 11/04 05:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: -880.2 MLN NASDAQ 100: -1404.2 MLN DOW 30: -49.5 MLN MAG 7: -14.3 MLN $MACRO
@@ -293,3 +166,172 @@
 - 11/04 10:25 [financialjuice] Democrat Roy Cooper defeats Michael Whatley in race for republican-held US Senate seat in North Carolina, ABC News projects
 - 11/04 10:30 [DeItaone] *REPUBLICAN DONALDS WINS FLORIDA GOVERNOR RACE, DDHQ PROJECTS
 - 11/04 10:35 [FirstSquawk] ASIAN CURRENCIES MOVE IN DIFFERENT DIRECTIONS AS INVESTORS WATCH US MIDTERM ELECTIONS - WSJ
+- 11/04 10:40 [financialjuice] S.Korea central bank: sells 1-year monetary stabilization bonds at 3.510% yield
+- 11/04 10:41 [FirstSquawk] SOUTH KOREA C. BANK REPORTS SALE OF 1-YEAR MONETARY STABILISATION BONDS AT 3.510%.
+- 11/04 10:44 [DeItaone] NASDAQ E-MINI FUTURES EXTEND LOSS, LAST DOWN 1.8%; S&P 500 E-MINI FUTURES DOWN 0.8%
+- 11/04 10:45 [financialjuice] euro rises 0.6% to $1.1259
+- 11/04 10:45 [financialjuice] ❗ CHINESE SERVICES PMI ACTUAL 50.8 (FORECAST 51.7, PREVIOUS 51.6) $MACRO
+- 11/04 10:45 [financialjuice] China general services PMI at 50.8 in October, down from 51.6 in September
+- 11/04 10:46 [FirstSquawk] China RatingDog Composite PMI Oct: 52.0 (prev 52.4)
+- 11/04 10:46 [FirstSquawk] China Services PMI: 50.8 (est 51.7; prev 51.6)
+- 11/04 10:46 [financialjuice] Sterling rises 0.45% to $1.3474
+- 11/04 10:48 [financialjuice] Dollar/yen dips 0.56% to 157.77
+- 11/04 10:48 [FirstSquawk] DOLLAR DECLINES 0.56% AGAINST THE YEN TO 157.77.
+- 11/04 10:51 [financialjuice] Dollar/Swiss franc down 0.76% at 0.8146
+- 11/04 10:52 [FirstSquawk] SWISS FRANC STRENGTHENS AS USD/CHF DROPS 0.76% TO 0.8146.
+- 11/04 10:57 [FirstSquawk] WESTPAC WILL LIFT VARIABLE MORTGAGE RATES BY 0.25 PERCENTAGE POINT FOR NEW AND EXISTING BORROWERS FROM NOVEMBER 13.
+- 11/04 10:58 [FirstSquawk] WESTPAC ANNOUNCES 25-BPS INCREASE IN WESTPAC LIFE TOTAL VARIABLE RATE WITH BONUS INTEREST TO 5.50% P.A. FROM NOVEMBER 13.
+- 11/04 11:01 [DeItaone] *DEMOCRAT HOCHUL WINS NEW YORK GOVERNOR RACE, AP PROJECTS
+- 11/04 11:02 [FirstSquawk] INDONESIA'S BENCHMARK EQUITY INDEX SLIDES 1.6% TO 4,826.929 POINTS IN MORNING TRADE.
+- 11/04 11:06 [financialjuice] Democrat Lance Bottoms beats Republican Jackson in Georgia governor race - NBC
+- 11/04 11:06 [FirstSquawk] LANCE BOTTOMS WINS GEORGIA GOVERNOR'S RACE, DEFEATING REPUBLICAN CHALLENGER JACKSON, ACCORDING TO NBC.
+- 11/04 11:11 [financialjuice] Decision Desk HQ projects Democrats to secure control of US House
+- 11/04 11:12 [FirstSquawk] DEMOCRATS PROJECTED TO WIN CONTROL OF THE US HOUSE, ACCORDING TO DECISION DESK HQ.
+- 11/04 11:13 [FirstSquawk] US NASDAQ FUTURES EXTEND THEIR DECLINE TO 1.6% IN LATEST TRADE
+- 11/04 11:15 [financialjuice] Democrat Keisha Lance Bottoms prevails over Republican Rick Jackson in Georgia governor's race held by Republicans - Decision Desk HQ
+- 11/04 11:15 [DeItaone] DECISION DESK HQ PROJECTS DEMOCRATS WIN CONTROL OF US HOUSE
+- 11/04 11:16 [financialjuice] China finance ministry plans auction of 60 billion yuan 182-day bills on Nov. 11
+- 11/04 11:16 [FirstSquawk] US STOCK FUTURES SLIDE AS DEMOCRATS ARE PROJECTED TO SECURE HOUSE CONTROL, ACCORDING TO DECISION DESK HQ.
+- 11/04 11:17 [FirstSquawk] KEISHA LANCE BOTTOMS WINS GEORGIA'S GOVERNORSHIP, DEFEATING REPUBLICAN CHALLENGER RICK JACKSON, ACCORDING TO DECISION DESK HQ.
+- 11/04 11:17 [financialjuice] Democrat Keisha Lance Bottoms defeats Republican Rick Jackson in Georgia governor race, CNN projects
+- 11/04 11:23 [FirstSquawk] INDONESIAN FINANCIAL REGULATOR IMPOSES SANCTIONS ON ENTITIES CONNECTED TO THREE CASES, INCLUDING BREACHES RELATED TO PANR AND BOGA COMPANIES.
+- 11/04 11:24 [FirstSquawk] INDONESIA'S FINANCIAL REGULATOR HAS SHUT DOWN MORE THAN A DOZEN SECURITIES ACCOUNTS.
+- 11/04 11:33 [FirstSquawk] TAIWAN'S HSINCHU COUNTY GOVERNMENT REPORTS FIVE INJURIES AND TWO MISSING AFTER FIRE AT PANASONIC UNIT'S FACTORY.
+- 11/04 11:34 [FirstSquawk] PANASONIC UNIT'S FACTORY IN TAIWAN CATCHES FIRE IN THE EARLY HOURS OF WEDNESDAY.
+- 11/04 11:36 [financialjuice] Democratic contender Bob Brooks defeats Republican incumbent Ryan Mackenzie in race for US House seat in Pennsylvania’s 7th congressional district: Decision Desk HQ
+- 11/04 11:36 [FirstSquawk] DEMOCRAT BOB BROOKS SECURES VICTORY OVER REPUBLICAN INCUMBENT RYAN MACKENZIE IN PENNSYLVANIA'S 7TH DISTRICT, ACCORDING TO DECISION DESK HQ.
+- 11/04 11:37 [FirstSquawk] SOUTH KOREA'S BENCHMARK KOSPI INDEX SLIDES 3%.
+- 11/04 11:40 [financialjuice] Democratic contender Rebecca Bennett defeats Republican incumbent Thomas Kean Jr. in New Jersey's 7th congressional district house race - NBC News
+- 11/04 11:41 [FirstSquawk] REBECCA BENNETT DEFEATS INCUMBENT REPUBLICAN THOMAS KEAN JR. IN THE RACE FOR NEW JERSEY'S 7TH US HOUSE SEAT.
+- 11/04 11:47 [FirstSquawk] MARUBENI CEO SEES THE IMPACT OF US MIDTERM ELECTIONS ON THE COMPANY'S FY2026 BUSINESS AS NEUTRAL.
+- 11/04 11:48 [FirstSquawk] BRENT OIL PRICES DECLINE $1, WITH FUTURES TRADING AT $102.60/BBL.
+- 11/04 11:49 [FirstSquawk] REBECCA BENNETT WINS NEW JERSEY'S 7TH US HOUSE DISTRICT RACE, UNSEATING REPUBLICAN INCUMBENT THOMAS KEAN JR.
+- 11/04 11:50 [financialjuice] North Korea launches multiple missiles from Sondok area: South Korea defense ministry
+- 11/04 11:50 [FirstSquawk] NORTH KOREA LAUNCHES MULTIPLE MISSILES FROM SONDOK REGION, ACCORDING TO SOUTH KOREA'S DEFENCE MINISTRY.
+- 11/04 11:50 [financialjuice] South Korea, US examining details of North Korean missiles: South Korea defence ministry
+- 11/04 11:51 [FirstSquawk] SEOUL AND WASHINGTON ANALYSING INFORMATION ON NORTH KOREAN MISSILES, SOUTH KOREA'S DEFENCE MINISTRY SAYS.
+- 11/04 11:56 [financialjuice] Democrat Annie Andrews defeats Republican incumbent Darline Graham in South Carolina Senate race: Decision Desk HQ
+- 11/04 11:57 [FirstSquawk] DEMOCRATIC CANDIDATE ANNIE ANDREWS SECURES VICTORY OVER REPUBLICAN INCUMBENT DARLINE GRAHAM IN SOUTH CAROLINA, ACCORDING TO DECISION DESK HQ.
+- 11/04 11:59 [financialjuice] Democrat Annie Andrews beats Republican Darline Graham in race for South Carolina republican-held US Senate seat - NBC
+- 11/04 11:59 [financialjuice] Democrat Rob Sand beats Republican Zach Lahn in race for Republican-held Iowa governor's seat: Decision Desk HQ
+- 11/04 12:00 [DeItaone] DEMOCRAT ROB SAND DEFEATS REPUBLICAN ZACH LAHN IN RACE FOR REPUBLICAN-HELD GOVERNOR'S RACE IN IOWA - DECISION DESK HQ
+- 11/04 12:01 [FirstSquawk] US STOCK FUTURES TRACKING THE S&P 500 SLIDE 1.25%.
+- 11/04 12:02 [financialjuice] Democrat Annie Andrews defeats Republican Darline Graham in race for GOP-held US Senate seat in South Carolina, CBS News projects
+- 11/04 12:02 [FirstSquawk] CNN PROJECTS DEMOCRAT ANNIE ANDREWS TO DEFEAT REPUBLICAN DARLINE GRAHAM FOR SOUTH CAROLINA'S REPUBLICAN-HELD US SENATE SEAT.
+- 11/04 12:04 [FirstSquawk] US 2-YEAR TREASURY YIELD SLIDES TO A TWO-MONTH LOW OF 4.551%; FED FUNDS FUTURES EXTEND THEIR ADVANCE
+- 11/04 12:06 [financialjuice] CNN projects Democrats to gain control of US House
+- 11/04 12:06 [FirstSquawk] DEMOCRATS PROJECTED TO WIN CONTROL OF THE US HOUSE, CNN REPORTS.
+- 11/04 12:06 [financialjuice] euro rises 0.5% to $1.125
+- 11/04 12:07 [DeItaone] CNN PROJECTS DEMOCRATS WIN CONTROL OF US HOUSE
+- 11/04 12:07 [FirstSquawk] EURO GAINS 0.5%, TRADING AT $1.125 AGAINST THE US DOLLAR.
+- 11/04 12:08 [FirstSquawk] TAIWAN'S BENCHMARK STOCKS SLIDE MORE THAN 2%.
+- 11/04 12:09 [DeItaone] NBC PROJECTS DEMOCRATS WIN CONTROL OF US HOUSE
+- 11/04 12:09 [FirstSquawk] EURO STOXX 50 FUTURES EXTEND LOSSES TO 1.5%, DAX FUTURES FALL 1.4% AND FTSE FUTURES DECLINE 1.1%.
+- 11/04 12:11 [FirstSquawk] TAIWAN'S BENCHMARK INDEX SLIDES 2.3% TO 42,306.43 POINTS, HITTING ITS LOWEST SINCE JULY 31.
+- 11/04 12:15 [financialjuice] NBC News projects Democrats take control of US House
+- 11/04 12:15 [financialjuice] Democrat James Talarico tops Republican Ken Paxton in race for GOP-held US Senate seat in Texas: Decision Desk HQ
+- 11/04 12:15 [FirstSquawk] DEMOCRATIC CANDIDATE JAMES TALARICO SECURES VICTORY OVER KEN PAXTON IN TEXAS' SENATE RACE, ACCORDING TO DECISION DESK HQ.
+- 11/04 12:16 [financialjuice] Dollar/Swiss franc drops 0.86% to 0.8138
+- 11/04 12:16 [FirstSquawk] THE US DOLLAR FALLS 0.86% AGAINST THE SWISS FRANC TO 0.8138.
+- 11/04 12:18 [financialjuice] Democratic challenger Janelle Stelson overcomes Republican incumbent Scott Perry in Pennsylvania’s 10th congressional district race - NBC News
+- 11/04 12:18 [financialjuice] Democratic contender Bob Brooks beats Republican incumbent Ryan Mackenzie in Pennsylvania’s 7th House race, CNN projects
+- 11/04 12:18 [FirstSquawk] CNN PROJECTS DEMOCRAT BOB BROOKS TO DEFEAT REPUBLICAN INCUMBENT RYAN MACKENZIE IN PENNSYLVANIA'S 7TH DISTRICT.
+- 11/04 12:23 [FirstSquawk] THAILAND'S FINANCE MINISTER SAYS THERE ARE NO PLANS TO INCREASE THE PUBLIC DEBT CEILING.
+- 11/04 12:29 [financialjuice] Nvidia says China clients to receive 1% of $70 billion RTX chips ordered
+- 11/04 12:30 [FirstSquawk] AMERICA'S TECH GIANTS ARE ACCUMULATING TRILLIONS OF DOLLARS IN HIDDEN AI-RELATED DEBT, WITH OFF-BALANCE-SHEET OBLIGATIONS SURGING 90% IN SIX MONTHS TO $3.2 TRILLION - NA
+- 11/04 12:32 [FirstSquawk] DEMOCRATIC CANDIDATE AMY ACTON SECURES VICTORY OVER VIVEK RAMASWAMY IN OHIO'S GUBERNATORIAL ELECTION, DECISION DESK HQ SAYS.
+- 11/04 12:35 [financialjuice] Iran's IRGC: four tankers destroyed after hitting mines south of Strait of Hormuz, two other ships seized - statement
+- 11/04 12:36 [FirstSquawk] FALLING DOLLAR AND US BOND YIELDS BOOST DEMAND FOR GOLD - WSJ
+- 11/04 12:36 [financialjuice] Iran's Revolutionary Guards say four tankers remain ablaze after hitting naval mines
+- 11/04 12:37 [FirstSquawk] FOUR TANKERS DESTROYED AFTER HITTING MINES SOUTH OF THE STRAIT OF HORMUZ, WITH TWO MORE VESSELS DETAINED, IRAN'S IRGC SAYS.
+- 11/04 12:37 [FirstSquawk] IRAN'S REVOLUTIONARY GUARDS SAY FOUR TANKERS REMAIN ON FIRE AFTER STRIKING NAVAL MINES.
+- 11/04 12:41 [FirstSquawk] ABC NEWS PROJECTS DEMOCRATIC CHALLENGER BOB BROOKS TO DEFEAT INCUMBENT REPUBLICAN RYAN MACKENZIE IN PENNSYLVANIA'S 7TH DISTRICT.
+- 11/04 12:49 [financialjuice] Democratic challenger Adam Hamilton defeats Republican incumbent Roger Marshall in Kansas Senate race: Decision Desk HQ
+- 11/04 12:49 [financialjuice] Democrat Amy Acton overcomes Republican Vivek Ramaswamy in contest for Ohio governor, CNN projects
+- 11/04 12:49 [FirstSquawk] U.S. PRESIDENT DONALD TRUMP'S FIRST REACTION: "I WASN’T ON THE BALLOT, AND IF I WAS, WE WOULD HAVE WON IN A LANDSLIDE!"
+- 11/04 12:49 [FirstSquawk] DEMOCRATS PROJECTED TO SWEEP HOUSE, SENATE AND GOVERNOR RACES IN MIDTERM ELECTIONS
+- 11/04 12:50 [financialjuice] Democrat Amy Acton beats Republican Vivek Ramaswamy in race for GOP-held Ohio governor seat - NBC
+- 11/04 12:51 [FirstSquawk] TRUMP SAYS HE IS PREPARED TO WORK WITH DEMOCRATS, NYT REPORTS.
+- 11/04 12:51 [FirstSquawk] CNN PROJECTS AMY ACTON TO DEFEAT VIVEK RAMASWAMY IN OHIO'S GUBERNATORIAL ELECTION.
+- 11/04 12:52 [financialjuice] Trump: he is absolutely willing to accept election results - NYT
+- 11/04 12:53 [financialjuice] Democrat James Talarico beats Republican Ken Paxton in race for Republican-held US Senate seat in Texas - NBC News
+- 11/04 12:53 [FirstSquawk] JAMES TALARICO WINS TEXAS SENATE RACE, DEFEATING REPUBLICAN KEN PAXTON, ACCORDING TO NBC NEWS.
+- 11/04 12:53 [DeItaone] TRUMP SAYS HE IS 'ABSOLUTELY WILLING TO ACCEPT' ELECTION RESULTS
+- 11/04 13:01 [financialjuice] Democrat James Talarico defeats Republican Ken Paxton in race for GOP-held US Senate seat in Texas, CNN projects:
+- 11/04 13:01 [financialjuice] Democratic challenger Sherrod Brown defeats Republican incumbent Jon Husted in Ohio Senate race, CNN projects
+- 11/04 13:03 [FirstSquawk] US STOCKS, DOLLAR FACE PRESSURE AS DEMOCRATS GAIN GROUND IN MIDTERM ELECTIONS. - WSJ
+- 11/04 13:03 [financialjuice] Democrat Gina Hinojosa beats Republican incumbent Greg Abbott in Texas governor race, CNN projects
+- 11/04 13:07 [FirstSquawk] ADNOC GAS AND ETIHAD WATER AND ELECTRICITY JOIN FORCES TO ENHANCE GAS SUPPLY AND POWER GENERATION CAPACITY IN THE NORTHERN EMIRATES.
+- 11/04 13:08 [FirstSquawk] GINA HINOJOSA WINS TEXAS GOVERNOR'S RACE, DEFEATING INCUMBENT REPUBLICAN GREG ABBOTT, ACCORDING TO NBC NEWS.
+- 11/04 13:11 [FirstSquawk] SHERROD BROWN WINS OHIO SENATE RACE, DEFEATING REPUBLICAN INCUMBENT JON HUSTED, ACCORDING TO NBC NEWS.
+- 11/04 13:13 [financialjuice] Democrat Rob Sand beats Republican Zach Lahn in race for Iowa governor held by GOP - NBC News
+- 11/04 13:13 [FirstSquawk] ROB SAND WINS IOWA GOVERNOR'S RACE, DEFEATING REPUBLICAN CANDIDATE ZACH LAHN, ACCORDING TO NBC NEWS.
+- 11/04 13:15 [financialjuice] United Arab Emirates S&P Global composite PMI falls to 54.8 in October from 55.3 in September
+- 11/04 13:16 [financialjuice] Democratic challenger Adam Hamilton defeats Republican incumbent Roger Marshall in Kansas US Senate race, CNN projects
+- 11/04 13:16 [FirstSquawk] CNN PROJECTS DEMOCRATIC CHALLENGER ADAM HAMILTON TO DEFEAT INCUMBENT REPUBLICAN ROGER MARSHALL IN KANSAS.
+- 11/04 13:18 [financialjuice] Democrat Josh Turek defeats Republican Ashley Hinson in race for GOP-held US Senate seat in Iowa: Decision Desk HQ
+- 11/04 13:18 [financialjuice] Decision Desk HQ projects Democrats to keep control of US Senate
+- 11/04 13:19 [FirstSquawk] DECISION DESK HQ PROJECTS DEMOCRAT JOSH TUREK TO DEFEAT REPUBLICAN ASHLEY HINSON FOR IOWA'S US SENATE SEAT.
+- 11/04 13:21 [financialjuice] Democrat Gina Hinojosa beats Republican incumbent Greg Abbott in Texas governor race - NBC News
+- 11/04 13:24 [financialjuice] Democrat Josh Turek beats Republican Ashley Hinson in race for GOP-held US Senate seat in Iowa - NBC News
+- 11/04 13:25 [FirstSquawk] DEMOCRATS PROJECTED TO WIN CONTROL OF THE US SENATE, NBC NEWS REPORTS.
+- 11/04 13:25 [financialjuice] NBC News projects Democrats to gain control of US Senate
+- 11/04 13:39 [FirstSquawk] DEMOCRATIC VICTORY LIKELY TO DRIVE GRADUAL DECLINE IN MEMORY PRICES, ANALYSTS SAY
+- 11/04 13:44 [FirstSquawk] WSJ: MIDTERM ELECTORATE EXPRESSES DEEP CONCERNS OVER TRUMP, INFLATION AND THE US DIRECTION.
+- 11/04 14:00 [financialjuice] India HSBC and S&P Global October final services PMI at 55.8 vs flash 56.2
+- 11/04 14:00 [FirstSquawk] INDIA (OCT) HSBC INDIA PMI COMPOSITE ACTUAL: 56.2 VS 56.7 PREVIOUS
+- 11/04 14:00 [FirstSquawk] INDIA (OCT) HSBC INDIA PMI SERVICES ACTUAL: 55.8 VS 56.2 PREVIOUS
+- 11/04 14:01 [financialjuice] Trump: Democrats will send insane measures and I will veto them
+- 11/04 14:01 [financialjuice] Trump: part of outcome related to Iran
+- 11/04 14:03 [FirstSquawk] TRUMP: I WILL VETO DEMOCRATIC PROPOSALS THAT ARE "INSANE."
+- 11/04 14:04 [financialjuice] Democrat Peggy Flanagan wins over Republican Michele Tafoya in contest for democratic-held Minnesota Senate seat: Decision Desk HQ
+- 11/04 14:05 [financialjuice] Trump on Iran: people likely unwilling to accept short-term gasoline price impact
+- 11/04 14:06 [financialjuice] Democrat Peggy Flanagan beats Republican Michele Tafoya in contest for democratic-held US Senate seat in Minnesota - NBC News
+- 11/04 14:06 [FirstSquawk] ORACLE ABANDONS $7B TENCENT AI DEAL AFTER FACING PRESSURE FROM TRUMP, FT REPORTS.
+- 11/04 14:06 [financialjuice] Trump: Democrats performed well
+- 11/04 14:07 [financialjuice] Trump: I could collaborate with Democrats on many issues
+- 11/04 14:08 [FirstSquawk] TRUMP: PEOPLE WERE PROBABLY NOT WILLING TO BEAR THE SHORT-TERM COSTS OF HIGHER GASOLINE PRICES.
+- 11/04 14:08 [FirstSquawk] TRUMP SAYS THERE ARE MANY AREAS WHERE HE COULD WORK WITH DEMOCRATS.
+- 11/04 14:09 [financialjuice] Trump: I can cooperate with Democrats on immigration
+- 11/04 14:09 [financialjuice] Trump: I don't expect to alter cabinet
+- 11/04 14:09 [FirstSquawk] TRUMP RECOGNISES IRAN WAR AS ONE OF THE REASONS FOR REPUBLICAN LOSSES, WSJ REPORTS.
+- 11/04 14:12 [FirstSquawk] TRUMP: I AM OPEN TO COOPERATION WITH DEMOCRATS ON IMMIGRATION.
+- 11/04 14:12 [FirstSquawk] TRUMP SAYS HE IS NOT CONSIDERING A CABINET SHAKE-UP.
+- 11/04 14:17 [financialjuice] Trump: I will accept election outcome
+- 11/04 14:17 [financialjuice] Susan Collins concedes Maine Senate race: NBC News
+- 11/04 14:18 [financialjuice] Democratic challenger Troy Dale Jackson beats Republican incumbent Susan Collins in Maine US Senate race, CNN projects
+- 11/04 14:20 [FirstSquawk] CNN PROJECTS DEMOCRATIC CHALLENGER TROY DALE JACKSON TO DEFEAT INCUMBENT SUSAN COLLINS IN MAINE.
+- 11/04 14:20 [financialjuice] Trump acknowledges Iran war partly responsible for Republican losses: WSJ
+- 11/04 14:31 [FirstSquawk] NASDAQ 100 FUTURES WEAKEN, LOSING 0.75%.
+- 11/04 14:41 [financialjuice] Edge: Novamarine to supply platforms made at its Olbia, Italy production facility
+- 11/04 14:49 [FirstSquawk] EUR/JPY SLIPS BELOW 177.50 FOLLOWING A PULLBACK FROM THE DESCENDING CHANNEL'S UPPER BOUNDARY, FXSTREET SAYS.
+- 11/04 14:54 [financialjuice] Can collaborate with Democrats on immigration
+- 11/04 14:55 [financialjuice] Trump: I don’t regret initiating the Iran conflict earlier this year - WSJ
+- 11/04 14:56 [financialjuice] Trump: no plans to alter personnel in his administration, backs Pete Hegseth - WSJ
+- 11/04 15:00 [FirstSquawk] TRUMP REITERATES THAT HE DOES NOT REGRET INITIATING THE IRAN WAR EARLIER THIS YEAR, WSJ REPORTS.
+- 11/04 15:03 [FirstSquawk] SILVER PRICES GAIN OVER 3%, WITH SPOT SILVER REACHING $51.38/OZ.
+- 11/04 15:06 [FirstSquawk] CHINA FOREIGN MINISTER URGES DEVELOPMENT OF A CROSS-BORDER DISASTER WARNING MECHANISM AND COOPERATION ON LANCANG-MEKONG DISASTER MANAGEMENT.
+- 11/04 15:07 [FirstSquawk] CHINA FOREIGN MINISTER: LANCANG-MEKONG COUNTRIES NEED TO DEEPEN JOINT LAW ENFORCEMENT AND SECURITY COOPERATION.
+- 11/04 15:09 [FirstSquawk] JAPAN'S NIKKEI RECOVERS FROM SESSION LOWS, BUT REMAINS DOWN 1.65%.
+- 11/04 15:09 [FirstSquawk] JAPAN'S 10-YEAR BOND YIELD GAINS 4 BPS, REACHING 2.81%.
+- 11/04 15:09 [FirstSquawk] BEIJING-THAI FOREIGN MINISTERS SAY LANCANG-MEKONG COUNTRIES WILL ENHANCE INTELLIGENCE SHARING, JOINT TRAINING AND CAPACITY BUILDING TO FIGHT CYBERCRIME AND SCAM OPERATIONS.
+- 11/04 15:36 [FirstSquawk] . GOLDMAN SACHS RAISES STOXX 600 EPS GROWTH FORECAST FOR 2026 TO 18% FROM 15% AND FOR 2027 TO 7% FROM 5%; SETS 2028 FORECAST AT 5%.
+- 11/04 15:56 [FirstSquawk] SOUTH KOREAN FINANCIAL REGULATOR LEVIES 364 BILLION WON IN FINES ON EACH OF SEVEN LOCAL BANKS OVER HONG KONG EQUITY-LINKED PRODUCTS.
+- 11/04 16:03 [financialjuice] Japan's Dep. Chief Cabinet Sec. Kihara: Markets move on various factors.
+- 11/04 16:04 [financialjuice] Japan's Dep. Chief Cabinet Sec. Kihara: We will watch market moves with high sense of urgency.
+- 11/04 16:11 [FirstSquawk] CHINA FOREIGN MINISTRY, ON MIDDLE EAST AND GULF SITUATION SAYS CHINA WILLING TO STRENGTHEN DIALOGUE WITH SAUDI, IRAN AND REGIONAL COUNTRIES
+- 11/04 16:11 [FirstSquawk] JAPAN CHIEF CABINET SECRETARY KIHARA SAYS WILL WATCH MARKET MOVES WITH HIGH SENSE OF URGENCY
+- 11/04 16:11 [FirstSquawk] SAUDI CIVIL DEFENCE SAYS DANGER HAS PASSED IN NAJRAN PROVINCE
+- 11/04 16:21 [financialjuice] China: In contact with US, Russia on leaders' meeting.
+- 11/04 16:21 [FirstSquawk] CHINA SAYS IT'S IN CONTACT WITH US, RUSSIA ON LEADERS' MEETING
+- 11/04 16:21 [FirstSquawk] CHINA SAYS TOTALENERGIES TO SUPPLY 900,000 TONS OF LNG PER YEAR TO JIANGSU GUOXIN GROUP FOR 15 YEARS
+- 11/04 16:21 [FirstSquawk] TOTALENERGIES SE CHINA SAYS TOTALENERGIES TO SUPPLY 900,000 TONS OF LNG PER YEAR TO JIANGSU GUOXIN GROUP FOR 15 YEARS
+- 11/04 16:30 [financialjuice/FirstSquawk] Thune plans to run for minority senate leader - Fox
+- 11/04 16:31 [FirstSquawk] NOVO NORDISK CEO SAYS THE WEGOVY PILL IS STILL CAPTURING AROUND 80% OF NEW ORAL PATIENT STARTS; IMPROVEMENTS IN THE OUTLOOK IS MAINLY DRIVEN BY INCREASED EXPECTATIONS FOR GLP-1 PRODUCT SALES
+- 11/04 16:32 [FirstSquawk] NOVO NORDISK CFO SAYS THE OUTLOOK ALSO REFLECTS EXPECTATIONS FOR SALES GROWTH WITHIN INTERNATIONAL OPERATIONS AND EXPECTATIONS FOR A SALES DECLINE WITHIN US OPERATIONS; 80% OF PEOPLE WHO START ON THE WEGOVY PILL ARE GLP-1 NAIVE
+- 11/04 16:32 [FirstSquawk] NOVO NORDISK CEO SAYS WEGOVY PILL SALES INCREASED 20% IN THE US IN Q3; "I THINK THERE IS NO SECRET THAT THE THE CURVE HAS FLATTENED"
+- 11/04 16:38 [FirstSquawk] TESLA, SPACEX FALL 5% ON TRADEGATE VERSUS YESTERDAY'S US CLOSE.
+- 11/04 16:41 [FirstSquawk] ADNOC SAYS ADNOC TRADING AND COVESTRO SIGN A FRAMEWORK COOPERATION AGREEMENT; AGREEMENT TO EXPLORE OPPORTUNITIES IN ENERGY SUPPLY, CARBON MANAGEMENT AND MARKET INTELLIGENCE
+- 11/04 16:41 [FirstSquawk] ADNOC SAYS SIGNS AGREEMENTS WITH JAPAN BANK FOR INTERNATIONAL COOPERATION, SECURING $1 BLN IN GREEN FINANCING
+- 11/04 16:49 [FirstSquawk] EXPLOSIVE-LADEN DRONES ATTACK IRANIAN KURDISH OPPOSITION IN IRAQ'S SULAYMANIYAH AND EAST ERBIL: SECURITY SOURCES
+- 11/04 16:56 [FirstSquawk] KAZAKHSTAN PLANS TO PRODUCE ABOUT 99M TONS OF OIL IN 2027; REITERATES PLANS TO PRODUCE 96M TONS OF OIL THIS YR
