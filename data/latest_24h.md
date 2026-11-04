@@ -7,103 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-11-05 01:09 JST／対象: 11/04 01:09 〜 11/05 01:09 JST（時刻はすべて日本時間）
+生成: 2026-11-05 06:51 JST／対象: 11/04 06:51 〜 11/05 06:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 64 | 11/04 01:30 | 11/05 01:06 | ⚠ 488分（12:53→21:02） |
-| FirstSquawk | 266 | 11/04 01:12 | 11/05 01:08 | ⚠ 65分（03:05→04:10） |
-| financialjuice | 217 | 11/04 01:12 | 11/05 00:44 | ⚠ 68分（01:29→02:37） |
+| DeItaone | 72 | 11/04 08:36 | 11/05 03:29 | ⚠ 488分（12:53→21:02） |
+| FirstSquawk | 293 | 11/04 07:09 | 11/05 06:42 | ⚠ 53分（01:47→02:40） |
+| financialjuice | 236 | 11/04 06:54 | 11/05 06:16 | ⚠ 67分（14:56→16:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 532 行（統合前 550 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 581 行（統合前 605 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/04 01:12 [financialjuice] Todd Boehly-Led Consortium Preparing Securities Swap to Acquire Lukoil's Foreign Assets – Reuters
-- 11/04 01:12 [FirstSquawk] GOVERNOR MACKLEM: IN CURRENT CIRCUMSTANCES DOES NOT THINK FISCAL POLICY IS MAKING IT HARDER TO GET INFLATION DOWN
-- 11/04 01:12 [financialjuice] BoC's Gov. Macklem: In current circumstances, does not think fiscal policy is making it harder to get inflation down
-- 11/04 01:15 [FirstSquawk/financialjuice] JAPAN TO BOLSTER DEFENSES WITH UNIFIED MISSILE, ARTILLERY SYSTEMS - NIKKEI
-- 11/04 01:18 [financialjuice] System initially will not incorporate AI into decision-making processes, launch & other decisions to remain in the hands of commanders - Nikkei
-- 11/04 01:23 [FirstSquawk] IRANIAN OFFICIAL SAYS MEDIATORS WORKING TO NARROW GAP WITH US
-- 11/04 01:28 [financialjuice] Greenland's Parliament approves a security deal with the United States.
-- 11/04 01:29 [financialjuice/DeItaone] Greenland's Parliament approves security deal with the United States
-- 11/04 01:33 [FirstSquawk] TOYOTA US NEW CAR SALES RISE 6.5% IN OCTOBER TO 221,507; VEHICLES ELECTRIFIED VEHICLE SHARE OF SALES HITS 56.9%
-- 11/04 01:41 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 1.03%; GERMANY'S DAX DOWN 0.31%; FRANCE'S CAC 40 DOWN 0.22%; SPAIN'S IBEX DOWN 0.72%
-- 11/04 02:28 [FirstSquawk] ZELENSKIY SAYS “SOMETIMES WE DON’T EVEN UNDERSTAND HOW STRONG WE ARE,” THAT EUROPE IS VERY STRONG AND, DESPITE INTERNAL QUESTIONS, HAS UNITY, MAKING IT SEVERAL TIMES STRONGER THAN TODAY’S RUSSIA
-- 11/04 02:28 [FirstSquawk] ZELENSKIY SAYS RUSSIA WILL NOT SURVIVE IF 100% OF SANCTIONS REALLY WORK AND IF NOBODY PLAYS GAMES WITH LIFTING SANCTIONS ON SOME OLIGARCHS
-- 11/04 02:28 [FirstSquawk] ZELENSKIY SAYS PUTIN DOES NOT UNDERSTAND A FORMAT OF DIALOGUE AND THAT IT IS NOT ENOUGH, THAT PUTIN LIKES PRESSURE AND STRONG STEPS, AND THAT SOMETIMES “WE NEED TO SPEAK HIS LANGUAGE WITH HIM”
-- 11/04 02:37 [financialjuice] Fitch Ratings: French banks’ rating headroom narrows on sovereign outlook revision.
-- 11/04 02:41 [FirstSquawk] POLAND LAUNCHED A LARGE-SCALE SECURITY OPERATION THIS WEEK ALONG ITS BORDER WITH THE RUSSIAN EXCLAVE OF KALININGRAD, THE COUNTRY’S NATIONAL POLICE CHIEF SAID, WITH THE POLISH PRIME MINISTER SAYING THE EFFORT MAY HAVE PREVENTED A SABOTAGE OR…
-- 11/04 02:51 [financialjuice] Israel tells the US that Iran is weighing chemical weapons use - NYT.
-- 11/04 02:51 [DeItaone] *ISRAEL INTEL MET WITH ALARM, SKEPTICISM BY US OFFICIALS: NYT
-- 11/04 02:53 [DeItaone] *ISRAEL TELLS US IRAN WEIGHING CHEMICAL ARMS USE: NYT *NYT CITES US, REGIONAL OFFICIALS ON ISRAELI INTEL ON IRAN
-- 11/04 02:53 [FirstSquawk] ISRAEL HAS TOLD THE U.S. THAT IRAN IS WEIGHING CHEMICAL WEAPONS USE, SHARING INTELLIGENCE ASSERTING IRAN IS CONSIDERING USING CHEMICAL WEAPONS AGAINST ITS ADVERSARIES, INFORMATION MET WITH ALARM BY SOME AMERICAN OFFICIALS AND DEEP SKEPTICIS…
-- 11/04 02:53 [FirstSquawk] SOME ADMINISTRATION OFFICIALS SEE THE ISRAELI INTELLIGENCE AS PART OF A PRESSURE CAMPAIGN BY NETANYAHU’S GOVERNMENT TO PERSUADE THE TRUMP ADMINISTRATION TO RETURN TO MAJOR COMBAT OPERATIONS AGAINST IRAN - NYT
-- 11/04 02:54 [financialjuice] Israeli Claims of Iranian Chemical Weapons Divide US Officials - NYT
-- 11/04 02:56 [DeItaone] Israel has warned US intelligence officials that Iran may be preparing to use chemical weapons, but the claims have triggered significant disagreement within the Trump administration. Some US officials take the threat seriously, while other…
-- 11/04 02:57 [DeItaone] US–IRAN: ISRAELI CHEMICAL WEAPONS WARNING DIVIDES WASHINGTON Israel has warned US intelligence officials that Iran may be preparing to use chemical weapons, but the claims have triggered significant disagreement within the Trump administrat…
-- 11/04 03:00 [DeItaone] ECB'S NAGEL: A RATE HIKE IN DECEMBER IS VERY LIKELY TO BE NECESSARY ECB'S NAGEL: INFLATIONARY PRESSURES HIGHER THAN EXPECTED IN SEPTEMBER; APPROACHING ADVERSE SCENARIO ECB'S NAGEL: WE CAN AND MUST PREVENT ENERGY PRICE SPIKE CAUSING BROAD-BA…
-- 11/04 03:00 [financialjuice] ECB's Nagel: A rate hike in December is very likely to be necessary.
-- 11/04 03:00 [financialjuice] ECB's Nagel: Inflationary pressures higher than expected in September; approaching adverse scenario
-- 11/04 03:00 [financialjuice] ECB's Nagel: We can and must prevent an energy price spike from causing broad-based inflation.
-- 11/04 03:01 [DeItaone] ECB: DECEMBER RATE HIKE NOW SEEN AS HIGHLY LIKELY Bundesbank President Joachim Nagel says another ECB interest-rate hike in December is almost unavoidable unless the inflation outlook improves significantly. The ECB held its deposit rate at…
-- 11/04 03:05 [FirstSquawk] ECB’S NAGEL SAYS A RATE HIKE IN DECEMBER IS VERY LIKELY TO BE NECESSARY, WITH INFLATIONARY PRESSURES HIGHER THAN EXPECTED IN SEPTEMBER AND APPROACHING THE ADVERSE SCENARIO, ADDING THAT THE ECB CAN AND MUST PREVENT AN ENERGY PRICE SPIKE FROM…
-- 11/04 03:19 [financialjuice] Trump is negotiating an agreement with Venezuela on US troops - NYT.
-- 11/04 03:22 [DeItaone] YEMEN WARNS: SAUDI ARAMCO FACILITIES AT RISK A Yemeni military source warned that Aramco facilities are within strike range, according to Saba News Agency. The source cautioned that high dividends may conceal security risks and questioned A…
-- 11/04 03:22 [DeItaone] AI BOOM: $10 TRILLION SPENDING WAVE RAISES FINANCIAL RISKS Former New York Fed President Bill Dudley warns that AI infrastructure investment could exceed $10 trillion, potentially creating massive overcapacity. Dudley estimates that only 2–…
-- 11/04 03:26 [DeItaone] US IN TALKS WITH VENEZUELA FOR LONG-TERM MILITARY PRESENCE: NYT
-- 11/04 03:27 [financialjuice] ECB's Sleijpen: The Iran shock is more persistent than earlier thought.
-- 11/04 03:31 [financialjuice] ECB's Sleijpen: We don't really see second-round effects yet.
-- 11/04 03:34 [financialjuice] ECB's Sleijpen: The advance in energy risks has knock-on inflation effects.
-- 11/04 03:34 [financialjuice] ECB's Sleijpen: Tightening is slowing Europe's economy.
-- 11/04 03:35 [DeItaone] U.S. STOCK INDEXES EXTEND GAINS; S&P 500 UP 0.70%, NASDAQ UP 1.2%
-- 11/04 03:38 [DeItaone] BILL ACKMAN: STOCK MARKET IS "BROKEN" BY SPECULATIVE TRADING Pershing Square founder Bill Ackman warns that excessive leverage and speculation are driving irrational stock-price swings. Ackman compared today's trading environment to casino-…
-- 11/04 03:39 [financialjuice] ECB's Nagel: I am confident that France will get a grip on its budget issues.
-- 11/04 03:39 [financialjuice] ECB's Nagel on France Budget: This isn't a task for monetary policy.
-- 11/04 03:48 [DeItaone] US OFFICIALS HAVE HELD UP APPROVAL FOR AMERICAN CHIPMAKING EQUIPMENT NEEDED BY SK HYNIX TO EXPAND PRODUCTION IN CHINA - PEOPLE FAMILIAR SAY
-- 11/04 03:50 [financialjuice/FirstSquawk] US officials have held up approval for American chipmaking equipment needed by SK Hynix to expand production in China - Sources.
-- 11/04 03:53 [DeItaone] US MIDTERMS: SCHUMER SAYS DEMOCRATS ARE "NAUSEOUSLY OPTIMISTIC" Senate Minority Leader Chuck Schumer expressed cautious optimism after voting in Brooklyn, suggesting Democrats have a realistic chance of reclaiming the Senate. "A year ago, n…
-- 11/04 04:03 [financialjuice] ECB's Sleijpen: Problems in France must be solved in Paris
-- 11/04 04:05 [financialjuice] Apple opens Siri AI preview to all developers. $AAPL
-- 11/04 04:10 [FirstSquawk] APPLE OPENS SIRI AI PREVIEW TO ALL DEVELOPERS
-- 11/04 04:31 [financialjuice] NYMEX WTI Crude Dec. futures settle at $96.09 a barrel down 37 cents, 0.38%
-- 11/04 04:31 [financialjuice] NYMEX diesel Dec. futures settle at $4.5306 a gallon
-- 11/04 04:31 [financialjuice] NYMEX gasoline Dec. futures settle at $2.9355 a gallon
-- 11/04 04:32 [financialjuice] NYMEX Nat Gas Dec. futures settle at $2.8950/MMBTU
-- 11/04 04:34 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 0.38% LOWER AT $96.09/BBL, DOWN 37 CENTS
-- 11/04 04:46 [financialjuice] Brent Crude futures settle at $103.60/bbl, down $1.17, 1.12%
-- 11/04 04:59 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 1.12% LOWER AT $103.60/BBL, DOWN $1.17
-- 11/04 05:22 [financialjuice] Wednesday FX Options Expiries
-- 11/04 05:35 [financialjuice] UK Navy: Received report of vessel struck by an unknown projectile 9nm northeast of Lima, Oman; vessel and crew safe
-- 11/04 05:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: -880.2 MLN NASDAQ 100: -1404.2 MLN DOW 30: -49.5 MLN MAG 7: -14.3 MLN $MACRO
-- 11/04 05:53 [FirstSquawk] UKMTO SAYS A TANKER WAS STRUCK BY TWO UNKNOWN PROJECTILES IN ITS ENGINE ROOM 14 NM NORTHEAST OF LIMA, OMAN, WITH NO CASUALTIES OR ENVIRONMENTAL IMPACT REPORTED
-- 11/04 05:56 [FirstSquawk] THE WHITE HOUSE HAS CIRCULATED ELECTION DAY TALKING POINTS PRAISING TRUMP’S CAMPAIGN EFFORTS AS REPUBLICANS BRACE FOR POTENTIALLY DISAPPOINTING MIDTERM RESULTS, WITH THE DOCUMENT CLAIMING THE ADMINISTRATION HAS HAD THE “MOST SUCCESSFUL TWO …
-- 11/04 05:59 [FirstSquawk] THE DOCUMENT LABELS DEMOCRATS “DUMOCRATS,” FRAMES THE ELECTION AS “COMMON SENSE VS. THE COMMUNISTS,” AND URGES SUPPORTERS TO “STOP THE COMMUNISTS AND JIHADISTS. GO VOTE” - AXIOS
-- 11/04 05:59 [FirstSquawk] APPLE SAYS ITS REDESIGNED HEALTH APP WILL EXPAND SUPPORT TO 11 LANGUAGES, INCLUDING CHINESE, FRENCH, JAPANESE, KOREAN, PORTUGUESE, SPANISH, TURKISH AND VIETNAMESE, ROLLING OUT AS A FREE UPDATE LATER IN 2026
-- 11/04 06:01 [FirstSquawk] DOW JONES CLOSES 0.42% LOWER AT 51,766.83, DOWN 217.15 POINTS
-- 11/04 06:02 [FirstSquawk] S&P 500 CLOSES 0.38% HIGHER AT 7,570.04, UP 28.64 POINTS
-- 11/04 06:02 [FirstSquawk] NASDAQ CLOSES 0.87% HIGHER AT 25,382.02, UP 217.65 POINTS
-- 11/04 06:04 [FirstSquawk] AMGEN Q3 2026 REVENUE $10.37 BLN, ABOVE ESTIMATE OF $10.05 BLN, WITH ADJUSTED EPS $6.45, ABOVE ESTIMATE OF $5.77, AND ADJUSTED OPERATING INCOME $4.68 BLN, ABOVE ESTIMATE OF $4.33 BLN
-- 11/04 06:04 [FirstSquawk] AMGEN RAISES ITS FY GUIDANCE, NOW SEEING FY REVENUE $38.9 BLN TO $39.7 BLN FROM $38.2 BLN TO $39.4 BLN, AND FY ADJUSTED EPS $22.90 TO $23.70 FROM $22.30 TO $23.50
-- 11/04 06:08 [FirstSquawk] BOOKING HOLDINGS Q3 2026 REVENUE $8.89 BLN, BELOW ESTIMATE OF $9.54 BLN, WITH ADJUSTED EBITDA $4.61 BLN, ABOVE ESTIMATE OF $4.49 BLN, AND GROSS BOOKINGS $54.5 BLN, ABOVE ESTIMATE OF $52.69 BLN
-- 11/04 06:08 [FirstSquawk] BOOKING HOLDINGS Q3 ROOM NIGHTS SOLD 345 MLN, ABOVE ESTIMATE OF 339.24 MLN, WITH THE COMPANY SEEING Q4 GROSS BOOKINGS GROWTH OF +2% TO +4% AND Q4 ROOM NIGHTS GROWTH OF +1% TO +3%
-- 11/04 06:11 [FirstSquawk] BOOKING HOLDINGS SAYS GLOBAL TRAVEL DEMAND MODERATED SOMEWHAT TOWARDS THE END OF Q3, WITH ITS OUTLOOK ASSUMING THE DIRECT AND INDIRECT IMPACTS OF THE MIDDLE EAST AND NOTING THAT GEOPOLITICAL AND MACROECONOMIC UNCERTAINTY MAY AFFECT NEAR-TER…
-- 11/04 06:11 [FirstSquawk] BOOKING SEES FY GROSS BOOKINGS AND ADJUSTED REVENUE GROWTH IN THE HIGH SINGLE DIGITS AND FY ADJUSTED EPS GROWTH IN THE LOW-TO-MID TEENS
-- 11/04 06:13 [FirstSquawk] SUPER MICRO COMPUTER SEES Q2 NET SALES $19.5 BLN TO $21.5 BLN, WELL ABOVE ESTIMATE OF $16.53 BLN, AND RAISES ITS FY NET SALES VIEW TO $72 BLN TO $82 BLN FROM $65 BLN TO $72 BLN
-- 11/04 06:13 [financialjuice] ECB's Kocher: Risks to inflation remain elevated
-- 11/04 06:14 [financialjuice] ECB's Kocher: ECB will continue to react on inflation when necessary.
-- 11/04 06:15 [financialjuice] ECB's Kocher: Dec. rate hike likely if situation doesn't change.
-- 11/04 06:17 [financialjuice] $AMD Q3 Earnings Revenue $13.38B, est. $13.08B Adjusted EPS $2.09, est. $1.97 Adjusted Operating Income $3.92B, est. $3.68B Adjusted Operating Margin 29%, est. 28% R&D Expenses $2.80B, est. $2.72B Capex $648M, est. $647M Sees Q4 Revenue of …
-- 11/04 06:20 [FirstSquawk] AMD Q3 ADJUSTED OPERATING MARGIN 29%, ABOVE ESTIMATE OF 28%, WITH R&D EXPENSES $2.80 BLN AND CAPEX $648 MLN
-- 11/04 06:21 [FirstSquawk] AMD Q3 2026 REVENUE $13.38 BLN, ABOVE ESTIMATE OF $13.08 BLN, WITH ADJUSTED EPS $2.09, ABOVE ESTIMATE OF $1.97, AND ADJUSTED OPERATING INCOME $3.92 BLN, ABOVE ESTIMATE OF $3.68 BLN
-- 11/04 06:45 [financialjuice] ❗ NEW ZEALAND UNEMPLOYMENT RATE ACTUAL 5.7% (FORECAST 5.5%, PREVIOUS 5.6%) $MACRO
-- 11/04 06:45 [financialjuice] NEW ZEALAND JOB GROWTH QOQ ACTUAL -0.1% (FORECAST 0.4%, PREVIOUS 0.5%) $MACRO
-- 11/04 06:45 [financialjuice] NEW ZEALAND PARTICIPATION RATE ACTUAL 70.4% (FORECAST 70.7%, PREVIOUS 70.7%) $MACRO
 - 11/04 06:54 [financialjuice] US API CRUDE STOCK CHANGE ACTUAL -5.267M (FORECAST 2.1M, PREVIOUS -2.031M) $MACRO
 - 11/04 06:55 [financialjuice] US API GASOLINE STOCK CHANGE ACTUAL 1.427M (FORECAST -, PREVIOUS 2.39M) $MACRO
 - 11/04 06:55 [financialjuice] US API DISTILLATE STOCK CHANGE ACTUAL -1.192M (FORECAST -, PREVIOUS 0.38M) $MACRO
@@ -556,3 +476,132 @@
 - 11/05 01:02 [DeItaone] FRANCE'S 10-YEAR GOVERNMENT BOND YIELD EXTENDS FALL, LAST DOWN 12.5 BPS AT 4.80%
 - 11/05 01:06 [DeItaone] US, BRENT CRUDE FUTURES FALL BY MORE THAN $4 A BARREL
 - 11/05 01:08 [FirstSquawk] CANADA TRADE MINISTER: HAS REACHED AN AGREEMENT WITH CHINA TO EXTEND BY TWO YEARS A DEAL ALLOWING MARKET ACCESS FOR CANOLA MEAL, PEAS, LOBSTER AND CRAB
+- 11/05 01:10 [DeItaone] TRUMP'S VETO POWER COULD BLOCK DEMOCRATIC AGENDA Despite sweeping midterm victories, Democrats lack the two-thirds majorities needed to override President Trump's vetoes. Trump can reject legislation within 10 days, excluding Sundays, while…
+- 11/05 01:17 [DeItaone] BRENT CRUDE FUTURES FALL MORE THAN $5 A BARREL
+- 11/05 01:17 [financialjuice] US extends national emergency orders related to China and Iran.
+- 11/05 01:18 [financialjuice] JAPAN wants US tech companies to share undisclosed software flaws as risks mount - Nikkei.
+- 11/05 01:18 [FirstSquawk/DeItaone] US EXTENDS NATIONAL EMERGENCY ORDERS RELATED TO CHINA, IRAN
+- 11/05 01:28 [financialjuice] US Senate Democrat Leader Schumer: We will end the war, some republicans have joined us.
+- 11/05 01:28 [FirstSquawk] UK 10 YEAR GILT YIELD FALLS TO LOWEST SINCE SEPTEMBER 4, DOWN 12 BPS TO 5.143%
+- 11/05 01:29 [financialjuice] US Senate Democrat Leader Schumer: We will drive costs down, with or without Trump.
+- 11/05 01:31 [financialjuice] US Senate Democrat Leader Schumer: I will be re-elected majority leader.
+- 11/05 01:34 [FirstSquawk] EUROPEAN GAS PRICES FALL AS MUCH AS 5.3% TO €86.74/MWH
+- 11/05 01:35 [FirstSquawk] SENATE MAJORITY LEADER SCHUMER: WE WILL END THE WAR, SOME REPUBLICANS HAVE JOINED US
+- 11/05 01:37 [DeItaone/FirstSquawk] US CRUDE FUTURES FALL BY MORE THAN $5/BBL, BRENT CRUDE FUTURES DOWN BY MORE THAN $7/BBL
+- 11/05 01:39 [FirstSquawk] OIL PRICES EXTEND LOSSES, US CRUDE FALLS NEAR $90 A BARREL
+- 11/05 01:42 [financialjuice] Trump is asking advisers if US Sec. of Defense Hegseth should go - CBS, citing sources.
+- 11/05 01:43 [DeItaone] TRUMP ASKING ADVISERS IF HEGSETH SHOULD GO, SOURCES SAY
+- 11/05 01:43 [FirstSquawk] TRUMP ASKING ADVISERS IF HEGSETH SHOULD GO: CBS, CITING SOURCES
+- 11/05 01:43 [DeItaone] TRUMP CONSIDERS REPLACING DEFENSE SECRETARY HEGSETH AFTER GOP DEFEAT President Trump is privately asking advisers whether Defense Secretary Pete Hegseth should remain in office, CBS News reports, citing multiple sources. The discussions fol…
+- 11/05 01:43 [financialjuice] Trump has not decided to replace Hegseth - CBS.
+- 11/05 01:43 [financialjuice/FirstSquawk] DeSantis is being floated as a possible Hegseth replacement - CBS.
+- 11/05 01:45 [DeItaone] HEGSETH'S EXIT ODDS SURGE AS TRUMP WEIGHS REPLACEMENT Trump is privately discussing replacing Defense Secretary Pete Hegseth after Republicans’ midterm defeat, CBS reports. Prediction markets now price an 88% chance Hegseth leaves before Ap…
+- 11/05 01:47 [FirstSquawk] PENTAGON: WE DEPLOYED MORE THAN 25,000 DRONE AND ANTI-DRONE SYSTEMS IN THE MIDDLE EAST IN 2026
+- 11/05 02:00 [DeItaone] DOW JONES EXTENDS GAINS TO HIT TWO-MONTH HIGH; LAST UP 2.95%
+- 11/05 02:16 [financialjuice/FirstSquawk] House Democrat Leader Jeffries: Democrats will win at least 255 seats in the House.
+- 11/05 02:20 [financialjuice/FirstSquawk] House Democrat Leader Jeffries: Katherine Clark is going to be the next House Majority Leader.
+- 11/05 02:29 [financialjuice] Trump: Stock market just hit another record high - Truth Social.
+- 11/05 02:31 [DeItaone] US HOUSE DEMOCRATIC LEADER JEFFRIES: HAVE NOT HEARD FROM TRUMP
+- 11/05 02:33 [financialjuice] House Democrat Leader Jeffries: We will pass a bill to stop Trump tariffs and end the Iran war.
+- 11/05 02:41 [FirstSquawk] US HOUSE DEMOCRAT LEADER HAKEEM JEFFRIES: WE MUST REVERSE MEDICAID CUTS, EXTEND ACA TAX CREDITS
+- 11/05 02:45 [financialjuice] Trump Delivers Remarks - WATCH LIVE
+- 11/05 02:46 [financialjuice] House Democratic Leader Jeffries ends remarks
+- 11/05 02:52 [FirstSquawk] BRENT CRUDE OIL FELL 10% TO NEAR $93/BBL, ITS LOWEST IN TWO MONTHS
+- 11/05 02:53 [FirstSquawk] TRUMP SAYS THE STOCK MARKET JUST HIT ANOTHER RECORD HIGH — “91 DAYS IN JUST A SHORT PERIOD OF TIME, LESS THAN TWO YEARS” — AND THAT “YOUR 401(K)S ARE THROUGH THE ROOF” AND RECORD-SETTING - TRUTH SOCIAL
+- 11/05 02:55 [DeItaone] SCHUMER VOWS TO END IRAN WAR USING DEMOCRATS' NEW CONGRESSIONAL MAJORITY Senate Democratic leader Chuck Schumer declared that Democrats will move to end the Iran war, citing Congress's constitutional authority over federal spending. “We are…
+- 11/05 02:57 [FirstSquawk] TRUMP HELD A BALLROOM EVENT JUST ONE DAY AFTER REPUBLICANS SUFFERED DISASTROUS MIDTERM ELECTION RESULTS, SAYING IT “WILL BE THE MOST BEAUTIFUL BALLROOM ANYWHERE IN THE WORLD”
+- 11/05 02:57 [FirstSquawk] TRUMP SAYS HIS BALLROOM IS “DRONE-PROOF, MISSILE-PROOF,” WITH BULLETPROOF SIDE WALLS AND GLASS THAT IS BULLETPROOF AND DRONE-PROOF, SAYING “NO DRONE CAN PIERCE IT, AND NO BULLET CAN PIERCE IT, NO MATTER WHAT”
+- 11/05 02:58 [FirstSquawk] TRUMP MENTIONED THE PRESIDENTS OF RUSSIA AND CHINA AS POTENTIAL FUTURE GUESTS AT HIS WHITE HOUSE BALLROOM
+- 11/05 02:58 [FirstSquawk] TRUMP SAYS “WE’RE BUILDING A DRONE PORT THAT HOLDS AS MANY DRONES AS YOU WANT,” ADDING IT CAN HOLD OVER 100 DRONES AT THE MAXIMUM SIZE AND WEIGHT
+- 11/05 03:01 [financialjuice] US Treasury: Imposing sanctions against 4 India-based individuals and 9 companies for supporting Iran's shadow fleet
+- 11/05 03:02 [financialjuice] US Treasury: Also designating Turkey-based fugo ground services for supporting Iran's aviation sector
+- 11/05 03:04 [DeItaone] S&P 500 HAS RISEN AFTER EVERY US MIDTERM ELECTION SINCE 1942 The S&P 500 has delivered positive returns in the 12 months following every US midterm election since 1942, according to Dow Jones Market Data. 🔸 Average one-year gain: Approximat…
+- 11/05 03:06 [FirstSquawk] U.S. TREASURY SAYS IT IS IMPOSING SANCTIONS AGAINST FOUR INDIA-BASED INDIVIDUALS AND NINE COMPANIES FOR SUPPORTING IRAN’S SHADOW FLEET, AND IS ALSO DESIGNATING TURKEY-BASED FUGO GROUND SERVICES FOR SUPPORTING IRAN’S AVIATION SECTOR
+- 11/05 03:06 [FirstSquawk] U.S. TREASURY’S OFAC SAYS IT HAS ISSUED A NEW ALERT TO INDUSTRY WARNING OF THE RISKS OF DEALING WITH POTENTIALLY FALSELY FLAGGED VESSELS, WHICH IT SAYS CARRY NO VALID PROTECTION OR INSURANCE AND COULD CAUSE BILLIONS OF DOLLARS OF DAMAGES TO…
+- 11/05 03:10 [DeItaone] TRUMP ON ELECTION: IT'S LARGELY TRUE ELECTION LOSS WAS RESULT OF IRAN WAR
+- 11/05 03:10 [FirstSquawk] TRUMP SAYS HE HAS ORDERED “REALLY MAGNIFICENT MARBLE” FOR THE FLOOR OF HIS WHITE HOUSE BALLROOM, DESCRIBING IT AS “A CUT, A VEIN THAT PEOPLE HAVE BEEN AFTER FOR 50 YEARS”
+- 11/05 03:10 [FirstSquawk] TRUMP SAYS THE QUARRY OWNER DID NOT WANT TO SELL THE MARBLE BUT “LIKED ME” AND WAS “SO HONOURED TO BE DOING IT FOR THE COUNTRY, FOR THE WHITE HOUSE,” CALLING IT “THE MOST BEAUTIFUL MARBLE YOU’LL EVER SEE”
+- 11/05 03:10 [FirstSquawk] U.S. INTERIOR SECRETARY DOUG BURGUM SAYS “TODAY IS A DAY OF CELEBRATION AND GRATITUDE”
+- 11/05 03:10 [FirstSquawk] MORE THAN 20 MINUTES INTO HIS UNSCHEDULED REMARKS, TRUMP HAS NOT SAID A SINGLE WORD ABOUT THE MIDTERM RESULTS THAT COST REPUBLICANS CONTROL OF CONGRESS
+- 11/05 03:10 [financialjuice] Trump on Election: It's largely true that the election loss was a result of the Iran war
+- 11/05 03:10 [DeItaone] TRUMP: I'LL GET ALONG PROBABLY WITH THE DEMOCRATS
+- 11/05 03:11 [DeItaone] TRUMP: IT WAS WORTH IT TRUMP: YOU CAN'T LET IRAN HAVE A NUCLEAR WEAPON
+- 11/05 03:11 [financialjuice] Trump: The Iran thing we had to do, we continue to do it.
+- 11/05 03:11 [DeItaone] TRUMP: IF I WERE ON THE BALLOT WE WOULD HAVE WON
+- 11/05 03:11 [DeItaone] TRUMP: WE WEREN'T ABLE TO TRANSFER THE LOVE TO CANDIDATES
+- 11/05 03:11 [FirstSquawk] COREWEAVE’S BONDS TUMBLED WEDNESDAY, IN SOME CASES TO NEW LOWS, AFTER DEMOCRATIC CANDIDATES IN FAVOR OF SLOWING DOWN DATA-CENTER CONSTRUCTION WON A NUMBER OF GUBERNATORIAL RACES, INCLUDING IN TEXAS - SOURCES
+- 11/05 03:11 [financialjuice] Trump: Price, not the war, was the reason for the midterm loss
+- 11/05 03:12 [DeItaone] TRUMP SAYS `I'LL GET ALONG PROBABY WITH THE DEMOCRATS UNLESS THEY WANT TO BE DESTRUCTIVE'
+- 11/05 03:13 [FirstSquawk] TRUMP SAYS IT IS LARGELY TRUE THAT THE ELECTION LOSS WAS THE RESULT OF THE IRAN WAR, BUT THAT “IT WAS WORTH IT” BECAUSE “YOU CAN’T LET IRAN HAVE A NUCLEAR WEAPON”
+- 11/05 03:13 [DeItaone] TRUMP: IT WOULD DESTROY DEMOCRATIC PARTY IF THEY IMPEACHED ME
+- 11/05 03:13 [FirstSquawk] TRUMP SAYS HE WILL PROBABLY GET ALONG WITH THE DEMOCRATS, THAT IF HE WERE ON THE BALLOT “WE WOULD HAVE WON,” AND THAT “WE WEREN’T ABLE TO TRANSFER THE LOVE TO CANDIDATES”
+- 11/05 03:14 [FirstSquawk] TRUMP SAYS IT WOULD DESTROY THE DEMOCRATIC PARTY IF THEY IMPEACHED HIM
+- 11/05 03:17 [financialjuice] Meta buys AI startup conductor - Axios $META
+- 11/05 03:17 [FirstSquawk] META BUYS AI CODING STARTUP CONDUCTOR - AXIOS
+- 11/05 03:20 [FirstSquawk] S&P HAS DOWNGRADED SALESFORCE TO ‘A’ ON RISING M&A ACTIVITY AND SHAREHOLDER RETURNS, WITH A STABLE OUTLOOK, SAYING IT EXPECTS SALESFORCE WILL CONTINUE TO INCREASE SUBSCRIPTION REVENUE AND EARNINGS BASED ON REMAINING PERFORMANCE OBLIGATIONS
+- 11/05 03:20 [FirstSquawk] S&P SAYS IT EXPECTS MOST IF NOT ALL OF SALESFORCE’S FREE OPERATING CASH FLOW TO BE ALLOCATED TOWARDS SHAREHOLDER RETURNS AND M&A, AND THAT IT BELIEVES SALESFORCE CAN ACCELERATE AND GROW REVENUE OVER 10% ANNUALLY
+- 11/05 03:22 [DeItaone] *TRUMP: VANCE POST WAS GOOD, I KNOW HOW VANCE FEELS ABOUT WAR
+- 11/05 03:22 [financialjuice/FirstSquawk] The course of US-Iranian negotiations will become clearer on Friday, and they have made significant progress. - Al-Jadeed, citing Arab diplomatic sources
+- 11/05 03:23 [financialjuice] Trump: Iran war will end whenever I want it to
+- 11/05 03:23 [financialjuice] Trump: I am not considering replacing US Sec. of Defense Hegseth. He is doing a very good job.
+- 11/05 03:23 [DeItaone] TRUMP: NOT REPLACING HEGSETH, HE'S DOING A VERY GOOD JOB
+- 11/05 03:27 [DeItaone] IRAN CLAIMS CREDIT FOR TRUMP'S MIDTERM DEFEAT Iran's security chief Mohsen Rezaei says Tehran delivered both a military and political defeat to President Trump, following Republicans' sweeping midterm losses. “The Iranian nation handed Trum…
+- 11/05 03:29 [DeItaone] U.S. STOCKS EXTEND GAINS; S&P 500 UP 1.84%, NASDAQ UP 2.1%
+- 11/05 03:39 [financialjuice] Trump ends remarks
+- 11/05 03:45 [financialjuice/FirstSquawk] US Treasury Secretary Bessent: We will sanction those who continue supporting the Iranian regime, whether by land, sea, or air - Post on X
+- 11/05 03:47 [financialjuice] ECB’s Kazakhs: Rates need to rise if inflation risks spreading
+- 11/05 03:48 [financialjuice] ECB’s Kazaks: Rates need to rise if inflation risks spreading
+- 11/05 03:48 [financialjuice] ECB’s Kazaks: There may be a gradual increase in interest rates.
+- 11/05 03:50 [FirstSquawk] ECB’S KAZAKS SAYS THERE MAY BE A GRADUAL INCREASE IN INTEREST RATES, AND THAT RATES NEED TO RISE IF INFLATION RISKS SPREADING
+- 11/05 04:05 [FirstSquawk] THE U.S. TREASURY RECEIVED $39.636 BLN IN OFFERS FOR A DEBT BUYBACK AND ACCEPTED $6 BLN, TAKING 7 OF 40 ELIGIBLE ISSUES, WITH THE BUYBACK TARGETING COUPON SECURITIES MATURING FROM 2037 TO 2046
+- 11/05 04:10 [FirstSquawk] DEMOCRAT WILLIAM LAWRENCE WINS MICHIGAN HOUSE 7 RACE – AP PROJECTS
+- 11/05 04:21 [financialjuice] ECB's Moulin: Banks can deal with rising rates
+- 11/05 04:22 [financialjuice] ECB's Moulin: The solution to France's financial problems is in France and not in Frankfurt
+- 11/05 04:23 [financialjuice] ECB's Moulin: No longer risk of loop between banks, sovereigns
+- 11/05 04:23 [financialjuice] ECB's Moulin: Skeptical on the government plan to raise the regulated savings cap
+- 11/05 04:26 [FirstSquawk] ECB’S MOULIN SAYS THE SOLUTION TO FRANCE’S FINANCIAL PROBLEMS IS IN FRANCE AND NOT IN FRANKFURT, THAT BANKS CAN DEAL WITH RISING RATES, AND THAT THERE IS NO LONGER A RISK OF A LOOP BETWEEN BANKS AND SOVEREIGNS
+- 11/05 04:26 [FirstSquawk] ECB’S MOULIN SAYS SAYS HE IS SKEPTICAL ON THE GOVERNMENT PLAN TO RAISE THE REGULATED SAVINGS CAP
+- 11/05 04:31 [financialjuice] NYMEX WTI crude Dec. futures settle at $88.12 a barrel, down $7.97, 8.29%
+- 11/05 04:31 [financialjuice] NYMEX gasoline Dec. futures settle at $2.7286 a gallon
+- 11/05 04:31 [financialjuice] NYMEX diesel Dec. futures settle at $4.2055 a gallon
+- 11/05 04:31 [FirstSquawk] U.S. CRUDE OIL FUTURES SETTLE AT $88.12/BBL, DOWN $7.97, OR 8.29%
+- 11/05 04:32 [financialjuice] NYMEX Natural gas Dec. Futures settle at $2.9590/MMBTU
+- 11/05 04:44 [financialjuice] Brent crude futures settle at $94.62/bbl, down $8.98, 8.67%
+- 11/05 04:45 [financialjuice] Apple lowered daily AI cap for some engineers to $200 from $300; planning further cuts to employees' AI usage limits $AAPL
+- 11/05 04:46 [financialjuice] Apple cuts internal AI usage budgets in move to reduce spending $AAPL
+- 11/05 04:47 [FirstSquawk] BRENT CRUDE FUTURES PLUNGE 8.67% TO $94.62/BBL, DOWN $8.98
+- 11/05 04:51 [financialjuice] Brent crude futures settle at their lowest since August 31st
+- 11/05 04:52 [financialjuice] Trump diesel deal with Russia falters as US fuel supplies hit 20-year low - FT
+- 11/05 04:54 [financialjuice] Trump diesel deal with Russia falters as US fuel supplies hit 20-year low - FT (In case you missed it)
+- 11/05 05:02 [FirstSquawk] ISRAEL IS ON HIGH SECURITY ALERT AMID WORRIES OF A POSSIBLE IRANIAN STRIKE - I24 NEWS
+- 11/05 05:10 [financialjuice] Meta to determine the future of its investment in Piqua, Ohio - Semafor. $META
+- 11/05 05:16 [FirstSquawk] META TO DETERMINE FUTURE OF INVESTMENT IN PIQUA, OHIO DATA CENTRE - SEMAFOR
+- 11/05 05:23 [financialjuice] Thursday FX Options Expiries
+- 11/05 05:30 [financialjuice] Trump: Can work with Democrats on ‘financial ideas': CNBC
+- 11/05 05:31 [financialjuice] Trump: ‘Financial ideas' would be 'mutually good' - CNBC
+- 11/05 05:32 [financialjuice] Trump declined to comment about the credit card rate cap - CNBC.
+- 11/05 05:33 [financialjuice] Trump precludes the possibility of paring back his tariffs - CNBC
+- 11/05 05:33 [financialjuice] Trump: If I took tariffs off? We have 3,000 plants under construction right now. Every single plant would stop building, right?”- CNBC
+- 11/05 05:34 [FirstSquawk] HAKEEM JEFFRIES DECLARES CANDIDACY FOR SPEAKER OF HOUSE IN LETTER TO COLLEAGUES - AXIOS
+- 11/05 05:36 [FirstSquawk] TRUMP PRECLUDES THE POSSIBILITY OF PARING BACK HIS TARIFFS, SAYING “IF I TOOK TARIFFS OFF? WE HAVE 3,000 PLANTS UNDER CONSTRUCTION RIGHT NOW. EVERY SINGLE PLANT WOULD STOP BUILDING, RIGHT?” - CNBC
+- 11/05 05:36 [FirstSquawk] TRUMP SAYS HE CAN WORK WITH DEMOCRATS ON “FINANCIAL IDEAS” THAT WOULD BE “MUTUALLY GOOD,” BUT DECLINED TO COMMENT ON THE CREDIT CARD RATE CAP - CNBC
+- 11/05 05:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: -736.2 MLN NASDAQ 100: -1111.3 MLN DOW 30: -1531.6 MLN MAG 7: -1711.3 MLN $MACRO
+- 11/05 06:00 [financialjuice] $QCOM Qualcomm Q4 Earnings Adjusted EPS $2.17, est. $2.16 Adjusted revenue $10.44B, est. $10.12B FY capex $2.49B, est. $1.86B Sees Q1 adjusted EPS $2.15 to $2.35, est. $2.32 Sees Q1 revenue $10.4B to $11.2B, est. $10.55B
+- 11/05 06:04 [financialjuice] Microsoft raises $25b in 10-tranche bond offering. $MSFT
+- 11/05 06:05 [financialjuice] $ARM Arm Holdings Q2 Earnings EPS $0.12 Adjusted EPS $0.52, est. $0.47 Revenue $1.44B, est. $1.38B Adjusted net income $566M, est. $514.2M Adjusted operating income $638M, est. $575.7M Adjusted gross margin 97.9%, est. 98% Royalty revenue $…
+- 11/05 06:07 [financialjuice/FirstSquawk] North Korea test-fired a newly designed advanced air-defence missile system - KCNA
+- 11/05 06:10 [financialjuice] Goldman Sachs and Apollo in talks to sell SpaceX’s $40 billion AI deal $GS $SPCX
+- 11/05 06:11 [FirstSquawk] S&P 500 SURGES 1.61% TO 7,690.79, UP 121.87 POINTS
+- 11/05 06:11 [FirstSquawk] DOW JONES SURGES 3.03% TO 53,357.52, UP 1,570.80 POINTS
+- 11/05 06:13 [FirstSquawk] ASTRAZENECA MADE $10 BILLION OFFER FOR RHYTHM PHARMACEUTICALS – WSJ
+- 11/05 06:13 [FirstSquawk] NEW ZEALAND THREE-MONTH BUDGET DEFICIT NZ$2.82B; NZ$1.32B NARROWER THAN FORECAST
+- 11/05 06:14 [FirstSquawk] MICROSOFT RAISES $25B IN 10-TRANCHE BOND OFFERING.
+- 11/05 06:14 [FirstSquawk] NATIONAL AUSTRALIA BANK FY CASH PROFIT A$6.14 BLN, BELOW ESTIMATE OF A$6.59 BLN, WITH A CET1 RATIO OF 11.9%, IN LINE WITH ESTIMATE, AND A FINAL DIVIDEND OF A$0.85/SHARE
+- 11/05 06:16 [financialjuice] Stocks and Bonds Rally After US Election as Oil Prices Slide – US Market Wrap
+- 11/05 06:20 [FirstSquawk] METLIFE Q3 2026 ADJUSTED REVENUE $19.91 BLN, ROUGHLY IN LINE WITH ESTIMATE OF $19.88 BLN, WITH ADJUSTED EPS $2.78, IN LINE WITH ESTIMATE OF $2.77, AND BOOK VALUE/SHARE $30.73, BELOW ESTIMATE OF $39.64
+- 11/05 06:23 [FirstSquawk] SNAP Q3 REVENUE $1.72 BLN, ROUGHLY IN LINE WITH ESTIMATE OF $1.73 BLN, WITH ADJUSTED EBITDA $382.6 MLN, ABOVE ESTIMATE OF $338.1 MLN, BUT ADJUSTED EPS 3 CENTS, WELL BELOW ESTIMATE OF 16 CENTS
+- 11/05 06:23 [FirstSquawk] SNAP Q3 DAILY ACTIVE USERS 495 MLN, BELOW ESTIMATE OF 499.31 MLN, WITH THE COMPANY SEEING Q4 REVENUE $1.95 BLN TO $1.99 BLN, THE MIDPOINT AROUND ESTIMATE OF $1.96 BLN
+- 11/05 06:26 [FirstSquawk] MOTOROLA SOLUTIONS Q3 NET SALES $3.38 BLN, ABOVE ESTIMATE OF $3.27 BLN, WITH ADJUSTED EPS $4.69, ABOVE ESTIMATE OF $4.43, AND ADJUSTED OPERATING INCOME $1.10 BLN, ABOVE ESTIMATE OF $1.05 BLN
+- 11/05 06:36 [FirstSquawk] US STOCKS AND BONDS RALLIED AFTER DEMOCRATIC GAINS IN CONGRESS RAISED HOPES FOR POLITICAL GRIDLOCK AND A QUICKER END TO THE IRAN WAR. THE S&P 500 JUMPED 1.6%, THE DOW ROSE 3%, TREASURY YIELDS FELL SEVEN BASIS POINTS AND BRENT CRUDE SLUMPED …
+- 11/05 06:36 [FirstSquawk] FALLING OIL PRICES, STRONG EARNINGS AND REDUCED POLITICAL UNCERTAINTY BOOSTED RISK APPETITE, WITH INVESTORS EXPECTING THE AI INVESTMENT BOOM TO REMAIN INTACT. BITCOIN TOPPED $80,000, WHILE GOLD GAINED 3.4% TO $4,063 AN OUNCE.
+- 11/05 06:42 [FirstSquawk] TOP ARMED SERVICES HOUSE DEMOCRAT SEEKS PENTAGON PROBE OF MUSK - WSJ
