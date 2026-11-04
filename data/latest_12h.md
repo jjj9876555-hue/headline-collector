@@ -7,133 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-11-04 06:41 JST／対象: 11/03 18:41 〜 11/04 06:41 JST（時刻はすべて日本時間）
+生成: 2026-11-04 10:40 JST／対象: 11/03 22:40 〜 11/04 10:40 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 51 | 11/03 20:19 | 11/04 03:53 | ⚠ 81分（01:30→02:51） |
-| FirstSquawk | 96 | 11/03 18:51 | 11/04 06:21 | ⚠ 65分（03:05→04:10） |
-| financialjuice | 123 | 11/03 18:54 | 11/04 06:17 | ⚠ 68分（01:29→02:37） |
+| DeItaone | 42 | 11/03 22:42 | 11/04 10:30 | ⚠ 282分（03:53→08:36） |
+| FirstSquawk | 112 | 11/03 22:41 | 11/04 10:35 | ⚠ 65分（03:05→04:10） |
+| financialjuice | 121 | 11/03 22:42 | 11/04 10:25 | ⚠ 68分（01:29→02:37） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 260 行（統合前 271 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 269 行（統合前 276 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/03 18:51 [FirstSquawk] CINVEN TO BUY THERAMEX FROM CARLYLE, PAI IN €2.6B DEAL - FT
-- 11/03 18:52 [FirstSquawk] CHINA PROMISES TO FOCUS ON STOPPING ILLEGAL FINANCIAL ACTIVITIES, ACCORDING TO XINHUA.
-- 11/03 18:52 [FirstSquawk] CHINA PLANS TO INVESTIGATE AI APPLICATIONS FOR FINANCIAL OVERSIGHT, SAYS XINHUA.
-- 11/03 18:54 [FirstSquawk] CHINA HAS SHARED FIVE KEY FOCUS AREAS FOR ITS FINANCIAL POLICY, ACCORDING TO XINHUA.
-- 11/03 18:54 [financialjuice] China to continue implement moderately loose monetary policy - Xinhua
-- 11/03 18:55 [FirstSquawk] CHINA WILL CONTINUE TO MAINTAIN PLENTIFUL LIQUIDITY, REPORTS XINHUA.
-- 11/03 18:55 [FirstSquawk] CHINA WILL KEEP A MODERATELY LOOSE MONETARY POLICY.
-- 11/03 19:03 [financialjuice] UK 10 YR GILT YIELD ACTUAL 5.268% (FORECAST -, PREVIOUS 5.418%) $MACRO
-- 11/03 19:03 [financialjuice] UK 10 YR GILT BID-TO-COVER ACTUAL 3.38 (FORECAST -, PREVIOUS 3.61) $MACRO
-- 11/03 19:14 [financialjuice] Qatari mediation team that went to Tehran on monday night have returned to Doha, talks continue - Qatar's Foreign Ministry Spokesperson
-- 11/03 19:16 [FirstSquawk] QATAR'S MEDIATION TEAM THAT VISITED TEHRAN ON MONDAY NIGHT HAS RETURNED TO DOHA, AND TALKS ARE STILL ONGOING, SAYS QATAR'S FOREIGN MINISTRY SPOKESPERSON.
-- 11/03 19:16 [FirstSquawk] BOTH PARTIES ARE STILL WORKING TO CLOSE GAPS AND EVALUATING SUGGESTIONS FROM MEDIATORS, SAYS QATAR’S FOREIGN MINISTRY SPOKESPERSON.
-- 11/03 19:16 [FirstSquawk] QATAR'S FOREIGN MINISTRY SPOKESPERSON STATES A CONSENSUS IN THE REGION AND GULF TO PREVENT ESCALATION.
-- 11/03 19:17 [financialjuice] Iran claims 3 oil tankers caught fire in Hormuz Tuesday - IRIB
-- 11/03 19:18 [financialjuice] Both the US and Iran are committed to the mediation process - Qatar's Foreign Ministry Spokesperson.
-- 11/03 19:18 [financialjuice] The two sides are currently studying the proposal - Qatar's Foreign Ministry Spokesperson.
-- 11/03 19:21 [FirstSquawk] QATAR'S FOREIGN MINISTRY SPOKESPERSON ANNOUNCES PROGRESS IN TALKS WITH BOTH SIDES.
-- 11/03 19:21 [FirstSquawk] IRAN REPORTS THAT THREE OIL TANKERS CAUGHT FIRE IN THE HORMUZ STRAIT ON TUESDAY, ACCORDING TO IRIB.
-- 11/03 19:21 [FirstSquawk] BOTH THE US AND IRAN ARE DEDICATED TO THE MEDIATION EFFORTS, SAYS QATAR'S FOREIGN MINISTRY SPOKESPERSON.
-- 11/03 19:22 [FirstSquawk] BOTH PARTIES ARE EVALUATING THE PROPOSAL, ACCORDING TO QATAR'S FOREIGN MINISTRY SPOKESPERSON.
-- 11/03 19:23 [financialjuice] We remain hopeful that there is still chance for a deal to set environment for future negotiations - Qatar's Foreign Ministry Spokesperson.
-- 11/03 19:24 [FirstSquawk] QATAR'S FOREIGN MINISTRY SPOKESPERSON IS OPTIMISTIC ABOUT POSSIBLE FUTURE DEALS FOR NEGOTIATIONS.
-- 11/03 19:31 [financialjuice] GERMAN 5 YR BOBL BID-TO-COVER ACTUAL 1.4 (FORECAST -, PREVIOUS 1.1) $MACRO
-- 11/03 19:32 [financialjuice] GERMAN 5 YR BOBL YIELD ACTUAL 3.14% (FORECAST -, PREVIOUS 3.22%) $MACRO
-- 11/03 19:35 [financialjuice] ECB's Moulin: ECB must prevent inflation spreading beyond energy.
-- 11/03 19:40 [financialjuice] SNB's Chairman Schlegel: In September, inflation pressure slightly higher than June.
-- 11/03 19:41 [financialjuice] SNB's Chairman Schlegel: Swiss GDP should grow moderately after strong 2Q.
-- 11/03 19:42 [FirstSquawk] SCHLEGEL SAYS IN SEPT, INFLATION PRESSURE SLIGHTLY HIGHER THAN JUNE; SWISS GDP SHOULD GROW MODERATELY AFTER STRONG 2Q
-- 11/03 19:45 [FirstSquawk] LAVROV: TALK OF IRAN STRIKES AFTER US VOTE NOT CONFIRMED- TASS
-- 11/03 20:04 [FirstSquawk] DuPont Q3 2026 Earnings - Q3 Net Sales: $1.87B (est $1.84B) - Q3 Adj EPS: $2.09 (est $1.88) - Q3 Operating EBITDA: $469M (est $449.8M) - Raises FY26 Guidance - Sees Q4 Net Sales: About $1.83B (est $1.82B) - Sees Q4 Operating EBITDA: About $…
-- 11/03 20:08 [FirstSquawk] Archer-Daniels-Midland Q3 2026 Earnings - Rev: $22.34B (est $22.51B) - Adj EPS: $1.77 (est $1.60) - Sees FY Adj EPS: About $5.50 To $5.80 (est $5.53)
-- 11/03 20:19 [DeItaone] https://t.co/fUmgcVBmHv
-- 11/03 20:19 [DeItaone] *TUSK: GOT REPORTS OF POTENTIAL SABOTAGE NEAR KALININGRAD
-- 11/03 20:24 [DeItaone] IRAN REJECTS US APPROACH AS “UNACCEPTABLE” Iran's Foreign Ministry spokesperson criticized Washington's approach, saying Tehran will not accept being treated with a “top-down attitude.” The spokesperson emphasized sovereign equality and nat…
-- 11/03 20:33 [FirstSquawk] Apollo Global Q3 2026 Earnings - Fee-Related Earnings Margin: 58.4% (est 58.2%) - Fee-Generating AUM: $880B (est $881.67B) - Adjusted Net Income/Share (Ex Notable Items): $2.15 (est $2.19) - Total Revenue: $4.74B - Total AUM: $1.07T (est $1…
-- 11/03 20:34 [FirstSquawk] Eaton Q3 2026 Earnings - Adjusted EPS: $3.68 (est $3.55) - Net Sales: $8.95B (est $8.52B) - Aerospace Net Sales: $1.20B (est $1.23B) - Electrical Americas Net Sales: $4.17B (est $4.04B) - Electrical Global Net Sales: $2.7B (est $2.42B) - Se…
-- 11/03 20:34 [DeItaone] US MIDTERMS HISTORICALLY SIGNAL STRONG STOCK MARKET GAINS The S&P 500 has gained an average of approximately 7% during the fourth quarter of midterm election years, according to Deutsche Bank strategist Parag Thatte. Over the past 23 midter…
-- 11/03 20:44 [DeItaone] *CZ SAYS BINANCE NOW SEEING NET HOURLY INFLOWS AFTER INITIAL WITHDRAWALS
-- 11/03 20:47 [DeItaone] PFIZER ($PFE ) BEATS Q3 EARNINGS AND REVENUE EXPECTATIONS Pfizer reported stronger-than-expected Q3 results, beating Wall Street estimates on both revenue and adjusted earnings. Revenue: $16.58B vs. $15.87B expected. Adjusted EPS: $0.87 vs.…
-- 11/03 20:47 [financialjuice] $PFE Pfizer Q3 Earnings Adj. EPS $0.87, est. $0.73 Rev. $16.58B, est. $15.87B Sees FY Adj. EPS $2.95 to $3.05, saw $2.80 to $3.00, est. $2.96 Sees FY rev. $62B to $64B, saw $60.5B to $62.5B
-- 11/03 20:49 [DeItaone] *CZ WARNS AI-DRIVEN CYBER THREATS POSE RISKS TO GLOBAL FINANCIAL SYSTEM *CZ SAYS BANKS MAY BE MORE VULNERABLE TO CYBERATTACKS THAN CRYPTO EXCHANGES
-- 11/03 20:50 [FirstSquawk] Marathon Petroleum Q3 2026 Earnings - Adj EPS: $26.93 (est $26.01) - Adj EBITDA: $11.7B (est $10.93B) - Sees Q4 Direct Operating Cost/Barrel: $5.60 (est $5.72) - Sees Q4 Total Throughput: 3,080 M/D - Approved Incremental $5b Share Buyback P…
-- 11/03 20:52 [FirstSquawk] BioNTech Q3 2026 Earnings - Adjusted EPS: €1.76 - Revenue: €1.29B (est €1.02B) - Operating Income: €125.0M - Sees FY Revenue: €1.70B To €1.90B (previously €1.60B To €1.90B) - Still Sees FY SG&A Expense: €700M To €800M (est €761.1M) - Still …
-- 11/03 20:52 [financialjuice] Euro forecast to trade at $1.43 in three months, $1.14 in six and $1.16 in a year vs $1.15, $1.15 and $1.16 seen in October - Poll.
-- 11/03 20:52 [DeItaone] REUTERS POLL: DOLLAR STRENGTH EXPECTED AS EURO FORECASTS CUT Reuters FX strategists lowered their near-term euro forecasts, signaling expectations for a stronger US dollar. EUR/USD forecasts: 🔸 3 months: $1.13, down from $1.15 🔸 6 months: $…
-- 11/03 20:52 [financialjuice] US dollar more likely to trade stronger than expectations in three months - 17 of 30 FX strategists.
-- 11/03 21:05 [FirstSquawk] Keurig Dr Pepper Q3 2026 Earnings - Adj EPS: 66c (est 63c) - Net Sales: $7.34B (est $7.33B) - Adj Oper Income: $1.7B (est $1.57B) - Still Sees FY Net Sales: $25.9B To $26.4B (est $26.31B) - Reaffirms 2026 Guidance
-- 11/03 21:05 [FirstSquawk] Shopify Q3 2026 Earnings - Rev: $3.74B (est $3.75B) - Adj EPS: 49c (est 48c) - Oper Income: $568M (est $523.9M) - Gross Merchandise Volume: $119.15B (est $120.08B) - MRR: $230M (est $229.9M) - Sees Q4 Rev Growing In Low-30s % - Sees Q4 FCF …
-- 11/03 21:05 [FirstSquawk] Yum Brands Q3 2026 Earnings - Rev: $2.05B (est $2.06B) - Oper Profit: $2.32B (est $656.7M) - Adj EPS: $1.56 (est $1.51) - Restaurant Margin: 13.4% (est 14.5%) - Taco Bell Sales Sank More Than Expected After Parasite Outbreak
-- 11/03 21:15 [FirstSquawk] IRAN PRESIDENT SAYS LEADER ALLOWED TALKS ON NON-NEGOTIABLE ISSUES
-- 11/03 21:16 [financialjuice] Qatari mediators expect feedback from US and Iran within 36 hours on new proposal to advance talks - Official Briefed on The Talks
-- 11/03 21:17 [DeItaone] QATARI MEDIATORS EXPECT FEEDBACK FROM US AND IRAN WITHIN 36 HOURS ON NEW PROPOSAL TO ADVANCE TALKS - OFFICIAL BRIEFED ON THE TALKS TO REUTERS
-- 11/03 21:41 [FirstSquawk] HOUTHI MILITARY SAYS IT STRUCK SAUDI FORCES IN RAS AL-ARA AND AL-MUDARABA W/ BALLISTIC MISSILES
-- 11/03 21:44 [FirstSquawk] MPLX Q3 ADJUSTED EBITDA USD 1,859 MILLION VS. IBES ESTIMATE USD 1,849 MILLION; INCOME FROM OPERATIONS USD 1,476 MILLION; PRETAX PROFIT USD 1,176 MILLION; NET INCOME USD 1,164 MILLION; MPLX LP - INVESTING $2.90 BLN IN ORGANIC GROWTH CAPITAL,…
-- 11/03 21:44 [FirstSquawk] AMETEK OUTLOOK FY ADJUSTED EPS USD 8.53-8.57 VS. IBES ESTIMATE USD 8.37; NET INCOME USD 426.3 MILLION; SALES USD 2,220.306 MILLION VS. IBES ESTIMATE USD 2,125 MILLION; Q3 OPERATING INCOME USD 584.949 MILLION; Q3 PRETAX PROFIT USD 521.915 MI…
-- 11/03 21:45 [DeItaone] ANTHROPIC TO HAVE OVER 3.5GW COMPUTING POWER BY END 2026 - NYT
-- 11/03 21:47 [financialjuice] Anthropic aims to double computing power next year - NYT
-- 11/03 21:47 [DeItaone] MEETING BETWEEN EU, UKRAINE AND US REPRESENTATIVES IN BRUSSELS ON WEDNESDAY TO DISCUSS PROSPERITY PLAN AND SECURITY GUARANTEES, SOURCE SAYS
-- 11/03 21:47 [financialjuice] Wells Fargo CEO Scharf: No UK return to EU freedom of movement this parliament.
-- 11/03 21:48 [financialjuice] Meeting between EU, Ukraine and US representatives in Brussels on Wednesday to discuss prosperity plan and security guarantees - Sources.
-- 11/03 21:49 [FirstSquawk/financialjuice] NVIDIA ORDERS DATA CENTRE CLIENTS TO REDUCE CHINA EXPOSURE - FT
-- 11/03 21:55 [financialjuice] Iranian Ambassador to Egypt on potential proposals: Any message received through official channels will be carefully reviewed, and a response will be provided through the same channels - Tasnim News
-- 11/03 21:57 [financialjuice] Iranian Ambassador to Egypt on potential proposals: Iran does not negotiate under pressure or threats - Tasnim News
-- 11/03 22:00 [financialjuice] Secured Overnight Financing Rate 3.95% Nov. 2 vs 3.95% Oct. 30
-- 11/03 22:05 [FirstSquawk] Sysco Q1 2027 Earnings - Sales: $21.7B (est $22.02B) - Adj EPS: $1.19 (est $1.20) - US Foodservice Sales: $15.14B (est $15.4B) - US Foodservice Case Volume: 2.6% (est 2.43%) - Local Case Volume: 2.7% (est 2.55%)
-- 11/03 22:05 [financialjuice/FirstSquawk] US Energy Secretary Wright on Iran strikes overnight: Hasn't impacted oil flow
-- 11/03 22:07 [financialjuice] Saudi Arabia: Oil revenues decline 23% in Q3 2026
-- 11/03 22:08 [FirstSquawk] WRIGHT: REFERS TO QESHM ISLAND ATTACK
-- 11/03 22:11 [FirstSquawk] US ENERGY SECRETARY WRIGHT: GETTING MORE REFINED PRODUCTS OUT OF ARABIAN GULF, GOING TO GET MORE OUT OF INDIA
-- 11/03 22:12 [financialjuice] Meta benchmark debt offering in five parts $META
-- 11/03 22:14 [FirstSquawk/DeItaone] TRUMP: CALLS ISRAEL A 'HELPER', SAYS RELATIONSHIP TREMENDOUS
-- 11/03 22:14 [financialjuice] Trump: Israel is a helper, the relationship is tremendous - Fox News
-- 11/03 22:15 [DeItaone/financialjuice] TRUMP: WON'T BE PAYING MORE TO ISRAEL -FOX NEWS INTERVIEW
-- 11/03 22:16 [financialjuice] US Energy Secretary Wright ends remarks on Fox Business
-- 11/03 22:17 [financialjuice/FirstSquawk] Chief of Staff of the Iranian Armed Forces: Iran will counter any type and level of threat with an immediate, effective response which would not be limited geographically - Press TV
-- 11/03 22:18 [FirstSquawk] TRUMP SAYS MADE DEAL W/ ISRAEL MONTHS AGO WE'RE STOPPING $4B AID
-- 11/03 22:18 [financialjuice] Trump: Made a deal with Israel months ago, we're stopping $4b aid
-- 11/03 22:19 [DeItaone] *TRUMP: MADE DEAL W/ ISRAEL MONTHS AGO WE'RE STOPPING $4B AID
-- 11/03 22:19 [FirstSquawk] TRUMP,ASKED ON IRAN AFTER ELECTIONS: WE'LL SEE
-- 11/03 22:20 [financialjuice] UKMTO: A security incident occurred near the exit of the Strait of Hormuz
-- 11/03 22:20 [FirstSquawk] TRUMP SAYS ON IRAN FACILITY: WE HIT IT LAST NIGHT VERY NICELY
-- 11/03 22:20 [financialjuice] Trump on Iran facility: We hit it last night very nicely
-- 11/03 22:20 [financialjuice] UKMTO: Attack on a vessel in the waters of the Strait of Hormuz and the rescue of its crew by Oman.
-- 11/03 22:20 [financialjuice] Trump on Iran: Not looking to kill tons of people
-- 11/03 22:21 [DeItaone] TRUMP: CLOSE TO FERTILIZER DEAL FROM CANADA -FOX NEWS INTERVIEW
-- 11/03 22:21 [financialjuice] UKTMO on Vessel attack: The Indian crew was leaving the Strait of Hormuz when it was hit and attacked.
-- 11/03 22:22 [financialjuice/FirstSquawk/DeItaone] Trump adds if us has to kill people in Iran, it has to.
-- 11/03 22:22 [FirstSquawk] TRUMP: REFERS TO ANTI-AIRCRAFT FACILITY IRAN BUILT RECENTLY
-- 11/03 22:22 [FirstSquawk] TRUMP SAYS CANADA WILL GIVE US FERTILIZER WITH NO TARIFFS
-- 11/03 22:22 [financialjuice] Trump: We'll make a great deal with Canada soon
-- 11/03 22:22 [FirstSquawk] TRUMP SAYS WE'LL MAKE GREAT DEAL W/ CANADA SOON
-- 11/03 22:26 [DeItaone] *TRUMP, ASKED ON IRAN AFTER ELECTIONS: WE'LL SEE *TRUMP ON IRAN FACILITY: WE HIT IT LAST NIGHT VERY NICELY *TRUMP ON IRAN: NOT LOOKING TO KILL TONS OF PEOPLE *TRUMP REFERS TO ANTI-AIRCRAFT FACILITY IRAN BUILT RECENTLY
-- 11/03 22:26 [FirstSquawk] TRUMP SAYS ISRAEL AID GETS CUT OFF AT END OF YEAR
-- 11/03 22:27 [financialjuice] Trump: Israel aid gets cut off at the end of the year, they don't need it
-- 11/03 22:27 [DeItaone] TRUMP ON ISRAEL AID: GETS CUT OFF AT END OF YEAR -FOX NEWS TRUMP ON ISRAEL AID: THEY DON'T NEED IT TRUMP ON ISRAEL AID: IF THEY DID NEED IT, I WOULD SAY KEEP IT GOING TRUMP ON ISRAEL AID: REACHED AGREEMENT WITH NETANYAHU -FOX NEWS INTERVIEW
-- 11/03 22:27 [financialjuice] ❗ Al Jazeera: Washington has approved the draft memorandum of understanding.
-- 11/03 22:28 [FirstSquawk] US APPROVED DRAFT MOU PRESENTED BY QATARI DELEGATION FOR IRAN YESTERDAY
-- 11/03 22:29 [FirstSquawk] SOURCES CLOSE TO MEDIATION TEAM: MEDIATORS BRIEFED SAUDI ARABIA & UAE ON MOU; THEY APPROVED
-- 11/03 22:30 [FirstSquawk] SOURCES CLOSE TO MEDIATION TEAM: WASHINGTON, TEHRAN MADE CONCESSIONS ON NUCLEAR FILE, FROZEN ASSETS
-- 11/03 22:30 [DeItaone] TRUMP ON ISRAEL AID: WILL HAVE OPTION TO BUY WEAPONS, WHATEVER THEY WANT
-- 11/03 22:31 [financialjuice] ❗ Washington and Tehran have made concessions - Al Arabi Citing Sources
-- 11/03 22:32 [financialjuice] ‼ BREAKING: Washington and Tehran have made concessions regarding the Iranian nuclear program and frozen funds", Al Araby Al Jadeed reports, citing Sources
-- 11/03 22:33 [DeItaone] SPOT GOLD REVERSES COURSE, UP 0.4% TO $3,964/OZ
-- 11/03 22:33 [financialjuice] Trump on ammo shortage: The US was low on certain things
-- 11/03 22:35 [DeItaone] BRENT, U.S. WTI CRUDE FUTURES TURN NEGATIVE FALL NEARLY 3% AFTER US PRESIDENT TRUMP SAYS US WILL STOP PAYING ISRAEL AFTER YEAR-END
-- 11/03 22:36 [DeItaone] TRUMP SAYS US SHOULD PAY LOWEST INTEREST RATES IN WORLD
-- 11/03 22:37 [DeItaone] TRUMP SAYS REPUBLICAN MIDTERM RESULTS MAY BE BETTER THAN EXPECTED
-- 11/03 22:38 [financialjuice] Trump ends remarks on Fox News
-- 11/03 22:39 [DeItaone] ZELENSKIY CONFIRMS UKRAINE, RUSSIA, US MEETING IN ABU DHABI ON NOV 10-11
-- 11/03 22:40 [financialjuice] Ukraine’s President Zelenskiy confirms Ukraine, Russia, and the US meeting in Abu Dhabi on November 10th-11th.
 - 11/03 22:41 [FirstSquawk] SOURCES CLOSE TO THE NEGOTIATING TEAM: TEHRAN WILL ANNOUNCE A CONCESSION REGARDING ITS NUCLEAR PROGRAM IN EXCHANGE FOR WASHINGTON ANNOUNCING THE RELEASE OF PART OF TEHRAN'S FROZEN FUNDS.
 - 11/03 22:42 [DeItaone] https://t.co/pNMZtLXWrW
 - 11/03 22:42 [financialjuice] The discussion now revolves around the first step and how to announce reaching an interim agreement, followed by the return of both parties to negotiations - Al Araby citing sources close to the mediation team
@@ -284,3 +174,122 @@
 - 11/04 06:17 [financialjuice] $AMD Q3 Earnings Revenue $13.38B, est. $13.08B Adjusted EPS $2.09, est. $1.97 Adjusted Operating Income $3.92B, est. $3.68B Adjusted Operating Margin 29%, est. 28% R&D Expenses $2.80B, est. $2.72B Capex $648M, est. $647M Sees Q4 Revenue of …
 - 11/04 06:20 [FirstSquawk] AMD Q3 ADJUSTED OPERATING MARGIN 29%, ABOVE ESTIMATE OF 28%, WITH R&D EXPENSES $2.80 BLN AND CAPEX $648 MLN
 - 11/04 06:21 [FirstSquawk] AMD Q3 2026 REVENUE $13.38 BLN, ABOVE ESTIMATE OF $13.08 BLN, WITH ADJUSTED EPS $2.09, ABOVE ESTIMATE OF $1.97, AND ADJUSTED OPERATING INCOME $3.92 BLN, ABOVE ESTIMATE OF $3.68 BLN
+- 11/04 06:45 [financialjuice] ❗ NEW ZEALAND UNEMPLOYMENT RATE ACTUAL 5.7% (FORECAST 5.5%, PREVIOUS 5.6%) $MACRO
+- 11/04 06:45 [financialjuice] NEW ZEALAND JOB GROWTH QOQ ACTUAL -0.1% (FORECAST 0.4%, PREVIOUS 0.5%) $MACRO
+- 11/04 06:45 [financialjuice] NEW ZEALAND PARTICIPATION RATE ACTUAL 70.4% (FORECAST 70.7%, PREVIOUS 70.7%) $MACRO
+- 11/04 06:54 [financialjuice] US API CRUDE STOCK CHANGE ACTUAL -5.267M (FORECAST 2.1M, PREVIOUS -2.031M) $MACRO
+- 11/04 06:55 [financialjuice] US API GASOLINE STOCK CHANGE ACTUAL 1.427M (FORECAST -, PREVIOUS 2.39M) $MACRO
+- 11/04 06:55 [financialjuice] US API DISTILLATE STOCK CHANGE ACTUAL -1.192M (FORECAST -, PREVIOUS 0.38M) $MACRO
+- 11/04 06:56 [financialjuice] US API CUSHING STOCK CHANGE ACTUAL 0.511M (FORECAST -, PREVIOUS -0.453M) $MACRO
+- 11/04 07:00 [financialjuice] AUSTRALIAN SERVICES PMI FINAL ACTUAL 48.5 (FORECAST -, PREVIOUS 47.8) $MACRO
+- 11/04 07:00 [financialjuice] AUSTRALIAN COMPOSITE PMI FINAL ACTUAL 48.2 (FORECAST -, PREVIOUS 47.7) $MACRO
+- 11/04 07:00 [financialjuice] AIG MANUFACTURING INDEX ACTUAL -20.1 (FORECAST -, PREVIOUS -16.6) $MACRO
+- 11/04 07:00 [financialjuice] AIG CONSTRUCTION INDEX ACTUAL -26.9 (FORECAST -, PREVIOUS -6.9) $MACRO
+- 11/04 07:04 [financialjuice] Canada Prime Minister Carney: talks with US to become more intensive
+- 11/04 07:04 [financialjuice] Canada's PM Carney: progress made but US trade talks not yet complete
+- 11/04 07:04 [financialjuice] Canada’s PM Carney: some red lines remain to be addressed
+- 11/04 07:06 [financialjuice] Canada's PM Carney: some of our limits in US trade talks have been eliminated
+- 11/04 07:06 [financialjuice] Canada's PM Carney: US requests fewer concessions and proposes more, but deal not reached yet
+- 11/04 07:07 [financialjuice] Canada’s PM Carney: trade negotiators don’t always need talks with USTR, communication lines remain open
+- 11/04 07:09 [FirstSquawk] CANADA PM CARNEY SAYS U.S. TRADE TALKS ARE MAKING PROGRESS AND DISCUSSIONS WILL INTENSIFY, THOUGH THEY ARE NOT YET CONCLUDED AND SOME RED LINES STILL NEED TO BE ADDRESSED, WHILE SOME OF CANADA’S RED LINES HAVE BEEN REMOVED
+- 11/04 07:11 [financialjuice] Carney says he looks forward to meeting Trump at APEC summit in China
+- 11/04 07:14 [FirstSquawk] BMW REVISES ITS 2026 ROCE GUIDANCE FOR THE AUTOMOTIVE SEGMENT TO -1% TO +1% AND ITS 2026 EBIT MARGIN GUIDANCE FOR THE SEGMENT TO -0.5% TO +0.5%, WITH THE ADJUSTMENT RESULTING FROM AN EXPANSION OF ITS PORTFOLIO AND STRUCTURAL MEASURES
+- 11/04 07:14 [FirstSquawk] BMW EXPECTS A MODERATE DECREASE IN AUTOMOTIVE SEGMENT DELIVERIES AND A SLIGHT DECREASE IN MOTORCYCLE SEGMENT DELIVERIES IN 2026, BUT A SLIGHT INCREASE IN THE SHARE OF ALL-ELECTRIC CAR DELIVERIES, AND MAINTAINS ITS EXPECTATION OF AUTOMOTIVE …
+- 11/04 07:17 [FirstSquawk] U.S. API CRUDE STOCKS FELL 5.267 MLN BARRELS VERSUS A FORECAST BUILD OF 2.1 MLN AND A PRIOR 2.031 MLN DRAW, WITH CUSHING STOCKS UP 0.511 MLN
+- 11/04 07:17 [FirstSquawk] U.S. API GASOLINE STOCKS ROSE 1.427 MLN BARRELS WHILE DISTILLATE STOCKS FELL 1.192 MLN
+- 11/04 07:18 [FirstSquawk] AUSTRALIA’S FINAL COMPOSITE PMI CAME IN AT 48.2 AND THE SERVICES PMI AT 48.5, BOTH IN CONTRACTION
+- 11/04 07:18 [FirstSquawk] THE AIG MANUFACTURING INDEX FELL TO -20.1 FROM -16.6 AND THE CONSTRUCTION INDEX DROPPED TO -26.9 FROM -6.9
+- 11/04 07:18 [FirstSquawk] CANADA’S PM CARNEY SAYS HE LOOKS FORWARD TO MEETING TRUMP AT THE APEC SUMMIT IN CHINA, AND THAT THE U.S. IS NOW REQUESTING FEWER CONCESSIONS AND PROPOSING MORE, THOUGH A DEAL HAS NOT BEEN REACHED YET
+- 11/04 07:21 [FirstSquawk] AMD CEO SAYS SHE EXPECTS DATA CENTRE REVENUE GROWTH TO ACCELERATE IN Q4 AND FY DATA CENTRE REVENUE TO MORE THAN DOUBLE FROM 2025, WITH SERVER REVENUE EXPECTED TO DOUBLE YOY IN 2027
+- 11/04 07:21 [FirstSquawk] AMD CEO SAYS DATA CENTRE IS EXPECTED TO EXCEED 80% OF TOTAL REVENUE IN 2027, DRIVING MOST REVENUE AND EARNINGS GROWTH, AND THAT AMD BEGAN REVENUE SHIPMENTS OF EPYC VENICE PROCESSORS IN Q3, WITH FIRST OEM SYSTEMS ON TRACK FOR Q4 AVAILABILITY
+- 11/04 07:26 [FirstSquawk] CROWDSTRIKE HAS LAUNCHED AN AI KILL SWITCH THAT IT SAYS CAN STOP INTERNAL AGENTS THAT GO ROGUE
+- 11/04 07:27 [financialjuice] Meta Platforms prices $15 billion senior notes in five segments - SEC filing
+- 11/04 07:30 [FirstSquawk] AMD CEO SAYS IT IS PLANNING FOR PC MARKET UNIT SHIPMENTS TO DECLINE DOUBLE-DIGITS IN 2027, WHILE EXPECTING STRONG DOUBLE-DIGIT GROWTH IN ITS EMBEDDED BUSINESS, WITH THE CFO SEEING Q4 NON-GAAP OPERATING EXPENSES OF ABOUT $3.75 BLN
+- 11/04 07:31 [FirstSquawk] NVIDIA HAS ORDERED DATA CENTER PARTNERS TO CUT BACK ON CHINESE CUSTOMERS, WITH CLOUD PROVIDERS NOW REQUIRED TO SELL AT LEAST 51% OF SERVICES TO NON-CHINESE COMPANIES UNDER A NEW NVIDIA RULE, TIGHTENING CHINESE AI FIRMS’ ACCESS TO ADVANCED C…
+- 11/04 08:00 [financialjuice] S&P 500 futures rise 0.2%, Nasdaq futures gain 0.4% as AMD jumps 8% after hours
+- 11/04 08:16 [FirstSquawk] US STOCK FUTURES RISE: S&P 500 +0.2%, NASDAQ +0.4%; AMD JUMPS 8% AFTER HOURS
+- 11/04 08:18 [FirstSquawk] UKRAINE PLANS TO SPEND UP TO EUR 1 BLN OF ITS EU LOAN TOWARD EXPANDING COOPERATION BETWEEN UKRAINIAN AND EUROPEAN WEAPONS MANUFACTURERS, PRIORITIZING AIR AND MISSILE DEFENSES
+- 11/04 08:18 [FirstSquawk] TRUMP HAS DECLARED NOVEMBER 1-7, 2026, ANTI-COMMUNISM WEEK
+- 11/04 08:19 [FirstSquawk] CURRENT CVS CHIEF EXECUTIVE DAVID JOYNER WILL RUN THE COMPANY THAT RETAINS THE CVS HEALTH NAME, WITH THE TWO RESULTING COMPANIES FROM A CVS BREAKUP BOTH TO BE PUBLICLY TRADED - WSJ
+- 11/04 08:19 [FirstSquawk] HSBC HAS ISSUED $1.75 BLN OF 5.819% FIXED/FLOATING RATE SENIOR UNSECURED NOTES DUE 2032 AND $2.50 BLN OF 6.262% FIXED/FLOATING RATE SENIOR UNSECURED NOTES DUE 2037
+- 11/04 08:36 [financialjuice] US has no immediate plan to attack Iran, Trump tells FT
+- 11/04 08:36 [DeItaone] US HAS NO IMMEDIATE PLAN TO STRIKE IRAN, TRUMP TELLS FT - FT
+- 11/04 08:37 [financialjuice] Trump on Iran: 'we appear to be achieving all our objectives' - FT
+- 11/04 08:38 [DeItaone] TRUMP ON IRAN: “WE SEEM TO BE GETTING EVERYTHING WE WANT” - FT
+- 11/04 08:38 [DeItaone] TRUMP SAYS POSITION WITH TEHRAN IS ‘BRILLIANT’ - FT
+- 11/04 08:48 [financialjuice] Saudi civil defense issues early warning alert in Riyadh
+- 11/04 08:50 [financialjuice] JAPANESE MONETARY BASE YOY ACTUAL -13.6% (FORECAST -, PREVIOUS -15.2%) $MACRO
+- 11/04 08:56 [FirstSquawk] TRUMP TELLS THE FT THE U.S. HAS NO IMMEDIATE PLAN TO ATTACK IRAN, CALLING THE POSITION WITH TEHRAN “BRILLIANT” AND SAYING “WE APPEAR TO BE ACHIEVING ALL OUR OBJECTIVES”
+- 11/04 08:57 [DeItaone] TRUMP PREPARED TO VETO DEMOCRATIC LEGISLATION IF NECESSARY: CBS
+- 11/04 08:58 [FirstSquawk] TRUMP SAYS HE IS PREPARED TO VETO DEMOCRATIC LEGISLATION IF NECESSARY - CBS INTERVIEW BEFORE POLLS CLOSED
+- 11/04 08:58 [financialjuice] Saudi civil defense: danger has passed in Riyadh
+- 11/04 09:00 [financialjuice] Consumer group alleges Tesla misled South Korean customers by selling driver software most vehicles cannot legally use
+- 11/04 09:01 [FirstSquawk] TRUMP TELLS CBS NEWS “WILL WE WIN? WE HAVE A GOOD CHANCE,” ADDING “BUT WE’RE NOT GOING TO BE EMBARRASSED”
+- 11/04 09:02 [FirstSquawk] TRUMP EXPRESSED OPTIMISM ABOUT RUSSIA-UKRAINE PEACE TALKS, SAYING BOTH SIDES APPEARED READY TO REACH AN AGREEMENT, TELLING THE FINANCIAL TIMES “I THINK THEY’RE BOTH AT THE POINT OF SAYING, ‘LET’S MAKE A DEAL,’” THOUGH UKRAINIAN NEGOTIATORS …
+- 11/04 09:03 [FirstSquawk] TRUMP SAYS THE FOX NEWS POLL, “ALWAYS THE WORST,” IS SO INSULTING WITH THE QUESTIONS IT ASKS, CLAIMING EVERY QUESTION IS A HIT JOB AND EVERY ANSWER IS “BULLSHIT,” AND THAT THIS HAS BEEN GOING ON FOR YEARS - TRUTH SOCIAL
+- 11/04 09:04 [DeItaone] US MIDTERMS: POLLS CLOSE IN KEY STATES 7:00 PM ET: Polls close across Georgia, Virginia, South Carolina and Vermont, along with remaining locations in Indiana and Kentucky. Most polls also close in Florida and New Hampshire.
+- 11/04 09:08 [FirstSquawk] DECISION DESK HAS RETRACTED ITS PROJECTION OF A DEMOCRATIC FLIP IN GEORGIA’S 14TH HOUSE DISTRICT, WHILE PROJECTING DEMOCRAT WARNER WINS THE VIRGINIA U.S. SENATE SEAT, WITH SENATE SEATS CALLED SO FAR AT DEMOCRATS 32, REPUBLICANS 31 AND INDEP…
+- 11/04 09:09 [FirstSquawk] THE KOSPI ROSE 137.34 POINTS, OR 2.43 PERCENT, TO 5,786.13 AT THE OPENING BELL, TRACKING OVERNIGHT WALL STREET GAINS AS THE NASDAQ ROSE 0.83% ON STRONG CHIP SHARES, THE S&P 500 CLIMBED 0.36% AND THE PHLX CHIP INDEX GAINED 2.63%
+- 11/04 09:10 [FirstSquawk] AUSSIE SLIPS BELOW 0.7000 AS RBA HIKE FAILS TO OFFSET US ELECTION WOES
+- 11/04 09:12 [FirstSquawk] TRUMP SAYS FOX NEWS RATINGS ARE “WAY DOWN (27%!)” BECAUSE IT IS SPENDING TOO MUCH TIME COVERING THE “TRUMP DERANGED DEMOCRATS,” CLAIMING HIS OWN NUMBERS ARE BETTER THAN EVER AND CITING A NEW CNN POLL PUTTING HIM AT 99% AMONG REPUBLICANS AND…
+- 11/04 09:12 [FirstSquawk] TRUMP ASKS WHY FOX CORP IS SPENDING SO MUCH MONEY DONATING TO “THE WORST OF THE WORST,” NAMING HAKEEM JEFFRIES, JAMIE RASKIN, TED LIEU, PETE AGUILAR AND VARIOUS DEMOCRATIC PARTY AND CAUCUS COMMITTEES, AND SAYS FOX RATINGS ARE COLLAPSING “NO…
+- 11/04 09:17 [FirstSquawk] CSTONE AND KIMIA THERAPEUTICS HAVE ENTERED A CLINICAL DEVELOPMENT COLLABORATION TO ADVANCE A NOVEL DRUG CANDIDATE TARGETING REPAIR PATHWAYS CRITICAL FOR SOLID TUMOR SURVIVAL
+- 11/04 09:19 [FirstSquawk] US STOCK FUTURES TURN LOWER: S&P 500 E-MINIS -0.05%, NASDAQ E-MINIS -0.13%
+- 11/04 09:20 [FirstSquawk] US equity futures retreat from earlier gains, with S&P 500 E-minis down 0.05% and Nasdaq E-minis lower by 0.13%.
+- 11/04 09:20 [FirstSquawk/DeItaone] DEMOCRAT OSSOFF WINS GEORGIA SENATE RACE, DDHQ PROJECTS
+- 11/04 09:20 [FirstSquawk] European stock futures weaken, with both Euro Stoxx 50 and DAX futures losing 0.5%.
+- 11/04 09:21 [FirstSquawk] EUROPEAN STOCK FUTURES FALL: EURO STOXX 50 -0.5%, DAX -0.5%
+- 11/04 09:21 [financialjuice] Democratic US Senator Jon Ossoff secures reelection in Georgia, Decision Desk HQ
+- 11/04 09:22 [FirstSquawk] ANZ HAS RAISED ITS HONG KONG 2026 GDP GROWTH FORECAST TO 5.1% FROM 3.8%, PUTTING HONG KONG ON TRACK FOR ITS STRONGEST GDP GROWTH SINCE 2010
+- 11/04 09:22 [financialjuice] China PBOC likely to set yuan midpoint at 6.6811 per dollar: Estimate
+- 11/04 09:26 [DeItaone] U.S. 10-YEAR TREASURY YIELD DIPS 5BPS TO 4.9167%, 30-YEAR YIELD EASES TO 5.2964%
+- 11/04 09:27 [FirstSquawk] THE KOSPI LEADS EARLY GAINS ACROSS ASIA-PACIFIC MARKETS AS TECHNOLOGY STOCKS RECOVER ON WALL STREET, WITH PARTICIPANTS AWAITING THE OUTCOME OF THE US MIDTERM ELECTIONS.
+- 11/04 09:28 [FirstSquawk] US bond yields edge lower, with the 10-year Treasury yield at 4.9167% and the 30-year yield at 5.2964%.
+- 11/04 09:28 [FirstSquawk] VENEZUELA’S OIL-SECTOR REVIVAL IS DRIVING A SURGE IN BUSINESS ACTIVITY IN EL TIGRE, A GATEWAY TO THE ORINOCO BELT, AS WEATHERFORD, GEOPARK AND ALVORADA OIL & GAS EXPAND OPERATIONS AFTER OIL-LAW CHANGES EASED TAXES AND ROYALTIES, THOUGH MUCH…
+- 11/04 09:29 [FirstSquawk] VENEZUELA’S OIL OUTPUT REMAINS AROUND 1.2 MLN BPD, FAR BELOW ITS PEAK OF ABOUT 3 MLN, WITH ACTING PRESIDENT DELCY RODRIGUEZ EXPECTING NEARLY $76 BLN IN OIL AND GAS INVESTMENT OVER FIVE YEARS, THOUGH EXECUTIVES SAY MEANINGFUL PRODUCTION GAIN…
+- 11/04 09:29 [FirstSquawk] Euro gains 0.26%, trading at $1.12215 against the US dollar.
+- 11/04 09:30 [FirstSquawk] Japanese yen strengthens 0.21% against the dollar, with USD/JPY at 158.35.
+- 11/04 09:35 [FirstSquawk] Georgia's Democratic Senator Jon Ossoff is re-elected, NBC News reports.
+- 11/04 09:37 [FirstSquawk] Wall Street futures deepen declines as Nasdaq E-minis slide 0.9% and S&P 500 E-minis lose 0.5%.
+- 11/04 09:39 [FirstSquawk] JAPAN'S BENCHMARK NIKKEI INDEX DROPS FURTHER, EXTENDING LOSSES TO 1.5%.
+- 11/04 09:40 [financialjuice] Hong Kong S&P Global October PMI at 50.2 vs 49.2 in September
+- 11/04 09:40 [financialjuice] Australia September household spending rises 0.6% month on month seasonally adjusted
+- 11/04 09:40 [financialjuice] Australia September household spending volumes rise 0.7% quarter on quarter seasonally adjusted
+- 11/04 09:40 [financialjuice] Democratic US Senator Jon Ossoff secures reelection in Georgia - NBC News
+- 11/04 09:40 [FirstSquawk] Georgia's Democratic Senator Jon Ossoff wins re-election to the US Senate, NBC News reports.
+- 11/04 09:48 [FirstSquawk] Shares of Mitsui Chemicals slide further, extending losses to 8.19%.
+- 11/04 09:53 [financialjuice] North Korea launches unidentified projectile toward sea off east coast: South Korea defence ministry
+- 11/04 09:54 [FirstSquawk] North Korea launches an unidentified projectile toward the sea off its east coast, according to South Korea's Defence Ministry.
+- 11/04 09:55 [FirstSquawk] Euro Stoxx 50 futures drop 0.9%, while DAX futures decline 0.86%, extending earlier losses.
+- 11/04 09:58 [DeItaone] DEMOCRATS ON TRACK TO SWEEP BOTH THE HOUSE AND SENATE: MIDTERMS
+- 11/04 09:59 [FirstSquawk] Kathy Castor wins the Florida 14th Congressional District race, according to Decision Desk HQ.
+- 11/04 10:01 [FirstSquawk] Taiwan overnight interbank rate remains unchanged at 0.805% compared with the previous session's opening.
+- 11/04 10:01 [financialjuice] Taiwan overnight interbank rate starts at 0.805% (unchanged from prior session)
+- 11/04 10:02 [financialjuice] Ireland S&P Global October services PMI rises to 54.3 from 54.1 in September
+- 11/04 10:02 [financialjuice] Democrat Chris Pappas beats Republican John Sununu in race for democratic-held US Senate seat in New Hampshire: Decision Desk HQ
+- 11/04 10:02 [FirstSquawk] Chris Pappas wins New Hampshire's Senate race, defeating Republican John Sununu, according to Decision Desk HQ.
+- 11/04 10:05 [FirstSquawk] Brent oil prices rise $1.02, trading at $104.62/bbl.
+- 11/04 10:05 [DeItaone] DEMOCRAT CHRIS PAPPAS DEFEATS REPUBLICAN JOHN SUNUNU IN RACE FOR DEMOCRATIC-HELD US SENATE SEAT IN NEW HAMPSHIRE - DECISION DESK HQ
+- 11/04 10:07 [FirstSquawk] Nikkei average extends losses, declining 2%.
+- 11/04 10:09 [FirstSquawk] Pennsylvania Governor Josh Shapiro wins re-election, defeating Republican challenger Stacy Garrity, CNN reports.
+- 11/04 10:13 [DeItaone] DEMOCRAT CHRIS PAPPAS DEFEATS REPUBLICAN JOHN SUNUNU IN RACE FOR DEMOCRATIC-HELD US SENATE SEAT IN NEW HAMPSHIRE -FOX NEWS
+- 11/04 10:13 [FirstSquawk] PBOC steps up measures to support stock buybacks and increased holdings through re-lending policies.
+- 11/04 10:13 [FirstSquawk] China's central bank reports re-lending applications surpassing 200 billion yuan.
+- 11/04 10:13 [financialjuice] China : requests for relending exceed 200 billion yuan
+- 11/04 10:13 [financialjuice] Democrat Chris Pappas defeats Republican John Sununu in contest for democratic-held US Senate seat in New Hampshire - Fox News
+- 11/04 10:13 [FirstSquawk] Chris Pappas defeats John Sununu to retain the Democratic-held Senate seat in New Hampshire, Fox News reports.
+- 11/04 10:13 [DeItaone/financialjuice] *REPUBLICAN MOODY WINS FLORIDA SENATE RACE, DDHQ PROJECTS
+- 11/04 10:13 [DeItaone] *DEMOCRAT BOOKER WINS NEW JERSEY SENATE RACE, DDHQ PROJECTS
+- 11/04 10:17 [FirstSquawk] CHINA'S PBOC SETS DAILY YUAN FIXING AT 6.7180 AGAINST THE DOLLAR
+- 11/04 10:18 [financialjuice] China sets yuan midpoint at weakest level since Oct. 23, PBOC says
+- 11/04 10:19 [FirstSquawk] PBOC SETS YUAN CENTRAL PARITY RATE AT THE WEAKEST LEVEL SINCE OCTOBER 23
+- 11/04 10:21 [DeItaone] *DDHQ PROJECTS JOSH SHAPIRO WINS THE PA GOVERNOR GENERAL ELECTION
+- 11/04 10:22 [financialjuice] China cbank injects 257.5 billion yuan via overnight reverse repos at 1.25%: statement
+- 11/04 10:22 [FirstSquawk] CHRIS PAPPAS WINS NEW HAMPSHIRE SENATE RACE, BEATING REPUBLICAN CHALLENGER JOHN SUNUNU, ACCORDING TO NBC.
+- 11/04 10:23 [FirstSquawk] US 2-YEAR BOND YIELD DECLINES 6 BPS TO 4.573% AS FED FUNDS FUTURES POST MODEST GAINS.
+- 11/04 10:24 [DeItaone/financialjuice] DEMOCRAT ROY COOPER DEFEATS REPUBLICAN MICHAEL WHATLEY IN RACE FOR REPUBLICAN-HELD US SENATE SEAT IN NORTH CAROLINA - DECISION DESK HQ
+- 11/04 10:24 [FirstSquawk] ROY COOPER WINS NORTH CAROLINA SENATE RACE, DEFEATING REPUBLICAN CHALLENGER MICHAEL WHATLEY, ACCORDING TO DECISION DESK HQ.
+- 11/04 10:24 [financialjuice] Democrat Roy Cooper beats Republican Michael Whatley in race for GOP-held US Senate seat in North Carolina - NBC
+- 11/04 10:25 [financialjuice] Democrat Roy Cooper defeats Michael Whatley in race for republican-held US Senate seat in North Carolina, ABC News projects
+- 11/04 10:30 [DeItaone] *REPUBLICAN DONALDS WINS FLORIDA GOVERNOR RACE, DDHQ PROJECTS
+- 11/04 10:35 [FirstSquawk] ASIAN CURRENCIES MOVE IN DIFFERENT DIRECTIONS AS INVESTORS WATCH US MIDTERM ELECTIONS - WSJ
