@@ -7,152 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-11-06 11:46 JST／対象: 11/05 11:46 〜 11/06 11:46 JST（時刻はすべて日本時間）
+生成: 2026-11-06 18:57 JST／対象: 11/05 18:57 〜 11/06 18:57 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 74 | 11/05 21:33 | 11/06 10:01 | ⚠ 89分（04:42→06:12） |
-| FirstSquawk | 284 | 11/05 11:52 | 11/06 11:45 | ⚠ 69分（01:37→02:46） |
-| financialjuice | 316 | 11/05 11:54 | 11/06 11:45 | ⚠ 59分（10:41→11:40） |
+| FirstSquawk | 287 | 11/05 19:01 | 11/06 18:47 | ⚠ 69分（01:37→02:46） |
+| financialjuice | 304 | 11/05 19:00 | 11/06 18:42 | ⚠ 59分（10:41→11:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 640 行（統合前 678 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 631 行（統合前 669 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/05 11:52 [FirstSquawk] Oil-Related and Data Centre Stocks Come Under Pressure After US Midterm Results - RTRS
-- 11/05 11:54 [financialjuice] Euro rises 0.25% to $1.1257
-- 11/05 11:54 [FirstSquawk] Euro Rises 0.25% Against the US Dollar to $1.1257
-- 11/05 11:56 [FirstSquawk] Malaysian Stocks Rally 1.3%, Pushing Benchmark Index to Its Highest Level Since October 6
-- 11/05 11:59 [FirstSquawk] Hong Kong Judge Praises Wong’s Evidence of Remorse and Rehabilitation
-- 11/05 12:01 [FirstSquawk] China Coke Futures Rally, With the Most-Active Contract Up Over 3%
-- 11/05 12:03 [FirstSquawk] China Moves to Stop SoftBank’s Takeover of ABB’s Robotics Unit, According to FT
-- 11/05 12:08 [FirstSquawk] HSBC Vietnam’s 'BB+' Rating Affirmed by Fitch; Outlook Remains Stable
-- 11/05 12:11 [FirstSquawk] ANZ Vietnam’s 'BB+' Rating Affirmed by Fitch; Outlook Remains Stable
-- 11/05 12:18 [FirstSquawk] Shanghai Nickel Futures Rally More Than 5%, With the Benchmark Contract Reaching 122,300 Yuan per Ton
-- 11/05 12:18 [financialjuice] New Zealand dollar rises 0.60% to $0.5656
-- 11/05 12:19 [FirstSquawk] New Zealand Dollar Advances 0.60%, Trading at $0.5656
-- 11/05 12:33 [FirstSquawk] Data Centre Opposition Emerges as a Political Force Following Trump’s Midterm Setback - KYODO
-- 11/05 12:34 [FirstSquawk] Chinese Equities Continue Recovery Amid State Support and US Midterm Developments - SCMP
-- 11/05 12:35 [FirstSquawk] Thailand’s Central Bank Chief Says Economic Expansion of 2% Falls Short of Sustainable Growth Levels
-- 11/05 12:40 [FirstSquawk] Thailand’s Economic Growth May Ease in Early 2027, Central Bank Chief Says
-- 11/05 12:40 [financialjuice] China foreign minister Wang Yi meets North Korea delegation in Beijing led by Kim Song-nam: Xinhua
-- 11/05 12:41 [financialjuice] ban b3 kole <9): 10) (0): at
-- 11/05 12:41 [financialjuice] China foreign minister Wang Yi: China ready to advance deeper, practical, positive development of China-North Korea ties - Xinhua
-- 11/05 12:41 [FirstSquawk] China Seeks Deeper and More Constructive Relations With North Korea, Foreign Minister Wang Yi Says
-- 11/05 12:49 [FirstSquawk] Binance Plans to Restore Withdrawal Services for More Assets Starting November 5, According to Yi He
-- 11/05 12:54 [financialjuice] U.S. dollar index drops 0.26% to 101.2100
-- 11/05 12:54 [FirstSquawk] Dollar Index Drops 0.26% to 101.2100, Extending Its Losses
-- 11/05 13:01 [FirstSquawk] October Auto Sales in Russia Drop 19.8% YoY to 132,894 Units – Autostat
-- 11/05 13:01 [FirstSquawk] Three in Four EU Citizens Say Shift to Low-Carbon Energy Is Urgent, EIB Survey Finds
-- 11/05 13:07 [financialjuice] Iran's IRGC: two tankers and tugboat blaze in Strait of Hormuz
-- 11/05 13:08 [FirstSquawk] Two Tankers and One Tugboat Reportedly Catch Fire in Strait of Hormuz, Iran’s IRGC Says
-- 11/05 13:09 [financialjuice] Iran's IRGC: tanker hit mine while navigating unauthorized Strait of Hormuz route
-- 11/05 13:09 [FirstSquawk] IRGC Reports Mine Strike on Tanker Using an Unapproved Route in the Strait of Hormuz
-- 11/05 13:23 [FirstSquawk] Iran War Contributed to Republican Midterm Losses, Vance Says – WSJ
-- 11/05 13:27 [FirstSquawk] Chipmakers Drive Asian Stock Market Losses as Post-Midterm AI Worries Grow, FT Says
-- 11/05 13:36 [FirstSquawk] EUR/USD Traders Watch 1.1270 Range Resistance for Potential Bullish Breakout-FXS
-- 11/05 13:37 [financialjuice] Drones strike industrial facilities in Russia's Ryazan, setting fire: authorities
-- 11/05 13:39 [FirstSquawk] Russian Authorities Report Fires at Ryazan Industrial Sites Following Drone Attack
-- 11/05 13:41 [FirstSquawk] EUR/JPY Slips Under 178.00, With Bearish Outlook Intact Below the 100-Day Moving Average
-- 11/05 13:59 [financialjuice] Russia strikes logistics center in Ukraine's Kharkiv region, power plant in Dnipropetrovsk region: Russian defense ministry
-- 11/05 14:01 [FirstSquawk] Russia Reports Strikes on Ukrainian Logistics Hub and Power Station in Two Regions
-- 11/05 14:01 [financialjuice] Microsoft declines multibillion-dollar AI partnership with UK’s nScale - FT
-- 11/05 14:03 [FirstSquawk] Microsoft Turns Down Major AI Partnership Deal With Britain’s Nscale, According to FT
-- 11/05 14:04 [financialjuice] S. Korea finmin: to closely watch shifts in US policy on AI after midterm elections
-- 11/05 14:05 [financialjuice] S. Korea finmin: to track US tariff policies, Middle East conflict
-- 11/05 14:06 [FirstSquawk] South Korean FinMin Says Government to Track US Tariff Measures and Middle East Conflict
-- 11/05 14:06 [financialjuice] S. Korea finmin: ready for possible rise in market volatility
-- 11/05 14:07 [FirstSquawk] South Korea’s Finance Chief Says Authorities Should Be Ready for Greater Market Swings
-- 11/05 14:09 [financialjuice] North Korea: EU should mind its own business instead of criticizing human rights issues
-- 11/05 14:15 [FirstSquawk] North Korea Says EU Should Focus on Its Own Affairs Instead of Criticising Its Human Rights Situation
-- 11/05 14:21 [financialjuice] India power secretary: to implement storage requirements for state power utilities
-- 11/05 14:30 [FirstSquawk] Gold Pulls Back From Two-Week Peak, Holding Above $4,100 Amid Bearish US Dollar Tone-FXS
-- 11/05 14:34 [FirstSquawk] US Dollar Weakens to Monthly Lows Near 101.00 as Democrats Sweep-FXS
-- 11/05 14:36 [FirstSquawk] GBP/USD Maintains Bullish Bias Above Key Support Ahead of BoE Decision-FXS
-- 11/05 14:49 [FirstSquawk] Russian Military Claims Attack on Ship Transporting Military Equipment in the Black Sea
-- 11/05 14:54 [financialjuice] Emirates Group: h1 revenues reach 66.2 billion dirhams - chief executive on X
-- 11/05 14:54 [financialjuice] Emirates Group: net profit in h1 at 3.6 bln dirhams - chief executive
-- 11/05 15:00 [financialjuice] Russia S&P Global October services PMI dips to 50.1 from September 51.3
-- 11/05 15:00 [FirstSquawk] RUSSIA (OCT) S&P GLOBAL RUSSIA COMPOSITE PMI ACTUAL: 50.0 VS 50.8
-- 11/05 15:00 [FirstSquawk] RUSSIA (OCT) S&P GLOBAL RUSSIA SERVICES PMI ACTUAL: 50.1 VS 51.3
-- 11/05 15:01 [financialjuice] Chinese refiners have sold roughly 500,000 metric tons of diesel for November export, traders say based on trade data calculations
-- 11/05 15:01 [financialjuice] China's November diesel exports to decline from previous peaks amid low domestic inventories, trade and industry sources say
-- 11/05 15:27 [FirstSquawk] Sterling Weakens Against the Yen Ahead of the BoE’s Latest Policy Outcome-FXS
-- 11/05 16:00 [financialjuice] ❗ GERMAN INDUSTRIAL ORDERS MOM ACTUAL 4.4% (FORECAST 4.5%, PREVIOUS -10.6%) $MACRO
-- 11/05 16:03 [FirstSquawk] SWEDEN (OCT) CPI MOM ACTUAL: 0.0% VS 0.9% PREVIOUS;EST 0.3%
-- 11/05 16:03 [FirstSquawk] SWEDEN (OCT) CPI YOY ACTUAL: 0.9% VS 1.1% PREVIOUS;EST 1.2%
-- 11/05 16:03 [FirstSquawk] SWEDEN (OCT) CPIF MOM ACTUAL: 0.0% VS 0.9% PREVIOUS;EST 0.3%
-- 11/05 16:03 [FirstSquawk] SWEDEN (OCT) CPIF YOY ACTUAL: 1.1% VS 1.5% PREVIOUS;EST 1.4%
-- 11/05 16:03 [FirstSquawk] SWEDEN (OCT) CPIF EXCL. ENERGY MOM ACTUAL: -0.2% VS 0.1% PREVIOUS;EST 0.2%
-- 11/05 16:03 [FirstSquawk] SWEDEN (OCT) CPIF EXCL. ENERGY YOY ACTUAL: 0.1% VS 0.5% PREVIOUS;EST 0.5%
-- 11/05 16:03 [FirstSquawk] GERMANY (SEP) FACTORY ORDERS MOM ACTUAL: 4.4% VS -10.6% PREVIOUS;EST 4.5%
-- 11/05 16:03 [FirstSquawk] GERMANY (SEP) FACTORY ORDERS WDA YOY ACTUAL: 3.3% VS 2.7% PREVIOUS;EST 3.3%
-- 11/05 16:04 [financialjuice] BoJ to hold 25th bond market group meetings on December 7-8th
-- 11/05 16:08 [FirstSquawk] Air France-KLM Q3 Earnings: - Net Income: €908M (est €730.8M) - Operating Income: €1.34B, Up 11% Y/Y - Revenue: €9.92B (est €9.96B) - Adjusted Free Cash Flow: €426M Vs €3M Y/Y - Still Sees FY Net Capex Below €3B - Sees FY Capacity (ASK) Up …
-- 11/05 16:08 [FirstSquawk] AP Moller Maersk Q3 Earnings: - Upgrades FY Guidance Based On Third Quarter Performance - Sees FY Underlying EBIT: $8B To $8.5B (previously $4.5B To $6.5B) - Sees FY Underlying EBITDA: $14B To $14.5B (est $14.03B) - Still Sees FY Global Con…
-- 11/05 16:09 [FirstSquawk] Germany Factory Orders (Y/Y) Sep: 3.3% (est 3.3%; prev 2.7%; prevR 3.2%) - Factory Orders (M/M): 4.4% (est 4.5%; prev -10.6%; prevR -10.1%)
-- 11/05 16:09 [FirstSquawk] BT H1 Earnings: - H1 Adjusted EBITDA: £4.10B (est £4.05B) - H1 Interim Dividend/Share: 2.50p (est 2.53p) - Still Sees FY Adjusted EBITDA: £8.1B To £8.2B - Still Sees FY Adjusted UK Service Revenue: £15.1B To £15.4B - Still Sees FY Adjusted …
-- 11/05 16:09 [FirstSquawk] Diageo Q1 Earnings: - Net Sales: $4.93B (est $4.78B) - Organic Net Sales: +1.4% (est -0.61%) - Organic Volume Growth: +1.1% (est -0.37%) - EMEA Net Sales: $1.26B, -17% Y/Y - North America Net Sales: $1.76B, -3.6% Y/Y - North America Organic…
-- 11/05 16:17 [FirstSquawk] IRAN FOREIGN MINISTER HELD PHONE CALL WITH OMANI COUNTERPART ON THURSDAY MORNING; IRAN AND OMAN FOREIGN MINISTERS DISCUSSED REGIONAL DEVELOPMENTS AND DIPLOMATIC EFFORTS FOR PEACE
-- 11/05 16:20 [financialjuice] SNB's Chairman Schlegel: SNB would intervene if price stability were at risk
-- 11/05 16:23 [FirstSquawk] RESERVE BANK OF AUSTRALIA DEPUTY GOV HAUSER: DON'T RECOGNISE THE PICTURE OF BOARD MEMBERS BEING DRIVEN INTO A CORNER AT BOARD MEETINGS
-- 11/05 16:23 [FirstSquawk] HAUSER: BOARD DISCUSSIONS WERE VERY LIVELY AT LAST MEETING
-- 11/05 16:23 [FirstSquawk] HAUSER: DON'T RECOGNIZE VIEW BOARD MEMBERS DRIVEN INTO CORNER; SEE RBA BOARD AS DIVERSE, HAS LIVELY DEBATES
-- 11/05 16:24 [FirstSquawk] SCHLEGELSAYS INITIAL SIGNS THAT SWISS ECONOMY CONTINUES TO GROW: HZ
-- 11/05 16:24 [financialjuice] SNB's Chairman Schlegel: Initial signs that the Swiss economy continues to grow
-- 11/05 16:26 [financialjuice] RBA's Hauser: Board discussions were very lively at the last meeting
-- 11/05 16:32 [financialjuice] RBA's Hauser: Inflation is too high, whichever measure you use
-- 11/05 16:43 [financialjuice] RBA's Hauser: Consumption growth has held up better than expected
-- 11/05 16:43 [FirstSquawk] RBA'S HAUSER STATED THAT THERE WAS NO EFFORT TO MANIPULATE MARKET SENTIMENT THROUGH OPEN MOUTH OPERATIONS.
-- 11/05 16:43 [FirstSquawk] HAUSER SAYS CONSUMPTION GROWTH IS STRONGER THAN ANTICIPATED.
-- 11/05 16:46 [financialjuice] RBA's Hauser: There was no attempt to do open-mouth operations for the market
-- 11/05 16:49 [FirstSquawk] SAUDI CIVIL DEFENCE :DANGER HAS PASSED
-- 11/05 16:50 [financialjuice] FRENCH INDUSTRIAL PRODUCTION MOM ACTUAL -0.5% (FORECAST 0.3%, PREVIOUS -0.3%) $MACRO
-- 11/05 16:51 [FirstSquawk] SONY: EXPECTS ¥16B LOSS DUE TO KUMAMOTO EARTHQUAKE DAMAGE
-- 11/05 17:00 [financialjuice] SWISS UNEMPLOYMENT RATE UNADJUSTED ACTUAL 3.0% (FORECAST 3%, PREVIOUS 3.0%) $MACRO
-- 11/05 17:01 [financialjuice] Currency Strength Chart: Strongest: NZD, CHF, GBP, CAD, AUD, EUR, USD, GBP - Weakest
-- 11/05 17:05 [FirstSquawk] BRITAIN'S FTSE 100 UP 0.93%; FRANCE'S CAC 40 UP 0.87%; SPAIN'S IBEX UP 0.86%; GERMANY'S DAX FLAT
-- 11/05 17:05 [financialjuice] SWISS UNEMPLOYMENT RATE ADJUSTED ACTUAL 3.1% (FORECAST 3.1%, PREVIOUS 3.1%) $MACRO
-- 11/05 17:05 [financialjuice] ECB's Schnabel: Rise of non-bank finance and increase in public debt could threaten monetary dominance
-- 11/05 17:05 [financialjuice] ECB's Schnabel: It has become more difficult to put public finances back on a sustainable path.
-- 11/05 17:12 [FirstSquawk] ECB'S SCHNABEL SAYS ACCESS TO CENTRAL BANK LOANS WILL BE NORMAL AGAIN WITHOUT STIGMA.
-- 11/05 17:12 [FirstSquawk] ECB'S SCHNABEL STATES THAT RESTORING PUBLIC FINANCES TO A SUSTAINABLE LEVEL HAS BECOME MORE CHALLENGING.
-- 11/05 17:12 [FirstSquawk] ECB'S SCHNABEL WARNED THAT GROWTH IN NON-BANK FINANCE AND RISING PUBLIC DEBT MAY ENDANGER MONETARY CONTROL.
-- 11/05 17:12 [financialjuice] ECB’s Moulin: Higher yields are new test for financial sector.
-- 11/05 17:12 [FirstSquawk] ECB'S SCHNABEL STATES THAT AFTER THE LEGACY PORTFOLIOS HAVE DISSOLVED ENOUGH, A LONG-TERM SECURITIES PORTFOLIO WILL BE SLOWLY DEVELOPED.
-- 11/05 17:13 [FirstSquawk] ECB'S MOULIN SAYS HIGHER YIELDS POSE NEW CHALLENGE FOR FINANCIAL SECTOR.
-- 11/05 17:13 [financialjuice] ECB's Moulin: French budget uncertainty amplifies rise in bond yields.
-- 11/05 17:14 [FirstSquawk] ECB'S MOULIN SAYS FRENCH BUDGET UNCERTAINTY DRIVES UP BOND YIELDS.
-- 11/05 17:14 [financialjuice] ECB's Moulin: Essential for France to adopt a budget by year-end.
-- 11/05 17:14 [FirstSquawk] MAERSK SHARES DROP 12% DUE TO DISAPPOINTING GUIDANCE RAISE.
-- 11/05 17:14 [FirstSquawk] MOULIN SAYS HIGHER BOND YIELDS COULD IMPACT THE ECONOMY NEGATIVELY.
-- 11/05 17:20 [financialjuice] UKMTO gets report of incident near Madinat Ash Shamal, Qatar
-- 11/05 17:30 [financialjuice] German Chamber of Commerce sees 2026 German GDP growth at 1% (previously 0.3%).
-- 11/05 17:30 [financialjuice] German Chamber of Commerce sees 2027 GDP growth at 1%.
-- 11/05 17:55 [financialjuice] Micron pauses work on $4.5bln Taiwan chip plant after labor row.
-- 11/05 18:00 [financialjuice] NORWEGIAN KEY POLICY RATE ACTUAL 4.5% (FORECAST 4.5%, PREVIOUS 4.50%) $MACRO
-- 11/05 18:00 [FirstSquawk] AIRBUS A320 FLYING FROM DUBLIN TO ROME DIVERTED TO EVREUX AIRBASE IN FRANCE DUE TO A BOMB ALERT.
-- 11/05 18:01 [FirstSquawk] MICRON HALTS WORK ON $4.5 BILLION CHIP PLANT IN TAIWAN DUE TO LABOR DISPUTE.
-- 11/05 18:01 [financialjuice] ITALIAN RETAIL SALES MOM ACTUAL 0.10% (FORECAST 0.05%, PREVIOUS 0.30%) $MACRO
-- 11/05 18:01 [financialjuice] ITALIAN RETAIL SALES NSA YOY ACTUAL 1.60% (FORECAST -, PREVIOUS 0.50%) $MACRO
-- 11/05 18:07 [financialjuice] South Korea weighs buying long-term US treasuries.
-- 11/05 18:07 [financialjuice] G7 Foreign Ministers meeting due on November 9-10 moved from Marseille to Paris for logistical and operational reasons - Email to Participants
-- 11/05 18:09 [financialjuice] China commerce ministry: to keep anti-subsidy duties on US npa imports for 5 years - statement
-- 11/05 18:10 [FirstSquawk] CHINA COMMERCE MINISTRY SAYS TO CONTINUE IMPOSING ANTI-SUBSIDY DUTIES ON US NPA IMPORTS FOR 5 YEARS - STATEMENT
-- 11/05 18:12 [financialjuice] Alaris Equity Partners Income Trust AD_U.TO: RBC lowers target price to C$26 from C$27
-- 11/05 18:25 [FirstSquawk] SAUDI ARABIA: ISSUES WARNING OF POTENTIAL DANGER IN YANBU
-- 11/05 18:30 [financialjuice] UK CONSTRUCTION PMI ACTUAL 43.6 (FORECAST 46.5, PREVIOUS 46.1) $MACRO
-- 11/05 18:35 [financialjuice] Qatar Emir reshuffles Qatar energy board of directors - Diwan.
-- 11/05 18:35 [financialjuice] Japan's PM Takaichi: Will continue to work with us president Trump to strengthen Japan-US relations.
-- 11/05 18:46 [FirstSquawk] TAKAICHI SAYS CONVEYED CONCERNS TO FRENCH PRESIDENT ON EU EV POLICY
-- 11/05 18:49 [financialjuice] Saudi-led coalition: Intercepts missile targeting Medina region
-- 11/05 18:49 [financialjuice] Saudi-led coalition: Destroyed missile launched by Houthis towards Medina
-- 11/05 18:53 [FirstSquawk] JAPAN PRIME MINISTER TAKAICHI SAYS EXPRESSED JAPAN'S 'GRAVE CONCERN' REGARDING EU'S PROPOSED INDUSTRIAL ACCELERATOR ACT, CALLED FOR FRANCE TO TAKE APPROPRIATE RESPONSE IN TELECONFERENCE WITH FRENCH PRESIDENT MACRON
 - 11/05 19:00 [financialjuice] EUROZONE PPI MOM ACTUAL 2.5% (FORECAST 2.5%, PREVIOUS 1.9%) $MACRO
 - 11/05 19:00 [financialjuice] EUROZONE PPI YOY ACTUAL 11.1% (FORECAST 10.6%, PREVIOUS 8.2%) $MACRO
 - 11/05 19:01 [financialjuice] Kremlin on tankers with Russian diesel changing course - The Diesel will find its buyers, we can't discuss commercial issues
@@ -664,3 +535,123 @@
 - 11/06 11:44 [financialjuice] S.Korea finmin: to relax rules on borrowed investment to reduce market volatility
 - 11/06 11:45 [FirstSquawk] South Korea plans to ease restrictions on borrowed investment as part of efforts to curb market volatility, FinMin says.
 - 11/06 11:45 [financialjuice] S.Korea finmin: will adopt more stabilizing measures if volatility rises further
+- 11/06 11:54 [FirstSquawk] KOSPI falls below 5,000 amid an AI-driven market sell-off after the US midterm elections, Yonhap reports.
+- 11/06 11:55 [financialjuice] China commerce ministry: held China-Netherlands export control dialogue meeting in Shenzhen on Nov 5
+- 11/06 11:55 [FirstSquawk] China, Netherlands hold export control talks in Shenzhen on November 5, Commerce Ministry says.
+- 11/06 12:06 [FirstSquawk] Japanese authorities direct Chubu Electric to address operational shortcomings following nuclear plant data fraud.
+- 11/06 12:12 [financialjuice] Binance: continue making progress restoring withdrawal services, will reopen withdrawals for more assets starting at 04:00 UTC
+- 11/06 12:12 [FirstSquawk] Binance says it will expand withdrawal availability to more assets starting at 04:00 UTC as restoration efforts continue.
+- 11/06 12:13 [FirstSquawk] Gold prices slide close to 1%, with spot bullion falling to $4,049.88 an ounce.
+- 11/06 12:24 [FirstSquawk] Canada charts a new economic independence strategy, marking a significant shift in its relationship with the US. - SCMP
+- 11/06 12:28 [FirstSquawk] US oil futures advance $1 to trade at $91.52/BBL.
+- 11/06 12:29 [financialjuice] Trump Washington arch gains crucial endorsement from government panel but judge may still halt construction
+- 11/06 12:29 [FirstSquawk] Trump's proposed Washington Arch clears a major regulatory hurdle, but construction remains subject to a possible court block.
+- 11/06 12:37 [FirstSquawk] Australian Dollar Comes Under Pressure on Softer RBA Outlook and US Dollar Gains - FX
+- 11/06 12:40 [FirstSquawk] Brent oil futures gain more than $2 to cross the $100/bbl threshold.
+- 11/06 12:41 [financialjuice] China finance ministry offers 50-year treasury bonds at 2.1537% yield: traders
+- 11/06 12:41 [financialjuice] China finance ministry sells 1-year bonds at 1.1403% yield: traders
+- 11/06 12:45 [FirstSquawk] Germany Sees Risks to Transatlantic Ties From Efforts to Cut Dependence on US Weapons – POLITICO
+- 11/06 12:58 [FirstSquawk] US Stock Market Expected to Find It Difficult to Recover to October Peak - WSJ
+- 11/06 13:06 [FirstSquawk] Thai Inflation Surpasses Central Bank Target as Price Pressures Accelerate - WSJ
+- 11/06 13:07 [FirstSquawk] Japan’s benchmark TOPIX extends losses, falling over 6% to an April low.
+- 11/06 13:17 [FirstSquawk] North Korea Removes Parliamentary Vice Chairman, Revises Construction and Precious Metal Regulations - YONHAP
+- 11/06 13:19 [financialjuice] Russia hits power plant near Ukraine's Sumy: Russian newswires cite defence ministry
+- 11/06 13:27 [FirstSquawk] Japan’s Electric Vehicle Sales Cross 100,000 Units for the First Time in 2026
+- 11/06 13:34 [FirstSquawk] Russian Forces Hit Power Station Near Ukraine’s Sumy, According to Defence Ministry – Russian Newswires
+- 11/06 13:40 [FirstSquawk] EU-China Trade Truce Comes Under Threat as Both Sides Prepare for Possible Escalation - SCMP
+- 11/06 13:41 [FirstSquawk] Yuan Poses Challenge for China, Too Weak Overseas and Too Strong Domestically - RTRS
+- 11/06 13:48 [financialjuice] US judge temporarily halts Trump administration's start of triumphal arch construction
+- 11/06 13:50 [FirstSquawk] Trump Administration Barred Temporarily From Beginning Triumphal Arch Construction by US Judge
+- 11/06 13:58 [FirstSquawk] Russia Claims Strikes on Energy Infrastructure in Kyiv Region and Cargo Ship in Odesa Port.
+- 11/06 14:00 [financialjuice] Swedish single-family home prices rise 4.2% august-october vs year earlier, svensk maklarstatistik data shows
+- 11/06 14:00 [financialjuice] Swedish apartment prices rise 5.8% in August-October compared with year-earlier period, svensk maklarstatistik data shows
+- 11/06 14:07 [FirstSquawk] Iran Marks Trump’s Election Defeat as Negotiators Work Toward Agreement to End War – FT
+- 11/06 14:12 [FirstSquawk] Iran-Connected Ships Gather Near Submarine Cables Amid Threats – FT
+- 11/06 14:12 [FirstSquawk] UK Gas Demand Set to Rise Sharply Due to Expanding Data Centre Usage – FT
+- 11/06 14:13 [FirstSquawk] JLR Had Identified Range Rover Part Fault Years Before Broadening Recalls – FT
+- 11/06 14:13 [FirstSquawk] Accenture and Big Four Firms Move Into Smaller Markets as They Seek New Growth – FT
+- 11/06 14:25 [FirstSquawk] 2. Australia’s benchmark S&P/ASX 200 ends down 0.5% at 9,020.80.
+- 11/06 14:28 [financialjuice] -x tells Indian court police takedown orders sent to prominent free speech groups were forged
+- 11/06 14:31 [FirstSquawk] AUSTRALIA FOREIGN RESERVES OCT: A$107.3B (PREV A$109.7B)
+- 11/06 14:34 [financialjuice] Taiwan stocks end 4.5% lower after trimming early declines
+- 11/06 15:22 [FirstSquawk] Gold Falls Further Below $4,050 Amid a Firmer Dollar, With US Jobs Data in Focus – FXStreet
+- 11/06 15:32 [financialjuice] Elon Musk: Tesla to wind down Cybertruck production in Texas in mid-2027 $TSLA
+- 11/06 15:46 [FirstSquawk] Barclays Turns More Positive on Ryanair, Upgrading It to Overweight With a €29 Target.
+- 11/06 15:47 [FirstSquawk] Barclays Turns More Positive on Deutsche Lufthansa, Upgrading It to Equal-Weight With an €8.40 Target.
+- 11/06 16:00 [financialjuice] ❗ GERMAN INDUSTRIAL PRODUCTION YOY SA ACTUAL 0.4% (FORECAST 1.2%, PREVIOUS 2.33%) $MACRO
+- 11/06 16:00 [financialjuice] ❗ GERMAN INDUSTRIAL PRODUCTION MOM ACTUAL 0.7% (FORECAST -0.1%, PREVIOUS 2.0%) $MACRO
+- 11/06 16:01 [FirstSquawk] SWEDEN (OCT) BUDGET BALANCE ACTUAL: -14.5B VS -23.0B PREVIOUS
+- 11/06 16:01 [FirstSquawk] NORWAY (SEP) IND PROD MANUFACTURING WDA YOY ACTUAL: 1.3% VS 0.4% PREVIOUS
+- 11/06 16:02 [FirstSquawk] NORWAY (SEP) IND PROD MANUFACTURING MOM ACTUAL: 0.0% VS -0.4% PREVIOUS
+- 11/06 16:02 [FirstSquawk] NORWAY (SEP) INDUSTRIAL PRODUCTION WDA YOY ACTUAL: -1.8% VS -0.6% PREVIOUS
+- 11/06 16:02 [FirstSquawk] NORWAY (SEP) INDUSTRIAL PRODUCTION MOM ACTUAL: 1.0% VS 1.0% PREVIOUS
+- 11/06 16:02 [FirstSquawk] GERMANY (SEP) INDUSTRIAL PRODUCTION WDA YOY ACTUAL: 0.4% VS 2.3% PREVIOUS;EST 1.2%
+- 11/06 16:02 [FirstSquawk] GERMANY (SEP) INDUSTRIAL PRODUCTION SA MOM ACTUAL: 0.7% VS 2.0% PREVIOUS;EST -0.1%
+- 11/06 16:04 [FirstSquawk] SAUDI ARABIA: ISSUES ALERT OF POTENTIAL DANGER IN NAJRAN
+- 11/06 16:08 [FirstSquawk] CHINA'S HE LIFENG TO VISIT CANADA NOVMBER 9 FOR TRADE DIALOGUE
+- 11/06 16:10 [financialjuice] UK house prices fell 1.2% on year in October - Lloyds
+- 11/06 16:11 [financialjuice] Average UK house price in October was £296,285 vs £296,285 in September - Lloyds
+- 11/06 16:11 [financialjuice] UK housing demand is being tested by a challenging economic backdrop - Lloyds
+- 11/06 16:27 [FirstSquawk] IRGC NAVY: TWO TANKERS STRUCK MINES, CAUSING FIRES IN HORMUZ STRAIT
+- 11/06 16:28 [financialjuice] Iran's IRGC Navy: Two oil tankers catch fire while attempting to pass through the Strait of Hormuz - IRNA
+- 11/06 16:34 [FirstSquawk] QATAR EMIR GETS PHONE CALL FROM TRUMP
+- 11/06 16:37 [FirstSquawk] SAUDI-LED COALITION SAYS INTERCEPTS 2 MISSILES TARGETING NAJRAN
+- 11/06 16:38 [FirstSquawk] SAUDI-LED COALITION SAYS DEBRIS FELL DUE TO INTERCEPTION
+- 11/06 16:39 [financialjuice] Qatar Emir and Trump discuss de-escalation efforts in the Middle East
+- 11/06 16:39 [FirstSquawk] QATAR EMIR- TRUMP DISCUSS DE-ESCALATION EFFORTS IN MIDDLE EAST
+- 11/06 16:45 [financialjuice] FRENCH TRADE BALANCE SA ACTUAL -7.31398B (FORECAST -, PREVIOUS -6.12B) $MACRO
+- 11/06 16:45 [financialjuice] FRENCH CURRENT ACCOUNT ACTUAL -2.7B (FORECAST -, PREVIOUS -1.5B) $MACRO
+- 11/06 16:48 [FirstSquawk] QATAR'S EMIR STRESSES IMPORTANCE OF AVOIDING FURTHER ESCALATION, ENSURING FREEDOM OF NAVIGATION AND SECURITY OF ENERGY SUPPLIES IN CALL WITH TRUMP - QATARI STATEMENT
+- 11/06 16:49 [FirstSquawk] UKRAINE: RUSSIAN ATTACKS CAUSE NEW POWER OUTAGES IN 7 REGIONS, KYIV AREA WORST HIT
+- 11/06 16:52 [financialjuice] BoE Gov. Bailey: I don't agree we have got endemic inflation
+- 11/06 16:53 [FirstSquawk] BAILEY SAYS I DON'T AGREE WE HAVE GOT ENDEMIC INFLATION
+- 11/06 16:55 [FirstSquawk] BAILEY SAYS IF ENERGY PRICES REMAIN HIGH, ANOTHER HIKE POSSIBLE
+- 11/06 16:55 [financialjuice] BoE Gov. Bailey: Private wages at upper end range for inflation target
+- 11/06 16:55 [financialjuice] BoE Gov. Bailey: If energy prices remain high, another hike is possible
+- 11/06 16:58 [FirstSquawk] BAILEY SAYS PRIVATE WAGES AT UPPER END RANGE FOR INFLATION TARGET
+- 11/06 16:59 [FirstSquawk] BAILEY SAYS HACKS SHOW WE MUST UNDERSTAND AI FRONTIER MODELS WELL
+- 11/06 16:59 [FirstSquawk] BAILEY SAYS WE'RE VERY MUCH ON TOP OF CYBER RISKS
+- 11/06 17:00 [financialjuice] SWISS CONSUMER CONFIDENCE SA ACTUAL -44.9 (FORECAST -35.5, PREVIOUS -34) $MACRO
+- 11/06 17:01 [financialjuice] Currency Strength Chart: Strongest: USD, CHF, JPY, CAD, EUR, GBP, NZD, AUD - Weakest
+- 11/06 17:12 [financialjuice] Taiwan's economy ministry: Demand for applications such as artificial intelligence (AI), high-performance computing, and cloud services continues to expand
+- 11/06 17:25 [financialjuice] Ukraine said to confirm strike on Russia's Afipsky refinery
+- 11/06 17:40 [FirstSquawk] TAKAICHI SAYS FORMULATED EMERGENCY RESPONSE PACKAGE ON CYBERATTACKS
+- 11/06 17:56 [FirstSquawk] TAKAICHI SAYS CHINA IS AN IMPORTANT NEIGHBORING COUNTRY
+- 11/06 17:56 [FirstSquawk] TAKAICHI SAYS WILL SEEK TALKS TO PROTECT INTERESTS, BUILD RELATIONS
+- 11/06 17:56 [FirstSquawk] Copper Prices Fall as US Election Clouds AI Demand and Tariff Outlook Copper prices dropped to their lowest level since July, falling as much as 1.5% to around $13,642 per ton on the London Metal Exchange. The decline reflects growing conce…
+- 11/06 17:56 [FirstSquawk] TAKAICHI-TO ADVANCE MUTUALLY BENEFICIALLY RELATIONSHIP W/ CHINA
+- 11/06 17:56 [FirstSquawk] Treasury Traders Bet on Bond Rally Ahead of US Jobs Report US Treasury traders are positioning for further gains in government bonds ahead of the October employment report, as expectations of additional Federal Reserve interest-rate hikes c…
+- 11/06 17:57 [FirstSquawk] Oil Prices Fall as Hopes Grow for Middle East De-Escalation Oil prices declined as markets reacted to signs of renewed diplomatic efforts to reduce tensions in the Middle East. Brent crude fell below $98 per barrel after rising nearly 4% in…
+- 11/06 18:07 [financialjuice] China's Xi meets with Gabon president: state media
+- 11/06 18:17 [financialjuice] Tanzanian court: no proof to convict opposition leader Tundu Lissu of treason
+- 11/06 18:18 [financialjuice] World Bank: approves $500 million more for agro-climatic resilience project to aid Nigeria
+- 11/06 18:36 [financialjuice] Fed's Williams: US economy remarkably resilient.
+- 11/06 18:36 [financialjuice] Fed's Williams: Growth has strengthened.
+- 11/06 18:36 [financialjuice] Fed's Williams: US facing unusual shocks to demand, supply.
+- 11/06 18:36 [financialjuice] Fed's Williams: Remarkably stable and solid labour market.
+- 11/06 18:37 [financialjuice] Fed's Williams: We've seen tariffs effect work way through, mostly now behind us.
+- 11/06 18:38 [financialjuice] Fed's Williams: Energy passing through to inflation as expected.
+- 11/06 18:39 [financialjuice] Fed's Williams: Inflation expectations well anchored.
+- 11/06 18:40 [financialjuice] Fed's Williams: Wage growth consistent with 2% goal.
+- 11/06 18:40 [financialjuice] Fed's Williams: This is appropriate time to gather more info.
+- 11/06 18:41 [financialjuice] ECB's Lane: Energy inflation is going to influence wage negotiations and setting of prices across economy.
+- 11/06 18:42 [financialjuice] ECB's Lane: Fiscal policy has been more expansive than expected but we expect tightening next year and after.
+- 11/06 18:45 [FirstSquawk] FED'S WILLIAMS SAYS US ECONOMY IS REMARKABLY STRONG.
+- 11/06 18:46 [FirstSquawk] FED'S WILLIAMS SAYS ECONOMIC GROWTH HAS IMPROVED.
+- 11/06 18:46 [FirstSquawk] FED'S WILLIAMS STATES LABOR MARKET IS STRONG AND CONSISTENT.
+- 11/06 18:46 [FirstSquawk] FED'S WILLIAMS SAYS INFLATION LEVELS ARE STILL TOO HIGH FOR AN EXTENDED PERIOD.
+- 11/06 18:46 [FirstSquawk] FED'S WILLIAMS STATES THAT THE IMPACT OF TARIFFS IS Mostly COMPLETE AND WE ARE PAST IT NOW.
+- 11/06 18:46 [FirstSquawk] FED'S WILLIAMS STATED THAT ENERGY COSTS ARE REFLECTING IN AIRFARE PRICES AS ANTICIPATED.
+- 11/06 18:46 [FirstSquawk] FED'S WILLIAMS SAYS AI HAS A LIMITED IMPACT ON PRICES, LIKE CHIPS.
+- 11/06 18:46 [FirstSquawk] FED'S WILLIAMS STATED THAT AI HAS HAD A LIMITED IMPACT ON PRICES, LIKE CHIPS.
+- 11/06 18:46 [FirstSquawk] FED'S WILLIAMS EMPHASIZED THE IMPORTANCE OF ACHIEVING A 2% INFLATION RATE PROMPTLY.
+- 11/06 18:46 [FirstSquawk] FED'S WILLIAMS SAYS MONETARY POLICY EFFECTS TAKE 1-2 YEARS, NEED TO FOCUS ON FUTURE.
+- 11/06 18:46 [FirstSquawk] FED'S WILLIAMS SAYS INFLATION EXPECTATIONS ARE STABLE AND WAGE GROWTH IS ON TRACK WITH TARGET.
+- 11/06 18:46 [FirstSquawk] FED'S WILLIAMS SAYS NOW IS A GOOD TIME TO GATHER MORE DATA.
+- 11/06 18:46 [FirstSquawk] ECB'S LANE STATES ENERGY INFLATION WILL AFFECT WAGE TALKS AND PRICE SETTINGS IN THE ECONOMY.
+- 11/06 18:46 [FirstSquawk] ECB'S LANE SAYS MONETARY POLICY'S ROLE IS TO CONTROL SPILLOVER EFFECTS.
+- 11/06 18:46 [FirstSquawk] ECB'S LANE STATED THE NEED FOR INFLATION TO RETURN TO TARGET WITHIN ONE TO TWO YEARS.
+- 11/06 18:46 [FirstSquawk] ECB'S LANE SAYS FINANCIAL CONDITIONS HAVE BECOME TIGHTER.
+- 11/06 18:46 [FirstSquawk] ECB’S LANE SAYS STRONG EXPORTS PROVIDE A WELCOME BOOST.
+- 11/06 18:46 [FirstSquawk] ECB'S LANE SAYS FISCAL POLICY WAS MORE STRETCHED THAN ANTICIPATED, BUT TIGHTENING IS EXPECTED NEXT YEAR AND BEYOND.
+- 11/06 18:47 [FirstSquawk] ECB'S LANE SUGGESTS COLLECTING DATA UNTIL DECEMBER BEFORE DECIDING ON ACTIONS.
