@@ -7,122 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-11-06 07:25 JST／対象: 11/05 07:25 〜 11/06 07:25 JST（時刻はすべて日本時間）
+生成: 2026-11-06 11:46 JST／対象: 11/05 11:46 〜 11/06 11:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 56 | 11/05 21:33 | 11/06 06:39 | ⚠ 89分（04:42→06:12） |
-| FirstSquawk | 269 | 11/05 07:54 | 11/06 07:21 | ⚠ 69分（01:37→02:46） |
-| financialjuice | 321 | 11/05 08:00 | 11/06 06:40 | ⚠ 58分（15:01→16:00） |
+| DeItaone | 74 | 11/05 21:33 | 11/06 10:01 | ⚠ 89分（04:42→06:12） |
+| FirstSquawk | 284 | 11/05 11:52 | 11/06 11:45 | ⚠ 69分（01:37→02:46） |
+| financialjuice | 316 | 11/05 11:54 | 11/06 11:45 | ⚠ 59分（10:41→11:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 612 行（統合前 650 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 640 行（統合前 678 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/05 07:54 [FirstSquawk] MORE IRANIANS WANT A NUCLEAR BOMB NOW THAN BEFORE THE WAR, WITH CALLS FOR IRAN TO ACQUIRE NUCLEAR WEAPONS GAINING GROUND AMONG CLERICS AND POLITICAL FIGURES AFTER WARS WITH THE U.S. AND ISRAEL, BRINGING A ONCE-FRINGE POSITION INTO MAINSTREA…
-- 11/05 08:00 [financialjuice] S. KOREAN CURRENT ACCOUNT BAL NSA ACTUAL 61.4575B (FORECAST -, PREVIOUS 46.11B) $MACRO
-- 11/05 08:00 [financialjuice] S.Korea Sept current-account balance provisional $61.46 billion vs $46.11 billion in Aug: central bank
-- 11/05 08:00 [financialjuice] S.Korea Jan-Sept current account surplus provisional $340.66 billion vs $83.89 billion year earlier: central bank
-- 11/05 08:01 [financialjuice] Swiss National Bank chairman Schlegel: inflation in Switzerland climbed, October figure exceeded expectations
-- 11/05 08:01 [financialjuice] SNB Chairman Schlegel: no major second-round effects so far, but can't be excluded later
-- 11/05 08:01 [financialjuice] SNB’s chairman: central bank won’t hesitate to modify policy if price stability is endangered
-- 11/05 08:01 [financialjuice] SNB chairman Schlegel: central bank will monitor situation closely, especially for second-round inflation effects
-- 11/05 08:09 [FirstSquawk] AUSTRALIA’S S&P/ASX 200 SURGES 1.6% TO 8,973.60 IN EARLY TRADE
-- 11/05 08:27 [financialjuice] OpenAI: introducing Images 2.6 in ChatGPT, Codex, and API - website
-- 11/05 08:27 [financialjuice] OpenAI: Images 2.6 available worldwide today in ChatGPT and Codex across all subscription tiers on desktop, mobile, and web
-- 11/05 08:28 [financialjuice] OpenAI: GPT-image-2.6 sunburst and GPT-image-2.6 flare now accessible in API
-- 11/05 08:51 [financialjuice] boj sep meeting minutes: members concurred it was suitable for the bank to keep increasing the policy interest rate and modify the level of monetary easing
-- 11/05 08:51 [financialjuice] BOJ minutes: one member said it was preferable for the bank to move the policy interest rate closer to the target relatively soon and maintain flexibility for quick adjustments in either direction
-- 11/05 08:52 [financialjuice] BOJ minutes: one member said it was important to show the market BOJ's resolve to prevent upward price deviations with agile response to global economic conditions
-- 11/05 08:53 [financialjuice] BOJ minutes: Cabinet Office rep expects central bank to fulfill accountability on meeting decisions and closely examine cumulative effects of past rate policies
-- 11/05 08:53 [financialjuice] BOJ minutes: one member noted that if signs of rising price deviation appeared, the bank would need to speed up rate hikes
-- 11/05 08:53 [financialjuice] BoJ Minutes: Cabinet Office Representative Said BoJ May Need to Consider Its Estimates of Neutral Interest Rate
-- 11/05 08:53 [financialjuice] BoJ minutes: one member said BoJ did not need hasty action but should set policy to prevent excessive, persistent inflation
-- 11/05 08:53 [financialjuice] BOJ minutes: one member said bank should keep acting promptly without being too cautious
-- 11/05 08:54 [financialjuice] BOJ minutes: Cabinet office representative says important for BOJ to take proactive, appropriate steps amid excessive economic and market fluctuations
-- 11/05 08:54 [financialjuice] BOJ minutes: many members expressed view it was difficult to pinpoint neutral rate level in advance
-- 11/05 08:55 [financialjuice] BOJ minutes: many members said bank should modify policy while assessing changes in financial conditions including short-term interest rates and reaction to economic activity and prices
-- 11/05 08:56 [financialjuice] BOJ minutes: Ministry of Finance expects central bank to carefully assess impact of policy rate shift on economy and prices
-- 11/05 08:59 [financialjuice] BOJ minutes: some members noted services prices rose steadily over recent years
-- 11/05 08:59 [financialjuice] BOJ minutes: members say if trend accelerates further, underlying inflation could rise accordingly
-- 11/05 09:01 [financialjuice] BoJ minutes: one member noted that the current rate of CPI increase has largely met the price stability target
-- 11/05 09:02 [financialjuice] boj minutes: a different member said underlying cpi inflation has already reached a level generally aligned with the 2% target
-- 11/05 09:02 [financialjuice] BOJ minutes: several members highlighted rising chances of CPI inflation increase from early autumn
-- 11/05 09:03 [financialjuice] BOJ minutes: several members noted underlying CPI inflation has been close to 2% lately
-- 11/05 09:04 [FirstSquawk] BOJ SEPTEMBER MEETING MINUTES SHOW MEMBERS AGREED IT WAS APPROPRIATE THAT THE BANK CONTINUE TO RAISE THE POLICY INTEREST RATE AND ADJUST THE DEGREE OF MONETARY ACCOMMODATION
-- 11/05 09:04 [FirstSquawk] BOJ MINUTES SHOW MANY MEMBERS SAID THE BOJ SHOULD ADJUST POLICY WHILE EXAMINING CHANGES IN FINANCIAL CONDITIONS, INCLUDING SHORT-TERM INTEREST RATES, AND THE RESPONSE OF ECONOMIC ACTIVITY AND PRICES TO THOSE CHANGES
-- 11/05 09:05 [financialjuice] BoJ minutes: many members shared view that crude oil price rise keeps upside risks to prices high
-- 11/05 09:05 [FirstSquawk] BOJ MINUTES SHOW ONE MEMBER SAID IT WAS DESIRABLE TO BRING THE POLICY RATE CLOSER TO THE APPROXIMATE GOAL RELATIVELY SOON WHILE ENSURING ROOM FOR NIMBLE ADJUSTMENT IN EITHER DIRECTION, AND ANOTHER SAID THE BANK SHOULD CONTINUE TO ACT IN A T…
-- 11/05 09:05 [FirstSquawk] BOJ MINUTES SHOW ONE MEMBER SAID THAT IF SIGNS OF AN UPWARD DEVIATION IN PRICES WERE OBSERVED, THE BANK WOULD NEED TO ACCELERATE THE PACE OF RATE HIKES, AND THAT IT WAS IMPORTANT TO DEMONSTRATE THE BOJ’S DETERMINATION TO PREVENT UPWARD DEVI…
-- 11/05 09:06 [FirstSquawk] BOJ MINUTES SHOW ONE MEMBER RECOGNISED THE RATE OF INCREASE IN CPI HAS GENERALLY REACHED THE PRICE STABILITY TARGET, WARNING UNDERLYING INFLATION MIGHT DEVIATE UPWARD IF THE TREND ACCELERATED, WITH SOME MEMBERS NOTING SERVICES PRICES HAVE C…
-- 11/05 09:24 [FirstSquawk] BOJ MINUTES SHOW A CABINET OFFICE REPRESENTATIVE SAID IT IS IMPORTANT FOR THE BOJ TO TAKE PROACTIVE AND APPROPRIATE ACTION IN THE EVENT OF EXCESSIVE FLUCTUATIONS IN ECONOMIC ACTIVITY AND THE MARKET, AND THAT IT MIGHT BE NECESSARY FOR THE BA…
-- 11/05 09:24 [financialjuice] China PBOC forecast to set yuan midpoint at 6.6783 per dollar: estimate
-- 11/05 09:26 [FirstSquawk] ASIA-PACIFIC EQUITIES BEGIN MOSTLY HIGHER AFTER ALL MAJOR US INDICES RALLIED, WITH TREASURY YIELDS AND OIL PRICES MOVING LOWER FOLLOWING THE BLUE TSUNAMI
-- 11/05 09:27 [FirstSquawk] 20-year Japanese government bond yield declines 2 bps to 3.64%.
-- 11/05 09:30 [FirstSquawk] Japan's long-dated government bond yields retreat following a drop in oil prices.
-- 11/05 09:30 [financialjuice] JAPANESE SERVICES PMI ACTUAL 51.7 (FORECAST -, PREVIOUS 52.0) $MACRO
-- 11/05 09:30 [financialjuice] JAPANESE COMPOSITE PMI FINAL ACTUAL 52.1 (FORECAST -, PREVIOUS 52.3) $MACRO
-- 11/05 09:30 [financialjuice] ❗ AUSTRALIAN TRADE BALANCE ACTUAL 2826M (FORECAST 1000M, PREVIOUS 495M) $MACRO
-- 11/05 09:30 [financialjuice] ❗ AUSTRALIAN IMPORTS ACTUAL -3.3% (FORECAST -, PREVIOUS 5.8%) $MACRO
-- 11/05 09:30 [financialjuice] ❗ AUSTRALIAN EXPORTS ACTUAL 2.3% (FORECAST -, PREVIOUS 3.7%) $MACRO
-- 11/05 09:30 [financialjuice] Australia September goods exports rise 2.3% m/m, seasonally adjusted
-- 11/05 09:30 [financialjuice] Japan S&P Global October services PMI at 51.7 vs flash 52.0
-- 11/05 09:30 [financialjuice] Australia Sept trade surplus at A$2.83 billion, seasonally adjusted vs. poll A$810 million
-- 11/05 09:31 [financialjuice] South Korea’s Cheonghae unit to increase operations near Strait of Hormuz: Yonhap
-- 11/05 09:31 [FirstSquawk] AUSTRALIA TRADE BAL (AUD) SEP: 2826M (EST 1,000M; PREV 495M)
-- 11/05 09:31 [FirstSquawk] AUSTRALIA EXPORTS (M/M) SEP: 2.3% (PREV 3.7%)
-- 11/05 09:32 [FirstSquawk] AUSTRALIA IMPORTS (M/M) SEP: -3.3% (PREV 5.8%)
-- 11/05 09:32 [FirstSquawk] JAPAN S&P GLOBAL COMPOSITE PMI OCT F: 52.1 (PREV 52.3)
-- 11/05 09:32 [FirstSquawk] JAPAN SERVICES PMI OCT: 51.7 (PREV 52.0)
-- 11/05 09:34 [FirstSquawk] South Korea's Cheonghae Unit to Broaden Mission Into Waters Near Strait of Hormuz - YONHAP
-- 11/05 09:36 [FirstSquawk] Morocco Says Western Sahara Ceasefire Will Remain in Place After UN Mission Ends
-- 11/05 09:36 [FirstSquawk] ASIAN STOCKS ROSE, WITH THE MSCI ASIA PACIFIC INDEX UP 0.3%, TRACKING WALL STREET GAINS AFTER DEMOCRATIC VICTORIES IN THE US MIDTERMS SENT OIL PRICES LOWER. JAPAN’S TOPIX GAINED 2.1% AND AUSTRALIA’S S&P/ASX 200 ROSE 1.3%, WHILE SOUTH KOREA’…
-- 11/05 09:37 [FirstSquawk] LOWER OIL PRICES EASED INFLATION CONCERNS, SUPPORTING TREASURIES AND WEIGHING ON THE DOLLAR, WITH THE US 10-YEAR YIELD AT 4.88%. INVESTORS ARE LOOKING PAST POTENTIAL WASHINGTON GRIDLOCK, WITH STRONG EARNINGS AND CONTINUED AI DEMAND SUPPORTI…
-- 11/05 09:42 [FirstSquawk] South Korea's Stock Market Opens in Negative Territory Following Democratic Party's U.S. Midterm Election Victory
-- 11/05 09:49 [FirstSquawk] Chinese and US Defence Officials Pledge Better Communication to Minimise Risks
-- 11/05 09:51 [FirstSquawk] Multiple Ukrainian Drone Attacks Target Industrial Zone of Russia's Ryazan Oil Refinery - WSN
-- 11/05 09:59 [FirstSquawk] Japan Says U.S. Midterm Election Results Will Not Affect Strength of Bilateral Alliance - KYODO
-- 11/05 10:02 [FirstSquawk] WSJ: France's Riots Fueled by Ultra-Left Faction Living Off the Grid
-- 11/05 10:04 [FirstSquawk] Tokyo Gas to Keep Close Watch on Middle East Developments and Oil, LNG Prices Following U.S. Midterm Elections
-- 11/05 10:12 [FirstSquawk] Gold Prices Rise Almost 1% to $4,098.29/Oz
-- 11/05 10:13 [financialjuice] Taiwan stocks fall over 2%
-- 11/05 10:13 [financialjuice] Cat Wu, former head of product for Claude code at Anthropic, joins OpenAI to lead product management for core products
-- 11/05 10:14 [FirstSquawk] Taiwan Shares Extend Losses, Dropping Over 2%
-- 11/05 10:15 [FirstSquawk] OpenAI Hires Former Anthropic Executive Cat Wu to Head Product Management for Core Products
-- 11/05 10:16 [FirstSquawk] China Fixes Yuan Central Parity Rate at 6.7156 Against the Dollar
-- 11/05 10:19 [FirstSquawk] Dollar Weakens 0.26% Against Yen to 157.9850
-- 11/05 10:21 [financialjuice] China central bank injects 263 billion yuan via overnight reverse repos at 1.25%: statement
-- 11/05 10:22 [FirstSquawk] China Central Bank Adds 263 Billion Yuan in Liquidity Through Overnight Reverse Repos at 1.25%
-- 11/05 10:26 [FirstSquawk] Japanese Stocks Slide as Nikkei 225 Loses 1%
-- 11/05 10:29 [FirstSquawk] China's Benchmark Energy Index Poised to Fall 3% at Market Open
-- 11/05 10:30 [financialjuice] Taiwan overnight interbank rate starts at 0.805% versus previous session open
-- 11/05 10:30 [FirstSquawk] Taiwan Overnight Interbank Rate Starts the Session at 0.805%, Unchanged From Previous Open
-- 11/05 10:32 [FirstSquawk] Hong Kong Technology Stocks Advance as Hang Seng Tech Index Climbs Over 2%
-- 11/05 10:41 [FirstSquawk] Melania Trump Receives Ukrainian Award From Zelensky for Brokering Oleshky Truce - SCMP
-- 11/05 10:43 [FirstSquawk] US Crude Futures Slide to $87.07/Bbl, Down $1.05
-- 11/05 10:44 [FirstSquawk] Brent Crude Declines $1.01 to $93.61 a Barrel
-- 11/05 10:46 [financialjuice] North Korea appears to have launched various types of missiles yesterday: South Korea defence ministry
-- 11/05 10:46 [FirstSquawk] South Korean Defence Ministry Reports Suspected Multiple Missile Launches by North Korea
-- 11/05 10:51 [FirstSquawk] Alibaba Shares Jump 6% on the Hong Kong Exchange
-- 11/05 10:55 [FirstSquawk] Binance’s Reported Hot Wallet Incident Had No Impact on Coinbase, Company Says
-- 11/05 10:56 [financialjuice] South Korea PM Han: No significant change expected in US ties after midterm election
-- 11/05 10:57 [FirstSquawk] South Korean PM Han Does Not Expect Major Shift in Ties With Washington After US Midterms
-- 11/05 11:00 [financialjuice] S.Korea foreign minister Cho: prepared for all possibilities in efforts to amend South Korea-US nuclear pact
-- 11/05 11:01 [FirstSquawk] South Korea Prepared for All Scenarios as It Seeks Changes to Nuclear Agreement With the US, Foreign Minister Says
-- 11/05 11:02 [FirstSquawk] Former Politburo Official Ma Xingrui Faces Corruption Charges in China, Xinhua Says
-- 11/05 11:05 [FirstSquawk] Indonesia’s Currency Advances to 18,060 per Dollar
-- 11/05 11:13 [FirstSquawk] Gold Advances Nearly 2% to $4,134.67/Oz, Extending Its Rally
-- 11/05 11:24 [FirstSquawk] Oil Prices Extend Losses on Growing Expectations of a Resolution to the Iran Conflict - WSJ
-- 11/05 11:29 [FirstSquawk] Taiwan Dollar Falls to 32.963 Against the US Dollar, Hitting a Low Not Seen Since April 9, 2025
-- 11/05 11:34 [financialjuice] China finance ministry auctions two-month deposits at 1.47% yield: statement
-- 11/05 11:36 [FirstSquawk] One-Month Deposits Auctioned by China’s Finance Ministry at 1.42% Yield
-- 11/05 11:43 [FirstSquawk] Sterling Makes Modest Gains, Trading Above 1.3450 Before BoE Decision - FX
-- 11/05 11:46 [FirstSquawk] Hong Kong Shares Rally, With the Hang Seng Index Up More Than 3%
 - 11/05 11:52 [FirstSquawk] Oil-Related and Data Centre Stocks Come Under Pressure After US Midterm Results - RTRS
 - 11/05 11:54 [financialjuice] Euro rises 0.25% to $1.1257
 - 11/05 11:54 [FirstSquawk] Euro Rises 0.25% Against the US Dollar to $1.1257
@@ -636,3 +537,130 @@
 - 11/06 06:40 [financialjuice] Trump ends remarks at the White House.
 - 11/06 06:41 [FirstSquawk] MACQUARIE GROUP H1 NET INCOME A$2.48 BLN, ABOVE ESTIMATE OF A$2.45 BLN, WITH AN INTERIM DIVIDEND OF A$3.25/SHARE, BELOW ESTIMATE OF A$3.50, AND THE COMPANY SAYS IT IS WORKING WITH APRA ON REMEDIATION OF PRUDENTIAL STANDARDS
 - 11/06 07:21 [FirstSquawk] US ENVOY KUSHNER: US TO CONVENE FIRST TRILATERAL PEACE TALKS WITH UKRAINE AND RUSSIA SINCE FEBRUARY IN ABU DHABI NEXT WEEK
+- 11/06 07:25 [financialjuice] Apple plans $7.5 billion note sale in seven tranches: term sheet seen by source
+- 11/06 07:29 [financialjuice] Rubio denies reports he'll quit roles to run for president - NYT
+- 11/06 07:30 [financialjuice] US Secretary of State Rubio: working for Trump through end of his term has always been my plan
+- 11/06 07:31 [FirstSquawk] U.S. SECRETARY OF STATE RUBIO DENIES REPORTS HE WILL QUIT HIS ROLES TO RUN FOR PRESIDENT, SAYING WORKING FOR TRUMP THROUGH THE END OF HIS TERM HAS ALWAYS BEEN HIS PLAN - NYT
+- 11/06 07:39 [DeItaone] RUBIO TELLS NYT: WORKING FOR TRUMP UNTIL END OF HIS TERM HAS “ALWAYS BEEN MY PLAN”
+- 11/06 07:45 [financialjuice] Amazon plans data center campus near Glen Rose on Vistra Corp land adjacent to Comanche Peak nuclear power plant
+- 11/06 07:46 [financialjuice] Amazon: project to create at least 550 full-time jobs with wages significantly exceeding county average
+- 11/06 08:19 [financialjuice] Trump: stock market endured one of worst days in history following election results
+- 11/06 08:20 [financialjuice] Trump: we will shortly, one way or another, be bigger and stronger than ever before
+- 11/06 08:20 [financialjuice] Major investors skeptical anthropic ipo can reach $1.5 trillion value: wsj
+- 11/06 08:33 [financialjuice] Some potential Anthropic investors aim for valuation of $1.5 trillion at the high end, sources say
+- 11/06 08:33 [financialjuice] Anthropic IPO may face delay amid AI-driven market selloff: potential investors
+- 11/06 08:35 [financialjuice] S.Korea finance minister: US midterm election a key turning point for global economic, trade landscape
+- 11/06 08:35 [financialjuice] S.Korea finmin: cannot dismiss spillover impact of US stock market slump on global markets
+- 11/06 08:36 [financialjuice] S.Korea finmin: to take necessary steps to prevent stock market from overreacting relative to fundamentals
+- 11/06 08:37 [financialjuice] S. Korea finmin: to track effect of US trade and industry policy shifts on domestic firms
+- 11/06 08:38 [FirstSquawk] TRUMP SAYS THE STOCK MARKET ENDURED ONE OF THE WORST DAYS IN HISTORY FOLLOWING THE ELECTION RESULTS, BUT THAT “WE WILL SHORTLY, ONE WAY OR ANOTHER, BE BIGGER AND STRONGER THAN EVER BEFORE”
+- 11/06 08:38 [financialjuice] S.Korea finance minister: to implement trade agreement with US and increase communication with Congress and state governments
+- 11/06 08:50 [financialjuice] JAPANESE FOREIGN BOND INVESTMENT ACTUAL 1,312.0B (FORECAST -, PREVIOUS -92.6B) $MACRO
+- 11/06 08:50 [financialjuice] FOREIGN INVESTMENT JAPANESE STOCKS ACTUAL 1,129.3B (FORECAST -, PREVIOUS 1,180.9B ,REVISION 1,182.2B) $MACRO
+- 11/06 08:51 [financialjuice] FOREIGN INVESTMENT JAPANESE BONDS ACTUAL 1,481.7B (FORECAST -, PREVIOUS 43.3B) $MACRO
+- 11/06 08:51 [financialjuice] JAPANESE FOREIGN STOCK INVESTMENT ACTUAL 1,077.7B (FORECAST -, PREVIOUS 288.1B) $MACRO
+- 11/06 08:52 [FirstSquawk] JAPAN EARLY TRADE: BENCHMARK 10-YEAR JGB FUTURES RISE 0.9 POINT, NIKKEI AVERAGE FUTURES FALL 7%
+- 11/06 08:53 [DeItaone] TEXAS GOVERNOR-ELECT GINA HINOJOSA: WE NEED TO STOP WHAT WE ARE DOING WITH DATA CENTERS UNTIL WE HAVE MEASURES TO PROTECT TEXANS-CNN INTERVIEW
+- 11/06 08:54 [DeItaone] JAPAN'S NIKKEI AVERAGE FUTURES DOWN 7% IN EARLY TRADE
+- 11/06 08:54 [FirstSquawk] U.S. ENVOY KUSHNER SAYS HE HELD PRODUCTIVE, SUBSTANTIVE TALKS WITH UKRAINE, NATO AND EUROPEAN PARTNERS, DISCUSSING SECURITY GUARANTEES FOR UKRAINE AND THE BROADER EUROPEAN SECURITY ARCHITECTURE
+- 11/06 08:54 [FirstSquawk] U.S. ENVOY KUSHNER SAYS THE U.S. WILL CONVENE THE FIRST TRILATERAL PEACE TALKS WITH UKRAINE AND RUSSIA SINCE FEBRUARY IN ABU DHABI NEXT WEEK
+- 11/06 08:54 [DeItaone] TEXAS GOVERNOR-ELECT GINA HINOJOSA: DON'T HATE DATA CENTERS, HATE HOW THEY ARE TAKING ADVANTAGE OF TEXANS-CNN INTERVIEW
+- 11/06 08:54 [DeItaone] TEXAS GOVERNOR-ELECT GINA HINOJOSA: WE CAN HAVE STRONG WORKING RELATIONSHIP WITH MUSK AND HIS COMPANIES ON OUR TERMS-CNN INTERVIEW
+- 11/06 08:55 [DeItaone] MAJOR INVESTORS ARE SKEPTICAL ANTHROPIC IPO CAN ACHIEVE $1.5 TRILLION VALUATION - WSJ
+- 11/06 08:55 [DeItaone] TRUMP: WE WILL SOON, ONE WAY OR OTHER, BE BIGGER AND STRONGER THAN EVER BEFORE
+- 11/06 08:56 [DeItaone] TRUMP: STOCK MARKET SUFFERED ONE OF WORST DAYS IN HISTORY BASED ON RESULTS OF ELECTION
+- 11/06 09:02 [FirstSquawk] THE WHITE HOUSE WARNED MORE THAN 3,000 CONSERVATIVE GROUPS THAT IT IS MONITORING THEIR PUBLIC STATEMENTS FOLLOWING REPUBLICANS’ CRUSHING MIDTERM DEFEAT, AS PROMINENT REPUBLICANS BLAME TRUMP’S TARIFFS AND THE IRAN WAR FOR LOSING CONTROL OF C…
+- 11/06 09:03 [FirstSquawk] THE ADMINISTRATION SAYS THE MEMO IS NOT A THREAT BUT AN EFFORT TO KEEP ITS INCREASINGLY DIVIDED CONSERVATIVE COALITION UNITED - WSJ
+- 11/06 09:05 [FirstSquawk] SOUTH KOREA’S KOSPI TUMBLED 8.8%, FALLING BACK BELOW THE 5,000 MILESTONE, WITH THE PLUNGE TRIGGERING A CIRCUIT BREAKER THAT HALTED TRADING FOR 8 MINUTES
+- 11/06 09:06 [FirstSquawk] REP. THOMAS MASSIE PLANS TO FORCE A HOUSE VOTE NEXT WEEK ON A SECOND EPSTEIN FILES BILL, SEEKING 218 SIGNATURES TO COMPEL A VOTE THE LEGISLATION WOULD ALLOW SURVIVORS TO ACCESS THEIR RECORDS, ENABLE STATE ATTORNEYS GENERAL TO PROSECUTE RELA…
+- 11/06 09:08 [financialjuice] Saudi civil defense issues advance alert in Najran region
+- 11/06 09:11 [financialjuice] Saudi civil defense: threat has ended in Najran region
+- 11/06 09:14 [FirstSquawk] MARCO RUBIO DEFENDED TRUMP’S WAR WITH IRAN DESPITE ACKNOWLEDGING ITS POLITICAL COSTS AND IMPACT ON FUEL PRICES, SAYING “HIGHER PRICES AT THE GAS PUMP, I ACKNOWLEDGE, IS NOT LIKE THE KIND OF THING YOU CAMPAIGN ON AND BRAG ABOUT” - NYT
+- 11/06 09:14 [FirstSquawk] RUBIO ARGUED THAT TRUMP “DESERVES A TREMENDOUS AMOUNT OF CREDIT” FOR TAKING ACTION DESPITE ITS UNPOPULARITY, ADDING THAT LEADERSHIP REQUIRES DOING THINGS THAT MAY NOT BE “POLITICALLY POPULAR OR EXPEDIENT” BUT ARE NECESSARY FOR THE COUNTRY’S…
+- 11/06 09:15 [DeItaone] JAPAN'S NIKKEI AVERAGE DOWN 5%
+- 11/06 09:16 [DeItaone] *JAPAN'S NIKKEI TRADES 20% BELOW JUNE PEAK AS AI SELLOFF DEEPENS
+- 11/06 09:19 [DeItaone] SOUTH KOREA’S KOSPI PLUNGES OVER 8%, TRIGGERING CIRCUIT BREAKER South Korea’s benchmark KOSPI index ($KS11) crashed more than 8% in early Friday trading, triggering a 20-minute market-wide trading halt. The sharp decline comes amid a broade…
+- 11/06 09:19 [FirstSquawk] Asia-Pacific equities slumped sharply on Thursday, erasing the post-election rally, as investors continued to reduce exposure to technology stocks amid fears that data-center expansion could lose momentum.
+- 11/06 09:20 [DeItaone] NASDAQ ERASES $2.5 TRILLION AS DEMOCRATIC SWEEP SPARKS AI SELLOFF The Nasdaq 100 plunged 6.4%, wiping out $2.5 trillion, while the Nasdaq Composite fell 5.5%, entering correction territory at nearly 12% below its October peak. Semiconductor…
+- 11/06 09:22 [financialjuice] China PBOC expected to fix yuan midpoint at 6.6762 per dollar: estimate
+- 11/06 09:23 [FirstSquawk] Nikkei average drops sharply by 6.2%.
+- 11/06 09:24 [DeItaone] JAPAN'S NIKKEI AVERAGE DOWN 6.2%
+- 11/06 09:25 [FirstSquawk] Tokyo Electron shares slide 13% in Tokyo trading.
+- 11/06 09:26 [FirstSquawk] SoftBank Group shares slide 14% in Tokyo trading.
+- 11/06 09:28 [FirstSquawk] IREN, backed by Nvidia, is running behind schedule on its major Texas data centre project following Microsoft's request for networking modifications to accommodate newer AI models. The delay highlights the technical challenges involved in s…
+- 11/06 09:28 [FirstSquawk] GOLD PARED GAINS AS INVESTORS SOLD THE METAL TO RAISE CASH AMID A BROADER TECHNOLOGY-LED MARKET SELLOFF. SPOT GOLD ROSE 0.9% TO $4,099.15 AN OUNCE, RETREATING FROM AN EARLIER 2.1% ADVANCE, WHILE A STRONGER DOLLAR LIMITED UPSIDE.
+- 11/06 09:29 [FirstSquawk] Gold maintains its upward momentum despite improving risk sentiment - WSJ
+- 11/06 09:29 [FirstSquawk] Spending by international students in Japan climbs to $4.3 billion as the yen remains weak.
+- 11/06 09:31 [FirstSquawk] 2-year Japanese government bond yield drops 6 bps to 1.795%.
+- 11/06 09:31 [financialjuice] Japan PM Takaichi: aware AI, chip shares dropping sharply, unsure if temporary or lasting
+- 11/06 09:32 [financialjuice] Japan PM Takaichi: Focus on measures to reinforce economy by enhancing areas with competitive edge
+- 11/06 09:32 [financialjuice] Japan PM Takaichi: market turbulence impacting not only Japan but nations worldwide, so monitoring progress closely
+- 11/06 09:32 [FirstSquawk] Japan's PM Takaichi acknowledges steep falls in AI and semiconductor shares, saying it remains unclear whether the selloff will be short-lived or continue.
+- 11/06 09:33 [FirstSquawk] Takaichi says Japan will focus on boosting industries where it has a competitive edge to strengthen economic growth.
+- 11/06 09:33 [FirstSquawk] Takaichi says global markets are experiencing volatility, with the impact extending beyond Japan, adding that developments are being watched carefully.
+- 11/06 09:34 [FirstSquawk] Japan Tobacco shares hit the daily lower limit as overwhelming sell orders prevent trading.
+- 11/06 09:37 [FirstSquawk] South Korea's Korea Exchange triggers a sidecar mechanism as KOSPI 200 futures plunge 5%, suspending programme trading for five minutes.
+- 11/06 09:42 [FirstSquawk] Jeffries demands increased House participation, opposing the Senate's proposed permitting deal - POLITICO
+- 11/06 09:44 [FirstSquawk] CNN: White House officials convene to assess the way forward following the Republicans' election defeat.
+- 11/06 09:44 [FirstSquawk] Japan and South Korea markets suffer steep losses as technology selloff gathers pace.
+- 11/06 09:46 [financialjuice] Japan PM Takaichi: aim to use proceeds from BoJ’s faster ETF sales to fund spending on key areas for Japan's economic security
+- 11/06 09:47 [financialjuice] Japan PM Takaichi: Proceeds from BoJ ETF sales reflect Japan's economic growth, should be used to promote further growth and a virtuous economic cycle
+- 11/06 09:48 [FirstSquawk] Takaichi wants revenue from the BOJ's faster ETF disposals to be used to finance investments in areas vital to Japan's economic security.
+- 11/06 09:48 [FirstSquawk] Takaichi says revenue from the BOJ's ETF disposals is a result of Japan's economic growth and should be used to generate further growth and strengthen the economic cycle.
+- 11/06 09:49 [DeItaone] *CHINA'S 10-YEAR BOND YIELD FALLS TO A RECORD LOW
+- 11/06 09:49 [financialjuice] Japan PM Takaichi: Proceeds from BoJ's accelerated ETF sales can fund bonds to help government secure funds for public spending targeting public investment
+- 11/06 09:49 [FirstSquawk] Takaichi says revenue generated from faster BOJ ETF sales could help cover bond payments, allowing the government to secure funding for public expenditure designed to encourage investment.
+- 11/06 09:50 [DeItaone] JAPAN PM TAKAICHI: AWARE AI, CHIP SHARES FALLING SHARPLY, HARD TO TELL WHETHER THIS WILL BE TEMPORARY OR COULD PERSIST
+- 11/06 09:50 [FirstSquawk] Euro Stoxx 50 futures fall 0.6%, while DAX futures retreat 0.55%, pointing to a lower start for European equities.
+- 11/06 09:51 [DeItaone] JAPAN’S PRIME MINISTER WARNS OF GLOBAL MARKET VOLATILITY Japanese Prime Minister Sanae Takaichi says Japan is closely monitoring global markets following the US midterm elections. Takaichi acknowledged sharp declines in AI and semiconductor…
+- 11/06 09:53 [DeItaone] TEXAS GOVERNOR-ELECT CALLS FOR HALT TO NEW DATA CENTERS Texas Governor-elect Gina Hinojosa wants data-center development paused until new laws protect residents. “We need to stop what we are doing with data centers until we have those prote…
+- 11/06 09:55 [FirstSquawk] Iran delivers nuclear proposal to Washington via Qatar, senior Iranian official tells Reuters.
+- 11/06 10:01 [DeItaone] TAIWAN STOCKS DROP MORE THAN 6%
+- 11/06 10:01 [FirstSquawk] Taiwanese equities slide sharply, falling more than 6%.
+- 11/06 10:02 [FirstSquawk] Taiwan's overnight interbank borrowing rate holds steady at 0.805% at the open.
+- 11/06 10:06 [FirstSquawk] RBNZ takes action against Westpac New Zealand Limited over an alleged DCS disclosure breach.
+- 11/06 10:14 [FirstSquawk] South Korean equities tumble at the open as AI fears intensify after U.S. midterms.
+- 11/06 10:16 [FirstSquawk] China's central bank fixes the yuan reference rate at 6.7168 against the U.S. dollar.
+- 11/06 10:22 [financialjuice] China cbank pumps 226 bln yuan via overnight reverse repos at 1.25%: statement
+- 11/06 10:23 [FirstSquawk] People's Bank of China injects 226 billion yuan into the banking system through overnight reverse repos at 1.25%.
+- 11/06 10:30 [FirstSquawk] SoftBank 5-year credit default swaps widen 22 bps to 466 bps, reaching their highest level since 2022 - RTRS
+- 11/06 10:30 [FirstSquawk] China's STAR and ChiNext artificial intelligence index poised for a sharp 6% drop at the open.
+- 11/06 10:32 [FirstSquawk] MSCI Chairman says the implementation of South Korea’s regulatory reforms is essential for its developed-market reclassification.
+- 11/06 10:34 [FirstSquawk] Taiwan's National Stabilization Fund is keeping a close watch on equity markets and international political and economic conditions, Deputy Finance Minister says
+- 11/06 10:34 [financialjuice] Taiwan deputy finance minister: fund may hold emergency meeting if market turns disorderly or confidence breaks down
+- 11/06 10:35 [FirstSquawk] Taiwan Deputy Finance Minister: Fund could call an extraordinary meeting to consider market-support measures if trading becomes disorderly or confidence collapses.
+- 11/06 10:36 [financialjuice] Taiwan deputy finance minister: Taiwan's fundamentals currently remain very strong, stable
+- 11/06 10:37 [financialjuice] World Liberty Financial: to introduce new WLFI token repurchase program
+- 11/06 10:37 [FirstSquawk] Taiwan's fundamentals are currently in a strong and stable position, Deputy Finance Minister says.
+- 11/06 10:38 [FirstSquawk] Taiwan's currency slides to 33.04 against the greenback.
+- 11/06 10:38 [financialjuice] World Liberty Financial: plan to finance buybacks with initial allocation possibly including fees from USD1 reserves and other sources
+- 11/06 10:39 [financialjuice] China's 10-year treasury futures hit record high in early trade
+- 11/06 10:39 [FirstSquawk] China’s 10-year sovereign bond futures reach a fresh record high in early trading.
+- 11/06 10:41 [financialjuice] Yield on China's 10-year government bonds falls to 1.581% in early trade, nearing record low
+- 11/06 10:42 [FirstSquawk] China's 10-year government bond yield declines to 1.581% in early trading, hovering near its historic low.
+- 11/06 10:47 [FirstSquawk] US equity futures rebound, with S&P 500 E-minis flat after wiping out losses and Nasdaq futures up 0.6%.
+- 11/06 10:47 [FirstSquawk] Nvidia CEO Jensen Huang summoned by US lawmakers amid concerns over Chinese espionage - FT
+- 11/06 10:58 [FirstSquawk] Hong Kong set to introduce AI facial recognition technology into its police CCTV network this month.
+- 11/06 11:02 [FirstSquawk] Singapore's benchmark equity index tumbles 2.7% to 5,152.29 points, hitting its lowest since June 18.
+- 11/06 11:03 [FirstSquawk] Indonesian stocks slide, with the benchmark index dropping 1.4% to 4,960.302.
+- 11/06 11:04 [FirstSquawk] Democrats Are Hatching A Plan To Reverse Trump’s Canada Tariffs – WSJ
+- 11/06 11:11 [FirstSquawk] Canadian dollar remains little changed amid a continued rebound in oil prices - FX
+- 11/06 11:17 [FirstSquawk] Japan Tobacco's assets in Russia come under local management following Putin's move. - KYODO
+- 11/06 11:23 [FirstSquawk] Asian markets slide sharply after technology stocks led losses in the US, amid fears that newly elected Democratic officials could curb the AI spending boom that has propelled global equities to record levels - CNN
+- 11/06 11:28 [FirstSquawk] Nasdaq futures jump over 1% as US equity futures recover following the AI rout.
+- 11/06 11:29 [FirstSquawk] Taiwan's stock market recovers some ground, with losses narrowing to 4.7%.
+- 11/06 11:31 [FirstSquawk] South Korea's benchmark index narrows its losses to 3.9% in the latest trading.
+- 11/06 11:36 [FirstSquawk] China’s benchmark coke futures climb 3.04% to 1,947.5 yuan/metric ton.
+- 11/06 11:37 [FirstSquawk] China adopts new anti-corruption legislation focused on cross-border cases, Xinhua reports.
+- 11/06 11:40 [financialjuice] S.Korea central bank announces sale of 91-day monetary stabilization bonds at 3.175% yield
+- 11/06 11:40 [FirstSquawk] South Korea's central bank sells 91-day stabilisation bonds, offering a yield of 3.175%.
+- 11/06 11:41 [financialjuice] S. Korea finmin: stock market overreacting to external factors
+- 11/06 11:42 [FirstSquawk] South Korea's Finance Minister says external factors are triggering an excessive reaction in the stock market.
+- 11/06 11:42 [financialjuice] S.Korea finance minister: necessary to be cautious of excessive worry given robust economic fundamentals
+- 11/06 11:43 [FirstSquawk] South Korea's Finance Minister pledges a proactive response to prevent further deterioration in market sentiment.
+- 11/06 11:43 [financialjuice] S.Korea finmin: to act proactively to avoid escalating market anxiety
+- 11/06 11:43 [FirstSquawk] South Korea's Finance Minister pledges heightened vigilance in monitoring the stock market.
+- 11/06 11:43 [financialjuice] S.Korea finance ministry: to watch stock market with utmost caution
+- 11/06 11:44 [financialjuice] S.Korea finmin: to relax rules on borrowed investment to reduce market volatility
+- 11/06 11:45 [FirstSquawk] South Korea plans to ease restrictions on borrowed investment as part of efforts to curb market volatility, FinMin says.
+- 11/06 11:45 [financialjuice] S.Korea finmin: will adopt more stabilizing measures if volatility rises further
