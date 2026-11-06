@@ -7,124 +7,220 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-11-06 18:57 JST／対象: 11/06 12:57 〜 11/06 18:57 JST（時刻はすべて日本時間）
+生成: 2026-11-07 02:21 JST／対象: 11/06 20:21 〜 11/07 02:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 0 | - | - | - |
-| FirstSquawk | 67 | 11/06 12:58 | 11/06 18:47 | ⚠ 51分（14:31→15:22） |
-| financialjuice | 37 | 11/06 13:19 | 11/06 18:42 | ⚠ 58分（14:34→15:32） |
+| DeItaone | 33 | 11/06 20:24 | 11/07 01:40 | ⚠ 76分（00:11→01:28） |
+| FirstSquawk | 44 | 11/06 20:24 | 11/07 02:08 | 40分（21:51→22:32） |
+| financialjuice | 128 | 11/06 20:29 | 11/07 02:13 | 33分（20:29→21:02） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 104 行（統合前 104 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 200 行（統合前 206 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/06 12:58 [FirstSquawk] US Stock Market Expected to Find It Difficult to Recover to October Peak - WSJ
-- 11/06 13:06 [FirstSquawk] Thai Inflation Surpasses Central Bank Target as Price Pressures Accelerate - WSJ
-- 11/06 13:07 [FirstSquawk] Japan’s benchmark TOPIX extends losses, falling over 6% to an April low.
-- 11/06 13:17 [FirstSquawk] North Korea Removes Parliamentary Vice Chairman, Revises Construction and Precious Metal Regulations - YONHAP
-- 11/06 13:19 [financialjuice] Russia hits power plant near Ukraine's Sumy: Russian newswires cite defence ministry
-- 11/06 13:27 [FirstSquawk] Japan’s Electric Vehicle Sales Cross 100,000 Units for the First Time in 2026
-- 11/06 13:34 [FirstSquawk] Russian Forces Hit Power Station Near Ukraine’s Sumy, According to Defence Ministry – Russian Newswires
-- 11/06 13:40 [FirstSquawk] EU-China Trade Truce Comes Under Threat as Both Sides Prepare for Possible Escalation - SCMP
-- 11/06 13:41 [FirstSquawk] Yuan Poses Challenge for China, Too Weak Overseas and Too Strong Domestically - RTRS
-- 11/06 13:48 [financialjuice] US judge temporarily halts Trump administration's start of triumphal arch construction
-- 11/06 13:50 [FirstSquawk] Trump Administration Barred Temporarily From Beginning Triumphal Arch Construction by US Judge
-- 11/06 13:58 [FirstSquawk] Russia Claims Strikes on Energy Infrastructure in Kyiv Region and Cargo Ship in Odesa Port.
-- 11/06 14:00 [financialjuice] Swedish single-family home prices rise 4.2% august-october vs year earlier, svensk maklarstatistik data shows
-- 11/06 14:00 [financialjuice] Swedish apartment prices rise 5.8% in August-October compared with year-earlier period, svensk maklarstatistik data shows
-- 11/06 14:07 [FirstSquawk] Iran Marks Trump’s Election Defeat as Negotiators Work Toward Agreement to End War – FT
-- 11/06 14:12 [FirstSquawk] Iran-Connected Ships Gather Near Submarine Cables Amid Threats – FT
-- 11/06 14:12 [FirstSquawk] UK Gas Demand Set to Rise Sharply Due to Expanding Data Centre Usage – FT
-- 11/06 14:13 [FirstSquawk] JLR Had Identified Range Rover Part Fault Years Before Broadening Recalls – FT
-- 11/06 14:13 [FirstSquawk] Accenture and Big Four Firms Move Into Smaller Markets as They Seek New Growth – FT
-- 11/06 14:25 [FirstSquawk] 2. Australia’s benchmark S&P/ASX 200 ends down 0.5% at 9,020.80.
-- 11/06 14:28 [financialjuice] -x tells Indian court police takedown orders sent to prominent free speech groups were forged
-- 11/06 14:31 [FirstSquawk] AUSTRALIA FOREIGN RESERVES OCT: A$107.3B (PREV A$109.7B)
-- 11/06 14:34 [financialjuice] Taiwan stocks end 4.5% lower after trimming early declines
-- 11/06 15:22 [FirstSquawk] Gold Falls Further Below $4,050 Amid a Firmer Dollar, With US Jobs Data in Focus – FXStreet
-- 11/06 15:32 [financialjuice] Elon Musk: Tesla to wind down Cybertruck production in Texas in mid-2027 $TSLA
-- 11/06 15:46 [FirstSquawk] Barclays Turns More Positive on Ryanair, Upgrading It to Overweight With a €29 Target.
-- 11/06 15:47 [FirstSquawk] Barclays Turns More Positive on Deutsche Lufthansa, Upgrading It to Equal-Weight With an €8.40 Target.
-- 11/06 16:00 [financialjuice] ❗ GERMAN INDUSTRIAL PRODUCTION YOY SA ACTUAL 0.4% (FORECAST 1.2%, PREVIOUS 2.33%) $MACRO
-- 11/06 16:00 [financialjuice] ❗ GERMAN INDUSTRIAL PRODUCTION MOM ACTUAL 0.7% (FORECAST -0.1%, PREVIOUS 2.0%) $MACRO
-- 11/06 16:01 [FirstSquawk] SWEDEN (OCT) BUDGET BALANCE ACTUAL: -14.5B VS -23.0B PREVIOUS
-- 11/06 16:01 [FirstSquawk] NORWAY (SEP) IND PROD MANUFACTURING WDA YOY ACTUAL: 1.3% VS 0.4% PREVIOUS
-- 11/06 16:02 [FirstSquawk] NORWAY (SEP) IND PROD MANUFACTURING MOM ACTUAL: 0.0% VS -0.4% PREVIOUS
-- 11/06 16:02 [FirstSquawk] NORWAY (SEP) INDUSTRIAL PRODUCTION WDA YOY ACTUAL: -1.8% VS -0.6% PREVIOUS
-- 11/06 16:02 [FirstSquawk] NORWAY (SEP) INDUSTRIAL PRODUCTION MOM ACTUAL: 1.0% VS 1.0% PREVIOUS
-- 11/06 16:02 [FirstSquawk] GERMANY (SEP) INDUSTRIAL PRODUCTION WDA YOY ACTUAL: 0.4% VS 2.3% PREVIOUS;EST 1.2%
-- 11/06 16:02 [FirstSquawk] GERMANY (SEP) INDUSTRIAL PRODUCTION SA MOM ACTUAL: 0.7% VS 2.0% PREVIOUS;EST -0.1%
-- 11/06 16:04 [FirstSquawk] SAUDI ARABIA: ISSUES ALERT OF POTENTIAL DANGER IN NAJRAN
-- 11/06 16:08 [FirstSquawk] CHINA'S HE LIFENG TO VISIT CANADA NOVMBER 9 FOR TRADE DIALOGUE
-- 11/06 16:10 [financialjuice] UK house prices fell 1.2% on year in October - Lloyds
-- 11/06 16:11 [financialjuice] Average UK house price in October was £296,285 vs £296,285 in September - Lloyds
-- 11/06 16:11 [financialjuice] UK housing demand is being tested by a challenging economic backdrop - Lloyds
-- 11/06 16:27 [FirstSquawk] IRGC NAVY: TWO TANKERS STRUCK MINES, CAUSING FIRES IN HORMUZ STRAIT
-- 11/06 16:28 [financialjuice] Iran's IRGC Navy: Two oil tankers catch fire while attempting to pass through the Strait of Hormuz - IRNA
-- 11/06 16:34 [FirstSquawk] QATAR EMIR GETS PHONE CALL FROM TRUMP
-- 11/06 16:37 [FirstSquawk] SAUDI-LED COALITION SAYS INTERCEPTS 2 MISSILES TARGETING NAJRAN
-- 11/06 16:38 [FirstSquawk] SAUDI-LED COALITION SAYS DEBRIS FELL DUE TO INTERCEPTION
-- 11/06 16:39 [financialjuice] Qatar Emir and Trump discuss de-escalation efforts in the Middle East
-- 11/06 16:39 [FirstSquawk] QATAR EMIR- TRUMP DISCUSS DE-ESCALATION EFFORTS IN MIDDLE EAST
-- 11/06 16:45 [financialjuice] FRENCH TRADE BALANCE SA ACTUAL -7.31398B (FORECAST -, PREVIOUS -6.12B) $MACRO
-- 11/06 16:45 [financialjuice] FRENCH CURRENT ACCOUNT ACTUAL -2.7B (FORECAST -, PREVIOUS -1.5B) $MACRO
-- 11/06 16:48 [FirstSquawk] QATAR'S EMIR STRESSES IMPORTANCE OF AVOIDING FURTHER ESCALATION, ENSURING FREEDOM OF NAVIGATION AND SECURITY OF ENERGY SUPPLIES IN CALL WITH TRUMP - QATARI STATEMENT
-- 11/06 16:49 [FirstSquawk] UKRAINE: RUSSIAN ATTACKS CAUSE NEW POWER OUTAGES IN 7 REGIONS, KYIV AREA WORST HIT
-- 11/06 16:52 [financialjuice] BoE Gov. Bailey: I don't agree we have got endemic inflation
-- 11/06 16:53 [FirstSquawk] BAILEY SAYS I DON'T AGREE WE HAVE GOT ENDEMIC INFLATION
-- 11/06 16:55 [FirstSquawk] BAILEY SAYS IF ENERGY PRICES REMAIN HIGH, ANOTHER HIKE POSSIBLE
-- 11/06 16:55 [financialjuice] BoE Gov. Bailey: Private wages at upper end range for inflation target
-- 11/06 16:55 [financialjuice] BoE Gov. Bailey: If energy prices remain high, another hike is possible
-- 11/06 16:58 [FirstSquawk] BAILEY SAYS PRIVATE WAGES AT UPPER END RANGE FOR INFLATION TARGET
-- 11/06 16:59 [FirstSquawk] BAILEY SAYS HACKS SHOW WE MUST UNDERSTAND AI FRONTIER MODELS WELL
-- 11/06 16:59 [FirstSquawk] BAILEY SAYS WE'RE VERY MUCH ON TOP OF CYBER RISKS
-- 11/06 17:00 [financialjuice] SWISS CONSUMER CONFIDENCE SA ACTUAL -44.9 (FORECAST -35.5, PREVIOUS -34) $MACRO
-- 11/06 17:01 [financialjuice] Currency Strength Chart: Strongest: USD, CHF, JPY, CAD, EUR, GBP, NZD, AUD - Weakest
-- 11/06 17:12 [financialjuice] Taiwan's economy ministry: Demand for applications such as artificial intelligence (AI), high-performance computing, and cloud services continues to expand
-- 11/06 17:25 [financialjuice] Ukraine said to confirm strike on Russia's Afipsky refinery
-- 11/06 17:40 [FirstSquawk] TAKAICHI SAYS FORMULATED EMERGENCY RESPONSE PACKAGE ON CYBERATTACKS
-- 11/06 17:56 [FirstSquawk] TAKAICHI SAYS CHINA IS AN IMPORTANT NEIGHBORING COUNTRY
-- 11/06 17:56 [FirstSquawk] TAKAICHI SAYS WILL SEEK TALKS TO PROTECT INTERESTS, BUILD RELATIONS
-- 11/06 17:56 [FirstSquawk] Copper Prices Fall as US Election Clouds AI Demand and Tariff Outlook Copper prices dropped to their lowest level since July, falling as much as 1.5% to around $13,642 per ton on the London Metal Exchange. The decline reflects growing conce…
-- 11/06 17:56 [FirstSquawk] TAKAICHI-TO ADVANCE MUTUALLY BENEFICIALLY RELATIONSHIP W/ CHINA
-- 11/06 17:56 [FirstSquawk] Treasury Traders Bet on Bond Rally Ahead of US Jobs Report US Treasury traders are positioning for further gains in government bonds ahead of the October employment report, as expectations of additional Federal Reserve interest-rate hikes c…
-- 11/06 17:57 [FirstSquawk] Oil Prices Fall as Hopes Grow for Middle East De-Escalation Oil prices declined as markets reacted to signs of renewed diplomatic efforts to reduce tensions in the Middle East. Brent crude fell below $98 per barrel after rising nearly 4% in…
-- 11/06 18:07 [financialjuice] China's Xi meets with Gabon president: state media
-- 11/06 18:17 [financialjuice] Tanzanian court: no proof to convict opposition leader Tundu Lissu of treason
-- 11/06 18:18 [financialjuice] World Bank: approves $500 million more for agro-climatic resilience project to aid Nigeria
-- 11/06 18:36 [financialjuice] Fed's Williams: US economy remarkably resilient.
-- 11/06 18:36 [financialjuice] Fed's Williams: Growth has strengthened.
-- 11/06 18:36 [financialjuice] Fed's Williams: US facing unusual shocks to demand, supply.
-- 11/06 18:36 [financialjuice] Fed's Williams: Remarkably stable and solid labour market.
-- 11/06 18:37 [financialjuice] Fed's Williams: We've seen tariffs effect work way through, mostly now behind us.
-- 11/06 18:38 [financialjuice] Fed's Williams: Energy passing through to inflation as expected.
-- 11/06 18:39 [financialjuice] Fed's Williams: Inflation expectations well anchored.
-- 11/06 18:40 [financialjuice] Fed's Williams: Wage growth consistent with 2% goal.
-- 11/06 18:40 [financialjuice] Fed's Williams: This is appropriate time to gather more info.
-- 11/06 18:41 [financialjuice] ECB's Lane: Energy inflation is going to influence wage negotiations and setting of prices across economy.
-- 11/06 18:42 [financialjuice] ECB's Lane: Fiscal policy has been more expansive than expected but we expect tightening next year and after.
-- 11/06 18:45 [FirstSquawk] FED'S WILLIAMS SAYS US ECONOMY IS REMARKABLY STRONG.
-- 11/06 18:46 [FirstSquawk] FED'S WILLIAMS SAYS ECONOMIC GROWTH HAS IMPROVED.
-- 11/06 18:46 [FirstSquawk] FED'S WILLIAMS STATES LABOR MARKET IS STRONG AND CONSISTENT.
-- 11/06 18:46 [FirstSquawk] FED'S WILLIAMS SAYS INFLATION LEVELS ARE STILL TOO HIGH FOR AN EXTENDED PERIOD.
-- 11/06 18:46 [FirstSquawk] FED'S WILLIAMS STATES THAT THE IMPACT OF TARIFFS IS Mostly COMPLETE AND WE ARE PAST IT NOW.
-- 11/06 18:46 [FirstSquawk] FED'S WILLIAMS STATED THAT ENERGY COSTS ARE REFLECTING IN AIRFARE PRICES AS ANTICIPATED.
-- 11/06 18:46 [FirstSquawk] FED'S WILLIAMS SAYS AI HAS A LIMITED IMPACT ON PRICES, LIKE CHIPS.
-- 11/06 18:46 [FirstSquawk] FED'S WILLIAMS STATED THAT AI HAS HAD A LIMITED IMPACT ON PRICES, LIKE CHIPS.
-- 11/06 18:46 [FirstSquawk] FED'S WILLIAMS EMPHASIZED THE IMPORTANCE OF ACHIEVING A 2% INFLATION RATE PROMPTLY.
-- 11/06 18:46 [FirstSquawk] FED'S WILLIAMS SAYS MONETARY POLICY EFFECTS TAKE 1-2 YEARS, NEED TO FOCUS ON FUTURE.
-- 11/06 18:46 [FirstSquawk] FED'S WILLIAMS SAYS INFLATION EXPECTATIONS ARE STABLE AND WAGE GROWTH IS ON TRACK WITH TARGET.
-- 11/06 18:46 [FirstSquawk] FED'S WILLIAMS SAYS NOW IS A GOOD TIME TO GATHER MORE DATA.
-- 11/06 18:46 [FirstSquawk] ECB'S LANE STATES ENERGY INFLATION WILL AFFECT WAGE TALKS AND PRICE SETTINGS IN THE ECONOMY.
-- 11/06 18:46 [FirstSquawk] ECB'S LANE SAYS MONETARY POLICY'S ROLE IS TO CONTROL SPILLOVER EFFECTS.
-- 11/06 18:46 [FirstSquawk] ECB'S LANE STATED THE NEED FOR INFLATION TO RETURN TO TARGET WITHIN ONE TO TWO YEARS.
-- 11/06 18:46 [FirstSquawk] ECB'S LANE SAYS FINANCIAL CONDITIONS HAVE BECOME TIGHTER.
-- 11/06 18:46 [FirstSquawk] ECB’S LANE SAYS STRONG EXPORTS PROVIDE A WELCOME BOOST.
-- 11/06 18:46 [FirstSquawk] ECB'S LANE SAYS FISCAL POLICY WAS MORE STRETCHED THAN ANTICIPATED, BUT TIGHTENING IS EXPECTED NEXT YEAR AND BEYOND.
-- 11/06 18:47 [FirstSquawk] ECB'S LANE SUGGESTS COLLECTING DATA UNTIL DECEMBER BEFORE DECIDING ON ACTIONS.
+- 11/06 20:24 [FirstSquawk] XI SAYS- CHINA WANTS TO EXPAND COOPERATION WITH AUSTRIA: CCTV
+- 11/06 20:24 [DeItaone] STARLINK AND ONEWEB SATELLITE COMMUNICATIONS SERVICES POSE RISKS OF DESTABILISING THE SOCIO-POLITICAL SITUATION IN SOVEREIGN COUNTRIES, RIA CITES RUSSIAN SECURITY COUNCIL
+- 11/06 20:28 [DeItaone/financialjuice] IRAN NOT SATISFIED WITH 'PAPER COMMITMENTS', MUST SEE PRACTICAL US MOVES BEFORE ANY DIPLOMACY - DEPUTY HEAD OF IRAN'S TOP SECURITY BODY TELLS STATE TV
+- 11/06 20:40 [FirstSquawk] DEPUTY HEAD OF IRAN'S TOP SECURITY BODY: IRAN NOT SATISFIED WITH 'PAPER COMMITMENTS', MUST SEE PRACTICAL US MOVES BEFORE ANY DIPLOMACY – STATE TV
+- 11/06 20:55 [FirstSquawk] Moderna Q3 Earnings: - Rev: $1.31B (est $888.1M) - EPS: 38c (est loss/shr $1.09) - R&D Expenses: $583M (est $750M) - Total Operating Expenses: $1.18B (est $1.37B) - Cash & Cash Equivalents: $1.20B (est $1.37B) - Sees FY Capex: $200M (prev s…
+- 11/06 20:57 [DeItaone] US CHIP STOCKS SURGE AS PREMARKET REBOUND ACCELERATES Semiconductor stocks extend Friday's premarket gains: 🔸 $MU: +9.2% 🔸 $AMD: +8.3% 🔸 $ARM: +7.4% 🔸 $INTC: +6.2% 🔸 $NVDA: +5.0% 🔸 $AVGO: +4.9% 🔸 $QCOM: +3.4% 🔸 $SOXX: +5.9%
+- 11/06 21:00 [DeItaone] $TSLA - TESLA TO END CYBERTRUCK PRODUCTION IN MAJOR AI PIVOT Elon Musk announced Tesla will wind down Cybertruck production by mid-2027, freeing capacity at Gigafactory Texas for Cybercab robotaxi production. The Cybertruck fell far short o…
+- 11/06 21:02 [DeItaone] TRUMP ON AI: WILL WORK WITH MANY STATES IN U.S. THAT WANT TO BECOME RICH BY HAVING THEM
+- 11/06 21:02 [financialjuice] Trump: As president, I am 100% in favor of Super Intelligence (SI), and will work with the many states in the US
+- 11/06 21:04 [FirstSquawk] TRUMP: 100% IN FAVOR OF AI
+- 11/06 21:04 [DeItaone] TRUMP BACKS AI SUPERINTELLIGENCE 100% Trump declares full support for Super Intelligence (SI), pledging to work with US states embracing the technology. He calls it “GOLD” and says only “foolish leadership” would reject its economic potenti…
+- 11/06 21:05 [DeItaone] GOLDMAN SACHS SLASHES GOLD PRICE FORECASTS Goldman Sachs cuts its gold targets following the Fed's hawkish shift: 🔸 End-2026: $4,150, down from $4,650 🔸 End-2027: $4,800, down from $5,400 Goldman expects a December rate hike, with potential…
+- 11/06 21:05 [FirstSquawk] TRUMP SAYS 100% IN FAVOR OF AI
+- 11/06 21:05 [FirstSquawk] TRUMP SAYS ONLY FOOLISH LEADERSHIP' WILL SAY `NO' TO AI
+- 11/06 21:10 [financialjuice] UKMTO gets report of incident 16nm east of Oman's Khasab
+- 11/06 21:29 [FirstSquawk] CHINA SIGNS MOU WITH GABON ON DEBT, FINANCE AND EQUITY
+- 11/06 21:29 [DeItaone] UBS WARNS NASDAQ FUTURES REBOUND MAY BE MISLEADING Nasdaq futures are rising after Thursday's AI-driven selloff, but UBS strategist Gerry Fowler warns more selling could follow. US trend-following quant funds remain heavily exposed to equit…
+- 11/06 21:36 [DeItaone] US AND IRAN NEAR POTENTIAL BREAKTHROUGH IN PEACE TALKS The US and Iran are moving closer to a potential agreement to end the war, according to Bloomberg. Tehran is reportedly willing to discuss nuclear issues previously considered off-limit…
+- 11/06 21:41 [financialjuice] BoE's Pill: Decision to raise rates preemptive in character
+- 11/06 21:42 [financialjuice] BoE's Pill: Different camps and different nuances around the decision
+- 11/06 21:43 [financialjuice] BoE's Pill: Activity and employment adding to demand at the margin
+- 11/06 21:43 [financialjuice] BoE's Pill: Pipeline pressure in system from energy prices.
+- 11/06 21:44 [financialjuice] BoE's Pill: We are not going to repeat 2022 rate-hiking cycle.
+- 11/06 21:47 [financialjuice] BoE's Pill: Nothing baked in for interest rates next year, outlook becomes more uncertain from Spring.
+- 11/06 21:49 [financialjuice] BoE's Pill: It's possible that the bank rate would stay on hold or even fall if we saw stalling of growth next year
+- 11/06 21:50 [financialjuice] BoE's Pill: Key determinant will be the margin squeeze on companies and how companies react
+- 11/06 21:50 [FirstSquawk] BOE'S PILL: SHORT OF EVIDENCE OF SECOND-ROUND EFFECTS; DECISION TO RAISE RATES PREEMPTIVE IN CHARACTER; DIFFERENT CAMPS, DIFFERENT NUANCES AROUND DECISION; ACTIVITY, EMPLOYMENT ADDING TO DEMAND AT THE MARGIN; PIPELINE PRESSURE IN SYSTEM FRO…
+- 11/06 21:50 [FirstSquawk] BOE'S PILL: NOT GOING TO REPEAT 2022 RATE-HIKING CYCLE; NOT GOING TO REPEAT 2022 RATE-HIKING CYCLE; QUESTON OVER WHETHER RESILIENCE WILL BE SUSTAINED; PATH OF RATES FROM SPRING WILL BE DATA-DRIVEN; WILL SEE EVIDENCE ON 2ND-ROUND EFFECTS FRO…
+- 11/06 21:51 [FirstSquawk] BOE'S PILL: DECISION ON 2ND HIKE TO PLAY OUT IN NEXT FEW WEEKS; CLEARER NEXT YEAR WHAT BALANCE OF RISKS ARE; COULD SEE INFLATION PRESSURES BUILD MORE, OR EASE
+- 11/06 21:51 [financialjuice] BoE's Pill: Growth sustained by AI is 'somewhat encouraging"
+- 11/06 21:56 [financialjuice] Morning Juice - US Session Prep (6th November)
+- 11/06 21:59 [financialjuice] BoE's Pill: If growth stalls, rates on hold or cut is possible
+- 11/06 21:59 [financialjuice] Secured Overnight Financing Rate 3.92% November 5 vs 3.94% November 4.
+- 11/06 22:00 [financialjuice] BoE's Pill: We are putting weight on pay bargaining, costs, pricing.
+- 11/06 22:05 [DeItaone] Tasnim: "Unconfirmed reports of a U.S. aircraft being targeted off the coast of Oman."
+- 11/06 22:05 [financialjuice] BoE's Pill: No evidence in margins and wage setting of 2nd-round effects
+- 11/06 22:12 [financialjuice] UK's PM Burnham: I'm prepared to take difficult decisions on benefits
+- 11/06 22:13 [financialjuice/DeItaone] Investors said to discuss Anthropic IPO value of $1.2t-$1.3t
+- 11/06 22:19 [DeItaone] BUNKER HILL COMPLETES MERGER WITH SILVER47. PORTFOLIO NOW INCLUDES ONE PRODUCING MINE AMONG FOUR U.S. SILVER AND CRITICAL MINERAL PROJECTS. BUNKER HILL TOTAL RESOURCE INVENTORY: 80 MILLION OUNCES SILVER EQUIVALENT M&I AND 308 MILLION OUNCES…
+- 11/06 22:21 [financialjuice] UK's PM Burnham: Won't go for crude spending cuts or chasing numbers
+- 11/06 22:22 [DeItaone] U.S. October Nonfarm Payrolls Due 8:30 a.m. ET U.S. October Unemployment Rate Due 8:30 a.m. ET
+- 11/06 22:22 [financialjuice] One seafarer dead in the November 5th explosion on a Greek-operated oil products tanker in the Gulf, tanker was likely struck by unidentified missile - Greek operator
+- 11/06 22:23 [DeItaone] Softbank in discussions to invest hundreds of millions in OpenAI's latest funding round - NYT DealBook
+- 11/06 22:25 [DeItaone] YARDENI CALLS MARKET SELLOFF A BUYING OPPORTUNITY Yardeni Research says Thursday's sharp selloff was overdone, despite growing political opposition to AI infrastructure. 🔸 S&P 500: -4.4% 🔸 Nasdaq: -5.5%, entering correction territory 🔸 45% …
+- 11/06 22:30 [financialjuice] CANADIAN AVERAGE HOURLY EARNINGS YOY ACTUAL 2% (FORECAST 2.05%, PREVIOUS 2.30%) $MACRO
+- 11/06 22:30 [financialjuice] ❗ CANADIAN UNEMPLOYMENT RATE ACTUAL 6.7% (FORECAST 6.5%, PREVIOUS 6.5%) $MACRO
+- 11/06 22:30 [financialjuice] ❗ CANADIAN EMPLOYMENT CHANGE ACTUAL -4.7K (FORECAST 15K, PREVIOUS -68.3K) $MACRO
+- 11/06 22:30 [financialjuice] US AVERAGE WORKWEEK HRS ACTUAL 34.4 (FORECAST 34.4, PREVIOUS 34.4) $MACRO
+- 11/06 22:30 [financialjuice] ‼ BREAKING: US NONFARM PAYROLLS ACTUAL 165K (FORECAST 70K, PREVIOUS 29K) $MACRO
+- 11/06 22:31 [financialjuice] ❗ US UNEMPLOYMENT RATE ACTUAL 4.1% (FORECAST 4.2%, PREVIOUS 4.2%) $MACRO
+- 11/06 22:31 [DeItaone] US JOBS REPORT SMASHES EXPECTATIONS US employers added 165,000 jobs in October, nearly triple the 59,000 expected. 🔸 Nonfarm payrolls: +165K vs. +59K expected 🔸 Unemployment: 4.1% vs. 4.2% expected 🔸 Private payrolls: +159K 🔸 Wage growth: +…
+- 11/06 22:31 [financialjuice] US AVERAGE EARNINGS MOM ACTUAL 0.4% (FORECAST 0.3%, PREVIOUS 0.1%) $MACRO
+- 11/06 22:31 [financialjuice] ❗ US AVERAGE EARNINGS YOY ACTUAL 3.1% (FORECAST 2.9%, PREVIOUS 3.0%) $MACRO
+- 11/06 22:31 [financialjuice] US PRIVATE PAYROLLS ACTUAL 159K (FORECAST 65K, PREVIOUS 46K) $MACRO
+- 11/06 22:31 [financialjuice] US LABOR FORCE PARTICIPATION ACTUAL 61.9% (FORECAST 61.8%, PREVIOUS 61.8%) $MACRO
+- 11/06 22:31 [financialjuice] US MANUFACTURING PAYROLLS ACTUAL 19K (FORECAST 7K, PREVIOUS 9K) $MACRO
+- 11/06 22:31 [financialjuice] US Employment Situation October 2026 Report
+- 11/06 22:32 [FirstSquawk] US UNEMPLOYMENT RATE (OCT) ACTUAL: 4.1% VS 4.2% PREVIOUS; EST 4.2%
+- 11/06 22:32 [FirstSquawk] US AVERAGE HOURLY EARNINGS (MOM) (OCT) ACTUAL: 0.4% VS 0.1% PREVIOUS; EST 0.3%
+- 11/06 22:32 [DeItaone] US OCT. NONFARM PAYROLLS RISE 165,000 M/M; EST. +70K US OCT. UNEMPLOYMENT RATE 4.1%; EST. 4.2% US OCT. TWO-MONTH PAYROLL NET REVISION ADDS 84,000
+- 11/06 22:32 [FirstSquawk] US NONFARM PAYROLLS (OCT) ACTUAL: 165K VS 29K PREVIOUS; EST 70K
+- 11/06 22:32 [DeItaone] US TREASURY YIELDS EXTEND RISE AFTER JOBS DATA; 10-YEAR YIELD LAST UP 6.3 BPS AT 4.898%
+- 11/06 22:32 [financialjuice] Traders add to bets on December Fed interest-rate hike.
+- 11/06 22:33 [financialjuice] Canadian Employment Change October 2026 Report
+- 11/06 22:35 [DeItaone] US JOBS REPORT SMASHES FORECASTS — FED RATE HIKE ODDS IN FOCUS The US economy added 165,000 jobs in October, nearly triple the 59,000 expected, while unemployment fell to 4.1%, beating the 4.2% consensus. 🔸 Nonfarm payrolls: +165K vs. +59K …
+- 11/06 22:37 [DeItaone] US JOBS SURGE. FED HIKE ODDS REBOUND. October payrolls jumped 165,000, nearly triple the 59,000 forecast, while unemployment fell to 4.1%. Prediction markets now price a 79% chance of a December Fed hike, up from 67%, with hold odds retreat…
+- 11/06 22:44 [DeItaone] RETAIL INVESTORS BOUGHT THE DIP IN FINAL MINUTES OF MARKET ROUT US retail investors staged a dramatic buying reversal late Thursday, according to Vanda Research. 🔸 Net retail selling: $151 million by the close 🔸 2020 pandemic record: $502 m…
+- 11/06 22:54 [financialjuice] Bank of Canada December rate hike chances fall to roughly 32% from 40% after jobs report - Swaps Data
+- 11/06 22:56 [financialjuice] NATO reconnaissance aircraft detected near Russia's Kaliningrad region for third time since Monday - TASS Cites Source in Air Traffic Control Services.
+- 11/06 22:59 [financialjuice] Effective Fed Funds Rate 3.88% November 5 vs 3.88% November 4.
+- 11/06 23:01 [DeItaone] IRAN'S REVOLUTIONARY GUARDS SAY THEY SHOT DOWN A US MQ-1 DRONE OVER QESHM ISLAND - FARS NEWS AGENCY
+- 11/06 23:01 [FirstSquawk] IRAN'S REVOLUTIONARY GUARDS SAY THEY SHOT DOWN A US MQ-1 DRONE OVER QESHM ISLAND - FARS
+- 11/06 23:01 [financialjuice] Iran's Revolutionary Guards: Shot down a US MQ-1 drone over Qeshm island - Fars News Agency
+- 11/06 23:02 [financialjuice] TSMC weighs making advanced memory chips - Information.
+- 11/06 23:03 [financialjuice] Amazon launches text-based Alexa for shopping in US.
+- 11/06 23:03 [financialjuice] TSMC making plans for 3D DRAM at request of NVIDIA - Information.
+- 11/06 23:06 [financialjuice] TSMC Weighs Making Advanced Memory Chips to Capture More AI Spending - The Information $TSM
+- 11/06 23:07 [DeItaone] ANTHROPIC IPO VALUATION SLASHED AFTER AI SELLOFF Anthropic’s potential valuation has fallen from as high as $2 trillion to $1.2–$1.3 trillion amid a historic tech rout. Yet prediction markets still price a 79% chance of an IPO announcement …
+- 11/06 23:10 [financialjuice] Fed's Musalem does not comment on economic outlook or monetary policy in prepared remarks.
+- 11/06 23:12 [DeItaone] HASSETT: PLENTY OF ROOM FOR DATA CENTER GROWTH TO CONTINUE -CNBC
+- 11/06 23:12 [financialjuice] WH Sr. Adviser Hassett: Plenty of room for data center growth to continue - CNBC.
+- 11/06 23:12 [financialjuice] WH Sr. Adviser Hassett: Trump respects localities that don't want data centers
+- 11/06 23:13 [financialjuice/FirstSquawk] ECB mulls review of bank loans to data centers.
+- 11/06 23:13 [FirstSquawk] WHITE HOUSE ECONOMIC DIRECTOR HASSETT: PLENTY OF ROOM FOR DATA CENTER GROWTH TO CONTINUE -CNBC
+- 11/06 23:13 [FirstSquawk] HASSETT: WE WANT COMMUNITIES TO DECIDE ON DATA CENTERS -CNBC
+- 11/06 23:16 [DeItaone] ECB CONSIDERS REVIEW OF BANKS' AI DATA-CENTER LENDING The European Central Bank is considering a review of banks' exposure to data-center financing, Bloomberg reports. Senior ECB officials have discussed the proposal internally and with sup…
+- 11/06 23:16 [financialjuice] WH Sr. Adviser Hassett: I am looking at last three months of runaway job growth.
+- 11/06 23:17 [financialjuice] WH Sr. Adviser Hassett: AI bubble is actually a worthy concern.
+- 11/06 23:17 [financialjuice] WH Sr. Adviser Hassett: We can still have blockbuster economy even data centers slow down.
+- 11/06 23:18 [DeItaone] HASSETT ON FED: INFLATION SHOULD BE DECELERATING -CNBC
+- 11/06 23:18 [financialjuice] Iranians prepare for fire, fury and nuclear fallout at Pickaxe Mountain - The Times
+- 11/06 23:19 [financialjuice] WH Sr. Adviser Hassett, on Fed: Inflation should be decelerating - CNBC.
+- 11/06 23:20 [financialjuice] WH Sr. Adviser Hassett: Trump is excited about deal made with Intel.
+- 11/06 23:20 [financialjuice] WH Sr. Adviser Hassett: Reassuring to see Intel turn around sharply over time.
+- 11/06 23:21 [FirstSquawk] HASSETT SAYS LOOKING AT LAST THREE MONTHS OF RUNAWAY JOB GROWTH
+- 11/06 23:21 [FirstSquawk] HASSETT: CAN STILL HAVE BLOCKBUSTER ECONOMY EVEN DATA CENTERS SLOW DOWN -CNBC
+- 11/06 23:21 [FirstSquawk] WHITE HOUSE ECONOMIC DIRECTOR HASSETT ON FED: INFLATION SHOULD BE DECELERATING -CNBC
+- 11/06 23:21 [FirstSquawk] HASSETT SAYS TRUMP IS EXCITED ABOUT DEAL MADE WITH INTEL
+- 11/06 23:21 [FirstSquawk] HASSETT SAYS REASSURING TO SEE INTEL TURN AROUND SHARPLY OVER TIME
+- 11/06 23:21 [DeItaone] HASSETT, ASKED ABOUT US GOV'T SELLING INTEL: HAS BEEN REASSURING TO SEE COMPANY TURN AROUND SHARPLY -CNBC
+- 11/06 23:22 [financialjuice] WH Sr. Adviser Hassett: Intel performance is good news for chip market.
+- 11/06 23:23 [financialjuice] WH Sr. Adviser Hassett: I acknowledges "hiccups" in chip firms in recent weeks.
+- 11/06 23:28 [FirstSquawk] NEC HASSETT: INTEL PERFORMANCE IS GOOD NEWS FOR CHIP MARKET
+- 11/06 23:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -179.1 MLN NASDAQ 100: -18.2 MLN DOW 30: -15.7 MLN MAG 7: -0.8 MLN $MACRO
+- 11/06 23:32 [FirstSquawk] DOW JONES DOWN 486.37 POINTS, OR 0.94 %, AT 51,036.69 AFTER MARKET OPEN S&P 500 UP 19.44 POINTS, OR 0.26 PERCENT, AT 7,373.17 AFTER MARKET OPEN NASDAQ UP 299.54 POINTS, OR 1.23 PERCENT, AT 24,614.53 AFTER MARKET OPEN
+- 11/06 23:38 [DeItaone/financialjuice] FED'S MUSALEM: PEOPLE REMAIN CONCERNED ABOUT INFLATION AT THE CURRENT LEVEL
+- 11/06 23:38 [financialjuice] ❗ An Iranian source to Al Arabiya: We are engaging positively with the latest proposal submitted by the mediators.
+- 11/06 23:39 [FirstSquawk] IRANIAN OFFICIAL: IRAN ENGAGING POSITIVELY WITH LATEST MEDIATOR PROPOSAL
+- 11/06 23:39 [financialjuice] WH Sr. Adviser Hassett: Data is strong on growth, inflation decelerating
+- 11/06 23:39 [financialjuice] Fed's Musalem: Inflation expectations remain anchored.
+- 11/06 23:40 [financialjuice] Tehran awaits practical steps from Washington to build trust - Al Arabiya citing Iranian source
+- 11/06 23:40 [financialjuice] WH Sr. Adviser Hassett: I don't think we have a policy change we need to plan.
+- 11/06 23:40 [FirstSquawk] IRANIAN SOURCE: CONFIDENCE-BUILDING STEPS WITH US MUST BE MUTUAL
+- 11/06 23:40 [financialjuice] An Iranian source tells Al Arabiya: No restrictions have been imposed on Ghalibaf in managing the negotiations.
+- 11/06 23:40 [FirstSquawk] IRANIAN SOURCE: NO RESTRICTIONS ON QALIBAF IN MANAGING NEGOTIATIONS
+- 11/06 23:40 [financialjuice] We are open to negotiations that ensure the realization of our legitimate demands - Al Arabiya, citing an Iranian source
+- 11/06 23:40 [financialjuice] Fed's Musalem: Must return inflation to 2% on a timely basis
+- 11/06 23:42 [financialjuice] WH Sr. Adviser Hassett: Top-line inflation is being driven by energy and Iran
+- 11/06 23:42 [financialjuice] Fed's Musalem: Excess inflation today is coming from energy shocks and the AI buildout.
+- 11/06 23:42 [financialjuice] Fed's Musalem: Consumption and investment are both growing at a fast rate based on an optimistic outlook
+- 11/06 23:42 [financialjuice] Fed's Musalem: AI will bring much higher productivity
+- 11/06 23:43 [financialjuice] Fed's Musalem: Data center build-out contributing to strong demand
+- 11/06 23:43 [FirstSquawk] NASDAQ 100 RISES 2%, S&P 500 GAINS 0.8%
+- 11/06 23:44 [DeItaone] IRAN SIGNALS PROGRESS IN US NEGOTIATIONS Iranian sources say Tehran is responding positively to the latest proposal submitted by mediators, according to Al Arabiya. Iran remains open to negotiations but insists that Washington take concrete…
+- 11/06 23:44 [financialjuice] WH Sr. Adviser Hassett: Trump will read the report and decide on Fed's Cook
+- 11/06 23:47 [FirstSquawk] FED'S MUSALEM: EXCESS INFLATION COMING FROM BOTH SUPPLY AND DEMAND AI WILL BRING MUCH HIGHER PRODUCTIVITY DATA CENTER BUILD-OUT CONTRIBUTING TO STRONG DEMAND
+- 11/06 23:48 [financialjuice] WH Sr. Adviser Hassett: We have a job market hitting on all cylinders.
+- 11/06 23:52 [financialjuice] Fed's Musalem: Good Fed comms leads to smoother policy transmission
+- 11/06 23:54 [FirstSquawk] NVIDIA SHARES RISE AS MUCH AS 7.3%; FELL 9.3% ON THURSDAY
+- 11/06 23:58 [FirstSquawk] NEC’S HASSETT: WE HAVE A JOBS MARKET HITTING ON ALL CYLINDERS
+- 11/07 00:00 [financialjuice] UNIVERSITY MICHIGAN CONDITION PRELIM ACTUAL 51 (FORECAST 47, PREVIOUS 46.7) $MACRO
+- 11/07 00:00 [financialjuice] UNIVERSITY MICHIGAN 1 YR INFLATION PRELIM ACTUAL 4.3% (FORECAST 4.6%, PREVIOUS 4.7%) $MACRO
+- 11/07 00:00 [financialjuice] UNIVERSITY MICHIGAN EXPECTATIONS PRELIM ACTUAL 50.9 (FORECAST 49, PREVIOUS 48.8) $MACRO
+- 11/07 00:00 [financialjuice] ‼ BREAKING: UNIVERSITY MICHIGAN SENTIMENT PRELIM ACTUAL 51 (FORECAST 48, PREVIOUS 48.0) $MACRO
+- 11/07 00:00 [financialjuice] UNIVERSITY MICHIGAN 5 YR INFLATION PRELIM ACTUAL 3.4% (FORECAST 3.5%, PREVIOUS 3.5%) $MACRO
+- 11/07 00:00 [DeItaone] US CONSUMER SENTIMENT BEATS EXPECTATIONS AS INFLATION FEARS EASE University of Michigan consumer sentiment rose to 51.0 in November, beating expectations of 48.0. 🔸 Consumer sentiment: 51.0 vs. 48.0 expected 🔸 Current conditions: 51.0 vs. 4…
+- 11/07 00:00 [financialjuice] CANADIAN IVEY PMI ACTUAL 58.3 (FORECAST -, PREVIOUS 58.2) $MACRO
+- 11/07 00:00 [financialjuice] University of Michigan Sentiment November Report
+- 11/07 00:02 [financialjuice] Canadian Ivey PMI October Report
+- 11/07 00:11 [DeItaone/FirstSquawk] TESLA: LAUNCHING IN ARGENTINA ON NOVEMBER 20, 2026
+- 11/07 00:14 [FirstSquawk] PULSE BIOSCIENCES – STRONG THYROID TREATMENT RESULTS $PLSE 86% of patients achieved over 50% thyroid nodule volume reduction at six months. Median nodule volume reduction reached an impressive 72%. Significant improvements reported in patie…
+- 11/07 00:17 [financialjuice] Fear and Greed Index: 25/100 = Extreme Fear
+- 11/07 00:27 [financialjuice] Morgan's Stanley Day: Low single-digit percentage of portfolio at high AI risk
+- 11/07 00:37 [FirstSquawk] MORGAN STANLEY BDC’S DAY: LOW SINGLE DIGIT PERCENTAGE OF PORTFOLIO AT HIGH AI RISK
+- 11/07 00:39 [FirstSquawk] RUSSIA IN TALKS TO SUPPLY S-400 AIR DEFENCE SYSTEMS TO IRAN - TELEGRAPH
+- 11/07 00:40 [financialjuice] Oil tanker sinking in the Strait of Hormuz after being targeted - Iran's Sepah News
+- 11/07 00:42 [FirstSquawk] EU FOREIGN POLICY CHIEF KALLAS: ANY PEACE DEAL ON UKRAINE WILL NEED EUROPEAN UNION TO BE A PART OF THIS
+- 11/07 00:46 [financialjuice] The PBOC is to keep cracking down on crypto-related activities
+- 11/07 00:51 [financialjuice] BoJ's Governor Ueda Speaks - WATCH LIVE " title="YouTube video player
+- 11/07 00:53 [financialjuice] IMF's Managing Director Georgieva: The current time is particularly important for central bankers, requiring the ability to see through uncertainty.
+- 11/07 00:54 [financialjuice] IMF's Managing Director Georgieva: AI investment boom and high valuations are impacting markets around the world.
+- 11/07 00:54 [financialjuice] IMF Chief Georgieva: Should there be a slowdown in AI-driven growth impulse, it would need to be a factor for central banks as they assess steps in the fight against inflation
+- 11/07 00:55 [financialjuice] IMF Chief Georgieva: large and rising global imbalances remain a matter of concern
+- 11/07 00:55 [financialjuice] IMF Chief Georgieva: Market volatility on AI likely to continue
+- 11/07 00:56 [financialjuice] French Energy Ministry: 3.6 million barrels of diesel have been sold out of the French strategic reserves to date
+- 11/07 00:56 [financialjuice] IMF Chief Georgieva: Widening imbalances have often been accompanied by fragile growth, and in some cases, have preceded financial crises
+- 11/07 00:59 [financialjuice] The Times of Israel reported, citing an American official and a diplomat familiar with the matter: Iranian negotiators are reviewing proposals under which the Islamic Republic would limit its nuclear program.
+- 11/07 01:00 [FirstSquawk] IRAN REVIEWING PROPOSALS TO CURB NUKE PROGRAM AFTER LONG REFUSING TO DISCUSS ISSUE, SOURCES SAY – TIMES OF ISRAEL
+- 11/07 01:00 [financialjuice] Iran reviewing proposals to curb nuke program after long refusing to discuss issue — sources to ToI
+- 11/07 01:00 [financialjuice] BoJ's Governor Ueda: Japan's current account underwent a striking shift
+- 11/07 01:00 [financialjuice] BoJ's Governor Ueda: Japan current account is now driven by income flows
+- 11/07 01:02 [financialjuice] The proposals stop short of complete dismantlement, but do address Iran’s stockpile of highly enriched uranium, the diplomat familiar with the talks adds, saying that the offers would see Iran receive significant sanctions relief from the U…
+- 11/07 01:03 [financialjuice] BoJ's Governor Ueda doesn't comment on the economy or policy outlook in his speech
+- 11/07 01:12 [FirstSquawk] FRENCH FIN MIN: DIESEL SALE PART OF 10M BARREL STOCK RELEASE PIAN
+- 11/07 01:13 [financialjuice] Musk: Government revenue will be less than 10% of SpaceX revenue this quarter $SPCX
+- 11/07 01:14 [FirstSquawk] ECB KNOT AND DE COS ARE THE ONLY TWO CANDIDATES FOR ECB PRESIDENT
+- 11/07 01:15 [financialjuice] ECB's Knot and ECB's De Cos are the only two candidates for ECB president
+- 11/07 01:26 [financialjuice] BoJ's Governor Ueda: Expects rising domestic investment in Japan, but the extent is very uncertain
+- 11/07 01:27 [financialjuice] OpenAI CFO: We will keep investing in AI data centers despite the election results - CNBC.
+- 11/07 01:28 [DeItaone] OPENAI WILL KEEP INVESTING IN AI DATA CENTERS DESPITE ELECTION RESULTS, CFO TELLS CNBC
+- 11/07 01:31 [FirstSquawk] BOJ CHIEF UEDA: EXPECTS RISING DOMESTIC INVESTMENT IN JAPAN, BUT EXTENT IS VERY UNCERTAIN
+- 11/07 01:31 [financialjuice] IMF's Managing Director Georgieva: The BoJ's policy normalization has been impressively smooth.
+- 11/07 01:32 [financialjuice] BoJ's Governor Ueda: Policy normalization is aimed at price stability
+- 11/07 01:34 [financialjuice] BoJ's Governor Ueda: Underlying inflation reached 2% for the first time in decades
+- 11/07 01:35 [financialjuice] BoJ's Governor Ueda: If monetary policy normalization is achieved, nominal variables will be less of an impediment to official resource allocation.
+- 11/07 01:35 [financialjuice] BoJ's Governor Ueda: The general mood on inflation is that there is a lot remaining to do.
+- 11/07 01:35 [financialjuice] BoJ's Governor Ueda: It is necessary to keep inflation at 2%
+- 11/07 01:36 [financialjuice] BoJ's Governor Ueda: We are in equilibrium with wages growing at a level consistent with 2% inflation
+- 11/07 01:37 [FirstSquawk] BOJ'S UEDA: 2% INFLATION HASN'T QUITE BECOME SOCIAL NORM YET
+- 11/07 01:37 [financialjuice] BoJ's Governor Ueda: We haven't heard significant complaints about higher interest rates
+- 11/07 01:39 [financialjuice] BoJ's Governor Ueda: Real rates haven't gone up as much.
+- 11/07 01:40 [DeItaone] OPENAI CFO CONFIRMS FUNDRAISING TALKS AT ALMOST A 50% LIFT IN VALUATION FROM THE ROUND CLOSED IN MARCH - CNBC INTERVIEW
+- 11/07 01:41 [financialjuice] BoJ's Governor Ueda: Unconventional policy had some positive effects.
+- 11/07 01:41 [financialjuice] BoJ's Governor Ueda: If there are big shocks, the bank may be forced to use unconventional policy
+- 11/07 01:42 [financialjuice] BoJ's Governor Ueda: Unconventional monetary policy tools have had some positive effects, but they are not perfect substitutes for rate cuts from positive territory.
+- 11/07 01:43 [financialjuice] BoJ's Governor Ueda: If we need to deploy unconventional tools again, we should think about ways to minimize negative effects:
+- 11/07 01:44 [FirstSquawk] UEDA: UPSIDE RISKS TO 2% INFLATION
+- 11/07 01:44 [financialjuice] BoJ's Governor Ueda: Consumer prices are now around 3% and expected to rise further into early next year
+- 11/07 01:44 [financialjuice] BoJ's Governor Ueda: Underlying inflation will likely stay around 2%, but we recognize there are some upside risks
+- 11/07 01:45 [financialjuice] BoJ's Governor Ueda: We look at the actions of other central banks very, very carefully, as they affect asset prices, including exchange rates and interest rates
+- 11/07 01:46 [financialjuice] BoJ's Governor Ueda: In general, AI has been a positive demand shock for our economy, and we will have to look at supply-side factors as well
+- 11/07 01:48 [financialjuice] BoJ's Governor Ueda: Japan may do well on AI replacing labor because there are significant labour shortages
+- 11/07 01:50 [financialjuice] BoJ's Governor Ueda: We've been identifying vulnerable areas, including some small banks, small firms that have not done enough to protect against cyber risks
+- 11/07 01:50 [financialjuice] BoJ's Governor Ueda: There's been a sharp rise in Japan cyber attacks in the past 1-2 months.
+- 11/07 01:52 [financialjuice] BoJ's Governor Ueda: We are discussing communication by the central bank, but don't have a formal commitment yet
+- 11/07 01:54 [FirstSquawk] BOJ CHIEF UEDA: WE LOOK AT THE ACTIONS OF OTHER CENTRAL BANKS VERY VERY CAREFULLY AS THEY AFFECT ASSET PRICES INCLUDING EXCHANGE RATES, INTEREST RATES
+- 11/07 01:56 [financialjuice] BoJ's Governor Ueda speaking engagement at the IMF in Washington concludes
+- 11/07 01:56 [financialjuice] Trump Heads to Florida After Departure From Washington - WATCH LIVE
+- 11/07 02:08 [FirstSquawk] OPENAI CFO CONFIRMS FUNDRAISING TALKS AT ALMOST A 50% LIFT IN VALUATION FROM THE ROUND CLOSED IN MARCH - CNBC
+- 11/07 02:13 [financialjuice] Fed's Bowman Speaks - Rgister Here
