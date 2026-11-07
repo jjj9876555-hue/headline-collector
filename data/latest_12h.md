@@ -7,105 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-11-07 07:12 JST／対象: 11/06 19:12 〜 11/07 07:12 JST（時刻はすべて日本時間）
+生成: 2026-11-07 10:55 JST／対象: 11/06 22:55 〜 11/07 10:55 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 59 | 11/06 20:01 | 11/07 06:23 | ⚠ 91分（04:51→06:22） |
-| FirstSquawk | 72 | 11/06 19:56 | 11/07 05:22 | 40分（21:51→22:32） |
-| financialjuice | 188 | 11/06 19:12 | 11/07 07:08 | 43分（06:18→07:01） |
+| DeItaone | 41 | 11/06 23:01 | 11/07 10:01 | ⚠ 214分（06:23→09:57） |
+| FirstSquawk | 76 | 11/06 23:01 | 11/07 10:53 | ⚠ 246分（05:22→09:28） |
+| financialjuice | 163 | 11/06 22:56 | 11/07 10:13 | ⚠ 73分（08:16→09:29） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 310 行（統合前 320 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 273 行（統合前 281 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/06 19:12 [financialjuice] Russia's Putin and Iran's security council secretary discussed the Middle East - RIA
-- 11/06 19:40 [financialjuice] Iran needs practical US steps for diplomacy to progress - IRIB
-- 11/06 19:52 [financialjuice] Germany's Merz held a call with Trump - German government spokesperson
-- 11/06 19:56 [FirstSquawk] 6.0 MAG. EARTHQUAKE OFF EAST COAST OF HONSHU JAPAN - GFZ
-- 11/06 20:01 [DeItaone] US CHIP STOCKS SURGE AS AI SECTOR REBOUNDS FROM BRUTAL SELLOFF Semiconductor stocks rallied sharply in Friday's premarket, with the iShares Semiconductor ETF up nearly 5% and Nasdaq 100 futures gaining 1.3%. Lam Research +9%, Micron +7.5%, …
-- 11/06 20:04 [FirstSquawk] Humana Q3 2026 Earnings - Q3 Adj Loss/Share: 70c (est $1.01) - Q3 Rev: $41.16B - Sees FY Adj EPS: At Least $9.50 (est $9.14; prev At Least $9)
-- 11/06 20:04 [DeItaone] https://t.co/yyU5qmEpsn
-- 11/06 20:13 [financialjuice] Kazakhstan: Oil exports to Germany won't resume by the end of 2026 - IFX
-- 11/06 20:13 [DeItaone] S&P 500 FUTURES FACE FURTHER DOWNSIDE AS BEARISH SIGNALS INTENSIFY S&P 500 E-mini futures broke below key support at 7,386, confirming an acceleration of the bearish trend that began October 6. Downside targets: 7,317, 7,240 and 7,176. Init…
-- 11/06 20:15 [DeItaone] *KAZAKHSTAN: OIL EXPORTS TO GERMANY WON'T RESUME BY END-2026:IFX
-- 11/06 20:16 [financialjuice] China’s President Xi: To expand NEV and AI cooperation with Austria - CCTV
-- 11/06 20:17 [DeItaone] PROTESTERS STORM MICROSOFT DATA CENTER IN THE NETHERLANDS Around 100 protesters entered Microsoft's data center near Amsterdam on Friday, opposing the expansion of AI infrastructure. Activists from Geef Tegengas accused AI data centers of c…
-- 11/06 20:18 [DeItaone] SOFTBANK PLUNGES 59% AS DEBT-FUELED AI BETS UNRAVEL SoftBank shares fell another 10.8% Friday, extending losses to 59% since early June. The company added $40.4 billion in debt over 12 months to fund AI investments, including $64 billion in…
-- 11/06 20:20 [financialjuice] China to improve capital market stabilization system - CCTV
-- 11/06 20:24 [FirstSquawk] XI SAYS- CHINA WANTS TO EXPAND COOPERATION WITH AUSTRIA: CCTV
-- 11/06 20:24 [DeItaone] STARLINK AND ONEWEB SATELLITE COMMUNICATIONS SERVICES POSE RISKS OF DESTABILISING THE SOCIO-POLITICAL SITUATION IN SOVEREIGN COUNTRIES, RIA CITES RUSSIAN SECURITY COUNCIL
-- 11/06 20:28 [DeItaone/financialjuice] IRAN NOT SATISFIED WITH 'PAPER COMMITMENTS', MUST SEE PRACTICAL US MOVES BEFORE ANY DIPLOMACY - DEPUTY HEAD OF IRAN'S TOP SECURITY BODY TELLS STATE TV
-- 11/06 20:40 [FirstSquawk] DEPUTY HEAD OF IRAN'S TOP SECURITY BODY: IRAN NOT SATISFIED WITH 'PAPER COMMITMENTS', MUST SEE PRACTICAL US MOVES BEFORE ANY DIPLOMACY – STATE TV
-- 11/06 20:55 [FirstSquawk] Moderna Q3 Earnings: - Rev: $1.31B (est $888.1M) - EPS: 38c (est loss/shr $1.09) - R&D Expenses: $583M (est $750M) - Total Operating Expenses: $1.18B (est $1.37B) - Cash & Cash Equivalents: $1.20B (est $1.37B) - Sees FY Capex: $200M (prev s…
-- 11/06 20:57 [DeItaone] US CHIP STOCKS SURGE AS PREMARKET REBOUND ACCELERATES Semiconductor stocks extend Friday's premarket gains: 🔸 $MU: +9.2% 🔸 $AMD: +8.3% 🔸 $ARM: +7.4% 🔸 $INTC: +6.2% 🔸 $NVDA: +5.0% 🔸 $AVGO: +4.9% 🔸 $QCOM: +3.4% 🔸 $SOXX: +5.9%
-- 11/06 21:00 [DeItaone] $TSLA - TESLA TO END CYBERTRUCK PRODUCTION IN MAJOR AI PIVOT Elon Musk announced Tesla will wind down Cybertruck production by mid-2027, freeing capacity at Gigafactory Texas for Cybercab robotaxi production. The Cybertruck fell far short o…
-- 11/06 21:02 [DeItaone] TRUMP ON AI: WILL WORK WITH MANY STATES IN U.S. THAT WANT TO BECOME RICH BY HAVING THEM
-- 11/06 21:02 [financialjuice] Trump: As president, I am 100% in favor of Super Intelligence (SI), and will work with the many states in the US
-- 11/06 21:04 [FirstSquawk] TRUMP: 100% IN FAVOR OF AI
-- 11/06 21:04 [DeItaone] TRUMP BACKS AI SUPERINTELLIGENCE 100% Trump declares full support for Super Intelligence (SI), pledging to work with US states embracing the technology. He calls it “GOLD” and says only “foolish leadership” would reject its economic potenti…
-- 11/06 21:05 [DeItaone] GOLDMAN SACHS SLASHES GOLD PRICE FORECASTS Goldman Sachs cuts its gold targets following the Fed's hawkish shift: 🔸 End-2026: $4,150, down from $4,650 🔸 End-2027: $4,800, down from $5,400 Goldman expects a December rate hike, with potential…
-- 11/06 21:05 [FirstSquawk] TRUMP SAYS 100% IN FAVOR OF AI
-- 11/06 21:05 [FirstSquawk] TRUMP SAYS ONLY FOOLISH LEADERSHIP' WILL SAY `NO' TO AI
-- 11/06 21:10 [financialjuice] UKMTO gets report of incident 16nm east of Oman's Khasab
-- 11/06 21:29 [FirstSquawk] CHINA SIGNS MOU WITH GABON ON DEBT, FINANCE AND EQUITY
-- 11/06 21:29 [DeItaone] UBS WARNS NASDAQ FUTURES REBOUND MAY BE MISLEADING Nasdaq futures are rising after Thursday's AI-driven selloff, but UBS strategist Gerry Fowler warns more selling could follow. US trend-following quant funds remain heavily exposed to equit…
-- 11/06 21:36 [DeItaone] US AND IRAN NEAR POTENTIAL BREAKTHROUGH IN PEACE TALKS The US and Iran are moving closer to a potential agreement to end the war, according to Bloomberg. Tehran is reportedly willing to discuss nuclear issues previously considered off-limit…
-- 11/06 21:41 [financialjuice] BoE's Pill: Decision to raise rates preemptive in character
-- 11/06 21:42 [financialjuice] BoE's Pill: Different camps and different nuances around the decision
-- 11/06 21:43 [financialjuice] BoE's Pill: Activity and employment adding to demand at the margin
-- 11/06 21:43 [financialjuice] BoE's Pill: Pipeline pressure in system from energy prices.
-- 11/06 21:44 [financialjuice] BoE's Pill: We are not going to repeat 2022 rate-hiking cycle.
-- 11/06 21:47 [financialjuice] BoE's Pill: Nothing baked in for interest rates next year, outlook becomes more uncertain from Spring.
-- 11/06 21:49 [financialjuice] BoE's Pill: It's possible that the bank rate would stay on hold or even fall if we saw stalling of growth next year
-- 11/06 21:50 [financialjuice] BoE's Pill: Key determinant will be the margin squeeze on companies and how companies react
-- 11/06 21:50 [FirstSquawk] BOE'S PILL: SHORT OF EVIDENCE OF SECOND-ROUND EFFECTS; DECISION TO RAISE RATES PREEMPTIVE IN CHARACTER; DIFFERENT CAMPS, DIFFERENT NUANCES AROUND DECISION; ACTIVITY, EMPLOYMENT ADDING TO DEMAND AT THE MARGIN; PIPELINE PRESSURE IN SYSTEM FRO…
-- 11/06 21:50 [FirstSquawk] BOE'S PILL: NOT GOING TO REPEAT 2022 RATE-HIKING CYCLE; NOT GOING TO REPEAT 2022 RATE-HIKING CYCLE; QUESTON OVER WHETHER RESILIENCE WILL BE SUSTAINED; PATH OF RATES FROM SPRING WILL BE DATA-DRIVEN; WILL SEE EVIDENCE ON 2ND-ROUND EFFECTS FRO…
-- 11/06 21:51 [FirstSquawk] BOE'S PILL: DECISION ON 2ND HIKE TO PLAY OUT IN NEXT FEW WEEKS; CLEARER NEXT YEAR WHAT BALANCE OF RISKS ARE; COULD SEE INFLATION PRESSURES BUILD MORE, OR EASE
-- 11/06 21:51 [financialjuice] BoE's Pill: Growth sustained by AI is 'somewhat encouraging"
-- 11/06 21:56 [financialjuice] Morning Juice - US Session Prep (6th November)
-- 11/06 21:59 [financialjuice] BoE's Pill: If growth stalls, rates on hold or cut is possible
-- 11/06 21:59 [financialjuice] Secured Overnight Financing Rate 3.92% November 5 vs 3.94% November 4.
-- 11/06 22:00 [financialjuice] BoE's Pill: We are putting weight on pay bargaining, costs, pricing.
-- 11/06 22:05 [DeItaone] Tasnim: "Unconfirmed reports of a U.S. aircraft being targeted off the coast of Oman."
-- 11/06 22:05 [financialjuice] BoE's Pill: No evidence in margins and wage setting of 2nd-round effects
-- 11/06 22:12 [financialjuice] UK's PM Burnham: I'm prepared to take difficult decisions on benefits
-- 11/06 22:13 [financialjuice/DeItaone] Investors said to discuss Anthropic IPO value of $1.2t-$1.3t
-- 11/06 22:19 [DeItaone] BUNKER HILL COMPLETES MERGER WITH SILVER47. PORTFOLIO NOW INCLUDES ONE PRODUCING MINE AMONG FOUR U.S. SILVER AND CRITICAL MINERAL PROJECTS. BUNKER HILL TOTAL RESOURCE INVENTORY: 80 MILLION OUNCES SILVER EQUIVALENT M&I AND 308 MILLION OUNCES…
-- 11/06 22:21 [financialjuice] UK's PM Burnham: Won't go for crude spending cuts or chasing numbers
-- 11/06 22:22 [DeItaone] U.S. October Nonfarm Payrolls Due 8:30 a.m. ET U.S. October Unemployment Rate Due 8:30 a.m. ET
-- 11/06 22:22 [financialjuice] One seafarer dead in the November 5th explosion on a Greek-operated oil products tanker in the Gulf, tanker was likely struck by unidentified missile - Greek operator
-- 11/06 22:23 [DeItaone] Softbank in discussions to invest hundreds of millions in OpenAI's latest funding round - NYT DealBook
-- 11/06 22:25 [DeItaone] YARDENI CALLS MARKET SELLOFF A BUYING OPPORTUNITY Yardeni Research says Thursday's sharp selloff was overdone, despite growing political opposition to AI infrastructure. 🔸 S&P 500: -4.4% 🔸 Nasdaq: -5.5%, entering correction territory 🔸 45% …
-- 11/06 22:30 [financialjuice] CANADIAN AVERAGE HOURLY EARNINGS YOY ACTUAL 2% (FORECAST 2.05%, PREVIOUS 2.30%) $MACRO
-- 11/06 22:30 [financialjuice] ❗ CANADIAN UNEMPLOYMENT RATE ACTUAL 6.7% (FORECAST 6.5%, PREVIOUS 6.5%) $MACRO
-- 11/06 22:30 [financialjuice] ❗ CANADIAN EMPLOYMENT CHANGE ACTUAL -4.7K (FORECAST 15K, PREVIOUS -68.3K) $MACRO
-- 11/06 22:30 [financialjuice] US AVERAGE WORKWEEK HRS ACTUAL 34.4 (FORECAST 34.4, PREVIOUS 34.4) $MACRO
-- 11/06 22:30 [financialjuice] ‼ BREAKING: US NONFARM PAYROLLS ACTUAL 165K (FORECAST 70K, PREVIOUS 29K) $MACRO
-- 11/06 22:31 [financialjuice] ❗ US UNEMPLOYMENT RATE ACTUAL 4.1% (FORECAST 4.2%, PREVIOUS 4.2%) $MACRO
-- 11/06 22:31 [DeItaone] US JOBS REPORT SMASHES EXPECTATIONS US employers added 165,000 jobs in October, nearly triple the 59,000 expected. 🔸 Nonfarm payrolls: +165K vs. +59K expected 🔸 Unemployment: 4.1% vs. 4.2% expected 🔸 Private payrolls: +159K 🔸 Wage growth: +…
-- 11/06 22:31 [financialjuice] US AVERAGE EARNINGS MOM ACTUAL 0.4% (FORECAST 0.3%, PREVIOUS 0.1%) $MACRO
-- 11/06 22:31 [financialjuice] ❗ US AVERAGE EARNINGS YOY ACTUAL 3.1% (FORECAST 2.9%, PREVIOUS 3.0%) $MACRO
-- 11/06 22:31 [financialjuice] US PRIVATE PAYROLLS ACTUAL 159K (FORECAST 65K, PREVIOUS 46K) $MACRO
-- 11/06 22:31 [financialjuice] US LABOR FORCE PARTICIPATION ACTUAL 61.9% (FORECAST 61.8%, PREVIOUS 61.8%) $MACRO
-- 11/06 22:31 [financialjuice] US MANUFACTURING PAYROLLS ACTUAL 19K (FORECAST 7K, PREVIOUS 9K) $MACRO
-- 11/06 22:31 [financialjuice] US Employment Situation October 2026 Report
-- 11/06 22:32 [FirstSquawk] US UNEMPLOYMENT RATE (OCT) ACTUAL: 4.1% VS 4.2% PREVIOUS; EST 4.2%
-- 11/06 22:32 [FirstSquawk] US AVERAGE HOURLY EARNINGS (MOM) (OCT) ACTUAL: 0.4% VS 0.1% PREVIOUS; EST 0.3%
-- 11/06 22:32 [DeItaone] US OCT. NONFARM PAYROLLS RISE 165,000 M/M; EST. +70K US OCT. UNEMPLOYMENT RATE 4.1%; EST. 4.2% US OCT. TWO-MONTH PAYROLL NET REVISION ADDS 84,000
-- 11/06 22:32 [FirstSquawk] US NONFARM PAYROLLS (OCT) ACTUAL: 165K VS 29K PREVIOUS; EST 70K
-- 11/06 22:32 [DeItaone] US TREASURY YIELDS EXTEND RISE AFTER JOBS DATA; 10-YEAR YIELD LAST UP 6.3 BPS AT 4.898%
-- 11/06 22:32 [financialjuice] Traders add to bets on December Fed interest-rate hike.
-- 11/06 22:33 [financialjuice] Canadian Employment Change October 2026 Report
-- 11/06 22:35 [DeItaone] US JOBS REPORT SMASHES FORECASTS — FED RATE HIKE ODDS IN FOCUS The US economy added 165,000 jobs in October, nearly triple the 59,000 expected, while unemployment fell to 4.1%, beating the 4.2% consensus. 🔸 Nonfarm payrolls: +165K vs. +59K …
-- 11/06 22:37 [DeItaone] US JOBS SURGE. FED HIKE ODDS REBOUND. October payrolls jumped 165,000, nearly triple the 59,000 forecast, while unemployment fell to 4.1%. Prediction markets now price a 79% chance of a December Fed hike, up from 67%, with hold odds retreat…
-- 11/06 22:44 [DeItaone] RETAIL INVESTORS BOUGHT THE DIP IN FINAL MINUTES OF MARKET ROUT US retail investors staged a dramatic buying reversal late Thursday, according to Vanda Research. 🔸 Net retail selling: $151 million by the close 🔸 2020 pandemic record: $502 m…
-- 11/06 22:54 [financialjuice] Bank of Canada December rate hike chances fall to roughly 32% from 40% after jobs report - Swaps Data
 - 11/06 22:56 [financialjuice] NATO reconnaissance aircraft detected near Russia's Kaliningrad region for third time since Monday - TASS Cites Source in Air Traffic Control Services.
 - 11/06 22:59 [financialjuice] Effective Fed Funds Rate 3.88% November 5 vs 3.88% November 4.
 - 11/06 23:01 [DeItaone] IRAN'S REVOLUTIONARY GUARDS SAY THEY SHOT DOWN A US MQ-1 DRONE OVER QESHM ISLAND - FARS NEWS AGENCY
@@ -334,3 +252,48 @@
 - 11/07 07:01 [financialjuice] Anthropic to start IPO roadshow next week: the information
 - 11/07 07:01 [financialjuice] Iran's semi-official Tasnim news agency: initial reports suggest two missiles hit Qeshm Island; no official confirmation
 - 11/07 07:08 [financialjuice] Iran state broadcaster cites informed source: two blasts heard near Suza area in Qeshm Island, no casualty reports
+- 11/07 07:44 [financialjuice] Paraguay prosecutor's office issues arrest warrant for Santiago Pena
+- 11/07 07:44 [financialjuice] Paraguay prosecutor's office issues arrest warrant for former central bank chief
+- 11/07 07:50 [financialjuice] Paraguay's Pedro Alliana sworn in as president, replacing Santiago Pena following impeachment
+- 11/07 08:03 [financialjuice] Iran's military: U.S. MQ-9 drone downed over Qeshm island - state media
+- 11/07 08:08 [financialjuice] Paraguay's Santiago Peña detained, local media ABC reports
+- 11/07 08:16 [financialjuice] Trump: US will host largest air show worldwide in two years
+- 11/07 09:28 [FirstSquawk] Axios, citing U.S. officials: Trump is open to pursuing a diplomatic solution with Iran for now.
+- 11/07 09:29 [FirstSquawk] Vance informed Trump that he intended to attribute the election defeat to the war before announcing his stance, WSJ reports, citing U.S. officials.
+- 11/07 09:29 [financialjuice] Trump: negotiating with Iranians, will see how that plays out
+- 11/07 09:30 [FirstSquawk] Netanyahu is pushing for another round of military strikes on Iran, WSJ reports.
+- 11/07 09:30 [FirstSquawk] Rubio and Bessent advocate tightening sanctions while keeping the blockade on Iranian trade in place, according to WSJ.
+- 11/07 09:31 [financialjuice] Trump: anticipate very few departures from cabinet
+- 11/07 09:36 [financialjuice] Trump: Iran constructed ‘small anti-aircraft system,’ and we destroyed it
+- 11/07 09:37 [financialjuice] Trump: Russia and Ukraine seek to reach settlement
+- 11/07 09:42 [FirstSquawk] WSJ: Trump faces divisions within his advisory team over whether to end the conflict with Iran or resume military action.
+- 11/07 09:43 [FirstSquawk] Trump's advisers remain split as pressure grows for him to choose between ending the war with Iran and renewing military escalation, WSJ reports.
+- 11/07 09:50 [FirstSquawk] Google executive Donald Harrison departs SpaceX's board - RTRS
+- 11/07 09:51 [financialjuice] Qatar's PM: Mediation efforts continue to prevent situation from spiraling out of control - Al Jazeera TV
+- 11/07 09:53 [financialjuice] Qatar's PM: U.S. government still open to finding solution after midterm elections
+- 11/07 09:56 [financialjuice] Qatar's PM: We have achieved a lot and believe a settlement is possible
+- 11/07 09:57 [DeItaone] QATAR'S PM SAYS MEDIATION EFFORTS CONTINUE TO PREVENT SITUATION FROM SPIRALLING OUT OF CONTROL-AL JAZEERA TV
+- 11/07 09:57 [DeItaone] QATAR'S PM SAYS U.S. ADMINISTRATION REMAINS WILLING TO SEEK SOLUTION EVEN AFTER MIDTERM ELECTIONS
+- 11/07 09:58 [DeItaone] QATAR'S PM : WE HAVE ACCOMPLISHED A GREAT DEAL AND I BELIEVE WE CAN REACH A SETTLEMENT
+- 11/07 09:59 [DeItaone] TRUMP: DEALING WITH IRANIANS, WILL SEE HOW THAT WORKS OUT
+- 11/07 10:00 [DeItaone] TRUMP: EXPECT 'VERY LITTLE' DEPARTURES FROM CABINET
+- 11/07 10:00 [DeItaone] TRUMP: IRAN BUILT 'LITTLE BIT OF AN ANTI-AIRCRAFT DEVICE', AND WE KNOCKED IT OUT
+- 11/07 10:00 [DeItaone] TRUMP: RUSSIA AND UKRAINE WANT TO SETTLE
+- 11/07 10:01 [DeItaone] CHINESE VICE PREMIER HE LIFENG HELD A VIDEO CALL WITH TOP U.S. OFFICIALS BESSENT AND GREER - XINHUA
+- 11/07 10:01 [FirstSquawk] South Korea sees growing demand for bamboo chopsticks from Japan.
+- 11/07 10:01 [DeItaone] CHINA EXPRESSED CONCERNS OVER U.S. TRADE RESTRICTIONS AGAINST CHINA - XINHUA
+- 11/07 10:01 [financialjuice] Chinese vice premier He Lifeng holds video call with top U.S. officials Bessent and Greer: Xinhua
+- 11/07 10:01 [financialjuice] China, U.S. agree to continue talks to maintain stable, positive trade ties - Xinhua
+- 11/07 10:01 [financialjuice] China voices concerns over U.S. trade restrictions against China: Xinhua
+- 11/07 10:02 [FirstSquawk] KMT veterans fight to preserve their influence as Taipei mayoral contests tighten.
+- 11/07 10:13 [financialjuice] Qatar's PM: Iran issue must be resolved, another escalation unaffordable
+- 11/07 10:13 [FirstSquawk] JSC Proton-Elektrotex plant in Russia's Oryol region targeted in Ukrainian Flamingo missile attack.
+- 11/07 10:14 [FirstSquawk] Rubio and Bessent favour expanding sanctions and keeping the blockade on Iran in place, according to WSJ.
+- 11/07 10:35 [FirstSquawk] Trump arch repositioned by White House as a tribute to the armed forces - RTRS
+- 11/07 10:36 [FirstSquawk] Musk calls SpaceX's Starship the most powerful moving object ever created by humanity.
+- 11/07 10:51 [FirstSquawk] Beijing Rejects US Sanctions Against Chinese Companies Linked to Cuba
+- 11/07 10:52 [FirstSquawk] FDA Maintains That Zolgensma and Itvisma Benefits Exceed Potential Risks Within Approved Uses
+- 11/07 10:52 [FirstSquawk] FDA: No Cases of Neoplasia Observed Following Itvisma Administration to Date
+- 11/07 10:52 [FirstSquawk] FDA Continues to Assess Neoplasia Risks, Including Malignancy, in Similar AAV Gene Therapy Programs
+- 11/07 10:53 [FirstSquawk] FDA Launches Investigation Into Malignancy Risk Associated With Zolgensma
+- 11/07 10:53 [FirstSquawk] Qatar's Prime Minister Calls for Resolution of Iran Issue, Warns Against Further Escalation
