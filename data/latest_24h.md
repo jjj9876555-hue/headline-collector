@@ -7,148 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-11-08 00:08 JST／対象: 11/07 00:08 〜 11/08 00:08 JST（時刻はすべて日本時間）
+生成: 2026-11-08 04:24 JST／対象: 11/07 04:24 〜 11/08 04:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 32 | 11/07 00:11 | 11/07 10:01 | ⚠ 214分（06:23→09:57） |
-| FirstSquawk | 164 | 11/07 00:14 | 11/07 23:59 | ⚠ 252分（14:55→19:07） |
-| financialjuice | 149 | 11/07 00:17 | 11/07 23:02 | ⚠ 125分（11:01→13:06） |
+| DeItaone | 16 | 11/07 04:49 | 11/08 04:16 | ⚠ 1093分（10:01→04:15） |
+| FirstSquawk | 161 | 11/07 04:31 | 11/08 03:40 | ⚠ 252分（14:55→19:07） |
+| financialjuice | 85 | 11/07 04:31 | 11/08 04:18 | ⚠ 127分（00:35→02:42） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 340 行（統合前 345 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 260 行（統合前 262 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/07 00:11 [DeItaone/FirstSquawk] TESLA: LAUNCHING IN ARGENTINA ON NOVEMBER 20, 2026
-- 11/07 00:14 [FirstSquawk] PULSE BIOSCIENCES – STRONG THYROID TREATMENT RESULTS $PLSE 86% of patients achieved over 50% thyroid nodule volume reduction at six months. Median nodule volume reduction reached an impressive 72%. Significant improvements reported in patie…
-- 11/07 00:17 [financialjuice] Fear and Greed Index: 25/100 = Extreme Fear
-- 11/07 00:27 [financialjuice] Morgan's Stanley Day: Low single-digit percentage of portfolio at high AI risk
-- 11/07 00:37 [FirstSquawk] MORGAN STANLEY BDC’S DAY: LOW SINGLE DIGIT PERCENTAGE OF PORTFOLIO AT HIGH AI RISK
-- 11/07 00:39 [FirstSquawk] RUSSIA IN TALKS TO SUPPLY S-400 AIR DEFENCE SYSTEMS TO IRAN - TELEGRAPH
-- 11/07 00:40 [financialjuice] Oil tanker sinking in the Strait of Hormuz after being targeted - Iran's Sepah News
-- 11/07 00:42 [FirstSquawk] EU FOREIGN POLICY CHIEF KALLAS: ANY PEACE DEAL ON UKRAINE WILL NEED EUROPEAN UNION TO BE A PART OF THIS
-- 11/07 00:46 [financialjuice] The PBOC is to keep cracking down on crypto-related activities
-- 11/07 00:51 [financialjuice] BoJ's Governor Ueda Speaks - WATCH LIVE " title="YouTube video player
-- 11/07 00:53 [financialjuice] IMF's Managing Director Georgieva: The current time is particularly important for central bankers, requiring the ability to see through uncertainty.
-- 11/07 00:54 [financialjuice] IMF's Managing Director Georgieva: AI investment boom and high valuations are impacting markets around the world.
-- 11/07 00:54 [financialjuice] IMF Chief Georgieva: Should there be a slowdown in AI-driven growth impulse, it would need to be a factor for central banks as they assess steps in the fight against inflation
-- 11/07 00:55 [financialjuice] IMF Chief Georgieva: large and rising global imbalances remain a matter of concern
-- 11/07 00:55 [financialjuice] IMF Chief Georgieva: Market volatility on AI likely to continue
-- 11/07 00:56 [financialjuice] French Energy Ministry: 3.6 million barrels of diesel have been sold out of the French strategic reserves to date
-- 11/07 00:56 [financialjuice] IMF Chief Georgieva: Widening imbalances have often been accompanied by fragile growth, and in some cases, have preceded financial crises
-- 11/07 00:59 [financialjuice] The Times of Israel reported, citing an American official and a diplomat familiar with the matter: Iranian negotiators are reviewing proposals under which the Islamic Republic would limit its nuclear program.
-- 11/07 01:00 [FirstSquawk] IRAN REVIEWING PROPOSALS TO CURB NUKE PROGRAM AFTER LONG REFUSING TO DISCUSS ISSUE, SOURCES SAY – TIMES OF ISRAEL
-- 11/07 01:00 [financialjuice] Iran reviewing proposals to curb nuke program after long refusing to discuss issue — sources to ToI
-- 11/07 01:00 [financialjuice] BoJ's Governor Ueda: Japan's current account underwent a striking shift
-- 11/07 01:00 [financialjuice] BoJ's Governor Ueda: Japan current account is now driven by income flows
-- 11/07 01:02 [financialjuice] The proposals stop short of complete dismantlement, but do address Iran’s stockpile of highly enriched uranium, the diplomat familiar with the talks adds, saying that the offers would see Iran receive significant sanctions relief from the U…
-- 11/07 01:03 [financialjuice] BoJ's Governor Ueda doesn't comment on the economy or policy outlook in his speech
-- 11/07 01:12 [FirstSquawk] FRENCH FIN MIN: DIESEL SALE PART OF 10M BARREL STOCK RELEASE PIAN
-- 11/07 01:13 [financialjuice] Musk: Government revenue will be less than 10% of SpaceX revenue this quarter $SPCX
-- 11/07 01:14 [FirstSquawk] ECB KNOT AND DE COS ARE THE ONLY TWO CANDIDATES FOR ECB PRESIDENT
-- 11/07 01:15 [financialjuice] ECB's Knot and ECB's De Cos are the only two candidates for ECB president
-- 11/07 01:26 [financialjuice] BoJ's Governor Ueda: Expects rising domestic investment in Japan, but the extent is very uncertain
-- 11/07 01:27 [financialjuice] OpenAI CFO: We will keep investing in AI data centers despite the election results - CNBC.
-- 11/07 01:28 [DeItaone] OPENAI WILL KEEP INVESTING IN AI DATA CENTERS DESPITE ELECTION RESULTS, CFO TELLS CNBC
-- 11/07 01:31 [FirstSquawk] BOJ CHIEF UEDA: EXPECTS RISING DOMESTIC INVESTMENT IN JAPAN, BUT EXTENT IS VERY UNCERTAIN
-- 11/07 01:31 [financialjuice] IMF's Managing Director Georgieva: The BoJ's policy normalization has been impressively smooth.
-- 11/07 01:32 [financialjuice] BoJ's Governor Ueda: Policy normalization is aimed at price stability
-- 11/07 01:34 [financialjuice] BoJ's Governor Ueda: Underlying inflation reached 2% for the first time in decades
-- 11/07 01:35 [financialjuice] BoJ's Governor Ueda: If monetary policy normalization is achieved, nominal variables will be less of an impediment to official resource allocation.
-- 11/07 01:35 [financialjuice] BoJ's Governor Ueda: The general mood on inflation is that there is a lot remaining to do.
-- 11/07 01:35 [financialjuice] BoJ's Governor Ueda: It is necessary to keep inflation at 2%
-- 11/07 01:36 [financialjuice] BoJ's Governor Ueda: We are in equilibrium with wages growing at a level consistent with 2% inflation
-- 11/07 01:37 [FirstSquawk] BOJ'S UEDA: 2% INFLATION HASN'T QUITE BECOME SOCIAL NORM YET
-- 11/07 01:37 [financialjuice] BoJ's Governor Ueda: We haven't heard significant complaints about higher interest rates
-- 11/07 01:39 [financialjuice] BoJ's Governor Ueda: Real rates haven't gone up as much.
-- 11/07 01:40 [DeItaone] OPENAI CFO CONFIRMS FUNDRAISING TALKS AT ALMOST A 50% LIFT IN VALUATION FROM THE ROUND CLOSED IN MARCH - CNBC INTERVIEW
-- 11/07 01:41 [financialjuice] BoJ's Governor Ueda: Unconventional policy had some positive effects.
-- 11/07 01:41 [financialjuice] BoJ's Governor Ueda: If there are big shocks, the bank may be forced to use unconventional policy
-- 11/07 01:42 [financialjuice] BoJ's Governor Ueda: Unconventional monetary policy tools have had some positive effects, but they are not perfect substitutes for rate cuts from positive territory.
-- 11/07 01:43 [financialjuice] BoJ's Governor Ueda: If we need to deploy unconventional tools again, we should think about ways to minimize negative effects:
-- 11/07 01:44 [FirstSquawk] UEDA: UPSIDE RISKS TO 2% INFLATION
-- 11/07 01:44 [financialjuice] BoJ's Governor Ueda: Consumer prices are now around 3% and expected to rise further into early next year
-- 11/07 01:44 [financialjuice] BoJ's Governor Ueda: Underlying inflation will likely stay around 2%, but we recognize there are some upside risks
-- 11/07 01:45 [financialjuice] BoJ's Governor Ueda: We look at the actions of other central banks very, very carefully, as they affect asset prices, including exchange rates and interest rates
-- 11/07 01:46 [financialjuice] BoJ's Governor Ueda: In general, AI has been a positive demand shock for our economy, and we will have to look at supply-side factors as well
-- 11/07 01:48 [financialjuice] BoJ's Governor Ueda: Japan may do well on AI replacing labor because there are significant labour shortages
-- 11/07 01:50 [financialjuice] BoJ's Governor Ueda: We've been identifying vulnerable areas, including some small banks, small firms that have not done enough to protect against cyber risks
-- 11/07 01:50 [financialjuice] BoJ's Governor Ueda: There's been a sharp rise in Japan cyber attacks in the past 1-2 months.
-- 11/07 01:52 [financialjuice] BoJ's Governor Ueda: We are discussing communication by the central bank, but don't have a formal commitment yet
-- 11/07 01:54 [FirstSquawk] BOJ CHIEF UEDA: WE LOOK AT THE ACTIONS OF OTHER CENTRAL BANKS VERY VERY CAREFULLY AS THEY AFFECT ASSET PRICES INCLUDING EXCHANGE RATES, INTEREST RATES
-- 11/07 01:56 [financialjuice] BoJ's Governor Ueda speaking engagement at the IMF in Washington concludes
-- 11/07 01:56 [financialjuice] Trump Heads to Florida After Departure From Washington - WATCH LIVE
-- 11/07 02:08 [FirstSquawk] OPENAI CFO CONFIRMS FUNDRAISING TALKS AT ALMOST A 50% LIFT IN VALUATION FROM THE ROUND CLOSED IN MARCH - CNBC
-- 11/07 02:13 [financialjuice] Fed's Bowman Speaks - Rgister Here
-- 11/07 02:22 [DeItaone] *CHINA FAILS TO INCREASE RARE EARTH SUPPLY ACCORDING TO US OFFICIALS *US OFFICIALS SAY CHINA FULFILLS ONLY TWO THIRDS OF RARE EARTH COMMITMENTS
-- 11/07 02:23 [financialjuice] The US warns China that it must ‘immediately’ meet terms of Busan trade truce - FT.
-- 11/07 02:28 [financialjuice] Putin and the Russian Security Council discuss upcoming Ukraine talks.
-- 11/07 02:30 [financialjuice] Qatar PM: The US and Iran won't be able to make a "perfect deal".
-- 11/07 02:30 [FirstSquawk] PUTIN, RUSSIAN SECURITY COUNCIL DISCUSS UPCOMING UKRAINE TALKS
-- 11/07 02:30 [financialjuice] Qatar PM: The US and Iran should accept a good deal over a perfect one.
-- 11/07 02:30 [FirstSquawk] QATAR PM SAYS US, IRAN WON'T BE ABLE TO MAKE 'PERFECT DEAL'
-- 11/07 02:30 [FirstSquawk] QATAR PM SAYS US, IRAN SHOULD ACCEPT GOOD DEAL OVER PERFECT ONE
-- 11/07 02:32 [financialjuice] US Treasury Secretary Bessent: USTR Greer and I spoke with Vice Premier He Lifeng about the US-China economic relationship.
-- 11/07 02:32 [financialjuice] US Treasury Secretary Bessent: We told China to fully, and immediately honor its commitments.
-- 11/07 02:32 [DeItaone] BESSENT: GREER AND I SPOKE WITH VICE PREMIER HE LIFENG ABOUT THE U.S.-CHINA ECONOMIC RELATIONSHIP
-- 11/07 02:33 [DeItaone] *US TREASURY SECRETARY URGES CHINA TO HONOUR BUSAN ARRANGEMENT COMMITMENTS
-- 11/07 02:37 [financialjuice] ❗ Microsoft is winding down its Oracle deal to rent AI cloud capacity. $MSFT $ORCL
-- 11/07 02:37 [FirstSquawk] MICROSOFT IS WINDING DOWN ORACLE DEAL TO RENT AI CLOUD CAPACITY
-- 11/07 02:38 [DeItaone] *MICROSOFT WINDING DOWN ORACLE DEAL FOR AI CLOUD CAPACITY
-- 11/07 02:39 [financialjuice] Microsoft Winds Down Oracle AI Compute Deal $ORCL $MSFT Microsoft is scaling back rented AI computing capacity from Oracle after choosing not to renew parts of the agreement. The capacity had become less useful as it relied on older-generat…
-- 11/07 02:39 [DeItaone] *ORACLE SHARES FALL 4% AFTER MICROSOFT DEAL ENDS
-- 11/07 02:56 [financialjuice] Canada's PM Carney: We will continue to work with the Americans to get a trade deal that works for Canada.
-- 11/07 03:00 [FirstSquawk] CANADA PM CARNEY: WE WILL CONTINUE TO WORK WITH THE AMERICANS TO GET A TRADE DEAL THAT WORKS FOR CANADA
-- 11/07 03:01 [financialjuice] US BAKER HUGHES TOTAL RIG COUNT ACTUAL 604 (FORECAST -, PREVIOUS 603) $MACRO
-- 11/07 03:02 [financialjuice] US BAKER HUGHES OIL RIG COUNT ACTUAL 463 (FORECAST -, PREVIOUS 462) $MACRO
-- 11/07 03:03 [financialjuice] Meta's Muse launches spaces for custom in-app experiences, letting users build personalized spaces via prompts $META
-- 11/07 03:03 [financialjuice] Fed's Daly: Job report good news - CNBC
-- 11/07 03:03 [financialjuice] Fed's Daly: Wage growth isn't booming
-- 11/07 03:05 [FirstSquawk] FED'S DALY: JOBS REPORT IS GOOD NEWS FOR AMERICAN WORKERS
-- 11/07 03:05 [financialjuice] Fed's Daly: I would like my confidence about inflation to be higher
-- 11/07 03:05 [DeItaone] FED'S DALY WELCOMES STRONG JOBS REPORT BUT WARNS ON INFLATION Fed's Mary Daly calls October's jobs report “good news”, expressing optimism about the US workforce. However, she stresses that wage growth isn't booming and real wages are falli…
-- 11/07 03:06 [financialjuice] Fed's Daly: Solid job market gives latitude to get inflation job done
-- 11/07 03:06 [FirstSquawk] DALY: WOULD LIKE MY CONFIDENCE ABOUT INFLATION TO BE HIGHER
-- 11/07 03:06 [financialjuice/FirstSquawk] Fed's Daly: Will have to tighten policy further
-- 11/07 03:07 [financialjuice] Fed's Daly: Was good to hold at the last meeting due to uncertainty
-- 11/07 03:08 [financialjuice] Fed's Daly: AI repricing trade has been orderly so far
-- 11/07 03:08 [financialjuice] Fed's Daly: If AI repricing signals slowing of demand growth might come down a little
-- 11/07 03:09 [financialjuice] Fed's Daly: Businesses are cautiously optimistic about outlook
-- 11/07 03:09 [financialjuice] Council of Economic Advisers Chair Phelan: Don't think the Fed will see the job report as inflationary
-- 11/07 03:10 [FirstSquawk] BAKER HUGHES RIG COUNT 6-NOV: 604 (PREV 603)
-- 11/07 03:10 [FirstSquawk] ROTARY OIL RIGS: 463 (PREV 462)
-- 11/07 03:11 [financialjuice] Canada's Prime Minister Carney: We are talking to China about next steps on trade development
-- 11/07 03:13 [financialjuice/FirstSquawk] Fed's Daly: When you step back from 'painful' volatility, this is the kind of rebalancing that you would hope for
-- 11/07 03:18 [DeItaone] TRUMP WEIGHS TERRORISM DESIGNATIONS FOR US NONPROFITS The White House is considering an executive order that could immediately suspend the tax-exempt status of nonprofits accused of terrorist ties, according to The Wall Street Journal. The …
-- 11/07 03:21 [financialjuice] Fed's Daly: Rates could be slightly restrictive to neutral
-- 11/07 03:22 [financialjuice] Fed's Daly: Services inflation not coming down in the way we would expect
-- 11/07 03:26 [financialjuice] Council of Economic Advisers Chair Phelan: we'll need to see the next CPI to see what the Fed will do
-- 11/07 03:28 [FirstSquawk] DALY: RATES COULD BE SLIGHTLY RESTRICTIVE TO NEUTRAL
-- 11/07 03:31 [financialjuice] Council of Economic Advisers Chair Phelan: I don't predict a recession at all
-- 11/07 03:33 [financialjuice] Musk: See SpaceX 4Q revenue up 'something like' 70% from 3Q $SPCX
-- 11/07 03:36 [DeItaone] $SPCX - *MUSK SEES SPACEX 4Q REVENUE UP ~70% Q/Q, $2B ABOVE WALL ST ESTIMATES
-- 11/07 03:37 [DeItaone] MORGAN STANLEY WARNS 12GW OF US DATA-CENTER CAPACITY AT RISK Morgan Stanley estimates that 12 gigawatts of planned US data-center capacity could face delays by 2030 following Democratic midterm victories. 🔸 2027 projects: Largely unaffected…
-- 11/07 03:39 [FirstSquawk] MUSK SEES SPACEX Q4 REVENUE UP 'SOMETHING LIKE' 70% FROM Q3
-- 11/07 03:39 [FirstSquawk] SPACEX EXTENDS GAIN TO SESSION HIGH 8.3%
-- 11/07 03:42 [FirstSquawk] MUSK STILL SEES SPACEX ANNUALIZED REV. ABOVE $500B IN DEC. 2027
-- 11/07 03:45 [financialjuice] Musk: Still sees SpaceX annualized Revenue above $500b in December 2027 $SPCX
-- 11/07 03:45 [DeItaone] *SPACEX SEES ANNUALIZED REVENUE ABOVE $500B BY DECEMBER 2027
-- 11/07 03:47 [DeItaone] US OPTIONS TRADING HITS ALL-TIME RECORD AMID MARKET ROUT US options volume surged to a record 112 million contracts on Thursday, November 5, as investors rushed to hedge against a sharp stock-market selloff. 🔸 Options volume: 53% above Octo…
-- 11/07 03:48 [DeItaone] *TEXAS GOVERNOR-ELECT CRITICIZES DATA CENTERS FOR EXPLOITING LOCAL RESOURCES *TEXAS GOVERNOR-ELECT SAYS RELATIONSHIP WITH ELON MUSK MUST BE ON TEXAS'S TERMS
-- 11/07 03:49 [FirstSquawk] GOOGLE BUYS CRUSOE’S WYOMING DATA CENTER SITE
-- 11/07 03:49 [financialjuice] Google buys Crusoe’s Wyoming data center site $GOOGL
-- 11/07 03:52 [DeItaone] *TRUMP ANNOUNCES STEPHEN MILLER AS CHIEF OF STAFF FROM MONDAY
-- 11/07 03:52 [DeItaone] TRUMP NAMES STEPHEN MILLER AS NEW WHITE HOUSE CHIEF OF STAFF President Trump announces that Stephen Miller will become White House Chief of Staff starting Monday, November 9. Miller, currently Deputy Chief of Staff and one of Trump's most t…
-- 11/07 03:53 [FirstSquawk] TRUMP NAMES MILLER NEW CHIEF OF STAFF AS WILES LEAVES
-- 11/07 03:55 [financialjuice] USTR Greer: China needs to implement agricultural and rare earths commitments
-- 11/07 04:02 [FirstSquawk] RUBIO TO TRAVEL TO PARIS NOV. 8-10 FOR G7 MEETING: STATE DEPT
-- 11/07 04:12 [DeItaone] *CBS REPORTING SUSIE WILES GAVE TRUMP HER RESIGNATION ON THURSDAY NIGHT
-- 11/07 04:20 [financialjuice/FirstSquawk] Europe insists Putin end war before discussing Russian concerns
 - 11/07 04:31 [financialjuice] NYMEX WTI Crude Dec. futures settle at $90.83 a barrel up 31 cents, 0.34%
 - 11/07 04:31 [FirstSquawk] US CRUDE OIL FUTURES SETTLE AT $90.83/BBL, UP 31 CENTS, 0.34 PCT
 - 11/07 04:31 [financialjuice] NYMEX Nat Gas Dec. futures settle at $2.9980/MMBTU
@@ -364,3 +239,48 @@
 - 11/07 23:59 [FirstSquawk] Pezeshkian calls on Iranians to help reduce energy consumption.
 - 11/07 23:59 [FirstSquawk] Russia’s Defense Ministry: The Aerospace Forces successfully launched a medium-range Soyuz-2.1b rocket carrying a military satellite into orbit.
 - 11/07 23:59 [FirstSquawk] Zelensky: We were only able to intercept 4 of the 36 ballistic missiles Russia launched during last night’s attack.
+- 11/08 00:18 [FirstSquawk] Polish police: Two people killed in a shooting in the city of Krakow
+- 11/08 00:29 [financialjuice] Reports of Syria sending troops to Yemen are baseless: Syrian diplomatic source to Syria's state news agency
+- 11/08 00:29 [financialjuice] Syrian-Saudi military cooperation currently centers on training, sharing expertise and consultations: Syrian diplomatic source to SANA
+- 11/08 00:31 [financialjuice] Agreement between Syria and Saudi Arabia centers on military training, with Saudi coordination visits to Syria starting next month: Syrian diplomatic source to SANA
+- 11/08 00:32 [financialjuice] Syrian-Saudi military cooperation could evolve into mutual defense pact or Syria joining Mecca defense accord: Syrian diplomatic source to SANA
+- 11/08 00:33 [financialjuice] Yemen's Houthis say they struck Riyadh airport; no Saudi confirmation
+- 11/08 00:33 [FirstSquawk] Polish police: 3 dead and several injured in a shooting in the city of Krakow
+- 11/08 00:34 [FirstSquawk] Polish police: 5 people killed and more than 10 others injured in a shooting in the city of Krakow
+- 11/08 00:34 [financialjuice] Yemen's Houthis say they hit Aramco oil sites in Riyadh and Khurais; no prompt Saudi confirmation
+- 11/08 00:34 [FirstSquawk] Yemeni Armed Forces: 875 strikes carried out against the Houthi militia in the past few hours
+- 11/08 00:35 [FirstSquawk] Yemeni Armed Forces: We have dealt painful blows to the Houthi militia on the Marib and Al Jawf fronts
+- 11/08 00:35 [financialjuice] Yemen's Houthis: attack on national guard camp in Saudi Arabia's Najran
+- 11/08 00:35 [FirstSquawk] Yemeni Armed Forces: Around 130 Houthi militia leaders and members neutralized in the latest strikes
+- 11/08 00:35 [FirstSquawk] Yemeni Armed Forces: 50 military vehicles and trucks and a rocket launcher belonging to the Houthi militia destroyed
+- 11/08 00:37 [FirstSquawk] Syrian diplomatic source told SANA: Reports of sending troops to Yemen are unfounded
+- 11/08 00:37 [FirstSquawk] Syrian diplomatic source told SANA: Military cooperation with Saudi Arabia focuses on training and advisory services
+- 11/08 00:58 [FirstSquawk] Statement by Palestinian forces and factions: We hold the occupation and the Peace Council responsible for the humanitarian catastrophe in Gaza as winter approaches.
+- 11/08 00:58 [FirstSquawk] Statement by Palestinian forces and factions: We call on the National Committee to come to the Gaza Strip immediately and begin carrying out its duties.
+- 11/08 00:58 [FirstSquawk] Statement by Palestinian forces and factions: We call on the mediators and guarantors to exert pressure to ensure the full implementation of the humanitarian protocol.
+- 11/08 00:59 [FirstSquawk] AFP: French prosecutors are investigating whether threats to blow up airliners are linked to “foreign powers”
+- 11/08 01:04 [FirstSquawk] Syrian diplomatic source told SANA: Coordinating military visits from Saudi Arabia to Syria will begin next month
+- 11/08 01:04 [FirstSquawk] Syrian diplomatic source: Military agreements with Saudi Arabia focus on exchanging expertise and consultations
+- 11/08 01:16 [FirstSquawk] Iraqi Prime Minister cancels 3 operating contracts at Mosul Airport over their links to armed groups
+- 11/08 02:03 [FirstSquawk] Berkshire Hathaway ploughs $9.6bn into share buybacks - FT
+- 11/08 02:04 [FirstSquawk] US sports investment fund RedBird hunts for tie-ups in Japan - Nikkei
+- 11/08 02:04 [FirstSquawk] US war in Iran leaves Sri Lanka in troubled diplomatic waters; About 20 Iranian tankers seek humanitarian assistance as Washington warns of sanctions - Nikkei
+- 11/08 02:05 [FirstSquawk] New Zealand's knife-edge election puts coalition talks in focus - Nikkei
+- 11/08 02:05 [FirstSquawk] Putin orders seizure of more Japan Tobacco assets in Russia - Nikkei
+- 11/08 02:42 [financialjuice] Erdogan tells Trump US-Iran tensions must be settled diplomatically, Ankara will persist in peace efforts, Erdogan's office says
+- 11/08 02:42 [financialjuice] Turkey's Erdogan talks with Trump by phone: discusses regional and global developments, Erdogan's office says
+- 11/08 02:42 [financialjuice] Erdogan tells Trump he hopes diplomatic efforts to end war in Ukraine will produce positive outcome, Erdogan’s office says
+- 11/08 02:50 [FirstSquawk] Netanyahu: Now is the time to form a unity government in Israel
+- 11/08 02:50 [financialjuice/FirstSquawk] Trump orders Justice Department to investigate Democrats threatening many people, alleges criminal act
+- 11/08 02:50 [FirstSquawk] Yair Golan, leader of the Democrats party: Netanyahu’s government must be replaced and a change government formed, and every effort must be made to achieve that.
+- 11/08 02:51 [FirstSquawk] Polish police: Death toll in the Kraków attack rises to 6
+- 11/08 02:52 [FirstSquawk] European Union: Shooting in Krakow is a "tragedy," and Poland is not alone in facing this ordeal
+- 11/08 02:53 [FirstSquawk] Erdogan stresses during a phone call with Trump the need to resolve tensions between Washington and Tehran through diplomacy.
+- 11/08 02:53 [FirstSquawk] Erdogan tells Trump he hopes diplomatic efforts to end the war in Ukraine will yield positive results.
+- 11/08 03:27 [FirstSquawk] Israeli media: Demonstrations in central Tel Aviv calling for Netanyahu’s government to be replaced and a government formed with Arab parties
+- 11/08 03:41 [financialjuice] Trump: Dana White offered role as press secretary
+- 11/08 03:44 [financialjuice] Trump: asked White House to bring some aides 'even though some are not from our country'
+- 11/08 04:09 [financialjuice] Saudi civil defense issues warning of potential hazard in Jazan
+- 11/08 04:15 [DeItaone] TRUMP: DANA WHITE HAS BEEN OFFERED JOB OF PRESS SECRETARY
+- 11/08 04:16 [DeItaone] President Donald Trump on Saturday said he has asked UFC chief executive Dana White to serve as White House press secretary and had called on the longtime fight promoter to bring some assistants with him "even though some are not from our c…
+- 11/08 04:18 [financialjuice] Saudi civil defense: danger in Jazan has passed

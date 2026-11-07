@@ -7,69 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-11-08 00:08 JST／対象: 11/07 12:08 〜 11/08 00:08 JST（時刻はすべて日本時間）
+生成: 2026-11-08 04:24 JST／対象: 11/07 16:24 〜 11/08 04:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 0 | - | - | - |
-| FirstSquawk | 84 | 11/07 12:09 | 11/07 23:59 | ⚠ 252分（14:55→19:07） |
-| financialjuice | 29 | 11/07 13:06 | 11/07 23:02 | ⚠ 82分（20:05→21:27） |
+| DeItaone | 2 | 11/08 04:15 | 11/08 04:16 | 1分（04:15→04:16） |
+| FirstSquawk | 77 | 11/07 19:07 | 11/08 03:40 | ⚠ 54分（23:04→23:58） |
+| financialjuice | 34 | 11/07 16:25 | 11/08 04:18 | ⚠ 127分（00:35→02:42） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 113 行（統合前 113 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 112 行（統合前 113 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/07 12:09 [FirstSquawk] Sony Interactive Entertainment Postpones Pulse Elevate Speaker Release Over Production Problems
-- 11/07 12:09 [FirstSquawk] Trump Announces Plans for World's Largest Air Show in the US Within Two Years
-- 11/07 12:17 [FirstSquawk] World Bank Clears $300 Million Financing Package to Boost Education in Bangladesh
-- 11/07 12:18 [FirstSquawk] New Zealand Beach Mass Stranding Claims Lives of More Than 40 Pilot Whales: CNN
-- 11/07 12:19 [FirstSquawk] NVIDIA Chief Jensen Huang Linked to Alleged Chinese Spy in US Government Assessment: FT
-- 11/07 12:25 [FirstSquawk] US MQ-9 Drone Reportedly Shot Down Over Iran's Qeshm Island: State Media
-- 11/07 12:32 [FirstSquawk] BP's Whiting Refinery Awaits Response to Offer for Meeting Next Week
-- 11/07 12:32 [FirstSquawk] BP's Whiting Refinery: Meeting Proposed Following October 26 Talks, but No Confirmation Received
-- 11/07 12:41 [FirstSquawk] Dozens Injured After Four-Story Building Collapses in São Paulo
-- 11/07 12:41 [FirstSquawk] Municipal Gas Authority of Georgia Retains 'A+' Rating as Fitch Keeps Outlook Stable
-- 11/07 12:52 [FirstSquawk] Iranian State Media Reports Two Blasts Near Suza on Qeshm Island, No Casualties
-- 11/07 12:52 [FirstSquawk] Fitch Says Cyprus Economy Recovering Rapidly Despite Earlier Weak Sentiment Amid Middle East Crisis
-- 11/07 12:52 [FirstSquawk] Berlin Retains Top 'AAA' Rating as Fitch Keeps Outlook Stable
-- 11/07 13:04 [FirstSquawk] Greece Retains 'BBB' Rating as Fitch Keeps Outlook Stable
-- 11/07 13:04 [FirstSquawk] Fitch Says Cyprus Rating Upgrade Driven by Solid Fiscal Position and Declining Public Debt
-- 11/07 13:06 [financialjuice] Hong Kong Legislative Council condemns foreign governments’ criticism of court ruling on Joshua Wong
-- 11/07 13:18 [FirstSquawk] Cyprus Secures 'A' Rating as Fitch Upgrades Sovereign Credit Rating
-- 11/07 13:18 [FirstSquawk] Iran's Tasnim Reports Possible Missile Attack on Qeshm Island, Cites Initial Reports
-- 11/07 13:30 [FirstSquawk] Anthropic Prepares to Kick Off IPO Roadshow Next Week, Report Says
-- 11/07 13:32 [FirstSquawk] Canada's Unemployment Rate Rises to 6.7% Following Loss of 4,700 Jobs in October: CNBC
-- 11/07 13:42 [FirstSquawk] Trump Pledges to Host the World's Largest Air Show in America - RTRS
-- 11/07 13:49 [FirstSquawk] China sends four satellites into orbit aboard a CERES-2 Y3 carrier rocket on Saturday.
-- 11/07 13:52 [FirstSquawk] Chinese EV brands Seres and Li Auto step up expansion into European markets.
-- 11/07 13:56 [FirstSquawk] Trump Wants Stephen Miller to Ensure Smooth Operations in Chief of Staff Role
-- 11/07 13:57 [FirstSquawk] Trump Reveals Decision to Make a Change
-- 11/07 13:58 [FirstSquawk] Trump Expresses Confidence in Stephen Miller's Ability to Deliver
-- 11/07 14:00 [FirstSquawk] US Treasury Unveils Fresh Sanctions Targeting Iran - RTRS
-- 11/07 14:03 [FirstSquawk] Trump Confirms Further US Strikes on Iran Amid Political Fallout From Midterm Elections - SCMP
-- 11/07 14:03 [financialjuice] Britain preparing to host Volodymyr Zelenskiy for state visit next year: FT
-- 11/07 14:07 [financialjuice] Saudi-led coalition: intercepted and destroyed Houthi cruise missile targeted at Riyadh
-- 11/07 14:08 [FirstSquawk] Houthi Cruise Missile Targeting Riyadh Intercepted by Saudi-Led Coalition
-- 11/07 14:14 [FirstSquawk] China Voices 'Serious Concern' Over US Sanctions Ahead of Xi-Trump APEC Meeting: SCMP
-- 11/07 14:21 [FirstSquawk] European Authorities Investigate Potential Russian Role in Bomb Threat Campaigns - FT
-- 11/07 14:23 [FirstSquawk] Ukraine Announces Large-Scale Operation Targeting Russian Regions, Including Saratov Refinery
-- 11/07 14:30 [FirstSquawk] China Set to Limit Application of Controversial Detention and Surveillance Measures - SCMP
-- 11/07 14:31 [FirstSquawk] UK Rules Out Slowing AI Ambitions Amid Rising US Backlash, Growth Minister Says - FT
-- 11/07 14:36 [FirstSquawk] Burnham's Decade-Long Plan Transitions Into a Broader Policy Framework - FT
-- 11/07 14:54 [FirstSquawk] Scottish Authorities Examine Potential Seizure of Sanjeev Gupta's Corporate Assets - FT
-- 11/07 14:55 [FirstSquawk] Moscow Turns to Arctic Sea Routes to Protect Metal Exports From Ukrainian Strikes - FT
-- 11/07 15:00 [financialjuice] Polls close in New Zealand general election: early results expected soon
-- 11/07 15:11 [financialjuice] New Zealand Electoral Commission data: ruling National at 30.81%, opposition Labour on 29.88% with 1.6% of votes counted
-- 11/07 15:12 [financialjuice] New Zealand election commission data: centrist opportunity party to cross threshold with 1.9% of votes counted
-- 11/07 15:35 [financialjuice] New Zealand opposition lawmaker McNulty: National Party support exceeds expectations
-- 11/07 15:35 [financialjuice] Data from New Zealand electoral commission shows ruling National-led coalition likely to return to power with 10.9% of votes counted
-- 11/07 15:56 [financialjuice] Data from New Zealand electoral commission: Ruling National party may form coalition with 20% of votes counted
-- 11/07 16:12 [financialjuice] New Zealand Electoral Commission data: opposition Labour leads popular vote, but ruling National forms coalition with 24% counted
 - 11/07 16:25 [financialjuice] New Zealand electoral commission data: centre-right and centre-left coalitions need centrist support to govern with 26% of results counted
 - 11/07 16:29 [financialjuice] Russia's delegation at trilateral meeting with US and Ukraine to include Medinsky, Ryabkov, Galuzin, Kostyukov, and Zhigarlovsky: IFX cites Kremlin
 - 11/07 17:36 [financialjuice] Russia launched 36 ballistic missiles and 172 drones at Ukraine overnight, mainly targeting energy facilities: Zelenskiy
@@ -137,3 +91,48 @@
 - 11/07 23:59 [FirstSquawk] Pezeshkian calls on Iranians to help reduce energy consumption.
 - 11/07 23:59 [FirstSquawk] Russia’s Defense Ministry: The Aerospace Forces successfully launched a medium-range Soyuz-2.1b rocket carrying a military satellite into orbit.
 - 11/07 23:59 [FirstSquawk] Zelensky: We were only able to intercept 4 of the 36 ballistic missiles Russia launched during last night’s attack.
+- 11/08 00:18 [FirstSquawk] Polish police: Two people killed in a shooting in the city of Krakow
+- 11/08 00:29 [financialjuice] Reports of Syria sending troops to Yemen are baseless: Syrian diplomatic source to Syria's state news agency
+- 11/08 00:29 [financialjuice] Syrian-Saudi military cooperation currently centers on training, sharing expertise and consultations: Syrian diplomatic source to SANA
+- 11/08 00:31 [financialjuice] Agreement between Syria and Saudi Arabia centers on military training, with Saudi coordination visits to Syria starting next month: Syrian diplomatic source to SANA
+- 11/08 00:32 [financialjuice] Syrian-Saudi military cooperation could evolve into mutual defense pact or Syria joining Mecca defense accord: Syrian diplomatic source to SANA
+- 11/08 00:33 [financialjuice] Yemen's Houthis say they struck Riyadh airport; no Saudi confirmation
+- 11/08 00:33 [FirstSquawk] Polish police: 3 dead and several injured in a shooting in the city of Krakow
+- 11/08 00:34 [FirstSquawk] Polish police: 5 people killed and more than 10 others injured in a shooting in the city of Krakow
+- 11/08 00:34 [financialjuice] Yemen's Houthis say they hit Aramco oil sites in Riyadh and Khurais; no prompt Saudi confirmation
+- 11/08 00:34 [FirstSquawk] Yemeni Armed Forces: 875 strikes carried out against the Houthi militia in the past few hours
+- 11/08 00:35 [FirstSquawk] Yemeni Armed Forces: We have dealt painful blows to the Houthi militia on the Marib and Al Jawf fronts
+- 11/08 00:35 [financialjuice] Yemen's Houthis: attack on national guard camp in Saudi Arabia's Najran
+- 11/08 00:35 [FirstSquawk] Yemeni Armed Forces: Around 130 Houthi militia leaders and members neutralized in the latest strikes
+- 11/08 00:35 [FirstSquawk] Yemeni Armed Forces: 50 military vehicles and trucks and a rocket launcher belonging to the Houthi militia destroyed
+- 11/08 00:37 [FirstSquawk] Syrian diplomatic source told SANA: Reports of sending troops to Yemen are unfounded
+- 11/08 00:37 [FirstSquawk] Syrian diplomatic source told SANA: Military cooperation with Saudi Arabia focuses on training and advisory services
+- 11/08 00:58 [FirstSquawk] Statement by Palestinian forces and factions: We hold the occupation and the Peace Council responsible for the humanitarian catastrophe in Gaza as winter approaches.
+- 11/08 00:58 [FirstSquawk] Statement by Palestinian forces and factions: We call on the National Committee to come to the Gaza Strip immediately and begin carrying out its duties.
+- 11/08 00:58 [FirstSquawk] Statement by Palestinian forces and factions: We call on the mediators and guarantors to exert pressure to ensure the full implementation of the humanitarian protocol.
+- 11/08 00:59 [FirstSquawk] AFP: French prosecutors are investigating whether threats to blow up airliners are linked to “foreign powers”
+- 11/08 01:04 [FirstSquawk] Syrian diplomatic source told SANA: Coordinating military visits from Saudi Arabia to Syria will begin next month
+- 11/08 01:04 [FirstSquawk] Syrian diplomatic source: Military agreements with Saudi Arabia focus on exchanging expertise and consultations
+- 11/08 01:16 [FirstSquawk] Iraqi Prime Minister cancels 3 operating contracts at Mosul Airport over their links to armed groups
+- 11/08 02:03 [FirstSquawk] Berkshire Hathaway ploughs $9.6bn into share buybacks - FT
+- 11/08 02:04 [FirstSquawk] US sports investment fund RedBird hunts for tie-ups in Japan - Nikkei
+- 11/08 02:04 [FirstSquawk] US war in Iran leaves Sri Lanka in troubled diplomatic waters; About 20 Iranian tankers seek humanitarian assistance as Washington warns of sanctions - Nikkei
+- 11/08 02:05 [FirstSquawk] New Zealand's knife-edge election puts coalition talks in focus - Nikkei
+- 11/08 02:05 [FirstSquawk] Putin orders seizure of more Japan Tobacco assets in Russia - Nikkei
+- 11/08 02:42 [financialjuice] Erdogan tells Trump US-Iran tensions must be settled diplomatically, Ankara will persist in peace efforts, Erdogan's office says
+- 11/08 02:42 [financialjuice] Turkey's Erdogan talks with Trump by phone: discusses regional and global developments, Erdogan's office says
+- 11/08 02:42 [financialjuice] Erdogan tells Trump he hopes diplomatic efforts to end war in Ukraine will produce positive outcome, Erdogan’s office says
+- 11/08 02:50 [FirstSquawk] Netanyahu: Now is the time to form a unity government in Israel
+- 11/08 02:50 [financialjuice/FirstSquawk] Trump orders Justice Department to investigate Democrats threatening many people, alleges criminal act
+- 11/08 02:50 [FirstSquawk] Yair Golan, leader of the Democrats party: Netanyahu’s government must be replaced and a change government formed, and every effort must be made to achieve that.
+- 11/08 02:51 [FirstSquawk] Polish police: Death toll in the Kraków attack rises to 6
+- 11/08 02:52 [FirstSquawk] European Union: Shooting in Krakow is a "tragedy," and Poland is not alone in facing this ordeal
+- 11/08 02:53 [FirstSquawk] Erdogan stresses during a phone call with Trump the need to resolve tensions between Washington and Tehran through diplomacy.
+- 11/08 02:53 [FirstSquawk] Erdogan tells Trump he hopes diplomatic efforts to end the war in Ukraine will yield positive results.
+- 11/08 03:27 [FirstSquawk] Israeli media: Demonstrations in central Tel Aviv calling for Netanyahu’s government to be replaced and a government formed with Arab parties
+- 11/08 03:41 [financialjuice] Trump: Dana White offered role as press secretary
+- 11/08 03:44 [financialjuice] Trump: asked White House to bring some aides 'even though some are not from our country'
+- 11/08 04:09 [financialjuice] Saudi civil defense issues warning of potential hazard in Jazan
+- 11/08 04:15 [DeItaone] TRUMP: DANA WHITE HAS BEEN OFFERED JOB OF PRESS SECRETARY
+- 11/08 04:16 [DeItaone] President Donald Trump on Saturday said he has asked UFC chief executive Dana White to serve as White House press secretary and had called on the longtime fight promoter to bring some assistants with him "even though some are not from our c…
+- 11/08 04:18 [financialjuice] Saudi civil defense: danger in Jazan has passed
