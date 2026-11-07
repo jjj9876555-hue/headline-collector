@@ -7,103 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-11-07 17:38 JST／対象: 11/07 05:38 〜 11/07 17:38 JST（時刻はすべて日本時間）
+生成: 2026-11-08 00:08 JST／対象: 11/07 12:08 〜 11/08 00:08 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 11 | 11/07 06:22 | 11/07 10:01 | ⚠ 214分（06:23→09:57） |
-| FirstSquawk | 77 | 11/07 09:28 | 11/07 14:55 | 20分（10:14→10:35） |
-| financialjuice | 41 | 11/07 05:42 | 11/07 17:36 | ⚠ 125分（11:01→13:06） |
+| DeItaone | 0 | - | - | - |
+| FirstSquawk | 84 | 11/07 12:09 | 11/07 23:59 | ⚠ 252分（14:55→19:07） |
+| financialjuice | 29 | 11/07 13:06 | 11/07 23:02 | ⚠ 82分（20:05→21:27） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 129 行（統合前 129 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 113 行（統合前 113 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/07 05:42 [financialjuice] CFTC Positions in the Week of November 3rd 2026
-- 11/07 05:46 [financialjuice] Week Ahead: Economic Indicators 9th – 13th November (US)
-- 11/07 05:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: -290.9 MLN NASDAQ 100: 33.5 MLN DOW 30: 441.9 MLN MAG 7: 313.2 MLN $MACRO
-- 11/07 05:59 [financialjuice] OpenAI closes $11 billion of new round at $1.25 trillion value; initial funding commitments were wired as of Friday.
-- 11/07 06:18 [financialjuice] Chipmakers Rebound as Dip Buyers Lift Stocks Despite Fed Rate-Hike Bets – US Market Wrap
-- 11/07 06:22 [DeItaone] OPENAI COMPLETES $11 BILLION PORTION OF FUNDING AT $1.25 TRILLION VALUE
-- 11/07 06:23 [DeItaone] *ANTHROPIC PLANS NOVEMBER IPO RAISING $80B-$100B AT $1.25T-$1.75T VALUATION: FT
-- 11/07 07:01 [financialjuice] Anthropic to start IPO roadshow next week: the information
-- 11/07 07:01 [financialjuice] Iran's semi-official Tasnim news agency: initial reports suggest two missiles hit Qeshm Island; no official confirmation
-- 11/07 07:08 [financialjuice] Iran state broadcaster cites informed source: two blasts heard near Suza area in Qeshm Island, no casualty reports
-- 11/07 07:44 [financialjuice] Paraguay prosecutor's office issues arrest warrant for Santiago Pena
-- 11/07 07:44 [financialjuice] Paraguay prosecutor's office issues arrest warrant for former central bank chief
-- 11/07 07:50 [financialjuice] Paraguay's Pedro Alliana sworn in as president, replacing Santiago Pena following impeachment
-- 11/07 08:03 [financialjuice] Iran's military: U.S. MQ-9 drone downed over Qeshm island - state media
-- 11/07 08:08 [financialjuice] Paraguay's Santiago Peña detained, local media ABC reports
-- 11/07 08:16 [financialjuice] Trump: US will host largest air show worldwide in two years
-- 11/07 09:28 [FirstSquawk] Axios, citing U.S. officials: Trump is open to pursuing a diplomatic solution with Iran for now.
-- 11/07 09:29 [FirstSquawk] Vance informed Trump that he intended to attribute the election defeat to the war before announcing his stance, WSJ reports, citing U.S. officials.
-- 11/07 09:29 [financialjuice] Trump: negotiating with Iranians, will see how that plays out
-- 11/07 09:30 [FirstSquawk] Netanyahu is pushing for another round of military strikes on Iran, WSJ reports.
-- 11/07 09:30 [FirstSquawk] Rubio and Bessent advocate tightening sanctions while keeping the blockade on Iranian trade in place, according to WSJ.
-- 11/07 09:31 [financialjuice] Trump: anticipate very few departures from cabinet
-- 11/07 09:36 [financialjuice] Trump: Iran constructed ‘small anti-aircraft system,’ and we destroyed it
-- 11/07 09:37 [financialjuice] Trump: Russia and Ukraine seek to reach settlement
-- 11/07 09:42 [FirstSquawk] WSJ: Trump faces divisions within his advisory team over whether to end the conflict with Iran or resume military action.
-- 11/07 09:43 [FirstSquawk] Trump's advisers remain split as pressure grows for him to choose between ending the war with Iran and renewing military escalation, WSJ reports.
-- 11/07 09:50 [FirstSquawk] Google executive Donald Harrison departs SpaceX's board - RTRS
-- 11/07 09:51 [financialjuice] Qatar's PM: Mediation efforts continue to prevent situation from spiraling out of control - Al Jazeera TV
-- 11/07 09:53 [financialjuice] Qatar's PM: U.S. government still open to finding solution after midterm elections
-- 11/07 09:56 [financialjuice] Qatar's PM: We have achieved a lot and believe a settlement is possible
-- 11/07 09:57 [DeItaone] QATAR'S PM SAYS MEDIATION EFFORTS CONTINUE TO PREVENT SITUATION FROM SPIRALLING OUT OF CONTROL-AL JAZEERA TV
-- 11/07 09:57 [DeItaone] QATAR'S PM SAYS U.S. ADMINISTRATION REMAINS WILLING TO SEEK SOLUTION EVEN AFTER MIDTERM ELECTIONS
-- 11/07 09:58 [DeItaone] QATAR'S PM : WE HAVE ACCOMPLISHED A GREAT DEAL AND I BELIEVE WE CAN REACH A SETTLEMENT
-- 11/07 09:59 [DeItaone] TRUMP: DEALING WITH IRANIANS, WILL SEE HOW THAT WORKS OUT
-- 11/07 10:00 [DeItaone] TRUMP: EXPECT 'VERY LITTLE' DEPARTURES FROM CABINET
-- 11/07 10:00 [DeItaone] TRUMP: IRAN BUILT 'LITTLE BIT OF AN ANTI-AIRCRAFT DEVICE', AND WE KNOCKED IT OUT
-- 11/07 10:00 [DeItaone] TRUMP: RUSSIA AND UKRAINE WANT TO SETTLE
-- 11/07 10:01 [DeItaone] CHINESE VICE PREMIER HE LIFENG HELD A VIDEO CALL WITH TOP U.S. OFFICIALS BESSENT AND GREER - XINHUA
-- 11/07 10:01 [FirstSquawk] South Korea sees growing demand for bamboo chopsticks from Japan.
-- 11/07 10:01 [DeItaone] CHINA EXPRESSED CONCERNS OVER U.S. TRADE RESTRICTIONS AGAINST CHINA - XINHUA
-- 11/07 10:01 [financialjuice] Chinese vice premier He Lifeng holds video call with top U.S. officials Bessent and Greer: Xinhua
-- 11/07 10:01 [financialjuice] China, U.S. agree to continue talks to maintain stable, positive trade ties - Xinhua
-- 11/07 10:01 [financialjuice] China voices concerns over U.S. trade restrictions against China: Xinhua
-- 11/07 10:02 [FirstSquawk] KMT veterans fight to preserve their influence as Taipei mayoral contests tighten.
-- 11/07 10:13 [financialjuice] Qatar's PM: Iran issue must be resolved, another escalation unaffordable
-- 11/07 10:13 [FirstSquawk] JSC Proton-Elektrotex plant in Russia's Oryol region targeted in Ukrainian Flamingo missile attack.
-- 11/07 10:14 [FirstSquawk] Rubio and Bessent favour expanding sanctions and keeping the blockade on Iran in place, according to WSJ.
-- 11/07 10:35 [FirstSquawk] Trump arch repositioned by White House as a tribute to the armed forces - RTRS
-- 11/07 10:36 [FirstSquawk] Musk calls SpaceX's Starship the most powerful moving object ever created by humanity.
-- 11/07 10:51 [FirstSquawk] Beijing Rejects US Sanctions Against Chinese Companies Linked to Cuba
-- 11/07 10:52 [FirstSquawk] FDA Maintains That Zolgensma and Itvisma Benefits Exceed Potential Risks Within Approved Uses
-- 11/07 10:52 [FirstSquawk] FDA: No Cases of Neoplasia Observed Following Itvisma Administration to Date
-- 11/07 10:52 [FirstSquawk] FDA Continues to Assess Neoplasia Risks, Including Malignancy, in Similar AAV Gene Therapy Programs
-- 11/07 10:53 [FirstSquawk] FDA Launches Investigation Into Malignancy Risk Associated With Zolgensma
-- 11/07 10:53 [FirstSquawk] Qatar's Prime Minister Calls for Resolution of Iran Issue, Warns Against Further Escalation
-- 11/07 11:00 [FirstSquawk] China, US Commit to Continued Consultations for Stable Trade Development: Xinhua
-- 11/07 11:00 [FirstSquawk] China Flags Concerns Over US Trade Measures Against Chinese Businesses: Xinhua
-- 11/07 11:01 [FirstSquawk] China's Foreign Exchange Reserves Increase by $5 Billion in October: Central Bank
-- 11/07 11:01 [financialjuice] China foreign exchange reserves $3.405 trillion at end-October vs $3.400 trillion at end-September: central bank
-- 11/07 11:01 [financialjuice] China's gold reserves $306.41 billion at end-October vs $323.52 billion at end-September: central bank
-- 11/07 11:01 [financialjuice] China's gold holdings 78.30 million fine troy oz at end-October vs 77.47 million at end-September: central bank
-- 11/07 11:01 [FirstSquawk] China Gold Reserves Fall to $306.41 Billion in October From $323.52 Billion in September
-- 11/07 11:01 [FirstSquawk] China Increases Gold Holdings to 78.30 Million Troy Ounces in October: Central Bank
-- 11/07 11:11 [FirstSquawk] China's He Lifeng Engages in Video Talks With US Treasury Chief Bessent and Trade Representative Greer
-- 11/07 11:12 [FirstSquawk] Qatar's PM Says Major Progress Has Been Achieved, Sees Path to Settlement
-- 11/07 11:12 [FirstSquawk] Qatar's PM Says Washington Willing to Pursue Resolution Beyond Midterm Elections
-- 11/07 11:12 [FirstSquawk] Qatar PM Reaffirms Ongoing Mediation Efforts to Contain Escalating Situation: Al Jazeera
-- 11/07 11:19 [FirstSquawk] Trump Says Moscow and Kyiv Are Willing to End the Conflict
-- 11/07 11:19 [FirstSquawk] Trump Says Iran Built New Anti-Aircraft System, Which US Subsequently Disabled
-- 11/07 11:20 [FirstSquawk] Trump Anticipates Few Cabinet Departures in Coming Period
-- 11/07 11:31 [FirstSquawk] Trump Says US Is Dealing With Iranians, Will See How Things Unfold
-- 11/07 11:31 [FirstSquawk] Haiti's Mathias Saintil, Notorious Gang Leader, Reported Dead
-- 11/07 11:31 [FirstSquawk] Datavault AI Founder Files Lawsuit to Overturn Contested CEO Removal
-- 11/07 11:39 [FirstSquawk] Kyiv Comes Under Russian Ballistic Missile Attack, Klitschko Reports
-- 11/07 11:53 [FirstSquawk] Multiple Powerful Explosions Heard in Ukraine's Capital, Reuters Witness Says
-- 11/07 11:54 [FirstSquawk] Kyiv Residential Block Damaged in Russian Assault, Local Officials Confirm
-- 11/07 11:54 [FirstSquawk] Authorities Confirm Continued House Arrest for Former Paraguay President Peña
-- 11/07 12:02 [FirstSquawk] Brazil's Klabin Announces Asset Contribution, With Investor Providing 1.2 Billion Reais in Cash
-- 11/07 12:02 [FirstSquawk] Brazil's Klabin to Control Vehicle Responsible for Managing Timber Assets in Paraná State
-- 11/07 12:08 [FirstSquawk] Klabin Strikes Agreement With Institutional Investor to Invest in Dedicated Business Vehicle: Filing
 - 11/07 12:09 [FirstSquawk] Sony Interactive Entertainment Postpones Pulse Elevate Speaker Release Over Production Problems
 - 11/07 12:09 [FirstSquawk] Trump Announces Plans for World's Largest Air Show in the US Within Two Years
 - 11/07 12:17 [FirstSquawk] World Bank Clears $300 Million Financing Package to Boost Education in Bangladesh
@@ -153,3 +73,67 @@
 - 11/07 16:25 [financialjuice] New Zealand electoral commission data: centre-right and centre-left coalitions need centrist support to govern with 26% of results counted
 - 11/07 16:29 [financialjuice] Russia's delegation at trilateral meeting with US and Ukraine to include Medinsky, Ryabkov, Galuzin, Kostyukov, and Zhigarlovsky: IFX cites Kremlin
 - 11/07 17:36 [financialjuice] Russia launched 36 ballistic missiles and 172 drones at Ukraine overnight, mainly targeting energy facilities: Zelenskiy
+- 11/07 17:38 [financialjuice] Ukraine's Zelenskiy: Russians deployed 172 drones and 36 ballistic missiles, all targeted at Kyiv and nearby areas overnight
+- 11/07 18:09 [financialjuice] New Zealand finance minister Willis: very unlikely to be returning to parliament
+- 11/07 18:48 [financialjuice] Russian forces hit Naftogaz facility thrice overnight in central Ukraine: company
+- 11/07 18:55 [financialjuice] New Zealand opposition leader Hipkins: shape of next government won’t be clear for a while
+- 11/07 18:55 [financialjuice] New Zealand opposition leader Hipkins: Next parliament will need all of us to collaborate to find common ground
+- 11/07 19:00 [financialjuice] Iran navy: oil tanker ignites in eastern Strait of Hormuz - Iranian media
+- 11/07 19:06 [financialjuice] Saudi civil defense issues warning of possible threat in Jizan city
+- 11/07 19:07 [FirstSquawk] SAUDI CIVIL DEFENSE ISSUES ALERT OF POTENTIAL DANGER IN JIZAN CITY
+- 11/07 19:09 [FirstSquawk] Southern Indiana Screaming Eagles take on the Evansville Purple Aces
+- 11/07 19:09 [FirstSquawk] TURKEY ARRESTS EX-MARKET REGULATOR OFFICIAL IN FUND PROBE: AA
+- 11/07 19:10 [FirstSquawk] UKRAINE'S NAFTOGAZ SAYS RUSSIA TARGETS ITS FACILITIES OVERNIGHT
+- 11/07 19:13 [financialjuice] Saudi civil defense: danger has passed in Jizan city
+- 11/07 19:16 [FirstSquawk] IRAN NAVY CLAIMS OIL TANKER HIT MINE IN HORMUZ SATURDAY: FARS
+- 11/07 19:23 [FirstSquawk] ISRAEL’S PRIME MINISTER AND HIS MOSSAD CHIEF PLANNED AN OPERATION AGAINST IRAN ON THE EVE OF ISRAEL'S OCTOBER 27 ELECTION, OVER THE OBJECTIONS OF OTHER SECURITY CHIEFS, AND DROPPED IT AFTER A MISTAKE BY AN ISRAELI OPERATIVE TIPPED OFF WASHI…
+- 11/07 19:37 [FirstSquawk] VENEZUELAN NATIONAL WAS ARRESTED NEAR THE WHITE HOUSE THURSDAY NIGHT AFTER OFFICERS FOUND HIM IN A STOLEN VEHICLE WITH THREE FIREARMS AND HEAPS OF AMMUNITION.
+- 11/07 19:44 [financialjuice] Oil minister: Iraq output exceeds 5 million bpd - state news agency
+- 11/07 19:54 [FirstSquawk] OIL MINISTER SAYS IRAQ PRODUCES MORE THAN 5 MILLION BPD - STATE NEWS AGENCY
+- 11/07 19:55 [FirstSquawk] Hamas: The worsening humanitarian situation in the Gaza Strip requires mediators to shoulder their responsibilities regarding the agreements reached.
+- 11/07 19:56 [FirstSquawk] Iranian Army Navy: A fire broke out aboard a non-compliant oil tanker this morning after it struck a naval mine east of the Strait of Hormuz.
+- 11/07 19:56 [FirstSquawk] Iranian news agency: The army’s air defenses shot down an American MQ-9 drone over Qeshm Island in the south of the country today.
+- 11/07 19:59 [FirstSquawk] KYIV FACES RUSSIAN MISSILE BARRAGE, NAFTOGAZ FACILITIES DAMAGED
+- 11/07 20:04 [FirstSquawk] NEW ZEALAND PRIME MINISTER LUXON: HEARTENING TO SEE ON CURRENT NUMBERS WE ARE LARGEST PARTY IN PARLIAMENT
+- 11/07 20:04 [financialjuice] New Zealand Prime Minister Luxon: encouraging that current figures show we are largest party in parliament
+- 11/07 20:04 [financialjuice] New Zealand Prime Minister Luxon: There is a route to form next government but outcome too close to call
+- 11/07 20:05 [financialjuice] New Zealand Prime Minister Luxon: talks and concessions will be necessary
+- 11/07 20:07 [FirstSquawk] NZ'S LUXON SAYS NATIONAL HAS PATHWAY TO FORMING NEXT GOVERNMENT
+- 11/07 20:15 [FirstSquawk] NZ'S LUXON SAYS ELECTION RESULT REMAINS TOO CLOSE TO CALL
+- 11/07 20:17 [FirstSquawk] EUROPEAN PARLIAMENT SECURITY AND DEFENSE COMMITTEE CHAIR MARIE-AGNES STRACK-ZIMMERMANN SAID ON SATURDAY THAT THE HUMAN RIGHTS OF IRANIANS WERE BEING OVERLOOKED AS INTERNATIONAL ATTENTION SHIFTED TOWARD NUCLEAR NEGOTIATIONS AND THE STRAIT OF…
+- 11/07 20:36 [FirstSquawk] MARCO RUBIO IS TIGHTENING CONTROL OVER THE STATE DEPARTMENT, WARNING SENIOR OFFICIALS AGAINST UNETHICAL CONDUCT, UNAUTHORIZED POLICYMAKING AND CONFLICTS OF INTEREST.
+- 11/07 20:42 [FirstSquawk] US: LOOK FORWARD TO WORKING WITH PARAGUAY'S PRESIDENT ALLIANA
+- 11/07 20:50 [FirstSquawk] ACS HAS NOT CONSIDERED HOCHTIEF TENDER OFFER, TURNER SHARE SALE
+- 11/07 20:56 [FirstSquawk] U.S. AMBASSADOR TO ISRAEL MIKE HUCKABEE: I DON'T THINK YOU CAN SAY, "WELL, I'M A BIBLICAL CHRISTIAN, BUT I DON'T BELIEVE GOD HAS ANY SPECIAL ROLE FOR ISRAEL."
+- 11/07 20:56 [FirstSquawk] U.S. AMBASSADOR TO ISRAEL MIKE HUCKABEE: IN ONE YEAR, FROM THE SUMMER OF 2025 UNTIL THE SPRING OF 2026, THE IRANIANS INCREASED THEIR CAPACITY TO DELIVER A BALLISTIC MISSILE FROM 2,000 KILOMETERS TO 4,100 KILOMETERS.
+- 11/07 21:02 [FirstSquawk] FRENCH STUDENTS, TEACHERS CALL NEW STRIKE FOR TUESDAY: AFP
+- 11/07 21:13 [FirstSquawk] MILITARY INTELLIGENCE IDENTIFIES RUSSIAN SOLDIERS INVOLVED IN DEADLY KOMYSHUVAKHA AID CENTER STRIKE. FOUR RUSSIAN SU-34 FIGHTER-BOMBERS WERE INVOLVED IN THE OPERATION, ACCORDING TO UKRAINE'S MILITARY INTELLIGENCE (HUR).
+- 11/07 21:18 [FirstSquawk] RUSSIA TAKES MORE JAPAN TOBACCO ASSETS AFTER SEIZURES HIT SHARES
+- 11/07 21:18 [FirstSquawk] MELONI BLAMES PRO-RUSSIA HACKERS FOR CYBERATTACK ON MINISTER
+- 11/07 21:27 [financialjuice] Saudi civil defence warns of potential threat in Najran
+- 11/07 21:30 [FirstSquawk] SAUDI ARABIA ISSUES ALERT OF POTENTIAL DANGER IN NAJRAN
+- 11/07 21:34 [financialjuice] Saudi civil defense: danger has passed in Najran
+- 11/07 21:57 [FirstSquawk] BERKSHIRE HATHAWAY 3Q OPERATING EARNINGS $12.71B, -5.8% Y/Y
+- 11/07 21:57 [FirstSquawk] BERKSHIRE HATHAWAY BOUGHT BACK ~$9.6B IN SHARES IN 3Q
+- 11/07 22:09 [FirstSquawk] DONALD TRUMP CLAIMED RUSSIA AND UKRAINE 'WANT TO MAKE A DEAL' AHEAD OF ABU DHABI TALKS, TOUTING A MASSIVE EUROPEAN SECURITY SETTLEMENT.
+- 11/07 22:09 [FirstSquawk] HOWEVER, EUROPEAN LEADERS AND KYIV EXPRESSED DEEP ALARM OVER VAGUE PROPOSALS AND WARNINGS OF A RUSSIAN ESCALATION.
+- 11/07 22:14 [FirstSquawk] RISK OF IRAN WAR ESCALATION REMAINS HIGH DESPITE DEMOCRATIC SWEEP IN U.S. MIDTERM ELECTIONS
+- 11/07 22:24 [financialjuice] Expanding on naval blockade: US military to form task force to strengthen efforts restricting Iran's use of land routes and Caspian Sea, statement
+- 11/07 22:26 [FirstSquawk] French trade union alliance calls for demonstrations, rallies and strikes next Tuesday.
+- 11/07 22:27 [FirstSquawk] French trade union alliance: Tuesday’s protests will include workers in education, higher education and scientific research
+- 11/07 22:27 [FirstSquawk] French trade union alliance: Tuesday’s protests are a response to the exclusion of public-sector wages from government talks with employers and unions
+- 11/07 22:27 [FirstSquawk] New protests in France by the Yellow Vests movement against the high cost of living
+- 11/07 22:28 [FirstSquawk] Zelensky: Russia used North Korean missiles to strike Ukraine’s power grid
+- 11/07 22:31 [FirstSquawk] NVIDIA CEO'S DAUGHTER CANCELS PLANNED VISIT TO S.KOREA: YONHAP
+- 11/07 22:32 [FirstSquawk] US CENTCOM: TASK FORCE AGAINST ROUTES SUPPORTING ILLEGAL SHIPMENTS
+- 11/07 22:33 [FirstSquawk] US: FORCE TO BACK ONGOING EFFORTS AGAINST IRAN'S ADVANCED ARMS
+- 11/07 23:02 [financialjuice] ECB releases media interview with Yomiuri Shimbun
+- 11/07 23:03 [FirstSquawk] Gaza Civil Defense: All areas of the Gaza Strip are facing catastrophic conditions amid the weather system.
+- 11/07 23:03 [FirstSquawk] Gaza Civil Defense: Since the onset of the weather system, we have received more than 1,500 distress calls requesting protection for residents.
+- 11/07 23:04 [FirstSquawk] Gaza Civil Defense: We appeal to the countries of the world not to turn a blind eye to the dire humanitarian situation facing the people of the Gaza Strip.
+- 11/07 23:04 [FirstSquawk] Gaza Civil Defense: We call for the provision of tents to protect residents amid the weather system.
+- 11/07 23:58 [FirstSquawk] Iranian president: We are working to move beyond the state of "neither war nor peace"
+- 11/07 23:58 [FirstSquawk] Syria’s General Authority for Border Crossings and Customs: We will reopen the Dabousieh border crossing with Lebanon on Monday.
+- 11/07 23:59 [FirstSquawk] Pezeshkian calls on Iranians to help reduce energy consumption.
+- 11/07 23:59 [FirstSquawk] Russia’s Defense Ministry: The Aerospace Forces successfully launched a medium-range Soyuz-2.1b rocket carrying a military satellite into orbit.
+- 11/07 23:59 [FirstSquawk] Zelensky: We were only able to intercept 4 of the 36 ballistic missiles Russia launched during last night’s attack.
