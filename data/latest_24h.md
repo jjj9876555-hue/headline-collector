@@ -7,127 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-11-07 10:55 JST／対象: 11/06 10:55 〜 11/07 10:55 JST（時刻はすべて日本時間）
+生成: 2026-11-07 17:38 JST／対象: 11/06 17:38 〜 11/07 17:38 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 68 | 11/06 20:01 | 11/07 10:01 | ⚠ 214分（06:23→09:57） |
-| FirstSquawk | 186 | 11/06 10:58 | 11/07 10:53 | ⚠ 246分（05:22→09:28） |
-| financialjuice | 256 | 11/06 11:40 | 11/07 10:13 | ⚠ 73分（08:16→09:29） |
+| FirstSquawk | 175 | 11/06 17:40 | 11/07 14:55 | ⚠ 246分（05:22→09:28） |
+| financialjuice | 237 | 11/06 18:07 | 11/07 17:36 | ⚠ 125分（11:01→13:06） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 501 行（統合前 511 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 471 行（統合前 481 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/06 10:58 [FirstSquawk] Hong Kong set to introduce AI facial recognition technology into its police CCTV network this month.
-- 11/06 11:02 [FirstSquawk] Singapore's benchmark equity index tumbles 2.7% to 5,152.29 points, hitting its lowest since June 18.
-- 11/06 11:03 [FirstSquawk] Indonesian stocks slide, with the benchmark index dropping 1.4% to 4,960.302.
-- 11/06 11:04 [FirstSquawk] Democrats Are Hatching A Plan To Reverse Trump’s Canada Tariffs – WSJ
-- 11/06 11:11 [FirstSquawk] Canadian dollar remains little changed amid a continued rebound in oil prices - FX
-- 11/06 11:17 [FirstSquawk] Japan Tobacco's assets in Russia come under local management following Putin's move. - KYODO
-- 11/06 11:23 [FirstSquawk] Asian markets slide sharply after technology stocks led losses in the US, amid fears that newly elected Democratic officials could curb the AI spending boom that has propelled global equities to record levels - CNN
-- 11/06 11:28 [FirstSquawk] Nasdaq futures jump over 1% as US equity futures recover following the AI rout.
-- 11/06 11:29 [FirstSquawk] Taiwan's stock market recovers some ground, with losses narrowing to 4.7%.
-- 11/06 11:31 [FirstSquawk] South Korea's benchmark index narrows its losses to 3.9% in the latest trading.
-- 11/06 11:36 [FirstSquawk] China’s benchmark coke futures climb 3.04% to 1,947.5 yuan/metric ton.
-- 11/06 11:37 [FirstSquawk] China adopts new anti-corruption legislation focused on cross-border cases, Xinhua reports.
-- 11/06 11:40 [financialjuice] S.Korea central bank announces sale of 91-day monetary stabilization bonds at 3.175% yield
-- 11/06 11:40 [FirstSquawk] South Korea's central bank sells 91-day stabilisation bonds, offering a yield of 3.175%.
-- 11/06 11:41 [financialjuice] S. Korea finmin: stock market overreacting to external factors
-- 11/06 11:42 [FirstSquawk] South Korea's Finance Minister says external factors are triggering an excessive reaction in the stock market.
-- 11/06 11:42 [financialjuice] S.Korea finance minister: necessary to be cautious of excessive worry given robust economic fundamentals
-- 11/06 11:43 [FirstSquawk] South Korea's Finance Minister pledges a proactive response to prevent further deterioration in market sentiment.
-- 11/06 11:43 [financialjuice] S.Korea finmin: to act proactively to avoid escalating market anxiety
-- 11/06 11:43 [FirstSquawk] South Korea's Finance Minister pledges heightened vigilance in monitoring the stock market.
-- 11/06 11:43 [financialjuice] S.Korea finance ministry: to watch stock market with utmost caution
-- 11/06 11:44 [financialjuice] S.Korea finmin: to relax rules on borrowed investment to reduce market volatility
-- 11/06 11:45 [FirstSquawk] South Korea plans to ease restrictions on borrowed investment as part of efforts to curb market volatility, FinMin says.
-- 11/06 11:45 [financialjuice] S.Korea finmin: will adopt more stabilizing measures if volatility rises further
-- 11/06 11:54 [FirstSquawk] KOSPI falls below 5,000 amid an AI-driven market sell-off after the US midterm elections, Yonhap reports.
-- 11/06 11:55 [financialjuice] China commerce ministry: held China-Netherlands export control dialogue meeting in Shenzhen on Nov 5
-- 11/06 11:55 [FirstSquawk] China, Netherlands hold export control talks in Shenzhen on November 5, Commerce Ministry says.
-- 11/06 12:06 [FirstSquawk] Japanese authorities direct Chubu Electric to address operational shortcomings following nuclear plant data fraud.
-- 11/06 12:12 [financialjuice] Binance: continue making progress restoring withdrawal services, will reopen withdrawals for more assets starting at 04:00 UTC
-- 11/06 12:12 [FirstSquawk] Binance says it will expand withdrawal availability to more assets starting at 04:00 UTC as restoration efforts continue.
-- 11/06 12:13 [FirstSquawk] Gold prices slide close to 1%, with spot bullion falling to $4,049.88 an ounce.
-- 11/06 12:24 [FirstSquawk] Canada charts a new economic independence strategy, marking a significant shift in its relationship with the US. - SCMP
-- 11/06 12:28 [FirstSquawk] US oil futures advance $1 to trade at $91.52/BBL.
-- 11/06 12:29 [financialjuice] Trump Washington arch gains crucial endorsement from government panel but judge may still halt construction
-- 11/06 12:29 [FirstSquawk] Trump's proposed Washington Arch clears a major regulatory hurdle, but construction remains subject to a possible court block.
-- 11/06 12:37 [FirstSquawk] Australian Dollar Comes Under Pressure on Softer RBA Outlook and US Dollar Gains - FX
-- 11/06 12:40 [FirstSquawk] Brent oil futures gain more than $2 to cross the $100/bbl threshold.
-- 11/06 12:41 [financialjuice] China finance ministry offers 50-year treasury bonds at 2.1537% yield: traders
-- 11/06 12:41 [financialjuice] China finance ministry sells 1-year bonds at 1.1403% yield: traders
-- 11/06 12:45 [FirstSquawk] Germany Sees Risks to Transatlantic Ties From Efforts to Cut Dependence on US Weapons – POLITICO
-- 11/06 12:58 [FirstSquawk] US Stock Market Expected to Find It Difficult to Recover to October Peak - WSJ
-- 11/06 13:06 [FirstSquawk] Thai Inflation Surpasses Central Bank Target as Price Pressures Accelerate - WSJ
-- 11/06 13:07 [FirstSquawk] Japan’s benchmark TOPIX extends losses, falling over 6% to an April low.
-- 11/06 13:17 [FirstSquawk] North Korea Removes Parliamentary Vice Chairman, Revises Construction and Precious Metal Regulations - YONHAP
-- 11/06 13:19 [financialjuice] Russia hits power plant near Ukraine's Sumy: Russian newswires cite defence ministry
-- 11/06 13:27 [FirstSquawk] Japan’s Electric Vehicle Sales Cross 100,000 Units for the First Time in 2026
-- 11/06 13:34 [FirstSquawk] Russian Forces Hit Power Station Near Ukraine’s Sumy, According to Defence Ministry – Russian Newswires
-- 11/06 13:40 [FirstSquawk] EU-China Trade Truce Comes Under Threat as Both Sides Prepare for Possible Escalation - SCMP
-- 11/06 13:41 [FirstSquawk] Yuan Poses Challenge for China, Too Weak Overseas and Too Strong Domestically - RTRS
-- 11/06 13:48 [financialjuice] US judge temporarily halts Trump administration's start of triumphal arch construction
-- 11/06 13:50 [FirstSquawk] Trump Administration Barred Temporarily From Beginning Triumphal Arch Construction by US Judge
-- 11/06 13:58 [FirstSquawk] Russia Claims Strikes on Energy Infrastructure in Kyiv Region and Cargo Ship in Odesa Port.
-- 11/06 14:00 [financialjuice] Swedish single-family home prices rise 4.2% august-october vs year earlier, svensk maklarstatistik data shows
-- 11/06 14:00 [financialjuice] Swedish apartment prices rise 5.8% in August-October compared with year-earlier period, svensk maklarstatistik data shows
-- 11/06 14:07 [FirstSquawk] Iran Marks Trump’s Election Defeat as Negotiators Work Toward Agreement to End War – FT
-- 11/06 14:12 [FirstSquawk] Iran-Connected Ships Gather Near Submarine Cables Amid Threats – FT
-- 11/06 14:12 [FirstSquawk] UK Gas Demand Set to Rise Sharply Due to Expanding Data Centre Usage – FT
-- 11/06 14:13 [FirstSquawk] JLR Had Identified Range Rover Part Fault Years Before Broadening Recalls – FT
-- 11/06 14:13 [FirstSquawk] Accenture and Big Four Firms Move Into Smaller Markets as They Seek New Growth – FT
-- 11/06 14:25 [FirstSquawk] 2. Australia’s benchmark S&P/ASX 200 ends down 0.5% at 9,020.80.
-- 11/06 14:28 [financialjuice] -x tells Indian court police takedown orders sent to prominent free speech groups were forged
-- 11/06 14:31 [FirstSquawk] AUSTRALIA FOREIGN RESERVES OCT: A$107.3B (PREV A$109.7B)
-- 11/06 14:34 [financialjuice] Taiwan stocks end 4.5% lower after trimming early declines
-- 11/06 15:22 [FirstSquawk] Gold Falls Further Below $4,050 Amid a Firmer Dollar, With US Jobs Data in Focus – FXStreet
-- 11/06 15:32 [financialjuice] Elon Musk: Tesla to wind down Cybertruck production in Texas in mid-2027 $TSLA
-- 11/06 15:46 [FirstSquawk] Barclays Turns More Positive on Ryanair, Upgrading It to Overweight With a €29 Target.
-- 11/06 15:47 [FirstSquawk] Barclays Turns More Positive on Deutsche Lufthansa, Upgrading It to Equal-Weight With an €8.40 Target.
-- 11/06 16:00 [financialjuice] ❗ GERMAN INDUSTRIAL PRODUCTION YOY SA ACTUAL 0.4% (FORECAST 1.2%, PREVIOUS 2.33%) $MACRO
-- 11/06 16:00 [financialjuice] ❗ GERMAN INDUSTRIAL PRODUCTION MOM ACTUAL 0.7% (FORECAST -0.1%, PREVIOUS 2.0%) $MACRO
-- 11/06 16:01 [FirstSquawk] SWEDEN (OCT) BUDGET BALANCE ACTUAL: -14.5B VS -23.0B PREVIOUS
-- 11/06 16:01 [FirstSquawk] NORWAY (SEP) IND PROD MANUFACTURING WDA YOY ACTUAL: 1.3% VS 0.4% PREVIOUS
-- 11/06 16:02 [FirstSquawk] NORWAY (SEP) IND PROD MANUFACTURING MOM ACTUAL: 0.0% VS -0.4% PREVIOUS
-- 11/06 16:02 [FirstSquawk] NORWAY (SEP) INDUSTRIAL PRODUCTION WDA YOY ACTUAL: -1.8% VS -0.6% PREVIOUS
-- 11/06 16:02 [FirstSquawk] NORWAY (SEP) INDUSTRIAL PRODUCTION MOM ACTUAL: 1.0% VS 1.0% PREVIOUS
-- 11/06 16:02 [FirstSquawk] GERMANY (SEP) INDUSTRIAL PRODUCTION WDA YOY ACTUAL: 0.4% VS 2.3% PREVIOUS;EST 1.2%
-- 11/06 16:02 [FirstSquawk] GERMANY (SEP) INDUSTRIAL PRODUCTION SA MOM ACTUAL: 0.7% VS 2.0% PREVIOUS;EST -0.1%
-- 11/06 16:04 [FirstSquawk] SAUDI ARABIA: ISSUES ALERT OF POTENTIAL DANGER IN NAJRAN
-- 11/06 16:08 [FirstSquawk] CHINA'S HE LIFENG TO VISIT CANADA NOVMBER 9 FOR TRADE DIALOGUE
-- 11/06 16:10 [financialjuice] UK house prices fell 1.2% on year in October - Lloyds
-- 11/06 16:11 [financialjuice] Average UK house price in October was £296,285 vs £296,285 in September - Lloyds
-- 11/06 16:11 [financialjuice] UK housing demand is being tested by a challenging economic backdrop - Lloyds
-- 11/06 16:27 [FirstSquawk] IRGC NAVY: TWO TANKERS STRUCK MINES, CAUSING FIRES IN HORMUZ STRAIT
-- 11/06 16:28 [financialjuice] Iran's IRGC Navy: Two oil tankers catch fire while attempting to pass through the Strait of Hormuz - IRNA
-- 11/06 16:34 [FirstSquawk] QATAR EMIR GETS PHONE CALL FROM TRUMP
-- 11/06 16:37 [FirstSquawk] SAUDI-LED COALITION SAYS INTERCEPTS 2 MISSILES TARGETING NAJRAN
-- 11/06 16:38 [FirstSquawk] SAUDI-LED COALITION SAYS DEBRIS FELL DUE TO INTERCEPTION
-- 11/06 16:39 [financialjuice] Qatar Emir and Trump discuss de-escalation efforts in the Middle East
-- 11/06 16:39 [FirstSquawk] QATAR EMIR- TRUMP DISCUSS DE-ESCALATION EFFORTS IN MIDDLE EAST
-- 11/06 16:45 [financialjuice] FRENCH TRADE BALANCE SA ACTUAL -7.31398B (FORECAST -, PREVIOUS -6.12B) $MACRO
-- 11/06 16:45 [financialjuice] FRENCH CURRENT ACCOUNT ACTUAL -2.7B (FORECAST -, PREVIOUS -1.5B) $MACRO
-- 11/06 16:48 [FirstSquawk] QATAR'S EMIR STRESSES IMPORTANCE OF AVOIDING FURTHER ESCALATION, ENSURING FREEDOM OF NAVIGATION AND SECURITY OF ENERGY SUPPLIES IN CALL WITH TRUMP - QATARI STATEMENT
-- 11/06 16:49 [FirstSquawk] UKRAINE: RUSSIAN ATTACKS CAUSE NEW POWER OUTAGES IN 7 REGIONS, KYIV AREA WORST HIT
-- 11/06 16:52 [financialjuice] BoE Gov. Bailey: I don't agree we have got endemic inflation
-- 11/06 16:53 [FirstSquawk] BAILEY SAYS I DON'T AGREE WE HAVE GOT ENDEMIC INFLATION
-- 11/06 16:55 [FirstSquawk] BAILEY SAYS IF ENERGY PRICES REMAIN HIGH, ANOTHER HIKE POSSIBLE
-- 11/06 16:55 [financialjuice] BoE Gov. Bailey: Private wages at upper end range for inflation target
-- 11/06 16:55 [financialjuice] BoE Gov. Bailey: If energy prices remain high, another hike is possible
-- 11/06 16:58 [FirstSquawk] BAILEY SAYS PRIVATE WAGES AT UPPER END RANGE FOR INFLATION TARGET
-- 11/06 16:59 [FirstSquawk] BAILEY SAYS HACKS SHOW WE MUST UNDERSTAND AI FRONTIER MODELS WELL
-- 11/06 16:59 [FirstSquawk] BAILEY SAYS WE'RE VERY MUCH ON TOP OF CYBER RISKS
-- 11/06 17:00 [financialjuice] SWISS CONSUMER CONFIDENCE SA ACTUAL -44.9 (FORECAST -35.5, PREVIOUS -34) $MACRO
-- 11/06 17:01 [financialjuice] Currency Strength Chart: Strongest: USD, CHF, JPY, CAD, EUR, GBP, NZD, AUD - Weakest
-- 11/06 17:12 [financialjuice] Taiwan's economy ministry: Demand for applications such as artificial intelligence (AI), high-performance computing, and cloud services continues to expand
-- 11/06 17:25 [financialjuice] Ukraine said to confirm strike on Russia's Afipsky refinery
 - 11/06 17:40 [FirstSquawk] TAKAICHI SAYS FORMULATED EMERGENCY RESPONSE PACKAGE ON CYBERATTACKS
 - 11/06 17:56 [FirstSquawk] TAKAICHI SAYS CHINA IS AN IMPORTANT NEIGHBORING COUNTRY
 - 11/06 17:56 [FirstSquawk] TAKAICHI SAYS WILL SEEK TALKS TO PROTECT INTERESTS, BUILD RELATIONS
@@ -525,3 +421,77 @@
 - 11/07 10:52 [FirstSquawk] FDA Continues to Assess Neoplasia Risks, Including Malignancy, in Similar AAV Gene Therapy Programs
 - 11/07 10:53 [FirstSquawk] FDA Launches Investigation Into Malignancy Risk Associated With Zolgensma
 - 11/07 10:53 [FirstSquawk] Qatar's Prime Minister Calls for Resolution of Iran Issue, Warns Against Further Escalation
+- 11/07 11:00 [FirstSquawk] China, US Commit to Continued Consultations for Stable Trade Development: Xinhua
+- 11/07 11:00 [FirstSquawk] China Flags Concerns Over US Trade Measures Against Chinese Businesses: Xinhua
+- 11/07 11:01 [FirstSquawk] China's Foreign Exchange Reserves Increase by $5 Billion in October: Central Bank
+- 11/07 11:01 [financialjuice] China foreign exchange reserves $3.405 trillion at end-October vs $3.400 trillion at end-September: central bank
+- 11/07 11:01 [financialjuice] China's gold reserves $306.41 billion at end-October vs $323.52 billion at end-September: central bank
+- 11/07 11:01 [financialjuice] China's gold holdings 78.30 million fine troy oz at end-October vs 77.47 million at end-September: central bank
+- 11/07 11:01 [FirstSquawk] China Gold Reserves Fall to $306.41 Billion in October From $323.52 Billion in September
+- 11/07 11:01 [FirstSquawk] China Increases Gold Holdings to 78.30 Million Troy Ounces in October: Central Bank
+- 11/07 11:11 [FirstSquawk] China's He Lifeng Engages in Video Talks With US Treasury Chief Bessent and Trade Representative Greer
+- 11/07 11:12 [FirstSquawk] Qatar's PM Says Major Progress Has Been Achieved, Sees Path to Settlement
+- 11/07 11:12 [FirstSquawk] Qatar's PM Says Washington Willing to Pursue Resolution Beyond Midterm Elections
+- 11/07 11:12 [FirstSquawk] Qatar PM Reaffirms Ongoing Mediation Efforts to Contain Escalating Situation: Al Jazeera
+- 11/07 11:19 [FirstSquawk] Trump Says Moscow and Kyiv Are Willing to End the Conflict
+- 11/07 11:19 [FirstSquawk] Trump Says Iran Built New Anti-Aircraft System, Which US Subsequently Disabled
+- 11/07 11:20 [FirstSquawk] Trump Anticipates Few Cabinet Departures in Coming Period
+- 11/07 11:31 [FirstSquawk] Trump Says US Is Dealing With Iranians, Will See How Things Unfold
+- 11/07 11:31 [FirstSquawk] Haiti's Mathias Saintil, Notorious Gang Leader, Reported Dead
+- 11/07 11:31 [FirstSquawk] Datavault AI Founder Files Lawsuit to Overturn Contested CEO Removal
+- 11/07 11:39 [FirstSquawk] Kyiv Comes Under Russian Ballistic Missile Attack, Klitschko Reports
+- 11/07 11:53 [FirstSquawk] Multiple Powerful Explosions Heard in Ukraine's Capital, Reuters Witness Says
+- 11/07 11:54 [FirstSquawk] Kyiv Residential Block Damaged in Russian Assault, Local Officials Confirm
+- 11/07 11:54 [FirstSquawk] Authorities Confirm Continued House Arrest for Former Paraguay President Peña
+- 11/07 12:02 [FirstSquawk] Brazil's Klabin Announces Asset Contribution, With Investor Providing 1.2 Billion Reais in Cash
+- 11/07 12:02 [FirstSquawk] Brazil's Klabin to Control Vehicle Responsible for Managing Timber Assets in Paraná State
+- 11/07 12:08 [FirstSquawk] Klabin Strikes Agreement With Institutional Investor to Invest in Dedicated Business Vehicle: Filing
+- 11/07 12:09 [FirstSquawk] Sony Interactive Entertainment Postpones Pulse Elevate Speaker Release Over Production Problems
+- 11/07 12:09 [FirstSquawk] Trump Announces Plans for World's Largest Air Show in the US Within Two Years
+- 11/07 12:17 [FirstSquawk] World Bank Clears $300 Million Financing Package to Boost Education in Bangladesh
+- 11/07 12:18 [FirstSquawk] New Zealand Beach Mass Stranding Claims Lives of More Than 40 Pilot Whales: CNN
+- 11/07 12:19 [FirstSquawk] NVIDIA Chief Jensen Huang Linked to Alleged Chinese Spy in US Government Assessment: FT
+- 11/07 12:25 [FirstSquawk] US MQ-9 Drone Reportedly Shot Down Over Iran's Qeshm Island: State Media
+- 11/07 12:32 [FirstSquawk] BP's Whiting Refinery Awaits Response to Offer for Meeting Next Week
+- 11/07 12:32 [FirstSquawk] BP's Whiting Refinery: Meeting Proposed Following October 26 Talks, but No Confirmation Received
+- 11/07 12:41 [FirstSquawk] Dozens Injured After Four-Story Building Collapses in São Paulo
+- 11/07 12:41 [FirstSquawk] Municipal Gas Authority of Georgia Retains 'A+' Rating as Fitch Keeps Outlook Stable
+- 11/07 12:52 [FirstSquawk] Iranian State Media Reports Two Blasts Near Suza on Qeshm Island, No Casualties
+- 11/07 12:52 [FirstSquawk] Fitch Says Cyprus Economy Recovering Rapidly Despite Earlier Weak Sentiment Amid Middle East Crisis
+- 11/07 12:52 [FirstSquawk] Berlin Retains Top 'AAA' Rating as Fitch Keeps Outlook Stable
+- 11/07 13:04 [FirstSquawk] Greece Retains 'BBB' Rating as Fitch Keeps Outlook Stable
+- 11/07 13:04 [FirstSquawk] Fitch Says Cyprus Rating Upgrade Driven by Solid Fiscal Position and Declining Public Debt
+- 11/07 13:06 [financialjuice] Hong Kong Legislative Council condemns foreign governments’ criticism of court ruling on Joshua Wong
+- 11/07 13:18 [FirstSquawk] Cyprus Secures 'A' Rating as Fitch Upgrades Sovereign Credit Rating
+- 11/07 13:18 [FirstSquawk] Iran's Tasnim Reports Possible Missile Attack on Qeshm Island, Cites Initial Reports
+- 11/07 13:30 [FirstSquawk] Anthropic Prepares to Kick Off IPO Roadshow Next Week, Report Says
+- 11/07 13:32 [FirstSquawk] Canada's Unemployment Rate Rises to 6.7% Following Loss of 4,700 Jobs in October: CNBC
+- 11/07 13:42 [FirstSquawk] Trump Pledges to Host the World's Largest Air Show in America - RTRS
+- 11/07 13:49 [FirstSquawk] China sends four satellites into orbit aboard a CERES-2 Y3 carrier rocket on Saturday.
+- 11/07 13:52 [FirstSquawk] Chinese EV brands Seres and Li Auto step up expansion into European markets.
+- 11/07 13:56 [FirstSquawk] Trump Wants Stephen Miller to Ensure Smooth Operations in Chief of Staff Role
+- 11/07 13:57 [FirstSquawk] Trump Reveals Decision to Make a Change
+- 11/07 13:58 [FirstSquawk] Trump Expresses Confidence in Stephen Miller's Ability to Deliver
+- 11/07 14:00 [FirstSquawk] US Treasury Unveils Fresh Sanctions Targeting Iran - RTRS
+- 11/07 14:03 [FirstSquawk] Trump Confirms Further US Strikes on Iran Amid Political Fallout From Midterm Elections - SCMP
+- 11/07 14:03 [financialjuice] Britain preparing to host Volodymyr Zelenskiy for state visit next year: FT
+- 11/07 14:07 [financialjuice] Saudi-led coalition: intercepted and destroyed Houthi cruise missile targeted at Riyadh
+- 11/07 14:08 [FirstSquawk] Houthi Cruise Missile Targeting Riyadh Intercepted by Saudi-Led Coalition
+- 11/07 14:14 [FirstSquawk] China Voices 'Serious Concern' Over US Sanctions Ahead of Xi-Trump APEC Meeting: SCMP
+- 11/07 14:21 [FirstSquawk] European Authorities Investigate Potential Russian Role in Bomb Threat Campaigns - FT
+- 11/07 14:23 [FirstSquawk] Ukraine Announces Large-Scale Operation Targeting Russian Regions, Including Saratov Refinery
+- 11/07 14:30 [FirstSquawk] China Set to Limit Application of Controversial Detention and Surveillance Measures - SCMP
+- 11/07 14:31 [FirstSquawk] UK Rules Out Slowing AI Ambitions Amid Rising US Backlash, Growth Minister Says - FT
+- 11/07 14:36 [FirstSquawk] Burnham's Decade-Long Plan Transitions Into a Broader Policy Framework - FT
+- 11/07 14:54 [FirstSquawk] Scottish Authorities Examine Potential Seizure of Sanjeev Gupta's Corporate Assets - FT
+- 11/07 14:55 [FirstSquawk] Moscow Turns to Arctic Sea Routes to Protect Metal Exports From Ukrainian Strikes - FT
+- 11/07 15:00 [financialjuice] Polls close in New Zealand general election: early results expected soon
+- 11/07 15:11 [financialjuice] New Zealand Electoral Commission data: ruling National at 30.81%, opposition Labour on 29.88% with 1.6% of votes counted
+- 11/07 15:12 [financialjuice] New Zealand election commission data: centrist opportunity party to cross threshold with 1.9% of votes counted
+- 11/07 15:35 [financialjuice] New Zealand opposition lawmaker McNulty: National Party support exceeds expectations
+- 11/07 15:35 [financialjuice] Data from New Zealand electoral commission shows ruling National-led coalition likely to return to power with 10.9% of votes counted
+- 11/07 15:56 [financialjuice] Data from New Zealand electoral commission: Ruling National party may form coalition with 20% of votes counted
+- 11/07 16:12 [financialjuice] New Zealand Electoral Commission data: opposition Labour leads popular vote, but ruling National forms coalition with 24% counted
+- 11/07 16:25 [financialjuice] New Zealand electoral commission data: centre-right and centre-left coalitions need centrist support to govern with 26% of results counted
+- 11/07 16:29 [financialjuice] Russia's delegation at trilateral meeting with US and Ukraine to include Medinsky, Ryabkov, Galuzin, Kostyukov, and Zhigarlovsky: IFX cites Kremlin
+- 11/07 17:36 [financialjuice] Russia launched 36 ballistic missiles and 172 drones at Ukraine overnight, mainly targeting energy facilities: Zelenskiy
