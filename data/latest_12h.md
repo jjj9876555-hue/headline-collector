@@ -7,42 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-11-08 04:24 JST／対象: 11/07 16:24 〜 11/08 04:24 JST（時刻はすべて日本時間）
+生成: 2026-11-08 07:52 JST／対象: 11/07 19:52 〜 11/08 07:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 2 | 11/08 04:15 | 11/08 04:16 | 1分（04:15→04:16） |
-| FirstSquawk | 77 | 11/07 19:07 | 11/08 03:40 | ⚠ 54分（23:04→23:58） |
-| financialjuice | 34 | 11/07 16:25 | 11/08 04:18 | ⚠ 127分（00:35→02:42） |
+| DeItaone | 6 | 11/08 04:15 | 11/08 06:47 | ⚠ 58分（04:16→05:14） |
+| FirstSquawk | 70 | 11/07 19:54 | 11/08 03:40 | ⚠ 54分（23:04→23:58） |
+| financialjuice | 35 | 11/07 20:04 | 11/08 06:54 | ⚠ 127分（00:35→02:42） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 112 行（統合前 113 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 109 行（統合前 111 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/07 16:25 [financialjuice] New Zealand electoral commission data: centre-right and centre-left coalitions need centrist support to govern with 26% of results counted
-- 11/07 16:29 [financialjuice] Russia's delegation at trilateral meeting with US and Ukraine to include Medinsky, Ryabkov, Galuzin, Kostyukov, and Zhigarlovsky: IFX cites Kremlin
-- 11/07 17:36 [financialjuice] Russia launched 36 ballistic missiles and 172 drones at Ukraine overnight, mainly targeting energy facilities: Zelenskiy
-- 11/07 17:38 [financialjuice] Ukraine's Zelenskiy: Russians deployed 172 drones and 36 ballistic missiles, all targeted at Kyiv and nearby areas overnight
-- 11/07 18:09 [financialjuice] New Zealand finance minister Willis: very unlikely to be returning to parliament
-- 11/07 18:48 [financialjuice] Russian forces hit Naftogaz facility thrice overnight in central Ukraine: company
-- 11/07 18:55 [financialjuice] New Zealand opposition leader Hipkins: shape of next government won’t be clear for a while
-- 11/07 18:55 [financialjuice] New Zealand opposition leader Hipkins: Next parliament will need all of us to collaborate to find common ground
-- 11/07 19:00 [financialjuice] Iran navy: oil tanker ignites in eastern Strait of Hormuz - Iranian media
-- 11/07 19:06 [financialjuice] Saudi civil defense issues warning of possible threat in Jizan city
-- 11/07 19:07 [FirstSquawk] SAUDI CIVIL DEFENSE ISSUES ALERT OF POTENTIAL DANGER IN JIZAN CITY
-- 11/07 19:09 [FirstSquawk] Southern Indiana Screaming Eagles take on the Evansville Purple Aces
-- 11/07 19:09 [FirstSquawk] TURKEY ARRESTS EX-MARKET REGULATOR OFFICIAL IN FUND PROBE: AA
-- 11/07 19:10 [FirstSquawk] UKRAINE'S NAFTOGAZ SAYS RUSSIA TARGETS ITS FACILITIES OVERNIGHT
-- 11/07 19:13 [financialjuice] Saudi civil defense: danger has passed in Jizan city
-- 11/07 19:16 [FirstSquawk] IRAN NAVY CLAIMS OIL TANKER HIT MINE IN HORMUZ SATURDAY: FARS
-- 11/07 19:23 [FirstSquawk] ISRAEL’S PRIME MINISTER AND HIS MOSSAD CHIEF PLANNED AN OPERATION AGAINST IRAN ON THE EVE OF ISRAEL'S OCTOBER 27 ELECTION, OVER THE OBJECTIONS OF OTHER SECURITY CHIEFS, AND DROPPED IT AFTER A MISTAKE BY AN ISRAELI OPERATIVE TIPPED OFF WASHI…
-- 11/07 19:37 [FirstSquawk] VENEZUELAN NATIONAL WAS ARRESTED NEAR THE WHITE HOUSE THURSDAY NIGHT AFTER OFFICERS FOUND HIM IN A STOLEN VEHICLE WITH THREE FIREARMS AND HEAPS OF AMMUNITION.
-- 11/07 19:44 [financialjuice] Oil minister: Iraq output exceeds 5 million bpd - state news agency
 - 11/07 19:54 [FirstSquawk] OIL MINISTER SAYS IRAQ PRODUCES MORE THAN 5 MILLION BPD - STATE NEWS AGENCY
 - 11/07 19:55 [FirstSquawk] Hamas: The worsening humanitarian situation in the Gaza Strip requires mediators to shoulder their responsibilities regarding the agreements reached.
 - 11/07 19:56 [FirstSquawk] Iranian Army Navy: A fire broke out aboard a non-compliant oil tanker this morning after it struck a naval mine east of the Strait of Hormuz.
@@ -136,3 +117,19 @@
 - 11/08 04:15 [DeItaone] TRUMP: DANA WHITE HAS BEEN OFFERED JOB OF PRESS SECRETARY
 - 11/08 04:16 [DeItaone] President Donald Trump on Saturday said he has asked UFC chief executive Dana White to serve as White House press secretary and had called on the longtime fight promoter to bring some assistants with him "even though some are not from our c…
 - 11/08 04:18 [financialjuice] Saudi civil defense: danger in Jazan has passed
+- 11/08 04:27 [financialjuice] Israeli president selects Gadi Eisenkot, Netanyahu rival, to form government: Israeli media
+- 11/08 04:33 [financialjuice] Explosions reported in Iran's Qeshm: ISNA News Agency
+- 11/08 04:39 [financialjuice] Explosions heard in Iran's Qeshm: IRNA corrects source
+- 11/08 05:14 [financialjuice] Explosions heard in Jask, Sirik, Bandar Abbas and Geshm in southern Iran: Iranian state TV
+- 11/08 05:14 [DeItaone] EXPLOSIONS HEARD IN JASK, SIRIK, BANDAR ABBAS AND QESHM IN SOUTHERN IRAN, CAUSE UNCLEAR - IRANIAN STATE TV
+- 11/08 05:24 [financialjuice] Iran state TV reporter: Explosions could be connected to Iranian military actions in Strait of Hormuz
+- 11/08 05:32 [financialjuice] Iran’s Tasnim News Agency: Explosions heard on Geshm Island not linked to missile attacks
+- 11/08 05:33 [DeItaone] IRAN'S TASNIM NEWS AGENCY CITES SOURCE AS SAYING THAT EXPLOSIONS HEARD ON QESHM ISLAND NOT RELATED TO MISSILE STRIKES
+- 11/08 05:37 [financialjuice] US Central Command: Forces disabled commercial ship in Gulf of Oman Saturday
+- 11/08 06:11 [DeItaone] IRAN'S IRGC NAVY SAYS TWO OIL TANKERS HIT MINES NEAR STRAIT OF HORMUZ -IRANIAN STATE TV
+- 11/08 06:11 [financialjuice] Iran's IRGC navy: two oil tankers struck mines near Strait of Hormuz - Iranian state TV
+- 11/08 06:11 [financialjuice] Trump orders Justice Department to investigate Democrats threatening many people
+- 11/08 06:32 [financialjuice] UKMTO reports incident between bulk carrier and military forces in Gulf of Oman near Khor Fakkan, UAE
+- 11/08 06:32 [financialjuice] UKMTO: status of crew, damage evaluation and environmental impact unclear at time of report
+- 11/08 06:40 [financialjuice/DeItaone] UFC CEO Dana White declines Trump’s offer to become press secretary: source says - CNN
+- 11/08 06:54 [financialjuice] Sneak peak of some data in FJ 2.0 - launching soon 😍

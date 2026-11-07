@@ -7,58 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-11-08 04:24 JST／対象: 11/07 04:24 〜 11/08 04:24 JST（時刻はすべて日本時間）
+生成: 2026-11-08 07:52 JST／対象: 11/07 07:52 〜 11/08 07:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 16 | 11/07 04:49 | 11/08 04:16 | ⚠ 1093分（10:01→04:15） |
-| FirstSquawk | 161 | 11/07 04:31 | 11/08 03:40 | ⚠ 252分（14:55→19:07） |
-| financialjuice | 85 | 11/07 04:31 | 11/08 04:18 | ⚠ 127分（00:35→02:42） |
+| DeItaone | 15 | 11/07 09:57 | 11/08 06:47 | ⚠ 1093分（10:01→04:15） |
+| FirstSquawk | 154 | 11/07 09:28 | 11/08 03:40 | ⚠ 252分（14:55→19:07） |
+| financialjuice | 74 | 11/07 08:03 | 11/08 06:54 | ⚠ 127分（00:35→02:42） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 260 行（統合前 262 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 241 行（統合前 243 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/07 04:31 [financialjuice] NYMEX WTI Crude Dec. futures settle at $90.83 a barrel up 31 cents, 0.34%
-- 11/07 04:31 [FirstSquawk] US CRUDE OIL FUTURES SETTLE AT $90.83/BBL, UP 31 CENTS, 0.34 PCT
-- 11/07 04:31 [financialjuice] NYMEX Nat Gas Dec. futures settle at $2.9980/MMBTU
-- 11/07 04:32 [financialjuice] NYMEX gasoline Dec. futures settle at $2.7767 a gallon
-- 11/07 04:32 [financialjuice] NYMEX diesel Dec. futures settle at $4.3317 a gallon
-- 11/07 04:35 [FirstSquawk] US ISSUES NEW IRAN-RELATED SANCTIONS -US TREASURY DEPARTMENT
-- 11/07 04:41 [financialjuice/FirstSquawk] Oil traders are in talks with US to use sanctioned tankers
-- 11/07 04:41 [financialjuice] Brent Crude futures settle at $98.32/bbl, up 3 cents, 0.03%
-- 11/07 04:41 [financialjuice] Move aimed at easing freight rates and oil prices
-- 11/07 04:49 [DeItaone] *TRUMP SAYS WE HAD THE MOST INCREDIBLE JOB NUMBERS
-- 11/07 04:50 [financialjuice] Trump blames vote for stock market loss
-- 11/07 04:50 [DeItaone] TRUMP: WANT STEPHEN MILLER TO RUN THINGS WELL AS CHIEF OF STAFF TRUMP: I WANTED TO MAKE A CHANGE
-- 11/07 04:51 [DeItaone] TRUMP: WE ARE TALKING TO IRAN
-- 11/07 04:51 [FirstSquawk] TRUMP ON IRAN: WE'RE TALKING TO IRAN
-- 11/07 04:51 [financialjuice] Trump: We're talking to Iran, we have been.
-- 11/07 04:52 [financialjuice] Trump ends remarks to reporters
-- 11/07 05:00 [financialjuice] US CONSUMER CREDIT ACTUAL 27.839B (FORECAST 13.8B, PREVIOUS 8.28B) $MACRO
-- 11/07 05:01 [financialjuice] US Consumer Credit September 2026 Report
-- 11/07 05:02 [FirstSquawk] US CONSUMER CREDIT SEP: $27.84 BLN (EXP $13.80 BLN, PREV $8.28 BLN)
-- 11/07 05:22 [FirstSquawk] SAUDI-LED COALITION SAYS IT INTERCEPTED AND DESTROYED DRONE IN RIYADH REGION
-- 11/07 05:22 [FirstSquawk] IBM UNVEILS ITS MOST ADVANCED QUANTUM COMPUTER IN CHICAGO - CT
-- 11/07 05:22 [financialjuice] Monday FX Options Expiries
-- 11/07 05:42 [financialjuice] CFTC Positions in the Week of November 3rd 2026
-- 11/07 05:46 [financialjuice] Week Ahead: Economic Indicators 9th – 13th November (US)
-- 11/07 05:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: -290.9 MLN NASDAQ 100: 33.5 MLN DOW 30: 441.9 MLN MAG 7: 313.2 MLN $MACRO
-- 11/07 05:59 [financialjuice] OpenAI closes $11 billion of new round at $1.25 trillion value; initial funding commitments were wired as of Friday.
-- 11/07 06:18 [financialjuice] Chipmakers Rebound as Dip Buyers Lift Stocks Despite Fed Rate-Hike Bets – US Market Wrap
-- 11/07 06:22 [DeItaone] OPENAI COMPLETES $11 BILLION PORTION OF FUNDING AT $1.25 TRILLION VALUE
-- 11/07 06:23 [DeItaone] *ANTHROPIC PLANS NOVEMBER IPO RAISING $80B-$100B AT $1.25T-$1.75T VALUATION: FT
-- 11/07 07:01 [financialjuice] Anthropic to start IPO roadshow next week: the information
-- 11/07 07:01 [financialjuice] Iran's semi-official Tasnim news agency: initial reports suggest two missiles hit Qeshm Island; no official confirmation
-- 11/07 07:08 [financialjuice] Iran state broadcaster cites informed source: two blasts heard near Suza area in Qeshm Island, no casualty reports
-- 11/07 07:44 [financialjuice] Paraguay prosecutor's office issues arrest warrant for Santiago Pena
-- 11/07 07:44 [financialjuice] Paraguay prosecutor's office issues arrest warrant for former central bank chief
-- 11/07 07:50 [financialjuice] Paraguay's Pedro Alliana sworn in as president, replacing Santiago Pena following impeachment
 - 11/07 08:03 [financialjuice] Iran's military: U.S. MQ-9 drone downed over Qeshm island - state media
 - 11/07 08:08 [financialjuice] Paraguay's Santiago Peña detained, local media ABC reports
 - 11/07 08:16 [financialjuice] Trump: US will host largest air show worldwide in two years
@@ -284,3 +249,19 @@
 - 11/08 04:15 [DeItaone] TRUMP: DANA WHITE HAS BEEN OFFERED JOB OF PRESS SECRETARY
 - 11/08 04:16 [DeItaone] President Donald Trump on Saturday said he has asked UFC chief executive Dana White to serve as White House press secretary and had called on the longtime fight promoter to bring some assistants with him "even though some are not from our c…
 - 11/08 04:18 [financialjuice] Saudi civil defense: danger in Jazan has passed
+- 11/08 04:27 [financialjuice] Israeli president selects Gadi Eisenkot, Netanyahu rival, to form government: Israeli media
+- 11/08 04:33 [financialjuice] Explosions reported in Iran's Qeshm: ISNA News Agency
+- 11/08 04:39 [financialjuice] Explosions heard in Iran's Qeshm: IRNA corrects source
+- 11/08 05:14 [financialjuice] Explosions heard in Jask, Sirik, Bandar Abbas and Geshm in southern Iran: Iranian state TV
+- 11/08 05:14 [DeItaone] EXPLOSIONS HEARD IN JASK, SIRIK, BANDAR ABBAS AND QESHM IN SOUTHERN IRAN, CAUSE UNCLEAR - IRANIAN STATE TV
+- 11/08 05:24 [financialjuice] Iran state TV reporter: Explosions could be connected to Iranian military actions in Strait of Hormuz
+- 11/08 05:32 [financialjuice] Iran’s Tasnim News Agency: Explosions heard on Geshm Island not linked to missile attacks
+- 11/08 05:33 [DeItaone] IRAN'S TASNIM NEWS AGENCY CITES SOURCE AS SAYING THAT EXPLOSIONS HEARD ON QESHM ISLAND NOT RELATED TO MISSILE STRIKES
+- 11/08 05:37 [financialjuice] US Central Command: Forces disabled commercial ship in Gulf of Oman Saturday
+- 11/08 06:11 [DeItaone] IRAN'S IRGC NAVY SAYS TWO OIL TANKERS HIT MINES NEAR STRAIT OF HORMUZ -IRANIAN STATE TV
+- 11/08 06:11 [financialjuice] Iran's IRGC navy: two oil tankers struck mines near Strait of Hormuz - Iranian state TV
+- 11/08 06:11 [financialjuice] Trump orders Justice Department to investigate Democrats threatening many people
+- 11/08 06:32 [financialjuice] UKMTO reports incident between bulk carrier and military forces in Gulf of Oman near Khor Fakkan, UAE
+- 11/08 06:32 [financialjuice] UKMTO: status of crew, damage evaluation and environmental impact unclear at time of report
+- 11/08 06:40 [financialjuice/DeItaone] UFC CEO Dana White declines Trump’s offer to become press secretary: source says - CNN
+- 11/08 06:54 [financialjuice] Sneak peak of some data in FJ 2.0 - launching soon 😍
