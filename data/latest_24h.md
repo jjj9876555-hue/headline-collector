@@ -7,96 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-11-08 10:54 JST／対象: 11/07 10:54 〜 11/08 10:54 JST（時刻はすべて日本時間）
+生成: 2026-11-08 17:24 JST／対象: 11/07 17:24 〜 11/08 17:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 6 | 11/08 04:15 | 11/08 06:47 | ⚠ 58分（04:16→05:14） |
-| FirstSquawk | 171 | 11/07 11:00 | 11/08 10:53 | ⚠ 322分（03:40→09:03） |
-| financialjuice | 64 | 11/07 11:01 | 11/08 10:53 | ⚠ 229分（06:54→10:44） |
+| FirstSquawk | 165 | 11/07 19:07 | 11/08 17:00 | ⚠ 322分（03:40→09:03） |
+| financialjuice | 61 | 11/07 17:36 | 11/08 15:05 | ⚠ 229分（06:54→10:44） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 239 行（統合前 241 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 229 行（統合前 232 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/07 11:00 [FirstSquawk] China, US Commit to Continued Consultations for Stable Trade Development: Xinhua
-- 11/07 11:00 [FirstSquawk] China Flags Concerns Over US Trade Measures Against Chinese Businesses: Xinhua
-- 11/07 11:01 [FirstSquawk] China's Foreign Exchange Reserves Increase by $5 Billion in October: Central Bank
-- 11/07 11:01 [financialjuice] China foreign exchange reserves $3.405 trillion at end-October vs $3.400 trillion at end-September: central bank
-- 11/07 11:01 [financialjuice] China's gold reserves $306.41 billion at end-October vs $323.52 billion at end-September: central bank
-- 11/07 11:01 [financialjuice] China's gold holdings 78.30 million fine troy oz at end-October vs 77.47 million at end-September: central bank
-- 11/07 11:01 [FirstSquawk] China Gold Reserves Fall to $306.41 Billion in October From $323.52 Billion in September
-- 11/07 11:01 [FirstSquawk] China Increases Gold Holdings to 78.30 Million Troy Ounces in October: Central Bank
-- 11/07 11:11 [FirstSquawk] China's He Lifeng Engages in Video Talks With US Treasury Chief Bessent and Trade Representative Greer
-- 11/07 11:12 [FirstSquawk] Qatar's PM Says Major Progress Has Been Achieved, Sees Path to Settlement
-- 11/07 11:12 [FirstSquawk] Qatar's PM Says Washington Willing to Pursue Resolution Beyond Midterm Elections
-- 11/07 11:12 [FirstSquawk] Qatar PM Reaffirms Ongoing Mediation Efforts to Contain Escalating Situation: Al Jazeera
-- 11/07 11:19 [FirstSquawk] Trump Says Moscow and Kyiv Are Willing to End the Conflict
-- 11/07 11:19 [FirstSquawk] Trump Says Iran Built New Anti-Aircraft System, Which US Subsequently Disabled
-- 11/07 11:20 [FirstSquawk] Trump Anticipates Few Cabinet Departures in Coming Period
-- 11/07 11:31 [FirstSquawk] Trump Says US Is Dealing With Iranians, Will See How Things Unfold
-- 11/07 11:31 [FirstSquawk] Haiti's Mathias Saintil, Notorious Gang Leader, Reported Dead
-- 11/07 11:31 [FirstSquawk] Datavault AI Founder Files Lawsuit to Overturn Contested CEO Removal
-- 11/07 11:39 [FirstSquawk] Kyiv Comes Under Russian Ballistic Missile Attack, Klitschko Reports
-- 11/07 11:53 [FirstSquawk] Multiple Powerful Explosions Heard in Ukraine's Capital, Reuters Witness Says
-- 11/07 11:54 [FirstSquawk] Kyiv Residential Block Damaged in Russian Assault, Local Officials Confirm
-- 11/07 11:54 [FirstSquawk] Authorities Confirm Continued House Arrest for Former Paraguay President Peña
-- 11/07 12:02 [FirstSquawk] Brazil's Klabin Announces Asset Contribution, With Investor Providing 1.2 Billion Reais in Cash
-- 11/07 12:02 [FirstSquawk] Brazil's Klabin to Control Vehicle Responsible for Managing Timber Assets in Paraná State
-- 11/07 12:08 [FirstSquawk] Klabin Strikes Agreement With Institutional Investor to Invest in Dedicated Business Vehicle: Filing
-- 11/07 12:09 [FirstSquawk] Sony Interactive Entertainment Postpones Pulse Elevate Speaker Release Over Production Problems
-- 11/07 12:09 [FirstSquawk] Trump Announces Plans for World's Largest Air Show in the US Within Two Years
-- 11/07 12:17 [FirstSquawk] World Bank Clears $300 Million Financing Package to Boost Education in Bangladesh
-- 11/07 12:18 [FirstSquawk] New Zealand Beach Mass Stranding Claims Lives of More Than 40 Pilot Whales: CNN
-- 11/07 12:19 [FirstSquawk] NVIDIA Chief Jensen Huang Linked to Alleged Chinese Spy in US Government Assessment: FT
-- 11/07 12:25 [FirstSquawk] US MQ-9 Drone Reportedly Shot Down Over Iran's Qeshm Island: State Media
-- 11/07 12:32 [FirstSquawk] BP's Whiting Refinery Awaits Response to Offer for Meeting Next Week
-- 11/07 12:32 [FirstSquawk] BP's Whiting Refinery: Meeting Proposed Following October 26 Talks, but No Confirmation Received
-- 11/07 12:41 [FirstSquawk] Dozens Injured After Four-Story Building Collapses in São Paulo
-- 11/07 12:41 [FirstSquawk] Municipal Gas Authority of Georgia Retains 'A+' Rating as Fitch Keeps Outlook Stable
-- 11/07 12:52 [FirstSquawk] Iranian State Media Reports Two Blasts Near Suza on Qeshm Island, No Casualties
-- 11/07 12:52 [FirstSquawk] Fitch Says Cyprus Economy Recovering Rapidly Despite Earlier Weak Sentiment Amid Middle East Crisis
-- 11/07 12:52 [FirstSquawk] Berlin Retains Top 'AAA' Rating as Fitch Keeps Outlook Stable
-- 11/07 13:04 [FirstSquawk] Greece Retains 'BBB' Rating as Fitch Keeps Outlook Stable
-- 11/07 13:04 [FirstSquawk] Fitch Says Cyprus Rating Upgrade Driven by Solid Fiscal Position and Declining Public Debt
-- 11/07 13:06 [financialjuice] Hong Kong Legislative Council condemns foreign governments’ criticism of court ruling on Joshua Wong
-- 11/07 13:18 [FirstSquawk] Cyprus Secures 'A' Rating as Fitch Upgrades Sovereign Credit Rating
-- 11/07 13:18 [FirstSquawk] Iran's Tasnim Reports Possible Missile Attack on Qeshm Island, Cites Initial Reports
-- 11/07 13:30 [FirstSquawk] Anthropic Prepares to Kick Off IPO Roadshow Next Week, Report Says
-- 11/07 13:32 [FirstSquawk] Canada's Unemployment Rate Rises to 6.7% Following Loss of 4,700 Jobs in October: CNBC
-- 11/07 13:42 [FirstSquawk] Trump Pledges to Host the World's Largest Air Show in America - RTRS
-- 11/07 13:49 [FirstSquawk] China sends four satellites into orbit aboard a CERES-2 Y3 carrier rocket on Saturday.
-- 11/07 13:52 [FirstSquawk] Chinese EV brands Seres and Li Auto step up expansion into European markets.
-- 11/07 13:56 [FirstSquawk] Trump Wants Stephen Miller to Ensure Smooth Operations in Chief of Staff Role
-- 11/07 13:57 [FirstSquawk] Trump Reveals Decision to Make a Change
-- 11/07 13:58 [FirstSquawk] Trump Expresses Confidence in Stephen Miller's Ability to Deliver
-- 11/07 14:00 [FirstSquawk] US Treasury Unveils Fresh Sanctions Targeting Iran - RTRS
-- 11/07 14:03 [FirstSquawk] Trump Confirms Further US Strikes on Iran Amid Political Fallout From Midterm Elections - SCMP
-- 11/07 14:03 [financialjuice] Britain preparing to host Volodymyr Zelenskiy for state visit next year: FT
-- 11/07 14:07 [financialjuice] Saudi-led coalition: intercepted and destroyed Houthi cruise missile targeted at Riyadh
-- 11/07 14:08 [FirstSquawk] Houthi Cruise Missile Targeting Riyadh Intercepted by Saudi-Led Coalition
-- 11/07 14:14 [FirstSquawk] China Voices 'Serious Concern' Over US Sanctions Ahead of Xi-Trump APEC Meeting: SCMP
-- 11/07 14:21 [FirstSquawk] European Authorities Investigate Potential Russian Role in Bomb Threat Campaigns - FT
-- 11/07 14:23 [FirstSquawk] Ukraine Announces Large-Scale Operation Targeting Russian Regions, Including Saratov Refinery
-- 11/07 14:30 [FirstSquawk] China Set to Limit Application of Controversial Detention and Surveillance Measures - SCMP
-- 11/07 14:31 [FirstSquawk] UK Rules Out Slowing AI Ambitions Amid Rising US Backlash, Growth Minister Says - FT
-- 11/07 14:36 [FirstSquawk] Burnham's Decade-Long Plan Transitions Into a Broader Policy Framework - FT
-- 11/07 14:54 [FirstSquawk] Scottish Authorities Examine Potential Seizure of Sanjeev Gupta's Corporate Assets - FT
-- 11/07 14:55 [FirstSquawk] Moscow Turns to Arctic Sea Routes to Protect Metal Exports From Ukrainian Strikes - FT
-- 11/07 15:00 [financialjuice] Polls close in New Zealand general election: early results expected soon
-- 11/07 15:11 [financialjuice] New Zealand Electoral Commission data: ruling National at 30.81%, opposition Labour on 29.88% with 1.6% of votes counted
-- 11/07 15:12 [financialjuice] New Zealand election commission data: centrist opportunity party to cross threshold with 1.9% of votes counted
-- 11/07 15:35 [financialjuice] New Zealand opposition lawmaker McNulty: National Party support exceeds expectations
-- 11/07 15:35 [financialjuice] Data from New Zealand electoral commission shows ruling National-led coalition likely to return to power with 10.9% of votes counted
-- 11/07 15:56 [financialjuice] Data from New Zealand electoral commission: Ruling National party may form coalition with 20% of votes counted
-- 11/07 16:12 [financialjuice] New Zealand Electoral Commission data: opposition Labour leads popular vote, but ruling National forms coalition with 24% counted
-- 11/07 16:25 [financialjuice] New Zealand electoral commission data: centre-right and centre-left coalitions need centrist support to govern with 26% of results counted
-- 11/07 16:29 [financialjuice] Russia's delegation at trilateral meeting with US and Ukraine to include Medinsky, Ryabkov, Galuzin, Kostyukov, and Zhigarlovsky: IFX cites Kremlin
 - 11/07 17:36 [financialjuice] Russia launched 36 ballistic missiles and 172 drones at Ukraine overnight, mainly targeting energy facilities: Zelenskiy
 - 11/07 17:38 [financialjuice] Ukraine's Zelenskiy: Russians deployed 172 drones and 36 ballistic missiles, all targeted at Kyiv and nearby areas overnight
 - 11/07 18:09 [financialjuice] New Zealand finance minister Willis: very unlikely to be returning to parliament
@@ -263,3 +190,66 @@
 - 11/08 10:50 [FirstSquawk] Turkey Vows Continued Peace Efforts Amid US-Iran Tensions, Erdogan Tells Trump
 - 11/08 10:53 [FirstSquawk] Saudi Arabia Says Danger Has Passed in Dammam, Dhahran and Abqaiq
 - 11/08 10:53 [financialjuice] Saudi civil defense: danger has passed in Dammam, Dhahran and Abqaiq - state TV
+- 11/08 10:54 [financialjuice] Saudi civil defense: risk has passed in Al Ahsa governorate
+- 11/08 10:59 [financialjuice] UAE National Guard: Rescued 22 after fire erupts on cargo ship in Sea of Oman
+- 11/08 11:00 [FirstSquawk] Erdogan Tells Trump Diplomatic Push to End Ukraine War Could Yield Positive Results
+- 11/08 11:02 [FirstSquawk] US Senator Blumenthal Pushes New Ukraine Legislation, Calls for Changes to Peace Talks Team - The Kyiv Independent
+- 11/08 11:11 [FirstSquawk] Binance Names Justin Yek New CFO Following Kaiser Ng's Exit
+- 11/08 11:18 [FirstSquawk] Authorities Confirm Six Fatalities and 15 Injuries in Krakow Shooting
+- 11/08 11:28 [FirstSquawk] Saudi Arabia and Syria Agree on Military Training Cooperation, Visits Set for Next Month
+- 11/08 11:30 [financialjuice] Saudi-led coalition: intercepted and destroyed ballistic missile launched by Yemen's Houthis towards Saudi Arabia's eastern region
+- 11/08 11:34 [FirstSquawk] Syrian-Saudi Military Partnership Could Evolve Into Mutual Defence Agreement
+- 11/08 11:45 [FirstSquawk] Houthis Announce Attack on Riyadh Airport, Claim Remains Unconfirmed by Saudi Arabia
+- 11/08 11:49 [FirstSquawk] Houthis Announce Strikes on Aramco Facilities in Two Saudi Locations
+- 11/08 11:57 [FirstSquawk] Yemen's Houthis Claim Attack on Military Camp in Saudi Arabia's Najran Region
+- 11/08 12:07 [FirstSquawk] J&J Unveils New Phase 2 Nipocalimab Data Highlighting Patient-Prioritised Symptom Improvements in Sjögren's Disease
+- 11/08 12:13 [FirstSquawk] J&J Announces Significant Improvements in Psoriatic Arthritis Patients Treated With Icotrokinra
+- 11/08 12:19 [FirstSquawk] Chinese Asparagus Growers Look to Robots to Improve Farming Efficiency -scmp
+- 11/08 12:25 [FirstSquawk] US$300 Matchmaking Service in China Draws Attention With Marriage-or-Refund Promise - SCMP
+- 11/08 12:36 [FirstSquawk] Ukraine's Zelenskiy Announces More Security Service Firings Amid Corruption Probe
+- 11/08 12:43 [FirstSquawk] China's New Property Support Measures Fall Short in Lower-Tier Cities, SCMP Reports
+- 11/08 12:53 [FirstSquawk] Hakeem Jeffries Faces Challenge of Managing Divided Democrats After Major Victory - WSJ
+- 11/08 13:14 [FirstSquawk] Hong Kong Makes Fresh Gains in AI and Aviation at Major China Expo - SCMP
+- 11/08 13:15 [FirstSquawk] Netanyahu Faces Political Setback as Israel's President Tasks Eisenkot With Forming Government - SCMP
+- 11/08 13:15 [financialjuice] Israeli military: alerts triggered over suspected hostile incursion in northern Israel, investigation ongoing
+- 11/08 13:17 [financialjuice] Israeli military: alerts sounded over suspected hostile infiltration in northern Israel, details under way
+- 11/08 13:25 [FirstSquawk] Israeli Army Investigates Suspected Enemy Aircraft Infiltration Near Zar'it and Shomera
+- 11/08 13:28 [FirstSquawk] Deadly Armed Attack in Guatemala Claims Lives of Politician and Three Officers - SCMP
+- 11/08 13:32 [financialjuice] Iran executes three men convicted of involvement in armed unrest during January 2026 protests: state media
+- 11/08 13:36 [financialjuice] Israeli military: hostile aircraft alerts in the north were false identification
+- 11/08 13:39 [FirstSquawk] Suspected Aircraft Infiltration Alerts in Northern Israel Deemed False, Military Says
+- 11/08 13:47 [FirstSquawk] Iranian State Media Reports Execution of Three Men Over January Protest Violence
+- 11/08 13:52 [FirstSquawk] MSCI's Downgrade Warning Over Indonesia 'Went Too Far,' Presidential Adviser Says - FT
+- 11/08 14:02 [financialjuice] Saudi civil defense issues early alert in Riyadh region
+- 11/08 14:02 [FirstSquawk] Riyadh Region Placed Under Early Warning Alert, Saudi Civil Defense Says
+- 11/08 14:06 [financialjuice] Multiple loud blasts heard in Riyadh: witness source
+- 11/08 14:09 [FirstSquawk] Trump's Connections Put Crypto Industry Under Pressure - FT
+- 11/08 14:13 [financialjuice] Saudi civil defense: danger has passed in Riyadh
+- 11/08 14:18 [FirstSquawk] UK Urged to Step Up Defence Efforts to Keep Pace With Europe Against Russia - FT
+- 11/08 14:18 [FirstSquawk] Zelensky Vows Further Personnel Changes at Ukraine's Security Service After Criminal Gang Scandal
+- 11/08 14:30 [FirstSquawk] Radical Left Commands Attention, but Moderates Dominate Incoming US Congress, FT Says
+- 11/08 14:34 [financialjuice] Saudi-led coalition: intercepts and destroys two missiles launched by Houthis toward Riyadh
+- 11/08 14:36 [FirstSquawk] Hotel Companies See $50 Billion Surge as Demand Defies Expectations - FT
+- 11/08 14:36 [FirstSquawk] Two Houthi Missiles Aimed at Riyadh Destroyed, Saudi-Led Coalition Says
+- 11/08 14:44 [FirstSquawk] Singapore Profit Strategy Helps Apple Reduce Taxes by $2.7 Billion - FT
+- 11/08 14:52 [FirstSquawk] Russia Speeds Up Development of Homegrown Rival to Musk's Starlink - FT
+- 11/08 14:55 [FirstSquawk] Milei Sets Sights on Building Large-Scale Data Centres in Argentina's Patagonia Region - FT
+- 11/08 15:01 [FirstSquawk] US Delegation Expected in Germany for Mid-November Talks on Medicine Prices, POLITICO Reports
+- 11/08 15:05 [financialjuice/FirstSquawk] Saudi-led coalition: two cruise missiles intercepted and destroyed in Riyadh and southern region
+- 11/08 15:17 [FirstSquawk] Senior U.S. trade and health officials are expected to meet with the German government in mid-November for talks on its drug pricing policies, a German government spokesperson confirmed to POLITICO.
+- 11/08 15:17 [FirstSquawk] NATO allies face a €7 billion funding gap for Ukraine this year as Russia steps up its bombing campaign and Kyiv calls for more air defenses.
+- 11/08 15:18 [FirstSquawk] Iranian supreme leader’s representative at the hardline Kayhan newspaper said on Sunday that failing to enforce Iran’s mandatory hijab rules amounted to “unwittingly siding with the enemy in the war.”
+- 11/08 15:18 [FirstSquawk] Russia targets Ukrainian military-industrial power supply and Black Sea arms shipments Russian forces struck an electrical substation near the settlement of Beloshitsy in the Zhitomir region overnight, which supplied power to Ukrainian mili…
+- 11/08 15:19 [FirstSquawk] Apple saves $2.7bn in taxes by booking profits in Singapore
+- 11/08 15:52 [FirstSquawk] CROWD of PROTESTERS POUNCES on MAN after he allegedly SMASHES a SHOP WINDOW amid 'PEACEFUL PROTESTS' in Marseille, France French users QUESTION whether man could have been an UNDERCOVER POLICE OFFICER attempting to PROVOKE DISORDER rather t…
+- 11/08 15:52 [FirstSquawk] Russia races to build rival to Elon Musk’s Starlink
+- 11/08 15:52 [FirstSquawk] COP31 climate summit in Turkey, ASEAN Summit, Sri Lanka budget
+- 11/08 15:53 [FirstSquawk] group of Iranian lawmakers urged President Masoud Pezeshkian on Sunday to nominate an intelligence minister, setting out criteria for the candidate in a letter.
+- 11/08 15:53 [FirstSquawk] They said the nominee should meet legal requirements, believe in the supreme leader and the foundations of the Islamic Republic, have the confidence of government institutions and avoid partisan or political leanings.
+- 11/08 15:53 [FirstSquawk] Russian missiles and drones are hitting Ukraine's energy infrastructure harder and earlier in the year than in previous years, analysts say, and the Kremlin has broadened its targets to further damage the Ukrainian economy
+- 11/08 16:05 [FirstSquawk] Terrible backdrop’ looms over UN climate summit in Turkey
+- 11/08 16:59 [FirstSquawk] tower in Riyadh’s King Abdullah Financial District was damaged by a projectile on Sunday,
+- 11/08 16:59 [FirstSquawk] Iran’s armed forces spokesman Abolfazl Shekarchi described US President Donald Trump’s political and election setbacks as evidence of a broader defeat against Iran, rather than a result of domestic political shifts.
+- 11/08 17:00 [FirstSquawk] White House Deputy Chief of Staff Richard Walters is leaving the administration as Stephen Miller takes over from Susie Wiles following Republicans’ midterm losses.
+- 11/08 17:00 [FirstSquawk] Iran executes three men arrested during January anti-government protests
+- 11/08 17:00 [FirstSquawk] Asset declarations will become mandatory for all SBU personnel following the 'Operation Carthage' corruption probe, Volodymyr Zelensky said. Calling the scandal 'disgraceful,' he confirmed dismissals and warned Europe of Khimprom cartel exp…
