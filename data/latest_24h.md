@@ -7,89 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-11-08 17:24 JST／対象: 11/07 17:24 〜 11/08 17:24 JST（時刻はすべて日本時間）
+生成: 2026-11-09 00:27 JST／対象: 11/08 00:27 〜 11/09 00:27 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 6 | 11/08 04:15 | 11/08 06:47 | ⚠ 58分（04:16→05:14） |
-| FirstSquawk | 165 | 11/07 19:07 | 11/08 17:00 | ⚠ 322分（03:40→09:03） |
-| financialjuice | 61 | 11/07 17:36 | 11/08 15:05 | ⚠ 229分（06:54→10:44） |
+| FirstSquawk | 170 | 11/08 00:33 | 11/08 23:38 | ⚠ 322分（03:40→09:03） |
+| financialjuice | 60 | 11/08 00:29 | 11/09 00:16 | ⚠ 229分（06:54→10:44） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 229 行（統合前 232 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 233 行（統合前 236 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/07 17:36 [financialjuice] Russia launched 36 ballistic missiles and 172 drones at Ukraine overnight, mainly targeting energy facilities: Zelenskiy
-- 11/07 17:38 [financialjuice] Ukraine's Zelenskiy: Russians deployed 172 drones and 36 ballistic missiles, all targeted at Kyiv and nearby areas overnight
-- 11/07 18:09 [financialjuice] New Zealand finance minister Willis: very unlikely to be returning to parliament
-- 11/07 18:48 [financialjuice] Russian forces hit Naftogaz facility thrice overnight in central Ukraine: company
-- 11/07 18:55 [financialjuice] New Zealand opposition leader Hipkins: shape of next government won’t be clear for a while
-- 11/07 18:55 [financialjuice] New Zealand opposition leader Hipkins: Next parliament will need all of us to collaborate to find common ground
-- 11/07 19:00 [financialjuice] Iran navy: oil tanker ignites in eastern Strait of Hormuz - Iranian media
-- 11/07 19:06 [financialjuice] Saudi civil defense issues warning of possible threat in Jizan city
-- 11/07 19:07 [FirstSquawk] SAUDI CIVIL DEFENSE ISSUES ALERT OF POTENTIAL DANGER IN JIZAN CITY
-- 11/07 19:09 [FirstSquawk] Southern Indiana Screaming Eagles take on the Evansville Purple Aces
-- 11/07 19:09 [FirstSquawk] TURKEY ARRESTS EX-MARKET REGULATOR OFFICIAL IN FUND PROBE: AA
-- 11/07 19:10 [FirstSquawk] UKRAINE'S NAFTOGAZ SAYS RUSSIA TARGETS ITS FACILITIES OVERNIGHT
-- 11/07 19:13 [financialjuice] Saudi civil defense: danger has passed in Jizan city
-- 11/07 19:16 [FirstSquawk] IRAN NAVY CLAIMS OIL TANKER HIT MINE IN HORMUZ SATURDAY: FARS
-- 11/07 19:23 [FirstSquawk] ISRAEL’S PRIME MINISTER AND HIS MOSSAD CHIEF PLANNED AN OPERATION AGAINST IRAN ON THE EVE OF ISRAEL'S OCTOBER 27 ELECTION, OVER THE OBJECTIONS OF OTHER SECURITY CHIEFS, AND DROPPED IT AFTER A MISTAKE BY AN ISRAELI OPERATIVE TIPPED OFF WASHI…
-- 11/07 19:37 [FirstSquawk] VENEZUELAN NATIONAL WAS ARRESTED NEAR THE WHITE HOUSE THURSDAY NIGHT AFTER OFFICERS FOUND HIM IN A STOLEN VEHICLE WITH THREE FIREARMS AND HEAPS OF AMMUNITION.
-- 11/07 19:44 [financialjuice] Oil minister: Iraq output exceeds 5 million bpd - state news agency
-- 11/07 19:54 [FirstSquawk] OIL MINISTER SAYS IRAQ PRODUCES MORE THAN 5 MILLION BPD - STATE NEWS AGENCY
-- 11/07 19:55 [FirstSquawk] Hamas: The worsening humanitarian situation in the Gaza Strip requires mediators to shoulder their responsibilities regarding the agreements reached.
-- 11/07 19:56 [FirstSquawk] Iranian Army Navy: A fire broke out aboard a non-compliant oil tanker this morning after it struck a naval mine east of the Strait of Hormuz.
-- 11/07 19:56 [FirstSquawk] Iranian news agency: The army’s air defenses shot down an American MQ-9 drone over Qeshm Island in the south of the country today.
-- 11/07 19:59 [FirstSquawk] KYIV FACES RUSSIAN MISSILE BARRAGE, NAFTOGAZ FACILITIES DAMAGED
-- 11/07 20:04 [FirstSquawk] NEW ZEALAND PRIME MINISTER LUXON: HEARTENING TO SEE ON CURRENT NUMBERS WE ARE LARGEST PARTY IN PARLIAMENT
-- 11/07 20:04 [financialjuice] New Zealand Prime Minister Luxon: encouraging that current figures show we are largest party in parliament
-- 11/07 20:04 [financialjuice] New Zealand Prime Minister Luxon: There is a route to form next government but outcome too close to call
-- 11/07 20:05 [financialjuice] New Zealand Prime Minister Luxon: talks and concessions will be necessary
-- 11/07 20:07 [FirstSquawk] NZ'S LUXON SAYS NATIONAL HAS PATHWAY TO FORMING NEXT GOVERNMENT
-- 11/07 20:15 [FirstSquawk] NZ'S LUXON SAYS ELECTION RESULT REMAINS TOO CLOSE TO CALL
-- 11/07 20:17 [FirstSquawk] EUROPEAN PARLIAMENT SECURITY AND DEFENSE COMMITTEE CHAIR MARIE-AGNES STRACK-ZIMMERMANN SAID ON SATURDAY THAT THE HUMAN RIGHTS OF IRANIANS WERE BEING OVERLOOKED AS INTERNATIONAL ATTENTION SHIFTED TOWARD NUCLEAR NEGOTIATIONS AND THE STRAIT OF…
-- 11/07 20:36 [FirstSquawk] MARCO RUBIO IS TIGHTENING CONTROL OVER THE STATE DEPARTMENT, WARNING SENIOR OFFICIALS AGAINST UNETHICAL CONDUCT, UNAUTHORIZED POLICYMAKING AND CONFLICTS OF INTEREST.
-- 11/07 20:42 [FirstSquawk] US: LOOK FORWARD TO WORKING WITH PARAGUAY'S PRESIDENT ALLIANA
-- 11/07 20:50 [FirstSquawk] ACS HAS NOT CONSIDERED HOCHTIEF TENDER OFFER, TURNER SHARE SALE
-- 11/07 20:56 [FirstSquawk] U.S. AMBASSADOR TO ISRAEL MIKE HUCKABEE: I DON'T THINK YOU CAN SAY, "WELL, I'M A BIBLICAL CHRISTIAN, BUT I DON'T BELIEVE GOD HAS ANY SPECIAL ROLE FOR ISRAEL."
-- 11/07 20:56 [FirstSquawk] U.S. AMBASSADOR TO ISRAEL MIKE HUCKABEE: IN ONE YEAR, FROM THE SUMMER OF 2025 UNTIL THE SPRING OF 2026, THE IRANIANS INCREASED THEIR CAPACITY TO DELIVER A BALLISTIC MISSILE FROM 2,000 KILOMETERS TO 4,100 KILOMETERS.
-- 11/07 21:02 [FirstSquawk] FRENCH STUDENTS, TEACHERS CALL NEW STRIKE FOR TUESDAY: AFP
-- 11/07 21:13 [FirstSquawk] MILITARY INTELLIGENCE IDENTIFIES RUSSIAN SOLDIERS INVOLVED IN DEADLY KOMYSHUVAKHA AID CENTER STRIKE. FOUR RUSSIAN SU-34 FIGHTER-BOMBERS WERE INVOLVED IN THE OPERATION, ACCORDING TO UKRAINE'S MILITARY INTELLIGENCE (HUR).
-- 11/07 21:18 [FirstSquawk] RUSSIA TAKES MORE JAPAN TOBACCO ASSETS AFTER SEIZURES HIT SHARES
-- 11/07 21:18 [FirstSquawk] MELONI BLAMES PRO-RUSSIA HACKERS FOR CYBERATTACK ON MINISTER
-- 11/07 21:27 [financialjuice] Saudi civil defence warns of potential threat in Najran
-- 11/07 21:30 [FirstSquawk] SAUDI ARABIA ISSUES ALERT OF POTENTIAL DANGER IN NAJRAN
-- 11/07 21:34 [financialjuice] Saudi civil defense: danger has passed in Najran
-- 11/07 21:57 [FirstSquawk] BERKSHIRE HATHAWAY 3Q OPERATING EARNINGS $12.71B, -5.8% Y/Y
-- 11/07 21:57 [FirstSquawk] BERKSHIRE HATHAWAY BOUGHT BACK ~$9.6B IN SHARES IN 3Q
-- 11/07 22:09 [FirstSquawk] DONALD TRUMP CLAIMED RUSSIA AND UKRAINE 'WANT TO MAKE A DEAL' AHEAD OF ABU DHABI TALKS, TOUTING A MASSIVE EUROPEAN SECURITY SETTLEMENT.
-- 11/07 22:09 [FirstSquawk] HOWEVER, EUROPEAN LEADERS AND KYIV EXPRESSED DEEP ALARM OVER VAGUE PROPOSALS AND WARNINGS OF A RUSSIAN ESCALATION.
-- 11/07 22:14 [FirstSquawk] RISK OF IRAN WAR ESCALATION REMAINS HIGH DESPITE DEMOCRATIC SWEEP IN U.S. MIDTERM ELECTIONS
-- 11/07 22:24 [financialjuice] Expanding on naval blockade: US military to form task force to strengthen efforts restricting Iran's use of land routes and Caspian Sea, statement
-- 11/07 22:26 [FirstSquawk] French trade union alliance calls for demonstrations, rallies and strikes next Tuesday.
-- 11/07 22:27 [FirstSquawk] French trade union alliance: Tuesday’s protests will include workers in education, higher education and scientific research
-- 11/07 22:27 [FirstSquawk] French trade union alliance: Tuesday’s protests are a response to the exclusion of public-sector wages from government talks with employers and unions
-- 11/07 22:27 [FirstSquawk] New protests in France by the Yellow Vests movement against the high cost of living
-- 11/07 22:28 [FirstSquawk] Zelensky: Russia used North Korean missiles to strike Ukraine’s power grid
-- 11/07 22:31 [FirstSquawk] NVIDIA CEO'S DAUGHTER CANCELS PLANNED VISIT TO S.KOREA: YONHAP
-- 11/07 22:32 [FirstSquawk] US CENTCOM: TASK FORCE AGAINST ROUTES SUPPORTING ILLEGAL SHIPMENTS
-- 11/07 22:33 [FirstSquawk] US: FORCE TO BACK ONGOING EFFORTS AGAINST IRAN'S ADVANCED ARMS
-- 11/07 23:02 [financialjuice] ECB releases media interview with Yomiuri Shimbun
-- 11/07 23:03 [FirstSquawk] Gaza Civil Defense: All areas of the Gaza Strip are facing catastrophic conditions amid the weather system.
-- 11/07 23:03 [FirstSquawk] Gaza Civil Defense: Since the onset of the weather system, we have received more than 1,500 distress calls requesting protection for residents.
-- 11/07 23:04 [FirstSquawk] Gaza Civil Defense: We appeal to the countries of the world not to turn a blind eye to the dire humanitarian situation facing the people of the Gaza Strip.
-- 11/07 23:04 [FirstSquawk] Gaza Civil Defense: We call for the provision of tents to protect residents amid the weather system.
-- 11/07 23:58 [FirstSquawk] Iranian president: We are working to move beyond the state of "neither war nor peace"
-- 11/07 23:58 [FirstSquawk] Syria’s General Authority for Border Crossings and Customs: We will reopen the Dabousieh border crossing with Lebanon on Monday.
-- 11/07 23:59 [FirstSquawk] Pezeshkian calls on Iranians to help reduce energy consumption.
-- 11/07 23:59 [FirstSquawk] Russia’s Defense Ministry: The Aerospace Forces successfully launched a medium-range Soyuz-2.1b rocket carrying a military satellite into orbit.
-- 11/07 23:59 [FirstSquawk] Zelensky: We were only able to intercept 4 of the 36 ballistic missiles Russia launched during last night’s attack.
-- 11/08 00:18 [FirstSquawk] Polish police: Two people killed in a shooting in the city of Krakow
 - 11/08 00:29 [financialjuice] Reports of Syria sending troops to Yemen are baseless: Syrian diplomatic source to Syria's state news agency
 - 11/08 00:29 [financialjuice] Syrian-Saudi military cooperation currently centers on training, sharing expertise and consultations: Syrian diplomatic source to SANA
 - 11/08 00:31 [financialjuice] Agreement between Syria and Saudi Arabia centers on military training, with Saudi coordination visits to Syria starting next month: Syrian diplomatic source to SANA
@@ -253,3 +187,73 @@
 - 11/08 17:00 [FirstSquawk] White House Deputy Chief of Staff Richard Walters is leaving the administration as Stephen Miller takes over from Susie Wiles following Republicans’ midterm losses.
 - 11/08 17:00 [FirstSquawk] Iran executes three men arrested during January anti-government protests
 - 11/08 17:00 [FirstSquawk] Asset declarations will become mandatory for all SBU personnel following the 'Operation Carthage' corruption probe, Volodymyr Zelensky said. Calling the scandal 'disgraceful,' he confirmed dismissals and warned Europe of Khimprom cartel exp…
+- 11/08 17:38 [FirstSquawk] Saudi Arabia announces the interception and destruction of a drone launched by the Houthis toward the southern region.
+- 11/08 17:39 [FirstSquawk] Germany has exhausted its stockpiles and can no longer supply Patriot systems or interceptors to Ukraine, Boris Pistorius said
+- 11/08 17:39 [FirstSquawk] Pistorius warned further transfers would compromise German defense, urging allies to step up at the next Ramstein meeting.
+- 11/08 17:39 [FirstSquawk] Lebanese National News Agency: The Israeli army carried out explosions between the towns of Zoutar al-Sharqiya and Zoutar al-Gharbiya and in the town of Qantara in southern Lebanon.
+- 11/08 17:39 [FirstSquawk] Lebanese National News Agency: Israeli shelling hits the outskirts of the towns of Mifdoun, Zoutar al-Sharqiya and Nabatiyeh al-Fawqa in southern Lebanon.
+- 11/08 17:40 [FirstSquawk] The Coalition: A drone launched by the Houthi militias toward the southern region has been intercepted
+- 11/08 17:40 [FirstSquawk] Saudi civil defence gives all-clear after alerts in Eastern Province
+- 11/08 18:22 [FirstSquawk] Iran’s Revolutionary Guards spokesman Hossein Mohebi said on Sunday that a US plan to restrict overland routes for transferring weapons and sanctioned goods would fail.
+- 11/08 18:22 [FirstSquawk] CENTCOM commander Admiral Brad Cooper ordered the establishment of Task Force Iron Gate, a team of approximately 20 military and civilian personnel based in Tampa, Florida, earlier.
+- 11/08 18:22 [FirstSquawk] Mohebi said previous US efforts to impose naval, air and land blockades had also failed. “‘Iron Gate’ is one of the plans that will remain only on paper and only in statements by US officials and CENTCOM commanders,” he said.
+- 11/08 18:22 [FirstSquawk] Volodymyr Zelensky condemned the Krakow mass shooting as a 'shocking crime' and offered condolences to the victims' families.
+- 11/08 18:22 [FirstSquawk] Expressing solidarity with Poland, he stressed there can be no justification for the attack and called for swift justice.
+- 11/08 18:43 [financialjuice] Saudi energy ministry: attempt to strike Aramco building in Riyadh - state TV
+- 11/08 18:43 [financialjuice] Saudi energy ministry: source says debris fell on building, no casualties reported on state TV
+- 11/08 18:43 [financialjuice] Saudi energy ministry: limited physical harm caused
+- 11/08 18:43 [financialjuice] Iran's Revolutionary Guards' spokesperson: US cannot achieve economic blockade or sever Tehran's ties with neighbors - Fars
+- 11/08 18:52 [financialjuice] IAEA: Zaporizhzhia nuclear plant again loses all off-site power, relies on emergency diesel generators for reactor cooling
+- 11/08 18:52 [financialjuice] IAEA: plant's link to only external power line, Ferosplavna-1, lost early today
+- 11/08 18:53 [financialjuice] IAEA on ZnPP: cause and site of latest disconnection remain unknown
+- 11/08 18:54 [financialjuice] IAEA: team at ZnPP informed plant currently has adequate fuel reserves to run limited emergency diesel generators for two weeks
+- 11/08 19:10 [FirstSquawk] Hamas: Mladenov and the Peace Council bear responsibility for covering up the occupation’s violations, and their inaction is worsening the suffering of displaced people in Gaza.
+- 11/08 19:11 [FirstSquawk] Hamas: We call on the mediators and guarantors to act to compel the occupation to implement the humanitarian protocol and ensure the flow of aid to Gaza.
+- 11/08 19:11 [FirstSquawk] UK Chief of the Defence Staff to the Financial Times: We have evidence of Russian involvement in cyberattacks, sabotage and assassinations in Europe
+- 11/08 19:11 [FirstSquawk] UK Chief of the Defence Staff to the Financial Times: The United Kingdom must catch up with Europe in confronting the Russian threat
+- 11/08 19:11 [FirstSquawk] Coalition spokesman: A drone launched by the Houthi militia toward the southern region has been intercepted and destroyed.
+- 11/08 19:12 [FirstSquawk] National and Islamic forces in the Gaza Strip: The Israeli occupation bears responsibility for the humanitarian catastrophe facing displaced people.
+- 11/08 19:12 [FirstSquawk] A source in the ambulance and emergency services: Casualties in a drone strike by an Israeli drone on the Beir al-Naja area in northern Gaza Strip
+- 11/08 19:12 [FirstSquawk] Israeli Defense Minister: We must be united in the face of Iranian threats, and it is time to form a unity government.
+- 11/08 19:12 [FirstSquawk] Iranian Revolutionary Guard spokesperson: We have taken all necessary measures to strengthen our relations with neighboring countries.
+- 11/08 19:13 [FirstSquawk] International Atomic Energy Agency: Zaporizhzhia nuclear power plant has once again lost all external power sources
+- 11/08 19:13 [FirstSquawk] International Atomic Energy Agency: Zaporizhzhia plant forced to rely on backup diesel generators to cool reactors
+- 11/08 19:13 [FirstSquawk] International Atomic Energy Agency: The Zaporizhzhia nuclear power plant lost its connection this morning to the only remaining external power line.
+- 11/08 19:14 [FirstSquawk] International Atomic Energy Agency: The cause and location of the latest power outage at the Zaporizhzhia nuclear power plant have not yet been determined.
+- 11/08 19:14 [FirstSquawk] International Atomic Energy Agency: The Zaporizhzhia nuclear power plant currently has enough fuel reserves to run a limited number of backup diesel generators for two weeks.
+- 11/08 19:14 [FirstSquawk] Polish prosecutor’s office: Terrorism investigation opened into the shooting in Krakow.
+- 11/08 20:03 [financialjuice] Anthropic secures $3.4bn agreement to produce gas-fired electricity for data centers - FT
+- 11/08 20:08 [FirstSquawk] Israeli National Security Minister Itamar Ben-Gvir: I hope Netanyahu doesn't abandon us.
+- 11/08 20:09 [FirstSquawk] Ben-Gvir reaffirms his opposition to forming a unity government
+- 11/08 20:09 [FirstSquawk] Ben Gvir: Forming a unity government will lead to political deadlock in Israel.
+- 11/08 20:09 [FirstSquawk] Iranian media: 3 oil tankers were hit by explosions and caught fire while passing through the Strait of Hormuz.
+- 11/08 20:40 [financialjuice] French foreign minister Barrot: Europeans to join Ukraine discussions in Abu Dhabi
+- 11/08 20:49 [FirstSquawk] French Foreign Minister: Europeans will participate in the upcoming talks on Ukraine
+- 11/08 21:02 [financialjuice] Sudanese army detains Ahmed Haroun, Islamist leader and former ruling party chairman: party officials
+- 11/08 21:17 [FirstSquawk] Reports of deaths and injuries in a train derailment in the Al-Ayyat area of Egypt.
+- 11/08 21:17 [FirstSquawk] Around 50 people have been injured so far in a train derailment in Egypt’s Al-Ayyat area.
+- 11/08 21:18 [FirstSquawk] Four train carriages overturned in the El Ayat area of Egypt. The result of the accident.
+- 11/08 21:18 [FirstSquawk] More than 15 ambulances have been dispatched to respond to the train derailment in Egypt’s Al-Ayyat area.
+- 11/08 21:39 [FirstSquawk] Gaza’s Health Ministry director: We warn of the spread of infectious diseases after tens of thousands of tents were flooded, amid a severe shortage of resources.
+- 11/08 21:40 [FirstSquawk] Sudanese army spokesperson: We shot down an enemy FH-95 drone in West Kordofan state.
+- 11/08 21:41 [FirstSquawk] Train services between Giza and Upper Egypt have been suspended following a train derailment in Al-Ayyat, Egypt.
+- 11/08 21:41 [FirstSquawk] Around 125 people have been injured so far in a train derailment in Egypt’s Al-Ayyat area.
+- 11/08 21:41 [FirstSquawk] Jordan condemns the Houthi group’s attacks on Saudi Arabia and its attempt to target a building belonging to Aramco.
+- 11/08 22:05 [FirstSquawk] Bahrain strongly condemns the continued attacks by the Houthi group on civilian and vital facilities in Saudi Arabia.
+- 11/08 22:05 [FirstSquawk] Egyptian National Railways: Two trains collide between Kafr Ammar and Al-Raqqa stations south of Cairo
+- 11/08 22:05 [FirstSquawk] Egyptian National Railways Authority: The collision between two trains south of Cairo injured a number of passengers.
+- 11/08 22:06 [FirstSquawk] Egyptian National Railways: We are working to restore normal train operations in the area of the train collision south of Cairo as quickly as possible.
+- 11/08 22:06 [FirstSquawk] Kuwait condemns the continued attacks by the Houthi group on areas in Saudi Arabia, most recently the firing of two ballistic missiles toward the city of Riyadh.
+- 11/08 22:06 [FirstSquawk] Egypt’s Ministry of Health: 64 people injured in a train collision in Al-Ayyat, south of Cairo.
+- 11/08 22:07 [FirstSquawk] Syria condemns the Houthi group's targeting of civilian sites and facilities in Saudi Arabia.
+- 11/08 22:07 [FirstSquawk] Iraqi Prime Minister: Weapons outside the framework of the state will be confronted with the full force of the law.
+- 11/08 22:07 [FirstSquawk] Iraqi Prime Minister: We will not allow war profiteers to disrupt the launch of the reconstruction process in Iraq.
+- 11/08 22:41 [financialjuice] Yemen's Houthis: struck Khalid International Airport, Aramco oil storage tanks and financial center in Riyadh
+- 11/08 22:41 [financialjuice] Yemen's Houthis: Aramco targeted in Abqaiq
+- 11/08 23:37 [FirstSquawk] PRIVATE EQUITY FIRM BC PARTNERS SEEKS TO TAKE CONTROL OF LIV GOLF FROM SAUDI WEALTH FUND - FT
+- 11/08 23:37 [FirstSquawk] BC PARTNERS LOOKS TO PURCHASE PUBLIC INVESTMENT FUND’S BANKRUPTCY LOAN IN ORDER TO REVIVE FAILED GOLF LEAGUE ASSETS - FT
+- 11/08 23:37 [FirstSquawk] BC IS SEEKING TO ACQUIRE A $50MN BANKRUPTCY LOAN FROM THE PIF - FT
+- 11/08 23:38 [FirstSquawk] ANTHROPIC STRIKES $3.4BN DEAL TO GENERATE GAS-FIRED POWER FOR DATA CENTRES- FT
+- 11/09 00:11 [financialjuice] Saudi-led coalition: destroyed two ballistic missile launchers in Yemen’s Saada used by Houthis to attack Riyadh
+- 11/09 00:15 [financialjuice] Eisenkot: urgent demand for fresh, strong leadership
+- 11/09 00:16 [financialjuice] Eisenkot: with the mandate received today, will lead formation of national emergency government
