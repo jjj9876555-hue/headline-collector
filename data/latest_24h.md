@@ -7,70 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-11-09 00:27 JST／対象: 11/08 00:27 〜 11/09 00:27 JST（時刻はすべて日本時間）
+生成: 2026-11-09 04:54 JST／対象: 11/08 04:54 〜 11/09 04:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 6 | 11/08 04:15 | 11/08 06:47 | ⚠ 58分（04:16→05:14） |
-| FirstSquawk | 170 | 11/08 00:33 | 11/08 23:38 | ⚠ 322分（03:40→09:03） |
-| financialjuice | 60 | 11/08 00:29 | 11/09 00:16 | ⚠ 229分（06:54→10:44） |
+| DeItaone | 7 | 11/08 05:14 | 11/09 04:31 | ⚠ 1227分（06:47→03:14） |
+| FirstSquawk | 190 | 11/08 09:03 | 11/09 04:44 | ⚠ 90分（22:07→23:37） |
+| financialjuice | 51 | 11/08 05:14 | 11/09 04:30 | ⚠ 229分（06:54→10:44） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 233 行（統合前 236 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 242 行（統合前 248 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/08 00:29 [financialjuice] Reports of Syria sending troops to Yemen are baseless: Syrian diplomatic source to Syria's state news agency
-- 11/08 00:29 [financialjuice] Syrian-Saudi military cooperation currently centers on training, sharing expertise and consultations: Syrian diplomatic source to SANA
-- 11/08 00:31 [financialjuice] Agreement between Syria and Saudi Arabia centers on military training, with Saudi coordination visits to Syria starting next month: Syrian diplomatic source to SANA
-- 11/08 00:32 [financialjuice] Syrian-Saudi military cooperation could evolve into mutual defense pact or Syria joining Mecca defense accord: Syrian diplomatic source to SANA
-- 11/08 00:33 [financialjuice] Yemen's Houthis say they struck Riyadh airport; no Saudi confirmation
-- 11/08 00:33 [FirstSquawk] Polish police: 3 dead and several injured in a shooting in the city of Krakow
-- 11/08 00:34 [FirstSquawk] Polish police: 5 people killed and more than 10 others injured in a shooting in the city of Krakow
-- 11/08 00:34 [financialjuice] Yemen's Houthis say they hit Aramco oil sites in Riyadh and Khurais; no prompt Saudi confirmation
-- 11/08 00:34 [FirstSquawk] Yemeni Armed Forces: 875 strikes carried out against the Houthi militia in the past few hours
-- 11/08 00:35 [FirstSquawk] Yemeni Armed Forces: We have dealt painful blows to the Houthi militia on the Marib and Al Jawf fronts
-- 11/08 00:35 [financialjuice] Yemen's Houthis: attack on national guard camp in Saudi Arabia's Najran
-- 11/08 00:35 [FirstSquawk] Yemeni Armed Forces: Around 130 Houthi militia leaders and members neutralized in the latest strikes
-- 11/08 00:35 [FirstSquawk] Yemeni Armed Forces: 50 military vehicles and trucks and a rocket launcher belonging to the Houthi militia destroyed
-- 11/08 00:37 [FirstSquawk] Syrian diplomatic source told SANA: Reports of sending troops to Yemen are unfounded
-- 11/08 00:37 [FirstSquawk] Syrian diplomatic source told SANA: Military cooperation with Saudi Arabia focuses on training and advisory services
-- 11/08 00:58 [FirstSquawk] Statement by Palestinian forces and factions: We hold the occupation and the Peace Council responsible for the humanitarian catastrophe in Gaza as winter approaches.
-- 11/08 00:58 [FirstSquawk] Statement by Palestinian forces and factions: We call on the National Committee to come to the Gaza Strip immediately and begin carrying out its duties.
-- 11/08 00:58 [FirstSquawk] Statement by Palestinian forces and factions: We call on the mediators and guarantors to exert pressure to ensure the full implementation of the humanitarian protocol.
-- 11/08 00:59 [FirstSquawk] AFP: French prosecutors are investigating whether threats to blow up airliners are linked to “foreign powers”
-- 11/08 01:04 [FirstSquawk] Syrian diplomatic source told SANA: Coordinating military visits from Saudi Arabia to Syria will begin next month
-- 11/08 01:04 [FirstSquawk] Syrian diplomatic source: Military agreements with Saudi Arabia focus on exchanging expertise and consultations
-- 11/08 01:16 [FirstSquawk] Iraqi Prime Minister cancels 3 operating contracts at Mosul Airport over their links to armed groups
-- 11/08 02:03 [FirstSquawk] Berkshire Hathaway ploughs $9.6bn into share buybacks - FT
-- 11/08 02:04 [FirstSquawk] US sports investment fund RedBird hunts for tie-ups in Japan - Nikkei
-- 11/08 02:04 [FirstSquawk] US war in Iran leaves Sri Lanka in troubled diplomatic waters; About 20 Iranian tankers seek humanitarian assistance as Washington warns of sanctions - Nikkei
-- 11/08 02:05 [FirstSquawk] New Zealand's knife-edge election puts coalition talks in focus - Nikkei
-- 11/08 02:05 [FirstSquawk] Putin orders seizure of more Japan Tobacco assets in Russia - Nikkei
-- 11/08 02:42 [financialjuice] Erdogan tells Trump US-Iran tensions must be settled diplomatically, Ankara will persist in peace efforts, Erdogan's office says
-- 11/08 02:42 [financialjuice] Turkey's Erdogan talks with Trump by phone: discusses regional and global developments, Erdogan's office says
-- 11/08 02:42 [financialjuice] Erdogan tells Trump he hopes diplomatic efforts to end war in Ukraine will produce positive outcome, Erdogan’s office says
-- 11/08 02:50 [FirstSquawk] Netanyahu: Now is the time to form a unity government in Israel
-- 11/08 02:50 [financialjuice/FirstSquawk] Trump orders Justice Department to investigate Democrats threatening many people, alleges criminal act
-- 11/08 02:50 [FirstSquawk] Yair Golan, leader of the Democrats party: Netanyahu’s government must be replaced and a change government formed, and every effort must be made to achieve that.
-- 11/08 02:51 [FirstSquawk] Polish police: Death toll in the Kraków attack rises to 6
-- 11/08 02:52 [FirstSquawk] European Union: Shooting in Krakow is a "tragedy," and Poland is not alone in facing this ordeal
-- 11/08 02:53 [FirstSquawk] Erdogan stresses during a phone call with Trump the need to resolve tensions between Washington and Tehran through diplomacy.
-- 11/08 02:53 [FirstSquawk] Erdogan tells Trump he hopes diplomatic efforts to end the war in Ukraine will yield positive results.
-- 11/08 03:27 [FirstSquawk] Israeli media: Demonstrations in central Tel Aviv calling for Netanyahu’s government to be replaced and a government formed with Arab parties
-- 11/08 03:41 [financialjuice] Trump: Dana White offered role as press secretary
-- 11/08 03:44 [financialjuice] Trump: asked White House to bring some aides 'even though some are not from our country'
-- 11/08 04:09 [financialjuice] Saudi civil defense issues warning of potential hazard in Jazan
-- 11/08 04:15 [DeItaone] TRUMP: DANA WHITE HAS BEEN OFFERED JOB OF PRESS SECRETARY
-- 11/08 04:16 [DeItaone] President Donald Trump on Saturday said he has asked UFC chief executive Dana White to serve as White House press secretary and had called on the longtime fight promoter to bring some assistants with him "even though some are not from our c…
-- 11/08 04:18 [financialjuice] Saudi civil defense: danger in Jazan has passed
-- 11/08 04:27 [financialjuice] Israeli president selects Gadi Eisenkot, Netanyahu rival, to form government: Israeli media
-- 11/08 04:33 [financialjuice] Explosions reported in Iran's Qeshm: ISNA News Agency
-- 11/08 04:39 [financialjuice] Explosions heard in Iran's Qeshm: IRNA corrects source
 - 11/08 05:14 [financialjuice] Explosions heard in Jask, Sirik, Bandar Abbas and Geshm in southern Iran: Iranian state TV
 - 11/08 05:14 [DeItaone] EXPLOSIONS HEARD IN JASK, SIRIK, BANDAR ABBAS AND QESHM IN SOUTHERN IRAN, CAUSE UNCLEAR - IRANIAN STATE TV
 - 11/08 05:24 [financialjuice] Iran state TV reporter: Explosions could be connected to Iranian military actions in Strait of Hormuz
@@ -257,3 +210,59 @@
 - 11/09 00:11 [financialjuice] Saudi-led coalition: destroyed two ballistic missile launchers in Yemen’s Saada used by Houthis to attack Riyadh
 - 11/09 00:15 [financialjuice] Eisenkot: urgent demand for fresh, strong leadership
 - 11/09 00:16 [financialjuice] Eisenkot: with the mandate received today, will lead formation of national emergency government
+- 11/09 00:44 [FirstSquawk] Lebanese Foreign Minister: Lebanon will no longer accept the presence of a weapon other than the Lebanese Army's
+- 11/09 00:44 [FirstSquawk] Lebanese Foreign Minister: Lebanon refuses to negotiate or bargain on its behalf
+- 11/09 00:44 [FirstSquawk] Lebanese Foreign Minister: Lebanon's interests should not be compromised in the service of the interests of others
+- 11/09 00:50 [FirstSquawk] Egyptian President Directs to Expedite Investigations into the Circumstances of the Collision of the Two Al-Ayat Trains and Hold the Culprits Accountable
+- 11/09 00:51 [FirstSquawk] Lebanese Foreign Minister: Our goal is to liberate the land from the occupation and liberate the citizen from illegal weapons
+- 11/09 00:51 [FirstSquawk] Medical sources in Gaza: Two killed and wounded in Israeli shelling in the area of Al-Mawasi, west of the city of Khan Younis, in the southern Gaza Strip
+- 11/09 00:51 [FirstSquawk] Israeli President Isaac Herzog instructs Yachar Party Chairman Gadi Eisenkot to form the new government
+- 11/09 00:51 [FirstSquawk] Israeli President Isaac Herzog officially tasked Yashar party head Gadi Eisenkot with forming the new government
+- 11/09 00:51 [FirstSquawk] Herzog: Trump's plan on Gaza, negotiations with Lebanon and the fight against terrorism should go ahead
+- 11/09 00:51 [FirstSquawk] Herzog: Israel wants a stable government that preserves the country's unity
+- 11/09 00:51 [FirstSquawk] Herzog: The new government is required to address the security and economic challenges facing Israel
+- 11/09 00:51 [FirstSquawk] Israeli Prime Minister-designate Gadi Eisenkot: We are in a state of emergency that imposes enormous challenges on us
+- 11/09 00:51 [FirstSquawk] Eisenkot: Our failure will pose a major risk to Israel's future
+- 11/09 00:52 [FirstSquawk] Eisenkot: We will make every effort to meet the wishes of the Israeli people and I am committed to establishing an emergency government
+- 11/09 00:52 [FirstSquawk] Eisenkot: The challenges we face are urgent and we do not have the luxury of retreating
+- 11/09 00:52 [FirstSquawk] Eisenkot: Anyone who agrees with the 4 principles she set is invited to join the new government
+- 11/09 00:52 [FirstSquawk] Eisenkot: Israel is witnessing a delicate political juncture and I will act cautiously on crucial and crucial days
+- 11/09 00:52 [FirstSquawk] Saudi Ministry of Defense announces destruction of two Houthi ballistic missile launchers in Saada
+- 11/09 00:52 [FirstSquawk] Saudi Ministry of Defense: The Houthis used the two platforms in Saada in an attempt to attack Riyadh today
+- 11/09 00:52 [FirstSquawk] Iraqi Army Commander: Turkey will start the steps of gradual handover of Bashiqa camp to the Iraqi government
+- 11/09 00:52 [FirstSquawk] Iraqi Integrity Commission: Former Salah al-Din governor sentenced in absentia to 14 years in prison in two corruption cases
+- 11/09 01:44 [financialjuice/FirstSquawk] Iran navy: oil tanker ignites after hitting naval mine east of Strait of Hormuz - Iranian media
+- 11/09 01:53 [FirstSquawk] U.S. State Department spokesperson told Sky News Arabia: The Lebanese consul in Detroit, Ibrahim Sharara, has been declared persona non grata.
+- 11/09 01:54 [FirstSquawk] U.S. State Department spokesperson: The Lebanese consul in Detroit, Ibrahim Sharara, has been declared persona non grata.
+- 11/09 01:55 [FirstSquawk] U.S. State Department spokesperson: There is no place on our soil for anyone who celebrates or justifies terrorist attacks.
+- 11/09 01:55 [FirstSquawk] U.S. State Department spokesperson: We continue to review information regarding members of foreign missions in our country, including any national security concerns.
+- 11/09 01:55 [FirstSquawk] Trump tells CBS he intends to make changes to his team.
+- 11/09 01:55 [FirstSquawk] Trump to CBS: I appreciate the members of my administration and I think they’re good, but I may make some changes.
+- 11/09 01:56 [FirstSquawk] Trump to CBS: I trust Secretary of War Pete Hegseth
+- 11/09 01:56 [FirstSquawk] Egypt’s Ministry of Health: Death toll from the collision of two trains in Al-Ayyat, south of Cairo, rises to 7 dead and 112 injured
+- 11/09 02:34 [financialjuice/FirstSquawk] Trump on Iran: ‘highly improbable’ US will return to war if negotiations proceed – CNN
+- 11/09 03:14 [DeItaone] TRUMP ON IRAN: 'HIGHLY UNLIKELY' WILL ORDER US BACK TO WAR WITH IRAN IF TALKS CONTINUE TO PROGRESS
+- 11/09 03:15 [FirstSquawk] Palestinian media: Israeli shelling targets the eastern part of al-Maghazi camp in central Gaza Strip
+- 11/09 03:15 [FirstSquawk] Israeli military: Operations room and dozens of weapons found near a UN site in southern Lebanon
+- 11/09 03:15 [FirstSquawk] Trump to CNN: I am unlikely to order a return to war with Iran if progress continues in the talks.
+- 11/09 03:15 [FirstSquawk] Trump: U.S. forces are stationed in the region and are ready to carry out strikes against Iran if necessary.
+- 11/09 03:16 [FirstSquawk] Trump: The United States has identified infrastructure targets inside Iran in the event military operations resume.
+- 11/09 03:16 [FirstSquawk] Trump: We have 38 bridges in our target bank in Iran, and we can destroy them all in just one hour.
+- 11/09 03:16 [FirstSquawk] Trump: We destroyed all of Iran’s air defenses.
+- 11/09 03:16 [FirstSquawk] Trump: Tehran now has only 10% of its missile capabilities and 15% of its drone capabilities left.
+- 11/09 03:16 [FirstSquawk] Trump: The Iranians really want to reach an agreement.
+- 11/09 03:17 [FirstSquawk] Russian Defense Ministry: 50 Ukrainian drones shot down over four Russian regions and the Crimean Peninsula
+- 11/09 03:23 [financialjuice] Saudi-led coalition: ballistic missile launch platform destroyed in Yemen's Sanaa
+- 11/09 03:23 [financialjuice] Saudi-led coalition: Yemen's Houthis utilized platform in failed assault on eastern region
+- 11/09 03:39 [financialjuice] US Treasury asked Iraq to shut most border crossings with Iran, keep just two open: Iraqi foreign minister tells Al Jazeera
+- 11/09 03:49 [FirstSquawk] U.S. TREASURY REQUESTED IRAQ CLOSE MOST BORDER CROSSINGS WITH IRAN AND KEEP ONLY TWO OPEN, THE IRAQI FOREIGN MINISTER TELLS AL JAZEERA
+- 11/09 03:54 [financialjuice] Iran's Foreign Minister Aragchi: US election outcomes pause mediators' efforts
+- 11/09 03:54 [financialjuice] Iran's Araqchi: must wait for mediators to restart diplomatic process
+- 11/09 03:55 [FirstSquawk] IRAN’S FOREIGN MINISTER ARAGHCHI SAYS THE U.S. ELECTION RESULTS BROUGHT A PAUSE TO THE MEDIATORS’ WORK, AND THAT IRAN HAS TO WAIT A BIT FOR THE MEDIATORS TO RESUME THE DIPLOMATIC PATH
+- 11/09 03:56 [DeItaone] IRAN'S FOREIGN MINISTER ARAQCHI: US ELECTIONS' RESULTS BROUGHT PAUSE TO MEDIATORS WORK
+- 11/09 04:00 [financialjuice/FirstSquawk] IAEA: power restored to Zaporizhzhya nuclear plant
+- 11/09 04:10 [FirstSquawk] U.S. SECRETARY OF STATE RUBIO OVERSAW THE DRAFTING OF A MEMO THIS SPRING THAT WARNED OF THE NVIDIA HEAD’S ENTANGLEMENT WITH A CHINA SPY, WITH THE MEMO CIRCULATED BEFORE TRUMP’S TRIP TO CHINA IN MAY - NYT
+- 11/09 04:13 [FirstSquawk] TRUMP URGED NETANYAHU TO MOVE FORWARD WITH HIS GAZA PEACE PLAN FOLLOWING ISRAEL’S ELECTIONS, A PLAN THAT INCLUDES DISARMING HAMAS, DEMILITARIZING GAZA AND TRANSFERRING GOVERNANCE TO A PALESTINIAN TECHNOCRATIC ADMINISTRATION, WITH IMPLEMENTA…
+- 11/09 04:14 [FirstSquawk] WASHINGTON NOW WANTS PROGRESS REGARDLESS OF WHO FORMS ISRAEL’S NEXT GOVERNMENT AND IS PRESSING FOR ISRAEL’S FULL COOPERATION - AXIOS
+- 11/09 04:30 [financialjuice/FirstSquawk] IRNA: blasts heard on Iran’s Qeshm Island; no official confirmation from Tehran
+- 11/09 04:31 [DeItaone] IRNA SAYS EXPLOSIONS HEARD IN IRAN'S QESHM ISLAND; NO OFFICIAL IRANIAN CONFIRMATION
