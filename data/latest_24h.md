@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-11-09 04:54 JST／対象: 11/08 04:54 〜 11/09 04:54 JST（時刻はすべて日本時間）
+生成: 2026-11-09 08:20 JST／対象: 11/08 08:20 〜 11/09 08:20 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 7 | 11/08 05:14 | 11/09 04:31 | ⚠ 1227分（06:47→03:14） |
-| FirstSquawk | 190 | 11/08 09:03 | 11/09 04:44 | ⚠ 90分（22:07→23:37） |
-| financialjuice | 51 | 11/08 05:14 | 11/09 04:30 | ⚠ 229分（06:54→10:44） |
+| DeItaone | 7 | 11/09 03:14 | 11/09 07:06 | ⚠ 66分（04:31→05:37） |
+| FirstSquawk | 200 | 11/08 09:03 | 11/09 07:19 | ⚠ 90分（22:07→23:37） |
+| financialjuice | 68 | 11/08 10:44 | 11/09 08:04 | ⚠ 217分（15:05→18:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 242 行（統合前 248 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 267 行（統合前 276 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/08 05:14 [financialjuice] Explosions heard in Jask, Sirik, Bandar Abbas and Geshm in southern Iran: Iranian state TV
-- 11/08 05:14 [DeItaone] EXPLOSIONS HEARD IN JASK, SIRIK, BANDAR ABBAS AND QESHM IN SOUTHERN IRAN, CAUSE UNCLEAR - IRANIAN STATE TV
-- 11/08 05:24 [financialjuice] Iran state TV reporter: Explosions could be connected to Iranian military actions in Strait of Hormuz
-- 11/08 05:32 [financialjuice] Iran’s Tasnim News Agency: Explosions heard on Geshm Island not linked to missile attacks
-- 11/08 05:33 [DeItaone] IRAN'S TASNIM NEWS AGENCY CITES SOURCE AS SAYING THAT EXPLOSIONS HEARD ON QESHM ISLAND NOT RELATED TO MISSILE STRIKES
-- 11/08 05:37 [financialjuice] US Central Command: Forces disabled commercial ship in Gulf of Oman Saturday
-- 11/08 06:11 [DeItaone] IRAN'S IRGC NAVY SAYS TWO OIL TANKERS HIT MINES NEAR STRAIT OF HORMUZ -IRANIAN STATE TV
-- 11/08 06:11 [financialjuice] Iran's IRGC navy: two oil tankers struck mines near Strait of Hormuz - Iranian state TV
-- 11/08 06:11 [financialjuice] Trump orders Justice Department to investigate Democrats threatening many people
-- 11/08 06:32 [financialjuice] UKMTO reports incident between bulk carrier and military forces in Gulf of Oman near Khor Fakkan, UAE
-- 11/08 06:32 [financialjuice] UKMTO: status of crew, damage evaluation and environmental impact unclear at time of report
-- 11/08 06:40 [financialjuice/DeItaone] UFC CEO Dana White declines Trump’s offer to become press secretary: source says - CNN
-- 11/08 06:54 [financialjuice] Sneak peak of some data in FJ 2.0 - launching soon 😍
 - 11/08 09:03 [FirstSquawk] Saudi airstrikes reportedly killed 33 people and wounded 39 others in a village east of Yemen’s capital, Sanaa, on Saturday, according to Houthi-run health authorities, Iran International English reports.
 - 11/08 09:04 [FirstSquawk] Florida Governor Ron DeSantis said the apparent objective of the Iran operation was to trigger the collapse of the regime and establish a new government, but argued that the opportunity had passed after January’s protesters were killed. He …
 - 11/08 09:06 [FirstSquawk] Former Paraguay Central Bank chief Carlos Carvallo faces pretrial detention over alleged offenses linked to the collapse of Ueno Bank.
@@ -266,3 +253,41 @@
 - 11/09 04:14 [FirstSquawk] WASHINGTON NOW WANTS PROGRESS REGARDLESS OF WHO FORMS ISRAEL’S NEXT GOVERNMENT AND IS PRESSING FOR ISRAEL’S FULL COOPERATION - AXIOS
 - 11/09 04:30 [financialjuice/FirstSquawk] IRNA: blasts heard on Iran’s Qeshm Island; no official confirmation from Tehran
 - 11/09 04:31 [DeItaone] IRNA SAYS EXPLOSIONS HEARD IN IRAN'S QESHM ISLAND; NO OFFICIAL IRANIAN CONFIRMATION
+- 11/09 05:00 [financialjuice/FirstSquawk] OpenAI: expanding hacktron access to frontier models via Daybreak Red - blog
+- 11/09 05:00 [financialjuice/FirstSquawk] Anthropic to begin IPO roadshow next week: the information
+- 11/09 05:00 [financialjuice] Statement from Nvidia board of directors
+- 11/09 05:02 [financialjuice] Nvidia board launches independent probe into foreign intelligence targeting CEO
+- 11/09 05:02 [financialjuice] Nvidia's independent directors and external counsel to supervise investigation
+- 11/09 05:03 [financialjuice] Nvidia board: no signs of national security breach or company secrets compromised
+- 11/09 05:07 [financialjuice] Nvidia's Jensen fully backs the review and pledges cooperation
+- 11/09 05:08 [financialjuice] Nvidia board expresses confidence in Jensen and leadership team, will provide updates as needed
+- 11/09 05:08 [financialjuice] Nvidia launches independent probe after report founder and CEO Jensen Huang targeted by foreign intelligence effort
+- 11/09 05:16 [financialjuice] Drone strike targets Iraq's Khor Mor gas field in Kurdistan region: security sources
+- 11/09 05:19 [financialjuice] Gas storage facility hit by drone attack with explosives: engineer inside reports fire and black smoke rising
+- 11/09 05:25 [financialjuice] Nvidia spokesperson: probe news won't slow Nvidia, Jensen committed to continue leading as CEO without disruption
+- 11/09 05:27 [financialjuice] Nvidia CEO Huang in message to company: Was unfaithful to wife, takes full responsibility
+- 11/09 05:27 [financialjuice] Nvidia CEO Huang in message to company: fully dedicated to Nvidia and will strive to regain your confidence
+- 11/09 05:30 [financialjuice] Production operations halted at Iraq's Khor Mor gas field after drone strike: security sources
+- 11/09 05:34 [FirstSquawk] NVIDIA’S BOARD HAS LAUNCHED AN INDEPENDENT PROBE AFTER A REPORT THAT FOUNDER AND CEO JENSEN HUANG WAS TARGETED BY A FOREIGN INTELLIGENCE EFFORT
+- 11/09 05:35 [FirstSquawk] NVIDIA’S INDEPENDENT DIRECTORS AND EXTERNAL COUNSEL WILL SUPERVISE THE INVESTIGATION, WITH THE BOARD SAYING THERE ARE NO SIGNS OF A NATIONAL SECURITY BREACH OR COMPANY SECRETS COMPROMISED
+- 11/09 05:35 [FirstSquawk] NVIDIA’S BOARD EXPRESSES CONFIDENCE IN JENSEN AND THE LEADERSHIP TEAM, WITH JENSEN FULLY BACKING THE REVIEW AND PLEDGING COOPERATION
+- 11/09 05:35 [FirstSquawk] A NVIDIA SPOKESPERSON SAYS THE PROBE NEWS WON’T SLOW NVIDIA AND THAT JENSEN IS COMMITTED TO CONTINUE LEADING AS CEO WITHOUT DISRUPTION
+- 11/09 05:35 [FirstSquawk] SEPARATELY, OPENAI SAYS IT IS EXPANDING HACKTRON ACCESS TO FRONTIER MODELS VIA DAYBREAK RED - BLOG
+- 11/09 05:37 [DeItaone] NVIDIA SAYS JENSEN HUANG WILL REMAIN CEO AMID PROBE Nvidia ($NVDA ) says CEO Jensen Huang will continue leading the company without interruption, despite news of an investigation. In a message to employees, Huang acknowledged being unfaithf…
+- 11/09 05:40 [financialjuice/FirstSquawk] nearly 2.8 gw of power output lost from grid after attack on iraq's Khor Mor field: Kurdistan region's electricity ministry
+- 11/09 06:30 [DeItaone] $NVDA - NVIDIA BOARD LAUNCHES ESPIONAGE PROBE INVOLVING CEO JENSEN HUANG Nvidia IS launching an independent investigation into whether CEO Jensen Huang was targeted by a Chinese intelligence operation, Bloomberg reports. Huang admitted to a…
+- 11/09 06:41 [FirstSquawk] TRUMP SAYS TASK FORCE IRON GATE IS IN FULL FORCE AND EFFECT IN THE ISLAMIC REPUBLIC OF IRAN, AND THAT, COUPLED WITH “HISTORY’S GREATEST NAVAL BLOCKADE,” VERY LITTLE GETS INTO OR OUT OF IRAN - TRUTH SOCIAL
+- 11/09 07:06 [DeItaone] *RUBIO:TALKS NOT PRODUCTIVE, IRANIAN DEMANDS SIMPLY UNACCEPTABLE
+- 11/09 07:06 [DeItaone] *RUBIO: IRANIAN DEMANDS OUTRAGEOUS, RIDICULOUS IN SOME CASES
+- 11/09 07:19 [FirstSquawk] U.S. SECRETARY OF STATE RUBIO SAYS THE U.S. WILL EXPLORE A DIPLOMATIC SOLUTION WITH IRAN IF THERE IS A CHANCE, THOUGH SOMETIMES A DIPLOMATIC SOLUTION ISN’T POSSIBLE, ADDING THAT TALKS WITH IRAN WERE UNPRODUCTIVE AND IRANIAN DEMANDS WERE SIM…
+- 11/09 07:30 [financialjuice] Reserve Bank of Australia Assistant Governor Hunter: AI could be raising risks to financial stability
+- 11/09 07:30 [financialjuice] RBA’s Hunter: Limited proof AI significantly impacted overall employment in advanced economies
+- 11/09 07:30 [financialjuice] RBA's Hunter: limited proof AI has significantly boosted overall productivity
+- 11/09 07:30 [financialjuice] RBA's Hunter: In near term, AI's positive impact on aggregate demand versus economy’s current supply capacity will push inflation higher
+- 11/09 07:30 [financialjuice] RBA's Hunter: If returns to AI investment fall short, some asset prices could face sharp, possibly disorderly, adjustments
+- 11/09 07:30 [financialjuice] RBA's Hunter: Extra supply will match demand, AI's long-term impact on inflation probably neutral
+- 11/09 08:01 [financialjuice] Japan Tobacco Inc.: update on JT group's operations in Russia
+- 11/09 08:02 [financialjuice] Japan Tobacco expands temporary administration to three additional manufacturing entities beyond four cited in Nov 6 announcement
+- 11/09 08:03 [financialjuice] Japan Tobacco Inc.: all JT group’s entities in Russia now under temporary administration
+- 11/09 08:03 [financialjuice] Japan Tobacco Inc.: Russian business continues operating at present
+- 11/09 08:04 [financialjuice] Japan Tobacco Inc.: impact of temporary management on Russian operations under review, JT group continues assessing potential financial effects

@@ -7,68 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-11-09 04:54 JST／対象: 11/08 16:54 〜 11/09 04:54 JST（時刻はすべて日本時間）
+生成: 2026-11-09 08:20 JST／対象: 11/08 20:20 〜 11/09 08:20 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 3 | 11/09 03:14 | 11/09 04:31 | 41分（03:14→03:56） |
-| FirstSquawk | 107 | 11/08 16:59 | 11/09 04:44 | ⚠ 90分（22:07→23:37） |
-| financialjuice | 25 | 11/08 18:43 | 11/09 04:30 | ⚠ 98分（21:02→22:41） |
+| DeItaone | 7 | 11/09 03:14 | 11/09 07:06 | ⚠ 66分（04:31→05:37） |
+| FirstSquawk | 81 | 11/08 20:49 | 11/09 07:19 | ⚠ 90分（22:07→23:37） |
+| financialjuice | 43 | 11/08 20:40 | 11/09 08:04 | ⚠ 110分（05:40→07:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 131 行（統合前 135 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 124 行（統合前 132 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/08 16:59 [FirstSquawk] tower in Riyadh’s King Abdullah Financial District was damaged by a projectile on Sunday,
-- 11/08 16:59 [FirstSquawk] Iran’s armed forces spokesman Abolfazl Shekarchi described US President Donald Trump’s political and election setbacks as evidence of a broader defeat against Iran, rather than a result of domestic political shifts.
-- 11/08 17:00 [FirstSquawk] White House Deputy Chief of Staff Richard Walters is leaving the administration as Stephen Miller takes over from Susie Wiles following Republicans’ midterm losses.
-- 11/08 17:00 [FirstSquawk] Iran executes three men arrested during January anti-government protests
-- 11/08 17:00 [FirstSquawk] Asset declarations will become mandatory for all SBU personnel following the 'Operation Carthage' corruption probe, Volodymyr Zelensky said. Calling the scandal 'disgraceful,' he confirmed dismissals and warned Europe of Khimprom cartel exp…
-- 11/08 17:38 [FirstSquawk] Saudi Arabia announces the interception and destruction of a drone launched by the Houthis toward the southern region.
-- 11/08 17:39 [FirstSquawk] Germany has exhausted its stockpiles and can no longer supply Patriot systems or interceptors to Ukraine, Boris Pistorius said
-- 11/08 17:39 [FirstSquawk] Pistorius warned further transfers would compromise German defense, urging allies to step up at the next Ramstein meeting.
-- 11/08 17:39 [FirstSquawk] Lebanese National News Agency: The Israeli army carried out explosions between the towns of Zoutar al-Sharqiya and Zoutar al-Gharbiya and in the town of Qantara in southern Lebanon.
-- 11/08 17:39 [FirstSquawk] Lebanese National News Agency: Israeli shelling hits the outskirts of the towns of Mifdoun, Zoutar al-Sharqiya and Nabatiyeh al-Fawqa in southern Lebanon.
-- 11/08 17:40 [FirstSquawk] The Coalition: A drone launched by the Houthi militias toward the southern region has been intercepted
-- 11/08 17:40 [FirstSquawk] Saudi civil defence gives all-clear after alerts in Eastern Province
-- 11/08 18:22 [FirstSquawk] Iran’s Revolutionary Guards spokesman Hossein Mohebi said on Sunday that a US plan to restrict overland routes for transferring weapons and sanctioned goods would fail.
-- 11/08 18:22 [FirstSquawk] CENTCOM commander Admiral Brad Cooper ordered the establishment of Task Force Iron Gate, a team of approximately 20 military and civilian personnel based in Tampa, Florida, earlier.
-- 11/08 18:22 [FirstSquawk] Mohebi said previous US efforts to impose naval, air and land blockades had also failed. “‘Iron Gate’ is one of the plans that will remain only on paper and only in statements by US officials and CENTCOM commanders,” he said.
-- 11/08 18:22 [FirstSquawk] Volodymyr Zelensky condemned the Krakow mass shooting as a 'shocking crime' and offered condolences to the victims' families.
-- 11/08 18:22 [FirstSquawk] Expressing solidarity with Poland, he stressed there can be no justification for the attack and called for swift justice.
-- 11/08 18:43 [financialjuice] Saudi energy ministry: attempt to strike Aramco building in Riyadh - state TV
-- 11/08 18:43 [financialjuice] Saudi energy ministry: source says debris fell on building, no casualties reported on state TV
-- 11/08 18:43 [financialjuice] Saudi energy ministry: limited physical harm caused
-- 11/08 18:43 [financialjuice] Iran's Revolutionary Guards' spokesperson: US cannot achieve economic blockade or sever Tehran's ties with neighbors - Fars
-- 11/08 18:52 [financialjuice] IAEA: Zaporizhzhia nuclear plant again loses all off-site power, relies on emergency diesel generators for reactor cooling
-- 11/08 18:52 [financialjuice] IAEA: plant's link to only external power line, Ferosplavna-1, lost early today
-- 11/08 18:53 [financialjuice] IAEA on ZnPP: cause and site of latest disconnection remain unknown
-- 11/08 18:54 [financialjuice] IAEA: team at ZnPP informed plant currently has adequate fuel reserves to run limited emergency diesel generators for two weeks
-- 11/08 19:10 [FirstSquawk] Hamas: Mladenov and the Peace Council bear responsibility for covering up the occupation’s violations, and their inaction is worsening the suffering of displaced people in Gaza.
-- 11/08 19:11 [FirstSquawk] Hamas: We call on the mediators and guarantors to act to compel the occupation to implement the humanitarian protocol and ensure the flow of aid to Gaza.
-- 11/08 19:11 [FirstSquawk] UK Chief of the Defence Staff to the Financial Times: We have evidence of Russian involvement in cyberattacks, sabotage and assassinations in Europe
-- 11/08 19:11 [FirstSquawk] UK Chief of the Defence Staff to the Financial Times: The United Kingdom must catch up with Europe in confronting the Russian threat
-- 11/08 19:11 [FirstSquawk] Coalition spokesman: A drone launched by the Houthi militia toward the southern region has been intercepted and destroyed.
-- 11/08 19:12 [FirstSquawk] National and Islamic forces in the Gaza Strip: The Israeli occupation bears responsibility for the humanitarian catastrophe facing displaced people.
-- 11/08 19:12 [FirstSquawk] A source in the ambulance and emergency services: Casualties in a drone strike by an Israeli drone on the Beir al-Naja area in northern Gaza Strip
-- 11/08 19:12 [FirstSquawk] Israeli Defense Minister: We must be united in the face of Iranian threats, and it is time to form a unity government.
-- 11/08 19:12 [FirstSquawk] Iranian Revolutionary Guard spokesperson: We have taken all necessary measures to strengthen our relations with neighboring countries.
-- 11/08 19:13 [FirstSquawk] International Atomic Energy Agency: Zaporizhzhia nuclear power plant has once again lost all external power sources
-- 11/08 19:13 [FirstSquawk] International Atomic Energy Agency: Zaporizhzhia plant forced to rely on backup diesel generators to cool reactors
-- 11/08 19:13 [FirstSquawk] International Atomic Energy Agency: The Zaporizhzhia nuclear power plant lost its connection this morning to the only remaining external power line.
-- 11/08 19:14 [FirstSquawk] International Atomic Energy Agency: The cause and location of the latest power outage at the Zaporizhzhia nuclear power plant have not yet been determined.
-- 11/08 19:14 [FirstSquawk] International Atomic Energy Agency: The Zaporizhzhia nuclear power plant currently has enough fuel reserves to run a limited number of backup diesel generators for two weeks.
-- 11/08 19:14 [FirstSquawk] Polish prosecutor’s office: Terrorism investigation opened into the shooting in Krakow.
-- 11/08 20:03 [financialjuice] Anthropic secures $3.4bn agreement to produce gas-fired electricity for data centers - FT
-- 11/08 20:08 [FirstSquawk] Israeli National Security Minister Itamar Ben-Gvir: I hope Netanyahu doesn't abandon us.
-- 11/08 20:09 [FirstSquawk] Ben-Gvir reaffirms his opposition to forming a unity government
-- 11/08 20:09 [FirstSquawk] Ben Gvir: Forming a unity government will lead to political deadlock in Israel.
-- 11/08 20:09 [FirstSquawk] Iranian media: 3 oil tankers were hit by explosions and caught fire while passing through the Strait of Hormuz.
 - 11/08 20:40 [financialjuice] French foreign minister Barrot: Europeans to join Ukraine discussions in Abu Dhabi
 - 11/08 20:49 [FirstSquawk] French Foreign Minister: Europeans will participate in the upcoming talks on Ukraine
 - 11/08 21:02 [financialjuice] Sudanese army detains Ahmed Haroun, Islamist leader and former ruling party chairman: party officials
@@ -155,3 +110,41 @@
 - 11/09 04:14 [FirstSquawk] WASHINGTON NOW WANTS PROGRESS REGARDLESS OF WHO FORMS ISRAEL’S NEXT GOVERNMENT AND IS PRESSING FOR ISRAEL’S FULL COOPERATION - AXIOS
 - 11/09 04:30 [financialjuice/FirstSquawk] IRNA: blasts heard on Iran’s Qeshm Island; no official confirmation from Tehran
 - 11/09 04:31 [DeItaone] IRNA SAYS EXPLOSIONS HEARD IN IRAN'S QESHM ISLAND; NO OFFICIAL IRANIAN CONFIRMATION
+- 11/09 05:00 [financialjuice/FirstSquawk] OpenAI: expanding hacktron access to frontier models via Daybreak Red - blog
+- 11/09 05:00 [financialjuice/FirstSquawk] Anthropic to begin IPO roadshow next week: the information
+- 11/09 05:00 [financialjuice] Statement from Nvidia board of directors
+- 11/09 05:02 [financialjuice] Nvidia board launches independent probe into foreign intelligence targeting CEO
+- 11/09 05:02 [financialjuice] Nvidia's independent directors and external counsel to supervise investigation
+- 11/09 05:03 [financialjuice] Nvidia board: no signs of national security breach or company secrets compromised
+- 11/09 05:07 [financialjuice] Nvidia's Jensen fully backs the review and pledges cooperation
+- 11/09 05:08 [financialjuice] Nvidia board expresses confidence in Jensen and leadership team, will provide updates as needed
+- 11/09 05:08 [financialjuice] Nvidia launches independent probe after report founder and CEO Jensen Huang targeted by foreign intelligence effort
+- 11/09 05:16 [financialjuice] Drone strike targets Iraq's Khor Mor gas field in Kurdistan region: security sources
+- 11/09 05:19 [financialjuice] Gas storage facility hit by drone attack with explosives: engineer inside reports fire and black smoke rising
+- 11/09 05:25 [financialjuice] Nvidia spokesperson: probe news won't slow Nvidia, Jensen committed to continue leading as CEO without disruption
+- 11/09 05:27 [financialjuice] Nvidia CEO Huang in message to company: Was unfaithful to wife, takes full responsibility
+- 11/09 05:27 [financialjuice] Nvidia CEO Huang in message to company: fully dedicated to Nvidia and will strive to regain your confidence
+- 11/09 05:30 [financialjuice] Production operations halted at Iraq's Khor Mor gas field after drone strike: security sources
+- 11/09 05:34 [FirstSquawk] NVIDIA’S BOARD HAS LAUNCHED AN INDEPENDENT PROBE AFTER A REPORT THAT FOUNDER AND CEO JENSEN HUANG WAS TARGETED BY A FOREIGN INTELLIGENCE EFFORT
+- 11/09 05:35 [FirstSquawk] NVIDIA’S INDEPENDENT DIRECTORS AND EXTERNAL COUNSEL WILL SUPERVISE THE INVESTIGATION, WITH THE BOARD SAYING THERE ARE NO SIGNS OF A NATIONAL SECURITY BREACH OR COMPANY SECRETS COMPROMISED
+- 11/09 05:35 [FirstSquawk] NVIDIA’S BOARD EXPRESSES CONFIDENCE IN JENSEN AND THE LEADERSHIP TEAM, WITH JENSEN FULLY BACKING THE REVIEW AND PLEDGING COOPERATION
+- 11/09 05:35 [FirstSquawk] A NVIDIA SPOKESPERSON SAYS THE PROBE NEWS WON’T SLOW NVIDIA AND THAT JENSEN IS COMMITTED TO CONTINUE LEADING AS CEO WITHOUT DISRUPTION
+- 11/09 05:35 [FirstSquawk] SEPARATELY, OPENAI SAYS IT IS EXPANDING HACKTRON ACCESS TO FRONTIER MODELS VIA DAYBREAK RED - BLOG
+- 11/09 05:37 [DeItaone] NVIDIA SAYS JENSEN HUANG WILL REMAIN CEO AMID PROBE Nvidia ($NVDA ) says CEO Jensen Huang will continue leading the company without interruption, despite news of an investigation. In a message to employees, Huang acknowledged being unfaithf…
+- 11/09 05:40 [financialjuice/FirstSquawk] nearly 2.8 gw of power output lost from grid after attack on iraq's Khor Mor field: Kurdistan region's electricity ministry
+- 11/09 06:30 [DeItaone] $NVDA - NVIDIA BOARD LAUNCHES ESPIONAGE PROBE INVOLVING CEO JENSEN HUANG Nvidia IS launching an independent investigation into whether CEO Jensen Huang was targeted by a Chinese intelligence operation, Bloomberg reports. Huang admitted to a…
+- 11/09 06:41 [FirstSquawk] TRUMP SAYS TASK FORCE IRON GATE IS IN FULL FORCE AND EFFECT IN THE ISLAMIC REPUBLIC OF IRAN, AND THAT, COUPLED WITH “HISTORY’S GREATEST NAVAL BLOCKADE,” VERY LITTLE GETS INTO OR OUT OF IRAN - TRUTH SOCIAL
+- 11/09 07:06 [DeItaone] *RUBIO:TALKS NOT PRODUCTIVE, IRANIAN DEMANDS SIMPLY UNACCEPTABLE
+- 11/09 07:06 [DeItaone] *RUBIO: IRANIAN DEMANDS OUTRAGEOUS, RIDICULOUS IN SOME CASES
+- 11/09 07:19 [FirstSquawk] U.S. SECRETARY OF STATE RUBIO SAYS THE U.S. WILL EXPLORE A DIPLOMATIC SOLUTION WITH IRAN IF THERE IS A CHANCE, THOUGH SOMETIMES A DIPLOMATIC SOLUTION ISN’T POSSIBLE, ADDING THAT TALKS WITH IRAN WERE UNPRODUCTIVE AND IRANIAN DEMANDS WERE SIM…
+- 11/09 07:30 [financialjuice] Reserve Bank of Australia Assistant Governor Hunter: AI could be raising risks to financial stability
+- 11/09 07:30 [financialjuice] RBA’s Hunter: Limited proof AI significantly impacted overall employment in advanced economies
+- 11/09 07:30 [financialjuice] RBA's Hunter: limited proof AI has significantly boosted overall productivity
+- 11/09 07:30 [financialjuice] RBA's Hunter: In near term, AI's positive impact on aggregate demand versus economy’s current supply capacity will push inflation higher
+- 11/09 07:30 [financialjuice] RBA's Hunter: If returns to AI investment fall short, some asset prices could face sharp, possibly disorderly, adjustments
+- 11/09 07:30 [financialjuice] RBA's Hunter: Extra supply will match demand, AI's long-term impact on inflation probably neutral
+- 11/09 08:01 [financialjuice] Japan Tobacco Inc.: update on JT group's operations in Russia
+- 11/09 08:02 [financialjuice] Japan Tobacco expands temporary administration to three additional manufacturing entities beyond four cited in Nov 6 announcement
+- 11/09 08:03 [financialjuice] Japan Tobacco Inc.: all JT group’s entities in Russia now under temporary administration
+- 11/09 08:03 [financialjuice] Japan Tobacco Inc.: Russian business continues operating at present
+- 11/09 08:04 [financialjuice] Japan Tobacco Inc.: impact of temporary management on Russian operations under review, JT group continues assessing potential financial effects
