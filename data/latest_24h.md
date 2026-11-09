@@ -7,72 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-11-09 08:20 JST／対象: 11/08 08:20 〜 11/09 08:20 JST（時刻はすべて日本時間）
+生成: 2026-11-09 11:45 JST／対象: 11/08 11:45 〜 11/09 11:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 11/09 03:14 | 11/09 07:06 | ⚠ 66分（04:31→05:37） |
-| FirstSquawk | 200 | 11/08 09:03 | 11/09 07:19 | ⚠ 90分（22:07→23:37） |
-| financialjuice | 68 | 11/08 10:44 | 11/09 08:04 | ⚠ 217分（15:05→18:43） |
+| FirstSquawk | 223 | 11/08 11:45 | 11/09 11:43 | ⚠ 90分（22:07→23:37） |
+| financialjuice | 83 | 11/08 13:15 | 11/09 11:35 | ⚠ 217分（15:05→18:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 267 行（統合前 276 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 301 行（統合前 314 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/08 09:03 [FirstSquawk] Saudi airstrikes reportedly killed 33 people and wounded 39 others in a village east of Yemen’s capital, Sanaa, on Saturday, according to Houthi-run health authorities, Iran International English reports.
-- 11/08 09:04 [FirstSquawk] Florida Governor Ron DeSantis said the apparent objective of the Iran operation was to trigger the collapse of the regime and establish a new government, but argued that the opportunity had passed after January’s protesters were killed. He …
-- 11/08 09:06 [FirstSquawk] Former Paraguay Central Bank chief Carlos Carvallo faces pretrial detention over alleged offenses linked to the collapse of Ueno Bank.
-- 11/08 09:15 [FirstSquawk] NASA Awards Voyager Contract Under Its Commercial Lunar Payload Services Initiative
-- 11/08 09:15 [FirstSquawk] According to a spokesperson for Poland’s Interior Ministry, foreign nationals wounded in the shooting in Krakow include citizens of Austria, Germany, Portugal, Russia and the United Kingdom.
-- 11/08 09:19 [FirstSquawk] U.S. Steel Emerges as Major Profit Driver for Nippon Steel Amid Rising American Steel Prices -NA
-- 11/08 09:21 [FirstSquawk] Dana White Turns Down Trump’s Offer to Become US Press Secretary, Source Tells CNN
-- 11/08 09:24 [FirstSquawk] The UK Maritime Trade Operations (UKMTO) says information regarding crew safety, vessel damage and possible environmental consequences remains unavailable.
-- 11/08 09:26 [FirstSquawk] Incident involving a bulk carrier and military forces reported in the Gulf of Oman, 18 nautical miles east of Khor Fakkan, UAE, UKMTO says.
-- 11/08 09:29 [FirstSquawk] Japan Intensifies Tourism Campaign to Tap Growing Indian Travel Market - NA
-- 11/08 09:32 [FirstSquawk] Israeli President Turns to Opposition Figure Eisenkot to Lead Government Formation Process, CNBC Reports
-- 11/08 09:36 [FirstSquawk] Former Paraguayan President Santiago Peña Ordered Into Pretrial Detention
-- 11/08 09:40 [FirstSquawk] Iranian State Television Reports IRGC Navy Claim That Two Oil Tankers Were Struck by Mines Near the Strait of Hormuz
-- 11/08 09:40 [FirstSquawk] Trump Calls on Justice Department to Examine Democrats Accused of Threatening Individuals - RTRS
-- 11/08 09:42 [FirstSquawk] Polish Prime Minister Donald Tusk Says Authorities Suspect There May Be Fatalities at the Shooter’s Home
-- 11/08 09:43 [FirstSquawk] Three People, Including Two Women, Found Dead at Shooter’s Residence in Poland
-- 11/08 09:43 [FirstSquawk] Polish Prime Minister Says Three People Found Dead at Suspect’s Home Were Believed to Be Members of His Family
-- 11/08 09:48 [FirstSquawk] Polish Authorities Confirm British National Was Among Those Killed in the Incident
-- 11/08 09:48 [FirstSquawk] US Central Command Confirms Commercial Vessel Was Disabled by American Forces in the Gulf of Oman
-- 11/08 09:52 [FirstSquawk] A Source Cited by Iran’s Tasnim News Agency Says Explosions Heard on Qeshm Island Were Unrelated to Missile Attacks
-- 11/08 09:56 [FirstSquawk] Explosions May Be Connected to Iranian Military Operations in Strait of Hormuz, State TV Reporter Says
-- 11/08 09:56 [FirstSquawk] Iranian State Television Reports Explosions in Jask, Sirik, Bandar Abbas and Qeshm, With No Immediate Explanation
-- 11/08 09:58 [FirstSquawk] Syria Rejects Reports of Potential Troop Deployment to Yemen as Defence Cooperation With Saudi Arabia Expands - RTRS
-- 11/08 10:05 [FirstSquawk] Tesla CEO Elon Musk Signals 40-kWh Battery Pack for Cybercab Following Planned Efficiency Improvements
-- 11/08 10:06 [FirstSquawk] Ride-Hailing Firm Tada Joins Singapore’s Autonomous Minibus Development Programme - NA
-- 11/08 10:10 [FirstSquawk] Al-Zaidi Accuses Opponents of Restricting Arms to State Authority of Undermining Others’ Rights Under the Pretext of Legitimacy
-- 11/08 10:10 [FirstSquawk] Al-Zaidi Pledges Action Against Groups Rejecting the State’s Monopoly on Arms and Undermining Iraqi Citizens’ Rights
-- 11/08 10:15 [FirstSquawk] Israeli President Taps Netanyahu Rival Gadi Eisenkot to Lead Government Formation
-- 11/08 10:22 [FirstSquawk] Israeli President Tasks Opposition Figure Gadi Eisenkot With Forming New Government, Local Media Reports
-- 11/08 10:22 [FirstSquawk] Polish Interior Minister Says Shooter Appeared to Be Influenced by Far-Right Ideology
-- 11/08 10:30 [FirstSquawk] Trump Says White Was Asked to Bring Assistants, Including Foreign Nationals
-- 11/08 10:36 [FirstSquawk] Kraków Shooting Leaves Six Dead After Gunman Opens Fire - FT
-- 11/08 10:44 [financialjuice] Saudi civil defense issues warning of potential hazard in Dammam - post on X
-- 11/08 10:45 [FirstSquawk] Trump Accuses Democrats of Threatening Officials and Donors, Calls for DOJ Investigation
-- 11/08 10:48 [financialjuice] Saudi civil defense issues warning of potential threat in Dhahran and Abqaiq
-- 11/08 10:48 [FirstSquawk] Turkish President Erdogan Speaks With Trump, Discusses Key Global Issues
-- 11/08 10:50 [financialjuice] Saudi civil defense issues warning over possible threat in Al Ahsa governorate
-- 11/08 10:50 [FirstSquawk] Turkey Vows Continued Peace Efforts Amid US-Iran Tensions, Erdogan Tells Trump
-- 11/08 10:53 [FirstSquawk] Saudi Arabia Says Danger Has Passed in Dammam, Dhahran and Abqaiq
-- 11/08 10:53 [financialjuice] Saudi civil defense: danger has passed in Dammam, Dhahran and Abqaiq - state TV
-- 11/08 10:54 [financialjuice] Saudi civil defense: risk has passed in Al Ahsa governorate
-- 11/08 10:59 [financialjuice] UAE National Guard: Rescued 22 after fire erupts on cargo ship in Sea of Oman
-- 11/08 11:00 [FirstSquawk] Erdogan Tells Trump Diplomatic Push to End Ukraine War Could Yield Positive Results
-- 11/08 11:02 [FirstSquawk] US Senator Blumenthal Pushes New Ukraine Legislation, Calls for Changes to Peace Talks Team - The Kyiv Independent
-- 11/08 11:11 [FirstSquawk] Binance Names Justin Yek New CFO Following Kaiser Ng's Exit
-- 11/08 11:18 [FirstSquawk] Authorities Confirm Six Fatalities and 15 Injuries in Krakow Shooting
-- 11/08 11:28 [FirstSquawk] Saudi Arabia and Syria Agree on Military Training Cooperation, Visits Set for Next Month
-- 11/08 11:30 [financialjuice] Saudi-led coalition: intercepted and destroyed ballistic missile launched by Yemen's Houthis towards Saudi Arabia's eastern region
-- 11/08 11:34 [FirstSquawk] Syrian-Saudi Military Partnership Could Evolve Into Mutual Defence Agreement
 - 11/08 11:45 [FirstSquawk] Houthis Announce Attack on Riyadh Airport, Claim Remains Unconfirmed by Saudi Arabia
 - 11/08 11:49 [FirstSquawk] Houthis Announce Strikes on Aramco Facilities in Two Saudi Locations
 - 11/08 11:57 [FirstSquawk] Yemen's Houthis Claim Attack on Military Camp in Saudi Arabia's Najran Region
@@ -291,3 +242,86 @@
 - 11/09 08:03 [financialjuice] Japan Tobacco Inc.: all JT group’s entities in Russia now under temporary administration
 - 11/09 08:03 [financialjuice] Japan Tobacco Inc.: Russian business continues operating at present
 - 11/09 08:04 [financialjuice] Japan Tobacco Inc.: impact of temporary management on Russian operations under review, JT group continues assessing potential financial effects
+- 11/09 08:20 [FirstSquawk] MEMPHASYS SAYS IT HAS SIGNED ITS FIRST NEW ZEALAND COMMERCIAL AGREEMENT FOR FELIX, SPECIFYING A MINIMUM PURCHASE VOLUME OF 1,200 FELIX CARTRIDGES OVER THE INITIAL TERM, BEGINNING WITH 500 CARTRIDGES AND ONE FELIX CONSOLE
+- 11/09 08:24 [financialjuice] Trump on Dana White as press secretary: he was joking
+- 11/09 08:25 [financialjuice] Trump on Dana White as press secretary: we will discuss other issues tomorrow
+- 11/09 08:25 [financialjuice] Trump on Nvidia CEO Huang: I have not discussed allegations with him
+- 11/09 08:25 [FirstSquawk] BITCOIN FELL 2% TO $74,000, WHILE ETHER DROPPED ABOUT 5% TO $2,223
+- 11/09 08:25 [financialjuice] Trump on Nvidia CEO Huang: he is a good person
+- 11/09 08:26 [financialjuice] Trump on Nvidia's Huang: I would take him but don't know if he will join Asia trip
+- 11/09 08:29 [FirstSquawk] RBA’S HUNTER SAYS AI MAY RAISE FINANCIAL STABILITY RISKS AND THAT DISAPPOINTING RETURNS COULD TRIGGER A SHARP, POSSIBLY DISORDERLY ASSET REPRICING
+- 11/09 08:29 [FirstSquawk] RBA’S HUNTER SAYS AI-DRIVEN DEMAND WILL PUT UPWARD PRESSURE ON INFLATION IN THE NEAR TERM GIVEN CURRENT SUPPLY CAPACITY, BUT THAT SUPPLY WILL CATCH UP OVER TIME, LEAVING AI’S LONG-RUN EFFECT ON INFLATION LIKELY BROADLY NEUTRAL
+- 11/09 08:29 [FirstSquawk] RBA’S HUNTER SAYS THERE IS LIMITED EVIDENCE AI HAS MATERIALLY BOOSTED AGGREGATE PRODUCTIVITY OR HAD A LARGE EFFECT ON EMPLOYMENT IN ADVANCED ECONOMIES
+- 11/09 08:30 [FirstSquawk] U.S. STOCK FUTURES WERE STEADY IN EARLY TRADE DESPITE NVIDIA CONCERNS, WITH S&P 500 FUTURES UP 0.2% AND NASDAQ 100 FUTURES GAINING 0.1%
+- 11/09 08:30 [financialjuice] Trump: I expect to hold talks with Xi and Putin
+- 11/09 08:31 [FirstSquawk] JAPAN TOBACCO SAYS ALL JT GROUP ENTITIES IN RUSSIA ARE NOW UNDER TEMPORARY ADMINISTRATION, EXPANDING THE TEMPORARY ADMINISTRATION TO THREE ADDITIONAL MANUFACTURING ENTITIES BEYOND THE FOUR CITED IN ITS NOVEMBER 6 ANNOUNCEMENT
+- 11/09 08:31 [FirstSquawk] JAPAN TOBACCO SAYS ITS RUSSIAN BUSINESS CONTINUES OPERATING AT PRESENT, WITH THE IMPACT OF THE TEMPORARY MANAGEMENT UNDER REVIEW AS THE JT GROUP CONTINUES ASSESSING POTENTIAL FINANCIAL EFFECTS
+- 11/09 08:32 [FirstSquawk] TRUMP, ON NVIDIA CEO HUANG, CALLS HIM “A GOOD PERSON,” SAYS HE HAS NOT DISCUSSED THE ALLEGATIONS WITH HIM, AND THAT HE WOULD TAKE HIM BUT DOES NOT KNOW IF HE WILL JOIN AN ASIA TRIP
+- 11/09 08:32 [financialjuice] Trump: many people disliked Vance's remarks on Iran
+- 11/09 08:33 [FirstSquawk] TRUMP SAYS HE EXPECTS TO HOLD TALKS WITH XI AND PUTIN
+- 11/09 08:47 [FirstSquawk] JAPAN’S NIKKEI AVERAGE FUTURES ARE UP 1.1% IN EARLY TRADE, WHILE BENCHMARK 10-YEAR JGB FUTURES FELL 0.36 POINT
+- 11/09 08:47 [FirstSquawk] UBS CEO ERMOTTI SAYS MARKET FOCUS WILL RETURN TO INFLATION AND INTEREST RATES AND THAT HE IS NOT OVERLY CONCERNED ABOUT THE AI SELLOFF, ADDING THAT PRIVATE CREDIT MARKETS ARE STABILISING
+- 11/09 08:50 [financialjuice/FirstSquawk] Japan foreign reserves $1,179.119 billion at end-October, $1,178.396 billion at end-September: MOF
+- 11/09 08:52 [financialjuice/FirstSquawk] Japan's largest daily market intervention in July-Sept quarter was 7.98 trillion yen on July 30, finance ministry data shows
+- 11/09 08:55 [FirstSquawk] NEW YORK CITY MAYOR ZOHRAN MAMDANI IS SEEKING TO UNITE PROGRESSIVES BEHIND A LEFT-WING CANDIDATE FOR THE 2028 U.S. PRESIDENTIAL ELECTION, HAVING PRIVATELY MET WITH LABOR LEADERS TO DISCUSS POTENTIAL CANDIDATES AND STRATEGIES TO COUNTER A RI…
+- 11/09 08:55 [FirstSquawk] MAMDANI IS REPORTEDLY UNCERTAIN WHETHER ALEXANDRIA OCASIO-CORTEZ WILL RUN FOR PRESIDENT OR SEEK A SENATE SEAT, PROMPTING PROGRESSIVES TO CONSIDER ALTERNATIVES INCLUDING RO KHANNA, ABDUL EL-SAYED AND UNION LEADERS - AXIOS
+- 11/09 08:57 [FirstSquawk] MARCO RUBIO, ON IRAN, SAYS TRUMP IDENTIFIED A VERY REAL THREAT TO THE COUNTRY AND ADDRESSED IT, AND THAT “THE RIGHT THING TO DO FOR THE COUNTRY ISN’T NECESSARILY POPULAR, BUT NECESSARY”
+- 11/09 08:57 [FirstSquawk] MARCO RUBIO, ON THE IRAN WAR, SAYS THAT “SOMETIMES, WHEN YOU DO THE RIGHT THING, YOU DON’T KNOW WHETHER IT’S POPULAR OR NOT, BUT IT’S STILL THE RIGHT THING TO DO,” ADDING THAT PRESIDENTS ARE ELECTED TO DO THE HARD, SOMETIMES DIFFICULT, BUT …
+- 11/09 08:57 [FirstSquawk] MARCO RUBIO, ON IRAN, SAYS THE U.S. ACTS DEFENSIVELY AND THAT IF THERE IS A THREAT TO U.S. FORCES IN THE REGION IT WILL ACT AGAINST THOSE, ADDING “WE HAVE A RIGHT TO DEFEND OURSELVES”
+- 11/09 08:57 [FirstSquawk] MARCO RUBIO SAYS IT IS NOT UNCOMMON TO HAVE A DIVISION OF POWER IN THE COUNTRY, THAT “WE’VE SEEN IT BEFORE” AND SEEN ELECTIONS GO ONE DIRECTION AND THEN ANOTHER A COUPLE OF YEARS LATER, CALLING IT “JUST A FEATURE OF OUR SYSTEM”
+- 11/09 08:57 [FirstSquawk] MARCO RUBIO, ON IRAN, SAYS THE IRANIAN DEMANDS ARE NOT JUST UNACCEPTABLE BUT IN SOME CASES “OUTRAGEOUS AND RIDICULOUS, AND REALLY NOT REALISTIC”
+- 11/09 08:57 [FirstSquawk] MARCO RUBIO SAYS HE WOULDN’T SAY THE U.S. IS ON THE VERGE OF A BREAKTHROUGH, THAT TRUMP WOULD ALWAYS PREFER TO SOLVE EVERY PROBLEM DIPLOMATICALLY THOUGH SOMETIMES THAT IS NOT POSSIBLE, AND THAT IF THERE IS A CHANCE THE U.S. WILL EXPLORE IT,…
+- 11/09 09:08 [financialjuice/FirstSquawk] Trump: AI risk can be managed, but 'I don't mind guardrails' in CBS '60 Minutes' interview
+- 11/09 09:09 [FirstSquawk] TRUMP TO MEET QATAR PM AT 12PM ET
+- 11/09 09:18 [FirstSquawk] TRUMP SAYS HE WILL MAKE A FEW CHANGES TO THE CABINET AND EXPECTS A “DIFFERENT SHAPE UKRAINE” AFTER THE END OF THE RUSSIA-UKRAINE WAR - COMMENTS IN A TRANSCRIPT OF A PRE-RECORDED CBS INTERVIEW
+- 11/09 09:23 [financialjuice] China PBOC likely to fix yuan mid-point at 6.6799 per dollar: estimate
+- 11/09 09:23 [FirstSquawk] Nikkei Index Advances 2.12% Amid Positive Market Momentum
+- 11/09 09:24 [FirstSquawk/financialjuice] TRUMP, WHEN ASKED IF RUBIO WILL REMAIN SECRETARY OF STATE: ‘I THINK SO!’ IN CBS ‘60 MINUTES’ INTERVIEW
+- 11/09 09:25 [FirstSquawk] 'War in Ukraine Will End Soon': Trump Shares Optimistic Outlook with CBS
+- 11/09 09:26 [FirstSquawk] Trump Backs Rubio for Secretary of State in '60 Minutes' Interview: 'I Think So'
+- 11/09 09:37 [FirstSquawk] Nvidia Examines Whether Foreign Intelligence Operatives Targeted Jensen Huang Amid Affair Revelation - RTRS
+- 11/09 09:48 [FirstSquawk] Gold Advances Slightly as Mixed Signals Shape Investor Sentiment - WSJ
+- 11/09 09:51 [FirstSquawk] PRESIDENT TRUMP WILL MEET MONDAY WITH THE PRIME MINISTER OF QATAR, WHO IS THE KEY MEDIATOR BETWEEN THE U.S. AND IRAN, THE WHITE HOUSE SAYS
+- 11/09 09:51 [FirstSquawk] 5-Year Japanese Government Bond Yield Rises 6.5 Bps to 2.110%
+- 11/09 09:52 [FirstSquawk] Egypt Train Collision in Giza Leaves Seven Dead and Over 100 Injured
+- 11/09 09:56 [FirstSquawk] Hyundai Motor's HTWO, Air Liquide Team Up to Accelerate Hydrogen Mobility Expansion in China
+- 11/09 09:57 [FirstSquawk] Seoul Stocks Reverse Course, Opening Lower Despite Positive US Market Performance
+- 11/09 10:02 [FirstSquawk] Gold Rises Nearly 1% as Spot Prices Reach $4,104.09/Oz
+- 11/09 10:02 [FirstSquawk] Taiwan's Overnight Interbank Rate Starts Trading at 0.805%, Unchanged From Previous Session
+- 11/09 10:03 [FirstSquawk] Taiwan's Benchmark Stock Index Climbs Over 2%
+- 11/09 10:09 [FirstSquawk] Gen Z Workers Ditch Entry-Level Corporate Jobs to Become Their Own Bosses - WSJ
+- 11/09 10:13 [FirstSquawk] 30-Year Japanese Government Bond Yield Rises to 3.865%, Up 4 Bps
+- 11/09 10:13 [FirstSquawk] ASX 200 Drops 0.3% to 8,997, With Bank Weakness Outweighing Gains in Mining Stocks
+- 11/09 10:16 [FirstSquawk] China's Central Bank Fixes Yuan Midpoint at 6.7188 Against the US Dollar
+- 11/09 10:21 [FirstSquawk] Philippines Pursues Specially Configured BrahMos Missiles From India for Coastal and Island Defence - SCMP
+- 11/09 10:22 [FirstSquawk] 20-Year Japanese Government Bond Yield Rises to 3.595%, Up 5 Bps
+- 11/09 10:22 [FirstSquawk] Mizuho and Bank of America Securities to Manage Berkshire Hathaway's Yen-Denominated Senior Bond Sale
+- 11/09 10:23 [FirstSquawk] Taiwan's Benchmark Stock Index Climbs Over 4%
+- 11/09 10:23 [financialjuice] China cbank injects 182 billion yuan via overnight reverse repos at 1.25%: statement
+- 11/09 10:29 [FirstSquawk] China's Navigation Satellite Industry Index Signals a 2% Higher Opening
+- 11/09 10:30 [financialjuice] China October CPI rises 0.7% year on year, poll expected 0.8%
+- 11/09 10:30 [financialjuice] China October producer prices rise 0.7% month on month
+- 11/09 10:30 [financialjuice] ❗ CHINESE PPI YOY ACTUAL 5.7% (FORECAST 5.3%, PREVIOUS 5.0%) $MACRO
+- 11/09 10:30 [financialjuice] ‼ BREAKING: CHINESE CPI YOY ACTUAL 0.7% (FORECAST 0.8%, PREVIOUS 0.9%) $MACRO
+- 11/09 10:30 [financialjuice] China october cpi unchanged from previous month: poll matches 0.0%
+- 11/09 10:31 [financialjuice] China: October food CPI falls 2.9% year on year; non-food CPI rises 1.5%
+- 11/09 10:31 [financialjuice] CHINESE CPI MOM ACTUAL 0.0% (FORECAST -, PREVIOUS 0.2%) $MACRO
+- 11/09 10:33 [FirstSquawk] CHINA PPI (Y/Y) OCT: 5.7% (EST 5.3%; PREV 5.0%)
+- 11/09 10:33 [FirstSquawk] CHINA CORE CPI (Y/Y): 0.8% (EST 0.9%; PREV 1.0%)
+- 11/09 10:34 [FirstSquawk] CHINA CPI (Y/Y) OCT: 0.7% (EST 0.8%; PREV 0.9%)
+- 11/09 10:41 [FirstSquawk] TOPIX Advances 3.31% to 3,830.88, Extending Its Rally
+- 11/09 10:43 [financialjuice] South Korea industry vice minister: Nvidia's current issues won't impact country's contracted GPU supply
+- 11/09 10:49 [FirstSquawk] Russia's Kirishi Industrial Area Comes Under Drone Attack, Officials Report
+- 11/09 10:49 [FirstSquawk] South Korea Says Nvidia-Related Issues Will Not Affect Its Agreed GPU Supply Arrangements
+- 11/09 10:54 [FirstSquawk] Australian Dollar Gains Half a Percent to Reach $0.6892
+- 11/09 11:07 [FirstSquawk] Taiwan Stocks Rally 5.6%, With Benchmark Index Reaching 41,905.29
+- 11/09 11:08 [FirstSquawk] Silver Prices Jump Almost 3%, Reaching $53.41/Oz
+- 11/09 11:12 [FirstSquawk] Philippines Targets 6.3% GDP Growth in Fourth Quarter to Meet Full-Year Goal
+- 11/09 11:13 [FirstSquawk] Southeast Asia's Middle Class Finds New Career Opportunities in the Civil Service Through AI- SCMP
+- 11/09 11:19 [FirstSquawk] TSMC's Taipei Shares Strengthen Further, Jumping 6% in Trading
+- 11/09 11:29 [FirstSquawk] Taiwan's Benchmark Stock Index Advances 6.4% in Broad Rally
+- 11/09 11:30 [FirstSquawk] KOSPI Gains 2% in Early Trading
+- 11/09 11:34 [FirstSquawk] Crude Oil Slips Amid Optimism Over Reduced Middle East Tensions - WSJ
+- 11/09 11:35 [financialjuice] China to extend suspension of 24% US tariffs for two months from Nov. 10, maintain 10% tariffs: statement
+- 11/09 11:35 [FirstSquawk] Beijing to Continue Pausing 24% Tariffs on US Imports Until January 10, Maintain 10% Tariff Rate
+- 11/09 11:43 [FirstSquawk] Philippines to Review Economic Growth Projections as Officials Plan Meeting for Early December
