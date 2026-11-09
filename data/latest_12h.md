@@ -7,109 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-11-09 11:45 JST／対象: 11/08 23:45 〜 11/09 11:45 JST（時刻はすべて日本時間）
+生成: 2026-11-09 19:24 JST／対象: 11/09 07:24 〜 11/09 19:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 7 | 11/09 03:14 | 11/09 07:06 | ⚠ 66分（04:31→05:37） |
-| FirstSquawk | 123 | 11/09 00:44 | 11/09 11:43 | ⚠ 78分（01:56→03:15） |
-| financialjuice | 61 | 11/09 00:11 | 11/09 11:35 | ⚠ 110分（05:40→07:30） |
+| DeItaone | 5 | 11/09 18:35 | 11/09 19:23 | 27分（18:55→19:23） |
+| FirstSquawk | 156 | 11/09 08:20 | 11/09 18:19 | 30分（16:54→17:24） |
+| financialjuice | 69 | 11/09 07:30 | 11/09 18:30 | ⚠ 80分（17:10→18:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 180 行（統合前 192 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 223 行（統合前 230 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/09 00:11 [financialjuice] Saudi-led coalition: destroyed two ballistic missile launchers in Yemen’s Saada used by Houthis to attack Riyadh
-- 11/09 00:15 [financialjuice] Eisenkot: urgent demand for fresh, strong leadership
-- 11/09 00:16 [financialjuice] Eisenkot: with the mandate received today, will lead formation of national emergency government
-- 11/09 00:44 [FirstSquawk] Lebanese Foreign Minister: Lebanon will no longer accept the presence of a weapon other than the Lebanese Army's
-- 11/09 00:44 [FirstSquawk] Lebanese Foreign Minister: Lebanon refuses to negotiate or bargain on its behalf
-- 11/09 00:44 [FirstSquawk] Lebanese Foreign Minister: Lebanon's interests should not be compromised in the service of the interests of others
-- 11/09 00:50 [FirstSquawk] Egyptian President Directs to Expedite Investigations into the Circumstances of the Collision of the Two Al-Ayat Trains and Hold the Culprits Accountable
-- 11/09 00:51 [FirstSquawk] Lebanese Foreign Minister: Our goal is to liberate the land from the occupation and liberate the citizen from illegal weapons
-- 11/09 00:51 [FirstSquawk] Medical sources in Gaza: Two killed and wounded in Israeli shelling in the area of Al-Mawasi, west of the city of Khan Younis, in the southern Gaza Strip
-- 11/09 00:51 [FirstSquawk] Israeli President Isaac Herzog instructs Yachar Party Chairman Gadi Eisenkot to form the new government
-- 11/09 00:51 [FirstSquawk] Israeli President Isaac Herzog officially tasked Yashar party head Gadi Eisenkot with forming the new government
-- 11/09 00:51 [FirstSquawk] Herzog: Trump's plan on Gaza, negotiations with Lebanon and the fight against terrorism should go ahead
-- 11/09 00:51 [FirstSquawk] Herzog: Israel wants a stable government that preserves the country's unity
-- 11/09 00:51 [FirstSquawk] Herzog: The new government is required to address the security and economic challenges facing Israel
-- 11/09 00:51 [FirstSquawk] Israeli Prime Minister-designate Gadi Eisenkot: We are in a state of emergency that imposes enormous challenges on us
-- 11/09 00:51 [FirstSquawk] Eisenkot: Our failure will pose a major risk to Israel's future
-- 11/09 00:52 [FirstSquawk] Eisenkot: We will make every effort to meet the wishes of the Israeli people and I am committed to establishing an emergency government
-- 11/09 00:52 [FirstSquawk] Eisenkot: The challenges we face are urgent and we do not have the luxury of retreating
-- 11/09 00:52 [FirstSquawk] Eisenkot: Anyone who agrees with the 4 principles she set is invited to join the new government
-- 11/09 00:52 [FirstSquawk] Eisenkot: Israel is witnessing a delicate political juncture and I will act cautiously on crucial and crucial days
-- 11/09 00:52 [FirstSquawk] Saudi Ministry of Defense announces destruction of two Houthi ballistic missile launchers in Saada
-- 11/09 00:52 [FirstSquawk] Saudi Ministry of Defense: The Houthis used the two platforms in Saada in an attempt to attack Riyadh today
-- 11/09 00:52 [FirstSquawk] Iraqi Army Commander: Turkey will start the steps of gradual handover of Bashiqa camp to the Iraqi government
-- 11/09 00:52 [FirstSquawk] Iraqi Integrity Commission: Former Salah al-Din governor sentenced in absentia to 14 years in prison in two corruption cases
-- 11/09 01:44 [financialjuice/FirstSquawk] Iran navy: oil tanker ignites after hitting naval mine east of Strait of Hormuz - Iranian media
-- 11/09 01:53 [FirstSquawk] U.S. State Department spokesperson told Sky News Arabia: The Lebanese consul in Detroit, Ibrahim Sharara, has been declared persona non grata.
-- 11/09 01:54 [FirstSquawk] U.S. State Department spokesperson: The Lebanese consul in Detroit, Ibrahim Sharara, has been declared persona non grata.
-- 11/09 01:55 [FirstSquawk] U.S. State Department spokesperson: There is no place on our soil for anyone who celebrates or justifies terrorist attacks.
-- 11/09 01:55 [FirstSquawk] U.S. State Department spokesperson: We continue to review information regarding members of foreign missions in our country, including any national security concerns.
-- 11/09 01:55 [FirstSquawk] Trump tells CBS he intends to make changes to his team.
-- 11/09 01:55 [FirstSquawk] Trump to CBS: I appreciate the members of my administration and I think they’re good, but I may make some changes.
-- 11/09 01:56 [FirstSquawk] Trump to CBS: I trust Secretary of War Pete Hegseth
-- 11/09 01:56 [FirstSquawk] Egypt’s Ministry of Health: Death toll from the collision of two trains in Al-Ayyat, south of Cairo, rises to 7 dead and 112 injured
-- 11/09 02:34 [financialjuice/FirstSquawk] Trump on Iran: ‘highly improbable’ US will return to war if negotiations proceed – CNN
-- 11/09 03:14 [DeItaone] TRUMP ON IRAN: 'HIGHLY UNLIKELY' WILL ORDER US BACK TO WAR WITH IRAN IF TALKS CONTINUE TO PROGRESS
-- 11/09 03:15 [FirstSquawk] Palestinian media: Israeli shelling targets the eastern part of al-Maghazi camp in central Gaza Strip
-- 11/09 03:15 [FirstSquawk] Israeli military: Operations room and dozens of weapons found near a UN site in southern Lebanon
-- 11/09 03:15 [FirstSquawk] Trump to CNN: I am unlikely to order a return to war with Iran if progress continues in the talks.
-- 11/09 03:15 [FirstSquawk] Trump: U.S. forces are stationed in the region and are ready to carry out strikes against Iran if necessary.
-- 11/09 03:16 [FirstSquawk] Trump: The United States has identified infrastructure targets inside Iran in the event military operations resume.
-- 11/09 03:16 [FirstSquawk] Trump: We have 38 bridges in our target bank in Iran, and we can destroy them all in just one hour.
-- 11/09 03:16 [FirstSquawk] Trump: We destroyed all of Iran’s air defenses.
-- 11/09 03:16 [FirstSquawk] Trump: Tehran now has only 10% of its missile capabilities and 15% of its drone capabilities left.
-- 11/09 03:16 [FirstSquawk] Trump: The Iranians really want to reach an agreement.
-- 11/09 03:17 [FirstSquawk] Russian Defense Ministry: 50 Ukrainian drones shot down over four Russian regions and the Crimean Peninsula
-- 11/09 03:23 [financialjuice] Saudi-led coalition: ballistic missile launch platform destroyed in Yemen's Sanaa
-- 11/09 03:23 [financialjuice] Saudi-led coalition: Yemen's Houthis utilized platform in failed assault on eastern region
-- 11/09 03:39 [financialjuice] US Treasury asked Iraq to shut most border crossings with Iran, keep just two open: Iraqi foreign minister tells Al Jazeera
-- 11/09 03:49 [FirstSquawk] U.S. TREASURY REQUESTED IRAQ CLOSE MOST BORDER CROSSINGS WITH IRAN AND KEEP ONLY TWO OPEN, THE IRAQI FOREIGN MINISTER TELLS AL JAZEERA
-- 11/09 03:54 [financialjuice] Iran's Foreign Minister Aragchi: US election outcomes pause mediators' efforts
-- 11/09 03:54 [financialjuice] Iran's Araqchi: must wait for mediators to restart diplomatic process
-- 11/09 03:55 [FirstSquawk] IRAN’S FOREIGN MINISTER ARAGHCHI SAYS THE U.S. ELECTION RESULTS BROUGHT A PAUSE TO THE MEDIATORS’ WORK, AND THAT IRAN HAS TO WAIT A BIT FOR THE MEDIATORS TO RESUME THE DIPLOMATIC PATH
-- 11/09 03:56 [DeItaone] IRAN'S FOREIGN MINISTER ARAQCHI: US ELECTIONS' RESULTS BROUGHT PAUSE TO MEDIATORS WORK
-- 11/09 04:00 [financialjuice/FirstSquawk] IAEA: power restored to Zaporizhzhya nuclear plant
-- 11/09 04:10 [FirstSquawk] U.S. SECRETARY OF STATE RUBIO OVERSAW THE DRAFTING OF A MEMO THIS SPRING THAT WARNED OF THE NVIDIA HEAD’S ENTANGLEMENT WITH A CHINA SPY, WITH THE MEMO CIRCULATED BEFORE TRUMP’S TRIP TO CHINA IN MAY - NYT
-- 11/09 04:13 [FirstSquawk] TRUMP URGED NETANYAHU TO MOVE FORWARD WITH HIS GAZA PEACE PLAN FOLLOWING ISRAEL’S ELECTIONS, A PLAN THAT INCLUDES DISARMING HAMAS, DEMILITARIZING GAZA AND TRANSFERRING GOVERNANCE TO A PALESTINIAN TECHNOCRATIC ADMINISTRATION, WITH IMPLEMENTA…
-- 11/09 04:14 [FirstSquawk] WASHINGTON NOW WANTS PROGRESS REGARDLESS OF WHO FORMS ISRAEL’S NEXT GOVERNMENT AND IS PRESSING FOR ISRAEL’S FULL COOPERATION - AXIOS
-- 11/09 04:30 [financialjuice/FirstSquawk] IRNA: blasts heard on Iran’s Qeshm Island; no official confirmation from Tehran
-- 11/09 04:31 [DeItaone] IRNA SAYS EXPLOSIONS HEARD IN IRAN'S QESHM ISLAND; NO OFFICIAL IRANIAN CONFIRMATION
-- 11/09 05:00 [financialjuice/FirstSquawk] OpenAI: expanding hacktron access to frontier models via Daybreak Red - blog
-- 11/09 05:00 [financialjuice/FirstSquawk] Anthropic to begin IPO roadshow next week: the information
-- 11/09 05:00 [financialjuice] Statement from Nvidia board of directors
-- 11/09 05:02 [financialjuice] Nvidia board launches independent probe into foreign intelligence targeting CEO
-- 11/09 05:02 [financialjuice] Nvidia's independent directors and external counsel to supervise investigation
-- 11/09 05:03 [financialjuice] Nvidia board: no signs of national security breach or company secrets compromised
-- 11/09 05:07 [financialjuice] Nvidia's Jensen fully backs the review and pledges cooperation
-- 11/09 05:08 [financialjuice] Nvidia board expresses confidence in Jensen and leadership team, will provide updates as needed
-- 11/09 05:08 [financialjuice] Nvidia launches independent probe after report founder and CEO Jensen Huang targeted by foreign intelligence effort
-- 11/09 05:16 [financialjuice] Drone strike targets Iraq's Khor Mor gas field in Kurdistan region: security sources
-- 11/09 05:19 [financialjuice] Gas storage facility hit by drone attack with explosives: engineer inside reports fire and black smoke rising
-- 11/09 05:25 [financialjuice] Nvidia spokesperson: probe news won't slow Nvidia, Jensen committed to continue leading as CEO without disruption
-- 11/09 05:27 [financialjuice] Nvidia CEO Huang in message to company: Was unfaithful to wife, takes full responsibility
-- 11/09 05:27 [financialjuice] Nvidia CEO Huang in message to company: fully dedicated to Nvidia and will strive to regain your confidence
-- 11/09 05:30 [financialjuice] Production operations halted at Iraq's Khor Mor gas field after drone strike: security sources
-- 11/09 05:34 [FirstSquawk] NVIDIA’S BOARD HAS LAUNCHED AN INDEPENDENT PROBE AFTER A REPORT THAT FOUNDER AND CEO JENSEN HUANG WAS TARGETED BY A FOREIGN INTELLIGENCE EFFORT
-- 11/09 05:35 [FirstSquawk] NVIDIA’S INDEPENDENT DIRECTORS AND EXTERNAL COUNSEL WILL SUPERVISE THE INVESTIGATION, WITH THE BOARD SAYING THERE ARE NO SIGNS OF A NATIONAL SECURITY BREACH OR COMPANY SECRETS COMPROMISED
-- 11/09 05:35 [FirstSquawk] NVIDIA’S BOARD EXPRESSES CONFIDENCE IN JENSEN AND THE LEADERSHIP TEAM, WITH JENSEN FULLY BACKING THE REVIEW AND PLEDGING COOPERATION
-- 11/09 05:35 [FirstSquawk] A NVIDIA SPOKESPERSON SAYS THE PROBE NEWS WON’T SLOW NVIDIA AND THAT JENSEN IS COMMITTED TO CONTINUE LEADING AS CEO WITHOUT DISRUPTION
-- 11/09 05:35 [FirstSquawk] SEPARATELY, OPENAI SAYS IT IS EXPANDING HACKTRON ACCESS TO FRONTIER MODELS VIA DAYBREAK RED - BLOG
-- 11/09 05:37 [DeItaone] NVIDIA SAYS JENSEN HUANG WILL REMAIN CEO AMID PROBE Nvidia ($NVDA ) says CEO Jensen Huang will continue leading the company without interruption, despite news of an investigation. In a message to employees, Huang acknowledged being unfaithf…
-- 11/09 05:40 [financialjuice/FirstSquawk] nearly 2.8 gw of power output lost from grid after attack on iraq's Khor Mor field: Kurdistan region's electricity ministry
-- 11/09 06:30 [DeItaone] $NVDA - NVIDIA BOARD LAUNCHES ESPIONAGE PROBE INVOLVING CEO JENSEN HUANG Nvidia IS launching an independent investigation into whether CEO Jensen Huang was targeted by a Chinese intelligence operation, Bloomberg reports. Huang admitted to a…
-- 11/09 06:41 [FirstSquawk] TRUMP SAYS TASK FORCE IRON GATE IS IN FULL FORCE AND EFFECT IN THE ISLAMIC REPUBLIC OF IRAN, AND THAT, COUPLED WITH “HISTORY’S GREATEST NAVAL BLOCKADE,” VERY LITTLE GETS INTO OR OUT OF IRAN - TRUTH SOCIAL
-- 11/09 07:06 [DeItaone] *RUBIO:TALKS NOT PRODUCTIVE, IRANIAN DEMANDS SIMPLY UNACCEPTABLE
-- 11/09 07:06 [DeItaone] *RUBIO: IRANIAN DEMANDS OUTRAGEOUS, RIDICULOUS IN SOME CASES
-- 11/09 07:19 [FirstSquawk] U.S. SECRETARY OF STATE RUBIO SAYS THE U.S. WILL EXPLORE A DIPLOMATIC SOLUTION WITH IRAN IF THERE IS A CHANCE, THOUGH SOMETIMES A DIPLOMATIC SOLUTION ISN’T POSSIBLE, ADDING THAT TALKS WITH IRAN WERE UNPRODUCTIVE AND IRANIAN DEMANDS WERE SIM…
 - 11/09 07:30 [financialjuice] Reserve Bank of Australia Assistant Governor Hunter: AI could be raising risks to financial stability
 - 11/09 07:30 [financialjuice] RBA’s Hunter: Limited proof AI significantly impacted overall employment in advanced economies
 - 11/09 07:30 [financialjuice] RBA's Hunter: limited proof AI has significantly boosted overall productivity
@@ -204,3 +118,132 @@
 - 11/09 11:35 [financialjuice] China to extend suspension of 24% US tariffs for two months from Nov. 10, maintain 10% tariffs: statement
 - 11/09 11:35 [FirstSquawk] Beijing to Continue Pausing 24% Tariffs on US Imports Until January 10, Maintain 10% Tariff Rate
 - 11/09 11:43 [FirstSquawk] Philippines to Review Economic Growth Projections as Officials Plan Meeting for Early December
+- 11/09 11:52 [financialjuice] Nvidia perpetual futures drop about 3%: Hyperliquid pricing
+- 11/09 11:52 [financialjuice] Nvidia shares tumble about 3.5% after hours on Blue Ocean alternative trading system
+- 11/09 11:56 [FirstSquawk] Hyperliquid Data Shows Nvidia Perpetual Futures Falling About 3%
+- 11/09 11:56 [financialjuice] South Korea finance minister: $10 billion remittance for US nuclear project to proceed only after business feasibility review completion
+- 11/09 11:56 [financialjuice] South Korea finance minister: nuclear project remittance to US remains preliminary, will review closely
+- 11/09 11:57 [FirstSquawk] Seoul to Release $10 Billion for US Nuclear Project Only After Full Business Feasibility Assessment
+- 11/09 11:58 [FirstSquawk] South Korea to Carefully Assess US Nuclear Project Remittance, Which Remains at an Early Stage
+- 11/09 12:02 [financialjuice] China: building fire in Taiyuan kills 14 - Xinhua
+- 11/09 12:10 [FirstSquawk] Building Fire in China's Taiyuan Claims 14 Lives, Xinhua Reports
+- 11/09 12:12 [FirstSquawk] South Korea's Antitrust Regulator Imposes 300.8 Billion Won Fine on Coupang for Market Abuse
+- 11/09 12:13 [FirstSquawk] South Korean Regulator Penalises Coupang 300.8 Billion Won Over Competition Violations - FT
+- 11/09 12:23 [financialjuice] Ousted Bangladeshi Prime Minister Sheikh Hasina requests new passport and ID card to return home from self-imposed exile in Delhi
+- 11/09 12:28 [FirstSquawk] China Sees Imported Inflation Pick Up, With PPI Recording Its Biggest Increase Since 2022
+- 11/09 12:29 [FirstSquawk] Japanese Challenger Tashima Sees 20%-30% Chance of Defeating FIFA President Infantino - SCMP
+- 11/09 12:37 [FirstSquawk] Mitsui Chemicals and Development Bank of Japan Agree to $8.8 Billion JSR Acquisition - WSJ
+- 11/09 12:47 [FirstSquawk] China Develops Comfortable Brain-Reading Device With 94% Typing Accuracy in Day-Long Trial - SCMP
+- 11/09 12:48 [financialjuice] China transport ministry: to extend suspension of special port fees on US vessels until Jan. 10, 2027
+- 11/09 12:48 [financialjuice] China transport ministry: to keep suspending probe into impact on shipping, shipbuilding supply chain security until Jan 10, 2027
+- 11/09 12:52 [FirstSquawk] US Allies to Gauge Trump Administration’s Policy Direction After Midterm Setback at G7 Talks - RTRS
+- 11/09 12:55 [FirstSquawk] Sterling Moves Higher Past 1.3350 Even as US Jobs Data Beats Expectations - FX
+- 11/09 12:58 [FirstSquawk] Weak Consumer Demand Pushes China’s Inflation Lower Despite Rising Energy Costs - FT
+- 11/09 13:02 [FirstSquawk] China Sees Sharpest Factory-Gate Price Rise in Nearly 4.5 Years, but Consumer Price Gains Slow - RTRS
+- 11/09 13:05 [FirstSquawk] Iraq Gas Complex Targeted in Drone Attack, Causing Electricity Outages
+- 11/09 13:08 [FirstSquawk] Russian Oil Refinery Kinef Hit by Ukrainian Drone Attack, With Large Explosions Reported - WSN
+- 11/09 13:09 [FirstSquawk] South32 Faces Growing Labour Pressure as Worsley Workers Plan 48-Hour Strike
+- 11/09 13:11 [FirstSquawk] Euro Moves Higher Amid Growing ECB Rate Hike Expectations and US Dollar Weakness - FX
+- 11/09 13:13 [FirstSquawk] Iranian State TV Reports Destruction of Navigation Aids in Southern Hormuz, With No Ships Using Unauthorised Route Overnight
+- 11/09 13:13 [financialjuice] Iran's state TV, citing unnamed Revolutionary Guards navy official: Navigational aid systems in southern Hormuz destroyed, halting vessel transit on unauthorized route overnight
+- 11/09 13:20 [FirstSquawk] JPMorgan Raises Swedbank Price Target to SEK 401 From SEK 324
+- 11/09 13:20 [FirstSquawk] 40-Year Japanese Government Bond Yield Rises to 3.990%
+- 11/09 13:22 [FirstSquawk] Trump to Meet Chinese and Russian Leaders During Upcoming Trip to China - KYODO
+- 11/09 13:23 [FirstSquawk] BHP and GoMount Sign Memorandum of Understanding on Copper Cathode Trade
+- 11/09 13:27 [FirstSquawk] Japanese Government Plans Financial Support for Regional Banks to Strengthen Cybersecurity: Kyodo
+- 11/09 13:28 [FirstSquawk] Piper Sandler Raises Biogen Price Target to $305 From $245
+- 11/09 13:29 [FirstSquawk] Piper Sandler Raises Moderna Price Target to $305 From $230
+- 11/09 13:32 [FirstSquawk] Israeli and American Military Officials Support Military Action Against Iran: Kan
+- 11/09 13:33 [FirstSquawk] Further Attack on Iran Would Reduce Its Military Capabilities, Israeli Official Tells Broadcaster
+- 11/09 13:39 [financialjuice] Iranian provincial official: Overnight US strike on Qeshm island did not affect key infrastructure and services - Fars News
+- 11/09 13:39 [FirstSquawk] Fars: Overnight US Strike on Iran’s Qeshm Island Caused No Disruption to Essential Services
+- 11/09 13:47 [FirstSquawk] South Korean Watchdog Plans 331 Billion Won Fine for Baemin, 300 Billion Won for Coupang - yonhap
+- 11/09 13:56 [FirstSquawk] Jefferies Raises IGM Financial’s Price Target to C$95 From C$91
+- 11/09 13:58 [FirstSquawk] Raymond James Cuts Karman Holdings’ Price Target to $75 From $100
+- 11/09 14:00 [financialjuice] Nvidia, Rebellions and SK Telecom announce partnership to develop sovereign AI infrastructure with Nvidia NVLink Fusion
+- 11/09 14:01 [financialjuice] China auto industry body CPCA: China sold 1.65 million passenger cars in Oct, down 27.3% y/y
+- 11/09 14:01 [FirstSquawk] China’s October Passenger Vehicle Sales Drop 27.3% From a Year Earlier to 1.65 Million Units
+- 11/09 14:02 [FirstSquawk] European Union Sues IBM and Its Partners Over Delayed Border System: FT
+- 11/09 14:04 [FirstSquawk] EU Border Agency Sues Three Contractors — IBM, Atos and Leonardo — Over System Project: FT
+- 11/09 14:09 [FirstSquawk] China Sees Opportunity to Narrow AI Gap Following Democratic Election Gains - FT
+- 11/09 14:15 [FirstSquawk] Stephens Cuts Advanced Drainage Systems’ Price Target to $155 From $175
+- 11/09 14:18 [FirstSquawk] BA’s Parent Company Says Rising Green Costs Put Europe’s Aviation Sector at Risk - FT
+- 11/09 14:22 [FirstSquawk] JAPAN LEADING INDEX SEP P: 116.4 (EST 116.6; PREV 118.0)
+- 11/09 14:22 [FirstSquawk] JAPAN COINCIDENT INDEX: 119.5 (EST 119.4; PREV 118.8)
+- 11/09 14:22 [FirstSquawk] ASX 200 Ends the Session Up 0.1% at 9,029.70 Points
+- 11/09 14:23 [financialjuice] China auto industry body CPCA: Tesla Inc exported 59,012 China-made vehicles in October
+- 11/09 14:23 [FirstSquawk] Tesla Exported 59,012 China-Made Vehicles in October: CPCA
+- 11/09 14:30 [financialjuice] Chinese dollar deposit rates sometimes exceed 4% and exporters are hoarding cash: sources
+- 11/09 14:30 [financialjuice] Chinese banks have sharply increased dollar deposit rates in recent weeks, sources say
+- 11/09 14:33 [FirstSquawk] Thai Auto Industry Aims to Reach Annual Production of 1.95 Million Vehicles by 2030
+- 11/09 14:34 [FirstSquawk] Taiwan’s Benchmark Stock Market Index Gains 4.9% at the Close
+- 11/09 14:42 [FirstSquawk] Kyodo: Japan to Provide Relief on LP Gas and Kerosene Costs
+- 11/09 14:49 [financialjuice] Russia hits vessel in Black Sea: IFX
+- 11/09 14:50 [financialjuice] Russia hits power substation in Kyiv region: RIA quotes Russian defence ministry
+- 11/09 14:50 [FirstSquawk] Russian Forces Hit a Ship in the Black Sea: IFX
+- 11/09 14:51 [FirstSquawk] RIA Reports Russian Strike on Power Substation in Kyiv Region, Citing Russia’s Defence Ministry
+- 11/09 14:58 [FirstSquawk] Vietnam’s Masan Announces Sojitz’s Planned Acquisition of 5% Stake in High-Tech Materials Unit
+- 11/09 14:59 [FirstSquawk] KOSPI Reverses Course to Trade 0.8% Lower
+- 11/09 15:02 [FirstSquawk] UniCredit Q3 Net Profit Rises to €3.26 Billion, Revenue Reaches €6.90 Billion; Both Beat Expectations
+- 11/09 15:04 [FirstSquawk] Palantir Alumni Launch Plan To ‘Wake Sleeping Giants’ Of European Defence – FT
+- 11/09 15:09 [financialjuice] JAPANESE LEADING INDICATOR CHANGE ACTUAL -1.6 (FORECAST -, PREVIOUS 0.4) $MACRO
+- 11/09 15:12 [FirstSquawk] Jefferies Raises J D Wetherspoon Price Target to 1,190p From 840p
+- 11/09 15:12 [FirstSquawk] Korean Won Rallies 1% Against the Greenback
+- 11/09 15:13 [FirstSquawk] Korean Won Firms to 1,348.70 Versus the US Dollar
+- 11/09 15:17 [FirstSquawk] Saudi Arabia Issues Warning of Possible Danger in Riyadh Through Civil Defense
+- 11/09 15:17 [financialjuice] The diesel deal offers a chance for a gradual restoration of business ties between Russia and US - Tass Cites Russian Foreign Ministry
+- 11/09 15:18 [FirstSquawk] Russia-US Diesel Deal Offers Opportunity for Gradual Restoration of Business Ties: TASS Cites Foreign Ministry
+- 11/09 15:18 [FirstSquawk] Saudi Officials Say Riyadh Is No Longer Facing Potential Danger
+- 11/09 15:22 [financialjuice] Asian Stocks Rebound as Taiwan Leads Tech Recovery - Asia Market Wrap
+- 11/09 15:23 [FirstSquawk] Japan and Vietnam Agree to Advance Energy Security Cooperation in Tokyo Discussions - KYODO
+- 11/09 15:26 [FirstSquawk] Berenberg Raises Chesnara Price Target to 450p From 437p
+- 11/09 15:28 [FirstSquawk] RBC RAISES NEXT PLC PRICE TARGET TO 17,500P FROM 17,000P
+- 11/09 15:34 [FirstSquawk] China Maintains Crypto Crackdown as Central Bank Vows to Probe Solana - SCMP
+- 11/09 15:35 [FirstSquawk] Chinese Foreign Ministry Says Beijing Seeks Further Progress in Bilateral Relations
+- 11/09 15:35 [FirstSquawk] Chinese Middle East Envoy Meets Iran’s Deputy National Security Council Secretary During Tehran Visit
+- 11/09 15:37 [FirstSquawk] Kiwi Rises 1% Against the US Dollar to $0.5600
+- 11/09 15:38 [FirstSquawk] US Stock Futures Mixed: Nasdaq Down 0.1%, S&P 500 Up 0.4%
+- 11/09 15:40 [FirstSquawk] DAX Futures Slip 0.1%, While Euro Stoxx 50 and FTSE Futures Hold Steady
+- 11/09 15:45 [FirstSquawk] South Korean Minister Says US Midterm Election Unlikely to Slow AI Investment: Yonhap
+- 11/09 15:45 [FirstSquawk] Romania’s Second Nuclear Reactor Set for Grid Reconnection on November 10: Nuclearelectrica
+- 11/09 15:48 [FirstSquawk] Experts See Strong AI Investment in South Korea’s Real Economy, Unlike Stock Market: FinMin
+- 11/09 15:48 [financialjuice] South Korea Industry Minister: Do not believe AI investment will slow due to us midterm election - Yonhap.
+- 11/09 15:49 [financialjuice] South Korea Industry Minister: Experts say unlike in the stock market, AI investment in the real economy is still robust.
+- 11/09 15:51 [FirstSquawk] South Korea Watching for Potential Shift in US AI Data Centre Investment: Vice Science Minister
+- 11/09 16:00 [financialjuice] GERMAN TRADE BALANCE SA ACTUAL 15.6B (FORECAST 19.4B, PREVIOUS 19.5B) $MACRO
+- 11/09 16:00 [financialjuice] GERMAN IMPORTS MOM SA ACTUAL 4.2% (FORECAST 0.5%, PREVIOUS 0.9%) $MACRO
+- 11/09 16:00 [financialjuice] GERMAN EXPORTS MOM SA ACTUAL 2% (FORECAST 0.5%, PREVIOUS -0.8%) $MACRO
+- 11/09 16:00 [FirstSquawk] GERMANY (SEP) TRADE BALANCE SA ACTUAL: 15.6B VS 19.5B PREVIOUS;EST 19.4B
+- 11/09 16:01 [FirstSquawk] GERMANY (SEP) EXPORTS SA MOM ACTUAL: 2% VS -0.8% PREVIOUS;EST 0.5%
+- 11/09 16:01 [FirstSquawk] GERMANY (SEP) IMPORTS SA MOM ACTUAL: 4.2% VS 0.9% PREVIOUS;EST 0.5%
+- 11/09 16:24 [FirstSquawk] CHINA'S FOREIGN MINISTRY SAYS SLOVAK FOREIGN MINISTER TO VISIT CHINA NOV 10-11
+- 11/09 16:25 [FirstSquawk] CHINA FOREIGN MINISTRY SAYS ON NVIDIA'S JENSEN HUANG FOREIGN SPYING PROBE: SO-CALLED CHINESE SPY NARRATIVE IS COMPLETELY UNSUBSTANTIATED
+- 11/09 16:25 [FirstSquawk] CHINA'S FOREIGN MINISTRY SAYS ON TRUMP SAYS HE WILL LIKELY BE MEETING PUTIN, XI IN SHENZHEN: CHINA IS IN COMMUNICATION WITH RELEVANT PARTIES ON MEETING OF CHINA, RUSSIA, US LEADERS
+- 11/09 16:25 [FirstSquawk] MUSK SAYS THE CYBERTRUCK ORDER RATE FAR EXCEEDS OUR PRODUCTION RATE
+- 11/09 16:25 [FirstSquawk] NVIDIA FALLS 6 PCT ON TRADEGATE VS FRIDAY US CLOSE ON HUANG PROBE
+- 11/09 16:28 [FirstSquawk] OIL REFINERY IN RUSSIA'S LENINGRAD REGION SET ABLAZE AFTER DRONE ATTACK SAYS GOVERNOR
+- 11/09 16:28 [FirstSquawk] ONE PERSON KILLED IN DRONE ATTACK ON THE REGION SAYS GOVERNOR
+- 11/09 16:33 [financialjuice/FirstSquawk] Iran Foreign Ministry Spokesperson Baghaei: Iran's two-day proposal is the most reasonable proposal on the table.
+- 11/09 16:35 [financialjuice/FirstSquawk] Iran's Baghaei: However strong pressures are, they should not impact the strong bilateral ties between Iran and Iraq.
+- 11/09 16:41 [FirstSquawk] UNICREDIT CEO SAYS HAPPY TO REMAIN CLOSE TO 50% OF COMMERZBANK
+- 11/09 16:41 [financialjuice] Fire at Russia's Kirishi refinery localized - Governor
+- 11/09 16:42 [financialjuice/FirstSquawk] Iran's Baghaei: US iron gate task force is a way to deflect from US midterms results.
+- 11/09 16:53 [financialjuice] EU's Economy Commissioner Dombrovskis: Economy facing uncertianty, downside risks.
+- 11/09 16:54 [FirstSquawk] EU DOMBROVSKIS SAYS ECONOMY FACING UNCERTIANTY, DOWNSIDE RISKS,
+- 11/09 16:55 [financialjuice] Iran's Baghaei: IAEA visit to Bushehr has been made in recent days.
+- 11/09 17:02 [financialjuice] China to extend suspension of exports controls targeting US companies.
+- 11/09 17:05 [financialjuice] Iran's Baghaei, asked about South Korea planning regional naval presence: The best help Seoul can provide is not to involve itself in a complex issue.
+- 11/09 17:08 [financialjuice] NVIDIA to invest in Korean AI startup Point2.
+- 11/09 17:10 [financialjuice] NVIDIA plans investments in Motif Tech, Rlwrld, upstage.
+- 11/09 17:24 [FirstSquawk] SPAIN'S ECONOMY MINISTER SAYS OPTIMISTIC DE COS CAN GET ECB'S TOP JOB
+- 11/09 17:38 [FirstSquawk] IRAQ SETS DECEMBERT BASRAH MEDIUM CRUDE TO ASIA AT $8.80/B DISCOUNT
+- 11/09 17:38 [FirstSquawk] IRAQ SETS DECEMBER BASRAH MEDIUM CRUDE TO ASIA AT $8.80/B DISCOUNT
+- 11/09 17:38 [FirstSquawk] IRAQ SETS DECEMBER BASRAH HEAVY CRUDE TO ASIA AT $11.80/B DISCOUNT
+- 11/09 17:59 [FirstSquawk] MUSK’S TERAFAB HAS TOLD SEMICONDUCTOR EQUIPMENT SUPPLIERS IT IS TARGETING A PRODUCTION CAPACITY OF 1 MILLION WAFERS PER MONTH FROM 2032 ONWARD – NIKKEI
+- 11/09 18:19 [FirstSquawk] RUSSIA CARRIED OUT 128 TARGETED ATTACKS ON UKRAINE'S ENERGY, OIL AND GAS SECTORS LAST WEEK SAYS ENERGY MINISTRY
+- 11/09 18:30 [financialjuice] EUROZONE SENTIX INVESTOR CONFIDENCE INDEX ACTUAL 2.4 (FORECAST 2.05, PREVIOUS 2.7) $MACRO
+- 11/09 18:35 [DeItaone] $NVDA - NVIDIA DOWNGRADED TO HOLD AS $165 BILLION AI FINANCING EXPOSURE RAISES CONCERNS Aletheia Capital has downgraded Nvidia from Buy to Hold and withdrawn its $340 price target, citing growing financial risks from its AI Computing Partne…
+- 11/09 18:37 [DeItaone] CHINA DENIES ESPIONAGE ALLEGATIONS INVOLVING NVIDIA CEO China has rejected reports that its intelligence services targeted Nvidia ($NVDA ) CEO Jensen Huang, calling the allegations groundless speculation and slander. The denial follows repo…
+- 11/09 18:54 [DeItaone] TRUMP SAYS HE WAS ONLY KIDDING ABOUT OFFERING UFC BOSS DANA WHITE THE ROLE OF WHITE HOUSE PRESS SECRETARY
+- 11/09 18:55 [DeItaone] $SPCX - STIFEL REITERATES BUY ON SPACEX WITH $190 PRICE TARGET Stifel maintains its Buy rating on SpaceX, arguing that tighter US data-center permitting could create new opportunities. With $40 billion in committed GPU financing, SpaceX cou…
+- 11/09 19:23 [DeItaone] UKRAINE'S MILITARY SAYS THEY'VE HIT RUSSIAN FUEL MISSILE PRODUCER NEAR ST PETERSBURG
