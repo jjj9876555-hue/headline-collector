@@ -7,149 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-11-11 08:43 JST／対象: 11/10 08:43 〜 11/11 08:43 JST（時刻はすべて日本時間）
+生成: 2026-11-11 12:04 JST／対象: 11/10 12:04 〜 11/11 12:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 80 | 11/10 10:24 | 11/11 06:07 | ⚠ 501分（11:38→20:00） |
-| FirstSquawk | 330 | 11/10 08:47 | 11/11 07:40 | ⚠ 71分（02:03→03:15） |
-| financialjuice | 361 | 11/10 08:50 | 11/11 08:42 | ⚠ 230分（11:36→15:26） |
+| DeItaone | 78 | 11/10 20:00 | 11/11 06:07 | ⚠ 60分（20:39→21:39） |
+| FirstSquawk | 332 | 11/10 12:04 | 11/11 11:55 | ⚠ 71分（02:03→03:15） |
+| financialjuice | 332 | 11/10 15:26 | 11/11 12:04 | ⚠ 65分（10:49→11:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 743 行（統合前 780 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 715 行（統合前 751 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/10 08:47 [FirstSquawk] JAPAN’S NIKKEI FUTURES RISE 3.2% IN EARLY TRADE; 10-YEAR JGB FUTURES FALL 0.2 POINT
-- 11/10 08:50 [financialjuice] ❗ JAPANESE CURRENT ACCOUNT NSA YEN ACTUAL 2372.3B (FORECAST 3300B, PREVIOUS 4,062.0B) $MACRO
-- 11/10 08:50 [financialjuice] Japan Sept unadjusted current account surplus +2,372.3 bln yen: Ministry of Finance (Poll +3,354.4 bln yen)
-- 11/10 08:50 [financialjuice] JAPANESE BANK LENDING YOY ACTUAL 5.2% (FORECAST -, PREVIOUS 5.3%) $MACRO
-- 11/10 08:50 [financialjuice] Japan October outstanding bank loans rise 5.2% year on year: BOJ
-- 11/10 08:51 [financialjuice] BoJ October meeting summary of opinions: one member said maintaining policy is suitable to assess risks around economy, prices a bit more
-- 11/10 08:52 [financialjuice] BOJ summary: one member says appropriate to continue raising rates as underlying inflation nears price target levels
-- 11/10 08:52 [financialjuice] BOJ summary: one member said central bank should raise rates when feasible without excessive caution
-- 11/10 08:52 [FirstSquawk] NVIDIA CEO JENSEN HUANG IS FACING RENEWED SCRUTINY AFTER REVELATIONS OF AN ALLEGED AFFAIR WITH A WOMAN SUSPECTED OF BEING A CHINESE SPY TRIGGERED AN INVESTIGATION BY THE COMPANY’S BOARD, PUTTING THE PERSONAL LIFE OF THE EXECUTIVE WHOSE LEAD…
-- 11/10 08:53 [financialjuice] BOJ summary: one member said Japan entering new phase requiring faster rate hikes toward neutral levels
-- 11/10 08:53 [financialjuice] BoJ summary: one member said underlying inflation has hit 2%, BoJ must raise policy rate to neutral level soon
-- 11/10 08:54 [financialjuice] BOJ summary: one member said BOJ must observe financial conditions for several months after each rate increase in adjusting monetary easing
-- 11/10 08:55 [financialjuice] BOJ summary: one member said central bank must move policy rate to neutral early for flexible response in hikes and cuts
-- 11/10 08:55 [financialjuice] BOJ summary: one member said must watch risk future rate hike will weigh on economy, push down inflation
-- 11/10 08:55 [financialjuice] BOJ Summary: One Member Says Japan’s Neutral Rate Likely Well Above 1%
-- 11/10 08:56 [financialjuice] BOJ summary: one member said next rate increase unlikely to significantly hurt economy on net basis
-- 11/10 08:57 [financialjuice] BOJ summary: one member said outcome of next year's annual pay talks warrants attention
-- 11/10 08:58 [financialjuice] Boj Summary: One member said wage growth for next year unlikely to rise much from this year, risk of second-round effects low
-- 11/10 09:00 [FirstSquawk] BOJ OCTOBER MEETING SUMMARY OF OPINIONS SHOWS ONE MEMBER SAID UNDERLYING INFLATION HAS HIT 2% AND THE BOJ MUST RAISE THE POLICY RATE TO A NEUTRAL LEVEL SOON, WITH ANOTHER SAYING JAPAN IS ENTERING A NEW PHASE REQUIRING FASTER RATE HIKES TOWA…
-- 11/10 09:01 [FirstSquawk] BOJ SUMMARY SHOWS ONE MEMBER SAID THE BANK SHOULD RAISE RATES WHEN FEASIBLE WITHOUT EXCESSIVE CAUTION, AND THAT IT IS APPROPRIATE TO CONTINUE RAISING RATES AS UNDERLYING INFLATION NEARS PRICE TARGET LEVELS, THOUGH ANOTHER NOTED SOME ECONOMI…
-- 11/10 09:01 [FirstSquawk] BOJ SUMMARY SHOWS ONE MEMBER SAID THE NEXT RATE HIKE IS UNLIKELY TO HAVE A SIGNIFICANT NEGATIVE IMPACT ON THE ECONOMY ON A NET BASIS, THAT JAPAN’S NEUTRAL RATE IS LIKELY CONSIDERABLY ABOVE 1%, AND THAT THE BANK MUST OBSERVE FINANCIAL CONDIT…
-- 11/10 09:01 [FirstSquawk] BOJ SUMMARY SHOWS ONE MEMBER SAID NEXT YEAR’S ANNUAL WAGE NEGOTIATIONS WARRANT ATTENTION, BUT THAT IT IS UNLIKELY WAGE GROWTH WILL RISE SIGNIFICANTLY RELATIVE TO THIS YEAR AND THE RISK OF SECOND-ROUND EFFECTS EMERGING IS NOT HIGH
-- 11/10 09:01 [financialjuice] UK BRC RETAIL SALES YOY ACTUAL 1.1% (FORECAST 1.2%, PREVIOUS 1.0%) $MACRO
-- 11/10 09:01 [financialjuice] Barclays: UK October consumer confidence weakest since April
-- 11/10 09:01 [financialjuice] British Retail Consortium like-for-like sales in October up 1.1% year-on-year vs 1.0% in September
-- 11/10 09:01 [financialjuice] British Retail Consortium total sales in October up 1.5% year-on-year vs 1.3% in September, strongest increase since June
-- 11/10 09:01 [financialjuice] Barclays UK october consumer spending rises 2.3% yy vs 2.0% in september, biggest increase since July 2025
-- 11/10 09:03 [FirstSquawk] SEVEN & I HOLDINGS SAYS KEN WAKABAYASHI WILL RETIRE AS PRESIDENT AND CEO OF 7-ELEVEN INTERNATIONAL LLC, ITS SUBSIDIARY RESPONSIBLE FOR INTERNATIONAL BUSINESS OPERATIONS, EFFECTIVE DECEMBER 31, 2026, WITH THE COMPANY IN THE PROCESS OF SELECT…
-- 11/10 09:03 [FirstSquawk] UK BRC LIKE-FOR-LIKE RETAIL SALES ROSE 1.1% YOY IN OCTOBER, VERSUS 1.0% IN SEPTEMBER, WITH TOTAL SALES UP 1.5% YOY, THE STRONGEST INCREASE SINCE JUNE
-- 11/10 09:03 [FirstSquawk] BARCLAYS SAYS UK OCTOBER CONSUMER SPENDING ROSE 2.3% YOY, VERSUS 2.0% IN SEPTEMBER, THE BIGGEST INCREASE SINCE JULY 2025, THOUGH CONSUMER CONFIDENCE WAS THE WEAKEST SINCE APRIL
-- 11/10 09:07 [FirstSquawk] HIMS CFO SAYS IT EXPECTS THE ELI LILLY PARTNERSHIP TO IMPROVE PLATFORM RETENTION, AND THAT IT INTENTIONALLY PACED Q3 MARKETING SPEND ON WEIGHT-LOSS DRUGS AHEAD OF EXPANSIONS
-- 11/10 09:07 [FirstSquawk] HIMS CFO SAYS MENOPAUSE THERAPIES AND TESTOSTERONE TESTING BOOSTED Q3 REVENUE PER SUBSCRIBER
-- 11/10 09:08 [financialjuice] China finance ministry: Vice Premier He Lifeng, Canada finance and trade ministers co-chair second Canada-China economic and financial strategic dialogue
-- 11/10 09:09 [financialjuice] China finance ministry: Both sides renew commitment to multilateralism and back transparent, predictable trade and investment environment
-- 11/10 09:09 [financialjuice] China finance ministry: both sides applaud local currency swap deals and recent gains in China-Canada trade talks
-- 11/10 09:09 [financialjuice] China finance ministry: finance ministry, financial regulators and central banks of two countries separately ink memorandum on fiscal cooperation
-- 11/10 09:10 [FirstSquawk] CHINA’S FINANCE MINISTRY SAYS VICE PREMIER HE LIFENG AND CANADA’S FINANCE AND TRADE MINISTERS CO-CHAIRED THE SECOND CANADA-CHINA ECONOMIC AND FINANCIAL STRATEGIC DIALOGUE
-- 11/10 09:10 [FirstSquawk] CHINA’S FINANCE MINISTRY SAYS BOTH SIDES REAFFIRMED THEIR COMMITMENT TO MULTILATERALISM AND SUPPORT FOR A TRANSPARENT AND PREDICTABLE TRADE AND INVESTMENT ENVIRONMENT
-- 11/10 09:10 [FirstSquawk] CHINA’S FINANCE MINISTRY SAYS BOTH SIDES WELCOMED THE IMPLEMENTATION OF BILATERAL LOCAL CURRENCY SWAP ARRANGEMENTS AND RECENT POSITIVE PROGRESS IN CHINA-CANADA TRADE CONSULTATIONS
-- 11/10 09:10 [FirstSquawk] CHINA’S FINANCE MINISTRY SAYS THE FINANCE MINISTRIES, FINANCIAL REGULATORS AND CENTRAL BANKS OF THE TWO COUNTRIES SEPARATELY SIGNED A MEMORANDUM OF UNDERSTANDING ON FISCAL COOPERATION
-- 11/10 09:23 [financialjuice] China PBOC forecast to fix yuan midpoint at 6.6655 per dollar: estimate
-- 11/10 09:30 [financialjuice] AUSTRALIAN NAB BUSINESS CONDITIONS ACTUAL -2 (FORECAST -, PREVIOUS -1) $MACRO
-- 11/10 09:30 [financialjuice] AUSTRALIAN NAB BUSINESS CONFIDENCE ACTUAL -15 (FORECAST -, PREVIOUS -13) $MACRO
-- 11/10 09:30 [financialjuice] Australia October business conditions index dips to -2 from -1 in September: NAB
-- 11/10 09:30 [financialjuice] Australia October business confidence index slides to -15 from -14 in September: NAB
-- 11/10 09:40 [financialjuice/FirstSquawk] Saudi civil defense issues warning of potential hazard in Riyadh
-- 11/10 09:48 [financialjuice] Saudi civil defense: danger has passed in Riyadh - Saudi state TV
-- 11/10 09:50 [financialjuice] Arrow agrees to buy 62mt West Pilbara DSO Fe, RHI-AMD
-- 11/10 09:51 [FirstSquawk] FORMER WHITE HOUSE PRESS SECRETARY KATIE ZACHARIA IS REPORTEDLY SEEKING A COMEBACK AFTER TRUMP FIRED HER JUST FIVE DAYS INTO THE JOB, TRYING TO REGAIN TRUMP’S FAVOR THROUGH TELEVISION APPEARANCES AND OUTREACH TO HIS NEW CHIEF OF STAFF, STEP…
-- 11/10 09:51 [FirstSquawk] WHITE HOUSE OFFICIALS DISMISSED HER CHANCES, WITH ONE SAYING TRUMP CONSIDERS HER A “TRAIN WRECK” - NEW YORK POST
-- 11/10 09:54 [FirstSquawk] Yield on Japan’s 30-year government bonds edges up 0.5 bps to 3.845%.
-- 11/10 09:55 [FirstSquawk] ASIAN STOCKS CLIMBED, TRACKING WALL STREET HIGHER AFTER A RALLY IN TECHNOLOGY SHARES AND A SLUMP IN OIL PRICES DROVE U.S. BENCHMARKS TO THEIR BEST DAY IN SEVEN MONTHS, WITH SOUTH KOREA’S KOSPI JUMPING MORE THAN 5% AND JAPAN’S NIKKEI 225 RIS…
-- 11/10 09:55 [FirstSquawk] ON MONDAY THE S&P 500 RALLIED THE MOST SINCE APRIL 8, WITH A GAUGE OF CHIPMAKERS SURGING NEARLY 7% AND THE NASDAQ 100 ENDING 3.4% HIGHER, EVEN AS NVIDIA SLID 4.3% AMID A PROBE INTO CEO JENSEN HUANG AFTER HIS ADMISSION OF AN AFFAIR WITH A WO…
-- 11/10 09:55 [FirstSquawk] U.S. OIL HELD LOSSES IN ASIA AFTER BRENT CRUDE SLUMPED ALMOST 6% IN THE PREVIOUS SESSION TO SETTLE BELOW $93 A BARREL, AFTER TRUMP SAID FURTHER STRIKES ON IRAN WOULDN’T BE NECESSARY BUT THE U.S. REMAINS “LOCKED AND LOADED,” AN INDICATION HE…
-- 11/10 09:55 [FirstSquawk] THE RALLY FOLLOWS A TUMULTUOUS WEEK IN WHICH CHIPMAKERS WERE SOLD OFF ON CONCERNS THAT THE DEMOCRATIC SWEEP OF U.S. CONGRESS IN THE MIDTERMS WOULD SPUR TIGHTER REGULATION OF THE AI INDUSTRY, WHILE A STEADY DECLINE IN OIL PRICES HELPED TEMPE…
-- 11/10 09:57 [FirstSquawk] Japan can set an example for the world on what matters most in preparation - FT
-- 11/10 10:00 [financialjuice] Taiwan shares advance more than 2%
-- 11/10 10:00 [financialjuice] Taiwan overnight interbank rate starts at 0.805% vs previous session open at 0.805%
-- 11/10 10:04 [financialjuice] Saudi-led coalition: intercepts and destroys two missiles launched by Yemen's Houthis toward Riyadh
-- 11/10 10:06 [financialjuice] Australia PM Albanese announces mandatory AI safety and security measures
-- 11/10 10:06 [financialjuice] Australia PM Albanese: AI protections to be overseen by new dedicated AI safety regulator
-- 11/10 10:07 [financialjuice] South Korea president Lee: Seoul must foster cooperation with US Congress, expand ties with US state governments
-- 11/10 10:08 [financialjuice] Australia PM Albanese: all review suggests compulsory company reporting on misaligned behaviour or cyber incidents
-- 11/10 10:09 [FirstSquawk] Australian PM Albanese: AI companies may face mandatory reporting requirements for misalignment issues and cyber incidents.
-- 11/10 10:09 [FirstSquawk] Albanese: Review recommends mandatory reporting of AI misalignment issues and cyber incidents by AI companies.
-- 11/10 10:10 [FirstSquawk] Australian PM Albanese announces new mandatory protections covering AI safety and cybersecurity.
-- 11/10 10:10 [FirstSquawk] South Korea’s Lee calls for stronger cooperation with US lawmakers and expanded communication with state governments.
-- 11/10 10:11 [FirstSquawk] Taiwan’s overnight interbank lending rate starts the session at 0.805%, unchanged from the previous opening.
-- 11/10 10:15 [FirstSquawk] European markets set for a higher opening as Euro Stoxx 50 and DAX futures climb 0.5%.
-- 11/10 10:15 [financialjuice] anthropic: google, nvidia, amd, broadcom, micron, microsoft, tsmc to invest $26 billion via private placement at ipo price
-- 11/10 10:16 [FirstSquawk] China’s central bank fixes the yuan reference rate at 6.7167 against the US dollar.
-- 11/10 10:17 [financialjuice] Japan finance minister Katayama: no effect on BoJ operations from expected government proceeds of ETF sales
-- 11/10 10:17 [FirstSquawk] Katayama: BOJ operations will remain unaffected by the government’s expected revenue from ETF sales.
-- 11/10 10:20 [financialjuice] Japan finmin Katayama: some smaller banks concerned about funds moving to retail JGBs
-- 11/10 10:21 [financialjuice] Japan FinMin Katayama: no decisions made on preferential tax treatment for retail JGBs, leaves debate to LDP
-- 11/10 10:21 [financialjuice] China cbank injects 190 billion yuan via overnight reverse repos at 1.25%: statement
-- 11/10 10:21 [FirstSquawk] PBOC conducts 190 billion yuan in overnight reverse repo operations at an interest rate of 1.25%.
-- 11/10 10:22 [FirstSquawk] Japan’s Finance Minister Katayama says some regional banks are concerned about money moving into retail JGBs.
-- 11/10 10:22 [FirstSquawk] Katayama: Tax incentives for retail Japanese government bonds remain undecided, with discussions left to the LDP.
-- 11/10 10:24 [DeItaone] ANTHROPIC TARGETS RECORD-BREAKING $69.3 BILLION IPO Anthropic is seeking to raise up to $69.3 billion in its upcoming IPO, according to a filing seen by Reuters. The offering could rank among the largest IPOs in stock-market history.
-- 11/10 10:30 [FirstSquawk] Japanese government offers 0.6 trillion yen in 30-year bonds with a coupon of 4.200%.
-- 11/10 10:38 [FirstSquawk] US Justice Department files lawsuit seeking $53 million over alleged disability discrimination by Lyft.
-- 11/10 10:42 [FirstSquawk] Brent crude slips $1, trading at $91.56 per barrel.
-- 11/10 10:43 [FirstSquawk] WTI crude futures fall $1 to $85.79/bbl.
-- 11/10 10:46 [FirstSquawk] Anthropic informs bankers that incorrect figures were included in its IPO filing and says updated numbers will follow, Rtrs says.
-- 11/10 10:52 [FirstSquawk] American lawmakers revive bill seeking to make Diwali a US federal holiday - Leading Report
-- 11/10 11:00 [FirstSquawk] Chinese space-AI hopeful Adaspace encounters cautious investor sentiment ahead of its Hong Kong stock market debut - SCMP
-- 11/10 11:03 [FirstSquawk] Singapore equities rally, with the benchmark index gaining up to 1.7% to reach 5,268.06.
-- 11/10 11:15 [FirstSquawk] Crude prices decline amid signs of reduced conflict risks between the US and Iran - WSJ
-- 11/10 11:22 [FirstSquawk] US Democrats waste no time in targeting some of Corporate America’s biggest companies for investigations - WSJ
-- 11/10 11:24 [FirstSquawk] Indonesian stocks rally, pushing the benchmark index to 5,145.476, the highest since October 29.
-- 11/10 11:28 [FirstSquawk] Samsung’s startup support initiatives have helped 1,000 companies secure 2.2 trillion won in investment - YONHAP
-- 11/10 11:31 [financialjuice] China oct dollar-denominated exports rise 35.2% y/y, beating poll of 33.5% y/y
-- 11/10 11:31 [financialjuice] China Oct trade surplus $105.28 billion vs poll $125.8 billion
-- 11/10 11:32 [financialjuice] China october yuan-denominated exports rise 28.7% year-on-year
-- 11/10 11:32 [financialjuice] China October trade surplus 712.78 billion yuan
-- 11/10 11:32 [FirstSquawk] China records a 28.7% annual increase in yuan-based exports in October.
-- 11/10 11:33 [FirstSquawk] China reports a 712.78 billion yuan trade surplus for October.
-- 11/10 11:35 [financialjuice] China October trade surplus with United States $32.71 billion, customs data show
-- 11/10 11:35 [financialjuice] China jan-oct oil product imports at 27.15 million tonnes vs 34.19 million tonnes year earlier: customs
-- 11/10 11:35 [financialjuice] China October rare earth shipments 4,386 tonnes vs 4,269.8 tonnes in September - customs
-- 11/10 11:35 [financialjuice] China October oil product imports 3.15 mln tonnes vs 1.85 mln tonnes in September: customs
-- 11/10 11:35 [financialjuice] China October crude oil imports 41.94 million tonnes vs 37.10 million tonnes in September: customs
-- 11/10 11:35 [financialjuice] China Jan-Oct rare earth shipments 48,097.2 tonnes vs 52,699.1 tonnes year earlier: customs
-- 11/10 11:35 [financialjuice] China jan-oct unwrought aluminium and aluminium product exports total 5,914,000 tonnes vs 5,020,000 tonnes yr earlier - customs
-- 11/10 11:35 [financialjuice] China jan-oct crude oil imports 399.90 mln tonnes vs 470.94 mln tonnes yr earlier: customs
-- 11/10 11:35 [financialjuice] China October unwrought copper and copper products imports 453,000 tonnes, vs 461,000 tonnes in September: customs
-- 11/10 11:35 [financialjuice] China jan-oct natural gas shipments 99.22 mln tonnes vs 102.09 mln tonnes yr earlier: customs
-- 11/10 11:35 [financialjuice] China jan-oct unwrought copper and copper products imports total 4,211,000 tonnes, vs 4,456,000 tonnes a year earlier: customs
-- 11/10 11:36 [financialjuice] China October natural gas imports 10.01 mln tonnes vs 10.86 mln tonnes in September: customs
-- 11/10 11:38 [FirstSquawk] China exports 5.18 million tonnes of oil products in October, down from 7.16 million tonnes a month earlier.
-- 11/10 11:38 [DeItaone] WASHINGTON (AP) — California voters reject measure to tax the wealth of billionaires.
-- 11/10 11:39 [FirstSquawk] China imports 27.15 million tonnes of oil products in the first 10 months, down from 34.19 million tonnes last year.
-- 11/10 11:39 [FirstSquawk] Chinese oil product imports decline to 27.15 million tonnes in January-October versus 34.19 million tonnes a year ago.
-- 11/10 11:39 [FirstSquawk] China imports 41.94 million tonnes of crude oil in October, up from 37.10 million tonnes a month earlier.
-- 11/10 11:39 [FirstSquawk] China imports 399.90 million tonnes of crude oil in the first 10 months, down from 470.94 million tonnes last year.
-- 11/10 11:40 [FirstSquawk] Chinese unwrought copper and copper product imports decline to 453,000 tonnes in October versus 461,000 tonnes in September.
-- 11/10 11:40 [FirstSquawk] Chinese unwrought copper and copper product imports decline to 4.211 million tonnes in January-October versus 4.456 million tonnes a year ago.
-- 11/10 11:40 [FirstSquawk] China imports 105.66 million tonnes of iron ore in October, down from 109.82 million tonnes a month earlier.
-- 11/10 11:41 [FirstSquawk] China imports 1.061 billion tonnes of iron ore in the first 10 months, up from 1.028 billion tonnes last year.
-- 11/10 11:46 [FirstSquawk] BMW secures battery supply deals with LG Energy Solution and Samsung SDI. - YONHAP
-- 11/10 11:55 [FirstSquawk] Lavrov says diesel prices are falling as the agreement with the US begins to deliver results.
-- 11/10 11:55 [FirstSquawk] Russia has delivered energy resources worth $320 billion to Europe since 2022, Lavrov says.
-- 11/10 11:56 [FirstSquawk] Lavrov Accuses Ukraine of Ignoring Trump’s Calls to Cease Attacks on Russian Energy Facilities
-- 11/10 12:01 [FirstSquawk] Drone Intercepted in Saudi Arabia’s Eastern Region, Coalition Says
-- 11/10 12:03 [FirstSquawk] USTR: US Pushes Deadline for Vietnam Intellectual Property Trade Probe to End-February
 - 11/10 12:04 [FirstSquawk] Malaysia’s Crude Palm Oil Futures Slide 3.01%, Settling at 4,130 Ringgit per Metric Ton
 - 11/10 12:16 [FirstSquawk] Trump Discusses Pilots’ Bizarre UFO Accounts but Maintains a Sceptical Stance
 - 11/10 12:20 [FirstSquawk] NZ Dollar Stabilises Despite Lack of Support From Iran Negotiations - FX
@@ -767,3 +641,101 @@
 - 11/11 08:31 [financialjuice] Fed's Paulson: backed recent rate moves
 - 11/11 08:41 [financialjuice] Apple: some users could face issues with iCloud calendar, contacts, mail, iWork for iCloud and Game Center - status page
 - 11/11 08:42 [financialjuice] Fed's Goolsbee on PBS Newshour: CPI was borderline troubling on inflation
+- 11/11 08:43 [financialjuice] Fed's Goolsbee on PBS NewsHour: biggest concern is that services inflation remains high
+- 11/11 08:43 [financialjuice] Fed's Goolsbee on PBS NewsHour: We face a genuine inflation challenge
+- 11/11 08:43 [financialjuice] Fed’s Goolsbee on PBS NewsHour: ‘We are going to have to address that’
+- 11/11 08:44 [financialjuice] Fed's Goolsbee on PBS NewsHour: inflation driven by cost and demand factors
+- 11/11 08:45 [financialjuice] Fed's Goolsbee: business spending is influenced by interest rates
+- 11/11 08:46 [financialjuice] Fed's Goolsbee: my concern is emerging widespread price overheating
+- 11/11 08:46 [financialjuice] Fed's Goolsbee: job market remains steady and stable
+- 11/11 08:47 [financialjuice] Fed's Goolsbee: we will have to accept it if inflation remains persistent
+- 11/11 08:47 [financialjuice] Fed's Goolsbee: major concern if inflation embeds into expectations
+- 11/11 08:47 [FirstSquawk] NVIDIA CEO HELD HIS REGULAR MORNING MEETING WITH SENIOR EXES THE DAY AFTER ADMITTING TO AN EXTRAMARITAL AFFAIR, CNBC REPORTS
+- 11/11 08:48 [financialjuice] Commerce department received national security alert on Nvidia CEO issue: Axios
+- 11/11 08:49 [financialjuice] Fed's Goolsbee: all options remain open, must reduce inflation to target
+- 11/11 08:50 [FirstSquawk] FED’S PAULSON SAYS SHE BACKED THE RECENT RATE MOVES AND THAT FURTHER “GRADUAL” RATE INCREASES ARE APPROPRIATE GIVEN HIGH INFLATION
+- 11/11 08:50 [FirstSquawk] FED’S PAULSON SAYS MONETARY POLICY MUST STAY SOMEWHAT TIGHT AND THE CENTRAL BANK HAS “MORE WORK TO DO” TO REDUCE INFLATION
+- 11/11 08:51 [FirstSquawk] FED’S PAULSON SAYS THE ECONOMY IS MORE RESILIENT THAN EXPECTED WITH A FIRM AND STEADY JOB MARKET
+- 11/11 08:51 [FirstSquawk] FED’S PAULSON SAYS SLOW RATE INCREASES HAVE ALLOWED THE ECONOMY TIME TO ADAPT AND GIVEN OFFICIALS ROOM TO ASSESS THE IMPACT
+- 11/11 08:51 [FirstSquawk] FED’S PAULSON SAYS CPI DATA INDICATES INFLATION IS STILL AN ISSUE, WITH INFLATION OUTLOOK RISKS ELEVATED AND UNDERLYING INFLATION REMAINING BETWEEN 2.5% AND 3%
+- 11/11 08:51 [FirstSquawk] FED’S PAULSON SAYS THE AI AND ENERGY EFFECT ON INFLATION IS DIFFICULT TO MEASURE, AND THAT THE PRECISE TRAJECTORY OF RATE POLICY HINGES ON ECONOMIC DEVELOPMENTS
+- 11/11 08:53 [FirstSquawk] FED’S GOOLSBEE, ON PBS NEWSHOUR, SAYS THE U.S. FACES A GENUINE INFLATION CHALLENGE, THAT CPI WAS “BORDERLINE TROUBLING” ON INFLATION, AND THAT HIS BIGGEST CONCERN IS SERVICES INFLATION REMAINING HIGH AND EMERGING WIDESPREAD PRICE OVERHEATIN…
+- 11/11 08:54 [FirstSquawk] FED'S GOOLSBEE SAYS ALL OPTIONS REMAIN OPEN AND THE FED MUST REDUCE INFLATION TO TARGET, THAT IT WOULD BE A MAJOR CONCERN IF INFLATION EMBEDS INTO EXPECTATIONS, AND THAT THE FED WILL HAVE TO ACCEPT IT IF INFLATION REMAINS PERSISTENT
+- 11/11 08:54 [FirstSquawk] FED'S GOOLSBEE SAYS THE JOB MARKET REMAINS STEADY AND STABLE, THAT BUSINESS SPENDING IS INFLUENCED BY INTEREST RATES, AND THAT INFLATION IS DRIVEN BY COST AND DEMAND FACTORS
+- 11/11 08:55 [FirstSquawk] JAPAN OCTOBER MONEY STOCK M2 ROSE 1.7% YOY, DOWN FROM 1.9%, WITH M3 UP 0.9%, DOWN FROM 1.1%
+- 11/11 08:56 [FirstSquawk] TRUMP WAS WARNED THAT NVIDIA CEO JENSEN HUANG WAS ROMANTICALLY INVOLVED WITH A SUSPECTED CHINESE SPY BEFORE ALLOWING HIM TO JOIN A MAY TRIP TO BEIJING, CONTRADICTING HIS CLAIM THAT HE KNEW NOTHING ABOUT IT, WITH SECRETARY OF STATE MARCO RUB…
+- 11/11 08:56 [FirstSquawk] U.S. INTELLIGENCE REPORTEDLY IDENTIFIED ALICE HUANG AS A CHINESE SPY, AND JENSEN HUANG INITIALLY DENIED THE AFFAIR BUT LATER ADMITTED TO IT, PROMPTING NVIDIA TO LAUNCH AN INVESTIGATION - NYT
+- 11/11 08:56 [FirstSquawk] TRUMP CONTINUES TO DEFEND HUANG, CALLING HIM “A VERY HONORABLE MAN,” BUT SAYS THE EXECUTIVE WILL NOT ACCOMPANY HIM ON HIS NEXT CHINA VISIT - NYT
+- 11/11 08:58 [FirstSquawk] THE U.S. PLANS TO HALVE DIRECT MILITARY AID TO ISRAEL UNDER A NEW AGREEMENT, WITH ASSISTANCE GRADUALLY PHASED OUT OVER FIVE YEARS STARTING IN 2028, CUTTING MILITARY FINANCING FROM $33 BLN OVER 10 YEARS TO $16.5 BLN OVER FIVE YEARS WHILE INC…
+- 11/11 08:58 [FirstSquawk] BOTH COUNTRIES AIM TO FINALIZE THE AGREEMENT BY DECEMBER 2026, BEFORE REPUBLICANS LOSE CONTROL OF CONGRESS IN JANUARY, WITH ISRAELI OFFICIALS FEARING THE INCOMING CONGRESS COULD OBSTRUCT FUTURE AID, PARTICULARLY IF NETANYAHU REMAINS PRIME M…
+- 11/11 09:00 [financialjuice] S. Korea nov 1-10 trade surplus provisional $8.75 billion: customs agency
+- 11/11 09:00 [financialjuice] S.Korea Nov 1-10 exports surge 111.9% y/y: customs agency
+- 11/11 09:00 [financialjuice] S. Korea semiconductor exports surge 331.2% y/y from Nov 1-10: customs agency
+- 11/11 09:00 [financialjuice] S.Korea Nov 1-10 imports rise 45% y/y: customs agency
+- 11/11 09:02 [FirstSquawk] JAPAN’S NIKKEI FUTURES RISE 0.2% IN EARLY TRADE; 10-YEAR JGB FUTURES FALL 0.56 POINT
+- 11/11 09:08 [FirstSquawk] Barrick Moves Closer to Separately Listing Its North American Gold Assets - WSJ
+- 11/11 09:10 [FirstSquawk] British Authorities Investigate Leak of Bank Tax Details From Budget
+- 11/11 09:12 [FirstSquawk] Fed’s Bowman Says Persistent Inflation Leaves More Work Ahead
+- 11/11 09:13 [FirstSquawk] 10-Year Japanese Government Bond Yield Advances 5.5 BPS to 2.745%
+- 11/11 09:17 [FirstSquawk] Trilateral Talks Between Russia, Ukraine and US End First Day in Abu Dhabi, Set to Continue Wednesday
+- 11/11 09:18 [financialjuice] South Korea fin min: to prolong temporary fuel tax reductions by 2 months through end-Jan
+- 11/11 09:18 [FirstSquawk] Seoul to Prolong Temporary Fuel Tax Reductions Until the End of January
+- 11/11 09:18 [financialjuice] China PBOC forecast to set yuan midpoint at 6.6855 per dollar: estimate
+- 11/11 09:18 [financialjuice] South Korea finance minister: will unveil fuel price cap policy on Nov. 13
+- 11/11 09:18 [FirstSquawk] South Korea Finance Minister Says Fuel Price Cap Policy Will Be Announced November 13
+- 11/11 09:21 [FirstSquawk] 40-Year Japanese Government Bond Yield Dips 0.5 BPS to 4.055%
+- 11/11 09:29 [FirstSquawk] UK Higher Education Watchdog Warns Universities to Embrace Paper Exams Amid AI Cheating Concerns - FT
+- 11/11 09:30 [financialjuice] Anthropic bankers set to lift IPO valuation to $1.5tn or higher - FT
+- 11/11 09:30 [financialjuice] Australia Q3 housing finance value falls 15.5% quarter-on-quarter, seasonally adjusted
+- 11/11 09:30 [financialjuice] Australia Q3 owner-occupied housing finance value declines 5.3% q/q, seasonally adjusted
+- 11/11 09:30 [FirstSquawk] Bankers Working on Anthropic IPO Prepare for Valuation of $1.5 Trillion or Higher – FT
+- 11/11 09:31 [FirstSquawk] Latvia and Lithuania Scramble NATO Fighter Jets Following Unidentified Drone Sightings; Russia Downs 92 Drones Over Leningrad Region - RTRS
+- 11/11 09:33 [FirstSquawk] Australia Home Loans Value (Q/Q) Q3: -15.5% (est -8.0%; prev -5.2%)
+- 11/11 09:33 [FirstSquawk] Australia Owner-Occupier Loan Value (Q/Q): -5.3% (prev -1.9%)
+- 11/11 09:33 [FirstSquawk] Australia Investor Loan Value (Q/Q): -32.3% (prev -10.2%)
+- 11/11 09:39 [FirstSquawk] Gold Prices Tick Higher as Markets See Potential Technical Bounce - WSJ
+- 11/11 09:40 [FirstSquawk] Japan's 2-Year Bond Yield Advances to 1.835%, Up 6 Basis Points
+- 11/11 09:58 [FirstSquawk] GBP/JPY Rally Stalls Near 213.00 as Simple Moving Average Acts as Resistance - FX
+- 11/11 09:59 [FirstSquawk] South Korean Stocks Turn Positive After Weak Opening as Inflation Worries Persist
+- 11/11 10:01 [FirstSquawk] Taiwan Overnight Interbank Rate Starts the Session at 0.805%, Unchanged From Previous Open
+- 11/11 10:01 [financialjuice] Taiwan overnight interbank rate starts at 0.805% matching previous session open
+- 11/11 10:06 [financialjuice] Apple: fixed problems with iCloud calendar, contacts, mail, iCloud, and game center - status page
+- 11/11 10:06 [FirstSquawk] Apple Restores Services After Disruptions to Multiple iCloud Platforms – Status Page
+- 11/11 10:13 [FirstSquawk] 10-Year Japanese Government Bond Yield Advances 6.5 BPS to 2.755%
+- 11/11 10:13 [FirstSquawk] 2-Year Japanese Government Bond Yield Advances 7 BPS to 1.845%
+- 11/11 10:13 [FirstSquawk] Malaysian Currency Drops to 4.066 per US Dollar, Reaching Its Weakest Since November 4
+- 11/11 10:16 [FirstSquawk] China's Central Bank Fixes Yuan Reference Rate at 6.7191/USD
+- 11/11 10:17 [FirstSquawk] South Korea Bus Crash Involving Multiple Vehicles Leaves Nine Seriously Hurt and 48 With Minor Injuries – Official
+- 11/11 10:18 [financialjuice] China fixes yuan midpoint at weakest level since Oct. 22, PBOC shows
+- 11/11 10:19 [FirstSquawk] Chinese Yuan Midpoint Weakened to Its Lowest Setting Since October 22
+- 11/11 10:21 [financialjuice] China cbank injects 187 billion yuan via overnight reverse repos at 1.25%: statement
+- 11/11 10:24 [FirstSquawk] PBOC Conducts 187 Billion Yuan in Overnight Reverse Repo Operations at 1.25%
+- 11/11 10:30 [FirstSquawk] OpenAI Sees Revenue Reach $10 Billion Amid Mounting Financial Losses – WSJ
+- 11/11 10:30 [FirstSquawk] 5-Year Japanese Government Bond Yield Advances 8.5 BPS to 2.185%
+- 11/11 10:36 [FirstSquawk] Beijing, Moscow and Washington Seek Agreement on AI and Nuclear Issues Before APEC Summit - SCMP
+- 11/11 10:39 [FirstSquawk] US Stock Futures Gain, With Nasdaq 100 Up Almost 1% and S&P 500 Rising 0.5%
+- 11/11 10:40 [financialjuice] S.Korea central bank: sells 2-year monetary stabilisation bonds yielding 3.720%
+- 11/11 10:40 [FirstSquawk] South Korea Issues 2-Year Monetary Stabilisation Bonds With Yield Set at 3.720%
+- 11/11 10:42 [FirstSquawk] Shares of SK Hynix Advance 3%
+- 11/11 10:47 [FirstSquawk] Axios: Rubio Informs G7 Peers That Trump Chose to Pressure Iran's Regime Instead of Going to War or Striking a Deal
+- 11/11 10:48 [financialjuice] Japan PM Takaichi: No intention to adopt fiscal measures that could cause high inflation
+- 11/11 10:48 [FirstSquawk] Takaichi Says Japan Will Not Pursue Fiscal Policies That Risk Driving Inflation Excessively Higher
+- 11/11 10:49 [FirstSquawk] Japan's Takaichi Says BOJ Should Ensure Stable and Sustainable Achievement of 2% Price Target
+- 11/11 10:49 [financialjuice] Japan PM Takaichi: Expect BoJ to implement suitable monetary policy to sustainably reach 2% inflation goal
+- 11/11 10:55 [FirstSquawk] Alphabet Selects HSBC and JPMorgan to Coordinate Potential Debut Bond Offering in HKD and SGD, According to Term Sheet.
+- 11/11 10:57 [FirstSquawk] Hong Kong Residents Feel Less Knowledgeable About Investing but Outpace Foreign Peers in Investment Activity - SCMP
+- 11/11 10:59 [FirstSquawk] Dollar Gains Support from Jumbo Fed Hike Expectations, Leaving the Euro on the Back Foot as Markets Await German CPI and ECB Signals - FX
+- 11/11 11:02 [FirstSquawk] Thailand's Economic Growth Remains Subdued and Uneven, Falling Short of Its Potential, Central Bank Says.
+- 11/11 11:02 [FirstSquawk] Thailand's Central Bank Says Keeping Rates Low While Major Peers Tighten Could Lead to a Build-Up of Financial Stability Risks.
+- 11/11 11:03 [FirstSquawk] Elevated Household Debt Continues to Weigh on Thailand's Private Consumption, Cbank Minutes Say.
+- 11/11 11:08 [FirstSquawk] Thailand's Baht Slides to 33.570 per Dollar.
+- 11/11 11:27 [FirstSquawk] Fitch: Strong Business Fundamentals and Increased Operating Earnings Underpin the Resilience of Chinese State Banks.
+- 11/11 11:28 [FirstSquawk] Asian Debt Yields Rise Amid Growing Bets on a Federal Reserve Rate Increase - WSJ
+- 11/11 11:37 [FirstSquawk] South Korea’s KOSDAQ Benchmark Rallies 5%.
+- 11/11 11:43 [FirstSquawk] Taiwan's Stock Market Advances Over 2%.
+- 11/11 11:51 [FirstSquawk] Brent Futures Extend Gains, Rising Over $1 to an Intraday High of $92.66/BBL.
+- 11/11 11:55 [financialjuice] Republican US Senator Kevin Cramer from Senate Banking Committee urges Nvidia CEO to resign: Politico
+- 11/11 11:55 [FirstSquawk] US Senator Kevin Cramer, a Member of the Senate Banking Committee, Urges Nvidia CEO to Step Down.
+- 11/11 12:00 [financialjuice] S. Korea Oct bank lending to households net 5 trillion won vs net 0.5 trillion won in Sept: central bank
+- 11/11 12:03 [financialjuice] Drones strike Ust-Luga Baltic Sea port in Russia's Leningrad region, governor cites initial data
+- 11/11 12:04 [financialjuice] Russia's Ust-Luga port area ablaze: governor cites initial data
