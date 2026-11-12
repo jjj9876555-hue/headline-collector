@@ -7,148 +7,186 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-11-12 09:39 JST／対象: 11/12 03:39 〜 11/12 09:39 JST（時刻はすべて日本時間）
+生成: 2026-11-12 16:44 JST／対象: 11/12 10:44 〜 11/12 16:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 25 | 11/12 04:28 | 11/12 09:00 | ⚠ 78分（04:43→06:01） |
-| FirstSquawk | 48 | 11/12 03:52 | 11/12 09:11 | ⚠ 51分（07:20→08:11） |
-| financialjuice | 64 | 11/12 03:39 | 11/12 09:34 | 28分（05:23→05:51） |
+| DeItaone | 0 | - | - | - |
+| FirstSquawk | 102 | 11/12 10:52 | 11/12 16:36 | 18分（11:25→11:44） |
+| financialjuice | 64 | 11/12 11:01 | 11/12 16:32 | ⚠ 77分（12:00→13:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 128 行（統合前 139 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 166 行（統合前 166 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/12 03:39 [financialjuice] BoE's Greene: It's appropriate to proactively tighten monetary policy.
-- 11/12 03:52 [FirstSquawk] YEMEN’S HOUTHIS SAY THEY ATTACKED A PUMPING STATION IN THE YANBU REGION WITH A DRONE, WHILE DENYING AN ATTACK ON THE MECCA REGION
-- 11/12 04:04 [financialjuice/FirstSquawk] Ukraine’s President Zelenskiy: Russia's envoys reject ceasefire proposals
-- 11/12 04:09 [FirstSquawk] U.S. DOLLAR HIT A SESSION HIGH VERSUS THE SWISS FRANC, LAST UP 0.98% AT 0.83325 FRANC
-- 11/12 04:14 [financialjuice] The US asks Russia to submit a new European security proposal - Axios
-- 11/12 04:16 [FirstSquawk] US ASKS RUSSIA TO SUBMIT A NEW EUROPEAN SECURITY PROPOSAL - AXIOS
-- 11/12 04:17 [financialjuice/FirstSquawk] Pemex increases oil processing to the highest level since 2013
-- 11/12 04:18 [FirstSquawk] UKRAINE’S ZELENSKIY SAYS UKRAINE WANTS TO GET RESULTS IN PEACE TALKS BY YEAR-END AND WILL BE DOING EVERYTHING TO MAKE THAT HAPPEN, ADDING THAT PROGRESS WILL DEPEND TO SOME EXTENT ON HOW THE U.S. ENVOYS TALK TO THE RUSSIANS TOMORROW
-- 11/12 04:21 [FirstSquawk] OPEC+ CRUDE OUTPUT CLIMBS TO 41.23 MILLION BPD DESPITE MIDDLE EAST DISRUPTION
-- 11/12 04:26 [financialjuice/FirstSquawk] ❗ US VP Vance considers face-to-face talks with Iran's Rezaei - WSJ
-- 11/12 04:27 [financialjuice] Trump open to Vance restarting talks with Iran - WSJ
-- 11/12 04:28 [financialjuice] Talks about Vance meeting with Iranians preliminary - WSJ
-- 11/12 04:28 [financialjuice] Vance Considers Direct Talks With Iran Hardliner in Push to End War - WSJ
-- 11/12 04:28 [DeItaone] VANCE CONSIDERS FACE-TO-FACE TALKS WITH IRAN'S REZAEI:WSJ
-- 11/12 04:30 [DeItaone] VANCE CONSIDERS DIRECT IRAN TALKS TO END WAR Vice President JD Vance is considering face-to-face talks with Iranian security chief Mohsen Rezaei, with Trump's backing, according to US and Middle East officials. Doha is a possible venue, but…
-- 11/12 04:31 [DeItaone] *TRUMP OPEN TO VANCE RESTARTING TALKS WITH IRAN : WSJ *VANCE CONSIDERS FACE-TO-FACE TALKS WITH IRAN'S REZAEI: WSJ
-- 11/12 04:31 [financialjuice] NYMEX WTI crude Dec. futures settle at $86.53 a barrel, up 49 cents, 0.57%
-- 11/12 04:31 [financialjuice] NYMEX gasoline Dec. futures settle at $2.6075 a gallon
-- 11/12 04:32 [financialjuice] NYMEX Natural Gas Dec. Futures settle at $3.2150/mmbtu
-- 11/12 04:33 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 0.57% HIGHER AT $86.53/BBL, UP 49 CENTS
-- 11/12 04:43 [DeItaone] RUSSIAN DIESEL CARGOES DIVERTED FROM US TO BRAZIL Russian diesel shipments originally destined for the US are now being offered to Brazil, according to Bloomberg. The shift follows legal and sanctions concerns surrounding Russian tankers ap…
-- 11/12 04:45 [financialjuice] Brent crude futures settle at $92.76/bbl, up $1.27, 1.39%
-- 11/12 04:46 [FirstSquawk] US HOUSE SPEAKER JOHNSON: HOUSE EXPECTED TO PASS SENATE PERMITTING BILL
-- 11/12 04:46 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 1.39% HIGHER AT $92.76/BBL, UP $1.27
-- 11/12 05:01 [financialjuice/FirstSquawk] Iran's Brigadier General Heydari: We have closed the Strait of Hormuz and we will not open it except by the order of the leader of the revolution - ISNA
-- 11/12 05:06 [financialjuice] US asks Russia to propose new security agreement with Europe -Axios
-- 11/12 05:14 [FirstSquawk] GE VERNOVA HITACHI’S SMALL NUCLEAR REACTOR IN ONTARIO FACES DELAYS, COST OVERRUNS – BARRON’S
-- 11/12 05:15 [FirstSquawk] GERMAN COALITION AGREES 2027 BUDGET, DROPS ELECTRICITY TAX CUT - SPIEGEL
-- 11/12 05:15 [FirstSquawk] CANADA PENSION PLAN INVESTMENT BOARD PLANNING TO DOUBLE HEDGE FUND BETS TO USD160 BLN
-- 11/12 05:15 [FirstSquawk] CANADA'S BUDGET 2026 TRADES FISCAL WINDFALL FOR CAPITAL SPENDING SURGE – FITCH
-- 11/12 05:23 [financialjuice] Thursday FX Option Expiries
-- 11/12 05:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 351.7 MLN NASDAQ 100: -594.0 MLN DOW 30: 240.1 MLN MAG 7: -45.3 MLN $MACRO
-- 11/12 06:01 [FirstSquawk] DOW JONES CLOSES 0.45% HIGHER AT 52,465.11, UP 233.22 POINTS
-- 11/12 06:01 [FirstSquawk] S&P 500 CLOSES 1.31% HIGHER AT 7,619.22, UP 98.29 POINTS
-- 11/12 06:01 [DeItaone] LUTNICK STALLED TRUMP'S NVIDIA–CHINA CHIP CURBS AFTER OVAL TALKS- AXIOS
-- 11/12 06:01 [FirstSquawk] NASDAQ CLOSES 1.59% HIGHER AT 25,465.38, UP 399.51 POINTS
-- 11/12 06:02 [financialjuice] Trump authorized a crackdown on chip smugglers today - Axios
-- 11/12 06:03 [DeItaone] AXIOS: LUTNICK BLOCKED TRUMP'S NVIDIA–CHINA CHIP CRACKDOWN Commerce Secretary Howard Lutnick repeatedly stalled restrictions on Nvidia ($NVDA ) chip exports to China, despite Trump approving action three times, according to Axios. At an Ova…
-- 11/12 06:05 [financialjuice] Trump authorized a crackdown on chip smugglers last week - Axios
-- 11/12 06:05 [financialjuice] Trump authorized a crackdown on chip smugglers on Thursday last week - Axios
-- 11/12 06:09 [financialjuice] Trump-approved curb on AI chips to China yet to happen - Axios
-- 11/12 06:12 [FirstSquawk] TRUMP AUTHORISED CRACKDOWN ON NVIDIA CHIP DIVERSIONS TO CHINA – AXIOS
-- 11/12 06:14 [DeItaone] US TREASURY SECRETARY MOVED TO MILITARY HOUSING AFTER IRANIAN THREATS Treasury Secretary Scott Bessent has been relocated to temporary military housing following threats from Iran, according to Bloomberg. Bessent is leading Washington's eco…
-- 11/12 06:15 [financialjuice] US Stocks Advance as Renewed AI Optimism Boosts Wall Street – US Market Wrap
-- 11/12 06:16 [financialjuice] Trump's envoys, Kushner and Witkoff will meet with Putin in Moscow on Thursday - Axios.
-- 11/12 06:17 [DeItaone] PRESIDENT TRUMP'S ENVOYS JARED KUSHNER AND STEVE WITKOFF WILL MEET WITH RUSSIAN PRESIDENT VLADIMIR PUTIN IN MOSCOW ON THURSDAY- AXIOS
-- 11/12 06:17 [FirstSquawk] TRUMP ENVOYS JARED KUSHNER AND STEVE WITKOFF ARE SET TO HOLD TALKS WITH RUSSIAN PRESIDENT VLADIMIR PUTIN IN MOSCOW ON THURSDAY - AXIOS
-- 11/12 06:19 [FirstSquawk] FITCH HAS PLACED PARAGUAY’S ‘BB+’ FOREIGN-CURRENCY IDR ON RATING WATCH NEGATIVE, REFLECTING POTENTIAL SPILLOVERS FROM UENO BANK’S FAILURE AND RELATED POLITICAL FALLOUT, WHICH IT SAYS COULD LIMIT BUSINESSES’ ACCESS TO DEPOSITS AND WEAKEN INT…
-- 11/12 06:19 [FirstSquawk] FITCH SAYS IT DOES NOT PRESENTLY ANTICIPATE BROADER FINANCIAL STABILITY RISKS GIVEN THE SOUND SOLVENCY AND LIQUIDITY POSITIONS OF OTHER IMPORTANT BANKS, AND THAT PARAGUAY’S RATINGS REFLECT ITS GENERALLY PRUDENT AND CONSISTENT MACROECONOMIC …
-- 11/12 06:19 [FirstSquawk] FITCH SEES DOWNSIDE RISKS TO ITS GROWTH FORECASTS OF 4.5% FOR 2026 AND 4.0% IN 2027-2028
-- 11/12 06:22 [financialjuice] RBNZ: RBNZ Reverse Stress Test demonstrates the resilience of insurers and improves risk management.
-- 11/12 06:33 [FirstSquawk] WALL STREET ADVANCED AS RENEWED OPTIMISM SURROUNDING ARTIFICIAL INTELLIGENCE BOOSTED TECHNOLOGY STOCKS, WITH THE NASDAQ 100 SURGING 2.3%, ON TRACK FOR ITS STRONGEST WEEKLY PERFORMANCE SINCE MAY, WHILE THE S&P 500 GAINED 1.3%, NVIDIA ROSE AN…
-- 11/12 06:33 [FirstSquawk] FRESH EVIDENCE OF STRONG AI DEMAND REINFORCED INVESTOR CONFIDENCE, AS OPENAI REPORTED QUARTERLY REVENUE EXCEEDING $10 BLN AND ANTHROPIC’S REPORTED IPO DREW HEAVY DEMAND, WITH SUBSCRIPTIONS EXCEEDING THE AVAILABLE OFFERING, WHILE EUROPEAN ST…
-- 11/12 06:33 [FirstSquawk] TREASURY FUTURES DECLINED AS STRONGER U.S. INFLATION DATA STRENGTHENED EXPECTATIONS OF FED RATE HIKES, WITH CASH TRADING DELAYED DUE TO VETERANS DAY, WHILE THE U.S. DOLLAR CLIMBED TO ITS HIGHEST SINCE MAY 2025 AND OIL PRICES ADVANCED AS TRA…
-- 11/12 06:34 [FirstSquawk] PFIZER AND BLACKSTONE LIFE SCIENCES HAVE ANNOUNCED A STRATEGIC FUNDING AGREEMENT FOR PFIZER’S OBESITY PROGRAM, WITH BLACKSTONE TO PROVIDE PFIZER UP TO $1.50 BLN THROUGH 2028 AND PFIZER RETAINING FULL OPERATIONAL CONTROL OF ITS BEROBENATIDE …
-- 11/12 06:39 [FirstSquawk] BHP GROUP SAYS IT HAS APPOINTED ADRIAN WOOD AS CFO EFFECTIVE FEBRUARY 17, 2027, WITH VANDITA PANT STEPPING DOWN AS CFO ON FEBRUARY 16, 2027, AND PROVIDING TRANSITION SUPPORT UNTIL MARCH 29, 2027
-- 11/12 06:45 [financialjuice] NEW ZEALAND VISITOR ARRIVALS ACTUAL 2290 (FORECAST -, PREVIOUS 1,530) $MACRO
-- 11/12 06:45 [financialjuice] NEW ZEALAND EXTERNAL MIGRATION & VISITORS ACTUAL 9.8% (FORECAST -, PREVIOUS 8.0%) $MACRO
-- 11/12 06:47 [FirstSquawk] NEW ZEALAND OCTOBER RETAIL CARD SPENDING FELL 0.7% MOM, AFTER A 0.4% DROP, WITH TOTAL CARD SPENDING DOWN 1.2%, AFTER A 0.5% FALL
-- 11/12 06:53 [FirstSquawk] GOOGLE SAYS IT HAS UPDATED ITS PERSONALIZED ADVERTISING POLICY, WITH ADVERTISERS NOT ALLOWED TO TARGET USERS BASED ON INTEREST IN CATEGORIES PROHIBITED IN THE COMPANY’S AD NETWORK
-- 11/12 06:57 [financialjuice] Nvidia's CEO Huang said to have had a relationship with an Nvidia executive - NYT $NVDA
-- 11/12 06:57 [financialjuice] Nvidia's CEO Huang said to have a relationship with the VP at Nvidia - NYT $NVDA
-- 11/12 06:59 [DeItaone] $NVDA - *JENSEN HUANG SAID TO HAVE HAD AFFAIR WITH NVIDIA EXECUTIVE: NYT
-- 11/12 07:00 [DeItaone] $NVDA - *JENSEN HUANG SAID TO HAVE HAD RELATIONSHIP WITH NVIDIA EXEC:NYT *HUANG SAID TO HAVE RELATIONSHIP WITH VP AT NVIDIA: NYT
-- 11/12 07:00 [DeItaone] $MSTR - MICROSTRATEGY OFFICIALLY REMOVED FROM MSCI INDEXES STARTING END OF MONTH: FILING
-- 11/12 07:01 [financialjuice] Jensen Huang said to have had relationship with Nvidia executive who reports to him: NYT
-- 11/12 07:04 [DeItaone] NVIDIA CEO JENSEN HUANG HAD SECOND ALLEGED AFFAIR WITH COMPANY EXECUTIVE Nvidia ($NVDA ) CEO Jensen Huang reportedly had an extramarital relationship with Kimberly Powell, the company's VP of Healthcare, according to five former employees c…
-- 11/12 07:06 [financialjuice/FirstSquawk] Democrat Scott Colom defeats Republican incumbent Cindy Hyde-Smith in Mississippi senate race - CNN
-- 11/12 07:06 [FirstSquawk] NVIDIA CEO JENSEN HUANG IS SAID TO HAVE HAD A RELATIONSHIP WITH AN NVIDIA EXECUTIVE, A VP WHO REPORTS TO HIM - NYT
-- 11/12 07:07 [DeItaone] $NVDA - NVIDIA CEO EXIT ODDS JUMP AMID NEW ALLEGATIONS The New York Times reports a second alleged affair involving Jensen Huang and a Nvidia executive, adding to scrutiny of the CEO. Prediction markets now price a 57% chance Huang leaves b…
-- 11/12 07:08 [FirstSquawk] MSCI SAYS 13 SECURITIES WILL BE ADDED TO AND 100 SECURITIES DELETED FROM THE MSCI ACWI INDEX
-- 11/12 07:11 [FirstSquawk] CARGOJET HAS ANNOUNCED THE RENEWAL OF A NORMAL COURSE ISSUER BID FOR ITS VOTING SHARES, INTENDING TO PURCHASE UP TO 1,400,000 SHARES DURING THE TWELVE-MONTH PERIOD COMMENCING NOVEMBER 16, 2026 AND ENDING NOVEMBER 15, 2027
-- 11/12 07:13 [DeItaone] *NVIDIA SHARES DROP AS MUCH AS 3.1% *HUANG SAID TO HAVE RELATIONSHIP WITH VP AT NVIDIA: NYT
-- 11/12 07:14 [FirstSquawk] MSCI SAYS THE TWO ADDITIONS TO THE MSCI WORLD INDEX WITH THE LARGEST FULL COMPANY MARKET CAPITALIZATION WILL BE MODERNA AND ARITZIA, WHILE STRATEGY INC, CARLYLE GROUP, FLUTTER ENTERTAINMENT, CHARTER COMMUNICATIONS, MCCORMICK & CO, COOPER CO…
-- 11/12 07:15 [FirstSquawk] MSCI SAYS ZHONGJI INNOLIGHT H AND NAN YA PRINTED CIRCUIT BOARD CORPORATION WILL BE ADDED TO THE MSCI EMERGING MARKETS INDEX, AIRTEL AFRICA WILL BE DELETED FROM THE MSCI UNITED KINGDOM INDEX, AND IREN, JBS AND COOPER COMPANIES WILL BE ADDED …
-- 11/12 07:20 [FirstSquawk] MSCI SAYS IT WILL REMOVE TWO INDONESIAN COMPANIES FROM THE GLOBAL STANDARD INDEX IN THE REBALANCING, INCLUDING BARITO PACIFIC
-- 11/12 07:27 [financialjuice] eBay launches camera-first listing experience in Australia, France, Germany, Italy, the U.K. and the U.S.
-- 11/12 07:28 [DeItaone] $NVDA - *NVIDIA PREPARING TO OUST NVIDIA CEO JENSEN HUANG: WSJ
-- 11/12 07:29 [financialjuice] Nvidia prepares to replace CEO Jensen Huang: WSJ
-- 11/12 07:29 [DeItaone] $NVDA - NVIDIA BOARD REPORTEDLY PREPARING TO OUST CEO JENSEN HUANG Nvidia is reportedly preparing to remove founder and CEO Jensen Huang following revelations of two extramarital affairs, including one involving a suspected Chinese intellig…
-- 11/12 07:29 [financialjuice] ‼ BREAKING: Nvidia prepares to replace CEO Jensen Huang - WSJ. $NVDA
-- 11/12 07:29 [financialjuice] Nvidia board preparing to meet as soon as today to decide CEO Jensen's future: WSJ
-- 11/12 07:29 [financialjuice] Nvidia board preparing to meet as soon as today to decide CEO’s future: WSJ
-- 11/12 07:29 [financialjuice] Nvidia prepares to replace CEO Jensen Huang - WSJ. $NVDA
-- 11/12 07:30 [DeItaone] $NVDA - *NVIDIA SHARES EXTEND DECLINE TO 8.5% POSTMARKET
-- 11/12 07:34 [DeItaone] HUANG'S NVIDIA REIGN IN JEOPARDY AS EXIT ODDS HIT 80% Nvidia's board could meet as soon as today to decide CEO Jensen Huang's future amid allegations involving two affairs. No decision has been confirmed. Prediction markets now price an 80%…
-- 11/12 07:44 [DeItaone] *COREWEAVE SHARES FOLLOW NVIDIA LOWER, DOWN 6%
-- 11/12 07:44 [DeItaone] *COREWEAVE EYES AT LEAST $4B FROM INVESTMENT-GRADE LOAN SALE
-- 11/12 07:46 [financialjuice] UK govt: appoints special envoy for climate security with Dame Madeleine Alessandri taking the role
-- 11/12 08:10 [financialjuice] Explosions heard in Ukraine's Kyiv: source witness
-- 11/12 08:11 [FirstSquawk] EXPLOSIONS HEARD IN KYIV, WITNESS SAYS - RTRS
-- 11/12 08:12 [FirstSquawk] COMMONWEALTH BANK ACKNOWLEDGES THE ASIC PROCEEDINGS OVER COMMBIZ CUSTOMERS AND PLANS TO DEFEND PARTS OF THE CLAIM, SOURCES SAY, SAYING IT COMPLETED CUSTOMER REMEDIATION IN FY2026 AND SELF-IDENTIFIED AND REPORTED THE MATTER TO ASIC, COOPERAT…
-- 11/12 08:12 [FirstSquawk] CBA SAYS IT ACCEPTS IT FAILED CUSTOMERS AND APOLOGISES, WHILE DISPUTING HOW SOME ALLEGATIONS ARE FORMULATED, AND MAY CONTINUE ENGAGING WITH ASIC TO RESOLVE THE PROCEEDINGS
-- 11/12 08:13 [financialjuice] US stock futures decline after WSJ reports Nvidia ready to replace CEO; Nvidia shares drop in after-hours trading
-- 11/12 08:13 [financialjuice/FirstSquawk] Saudi-led coalition: drone destroyed over kingdom's eastern region
-- 11/12 08:18 [financialjuice/FirstSquawk] Israeli strike on Nasser hospital building in southern Gaza kills at least four: Gaza civil defence spokesperson
-- 11/12 08:22 [DeItaone] $NVDA - NVIDIA BOARD MEETING WEDNESDAY TO DECIDE WHETHER TO OUST CEO JENSEN HUANG - SOURCE
-- 11/12 08:22 [financialjuice] Nvidia board meeting Wednesday to determine if CEO Jensen Huang will be removed: source
-- 11/12 08:29 [financialjuice] Saudi civil defence: debris fell after destruction of two ballistic missiles aimed at Mecca
-- 11/12 08:31 [financialjuice] Saudi civil defence: shrapnel from destroyed missiles fell in Sabuhah village in Mecca region
-- 11/12 08:31 [DeItaone] $NVDA - TRUMP ADMINISTRATION IS AWARE THAT NVIDIA'S BOARD OF DIRECTORS IS PREPARING TO OUST CEO JENSEN HUANG VERY SOON -CBS NEWS REPORTER ON X
-- 11/12 08:32 [financialjuice/FirstSquawk] Trump administration aware Nvidia board prepping to remove CEO Jensen Huang soon: CBS News reporter on X
-- 11/12 08:34 [financialjuice/FirstSquawk] US State Department: Rubio and China’s Wang Yi agree on importance of leader-level talks to advance peace and denuclearization, including potential trilateral summit with Russia
-- 11/12 08:39 [DeItaone] $NVDA - *NVIDIA WORKING WITH OUTSIDE FIRM TO FIND POSSIBLE NEW CEO
-- 11/12 08:40 [DeItaone] *NVIDIA WEIGHS NAMING TEMPORARY CEO BEFORE HOLDING WIDER SEARCH
-- 11/12 08:50 [financialjuice] ❗ JAPANESE PPI YOY ACTUAL 7.1% (FORECAST 6.5%, PREVIOUS 6.8%) $MACRO
-- 11/12 08:50 [financialjuice] FOREIGN INVESTMENT JAPANESE STOCKS ACTUAL -105.2B (FORECAST -, PREVIOUS 1,129.3B) $MACRO
-- 11/12 08:50 [financialjuice] ❗ JAPANESE PPI MOM ACTUAL 0.7% (FORECAST 0.3%, PREVIOUS -0.3%) $MACRO
-- 11/12 08:50 [financialjuice] JAPANESE FOREIGN BOND INVESTMENT ACTUAL -537.6B (FORECAST -, PREVIOUS 1,312.0B) $MACRO
-- 11/12 08:50 [financialjuice] Japan Oct domestic corporate goods price index rises 7.1% yr/yr: BoJ (Poll +6.5%)
-- 11/12 08:50 [financialjuice] Japan October domestic corporate goods price index rises 0.7% month-on-month: BoJ (Poll: +0.3%)
-- 11/12 08:51 [financialjuice] FOREIGN INVESTMENT JAPANESE BONDS ACTUAL 1371.1B (FORECAST -, PREVIOUS 1,481.7B) $MACRO
-- 11/12 08:51 [financialjuice] JAPANESE FOREIGN STOCK INVESTMENT ACTUAL -643.9B (FORECAST -, PREVIOUS 1,077.7B) $MACRO
-- 11/12 08:51 [FirstSquawk] JAPAN EARLY TRADE: BENCHMARK 10-YEAR JGB FUTURES RISE 0.03 POINT; NIKKEI AVERAGE FUTURES RISE 0.33%
-- 11/12 09:00 [DeItaone] $NVDA - NVIDIA’S BOARD HAS BEEN WORKING WITH AN OUTSIDE FIRM TO IDENTIFY POTENTIAL REPLACEMENTS FOR CEO JENSEN HUANG- BLOOMBERG REPORTER ON X
-- 11/12 09:00 [financialjuice] Nvidia's board working with external firm to find potential CEO replacements for Jensen Huang - reporter on X
-- 11/12 09:01 [financialjuice] Nvidia board considers appointing interim chief while seeking permanent leader - reporter on X
-- 11/12 09:05 [financialjuice] Nvidia's board considers appointing interim chief during search for permanent CEO
-- 11/12 09:05 [financialjuice] UK RICS HOUSING SURVEY ACTUAL -36 (FORECAST -33.5, PREVIOUS -32) $MACRO
-- 11/12 09:09 [financialjuice] Hangzhou Landscape Architecture : unit signs deals to acquire 30,000 Nvidia RTX units Pross500 Blackwell
-- 11/12 09:10 [FirstSquawk] GOLD FELL 0.8% TO $4,002.54 AN OUNCE AFTER HOT US INFLATION DATA AND HAWKISH FED REMARKS STRENGTHENED DECEMBER RATE-HIKE EXPECTATIONS. A STRONGER DOLLAR, WHICH HIT ITS HIGHEST LEVEL SINCE MAY 2025, ADDED PRESSURE ON BULLION.
-- 11/12 09:11 [FirstSquawk] FED OFFICIAL AUSTAN GOOLSBEE CALLED THE INFLATION REPORT “BORDERLINE DISTURBING,” WHILE CENTRAL-BANK BUYING HELPED SUPPORT GOLD NEAR $4,000. SILVER ROSE 1.2% TO $52.14, AND THE DOLLAR INDEX GAINED 0.4%.
-- 11/12 09:14 [financialjuice] Japan top currency diplomat Mimura: forex fluctuations are too rapid
-- 11/12 09:14 [financialjuice] Japan top currency diplomat Mimura: recent moves are too rapid
-- 11/12 09:15 [financialjuice] China PBOC likely to set yuan midpoint at 6.6797 per dollar: estimate
-- 11/12 09:34 [financialjuice] South Korea presidential office: anticipates progress on Ukraine issues after productive talks in Paris
-- 11/12 09:34 [financialjuice] South Korea's Lee to participate in Apec summit in Shenzhen on November 18-19: Korean presidential office
-- 11/12 09:34 [financialjuice] South Korea presidential office: Likelihood of US-North Korea interaction around Apec seems low
+- 11/12 10:52 [FirstSquawk] Yield on 5-year JGBs drops 2 basis points to 2.170%.
+- 11/12 11:00 [FirstSquawk] Indonesia signs carbon reduction deal with Norway, covering 12 million metric tons of CO2-equivalent emissions reductions from power projects.
+- 11/12 11:01 [financialjuice] Top Democrats target Trump administration Nvidia-China documents: WSJ
+- 11/12 11:01 [financialjuice] Sens. Elizabeth Warren and Chris Coons urge Trump administration to preserve records on Nvidia chip exports to China - WSJ
+- 11/12 11:02 [FirstSquawk] Democrats push for scrutiny of Trump administration files concerning NVIDIA's China activities - WSJ
+- 11/12 11:02 [FirstSquawk] US Senators Warren and Coons call on the Trump administration to safeguard records tied to NVIDIA's China chip shipments - WSJ
+- 11/12 11:03 [FirstSquawk] Indonesia's benchmark stock index advances 0.2% to 5,126.87 points in early deals.
+- 11/12 11:03 [FirstSquawk] Indonesian currency slips to 18,180 against the greenback.
+- 11/12 11:10 [FirstSquawk] Jakarta's benchmark stock index gains 1%.
+- 11/12 11:14 [FirstSquawk] Trump administration's crackdown on NVIDIA chip diversion to China was delayed by Lutnick, Axios reports.
+- 11/12 11:25 [FirstSquawk] Pope Leo says global conflicts underscore the need for patient diplomacy and respect for international law.
+- 11/12 11:25 [FirstSquawk] Pope Leo calls for patient diplomacy and adherence to international law amid global conflicts.
+- 11/12 11:44 [FirstSquawk] Beijing backs Havana as Cuba steps up efforts to challenge US fuel pressure during talks in China.
+- 11/12 11:49 [financialjuice] Senators Warren, Coons urge Lutnick, Rubio and Miller to safeguard Nvidia records after reports of foreign spying on CEO Huang: Warren's office
+- 11/12 11:49 [FirstSquawk] Warren and Coons urge Lutnick, Rubio and Miller to retain NVIDIA-related documents amid reports of foreign intelligence targeting Huang.
+- 11/12 11:50 [financialjuice] Senator Warren’s office: Trump administration must keep all documents and communications related to Nvidia's exports of advanced AI chips to China
+- 11/12 11:52 [FirstSquawk] Senator Warren calls on the Trump administration to retain all documents and communications concerning NVIDIA's advanced AI chip exports to China.
+- 11/12 11:52 [FirstSquawk] Indonesia, Thailand and the Philippines agree to set up a common petroleum reserve system - NA
+- 11/12 11:54 [FirstSquawk] Hong Kong-listed Alibaba shares decline 5%.
+- 11/12 11:55 [financialjuice] Asean to start combined stockpile of petroleum products: Nikkei
+- 11/12 11:56 [financialjuice] Asean to build storage facilities in Indonesia and Thailand by 2027 led by Japan: Nikkei
+- 11/12 11:58 [FirstSquawk] Aussie dollar weakens towards its lowest level in nearly 10 months - FX
+- 11/12 12:00 [financialjuice] S. Korea: Oct foreign net investment in local bonds $5.61 billion vs -$5.81 billion in Sept - Central Bank
+- 11/12 12:00 [financialjuice] S.Korea: Oct foreign net investment in local stocks $-19.31 bln vs $-14.16 bln in Sept -
+- 11/12 12:01 [FirstSquawk] Japan explores stricter penalties for AI developers over safety-related concerns - KYODO
+- 11/12 12:12 [FirstSquawk] Dollar strengthens to its highest level in 19 months as markets price in further Fed tightening and the yen slips.
+- 11/12 12:13 [FirstSquawk] Vietnam's finance minister: Bond plan remains on track, with authorities ready to proceed once conditions become favorable.
+- 11/12 12:14 [FirstSquawk] Vietnam's finance minister notes that overseas bond issuance is currently expensive.
+- 11/12 12:14 [FirstSquawk] Offshore bond issuance is not viable under current market conditions, Vietnam's finance minister says.
+- 11/12 12:14 [FirstSquawk] Westpac's Anthony Miller reports an increase in mortgage applications as homebuyers adjust to market conditions.
+- 11/12 12:20 [FirstSquawk] Stronger semiconductor demand worldwide and reduced pressure from high oil prices are forecast to drive consumption growth next year, according to a state-run think tank - YONHAP
+- 11/12 12:24 [FirstSquawk] Indonesia central bank official cites US monetary policy outlook, MSCI decision concerns, domestic economic trends and increased year-end FX demand as factors weighing on the rupiah.
+- 11/12 12:24 [FirstSquawk] Indonesia central bank official: Rupiah depreciation broadly tracks regional currency movements.
+- 11/12 12:30 [FirstSquawk] Dollar Strength Puts Renewed Pressure on Asian Currencies - WSJ
+- 11/12 12:38 [FirstSquawk] Kiwi Comes Under Pressure as Traders Consider a Bigger Federal Reserve Rate Increase - FX
+- 11/12 12:43 [FirstSquawk] Oppenheimer Lowers NVIDIA Rating to Perform
+- 11/12 12:49 [FirstSquawk] South Korean Vice Foreign Minister Says Seoul Is Closely Watching Prospects for US-China-Russia Summit - YONHAP
+- 11/12 13:01 [FirstSquawk] Euro-Yen Pair Retreats Below 177.00, Nears Nine-Day Exponential Moving Average
+- 11/12 13:04 [FirstSquawk] Taiwan Stocks Reverse Earlier Gains, Slide 1.2%
+- 11/12 13:09 [FirstSquawk] Higher Costs Unlikely to Significantly Strain Credit Ratings of APAC Gas Utilities, Fitch Says
+- 11/12 13:17 [FirstSquawk] Indonesia's Vice President Gibran Seen Arriving at Parliament Amid Resignation Reports
+- 11/12 13:18 [financialjuice] US envoys Witkoff and Kushner to land in Moscow after trilateral talks in Abu Dhabi for Kremlin meeting with Putin, sources say
+- 11/12 13:18 [financialjuice] Witkoff, Kushner to meet Putin's special envoy Kirill Dmitriev ahead of Kremlin talks, sources say
+- 11/12 13:18 [FirstSquawk] US Delegation to Hold Further Talks With Putin in Moscow After Trilateral Meetings in Abu Dhabi, RTRS Say
+- 11/12 13:28 [FirstSquawk] China Central Bank Signals Greater Room for Monetary Easing as Growth Holds Firm - WSJ
+- 11/12 13:33 [FirstSquawk] North Korea Has Little Likelihood of Attending APEC or Holding Talks With the US, Official Says - YONHAP
+- 11/12 13:41 [FirstSquawk] Russia's Move to Put Japan Tobacco Assets Under State Control Is "Unusual", Japanese Minister Says - KYODO
+- 11/12 13:47 [FirstSquawk] Brazil Sets Out Fiscal Package Worth as Much as $10.8 Billion for the Coming Year - RTRS
+- 11/12 13:51 [FirstSquawk] Cigna Price Target Lowered to $360 From $370 by Piper Sandler
+- 11/12 13:53 [financialjuice] Russia strikes energy sites, military depot in and around Ukraine's Kyiv: Russian newswires quote defence ministry
+- 11/12 13:53 [FirstSquawk] Russian Forces Target Energy Infrastructure and Military Storage Site in Kyiv Region, Russian Newswires Report
+- 11/12 13:58 [financialjuice] Taiwan stocks fall over 2%
+- 11/12 13:58 [FirstSquawk] Taiwan's Benchmark Stock Market Slides Over 2%
+- 11/12 14:02 [FirstSquawk] . European Union and UK Plan to Delay 10% Electric Vehicle Tariff, FT Says
+- 11/12 14:02 [financialjuice] EU and UK likely to postpone 10% electric car tariff: FT
+- 11/12 14:03 [financialjuice] France signals backing for Spain's ECB presidential candidate Pablo Hernandez de Cos - FT
+- 11/12 14:14 [FirstSquawk] France Throws Its Weight Behind Spain's ECB Presidential Candidate, FT Says
+- 11/12 14:17 [FirstSquawk] Britain's GDP Likely to Reveal Stronger Growth Momentum in Q3 - FX
+- 11/12 14:21 [FirstSquawk] Coalition Says Drone Was Detected and Destroyed in Saudi Arabia's Riyadh Region
+- 11/12 14:24 [FirstSquawk] Russia's Diesel Exports Surge Twofold Following US Sanctions Relief, With No Supply Going to America - FT
+- 11/12 14:25 [FirstSquawk] ASX 200 Finishes 0.1% Lower at 9,146.80
+- 11/12 14:26 [FirstSquawk] Israel Says Strike Hit Senior Hamas Figure and Militants Operating Within Gaza's Nasser Hospital
+- 11/12 14:26 [financialjuice] Israeli military: strikes senior Hamas figure and other militants at Nasser Hospital in Gaza's Khan Younis
+- 11/12 14:27 [financialjuice] Chinese AI firms rushing to secure more Nvidia-powered computing capacity at overseas data centers, sources say
+- 11/12 14:27 [financialjuice] Chinese AI firms concerned Nvidia CEO spy scandal may prompt Washington to restrict remote use of advanced chips, sources say
+- 11/12 14:27 [financialjuice] China's grey-market traders hoard restricted Nvidia AI chips as CEO spy scandal fuels US crackdown fears, sources say
+- 11/12 14:30 [FirstSquawk] United Airlines Seeks to Block AI Agents From Its Platform Over Security Concerns, Reuters Reports
+- 11/12 14:34 [FirstSquawk] Taiwan's Benchmark Stock Market Ends the Session Down 2.6%
+- 11/12 14:36 [financialjuice] South Korea foreign minister Cho to visit China ahead of APEC summit Nov. 13-14: Yonhap
+- 11/12 14:36 [FirstSquawk] South Korean Foreign Minister Cho to Visit China on November 13–14 Ahead of APEC, Yonhap Reports
+- 11/12 14:41 [financialjuice] UAE's Ras Al Khaimah reopens several beaches after oil spill closures: Ras Al Khaimah media office
+- 11/12 14:41 [FirstSquawk] UAE's Ras Al Khaimah Resumes Access to Several Beaches Following Oil Spill
+- 11/12 14:44 [financialjuice] BOJ board member Asada: must be mindful of risk rate hikes could lower underlying inflation as consumption slows, when asked about possible December increase
+- 11/12 14:45 [financialjuice] BOJ's Asada: Central bank independence crucial for price stability amid questions on rate hikes' impact on government policy
+- 11/12 14:45 [FirstSquawk] BOJ's Asada Says Policymakers Must Consider Risk That Rate Hikes Could Suppress Underlying Inflation as Consumption Lacks Momentum
+- 11/12 14:46 [FirstSquawk] BOJ Board Member Asada Says Central Bank Autonomy Is Key to Price Stability, Regardless of Government Economic Policy
+- 11/12 14:51 [financialjuice] BOJ's Asada: no clear plan on terminal rate
+- 11/12 14:52 [financialjuice] BOJ's Asada: Japan's nominal neutral rate likely toward lower end of staff range
+- 11/12 14:52 [FirstSquawk] Chinese Firms Could Boost Market Valuations by Increasing Buybacks and Dividends, Goldman Sachs Says
+- 11/12 14:53 [FirstSquawk] BOJ Board Member Asada Says No Specific Target Has Been Set for the Terminal Rate
+- 11/12 14:53 [FirstSquawk] BOJ Board Member Asada Says Japan's Neutral Rate Likely Sits Near the Bottom of the Estimated Range
+- 11/12 14:54 [financialjuice] BoJ's Asada: terminal rate and neutral rate closely linked
+- 11/12 14:55 [financialjuice] Boj's Asada: Boj does not directly govern fx so will not comment on ideal dollar/yen level
+- 11/12 14:55 [FirstSquawk] BOJ Board Member Asada Refrains From Commenting on Ideal Dollar/Yen Rate, Citing Lack of Direct FX Control
+- 11/12 14:56 [FirstSquawk] BOJ Board Member Asada Says Terminal Interest Rate Is Closely Tied to the Neutral Rate
+- 11/12 14:56 [financialjuice] Boj's Asada: Even if policy rate hits target level, central bank could still adjust rates up or down
+- 11/12 14:57 [financialjuice] BoJ's Asada: Want to decide policy at each meeting reviewing upside, downside risks and financial conditions
+- 11/12 15:00 [financialjuice] Boj's Asada: no plans to suggest rate reduction now
+- 11/12 15:00 [FirstSquawk] BOJ Board Member Asada Says a Rate Cut Is Not Currently Under Consideration
+- 11/12 15:00 [financialjuice] Finnish September current account deficit 0.5 billion euros: Statistics Finland
+- 11/12 15:01 [financialjuice] BOJ's Asada: Chance neutral rate somewhat exceeds BOJ policy rate
+- 11/12 15:01 [financialjuice] BOJ's Asada: I am not opposed to increasing rates entirely
+- 11/12 15:01 [financialjuice] BoJ's Asada: may need to increase rates gradually at some point in future
+- 11/12 15:01 [financialjuice] BOJ's Asada: if rates rise, must be cautious about speed
+- 11/12 15:02 [financialjuice] Russian defence ministry: Russian forces strike cargo ship in Black Sea - RIA
+- 11/12 15:02 [financialjuice] Russian military official killed in car explosion: RIA
+- 11/12 15:02 [FirstSquawk] BOJ Board Member Asada Says Neutral Rate May Be Somewhat Higher Than the Current Policy Rate
+- 11/12 15:03 [FirstSquawk] BOJ Board Member Asada Says Central Bank May Have to Raise Rates Slowly Going Forward
+- 11/12 15:06 [FirstSquawk] Siemens Q4 26 Earnings: • Rev: €23.68B (est €23.2B) • Industrial Business Profit: €3.90B (est €3.74B) • Industrial Business Margin: 16.8% (est 16.3%) • Comparable Rev Growth: +10% (est +8.3%) • Orders: €34.77B (est €27.52B) • Sees FY2027 Co…
+- 11/12 15:06 [financialjuice] BOJ board member Asada: Japan has already reached about 2% inflation, so pushing prices higher is not very meaningful
+- 11/12 15:06 [FirstSquawk] BOJ Board Member Asada Says Japan Has Met Its 2% Inflation Goal, Making Additional Price Increases Less Meaningful
+- 11/12 15:07 [FirstSquawk] South Korean President Says Capital Market Valuations Do Not Yet Reflect the Country's Strong Economic Fundamentals
+- 11/12 15:07 [financialjuice] South Korea President Lee: South Korean capital market remains undervalued despite robust economic fundamentals
+- 11/12 15:08 [financialjuice] BOJ board member Asada: Japan now in inflation, not deflation, entering new phase
+- 11/12 15:08 [FirstSquawk] BOJ Board Member Asada Says Japan's Shift From Deflation to Inflation Signals a New Economic Era
+- 11/12 15:09 [financialjuice] BoJ board member Asada: former BoJ chief Kuroda’s stimulus approach was suitable at the time
+- 11/12 15:09 [FirstSquawk] BOJ Board Member Asada Says Kuroda's Easing Policy Was Appropriate Under the Economic Conditions at the Time
+- 11/12 15:10 [FirstSquawk] Allianz Q3 26 Earnings: - Rev: €44.40B - Oper Profit: €4.71B (est €4.20B), +6.2% Y/Y - Total Business Volume: €44.40B, +3.0% Internal Growth - Raises Upper End Of FY2026 Oper Profit Target Range To Around €18.6B - Completes Share Buyback Pr…
+- 11/12 15:10 [FirstSquawk] BOJ Board Member Asada Says Kuroda's Reflation Strategy Targeted Japan's Persistent Deflation and Economic Stagnation
+- 11/12 15:11 [FirstSquawk] BOJ Board Member Asada Backs View That Reflationary Measures Have Fulfilled Their Purpose
+- 11/12 15:18 [FirstSquawk] Chinese and UK Trade Ministers Exchange Views on EVs, China's Commerce Ministry Says
+- 11/12 15:24 [FirstSquawk] Hon Hai Q3 26 Earnings: • Rev: NT$3.02T (est NT$2.85T) • Net Income: NT$77.52B (est NT$70.26B) • EPS: NT$5.51 • Oper Profit: NT$115.35B (est NT$100.17B) • Still Sees FY2026 Rev Growing Strongly Y/Y • Still Sees FY2026 Cloud & Networking Pro…
+- 11/12 15:39 [FirstSquawk] Munich Re Q3 Earnings: - Profit: €1.74B (est €1.62B) - P&C Reinsurance Combined Ratio: 80% (vs 62.7% Year Ago) - Still Sees FY Profit: €6.6B (est €6.51B) - Sees FY P&C Reinsurance Combined Ratio: Below 80%
+- 11/12 15:40 [FirstSquawk] Hapag-Lloyd Q3 Earnings: - Revenue: €5.97B - EBIT: €935M - Revenue: $6.88B - EBIT: $1.09B - EBITDA: $1.7B - EBITDA Margin Misses Estimates
+- 11/12 15:40 [FirstSquawk] Telefónica Q3 Earnings: - Revenue: €8.43B (est €8.35B) - Adjusted EBITDA: €3.08B (est €3.04B) - Boosts FY Adjusted EBITDA Outlook To Slightly Above 2.5% - Increases FY Adjusted OpCFL Outlook To Over 3.5% - Sees FY Service Revenue Growth At …
+- 11/12 15:48 [FirstSquawk] Seoul Shares End Two-Day Rally as Concerns Over Nvidia Risks Intensify, Yonhap Reports
+- 11/12 15:51 [FirstSquawk] IRGC Navy Claims Two Super Tankers Exploded in the Strait of Hormuz Last Night, Sepah News Reports
+- 11/12 15:56 [FirstSquawk] Indonesia's State Energy Firm Pertamina Pursues Acquisition of Oil Field in South America
+- 11/12 15:56 [financialjuice] Siemens CEO: Partnership with NVIDIA to continue as normal.
+- 11/12 15:57 [financialjuice] Siemens CEO: No extra guardrails needed for our Nvidia business $NVDA
+- 11/12 15:59 [FirstSquawk] Two Oil Tankers Reportedly Hit by Explosions in Strait of Hormuz While Navigating an 'Unauthorized Route', Iranian Media Says
+- 11/12 15:59 [financialjuice] Iran's state media, citing the IRGC Navy: Two oil tankers face explosions while moving in the 'unauthorized route' In the Strait of Hormuz on Wednesday night
+- 11/12 16:00 [financialjuice] UK CONSTRUCTION OUTPUT MOM ACTUAL 0.8% (FORECAST -0.1%, PREVIOUS -0.2%) $MACRO
+- 11/12 16:00 [financialjuice] ❗ UK GDP ESTIMATE MOM ACTUAL 0.2% (FORECAST 0%, PREVIOUS 0.1%) $MACRO
+- 11/12 16:00 [financialjuice] UK BUSINESS INVESTMENT QOQ PRELIM ACTUAL 0.43% (FORECAST 0.6%, PREVIOUS 1.8%) $MACRO
+- 11/12 16:00 [financialjuice] ‼ BREAKING: UK GDP QOQ PRELIM ACTUAL 0.7% (FORECAST 0.7%, PREVIOUS 0.5%) $MACRO
+- 11/12 16:00 [financialjuice] UK SERVICES MOM ACTUAL 0.2% (FORECAST 0%, PREVIOUS 0.0%) $MACRO
+- 11/12 16:00 [financialjuice] ❗ UK GDP YOY PRELIM ACTUAL 1.9% (FORECAST 1.9%, PREVIOUS 1.4%) $MACRO
+- 11/12 16:00 [financialjuice] UK INDUSTRIAL PRODUCTION YOY ACTUAL 3.1% (FORECAST 2.8%, PREVIOUS 1.6%) $MACRO
+- 11/12 16:00 [financialjuice] UK INDUSTRIAL PRODUCTION MOM ACTUAL 0.3% (FORECAST -0.4%, PREVIOUS 0.8%) $MACRO
+- 11/12 16:01 [financialjuice] ❗ UK MANUFACTURING PRODUCTION MOM ACTUAL 0.7% (FORECAST -0.5%, PREVIOUS 1.2%) $MACRO
+- 11/12 16:01 [financialjuice] UK GOODS TRADE BALANCE ACTUAL -22.291B (FORECAST -19.2B, PREVIOUS -18.01B) $MACRO
+- 11/12 16:01 [financialjuice] ❗ UK GDP ESTIMATE 3M/3M ACTUAL 0.7% (FORECAST 0.6%, PREVIOUS 0.7%) $MACRO
+- 11/12 16:01 [financialjuice] ❗ UK GDP ESTIMATE YOY ACTUAL 2.1% (FORECAST 1.9%, PREVIOUS 2.1%) $MACRO
+- 11/12 16:01 [financialjuice] UK MANUFACTURING PRODUCTION YOY ACTUAL 4.4% (FORECAST 3.8%, PREVIOUS 3.0%) $MACRO
+- 11/12 16:01 [financialjuice] SWEDISH CPI YOY ACTUAL 0.9% (FORECAST 0.9%, PREVIOUS 0.9%) $MACRO
+- 11/12 16:01 [financialjuice] UK GOODS TRADE BALANCE NON-EU ACTUAL -8.985B (FORECAST -, PREVIOUS -5.287B) $MACRO
+- 11/12 16:01 [financialjuice] SWEDISH CPI MOM ACTUAL 0.0% (FORECAST 0%, PREVIOUS 0.0%) $MACRO
+- 11/12 16:01 [financialjuice] UK GDP Q3 2026 Estimate
+- 11/12 16:03 [FirstSquawk] UK (Q3) GDP (YOY) ACTUAL: 1.9% VS 1.4% PREVIOUS; EST: 1.9% UK (Sep) GDP (MOM) ACTUAL: 0.2% VS 0.1% PREVIOUS; EST: 0.0% UK (Q3) GDP (QOQ) ACTUAL: 0.7% VS 0.5% PREVIOUS; EST: 0.7%
+- 11/12 16:04 [FirstSquawk] UK (Sep) MANUFACTURING PRODUCTION (MOM) ACTUAL: 0.7% VS 1.2% PREVIOUS; EST: -0.5% UK (Sep) INDUSTRIAL PRODUCTION (MOM) ACTUAL: 0.3% VS 0.8% PREVIOUS; EST: -0.4% UK (Q3) BUSINESS INVESTMENT (QOQ) ACTUAL: 0.4% VS 1.8% PREVIOUS; EST: 0.4%
+- 11/12 16:04 [FirstSquawk] UK (Sep) MONTHLY GDP 3M/3M CHANGE ACTUAL: 0.7% VS 0.7% PREVIOUS; EST: 0.7% UK (Sep) TRADE BALANCE NON-EU ACTUAL: -8.99B VS -5.29B PREVIOUS UK (Sep) TRADE BALANCE ACTUAL: -22.29B VS -18.01B PREVIOUS;EST -19.20B
+- 11/12 16:04 [FirstSquawk] UK (Sep) INDUSTRIAL PRODUCTION (YOY) ACTUAL: 3.1% VS 1.6% PREVIOUS; EST: 2.9% UK (Sep) MANUFACTURING PRODUCTION (YOY) ACTUAL: 4.4% VS 3.0% PREVIOUS; EST: 3.8% UK (Q3) BUSINESS INVESTMENT (YOY) ACTUAL: 3.0% VS 5.2% PREVIOUS
+- 11/12 16:04 [FirstSquawk] UK (Sep) CONSTRUCTION OUTPUT (MOM) ACTUAL: 0.8% VS -0.2% PREVIOUS; EST: 0.0% UK (Sep) CONSTRUCTION OUTPUT (YOY) ACTUAL: -1.5% VS -1.8% PREVIOUS; EST: -2.1%
+- 11/12 16:04 [FirstSquawk] UK (Sep) GDP (YOY) ACTUAL: 2.1% VS 2.1% PREVIOUS; EST: 1.9% UK INDEX OF SERVICES ACTUAL: 0.9% VS 0.9% PREVIOUS; EST: 0.9%
+- 11/12 16:05 [FirstSquawk] SWEDEN GOVT PRESENTS ECONOMIC FORECASTS ALONGSIDE BUDGET
+- 11/12 16:07 [financialjuice] China's Mao: The US should not use spy narrative as pretext for tech curbs
+- 11/12 16:09 [FirstSquawk] CHINA FOREIGN MINISTRY SAYS ON NVIDIA PROBE: US SHOULD STOP FABRICATING CHINA SPY NARRATIVE
+- 11/12 16:11 [financialjuice] China and the US are in close communication over tariff reduction - Mofcom
+- 11/12 16:15 [FirstSquawk] CHINA APPROVES ELI LILLY'S ORAL GLP-1 DRUG FOR WEIGHT LOSS.
+- 11/12 16:15 [FirstSquawk] CHINA & US IN CLOSE COMMUNICATION OVER TRADE, INVESTMENT:MOFCOM
+- 11/12 16:15 [FirstSquawk] CHINA'S COMMERCE MINISTRY SAYS CHINA IS WILLING TO CONTINUE STRENGTHENING COOPERATION AND PROPERLY MANAGING DIFFERENCES
+- 11/12 16:16 [FirstSquawk] CHINA & US IN COMMUNICATION ON XI-TRUMP INTERACTION, MAO REPEATS
+- 11/12 16:19 [FirstSquawk] FOXCONN SAYS EXPECTS FULL-YEAR PERFORMANCE TO EXCEED PREVIOUS FORECASTS, POSITIVE TREND TO CONTINUE INTO NEXT YEAR
+- 11/12 16:27 [financialjuice] French European affairs minister Haddad: On Monday, the EU will approve more sanctions on Russia
+- 11/12 16:30 [FirstSquawk] UK TO ENDORSE GLOBAL ELECTRIFICATION TARGET AT COP31 SAYS BURNHAM
+- 11/12 16:30 [FirstSquawk] IRAN SAYS EXPLOSIONS HIT 2 TANKERS IN HORMUZ OVERNIGHT- ISNA
+- 11/12 16:30 [FirstSquawk] UK REMAINS 'DETERMINED TO REACH NET ZERO BY 2050' SAYS BURNHAM
+- 11/12 16:31 [FirstSquawk] FOXCONN- FULL-YEAR BUSINESS VISIBILITY HAS IMPROVED SINCE AUGUST EARNINGS CALL, RAISES OUTLOOK FOR ALL FOUR MAJOR PRODUCT SEGMENTS
+- 11/12 16:31 [FirstSquawk] FOXCONN SAYS VERY CONFIDENT ABOUT 2027 BUSINESS OUTLOOK BASED ON CURRENT CUSTOMER DEMAND, EXPECTS CONTINUED GROWTH
+- 11/12 16:31 [FirstSquawk] FOXCONN SAYS TIGHT CHIP AND MEMORY SUPPLIES POSE INDUSTRY-WIDE CHALLENGE, EXPECTS DEMAND TO CONTINUE OUTSTRIPPING SUPPLY IN 2027
+- 11/12 16:31 [FirstSquawk] FOXCONN SAYS GLOBAL POLITICAL AND ECONOMIC ENVIRONMENT REMAINS HIGHLY UNCERTAIN
+- 11/12 16:31 [FirstSquawk] FRENCH EUROPEAN AFFAIRS MINISTER HADDAD SAYS ON MONDAY, EU WILL APPROVE MORE SANCTIONS ON RUSSIA
+- 11/12 16:32 [financialjuice] Japan government to spend 650 bln Yen to help ease winter outlays for households - Kyodo
+- 11/12 16:36 [FirstSquawk] FOXCONN SAYS FOXCONN: EXPECTS AI SERVER RACK SHIPMENTS TO GROW BY HIGH DOUBLE DIGITS QUARTER-ON-QUARTER IN Q4
+- 11/12 16:36 [FirstSquawk] FOXCONN SAYS CSP REMAINS AS MAIN CUSTOMER, BUT EXPECTS TO ADD NEOCLOUD CUSTOMERS IN 2027
