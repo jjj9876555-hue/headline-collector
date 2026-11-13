@@ -7,136 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-11-14 02:37 JST／対象: 11/13 14:37 〜 11/14 02:37 JST（時刻はすべて日本時間）
+生成: 2026-11-14 07:52 JST／対象: 11/13 19:52 〜 11/14 07:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 33 | 11/13 21:41 | 11/14 02:09 | ⚠ 68分（00:40→01:49） |
-| FirstSquawk | 160 | 11/13 14:47 | 11/14 02:21 | 42分（19:24→20:06） |
-| financialjuice | 179 | 11/13 14:45 | 11/14 02:32 | ⚠ 66分（19:01→20:07） |
+| DeItaone | 41 | 11/13 21:41 | 11/14 07:23 | ⚠ 204分（03:11→06:36） |
+| FirstSquawk | 101 | 11/13 20:06 | 11/14 04:27 | 42分（03:09→03:51） |
+| financialjuice | 228 | 11/13 20:07 | 11/14 07:51 | ⚠ 52分（21:03→21:56） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 365 行（統合前 376 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 360 行（統合前 375 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/13 14:45 [financialjuice] Dollar/yen briefly reaches 160, last at 159.96
-- 11/13 14:47 [FirstSquawk] Yen Weakens As Dollar/Yen Briefly Reaches 160, Currently At 159.96
-- 11/13 14:56 [financialjuice] Microsoft on outage: no signs of malicious activity causing incident
-- 11/13 14:57 [FirstSquawk] Microsoft Confirms No Known Malicious Activity Has Been Identified As The Cause Of The Disruption
-- 11/13 14:59 [financialjuice] Four killed in Ukrainian strike on Russia's Volgograd region: governor
-- 11/13 14:59 [FirstSquawk] Russia's Volgograd Region Reports Four Fatalities Following Ukrainian Attack, Governor Says
-- 11/13 15:06 [FirstSquawk] Microsoft Scrambles To Restore Services Following Widespread Outage - WSJ
-- 11/13 15:07 [financialjuice] Dollar/yen rises to 160.09, highest level since early September
-- 11/13 15:09 [FirstSquawk] USD/JPY Hits 160.08, Reaching Its Strongest Level Since Early September
-- 11/13 15:17 [FirstSquawk] Malaysia's Currency Falls To 4.085 Against The Greenback
-- 11/13 15:28 [financialjuice] Iran's Revolutionary Guards navy: tanker carrying liquefied gas struck naval mine, experienced explosion in Strait of Hormuz
-- 11/13 15:31 [FirstSquawk] SoftBank Books $3.7 Billion Charge Following Failed Push Into Gas Turbines For AI Infrastructure - FT
-- 11/13 15:37 [FirstSquawk] Bitcoin Extends Losses As Price Falls To Three-Month Lows Near $68,847
-- 11/13 15:41 [FirstSquawk] European Companies' Q3 Revenue Growth Outlook Improves To 12.0%, Versus 11.9% Expected A Week Earlier
-- 11/13 15:45 [FirstSquawk] Goldman Sachs Lowers European Insurance Sector Recommendation, Moving To Underweight From Neutral
-- 11/13 15:45 [FirstSquawk] Goldman Sachs Turns More Cautious On European Banks, Lowering Sector Rating To Neutral
-- 11/13 15:45 [FirstSquawk] Goldman Sachs Turns Bearish On European Energy Stocks, Lowering Sector Rating To Underweight
-- 11/13 15:45 [FirstSquawk] Goldman Sachs Raises Its STOXX 600 Outlook, Setting A 12-Month Target Of 700, Up From 695
-- 11/13 15:59 [FirstSquawk] China's Efforts To Support Its Stock Market Risk Producing The Opposite Effect
-- 11/13 16:00 [financialjuice] GERMAN WHOLESALE PRICE INDEX MOM ACTUAL 0.4% (FORECAST -, PREVIOUS 1.9%) $MACRO
-- 11/13 16:00 [financialjuice] GERMAN WHOLESALE PRICE INDEX YOY ACTUAL 8.8% (FORECAST -, PREVIOUS 8.7%) $MACRO
-- 11/13 16:00 [FirstSquawk] Expanded Duty-Free Access To China Could Drive Investment In Africa's Processing Industries, Helping Producers Export Higher-Value Goods
-- 11/13 16:15 [FirstSquawk] CHINA REPEATS ITS POSITION ON NVIDIA SPY ACCUSATION CLEAR.
-- 11/13 16:21 [FirstSquawk] RUSSIAN FINANCE MINISTRY SAYS PROPOSES TO EXPAND TAX RELIEF FOR GAZPROM - IFX
-- 11/13 16:30 [financialjuice] SWISS PPI YOY ACTUAL 0.9% (FORECAST -, PREVIOUS -0.2%) $MACRO
-- 11/13 16:30 [financialjuice] SWISS PPI MOM ACTUAL 0.9% (FORECAST -, PREVIOUS 0.3%) $MACRO
-- 11/13 16:45 [financialjuice] FRENCH HICP MOM FINAL ACTUAL 0.4% (FORECAST 0.4%, PREVIOUS 0.4%) $MACRO
-- 11/13 16:45 [financialjuice] ❗ FRENCH CPI MOM NSA ACTUAL 0.4% (FORECAST 0.4%, PREVIOUS 0.4%) $MACRO
-- 11/13 16:45 [financialjuice] ❗ FRENCH CPI YOY NSA ACTUAL 3.4% (FORECAST 3.4%, PREVIOUS 3.4%) $MACRO
-- 11/13 16:45 [financialjuice] ❗ FRENCH HICP YOY FINAL ACTUAL 3.7% (FORECAST 3.8%, PREVIOUS 3.8%) $MACRO
-- 11/13 16:48 [FirstSquawk] CHINA FINANCE MINISTRY SAYS ISSUES OFFSHORE TRUST INCOME TAX Q&A
-- 11/13 16:51 [FirstSquawk] JAPAN PM TELLS GOVT TO SURVEY OUTLOOK OUTAGE IMPACT- TV ASAHI
-- 11/13 16:52 [FirstSquawk] CHINA SAYS HONG KONG MPF FALLS OUTSIDE OFFSHORE TRUST TAX RULES
-- 11/13 16:52 [FirstSquawk] MICROSOFT SAYS SEEING POSITIVE RESULTS FOR SERVER STABILITY
-- 11/13 16:52 [FirstSquawk] MICROSOFT POSTS IN UPDATE ON SERVICE HEALTH STATUS PAGE.
-- 11/13 17:00 [financialjuice] SPANISH CPI YOY FINAL ACTUAL 4.9% (FORECAST 4.9%, PREVIOUS 4.9%) $MACRO
-- 11/13 17:00 [financialjuice] SPANISH HICP FINAL YOY ACTUAL 4.9% (FORECAST 4.9%, PREVIOUS 4.9%) $MACRO
-- 11/13 17:00 [financialjuice] SPANISH CPI MOM FINAL ACTUAL 0.6% (FORECAST 0.6%, PREVIOUS 0.6%) $MACRO
-- 11/13 17:00 [financialjuice] SPANISH HICP FINAL MOM ACTUAL 0.5% (FORECAST 0.5%, PREVIOUS 0.5%) $MACRO
-- 11/13 17:00 [financialjuice] SPANISH CORE CPI YOY ACTUAL 3.1% (FORECAST -, PREVIOUS 3.1%) $MACRO
-- 11/13 17:01 [financialjuice] Currency Strength Chart: Strongest: EUR, JPY, USD, CAD, CHF, GBP, NZD, AUD - Weakest
-- 11/13 17:01 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 0.16%; FRANCE'S CAC 40 DOWN 0.2%; SPAIN'S IBEX DOWN 0.17%
-- 11/13 17:05 [FirstSquawk] GERMANY'S DAX DOWN 0.2%.
-- 11/13 17:07 [FirstSquawk] BMW OF NORTH AMERICA LLC FILES RECALL OF 720,796 US VEHICLES- NHTSA
-- 11/13 17:15 [financialjuice] IAEA report: The IAEA's lack of information about enriched uranium and access to facilities since the June 2025 attacks is a matter of serious proliferation concern and needs to be rectified with the utmost urgency
-- 11/13 17:16 [financialjuice] IAEA report: The IAEA has neither received information from Iran on the status of its nuclear facilities and material nor had access to them, except for the Bushehr power plant
-- 11/13 17:16 [financialjuice] IAEA Report: Not able to conclude that there has been no diversion of nuclear material from peaceful nuclear activities in Iran.
-- 11/13 17:16 [financialjuice] IAEA report: The IAEA is increasingly concerned that Iran has not let it examine design information or inspect the Isfahan uranium enrichment plan declared in June 2025
-- 11/13 17:16 [financialjuice] IAEA Report: The IAEA does not know Isfahan enrichment plant's exact location or whether it contains nuclear material.
-- 11/13 17:16 [financialjuice] IAEA report: It is critical for the IAEA to conduct verification activities in Iran without further delay, Grossi calls on Iran to engage constructively
-- 11/13 17:16 [financialjuice] IAEA report: IAEA chief Grossi notes Iran's continued refusal to engage the IAEA in seeking to address unresolved safeguards issues.
-- 11/13 17:18 [FirstSquawk] IAEA REPORT SHOWS A SIGNIFICANT LACK OF DATA ON ENRICHED URANIUM AND ACCESS TO FACILITIES SINCE JUNE 2025, RAISING SERIOUS PROLIFERATION CONCERNS THAT MUST BE ADDRESSED IMMEDIATELY.
-- 11/13 17:18 [FirstSquawk] IAEA REPORT INDICATES THAT THE AGENCY HAS NOT RECEIVED DETAILS FROM IRAN REGARDING ITS NUCLEAR SITES AND MATERIAL, WITH ACCESS ONLY TO THE BUSHEHR POWER PLANT.
-- 11/13 17:18 [FirstSquawk] IAEA SUBMITS PRIVATE QUARTERLY REPORT ON IRAN TO MEMBER STATES, OBTAINED
-- 11/13 17:18 [FirstSquawk] IAEA REPORT STATES NO CONCLUSION CAN BE REACHED THAT IRAN HAS NOT DIVERTED NUCLEAR MATERIAL FROM PEACEFUL USES.
-- 11/13 17:18 [FirstSquawk] IAEA IS MORE WORRIED AS IRAN HAS NOT ALLOWED INSPECTIONS OR PROVIDED DESIGN DETAILS FOR THE ISFAHAN URANIUM ENRICHMENT PLANT ANNOUNCED IN JUNE 2025.
-- 11/13 17:18 [FirstSquawk] IAEA REPORT STATES THAT IT DOES NOT HAVE CLARITY ON ISFAHAN ENRICHMENT PLANT'S LOCATION OR THE PRESENCE OF NUCLEAR MATERIAL.
-- 11/13 17:18 [FirstSquawk] IAEA'S GROSSI URGES IRAN TO COOPERATE QUICKLY WITH VERIFICATION ACTIVITIES.
-- 11/13 17:18 [FirstSquawk] IAEA HEAD GROSSI SAYS IRAN IS STILL UNWILLING TO WORK WITH IAEA TO RESOLVE UNSETTLED SAFEGUARDS PROBLEMS.
-- 11/13 17:31 [FirstSquawk] RUSSIAN OVERNIGHT STRIKES ON UKRAINIAN ENERGY INFRASTRUCTURE CAUSED POWER OUTAGES IN 12 REGIONS SAYS DEPUTY ENERGY MINISTER
-- 11/13 17:34 [FirstSquawk] IDF SAYS US 5TH FLEET COMMANDER VISITS ISRAEL
-- 11/13 18:01 [financialjuice] IEA: World oil market showing signs of rebalancing, with supply surpassing demand for the first time since start of Iran war - monthly report
-- 11/13 18:01 [financialjuice] ITALIAN INTERNATIONAL TRADE BALANCE ACTUAL 2.083B (FORECAST -, PREVIOUS 1.773B) $MACRO
-- 11/13 18:02 [financialjuice] ITALIAN TRADE BALANCE EU ACTUAL -0.784B (FORECAST -, PREVIOUS -0.327B) $MACRO
-- 11/13 18:02 [financialjuice] IEA: Member countries plan to release a further 71 million barrels of emergency crude and products stocks through end-February 2027, with diesel the focus at about 15 million barrels
-- 11/13 18:02 [financialjuice] IEA: Global oil market to return to 1.7 million bpd surplus in Q4 2026 vs previous deficit forecast, with more substantial build in 2027
-- 11/13 18:02 [financialjuice] IEA: Hormuz oil flows rose 440k b/d m/m to 11.8m in October
-- 11/13 18:08 [financialjuice] German Economy Ministry: Pressures on the German economy are likely to ease by the end of the year.
-- 11/13 18:08 [financialjuice] German Economy Ministry: In the consumer-related sector the picture remains subdued.
-- 11/13 18:10 [FirstSquawk] CHINA JAN.-OCT. NEW YUAN LOANS CNY11.42T; EST. CNY11.600T.
-- 11/13 18:10 [FirstSquawk] CHINA JAN.-OCT. AGGREGATE FINANCING CNY28.61T; EST. CNY28.908T.
-- 11/13 18:10 [FirstSquawk] IEA SAYS OBSERVED OIL INVENTORIES ROSE BY 52 MILLION BARRELS IN OCT., THE FIRST INCREASE SINCE JUNE
-- 11/13 18:10 [FirstSquawk] IEA SAYS DIESEL IS THE FOCUS OF PRODUCTS RELEASES, WITH ABOUT 15 MILLION BARRELS OF DIESEL SCHEDULED FOR RELEASE BY END-FEBRUARY.
-- 11/13 18:10 [FirstSquawk] IEA: ITS MEMBER COUNTRIES PLAN TO RELEASE FURTHER 71 MILLION BARRELS OF EMERGENCY CRUDE, PRODUCTS STOCKS THROUGH END-FEBRUARY 2027
-- 11/13 18:11 [FirstSquawk] IEA SAYS ITS NOVEMBER BALANCES SUGGEST GLOBAL OIL MARKET WILL RETURN TO A SURPLUS IN FOURTH-QUARTER 2026, WITH A MORE SUBSTANTIAL BUILD IN 2027.
-- 11/13 18:13 [FirstSquawk] IEA SAYS SEES OIL MARKET IN 1.7 MILLION BPD SUPPLY SURPLUS IN FOURTH-QUARTER 2026 (VS PREVIOUS FORECAST OF Q4 SUPPLY DEFICIT)
-- 11/13 18:13 [FirstSquawk] RUSSIA'S DIESEL AND GASOIL EXPORTS REACHED 1.13 MILLION TONS IN OCTOBER, INCLUDING 240,000 TONS FOR TURKEY AND 160,000 TONS FOR BRAZIL, IEA SAYS.
-- 11/13 18:14 [FirstSquawk] GERMAN ECONOMY MINISTRY SAYS PRESSURES ON THE GERMAN ECONOMY ARE LIKELY TO EASE BY THE END OF THE YEAR
-- 11/13 18:14 [FirstSquawk] GERMAN ECONOMY MINISTRY SAYS LEADING INDICATORS HAVE STABILISED BUT RECOVERY HAS NOT REACHED LABOUR MARKET
-- 11/13 18:14 [FirstSquawk] U.K. GOVERNMENT ASSESSING IMPACT OF MICROSOFT OUTAGE:SPOKESPERSON
-- 11/13 18:14 [FirstSquawk] UK SAYS ROBUST CONTINGENCY PLANS IN PLACE TO REDUCE DISRUPTION
-- 11/13 18:18 [financialjuice] Estonian PM: European Council President Costa and EU foreign chief Kallas to represent EU at peace talks
-- 11/13 18:19 [financialjuice] China outstanding total social financing 469.16 trillion yuan at end-October, not 28.61 trillion yuan
-- 11/13 18:20 [FirstSquawk] NISSAN VENDOR CYBERATTACK MAY HAVE LEAKED CUSTOMER DATA- NIKKEI
-- 11/13 18:21 [financialjuice] Microsoft on outage: observing initial signs of stabilization
-- 11/13 18:21 [financialjuice] Microsoft on outage: service capacity still below normal, health remains unstable as traffic is gradually restored
-- 11/13 18:22 [financialjuice] Microsoft on outage: assessing extra mitigation measures to enhance recovery speed and consistency
-- 11/13 18:22 [financialjuice] Microsoft on outage: extending email timeout window to 48 hours to protect delayed messages during service recovery
-- 11/13 18:23 [FirstSquawk] MICROSOFT: ON OUTAGE: SEEING EARLY SIGNS OF STABILIZATION
-- 11/13 18:23 [FirstSquawk] MICROSOFT: ON OUTAGE: EVALUATING ADDITIONAL MITIGATION OPTIONS TO IMPROVE RECOVERY SPEED AND CONSISTENCY.
-- 11/13 18:23 [FirstSquawk] MICROSOFT ON OUTAGE: ARE EXTENDING EMAIL TIMEOUT WINDOW TO 48 HOURS TO HELP PROTECT DELAYED MESSAGES WHILE SERVICE RECOVERY CONTINUES.
-- 11/13 18:31 [FirstSquawk] GERMANY'S 10-YEAR GOVERNMENT BOND YIELD RISES 5 BPS TO 3.3774%, THE HIGHEST LEVEL SINCE OCTOBER 29
-- 11/13 18:38 [FirstSquawk] BOE: CRITICAL OPERATIONS NOT IMPACTED BY MICROSOFT OUTAGE
-- 11/13 18:55 [FirstSquawk] EU'S KALLAS SAYS KUSHNER ADMITTED EUROPEANS NEEDED FOR UKRAINE DEAL
-- 11/13 18:56 [FirstSquawk] EU'S KALLAS SAYS WE'RE WALKING INTO TRAPS RUSSIA IS SETTING FOR US
-- 11/13 18:56 [FirstSquawk] U.S. ASSURED INDIA OF COMPARATIVE TARIFF OVER PEERS: OFFICIAL
-- 11/13 18:56 [FirstSquawk] GERMANY TO BUY 16 MORE A400M TRANSPORT AIRCRAFT FROM AIRBUS.
-- 11/13 18:56 [FirstSquawk] EU'S KALLAS SAYS I KNOW THE RUSSIANS DON'T WANT ME RESPRESENT E.U.
-- 11/13 18:56 [FirstSquawk] EU FOREIGN CHIEF SAYS RUSSIA ASKING ABOUT SECURITY ARCHITECTURE IS A TRAP TO DIVERT ATTENTION.
-- 11/13 18:57 [FirstSquawk] EU FOREIGN CHIEF SAYS I'M BOUND TO WHAT MEMBER STATES SAY, I'M REPRESENTING 27 COUNTRIES NOT MYSELF
-- 11/13 18:57 [FirstSquawk] EU FOREIGN CHIEF SAYS WE HAVE INSTITUTIONS IN PLACE SO WE CAN'T JUST SEND ANY PERSON THAT HAS NO INSTITUTIONAL ROLE
-- 11/13 18:57 [FirstSquawk] U.S. S&P 500 E-MINI FUTURES UP 0.07%, NASDAQ 100 FUTURES DOWN 0.16%, DOW FUTURES UP 0.11%
-- 11/13 18:57 [FirstSquawk] EU FOREIGN CHIEF SAYS RUSSIANS DON'T WANT ANYONE STRONG AT PEACE TALKS, THEY WANT TO PUSH THROUGH MAXIMUM DEMANDS
-- 11/13 19:00 [financialjuice] EUROZONE EMPLOYMENT CHANGE QOQ FLASH ACTUAL 0% (FORECAST -, PREVIOUS 0.1%) $MACRO
-- 11/13 19:00 [financialjuice] ❗ EUROZONE GDP YOY FLASH ESTIMATE ACTUAL 1.3% (FORECAST 1.3%, PREVIOUS 1.3%) $MACRO
-- 11/13 19:00 [financialjuice] ‼ BREAKING: EUROZONE GDP QOQ FLASH ESTIMATE ACTUAL 0.4% (FORECAST 0.4%, PREVIOUS 0.4%) $MACRO
-- 11/13 19:00 [financialjuice] EUROZONE TRADE BALANCE NSA ACTUAL -10.3B (FORECAST -, PREVIOUS -16.1B) $MACRO
-- 11/13 19:01 [financialjuice] EUROZONE TRADE BALANCE ACTUAL -8.7B (FORECAST -, PREVIOUS -7B) $MACRO
-- 11/13 19:24 [FirstSquawk] KREMLIN SAYS RUSSIA IS READY TO CARRY OUT HUMANITARIAN OPERATION IN KOSTIANTYNIVKA IF SECURITY GUARANTEES WILL BE GIVEN
-- 11/13 19:24 [FirstSquawk] KREMLIN SAYS WE CALL ON US SIDE TO USE THEIR INFLUENCE ON UKRAINIANS IN ORDER TO GET THEM TO AGREE TO OPERATION IN KOSTIANTYNIVKA
-- 11/13 19:24 [FirstSquawk] KREMLIN SAYS TALKS WITH EUROPEAN PARTICIPATION WILL BECOME POSSIBLE WHEN WE WILL SEE THEIR READINESS TO CONTRIBUTE TO PEACE PROCESS
-- 11/13 19:24 [FirstSquawk] KREMLIN DECLINES TO COMMENT ON POTENTIAL CANDIDACY OF EU FOREIGN CHIEF KALLAS AS EUROPE'S REPRESENTATIVE AT NEXT ROUND OF PEACE TALKS
-- 11/13 19:24 [FirstSquawk] KREMLIN: RUSSIAN DELEGATION'S LINEUP WILL BE THE SAME AT NEXT ROUND OF NEGOTIATIONS
 - 11/13 20:06 [FirstSquawk] MICROSOFT ON OUTAGE SAYS WE'VE MADE ADDITIONAL PROGRESS TOWARD SERVICE RECOVERY, WITH RECOVERY ACTIONS COMPLETED ACROSS PORTIONS OF THE AFFECTED INFRASTRUCTURE IN THE ASIA PACIFIC REGION
 - 11/13 20:07 [FirstSquawk] MICROSOFT ON OUTAGE SAYS TRAFFIC IS BEING GRADUALLY RESTORED, AND WE'RE SEEING IMPROVEMENTS IN KEY CUSTOMER SCENARIOS
 - 11/13 20:07 [FirstSquawk] MICROSOFT ON OUTAGE SAYS FOCUS IS NOW ON EXTENDING RECOVERY ACTIONS ACROSS AFFECTED INFRASTRUCTURE IN OTHER REGIONS
@@ -389,3 +276,111 @@
 - 11/14 02:29 [financialjuice] Fed's Daly: I wouldn't spend a lot of time on the Summary of Economic Projections, it's just a point in time.
 - 11/14 02:31 [financialjuice] Fed's Daly: FOMC must be transparent, accountable and clear
 - 11/14 02:32 [financialjuice] Fed's Daly: Watching services ex-housing inflation carefully, it's not moving in the right direction
+- 11/14 02:42 [FirstSquawk] EU’S COSTA: TO DISCUSS UKRAINE FINANCIAL NEEDS AT NEXT EU COUNCIL
+- 11/14 02:44 [financialjuice] EC Pres. von der Leyen: We need at least €500 bln investment in computing.
+- 11/14 02:45 [financialjuice] EC Pres. von der Leyen: The next European budget to reflect it, AI ambitions.
+- 11/14 02:46 [financialjuice] Fed's Daly: Businesses are cautiously optimistic, but everyone is worried about inflation
+- 11/14 02:47 [financialjuice] Fed's Daly: Just starting to hear that the consumer may be running out of gas.
+- 11/14 02:48 [FirstSquawk] FED'S DALY: STARTING TO HEAR THE CONSUMER MAY BE RUNNING OUT OF GAS
+- 11/14 02:48 [financialjuice] White House Official: Trump to extend shipping waiver for oil and fertilizer for 90 days
+- 11/14 02:49 [financialjuice] USTR, alongside Treasury, held first official US-China Board of Trade meeting - Statement
+- 11/14 02:52 [financialjuice/FirstSquawk] USTR: Trump Admin looking forward to engagement with China.
+- 11/14 02:55 [DeItaone] TRUMP TO EXTEND SHIPPING WAIVER FOR OIL, FERTILIZER FOR 90 DAYS
+- 11/14 02:57 [FirstSquawk] WHITE HOUSE OFFICIAL: PRESIDENT TRUMP TO EXTEND SHIPPING WAIVER FOR OIL, FERTILIZER FOR 90 DAYS
+- 11/14 02:59 [financialjuice] Microsoft: Seeing broad recovery and stability across services. $MSFT
+- 11/14 03:00 [financialjuice] Microsoft: It was technical issue not related to cyber, or AI agents. $MSFT
+- 11/14 03:01 [financialjuice] US BAKER HUGHES TOTAL RIG COUNT ACTUAL 601 (FORECAST -, PREVIOUS 604) $MACRO
+- 11/14 03:02 [financialjuice] US BAKER HUGHES OIL RIG COUNT ACTUAL 463 (FORECAST -, PREVIOUS 463) $MACRO
+- 11/14 03:08 [financialjuice/DeItaone] BofA economists add third rate hike to Fed view by March 2027.
+- 11/14 03:09 [FirstSquawk] US BAKER HUGHES OIL RIG COUNT ACTUAL 463 (FORECAST -, PREVIOUS 463)
+- 11/14 03:09 [FirstSquawk] US BAKER HUGHES TOTAL RIG COUNT ACTUAL 601 (FORECAST -, PREVIOUS 604)
+- 11/14 03:13 [financialjuice] ❗ Suspected Yen Intervention
+- 11/14 03:46 [financialjuice] Microsoft asked for info about outage by lawmaker - Politico. $MSFT
+- 11/14 03:51 [FirstSquawk] SEC PROPOSES EXECUTIVE AND DIRECTOR COMPENSATION DISCLOSURE REFORMS
+- 11/14 04:08 [financialjuice] WH Sr. Adviser Hassett is expected to depart the White House - Semafor.
+- 11/14 04:10 [financialjuice] Hassett expected to depart White House - Semafor
+- 11/14 04:10 [financialjuice] Nvidia Board: Have not formally engaged any potential CEO candidates, any speculation is premature; in the process of selecting a search firm for the CEO role - CNBC $NVDA
+- 11/14 04:20 [financialjuice] NVIDIA hasn’t selected search firm for Huang's replacement - CNBC. $NVDA
+- 11/14 04:26 [FirstSquawk] LOCAL SOURCES REPORT EXPLOSION SOUNDS NEAR IRAN'S JASK; NO STRIKES REPORTED - IRNA
+- 11/14 04:27 [FirstSquawk] WHITE HOUSE ECONOMIC ADVISER HASSETT EXPECTED TO DEPART IN COMING WEEKS - SEMAFOR
+- 11/14 04:31 [financialjuice] NYMEX WTI Crude December futures settle at $88.56 a barrel, down 18 cents, 0.2%.
+- 11/14 04:31 [financialjuice] NYMEX Natural Gas December futures settle at $3.2300/MMBtu.
+- 11/14 04:31 [financialjuice] NYMEX Gasoline December futures settle at $2.6214 a gallon.
+- 11/14 04:32 [financialjuice] NYMEX Diesel December futures settle at $4.2585 a gallon.
+- 11/14 04:42 [financialjuice] Brent Crude futures settle at $95.84/bbl, up 2 cents, 0.02%.
+- 11/14 04:46 [financialjuice] WH Sr. Adviser Hassett: The report on me leaving the White House is 'not true" - CNBC.
+- 11/14 04:51 [financialjuice] Meta is testing a new prediction-market app with employees - WSJ. $META
+- 11/14 04:52 [financialjuice] Meta Testing New Prediction-Market App With Employees - WSJ $META
+- 11/14 04:55 [financialjuice] IRGC: An American C-130J military transport aircraft landed at Al-Adeed base in Qatar.
+- 11/14 04:56 [financialjuice] OSINTdefender: Initial reports of sirens sounding at several U.S. military bases in the UK, including RAF Mildenhall - Post on X.
+- 11/14 05:02 [financialjuice] Local UK MP Timothy: There is no threat to the public, and the incident is "resolved".
+- 11/14 05:02 [financialjuice] Local UK MP Timothy on RAF Lakenheath alarm: There is no threat to the public, and the incident is "resolved".
+- 11/14 05:03 [financialjuice] The Fed to buy $14 billion of bills for MBS reinvestment
+- 11/14 05:03 [financialjuice] The Fed prolongs pause on reserve management purchases to mid-December
+- 11/14 05:05 [financialjuice] Microsoft: Do not have timing for full recovery yet $MSFT
+- 11/14 05:05 [financialjuice] Microsoft: Still draining queued messages, rebalancing traffic $MSFT
+- 11/14 05:22 [financialjuice] Monday FX Options Expiries
+- 11/14 05:27 [financialjuice] US military said its personnel at RAF Lakenheath in the UK responded to "suspected unauthorised drone activity" on Friday evening - Sky News reporter on X
+- 11/14 05:27 [financialjuice] US Air Force spokesperson: "No personnel, aircraft, or infrastructure were affected" - Sky News reporter on X
+- 11/14 05:32 [financialjuice] Yemen's Houthis: Attacked pumping station at saudi arabia's east-west pipeline
+- 11/14 05:47 [financialjuice] Iran's IRGC navy: Two oil tankers exploded and caught fire after striking naval mines while attempting to transit the Strait of Hormuz - State Media
+- 11/14 05:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 2404.2 MLN NASDAQ 100: 1785.6 MLN DOW 30: 711.1 MLN MAG 7: 606.7 MLN $MACRO
+- 11/14 05:53 [financialjuice] Musk: A petition is underway to reinstate Nvidia's Jensen, and I'm signing it too $NVDA
+- 11/14 05:57 [financialjuice] FAA issues national ground stop - FAA
+- 11/14 05:58 [financialjuice] FAA: National ground stop due to extraordinary circumstances and for reasons of safety
+- 11/14 05:58 [financialjuice] FAA: All departing traffic should remain ground stopped until further notice
+- 11/14 05:58 [financialjuice] FAA: Inbound international flights will be managed on a case-by-case basis
+- 11/14 06:00 [financialjuice] The US government is $694.1b away from the $41.1t borrowing limit as of November 12th - US Treasury
+- 11/14 06:01 [financialjuice] The Fed: AI computing investment has been accelerating, suggesting the pace of the current cycle’s investment may soon surpass the 1990s telecom cycle - Fed Report
+- 11/14 06:01 [financialjuice] Eighty-seven percent of survey respondents cited AI as a salient risk to financial stability - Fed report
+- 11/14 06:01 [financialjuice] Artificial intelligence is the most-cited risk to the financial system in the latest Federal Reserve financial stability report
+- 11/14 06:01 [financialjuice] Advanced computing-related borrowing now accounts for 31% of all nonfinancial investment-grade corporate debt issuance - Fed report
+- 11/14 06:01 [financialjuice] Fiscal debt sustainability rises two spots to fifth on list of financial system risks: Fed report
+- 11/14 06:01 [financialjuice] Several respondents flagged concerns that ongoing deficits and extensive Treasury issuance could prompt disorderly yield increases: Fed report
+- 11/14 06:01 [financialjuice] Advanced-computing-related debt issuance rose to over $680 bln by October 2026, a fivefold increase from 2023 levels - Fed Report
+- 11/14 06:02 [financialjuice] vulnerabilities tied to financial leverage remain 'notable '; hedge fund leverage at highest level since 2013 - Fed Report
+- 11/14 06:02 [financialjuice] Several respondents noted concerns that persistent deficits and heavy treasury issuance could trigger a disorderly rise in yields - Fed report
+- 11/14 06:02 [financialjuice] Fiscal debt sustainability rises 2 spots to fifth on list of risks to financial system - Fed report
+- 11/14 06:03 [financialjuice] Nvidia's weekly decline erases more than $573 billion in value $NVDA
+- 11/14 06:06 [financialjuice] S&P: Italy 'bbb+/a-2' ratings affirmed; Outlook positive
+- 11/14 06:11 [financialjuice] FAA: Ground stop due to ATC frequency issues - Air Current
+- 11/14 06:12 [financialjuice] Soros Fund Management LLC cuts share stake in NVIDIA Corp. by 19.3% to 858,822 shares - SEC filing $NVDA
+- 11/14 06:12 [financialjuice] Trump will meet with Putin and Xi next Thursday in Shenzhen - NYP
+- 11/14 06:13 [financialjuice] Soros Fund Management LLC cuts its stake in Amazon by 10.8% to 1.1 million shares $AMZN
+- 11/14 06:13 [financialjuice] Soros Fund Management LLC cuts share stake in Microsoft Corp. by 35.7% to 122,166 shares - SEC filing $MSFT
+- 11/14 06:16 [financialjuice] FAA: Nationwide departure ground stop due to several impacts to ATC frequencies and/or radar capabilities - The Air Current
+- 11/14 06:17 [financialjuice] Soros Fund Management LLC raises its share stake in Micron Technology by 58.9% to 35,618 shares - SEC filing, and raises its share stake in Intel to 2.8 million shares $INTC $MSCI
+- 11/14 06:17 [financialjuice] FAA: Departures to Chicago O'Hare grounded due to equipment outage.
+- 11/14 06:18 [financialjuice] US Transport Secretary Duffy: We'll provide updates on the FAA ground stop as we have them
+- 11/14 06:18 [financialjuice] US Transportation Secretary Duffy: FAA nationwide ground stop for all US Airports due to a communication issue impacting all air route traffic control centers
+- 11/14 06:21 [financialjuice] S&P 500 Slips as Chipmaker Weakness Overshadows Inflation Data – US Market Wrap
+- 11/14 06:22 [financialjuice] Trump’s AI task force discusses cyber risks - Semafor
+- 11/14 06:23 [financialjuice] Nvidia was not discussed during the AI task force meeting - Semafor
+- 11/14 06:25 [financialjuice] FAA communications issue started in NE and then spread nationwide - CNN
+- 11/14 06:27 [financialjuice] US FAA: Users can expect airborne holding at any and all airports within the national airspace system due to equipment outages
+- 11/14 06:35 [financialjuice/DeItaone] Nearly 7,000 US flights delayed, cancelled due to nationwide groundstop - FlightAware.
+- 11/14 06:45 [DeItaone] FAA HAS NOT GIVEN ANY INDICATION WHEN GROUNDSTOP MIGHT BE LIFTED
+- 11/14 06:49 [financialjuice] FAA ground stop does not appear to be a cyber attack - CNN
+- 11/14 07:01 [financialjuice] US National Weather Service: NWS experiencing nationwide internet and communication disruptions
+- 11/14 07:02 [financialjuice] US National Weather Service: technicians actively working to fix issues promptly
+- 11/14 07:03 [financialjuice] UK Ministry of Defence: coordinating with relevant parties on reports of unauthorized drone activity at RAF Lakenheath this evening
+- 11/14 07:04 [financialjuice] UK Ministry of Defence: USAF security forces acted on reports and situation resolved
+- 11/14 07:04 [financialjuice] DHS Secretary Mullin on nationwide groundstop: not excluding any options at this stage
+- 11/14 07:04 [financialjuice] US FAA: every flight accounted for, international flights handled case by case
+- 11/14 07:04 [financialjuice] UK Ministry of Defence: working closely to establish facts, updates to follow
+- 11/14 07:04 [financialjuice] US FAA: temporary telecom outage leads to precautionary halt of all flights
+- 11/14 07:06 [financialjuice] DHS Secretary Mullin on nationwide groundstop: communication maintained at certain levels
+- 11/14 07:06 [financialjuice] DHS Secretary Mullin on nationwide groundstop: flights accounted for
+- 11/14 07:06 [financialjuice] DHS Secretary Mullin on nationwide groundstop: Trump has been briefed
+- 11/14 07:07 [financialjuice] DHS Secretary Mullin on nationwide groundstop: no cause for public alarm
+- 11/14 07:08 [financialjuice] DHS Secretary Mullin on nationwide groundstop: reviewing all options including new air traffic control system
+- 11/14 07:08 [financialjuice] FBI to investigate if software update triggered widespread FAA outage
+- 11/14 07:09 [financialjuice] FBI: communication issue disrupting air traffic control not result of cyberattack or crime
+- 11/14 07:15 [DeItaone] DHS SECRETARY MULLIN ON NATIONWIDE GROUNDSTOP: NO REASON FOR PUBLIC TO BE AFRAID
+- 11/14 07:16 [DeItaone] *MULLIN SAYS IT WILL TAKE 'SOME TIME' TO RESOLVE FAA ISSUE *MULLIN ON POTENTIAL LINK TO AI: CAN'T RULE ANYTHING OUT *MULLIN: EVERYBODY IS SAFE, FLIGHTS ARE ALL ACCOUNTED FOR
+- 11/14 07:16 [DeItaone] FBI DOESN’T BELIEVE THE COMMUNICATION ISSUE AFFECTING AIR TRAFFIC CONTROL WAS DUE TO A CYBERATTACK OR CRIMINALITY
+- 11/14 07:23 [DeItaone] VERIZON: AT THIS TIME, VERIZON’S NETWORK IS FULLY FUNCTIONING, AND WE ARE NOT AWARE OF ANY ISSUE RELATED TO AIR TRAFFIC CONTROL SYSTEMS
+- 11/14 07:48 [financialjuice] Saudi civil defense issues warning about possible threat in Najran
+- 11/14 07:51 [financialjuice] US FAA outages include air traffic control radar and radio frequencies: CNN
+- 11/14 07:51 [financialjuice] Saudi civil defense: danger has passed in Najran
+- 11/14 07:51 [financialjuice] US FAA: FAA command center ground halt remains in effect
