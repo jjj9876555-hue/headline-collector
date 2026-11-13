@@ -7,201 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-11-13 07:18 JST／対象: 11/13 01:18 〜 11/13 07:18 JST（時刻はすべて日本時間）
+生成: 2026-11-13 11:42 JST／対象: 11/13 05:42 〜 11/13 11:42 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 22 | 11/13 01:19 | 11/13 06:11 | ⚠ 56分（03:03→04:00） |
-| FirstSquawk | 62 | 11/13 01:19 | 11/13 06:45 | ⚠ 50分（02:01→02:51） |
-| financialjuice | 139 | 11/13 01:19 | 11/13 07:09 | 32分（02:03→02:35） |
+| DeItaone | 3 | 11/13 05:56 | 11/13 08:33 | ⚠ 142分（06:11→08:33） |
+| FirstSquawk | 78 | 11/13 05:44 | 11/13 11:31 | ⚠ 71分（06:45→07:56） |
+| financialjuice | 63 | 11/13 05:43 | 11/13 11:30 | ⚠ 50分（08:05→08:56） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 210 行（統合前 226 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 140 行（統合前 144 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/13 01:19 [FirstSquawk] FED'S GOOLSBEE: INFLATION HAS BEEN WELL ABOVE TARGET – YAHOO FINANCE
-- 11/13 01:19 [financialjuice] Huang agrees to testify before Congress before thanksgiving - CNBC. $NVDA
-- 11/13 01:19 [DeItaone] NVIDIA INTERIM CEO KRESS GATHERING EXECUTIVE TEAM TODAY AT HQ - CNBC
-- 11/13 01:20 [financialjuice] Nvidia Interim CEO to gather executive team today at Headquarters - CNBC $NVDA
-- 11/13 01:20 [financialjuice] Nvidia interim CEO Kress gathering executive team today at HQ - CNBC $NVDA
-- 11/13 01:21 [financialjuice] Fed's Goolsbee: Fed should be mindful of signs that the overall economy is overheating
-- 11/13 01:22 [financialjuice] House Democratic Leader Jeffries: Minimum wage must be raised. (Did not cite dollar figure democrats will seek)
-- 11/13 01:23 [FirstSquawk] US HOUSE DEMOCRATIC LEADER JEFFRIES: MINIMUM WAGE MUST BE RAISED; NO FIGURE CITED
-- 11/13 01:25 [financialjuice] Nvidia faces DoJ antitrust probe - Semafor. $NVDA
-- 11/13 01:26 [financialjuice] DoJ probing tech companies Megaspeed and SuperMicro - Semafor. $NVDA
-- 11/13 01:27 [financialjuice] No indication DoJ seeks to charge Huang criminally - Semafor. $NVDA
-- 11/13 01:30 [financialjuice] ❗ IMF: Fed will need to maintain a restrictive monetary policy stance to support disinflation.
-- 11/13 01:30 [financialjuice] IMF supports Fed focus on price stability, willingness to act to bring inflation down.
-- 11/13 01:30 [financialjuice] IMF: US Federal Reserve will need to maintain a restrictive monetary policy stance to support disinflation
-- 11/13 01:31 [financialjuice] IMF: Changes in AI investment would affect US inflation rate, too early to say whether recent developments will impact inflation.
-- 11/13 01:31 [financialjuice] IMF supports the Fed's focus on price stability, willingness to act to bring inflation down
-- 11/13 01:31 [financialjuice] Goldman Sachs 2027 outlook: Goldman Sachs expects global GDP to reach 2.8% in 2027.
-- 11/13 01:32 [financialjuice] US 4-WEEK BILL BID-TO-COVER ACTUAL 2.94 (FORECAST -, PREVIOUS 2.460) $MACRO
-- 11/13 01:32 [financialjuice] US 4-WEEK BILL HIGH YIELD ACTUAL 3.955% (FORECAST -, PREVIOUS 3.890%) $MACRO
-- 11/13 01:32 [financialjuice] Nvidia faces multiple Justice Dept. Probes - Semafor. $NVDA
-- 11/13 01:32 [financialjuice] Goldman Sachs 2027 outlook: Goldman Sachs expects US GDP to reach 2.4% in 2027.
-- 11/13 01:33 [financialjuice] Goldman Sachs 2027 outlook: Expects Euro Area GDP to reach 0.9% in 2027.
-- 11/13 01:33 [financialjuice] US 4-Week Bill Auction High Yield 3.955% Bid-to-cover 2.94 Sells $115 bln Awards 26.54% of bids at high
-- 11/13 01:33 [financialjuice] IMF: Monitoring stock volatility and other developments in AI sector.
-- 11/13 01:37 [financialjuice] Goldman Sachs 2027 outlook: We forecast that nominal global AI investment will rise from $1.1 trln in 2026 to $1.8 trln in 2027, mostly driven by an increase of over $500 bln in hardware spending in the US
-- 11/13 01:37 [FirstSquawk] NVIDIA FACES MULTIPLE JUSTICE DEPT. PROBES, SEMAFOR SAYS
-- 11/13 01:37 [financialjuice] Kremlin: Putin and US envoys that Ukraine peace talks will continue.
-- 11/13 01:38 [financialjuice] Kremlin: Russia made clear NATO cannot expand any further
-- 11/13 01:38 [financialjuice] White House expected in coming days to extend Jones Act waiver on shipping oil and commodities on foreign-flagged ships between US ports -- sources
-- 11/13 01:40 [financialjuice] Goldman Sachs 2027 outlook: Expects S&P 500 index target to reach 8700 in the next 12 months.
-- 11/13 01:40 [financialjuice] Russia's Ushakov: Putin-Trump meeting planned in China - IFX
-- 11/13 01:41 [financialjuice] Goldman Sachs 2027 outlook: Goldman Sachs expects the Stoxx Europe 600 target to reach 700 in the next 12 months $GS
-- 11/13 01:41 [financialjuice] Fed's Goolsbee: Plenty of room for the Fed to discuss policy options
-- 11/13 01:42 [financialjuice] Kremlin: Russia ready to start security talks immediately - IFX
-- 11/13 01:43 [financialjuice] ECB's Vujcic: France needs credible fiscal adjustment.
-- 11/13 01:43 [financialjuice] Fed's Goolsbee: Do not want to prejudge what happens with monetary policy
-- 11/13 01:43 [DeItaone] FED'S GOOLSBEE: FED IS FAILING ON THE INFLATION SIDE OF MANDATE
-- 11/13 01:43 [financialjuice] Fed's Goolsbee: Fed is failing on the inflation side of the mandate
-- 11/13 01:44 [financialjuice] ‼ BREAKING: Suspected Yen Intervention
-- 11/13 01:47 [FirstSquawk] US SENATE FINANCE, HOUSE TAX COMMITTEES TO LAUNCH INVESTIGATION INTO TRUMP ADMIN’S APPROVAL OF NVIDIA CHIP EXPORTS TO CHINA - LETTER FROM LAWMAKERS
-- 11/13 01:55 [financialjuice] US probing if Alice Huang helped smuggle Super Micro products. $NVDA $SMCI
-- 11/13 01:57 [financialjuice] Claude: Launching Claude for manufacturing.
-- 11/13 01:57 [FirstSquawk] YEMEN'S HOUTHIS SAY THEY ATTACKS OIL FACILITY IN SAUDI ARABIA'S YANBU
-- 11/13 01:57 [financialjuice] Yemen's Houthis: We attacked pumping station in Saudi Arabia's east-west pipeline.
-- 11/13 01:58 [financialjuice] Yemen's Houthis: We attacked oil facility in Saudi Arabia's Yanbu
-- 11/13 01:58 [FirstSquawk/DeItaone] FED UPDATES 2027 FOMC CALENDAR, DROPS OCTOBER RATE MEETING
-- 11/13 01:59 [financialjuice] The FED updates the 2027 FOMC calendar, drops the October rate meeting
-- 11/13 02:00 [FirstSquawk] US CRUDE OIL INVENTORIES ACTUAL: 4657K VS -865K PREVIOUS; EST -852.60K
-- 11/13 02:00 [financialjuice] EIA DISTILLATE INVENTORIES ACTUAL 4.071M (FORECAST -2M, PREVIOUS -3.565M) $MACRO
-- 11/13 02:00 [financialjuice] EIA GASOLINE INVENTORIES ACTUAL 1.799M (FORECAST -0.35M, PREVIOUS -0.222M) $MACRO
-- 11/13 02:00 [financialjuice] EIA CRUDE OIL INVENTORIES ACTUAL 4.657M (FORECAST -1.483M, PREVIOUS -0.865M) $MACRO
-- 11/13 02:00 [financialjuice] Democratic lawmakers to probe US approval of chip exports - CNBC
-- 11/13 02:00 [financialjuice] EIA CRUDE CUSHING INVENTORIES ACTUAL 0.106M (FORECAST -, PREVIOUS 0.280M) $MACRO
-- 11/13 02:01 [FirstSquawk] YEMEN'S HOUTHIS SPOX: ATTACKED PUMPING STATION IN SAUDI ARABIA'S EAST-WEST PIPELINE
-- 11/13 02:01 [financialjuice] US 30-yr fixed rate mortgage averages 7.11% in Nov 12 week vs 7.18% prior week - Freddie Mac
-- 11/13 02:02 [financialjuice] EIA Weekly Inventories
-- 11/13 02:02 [financialjuice] Democrats seek Commerce Dept. communications with Huang - CNBC. $NVDA
-- 11/13 02:03 [financialjuice] Democrats: We'll probe Nvidia chip export approvals - CNBC $NVDA
-- 11/13 02:03 [DeItaone] US MORTGAGE RATES FALL FOR FOURTH STRAIGHT WEEK TO 7.11% US 30-year fixed mortgage rates declined to 7.11% from 7.18%, marking their fourth consecutive weekly drop and the lowest level in seven weeks, according to Freddie Mac. The 15-year f…
-- 11/13 02:35 [financialjuice] Fitch Ratings: US consumer spending strengthens amid affordability strain; market downturn key risk
-- 11/13 02:44 [DeItaone] CHINA PLANS $15 BILLION SHIPPING INSURANCE RIVAL TO LLOYD'S OF LONDON Beijing is exploring a $15 billion maritime insurance and reinsurance hub by 2029, challenging Western dominance of global shipping coverage. The proposed system would pr…
-- 11/13 02:45 [DeItaone] JENSEN HUANG HAS HIRED THE LAW FIRM PAUL WEISS AND ITS LITIGATORS MELINDA HAAG AND WALTER BROWN - NYT
-- 11/13 02:45 [financialjuice] Fed bids for 30-Year bond total $5.1 bln
-- 11/13 02:46 [financialjuice] Beijing Is Trying to Build a Chinese Rival for Insuring World Shipping -- WSJ
-- 11/13 02:47 [financialjuice] China in talks for $15 bln funds for insurance hub - WSJ
-- 11/13 02:47 [DeItaone] RETAIL INVESTORS POUR $111 MILLION INTO NVIDIA IN JUST 30 MINUTES Retail investors bought $111 million of Nvidia ($NVDA ) shares in the first 30 minutes of Thursday's session, the largest opening half-hour of retail buying on record for the…
-- 11/13 02:48 [DeItaone] https://t.me/boost/WalterBloomberg
-- 11/13 02:51 [FirstSquawk] BEIJING IS TRYING TO BUILD A CHINESE RIVAL FOR INSURING WORLD SHIPPING, WITH CHINA IN TALKS FOR $15 BLN IN FUNDS FOR AN INSURANCE HUB - WSJ
-- 11/13 02:54 [FirstSquawk] U.S. OFFICIAL SAYS CENTCOM HAS TOLD ISRAEL TO PREPARE FOR A POSSIBLE WAR RESUMPTION - KAN NEWS
-- 11/13 02:57 [FirstSquawk] U.S. ALSO SENT SIMILAR MESSAGES TO GULF STATES, A SOURCE TELLS KAN NEWS
-- 11/13 03:00 [financialjuice] Treasury WI 30 Yr yield 5.437% before $25 billion auction
-- 11/13 03:02 [financialjuice] US 30-YEAR BOND HIGH YIELD ACTUAL 5.441% (FORECAST -, PREVIOUS 5.618%) $MACRO
-- 11/13 03:02 [financialjuice] US 30-YEAR BOND BID-TO-COVER ACTUAL 2.360 (FORECAST -, PREVIOUS 2.540) $MACRO
-- 11/13 03:02 [financialjuice] US 30 Yr Note Auction High Yield 5.441% [Tail 0.4 BPS] Bid-to-cover 2.36 Sells $25 bln Awards 21.29% of bids at high Primary Dealers take 11.39% Direct 20.5% Indirect 68.11%
-- 11/13 03:03 [FirstSquawk] YEMEN'S HOUTHIS: ATTACKED ARAMCO BUILDING IN RIYADH
-- 11/13 03:03 [DeItaone] US 30-YEAR TREASURY AUCTION TAILS AS DEMAND WEAKENS The US 30-year Treasury auction cleared at 5.441%, above the 5.437% when-issued yield, producing a 0.4-basis-point tail despite a sharp decline from the previous auction's 5.618% yield. Th…
-- 11/13 03:05 [financialjuice] Google brings Gemini 4 Hydrogen to search globally. Adds visual, table-based AI responses $GOOGL
-- 11/13 03:05 [FirstSquawk] AFGHAN AND RUSSIAN PRIVATE SECTORS HAVE SIGNED 15 ECONOMIC COOPERATION MOUS WORTH $103 MLN - AFGHAN GOVERNMENT
-- 11/13 03:06 [financialjuice] Google: Gemini 4 Hydrogen biggest model upgrade to search yet. $GOOGL
-- 11/13 03:06 [FirstSquawk] USER REPORTS INDICATE MICROSOFT OUTLOOK IS DOWN FOR OVER 39,000 USERS IN THE U.S., WITH MICROSOFT 365, COPILOT AND THE MICROSOFT STORE ALSO DOWN FOR THOUSANDS OF USERS - DOWNDETECTOR
-- 11/13 03:13 [financialjuice] Fed's Daly: Economy being driven by technology boom
-- 11/13 03:15 [financialjuice] White House discussing Lutnick's future as Commerce Secretary - people familiar.
-- 11/13 03:16 [FirstSquawk] WHITE HOUSE IS DISCUSSING HOWARD LUTNICK’S FUTURE AS COMMERCE SECRETARY - SOURCES CITING PEOPLE FAMILIAR
-- 11/13 03:16 [financialjuice] Fed's Daly: No doubt of AI-fueled price pressures.
-- 11/13 03:17 [FirstSquawk] U.S. OFFICIAL SAYS IRAN ADDED NEW DEMANDS AND “OVERREACHED” - I24
-- 11/13 03:17 [FirstSquawk] UK IS ON THE CUSP OF A HISTORIC EU DEAL AS OPTIMISM GROWS - IPAPER
-- 11/13 03:17 [financialjuice] Fed's Daly: AI is contributing directly only a modest amount to inflation.
-- 11/13 03:19 [financialjuice] Fed's Daly: AI having limited impact on labor market.
-- 11/13 03:19 [financialjuice] Fed's Daly: We have an inflation problem, but AI is not doing most of the driving.
-- 11/13 03:20 [financialjuice] Fed's Daly: There is risk AI could contribute more to inflation.
-- 11/13 03:20 [FirstSquawk] FED’S DALY SAYS THE ECONOMY IS BEING DRIVEN BY A TECHNOLOGY BOOM AND THAT THERE IS NO DOUBT OF AI-FUELED PRICE PRESSURES, THOUGH AI IS CONTRIBUTING DIRECTLY ONLY A MODEST AMOUNT TO INFLATION
-- 11/13 03:21 [FirstSquawk] FED'S DALY SAYS THERE IS AN INFLATION PROBLEM BUT AI IS NOT DOING MOST OF THE DRIVING, THAT THERE IS A RISK AI COULD CONTRIBUTE MORE TO INFLATION, AND THAT AI IS HAVING A LIMITED IMPACT ON THE LABOR MARKET, WITH A DEEP AI PIPELINE THAT CONT…
-- 11/13 03:21 [financialjuice] Fed's Daly: There has been repricing in AI valuations, but it's not the unwinding of interest or enthusiasm.
-- 11/13 03:23 [financialjuice] Fed's Daly: That suggests there's not a risk to growth.
-- 11/13 03:24 [financialjuice] Fed's Daly: There is positive momentum for productivity growth.
-- 11/13 03:25 [financialjuice] Fed's Daly: A lot of work being done that we might see more productivity growth in next 1-3 years.
-- 11/13 03:25 [financialjuice] Fed's Daly: it's too early to say when AI productivity impact will arrive.
-- 11/13 03:28 [financialjuice] Fed's Daly: Stable labor market, positive growth and productivity growth, and high inflation.
-- 11/13 03:29 [financialjuice] Fed's Daly: We have to focus on bringing inflation down.
-- 11/13 03:29 [financialjuice] Fed's Daly: Just because we have to fight inflation problem now doesn't mean we should ignore potential that productivity growth could be disinflationary.
-- 11/13 03:30 [financialjuice] Fed's Schmid does not comment on outlook or monetary policy.
-- 11/13 03:30 [financialjuice] Fed's Schmid Materials and labor costs may worsen housing affordability.
-- 11/13 03:34 [financialjuice] Fed's Daly: Inflation shocks can compound, we can't be complacent.
-- 11/13 03:34 [financialjuice] Fed's Daly: Bias is that further tightening will be needed.
-- 11/13 03:35 [financialjuice] Fed's Daly: Inflation is bleeding into services. Once services inflation rises it's sticky.
-- 11/13 03:36 [financialjuice] Fed's Daly: Inflation pressure is up, not down.
-- 11/13 03:37 [financialjuice] Fed's Daly: I increasingly hear firms say going to pass on higher costs.
-- 11/13 03:37 [financialjuice] Fed's Daly: But markets don't do the work of the Fed. Keeping prices stable is the job of the Fed.
-- 11/13 03:38 [financialjuice] Fed's Daly: Financial markets are in alignment with where Fed needs to be.
-- 11/13 03:38 [financialjuice] Fed's Daly: Tighter financial conditions give us more time to make decisions.
-- 11/13 03:39 [financialjuice] Fed's Daly: Markets are assisting.
-- 11/13 03:39 [financialjuice] Fed's Daly: Exactly how much Fed tightening and when is a decision we don't need to make now.
-- 11/13 03:39 [financialjuice] Fed's Daly: We have many many quarters to make policy decisions.
-- 11/13 03:40 [financialjuice/FirstSquawk] Explosion heard in Iran's Sirik - Fars News
-- 11/13 03:42 [financialjuice] Nature of explosions not yet known, some sources said these sounds are caused by warning shots towards the offending ships - Fars News
-- 11/13 03:43 [financialjuice] Fed's Daly: You can slow the economy and still have good growth.
-- 11/13 03:43 [FirstSquawk] FED’S DALY SAYS THE U.S. HAS A STABLE LABOR MARKET, POSITIVE GROWTH, PRODUCTIVITY GROWTH AND HIGH INFLATION, AND THAT THE FED HAS TO FOCUS ON BRINGING INFLATION DOWN, WARNING THAT INFLATION IS BLEEDING INTO SERVICES AND THAT ONCE SERVICES I…
-- 11/13 03:43 [FirstSquawk] FED’S DALY SAYS INFLATION PRESSURE IS UP, NOT DOWN, THAT SHE INCREASINGLY HEARS FIRMS SAY THEY WILL PASS ON HIGHER COSTS, AND THAT INFLATION SHOCKS CAN COMPOUND SO THE FED CANNOT BE COMPLACENT, ADDING SHE IS COMFORTABLE WITH THE SEPTEMBER H…
-- 11/13 03:43 [FirstSquawk] FED’S DALY SAYS THE FED HAS MANY QUARTERS TO MAKE POLICY DECISIONS AND THAT EXACTLY HOW MUCH TIGHTENING AND WHEN IS A DECISION IT DOESN’T NEED TO MAKE NOW, WITH TIGHTER FINANCIAL CONDITIONS GIVING MORE TIME AND MARKETS IN ALIGNMENT WITH WHE…
-- 11/13 03:43 [FirstSquawk] FED’S DALY SAYS IT IS TOO EARLY TO SAY WHEN THE AI PRODUCTIVITY IMPACT WILL ARRIVE BUT THERE IS POSITIVE MOMENTUM FOR PRODUCTIVITY GROWTH, WITH A LOT OF WORK SUGGESTING MORE PRODUCTIVITY GROWTH IN THE NEXT 1-3 YEARS, AND THAT THE FIGHT AGAI…
-- 11/13 03:43 [FirstSquawk] FED’S SCHMID SAYS MATERIALS AND LABOR COSTS MAY WORSEN HOUSING AFFORDABILITY, AND DOES NOT COMMENT ON THE OUTLOOK OR MONETARY POLICY
-- 11/13 03:46 [financialjuice/FirstSquawk] Nasdaq trading services is investigating issues with its email system
-- 11/13 03:46 [financialjuice] Fed's Schmid: Fed still hasn't beat the inflation enemy.
-- 11/13 03:48 [financialjuice] Fed's Daly: We are in a perfect storm for hiring.
-- 11/13 03:49 [financialjuice] Fed's Daly: AI, uncertainty and rising input costs are all dampening hiring.
-- 11/13 03:55 [FirstSquawk] MICROSOFT: BEGUN REDISTRIBUTING CONNECTION TRAFFIC ACROSS OUR BROADER WORLDWIDE INFRASTRUCTURE TO HELP BALANCE THE LOAD.
-- 11/13 03:57 [financialjuice] New Nvidia CEO plans company meeting next Wednesday - WSJ. $NVDA
-- 11/13 03:58 [FirstSquawk] NEW NVIDIA CEO PLANS COMPANY MEETING NEXT WEDNESDAY - WSJ.
-- 11/13 03:58 [FirstSquawk] US FEDERAL BUDGET BALANCE ACTUAL -404.064B (FORECAST -317.5B, PREVIOUS -27.00B)
-- 11/13 03:58 [financialjuice] US FEDERAL BUDGET BALANCE ACTUAL -404.064B (FORECAST -317.5B, PREVIOUS -27.00B) $MACRO
-- 11/13 04:00 [DeItaone] NVIDIA'S NEW CEO TO ADDRESS EMPLOYEES AFTER EARNINGS Nvidia ($NVDA ) interim CEO Colette Kress will hold a company-wide meeting on Wednesday, November 18, at 12 PM ET, the morning after Nvidia's quarterly earnings report. In a memo followin…
-- 11/13 04:01 [financialjuice/FirstSquawk] US Oct budget outlays $773 bln vs $689 bln in Oct 2025. Receipts $369 bln vs $404 bln in Oct 2025.
-- 11/13 04:01 [financialjuice/FirstSquawk] US October net customs receipts $19.22 bln vs $31.35 bln in October 2025.
-- 11/13 04:01 [DeItaone] US OCTOBER BUDGET DEFICIT HITS RECORD $404 BILLION The US federal budget deficit surged to $404 billion in October, up 42% from $284 billion a year earlier, according to the Treasury. Government spending jumped to a record $773 billion, ver…
-- 11/13 04:02 [DeItaone/financialjuice] IRNA: ATTACK ON SOUTHERN IRAN'S SIRIK
-- 11/13 04:04 [financialjuice] IRNA: Iran's Sirik in Hormozgan hit by ‘enemy’ fire.
-- 11/13 04:05 [financialjuice] IRNA: The attack on Sirik was 'military' in nature.
-- 11/13 04:06 [FirstSquawk] IRAN’S IRNA SAYS SIRIK IN HORMOZGAN, SOUTHERN IRAN, HAS BEEN HIT BY “ENEMY” FIRE, WITH THE ATTACK “MILITARY” IN NATURE
-- 11/13 04:06 [DeItaone] WHITE HOUSE DISCUSSING HOWARD LUTNICK'S FUTURE AS COMMERCE SECRETARY - PEOPLE FAMILIAR
-- 11/13 04:07 [DeItaone] WHITE HOUSE DISCUSSES OUSTING COMMERCE SECRETARY LUTNICK AMID NVIDIA SCANDAL Senior White House officials are discussing whether Commerce Secretary Howard Lutnick should be removed, according to two people familiar with the matter. Lutnick …
-- 11/13 04:08 [financialjuice/FirstSquawk] Super Micro: Has been voluntarily providing information, engaging with all requests from Singapore authorities to date; has been responsive to inquiries and fully cooperated with US and Taiwanese officials - Semafor Reporter. $SMCI
-- 11/13 04:09 [financialjuice] Fed's Schmid: The Fed has to get inflation down to the mandated 2% goal.
-- 11/13 04:09 [DeItaone] DEMOCRATIC SENATOR REED SAYS CONGRESS NEEDS ASSESSMENT OF WHETHER NVIDIA IS "TOO BIG TO FAIL," AND HOW IT COULD IMPACT BANKING SYSTEM -STATEMENT
-- 11/13 04:10 [financialjuice] Democratic Senator Reed: Congress needs an assessment of whether Nvidia is "too big to fail" and how it could impact the banking system - statement. $NVDA
-- 11/13 04:12 [DeItaone] JENSEN HUANG'S ALLEGED AFFAIR WAS INTRODUCED BY THE WOMAN'S HUSBAND Chinese businessman Kang Wei reportedly introduced Nvidia ($NVDA) co-founder Jensen Huang to his wife, Alice Huang, with whom the former CEO later had an affair. According …
-- 11/13 04:13 [FirstSquawk] DEMOCRATIC SENATOR REED: CONGRESS NEEDS AN ASSESSMENT OF WHETHER NVIDIA IS "TOO BIG TO FAIL" AND HOW IT COULD IMPACT THE BANKING SYSTEM - STATEMENT.
-- 11/13 04:15 [DeItaone] OIL FUTURES EXTEND GAINS AFTER IRAN'S STATE NEWS AGENCY IRNA REPORTS ENEMY STRIKE ON IRAN; WTI LAST UP 2.36%, BRENT LAST UP 3%
-- 11/13 04:24 [financialjuice] Super Micro denies Megaspeed has ever been a customer - Semafor. $SMCI
-- 11/13 04:25 [financialjuice] Former NVIDIA CEO Huang had an intimate relationship with a second employee - Sources. $NVDA
-- 11/13 04:31 [financialjuice] NYMEX WTI Crude December futures settle at $88.74 a barrel, up $2.21, 2.55%.
-- 11/13 04:32 [financialjuice] NYMEX Natural Gas December futures settle at $3.3400/MMBtu.
-- 11/13 04:32 [financialjuice] NYMEX Gasoline December futures settle at $2.6708 a gallon.
-- 11/13 04:32 [financialjuice] NYMEX Diesel December futures settle at $4.2865 a gallon.
-- 11/13 04:36 [FirstSquawk] FORMER NVIDIA CEO HUANG HAD AN INTIMATE RELATIONSHIP WITH A SECOND EMPLOYEE - SOURCES.
-- 11/13 04:46 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 3.3% HIGHER AT $95.82/BBL, UP $3.06
-- 11/13 04:47 [financialjuice] Brent Crude futures settle at $95.82/bbl, up $3.06, 3.3%.
-- 11/13 04:54 [DeItaone] FORMER NVIDIA CEO JENSEN HUANG HAD AN INTIMATE RELATIONSHIP WITH A SECOND EMPLOYEE, SOURCES SAY
-- 11/13 05:02 [DeItaone] OUSTED NVIDIA CEO JENSEN HUANG LINKED TO THIRD AFFAIR, REUTERS REPORTS Former Nvidia ($NVDA) CEO Jensen Huang had an intimate relationship with another company employee, according to two sources cited by Reuters. The revelation follows two …
-- 11/13 05:08 [financialjuice] Trump: I intend to use the veto, but deals can be cut - Hugh Hewitt Show
-- 11/13 05:09 [DeItaone] *SPACEX AND TESLA MERGER DISCUSSIONS ARE SAID TO PROGRESS
-- 11/13 05:10 [financialjuice] SpaceX and Tesla merger discussions progress, advisers discussing terms; deal could be announced as early as December but could slip to '27. $SPCX $TSLA
-- 11/13 05:11 [financialjuice] Trump on Huang: What a horrible thing that is, sad to see
-- 11/13 05:12 [financialjuice/FirstSquawk] Alice Huang owned stakes in Chinese businesses that benefited Huawei - CNBC
-- 11/13 05:14 [financialjuice] Trump on China Espionage: It goes both ways, we do it well too, it's reciprocal
-- 11/13 05:18 [financialjuice/FirstSquawk] US Military officer arrested in the UK was detained in a sting operation, sources say - WSJ
-- 11/13 05:18 [FirstSquawk] TRUMP, ON CHINA ESPIONAGE, SAYS "IT GOES BOTH WAYS, WE DO IT WELL TOO, IT'S RECIPROCAL," AND, ON HUANG, SAYS "WHAT A HORRIBLE THING THAT IS, SAD TO SEE" TRUMP SAYS HE INTENDS TO USE THE VETO BUT THAT DEALS CAN BE CUT
-- 11/13 05:18 [FirstSquawk] REPORTS TRAFIGURA IS ‘KEY PLAYER’ IN LME ALUMINIUM SQUEEZE CHINA TRADE; HAS BUILT SIGNIFICANT LONG POSITION
-- 11/13 05:19 [FirstSquawk] SPACEX AND TESLA MERGER DISCUSSIONS PROGRESS, ADVISERS DISCUSSING TERMS; DEAL COULD BE ANNOUNCED AS EARLY AS DECEMBER BUT COULD SLIP TO '27.
-- 11/13 05:22 [FirstSquawk] MICROSOFT SAYS A PORTION OF ITS INFRASTRUCTURE IS EXPERIENCING ELEVATED LOAD ACROSS MULTIPLE REGIONS, LIKELY CONTRIBUTING TO CONNECTIVITY ERRORS, AND THAT THE ELEVATED LOAD IS DRIVEN NOT BY AN INCREASE IN TRAFFIC BUT BY A NUMBER OF SERVERS …
-- 11/13 05:22 [FirstSquawk] MICROSOFT SAYS IT HAS BEGUN REDISTRIBUTING CONNECTION TRAFFIC ACROSS ITS BROADER WORLDWIDE INFRASTRUCTURE, PAUSED ALL DEPLOYMENTS, INITIATED A RESTART OF ALL AFFECTED SERVERS AND TAKEN STEPS TO PREVENT ADDITIONAL SERVERS FROM BEING IMPACTED…
-- 11/13 05:26 [financialjuice] Friday FX Option Expiries
-- 11/13 05:28 [financialjuice] Trump: Possibly, I would use military force in Iran if needed
-- 11/13 05:28 [financialjuice] Trump: The US has fought with Iran at a rapid pace for the last 3 weeks
-- 11/13 05:29 [financialjuice] Trump: I want to get Cuba done before I leave.
-- 11/13 05:30 [financialjuice] Trump: I would consider a week-long campaign against Cuba.
-- 11/13 05:31 [financialjuice] Trump asked if military force is possible in Cuba: Would consider
-- 11/13 05:39 [FirstSquawk] TRUMP, ASKED IF MILITARY FORCE IS POSSIBLE IN CUBA, SAYS HE WOULD CONSIDER IT AND WOULD CONSIDER A WEEK-LONG CAMPAIGN AGAINST CUBA, ADDING “I WANT TO GET CUBA DONE BEFORE I LEAVE”
-- 11/13 05:39 [FirstSquawk] TRUMP SAYS THE U.S. HAS FOUGHT WITH IRAN AT A RAPID PACE FOR THE LAST THREE WEEKS, AND THAT HE WOULD POSSIBLY USE MILITARY FORCE IN IRAN IF NEEDED
 - 11/13 05:43 [financialjuice] US AG Blanche: The Justice Department has not yet concluded whether Alice Huang was a Chinese spy. $NVDA
 - 11/13 05:44 [FirstSquawk] US AG BLANCHE: THE JUSTICE DEPARTMENT HAS NOT YET CONCLUDED WHETHER ALICE HUANG WAS A CHINESE SPY.
 - 11/13 05:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: -86.3 MLN NASDAQ 100: 265.8 MLN DOW 30: -29.0 MLN MAG 7: -230.0 MLN $MACRO
@@ -234,3 +56,111 @@
 - 11/13 06:45 [FirstSquawk] THE DOJ IS TO SEIZE $1.2 BLN WORTH OF CRYPTOCURRENCY STOLEN FROM BINANCE, REPORTING ACTIONS TO DISRUPT NORTH KOREA’S CRYPTOCURRENCY THEFT
 - 11/13 07:06 [financialjuice] Zelenskiy: we will have more meetings, hope to work on de-escalation and ceasefires
 - 11/13 07:09 [financialjuice] Drone debris sparks fire at industrial plant in Russia's Volgograd: Russian newswires quote governor
+- 11/13 07:30 [financialjuice] Nscale Limited: expands cloud in H2 2026 with multiple multi-billion dollar deals involving AI native and Frontier Model Lab clients
+- 11/13 07:34 [financialjuice] nscale limited as of Sept. 30 expects total capital spending of about $19 billion to $21 billion to finish development of contracted data center sites
+- 11/13 07:56 [FirstSquawk] NSCALE LIMITED, AS OF SEPTEMBER 30, EXPECTS TOTAL CAPITAL SPENDING OF ABOUT $19 BLN TO $21 BLN TO FINISH DEVELOPMENT OF CONTRACTED DATA CENTER SITES
+- 11/13 07:56 [FirstSquawk] NSCALE SAYS IT EXPANDED ITS CLOUD IN H2 2026 WITH MULTIPLE MULTI-BILLION-DOLLAR DEALS INVOLVING AI-NATIVE AND FRONTIER MODEL LAB CLIENTS
+- 11/13 08:02 [FirstSquawk] CANADA’S INDUSTRY MINISTER JOLY SAYS STELLANTIS IS IN DEFAULT OF A CANADIAN FUNDING AGREEMENT AND ON THE HOOK FOR HUNDREDS OF MILLIONS, ADDING THAT CANADIAN AND ONTARIO MINISTERS WILL MEET THE STELLANTIS GLOBAL CEO
+- 11/13 08:05 [financialjuice] Microsoft on outage: returning part of impacted servers to service, stability maintained so far
+- 11/13 08:05 [financialjuice] Microsoft on outage: also diverting traffic to alternative routes where possible and noting partial recovery
+- 11/13 08:05 [financialjuice] Microsoft: as capacity returns, users might see a slow recovery as clients reconnect
+- 11/13 08:05 [financialjuice] Microsoft on outage: we have simplified process to restore remaining affected servers to service
+- 11/13 08:33 [DeItaone] TRUMP ON JENSEN HUANG: SPOKE TO HIM ON WEDNESDAY -STRAIGHT SHOOTER PODCAST
+- 11/13 08:56 [financialjuice] Fed's Williams: economy resilient and growth robust
+- 11/13 08:56 [financialjuice] Fed's Williams: US economy strengthening but not overheating
+- 11/13 08:56 [financialjuice] Fed's Williams: inflation remains too elevated
+- 11/13 08:58 [financialjuice] Fed's Williams: inflation remains stubbornly persistent and elevated
+- 11/13 08:58 [financialjuice] Fed's Williams: central bank has maintained consistent pace of gathering data
+- 11/13 08:58 [financialjuice] Fed's Williams: central bank will have to act over time to bring inflation back to 2%
+- 11/13 08:59 [financialjuice] Fed's Williams: central bank still has work to do to reach right monetary policy stance
+- 11/13 09:02 [financialjuice] Senate banking chairman calls Jensen Huang, Howard Lutnick to testify over Nvidia saga - Politico
+- 11/13 09:08 [financialjuice] Microsoft on outage: servers returned
+- 11/13 09:08 [financialjuice] Service may become unresponsive again after receiving traffic
+- 11/13 09:09 [financialjuice] Microsoft on outage: temporarily restricting certain traffic types to affected infrastructure in some areas
+- 11/13 09:09 [financialjuice] Microsoft on outage: servers restored to service may become unresponsive again when receiving traffic
+- 11/13 09:09 [financialjuice] Fed's Williams: monetary policy aims at inflation, not price levels
+- 11/13 09:10 [financialjuice] Fed's Williams: attempting to reduce overall price levels may cause poor economic conditions
+- 11/13 09:11 [FirstSquawk] Microsoft Says Servers Brought Back Online May Experience Further Disruptions When Traffic Resumes
+- 11/13 09:12 [FirstSquawk] TRUMP, ON IRAN, SAYS QATAR, UAE AND BAHRAIN PREFER A WAITING PERIOD, THAT ENDING THE WAR IS TAKING LONGER AT THE REQUEST OF SOME NATIONS, AND THAT THOSE NATIONS ASKED HIM TO WAIT THOUGH HE IS UNSURE HE AGREES, ADDING HE IS ENDING THE IRAN W…
+- 11/13 09:12 [FirstSquawk] TRUMP SAYS GAS PRICES SEEMED TO HAVE THE BIGGEST IMPACT ON THE MIDTERMS, AND THAT THE IRAN WAR MAY HAVE BEEN UNPOPULAR BECAUSE OF GAS PRICES
+- 11/13 09:12 [FirstSquawk] TRUMP, ON JENSEN HUANG, SAYS HE WILL “LAND ON HIS FEET” AND HAS TREMENDOUS TALENT, AND THAT HE DOES NOT KNOW WHETHER THE WOMAN HAS BEEN DETERMINED TO BE A SPY, ADDING HE CAN DEFEND WHITE HOUSE CHIEF OF STAFF STEPHEN MILLER’S RECORD
+- 11/13 09:12 [FirstSquawk] Fed's Williams Says The Fed's Policy Framework Targets Inflation Instead Of Reversing Changes In Overall Prices
+- 11/13 09:12 [FirstSquawk] Fed's Williams: Trying To Push Overall Prices Lower Risks Creating Economic Disruptions
+- 11/13 09:13 [FirstSquawk] Two-Year US Treasury Yield Advances To Its Highest Level In One Month At 4.8920%
+- 11/13 09:13 [FirstSquawk] Japan's 5-Year Bond Yield Advances 7 Bps To 2.265%
+- 11/13 09:16 [FirstSquawk] SOUTH KOREA'S PRESIDENT LEE TO MEET THAI PRIME MINISTER AND PHILIPPINE PRESIDENT ON NOVEMBER 16 DURING ASEAN SUMMIT – BLUE HOUSE
+- 11/13 09:16 [financialjuice] Trump urged Nvidia’s Jensen Huang to fight for his position: New York Times
+- 11/13 09:16 [FirstSquawk] Nvidia's Jensen Huang Hit By Personal Revelations Over Reported Extramarital Affairs – FT
+- 11/13 09:17 [FirstSquawk] Japan's 10-Year Bond Yield Advances 7 Bps To 2.860%
+- 11/13 09:18 [FirstSquawk] Roblox Leverages Its Japan Playbook To Drive Growth In Asia-Pacific Gaming Industry - NA
+- 11/13 09:19 [FirstSquawk] NYT: Trump Pressed Nvidia's Jensen Huang To Fight To Maintain His Standing
+- 11/13 09:21 [FirstSquawk] Nvidia Scandal Widens, Drawing Increased Scrutiny From US Lawmakers Over Howard Lutnick – FT
+- 11/13 09:22 [FirstSquawk] White House Advances CFTC And SEC Appointments By Sending Nominees To Senate - RTRS
+- 11/13 09:23 [FirstSquawk] Japan's Akazawa Says Government Will Closely Monitor Nvidia Situation Given Its Importance To Domestic AI Chip Industry
+- 11/13 09:23 [financialjuice] Japan industry minister Akazawa: Nvidia crucial for Japan's AI chip sector, will keep monitoring situation
+- 11/13 09:24 [financialjuice] China PBOC seen setting yuan midpoint at 6.6756 per dollar: estimate
+- 11/13 09:26 [financialjuice] Jared Kushner: working toward largest prisoner swap of war
+- 11/13 09:27 [FirstSquawk] ASIAN EQUITIES OPEN MIXED AS NVIDIA-RELATED UNCERTAINTY AND JENSEN HUANG'S RESIGNATION WEIGH ON MARKET SENTIMENT
+- 11/13 09:27 [financialjuice] Jared Kushner on russia-ukraine talks: Both sides agree to widen next round of negotiations to include European partners
+- 11/13 09:28 [FirstSquawk] Trump Encouraged Nvidia's Jensen Huang To Stand His Ground And Fight For His Job – NYT
+- 11/13 09:28 [FirstSquawk] Jared Kushner Says Negotiations Are Ongoing For The Largest Prisoner Exchange In The Conflict
+- 11/13 09:28 [FirstSquawk] Jared Kushner Confirms European Partners Will Join The Next Round Of Russia-Ukraine Peace Talks
+- 11/13 09:36 [financialjuice] Japan finmin katayama: to advance utility subsidies for winter, using reserve funds
+- 11/13 09:36 [financialjuice] Fed's Williams: US has economic tools to manage debt levels, political will needed for solution
+- 11/13 09:37 [FirstSquawk] TRUMP SAYS LILLY HAS BROKEN GROUND IN PENNSYLVANIA’S LEHIGH VALLEY ON A $3.5 BLN SITE TO MAKE NEXT-GENERATION OBESITY MEDICINES, THE LATEST OF 10 NEW U.S. SITES SINCE 2020 - TRUTH SOCIAL
+- 11/13 09:37 [financialjuice] Japan finmin Katayama: observing one-sided, swift forex shifts recently
+- 11/13 09:37 [financialjuice] Japan finmin katayama: will engage with US treasury, respond suitably
+- 11/13 09:40 [financialjuice] Japan finmin Katayama: US, Japan align on forex policy at summit
+- 11/13 09:40 [financialjuice] Japan finance minister katayama: declines to comment on intervention record
+- 11/13 09:41 [financialjuice] Fed's Williams: All investment levels can react to shifts in interest rates
+- 11/13 09:43 [FirstSquawk] Japan Decides To Advance Winter Energy Subsidies, With Funding To Come From Government Reserves
+- 11/13 09:43 [FirstSquawk] Japan's Finance Minister Flags Recent Rapid And One-Sided Moves In Foreign Exchange Markets
+- 11/13 09:43 [FirstSquawk] Japan FinMin Pledges To Stay In Contact With US Treasury And Respond Accordingly
+- 11/13 09:43 [FirstSquawk] Japan's Finance Minister Confirms Shared US-Japan Stance On Foreign Exchange At Summit
+- 11/13 09:43 [financialjuice] Fed's Williams: evidence indicates a k-shaped economy
+- 11/13 09:43 [FirstSquawk] Katayama: No Comment On Records Of Forex Market Intervention
+- 11/13 09:43 [FirstSquawk] Fed's Williams Notes That Shifts In Interest Rates Can Influence AI Investment Activity
+- 11/13 09:44 [FirstSquawk] Fed's Williams: Signs Indicate The Economy Is Following A K-Shaped Pattern
+- 11/13 09:49 [FirstSquawk] US Pressure Cuts Cuba Off From Worldwide Oil Supplies, Forcing It To Rely On American Fuel – WSJ
+- 11/13 09:50 [FirstSquawk] ByteDance To Repurchase Up To $6 Billion In Shares From Investors, Valuing The Company At Approximately $400 Billion – The Information
+- 11/13 09:59 [FirstSquawk] South Korean Shares Rally At The Open In Response To Nvidia's Leadership Changes
+- 11/13 10:02 [FirstSquawk] 20-Year JGB Yield Gains 6 Bps, Reaching 3.725%
+- 11/13 10:02 [FirstSquawk] Taiwan's Stock Market Advances More Than 2%
+- 11/13 10:03 [FirstSquawk] Xinhua: Chinese President Xi Jinping To Take Part In APEC Summit
+- 11/13 10:03 [financialjuice] China's Xi Jinping to participate in APEC summit: Xinhua
+- 11/13 10:03 [FirstSquawk] AI-Powered Bots Enter The Credit Card Market, But JPMorgan Chase Questions The Emerging Trend - WSJ
+- 11/13 10:04 [financialjuice] Smic co-CEO Zhao Halun: businesses requiring compute resources continue to face shortage
+- 11/13 10:10 [FirstSquawk] Japanese Businesses Brush Aside Tensions And Turn Their Attention To APEC Summit - SCMP
+- 11/13 10:11 [FirstSquawk] 40-Year Japanese Government Bond Yield Rises 4.5 Bps To 4.115%
+- 11/13 10:16 [FirstSquawk] China's Central Bank Fixes Yuan Reference Rate At 6.7152 Against The Dollar
+- 11/13 10:17 [financialjuice] PBOC sets yuan midpoint at strongest level since Nov. 3
+- 11/13 10:18 [FirstSquawk] China's Central Bank Fixes Yuan At Its Highest Reference Rate Since November 3
+- 11/13 10:19 [FirstSquawk] China's Most Traded Coking Coal Futures Gain 3.12%, Reaching 1,437 Yuan A Tonne
+- 11/13 10:23 [financialjuice] China central bank injects 300 billion yuan via 7-day reverse repos: statement
+- 11/13 10:23 [financialjuice] Republican lawmakers renew demand for former Nvidia CEO Jensen Huang to update Congress on espionage allegations
+- 11/13 10:24 [FirstSquawk] US Republicans Again Demand Congressional Briefing From Former Nvidia CEO Jensen Huang On Alleged Spy Links
+- 11/13 10:36 [FirstSquawk] Japanese Firms Remain Unfazed By Tensions At Trade Show, With Focus Shifting To APEC Summit - SCMP
+- 11/13 10:41 [FirstSquawk] Taiwan's Main Stock Index Jumps 3.2% To 44,489.48 Points at Its Session High
+- 11/13 10:42 [financialjuice] China finance ministry auctions 1-month deposits at 1.30% yield: statement
+- 11/13 10:43 [FirstSquawk] China Finance Ministry Sets 1.30% Yield In Auction Of One-Month Deposits
+- 11/13 10:50 [FirstSquawk] Hong Kong's Insurance Sales To Mainland Customers Slow Amid Beijing Tax Rule
+- 11/13 10:51 [FirstSquawk] 30-Year Japanese Government Bond Yield Rises 6.5 Bps To 3.985%
+- 11/13 11:00 [financialjuice] Microsoft on outage: positive outcomes from efforts to restart affected infrastructure and restore server availability separately
+- 11/13 11:01 [FirstSquawk] Microsoft Says Its Efforts To Bring Affected Infrastructure Back Online And Restore Servers Separately Are Producing Positive Results
+- 11/13 11:02 [financialjuice] Microsoft on outage: remediation steps to increase as stability confirmed with changes applied
+- 11/13 11:02 [FirstSquawk] Microsoft Says It Will Broaden Recovery Measures After Verifying The Stability Of Implemented Changes
+- 11/13 11:05 [financialjuice] Schumer: I have support to remain as Democratic leader
+- 11/13 11:06 [FirstSquawk] Indonesian Rupiah Extends Losses, Trading At 18,230 Against The Greenback
+- 11/13 11:06 [FirstSquawk] Philippine Peso Extends Decline, Trading At 63.857 Against The Greenback
+- 11/13 11:06 [FirstSquawk] Schumer Says He Has The Backing Needed To Retain His Democratic Leadership Role
+- 11/13 11:08 [financialjuice] Democratic US Senator Chris Van Hollen: running for senate majority leader
+- 11/13 11:09 [FirstSquawk] US Senator Chris Van Hollen Says He Is Seeking Democratic Senate Leadership Post
+- 11/13 11:09 [FirstSquawk] Vietnam Seeks To Boost Domestic Chipmaking Capabilities In Semiconductor Push
+- 11/13 11:12 [financialjuice] Iran's IRGC: targeted US early-warning radar in Bahrain after telecom tower attack in Iran's Sii
+- 11/13 11:13 [FirstSquawk] Iran's IRGC Says It Targeted US Early-Warning Radar In Bahrain In Retaliation For Attack On Telecommunications Tower In Sirik
+- 11/13 11:20 [FirstSquawk] Houthis Announce Attack On Pumping Station Serving Saudi Arabia's East-West Oil Pipeline
+- 11/13 11:29 [FirstSquawk] Crude Slips Further As Markets Weigh Prospects Of A Diplomatic Breakthrough - WSJ
+- 11/13 11:30 [financialjuice] US President Donald Trump's AI task force met Thursday: discussed earlier AI-driven cyberattacks - administration spokesperson
+- 11/13 11:30 [financialjuice] Microsoft: applying infrastructure capacity upgrades where possible to support traffic in regions coming online
+- 11/13 11:30 [FirstSquawk] US President Trump's AI Task Force Holds Meeting On Thursday To Review Past AI-Driven Cyberattacks – Spokesperson
+- 11/13 11:31 [FirstSquawk] Microsoft Says It Is Boosting Infrastructure Capacity Where Possible To Handle Traffic As Affected Regions Resume Operations
