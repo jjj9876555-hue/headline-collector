@@ -7,130 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-11-14 07:52 JST／対象: 11/13 07:52 〜 11/14 07:52 JST（時刻はすべて日本時間）
+生成: 2026-11-14 11:45 JST／対象: 11/13 11:45 〜 11/14 11:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 42 | 11/13 08:33 | 11/14 07:23 | ⚠ 788分（08:33→21:41） |
-| FirstSquawk | 274 | 11/13 07:56 | 11/14 04:27 | ⚠ 68分（08:02→09:11） |
-| financialjuice | 343 | 11/13 08:05 | 11/14 07:51 | ⚠ 66分（19:01→20:07） |
+| DeItaone | 43 | 11/13 21:41 | 11/14 08:49 | ⚠ 204分（03:11→06:36） |
+| FirstSquawk | 262 | 11/13 11:49 | 11/14 11:42 | ⚠ 293分（04:27→09:20） |
+| financialjuice | 357 | 11/13 12:00 | 11/14 11:01 | ⚠ 66分（19:01→20:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 649 行（統合前 664 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 652 行（統合前 667 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/13 07:56 [FirstSquawk] NSCALE LIMITED, AS OF SEPTEMBER 30, EXPECTS TOTAL CAPITAL SPENDING OF ABOUT $19 BLN TO $21 BLN TO FINISH DEVELOPMENT OF CONTRACTED DATA CENTER SITES
-- 11/13 07:56 [FirstSquawk] NSCALE SAYS IT EXPANDED ITS CLOUD IN H2 2026 WITH MULTIPLE MULTI-BILLION-DOLLAR DEALS INVOLVING AI-NATIVE AND FRONTIER MODEL LAB CLIENTS
-- 11/13 08:02 [FirstSquawk] CANADA’S INDUSTRY MINISTER JOLY SAYS STELLANTIS IS IN DEFAULT OF A CANADIAN FUNDING AGREEMENT AND ON THE HOOK FOR HUNDREDS OF MILLIONS, ADDING THAT CANADIAN AND ONTARIO MINISTERS WILL MEET THE STELLANTIS GLOBAL CEO
-- 11/13 08:05 [financialjuice] Microsoft on outage: returning part of impacted servers to service, stability maintained so far
-- 11/13 08:05 [financialjuice] Microsoft on outage: also diverting traffic to alternative routes where possible and noting partial recovery
-- 11/13 08:05 [financialjuice] Microsoft: as capacity returns, users might see a slow recovery as clients reconnect
-- 11/13 08:05 [financialjuice] Microsoft on outage: we have simplified process to restore remaining affected servers to service
-- 11/13 08:33 [DeItaone] TRUMP ON JENSEN HUANG: SPOKE TO HIM ON WEDNESDAY -STRAIGHT SHOOTER PODCAST
-- 11/13 08:56 [financialjuice] Fed's Williams: economy resilient and growth robust
-- 11/13 08:56 [financialjuice] Fed's Williams: US economy strengthening but not overheating
-- 11/13 08:56 [financialjuice] Fed's Williams: inflation remains too elevated
-- 11/13 08:58 [financialjuice] Fed's Williams: inflation remains stubbornly persistent and elevated
-- 11/13 08:58 [financialjuice] Fed's Williams: central bank has maintained consistent pace of gathering data
-- 11/13 08:58 [financialjuice] Fed's Williams: central bank will have to act over time to bring inflation back to 2%
-- 11/13 08:59 [financialjuice] Fed's Williams: central bank still has work to do to reach right monetary policy stance
-- 11/13 09:02 [financialjuice] Senate banking chairman calls Jensen Huang, Howard Lutnick to testify over Nvidia saga - Politico
-- 11/13 09:08 [financialjuice] Microsoft on outage: servers returned
-- 11/13 09:08 [financialjuice] Service may become unresponsive again after receiving traffic
-- 11/13 09:09 [financialjuice] Microsoft on outage: temporarily restricting certain traffic types to affected infrastructure in some areas
-- 11/13 09:09 [financialjuice] Microsoft on outage: servers restored to service may become unresponsive again when receiving traffic
-- 11/13 09:09 [financialjuice] Fed's Williams: monetary policy aims at inflation, not price levels
-- 11/13 09:10 [financialjuice] Fed's Williams: attempting to reduce overall price levels may cause poor economic conditions
-- 11/13 09:11 [FirstSquawk] Microsoft Says Servers Brought Back Online May Experience Further Disruptions When Traffic Resumes
-- 11/13 09:12 [FirstSquawk] TRUMP, ON IRAN, SAYS QATAR, UAE AND BAHRAIN PREFER A WAITING PERIOD, THAT ENDING THE WAR IS TAKING LONGER AT THE REQUEST OF SOME NATIONS, AND THAT THOSE NATIONS ASKED HIM TO WAIT THOUGH HE IS UNSURE HE AGREES, ADDING HE IS ENDING THE IRAN W…
-- 11/13 09:12 [FirstSquawk] TRUMP SAYS GAS PRICES SEEMED TO HAVE THE BIGGEST IMPACT ON THE MIDTERMS, AND THAT THE IRAN WAR MAY HAVE BEEN UNPOPULAR BECAUSE OF GAS PRICES
-- 11/13 09:12 [FirstSquawk] TRUMP, ON JENSEN HUANG, SAYS HE WILL “LAND ON HIS FEET” AND HAS TREMENDOUS TALENT, AND THAT HE DOES NOT KNOW WHETHER THE WOMAN HAS BEEN DETERMINED TO BE A SPY, ADDING HE CAN DEFEND WHITE HOUSE CHIEF OF STAFF STEPHEN MILLER’S RECORD
-- 11/13 09:12 [FirstSquawk] Fed's Williams Says The Fed's Policy Framework Targets Inflation Instead Of Reversing Changes In Overall Prices
-- 11/13 09:12 [FirstSquawk] Fed's Williams: Trying To Push Overall Prices Lower Risks Creating Economic Disruptions
-- 11/13 09:13 [FirstSquawk] Two-Year US Treasury Yield Advances To Its Highest Level In One Month At 4.8920%
-- 11/13 09:13 [FirstSquawk] Japan's 5-Year Bond Yield Advances 7 Bps To 2.265%
-- 11/13 09:16 [FirstSquawk] SOUTH KOREA'S PRESIDENT LEE TO MEET THAI PRIME MINISTER AND PHILIPPINE PRESIDENT ON NOVEMBER 16 DURING ASEAN SUMMIT – BLUE HOUSE
-- 11/13 09:16 [financialjuice] Trump urged Nvidia’s Jensen Huang to fight for his position: New York Times
-- 11/13 09:16 [FirstSquawk] Nvidia's Jensen Huang Hit By Personal Revelations Over Reported Extramarital Affairs – FT
-- 11/13 09:17 [FirstSquawk] Japan's 10-Year Bond Yield Advances 7 Bps To 2.860%
-- 11/13 09:18 [FirstSquawk] Roblox Leverages Its Japan Playbook To Drive Growth In Asia-Pacific Gaming Industry - NA
-- 11/13 09:19 [FirstSquawk] NYT: Trump Pressed Nvidia's Jensen Huang To Fight To Maintain His Standing
-- 11/13 09:21 [FirstSquawk] Nvidia Scandal Widens, Drawing Increased Scrutiny From US Lawmakers Over Howard Lutnick – FT
-- 11/13 09:22 [FirstSquawk] White House Advances CFTC And SEC Appointments By Sending Nominees To Senate - RTRS
-- 11/13 09:23 [FirstSquawk] Japan's Akazawa Says Government Will Closely Monitor Nvidia Situation Given Its Importance To Domestic AI Chip Industry
-- 11/13 09:23 [financialjuice] Japan industry minister Akazawa: Nvidia crucial for Japan's AI chip sector, will keep monitoring situation
-- 11/13 09:24 [financialjuice] China PBOC seen setting yuan midpoint at 6.6756 per dollar: estimate
-- 11/13 09:26 [financialjuice] Jared Kushner: working toward largest prisoner swap of war
-- 11/13 09:27 [FirstSquawk] ASIAN EQUITIES OPEN MIXED AS NVIDIA-RELATED UNCERTAINTY AND JENSEN HUANG'S RESIGNATION WEIGH ON MARKET SENTIMENT
-- 11/13 09:27 [financialjuice] Jared Kushner on russia-ukraine talks: Both sides agree to widen next round of negotiations to include European partners
-- 11/13 09:28 [FirstSquawk] Trump Encouraged Nvidia's Jensen Huang To Stand His Ground And Fight For His Job – NYT
-- 11/13 09:28 [FirstSquawk] Jared Kushner Says Negotiations Are Ongoing For The Largest Prisoner Exchange In The Conflict
-- 11/13 09:28 [FirstSquawk] Jared Kushner Confirms European Partners Will Join The Next Round Of Russia-Ukraine Peace Talks
-- 11/13 09:36 [financialjuice] Japan finmin katayama: to advance utility subsidies for winter, using reserve funds
-- 11/13 09:36 [financialjuice] Fed's Williams: US has economic tools to manage debt levels, political will needed for solution
-- 11/13 09:37 [FirstSquawk] TRUMP SAYS LILLY HAS BROKEN GROUND IN PENNSYLVANIA’S LEHIGH VALLEY ON A $3.5 BLN SITE TO MAKE NEXT-GENERATION OBESITY MEDICINES, THE LATEST OF 10 NEW U.S. SITES SINCE 2020 - TRUTH SOCIAL
-- 11/13 09:37 [financialjuice] Japan finmin Katayama: observing one-sided, swift forex shifts recently
-- 11/13 09:37 [financialjuice] Japan finmin katayama: will engage with US treasury, respond suitably
-- 11/13 09:40 [financialjuice] Japan finmin Katayama: US, Japan align on forex policy at summit
-- 11/13 09:40 [financialjuice] Japan finance minister katayama: declines to comment on intervention record
-- 11/13 09:41 [financialjuice] Fed's Williams: All investment levels can react to shifts in interest rates
-- 11/13 09:43 [FirstSquawk] Japan Decides To Advance Winter Energy Subsidies, With Funding To Come From Government Reserves
-- 11/13 09:43 [FirstSquawk] Japan's Finance Minister Flags Recent Rapid And One-Sided Moves In Foreign Exchange Markets
-- 11/13 09:43 [FirstSquawk] Japan FinMin Pledges To Stay In Contact With US Treasury And Respond Accordingly
-- 11/13 09:43 [FirstSquawk] Japan's Finance Minister Confirms Shared US-Japan Stance On Foreign Exchange At Summit
-- 11/13 09:43 [financialjuice] Fed's Williams: evidence indicates a k-shaped economy
-- 11/13 09:43 [FirstSquawk] Katayama: No Comment On Records Of Forex Market Intervention
-- 11/13 09:43 [FirstSquawk] Fed's Williams Notes That Shifts In Interest Rates Can Influence AI Investment Activity
-- 11/13 09:44 [FirstSquawk] Fed's Williams: Signs Indicate The Economy Is Following A K-Shaped Pattern
-- 11/13 09:49 [FirstSquawk] US Pressure Cuts Cuba Off From Worldwide Oil Supplies, Forcing It To Rely On American Fuel – WSJ
-- 11/13 09:50 [FirstSquawk] ByteDance To Repurchase Up To $6 Billion In Shares From Investors, Valuing The Company At Approximately $400 Billion – The Information
-- 11/13 09:59 [FirstSquawk] South Korean Shares Rally At The Open In Response To Nvidia's Leadership Changes
-- 11/13 10:02 [FirstSquawk] 20-Year JGB Yield Gains 6 Bps, Reaching 3.725%
-- 11/13 10:02 [FirstSquawk] Taiwan's Stock Market Advances More Than 2%
-- 11/13 10:03 [FirstSquawk] Xinhua: Chinese President Xi Jinping To Take Part In APEC Summit
-- 11/13 10:03 [financialjuice] China's Xi Jinping to participate in APEC summit: Xinhua
-- 11/13 10:03 [FirstSquawk] AI-Powered Bots Enter The Credit Card Market, But JPMorgan Chase Questions The Emerging Trend - WSJ
-- 11/13 10:04 [financialjuice] Smic co-CEO Zhao Halun: businesses requiring compute resources continue to face shortage
-- 11/13 10:10 [FirstSquawk] Japanese Businesses Brush Aside Tensions And Turn Their Attention To APEC Summit - SCMP
-- 11/13 10:11 [FirstSquawk] 40-Year Japanese Government Bond Yield Rises 4.5 Bps To 4.115%
-- 11/13 10:16 [FirstSquawk] China's Central Bank Fixes Yuan Reference Rate At 6.7152 Against The Dollar
-- 11/13 10:17 [financialjuice] PBOC sets yuan midpoint at strongest level since Nov. 3
-- 11/13 10:18 [FirstSquawk] China's Central Bank Fixes Yuan At Its Highest Reference Rate Since November 3
-- 11/13 10:19 [FirstSquawk] China's Most Traded Coking Coal Futures Gain 3.12%, Reaching 1,437 Yuan A Tonne
-- 11/13 10:23 [financialjuice] China central bank injects 300 billion yuan via 7-day reverse repos: statement
-- 11/13 10:23 [financialjuice] Republican lawmakers renew demand for former Nvidia CEO Jensen Huang to update Congress on espionage allegations
-- 11/13 10:24 [FirstSquawk] US Republicans Again Demand Congressional Briefing From Former Nvidia CEO Jensen Huang On Alleged Spy Links
-- 11/13 10:36 [FirstSquawk] Japanese Firms Remain Unfazed By Tensions At Trade Show, With Focus Shifting To APEC Summit - SCMP
-- 11/13 10:41 [FirstSquawk] Taiwan's Main Stock Index Jumps 3.2% To 44,489.48 Points at Its Session High
-- 11/13 10:42 [financialjuice] China finance ministry auctions 1-month deposits at 1.30% yield: statement
-- 11/13 10:43 [FirstSquawk] China Finance Ministry Sets 1.30% Yield In Auction Of One-Month Deposits
-- 11/13 10:50 [FirstSquawk] Hong Kong's Insurance Sales To Mainland Customers Slow Amid Beijing Tax Rule
-- 11/13 10:51 [FirstSquawk] 30-Year Japanese Government Bond Yield Rises 6.5 Bps To 3.985%
-- 11/13 11:00 [financialjuice] Microsoft on outage: positive outcomes from efforts to restart affected infrastructure and restore server availability separately
-- 11/13 11:01 [FirstSquawk] Microsoft Says Its Efforts To Bring Affected Infrastructure Back Online And Restore Servers Separately Are Producing Positive Results
-- 11/13 11:02 [financialjuice] Microsoft on outage: remediation steps to increase as stability confirmed with changes applied
-- 11/13 11:02 [FirstSquawk] Microsoft Says It Will Broaden Recovery Measures After Verifying The Stability Of Implemented Changes
-- 11/13 11:05 [financialjuice] Schumer: I have support to remain as Democratic leader
-- 11/13 11:06 [FirstSquawk] Indonesian Rupiah Extends Losses, Trading At 18,230 Against The Greenback
-- 11/13 11:06 [FirstSquawk] Philippine Peso Extends Decline, Trading At 63.857 Against The Greenback
-- 11/13 11:06 [FirstSquawk] Schumer Says He Has The Backing Needed To Retain His Democratic Leadership Role
-- 11/13 11:08 [financialjuice] Democratic US Senator Chris Van Hollen: running for senate majority leader
-- 11/13 11:09 [FirstSquawk] US Senator Chris Van Hollen Says He Is Seeking Democratic Senate Leadership Post
-- 11/13 11:09 [FirstSquawk] Vietnam Seeks To Boost Domestic Chipmaking Capabilities In Semiconductor Push
-- 11/13 11:12 [financialjuice] Iran's IRGC: targeted US early-warning radar in Bahrain after telecom tower attack in Iran's Sii
-- 11/13 11:13 [FirstSquawk] Iran's IRGC Says It Targeted US Early-Warning Radar In Bahrain In Retaliation For Attack On Telecommunications Tower In Sirik
-- 11/13 11:20 [FirstSquawk] Houthis Announce Attack On Pumping Station Serving Saudi Arabia's East-West Oil Pipeline
-- 11/13 11:29 [FirstSquawk] Crude Slips Further As Markets Weigh Prospects Of A Diplomatic Breakthrough - WSJ
-- 11/13 11:30 [financialjuice] US President Donald Trump's AI task force met Thursday: discussed earlier AI-driven cyberattacks - administration spokesperson
-- 11/13 11:30 [financialjuice] Microsoft: applying infrastructure capacity upgrades where possible to support traffic in regions coming online
-- 11/13 11:30 [FirstSquawk] US President Trump's AI Task Force Holds Meeting On Thursday To Review Past AI-Driven Cyberattacks – Spokesperson
-- 11/13 11:31 [FirstSquawk] Microsoft Says It Is Boosting Infrastructure Capacity Where Possible To Handle Traffic As Affected Regions Resume Operations
-- 11/13 11:42 [FirstSquawk] Indonesia's Jakarta Stock Market Gains 1.6%, Reaching 5,332.359
 - 11/13 11:49 [FirstSquawk] Two People Killed In Russian Drone Attack In Ukraine's Sumy Region, Official Says
 - 11/13 11:57 [FirstSquawk] Bitcoin Retreats Below $70,000 Amid Selling Pressure
 - 11/13 12:00 [financialjuice] S.Korea Sept l-money supply measure rises 7.0% y/y vs 7.2% in Aug:
@@ -673,3 +566,113 @@
 - 11/14 07:51 [financialjuice] US FAA outages include air traffic control radar and radio frequencies: CNN
 - 11/14 07:51 [financialjuice] Saudi civil defense: danger has passed in Najran
 - 11/14 07:51 [financialjuice] US FAA: FAA command center ground halt remains in effect
+- 11/14 07:52 [financialjuice] US FAA: As enroute facilities recover, flights will be permitted to depart through coordination with air traffic control system command center
+- 11/14 08:27 [financialjuice] Eurocontrol: all flights departing member states to US airports halted on FAA request due to technical problems - website
+- 11/14 08:28 [financialjuice] Some US airlines may halt operations for rest of Friday if services don’t resume soon: airline officials
+- 11/14 08:29 [financialjuice] US National Weather Service: fully operational with no radar outage
+- 11/14 08:41 [DeItaone] DEMOCRATS ORDER MUSK TO PRESERVE RECORDS OVER UKRAINE STARLINK ACCESS - WSJ
+- 11/14 08:44 [financialjuice] US official: situation with Nvidia should not affect Trump's trip to Asia next week
+- 11/14 08:46 [financialjuice] US official: no plans to engage with North Korea
+- 11/14 08:49 [DeItaone] US OFFICIAL SAYS MUSK TO JOIN TRUMP ON CHINA TRIP
+- 11/14 08:52 [financialjuice] US official: no bilateral meeting between Trump, Putin planned
+- 11/14 08:55 [financialjuice] US official: no board of trade announcement expected at Xi meeting
+- 11/14 08:57 [financialjuice] Microsoft: no sign FAA nationwide ground stop involves Microsoft services
+- 11/14 09:00 [financialjuice] Jefferson: Alabama transition may be challenging for some workers, businesses
+- 11/14 09:00 [financialjuice] Fed's Jefferson: US economy gains momentum, labor market remains strong
+- 11/14 09:00 [financialjuice] Jefferson: AI-driven productivity boost may increase neutral rate level
+- 11/14 09:00 [financialjuice] Jefferson: Alabama could face unemployment increase beyond reach of monetary policy
+- 11/14 09:00 [financialjuice] Jefferson: further policy tweaks to be guided by thorough data, outlook and risk analysis
+- 11/14 09:00 [financialjuice] Jefferson: inflation data indicate ongoing price pressures
+- 11/14 09:00 [financialjuice] Jefferson: Alabama adoption to boost productivity significantly, gradually
+- 11/14 09:00 [financialjuice] Jefferson: longer-term inflation outlook aligned with 2% target
+- 11/14 09:00 [financialjuice] Jefferson: Alabama should increase production, income overall
+- 11/14 09:01 [financialjuice] Jefferson: Alabama spending fuels upward pressure on inflation
+- 11/14 09:01 [financialjuice] Jefferson: inflation stays significantly above 2% target
+- 11/14 09:01 [financialjuice] Jefferson: significant part of recent years' stock price gains driven by AI enthusiasm
+- 11/14 09:04 [financialjuice] Nav Canada: traffic control measures at major airports lifted after 6 p.m. ET, systems functioning normally
+- 11/14 09:15 [financialjuice] Trump: no intention to increase Nvidia, spy concerns on China visit - CNBC, citing US officials
+- 11/14 09:20 [FirstSquawk] CNN: Major U.S. airlines to remain grounded for the rest of the night.
+- 11/14 09:20 [financialjuice] Trump tells Fox News flight problem unlikely caused by cyberattack or al
+- 11/14 09:20 [financialjuice] Inflation readings indicate persistent price pressures
+- 11/14 09:20 [financialjuice] Inflation stays significantly above 2% target
+- 11/14 09:21 [financialjuice] Ex-Nvidia CEO Huang misled company leaders, including general counsel, about nature of Alice Huang affair: sources
+- 11/14 09:21 [financialjuice] Internal messages show Jensen Huang told Nvidia lawyer, others dealings with customers mirrored standard practice
+- 11/14 09:28 [financialjuice] Chicago's O'Hare Airport closing runway 22R to park aircraft: Air Current
+- 11/14 09:28 [financialjuice] OpenAI: issues impacting Microsoft 365 connector resolved
+- 11/14 09:31 [financialjuice] U.S. loses measles-elimination status: WSJ
+- 11/14 09:31 [financialjuice] Pan American Health Organization revokes U.S. measles elimination status: WSJ
+- 11/14 09:32 [FirstSquawk] Trump to be joined by Elon Musk during next week's visit to China.
+- 11/14 09:36 [financialjuice] Fed vice chair Jefferson: debt or deficit concerns never influenced policy discussions at Fed
+- 11/14 09:39 [financialjuice] Fed's Jefferson: I have not seen political factors influence discussions at FOMC meetings
+- 11/14 09:43 [FirstSquawk] Fed Vice Chair Jefferson: The Fed's policy deliberations have never been influenced by concerns over debt or deficits.
+- 11/14 09:46 [financialjuice] Fed's Jefferson: FOMC to hear from Fed task forces within months or earlier
+- 11/14 09:58 [financialjuice] Fed’s Jefferson: AI buildout makes me wary of aggregate demand, the origin of inflation pressure
+- 11/14 10:15 [financialjuice] U.S. Nationwide Ground Stop Set to Lift Imminently: Air Current
+- 11/14 10:15 [financialjuice] U.S. Nationwide Ground Stop Set to Be Lifted Soon: AirCurrent Reporter on X
+- 11/14 10:16 [financialjuice] US official: ground stop set to end
+- 11/14 10:18 [financialjuice] U.S. nationwide ground stop lifted as of 8:15 pm ET: Air Current
+- 11/14 10:32 [financialjuice] US DHS secretary Mullin: no link between this event and Microsoft
+- 11/14 10:32 [financialjuice] US DHS Secretary Mullin: no cyberattack reported
+- 11/14 10:32 [financialjuice] US DHS Secretary Mullin: still navigating process
+- 11/14 10:33 [financialjuice] US DHS Secretary Mullin: things seem to be moving in the right direction
+- 11/14 10:33 [financialjuice] US DHS secretary Mullin: public was never threatened
+- 11/14 10:34 [financialjuice] US DHS Secretary Mullin: working to fix the problem
+- 11/14 10:36 [financialjuice] US transportation secretary Duffy: partial loss of telecom and radar during ground stop
+- 11/14 10:37 [financialjuice] US transportation secretary Duffy: switches, routers truly overwhelmed with data, leading to failure
+- 11/14 10:40 [financialjuice] US transportation secretary Duffy: seeks $50 billion for air traffic control improvements
+- 11/14 10:40 [financialjuice] US transportation secretary duffy: unwinding from friday's events will take time
+- 11/14 10:41 [financialjuice] US transportation secretary Duffy: urging Congress to provide emergency funding
+- 11/14 10:43 [financialjuice] US DHS Secretary Mullin: still considering possibility of cyberattack, not dismissing it
+- 11/14 10:44 [financialjuice] US DHS Secretary Mullin: no evidence incident involved cyberattack or artificial intelligence
+- 11/14 10:46 [FirstSquawk] WSJ: United States no longer holds measles-elimination status.
+- 11/14 10:47 [financialjuice] US transportation secretary Duffy: network issue caused legacy system to fail
+- 11/14 10:49 [financialjuice] US transportation secretary Duffy: Expect it will take some time to return to full capacity
+- 11/14 10:53 [financialjuice] US transportation secretary duffy: communication and radar never fully went dark
+- 11/14 10:54 [FirstSquawk] US Transportation Secretary Duffy: Communication and radar systems never suffered a complete blackout.
+- 11/14 10:55 [FirstSquawk] U.S. Transportation Secretary: We are assessing the economic impact of the air traffic shutdown.
+- 11/14 10:55 [FirstSquawk] FAA LIFTS GROUND STOP AFTER HOURS-LONG HALT DISRUPTS US DEPARTURES AND CAUSES NATIONWIDE TRAVEL CHAOS - CNN
+- 11/14 10:59 [FirstSquawk] U.S. officials attribute the nationwide flight ground stop to “overloaded” and “outdated” systems, stressing that there is no indication of a cyberattack behind the FAA communications failure - AP
+- 11/14 11:00 [financialjuice] US Transportation Secretary Duffy: spoke with Trump
+- 11/14 11:01 [financialjuice] US transportation secretary Duffy: Trump fully involved
+- 11/14 11:01 [FirstSquawk] U.S. Homeland Security Secretary Mullin: The introduction of new equipment and technology overwhelmed the existing system - WSN
+- 11/14 11:02 [FirstSquawk] Five European nations chosen to speak on behalf of the EU at Ukraine peace negotiations.
+- 11/14 11:02 [FirstSquawk] Nvidia affair exposes the scale of China's extensive spying operation - WSJ
+- 11/14 11:04 [FirstSquawk] Sean Duffy attributes the flight ground stop to the U.S. air traffic control system being “incredibly old.” - TSI
+- 11/14 11:05 [FirstSquawk] U.S. officials have found no evidence of a cyberattack behind the incident, Homeland Security Secretary says.
+- 11/14 11:08 [FirstSquawk] SOUTHWEST: FAA LIFTS GROUND STOP, FLIGHTS BACK UNDERWAY.
+- 11/14 11:08 [FirstSquawk] DELTA AIR LINES: OPERATIONS SAFELY RESUME FOLLOWING LIFTING OF FAA-IMPOSED NATIONWIDE GROUND STOP.
+- 11/14 11:10 [FirstSquawk] US TRANSPORTATION SECRETARY DUFFY: I HAVE SPOKEN WITH PRESIDENT TRUMP.
+- 11/14 11:11 [FirstSquawk] US TRANSPORTATION SECRETARY: TRUMP IS CLOSELY FOLLOWING THE SITUATION.
+- 11/14 11:12 [FirstSquawk] WALMART, TARGET AND OTHER MAJOR EMPLOYERS HIT BY OUTAGE AFFECTING PAY AND BENEFITS ACCESS - LEADING REPORT
+- 11/14 11:12 [FirstSquawk] US TRANSPORTATION SECRETARY: THE PROBLEM STEMMED FROM A LEGACY NETWORK THAT WENT DOWN.
+- 11/14 11:13 [FirstSquawk] US TRANSPORTATION SECRETARY: CALLS ON CONGRESS TO PROVIDE URGENT FUNDING.
+- 11/14 11:13 [FirstSquawk] US TRANSPORTATION SECRETARY: TENS OF THOUSANDS AFFECTED, MANY TRAVELERS LIKELY TO SPEND THE NIGHT AT AIRPORTS.
+- 11/14 11:13 [FirstSquawk] US TRANSPORTATION SECRETARY: WANTS $50 BILLION TO OVERHAUL AIR TRAFFIC CONTROL INFRASTRUCTURE.
+- 11/14 11:14 [FirstSquawk] DUFFY SAYS EXCESSIVE DATA TRAFFIC OVERWHELMED NETWORK EQUIPMENT, TRIGGERING THE OUTAGE.
+- 11/14 11:14 [FirstSquawk] MULLIN SAYS THE SITUATION IS CURRENTLY SHOWING SIGNS OF PROGRESS.
+- 11/14 11:15 [FirstSquawk] MULLIN ASSURES THE PUBLIC THAT THERE WAS NO THREAT TO PUBLIC SAFETY.
+- 11/14 11:15 [FirstSquawk] US DHS SECRETARY MULLIN: THIS INCIDENT HAS NO CONNECTION TO MICROSOFT.
+- 11/14 11:16 [FirstSquawk] NATIONWIDE US AIR TRAVEL RESTRICTIONS LIFTED AT 8:15 PM ET – AIR CURRENT.
+- 11/14 11:17 [FirstSquawk] FAA GROUND STOP FORCES AIR CANADA TO CANCEL ALL FLIGHTS CONNECTING CANADA AND THE UNITED STATES TONIGHT.
+- 11/14 11:17 [FirstSquawk] AIR CANADA: US AIRSPACE RESTRICTIONS MAY IMPACT FLIGHTS CONNECTING CANADA WITH THE CARIBBEAN AND SOUTH AMERICA.
+- 11/14 11:18 [FirstSquawk] JETBLUE TO SCRAP SOME SATURDAY FLIGHTS TO GET CREWS BACK INTO POSITION, MEMO REVEALS.
+- 11/14 11:18 [FirstSquawk] JETBLUE SUSPENDS REMAINING FRIDAY FLIGHTS, WITH EUROPEAN ROUTES EXEMPTED.
+- 11/14 11:19 [FirstSquawk] FED'S JEFFERSON: AI EXPANSION COULD INFLUENCE AGGREGATE DEMAND AND ADD TO INFLATIONARY PRESSURES.
+- 11/14 11:19 [FirstSquawk] FED'S JEFFERSON: TASK FORCE REPORTS TO REACH THE FOMC IN THE NEXT FEW MONTHS OR SOONER.
+- 11/14 11:20 [FirstSquawk] JEFFERSON SAYS POLITICAL CONSIDERATIONS HAVE NEVER ENTERED THE FOMC POLICY DISCUSSIONS HE HAS ATTENDED.
+- 11/14 11:21 [FirstSquawk] PAN AMERICAN HEALTH ORGANIZATION STRIPS US OF MEASLES-FREE STATUS – WSJ.
+- 11/14 11:21 [FirstSquawk] MICROSOFT 365 CONNECTOR BACK TO NORMAL AFTER OPENAI RESOLVES ERRORS.
+- 11/14 11:22 [FirstSquawk] CHICAGO'S O'HARE AIRPORT TO USE RUNWAY 22R FOR AIRCRAFT PARKING – AIR CURRENT.
+- 11/14 11:23 [FirstSquawk] SOUTHWEST TO SCRAP REMAINING FRIDAY FLIGHTS, ACCORDING TO SOURCE FAMILIAR WITH THE MATTER -RTRS
+- 11/14 11:24 [FirstSquawk] TRUMP TELLS FOX NEWS FLIGHT DISRUPTIONS DO NOT APPEAR TO BE LINKED TO A CYBERATTACK OR AI.
+- 11/14 11:24 [FirstSquawk] CNBC: TRUMP HAS NO PLANS TO RAISE NVIDIA OR SPY CONCERNS ON CHINA TRIP.
+- 11/14 11:30 [FirstSquawk] NAV CANADA: FLIGHT TRAFFIC MANAGEMENT MEASURES REMOVED AFTER 6 P.M. ET; SYSTEMS FULLY OPERATIONAL.
+- 11/14 11:31 [FirstSquawk] MEXICAN AVIATION AUTHORITY: US-BOUND FLIGHTS MUST REMAIN GROUNDED PENDING CLEARANCE FROM US AUTHORITIES.
+- 11/14 11:33 [FirstSquawk] FED VICE CHAIR: INFLATION TRENDS ARE MORE IMPORTANT THAN CURRENT READINGS IN SETTING THE POLICY RATE.
+- 11/14 11:34 [FirstSquawk] JEFFERSON SAYS US ECONOMY HAS GAINED STEAM WHILE LABOR MARKET CONDITIONS REMAIN SOLID.
+- 11/14 11:36 [FirstSquawk] JEFFERSON: FED MUST CAREFULLY EVALUATE ECONOMIC INDICATORS, THE OUTLOOK AND RISKS BEFORE ADJUSTING POLICY.
+- 11/14 11:36 [FirstSquawk] JEFFERSON: PRICE PRESSURES REMAIN STUBBORNLY ELEVATED, LATEST DATA SHOWS.
+- 11/14 11:39 [FirstSquawk] FED VICE CHAIR JEFFERSON: INFLATION REMAINS ELEVATED ABOVE THE 2% TARGET.
+- 11/14 11:39 [FirstSquawk] JEFFERSON: AI INTEGRATION LIKELY TO LIFT PRODUCTIVITY SIGNIFICANTLY IN THE LONG RUN.
+- 11/14 11:42 [FirstSquawk] JEFFERSON: INFLATION EXPECTATIONS OVER THE LONG RUN REMAIN ANCHORED AT 2%.
+- 11/14 11:42 [FirstSquawk] JEFFERSON: ARTIFICIAL INTELLIGENCE SPENDING IS CONTRIBUTING TO INFLATIONARY PRESSURES.
