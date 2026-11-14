@@ -7,97 +7,94 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-11-14 18:31 JST／対象: 11/14 12:31 〜 11/14 18:31 JST（時刻はすべて日本時間）
+生成: 2026-11-15 01:01 JST／対象: 11/14 19:01 〜 11/15 01:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 0 | - | - | - |
-| FirstSquawk | 55 | 11/14 12:34 | 11/14 18:11 | ⚠ 92分（16:00→17:32） |
-| financialjuice | 22 | 11/14 13:00 | 11/14 18:07 | ⚠ 113分（15:38→17:31） |
+| DeItaone | 2 | 11/14 23:40 | 11/14 23:41 | 0分（23:40→23:41） |
+| FirstSquawk | 52 | 11/14 19:05 | 11/15 00:11 | ⚠ 52分（22:57→23:50） |
+| financialjuice | 20 | 11/14 19:15 | 11/15 01:00 | ⚠ 61分（20:16→21:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 77 行（統合前 77 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 74 行（統合前 77 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/14 12:34 [FirstSquawk] TRUMP SET TO SIGN TRADE AGREEMENT WITH THAILAND AFTER QUAD MEETING, WHITE HOUSE CONFIRMS.
-- 11/14 12:36 [FirstSquawk] WSJ: DEMOCRATS SEEK PRESERVATION OF MUSK'S RECORDS ON UKRAINE STARLINK ACCESS.
-- 11/14 12:39 [FirstSquawk] ALASKA AIR GROUP: SIGNIFICANT GROUND STOP DISRUPTIONS PROMPTED FLIGHT CANCELLATIONS AND REROUTINGS.
-- 11/14 12:41 [FirstSquawk] FAA GROUND STOP LIFTED; AMERICAN AIRLINES FOCUSED ON OPERATING REMAINING FLIGHTS THIS EVENING.
-- 11/14 12:45 [FirstSquawk] SOME US CARRIERS CONSIDERING HALTING FRIDAY OPERATIONS AMID PROLONGED FLIGHT DISRUPTIONS – AIRLINE OFFICIALS.
-- 11/14 12:46 [FirstSquawk] NATIONAL WEATHER SERVICE: WEATHER RADAR SERVICES REMAIN FULLY FUNCTIONAL, NO OUTAGE DETECTED.
-- 11/14 12:55 [FirstSquawk] DELTA: AIRCRAFT CURRENTLY IN FLIGHT WILL COMPLETE THEIR JOURNEYS TO SCHEDULED DESTINATIONS.
-- 11/14 12:56 [FirstSquawk] DELTA: NO AIRCRAFT DEPARTURES TOOK PLACE WHILE FAA GROUND STOP REMAINED IN EFFECT.
-- 11/14 13:00 [financialjuice] Microsoft on outage: services across previously impacted environments have been restored
-- 11/14 13:22 [FirstSquawk] WSJ: OUTAGE IN THE US APPEARS TO BE IMPACTING TELECOMMUNICATIONS INFRASTRUCTURE MANAGED BY L3HARRIS.
-- 11/14 13:22 [FirstSquawk] US FDA GRANTS APPROVAL TO GAZYVA FOR ADULTS WITH PRIMARY MEMBRANOUS NEPHROPATHY.
-- 11/14 13:23 [FirstSquawk] STARSHIP LIFTS OFF FROM TEXAS ON 15TH FLIGHT AS SPACEX TARGETS FIRST RECOVERY OF BOTH VEHICLES.
-- 11/14 13:38 [FirstSquawk] NAMIBIA'S 'BB-' SOVEREIGN CREDIT RATING AFFIRMED BY FITCH; OUTLOOK REMAINS STABLE.
-- 11/14 13:39 [FirstSquawk] PAKISTAN'S SAZGAR OPENS ASSEMBLY FACILITY NEAR MANILA IN PUSH TO EXPAND OVERSEAS - NA
-- 11/14 13:49 [FirstSquawk] UAE'S 'AA-' CREDIT RATING REAFFIRMED BY FITCH; OUTLOOK REMAINS STABLE.
-- 11/14 13:50 [FirstSquawk] GERMANY'S 'AAA' CREDIT RATING REAFFIRMED BY FITCH; OUTLOOK REMAINS STABLE.
-- 11/14 13:55 [FirstSquawk] UK DEFENCE MINISTRY: WORKING TO ESTABLISH THE FACTS AND WILL PROVIDE FURTHER INFORMATION IN DUE COURSE.
-- 11/14 14:01 [FirstSquawk] UK DEFENCE MINISTRY: US AIR FORCE SECURITY PERSONNEL RESPONDED, WITH NO ONGOING SITUATION REPORTED.
-- 11/14 14:01 [FirstSquawk] RUBIO LAUNCHES CRITICISM OF INTERNATIONAL COURT DURING SPEECH TO CONSERVATIVE LAWYERS - RTRS
-- 11/14 14:02 [financialjuice] BoE chief economist: more rate hikes required to tackle inflation - FT
-- 11/14 14:05 [financialjuice] BoE’s Pill signals further hikes likely needed in 2027 beyond December 17 increase - FT
-- 11/14 14:05 [FirstSquawk] UK MOD: WORKING WITH AUTHORITIES TO ADDRESS REPORTS OF DRONE ACTIVITY AT RAF LAKENHEATH.
-- 11/14 14:05 [FirstSquawk] BOE'S PILL SEES MORE RATE HIKES AHEAD IN 2027, ON TOP OF THE EXPECTED DECEMBER 17 MOVE – FT.
-- 11/14 14:06 [financialjuice] BoE’s Pill: my view is we will see proof that prompts additional rate hikes - FT interview
-- 11/14 14:07 [financialjuice] BoE's Pill: will take necessary steps to bring inflation back to 2% over time - FT interview
-- 11/14 14:07 [FirstSquawk] BOE'S PILL SIGNALS MORE RATE HIKES MAY BE WARRANTED AS NEW EVIDENCE EMERGES – FT.
-- 11/14 14:08 [FirstSquawk] BOE'S PILL REAFFIRMS COMMITMENT TO RESTORING INFLATION TO THE 2% TARGET - FT
-- 11/14 14:09 [FirstSquawk] BOE'S PILL: CONCERNED INFLATIONARY PRESSURES COULD BE AMPLIFIED BY SECOND-ROUND EFFECTS – FT.
-- 11/14 14:09 [financialjuice] BoE’s Pill: concern over inflationary impact amplified by second-round effects – FT interview
-- 11/14 14:11 [financialjuice] Microsoft on outage: consumer product services partially restored
-- 11/14 14:11 [FirstSquawk] MICROSOFT CONFIRMS RESTORATION OF CERTAIN CONSUMER SERVICES, WHILE OTHERS REMAIN AFFECTED - RTRS
-- 11/14 14:11 [financialjuice] BoE’s Pill says BoE should have hiked interest rates before this month - FT
-- 11/14 14:12 [FirstSquawk] BOE'S PILL: BOE SHOULD HAVE ACTED EARLIER ON INTEREST RATE INCREASES, ACCORDING TO FT.
-- 11/14 14:12 [financialjuice] BoE's Pill: delays in raising borrowing costs reduce ability to be modest in rate increases - FT interview
-- 11/14 14:13 [financialjuice] BoE’s Pill signals no third term as bank chief economist when current stint ends in September 2027 - FT
-- 11/14 14:13 [FirstSquawk] BOE'S PILL INDICATES HE WILL STEP DOWN AS CHIEF ECONOMIST AFTER CURRENT TERM EXPIRES IN SEPTEMBER 2027 - FT
-- 11/14 14:19 [FirstSquawk] ALASKA GOVERNOR'S RACE WON BY DEMOCRAT JONATHAN KREISS-TOMKINS - AP
-- 11/14 14:22 [FirstSquawk] CANADIAN PM CARNEY PROJECTS THREEFOLD GROWTH IN BILATERAL TRADE OVER THE NEXT DECADE.
-- 11/14 14:29 [FirstSquawk] ITALY BLOCKS GERMANY'S ENTRY INTO MULTINATIONAL FIGHTER JET PROJECT - FT
-- 11/14 14:31 [FirstSquawk] INDIA'S $500M RAMAYANA EPIC SEEKS TO MAKE A MAJOR GLOBAL CINEMATIC IMPACT - FT
-- 11/14 14:34 [FirstSquawk] US, JAPAN, INDIA AND AUSTRALIA TO HOLD LEADERS' MEETING IN MANILA ON TUESDAY – RTRS.
-- 11/14 14:40 [FirstSquawk] CARNEY: CANADA REMAINS COMMITTED TO NATO AND WILL NOT ABANDON THE ALLIANCE.
-- 11/14 14:43 [FirstSquawk] CARNEY: A FREE EUROPE'S SECURITY FUTURE WILL BE DETERMINED BY EUROPEANS AND NATO, NOT MOSCOW.
-- 11/14 14:46 [FirstSquawk] CARNEY CONFIRMS IN-DEPTH DISCUSSIONS WITH TRUMP BEFORE DEPARTING FOR MANILA.
-- 11/14 14:50 [FirstSquawk] CANADA'S CARNEY: POTENTIAL FOR US BILATERAL DEAL EXISTS, BUT TALKS ARE NOT THERE YET.
-- 11/14 14:56 [FirstSquawk] BIG BRANDS TURN TO MASS INFLUENCER MARKETING TO WIN OVER YOUNGER GENERATIONS - FT
-- 11/14 14:56 [FirstSquawk] US AIR TRAFFIC CONTROL OVERHAUL LIKENED TO ‘CHANGING A TYRE AT 70MPH’. - FT
-- 11/14 15:04 [financialjuice] BoE’s Pill says market expectations implying rates near 5% in 2027 are ‘not outrageous’ - FT
-- 11/14 15:06 [FirstSquawk] BOE'S PILL SAID MARKET EXPECTATIONS, WHICH IMPLY RATES COULD GET CLOSE TO 5% IN 2027, WERE “NOT OUTRAGEOUS” -FT
-- 11/14 15:38 [financialjuice] Microsoft on outage: completed work to resolve root issue, restored service to affected customers and regions
-- 11/14 15:38 [FirstSquawk] MICROSOFT ON OUTAGE SAYS COMPLETED EFFORTS TO ADDRESS THE UNDERLYING ISSUE OF THE INCIDENT, RESTORED SERVICE TO REMAINING IMPACTED CUSTOMERS AND REGIONS
-- 11/14 15:58 [FirstSquawk] Canadian PM Mark Carney: When the world looks around, who's a good energy partner? Who's an energy superpower? Canada.
-- 11/14 15:58 [FirstSquawk] Canadian PM Mark Carney: The security architecture for free Europe will be determined by free Europe and NATO, not by Russia in a redux of the Minsk agreement.
-- 11/14 15:58 [FirstSquawk] Serious disagreements have emerged between President Donald Trump and Vice President JD Vance, Iranian lawmaker Farhad Bashiri told parliament’s ICANA news agency on Saturday.
-- 11/14 15:59 [FirstSquawk] Canadian PM Mark Carney: There is no way that Canada, as a NATO member, is going to walk away from any other NATO member, ever.
-- 11/14 16:00 [FirstSquawk] Iran’s refusal to discuss its nuclear program before Washington accepts its ceasefire conditions remains a central obstacle to ending the war, the Associated Press reported Saturday.
-- 11/14 17:31 [financialjuice] UK Civil Aviation Authority: US flights resume after FAA lifts ground stop, but follow-on disruption expected as airlines rebook passengers
-- 11/14 17:32 [FirstSquawk] UK CIVIL AVIATION AUTHORITY- US FLIGHTS RESUME AFTER US FAA GROUND STOP LIFT, BUT FOLLOW-ON DISRUPTION EXPECTED AS AIRLINES RE-BOOK PASSENGERS.
-- 11/14 18:00 [financialjuice] Zelenskiy: Ukraine requires more funding for purl program to purchase weapons
-- 11/14 18:01 [financialjuice] Zelenskiy: Ukraine and Denmark discuss supplying 800,000 rounds for F-16 to cover six months' demand
-- 11/14 18:02 [FirstSquawk] ZELENSKIY: UKRAINE AND DENMARK ARE DISCUSSING SUPPLIES OF 800,000 ROUNDS FOR F-16 TO COVER SIX MONTHS' NEEDS
-- 11/14 18:02 [FirstSquawk] ZELENSKIY SAYS UKRAINE NEEDS MORE CONTRIBUTIONS TO PURL PROGRAM TO BUY WEAPONS
-- 11/14 18:03 [FirstSquawk] ZELENSKIY SAYS UKRAINE & DENMARK ARE DISCUSSING SUPPLIES OF 800,000 ROUNDS FOR F-16 TO COVER SIX MONTHS' NEEDS
-- 11/14 18:03 [financialjuice] Zelenskiy: asked European allies to decide by end of November who will represent Europe in peace talks
-- 11/14 18:03 [financialjuice] Zelenskiy: Russia unwilling to agree to energy ceasefire, lacked mandate to discuss in Abu Dhabi
-- 11/14 18:04 [financialjuice] Zelenskiy: US envoys said Putin agreed to include Europe at next negotiation round
-- 11/14 18:04 [financialjuice] Zelenskiy: US negotiators asked if Ukraine was prepared to cede Donbas for NATO accession
-- 11/14 18:04 [financialjuice] Zelenskiy says he believes NATO ties for Ukraine are back on agenda
-- 11/14 18:04 [financialjuice] Russian defence ministry: its forces seize settlement of Tersianka in Ukraine's Zaporizhzhia region
-- 11/14 18:07 [financialjuice] Russian defence ministry: struck Ukrainian energy and transport infrastructure used by military, drone production and storage facilities
-- 11/14 18:09 [FirstSquawk] ZELENSKIY SAYS HE ASKED EUROPEAN ALLIES TO DECIDE BY END OF NOVEMBER WHO WILL REPRESENT EUROPE IN PEACE TALKS
-- 11/14 18:09 [FirstSquawk] ZELENSKIY SAID U.S. ENVOYS TOLD HIM PUTIN HAD AGREED TO HAVE EUROPE AT SAME NEGOTIATION TABLE AT NEXT ROUND OF TALKS
-- 11/14 18:10 [FirstSquawk] ZELENSKIY SAYS RUSSIA IS UNWILLING TO AGREE TO ENERGY CEASEFIRE, DID NOT HAVE MANDATE TO DISCUSS IT IN ABU DHABI.
-- 11/14 18:10 [FirstSquawk] ZELENSKIY SAYS U.S. NEGOTIATORS RAISED A QUESTION IF UKRAINE WAS READY TO CEDE DONBAS IF IT JOINED NATO
-- 11/14 18:10 [FirstSquawk] ZELENSKIY SAYS HE BELIEVES NATO MEMBERSHIP FOR UKRAINE IS BACK ON THE AGENDA
-- 11/14 18:11 [FirstSquawk] RUSSIAN DEFENCE MINISTRY SAYS ITS FORCES CAPTURED SETTLEMENT OF TERSIANKA IN UKRAINE'S ZAPORIZHZHIA REGION : IFX
-- 11/14 18:11 [FirstSquawk] RUSSIAN DEFENCE MINISTRY SAYS IT STRUCK UKRAINIAN ENERGY AND TRANSPORT INFRASTRUCTURE USED BY THE MILITARY & DRONE PRODUCTION AND STORAGE SITES
+- 11/14 19:05 [FirstSquawk] IAEA SAYS INSTABILITY OF ELECTRICAL GRID DUE TO MILITARY ACTIVITY RESULTED IN POWER REDUCTIONS OF SOME OPERATING UNITS IN NUCLEAR POWER PLANTS IN UKRAINE THIS WEEK
+- 11/14 19:15 [financialjuice] Iran navy: oil tanker catches fire after striking naval mine in eastern Strait of Hormuz
+- 11/14 19:16 [FirstSquawk] Iraqi source: The Iraqi Hezbollah is trying to broker a reconciliation with the Sadrists to prevent a clash between the two sides.
+- 11/14 19:16 [FirstSquawk] IRAN'S NAVY SAYS OIL TANKER CAUGHT FIRE AFTER HITTING NAVAL MINE IN EASTERN STRAIT OF HORMUZ
+- 11/14 19:17 [FirstSquawk] Governor of Russia’s Belgorod: 3 killed and 8 injured in Ukrainian attacks on the region over the past 24 hours
+- 11/14 19:17 [FirstSquawk] Russian Ministry of Defense: We targeted a ship in the Black Sea that was transporting military cargo for Ukrainian forces.
+- 11/14 19:17 [FirstSquawk] Moscow mayor: Russian air defense systems shot down 3 drones heading toward the capital
+- 11/14 19:17 [FirstSquawk] Wall and Settlement Resistance Commission: 11 new settlement plans to add 895 housing units in several West Bank governorates
+- 11/14 19:18 [FirstSquawk] Two Palestinians were injured after settlers attacked them near the Ain Sinya checkpoint north of Ramallah.
+- 11/14 19:18 [FirstSquawk] Iranian Army Navy: A fire has broken out on an oil tanker, the second today, after it struck a mine in the restricted area east of the Strait of Hormuz.
+- 11/14 19:33 [FirstSquawk] Passengers face widespread disruption after US air traffic control outage - FT
+- 11/14 19:34 [FirstSquawk] Indonesia, Thailand, Philippines to set up shared oil reserves; Japan spearheads project after Iran war creates ASEAN energy shortages -Nikkei
+- 11/14 19:44 [FirstSquawk] 3,000 FLIGHTS CANCELED IN THE U.S. TODAY
+- 11/14 19:57 [FirstSquawk] U.S. HAS FLOATED THE IDEA OF UKRAINE JOINING NATO IN EXCHANGE FOR WITHDRAWING FROM ITS EASTERN DONBAS REGION AS PART OF NEGOTIATIONS TO END THE WAR, UKRAINIAN PRESIDENT VOLODYMYR ZELENSKYY SAID YESTERDAY.
+- 11/14 20:01 [FirstSquawk] US LOSES MEASLES-FREE STATUS AFTER CONTINUED SPREAD OF THE DISEASE
+- 11/14 20:07 [financialjuice] Kraken: probing problem with Osmosis funding gateway, deposits and withdrawals might be postponed
+- 11/14 20:12 [FirstSquawk] KRAKEN SAYS INVESTIGATING AN ISSUE WITH OSMOSIS (OSMO) FUNDING GATEWAY, DEPOSITS AND WITHDRAWALS MAY BE DELAYED AT THIS TIME
+- 11/14 20:12 [FirstSquawk] BULGARIA, POLAND HALT UKRAINE AID BULGARIA IS ENDING FINANCIAL AND MILITARY AID TO UKRAINE, THE COUNTRY'S PRIME MINISTER, RUMEN RADEV, SAID.
+- 11/14 20:16 [financialjuice] Pakistan foreign affairs ministry: Pakistan to join Shanghai Cooperation Organisation civilizational dialogue in New Delhi, India
+- 11/14 20:17 [FirstSquawk] TRUMP TELLS ADVISERS HE MAY HOLD OFF ON IRAN ATTACKS BARRING NEW PROVOCATIONS
+- 11/14 20:24 [FirstSquawk] U.S. OFFICIALS: ISRAEL CONTINUES TO PRESSURE THE TRUMP ADMINISTRATION TO CARRY OUT A STRIKE AGAINST IRAN
+- 11/14 20:32 [FirstSquawk] PAKISTAN FOREIGN AFFAIRS MINISTRY SAYS PAKISTAN TO PARTICIPATE IN SHANGHAI COOPERATION ORGANISATION CIVILIZATIONAL DIALOGUE IN NEW DELHI, INDIA
+- 11/14 20:43 [FirstSquawk] MICROSOFT SAYS SERVICES FULLY RESTORED AFTER OUTAGE ROILED WORLD
+- 11/14 20:49 [FirstSquawk] CHINA, US DISCUSS TARIFFS, FARM TRADE AHEAD OF XI-TRUMP MEETING
+- 11/14 21:04 [FirstSquawk] GERMANY'S CHANCELLOR MERZ: OUR ECONOMY IS UNDER ENORMOUS PRESSURE.
+- 11/14 21:04 [FirstSquawk] GERMANY'S CHANCELLOR MERZ: I WANT TO SAY THIS VERY CLEARLY ONCE AGAIN, INCLUDING TO THOSE IN OUR OWN PARTY WHO SOMETIMES FLIRT WITH THE IDEA OF COOPERATING WITH A PARTY THAT CALLS ITSELF ALTERNATIVE FOR GERMANY.
+- 11/14 21:11 [FirstSquawk] Iran’s IRGC says it shot down US MQ-1 Predator drone over Qeshm Island #BREAKING
+- 11/14 21:18 [financialjuice] Italy’s data protection authority fines Meta Platforms €805 million over alleged use of videos and photos of Android users without consent
+- 11/14 21:19 [FirstSquawk] ITALY’S DATA PROTECTION AGENCY FINES META PLATFORMS €805 MILLION OVER ALLEGED USE OF VIDEOS AND PHOTOS OF ANDROID USERS WITHOUT CONSENT
+- 11/14 21:32 [FirstSquawk] Lebanese President: The issue of exclusive control over weapons must be addressed through an approach that takes security, political and economic considerations into account.
+- 11/14 21:33 [FirstSquawk] Lebanese President: Resolution 1701 remains the legal framework and the basis for any future international arrangements in the south
+- 11/14 21:33 [FirstSquawk] Statement by 18 Arab and Islamic countries: We strongly condemn the Israeli airstrike on Nasser Medical Complex in Khan Younis
+- 11/14 21:33 [FirstSquawk] Statement by 18 Arab and Islamic countries: We express grave concern over Israel’s continued restrictions on aid entering the Gaza Strip.
+- 11/14 21:33 [FirstSquawk] Statement by 18 Arab and Islamic countries: We condemn the continued Israeli attacks on Palestinian civilians and the tents of displaced people
+- 11/14 21:34 [FirstSquawk] Statement by 18 Arab and Islamic countries: Israeli attacks undermine the ceasefire agreement and efforts to restore security in the Gaza Strip
+- 11/14 21:34 [FirstSquawk] Statement by 18 Arab and Islamic countries: We call on the United States and the Peace Council to ensure that Israel fulfills its obligations regarding Gaza.
+- 11/14 22:08 [financialjuice] Saudi-led coalition: intercepts and destroys two drones launched by Yemen's Houthis toward Riyadh and southern region
+- 11/14 22:10 [FirstSquawk] SAUDI-LED COALITION SAYS INTERCEPTED 2 DRONES IN RIYADH, SOUTH
+- 11/14 22:28 [FirstSquawk] AFP: The European Union urges Israel to allow aid to reach Gaza immediately and without obstruction amid flooding.
+- 11/14 22:29 [FirstSquawk] Trump Media group stares down $1bn debt crunch as bitcoin bet fades - FT
+- 11/14 22:29 [FirstSquawk] US floats Nato membership for Donbas withdrawal deal, Zelenskyy says - FT
+- 11/14 22:29 [FirstSquawk] Nvidia exposed to possible lawsuits after Jensen Huang’s downfall - FT
+- 11/14 22:42 [financialjuice] Russian drones hit Ukraine's Naftogaz facility in central Poltava region, causing fire: company
+- 11/14 22:43 [FirstSquawk] RUSSIAN DRONES STRUCK UKRAINE'S NAFTOGAZ FACILITY IN CENTRAL POLTAVA REGION, CAUSING FIRE, SAYS COMPANY
+- 11/14 22:53 [FirstSquawk] US TRANSPORTATION SEC. DUFFY: FLIGHT OPERATIONS ARE SLOWLY RETURNING TO NORMAL THIS MORNING.
+- 11/14 22:54 [FirstSquawk] DUFFY SAYS WE ARE IN CLOSE COORDINATION WITH THE AIRLINES TO SUPPORT THE ONGOING RECOVERY
+- 11/14 22:54 [FirstSquawk] DUFFY SAYS PASSENGERS WILL CONTINUE TO SEE SOME DELAYS AND CANCELLATIONS AS CARRIERS RESCHEDULE FLIGHTS AND REPOSITION AIRCRAFT/CREWS WHERE THEY ARE NEEDED MOST
+- 11/14 22:57 [FirstSquawk] ITALY DATA PRIVACY AGENCY FINES META €805M
+- 11/14 23:30 [financialjuice] Fed’s Collins: Best approach to high living costs is restoring inflation stability
+- 11/14 23:30 [financialjuice] Fed's Collins: longer-term inflation expectations likely to remain anchored
+- 11/14 23:30 [financialjuice] Fed’s Collins: inflation expectations remain anchored
+- 11/14 23:30 [financialjuice] Fed's Collins: steady, gradual approach to rate hikes suitable amid risks on both sides
+- 11/14 23:30 [financialjuice] Fed's Collins: essential for Fed to reduce inflation to 2%
+- 11/14 23:30 [financialjuice] Fed's Collins: job market in ‘uncommon steadiness’; may strengthen further
+- 11/14 23:30 [financialjuice] Fed's Collins: a strong case to keep rates steady at October FOMC meeting
+- 11/14 23:30 [financialjuice] Fed's Collins: with inflation and jobs figures, central bank may need to raise rates beyond recent forecasts
+- 11/14 23:31 [financialjuice] Fed's Collins: potential financial conditions to curb economy more than anticipated
+- 11/14 23:38 [financialjuice] Elon Musk: Jensen managed Nvidia supply chain expertly, but many agreements were handshakes, not written contracts
+- 11/14 23:39 [financialjuice] Elon Musk on Jensen Huang: without Jensen, some crucial deals would be lost
+- 11/14 23:40 [DeItaone] MUSK: JENSEN DROVE SUPPLY CHAIN BRILLIANTLY AT NVIDIA, BUT MANY OF THOSE DEALS WERE A HANDSHAKE WITH JENSEN, NOT A WRITTEN CONTRACT
+- 11/14 23:41 [DeItaone] ELON MUSK ON JENSEN HUANG: WITHOUT JENSEN, AT LEAST SOME OF THOSE CRITICAL DEALS WILL BE LOST
+- 11/14 23:50 [FirstSquawk] U.S. Transportation Secretary: Flight operations are slowly returning to normal this morning.
+- 11/14 23:50 [FirstSquawk] U.S. Transportation Secretary: We are in close coordination with airlines to support the continued resumption of air traffic.
+- 11/14 23:50 [FirstSquawk] U.S. Transportation Secretary: Travelers will continue to face some delays and cancellations, while other flights will be rescheduled.
+- 11/14 23:51 [FirstSquawk] EU foreign policy chief: We urge Israel to allow humanitarian aid to reach the Gaza Strip
+- 11/14 23:51 [FirstSquawk] EU foreign policy chief: We call on Israel to reopen the crossings into Gaza
+- 11/14 23:51 [FirstSquawk] EU foreign policy chief: Flooding and rain in the Gaza Strip are worsening an already dire situation
+- 11/14 23:52 [FirstSquawk] Yemeni Armed Forces: Over the past few hours, we carried out 723 airstrikes and targeted operations against Houthi militia positions.
+- 11/15 00:09 [financialjuice] Kremlin: Putin, Xi and Trump to hold trilateral meeting in Shenzhen on Nov. 19 alongside APEC summit
+- 11/15 00:11 [FirstSquawk] FlightAware: Around 4,000 domestic and international flights canceled in the United States today
+- 11/15 00:11 [FirstSquawk] FlightAware: Delta cancels 20% of its scheduled flights today, United 18%, and American Airlines 15%
+- 11/15 00:11 [FirstSquawk] Kremlin: Putin, Xi and Trump will meet in "Shenzhen" on November 19 on the sidelines of the "APEC" summit.
+- 11/15 00:58 [financialjuice] Russia strikes cargo ship in Ukraine’s Chornomorsk port: RIA cites Russian defense ministry
+- 11/15 01:00 [financialjuice] US transportation secretary Duffy: aviation resumes full operation after Friday shutdown
