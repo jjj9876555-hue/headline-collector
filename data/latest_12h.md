@@ -7,72 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-11-15 01:01 JST／対象: 11/14 13:01 〜 11/15 01:01 JST（時刻はすべて日本時間）
+生成: 2026-11-15 05:36 JST／対象: 11/14 17:36 〜 11/15 05:36 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 2 | 11/14 23:40 | 11/14 23:41 | 0分（23:40→23:41） |
-| FirstSquawk | 99 | 11/14 13:22 | 11/15 00:11 | ⚠ 92分（16:00→17:32） |
-| financialjuice | 42 | 11/14 14:02 | 11/15 01:00 | ⚠ 113分（15:38→17:31） |
+| DeItaone | 5 | 11/14 23:40 | 11/15 05:11 | ⚠ 159分（02:32→05:11） |
+| FirstSquawk | 86 | 11/14 18:02 | 11/15 02:45 | ⚠ 72分（00:11→01:24） |
+| financialjuice | 42 | 11/14 18:00 | 11/15 05:22 | ⚠ 227分（01:31→05:19） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 143 行（統合前 146 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 133 行（統合前 136 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/14 13:22 [FirstSquawk] WSJ: OUTAGE IN THE US APPEARS TO BE IMPACTING TELECOMMUNICATIONS INFRASTRUCTURE MANAGED BY L3HARRIS.
-- 11/14 13:22 [FirstSquawk] US FDA GRANTS APPROVAL TO GAZYVA FOR ADULTS WITH PRIMARY MEMBRANOUS NEPHROPATHY.
-- 11/14 13:23 [FirstSquawk] STARSHIP LIFTS OFF FROM TEXAS ON 15TH FLIGHT AS SPACEX TARGETS FIRST RECOVERY OF BOTH VEHICLES.
-- 11/14 13:38 [FirstSquawk] NAMIBIA'S 'BB-' SOVEREIGN CREDIT RATING AFFIRMED BY FITCH; OUTLOOK REMAINS STABLE.
-- 11/14 13:39 [FirstSquawk] PAKISTAN'S SAZGAR OPENS ASSEMBLY FACILITY NEAR MANILA IN PUSH TO EXPAND OVERSEAS - NA
-- 11/14 13:49 [FirstSquawk] UAE'S 'AA-' CREDIT RATING REAFFIRMED BY FITCH; OUTLOOK REMAINS STABLE.
-- 11/14 13:50 [FirstSquawk] GERMANY'S 'AAA' CREDIT RATING REAFFIRMED BY FITCH; OUTLOOK REMAINS STABLE.
-- 11/14 13:55 [FirstSquawk] UK DEFENCE MINISTRY: WORKING TO ESTABLISH THE FACTS AND WILL PROVIDE FURTHER INFORMATION IN DUE COURSE.
-- 11/14 14:01 [FirstSquawk] UK DEFENCE MINISTRY: US AIR FORCE SECURITY PERSONNEL RESPONDED, WITH NO ONGOING SITUATION REPORTED.
-- 11/14 14:01 [FirstSquawk] RUBIO LAUNCHES CRITICISM OF INTERNATIONAL COURT DURING SPEECH TO CONSERVATIVE LAWYERS - RTRS
-- 11/14 14:02 [financialjuice] BoE chief economist: more rate hikes required to tackle inflation - FT
-- 11/14 14:05 [financialjuice] BoE’s Pill signals further hikes likely needed in 2027 beyond December 17 increase - FT
-- 11/14 14:05 [FirstSquawk] UK MOD: WORKING WITH AUTHORITIES TO ADDRESS REPORTS OF DRONE ACTIVITY AT RAF LAKENHEATH.
-- 11/14 14:05 [FirstSquawk] BOE'S PILL SEES MORE RATE HIKES AHEAD IN 2027, ON TOP OF THE EXPECTED DECEMBER 17 MOVE – FT.
-- 11/14 14:06 [financialjuice] BoE’s Pill: my view is we will see proof that prompts additional rate hikes - FT interview
-- 11/14 14:07 [financialjuice] BoE's Pill: will take necessary steps to bring inflation back to 2% over time - FT interview
-- 11/14 14:07 [FirstSquawk] BOE'S PILL SIGNALS MORE RATE HIKES MAY BE WARRANTED AS NEW EVIDENCE EMERGES – FT.
-- 11/14 14:08 [FirstSquawk] BOE'S PILL REAFFIRMS COMMITMENT TO RESTORING INFLATION TO THE 2% TARGET - FT
-- 11/14 14:09 [FirstSquawk] BOE'S PILL: CONCERNED INFLATIONARY PRESSURES COULD BE AMPLIFIED BY SECOND-ROUND EFFECTS – FT.
-- 11/14 14:09 [financialjuice] BoE’s Pill: concern over inflationary impact amplified by second-round effects – FT interview
-- 11/14 14:11 [financialjuice] Microsoft on outage: consumer product services partially restored
-- 11/14 14:11 [FirstSquawk] MICROSOFT CONFIRMS RESTORATION OF CERTAIN CONSUMER SERVICES, WHILE OTHERS REMAIN AFFECTED - RTRS
-- 11/14 14:11 [financialjuice] BoE’s Pill says BoE should have hiked interest rates before this month - FT
-- 11/14 14:12 [FirstSquawk] BOE'S PILL: BOE SHOULD HAVE ACTED EARLIER ON INTEREST RATE INCREASES, ACCORDING TO FT.
-- 11/14 14:12 [financialjuice] BoE's Pill: delays in raising borrowing costs reduce ability to be modest in rate increases - FT interview
-- 11/14 14:13 [financialjuice] BoE’s Pill signals no third term as bank chief economist when current stint ends in September 2027 - FT
-- 11/14 14:13 [FirstSquawk] BOE'S PILL INDICATES HE WILL STEP DOWN AS CHIEF ECONOMIST AFTER CURRENT TERM EXPIRES IN SEPTEMBER 2027 - FT
-- 11/14 14:19 [FirstSquawk] ALASKA GOVERNOR'S RACE WON BY DEMOCRAT JONATHAN KREISS-TOMKINS - AP
-- 11/14 14:22 [FirstSquawk] CANADIAN PM CARNEY PROJECTS THREEFOLD GROWTH IN BILATERAL TRADE OVER THE NEXT DECADE.
-- 11/14 14:29 [FirstSquawk] ITALY BLOCKS GERMANY'S ENTRY INTO MULTINATIONAL FIGHTER JET PROJECT - FT
-- 11/14 14:31 [FirstSquawk] INDIA'S $500M RAMAYANA EPIC SEEKS TO MAKE A MAJOR GLOBAL CINEMATIC IMPACT - FT
-- 11/14 14:34 [FirstSquawk] US, JAPAN, INDIA AND AUSTRALIA TO HOLD LEADERS' MEETING IN MANILA ON TUESDAY – RTRS.
-- 11/14 14:40 [FirstSquawk] CARNEY: CANADA REMAINS COMMITTED TO NATO AND WILL NOT ABANDON THE ALLIANCE.
-- 11/14 14:43 [FirstSquawk] CARNEY: A FREE EUROPE'S SECURITY FUTURE WILL BE DETERMINED BY EUROPEANS AND NATO, NOT MOSCOW.
-- 11/14 14:46 [FirstSquawk] CARNEY CONFIRMS IN-DEPTH DISCUSSIONS WITH TRUMP BEFORE DEPARTING FOR MANILA.
-- 11/14 14:50 [FirstSquawk] CANADA'S CARNEY: POTENTIAL FOR US BILATERAL DEAL EXISTS, BUT TALKS ARE NOT THERE YET.
-- 11/14 14:56 [FirstSquawk] BIG BRANDS TURN TO MASS INFLUENCER MARKETING TO WIN OVER YOUNGER GENERATIONS - FT
-- 11/14 14:56 [FirstSquawk] US AIR TRAFFIC CONTROL OVERHAUL LIKENED TO ‘CHANGING A TYRE AT 70MPH’. - FT
-- 11/14 15:04 [financialjuice] BoE’s Pill says market expectations implying rates near 5% in 2027 are ‘not outrageous’ - FT
-- 11/14 15:06 [FirstSquawk] BOE'S PILL SAID MARKET EXPECTATIONS, WHICH IMPLY RATES COULD GET CLOSE TO 5% IN 2027, WERE “NOT OUTRAGEOUS” -FT
-- 11/14 15:38 [financialjuice] Microsoft on outage: completed work to resolve root issue, restored service to affected customers and regions
-- 11/14 15:38 [FirstSquawk] MICROSOFT ON OUTAGE SAYS COMPLETED EFFORTS TO ADDRESS THE UNDERLYING ISSUE OF THE INCIDENT, RESTORED SERVICE TO REMAINING IMPACTED CUSTOMERS AND REGIONS
-- 11/14 15:58 [FirstSquawk] Canadian PM Mark Carney: When the world looks around, who's a good energy partner? Who's an energy superpower? Canada.
-- 11/14 15:58 [FirstSquawk] Canadian PM Mark Carney: The security architecture for free Europe will be determined by free Europe and NATO, not by Russia in a redux of the Minsk agreement.
-- 11/14 15:58 [FirstSquawk] Serious disagreements have emerged between President Donald Trump and Vice President JD Vance, Iranian lawmaker Farhad Bashiri told parliament’s ICANA news agency on Saturday.
-- 11/14 15:59 [FirstSquawk] Canadian PM Mark Carney: There is no way that Canada, as a NATO member, is going to walk away from any other NATO member, ever.
-- 11/14 16:00 [FirstSquawk] Iran’s refusal to discuss its nuclear program before Washington accepts its ceasefire conditions remains a central obstacle to ending the war, the Associated Press reported Saturday.
-- 11/14 17:31 [financialjuice] UK Civil Aviation Authority: US flights resume after FAA lifts ground stop, but follow-on disruption expected as airlines rebook passengers
-- 11/14 17:32 [FirstSquawk] UK CIVIL AVIATION AUTHORITY- US FLIGHTS RESUME AFTER US FAA GROUND STOP LIFT, BUT FOLLOW-ON DISRUPTION EXPECTED AS AIRLINES RE-BOOK PASSENGERS.
 - 11/14 18:00 [financialjuice] Zelenskiy: Ukraine requires more funding for purl program to purchase weapons
 - 11/14 18:01 [financialjuice] Zelenskiy: Ukraine and Denmark discuss supplying 800,000 rounds for F-16 to cover six months' demand
 - 11/14 18:02 [FirstSquawk] ZELENSKIY: UKRAINE AND DENMARK ARE DISCUSSING SUPPLIES OF 800,000 ROUNDS FOR F-16 TO COVER SIX MONTHS' NEEDS
@@ -167,3 +118,42 @@
 - 11/15 00:11 [FirstSquawk] Kremlin: Putin, Xi and Trump will meet in "Shenzhen" on November 19 on the sidelines of the "APEC" summit.
 - 11/15 00:58 [financialjuice] Russia strikes cargo ship in Ukraine’s Chornomorsk port: RIA cites Russian defense ministry
 - 11/15 01:00 [financialjuice] US transportation secretary Duffy: aviation resumes full operation after Friday shutdown
+- 11/15 01:02 [financialjuice] Duffy: unclear whether shutdown caused by incompetence or faulty router
+- 11/15 01:03 [financialjuice] Duffy on aviation shutdown: says it was not a cyberattack
+- 11/15 01:13 [financialjuice] US FAA administrator: system stays stable on Saturday
+- 11/15 01:13 [financialjuice] US FAA administrator: expects between 4,000 and 5,000 of scheduled flights today will likely be canceled
+- 11/15 01:13 [financialjuice] US FAA administrator: delays and cancellations today will enable full recovery on Sunday
+- 11/15 01:14 [financialjuice] US FAA administrator: we see no evidence of wrongdoing, and no evidence of anything AI linked
+- 11/15 01:15 [financialjuice] US FAA administrator: anticipates between 4,000 and 5,000 scheduled flights likely to be canceled today
+- 11/15 01:24 [FirstSquawk] Speaker of the U.S. House of Representatives: There is no need for an investigation to recognize the need to modernize the air traffic control system, as some of its equipment dates back to the 1980s.
+- 11/15 01:24 [FirstSquawk] U.S. Transportation Secretary: We have returned to normal, full air traffic operations after the halt caused by yesterday’s Friday outage.
+- 11/15 01:24 [FirstSquawk] U.S. Transportation Secretary: We had 500 aircraft in the air when the ground stop was imposed, and all our planes have landed safely.
+- 11/15 01:24 [FirstSquawk] U.S. Transportation Secretary: The failures occurred during maintenance work to convert the cables from analog to digital.
+- 11/15 01:25 [financialjuice] US FAA administrator: collaborating with aviation stakeholders; all passengers will be either reaccommodated on a flight or receive a full refund
+- 11/15 01:25 [FirstSquawk] U.S. Transportation Secretary: We use outdated air traffic control equipment that is decades old and needs to be replaced.
+- 11/15 01:25 [FirstSquawk] U.S. Transportation Secretary: It is unclear whether the cause of the aviation disruption is a technical problem with routers or a lack of competence.
+- 11/15 01:25 [FirstSquawk] U.S. Transportation Secretary: The shutdown of air navigation systems was not the result of a cyberattack
+- 11/15 01:26 [FirstSquawk] U.S. Transportation Secretary: President Trump called for upgrading air navigation equipment, but Congress failed to recognize the importance of doing so
+- 11/15 01:26 [FirstSquawk] U.S. Transportation Secretary: We have been talking for about two years about modernizing the air traffic control system, and we have asked Congress to provide funding.
+- 11/15 01:26 [FirstSquawk] U.S. Transportation Secretary: Congress allocated $12.5 billion to upgrade navigation systems, but it has not provided us with the full funding.
+- 11/15 01:27 [FirstSquawk] U.S. Transportation Secretary: The aviation system modernization has bipartisan support, and most of the money is spent in Democratic cities and states.
+- 11/15 01:27 [FirstSquawk] U.S. Transportation Secretary: We hope the aviation system modernization will receive congressional support, and we will continue engaging with lawmakers.
+- 11/15 01:27 [FirstSquawk] U.S. Federal Aviation Administration director: The disruption was caused by an equipment problem, and we are working to determine the cause.
+- 11/15 01:28 [FirstSquawk] U.S. Federal Aviation Administration director: The glitch was caused by improper installation, incorrect configuration, or a malfunction in a network router.
+- 11/15 01:31 [DeItaone] US AVIATION CHAOS: OVER 22,000 FLIGHTS CANCELED OR DELAYED America’s air travel system is struggling to recover from its worst nationwide flight shutdown since 9/11. A nearly five-hour FAA ground stop on Friday triggered roughly 10,000 canc…
+- 11/15 01:31 [financialjuice] Duffy on aviation shutdown: root cause of impact on our system was not a foreign actor
+- 11/15 02:07 [FirstSquawk] AFP: More than 16,000 flights canceled in the United States on Friday and Saturday
+- 11/15 02:07 [FirstSquawk] French Interior Ministry: Around 106,000 people are taking part in Saturday demonstrations across France
+- 11/15 02:25 [FirstSquawk] Netanyahu appeals to Eisenkot to reach an agreement and form a national unity government
+- 11/15 02:25 [FirstSquawk] Netanyahu: My meeting with Eisenkot strengthened my conviction about how necessary it is to form a national unity government at this stage.
+- 11/15 02:25 [FirstSquawk] Netanyahu: A narrow government or a government relying on the support of terrorism supporters will not be able to remove the threat facing Israel.
+- 11/15 02:25 [FirstSquawk] Netanyahu: The national unity government will fulfill the aspiration for national reconciliation and to heal the rifts between us.
+- 11/15 02:32 [DeItaone] DUFFY ON AVIATION SHUTDOWN: ROOT CAUSE OF THE IMPACT ON OUR SYSTEM WASN'T A FOREIGN ACTOR
+- 11/15 02:44 [FirstSquawk] U.S. Central Command: More than 1.7 billion barrels of oil have been transported through the Strait of Hormuz by our Gulf partners
+- 11/15 02:45 [FirstSquawk] U.S. Central Command: F-16 fighter jets conduct patrols over territorial waters in the Middle East
+- 11/15 02:45 [FirstSquawk] Iran’s Foreign Ministry: Rubio openly threatens to starve Iranians through a blockade, admitting to pursuing policies that amount to war crimes.
+- 11/15 02:45 [FirstSquawk] Russian Ministry of Defense: We destroyed 39 Ukrainian drones in Crimea and various parts of the country, including Moscow.
+- 11/15 05:11 [DeItaone] MORE THAN 10,000 FLIGHTS DELAYED OR CANCELED SATURDAY AS AIRLINES WORK TO RESTORE NORMAL SCHEDULES -- FLIGHTAWARE
+- 11/15 05:19 [financialjuice] US envoy Jared Kushner: Witkoff and | in close contact with Russia, Ukraine and European allies on next steps
+- 11/15 05:19 [financialjuice] Kushner: focus now is on enabling direct talks between Moscow and European partners
+- 11/15 05:22 [financialjuice] Kushner: both sides recognize practical compromises needed to end war

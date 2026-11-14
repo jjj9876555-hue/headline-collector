@@ -7,119 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-11-15 01:01 JST／対象: 11/14 01:01 〜 11/15 01:01 JST（時刻はすべて日本時間）
+生成: 2026-11-15 05:36 JST／対象: 11/14 05:36 〜 11/15 05:36 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 17 | 11/14 01:49 | 11/14 23:41 | ⚠ 891分（08:49→23:40） |
-| FirstSquawk | 194 | 11/14 01:06 | 11/15 00:11 | ⚠ 293分（04:27→09:20） |
-| financialjuice | 230 | 11/14 01:21 | 11/15 01:00 | ⚠ 118分（11:01→13:00） |
+| DeItaone | 13 | 11/14 06:36 | 11/15 05:11 | ⚠ 891分（08:49→23:40） |
+| FirstSquawk | 200 | 11/14 09:20 | 11/15 02:45 | ⚠ 92分（16:00→17:32） |
+| financialjuice | 169 | 11/14 05:47 | 11/15 05:22 | ⚠ 227分（01:31→05:19） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 438 行（統合前 447 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 381 行（統合前 386 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/14 01:06 [FirstSquawk] NASDAQ 100 FALLS 2.4% TO INTRADAY LOW; S&P 500 DOWN 1.1%
-- 11/14 01:21 [FirstSquawk] HSBC DOWNGRADES NVIDIA, SAYS STOCK TO STRUGGLE UNTIL NEW CEO NAMED – CNBC
-- 11/14 01:21 [financialjuice] ECB's Nagel: It's highly probable ECB will have to act again.
-- 11/14 01:22 [financialjuice] ECB's Nagel's Speech
-- 11/14 01:22 [financialjuice] ECB's Nagel: Early stages of pricing chain point to upward pressures
-- 11/14 01:23 [financialjuice] ECB's Nagel: Short-term inflation expectations have risen
-- 11/14 01:25 [financialjuice] Cerebras Co-CEO on data centers: Like others in the industry, ours are late - CNBC Interview
-- 11/14 01:26 [financialjuice] ECB's Nagel: Outlook has deteriorated since September
-- 11/14 01:27 [FirstSquawk] ECB’S NAGEL: HIGHLY PROBABLE' ECB WILL HAVE TO ACT AGAIN
-- 11/14 01:33 [financialjuice] SpaceX: Discussed potential purchase of approximately 1,200 acres managed by Texas parks and wildlife department surrounding 5pacex’s launch facility. $SPCX
-- 11/14 01:33 [financialjuice] SpaceX: Discussed potential purchase of approximately 1,200 acres managed by Texas parks and wildlife department surrounding SpaceX’s launch facility. $SPCX
-- 11/14 01:36 [FirstSquawk] ECB’S NAGEL: SEPTEMBER BASELINE HAD INFLATION PEAKING AROUND THE TURN OF THE YEAR AND STAYING ABOVE TARGET WELL INTO 2027.SINCE THEN, THE OUTLOOK HAS DETERIORATED
-- 11/14 01:40 [financialjuice] Super Micro Computer Spokesperson: Megaspeed is not, and has never been, a Supermicro customer. $SMCI
-- 11/14 01:40 [financialjuice] Supermicro Spokesperson: Voluntarily provided information and engaged with all requests from Singapore authorities to date $SMCI
-- 11/14 01:42 [financialjuice] Microsoft on outage: Incident was introduced by an issue during an earlier network capacity upgrade that surfaced following a recent network change. $MSFT
-- 11/14 01:43 [financialjuice] Microsoft on outage: Addressed the underlying issue and continue to restore service to remaining customers and regions. $MSFT
-- 11/14 01:46 [FirstSquawk] ASTRAZENECA CUTS 600 SALES STAFF IN US AS SAVINGS DRIVE KICKS IN
-- 11/14 01:49 [DeItaone] NVIDIA CEO RACE: IAN BUCK PULLS AHEAD Following Jensen Huang's departure, Nvidia executive Ian Buck leads prediction markets at 33%. Interim CEO Colette Kress has fallen to 13%, tied with Arm CEO Rene Haas. Despite Nvidia's leadership uphea…
-- 11/14 01:54 [financialjuice] Arm boss Rene Haas approached in Nvidia CEO search - FT $FT $ARM
-- 11/14 01:55 [financialjuice] Arm boss Rene Haas approached in Nvidia CEO search - FT $NVDA $ARM
-- 11/14 01:55 [FirstSquawk] NVIDIA BOARD APPROACHED ARM CEO RENE HAAS IN SUCCESSOR SEARCH - FT
-- 11/14 01:56 [DeItaone] ARM BOSS RENE HAAS APPROACHED IN NVIDIA CEO SEARCH- FT
-- 11/14 02:00 [DeItaone] $NVDA - NVIDIA SUCCESSION: ARM CEO TAKES THE LEAD Nvidia's board has approached Arm CEO Rene Haas about succeeding Jensen Huang, the FT reports. Prediction markets now favor Haas at 34%, ahead of Nvidia's Ian Buck at 30% and interim CEO Col…
-- 11/14 02:04 [financialjuice] WATCH LIVE: JPMorgan's Dimon in conversation with Anthropic CEO Amodei (Use VPN if you can't see it)
-- 11/14 02:06 [DeItaone] NVIDIA APPROACHES ARM CEO RENE HAAS IN SEARCH FOR HUANG'S SUCCESSOR Nvidia ($NVDA ) has approached Arm CEO Rene Haas as a potential replacement for Jensen Huang, according to people familiar with the matter. Haas has led SoftBank-backed Arm…
-- 11/14 02:09 [DeItaone] ARM HOLDINGS SHARES PARE LOSSES AFTER FT REPORTS ARM BOSS RENE HAAS APPROACHED IN NVIDIA CEO SEARCH; LAST DOWN 5%
-- 11/14 02:13 [financialjuice] Fed's Daly: Key problem we have is inflation.
-- 11/14 02:13 [financialjuice] Fed's Daly: A good economy with one problem, inflation.
-- 11/14 02:14 [FirstSquawk] FED'S DALY: INFLATION IS ‘KEY PROBLEM’
-- 11/14 02:16 [financialjuice] Fed's Daly: Employment broad-based, we're seeing manufacturing resurgence.
-- 11/14 02:16 [financialjuice] Fed's Daly: There is little evidence yet that higher productivity AI-driven.
-- 11/14 02:17 [financialjuice] Fed's Daly: Other tech is being used to do more with fewer workers.
-- 11/14 02:18 [financialjuice] Anthropic's CEO Amodei: We're very paranoid about AI risks
-- 11/14 02:19 [financialjuice] Anthropic's Amodei: Compute is deepest business dilemma
-- 11/14 02:19 [financialjuice] Fed's Daly: Overlapping shocks changed underlying rate of inflation.
-- 11/14 02:19 [financialjuice] Fed's Daly: Bias is that rates need to go up.
-- 11/14 02:21 [financialjuice] Fed's Daly: Markets understand Fed's reaction function.
-- 11/14 02:21 [financialjuice] Fed's Daly: In all likelihood we will need to raise rates.
-- 11/14 02:21 [financialjuice] Fed's Daly: Hard to say policy is restrictive enough.
-- 11/14 02:21 [FirstSquawk] FED'S DALY: BIAS IS THAT RATES NEED TO GO RISE
-- 11/14 02:21 [FirstSquawk] ANTHROPIC CEO AMODEI: THERE'S A HUGE UNCERTAINTY IN WHAT'S GOING TO HAPPEN NEXT YEAR
-- 11/14 02:23 [financialjuice] Fed's Daly: A myriad of things are pushing up inflation, which makes it concerning.
-- 11/14 02:24 [financialjuice] Fed's Daly: More producers saying they want to pass on costs.
-- 11/14 02:24 [financialjuice] Anthropic's Amodei: Coding market for AI is starting to mature.
-- 11/14 02:25 [financialjuice] Fed's Daly: Consumer spending surprisingly resilient.
-- 11/14 02:27 [financialjuice] Fed's Daly: I'm looking at how the gap between consumer sentiment and behavior gets closed.
-- 11/14 02:29 [financialjuice] Fed's Daly: I wouldn't spend a lot of time on the Summary of Economic Projections, it's just a point in time.
-- 11/14 02:31 [financialjuice] Fed's Daly: FOMC must be transparent, accountable and clear
-- 11/14 02:32 [financialjuice] Fed's Daly: Watching services ex-housing inflation carefully, it's not moving in the right direction
-- 11/14 02:42 [FirstSquawk] EU’S COSTA: TO DISCUSS UKRAINE FINANCIAL NEEDS AT NEXT EU COUNCIL
-- 11/14 02:44 [financialjuice] EC Pres. von der Leyen: We need at least €500 bln investment in computing.
-- 11/14 02:45 [financialjuice] EC Pres. von der Leyen: The next European budget to reflect it, AI ambitions.
-- 11/14 02:46 [financialjuice] Fed's Daly: Businesses are cautiously optimistic, but everyone is worried about inflation
-- 11/14 02:47 [financialjuice] Fed's Daly: Just starting to hear that the consumer may be running out of gas.
-- 11/14 02:48 [FirstSquawk] FED'S DALY: STARTING TO HEAR THE CONSUMER MAY BE RUNNING OUT OF GAS
-- 11/14 02:48 [financialjuice] White House Official: Trump to extend shipping waiver for oil and fertilizer for 90 days
-- 11/14 02:49 [financialjuice] USTR, alongside Treasury, held first official US-China Board of Trade meeting - Statement
-- 11/14 02:52 [financialjuice/FirstSquawk] USTR: Trump Admin looking forward to engagement with China.
-- 11/14 02:55 [DeItaone] TRUMP TO EXTEND SHIPPING WAIVER FOR OIL, FERTILIZER FOR 90 DAYS
-- 11/14 02:57 [FirstSquawk] WHITE HOUSE OFFICIAL: PRESIDENT TRUMP TO EXTEND SHIPPING WAIVER FOR OIL, FERTILIZER FOR 90 DAYS
-- 11/14 02:59 [financialjuice] Microsoft: Seeing broad recovery and stability across services. $MSFT
-- 11/14 03:00 [financialjuice] Microsoft: It was technical issue not related to cyber, or AI agents. $MSFT
-- 11/14 03:01 [financialjuice] US BAKER HUGHES TOTAL RIG COUNT ACTUAL 601 (FORECAST -, PREVIOUS 604) $MACRO
-- 11/14 03:02 [financialjuice] US BAKER HUGHES OIL RIG COUNT ACTUAL 463 (FORECAST -, PREVIOUS 463) $MACRO
-- 11/14 03:08 [financialjuice/DeItaone] BofA economists add third rate hike to Fed view by March 2027.
-- 11/14 03:09 [FirstSquawk] US BAKER HUGHES OIL RIG COUNT ACTUAL 463 (FORECAST -, PREVIOUS 463)
-- 11/14 03:09 [FirstSquawk] US BAKER HUGHES TOTAL RIG COUNT ACTUAL 601 (FORECAST -, PREVIOUS 604)
-- 11/14 03:13 [financialjuice] ❗ Suspected Yen Intervention
-- 11/14 03:46 [financialjuice] Microsoft asked for info about outage by lawmaker - Politico. $MSFT
-- 11/14 03:51 [FirstSquawk] SEC PROPOSES EXECUTIVE AND DIRECTOR COMPENSATION DISCLOSURE REFORMS
-- 11/14 04:08 [financialjuice] WH Sr. Adviser Hassett is expected to depart the White House - Semafor.
-- 11/14 04:10 [financialjuice] Hassett expected to depart White House - Semafor
-- 11/14 04:10 [financialjuice] Nvidia Board: Have not formally engaged any potential CEO candidates, any speculation is premature; in the process of selecting a search firm for the CEO role - CNBC $NVDA
-- 11/14 04:20 [financialjuice] NVIDIA hasn’t selected search firm for Huang's replacement - CNBC. $NVDA
-- 11/14 04:26 [FirstSquawk] LOCAL SOURCES REPORT EXPLOSION SOUNDS NEAR IRAN'S JASK; NO STRIKES REPORTED - IRNA
-- 11/14 04:27 [FirstSquawk] WHITE HOUSE ECONOMIC ADVISER HASSETT EXPECTED TO DEPART IN COMING WEEKS - SEMAFOR
-- 11/14 04:31 [financialjuice] NYMEX WTI Crude December futures settle at $88.56 a barrel, down 18 cents, 0.2%.
-- 11/14 04:31 [financialjuice] NYMEX Natural Gas December futures settle at $3.2300/MMBtu.
-- 11/14 04:31 [financialjuice] NYMEX Gasoline December futures settle at $2.6214 a gallon.
-- 11/14 04:32 [financialjuice] NYMEX Diesel December futures settle at $4.2585 a gallon.
-- 11/14 04:42 [financialjuice] Brent Crude futures settle at $95.84/bbl, up 2 cents, 0.02%.
-- 11/14 04:46 [financialjuice] WH Sr. Adviser Hassett: The report on me leaving the White House is 'not true" - CNBC.
-- 11/14 04:51 [financialjuice] Meta is testing a new prediction-market app with employees - WSJ. $META
-- 11/14 04:52 [financialjuice] Meta Testing New Prediction-Market App With Employees - WSJ $META
-- 11/14 04:55 [financialjuice] IRGC: An American C-130J military transport aircraft landed at Al-Adeed base in Qatar.
-- 11/14 04:56 [financialjuice] OSINTdefender: Initial reports of sirens sounding at several U.S. military bases in the UK, including RAF Mildenhall - Post on X.
-- 11/14 05:02 [financialjuice] Local UK MP Timothy: There is no threat to the public, and the incident is "resolved".
-- 11/14 05:02 [financialjuice] Local UK MP Timothy on RAF Lakenheath alarm: There is no threat to the public, and the incident is "resolved".
-- 11/14 05:03 [financialjuice] The Fed to buy $14 billion of bills for MBS reinvestment
-- 11/14 05:03 [financialjuice] The Fed prolongs pause on reserve management purchases to mid-December
-- 11/14 05:05 [financialjuice] Microsoft: Do not have timing for full recovery yet $MSFT
-- 11/14 05:05 [financialjuice] Microsoft: Still draining queued messages, rebalancing traffic $MSFT
-- 11/14 05:22 [financialjuice] Monday FX Options Expiries
-- 11/14 05:27 [financialjuice] US military said its personnel at RAF Lakenheath in the UK responded to "suspected unauthorised drone activity" on Friday evening - Sky News reporter on X
-- 11/14 05:27 [financialjuice] US Air Force spokesperson: "No personnel, aircraft, or infrastructure were affected" - Sky News reporter on X
-- 11/14 05:32 [financialjuice] Yemen's Houthis: Attacked pumping station at saudi arabia's east-west pipeline
 - 11/14 05:47 [financialjuice] Iran's IRGC navy: Two oil tankers exploded and caught fire after striking naval mines while attempting to transit the Strait of Hormuz - State Media
 - 11/14 05:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 2404.2 MLN NASDAQ 100: 1785.6 MLN DOW 30: 711.1 MLN MAG 7: 606.7 MLN $MACRO
 - 11/14 05:53 [financialjuice] Musk: A petition is underway to reinstate Nvidia's Jensen, and I'm signing it too $NVDA
@@ -462,3 +366,42 @@
 - 11/15 00:11 [FirstSquawk] Kremlin: Putin, Xi and Trump will meet in "Shenzhen" on November 19 on the sidelines of the "APEC" summit.
 - 11/15 00:58 [financialjuice] Russia strikes cargo ship in Ukraine’s Chornomorsk port: RIA cites Russian defense ministry
 - 11/15 01:00 [financialjuice] US transportation secretary Duffy: aviation resumes full operation after Friday shutdown
+- 11/15 01:02 [financialjuice] Duffy: unclear whether shutdown caused by incompetence or faulty router
+- 11/15 01:03 [financialjuice] Duffy on aviation shutdown: says it was not a cyberattack
+- 11/15 01:13 [financialjuice] US FAA administrator: system stays stable on Saturday
+- 11/15 01:13 [financialjuice] US FAA administrator: expects between 4,000 and 5,000 of scheduled flights today will likely be canceled
+- 11/15 01:13 [financialjuice] US FAA administrator: delays and cancellations today will enable full recovery on Sunday
+- 11/15 01:14 [financialjuice] US FAA administrator: we see no evidence of wrongdoing, and no evidence of anything AI linked
+- 11/15 01:15 [financialjuice] US FAA administrator: anticipates between 4,000 and 5,000 scheduled flights likely to be canceled today
+- 11/15 01:24 [FirstSquawk] Speaker of the U.S. House of Representatives: There is no need for an investigation to recognize the need to modernize the air traffic control system, as some of its equipment dates back to the 1980s.
+- 11/15 01:24 [FirstSquawk] U.S. Transportation Secretary: We have returned to normal, full air traffic operations after the halt caused by yesterday’s Friday outage.
+- 11/15 01:24 [FirstSquawk] U.S. Transportation Secretary: We had 500 aircraft in the air when the ground stop was imposed, and all our planes have landed safely.
+- 11/15 01:24 [FirstSquawk] U.S. Transportation Secretary: The failures occurred during maintenance work to convert the cables from analog to digital.
+- 11/15 01:25 [financialjuice] US FAA administrator: collaborating with aviation stakeholders; all passengers will be either reaccommodated on a flight or receive a full refund
+- 11/15 01:25 [FirstSquawk] U.S. Transportation Secretary: We use outdated air traffic control equipment that is decades old and needs to be replaced.
+- 11/15 01:25 [FirstSquawk] U.S. Transportation Secretary: It is unclear whether the cause of the aviation disruption is a technical problem with routers or a lack of competence.
+- 11/15 01:25 [FirstSquawk] U.S. Transportation Secretary: The shutdown of air navigation systems was not the result of a cyberattack
+- 11/15 01:26 [FirstSquawk] U.S. Transportation Secretary: President Trump called for upgrading air navigation equipment, but Congress failed to recognize the importance of doing so
+- 11/15 01:26 [FirstSquawk] U.S. Transportation Secretary: We have been talking for about two years about modernizing the air traffic control system, and we have asked Congress to provide funding.
+- 11/15 01:26 [FirstSquawk] U.S. Transportation Secretary: Congress allocated $12.5 billion to upgrade navigation systems, but it has not provided us with the full funding.
+- 11/15 01:27 [FirstSquawk] U.S. Transportation Secretary: The aviation system modernization has bipartisan support, and most of the money is spent in Democratic cities and states.
+- 11/15 01:27 [FirstSquawk] U.S. Transportation Secretary: We hope the aviation system modernization will receive congressional support, and we will continue engaging with lawmakers.
+- 11/15 01:27 [FirstSquawk] U.S. Federal Aviation Administration director: The disruption was caused by an equipment problem, and we are working to determine the cause.
+- 11/15 01:28 [FirstSquawk] U.S. Federal Aviation Administration director: The glitch was caused by improper installation, incorrect configuration, or a malfunction in a network router.
+- 11/15 01:31 [DeItaone] US AVIATION CHAOS: OVER 22,000 FLIGHTS CANCELED OR DELAYED America’s air travel system is struggling to recover from its worst nationwide flight shutdown since 9/11. A nearly five-hour FAA ground stop on Friday triggered roughly 10,000 canc…
+- 11/15 01:31 [financialjuice] Duffy on aviation shutdown: root cause of impact on our system was not a foreign actor
+- 11/15 02:07 [FirstSquawk] AFP: More than 16,000 flights canceled in the United States on Friday and Saturday
+- 11/15 02:07 [FirstSquawk] French Interior Ministry: Around 106,000 people are taking part in Saturday demonstrations across France
+- 11/15 02:25 [FirstSquawk] Netanyahu appeals to Eisenkot to reach an agreement and form a national unity government
+- 11/15 02:25 [FirstSquawk] Netanyahu: My meeting with Eisenkot strengthened my conviction about how necessary it is to form a national unity government at this stage.
+- 11/15 02:25 [FirstSquawk] Netanyahu: A narrow government or a government relying on the support of terrorism supporters will not be able to remove the threat facing Israel.
+- 11/15 02:25 [FirstSquawk] Netanyahu: The national unity government will fulfill the aspiration for national reconciliation and to heal the rifts between us.
+- 11/15 02:32 [DeItaone] DUFFY ON AVIATION SHUTDOWN: ROOT CAUSE OF THE IMPACT ON OUR SYSTEM WASN'T A FOREIGN ACTOR
+- 11/15 02:44 [FirstSquawk] U.S. Central Command: More than 1.7 billion barrels of oil have been transported through the Strait of Hormuz by our Gulf partners
+- 11/15 02:45 [FirstSquawk] U.S. Central Command: F-16 fighter jets conduct patrols over territorial waters in the Middle East
+- 11/15 02:45 [FirstSquawk] Iran’s Foreign Ministry: Rubio openly threatens to starve Iranians through a blockade, admitting to pursuing policies that amount to war crimes.
+- 11/15 02:45 [FirstSquawk] Russian Ministry of Defense: We destroyed 39 Ukrainian drones in Crimea and various parts of the country, including Moscow.
+- 11/15 05:11 [DeItaone] MORE THAN 10,000 FLIGHTS DELAYED OR CANCELED SATURDAY AS AIRLINES WORK TO RESTORE NORMAL SCHEDULES -- FLIGHTAWARE
+- 11/15 05:19 [financialjuice] US envoy Jared Kushner: Witkoff and | in close contact with Russia, Ukraine and European allies on next steps
+- 11/15 05:19 [financialjuice] Kushner: focus now is on enabling direct talks between Moscow and European partners
+- 11/15 05:22 [financialjuice] Kushner: both sides recognize practical compromises needed to end war
