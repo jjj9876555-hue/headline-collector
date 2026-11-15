@@ -7,70 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-11-15 23:22 JST／対象: 11/15 11:22 〜 11/15 23:22 JST（時刻はすべて日本時間）
+生成: 2026-11-16 04:51 JST／対象: 11/15 16:51 〜 11/16 04:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 0 | - | - | - |
-| FirstSquawk | 86 | 11/15 13:11 | 11/15 23:21 | ⚠ 77分（17:07→18:24） |
-| financialjuice | 8 | 11/15 19:22 | 11/15 22:04 | ⚠ 58分（21:06→22:04） |
+| DeItaone | 2 | 11/16 00:10 | 11/16 02:23 | ⚠ 133分（00:10→02:23） |
+| FirstSquawk | 78 | 11/15 17:05 | 11/16 04:34 | ⚠ 77分（17:07→18:24） |
+| financialjuice | 31 | 11/15 19:22 | 11/16 04:23 | ⚠ 115分（22:04→00:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 92 行（統合前 94 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 105 行（統合前 112 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/15 13:11 [FirstSquawk] Fox News: Number of Canceled Flights Across the U.S. Climbs to 7,000 on Saturday
-- 11/15 13:14 [FirstSquawk] Bahrain TV: Iranian Drones Intercepted and Destroyed by Air Defense Forces
-- 11/15 13:16 [FirstSquawk] Politico: The Quad Becomes the Latest International Alliance to Weaken Under Trump
-- 11/15 13:18 [FirstSquawk] WSJ: Trump Keeps Pressure on Iran With Blockade and Sanctions Amid Internal Talks on Fresh Strikes
-- 11/15 13:19 [FirstSquawk] WSJ, Citing U.S. Officials: Iran Possesses an Estimated 1,500 to 2,500 Missiles
-- 11/15 13:21 [FirstSquawk] SCMP: ASEAN’s Neutrality Under Scrutiny Ahead of World Leaders’ Visit to the Philippines
-- 11/15 13:25 [FirstSquawk] China-U.S. Trade Council Holds Inaugural Meeting via Video Link, China's Commerce Ministry Says
-- 11/15 13:26 [FirstSquawk] Beijing and Washington Commit to Expanding Economic Cooperation and Addressing Trade Concerns Through Continued Dialogue.
-- 11/15 13:27 [FirstSquawk] Benzinga: Jensen Huang’s ‘Whatever’ and ‘I Don’t Care’ Comments Draw Attention as Affair Scandal Dims His Popularity in Taiwan - Reports
-- 11/15 13:28 [FirstSquawk] Netanyahu Urges Decisive Action to End Iran Threat "Once and for All," CBS Reports
-- 11/15 13:29 [FirstSquawk] UK's Prince William to Travel to India With Wife Kate - RTRS
-- 11/15 13:30 [FirstSquawk] Philippines Steps Up Efforts to Secure Emergency Oil Access From Regional Neighbors Indonesia and Thailand
-- 11/15 13:32 [FirstSquawk] Israeli Strike on Displacement Tent in Khan Younis Leaves One Dead, Al Arabiya Correspondent Says
-- 11/15 13:33 [FirstSquawk] Israeli Military: Senior Hamas Operative Targeted in Recent Strike
-- 11/15 13:34 [FirstSquawk] WSJ: Friday’s Air Travel Standstill Exposed Aging U.S. Aviation Communications Infrastructure
-- 11/15 13:36 [FirstSquawk] Russia Calls on Britain to End Nuclear Shield for European Allies if It Wants Peace in Ukraine, The Telegraph Reports
-- 11/15 13:37 [FirstSquawk] Eli Lilly Says Its Obesity Drugs Demonstrated Weight-Loss Results in Clinical Studies - RTRS
-- 11/15 13:38 [FirstSquawk] Japan Hotels and Tour Operators Target Indian Travelers With Customized Services Amid 39% Spending Growth in 2025 - NA
-- 11/15 13:39 [FirstSquawk] French Interior Ministry Reports 219 Arrests During Countrywide Demonstrations
-- 11/15 13:41 [FirstSquawk] Over 40% of Diabetes Cases Go Undetected, Leaving Millions Undiagnosed - WHO
-- 11/15 13:42 [FirstSquawk] Iran Reportedly Planning Drone Strike Targeting Trump and Senior U.S. Officials, According to Israeli Intelligence - Leading reports
-- 11/15 14:01 [FirstSquawk] Kushner Says Both Sides Understand the Need to Make Pragmatic Compromises to Bring the War to an End
-- 11/15 14:02 [FirstSquawk] U.S. Envoy Kushner: Facilitating Direct Talks Between Russia and Europe Is Our Current Priority
-- 11/15 14:03 [FirstSquawk] Jared Kushner: Witkoff and I Are Coordinating Closely With Russia, Ukraine and European Allies on the Way Forward
-- 11/15 14:03 [FirstSquawk] Japan’s Approach to Foreign Labour Must Go Beyond Economic Contributions and Embrace Social Inclusion - NA
-- 11/15 14:05 [FirstSquawk] Lebanon’s General Security: We Did Not Tell Baghdad the Al-Alwani Case Had a Moral Dimension
-- 11/15 14:08 [FirstSquawk] FlightAware Reports More Than 10,000 Flight Delays and Cancellations in the U.S. on Saturday
-- 11/15 14:11 [FirstSquawk] Gaza to Get Civilian Police Force of 11,000 Young Men Under Peace Council Plan, Yedioth Ahronoth Reports
-- 11/15 14:17 [FirstSquawk] Al-Zaidi Pledges Nationwide Crackdown on Oil Smuggling Across Iraq, From Zakho to Basra
-- 11/15 14:24 [FirstSquawk] Survey: 46% of Americans Oppose AI Making Insurance Claim Decisions, While 5% Support Full Autonomy - UNUSUAL WHALES
-- 11/15 14:27 [FirstSquawk] Ukraine’s President Sharpens Criticism of SpaceX Over Speed-Capping Measures - RTRS
-- 11/15 14:29 [FirstSquawk] Iraq’s Al-Zaidi Sacks Security Officials in Babil, Including PMF Commander
-- 11/15 14:32 [FirstSquawk] SCMP: Aging Copper Wiring Upgrades Behind Widespread U.S. Flight Disruptions
-- 11/15 14:33 [FirstSquawk] Israel Reportedly Warns U.S. of Potential Iranian Drone Attack Targeting Trump Administration, WSN Reports
-- 11/15 14:35 [FirstSquawk] Eisenkot Vows to Continue Efforts to Establish a National Emergency Government Swiftly
-- 11/15 14:36 [FirstSquawk] Syrian Security Forces Investigate Explosion in Jaramana After Securing the Site
-- 11/15 14:50 [FirstSquawk] Syrian Security Forces Investigate Explosion in Jaramana After Securing the Site - FT
-- 11/15 14:51 [FirstSquawk] European Banking Watchdog Retreats From Push for Unified Deposit Insurance Scheme, FT Says
-- 11/15 15:29 [FirstSquawk] Low fire, low hire’ job market hurts US and UK productivity
-- 11/15 15:30 [FirstSquawk] Iran will not remain in a state of “neither war nor peace,” Parliament Speaker Mohammad Bagher Ghalibaf said Sunday.
-- 11/15 15:30 [FirstSquawk] Bitcoin’s latest selloff is testing the resolve of some of the cryptocurrency market’s most committed investors, as a succession of setbacks pushes prices toward their lowest levels
-- 11/15 15:30 [FirstSquawk] Iran's Revolutionary Guard claims responsibility for a drone attack on a radar at a U.S. defense facility in Bahrain.
-- 11/15 16:21 [FirstSquawk] UK economy is defying gravity. Despite an energy shock and more than £80 billion of tax rises since Labour took power in 2024, the private sector is booming and households are holding up
-- 11/15 16:21 [FirstSquawk] India forms commando units for close combat along China border
-- 11/15 16:35 [FirstSquawk] Ukraine is betting on aerial evacuation drones to rescue wounded soldiers trapped in the front line's "kill zone", where conventional medical evacuations have become increasingly perilous under constant drone surveillance and attack
-- 11/15 16:35 [FirstSquawk] Italy has rejected claims that it blocked Germany from joining a UK-led programme to build a next-generation fighter jet
-- 11/15 16:36 [FirstSquawk] Data centre construction stocks lose $4.2tn as boom in AI trade unravels
 - 11/15 17:05 [FirstSquawk] Iran will pursue reparations from regional countries, the Foreign Ministry spokesman said Sunday, dismissing as baseless a compensation demand made by the Gulf Cooperation Council’s secretary-general.
 - 11/15 17:05 [FirstSquawk] Crypto update: #Bitcoin 63970.00 -0.68% #Ether 1782.40 +0.52% #BitcoinCash 203.40 +1.11% #EOS 0.1295 +0% #Litecoin 44.74 +1.06% #Stellar 0.1374 +3.23% #Dogecoin 0.0575 +1.23% #Uniswap 4.9628 +4.49% #Chainlink 9.0306 +2.98% #Polkadot 0.7153 …
 - 11/15 17:05 [FirstSquawk] US Office Products: Amazon handles fulfilment for 87% of the products here. Delivery speed is table stakes, not a differentiator.
@@ -116,3 +69,63 @@
 - 11/15 22:50 [FirstSquawk] Iran’s Revolutionary Guard: Two oil tankers struck naval mines while crossing a prohibited route in the Strait of Hormuz, and one sank.
 - 11/15 23:20 [FirstSquawk] A second explosion has been heard in the Yemeni city of Marib.
 - 11/15 23:21 [FirstSquawk] U.S. Transportation Secretary tells NBC: Flight disruptions will end by the end of today or tomorrow.
+- 11/15 23:21 [FirstSquawk] U.S. Transportation Secretary: We removed the router responsible for broadcasting the data that caused the airport network problem.
+- 11/15 23:22 [FirstSquawk] U.S. Transportation Secretary: We are investigating whether the malfunction was caused by an error in installing the router or a defect in it.
+- 11/15 23:23 [FirstSquawk] Jordanian army announces the arrest of an Israeli who tried to swim across from the Israeli side into Jordanian territorial waters
+- 11/15 23:23 [FirstSquawk] Saudi Arabia announces the interception and destruction of two drones launched by the Houthis over the Mecca region
+- 11/15 23:23 [FirstSquawk] AFP citing the Red Cross: Houthis release 600 prisoners from government forces in Yemen
+- 11/16 00:00 [financialjuice] Estonia's foreign minister: will shut all Estonian-Russian border crossings starting 1 December
+- 11/16 00:01 [financialjuice] Estonia foreign minister: border closing over clear proof Russia's military intelligence ordered sabotage against defence firm
+- 11/16 00:10 [DeItaone] BESSENT SAYS NVIDIA NEEDS TO 'GO OUTSIDE THE COMPANY' IN SEARCH FOR NEW TOP EXECUTIVE IN LIGHT OF CHIP EXPORT-SPYING SCANDAL
+- 11/16 00:14 [financialjuice] Russian forces strike Ukrainian cargo ship transporting supplies for Ukrainian army in the Black Sea: Ifax
+- 11/16 00:19 [financialjuice/FirstSquawk] Bessent on Fox warns Federal Reserve against additional monetary tightening
+- 11/16 00:38 [FirstSquawk] Estonia’s foreign minister: We will close our border crossings with Russia after an order from Russia to carry out a sabotage attack on a defense industry company was confirmed.
+- 11/16 00:38 [FirstSquawk] Estonia’s foreign minister: Our border with Russia will be closed on December 1, and it must understand that any hostile act against us will have consequences.
+- 11/16 00:38 [FirstSquawk] Russian Ministry of Defense: We targeted a cargo ship carrying supplies for Ukrainian forces in the Black Sea
+- 11/16 00:38 [FirstSquawk] Lebanese Foreign Minister: We are working to place all weapons under state control and reclaim the authority to decide on war and peace.
+- 11/16 01:00 [FirstSquawk] Saudi Arabia: A drone intercepted and destroyed in the Medina region
+- 11/16 01:02 [FirstSquawk] Indonesia, Thailand, Philippines to set up shared oil reserves; Japan spearheads project after Iran war creates ASEAN energy shortages - Nikkei
+- 11/16 01:03 [FirstSquawk] US lawmakers are accelerating efforts to crack down on advanced AI chips reaching China in the wake of revelations that Nvidia founder Jensen Huang had an affair with a woman suspected of being a Chinese spy. - FT
+- 11/16 01:03 [FirstSquawk] UK businesses facing big rise in electricity bills by end of decade - FT
+- 11/16 01:04 [FirstSquawk] Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment - CNBC
+- 11/16 01:04 [FirstSquawk] Rivian, Lucid, Scout CEOs aren’t counting on Democrats to restore EV federal support after midterm wins - CNBC
+- 11/16 01:04 [FirstSquawk] Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot - CNBC
+- 11/16 01:22 [FirstSquawk] Israeli media, citing sources: No progress was recorded in the meeting between the negotiating teams from Likud, Yesh Atid and the Blue and White alliance.
+- 11/16 01:22 [FirstSquawk] Joint statement by the Likud and Yesh Atid parties: The meeting between representatives of Yesh Atid, Likud and Blue and White has ended.
+- 11/16 01:23 [FirstSquawk] Joint statement by the Likud and Yisrael Beiteinu parties: The meeting was held in a businesslike and serious atmosphere, and it was agreed to continue the talks.
+- 11/16 01:30 [financialjuice] Israel October CPI declines 0.1% month-on-month vs September's 0.5% drop – statistics bureau
+- 11/16 01:30 [financialjuice] Israel October CPI 1.1% yr/yr vs 1.6% in September – statistics bureau
+- 11/16 01:30 [financialjuice] Israel annual inflation rate at lowest level since April 2021
+- 11/16 02:21 [FirstSquawk] NYT, citing a U.S. military official: The aircraft carrier Roosevelt will join two other aircraft carriers in the Middle East by tomorrow.
+- 11/16 02:21 [FirstSquawk] Israel’s Channel 12: The meeting between the Likud negotiating teams and Yair Lapid was preliminary and did not discuss rotating the premiership.
+- 11/16 02:21 [FirstSquawk] Representatives of the Yashar party, led by Eisenkot, and the Likud party, led by Netanyahu, conclude a meeting they describe as “positive.”
+- 11/16 02:22 [FirstSquawk] Two Palestinians killed and others injured in a strike by an Israeli drone in the city of Rafah in the southern Gaza Strip.
+- 11/16 02:23 [DeItaone] https://t.me/boost/WalterBloomberg
+- 11/16 02:41 [financialjuice/FirstSquawk] Howard Lutnick expected to fly on Air Force One with president to China: Semafor
+- 11/16 02:55 [financialjuice/FirstSquawk] Yemen's Houthis: Target king Khalid airport in Riyadh and financial center with two ballistic missiles
+- 11/16 02:55 [financialjuice] No Saudi confirmation of Houthi claim
+- 11/16 03:19 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT SAYS NVIDIA NEEDS A “DRAMATIC SHAKEUP” IN LEADERSHIP
+- 11/16 03:33 [FirstSquawk] DIAMONDBACK IS NEARING A $5 BLN DEAL TO EXPAND DRILLING IN THE OIL-RICH PERMIAN BASIN - FT
+- 11/16 03:34 [FirstSquawk] DIAMONDBACK WILL PAY ABOUT $5BN TO BUY DOUBLE EAGLE V - FT
+- 11/16 03:35 [FirstSquawk] DIAMONDBACK WILL PAY ABOUT $5BN TO BUY DOUBLE EAGLE WORTH - FT
+- 11/16 03:37 [financialjuice/FirstSquawk] Yemen's Houthis: two drones targeted Saudi east-west pipeline near Riyadh
+- 11/16 03:40 [financialjuice] Demand always influences inflation
+- 11/16 03:40 [financialjuice] Schmid: work involving inflation has only become tougher since Warsh's Jackson Hole speech
+- 11/16 03:40 [financialjuice] Inflation moving in wrong direction, is ‘uncomfortably above 2% target’
+- 11/16 03:40 [financialjuice] Fed: through its influence on demand, holds tools and responsibility to tackle inflation
+- 11/16 03:40 [financialjuice] would push back on idea that Fed inflation target demands response from specific prices such as ai-related tech goods
+- 11/16 03:40 [financialjuice] Fed’s Schmid: inflation running too high, central bank has some work to do on inflation
+- 11/16 03:40 [financialjuice] Labor market largely balanced: little proof job market or wages fuel inflation
+- 11/16 03:40 [financialjuice] It is not the Fed’s role to influence the price of any single good or service
+- 11/16 03:40 [financialjuice] Inflation would remain at 3% excluding energy prices
+- 11/16 04:06 [FirstSquawk] FED’S SCHMID SAYS INFLATION IS RUNNING TOO HIGH AND “UNCOMFORTABLY ABOVE THE 2% TARGET,” IS MOVING IN THE WRONG DIRECTION, AND WOULD REMAIN AT 3% EXCLUDING ENERGY PRICES, ADDING THE CENTRAL BANK HAS SOME WORK TO DO ON INFLATION
+- 11/16 04:06 [FirstSquawk] FED’S SCHMID SAYS THE LABOR MARKET IS LARGELY BALANCED, WITH LITTLE PROOF THE JOB MARKET OR WAGES ARE FUELING INFLATION, AND THAT THROUGH ITS INFLUENCE ON DEMAND THE FED HOLDS THE TOOLS AND RESPONSIBILITY TO TACKLE INFLATION
+- 11/16 04:07 [FirstSquawk] FED’S SCHMID SAYS HE WOULD PUSH BACK ON THE IDEA THAT THE FED INFLATION TARGET DEMANDS A RESPONSE FROM SPECIFIC PRICES SUCH AS AI-RELATED TECH GOODS, AND THAT THE WORK INVOLVING INFLATION HAS ONLY BECOME TOUGHER SINCE WARSH’S JACKSON HOLE S…
+- 11/16 04:07 [FirstSquawk] JENSEN HUANG IS DISCUSSING A COMEBACK AS NVIDIA CEO WITH ALLIES, WITH A “WAR ROOM” OF SILICON VALLEY EXECUTIVES BEING PUT TOGETHER - FT
+- 11/16 04:10 [FirstSquawk] UK WILL CONSIDER MILBURN’S YOUTH AND WORK RECOMMENDATIONS, WITH BURNHAM SAYING IT WILL RESPOND IN FULL IN THE COMING WEEKS - GUARDIAN
+- 11/16 04:12 [financialjuice] Jensen Huang details comeback as Nvidia CEO with allies - FT
+- 11/16 04:22 [financialjuice] Australia, Canada, Italy and Britain in joint statement: humanitarian situation on ground in Gaza dire
+- 11/16 04:23 [financialjuice] Signatories urge Israel to end delays and permit immediate, swift humanitarian access across Gaza
+- 11/16 04:34 [FirstSquawk] AUSTRALIA, CANADA, ITALY AND BRITAIN SAY IN A JOINT STATEMENT THAT THE HUMANITARIAN SITUATION ON THE GROUND IN GAZA IS DIRE, URGING ISRAEL TO END DELAYS AND PERMIT IMMEDIATE, SWIFT HUMANITARIAN ACCESS ACROSS GAZA
+- 11/16 04:34 [FirstSquawk] BITCOIN FALLS TO $65,000 AS CRYPTO TRADERS BRACE FOR A BUSY WEEK
+- 11/16 04:34 [FirstSquawk] QUALCOMM'S $172.47 STOCK MAY BE FAIRLY VALUED ON CASH FLOW MODEL

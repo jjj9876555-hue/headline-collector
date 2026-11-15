@@ -7,84 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-11-15 23:22 JST／対象: 11/14 23:22 〜 11/15 23:22 JST（時刻はすべて日本時間）
+生成: 2026-11-16 04:51 JST／対象: 11/15 04:51 〜 11/16 04:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 6 | 11/14 23:40 | 11/15 06:39 | ⚠ 159分（02:32→05:11） |
-| FirstSquawk | 155 | 11/14 23:50 | 11/15 23:21 | ⚠ 376分（02:45→09:01） |
-| financialjuice | 39 | 11/14 23:30 | 11/15 22:04 | ⚠ 595分（09:27→19:22） |
+| DeItaone | 4 | 11/15 05:11 | 11/16 02:23 | ⚠ 1051分（06:39→00:10） |
+| FirstSquawk | 160 | 11/15 09:01 | 11/16 04:34 | ⚠ 152分（10:38→13:11） |
+| financialjuice | 39 | 11/15 05:19 | 11/16 04:23 | ⚠ 595分（09:27→19:22） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 198 行（統合前 200 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 197 行（統合前 204 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/14 23:30 [financialjuice] Fed’s Collins: Best approach to high living costs is restoring inflation stability
-- 11/14 23:30 [financialjuice] Fed's Collins: longer-term inflation expectations likely to remain anchored
-- 11/14 23:30 [financialjuice] Fed’s Collins: inflation expectations remain anchored
-- 11/14 23:30 [financialjuice] Fed's Collins: steady, gradual approach to rate hikes suitable amid risks on both sides
-- 11/14 23:30 [financialjuice] Fed's Collins: essential for Fed to reduce inflation to 2%
-- 11/14 23:30 [financialjuice] Fed's Collins: job market in ‘uncommon steadiness’; may strengthen further
-- 11/14 23:30 [financialjuice] Fed's Collins: a strong case to keep rates steady at October FOMC meeting
-- 11/14 23:30 [financialjuice] Fed's Collins: with inflation and jobs figures, central bank may need to raise rates beyond recent forecasts
-- 11/14 23:31 [financialjuice] Fed's Collins: potential financial conditions to curb economy more than anticipated
-- 11/14 23:38 [financialjuice] Elon Musk: Jensen managed Nvidia supply chain expertly, but many agreements were handshakes, not written contracts
-- 11/14 23:39 [financialjuice] Elon Musk on Jensen Huang: without Jensen, some crucial deals would be lost
-- 11/14 23:40 [DeItaone] MUSK: JENSEN DROVE SUPPLY CHAIN BRILLIANTLY AT NVIDIA, BUT MANY OF THOSE DEALS WERE A HANDSHAKE WITH JENSEN, NOT A WRITTEN CONTRACT
-- 11/14 23:41 [DeItaone] ELON MUSK ON JENSEN HUANG: WITHOUT JENSEN, AT LEAST SOME OF THOSE CRITICAL DEALS WILL BE LOST
-- 11/14 23:50 [FirstSquawk] U.S. Transportation Secretary: Flight operations are slowly returning to normal this morning.
-- 11/14 23:50 [FirstSquawk] U.S. Transportation Secretary: We are in close coordination with airlines to support the continued resumption of air traffic.
-- 11/14 23:50 [FirstSquawk] U.S. Transportation Secretary: Travelers will continue to face some delays and cancellations, while other flights will be rescheduled.
-- 11/14 23:51 [FirstSquawk] EU foreign policy chief: We urge Israel to allow humanitarian aid to reach the Gaza Strip
-- 11/14 23:51 [FirstSquawk] EU foreign policy chief: We call on Israel to reopen the crossings into Gaza
-- 11/14 23:51 [FirstSquawk] EU foreign policy chief: Flooding and rain in the Gaza Strip are worsening an already dire situation
-- 11/14 23:52 [FirstSquawk] Yemeni Armed Forces: Over the past few hours, we carried out 723 airstrikes and targeted operations against Houthi militia positions.
-- 11/15 00:09 [financialjuice] Kremlin: Putin, Xi and Trump to hold trilateral meeting in Shenzhen on Nov. 19 alongside APEC summit
-- 11/15 00:11 [FirstSquawk] FlightAware: Around 4,000 domestic and international flights canceled in the United States today
-- 11/15 00:11 [FirstSquawk] FlightAware: Delta cancels 20% of its scheduled flights today, United 18%, and American Airlines 15%
-- 11/15 00:11 [FirstSquawk] Kremlin: Putin, Xi and Trump will meet in "Shenzhen" on November 19 on the sidelines of the "APEC" summit.
-- 11/15 00:58 [financialjuice] Russia strikes cargo ship in Ukraine’s Chornomorsk port: RIA cites Russian defense ministry
-- 11/15 01:00 [financialjuice] US transportation secretary Duffy: aviation resumes full operation after Friday shutdown
-- 11/15 01:02 [financialjuice] Duffy: unclear whether shutdown caused by incompetence or faulty router
-- 11/15 01:03 [financialjuice] Duffy on aviation shutdown: says it was not a cyberattack
-- 11/15 01:13 [financialjuice] US FAA administrator: system stays stable on Saturday
-- 11/15 01:13 [financialjuice] US FAA administrator: expects between 4,000 and 5,000 of scheduled flights today will likely be canceled
-- 11/15 01:13 [financialjuice] US FAA administrator: delays and cancellations today will enable full recovery on Sunday
-- 11/15 01:14 [financialjuice] US FAA administrator: we see no evidence of wrongdoing, and no evidence of anything AI linked
-- 11/15 01:15 [financialjuice] US FAA administrator: anticipates between 4,000 and 5,000 scheduled flights likely to be canceled today
-- 11/15 01:24 [FirstSquawk] Speaker of the U.S. House of Representatives: There is no need for an investigation to recognize the need to modernize the air traffic control system, as some of its equipment dates back to the 1980s.
-- 11/15 01:24 [FirstSquawk] U.S. Transportation Secretary: We have returned to normal, full air traffic operations after the halt caused by yesterday’s Friday outage.
-- 11/15 01:24 [FirstSquawk] U.S. Transportation Secretary: We had 500 aircraft in the air when the ground stop was imposed, and all our planes have landed safely.
-- 11/15 01:24 [FirstSquawk] U.S. Transportation Secretary: The failures occurred during maintenance work to convert the cables from analog to digital.
-- 11/15 01:25 [financialjuice] US FAA administrator: collaborating with aviation stakeholders; all passengers will be either reaccommodated on a flight or receive a full refund
-- 11/15 01:25 [FirstSquawk] U.S. Transportation Secretary: We use outdated air traffic control equipment that is decades old and needs to be replaced.
-- 11/15 01:25 [FirstSquawk] U.S. Transportation Secretary: It is unclear whether the cause of the aviation disruption is a technical problem with routers or a lack of competence.
-- 11/15 01:25 [FirstSquawk] U.S. Transportation Secretary: The shutdown of air navigation systems was not the result of a cyberattack
-- 11/15 01:26 [FirstSquawk] U.S. Transportation Secretary: President Trump called for upgrading air navigation equipment, but Congress failed to recognize the importance of doing so
-- 11/15 01:26 [FirstSquawk] U.S. Transportation Secretary: We have been talking for about two years about modernizing the air traffic control system, and we have asked Congress to provide funding.
-- 11/15 01:26 [FirstSquawk] U.S. Transportation Secretary: Congress allocated $12.5 billion to upgrade navigation systems, but it has not provided us with the full funding.
-- 11/15 01:27 [FirstSquawk] U.S. Transportation Secretary: The aviation system modernization has bipartisan support, and most of the money is spent in Democratic cities and states.
-- 11/15 01:27 [FirstSquawk] U.S. Transportation Secretary: We hope the aviation system modernization will receive congressional support, and we will continue engaging with lawmakers.
-- 11/15 01:27 [FirstSquawk] U.S. Federal Aviation Administration director: The disruption was caused by an equipment problem, and we are working to determine the cause.
-- 11/15 01:28 [FirstSquawk] U.S. Federal Aviation Administration director: The glitch was caused by improper installation, incorrect configuration, or a malfunction in a network router.
-- 11/15 01:31 [DeItaone] US AVIATION CHAOS: OVER 22,000 FLIGHTS CANCELED OR DELAYED America’s air travel system is struggling to recover from its worst nationwide flight shutdown since 9/11. A nearly five-hour FAA ground stop on Friday triggered roughly 10,000 canc…
-- 11/15 01:31 [financialjuice] Duffy on aviation shutdown: root cause of impact on our system was not a foreign actor
-- 11/15 02:07 [FirstSquawk] AFP: More than 16,000 flights canceled in the United States on Friday and Saturday
-- 11/15 02:07 [FirstSquawk] French Interior Ministry: Around 106,000 people are taking part in Saturday demonstrations across France
-- 11/15 02:25 [FirstSquawk] Netanyahu appeals to Eisenkot to reach an agreement and form a national unity government
-- 11/15 02:25 [FirstSquawk] Netanyahu: My meeting with Eisenkot strengthened my conviction about how necessary it is to form a national unity government at this stage.
-- 11/15 02:25 [FirstSquawk] Netanyahu: A narrow government or a government relying on the support of terrorism supporters will not be able to remove the threat facing Israel.
-- 11/15 02:25 [FirstSquawk] Netanyahu: The national unity government will fulfill the aspiration for national reconciliation and to heal the rifts between us.
-- 11/15 02:32 [DeItaone] DUFFY ON AVIATION SHUTDOWN: ROOT CAUSE OF THE IMPACT ON OUR SYSTEM WASN'T A FOREIGN ACTOR
-- 11/15 02:44 [FirstSquawk] U.S. Central Command: More than 1.7 billion barrels of oil have been transported through the Strait of Hormuz by our Gulf partners
-- 11/15 02:45 [FirstSquawk] U.S. Central Command: F-16 fighter jets conduct patrols over territorial waters in the Middle East
-- 11/15 02:45 [FirstSquawk] Iran’s Foreign Ministry: Rubio openly threatens to starve Iranians through a blockade, admitting to pursuing policies that amount to war crimes.
-- 11/15 02:45 [FirstSquawk] Russian Ministry of Defense: We destroyed 39 Ukrainian drones in Crimea and various parts of the country, including Moscow.
 - 11/15 05:11 [DeItaone] MORE THAN 10,000 FLIGHTS DELAYED OR CANCELED SATURDAY AS AIRLINES WORK TO RESTORE NORMAL SCHEDULES -- FLIGHTAWARE
 - 11/15 05:19 [financialjuice] US envoy Jared Kushner: Witkoff and | in close contact with Russia, Ukraine and European allies on next steps
 - 11/15 05:19 [financialjuice] Kushner: focus now is on enabling direct talks between Moscow and European partners
@@ -222,3 +161,63 @@
 - 11/15 22:50 [FirstSquawk] Iran’s Revolutionary Guard: Two oil tankers struck naval mines while crossing a prohibited route in the Strait of Hormuz, and one sank.
 - 11/15 23:20 [FirstSquawk] A second explosion has been heard in the Yemeni city of Marib.
 - 11/15 23:21 [FirstSquawk] U.S. Transportation Secretary tells NBC: Flight disruptions will end by the end of today or tomorrow.
+- 11/15 23:21 [FirstSquawk] U.S. Transportation Secretary: We removed the router responsible for broadcasting the data that caused the airport network problem.
+- 11/15 23:22 [FirstSquawk] U.S. Transportation Secretary: We are investigating whether the malfunction was caused by an error in installing the router or a defect in it.
+- 11/15 23:23 [FirstSquawk] Jordanian army announces the arrest of an Israeli who tried to swim across from the Israeli side into Jordanian territorial waters
+- 11/15 23:23 [FirstSquawk] Saudi Arabia announces the interception and destruction of two drones launched by the Houthis over the Mecca region
+- 11/15 23:23 [FirstSquawk] AFP citing the Red Cross: Houthis release 600 prisoners from government forces in Yemen
+- 11/16 00:00 [financialjuice] Estonia's foreign minister: will shut all Estonian-Russian border crossings starting 1 December
+- 11/16 00:01 [financialjuice] Estonia foreign minister: border closing over clear proof Russia's military intelligence ordered sabotage against defence firm
+- 11/16 00:10 [DeItaone] BESSENT SAYS NVIDIA NEEDS TO 'GO OUTSIDE THE COMPANY' IN SEARCH FOR NEW TOP EXECUTIVE IN LIGHT OF CHIP EXPORT-SPYING SCANDAL
+- 11/16 00:14 [financialjuice] Russian forces strike Ukrainian cargo ship transporting supplies for Ukrainian army in the Black Sea: Ifax
+- 11/16 00:19 [financialjuice/FirstSquawk] Bessent on Fox warns Federal Reserve against additional monetary tightening
+- 11/16 00:38 [FirstSquawk] Estonia’s foreign minister: We will close our border crossings with Russia after an order from Russia to carry out a sabotage attack on a defense industry company was confirmed.
+- 11/16 00:38 [FirstSquawk] Estonia’s foreign minister: Our border with Russia will be closed on December 1, and it must understand that any hostile act against us will have consequences.
+- 11/16 00:38 [FirstSquawk] Russian Ministry of Defense: We targeted a cargo ship carrying supplies for Ukrainian forces in the Black Sea
+- 11/16 00:38 [FirstSquawk] Lebanese Foreign Minister: We are working to place all weapons under state control and reclaim the authority to decide on war and peace.
+- 11/16 01:00 [FirstSquawk] Saudi Arabia: A drone intercepted and destroyed in the Medina region
+- 11/16 01:02 [FirstSquawk] Indonesia, Thailand, Philippines to set up shared oil reserves; Japan spearheads project after Iran war creates ASEAN energy shortages - Nikkei
+- 11/16 01:03 [FirstSquawk] US lawmakers are accelerating efforts to crack down on advanced AI chips reaching China in the wake of revelations that Nvidia founder Jensen Huang had an affair with a woman suspected of being a Chinese spy. - FT
+- 11/16 01:03 [FirstSquawk] UK businesses facing big rise in electricity bills by end of decade - FT
+- 11/16 01:04 [FirstSquawk] Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment - CNBC
+- 11/16 01:04 [FirstSquawk] Rivian, Lucid, Scout CEOs aren’t counting on Democrats to restore EV federal support after midterm wins - CNBC
+- 11/16 01:04 [FirstSquawk] Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot - CNBC
+- 11/16 01:22 [FirstSquawk] Israeli media, citing sources: No progress was recorded in the meeting between the negotiating teams from Likud, Yesh Atid and the Blue and White alliance.
+- 11/16 01:22 [FirstSquawk] Joint statement by the Likud and Yesh Atid parties: The meeting between representatives of Yesh Atid, Likud and Blue and White has ended.
+- 11/16 01:23 [FirstSquawk] Joint statement by the Likud and Yisrael Beiteinu parties: The meeting was held in a businesslike and serious atmosphere, and it was agreed to continue the talks.
+- 11/16 01:30 [financialjuice] Israel October CPI declines 0.1% month-on-month vs September's 0.5% drop – statistics bureau
+- 11/16 01:30 [financialjuice] Israel October CPI 1.1% yr/yr vs 1.6% in September – statistics bureau
+- 11/16 01:30 [financialjuice] Israel annual inflation rate at lowest level since April 2021
+- 11/16 02:21 [FirstSquawk] NYT, citing a U.S. military official: The aircraft carrier Roosevelt will join two other aircraft carriers in the Middle East by tomorrow.
+- 11/16 02:21 [FirstSquawk] Israel’s Channel 12: The meeting between the Likud negotiating teams and Yair Lapid was preliminary and did not discuss rotating the premiership.
+- 11/16 02:21 [FirstSquawk] Representatives of the Yashar party, led by Eisenkot, and the Likud party, led by Netanyahu, conclude a meeting they describe as “positive.”
+- 11/16 02:22 [FirstSquawk] Two Palestinians killed and others injured in a strike by an Israeli drone in the city of Rafah in the southern Gaza Strip.
+- 11/16 02:23 [DeItaone] https://t.me/boost/WalterBloomberg
+- 11/16 02:41 [financialjuice/FirstSquawk] Howard Lutnick expected to fly on Air Force One with president to China: Semafor
+- 11/16 02:55 [financialjuice/FirstSquawk] Yemen's Houthis: Target king Khalid airport in Riyadh and financial center with two ballistic missiles
+- 11/16 02:55 [financialjuice] No Saudi confirmation of Houthi claim
+- 11/16 03:19 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT SAYS NVIDIA NEEDS A “DRAMATIC SHAKEUP” IN LEADERSHIP
+- 11/16 03:33 [FirstSquawk] DIAMONDBACK IS NEARING A $5 BLN DEAL TO EXPAND DRILLING IN THE OIL-RICH PERMIAN BASIN - FT
+- 11/16 03:34 [FirstSquawk] DIAMONDBACK WILL PAY ABOUT $5BN TO BUY DOUBLE EAGLE V - FT
+- 11/16 03:35 [FirstSquawk] DIAMONDBACK WILL PAY ABOUT $5BN TO BUY DOUBLE EAGLE WORTH - FT
+- 11/16 03:37 [financialjuice/FirstSquawk] Yemen's Houthis: two drones targeted Saudi east-west pipeline near Riyadh
+- 11/16 03:40 [financialjuice] Demand always influences inflation
+- 11/16 03:40 [financialjuice] Schmid: work involving inflation has only become tougher since Warsh's Jackson Hole speech
+- 11/16 03:40 [financialjuice] Inflation moving in wrong direction, is ‘uncomfortably above 2% target’
+- 11/16 03:40 [financialjuice] Fed: through its influence on demand, holds tools and responsibility to tackle inflation
+- 11/16 03:40 [financialjuice] would push back on idea that Fed inflation target demands response from specific prices such as ai-related tech goods
+- 11/16 03:40 [financialjuice] Fed’s Schmid: inflation running too high, central bank has some work to do on inflation
+- 11/16 03:40 [financialjuice] Labor market largely balanced: little proof job market or wages fuel inflation
+- 11/16 03:40 [financialjuice] It is not the Fed’s role to influence the price of any single good or service
+- 11/16 03:40 [financialjuice] Inflation would remain at 3% excluding energy prices
+- 11/16 04:06 [FirstSquawk] FED’S SCHMID SAYS INFLATION IS RUNNING TOO HIGH AND “UNCOMFORTABLY ABOVE THE 2% TARGET,” IS MOVING IN THE WRONG DIRECTION, AND WOULD REMAIN AT 3% EXCLUDING ENERGY PRICES, ADDING THE CENTRAL BANK HAS SOME WORK TO DO ON INFLATION
+- 11/16 04:06 [FirstSquawk] FED’S SCHMID SAYS THE LABOR MARKET IS LARGELY BALANCED, WITH LITTLE PROOF THE JOB MARKET OR WAGES ARE FUELING INFLATION, AND THAT THROUGH ITS INFLUENCE ON DEMAND THE FED HOLDS THE TOOLS AND RESPONSIBILITY TO TACKLE INFLATION
+- 11/16 04:07 [FirstSquawk] FED’S SCHMID SAYS HE WOULD PUSH BACK ON THE IDEA THAT THE FED INFLATION TARGET DEMANDS A RESPONSE FROM SPECIFIC PRICES SUCH AS AI-RELATED TECH GOODS, AND THAT THE WORK INVOLVING INFLATION HAS ONLY BECOME TOUGHER SINCE WARSH’S JACKSON HOLE S…
+- 11/16 04:07 [FirstSquawk] JENSEN HUANG IS DISCUSSING A COMEBACK AS NVIDIA CEO WITH ALLIES, WITH A “WAR ROOM” OF SILICON VALLEY EXECUTIVES BEING PUT TOGETHER - FT
+- 11/16 04:10 [FirstSquawk] UK WILL CONSIDER MILBURN’S YOUTH AND WORK RECOMMENDATIONS, WITH BURNHAM SAYING IT WILL RESPOND IN FULL IN THE COMING WEEKS - GUARDIAN
+- 11/16 04:12 [financialjuice] Jensen Huang details comeback as Nvidia CEO with allies - FT
+- 11/16 04:22 [financialjuice] Australia, Canada, Italy and Britain in joint statement: humanitarian situation on ground in Gaza dire
+- 11/16 04:23 [financialjuice] Signatories urge Israel to end delays and permit immediate, swift humanitarian access across Gaza
+- 11/16 04:34 [FirstSquawk] AUSTRALIA, CANADA, ITALY AND BRITAIN SAY IN A JOINT STATEMENT THAT THE HUMANITARIAN SITUATION ON THE GROUND IN GAZA IS DIRE, URGING ISRAEL TO END DELAYS AND PERMIT IMMEDIATE, SWIFT HUMANITARIAN ACCESS ACROSS GAZA
+- 11/16 04:34 [FirstSquawk] BITCOIN FALLS TO $65,000 AS CRYPTO TRADERS BRACE FOR A BUSY WEEK
+- 11/16 04:34 [FirstSquawk] QUALCOMM'S $172.47 STOCK MAY BE FAIRLY VALUED ON CASH FLOW MODEL
