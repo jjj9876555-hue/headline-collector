@@ -7,106 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-11-15 09:17 JST／対象: 11/14 21:17 〜 11/15 09:17 JST（時刻はすべて日本時間）
+生成: 2026-11-15 15:49 JST／対象: 11/15 03:49 〜 11/15 15:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 6 | 11/14 23:40 | 11/15 06:39 | ⚠ 159分（02:32→05:11） |
-| FirstSquawk | 66 | 11/14 21:19 | 11/15 09:16 | ⚠ 376分（02:45→09:01） |
-| financialjuice | 33 | 11/14 21:18 | 11/15 08:48 | ⚠ 227分（01:31→05:19） |
+| DeItaone | 2 | 11/15 05:11 | 11/15 06:39 | ⚠ 87分（05:11→06:39） |
+| FirstSquawk | 77 | 11/15 09:01 | 11/15 15:30 | ⚠ 152分（10:38→13:11） |
+| financialjuice | 8 | 11/15 05:19 | 11/15 09:27 | ⚠ 84分（07:23→08:48） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 105 行（統合前 106 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 87 行（統合前 87 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/14 21:18 [financialjuice] Italy’s data protection authority fines Meta Platforms €805 million over alleged use of videos and photos of Android users without consent
-- 11/14 21:19 [FirstSquawk] ITALY’S DATA PROTECTION AGENCY FINES META PLATFORMS €805 MILLION OVER ALLEGED USE OF VIDEOS AND PHOTOS OF ANDROID USERS WITHOUT CONSENT
-- 11/14 21:32 [FirstSquawk] Lebanese President: The issue of exclusive control over weapons must be addressed through an approach that takes security, political and economic considerations into account.
-- 11/14 21:33 [FirstSquawk] Lebanese President: Resolution 1701 remains the legal framework and the basis for any future international arrangements in the south
-- 11/14 21:33 [FirstSquawk] Statement by 18 Arab and Islamic countries: We strongly condemn the Israeli airstrike on Nasser Medical Complex in Khan Younis
-- 11/14 21:33 [FirstSquawk] Statement by 18 Arab and Islamic countries: We express grave concern over Israel’s continued restrictions on aid entering the Gaza Strip.
-- 11/14 21:33 [FirstSquawk] Statement by 18 Arab and Islamic countries: We condemn the continued Israeli attacks on Palestinian civilians and the tents of displaced people
-- 11/14 21:34 [FirstSquawk] Statement by 18 Arab and Islamic countries: Israeli attacks undermine the ceasefire agreement and efforts to restore security in the Gaza Strip
-- 11/14 21:34 [FirstSquawk] Statement by 18 Arab and Islamic countries: We call on the United States and the Peace Council to ensure that Israel fulfills its obligations regarding Gaza.
-- 11/14 22:08 [financialjuice] Saudi-led coalition: intercepts and destroys two drones launched by Yemen's Houthis toward Riyadh and southern region
-- 11/14 22:10 [FirstSquawk] SAUDI-LED COALITION SAYS INTERCEPTED 2 DRONES IN RIYADH, SOUTH
-- 11/14 22:28 [FirstSquawk] AFP: The European Union urges Israel to allow aid to reach Gaza immediately and without obstruction amid flooding.
-- 11/14 22:29 [FirstSquawk] Trump Media group stares down $1bn debt crunch as bitcoin bet fades - FT
-- 11/14 22:29 [FirstSquawk] US floats Nato membership for Donbas withdrawal deal, Zelenskyy says - FT
-- 11/14 22:29 [FirstSquawk] Nvidia exposed to possible lawsuits after Jensen Huang’s downfall - FT
-- 11/14 22:29 [FirstSquawk] Passengers face widespread disruption after US air traffic control outage - FT
-- 11/14 22:42 [financialjuice] Russian drones hit Ukraine's Naftogaz facility in central Poltava region, causing fire: company
-- 11/14 22:43 [FirstSquawk] RUSSIAN DRONES STRUCK UKRAINE'S NAFTOGAZ FACILITY IN CENTRAL POLTAVA REGION, CAUSING FIRE, SAYS COMPANY
-- 11/14 22:53 [FirstSquawk] US TRANSPORTATION SEC. DUFFY: FLIGHT OPERATIONS ARE SLOWLY RETURNING TO NORMAL THIS MORNING.
-- 11/14 22:54 [FirstSquawk] DUFFY SAYS WE ARE IN CLOSE COORDINATION WITH THE AIRLINES TO SUPPORT THE ONGOING RECOVERY
-- 11/14 22:54 [FirstSquawk] DUFFY SAYS PASSENGERS WILL CONTINUE TO SEE SOME DELAYS AND CANCELLATIONS AS CARRIERS RESCHEDULE FLIGHTS AND REPOSITION AIRCRAFT/CREWS WHERE THEY ARE NEEDED MOST
-- 11/14 22:57 [FirstSquawk] ITALY DATA PRIVACY AGENCY FINES META €805M
-- 11/14 23:30 [financialjuice] Fed’s Collins: Best approach to high living costs is restoring inflation stability
-- 11/14 23:30 [financialjuice] Fed's Collins: longer-term inflation expectations likely to remain anchored
-- 11/14 23:30 [financialjuice] Fed’s Collins: inflation expectations remain anchored
-- 11/14 23:30 [financialjuice] Fed's Collins: steady, gradual approach to rate hikes suitable amid risks on both sides
-- 11/14 23:30 [financialjuice] Fed's Collins: essential for Fed to reduce inflation to 2%
-- 11/14 23:30 [financialjuice] Fed's Collins: job market in ‘uncommon steadiness’; may strengthen further
-- 11/14 23:30 [financialjuice] Fed's Collins: a strong case to keep rates steady at October FOMC meeting
-- 11/14 23:30 [financialjuice] Fed's Collins: with inflation and jobs figures, central bank may need to raise rates beyond recent forecasts
-- 11/14 23:31 [financialjuice] Fed's Collins: potential financial conditions to curb economy more than anticipated
-- 11/14 23:38 [financialjuice] Elon Musk: Jensen managed Nvidia supply chain expertly, but many agreements were handshakes, not written contracts
-- 11/14 23:39 [financialjuice] Elon Musk on Jensen Huang: without Jensen, some crucial deals would be lost
-- 11/14 23:40 [DeItaone] MUSK: JENSEN DROVE SUPPLY CHAIN BRILLIANTLY AT NVIDIA, BUT MANY OF THOSE DEALS WERE A HANDSHAKE WITH JENSEN, NOT A WRITTEN CONTRACT
-- 11/14 23:41 [DeItaone] ELON MUSK ON JENSEN HUANG: WITHOUT JENSEN, AT LEAST SOME OF THOSE CRITICAL DEALS WILL BE LOST
-- 11/14 23:50 [FirstSquawk] U.S. Transportation Secretary: Flight operations are slowly returning to normal this morning.
-- 11/14 23:50 [FirstSquawk] U.S. Transportation Secretary: We are in close coordination with airlines to support the continued resumption of air traffic.
-- 11/14 23:50 [FirstSquawk] U.S. Transportation Secretary: Travelers will continue to face some delays and cancellations, while other flights will be rescheduled.
-- 11/14 23:51 [FirstSquawk] EU foreign policy chief: We urge Israel to allow humanitarian aid to reach the Gaza Strip
-- 11/14 23:51 [FirstSquawk] EU foreign policy chief: We call on Israel to reopen the crossings into Gaza
-- 11/14 23:51 [FirstSquawk] EU foreign policy chief: Flooding and rain in the Gaza Strip are worsening an already dire situation
-- 11/14 23:52 [FirstSquawk] Yemeni Armed Forces: Over the past few hours, we carried out 723 airstrikes and targeted operations against Houthi militia positions.
-- 11/15 00:09 [financialjuice] Kremlin: Putin, Xi and Trump to hold trilateral meeting in Shenzhen on Nov. 19 alongside APEC summit
-- 11/15 00:11 [FirstSquawk] FlightAware: Around 4,000 domestic and international flights canceled in the United States today
-- 11/15 00:11 [FirstSquawk] FlightAware: Delta cancels 20% of its scheduled flights today, United 18%, and American Airlines 15%
-- 11/15 00:11 [FirstSquawk] Kremlin: Putin, Xi and Trump will meet in "Shenzhen" on November 19 on the sidelines of the "APEC" summit.
-- 11/15 00:58 [financialjuice] Russia strikes cargo ship in Ukraine’s Chornomorsk port: RIA cites Russian defense ministry
-- 11/15 01:00 [financialjuice] US transportation secretary Duffy: aviation resumes full operation after Friday shutdown
-- 11/15 01:02 [financialjuice] Duffy: unclear whether shutdown caused by incompetence or faulty router
-- 11/15 01:03 [financialjuice] Duffy on aviation shutdown: says it was not a cyberattack
-- 11/15 01:13 [financialjuice] US FAA administrator: system stays stable on Saturday
-- 11/15 01:13 [financialjuice] US FAA administrator: expects between 4,000 and 5,000 of scheduled flights today will likely be canceled
-- 11/15 01:13 [financialjuice] US FAA administrator: delays and cancellations today will enable full recovery on Sunday
-- 11/15 01:14 [financialjuice] US FAA administrator: we see no evidence of wrongdoing, and no evidence of anything AI linked
-- 11/15 01:15 [financialjuice] US FAA administrator: anticipates between 4,000 and 5,000 scheduled flights likely to be canceled today
-- 11/15 01:24 [FirstSquawk] Speaker of the U.S. House of Representatives: There is no need for an investigation to recognize the need to modernize the air traffic control system, as some of its equipment dates back to the 1980s.
-- 11/15 01:24 [FirstSquawk] U.S. Transportation Secretary: We have returned to normal, full air traffic operations after the halt caused by yesterday’s Friday outage.
-- 11/15 01:24 [FirstSquawk] U.S. Transportation Secretary: We had 500 aircraft in the air when the ground stop was imposed, and all our planes have landed safely.
-- 11/15 01:24 [FirstSquawk] U.S. Transportation Secretary: The failures occurred during maintenance work to convert the cables from analog to digital.
-- 11/15 01:25 [financialjuice] US FAA administrator: collaborating with aviation stakeholders; all passengers will be either reaccommodated on a flight or receive a full refund
-- 11/15 01:25 [FirstSquawk] U.S. Transportation Secretary: We use outdated air traffic control equipment that is decades old and needs to be replaced.
-- 11/15 01:25 [FirstSquawk] U.S. Transportation Secretary: It is unclear whether the cause of the aviation disruption is a technical problem with routers or a lack of competence.
-- 11/15 01:25 [FirstSquawk] U.S. Transportation Secretary: The shutdown of air navigation systems was not the result of a cyberattack
-- 11/15 01:26 [FirstSquawk] U.S. Transportation Secretary: President Trump called for upgrading air navigation equipment, but Congress failed to recognize the importance of doing so
-- 11/15 01:26 [FirstSquawk] U.S. Transportation Secretary: We have been talking for about two years about modernizing the air traffic control system, and we have asked Congress to provide funding.
-- 11/15 01:26 [FirstSquawk] U.S. Transportation Secretary: Congress allocated $12.5 billion to upgrade navigation systems, but it has not provided us with the full funding.
-- 11/15 01:27 [FirstSquawk] U.S. Transportation Secretary: The aviation system modernization has bipartisan support, and most of the money is spent in Democratic cities and states.
-- 11/15 01:27 [FirstSquawk] U.S. Transportation Secretary: We hope the aviation system modernization will receive congressional support, and we will continue engaging with lawmakers.
-- 11/15 01:27 [FirstSquawk] U.S. Federal Aviation Administration director: The disruption was caused by an equipment problem, and we are working to determine the cause.
-- 11/15 01:28 [FirstSquawk] U.S. Federal Aviation Administration director: The glitch was caused by improper installation, incorrect configuration, or a malfunction in a network router.
-- 11/15 01:31 [DeItaone] US AVIATION CHAOS: OVER 22,000 FLIGHTS CANCELED OR DELAYED America’s air travel system is struggling to recover from its worst nationwide flight shutdown since 9/11. A nearly five-hour FAA ground stop on Friday triggered roughly 10,000 canc…
-- 11/15 01:31 [financialjuice] Duffy on aviation shutdown: root cause of impact on our system was not a foreign actor
-- 11/15 02:07 [FirstSquawk] AFP: More than 16,000 flights canceled in the United States on Friday and Saturday
-- 11/15 02:07 [FirstSquawk] French Interior Ministry: Around 106,000 people are taking part in Saturday demonstrations across France
-- 11/15 02:25 [FirstSquawk] Netanyahu appeals to Eisenkot to reach an agreement and form a national unity government
-- 11/15 02:25 [FirstSquawk] Netanyahu: My meeting with Eisenkot strengthened my conviction about how necessary it is to form a national unity government at this stage.
-- 11/15 02:25 [FirstSquawk] Netanyahu: A narrow government or a government relying on the support of terrorism supporters will not be able to remove the threat facing Israel.
-- 11/15 02:25 [FirstSquawk] Netanyahu: The national unity government will fulfill the aspiration for national reconciliation and to heal the rifts between us.
-- 11/15 02:32 [DeItaone] DUFFY ON AVIATION SHUTDOWN: ROOT CAUSE OF THE IMPACT ON OUR SYSTEM WASN'T A FOREIGN ACTOR
-- 11/15 02:44 [FirstSquawk] U.S. Central Command: More than 1.7 billion barrels of oil have been transported through the Strait of Hormuz by our Gulf partners
-- 11/15 02:45 [FirstSquawk] U.S. Central Command: F-16 fighter jets conduct patrols over territorial waters in the Middle East
-- 11/15 02:45 [FirstSquawk] Iran’s Foreign Ministry: Rubio openly threatens to starve Iranians through a blockade, admitting to pursuing policies that amount to war crimes.
-- 11/15 02:45 [FirstSquawk] Russian Ministry of Defense: We destroyed 39 Ukrainian drones in Crimea and various parts of the country, including Moscow.
 - 11/15 05:11 [DeItaone] MORE THAN 10,000 FLIGHTS DELAYED OR CANCELED SATURDAY AS AIRLINES WORK TO RESTORE NORMAL SCHEDULES -- FLIGHTAWARE
 - 11/15 05:19 [financialjuice] US envoy Jared Kushner: Witkoff and | in close contact with Russia, Ukraine and European allies on next steps
 - 11/15 05:19 [financialjuice] Kushner: focus now is on enabling direct talks between Moscow and European partners
@@ -129,3 +46,68 @@
 - 11/15 09:13 [FirstSquawk] Trump Sees Chance to Advance Arms Talks With China and Russia's Leaders as He Eyes Legacy - NA
 - 11/15 09:15 [FirstSquawk] Trump Attacks Newsom Over Death Penalty Decisions, Compares Released Inmates to Hannibal Lecter
 - 11/15 09:16 [FirstSquawk] FAA Says Investigation Has Not Yet Identified Cause of Nationwide Ground Stop - CNBC
+- 11/15 09:17 [FirstSquawk] Democrats Gain Complete Control of House Seats Along the US West Coast and Southern Border - leading report
+- 11/15 09:20 [FirstSquawk] FT: US Air Traffic Control Network Described as Held Together by 'String and Duct Tape' After Outage
+- 11/15 09:23 [FirstSquawk] IDF, Shin Bet Carry Out Strike Targeting Senior Hamas Figure, More Details Expected Later - WSN
+- 11/15 09:24 [FirstSquawk] Iran's IRGC Navy Says Two Oil Tankers Hit Naval Mines While Secretly Transiting Strait of Hormuz, Both Catch Fire - WSN
+- 11/15 09:26 [FirstSquawk] US Working to Bring Europe and Russia Into Direct Dialogue on Ukraine, Kushner Says, CBS Reports
+- 11/15 09:27 [financialjuice] U.S. diesel drops under $6 a gallon for first time since September: GasBuddy analyst Patrick De Haan
+- 11/15 09:30 [FirstSquawk] Rafah Brigade Commander Samir Abu Younis Killed in Israeli Airstrike, Hamas Source Tells Reuters
+- 11/15 09:33 [FirstSquawk] Thousands of Flights Affected as US Aviation Disruptions Continue Into Sunday
+- 11/15 09:37 [FirstSquawk] Hamas Rafah Brigade Commander Samir Abu Younis Targeted in Israeli Strike, Israeli Security Source Says
+- 11/15 09:39 [FirstSquawk] NYT: US Airport Car Rental Offices See Growing Lines as Available Vehicles Dwindle
+- 11/15 09:43 [FirstSquawk] NYT: Americans Seek Alternatives to Air Travel, Turning to Trains, Cars and Moving Trucks
+- 11/15 09:45 [FirstSquawk] NYT: US Aviation Disruptions Continue After 9,000 Friday Cancellations and 5,000 Saturday Delays
+- 11/15 09:50 [FirstSquawk] SpaceX's Starship Advances Toward Completion of 15th Test Flight and Return Landing, Reuters Says
+- 11/15 09:55 [FirstSquawk] Four Missiles Fired at Tent in Khan Younis' Mawasi Area in Israeli Strike, Media Reports
+- 11/15 09:56 [FirstSquawk] Israeli Airstrike Kills Newly Appointed Rafah Brigade Commander Samir Abu Younis in Southern Gaza, Media Says
+- 11/15 10:03 [FirstSquawk] New Rafah Brigade Commander Samir Abu Younis Killed in Strike Targeting Him in Khan Younis, Correspondent Says
+- 11/15 10:07 [FirstSquawk] WSJ: Aging Network of Cables and Communications Equipment Underpins US Air Traffic Control System That Grounded Flights Friday
+- 11/15 10:12 [FirstSquawk] Elon Musk Questions Need for Long-Term Savings as He Predicts 'Superintelligent Abundance'
+- 11/15 10:14 [FirstSquawk] .US Shifts Focus to Promoting Direct Russia-Europe Dialogue Following Ukraine Peace Talks, Kushner Says
+- 11/15 10:20 [FirstSquawk] Iran's IRGC Navy Reports Two Tankers on Fire Following Naval Mine Strikes in Strait of Hormuz
+- 11/15 10:24 [FirstSquawk] SpaceX Makes History as Starship Safely Returns From Orbit and Completes Landing Maneuver, CNN Says
+- 11/15 10:31 [FirstSquawk] GTA VI Is Almost Here, With Gamers' Shower Schedules Leaving Just 'One Shower' to Go, Rawsalerts Says
+- 11/15 10:38 [FirstSquawk] US diesel below $6 a gallon at 2-month low on easing tensions, weaker demand
+- 11/15 13:11 [FirstSquawk] Fox News: Number of Canceled Flights Across the U.S. Climbs to 7,000 on Saturday
+- 11/15 13:14 [FirstSquawk] Bahrain TV: Iranian Drones Intercepted and Destroyed by Air Defense Forces
+- 11/15 13:16 [FirstSquawk] Politico: The Quad Becomes the Latest International Alliance to Weaken Under Trump
+- 11/15 13:18 [FirstSquawk] WSJ: Trump Keeps Pressure on Iran With Blockade and Sanctions Amid Internal Talks on Fresh Strikes
+- 11/15 13:19 [FirstSquawk] WSJ, Citing U.S. Officials: Iran Possesses an Estimated 1,500 to 2,500 Missiles
+- 11/15 13:21 [FirstSquawk] SCMP: ASEAN’s Neutrality Under Scrutiny Ahead of World Leaders’ Visit to the Philippines
+- 11/15 13:25 [FirstSquawk] China-U.S. Trade Council Holds Inaugural Meeting via Video Link, China's Commerce Ministry Says
+- 11/15 13:26 [FirstSquawk] Beijing and Washington Commit to Expanding Economic Cooperation and Addressing Trade Concerns Through Continued Dialogue.
+- 11/15 13:27 [FirstSquawk] Benzinga: Jensen Huang’s ‘Whatever’ and ‘I Don’t Care’ Comments Draw Attention as Affair Scandal Dims His Popularity in Taiwan - Reports
+- 11/15 13:28 [FirstSquawk] Netanyahu Urges Decisive Action to End Iran Threat "Once and for All," CBS Reports
+- 11/15 13:29 [FirstSquawk] UK's Prince William to Travel to India With Wife Kate - RTRS
+- 11/15 13:30 [FirstSquawk] Philippines Steps Up Efforts to Secure Emergency Oil Access From Regional Neighbors Indonesia and Thailand
+- 11/15 13:32 [FirstSquawk] Israeli Strike on Displacement Tent in Khan Younis Leaves One Dead, Al Arabiya Correspondent Says
+- 11/15 13:33 [FirstSquawk] Israeli Military: Senior Hamas Operative Targeted in Recent Strike
+- 11/15 13:34 [FirstSquawk] WSJ: Friday’s Air Travel Standstill Exposed Aging U.S. Aviation Communications Infrastructure
+- 11/15 13:36 [FirstSquawk] Russia Calls on Britain to End Nuclear Shield for European Allies if It Wants Peace in Ukraine, The Telegraph Reports
+- 11/15 13:37 [FirstSquawk] Eli Lilly Says Its Obesity Drugs Demonstrated Weight-Loss Results in Clinical Studies - RTRS
+- 11/15 13:38 [FirstSquawk] Japan Hotels and Tour Operators Target Indian Travelers With Customized Services Amid 39% Spending Growth in 2025 - NA
+- 11/15 13:39 [FirstSquawk] French Interior Ministry Reports 219 Arrests During Countrywide Demonstrations
+- 11/15 13:41 [FirstSquawk] Over 40% of Diabetes Cases Go Undetected, Leaving Millions Undiagnosed - WHO
+- 11/15 13:42 [FirstSquawk] Iran Reportedly Planning Drone Strike Targeting Trump and Senior U.S. Officials, According to Israeli Intelligence - Leading reports
+- 11/15 14:01 [FirstSquawk] Kushner Says Both Sides Understand the Need to Make Pragmatic Compromises to Bring the War to an End
+- 11/15 14:02 [FirstSquawk] U.S. Envoy Kushner: Facilitating Direct Talks Between Russia and Europe Is Our Current Priority
+- 11/15 14:03 [FirstSquawk] Jared Kushner: Witkoff and I Are Coordinating Closely With Russia, Ukraine and European Allies on the Way Forward
+- 11/15 14:03 [FirstSquawk] Japan’s Approach to Foreign Labour Must Go Beyond Economic Contributions and Embrace Social Inclusion - NA
+- 11/15 14:05 [FirstSquawk] Lebanon’s General Security: We Did Not Tell Baghdad the Al-Alwani Case Had a Moral Dimension
+- 11/15 14:08 [FirstSquawk] FlightAware Reports More Than 10,000 Flight Delays and Cancellations in the U.S. on Saturday
+- 11/15 14:11 [FirstSquawk] Gaza to Get Civilian Police Force of 11,000 Young Men Under Peace Council Plan, Yedioth Ahronoth Reports
+- 11/15 14:17 [FirstSquawk] Al-Zaidi Pledges Nationwide Crackdown on Oil Smuggling Across Iraq, From Zakho to Basra
+- 11/15 14:24 [FirstSquawk] Survey: 46% of Americans Oppose AI Making Insurance Claim Decisions, While 5% Support Full Autonomy - UNUSUAL WHALES
+- 11/15 14:27 [FirstSquawk] Ukraine’s President Sharpens Criticism of SpaceX Over Speed-Capping Measures - RTRS
+- 11/15 14:29 [FirstSquawk] Iraq’s Al-Zaidi Sacks Security Officials in Babil, Including PMF Commander
+- 11/15 14:32 [FirstSquawk] SCMP: Aging Copper Wiring Upgrades Behind Widespread U.S. Flight Disruptions
+- 11/15 14:33 [FirstSquawk] Israel Reportedly Warns U.S. of Potential Iranian Drone Attack Targeting Trump Administration, WSN Reports
+- 11/15 14:35 [FirstSquawk] Eisenkot Vows to Continue Efforts to Establish a National Emergency Government Swiftly
+- 11/15 14:36 [FirstSquawk] Syrian Security Forces Investigate Explosion in Jaramana After Securing the Site
+- 11/15 14:50 [FirstSquawk] Syrian Security Forces Investigate Explosion in Jaramana After Securing the Site - FT
+- 11/15 14:51 [FirstSquawk] European Banking Watchdog Retreats From Push for Unified Deposit Insurance Scheme, FT Says
+- 11/15 15:29 [FirstSquawk] Low fire, low hire’ job market hurts US and UK productivity
+- 11/15 15:30 [FirstSquawk] Iran will not remain in a state of “neither war nor peace,” Parliament Speaker Mohammad Bagher Ghalibaf said Sunday.
+- 11/15 15:30 [FirstSquawk] Bitcoin’s latest selloff is testing the resolve of some of the cryptocurrency market’s most committed investors, as a succession of setbacks pushes prices toward their lowest levels
+- 11/15 15:30 [FirstSquawk] Iran's Revolutionary Guard claims responsibility for a drone attack on a radar at a U.S. defense facility in Bahrain.
