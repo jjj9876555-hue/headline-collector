@@ -7,60 +7,27 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-11-16 04:51 JST／対象: 11/15 22:51 〜 11/16 04:51 JST（時刻はすべて日本時間）
+生成: 2026-11-16 08:35 JST／対象: 11/16 02:35 〜 11/16 08:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 2 | 11/16 00:10 | 11/16 02:23 | ⚠ 133分（00:10→02:23） |
-| FirstSquawk | 41 | 11/15 23:20 | 11/16 04:34 | ⚠ 74分（23:23→00:38） |
-| financialjuice | 23 | 11/16 00:00 | 11/16 04:23 | ⚠ 71分（00:19→01:30） |
+| DeItaone | 0 | - | - | - |
+| FirstSquawk | 23 | 11/16 03:10 | 11/16 08:18 | ⚠ 108分（05:16→07:05） |
+| financialjuice | 28 | 11/16 02:41 | 11/16 08:23 | ⚠ 84分（06:09→07:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 62 行（統合前 67 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 46 行（統合前 51 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/15 23:20 [FirstSquawk] A second explosion has been heard in the Yemeni city of Marib.
-- 11/15 23:21 [FirstSquawk] U.S. Transportation Secretary tells NBC: Flight disruptions will end by the end of today or tomorrow.
-- 11/15 23:21 [FirstSquawk] U.S. Transportation Secretary: We removed the router responsible for broadcasting the data that caused the airport network problem.
-- 11/15 23:22 [FirstSquawk] U.S. Transportation Secretary: We are investigating whether the malfunction was caused by an error in installing the router or a defect in it.
-- 11/15 23:23 [FirstSquawk] Jordanian army announces the arrest of an Israeli who tried to swim across from the Israeli side into Jordanian territorial waters
-- 11/15 23:23 [FirstSquawk] Saudi Arabia announces the interception and destruction of two drones launched by the Houthis over the Mecca region
-- 11/15 23:23 [FirstSquawk] AFP citing the Red Cross: Houthis release 600 prisoners from government forces in Yemen
-- 11/16 00:00 [financialjuice] Estonia's foreign minister: will shut all Estonian-Russian border crossings starting 1 December
-- 11/16 00:01 [financialjuice] Estonia foreign minister: border closing over clear proof Russia's military intelligence ordered sabotage against defence firm
-- 11/16 00:10 [DeItaone] BESSENT SAYS NVIDIA NEEDS TO 'GO OUTSIDE THE COMPANY' IN SEARCH FOR NEW TOP EXECUTIVE IN LIGHT OF CHIP EXPORT-SPYING SCANDAL
-- 11/16 00:14 [financialjuice] Russian forces strike Ukrainian cargo ship transporting supplies for Ukrainian army in the Black Sea: Ifax
-- 11/16 00:19 [financialjuice/FirstSquawk] Bessent on Fox warns Federal Reserve against additional monetary tightening
-- 11/16 00:38 [FirstSquawk] Estonia’s foreign minister: We will close our border crossings with Russia after an order from Russia to carry out a sabotage attack on a defense industry company was confirmed.
-- 11/16 00:38 [FirstSquawk] Estonia’s foreign minister: Our border with Russia will be closed on December 1, and it must understand that any hostile act against us will have consequences.
-- 11/16 00:38 [FirstSquawk] Russian Ministry of Defense: We targeted a cargo ship carrying supplies for Ukrainian forces in the Black Sea
-- 11/16 00:38 [FirstSquawk] Lebanese Foreign Minister: We are working to place all weapons under state control and reclaim the authority to decide on war and peace.
-- 11/16 01:00 [FirstSquawk] Saudi Arabia: A drone intercepted and destroyed in the Medina region
-- 11/16 01:02 [FirstSquawk] Indonesia, Thailand, Philippines to set up shared oil reserves; Japan spearheads project after Iran war creates ASEAN energy shortages - Nikkei
-- 11/16 01:03 [FirstSquawk] US lawmakers are accelerating efforts to crack down on advanced AI chips reaching China in the wake of revelations that Nvidia founder Jensen Huang had an affair with a woman suspected of being a Chinese spy. - FT
-- 11/16 01:03 [FirstSquawk] UK businesses facing big rise in electricity bills by end of decade - FT
-- 11/16 01:04 [FirstSquawk] Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment - CNBC
-- 11/16 01:04 [FirstSquawk] Rivian, Lucid, Scout CEOs aren’t counting on Democrats to restore EV federal support after midterm wins - CNBC
-- 11/16 01:04 [FirstSquawk] Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot - CNBC
-- 11/16 01:22 [FirstSquawk] Israeli media, citing sources: No progress was recorded in the meeting between the negotiating teams from Likud, Yesh Atid and the Blue and White alliance.
-- 11/16 01:22 [FirstSquawk] Joint statement by the Likud and Yesh Atid parties: The meeting between representatives of Yesh Atid, Likud and Blue and White has ended.
-- 11/16 01:23 [FirstSquawk] Joint statement by the Likud and Yisrael Beiteinu parties: The meeting was held in a businesslike and serious atmosphere, and it was agreed to continue the talks.
-- 11/16 01:30 [financialjuice] Israel October CPI declines 0.1% month-on-month vs September's 0.5% drop – statistics bureau
-- 11/16 01:30 [financialjuice] Israel October CPI 1.1% yr/yr vs 1.6% in September – statistics bureau
-- 11/16 01:30 [financialjuice] Israel annual inflation rate at lowest level since April 2021
-- 11/16 02:21 [FirstSquawk] NYT, citing a U.S. military official: The aircraft carrier Roosevelt will join two other aircraft carriers in the Middle East by tomorrow.
-- 11/16 02:21 [FirstSquawk] Israel’s Channel 12: The meeting between the Likud negotiating teams and Yair Lapid was preliminary and did not discuss rotating the premiership.
-- 11/16 02:21 [FirstSquawk] Representatives of the Yashar party, led by Eisenkot, and the Likud party, led by Netanyahu, conclude a meeting they describe as “positive.”
-- 11/16 02:22 [FirstSquawk] Two Palestinians killed and others injured in a strike by an Israeli drone in the city of Rafah in the southern Gaza Strip.
-- 11/16 02:23 [DeItaone] https://t.me/boost/WalterBloomberg
 - 11/16 02:41 [financialjuice/FirstSquawk] Howard Lutnick expected to fly on Air Force One with president to China: Semafor
 - 11/16 02:55 [financialjuice/FirstSquawk] Yemen's Houthis: Target king Khalid airport in Riyadh and financial center with two ballistic missiles
 - 11/16 02:55 [financialjuice] No Saudi confirmation of Houthi claim
+- 11/16 03:10 [FirstSquawk] BESSENT ON FOX WARNS FEDERAL RESERVE AGAINST ADDITIONAL MONETARY TIGHTENING
 - 11/16 03:19 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT SAYS NVIDIA NEEDS A “DRAMATIC SHAKEUP” IN LEADERSHIP
 - 11/16 03:33 [FirstSquawk] DIAMONDBACK IS NEARING A $5 BLN DEAL TO EXPAND DRILLING IN THE OIL-RICH PERMIAN BASIN - FT
 - 11/16 03:34 [FirstSquawk] DIAMONDBACK WILL PAY ABOUT $5BN TO BUY DOUBLE EAGLE V - FT
@@ -86,3 +53,20 @@
 - 11/16 04:34 [FirstSquawk] AUSTRALIA, CANADA, ITALY AND BRITAIN SAY IN A JOINT STATEMENT THAT THE HUMANITARIAN SITUATION ON THE GROUND IN GAZA IS DIRE, URGING ISRAEL TO END DELAYS AND PERMIT IMMEDIATE, SWIFT HUMANITARIAN ACCESS ACROSS GAZA
 - 11/16 04:34 [FirstSquawk] BITCOIN FALLS TO $65,000 AS CRYPTO TRADERS BRACE FOR A BUSY WEEK
 - 11/16 04:34 [FirstSquawk] QUALCOMM'S $172.47 STOCK MAY BE FAIRLY VALUED ON CASH FLOW MODEL
+- 11/16 05:03 [FirstSquawk] US TREASURY SECRETARY SCOTT BESSENT CALLED FOR A MAJOR LEADERSHIP SHAKEUP AT NVIDIA, URGING THE BOARD TO APPOINT AN OUTSIDER AMID ALLEGATIONS OF AI CHIP SALES TO CHINESE ENTITIES, WHILE FORMER CEO JENSEN HUANG IS REPORTEDLY CONSIDERING A RE…
+- 11/16 05:03 [FirstSquawk] US TREASURY SECRETARY SCOTT BESSENT DEMANDED ANSWERS FROM NVIDIA’S BOARD WITHIN 10 DAYS, AS LAWMAKERS INCREASE PRESSURE ON THE COMPANY AND COMMERCE SECRETARY HOWARD LUTNICK OVER EXPORT-CONTROL FAILURES AND POTENTIAL NATIONAL SECURITY RISKS.
+- 11/16 05:10 [FirstSquawk] MAIRE SAYS IT WILL ACQUIRE NATURAL GAS LIQUEFACTION PROCESS TECHNOLOGIES FROM U.S.-BASED CHART INDUSTRIES, INCLUDING OVER 90 PATENTS AND PROPRIETARY KNOW-HOW, FOR A CONSIDERATION OF $220 MLN
+- 11/16 05:11 [FirstSquawk] TRUMP SAYS THE INTERIOR DEPARTMENT HAS THE ABSOLUTE RIGHT TO FIX THE COURSE AND WILL IMMEDIATELY APPEAL, ON AN EXPEDITED BASIS, WHAT HE CALLS A HIGHLY DESTRUCTIVE AND POLITICAL DECISION BY THE JUDGE, WARNING THAT TIME IS OF THE ESSENCE OR “…
+- 11/16 05:15 [financialjuice/FirstSquawk] Vulcan rocket from United Launch Alliance fails soon after liftoff, dooming 40 Amazon LEO internet satellites
+- 11/16 05:22 [financialjuice] Iran navy: oil tanker ignites after hitting naval mine east of Strait of Hormuz - state media
+- 11/16 05:39 [financialjuice] Pope Leo decries exploitation of Amazon rainforest in Peru: destruction threatens balance of creation
+- 11/16 05:40 [financialjuice] Pope, in meeting with Amazon tribal peoples, condemns killings of indigenous leaders in land conflicts
+- 11/16 05:42 [financialjuice] Pope urges Catholics to resist exploitation of Amazon rainforest with perseverance
+- 11/16 06:09 [financialjuice] NTSB: tanker in New Orleans ship collision experienced steering failure
+- 11/16 06:09 [financialjuice] Schmid: demand always influences inflation
+- 11/16 06:09 [financialjuice] Schmid: Inflation shifting in wrong direction, is 'uncomfortably above' 2% target
+- 11/16 06:09 [financialjuice] NTSB: problem with steering reported on board
+- 11/16 07:05 [FirstSquawk] SAMSUNG TO MAKE SPACEX SATELLITE CHIPS IN US – SEOUL ECONOMIC DAILY
+- 11/16 07:34 [financialjuice/FirstSquawk] Beijing Sinotau International Pharmaceutical Technology: highest bid price in global offering HK$68 per H share
+- 11/16 07:34 [financialjuice] Schmid: it is not the Fed's job to influence the price of any single good or service
+- 11/16 08:23 [financialjuice] South Korea President Lee to hold discussions with Japan PM on November 17: Blue House

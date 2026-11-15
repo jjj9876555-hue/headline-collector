@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-11-16 04:51 JST／対象: 11/15 04:51 〜 11/16 04:51 JST（時刻はすべて日本時間）
+生成: 2026-11-16 08:35 JST／対象: 11/15 08:35 〜 11/16 08:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 4 | 11/15 05:11 | 11/16 02:23 | ⚠ 1051分（06:39→00:10） |
-| FirstSquawk | 160 | 11/15 09:01 | 11/16 04:34 | ⚠ 152分（10:38→13:11） |
-| financialjuice | 39 | 11/15 05:19 | 11/16 04:23 | ⚠ 595分（09:27→19:22） |
+| DeItaone | 2 | 11/16 00:10 | 11/16 02:23 | ⚠ 133分（00:10→02:23） |
+| FirstSquawk | 167 | 11/15 09:01 | 11/16 08:18 | ⚠ 152分（10:38→13:11） |
+| financialjuice | 45 | 11/15 08:48 | 11/16 08:23 | ⚠ 595分（09:27→19:22） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 197 行（統合前 204 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 206 行（統合前 215 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/15 05:11 [DeItaone] MORE THAN 10,000 FLIGHTS DELAYED OR CANCELED SATURDAY AS AIRLINES WORK TO RESTORE NORMAL SCHEDULES -- FLIGHTAWARE
-- 11/15 05:19 [financialjuice] US envoy Jared Kushner: Witkoff and | in close contact with Russia, Ukraine and European allies on next steps
-- 11/15 05:19 [financialjuice] Kushner: focus now is on enabling direct talks between Moscow and European partners
-- 11/15 05:22 [financialjuice] Kushner: both sides recognize practical compromises needed to end war
-- 11/15 05:57 [financialjuice] Bitcoin falls 5.3% to $64,733.68
-- 11/15 06:39 [DeItaone] $SPCX - SPACEX MAKES HISTORY BY CATCHING STARSHIP WITH LAUNCH TOWER SpaceX successfully caught its massive Starship rocket using mechanical arms at its Texas launch site, marking a major breakthrough in reusable spaceflight. The rocket desc…
-- 11/15 06:47 [financialjuice] Iran's IRGC navy: two tankers ignite after hitting naval mines in Strait of Hormuz - state media
-- 11/15 07:23 [financialjuice] Israeli military: struck senior commander in Hamas military wing
 - 11/15 08:48 [financialjuice] Saudi-led coalition: drone intercepted and destroyed in Saudi Arabia's eastern region
 - 11/15 09:01 [FirstSquawk] Taiwan-Malaysia Ties Fray After Anwar's China Remarks, Putting Semiconductor Investment Prospects at Risk - NA
 - 11/15 09:02 [FirstSquawk] Campaign to Reinstate Jensen Huang as NVIDIA CEO Gains Momentum, With Petition Surpassing 120,000 Signatures - TSI
@@ -221,3 +213,20 @@
 - 11/16 04:34 [FirstSquawk] AUSTRALIA, CANADA, ITALY AND BRITAIN SAY IN A JOINT STATEMENT THAT THE HUMANITARIAN SITUATION ON THE GROUND IN GAZA IS DIRE, URGING ISRAEL TO END DELAYS AND PERMIT IMMEDIATE, SWIFT HUMANITARIAN ACCESS ACROSS GAZA
 - 11/16 04:34 [FirstSquawk] BITCOIN FALLS TO $65,000 AS CRYPTO TRADERS BRACE FOR A BUSY WEEK
 - 11/16 04:34 [FirstSquawk] QUALCOMM'S $172.47 STOCK MAY BE FAIRLY VALUED ON CASH FLOW MODEL
+- 11/16 05:03 [FirstSquawk] US TREASURY SECRETARY SCOTT BESSENT CALLED FOR A MAJOR LEADERSHIP SHAKEUP AT NVIDIA, URGING THE BOARD TO APPOINT AN OUTSIDER AMID ALLEGATIONS OF AI CHIP SALES TO CHINESE ENTITIES, WHILE FORMER CEO JENSEN HUANG IS REPORTEDLY CONSIDERING A RE…
+- 11/16 05:03 [FirstSquawk] US TREASURY SECRETARY SCOTT BESSENT DEMANDED ANSWERS FROM NVIDIA’S BOARD WITHIN 10 DAYS, AS LAWMAKERS INCREASE PRESSURE ON THE COMPANY AND COMMERCE SECRETARY HOWARD LUTNICK OVER EXPORT-CONTROL FAILURES AND POTENTIAL NATIONAL SECURITY RISKS.
+- 11/16 05:10 [FirstSquawk] MAIRE SAYS IT WILL ACQUIRE NATURAL GAS LIQUEFACTION PROCESS TECHNOLOGIES FROM U.S.-BASED CHART INDUSTRIES, INCLUDING OVER 90 PATENTS AND PROPRIETARY KNOW-HOW, FOR A CONSIDERATION OF $220 MLN
+- 11/16 05:11 [FirstSquawk] TRUMP SAYS THE INTERIOR DEPARTMENT HAS THE ABSOLUTE RIGHT TO FIX THE COURSE AND WILL IMMEDIATELY APPEAL, ON AN EXPEDITED BASIS, WHAT HE CALLS A HIGHLY DESTRUCTIVE AND POLITICAL DECISION BY THE JUDGE, WARNING THAT TIME IS OF THE ESSENCE OR “…
+- 11/16 05:15 [financialjuice/FirstSquawk] Vulcan rocket from United Launch Alliance fails soon after liftoff, dooming 40 Amazon LEO internet satellites
+- 11/16 05:22 [financialjuice] Iran navy: oil tanker ignites after hitting naval mine east of Strait of Hormuz - state media
+- 11/16 05:39 [financialjuice] Pope Leo decries exploitation of Amazon rainforest in Peru: destruction threatens balance of creation
+- 11/16 05:40 [financialjuice] Pope, in meeting with Amazon tribal peoples, condemns killings of indigenous leaders in land conflicts
+- 11/16 05:42 [financialjuice] Pope urges Catholics to resist exploitation of Amazon rainforest with perseverance
+- 11/16 06:09 [financialjuice] NTSB: tanker in New Orleans ship collision experienced steering failure
+- 11/16 06:09 [financialjuice] Schmid: demand always influences inflation
+- 11/16 06:09 [financialjuice] Schmid: Inflation shifting in wrong direction, is 'uncomfortably above' 2% target
+- 11/16 06:09 [financialjuice] NTSB: problem with steering reported on board
+- 11/16 07:05 [FirstSquawk] SAMSUNG TO MAKE SPACEX SATELLITE CHIPS IN US – SEOUL ECONOMIC DAILY
+- 11/16 07:34 [financialjuice/FirstSquawk] Beijing Sinotau International Pharmaceutical Technology: highest bid price in global offering HK$68 per H share
+- 11/16 07:34 [financialjuice] Schmid: it is not the Fed's job to influence the price of any single good or service
+- 11/16 08:23 [financialjuice] South Korea President Lee to hold discussions with Japan PM on November 17: Blue House

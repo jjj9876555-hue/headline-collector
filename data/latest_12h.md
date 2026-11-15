@@ -7,58 +7,29 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-11-16 04:51 JST／対象: 11/15 16:51 〜 11/16 04:51 JST（時刻はすべて日本時間）
+生成: 2026-11-16 08:35 JST／対象: 11/15 20:35 〜 11/16 08:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 11/16 00:10 | 11/16 02:23 | ⚠ 133分（00:10→02:23） |
-| FirstSquawk | 78 | 11/15 17:05 | 11/16 04:34 | ⚠ 77分（17:07→18:24） |
-| financialjuice | 31 | 11/15 19:22 | 11/16 04:23 | ⚠ 115分（22:04→00:00） |
+| FirstSquawk | 61 | 11/15 20:38 | 11/16 08:18 | ⚠ 108分（05:16→07:05） |
+| financialjuice | 37 | 11/15 21:06 | 11/16 08:23 | ⚠ 115分（22:04→00:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 105 行（統合前 112 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 93 行（統合前 101 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/15 17:05 [FirstSquawk] Iran will pursue reparations from regional countries, the Foreign Ministry spokesman said Sunday, dismissing as baseless a compensation demand made by the Gulf Cooperation Council’s secretary-general.
-- 11/15 17:05 [FirstSquawk] Crypto update: #Bitcoin 63970.00 -0.68% #Ether 1782.40 +0.52% #BitcoinCash 203.40 +1.11% #EOS 0.1295 +0% #Litecoin 44.74 +1.06% #Stellar 0.1374 +3.23% #Dogecoin 0.0575 +1.23% #Uniswap 4.9628 +4.49% #Chainlink 9.0306 +2.98% #Polkadot 0.7153 …
-- 11/15 17:05 [FirstSquawk] US Office Products: Amazon handles fulfilment for 87% of the products here. Delivery speed is table stakes, not a differentiator.
-- 11/15 17:07 [FirstSquawk] Weekend markets update: #DAX 26710 -0.24% #DOW 52120 -0.27% #NASDAQ 27603 -0.82% #FTSE 10880 -0.16% #HANGSENG 23673 -0.21% #EURUSD 11025 +0.03% #GOLD 3840 -1.16% #SILVER 4780 -2.14% #USOIL 8830 +0.50%
-- 11/15 17:07 [FirstSquawk] US air travel chaos exposes system held together by ‘string and duct tape
-- 11/15 18:24 [FirstSquawk] Yemeni forces aligned with the internationally recognized government said they were withdrawing from the Bab el-Mandeb area, leaving the Iran-backed Houthis in control of territory overlooking the strategic shipping route
-- 11/15 18:25 [FirstSquawk] An Iranian lawmaker warned Sunday that Tehran would demonstrate what he called “absolute deterrence” if the United States launched a nuclear attack on parts of Iran
-- 11/15 18:26 [FirstSquawk] ASEAN leaders kicked off gatherings in Manila on Sunday morning, seeking more cooperation against geopolitical and economic headwinds -- as sticking points remain on the Myanmar crisis, transboundary haze and a South China Sea binding pact.
-- 11/15 19:10 [FirstSquawk] Bahrain Defence Force: Iran continues its systematic hostile approach through its criminal attacks targeting the Kingdom of Bahrain
-- 11/15 19:10 [FirstSquawk] Bahrain Defence Force: Air defense systems destroyed a number of Iranian aerial attacks before they could achieve their objectives.
-- 11/15 19:10 [FirstSquawk] Jordan’s State Security Court sentences the perpetrators of the terrorist attack in the town of Hammoud in Karak to death.
-- 11/15 19:11 [FirstSquawk] Jordan’s State Security Court sentences those responsible for the terrorist attack on the Hamoud Church in Karak to death.
-- 11/15 19:11 [FirstSquawk] Jordan’s State Security Court convicts the three perpetrators of carrying out terrorist acts that killed nine people on October 23
-- 11/15 19:11 [FirstSquawk] Jordan’s State Security Court convicts one of the perpetrators of the Karak attack of providing funds to finance terrorist acts.
-- 11/15 19:12 [FirstSquawk] Jordan’s State Security Court convicts the perpetrators of the Karak attack of possessing weapons with the intent to use them to carry out terrorist acts.
-- 11/15 19:12 [FirstSquawk] Russian Ministry of Defense: 1,065 Ukrainian drones launched at various regions of Russia were destroyed in the past 24 hours.
-- 11/15 19:12 [FirstSquawk] Russia’s Defense Ministry announces that approximately 1,120 Ukrainian soldiers have been killed in the past 24 hours.
-- 11/15 19:22 [financialjuice] Iran's Fars News Agency: IRGC launched strikes on US base in Bahrain in retaliation for 'hostile' US actions
-- 11/15 19:23 [financialjuice] Iran’s IRGC: six drones struck US air defense radar at Bahrain’s al-Rifaa helicopter base - Press TV
-- 11/15 19:23 [financialjuice] Bahrain: several Iranian aerial assaults intercepted on Sunday
-- 11/15 19:38 [financialjuice] Many Russian drone attacks on substations enabled by Starshield speed limits, Zelenskiy says
-- 11/15 19:39 [FirstSquawk] Southern Armed Forces announce a repositioning of their troops from “Dhu Bab Airport” and the Bab al-Mandab area in western Taiz Governorate.
-- 11/15 19:39 [FirstSquawk] Yemen’s Southern Armed Forces announce a redeployment of their forces from “Dhu Bab Airport” and the Bab al-Mandab area in western Taiz Governorate.
-- 11/15 19:39 [FirstSquawk] Southern Armed Forces in Yemen: The redeployment is aimed at securing Aden and the neighboring governorates and reinforcing the front lines.
-- 11/15 19:40 [FirstSquawk] Yemen’s Southern Armed Forces: We will continue working to lift the Houthi siege of Taiz and end the suffering of its people.
-- 11/15 19:40 [FirstSquawk] Zelensky: Russian forces targeted energy infrastructure and railways overnight in 8 regions.
-- 11/15 19:51 [financialjuice] Ukraine: missile hits petrochemical plant and oil refinery in Russia’s Tatarstan, defense facility in Bryansk
-- 11/15 20:19 [financialjuice/FirstSquawk] Romanian PM: three commercial vessels hit by drones in the Black Sea near Sulina Canal
-- 11/15 20:29 [FirstSquawk] Zelenskyy: Speed limits in the "Starshield" system allowed Russia to attack electrical substations with drones.
-- 11/15 20:29 [FirstSquawk] Ukraine announces strikes on a petrochemical plant and an oil refinery in Russia’s Tatarstan and a defense facility in Bryansk.
 - 11/15 20:38 [FirstSquawk] New York socialists back Alexandria Ocasio-Cortez for 2028 presidential race - FT
 - 11/15 20:38 [FirstSquawk] Congress moves to pass tighter AI chip export rules following Nvidia scandal - FT
 - 11/15 20:38 [FirstSquawk] France’s once best hope of stopping Marine Le Pen is losing ground - FT
 - 11/15 20:39 [FirstSquawk] Bahrain intercepts Iranian aerial attacks as Tehran says it attacked US base - CNBC
 - 11/15 20:39 [FirstSquawk] ASEAN falls short on Myanmar crisis, South China Sea pact at Manila summit - Nikkei
+- 11/15 21:01 [FirstSquawk] Romanian PM: three commercial vessels hit by drones in the Black Sea near Sulina Canal
 - 11/15 21:06 [financialjuice/FirstSquawk] Iran's foreign minister to visit Oman Tuesday for discussions: IRNA citing ministry spokesperson
 - 11/15 21:15 [FirstSquawk] UK Maritime Trade Operations: Report from Indian shipping authorities that an oil tanker was attacked before entering the Strait of Hormuz
 - 11/15 21:16 [FirstSquawk] Israeli occupation forces have issued demolition notices for several residential buildings in Farsh al-Hawa, northwest of Hebron.
@@ -129,3 +100,20 @@
 - 11/16 04:34 [FirstSquawk] AUSTRALIA, CANADA, ITALY AND BRITAIN SAY IN A JOINT STATEMENT THAT THE HUMANITARIAN SITUATION ON THE GROUND IN GAZA IS DIRE, URGING ISRAEL TO END DELAYS AND PERMIT IMMEDIATE, SWIFT HUMANITARIAN ACCESS ACROSS GAZA
 - 11/16 04:34 [FirstSquawk] BITCOIN FALLS TO $65,000 AS CRYPTO TRADERS BRACE FOR A BUSY WEEK
 - 11/16 04:34 [FirstSquawk] QUALCOMM'S $172.47 STOCK MAY BE FAIRLY VALUED ON CASH FLOW MODEL
+- 11/16 05:03 [FirstSquawk] US TREASURY SECRETARY SCOTT BESSENT CALLED FOR A MAJOR LEADERSHIP SHAKEUP AT NVIDIA, URGING THE BOARD TO APPOINT AN OUTSIDER AMID ALLEGATIONS OF AI CHIP SALES TO CHINESE ENTITIES, WHILE FORMER CEO JENSEN HUANG IS REPORTEDLY CONSIDERING A RE…
+- 11/16 05:03 [FirstSquawk] US TREASURY SECRETARY SCOTT BESSENT DEMANDED ANSWERS FROM NVIDIA’S BOARD WITHIN 10 DAYS, AS LAWMAKERS INCREASE PRESSURE ON THE COMPANY AND COMMERCE SECRETARY HOWARD LUTNICK OVER EXPORT-CONTROL FAILURES AND POTENTIAL NATIONAL SECURITY RISKS.
+- 11/16 05:10 [FirstSquawk] MAIRE SAYS IT WILL ACQUIRE NATURAL GAS LIQUEFACTION PROCESS TECHNOLOGIES FROM U.S.-BASED CHART INDUSTRIES, INCLUDING OVER 90 PATENTS AND PROPRIETARY KNOW-HOW, FOR A CONSIDERATION OF $220 MLN
+- 11/16 05:11 [FirstSquawk] TRUMP SAYS THE INTERIOR DEPARTMENT HAS THE ABSOLUTE RIGHT TO FIX THE COURSE AND WILL IMMEDIATELY APPEAL, ON AN EXPEDITED BASIS, WHAT HE CALLS A HIGHLY DESTRUCTIVE AND POLITICAL DECISION BY THE JUDGE, WARNING THAT TIME IS OF THE ESSENCE OR “…
+- 11/16 05:15 [financialjuice/FirstSquawk] Vulcan rocket from United Launch Alliance fails soon after liftoff, dooming 40 Amazon LEO internet satellites
+- 11/16 05:22 [financialjuice] Iran navy: oil tanker ignites after hitting naval mine east of Strait of Hormuz - state media
+- 11/16 05:39 [financialjuice] Pope Leo decries exploitation of Amazon rainforest in Peru: destruction threatens balance of creation
+- 11/16 05:40 [financialjuice] Pope, in meeting with Amazon tribal peoples, condemns killings of indigenous leaders in land conflicts
+- 11/16 05:42 [financialjuice] Pope urges Catholics to resist exploitation of Amazon rainforest with perseverance
+- 11/16 06:09 [financialjuice] NTSB: tanker in New Orleans ship collision experienced steering failure
+- 11/16 06:09 [financialjuice] Schmid: demand always influences inflation
+- 11/16 06:09 [financialjuice] Schmid: Inflation shifting in wrong direction, is 'uncomfortably above' 2% target
+- 11/16 06:09 [financialjuice] NTSB: problem with steering reported on board
+- 11/16 07:05 [FirstSquawk] SAMSUNG TO MAKE SPACEX SATELLITE CHIPS IN US – SEOUL ECONOMIC DAILY
+- 11/16 07:34 [financialjuice/FirstSquawk] Beijing Sinotau International Pharmaceutical Technology: highest bid price in global offering HK$68 per H share
+- 11/16 07:34 [financialjuice] Schmid: it is not the Fed's job to influence the price of any single good or service
+- 11/16 08:23 [financialjuice] South Korea President Lee to hold discussions with Japan PM on November 17: Blue House
