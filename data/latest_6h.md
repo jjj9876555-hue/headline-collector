@@ -7,73 +7,60 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-11-15 15:49 JST／対象: 11/15 09:49 〜 11/15 15:49 JST（時刻はすべて日本時間）
+生成: 2026-11-15 23:22 JST／対象: 11/15 17:22 〜 11/15 23:22 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 53 | 11/15 09:50 | 11/15 15:30 | ⚠ 152分（10:38→13:11） |
-| financialjuice | 0 | - | - | - |
+| FirstSquawk | 34 | 11/15 18:24 | 11/15 23:21 | ⚠ 51分（21:16→22:07） |
+| financialjuice | 8 | 11/15 19:22 | 11/15 22:04 | ⚠ 58分（21:06→22:04） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 53 行（統合前 53 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 40 行（統合前 42 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/15 09:50 [FirstSquawk] SpaceX's Starship Advances Toward Completion of 15th Test Flight and Return Landing, Reuters Says
-- 11/15 09:55 [FirstSquawk] Four Missiles Fired at Tent in Khan Younis' Mawasi Area in Israeli Strike, Media Reports
-- 11/15 09:56 [FirstSquawk] Israeli Airstrike Kills Newly Appointed Rafah Brigade Commander Samir Abu Younis in Southern Gaza, Media Says
-- 11/15 10:03 [FirstSquawk] New Rafah Brigade Commander Samir Abu Younis Killed in Strike Targeting Him in Khan Younis, Correspondent Says
-- 11/15 10:07 [FirstSquawk] WSJ: Aging Network of Cables and Communications Equipment Underpins US Air Traffic Control System That Grounded Flights Friday
-- 11/15 10:12 [FirstSquawk] Elon Musk Questions Need for Long-Term Savings as He Predicts 'Superintelligent Abundance'
-- 11/15 10:14 [FirstSquawk] .US Shifts Focus to Promoting Direct Russia-Europe Dialogue Following Ukraine Peace Talks, Kushner Says
-- 11/15 10:20 [FirstSquawk] Iran's IRGC Navy Reports Two Tankers on Fire Following Naval Mine Strikes in Strait of Hormuz
-- 11/15 10:24 [FirstSquawk] SpaceX Makes History as Starship Safely Returns From Orbit and Completes Landing Maneuver, CNN Says
-- 11/15 10:31 [FirstSquawk] GTA VI Is Almost Here, With Gamers' Shower Schedules Leaving Just 'One Shower' to Go, Rawsalerts Says
-- 11/15 10:38 [FirstSquawk] US diesel below $6 a gallon at 2-month low on easing tensions, weaker demand
-- 11/15 13:11 [FirstSquawk] Fox News: Number of Canceled Flights Across the U.S. Climbs to 7,000 on Saturday
-- 11/15 13:14 [FirstSquawk] Bahrain TV: Iranian Drones Intercepted and Destroyed by Air Defense Forces
-- 11/15 13:16 [FirstSquawk] Politico: The Quad Becomes the Latest International Alliance to Weaken Under Trump
-- 11/15 13:18 [FirstSquawk] WSJ: Trump Keeps Pressure on Iran With Blockade and Sanctions Amid Internal Talks on Fresh Strikes
-- 11/15 13:19 [FirstSquawk] WSJ, Citing U.S. Officials: Iran Possesses an Estimated 1,500 to 2,500 Missiles
-- 11/15 13:21 [FirstSquawk] SCMP: ASEAN’s Neutrality Under Scrutiny Ahead of World Leaders’ Visit to the Philippines
-- 11/15 13:25 [FirstSquawk] China-U.S. Trade Council Holds Inaugural Meeting via Video Link, China's Commerce Ministry Says
-- 11/15 13:26 [FirstSquawk] Beijing and Washington Commit to Expanding Economic Cooperation and Addressing Trade Concerns Through Continued Dialogue.
-- 11/15 13:27 [FirstSquawk] Benzinga: Jensen Huang’s ‘Whatever’ and ‘I Don’t Care’ Comments Draw Attention as Affair Scandal Dims His Popularity in Taiwan - Reports
-- 11/15 13:28 [FirstSquawk] Netanyahu Urges Decisive Action to End Iran Threat "Once and for All," CBS Reports
-- 11/15 13:29 [FirstSquawk] UK's Prince William to Travel to India With Wife Kate - RTRS
-- 11/15 13:30 [FirstSquawk] Philippines Steps Up Efforts to Secure Emergency Oil Access From Regional Neighbors Indonesia and Thailand
-- 11/15 13:32 [FirstSquawk] Israeli Strike on Displacement Tent in Khan Younis Leaves One Dead, Al Arabiya Correspondent Says
-- 11/15 13:33 [FirstSquawk] Israeli Military: Senior Hamas Operative Targeted in Recent Strike
-- 11/15 13:34 [FirstSquawk] WSJ: Friday’s Air Travel Standstill Exposed Aging U.S. Aviation Communications Infrastructure
-- 11/15 13:36 [FirstSquawk] Russia Calls on Britain to End Nuclear Shield for European Allies if It Wants Peace in Ukraine, The Telegraph Reports
-- 11/15 13:37 [FirstSquawk] Eli Lilly Says Its Obesity Drugs Demonstrated Weight-Loss Results in Clinical Studies - RTRS
-- 11/15 13:38 [FirstSquawk] Japan Hotels and Tour Operators Target Indian Travelers With Customized Services Amid 39% Spending Growth in 2025 - NA
-- 11/15 13:39 [FirstSquawk] French Interior Ministry Reports 219 Arrests During Countrywide Demonstrations
-- 11/15 13:41 [FirstSquawk] Over 40% of Diabetes Cases Go Undetected, Leaving Millions Undiagnosed - WHO
-- 11/15 13:42 [FirstSquawk] Iran Reportedly Planning Drone Strike Targeting Trump and Senior U.S. Officials, According to Israeli Intelligence - Leading reports
-- 11/15 14:01 [FirstSquawk] Kushner Says Both Sides Understand the Need to Make Pragmatic Compromises to Bring the War to an End
-- 11/15 14:02 [FirstSquawk] U.S. Envoy Kushner: Facilitating Direct Talks Between Russia and Europe Is Our Current Priority
-- 11/15 14:03 [FirstSquawk] Jared Kushner: Witkoff and I Are Coordinating Closely With Russia, Ukraine and European Allies on the Way Forward
-- 11/15 14:03 [FirstSquawk] Japan’s Approach to Foreign Labour Must Go Beyond Economic Contributions and Embrace Social Inclusion - NA
-- 11/15 14:05 [FirstSquawk] Lebanon’s General Security: We Did Not Tell Baghdad the Al-Alwani Case Had a Moral Dimension
-- 11/15 14:08 [FirstSquawk] FlightAware Reports More Than 10,000 Flight Delays and Cancellations in the U.S. on Saturday
-- 11/15 14:11 [FirstSquawk] Gaza to Get Civilian Police Force of 11,000 Young Men Under Peace Council Plan, Yedioth Ahronoth Reports
-- 11/15 14:17 [FirstSquawk] Al-Zaidi Pledges Nationwide Crackdown on Oil Smuggling Across Iraq, From Zakho to Basra
-- 11/15 14:24 [FirstSquawk] Survey: 46% of Americans Oppose AI Making Insurance Claim Decisions, While 5% Support Full Autonomy - UNUSUAL WHALES
-- 11/15 14:27 [FirstSquawk] Ukraine’s President Sharpens Criticism of SpaceX Over Speed-Capping Measures - RTRS
-- 11/15 14:29 [FirstSquawk] Iraq’s Al-Zaidi Sacks Security Officials in Babil, Including PMF Commander
-- 11/15 14:32 [FirstSquawk] SCMP: Aging Copper Wiring Upgrades Behind Widespread U.S. Flight Disruptions
-- 11/15 14:33 [FirstSquawk] Israel Reportedly Warns U.S. of Potential Iranian Drone Attack Targeting Trump Administration, WSN Reports
-- 11/15 14:35 [FirstSquawk] Eisenkot Vows to Continue Efforts to Establish a National Emergency Government Swiftly
-- 11/15 14:36 [FirstSquawk] Syrian Security Forces Investigate Explosion in Jaramana After Securing the Site
-- 11/15 14:50 [FirstSquawk] Syrian Security Forces Investigate Explosion in Jaramana After Securing the Site - FT
-- 11/15 14:51 [FirstSquawk] European Banking Watchdog Retreats From Push for Unified Deposit Insurance Scheme, FT Says
-- 11/15 15:29 [FirstSquawk] Low fire, low hire’ job market hurts US and UK productivity
-- 11/15 15:30 [FirstSquawk] Iran will not remain in a state of “neither war nor peace,” Parliament Speaker Mohammad Bagher Ghalibaf said Sunday.
-- 11/15 15:30 [FirstSquawk] Bitcoin’s latest selloff is testing the resolve of some of the cryptocurrency market’s most committed investors, as a succession of setbacks pushes prices toward their lowest levels
-- 11/15 15:30 [FirstSquawk] Iran's Revolutionary Guard claims responsibility for a drone attack on a radar at a U.S. defense facility in Bahrain.
+- 11/15 18:24 [FirstSquawk] Yemeni forces aligned with the internationally recognized government said they were withdrawing from the Bab el-Mandeb area, leaving the Iran-backed Houthis in control of territory overlooking the strategic shipping route
+- 11/15 18:25 [FirstSquawk] An Iranian lawmaker warned Sunday that Tehran would demonstrate what he called “absolute deterrence” if the United States launched a nuclear attack on parts of Iran
+- 11/15 18:26 [FirstSquawk] ASEAN leaders kicked off gatherings in Manila on Sunday morning, seeking more cooperation against geopolitical and economic headwinds -- as sticking points remain on the Myanmar crisis, transboundary haze and a South China Sea binding pact.
+- 11/15 19:10 [FirstSquawk] Bahrain Defence Force: Iran continues its systematic hostile approach through its criminal attacks targeting the Kingdom of Bahrain
+- 11/15 19:10 [FirstSquawk] Bahrain Defence Force: Air defense systems destroyed a number of Iranian aerial attacks before they could achieve their objectives.
+- 11/15 19:10 [FirstSquawk] Jordan’s State Security Court sentences the perpetrators of the terrorist attack in the town of Hammoud in Karak to death.
+- 11/15 19:11 [FirstSquawk] Jordan’s State Security Court sentences those responsible for the terrorist attack on the Hamoud Church in Karak to death.
+- 11/15 19:11 [FirstSquawk] Jordan’s State Security Court convicts the three perpetrators of carrying out terrorist acts that killed nine people on October 23
+- 11/15 19:11 [FirstSquawk] Jordan’s State Security Court convicts one of the perpetrators of the Karak attack of providing funds to finance terrorist acts.
+- 11/15 19:12 [FirstSquawk] Jordan’s State Security Court convicts the perpetrators of the Karak attack of possessing weapons with the intent to use them to carry out terrorist acts.
+- 11/15 19:12 [FirstSquawk] Russian Ministry of Defense: 1,065 Ukrainian drones launched at various regions of Russia were destroyed in the past 24 hours.
+- 11/15 19:12 [FirstSquawk] Russia’s Defense Ministry announces that approximately 1,120 Ukrainian soldiers have been killed in the past 24 hours.
+- 11/15 19:22 [financialjuice] Iran's Fars News Agency: IRGC launched strikes on US base in Bahrain in retaliation for 'hostile' US actions
+- 11/15 19:23 [financialjuice] Iran’s IRGC: six drones struck US air defense radar at Bahrain’s al-Rifaa helicopter base - Press TV
+- 11/15 19:23 [financialjuice] Bahrain: several Iranian aerial assaults intercepted on Sunday
+- 11/15 19:38 [financialjuice] Many Russian drone attacks on substations enabled by Starshield speed limits, Zelenskiy says
+- 11/15 19:39 [FirstSquawk] Southern Armed Forces announce a repositioning of their troops from “Dhu Bab Airport” and the Bab al-Mandab area in western Taiz Governorate.
+- 11/15 19:39 [FirstSquawk] Yemen’s Southern Armed Forces announce a redeployment of their forces from “Dhu Bab Airport” and the Bab al-Mandab area in western Taiz Governorate.
+- 11/15 19:39 [FirstSquawk] Southern Armed Forces in Yemen: The redeployment is aimed at securing Aden and the neighboring governorates and reinforcing the front lines.
+- 11/15 19:40 [FirstSquawk] Yemen’s Southern Armed Forces: We will continue working to lift the Houthi siege of Taiz and end the suffering of its people.
+- 11/15 19:40 [FirstSquawk] Zelensky: Russian forces targeted energy infrastructure and railways overnight in 8 regions.
+- 11/15 19:51 [financialjuice] Ukraine: missile hits petrochemical plant and oil refinery in Russia’s Tatarstan, defense facility in Bryansk
+- 11/15 20:19 [financialjuice/FirstSquawk] Romanian PM: three commercial vessels hit by drones in the Black Sea near Sulina Canal
+- 11/15 20:29 [FirstSquawk] Zelenskyy: Speed limits in the "Starshield" system allowed Russia to attack electrical substations with drones.
+- 11/15 20:29 [FirstSquawk] Ukraine announces strikes on a petrochemical plant and an oil refinery in Russia’s Tatarstan and a defense facility in Bryansk.
+- 11/15 20:38 [FirstSquawk] New York socialists back Alexandria Ocasio-Cortez for 2028 presidential race - FT
+- 11/15 20:38 [FirstSquawk] Congress moves to pass tighter AI chip export rules following Nvidia scandal - FT
+- 11/15 20:38 [FirstSquawk] France’s once best hope of stopping Marine Le Pen is losing ground - FT
+- 11/15 20:39 [FirstSquawk] Bahrain intercepts Iranian aerial attacks as Tehran says it attacked US base - CNBC
+- 11/15 20:39 [FirstSquawk] ASEAN falls short on Myanmar crisis, South China Sea pact at Manila summit - Nikkei
+- 11/15 21:06 [financialjuice/FirstSquawk] Iran's foreign minister to visit Oman Tuesday for discussions: IRNA citing ministry spokesperson
+- 11/15 21:15 [FirstSquawk] UK Maritime Trade Operations: Report from Indian shipping authorities that an oil tanker was attacked before entering the Strait of Hormuz
+- 11/15 21:16 [FirstSquawk] Israeli occupation forces have issued demolition notices for several residential buildings in Farsh al-Hawa, northwest of Hebron.
+- 11/15 22:04 [financialjuice] Iran's IRGC navy: two tankers ablaze after striking naval mines in Strait of Hormuz - state media
+- 11/15 22:07 [FirstSquawk] Britain’s self-inflicted housebuilding crunch - FT
+- 11/15 22:08 [FirstSquawk] Anthropic’s IPO is the next big test for AI - FT
+- 11/15 22:50 [FirstSquawk] Iran’s Revolutionary Guard: Two oil tankers struck naval mines while crossing the prohibited southern route in the Strait of Hormuz
+- 11/15 22:50 [FirstSquawk] Iran’s Revolutionary Guard: Two oil tankers struck naval mines while crossing a prohibited route in the Strait of Hormuz, and one sank.
+- 11/15 23:20 [FirstSquawk] A second explosion has been heard in the Yemeni city of Marib.
+- 11/15 23:21 [FirstSquawk] U.S. Transportation Secretary tells NBC: Flight disruptions will end by the end of today or tomorrow.

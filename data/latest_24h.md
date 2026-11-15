@@ -7,98 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-11-15 15:49 JST／対象: 11/14 15:49 〜 11/15 15:49 JST（時刻はすべて日本時間）
+生成: 2026-11-15 23:22 JST／対象: 11/14 23:22 〜 11/15 23:22 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 6 | 11/14 23:40 | 11/15 06:39 | ⚠ 159分（02:32→05:11） |
-| FirstSquawk | 169 | 11/14 15:58 | 11/15 15:30 | ⚠ 376分（02:45→09:01） |
-| financialjuice | 48 | 11/14 17:31 | 11/15 09:27 | ⚠ 227分（01:31→05:19） |
+| FirstSquawk | 155 | 11/14 23:50 | 11/15 23:21 | ⚠ 376分（02:45→09:01） |
+| financialjuice | 39 | 11/14 23:30 | 11/15 22:04 | ⚠ 595分（09:27→19:22） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 223 行（統合前 226 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 198 行（統合前 200 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/14 15:58 [FirstSquawk] Canadian PM Mark Carney: When the world looks around, who's a good energy partner? Who's an energy superpower? Canada.
-- 11/14 15:58 [FirstSquawk] Canadian PM Mark Carney: The security architecture for free Europe will be determined by free Europe and NATO, not by Russia in a redux of the Minsk agreement.
-- 11/14 15:58 [FirstSquawk] Serious disagreements have emerged between President Donald Trump and Vice President JD Vance, Iranian lawmaker Farhad Bashiri told parliament’s ICANA news agency on Saturday.
-- 11/14 15:59 [FirstSquawk] Canadian PM Mark Carney: There is no way that Canada, as a NATO member, is going to walk away from any other NATO member, ever.
-- 11/14 16:00 [FirstSquawk] Iran’s refusal to discuss its nuclear program before Washington accepts its ceasefire conditions remains a central obstacle to ending the war, the Associated Press reported Saturday.
-- 11/14 17:31 [financialjuice] UK Civil Aviation Authority: US flights resume after FAA lifts ground stop, but follow-on disruption expected as airlines rebook passengers
-- 11/14 17:32 [FirstSquawk] UK CIVIL AVIATION AUTHORITY- US FLIGHTS RESUME AFTER US FAA GROUND STOP LIFT, BUT FOLLOW-ON DISRUPTION EXPECTED AS AIRLINES RE-BOOK PASSENGERS.
-- 11/14 18:00 [financialjuice] Zelenskiy: Ukraine requires more funding for purl program to purchase weapons
-- 11/14 18:01 [financialjuice] Zelenskiy: Ukraine and Denmark discuss supplying 800,000 rounds for F-16 to cover six months' demand
-- 11/14 18:02 [FirstSquawk] ZELENSKIY: UKRAINE AND DENMARK ARE DISCUSSING SUPPLIES OF 800,000 ROUNDS FOR F-16 TO COVER SIX MONTHS' NEEDS
-- 11/14 18:02 [FirstSquawk] ZELENSKIY SAYS UKRAINE NEEDS MORE CONTRIBUTIONS TO PURL PROGRAM TO BUY WEAPONS
-- 11/14 18:03 [FirstSquawk] ZELENSKIY SAYS UKRAINE & DENMARK ARE DISCUSSING SUPPLIES OF 800,000 ROUNDS FOR F-16 TO COVER SIX MONTHS' NEEDS
-- 11/14 18:03 [financialjuice] Zelenskiy: asked European allies to decide by end of November who will represent Europe in peace talks
-- 11/14 18:03 [financialjuice] Zelenskiy: Russia unwilling to agree to energy ceasefire, lacked mandate to discuss in Abu Dhabi
-- 11/14 18:04 [financialjuice] Zelenskiy: US envoys said Putin agreed to include Europe at next negotiation round
-- 11/14 18:04 [financialjuice] Zelenskiy: US negotiators asked if Ukraine was prepared to cede Donbas for NATO accession
-- 11/14 18:04 [financialjuice] Zelenskiy says he believes NATO ties for Ukraine are back on agenda
-- 11/14 18:04 [financialjuice] Russian defence ministry: its forces seize settlement of Tersianka in Ukraine's Zaporizhzhia region
-- 11/14 18:07 [financialjuice] Russian defence ministry: struck Ukrainian energy and transport infrastructure used by military, drone production and storage facilities
-- 11/14 18:09 [FirstSquawk] ZELENSKIY SAYS HE ASKED EUROPEAN ALLIES TO DECIDE BY END OF NOVEMBER WHO WILL REPRESENT EUROPE IN PEACE TALKS
-- 11/14 18:09 [FirstSquawk] ZELENSKIY SAID U.S. ENVOYS TOLD HIM PUTIN HAD AGREED TO HAVE EUROPE AT SAME NEGOTIATION TABLE AT NEXT ROUND OF TALKS
-- 11/14 18:10 [FirstSquawk] ZELENSKIY SAYS RUSSIA IS UNWILLING TO AGREE TO ENERGY CEASEFIRE, DID NOT HAVE MANDATE TO DISCUSS IT IN ABU DHABI.
-- 11/14 18:10 [FirstSquawk] ZELENSKIY SAYS U.S. NEGOTIATORS RAISED A QUESTION IF UKRAINE WAS READY TO CEDE DONBAS IF IT JOINED NATO
-- 11/14 18:10 [FirstSquawk] ZELENSKIY SAYS HE BELIEVES NATO MEMBERSHIP FOR UKRAINE IS BACK ON THE AGENDA
-- 11/14 18:11 [FirstSquawk] RUSSIAN DEFENCE MINISTRY SAYS ITS FORCES CAPTURED SETTLEMENT OF TERSIANKA IN UKRAINE'S ZAPORIZHZHIA REGION : IFX
-- 11/14 18:11 [FirstSquawk] RUSSIAN DEFENCE MINISTRY SAYS IT STRUCK UKRAINIAN ENERGY AND TRANSPORT INFRASTRUCTURE USED BY THE MILITARY & DRONE PRODUCTION AND STORAGE SITES
-- 11/14 18:58 [financialjuice] IAEA: electrical grid instability from military action caused power cuts at some nuclear units in Ukraine this week
-- 11/14 19:05 [FirstSquawk] IAEA SAYS INSTABILITY OF ELECTRICAL GRID DUE TO MILITARY ACTIVITY RESULTED IN POWER REDUCTIONS OF SOME OPERATING UNITS IN NUCLEAR POWER PLANTS IN UKRAINE THIS WEEK
-- 11/14 19:15 [financialjuice] Iran navy: oil tanker catches fire after striking naval mine in eastern Strait of Hormuz
-- 11/14 19:16 [FirstSquawk] Iraqi source: The Iraqi Hezbollah is trying to broker a reconciliation with the Sadrists to prevent a clash between the two sides.
-- 11/14 19:16 [FirstSquawk] IRAN'S NAVY SAYS OIL TANKER CAUGHT FIRE AFTER HITTING NAVAL MINE IN EASTERN STRAIT OF HORMUZ
-- 11/14 19:17 [FirstSquawk] Governor of Russia’s Belgorod: 3 killed and 8 injured in Ukrainian attacks on the region over the past 24 hours
-- 11/14 19:17 [FirstSquawk] Russian Ministry of Defense: We targeted a ship in the Black Sea that was transporting military cargo for Ukrainian forces.
-- 11/14 19:17 [FirstSquawk] Moscow mayor: Russian air defense systems shot down 3 drones heading toward the capital
-- 11/14 19:17 [FirstSquawk] Wall and Settlement Resistance Commission: 11 new settlement plans to add 895 housing units in several West Bank governorates
-- 11/14 19:18 [FirstSquawk] Two Palestinians were injured after settlers attacked them near the Ain Sinya checkpoint north of Ramallah.
-- 11/14 19:18 [FirstSquawk] Iranian Army Navy: A fire has broken out on an oil tanker, the second today, after it struck a mine in the restricted area east of the Strait of Hormuz.
-- 11/14 19:33 [FirstSquawk] Passengers face widespread disruption after US air traffic control outage - FT
-- 11/14 19:34 [FirstSquawk] Indonesia, Thailand, Philippines to set up shared oil reserves; Japan spearheads project after Iran war creates ASEAN energy shortages -Nikkei
-- 11/14 19:44 [FirstSquawk] 3,000 FLIGHTS CANCELED IN THE U.S. TODAY
-- 11/14 19:57 [FirstSquawk] U.S. HAS FLOATED THE IDEA OF UKRAINE JOINING NATO IN EXCHANGE FOR WITHDRAWING FROM ITS EASTERN DONBAS REGION AS PART OF NEGOTIATIONS TO END THE WAR, UKRAINIAN PRESIDENT VOLODYMYR ZELENSKYY SAID YESTERDAY.
-- 11/14 20:01 [FirstSquawk] US LOSES MEASLES-FREE STATUS AFTER CONTINUED SPREAD OF THE DISEASE
-- 11/14 20:07 [financialjuice] Kraken: probing problem with Osmosis funding gateway, deposits and withdrawals might be postponed
-- 11/14 20:12 [FirstSquawk] KRAKEN SAYS INVESTIGATING AN ISSUE WITH OSMOSIS (OSMO) FUNDING GATEWAY, DEPOSITS AND WITHDRAWALS MAY BE DELAYED AT THIS TIME
-- 11/14 20:12 [FirstSquawk] BULGARIA, POLAND HALT UKRAINE AID BULGARIA IS ENDING FINANCIAL AND MILITARY AID TO UKRAINE, THE COUNTRY'S PRIME MINISTER, RUMEN RADEV, SAID.
-- 11/14 20:16 [financialjuice] Pakistan foreign affairs ministry: Pakistan to join Shanghai Cooperation Organisation civilizational dialogue in New Delhi, India
-- 11/14 20:17 [FirstSquawk] TRUMP TELLS ADVISERS HE MAY HOLD OFF ON IRAN ATTACKS BARRING NEW PROVOCATIONS
-- 11/14 20:24 [FirstSquawk] U.S. OFFICIALS: ISRAEL CONTINUES TO PRESSURE THE TRUMP ADMINISTRATION TO CARRY OUT A STRIKE AGAINST IRAN
-- 11/14 20:32 [FirstSquawk] PAKISTAN FOREIGN AFFAIRS MINISTRY SAYS PAKISTAN TO PARTICIPATE IN SHANGHAI COOPERATION ORGANISATION CIVILIZATIONAL DIALOGUE IN NEW DELHI, INDIA
-- 11/14 20:43 [FirstSquawk] MICROSOFT SAYS SERVICES FULLY RESTORED AFTER OUTAGE ROILED WORLD
-- 11/14 20:49 [FirstSquawk] CHINA, US DISCUSS TARIFFS, FARM TRADE AHEAD OF XI-TRUMP MEETING
-- 11/14 21:04 [FirstSquawk] GERMANY'S CHANCELLOR MERZ: OUR ECONOMY IS UNDER ENORMOUS PRESSURE.
-- 11/14 21:04 [FirstSquawk] GERMANY'S CHANCELLOR MERZ: I WANT TO SAY THIS VERY CLEARLY ONCE AGAIN, INCLUDING TO THOSE IN OUR OWN PARTY WHO SOMETIMES FLIRT WITH THE IDEA OF COOPERATING WITH A PARTY THAT CALLS ITSELF ALTERNATIVE FOR GERMANY.
-- 11/14 21:11 [FirstSquawk] Iran’s IRGC says it shot down US MQ-1 Predator drone over Qeshm Island #BREAKING
-- 11/14 21:18 [financialjuice] Italy’s data protection authority fines Meta Platforms €805 million over alleged use of videos and photos of Android users without consent
-- 11/14 21:19 [FirstSquawk] ITALY’S DATA PROTECTION AGENCY FINES META PLATFORMS €805 MILLION OVER ALLEGED USE OF VIDEOS AND PHOTOS OF ANDROID USERS WITHOUT CONSENT
-- 11/14 21:32 [FirstSquawk] Lebanese President: The issue of exclusive control over weapons must be addressed through an approach that takes security, political and economic considerations into account.
-- 11/14 21:33 [FirstSquawk] Lebanese President: Resolution 1701 remains the legal framework and the basis for any future international arrangements in the south
-- 11/14 21:33 [FirstSquawk] Statement by 18 Arab and Islamic countries: We strongly condemn the Israeli airstrike on Nasser Medical Complex in Khan Younis
-- 11/14 21:33 [FirstSquawk] Statement by 18 Arab and Islamic countries: We express grave concern over Israel’s continued restrictions on aid entering the Gaza Strip.
-- 11/14 21:33 [FirstSquawk] Statement by 18 Arab and Islamic countries: We condemn the continued Israeli attacks on Palestinian civilians and the tents of displaced people
-- 11/14 21:34 [FirstSquawk] Statement by 18 Arab and Islamic countries: Israeli attacks undermine the ceasefire agreement and efforts to restore security in the Gaza Strip
-- 11/14 21:34 [FirstSquawk] Statement by 18 Arab and Islamic countries: We call on the United States and the Peace Council to ensure that Israel fulfills its obligations regarding Gaza.
-- 11/14 22:08 [financialjuice] Saudi-led coalition: intercepts and destroys two drones launched by Yemen's Houthis toward Riyadh and southern region
-- 11/14 22:10 [FirstSquawk] SAUDI-LED COALITION SAYS INTERCEPTED 2 DRONES IN RIYADH, SOUTH
-- 11/14 22:28 [FirstSquawk] AFP: The European Union urges Israel to allow aid to reach Gaza immediately and without obstruction amid flooding.
-- 11/14 22:29 [FirstSquawk] Trump Media group stares down $1bn debt crunch as bitcoin bet fades - FT
-- 11/14 22:29 [FirstSquawk] US floats Nato membership for Donbas withdrawal deal, Zelenskyy says - FT
-- 11/14 22:29 [FirstSquawk] Nvidia exposed to possible lawsuits after Jensen Huang’s downfall - FT
-- 11/14 22:42 [financialjuice] Russian drones hit Ukraine's Naftogaz facility in central Poltava region, causing fire: company
-- 11/14 22:43 [FirstSquawk] RUSSIAN DRONES STRUCK UKRAINE'S NAFTOGAZ FACILITY IN CENTRAL POLTAVA REGION, CAUSING FIRE, SAYS COMPANY
-- 11/14 22:53 [FirstSquawk] US TRANSPORTATION SEC. DUFFY: FLIGHT OPERATIONS ARE SLOWLY RETURNING TO NORMAL THIS MORNING.
-- 11/14 22:54 [FirstSquawk] DUFFY SAYS WE ARE IN CLOSE COORDINATION WITH THE AIRLINES TO SUPPORT THE ONGOING RECOVERY
-- 11/14 22:54 [FirstSquawk] DUFFY SAYS PASSENGERS WILL CONTINUE TO SEE SOME DELAYS AND CANCELLATIONS AS CARRIERS RESCHEDULE FLIGHTS AND REPOSITION AIRCRAFT/CREWS WHERE THEY ARE NEEDED MOST
-- 11/14 22:57 [FirstSquawk] ITALY DATA PRIVACY AGENCY FINES META €805M
 - 11/14 23:30 [financialjuice] Fed’s Collins: Best approach to high living costs is restoring inflation stability
 - 11/14 23:30 [financialjuice] Fed's Collins: longer-term inflation expectations likely to remain anchored
 - 11/14 23:30 [financialjuice] Fed’s Collins: inflation expectations remain anchored
@@ -247,3 +172,53 @@
 - 11/15 15:30 [FirstSquawk] Iran will not remain in a state of “neither war nor peace,” Parliament Speaker Mohammad Bagher Ghalibaf said Sunday.
 - 11/15 15:30 [FirstSquawk] Bitcoin’s latest selloff is testing the resolve of some of the cryptocurrency market’s most committed investors, as a succession of setbacks pushes prices toward their lowest levels
 - 11/15 15:30 [FirstSquawk] Iran's Revolutionary Guard claims responsibility for a drone attack on a radar at a U.S. defense facility in Bahrain.
+- 11/15 16:21 [FirstSquawk] UK economy is defying gravity. Despite an energy shock and more than £80 billion of tax rises since Labour took power in 2024, the private sector is booming and households are holding up
+- 11/15 16:21 [FirstSquawk] India forms commando units for close combat along China border
+- 11/15 16:35 [FirstSquawk] Ukraine is betting on aerial evacuation drones to rescue wounded soldiers trapped in the front line's "kill zone", where conventional medical evacuations have become increasingly perilous under constant drone surveillance and attack
+- 11/15 16:35 [FirstSquawk] Italy has rejected claims that it blocked Germany from joining a UK-led programme to build a next-generation fighter jet
+- 11/15 16:36 [FirstSquawk] Data centre construction stocks lose $4.2tn as boom in AI trade unravels
+- 11/15 17:05 [FirstSquawk] Iran will pursue reparations from regional countries, the Foreign Ministry spokesman said Sunday, dismissing as baseless a compensation demand made by the Gulf Cooperation Council’s secretary-general.
+- 11/15 17:05 [FirstSquawk] Crypto update: #Bitcoin 63970.00 -0.68% #Ether 1782.40 +0.52% #BitcoinCash 203.40 +1.11% #EOS 0.1295 +0% #Litecoin 44.74 +1.06% #Stellar 0.1374 +3.23% #Dogecoin 0.0575 +1.23% #Uniswap 4.9628 +4.49% #Chainlink 9.0306 +2.98% #Polkadot 0.7153 …
+- 11/15 17:05 [FirstSquawk] US Office Products: Amazon handles fulfilment for 87% of the products here. Delivery speed is table stakes, not a differentiator.
+- 11/15 17:07 [FirstSquawk] Weekend markets update: #DAX 26710 -0.24% #DOW 52120 -0.27% #NASDAQ 27603 -0.82% #FTSE 10880 -0.16% #HANGSENG 23673 -0.21% #EURUSD 11025 +0.03% #GOLD 3840 -1.16% #SILVER 4780 -2.14% #USOIL 8830 +0.50%
+- 11/15 17:07 [FirstSquawk] US air travel chaos exposes system held together by ‘string and duct tape
+- 11/15 18:24 [FirstSquawk] Yemeni forces aligned with the internationally recognized government said they were withdrawing from the Bab el-Mandeb area, leaving the Iran-backed Houthis in control of territory overlooking the strategic shipping route
+- 11/15 18:25 [FirstSquawk] An Iranian lawmaker warned Sunday that Tehran would demonstrate what he called “absolute deterrence” if the United States launched a nuclear attack on parts of Iran
+- 11/15 18:26 [FirstSquawk] ASEAN leaders kicked off gatherings in Manila on Sunday morning, seeking more cooperation against geopolitical and economic headwinds -- as sticking points remain on the Myanmar crisis, transboundary haze and a South China Sea binding pact.
+- 11/15 19:10 [FirstSquawk] Bahrain Defence Force: Iran continues its systematic hostile approach through its criminal attacks targeting the Kingdom of Bahrain
+- 11/15 19:10 [FirstSquawk] Bahrain Defence Force: Air defense systems destroyed a number of Iranian aerial attacks before they could achieve their objectives.
+- 11/15 19:10 [FirstSquawk] Jordan’s State Security Court sentences the perpetrators of the terrorist attack in the town of Hammoud in Karak to death.
+- 11/15 19:11 [FirstSquawk] Jordan’s State Security Court sentences those responsible for the terrorist attack on the Hamoud Church in Karak to death.
+- 11/15 19:11 [FirstSquawk] Jordan’s State Security Court convicts the three perpetrators of carrying out terrorist acts that killed nine people on October 23
+- 11/15 19:11 [FirstSquawk] Jordan’s State Security Court convicts one of the perpetrators of the Karak attack of providing funds to finance terrorist acts.
+- 11/15 19:12 [FirstSquawk] Jordan’s State Security Court convicts the perpetrators of the Karak attack of possessing weapons with the intent to use them to carry out terrorist acts.
+- 11/15 19:12 [FirstSquawk] Russian Ministry of Defense: 1,065 Ukrainian drones launched at various regions of Russia were destroyed in the past 24 hours.
+- 11/15 19:12 [FirstSquawk] Russia’s Defense Ministry announces that approximately 1,120 Ukrainian soldiers have been killed in the past 24 hours.
+- 11/15 19:22 [financialjuice] Iran's Fars News Agency: IRGC launched strikes on US base in Bahrain in retaliation for 'hostile' US actions
+- 11/15 19:23 [financialjuice] Iran’s IRGC: six drones struck US air defense radar at Bahrain’s al-Rifaa helicopter base - Press TV
+- 11/15 19:23 [financialjuice] Bahrain: several Iranian aerial assaults intercepted on Sunday
+- 11/15 19:38 [financialjuice] Many Russian drone attacks on substations enabled by Starshield speed limits, Zelenskiy says
+- 11/15 19:39 [FirstSquawk] Southern Armed Forces announce a repositioning of their troops from “Dhu Bab Airport” and the Bab al-Mandab area in western Taiz Governorate.
+- 11/15 19:39 [FirstSquawk] Yemen’s Southern Armed Forces announce a redeployment of their forces from “Dhu Bab Airport” and the Bab al-Mandab area in western Taiz Governorate.
+- 11/15 19:39 [FirstSquawk] Southern Armed Forces in Yemen: The redeployment is aimed at securing Aden and the neighboring governorates and reinforcing the front lines.
+- 11/15 19:40 [FirstSquawk] Yemen’s Southern Armed Forces: We will continue working to lift the Houthi siege of Taiz and end the suffering of its people.
+- 11/15 19:40 [FirstSquawk] Zelensky: Russian forces targeted energy infrastructure and railways overnight in 8 regions.
+- 11/15 19:51 [financialjuice] Ukraine: missile hits petrochemical plant and oil refinery in Russia’s Tatarstan, defense facility in Bryansk
+- 11/15 20:19 [financialjuice/FirstSquawk] Romanian PM: three commercial vessels hit by drones in the Black Sea near Sulina Canal
+- 11/15 20:29 [FirstSquawk] Zelenskyy: Speed limits in the "Starshield" system allowed Russia to attack electrical substations with drones.
+- 11/15 20:29 [FirstSquawk] Ukraine announces strikes on a petrochemical plant and an oil refinery in Russia’s Tatarstan and a defense facility in Bryansk.
+- 11/15 20:38 [FirstSquawk] New York socialists back Alexandria Ocasio-Cortez for 2028 presidential race - FT
+- 11/15 20:38 [FirstSquawk] Congress moves to pass tighter AI chip export rules following Nvidia scandal - FT
+- 11/15 20:38 [FirstSquawk] France’s once best hope of stopping Marine Le Pen is losing ground - FT
+- 11/15 20:39 [FirstSquawk] Bahrain intercepts Iranian aerial attacks as Tehran says it attacked US base - CNBC
+- 11/15 20:39 [FirstSquawk] ASEAN falls short on Myanmar crisis, South China Sea pact at Manila summit - Nikkei
+- 11/15 21:06 [financialjuice/FirstSquawk] Iran's foreign minister to visit Oman Tuesday for discussions: IRNA citing ministry spokesperson
+- 11/15 21:15 [FirstSquawk] UK Maritime Trade Operations: Report from Indian shipping authorities that an oil tanker was attacked before entering the Strait of Hormuz
+- 11/15 21:16 [FirstSquawk] Israeli occupation forces have issued demolition notices for several residential buildings in Farsh al-Hawa, northwest of Hebron.
+- 11/15 22:04 [financialjuice] Iran's IRGC navy: two tankers ablaze after striking naval mines in Strait of Hormuz - state media
+- 11/15 22:07 [FirstSquawk] Britain’s self-inflicted housebuilding crunch - FT
+- 11/15 22:08 [FirstSquawk] Anthropic’s IPO is the next big test for AI - FT
+- 11/15 22:50 [FirstSquawk] Iran’s Revolutionary Guard: Two oil tankers struck naval mines while crossing the prohibited southern route in the Strait of Hormuz
+- 11/15 22:50 [FirstSquawk] Iran’s Revolutionary Guard: Two oil tankers struck naval mines while crossing a prohibited route in the Strait of Hormuz, and one sank.
+- 11/15 23:20 [FirstSquawk] A second explosion has been heard in the Yemeni city of Marib.
+- 11/15 23:21 [FirstSquawk] U.S. Transportation Secretary tells NBC: Flight disruptions will end by the end of today or tomorrow.
