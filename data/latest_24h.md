@@ -7,235 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-11-17 12:39 JST／対象: 11/16 12:39 〜 11/17 12:39 JST（時刻はすべて日本時間）
+生成: 2026-11-17 21:28 JST／対象: 11/16 21:28 〜 11/17 21:28 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 78 | 11/16 20:21 | 11/17 08:55 | ⚠ 245分（04:50→08:55） |
-| FirstSquawk | 309 | 11/16 12:40 | 11/17 12:38 | ⚠ 73分（15:50→17:04） |
-| financialjuice | 310 | 11/16 13:01 | 11/17 12:37 | ⚠ 78分（17:32→18:51） |
+| DeItaone | 79 | 11/16 21:49 | 11/17 21:27 | ⚠ 697分（08:55→20:32） |
+| FirstSquawk | 329 | 11/16 21:31 | 11/17 21:18 | ⚠ 46分（02:04→02:51） |
+| financialjuice | 350 | 11/16 21:43 | 11/17 21:19 | ⚠ 62分（08:08→09:11） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 677 行（統合前 699 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 736 行（統合前 760 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/16 12:40 [FirstSquawk] Singapore Dollar Remains In Consolidation Mode But Could Come Under Pressure Amid Risk Aversion - WSJ
-- 11/16 12:42 [FirstSquawk] Nikkei 225 Drops 2% In Japan
-- 11/16 12:57 [FirstSquawk] Ukraine's Svitolina Set To Return Home After Defeat At WTA Finals - SCMP
-- 11/16 13:00 [FirstSquawk] China's October Economic Activity Slows As Consumer Spending Remains Subdued
-- 11/16 13:01 [FirstSquawk] BOJ Board Member Takata Flags Greater Risk Of Second-Round Effects From Price Increases
-- 11/16 13:01 [financialjuice] Bank of Japan board member Takata: Price hikes now more likely to trigger second-round effects
-- 11/16 13:01 [financialjuice] and Toyota introduce fully driverless commercial services with Gen-7 BZ4X robotaxi
-- 11/16 13:02 [FirstSquawk] Trump Administration's New Program To Recognise Nvidia As An AI 'National Champion' - WSJ
-- 11/16 13:02 [financialjuice] BoJ’s Takata: with some FX market players focusing on real and nominal interest rate differentials, monitoring price developments transmitted through markets is essential
-- 11/16 13:02 [financialjuice] BoJ's Takata: these developments are among reasons why rate increases are necessary now
-- 11/16 13:02 [FirstSquawk] WSJ: Amazon, Microsoft, OpenAI And Anthropic Set To Be Named AI 'National Champions'
-- 11/16 13:02 [financialjuice] BoJ's Takata: central bank should avoid fixed pace and size of rate hikes, opting for flexible, data-driven moves amid Japan's economic and price conditions
-- 11/16 13:03 [financialjuice] BoJ's Takata: Japan's policy rate has finally neared neutral zone
-- 11/16 13:04 [financialjuice] BoJ's Takata: must bring policy interest rate close enough to neutral level to respond nimbly to possible second-round price effects
-- 11/16 13:04 [FirstSquawk] Takata Says BOJ Must Bring Interest Rates Closer To Neutral To Address Possible Second-Round Inflation Effects
-- 11/16 13:04 [financialjuice] BoJ's Takata: with foreign central banks entering rate-hike cycle, BoJ must consider risk that overseas rates could raise Japan's neutral rate above market expectations
-- 11/16 13:05 [FirstSquawk] Takata: BOJ Must Monitor Risk Of Overseas Rate Hikes Raising Japan's Neutral Rate Above Market-Priced Levels
-- 11/16 13:06 [financialjuice] Trump administration to list Nvidia among AI national champions - WSJ
-- 11/16 13:06 [financialjuice] Companies set to be named national champions by Trump administration: Nvidia, Amazon, Microsoft, OpenAI, Anthropic - WSJ
-- 11/16 13:06 [financialjuice] BoJ’s Takata: central bank must show resolve to stop upward price shifts, while considering impact on fx markets
-- 11/16 13:06 [financialjuice] BoJ's Takata: Inflationary pressures may emerge in the second half of fiscal 2026
-- 11/16 13:06 [financialjuice] BoJ's Takata: central bank needs regime change, setting policy interest rate early in a 'good' position
-- 11/16 13:07 [FirstSquawk] Takata Says BOJ Must Watch For Overseas Rate Hikes Raising Japan's Neutral Rate Above Expected Levels
-- 11/16 13:07 [FirstSquawk] Takata: BOJ Must Change Its Policy Framework And Put Interest Rates In A "Good" Position At An Early Stage
-- 11/16 13:07 [financialjuice] BoJ's Takata: on further rate increases, central bank should not target expected neutral rate or be constrained by market-anticipated intervals or ranges
-- 11/16 13:07 [financialjuice] BoJ's Takata: Central bank needs to act swiftly on rate hikes after assessing domestic financial conditions and global developments
-- 11/16 13:08 [financialjuice] BoJ's Takata: each rate hike requires review of lending attitudes and funding environment for businesses
-- 11/16 13:08 [financialjuice] BoJ's Takata: funding conditions in Japan still accommodative
-- 11/16 13:08 [financialjuice] BoJ's Takata: changes in equity, property, and forex markets also key in evaluating financial conditions
-- 11/16 13:08 [financialjuice] Drone debris sparks blaze at industrial site in Russia's Krasnodar region: officials
-- 11/16 13:09 [financialjuice] BoJ's Takata: once higher rates harm corporate behavior, central bank can view it as neutral rate reached and consider possible cut
-- 11/16 13:09 [financialjuice] BoJ's Takata: I believe central bank is at new phase requiring agile responses on raising or cutting policy interest rate
-- 11/16 13:09 [financialjuice] BoJ's Takata: timing of cumulative impact of policy rate hikes still some way off
-- 11/16 13:10 [financialjuice] BoJ's Takata: despite early-November stock market volatility tied to global AI shares, I believe AI investment will stay robust overall
-- 11/16 13:12 [FirstSquawk] Takata Says BOJ Must Not Be Constrained By Expected Neutral Rate Or Specific Market-Priced Rate-Hike Intervals
-- 11/16 13:12 [financialjuice] BoJ’s Takata: Bank is still in process of increasing policy rate to normalize policy, respond to global monetary and fiscal shifts
-- 11/16 13:13 [financialjuice] BoJ's Takata: risk of a notable slowdown in Japan's economy has recently eased
-- 11/16 13:14 [financialjuice] BoJ's Takata: 2026 marks new phase requiring shift in focus toward price upswings
-- 11/16 13:14 [FirstSquawk] Takata Says BOJ Should Review Banks' Lending Stance And Corporate Funding Conditions Following Every Rate Increase
-- 11/16 13:15 [FirstSquawk] Japan's Financing Environment Remains Accommodative, BOJ's Takata Says
-- 11/16 13:15 [FirstSquawk] Takata: Stock, Real Estate And Foreign Exchange Market Movements Must Be Factored Into Financial Assessments
-- 11/16 13:16 [FirstSquawk] Russian Officials Report Fire At Krasnodar Industrial Facility Caused By Drone Wreckage
-- 11/16 13:16 [FirstSquawk] BOJ's Takata: Negative Effects On Corporate Behaviour Could Signal That Interest Rates Have Reached Neutral Levels
-- 11/16 13:16 [FirstSquawk] Takata Says BOJ Must Be Ready To Adjust Policy Rates Nimbly In Either Direction At This New Stage
-- 11/16 13:17 [FirstSquawk] BOJ's Takata: The Timing Of Cumulative Effects From Policy Rate Increases Remains Distant
-- 11/16 13:17 [FirstSquawk] BOJ's Takata: Rate Increases Are Ongoing As The Central Bank Pursues Policy Normalisation And Responds To Shifts In Global Monetary And Fiscal Policies
-- 11/16 13:17 [FirstSquawk] Takata Says AI Investment Outlook Remains Firm Despite Global AI-Related Stock Market Volatility In Early November
-- 11/16 13:18 [FirstSquawk] Japan's Risk Of A Significant Economic Slowdown Has Declined Recently, BOJ's Takata Says
-- 11/16 13:18 [FirstSquawk] Takata: BOJ Must Place Greater Emphasis On Upswings In Prices As It Enters A New Phase In 2026
-- 11/16 13:21 [FirstSquawk] China's Drive To Create An AI-Native Generation
-- 11/16 13:28 [financialjuice] Iran’s IRGC: two oil tankers struck mines in the Strait of Hormuz causing explosions - state media
-- 11/16 13:28 [FirstSquawk] Iranian IRGC Reports Explosions After Two Oil Tankers Hit Mines In Strait Of Hormuz
-- 11/16 13:31 [FirstSquawk] Japan September Capacity Utilisation Increases 1.6% Month-On-Month After Falling 4.2% Previously
-- 11/16 13:33 [financialjuice] JAPANESE CAPACITY UTILIZATION MOM ACTUAL 1.6% (FORECAST -, PREVIOUS -4.2%) $MACRO
-- 11/16 13:41 [FirstSquawk] EUR/USD Risks Further Losses Towards 1.1000 As Dollar Strength Keeps Sellers In Control - FX
-- 11/16 13:43 [FirstSquawk] British Pound Hits One-Month Low Against US Dollar, Reaching Its Weakest Level Since October 15
-- 11/16 13:43 [FirstSquawk] British Pound Hits One-Month Low Against US Dollar, Reaching Its Weakest Level Since October 15 - FX
-- 11/16 13:44 [FirstSquawk] Nikkei: Unauthorised Access To Japan's Fugaku Supercomputer Could Expose Corporate Secrets Of Automotive, Pharmaceutical And Materials Companies
-- 11/16 13:53 [FirstSquawk] Japan Moves To Enhance Asia's Weather Disaster Warning Systems Through New Network - KYODO
-- 11/16 14:01 [FirstSquawk] Japan Reports First Economic Contraction In Four Quarters As GDP Falls 0.1% In July-September
-- 11/16 14:02 [financialjuice] Brussels to suggest €45bn Ukraine loan secured by EU budget - FT
-- 11/16 14:04 [financialjuice] Uniper approaches initial agreement to convert idle power plants into data centers - ft
-- 11/16 14:06 [FirstSquawk] Hong Kong's New World Development Loses 47% Of Its Share Value Following $3.2 Billion Fundraising Plan - FT
-- 11/16 14:06 [FirstSquawk] China's Biotech Industry Faces Blow As US Regulator Rejects Cancer Drug Developed In China - FT
-- 11/16 14:07 [FirstSquawk] EU Plans €45 Billion Ukraine Loan Financed Through Borrowing Against Its Budget - FT
-- 11/16 14:07 [FirstSquawk] Huang's Downturn Shifts Momentum Away From Open Models Towards Anthropic And OpenAI - FT
-- 11/16 14:10 [financialjuice] Fire erupts at four industrial sites in Russia’s Rostov region after drone strike: governor
-- 11/16 14:16 [FirstSquawk] Domestic Companies Prepare Bids To Replace Palantir In UK National Health Service Contract - FT
-- 11/16 14:24 [FirstSquawk] Thailand Aims To Achieve Economic Growth Of More Than 2.5% This Year, Finance Minister Says
-- 11/16 14:26 [FirstSquawk] Yonhap: South Korea Plans To Require Handing In Smart Devices And Block Public Wi-Fi During CSAT
-- 11/16 14:30 [FirstSquawk] Australia's Benchmark S&P/ASX 200 Falls 0.4% To Close At 9,044.70
-- 11/16 14:34 [FirstSquawk] Taiwan's benchmark stock market falls 6% at the close.
-- 11/16 14:43 [financialjuice] Russia downs 1,336 Ukrainian drones overnight: IFX
-- 11/16 14:50 [FirstSquawk] UK Considers Scrapping Brexit Border Inspection Sites Ahead of Reset in EU Trade Relations - FT
-- 11/16 14:51 [FirstSquawk] AUSSIE DOLLAR HITS ITS LOWEST LEVEL SINCE JANUARY 2026, TRADING DOWN 0.29% AT $0.67555.
-- 11/16 14:54 [FirstSquawk] Gold Prices Fall 1%, With Spot Bullion Sliding to $3,840.89/Oz.
-- 11/16 14:54 [financialjuice] Cape Verde president Neves secures second term, election results show
-- 11/16 14:54 [financialjuice] Cape Verde presidential candidate Rosa concedes defeat, congratulates Neves on victory
-- 11/16 14:55 [FirstSquawk] Silver Prices Fall 3%, With Spot Bullion Sliding to $47.25/Oz.
-- 11/16 14:56 [financialjuice] Russian defence ministry: Russian forces strike cargo vessel in Black Sea
-- 11/16 14:57 [FirstSquawk] Russia's Defence Ministry Says Russian Forces Hit a Cargo Vessel in the Black Sea.
-- 11/16 14:59 [FirstSquawk] US Interest Rate Hikes Pose Limited Impact on Taiwan Bills Finance Companies, Fitch Says.
-- 11/16 15:04 [FirstSquawk] Unite Union Reports Intensifying Strike Action Among 170 Apache Offshore Workers in Pay Dispute.
-- 11/16 15:05 [FirstSquawk] Strike Action on Apache's Offshore Platforms Escalates, UK Unite Union Says.
-- 11/16 15:10 [FirstSquawk] Indonesian Rupiah Hits an All-Time Low Against the US Dollar at 18,260
-- 11/16 15:14 [FirstSquawk] Morgan Stanley Projects S&P 500 Index to Climb to 8,700 Points by Year-End 2027.
-- 11/16 15:21 [financialjuice] Ukraine hits Crimea bridge, traffic halted: ifx
-- 11/16 15:21 [FirstSquawk] Traffic Suspended on Crimea Bridge Following Ukrainian Strike, IFX Says.
-- 11/16 15:22 [FirstSquawk] Morgan Stanley Takes Global Equities to Its Highest Overweight Rating.
-- 11/16 15:22 [FirstSquawk] Morgan Stanley Turns Overweight on Japanese Equities, Upgrading From Equal Weight.
-- 11/16 15:24 [FirstSquawk] UN Chief Guterres Calls Current Loss and Damage Funding Ridiculous Given the Scale of Needs.
-- 11/16 15:26 [FirstSquawk] Morgan Stanley Adds to US Equities Overweight, Pointing to Ongoing AI Capex and Expanding AI Adoption.
-- 11/16 15:27 [FirstSquawk] Guterres Says Engagement Is Not Appeasement, Urges End to Human Rights Violations in Myanmar.
-- 11/16 15:27 [FirstSquawk] UN's Guterres Urges Myanmar to Ensure Humanitarian Aid Can Reach Those in Need.
-- 11/16 15:28 [FirstSquawk] UN's Guterres Says US and Iran Need a Serious Negotiation Process to End the Current State of Neither Peace Nor War.
-- 11/16 15:29 [FirstSquawk] Guterres Says UN Will Fully Engage in Trilateral US-China-Russia Process if Denuclearization Is on the Agenda.
-- 11/16 15:31 [FirstSquawk] INDIA (OCT) WHOLESALE PRICES YOY ACTUAL: 12.29% VS 11.39% PREVIOUS;EST 12.40%
-- 11/16 15:31 [financialjuice] India's October manufacturing inflation at 9.54% y/y: government
-- 11/16 15:31 [financialjuice] India’s wholesale food price index at 8.58% y/y in October: govt
-- 11/16 15:31 [financialjuice] India's fuel price index in WPI jumps 32.84% y/y in Oct: govt
-- 11/16 15:31 [financialjuice] India's October WPI inflation at 12.29% y/y, government says (Poll: 12.10%)
-- 11/16 15:32 [FirstSquawk] INDIA (OCT) OUTPUT PPI YOY ACTUAL: 12.07% VS 11.39% PREVIOUS
-- 11/16 15:33 [FirstSquawk] Morgan Stanley Forecasts MSCI Europe Index at 3,030 by Year-End 2027.
-- 11/16 15:34 [FirstSquawk] Japan's TOPIX Index Expected to Hit 4,800 by Q4 2027, Morgan Stanley Says.
-- 11/16 15:35 [FirstSquawk] Morgan Stanley Expands Its Overweight Exposure to US Equities, Citing Resilient AI Capex and Growing AI Adoption.
-- 11/16 15:35 [FirstSquawk] Morgan Stanley Increases Its Allocation to Japanese Equities, Moving to Overweight From Equal Weight.
-- 11/16 15:35 [FirstSquawk] Morgan Stanley Assigns Its Strongest Overweight Rating to Global Equities.
-- 11/16 15:36 [FirstSquawk] Morgan Stanley Forecasts S&P 500 Index at 8,700 Points by Q4 2027.
-- 11/16 15:36 [financialjuice] Iran's army: oil tanker ignites after striking naval mine in eastern Strait of Hormuz - state media
-- 11/16 15:36 [FirstSquawk] Oil Tanker Bursts Into Flames After Hitting Naval Mine in Eastern Strait of Hormuz, Iran's Army Says.
-- 11/16 15:40 [FirstSquawk] Morgan Stanley Projects Gold Prices to Climb to $5,250 Per Ounce by the Fourth Quarter of 2027.
-- 11/16 15:48 [FirstSquawk] US 10-Year Treasuries Considered Attractive as Yields and Prices Adjust - WSJ
-- 11/16 15:50 [FirstSquawk] Dalian Iron Ore Futures Slide 3.13% to 649 Yuan a Ton.
-- 11/16 16:00 [financialjuice] NORWEGIAN TRADE BALANCE ACTUAL 121.418B (FORECAST -, PREVIOUS 105.00B) $MACRO
-- 11/16 16:14 [financialjuice] UKMTO gets report of vessel struck by projectile in Hormuz
-- 11/16 16:18 [financialjuice] EU's Kallas: Hope to elevate our relationship with Syria to the same level as that with Mediterranean partners
-- 11/16 16:18 [financialjuice] EU's Kallas: European leaders decided on the format for Russia talks, now need to discuss substance
-- 11/16 16:18 [financialjuice] EU's Kallas: Russian demands are a clear pretext to continue the war.
-- 11/16 17:02 [financialjuice] Currency Strength Chart: Strongest: GBP, USD, CHF, EUR, GBP, CAD, NZD, AUD - Weakest
-- 11/16 17:04 [FirstSquawk] BRITAIN'S FTSE 100 UP 0.11%; GERMANY'S DAX UP 0.09%
-- 11/16 17:04 [FirstSquawk] FRANCE'S CAC 40 UP 0.17%; SPAIN'S IBEX UP 0.17%
-- 11/16 17:14 [FirstSquawk] EU SAYS EU'S RIBERA TO PROVIDE UPDATE ON MERGER DECISION ON MONDAY AT 11:30 LOCAL BRUSSELS TIME.
-- 11/16 17:28 [FirstSquawk] SWEDEN FOREIGN MINISTER SAYS RUSSIA IS STILL NOT INTERESTED IN DISCUSSING UKRAINE PEACE IN SERIOUS MANNER, WE CAN SEE THIS IN THE ABSURD DEMANDS THAT ARE EMERGING
-- 11/16 17:31 [financialjuice] ECB's Vujcic: Private-credit risks look contained but need monitoring
-- 11/16 17:31 [financialjuice] ECB's Vujcic: AI, high debts are top financial-stability risks
-- 11/16 17:31 [financialjuice] ECB's Vujcic: Europe's economy is “remarkably resilient"
-- 11/16 17:31 [financialjuice] ECB's Vujcic: Valuations, funding, cyberattacks are among AI risks
-- 11/16 17:31 [financialjuice] ECB's Vujcic: Financial stability risks are "elevated"
-- 11/16 17:32 [financialjuice] ECB's Vujcic: Wages not showing material response to inflation
-- 11/16 17:32 [financialjuice] ECB's Vujcic: Recent energy price developments may push inflation higher
-- 11/16 17:32 [financialjuice] ECB's Vujcic: AI and sovereign debt 'stand out very prominently’ as stability risks
-- 11/16 17:32 [financialjuice] ECB's Vujcic: Weaker confidence and rising borrowing costs should partially contain excess inflation by weighing on growth
-- 11/16 17:35 [FirstSquawk] ECB'S VUJCIC SAYS EUROPE'S ECONOMY IS `REMARKABLY RESILIENT'
-- 11/16 17:35 [FirstSquawk] ECB'S VUJCIC SAYS AI, HIGH DEBTS ARE TOP FINANCIAL-STABILITY RISKS
-- 11/16 17:35 [FirstSquawk] ECB'S VUJCIC SAYS FINANCIAL STABILITY RISKS ARE `ELEVATED'
-- 11/16 17:35 [FirstSquawk] VUJCIC SAYS PRIVATE-CREDIT RISKS LOOK CONTAINED BUT NEED MONITORING
-- 11/16 17:35 [FirstSquawk] VUJCIC SAYS VALUATIONS, FUNDING, CYBERATTACKS ARE AMONG AI RISKS
-- 11/16 17:35 [FirstSquawk] VUJCIC SAYS RECENT ENERGY PRICE DEVELOPMENTS MAY STOKE INFLATION
-- 11/16 17:36 [FirstSquawk] ECB'S VUJCIC SAYS WAGES NOT SHOWING MATERIAL RESPONSE TO INFLATION
-- 11/16 17:37 [FirstSquawk] DTEK SAYS RUSSIA HIT ENERGY FACILITIES IN ODESA REGION.
-- 11/16 18:04 [FirstSquawk] LME ALUMINUM ALLOY INVENTORY UNCHANGED AT 1,500 TONS
-- 11/16 18:04 [FirstSquawk] LME COPPER INVENTORY FALLS 1,625 TONS TO 327,475 TONS
-- 11/16 18:04 [FirstSquawk] LME ZINC INVENTORY FALLS 1,350 TONS TO 141,275 TONS
-- 11/16 18:04 [FirstSquawk] LME NICKEL INVENTORY FALLS 42 TONS TO 272,682 TONS
-- 11/16 18:10 [FirstSquawk] OPENAI SAYS PARTNERSHIP INCLUDES DEPLOYMENT OF CHATGPT ENTERPRISE TO LVMH MEDIA DIVISION TEAMS.
-- 11/16 18:11 [FirstSquawk] MANDATE SAYS GOLDMAN SACHS BANK EUROPE €BMARK 2YR FRN, 5Y BOND SALE
-- 11/16 18:21 [FirstSquawk] VUJCIC SAYS NO REASON TO CHANGE DIRECTION OF TRAVEL ON RATES
-- 11/16 18:22 [FirstSquawk] NVIDIA SHARES EXTEND DECLINES, NOW DOWN 1.8% PREMARKET
-- 11/16 18:22 [FirstSquawk] VUJCIC SAYS PRICING ANOTHER HIKE IN 2027 DOESN'T SEEM UNREASONABLE
-- 11/16 18:22 [FirstSquawk] EU'S VON DER LEYEN SAYS NEW MOMENTUM BEHIND EU ENLARGEMENT PROCESS
-- 11/16 18:32 [FirstSquawk] ITALY GENERAL GOVERNMENT DEBT GREW TO EU3.212 TRILLION IN SEPTEMBER.
-- 11/16 18:35 [FirstSquawk] STUBB SAYS EU NEEDS A MORE FLEXIBLE APPROACH TO ACCESSION.
-- 11/16 18:37 [FirstSquawk] STUBB SAYS UKRAINE, MOLDOVA WILL BECOME MEMBERS OF THE EU.
-- 11/16 18:51 [financialjuice] France's Barrot: Will provide evidence to EU ministers on Monday regarding alleged Iranian cyber attack in France
-- 11/16 18:51 [financialjuice] French Foreign Minister: CEO of Russian company Wildberries being put on EU sanctions list
-- 11/16 18:51 [financialjuice] French Foreign Minister: France and UK to host December conference on tackling Russian shadow fleet
-- 11/16 18:52 [financialjuice] French Minister Barrot: St. Petersburg oil terminal also getting put on EU sanctions list
-- 11/16 18:52 [financialjuice/FirstSquawk] Russian overnight strikes on Ukrainian energy infrastructure caused power outages in six regions - Deputy energy minister
-- 11/16 19:00 [FirstSquawk] BANCO BPM CEO SAYS POTENTIAL CREDIT AGRICOLE DEAL NOT A DONE DEAL, WILL SEE WHETHER TALKS REACH THE END
-- 11/16 19:00 [FirstSquawk] FRANCE'S BARROT SAYS WILL PROVIDE EVIDENCE TO EU MINISTERS ON MONDAY REGARDING ALLEGED IRANIAN CYBER ATTACK IN FRANCE
-- 11/16 19:00 [FirstSquawk] FRENCH FOREIGN MINISTER SAYS CEO OF RUSSIAN COMPANY WILDBERRIES BEING PUT ON EU SANCTIONS LIST
-- 11/16 19:00 [financialjuice] EUROZONE INDUSTRIAL PRODUCTION MOM ACTUAL 0.2% (FORECAST 0.3%, PREVIOUS -0.5%) $MACRO
-- 11/16 19:00 [financialjuice] EUROZONE INDUSTRIAL PRODUCTION YOY ACTUAL -1.5% (FORECAST -0.2%, PREVIOUS -1.1%) $MACRO
-- 11/16 19:00 [FirstSquawk] FRENCH FOREIGN MINISTER SAYS FRANCE AND UK TO HOST DECEMBER CONFERENCE ON TACKLING RUSSIAN SHADOW FLEET
-- 11/16 19:00 [FirstSquawk] FRENCH MINISTER BARROT SAYS ST PETERSBURG OIL TERMINAL ALSO GETTING PUT ON EU SANCTIONS LIST
-- 11/16 19:00 [FirstSquawk] KREMLIN SAYS TRAFFIC VIA CRIMEA BRIDGE CONTINUES
-- 11/16 19:00 [FirstSquawk] KREMLIN ON DRONE ATTACK ON CRIMEA BRIDGE: MINOR DAMAGE IS BEING ASSESSED
-- 11/16 19:00 [FirstSquawk] KREMLIN SAYS STATEMENTS FROM BRUSSELS THAT EUROPE WILL CONTINUE HELPING UKRAINE AND PRESSURING RUSSIA DO NOT FACILITATE PEACE PROCESS
-- 11/16 19:01 [FirstSquawk] KREMLIN SAYS WE STILL HOPE TO HEAR EUROPE'S POSITION
-- 11/16 19:01 [FirstSquawk] KREMLIN ON ESTONIA'S PLANS TO CLOSE RUSSIAN BORDER: ESTONIA IS BUILDING A WALL
-- 11/16 19:01 [FirstSquawk] KREMLIN ON ESTONIA CLOSING THE BORDER FOLLOWING ACCUSATION OF SABOTAGE ATTACK: RUSSIA DOES NOT ACCEPT SUCH ACCUSATIONS, WE COMPLETELY DENY THEM
-- 11/16 19:01 [FirstSquawk] KREMLIN DECLINES TO COMMENT ON IDEA OF UKRAINE CEDING DONBAS FOR NATO MEMBERSHIP, SAYS IT'S INAPPROPRIATE TO DISCLOSE DETAILS OF TALKS
-- 11/16 19:01 [FirstSquawk] RUSSIAN ATTACKS ON UKRAINIAN ENERGY, OIL AND GAS LAST WEEK CAUSED 161 INCIDENTS OF DAMAGE: DEPUTY ENERGY MINISTER
-- 11/16 19:01 [FirstSquawk] FRANCE'S BARROT SAYS RUSSIA WON'T BE ALLOWED TO DICTATE TERMS OF EUROPEAN SECURITY ARCHITECTURE
-- 11/16 19:01 [FirstSquawk] NASDAQ 100 FUTURES EXTENDS LOSSES; LAST DOWN 1%
-- 11/16 19:16 [FirstSquawk] CHINA VICE COMMERCE MINISTER, TO BMW CHAIRPERSON: SUPPORT DEVELOPMENT OF FOREIGN AUTOMAKERS INCLUDING BMW IN CHINA - STATEMENT
-- 11/16 19:30 [FirstSquawk] NHTSA: OPENS ENGINEERING ANALYSIS INTO AUTO START/STOP FEATURES IN EST 1 MILLION HONDA (AMERICAN HONDA MOTOR CO) VEHICLES IN THE US
-- 11/16 19:30 [FirstSquawk] CHINA TO EVALUATE AUTOMAKERS’ PAYMENTS TO SUPPLIERS: MIIT
-- 11/16 19:46 [FirstSquawk] EU ANTITRUST REGULATORS GIVE UNCONDITIONAL APPROVAL FOR UNICREDIT’S ACQUISITION OF COMMERZBANK
-- 11/16 19:49 [FirstSquawk] SAUDI TELECOM IS ALSO SAID TO BID FOR OAKTREE-BACKED PURE DC
-- 11/16 19:56 [FirstSquawk] UKRAINE: IT HIT 2 OIL DEPOTS IN AZOV, RUSSIA
-- 11/16 20:06 [FirstSquawk] EU ANTI-TRUST CHIEF RIBERA: WOULD LIKE TO SEE MORE CROSS-BORDER BANK MERGERS IN FUTURE
-- 11/16 20:06 [financialjuice] EU disburses €1.71B to Ukraine for drones, ammunition, and air defense.
-- 11/16 20:07 [FirstSquawk] EU DISBURSES EUR 1.71B TO UKRAINE FOR DRONES, AMMUNITION, AIR DEFENSE
-- 11/16 20:15 [FirstSquawk] CHINA BANKS BOUGHT 1.8162T YUAN OF TOTAL FOREX IN OCT.
-- 11/16 20:21 [DeItaone] $NVDA - NVIDIA SHARES FALL AS JENSEN HUANG REPORTEDLY CONSIDERS CEO COMEBACK Nvidia shares are down 2% premarket following reports that supporters of former CEO Jensen Huang are lobbying for his return. According to the Financial Times, Hua…
-- 11/16 20:23 [DeItaone] https://t.co/wjEqC2acRe
-- 11/16 20:28 [DeItaone] $SPCX: CITIGROUP RAISES TARGET PRICE TO $280 FROM $240
-- 11/16 20:29 [financialjuice] EU's move comes as it imposes sanctions on 30 individuals and 2 entities in Russia
-- 11/16 20:29 [financialjuice] Qatar Emir meets UAE national security adviser in Doha - QNA
-- 11/16 20:29 [financialjuice] Russia's Lavrov holds a phone call with an Iranian counterpart - Tass
-- 11/16 20:31 [FirstSquawk] RUSSIA, IRAN FOREIGN MINISTERS HOLD PHONE CALL - TASS
-- 11/16 20:45 [FirstSquawk] MEDLINE HOLDERS FILE TO OFFER 60 MILLION SHARES
-- 11/16 20:46 [financialjuice] In a joint statement, regulators urge Russia to cease attacks on Ukraine's energy infrastructure
-- 11/16 20:46 [financialjuice] A nationwide power blackout in Ukraine could lead to a meltdown at all Ukrainian nuclear reactors - Head of the pan-European safety regulator
-- 11/16 20:47 [FirstSquawk] LILLY TO BUY CALYTRIX BIO FOR UP TO $1.5B IN CASH
-- 11/16 20:52 [DeItaone] MORGAN STANLEY RAISES BRENT OIL FORECASTS FOR 2026 AND 2027 Morgan Stanley has revised its crude oil outlook, raising Brent forecasts for both years while making mixed adjustments to WTI projections. 🔸 2026 Brent: $96.70/bbl, up from $94 🔸 …
-- 11/16 20:54 [FirstSquawk] DIAMONDBACK TO BUY DOUBLE EAGLE UNITS FOR $2.15B & 15.56M SHRS
-- 11/16 20:54 [FirstSquawk] BLACKSTONE REIT TO BUY AMAZON DATA CENTERS IN $5 BILLION DEAL
-- 11/16 20:58 [DeItaone] RISK OF NUCLEAR ACCIDENT IN UKRAINE INCREASING THIS WINTER, ATOMIC SAFETY REGULATORS REPRESENTING 38 COUNTRIES SAY Nuclear safety regulators representing 38 countries, including the US, EU, UK and Japan, warn that Russian strikes on Ukraine…
-- 11/16 21:02 [FirstSquawk] UKRAINE'S MILITARY: STRUCK RUSSIA'S ILSKY OIL REFINERY
-- 11/16 21:06 [DeItaone] $NVDA - NVIDIA SHARES EXTEND DECLINES, LAST DOWN 3.6% PREMARKET
-- 11/16 21:08 [DeItaone] SILVER COULD HIT $75 AN OUNCE IN 2027, BANK OF AMERICA SAYS Bank of America (BofA) says silver could climb to $75 an ounce next year as macroeconomic headwinds ease. Silver closed Friday at $48.74, down 6.1% for the week, pressured by a str…
-- 11/16 21:09 [DeItaone] DEUTSCHE BANK WARNS MARKETS ARE UNDERESTIMATING RATE HIKE RISKS Deutsche Bank warns investors may be underpricing further central bank tightening as inflation remains above target and financial conditions ease. Markets now price in 113 basi…
-- 11/16 21:11 [DeItaone] GOLDMAN SACHS CUTS OIL PRICE FORECASTS FOR 2026 AND 2027 Goldman Sachs has lowered its Brent and WTI crude oil price forecasts across multiple periods. WTI Crude: 🔸 2026: $85/bbl, down from $87 🔸 Q4 2026: $91/bbl, down from $96 🔸 Q1 2027: $…
-- 11/16 21:12 [DeItaone] SILICON VALLEY VS. WHITE HOUSE: BATTLE FOR NVIDIA Tech executives are pushing to reinstate Jensen Huang, while Treasury Secretary Scott Bessent reportedly opposes his return. A petition backing Huang has drawn 175,000 signatures. Yet predic…
-- 11/16 21:16 [FirstSquawk] TYSON Q4 2026 EARNINGS - ADJ EPS: 61C (EST 53C) - SALES: $14.59B (EST $14.32B) - LOSS/SHARE: 22C VS EPS 13C Y/Y - SEES 2027 SALES: -3.5% TO -5.5% - SEES 2027 NET INTEREST EXPENSES: $360M (EST $355.7M) - SEES 2027 CAPEX: $1.1B TO $1.4B (EST …
-- 11/16 21:17 [financialjuice] US Commerce Secretary Lutnick asked to end advanced chips flow to firms w/ China ties
-- 11/16 21:17 [DeItaone] $NVDA - NVIDIA'S JENSEN HUANG COMEBACK UNLIKELY, LYNX WARNS OF FURTHER STOCK DOWNSIDE Lynx Equity Strategies analyst KC Rajkumar sees virtually no chance of Jensen Huang returning as CEO of Nvidia, despite a reported Silicon Valley lobbying…
-- 11/16 21:22 [DeItaone] U.S. S&P 500 E-MINI FUTURES DOWN 0.75%, NASDAQ 100 FUTURES DOWN 1.56%, DOW FUTURES DOWN 0.13%
-- 11/16 21:25 [FirstSquawk] BERKSHIRE HATHAWAY: WARREN E. BUFFETT, CHAIRMAN EMERITUS, WILL CONVERT 6,150 CLASS A SHARES INTO 9,225,000 CLASS B SHARES
-- 11/16 21:25 [FirstSquawk] DEM SENATOR ASKS LUTNICK TO END ADVANCED CHIPS FLOW TO FIRMS W/ CHINA TIES
 - 11/16 21:31 [FirstSquawk] S&P 500 FUTURES, NASDAQ 100 FUTURES EXTEND DROP TO SESSION LOWS
 - 11/16 21:43 [financialjuice] Knot expected to drop out of ECB race this week - Volkskrant
 - 11/16 21:48 [financialjuice] Morning Juice - US Session Prep (16th November)
@@ -701,3 +489,274 @@
 - 11/17 12:37 [financialjuice] US Department of Commerce: Nvidia added Megaspeed to its no-sell list in June 2025
 - 11/17 12:37 [FirstSquawk] NVIDIA ADDED MEGASPEED TO ITS "NO SELL" LIST IN JUNE 2025, US COMMERCE DEPARTMENT SAYS
 - 11/17 12:38 [FirstSquawk] NVIDIA RESTRICTED SALES TO MEGASPEED THROUGH ITS "NO SELL" LIST IN JUNE 2025, US COMMERCE DEPARTMENT SAYS
+- 11/17 12:39 [financialjuice] China converts US AI model output into training data for local competitors as chip restrictions take effect, documents reveal
+- 11/17 12:39 [financialjuice] US officials confronted China over AI distillation at July talks, warning of possible intellectual property theft, sources say
+- 11/17 12:39 [FirstSquawk] US OFFICIALS CARRIED OUT A FACE-TO-FACE END-USE VERIFICATION AT MEGASPEED IN JUNE 2025, INCLUDING AN INTERVIEW WITH CEO ALICE HUANG
+- 11/17 12:39 [FirstSquawk] US COMMERCE DEPARTMENT CONFIRMS JUSTICE DEPARTMENT WAS LEADING THE CRIMINAL INVESTIGATION INVOLVING MEGASPEED
+- 11/17 12:42 [FirstSquawk] XI JINPING MEETS VIETNAMESE PRESIDENT IN CHINA - CCTV
+- 11/17 12:42 [financialjuice] Explosions heard in Kyiv, Ukraine: source witnesses say
+- 11/17 12:46 [FirstSquawk] DUBAI AIRPORTS: INDIA TOPPED DXB'S COUNTRY MARKETS IN Q3 WITH 2.6 MLN GUESTS, AHEAD OF SAUDI ARABIA AND THE UK
+- 11/17 12:50 [financialjuice] Subway in Kyiv, Ukraine damaged in overnight strike: city officials
+- 11/17 12:50 [FirstSquawk] GERMAN, CHINESE HEALTHCARE PROVIDERS LOOK TO DEEPEN COOPERATION AND PARTNERSHIPS - NA
+- 11/17 12:56 [FirstSquawk] SOUTH KOREA'S STOCK MARKET DROPS STEEPLY IN LATE-MORNING TRADE, WITH AI CONCERNS STILL IN FOCUS
+- 11/17 12:58 [FirstSquawk] CITI TO BRING IN MARK BELLOFIORE AS HEAD OF ECM FOR AUSTRALIA AND NEW ZEALAND, EFFECTIVE 2027
+- 11/17 13:02 [FirstSquawk] US GOVERNMENT'S EFFORT TO CUT STUDENT AND JOURNALIST VISA VALIDITY PERIODS REJECTED BY COURT - KYODO
+- 11/17 13:02 [financialjuice] Taiwan defence ministry: early Tuesday morning detected two Russian military planes entering Taiwan’s air defence identification zone from northeast Taiwan
+- 11/17 13:03 [financialjuice] Taiwan defense ministry: After flying through airspace east of Taiwan, the aircraft left the zone south of eastern county Taitung
+- 11/17 13:04 [FirstSquawk] Taiwan's Defence Ministry reported detecting two Russian military aircraft approaching from the northeast and entering its ADIZ early Tuesday morning.
+- 11/17 13:04 [financialjuice] Canada PM office: announces extension, expansion of preliminary joint arrangement on addressing bilateral economic, trade issues between Canada and China
+- 11/17 13:04 [FirstSquawk] The Russian aircraft flew east of Taiwan before exiting the country's air defence identification zone south of Taitung, Taiwan's Defence Ministry said.
+- 11/17 13:05 [financialjuice] Canada PM Office: Canada agrees to prolong existing remission measures on certain Chinese steel and aluminium products by two years, expiring end of 2026
+- 11/17 13:05 [FirstSquawk] Canada announces plans to prolong and widen its preliminary joint arrangement with China to address outstanding bilateral economic and trade matters.
+- 11/17 13:05 [financialjuice] Canada PM office: steps to offer extra tariff relief for about C$400 million in exports to China
+- 11/17 13:06 [financialjuice] Canada PM office: tariff relief covers $116 million in frozen pork cuts exports and $285 million in fish and seafood shipments
+- 11/17 13:07 [FirstSquawk] Ottawa has approved a two-year continuation of existing remission arrangements for certain Chinese steel and aluminium products ahead of their scheduled expiry in late 2026.
+- 11/17 13:07 [FirstSquawk] Canada introduces measures to reduce tariff burdens on exports to China worth an estimated $400 million, according to the PMO.
+- 11/17 13:07 [FirstSquawk] Canada introduces further tariff relief measures aimed at supporting $400 million in exports to the Chinese market.
+- 11/17 13:07 [FirstSquawk] Aluminium inventories at Japan's major ports decreased to 202,700 tonnes by end-October, compared with 223,200 tonnes a month earlier, Marubeni reports.
+- 11/17 13:07 [financialjuice] Chemtrade Logistics Income Fund: National Bank of Canada lifts target price to C$23 from C$22.5
+- 11/17 13:08 [FirstSquawk] Canada's PMO says the relief package includes $116 million in frozen pork shipments and a further $285 million in fish and seafood exports.
+- 11/17 13:14 [financialjuice] Around 800 drones headed toward Moscow overnight: Moscow mayor quoted by TASS
+- 11/17 13:14 [financialjuice] Mongolia president steps down pending probe: official Montsame news agency
+- 11/17 13:14 [FirstSquawk] Moscow faced an overnight drone threat involving nearly 800 incoming drones, according to remarks by the city's mayor reported by TASS.
+- 11/17 13:15 [FirstSquawk] Mongolia's president submits resignation amid a pending investigation, Montsame reports.
+- 11/17 13:19 [financialjuice] China’s President Xi: China willing to collaborate with Papua New Guinea to strengthen political trust, elevate bilateral ties
+- 11/17 13:19 [financialjuice] China's President Xi: Taiwan no longer active in Papua New Guinea, report to you today
+- 11/17 13:19 [financialjuice] China's President Xi: 'we hope this supports your reunification efforts'
+- 11/17 13:20 [FirstSquawk] Papua New Guinea's leader tells Xi that Taiwan no longer has an operational presence within the country.
+- 11/17 13:20 [FirstSquawk] Papua New Guinea's leader tells Xi that the move is intended to support China's push for reunification.
+- 11/17 13:20 [FirstSquawk] China and Papua New Guinea should reinforce political trust and continue expanding bilateral cooperation, Xi tells PNG's Prime Minister.
+- 11/17 13:24 [FirstSquawk] Nomura America Finance's US dollar guaranteed senior notes receive an 'A-' rating from Fitch.
+- 11/17 13:25 [FirstSquawk] Malaysian Prime Minister Anwar says France has been granted approval to receive raw rare earth minerals due to its willingness to partner with Malaysia on processing activities.
+- 11/17 13:28 [FirstSquawk] Malaysia calls for greater cooperation with France on energy transition efforts, particularly the ASEAN-wide power grid project.
+- 11/17 13:32 [FirstSquawk] Macron says the two countries have decided to upgrade their bilateral relationship to the level of a strategic partnership.
+- 11/17 13:33 [FirstSquawk] France and Malaysia to set up a joint centre aimed at addressing hybrid security threats, Macron announces.
+- 11/17 13:35 [FirstSquawk] Macron announces a new defence agreement focused on Airbus helicopter procurement.
+- 11/17 13:40 [FirstSquawk] European markets point to a lower opening, with Euro Stoxx 50 futures down 0.7%, DAX futures off 0.6% and FTSE futures shedding 0.85%.
+- 11/17 13:42 [financialjuice] Russia repels drone strike on industrial zones in Ufa and Salavat: TASS quotes local officials
+- 11/17 13:42 [FirstSquawk] Drone strike attempt on industrial zones in Ufa and Salavat repelled by Russian forces, according to local officials cited by TASS.
+- 11/17 13:44 [FirstSquawk] China seeks closer exchanges with Vietnam on party leadership, management and governance, Xi tells President To Lam.
+- 11/17 13:44 [FirstSquawk] Xi Jinping says China is committed to enhancing trust and strengthening solidarity between Beijing and Hanoi.
+- 11/17 13:44 [FirstSquawk] Xi expresses Beijing's commitment to working with Hanoi to protect regional stability and promote peaceful conditions.
+- 11/17 13:45 [FirstSquawk] JAPAN TERTIARY INDUSTRY INDEX (M/M) SEP: -0.5% (EST 0.1%; PREV -0.1%)
+- 11/17 13:56 [FirstSquawk] Meta faces a sanctions request linked to claims that it failed to disclose evidence in teen mental health litigation - RTRS
+- 11/17 13:56 [financialjuice] Orsted: RBC lifts target price to DKK 185 from DKK 180
+- 11/17 14:02 [financialjuice] Finland urges European leaders to engage directly with Putin - FT
+- 11/17 14:03 [FirstSquawk] Finland urges European governments to pursue direct talks with Russian President Vladimir Putin, according to the FT.
+- 11/17 14:07 [financialjuice] Oman, Iran foreign ministers discuss shipping and maritime corridor security: Oman foreign ministry
+- 11/17 14:08 [financialjuice] Oman, Iran foreign ministers discuss reviving diplomatic and negotiation channels
+- 11/17 14:08 [FirstSquawk] Iran and Oman explore ways to reactivate diplomatic channels and resume negotiations, following talks between their foreign ministers.
+- 11/17 14:09 [financialjuice] Russia hits targets in Kyiv, Zaporizhzhia, Cherkasy and Dnipropetrovsk regions overnight: IFX cites defense ministry
+- 11/17 14:09 [FirstSquawk] KOSPI extends losses, shedding 2.1% to trade at 4,994 points.
+- 11/17 14:09 [FirstSquawk] Overnight Russian attacks target multiple locations across Kyiv, Zaporizhzhia, Cherkasy and Dnipropetrovsk regions, according to a Defence Ministry statement cited by IFX.
+- 11/17 14:10 [financialjuice] Russia hits Ukrainian energy sites, port infrastructure and vessels: IFX cites Russian defence ministry
+- 11/17 14:10 [FirstSquawk] Moscow claims to have targeted energy installations, port facilities and ships across Ukraine, according to the Defence Ministry cited by IFX.
+- 11/17 14:13 [FirstSquawk] EU mulls barring Chinese firms over breaches of subsidy rules, according to the Financial Times.
+- 11/17 14:24 [FirstSquawk] US strengthens Kadena airbase with F-15EX jets, but analysts question their ability to counter China - SCMP
+- 11/17 14:27 [FirstSquawk] Colette Kress to make her first appearance as NVIDIA interim CEO during earnings announcement - FT
+- 11/17 14:28 [FirstSquawk] Iran’s Ghalibaf warns that dams, ports and power stations located near US or Israeli bases are considered dual-use.
+- 11/17 14:31 [FirstSquawk] ASX 200 ends the session down 1.8%, settling at 8,883.20.
+- 11/17 14:31 [FirstSquawk] Canada and China extend trade arrangements during Xi-Carney meeting ahead of APEC gathering
+- 11/17 14:32 [FirstSquawk] Canada and China extend trade arrangements during Xi-Carney meeting ahead of APEC gathering - RTRS
+- 11/17 14:35 [FirstSquawk] Taiwan's benchmark stock market index falls 2.3% at the close
+- 11/17 14:38 [financialjuice] Russian-installed governor: two killed in Ukrainian assault on Crimea
+- 11/17 14:38 [FirstSquawk] Two people killed in Ukrainian attack on Crimea, says Russian-appointed governor
+- 11/17 14:41 [FirstSquawk] Russian forces strike port facilities and industrial infrastructure in Mykolaiv, according to local official
+- 11/17 14:41 [financialjuice] Russia strikes port and industrial sites in Ukraine's Mykolaiv on Monday: local official
+- 11/17 14:47 [FirstSquawk] South Korea's 2026 GDP growth forecast raised to 3.9% by IMF on chip-sector strength - YONHAP
+- 11/17 14:48 [FirstSquawk] Jet fuel demand in India set to increase to 14.2 million tonnes per year by 2030, compared with 9 million tonnes currently, minister says
+- 11/17 14:48 [financialjuice] India civil aviation minister: jet fuel demand to increase to 14.2 million tons a year by 2030 from 9 million now
+- 11/17 14:51 [FirstSquawk] Lufthansa Group says airline has submitted a full settlement proposal to pilots' union based on arbitration recommendations
+- 11/17 14:51 [FirstSquawk] Lufthansa to add as many as 1,000 cockpit staff by 2033, while increasing annual captain promotions to 150
+- 11/17 14:51 [financialjuice] Train and car traffic on Crimean bridge halted: Russian transport ministry
+- 11/17 14:51 [financialjuice] China finance ministry: China and Canada target meaningful mutually beneficial trade results before leaders' meeting at APEC - statement
+- 11/17 14:52 [FirstSquawk] Beijing and Ottawa report advances in trade discussions, with further extensions of existing arrangements
+- 11/17 14:52 [financialjuice] China finance ministry: China, Canada welcome recent strides in trade talks, including further extension of pertinent arrangements
+- 11/17 14:52 [financialjuice] China finance ministry: China, Canada welcome qualified Canadian firms to issue panda bonds on Chinese exchange
+- 11/17 14:52 [FirstSquawk] Beijing opens door for qualified Canadian institutions to tap China's Panda bond market, finance ministry says
+- 11/17 14:53 [financialjuice] Jp Morgan upgrades MSCI UAE index to overweight from neutral
+- 11/17 14:53 [financialjuice] China finance ministry: both sides greet moves by Bank of Canada and People’s Bank of China to enact local currency swap deal
+- 11/17 14:53 [FirstSquawk] China, Canada support progress by respective central banks in putting bilateral currency swap deal into effect
+- 11/17 15:05 [FirstSquawk] Asia's stock markets come under pressure as Washington steps up scrutiny of semiconductor shipments - WSJ
+- 11/17 15:14 [FirstSquawk] Hong Kong's student population in the United States shrinks by 27% over the last decade - SCMP
+- 11/17 15:23 [FirstSquawk] Japan investigates suspected data breach after unauthorised access to Fugaku supercomputer - KYODO
+- 11/17 15:24 [FirstSquawk] Deutsche Bank expects limited to no financial consequences from legacy cases, citing their historical nature
+- 11/17 15:25 [FirstSquawk] Deutsche Bank highlights significant organisational changes achieved under Christian Sewing's leadership
+- 11/17 15:27 [FirstSquawk] Deutsche Bank says it conducted reviews of these issues when they arose and maintained close coordination with regulators
+- 11/17 15:34 [FirstSquawk] South Korea's benchmark Kospi slides 2.59% at the close to its lowest level since February 2
+- 11/17 15:37 [FirstSquawk] Standard Life upgraded by Barclays, which lifts price target to 824p from 773p
+- 11/17 15:38 [FirstSquawk] Barclays raises Reckitt Benckiser's price target to 6,300p from 5,800p
+- 11/17 15:41 [financialjuice] US Sec. of Defense Hegseth eyes Japan visit in December - Kyodo
+- 11/17 15:42 [FirstSquawk] AI adoption poised to trigger fresh growth cycle for Dassault Systemes' sales and earnings, WSJ reports
+- 11/17 15:46 [FirstSquawk] AUD/USD bearish momentum signals scope for further declines towards 0.6660, according to FXStreet
+- 11/17 15:57 [FirstSquawk] Russia says its military carried out strikes on two bridges in Kyiv
+- 11/17 16:00 [financialjuice] ❗ UK UNEMPLOYMENT CHANGE ACTUAL 33.2K (FORECAST -, PREVIOUS 30.3K) $MACRO
+- 11/17 16:00 [financialjuice] ❗ UK EMPLOYMENT CHANGE SA ACTUAL -34K (FORECAST 10K, PREVIOUS 13K) $MACRO
+- 11/17 16:00 [financialjuice] UK AVERAGE WEEKLY EARNINGS YOY ACTUAL 3.6% (FORECAST 3.5%, PREVIOUS 3.7%) $MACRO
+- 11/17 16:00 [financialjuice] UK EMPLOYMENT CHANGE 3M/3M ACTUAL 155K (FORECAST 139K, PREVIOUS 102K) $MACRO
+- 11/17 16:00 [financialjuice] ❗ UK UNEMPLOYMENT RATE ACTUAL 4.6% (FORECAST 4.7%, PREVIOUS 4.7%) $MACRO
+- 11/17 16:00 [financialjuice] UK AVERAGE EARNINGS (EX-BONUS) ACTUAL 3.5% (FORECAST 3.6%, PREVIOUS 3.7%) $MACRO
+- 11/17 16:01 [financialjuice] UK Employment November 2026 Report
+- 11/17 16:01 [FirstSquawk] UK (SEP) Employment Change 3M/3M (MoM) ACTUAL: 156K VS 102K PREVIOUS UK (SEP) Unemployment Rate ACTUAL: 4.6% VS 4.7% PREVIOUS;EST 4.7% UK (SEP) Average Earnings Index +Bonus ACTUAL: 3.6% VS 3.7% PREVIOUS
+- 11/17 16:01 [FirstSquawk] UK (OCT) Claimant Count Change ACTUAL: 33.2K VS 9.8K PREVIOUS;EST 25.4K UK (SEP) Average Earnings ex Bonus ACTUAL: 3.5% VS 3.7% PREVIOUS;EST 3.5%
+- 11/17 16:09 [financialjuice] IRGC claims targeting US radar in Bahrain - Press TV
+- 11/17 16:10 [financialjuice] China's Guo on US moving to curb remote access to chips: China will protect the rights and interests of firms
+- 11/17 16:11 [financialjuice] Nvidia warns buyers of legal risk tied to China AI access - CNBC $NVDA
+- 11/17 16:16 [financialjuice] Nvidia won't sell chips to buyers who rent >50% GPUS - CNBC $NVDA
+- 11/17 16:25 [financialjuice] UK welfare plan could save £3.8b a year by 2036 - Milburn
+- 11/17 16:36 [FirstSquawk] GERMAN DEFENCE MINISTER PISTORIUS SAYS RUSSIA IS INTENSIFYING ITS AIR RAIDS IN UKRAINE BECAUSE IT DOESN'T MAKE ANY PROGRESS ON THE BATTLEFIELD
+- 11/17 16:36 [FirstSquawk] PISTORIUS SAYS GERMANY AND NORWAY WILL SPONSOR ANOTHER PURL PACKAGE TO FINANCE US WEAPONS TO BE SUPPLIED TO UKRAINE WHICH WILL FOCUS ON AIR DEFENCES.
+- 11/17 16:38 [financialjuice] Germany Defence Minister Pistorius: We expect changes in US Army presence in Europe
+- 11/17 16:38 [FirstSquawk] PISTORIUS SAYS WE WILL DISCUSS THE ONGOING US FORCE POSTURE REVIEW AND DEFENCE INDUSTRY COOPERATION WITH PENTAGON POLICY CHIEF COLBY TODAY.
+- 11/17 16:41 [FirstSquawk] PISTORIUS SAYS WE EXPECT CHANGES TO US TROOPS LEVELS IN EUROPE, IT IS CRUCIAL TO PREVENT ANY DANGEROUS CAPABILITY GAPS THAT COULD BE CAUSED BY A US TROOP DRAWDOWN THROUGH TALKS WITH THE US
+- 11/17 16:44 [FirstSquawk] PISTORIUS SAYS EXPECT CHANGES IN US ARMY PRESENCE IN EUROPE.
+- 11/17 16:44 [FirstSquawk] PISTORIUS SAYS EU TO DISCUSS DEFENSE INDUSTRIAL COOP WITH COLBY
+- 11/17 16:50 [FirstSquawk] BAHRAIN: DANGER HAS PASSED
+- 11/17 16:58 [FirstSquawk] CHINA'S XI MEETS MEXICAN PRESIDENT SHEINBAUM: XINHUA
+- 11/17 17:01 [financialjuice] Currency Strength Chart: Strongest: JPY, GBP, CHF, USD, EUR, AUD, CAD, NZD - Weakest
+- 11/17 17:05 [financialjuice] Samsung and Apple near long-term DRAM supply deal - Maeil $AAPL
+- 11/17 17:09 [FirstSquawk] FRANCE'S CAC 40 DOWN 0.24%
+- 11/17 17:09 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 0.37%
+- 11/17 17:09 [FirstSquawk] RUSSIAN OVERNIGHT STRIKES ON UKRAINIAN ENERGY INFRASTRUCTURE CAUSED POWER OUTAGES IN EIGHT REGIONS - DEPUTY ENERGY MINISTER.
+- 11/17 17:09 [FirstSquawk] GERMANY'S DAX DOWN 0.92%
+- 11/17 17:10 [FirstSquawk] JAPAN, RUSSIA LEADERS EXPECTED TO MEET DURING APEC: KYODO
+- 11/17 17:10 [FirstSquawk] NOKIA SHARES DOWN 3%
+- 11/17 17:10 [FirstSquawk] DEUTSCHE BANK DROPS 6.2% AFTER REPORT ON EPSTEIN-TIED PAYMENTS
+- 11/17 17:10 [FirstSquawk] FORD MOTOR COMPANY FILES RECALL OF 60,956 US VEHICLES: NHTSA
+- 11/17 17:10 [FirstSquawk] VOLKSWAGEN GROUP OF AMERICA INC . FILES RECALL OF 3,914 US VEHICLES: NHTSA
+- 11/17 17:13 [FirstSquawk] VISA CEO SAYS AT APEC VERY OPTIMISTIC ABOUT INCREASING CHINA INVESTMENT, WORKING ON DOMESTIC PAYMENT PARTNERSHIP WITH CHINA'S UNIONPAY
+- 11/17 17:23 [FirstSquawk] SAMSUNG AND APPLE NEAR LONG-TERM DRAM SUPPLY DEAL - MAEIL
+- 11/17 17:23 [FirstSquawk] RUSSIAN INVESTIGATIVE COMMITTEE SAYS CRIMEA BRIDGE SUFFERED DAMAGES AFTER UKRAINIAN DRONE ATTACKS ON NOVEMBER 16 AND 17
+- 11/17 17:23 [FirstSquawk] GERMAN FINANCE MINISTER PROPOSES MARKUS BRUNNERMEIER FOR ECB CHIEF ECONOMIST ROLE, GERMAN FINANCE MINISTRY SAYS
+- 11/17 17:24 [FirstSquawk] GERMAN CABINET DUE TO DECIDE ON BRUNNERMEIER'S NOMINATION TOMORROW, FINANCE MINISTRY SAYS
+- 11/17 17:28 [FirstSquawk] UNICREDIT CEO EXPECTS TO GET POLAND NOD ON COMMERZBANK BY NOVEMBER
+- 11/17 17:44 [financialjuice] Russia: No understanding yet on Ukraine talks continuation - IFX
+- 11/17 17:45 [FirstSquawk] BAHRAIN SAYS IT INTERCEPTED NUMBER OF AERIAL ATTACKS FROM IRAN
+- 11/17 17:45 [FirstSquawk] CASSAVA SEEKS $1 BILLION FOR NVIDIA CHIPS TO POWER AI IN AFRICA
+- 11/17 17:45 [FirstSquawk] RUSSIA SAYS NO UNDERSTANDING YET ON UKRAINE TALKS CONTINUATION: IFX
+- 11/17 17:45 [FirstSquawk] INTERFAX CITES RUSSIAN DEPUTY FOREIGN MINISTER RYABKOV ON TALKS.
+- 11/17 17:47 [FirstSquawk] CHINA'S XI MEETS WITH PERU PRESIDENT: CHINESE STATE MEDIA.
+- 11/17 17:51 [FirstSquawk] RUSSIA SAYS NO FEEDBACK YET ON ITS SECURITY PROPOSALS: IFX
+- 11/17 17:52 [FirstSquawk] PUTIN WAS BRIEFED ON SITUATION WITH KERCH BRIDGE- TASS
+- 11/17 17:53 [FirstSquawk] EUROPEAN LAWMAKER ANDRESEN: DEUTSCHE BANK'S SEWING SHOULD APPEAR BEFORE EU PARLIAMENT OVER LEAKS.
+- 11/17 17:58 [FirstSquawk] RUSSIA FOREIGN MINISTRY: UKRANE'S ENTRY TO NATO IS UNACCEPTABLE FOR RUSSIA - IFX
+- 11/17 17:58 [FirstSquawk] EUROPE'S EASA SAYS EXTENDS CONFLICT ZONE INFORMATION BULLETIN FOR AIRSPACE OF SAUDI ARABIA, JORDAN, LEBANON, IRAQ, IRAN, PERSIAN GULF AND GULF OF OMAN UNTIL JAN 31, 2027
+- 11/17 17:58 [financialjuice] Russia: There is no date for next round of Ukraine talks - Tass.
+- 11/17 17:59 [FirstSquawk] RUSSIA SAYS NO DATE FOR NEXT ROUND OF UKRAINE TALKS: TASS
+- 11/17 18:01 [financialjuice] ITALIAN HICP FINAL MOM ACTUAL 1.2% (FORECAST 1.2%, PREVIOUS 1.2%) $MACRO
+- 11/17 18:01 [financialjuice] ITALIAN CPI MOM FINAL ACTUAL 1% (FORECAST 0.9%, PREVIOUS 0.9%) $MACRO
+- 11/17 18:01 [financialjuice] ITALIAN CPI YOY FINAL ACTUAL 5.5% (FORECAST 5.4%, PREVIOUS 5.4%) $MACRO
+- 11/17 18:01 [financialjuice] ITALIAN HICP FINAL YOY ACTUAL 5.6% (FORECAST 5.6%, PREVIOUS 5.6%) $MACRO
+- 11/17 18:05 [FirstSquawk] LME ALUMINUM ALLOY INVENTORY UNCHANGED AT 1,500 TONS
+- 11/17 18:05 [FirstSquawk] LME COPPER INVENTORY RISES 125 TONS TO 327,600 TONS
+- 11/17 18:05 [FirstSquawk] LME NICKEL INVENTORY RISES 1,458 TONS TO 274,140 TONS
+- 11/17 18:05 [FirstSquawk] LME ZINC INVENTORY RISES 7,100 TONS TO 148,375 TONS
+- 11/17 18:05 [FirstSquawk] U.S. S&P 500 E-MINI FUTURES DOWN 0.30%, NASDAQ 100 FUTURES DOWN 0.11%, DOW FUTURES DOWN 0.46%
+- 11/17 18:08 [FirstSquawk] MISSION DEFENSE LED BY EX-UKRAINE DEFENSE MINISTER FEDOROV
+- 11/17 18:13 [financialjuice] UKMTO: maritime security agency reports vessel 7 nm north of Oman’s Khasab hit by second strike
+- 11/17 18:13 [financialjuice] UKMTO: strike led to fire onboard
+- 11/17 18:13 [financialjuice] Ukmto: crew currently missing, damage evaluation unknown at this time
+- 11/17 18:15 [FirstSquawk] UKMTO SAYS REPORTS FROM A MARITIME SECURITY AGENCY THAT VESSEL 7 NM NORTH OF OMAN'S KHASAB SUSTAINED A SECOND STRIKE
+- 11/17 18:15 [FirstSquawk] UKMTO SAYS CREW ARE CURRENTLY UNACCOUNTED FOR, DAMAGE ASSESSMENT IS UNKNOWN AT PRESENT
+- 11/17 18:17 [financialjuice] Russian strikes leave 700,000 households in Ukraine’s Dnipropetrovsk region powerless: DTEK
+- 11/17 18:17 [FirstSquawk] RUSSIAN STRIKES LEAVE 700,000 HOUSEHOLDS IN UKRAINE'S DNIPROPETROVSK REGION WITHOUT POWER - DTEK
+- 11/17 18:22 [FirstSquawk] GERMAN CHANCELLOR BACKS DECISION TO PROPOSE BRUNNERMEIER FOR ECB ROLE, GOVERNMENT SOURCES SAYS
+- 11/17 18:25 [FirstSquawk] IRAN NAVY CLAIMS ANOTHER TANKER HIT MINE IN HORMUZ TUES- IRIB
+- 11/17 18:27 [financialjuice] Iran navy claims another tanker hit mine in Hormuz Tuesday - IRIB
+- 11/17 18:29 [FirstSquawk] ZELENSKYY CONFIRMS UKRAINE HIT RUSSIA'S CRIMEAN BRIDGE.
+- 11/17 18:30 [financialjuice] Iraq's Oil Minister: Crude oil pumping for export purposes resume via Iraq-Turkey pipeline.
+- 11/17 18:31 [financialjuice/FirstSquawk] Iraq's Oil Minister: Initial export capacity through Kirkuk Ceyhan pipeline is 120,000 barrels per day.
+- 11/17 18:33 [FirstSquawk] IRAQ'S OIL MINISTER SAYS CRUDE OIL PUMPING FOR EXPORT PURPOSES RESUME VIA IRAQ-TURKEY PIPELINE
+- 11/17 18:33 [FirstSquawk] KREMLIN SAYS CRIMEAN BRIDGE WILL BE RESTORED: RIA
+- 11/17 18:33 [FirstSquawk] IRAQ'S OIL MINISTER SAYS EXPORT CAPACITY VIA THE IRAQ-TURKEY PIPELINE WILL BE GRADUALLY INCREASED, EVENTUALLY REACHING 500,000 BARRELS PER DAY
+- 11/17 18:36 [FirstSquawk] PLANE CARRYING US PRESIDENT TRUMP ARRIVES IN MANILA
+- 11/17 18:36 [FirstSquawk] IRAN'S STATE MEDIA CITING REVOLUTIONARY GUARDS: A SHIP CARRYING LIQUEFIED GAS AND AN OIL TANKER ON FIRE IN THE STRAIT OF HORMUZ AFTER HITTING A NAVAL MINES
+- 11/17 18:40 [FirstSquawk] GERMANY WILL SUPPORT SPANISH CANDIDATE DE COS FOR ECB PRESIDENCY, TWO SOURCES SAY
+- 11/17 18:41 [FirstSquawk] TRUMP ARRIVES IN MANILA, PHILIPPINES FOR ASEAN SUMMIT
+- 11/17 18:43 [financialjuice] South Korea's Lee to visit Japan in January 2027 at invitation of Takaichi.
+- 11/17 18:44 [FirstSquawk] SOUTH KOREA'S LEE: TO VISIT JAPAN IN JAN. 2027 AT INVITATION OF TAKAICHI
+- 11/17 18:51 [financialjuice] Fitch Ratings: AI demand to drive uneven APAC tech growth amid rising risks in 2027.
+- 11/17 19:00 [financialjuice] ‼ BREAKING: GERMAN ZEW ECONOMIC SENTIMENT ACTUAL 35.6 (FORECAST 28.8, PREVIOUS 28.1) $MACRO
+- 11/17 19:00 [financialjuice] EUROZONE ZEW SURVEY EXPECTATIONS ACTUAL 26.5 (FORECAST -, PREVIOUS 18.5) $MACRO
+- 11/17 19:00 [financialjuice] ❗ GERMAN ZEW CURRENT CONDITIONS ACTUAL -33.2 (FORECAST -35.3, PREVIOUS -35.9) $MACRO
+- 11/17 19:00 [financialjuice] NVIDIA board establishes export control oversight committee.
+- 11/17 19:09 [FirstSquawk] UK IMPOSED SANCTIONS ON FIRMS BUILDING SETTLEMENTS IN WEST BANK
+- 11/17 19:11 [FirstSquawk] IRAN, ARMENIA DISCUSS REFINERY CONSTRUCTION, GAS TRADE: SHANA
+- 11/17 19:12 [FirstSquawk] NVIDIA BOARD OF DIRECTORS ESTABLISHES NATIONAL SECURITY AND EXPORT CONTROL OVERSIGHT COMMITTEE
+- 11/17 19:13 [FirstSquawk] QATAR SAYS MEDIATION BETWEEN US, IRAN STILL ONGOING
+- 11/17 19:16 [FirstSquawk] QATAR: MEETING TO BE HELD WITH IRAN TODAY AS PART OF MEDIATION
+- 11/17 19:17 [FirstSquawk] RUSSIA SAYS RAIL TRAFFIC RESUMES ON CRIMEAN BRIDGE: IFX
+- 11/17 19:31 [financialjuice] GERMAN 2 YR SCHATZ BID-TO-COVER ACTUAL 1.8 (FORECAST -, PREVIOUS 1.3) $MACRO
+- 11/17 19:31 [financialjuice] GERMAN 2 YR SCHATZ YIELD ACTUAL 3.1% (FORECAST -, PREVIOUS 3.08%) $MACRO
+- 11/17 19:33 [FirstSquawk] EU'S DOMBROVSKIS: SEEING 2ND ROUND INFLATION EFFECTS TO ECONOMY
+- 11/17 19:40 [FirstSquawk] DEUTSCHE BANK CHAIR: DURING MY TENURE I HAVEN’T SEEN A SINGLE DECISION FROM CHRISTIAN SEWING THAT I WAS NOT COMFORTABLE WITH
+- 11/17 19:44 [financialjuice] France's Bardella: Proposed retirement fund will be financed by employer payroll contributions worth 12 billion euros annually and be managed by the Caisse des Dépôts
+- 11/17 19:44 [financialjuice] Budget spokesman for France's RN: Gross cost of our reform would amount to 18.6 billion Euros in 2032, the net cost would be 10.1 billion Euros
+- 11/17 19:44 [financialjuice] Iraq resumes oil exports via the Kirkuk-Ceyhan pipeline - Ministry
+- 11/17 19:45 [financialjuice] China's Xi, to Peru president: should tap potential for cooperation on new energy and artificial intelligence - Xinhua
+- 11/17 19:45 [FirstSquawk] TRUMP MEETS LEADERS OF JAPAN, INDIA, AUSTRLIA FOR QUAD TALKS
+- 11/17 19:45 [financialjuice] Iraq resumes Kirkuk-Ceyhan oil flows at 120k b/d - INA
+- 11/17 19:45 [financialjuice] Xi: China willing to boost partnership with Peru - Xinhua
+- 11/17 19:45 [financialjuice] EU Commission approves €9.5 billion Dutch state aid to support offshore wind energy
+- 11/17 19:47 [FirstSquawk] TRUMP: LOOK FORWARD TO BEING IN CHINA
+- 11/17 19:48 [financialjuice] Trump on Nvidia: Good idea they launched the national security initiative $NVDA
+- 11/17 19:48 [FirstSquawk] TRUMP: PRODUCING MAJOR NUMBERS ON RARE EARTHS
+- 11/17 19:48 [financialjuice] Trump on separate bilateral with Putin: I would if available
+- 11/17 19:48 [financialjuice] Trump, on China disagreements, has handled that very well. It’s two opinions
+- 11/17 19:49 [financialjuice] Trump, on Taiwan: I’m sure Xi will raise the issue
+- 11/17 19:50 [financialjuice] Trump on Kim Jong Un coming to APEC: he would like to. We'll see what happens
+- 11/17 19:50 [financialjuice/FirstSquawk] Trump on Iran: We take it very seriously; this is why they can't have a nuclear weapon
+- 11/17 19:50 [FirstSquawk] IRAN'S FOREIGN MINISTRY SPOKESPERSON SAYS CNN REPORT ABOUT A POTENTIAL IRANIAN PLAN TO DETONATE DIRTY BOMB IN WASHINGTON IS 'BASELESS ALLEGATIONS'
+- 11/17 19:51 [financialjuice] Kremlin says no contacts with Japan and Canada are planned - IFX
+- 11/17 19:51 [financialjuice] Iran's foreign ministry Spokesperson: CNN report about a potential Iranian plan to detonate a dirty bomb in Washington is 'baseless allegations' - Post on X
+- 11/17 19:51 [financialjuice] Trump on Deutsche Bank leak: It's illegal for them to do it
+- 11/17 19:51 [financialjuice] Trump: Will press Xi and Putin to help bring an end to the Ukraine war
+- 11/17 19:54 [financialjuice] Just 3% of investors predict a recession, cash levels at 3.6%, the lowest since August 2026 - BofA fund manager survey
+- 11/17 19:54 [financialjuice] BofA FMS: Investors slash tech allocation by the most in a month since June 2006
+- 11/17 19:55 [financialjuice] BofA FMS: 36% say 2027's best performing asset class to be international stocks, 24% US stocks, 17% gold
+- 11/17 19:55 [financialjuice] BofA FMS: Net 32% of respondents expect lower global CPI in 12 months.
+- 11/17 19:55 [financialjuice] BofA FMS: 52% of respondents expect an al hyperscaler to announce a capex cut in the next 6 months; record 38% say companies are overinvesting
+- 11/17 19:55 [financialjuice] BofA FMS: investors now least underweight bonds since November 2025
+- 11/17 19:55 [financialjuice] France's Le Pen: If we do not have a parliamentary majority, we could put our pension reform to a referendum
+- 11/17 19:56 [FirstSquawk] BOFA FMS: INVESTORS SLASH TECH ALLOCATION BY MOST IN A MONTH SINCE JUNE 2006
+- 11/17 19:59 [FirstSquawk] TRUMP: QUAD NATIONS PARTNERED TO LAUNCH AI INITIATIVE
+- 11/17 19:59 [FirstSquawk] TRUMP: WE'RE VERY LATE AND NOW WE'RE VERY EARLY ON CRITICAL MINIERALS
+- 11/17 19:59 [FirstSquawk] TRUMP: MADE NEW CRITICAL MINERAL DEALS
+- 11/17 20:03 [FirstSquawk] HOME DEPOT Q3 2026 EARNINGS - ADJUSTED EPS: $3.86 (EST $3.85) - COMPARABLE SALES: +2.2% (EST +1.71%) - US COMPARABLE SALES: +2.2% (EST +1.52%) - NET SALES: $43.4B (EST $42.83B) - MERCHANDISE INVENTORIES: $27.60B (EST $26.87B) - SEES FY SALE…
+- 11/17 20:07 [financialjuice] UKMTO gets a time-delayed report of an incident in the Persian Gulf
+- 11/17 20:08 [financialjuice] UKMTO: Tanker was struck by a projectile on November 13th
+- 11/17 20:08 [financialjuice] Iran's Araghchi held talks on the region with the Sultan of Oman
+- 11/17 20:08 [financialjuice] Iran FM briefs Oman Sultan on initiative to end war
+- 11/17 20:12 [FirstSquawk] UKRAINE'S MILITARY: STRUCK SALAVAT OIL REFINERY AND PETROCHEMICAL COMPLEX IN RUSSIA'S BASHKORTOSTAN - GENERAL STAFF
+- 11/17 20:14 [financialjuice] EU escalates Temu probe over illegal product sales on website
+- 11/17 20:14 [financialjuice] Germany plans takeover law overhaul to curb low-ball bids - Sources
+- 11/17 20:15 [financialjuice] Xi: China to boost trade with Chile - CCTV
+- 11/17 20:15 [financialjuice] France's Le Pen: I don't think our lenders are concerned about our proposals; they are concerned about the country's situation
+- 11/17 20:29 [FirstSquawk] CHINA COMMERCE MINISTRY: CHINA AND CANADA AGREE TO EXTEND EXEMPTION MEASURES UNDER INITIAL JOINT ARRANGEMENT BY 2 YEARS
+- 11/17 20:30 [financialjuice] China reaches consensus with Canada on Chinese bank branches
+- 11/17 20:31 [FirstSquawk] GOOGLE SIGNS POWER DEAL WITH QUAISE ENERGY: WSJ
+- 11/17 20:31 [financialjuice] Google signs power deal with Quaise Energy - WSJ $GOOGL
+- 11/17 20:31 [financialjuice] China and Canada agree to extend tariff relief for two years
+- 11/17 20:32 [DeItaone] *CHINA, CANADA AGREE TO EXTEND TARIFF RELIEF FOR TWO YEARS
+- 11/17 20:36 [FirstSquawk] DISNEY Q4 2026 EARNINGS - ADJ EPS: $1.77 (EST $1.66) - REV: $25.95B (EST $25.18B) - ENTERTAINMENT REV: $11.89B (EST $11.48B) - ENTERTAINMENT OPER INCOME: $1.33B (EST $1.33B) - SPORTS REV: $4.61B (EST $4.45B) - SPORTS OPER INCOME: $1.39B (ES…
+- 11/17 20:36 [DeItaone] $DIS - Q4: EPS & REVENUE BEAT, FY27 DOUBLE-DIGIT EPS GROWTH REAFFIRMED Results 🔸 Adj. EPS: $1.77 vs. $1.67 est. (+6% beat). 🔸 Revenue: $25.95B vs. $25.18B est. (+3% beat). 🔸 GAAP EPS: $1.51. 🔸 Segment Operating Income: $4.97B. 🔸 FCF: $4.84B…
+- 11/17 20:41 [DeItaone] BANK OF AMERICA SURVEY SHOWS BIGGEST TECH STOCK SELLING SINCE 2006 Investors slashed technology exposure at the fastest monthly pace since June 2006, according to BofA's fund manager survey. Net tech overweight plunged to 12% from 37%, amid…
+- 11/17 20:44 [DeItaone] *TRUMP SAYS US LOOKING INTO IRAN'S DIRTY BOMB THREAT: CBS
+- 11/17 20:45 [financialjuice] Russia's Novak orders faster oil refinery restoration - IFX
+- 11/17 20:45 [financialjuice] Anthropic: Amazon would hold 23.8% of the outstanding capital stock $AMZN
+- 11/17 20:45 [financialjuice] Anthropic IPO price range unchanged in recent filing.
+- 11/17 20:45 [financialjuice] Anthropic: Amazon would hold 48.2% of outstanding class N stock $AMZN
+- 11/17 20:46 [FirstSquawk] ANTHROPIC: AMAZON WOULD HOLD 23.8% OF OUTSTANDING CAPITAL STOCK
+- 11/17 20:47 [financialjuice] Centcom: Iran claim drones hit US radar is ‘false’
+- 11/17 20:49 [FirstSquawk] HUNGARY FOREIGN MINISTRY: HUNGARY HAS RECEIVED EXTENSION FOR IMPORTING RUSSIAN OIL SUPPLIES WITHOUT RISK OF US SANCTIONS
+- 11/17 20:52 [DeItaone] 🇪🇺 EUROPEAN STOCK OPTIMISM HITS HIGHEST LEVEL SINCE FEBRUARY, BOFA SURVEY SHOWS Bank of America reports that a net 67% of fund managers expect European equities to rise over the next 1–3 months, up from 44% in October. Investors forecast 5.…
+- 11/17 20:53 [DeItaone] AI BUBBLE TOPS GLOBAL MARKET RISKS, BANK OF AMERICA SURVEY FINDS Bank of America's November fund manager survey shows investors increasingly concerned about risks tied to the AI investment boom. 🔸 34% identify an AI bubble as the biggest ta…
+- 11/17 20:59 [DeItaone] ANTHROPIC: NO CHANGES TO IPO PRICING OF $70 TO $78 PER SHARE
+- 11/17 21:12 [FirstSquawk] BP: LAUNCHES CASH TENDER OFFERS FOR USD NOTES FOR AGGREGATE PURCHASE CONSIDERATION OF UP TO $6B
+- 11/17 21:12 [DeItaone] IRAN SLAMS AS 'FABRICATED' REPORT ON ALLEGED PLANS TO ATTACK WASHINGTON
+- 11/17 21:14 [DeItaone] AI SPENDING CUT FEARS SURGE AS 52% OF INVESTORS EXPECT HYPERSCALER CAPEX REDUCTION Bank of America's November fund manager survey shows a sharp increase in expectations for an AI spending slowdown. 🔸 52% expect a major AI hyperscaler to ann…
+- 11/17 21:18 [FirstSquawk] US DEMOCRATIC SENATORS URGE FEDERAL AVIATION ADMINISTRATION TO IMMEDIATELY PAUSE DEPLOYMENT OF ADDITIONAL JUNIPER DEVICES UNTIL FURTHER TESTING IS COMPLETED
+- 11/17 21:19 [financialjuice/DeItaone] Iran's IRGC warns Bahrain over ‘cooperation’ in US attacks - Fars
+- 11/17 21:25 [DeItaone] TRUMP: TRADE DEAL WITH THAILAND WILL BE WONDERFUL DEAL
+- 11/17 21:27 [DeItaone] TRUMP SAYS 'I DID THAT' ON SOLVING THAI-CAMBODIA CONFLICT
+- 11/17 21:27 [DeItaone] TRUMP: THAILAND WILL ELIMINATE ALL TARIFFS ON US EXPORTS AND REMOVE SUBSTANTIAL NON-TARIFF BARRIERS
