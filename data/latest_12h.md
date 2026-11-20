@@ -7,181 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-11-20 03:25 JST／対象: 11/19 15:25 〜 11/20 03:25 JST（時刻はすべて日本時間）
+生成: 2026-11-20 09:51 JST／対象: 11/19 21:51 〜 11/20 09:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 59 | 11/19 20:05 | 11/20 03:16 | 36分（21:20→21:57） |
-| FirstSquawk | 142 | 11/19 15:25 | 11/20 03:18 | ⚠ 60分（01:42→02:42） |
-| financialjuice | 173 | 11/19 15:26 | 11/20 03:11 | ⚠ 60分（20:01→21:01） |
+| DeItaone | 54 | 11/19 21:57 | 11/20 06:19 | ⚠ 67分（05:12→06:19） |
+| FirstSquawk | 173 | 11/19 21:52 | 11/20 09:44 | ⚠ 60分（01:42→02:42） |
+| financialjuice | 251 | 11/19 22:00 | 11/20 09:23 | 39分（07:44→08:23） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 364 行（統合前 377 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 471 行（統合前 482 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/19 15:25 [FirstSquawk] Takaichi: Conducted Meetings with Multiple Leaders, Including the Philippine and Thai Leaders.
-- 11/19 15:26 [FirstSquawk] Japan's Prime Minister Reiterates Commitment to Strengthening Ties with the US and South Korea.
-- 11/19 15:26 [financialjuice] Japan PM Takaichi: Briefly exchanged views with Putin's and Trump.
-- 11/19 15:27 [FirstSquawk] Japan's Prime Minister Briefly Discussed Key Issues with Trump.
-- 11/19 15:27 [FirstSquawk] Takaichi Says She Held a Short Exchange of Views with Russian President Putin.
-- 11/19 15:31 [FirstSquawk] Japan Aims to Partner with Allied Nations, Particularly the US, to Ensure Resilient Supply Chains, Takaichi Says.
-- 11/19 15:32 [FirstSquawk] Takaichi Says the Quad Displayed Firm Solidarity in Pursuing a Free and Open Indo-Pacific.
-- 11/19 15:34 [FirstSquawk] Japan to Remain in Close Contact with the US Amid Developments Surrounding the US-China-Russia Summit, Takaichi Says.
-- 11/19 15:35 [FirstSquawk] Talks Between China's Xi and US President Trump Come to an End, CCTV Says.
-- 11/19 15:36 [financialjuice] Xi, Trump meeting concluded - CCTV
-- 11/19 15:37 [FirstSquawk] Japan Has Been Engaging with China on Issues Surrounding Rare Earth Export Controls, Takaichi Says.
-- 11/19 15:37 [financialjuice] Japan PM Takaichi: Have been communicating with china on rare earth export controls.
-- 11/19 15:38 [FirstSquawk] Takaichi Says She and Putin Will Continue Direct Talks on Japanese Citizens Detained in Russia.
-- 11/19 15:38 [FirstSquawk] Takaichi Assures That Japan's Interests Will Remain Protected Despite the US-China-Russia Summit.
-- 11/19 15:43 [FirstSquawk] Two Russian Tu-95 Aircraft Detected in Taiwan's Southern Air Defence Identification Zone on Thursday Morning, Defence Ministry Says.
-- 11/19 15:43 [FirstSquawk] Taiwan Defence Ministry: Aircraft Completed Their Passage East of Taiwan and Exited Near Northeast Keelung.
-- 11/19 15:44 [FirstSquawk] Taiwan Defence Ministry Shares F-16 Photograph of One of the Russian Aircraft Detected Near the Island.
-- 11/19 15:46 [FirstSquawk] Tesla CEO Elon Musk to Visit the Company's Shanghai Plant During China Trip, According to Chinese Media.
-- 11/19 15:46 [FirstSquawk] Japan Must Bolster Its Defence Strength to Protect the Lives and Livelihoods of Its People, Takaichi Says.
-- 11/19 15:47 [FirstSquawk] Japan to Continue Clarifying Its National Security Stance to Other Countries, Takaichi Says.
-- 11/19 15:48 [FirstSquawk] Takaichi Reaffirms Japan's Taiwan Position in Line with the 1972 Agreement with Beijing.
-- 11/19 15:48 [FirstSquawk] Takaichi: Japan's Policy Regarding Taiwan Remains Consistent with Its Previous Position.
-- 11/19 15:48 [FirstSquawk] Kursk Region Governor Reports Ukrainian Drone Attack on the City of Kursk.
-- 11/19 15:51 [FirstSquawk] Morgan Stanley Cuts 3i Group's Price Target to 3,014p from 3,390p.
-- 11/19 16:05 [financialjuice] SWISS TRADE BALANCE ACTUAL 4,089M (FORECAST -, PREVIOUS 1,309M) $MACRO
-- 11/19 16:33 [financialjuice] ECB's Moulin: Inflation is still too high.
-- 11/19 16:33 [financialjuice] ECB's Moulin: Oil is still fueling inflation.
-- 11/19 16:34 [FirstSquawk] MOULIN SAYS INFLATION IS STILL TOO HIGH
-- 11/19 16:34 [FirstSquawk] MOULIN SAYS OIL IS STILL FUELING INFLATION
-- 11/19 16:39 [FirstSquawk] KUSHNER SAYS HEADING TO BERLIN TO CONSULT WITH ZELENSKYY, EU LEADERS
-- 11/19 16:40 [financialjuice] US Envoy Kushner: Witkoff and I are heading to Berlin to consult with president Zelenskiy and European leaders at the coalition of the willing meeting.
-- 11/19 16:54 [financialjuice] ECB's Moulin: France can't ignore reality of high debt, deficit.
-- 11/19 16:54 [FirstSquawk] MOULIN SAYS FRENCH CAN'T IGNORE REALITY OF HIGH DEBT, DEFICIT
-- 11/19 16:56 [financialjuice/FirstSquawk] Putin departs for meeting with Xi and Trump at APEC - Ria
-- 11/19 16:58 [FirstSquawk] MOULIN SAYS CRITERIA FOR ECB TOOLS ON FRANCE ARE NOT MET FOR NOW
-- 11/19 17:06 [FirstSquawk] BRITAIN'S FTSE 100 UP 0.02%
-- 11/19 17:06 [FirstSquawk] FRANCE'S CAC 40 UP 0.63%; SPAIN'S IBEX UP 0.57%
-- 11/19 17:06 [FirstSquawk] GERMANY'S DAX UP 0.55%
-- 11/19 17:10 [FirstSquawk] GERMANY CONFIRMS AGREEMENT WITH UNICREDIT ON COMMERZBANK.
-- 11/19 17:14 [financialjuice] Xi: To continue the positive momentum of China-US relationship.
-- 11/19 17:14 [financialjuice/FirstSquawk] Xi calls for more cooperation, fewer disputes with US - Xinhua.
-- 11/19 17:15 [financialjuice] Xi, in meeting with Trump: China, US agree to formulate action plan for constructive strategic stable relationship.
-- 11/19 17:15 [financialjuice] Xi: US, China to cooperate to address AI safety risks.
-- 11/19 17:16 [financialjuice] Xi: To boost communication in trade, AI with US - Xinhua
-- 11/19 17:22 [FirstSquawk] XI SAYS TO CONTINUE THE POSITIVE MOMENTUM OF CHINA-US RELATIONSHIP
-- 11/19 17:22 [FirstSquawk] XI CALLS FOR ACTION TO IMPLEMENT LEADERS' CONSENSUS
-- 11/19 17:22 [FirstSquawk] XI SAYS US MUST DO THE RIGHT THING ON TAIWAN
-- 11/19 17:22 [FirstSquawk] XI SAYS AVOID MAJOR SETBACKS IN US-CHINA RELATIONS
-- 11/19 17:23 [FirstSquawk] XI SAYS TO AVOID DISRUPTIONS IN CHINA-US TIE: XINHUA
-- 11/19 17:23 [FirstSquawk] XI SAYS TO CONTINUE ECONOMIC, TRADE COMMUNICATION
-- 11/19 17:23 [FirstSquawk] CHINA, US SHOULD PREVENT SECURITY RISKS IN AI, XI SAYS
-- 11/19 17:23 [FirstSquawk] XI SAYS US, CHINA MUST KEEP AI UNDER HUMAN CONTROL
-- 11/19 17:23 [FirstSquawk] XI SAYS TO ADDRESS EACH OTHER’S CONCERNS, SEEK MUTUAL BENEFIT
-- 11/19 17:23 [FirstSquawk] XI SAYS CHINA, US EXCHANGE VIEW ON INTL, REGIONAL ISSUES
-- 11/19 17:23 [FirstSquawk] XI SAYS TO BOOST COMMUNICATION IN TRADE, AI WITH US: XINHUA
-- 11/19 17:23 [FirstSquawk] XI SAYS US, CHINA TEAMS MUST KEEP UP COMMUNICATION
-- 11/19 17:23 [FirstSquawk] XI URGES US TO AVOID MAJOR DISRUPTIONS OVER TAIWAN: XINHUA
-- 11/19 17:24 [FirstSquawk] XI SAYS TO EXPAND COOPERATION, NARROW LIST OF PROBLEMS; CHINA, US SHOULD PREVENT TENSIONS FROM ESCALATING
-- 11/19 17:27 [FirstSquawk] CHINA CALLS MEETING BETWEEN XI, TRUMP 'POSITIVE, CONSTRUCTIVE'
-- 11/19 17:36 [financialjuice] Putin: We should discuss global and regional ties, as well as energy security - IFX.
-- 11/19 17:37 [financialjuice] Trump: We've already discussed a lot.
-- 11/19 17:38 [financialjuice] Trump: We're positioned to discuss reducing nuclear weapons.
-- 11/19 17:38 [financialjuice] Trump: It's very hard to give nuclear weapons up.
-- 11/19 17:43 [FirstSquawk] XI, TO TRUMP, PUTIN: WE SHOULD LEARN FROM HISTORY, MAJOR COUNTRIES HAVE SHARED RESPONSIBILITY - POOL REPORT
-- 11/19 17:43 [FirstSquawk] RIKSBANK THEDEEN SAYS SWEDISH ECONOMY PERFORMING INCREASINGLY WELL
-- 11/19 17:43 [FirstSquawk] XI, IN XI-PUTIN-TRUMP MEETING: THE WORLD IS PEACEFUL WHEN MAJOR COUNTRIES ARE IN HARMONY- CHINESE STATE MEDIA
-- 11/19 17:43 [FirstSquawk] PUTIN TELLS XI, TRUMP, VIA TRANSLATOR: OUR THREE STATES HAVE JOINT RESPONSIBILITY IN MAINTAINING PEACE AND SECURITY
-- 11/19 17:43 [FirstSquawk] XI, IN XI-PUTIN-TRUMP MEETING: WORLD WILL BE IN CHAOS IF MAJOR COUNTRIES FIGHT- CHINESE STATE MEDIA
-- 11/19 17:43 [FirstSquawk] PUTIN SAYS WE SHOULD DISCUSS GLOBAL AND REGIONAL TIES, AS WELL AS ENERGY SECURITY - IFX
-- 11/19 17:44 [FirstSquawk] XI, IN XI-PUTIN-TRUMP MEETING: THREE COUNTRIES SHOULD JOINTLY SAFEGUARD WORLD PEACE, STABILITY - CHINESE STATE MEDIA
-- 11/19 17:44 [FirstSquawk] PUTIN SAYS RUSSIA, CHINA, AND THE UNITED STATES CAN CONTRIBUTE TO STRENGTHENING GLOBAL STABILITY IF THEY COOPERATE CONSTRUCTIVELY - IFX
-- 11/19 17:44 [FirstSquawk] TRUMP, IN MEETING WITH XI AND PUTIN: NO PEACE EVER FORGED BY DECLINING OPPORTUNITIES
-- 11/19 17:44 [FirstSquawk] TRUMP, IN MEETING WITH XI AND PUTIN: THE INTERNATIONAL CRIMINAL COURT 'OUT OF CONTROL'
-- 11/19 17:44 [FirstSquawk] US S&P 500 E-MINI FUTURES UP 1.15%, NASDAQ 100 FUTURES UP 2%, DOW FUTURES UP 0.75%
-- 11/19 17:47 [FirstSquawk] TRUMP, IN MEETING WITH XI AND PUTIN: THREE COUNTRIES ARE 'UNIQUELY POSITIONED' TO DISCUSS NUCLEAR WEAPONS
-- 11/19 17:59 [financialjuice] Tiktok to attend US House committee roundtable December 15 - Information
-- 11/19 18:00 [financialjuice] EUROZONE CURRENT ACCOUNT ACTUAL 12.474B (FORECAST -, PREVIOUS 8.709B) $MACRO
-- 11/19 18:01 [financialjuice] ECB: 96% of supervised banks received medium-high risk scores on operational and IT risk.
-- 11/19 18:01 [financialjuice] EUROZONE CURRENT ACCOUNT NSA ACTUAL 27.50B (FORECAST -, PREVIOUS 7.70B) $MACRO
-- 11/19 18:02 [FirstSquawk] LME ZINC INVENTORY FALLS 575 TONS TO 146,200 TONS
-- 11/19 18:02 [FirstSquawk] LME ALUMINUM INVENTORY FALLS 1,725 TONS TO 224,425 TONS
-- 11/19 18:02 [FirstSquawk] LME COPPER INVENTORY RISES 125 TONS TO 327,525 TONS
-- 11/19 18:02 [FirstSquawk] LME NICKEL INVENTORY RISES 1,002 TONS TO 275,118 TONS
-- 11/19 18:03 [financialjuice] Xi: Nuclear war cannot be won and must never be fought.
-- 11/19 18:04 [financialjuice] Xi, to Putin, Trump: nuclear weapons should be comprehensively banned and thoroughly destroyed, building nuclear-free world - Xinhua.
-- 11/19 18:07 [financialjuice] Xi: China, US, Russia should set up crisis prevention mechanism.
-- 11/19 18:07 [financialjuice] Xi: China, US, Russia should be partners, friends.
-- 11/19 18:09 [FirstSquawk] XI, TO PUTIN, TRUMP: MAJOR COUNTRIES SHOULD RESPECT EACH OTHER, CO-EXIST PEACEFULLY - XINHUA
-- 11/19 18:09 [FirstSquawk] XI, TO PUTIN, TRUMP: THREE COUNTRIES SHOULD BE PARTNER, FRIENDS: XINHUA
-- 11/19 18:09 [FirstSquawk] XI SAYS UPHOLD NON-INTERFERENCE IN OTHER COUNTRIES’ INTERNAL AFFAIRS
-- 11/19 18:09 [FirstSquawk] XI SAYS CHINA, US, RUSSIA SHOULD SET UP CRISIS PREVENTION MECHANISM
-- 11/19 18:29 [FirstSquawk] SAUDI ARABIA ISSUES WARNING OF POTENTIAL DANGER IN ABHA.
-- 11/19 18:30 [FirstSquawk] SAUDI ARABIA ISSUES WARNING OF DANGER IN KHAMIS MUSHAIT.
-- 11/19 18:37 [FirstSquawk] SAUDI ARABIA SAYS DANGER HAS PASSED IN ABHA
-- 11/19 18:38 [FirstSquawk] SAUDI ARABIA: DANGER HAS PASSED IN KHAMIS MUSHAIT
-- 11/19 18:45 [FirstSquawk] MOULIN SAYS DON'T SEE SECOND-ROUND EFFECTS YET.
-- 11/19 18:47 [FirstSquawk] SAUDI ARABIA ISSUES WARNING OF POTENTIAL DANGER IN NAJRAN.
-- 11/19 18:50 [FirstSquawk] SAUDI ARABIA SAYS DANGER HAS PASSED IN NAJRAN
-- 11/19 18:59 [financialjuice] FRENCH 8 YR OAT YIELD ACTUAL 4.67% (FORECAST -, PREVIOUS 3.88%) $MACRO
-- 11/19 18:59 [financialjuice] FRENCH 5 YR OAT BID-TO-COVER ACTUAL 2.819 (FORECAST -, PREVIOUS 2.3) $MACRO
-- 11/19 18:59 [financialjuice] FRENCH 5 YR OAT YIELD ACTUAL 4.26% (FORECAST -, PREVIOUS 4.16%) $MACRO
-- 11/19 18:59 [financialjuice] FRENCH 8 YR BID-TO-COVER ACTUAL 3.053 (FORECAST -, PREVIOUS 2.69) $MACRO
-- 11/19 18:59 [FirstSquawk] IRAN'S IRGC SAYS 2 TANKERS HIT MINE IN EASTERN HORMUZ- FARS
-- 11/19 18:59 [financialjuice] Iran: 2 tankers hit mine in Eastern Hormuz - Fars
-- 11/19 19:00 [financialjuice] FRENCH 4 YR OAT YIELD ACTUAL 4.09% (FORECAST -, PREVIOUS 4.01%) $MACRO
-- 11/19 19:00 [financialjuice] FRENCH 4 YR OAT BID-TO-COVER ACTUAL 2.83 (FORECAST -, PREVIOUS 2.32) $MACRO
-- 11/19 19:00 [financialjuice] EUROZONE CONSTRUCTION OUTPUT MOM ACTUAL 0.1% (FORECAST -, PREVIOUS 1.85%) $MACRO
-- 11/19 19:02 [financialjuice] Moonshot AI ends $150m Indonesia NVIDIA chips deal - Information
-- 11/19 19:22 [financialjuice] ECB's Nagel: I am confident ECB will reach 2% inflation target.
-- 11/19 19:22 [FirstSquawk] TSMC, SAMSUNG SUSPEND SOME SHIPMENTS TO CHINESE CUSTOMERS AMID US RULE - FT
-- 11/19 19:23 [financialjuice] TSMC, Samsung suspend some chip shipment to Chinese customers - FT.
-- 11/19 19:23 [financialjuice] ECB's Nagel: I don't see a wage-price spiral.
-- 11/19 19:24 [financialjuice] TSMC, Samsung halt as applying for US commerce dept licences - FT
-- 11/19 19:24 [financialjuice] ECB's Nagel: An ECB rate hike would send clear signal.
-- 11/19 19:25 [financialjuice] TSMC and Samsung suspend some chip shipments to Chinese customers - FT
-- 11/19 19:25 [FirstSquawk] ECB NAGEL: ECB MAY NEED TO ADJUST RATES FURTHER AFTER ITS TWO HIKES
-- 11/19 19:29 [FirstSquawk] MEXICO PRESIDENT SHEINBAUM: MEETING WITH TRUMP VERY GOOD
-- 11/19 19:37 [financialjuice/FirstSquawk] Russia, US, China leaders joint statement due within hour - IFX
-- 11/19 19:43 [FirstSquawk] ITALY INDUSTRY MINISTER WINS EU COMMISSION APPROVAL TO SET UP FIRST EU CRITICAL RAW MATERIALS STORAGE HUB AT PORTO MARGHERA
-- 11/19 19:51 [FirstSquawk] CHINA-US-RUSSIA 'PEACE DECLARATION': THREE COUNTRIES PLAN TO INCREASE THE PRODUCTION AND SUPPLY OF REFINED PETROLEUM PRODUCTS -CHINESE STATE MEDIA
-- 11/19 19:53 [FirstSquawk] CHINA-US-RUSSIA JOINT STATEMENT: LEADERS REITERATE THAT A NUCLEAR WAR CANNOT BE WON AND MUST NEVER BE FOUGHT - STATE MEDIA
-- 11/19 19:54 [financialjuice] Trump departs Shenzhen after trilateral meeting with Xi, Putin.
-- 11/19 20:00 [financialjuice] Bundesbank: German economic growth to quicken in fourth quarter.
-- 11/19 20:01 [financialjuice] Bundesbank: Higher rates to weigh on investment, construction.
-- 11/19 20:05 [DeItaone] HACKERS ACCESSED FINANCIAL INFORMATION OF AS MANY AS 4,000 RETIRED NEW YORK CITY GOVT WORKERS THIS FALL - POLITICO
-- 11/19 20:14 [FirstSquawk] IRAN APPEARS TO BE PREPARING TO RESUME OIL SHIPMENTS, TANKERTRACKERS SAYS
-- 11/19 20:23 [FirstSquawk] CHINA-US-RUSSIA TRILATERAL MEETING DISCUSSED UKRAINE, IRAN, KOREAN PENINSULA, NUCLEAR PROLIFERATION -CHINESE STATE MEDIA
-- 11/19 20:35 [FirstSquawk] PDD Q3 2026 EARNINGS - REV: 108.3B YUAN (EST 115.21B YUAN) - ADJ OPERATING PROFIT: 32.64B YUAN (EST 27.85B YUAN) - ADJ EARNINGS PER ADS: 21.04 YUAN (EST 18.54 YUAN) - TRANSACTION SERVICES REV: 48.52B YUAN (EST 58.86B YUAN) - ONLINE MARKETIN…
-- 11/19 20:35 [DeItaone] $ANT - WALL STREET TURNS BULLISH ON ANTHROPIC WITH PRICE TARGETS UP TO $155 Four Wall Street firms initiated bullish coverage following Anthropic's $83-per-share IPO pricing, projecting substantial upside. 🔸 Citizens: Market Outperform — $1…
-- 11/19 20:36 [DeItaone] JPMORGAN SEES THREE MORE FED RATE HIKES AS U.S. GROWTH AND AI SPENDING MODERATE IN 2027 JPMorgan forecasts 1.9% U.S. GDP growth in 2027 on a fourth-quarter-over-fourth-quarter basis. The bank expects the AI investment cycle to mature, with …
-- 11/19 20:38 [DeItaone/FirstSquawk] OUTLOOK 2027: JP MORGAN SEES TWO FED RATE CUTS OF 25 BPS EACH IN 2028
-- 11/19 20:40 [DeItaone] *US MULLS RAMPING UP DIESEL, OIL EXPORTS TO EUROPE: WRIGHT
-- 11/19 20:48 [DeItaone] https://t.co/aDAJdtEH4S
-- 11/19 20:53 [DeItaone] RUSSIA'S PUTIN: SAYS HE WOULD LIKE TO SEE TRILATERAL MEETINGS WITH LEADERS OF CHINA AND THE US CONTINUE - RIA
-- 11/19 20:53 [DeItaone] RUSSIA'S PUTIN: TRILATERAL SUMMIT BETWEEN RUSSIA, CHINA AND THE USA – A CHAPTER IN THE HISTORY OF DIPLOMACY - IFX
-- 11/19 20:55 [FirstSquawk] ITALY'S INTERIOR MINISTER: THERE IS CURRENTLY NO EMERGENCY THAT POSES A CONCRETE THREAT TO NATIONAL SECURITY
-- 11/19 20:55 [FirstSquawk] PUTIN SAYS SPOKE WITH TRUMP, XI ON FREEDOM OF NAVIGATION: IFX
-- 11/19 20:57 [DeItaone] RUSSIA'S PUTIN: I HAVE NO DOUBT THAT TRUMP IS GENUINELY COMMITTED TO RESOLVING THE UKRAINIAN CONFLICT AND IMPROVING RELATIONS WITH RUSSIA - IFX
-- 11/19 20:57 [FirstSquawk] PUTIN SAYS HE WANTS BETTER US-RUSSIA TIES, EYES PROGRESS: IFX
-- 11/19 21:00 [FirstSquawk] WALMART SEES FY ADJ EPS $2.84 TO $2.89, SAW $2.80 TO $2.87
-- 11/19 21:01 [DeItaone] $WMT - Q3: EPS & REVENUE BEAT, FY27 GUIDANCE RAISED Results 🔸 Adj. EPS: $0.65 vs. $0.64 est. (+1.6% beat). 🔸 Revenue: $188.84B vs. $187.27B est. (+0.8% beat). 🔸 Walmart U.S. Comp Sales ex. Fuel: +2.9% vs. +2.93% est. (slight miss). 🔸 Health…
-- 11/19 21:01 [financialjuice] $WMT Walmart Q3 Earnings Adj. EPS $0.65, est. $0.64 Rev. $188.84B, est. $187.17B Walmart US comp sales ex-gas +2.9% Sam's Club US comp sales ex-gas +4.9%, est. +4.63% Sees FY net sales growth at constant FX of +4.9% to +5.2% Sees FY Adj. EP…
-- 11/19 21:03 [DeItaone] DEUTSCHE BANK EXPECTS U.S. DOLLAR TO REMAIN ELEVATED THROUGH 2027 Deutsche Bank expects the dollar to strengthen into the first half of 2027, followed by only modest weakness later in the year. Strategist George Saravelos says the AI invest…
-- 11/19 21:05 [FirstSquawk] Walmart Q3 2026 Earnings - Adj EPS: 65c (est 64c) - Rev: $188.84B (est $187.17B) - Walmart-Only US Stores Comp Sales Ex-Gas: +2.9% - Sam's Club US Comp Sales Ex-Gas: +4.9% (est +4.63%) - Sees FY Adjusted EPS: $2.84 To $2.89 (Saw $2.80 To $2…
-- 11/19 21:05 [DeItaone] AMAZON: IF NEW YORK CITY COUNCIL'S LEGISLATION PASSES, WE'D NO LONGER BE ABLE TO WORK WITH THEM AMAZON: NYC COUNCIL COULD ADD UP TO $5 PER ORDER - WEBSITE
-- 11/19 21:06 [DeItaone] PUTIN: UKRAINE AND EUROPE ARE NOT YET READY TO MAKE COMPROMISES TO RESOLVE THE CONFLICT - RIA
-- 11/19 21:07 [FirstSquawk] ANTHROPIC IPO TO BE RELEASED FOR QUOTATION AT 9:50AM ET
-- 11/19 21:08 [financialjuice] Putin: EU, Ukraine not ready for compromise yet - IFX
-- 11/19 21:09 [DeItaone] $ANT - ANTHROPIC IPO TO BE RELEASED FOR QUOTATION AT 9:50AM ET
-- 11/19 21:13 [DeItaone] $ANT - ANTHROPIC IPO SET TO BEGIN NASDAQ TRADING AT APPROXIMATELY 10:00 A.M. ET Nasdaq has issued an IPO notice confirming that Anthropic shares are scheduled to be released for quotation at 9:50 a.m. ET, with trading eligibility beginning …
-- 11/19 21:17 [DeItaone] PUTIN: WE WILL RETALIATE AGAINST ATTACKS ON CRIMEAN BRIDGE - IFX PUTIN: OUR RETALIATORY ACTIONS WILL BE MUCH MORE PAINFUL - IFX
-- 11/19 21:20 [DeItaone] *PUTIN SAYS BRIDGE STRIKE ENDED TALK OF PARTIAL CEASEFIRE: TASS
-- 11/19 21:27 [FirstSquawk] PUTIN SAYS NEW EUROPEAN SECURITY SYSTEM IS ACHIEVABLE: IFX
-- 11/19 21:30 [financialjuice] White House asked pentagon for Iran scenarios assessments - Axios.
-- 11/19 21:32 [FirstSquawk] ALIBABA: EXPECTS 30-45% CLOUD REVENUE GROWTH NEXT YR
-- 11/19 21:33 [FirstSquawk] PUTIN SAYS RUSSIA READY TO CONTINUE UKRAINE TALKS: IFX
-- 11/19 21:44 [financialjuice] CANADIAN BUSINESS BAROMETER ACTUAL 57.33 (FORECAST -, PREVIOUS 50.00) $MACRO
-- 11/19 21:46 [FirstSquawk] RUSSIA PRES PUTIN: RUSSIA IS READY TO EXPAND COOPERATION WITH CHINA ON NORTHERN SEA ROUTE
 - 11/19 21:52 [FirstSquawk] ALIBABA EXEC: PERIOD 2027-2028 WILL BE THE PERIOD IN WHICH COMPUTE SUPPLY IS AT ITS SCARCEST IN CHINA'S DOMESTIC MARKET
 - 11/19 21:57 [FirstSquawk] PUTIN REITERATES FOREIGN TROOPS IN UKRAINE UNACCEPTABLE: TASS
 - 11/19 21:57 [DeItaone] PUTIN REJECTS FOREIGN TROOPS IN UKRAINE, WARNS EU IS BECOMING A MILITARY BLOC Russian President Vladimir Putin declared that the deployment of any foreign troops into Ukraine is unacceptable, according to TASS. Putin warned that the Europea…
@@ -388,3 +230,268 @@
 - 11/20 03:12 [FirstSquawk] FED'S GOOLSBEE SAYS THE CENTRAL BANK IS STILL SEEKING EVIDENCE THAT AI-DRIVEN PRODUCTIVITY GAINS ARE SPREADING BEYOND THE TECH SECTOR
 - 11/20 03:16 [DeItaone] *ANTHROPIC SHARES FALL 16% BELOW OPENING TRADE
 - 11/20 03:18 [FirstSquawk] SEVEN COUNTERPARTIES TOOK $405 MILLION AT THE FED'S REVERSE REPO FACILITY, UP FROM $331 MILLION PREVIOUSLY ACROSS SEVEN BIDS
+- 11/20 03:28 [DeItaone] TRUMP SAYS HE IS NOT RUSHING INTO ANY DECISION ON IRAN; SAYS WILL SEE WHAT HAPPENS AFTER THE BEGINNING OF THE YEAR -AXIOS
+- 11/20 03:33 [DeItaone] NETFLIX, AMAZON, YOUTUBE AND FOX ARE AMONG THOSE PLANNING TO SUBMIT AN OFFER FOR U.S. WORLD CUP MEDIA RIGHTS - CNBC
+- 11/20 03:39 [financialjuice] US Secretary of State Rubio is weighing a 2028 run more seriously - CNN citing Allies.
+- 11/20 03:40 [DeItaone] *RUBIO IS WEIGHING A 2028 RUN MORE SERIOUSLY, ALLIES SAY: CNN
+- 11/20 03:42 [DeItaone] GERMANY, FRANCE, UK AND UKRAINE DEMAND WINTER ENERGY CEASEFIRE FROM RUSSIA Germany, France, the United Kingdom and Ukraine issued a joint statement reaffirming their unwavering support for Kyiv. The leaders announced plans to increase missi…
+- 11/20 03:46 [FirstSquawk] CNN, CITING ALLIES, REPORTS SECRETARY OF STATE RUBIO IS WEIGHING A 2028 PRESIDENTIAL RUN MORE SERIOUSLY
+- 11/20 03:46 [FirstSquawk] LEADERS OF GERMANY, FRANCE, UK AND UKRAINE URGE RUSSIA TO AGREE TO WINTER ENERGY CEASEFIRE, IN JOINT STATEMENT
+- 11/20 03:47 [financialjuice] Iran claims tanker hit mine, caught fire in eastern Hormuz - Mehr.
+- 11/20 03:48 [financialjuice] Nscale's ByteDance deal faces scrutiny under US chip curbs.
+- 11/20 03:50 [FirstSquawk] IRAN SAYS A TANKER STRUCK A MINE AND CAUGHT FIRE IN EASTERN HORMUZ
+- 11/20 03:50 [FirstSquawk] NSCALE'S DEAL WITH BYTEDANCE COMES UNDER SCRUTINY OVER US CHIP CURBS
+- 11/20 04:08 [financialjuice] Canada seeks interim US trade arrangement by end of year - CBC.
+- 11/20 04:10 [financialjuice] BoE’s Greene: Duty to anchor elevated inflation expectations.
+- 11/20 04:11 [financialjuice] Canada seeks interim deal covering section 232 tariffs - CBC
+- 11/20 04:12 [financialjuice] BoE's Greene: People notice when inflation is above 3%
+- 11/20 04:13 [financialjuice] BoE's Greene: need to 'anchor' expectations at 2% target
+- 11/20 04:13 [financialjuice] Meta bets on $300 Muse charm to boost AI hardware business - The Information. $META
+- 11/20 04:15 [financialjuice] Meta has pushed back the wider release of its smartwatch to 2027 - the Information. $META
+- 11/20 04:16 [financialjuice] Meta aims to sell 10 million wearable devices in the second half of 2026 as it expands its AI hardware lineup- The Information. $META
+- 11/20 04:16 [financialjuice] BoE’s Greene: Question over how restrictive policy has been.
+- 11/20 04:17 [financialjuice] Taiwan Defence Ministry: 2 Russian TU-95 military aircraft entered taiwan's air defense identification zone) from the south of Taiwan Thursday morning.
+- 11/20 04:17 [financialjuice] Taiwan defence ministry: two Russian Tu-95 military planes entered Taiwan's air defense identification zone from south Thursday morning
+- 11/20 04:18 [financialjuice] Trump: Kim Jong Un meeting will happen at some point - NBC.
+- 11/20 04:18 [financialjuice] BoE’s Greene: Policy has not been as restrictive as thought.
+- 11/20 04:19 [financialjuice] BoE’s Greene cites above-target inflation and resilient economy.
+- 11/20 04:20 [financialjuice] Trump on North Korea's Kim Jong Un: The relationship is there, but we didn't meet during Asia trip because there was too many meetings - NBC News.
+- 11/20 04:21 [financialjuice] Fed's Barr: AI could boost access to financial services
+- 11/20 04:21 [financialjuice] BoE’s Greene: labor data indicates slowdown in disinflation
+- 11/20 04:22 [financialjuice] BoE’s Greene: Labor market not as weak as we thought.
+- 11/20 04:22 [financialjuice] Trump: Putin meeting was primarily on Ukraine - NBC
+- 11/20 04:23 [financialjuice] Fed's Barr: AI must comply with financial sector rules
+- 11/20 04:24 [FirstSquawk] CANADA HOPES TO REACH AN INTERIM US TARIFF ARRANGEMENT BY YEAR-END, SOURCES TELL CBC
+- 11/20 04:25 [financialjuice] BoE's Greene: second-round effects will likely occur
+- 11/20 04:25 [FirstSquawk] META WAGERS ON $300 MUSE CHARM TO LIFT AI HARDWARE BUSINESS
+- 11/20 04:26 [financialjuice] Fed's Barr: AI may increase risk of faster bank runs
+- 11/20 04:26 [FirstSquawk] TWO RUSSIAN TU-95 MILITARY AIRCRAFT ENTERED TAIWAN'S AIR DEFENSE IDENTIFICATION ZONE FROM THE SOUTH THURSDAY MORNING, TAIWAN'S DEFENCE MINISTRY SAYS
+- 11/20 04:27 [FirstSquawk] TAIWAN'S DEFENCE MINISTRY SAYS TWO RUSSIAN TU-95 MILITARY PLANES ENTERED ITS AIR DEFENSE IDENTIFICATION ZONE FROM THE SOUTH THURSDAY MORNING
+- 11/20 04:27 [financialjuice] BoE’s Greene: We need to shore up credibiity on inflation
+- 11/20 04:27 [FirstSquawk] TRUMP SAYS A MEETING WITH KIM JONG UN WILL TAKE PLACE AT SOME POINT
+- 11/20 04:27 [FirstSquawk] TRUMP SAYS RELATIONSHIP WITH NORTH KOREA'S KIM JONG UN IS INTACT, BUT THE TWO DID NOT MEET ON ASIA TRIP DUE TO SCHEDULING
+- 11/20 04:28 [financialjuice] Mast reveals Nvidia and AMD AI chip licenses for China - statement. $NVDA $AMD
+- 11/20 04:28 [FirstSquawk] P&G AIMS FOR $10 BILLION IN PRODUCTIVITY SAVINGS BY FISCAL 2030, PLAN ASSUMES ROUGHLY FLAT HEADCOUNT AND MEDIA SPEND
+- 11/20 04:28 [FirstSquawk] TRUMP SAYS HIS MEETING WITH PUTIN WAS MAINLY ABOUT UKRAINE
+- 11/20 04:28 [financialjuice] Mast moves to disclose Nvidia China export control license details
+- 11/20 04:29 [financialjuice] BoE’s Greene: We need to shore up credibility on inflation
+- 11/20 04:29 [financialjuice] China ai chip license requests reach 3.4 million units: Mast statement
+- 11/20 04:29 [FirstSquawk] FED’S BARR SAYS AI COULD BOOST ACCESS TO FINANCIAL SERVICES BUT MUST COMPLY WITH FINANCIAL SECTOR RULES, ADDING THAT AI MAY INCREASE THE RISK OF FASTER BANK RUNS - FED’S BARR
+- 11/20 04:30 [FirstSquawk] MAST SAYS NVIDIA AND AMD AI CHIP LICENSES FOR CHINA REVEALED; MOVING TO DISCLOSE NVIDIA CHINA EXPORT CONTROL LICENSE DETAILS, WITH CHINA AI CHIP LICENSE REQUESTS AT 3.4 MLN UNITS
+- 11/20 04:31 [financialjuice] NYMEX WTI crude futures settle at $83.21 a barrel, down 5 cents, 0.06%
+- 11/20 04:31 [financialjuice] NYMEX diesel Dec. futures settle at $3.9514 a gallon
+- 11/20 04:31 [financialjuice] NYMEX gasoline Dec. futures settle at $2.4951 a gallon
+- 11/20 04:31 [FirstSquawk] US CRUDE OIL FUTURES SETTLE AT $83.21 A BARREL, DOWN 5 CENTS OR 0.06%
+- 11/20 04:31 [financialjuice] NYMEX Nat Gas Dec. futures settle at $3.2680/MMBtu
+- 11/20 04:32 [financialjuice] Honeywell and GE Aerospace cited in House China Panel report. $GE
+- 11/20 04:33 [financialjuice] Fed's Barr: disclosed differences over banking oversight
+- 11/20 04:33 [financialjuice] Fed's Barr: more focused on long-term challenges with bank rules
+- 11/20 04:34 [financialjuice] Fed's Barr: I'm worried path of regulation could make it harder to understand financial risks.
+- 11/20 04:36 [financialjuice] Fed's Barr: AI surge part of risk-on climate
+- 11/20 04:36 [financialjuice] Barr: easing regulations in a risk-on environment can cause problems
+- 11/20 04:37 [FirstSquawk] FED'S BARR SAYS HE IS MORE FOCUSED ON LONG-TERM CHALLENGES FACING BANK RULES
+- 11/20 04:37 [DeItaone] TRUMP SAYS PUTIN WANTS TO MAKE A DEAL, AND HOPEFULLY ZELENSKIY DOES TOO -FOX NEWS
+- 11/20 04:37 [financialjuice] Meeks calls for hearings on BIS chip licenses to China.
+- 11/20 04:37 [FirstSquawk] FED'S BARR SAYS HE IS WORRIED REGULATORY PATH COULD MAKE FINANCIAL RISKS HARDER TO UNDERSTAND
+- 11/20 04:37 [FirstSquawk] FED'S BARR SAYS AI SURGE IS PART OF A RISK-ON MARKET CLIMATE
+- 11/20 04:37 [financialjuice] Fed's Barr: Fed is not trying to target a level of investment in economy.
+- 11/20 04:37 [DeItaone] TRUMP DID NOT TALK TOO MUCH ABOUT NVIDIA OR THE CHINESE SPY WITH CHINESE PRESIDENT XI -FOX NEWS
+- 11/20 04:38 [FirstSquawk] BARR WARNS EASING RULES IN A RISK-ON ENVIRONMENT CAN CAUSE PROBLEMS, SAYS FED NOT AIMING FOR SET INVESTMENT LEVEL
+- 11/20 04:38 [financialjuice] Fed's Barr: Central bank is not seeking to target a specific level of investment in economy
+- 11/20 04:38 [financialjuice] Fed's Barr: financial conditions remain accommodative, supporting economy
+- 11/20 04:38 [financialjuice] Trump did not discuss Nvidia or Chinese spy with President Xi: Fox News
+- 11/20 04:38 [financialjuice] Fed's Barr: Inflation remains excessively high
+- 11/20 04:38 [financialjuice] Fed's Barr: monetary policy adjustments are still necessary
+- 11/20 04:39 [financialjuice] Trump: Chinese President Xi and I are going to work together on reasonable regulations for AI - Fox News
+- 11/20 04:40 [financialjuice] Trump: Xi and I both want AI regulations and moderate regulations for safety purposes - Fox News.
+- 11/20 04:41 [financialjuice] Meeks urges Lutnick, Kessler to testify in public hearings
+- 11/20 04:41 [FirstSquawk] TRUMP SAYS PUTIN WANTS TO MAKE A DEAL AND THAT HOPEFULLY ZELENSKIY DOES TOO, ADDING THAT HE DID NOT TALK TOO MUCH ABOUT NVIDIA OR THE CHINESE SPY WITH CHINESE PRESIDENT XI - FOX NEWS
+- 11/20 04:41 [FirstSquawk] TRUMP SAYS HE AND CHINESE PRESIDENT XI ARE GOING TO WORK TOGETHER ON REASONABLE REGULATIONS FOR AI, AND THAT THEY BOTH WANT MODERATE REGULATIONS FOR SAFETY PURPOSES - FOX NEWS
+- 11/20 04:41 [financialjuice] House Foreign Affairs Committee: Commerce Dept had 3.4 million applications by May 2026 for advanced chip sales to Chinese firms - statement
+- 11/20 04:42 [FirstSquawk] COMMERCE DEPARTMENT RECEIVED 3.4 MILLION APPLICATIONS BY MAY 2026 FOR ADVANCED CHIP SALES TO CHINESE FIRMS, HOUSE FOREIGN AFFAIRS COMMITTEE SAYS
+- 11/20 04:42 [FirstSquawk] FONTERRA SAYS IT HAS RAISED ITS FY27 FORECAST FARMGATE MILK PRICE, INCREASING THE MIDPOINT OF ITS 2026/27 SEASON FORECAST AND NARROWING THE FORECAST RANGE, WITH THE RANGE LIFTING AND NARROWING TO NZD9.60 - NZD10.60 PER KGMS AND THE MIDPOINT…
+- 11/20 04:42 [DeItaone/financialjuice] MAJORITY OF US SENATE OBJECTS TO RESOLUTION CURBING TRUMP'S IRAN WAR POWERS, VOTING CONTINUES
+- 11/20 04:43 [financialjuice] Applications for advanced US chips received by Commerce included 948,950 for Alibaba, 150,000 for Tencent, 43,000 for Baidu and 4,000 for BYD - Committee. $BABA
+- 11/20 04:43 [FirstSquawk] MOST US SENATORS VOTE AGAINST RESOLUTION TO LIMIT TRUMP'S WAR POWERS ON IRAN AS VOTING CONTINUES
+- 11/20 04:43 [financialjuice] Brent Crude futures settle at $91.98/bbl, up 3 cents, 0.03%
+- 11/20 04:44 [FirstSquawk] BRENT CRUDE FUTURES SETTLE AT $91.98 A BARREL, UP 3 CENTS OR 0.03%
+- 11/20 04:44 [financialjuice] Trump to Fox News: Didn't discuss Alice Huang much with Xi
+- 11/20 04:44 [FirstSquawk] COMMERCE RECEIVED APPLICATIONS FOR ADVANCED US CHIPS FROM ALIBABA, TENCENT, BAIDU AND BYD, COMMITTEE SAYS
+- 11/20 04:44 [DeItaone] $NVDA - U.S. HOUSE REVEALS 3.4 MILLION CHIP EXPORT APPLICATIONS TO CHINA, INCLUDING 445,000 NVIDIA H200s The U.S. House Foreign Affairs Committee released new details on export-license applications for advanced American AI chips. As of May …
+- 11/20 04:45 [financialjuice] Nvidia also sought permission to ship 445,000 H200 advanced AI chips to Tencent in December 2025 - Committee. $NVDA
+- 11/20 04:45 [FirstSquawk] NVIDIA ALSO SOUGHT PERMISSION TO SHIP 445,000 H200 AI CHIPS TO TENCENT IN DECEMBER 2025, COMMITTEE SAYS
+- 11/20 04:45 [financialjuice] Commerce approved shipment of 879,868 advanced chips to Chinese firms as of May 2026 committee
+- 11/20 04:45 [FirstSquawk] TRUMP TELLS FOX NEWS HE DID NOT DISCUSS ALICE HUANG MUCH WITH XI, NVIDIA STOCK TICKER ATTACHED
+- 11/20 04:46 [FirstSquawk] FED'S BARR SAYS INFLATION HAS RUN TOO HIGH FOR SOME TIME AND FURTHER MONETARY POLICY ADJUSTMENTS ARE NEEDED TO BALANCE RISKS
+- 11/20 04:46 [financialjuice] Trump: Iran war came up with Putin and Xi; Putin and Xi want the Iran war to end - NBC Reporter on X
+- 11/20 04:46 [FirstSquawk] TRUMP SAYS IRAN WAR WAS RAISED WITH PUTIN AND XI, WHO HE SAYS BOTH WANT IT TO END
+- 11/20 04:48 [DeItaone] TRUMP SAYS XI AND PUTIN WANT IRAN WAR TO END, ARE PRESSURING TEHRAN President Donald Trump says China's Xi Jinping and Russia's Vladimir Putin want the war with Iran to end and are communicating that position directly to Tehran. Trump said …
+- 11/20 04:52 [FirstSquawk] COMMITTEE SAYS ALL LICENSES FOR ADVANCED NVIDIA AND AMD CHIP SHIPMENTS TO CHINA WERE RECEIVED FROM COMMERCE, AND THAT THE SHIPMENTS POSE A LOW RISK OF DIVERSION
+- 11/20 04:52 [financialjuice] Trump: I won't veto all AI guardrails if reasonable - Fox News
+- 11/20 04:56 [FirstSquawk] TRUMP SAYS HE WON'T VETO ALL AI GUARDRAILS IF THEY ARE REASONABLE
+- 11/20 05:00 [financialjuice] Israeli ambassador Leiter: You get US soldiers back to their families when Iran is defeated.
+- 11/20 05:03 [DeItaone] U.S. STOCKS EXTEND FALL, NASDAQ <.IXIC> DOWN 2.03 PCT
+- 11/20 05:05 [FirstSquawk] ISRAELI AMBASSADOR LEITER SAYS SOLDIERS WILL RETURN TO THEIR FAMILIES ONCE IRAN IS DEFEATED
+- 11/20 05:06 [financialjuice] Trump after talks with Xi and Putin: It is hard psychologically to give up nuclear weapons.
+- 11/20 05:06 [financialjuice] Trump: A deal limiting nuclear weapons will be hard to reach but I will keep working on it.
+- 11/20 05:12 [DeItaone] TRUMP TELLS REUTERS AFTER TALKS WITH XI AND PUTIN THAT IT IS HARD PSYCHOLOGICALLY TO GIVE UP NUCLEAR WEAPONS TRUMP TELLS REUTERS A DEAL LIMITING NUCLEAR WEAPONS WILL BE HARD TO REACH BUT HE WILL KEEP WORKING ON IT
+- 11/20 05:14 [FirstSquawk] AWS ROLLS OUT AI AGENTS ABLE TO PURCHASE SOFTWARE WITHIN GUARDRAILS SET BY COMPANIES
+- 11/20 05:14 [FirstSquawk] TRUMP SAYS IT IS PSYCHOLOGICALLY HARD TO GIVE UP NUCLEAR WEAPONS, AFTER TALKS WITH XI AND PUTIN
+- 11/20 05:14 [FirstSquawk] TRUMP SAYS A DEAL LIMITING NUCLEAR WEAPONS WILL BE HARD TO REACH, BUT HE WILL KEEP WORKING TOWARD ONE
+- 11/20 05:16 [FirstSquawk] NTSB CHAIR SAYS THE AGENCY HAS NOT RECEIVED A DRAFT AIR INDIA FINAL REPORT AND DOES NOT KNOW THE TIMELINE FOR THE AIR INDIA CONCLUSION
+- 11/20 05:17 [financialjuice] Nvidia and Microsoft to deploy Vera Rubin NVL72 on Azure. $NVDA $MSFT
+- 11/20 05:17 [FirstSquawk] EU COUNTRIES AND PARLIAMENT HAVE REACHED A DEAL ON A REVISION OF THE SUSTAINABLE FINANCE DISCLOSURE REGULATION, WITH CO-LEGISLATORS AGREEING THREE NEW CATEGORIES OF INVESTMENT PRODUCTS AND AGREEING THAT FOSSIL FUEL COMPANIES MAY BE INCLUDED…
+- 11/20 05:17 [financialjuice] NVIDIA and Microsoft expand accelerated computing from Azure to Windows PCs. $NVDA $MSFT
+- 11/20 05:18 [FirstSquawk] COUNCIL OF THE EU SAYS MEMBER STATES AND PARLIAMENT AGREE ON REVISED SUSTAINABLE FINANCE DISCLOSURE REGULATION
+- 11/20 05:18 [FirstSquawk] EU CO-LEGISLATORS REACH AGREEMENT ON THREE NEW INVESTMENT PRODUCT CATEGORIES, WITH FOSSIL FUEL FIRMS ALLOWED IN SOME ESG FUNDS, COUNCIL OF EU SAYS
+- 11/20 05:19 [FirstSquawk] MICROSOFT WILL DEPLOY NVIDIA'S VERA RUBIN NVL72 SYSTEMS ON AZURE
+- 11/20 05:19 [FirstSquawk] MICROSOFT AND NVIDIA WIDEN ACCELERATED COMPUTING PUSH, EXTENDING IT FROM AZURE CLOUD TO WINDOWS PCS
+- 11/20 05:22 [financialjuice] Friday FX Options Expiries
+- 11/20 05:30 [financialjuice] Fed's Goolsbee: What is happening with services inflation is important in understanding whether price pressures stem from demand or things like energy costs.
+- 11/20 05:30 [financialjuice] Fed's Goolsbee: Inflation has proven to be far more persistent than was thought in 2025, and data center demand and AI-related wealth impact are adding to it.
+- 11/20 05:31 [financialjuice] Fed's Goolsbee: The steepness of the interest-rate path will be rooted in whether ‘borderline disturbingly high' inflation is seen returning to the Fed's 2% target.
+- 11/20 05:31 [financialjuice] Fed's Goolsbee: I do not see at this point that inflation is on the path back to 2%; it is not just coming from oil and tariff shocks, but also from a sizable demand component.
+- 11/20 05:31 [financialjuice] Fed's Goolsbee: I am not concerned about wages pressuring inflation at this point.
+- 11/20 05:31 [financialjuice] Fed's Goolsbee: It has not been good news on inflation for the past few months.
+- 11/20 05:32 [financialjuice] Fed's Goolsbee: Anthropic's IPO raises the question of how stockholders will use that wealth; it could have a macroeconomic impact. $ANT
+- 11/20 05:32 [financialjuice] Fed's Goolsbee: Artificial intelligence is influencing today's economy through wealth impacts and investment
+- 11/20 05:32 [financialjuice] Fed's Goolsbee: There is widespread acknowledgment among businesses that costs are up, particularly among firms in construction or competing with data centers for components.
+- 11/20 05:32 [financialjuice] Fed's Goolsbee: More openness about monetary policy has been productive for the Fed and the world.
+- 11/20 05:32 [financialjuice] Fed's Goolsbee: Not sure if fallout from US midterm elections will include a slowdown in data-center buildout or have a lasting impact on equity prices.
+- 11/20 05:32 [financialjuice] Fed's Goolsbee: Consumer spending has been pretty broad-based, financed mostly out of income growth.
+- 11/20 05:32 [financialjuice] Fed's Goolsbee: There is a high risk that the economy's capacity cannot handle the current 'pig-through-the-python' level of business investment without overheating
+- 11/20 05:33 [financialjuice] Fed's Goolsbee: It is not clear how the financial sector would be impacted if there is a major correction in equities related to AI.
+- 11/20 05:35 [financialjuice] Iran Foreign Ministry Spokesman on X: US accusations about Tehran developing chemical and biological weapons are intended to create fear and justify military action.
+- 11/20 05:45 [FirstSquawk] GOOLSBEE SAYS INFLATION HAS PROVEN FAR MORE PERSISTENT THAN EXPECTED IN 2025, WITH DATA CENTER DEMAND AND AI-RELATED WEALTH EFFECTS ADDING TO IT
+- 11/20 05:46 [FirstSquawk] ANTHROPIC IPO PROMPTS QUESTIONS ON HOW SHAREHOLDERS WILL SPEND THEIR WEALTH AND COULD CARRY MACROECONOMIC IMPACT, FED'S GOOLSBEE SAYS
+- 11/20 05:48 [FirstSquawk] IRAN'S FOREIGN MINISTRY SPOKESMAN SAYS US CLAIMS TEHRAN IS DEVELOPING CHEMICAL AND BIOLOGICAL WEAPONS AIM TO STOKE FEAR AND JUSTIFY MILITARY ACTION
+- 11/20 05:49 [FirstSquawk] FED'S GOOLSBEE SAYS IT HAS NOT BEEN GOOD NEWS ON INFLATION FOR THE PAST FEW MONTHS AND THAT HE DOES NOT SEE INFLATION ON THE PATH BACK TO 2%, WITH PRICE PRESSURES COMING NOT JUST FROM OIL AND TARIFF SHOCKS BUT ALSO A SIZABLE DEMAND COMPONEN…
+- 11/20 05:49 [FirstSquawk] GOOLSBEE SAYS INFLATION HAS PROVEN FAR MORE PERSISTENT THAN WAS THOUGHT IN 2025, WITH DATA CENTER DEMAND AND AI-RELATED WEALTH IMPACTS ADDING TO IT, AND THAT THE STEEPNESS OF THE INTEREST-RATE PATH WILL BE ROOTED IN WHETHER "BORDERLINE DIST…
+- 11/20 05:49 [FirstSquawk] GOOLSBEE SAYS SERVICES INFLATION IS IMPORTANT IN UNDERSTANDING WHETHER PRESSURES STEM FROM DEMAND OR ENERGY COSTS, THAT HE IS NOT CONCERNED ABOUT WAGES PRESSURING INFLATION AT THIS POINT, AND THAT CONSUMER SPENDING HAS BEEN PRETTY BROAD-BAS…
+- 11/20 05:49 [FirstSquawk] GOOLSBEE SAYS THERE IS A HIGH RISK THE ECONOMY'S CAPACITY CANNOT HANDLE THE CURRENT "PIG-THROUGH-THE-PYTHON" LEVEL OF BUSINESS INVESTMENT WITHOUT OVERHEATING, WITH WIDESPREAD ACKNOWLEDGMENT AMONG BUSINESSES THAT COSTS ARE UP, PARTICULARLY A…
+- 11/20 05:49 [FirstSquawk] GOOLSBEE SAYS AI IS INFLUENCING TODAY'S ECONOMY THROUGH WEALTH IMPACTS AND INVESTMENT, AND THAT ANTHROPIC'S IPO RAISES THE QUESTION OF HOW STOCKHOLDERS WILL USE THAT WEALTH, WHICH COULD HAVE A MACROECONOMIC IMPACT
+- 11/20 05:49 [FirstSquawk] GOOLSBEE SAYS IT IS NOT CLEAR HOW THE FINANCIAL SECTOR WOULD BE IMPACTED BY A MAJOR AI-RELATED EQUITY CORRECTION, THAT HE IS NOT SURE IF US MIDTERM FALLOUT WILL SLOW THE DATA-CENTER BUILDOUT OR LASTINGLY HIT EQUITY PRICES, AND THAT MORE OPE…
+- 11/20 05:50 [FirstSquawk] SKY NETWORK TELEVISION GUIDES TO DIVIDEND OF AT LEAST 35 NZ CENTS PER SHARE FOR THE YEAR
+- 11/20 05:51 [FirstSquawk] SKY NETWORK TELEVISION KEEPS FY27 GUIDANCE UNCHANGED, WITH REVENUE OF NZ$825M TO NZ$840M AND EBITDA OF NZ$155M TO NZ$165M
+- 11/20 05:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 2805.6 MLN NASDAQ 100: 2044.8 MLN DOW 30: 710.5 MLN MAG 7: 503.6 MLN $MACRO
+- 11/20 05:52 [FirstSquawk] SKY NETWORK TELEVISION EXPECTS FY27 CAPITAL EXPENDITURE OF BETWEEN NZ$60 MILLION AND NZ$65 MILLION
+- 11/20 05:59 [financialjuice] US money-market fund assets fall to $7.976 trln at ICI.
+- 11/20 06:00 [financialjuice] S. KOREAN PPI YOY ACTUAL 7.2% (FORECAST -, PREVIOUS 7.7% ,REVISION 7.6%) $MACRO
+- 11/20 06:00 [financialjuice] S. KOREAN PPI MOM ACTUAL -0.1% (FORECAST -, PREVIOUS 0.2%) $MACRO
+- 11/20 06:01 [FirstSquawk] DOW JONES INDUSTRIAL AVERAGE UNOFFICIALLY CLOSES DOWN 1,095.45 POINTS, OR 2.18%, AT 49,102.72
+- 11/20 06:02 [FirstSquawk] S&P 500 UNOFFICIALLY CLOSES 144.71 POINTS, OR 1.98%, LOWER AT 7,178.92
+- 11/20 06:02 [FirstSquawk] NASDAQ COMPOSITE FALLS 543.01 POINTS, OR 2.22%, TO CLOSE AT 23,886.88 IN UNOFFICIAL FIGURES
+- 11/20 06:03 [FirstSquawk] OVER 120 COMPANIES, INVESTORS AND BUSINESS GROUPS CALL FOR AN AMBITIOUS DEAL TO ELECTRIFY THE GLOBAL ECONOMY AT COP31
+- 11/20 06:04 [FirstSquawk] US MONEY-MARKET FUND ASSETS DROP TO $7.976 TRILLION, ICI DATA SHOWS
+- 11/20 06:04 [FirstSquawk] IRAN'S FOREIGN MINISTRY SPOKESMAN SAYS US ACCUSATIONS OVER CHEMICAL AND BIOLOGICAL WEAPONS ARE MEANT TO STOKE FEAR AND JUSTIFY MILITARY ACTION
+- 11/20 06:05 [FirstSquawk] INTUIT REPORTS Q1 27 NET REVENUE OF $4.35B, ABOVE $4.31B ESTIMATE, AND AGREES TO SELL MAILCHIMP TO BENDING SPOONS
+- 11/20 06:05 [FirstSquawk] BENDING SPOONS AGREES TO BUY MAILCHIMP FROM INTUIT IN DEAL VALUED AT $3.68 BILLION ENTERPRISE VALUE
+- 11/20 06:06 [FirstSquawk] ROSS STORES REPORTED Q3 2027 SALES OF $6.3 BLN, ABOVE THE $6.24 BLN ESTIMATE, WITH EPS OF $1.91 VERSUS $1.58 YEAR-ON-YEAR AND COMPARABLE SALES UP 8%, ABOVE THE +7.4% ESTIMATE. ROSS SEES Q4 EPS OF $2.16 TO $2.25, FROM A PRIOR $2.17 TO $2.26,…
+- 11/20 06:10 [FirstSquawk] ANTHROPIC SHARES CLOSE 17% HIGHER FOLLOWING RECORD $107 BILLION IPO
+- 11/20 06:17 [FirstSquawk] PFIZER TO LICENSE THREE CAR-T PROGRAMS FROM CHINA'S STARNA FOR $330 MILLION UPFRONT
+- 11/20 06:19 [DeItaone] ANTHROPIC ($ANT) CLOSES FIRST TRADING DAY AT $97.17, UP OVER 17% FROM IPO PRICE
+- 11/20 06:20 [financialjuice] Stocks Slide as Anthropic IPO Fails to Revive AI Enthusiasm – US Market Wrap
+- 11/20 06:20 [FirstSquawk] P&G PLANS TO CUT 20%-30% OF ITS GLOBAL MANUFACTURING WORKFORCE BY 2030, CHIEF PRODUCT SUPPLY OFFICER SAYS
+- 11/20 06:20 [FirstSquawk] GAP REPORTED Q3 2027 NET SALES OF $4.01 BLN, JUST BELOW THE $4.03 BLN ESTIMATE, WITH GROSS MARGIN OF 42.5% VERSUS A 43% ESTIMATE AND EPS OF 86 CENTS VERSUS 62 CENTS YEAR-ON-YEAR. TOTAL COMPARABLE SALES WERE FLAT AT 0% AGAINST A +1.6% ESTIMA…
+- 11/20 06:20 [FirstSquawk] GAP SEES Q4 NET SALES GROWTH OF -1% TO 0% AND NOW SEES FY NET SALES GROWTH OF 0%, FROM A PRIOR +1% TO +1.5%. GAP DECLARES A QUARTERLY DIVIDEND OF 28 CENTS A SHARE, UP FROM 27 CENTS, AND APPOINTS ASHLEY KECHTER AS BRAND PRESIDENT AND CEO OF …
+- 11/20 06:24 [FirstSquawk] PERENTI SAYS CHIEF FINANCIAL OFFICER MICHAEL ELLIS WILL LEAVE THE COMPANY ON 18 MAY 2027 AND THAT IT HAS APPOINTED SIMON FRANICH AS CHIEF FINANCIAL OFFICER EFFECTIVE 18 MAY 2027, WITH FRANICH TO BECOME DEPUTY CHIEF FINANCIAL OFFICER EFFECTI…
+- 11/20 06:33 [FirstSquawk] ISRAELI SPY CHIEF REPORTEDLY PUSHED FOR RENEWED STRIKES ON IRAN DURING US VISIT, WSJ SAYS
+- 11/20 06:34 [FirstSquawk] US STOCKS FELL 2%, WITH THE S&P 500 EXTENDING ITS LONGEST LOSING STREAK SINCE APRIL 2024, AS ANTHROPIC’S STRONG IPO DEBUT FAILED TO REVIVE AI SENTIMENT; ITS SHARES PARED GAINS TO 17% ABOVE THE IPO PRICE.
+- 11/20 06:34 [FirstSquawk] SELLING SPREAD ACROSS THE MARKET, WITH MORE THAN 460 S&P 500 STOCKS DECLINING AND ALL MAJOR TECH MEGACAPS FALLING, AS INVESTORS QUESTIONED WHETHER MASSIVE AI INFRASTRUCTURE SPENDING AND RISING BORROWING WILL GENERATE ADEQUATE RETURNS.
+- 11/20 06:37 [financialjuice] Apple outlines plans for proactive AI agent in job postings; agent covers device control, apps, browsing and coding.
+- 11/20 06:38 [financialjuice] Apple is working on own AI agent to rival OpenAI and Anthropic. $AAPL $ANT
+- 11/20 06:50 [FirstSquawk] GOOGLE FACES LAWSUIT OVER https://t.co/LKwBDNyses CHATBOTS OF CHILD ACTOR
+- 11/20 06:50 [FirstSquawk] APPLE LAYS OUT PLANS FOR A PROACTIVE AI AGENT THAT WOULD HANDLE DEVICE CONTROL, APPS, BROWSING AND CODING, ACCORDING TO JOB POSTINGS
+- 11/20 06:51 [FirstSquawk] APPLE REPORTEDLY DEVELOPING ITS OWN AI AGENT TO COMPETE WITH OPENAI AND ANTHROPIC
+- 11/20 06:54 [financialjuice] Total money market funds fell $3.58 bln to $7.98 trln for week ended Nov. 18 - ICI
+- 11/20 07:17 [financialjuice] Trump's national cyber director is resigning: Axios
+- 11/20 07:22 [FirstSquawk] VENEZUELA'S ACTING PRESIDENT RODRÍGUEZ SAYS PDVSA HAS SIGNED 84 OIL AND GAS DEALS
+- 11/20 07:22 [FirstSquawk] NVIDIA GENERAL COUNSEL TIMOTHY S. TETER FILES NOTICE OF PROPOSED SALE OF 30,000 SHARES, SEC FILING SHOWS
+- 11/20 07:23 [FirstSquawk] TRUMP'S NATIONAL CYBER DIRECTOR TO STEP DOWN, AXIOS REPORTS
+- 11/20 07:31 [financialjuice] Attorney General Bonta issues investigative subpoena to Nvidia
+- 11/20 07:31 [FirstSquawk] US ENERGY SECRETARY WRIGHT EXPRESSES CONFIDENCE CONGRESS WILL PASS PERMITTING BILL, WHICH IS TRUMP'S SIGNATURE ENERGY INVESTMENT EFFORT
+- 11/20 07:32 [FirstSquawk] CANADA'S LEBLANC EXPECTS US TARIFFS ON AUTOS AND STEEL TO STAY IN PLACE, AS OTTAWA SEEKS A COMPREHENSIVE TRADE SOLUTION
+- 11/20 07:32 [financialjuice] California AG: California DOJ asking Nvidia if its advanced chips or confidential data may have been sent to China
+- 11/20 07:33 [financialjuice] California AG: California Department of Justice questions Nvidia on whether it misled investors and the public
+- 11/20 07:34 [FirstSquawk] CALIFORNIA ATTORNEY GENERAL BONTA ISSUES INVESTIGATIVE SUBPOENA TO NVIDIA
+- 11/20 07:34 [FirstSquawk] CALIFORNIA DOJ ASKS NVIDIA WHETHER ADVANCED CHIPS OR CONFIDENTIAL INFORMATION MAY HAVE REACHED CHINA, CALIFORNIA AG SAYS
+- 11/20 07:34 [FirstSquawk] CALIFORNIA'S DEPARTMENT OF JUSTICE ASKS NVIDIA WHETHER IT MISLED INVESTORS AND THE PUBLIC, AG SAYS
+- 11/20 07:44 [financialjuice] Nvidia nears takeover of diffusion AI creator for over $500 million – the information
+- 11/20 07:59 [FirstSquawk] NVIDIA NEARS DEAL TO ACQUIRE AI DIFFUSION MODEL CREATOR FOR MORE THAN $500 MILLION, THE INFORMATION REPORTS
+- 11/20 08:09 [FirstSquawk] AUSTRALIA'S S&P/ASX 200 INDEX SLIPS 0.8% TO 8,660.60 POINTS IN EARLY TRADE
+- 11/20 08:23 [financialjuice] Explosions heard in Ukraine's Kyiv: witness source
+- 11/20 08:30 [FirstSquawk] CITIGROUP WRONGLY BOOKED TRADES AT A EUROPEAN UNIT, UNDERSTATING ITS RISK-WEIGHTED ASSETS, SOURCES SAY
+- 11/20 08:30 [FirstSquawk] CITIGROUP UNDERSTATED RISK-WEIGHTED ASSETS BY ABOUT $35 BILLION, A SOURCE SAYS
+- 11/20 08:30 [FirstSquawk] CITIGROUP SAYS IT RESOLVED AN INTERNAL CAPITAL MODELING ISSUE AT A EUROPEAN UNIT AND STAYED FULLY COMPLIANT WITH REGULATORY MINIMUMS THROUGHOUT
+- 11/20 08:30 [financialjuice] ‼ BREAKING: JAPANESE CPI OVERALL NATIONWIDE ACTUAL 2.3% (FORECAST 2.5%, PREVIOUS 2.1%) $MACRO
+- 11/20 08:30 [financialjuice] ❗ JAPANESE CORE CPI NATIONWIDE YOY ACTUAL 2.2% (FORECAST 2.3%, PREVIOUS 2.1%) $MACRO
+- 11/20 08:30 [financialjuice] Japan Oct nationwide core CPI rises 2.2% yr/yr: govt poll 2.3%
+- 11/20 08:30 [financialjuice] Japan Oct nationwide core consumer prices rise 2.3% yr/yr: govt
+- 11/20 08:30 [financialjuice] Japan oct consumer prices excluding fresh food, energy rise 2.2% yr/yr: govt
+- 11/20 08:30 [financialjuice] Japan October nationwide core-core CPI excluding fresh food, energy prices rises 2.2% yr/yr: govt
+- 11/20 08:32 [financialjuice] Japan core CPI climbs at fastest rate since December 2025
+- 11/20 08:32 [financialjuice] Japan overall CPI climbs at fastest rate since November 2025
+- 11/20 08:39 [financialjuice] Fed's Paulson: Fed communications need to be clear on perspectives
+- 11/20 08:39 [financialjuice] Fed's Paulson: does not comment on near-term monetary policy outlook
+- 11/20 08:39 [financialjuice] Fed's Paulson: Public needs to grasp rationale behind Fed's actions
+- 11/20 08:39 [financialjuice] Fed's Paulson: usefulness of rate path guidance varies with circumstances
+- 11/20 08:39 [financialjuice] Fed's Paulson: monetary policy forward guidance less useful in normal periods
+- 11/20 08:42 [FirstSquawk] FED'S PAULSON DECLINES TO SHARE VIEWS ON NEAR-TERM MONETARY POLICY OUTLOOK
+- 11/20 08:42 [FirstSquawk] FED'S PAULSON SAYS IT IS KEY FOR THE PUBLIC TO UNDERSTAND WHY THE FED DOES WHAT IT DOES
+- 11/20 08:42 [FirstSquawk] FED'S PAULSON SAYS FORWARD GUIDANCE ON MONETARY POLICY IS LESS VALUABLE IN NORMAL TIMES
+- 11/20 08:43 [FirstSquawk] SK HYNIX WEIGHS CONVERTING KIOXIA-RELATED CONVERTIBLE BONDS INTO SHARES, DONGA REPORTS
+- 11/20 08:44 [FirstSquawk] ALIBABA HAS BEEN SUED BY SHAREHOLDERS OVER ALLEGEDLY CONCEALING TIES TO A SUSPECTED SPY IN THE NVIDIA SCANDAL, WITH A PROPOSED CLASS ACTION ALLEGING AN UNDERSTATEMENT OF EXPORT-CONTROL RISKS LINKED TO MEGASPEED
+- 11/20 08:47 [FirstSquawk] CITIGROUP UNDERESTIMATED RISK-WEIGHTED ASSETS BY ABOUT $35 BLN AFTER INCORRECTLY BOOKING TRADES AT A EUROPEAN SUBSIDIARY, WITH CITI SAYING THE INTERNAL CAPITAL MODELLING ISSUE HAS BEEN RESOLVED AND THAT THE UNIT REMAINED FULLY COMPLIANT WIT…
+- 11/20 08:47 [FirstSquawk] JAPAN’S NATIONAL CPI ROSE 2.3% YEAR-ON-YEAR IN OCTOBER, BELOW A 2.5% ESTIMATE AND UP FROM 2.1% PREVIOUSLY. CPI EX-FRESH FOOD ROSE 2.2%, BELOW A 2.3% ESTIMATE AND UP FROM 2.1%, WHILE CPI EX-FRESH FOOD AND ENERGY ROSE 2.2%, BELOW A 2.3% ESTIM…
+- 11/20 08:50 [FirstSquawk] JAPAN EARLY TRADE: BENCHMARK 10-YEAR JGB FUTURES RISE 0.15 POINT; NIKKEI AVERAGE FUTURES FALL 3.63%
+- 11/20 08:53 [FirstSquawk] TRUMP OPPOSED STRICT AI REGULATION, WARNING THAT ROBUST CONTROLS COULD STIFLE INNOVATION, WHILE EMPHASIZING THE NEED TO MANAGE AI RISKS WITHOUT HINDERING DEVELOPMENT.
+- 11/20 08:53 [FirstSquawk] THE US HAS TIGHTENED LICENSING REQUIREMENTS FOR ADVANCED AI CHIP EXPORTS TO FIVE COUNTRIES TO RESTRICT CHINA’S ACCESS, WHILE THE NVIDIA ESPIONAGE CONTROVERSY HAS RENEWED CONGRESSIONAL PRESSURE FOR TOUGHER EXPORT CONTROLS.
+- 11/20 09:01 [financialjuice] UK GfK consumer confidence index at -22 in November versus -24 in October (Poll: -22)
+- 11/20 09:01 [FirstSquawk] SAMSUNG ELECTRONICS HAS NAMED A NEW HEAD OF ITS MEMORY BUSINESS AND A NEW HEAD OF ITS MOBILE BUSINESS
+- 11/20 09:01 [financialjuice] Japan economy minister Kiuchi: economy showing favorable signs as wages and prices rise steadily together
+- 11/20 09:01 [financialjuice] Japan economy minister Kiuchi: underlying consumer inflation quickening as firms advance passing on rising costs from Middle East developments
+- 11/20 09:02 [financialjuice] Japan economy minister Kiuchi: rising inflation expectations pressure consumer sentiment, one-off factors contribute to weak consumption indicators
+- 11/20 09:02 [financialjuice] Fed's Paulson: more policy tightening needed
+- 11/20 09:02 [financialjuice] Japan economy minister Kiuchi: households' income stays resilient
+- 11/20 09:03 [financialjuice] Saudi civil defence issues alert on potential threat in Jizan city
+- 11/20 09:03 [financialjuice] Fed's Paulson: gradual pace of rate increases allows economy to adapt
+- 11/20 09:03 [FirstSquawk] THE UK GFK CONSUMER CONFIDENCE INDEX ROSE TO -22 IN NOVEMBER FROM -24 IN OCTOBER, MATCHING A POLL OF -22, WHILE THE MAJOR PURCHASES GAUGE CLIMBED 5 POINTS TO -1
+- 11/20 09:04 [FirstSquawk] JAPAN ECONOMY MINISTER KIUCHI SAYS THE ECONOMY IS SHOWING FAVORABLE SIGNS AS WAGES AND PRICES RISE STEADILY TOGETHER AND THAT HOUSEHOLDS’ INCOME STAYS RESILIENT
+- 11/20 09:04 [FirstSquawk] JAPAN ECONOMY MINISTER KIUCHI SAYS UNDERLYING CONSUMER INFLATION IS QUICKENING AS FIRMS ADVANCE PASSING ON RISING COSTS FROM MIDDLE EAST DEVELOPMENTS, WHILE RISING INFLATION EXPECTATIONS ARE PRESSURING CONSUMER SENTIMENT AND ONE-OFF FACTORS…
+- 11/20 09:04 [financialjuice] Fed's Paulson: inflation remains elevated, labor market at full employment
+- 11/20 09:04 [financialjuice] Fed's Paulson: reducing inflation is top priority at the moment
+- 11/20 09:08 [financialjuice] Saudi civil defence: danger has passed in Jizan city
+- 11/20 09:08 [FirstSquawk] Houthis Target Saudi Arabia’s Jizan in Attack
+- 11/20 09:09 [FirstSquawk] Saudi Civil Defence Announces End of Danger in Jizan
+- 11/20 09:13 [FirstSquawk] 10-Year JGB Yield Declines to 2.800%, Down 2 Basis Points
+- 11/20 09:13 [FirstSquawk] Nike Secures Official Apparel Partnership for Formula 1 Staff Beginning in 2027
+- 11/20 09:13 [FirstSquawk] 40-Year Japanese Government Bond Yield Falls to 4.155%
+- 11/20 09:13 [financialjuice] Japan finmin Katayama: LDP may consider introducing preferential tax treatment for retail JGBs
+- 11/20 09:14 [FirstSquawk] Singapore Banks Move Beyond Trials, Putting Gold and Bond Tokenization Into Practice - NA
+- 11/20 09:17 [financialjuice] Japan finmin katayama: asked Rakuten Securities to report on client data breach
+- 11/20 09:17 [financialjuice] Fed's Paulson: monetary aggregates offer limited value for Fed officials
+- 11/20 09:18 [FirstSquawk] Japan’s Finance Minister Requests Details From Rakuten Securities on Customer Information Leak
+- 11/20 09:18 [FirstSquawk] Rakuten Securities Asked to Report Customer Data Leak to Japan’s Finance Minister Katayama
+- 11/20 09:18 [financialjuice] Japan finance minister Katayama: aware of JT's plan to reduce dividend, no effect on government budget strategy
+- 11/20 09:18 [FirstSquawk] SoftBank Group Stock Drops 14%, Extending Losses
+- 11/20 09:18 [financialjuice] RBA monetary policy board member Fry-McKibbin: observing pockets of robust demand in Australia and weakness elsewhere amid a huge global oil supply shock
+- 11/20 09:19 [FirstSquawk] Japan FinMin Says JT’s Planned Dividend Cut Has No Implications for Government Budget
+- 11/20 09:20 [FirstSquawk] RBA Member Says Australia Faces Mixed Demand Conditions Alongside Major Global Oil Supply Disruption
+- 11/20 09:20 [FirstSquawk] RBA Member Stresses Close Monitoring of Artificial Intelligence Developments
+- 11/20 09:20 [financialjuice] China PBOC likely to set yuan midpoint at 6.6731 per dollar: estimate
+- 11/20 09:20 [financialjuice] RBA's Fry-McKibbin: broad disagreement can exist on managing policy trade-offs, but they can't be ignored
+- 11/20 09:20 [FirstSquawk] RBA’s Fry-McKibbin: Disagreement on Policy Choices Does Not Mean Trade-Offs Can Be Ignored
+- 11/20 09:22 [financialjuice] Fed's Paulson: steady long-term inflation expectations reflect Fed credibility
+- 11/20 09:23 [financialjuice] Fed's Paulson: wage growth aligns with 2% inflation, a positive indicator
+- 11/20 09:24 [FirstSquawk] ASIA-PACIFIC SHARES OPEN LOWER AMID GLOBAL RISK AVERSION AS MAJOR US INDICES SUFFER STEEP LOSSES DESPITE ANTHROPIC’S RECORD DEBUT
+- 11/20 09:25 [FirstSquawk] Fed’s Paulson Points to Steady Long-Term Inflation Outlook as Evidence of Policy Credibility
+- 11/20 09:25 [FirstSquawk] Fed’s Paulson Sees Wage Growth Consistent With 2% Inflation as a Positive Development
+- 11/20 09:28 [FirstSquawk] Japanese Shares Decline as TOPIX Drops 2%
+- 11/20 09:28 [FirstSquawk] Japan’s Benchmark Nikkei Average Slides 3.65%
+- 11/20 09:32 [FirstSquawk] 5-Year Japanese Government Bond Yield Falls to 2.205%
+- 11/20 09:36 [FirstSquawk] US Authorised Sales of Close to 900,000 AI Chips to China in Six Months, According to House Committee - RTRS
+- 11/20 09:37 [FirstSquawk] Japan’s Benchmark Stock Index Slides 4%
+- 11/20 09:41 [FirstSquawk] Japanese Bond Prices Tick Up, Tracking Strength in US Treasuries - WSJ
+- 11/20 09:42 [FirstSquawk] Gold Slips as Rising Yields and Dollar Strength Dampen Demand - WSJ
+- 11/20 09:42 [FirstSquawk] Asian Currencies Hold Their Ground but Face Headwinds From Broader Market Caution - WSJ
+- 11/20 09:44 [FirstSquawk] Japan’s Benchmark Nikkei Index Drops 4.5%
