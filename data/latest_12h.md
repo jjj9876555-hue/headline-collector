@@ -7,330 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-11-21 12:33 JST／対象: 11/21 00:33 〜 11/21 12:33 JST（時刻はすべて日本時間）
+生成: 2026-11-21 20:41 JST／対象: 11/21 08:41 〜 11/21 20:41 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 90 | 11/21 00:41 | 11/21 12:15 | ⚠ 257分（07:48→12:05） |
-| FirstSquawk | 118 | 11/21 00:37 | 11/21 11:32 | ⚠ 225分（06:02→09:47） |
-| financialjuice | 130 | 11/21 00:34 | 11/21 11:37 | ⚠ 154分（08:42→11:17） |
+| DeItaone | 3 | 11/21 12:05 | 11/21 20:11 | ⚠ 476分（12:15→20:11） |
+| FirstSquawk | 98 | 11/21 09:47 | 11/21 20:23 | ⚠ 99分（12:51→14:31） |
+| financialjuice | 19 | 11/21 08:42 | 11/21 20:18 | ⚠ 304分（11:37→16:41） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 332 行（統合前 338 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 120 行（統合前 120 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/21 00:34 [financialjuice] US Treasury Secretary Bessent interview on CNBC ends.
-- 11/21 00:37 [FirstSquawk] US TREASURY SEC BESSENT: SEEMS ‘PERIPATETIC’ FOR FED TO WANT A BIGGER HIKE
-- 11/21 00:38 [FirstSquawk] US TREASURY SEC. BESSENT: IRAN’S THREATS INDICATE THEY’RE BEING SQUEEZED BY US SANCTIONS
-- 11/21 00:39 [financialjuice] Fars News: An explosion was heard in the sky of Qeshm. Some local sources say that the sound of the explosion may be related to the firing at an enemy aircraft.
-- 11/21 00:39 [FirstSquawk] BLAST HEARD OVER IRAN'S QESHM ISLAND: FARS
-- 11/21 00:39 [FirstSquawk] NASDAQ 100 EXTENDS DECLINE TO 2.5%
-- 11/21 00:40 [FirstSquawk] US TREASURY 10-YEAR YIELD FALLS 10 BASIS POINTS ON DAY TO 4.95%
-- 11/21 00:41 [DeItaone] *TREASURY 10-YEAR YIELD FALLS 10 BASIS POINTS ON DAY TO 4.95%
-- 11/21 00:42 [DeItaone] *BITCOIN DROPS BELOW $60,000 FIRST TIME SINCE JULY
-- 11/21 00:45 [DeItaone] $SPY $QQQ - TECH SELLOFF DRAGS S&P 500 LOWER DESPITE BROADER MARKET GAINS Technology stocks are down over 3%, dragging the S&P 500 lower due to their 35% index weighting. Meanwhile, several other sectors remain in positive territory. The we…
-- 11/21 00:46 [DeItaone] EUROPE'S TECH INDEX EXTENDS FALL, LAST DOWN 5%, SET FOR BIGGEST DAILY FALL SINCE OCTOBER 2024
-- 11/21 00:50 [FirstSquawk] BITCOIN BELOW $60,000 FOR FIRST TIME SINCE JULY
-- 11/21 00:58 [FirstSquawk] EUROPEAN GAS FUTURES RISE AS MUCH AS 5% TO €88.7/MWH
-- 11/21 01:02 [DeItaone/financialjuice] MISSILE HITS SOUTHERN IRAN'S QESHM ISLAND, NO INFORMATION ON POSSIBLE DAMAGE -TASNIM NEWS AGENCY
-- 11/21 01:02 [financialjuice] Musk: We aren’t serving open source models
-- 11/21 01:03 [FirstSquawk] NASDAQ 100 EXTENDS DECLINE TO 3%, S&P 500 DOWN 1.5%
-- 11/21 01:04 [financialjuice] Apollo & Goldman Sachs report pricing of $44b SpaceX GPU financing $GS $SPCX
-- 11/21 01:10 [DeItaone] *ELON MUSK SAYS WE ARE NOT SERVING OPEN SOURCE MODELS
-- 11/21 01:13 [FirstSquawk] TANKER STRUCK BY UNKNOWN PROJECTILE IN STRAIT OF HORMUZ, UKMTO SAYS
-- 11/21 01:19 [DeItaone] TRUMP ADMINISTRATION HAS TOLD EUROPEAN AND UKRAINIAN OFFICIALS IT WANTS KYIV TO REACH A PEACE DEAL WITH RUSSIA BY EARLY JANUARY-FT
-- 11/21 01:19 [DeItaone] DONALD TRUMP SEEKS UKRAINE PEACE DEAL BEFORE JANUARY: FT
-- 11/21 01:19 [financialjuice] Trump seeks Ukraine peace deal before January - FT
-- 11/21 01:24 [financialjuice] Pentagon's Michael: Anthropic is still a supply chain risk to the Pentagon. $ANT.
-- 11/21 01:26 [DeItaone] TRUMP SEEKS UKRAINE PEACE DEAL BEFORE JANUARY — FT The Trump administration wants Ukraine to reach a peace agreement with Russia by early January 2027, according to the Financial Times, citing four people briefed on the discussions. Steve W…
-- 11/21 01:27 [FirstSquawk] TRUMP ADMIN WANTS UKRAINE PEACE DEAL BY EARLY JANUARY, SOURCES SAY - FT
-- 11/21 01:28 [financialjuice] IRIB News: Explosion of an oil tanker after hitting a mine at the mouth of Bandar Khasab.
-- 11/21 01:28 [DeItaone] *PENTAGON SAYS ANTHROPIC IS A SUPPLY CHAIN RISK TO DEPARTMENT OF WAR
-- 11/21 01:31 [DeItaone] - IRAN'S REVOLUTIONARY GUARDS SAY OIL TANKER CAUGHT FIRE AFTER HITTING MINE WHILE ATTEMPTING TO TRANSIT STRAIT OF HORMUZ NEAR OMAN'S KHASAB -STATE MEDIA
-- 11/21 01:37 [financialjuice] ING’s $500 million data center loan auction stalls on low bids.
-- 11/21 01:38 [DeItaone] JENSEN HUANG TO INTEL? WALL STREET FLOATS SURPRISE MOVE Speculation cited by Mizuho suggests Nvidia's former CEO could join Intel to lead its AI chip strategy. Yet prediction markets assign just a 5% chance of Huang joining Intel this year,…
-- 11/21 01:41 [FirstSquawk] IRGC: OIL TANKER CAUGHT FIRE AFTER HITTING MINE WHILE ATTEMPTING TO TRANSIT HORMUZ STRAIT NEAR OMAN'S KHASAB - STATE MEDIA
-- 11/21 01:42 [DeItaone] NASDAQ EXTENDS LOSSES; LAST DOWN 3%
-- 11/21 01:42 [financialjuice] Michael Burry: I sold half of my NVIDIA puts. $NVDA
-- 11/21 01:44 [DeItaone] *RUBIO EXPECTED TO JOIN TRUMP AT TODAY'S PRESS BRIEFING
-- 11/21 01:48 [FirstSquawk] S&P 500 FALLS 10% FROM OCTOBER RECORD TO ENTER CORRECTION
-- 11/21 01:48 [financialjuice] S&P 500 falls 10% from its October record to enter a correction.
-- 11/21 01:49 [DeItaone] $SPY - *S&P 500 FALLS 10% FROM OCTOBER RECORD TO ENTER CORRECTION
-- 11/21 01:50 [financialjuice] The explosion and smoke on Iran's Qeshm Island are due to the disposal of unexploded munitions, Tasnim News cites an official as saying, after reporting a missile attack.
-- 11/21 01:51 [financialjuice] Trump holds a press conference after meeting with Putin and Xi - WATCH LIVE
-- 11/21 01:57 [financialjuice] Russia weighs resuming jet fuel exports - Tass.
-- 11/21 02:01 [FirstSquawk] Citigroup's UK Subsidiary Had $35 Billion in Assets Underreported, WSJ Says
-- 11/21 02:02 [DeItaone] GUNDLACH SAYS NASDAQ HAS UNDERPERFORMED US TREASURY BILLS YTD
-- 11/21 02:03 [FirstSquawk] Ford Announces Pascal Zurlinden's Appointment as Global Director of Ford Racing, Effective January 1, 2027
-- 11/21 02:03 [FirstSquawk] Ford Announces Mark Rushbrook's Appointment as Global Competition Chief at Ford Racing
-- 11/21 02:05 [FirstSquawk] Equinor Cyberattack This Week Targeted Flaw in Microsoft Azure API Management, Norway Says
-- 11/21 02:05 [FirstSquawk] France's EDF Finalises Bank Loan Agreements Totalling €5.4 Billion
-- 11/21 02:07 [DeItaone] TRUMP SAYS PUTIN IS READY TO END UKRAINE WAR, URGES EUROPE TO MAKE A DEAL President Donald Trump told European leaders and Ukrainian President Volodymyr Zelenskyy that Vladimir Putin is ready to end the war, according to five European offic…
-- 11/21 02:07 [FirstSquawk] Houthis Announce Attacks on Al-Shuqaiq Power Station and Jazan Port in Saudi Arabia
-- 11/21 02:07 [FirstSquawk] Trump Administration Announces $47 Million in Awards for 15 Organisations Under Medicare Preventive Care Initiative
-- 11/21 02:09 [FirstSquawk] S&P 500 on Track for Correction as Index Slips Over 10% From Record Closing High
-- 11/21 02:10 [FirstSquawk] Hong Kong slams ‘biased’ US report accusing city of expanding security powers
-- 11/21 02:11 [FirstSquawk] JPMorgan's Dimon Signals Pushback Against 'Unfair' UK Bank Levy
-- 11/21 02:11 [financialjuice] -JPMorgan’s dimon vows to claw back ‘unfair’ UK bank tax - FT. $JPM
-- 11/21 02:13 [DeItaone] AI STOCKS PLUNGE AS WALL STREET SELLOFF ACCELERATES 🔸 $IREN IREN: -13.29% 🔸 $NBIS Nebius: -12.62% 🔸 $ANT Anthropic: -12.28% 🔸 $MU Micron: -12.26% 🔸 $XPEV XPeng: -11.06% 🔸 $AMD AMD: -10.98% 🔸 $CRWV CoreWeave: -10.60% 🔸 $SMCI Super Micro: -7.…
-- 11/21 02:15 [FirstSquawk] US National Imprisoned in Cuba for Nearly a Decade Freed: CNN
-- 11/21 02:15 [financialjuice] Fed's Cook: September's interest rate hike was not enough to curtail high inflation.
-- 11/21 02:15 [financialjuice] Fed's Cook: High inflation does not give Fed space to be patient
-- 11/21 02:15 [DeItaone] FED'S COOK CALLS FOR TIGHTER MONETARY POLICY, WARNS INFLATION RISKS ARE GROWING Federal Reserve Governor Lisa Cook warned that current interest rates are not restrictive enough to bring inflation under control. Cook said September's rate hi…
-- 11/21 02:16 [financialjuice] Fed's Cook: Holding off on rate hikes increases risk that inflation will embed in economy.
-- 11/21 02:16 [financialjuice] Fed's Cook: Data since September points to need for tighter monetary policy
-- 11/21 02:16 [financialjuice] Fed's Cook: Current level of inflation is of great concern.
-- 11/21 02:16 [financialjuice] Fed's Cook: US economic growth is strong, the labor market is healthy and stable.
-- 11/21 02:16 [financialjuice] Fed's Cook: Financial conditions are too accommodative right now.
-- 11/21 02:16 [financialjuice] Fed's Cook: Tariff impact on inflation has faded.
-- 11/21 02:16 [financialjuice] ❗ Fed's Cook: Embedded inflation will require a more aggressive Fed response.
-- 11/21 02:16 [financialjuice] Fed's Cook: Little evidence al is weighing on job market so far
-- 11/21 02:16 [DeItaone] ANTHROPIC HITS NEW LOW BELOW $85, DOWN 13% AT $84.54
-- 11/21 02:17 [financialjuice] Fed's Cook Speaks - WATCH LIVE
-- 11/21 02:18 [FirstSquawk] US Measles Count Climbs to 5,838 Confirmed Cases, According to CDC's Latest Data
-- 11/21 02:18 [FirstSquawk] FED’S COOK SAYS EXISTING MONETARY POLICY IS FALLING SHORT OF THE RESTRAINT NEEDED TO BRING INFLATION DOWN
-- 11/21 02:18 [FirstSquawk] FED’S COOK SAYS SEPTEMBER’S RATE INCREASE DID NOT DO ENOUGH TO TAME ELEVATED INFLATION
-- 11/21 02:18 [FirstSquawk] FED’S COOK SAYS THE PERSISTENCE OF HIGH INFLATION LEAVES THE FED WITH NO ROOM TO DELAY POLICY ACTION
-- 11/21 02:18 [FirstSquawk] FED’S COOK SAYS POSTPONING ADDITIONAL RATE INCREASES COULD ALLOW INFLATION TO BECOME DEEPLY ROOTED IN THE ECONOMY
-- 11/21 02:18 [FirstSquawk] FED’S COOK SAYS ECONOMIC INDICATORS RELEASED SINCE SEPTEMBER STRENGTHEN THE ARGUMENT FOR FURTHER MONETARY TIGHTENING
-- 11/21 02:18 [FirstSquawk] FED’S COOK SAYS THE PERSISTENTLY ELEVATED PACE OF PRICE INCREASES REMAINS A SIGNIFICANT CONCERN
-- 11/21 02:18 [FirstSquawk] FED’S COOK SAYS THE US ECONOMY CONTINUES TO EXPAND AT A SOLID PACE, WHILE EMPLOYMENT CONDITIONS REMAIN STABLE
-- 11/21 02:18 [FirstSquawk] FED’S COOK SAYS ALLOWING INFLATION TO BECOME ENTRENCHED WOULD NECESSITATE A MUCH STRONGER POLICY RESPONSE
-- 11/21 02:18 [FirstSquawk] FED’S COOK SAYS CURRENT FINANCIAL MARKET CONDITIONS ARE PROVIDING INSUFFICIENT PRESSURE TO SLOW THE ECONOMY
-- 11/21 02:18 [FirstSquawk] FED’S COOK SAYS THE PASS-THROUGH EFFECT OF TARIFFS ON INFLATION HAS BEGUN TO DIMINISH
-- 11/21 02:18 [FirstSquawk] FED’S COOK SAYS AI HAS YET TO SHOW A SIGNIFICANT NEGATIVE EFFECT ON EMPLOYMENT CONDITIONS
-- 11/21 02:21 [FirstSquawk] Dow Jones on Track for Correction After Declining More Than 10% From Record Closing High
-- 11/21 02:21 [financialjuice] Dow on correction course, down more than 10% from record closing high.
-- 11/21 02:21 [DeItaone] CBOE VOLATILITY INDEX RISES ABOVE 32, HITS SESSION HIGH
-- 11/21 02:24 [DeItaone] NASDAQ COMPOSITE EXTENDS DECLINE TO 3.6%, DOWN FOR 2026 FOR FIRST TIME SINCE APRIL
-- 11/21 02:25 [FirstSquawk] Nasdaq Composite Extends Decline to 3.6%, Moves Into Negative Territory for 2026
-- 11/21 02:27 [DeItaone/financialjuice] TRUMP: TEN OTHER TRADE DEALS COMING VERY SOON AFTER ASIA TRIP
-- 11/21 02:28 [FirstSquawk] Trump: 10 More Trade Deals to Be Announced Soon After Asia Tour
-- 11/21 02:29 [DeItaone] TRUMP SAYS CRUDE OIL PRICES DOWN 20% SINCE START OF NOVEMBER, NEAR $80 A BARREL
-- 11/21 02:29 [DeItaone] TRUMP SAYS US ECONOMY GROWING FASTER THAN ANY OTHER MAJOR DEVELOPED NATION
-- 11/21 02:29 [DeItaone] TRUMP SAYS US MANUFACTURING HAS EXPANDED FOR 10 STRAIGHT MONTHS, CALLS IT A RECORD
-- 11/21 02:30 [DeItaone/financialjuice] TRUMP: GAS PRICES DEPEND ON HOW WE SETTLE WITH IRAN
-- 11/21 02:30 [FirstSquawk] Trump Links Gasoline Prices to How the US Settles Its Differences With Iran
-- 11/21 02:30 [financialjuice] Trump: Iran wants a deal that is not acceptable to me.
-- 11/21 02:31 [financialjuice] Trump: I want to make a real deal with Iran.
-- 11/21 02:31 [DeItaone] TRUMP: INTEREST RATES TOO HIGH BECAUSE WE HAVE POLITICAL FED
-- 11/21 02:32 [financialjuice] Trump: Interest rates are too high because we have a political Fed. I'm not blaming the Fed chairmen, but the Fed is political.
-- 11/21 02:32 [FirstSquawk] Trump Says the Other Side Is Interested in a Deal
-- 11/21 02:32 [FirstSquawk] Trump: Interest Rates Remain Excessively High Because of a Politicised Federal Reserve
-- 11/21 02:32 [DeItaone] TRUMP: WE SHOULD HAVE LOWEST INTEREST RATE IN WORLD
-- 11/21 02:33 [financialjuice] Microsoft: Potential issue affects new outlook client. $MSFT
-- 11/21 02:33 [FirstSquawk] Trump Calls for US Interest Rates to Be the Lowest Globally
-- 11/21 02:36 [DeItaone] SEN. COTTON SAYS COMMERCE DEPT IGNORED WARNINGS ON MEGASPEED, CHINA CHIP DIVERSION: WSJ SEN. COTTON SAYS COMMERCE SEC. AND TOP OFFICIALS IGNORED WARNINGS OF NVIDIA CHIP DIVERSION TO CHINA: WSJ
-- 11/21 02:36 [FirstSquawk] Trump Calls for Advancement of Air Traffic Control Modernisation
-- 11/21 02:36 [financialjuice] US Senator Tom Cotton: Commerce secretary and top officials ignored communications about Nvidia chips being diverted to China - WSJ.
-- 11/21 02:36 [DeItaone] TRUMP: WILL FIGHT HARD FOR DATA CENTERS
-- 11/21 02:36 [FirstSquawk] Republican Senator Accuses Lutnick of Overlooking Warnings About China's Chip Industry: WSJ
-- 11/21 02:37 [financialjuice] Trump: I will fight hard for data centers.
-- 11/21 02:37 [DeItaone] $NVDA $AMD - TOP REPUBLICAN SENATOR ACCUSES COMMERCE SECRETARY OF IGNORING CHINA CHIP WARNINGS Senate Intelligence Committee Chairman Tom Cotton says Commerce Secretary Howard Lutnick repeatedly ignored warnings about potential AI chip smug…
-- 11/21 02:37 [FirstSquawk] Trump Pledges Strong Backing for US Data Centre Industry
-- 11/21 02:37 [FirstSquawk] Trump Says He and Xi Reached Agreement on Joint AI Oversight Measures
-- 11/21 02:37 [DeItaone] TRUMP: WILL NOT ALLOW COMPANIES TO BUILD DATA CENTERS OUTSIDE US
-- 11/21 02:42 [FirstSquawk] Trump: Companies Must Build Data Centres Within the US, Not Overseas
-- 11/21 02:44 [DeItaone] ANTHROPIC FALLS TO $84, $1 ABOVE IPO PRICE, NOW DOWN 13.6%
-- 11/21 02:44 [DeItaone] TRUMP: LOT OF RESPECT FOR ANTHROPIC
-- 11/21 02:44 [FirstSquawk] Trump Warns of Significant Taxes on American Companies Constructing Data Centres Outside the US
-- 11/21 02:44 [FirstSquawk] Trump Praises Anthropic, Says He Holds the Company in High Regard
-- 11/21 02:44 [financialjuice] Trump: I will not allow companies to build data centers outside the US.
-- 11/21 02:44 [financialjuice] Trump: I will put a tax on companies building data centers abroad.
-- 11/21 02:44 [financialjuice] Trump: We just had a successful Anthropic launch. I have a lot of respect for Amodei. $ANT
-- 11/21 02:44 [financialjuice] Trump on Anthropic: We're going to keep it all in the US. $ANT
-- 11/21 02:50 [FirstSquawk] Trump Describes His Relationship With Xi as Very Positive
-- 11/21 02:50 [DeItaone] TRUMP: GETTING CLOSE TO DEAL WITH MEXICO
-- 11/21 02:50 [financialjuice] Trump: We're getting close to a mexico trade deal.
-- 11/21 02:50 [DeItaone] TRUMP: MORE WORK TO BE DONE WITH CANADA
-- 11/21 02:50 [DeItaone] TRUMP: TIME FOR CANADA TO STOP RIPPING US OFF
-- 11/21 02:51 [financialjuice] Trump on Trade: More work remains to be done with Canada.
-- 11/21 02:51 [FirstSquawk] Trump Says Washington Is Close to Finalising an Agreement With Mexico
-- 11/21 02:51 [FirstSquawk] Trump Calls on Canada to End What He Describes as Unfair Practices Against the US
-- 11/21 02:51 [FirstSquawk] Trump Says US and Canada Still Have Work to Do on Bilateral Issues
-- 11/21 02:52 [financialjuice] Trump: Working on making a Canada trade deal that's fair.
-- 11/21 02:52 [DeItaone] TRUMP: PUTIN EXPRESSED DESIRE TO END UKRAINE WAR
-- 11/21 02:52 [FirstSquawk] Trump Signals Ongoing Work to Reach a Mutually Fair Agreement With Canada
-- 11/21 02:52 [DeItaone] TRUMP SAYS ABOUT CANADA: `THEY HAVE NEVER TREATED US FAIRLY, ONE OF THE MOST DIFFICULT PEOPLE TO DEAL WITH'
-- 11/21 02:52 [FirstSquawk] Trump Says Putin Has Indicated Willingness to End the War in Ukraine
-- 11/21 02:52 [financialjuice] Trump: Putin expressed desire to see war end diplomatically.
-- 11/21 02:52 [DeItaone] TRUMP: HAVING VERY GOOD TALKS ON UKRAINE, GOOD CHANCE WE CAN GET IT DONE
-- 11/21 02:52 [FirstSquawk] Trump Says Discussions on Ukraine Are Positive, Expresses Confidence in Reaching a Resolution
-- 11/21 02:57 [DeItaone] TRUMP ON MEETING XI AND PUTIN IN CHINA: WAS GREAT ELECTRICITY, RELATIONSHIP BETWEEN THREE OF US WAS FANTASTIC
-- 11/21 02:58 [DeItaone] TRUMP ON MEETING XI AND PUTIN IN CHINA: DISCUSSED RESPONSIBILITY TO REDUCE RISK POSED BY NUCLEAR WEAPONS
-- 11/21 02:59 [DeItaone] TRUMP: IRAN WILL NEVER HAVE A NUCLEAR WEAPON
-- 11/21 02:59 [FirstSquawk] Trump Signals Optimism Over Ukraine Talks, Says Deal Has a Good Chance of Being Finalised
-- 11/21 02:59 [financialjuice] Fed's Cook: I believe there's some displacement of jobs due to AI.
-- 11/21 03:00 [FirstSquawk] Anthropic Stock Slips 13.3% to $84.32 After Briefly Falling to $83.05, Remaining Above IPO Level
-- 11/21 03:00 [FirstSquawk] Trump Says Xi, Putin and He Discussed Their Responsibility to Minimise Nuclear Weapons Risks
-- 11/21 03:00 [FirstSquawk] Trump: Three-Way Relationship With Xi and Putin Was Excellent During China Meeting
-- 11/21 03:00 [financialjuice] Trump: I discussed Ukraine & Iran with Putin and Xi.
-- 11/21 03:00 [FirstSquawk] Fed's Cook Acknowledges AI-Driven Disruptions in Parts of the Labour Market
-- 11/21 03:01 [financialjuice] Trump: We discussed confronting dangers on the Korean peninsula
-- 11/21 03:01 [financialjuice] US BAKER HUGHES TOTAL RIG COUNT ACTUAL 607 (FORECAST -, PREVIOUS 601) $MACRO
-- 11/21 03:01 [financialjuice] US BAKER HUGHES OIL RIG COUNT ACTUAL 469 (FORECAST -, PREVIOUS 463) $MACRO
-- 11/21 03:01 [financialjuice] Trump: China agreed to conduct a trilateral on nuclear risk reduction
-- 11/21 03:02 [FirstSquawk] Fed’s Cook Expects Artificial Intelligence to Support Economic Growth in the Long Run
-- 11/21 03:02 [financialjuice] Fed's Cook: Optimistic about what AI will do for the economy over time
-- 11/21 03:02 [DeItaone] $ANT - WILLIAM BLAIR SAYS ANTHROPIC AT $83 WOULD TRADE AT A DISCOUNT William Blair analysts, led by Arjun Bhatia, argue that Anthropic's $83 IPO price represents an attractive valuation as shares retreat toward that level. At $83, Anthropic…
-- 11/21 03:03 [financialjuice] Fed's Cook: Will take time for AI to raise productivity
-- 11/21 03:03 [financialjuice] Fed's Cook: Fed must deal with inflation we see already
-- 11/21 03:04 [FirstSquawk] Fed’s Cook Flags Risks Surrounding Funding for the Rapid Expansion of AI Infrastructure
-- 11/21 03:04 [financialjuice] Fed's Cook: Fed is cautious about how AI build-out is getting financed
-- 11/21 03:04 [FirstSquawk] Cook Signals Continued Fed Scrutiny of Financial Risks Linked to AI Expansion
-- 11/21 03:04 [financialjuice] Fed's Cook: Fed will monitor finances around AI buildout
-- 11/21 03:05 [financialjuice] Microsoft to reward those it views as top cloud performers $MSFT
-- 11/21 03:06 [DeItaone] S&P 500 EXTENDS FALL; LAST DOWN 2.3%
-- 11/21 03:06 [FirstSquawk] S&P 500 Decline Accelerates as Index Falls 2.3%
-- 11/21 03:07 [financialjuice] ECB's Moulin: The French must tackle too high debt and deficit
-- 11/21 03:08 [financialjuice] ECB's Moulin: Must take measures that reduce spending dynamics
-- 11/21 03:10 [financialjuice] ECB's Moulin: France is in a very different situation from the Greece crisis
-- 11/21 03:10 [FirstSquawk] France’s Banks Are Not Under Threat, ECB’s Moulin Says
-- 11/21 03:10 [financialjuice] ECB's Moulin: The banking sector is not at risk in France
-- 11/21 03:11 [financialjuice] ECB's Moulin: France is facing a budget crisis
-- 11/21 03:11 [financialjuice] US Secretary of State Rubio: President met with Canadian Prime Minister to discuss trade, progress was made
-- 11/21 03:12 [FirstSquawk] ECB’s Moulin Sees Strong Foundations Across France’s Banking and Insurance Industries
-- 11/21 03:12 [DeItaone] TRUMP SAYS DIDN'T HAVE ISSUE WITH VANCE STATEMENT ON IRAN WAR AND ELECTION
-- 11/21 03:12 [DeItaone] TRUMP: IRAN WAR DROVE UP OIL PRICES FAR LESS THAN I THOUGHT
-- 11/21 03:13 [DeItaone] TRUMP: CONSIDER PUTIN TO BE SOMEONE I HAVE VERY GOOD RELATIONSHIP WITH
-- 11/21 03:14 [FirstSquawk] Trump Describes Putin as Someone With Whom He Shares Strong Ties
-- 11/21 03:14 [DeItaone] TRUMP SAYS HE EXPECTED OIL TO REACH $300 A BARREL, NOW NEAR $80
-- 11/21 03:14 [FirstSquawk] ECB’s Moulin Calls Adoption of a Budget to Curb the Deficit Essential
-- 11/21 03:14 [DeItaone] TRUMP: PUTIN WOULD LOVE TO END THE WAR
-- 11/21 03:15 [DeItaone] TRUMP: THINK RUSSIA AND UKRAINE WAR IS GOING TO END
-- 11/21 03:16 [FirstSquawk] New York Fed Records $401 Million in Accepted Bids Against $401 Million Offered on November 20
-- 11/21 03:16 [FirstSquawk] Trump Says Both Sides Are Exploring a Comprehensive Arrangement With Beijing
-- 11/21 03:16 [FirstSquawk] Washington and Beijing Are Discussing a Wide-Ranging Deal, Trump Says
-- 11/21 03:17 [DeItaone/financialjuice] TRUMP: WE WANT ONLY OLDER CHIPS TO CHINA
-- 11/21 03:17 [DeItaone] TRUMP: NVIDIA'S HUANG MADE BAD DECISIONS BUT IS BRILLIANT PERSON
-- 11/21 03:17 [FirstSquawk] Trump Wants Restrictions Limiting China to Previous-Generation Semiconductors
-- 11/21 03:18 [DeItaone] TRUMP: WOULD LIKE TO SEE HUANG MAKE APOLOGY AND GO BACK
-- 11/21 03:19 [DeItaone] $NVDA - TRUMP: NVIDIA VERY IMPORTANT COMPANY TO US
-- 11/21 03:20 [DeItaone] TRUMP: DISCUSSED HUANG WITH XI
-- 11/21 03:20 [DeItaone] ARK COINDESK 20 CRYPTO ETF: FILES TO WITHDRAW S-1 REGISTRATION STATEMENT- SEC FILING
-- 11/21 03:20 [DeItaone] TRUMP SAYS OF NVIDIA `I THEY WERE SMART' THEY WOULD TAKE HUANG BACK
-- 11/21 03:21 [DeItaone] TRUMP ON OUTAGES: WHEN COMPANIES UPGRADE, BAD THINGS HAPPEN
-- 11/21 03:23 [DeItaone] TRUMP: WE HAVE AN OBSOLETE AIR TRAFFIC CONTROL SYSTEM, BUT IT IS SAFE
-- 11/21 03:26 [FirstSquawk] Trump Calls on Congress to Allocate Funds for Air Traffic Control Modernisation
-- 11/21 03:26 [financialjuice] Trump: Working on a deal with China regarding exports and chips
-- 11/21 03:26 [financialjuice] ECB's Moulin: Raising the retirement age in France to the level of other European countries would lower the deficit
-- 11/21 03:26 [DeItaone] TRUMP: FIRED CYBER CHIEF BECAUSE DIDN'T THINK HE WAS GOOD ENOUGH
-- 11/21 03:26 [financialjuice] Trump: Jensen Huang is brilliant, but made some bad decisions
-- 11/21 03:26 [financialjuice] Trump: Want Jensen to make an apology and go back
-- 11/21 03:26 [financialjuice] ECB's Moulin: Inflation is currently clearly too high
-- 11/21 03:26 [financialjuice] ECB's Moulin: inflation in France is too high, driven by energy
-- 11/21 03:26 [financialjuice] Trump: Nvidia is a very important company to the US $NVDA
-- 11/21 03:26 [financialjuice] Trump on Nvidia: If they were smart, they would take Huang back $NVDA
-- 11/21 03:26 [financialjuice] Trump, asked about outages: When firms upgrade, big things happen
-- 11/21 03:26 [financialjuice] Trump: All outages are separate events
-- 11/21 03:26 [FirstSquawk] Trump Explains Firing of Cybersecurity Chief, Saying He Fell Short of Expectations
-- 11/21 03:27 [DeItaone] TRUMP SAYS CYBER CHIEF OUT BECAUSE `I DIDN'T THINK THAT PERSON WAS GOOD ENOUGH'
-- 11/21 03:28 [FirstSquawk] Trump Says It Is Premature to Address Ukraine’s Security Guarantees Without an Agreement
-- 11/21 03:28 [DeItaone] TRUMP: DEMOCRATS IN NEW CONGRESS WILL SEND THINGS MY WAY AND I WILL VETO THEM
-- 11/21 03:29 [FirstSquawk] Trump Expects Democrats in the New Congress to Send Bills His Way, Pledging to Reject Them
-- 11/21 03:29 [financialjuice] Trump: Democrats in the new Congress will send things my way, and I will veto them
-- 11/21 03:30 [DeItaone] TRUMP: I'M OPEN TO GREAT HEALTHCARE
-- 11/21 03:32 [financialjuice] Fed's Paulson: Open to considering consecutive rate hikes
-- 11/21 03:34 [financialjuice] Fed's Paulson: She favors raising rates in a deliberate way
-- 11/21 03:34 [DeItaone/financialjuice] TRUMP ON REPORTED DIRTY BOMB THREAT: IF THERE IS, WE WILL FIND OUT ABOUT IT
-- 11/21 03:35 [FirstSquawk] Trump Says Authorities Will Determine Whether a Dirty Bomb Threat Exists
-- 11/21 03:36 [financialjuice] Fed's Paulson: Investors appear to understand Fed communications
-- 11/21 03:40 [FirstSquawk] Netherlands Judge Rules BYD’s Ti7 SUV Infringes on Defender’s Vehicle Design
-- 11/21 03:40 [FirstSquawk] Two Soldiers From El Salvador Die in Haiti Explosion While Working With Explosive Materials
-- 11/21 03:41 [DeItaone] US SENATOR TIM SCOTT SAYS FORMER NVIDIA CEO JENSEN HUANG WILL TESTIFY IN PUBLIC HEARING
-- 11/21 03:44 [financialjuice] US Senator Tim Scott: Former Nvidia CEO Jensen Huang will testify in a public hearing $NVDA
-- 11/21 03:45 [DeItaone/financialjuice] TRUMP: HAVE NOT LOST CONFIDENCE IN LUTNICK
-- 11/21 03:46 [financialjuice] Trump: Russia and China are no longer involved with Venezuela
-- 11/21 03:48 [FirstSquawk] Supporting the President Remains Vance’s Mission on the Iran War, He Says
-- 11/21 03:49 [DeItaone] *PAULSON SAYS SHE FAVORS RAISING RATES IN DELIBERATE WAY *PAULSON: INVESTORS APPEAR TO UNDERSTAND FED COMMUNICATIONS
-- 11/21 03:52 [FirstSquawk] US Watchdog Launches Review of FAA Monitoring Practices for Boeing and Other Aircraft Producers - MEMO
-- 11/21 03:52 [DeItaone] ALICE HUANG, THE WOMAN AT THE CENTER OF THE NVIDIA SCANDAL, HAS EXTENSIVE TIES THROUGH HER FAMILY AND ASSOCIATES TO CHINA’S DEFENSE INDUSTRY - NYT
-- 11/21 03:53 [FirstSquawk] NYT Report Highlights Alice Huang’s Extensive Network of Ties to China’s Military Industry
-- 11/21 03:53 [financialjuice] Alice Huang. The woman at the center of the Nvidia scandal. Has extensive ties through her family and associates to China's defense industry - NYT $NVDA
-- 11/21 03:55 [financialjuice] Trump concludes press conference at White House
-- 11/21 03:55 [DeItaone] $NVDA - SUSPECTED CHINESE SPY'S CHIP NETWORK LINKED TO MILITARY SUPPLIERS — NYT Alice Huang, a figure in the Nvidia scandal, has extensive family and business ties to Chinese defense contractors, according to The New York Times and intellig…
-- 11/21 03:56 [FirstSquawk] Anthropic Trims Losses After Rebounding From Early Afternoon Low, Trades 10% Lower at $87.25
-- 11/21 03:58 [financialjuice] US Envoy Witkoff and Kushner meet Qatari mediators to discuss Iran - Axios
-- 11/21 03:58 [DeItaone] U.S. AND QATAR HOLD TALKS TO REVIVE IRAN CEASEFIRE — AXIOS Trump envoys Steve Witkoff and Jared Kushner met senior Qatari officials in Berlin on Thursday to discuss restarting U.S.-Iran negotiations, Axios reports. Qatar is seeking to resto…
-- 11/21 03:59 [FirstSquawk] Witkoff and Kushner Met Qatar Officials in Berlin to Discuss Efforts to Broker US-Iran Dialogue, Axios Reports
-- 11/21 04:02 [FirstSquawk] Argentina Clears $50.75 Billion LNG Investment Project Under Major Investment Incentive Scheme
-- 11/21 04:03 [FirstSquawk] OpenAI Introduces MedChemBench for Medicinal Chemistry Research
-- 11/21 04:03 [FirstSquawk] OpenAI Introduces Benchmark to Measure AI Model Reasoning Across Medicinal Chemistry Research Tasks
-- 11/21 04:11 [DeItaone] $NVDA - US SECURITIES AND EXCHANGE COMMISSION PROBE INTO NVIDIA IS EXPLORING POTENTIAL ACCOUNTING ISSUES, SOURCES SAY
-- 11/21 04:11 [DeItaone] $NVDA - SEC INVESTIGATING NVIDIA OVER POTENTIAL ACCOUNTING ISSUES The U.S. Securities and Exchange Commission is examining Nvidia's accounting practices, Reuters reports, citing two people familiar with the confidential investigation. The p…
-- 11/21 04:13 [DeItaone] U.S. STOCKS EXTEND FALL, NASDAQ DOWN 4.01%
-- 11/21 04:14 [DeItaone] $NVDA - NVIDIA SHARES ADD TO LOSSES IN LATE AFTERNOON VOLUME PICKUP, LAST DOWN 9% BELOW $133
-- 11/21 04:15 [financialjuice] ❗ US Securities and Exchange Commission probe into NVIDIA is exploring potential accounting issues - Sources. $NVDA
-- 11/21 04:21 [DeItaone] $TTWO - GTA VI SHATTERS ENTERTAINMENT RECORDS WITH $3.79 BILLION IN DAY-ONE SALES Take-Two Interactive reports that Grand Theft Auto VI generated a record-breaking $3.79 billion in first-day retail sales, setting a new entertainment industr…
-- 11/21 04:21 [FirstSquawk] GTA VI Shatters Entertainment Industry Records With $3.79 Billion in Opening-Day Retail Sales
-- 11/21 04:24 [FirstSquawk] US Stock Market Weakness Continues as the Dow Jones Drops 1.00%
-- 11/21 04:25 [DeItaone] GTA VI BREAKS RECORDS WITH $3.79 BILLION IN DAY-ONE SALES Take-Two ($TTWO ) reports a historic launch, with 32.5 million pre-release units sold and a 99/100 Metacritic score. Prediction markets are turning more bullish: 🔸 30M units before 2…
-- 11/21 04:30 [DeItaone] U.S. STOCKS EXTEND FALL, S&P 500 DOWN 3.00 PCT
-- 11/21 04:31 [FirstSquawk] US Oil Prices Finish Higher, Adding 77 Cents to Settle at $83.98
-- 11/21 04:31 [financialjuice] NYMEX WTI Crude December futures settle at $83.98 a barrel, up 77 cents, 0.93%.
-- 11/21 04:31 [financialjuice] NYMEX Gasoline December futures settle at $2.5027 a gallon.
-- 11/21 04:31 [financialjuice] NYMEX Diesel December futures settle at $3.9216 a gallon.
-- 11/21 04:32 [financialjuice] NYMEX Natural Gas December futures settle at $3.4110/MMBtu.
-- 11/21 04:33 [DeItaone] BITCOIN FALLS 5.62% TO $58,048.61
-- 11/21 04:35 [financialjuice] ❗ Traders no longer fully price in a December Fed rate hike.
-- 11/21 04:36 [DeItaone] *TRADERS NO LONGER FULLY PRICE IN DECEMBER FED RATE HIKE
-- 11/21 04:37 [FirstSquawk] Dollar General Faces Expanded FTC Lawsuit as Ten More States Join Over Alleged Overcharging
-- 11/21 04:38 [FirstSquawk] Ford, Honda, Stellantis and VW Sue New Jersey Over Law Setting Dealer Payments for Warranty and Recall Repairs
-- 11/21 04:50 [FirstSquawk] Brent Crude Prices Finish Higher, Adding 59 Cents to Settle at $92.57
-- 11/21 04:50 [financialjuice] Brent Crude futures settle at $92.57/bbl, up 59 cents, 0.64%.
-- 11/21 05:07 [financialjuice] UKMTO: Reports of a tanker on an outbound transit of Hormuz got struck on the port bow by an unknown projectile.
-- 11/21 05:08 [financialjuice] Week Ahead: Economic Indicators 23rd – 27th November (US)
-- 11/21 05:11 [financialjuice] Anthropic IPO was said to draw about $115B-$120B of retail demand. $ANT
-- 11/21 05:15 [financialjuice] FinancialJuice 2.0 is open for beta testing 😍 😍 😍
-- 11/21 05:22 [FirstSquawk] Brazil’s Former President Bolsonaro Taken to Hospital Following Acute Abdominal Pain, His Son Reports
-- 11/21 05:22 [financialjuice] Hawkish officials in DC and Israel are urging Trump to hit Iran - FT.
-- 11/21 05:22 [FirstSquawk] Distribution Declared by Canadian Large Cap Leaders Split Corp.
-- 11/21 05:23 [financialjuice] Trump considering new Iran strikes as US military warns of strain on forces - FT
-- 11/21 05:24 [financialjuice] Monday FX Option Expiries
-- 11/21 05:34 [financialjuice] Nvidia server suppliers halt southeast Asia shipments - Nikkei. $NVDA
-- 11/21 05:35 [financialjuice] Trump hosts a reception at the White House - WATCH LIVE
-- 11/21 05:41 [DeItaone] CBOE VOLATILITY INDEX EXTENDS GAINS, TOUCHING HIGHEST LEVEL SINCE APRIL 2025, LAST UP 9.05 POINTS AT 37.49
-- 11/21 05:42 [DeItaone] U.S. STOCKS EXTEND LOSSES; NASDAQ LAST DOWN 5.3%
-- 11/21 05:42 [financialjuice] CFTC Positions in the Week of November 17th 2026
-- 11/21 05:44 [FirstSquawk] Trump Signals Major Tax Measures Against Companies Building Data Centres Beyond American Borders - FT
-- 11/21 05:45 [FirstSquawk] US Military Warns of Operational Pressure as Trump Considers Renewed Attacks on Iran - FT
-- 11/21 05:47 [financialjuice] Trump on Iran: We're being patient
-- 11/21 05:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: -2356.6 MLN NASDAQ 100: -1371.4 MLN DOW 30: -758.1 MLN MAG 7: -672.1 MLN $MACRO
-- 11/21 06:00 [DeItaone] NASDAQ UNOFFICIALLY CLOSES DOWN 1,259.03 POINTS, OR 5.27 PERCENT, AT 22,620.17
-- 11/21 06:01 [DeItaone] *NVIDIA SINKS 23% IN BIGGEST WEEKLY DECLINE SINCE OCTOBER 2008
-- 11/21 06:02 [FirstSquawk] Dow Jones Plunges 2.02% at the Close as Index Sheds Nearly 1,000 Points S&P 500 Suffers a 273.80-Point Drop, Settling at 6,902.03 Nasdaq Suffers Sharpest Losses, Dropping 5.27% to Settle at 22,620.17
-- 11/21 06:03 [DeItaone] UNOFFICIALLY, FOR THE WEEK, THE S&P 500 FELL 8.61%, THE NASDAQ DECLINED 10.02%, AND THE DOW FELL 8.02%
-- 11/21 06:05 [financialjuice] S&P 500, Dow Jones close in correction territory.
-- 11/21 06:09 [financialjuice] US: Targeting key “oil trustees” that the Iranian regime relies on.
-- 11/21 06:19 [financialjuice] S&P 500 Enters Correction as AI Selloff Sparks Global Market Rout – US Market Wrap
-- 11/21 06:22 [financialjuice] Oracle: OpenAI contract fully funded. $ORCL
-- 11/21 06:22 [financialjuice] Oracle still sees positive free cash flow in 2H FY2028. $ORCL
-- 11/21 06:26 [financialjuice] EU nears new trade power to block access to its single market.
-- 11/21 06:35 [financialjuice] Iran's Foreign Minister Araqchi tells an Iranian newspaper: Tehran still has hope in diplomacy to end the war with the US.
-- 11/21 06:35 [DeItaone] IRAN’S FOREIGN MINISTER ARAQCHI TELLS IRAN NEWSPAPER: TEHRAN STILL HAS HOPE IN DIPLOMACY TO END THE WAR WITH US
-- 11/21 06:36 [financialjuice] Iran’s Foreign Minister Araghchi: Exchange of messages via mediators still continues between Iran and the US.
-- 11/21 06:40 [financialjuice] Iran’s Foreign Minister Araghchi: Iran sees no need to change intermediaries in peace talks.
-- 11/21 06:46 [financialjuice] Iran’s Foreign Minister Araghchi: Iran's first demand is for Trump to explicitly state that he wants an agreement.
-- 11/21 06:47 [financialjuice] Iran’s Foreign Minister Araghchi: Iran's red lines include enriched uranium not leaving the country, but I believe a fair solution can be reached.
-- 11/21 06:48 [financialjuice] Iran’s Foreign Minister Araghchi: Two-day Hormuz plan is still on the table.
-- 11/21 06:49 [financialjuice] Iran’s Foreign Minister Araghchi: We need ‘confidence-building’ steps that US won’t resume strikes.
-- 11/21 07:26 [financialjuice] Agriculture department hacked: NBC News
-- 11/21 07:48 [DeItaone] AGRICULTURE DEPARTMENT BREACHED BY HACKERS -NBC NEWS
-- 11/21 07:51 [financialjuice] Databricks in early discussions to secure funding at $225 billion valuation: WSJ
-- 11/21 07:51 [financialjuice] Databricks in preliminary discussions to secure funding at $225 billion valuation: WSJ
-- 11/21 07:55 [financialjuice] Saudi civil defence issues warning over possible threat in Riyadh
-- 11/21 07:57 [financialjuice] Saudi civil defence issues warning of possible threat in As Sulayyil governorate
-- 11/21 08:03 [financialjuice] Saudi Arabia: danger has passed in Riyadh
-- 11/21 08:06 [financialjuice] Saudi civil defence: danger over in As Sulayyil governorate
-- 11/21 08:11 [financialjuice] Defense secretary Pete Hegseth imposes new limits on U.S.-Canada defense ties - Washington Post
-- 11/21 08:11 [financialjuice] Saudi civil defence issues another warning of potential risk in Riyadh
-- 11/21 08:14 [financialjuice] Huge boom heard in Riyadh: source witness
-- 11/21 08:23 [financialjuice] Saudi Arabia's civil defence: danger has passed in Riyadh
 - 11/21 08:42 [financialjuice] Saudi-led coalition: intercepts and destroys three ballistic missiles launched by Yemen's Houthis toward Riyadh
 - 11/21 09:47 [FirstSquawk] Nations Spar Over Fossil Fuels as COP31 Climate Negotiations Spill Into Overtime
 - 11/21 09:48 [FirstSquawk] Vietnam's FPT Software Rethinks Traditional Outsourcing Model Amid AI Disruption - NA
@@ -356,3 +49,98 @@
 - 11/21 11:37 [financialjuice] White House: Federal contractors must promptly inform White House and contracting agencies of any pending or upcoming congressional requests regarding contractors’ communications
 - 11/21 12:05 [DeItaone] FBI'S NATIONAL CRIME INFORMATION CENTER HACKED -CNN
 - 11/21 12:15 [DeItaone] FBI’S NATIONAL CRIME DATABASE REPORTEDLY HACKED IN MAJOR CYBERSECURITY BREACH — CNN The FBI is investigating a suspected cyberattack on its National Crime Information Center (NCIC), according to CNN, citing two sources familiar with the inv…
+- 11/21 12:46 [FirstSquawk] Goldman Sachs Private Credit Corp. retains Baa3 senior unsecured rating as Moody's maintains stable outlook
+- 11/21 12:46 [FirstSquawk] American Atomics outlines progress across uranium exploration, Colorado project development and reclamation initiatives
+- 11/21 12:47 [FirstSquawk] Databricks considers raising additional capital at a potential $225 billion valuation, according to WSJ
+- 11/21 12:47 [FirstSquawk] WSJ: Bankers explore potential Grubhub sale with Walmart, Target, Kroger and other retail giants
+- 11/21 12:50 [FirstSquawk] CMS plans a 10-year mandatory Medicare Advantage test beginning in calendar year 2029, with preparatory work starting June 8, 2027
+- 11/21 12:51 [FirstSquawk] Trump addresses multiple issues in an expansive press conference following China trip
+- 11/21 14:31 [FirstSquawk] Iran Wants Proof of US Sincerity in Negotiations Before Advancing Talks, Foreign Minister Araqchi Says.
+- 11/21 14:31 [FirstSquawk] UK’s Stable Outlook Reflects Moody’s Assessment That Economic and Fiscal Risks Are Largely Evenly Balanced.
+- 11/21 14:31 [FirstSquawk] UK’s “Baa1” Fiscal Strength Score Highlights Elevated Public Debt and Below-Peer Debt Affordability, Moody’s Says.
+- 11/21 14:31 [FirstSquawk] UK Debt Affordability Is Expected to Stabilize as Inflation Cools, but Interest Payments Will Continue to Weigh on Government Finances, Moody’s Says.
+- 11/21 14:34 [FirstSquawk] Better Hungary-EU relations have significantly eased governance-related downside risks, Moody's says
+- 11/21 14:35 [FirstSquawk] Iran's red lines include keeping enriched uranium within its borders, though Araqchi believes a fair solution is achievable
+- 11/21 14:35 [FirstSquawk] Araqchi calls on Trump to openly state his desire for an agreement as Iran's initial condition
+- 11/21 14:35 [FirstSquawk] Iran's Araqchi says it is common for Trump to change his stance daily and contradict his previous remarks
+- 11/21 14:36 [FirstSquawk] Araqchi says Iran wants a deal with Washington that guarantees there will be no further war
+- 11/21 14:37 [FirstSquawk] Iran is comfortable with the current intermediaries in peace talks and sees no need for replacements, Araqchi says
+- 11/21 14:37 [FirstSquawk] Moody's reaffirms Cyprus' A3 sovereign ratings with the outlook unchanged at stable
+- 11/21 14:38 [FirstSquawk] Portugal's stable outlook factors in the possibility of a quicker-than-anticipated decline in its government debt burden, Moody's says
+- 11/21 14:38 [FirstSquawk] Iran and the US maintain ongoing diplomatic communications through intermediaries, Araqchi says
+- 11/21 14:39 [FirstSquawk] Tehran has not abandoned hopes for a diplomatic solution to end the war with the US, Araqchi says
+- 11/21 14:41 [FirstSquawk] Washington demands formal written assurances that Tehran will permanently halt future uranium enrichment, Al Arabiya reports
+- 11/21 14:42 [FirstSquawk] Al Arabiya: Mediators have no assurances that military escalation will not resume
+- 11/21 14:42 [FirstSquawk] Iran refuses to move its stockpile of enriched uranium beyond its borders, Al Arabiya reports
+- 11/21 14:43 [FirstSquawk] European construction firms position themselves for a €620 billion defence infrastructure expansion - FT
+- 11/21 14:44 [FirstSquawk] UK youth jobs initiative worth £5.8 billion relies on uncertain projections, FT reports
+- 11/21 14:44 [FirstSquawk] Rising Iranian strikes disrupt oil shipments through the Strait of Hormuz, FT reports
+- 11/21 14:45 [FirstSquawk] FT: Scouts face mounting camping expenses as tourist tax liability reaches £1 million
+- 11/21 14:45 [FirstSquawk] FT: CVC challenges accounting practices in Advent's €3 billion pastry ingredients deal
+- 11/21 14:49 [FirstSquawk] US life insurance mortgage performance shows stability, with residential lending expanding, Fitch reports
+- 11/21 14:50 [FirstSquawk] Zambia faces some fiscal setbacks in 2026, with S&P expecting consolidation efforts to regain momentum over the medium term
+- 11/21 14:51 [FirstSquawk] Zambia faces significant agricultural and energy security challenges from El Niño, according to S&P
+- 11/21 14:51 [FirstSquawk] Uzbekistan's stronger fiscal and balance-of-payments positions drive S&P's rating upgrade
+- 11/21 14:51 [FirstSquawk] Middle East war poses risks to Uzbekistan mainly through rising energy and transportation costs, though S&P expects limited broader effects
+- 11/21 14:52 [FirstSquawk] S&P lifts Uzbekistan's rating to 'BB+' as fiscal performance and external position strengthen; outlook stable
+- 11/21 14:52 [FirstSquawk] Oracle's Abilene facility used to train Astra-6 is almost complete, with the Shackelford gigawatt-scale campus fully permitted
+- 11/21 14:53 [FirstSquawk] Kuwait's 'AA-/A-1+' credit ratings reaffirmed by S&P, outlook stable
+- 11/21 14:54 [FirstSquawk] S&P upgrades Zambia to 'B-/B', citing improved credit standing; outlook stable
+- 11/21 14:56 [FirstSquawk] UN member states agree to pursue talks on regulating so-called 'killer robots' by 2028 - NA
+- 11/21 15:34 [FirstSquawk] California entrepreneur says state avoided economic disaster with billionaire tax rejection
+- 11/21 15:35 [FirstSquawk] Iran should wait for Washington to meet seven conditions before resuming talks, Mojtaba Zolnouri, a lawmaker from Qom who heads parliament’s defense caucus, told Mehr news agency.
+- 11/21 15:35 [FirstSquawk] Zolnouri said Washington had accepted the conditions in earlier negotiations but failed to deliver. He said the Supreme Leader had authorized talks in principle, but any discussion of other issues should wait.
+- 11/21 15:35 [FirstSquawk] He criticized Iranian officials who cite the war and economic hardship as reasons to compromise, saying such remarks encourage Washington to demand more and offer less.
+- 11/21 15:35 [FirstSquawk] Russia's Foreign Minister Lavrov: I remember Biden's meeting with Putin. They had only one meeting, in June 2021, in Geneva.
+- 11/21 15:36 [FirstSquawk] Australian government says negotiations over its gas reservation proposals are continuing and it hopes the legislation will pass parliament
+- 11/21 15:37 [FirstSquawk] Tehran is weighing a tanker shipment that would test the US naval blockade. Washington is targeting payments for oil Iran has already sold. Nearly nine months into the war, Yemen’s Houthis are still firing missiles toward Riyadh.
+- 11/21 15:37 [FirstSquawk] Europe's cyber weak spot is the everyday businesses nobody thought to protect
+- 11/21 16:37 [FirstSquawk] MUSK SAYS FSD V15 GOES TO WIDE RELEASE NEXT MONTH
+- 11/21 16:37 [FirstSquawk] 4 KILLED, 35 INJURED IN IRAQ POWER PLANT FIRE: STATEMENT
+- 11/21 16:37 [FirstSquawk] FIRE BREAKS OUT AT AL-HARTHA THERMAL POWER STATION IN BASRA
+- 11/21 16:41 [financialjuice] UKMTO reports incident 11nm north of Oman's Khasab
+- 11/21 16:42 [financialjuice] Ukmto: tanker leaving strait of Hormuz struck on stern by unidentified projectile
+- 11/21 16:42 [financialjuice] UKMTO: no injuries reported, environmental impact unclear
+- 11/21 16:45 [FirstSquawk] UKMTO SAYS IT RECEIVED A REPORT OF AN INCIDENT 11NM NORTH OF OMAN'S KHASAB
+- 11/21 16:45 [FirstSquawk] UKMTO SAYS A TANKER TRANSITING OUTBOUND IN THE STRAIT OF HORMUZ HAS BEEN HIT ON THE STERN BY AN UNKNOWN PROJECTILE
+- 11/21 16:45 [FirstSquawk] UKMTO SAYS NO INJURIES REPORTED, ENVIRONMENTAL IMPACT UNKNOWN
+- 11/21 17:17 [financialjuice] Ukmto reports incident 17 nm east of Oman's Khasab
+- 11/21 17:46 [financialjuice] EU's Von Der Leyen: strongly condemn assassination attempt on US-Ukrainian citizen in Denmark by Russian intelligence services
+- 11/21 17:46 [financialjuice] EU's Von der Leyen: we stand in full solidarity with Denmark
+- 11/21 17:47 [financialjuice] EU's von der Leyen: Russia's hybrid threats are becoming more real, less hybrid; we have tools to respond
+- 11/21 17:47 [financialjuice] EU's Von der Leyen: soon we will present new European security plan to boost preparedness and deterrence
+- 11/21 17:48 [financialjuice] EU's Von der Leyen: if Russia aims to undermine support for Ukraine, it will have the opposite effect; our determination will strengthen
+- 11/21 17:53 [FirstSquawk] EU'S VON DER LEYEN SAYS STRONGLY CONDEMN ASSASSINATION ATTEMPT AGAINST A US-UKRAINIAN CITIZEN IN DENMARK, ORCHESTRATED BY RUSSIAN INTELLIGENCE SERVICES
+- 11/21 17:53 [FirstSquawk] EU'S VON DER LEYEN SAYS WE STAND IN FULL SOLIDARITY WITH DENMARK
+- 11/21 17:53 [FirstSquawk] EU'S VON DER LEYEN SAYS RUSSIA’S HYBRID THREATS ARE BECOMING LESS AND LESS HYBRID, AND MORE AND MORE REAL; WE HAVE THE TOOLS TO ACT
+- 11/21 17:53 [FirstSquawk] EU'S VON DER LEYEN SAYS SOON, WE WILL PROPOSE A NEW EUROPEAN SECURITY STRATEGY TO REINFORCE OUR PREPAREDNESS AND DETERRENCE
+- 11/21 17:53 [FirstSquawk] EU'S VON DER LEYEN SAYS IF RUSSIA INTENDS TO WEAKEN OUR SUPPORT FOR UKRAINE, IT WILL ACHIEVE THE EXACT OPPOSITE; OUR RESOLVE WILL ONLY GROW STRONGER
+- 11/21 18:31 [FirstSquawk] FoxBusiness - More than 51,000 children's and adult oral care products pulled from shelves nationwide over hormone contamination concerns
+- 11/21 18:33 [FirstSquawk] Oxford and MIT Walk Away From Miami Campus Opportunity, Sending Ken Griffin Elsewhere - WSJ
+- 11/21 18:46 [FirstSquawk] Wall Street’s $4 Trillion AI Wipeout Intensifies as Anthropic IPO Faces Turmoil - WSJ
+- 11/21 18:49 [FirstSquawk] A powerful 6.99-magnitude earthquake rattles the Banda Sea, GFZ says
+- 11/21 18:51 [FirstSquawk] EARTHQUAKE OF MAGNITUDE 6.99 STRIKES BANDA SEA - GFZ
+- 11/21 19:06 [financialjuice] Russia's Leningrad region governor: cargo ship bound for Kaliningrad hit by two drones in neutral waters
+- 11/21 19:07 [FirstSquawk] Russia Reports Drone Attack on Cargo Vessel Heading to Kaliningrad in International Waters
+- 11/21 19:08 [FirstSquawk] Lebanese media: A second Israeli airstrike targets "Kfar Tibnit" in southern Lebanon
+- 11/21 19:08 [FirstSquawk] Chinese tourists are travelling more frequently while tightening control over their expenses - SCMP
+- 11/21 19:10 [FirstSquawk] RUSSIA'S LENINGRAD REGION GOVERNOR SAYS CARGO VESSEL EN ROUTE TO KALININGRAD WAS ATTACKED BY TWO DRONES IN NEUTRAL WATERS
+- 11/21 19:13 [FirstSquawk] Iraq's Military Says All Security Forces in Jurf al-Sakhar Have Been Placed Under Unified Command
+- 11/21 19:16 [FirstSquawk] SOUTH KOREAN PRESIDENT LEE JAE MYUNG VISITS AI DATA CENTER CONSTRUCTION SITE IN ULSAN FOLLOWING CHINA AND PHILIPPINES TOUR - YONHAP
+- 11/21 19:20 [FirstSquawk] French Presidential Candidate Mélenchon Says Ukraine's Territorial Borders Are Non-Negotiable
+- 11/21 19:29 [FirstSquawk] UKMTO Confirms Two Reported Attacks on Tankers Near Khasab, Oman, on Saturday
+- 11/21 19:36 [FirstSquawk] TRUMP AND XI AGREE AGAINST FULLY AUTONOMOUS MILITARY AI DECISION-MAKING, BESSENT SAYS - SCMP
+- 11/21 19:40 [financialjuice] France calls latest EU budget proposal "very disappointing," not foundation for agreement – French presidency office
+- 11/21 19:40 [FirstSquawk] France Expresses Strong Disappointment With Latest EU Budget Proposal, Rules It Out as a Starting Point for a Deal
+- 11/21 19:52 [FirstSquawk] FRANCE FINDS LATEST EU BUDGET PROPOSAL “VERY DISAPPOINTING”, NOT BASIS FOR A DEAL - FRENCH PRESIDENCY’S OFFICE
+- 11/21 19:53 [FirstSquawk] China's Qinghai region hit by a 5.64-magnitude earthquake, according to GFZ
+- 11/21 19:57 [financialjuice] Iran navy: oil tanker catches fire after striking naval mine east of Strait of Hormuz - state TV
+- 11/21 19:57 [FirstSquawk] Oil Tanker Hit by Naval Mine East of Strait of Hormuz, Catches Fire, Iranian State TV Reports
+- 11/21 20:04 [financialjuice] Iran releases footage of new underground missile hub with double-launcher: state television
+- 11/21 20:11 [DeItaone] IRAN RELEASES VIDEO OF NEW UNDERGROUND 'MISSILE CITY' FEATURING DOUBLE-LAUNCHER - STATE TELEVISION
+- 11/21 20:17 [FirstSquawk] UN Talks Move Toward 2028 Framework for Regulating Autonomous Weapons Amid Russian Objections - SCMP
+- 11/21 20:18 [financialjuice] Finland border guard: russian cargo vessel ablaze in eastern Gulf of Finland
+- 11/21 20:18 [FirstSquawk] Russian Cargo Vessel Catches Fire in Eastern Gulf of Finland, Finnish Border Guard Says
+- 11/21 20:18 [financialjuice] Finland border guard: damaged ship has drifted from international waters into Finnish territory
+- 11/21 20:20 [FirstSquawk] Finland Reports Damaged Vessel Entering Its Territorial Waters After Drifting From International Waters
+- 11/21 20:23 [FirstSquawk] Northwestern China's Qinghai region hit by a 5.6-magnitude earthquake, according to Xinhua
