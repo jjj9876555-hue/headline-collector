@@ -7,53 +7,61 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-11-22 12:17 JST／対象: 11/22 06:17 〜 11/22 12:17 JST（時刻はすべて日本時間）
+生成: 2026-11-22 20:41 JST／対象: 11/22 14:41 〜 11/22 20:41 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 28 | 11/22 07:34 | 11/22 10:42 | ⚠ 138分（07:39→09:57） |
-| financialjuice | 5 | 11/22 06:28 | 11/22 10:26 | ⚠ 113分（07:19→09:13） |
+| FirstSquawk | 41 | 11/22 14:45 | 11/22 20:19 | ⚠ 106分（15:45→17:32） |
+| financialjuice | 0 | - | - | - |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 33 行（統合前 33 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 41 行（統合前 41 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/22 06:28 [financialjuice] Saudi-led coalition: intercepts and destroys missile launched by Yemen's Houthis toward western region
-- 11/22 07:17 [financialjuice] UK PM Burnham met Rob Jetten, prime minister of Netherlands, in Amsterdam: Downing Street spokesperson
-- 11/22 07:19 [financialjuice] Burnham, Netherlands PM Jetten committed to continue close cooperation to provide Ukraine support it needs: Downing Street spokesperson
-- 11/22 07:34 [FirstSquawk] Iran’s Fars news agency: An explosion was heard coming from the sea in the city of Sirik in the south of the country.
-- 11/22 07:34 [FirstSquawk] Yemeni government forces: We carried out 816 operations in the past 24 hours targeting Houthi militia positions and reinforcements.
-- 11/22 07:34 [FirstSquawk] Yemeni government forces: We thwarted attempts by the Houthi militia to advance and infiltrate Lahj, Dhale and Abyan, and repelled attacks in Taiz.
-- 11/22 07:34 [FirstSquawk] Settlers attack a Palestinian home that has been under siege for 48 days in Wadi al-Rakhim, south of Yatta in Hebron Governorate.
-- 11/22 07:35 [FirstSquawk] Bahrain’s Interior Ministry: Warning of a danger. We urge everyone to remain calm and head to the nearest safe location.
-- 11/22 07:35 [FirstSquawk] have taken control of the 3 main checkpoints in the Jurf area, and the operation is proceeding smoothly.
-- 11/22 07:35 [FirstSquawk] Head of Iraq’s Security Media Cell: Oil pipelines, main roads and key locations in the Jurf area have been secured.
-- 11/22 07:36 [FirstSquawk] Israel’s Yesh Atid party: Eisenkot has ordered marathon negotiations with Likud to begin tomorrow to reach a breakthrough on forming a government
-- 11/22 07:36 [FirstSquawk] Bahraini Interior Ministry: A civilian industrial facility was targeted and a fire broke out at the site as a result of the heinous Iranian aggression.
-- 11/22 07:38 [FirstSquawk] Bahrain’s Interior Ministry: Preliminary information indicates material damage with no injuries, and efforts are underway to bring the fire under control
-- 11/22 07:38 [FirstSquawk] Iran’s Revolutionary Guard: We targeted U.S. military sites at the Riffa and Al-Awali bases in Bahrain.
-- 11/22 07:38 [FirstSquawk] Iran’s Revolutionary Guard: Our operations were in response to the continued American aggression and violation of our airspace.
-- 11/22 07:38 [FirstSquawk] Bahrain’s Interior Ministry: A new warning of danger. We urge everyone to remain calm and head to the nearest safe location.
-- 11/22 07:39 [FirstSquawk] CBS, citing a U.S. official: Iran launched a new attack, but there were no casualties or damage to our forces or military assets in the region.
-- 11/22 09:13 [financialjuice] UK govt: UK joins 10 other nations in NATO starlift program to build network of adaptable satellite launch services
-- 11/22 09:57 [FirstSquawk] COP31 talks approach final deal as summit president signals progress in negotiations
-- 11/22 09:59 [FirstSquawk] Egyptian government confirms normal communication channels with Libyan army remain in place
-- 11/22 10:00 [FirstSquawk] Egypt reiterates support for Libya’s sovereignty, stability and national institutions
-- 11/22 10:01 [FirstSquawk] Sinaloa sees outbreak of violence following Mexican authorities’ capture of alleged cartel figure - FT
-- 11/22 10:04 [FirstSquawk] U.S. fossil fuel interests take the spotlight at COP in Trump’s absence – Politico
-- 11/22 10:05 [FirstSquawk] Australia takes issue with Congressional Budget Office's assessment of AUKUS
-- 11/22 10:05 [FirstSquawk] IRGC says it launched strikes against U.S. Patriot radar installations in Bahrain, while Manama reports damage from attacks on a civilian industrial site.
-- 11/22 10:06 [FirstSquawk] China’s push for gas-powered vehicles loses momentum in hydrogen-focused city – FT
-- 11/22 10:07 [FirstSquawk] Amazon moves closer to $7.5 billion takeover of AI startup Decart – FT
-- 11/22 10:23 [FirstSquawk] Trump seeks bipartisan support to cap credit card interest rates, reviving 2024 campaign pledge -CBS
-- 11/22 10:24 [FirstSquawk] Higher education has not translated into better opportunities for young people, with jobs and financial independence increasingly difficult to secure, UN report finds - Xinhua
-- 11/22 10:25 [FirstSquawk] India set new record with their highest Test total in New Zealand to take control in Wellington - RTRS
-- 11/22 10:26 [financialjuice] China commerce ministry: opposes US FCC vote to block Chinese telecoms from direct access to US phone numbers
-- 11/22 10:41 [FirstSquawk] EU flags prospect of climate talks ending without agreement at COP31
-- 11/22 10:42 [FirstSquawk] Nvidia affair puts Chinese spies in spotlight - RTRS
+- 11/22 14:45 [FirstSquawk] Participation in Hong Kong’s Election Committee race climbs to almost 90%, exceeding the previous election’s turnout - SCMP
+- 11/22 14:51 [FirstSquawk] Xi’s APEC remarks emphasise cooperation as countries navigate an evolving global landscape - FT
+- 11/22 14:53 [FirstSquawk] Argentina faces rising financing costs as Milei’s slipping approval ratings weigh on market confidence - FT
+- 11/22 14:53 [FirstSquawk] Burnham’s EU ambitions encounter political headwinds as Le Pen’s influence looms large - FT
+- 11/22 14:56 [FirstSquawk] Sudan’s military steps up its offensive as fighting intensifies around Khartoum - FT
+- 11/22 14:57 [FirstSquawk] Buyers face steep AI server cost increases as suppliers revise prices upward by as much as 45% after contract signings - FT
+- 11/22 14:57 [FirstSquawk] Largest investor signals confidence that Heathrow will proceed with its long-planned third runway - FT
+- 11/22 14:58 [FirstSquawk] Amazon’s AI ambitions encounter growing opposition from workers over proposed data centre developments - FT
+- 11/22 14:58 [FirstSquawk] Capital gains tax reduction needed to boost UK listings, says biotech pioneer.
+- 11/22 15:44 [FirstSquawk] Alice Huang was the public face of a business suspected of funneling advanced computing power to China. But playing a key role behind the scenes, according to people familiar with the matter, was a man now out on bail in Singapore.
+- 11/22 15:44 [FirstSquawk] Trump-class battleships add to US Navy's cost burden as Iran war stretches fleet
+- 11/22 15:44 [FirstSquawk] Athlete swims Strait of Hormuz to raise awareness of Iran war's toll on wildlife
+- 11/22 15:45 [FirstSquawk] Amazon founder Jeff Bezos' advice for Nvidia: Hire an insider
+- 11/22 15:45 [FirstSquawk] Australia’s spy chief said that data centers and artificial intelligence risk exposing the nation to foreign interference and malicious state actors, according to an interview in The Age Sunday
+- 11/22 15:45 [FirstSquawk] Britain's next fighter jet could be last with a pilot in the cockpit, says RAF chief
+- 11/22 17:32 [FirstSquawk] Pakistan's Climate Change Minister Musadik Malik switched from English to Urdu at the SCO Civilisational Dialogue Forum at Delhi's Purana Qila. "
+- 11/22 17:32 [FirstSquawk] Italian jeweller and businessman Paolo Bulgari dies aged 89
+- 11/22 17:33 [FirstSquawk] The ‘austere’ conservative poised to lead Spain with the far right
+- 11/22 17:33 [FirstSquawk] Trump-Kim summit bid failed over North Korean conditions: Wall Street Journal report
+- 11/22 18:27 [FirstSquawk] COP31 climate summit enters second day of overtime as efforts continue to avoid talks collapsing
+- 11/22 18:27 [FirstSquawk] United Arab Emirates Ministry of Foreign Affairs condemned the Islamic Republic’s renewed attack on Bahrain in the strongest terms and stressed its support for all measures taken by Bahrain to protect its security and stability.
+- 11/22 18:28 [FirstSquawk] Netherlands Foreign Minister Tom Berendsen arrives in Delhi for a two-day official visit .
+- 11/22 18:29 [FirstSquawk] commerce secretary has outlasted rivals despite the Nvidia scandal and scrutiny of his Wall Street firm.
+- 11/22 18:29 [FirstSquawk] Weekend markets update: #DAX 24714 +0.41% #DOW 48479 +0.30% #NASDAQ 25419 +0.75% #FTSE 10336 +0.45% #HANGSENG 22105 +0.62% #EURUSD 10968 +0.00% #GOLD 3549 +0.31% #SILVER 4125 +0.04% #USOIL 8401 +0.49%
+- 11/22 18:30 [FirstSquawk] Trump turned heads on the golf course Saturday with an outfit only he could pull off.
+- 11/22 19:08 [FirstSquawk] Syrian Defense: One soldier killed and two others injured while dismantling mines and clearing war remnants in the western countryside of Deir ez-Zor.
+- 11/22 19:08 [FirstSquawk] Iraqi Prime Minister: The government is moving forward with plans to extend state authority and enforce the law
+- 11/22 19:08 [FirstSquawk] Russian Defense Ministry: 792 Ukrainian drones were shot down over the past 24 hours.
+- 11/22 19:08 [FirstSquawk] Iraqi Prime Minister: We will continue to confront encroachments on national wealth.
+- 11/22 19:08 [FirstSquawk] Iraqi Interior Ministry spokesman Miqdad Miri: The security situation in Jurf al-Sakhar is stable.
+- 11/22 19:09 [FirstSquawk] Iraqi Interior Ministry spokesman: The handover in Jurf al-Sakhar is proceeding according to schedule.
+- 11/22 19:09 [FirstSquawk] Iraqi Interior Ministry spokesman: Army, police and Popular Mobilization Forces have taken up their duties in Jurf al-Sakhar.
+- 11/22 19:10 [FirstSquawk] Iraqi Interior Ministry spokesman: The army and federal police will be in the vicinity of Jurf al-Sakhar.
+- 11/22 20:18 [FirstSquawk] Iraqi Interior Ministry spokesman: The Jurf al-Sakhar center will be under the responsibility of the local police.
+- 11/22 20:18 [FirstSquawk] Iraqi Interior Ministry spokesman: Bringing life back to Jurf al-Sakhar will take time as part of a plan drawn up by the government.
+- 11/22 20:18 [FirstSquawk] SANA: A soldier was killed and two others were injured while clearing mines and unexploded ordnance in the town of Al-Turaif in the western countryside of Deir ez-Zor.
+- 11/22 20:19 [FirstSquawk] Syrian Internal Security forces seize a shipment of weapons intended for smuggling into Lebanon and arrest one of those involved in the Damascus countryside.
+- 11/22 20:19 [FirstSquawk] Iranian president: Remaining in a state of "neither war nor peace" is harmful.
+- 11/22 20:19 [FirstSquawk] Iranian president: It is necessary to move out of the “neither war nor peace” situation as soon as possible.
+- 11/22 20:19 [FirstSquawk] Qalibaf accuses the United States of exerting economic pressure on Iran to bring about a collapse from within.
+- 11/22 20:19 [FirstSquawk] Qalibaf: We have only one path: to ward off the threat and lift the shadow of war from ourselves.

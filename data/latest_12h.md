@@ -7,91 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-11-22 12:17 JST／対象: 11/22 00:17 〜 11/22 12:17 JST（時刻はすべて日本時間）
+生成: 2026-11-22 20:41 JST／対象: 11/22 08:41 〜 11/22 20:41 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 4 | 11/22 00:55 | 11/22 02:32 | ⚠ 95分（00:56→02:32） |
-| FirstSquawk | 51 | 11/22 00:22 | 11/22 10:42 | ⚠ 305分（02:28→07:34） |
-| financialjuice | 31 | 11/22 00:22 | 11/22 10:26 | ⚠ 113分（07:19→09:13） |
+| DeItaone | 0 | - | - | - |
+| FirstSquawk | 92 | 11/22 09:57 | 11/22 20:19 | ⚠ 182分（10:42→13:44） |
+| financialjuice | 2 | 11/22 09:13 | 11/22 10:26 | ⚠ 73分（09:13→10:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 84 行（統合前 86 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 94 行（統合前 94 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/22 00:22 [financialjuice] France calls for UN Security Council meeting to discuss enforcement of world court ruling on Myanmar: statement
-- 11/22 00:22 [FirstSquawk] France Pushes for Security Council Meeting to Discuss Compliance With World Court Ruling on Myanmar
-- 11/22 00:31 [financialjuice] Finland border guard: crew of Sparta II cargo ship evacuating into life raft and rescue boat
-- 11/22 00:36 [FirstSquawk] Finnish Border Guard: The crew of the Russian cargo ship damaged in an attack is being evacuated by rescue boats.
-- 11/22 00:55 [DeItaone] TRUMP ON LATEST REPORTED FBI HACK: JUST HEARD ABOUT IT, NOT GOOD -FOX INTERVIEW
-- 11/22 00:56 [DeItaone] TRUMP ON INCOMING DEMOCRATIC CONGRESS: COULD WORK TOGETHER ON CREDIT CARD RATES -FOX NEWS INTERVIEW
-- 11/22 00:56 [DeItaone] TRUMP ON IRAN: AM GOING TO MAKE A DEAL THAT IS PERMANENT -FOX NEWS INTERVIEW
-- 11/22 01:01 [financialjuice] Not difficult to reopen Strait of Hormuz if US agrees to Iran's reasonable conditions consistent with international law: Iranian foreign minister cited by Tasnim News
-- 11/22 01:03 [financialjuice] Finland border guard: strike on Russian vessel probably conducted by Ukraine
-- 11/22 01:07 [financialjuice] Finland defence force: strike on Russian ship probably conducted by Ukraine
-- 11/22 01:37 [FirstSquawk] Lebanese President: Lebanon faces a fateful test and is confronting Israeli occupation and interference by certain Iranian parties.
-- 11/22 01:37 [FirstSquawk] Lebanese President: We must not celebrate independence as if sovereignty were complete while our land is still under occupation.
-- 11/22 01:37 [FirstSquawk] Lebanese President: There is no alternative to Lebanon’s independence, and its only guarantee is its own state.
-- 11/22 01:53 [financialjuice/FirstSquawk] IAEA: one Ukrainian nuclear plant cuts output after two 330 kv power lines disconnected amid military activity
-- 11/22 01:54 [financialjuice/FirstSquawk] IAEA on Ukraine: one transmission line remains offline
-- 11/22 01:59 [FirstSquawk] Lebanese president: Completing our independence faces two obstacles: the Israeli occupation and foreign interference in our affairs.
-- 11/22 01:59 [FirstSquawk] Aoun says the essence of the national project is that there should be no weapons outside the state's control that take orders from abroad and serve foreign interests.
-- 11/22 01:59 [FirstSquawk] Lebanese president: We are facing a campaign by forces in Israel calling for the continued occupation of our land.
-- 11/22 01:59 [FirstSquawk] Aoun: We are facing a similar campaign from officials, stakeholders, and parties linked to Iranian interference in Lebanon’s affairs.
-- 11/22 01:59 [FirstSquawk] Lebanese president: The era of weapons outside state control is over.
-- 11/22 02:00 [FirstSquawk] Lebanese president: We want friendly relations and mutual respect with Iran, as with all other countries.
-- 11/22 02:00 [FirstSquawk] Lebanese president: Friendship between countries does not give one the right to interfere in another’s decisions.
-- 11/22 02:00 [FirstSquawk] Lebanese president: Lebanon will not be a bargaining chip in anyone’s settlement, for Lebanon is a homeland with a right to life, sovereignty, and peace.
-- 11/22 02:00 [FirstSquawk] Aoun: Lebanon’s security is guaranteed not by multiple armed groups and decisions, but by a single state, a single army, and a single legitimate authority.
-- 11/22 02:26 [FirstSquawk] Israeli army: We targeted 3 members of the military wing of the Islamic Jihad movement as they traveled in a vehicle in northern Gaza.
-- 11/22 02:27 [FirstSquawk] Hamas: Targeting a vehicle delivering food to a charity kitchen in Gaza is a new crime that confirms the continued targeting of civilians and humanitarian aid efforts.
-- 11/22 02:27 [FirstSquawk] Hamas: The occupation continues its policy of starvation and uses food and humanitarian aid as a tool to subjugate and brutalize the Palestinian people.
-- 11/22 02:27 [FirstSquawk] Hamas: We call on the mediators and guarantor parties to hold an urgent meeting to stop violations, protect civilians, and ensure the flow of aid into Gaza.
-- 11/22 02:28 [FirstSquawk] Leader of the Democrats in the U.S. House of Representatives: The most important step as the next Congress begins is passing a law to prevent settler violence in the West Bank.
-- 11/22 02:28 [FirstSquawk] Leader of the Democrats in the U.S. House of Representatives: We will discuss legislation related to the West Bank in the next Congress.
-- 11/22 02:28 [FirstSquawk] Leader of the Democrats in the U.S. House of Representatives: We will discuss legislation related to the West Bank and a halt to U.S. arms exports to the region.
-- 11/22 02:32 [DeItaone] BITCOIN REBOUNDS 8% AFTER PLUNGING TO TWO-YEAR LOW Bitcoin surged more than 8% on Saturday, recovering to approximately $59,952 after briefly reclaiming $60,000, according to Reuters. Earlier, the cryptocurrency plunged to $55,251.60, its l…
-- 11/22 02:46 [financialjuice] Explosion heard in Sirik on Iran's southern coast: cause unclear, possible warning shot or ship hitting mine - Fars News
-- 11/22 03:11 [financialjuice] Bahrain's interior ministry: warning of possible threat
-- 11/22 03:34 [financialjuice] Saudi-led coalition: intercepted and neutralized drone launched by Yemen's Houthis toward Riyadh region
-- 11/22 03:39 [financialjuice] Finland border guard: crew of damaged Russian cargo ship evacuated to another vessel, en route to Russia
-- 11/22 03:40 [financialjuice] Finland border guard: vessel remains ablaze with visible flames
-- 11/22 03:42 [financialjuice] Finland border guard: one Russian rescue ship involved in rescue efforts
-- 11/22 04:21 [financialjuice] Bahrain interior ministry: preliminary information points to material damage, no casualties
-- 11/22 04:22 [financialjuice] Bahrain civil defence working to contain fire: interior ministry
-- 11/22 04:33 [financialjuice] Iran's Revolutionary Guards say they struck two US bases in Bahrain, Fars News Agency reports citing its correspondent
-- 11/22 04:47 [financialjuice] Iran’s Revolutionary Guards attack two US bases in Bahrain: Fars News Agency reports citing its reporter
-- 11/22 05:02 [financialjuice] Kraken aware of issue with Cyber-Optimism funding gateway, deposits may face delays; other methods operating normally
-- 11/22 05:12 [financialjuice] Iran's Revolutionary Guards: attacked two US Patriot air defense radars at Bahrain bases - IRNA
-- 11/22 05:17 [financialjuice] Bahrain's interior ministry issues all-clear alert: post on X
-- 11/22 05:35 [financialjuice] Bahrain air defences intercept, destroy hostile Iranian aerial attacks over Bahrain: king's media adviser
-- 11/22 05:36 [financialjuice] Bahrain's interior ministry raises another warning on potential threat - post on X
-- 11/22 05:42 [financialjuice] Saudi civil defense issues warning of potential threat in Mecca region
-- 11/22 05:44 [financialjuice] Bahrain Defence Force: air defences intercepted multiple Iranian aerial assaults
-- 11/22 05:46 [financialjuice] Bahrain Defence Force: Shrapnel from air defense hits caused material damage, no casualties
-- 11/22 05:50 [financialjuice] Saudi civil defense: danger has passed in Mecca region
-- 11/22 06:28 [financialjuice] Saudi-led coalition: intercepts and destroys missile launched by Yemen's Houthis toward western region
-- 11/22 07:17 [financialjuice] UK PM Burnham met Rob Jetten, prime minister of Netherlands, in Amsterdam: Downing Street spokesperson
-- 11/22 07:19 [financialjuice] Burnham, Netherlands PM Jetten committed to continue close cooperation to provide Ukraine support it needs: Downing Street spokesperson
-- 11/22 07:34 [FirstSquawk] Iran’s Fars news agency: An explosion was heard coming from the sea in the city of Sirik in the south of the country.
-- 11/22 07:34 [FirstSquawk] Yemeni government forces: We carried out 816 operations in the past 24 hours targeting Houthi militia positions and reinforcements.
-- 11/22 07:34 [FirstSquawk] Yemeni government forces: We thwarted attempts by the Houthi militia to advance and infiltrate Lahj, Dhale and Abyan, and repelled attacks in Taiz.
-- 11/22 07:34 [FirstSquawk] Settlers attack a Palestinian home that has been under siege for 48 days in Wadi al-Rakhim, south of Yatta in Hebron Governorate.
-- 11/22 07:35 [FirstSquawk] Bahrain’s Interior Ministry: Warning of a danger. We urge everyone to remain calm and head to the nearest safe location.
-- 11/22 07:35 [FirstSquawk] have taken control of the 3 main checkpoints in the Jurf area, and the operation is proceeding smoothly.
-- 11/22 07:35 [FirstSquawk] Head of Iraq’s Security Media Cell: Oil pipelines, main roads and key locations in the Jurf area have been secured.
-- 11/22 07:36 [FirstSquawk] Israel’s Yesh Atid party: Eisenkot has ordered marathon negotiations with Likud to begin tomorrow to reach a breakthrough on forming a government
-- 11/22 07:36 [FirstSquawk] Bahraini Interior Ministry: A civilian industrial facility was targeted and a fire broke out at the site as a result of the heinous Iranian aggression.
-- 11/22 07:38 [FirstSquawk] Bahrain’s Interior Ministry: Preliminary information indicates material damage with no injuries, and efforts are underway to bring the fire under control
-- 11/22 07:38 [FirstSquawk] Iran’s Revolutionary Guard: We targeted U.S. military sites at the Riffa and Al-Awali bases in Bahrain.
-- 11/22 07:38 [FirstSquawk] Iran’s Revolutionary Guard: Our operations were in response to the continued American aggression and violation of our airspace.
-- 11/22 07:38 [FirstSquawk] Bahrain’s Interior Ministry: A new warning of danger. We urge everyone to remain calm and head to the nearest safe location.
-- 11/22 07:39 [FirstSquawk] CBS, citing a U.S. official: Iran launched a new attack, but there were no casualties or damage to our forces or military assets in the region.
 - 11/22 09:13 [financialjuice] UK govt: UK joins 10 other nations in NATO starlift program to build network of adaptable satellite launch services
 - 11/22 09:57 [FirstSquawk] COP31 talks approach final deal as summit president signals progress in negotiations
 - 11/22 09:59 [FirstSquawk] Egyptian government confirms normal communication channels with Libyan army remain in place
@@ -108,3 +40,81 @@
 - 11/22 10:26 [financialjuice] China commerce ministry: opposes US FCC vote to block Chinese telecoms from direct access to US phone numbers
 - 11/22 10:41 [FirstSquawk] EU flags prospect of climate talks ending without agreement at COP31
 - 11/22 10:42 [FirstSquawk] Nvidia affair puts Chinese spies in spotlight - RTRS
+- 11/22 13:44 [FirstSquawk] Kim Jong Un appears uninterested in engaging with Trump, despite North Korea’s continued nuclear expansion and growing capability to strike US cities such as Los Angeles and New York. Trump is struggling to get a response from Pyongyang. - …
+- 11/22 13:46 [FirstSquawk] China’s Commerce Ministry expresses opposition to the FCC’s decision barring Chinese telecom firms from direct access to US numbering resources.
+- 11/22 13:46 [FirstSquawk] Britain teams up with 10 NATO allies under the StarLift initiative to develop a flexible satellite launch-services network.
+- 11/22 13:47 [FirstSquawk] Trump administration reportedly considers Sara Brenner and Jeff Vacirca for top FDA positions, Bloomberg News reports.
+- 11/22 13:47 [FirstSquawk] Downing Street confirms UK PM Burnham held talks with Netherlands Prime Minister Rob Jetten in Amsterdam.
+- 11/22 13:48 [FirstSquawk] UK and Dutch leaders agree that sustained pressure on Russia is essential to bringing Putin to the negotiating table, Downing Street confirms.
+- 11/22 13:48 [FirstSquawk] Burnham and Jetten agree to strengthen bilateral cooperation to sustain support for Ukraine, Downing Street spokesperson confirms.
+- 11/22 13:49 [FirstSquawk] Oman Oil Marketing Company SAOG awarded a contract to provide fuel for government vehicles over the next two years.
+- 11/22 13:49 [FirstSquawk] The newly awarded Oman Oil Marketing contract carries a value of OMR 4 million and becomes effective once signed.
+- 11/22 13:49 [FirstSquawk] Oman Oil Marketing says the contract is expected to support revenue growth and improve profitability over its tenure.
+- 11/22 13:51 [FirstSquawk] Missile launched by Yemen’s Houthi forces towards western Saudi Arabia intercepted and neutralised a few hour ago, Saudi-led coalition says.
+- 11/22 13:51 [FirstSquawk] Debris from intercepted projectiles caused property damage in Bahrain, but no injuries or fatalities were reported, the Defence Force says.
+- 11/22 13:52 [FirstSquawk] Bahrain’s air defences successfully neutralised several incoming attacks originating from Iran a few hour ago , the Defence Force reports.
+- 11/22 13:52 [FirstSquawk] IRNA reports that Iran’s Revolutionary Guards announced attacks on two Patriot air defence radar systems deployed at US bases in Bahrain.
+- 11/22 13:53 [FirstSquawk] A disruption has been identified in Kraken’s Cyber-Optimism funding gateway, potentially delaying deposits, while other deposit methods continue to operate without issues.
+- 11/22 13:53 [FirstSquawk] Bahrain’s Interior Ministry confirms a fire broke out at a civilian industrial site following an Iranian attack.
+- 11/22 13:54 [FirstSquawk] Initial assessments indicate property damage in Bahrain, but no casualties have been reported, the Interior Ministry says.
+- 11/22 13:54 [FirstSquawk] Emergency crews in Bahrain are continuing efforts to bring the blaze under control, according to the Interior Ministry.
+- 11/22 14:02 [FirstSquawk] Chip-smuggling defendant has links to Jensen Huang’s romantic partner through past professional ties -WSJ
+- 11/22 14:07 [FirstSquawk] A Russian rescue vessel is currently on location, contributing to ongoing rescue operations, Finland’s Border Guard says.
+- 11/22 14:08 [FirstSquawk] The vessel remains ablaze as flames continue to be seen, according to Finland’s Border Guard.
+- 11/22 14:08 [FirstSquawk] All crew from the damaged Russian cargo ship have been moved to another Russian vessel and are already on their way to Russia, according to Finland’s Border Guard.
+- 11/22 14:09 [FirstSquawk] Arabian Drilling signs a SAR 1.5 billion agreement with KJO covering two offshore vessels.
+- 11/22 14:09 [FirstSquawk] Arabian Drilling’s contract with KJO предусматривает a 10-year commitment for the first offshore vessel and 15 years for the second.
+- 11/22 14:10 [FirstSquawk] Revenue and earnings contributions from the agreement are expected to begin once each vessel enters service, Arabian Drilling says.
+- 11/22 14:10 [FirstSquawk] MEDGULF confirms the award of a contract by a government body.
+- 11/22 14:11 [FirstSquawk] MEDGULF signs an agreement to provide healthcare insurance coverage to a government organisation’s employees and family dependents.
+- 11/22 14:12 [FirstSquawk] Ukrainian nuclear facility cuts electricity production following the loss of two 330 kV power connections, according to the IAEA.
+- 11/22 14:12 [FirstSquawk] Ukraine continues to face a power connection outage, with one transmission line yet to be restored, according to the IAEA.
+- 11/22 14:13 [FirstSquawk] Finnish Defence Forces believe Ukraine was likely responsible for the attack on the Russian ship.
+- 11/22 14:13 [FirstSquawk] Tehran says the Strait of Hormuz can be reopened easily if Washington agrees to Iran’s conditions, provided they comply with international law, according to Tasnim.
+- 11/22 14:22 [FirstSquawk] Ukraine Scrambles to Prevent Its Booming Defence Sector From Losing Momentum - WSJ
+- 11/22 14:29 [FirstSquawk] New Hong Kong-Chile Working Holiday Programme Expected to Launch During H1 2027 - SCMP
+- 11/22 14:32 [FirstSquawk] Max Verstappen wins the Las Vegas Grand Prix for Red Bull.
+- 11/22 14:37 [FirstSquawk] Oman Oil Marketing announces completion of its sale of Sultanate Energy Company
+- 11/22 14:37 [FirstSquawk] Oman Oil Marketing Company announces the sale of its 100% ownership interest in SECL, which operates in Tanzania.
+- 11/22 14:38 [FirstSquawk] Oman Oil Marketing confirms receipt of TZS 20 billion (around $7.50 million) as the total purchase consideration.
+- 11/22 14:45 [FirstSquawk] Participation in Hong Kong’s Election Committee race climbs to almost 90%, exceeding the previous election’s turnout - SCMP
+- 11/22 14:51 [FirstSquawk] Xi’s APEC remarks emphasise cooperation as countries navigate an evolving global landscape - FT
+- 11/22 14:53 [FirstSquawk] Argentina faces rising financing costs as Milei’s slipping approval ratings weigh on market confidence - FT
+- 11/22 14:53 [FirstSquawk] Burnham’s EU ambitions encounter political headwinds as Le Pen’s influence looms large - FT
+- 11/22 14:56 [FirstSquawk] Sudan’s military steps up its offensive as fighting intensifies around Khartoum - FT
+- 11/22 14:57 [FirstSquawk] Buyers face steep AI server cost increases as suppliers revise prices upward by as much as 45% after contract signings - FT
+- 11/22 14:57 [FirstSquawk] Largest investor signals confidence that Heathrow will proceed with its long-planned third runway - FT
+- 11/22 14:58 [FirstSquawk] Amazon’s AI ambitions encounter growing opposition from workers over proposed data centre developments - FT
+- 11/22 14:58 [FirstSquawk] Capital gains tax reduction needed to boost UK listings, says biotech pioneer.
+- 11/22 15:44 [FirstSquawk] Alice Huang was the public face of a business suspected of funneling advanced computing power to China. But playing a key role behind the scenes, according to people familiar with the matter, was a man now out on bail in Singapore.
+- 11/22 15:44 [FirstSquawk] Trump-class battleships add to US Navy's cost burden as Iran war stretches fleet
+- 11/22 15:44 [FirstSquawk] Athlete swims Strait of Hormuz to raise awareness of Iran war's toll on wildlife
+- 11/22 15:45 [FirstSquawk] Amazon founder Jeff Bezos' advice for Nvidia: Hire an insider
+- 11/22 15:45 [FirstSquawk] Australia’s spy chief said that data centers and artificial intelligence risk exposing the nation to foreign interference and malicious state actors, according to an interview in The Age Sunday
+- 11/22 15:45 [FirstSquawk] Britain's next fighter jet could be last with a pilot in the cockpit, says RAF chief
+- 11/22 17:32 [FirstSquawk] Pakistan's Climate Change Minister Musadik Malik switched from English to Urdu at the SCO Civilisational Dialogue Forum at Delhi's Purana Qila. "
+- 11/22 17:32 [FirstSquawk] Italian jeweller and businessman Paolo Bulgari dies aged 89
+- 11/22 17:33 [FirstSquawk] The ‘austere’ conservative poised to lead Spain with the far right
+- 11/22 17:33 [FirstSquawk] Trump-Kim summit bid failed over North Korean conditions: Wall Street Journal report
+- 11/22 18:27 [FirstSquawk] COP31 climate summit enters second day of overtime as efforts continue to avoid talks collapsing
+- 11/22 18:27 [FirstSquawk] United Arab Emirates Ministry of Foreign Affairs condemned the Islamic Republic’s renewed attack on Bahrain in the strongest terms and stressed its support for all measures taken by Bahrain to protect its security and stability.
+- 11/22 18:28 [FirstSquawk] Netherlands Foreign Minister Tom Berendsen arrives in Delhi for a two-day official visit .
+- 11/22 18:29 [FirstSquawk] commerce secretary has outlasted rivals despite the Nvidia scandal and scrutiny of his Wall Street firm.
+- 11/22 18:29 [FirstSquawk] Weekend markets update: #DAX 24714 +0.41% #DOW 48479 +0.30% #NASDAQ 25419 +0.75% #FTSE 10336 +0.45% #HANGSENG 22105 +0.62% #EURUSD 10968 +0.00% #GOLD 3549 +0.31% #SILVER 4125 +0.04% #USOIL 8401 +0.49%
+- 11/22 18:30 [FirstSquawk] Trump turned heads on the golf course Saturday with an outfit only he could pull off.
+- 11/22 19:08 [FirstSquawk] Syrian Defense: One soldier killed and two others injured while dismantling mines and clearing war remnants in the western countryside of Deir ez-Zor.
+- 11/22 19:08 [FirstSquawk] Iraqi Prime Minister: The government is moving forward with plans to extend state authority and enforce the law
+- 11/22 19:08 [FirstSquawk] Russian Defense Ministry: 792 Ukrainian drones were shot down over the past 24 hours.
+- 11/22 19:08 [FirstSquawk] Iraqi Prime Minister: We will continue to confront encroachments on national wealth.
+- 11/22 19:08 [FirstSquawk] Iraqi Interior Ministry spokesman Miqdad Miri: The security situation in Jurf al-Sakhar is stable.
+- 11/22 19:09 [FirstSquawk] Iraqi Interior Ministry spokesman: The handover in Jurf al-Sakhar is proceeding according to schedule.
+- 11/22 19:09 [FirstSquawk] Iraqi Interior Ministry spokesman: Army, police and Popular Mobilization Forces have taken up their duties in Jurf al-Sakhar.
+- 11/22 19:10 [FirstSquawk] Iraqi Interior Ministry spokesman: The army and federal police will be in the vicinity of Jurf al-Sakhar.
+- 11/22 20:18 [FirstSquawk] Iraqi Interior Ministry spokesman: The Jurf al-Sakhar center will be under the responsibility of the local police.
+- 11/22 20:18 [FirstSquawk] Iraqi Interior Ministry spokesman: Bringing life back to Jurf al-Sakhar will take time as part of a plan drawn up by the government.
+- 11/22 20:18 [FirstSquawk] SANA: A soldier was killed and two others were injured while clearing mines and unexploded ordnance in the town of Al-Turaif in the western countryside of Deir ez-Zor.
+- 11/22 20:19 [FirstSquawk] Syrian Internal Security forces seize a shipment of weapons intended for smuggling into Lebanon and arrest one of those involved in the Damascus countryside.
+- 11/22 20:19 [FirstSquawk] Iranian president: Remaining in a state of "neither war nor peace" is harmful.
+- 11/22 20:19 [FirstSquawk] Iranian president: It is necessary to move out of the “neither war nor peace” situation as soon as possible.
+- 11/22 20:19 [FirstSquawk] Qalibaf accuses the United States of exerting economic pressure on Iran to bring about a collapse from within.
+- 11/22 20:19 [FirstSquawk] Qalibaf: We have only one path: to ward off the threat and lift the shadow of war from ourselves.

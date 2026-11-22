@@ -7,118 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-11-22 12:17 JST／対象: 11/21 12:17 〜 11/22 12:17 JST（時刻はすべて日本時間）
+生成: 2026-11-22 20:41 JST／対象: 11/21 20:41 〜 11/22 20:41 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 6 | 11/21 20:11 | 11/22 02:32 | ⚠ 158分（20:11→22:50） |
-| FirstSquawk | 167 | 11/21 12:46 | 11/22 10:42 | ⚠ 305分（02:28→07:34） |
-| financialjuice | 62 | 11/21 16:41 | 11/22 10:26 | ⚠ 113分（07:19→09:13） |
+| DeItaone | 5 | 11/21 22:50 | 11/22 02:32 | ⚠ 125分（22:50→00:55） |
+| FirstSquawk | 166 | 11/21 20:41 | 11/22 20:19 | ⚠ 305分（02:28→07:34） |
+| financialjuice | 47 | 11/21 20:47 | 11/22 10:26 | ⚠ 113分（07:19→09:13） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 232 行（統合前 235 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 215 行（統合前 218 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/21 12:46 [FirstSquawk] Goldman Sachs Private Credit Corp. retains Baa3 senior unsecured rating as Moody's maintains stable outlook
-- 11/21 12:46 [FirstSquawk] American Atomics outlines progress across uranium exploration, Colorado project development and reclamation initiatives
-- 11/21 12:47 [FirstSquawk] Databricks considers raising additional capital at a potential $225 billion valuation, according to WSJ
-- 11/21 12:47 [FirstSquawk] WSJ: Bankers explore potential Grubhub sale with Walmart, Target, Kroger and other retail giants
-- 11/21 12:50 [FirstSquawk] CMS plans a 10-year mandatory Medicare Advantage test beginning in calendar year 2029, with preparatory work starting June 8, 2027
-- 11/21 12:51 [FirstSquawk] Trump addresses multiple issues in an expansive press conference following China trip
-- 11/21 14:31 [FirstSquawk] Iran Wants Proof of US Sincerity in Negotiations Before Advancing Talks, Foreign Minister Araqchi Says.
-- 11/21 14:31 [FirstSquawk] UK’s Stable Outlook Reflects Moody’s Assessment That Economic and Fiscal Risks Are Largely Evenly Balanced.
-- 11/21 14:31 [FirstSquawk] UK’s “Baa1” Fiscal Strength Score Highlights Elevated Public Debt and Below-Peer Debt Affordability, Moody’s Says.
-- 11/21 14:31 [FirstSquawk] UK Debt Affordability Is Expected to Stabilize as Inflation Cools, but Interest Payments Will Continue to Weigh on Government Finances, Moody’s Says.
-- 11/21 14:34 [FirstSquawk] Better Hungary-EU relations have significantly eased governance-related downside risks, Moody's says
-- 11/21 14:35 [FirstSquawk] Iran's red lines include keeping enriched uranium within its borders, though Araqchi believes a fair solution is achievable
-- 11/21 14:35 [FirstSquawk] Araqchi calls on Trump to openly state his desire for an agreement as Iran's initial condition
-- 11/21 14:35 [FirstSquawk] Iran's Araqchi says it is common for Trump to change his stance daily and contradict his previous remarks
-- 11/21 14:36 [FirstSquawk] Araqchi says Iran wants a deal with Washington that guarantees there will be no further war
-- 11/21 14:37 [FirstSquawk] Iran is comfortable with the current intermediaries in peace talks and sees no need for replacements, Araqchi says
-- 11/21 14:37 [FirstSquawk] Moody's reaffirms Cyprus' A3 sovereign ratings with the outlook unchanged at stable
-- 11/21 14:38 [FirstSquawk] Portugal's stable outlook factors in the possibility of a quicker-than-anticipated decline in its government debt burden, Moody's says
-- 11/21 14:38 [FirstSquawk] Iran and the US maintain ongoing diplomatic communications through intermediaries, Araqchi says
-- 11/21 14:39 [FirstSquawk] Tehran has not abandoned hopes for a diplomatic solution to end the war with the US, Araqchi says
-- 11/21 14:41 [FirstSquawk] Washington demands formal written assurances that Tehran will permanently halt future uranium enrichment, Al Arabiya reports
-- 11/21 14:42 [FirstSquawk] Al Arabiya: Mediators have no assurances that military escalation will not resume
-- 11/21 14:42 [FirstSquawk] Iran refuses to move its stockpile of enriched uranium beyond its borders, Al Arabiya reports
-- 11/21 14:43 [FirstSquawk] European construction firms position themselves for a €620 billion defence infrastructure expansion - FT
-- 11/21 14:44 [FirstSquawk] UK youth jobs initiative worth £5.8 billion relies on uncertain projections, FT reports
-- 11/21 14:44 [FirstSquawk] Rising Iranian strikes disrupt oil shipments through the Strait of Hormuz, FT reports
-- 11/21 14:45 [FirstSquawk] FT: Scouts face mounting camping expenses as tourist tax liability reaches £1 million
-- 11/21 14:45 [FirstSquawk] FT: CVC challenges accounting practices in Advent's €3 billion pastry ingredients deal
-- 11/21 14:49 [FirstSquawk] US life insurance mortgage performance shows stability, with residential lending expanding, Fitch reports
-- 11/21 14:50 [FirstSquawk] Zambia faces some fiscal setbacks in 2026, with S&P expecting consolidation efforts to regain momentum over the medium term
-- 11/21 14:51 [FirstSquawk] Zambia faces significant agricultural and energy security challenges from El Niño, according to S&P
-- 11/21 14:51 [FirstSquawk] Uzbekistan's stronger fiscal and balance-of-payments positions drive S&P's rating upgrade
-- 11/21 14:51 [FirstSquawk] Middle East war poses risks to Uzbekistan mainly through rising energy and transportation costs, though S&P expects limited broader effects
-- 11/21 14:52 [FirstSquawk] S&P lifts Uzbekistan's rating to 'BB+' as fiscal performance and external position strengthen; outlook stable
-- 11/21 14:52 [FirstSquawk] Oracle's Abilene facility used to train Astra-6 is almost complete, with the Shackelford gigawatt-scale campus fully permitted
-- 11/21 14:53 [FirstSquawk] Kuwait's 'AA-/A-1+' credit ratings reaffirmed by S&P, outlook stable
-- 11/21 14:54 [FirstSquawk] S&P upgrades Zambia to 'B-/B', citing improved credit standing; outlook stable
-- 11/21 14:56 [FirstSquawk] UN member states agree to pursue talks on regulating so-called 'killer robots' by 2028 - NA
-- 11/21 15:34 [FirstSquawk] California entrepreneur says state avoided economic disaster with billionaire tax rejection
-- 11/21 15:35 [FirstSquawk] Iran should wait for Washington to meet seven conditions before resuming talks, Mojtaba Zolnouri, a lawmaker from Qom who heads parliament’s defense caucus, told Mehr news agency.
-- 11/21 15:35 [FirstSquawk] Zolnouri said Washington had accepted the conditions in earlier negotiations but failed to deliver. He said the Supreme Leader had authorized talks in principle, but any discussion of other issues should wait.
-- 11/21 15:35 [FirstSquawk] He criticized Iranian officials who cite the war and economic hardship as reasons to compromise, saying such remarks encourage Washington to demand more and offer less.
-- 11/21 15:35 [FirstSquawk] Russia's Foreign Minister Lavrov: I remember Biden's meeting with Putin. They had only one meeting, in June 2021, in Geneva.
-- 11/21 15:36 [FirstSquawk] Australian government says negotiations over its gas reservation proposals are continuing and it hopes the legislation will pass parliament
-- 11/21 15:37 [FirstSquawk] Tehran is weighing a tanker shipment that would test the US naval blockade. Washington is targeting payments for oil Iran has already sold. Nearly nine months into the war, Yemen’s Houthis are still firing missiles toward Riyadh.
-- 11/21 15:37 [FirstSquawk] Europe's cyber weak spot is the everyday businesses nobody thought to protect
-- 11/21 16:37 [FirstSquawk] MUSK SAYS FSD V15 GOES TO WIDE RELEASE NEXT MONTH
-- 11/21 16:37 [FirstSquawk] 4 KILLED, 35 INJURED IN IRAQ POWER PLANT FIRE: STATEMENT
-- 11/21 16:37 [FirstSquawk] FIRE BREAKS OUT AT AL-HARTHA THERMAL POWER STATION IN BASRA
-- 11/21 16:41 [financialjuice] UKMTO reports incident 11nm north of Oman's Khasab
-- 11/21 16:42 [financialjuice] Ukmto: tanker leaving strait of Hormuz struck on stern by unidentified projectile
-- 11/21 16:42 [financialjuice] UKMTO: no injuries reported, environmental impact unclear
-- 11/21 16:45 [FirstSquawk] UKMTO SAYS IT RECEIVED A REPORT OF AN INCIDENT 11NM NORTH OF OMAN'S KHASAB
-- 11/21 16:45 [FirstSquawk] UKMTO SAYS A TANKER TRANSITING OUTBOUND IN THE STRAIT OF HORMUZ HAS BEEN HIT ON THE STERN BY AN UNKNOWN PROJECTILE
-- 11/21 16:45 [FirstSquawk] UKMTO SAYS NO INJURIES REPORTED, ENVIRONMENTAL IMPACT UNKNOWN
-- 11/21 17:17 [financialjuice] Ukmto reports incident 17 nm east of Oman's Khasab
-- 11/21 17:46 [financialjuice] EU's Von Der Leyen: strongly condemn assassination attempt on US-Ukrainian citizen in Denmark by Russian intelligence services
-- 11/21 17:46 [financialjuice] EU's Von der Leyen: we stand in full solidarity with Denmark
-- 11/21 17:47 [financialjuice] EU's von der Leyen: Russia's hybrid threats are becoming more real, less hybrid; we have tools to respond
-- 11/21 17:47 [financialjuice] EU's Von der Leyen: soon we will present new European security plan to boost preparedness and deterrence
-- 11/21 17:48 [financialjuice] EU's Von der Leyen: if Russia aims to undermine support for Ukraine, it will have the opposite effect; our determination will strengthen
-- 11/21 17:53 [FirstSquawk] EU'S VON DER LEYEN SAYS STRONGLY CONDEMN ASSASSINATION ATTEMPT AGAINST A US-UKRAINIAN CITIZEN IN DENMARK, ORCHESTRATED BY RUSSIAN INTELLIGENCE SERVICES
-- 11/21 17:53 [FirstSquawk] EU'S VON DER LEYEN SAYS WE STAND IN FULL SOLIDARITY WITH DENMARK
-- 11/21 17:53 [FirstSquawk] EU'S VON DER LEYEN SAYS RUSSIA’S HYBRID THREATS ARE BECOMING LESS AND LESS HYBRID, AND MORE AND MORE REAL; WE HAVE THE TOOLS TO ACT
-- 11/21 17:53 [FirstSquawk] EU'S VON DER LEYEN SAYS SOON, WE WILL PROPOSE A NEW EUROPEAN SECURITY STRATEGY TO REINFORCE OUR PREPAREDNESS AND DETERRENCE
-- 11/21 17:53 [FirstSquawk] EU'S VON DER LEYEN SAYS IF RUSSIA INTENDS TO WEAKEN OUR SUPPORT FOR UKRAINE, IT WILL ACHIEVE THE EXACT OPPOSITE; OUR RESOLVE WILL ONLY GROW STRONGER
-- 11/21 18:31 [FirstSquawk] FoxBusiness - More than 51,000 children's and adult oral care products pulled from shelves nationwide over hormone contamination concerns
-- 11/21 18:33 [FirstSquawk] Oxford and MIT Walk Away From Miami Campus Opportunity, Sending Ken Griffin Elsewhere - WSJ
-- 11/21 18:46 [FirstSquawk] Wall Street’s $4 Trillion AI Wipeout Intensifies as Anthropic IPO Faces Turmoil - WSJ
-- 11/21 18:49 [FirstSquawk] A powerful 6.99-magnitude earthquake rattles the Banda Sea, GFZ says
-- 11/21 18:51 [FirstSquawk] EARTHQUAKE OF MAGNITUDE 6.99 STRIKES BANDA SEA - GFZ
-- 11/21 19:06 [financialjuice] Russia's Leningrad region governor: cargo ship bound for Kaliningrad hit by two drones in neutral waters
-- 11/21 19:07 [FirstSquawk] Russia Reports Drone Attack on Cargo Vessel Heading to Kaliningrad in International Waters
-- 11/21 19:08 [FirstSquawk] Lebanese media: A second Israeli airstrike targets "Kfar Tibnit" in southern Lebanon
-- 11/21 19:08 [FirstSquawk] Chinese tourists are travelling more frequently while tightening control over their expenses - SCMP
-- 11/21 19:10 [FirstSquawk] RUSSIA'S LENINGRAD REGION GOVERNOR SAYS CARGO VESSEL EN ROUTE TO KALININGRAD WAS ATTACKED BY TWO DRONES IN NEUTRAL WATERS
-- 11/21 19:13 [FirstSquawk] Iraq's Military Says All Security Forces in Jurf al-Sakhar Have Been Placed Under Unified Command
-- 11/21 19:16 [FirstSquawk] SOUTH KOREAN PRESIDENT LEE JAE MYUNG VISITS AI DATA CENTER CONSTRUCTION SITE IN ULSAN FOLLOWING CHINA AND PHILIPPINES TOUR - YONHAP
-- 11/21 19:20 [FirstSquawk] French Presidential Candidate Mélenchon Says Ukraine's Territorial Borders Are Non-Negotiable
-- 11/21 19:29 [FirstSquawk] UKMTO Confirms Two Reported Attacks on Tankers Near Khasab, Oman, on Saturday
-- 11/21 19:36 [FirstSquawk] TRUMP AND XI AGREE AGAINST FULLY AUTONOMOUS MILITARY AI DECISION-MAKING, BESSENT SAYS - SCMP
-- 11/21 19:40 [financialjuice] France calls latest EU budget proposal "very disappointing," not foundation for agreement – French presidency office
-- 11/21 19:40 [FirstSquawk] France Expresses Strong Disappointment With Latest EU Budget Proposal, Rules It Out as a Starting Point for a Deal
-- 11/21 19:52 [FirstSquawk] FRANCE FINDS LATEST EU BUDGET PROPOSAL “VERY DISAPPOINTING”, NOT BASIS FOR A DEAL - FRENCH PRESIDENCY’S OFFICE
-- 11/21 19:53 [FirstSquawk] China's Qinghai region hit by a 5.64-magnitude earthquake, according to GFZ
-- 11/21 19:57 [financialjuice] Iran navy: oil tanker catches fire after striking naval mine east of Strait of Hormuz - state TV
-- 11/21 19:57 [FirstSquawk] Oil Tanker Hit by Naval Mine East of Strait of Hormuz, Catches Fire, Iranian State TV Reports
-- 11/21 20:04 [financialjuice] Iran releases footage of new underground missile hub with double-launcher: state television
-- 11/21 20:11 [DeItaone] IRAN RELEASES VIDEO OF NEW UNDERGROUND 'MISSILE CITY' FEATURING DOUBLE-LAUNCHER - STATE TELEVISION
-- 11/21 20:17 [FirstSquawk] UN Talks Move Toward 2028 Framework for Regulating Autonomous Weapons Amid Russian Objections - SCMP
-- 11/21 20:18 [financialjuice] Finland border guard: russian cargo vessel ablaze in eastern Gulf of Finland
-- 11/21 20:18 [FirstSquawk] Russian Cargo Vessel Catches Fire in Eastern Gulf of Finland, Finnish Border Guard Says
-- 11/21 20:18 [financialjuice] Finland border guard: damaged ship has drifted from international waters into Finnish territory
-- 11/21 20:20 [FirstSquawk] Finland Reports Damaged Vessel Entering Its Territorial Waters After Drifting From International Waters
-- 11/21 20:23 [FirstSquawk] Northwestern China's Qinghai region hit by a 5.6-magnitude earthquake, according to Xinhua
 - 11/21 20:41 [FirstSquawk] EU's Costa Brings Back Digital Tax Plan in Push to Secure Agreement on Bloc's Budget - FT
 - 11/21 20:47 [financialjuice] Zelenskiy: too early to tell if Ukraine will join Nato when war ends
 - 11/21 20:48 [FirstSquawk] ZELENSKIY: IT IS TOO EARLY TO SAY IF UKRAINE WILL BE IN NATO WHEN WAR ENDS
@@ -256,3 +161,81 @@
 - 11/22 10:26 [financialjuice] China commerce ministry: opposes US FCC vote to block Chinese telecoms from direct access to US phone numbers
 - 11/22 10:41 [FirstSquawk] EU flags prospect of climate talks ending without agreement at COP31
 - 11/22 10:42 [FirstSquawk] Nvidia affair puts Chinese spies in spotlight - RTRS
+- 11/22 13:44 [FirstSquawk] Kim Jong Un appears uninterested in engaging with Trump, despite North Korea’s continued nuclear expansion and growing capability to strike US cities such as Los Angeles and New York. Trump is struggling to get a response from Pyongyang. - …
+- 11/22 13:46 [FirstSquawk] China’s Commerce Ministry expresses opposition to the FCC’s decision barring Chinese telecom firms from direct access to US numbering resources.
+- 11/22 13:46 [FirstSquawk] Britain teams up with 10 NATO allies under the StarLift initiative to develop a flexible satellite launch-services network.
+- 11/22 13:47 [FirstSquawk] Trump administration reportedly considers Sara Brenner and Jeff Vacirca for top FDA positions, Bloomberg News reports.
+- 11/22 13:47 [FirstSquawk] Downing Street confirms UK PM Burnham held talks with Netherlands Prime Minister Rob Jetten in Amsterdam.
+- 11/22 13:48 [FirstSquawk] UK and Dutch leaders agree that sustained pressure on Russia is essential to bringing Putin to the negotiating table, Downing Street confirms.
+- 11/22 13:48 [FirstSquawk] Burnham and Jetten agree to strengthen bilateral cooperation to sustain support for Ukraine, Downing Street spokesperson confirms.
+- 11/22 13:49 [FirstSquawk] Oman Oil Marketing Company SAOG awarded a contract to provide fuel for government vehicles over the next two years.
+- 11/22 13:49 [FirstSquawk] The newly awarded Oman Oil Marketing contract carries a value of OMR 4 million and becomes effective once signed.
+- 11/22 13:49 [FirstSquawk] Oman Oil Marketing says the contract is expected to support revenue growth and improve profitability over its tenure.
+- 11/22 13:51 [FirstSquawk] Missile launched by Yemen’s Houthi forces towards western Saudi Arabia intercepted and neutralised a few hour ago, Saudi-led coalition says.
+- 11/22 13:51 [FirstSquawk] Debris from intercepted projectiles caused property damage in Bahrain, but no injuries or fatalities were reported, the Defence Force says.
+- 11/22 13:52 [FirstSquawk] Bahrain’s air defences successfully neutralised several incoming attacks originating from Iran a few hour ago , the Defence Force reports.
+- 11/22 13:52 [FirstSquawk] IRNA reports that Iran’s Revolutionary Guards announced attacks on two Patriot air defence radar systems deployed at US bases in Bahrain.
+- 11/22 13:53 [FirstSquawk] A disruption has been identified in Kraken’s Cyber-Optimism funding gateway, potentially delaying deposits, while other deposit methods continue to operate without issues.
+- 11/22 13:53 [FirstSquawk] Bahrain’s Interior Ministry confirms a fire broke out at a civilian industrial site following an Iranian attack.
+- 11/22 13:54 [FirstSquawk] Initial assessments indicate property damage in Bahrain, but no casualties have been reported, the Interior Ministry says.
+- 11/22 13:54 [FirstSquawk] Emergency crews in Bahrain are continuing efforts to bring the blaze under control, according to the Interior Ministry.
+- 11/22 14:02 [FirstSquawk] Chip-smuggling defendant has links to Jensen Huang’s romantic partner through past professional ties -WSJ
+- 11/22 14:07 [FirstSquawk] A Russian rescue vessel is currently on location, contributing to ongoing rescue operations, Finland’s Border Guard says.
+- 11/22 14:08 [FirstSquawk] The vessel remains ablaze as flames continue to be seen, according to Finland’s Border Guard.
+- 11/22 14:08 [FirstSquawk] All crew from the damaged Russian cargo ship have been moved to another Russian vessel and are already on their way to Russia, according to Finland’s Border Guard.
+- 11/22 14:09 [FirstSquawk] Arabian Drilling signs a SAR 1.5 billion agreement with KJO covering two offshore vessels.
+- 11/22 14:09 [FirstSquawk] Arabian Drilling’s contract with KJO предусматривает a 10-year commitment for the first offshore vessel and 15 years for the second.
+- 11/22 14:10 [FirstSquawk] Revenue and earnings contributions from the agreement are expected to begin once each vessel enters service, Arabian Drilling says.
+- 11/22 14:10 [FirstSquawk] MEDGULF confirms the award of a contract by a government body.
+- 11/22 14:11 [FirstSquawk] MEDGULF signs an agreement to provide healthcare insurance coverage to a government organisation’s employees and family dependents.
+- 11/22 14:12 [FirstSquawk] Ukrainian nuclear facility cuts electricity production following the loss of two 330 kV power connections, according to the IAEA.
+- 11/22 14:12 [FirstSquawk] Ukraine continues to face a power connection outage, with one transmission line yet to be restored, according to the IAEA.
+- 11/22 14:13 [FirstSquawk] Finnish Defence Forces believe Ukraine was likely responsible for the attack on the Russian ship.
+- 11/22 14:13 [FirstSquawk] Tehran says the Strait of Hormuz can be reopened easily if Washington agrees to Iran’s conditions, provided they comply with international law, according to Tasnim.
+- 11/22 14:22 [FirstSquawk] Ukraine Scrambles to Prevent Its Booming Defence Sector From Losing Momentum - WSJ
+- 11/22 14:29 [FirstSquawk] New Hong Kong-Chile Working Holiday Programme Expected to Launch During H1 2027 - SCMP
+- 11/22 14:32 [FirstSquawk] Max Verstappen wins the Las Vegas Grand Prix for Red Bull.
+- 11/22 14:37 [FirstSquawk] Oman Oil Marketing announces completion of its sale of Sultanate Energy Company
+- 11/22 14:37 [FirstSquawk] Oman Oil Marketing Company announces the sale of its 100% ownership interest in SECL, which operates in Tanzania.
+- 11/22 14:38 [FirstSquawk] Oman Oil Marketing confirms receipt of TZS 20 billion (around $7.50 million) as the total purchase consideration.
+- 11/22 14:45 [FirstSquawk] Participation in Hong Kong’s Election Committee race climbs to almost 90%, exceeding the previous election’s turnout - SCMP
+- 11/22 14:51 [FirstSquawk] Xi’s APEC remarks emphasise cooperation as countries navigate an evolving global landscape - FT
+- 11/22 14:53 [FirstSquawk] Argentina faces rising financing costs as Milei’s slipping approval ratings weigh on market confidence - FT
+- 11/22 14:53 [FirstSquawk] Burnham’s EU ambitions encounter political headwinds as Le Pen’s influence looms large - FT
+- 11/22 14:56 [FirstSquawk] Sudan’s military steps up its offensive as fighting intensifies around Khartoum - FT
+- 11/22 14:57 [FirstSquawk] Buyers face steep AI server cost increases as suppliers revise prices upward by as much as 45% after contract signings - FT
+- 11/22 14:57 [FirstSquawk] Largest investor signals confidence that Heathrow will proceed with its long-planned third runway - FT
+- 11/22 14:58 [FirstSquawk] Amazon’s AI ambitions encounter growing opposition from workers over proposed data centre developments - FT
+- 11/22 14:58 [FirstSquawk] Capital gains tax reduction needed to boost UK listings, says biotech pioneer.
+- 11/22 15:44 [FirstSquawk] Alice Huang was the public face of a business suspected of funneling advanced computing power to China. But playing a key role behind the scenes, according to people familiar with the matter, was a man now out on bail in Singapore.
+- 11/22 15:44 [FirstSquawk] Trump-class battleships add to US Navy's cost burden as Iran war stretches fleet
+- 11/22 15:44 [FirstSquawk] Athlete swims Strait of Hormuz to raise awareness of Iran war's toll on wildlife
+- 11/22 15:45 [FirstSquawk] Amazon founder Jeff Bezos' advice for Nvidia: Hire an insider
+- 11/22 15:45 [FirstSquawk] Australia’s spy chief said that data centers and artificial intelligence risk exposing the nation to foreign interference and malicious state actors, according to an interview in The Age Sunday
+- 11/22 15:45 [FirstSquawk] Britain's next fighter jet could be last with a pilot in the cockpit, says RAF chief
+- 11/22 17:32 [FirstSquawk] Pakistan's Climate Change Minister Musadik Malik switched from English to Urdu at the SCO Civilisational Dialogue Forum at Delhi's Purana Qila. "
+- 11/22 17:32 [FirstSquawk] Italian jeweller and businessman Paolo Bulgari dies aged 89
+- 11/22 17:33 [FirstSquawk] The ‘austere’ conservative poised to lead Spain with the far right
+- 11/22 17:33 [FirstSquawk] Trump-Kim summit bid failed over North Korean conditions: Wall Street Journal report
+- 11/22 18:27 [FirstSquawk] COP31 climate summit enters second day of overtime as efforts continue to avoid talks collapsing
+- 11/22 18:27 [FirstSquawk] United Arab Emirates Ministry of Foreign Affairs condemned the Islamic Republic’s renewed attack on Bahrain in the strongest terms and stressed its support for all measures taken by Bahrain to protect its security and stability.
+- 11/22 18:28 [FirstSquawk] Netherlands Foreign Minister Tom Berendsen arrives in Delhi for a two-day official visit .
+- 11/22 18:29 [FirstSquawk] commerce secretary has outlasted rivals despite the Nvidia scandal and scrutiny of his Wall Street firm.
+- 11/22 18:29 [FirstSquawk] Weekend markets update: #DAX 24714 +0.41% #DOW 48479 +0.30% #NASDAQ 25419 +0.75% #FTSE 10336 +0.45% #HANGSENG 22105 +0.62% #EURUSD 10968 +0.00% #GOLD 3549 +0.31% #SILVER 4125 +0.04% #USOIL 8401 +0.49%
+- 11/22 18:30 [FirstSquawk] Trump turned heads on the golf course Saturday with an outfit only he could pull off.
+- 11/22 19:08 [FirstSquawk] Syrian Defense: One soldier killed and two others injured while dismantling mines and clearing war remnants in the western countryside of Deir ez-Zor.
+- 11/22 19:08 [FirstSquawk] Iraqi Prime Minister: The government is moving forward with plans to extend state authority and enforce the law
+- 11/22 19:08 [FirstSquawk] Russian Defense Ministry: 792 Ukrainian drones were shot down over the past 24 hours.
+- 11/22 19:08 [FirstSquawk] Iraqi Prime Minister: We will continue to confront encroachments on national wealth.
+- 11/22 19:08 [FirstSquawk] Iraqi Interior Ministry spokesman Miqdad Miri: The security situation in Jurf al-Sakhar is stable.
+- 11/22 19:09 [FirstSquawk] Iraqi Interior Ministry spokesman: The handover in Jurf al-Sakhar is proceeding according to schedule.
+- 11/22 19:09 [FirstSquawk] Iraqi Interior Ministry spokesman: Army, police and Popular Mobilization Forces have taken up their duties in Jurf al-Sakhar.
+- 11/22 19:10 [FirstSquawk] Iraqi Interior Ministry spokesman: The army and federal police will be in the vicinity of Jurf al-Sakhar.
+- 11/22 20:18 [FirstSquawk] Iraqi Interior Ministry spokesman: The Jurf al-Sakhar center will be under the responsibility of the local police.
+- 11/22 20:18 [FirstSquawk] Iraqi Interior Ministry spokesman: Bringing life back to Jurf al-Sakhar will take time as part of a plan drawn up by the government.
+- 11/22 20:18 [FirstSquawk] SANA: A soldier was killed and two others were injured while clearing mines and unexploded ordnance in the town of Al-Turaif in the western countryside of Deir ez-Zor.
+- 11/22 20:19 [FirstSquawk] Syrian Internal Security forces seize a shipment of weapons intended for smuggling into Lebanon and arrest one of those involved in the Damascus countryside.
+- 11/22 20:19 [FirstSquawk] Iranian president: Remaining in a state of "neither war nor peace" is harmful.
+- 11/22 20:19 [FirstSquawk] Iranian president: It is necessary to move out of the “neither war nor peace” situation as soon as possible.
+- 11/22 20:19 [FirstSquawk] Qalibaf accuses the United States of exerting economic pressure on Iran to bring about a collapse from within.
+- 11/22 20:19 [FirstSquawk] Qalibaf: We have only one path: to ward off the threat and lift the shadow of war from ourselves.
