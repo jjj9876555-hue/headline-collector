@@ -7,112 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-11-22 20:41 JST／対象: 11/21 20:41 〜 11/22 20:41 JST（時刻はすべて日本時間）
+生成: 2026-11-23 03:39 JST／対象: 11/22 03:39 〜 11/23 03:39 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 5 | 11/21 22:50 | 11/22 02:32 | ⚠ 125分（22:50→00:55） |
-| FirstSquawk | 166 | 11/21 20:41 | 11/22 20:19 | ⚠ 305分（02:28→07:34） |
-| financialjuice | 47 | 11/21 20:47 | 11/22 10:26 | ⚠ 113分（07:19→09:13） |
+| DeItaone | 2 | 11/22 22:50 | 11/22 22:55 | 4分（22:50→22:55） |
+| FirstSquawk | 153 | 11/22 07:34 | 11/23 03:15 | ⚠ 182分（10:42→13:44） |
+| financialjuice | 35 | 11/22 03:40 | 11/23 02:45 | ⚠ 687分（10:26→21:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 215 行（統合前 218 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 181 行（統合前 190 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/21 20:41 [FirstSquawk] EU's Costa Brings Back Digital Tax Plan in Push to Secure Agreement on Bloc's Budget - FT
-- 11/21 20:47 [financialjuice] Zelenskiy: too early to tell if Ukraine will join Nato when war ends
-- 11/21 20:48 [FirstSquawk] ZELENSKIY: IT IS TOO EARLY TO SAY IF UKRAINE WILL BE IN NATO WHEN WAR ENDS
-- 11/21 20:51 [FirstSquawk] Zelenskiy Says No Decision Has Been Made on Ukraine Joining NATO Once the War Ends
-- 11/21 20:56 [financialjuice/FirstSquawk] Zelenskiy: China summit was very unsuccessful for Russia
-- 11/21 21:00 [FirstSquawk] Brussels Considers Taxing Big Tech Companies to Generate Additional Revenue for EU Budget - SCMP
-- 11/21 21:19 [financialjuice] White House reduces special status allowing staffers to remain in private sector - WSJ
-- 11/21 21:21 [FirstSquawk] France Expresses Strong Disappointment Over the European Union's Latest Budget Proposal
-- 11/21 21:40 [FirstSquawk] US Copper Flows to China Resume as Concerns Over Trump Tariffs Ease - FT
-- 11/21 22:00 [financialjuice] Saudi civil defense issues warning of possible threat for Jazan
-- 11/21 22:05 [financialjuice] Saudi civil defense: danger has passed in Jazan
-- 11/21 22:14 [FirstSquawk] Finnish Border Guard: A Russian cargo ship is on fire in the eastern part of the Gulf of Finland
-- 11/21 22:14 [FirstSquawk] U.S. Central Command: Our forces have continued to enforce the naval blockade on Iran with a high degree of professionalism for 130 days.
-- 11/21 22:14 [FirstSquawk] Saudi Civil Defense: Early warning sirens activated in the Jazan region to warn of danger
-- 11/21 22:14 [FirstSquawk] Beijing Maps Out Space Mining Ambitions, Plans Major Moon Mission Within Four Years - SCMP
-- 11/21 22:15 [FirstSquawk] Gaza’s Ministry of Public Works and Housing: 350,000 families left homeless as winter approaches after 80% of the enclave’s buildings were destroyed
-- 11/21 22:21 [FirstSquawk] Singapore Shipping Corporation Seeks to Acquire Two Newbuilding Vessels for Car and Truck Transportation
-- 11/21 22:29 [financialjuice] Iran’s army: its air defence missile damaged US F-16 fighter jet over Gulf, forcing emergency landing - state media
-- 11/21 22:29 [financialjuice] No immediate US confirmation of Iranian assertion that F-16 was damaged over Gulf
-- 11/21 22:29 [FirstSquawk] US F-16 Forced to Make Emergency Landing After Alleged Iranian Missile Strike Over the Gulf, State Media Reports
-- 11/21 22:30 [FirstSquawk] ranian Claim of US F-16 Damage Over the Gulf Remains Unverified by Washington
-- 11/21 22:43 [FirstSquawk] Iranian military: We launched an air defense missile that damaged a U.S. F-16 fighter jet over the waters of the Gulf yesterday.
-- 11/21 22:43 [FirstSquawk] Iranian military: The targeted U.S. fighter jet made an emergency landing at a nearby airport in the area.
-- 11/21 22:43 [FirstSquawk] Iranian Claim of US F-16 Damage Over the Gulf Remains Unverified by Washington
-- 11/21 22:44 [FirstSquawk] CBS, citing a U.S. military official: Our fighter jets bombed an Iranian missile site on Qeshm Island last Tuesday
-- 11/21 22:50 [DeItaone] IRAN'S ARMY SAYS ITS AIR DEFENCE MISSILE CAUSED DAMAGE TO US F-16 FIGHTER JET OVER GULF, FORCING EMERGENCY LANDING - STATE MEDIA
-- 11/21 22:52 [FirstSquawk] US Ports Avoid Potential Strike After Tentative Deal Is Reached - WSJ
-- 11/21 22:57 [financialjuice] Finland border guard: cargo ship Sparta II linked to Russian military
-- 11/21 22:58 [FirstSquawk] Finnish Ministry of Defence: Suspected violation of our airspace by a Russian helicopter
-- 11/21 22:58 [FirstSquawk] Finnish Defense Ministry: The Russian helicopter’s entry may be linked to a surveillance or rescue operation for the targeted ship in the Gulf of Finland.
-- 11/21 22:58 [FirstSquawk] Governor of Russia’s Leningrad Region: A Russian rescue vessel is reaching the targeted cargo ship in international waters in the Gulf of Finland
-- 11/21 22:58 [FirstSquawk] Governor of Russia’s Leningrad region: The situation aboard the targeted ship is under control, and efforts are underway to resume its voyage to Kaliningrad.
-- 11/21 22:58 [financialjuice] Finland border guard: no confirmed details on Sparta II cargo but military materiel cannot be excluded
-- 11/21 23:10 [FirstSquawk] Sparta II Cargo Ship Reportedly Linked to Russian Armed Forces, Finnish Border Guard Says
-- 11/21 23:10 [FirstSquawk] Finland Says Potential Presence of Military Equipment on Sparta II Cannot Be Excluded Despite Lack of Cargo Information
-- 11/21 23:13 [FirstSquawk] Finnish Border Guard: The cargo ship targeted in international waters in the Gulf of Finland is known to have ties to the Russian armed forces.
-- 11/21 23:13 [FirstSquawk] Iran’s Revolutionary Guard: We shot down an enemy reconnaissance drone off the coast of Bushehr province in the south of the country.
-- 11/21 23:16 [financialjuice] Iranian deputy foreign minister Gharibabadi: Gatari team visited Tehran last night for two-hour talks - Tasnim news agency
-- 11/21 23:19 [FirstSquawk] Qatari Team Visited Tehran and Conducted Two Hours of Discussions, Iran's Gharibabadi Says
-- 11/21 23:22 [FirstSquawk] Iraqi judiciary takes legal action against suspects in an oil smuggling case in Najaf.
-- 11/21 23:40 [financialjuice] Mehr citing Iranian deputy foreign minister Gharibabad: US-imposed economic blockade an act of war, Iran will take necessary action to break it
-- 11/21 23:45 [financialjuice] Mehr citing Iranian deputy foreign minister Gharibabadi: US-imposed economic blockade an act of war, Iran will take necessary action to break it
-- 11/21 23:47 [financialjuice] US Centcom: Iran did not strike a U.S. F-16 fighter jet yesterday
-- 11/22 00:09 [FirstSquawk] Trump on FBI Hack Report: Says He Was Just Informed and Calls Situation "Not Good"
-- 11/22 00:09 [financialjuice] Trump on incoming Democratic Congress: could collaborate on credit card rates - Fox News interview
-- 11/22 00:09 [FirstSquawk] Trump Signals Cooperation With Democrats on Credit Card Rate Issue, Fox News Interview
-- 11/22 00:09 [financialjuice] Trump on Iran: I'm going to broker a lasting deal - Fox News interview
-- 11/22 00:09 [FirstSquawk] Trump: I Am Going to Reach a Permanent Deal With Iran, Fox Interview
-- 11/22 00:10 [FirstSquawk] CENTCOM: Iran Did Not Strike US F-16 Aircraft on Thursday
-- 11/22 00:10 [FirstSquawk] Iran Warns It Will Take Whatever Action Necessary to Break US Economic Blockade, Deputy Foreign Minister Says
-- 11/22 00:13 [FirstSquawk] Bitcoin Ends Higher by 2.20% at $60,225.76
-- 11/22 00:13 [financialjuice] Bitcoin rises 2.20% to $60,225.76
-- 11/22 00:15 [FirstSquawk] White House Rolls Back Special Provision Allowing Employees to Retain Private-Sector Jobs - WSJ
-- 11/22 00:22 [financialjuice] France calls for UN Security Council meeting to discuss enforcement of world court ruling on Myanmar: statement
-- 11/22 00:22 [FirstSquawk] France Pushes for Security Council Meeting to Discuss Compliance With World Court Ruling on Myanmar
-- 11/22 00:31 [financialjuice] Finland border guard: crew of Sparta II cargo ship evacuating into life raft and rescue boat
-- 11/22 00:36 [FirstSquawk] Finnish Border Guard: The crew of the Russian cargo ship damaged in an attack is being evacuated by rescue boats.
-- 11/22 00:55 [DeItaone] TRUMP ON LATEST REPORTED FBI HACK: JUST HEARD ABOUT IT, NOT GOOD -FOX INTERVIEW
-- 11/22 00:56 [DeItaone] TRUMP ON INCOMING DEMOCRATIC CONGRESS: COULD WORK TOGETHER ON CREDIT CARD RATES -FOX NEWS INTERVIEW
-- 11/22 00:56 [DeItaone] TRUMP ON IRAN: AM GOING TO MAKE A DEAL THAT IS PERMANENT -FOX NEWS INTERVIEW
-- 11/22 01:01 [financialjuice] Not difficult to reopen Strait of Hormuz if US agrees to Iran's reasonable conditions consistent with international law: Iranian foreign minister cited by Tasnim News
-- 11/22 01:03 [financialjuice] Finland border guard: strike on Russian vessel probably conducted by Ukraine
-- 11/22 01:07 [financialjuice] Finland defence force: strike on Russian ship probably conducted by Ukraine
-- 11/22 01:37 [FirstSquawk] Lebanese President: Lebanon faces a fateful test and is confronting Israeli occupation and interference by certain Iranian parties.
-- 11/22 01:37 [FirstSquawk] Lebanese President: We must not celebrate independence as if sovereignty were complete while our land is still under occupation.
-- 11/22 01:37 [FirstSquawk] Lebanese President: There is no alternative to Lebanon’s independence, and its only guarantee is its own state.
-- 11/22 01:53 [financialjuice/FirstSquawk] IAEA: one Ukrainian nuclear plant cuts output after two 330 kv power lines disconnected amid military activity
-- 11/22 01:54 [financialjuice/FirstSquawk] IAEA on Ukraine: one transmission line remains offline
-- 11/22 01:59 [FirstSquawk] Lebanese president: Completing our independence faces two obstacles: the Israeli occupation and foreign interference in our affairs.
-- 11/22 01:59 [FirstSquawk] Aoun says the essence of the national project is that there should be no weapons outside the state's control that take orders from abroad and serve foreign interests.
-- 11/22 01:59 [FirstSquawk] Lebanese president: We are facing a campaign by forces in Israel calling for the continued occupation of our land.
-- 11/22 01:59 [FirstSquawk] Aoun: We are facing a similar campaign from officials, stakeholders, and parties linked to Iranian interference in Lebanon’s affairs.
-- 11/22 01:59 [FirstSquawk] Lebanese president: The era of weapons outside state control is over.
-- 11/22 02:00 [FirstSquawk] Lebanese president: We want friendly relations and mutual respect with Iran, as with all other countries.
-- 11/22 02:00 [FirstSquawk] Lebanese president: Friendship between countries does not give one the right to interfere in another’s decisions.
-- 11/22 02:00 [FirstSquawk] Lebanese president: Lebanon will not be a bargaining chip in anyone’s settlement, for Lebanon is a homeland with a right to life, sovereignty, and peace.
-- 11/22 02:00 [FirstSquawk] Aoun: Lebanon’s security is guaranteed not by multiple armed groups and decisions, but by a single state, a single army, and a single legitimate authority.
-- 11/22 02:26 [FirstSquawk] Israeli army: We targeted 3 members of the military wing of the Islamic Jihad movement as they traveled in a vehicle in northern Gaza.
-- 11/22 02:27 [FirstSquawk] Hamas: Targeting a vehicle delivering food to a charity kitchen in Gaza is a new crime that confirms the continued targeting of civilians and humanitarian aid efforts.
-- 11/22 02:27 [FirstSquawk] Hamas: The occupation continues its policy of starvation and uses food and humanitarian aid as a tool to subjugate and brutalize the Palestinian people.
-- 11/22 02:27 [FirstSquawk] Hamas: We call on the mediators and guarantor parties to hold an urgent meeting to stop violations, protect civilians, and ensure the flow of aid into Gaza.
-- 11/22 02:28 [FirstSquawk] Leader of the Democrats in the U.S. House of Representatives: The most important step as the next Congress begins is passing a law to prevent settler violence in the West Bank.
-- 11/22 02:28 [FirstSquawk] Leader of the Democrats in the U.S. House of Representatives: We will discuss legislation related to the West Bank in the next Congress.
-- 11/22 02:28 [FirstSquawk] Leader of the Democrats in the U.S. House of Representatives: We will discuss legislation related to the West Bank and a halt to U.S. arms exports to the region.
-- 11/22 02:32 [DeItaone] BITCOIN REBOUNDS 8% AFTER PLUNGING TO TWO-YEAR LOW Bitcoin surged more than 8% on Saturday, recovering to approximately $59,952 after briefly reclaiming $60,000, according to Reuters. Earlier, the cryptocurrency plunged to $55,251.60, its l…
-- 11/22 02:46 [financialjuice] Explosion heard in Sirik on Iran's southern coast: cause unclear, possible warning shot or ship hitting mine - Fars News
-- 11/22 03:11 [financialjuice] Bahrain's interior ministry: warning of possible threat
-- 11/22 03:34 [financialjuice] Saudi-led coalition: intercepted and neutralized drone launched by Yemen's Houthis toward Riyadh region
-- 11/22 03:39 [financialjuice] Finland border guard: crew of damaged Russian cargo ship evacuated to another vessel, en route to Russia
 - 11/22 03:40 [financialjuice] Finland border guard: vessel remains ablaze with visible flames
 - 11/22 03:42 [financialjuice] Finland border guard: one Russian rescue ship involved in rescue efforts
 - 11/22 04:21 [financialjuice] Bahrain interior ministry: preliminary information points to material damage, no casualties
@@ -239,3 +150,58 @@
 - 11/22 20:19 [FirstSquawk] Iranian president: It is necessary to move out of the “neither war nor peace” situation as soon as possible.
 - 11/22 20:19 [FirstSquawk] Qalibaf accuses the United States of exerting economic pressure on Iran to bring about a collapse from within.
 - 11/22 20:19 [FirstSquawk] Qalibaf: We have only one path: to ward off the threat and lift the shadow of war from ourselves.
+- 11/22 20:44 [FirstSquawk] Lebanese Army: 264 kg of explosives smuggled from Syria were seized, and we detained 3 suspects.
+- 11/22 20:44 [FirstSquawk] Iraqi Army: What happened in Jurf al-Sakhar will accelerate efforts to place all weapons under state control.
+- 11/22 21:17 [FirstSquawk] Russian-backed authorities in Luhansk: One killed and three injured in a Ukrainian drone attack on the city of Severodonetsk
+- 11/22 21:17 [FirstSquawk] Sudanese government: We condemn the Rapid Support Forces militia’s execution of army prisoners in the Blue Nile region.
+- 11/22 21:18 [FirstSquawk] Qatar’s Foreign Ministry: We condemn the Iranian attack on a civilian industrial facility in Bahrain and consider it a violation of its sovereignty and territorial integrity.
+- 11/22 21:18 [FirstSquawk] Qatar’s Foreign Ministry: We stress the State of Qatar’s categorical rejection of attacks on economic facilities, civilian objects and civilians.
+- 11/22 21:18 [FirstSquawk] Yemeni government forces: Airstrike on Houthi group gatherings in the Jabal Habashi area south of Taiz
+- 11/22 21:47 [FirstSquawk] Palestinian Foreign Ministry: We condemn settler terrorism and the burning of 12 vehicles in 3 villages in the Ramallah and al-Bireh Governorate
+- 11/22 21:47 [FirstSquawk] Russian authorities: 4 civilians injured in Belgorod region following Ukrainian drone attacks on the region
+- 11/22 21:54 [financialjuice] Bankers said anthropic's IPO was plagued by last-minute changes, hurried approvals and unusual leak concerns, people familiar with the matter said
+- 11/22 21:54 [financialjuice] Anthropic requested some IPO banks to restrict deal teams to four senior bankers, people said
+- 11/22 21:54 [financialjuice] Anthropic sought six-month limits barring some bankers from joining rivals including OpenAI and DeepSeek, people said
+- 11/22 22:20 [FirstSquawk] Democrats will seek to unwind Trump’s tax and tariff policies - FT
+- 11/22 22:20 [FirstSquawk] The American dream of home ownership recedes as mortgage rates surge - FT
+- 11/22 22:20 [FirstSquawk] Nscale slows hiring and curtails spending ahead of planned $35bn IPO - FT
+- 11/22 22:21 [FirstSquawk] US ports face cyber attack onslaught as hackers target vital trade routes - FT
+- 11/22 22:21 [FirstSquawk] Sanctioned Russian vessel ablaze in Finnish waters after drone attack - FT
+- 11/22 22:21 [FirstSquawk] Xi needs Trump more than ever - FT
+- 11/22 22:26 [FirstSquawk] AI SERVER MAKERS HIKE PRICES BY UP TO 45% Dell, HPE, Lenovo and Supermicro are demanding higher prices for AI servers, with increases of up to 45% even on deals signed months ago. The higher costs are impacting trading firms and other custo…
+- 11/22 22:43 [financialjuice] Libya's eastern government: preliminary probe points to explosion on Russian vessel at Benghazi port, suspects drone strike - statement
+- 11/22 22:50 [DeItaone] TRUMP: IT IS GOING TO BE VERY HARD FOR ME TO WORK WITH CHUCK SCHUMER SHOULD HE BECOME SENATE MAJORITY LEADER
+- 11/22 22:55 [DeItaone] 🇨🇳 CHINA EASES MARGIN RULES TO SUPPORT STOCK MARKETS China’s three major stock exchanges are easing trading restrictions to stabilize struggling equities. Starting November 30, minimum margin requirements will fall to 80% from 100%, allowin…
+- 11/22 23:42 [FirstSquawk] The Government of National Unity in Libya: We reject turning Libya into a battleground for international conflicts.
+- 11/22 23:43 [FirstSquawk] The Government of National Unity in Libya: We are following with concern the reports circulating about the explosion in the city of Benghazi.
+- 11/22 23:43 [FirstSquawk] The Libyan government appointed by the House of Representatives: An explosion occurred aboard a Russian ship docked at Benghazi port.
+- 11/22 23:43 [FirstSquawk] The Libyan government appointed by the House of Representatives: The Russian ship is likely to have been attacked using drones.
+- 11/22 23:44 [FirstSquawk] The Libyan government appointed by the House of Representatives: Security agencies have been instructed to open an investigation into the attack on a Russian vessel.
+- 11/22 23:44 [FirstSquawk] The Libyan government appointed by parliament: We are coordinating with Moscow to conduct a joint investigation into the attack on the Russian ship.
+- 11/22 23:44 [FirstSquawk] Jordanian monarch issues a decree appointing Major General Ayman Al-Awaisheh as director of public security after accepting the resignation of Public Security Director Obaidullah Al-Maaytah.
+- 11/22 23:44 [FirstSquawk] Iraqi judiciary takes action against suspects allegedly involved in oil smuggling between Dhi Qar and Basra governorates.
+- 11/22 23:45 [FirstSquawk] Iraqi judiciary: Members of the Energy Police tasked with protecting an oil pipeline between Dhi Qar and Basra arrested
+- 11/23 00:14 [FirstSquawk] Axios: Ukraine’s Security Service carried out the long-range attack targeting a Russian warship in Libya.
+- 11/23 00:14 [FirstSquawk] U.S. Director of National Intelligence tells Fox News: FBI is investigating a cyberattack on its National Crime Information Center
+- 11/23 00:15 [FirstSquawk] U.S. Director of National Intelligence to Fox News: Cyberattacks are an ongoing challenge that we deal with every day.
+- 11/23 00:20 [FirstSquawk] Yemeni government forces: We carried out 639 strikes against Houthi militia positions over the past few hours.
+- 11/23 00:39 [financialjuice/FirstSquawk] US Treasury Secretary Bessent: no answers yet on Nvidia chip sales to China, we need clarity
+- 11/23 00:41 [financialjuice/FirstSquawk] Knew about this, confident committees moving quickly to find answers: CBS
+- 11/23 00:41 [financialjuice/FirstSquawk] US Treasury Secretary Bessent: what level of Nvidia business we need to see
+- 11/23 00:41 [financialjuice/FirstSquawk] US Treasury Secretary Bessent: need to identify who led compliance at Nvidia - CBS
+- 11/23 00:41 [financialjuice/FirstSquawk] US Treasury Secretary Bessent: we need to find where the buck stops
+- 11/23 00:41 [financialjuice/FirstSquawk] US Treasury Secretary Bessent: need to determine which level of Nvidia business was aware, confident committees are swiftly seeking answers - CBS
+- 11/23 00:57 [FirstSquawk] Jordanian Public Security Directorate: A member of the armed forces was injured after being stabbed with a sharp object.
+- 11/23 00:58 [FirstSquawk] Jordanian Public Security Directorate: A member of the armed forces was injured by a sharp object in Madaba Governorate.
+- 11/23 00:58 [FirstSquawk] Jordanian government: Approval of three draft laws to toughen terrorism penalties and referral to the House of Representatives on an urgent basis
+- 11/23 00:58 [FirstSquawk] Jordanian government: Doubling the minimum penalties for terrorism from 5 to 10 years, and sometimes from 10 to 15 years
+- 11/23 00:59 [FirstSquawk] Jordanian government: Penalties for terrorist crimes may include the death penalty.
+- 11/23 00:59 [financialjuice/FirstSquawk] Ukmto reports incident involving tanker and military forces in Gulf of Oman
+- 11/23 01:28 [FirstSquawk] UK Maritime Trade Operations: Report of an incident involving a tanker and military forces in the Gulf of Oman
+- 11/23 01:28 [FirstSquawk] Russian Ministry of Defense: A cargo ship carrying dual-use materials for the Ukrainian military was targeted in the Black Sea.
+- 11/23 01:36 [financialjuice] Yemen's Houthis: attack on Rabigh oil refinery on Saudi Arabia's western Red Sea coast
+- 11/23 01:50 [FirstSquawk] Libyan sources: Reports of another drone attack targeting a merchant ship off the coast of Benghazi
+- 11/23 02:17 [financialjuice/FirstSquawk] Commercial vessel flying Maltese flag hit by suicide drone boat off Libya's Benghazi: two Libyan military sources
+- 11/23 02:19 [financialjuice/FirstSquawk] More than 12 drone boats intercepted off Benghazi coast by Libyan naval and air forces, two Libyan military sources say
+- 11/23 02:45 [financialjuice] FJ 2.0 now has real-time news for day traders in these languages 😍 English Español 한국어 中文 Français Türkçe Português العربية Русский हिन्दी Deutsch
+- 11/23 03:15 [FirstSquawk] IMF SEES ISRAEL'S ECONOMY GROWING 4.5% IN 2026 DESPITE WAR, ON TRACK TO RANK 25TH GLOBALLY
