@@ -7,79 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-11-22 08:18 JST／対象: 11/21 20:18 〜 11/22 08:18 JST（時刻はすべて日本時間）
+生成: 2026-11-22 12:17 JST／対象: 11/22 00:17 〜 11/22 12:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 5 | 11/21 22:50 | 11/22 02:32 | ⚠ 125分（22:50→00:55） |
-| FirstSquawk | 76 | 11/21 20:20 | 11/22 07:39 | ⚠ 305分（02:28→07:34） |
-| financialjuice | 46 | 11/21 20:18 | 11/22 07:19 | ⚠ 52分（01:54→02:46） |
+| DeItaone | 4 | 11/22 00:55 | 11/22 02:32 | ⚠ 95分（00:56→02:32） |
+| FirstSquawk | 51 | 11/22 00:22 | 11/22 10:42 | ⚠ 305分（02:28→07:34） |
+| financialjuice | 31 | 11/22 00:22 | 11/22 10:26 | ⚠ 113分（07:19→09:13） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 124 行（統合前 127 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 84 行（統合前 86 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/21 20:18 [financialjuice] Finland border guard: damaged ship has drifted from international waters into Finnish territory
-- 11/21 20:20 [FirstSquawk] Finland Reports Damaged Vessel Entering Its Territorial Waters After Drifting From International Waters
-- 11/21 20:23 [FirstSquawk] Northwestern China's Qinghai region hit by a 5.6-magnitude earthquake, according to Xinhua
-- 11/21 20:41 [FirstSquawk] EU's Costa Brings Back Digital Tax Plan in Push to Secure Agreement on Bloc's Budget - FT
-- 11/21 20:47 [financialjuice] Zelenskiy: too early to tell if Ukraine will join Nato when war ends
-- 11/21 20:48 [FirstSquawk] ZELENSKIY: IT IS TOO EARLY TO SAY IF UKRAINE WILL BE IN NATO WHEN WAR ENDS
-- 11/21 20:51 [FirstSquawk] Zelenskiy Says No Decision Has Been Made on Ukraine Joining NATO Once the War Ends
-- 11/21 20:56 [financialjuice/FirstSquawk] Zelenskiy: China summit was very unsuccessful for Russia
-- 11/21 21:00 [FirstSquawk] Brussels Considers Taxing Big Tech Companies to Generate Additional Revenue for EU Budget - SCMP
-- 11/21 21:19 [financialjuice] White House reduces special status allowing staffers to remain in private sector - WSJ
-- 11/21 21:21 [FirstSquawk] France Expresses Strong Disappointment Over the European Union's Latest Budget Proposal
-- 11/21 21:40 [FirstSquawk] US Copper Flows to China Resume as Concerns Over Trump Tariffs Ease - FT
-- 11/21 22:00 [financialjuice] Saudi civil defense issues warning of possible threat for Jazan
-- 11/21 22:05 [financialjuice] Saudi civil defense: danger has passed in Jazan
-- 11/21 22:14 [FirstSquawk] Finnish Border Guard: A Russian cargo ship is on fire in the eastern part of the Gulf of Finland
-- 11/21 22:14 [FirstSquawk] U.S. Central Command: Our forces have continued to enforce the naval blockade on Iran with a high degree of professionalism for 130 days.
-- 11/21 22:14 [FirstSquawk] Saudi Civil Defense: Early warning sirens activated in the Jazan region to warn of danger
-- 11/21 22:14 [FirstSquawk] Beijing Maps Out Space Mining Ambitions, Plans Major Moon Mission Within Four Years - SCMP
-- 11/21 22:15 [FirstSquawk] Gaza’s Ministry of Public Works and Housing: 350,000 families left homeless as winter approaches after 80% of the enclave’s buildings were destroyed
-- 11/21 22:21 [FirstSquawk] Singapore Shipping Corporation Seeks to Acquire Two Newbuilding Vessels for Car and Truck Transportation
-- 11/21 22:29 [financialjuice] Iran’s army: its air defence missile damaged US F-16 fighter jet over Gulf, forcing emergency landing - state media
-- 11/21 22:29 [financialjuice] No immediate US confirmation of Iranian assertion that F-16 was damaged over Gulf
-- 11/21 22:29 [FirstSquawk] US F-16 Forced to Make Emergency Landing After Alleged Iranian Missile Strike Over the Gulf, State Media Reports
-- 11/21 22:30 [FirstSquawk] ranian Claim of US F-16 Damage Over the Gulf Remains Unverified by Washington
-- 11/21 22:43 [FirstSquawk] Iranian military: We launched an air defense missile that damaged a U.S. F-16 fighter jet over the waters of the Gulf yesterday.
-- 11/21 22:43 [FirstSquawk] Iranian military: The targeted U.S. fighter jet made an emergency landing at a nearby airport in the area.
-- 11/21 22:43 [FirstSquawk] Iranian Claim of US F-16 Damage Over the Gulf Remains Unverified by Washington
-- 11/21 22:44 [FirstSquawk] CBS, citing a U.S. military official: Our fighter jets bombed an Iranian missile site on Qeshm Island last Tuesday
-- 11/21 22:50 [DeItaone] IRAN'S ARMY SAYS ITS AIR DEFENCE MISSILE CAUSED DAMAGE TO US F-16 FIGHTER JET OVER GULF, FORCING EMERGENCY LANDING - STATE MEDIA
-- 11/21 22:52 [FirstSquawk] US Ports Avoid Potential Strike After Tentative Deal Is Reached - WSJ
-- 11/21 22:57 [financialjuice] Finland border guard: cargo ship Sparta II linked to Russian military
-- 11/21 22:58 [FirstSquawk] Finnish Ministry of Defence: Suspected violation of our airspace by a Russian helicopter
-- 11/21 22:58 [FirstSquawk] Finnish Defense Ministry: The Russian helicopter’s entry may be linked to a surveillance or rescue operation for the targeted ship in the Gulf of Finland.
-- 11/21 22:58 [FirstSquawk] Governor of Russia’s Leningrad Region: A Russian rescue vessel is reaching the targeted cargo ship in international waters in the Gulf of Finland
-- 11/21 22:58 [FirstSquawk] Governor of Russia’s Leningrad region: The situation aboard the targeted ship is under control, and efforts are underway to resume its voyage to Kaliningrad.
-- 11/21 22:58 [financialjuice] Finland border guard: no confirmed details on Sparta II cargo but military materiel cannot be excluded
-- 11/21 23:10 [FirstSquawk] Sparta II Cargo Ship Reportedly Linked to Russian Armed Forces, Finnish Border Guard Says
-- 11/21 23:10 [FirstSquawk] Finland Says Potential Presence of Military Equipment on Sparta II Cannot Be Excluded Despite Lack of Cargo Information
-- 11/21 23:13 [FirstSquawk] Finnish Border Guard: The cargo ship targeted in international waters in the Gulf of Finland is known to have ties to the Russian armed forces.
-- 11/21 23:13 [FirstSquawk] Iran’s Revolutionary Guard: We shot down an enemy reconnaissance drone off the coast of Bushehr province in the south of the country.
-- 11/21 23:16 [financialjuice] Iranian deputy foreign minister Gharibabadi: Gatari team visited Tehran last night for two-hour talks - Tasnim news agency
-- 11/21 23:19 [FirstSquawk] Qatari Team Visited Tehran and Conducted Two Hours of Discussions, Iran's Gharibabadi Says
-- 11/21 23:22 [FirstSquawk] Iraqi judiciary takes legal action against suspects in an oil smuggling case in Najaf.
-- 11/21 23:40 [financialjuice] Mehr citing Iranian deputy foreign minister Gharibabad: US-imposed economic blockade an act of war, Iran will take necessary action to break it
-- 11/21 23:45 [financialjuice] Mehr citing Iranian deputy foreign minister Gharibabadi: US-imposed economic blockade an act of war, Iran will take necessary action to break it
-- 11/21 23:47 [financialjuice] US Centcom: Iran did not strike a U.S. F-16 fighter jet yesterday
-- 11/22 00:09 [FirstSquawk] Trump on FBI Hack Report: Says He Was Just Informed and Calls Situation "Not Good"
-- 11/22 00:09 [financialjuice] Trump on incoming Democratic Congress: could collaborate on credit card rates - Fox News interview
-- 11/22 00:09 [FirstSquawk] Trump Signals Cooperation With Democrats on Credit Card Rate Issue, Fox News Interview
-- 11/22 00:09 [financialjuice] Trump on Iran: I'm going to broker a lasting deal - Fox News interview
-- 11/22 00:09 [FirstSquawk] Trump: I Am Going to Reach a Permanent Deal With Iran, Fox Interview
-- 11/22 00:10 [FirstSquawk] CENTCOM: Iran Did Not Strike US F-16 Aircraft on Thursday
-- 11/22 00:10 [FirstSquawk] Iran Warns It Will Take Whatever Action Necessary to Break US Economic Blockade, Deputy Foreign Minister Says
-- 11/22 00:13 [FirstSquawk] Bitcoin Ends Higher by 2.20% at $60,225.76
-- 11/22 00:13 [financialjuice] Bitcoin rises 2.20% to $60,225.76
-- 11/22 00:15 [FirstSquawk] White House Rolls Back Special Provision Allowing Employees to Retain Private-Sector Jobs - WSJ
 - 11/22 00:22 [financialjuice] France calls for UN Security Council meeting to discuss enforcement of world court ruling on Myanmar: statement
 - 11/22 00:22 [FirstSquawk] France Pushes for Security Council Meeting to Discuss Compliance With World Court Ruling on Myanmar
 - 11/22 00:31 [financialjuice] Finland border guard: crew of Sparta II cargo ship evacuating into life raft and rescue boat
@@ -148,3 +92,19 @@
 - 11/22 07:38 [FirstSquawk] Iran’s Revolutionary Guard: Our operations were in response to the continued American aggression and violation of our airspace.
 - 11/22 07:38 [FirstSquawk] Bahrain’s Interior Ministry: A new warning of danger. We urge everyone to remain calm and head to the nearest safe location.
 - 11/22 07:39 [FirstSquawk] CBS, citing a U.S. official: Iran launched a new attack, but there were no casualties or damage to our forces or military assets in the region.
+- 11/22 09:13 [financialjuice] UK govt: UK joins 10 other nations in NATO starlift program to build network of adaptable satellite launch services
+- 11/22 09:57 [FirstSquawk] COP31 talks approach final deal as summit president signals progress in negotiations
+- 11/22 09:59 [FirstSquawk] Egyptian government confirms normal communication channels with Libyan army remain in place
+- 11/22 10:00 [FirstSquawk] Egypt reiterates support for Libya’s sovereignty, stability and national institutions
+- 11/22 10:01 [FirstSquawk] Sinaloa sees outbreak of violence following Mexican authorities’ capture of alleged cartel figure - FT
+- 11/22 10:04 [FirstSquawk] U.S. fossil fuel interests take the spotlight at COP in Trump’s absence – Politico
+- 11/22 10:05 [FirstSquawk] Australia takes issue with Congressional Budget Office's assessment of AUKUS
+- 11/22 10:05 [FirstSquawk] IRGC says it launched strikes against U.S. Patriot radar installations in Bahrain, while Manama reports damage from attacks on a civilian industrial site.
+- 11/22 10:06 [FirstSquawk] China’s push for gas-powered vehicles loses momentum in hydrogen-focused city – FT
+- 11/22 10:07 [FirstSquawk] Amazon moves closer to $7.5 billion takeover of AI startup Decart – FT
+- 11/22 10:23 [FirstSquawk] Trump seeks bipartisan support to cap credit card interest rates, reviving 2024 campaign pledge -CBS
+- 11/22 10:24 [FirstSquawk] Higher education has not translated into better opportunities for young people, with jobs and financial independence increasingly difficult to secure, UN report finds - Xinhua
+- 11/22 10:25 [FirstSquawk] India set new record with their highest Test total in New Zealand to take control in Wellington - RTRS
+- 11/22 10:26 [financialjuice] China commerce ministry: opposes US FCC vote to block Chinese telecoms from direct access to US phone numbers
+- 11/22 10:41 [FirstSquawk] EU flags prospect of climate talks ending without agreement at COP31
+- 11/22 10:42 [FirstSquawk] Nvidia affair puts Chinese spies in spotlight - RTRS

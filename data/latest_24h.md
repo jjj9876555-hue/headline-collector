@@ -7,49 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-11-22 08:18 JST／対象: 11/21 08:18 〜 11/22 08:18 JST（時刻はすべて日本時間）
+生成: 2026-11-22 12:17 JST／対象: 11/21 12:17 〜 11/22 12:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 8 | 11/21 12:05 | 11/22 02:32 | ⚠ 476分（12:15→20:11） |
-| FirstSquawk | 172 | 11/21 09:47 | 11/22 07:39 | ⚠ 305分（02:28→07:34） |
-| financialjuice | 65 | 11/21 08:23 | 11/22 07:19 | ⚠ 304分（11:37→16:41） |
+| DeItaone | 6 | 11/21 20:11 | 11/22 02:32 | ⚠ 158分（20:11→22:50） |
+| FirstSquawk | 167 | 11/21 12:46 | 11/22 10:42 | ⚠ 305分（02:28→07:34） |
+| financialjuice | 62 | 11/21 16:41 | 11/22 10:26 | ⚠ 113分（07:19→09:13） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 242 行（統合前 245 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 232 行（統合前 235 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/21 08:23 [financialjuice] Saudi Arabia's civil defence: danger has passed in Riyadh
-- 11/21 08:42 [financialjuice] Saudi-led coalition: intercepts and destroys three ballistic missiles launched by Yemen's Houthis toward Riyadh
-- 11/21 09:47 [FirstSquawk] Nations Spar Over Fossil Fuels as COP31 Climate Negotiations Spill Into Overtime
-- 11/21 09:48 [FirstSquawk] Vietnam's FPT Software Rethinks Traditional Outsourcing Model Amid AI Disruption - NA
-- 11/21 09:49 [FirstSquawk] Mercedes' U.S. Future Appears More Secure Despite Its Chinese Stakeholders - WSJ
-- 11/21 09:50 [FirstSquawk] Student protests held across Europe with demands from school funding to climate
-- 11/21 09:52 [FirstSquawk] USGS: Strong 6.7-Magnitude Earthquake Recorded in Peru
-- 11/21 09:53 [FirstSquawk] Power Problems Reported at High-Rise Buildings in Riyadh Following Houthi Attacks on the City
-- 11/21 10:57 [FirstSquawk] Trump says U.S. is hitting Iran hard but remains patient and is holding back for now
-- 11/21 11:02 [FirstSquawk] Capricor Therapeutics announces FDA's Complete Response Letter for Deramiocel BLA
-- 11/21 11:02 [FirstSquawk] Capricor Therapeutics announces regulatory developments regarding Deramiocel for Duchenne muscular dystrophy
-- 11/21 11:03 [FirstSquawk] US safety agency says Toyota is recalling 314,029 vehicles linked to Takata air bag inflators
-- 11/21 11:03 [FirstSquawk] Three ballistic missiles fired by Yemen's Houthis towards Riyadh were intercepted and destroyed, Saudi-led coalition says
-- 11/21 11:04 [FirstSquawk] FDA reports serious findings from inspection of Capricor's Deramiocel study
-- 11/21 11:05 [FirstSquawk] $1.1 billion in cryptocurrency flows into Cambodia-linked casino wallets despite ban Regulatory authorities seek blockchain research data as the government steps up scrutiny of crypto transactions - NIKKEI AISA
-- 11/21 11:06 [FirstSquawk] China and Singapore urged to accelerate upgraded free trade agreement talks, with Xi highlighting AI, digital economy and green development cooperation
-- 11/21 11:06 [FirstSquawk] US and Japan should spearhead the development of next-generation transportation, says Trump's ex-transport chief
-- 11/21 11:07 [FirstSquawk] Anthropic's IPO may set valuation and market expectations for Asian AI firms such as DeepSeek, Moonshot, Sakana AI and Upstage - NA
-- 11/21 11:17 [financialjuice] FBI national crime information center hacked: CNN
-- 11/21 11:31 [FirstSquawk] FDA rejects Capricor's Deramiocel BLA with a Complete Response Letter for Duchenne muscular dystrophy
-- 11/21 11:31 [FirstSquawk] DA correspondence highlights serious data integrity issues in the HOPE-3 study that cannot be rectified post-trial
-- 11/21 11:32 [FirstSquawk] Washington Post: Hegseth tightens restrictions governing US defense cooperation with Canada
-- 11/21 11:36 [financialjuice] Trump signs executive order on safeguarding executive privileges, boosting efficiency in federal contracting - White House
-- 11/21 11:37 [financialjuice] White House: Federal contractors must promptly inform White House and contracting agencies of any pending or upcoming congressional requests regarding contractors’ communications
-- 11/21 12:05 [DeItaone] FBI'S NATIONAL CRIME INFORMATION CENTER HACKED -CNN
-- 11/21 12:15 [DeItaone] FBI’S NATIONAL CRIME DATABASE REPORTEDLY HACKED IN MAJOR CYBERSECURITY BREACH — CNN The FBI is investigating a suspected cyberattack on its National Crime Information Center (NCIC), according to CNN, citing two sources familiar with the inv…
 - 11/21 12:46 [FirstSquawk] Goldman Sachs Private Credit Corp. retains Baa3 senior unsecured rating as Moody's maintains stable outlook
 - 11/21 12:46 [FirstSquawk] American Atomics outlines progress across uranium exploration, Colorado project development and reclamation initiatives
 - 11/21 12:47 [FirstSquawk] Databricks considers raising additional capital at a potential $225 billion valuation, according to WSJ
@@ -266,3 +240,19 @@
 - 11/22 07:38 [FirstSquawk] Iran’s Revolutionary Guard: Our operations were in response to the continued American aggression and violation of our airspace.
 - 11/22 07:38 [FirstSquawk] Bahrain’s Interior Ministry: A new warning of danger. We urge everyone to remain calm and head to the nearest safe location.
 - 11/22 07:39 [FirstSquawk] CBS, citing a U.S. official: Iran launched a new attack, but there were no casualties or damage to our forces or military assets in the region.
+- 11/22 09:13 [financialjuice] UK govt: UK joins 10 other nations in NATO starlift program to build network of adaptable satellite launch services
+- 11/22 09:57 [FirstSquawk] COP31 talks approach final deal as summit president signals progress in negotiations
+- 11/22 09:59 [FirstSquawk] Egyptian government confirms normal communication channels with Libyan army remain in place
+- 11/22 10:00 [FirstSquawk] Egypt reiterates support for Libya’s sovereignty, stability and national institutions
+- 11/22 10:01 [FirstSquawk] Sinaloa sees outbreak of violence following Mexican authorities’ capture of alleged cartel figure - FT
+- 11/22 10:04 [FirstSquawk] U.S. fossil fuel interests take the spotlight at COP in Trump’s absence – Politico
+- 11/22 10:05 [FirstSquawk] Australia takes issue with Congressional Budget Office's assessment of AUKUS
+- 11/22 10:05 [FirstSquawk] IRGC says it launched strikes against U.S. Patriot radar installations in Bahrain, while Manama reports damage from attacks on a civilian industrial site.
+- 11/22 10:06 [FirstSquawk] China’s push for gas-powered vehicles loses momentum in hydrogen-focused city – FT
+- 11/22 10:07 [FirstSquawk] Amazon moves closer to $7.5 billion takeover of AI startup Decart – FT
+- 11/22 10:23 [FirstSquawk] Trump seeks bipartisan support to cap credit card interest rates, reviving 2024 campaign pledge -CBS
+- 11/22 10:24 [FirstSquawk] Higher education has not translated into better opportunities for young people, with jobs and financial independence increasingly difficult to secure, UN report finds - Xinhua
+- 11/22 10:25 [FirstSquawk] India set new record with their highest Test total in New Zealand to take control in Wellington - RTRS
+- 11/22 10:26 [financialjuice] China commerce ministry: opposes US FCC vote to block Chinese telecoms from direct access to US phone numbers
+- 11/22 10:41 [FirstSquawk] EU flags prospect of climate talks ending without agreement at COP31
+- 11/22 10:42 [FirstSquawk] Nvidia affair puts Chinese spies in spotlight - RTRS
