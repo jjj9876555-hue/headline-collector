@@ -7,55 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-11-23 03:39 JST／対象: 11/22 03:39 〜 11/23 03:39 JST（時刻はすべて日本時間）
+生成: 2026-11-23 08:50 JST／対象: 11/22 08:50 〜 11/23 08:50 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 2 | 11/22 22:50 | 11/22 22:55 | 4分（22:50→22:55） |
-| FirstSquawk | 153 | 11/22 07:34 | 11/23 03:15 | ⚠ 182分（10:42→13:44） |
-| financialjuice | 35 | 11/22 03:40 | 11/23 02:45 | ⚠ 687分（10:26→21:54） |
+| DeItaone | 5 | 11/22 22:50 | 11/23 06:58 | ⚠ 411分（22:55→05:46） |
+| FirstSquawk | 154 | 11/22 09:57 | 11/23 08:48 | ⚠ 182分（10:42→13:44） |
+| financialjuice | 22 | 11/22 09:13 | 11/23 07:00 | ⚠ 687分（10:26→21:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 181 行（統合前 190 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 172 行（統合前 181 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/22 03:40 [financialjuice] Finland border guard: vessel remains ablaze with visible flames
-- 11/22 03:42 [financialjuice] Finland border guard: one Russian rescue ship involved in rescue efforts
-- 11/22 04:21 [financialjuice] Bahrain interior ministry: preliminary information points to material damage, no casualties
-- 11/22 04:22 [financialjuice] Bahrain civil defence working to contain fire: interior ministry
-- 11/22 04:33 [financialjuice] Iran's Revolutionary Guards say they struck two US bases in Bahrain, Fars News Agency reports citing its correspondent
-- 11/22 04:47 [financialjuice] Iran’s Revolutionary Guards attack two US bases in Bahrain: Fars News Agency reports citing its reporter
-- 11/22 05:02 [financialjuice] Kraken aware of issue with Cyber-Optimism funding gateway, deposits may face delays; other methods operating normally
-- 11/22 05:12 [financialjuice] Iran's Revolutionary Guards: attacked two US Patriot air defense radars at Bahrain bases - IRNA
-- 11/22 05:17 [financialjuice] Bahrain's interior ministry issues all-clear alert: post on X
-- 11/22 05:35 [financialjuice] Bahrain air defences intercept, destroy hostile Iranian aerial attacks over Bahrain: king's media adviser
-- 11/22 05:36 [financialjuice] Bahrain's interior ministry raises another warning on potential threat - post on X
-- 11/22 05:42 [financialjuice] Saudi civil defense issues warning of potential threat in Mecca region
-- 11/22 05:44 [financialjuice] Bahrain Defence Force: air defences intercepted multiple Iranian aerial assaults
-- 11/22 05:46 [financialjuice] Bahrain Defence Force: Shrapnel from air defense hits caused material damage, no casualties
-- 11/22 05:50 [financialjuice] Saudi civil defense: danger has passed in Mecca region
-- 11/22 06:28 [financialjuice] Saudi-led coalition: intercepts and destroys missile launched by Yemen's Houthis toward western region
-- 11/22 07:17 [financialjuice] UK PM Burnham met Rob Jetten, prime minister of Netherlands, in Amsterdam: Downing Street spokesperson
-- 11/22 07:19 [financialjuice] Burnham, Netherlands PM Jetten committed to continue close cooperation to provide Ukraine support it needs: Downing Street spokesperson
-- 11/22 07:34 [FirstSquawk] Iran’s Fars news agency: An explosion was heard coming from the sea in the city of Sirik in the south of the country.
-- 11/22 07:34 [FirstSquawk] Yemeni government forces: We carried out 816 operations in the past 24 hours targeting Houthi militia positions and reinforcements.
-- 11/22 07:34 [FirstSquawk] Yemeni government forces: We thwarted attempts by the Houthi militia to advance and infiltrate Lahj, Dhale and Abyan, and repelled attacks in Taiz.
-- 11/22 07:34 [FirstSquawk] Settlers attack a Palestinian home that has been under siege for 48 days in Wadi al-Rakhim, south of Yatta in Hebron Governorate.
-- 11/22 07:35 [FirstSquawk] Bahrain’s Interior Ministry: Warning of a danger. We urge everyone to remain calm and head to the nearest safe location.
-- 11/22 07:35 [FirstSquawk] have taken control of the 3 main checkpoints in the Jurf area, and the operation is proceeding smoothly.
-- 11/22 07:35 [FirstSquawk] Head of Iraq’s Security Media Cell: Oil pipelines, main roads and key locations in the Jurf area have been secured.
-- 11/22 07:36 [FirstSquawk] Israel’s Yesh Atid party: Eisenkot has ordered marathon negotiations with Likud to begin tomorrow to reach a breakthrough on forming a government
-- 11/22 07:36 [FirstSquawk] Bahraini Interior Ministry: A civilian industrial facility was targeted and a fire broke out at the site as a result of the heinous Iranian aggression.
-- 11/22 07:38 [FirstSquawk] Bahrain’s Interior Ministry: Preliminary information indicates material damage with no injuries, and efforts are underway to bring the fire under control
-- 11/22 07:38 [FirstSquawk] Iran’s Revolutionary Guard: We targeted U.S. military sites at the Riffa and Al-Awali bases in Bahrain.
-- 11/22 07:38 [FirstSquawk] Iran’s Revolutionary Guard: Our operations were in response to the continued American aggression and violation of our airspace.
-- 11/22 07:38 [FirstSquawk] Bahrain’s Interior Ministry: A new warning of danger. We urge everyone to remain calm and head to the nearest safe location.
-- 11/22 07:39 [FirstSquawk] CBS, citing a U.S. official: Iran launched a new attack, but there were no casualties or damage to our forces or military assets in the region.
 - 11/22 09:13 [financialjuice] UK govt: UK joins 10 other nations in NATO starlift program to build network of adaptable satellite launch services
 - 11/22 09:57 [FirstSquawk] COP31 talks approach final deal as summit president signals progress in negotiations
 - 11/22 09:59 [FirstSquawk] Egyptian government confirms normal communication channels with Libyan army remain in place
@@ -205,3 +173,26 @@
 - 11/23 02:19 [financialjuice/FirstSquawk] More than 12 drone boats intercepted off Benghazi coast by Libyan naval and air forces, two Libyan military sources say
 - 11/23 02:45 [financialjuice] FJ 2.0 now has real-time news for day traders in these languages 😍 English Español 한국어 中文 Français Türkçe Português العربية Русский हिन्दी Deutsch
 - 11/23 03:15 [FirstSquawk] IMF SEES ISRAEL'S ECONOMY GROWING 4.5% IN 2026 DESPITE WAR, ON TRACK TO RANK 25TH GLOBALLY
+- 11/23 03:39 [FirstSquawk] TRUMP TELLS FOX NEWS HE IS "INCLINED" TO RESUME STRIKES AGAINST IRAN AFTER THE NEW YEAR IF NO DEAL IS REACHED, SAYING "IRANIANS TALK ALL THE TIME. ALL THEY DO IS TALK, BUT IT'S ALL BS"
+- 11/23 03:39 [FirstSquawk] TRUMP SAYS "I HOPE IRANIAN TANKERS TRY TO TEST THE BLOCKADE. THEY WILL ALL BE AT THE BOTTOM OF THE SEA, LIKE IRAN'S NAVY" - FOX NEWS
+- 11/23 04:15 [FirstSquawk] A SOURCE SAYS ON THE STRIKE ON A RUSSIAN SHIP IN BENGHAZI, LIBYA, THAT THE VEHICLES LAUNCHED FROM ALBANIA, NOT WESTERN LIBYA, THAT THE EASTERN LIBYAN SIDE DETECTED THE LAUNCH, AND THAT THE "WESTERN LIBYA" ACCOUNT IS A DIVERSION BY UKRAINIAN…
+- 11/23 04:16 [FirstSquawk] ABDUL EL-SAYED SAYS "I DON'T BELIEVE IN ETHNOSTATES. YOU AND I ARE BOTH AMERICANS," ADDING THAT THOUGH SKIN COLOR MAY DIFFER AND PEOPLE PRAY IN DIFFERENT WAYS, AMERICAN LAWS RESPECT THEM THE SAME, AND THAT THE IDEA ANY GOVERNMENT THE US SUP…
+- 11/23 04:16 [FirstSquawk] ABDUL EL-SAYED SAYS "WE HAVE BEEN TOLD THAT ISRAEL IS A JEWISH DEMOCRATIC STATE. I THINK FOLKS ARE HAVING TO CHOOSE. IS IT A JEWISH STATE OR A DEMOCRATIC STATE?" ADDING THAT BASED ON US PRINCIPLES "WE SHOULD PUT DEMOCRACY OVER EVERYTHING EL…
+- 11/23 04:16 [FirstSquawk] ABDUL EL-SAYED SAYS "I DON'T BELIEVE IN ETHNOSTATES GENERALLY. WE SHOULDN'T FUND THE MILITARY OF PAKISTAN EITHER," SAYING HE IS TRYING TO APPLY HIS IDEALS EVENLY
+- 11/23 04:16 [FirstSquawk] ABDUL EL-SAYED SAYS IT IS IMPORTANT TO REMEMBER THERE ARE PALESTINIAN PEOPLE WHOSE FAMILIES HAVE BEEN IN THE HOLY LAND FOR GENERATIONS WHO WERE TOLD THEY WOULD HAVE A STATE OF THEIR OWN, ONLY TO WATCH THE ISRAELI STATE EXPANDING WITH US SUP…
+- 11/23 04:16 [FirstSquawk] ABDUL EL-SAYED SAYS THAT IF TRUMP WANTS "TRUMPCARE FOR ALL" AND IS OPEN TO SIGNING IT, A LOT OF REPUBLICANS WOULD BE OPEN TO VOTE FOR IT
+- 11/23 04:34 [FirstSquawk] SANFORD SAYS ROB MCLEOD WILL RETIRE AS CHAIR AND DIRECTOR ON 16 DECEMBER 2026, WITH TONY CARTER TO TAKE OVER AS CHAIR FROM THE CLOSE OF THE 2026 ANNUAL SHAREHOLDER MEETING
+- 11/23 05:46 [DeItaone] ANTHROPIC 2X ETFs FROM LEVERAGE SHARES: TRADING STARTS MONDAY Anthropic is now public. On Monday, its leveraged ETFs follow. $ANUU: 2x Long Anthropic $ANDD: 2x Short Anthropic Set your alerts. Bookmark this. Access full risk disclosures at …
+- 11/23 05:47 [DeItaone] TRUMP SIGNALS POSSIBLE NEW STRIKES ON IRAN AFTER NEW YEAR President Donald Trump says he is “inclined to” resume military strikes against Iran after January 1 if ongoing negotiations fail to produce an agreement. Speaking to Fox News, Trump…
+- 11/23 06:20 [FirstSquawk] KIM JONG UN SAYS NORTH KOREA IS READY TO STRENGTHEN TIES WITH ALL COUNTRIES THAT RESPECT ITS SOVEREIGNTY
+- 11/23 06:21 [FirstSquawk] KIM JONG UN SAYS EAST ASIA'S SECURITY ENVIRONMENT OBLIGES PYONGYANG TO SECURE ITS OWN DEFENSE CAPABILITIES
+- 11/23 06:45 [financialjuice] NEW ZEALAND RETAIL SALES YOY ACTUAL 3.5% (FORECAST -, PREVIOUS 3.3%) $MACRO
+- 11/23 06:45 [financialjuice] NEW ZEALAND RETAIL SALES QOQ ACTUAL 2.2% (FORECAST 0.5%, PREVIOUS -0.5%) $MACRO
+- 11/23 06:58 [DeItaone] GOLDMAN WARNS STOCK MARKET BOTTOM REMAINS UNCERTAIN DESPITE EXTREME SELLOFF Wall Street strategists see potential buying opportunities after a brutal week, but warn that further selling remains possible. 🔸 Nasdaq 100: -19.8% from its Octobe…
+- 11/23 07:00 [financialjuice] AUSTRALIAN COMPOSITE PMI FLASH ACTUAL 46.1 (FORECAST -, PREVIOUS 48.2) $MACRO
+- 11/23 07:00 [financialjuice] AUSTRALIAN MANUFACTURING PMI FLASH ACTUAL 48.7 (FORECAST -, PREVIOUS 49.6) $MACRO
+- 11/23 07:00 [financialjuice] AUSTRALIAN SERVICES PMI FLASH ACTUAL 46.2 (FORECAST -, PREVIOUS 48.5) $MACRO
+- 11/23 07:26 [FirstSquawk] DELTA FLIGHTS FACE BRIEF DELAYS AT ATLANTA AIRPORT AFTER AUTOMATED SYSTEM ISSUE
+- 11/23 08:19 [FirstSquawk] EUROPEAN NATURAL GAS CLIMBS AS MUCH AS 6.4% AT THE START OF TRADING
+- 11/23 08:47 [FirstSquawk] TREASURY FUTURES SLIP IN EARLY ASIA TRADING
+- 11/23 08:48 [FirstSquawk] OIL PRICES HOLD STEADY AS MIDDLE EAST TENSIONS COMPETE WITH AMPLE SUPPLY

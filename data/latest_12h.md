@@ -7,57 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-11-23 03:39 JST／対象: 11/22 15:39 〜 11/23 03:39 JST（時刻はすべて日本時間）
+生成: 2026-11-23 08:50 JST／対象: 11/22 20:50 〜 11/23 08:50 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 2 | 11/22 22:50 | 11/22 22:55 | 4分（22:50→22:55） |
-| FirstSquawk | 79 | 11/22 15:44 | 11/23 03:15 | ⚠ 106分（15:45→17:32） |
-| financialjuice | 15 | 11/22 21:54 | 11/23 02:45 | ⚠ 115分（22:43→00:39） |
+| DeItaone | 5 | 11/22 22:50 | 11/23 06:58 | ⚠ 411分（22:55→05:46） |
+| FirstSquawk | 60 | 11/22 21:17 | 11/23 08:48 | ⚠ 106分（04:34→06:20） |
+| financialjuice | 20 | 11/22 21:54 | 11/23 07:00 | ⚠ 240分（02:45→06:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 87 行（統合前 96 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 76 行（統合前 85 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/22 15:44 [FirstSquawk] Alice Huang was the public face of a business suspected of funneling advanced computing power to China. But playing a key role behind the scenes, according to people familiar with the matter, was a man now out on bail in Singapore.
-- 11/22 15:44 [FirstSquawk] Trump-class battleships add to US Navy's cost burden as Iran war stretches fleet
-- 11/22 15:44 [FirstSquawk] Athlete swims Strait of Hormuz to raise awareness of Iran war's toll on wildlife
-- 11/22 15:45 [FirstSquawk] Amazon founder Jeff Bezos' advice for Nvidia: Hire an insider
-- 11/22 15:45 [FirstSquawk] Australia’s spy chief said that data centers and artificial intelligence risk exposing the nation to foreign interference and malicious state actors, according to an interview in The Age Sunday
-- 11/22 15:45 [FirstSquawk] Britain's next fighter jet could be last with a pilot in the cockpit, says RAF chief
-- 11/22 17:32 [FirstSquawk] Pakistan's Climate Change Minister Musadik Malik switched from English to Urdu at the SCO Civilisational Dialogue Forum at Delhi's Purana Qila. "
-- 11/22 17:32 [FirstSquawk] Italian jeweller and businessman Paolo Bulgari dies aged 89
-- 11/22 17:33 [FirstSquawk] The ‘austere’ conservative poised to lead Spain with the far right
-- 11/22 17:33 [FirstSquawk] Trump-Kim summit bid failed over North Korean conditions: Wall Street Journal report
-- 11/22 18:27 [FirstSquawk] COP31 climate summit enters second day of overtime as efforts continue to avoid talks collapsing
-- 11/22 18:27 [FirstSquawk] United Arab Emirates Ministry of Foreign Affairs condemned the Islamic Republic’s renewed attack on Bahrain in the strongest terms and stressed its support for all measures taken by Bahrain to protect its security and stability.
-- 11/22 18:28 [FirstSquawk] Netherlands Foreign Minister Tom Berendsen arrives in Delhi for a two-day official visit .
-- 11/22 18:29 [FirstSquawk] commerce secretary has outlasted rivals despite the Nvidia scandal and scrutiny of his Wall Street firm.
-- 11/22 18:29 [FirstSquawk] Weekend markets update: #DAX 24714 +0.41% #DOW 48479 +0.30% #NASDAQ 25419 +0.75% #FTSE 10336 +0.45% #HANGSENG 22105 +0.62% #EURUSD 10968 +0.00% #GOLD 3549 +0.31% #SILVER 4125 +0.04% #USOIL 8401 +0.49%
-- 11/22 18:30 [FirstSquawk] Trump turned heads on the golf course Saturday with an outfit only he could pull off.
-- 11/22 19:08 [FirstSquawk] Syrian Defense: One soldier killed and two others injured while dismantling mines and clearing war remnants in the western countryside of Deir ez-Zor.
-- 11/22 19:08 [FirstSquawk] Iraqi Prime Minister: The government is moving forward with plans to extend state authority and enforce the law
-- 11/22 19:08 [FirstSquawk] Russian Defense Ministry: 792 Ukrainian drones were shot down over the past 24 hours.
-- 11/22 19:08 [FirstSquawk] Iraqi Prime Minister: We will continue to confront encroachments on national wealth.
-- 11/22 19:08 [FirstSquawk] Iraqi Interior Ministry spokesman Miqdad Miri: The security situation in Jurf al-Sakhar is stable.
-- 11/22 19:09 [FirstSquawk] Iraqi Interior Ministry spokesman: The handover in Jurf al-Sakhar is proceeding according to schedule.
-- 11/22 19:09 [FirstSquawk] Iraqi Interior Ministry spokesman: Army, police and Popular Mobilization Forces have taken up their duties in Jurf al-Sakhar.
-- 11/22 19:10 [FirstSquawk] Iraqi Interior Ministry spokesman: The army and federal police will be in the vicinity of Jurf al-Sakhar.
-- 11/22 20:18 [FirstSquawk] Iraqi Interior Ministry spokesman: The Jurf al-Sakhar center will be under the responsibility of the local police.
-- 11/22 20:18 [FirstSquawk] Iraqi Interior Ministry spokesman: Bringing life back to Jurf al-Sakhar will take time as part of a plan drawn up by the government.
-- 11/22 20:18 [FirstSquawk] SANA: A soldier was killed and two others were injured while clearing mines and unexploded ordnance in the town of Al-Turaif in the western countryside of Deir ez-Zor.
-- 11/22 20:19 [FirstSquawk] Syrian Internal Security forces seize a shipment of weapons intended for smuggling into Lebanon and arrest one of those involved in the Damascus countryside.
-- 11/22 20:19 [FirstSquawk] Iranian president: Remaining in a state of "neither war nor peace" is harmful.
-- 11/22 20:19 [FirstSquawk] Iranian president: It is necessary to move out of the “neither war nor peace” situation as soon as possible.
-- 11/22 20:19 [FirstSquawk] Qalibaf accuses the United States of exerting economic pressure on Iran to bring about a collapse from within.
-- 11/22 20:19 [FirstSquawk] Qalibaf: We have only one path: to ward off the threat and lift the shadow of war from ourselves.
-- 11/22 20:44 [FirstSquawk] Lebanese Army: 264 kg of explosives smuggled from Syria were seized, and we detained 3 suspects.
-- 11/22 20:44 [FirstSquawk] Iraqi Army: What happened in Jurf al-Sakhar will accelerate efforts to place all weapons under state control.
 - 11/22 21:17 [FirstSquawk] Russian-backed authorities in Luhansk: One killed and three injured in a Ukrainian drone attack on the city of Severodonetsk
 - 11/22 21:17 [FirstSquawk] Sudanese government: We condemn the Rapid Support Forces militia’s execution of army prisoners in the Blue Nile region.
 - 11/22 21:18 [FirstSquawk] Qatar’s Foreign Ministry: We condemn the Iranian attack on a civilian industrial facility in Bahrain and consider it a violation of its sovereignty and territorial integrity.
@@ -111,3 +77,26 @@
 - 11/23 02:19 [financialjuice/FirstSquawk] More than 12 drone boats intercepted off Benghazi coast by Libyan naval and air forces, two Libyan military sources say
 - 11/23 02:45 [financialjuice] FJ 2.0 now has real-time news for day traders in these languages 😍 English Español 한국어 中文 Français Türkçe Português العربية Русский हिन्दी Deutsch
 - 11/23 03:15 [FirstSquawk] IMF SEES ISRAEL'S ECONOMY GROWING 4.5% IN 2026 DESPITE WAR, ON TRACK TO RANK 25TH GLOBALLY
+- 11/23 03:39 [FirstSquawk] TRUMP TELLS FOX NEWS HE IS "INCLINED" TO RESUME STRIKES AGAINST IRAN AFTER THE NEW YEAR IF NO DEAL IS REACHED, SAYING "IRANIANS TALK ALL THE TIME. ALL THEY DO IS TALK, BUT IT'S ALL BS"
+- 11/23 03:39 [FirstSquawk] TRUMP SAYS "I HOPE IRANIAN TANKERS TRY TO TEST THE BLOCKADE. THEY WILL ALL BE AT THE BOTTOM OF THE SEA, LIKE IRAN'S NAVY" - FOX NEWS
+- 11/23 04:15 [FirstSquawk] A SOURCE SAYS ON THE STRIKE ON A RUSSIAN SHIP IN BENGHAZI, LIBYA, THAT THE VEHICLES LAUNCHED FROM ALBANIA, NOT WESTERN LIBYA, THAT THE EASTERN LIBYAN SIDE DETECTED THE LAUNCH, AND THAT THE "WESTERN LIBYA" ACCOUNT IS A DIVERSION BY UKRAINIAN…
+- 11/23 04:16 [FirstSquawk] ABDUL EL-SAYED SAYS "I DON'T BELIEVE IN ETHNOSTATES. YOU AND I ARE BOTH AMERICANS," ADDING THAT THOUGH SKIN COLOR MAY DIFFER AND PEOPLE PRAY IN DIFFERENT WAYS, AMERICAN LAWS RESPECT THEM THE SAME, AND THAT THE IDEA ANY GOVERNMENT THE US SUP…
+- 11/23 04:16 [FirstSquawk] ABDUL EL-SAYED SAYS "WE HAVE BEEN TOLD THAT ISRAEL IS A JEWISH DEMOCRATIC STATE. I THINK FOLKS ARE HAVING TO CHOOSE. IS IT A JEWISH STATE OR A DEMOCRATIC STATE?" ADDING THAT BASED ON US PRINCIPLES "WE SHOULD PUT DEMOCRACY OVER EVERYTHING EL…
+- 11/23 04:16 [FirstSquawk] ABDUL EL-SAYED SAYS "I DON'T BELIEVE IN ETHNOSTATES GENERALLY. WE SHOULDN'T FUND THE MILITARY OF PAKISTAN EITHER," SAYING HE IS TRYING TO APPLY HIS IDEALS EVENLY
+- 11/23 04:16 [FirstSquawk] ABDUL EL-SAYED SAYS IT IS IMPORTANT TO REMEMBER THERE ARE PALESTINIAN PEOPLE WHOSE FAMILIES HAVE BEEN IN THE HOLY LAND FOR GENERATIONS WHO WERE TOLD THEY WOULD HAVE A STATE OF THEIR OWN, ONLY TO WATCH THE ISRAELI STATE EXPANDING WITH US SUP…
+- 11/23 04:16 [FirstSquawk] ABDUL EL-SAYED SAYS THAT IF TRUMP WANTS "TRUMPCARE FOR ALL" AND IS OPEN TO SIGNING IT, A LOT OF REPUBLICANS WOULD BE OPEN TO VOTE FOR IT
+- 11/23 04:34 [FirstSquawk] SANFORD SAYS ROB MCLEOD WILL RETIRE AS CHAIR AND DIRECTOR ON 16 DECEMBER 2026, WITH TONY CARTER TO TAKE OVER AS CHAIR FROM THE CLOSE OF THE 2026 ANNUAL SHAREHOLDER MEETING
+- 11/23 05:46 [DeItaone] ANTHROPIC 2X ETFs FROM LEVERAGE SHARES: TRADING STARTS MONDAY Anthropic is now public. On Monday, its leveraged ETFs follow. $ANUU: 2x Long Anthropic $ANDD: 2x Short Anthropic Set your alerts. Bookmark this. Access full risk disclosures at …
+- 11/23 05:47 [DeItaone] TRUMP SIGNALS POSSIBLE NEW STRIKES ON IRAN AFTER NEW YEAR President Donald Trump says he is “inclined to” resume military strikes against Iran after January 1 if ongoing negotiations fail to produce an agreement. Speaking to Fox News, Trump…
+- 11/23 06:20 [FirstSquawk] KIM JONG UN SAYS NORTH KOREA IS READY TO STRENGTHEN TIES WITH ALL COUNTRIES THAT RESPECT ITS SOVEREIGNTY
+- 11/23 06:21 [FirstSquawk] KIM JONG UN SAYS EAST ASIA'S SECURITY ENVIRONMENT OBLIGES PYONGYANG TO SECURE ITS OWN DEFENSE CAPABILITIES
+- 11/23 06:45 [financialjuice] NEW ZEALAND RETAIL SALES YOY ACTUAL 3.5% (FORECAST -, PREVIOUS 3.3%) $MACRO
+- 11/23 06:45 [financialjuice] NEW ZEALAND RETAIL SALES QOQ ACTUAL 2.2% (FORECAST 0.5%, PREVIOUS -0.5%) $MACRO
+- 11/23 06:58 [DeItaone] GOLDMAN WARNS STOCK MARKET BOTTOM REMAINS UNCERTAIN DESPITE EXTREME SELLOFF Wall Street strategists see potential buying opportunities after a brutal week, but warn that further selling remains possible. 🔸 Nasdaq 100: -19.8% from its Octobe…
+- 11/23 07:00 [financialjuice] AUSTRALIAN COMPOSITE PMI FLASH ACTUAL 46.1 (FORECAST -, PREVIOUS 48.2) $MACRO
+- 11/23 07:00 [financialjuice] AUSTRALIAN MANUFACTURING PMI FLASH ACTUAL 48.7 (FORECAST -, PREVIOUS 49.6) $MACRO
+- 11/23 07:00 [financialjuice] AUSTRALIAN SERVICES PMI FLASH ACTUAL 46.2 (FORECAST -, PREVIOUS 48.5) $MACRO
+- 11/23 07:26 [FirstSquawk] DELTA FLIGHTS FACE BRIEF DELAYS AT ATLANTA AIRPORT AFTER AUTOMATED SYSTEM ISSUE
+- 11/23 08:19 [FirstSquawk] EUROPEAN NATURAL GAS CLIMBS AS MUCH AS 6.4% AT THE START OF TRADING
+- 11/23 08:47 [FirstSquawk] TREASURY FUTURES SLIP IN EARLY ASIA TRADING
+- 11/23 08:48 [FirstSquawk] OIL PRICES HOLD STEADY AS MIDDLE EAST TENSIONS COMPETE WITH AMPLE SUPPLY
