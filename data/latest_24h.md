@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-11-23 08:50 JST／対象: 11/22 08:50 〜 11/23 08:50 JST（時刻はすべて日本時間）
+生成: 2026-11-23 13:05 JST／対象: 11/22 13:05 〜 11/23 13:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 11/22 22:50 | 11/23 06:58 | ⚠ 411分（22:55→05:46） |
-| FirstSquawk | 154 | 11/22 09:57 | 11/23 08:48 | ⚠ 182分（10:42→13:44） |
-| financialjuice | 22 | 11/22 09:13 | 11/23 07:00 | ⚠ 687分（10:26→21:54） |
+| FirstSquawk | 198 | 11/22 13:44 | 11/23 13:00 | ⚠ 106分（15:45→17:32） |
+| financialjuice | 22 | 11/22 21:54 | 11/23 10:07 | ⚠ 240分（02:45→06:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 172 行（統合前 181 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 216 行（統合前 225 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/22 09:13 [financialjuice] UK govt: UK joins 10 other nations in NATO starlift program to build network of adaptable satellite launch services
-- 11/22 09:57 [FirstSquawk] COP31 talks approach final deal as summit president signals progress in negotiations
-- 11/22 09:59 [FirstSquawk] Egyptian government confirms normal communication channels with Libyan army remain in place
-- 11/22 10:00 [FirstSquawk] Egypt reiterates support for Libya’s sovereignty, stability and national institutions
-- 11/22 10:01 [FirstSquawk] Sinaloa sees outbreak of violence following Mexican authorities’ capture of alleged cartel figure - FT
-- 11/22 10:04 [FirstSquawk] U.S. fossil fuel interests take the spotlight at COP in Trump’s absence – Politico
-- 11/22 10:05 [FirstSquawk] Australia takes issue with Congressional Budget Office's assessment of AUKUS
-- 11/22 10:05 [FirstSquawk] IRGC says it launched strikes against U.S. Patriot radar installations in Bahrain, while Manama reports damage from attacks on a civilian industrial site.
-- 11/22 10:06 [FirstSquawk] China’s push for gas-powered vehicles loses momentum in hydrogen-focused city – FT
-- 11/22 10:07 [FirstSquawk] Amazon moves closer to $7.5 billion takeover of AI startup Decart – FT
-- 11/22 10:23 [FirstSquawk] Trump seeks bipartisan support to cap credit card interest rates, reviving 2024 campaign pledge -CBS
-- 11/22 10:24 [FirstSquawk] Higher education has not translated into better opportunities for young people, with jobs and financial independence increasingly difficult to secure, UN report finds - Xinhua
-- 11/22 10:25 [FirstSquawk] India set new record with their highest Test total in New Zealand to take control in Wellington - RTRS
-- 11/22 10:26 [financialjuice] China commerce ministry: opposes US FCC vote to block Chinese telecoms from direct access to US phone numbers
-- 11/22 10:41 [FirstSquawk] EU flags prospect of climate talks ending without agreement at COP31
-- 11/22 10:42 [FirstSquawk] Nvidia affair puts Chinese spies in spotlight - RTRS
 - 11/22 13:44 [FirstSquawk] Kim Jong Un appears uninterested in engaging with Trump, despite North Korea’s continued nuclear expansion and growing capability to strike US cities such as Los Angeles and New York. Trump is struggling to get a response from Pyongyang. - …
 - 11/22 13:46 [FirstSquawk] China’s Commerce Ministry expresses opposition to the FCC’s decision barring Chinese telecom firms from direct access to US numbering resources.
 - 11/22 13:46 [FirstSquawk] Britain teams up with 10 NATO allies under the StarLift initiative to develop a flexible satellite launch-services network.
@@ -196,3 +180,63 @@
 - 11/23 08:19 [FirstSquawk] EUROPEAN NATURAL GAS CLIMBS AS MUCH AS 6.4% AT THE START OF TRADING
 - 11/23 08:47 [FirstSquawk] TREASURY FUTURES SLIP IN EARLY ASIA TRADING
 - 11/23 08:48 [FirstSquawk] OIL PRICES HOLD STEADY AS MIDDLE EAST TENSIONS COMPETE WITH AMPLE SUPPLY
+- 11/23 08:54 [FirstSquawk] AUSTRALIA'S S&P/ASX 200 INDEX SLIPS 0.5% TO 8,548.5 POINTS
+- 11/23 08:55 [FirstSquawk] TRUMP SAYS HE PREDICTED TWO THINGS CONCERNING THE NOVEMBER 3RD MIDTERM ELECTIONS — THAT IF THE DEMOCRATS WIN THE STOCK MARKETS WOULD GO DOWN SUBSTANTIALLY, WHICH THEY HAVE, AND THAT THE ISLAMIC REPUBLIC OF IRAN, "WHICH HAS KILLED 81,000 PRO…
+- 11/23 08:55 [FirstSquawk] TRUMP SAYS IRAN HAS LAUNCHED MORE DRONES AND MISSILES IN THE LAST WEEK THAN AT ANY TIME FOR OVER A YEAR BUT "THEY'VE ALL BEEN KNOCKED DOWN, AND DONE NO DAMAGE," ADDING THAT IRANIAN LEADERS CONSIDER THE DEMOCRATS "WEAK, INEFFECTIVE, AND COUN…
+- 11/23 08:55 [FirstSquawk] TRUMP SAYS BOTH THE DEMS AND IRAN "FOUGHT LIKE HELL TO KEEP THE OIL PRICE UP," WITH THE OIL PRICE HAVING DROPPED BY A RECORD LEVEL SINCE THE ELECTION, ADDING "TOO BAD THE VOTERS DIDN'T UNDERSTAND THIS BEFORE THEY PULLED THE TRIGGER, BUT THE…
+- 11/23 08:55 [FirstSquawk] BRENT CRUDE FUTURES FALL $1 TO $91.57 A BARREL
+- 11/23 08:58 [financialjuice] Libya's NOC: valve closure on Sharara oil pipeline by unlawful group to cut about 350,000 bpd of output
+- 11/23 09:00 [FirstSquawk] LIBYA'S NOC SAYS THE CLOSURE OF A VALVE ON THE SHARARA OIL PIPELINE BY AN "UNLAWFUL GROUP" WILL CAUSE A LOSS OF AROUND 350,000 BPD OF PRODUCTION - LIBYA'S NOC
+- 11/23 09:01 [FirstSquawk] NASDAQ 100 FUTURES CLIMB 2.9% AND S&P 500 FUTURES RISE 2% AS US FUTURES EXTEND GAINS
+- 11/23 09:03 [FirstSquawk] SPOT GOLD CLIMBS MORE THAN 1% TO $3,577.32 AN OUNCE
+- 11/23 09:18 [FirstSquawk] Asia-Pacific stocks faced a weak start following Friday’s tech-driven losses on Wall Street, as the S&P 500 entered a correction and the Nasdaq 100 moved into bear-market territory
+- 11/23 09:20 [FirstSquawk] China’s stock exchanges are rolling out initiatives to enhance market liquidity and encourage trading as they seek to stem the ongoing downturn - SCMP
+- 11/23 09:23 [FirstSquawk] UN Mission in Libya raises alarm over attacks carried out against Benghazi seaport.
+- 11/23 09:23 [FirstSquawk] UN Mission in Libya underscores the importance of upholding Libya's sovereignty and territorial integrity while ensuring the protection of its people.
+- 11/23 09:32 [FirstSquawk] ASX 200 turns positive, last trading 0.1% higher at 8,600.10 points.
+- 11/23 09:36 [FirstSquawk] Chinese spies had been pursuing access to AI chip technology well ahead of the Nvidia controversy.
+- 11/23 09:38 [FirstSquawk] Bessent says Washington is looking for answers regarding Nvidia’s sales of chips to Chinese buyers - SCMP
+- 11/23 09:43 [FirstSquawk] UK tax expert Jim O’Neill calls on Burnham to push through a major overhaul of property taxes - FT
+- 11/23 09:46 [FirstSquawk] Delta’s latest flight delays add to mounting concerns over operational issues in the US air travel system - FT
+- 11/23 09:57 [FirstSquawk] UK-listed catering giant Compass considers transferring its primary listing from London to New York - FT
+- 11/23 10:00 [FirstSquawk] Samsung SDS suffers a sharp 15.7% decline in its share price.
+- 11/23 10:01 [FirstSquawk] Taiwan's overnight funding rate opens flat at 0.805%, unchanged from the prior session's open.
+- 11/23 10:05 [FirstSquawk] ASIAN CURRENCIES MIXED AS TRADERS DIGEST DIVERGENT SIGNALS - WSJ
+- 11/23 10:06 [FirstSquawk] Ukraine’s defence production capacity is facing a ceiling, hampered by scattered financing, difficulties recruiting personnel and security risks preventing factories from scaling up amid Russian strikes - WSJ
+- 11/23 10:07 [financialjuice] California Attorney General Bonta: This week I filed lawsuit against OpenAI for neglecting model security and endangering public safety
+- 11/23 10:07 [FirstSquawk] California Attorney General Bonta launches a lawsuit against OpenAI, citing alleged shortcomings in AI model security and public safety safeguards.
+- 11/23 10:11 [FirstSquawk] Silver rallies almost 3% as spot prices rise to $42.33 per ounce.
+- 11/23 10:11 [FirstSquawk] South Korea's finance minister set to discuss the stock market support fund during today's media briefing, according to the Blue House.
+- 11/23 10:12 [FirstSquawk] Gold prices build on earlier gains, with spot bullion rising almost 2% to $3,603.13/oz.
+- 11/23 10:16 [FirstSquawk] China's central bank sets the yuan reference rate at 6.7120 against the US dollar.
+- 11/23 10:23 [FirstSquawk] PBOC provides 499.5 billion yuan in short-term liquidity via overnight reverse repos at 1.25%, according to a statement.
+- 11/23 10:27 [FirstSquawk] Shanghai Composite set for a weak start, with futures indicating a 0.9% decline at the open.
+- 11/23 10:28 [FirstSquawk] Vietnam's PetroVietnam Gas is looking to secure 1.7 million MMBtu of LNG for delivery during December 19-23.
+- 11/23 10:34 [FirstSquawk] Japan’s underperforming stocks could see renewed investor interest after delivering solid earnings - WSJ
+- 11/23 10:40 [FirstSquawk] China's semiconductor sector faces selling pressure, dragging the CSI Semiconductor Index down 4.5%.
+- 11/23 10:48 [FirstSquawk] Vietnam's Nghi Son refinery locks in crude supplies through January, sourcing oil from Kuwait and additional suppliers.
+- 11/23 10:50 [FirstSquawk] South Korea's defence minister says extending the naval unit's deployment in the Gulf of Aden should not be interpreted as joining the US-Iran conflict over the Strait of Hormuz.
+- 11/23 11:04 [FirstSquawk] Citigroup sees stronger trade links driving increased appetite for Chinese yuan-denominated bonds in Central Asia and the Middle East - SCMP
+- 11/23 11:14 [FirstSquawk] Seoul says the proposed extension of its military presence in the Gulf of Aden does not indicate involvement in the US-Iran conflict.
+- 11/23 11:20 [FirstSquawk] Samsung Securities reports a security breach involving the personal details of over 8,000 clients.
+- 11/23 11:27 [FirstSquawk] Chinese semiconductor stocks come under heavy selling pressure as the sector index drops more than 5%.
+- 11/23 11:27 [FirstSquawk] CSI Semiconductor Materials and Equipment Index slides close to 6% in China.
+- 11/23 11:34 [FirstSquawk] South Korea's 5-year Treasury bonds issued at a yield of 3.715%, according to the Finance Ministry.
+- 11/23 11:40 [FirstSquawk] Indonesia's currency changes direction to trade 0.3% higher at 18,210 per dollar.
+- 11/23 11:41 [FirstSquawk] South Korea auctions 91-day monetary stabilisation debt at a yield of 3.280%, central bank says.
+- 11/23 11:42 [FirstSquawk] South Korean authorities are prepared to intervene to stabilize the stock market whenever required, Finance Ministry says.
+- 11/23 11:42 [FirstSquawk] South Korea's finance minister says authorities will target illegal short selling rather than introduce additional regulations
+- 11/23 11:42 [FirstSquawk] South Korea will keep its market stabilisation fund ready for deployment if conditions warrant, Finance Minister says.
+- 11/23 11:43 [FirstSquawk] India steps up Venezuelan oil imports, reinforcing growing energy ties with the United States - NA
+- 11/23 11:44 [FirstSquawk] Bisleri International reaffirms its commitment to drinking water safety, pledging full cooperation with authorities to address the issue through the appropriate channels.
+- 11/23 11:48 [FirstSquawk] GFZ records a 6.14-magnitude earthquake in the Vanuatu Islands region.
+- 11/23 11:58 [FirstSquawk] Gold gains as prices stage a likely technical recovery following recent losses - WSJ
+- 11/23 11:59 [FirstSquawk] Asian FX markets remain mixed as traders navigate divergent signals and shifting risk sentiment - WSJ
+- 11/23 12:02 [FirstSquawk] Indonesia's broad money growth picks up to 9.3% in October from 8.5% in September, according to the central bank.
+- 11/23 12:11 [FirstSquawk] Sterling advances past 1.3100 following upbeat UK retail sales figures, while hawkish Federal Reserve expectations lose momentum - FX
+- 11/23 12:18 [FirstSquawk] Seoul has prepared additional measures to tackle stock market turbulence, Finance Minister Lee Hyoung-il says, noting the existing stabilization fund - YONHAP
+- 11/23 12:25 [FirstSquawk] Taiwanese equities climb over 2% during the session.
+- 11/23 12:35 [FirstSquawk] BYD shares come under pressure after European authorities block an SUV over alleged design infringement involving Land Rover - FT
+- 11/23 12:44 [FirstSquawk] Oil prices slide beneath $83, with expectations of excess supply outweighing geopolitical risks in the Middle East - FX
+- 11/23 12:54 [FirstSquawk] Wall Street futures traded higher on Monday while Asian authorities worked to support weakening stock markets, following a broad sell-off last week in the technology and semiconductor sectors at the heart of the AI boom.
+- 11/23 13:00 [FirstSquawk] Seoul has stepped up surveillance of North Korean troop activity following the sighting of a North Korean ship near the NLL, according to the military - YONHAP
