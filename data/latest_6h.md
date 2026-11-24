@@ -7,58 +7,47 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-11-24 10:51 JST／対象: 11/24 04:51 〜 11/24 10:51 JST（時刻はすべて日本時間）
+生成: 2026-11-24 20:40 JST／対象: 11/24 14:40 〜 11/24 20:40 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
 | FirstSquawk | 0 | - | - | - |
-| financialjuice | 38 | 11/24 04:57 | 11/24 09:30 | ⚠ 96分（07:54→09:30） |
+| financialjuice | 27 | 11/24 15:08 | 11/24 20:10 | ⚠ 105分（15:16→17:01） |
 
 - 今回の取得: Telegramミラー 1/3（失敗: WalterBloomberg・firstsquaw）
-- 統合後 38 行（統合前 38 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 27 行（統合前 27 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/24 04:57 [financialjuice] Qatar’s Prime Minister and Foreign Minister tells Al Jazeera: The situation in the Middle East cannot withstand a new escalation between the United States and Iran.
-- 11/24 04:57 [financialjuice] Qatar's PM and Foreign Minister: Middle East cannot withstand new US-Iran escalation; working with both sides to revive negotiations - Al Jazeera.
-- 11/24 05:09 [financialjuice] US Treasury: Foreign Investor Demand Mixed Across Latest Note and Bond Auctions
-- 11/24 05:22 [financialjuice] Tuesday FX Options Expiries
-- 11/24 05:30 [financialjuice] The US is set to add Chinese chip firm Megaspeed to its trade blacklist later on Monday - Source Familiar with the matter
-- 11/24 05:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: -1587.7 MLN NASDAQ 100: -2874.1 MLN DOW 30: -193.0 MLN MAG 7: -1064.0 MLN $MACRO
-- 11/24 05:55 [financialjuice] The US and Qatar pledge to strengthen defense and security partnership
-- 11/24 05:57 [financialjuice] The US is set to add Singaporean chip firm Megaspeed to its trade blacklist later on Monday - Source Familiar with the matter
-- 11/24 06:00 [financialjuice] Fed's Williams: The Fed must act to lower inflation back to 2%.
-- 11/24 06:00 [financialjuice] Fed's Williams: Inflation should end 2026 at 3.5%, back to 2% in 2028
-- 11/24 06:00 [financialjuice] Fed's Williams: The jobless rate should ebb to 4% by next year.
-- 11/24 06:01 [financialjuice] Fed's Williams: Inflation is still too high, and risks are skewed to the upside.
-- 11/24 06:01 [financialjuice] Fed's Williams: continuing to look at data to determine the economy’s future path
-- 11/24 06:01 [financialjuice] Fed's Williams: The US economy to grow 2.75% in both 2026 and 2027.
-- 11/24 06:01 [financialjuice] Fed's Williams: AI impact on the economy is uncertain
-- 11/24 06:01 [financialjuice] Fed's Williams: The job market has been stable.
-- 11/24 06:01 [financialjuice] Fed's Williams: Economy is strong and showing resilience
-- 11/24 06:01 [financialjuice] Fed's Williams: I do not see inflation pressures broadening much.
-- 11/24 06:01 [financialjuice] Fed's Williams: Outlook for energy prices remains uncertain
-- 11/24 06:03 [financialjuice] Three Tankers involved in illegal activities explode in the Strait of Hormuz - IRIB News.
-- 11/24 06:06 [financialjuice] Fed's watchdog probes Bowman dinner with BofA clients - Source.
-- 11/24 06:17 [financialjuice] Stocks Stage Biggest Rally Since April 2025 as Nvidia Reinstates Huang – US Market Wrap
-- 11/24 06:23 [financialjuice] Trump Holds Public Event After Jensen Huang Reinstated As Nvidia CEO - WATCH LIVE
-- 11/24 06:25 [financialjuice] Fed's Williams: The underpinnings of strong growth have some challenges.
-- 11/24 06:26 [financialjuice] Fed's Williams: We've been working very hard to get inflation down, and have made progress
-- 11/24 06:35 [financialjuice] Fed's Williams: The economy has been resilient in the face of many large challenges.
-- 11/24 06:35 [financialjuice] Fed's Williams: What has driven inflation up recently has been unusual factors.
-- 11/24 06:36 [financialjuice] Fed's Williams: 2027 will be a year of lower inflation
-- 11/24 06:40 [financialjuice] Fed's Williams: Companies want to hire, but they are being cautious
-- 11/24 06:51 [financialjuice] Fed's Williams: There is an understanding that independent central banks deliver better economic outcomes.
-- 11/24 06:55 [financialjuice] Meta Platforms: Mark Zuckerberg grants waiver on Class C stock dividend payment deadline - SEC filing $META
-- 11/24 06:56 [financialjuice] ANZ Bank brings forward first RBA rate cut forecast to June 2027.
-- 11/24 07:00 [financialjuice] Qatari Prime Minister and Qatari Envoy met today with Vance - Axios.
-- 11/24 07:31 [financialjuice] Saudi-led coalition: drone launched by Yemen's Houthis towards southern region intercepted, destroyed
-- 11/24 07:52 [financialjuice] Anthropic PBC CEO Dario Amodei unloads 3.38 million class A shares at $83 apiece on Nov. 20: SEC filing
-- 11/24 07:54 [financialjuice] California AG: Attorney General Bonta submits amicus brief in Epic v. Apple
-- 11/24 09:30 [financialjuice] JAPANESE MFG PMI FLASH ACTUAL 53.7 (FORECAST -, PREVIOUS 53.3) $MACRO
-- 11/24 09:30 [financialjuice] JAPANESE COMPOSITE PMI FLASH ACTUAL 51.5 (FORECAST -, PREVIOUS 52.1) $MACRO
+- 11/24 15:08 [financialjuice] JAPANESE CHAIN STORE SALES YOY ACTUAL 1% (FORECAST -, PREVIOUS 1%) $MACRO
+- 11/24 15:16 [financialjuice] Iran's Parliament Speaker Ghalibaf: Position unchanged on negotiations - Fars
+- 11/24 17:01 [financialjuice] Currency Strength Chart: Strongest: CAD, GBP, EUR, USD, AUD, NZD, CHF, GBP - Weakest
+- 11/24 17:01 [financialjuice] Iraqi PM directs federal oil ministry to manage all its oilfields under Kurdish regional security control in Diyala, Kirkuk, Salahuddin, and Nineveh provinces
+- 11/24 17:25 [financialjuice] UKMTO gets a time-late report of an incident near Khor Fakkan, UAE
+- 11/24 17:35 [financialjuice] China Commerce Ministry: Issue temporary EU hybrid vehicle measures.
+- 11/24 17:35 [financialjuice] China Commerce Ministry: Urges EU to abide by bilateral consensus and strictly follow WTO rules in probe.
+- 11/24 17:37 [financialjuice] ECB's Simkus: More tightening needed in 2027 if inflation persists.
+- 11/24 17:37 [financialjuice] ECB's Simkus: Don't see a risk of over-tightening.
+- 11/24 17:37 [financialjuice] ECB's Simkus: ECB should act preemptively, sooner rather than later.
+- 11/24 17:37 [financialjuice] ECB's Simkus: Recent euro weakness is another inflationary factor.
+- 11/24 17:43 [financialjuice] Japan eyes easing FX special account rules for tax cut - Kyodo.
+- 11/24 17:46 [financialjuice] China Suspends export control on some dual-use items to US.
+- 11/24 17:49 [financialjuice] Iran must tighten Hormuz management until conditions met - Tasnim
+- 11/24 18:00 [financialjuice] ❗ GERMAN IFO BUSINESS CLIMATE ACTUAL 90.6 (FORECAST 90.5, PREVIOUS 90.2) $MACRO
+- 11/24 18:01 [financialjuice] ❗ GERMAN IFO EXPECTATIONS ACTUAL 91.6 (FORECAST 92, PREVIOUS 91.6) $MACRO
+- 11/24 18:23 [financialjuice] JP Morgan cuts target price of $Meta to $775 from $940.
+- 11/24 19:17 [financialjuice] Kristersson: continue discussions with Center but decision rests with them
+- 11/24 19:25 [financialjuice] ECB: banks left €1.9 trillion with it overnight
+- 11/24 19:25 [financialjuice] ECB: banks borrowed €21.0 million at marginal rate
+- 11/24 19:26 [financialjuice] Linklaters recruits competition lawyer Jenine Hulsmann from Weil
+- 11/24 19:43 [financialjuice] Kremlin: Europeans are pushing for four-way Ukraine talks - Tass
+- 11/24 19:49 [financialjuice] An Israeli airstrike kills senior Hamas security official in Gaza - Hamas sources
+- 11/24 19:50 [financialjuice] Anthropic and OpenAI staff fear models are too unsafe to release - Axios
+- 11/24 19:59 [financialjuice] Iran's IRGC: Another tanker hit mine in Hormuz Tuesday - Fars
+- 11/24 20:00 [financialjuice] UK CBI DISTRIBUTIVE TRADES ACTUAL 9 (FORECAST -28, PREVIOUS -10) $MACRO
+- 11/24 20:10 [financialjuice] Nvidia: Citigroup raises target price to $240 from $225 $NVDA
