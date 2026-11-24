@@ -7,115 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-11-23 23:33 JST／対象: 11/22 23:33 〜 11/23 23:33 JST（時刻はすべて日本時間）
+生成: 2026-11-24 10:51 JST／対象: 11/23 10:51 〜 11/24 10:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 46 | 11/23 05:46 | 11/23 23:31 | ⚠ 810分（06:58→20:29） |
-| FirstSquawk | 214 | 11/22 23:42 | 11/23 23:32 | ⚠ 106分（04:34→06:20） |
-| financialjuice | 83 | 11/23 00:39 | 11/23 23:31 | ⚠ 240分（02:45→06:45） |
+| DeItaone | 43 | 11/23 20:29 | 11/23 23:31 | 33分（21:07→21:41） |
+| FirstSquawk | 134 | 11/23 11:04 | 11/23 23:32 | ⚠ 49分（16:00→16:50） |
+| financialjuice | 201 | 11/23 14:01 | 11/24 09:30 | ⚠ 117分（14:01→15:58） |
 
-- 今回の取得: Telegramミラー 3/3
-- 統合後 328 行（統合前 343 件）。同文は1行にまとめ、アカウントを併記しています
+- 今回の取得: Telegramミラー 1/3（失敗: WalterBloomberg・firstsquaw）
+- 統合後 372 行（統合前 380 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/22 23:42 [FirstSquawk] The Government of National Unity in Libya: We reject turning Libya into a battleground for international conflicts.
-- 11/22 23:43 [FirstSquawk] The Government of National Unity in Libya: We are following with concern the reports circulating about the explosion in the city of Benghazi.
-- 11/22 23:43 [FirstSquawk] The Libyan government appointed by the House of Representatives: An explosion occurred aboard a Russian ship docked at Benghazi port.
-- 11/22 23:43 [FirstSquawk] The Libyan government appointed by the House of Representatives: The Russian ship is likely to have been attacked using drones.
-- 11/22 23:44 [FirstSquawk] The Libyan government appointed by the House of Representatives: Security agencies have been instructed to open an investigation into the attack on a Russian vessel.
-- 11/22 23:44 [FirstSquawk] The Libyan government appointed by parliament: We are coordinating with Moscow to conduct a joint investigation into the attack on the Russian ship.
-- 11/22 23:44 [FirstSquawk] Jordanian monarch issues a decree appointing Major General Ayman Al-Awaisheh as director of public security after accepting the resignation of Public Security Director Obaidullah Al-Maaytah.
-- 11/22 23:44 [FirstSquawk] Iraqi judiciary takes action against suspects allegedly involved in oil smuggling between Dhi Qar and Basra governorates.
-- 11/22 23:45 [FirstSquawk] Iraqi judiciary: Members of the Energy Police tasked with protecting an oil pipeline between Dhi Qar and Basra arrested
-- 11/23 00:14 [FirstSquawk] Axios: Ukraine’s Security Service carried out the long-range attack targeting a Russian warship in Libya.
-- 11/23 00:14 [FirstSquawk] U.S. Director of National Intelligence tells Fox News: FBI is investigating a cyberattack on its National Crime Information Center
-- 11/23 00:15 [FirstSquawk] U.S. Director of National Intelligence to Fox News: Cyberattacks are an ongoing challenge that we deal with every day.
-- 11/23 00:20 [FirstSquawk] Yemeni government forces: We carried out 639 strikes against Houthi militia positions over the past few hours.
-- 11/23 00:39 [financialjuice/FirstSquawk] US Treasury Secretary Bessent: no answers yet on Nvidia chip sales to China, we need clarity
-- 11/23 00:41 [financialjuice/FirstSquawk] Knew about this, confident committees moving quickly to find answers: CBS
-- 11/23 00:41 [financialjuice/FirstSquawk] US Treasury Secretary Bessent: what level of Nvidia business we need to see
-- 11/23 00:41 [financialjuice/FirstSquawk] US Treasury Secretary Bessent: need to identify who led compliance at Nvidia - CBS
-- 11/23 00:41 [financialjuice/FirstSquawk] US Treasury Secretary Bessent: we need to find where the buck stops
-- 11/23 00:41 [financialjuice/FirstSquawk] US Treasury Secretary Bessent: need to determine which level of Nvidia business was aware, confident committees are swiftly seeking answers - CBS
-- 11/23 00:57 [FirstSquawk] Jordanian Public Security Directorate: A member of the armed forces was injured after being stabbed with a sharp object.
-- 11/23 00:58 [FirstSquawk] Jordanian Public Security Directorate: A member of the armed forces was injured by a sharp object in Madaba Governorate.
-- 11/23 00:58 [FirstSquawk] Jordanian government: Approval of three draft laws to toughen terrorism penalties and referral to the House of Representatives on an urgent basis
-- 11/23 00:58 [FirstSquawk] Jordanian government: Doubling the minimum penalties for terrorism from 5 to 10 years, and sometimes from 10 to 15 years
-- 11/23 00:59 [FirstSquawk] Jordanian government: Penalties for terrorist crimes may include the death penalty.
-- 11/23 00:59 [financialjuice/FirstSquawk] Ukmto reports incident involving tanker and military forces in Gulf of Oman
-- 11/23 01:28 [FirstSquawk] UK Maritime Trade Operations: Report of an incident involving a tanker and military forces in the Gulf of Oman
-- 11/23 01:28 [FirstSquawk] Russian Ministry of Defense: A cargo ship carrying dual-use materials for the Ukrainian military was targeted in the Black Sea.
-- 11/23 01:36 [financialjuice] Yemen's Houthis: attack on Rabigh oil refinery on Saudi Arabia's western Red Sea coast
-- 11/23 01:50 [FirstSquawk] Libyan sources: Reports of another drone attack targeting a merchant ship off the coast of Benghazi
-- 11/23 02:17 [financialjuice/FirstSquawk] Commercial vessel flying Maltese flag hit by suicide drone boat off Libya's Benghazi: two Libyan military sources
-- 11/23 02:19 [financialjuice/FirstSquawk] More than 12 drone boats intercepted off Benghazi coast by Libyan naval and air forces, two Libyan military sources say
-- 11/23 02:45 [financialjuice] FJ 2.0 now has real-time news for day traders in these languages 😍 English Español 한국어 中文 Français Türkçe Português العربية Русский हिन्दी Deutsch
-- 11/23 03:15 [FirstSquawk] IMF SEES ISRAEL'S ECONOMY GROWING 4.5% IN 2026 DESPITE WAR, ON TRACK TO RANK 25TH GLOBALLY
-- 11/23 03:39 [FirstSquawk] TRUMP TELLS FOX NEWS HE IS "INCLINED" TO RESUME STRIKES AGAINST IRAN AFTER THE NEW YEAR IF NO DEAL IS REACHED, SAYING "IRANIANS TALK ALL THE TIME. ALL THEY DO IS TALK, BUT IT'S ALL BS"
-- 11/23 03:39 [FirstSquawk] TRUMP SAYS "I HOPE IRANIAN TANKERS TRY TO TEST THE BLOCKADE. THEY WILL ALL BE AT THE BOTTOM OF THE SEA, LIKE IRAN'S NAVY" - FOX NEWS
-- 11/23 04:15 [FirstSquawk] A SOURCE SAYS ON THE STRIKE ON A RUSSIAN SHIP IN BENGHAZI, LIBYA, THAT THE VEHICLES LAUNCHED FROM ALBANIA, NOT WESTERN LIBYA, THAT THE EASTERN LIBYAN SIDE DETECTED THE LAUNCH, AND THAT THE "WESTERN LIBYA" ACCOUNT IS A DIVERSION BY UKRAINIAN…
-- 11/23 04:16 [FirstSquawk] ABDUL EL-SAYED SAYS "I DON'T BELIEVE IN ETHNOSTATES. YOU AND I ARE BOTH AMERICANS," ADDING THAT THOUGH SKIN COLOR MAY DIFFER AND PEOPLE PRAY IN DIFFERENT WAYS, AMERICAN LAWS RESPECT THEM THE SAME, AND THAT THE IDEA ANY GOVERNMENT THE US SUP…
-- 11/23 04:16 [FirstSquawk] ABDUL EL-SAYED SAYS "WE HAVE BEEN TOLD THAT ISRAEL IS A JEWISH DEMOCRATIC STATE. I THINK FOLKS ARE HAVING TO CHOOSE. IS IT A JEWISH STATE OR A DEMOCRATIC STATE?" ADDING THAT BASED ON US PRINCIPLES "WE SHOULD PUT DEMOCRACY OVER EVERYTHING EL…
-- 11/23 04:16 [FirstSquawk] ABDUL EL-SAYED SAYS "I DON'T BELIEVE IN ETHNOSTATES GENERALLY. WE SHOULDN'T FUND THE MILITARY OF PAKISTAN EITHER," SAYING HE IS TRYING TO APPLY HIS IDEALS EVENLY
-- 11/23 04:16 [FirstSquawk] ABDUL EL-SAYED SAYS IT IS IMPORTANT TO REMEMBER THERE ARE PALESTINIAN PEOPLE WHOSE FAMILIES HAVE BEEN IN THE HOLY LAND FOR GENERATIONS WHO WERE TOLD THEY WOULD HAVE A STATE OF THEIR OWN, ONLY TO WATCH THE ISRAELI STATE EXPANDING WITH US SUP…
-- 11/23 04:16 [FirstSquawk] ABDUL EL-SAYED SAYS THAT IF TRUMP WANTS "TRUMPCARE FOR ALL" AND IS OPEN TO SIGNING IT, A LOT OF REPUBLICANS WOULD BE OPEN TO VOTE FOR IT
-- 11/23 04:34 [FirstSquawk] SANFORD SAYS ROB MCLEOD WILL RETIRE AS CHAIR AND DIRECTOR ON 16 DECEMBER 2026, WITH TONY CARTER TO TAKE OVER AS CHAIR FROM THE CLOSE OF THE 2026 ANNUAL SHAREHOLDER MEETING
-- 11/23 05:46 [DeItaone] ANTHROPIC 2X ETFs FROM LEVERAGE SHARES: TRADING STARTS MONDAY Anthropic is now public. On Monday, its leveraged ETFs follow. $ANUU: 2x Long Anthropic $ANDD: 2x Short Anthropic Set your alerts. Bookmark this. Access full risk disclosures at …
-- 11/23 05:47 [DeItaone] TRUMP SIGNALS POSSIBLE NEW STRIKES ON IRAN AFTER NEW YEAR President Donald Trump says he is “inclined to” resume military strikes against Iran after January 1 if ongoing negotiations fail to produce an agreement. Speaking to Fox News, Trump…
-- 11/23 06:20 [FirstSquawk] KIM JONG UN SAYS NORTH KOREA IS READY TO STRENGTHEN TIES WITH ALL COUNTRIES THAT RESPECT ITS SOVEREIGNTY
-- 11/23 06:21 [FirstSquawk] KIM JONG UN SAYS EAST ASIA'S SECURITY ENVIRONMENT OBLIGES PYONGYANG TO SECURE ITS OWN DEFENSE CAPABILITIES
-- 11/23 06:45 [financialjuice] NEW ZEALAND RETAIL SALES YOY ACTUAL 3.5% (FORECAST -, PREVIOUS 3.3%) $MACRO
-- 11/23 06:45 [financialjuice] NEW ZEALAND RETAIL SALES QOQ ACTUAL 2.2% (FORECAST 0.5%, PREVIOUS -0.5%) $MACRO
-- 11/23 06:58 [DeItaone] GOLDMAN WARNS STOCK MARKET BOTTOM REMAINS UNCERTAIN DESPITE EXTREME SELLOFF Wall Street strategists see potential buying opportunities after a brutal week, but warn that further selling remains possible. 🔸 Nasdaq 100: -19.8% from its Octobe…
-- 11/23 07:00 [financialjuice] AUSTRALIAN COMPOSITE PMI FLASH ACTUAL 46.1 (FORECAST -, PREVIOUS 48.2) $MACRO
-- 11/23 07:00 [financialjuice] AUSTRALIAN MANUFACTURING PMI FLASH ACTUAL 48.7 (FORECAST -, PREVIOUS 49.6) $MACRO
-- 11/23 07:00 [financialjuice] AUSTRALIAN SERVICES PMI FLASH ACTUAL 46.2 (FORECAST -, PREVIOUS 48.5) $MACRO
-- 11/23 07:26 [FirstSquawk] DELTA FLIGHTS FACE BRIEF DELAYS AT ATLANTA AIRPORT AFTER AUTOMATED SYSTEM ISSUE
-- 11/23 08:19 [FirstSquawk] EUROPEAN NATURAL GAS CLIMBS AS MUCH AS 6.4% AT THE START OF TRADING
-- 11/23 08:47 [FirstSquawk] TREASURY FUTURES SLIP IN EARLY ASIA TRADING
-- 11/23 08:48 [FirstSquawk] OIL PRICES HOLD STEADY AS MIDDLE EAST TENSIONS COMPETE WITH AMPLE SUPPLY
-- 11/23 08:54 [FirstSquawk] AUSTRALIA'S S&P/ASX 200 INDEX SLIPS 0.5% TO 8,548.5 POINTS
-- 11/23 08:55 [FirstSquawk] TRUMP SAYS HE PREDICTED TWO THINGS CONCERNING THE NOVEMBER 3RD MIDTERM ELECTIONS — THAT IF THE DEMOCRATS WIN THE STOCK MARKETS WOULD GO DOWN SUBSTANTIALLY, WHICH THEY HAVE, AND THAT THE ISLAMIC REPUBLIC OF IRAN, "WHICH HAS KILLED 81,000 PRO…
-- 11/23 08:55 [FirstSquawk] TRUMP SAYS IRAN HAS LAUNCHED MORE DRONES AND MISSILES IN THE LAST WEEK THAN AT ANY TIME FOR OVER A YEAR BUT "THEY'VE ALL BEEN KNOCKED DOWN, AND DONE NO DAMAGE," ADDING THAT IRANIAN LEADERS CONSIDER THE DEMOCRATS "WEAK, INEFFECTIVE, AND COUN…
-- 11/23 08:55 [FirstSquawk] TRUMP SAYS BOTH THE DEMS AND IRAN "FOUGHT LIKE HELL TO KEEP THE OIL PRICE UP," WITH THE OIL PRICE HAVING DROPPED BY A RECORD LEVEL SINCE THE ELECTION, ADDING "TOO BAD THE VOTERS DIDN'T UNDERSTAND THIS BEFORE THEY PULLED THE TRIGGER, BUT THE…
-- 11/23 08:55 [FirstSquawk] BRENT CRUDE FUTURES FALL $1 TO $91.57 A BARREL
-- 11/23 08:58 [financialjuice] Libya's NOC: valve closure on Sharara oil pipeline by unlawful group to cut about 350,000 bpd of output
-- 11/23 09:00 [FirstSquawk] LIBYA'S NOC SAYS THE CLOSURE OF A VALVE ON THE SHARARA OIL PIPELINE BY AN "UNLAWFUL GROUP" WILL CAUSE A LOSS OF AROUND 350,000 BPD OF PRODUCTION - LIBYA'S NOC
-- 11/23 09:01 [FirstSquawk] NASDAQ 100 FUTURES CLIMB 2.9% AND S&P 500 FUTURES RISE 2% AS US FUTURES EXTEND GAINS
-- 11/23 09:03 [FirstSquawk] SPOT GOLD CLIMBS MORE THAN 1% TO $3,577.32 AN OUNCE
-- 11/23 09:18 [FirstSquawk] Asia-Pacific stocks faced a weak start following Friday’s tech-driven losses on Wall Street, as the S&P 500 entered a correction and the Nasdaq 100 moved into bear-market territory
-- 11/23 09:20 [FirstSquawk] China’s stock exchanges are rolling out initiatives to enhance market liquidity and encourage trading as they seek to stem the ongoing downturn - SCMP
-- 11/23 09:23 [FirstSquawk] UN Mission in Libya raises alarm over attacks carried out against Benghazi seaport.
-- 11/23 09:23 [FirstSquawk] UN Mission in Libya underscores the importance of upholding Libya's sovereignty and territorial integrity while ensuring the protection of its people.
-- 11/23 09:32 [FirstSquawk] ASX 200 turns positive, last trading 0.1% higher at 8,600.10 points.
-- 11/23 09:36 [FirstSquawk] Chinese spies had been pursuing access to AI chip technology well ahead of the Nvidia controversy.
-- 11/23 09:38 [FirstSquawk] Bessent says Washington is looking for answers regarding Nvidia’s sales of chips to Chinese buyers - SCMP
-- 11/23 09:43 [FirstSquawk] UK tax expert Jim O’Neill calls on Burnham to push through a major overhaul of property taxes - FT
-- 11/23 09:46 [FirstSquawk] Delta’s latest flight delays add to mounting concerns over operational issues in the US air travel system - FT
-- 11/23 09:57 [FirstSquawk] UK-listed catering giant Compass considers transferring its primary listing from London to New York - FT
-- 11/23 10:00 [FirstSquawk] Samsung SDS suffers a sharp 15.7% decline in its share price.
-- 11/23 10:01 [FirstSquawk] Taiwan's overnight funding rate opens flat at 0.805%, unchanged from the prior session's open.
-- 11/23 10:05 [FirstSquawk] ASIAN CURRENCIES MIXED AS TRADERS DIGEST DIVERGENT SIGNALS - WSJ
-- 11/23 10:06 [FirstSquawk] Ukraine’s defence production capacity is facing a ceiling, hampered by scattered financing, difficulties recruiting personnel and security risks preventing factories from scaling up amid Russian strikes - WSJ
-- 11/23 10:07 [financialjuice] California Attorney General Bonta: This week I filed lawsuit against OpenAI for neglecting model security and endangering public safety
-- 11/23 10:07 [FirstSquawk] California Attorney General Bonta launches a lawsuit against OpenAI, citing alleged shortcomings in AI model security and public safety safeguards.
-- 11/23 10:11 [FirstSquawk] Silver rallies almost 3% as spot prices rise to $42.33 per ounce.
-- 11/23 10:11 [FirstSquawk] South Korea's finance minister set to discuss the stock market support fund during today's media briefing, according to the Blue House.
-- 11/23 10:12 [FirstSquawk] Gold prices build on earlier gains, with spot bullion rising almost 2% to $3,603.13/oz.
-- 11/23 10:16 [FirstSquawk] China's central bank sets the yuan reference rate at 6.7120 against the US dollar.
-- 11/23 10:23 [FirstSquawk] PBOC provides 499.5 billion yuan in short-term liquidity via overnight reverse repos at 1.25%, according to a statement.
-- 11/23 10:27 [FirstSquawk] Shanghai Composite set for a weak start, with futures indicating a 0.9% decline at the open.
-- 11/23 10:28 [FirstSquawk] Vietnam's PetroVietnam Gas is looking to secure 1.7 million MMBtu of LNG for delivery during December 19-23.
-- 11/23 10:34 [FirstSquawk] Japan’s underperforming stocks could see renewed investor interest after delivering solid earnings - WSJ
-- 11/23 10:40 [FirstSquawk] China's semiconductor sector faces selling pressure, dragging the CSI Semiconductor Index down 4.5%.
-- 11/23 10:48 [FirstSquawk] Vietnam's Nghi Son refinery locks in crude supplies through January, sourcing oil from Kuwait and additional suppliers.
-- 11/23 10:50 [FirstSquawk] South Korea's defence minister says extending the naval unit's deployment in the Gulf of Aden should not be interpreted as joining the US-Iran conflict over the Strait of Hormuz.
 - 11/23 11:04 [FirstSquawk] Citigroup sees stronger trade links driving increased appetite for Chinese yuan-denominated bonds in Central Asia and the Middle East - SCMP
 - 11/23 11:14 [FirstSquawk] Seoul says the proposed extension of its military presence in the Gulf of Aden does not indicate involvement in the US-Iran conflict.
 - 11/23 11:20 [FirstSquawk] Samsung Securities reports a security breach involving the personal details of over 8,000 clients.
@@ -352,3 +260,139 @@
 - 11/23 23:31 [DeItaone] $NVDA - *NVIDIA ADDS NEARLY $1 TRILLION IN MARKET VALUE
 - 11/23 23:32 [FirstSquawk] DOW JONES UP 1,340.31 POINTS, OR 2.78 PERCENT, AT 49,487.64 AFTER MARKET OPEN
 - 11/23 23:32 [FirstSquawk] S&P 500 UP 340.93 POINTS, OR 4.93 PERCENT, AT 7,251.32 AFTER MARKET OPEN
+- 11/23 23:33 [financialjuice] NVIDIA is on track to add more than $900 billion to its market value. $NVDA
+- 11/23 23:41 [financialjuice] Musk after Nvidia announces Jensen Huang's return as CEO: It is done. $NVDA
+- 11/23 23:45 [financialjuice] US S&P COMPOSITE PMI FLASH ACTUAL 54.6 (FORECAST 55.6, PREVIOUS 55.9) $MACRO
+- 11/23 23:45 [financialjuice] ❗ US S&P MANUFACTURING PMI FLASH ACTUAL 54.5 (FORECAST 54.5, PREVIOUS 54.9) $MACRO
+- 11/23 23:45 [financialjuice] ❗ US S&P SERVICES PMI FLASH ACTUAL 54.7 (FORECAST 55.5, PREVIOUS 56.1) $MACRO
+- 11/23 23:46 [financialjuice] US S&P PMI November 2026 Report
+- 11/23 23:48 [financialjuice] Senator Gallego urges probe of stock positions before Nvidia statement. $NVDA
+- 11/24 00:00 [financialjuice] Nvidia set to add more than $1 trillion in market value. $NVDA
+- 11/24 00:02 [financialjuice] EC Pres. von der Leyen: We are targeting new Russia sanctions on financial services and crypto.
+- 11/24 00:04 [financialjuice] EU Commission President von der Leyen: Russia sanctions ban 60 Russian banks from SWIFT.
+- 11/24 00:04 [financialjuice] Wells Fargo Investment Institute upgrades US large cap equities to most favorable from favorable.
+- 11/24 00:05 [financialjuice] ❗ Trump dialed into Nvidia board meeting - Semafor. $NVDA
+- 11/24 00:08 [financialjuice] Trump: I felt very strongly that Huang should come back - CNBC.
+- 11/24 00:08 [financialjuice] Trump: Huang makes great chips. $NVDA
+- 11/24 00:09 [financialjuice] Trump on Jensen Huang returning to Nvidia: He did nothing wrong - CNBC. $NVDA
+- 11/24 00:10 [financialjuice] Trump: We've done very thorough investigation on Jensen Huang. $NVDA
+- 11/24 00:10 [financialjuice] Trump: The biggest threat would be to lose Jensen's brain power. $NVDA
+- 11/24 00:11 [financialjuice] Trump asked on Alice Huang: who isn't in contact with China? $NVDA
+- 11/24 00:11 [financialjuice] Trump: I found the NVIDIA board to be reasonable. $NVDA
+- 11/24 00:12 [financialjuice] Trump: We gave Nvidia board assurance on national security. $NVDA
+- 11/24 00:12 [financialjuice] Trump: Spoke to Xi at length about Jensen Huang. $NVDA
+- 11/24 00:13 [financialjuice] Trump: Stock market moves probably impacted my Nvidia push. $NVDA
+- 11/24 00:14 [financialjuice] Trump: Nvidia's super advanced chips can't be copied - CNBC. $NVDA
+- 11/24 00:14 [financialjuice] Fitch Ratings: Deteriorating outlook for US banks in 2027 on rising risks.
+- 11/24 00:14 [financialjuice] Trump: Huang has chips in mind far beyond Blackwell. $NVDA
+- 11/24 00:15 [financialjuice] Trump: Huang will start NVIDIA return at a higher level. $NVDA
+- 11/24 00:17 [financialjuice] Trump on chips: Not bothered by selling obsolete technology.
+- 11/24 00:18 [financialjuice] Trump on Huang: He's apologized, they've accepted. $NVDA
+- 11/24 00:19 [financialjuice] Trump draws line between smuggling of advanced vs old chips.
+- 11/24 00:20 [financialjuice] Trump on Nvidia: Was a rocket ship going in wrong direction. $NVDA
+- 11/24 00:21 [financialjuice] Trump: Spoke to Huang last night. $NVDA
+- 11/24 00:21 [financialjuice] Burnham faces MPs to deliver statement on new EU deal - WATCH LIVE
+- 11/24 00:21 [financialjuice] Trump: Huang said he'll work harder than ever. $NVDA
+- 11/24 00:21 [financialjuice] Trump: Investors should be very happy. $NVDA
+- 11/24 00:21 [financialjuice] Trump: We want Huang on our side. $NVDA
+- 11/24 00:23 [financialjuice] Trump: Not concerned now about an AI bubble.
+- 11/24 00:25 [financialjuice] Trump: US VP Vance was involved in the NVIDIA decision. $NVDA
+- 11/24 00:28 [financialjuice] Trump: I asked Xi, "Why don't you slow down on nuclear weapons?"
+- 11/24 00:29 [financialjuice] Trump: We could have seen China paying Huang to flip sides. We wouldn't want China to poach Huang. $NVDA
+- 11/24 00:29 [financialjuice] Trump: If Huang was angry enough, he could've worked for China. $NVDA
+- 11/24 00:30 [financialjuice] House Foreign Affairs plans for Huang hearing unchanged. Huang to attend closed-door briefing. $NVDA
+- 11/24 00:32 [financialjuice] Trump: Working on trade deal involving soybeans.
+- 11/24 00:32 [financialjuice] Trump: Huang is already thinking three chips into the future. $NVDA
+- 11/24 00:39 [financialjuice] UK's PM Burnham: There is a clear consensus among Britons wanting closer EU ties.
+- 11/24 00:40 [financialjuice] UK's PM Burnham: We should build new and more constructive relations with the EU.
+- 11/24 00:41 [financialjuice] Bernstein raises Nvidia to Outperform from Market Perform. $NVDA
+- 11/24 00:41 [financialjuice] Trump on intervening in public company: Doing it for the US. $NVDA
+- 11/24 00:42 [financialjuice] UK PM Burnham: Bill to implement EU deal will be introduced Thursday
+- 11/24 00:43 [financialjuice] Trump: DoJ will intervene if AI firms move too fast.
+- 11/24 00:44 [financialjuice] Trump praises Anthropic's Amodei. $ANT
+- 11/24 00:44 [financialjuice] UK PM Burnham: EU and UK to avoid policy harming each other's industries
+- 11/24 00:46 [financialjuice] UK PM Burnham: EU deal worth up to 0.5% of the British economy
+- 11/24 00:48 [financialjuice] UK holding informal exchange of ideas with EU on future ties.
+- 11/24 00:50 [financialjuice] Nvidia gets bullish fresh pick designation at Baird. $NVDA
+- 11/24 00:51 [financialjuice] Trump: I didn't discuss if Alice Huang were a spy with Xi. $NVDA
+- 11/24 00:52 [financialjuice] Trump: Xi is probably not thrilled at the NVIDIA news. $NVDA
+- 11/24 00:53 [financialjuice] Nvidia short sellers set to clock about $12.2 bln in paper losses as shares rise to $168.5, biggest one-day loss since at least 2019 - Ortex. $NVDA
+- 11/24 00:57 [financialjuice] Trump: Think China will buy another 250 Boeings. $BA
+- 11/24 00:57 [financialjuice] Trump ends remarks on CNBC
+- 11/24 01:08 [financialjuice] Schumer: Democrats will wield their full power to probe Jensen Huang, the Administration and other Nvidia executives. $NVDA
+- 11/24 01:14 [financialjuice] Musk told staff SpaceX is falling behind on AI development - NYT. $SPCX
+- 11/24 01:15 [financialjuice] Musk shared data showing that the company lagged competitors - NYT. $SPCX
+- 11/24 01:22 [financialjuice] Anthropic has so much demand for computing power that by October. SpaceXAI needed to finish new data centers to fulfill Anthropic’s orders - NYT. $ANT
+- 11/24 01:24 [financialjuice] UK PM Burnham: Unthinkable to take UK back into EU without referendum
+- 11/24 01:36 [financialjuice] UK's PM Burnham: Not proposing at this moment to rerun the EU referendum
+- 11/24 01:42 [financialjuice] Q4 2026 Brent crude price forecast by major banks rises - WSJ
+- 11/24 01:42 [financialjuice] US 3-MONTH BILL BID-TO-COVER ACTUAL 2.74 (FORECAST -, PREVIOUS 2.760) $MACRO
+- 11/24 01:42 [financialjuice] US 3-MONTH BILL HIGH YIELD ACTUAL 4.18% (FORECAST -, PREVIOUS 4.155%) $MACRO
+- 11/24 01:43 [financialjuice] US 3-MONTH AWARDED HIGH ACTUAL 20.690% (FORECAST -, PREVIOUS 93.850%) $MACRO
+- 11/24 01:43 [financialjuice] US 6-MONTH BILL BID-TO-COVER ACTUAL 2.6 (FORECAST -, PREVIOUS 2.830) $MACRO
+- 11/24 01:43 [financialjuice] US 6-MONTH BILL HIGH YIELD ACTUAL 4.34% (FORECAST -, PREVIOUS 4.310%) $MACRO
+- 11/24 01:45 [financialjuice] US 3-Month Bill Auction High Yield 4.180% Bid-to-cover 2.74 Sells $95 bln Awards 20.69% of bids at a high
+- 11/24 01:46 [financialjuice] US 6-Month Bill Auction High Yield 4.340% Bid-to-cover 2.60 Sells $82 bln Awards 53.42% of bids at high
+- 11/24 01:46 [financialjuice] US Commerce Secretary Lutnick was not involved with NVIDIA's board decision to reinstate Huang as CEO - Source Familiar. $NVDA
+- 11/24 01:48 [financialjuice] US 6-MONTH AWARDED HIGH ACTUAL 53.420% (FORECAST -, PREVIOUS 7.390%) $MACRO
+- 11/24 01:50 [financialjuice] The Trump Administration stressed to Nvidia in a call over the weekend that they needed to make sure they were abiding by export controls if they were to reinstall Jensen Huang as CEO - Source $NVDA
+- 11/24 01:54 [financialjuice] US VP Vance spoke with Huang and worked with Nvidia over the weekend - NYT
+- 11/24 02:04 [financialjuice] US Sen. Scott announces the Huang hearing for December 3rd. $NVDA
+- 11/24 02:06 [financialjuice] Google introduces tailored Google search. $GOOGL
+- 11/24 02:40 [financialjuice] Nvidia top executives were informed of decision at last minute.
+- 11/24 02:40 [financialjuice] Nvidia's about-face on Huang made without consulting leadership. $NVDA
+- 11/24 02:43 [financialjuice] Fitch Ratings assesses sectors' resilience to a potential French sovereign downgrade
+- 11/24 02:46 [financialjuice] Kpler's Energy Reporter Bakr: Iran appears to be testing the US naval blockade using tankers with fake tracking signals, however there's been no confirmed breach of the US blockade yet - Post on X
+- 11/24 02:49 [financialjuice] Trump and Vance became convinced that Jensen Huang was a singular figure protecting open source models and preventing closed-source model companies from becoming too powerful - source. $NVDA
+- 11/24 03:00 [financialjuice] Treasury WI 2 Yr yield 4.703% before $69 billion auction.
+- 11/24 03:04 [financialjuice] US 2-YEAR NOTE HIGH YIELD ACTUAL 4.7% (FORECAST -, PREVIOUS 4.708%) $MACRO
+- 11/24 03:05 [financialjuice] US 2 Yr Note Auction High Yield 4.7% [Stop-through 0.3 BPS] Bid-to-cover 2.65 Sells $69 bln Awards 74.54% of bids at high Primary Dealers take 10.4% Direct 38.1% Indirect 51.5%
+- 11/24 03:24 [financialjuice] US Justice Department: US files action to recover more than $1 billion in cryptocurrency assets stolen by North Korean cyber actors in Binance hack
+- 11/24 03:41 [financialjuice] US official tells Al Hadath: We are ready to launch a large-scale military strike against Iran at any time
+- 11/24 03:46 [financialjuice] US official tells Al Hadath: We moved 108 mln barrels of oil through the Strait of Hormuz last week.
+- 11/24 03:51 [financialjuice] Israel's Eisenkot and Lieberman oppose the possibility of an independent Israeli attack - Israel's Channel 14 News
+- 11/24 04:00 [financialjuice] Apple prepares red HomePod mini, AirPods Max for holiday season; latest red products to go on sale on or around Dec. 1st. $AAPL
+- 11/24 04:31 [financialjuice] NYMEX WTI Crude January futures settle at $80.17 a barrel, down $3.24, 3.88%.
+- 11/24 04:32 [financialjuice] NYMEX Natural Gas December futures settle at $3.1840/MMBtu.
+- 11/24 04:32 [financialjuice] NYMEX Gasoline December futures settle at $2.4054 a gallon.
+- 11/24 04:32 [financialjuice] NYMEX Diesel December futures settle at $3.6975 a gallon.
+- 11/24 04:42 [financialjuice] Brent Crude futures settle at $89.37/bbl, down $3.20, 3.46%.
+- 11/24 04:49 [financialjuice] Commerce to add megaspeed to trade blacklist - Semafor.
+- 11/24 04:57 [financialjuice] Qatar’s Prime Minister and Foreign Minister tells Al Jazeera: The situation in the Middle East cannot withstand a new escalation between the United States and Iran.
+- 11/24 04:57 [financialjuice] Qatar's PM and Foreign Minister: Middle East cannot withstand new US-Iran escalation; working with both sides to revive negotiations - Al Jazeera.
+- 11/24 05:09 [financialjuice] US Treasury: Foreign Investor Demand Mixed Across Latest Note and Bond Auctions
+- 11/24 05:22 [financialjuice] Tuesday FX Options Expiries
+- 11/24 05:30 [financialjuice] The US is set to add Chinese chip firm Megaspeed to its trade blacklist later on Monday - Source Familiar with the matter
+- 11/24 05:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: -1587.7 MLN NASDAQ 100: -2874.1 MLN DOW 30: -193.0 MLN MAG 7: -1064.0 MLN $MACRO
+- 11/24 05:55 [financialjuice] The US and Qatar pledge to strengthen defense and security partnership
+- 11/24 05:57 [financialjuice] The US is set to add Singaporean chip firm Megaspeed to its trade blacklist later on Monday - Source Familiar with the matter
+- 11/24 06:00 [financialjuice] Fed's Williams: The Fed must act to lower inflation back to 2%.
+- 11/24 06:00 [financialjuice] Fed's Williams: Inflation should end 2026 at 3.5%, back to 2% in 2028
+- 11/24 06:00 [financialjuice] Fed's Williams: The jobless rate should ebb to 4% by next year.
+- 11/24 06:01 [financialjuice] Fed's Williams: Inflation is still too high, and risks are skewed to the upside.
+- 11/24 06:01 [financialjuice] Fed's Williams: continuing to look at data to determine the economy’s future path
+- 11/24 06:01 [financialjuice] Fed's Williams: The US economy to grow 2.75% in both 2026 and 2027.
+- 11/24 06:01 [financialjuice] Fed's Williams: AI impact on the economy is uncertain
+- 11/24 06:01 [financialjuice] Fed's Williams: The job market has been stable.
+- 11/24 06:01 [financialjuice] Fed's Williams: Economy is strong and showing resilience
+- 11/24 06:01 [financialjuice] Fed's Williams: I do not see inflation pressures broadening much.
+- 11/24 06:01 [financialjuice] Fed's Williams: Outlook for energy prices remains uncertain
+- 11/24 06:03 [financialjuice] Three Tankers involved in illegal activities explode in the Strait of Hormuz - IRIB News.
+- 11/24 06:06 [financialjuice] Fed's watchdog probes Bowman dinner with BofA clients - Source.
+- 11/24 06:17 [financialjuice] Stocks Stage Biggest Rally Since April 2025 as Nvidia Reinstates Huang – US Market Wrap
+- 11/24 06:23 [financialjuice] Trump Holds Public Event After Jensen Huang Reinstated As Nvidia CEO - WATCH LIVE
+- 11/24 06:25 [financialjuice] Fed's Williams: The underpinnings of strong growth have some challenges.
+- 11/24 06:26 [financialjuice] Fed's Williams: We've been working very hard to get inflation down, and have made progress
+- 11/24 06:35 [financialjuice] Fed's Williams: The economy has been resilient in the face of many large challenges.
+- 11/24 06:35 [financialjuice] Fed's Williams: What has driven inflation up recently has been unusual factors.
+- 11/24 06:36 [financialjuice] Fed's Williams: 2027 will be a year of lower inflation
+- 11/24 06:40 [financialjuice] Fed's Williams: Companies want to hire, but they are being cautious
+- 11/24 06:51 [financialjuice] Fed's Williams: There is an understanding that independent central banks deliver better economic outcomes.
+- 11/24 06:55 [financialjuice] Meta Platforms: Mark Zuckerberg grants waiver on Class C stock dividend payment deadline - SEC filing $META
+- 11/24 06:56 [financialjuice] ANZ Bank brings forward first RBA rate cut forecast to June 2027.
+- 11/24 07:00 [financialjuice] Qatari Prime Minister and Qatari Envoy met today with Vance - Axios.
+- 11/24 07:31 [financialjuice] Saudi-led coalition: drone launched by Yemen's Houthis towards southern region intercepted, destroyed
+- 11/24 07:52 [financialjuice] Anthropic PBC CEO Dario Amodei unloads 3.38 million class A shares at $83 apiece on Nov. 20: SEC filing
+- 11/24 07:54 [financialjuice] California AG: Attorney General Bonta submits amicus brief in Epic v. Apple
+- 11/24 09:30 [financialjuice] JAPANESE MFG PMI FLASH ACTUAL 53.7 (FORECAST -, PREVIOUS 53.3) $MACRO
+- 11/24 09:30 [financialjuice] JAPANESE COMPOSITE PMI FLASH ACTUAL 51.5 (FORECAST -, PREVIOUS 52.1) $MACRO
