@@ -7,47 +7,102 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-11-24 20:40 JST／対象: 11/24 14:40 〜 11/24 20:40 JST（時刻はすべて日本時間）
+生成: 2026-11-25 06:31 JST／対象: 11/25 00:31 〜 11/25 06:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
 | FirstSquawk | 0 | - | - | - |
-| financialjuice | 27 | 11/24 15:08 | 11/24 20:10 | ⚠ 105分（15:16→17:01） |
+| financialjuice | 82 | 11/25 00:34 | 11/25 06:30 | 29分（03:22→03:51） |
 
 - 今回の取得: Telegramミラー 1/3（失敗: WalterBloomberg・firstsquaw）
-- 統合後 27 行（統合前 27 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 82 行（統合前 83 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/24 15:08 [financialjuice] JAPANESE CHAIN STORE SALES YOY ACTUAL 1% (FORECAST -, PREVIOUS 1%) $MACRO
-- 11/24 15:16 [financialjuice] Iran's Parliament Speaker Ghalibaf: Position unchanged on negotiations - Fars
-- 11/24 17:01 [financialjuice] Currency Strength Chart: Strongest: CAD, GBP, EUR, USD, AUD, NZD, CHF, GBP - Weakest
-- 11/24 17:01 [financialjuice] Iraqi PM directs federal oil ministry to manage all its oilfields under Kurdish regional security control in Diyala, Kirkuk, Salahuddin, and Nineveh provinces
-- 11/24 17:25 [financialjuice] UKMTO gets a time-late report of an incident near Khor Fakkan, UAE
-- 11/24 17:35 [financialjuice] China Commerce Ministry: Issue temporary EU hybrid vehicle measures.
-- 11/24 17:35 [financialjuice] China Commerce Ministry: Urges EU to abide by bilateral consensus and strictly follow WTO rules in probe.
-- 11/24 17:37 [financialjuice] ECB's Simkus: More tightening needed in 2027 if inflation persists.
-- 11/24 17:37 [financialjuice] ECB's Simkus: Don't see a risk of over-tightening.
-- 11/24 17:37 [financialjuice] ECB's Simkus: ECB should act preemptively, sooner rather than later.
-- 11/24 17:37 [financialjuice] ECB's Simkus: Recent euro weakness is another inflationary factor.
-- 11/24 17:43 [financialjuice] Japan eyes easing FX special account rules for tax cut - Kyodo.
-- 11/24 17:46 [financialjuice] China Suspends export control on some dual-use items to US.
-- 11/24 17:49 [financialjuice] Iran must tighten Hormuz management until conditions met - Tasnim
-- 11/24 18:00 [financialjuice] ❗ GERMAN IFO BUSINESS CLIMATE ACTUAL 90.6 (FORECAST 90.5, PREVIOUS 90.2) $MACRO
-- 11/24 18:01 [financialjuice] ❗ GERMAN IFO EXPECTATIONS ACTUAL 91.6 (FORECAST 92, PREVIOUS 91.6) $MACRO
-- 11/24 18:23 [financialjuice] JP Morgan cuts target price of $Meta to $775 from $940.
-- 11/24 19:17 [financialjuice] Kristersson: continue discussions with Center but decision rests with them
-- 11/24 19:25 [financialjuice] ECB: banks left €1.9 trillion with it overnight
-- 11/24 19:25 [financialjuice] ECB: banks borrowed €21.0 million at marginal rate
-- 11/24 19:26 [financialjuice] Linklaters recruits competition lawyer Jenine Hulsmann from Weil
-- 11/24 19:43 [financialjuice] Kremlin: Europeans are pushing for four-way Ukraine talks - Tass
-- 11/24 19:49 [financialjuice] An Israeli airstrike kills senior Hamas security official in Gaza - Hamas sources
-- 11/24 19:50 [financialjuice] Anthropic and OpenAI staff fear models are too unsafe to release - Axios
-- 11/24 19:59 [financialjuice] Iran's IRGC: Another tanker hit mine in Hormuz Tuesday - Fars
-- 11/24 20:00 [financialjuice] UK CBI DISTRIBUTIVE TRADES ACTUAL 9 (FORECAST -28, PREVIOUS -10) $MACRO
-- 11/24 20:10 [financialjuice] Nvidia: Citigroup raises target price to $240 from $225 $NVDA
+- 11/25 00:34 [financialjuice] EU Commission: May end disciplinary budget steps against Italy in 2027 if 2026 data confirms deficit was below 3% of GDP.
+- 11/25 00:46 [financialjuice] New US tariffs expected Tuesday won't exceed trade deal levels; Trump Section 301 tariffs to be targeted, not a blanket rate - Sources
+- 11/25 00:47 [financialjuice] New US tariffs expected Tuesday won't exceed trade deal levels; Trump Section 301 tariffs to be targeted, not a blanket rate, according to a person
+- 11/25 00:49 [financialjuice] Putin: Despite difficult geopolitical situation, Russian companies hold leading positions in global energy markets.
+- 11/25 00:49 [financialjuice] Putin: The Russian fuel market situation remains difficult.
+- 11/25 00:51 [financialjuice] Putin: Need to develop new energy supply routes.
+- 11/25 00:52 [financialjuice] Putin: Attempts to curb Russian energy exports will backfire, especially for Europe.
+- 11/25 00:52 [financialjuice] Putin: Russia will expand sales market.
+- 11/25 01:00 [financialjuice] US Treasury to auction $105 bln 4-week bills on November 25, to settle on December 1st
+- 11/25 01:02 [financialjuice] Trump administration officials debating targeting Iran's leaders - NBC, citing sources
+- 11/25 01:08 [financialjuice] Microsoft has declared 'Code Red' for M365 core service health after Nov 12 outage, internal memos show. $MSFT
+- 11/25 01:08 [financialjuice] Microsoft sets target for worldwide mitigation in under an hour for future incidents - Memo. $MSFT
+- 11/25 01:16 [financialjuice] Fed bids for 52-Week bills total $4.1 bln
+- 11/25 01:29 [financialjuice] UKMTO: Tanker struck while transiting Hormuz eastbound Nov. 22nd
+- 11/25 01:32 [financialjuice] US 52-WEEK BILL HIGH YIELD ACTUAL 4.365% (FORECAST -, PREVIOUS 4.290%) $MACRO
+- 11/25 01:32 [financialjuice] US 52-WEEK BILL BID-TO-COVER ACTUAL 3.040 (FORECAST -, PREVIOUS 3.150) $MACRO
+- 11/25 01:33 [financialjuice] US 52-Week Bill Auction High Yield 4.365% Bid-to-cover 3.04 Sells $54 bln Awards 96.47% of bids at high
+- 11/25 01:44 [financialjuice] US Attorney General Blanche: If Nvidia was the target of a criminal investigation, that wouldn't be the message. $NVDA
+- 11/25 02:04 [financialjuice] Nvidia's Huang to hold all-hands meeting at 12:30 PM PT today. $NVDA
+- 11/25 02:04 [financialjuice] Iraq rejects OPEC+ assessment of its oil production capacity
+- 11/25 02:25 [financialjuice] BoC Summary: Monetary policy can temporarily influence housing demand but cannot address supply constraints.
+- 11/25 02:26 [financialjuice] BoC Summary: Renewed framework drops all mentions of bank using the 1%-3% target range to seek maximum sustainable employment when conditions warrant
+- 11/25 02:26 [financialjuice] BoC's Gov. Macklem: End-year inflation may not be quite as high as the roughly 3.5% the bank of Canada predicted in October.
+- 11/25 02:26 [financialjuice] BoC's Gov. Macklem: Businesses are set to pass through more costs to consumers and this second-round effect of the oil shock will add to inflation persistence.
+- 11/25 02:27 [financialjuice] BoC's Gov. Macklem: Economy has shown more resilience than we expected.
+- 11/25 02:27 [financialjuice] BoC's Gov. Macklem: Increased supply shocks mean inflation is likely to be pushed off course more frequently and for longer.
+- 11/25 02:27 [financialjuice] BoC's Gov. Macklem: Economic shocks are now likely to be larger, more frequent and more difficult to assess in real time. It's hard to know how monetary policy should respond.
+- 11/25 02:27 [financialjuice] BoC's Gov. Macklem: A temporary disruption to supply can have bigger, broader and longer-lasting effects on inflation if economy is already running hot.
+- 11/25 02:28 [financialjuice] BoC's Gov. Macklem: If inflation goes up but is expected to come down on its own, we generally don't need to respond.
+- 11/25 02:28 [financialjuice] BoC's Gov. Macklem: If inflation is going to be too high for two long, we would need to hike rates.
+- 11/25 02:28 [financialjuice] BoC's Gov. Macklem: Monetary policy framework has performed well but that doesn't mean we can't do better.
+- 11/25 02:28 [financialjuice] BoC's Gov. Macklem: We need to communicate more clearly how we use core inflation measures.
+- 11/25 02:29 [financialjuice] BoC's Gov. Macklem: We will not rely exclusively on the two main core measures.
+- 11/25 02:33 [financialjuice] BoC December rate hike chances rise to 80% from 65% after Macklem remarks, swap market data shows.
+- 11/25 02:36 [financialjuice] Nvidia's Huang to hold all-hands meeting at 12:30 PM ET today. $NVDA
+- 11/25 02:46 [financialjuice] Fed bids for 5-year notes total $7.2 bln.
+- 11/25 02:48 [financialjuice] Iran claims container ship struck north of Oman's Khasab - IRIB
+- 11/25 02:59 [financialjuice] Israeli Defense Minister Katz: Iran believed to be working to develop a dirty bomb. They are moving from enrichment to nuclear weapons - Israel I24 News Reporter on X
+- 11/25 03:00 [financialjuice] Treasury WI 5 Yr yield 4.716% before $70 billion auction.
+- 11/25 03:02 [financialjuice] US 5-YEAR NOTE HIGH YIELD ACTUAL 4.719% (FORECAST -, PREVIOUS 4.845%) $MACRO
+- 11/25 03:02 [financialjuice] US 5-YEAR NOTE BID-TO-COVER ACTUAL 2.370 (FORECAST -, PREVIOUS 2.330) $MACRO
+- 11/25 03:03 [financialjuice] US 5 Yr Note Auction High Yield 4.719% [Tail of 0.3 BPS] Bid-to-cover 2.37 Sells $70 bln Awards 63.47% of bids at high Primary Dealers take 9.01% Direct 36.71% Indirect 54.28%
+- 11/25 03:07 [financialjuice] BMO expects Bank of Canada to hike in December.
+- 11/25 03:07 [financialjuice] Democratic Senate Leader Schumer accuses Nvidia CEO Huang of shipping "extremely advanced chips to China, violating US export control law" - Statement on X. $NVDA
+- 11/25 03:10 [financialjuice] BoC's Gov. Macklem: Of course we care about employment.
+- 11/25 03:17 [financialjuice] BoC Governor Macklem: There is a build-up of cost pressures, history shows they usually take eight to nine months to show up in prices
+- 11/25 03:18 [financialjuice] BoC Governor Macklem: Rate hikes get companies to think twice about passing all costs through.
+- 11/25 03:19 [financialjuice] BoC Governor Macklem: Already seeing some pass through.
+- 11/25 03:20 [financialjuice] BoC Governor Macklem: There is no risk-free strategy when it comes to rates.
+- 11/25 03:20 [financialjuice] BoC Governor Macklem: Economy doesn't need as much support.
+- 11/25 03:21 [financialjuice] Iran's Rezaee: Iran remains firmly determined to break the US blockade
+- 11/25 03:21 [financialjuice] BoC Governor Macklem: Markets overfocus on one or two indicators
+- 11/25 03:22 [financialjuice] BoC's Gov. Macklem: We're expecting a solid Q3.
+- 11/25 03:51 [financialjuice] WATCH LIVE: Trump Turkey Pardoning 2 PM ET
+- 11/25 04:01 [financialjuice] New Zealand Treasury to offer NZ$700 mln bonds in December.
+- 11/25 04:01 [financialjuice] CIBC expects the Bank of Canada to hike in December.
+- 11/25 04:04 [financialjuice] BoC's Gov. Macklem: The BoC's message is that if a supply shock is temporary, it still makes sense to see through it.
+- 11/25 04:06 [financialjuice] BoC's Gov. Macklem: Mortgage delinquencies have now normalized.
+- 11/25 04:07 [financialjuice] BoC's Gov. Macklem: The overall level of mortgage arrears is not that high.
+- 11/25 04:08 [financialjuice] BoC's Gov. Macklem: The Housing market is certainly soft, we don't see it leading the recovery.
+- 11/25 04:12 [financialjuice] BoC's Gov. Macklem: Oil prices have come down from October.
+- 11/25 04:15 [financialjuice] BoC's Gov. Macklem: If energy prices come down faster, inflation should too, and there should be less reason to raise rates.
+- 11/25 04:17 [financialjuice] BoC's Gov. Macklem: When it comes to the inflation rate, we take below and above equally seriously.
+- 11/25 04:21 [financialjuice] BoC's Gov. Macklem: Having the inflation forecast not going up is better.
+- 11/25 04:27 [financialjuice] The US and Saudi Arabia discussed the need for Hezbollah’s disarmament in Lebanon.
+- 11/25 04:31 [financialjuice] NYMEX WTI Crude January futures settle at $82.05 a barrel, up $1.88, 2.35%.
+- 11/25 04:31 [financialjuice] NYMEX Gasoline December futures settle at $2.4543 a gallon.
+- 11/25 04:31 [financialjuice] NYMEX Diesel December futures settle at $3.7030 a gallon.
+- 11/25 04:32 [financialjuice] NYMEX Natural Gas December futures settle at $3.3230/MMBtu.
+- 11/25 04:32 [financialjuice] BoC's Gov. Macklem: I don't expect the exchange rate pass-through will be a big factor.
+- 11/25 04:32 [financialjuice] US Spy Agencies suffer breach of unclassified information - NYT.
+- 11/25 04:34 [financialjuice] BoC's Gov. Macklem press conference ends.
+- 11/25 04:46 [financialjuice] Brent Crude futures settle at $91.40/bbl, up $2.03, 2.27%.
+- 11/25 05:11 [financialjuice] China's Huawei convicted at a US criminal trial in a case stemming from Iran business.
+- 11/25 05:16 [financialjuice] IRGC Navy: A fourth oil tanker exploded after striking a sea mine east of the Strait of Hormuz, other vessels turned back amid warnings over unauthorized routes - Press TV
+- 11/25 05:17 [financialjuice] Nomura: We see the BOC to hike in December, previous forecast was January.
+- 11/25 05:23 [financialjuice] Wednesday FX Options Expiries
+- 11/25 05:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 4058.5 MLN NASDAQ 100: 2761.1 MLN DOW 30: 1371.8 MLN MAG 7: 1645.0 MLN $MACRO
+- 11/25 06:07 [financialjuice] Dell Technologies Q3 Earnings & FY Guidance $DELL Total Net Revenue $54.94B, est. $49.33B Adjusted EPS $9.45, est. $6.60 Adjusted Operating Income $7.83B, est. $5.58B AI-Optimized Servers Revenue $22.03B, est. $19.3B Traditional Servers & N…
+- 11/25 06:08 [financialjuice] RBNZ Assistant Governor Silk: New Zealand needs to establish a pathway to deliver retail payments capabilities required by the modern economy
+- 11/25 06:09 [financialjuice] RBNZ's Silk: New Zealand’s payments system remains reliable.
+- 11/25 06:30 [financialjuice] Nasdaq 100 Slides 2% as AI Selloff and Tariff Fears Hit Sentiment – US Market Wrap

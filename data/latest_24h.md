@@ -7,249 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-11-24 20:40 JST／対象: 11/23 20:40 〜 11/24 20:40 JST（時刻はすべて日本時間）
+生成: 2026-11-25 06:31 JST／対象: 11/24 06:31 〜 11/25 06:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 40 | 11/23 20:41 | 11/23 23:31 | 33分（21:07→21:41） |
-| FirstSquawk | 30 | 11/23 20:42 | 11/23 23:32 | 33分（22:08→22:41） |
-| financialjuice | 199 | 11/23 20:46 | 11/24 20:10 | ⚠ 337分（09:30→15:08） |
+| DeItaone | 0 | - | - | - |
+| FirstSquawk | 0 | - | - | - |
+| financialjuice | 180 | 11/24 06:35 | 11/25 06:30 | ⚠ 337分（09:30→15:08） |
 
 - 今回の取得: Telegramミラー 1/3（失敗: WalterBloomberg・firstsquaw）
-- 統合後 266 行（統合前 271 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 180 行（統合前 183 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/23 20:41 [DeItaone] $SPY - RBC SEES S&P 500 RISING 16.5% TO 8,050 OVER NEXT 12 MONTHS RBC Capital Markets strategist Lori Calvasina forecasts the S&P 500 reaching 8,050, implying 16.5% upside from Friday's close. RBC cites bearish investor sentiment, resilient…
-- 11/23 20:42 [FirstSquawk] NATO'S RUTTE: RUSSIAN MISSILES ENTERING POLAND IS A DANGEROUS INCIDENT
-- 11/23 20:45 [DeItaone] IRAN THREATENS TO USE "ALL AVAILABLE MEANS" AGAINST U.S. NAVAL BLOCKADE Iran warned Monday that it would use "all available means" to counter the U.S. naval blockade of its ports. Foreign Ministry spokesman Esmaeil Baqaei described Washingt…
-- 11/23 20:46 [DeItaone] $TSLA - JPMORGAN REITERATES NEUTRAL AS TESLA ROLLS OUT FSD V15 WITH MAJOR AUTONOMY UPGRADES JPMorgan analyst Rajat Gupta reiterated a Neutral rating on Tesla as the company began rolling out FSD (Supervised) v15. The update introduces a red…
-- 11/23 20:46 [financialjuice] PBOC's Pan meets EU central bank officials
-- 11/23 20:47 [financialjuice] PBOC's Pan: China and the EU should step up communications
-- 11/23 20:48 [FirstSquawk] PBOC PAN MEETS ECB OFFICIALS
-- 11/23 20:56 [FirstSquawk] UKRAINE'S PM KORETSKYI: HIT RAIL, ENERGY SITES IN 12 UKRAINIAN REGIONS
-- 11/23 20:57 [DeItaone] $SPY $QQQ - JPMORGAN DROPS BULLISH STOCK OUTLOOK, WARNS RALLY MAY NOT LAST JPMorgan's trading desk, led by Andrew Tyler, has shifted from tactically bullish to cautious following last week's sharp market correction. Tyler expects a near-ter…
-- 11/23 21:03 [FirstSquawk] CONGO REIMPOSES FULL BAN ON COBALT EXPORTS AS PRICES SLUMP
-- 11/23 21:03 [DeItaone] TRUMP PRESSURES NVIDIA AS ARM CEO RENE HAAS COMMITS TO STAYING President Trump is urging Nvidia ($NVDA ) to reinstate Jensen Huang, while another leading CEO candidate appears less likely to leave his current role. Arm CEO Rene Haas has ext…
-- 11/23 21:04 [FirstSquawk] ARM CEO RENE HAAS AFFIRMS LONG-TERM COMMITMENT TO THE COMPANY
-- 11/23 21:06 [DeItaone] *ARM CEO RENE HAAS TO BECOME SOFTBANK VICE CHAIRMAN EFFECTIVE DEC. 1 *ARM'S HAAS REAFFIRMS LONG-TERM COMMITMENT TO LEAD COMPANY'S NEXT GROWTH PHASE
-- 11/23 21:07 [DeItaone] LONG OR SHORT ANTHROPIC? LEVERAGE SHARES 2X ETFs LAUNCH MONDAY Whatever your view on the stock, there's a 2x daily ETF for it. $ANUU: 2x Long Anthropic $ANDD: 2x Short Anthropic Double the daily exposure. Double the stakes. Access full risk…
-- 11/23 21:15 [financialjuice] Allies warn Russia may launch a nuclear space weapon next month
-- 11/23 21:15 [FirstSquawk] BELGIAN PM DE WEVER SETS END OF YEAR DEADLINE FOR BUDGET DEAL
-- 11/23 21:29 [FirstSquawk] UK PM SPOX: NO COMMITMENT MADE TO EU TO PUT TARIFFS ON CHINESE EVS
-- 11/23 21:30 [financialjuice] Morning Juice - US Session Prep (23rd November)
-- 11/23 21:35 [financialjuice/FirstSquawk] Deutsche Bank expects global economic growth at 3.5%.
-- 11/23 21:35 [financialjuice] Deutsche Bank sees US GDP growth at 2.3%
-- 11/23 21:35 [financialjuice] Deutsche Bank sees 2027 euro area GDP growth at 1.2%
-- 11/23 21:41 [DeItaone] $SPY $QQQ - YARDENI SEES AI SELLOFF AS BUYING OPPORTUNITY, NOT START OF BEAR MARKET Yardeni Research says the AI-driven selloff is a correction within a secular bull market, not a precursor to recession. Despite the S&P 500's 8.6% weekly pl…
-- 11/23 21:42 [DeItaone] $ANT - ANTHROPIC SHARES ERASE PREMARKET GAINS, LAST DOWN 0.3%
-- 11/23 21:42 [DeItaone] GOLD NEARS $3,500 AS UBS IDENTIFIES HEAVY FUTURES SELLING UBS Global Research says gold's decline toward $3,500 is being driven primarily by futures liquidation, with open interest falling by the equivalent of more than 6 million ounces sin…
-- 11/23 21:44 [financialjuice] Deutsche Bank sees S&P 500 reaching 9,000 in 2027
-- 11/23 21:44 [financialjuice] Deutsche Bank sees Stoxx 600 reaching 750 by Q4 2027
-- 11/23 21:47 [DeItaone] U.S. PREPARES NEW TARIFF WAVE AS INFLATION RISKS MOUNT — KPMG'S DIANE SWONK KPMG Chief Economist Diane Swonk warns that another round of U.S. tariffs is approaching, potentially reigniting inflation pressures. The Trump administration is pu…
-- 11/23 21:49 [DeItaone] EURO FALLS SHARPLY AGAINST DOLLAR, LAST DOWN 0.3% AT $1.0932
-- 11/23 21:51 [financialjuice] Iran: In talks with Azerbaijan on gas transit - Tansim
-- 11/23 21:53 [FirstSquawk] DOLLAR INDEX HITS FRESH 19-MONTH HIGH
-- 11/23 21:56 [DeItaone] $ANT - *ANTHROPIC SHARES HIT PREMARKET SESSION LOWS, DOWN 1.5%
-- 11/23 21:56 [FirstSquawk] IRAN OIL MINISTRY NEGOTIATING WITH AZERBAIJAN ON GAS TRANSIT, DEPUTY SAYS - TASNIM
-- 11/23 21:59 [DeItaone] EU SUSPECTS CHINA-LINKED HACKERS BEHIND MAJOR CYBERATTACK — EURONEWS The European Commission suspects a China-backed hacking network is responsible for a large-scale cyberattack affecting its internal IT systems, according to Euronews Chief…
-- 11/23 21:59 [DeItaone] *DEUTSCHE BANK SEES S&P 500 REACHING 9,000 IN 2027 *DEUTSCHE BANK SEES STOXX 600 REACHING 750 BY 4Q 2027 *DEUTSCHE BANK FORECASTS GLOBAL GDP GROWTH OF 3.5% *DEUTSCHE BANK SEES US GDP GROWTH AT 2.3% *DEUTSCHE BANK SEES EURO AREA GDP GROWTH A…
-- 11/23 22:00 [financialjuice] Secured overnight financing rate 3.92% November 20th vs 3.91% November 19th
-- 11/23 22:01 [FirstSquawk] CHINA-BACKED HACKERS SUSPECTED BEHIND EU COMMISSION CYBERATTACK – EURONEWS
-- 11/23 22:01 [financialjuice] Strategy buys 457 bitcoin for aggregate purchase price $29.6m.
-- 11/23 22:01 [DeItaone] $MSTR - STRATEGY BUYS 457 BITCOIN, EXPANDS REPURCHASE PROGRAM TO $4 BILLION Strategy purchased 457 BTC for $29.6 million at an average price of $64,898, according to its latest SEC filing. The company now holds 851,305 BTC, acquired for $64…
-- 11/23 22:01 [financialjuice] Strategy buys 457 bitcoin at an avg. purchase price $64,898, from November 16th to November 22th
-- 11/23 22:05 [DeItaone] Zillow Analysis: Home-buying Demand Last Qtr Hit Lowest Level Zillow Has Tracked
-- 11/23 22:06 [DeItaone] U.S. HOMEBUYER DEMAND HITS RECORD LOW AS MORTGAGE RATES SURGE Zillow reports that serious homebuyer activity fell to its lowest level since tracking began in 2023. Engaged shoppers per listing dropped 4.8% year-over-year to 3.5 in Q3 2026, …
-- 11/23 22:08 [FirstSquawk] APPLIED DIGITAL SECURES NEW 150 MW, 18-YEAR LEASE WITH TIER-ONE INVESTMENT-GRADE HYPERSCALER, BRINGING CONTRACTED BASE-TERM REVENUE ABOVE $41 BILLION
-- 11/23 22:08 [FirstSquawk] BRAZIL’S REAL WEAKENS PAST 6 PER DOLLAR AS LULA SELLOFF EXTENDS
-- 11/23 22:09 [DeItaone] *EISENKOT: DON'T SEE IMMEDIATE IRAN THREAT REQUIRING ACTION NOW *EISENKOT: NO NEED FOR IRAN ACTION BEFORE FORMATION OF NEW GOVT *ISRAEL'S EISENKOT, HEAD OF YASHAR PARTY, COMMENTS IN STATEMENT
-- 11/23 22:16 [DeItaone] BLACKROCK'S BITCOIN ETF POSTS RECORD $541 MILLION DAILY OUTFLOW BlackRock's iShares Bitcoin Trust recorded its largest-ever daily outflow on Thursday, with investors withdrawing $541 million, according to DWF Labs. Across U.S. Bitcoin ETFs,…
-- 11/23 22:30 [financialjuice] CHICAGO NATIONAL ACTIVITY INDEX ACTUAL -0.06 (FORECAST 0.2, PREVIOUS 0.07) $MACRO
-- 11/23 22:31 [financialjuice] Canada October manufacturing sales most likely up 2.3% from previous month - StatCan flash estimate
-- 11/23 22:31 [financialjuice] Trump: I hope Huang will be back at NVIDIA soon - PBS. $NVDA
-- 11/23 22:34 [financialjuice] Counselor to US Treasury Zervos: Last week brought tightening in financial conditions
-- 11/23 22:41 [FirstSquawk] RUSSIA SHIPPED 1.1M TONS OF GRAIN VIA PORTS IN NOV. 1-20: IFX
-- 11/23 22:41 [FirstSquawk] US CHICAGO FED NATIONAL ACTIVITY INDEX OCT: -0.06 (EST 0.2; PREV 0.07; PREV R 0.05)
-- 11/23 22:43 [financialjuice] Oregon & Virginia sue SpaceX over AI-generated images - NYT. $SPCX
-- 11/23 22:48 [DeItaone] $SPCX - JEFFERIES INITIATES SPACEX AT BUY WITH $210 TARGET, SEES MASSIVE AI GROWTH POTENTIAL Jefferies initiated coverage of SpaceX with a Buy rating and $210 price target, citing its dominant rocket-launch capabilities and expanding AI inf…
-- 11/23 22:49 [financialjuice] Amazon is said to pay $7.5 billion for AI startup Decart’s tech. $AMZN
-- 11/23 22:49 [financialjuice] amazon: Amazon to purchase Decart's AI optimization technology to advance chip and model innovation for customers $AMZN
-- 11/23 22:51 [FirstSquawk] AMAZON SAID TO PAY $7.5B FOR AI STARTUP DECART’S TECH
-- 11/23 22:56 [DeItaone] $NVDA - *NVIDIA BOARD REINSTATES JENSEN HUANG AS PRESIDENT AND CEO
-- 11/23 22:56 [financialjuice] ‼ BREAKING: NVIDIA Board reinstates jensen huang as President CEO. $NVDA
-- 11/23 22:56 [FirstSquawk] NVIDIA BOARD REINSTATES JENSEN HUANG AS PRESIDENT, CEO
-- 11/23 22:56 [financialjuice] NVIDIA to name and hire Chief Compliance Officer.
-- 11/23 22:57 [DeItaone] $NVDA - NVIDIA BOARD UNANIMOUSLY REINSTATES JENSEN HUANG AS CEO, EFFECTIVE IMMEDIATELY Nvidia's board has unanimously voted to reinstate Jensen Huang as President, CEO and Board Director, effective immediately, according to breaking news he…
-- 11/23 22:57 [financialjuice] ❗ Nvidia: Board received input from senior levels of the US government $NVDA
-- 11/23 22:57 [financialjuice] NVIDIA has formed national security & export control committee.
-- 11/23 22:57 [financialjuice] NVIDIA: Huang probe to continue after reinstatement.
-- 11/23 22:58 [DeItaone] $NVDA - *NVIDIA SHARES SURGE 25% PREMARKET, HIT SESSION HIGHS
-- 11/23 22:58 [financialjuice] Nvidia Corporation - Board confirms no national security risk in Jensen Huang's reinstatement $NVDA
-- 11/23 22:58 [financialjuice] NVIDIA's CEO Huang: I can’t wait to get back to work.
-- 11/23 23:00 [DeItaone] LEVERAGE SHARES 2X ANTHROPIC ETFs: LAUNCHING TODAY Two ETFs, one aim: 2x or −2x Anthropic's daily move, reset every day. $ANUU: 2x Long Anthropic $ANDD: 2x Short Anthropic Built for short-term trading, not buy-and-hold. Bookmark this.
-- 11/23 23:00 [financialjuice] Effective Fed funds rate 3.88% November 20th vs 3.88% November 19th.
-- 11/23 23:00 [FirstSquawk] S&P 500 FUTURES EXTEND GAIN TO 3.8%, NASDAQ 100 FUTURES JUMP 6%
-- 11/23 23:00 [FirstSquawk] NVIDIA REACHED HUANG DECISION WITH SENIOR US GOVERNMENT INPUT
-- 11/23 23:01 [FirstSquawk] NVIDIA SHARES EXTEND RALLY TO 26%
-- 11/23 23:01 [DeItaone] $NVDA - NVIDIA SHARES EXTEND PREMARKET GAINS, LAST UP 27%
-- 11/23 23:02 [FirstSquawk] NVIDIA: CRESS TO CONTINUE AS CFO
-- 11/23 23:02 [DeItaone] U.S. S&P 500 E-MINI FUTURES UP 3.9% NASDAQ 100 FUTURES UP 6.2% DOW FUTURES UP 2.4%
-- 11/23 23:03 [financialjuice] NVIDIA: Harvey C. Jones to stay as board chair. $NVDA
-- 11/23 23:04 [FirstSquawk] NVIDIA SHARES EXTEND RALLY TO MORE THAN 30% PREMARKET
-- 11/23 23:06 [DeItaone] $NVDA SURGES 31.19% IN PREMARKET AFTER JENSEN HUANG'S REINSTATEMENT AS CEO U.S. tech stocks are soaring in premarket trading following reports that Nvidia's board unanimously reinstated Jensen Huang as President and CEO, effective immediate…
-- 11/23 23:06 [financialjuice] ❗ Traders add to ECB and BoE rate-hike bets after Nvidia news.
-- 11/23 23:07 [DeItaone] TRUMP ON NVIDIA: NVIDIA BOARD OF DIRECTORS HAS MADE CORRECT AND PROPER DECISION TO RETURN JENSEN HUANG TO POSITION OF CEO. TRUMP: NVIDIA BOARD OF DIRECTORS HAS MADE CORRECT AND PROPER DECISION TO RETURN JENSEN HUANG TO POSITION OF CEO
-- 11/23 23:08 [financialjuice] Trump: Nvidia's board of directors has made the proper decision. $NVDA
-- 11/23 23:08 [financialjuice] Trump: Nvidia should continue internal probe. $NVDA
-- 11/23 23:08 [DeItaone] TRUMP ON NVIDIA: COUNTRY NEEDS JENSEN'S LEADERSHIP AT NVIDIA
-- 11/23 23:08 [DeItaone] TRUMP: NVIDIA SHOULD CONTINUE ITS THOROUGH INTERNAL INVESTIGATION OF COMPANY'S COMPLIANCE WITH U.S. EXPORT CONTROLS
-- 11/23 23:08 [DeItaone] TRUMP ON NVIDIA: NVIDIA SHOULD CONTINUE ITS THOROUGH INTERNAL INVESTIGATION OF COMPANY'S COMPLIANCE WITH U.S. EXPORT CONTROLS IN TRUMP: ATTORNEY GENERAL OF UNITED STATES HAS CONFIRMED THAT U.S. GOVERNMENT DOES NOT POSSESS EVIDENCE THAT HE H…
-- 11/23 23:08 [financialjuice] Trump: The US has no reason to believe Jensen's return poses a risk. The Attorney General of the United States has confirmed that u.s. government does not possess evidence that he has engaged in any unlawful conduct. $NVDA
-- 11/23 23:09 [FirstSquawk] TRUMP SAYS US SEES NO NATIONAL-SECURITY RISK IN HUANG'S CEO RETURN
-- 11/23 23:10 [FirstSquawk] TRUMP: US HAS NO EVIDENCE JENSEN HUANG ACTED UNLAWFULLY
-- 11/23 23:11 [DeItaone] CBOE VOLATILITY INDEX EXTEND FALL AFTER NVIDIA BOARD REINSTATES JENSEN HUANG AS CEO; LAST DOWN 7.97 POINTS AT 27.80
-- 11/23 23:16 [financialjuice/FirstSquawk] US credit-default risks ease further after Huang reinstatement.
-- 11/23 23:19 [DeItaone] NASDAQ HALTS LIMIT UP AFTER JENSEN HUANG REINSTATED AS NVIDIA CEO
-- 11/23 23:20 [DeItaone] $ANT - ANTHROPIC SHARES REVERSE COURSE, LAST UP 4.5% PREMARKET
-- 11/23 23:22 [DeItaone/FirstSquawk] SPOT GOLD EXTENDS GAINS, UP NEARLY 4% TO $3,673.36/OZ
-- 11/23 23:22 [DeItaone] $NVDA - DAN IVES SAYS NVIDIA BOARD HAD "NO CHOICE" BUT TO REINSTATE JENSEN HUANG AS CEO Yorkville analyst Dan Ives reiterated his Outperform rating and $225 price target following Jensen Huang's reinstatement as Nvidia CEO. Ives argues the …
-- 11/23 23:22 [financialjuice] BoE's Pill: We need to take action now to preserve price stability
-- 11/23 23:22 [DeItaone] *NASDAQ 100 FUTURES BRIEFLY HALTED FOR VOLATILITY AFTER 7% JUMP
-- 11/23 23:23 [FirstSquawk] NASDAQ HITS CIRCUIT BREAKER, NOW HALTED
-- 11/23 23:24 [FirstSquawk] NASDAQ 100 FUTURES HALTER FOR VOLATILITY AFTER SURGING 7%
-- 11/23 23:28 [DeItaone] *NVIDIA SHARES EXTEND PRE-MARKET GAIN 34.50%
-- 11/23 23:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -138.6 MLN NASDAQ 100: -37.9 MLN DOW 30: -60.4 MLN MAG 7: -17.8 MLN $MACRO
-- 11/23 23:31 [DeItaone] $NVDA - *NVIDIA ADDS NEARLY $1 TRILLION IN MARKET VALUE
-- 11/23 23:32 [FirstSquawk] DOW JONES UP 1,340.31 POINTS, OR 2.78 PERCENT, AT 49,487.64 AFTER MARKET OPEN
-- 11/23 23:32 [FirstSquawk] S&P 500 UP 340.93 POINTS, OR 4.93 PERCENT, AT 7,251.32 AFTER MARKET OPEN
-- 11/23 23:33 [financialjuice] NVIDIA is on track to add more than $900 billion to its market value. $NVDA
-- 11/23 23:41 [financialjuice] Musk after Nvidia announces Jensen Huang's return as CEO: It is done. $NVDA
-- 11/23 23:45 [financialjuice] US S&P COMPOSITE PMI FLASH ACTUAL 54.6 (FORECAST 55.6, PREVIOUS 55.9) $MACRO
-- 11/23 23:45 [financialjuice] ❗ US S&P MANUFACTURING PMI FLASH ACTUAL 54.5 (FORECAST 54.5, PREVIOUS 54.9) $MACRO
-- 11/23 23:45 [financialjuice] ❗ US S&P SERVICES PMI FLASH ACTUAL 54.7 (FORECAST 55.5, PREVIOUS 56.1) $MACRO
-- 11/23 23:46 [financialjuice] US S&P PMI November 2026 Report
-- 11/23 23:48 [financialjuice] Senator Gallego urges probe of stock positions before Nvidia statement. $NVDA
-- 11/24 00:00 [financialjuice] Nvidia set to add more than $1 trillion in market value. $NVDA
-- 11/24 00:02 [financialjuice] EC Pres. von der Leyen: We are targeting new Russia sanctions on financial services and crypto.
-- 11/24 00:04 [financialjuice] EU Commission President von der Leyen: Russia sanctions ban 60 Russian banks from SWIFT.
-- 11/24 00:04 [financialjuice] Wells Fargo Investment Institute upgrades US large cap equities to most favorable from favorable.
-- 11/24 00:05 [financialjuice] ❗ Trump dialed into Nvidia board meeting - Semafor. $NVDA
-- 11/24 00:08 [financialjuice] Trump: I felt very strongly that Huang should come back - CNBC.
-- 11/24 00:08 [financialjuice] Trump: Huang makes great chips. $NVDA
-- 11/24 00:09 [financialjuice] Trump on Jensen Huang returning to Nvidia: He did nothing wrong - CNBC. $NVDA
-- 11/24 00:10 [financialjuice] Trump: We've done very thorough investigation on Jensen Huang. $NVDA
-- 11/24 00:10 [financialjuice] Trump: The biggest threat would be to lose Jensen's brain power. $NVDA
-- 11/24 00:11 [financialjuice] Trump asked on Alice Huang: who isn't in contact with China? $NVDA
-- 11/24 00:11 [financialjuice] Trump: I found the NVIDIA board to be reasonable. $NVDA
-- 11/24 00:12 [financialjuice] Trump: We gave Nvidia board assurance on national security. $NVDA
-- 11/24 00:12 [financialjuice] Trump: Spoke to Xi at length about Jensen Huang. $NVDA
-- 11/24 00:13 [financialjuice] Trump: Stock market moves probably impacted my Nvidia push. $NVDA
-- 11/24 00:14 [financialjuice] Trump: Nvidia's super advanced chips can't be copied - CNBC. $NVDA
-- 11/24 00:14 [financialjuice] Fitch Ratings: Deteriorating outlook for US banks in 2027 on rising risks.
-- 11/24 00:14 [financialjuice] Trump: Huang has chips in mind far beyond Blackwell. $NVDA
-- 11/24 00:15 [financialjuice] Trump: Huang will start NVIDIA return at a higher level. $NVDA
-- 11/24 00:17 [financialjuice] Trump on chips: Not bothered by selling obsolete technology.
-- 11/24 00:18 [financialjuice] Trump on Huang: He's apologized, they've accepted. $NVDA
-- 11/24 00:19 [financialjuice] Trump draws line between smuggling of advanced vs old chips.
-- 11/24 00:20 [financialjuice] Trump on Nvidia: Was a rocket ship going in wrong direction. $NVDA
-- 11/24 00:21 [financialjuice] Trump: Spoke to Huang last night. $NVDA
-- 11/24 00:21 [financialjuice] Burnham faces MPs to deliver statement on new EU deal - WATCH LIVE
-- 11/24 00:21 [financialjuice] Trump: Huang said he'll work harder than ever. $NVDA
-- 11/24 00:21 [financialjuice] Trump: Investors should be very happy. $NVDA
-- 11/24 00:21 [financialjuice] Trump: We want Huang on our side. $NVDA
-- 11/24 00:23 [financialjuice] Trump: Not concerned now about an AI bubble.
-- 11/24 00:25 [financialjuice] Trump: US VP Vance was involved in the NVIDIA decision. $NVDA
-- 11/24 00:28 [financialjuice] Trump: I asked Xi, "Why don't you slow down on nuclear weapons?"
-- 11/24 00:29 [financialjuice] Trump: We could have seen China paying Huang to flip sides. We wouldn't want China to poach Huang. $NVDA
-- 11/24 00:29 [financialjuice] Trump: If Huang was angry enough, he could've worked for China. $NVDA
-- 11/24 00:30 [financialjuice] House Foreign Affairs plans for Huang hearing unchanged. Huang to attend closed-door briefing. $NVDA
-- 11/24 00:32 [financialjuice] Trump: Working on trade deal involving soybeans.
-- 11/24 00:32 [financialjuice] Trump: Huang is already thinking three chips into the future. $NVDA
-- 11/24 00:39 [financialjuice] UK's PM Burnham: There is a clear consensus among Britons wanting closer EU ties.
-- 11/24 00:40 [financialjuice] UK's PM Burnham: We should build new and more constructive relations with the EU.
-- 11/24 00:41 [financialjuice] Bernstein raises Nvidia to Outperform from Market Perform. $NVDA
-- 11/24 00:41 [financialjuice] Trump on intervening in public company: Doing it for the US. $NVDA
-- 11/24 00:42 [financialjuice] UK PM Burnham: Bill to implement EU deal will be introduced Thursday
-- 11/24 00:43 [financialjuice] Trump: DoJ will intervene if AI firms move too fast.
-- 11/24 00:44 [financialjuice] Trump praises Anthropic's Amodei. $ANT
-- 11/24 00:44 [financialjuice] UK PM Burnham: EU and UK to avoid policy harming each other's industries
-- 11/24 00:46 [financialjuice] UK PM Burnham: EU deal worth up to 0.5% of the British economy
-- 11/24 00:48 [financialjuice] UK holding informal exchange of ideas with EU on future ties.
-- 11/24 00:50 [financialjuice] Nvidia gets bullish fresh pick designation at Baird. $NVDA
-- 11/24 00:51 [financialjuice] Trump: I didn't discuss if Alice Huang were a spy with Xi. $NVDA
-- 11/24 00:52 [financialjuice] Trump: Xi is probably not thrilled at the NVIDIA news. $NVDA
-- 11/24 00:53 [financialjuice] Nvidia short sellers set to clock about $12.2 bln in paper losses as shares rise to $168.5, biggest one-day loss since at least 2019 - Ortex. $NVDA
-- 11/24 00:57 [financialjuice] Trump: Think China will buy another 250 Boeings. $BA
-- 11/24 00:57 [financialjuice] Trump ends remarks on CNBC
-- 11/24 01:08 [financialjuice] Schumer: Democrats will wield their full power to probe Jensen Huang, the Administration and other Nvidia executives. $NVDA
-- 11/24 01:14 [financialjuice] Musk told staff SpaceX is falling behind on AI development - NYT. $SPCX
-- 11/24 01:15 [financialjuice] Musk shared data showing that the company lagged competitors - NYT. $SPCX
-- 11/24 01:22 [financialjuice] Anthropic has so much demand for computing power that by October. SpaceXAI needed to finish new data centers to fulfill Anthropic’s orders - NYT. $ANT
-- 11/24 01:24 [financialjuice] UK PM Burnham: Unthinkable to take UK back into EU without referendum
-- 11/24 01:36 [financialjuice] UK's PM Burnham: Not proposing at this moment to rerun the EU referendum
-- 11/24 01:42 [financialjuice] Q4 2026 Brent crude price forecast by major banks rises - WSJ
-- 11/24 01:42 [financialjuice] US 3-MONTH BILL BID-TO-COVER ACTUAL 2.74 (FORECAST -, PREVIOUS 2.760) $MACRO
-- 11/24 01:42 [financialjuice] US 3-MONTH BILL HIGH YIELD ACTUAL 4.18% (FORECAST -, PREVIOUS 4.155%) $MACRO
-- 11/24 01:43 [financialjuice] US 3-MONTH AWARDED HIGH ACTUAL 20.690% (FORECAST -, PREVIOUS 93.850%) $MACRO
-- 11/24 01:43 [financialjuice] US 6-MONTH BILL BID-TO-COVER ACTUAL 2.6 (FORECAST -, PREVIOUS 2.830) $MACRO
-- 11/24 01:43 [financialjuice] US 6-MONTH BILL HIGH YIELD ACTUAL 4.34% (FORECAST -, PREVIOUS 4.310%) $MACRO
-- 11/24 01:45 [financialjuice] US 3-Month Bill Auction High Yield 4.180% Bid-to-cover 2.74 Sells $95 bln Awards 20.69% of bids at a high
-- 11/24 01:46 [financialjuice] US 6-Month Bill Auction High Yield 4.340% Bid-to-cover 2.60 Sells $82 bln Awards 53.42% of bids at high
-- 11/24 01:46 [financialjuice] US Commerce Secretary Lutnick was not involved with NVIDIA's board decision to reinstate Huang as CEO - Source Familiar. $NVDA
-- 11/24 01:48 [financialjuice] US 6-MONTH AWARDED HIGH ACTUAL 53.420% (FORECAST -, PREVIOUS 7.390%) $MACRO
-- 11/24 01:50 [financialjuice] The Trump Administration stressed to Nvidia in a call over the weekend that they needed to make sure they were abiding by export controls if they were to reinstall Jensen Huang as CEO - Source $NVDA
-- 11/24 01:54 [financialjuice] US VP Vance spoke with Huang and worked with Nvidia over the weekend - NYT
-- 11/24 02:04 [financialjuice] US Sen. Scott announces the Huang hearing for December 3rd. $NVDA
-- 11/24 02:06 [financialjuice] Google introduces tailored Google search. $GOOGL
-- 11/24 02:40 [financialjuice] Nvidia top executives were informed of decision at last minute.
-- 11/24 02:40 [financialjuice] Nvidia's about-face on Huang made without consulting leadership. $NVDA
-- 11/24 02:43 [financialjuice] Fitch Ratings assesses sectors' resilience to a potential French sovereign downgrade
-- 11/24 02:46 [financialjuice] Kpler's Energy Reporter Bakr: Iran appears to be testing the US naval blockade using tankers with fake tracking signals, however there's been no confirmed breach of the US blockade yet - Post on X
-- 11/24 02:49 [financialjuice] Trump and Vance became convinced that Jensen Huang was a singular figure protecting open source models and preventing closed-source model companies from becoming too powerful - source. $NVDA
-- 11/24 03:00 [financialjuice] Treasury WI 2 Yr yield 4.703% before $69 billion auction.
-- 11/24 03:04 [financialjuice] US 2-YEAR NOTE HIGH YIELD ACTUAL 4.7% (FORECAST -, PREVIOUS 4.708%) $MACRO
-- 11/24 03:05 [financialjuice] US 2 Yr Note Auction High Yield 4.7% [Stop-through 0.3 BPS] Bid-to-cover 2.65 Sells $69 bln Awards 74.54% of bids at high Primary Dealers take 10.4% Direct 38.1% Indirect 51.5%
-- 11/24 03:24 [financialjuice] US Justice Department: US files action to recover more than $1 billion in cryptocurrency assets stolen by North Korean cyber actors in Binance hack
-- 11/24 03:41 [financialjuice] US official tells Al Hadath: We are ready to launch a large-scale military strike against Iran at any time
-- 11/24 03:46 [financialjuice] US official tells Al Hadath: We moved 108 mln barrels of oil through the Strait of Hormuz last week.
-- 11/24 03:51 [financialjuice] Israel's Eisenkot and Lieberman oppose the possibility of an independent Israeli attack - Israel's Channel 14 News
-- 11/24 04:00 [financialjuice] Apple prepares red HomePod mini, AirPods Max for holiday season; latest red products to go on sale on or around Dec. 1st. $AAPL
-- 11/24 04:31 [financialjuice] NYMEX WTI Crude January futures settle at $80.17 a barrel, down $3.24, 3.88%.
-- 11/24 04:32 [financialjuice] NYMEX Natural Gas December futures settle at $3.1840/MMBtu.
-- 11/24 04:32 [financialjuice] NYMEX Gasoline December futures settle at $2.4054 a gallon.
-- 11/24 04:32 [financialjuice] NYMEX Diesel December futures settle at $3.6975 a gallon.
-- 11/24 04:42 [financialjuice] Brent Crude futures settle at $89.37/bbl, down $3.20, 3.46%.
-- 11/24 04:49 [financialjuice] Commerce to add megaspeed to trade blacklist - Semafor.
-- 11/24 04:57 [financialjuice] Qatar’s Prime Minister and Foreign Minister tells Al Jazeera: The situation in the Middle East cannot withstand a new escalation between the United States and Iran.
-- 11/24 04:57 [financialjuice] Qatar's PM and Foreign Minister: Middle East cannot withstand new US-Iran escalation; working with both sides to revive negotiations - Al Jazeera.
-- 11/24 05:09 [financialjuice] US Treasury: Foreign Investor Demand Mixed Across Latest Note and Bond Auctions
-- 11/24 05:22 [financialjuice] Tuesday FX Options Expiries
-- 11/24 05:30 [financialjuice] The US is set to add Chinese chip firm Megaspeed to its trade blacklist later on Monday - Source Familiar with the matter
-- 11/24 05:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: -1587.7 MLN NASDAQ 100: -2874.1 MLN DOW 30: -193.0 MLN MAG 7: -1064.0 MLN $MACRO
-- 11/24 05:55 [financialjuice] The US and Qatar pledge to strengthen defense and security partnership
-- 11/24 05:57 [financialjuice] The US is set to add Singaporean chip firm Megaspeed to its trade blacklist later on Monday - Source Familiar with the matter
-- 11/24 06:00 [financialjuice] Fed's Williams: The Fed must act to lower inflation back to 2%.
-- 11/24 06:00 [financialjuice] Fed's Williams: Inflation should end 2026 at 3.5%, back to 2% in 2028
-- 11/24 06:00 [financialjuice] Fed's Williams: The jobless rate should ebb to 4% by next year.
-- 11/24 06:01 [financialjuice] Fed's Williams: Inflation is still too high, and risks are skewed to the upside.
-- 11/24 06:01 [financialjuice] Fed's Williams: continuing to look at data to determine the economy’s future path
-- 11/24 06:01 [financialjuice] Fed's Williams: The US economy to grow 2.75% in both 2026 and 2027.
-- 11/24 06:01 [financialjuice] Fed's Williams: AI impact on the economy is uncertain
-- 11/24 06:01 [financialjuice] Fed's Williams: The job market has been stable.
-- 11/24 06:01 [financialjuice] Fed's Williams: Economy is strong and showing resilience
-- 11/24 06:01 [financialjuice] Fed's Williams: I do not see inflation pressures broadening much.
-- 11/24 06:01 [financialjuice] Fed's Williams: Outlook for energy prices remains uncertain
-- 11/24 06:03 [financialjuice] Three Tankers involved in illegal activities explode in the Strait of Hormuz - IRIB News.
-- 11/24 06:06 [financialjuice] Fed's watchdog probes Bowman dinner with BofA clients - Source.
-- 11/24 06:17 [financialjuice] Stocks Stage Biggest Rally Since April 2025 as Nvidia Reinstates Huang – US Market Wrap
-- 11/24 06:23 [financialjuice] Trump Holds Public Event After Jensen Huang Reinstated As Nvidia CEO - WATCH LIVE
-- 11/24 06:25 [financialjuice] Fed's Williams: The underpinnings of strong growth have some challenges.
-- 11/24 06:26 [financialjuice] Fed's Williams: We've been working very hard to get inflation down, and have made progress
 - 11/24 06:35 [financialjuice] Fed's Williams: The economy has been resilient in the face of many large challenges.
 - 11/24 06:35 [financialjuice] Fed's Williams: What has driven inflation up recently has been unusual factors.
 - 11/24 06:36 [financialjuice] Fed's Williams: 2027 will be a year of lower inflation
@@ -290,3 +64,143 @@
 - 11/24 19:59 [financialjuice] Iran's IRGC: Another tanker hit mine in Hormuz Tuesday - Fars
 - 11/24 20:00 [financialjuice] UK CBI DISTRIBUTIVE TRADES ACTUAL 9 (FORECAST -28, PREVIOUS -10) $MACRO
 - 11/24 20:10 [financialjuice] Nvidia: Citigroup raises target price to $240 from $225 $NVDA
+- 11/24 20:41 [financialjuice] JP Morgan: We forecast US 10-year yields will peak around 5.10% in Q1 2027 before retracing to 4.95% by year-end 2027
+- 11/24 20:54 [financialjuice] UKMTO: Received a late report of an incident in the Strait of Hormuz
+- 11/24 21:26 [financialjuice] Sudi arabia asks allies for more missile interceptors - Semafor
+- 11/24 21:36 [financialjuice] BoE’s Greene: Need to think about successive shocks differently
+- 11/24 21:36 [financialjuice] BoE’s Greene: Monetary policy has role in anchoring inflation expectations.
+- 11/24 21:38 [financialjuice] BoE’s Greene: Not much evidence of 2nd-round effects so far
+- 11/24 21:40 [financialjuice] BoE’s Greene: Firms expect wage settlements at 3.6%, too high
+- 11/24 21:40 [financialjuice] BoE’s Greene: We have to make a judgment on 2nd-round effects now
+- 11/24 21:41 [financialjuice] BoE’s Greene: Slack has probably peaked in the labor market
+- 11/24 21:43 [financialjuice] BoE’s Greene: Indicators point to wage growth stuck at 3.5%
+- 11/24 21:47 [financialjuice] BoE’s Greene: Turnaround in data or war needed to change view
+- 11/24 21:50 [financialjuice] BoE’s Greene: Tighter conditions doesn't mean you don't have to act
+- 11/24 21:58 [financialjuice] BoE’s Greene: Target-consistent wage growth is around 3%
+- 11/24 21:58 [financialjuice] BoE’s Greene: Hard evidence of significant effects needed for 50 bps
+- 11/24 21:58 [financialjuice] BoE’s Greene: Need to hike to get on top of risk
+- 11/24 22:00 [financialjuice] BoE’s Greene: Next year evidence on 2nd-round effects matters
+- 11/24 22:00 [financialjuice] Secured overnight financing rate 3.92% November 23rd vs 3.92% November 20th
+- 11/24 22:03 [financialjuice] BoE's Greene: Indicators show disinflation process has stalled.
+- 11/24 22:05 [financialjuice] BoE’s Greene: Will need to adjust policy on the basis of actual evidence
+- 11/24 22:06 [financialjuice] Morning Juice - US Session Prep (24th November)
+- 11/24 22:09 [financialjuice] ❗ US prepares to raise tariffs on china and other countries - WSJ
+- 11/24 22:10 [financialjuice] US prepares to raise tariffs on China, EU, 14 countries - WSJ.
+- 11/24 22:10 [financialjuice] US new tariffs likely exclude some industrial goods - WSJ
+- 11/24 22:10 [financialjuice] EU, Japan, South Korea likely to face 15% or lower tariffs - WSJ
+- 11/24 22:11 [financialjuice] Higher tariff levies from US to target excess industrial capacity overseas are expected this week - WSJ.
+- 11/24 22:12 [financialjuice] New tariffs likely be added on top of July tariff action - WSJ.
+- 11/24 22:13 [financialjuice] BoE's Greene: More of the same grounds for tightening policy.
+- 11/24 22:13 [financialjuice] Oppenheimer cuts target price for Marvell Technology to $325 from $425
+- 11/24 22:15 [financialjuice] US ADP WKLY EMPLOYMENT CHANGE ACTUAL 21K (FORECAST -, PREVIOUS 23.75K) $MACRO
+- 11/24 22:21 [financialjuice] BoE’s Greene: Wage growth of 3.6% would warrant more tightening.
+- 11/24 22:55 [financialjuice] US REDBOOK YOY ACTUAL 11.3% (FORECAST -, PREVIOUS 9.5%) $MACRO
+- 11/24 22:59 [financialjuice] US to announce tariff hike on China and the EU as soon as today.
+- 11/24 23:00 [financialjuice] Effective Fed funds rate 3.88% November 23rd vs 3.88% November 20th.
+- 11/24 23:00 [financialjuice] US CASESHILLER 20 YOY ACTUAL 2.56% (FORECAST 2.71%, PREVIOUS 2.7%) $MACRO
+- 11/24 23:00 [financialjuice] US HOUSE PRICE INDEX MOM ACTUAL 0% (FORECAST 0.2%, PREVIOUS 0.3%) $MACRO
+- 11/24 23:00 [financialjuice] US HOUSE PRICE INDEX YOY ACTUAL 2.5% (FORECAST -, PREVIOUS 2.4%) $MACRO
+- 11/24 23:01 [financialjuice] US home prices unchanged in September from August - US Regulator.
+- 11/24 23:04 [financialjuice] US Case-Shiller September Report
+- 11/24 23:04 [financialjuice] US Case=Shiller 20 YoY September Report
+- 11/24 23:21 [financialjuice] Venezuela projects about $160 billion in oil-sector CAPEX through 2036, with $85 billion from partners and $75 bln from PDVSA.
+- 11/24 23:23 [financialjuice] UBS raises target price of Tesla to $430 from $425.
+- 11/24 23:25 [financialjuice] Chinese foreign minister expresses hope that Britain provides a favourable business environment for Chinese companies - Xinhua
+- 11/24 23:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -84.1 MLN NASDAQ 100: -20.5 MLN DOW 30: 5.4 MLN MAG 7: 15.3 MLN $MACRO
+- 11/24 23:52 [financialjuice] Rep. Meeks calls for Huang to testify publicly to House panel. $NVDA
+- 11/24 23:54 [financialjuice] Democrat Rep. Meeks: Closed-door Huang briefing doesn't replace public one. $NVDA
+- 11/25 00:00 [financialjuice] ❗ US CB CONSUMER CONFIDENCE ACTUAL 103.3 (FORECAST 92.4, PREVIOUS 91.7) $MACRO
+- 11/25 00:00 [financialjuice] ECB's Sleijpen: Direction of ECB policy in December seems clear, but uncertain after.
+- 11/25 00:00 [financialjuice] RICHMOND FED COMP. INDEX ACTUAL 3 (FORECAST -2, PREVIOUS -2) $MACRO
+- 11/25 00:00 [financialjuice] ECB's Sleijpen: it's complicated to discuss rate moves in 2027.
+- 11/25 00:02 [financialjuice] US CB: Consumers' average 12-month inflation expectations declined for a second consecutive month in November, but remained elevated at 5.7%.
+- 11/25 00:02 [financialjuice] US CB Consumer Confidence November Report
+- 11/25 00:02 [financialjuice] US CB: Market volatility in the first half of November notwithstanding, more consumers expected stock prices to increase rather than decrease in the next 12 months.
+- 11/25 00:02 [financialjuice] US CB: Consumers still expect higher interest rates over the next 12 months.
+- 11/25 00:17 [financialjuice] Crypto Fear & Greed Index: 11/100 - Extreme Fear
+- 11/25 00:19 [financialjuice] Fear & Greed Index: 18/100 - Extreme Fear
+- 11/25 00:21 [financialjuice] Fitch Ratings: US productivity growth is improving steadily.
+- 11/25 00:23 [financialjuice] Fitch Ratings: Faster productivity & AI adoption have not resulted in any falls in aggregate us employment & there has been no surge in layoffs.
+- 11/25 00:24 [financialjuice] Fitch Ratings: AI job disruption could be significant in industries where labour substitution possibilities are high & AI complementarities limited.
+- 11/25 00:34 [financialjuice] EU Commission: May end disciplinary budget steps against Italy in 2027 if 2026 data confirms deficit was below 3% of GDP.
+- 11/25 00:46 [financialjuice] New US tariffs expected Tuesday won't exceed trade deal levels; Trump Section 301 tariffs to be targeted, not a blanket rate - Sources
+- 11/25 00:47 [financialjuice] New US tariffs expected Tuesday won't exceed trade deal levels; Trump Section 301 tariffs to be targeted, not a blanket rate, according to a person
+- 11/25 00:49 [financialjuice] Putin: Despite difficult geopolitical situation, Russian companies hold leading positions in global energy markets.
+- 11/25 00:49 [financialjuice] Putin: The Russian fuel market situation remains difficult.
+- 11/25 00:51 [financialjuice] Putin: Need to develop new energy supply routes.
+- 11/25 00:52 [financialjuice] Putin: Attempts to curb Russian energy exports will backfire, especially for Europe.
+- 11/25 00:52 [financialjuice] Putin: Russia will expand sales market.
+- 11/25 01:00 [financialjuice] US Treasury to auction $105 bln 4-week bills on November 25, to settle on December 1st
+- 11/25 01:02 [financialjuice] Trump administration officials debating targeting Iran's leaders - NBC, citing sources
+- 11/25 01:08 [financialjuice] Microsoft has declared 'Code Red' for M365 core service health after Nov 12 outage, internal memos show. $MSFT
+- 11/25 01:08 [financialjuice] Microsoft sets target for worldwide mitigation in under an hour for future incidents - Memo. $MSFT
+- 11/25 01:16 [financialjuice] Fed bids for 52-Week bills total $4.1 bln
+- 11/25 01:29 [financialjuice] UKMTO: Tanker struck while transiting Hormuz eastbound Nov. 22nd
+- 11/25 01:32 [financialjuice] US 52-WEEK BILL HIGH YIELD ACTUAL 4.365% (FORECAST -, PREVIOUS 4.290%) $MACRO
+- 11/25 01:32 [financialjuice] US 52-WEEK BILL BID-TO-COVER ACTUAL 3.040 (FORECAST -, PREVIOUS 3.150) $MACRO
+- 11/25 01:33 [financialjuice] US 52-Week Bill Auction High Yield 4.365% Bid-to-cover 3.04 Sells $54 bln Awards 96.47% of bids at high
+- 11/25 01:44 [financialjuice] US Attorney General Blanche: If Nvidia was the target of a criminal investigation, that wouldn't be the message. $NVDA
+- 11/25 02:04 [financialjuice] Nvidia's Huang to hold all-hands meeting at 12:30 PM PT today. $NVDA
+- 11/25 02:04 [financialjuice] Iraq rejects OPEC+ assessment of its oil production capacity
+- 11/25 02:25 [financialjuice] BoC Summary: Monetary policy can temporarily influence housing demand but cannot address supply constraints.
+- 11/25 02:26 [financialjuice] BoC Summary: Renewed framework drops all mentions of bank using the 1%-3% target range to seek maximum sustainable employment when conditions warrant
+- 11/25 02:26 [financialjuice] BoC's Gov. Macklem: End-year inflation may not be quite as high as the roughly 3.5% the bank of Canada predicted in October.
+- 11/25 02:26 [financialjuice] BoC's Gov. Macklem: Businesses are set to pass through more costs to consumers and this second-round effect of the oil shock will add to inflation persistence.
+- 11/25 02:27 [financialjuice] BoC's Gov. Macklem: Economy has shown more resilience than we expected.
+- 11/25 02:27 [financialjuice] BoC's Gov. Macklem: Increased supply shocks mean inflation is likely to be pushed off course more frequently and for longer.
+- 11/25 02:27 [financialjuice] BoC's Gov. Macklem: Economic shocks are now likely to be larger, more frequent and more difficult to assess in real time. It's hard to know how monetary policy should respond.
+- 11/25 02:27 [financialjuice] BoC's Gov. Macklem: A temporary disruption to supply can have bigger, broader and longer-lasting effects on inflation if economy is already running hot.
+- 11/25 02:28 [financialjuice] BoC's Gov. Macklem: If inflation goes up but is expected to come down on its own, we generally don't need to respond.
+- 11/25 02:28 [financialjuice] BoC's Gov. Macklem: If inflation is going to be too high for two long, we would need to hike rates.
+- 11/25 02:28 [financialjuice] BoC's Gov. Macklem: Monetary policy framework has performed well but that doesn't mean we can't do better.
+- 11/25 02:28 [financialjuice] BoC's Gov. Macklem: We need to communicate more clearly how we use core inflation measures.
+- 11/25 02:29 [financialjuice] BoC's Gov. Macklem: We will not rely exclusively on the two main core measures.
+- 11/25 02:33 [financialjuice] BoC December rate hike chances rise to 80% from 65% after Macklem remarks, swap market data shows.
+- 11/25 02:36 [financialjuice] Nvidia's Huang to hold all-hands meeting at 12:30 PM ET today. $NVDA
+- 11/25 02:46 [financialjuice] Fed bids for 5-year notes total $7.2 bln.
+- 11/25 02:48 [financialjuice] Iran claims container ship struck north of Oman's Khasab - IRIB
+- 11/25 02:59 [financialjuice] Israeli Defense Minister Katz: Iran believed to be working to develop a dirty bomb. They are moving from enrichment to nuclear weapons - Israel I24 News Reporter on X
+- 11/25 03:00 [financialjuice] Treasury WI 5 Yr yield 4.716% before $70 billion auction.
+- 11/25 03:02 [financialjuice] US 5-YEAR NOTE HIGH YIELD ACTUAL 4.719% (FORECAST -, PREVIOUS 4.845%) $MACRO
+- 11/25 03:02 [financialjuice] US 5-YEAR NOTE BID-TO-COVER ACTUAL 2.370 (FORECAST -, PREVIOUS 2.330) $MACRO
+- 11/25 03:03 [financialjuice] US 5 Yr Note Auction High Yield 4.719% [Tail of 0.3 BPS] Bid-to-cover 2.37 Sells $70 bln Awards 63.47% of bids at high Primary Dealers take 9.01% Direct 36.71% Indirect 54.28%
+- 11/25 03:07 [financialjuice] BMO expects Bank of Canada to hike in December.
+- 11/25 03:07 [financialjuice] Democratic Senate Leader Schumer accuses Nvidia CEO Huang of shipping "extremely advanced chips to China, violating US export control law" - Statement on X. $NVDA
+- 11/25 03:10 [financialjuice] BoC's Gov. Macklem: Of course we care about employment.
+- 11/25 03:17 [financialjuice] BoC Governor Macklem: There is a build-up of cost pressures, history shows they usually take eight to nine months to show up in prices
+- 11/25 03:18 [financialjuice] BoC Governor Macklem: Rate hikes get companies to think twice about passing all costs through.
+- 11/25 03:19 [financialjuice] BoC Governor Macklem: Already seeing some pass through.
+- 11/25 03:20 [financialjuice] BoC Governor Macklem: There is no risk-free strategy when it comes to rates.
+- 11/25 03:20 [financialjuice] BoC Governor Macklem: Economy doesn't need as much support.
+- 11/25 03:21 [financialjuice] Iran's Rezaee: Iran remains firmly determined to break the US blockade
+- 11/25 03:21 [financialjuice] BoC Governor Macklem: Markets overfocus on one or two indicators
+- 11/25 03:22 [financialjuice] BoC's Gov. Macklem: We're expecting a solid Q3.
+- 11/25 03:51 [financialjuice] WATCH LIVE: Trump Turkey Pardoning 2 PM ET
+- 11/25 04:01 [financialjuice] New Zealand Treasury to offer NZ$700 mln bonds in December.
+- 11/25 04:01 [financialjuice] CIBC expects the Bank of Canada to hike in December.
+- 11/25 04:04 [financialjuice] BoC's Gov. Macklem: The BoC's message is that if a supply shock is temporary, it still makes sense to see through it.
+- 11/25 04:06 [financialjuice] BoC's Gov. Macklem: Mortgage delinquencies have now normalized.
+- 11/25 04:07 [financialjuice] BoC's Gov. Macklem: The overall level of mortgage arrears is not that high.
+- 11/25 04:08 [financialjuice] BoC's Gov. Macklem: The Housing market is certainly soft, we don't see it leading the recovery.
+- 11/25 04:12 [financialjuice] BoC's Gov. Macklem: Oil prices have come down from October.
+- 11/25 04:15 [financialjuice] BoC's Gov. Macklem: If energy prices come down faster, inflation should too, and there should be less reason to raise rates.
+- 11/25 04:17 [financialjuice] BoC's Gov. Macklem: When it comes to the inflation rate, we take below and above equally seriously.
+- 11/25 04:21 [financialjuice] BoC's Gov. Macklem: Having the inflation forecast not going up is better.
+- 11/25 04:27 [financialjuice] The US and Saudi Arabia discussed the need for Hezbollah’s disarmament in Lebanon.
+- 11/25 04:31 [financialjuice] NYMEX WTI Crude January futures settle at $82.05 a barrel, up $1.88, 2.35%.
+- 11/25 04:31 [financialjuice] NYMEX Gasoline December futures settle at $2.4543 a gallon.
+- 11/25 04:31 [financialjuice] NYMEX Diesel December futures settle at $3.7030 a gallon.
+- 11/25 04:32 [financialjuice] NYMEX Natural Gas December futures settle at $3.3230/MMBtu.
+- 11/25 04:32 [financialjuice] BoC's Gov. Macklem: I don't expect the exchange rate pass-through will be a big factor.
+- 11/25 04:32 [financialjuice] US Spy Agencies suffer breach of unclassified information - NYT.
+- 11/25 04:34 [financialjuice] BoC's Gov. Macklem press conference ends.
+- 11/25 04:46 [financialjuice] Brent Crude futures settle at $91.40/bbl, up $2.03, 2.27%.
+- 11/25 05:11 [financialjuice] China's Huawei convicted at a US criminal trial in a case stemming from Iran business.
+- 11/25 05:16 [financialjuice] IRGC Navy: A fourth oil tanker exploded after striking a sea mine east of the Strait of Hormuz, other vessels turned back amid warnings over unauthorized routes - Press TV
+- 11/25 05:17 [financialjuice] Nomura: We see the BOC to hike in December, previous forecast was January.
+- 11/25 05:23 [financialjuice] Wednesday FX Options Expiries
+- 11/25 05:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 4058.5 MLN NASDAQ 100: 2761.1 MLN DOW 30: 1371.8 MLN MAG 7: 1645.0 MLN $MACRO
+- 11/25 06:07 [financialjuice] Dell Technologies Q3 Earnings & FY Guidance $DELL Total Net Revenue $54.94B, est. $49.33B Adjusted EPS $9.45, est. $6.60 Adjusted Operating Income $7.83B, est. $5.58B AI-Optimized Servers Revenue $22.03B, est. $19.3B Traditional Servers & N…
+- 11/25 06:08 [financialjuice] RBNZ Assistant Governor Silk: New Zealand needs to establish a pathway to deliver retail payments capabilities required by the modern economy
+- 11/25 06:09 [financialjuice] RBNZ's Silk: New Zealand’s payments system remains reliable.
+- 11/25 06:30 [financialjuice] Nasdaq 100 Slides 2% as AI Selloff and Tariff Fears Hit Sentiment – US Market Wrap
