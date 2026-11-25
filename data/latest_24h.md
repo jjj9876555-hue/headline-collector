@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-11-25 06:31 JST／対象: 11/24 06:31 〜 11/25 06:31 JST（時刻はすべて日本時間）
+生成: 2026-11-25 13:31 JST／対象: 11/24 13:31 〜 11/25 13:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
 | FirstSquawk | 0 | - | - | - |
-| financialjuice | 180 | 11/24 06:35 | 11/25 06:30 | ⚠ 337分（09:30→15:08） |
+| financialjuice | 180 | 11/24 15:08 | 11/25 11:45 | ⚠ 105分（15:16→17:01） |
 
 - 今回の取得: Telegramミラー 1/3（失敗: WalterBloomberg・firstsquaw）
 - 統合後 180 行（統合前 183 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,19 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/24 06:35 [financialjuice] Fed's Williams: The economy has been resilient in the face of many large challenges.
-- 11/24 06:35 [financialjuice] Fed's Williams: What has driven inflation up recently has been unusual factors.
-- 11/24 06:36 [financialjuice] Fed's Williams: 2027 will be a year of lower inflation
-- 11/24 06:40 [financialjuice] Fed's Williams: Companies want to hire, but they are being cautious
-- 11/24 06:51 [financialjuice] Fed's Williams: There is an understanding that independent central banks deliver better economic outcomes.
-- 11/24 06:55 [financialjuice] Meta Platforms: Mark Zuckerberg grants waiver on Class C stock dividend payment deadline - SEC filing $META
-- 11/24 06:56 [financialjuice] ANZ Bank brings forward first RBA rate cut forecast to June 2027.
-- 11/24 07:00 [financialjuice] Qatari Prime Minister and Qatari Envoy met today with Vance - Axios.
-- 11/24 07:31 [financialjuice] Saudi-led coalition: drone launched by Yemen's Houthis towards southern region intercepted, destroyed
-- 11/24 07:52 [financialjuice] Anthropic PBC CEO Dario Amodei unloads 3.38 million class A shares at $83 apiece on Nov. 20: SEC filing
-- 11/24 07:54 [financialjuice] California AG: Attorney General Bonta submits amicus brief in Epic v. Apple
-- 11/24 09:30 [financialjuice] JAPANESE MFG PMI FLASH ACTUAL 53.7 (FORECAST -, PREVIOUS 53.3) $MACRO
-- 11/24 09:30 [financialjuice] JAPANESE COMPOSITE PMI FLASH ACTUAL 51.5 (FORECAST -, PREVIOUS 52.1) $MACRO
 - 11/24 15:08 [financialjuice] JAPANESE CHAIN STORE SALES YOY ACTUAL 1% (FORECAST -, PREVIOUS 1%) $MACRO
 - 11/24 15:16 [financialjuice] Iran's Parliament Speaker Ghalibaf: Position unchanged on negotiations - Fars
 - 11/24 17:01 [financialjuice] Currency Strength Chart: Strongest: CAD, GBP, EUR, USD, AUD, NZD, CHF, GBP - Weakest
@@ -204,3 +191,16 @@
 - 11/25 06:08 [financialjuice] RBNZ Assistant Governor Silk: New Zealand needs to establish a pathway to deliver retail payments capabilities required by the modern economy
 - 11/25 06:09 [financialjuice] RBNZ's Silk: New Zealand’s payments system remains reliable.
 - 11/25 06:30 [financialjuice] Nasdaq 100 Slides 2% as AI Selloff and Tariff Fears Hit Sentiment – US Market Wrap
+- 11/25 06:38 [financialjuice] US API CRUDE STOCK CHANGE ACTUAL 0.126M (FORECAST 0.9M, PREVIOUS 5.3M) $MACRO
+- 11/25 06:38 [financialjuice] US API CUSHING STOCK CHANGE ACTUAL -0.666M (FORECAST -, PREVIOUS -1.7M) $MACRO
+- 11/25 06:39 [financialjuice] US API GASOLINE STOCK CHANGE ACTUAL 0.047M (FORECAST -, PREVIOUS 5.1M) $MACRO
+- 11/25 06:47 [financialjuice] US API DISTILLATE STOCK CHANGE ACTUAL 1.647M (FORECAST -, PREVIOUS 0.351M) $MACRO
+- 11/25 07:15 [financialjuice] Yemen's Houthis threaten to strike Jeddah port and other Saudi Red Sea ports if Hodeidah is attacked: post on X
+- 11/25 07:18 [financialjuice] Houthi-run Saba news agency reports attacks on Yemen's Hodeidah port
+- 11/25 08:50 [financialjuice] JAPANESE SERVICE PPI ACTUAL 4.2% (FORECAST 3.6%, PREVIOUS 3.7%) $MACRO
+- 11/25 09:30 [financialjuice] ❗ AUSTRALIAN CPI TRIMMED MEAN YOY ACTUAL 3.8% (FORECAST 3.6%, PREVIOUS 3.6%) $MACRO
+- 11/25 09:30 [financialjuice] AUSTRALIAN CONSTRUCTION WORK DONE QOQ ACTUAL 0.9% (FORECAST 0.7%, PREVIOUS -2.1%) $MACRO
+- 11/25 09:30 [financialjuice] ‼ BREAKING: AUSTRALIAN CPI YOY NSA ACTUAL 4.9% (FORECAST 4.7%, PREVIOUS 4.3%) $MACRO
+- 11/25 10:30 [financialjuice] Hong Kong-listed shares of Minimax poised to open 6% lower
+- 11/25 11:09 [financialjuice] Saudi-led coalition: targeted operational capabilities at Hodeidah port
+- 11/25 11:45 [financialjuice] Saudi-led coalition: air defenses intercepted and destroyed four drones in Ras Tanura in eastern province
