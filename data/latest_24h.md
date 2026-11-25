@@ -7,93 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-11-25 13:31 JST／対象: 11/24 13:31 〜 11/25 13:31 JST（時刻はすべて日本時間）
+生成: 2026-11-25 23:51 JST／対象: 11/24 23:51 〜 11/25 23:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
 | FirstSquawk | 0 | - | - | - |
-| financialjuice | 180 | 11/24 15:08 | 11/25 11:45 | ⚠ 105分（15:16→17:01） |
+| financialjuice | 235 | 11/24 23:52 | 11/25 23:51 | ⚠ 117分（11:45→13:42） |
 
 - 今回の取得: Telegramミラー 1/3（失敗: WalterBloomberg・firstsquaw）
-- 統合後 180 行（統合前 183 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 235 行（統合前 237 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/24 15:08 [financialjuice] JAPANESE CHAIN STORE SALES YOY ACTUAL 1% (FORECAST -, PREVIOUS 1%) $MACRO
-- 11/24 15:16 [financialjuice] Iran's Parliament Speaker Ghalibaf: Position unchanged on negotiations - Fars
-- 11/24 17:01 [financialjuice] Currency Strength Chart: Strongest: CAD, GBP, EUR, USD, AUD, NZD, CHF, GBP - Weakest
-- 11/24 17:01 [financialjuice] Iraqi PM directs federal oil ministry to manage all its oilfields under Kurdish regional security control in Diyala, Kirkuk, Salahuddin, and Nineveh provinces
-- 11/24 17:25 [financialjuice] UKMTO gets a time-late report of an incident near Khor Fakkan, UAE
-- 11/24 17:35 [financialjuice] China Commerce Ministry: Issue temporary EU hybrid vehicle measures.
-- 11/24 17:35 [financialjuice] China Commerce Ministry: Urges EU to abide by bilateral consensus and strictly follow WTO rules in probe.
-- 11/24 17:37 [financialjuice] ECB's Simkus: More tightening needed in 2027 if inflation persists.
-- 11/24 17:37 [financialjuice] ECB's Simkus: Don't see a risk of over-tightening.
-- 11/24 17:37 [financialjuice] ECB's Simkus: ECB should act preemptively, sooner rather than later.
-- 11/24 17:37 [financialjuice] ECB's Simkus: Recent euro weakness is another inflationary factor.
-- 11/24 17:43 [financialjuice] Japan eyes easing FX special account rules for tax cut - Kyodo.
-- 11/24 17:46 [financialjuice] China Suspends export control on some dual-use items to US.
-- 11/24 17:49 [financialjuice] Iran must tighten Hormuz management until conditions met - Tasnim
-- 11/24 18:00 [financialjuice] ❗ GERMAN IFO BUSINESS CLIMATE ACTUAL 90.6 (FORECAST 90.5, PREVIOUS 90.2) $MACRO
-- 11/24 18:01 [financialjuice] ❗ GERMAN IFO EXPECTATIONS ACTUAL 91.6 (FORECAST 92, PREVIOUS 91.6) $MACRO
-- 11/24 18:23 [financialjuice] JP Morgan cuts target price of $Meta to $775 from $940.
-- 11/24 19:17 [financialjuice] Kristersson: continue discussions with Center but decision rests with them
-- 11/24 19:25 [financialjuice] ECB: banks left €1.9 trillion with it overnight
-- 11/24 19:25 [financialjuice] ECB: banks borrowed €21.0 million at marginal rate
-- 11/24 19:26 [financialjuice] Linklaters recruits competition lawyer Jenine Hulsmann from Weil
-- 11/24 19:43 [financialjuice] Kremlin: Europeans are pushing for four-way Ukraine talks - Tass
-- 11/24 19:49 [financialjuice] An Israeli airstrike kills senior Hamas security official in Gaza - Hamas sources
-- 11/24 19:50 [financialjuice] Anthropic and OpenAI staff fear models are too unsafe to release - Axios
-- 11/24 19:59 [financialjuice] Iran's IRGC: Another tanker hit mine in Hormuz Tuesday - Fars
-- 11/24 20:00 [financialjuice] UK CBI DISTRIBUTIVE TRADES ACTUAL 9 (FORECAST -28, PREVIOUS -10) $MACRO
-- 11/24 20:10 [financialjuice] Nvidia: Citigroup raises target price to $240 from $225 $NVDA
-- 11/24 20:41 [financialjuice] JP Morgan: We forecast US 10-year yields will peak around 5.10% in Q1 2027 before retracing to 4.95% by year-end 2027
-- 11/24 20:54 [financialjuice] UKMTO: Received a late report of an incident in the Strait of Hormuz
-- 11/24 21:26 [financialjuice] Sudi arabia asks allies for more missile interceptors - Semafor
-- 11/24 21:36 [financialjuice] BoE’s Greene: Need to think about successive shocks differently
-- 11/24 21:36 [financialjuice] BoE’s Greene: Monetary policy has role in anchoring inflation expectations.
-- 11/24 21:38 [financialjuice] BoE’s Greene: Not much evidence of 2nd-round effects so far
-- 11/24 21:40 [financialjuice] BoE’s Greene: Firms expect wage settlements at 3.6%, too high
-- 11/24 21:40 [financialjuice] BoE’s Greene: We have to make a judgment on 2nd-round effects now
-- 11/24 21:41 [financialjuice] BoE’s Greene: Slack has probably peaked in the labor market
-- 11/24 21:43 [financialjuice] BoE’s Greene: Indicators point to wage growth stuck at 3.5%
-- 11/24 21:47 [financialjuice] BoE’s Greene: Turnaround in data or war needed to change view
-- 11/24 21:50 [financialjuice] BoE’s Greene: Tighter conditions doesn't mean you don't have to act
-- 11/24 21:58 [financialjuice] BoE’s Greene: Target-consistent wage growth is around 3%
-- 11/24 21:58 [financialjuice] BoE’s Greene: Hard evidence of significant effects needed for 50 bps
-- 11/24 21:58 [financialjuice] BoE’s Greene: Need to hike to get on top of risk
-- 11/24 22:00 [financialjuice] BoE’s Greene: Next year evidence on 2nd-round effects matters
-- 11/24 22:00 [financialjuice] Secured overnight financing rate 3.92% November 23rd vs 3.92% November 20th
-- 11/24 22:03 [financialjuice] BoE's Greene: Indicators show disinflation process has stalled.
-- 11/24 22:05 [financialjuice] BoE’s Greene: Will need to adjust policy on the basis of actual evidence
-- 11/24 22:06 [financialjuice] Morning Juice - US Session Prep (24th November)
-- 11/24 22:09 [financialjuice] ❗ US prepares to raise tariffs on china and other countries - WSJ
-- 11/24 22:10 [financialjuice] US prepares to raise tariffs on China, EU, 14 countries - WSJ.
-- 11/24 22:10 [financialjuice] US new tariffs likely exclude some industrial goods - WSJ
-- 11/24 22:10 [financialjuice] EU, Japan, South Korea likely to face 15% or lower tariffs - WSJ
-- 11/24 22:11 [financialjuice] Higher tariff levies from US to target excess industrial capacity overseas are expected this week - WSJ.
-- 11/24 22:12 [financialjuice] New tariffs likely be added on top of July tariff action - WSJ.
-- 11/24 22:13 [financialjuice] BoE's Greene: More of the same grounds for tightening policy.
-- 11/24 22:13 [financialjuice] Oppenheimer cuts target price for Marvell Technology to $325 from $425
-- 11/24 22:15 [financialjuice] US ADP WKLY EMPLOYMENT CHANGE ACTUAL 21K (FORECAST -, PREVIOUS 23.75K) $MACRO
-- 11/24 22:21 [financialjuice] BoE’s Greene: Wage growth of 3.6% would warrant more tightening.
-- 11/24 22:55 [financialjuice] US REDBOOK YOY ACTUAL 11.3% (FORECAST -, PREVIOUS 9.5%) $MACRO
-- 11/24 22:59 [financialjuice] US to announce tariff hike on China and the EU as soon as today.
-- 11/24 23:00 [financialjuice] Effective Fed funds rate 3.88% November 23rd vs 3.88% November 20th.
-- 11/24 23:00 [financialjuice] US CASESHILLER 20 YOY ACTUAL 2.56% (FORECAST 2.71%, PREVIOUS 2.7%) $MACRO
-- 11/24 23:00 [financialjuice] US HOUSE PRICE INDEX MOM ACTUAL 0% (FORECAST 0.2%, PREVIOUS 0.3%) $MACRO
-- 11/24 23:00 [financialjuice] US HOUSE PRICE INDEX YOY ACTUAL 2.5% (FORECAST -, PREVIOUS 2.4%) $MACRO
-- 11/24 23:01 [financialjuice] US home prices unchanged in September from August - US Regulator.
-- 11/24 23:04 [financialjuice] US Case-Shiller September Report
-- 11/24 23:04 [financialjuice] US Case=Shiller 20 YoY September Report
-- 11/24 23:21 [financialjuice] Venezuela projects about $160 billion in oil-sector CAPEX through 2036, with $85 billion from partners and $75 bln from PDVSA.
-- 11/24 23:23 [financialjuice] UBS raises target price of Tesla to $430 from $425.
-- 11/24 23:25 [financialjuice] Chinese foreign minister expresses hope that Britain provides a favourable business environment for Chinese companies - Xinhua
-- 11/24 23:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -84.1 MLN NASDAQ 100: -20.5 MLN DOW 30: 5.4 MLN MAG 7: 15.3 MLN $MACRO
 - 11/24 23:52 [financialjuice] Rep. Meeks calls for Huang to testify publicly to House panel. $NVDA
 - 11/24 23:54 [financialjuice] Democrat Rep. Meeks: Closed-door Huang briefing doesn't replace public one. $NVDA
 - 11/25 00:00 [financialjuice] ❗ US CB CONSUMER CONFIDENCE ACTUAL 103.3 (FORECAST 92.4, PREVIOUS 91.7) $MACRO
@@ -204,3 +134,128 @@
 - 11/25 10:30 [financialjuice] Hong Kong-listed shares of Minimax poised to open 6% lower
 - 11/25 11:09 [financialjuice] Saudi-led coalition: targeted operational capabilities at Hodeidah port
 - 11/25 11:45 [financialjuice] Saudi-led coalition: air defenses intercepted and destroyed four drones in Ras Tanura in eastern province
+- 11/25 13:42 [financialjuice] Iran revolutionary guards' navy: two tankers blaze on unauthorized route through Strait of Hormuz - state media
+- 11/25 14:27 [financialjuice] Malaysia communications regulator files 2 lawsuits against Google
+- 11/25 15:00 [financialjuice] Amazon: used cars from dealers, including Vertu, to be offered at launch of Amazon Autos in UK
+- 11/25 15:00 [financialjuice] Amazon: Hyundai is first confirmed launch partner for Amazon Autos in UK
+- 11/25 15:00 [financialjuice] Amazon: amazon autos to debut in UK in early 2027, marking first launch outside US
+- 11/25 15:17 [financialjuice] China's Zhu: China is able to run a looser fiscal policy next year
+- 11/25 15:28 [financialjuice] China's Zhu: China and the US to open a 'new chapter’ of trade talks in January
+- 11/25 15:30 [financialjuice] China's Zhu: US 301 tariffs can be settled via negotiations with China
+- 11/25 16:00 [financialjuice] SWEDISH PPI YOY ACTUAL 11.8% (FORECAST -, PREVIOUS 11.2%) $MACRO
+- 11/25 16:00 [financialjuice] SWEDISH PPI MOM ACTUAL 0.9% (FORECAST -, PREVIOUS 3.4%) $MACRO
+- 11/25 16:00 [financialjuice] GERMAN GDP FINAL YOY SA ACTUAL 1.1% (FORECAST 1.2%, PREVIOUS 1.2%) $MACRO
+- 11/25 16:00 [financialjuice] ❗ GERMAN GDP FINAL YOY NSA ACTUAL 1.2% (FORECAST 1.3%, PREVIOUS 1.3%) $MACRO
+- 11/25 16:00 [financialjuice] ‼ BREAKING: GERMAN GDP FINAL QOQ ACTUAL 0.1% (FORECAST 0.2%, PREVIOUS 0.2%) $MACRO
+- 11/25 16:01 [financialjuice] UK energy price cap to rise 26%, fueling cost of living squeeze
+- 11/25 16:14 [financialjuice] China's foreign ministry, on US planned tariffs announcement: The so-called overcapacity does not really exist
+- 11/25 16:45 [financialjuice] FRENCH CONSUMER CONFIDENCE ACTUAL 82 (FORECAST 81, PREVIOUS 80) $MACRO
+- 11/25 17:02 [financialjuice] Currency Strength Chart: Strongest: CHF, JPY, USD, CAD, EUR, GBP, NZD, AUD - Weakest
+- 11/25 17:37 [financialjuice] Naftogaz: Russia hit gas production facility in Poltava region.
+- 11/25 18:00 [financialjuice] SWISS ZEW EXPECTATIONS ACTUAL 2.3 (FORECAST -, PREVIOUS -15.3) $MACRO
+- 11/25 18:33 [financialjuice] South Korea seeks to expand stock stabilization fund - Chosun
+- 11/25 19:20 [financialjuice] China Energy Engineering says unit won bid worth 5.6 bln yuan for coal power project
+- 11/25 19:31 [financialjuice] GERMAN 10 YR BUND BID-TO-COVER ACTUAL 1.4 (FORECAST -, PREVIOUS 1.1) $MACRO
+- 11/25 19:31 [financialjuice] GERMAN 10 YR BUND YIELD ACTUAL 3.22% (FORECAST -, PREVIOUS 3.37%) $MACRO
+- 11/25 20:01 [financialjuice] ECB's Kocher: We shouldn't fall behind the curve on rates
+- 11/25 20:02 [financialjuice] ECB's Kocher: Clearer picture on 2nd-round effects in 1h 2027
+- 11/25 20:03 [financialjuice] ECB's Kocher: ECB likely to revise inflation outlook up in December
+- 11/25 20:03 [financialjuice] ECB's Kocher: Market pricing doesn't seem completely unreasonable
+- 11/25 20:03 [financialjuice] ECB's Kocher: ECB should err on the prudent side and not act too late
+- 11/25 20:03 [financialjuice] ECB's Kocher: Economy is resilient, but it's still fragile
+- 11/25 20:04 [financialjuice] ECB's Kocher: Demand not driving prices at the moment
+- 11/25 20:42 [financialjuice] ECB debated raising the minimum reserve requirement on Wednesday - Source familiar with the discussion
+- 11/25 20:42 [financialjuice] ECB policymakers see mrr decision in December or possibly early 2027 - Source
+- 11/25 21:00 [financialjuice] US MBA MORTGAGE APPLICATIONS ACTUAL 6.1% (FORECAST -, PREVIOUS -2.3%) $MACRO
+- 11/25 21:00 [financialjuice] US MBA 30-YR MORTGAGE RATE ACTUAL 7.38% (FORECAST -, PREVIOUS 7.35%) $MACRO
+- 11/25 21:00 [financialjuice] Russia's Novak: Government to consider extending gasoline export ban beyond January in December
+- 11/25 21:01 [financialjuice] Russia’s Deputy PM Novak: Russia to assess the need for fuel imports after 2026 depending on market conditions
+- 11/25 21:03 [financialjuice] OpenAI: ChatGPT errors impacting team, business and pro plans
+- 11/25 21:15 [financialjuice] UK's PM Burnham: EU deal removes threat of made in Europe to UK firms
+- 11/25 22:00 [financialjuice] Secured overnight financing rate: 3.94% November 24th vs 3.92% November 23rd
+- 11/25 22:02 [financialjuice] Morning Juice - US Session Prep (25th November)
+- 11/25 22:09 [financialjuice] ❗ US proposes up to a 20% tariff on the EU after a trade probe.
+- 11/25 22:10 [financialjuice] Senior US Official: Has concluded investigations into structural excess capacity and production and determined that action is warranted against 14 of our largest trading partners
+- 11/25 22:11 [financialjuice] ❗ US proposes at least 20% tariff on China after trade probe.
+- 11/25 22:11 [financialjuice] ❗ US proposes 20% tariff deal rate on Vietnam.
+- 11/25 22:13 [financialjuice] The US proposes 15% net of manufacturing tariffs on South Korea after probe
+- 11/25 22:14 [financialjuice] The US proposes 15% net of MFN tariffs on Japan after probe
+- 11/25 22:15 [financialjuice] Russia's Novak on oil production capacity assessment by OPEC: We plan to complete it by the end of the year.
+- 11/25 22:15 [financialjuice] US proposes 15% tariff net of MFN on Switzerland after probe.
+- 11/25 22:17 [financialjuice] Russia’s Deputy PM Novak: OPEC+ to review capacity limit assessments - Tass.
+- 11/25 22:18 [financialjuice] US proposes at least a 15% 'deal rate' tariff on the EU.
+- 11/25 22:30 [financialjuice] ❗ US DURABLE GOODS ACTUAL 0.2% (FORECAST 0.7%, PREVIOUS 1.9%) $MACRO
+- 11/25 22:30 [financialjuice] US CORE DURABLE GOODS ACTUAL 0.5% (FORECAST 0.5%, PREVIOUS 0.5%) $MACRO
+- 11/25 22:30 [financialjuice] US CONTINUED JOBLESS CLAIMS ACTUAL 1.697M (FORECAST 1.74M, PREVIOUS 1.763M) $MACRO
+- 11/25 22:30 [financialjuice] ❗ US INITIAL JOBLESS CLAIMS ACTUAL 189K (FORECAST 200K, PREVIOUS 203K ,REVISION 202K) $MACRO
+- 11/25 22:30 [financialjuice] US CORE PCE PRICES PRELIM ACTUAL 2.5% (FORECAST 2.5%, PREVIOUS 2.5%) $MACRO
+- 11/25 22:30 [financialjuice] US REAL PERSONAL CONSUMPTION MOM ACTUAL 0% (FORECAST 0.1%, PREVIOUS 0.0%) $MACRO
+- 11/25 22:30 [financialjuice] US GDP PRICE INDEX ACTUAL 2.3% (FORECAST 2.3%, PREVIOUS 2.3%) $MACRO
+- 11/25 22:31 [financialjuice] US PERSONAL INCOME MOM ACTUAL 0.7% (FORECAST 0.4%, PREVIOUS 0.2%) $MACRO
+- 11/25 22:31 [financialjuice] ❗ US CORE PCE PRICE INDEX YOY ACTUAL 3.1% (FORECAST 3.2%, PREVIOUS 3.1%) $MACRO
+- 11/25 22:31 [financialjuice] US PCE PRICES PRELIM ACTUAL 2.1% (FORECAST -, PREVIOUS 2.1%) $MACRO
+- 11/25 22:31 [financialjuice] ❗ US PCE PRICE INDEX MOM ACTUAL 0.3% (FORECAST 0.3%, PREVIOUS 0.5%) $MACRO
+- 11/25 22:31 [financialjuice] ‼ BREAKING: US PCE PRICE INDEX YOY ACTUAL 3.8% (FORECAST 3.8%, PREVIOUS 3.6% ,REVISION 3.7%) $MACRO
+- 11/25 22:31 [financialjuice] ❗ US CORE PCE PRICE INDEX MOM ACTUAL 0.3% (FORECAST 0.3%, PREVIOUS 0.3%) $MACRO
+- 11/25 22:31 [financialjuice] US GDP DEFLATOR SA PRELIM ACTUAL 1.8% (FORECAST -, PREVIOUS 2.2%) $MACRO
+- 11/25 22:36 [financialjuice] USTR Greer: Tariff rates will hew toward deal rates.
+- 11/25 22:36 [financialjuice] USTR Greer: Tariff rates won't go into effect for a couple months.
+- 11/25 22:37 [financialjuice] USTR Greer: Trade deals solve a lot of the excess capacity issues.
+- 11/25 22:38 [financialjuice] USTR Greer: Many countries are creating capacities that are not justified by economics
+- 11/25 22:39 [financialjuice] USTR Greer: Tariffs in most cases will top up just a few percentage points
+- 11/25 22:39 [financialjuice] USTR Greer: We will implement some items from board of trade.
+- 11/25 22:40 [financialjuice] USTR Greer: Proposing to exempt some Chinese consumer goods
+- 11/25 22:41 [financialjuice] USTR Greer: Proposing $30B worth of Chinese goods exempt from tariff
+- 11/25 22:41 [financialjuice] USTR Greer: New excess capacity tariffs are in line with what we have agreed with the Chinese
+- 11/25 22:42 [financialjuice] USTR Greer: We have had very good conversations with Mexico.
+- 11/25 22:42 [financialjuice] USTR Greer, on Canada trade: Still have some sticking points - CNBC interview
+- 11/25 22:43 [financialjuice] USTR Greer: Autos, steel, and aluminum are sticking points with Canada.
+- 11/25 22:43 [financialjuice] USTR Greer: The US met with Canadians last week on trade
+- 11/25 22:45 [financialjuice] USTR Greer, on Canada: Canada needs to be realistic about limited prospects for economic integration with Europe
+- 11/25 22:46 [financialjuice] USTR Greer on chips and export controls: Administration closing some loopholes - CNBC interview
+- 11/25 22:47 [financialjuice] USTR Greer on NVIDIA: The company is structurally important -CNBC Interview. $NVDA
+- 11/25 22:47 [financialjuice] USTR Greer on NVIDIA: We have to make sure that company remains on top.
+- 11/25 22:48 [financialjuice] USTR Greer, on export controls: We have to balance the economy and national security - CNBC
+- 11/25 22:49 [financialjuice] USTR Greer: I agree with the US' actions on megaspeed
+- 11/25 22:56 [financialjuice] UBS cuts target price for Applied Materials to $575 from $640
+- 11/25 23:00 [financialjuice] Effective Fed Funds Rate 3.88% November 24 vs 3.88% November 23
+- 11/25 23:02 [financialjuice] Chinese AI model development faces severe delays, widening gap with US - The Information
+- 11/25 23:03 [financialjuice] Some Chinese firms are looking at domestic chips, and others are exploring new workarounds overseas - The Information.
+- 11/25 23:03 [financialjuice] Chinese AI Firms Confront Dire Future as U.S. Tightens Access to Chips and Tokens - The Information
+- 11/25 23:06 [financialjuice] Some Chinese AI firms are exploring ways in which they can keep their remote access to NVIDIA chips - The Information
+- 11/25 23:07 [financialjuice] Bank of England Governor Bailey Faces UK Parliament's Treasury Committee - WATCH LIVE
+- 11/25 23:22 [financialjuice] BoE's Mann: Energy futures have not been a good guide to prices
+- 11/25 23:23 [financialjuice] BoE's Dhingra: Need to see stronger pricing power to keep rates high.
+- 11/25 23:24 [financialjuice] BoE's Dhingra: Loss of purchasing power half a point of GDP.
+- 11/25 23:24 [financialjuice] Iran's Army: An oil tanker hit a naval mine and caught fire in the Strait of Hormuz. The tanker hit a mine east of Hormuz hours ago - Fars.
+- 11/25 23:25 [financialjuice] BoE's Lombardelli: Lower oil prices mean likely peak of inflation is lower than what we forecast in November.
+- 11/25 23:25 [financialjuice] BoE's Lombardelli: Focus now on whether energy shock embeds in the UK
+- 11/25 23:26 [financialjuice] EU Commission Spokesperson: Strongly reject premise that Europe is a source of structural overcapacity.
+- 11/25 23:27 [financialjuice] BoE's Dhingra: Large scale QE outside crises needs consideration.
+- 11/25 23:27 [financialjuice] BoE Gov. Bailey: Flow of crude through the strait is approaching back to where it was, future unpredictable
+- 11/25 23:28 [financialjuice] BoE Gov. Bailey: Have to watch refined products separately
+- 11/25 23:28 [financialjuice] BoE's Dhingra: We shouldn't conflate the first wage/price rise with a spiral.
+- 11/25 23:29 [financialjuice] BoE's Lombardelli: Completing the unwind of QE is important for our credibility.
+- 11/25 23:30 [financialjuice] BoE Gov. Bailey: Energy futures curve offers a very rosy view of price trends.
+- 11/25 23:30 [financialjuice] EU Commission Spokesperson: Expect any measure from the US to respect in full 15% all-inclusive ceiling on EU goods, including when combined with existing duties
+- 11/25 23:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -79.2 MLN NASDAQ 100: -75.1 MLN DOW 30: 9.9 MLN MAG 7: -16.4 MLN $MACRO
+- 11/25 23:33 [financialjuice] BoE Gov. Bailey: There's no substantial inflation pass-through.
+- 11/25 23:33 [financialjuice] BoE Gov. Bailey: The pipeline of energy effects now looks stronger.
+- 11/25 23:34 [financialjuice] BoE Gov. Bailey: We are seeing greater resilience in the UK economy; we must factor this into inflation projections.
+- 11/25 23:34 [financialjuice] BoE Gov. Bailey: The UK labour market is no longer softening; it has flattened out.
+- 11/25 23:35 [financialjuice] BoE's Lombardelli: Indirect effects are less than expected.
+- 11/25 23:35 [financialjuice] BoE's Lombardelli: We still expect food price inflation to rise next year to around 5%.
+- 11/25 23:36 [financialjuice] BoE's Lombardelli: There's a higher risk of second-round effects.
+- 11/25 23:36 [financialjuice] BoE's Lombardelli: The economy is stronger than we expected.
+- 11/25 23:42 [financialjuice] BoE's Dhingra: I'm surprised by how little pass-through there has been of higher energy prices compared to 2022.
+- 11/25 23:45 [financialjuice] BoE's Mann: There's an upward bias in inflation expectations.
+- 11/25 23:45 [financialjuice] Fed bids for 4-week bills total $8.1 bln.
+- 11/25 23:46 [financialjuice] WH Sr. Adviser Hassett: The PCE numbers show that the impact of the Gulf troubles is waning.
+- 11/25 23:46 [financialjuice] BoE's Mann: The optimal response is to hike rates more and sooner.
+- 11/25 23:47 [financialjuice] BoE's Mann: I do not think the squeeze on firms' profit margins can continue to restrain inflation.
+- 11/25 23:48 [financialjuice] WH Sr. Adviser Hassett: Oil and diesel prices are heading back to before war levels.
+- 11/25 23:48 [financialjuice] BoE's Mann: Larger moves have a bigger impact on price strategies.
+- 11/25 23:49 [financialjuice] WH Sr. Adviser Hassett on tariff proposals: The point is to level the playing field.
+- 11/25 23:49 [financialjuice] WH Sr. Adviser Hassett: We expect Warsh, and the Fed will be data-driven.
+- 11/25 23:50 [financialjuice] WH Sr. Adviser Hassett: I expect more 4% quarters and more GDP upward revisions.
+- 11/25 23:51 [financialjuice] WH Sr. Adviser Hassett's interview on Fox Business ends.
