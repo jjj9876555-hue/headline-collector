@@ -7,91 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-11-27 00:20 JST／対象: 11/26 00:20 〜 11/27 00:20 JST（時刻はすべて日本時間）
+生成: 2026-11-27 08:54 JST／対象: 11/26 08:54 〜 11/27 08:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
 | FirstSquawk | 0 | - | - | - |
-| financialjuice | 148 | 11/26 00:29 | 11/26 23:59 | ⚠ 192分（12:10→15:23） |
+| financialjuice | 108 | 11/26 09:30 | 11/27 08:50 | ⚠ 192分（12:10→15:23） |
 
 - 今回の取得: Telegramミラー 1/3（失敗: WalterBloomberg・firstsquaw）
-- 統合後 148 行（統合前 149 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 108 行（統合前 109 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/26 00:29 [financialjuice] Iran claims an LNG carrier hit a mine in Hormuz - Mehr.
-- 11/26 00:30 [financialjuice] EIA GASOLINE INVENTORIES ACTUAL 1.733M (FORECAST 2M, PREVIOUS 5.192M) $MACRO
-- 11/26 00:30 [financialjuice] EIA DISTILLATE INVENTORIES ACTUAL 0.715M (FORECAST 1.5M, PREVIOUS 1.571M) $MACRO
-- 11/26 00:30 [financialjuice] EIA CRUDE OIL INVENTORIES ACTUAL 1.109M (FORECAST 2M, PREVIOUS 3.380M) $MACRO
-- 11/26 00:30 [financialjuice] EIA CRUDE CUSHING INVENTORIES ACTUAL -0.534M (FORECAST -, PREVIOUS -1.209M) $MACRO
-- 11/26 00:30 [financialjuice] US EIA Weekly Petroleum Status Report
-- 11/26 00:36 [financialjuice] BoE's Mann: Resilience suggests policy has not been restrictive.
-- 11/26 00:49 [financialjuice] US Officials tell Congress that there is no evidence that Huang's affair was a spy - WSJ. $NVDA
-- 11/26 00:50 [financialjuice] No Evidence China Orchestrated Jensen Huang’s Affair, Officials Brief Congress - WSJ $NVDA
-- 11/26 01:01 [financialjuice] US to sell $82 bln 6-Month bills and $95 bln 3-Month bills on November 30th, to settle on December 3rd
-- 11/26 01:15 [financialjuice] Fed bids for 7-Yr notes total $4.5 bln
-- 11/26 01:26 [financialjuice] Michael Burry: Sold rest of his Nasdaq 100 put position, temporarily almost entirely long; has about 25% cash and is working to invest it, continuing to assess short opportunities
-- 11/26 01:28 [financialjuice] Japan seeks supply chain mandate for chips and other critical goods - Nikkei.
-- 11/26 01:31 [financialjuice] Japan to consider requiring companies using semiconductors, among others, to diversify supply chains relying too heavily on specific countries and suppliers - Nikkei.
-- 11/26 01:31 [financialjuice] Burry: Sold rest of my Nasdaq 100 put position. Have about 25% cash and working to invest it. Temporarily almost entirely long. Continuing to assess short opportunities.
-- 11/26 01:31 [financialjuice] The Japanese Government's support is expected to cover some costs needed for procurement changes, targeting a gradual start in fiscal 2027- Nikkei.
-- 11/26 01:32 [financialjuice] US 7-YEAR HIGH YIELD ACTUAL 4.708% (FORECAST -, PREVIOUS 4.894%) $MACRO
-- 11/26 01:32 [financialjuice] US 7-YEAR BID-TO-COVER ACTUAL 2.430 (FORECAST -, PREVIOUS 2.460) $MACRO
-- 11/26 01:47 [financialjuice] US FCC authorizes SpaceX to deploy 1 million data centers in space. $SPCX
-- 11/26 02:00 [financialjuice] EIA NATURAL GAS CHANGE BCF ACTUAL -24B (FORECAST -25B, PREVIOUS 20B) $MACRO
-- 11/26 02:01 [financialjuice] US EIA Weekly Natural Gas Storage Report
-- 11/26 02:14 [financialjuice] US 30-year fixed rate mortgage averages 7.21 pct in the week of November 25th vs 7.28% the prior week - Freddie Mac.
-- 11/26 02:32 [financialjuice] Nvidia chip sellers seek new buyers for AI hardware - CNBC. $NVDA
-- 11/26 03:01 [financialjuice] US BAKER HUGHES OIL RIG COUNT ACTUAL 470 (FORECAST -, PREVIOUS 469) $MACRO
-- 11/26 03:01 [financialjuice] US BAKER HUGHES TOTAL RIG COUNT ACTUAL 607 (FORECAST -, PREVIOUS 607) $MACRO
-- 11/26 03:16 [financialjuice] US, China to work toward stable agricultural trade; US-China agricultural working group agreed to continue talks.
-- 11/26 03:25 [financialjuice] Anthropic's CEO Amodei: I don't believe we should surrender human free will to AI. $ANT
-- 11/26 03:26 [financialjuice] Anthropic's CEO Amodei: I feel that turning over governance to AI is bad idea. $ANT
-- 11/26 03:30 [financialjuice] Senator Booker writes to Nvidia board Chair Jones. Asks Nvidia on Trump’s intervention. $NVDA
-- 11/26 03:31 [financialjuice] Senator Booker seeks details on communications with Nvidia and officials. $NVDA
-- 11/26 03:33 [financialjuice] Vance: We were told Huang was under no investigation. $NVDA
-- 11/26 03:34 [financialjuice] Vance: Huang will take export controls very seriously. Accusations against Huang based on anonymous report. $NVDA
-- 11/26 03:34 [financialjuice] Vance asked on Huang pardon: Doesn't need one at all. $NVDA
-- 11/26 03:34 [financialjuice] Vance on Nvidia: It was the board's decision to bring Huang back. $NVDA
-- 11/26 03:39 [financialjuice] ❗ S&P puts Nvidia 'AA' ratings on creditwatch negative
-- 11/26 03:39 [financialjuice] S&P: Nvidia 'AA' ratings placed on creditwatch negative on rising M&G risk. $NVDA
-- 11/26 03:40 [financialjuice] ❗ S&P sees potential one-notch Nvidia downgrade in 90 days. $NVDA
-- 11/26 03:43 [financialjuice] Vice President JD Vance ends remarks to reporters
-- 11/26 03:45 [financialjuice] S&P: Expect Nvidia's potential downgrade limited to one notch, unless investigations or disclosures harm co’s reputation or future business prospects. $NVDA
-- 11/26 04:00 [financialjuice] Fed Beige Book: Overall, the majority of districts expected slight to moderate growth.
-- 11/26 04:00 [financialjuice] Fed Beige Book: Eight of the twelve federal reserve districts reported growth in the slight to moderate range, while four districts reported no change.
-- 11/26 04:00 [financialjuice] Fed Beige Book: Prices increased moderately overall, as in the prior reporting period.
-- 11/26 04:01 [financialjuice] Fed Beige Book: Employment levels rose slightly on balance, with many firms reporting stable headcounts and hiring primarily to replace attrition, while only a minority noted meaningful increases.
-- 11/26 04:01 [financialjuice] Fed Beige Book Nov 2026
-- 11/26 04:31 [financialjuice] NYMEX WTI crude futures settle at $83.68 a barrel, up $1.63, 1.99%
-- 11/26 04:31 [financialjuice] NYMEX gasoline Dec. futures settle at $2.4423 a gallon
-- 11/26 04:31 [financialjuice] NYMEX diesel Dec. futures settle at $3.7025 a gallon
-- 11/26 04:32 [financialjuice] NYMEX Natural gas Dec. futures settle at $3.2690/MMBTU
-- 11/26 04:36 [financialjuice] NATO allies expect us to delay the decision on troop cuts in Europe
-- 11/26 04:45 [financialjuice] Brent crude futures settle at $94.61/bbl, up $3.21, 3.51%
-- 11/26 05:21 [financialjuice] Musk's SpaceX pledge to donate a share each to active Trump Accounts $SPCX
-- 11/26 05:26 [financialjuice] The US opposes South Korea alleged unfair actions on US tech companies - Fox
-- 11/26 05:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 4330.0 MLN NASDAQ 100: 1762.0 MLN DOW 30: 2166.8 MLN MAG 7: 1318.9 MLN $MACRO
-- 11/26 06:01 [financialjuice] Neuralink: Received FDA ok for a trial on a brain implant
-- 11/26 06:02 [financialjuice] Several loud booms were heard in Riyadh - Witness.
-- 11/26 06:05 [financialjuice] Kushner: Israel needs to move away from a war mentality and focus on the economy - Israel's Hayom News
-- 11/26 06:10 [financialjuice] North Korea's Kim Jong Un: Hostile forces' efforts to undermine socialism will intensify as North Korea develops faster - KCNA.
-- 11/26 06:10 [financialjuice] North Korea's Kim Jong Un: Nuclear material production capacity is being systematically expanded - KCNA.
-- 11/26 06:10 [financialjuice] North Korea's Kim Jong Un: Nuclear weapons sector should focus on deploying tactical nuclear weapons across multiple domains - KCNA.
-- 11/26 06:10 [financialjuice] North Korea's Kim Jong Un: North Korea's status as a nuclear weapons state is absolutely inviolable - KCNA.
-- 11/26 06:11 [financialjuice] North Korea's Kim Jong Un: North Korea's nuclear status will never change regardless of calls for denuclearization - KCNA.
-- 11/26 06:14 [financialjuice] Toronto-Dominion Bank expects Bank of Canada to hike in December.
-- 11/26 06:19 [financialjuice] Stocks Recover From AI-Led Losses as Investors Return to Buy the Dip – US Market Wrap
-- 11/26 07:06 [financialjuice] Moody's: Nvidia's CEO reinstatement restores strategic continuity but leaves some governance questions unresolved; rating and outlook unchanged. $NVDA
-- 11/26 07:32 [financialjuice] Saudi-led coalition: two drones shot down over kingdom's eastern region
-- 11/26 07:59 [financialjuice] UKMTO reports incident 50nm west of Dubai, UAE
-- 11/26 08:00 [financialjuice] UKMTO: Master of tanker reports explosion from unknown projectile near vessel
-- 11/26 08:00 [financialjuice] UKMTO: crew safe, accounted for; no tanker damage or environmental impact reported
 - 11/26 09:30 [financialjuice] ❗ AUSTRALIAN CAPITAL EXPENDITURE QOQ ACTUAL 12.2% (FORECAST 4.3%, PREVIOUS -3.6%) $MACRO
 - 11/26 09:30 [financialjuice] AUSTRALIAN BUILDING CAPEX ACTUAL 1.7% (FORECAST -, PREVIOUS 2.1%) $MACRO
 - 11/26 09:50 [financialjuice] BANK OF KOREA BASE RATE ACTUAL 3.25% (FORECAST 3.25%, PREVIOUS 3.00%) $MACRO
@@ -172,3 +104,31 @@
 - 11/26 23:58 [financialjuice] Iraq's Oil Minister: Oil exports raised to 3.6 mln bpd from 200,000 bpd
 - 11/26 23:59 [financialjuice] Russian Foreign Ministry: Moscow hopes that Putin's meeting with the Japanese PM will contribute to improving relations between the countries.
 - 11/26 23:59 [financialjuice] Iraq's Oil Minister: Talks underway with OPEC to raise Iraq's oil production ceiling
+- 11/27 00:33 [financialjuice] Angola to cut January crude exports to lowest since at least 2008
+- 11/27 00:35 [financialjuice] The US is to delay its overhaul of military presence in Europe - Politico
+- 11/27 01:05 [financialjuice] Chip sellers have told Neoclouds they won't supply Nvidia chips if any of the computing capacity will be rented to Chinese companies - CNBC. $NVDA
+- 11/27 01:14 [financialjuice] Iran Armed Forces spokesperson: Iran has carried out no military or offensive operations in the region, denies Kuwaiti army claims of attack on vital facility - Tasnim News
+- 11/27 01:19 [financialjuice] Al-Hadath reported that the US is working to arrange a meeting between Trump and Israel's Eisenkot, which would address the Iranian issue and understandings with Netanyahu.
+- 11/27 01:21 [financialjuice] SAP weighs cutting at least 10,000 positions in AI restructuring
+- 11/27 03:01 [financialjuice] Saudi Energy Ministry: Fire at Jazan refinery brought under control after attack
+- 11/27 03:01 [financialjuice] Saudi Energy Ministry: Some Jazan refinery operations temporarily halted after attack.
+- 11/27 03:17 [financialjuice] Brent Crude futures settle at $96.57/bbl, up $1.96, 2.07%
+- 11/27 03:40 [financialjuice] Nissan poised to import cars from China to Japan for first time - Nikkei
+- 11/27 04:23 [financialjuice] France’s President Macron: EU budget cuts would be a strategic mistake.
+- 11/27 04:25 [financialjuice] France’s President Macron: France wants the EU digital tax to take effect in 2028, along with the EU budget.
+- 11/27 04:34 [financialjuice] France’s President Macron: I won't sign an unbalanced deal.
+- 11/27 04:42 [financialjuice] France’s President Macron: The EU budget talks are going to resume in the 2H 2027 if no deal is reached this year.
+- 11/27 05:57 [financialjuice] Germany’s Chancellor Merz: The elections next year may makes the EU budget talks harder.
+- 11/27 06:01 [financialjuice] German Chancellor Merz: There is a new movement to reduce the overall volume of the next budget
+- 11/27 06:56 [financialjuice] Jera Global CEO and Chair: The energy group is in discussions with Amazon, Microsoft, and Google - Nikkei. $GOOGL $AMZN $MSFT
+- 11/27 06:57 [financialjuice] Japan's Jera aims to build Anthropic and Meta data centers near power plants - Nikkei $META
+- 11/27 07:11 [financialjuice] Saudi Arabia issues warning of potential threat in Abha city
+- 11/27 07:11 [financialjuice] Saudi Arabia issues warning of possible threat in Khamis Mushait
+- 11/27 07:15 [financialjuice] Saudi civil defence: danger has passed in Abha city
+- 11/27 07:16 [financialjuice] Saudi civil defence: danger has passed in Khamis Mushait
+- 11/27 08:30 [financialjuice] ❗ TOKYO CORE CPI YOY ACTUAL 2.9% (FORECAST 2.9%, PREVIOUS 2.6%) $MACRO
+- 11/27 08:30 [financialjuice] ❗ TOKYO CPI OVERALL ACTUAL 2.8% (FORECAST 3.1%, PREVIOUS 2.8%) $MACRO
+- 11/27 08:50 [financialjuice] JAPANESE FOREIGN BOND INVESTMENT ACTUAL 423.5B (FORECAST -, PREVIOUS -440.7B) $MACRO
+- 11/27 08:50 [financialjuice] FOREIGN INVESTMENT JAPANESE STOCKS ACTUAL -571.6B (FORECAST -, PREVIOUS -224.1B) $MACRO
+- 11/27 08:50 [financialjuice] JAPANESE FOREIGN STOCK INVESTMENT ACTUAL -350.8B (FORECAST -, PREVIOUS 363.1B) $MACRO
+- 11/27 08:50 [financialjuice] FOREIGN INVESTMENT JAPANESE BONDS ACTUAL 208.5B (FORECAST -, PREVIOUS 650.1B) $MACRO
