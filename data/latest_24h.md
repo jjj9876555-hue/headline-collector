@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-11-26 08:23 JST／対象: 11/25 08:23 〜 11/26 08:23 JST（時刻はすべて日本時間）
+生成: 2026-11-26 14:13 JST／対象: 11/25 14:13 〜 11/26 14:13 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
 | FirstSquawk | 0 | - | - | - |
-| financialjuice | 226 | 11/25 08:50 | 11/26 08:00 | ⚠ 117分（11:45→13:42） |
+| financialjuice | 222 | 11/25 14:27 | 11/26 12:10 | ⚠ 140分（09:50→12:10） |
 
 - 今回の取得: Telegramミラー 1/3（失敗: WalterBloomberg・firstsquaw）
-- 統合後 226 行（統合前 228 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 222 行（統合前 224 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/25 08:50 [financialjuice] JAPANESE SERVICE PPI ACTUAL 4.2% (FORECAST 3.6%, PREVIOUS 3.7%) $MACRO
-- 11/25 09:30 [financialjuice] ❗ AUSTRALIAN CPI TRIMMED MEAN YOY ACTUAL 3.8% (FORECAST 3.6%, PREVIOUS 3.6%) $MACRO
-- 11/25 09:30 [financialjuice] AUSTRALIAN CONSTRUCTION WORK DONE QOQ ACTUAL 0.9% (FORECAST 0.7%, PREVIOUS -2.1%) $MACRO
-- 11/25 09:30 [financialjuice] ‼ BREAKING: AUSTRALIAN CPI YOY NSA ACTUAL 4.9% (FORECAST 4.7%, PREVIOUS 4.3%) $MACRO
-- 11/25 10:30 [financialjuice] Hong Kong-listed shares of Minimax poised to open 6% lower
-- 11/25 11:09 [financialjuice] Saudi-led coalition: targeted operational capabilities at Hodeidah port
-- 11/25 11:45 [financialjuice] Saudi-led coalition: air defenses intercepted and destroyed four drones in Ras Tanura in eastern province
-- 11/25 13:42 [financialjuice] Iran revolutionary guards' navy: two tankers blaze on unauthorized route through Strait of Hormuz - state media
 - 11/25 14:27 [financialjuice] Malaysia communications regulator files 2 lawsuits against Google
 - 11/25 15:00 [financialjuice] Amazon: used cars from dealers, including Vertu, to be offered at launch of Amazon Autos in UK
 - 11/25 15:00 [financialjuice] Amazon: Hyundai is first confirmed launch partner for Amazon Autos in UK
@@ -250,3 +242,7 @@
 - 11/26 07:59 [financialjuice] UKMTO reports incident 50nm west of Dubai, UAE
 - 11/26 08:00 [financialjuice] UKMTO: Master of tanker reports explosion from unknown projectile near vessel
 - 11/26 08:00 [financialjuice] UKMTO: crew safe, accounted for; no tanker damage or environmental impact reported
+- 11/26 09:30 [financialjuice] ❗ AUSTRALIAN CAPITAL EXPENDITURE QOQ ACTUAL 12.2% (FORECAST 4.3%, PREVIOUS -3.6%) $MACRO
+- 11/26 09:30 [financialjuice] AUSTRALIAN BUILDING CAPEX ACTUAL 1.7% (FORECAST -, PREVIOUS 2.1%) $MACRO
+- 11/26 09:50 [financialjuice] BANK OF KOREA BASE RATE ACTUAL 3.25% (FORECAST 3.25%, PREVIOUS 3.00%) $MACRO
+- 11/26 12:10 [financialjuice] Kioxia and Nvidia partner to boost effective high-bandwidth memory capacity with SSDs
