@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-11-27 08:54 JST／対象: 11/26 08:54 〜 11/27 08:54 JST（時刻はすべて日本時間）
+生成: 2026-11-27 15:03 JST／対象: 11/26 15:03 〜 11/27 15:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
 | FirstSquawk | 0 | - | - | - |
-| financialjuice | 108 | 11/26 09:30 | 11/27 08:50 | ⚠ 192分（12:10→15:23） |
+| financialjuice | 112 | 11/26 15:23 | 11/27 15:00 | ⚠ 239分（10:30→14:30） |
 
 - 今回の取得: Telegramミラー 1/3（失敗: WalterBloomberg・firstsquaw）
-- 統合後 108 行（統合前 109 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 112 行（統合前 113 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/26 09:30 [financialjuice] ❗ AUSTRALIAN CAPITAL EXPENDITURE QOQ ACTUAL 12.2% (FORECAST 4.3%, PREVIOUS -3.6%) $MACRO
-- 11/26 09:30 [financialjuice] AUSTRALIAN BUILDING CAPEX ACTUAL 1.7% (FORECAST -, PREVIOUS 2.1%) $MACRO
-- 11/26 09:50 [financialjuice] BANK OF KOREA BASE RATE ACTUAL 3.25% (FORECAST 3.25%, PREVIOUS 3.00%) $MACRO
-- 11/26 12:10 [financialjuice] Kioxia and Nvidia partner to boost effective high-bandwidth memory capacity with SSDs
 - 11/26 15:23 [financialjuice] Minimax says it disabled security feature controlling link access
 - 11/26 15:23 [financialjuice] Secret link sent to Minimax later accessed on devices in Beijing, Shanghai: researcher
 - 11/26 15:23 [financialjuice] Researcher identifies unusual activity in Moscow region involving links sent to minimax
@@ -132,3 +128,11 @@
 - 11/27 08:50 [financialjuice] FOREIGN INVESTMENT JAPANESE STOCKS ACTUAL -571.6B (FORECAST -, PREVIOUS -224.1B) $MACRO
 - 11/27 08:50 [financialjuice] JAPANESE FOREIGN STOCK INVESTMENT ACTUAL -350.8B (FORECAST -, PREVIOUS 363.1B) $MACRO
 - 11/27 08:50 [financialjuice] FOREIGN INVESTMENT JAPANESE BONDS ACTUAL 208.5B (FORECAST -, PREVIOUS 650.1B) $MACRO
+- 11/27 08:55 [financialjuice] Trump: will likely talk to Nvidia's Huang shortly
+- 11/27 08:56 [financialjuice] Trump: expressed concern about earlier market declines
+- 11/27 10:30 [financialjuice] CHINESE INDUSTRIAL PROFIT YTD ACTUAL 16.0% (FORECAST -, PREVIOUS 15.5%) $MACRO
+- 11/27 14:30 [financialjuice] DUTCH MANUFACTURING CONFIDENCE ACTUAL 3.4 (FORECAST -, PREVIOUS 2.3) $MACRO
+- 11/27 14:33 [financialjuice] Shares of Shanghai iLuvatar CoreX Semiconductor rise 23%
+- 11/27 14:33 [financialjuice] Hong Kong shares of Hua Hong Grace Semiconductor rise over 18%
+- 11/27 14:33 [financialjuice] Shares of Minimax rise over 17%, up more than 15%
+- 11/27 15:00 [financialjuice] Russia prolongs aviation fuel export ban until March 31: IFX
