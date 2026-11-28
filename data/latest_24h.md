@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-11-28 09:12 JST／対象: 11/27 09:12 〜 11/28 09:12 JST（時刻はすべて日本時間）
+生成: 2026-11-28 16:47 JST／対象: 11/27 16:47 〜 11/28 16:47 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
 | FirstSquawk | 0 | - | - | - |
-| financialjuice | 100 | 11/27 10:30 | 11/28 07:45 | ⚠ 239分（10:30→14:30） |
+| financialjuice | 86 | 11/27 16:49 | 11/28 16:00 | ⚠ 267分（07:45→12:12） |
 
 - 今回の取得: Telegramミラー 1/3（失敗: WalterBloomberg・firstsquaw）
-- 統合後 100 行（統合前 101 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 86 行（統合前 87 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 11/27 10:30 [financialjuice] CHINESE INDUSTRIAL PROFIT YTD ACTUAL 16.0% (FORECAST -, PREVIOUS 15.5%) $MACRO
-- 11/27 14:30 [financialjuice] DUTCH MANUFACTURING CONFIDENCE ACTUAL 3.4 (FORECAST -, PREVIOUS 2.3) $MACRO
-- 11/27 14:33 [financialjuice] Shares of Shanghai iLuvatar CoreX Semiconductor rise 23%
-- 11/27 14:33 [financialjuice] Hong Kong shares of Hua Hong Grace Semiconductor rise over 18%
-- 11/27 14:33 [financialjuice] Shares of Minimax rise over 17%, up more than 15%
-- 11/27 15:00 [financialjuice] Russia prolongs aviation fuel export ban until March 31: IFX
-- 11/27 16:00 [financialjuice] SWEDISH TRADE BALANCE ACTUAL -1.6B (FORECAST -, PREVIOUS 4.1B) $MACRO
-- 11/27 16:00 [financialjuice] SWEDISH GDP REVISED YOY ACTUAL 2.8% (FORECAST -, PREVIOUS 2.8%) $MACRO
-- 11/27 16:00 [financialjuice] SWEDISH GDP REVISED QOQ ACTUAL 0.5% (FORECAST -, PREVIOUS 0.4%) $MACRO
-- 11/27 16:01 [financialjuice] NORWEGIAN UNEMPLOYMENT RATE NSA ACTUAL 2.0% (FORECAST -, PREVIOUS 2.0%) $MACRO
-- 11/27 16:45 [financialjuice] FRENCH CONSUMER SPENDING MOM ACTUAL 0.0% (FORECAST 0.1%, PREVIOUS -0.5%) $MACRO
-- 11/27 16:45 [financialjuice] ❗ FRENCH GDP QOQ FINAL ACTUAL -0.2% (FORECAST -0.1%, PREVIOUS -0.1%) $MACRO
-- 11/27 16:45 [financialjuice] FRENCH NON-FARM PAYROLLS REVISED ACTUAL 0.0% (FORECAST -, PREVIOUS -0.1%) $MACRO
-- 11/27 16:45 [financialjuice] ❗ FRENCH HICP YOY PRELIM ACTUAL 3.2% (FORECAST 3.6%, PREVIOUS 3.7%) $MACRO
-- 11/27 16:46 [financialjuice] ❗ FRENCH CPI YOY NSA PRELIM ACTUAL 2.9% (FORECAST 3.4%, PREVIOUS 3.4%) $MACRO
-- 11/27 16:46 [financialjuice] ❗ FRENCH CPI MOM NSA PRELIM ACTUAL -0.7% (FORECAST -0.2%, PREVIOUS 0.4%) $MACRO
 - 11/27 16:49 [financialjuice] FRENCH HICP MOM PRELIM ACTUAL -0.7% (FORECAST -0.4%, PREVIOUS 0.4%) $MACRO
 - 11/27 17:00 [financialjuice] SPANISH CPI MOM FLASH ACTUAL -0.6% (FORECAST 0%, PREVIOUS 0.60%) $MACRO
 - 11/27 17:00 [financialjuice] SPANISH HICP MOM FLASH ACTUAL -0.7% (FORECAST -0.2%, PREVIOUS 0.5%) $MACRO
@@ -124,3 +108,5 @@
 - 11/28 07:44 [financialjuice] Cryptostar Corp plans shift to AI and HPC equipment hosting in Utah
 - 11/28 07:44 [financialjuice] Cryptostar Holdings forms strategic alliance with U.S. AI platform provider
 - 11/28 07:45 [financialjuice] Cryptostar Corp shareholders to vote on up to 30-for-1 stock consolidation
+- 11/28 12:12 [financialjuice] Saudi-led coalition: cruise missile launched by Yemen's Houthis toward Riyadh intercepted and destroyed
+- 11/28 16:00 [financialjuice] Musk: Google shows interest in leasing additional compute capacity from SpaceX
